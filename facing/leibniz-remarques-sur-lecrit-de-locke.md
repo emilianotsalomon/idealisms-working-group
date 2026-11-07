@@ -1,0 +1,113 @@
+---
+title: "Remarques sur l’écrit de Locke: Examination of Malebranche’s Opinion of Seeing All Things in God"
+author: Gottfried Wilhelm Leibniz
+year: 1962
+original_language: fr
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 6 (Berlin: Akademie-Verlag; 1990 printing) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the PDF text layer of a scan, ABBYY FineReader OCR, not corrected; measured 2026-11-01 on six scan pages of its volume (Sonnet transcriptions, sample_error_rate.py): about 0.5% of words misread; line-end splits rejoined from the scan’s text layer (softhyphen_join.py, 2026-11-01), 0.4% split or run together left; non-word rate 2.7% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority"
+translation: none
+canonical: "A VI,6: [p. N] are the pages of A VI,6"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Remarques sur l’écrit de Locke was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1962) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10093)
+---
+
+# G. W. Leibniz, *Remarques sur l’écrit de Locke* (1962)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## 35. REMARQUES SUR L’ECRIT DE LOCKE: EXAMINATION OF MALE- BRANCHE’S OPINION OF SEEING ALL THINGS IN GOD. [1708(?)]
+
+Überlieferung:
+
+L Konzept: LH IV 5, 2 Bl. 1—2. 2 Bog. 20. 32/4 S. (Unsere Druckvorlage.)
+
+E1 R. E. Raspe, Oeuvres philosophiques latines et françoises de feu Mr de Leibnitz,
+
+1765. 4°. S. 499-504.
+
+Neuere Drucke: 1. M. F. Thurot, Oeuvres de Locke et Leibnitz, 1839, S. 474 bis
+
+476; 2. J. E. Erdmann, G. G. Leibnitii opera philosophica, 1840, S. 450—452;
+
+3. C. I. Gerhardt, Philos. Schr., VI, 1885, S. 574—578; 4. A. Robinet,
+
+Malebranche et Leibniz, 1955, S. 397—401.
+
+Übersetzung: J. H. von Kirchmann, Die kleineren philosophisch wichtigeren
+
+Schriften, 1879, S. 165—171.
+
+Il y a dans les oeuvres posthumes de Mons. Lock, publiées à Londres en 1706. 8°. un Examen du sentiment du pere Malebranche qui porte, que nous voyons toutes choses en Dieu. Il reconnoit d’abord qu’il y a quantité de pensées delicates et de reflexions judicieuses dans le livre de la Recherche de la Verité. Et que cela l’a fait esperer d’y trouver quelque satisfaction sur la nature de nos idées. Mais il a remarqué d’abord (§. 2) que ce Pere se sert de ce que Mons. Lock appelle argumentum ad ignorantiam, en pretendant de prouver son sentiment, parce qu’il n’y a point d’autre moyen d’expliquer la chose: mais selon M. Lock cet argument perd sa force, lors qu’on considere la foiblesse de notre entendement. Je suis pourtant d’avis, que cet argument est bon, lors qu’on peut faire un parfait denombrement [p. 554] des moyens, et en exclure tous horsmis un. C’est meme dans l’Analyse que M. Frenicle se servoit de cette Methode de l’exclusion comme il l’appelloit. Cependant M. Lock a raison de dire qu’il ne sert de rien de dire que cette Hypothese est meilleure que les autres, s’il se trouve qu’elle n’explique point ce qu’on voudroit entendre, et enveloppe meme des choses qui ne sauroient s’accorder ensemble.
+
+::: editorial
+
+(zu S. 553) 20 J. Locke, Posthumous Works, 1706, n. 3. 23 N. Malebranche, De la recherche de la vérité, 1674—78.
+
+:::
+
+Aprés avoir consideré ce qu’il y a dans le premier chapitre, de la 2de partie du livre 3me, où le P. Malebranche pretend que ce que l’Esprit peut percevoir luy doit etre uni immediatement, M. Lock demande (§.3. et 4) ce que c’est que d’être uni immediatement, cela ne luy paroissant intelligible que dans les corps. Peut etre pourroit on repondre, que c’est que l’un opére immediatement sur l’autre. Et comme le P. Malebranche avouant que nos corps sont unis à nos ames, adjoute que ce n’est pas d’une maniere qui fasse que l’Ame s’en apperçoive, on luy demande (§. 5) qu’il explique cette maniere d’union, ou du moins en quoy elle differe de celle qu’il n’accorde pas. Le P. Malebranche dira peut être qu’il ne connoit l’union de l’ame avec le corps que par la foy, et que la nature du corps consistant dans l’etendue seule, on n’en peut rien tirer qui serve à faire entendre son operation sur le corps: il accorde une union inexpliquable, mais il en demande une qui serve à expliquer le commerce de l’ame et du corps.
+
+Il pretend aussi de rendre raison pourquoy les estres materiels ne sauroient étre unis avec l’ame comme on le demande, c’est parce que ces Etres étant etendus, et l’ame ne l’estant point, il n’y a point de proportion entre eux. Mais c’est là, où M. Lock demande fort à propos (§. 7) s’il y a plus de proportion entre Dieu et l’ame. En effect il semble que le R. P. Malebranche devoit alleguer non pas le peu de proportion, mais le peu de connexion qui paroit entre l’ame et le corps; au lieu qu’il y a une connexion entre Dieu et les creatures qui fait qu’elles ne sauroient exister sans luy.
+
+Lors que ce Pere dit (§. 6) qu’il n’y a point de substance purement intelligible que celle de Dieu, j’avoue que je ne l’entends pas assés bien moy même. Il y a quelque chose dans l’ame que nous entendons distinctement, et il y a bien des choses en Dieu que nous n’entendons point du tout.
+
+M. Lock (§. 8) fait une remarque sur la fin du chapitre du Pere, qui revient à mes sentimens car pour faire voir que ce Pere n’a pas exclu tous les moyens d’expliquer la chose,iladjoute[,] si je disois qu’il est possible queDieu ait fait nos ames en sorte et les ait tellement unies au corps que sur certaines motions du corps, l’ame [p. 555] eût telles ou telles perceptions mais d’une maniere inconcevable à nous[,] j’aurois dit quelque chose d’aussi apparent et d’aussi instructif que ce qu’il dit. M. Lock en disant cela paroit avoir envisagé mon Systeme de l’harmonie préétablie ou quelque chose d’approchant.
+
+::: editorial
+
+(zu S. 554) 4 qu'elle (1) enveloppe des contradictions et des obscurités (2) n’explique point L 11 f. maniere qui (1) soit necessaire pour que (a) le corps (b) l’ame (2) fasse que l'Ame L 20 entre (1) ces deux substan (2) eux. L 28 point (1) distinctement. (2) du tout. L
+
+:::
+
+Il objecte (§. 20) que le soleil est inutile, si nous voyons le soleil en Dieu. Comme cet argument iroit aussi contre mon systeme, qui pretend que nous voyons le soleil en nous; je reponds que le soleil n’est pas seulement fait pour nous; et que Dieu veut nous faire representer des verités sur ce qui est hors de nous. Il objecte aussi (§.22) qu’il ne conçoit pas comment nous puissions voir quelque chose confusement en Dieu, où il n’y a point de confusion. On pourroit repondre que nous voyons les choses confusement, quand nous en voyons trop à la fois.
+
+Le P. Malebranche ayant dit que Dieu est la place des Esprits, comme l’espace est la place des corps; M. Lock dit (§.23) qu’il n’entend pas un mot de cela. Mais il entend au moins Espace, place, corps. Il entend aussi que le Pere met une analogie, entre Espace lieu corps et Dieu lieu esprit.
+
+Ainsi une bonne partie de ce qu’il dit icy est intelligible; on peut seulement objecter que cette Analogie n’est point assés prouvée: quoyqu’on s’apperçoive aisement de quelques rapports qui peuvent donner lieu à la comparaison. Je remarque souvent que certaines gens tachent d’eluder ce qu’on leur dit par cette affectation d’ignorance, comme s’ils n’y entendoient rien; ce qu’ils font non pas pour se blamer eux mêmes, mais ou pour blamer ceux qui parlent, comme si leur jargon étoit non intelligible; ou pour s’elever au dessus de la chose et de celuy qui la debite, comme si elle n’estoit point digne de leur attention. Cependant M. Lock a raison de dire que le sentiment du P. Malebranche est non-intelligible par rapport à ses autres sentimens, puisque chez luy Espace et Corps est la même chose. La verité luy est echappée icy, et il a conçu quelque chose de commun, et d’immuable, au quel les corps ont un rapport essentiel, et qui fait meme leur rapports entre eux. Cet ordre donne lieu à faire une fiction, et de concevoir l’Espace comme une substance immuable; [p. 556] mais ce qu’il y a de reel en cette Notion regarde les substances simples (sous les quelles les esprits sont compris) et se trouve en Dieu qui les unit.
+
+::: editorial
+
+(zu S. 555) 3—5 mon Systeme | de l'harmonie préétablie ajouté | ou quelque chose d’approchant |: s'il avoit omis ces paroles: et les a tellement unies au corps barré |. Il L 25f. chose. (1) Dans la verité des choses l'espace en tant qu’il est reel, est (a) l'immensité de Dieu et ce qui le soutient (b) un ordre qui le soutient, c'est (2) La verité ... conçu L 26 et (1) d'inchangeable (2) d’immuable L 27 eux. (1) Et l'on peut dire que (a) l’entendement de Dieu a le même rapport (b) les esprits ont le même rapport à l (2) Cet L
+
+:::
+
+Le Pere disant que les idées sont des estres representatifs M. Locke a sujet (§. 26) de demander si ces estres sont des substances, des modes, ou des relations. Je crois qu’on peut dire que ce ne sont que des rapports qui resultent des attributs de Dieu.
+
+Quand M. Lock declare §. 31 qu’il ne comprend point comment la varieté des idées est compatible avec la simplicité de Dieu, il me semble qu’il n’en doit point tirer une objection contre le P. Malebranche; car il n’y a point de systeme qui puisse faire comprendre une telle chose. Mais aussi [nous] ne pouvons pas comprendre l’incommensurable, et mille autres choses dont la verité ne laisse pas de nous être connue; et que nous avons droit d’employer pour rendre raison d’autres qui en sont dependantes. Quelque chose d'approchant a lieu dans toutes les substances simples, où il y a une varieté des affections dans l’unité de la substance.
+
+Le Pere soutient que l’idée de l’infini est anterieure à celle du fini. M. Lock objecte §. 34 qu’un enfant a plus tost l’idée d’un nombre, ou d’un quarré, que celle de l’infini. Il a raison en prenant les idées pour des images; mais en les prenant pour les fondemens des notions; il trouvera, que dans le continuum, la notion d’un étendu pris absolument est anterieure à la notion d'un etendu, où la modification est adjoutée. Il faut appliquer encor cela à ce qui se dit §. 42 et §. 46.
+
+L’argument du Pere que M. Lock examine §. 40 (comptés §. 35) n’est pas à mepriser, que Dieu seul estant la fin des esprits, en est aussi l’objet unique. Il est vray qu’il s’en faut quelque chose, pour qu’on puisse l’appeller une demonstration. Il y a une raison plus concluante, qui fait voir que Dieu est le seul objet immediat externe des Esprits; c’est qu’il n’y a que luy qui puisse operer sur eux.
+
+On objecte §. 41 (comptés §. 36) que l’Apostre commence par la connoissance des creatures pour nous mener à Dieu, et que le Pere fait le contraire. Je crois que ces methodes s’accordent, l’une procede a priori l’autre a posteriori; et la derniere est la plus commune. Il est vray que la meilleure voye de connoitre les choses est celle qui va par leur causes, [p. 557] mais ce n’est pas la plus aisée. Elle demande trop d’attention, et les hommes ordinairement donnent leur attention aux choses sensibles.
+
+::: editorial
+
+(zu S. 556) 1 f. mais (1) Dieu est reellement une telle substance par rapport aux esprits. (2) ce qu’il ... cette (a) substance se trouve en Dieu (b) Notion regarde les (aa) esprits (bb) substances . . . unit. L 17 la (I) conception (2) notion L
+
+25 l'Apostre: Paul, Aux Romains I, 20.
+
+:::
+
+En repondant au §. 34. j’ay remarqué la difference qu’il y a entre image et idée. Il semble qu’on combat cette difference §. 38. en trouvant de la difficulté dans la difference qu’il y a entre sentiment et idée. Mais je crois que le Pere entend par sentiment une perception d’imagination; au lieu qu’on peut avoir des idées des choses qui ne sont point sensibles, ny imaginables. J’avoue que nous avons une idée aussi claire de la couleur [de la violette], que desafigure (commeonobjecte icy) mais non pas aussi distincte ny aussiintelligible.
+
+M. Lock demande si une substance indivisible et non-etendue, peut avoir en meme temps des modifications differentes, et meme qui se rapportent à des objets inconsistens. Je reponds qu’ouy. Ce qui est inconsistent dans un meme objet, n’est pas inconsistent dans la representation de differens objets qu’on conçoit tout à la fois. Il n’est point necessaire pour cela qu’il y ait de differentes parties dans l’ame, comme il n’est point necessaire qu’il y ait de differentes parties dans le point, quoyque de differens angles y aboutissent.
+
+On demande avec raison §. 43, comment nous connoissons les creatures, si nous ne voyons immediatement que Dieu. C’est que les objets dont Dieu nous fait avoir la representation, ont quelque chose qui ressemble à l’idée que nous avons de la substance. C’est ce qui nous fait juger qu’il y a d’autres substances.
+
+On suppose §. 46. que Dieu a l’idée d’un angle qui est le plus prochain de l’angle droit, mais qu’il ne montre à personne quelque desir qu’on puisse avoir de l’avoir. Je repondsqu'un tel angle est une fiction, comme la fraction la plus prochaine de l’unité; ou le nombre le plus prochain du Zero, òu le moindre de tous les nombres. La nature de la continuité ne permet pas qu’il y ait rien de tel.
+
+Le Pere avoit dit que nous connoissons notre ame par un sentiment interieur de conscience, et que pour cela la connoissance de notre ame est plus imparfaite que celle des choses que nous connoissons en Dieu. M. Lock y remarque fort à propos §. 47 que l’idée de notre ame etant en Dieu aussi bien que celle des autres choses, nous la devrions voir aussi en Dieu. La verité est, que nous voyons tout en nous et dans nos ames, et que la connoissance que nous avons de l’ame est trés veritable et juste, pourveu que nous y prenions garde. Que c’est par la connoissance que nous avons de l’Ame, que nous connoissonsl’Estre, la substance, Dieu meme, et que c’est par la reflexion sur nos pensées que nous connoissons l’etendue et les corps. Et qu’il est vray cependant que Dieu nous donne tout ce qu’il y a de positif en cela, et toute perfection y est enveloppée, par une emanation immediate et continuelle, [p. 558] en vertu de la dependence que toutes les creatures ont de luy, et c’est par là qu’on peut donner un bon sens à cette phrase que Dieu est l’objet de nos ames, et que nous voyons tout en luy.
+
+::: editorial
+
+(zu S. 557) 7 f. couleur du violet, que L 21 est (1) imaginaire (2) une fiction L
+
+:::
+
+Peut estre que le dessein du Pere qu’on examine §. 33 en disant que nous voyons les essences des choses dans les perfections de Dieu, et que c’est la raison universale qui nous éclaire; tend à faire remarquer que les attributs de Dieu fondent les notions simples que nous avons des choses, l’estre, la puissance, la connoissance, la diffusion, la durée, prises absolument estant en luy, et n’estant dans les creatures que d’une maniere limitée.

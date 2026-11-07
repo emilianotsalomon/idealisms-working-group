@@ -1,0 +1,59 @@
+---
+title: Reneguemos del latinismo
+title_en: Let Us Renounce Latinism
+author: José Vasconcelos
+year: 1925
+original_language: es
+translation_language: none
+edition_layout: original text only (no translation)
+collection: Obras (vasconcelos-obras-v2)
+order: 6.2
+source: "José Vasconcelos, *Reneguemos del latinismo*, *La Nueva Democracia*, January 1925 (reprinted from *La Antorcha*); transcribed in the HTML reader ‘6.2 Reneguemos del Latinismo.html’"
+original_text: transcription as in the HTML reader (see its note on the text)
+translation: none
+pages: 2
+genre: Latin American philosophy
+generated: 2026-10-24 by corpus.py
+rights: public domain in the US (published 1925, pre-1931); Vasconcelos died in 1959, so in Mexico the text stays protected to 2059.
+public: true
+---
+
+# José Vasconcelos, *Reneguemos del latinismo* (1925) — *Let Us Renounce Latinism*
+
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
+
+## [p. 7] Reneguemos del Latinismo
+
+Lic. José Vasconcelos — Enero de 1925
+
+La Nueva Democracia (reproducido de *La Antorcha*)
+
+*[Note on the text: Toda producción literaria del Licenciado Sr. Vasconcelos está llamada a despertar profundo interés. Si a esto se añade que en este artículo el Sr. Vasconcelos afronta uno de los problemas histórico-sociales de más trascendencia para Hispanoamérica, huelga decir que el interés queda centuplicado. Al reproducir, con permiso especial, este artículo que salió hace poco en “La Antorcha”, quisiéramos que nuestros lectores lo leyeran con el mismo espíritu con que lo reproducimos, a saber, como base para discutir en su pro y en su contra, problema tan trascendental. Esperamos que varios escritores tomen la palabra.]*
+
+Desde que nacemos hasta que perdemos la conciencia, todo el que vive en estos supuestos países latinos, tiene que estar soportando la alabanza hiperbólica, el entusiasmo sin discusión por todo lo que es latino. El alma latina, la civilización latina, el orgullo del imperio y la herencia de aquellas cualidades de claridad, disciplina y dominación que se sobreentiende son el atributo de nuestro temperamento. Temperamento ilustre porque algo conserva de la cultura o de la sangre de aquella prosapia conquistadora. Sin embargo, toda esta hueca palabrería se deshace frente al más superficial análisis, y se explica sólo como un caso de tardía veneración del esclavo que en el colmo de la sumisión idealiza por igual las virtudes y los defectos del amo. Supervivencia del efecto moral de la conquista, siglos después de que ha desaparecido el poder material del conquistador. Y un yugo vil, el más vil de los yugos, puesto que se apoya en una voluntaria sumisión y en el desconocimiento de los valores verdaderos.
+
+Por mi parte, jamás he sentido los entusiasmos latinos, acaso porque en mi sangre persiste el latido indignado de algún ibero que se remontó a las selvas huyendo del poderío romano, o bien por mi sangre de indio, o por ambas, pero el hecho es que jamás me han deslumbrado las glorias latinas. Todo lo contrario, comúnmente las he visto con el rencor trascendental con que se contempla el triunfo mundano de lo mediocre. Llevado de mi sentimiento que es mi guía, de la emoción que siempre ha mandado en mi cabeza, porque la cabeza ha de usarse sólo para orientar una pasión generosa, me rebelo contra los alardes de la latinidad antigua, así como me río de Mussolini, coronado de César de opereta, sólo unos meses después de que Roma estuvo controlada por la policía inglesa con pretexto de la gran guerra.
+
+Mirando rápidamente, ¿qué es lo que representa en la historia de la civilización el latinismo? Observemos los dos períodos clásicos, la República y el Imperio. La República organizó la vida cívica, la familia, la ciudad, el derecho privado y público. Todo esto lo hizo, no a la manera libre de Atenas, sino conforme a un principio que había de ser característica de la civilización nueva, un principio constructivo, pero sin vuelo: la disciplina, el reglamento, la norma. Todo útil como medio, pero opresor y perverso cuando se convierte en fin. Sin embargo, este es el aporte fundamental del espíritu latino, en vez de la libertad, la norma. No el fondo, sino la forma. Ya antes de que aparecieran estas gentes sin alma, el pueblo griego, disciplinado, pero además inspirado, había superado a todos los pueblos. Frente a Grecia, Roma es un retroceso. El triunfo de Roma sobre Grecia —esto lo sienten los niños que estudian historia— es un paso atrás en el progreso del mundo. Grecia era el genio, la invención, el entusiasmo, la videncia, la gloria. Grecia quería el poder para propagar la luz. Roma, incapaz siquiera de copiar a Grecia, se disciplinaba para dominar. No tenía ideales que propagar, pero tenía ambiciones de dominio y de riqueza. Sus guerras con los fenicios fueron francamente comerciales, como cualquier guerra moderna, y tan fenicios eran, en el sentido interesado del término, los cartagineses, como los romanos. No se debatió en las guerras púnicas ningún alto ideal humano. Roma nunca combatió ni por ideal, ni por religión, ni por arte. Su pasión de mero dominio la hace precursora de los imperialistas modernos, pero no de los cruzados, ni de los conquistadores de América, ni de ninguno de los verdaderos héroes del mundo. Ausencia de ideal, ausencia de religión, incapacidad artística, sentido práctico para dominar la tierra: esto fue el Imperio. Esto hace de Roma una nación odiosa desde la época de la República.
+
+Los dos, los tres grandes sucesos de la historia: la cultura helénica, la doctrina cristiana y el socialismo [p. 8] moderno, son los tres enemigos de Roma, contrarios al espíritu de Roma.
+
+Las legiones romanas evitaron que la cultura helénica se extendiese por Europa y llegara incontaminada hasta la América. Roma hizo todo lo que pudo para evitar el triunfo del ideal cristiano, que es igualitario y piadoso. Roma supo de justicia, pero no sospechó la piedad. Una justicia peculiar, un derecho severamente organizado para beneficio de los ciudadanos, de los amos, de los dominadores; un derecho en el que no tenía esperanza el esclavo; un derecho consolidado por la espada, sobre el cadáver ensangrentado de las huestes de Espartaco. El socialismo moderno ha vuelto a poner en pie las huestes de Espartaco y se dedica a reformar la obra cruel del ingenio romano: el derecho de los amos, el derecho impuesto por la lanza y la espada, el derecho de los conquistadores. Al proceder de esta suerte, el socialismo moderno contraría y anula la obra de Roma, y se junta con el otro gran enemigo de Roma, el ideal cristiano que, además de justicia, predica piedad y amor entre los hombres.
+
+¿Cuál fue entonces la esencia del romanismo, la característica social de la estirpe? El sistema de la jerarquía fundada en la fuerza; la reglamentación excesiva que mata la libertad; el culto de la persona humana que trae consigo todo el envilecimiento que se vio en el Imperio. Directamente de Roma proceden el pretorianismo latinoamericano y el capitalismo moderno. Es decir, otra vez, lo latino, estorbando el progreso.
+
+Dejémonos de latinismo, hagamos que nuestra América sea hispánica, que sea ibérica, que sea india, que sea universal, pero no latina. ¿Qué idea podemos tomar de los latinos, si la misma Roma, por pobreza de ideas, tuvo que declarar filósofo a Séneca? ¿Cómo hemos de empeñarnos en inventar parentescos con un pueblo cuyo genio literario es Cicerón? ¿Y por qué seguir afirmando que es muy dulce el seco Virgilio, si ya nadie lo recordaría, más que los estudiantes de literatura, a no haberle citado magnánimamente el Dante?
+
+Por cualquier lado que lo latino se mire, se nos aparece el odioso rasgo fundamental de la organización jerárquica; el afán de implantar categorías, pero no el noble afán de categorías de un Aristóteles, de un Kant, que anhelan ordenar las cosas para poder pensarlas. ¡Pensar es algo que jamás preocupó al romano! El ordenamiento latino tiene por objeto la acción, para fines prácticos. La acción del latino es firme, pero no sabe de trascendentalismos y de esplendores, no es generosa como la del cristianismo, ni sublime como la del héroe. Decir latino es decir limitado, definido, aun grande, pero sin grandeza moral o estética, sin espíritu. Raza antimística, raza odiosa.
+
+Donde el latino pone su norma fría, el ideal se corrompe o se ausenta. El cristianismo era la revolución moderna, la organización económica equitativa en el trabajo y en la recompensa, pero lo tomó Roma y lo volvió liturgia, boato papal y organización mundana. El día en que Constantino hizo de la cruz un lábaro sangriento, el cristianismo dejó de ser religión y se volvió política; bajó de nivel, se petrificó en reglas, se hizo romano.
+
+El cristianismo es libertad para todos los hombres y lo latino es jerarquía, no libertad. A la caída del Imperio romano, la libertad vuelve a aparecer amparándose en la anarquía de la barbarie; organizándose en los municipios de Italia y de Holanda y de España. La Reforma es una protesta contra el romanismo —protesta más hermosa y radiante en Savonarola que en Lutero—, pero contraria siempre al formulismo latino. Lo que Italia tiene de genio se debe a que durante muchos siglos se han mezclado en su suelo glorioso todas las razas. Así se explica el milagro del Dante. Y el Renacimiento es una protesta de Italia contra el espíritu románico imperial, que se ha vuelto germánico, y una alianza con el alma divina de Grecia.
+
+Francia, la clara Francia, cobra personalidad desde que vuelve a ser Galia. Su inteligencia le viene de Grecia y su ansia de libertad es vernácula. La mayor protesta que se ha hecho contra Roma es la de su gran Revolución. De lo latino sólo ha recibido una gran calamidad: Napoleón. El capitalismo moderno también es latino. Se ha desarrollado al amparo del maquinismo inglés, pero su doctrina es la de los antiguos romanos.
+
+Reneguemos del latinismo que desprecia el trabajo y sacrifica la libertad, para exaltar al soldado y la guerra. No somos latinos ni por la sangre ni por el espíritu. La misma Italia renegará su latinismo, así que se harte de atrocidades fascistas. Dividamos y nombremos nuestra civilización conforme a la verdad del espíritu. ¡Hermandad estrecha de los iberoamericanos con España y con Italia y con Francia, pero no porque seamos latinos, sino porque representamos un concepto emotivo de la vida, y queremos que la ley suprema llegue a ser la ley de belleza! La civilización nórdica cree en la ética, nosotros en la estética. Para ellos la razón suprema es el deber; para nosotros la razón suprema es la belleza. Hagamos que nuestro concepto de belleza sea muy claro y muy alto. Y unidos todos los hombres en fraternidad verdadera, proclamemos el triunfo de todo lo que Roma combatió o no supo entender. ¡El triunfo de la libertad y el amor! ¡La derrota del capitalismo y del Imperio!
+
+⁂
+
+*[Note on the text: *Pensamiento* — pieza breve y anónima impresa al pie de la misma página, sin firma de Vasconcelos: “Procura mantener limpio el corazón. El corazón es el vidrio de las apreciaciones. Cuando está empañado, la refracción hace que las cosas aparezcan de distinta manera. Cuando está obscurecido del todo, no se puede ver por la reflexión. Manteniéndolo limpio, las cosas pasarán íntegras, tales como son.”]*

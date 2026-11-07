@@ -1,0 +1,987 @@
+---
+title: Demonstrationes catholicae und Kirchenfrage
+author: Gottfried Wilhelm Leibniz
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the publisher's text layer of the typeset edition PDF (no OCR); the editors' apparatus fenced as ::: editorial; not collated by us against the scan; the printed edition is the authority"
+translation: none
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Demonstrationes catholicae und Kirchenfrage was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10173)
+---
+
+# G. W. Leibniz, *Demonstrationes catholicae und Kirchenfrage* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## 388. DE JUDICE CONTROVERSIARUM [1. Hälfte 1677 (?)]
+
+Zur Datierung vgl. N. 386. 3881. ERSTER ANSATZ
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 40–41. 1 Bog. 2o. 1/2 S. auf Bl. 40 ro, gestrichen.
+
+De Judice Controversiarum
+
+Judex controversiarum est, cujus judicio controversiae terminantur.
+
+::: editorial
+
+(zu S. 2155) 5 durabilem erg. L2 12 f. Controversiarum (1) Controversiae sunt vel de (a) veritate vel de eo quod (aa) credendum, (bb) sentiendum erg. vel de eo quod agendum est sent (b) veritate (c) animi sententia atque veritate vel de rerum extranearum erg. possessione. Judex controversiarum est cujus judicium infallibile est. (aa) Judex controversiarum de possessione ille est (bb) Possessionem voco potestatem in rem. Ille enim rem possidere videtur, qui eam habet in potestate. Judex controversiarum de possessione est, quisquis potentissimus est. (aaa) Nam judicium ejus infallibile est, (bbb) Nam qui potentissimus est, is voluntate sua (aaaa) alte (bbbb) possessionem dat adimitque, ideo non mirum est judicium ejus de possessionibus esse infallibile, quoniam pendet ab ejus voluntate. Judex controversiarum de veritate est quisquis effi (2) Judex L
+
+:::
+
+[p. 2156] Controversiae sunt vel de animi sententia atque veritate, vel de rerum extranearum possessione. Controversiarum de possessionibus motarum judex est quisquis satis potens est. Quantum scilicet satis est ad dandam adimendam atque conservandam possessionem. Ejus enim voluntate cum detur conserveturque possessio, frustra post ea movetur controversia de possessione: et superest tantum quaestio de veritate. Possunt enim in Republica efficere judices ut cedamus re nostra, ut injuriam etiam facientibus non resistamus, non vero ut credamus actionem fuisse justam. Etsi contradicere non audeamus imo ne debeamus quidem. Ego enim arbitror, summae potestati in Republica deberi non quidem obedientiam absolutam, attamen patientiam sive irresistibilitatem, qui veteris etiam Ecclesiae mos fuit.
+
+Controversias de eo quod sentiendum sit, ille solus terminare potest, qui aliis quidvis persuadere potest. Quoniam enim judicem definivimus, qui controversias terminat, ille vero solus controversias in animi sententia consistentes terminat, qui contrarias animi sententias tollit, id est qui persuadet; patet illum esse judicem controversiarum qui potestatem habet persuadendi.
+
+Absolute loquendo nullus datur judex controversiarum, nisi unusquisque sibi. Quoniam nemo potestatem habet alteri persuadendi quidvis. 3882. ENDGÜLTIGE FASSUNG
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 40–41. 1 Bog. 2o. 1 S. auf Bl. 40 ro u. vo.
+
+4 enim (1) judicio (2) voluntate L 5 post ea erg. L 7 f. Etsi (1) facta (2) contradicere L 10 fuit. (1) Controversiam de sententia animi (2) Controversias L
+
+[p. 2157] De Judice Controversiarum prop. 1. Controversia est quaestio, circa quam opiniones contrariae habentur. Est definitio. prop. 2. * Judex controversiarum est, cui jus est controversias terminandi. Est definitio. prop. 3. Terminare controversiam est efficere ut nullae amplius habeantur opiniones contrariae. Nam * terminare sive finire aliquid est facere ut esse desinat. Controversia autem esse desinit, cum opiniones contrariae nullae amplius habentur per prop. 1. prop. 4. Jus terminandi controversias pendet a potentia eas terminandi. Nam quia nulla est obligatio credendi ut alibi dixi, nulla est obligatio abdicandi opinionem. Ergo nec jus in alio eam mihi tollendi, nisi id reapse praestare possit etiam me invito. prop. 5. Judex controversiarum est in cujus potestate est controversias terminare. Nam judex controversiarum ille est, cui eas terminandi jus est, prop. 2. id est potentia per prop. 4. prop. 6. Quisquis est judex controversiarum in ejus potestate alterutrum horum esse debet, oblivionem hominibus inducere controversiae, aut efficere ut persuadeantur. Nam judex controversiarum debet eas posse terminare per prop. 5. id est efficere ut opiniones contrariae cessent prop. 3. * Cessant autem opiniones duobus modis, vel oblivione, vel mutatione in aliam opinionem ergo judex controversiarum debet efficere posse vel oblivionem vel persuasionem. prop. 7. In cujus potestate est persuadere, in ejus potestate esse debet excitare attentionem. Nam * persuadere est facere ut credas. Credere est rationum conscium esse (ut alibi dixi). Conscientia nulla est sine attentione. Ergo nemo potest persuad〈ere〉 quin attentionem possit [bricht ab]
+
+::: editorial
+
+(zu S. 2157) 1 f. Controversiarum. (1) defin. 1. (2) prop. 1. erg. L 4 prop. 2. erg. L 4 est, (1) cujus judicio controversiae terminantur (2) in cujus judicio est controversias terminare (3) cui terminandi. L 6 prop. 3. erg. L 9 amplius erg. L 10–16 prop. 4. . . . per prop. 4. erg. L 17 prop. (1) 4. (2) 6. (a) Persuadere (b) Quisquis L 17 potestate (1) est persuadere (2) alterutrum (a) autem (b) horum L 23 prop. (1) 5. (2) 7. (a) Si ponatur agitari (b) Durante 〈 – 〉 (c) In L 25 Nam (1) * creder (2) persuadere L 25 esse. (1) Consc〈ien〉tia non est (2) (ut L 26 nemo . . . persuad〈ere〉 erg. L
+
+4 Die Bedeutung der Sternchen konnte nicht ermittelt werden. 11 alibi dixi: s. N. 387.
+
+:::
+
+[p. 2158] prop. 8. * Nullus homo est, qui in alio possit pro habitu efficere oblivionem vel attentionem.
+
+Haec propositio non ratione ostendi potest, sed ab experientia pendet.
+
+prop. 9 Absolute loquendo nullus homo est judex controversiarum respectu alterius.
+
+Nam absolute loquendo in nullius hominis potestate [est] efficere oblivionem aut attentionem in alio per prop. 8. et quia attentio necessaria est ad persuasionem per prop. 7: ideo, absolute loquendo in nullius hominis potestate [est] efficere semper oblivionem aut persuasionem in alio. Ergo per prop. 6. absolute in nullius hominis potestate est controversias terminare. Id est per prop. 5. absolute loquendo nullus homo est judex controversiarum.
+
+Dico autem absolute loquendo nam de reliquo fateor posita attentione in auditore, et opinione infallibilitatis in docente, posse aliquem judicem esse controversiarum. Sed necesse est, ut antea apud alium judicem id est apud me ipsum probet se judicem esse, unde absolute loquendo ego solus hominum controversiarum penes me judex sum. Ut postea ostendam.
+
+Datur certa methodus examinandi an argumenta vim concludendi habeant an non. Omnia argumenta reduci possunt ad formam talem: Omne A est B, omne B est C. Ergo omne A est C, hoc ex Logicis suppono. Quae forma cum sit indisputabilis, examinandae sunt tantum propositiones duae assumtae, Omne A est B, item omne B est C. Hae propositiones nisi vel sint per se notae, vel probentur rursus, validum non est [p. 2159] argumentum. Per se notae sunt illae propositiones quae vel experientia constant, vel quae constant ex terminis, sive quarum oppositum implicat contradictionem. Quorum utrumque dijudicare in potestate est. Ut probentur rursus opus est argumento quod ad eandem formam reduci potest. Redit ergo eadem ratiocinatio, et vel is qui argumentatur, deficiet tandem in probando, sive allegabit aliquod quod hoc modo probare non possit, et tunc totum cadet ejus argumentum vel tandem omnia reducet ad propositiones per se notas, et propositio erit demonstrata. Neque refert quod quaedam sunt probabilia tantum, nam de his demonstrari potest ipsa probabilitas. 3883. RICHELIEU ET DE GROOT EN CONTROVERSES
+
+::: editorial
+
+(zu S. 2158) 1 prop. (1) 6. (2) 8. erg. L 6 Nam (1) nullus homo (a) efficere potest, ut controversiae (b) in potest (2) absolute loquendo L 7 in alio erg. (1) ergo qui (2) per prop. (a) 6. (b) 8. erg. (aa) 〈eni〉 (bb) et quia L 7 f. prop. (1) 5. (2) 7. erg. L 8 absolute loquendo erg. L 8 semper erg. L 9 in alio erg. L 9 prop. (1) 4. (2) 6. erg. absolute erg. L 10 prop. (1) 4 (2) 5. erg. L 10 homo erg. L 13 opinione (1) scientiae docentis (2) infallibilitatis L 16 ostendam. (1) prop. 8. Absolute loquendo sibi quisque est judex co (2) Solus hominum sibi quisque judex controversiarum est. Nam etsi in mea potestate non sit efficere in me oblivionem, est tamen in mea potestate efficere attentionem. Et m (3) prop. 8. Absolute loquendo solus hominum sibi quisque controversiarum judex est. * Nam opinionem aliquam amplectendo facit cessare contrariam saltem apud se (nam nemo duas simul opiniones habere potest, tametsi dubitare possit, id est habere neutram). Ergo potentiam habet. (a) Ex omni attentione (aa) sequitur (bb) ad (aaa) contr (bbb) controversiam quandam (b) Ex omni attentione ad quaestionem erg. sequitur opinio. Nam (aa) ex attentione (bb) sequitur opinio (cc) sequuntur (dd) attentione posita vel offerunt se (aaa) rationes vel (bbb) rationes decidendi vel non offerunt. Si offerunt sese, ex illis sequitur opinio (nam ut alibi dixi opinionem habere, sive aliquid pro vero habere est rationum conscium esse [)]. Si nullae se offerunt rationes decidendi, (aaaa) vel si offerunt se (bbbb) se (cccc) tunc vel nullae plane offerunt se rationes, vel rationes consistunt in aequilibrio. In uniuscujusque gestr. Datur L 21 nisi (1) probantur (a) argumentum (b) aut (aa) certae (bb) ut (cc) pro certis admittuntur, (2) vel . . . notae L
+
+:::
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 40–41. 1 Bog. 2o. 1/4 S. auf Bl. 41 ro.
+
+Le Cardinal de Richelieu entendoit les controverses à fonds, comme chacun sçait, et prenoit plaisir d’en parler avec les habiles gens. Un jour il fit venir Monsieur de Groot pour conferer avec luy. Mais il faut sçavoir que Mons. de Groot alors etoit tout autre qu’il n’avoit esté dans sa jeunesse: car ayant jetté ce feu de dispute, qui échauffe plus qu’il n’éclaire; et estant revenu à cette simplicité obeissante qui seule est agreable à Dieu, il envisageoit les controverses tout autrement qu’il n’avoit fait.
+
+Le Cardinal l’ayant veu luy dit, je seray bien aise Monsieur d’entendre vostre sentiment sur le moyen de reconcilier les controverses, car je sçay que vous avez fort medité là dessus.
+
+G. Il est vray que cette étude m’a occupé assez long temps; mais V. E. me permettra de luy dire, que j’en suis revenu.
+
+::: editorial
+
+(zu S. 2159) 1 argumentum. (1) Certae (2) Per se notae L 1 vel (1) sensu (2) experientia erg. L 13 luy. (1) Ce fut lorsque Mons. de G (2) Mais L 15 obeissante erg. L 15 seule (1) peut estre (2) est erg. L 16 Dieu, (1) les yeux (2) il L 17 aise Monsieur erg. (1) de vous (2) d’entendre (a) parler sur (aa) ce (bb) les controverses (b) vostre L
+
+11–S. 2160.5 Vgl. den im Dezember 1676 geplanten Dialogue entre le Cardinal de Richelieu et Mons. de Groot touchant la reconciliation des religions (VI, 3 S. 399).
+
+:::
+
+[p. 2160] R. Comment vous ne trouvez donc plus digne de Vous, ce qui exerce tant de personnes.
+
+G. Il est vray qu’il n’y a point de chemin si aisé à la reputation que la voye des controverses. Un homme qui est versé un peu dans l’antiquité, et qui avec cela sçait l’art de raisonner n’a point de peine d’y reussir. 3884. DE UTILITATE CONTROVERSIARUM.
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 40–41. 1 Bog. 2o. 9 Zeilen auf Bl. 41 ro, gestrichen.
+
+De Utilitate controversiarum
+
+Controversiae de Unitate et Schismate Ecclesiae Cum controversiarum vexa[bi]lissimae sint quae de Unitate Ecclesiae et Schismate agitantur, harum utilitatem expendi suffecerit. Schisma ideo malum est, quia laedit caritatem, quod communi Sanctorum Patrum consensu ostendi potest.Ergo qui pr [bricht ab] 3885. DE UTILISSIMO CONTROVERSIARUM GENERE
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 40–41. 1 Bog. 2o. 1/2 S. auf Bl. 41 ro.
+
+1 f. Vous, (1) une recherche (a) qui doit estre si importante, puisqu’elle (b) si importante (2) ce personnes L 3 G. (1) je ne la méprise pas, mais je tiens qu’elle est inutile, tandis que nous negligeons une autre (2) il L 10 controversiarum (1) agitatissimae (2) vexalissimae ändert Hrsg. L 11 agitantur, (1) suffecerit (2) de hisce judicium (3) harum L 11 quia (1) adversatur caritati. (2) laedit L
+
+[p. 2161] De Utilissimo Controversiarum Genere
+
+In tanto controversiarum numero minime necessarias maxime agitari semper sum miratus. Communis opinio est non errorem sed improbitatem pertinacem facere haereticum. Schisma quoque non alia magis in re quam caritatis laesione constare. Ante omnia ergo de vera probitatis atque caritatis natura disputandum esset nobis, si solida magis quam speciosa amaremus. Quoniam valde verisimile est non nocere errorem sine impietate, et plane certum est non prodesse fidem sine caritate.
+
+Neque vero putandum est exploratam satis omnibus verae Caritatis naturam esse, alioqui omnes divino quodam ardore succensos videremus; cum cognita bona non possint non desiderari. Neque vero dubitassent aliqui an nullo actu amoris Dei super omnia exercito salvari quisquam possit; neque contritionem minime in potestate esse arbitrarentur, neque ineptas saepe et a vera caritate alienas praescriberent formulas, neque amorem Deo debitum in creaturas transferrent, si satis scirent quid sit Deum super omnia amare.
+
+Amplius dico nemo gloriari potest se Deum amare ut oportet, nisi paratus sit non opum tantum, et voluptatum, sed et famae vitaeque jactura redimere gloriam Dei, et publicum bonum.
+
+Quisquis Deum vere amat, quisquis bonum publicum sincero affectu quaerit, is vere in Ecclesia Catholica est, reliqui omnes schismatici sunt. Nam schisma est quod laedit illud caritatis vinculum generale.
+
+Fateor maximi ad bonum publicum momenti fore, Christianorum reunionem sub capite communi: ideo non abnuo [bricht ab] [p. 2162] 3886. DE CONTROVERSIIS
+
+::: editorial
+
+(zu S. 2161) 1 (1) De controversiis maxi (2) Cum (3) In tanto controversiarum numero semper sum miratus illas minime agitari, quae maxime necessaria sunt. Equidem fatentur omnes (a) Haeret (b) Haereticum facere pertinacium, Schismaticum esse qui caritatem a (4) De L 3 non (1) opinionem (2) errorem L 3 sed (1) malitiam (2) improbitatem pertinacem L 7 f. caritate. (1) Dolendum (a) vero est (b) est vero (c) autem (2) At vero, dicet aliquis inutiliter disputatur de re omnibus explorata. Ego vero optarem (a) notum esse hoc argumentum (b) ita erg. notam esse ut nullius opera indigeret. Quaero igitur qui fiat, quod hominum amor erga Deum c (3) Neque L 10 desiderari. (1) Et vel gestr. nemo unquam dubitasset, an aliquis sine (a) caritate erit (b) actu amoris Dei super omnia salvari possit (2) Neque L 17 f. bonum. (1) Imo ille vere extra Ecclesiam est, qui (a) 〈carit〉 (b) caritatem non est. (2) Quisque (3) Quisquis L 18 quisquis (1) commune (2) bonum L 22 communi (1) , nec diffiteor, quantum 〈sa〉 (2) : ideo L
+
+:::
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 42–43. 1 Bog. 2o, gestrichen. (Auf dem Bogen auch
+
+N. 386, N. 3871, N. 3872, L1 von N. 3873 u. N. 422.) 3/4 S. auf Bl. 42 ro.
+
+Controversiae quemadmodum civiles, ita et sacrae vel ad judicium vel ad causam pertinent, sive ut vulgo loquuntur vel ad Processum judiciarium, vel ad Merita causae.
+
+Controversiae quae ad Judicium ipsum pertinent, nonnunquam generales, praejudiciales, liminares dicuntur. Est autem judicium status hominum rationibus certantium sub exitus sive conclusionis spe. Spes autem victoriae a certo quodam signo visibili ac nullis disputationibus subjecto pendere debet. Quale est sententia judicis, persuasio ipsius adversarii, evidentia rationis.
+
+Caetera enim signa pleraque novarum saepe difficultatum feracia sunt. Judex si quid in sententia sua sit ambiguitatis aut obscuritatis, tollere poterit explicando. Fateor tamen nullo judice opus fore, si duo litigantes in certam quandam disputandi formam consentirent, eamque accurate observarent, ita enim sponte naturae veritas vel certe probabilitas alterutrius opinionis se detegeret, et pro judice esset ratio ipsa.
+
+Opponitur judicium Bello, quod est status hominum per vim certantium, ubi nihil attinet adjicere exitus spem, cum in ipsa hujus certaminis natura contineatur, provalente utique potentiore aut feliciore: at vero non omnis status per rationes certantium judicium est, saepe enim abest spes exitus utroque sententiam ad extremum tuente, auditoribusque suspensis.
+
+Qui rationibus certant vicisse videbuntur, ubi scopum assecuti erunt, scopus autem est persuadere. Nam qui sorte, qui monomachia, qui purgatione quam vocant, sive probatione per ignem aut aquam, denique qui tormentis vincit, is non ideo innocentiam [p. 2163] suam aut adversarii culpam persuadet, aufert tamen praemium, impunitatem scilicet aut rem de qua agitur.
+
+::: editorial
+
+(zu S. 2162) 5 f. causae. (1) Illae generales sunt magis, hae speciales, illae saepe praejudiciales (2) Controversiae L 10 est (1) sors, probatio per ignem aut aquam (+ ex veterum more aliquid ex barbarie retinente +) certamen singulare, sententia judicis, (2) Evidentia rationis; (3) sententia (a) judicis (b) sapientis et probi, erg. Ex omnibus istis victoriae signis illud perfectissimum est, quod seipsum explicare potest, ac proinde qualis est sententia judicis. irrtüml. nicht gestr. (4) sententia . . . rationis L 22 est (1) , vel evidentia veritatis, vel persuadere, idque (2) , vel str. Hrsg. persuadere , vel aliud praemium auferre gestr. . Nam L
+
+16 H. GROTIUS, De jure belli ac pacis, Amsterdam 1642, I, 1 § 2.
+
+:::
+
+## 389. DE CONTROVERSIIS SACRIS GENERALIBUS [1. Hälfte 1677 (?)]
+
+Überlieferung: L Konzept: LH I 3, 7k Bl. 1–2. 1 Bog. 2o. 3 S.
+
+Zur Datierung vgl. N. 386.
+
+De controversiis sacris generalibus
+
+Controversia est hoc loco quaestio in aliquo judicio agitata.
+
+Judicium est status rationibus certantium sub exitus spe.
+
+Opponitur Judicium Bello.[^2163-1]
+
+Bellum est status per vim certantium.
+
+Nihil necesse est in definitione Belli addi spem exitus, quemadmodum eam addidimus in definitione Judicii. Nam ipsa natura certaminis per vim talis est, ut plerumque sub finem ejus appareat quis sit victor. At cum rationibus certatur raro sub certaminis finem apparet penes quem sit veritas aut victoria.
+
+Judicium ergo a Disputatione in eo differt, quod in judicio sub certaminis initium spes est ad exitum perveniri posse; at cum Disputatio inchoatur sine judice sive norma verendum est ne nihil agatur, sed idem qui ante fuit, sit sub finem disputationis rerum animorumque status.
+
+[^2163-1]: Anstreichung von Judicium bis Bello.
+
+::: editorial
+
+(zu S. 2163) 14 certatur (1) plerumque (2) raro L 11 status . . . certantium: H. GROTIUS, De Jure belli ac pacis, Amsterdam 1642, I, 1 § 2.
+
+:::
+
+[p. 2164] Quare Disputationes ad exercitium utiles esse possunt, at cum serio exitus certaminis quaeritur, ad judicium aliquod confugere debemus.
+
+Exitus certaminis est, cum post certamen res in eum pervenit statum, ut certari amplius facile non possit.
+
+Hic enim est scopus certaminis serius, ut tandem certaminum fiat finis.
+
+Exitus certaminis generalior est quam victoria, nam esse potest certaminum finis, neutro vincente. Quando scilicet ambo cecidere, quando ambo superstites atque integri anceps certamen pace diremere; quando neuter alterum convicit, quando apparet inane fuisse certamen, controversiae scilicet statu non in rebus aut sententiis, sed verbis posito, quibus semel declaratis quaestio cessavit.
+
+Certamen est experimentum virium eo animo utrinque captum, ut appareat uter sit potentior.
+
+Cum autem qui animo atque intelligentia praediti sunt nihil frustra faciant, patet certantibus, propositum esse aliquod praemium certaminis sive Brabeum, sive hoc ipsa victoris gloria sit, sive aliud quoddam lucrum cujus spe ardor certantium animatur.
+
+Certari potest viribus ingenii aut corporis; imo et fortuna. Nam ille quoque qui fortunatior est censeri potest potentior. Potens enim est, qui amicum habet potentem, nempe fortunam.
+
+Spes exitus consistit in tali certaminis natura, ut judicari possit expectari exitum debere. Itaque non hic de illa spe loquor, quam sibi quisque fingere potest, sed quam res ipsa suppeditat, sive de sperandi causa, quam Galli vocant apparence perinde ac si dixissem judicium esse statum rationibus certantium sub justa exitus spe.
+
+Ut ergo controversias quae in judicio sive sacro sive civili nasci possunt penitus intelligamus, consideranda erit persona certantium, praemium certaminis, spes exitus ex ipsis certandi legibus, ac denique rationes quibus certatur. Nam tractatio de judice sive norma, sub tractatione de spe exitus continetur.
+
+Circa certantes quaestio esse potest, an personam habeant standi in judicio, sive an audiri debeant. Quae sane dubitatio etiam in sacris controversiis obtinet. Quaeritur enim an sit cujusvis etiam Laici in has res accuratius inquirere, scripturam sacram legere [p. 2165] aliaque vetustatis documenta excutere; controversiam de religione publice movere, et reformationem flagitare: an non qui talia privatim suae instructionis causa suscipit, eruditus aut etiam peculiariter illuminatus esse debeat. Et an is qui publice actionem instituere de his rebus audet, peculiari missione divina sive ordinaria sive extraordinaria debeat esse instructus.
+
+::: editorial
+
+(zu S. 2164) 4 amplius (1) hoc mod (2) facile L 6 quam erg. L 6 nam (1) ad (2) fieri (3) esse erg. L 10 f. cessavit. (1) Ut ergo natura appareat illius hominum status, qui judicium appellatur, resumta ejus definitione paulo ante posita considerandum est, quinam sint illi qui certant. (2) Certamen L 23 ergo (1) naturam judicii sive sacri sive civilis (2) controversias . . . possunt L 25 tractatio sive gestr. de L 27 Circa (1) personas (2) certantes erg. L 28 sane (1) controversia (2) dubitatio L
+
+:::
+
+Huc[^2165-2] ergo pertinet quaestio de permittenda aut prohibenda scripturae sacrae lectione; de libris prohibitis et indice expurgatorio, de fide implicita simplicium; de jure puniendi dubitantes disputantes, negantes, haereticos, apostatas, relapsos; deque inquisitoribus haereticae pravitatis. De admittendis ad disputationes, colloquiaque haereticis, et salvo conductu ipsis concedendo ac fide servanda, denique de Missione ordinaria, extraordinariave ad docendum necessaria. Semper enim in his quaeritur de jure admittendi aliquos ad controversias de religione privatas publicasve aut ab iis repellendi.
+
+Praemium Certaminis per rationes suscepti est persuasio. Quae persuasio est vel adversarii ipsius vel aliorum, audientium. Persuasio adversarii maximum est certaminis per rationes praemium. Ea enim demum plena victoria est, quae ut ille ait, Confessos animo quoque subjugat hostes, et vero tunc neque judicis autoritate, neque militari executione neque poenae metu, opus est, ad rem nostram consequendam confessionemve adversario extorquendam.
+
+Persuasio auditorum eam vim habet, tum ut pudore ac metu quodam contineatur adversarius si quid ultra moliri velit, tum ut applaudentium judicio atque autoritate quod volumus consequamur.
+
+Caeterum Persuasione quaerimus vel bonum aliquod nostrum vel alienum: Bonum nostrum, gloria, consecutio praemii aut honoris certantibus propositi; vel etiam rei nostrae de qua alius controversiam fecerat; securitas nostra per poenam improborum stabilita.
+
+[^2165-2]: Durch Anstreichung hervorgehobener Absatz
+
+::: editorial
+
+(zu S. 2165) 2 flagitare: Et gestr. an L 2 suae (1) institutionis (2) instructionis L 4 missione (1) sive (a) divina (b) extr (2) divina sive L 8 haereticos erg. L 11 extraordinariave (1) . Haec enim omnia eo pertinent ut sciamus (a) 〈quid〉 ad haec (b) de jure (2) ad . . . necessaria L 11 in his erg. L 14 , audientium erg. L 19 ac metu erg. L 22 Persuasione (1) vel nihil aliud quaerimus quam omnem persuasionem, vel gloriam, (2) quaerimus (a) vel lucrum (b) vel L 22 nostrum (1) malumve (2) vel L 23 aut honoris erg. L
+
+16 Confessos . . . hostes: CL. CLAUDIANUS, Panegyricus de sexto consulatu Honorii Augusti, 248.
+
+:::
+
+[p. 2166] Bonum alienum persuasione quaerimus, cum audientes meliores reddere conamur; quamquam fructus inde etiam in nos redundet, est enim inter caritatis opera, errantes docere. Caritati autem maxima praemia a Deo constituta esse certum est.
+
+Spes exitus pendet ex certitudine habendi notam victoriae sensibilem.
+
+Nota sensibilis, quae nulli disputationi subjecta est, exempli causa color aliquis oblatus ater an albus sit, non disputant homines, et omnino de iis quae praesenti sensu percipiuntur ab omnibus certamen nullum est, quoniam obvius quisque vocatus statim pronuntiaret pro victore vero. Exempli causa si tua sagitta propior scopo fixa haereat quam mea, nulla quaestio est de victoria, nam obvius quisque vocatus, statim dicet sagittam tuam esse propiorem etsi ignoret tuam esse.
+
+Modus perveniendi ad notam sensibilem in judiciis pendet ex judicii modo. Quaeritur autem nota sensibilis vel veritatis, vel persuasionis. Si persuasionis, quae alia haberi potest, quam approbatio auditorum, quae utique res est sensibilis, idque sufficit in civilibus, ubi auditorum autoritate atque assensu consequimur quod certando quaesivimus, gloriam scilicet aut rem. At in sacris ubi nota sensibilis veritatis quaeritur non sufficit persuasio, neque approbatio auditorum, nisi illi sint infallibiles in argumento de quo agitur.
+
+Notae veritatis sunt ratio aut autoritas. Autoritas divina aut humana. Item muta aut vocalis. Autoritas divina muta, est revelationis praeteritae relatio. Autoritas divina vocalis, est revelatio praesens, per miraculum aliquod testata. Huc pertinet et probatio per ignem, aquam, sortem, felicitatem temporalem, aliasque notas, quarum fundamentum est providentiae consentaneum esse ut Deus aliquod signum det; sive subsistens, sive novum cum nobis id postulare libuerit, quorum posterius minus probabile. Autoritas humana est aut de iis circa quae testimonium alicujus recipitur, aut de iis circa quae nemini credi necesse est nisi habeat privilegium infallibilitatis. Utraque est rursus muta vocalisve. Patrum exempli causa muta est autoritas, potest enim disputari de explicatione. Autoritas humana est vel singularis, vel universitatis, ut integri alicujus seculi, familiae, sectae, gentis. Autoritas hodierna sola vocalis est, estque aut hominis cujusdam aut gentis, aut etiam multitudinis infallibilis. Infallibilitas pendere potest aut a divina gratia, aut a rei natura, ut cum aliquis de re facti testatur nec est cur credamus corruptum ejus judicium, aut etiam scimus corrumpi non potuisse. Exempli causa testimonium alicujus [p. 2167] multitudinis de rebus facti. Talis est consensus perpetuus Christianorum ab omnibus seculis, talis est etiam sententia aliqua hodierna recepta, circa rem aliquam facti, quoties non potest ostendi mutatio, sequitur enim eam factam non fuisse. Huc pertinet principium Arnaldi. Nota quaedam infallibilitatis gratia divina a Deo datae foret necessitas ordinatoris ad sacramentorum ordinationem, ita enim illi qui successionem haberent, haberent praesumtionem. Nota omnes hae autoritates, excepta revelationis hodiernae vel hominis aut concilii infallibilis sunt mutae, seu explicatione alterius nonnunquam ratiocinationeve aut alio judice indigentes. Nota huc referenda Masenii et Veronii methodus, qui volebant reducere protestantes ad probandam confessionem ex scriptura sine ratiocinationibus ad quaestionem scilicet de autoritate et scriptura vocali.
+
+::: editorial
+
+(zu S. 2166) 4 ex (1) judicii forma (2) nota quadam (3) certitudine L 11 judicii (1) forma (2) ordine (3) modo L 14 assensu (1) nostram assequi (2) consequimur L 19 muta (1) est scriptura sacra (2) , est L 20 per (1) somnium (2) miraculum L 22 est (1) Deum (2) providentiae L 28 hodierna (1) vocalis e (2) sola L
+
+:::
+
+Rationes sunt aut probationes, aut praesumtiones, aut semiprobationes seu probabilitates. Quae ut faciant notam sensibilem certa forma proponendae sunt; ut appareat evidentia veritatis. Et hac forma inprimis opus est, cum de ipso judice vel autoritate muta vel vocali stabilienda agitur. Ultimus enim de judice judex ratio est.
+
+::: editorial
+
+(zu S. 2167) 1 consensus (1) alicujus perpetuus (2) perpetuus L 2 recepta, (1) quoties (2) circa L
+
+4 principium Arnaldi: vgl. A. ARNAULD, La Perpetuité de la Foy de l’Eglise Catholique touchant l’Eucharistie, defendue contre le livre du Sieur Claude. Paris 1669 [Marg.]. Arnauld beweist, daß seit den Aposteln keine Innovation bezüglich des Mysteriums der Eucharistie hat stattfinden können. 8 J. MASENIUS (Semanus), Methodus fidei conciliandi, Köln 1652. 9 F. VÉRON, Methodus Veroniana, sive brevis et perfacilis modus, quo quilibet Catholicus etiam scholis Theologicis non exercitatus, potest solis Bibliis sive Genevensia illa sint sive alia, et confessione fidei Religionis praetentae Ministrem evidenter mutum reddere, et Religionario cuicumque, quod in omnibus et singulis praetentae Reformationis suae punctis errare teneatur, demonstrare, Köln 1619.
+
+:::
+
+## [p. 2168] 390. QUID SIT ESSE AUT NON ESSE IN ECCLESIA ROMANA [1. Hälfte 1677 (?)]
+
+Überlieferung: L Konzept: LH I 3, 7a Bl. 3–4. 1 Bog. 2o. 2 3/4 S.
+
+Thematik und gemeinsames Wasserzeichen mit N. 388 bis 391 legen eine Entstehungszeit zwischen Januar und Juni 1677 nahe.
+
+Christus Joh. [XV.] 22. Si non venissem et locutus fuissem eis peccatum non haberent. An non dissensus fundamentalisinter eos qui putant Papam solum sine concilio esse infallibilem?
+
+Probare suscipiunt Romanae Ecclesiae addicti 1) in Ecclesia Romana aliquem salvari posse, 2) extra Ecclesiam Romanam difficulter, aut non omnino quenquam posse salvari.
+
+Explicandum est, quid sit esse aut non esse in Ecclesia Romana. Ecclesiae Romanae addictus est, is qui in Ecclesia Romana sacramentis uti paratus est.
+
+An, qui idem sentit quod Concilium Tridentinum, an, qui eam Confessionem fidei amplectitur quam Papa omnibus docendi munus habituris praescripsit, quae Concilio Tridentino subjicitur. Sed illa confessio non nisi ab illis exigitur qui docere debent. An ergo is est, qui credit Pontificem cum Concilio ita esse infallibilem, ut quae ille velut credenda proponit, sub periculo salutis sint credenda, aut quae velut facienda imperat, sub mortali sint facienda.
+
+Esse in Ecclesia Romana consistit vel in externis quae sensus incurrunt, vel in internis. In externis, si quis se dicit Ecclesiae Romanae esse membrum, et facit quae alii qui Ecclesiae Romanae membra dicuntur. In internis, si quis credit, aliquas Ecclesiae Romanae propositiones. Nota ille qui dubitat de veritate propositionum Ecclesiae Romanae, et tamen facit quae Ecclesia Romana praecipit, seu qui obedientiam habet sine fide is in externis tantum ei consentit. Tales sunt quicunque ita ratiocinantur, ego non possum habere necessaria ad inquirendum veritatem, faciam ergo ut hactenus feci, vel ut alii ante me, aut mihi noti, vel ut major pars. Distinguendum tamen inter hos, nam si tantum [p. 2169] ita faciunt, ob exemplum vel consuetudinem, vel ob rationes humanas, quia scilicet abstrahendo a veritate, rationis est, ut quod hactenus, fecisti, adhuc facias, quamdiu nulla est ratio mutandi: item, ob hanc quod nullam vident rationem cur antecessores sui mutaverint agendi modum, et ideo redire volunt ad priora; non inde inferentes probabilitatem aliquam de eo quod melius factu videtur coram Deo, illi in externis tantum adhaerent. Multo magis illi qui id faciunt ob rationes pure humanas.
+
+::: editorial
+
+(zu S. 2168) 7 XX. L ändert Hrsg. 9 suscipiunt (1) Romani, Ecclesia (2) Romanae . . . addicti L 13 est, (1) quicunque (2) is L 13 sacramentis (1) utitur. (a) Sed (b) Qui (aa) cens (bb) absolutionem (2) uti L 16 subjicitur. (1) An ergo (2) Sed L 17 qui (1) cr (2) paratus (3) credit L 20 sensus (1) atque (2) incurrunt, L
+
+:::
+
+Certum hoc est: quicunque Romanae Ecclesiae addictus est, is facit et qui non facit haereticus appellatur. Sed horum opus est enumeratione. Afferamus primum signa hominis in Romana Ecclesia existentis negativa: Quicunque Romanae Ecclesiae addictus est is debet profiteri Concilium Tridentinum in iis quae velut articulos fidei definit non errasse. Imo vero quid si non sciat quid rei sit Concilium Tridentinum, ut aliquis rusticus. Quid de illo dicemus? Dicemus hunc rusticum debere saltem credere Symbolum Apostolorum, et debere uti Ecclesiae sacramentis, aut ad usum esse paratum. At hic nova difficultas, nam et ii qui haeretici vocantur, pertinacia carentes, possunt esse parati, si scilicet non sint obstacula seu impossibilitates morales, opinio scilicet, quae aequipollere debet physicae.
+
+Gradus secundum quos aliquis esse dici potest in Ecclesia Romana.
+
+Primus est ut externa faciat, ut apud eas gentes aut homines quibus hoc nomen attribuitur fieri solet, idque ob rationes humanas, ut quod hoc ipsis utile videtur vel necessarium ad temporalia commoda. Sive habeant sive non habeant contrarias rationes commodorum spiritualium.
+
+Secundus est gradus eorum, qui id faciunt, nullam ob aliam rationem, quam quia nulla ratio ipsis occurrit mutandi, tametsi nulla spiritualia commoda inde sibi promittant; sed tantum sequuntur in eo regulam prudentiae generalem. Et huc pertinent illi omnes qui id quod egere adhuc agunt ex sola consuetudine, non cogitantes bene an male.
+
+Tertius est gradus eorum, qui faciunt ideo quia commoda spiritualia inde sibi promittunt non quidem certo, attamen verisimiliter.
+
+::: editorial
+
+(zu S. 2169) 1 faciunt, (1) nec tamen (a) putant 〈veriorem〉 (b) verisimilem sibi videri S (2) ob L 1 consuetudinem, (1) abstrahendo a bo (2) vel L 3 antecessores (1) faci (2) sui L 6 f. humanas. (1) Externa (2) Certum L 7 facit (1) ea (2) et se quae str. Hrsg. qui L 7 f. facit (1) in Rom (2) a (3) haereticus L 8 enumeratione. (1) Nam (2) Omnis homo (3) Afferamus L 9 Quicunque (1) non (a) uti (b) dicet se (2) Romanae L 10 debet (1) credere (2) profiteri erg. L 11 errasse. (1) Debet (a) cred (b) profiteri (2) Imo L 11 non (1) audiverit c (2) sciat L 14 et (1) haereti (2) ii L 15 morales, (1) consue (2) opinio L 18 ut (1) in Ecc (2) apud L 20 f. Sive . . . spiritualium. erg. L 24 tantum in eo str. Hrsg. sequuntur L 25 f. male. (1) Eand (2) Quemadmodum str. Hrsg. Tertius L 26 qui (1) commoda (2) faciunt L 27–S. 2170.1 verisimiliter. (1) Quartus gradus est eorum, qui (2) Potest L
+
+:::
+
+[p. 2170] Potest secundus gradus tolli, semper enim rationes erunt vel spirituales, vel temporales, aut aberunt rationes omnes. Ita qui facit ut alii, saltem cogitat se ita facere debere vel ob consuetudinem ne scilicet ridiculus vel ineptus appareat, vel ob rationem hanc interiorem, quod scilicet quilibet in sua conscientia debet sequi id quod est in possessione. Itaque inter eos qui ob rationes spirituales in Ecclesia Romana sunt, illi vel habent rationes sumtas a recta ratione, ut qui volunt manere in possessione, aliisque externis argumentis, quae non ad veritatem, sed ad praxin spectant; vel habent rationes spirituales ad ipsam spectantes opinionem, seu per quas ipsis verisimilius redditur veras esse sententias quae in Romana Ecclesia docuntur. Verisimilitudo autem illa varios habet gradus, et aliquando ad certitudinem moralem pervenire potest.
+
+Examinandum nunc quid illi faciant qui in Romana Ecclesia esse vulgo dicuntur. Ubi quidem non Romae aut Italiae soli, non Galliae aut Germaniae soli, sed illi credendum est, quod in scholis cathedrisque Germaniae Galliae Italiae Hispaniae, ab iis qui Ecclesiastici vocantur, qui a Papa scilicet et Episcopis pro more ordinatis, pendent; communi consensu [docetur].
+
+Hi ergo communi consensu docent unumquemque debere diebus praescriptis audire missam, debere in peccatum lapsum confiteri et absolutionem desiderare, debere profiteri se id omne [professurum et facturum, quod] consensu eorum qui cum Romana Ecclesia unitatem quandam colunt receptum intelligent.
+
+In Ecclesia Romana esse dicetur, quicunque ob rationes spirituales, seu ob futurae vitae bona cum Episcopo Romano communionem colit.
+
+Communionem autem cum Episcopo Romano colere, hic intelligo, quicunque ea facit quae in communione Romanae Ecclesiae ut hominis in communione Ecclesiae Existentis notae, exiguntur. Qualia sunt ante omnia absolutionem a peccatis quaerere; deinde missam audire, tertio profiteri se facturum quae communi eorum qui in Romanae Ecclesiae communione esse habentur consensu recipientur; aut certe contrarium non professurum.
+
+::: editorial
+
+(zu S. 2170) 5 f. vel (1) hanc habent quod (2) habent L 6 a (1) Divina revelatione (2) recta L 6 possessione, (1) vel h (2) aliisque L 8 spectantes (1) prax (2) opinionem, L 9 Ecclesia (1) dicuntur. (2) docuntur. (a) Rationes illae spirituales (b) Verisimilitudo L 13 quod (1) autoritate publica (2) in L 14 qui (1) sacramentorum (2) Ecclesiastici (a) app (b) vocantur, (aa) et (bb) qui L 15 docentur L ändert Hrsg. 18 omne (1) professurum quod superiores qui Ecclesiastici cum (a) Romana curia (b) Roma quandam unitatem colentes, dec (2) professuros et facturos L ändert Hrsg. 21 f. colit (1) Porro, ut quis cum Episcopo Romano communionem colat non est necesse, ut omnia (2) Communionem L 24 sunt (1) pax (2) missa (3) ante L 27–S. 2171.1 professurum (1) non videtur hic inquirendum in (a) illorum argumenta (b) illas rationes quibus probatur aut defendi Ecc (2) Videtur qua (3) Non L
+
+:::
+
+[p. 2171] Non videtur proprie ostendendum quod tuto aliquid esse possit in Ecclesia Romana, sed incidenter; quatenus scilicet est generalis responsio contra protestantes secessum probantes.
+
+Ecclesia Romana damnabiliter errare non potest. In Ecclesia quae damnabiliter errare non potest quivis tuto esse [potest]. Ergo probandum est, quod Ecclesia Romana damnabiliter errare non possit. Videndum quid promissum Christi de Ecclesia, Petro.
+
+Ecclesia Romana damnabiliter non erravit. Differens ratiocinatio a superiore, quae asserit damnabiliter errare non posse. Ratiocinatio talis:
+
+Si Ecclesia Romana damnabiliter erravit, tunc fuit tempus quo nulla erat Ecclesia quae non damnabiliter erraverit. Sed absurdum est posterius ergo et prius.
+
+Probanda est consequentia, item absurdum. Absurdum probare conatur loco Christi semper ero apud vos; usque ad finem Mundi; item necessitate potestatis clavium; at si nulla erat Ecclesia in cujus communione aliquis esse non posset quin damnabili errori subscriberet utique non poterat aliquis accipere absolutionem.
+
+Consequentia sic probabitur: si Romana Ecclesia sub initium seculi XVI damnabiliter erravit etiam Graeca et alia quaevis Ecclesia Christiana damnabiliter erravit, nam circa ea quae maxime culpantur in Ecclesia Romana, qualia illa sunt quae ad cultum pertinent; erat in aliis Ecclesiis omnibus. Respondebunt negando Graecam fuisse in iisdem sententiis, item, dicent etiamsi fuissent fuisse tamen Waldenses et fratres Bohemos. Quaeritur hic an non sit novum faciendum argumentum, quod scilicet necesse sit aliquam celebrem Ecclesiam orthodoxam semper extare. Cui videtur reponi posse quod tempore Israelitarum pauci fuere qui non genua flexerint coram Baal. Sed responderi poterit promissum simile non fuisse in V. T. Deinde videtur difficile catalogum testium veritatis per omnia secula deducere, et semper ostendere coetum in cujus communione aliquis sine erroris periculo esse possit.
+
+::: editorial
+
+(zu S. 2171) 2 generalis (1) objec (2) responsio L 3 f. probantes. (1) Quilibet tuto potest esse in Ecclesia quae d (2) Ecclesia L 4 potest. (1) Quilibet tuto esse potest in Ecclesia (2) In L 5 non potest L ändert Hrsg. 16 et (1) Moscovitica (2) alia L 17 maxime (1) condemnari possu (2) culpantur L 18 pertinent; (1) nulla (2) erat L 21 Ecclesiam (1) ext (2) orthodoxam L
+
+12 semper . . . Mundi: vgl. Matth. 28, 20.
+
+:::
+
+[p. 2172] Argumentum ad ipsam Scripturam sacram probandam satis validum, videtur et satis esse validum ad alia probanda.
+
+Traditio est argumentum ad ipsam scripturam sacram probandam satis validum. Ergo et ad alia.
+
+Ad hoc diverse respondebitur, alii enim dicent scripturam sacram non probari per traditionem Ecclesiae, quin haeretici aeque atque alii hoc faciunt, potuisset inter Ethnicos quoque conservari, ut conservati sunt libri Platonis, et quod non puto esse proprie traditionem.
+
+Dubitare an traditio sit bona, si probetur, idem est ac dubitare, an probata aliqua sit bona, si legitima esse ostendatur.
+
+De potestate Ecclesiastica. Semper debet esse potestas Ecclesiastica.
+
+Ubicunque nulla est potestas Ecclesiastica, ibi nulla est Ecclesia.
+
+Apud Protestantes nulla est potestas Ecclesiastica.
+
+Ergo apud eos nulla est Ecclesia.
+
+Ubicunque nulla est Ecclesia ibi nulla est salus.
+
+Videndum quid per potestatem Ecclesiasticam intelligatur, an potestatem conferendi aliquam gratiam spiritualem aut poenam spiritualem infligendi; si hoc ostendendum est an necesse sit, esse semper talem potestatem. An non jus Apostolorum temporale. Ista jurisdictio spiritualis est id quod constituit formalem rationem Ecclesiae, seu Reipublicae spiritualis, nempe conferre gratiam per sacramenta; item exclusos Ecclesia non tantum indignos declarare hac gratia, alioquin affligere spiritualiter. Difficultas circa jurisdictionem spiritualem, quod scilicet si homo est in gratiae statu constitutus non inde ejicietur ab Ecclesia, si extra eum est, frustra ei ab Ecclesia nocebitur. Potest et dici Apostolorum jurisdictionem Ecclesiasticam vel aliorum esse non ad effectum internum, sed ad disciplinam externam; et posse aliquem esse excommunicatum, qui non ideo minus sit in gratia, ab aliis tamen vitari debere. Et ita extra Ecclesiam posset esse salus. Vel etiam potest dici potestates Apostolorum et omnino Ecclesiasticam jurisdictionem fuisse in potestate faciendi miracula, aliquem daemoni tradendi visibiliter affligendum. Potest ad argumentum contra jurisdictionem spiritualem responderi distinguendo inter poenam temporalem et aeternam post hanc vitam, item aggravari poenam damnato; item posset [p. 2173] aliquis dicere jus excommunicandi esse tantum jus suspendendi quosdam actus fraternae caritatis, quae alioqui omnibus debetur, sit sibi velut Ethnicus et publicanus, id est sit tibi vitandus. Omnes hae ratiocinationes quantum licet verbis sunt exuendae ambiguis; substitutis definitionibus pro definitis. Quicunque est extra Ecclesiam non habet caritatem. Ergo est in mortali. Fateor. Quicunque contra conscientiam alios damnat, is est in peccato mortali. Eodem modo quicunque ad unionem sincere et omnibus viribus non tendit est in mortali. Propositio haec probanda primum: Datur quaedam Ecclesia universalis extra [quam] non est salus, aut difficulter. Intelligo autem, per Ecclesiam illam Universalem universitatem quandam ab Apostolis ad nos continua successione propagatam. Mira in scriptoribus confusio, ut nescire videantur quid dicant, qui de his rebus disputant, ut Wetweis illo ipso loco ubi probare conatur quod extra Ecclesiam non sit salus, fatetur non esse extra Ecclesiam, qui sunt inter haereticos, sed carent pertinacia. Itaque quomodo potest probari aliquid solidi, si autores ne statuunt quidem certas probationes, quas probare contendant. Bellarminus affirmans quod haeretici etiam consentiant, extra Ecclesiam non esse salutem declinat ejus probationem, sed debebat quod alibi bene observat meminisse haereticos id intelligere de Ecclesia invisibili. Probandum hoc: quicunque est extra Ecclesiam visibilem quae habet potestatem administrandi sacramenta, is non potest salvari. Difficilis provincia ab eo suscepta est qui argumenta adversariorum confusa et incerti sensus in ordinem redigere tentat. [p. 2174] Datur una quaedam Ecclesia seu coetus constans ex pastoribus. Quicunque non est in communione Ecclesiae Romanae non potest aut non nisi difficulter potest salvari.
+
+::: editorial
+
+(zu S. 2172) 15 f. salus. (1) Ergo, si per potestatem Ecclesiasticam intelligitur jurisdictio quaedam vidend (2) Videndum L 18 non (1) persona (2) jus L 18 temporale. (1) Posito necessario (2) Ista L 23 est, (1) non potent (2) frustra L 26 ita (1) Ecclesia foret (2) extra L 28 f. affligendum. (1) Deinde potest distingui quo (2) Potest L
+
+:::
+
+::: editorial
+
+(zu S. 2173) 9 f. mortali. (1) Quicunque non est in Ecclesia quadam (2) Datur (3) Propositio L 10 f. quem L ändert Hrsg. 11 f. Universalem (1) quen (2) quendam coetum a (3) quoddam corpus (4) universitatem L 23 qui (1) probationes (2) argumenta L 23 adversariorum (1) in ordi (2) confusa L 23 f. et (1) incerta (2) incerti L
+
+14 f. illo ipso loco: vgl. B. VETWEIS, Speculum verae ecclesiae Christi ac falsarum ecclesiarum, Köln 1664, lib. III, cap. 2 (Quod extra Ecclesiam veram Christi unicam non sit salus), S. 49–54, bes. 49 f. 18–20 Vgl. R. BELLARMINO, De controversiis christianae fidei, adversus hujus temporis haereticos, contr. I, lib. III, cap. 11, in Opera omnia, Bd 2, Köln 1619.
+
+:::
+
+Probationes:
+
+1. Quicunque non est in communione Ecclesiae Romanae non est in communione
+
+Ecclesiae Catholicae. [2.] Quicunque non est in communione Ecclesiae Catholicae non potest facile salvari.
+
+Ergo qui non est in communione Ecclesiae Romanae non potest facile salvari. Probanda prop. 1. et 2. Probandum prop. 2.: quicunque non est in communione Ecclesiae Catholicae non potest facile salvari. Hoc ita probatur. 2, 1. Quicunque non est in communione Ecclesiae Catholicae est ligatus in coelo sicut et in terris.
+
+Quicunque est ligatus in coelo non potest facile salvari,
+
+Ergo quicunque non est in communione Ecclesiae Catholicae non potest facile salvari. [Probanda] prop. 2. 1. [bricht ab]
+
+## 403. DE SCRIPTURA, ECCLESIA, TRINITATE [1680 bis 1684 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 3, 4 Bl. 1–2. 1 Bog. 2o. 3 1/3 Sp. Von Bl. 2 1/9 der inneren und 6/10 der äußeren Blatthälfte abgeschnitten. Geringer Textverlust.
+
+E GRUA, Textes, 1948, S. 176–179 (Teildruck).
+
+Dieses Stück ohne Wasserzeichen zeigt zu Beginn weitgehende inhaltliche Übereinstimmung mit dem Anfang des großen Exzerptes aus Bellarmin N. 437 aus der Zeit von Sommer 1680 bis 1684 und dürfte daher aus dieser Periode stammen.
+
+Tutius est statuere in scriptura sacra nihil contineri nisi verbum Dei, nec autores librorum etiam in his quae ad salutem non pertinent, qualia sunt philosophica, chronologica, Geographica, falsum dixisse. Errores autem si qui sunt, librariorum culpa irrepsisse, aut a verbis male intellectis nasci.[^2286-1]
+
+[^2286-1]: Am Rande: Quotiescunque mihi animo propono qualia dogmata essem ipse propositurus si mihi summa esset concessa potestas statuendi, rebus omnibus expensis inclino in dogmata Ecclesiae Romanae conservanda, corrigerem tantum praxes quasdam a viris piis ac prudentibus ejus partis dudum improbatas, quae adhuc in Ecclesia Romana vitio temporum hominumque passim tolerantur. Si natus essem in Ecclesia Romana profecto ab ea non recederem, etsi omnia crederem, quae nunc credo. Pontificis autoritas quae multos maxime, me certe omnium minime deterret, credo
+
+::: editorial
+
+(zu S. 2286) 1 ut (1) praeputio (2) praeputii L 12 (1) Scriptura sacra continet ver (2) Tutius . . . sacra (a) nullos esse errores (b) nihil L 18 inclino (1) ut 〈nega〉 (2) in L 19 conservanda, (1) nec in ea (2) etsi multa passim in ea toler (3) corrigerem L 20 prudentibus (1) apud ipsos (2) ejus L 21 hominumque erg. L
+
+:::
+
+[p. 2287] In libris Judith, Tobiae, Sapientiae, Maccabaeorum, nihil continetur quod prohibeat eos inter Canonicos censeri. Licet autem fatendum sit S. Hieronymum plerisque eorum summam illam Canonicis debitam autoritatem non tribuisse, tamen communior sententia veteris Ecclesia[e] videtur fuisse in contrarium, et proinde Ecclesia Catholica traditionis conscia potuit statuere ut pro Canonicis haberentur. Certe nullae afferri possunt contra hos libros satis graves dubitandi rationes et pleraeque quae afferuntur, in libros quosdam ab omnibus receptos possunt torqueri.
+
+Concedunt etiam protestantes libros quos Apocryphi vocant esse sanctos, sed negant eos esse aptos ad fidei dogmata confirmanda. Cum vero nullum omnino fidei dogma sit, quod horum librorum indigeat, videtur inutiliter de horum librorum Canone disputari, neque ullam esse causam cur a communi Ecclesiae sententia recedatur.
+
+Aliquando libri non sunt scripti ab his quibus attribuuntur, sed ab aliis collecti ex eorum sententiis vel monumentis. Ita Bellarminus de verbo Dei lib. 1. cap. 14 potuisse fieri et Syracides sententias Salomonis collectas in unum volumen redegerit.
+
+Apocryphi sunt tertius et quartus Maccabaeorum et tertius ac quartus Esdrae, neque enim ab ullo Concilio sunt relati in Canonem.
+
+Cum libri Mosis et prophetarum sint lingua Hebraica pura scripti, nec (excepto Daniele) chaldaica admista habeant, credibile est post Captivitatem Babylonicam non scriptos sed tantum fuisse recensitos.
+
+Textum Hebraeum alicubi dubium, certe explicationem ejus versione 70 interpretum juvari dubium nullum est. enim recto ejus usu nihil utilius Ecclesiae posse intelligi.
+
+Rebus omnibus expensis mihi valde credibile videtur redituram aliquando Unionem Ecclesiarum in occidente, praesertim ubi in Ecclesia Romana reformabuntur non fidei dogmata sed praxes quaedam male receptae, nec ab Ecclesia ipsa approbatae.
+
+::: editorial
+
+(zu S. 2287) 2 S. erg. L 3 tribuisse, (1) major tamen Ecclesiae pars pro Canonicis eos (2) invaluit tamen sententia in Ecclesia ut pro Canonicis haberentur (3) tamen (a) communis (b) communior L 20 alicubi (1) corruptum (2) dubium erg. L
+
+1–5 Vgl. R. BELLARMINO, De controversiis Christianae fidei, adversus huius temporis haereticos. Editio ultima, in Opera omnia, 7 Tle in 4 Bdn, Köln 1617–1620, Tl I, Controv. I, De verbo Dei, lib. I, cap. 10. 5–7 Vgl. R. BELLARMINO, a.a.O., lib. I, cap. 12. 13 f. Vgl. a.a.O., lib. I, cap. 14. 15 Vgl. a.a.O., lib. I, cap. 20. 17–19 Vgl. a.a.O., lib. II, cap. 3. 20 f. Vgl. a.a.O., lib. II, cap. 6.
+
+:::
+
+[p. 2288] Esse adhuc quaedam quae in Vulgata fortasse corrigi possint, non negant, qui eam authenticam statuunt. Authenticum enim est cui tuto fidi posse publice statutum est, nullum inesse mendum unde periculum creari legentibus possit. Itaque sufficit nihil inesse, unde periculum creari legentibus possit.
+
+De versionibus vulgaribus hoc tantum statutum est ut non promiscue concedantur aut legantur. Neque enim negari potest aliquando periculosum esse, ut sint in plebis manibus, fatendum est tamen aliquando id sine ullo periculo fieri ut nunc in Gallia et Germania itaque temporum et hominum ratio habenda est. Et ubi plebi negatur scripturae lectio debet saltem Nucleus ejus fieri. Breviarium quoddam vulgo haberi in 〈 – – – 〉 〈animarum〉〈 – – – 〉
+
+Lutherus praef. in psalmos. Scio esse impudentissimae temeritatis eum qui 〈audeat〉 profiteri aliquem scripturae librum 〈a se in omnibus partibus〉 intellectum.
+
+Luther lib. 1. contra Zwinglium et Oecolampadium ait: si diutius steterit mundus iterum fore necessarium propter diversas sacrae scripturae interpretationes quae nunc sunt, ut ad conservandam fidei unitatem Conciliorum decreta recipiamus et ad ea confugiamus.
+
+Brentius in prolegomenis contra Petrum a Soto fatetur traditionem saltem hanc de scriptura sacra esse admittendam.
+
+Statuunt catholici animam Christi inde a conceptione omnes dotes habuisse quas postea habuit.
+
+Utrum omnia in quibus sine periculo salutis errari non potest, in Scriptura Sacra habeantur definita, quaestio magna est: Mihi primum illud indubium videtur ipsam librorum Sacrorum autoritatem haberi traditione Ecclesiae, deinde vereor ut Sacrosanctam Trinitatem possimus satis evincere ex scripturis, traditione non adhibita, quae tamen Scripturam cum traditione conjungenti longe manifestior redditur. Illud nihilominus [p. 2289] certum est Scripturam S. multo magis Trinitati favere et ab Anti-Trinitariis aliquando violenter torqueri.
+
+::: editorial
+
+(zu S. 2288) 1 negant (1) catholici, cum irrt. nicht gestr. (2) qui L 2 f. Authenticum . . . nullum . . . possit erg. . . . possit. erg. L 5 f. concedantur (1) 〈et〉 publice in Ecclesia (2) aut erg. L 6–10 Neque . . . 〈 – – – 〉 erg. L 9 saltem (1) 〈 – 〉 (2) Bibliam ei (3) Nucleus erg. L 24 scripturis, (1) sine (2) traditione L 24 f. adhibita (1) . Sane Scripturam cum trad (2) quae L 25 cum (1) veterum (2) traditione L
+
+5 Vgl. a.a.O., lib. II, cap. 15. 11–18 Vgl. a.a.O., lib. III, cap. 1. 11 f. M. LUTHER, Biblia, das ist die ganze Heilige Schrift deutsch, hrsg. v. Martin Luther, Wittenberg 1545. 13–16 Zur Sache vgl. Luthers Erste Vorrede zum Schwäbischem Syngramm von 1526 (WA 19, S. 461). 17 f. J. BRENZ, Operum Tomus octavus. In quo continentur polemica scripta contra Petrum a Soto, et Sacramentarios, Tübingen 1590.
+
+:::
+
+Quod ad interpretem Scripturae attinet in dubitationibus quae oriri possunt, haud dubie melius consultum erit Ecclesiae, si constet Deum eam Spiritu suo ita regere, ut ejus interpretationibus tuto fidi possit. Itaque unanimem consensum patrum spectandum recte monet Tridentinum; et quod tota Ecclesia statuit disputare S. Augustinus ait insolentissimae esse insaniae. Nec puto ullum dari exemplum dogmatis in Ecclesia recepti quod sit conjunctum cum periculo salutis. Non tamen hinc sequitur Ecclesiam in omnibus esse infallibilem, verbi gratia si definiret aliquid de rebus quae ad salutem non pertinent qualia sunt quae sunt facti, item quae sunt philosophica, ut de Antipodibus, de motu terrae. Verum hactenus Ecclesia nihil tale definiendum sumsit quantum sciam idemque et in posterum servaturam credibile est. Et qua alia quam Ecclesiae autoritate, omissa est lotio pedum quae quibusdam visa est a Christo praecepta, et pro octavo habenda sacramento? Huc pertinet mutatio diei sabbati in dominicam, abrogatio praecepti de abstinendo a sanguine et suffocato. Contra Socinianos et Anabaptistas disputandi confugiendum est ad traditiones et Ecclesiae autoritatem.
+
+Deum, unum numero esse pro certo habendum est, nec tres esse Deos, sed tres esse personas divinitatis, itaque Patrem filium et [Spiritum] Sanctum non dicimus esse Deos sed divinitatis personas. Est autem divinitatis persona quaedam substantia singularis increata per se subsistens, sed quae involvit relationem essentialem, ita ut eam solam existere implicet. In rebus creatis nihil est quod magis hanc in unitate pluralitatem illustret, quam quod experimur in nobis, cum Mens nostra percipit seipsam. Ubi discrimen aliquod est inter personam percipientem et perceptam, quae tamen unum individuum sunt.[^2289-2]
+
+[^2289-2]: Am Rande: Verbum seu id quod intelligitur, est imago patris, quia pater verbum percipiens id ipsum percipit quod ipse est, nempe Mentem illam quae se intelligit.
+
+::: editorial
+
+(zu S. 2289) 4 regere, (1) ut nunquam vel falsum vel certe Scripturam contra (2) ut L 5 Itaque (1) contra (2) unanimem L 6 S. erg. L 7 f. Ecclesia (1) indubitato (2) recepti L 10 ut erg. de (1) motu ter (2) Antipodibus L 11 quantum sciam erg. L 18 divinitatis, (1) unde etsi ve (2) itaque L 19 personas. (1) Et cum dicitur Christus est Deus, sensus est Christus est persona divinitatis. Persona autem divinitatis (2) Est L 23 aliquod (1) necesse est esse (2) est inter (a) percipiens (aa) perceptum et perceptionem (bb) perceptionem et perceptum, quae tamen unum sunt (b) perc (c) personam L
+
+7 AUGUSTINUS, Epistolae, 118; vgl. a.a.O., lib. III, cap. 6. 17 Vgl. R. BELLARMINO, a.a.O., Tl I, Controv. II De Christo, lib. I, cap. 3, Sp. 237–242.
+
+:::
+
+[p. 2290] Sententia Catholica de Trinitate et incarnatione, longe aptior est Ariana et Sociniana. Nam Ariani introducunt creaturam quandam excellentissimam Mundo priorem, Sociniani puram hominum, et ambo tamen hanc creaturam habent pro filio Dei illi pro naturali, hi pro adoptivo; et volunt adorari debere. Sed Catholici Christum non adorarent nisi in eo esse statuerent illam summam rerum omnium creatricem divinitatem. Et quod dicunt Deum passum esse, in humana natura non video in quo sit contra honorem Dei, cum ita intelligatur, ut omnis imperfectio a Deo longissime removeatur. Contra vero Anti-Trinitariis de Deo parum digna sentire ex Conrado Vorstio et Socinianorum Metaphysica constat.
+
+Illud tamen fatendum est apud Catholicos pariter et protestantes saepe vulgus hominum in Deo colendo magis humanitatem quam divinitatem Christi sibi proponere, quod contra fieri deberet, itaque officium pastorum esse censeo ut huic malo medeantur, animosque ad divinitatem ipsam super omnia amandam et colendam erigant, praesertim cum in eo apud Catholicos contritio consistere merito dicatur, quam admonitionem necessariam usu deprehendi, non apud protestantes minus quam apud Catholicos.
+
+Quoad personam Christi, non melius unio naturarum explicari potest quam ut factum est a SS. patribus unione animae et corporis.
+
+Deitatem non esse passam, nec humanitatem esse ubique rectius dicetur. Nec video quid prosit ubiquitas, cum non Christus eo modo in coena sit quo ubique est, sed ratione peculiari. Sufficit ergo ut credamus per incarnationem communicatas esse humanitati Perceptio ipsa seu Amor est Spiritus Sanctus; Deum enim percipere se ipsum, idem est quod se amare. Procedit autem a Patre filioque, quia Amans et amatum amore non tempore quidem, rei tamen natura priora sunt. Graeci admittunt Spiritum procedere a patre per filium. [p. 2291] omnes perfectiones, quae in humanam naturam cadunt; divinas autem homini Christo eo ipso inesse, quod Deus est, seu quod in humanitate vera unione habitat plenitudo divinitatis. Quemadmodum certe nec anima per unionem cum corpore ipsi corpori suam vim volendi, aut intelligendi communicat, nec a corpore extensionem aliaque id genus attributa accipit. Sunt tamen aliquae operationes quae non nisi unione utriusque intelligi possunt. Add. Mor. diss. de com. idiom.
+
+::: editorial
+
+(zu S. 2290) 1 et (1) unitate (2) incarnatione L 1 longe (1) tutior (2) aptior L 1 f. et (1) Photi (2) Sociniana L 5 f. divinitatem. (1) Nec putandum est Deo (2) Et L 10 saepe (1) plebem (2) vulgus L 11 hominum (1) incommode admodum sentire et cultum (2) unio (3) magis (a) in humanitate Christi (b) humanitatem quam divinitatem Christi in animo habere (4) in . . . sibi L 13 ad (1) Deum (2) divinitatem L 20 peculiari. (1) Credi (2) Sufficit (a) ergo per humanita (b) ergo ut credamus L 20 incarnationem (1) creatas (2) communicatas L 20 esse (1) Christo (2) humanitati L 23 sunt. (1) Sciendum est autem in tota natura nullum me nosse Ens reale abstractum praeter (a) cogita (b) perceptionem (c) cogitatio (d) perceptionem. Nam motum esse modum tantum alibi ostensum est. Vim autem in corporibus (2) Graeci L
+
+8 Vgl. C. VON DEM VORST, Tractatus theologicus de Deo, seu Disputationes decem de natura et attributis Dei, Steinfurt 1610.
+
+:::
+
+## [p. 2302] 408. RATIONALE FIDEI CATHOLICAE CONTRA OMNIS GENERIS SECTAS [1685 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 20 Bl. 168–169. 1 Bog. 2o. 2 1/3 S.
+
+E GRUA, Textes, 1948, S. 24–26.
+
+Dieses und das folgende Stück stehen in engem inhaltlichen Zusammenhang und dürften nahezu zeitgleich entstanden sein. N. 408 bildet dabei die rhetorisch ausformulierte und mit einer gezielten Leseransprache versehene Einleitung zu einer Verteidigung der Lehrsätze der katholischen Kirche. Leibniz hat hier sein Vorhaben nicht weiter ausgeführt; er bricht unvermittelt in einem Satz ab. Das Stück weist kein Wasserzeichen auf. Zur Datierung vgl. N. 406.
+
+Rationale fidei Catholicae contra omnis generis sectas
+
+Video passim summos viros praedicare felicitatem nostrorum temporum, in quibus renasci videtur et in majus proficere quicquid egregium habuit antiquitas; nec tantum historiae ac meliorum literarum lux pura effulsit, sed et scientiarum omnium arcana magis magisque patent. Neque ego non agnosco Divinae benignitatis magnitudinem sed quoties ingratitudinem nostram et animorum levitatem considero, saepe vereor, ne tantis beneficiis abutendo gravissima nobis judicia accersamus. Cum enim maximus ille sit usus Historiae ut Divinam gubernationem illustret, et veritatem religionis nostrae firmissimis testimoniis muniat potissimusque sit scopus verae philosophiae, ut nos ad perfectissimae substantiae cognitionem perducat, video multos quo magis doctrina pollent, eo minus habere pietatis; et alios, quo magis scientia clarent, eo minus fidei tribuere. Eruditi subinde ex multiplici lectione sua ea tantum corradunt, quae ad elevandam sacrorum nostrorum autoritatem facere videntur, ostendunt nobis loca scripturae sacrae [p. 2303] difficilia, sanctorum patrum naevos, conciliorum tumultus, devotorum seculorum ignorantiam, pias cleri fraudes, per cujus actus aliquando ipsam religionem petunt. Sed iidem dissimulant admirabilem in scriptis nostris sacris cum simplicitate majestatem, sanctissima praecepta, divinam in convertendis gentibus providentiam, et in media barbarie salvam semper rei catholicae summam. Ab altera parte philosophi quidam celebres causarum finalium et divini consilii considerationem e naturae inquisitione tollunt, omnia mechanica quadam necessitate materiae fieri contendunt, et pro Deo relinquunt nobis vim quandam immensam intellectus et voluntatis expertem ac producentem quicquid potest, quem quidem Deum credas an rejicias nihil interest ad humanam vitam regendam. Iidem vero non considerant satis totam naturam machinam quidem esse, sed incomparabili artificio, ubique indicem sapientissimi autoris, parumque meminerunt. Naturae studium non tantum ad sublevationem vitae corporeae sed et potissimum ad agnoscendum amandumque Creatorem dirigi debere. Et fieri posse, ut nunquam reperiamus veram rerum structuram, sed non fieri posse ut ignoremus earum usum atque effectum. Et licet temerarium sit omnes Dei fines animo complecti velle, pium tamen et necessarium esse eos agnoscere qui tanta ejus benignitate ad nos porriguntur.
+
+::: editorial
+
+(zu S. 2302) 11 sectas (1) Tametsi specimen operis dare aggredior, quod (2) Cum saepe videam homines (3) Cum in ea tempora inciderimus, (a) ubi (b) quibus (4) Video L 12 passim (1) egregios (2) summos erg. L 12 temporum, (1) ubi (2) in L 15 ego (1) diffiteor (2) non agnosco (a) Divinorum beneficiorum magnitudinem, sed quoties abusum eorum considero, et cohorresco totus, et saepe timeo, ne tanto graviora nobis (b) Divinae L 16 quoties (1) cogito (2) ingratitudinem L 16 f. ne (1) tantis beneficiis paria (2) abutendo erg. tantis beneficiis (3) tantis beneficiis abutendo gravissima erg. L 17 enim (1) max (2) ideo potissimum (3) renata lite Deus (4) maximus L 18 Divinam (1) providentiam (2) gubernationem erg. L 19 f. potissimusque . . . ut (1) perf (2) nos . . . perducat, erg. L 22 tribuere. (1) Illi (a) perpetuo no (b) excerpunt nobis (2) Eruditi subinde L 23 elevandam (1) auto (2) sacrorum L 23 nobis (1) sa (2) difficultate (3) loca L 24 scripturae (1) diffici (2) sacrae L
+
+:::
+
+Itaque saepe mecum doleo, quoties video homines a Deo abduci, illis ipsis studiis, quibus nihil mihi videtur ad veram pietatem accendendam efficacius: jam ubi ad mysteria fidei ventum est, quam multi contrahunt vultum? et alii quidem subdole protestantur credere se quod receptum est licet ipsi paulo ante satis ostenderint nihil sibi videri absurdius, alii praesertim in regionibus, ubi laxior disciplina est, palam irrident aut oppugnant. Atque hi quidem in medio Ecclesiae Catholicae sinu velut ludendi animum [p. 2304] praeferentes; sed serio illi ac data opera, quos sive nascendi infelicitas, sive propria levitas sectae implicuit. Videas eos passim insultare Catholicis, tanquam absurdissima quaeque devorare assuetis, et sibi de luce, de recta ratione, de discusso tenebrarum regno applaudere.
+
+::: editorial
+
+(zu S. 2303) 2 ignorantiam, (1) denique dum (a) Ponti (b) Clerum (2) pias L 4 praecepta, (1) integrans sic (2) divinam L 4 convertendis (1) barbaris (2) gentibus L 5 summam. (1) Philosophi ab altera parte insinuare videntur (2) Ab L 5 f. quidam (1) egregii (2) celebres erg. L 6 finalium (1) considerationem (2) et L 6 considerationem (1) tollere in (2) e L 7 f. et (1) Dei (2) pro Deo (a) nobis (b) relinquunt L 8 intellectus . . . ac erg. L 9 potest (1) qualis Deus (2) quem L 9 credas (1) et (2) an L 10 regendam (1) Sed (2) Iidem vero erg. non L 11 esse, (1) sed (2) at quae (3) at (4) sed L 11 indicem (1) sui autoris (2) sapientissimi L 12 Naturae (1) cognitionem (2) studium erg. L 12 corporeae erg. L 12 f. et (1) ad cognitio (2) potissimum ad (a) perfectionem animi quae maxime col (b) agnoscendum amandumque erg. (aa) Creato (bb) Creatorem L 14 reperiamus (1) causas rerum (a) inf (b) efficientes proximas, ver (2) veram (3) inferiora (4) veram (a) mundi (b) rerum erg. L 14 ignoremus (1) rerum ejus usum et (2) earum L 15 licet (1) absurd (2) temerarium L 15 f. velle erg. L 16 esse (1) ut (a) eis (b) eos agnoscemus, qu (2) eos L 16 ejus erg. L 18 abduci, (1) qui (2) illis ipsis (a) vinculis, qui (b) studiis L 20 vultum? (1) alii protestantur se (2) et L 21 se (1) non r (2) utcunque credit Ecclesia, (3) quod receptum est L 22 alii (1) auda (2) in (3) praesertim L 22 palam (1) testantur (2) irrident L 23 sinu (1) et velut animi gratia (2) et (3) levitatem quandam et (4) velut L
+
+:::
+
+Der in Kleindruck folgende Text wurde von Leibniz anschließend ersetzt:
+
+Ego qui et melioribus literis, et philosophiae repurgatae magno studio nec sine aliquo successu incubui, non aliam ob rationem magis mihi de divina benignitate gratulor neque alios majores laborum meorum fructus cepi, quam quod omnibus rationibus subductis in fide Catholica sum confirmatus. Cum enim videam tot praeclara ingenia futuri anxia haerere, nec habere quod de Deo aut de anima dicant vel non dicant, et nunc in credendo nunc in non credendo sibi vim facere; nonne Deo gratias agam, quod tantam animi tempestatem in me jucundissima quiete composuit. Quod mentem futurae vitae spe constabilita supra res mortalium fluxas erexit, quod mihi ostendit admirabilem consensum et pulchritudinem divinae suae philosophiae, ac gratiae cum natura conspirantis harmoniam. Quanquam enim non minus persuasus sim ex domesticis fidei principiis, nullo rationum respectu, magna tamen incredibilis illius voluptatis quam nunc subinde percipio, parte carerem, si fidei rationisque consensus mihi detraheretur. Fecit hic animi mei status, ut saepe eosdem sensus optarem diffundere posse in caeteros mortales. Sed veritus sum, primo ne professio ista superbiae tribueretur. Itaque praemonendum censeo [bricht ab]
+
+Ego qui melioribus literis et philosophiae repurgatae magno studio incubui non aliam ob rationem magis mihi de divina benignitate gratulor, nec alios majores laborum meorum fructus cepi quam quod omnibus rationibus subductis in fide catholica confirmatus sum, deprehendique omnes ejus partes et mire inter se consentire et ex recta ratione [p. 2305] egregie illustrari. Et cum dubitare non possim eadem et multo praeclariora innotuisse Viris compluribus doctrina et pietate magnis, saepe optavi ut prodiret aliquis Apologista divinae veritatis, qui pulchritudine ejus feliciter expressa animos hominum sancto ardore accenderet. Atque utinam S. Augustinus in nostra tempora incidisset, aut nostri seculi profectus anticipare potuisset: vel potius utinam viri insignes eodem spiritu animati tantum opus aggrederentur. Nunc quid me imparem licet partem exiguam et magis facilem attingere coegerit dicam. Intercessit mihi notitia cum hominibus summi ingenii, sed quorum juventus periculosissimis dogmatibus imbuta erat, hi, cum me viderent liberioribus eorum sermonibus parum annuere, primum simplicitatem meam miserabantur postea cum deprehenderent me quoque philosophiam illam novam non ignorare, et praestitisse aliquid in sublimioribus doctrinis quibus se seculum nostrum effert, coepere mirari cur inventa fruge glandibus vescerer, ipsi enim credebant philosophiae luce hausta, nemo sanae mentis amplius fidem adhibere posse dogmatibus quorum absurditatem, ut ipsi ajebant, Romana vel potius christiana Ecclesia mysterii appellatione velaret. Et cum ego contra tenderem acrius, simulationis me suspectum habebant, quae accusatio gravior multo quam ignorantiae merito mihi videbatur. Itaque tum ut sinceritatem meam vindicarem, tum ut amicorum saluti succurrerem coepi tentare delineationem quandam Rationalis fidei Catholicae. Lecta est opella, quid dicam? Tetigit animos, nihil tale expectantes, fecit ut vererentur aliqui ne vera dicerem. Fuit qui daret manus, qui se mihi postea salutem debere fateretur. Idem urgebat acriter ut publicarem, sperans apud multos posse aliquid, quod apud se valuisset. Ego contra disputabam periculosum [bricht ab]
+
+::: editorial
+
+(zu S. 2304) 1 sed (1) di (2) quid jam (3) quid jam illi (4) serio . . . opera L 1 sive (1) infelic (2) nascendi L 6 et (1) literarum studiis olim et (2) melioribus L 6 studio (1) incubui, non alio (2) nec L 7 f. mihi (1) sum gratulatus (2) de . . . fructus (a) cepisse mihi videor (b) cepi L 8 Catholica magis gestr. sum L 8 confirmatus (1) , quid enim jucundius est, quam in hac vita jam tum animo praecipere gaudia aeternitatis, (2) quid autem ad Deum amandum efficacius est, quam (a) et (b) Agnito (c) agnito consensu (aa) admirabili verae Th (bb) omnium Theologiae verae partium tum inter se, tum vero cum meliore philosophia (3) . Cum L 9 anima nostra gestr. dicant (1) aut (2) vel L 9 et (1) nunc sibi in credendo vim facere, nunc (2) nunc L 10 animi (1) pess (2) tempestatem L 11 composuit (1) , ex quo et animum (2) . Quod mentem L 12 admirabilem (1) pulchritudinem (2) consensum L 12 pulchritudinem (1) revelationum suarum (2) divinae L 13 conspirantis (1) Et fateor quanquam enim (2) harmoniam. L 13 persuasus (1) esse possem (2) sim ex (a) sole (b) domesticis L 14 nunc erg. L 16 mortales. (1) Non (2) Sed velim ut (3) Sed (4) Aut potius optabam ut ex magnis nostri seculi viris, (a) quos non dubitabam (b) inter quos esse non dubito quibus major. (5) Sed diu 〈retinuere〉 me primum (6) Sed L 18 studio (1) nec sin (2) incubui L 19 gratulor (1) quam quid (2) nec L 20 f. subductis (1) deprehendi (2) in . . . deprehendique L 21 omnes (1) fidei catholicae (2) ejus L
+
+:::
+
+::: editorial
+
+(zu S. 2305) 1 possim (1) quod a me mito (2) eadem L 1 f. innotuisse (1) tot magnis ingeniis nostris (2) Viris L 4 f. seculi (1) lux (2) feli (3) profectus L 6 me (1) plane (2) imparem (a) plane (b) licet erg. L 7 facilem (1) tanto consilio (2) attingere L 7 dicam. (1) Fuit mihi notitia cum hominibus (a) erud (b) ingenio et (c) juvenibus (2) Intercessit L 7 cum (1) summis qui (2) hominibus L 8 sed (1) quos vitae (a) educa (b) liber (2) qui in juventute (3) quorum juventus (a) in (b) periculosissimis L 9 annuere (1) . Mira (2) id primum ignorantiae meae tribuebant, (a) qui non satis in novae philosophiae (aa) ab (bb) mysteria (b) cum vero viderent (3) , primum L 10 postea (1) de (2) cum L 10 deprehederent (1) non minus (2) me L 10 quoque (1) et (2) in mysteria a (3) philosophiam L 11 f. sublimioribus (1) illis (2) doctrinis quibus . . . effert erg. L 12 f. credebant (1) verae (2) philosophiae L 13 nemo (1) amplius (2) sanae L 13 adhibere (1) dogma (2) posse L 14 vel . . . christiana erg. L 15 acrius, (1) et a (2) simulationis L 15 f. me (1) insimulabant (2) suspectum habebant L 17 ut (1) animos eorum (2) non a Catholica tantum, sed et proponendum ab omni religione (3) ut animis eorum in (4) ut amic (5) amicorum L 18 Catholicae (1) , ubi (2) quo fructu inter amicos (3) lecta L 19 animos, (1) fecit ut vererentur aliqui erg. ne vera dicerem. Sed dissimulavere vulnus (2) nihil L 19 expectantes, (1) sed dissimulavere vulnus (2) fecit L 20 qui (1) longius pos (2) daret L 20 postea erg. L 21 sperans (1) posse aliquid, quod (2) apud L
+
+:::
+
+## [p. 2306] 409. RATIONALE FIDEI CATHOLICAE [1685 (?)]
+
+Diese Abhandlung führt die in N. 408 eingeleitete Thematik in zwei Fassungen weiter. Deren erste (N. 4091) hat Leibniz anfangs am Rand durch die Angabe von Autoren zum Thema ergänzt und im Vergleich zu N. 4092 breit ausgeführt. N. 4092 greift Elemente der vorangehenden Fassung wieder auf und ist neben dem Konzept noch in einer verbesserten Reinschrift überliefert. Keine der drei Handschriften trägt ein Wasserzeichen, doch lassen thematische Parallelen auf den gleichen Entstehungszeitraum schließen, wie er für IV, 3 N. 16 bis N. 19 anzusetzen ist. Die Reinschrift schickte Leibniz am 8. Februar 1697 mit der Bitte um eine Stellungnahme an Johann Andreas Schmidt, wobei er sie als »Schedam ante complures annos a me scriptam« bezeichnet (I, 13 N. 327, S. 536). 409[^2306-1]. ERSTE FASSUNG Überlieferung: L Konzept: LH I 3, 7c Bl. 1–2. 1 Bog. 2o. 4 S. (Am Ende geringer Textverlust.) Nachweise werden, sofern sie sich wiederholen würden, erst zur zweiten Fassung gegeben.
+
+Rationale Fidei Catholicae, in quo brevi specimine ostenditur, dogmata catholica magis rationi consentire, quam sectarum quarumcunque.[^2306-1]
+
+De Deo Uno
+
+Deum Ecclesia Catholica docet esse Substantiam perfectissimam.
+
+[^2306-1]: Am Rande: Conferendi autores Haeresiologiarum S. Augustinus, S. Epiphanius, Alphonsus a Castro, Schlusselburgius, ut ostendatur dogmata haereticorum parum esse rationi consentanea.
+
+::: editorial
+
+(zu S. 2306) 18 Am Rande: vid. Poemander gestr. L 18 Substantiam (1) in quam (2) perfectissimam. L
+
+:::
+
+[p. 2307] Eadem fuit sententia Philosophorum qui ob sublimes cogitationes celebrantur, Pythagoricorum scilicet et Platonicorum.[^2307-2]
+
+Perfectissimum intelligitur, cui omnes insunt Perfectiones, et quod nullam involvit imperfectionem.
+
+Perfectio autem est omnis conceptus pure positivus qui nihil negationis involvit, ideo absolutus quoque est seu nihil involvit limitationis, omnis enim limitatio est negatio quaedam ulteriorum in eodem genere. Ita esse, agere, vivere, scire, posse, sunt perfectiones, seu conceptus qui de Deo possunt praedicari, sua natura enim non involvunt limitem, quemadmodum faciunt destrui, pati, figuram habere quae in naturam divinam non cadunt. Possunt tamen perfectiones illae limitem quem non involvunt, recipere cum scilicet tribuuntur creaturis, omni enim creaturae aliqua inest perfectio pro modulo suo, sed mista imperfectioni sive limitationi. At in Deo absolutissime intelliguntur, ita ut essentia ejus sit maxime independens, actio ejus ita universalis ut omnia ab ipso dependeant, vita ejus est aeternitas, cognitio ejus omniscientia, vis ejus omnipotentia.
+
+Hinc sequitur Deum non esse corporeum, est enim corporis natura limitata, cum figura circumscriptum intelligatur. Itaque exploduntur ineptiae gentium, quae solem et astra adoravere, et solem quidem pro summo Deo passim habitum, eoque redire mysticam gentilium Theologiam ostendit Macrobius, qui error confirmatus est ab ignorantia [p. 2308] veri systematis Mundi, nam qui Mundum totum instar pilae considerat aliquot sphaeras in se includentis, cujus extima superficies astrigera est instar crystallini orbis aureis clavis distincti, facilius sibi persuadebit solem cujus pulchritudo et potentia maxime apparet esse vel Deum vel corpus Dei aut saltem sedem nisi malit cum Aristotele Deum extimae sphaerae alligare. At qui novit stellas fixas esse totidem soles, neque ullum esse in Mundo corpus primarium, agnoscet Deum esse intelligentiam ut cum Martiano Capella loquar, ultramundanam, cujus sedes ubique est limes nusquam.
+
+[^2307-2]: Am Rande: vid. Poemander, aliique veteres (in quos Ficinus et Patritius), Plotinus, Dionys[ius] Areop[agita], Augubin[us] perenn. philos., Morn[aeus] de ver. relig. Christ.
+
+::: editorial
+
+(zu S. 2307) 3 Perfectissimum autem gestr. intelligitur L 5 nihil limitationis sive gestr. negationis L 5 f. involvit, (1) adeoque (2) ideo erg. L 7 Ita (1) agere, scire, posse, (2) esse, agere, vivere, erg. scire posse, L 8 praedicari, (1) et (a) quidem sine omni limite (b) praedicatu (2) et str. Hrsg. sua L 9 quemadmodum (1) figuram habere, (2) pati, fig (3) faciunt erg. L 9 f. habere (1) . Pr (2) . Cum praedicantur autem de Deo modo absolutissimo, (3) quae . . . cadunt erg. L 10 tamen (1) limitem (2) perfectiones . . . involvunt, L 13 sit (1) per (2) ab (3) maxime L 14 dependeant, (1) scienti (2) cognit (3) vita L 14 omniscentia, (1) virtus (2) vis L 18 adoravere (1) . Qui errores (2) . Credebant scilicet illi corpora illa (3) , et L 18 f. eoque . . . Theologiam erg. L 19 error (1) natus (2) confirmatus L
+
+21 HERMES TRISMEGISTOS, Mercurii Trismegisti Pymander, de potestate et sapientia Dei; item Asclepius de voluntate Dei, in M. FICINO, Opera . . . omnia, Bd 2, Basel 1561 u. 1576; F. PATRIZI, Nova de universis philosophia . . . Deinde nova quadam . . . divinitas. Postremo methodo platonica rerum universitas, a conditore Deo deducitur. . . . Quibus . . . adjecta Zoroastis oracula CCCXX, ex Platonicis collecta. Hermetis Trismegisti libelli, et fragmenta, . . . Asclepii discipuli tres libelli, Mystica Aegyptiorum, a Platonica dictata, ab Aristotele excerpta, et perscripta philosophia. Platonicorum dialogorum novus . . . ordo scientificus. Capita demum multa in quibus Plato concors, Aristoteles vero catholicae fidei adversarius ostenditur, Venedig 1593. 22 A. STEUCHUS EUGUBINUS, De perenni philosophia libri X, Lyon 1540. 22 PH. MORNAEUS, De veritate religionis christianae, Leiden 1587; 2. Ausg. Herborn 1600.
+
+:::
+
+Sed quemadmodum corporis attributa Deo insunt eminenter tantum, etsi enim in loco non sit tamen praesens est, et liceat motu careat, tamen movet; ita Mentis attributa Deo insunt formaliter ut ita dicam ita ut Deus recte dici possit Mens. Sciendum enim est alias notiones pati infinitum, alias non pati, quod exemplo ex Geometria petito illustrabo.
+
+Linea recta, vel Hyperbolica aut parabolica finem longitudinis non involvunt, et produci possunt utcunque, at circumferentiae circuli vel Ellipsis determinatae sunt lineae, ut qui in ipsis motum continuatum concipere velit, priora vestigia relegere cogatur. Unde etiam circumferentia circuli non potest augeri, sed assumendus est circulus novus priore major, at eadem linea recta semper augeri potest. Eodem modo dicendum est Corporis naturam, eo ipso quia figuram habet, infiniti esse incapacem, at Mentis natura per se nullos involvit limites.
+
+Si quis vero dicat ipsummet Universum esse corpus infinitum sciendum est, si nullus poneretur corporum finis, ipsum Universum infinitum non fore Ens unum aut totum, quemadmodum nec Numerus infinitus unum totum est, quod jam alii ostenderunt. Infinitum scilicet actu per modum unius totius non habet locum in iis quae formantur per compositionem ex partibus, ut corpus ex membris, et in quibus finitum infinito simplicius conciperetur, sed in illis tantum quae per se sunt, et eo ipso infinita sunt, quia absolute [p. 2309] concipiuntur, et in quibus infinitum ipsum prius natura sive conceptu est, quam finitum, quod scilicet accedente quodam limitante conceptu ex infinito resultat. Mentem autem nihil prohibet infinitam concipi eam scilicet quae cogitationes suas aliunde non accipit, nam et in nobis aeternae veritates non a sensu et experientia discuntur, sed fluunt ex ipsa natura mentis, quod sua quoque reminiscentia voluit Plato; et unaquaeque Mens eo est perfectior, quo minus per experientiam discere opus habet. Mens igitur perfectissima concipit omnia a priori et ex se ipsa ad modum aeternarum veritatum.
+
+::: editorial
+
+(zu S. 2308) 1 f. aliquot . . . includentis erg. L 2 extima (1) sphaera stellis qua (2) superficies astrigera L 2 crystallini (1) aureis clavis (a) distincta (b) distincti (2) orbis erg. L 3 distincti, (1) facile (2) facilius L 4 vel (1) saltem sedem Dei (a) at qui (b) aut (c) vel (2) corpus . . . sedem L 5 ullum (1) cognitum (2) esse L 6 intelligentiam erg. L 8 Sed (1) quemadmodum (2) cum (3) quemadmodum corporis (a) perfectiones (b) attributa L 13 at (1) circulus (2) circumferentiae circuli L 14 motum (1) infinitum sibi (2) continuatum L 15 f. priore major, erg. at eadem erg. L 17 per se erg. L 19 f. est, (1) ipsum non esse (2) etiamsi (3) si nullus (a) ponatur (b) poneretur . . . finis, (aa) tamen (bb) ipsum . . . fore L 21 infinitus (1) quod ja (2) qui contradi (3) unum L 22 per modum unius (1) conceptum (2) totius erg. L 23 f. ex 〈sui mem〉 erg. u. gestr. partibus, ut . . . membris, erg. et . . . conciperetur, erg. ut erg. u. gestr. sed L
+
+7 MARTIANUS CAPELLA, De nuptiis Philologiae et Mercurii libri IX, IX, § 910. 21 alii: In N. 293 verweist Leibniz, wie früher schon, auf Galilei.
+
+:::
+
+Est ergo in Deo omniscientia qua actu cogitat, quicquid possibile aut actuale est, et quicquid praeteritum aut futurum est. Et quidem possibilitatem rerum sive essentiam novit ex consideratione sui intellectus, qui omnium rerum ideas seu essentias eminenter expressas, continet; at actualitatem rerum novit ex consideratione suae voluntatis sive decretorum liberorum, quorum primarium est ut res producantur perfectissimo modo. Quemadmodum Geometra absolutus problema aliquod soluturus nulli quidem constructioni alligatus est, sed tamen pro sapientia sua eam, licet non necessario tamen certo eliget, quae est maxime simplex et universalis, nec magis hoc libertati divinae officit, quam quod peccare non potest. Quin imo Divinae Bonitatis et Justitiae cum his connexus videtur conceptus, usque adeo enim omnia bene a Deo instituta sunt, ut pro certo habendum sit, quanto quis futurus esset sapientior et in universi cognitione provectior eo magis agniturum esse, ne optari quidem posse meliora et neminem habere cur jure conqueratur. Quae notiones mihi certe etiam ad amorem Dei super omnia excitandum mirifice facere videntur; et quo quisque erit sapientior, et scientia rerum vera instructior eo divinus amor in eo erit ardentior, novis enim semper argumentis aletur. Qui vero non versatus est in specialibus rerum arcanis, modo hoc ipsum in genere teneat, omnia a Deo optime facta esse, eo ipso jam satis sapiens est, ad Deum super omnia amandum; caetera meliori vitae servaturus. Qui autem cum Momo putant aliqua in [p. 2310] Mundo reprehendi posse, sciant non rerum naturam, sed temeritatem suam esse accusandam, qui paucis perspectis de immenso judicare audent. Et certe ut in republica, ita in Mundo pessimum hominum genus est, malecontenti. Qui vero in mediis etiam miseriis Providentiae non servili tantum patiendi necessitate (qua et philosophi veteres utebantur nihil aliud monentes expetendum quam quod in potestate est), sed filiali fiducia divinae bonitatis, omnia in melius dirigentis acquiescere possunt, perseverando coronabuntur. Nam spes eorum in amore, id est divinae pulchritudinis contemplatione fundata est; et sciunt Deum amantibus omnia in melius cedere debere.
+
+::: editorial
+
+(zu S. 2309) 3 eam . . . accipit erg. L 4 nam (1) notitia (2) et iis nobis erg. L 5 f. mentis, (1) unde (2) quod . . . habet. erg. Mens igitur L 7 ipsa (1) eo modo quo nos (2) ad L 7 f. veritatum. (1) Unaquaeque (2) Est L 9 est. (1) Itaque (2) Novit etiam (a) cor (b) fu (c) quae futura essent aut fuissent, si quiddam aliud datum fieret aut factum fuisset. (3) Et quidem (a) actualitatem rerum novit ex cognitione suorum (b) possibilitatem L 11 consideratione (1) suorum decret (2) suae voluntatis L 12 decretorum (1) , quorum prima (2) liberorum, L 13 absolutus erg. L 13 aliquod (1) constructurus (2) soluturus L 14 eam (1) eli (2) certo eliget, (3) , licet L 15 universalis (1) . Non ergo Deus a (2) . Nec (3) , nec L 16 quam (1) angelis (2) quod L 17 adeo (1) ut (2) enim L 19 esse, (1) omnia (2) ne (a) nobis quidem (b) optari L 20 jure (1) queratur (2) conqueratur. (a) Unde sequitur etiam quo quis erit sapientior eo majori ardore Deum su (b) Et vident (c) Quae L 21 f. sapientior, et (1) in rerum cognitione provectior (2) scientia vera erg. instructior erg. L 23 non (1) satis (2) versatus L
+
+25 Momos, die personifizierte Tadelsucht.
+
+:::
+
+Porro Scientia et providentia divina tollunt quidem ex rebus incertitudinem, nam et futura vere futura seu a parte rerum certa sunt, sed non tollunt libertatem, quia enim ignoramus nos quid futurum sit, perinde eligimus quasi futurorum non esset certa veritas. Deus autem praescit quid simus electuri, quia praescit quis futurus sit Mentis nostrae status, seu quid quandoque bonum nobis sit appariturum. Eam autem Mentis nostrae a se condendae scit futuram esse naturam, ut bonum apparens majus, licet libere tamen certo sequamur. Errant enim et notiones omnes turbant, qui putant nos aliquando velle malum sive minus bonum, scientes tale esse, seu sub mali ratione et cum dicunt se libertatis suae exercendae gratia electuros quod deterius est, non animadvertunt, hanc ipsam libertatis exercendae libidinem apud ipsos habere rationem boni apparentis caeteris considerationibus praeponderantis. Neque unquam exemplum in contrarium afferent, rationem autem multo minus, nisi quod consequentiis absurdis manifestissimam per se veritatem obscurare conantur. Verentur enim ne invide sequatur fatalis eversio libertatis humanae peccatique autor Deus. Sed his viri et sanctitate et doctrina celebres Augustinus et [p. 2311] Thomas Aquinus abunde satisfecere. Nam libertas pugnat cum necessitate, sed non pugnat cum certitudine, et quemadmodum certum est Deum semper eligere optimum, et Angelum in bono confirmatum duobus exhibitis contradictoriis quorum unum peccati immune esset aliud culpam involveret haud dubie prius esse electurum, salva semper libertate, quia utriusque electio per se est possibilis; ita non video cur nobis majorem quam Deo ipsi atque angelis felicibus libertatem optemus ut libere quidem certo tamen semper eligamus quod majus bonum apparet, eo solo inter nos et illos discrimine, quod a nobis errari potest, ab illis non potest.
+
+::: editorial
+
+(zu S. 2310) 1 sed (1) ignorantiam (2) temeritatem L 2 accusandam (1) , qu (2) . Et certe quem (3) , qui audent. erg. L 4 f. miseriis (1) divinae voluntati acquiescere possunt, spe (2) Providentiae acquiescunt (3) Providentiae non (a) patiendi necessitate tantum, sed (aa) et (bb) praesumta fid (b) servili . . . (qua et philosophi veteres erg. utebantur (aa) stultum esse monentes, (aaa) quod (bbb) expetere quod non est in potestate (bb) nihil . . . est), erg. L 5 sed (1) et praesumta fid (2) filiali L 7 divinae (1) boni (2) pulchritudinis L 8 est (1) . Et in hoc mihi potissimum (2) ; sciuntque ideo omnia in melius cedere Deum (3) ; et sciunt omnia (4) ; omnia autem in melius cedunt (a) Deum amanti (b) Dei amicis, neque oculis vidit vel auris audivit quae Deus amantibus sui praeparavit (5) ; et L 9 Scientia (1) divina (2) et L 10 vere futura seu erg. L 12 quia (1) praescit nos bonum apparens licet libere tamen certo sequi (2) ita nos condidit, ut (3) scit se nos ita conditurum, ut bonum apparens licet libere tamen certo sequamur (a) quid autem nobis quandocunque appariturum sit sese nihil aut etiam (b) neque locum habet indifferentia nisi in his quae perfecte aequalia sunt (c) et cum libertatis nostrae exercendae gratia dicimus etiam nos erg. quo deterius apparet eligere velle, (4) scit (5) praescit L 15 sequamur erg. L 15 nos (1) posse (2) aliquando L 17 non (1) considerant, (2) animadvertunt, L 20 nisi (1) a posterio (2) quod L 21 conantur. (1) Credunt (2) Verentur L 21 f. fatalis (1) omnium rerum necessitas (2) eversio libertatis humanae L 22 his (1) incomparabilibus (2) Sanctissimi et summi (3) viri L
+
+:::
+
+Difficultas autem illa de autore peccati Deo, omnes omnium Hypotheses premit, quicunque Deum omniscium omniumque rerum autorem conservatoremque agnoscunt, cum et conservatio continua quaedam creatio sit. Soli vero Sociniani statim in limine elabuntur cum quibusdam Remonstrantibus qui eo metu ipsas divinas perfectiones tollere audent. Sed quanto divinus Apostolus ad illa ipsa potius Dei attributa, sapientiam et magnitudinem Dei provocavit, tanquam insinuaturus animis etiamsi ignorantia nostra caliget ad hunc solem, ex ipsa tamen Divinae perfectionis supereminentia praejudicandum esse, nihil nisi justissime atque ut ita dicam aequissime a Deo agi. Sed neque putandum est invictam esse objectionem. Equidem vidit Deus peccatum esse futurum, si Mundum ita crearet ut fecit; imo eam seriem rerum condidit, qua continebatur status mentis in Adamo, quo posito peccatum ille certo electurus erat haec a nemine negari possunt, nisi qui negat omnia a Deo certo sciri et dependere; an ergo Deus dicendus est, Autor peccati. Absit, nam non ideo minus homo libere elegit. At instabis, potuisse Deum immutata rerum serie hoc impedire, nec tamen voluisse. Fateor. Ergo imputanda erit [p. 2312] culpa aliqua? Minime, nisi ostendatur et debuisse. At inquies ergo peccatum voluit; respondemus: non voluit, sed permisit. Ergo, non satis odit. Respondeo odit, quemadmodum oportet Deum aliquid odisse, qui a nulla re laedi potest. Vetuit, edixit homini se puniturum; utramque ei proposuit viam vitae et mortis. Sed non ita peccatum odit, ut absolute vellet ipsum non extare in natura, alioqui profecto nec extitisset. Peccati tamen causa non sita est in Dei voluntate, sed in voluntate creaturae, quae per naturam rerum nisi experimento aut Dei gratia sustentetur prona est ad judicandum de non satis intellectis. At inquies cur non Deus gratiam suam omnibus ubique dedit; seu cur hanc potius rerum seriem elegit, in qua praesciebat, peccatum esse extiturum. Haec jam curiosior quaestio est, et cui a mortali distincte responderi non potest. Sufficiat nobis scire eam quam elegit eo ipso quia elegit, et optimam et justissimam esse, et si qua ratio quaerenda est cogitemus a sanctissimis etiam viris felix Adae peccatum esse nominatum, quod divinissimo incarnationis mysterio expiaretur. At damnati queri possent in se ut ita dicam sortem cecidisse. Verum iniqua est querela, quia eam instituere non poterant vivi, cum enim nescirent an electi essent, responderi enim ipsis poterant, salvos fore si vellent; neque aliquid unquam ullo jure in puniendis criminibus quam malam peccantium voluntatem undecunque natam, requiri. Et fortasse nec damnati ullo modo queri possunt, si verum est quod quidam putant eos sibi voluntario Dei justissimi judicis odio damnationem sponte perpetuare. Denique non minus ineptae sunt illae querelae praetextu praedestinationis, quam excusationes ignaviae (τουÄ αÆ ργουÄ λοÂ γου) praetextu providentiae et fati, ut si quis nollet pedem movere argumento quod decreta sibi fato alimenta aut non aut etiam sint opera sua obtingere deberent. Quod non sequitur, neque enim absolute decretum 〈 – – – 〉 est quicquam, sed et causas praevisas; ita non decretum est, ut sis [p. 2313] egenus quicquid agas aut non agas, sed si certum est te cum tuo illo tam pulchro argumento fore egenum, etiam certum est te fore ignavum. Itaque 〈actionem〉 tuam vides non fato sed voluntariae 〈 – – 〉. Unde autem illa tibi voluntas, nihil ad praxin, eadem ad praedestinationis negotium merito accommodabuntur neque ad rem moralem aut quaestionem juris quia voluntas mala omni jure ad poenam sufficit, et qui hujus convictus est, non habet quod queratur. 4092. ZWEITE FASSUNG
+
+::: editorial
+
+(zu S. 2311) 1 Nam (1) quod (a) n (b) cu (2) libertas (a) non p (b) pugnat L 2 est (1) salva libertate (2) Deum L 3 duobus (1) positis (2) exhibitis L 4 f. electurum, (1) sed (2) quanquam vel alterutrius electio per se esset (3) salva (a) libertate sua quia alterutrius electio per se est (b) semper . . . est L 6–8 ut . . . eo (1) discrim (2) solo . . . a (a) nobis errari (b) intellectus noster errare (c) nobis . . . non potest. erg. L 9 autore (1) rerum omnium (2) peccati L 9 omnes (1) Hypotheses (2) omnium L 10–12 agnoscunt (1) . Et (2) , nam et conservatio continua quaedam creatio est. Et soli Sociniani elabuntur, (a) quibus (b) et quidam Semisocinianis remonstrantes (3) , cum . . . statim in (a) principio (b) limine erg. . . . Remonstrantibus L 12 perfectiones (1) omni (2) tollere L 13 Sed (1) melius Apostolus (2) quanto L 13 f. ad (1) illas ipsas potius perfectiones (2) illa . . . magnitudinem L 14 animis (1) nostris (2) etiamsi (a) caecitas (b) ignorantia L 15 solem, judicandum esse gestr. ex L 15 perfectionis (1) magnitudine (2) supereminentia L 16 Deo (1) fieri. (2) factum esse. (3) agi. L 17 Deus (1) quid esset (2) peccatum L 18 ita erg. L 18 f. condidit, (1) ex qua secuturus erat (2) qua continebatur L 19 ille erg. L 19 haec omnia gestr. a L 20 possunt (1) . Sed non ideo minus (2) , nisi L 20 certo erg. L 22 hoc (1) imp (2) immutare (3) impedire, L
+
+13 Wohl gemeint Paulus.
+
+:::
+
+::: editorial
+
+(zu S. 2312) 1 aliqua (1) , nisi os (2) ? Minime, L 2 Ergo, (1) a nobis (2) non (a) satis odit. (b) noluit. (c) satis L 3 aliquid (1) aversari, (2) odisse, L 5–8 extitisset. (1) At cur inquies, (2) Peccati (a) ergo (b) tamen in (aa) imperfectione (bb) voluntate creaturae, quae (aaa) quantacunque (bbb) nisi peculiari Dei gratia (ccc) nisi str. Hrsg. per . . . sustentetur (aaaa) 〈prodi〉 (bbbb) prona . . . gratiam (aaaaa) hanc (bbbbb) suam omnibus ubique erg. dedit; seu cur L 10 est (1) , cui (2) Ego (3) . At sic quaerenti, quid ad Te inquam, quid quereris, peccata, si aliam elegisset, si Adamus non peccasset, credo tu ne extiturus quidem oras. At mallem, ais non (a) ex (b) esse quam damnari. Recte postes si velis non damnari (4) , et L 11 scire . . . elegit erg. eo ipso erg. L 11 f. esse (1) . At insurgunt inferorum querelae, non potuisse se non peccare, peccatum autem non a voluntate Dei, sed ab imperfectione creaturae proficisci, (a) et (b) quanquam et sanctissimis viris (2) , et . . . viris L 13 f. ut ita dicam erg. L 15 enim erg. L 16 in (1) poe (2) puniendis (a) malis (b) criminibus L 19 f. praetextu praedestinationis erg. quam (1) eorum qui praetextu provi (2) excusationes L 20 (τουÄ αÆ ργουÄ λοÂ γου) erg. L 21 ut erg. L 21 nollet (1) medicamenta sumere (2) pedem L 21 movere (1) ex praetextu quod (2) argumento L 22 sua erg. L 22 sequitur, (1) nam (2) neque L
+
+:::
+
+Überlieferung:
+
+L Konzept: LH I 3, 7c Bl. 1a–2a. 1 Bog. 2o. 3 1/2 S.
+
+l verb. Reinschrift J. Chr. Böhmer: LH I 3, 7c Bl. 3–4. 1 Bog. 2o. 3 3/4 S. (Unsere
+
+Druckvorlage.)
+
+Rationale fidei Catholicae
+
+De Deo uno
+
+1) Deus est Substantia perfectissima.
+
+Cui scilicet attribui possunt omnes perfectiones et de qua negari debent omnes imperfectiones. Quaecunque enim perfectiones in aliis rebus intelliguntur formaliter, Deo attribuuntur eminenter, id scilicet cavendo ut ab omni imperfectione purgata concipiantur. Est autem perfectio nihil aliud quam attributum, quod nullam involvit limitationem, ut esse, agere, vivere, scire, posse: Quibus additur in Creaturis limitatio, unde resultat: [p. 2314] fieri, pati, mori, ignota discere, impediri. Itaque ista de Deo pronuntiari non possunt, priora possunt, modo absolutissime intelligantur, ita ut essentia ejus sit maxime ampla, et independens, actio ejus ita universalis ut omnia ab ipso dependeant; vita ejus aeternitas; cognitio ejus, omniscientia; vis ejus omnipotentia. Hanc Dei notionem et philosophis veteribus sublimitate cogitationum illustribus, et toti Ecclesiae Catholicae esse receptam constat, nec dissentiunt Protestantes. Soli Sociniani et quidam Remonstrantes (: quos inter notus est Conradus Vorstius illaudabili libro edito de Deo :) Deum quendam finibus circumscriptum sibi fingunt, multaque de eo pronuntiant, summo ejus numine indigna, quod scilicet immersi rerum finitarum considerationi, sublimes illos conceptus non caperent, atque ideo pro impossibilibus haberent. Sed sciendum est semper conceptum absolutum esse priorem et simpliciorem limitato, unde sequitur illis, qui mente a sensibus avocata aeternas veritates contemplantur, conceptum Dei manifestum esse, etsi non magis imaginatione et sensibus percipi possit, quam color audiri vel sonus gustari.
+
+::: editorial
+
+(zu S. 2313) 1 f. cum . . . argumento erg. L 2 Itaque (1) ege (2) 〈actionem〉 L 14–18 perfectissima (1) Haec est notio sive Definitio Dei recepta in Ecclesia Catholica (2) Omnes (3) Haec fuit sententia etiam veterum philosophorum (4) In hac Dei notione Catholici omnes consentiunt, (a) mon (b) quoties enim Deo aliquid attribuunt, (aa) admonent ab omni creaturar (bb) translatum a creaturis, admonent solicite (5) Cui . . . negari (a) possunt (b) debent . . . enim (aa) insunt (bb) perfectiones . . . eminenter (aaa) et quoties (bbb) id . . . omni (aaaa) lab (bbbb) imperfectione (aaaaa) purgatum intelligi debere (bbbbb) purgata concipiantur. L 19 agere, (1) vivere, (2) intelligere (3) vivere, praesentem esse, erg. u. gestr. scire, L 20–S. 2314.1 unde (1) orit (2) resultat: (a) oriri (b) genera (c) fieri . . . mori, circumscriptum esse, erg. u. gestr. discere, L
+
+:::
+
+2) Deus existit.
+
+::: editorial
+
+(zu S. 2314) 1 ignota erg. l 1 Deo (1) intelligi (2) pronuntiari L 2 possunt, explicationemque recipi gestr. modo L 2 maxime (1) perfecta (2) absolu (3) ampla L 3 vita ejus erg. l 4 vis ejus erg. l 4 f. notionem et (1) sublimioribus (2) philosophis . . . et erg. (a) Cabalistis Judaeorum (b) Sephiroticis Judaeorum Auctoribus notam, et erg. u. gestr. in tota Ecclesia Catholica esse L 5 et (1) in tota Ecclesia Catholica (2) toti . . . Catholicae l 6 constat, (1) eandem veteres quoque philosophi (2) nec (a) abu (b) dissentiunt Protestantes (aa) praeter solos Socinianos et quosdam Remonstrantes (bb) . Soli L 8 circumscriptum (1) nec omnia, (2) qui (3) et (4) qui nec sciat nec possit omnia, (5) m (6) sibi L 9 immersi (1) cogitation (2) rerum L 9 f. conceptus (1) haberent pro impossibilibus. (2) non . . . haberent. erg. L 11 absolutum (1) priorem esse limitato (2) esse priorem L 11 limitato, (1) et (2) his qui mentem (3) adeoque et erg. illi (4) unde sequitur illis L 12 contemplantur, (1) intellectu faciliorem (2) conceptum . . . manifestum L 14–S. 2315.19 Deus . . . definitionem erg. L 14 existit (1) Argumentum existentiae divinae simplicissimum primus attulit Anselmus libro contra insipientem. Nimirum Deus est quo majus seu perfectius cogitari non potest. Perfectius autem est, cujus (a) senten (b) existentia (c) essentia involvit existentiam, quam cujus essentia eam non involvit. Itaque ex essentia seu conceptu Dei necessario sequitur (aa) essentia (bb) existentia quicquid autem ex alicujus conceptu sequitur, id vere de eo potest praedicari; (aaa) itaque de (bbb) ut trilinearitas de triangulo; itaque de Deo potest praedicari (aaaa) essen (bbbb) existentia seu Deus existit. Hoc argumentum sophismatis suspectum est quia usque adeo de improviso concludit. Et D. Thomas aliquid in eo desiderat, quod tamen non satis recte intellexere interpretes. Notat enim Aquinas erg. hoc argumentum supponere Deum esse in rerum natura. Quod non ita intelligendum est ac si supponat Deum (aaaaa) esse (bbbbb) actu existere quod est in conclusione erg. , sed saltem supponit essentiam Dei in natura rerum locum habere ut essentiam rosae in hyeme; seu supponit Deum esse possibilem. Hoc est ergo privilegium Divinae Naturae, ut ex sola ejus possibilitate (aaaaaa) seu (bbbbbb) sequatur ejus (cccccc) seu essentia sequatur ejus existentia seu ut essentia ejus existentiam involvat, seu ut Deus erg. sit a se. Quod si itaque non prius demonstretur Deum esse possibilem, argumentum est imperfectum. Nos autem in praecedente satis explicuimus quod conceptus Dei sit possibilis. Habemus ergo eum existere (2) Demonstratur L
+
+7 C. VON DEM VORST, Tractatus theologicus de Deo, seu Disputationes decem de natura et attributis Dei, Steinfurt 1610. 14 (Variante) ANSELM VON CANTERBURY, Liber contra insipientem, vgl. N. 129; THOMAS VON AQUIN, Summa theologiae I, 2, 1 u. Summa contra gentiles, I, 10–11.
+
+:::
+
+[p. 2315] Demonstratur tum a priori tum a posteriori. A priori quidem seu ex Dei essentia sive possibilitate: hoc est ex ipso conceptu Entis perfectissimi. Deus enim est qui nihil perfectionis non habet. Jam et existentia perfectio est, nam utique perfectius est Ens a se seu cujus essentia existentiam involvit, seu quod est Ens necessarium, quam quod est tantum contingens. Quodsi autem Dei conceptus seu essentia involvit existentiam, utique existentia de Deo poterit praedicari. Hoc argumentum primus attulit Anselmus Cantuariensis, libro contra insipientem. A posteriori probatur existentia Dei, ex rerum finitarum contingentium existentia, cujus ratio reddi non potest, nisi veniendo ad Ens necessarium, quod rationem existentiae habet in se ipso, et proinde nec limitem habet, quippe qui non nisi ab extrinseco sumi potest. Specialiter confirmatur Existentia Dei ex pulcherrima rerum omnium structura, et maxime ex natura mentis. Itaque male Socinus contra scripturam sacram et Ecclesiae Catholicae sententiam negavit, Deum naturali lumine ex creaturis deprehendi posse.
+
+3) Deus est aeternus.
+
+Sequitur ex eo quod essentia ejus involvit existentiam. Existentia ergo ejus necessaria est, quod autem necessarium est, id aeternum est.
+
+4) Deus est unicus.
+
+Nam si plures [sint], different; et quidem perfectionibus, quia aliud nihil in Deo intelligitur, ergo unusquisque eorum aliqua caret perfectione contra Dei definitionem.
+
+::: editorial
+
+(zu S. 2315) 1 a priori (1) ex ipso conceptu Entis (a) perfectissimi, tum quia id 〈 – 〉 (b) perfectissimi, (2) tum L 1 ex (1) ejus (2) Dei L 3 est, (1) et 〈 – 〉 (a) cum (b) cum Deus sit (2) Deus est quo majus seu perfectius nihil potest concipi (3) et (4) nam L 3 f. est (1) quod (2) cujus essentia necessaria est seu (3) Ens essentia L 5 contingens. (1) Quod argumentum primus attulit Anselmus libro contra insipientem. (2) Quodsi L 5 autem (1) ejus (2) Dei L 7 Cantuariensis, erg. L, l 7 insipientem (1) quo (2) eoque certo conficitur (a) existere Deum modo sit possibilis seu et (b) non posse intelligi Deum (aa) nisi (bb) non existere erg. u. gestr. . A L 8 contingentium erg. L 9 necessarium, (1) cujus ratio reddi non potest (2) quod L 9 limitem (1) habere potest: alioqui eatenus ab alio penderet ratio limitationis quia omni (2) habet, L 15 existentiam (1) sive necessaria est. (2) . Existentia L 18 sunt l ändert Hrsg. nach L 18 different; (1) ergo (2) et quidem L 19 eorum erg. L
+
+6 f. ANSELM VON CANTERBURY, a.a.O.
+
+:::
+
+[p. 2316] 5) Deus est incorporeus.
+
+Quia omne corpus limitem habet qui facit figuram. Itaque gravissime errarunt gentiles, qui solem atque astra adoravere. Et solem quidem pro summo Deo passim habitum, eoque redire mysticam veterum Theologiam ostendere conatur Macrobius; qui error confirmatus est ab ignorantia veri systematis mundi, nam qui mundum totum instar pilae considerat, aliquot sphaeras in se includentis, cujus extima superficies astrigera est, instar crystallini orbis aureis clavis distincti, facilius sibi persuadebit, solem cujus pulchritudo et potentia maxime apparet esse vel Deum vel corpus aut saltem sedem Dei; nisi quis cum Aristotele malit Deum extimae Sphaerae alligare. At qui novit stellas fixas esse quasi totidem soles neque ullum esse in mundo corpus primarium, facilius agnoscet Deum esse intelligentiam ultramundanam ut cum Martiano Capella loquar, cujus sedes ubique est, limes nusquam. Si quis autem statueret Deum esse corpus infinitum cujus membra sint alia omnia corpora, quo inclinare videntur qui cum Stoicis mundum vel naturam faciunt Deum, ille cogitare debet, licet concederetur majorem esse numerum corporum numero quovis assignabili, tamen non posse ex illis componi unum totum infinitum, quemadmodum ex unitatibus numerum quemvis excedentibus, non potest conflatus intelligi unus aliquis numerus infinitus, ut alias ostensum est. Itaque Deus semper erit aliquid extra supraque corporum aggregata.
+
+6) Deus est mens eaque ab omni corpore separata.
+
+Nimirum corporis attributa in Deo sunt eminenter tantum; etsi enim in loco Deus non sit, tamen praesens est, et licet motu careat, tamen movet. At mentis attributa Deo insunt formaliter, quia attributa mentis, ut scire, velle, posse, nullam involvunt imperfectionem. Mentem igitur nihil prohibet infinitam concipi, eam scilicet quae cogitationes suas aliunde non accipit, nam et in nobis aeternae veritates non sensu et experientia [p. 2317] discuntur, sed fluunt ex ipsa natura mentis, et conceptuum seu idearum, quod sua quoque reminiscentia voluit Plato. Et unaquaeque mens eo est perfectior, quo minus per experientiam discere opus habet. Mens igitur perfectissima concipiet omnia a priori et ex se ipsa, ad modum aeternarum veritatum. Deum porro non esse Mentem quae corpus aliquod informet ut nostra; nec Animam Mundi posse dici, constat ex eo quod autor est mundi, de quo post. Praeterea mundus aut est finitus aut infinitus. Si finitus, mens infinita non erit anima corporis finiti; sin mundus sit infinitus, non constituit unum aliquod totum infinitum, ut paulo ante monuimus, nec proinde haberi potest pro corpore animato.
+
+::: editorial
+
+(zu S. 2316) 2 corpus (1) est finitum (2) figuram habet, sive (3) term (4) limitem L 2 qui dicitur figura. Itaque L 7 solem erg. L 8 Deum (1) vel saltem corpus sive (2) aut (3) vel corpus (a) vel (b) aut L 9 quis erg. l 11 ultramundanam erg. L 11 loquar, ultramundanam, gestr. cujus L 12 autem (1) fingeret sibi Deum esse ignem vel aethera per omnia fusum, is non satis consideraret nullum esse in mundo corpus subtilissi (2) ipsum universum (a) fini (b) infinitum vellet esse Deum, (3) statueret L 12 infinitum (1) , ipsumque (2) cujus L 13 cum . . . vel erg. L 14 Deum, illi cogitare debent, licet l 16 quemadmodum etiam gestr. u. erg. ex L 16 excedentibus, tamen gestr. non l 19 eaque (1) a corpore (a) sejuncta L (b) distincta (2) ab . . . separata l 20 corporis (1) virtutes (2) quidem erg. attributa L 20 Deo quidem gestr. sunt l 22 attributa (1) Mentibus omnibus communia, (2) Mentis L
+
+4–8 MACROBIUS, Saturnalia, I, 17. 9 ARISTOTELES, De mundo, 6, 397 b 25. 11 f. MARTIANUS CAPELLA, De nuptiis Philologiae et Mercurii libri IX, IX, § 910; vgl. VI, 3 S. 201.
+
+:::
+
+7) Deus est omniscius.
+
+Nam possibilitates sive essentias rerum novit ex consideratione intellectus sui, qui cum sit perfectissimus, omnia utique ideis suis exprimit, quae cogitari possunt. At contingentias sive actuales existentias rerum omnium praeter se novit, ex contemplatione suae voluntatis, sive decretorum liberorum, quorum primarium est ut ex pluribus possibilibus eligatur quod est perfectius sive melius.
+
+::: editorial
+
+(zu S. 2317) Den in Kleindruck folgenden Text hat Leibniz, nachdem er den ersten Absatz durch den zweiten ersetzte, in L gestrichen:
+
+Utrum autem sit melius non pendet a Dei voluntate quod dogma periculosum est, facit enim ut et justitia pendere dicatur ab arbitrio Dei ac proinde revera non sit futura attributum Dei, sed rerum tantum quas voluit Deus.
+
+Quid autem sit bonum perfectum non pendet a Dei voluntate sed ideis quae sunt in ejus intellectu quemadmodum quid sit verum et falsum par aut impar commensurabile aut incommensurabile. Bonum autem et justum ducere non ex ipsis rerum notionibus sed ex mero arbitrio legislatoris, adeoque omne jus esse positivum, periculosa est sententia quae Deo laudem justi aufert; et quemadmodum Tyrannidis Concionator apud Platonem justum facit quod potenti placet. Cur enim ab eorum quae fecit pulchritudine, perfectione, justitia laudetur, si pulchra et justa appellanda sunt quia fecit, si nihil interesset quae faceret, et si contraria quoque his quae fecit et ea ipsa quae nunc turpia appellantur justa quoque fuissent appellanda modo fuissent producta.
+
+1 et . . . idearum erg. L 4 Deum (1) autem (2) porro L 6 infinitus; (1) non (2) si finitus utique mens L 7 constituit (1) aliq (2) unum L 9 f. animato. (1) Deus est omniscius (2) Deus omnia creat et conservat seu continue producit (3) Deus L 11 Nam (1) essentias rerum possibiles omnes erg. exprimi necesse est ab ideis perfectissimi intellectus (2) possibilitates L 14 ex (1) duobus aeque possibilibus eli (2) pluribus L 22 quemadmodum quid sit (1) non magis quam (2) verum et falsum erg. sit str. Hrsg. par . . . incommensurabile erg. L 23 justum (1) aliquid esse (2) ducere L 24 aufert; (1) nec alio (2) et (a) po (b) quemadmodum L 25 apud (1) potenti (2) Platonem L 25 quod (1) omni (2) potenti L 26 appellanda (1) fuissent (2) sunt quia fecit, (a) et eodem (b) si L 26 f. contraria (1) fecisset, quae nunc turpia appellantur ea quoque justa (2) quoque . . . justa quoque L
+
+2 PLATON, Menon, 85b–86b. 25 PLATON, De republica, 338c–341a.
+
+:::
+
+[p. 2318] Unde patet quomodo Scientia Dei non inducat rebus necessitatem, diversus enim modus est quo scit necessaria, eo quo scit contingentia, etsi uterque sit certus et a priori. Necessariae enim veritates demonstrari possunt ex solis conceptibus sive essentiis possibilibus, contingentes vero certo cognoscuntur ex hypothesi liberorum Dei aut alterius Mentis arbitrium suum habentis decretorum. Neque enim ideo ambo opposita per se possibilia esse desinunt, etsi Deus ex bene placito suo eligat quod est melius; alia autem Mens quod melius apparet. Errant ergo non sine periculo mentium imbecilliorum, qui omnia putant fatali necessitate fieri, et credunt quod nec fuit, nec est, nec erit, esse impossibile, certum cum necessario confundentes. Errant ab altera parte qui putant Mentem ullam aliquid sine [bricht ab]
+
+Superest tamen difficultas, quam quidam contra divinam omniscientiam movent, quomodo nempe Deus possit scire quae Mens alia secundum sui liberi arbitrii placitum electura est; eaque non parum illos turbat qui putant posse nos eligere sine ulla ratione, quae enim scientia esse potest rei plane indifferentis. Sed qui cum Aristotele et Thoma sentiunt voluntatem nunquam in aliquid ferri, nisi sub ratione boni majoris saltem apparentis, facile nodum expediunt; cum enim Deus res contingentes praevideat ex suis decretis liberis, ex ipsis etiam cognoscet, quis aliquando status mentis liberae de electione aliqua deliberantis sit futurus, seu quaenam argumenta in utramque partem ei sint obversatura. Scit ergo a qua parte oppositorum bonum vel malum appariturum sit majus, et proinde quid Mens licet libere, certo tamen, sit electura. Unde etiam facile patet, quomodo Deus sciat quid Mens aliqua libera esset electura, si in aliquem statum deveniret qui tamen reapse nunquam est futurus, neque enim Deus non videre potest in qua parte rationes sint futurae speciosiores vel affectus fortiores. Qui vero tam naturali explicatione ob quaedam scholae praejudicia uti non voluere, partim coacti sunt dubitare an Deus tale [p. 2319] quid possit scire, quod tamen Deo indignum, ipsique scripturae sacrae contrarium est, partim vero hujus difficultatis causa comminiscuntur quandam Dei scientiam quae cum perfectione divina parum consistit; neque enim putandum est aliquid a Deo sciri per modum perceptionis sive speciei, (quemadmodum a nobis) ita ut rationem suae scientiae non possit videre a priori ex ipsius rei natura subjectique cum praedicato connexione, hoc est ex ideis sui intellectus. Licet enim Deus non ratiocinetur, tamen semper videt et in se deprehendit rationes, alioqui aliquid ab eo independens daretur.
+
+::: editorial
+
+(zu S. 2318) 1 non (1) pugnat rem (2) inducat L 1 necessitatem (1) duplex (2) diversus L 2 necessaria (1) et (2) ab L 3 ex (1) suis (2) solis L 3 vero (1) demonstrantur seu certo cognoscuntur erg. (2) certo cognoscuntur (a) sed (b) ex L 4 opposita per se erg. L 6 apparet. (1) Neque enim aliud est placere, quam bonum videri; neque voluntas in aliquid fertur, nisi sub ratione boni saltem apparentis. Explodendi ergo sunt, qui fatalem necessitatem inducunt. (2) Errant L 7 impossibile, verum et gestr. certum L 9 quam . . . movent erg. L 10 nempe erg. L 10 possit (1) alius (2) scire L 10 Mens (1) aliqua (2) alia L 11 est (1) . Verum ea posset (2) eaque L 11 putant (1) mentem (2) voluntatem (3) posse nos L 12 quae . . . indifferentis erg. L 12 f. cum (1) Divo Thoma (2) Aristotele et Divo gestr. Thoma Aquinate erg. u. gestr. sentiunt L 13 f. boni (1) saltem apparentis, et minus malum habere rationem boni vel, minus, bonum rationem mali, (2) majoris saltem apparentis L 14 Deus (1) caeteras (2) res L 15 etiam erg. L 15 f. liberae (1) sit futurus (2) de electione (a) deliberantis (b) aliqua . . . futurus L 16 argumenta (1) app (2) in L 16 f. partem (1) in ea (2) ei (a) appareant (b) sint L 18 Mens . . . tamen erg. L 19 quid (1) liberi (2) liberum (3) Mens L 19 si (1) qua ipsi quaestio proponeretur, (a) etsi id nunquam sit futurum (b) etsi (2) in L 20 reapse erg. l 20 f. in (1) quem (2) qua parte rationes (a) speciosiores (b) sint futurae speciosiores (aa) nam alii nonnulli (bb) nulli qui modo (cc) vel . . . vero L 22 non (1) sunt ausi (2) voluere, partim L
+
+:::
+
+8) Deus est omnipotens et creator conservatorque omnium rerum.
+
+Omnia originem habent a Deo, essentiae rerum ab ejus intellectu, existentiae ab ejus voluntate. Idque ex eo patet quod potentia seu virtus agendi est perfectio, tribuenda ergo Deo et quidem in gradu summo; non ita tamen ut contradictoria sive absurda possit, quemadmodum visum est quibusdam Enthusiastis. Porro Deus res creat, conservat, et cum illis in operando concurrit. Et conservatio quidem nihil aliud est quam continuata creatio, cum res semper in existendo absolute a Deo dependeant aeque in progressu ac initio; neque enim res respectu Dei produci dicenda est ex praecedente sed ex nihilo, cum nihil dici possit ex praecedenti restare quod non et ipsum denuo producatur. Itaque tantum abest ut Materia sit aeterna ut contra in momentaneo fluxu consistat, et licet semper aliquae fuisse ponerentur Creaturae, non tamen Mundus dici posset aeternus. In hac porro productione rerum continua consistit concursus Dei cum creaturis operantibus quia substantiam et vim operandi omniaque requisita continue eis tribuit Deus, etsi operatio ipsa non Dei sit sed creaturae.
+
+::: editorial
+
+(zu S. 2319) 1 scire, (1) quo nihil est (2) quod L 1 f. est (1) . Quid vero fingunt 〈de〉 (2) , partim vero L 2 comminiscuntur (1) scientiam quandam Dei plane singularem, (a) cujus tamen (aa) origi (bb) fontem explicare non possunt (b) quae tamen (2) quandam Dei scientiam (a) pro (aa) rebus omnino in utramque partem (bb) exitu omnino indifferentium eligendarum (aaa) rerum (bbb) deliberationum liberarum, sine ratione (aaaa) qui tamen casus aequalitatis dari non potest (bbbb) proinde electio dari non potest et scientia hujusmodi (b) quae tamen gestr. cum L 3 est (1) ullam veritatem (2) aliquid L 4 modum (1) visionis seu experientiae (2) perceptionis sive speciei erg. , seu ita L 4 f. scientiae (1) reddere non possit (2) a priori ex ipsius (a) rei po (b) propositionis (c) rei L 5 f. connexione (1) reddere (2) hoc L 6 intellectus videre non possit. (1) Nam ad rationem (2) Licet enim non ratiocinetur, (a) sed quod (b) tamen L 9 Omnia (1) penden (2) originem L 11 f. summo. (1) Omnia ergo in omnibus operatur. Omnia hoc est concursus Dei (2) Non . . . sive absurda erg. . . . Enthusiastis. L 13 concurrit. (1) Creatio ex nihilo est, nam (2) Et L 13 quidem erg. L 14 f. cum . . . Deo dependeat aeque . . . initio erg. nec una gestr. res L 15 sed ex nihilo erg. L 17 consistat ut creaturae omnes gestr. et L 18 tamen (1) ulla (2) aet (3) Mundus L 20 substantiam et erg. L 20 omniaque requisita erg. L
+
+:::
+
+[p. 2320] 9) Deus est bonus seu justus.
+
+Sequitur ex ejus sapientia, nihil aliud enim justitia est quam inclinatio animi constans sapiente digna, erga bona et mala aliorum. Itaque pro certo habendum est, qui possent intelligere arcanam totius providentiae oeconomiam, deprehensuros esse, neminem jure posse queri, nihilque melius posse optari; quod qui sciunt non possunt non amare Deum super omnia, etiamsi nondum ad distinctam consilii divini cognitionem visionemque beatificam sint admissi. Quid autem sit bonum, perfectum, justum, seu sapiente dignum non pendet a Dei voluntate, sed ab ejus essentia sive ab ideis quae sunt in ejus intellectu, quemadmodum quid sit possibile aut impossibile, par aut impar, commensurabile aut incommensurabile. Periculosissima enim sententia est eorum qui justum et bonum ducunt non ex ipsis rerum notionibus, sed ex mero arbitrio legislatoris, et omne jus faciunt positivum; quemadmodum Tyrannidis concionator apud Platonem qui justum definit quod potentiori placet. Quo pacto revera nulla esset in se notio justi, nec justitia esset aliquod Dei attributum, nec Deus a tyranno differret, nisi potentia. Et cur obsecro Deus ab eorum quae fecit pulchritudine et et perfectione aut decretorum suorum justitia laudaretur; quomodo ipse vidisset quae fecit bona esse; si nihil intererat quae faceret, si quaecunque fecisset, eo ipso futura erant, pulchra, bona justa, etiam illa quae nunc impia habentur. Denique quomodo sapienter et ut perfectissimam Mentem decet, egisse dicendus est, si in ea quae producit, incidit potius quasi sorte quadam fatali, quam certa eligendi ratione devenit.
+
+10) Praescientia et providentia Dei non tollunt liberum arbitrium, nec Deus est causa peccati, nec miseria malorum ei imputanda est.
+
+Tametsi ex praecedenti articulo concludatur neminem de Deo queri posse, utile tamen est occurri objectionibus quae passim et ab antiquo inter homines versantur et gravissimis haeresibus occasionem dederunt. Prima objectio est quod necessario peccemus et miseri simus si Deus id ab aeterno praescivit. Respondetur, quod Deus scit illud [p. 2321] est certum, sed non est necessarium; scit enim quid libere sis electurus. Sed sequitur altera objectio gravior, a providentia seu praedeterminatione, quomodo enim libere me aliquid eligere dici potest, si in eligendo a Deo dependeo, si Mens mea ab ipso in alterutram partem inclinatur; sive si rerum a Deo conditarum series ita fert, ut menti meae deliberanti rationes falsae sed speciosae obversentur quibus ad eligendum impellatur. Respondendum est rationes falsas mentem ad eligendum inclinare quidem, sed non necessitare, ut cum schola loquar; nam qui bonae voluntatis esset semper crimen vitare posset; quod revera non nisi in mala voluntate consistit. Sed urgebis porro, mirum esse cur Deus uni tribuat bonam voluntatem, alium in eas occasiones conjicit, ex quibus oritur voluntas mala. Licet enim fatendum sit, ad poenam scelerati sufficere ejus malam voluntatem, undecunque orta sit; culpantur tamen parentes qui liberos male educarunt, aut Respublica quae cives suos corrumpi facit. Respondebimus quidem massam hominum in Adamo jam corruptam esse, et ideo gratias Deo potius agendas quod aliquos exemit, quam culpam impingendam quod caeteros reliquit. Sed replicabitur, massam initio potuisse non corrumpi ac proinde redire eandem difficultatem de ipsius Adami peccato; nec in nostro arbitrio esse ut in sublapsariis haereamus, sed necessario superlapsum esse ascendendum, nisi velimus dissimulare difficultatem. Et in universum potuisset Deus omne peccatum impedire si voluisset, quod quidem negari non potest. Sed quoniam peccatum permisit, pro certo habendum est, maximis sapientiae suae rationibus fuisse inductum. Imo statuendum est majorem esse rerum perfectionem permisso peccato quam excluso, etsi nobis qui arcana rerum perspicere non possumus, hoc non distincte appareat. Itaque Paulus ad abyssum sapientiae divinae provocavit. Et quidam pii acutique viri, felicem Adami culpam dixere qua mysterium incarnationis obtinuisset. Causa autem peccati non referenda est in Dei voluntatem quippe qua ipse semper tendit ad perfectissimum, nec quicquam omisit pro summa sua benignitate et in homines imprimis amore [p. 2322] exuberantissimo quod rerum perficiendarum conditio ferret; sed rejicienda est causa mali in non Ens seu privationem hoc est in naturalem rerum limitationem, sive imbecillitatem vel quod eodem redit in imperfectionem originalem ipso peccato originali anteriorem, idem pro tuenda Dei justitia supralapsariis orthodoxis, quod peccatum originale sublapsariis praestantem quae facit ut omnis mens creata prona sit ad judicandum ex paucis perspectis nisi vel experimento praecedentis erroris, vel divina gratia sustentetur. Haec autem limitatio et imperfectio pendet ex rerum ideis, seu essentiis non ex Dei voluntate, atque inde factum est ut quosdam Deus gratia juvaret, quosdam naturali imbecillitati relinqueret, suae gloriae hoc est majoris in universum boni causa aeterna, electione in Christo facta non mero arbitrio neque eligendorum dignitate sed respectu ad perfectionem totius majorem consequendam: quod summa illa perfectio nisi admissis subinde illis quae vel mala vel minus excellentia per se videri possent, non obtineretur; quemadmodum admissis interdum dissonantiis melior fit harmonia. Haec qui recte considerabit semper divinae voluntati acquiescet, adorabit potentiam creatoris, amabit bonitatem; sciens, haec animi sensa mentem penetrantia et ad optima quaeque fidei caritatisque munia impellentia a divino spiritu venire, atque adeo eos qui ita affecti sunt eo ipso in statu gratiae esse, et omnia in bonum cedere Deum amanti. Itaque vir pius alienus erit ab erroribus, qui plurimum dignitati divinae detrahunt, animosque hominum a pulcherrimae ac beneficentissimae substantiae amore avertunt, quales sunt errores Socinianorum et quorundam Remonstrantium qui Dei scientiam, et omnium rerum a Deo dependentiam diminuunt, ut justitiae ejus et humanae libertati consulant; tum aliorum qui contra ut magnitudinem Dei tueantur omnia ad voluntatem ipsius referunt omnemque justitiae praecepta notionem [p. 2323] tollunt, praecepta Dei impossibilia servatu, peccataque necessaria statuentes, nec verentur Deum autorem scelerum facere, quasi ea non natura sed lege mala essent; aut quasi rerum omnium Dominus mero quodam arbitrio sine ullo ad antecedentes rerum conditiones praevisas, ipsiusque boni ac justi ideam respectu, de creaturis suis statuere posset. Ambobus a nobis non evitando difficultatem aut quaestionis statum mutando, ut saepe fit, sed sincera, et lucida explicatione satisfactum esse, fortasse aequi aestimatores judicabunt.
+
+::: editorial
+
+(zu S. 2320) 2 f. quam (1) affectus sapientis erga alios pe (2) inclinatio . . . erga L 4 possent (1) intelligere (2) capere (3) intelligere L 5–7 qui (1) intelligunt (2) sciunt . . . divini consilii . . . admissi erg. L 8 ab (1) ideis quae (2) ejus L 15 obsecro erg. L 15 et erg. l 15 f. aut decretorum suorum erg. l 16 f. si . . . faceret erg. L 17 fecisset, (1) pulchra, bona, justa, (2) futura (3) eo L 18 f. quomodo (1) omni (2) summa ratione (3) sapienter . . . decet L 19 quae produxit L 20 quam (1) vera elegit ratione (2) certa . . . devenit l 22 causa (1) mali, nec quibusdam de eo jure erg. queri potest. Tametsi s (2) peccati, L 23 articulo satis gestr. concludatur L 24 et ab antiquo erg. L
+
+12 f. PLATON, De republica, 338c–341a.
+
+:::
+
+::: editorial
+
+(zu S. 2321) 1 enim (1) te libere electurum esse. (2) quid . . . electurus. L 3 aliquid erg. l 3 ipso Deo gestr. in l 6 rationes (1) mentem ad eli (2) falsas L 7 nam (1) si attentionem adhiberet semper (a) videre posset errorem (b) peccatum vitare posset. (2) si L (3) si (4) qui l 8 consistit. (1) Et erg. (2) Sed L 9 uni (1) tri (2) potius quam a (3) tribuit bonam L 10 mala. (1) Responderi potest (2) Respondendum est hanc quaestionem non esse curiosam, (a) nec ad eam (b) et cum de justitia quaeritur (3) Licet L 11 f. sit; (1) culpamus tamen parentes qui liberos male (a) educarin (b) educarunt, aut (aa) corrum (bb) Rempublicam (2) culpantur . . . Respublica L 12 corrumpi (1) patitur (2) facit. l 13 Adamo (1) corr (2) jam L 16 f. ; nec in nostra potestate esse ut (1) simus (2) in . . . difficultatem erg. L 18 peccatum (1) exterminare (2) impedire L 20 f. perfectionem (1) admisso (2) permisso L 22 distincte erg. L 23 mysterium (1) occasionis (2) incarnationis L 24 quippe erg. L 24 f. ipse semper erg. l 25–S. 2322.1 nec quicquam pro . . . et maxime in homine amore exuberantissimo erg. omisit, quod . . . ferret erg. L
+
+:::
+
+::: editorial
+
+(zu S. 2322) 2 rejicienda . . . hoc est erg. L 2–13 limitationem (1) , quae pendet ab ipsarummet ideis quo factum est, ut summa illa perfectio (a) universa (b) universi (aa) non nisi permisso peccato posset obtineri. Haec quemadmodum admissis interdum dissonantiis melior fit harmonia. (bb) in quo Deus se glorificare creaturas voluit, (aaa) hoc modo obtinere (bbb) non aliter obtineretur (2) sive . . . vel quod . . . in erg. l imperfectionem erg. . . . (idem . . . quod (a) Sublapsariis (b) peccatum . . . ad (aa) agendum (bb) judicandum . . . limitatio atque (aaa) imbecillitas (bbb) imperfectio erg. . . . ex earum ideis, (aaaa) atque inde (bbbb) sive essentiis relinqueret, (1) quod summa (2) suae gloriae hoc est erg. majoris scilicet gestr. in . . . causa, (a) quod (b) Electione facta . . . arbitrio (aa) sed (bb) neque . . . subinde erg. . . . harmonia. L 9 f. aeterna erg. l 10 in Christo erg. l 13 f. recte (1) percipiet, eo ipso dum adora (2) considerabit . . . acquiescet (a) non minus adorabit divinam justitiam (b) nec magis adorabit potentiam (aa) autori (bb) creatoris quam amabit L 15 f. haec . . . sensa, (1) ubi (2) mentem . . . quaeque impellentia . . . adeo erg. L 17 f. Itaque (1) alienus erit a sectis quae (2) vir . . . qui L 19 avertunt (1) . Ita Sociniani et quidam Remonstrantes divinam (a) po (b) scientiam et omnium (aa) in omnia operationem minuunt (bb) rerum L (2) , quales l 21 f. consulant (1) . Contra alii (2) ; tum . . . contra l 22 magnitudinem (1) ejus (2) ejus (3) Dei L 23 justitiae (1) notionem (2) naturam (3) notionem L 23–S. 2323.1 praecepta. . . servatu (1) statuunt, (2) peccataque statuunt erg. , nec L
+
+:::
+
+## 410. SPECIMEN DEMONSTRATIONUM CATHOLICARUM SEU APOLOGIA FIDEI EX RATIONE [1685 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 3, 7b Bl. 1–2. 1 Bog. 2o. 3 2/3 Sp.
+
+E GRUA, Textes, 1948, S. 27–30.
+
+Die Handschrift weist ein zwischen Juli 1683 und März 1686 häufig belegtes Wasserzeichen auf, das auch für das Examen religionis christianae (N. 420) nachweisbar ist, dürfte jedoch, wie starke inhaltliche Parallelen zu den in N. 406 genannten Schriften, besonders auch zu IV, 3 N. 17–19, zeigen, im gleichen Zeitraum und somit vor N. 420 entstanden sein.
+
+Specimen Demonstrationum Catholicarum, seu Apologia fidei ex ratione
+
+Tametsi fides Christiana non ratione privata, sed testimonio Ecclesiae Catholicae a miraculis et martyriis accepto, et traditione perpetua scriptisque in Ecclesia conservatis ad nos propagato nitatur, mirifice tamen animum hominis pii et arcana scientiarum [p. 2324] ingressi afficit consensus admirabilis religionis nostrae philosophiae verae, evidentissimo indicio eundem Deum et naturae rerum conditorem, et gratiae nobis per Christum factae autorem esse. Et cum in ea tempora inciderimus, quibus multi et ingenio suo, et praesenti luce scientiarum abutuntur, vel ad substantias incorporeas explodendas (qui certissimus est Atheismus ), tollendam recta via providentiam vel saltem ad Christianam religionem labefactandam, dum Trinitatem personarum in uno Deo, incarnationem Verbi, aliaque mysteria, captum humanum excedentia pronuntiant impossibilia; vel denique ad Ecclesiam lacerandam, ut cum sacramentum corporis et sanguinis Christi impugnant, et de justificatione atque electione hominum totaque oeconomia salutis nostrae non ita sentiunt, quemadmodum Divina magnitudine et justitia dignum est; ideo piis et doctis danda opera est, ne quid Respublica Christiana, qua nulla unquam rationi congruentior fuit, perverso rationis usu detrimenti capiat. Et quidem optandum foret, ut homines potius in rebus ad vitam utilibus, ubi magnus satis industriae eorum locus relictus est, quam in rebus fidei, ubi simplicitas tutissima est, ingenium exercerent.
+
+::: editorial
+
+(zu S. 2323) 2 autorem (1) mali (2) peccati (3) eorum (4) malorum (5) scelerum l 2–5 quasi (1) nihil natura sed lege malum essent. (2) crimina non natura sed lege mala essent. (3) non . . . essent rerumque omnium Dominus absoluto quodam . . . antecedentes conditiones rerum praevisas erg. . . . posset erg. L 5 f. ut (1) plerumque (2) saepe L 6 aequi (1) lectores (2) aestimatores L 19 f. ratione (1) Re (2) Tametsi L 20 fides (1) nostra (2) Christiana erg. L 20 ratione (1) , sed testimonio (2) privata, L 21 scriptisque (1) Apo (2) in . . . conservatis erg. L
+
+:::
+
+Quoniam tamen hodie declinare certamen non licet, et praeferoces adversarii humilitatem nostram vel irrident, vel hypocrisin interpretantur, sibique invicti videntur atque insultant cedentibus; magno animarum detrimento, et scandalo simpliciorum, necessitas cogit ut cominus congrediamur.
+
+Itaque in Concilio Lateranensi ultimo graviter monentur philosophi Christiani ut veritatem fidei ex sana ratione illustrare studeant, argumentaque adversariorum solvere nitantur. Atque utinam viverent hodie Augustini atque Aquinates, in quibus sapientia pietati soliditas subtilitati par eluxit, quibus si adfuissent nostri seculi praesidia efficissent [p. 2325] credo ut quanto quisque foret ingeniosior eo magis pulchritudinem Christianorum dogmatum admiraretur. Non ideo tamen nobis licet imparibus desperandum videbitur, ubi cogitaverimus causam Dei a nobis agi, et in adversariis plerumque plus audaciae quam scientiae esse. Quid autem me potissimum impulerit, ut munus occuparem, quod aliis in tanta insignium virorum copia rectius demanderetur, dicendum est. Equidem diu multumque deliberavi antequam hoc opus aggrederer, cujus difficultatem non ignoro, sed vicere nutantem crebri congressus cum hominibus ingeniosis at licentia corruptis, quos in itineribus aulisque offendi. Ex his non pauci gustum aliquem matheseos habebant et blanditiis novae cujusdam philosophiae inescati, quae ipsis de gravissimis quaestionibus utcunque loquendi facilitatem quandam praebere videbatur, contemnebant primo simplicitatem meam; at ubi me videbant nec nova illa dogmata ignorare, et ubi ferri possent etiam laudare praeterea in Geometriae interiora altius paulo quam fieri solet penetrasse, admirari coepere serio atque incusare, quod mihi inventa fruge glandibus vesci liberet. Ita enim statuebant, tollendas esse causas finales, tanquam non naturales sed morales, et a nobis naturam ex nostro ingenio aestimantibus fictas, omnia possibilia necessario quodam ordine ex sinu materiae educi, itaque inane esse, quod de providentiae consilio ac delectu nobis fingamus. Deum aut nullum esse, aut nihil aliud esse quam vim illam quae omnia possibilia ordine necessario producit, ordinem autem illum in legibus mathematicis consistere. Mentes nostras vel corporeas esse, vel extingui cum corporibus, aut saltem omnium oblivisci, et ut nonnullis eorum placet in mundi animam reverti. Ego contra contendebam, etiam causas finales referri posse ad efficientes, cum scilicet agens est intelligens, tunc enim a finis cognitione movetur; et causas etiam morales esse naturales, sumi enim a natura mentis. Itaque si omnia a mente gubernentur, non necessariam et caecam, sed liberam et consilii plenam rerum omnium productionem ac conservationem fore. Unde jam pietatis ac justitiae elementa proficisci.
+
+::: editorial
+
+(zu S. 2324) 2 rerum (1) autorem (2) conditorem, L 2 et (1) fidei (2) Ecclesiae (3) fundato (4) gratiae L 3 multi (1) homines (2) et L 4 et (1) luce s (2) praesenti L 4 abutuntur ad tollendam providentiam erg. u. gestr. , vel L 4 incorporeas (1) plane tollendas (a) providentiamque (b) ad tollendam providentiam erg. quasi omnia mechanice (aa) plus (bb) explicari possent, (2) explodendas erg. L 5 tollendam providentiam erg. vel (1) ad Trinit (2) saltem L 6 labefactandam, (1) dum aeternitatem Mundi hujus et humani generis (2) dum L 8 f. cum (1) modum (2) justificationem et praedestinationem, (3) electionem, (4) Transsubstantiationem (5) sacramentum . . . Christi L 9 f. hominum . . . nostrae erg. L 11 est (1) eo magis nos qui Catholicae Veritati addicti sumus, intendere (2) ideo L 11 piis (1) hominibus (2) et doctis L 11 quid (1) Ecclesia (2) Respublica L 11 f. Christiana, (1) a philosophia nova detri (2) qua detrimenti L 13 utilibus, (1) quam divinis rebus (2) ubi L 14 in (1) divinis rebus, ubi simplicissima (2) rebus L 19 necessitas . . . ut erg. L 20 ultimo erg. L 21 ratione (1) confirmare (2) illustrare erg. L 23–S. 2325.2 quibus si (1) adessent (2) adfuissent erg. . . . admiraretur erg. L
+
+20–22 Vgl. Concilium Lateranense V, sess. VIII, 19. Dezember 1513 (MANSI XXXII, Sp. 842).
+
+:::
+
+Nec me leges Mathematicas in physicis rejicere, et libenter fateri corporum actiones in se invicem, pro magnitudine et figura variari, at ipsam substantiam corporis, et quod in corporibus agit et patitur, id vero alias longe quam magnitudinis et figurae notiones [p. 2326] involvere, redeundumque nobis ad veteres, qui formas quasdam substantiales statuerunt. Haec illi primo irridere, tanquam quae a se non satis clare distincteque perciperentur; paulatim vero commoveri, et in suspicionem quandam adduci, tandem nonnulli manus dare, cum deprehendissent veram corporis notionem antea plane a se ignoratam esse, neque enim in extensione, sed agendi patiendique, hoc est movendi resistendique vi consistere, quanquam illam vim sua natura indefinitam magnitudo et figura moderarentur coercerent. Ostendebam enim illis ipsas Mechanicae leges non ex Geometricis sed Metaphysicis principiis fluere, et nisi a mente gubernarentur omnia, longe alia fore quam quae experimur. Neque corpus aliquod unum per se intelligi posse, imo nihil aliquod fore quam aggregatum punctorum, quod impossibile est nisi contineretur forma quadam substantiali, quae quiddam Animae analogum est, primus scilicet actus seu vis agendi voluntate creatoris insita cuicunque corpori, cujus exercitium ab aliorum corporum obstaculis limitatur, quale quid εÆντελεÂχεια Aristotelis significavit magis quam expressit.
+
+::: editorial
+
+(zu S. 2325) 3 agi, (1) (etiam infantium linguas in suas laudes animat) (2) et L 4 f. Quid . . . est erg. L 6 multumque erg. L 6 aggrederer, (1) tametsi enim in divinis humanisque studiis aliquam exercitationem haberem, sciebam tamen quantae profund (2) cujus L 8 f. et (1) facilitate ex nova (2) blanditiis novae L 10 quandam (1) dare credebatur (2) praebere videbatur, L 12 possent (1) contemnere et (2) etiam laudare praeterea L 12 altius . . . solet erg. L 13 atque incusare, erg. L 14 esse (1) natura (2) causas L 15 f. possibilia (1) ord (2) necessario L 22 enim (1) in illis (2) a finis cognitione L 26 rejicere, (1) sed tamen ita statuere (2) et L 26 fateri (1) constitutis jam corporibus (2) corporum L
+
+:::
+
+Cogitationem autem sive vim agendi ad se ipsum monebam solis inter has formas sive Animas, mentibus datam esse. Ex quo non tantum perpetua subsistentia, qualis revera est omnium substantiarum (quae non pereunt sed immutantur ), sed et perpetua sui cognitio, in qua consistit immortalitas et vera vita consequatur. Porro Materiam ostendebam non magis in extensione consistere, quam vim in actione, ut ergo vis est illud ex quo sequitur actio nisi quid impediat, ita, Materia est vis patiendi seu resistendi in quocunque corpore, ex qua sequitur extensio certa corporis, nisi Autor rerum secus velit. Unde nobis defendendi Sacramenti Eucharistici aperta est via.
+
+Scio haec omnia perabsurda visum iri, his qui nunc novis in philosophia sectis nomen dedere, erunt et forte qui quae sequentur, nec lectu digna arbitrabuntur. Sed sciant illi, me quoque olim eodem fere modo affectum fuisse, cum juvenem pellacium novitatum blanditiae inescassent nec obiter in illis versatum fuisse, sed plerisque etiam defensioni atque illustrationi idoneum visum, sed cum progrediente meditatione, defaecatoque jam animo, severius omnia atque altius agitare coepi, primum suspecta mihi dogmata illa, tandemque falsitatis comperta fuere, affulgente subito nova luce. Atque idem mihi contigit, quod in sylva diu vagato qui de improviso in campum apertum emergit, ac praeter omnem spem in eum locum reversum sese agnoscit, ex quo primum digressus in sylvam se immerserat.
+
+::: editorial
+
+(zu S. 2326) 1 veteres (1) contendebam (2) , qui L 5 neque (1) corporis naturam in eo consistere, quod in (2) enim L 6 illam (1) et magnitudo ejus et figura moderarentur et (2) vim . . . moderarentur L 9 per se erg. L 9 f. imo . . . est erg. L 11–13 , primus . . . voluntate creatoris erg. . . . expressit erg. L 13 obstaculis erg. L 16 omnium (1) formarum, (2) substantiarum erg. L 16 sed (1) miscentur (2) immutantur erg. L 17 et vera vita erg. L 20 nisi (1) ma (2) superiora causa (3) Autor L 31 digressus erg. L
+
+:::
+
+[p. 2327] Intellexi scilicet non evertendas sed explicandas atque stabiliendas veterum sententias esse, non aliam ob causam hodie explosas et contemtas quam quod vis ac potestas earum ignoraretur. Neque vero ante sanatus sum, quam cum aliud veritatis criterion quaesivi, quam quod hodie passim jactant: quicquid clare distincteque percipitur id verum esse.
+
+Intellexi scilicet, proclive esse in abusum, nec valere nisi notae clari distinctique afferantur. Unusquisque enim quae fortiter sibi impressit, clarissime ac distinctissime a se intelligi putat, qui si ad testimonium spiritus internum provocat, jam cessat omnis cum eo disputatio, manetque in animo error insanabilis. Opus est ergo non privatis cuique, sed publicis veri notis, non magis in religione, quam in philosophia. Paucae notiones nobis distincte obversantur, quae clare percipimus ea plerumque confusa sunt. Hoc tamen nihil impedit quin multae nobis veritates in confusis experientia, in distinctis (saltem quatenus distincta sunt) demonstratione innotescant. Et plerumque ex paucis illis distinctis ad confusa quoque evolvenda nobis aditum praebuit providentiae benignitas, modo vera Analysi quam ego inter tot Analyticae jactatores adhuc ignorari arbitror uteremur.
+
+## 413. SENTENTIA DE NATURA AC POTESTATE ECCLESIAE CATHOLICAE [Februar bis Oktober 1685 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 3, 7d Bl. 1–2. 1 Bog. 2o. 4 Sp.
+
+E GRUA, Textes, 1948, S. 165–167 (Teildruck).
+
+Aufgrund des Wasserzeichens des inhaltlich verwandten Stückes N. 412 weisen wir N. 413 der Zeit von Februar bis Oktober 1685 zu, können dabei aber nicht ausschließen, daß das Stück bereits früher entstanden ist.
+
+2 non sine mysterio erg. repetitum, (1) et: pro te oravi ne deficiat fides tua (2) et (a) Petrum semper (b) Et ipsum (c) notabit Petrum L 2 praeponi (1) Apostolis (2) caeteris L 3 et (1) plerumque (2) saepe erg. L 3 dirigi (1) maxime (2) Christi L 4 respondere (1) et autoritat (2) maxime . . . et L 11 Patres (1) jam inde (a) ab Orig (b) a Cypriani et Origenis temporibus versehentlich nicht gestr. (2) quousque (3) pone (4) inde . . . temporibus L 13 resistet Jam L ändert Hrsg.
+
+1 Pasce oves meas: Joh. 21, 17. 2 (Variante) pro . . . tua: Luk. 22, 32. 4 f. in ejus naviculam intrare: vgl. Luk. 5, 3. 5 piscatorem hominum facit: vgl. Luk. 5, 10. 6 tributum solvere: vgl. Matth. 17, 24 f. 7 pedes lavisse: vgl. Joh. 13, 6–8. 9 os Apostolorum: vgl. Apg. 2, 14.
+
+[p. 2333] Die von Leibniz nachträglich in eckigen Klammern am Rande hinzugefügten Inhaltsangaben der Abschnitte erscheinen eingerückt.
+
+Autor putat omni studio id sibi agendum esse ut sit in communione
+
+Romanae Ecclesiae.
+
+Quamquam in ea dudum sententia fuerim unumquemque pium dare operam debere, ut sit in communione Ecclesiae visibilis cujus Hierarchia inde ab Apostolicis temporibus non interrupta ad nos pervenit;et nihil videam in Concilii Tridentini decretis circa fidem, aut in professione fidei a Pio V. praescripta, cui non ex animo subscribere possim, si quemadmodum mihi et verba admittere, et sententia videtur postulare, intelligantur:
+
+Sed tutissimum tamen existimat prius discere an dogmata ejus recte intel- lexerit, nihilque amplectatur, quod non aut verum aut saltem in ea tolerabile videatur. quia tamen inter eos natus educatusque sum, qui in Romana communione non sunt, tantique momenti mutatio maxima circumspectione indiget; et praeterea dogmata quaedam (certa, ut mihi videtur, demonstratione persuasus) habeo, quae a communibus opinionibus aliquando dissidentia; mihi licet a fiducia mei, omnium quibus innotui consensu alienissimo inter crebras meditationes amor veritatis expressit; ideo sincerius pariter ac tutius existimavi candida professione, hoc quicquid est quod nunc occurrit exponere, ut a fide dignis discam an probari, vel saltem tolerari possit; quam semel receptus periculum incurrere censurae, qua offendantur infirmi, ego vero pro pace animi, qua nunc conscius optimae voluntatis gaudeo, perplexitatem inveniam.
+
+::: editorial
+
+(zu S. 2333) 5 ea (1) semper (2) dudum L 6 communione (1) Catholicae (2) Ecclesiae L 8 in erg. L 10 tamen (1) exponat sententias suas prius candide exponere, ut discat an in Romana Ecclesia tolerari possint (2) existimat hac expositione judiciis summissa erg. u. gestr. prius . . . an (a) sententiae quaedam suae possint videri in Romana Ecclesia tolerabiles (b) dogmata (aa) ejus (bb) Ecclesiae recte, vel saltem (aaa) tolerabiliter (bbb) ita intellexerit, (cc) ejus L 14 f. praeterea (1) sententias quasdam habeo, certa, ut mihi videtur, demonstratione persuasus (2) dogmata . . . habeo, erg. quae veritatis magno erg. u. gestr. quae L 16 f. aliquando (1) dissident; et quas tamen dissimulare nolim (2) dissidentia; mihi (a) crebris meditationibus (b) licet . . . omnium (aa) qui me norunt (bb) quibus alienissimo erg. . . . expressit L 18 existimavi (1) proponere quicquid hoc est, quod nunc occurrit negotium (2) candida L 18 quod nunc occurrit erg. L 19 a (1) Theologis (2) Romanae Ecclesiae prudentia et autoritate praestantibus (3) fide L 19 an (1) sine censura ferri (2) probari, . . . tolerari L 20 censurae, (1) quae aliis scandalo sit, mihi perplexum animum reddat, (2) qua L 20 pro (1) tranquillitate (2) pace erg. L 21 qua . . . gaudeo, erg. L
+
+:::
+
+[p. 2334] Praesertim quoniam veritatem magno ardore quaerens visus est sibi in demonstrationes quasdam incidisse a quibusdam Scholasticae theologiae opinionibus dissidentes.
+
+Sunt enim aliqua quae tam clare mentibus nostris obversantur, ut vix ulla humana autoritate deleri possint.
+
+Et, si Sancti Patres olim rotunditatem terrae, quae ipsis perabsurda quin et analogiae fidei contraria videbatur, damnassent, an credibile est excellentem aliquem Astronomum, sola Ecclesiastica autoritate motum ex animo renuntiare unquam dogmati clare percepto, potuisse? Itaque si caetera Christianus et Catholicus hanc unam ob causam vel non receptus vel rejectus fuisset, ausim dicere tam eum in Ecclesia fuisse, quam qui errore vel malitia judicis excommunicatur. Idem ego de me sperare audeo si appareat per me non stare, quin externa quoque Ecclesiae communione fruar. Et nunc quidem exponam breviter, quae mea de natura ac potestate Ecclesiae Catholicae sententia sit, ut an vera, aut saltem tolerabilis sit, judicetur.
+
+Specimen exponendae sententiae datur hic ab autore circa articulum de
+
+Ecclesia.
+
+Primum ergo de Ecclesia Catholica visibili ita sentio, Deum a nobis exigere, ut erga omnes Christianos animum fraternum geramus, et publica communione, sive sacra synaxi fidei pariter et caritatis unionem testemur.
+
+::: editorial
+
+(zu S. 2334) 1 (1) Quoniam (2) Sententia (3) Ipsi meditans (4) Praesertim quoniam L 1 quaerens sententias quasdam amplecti coactus, quae a nonnullis Scholasticorum sententiis (1) co (2) demonstratione gestr. visus L 4 aliqua (1) tam certa (2) quae L 4 ut (1) nulla (2) vix ulla L 5 f. possint. (1) Nec (a) ulla censura efficiet, ut Astronomus aliquis de Copernici systemate persuasus, ex animo credere incipiat terram esse centrum motus (b) Astronomus aliquis hodiernus qui erg. Copernicei systematis demonstrationem habere sibi videtur sola censura Ecclesiastica de sententia dimovebitur solem et fixas circa terram quotidie moveri (2) Et, L 8 motum (1) acced (2) ex L 10 eum (1) futurum (2) in L 11 judicis (1) excommunicatus est. (2) excommunicatur. L 11 me (1) spero (2) sperare audeo L 12–14 Et . . . judicetur. erg. L 13 mea (1) sit de vol (2) de L 17 visibili erg. L 17 sentio, (1) Divinam providentiam instituisse ac conservasse Hierarchiam quandam, ut omnes fideles una quadam Republica Ecclesiastica contineantur. (2) Caritatem (3) Deum a nobis erg. L 18 et (1) quantum in nobis est (2) hoc (3) publica L 19 synaxi (1) testemur, nos cum ipsis (2) fidei L 19–S. 2335.3 testemur. (1) Deinde (2) Hierar (3) Deumque (4) Deum porro L
+
+:::
+
+[p. 2335] Hierarchia Ecclesiastica, et in ea discrimen Pontificis Maximi, Episcoporum et Presbyterorum est juris divini ordinarii.
+
+Deum porro sibi semper conservare coetum quendam notis visibilibus designatum, quem ab omni errore damnabili spiritus sancti sui promisso in perpetuum auxilio immunem praestet.
+
+In hoc coetu Divina providentia instituit Hierarchiam, sive Rempublicam Ecclesiasticam, cui omnes fideles obsequium debent. Constat illa Episcopis sive Ecclesiarum rectoribus conservaturque perpetua legitimorum pastorum successione. Et quia Episcopi semper convenire non possunt, et multitudo eorum autoritate aliqua contineri debet, caput aliquod necessarium fuit, cui Romani Imperii principis Urbis Episcopum a providentia destinatum fuisse, multis judiciis colligitur.
+
+Hujus Reipublicae Sacrae vis consistit in potestate clavium, ut contumaces ligare, et poenitentes solvere possit, Deo judiciis eorum, cum justa sunt, autoritatem commodante. Autoritatem autem istam nemo habet, nisi qui in hac ipsa Republica ordinatur. Itaque Clericorum a Laicis, Episcoporum quoque et Presbyterorum discrimen juris divini esse arbitror, quemadmodum Episcoporum et Pontificis maximi. Sed haec omnia ordinario jure. Nam an Ecclesia casu aliquo erecta, ubi pastores aut saltem Episcopi non sunt, ideo Sacramentorum gratia carere debeat, definire non ausim. Obedientia quae Ecclesiasticae potestati debetur, duobus constat membris, uno ordinarii juris ut credamus vera esse quae credenda ab Ecclesia proponuntur, et facienda esse quae ab ea jubentur, altero extraordinarii, ut etiamsi injuriam nobis judicio eorum qui in Ecclesia autoritatem habent fieri, aut injusta a nobis exigi credamus, non ideo tamen Unionem abrumpamus, aut si sine nostra culpa abrupta sit, semper animum serium redintegrandi vinculi habeamus; et quicquid sine periculo salutis aeternae potest, indulgeamus.
+
+::: editorial
+
+(zu S. 2335) 2 f. ordinarii erg. L 3 visibilibus (1) distinctum (2) designatum erg. L 6 Hierarchiam quandam gestr. , sive L 7 debent. (1) Ea constat Sacr (2) Ejus forma (3) Ea perpetua Episcoporum (4) Constat L 9 semper (1) coire (2) convenire L 12 Hujus (1) potestas (2) Reipublicae L 13 f. commodante. (1) Itaque excommunicati non possunt frui sacramentorum gratia, (2) Si tamen (3) Autoritatem L 14 qui (1) ab Episcopis le (2) in L 14 f. Itaque . . . Laicis, erg. L 17 an (1) in su (2) potius carere (3) Ecclesia (a) aliqua (b) casu L 18 debeat, (1) asserere (2) definire erg. L 18 quae (1) Rectoribus Sacris debetur, (a) continet (b) duobus constat membris (2) Ecclesiasticae L 19 ordinarii juris erg. L 23 f. et (1) quantum a nobis (2) quicquid L
+
+:::
+
+[p. 2336] Ecclesia Catholica per Hierarchiam suam visibilis in rebus ad salutem necessariis habet infallibilitatem, in aliis praesumtionem seu maximam autoritatem.
+
+Itaque infallibilitas Ecclesiae in iis quidem quae ad salutem necessaria sunt, pro certa habenda est, credendumque non permissurum esse Deum, ut dogma damnabile, credendum fidelibus ab Ecclesia caeteras Catholicae notas [habente] injungatur. In rebus tamen facti, ad quas pertinent sententiae et judicia de negotiis personisque singularibus, quae a Synodis aliisque judicibus Ecclesiasticis proficiscuntur; in rebus item juris et rationis, ubi salva salute errari potest, non video cur necesse sit infallibilitatem a Deo Ecclesiae datam esse. Agnosco tamen et in his rebus Ecclesiam habere veri praesumtionem et omnino autoritatem tantam quantam maximam homines habere possunt, nec temere ab ejus judiciis esse dissentiendum. Ego certe cogor ingenue fateri, me plerumque discussis omnibus opiniones generalissime receptas, et in Ecclesia stabilitas maxime tutas et veras reperisse et in religione pariter et philosophia vetustissimas et communissimas sententias optimas experiri. Rectiusque facturos novatores semper existimavi, si in veteribus et rite explicandis et irrefragibiliter demonstrandis, et per novorum inventorum superstructiones utiliter ornandis, ingenii vim ostendant; quam eversis receptis dogmatibus, quae tamen optimum sensum capiebant, paradoxa evanida introducendo lubricam et minime duraturam famam quaerant.
+
+Ecclesiae plus quam principibus secularibus est obediendum, principibus vero non est resistendum.
+
+Quod ad Concordiam Sacerdotii et imperii potestatisque Ecclesiasticae ac secularis limites attinet, ita statuo: Omnes quidem principes et potestates non minus Ecclesiae submissos esse, quam minimum quemque ex fidelibus, itaque et censuris Ecclesiasticis subjici, et excommunicari posse; ipsos autem principes ut caeteros Christianos et reverentiam et obedientiam Ecclesiae debere, quousque salva conscientia possunt. Prorsus quemadmodum juramentis obstringimur, ad omnia illa quae servari possunt, sine salutis aeternae dispendio.
+
+::: editorial
+
+(zu S. 2336) 6 habentes L ändert Hrsg. 7 pertinent (1) judic (2) sententiae L 7 de (1) rebus (2) negotiis L 11 f. et . . . possunt erg. L 12 ejus (1) sen (2) judiciis L 12–19 Ego . . . optimas (1) esse solere. (2) experiri . . . superstructiones (a) ordi (b) ornandis (c) utiliter . . . eversis (aa) communibus sententiis, quae verum re (bb) receptis . . . quaerant erg. L 23 statuo: (1) Ecclesiae magis deberi obedientiam, sed potestati seculari a nobis praestandam (2) Omnes L 24 et (1) excommunicari (2) censuris L 25 posse; (1) et (2) si solvi s (3) ipsos L 25 ut . . . Christianos erg. L
+
+:::
+
+[p. 2337] Caeteri autem fideles hanc unam tutissimam mea sententia regulam observabunt, et primae Ecclesiae praxi consentaneam, et ubi semel constituta est, nulli ambiguitati obnoxiam, quoties duae illae potestates colliduntur, Ecclesiae magis deberi obedientiam, sed potestati seculari a nobis praestandam patientiam. Nam in dubio pro omni quidem superiore, major tamen, pro Ecclesia jubente aut vetante, quam principe seculari praesumtio est, modo nullam vim jubeat Ecclesia, arma enim ejus sunt preces. Principes autem non tantum inviolabiles, sed et irresistibiles habendi sunt. Quemadmodum constat Christianos veteres paganis aut haereticis imperatoribus prava imperantibus non obtemperasse, saevientibus vero nec restitisse. Hoc discrimine observato, non est cur principes in imperio vereantur, admittere aliud imperium, alterius plane ordinis a suo, quod non vi humana sed sola Dei reverentia armatur. Caeterum si jura principis alicubi in Ecclesias sint collata, in iis exercendis communi aliorum principum jure fruentur, nec duo in eadem persona officia permiscebuntur.
+
+Porro tantum abest, ut credam nimiam potestatem hodie a pontifice exerceri, ut contra arbitrer, e re Christiana fore, ut in rebus ad bonum publicum orbis Christiani pertinentibus plus ejus judicio tribuatur, quam vulgo fieri solet inter Catholicos. Nam licet Papa non deponat principes, nec subditos fidelitatis vinculo exolvat; tamen perniciosa in rem Christianam molientes efficaci autoritate absterrebit, pertinacibus interdicet sacris, et subditis injunget, ut vim potius a tali principe patiantur, quam prava molienti praecipientique ministrent. Haec ego licet sciam parum grata politicis, passimque irrisa esse, nunquam dissimulavi, eo sinceriore professione, quod ab homine politico et extra Romanam Ecclesiam posito et nullum cum aulae Romanae addictis hominibus [p. 2338] commercium habente proficiscerentur. Et certe nescio quo fato opiniones meae a privato statu rerum mearum et locorum ubi agendum mihi fuit praejudiciis ita saepe dissedere, ut nihil adulationi nihil hominum plausui datum agnoscere omnes cogerentur. Contradicendi autem studium, abesse inde appareret, quod tutissimae opiniones et moderatissimae et caritati Christianae magis consentientes semper a me defenderentur, contra eos qui in extrema declinant modumque ac finem alios saepe ignotos criminandi nullum faciunt, et pleraque sibi adversa in pessimam partem interpretantur, quale genus hominum ipsa audacia sua ubique regnat, et ultro in modestiores contradictionis invidiam derivat.
+
+::: editorial
+
+(zu S. 2337) 2 f. et ubi . . . obnoxiam, erg. L 3 colliduntur, (1) nempe (2) ut observent: (3) Ecclesiae L 4–6 Nam (1) et (2) in dubio quidem erg. major pro Ecclesia jubente aut vetante, praesumtio est, modo mihi nullam vim jubeat. Arma enim Ecclesiae sunt preces. (3) in . . . jubeat Ecclesia erg. . . . preces. erg. (a) Et (b) Principibus autem (c) Et principibus (d) Nunquam tamen (e) Principes L 7–9 Quemadmodum restitisse erg. L 10 principes (1) imperium (2) in L 10 f. vereantur, (1) quod (2) cum nunquam (a) ad (b) vim (c) vi utatur (d) imperi (3) admittere (a) imperium alterius plane ordinis, (b) aliud . . . a suo, erg. (aa) quod nunquam (bb) quod non L 11 jura (1) principum (2) principis L 12 communi (1) tantum (2) aliorum L 12 fruentur (1) . D (2) , nec L 15 ad (1) salutem rei c (2) bonum L 16 inter Catholicos erg. L 17–19 licet (1) non putem, integrum esse Pontifici deponere principes, et subditos fidelitatis vinculo exolvere; puto tamen excommunicare principes (a) satis (b) sacris interdicere (c) perniciosos (d) perniciosa in rem Christianam molientes efficaci autoritate absterrere, pertinacibus sacris interdicere, subditisque injungere posse, (2) Papa . . . injunget erg. (a) ne (b) ut L 20–S. 2338.9 ministrent. (1) Inque eo puto (2) Puto Pontificis potius quam (3) Sed (4) 〈Quae cum vid〉 (5) Haec . . . derivat. L 21 passimque (1) explosa (2) irrisa L 21 esse, (1) dissimulare non possum, (2) nunquam dissimulavi L 21 quod (1) 〈 – – 〉 (2) ab L 22 politico et erg. L 22 posito (1) proficiscerentur (a) unde saepe (b) et saepe illis qui Pontificis reverentiam inanibus verbis ostentant, (2) et L
+
+:::
+
+Cuicunque Deus tribuit Amorem sui super omnia ei etiam dat notitiam saluti sufficientem filii sui. Et qui hunc actum amoris exercet, non potest esse haereticus aut schismaticus formalis.
+
+De salute eorum qui sunt extra Ecclesiam, ita statuendum videtur: Quicunque superveniente Spiritus Sancti gratia, vero Dei amore, super omnes creaturas incenditur, eum esse in statu salutis. Hanc gratiam autem non dari nisi per Messiam generis humani redemtorem. Itaque si verum est eam aliquando concessisse Deum his, qui forte nec de Judaeis eorumve Messia, nec de Christo secundum Carnem quicquam audivere, dicendum erit Deum occulta quadam ratione mentes eorum illuminasse, et notitiam illis aliquam fidei salvificae de filio suo, quanta ad salutem sufficiebat, inspirasse. Quoniam aeternum est justitiae Divinae axioma, facienti quod in se est (qualis est quisquis Deum super omnia amat), gratiam non denegari. Idem autem multo magis dicendum est de his qui baptisati sunt, et fidem Christianam profitentur, etsi communione externa Ecclesiae Catholicae, sive ob Schisma, sive ob haeresin sint exclusi. Nam qui Deum super omnia amat, ille in Schismate aut in haeresi forte esse potest, haereticus autem vel Schismaticus esse non potest. Verus scilicet, et ut scholae loquuntur, formalis.
+
+::: editorial
+
+(zu S. 2338) 1–3 certe (1) semper (2) nescio quo fato erg. opiniones meae (a) tales fuere, ut a privato statu rerum mearum (aa) comparatae (bb) compendiique quaesiti ita semper dissedere, ut nihil (aaa) gratiae (bbb) adulationi datum agnoscere omnes cogerentur (b) a . . . mearum (aa) locisque illis ubi (bb) et . . . cogerentur. L 5 et caritati . . . consentientes erg. L 6 in (1) aliis criminandis (2) extrema L 6 saepe ignotos erg. L 10 Cuicunque (1) Deus (2) Spiritus Sanctus tribuit Amorem Dei (3) Deus . . . sui L 10 etiam (1) occultam (2) dat L 13 videtur: (1) Amorem Dei super omnia (2) Quicunque L 14 gratia (1) verum Dei amorem, (2) vero Dei amore, L 15 eum (1) non posse non salvari. (2) esse . . . salutis. L 16 si (1) quando eam concessit Deus (2) verum . . . Deum L 22 etsi (1) Schisma (2) Schismatici vel haeretici materiales (3) Ecclesiae (4) sint exclusi (5) communione L 23 Catholicae (1) sint exclusi, sive quod Schisma, sive quod haeresis illis tribuatur (2) , sive . . . exclusi. L 24 amat, (1) eum impossibile est (2) ille (a) etsi in schismate aut in haeresi sit, verus tamen haereticus aut (b) in . . . vel L
+
+:::
+
+[p. 2339] Periculosissimum tamen saluti est, etiam citra culpam suam extra Ecclesiam
+
+Catholicam visibilem constitutum esse.
+
+Nam quisquis ita erga Deum affectus erit, idem studio pacis et veritatis ardebit. Itaque unionem cum caeteris fidelibus tanquam ingens bonum affectabit; et jam tum proinde ipso voto suo in communione Ecclesiae interna erit; errores autem non pertinacia voluntatis sed judicio intellectus defendet; sententiam enim mutare non est arbitrii nostri cum omnis opinio vel a conscientia praesentium rationum vel a memoria praeteritarum oriatur. Praeteritarum scilicet cum nunc non satis in animo sunt praesentes, nec distincte percipiuntur, modo reminiscamur aliquando a nobis perceptas; praesentia autem et praeterita in arbitrio non sunt, sed futura tantum: rationes vero novas invenire prioribus validiores non semper in potestate est. Unde sapientissime dictum est Errantis poenam esse ut doceatur. Hinc Anathematismos quoque Conciliorum in solos pertinaces dirigi arbitror, ne Concilia Deo ipso, cujus vindicta est, Severiora credamus.
+
+Haec autem tametsi vera, et inter Catholicos probata putem, nolim tamen Schismaticorum culpae palliandae servire. Itaque constanter pronuntio rem magni periculi esse etiam homini pio et sine culpa sua excluso, extra Ecclesiae Catholicae visibilis communionem vivere, tametsi enim nunc forte in statu salutis sis, dum sincero affectu Deum amas, si tamen remittas de diligentia nonnihil, quod etiam in bonis persaepe fit occasionesque aut vincendi tui erroris, aut procurandae unitatis negligas, jam in crimen incidisti, quod nisi nova contritione, id est poenitentia vero in Deum amore animata deleri non potest. Amoris autem hujus divini pretiosa valde, nec semper omnibus obvia ubique gratia est.
+
+Unde sequitur eum etiam qui excusabiliter extra visibilem Ecclesiam est, pro ipso in multo majore quam alium solicitudine esse debere, cum etiam levi omissione periclitetur, prorsus quemadmodum Theologi quoque Catholici censent posse aliquem etiam sine [p. 2340] sacerdote absolvi, per contritionem, et ubi copia sacerdotis facta est non ideo minus ad confessionem obstringi aut si negligat, novo crimine obligari. Unde nemo non tutius et ad pacem animi, maximum hujus vitae bonum efficacius putabit, simul et sacramento frui posse.
+
+::: editorial
+
+(zu S. 2339) 1 tamen erg. L 3 Nam (1) si omni conatu id aget, ut in Ecclesiam recipiatur, et quicquid in eam rem (a) sibi (b) possibile (aa) est facit, (bb) erit faciet, si ab omni pertinacia abest, (aaa) nec (bbb) errorem autem erg. non defendet pertinaciter, sed omnem diligentiam adhibet, quae (2) quisquis L 4 f. et . . . erit erg. L 6 f. nostri (1) sed pendet vel a conscient (2) cum L 8–11 oriatur (1) forte nunc non (a) 〈 – 〉 (b) distincte perceptarum (2) Praeteritarum . . . modo (a) credamus (b) reminiscamur . . . tantum: (aa) quare novis opus est rationibus (bb) rationes (aaa) autem (bbb) vero . . . est erg. L 12 solos erg. L 13 ne . . . credamus erg. L 14 f. tamen (1) quorundam extra Ecclesiam viventium (2) eorum qui in Schismate (a) vivunt (b) sunt ignaviae servire. (3) Schismaticorum culpae (a) excusandae (b) palliandae servire. L 16 etiam (1) in (2) homini pio et (a) injuria (b) sine . . . excluso, erg. L 17 forte (1) non ideo (2) in L 19 occasionesque . . . negligas erg. L 20 nova (1) poen (2) contritione, L 24 quam (1) in erg. u. gestr. Catholicum (2) alium L
+
+:::
+
+## 415. CONFERENTIA AD APOLOGIAM CATHOLICAE VERITATIS [Herbst 1685 (?)]
+
+Überlieferung: L Konzept: LH I 7, 6 Bl. 11–12. 1 Bog. 2o. 3 1/10 Sp.
+
+Die sorgfältige rhetorische Ausarbeitung und die wohl fingierte Beschreibung der Reise – Leibniz war nachweislich im November 1676 und im November 1694 in Holland – lassen eine Veröffentlichungsabsicht vermuten. Das nur kurzzeitig belegte Wasserzeichen weist auf eine Entstehungszeit im Herbst 1685 hin.
+
+Suscepto nuper animi gratia ad Batavos itinere veni in colloquium cum multis diversarum sectarum viris ingenio atque eruditione florentibus, sed plane infelicibus in negotio religionis. His cum satis familiariter et libere sententiam meam aperirem, et in omnibus aliis acutos, in eo solo hebetes esse deplorarem, quod unum necessarium est; illi contra sollicitudinem meam irridentes mirari se ajebant, quod ego quem viderent philosophiae solidioris (quo nomine Democriticam sive Mechanicam intelligunt) penitiora gustasse, et habere notitiam sacrae antiquitatis, adhaererem tamen sectae, qua ipsis nulla videretur absurdior, et a scriptura sacra ac primitiva Ecclesia alienior. Ego vero vicissim reponebam, quae tuendae Catholicae veritati apta judicabam, sed fortiter inprimis absurditatis calumniam repellebam, quod viderem non eruditos tantum, sed et alios ejus gentis paulo liberalioris ingenii homines, in tanta quidvis sentiendi libertate, consuetudinem contraxisse omnia rationis suae modulo metiendi. Et vel hanc ob causam Romanae [p. 2343] Ecclesiae disciplinam acerrime odisse, quod sibi fingunt apud Catholicos gravem ingeniis servitutem imponi, ac libros literasque durissima inquisitione premi, ita ut homines prae caeteris sapientes necesse sit hypocritas fieri, reliquos vero praejudiciis occaecatos in quadam velut barbarie agere, quo nihil magis sit profectui studiorum, et humanae perfectioni contrarium.
+
+::: editorial
+
+(zu S. 2342) 11 (1) Cum nuper animi gratia ad Batavos percurrissem, locutusque essem (2) Suscepto . . . itinere (a) viris (b) veni L 12 diversarum sectarum erg. L 12 eruditione humana gestr. florentibus L 17 et (1) in antiquitate esse versatum, aliquam (2) habere L 17 f. sectae, (1) quae ipsis omnium (2) quae se catholicam vocat, (3) qua ipsis (a) tamen omnium (b) nulla erg. videretur (aa) absurdissima (bb) absurdior, et a scriptura sacra ac erg. primitiva ecclesia (aaa) aliena. (bbb) alienor. L 22–S. 2343.1 causam (1) gravissime Catholicam disciplinam (2) Romanae Ecclesiae disciplinam (a) gravissime (b) acerrime L
+
+:::
+
+Animadverti igitur inter istos, agentem operae pretium facere, si ostendat Catholicam Ecclesiam non tantum sanctitate, sed et sapientia florere, ipsaque dogmata ejus esse pulcherrima et maxime rationi consentanea; denique non minus apud Catholicos quam sectarios liberum esse veritatem rationibus, experimentis, literariis denique observationibus indagare, et inventam in publicum proferre. Id igitur ego tunc studiose faciebam, lateque demonstrabam, Catholicam doctrinam verae philosophiae, disciplinam autem prudentiae mirifice consentaneam esse. Deumque nisi maluisset angelum aliquem in terras vicarium mittere, manifestisque miraculis homines in officio continere (quod omnino oeconomiae atque instituto divinae sapientiae contrarium fuit), non potuisse melius consulere humano generi, quam fundata Ecclesiae universalis autoritate, quae in rebus salutis infallibilis esset, cui semper tuto unusquisque adhaereret, a cujus communione nullam ob causam esset discedendum; Schismate vero ostendebam nihil esse perniciosius nihil caritati a Christo morituro et carissimo ejus discipulo tantopere commendatae, magis adversum, neque intra sesqui seculi spatium aut famem aut pestem, aut alia mala publica magis orbi christiano nocuisse, bella autem hinc potissimum nata esse; et cum nihil sit apud Deum animabus sanguine filii ejus redemtis pretiosius, innumeras tamen animas occasione infelicium dissensionum aeterno exitio periisse; denique tranquillitatis portum, in qua omnes secure conquiescant non nisi in Ecclesia inveniri, atque huc redeundum esse omnibus salutem suam alienamque amantibus, cum nihil ab Ecclesia exigatur, quod non unusquisque salva conscientia praestare possit.
+
+Haec multis objectionibus responsionibusque ultro citroque tunc a nobis sunt agitata, cum diversissimarum opinionum hominibus, quorum alii alia admittebant, ac saepe etiam [p. 2344] adversa fronte pugnantia objiciebant. Quae quidem omnia referre, et pro argumenti dignitate explicare magni voluminis res foret. Placuit tamen nonnulla hoc loco breviter complecti, quae maxime haesere memoriae, et ingerebantur crebrius et discussa non parum conferre videntur ad Catholicae Veritatis Apologiam ut appareat quam recta, quam pulchra quam sancta sint, quae docet Ecclesia. Idque jucundum omnibus fore arbitror qui eam amant, utile autem his quibus cum atheis, Deistis[,] libertinis, indifferentissimum foventibus, Antitrinitariis, aliisque sectariis, maxime vero cum protestantibus qui sibi falsa rationum specie, ac ficta catholicarum sententiarum absurditate blandiuntur, agendi occasio vel necessitas erit. Meo sane zelo non plane successum defuisse divina benignitate sum expertus.
+
+::: editorial
+
+(zu S. 2343) 1 quod (1) imaginantur (2) sibi fingunt L 1 f. gravem erg. L 2 literasque (1) gravissima (2) durissima L 5 humanae mentis gestr. perfectioni L 7 sanctitate et virtutibus gestr. , sed L 11 demonstrabam, (1) quam (a) pulchra sit (b) egregia sit religio Christiana, quam (2) Catholicam L 12 autem (1) verae oeconomiae (2) prudentiae L 13 mittere, (1) et visibilibus miraculis (2) manifestisque miraculis (a) Ecclesiam (b) christianos (c) homines L 15 f. universalis erg. L 17 f. ostendebam erg. L 18 morituro erg. L 19 adversum, (1) unde (2) in (3) innumera (4) neque intra (a) seculi (b) sesqui seculi spatium erg. L 24–27 atque . . . possit erg. Nec (1) defuit plane successus (2) zelo meo successum plane defuisse, effeci enim ut nonnulli nutarent nonnihil faterenturque, longe meliorem sese nunc quam antea de fide nostra habere opinionem. gestr. Haec L 27 a (1) me (2) nobis L 28 f. ac erg. L
+
+:::
+
+Cum primum philosophia nova in Batavorum gente liberrima recepta fuit, inventi sunt, qui ea ad pessimas sententias tuendas abuterentur, quos inter eminuit quidam Benedictus Spinosa gente judaeus, sed Christianum professus, qui tamen aperte negare ausus est Christi resurrectionem, omniaque miracula. Totum universum concipit ut unam substantiam, quam vocat Deum, creaturas autem vult tantum esse Dei modos, quemadmodum figurae sunt modi extensionis; hinc mens humana ipsi nihil aliud est quam certus quidam cogitandi modus quatenus Deus determinatam hanc corporis humani figuram considerat, seu uno verbo animam Socratis esse ideam talis corporis seu figurae, quam habuit Socrates et immortalitas animae ipsi non in alia re consistit, quam in aeternitate hujus ideae. Deus apud ipsum proprie nec intellectum habet nec voluntatem, nec propter bonum pulchrumve aliumve finem operatur, sed ita ut producat omnia quae potest; quare non tantum mundus ipsi aeternus est et infinitus, sed et omnia possibilia in eo existunt, non minus ea, quae bona et justa videntur, quam absurda et injusta, quoniam scilicet Deo [p. 2345] non defuit materia ad omnia rerum genera producenda. Haec igitur opinio omnem pietatem et religionem tollit, quamvis loquendi formulis utatur, quae videntur eam retinere. Mihi cum hujus hominis sectatoribus crebra fuit colloquendi occasio, quanquam nonnullos totam dogmatis pravitatem perspexisse non arbitrer. Putant autem illi etiam Cartesium pleraque sensisse quae Spinosa tantum apertius fuit elocutus; in quo eis assentiri non ausim, etsi nonnulla Cartesii loca suspecta esse agnoscam.
+
+::: editorial
+
+(zu S. 2344) 6 cum hominibus gestr. atheis, Deistis erg. L 7 f. cum (1) acrioribus (2) acuti (3) protestantibus L 10 expertus. (1) Sciendum est autem ante omnia esse in Batavis, et periculosissimo contagio latius serpere genus quoddam hominum, qui religionem quandam plane philosophicam si ipsis credimus moliuntur (2) Cum L 12 abuterentur, (1) nec jam de (a) protestantium (b) Theologis loquor, quibus (c) Theologis Calvinianis loquor, quibus vel ideo placuit quod (aa) cum formis substantialibus accide (bb) corporis natura in extensione vel mole constituta formisque substantialibus et accidentibus realibus profligatis, etiam praesentia realis et transsubstantiatio sublatae viderentur, sed de his qui (2) quos L 14 miracula. (1) Deum fecit (2) Dei nomine accipit vim (3) Totum universum concipit ut unam substantiam (4) In toto mundo (5) Totum L 15 f. modos, (1) adeo ut figurae sunt modi substantiae corporeae, itaque (2) quemadmodum . . . extensionis; (a) hinc omnia (b) quod cum sit (aa) ineptissimum (bb) quis (cc) a ratione alienissimum, (c) hinc L 18 considerat, (1) qui destructo corpore non aliter manet (2) seu L 18 verbo (1) idea hujus corpori (2) hanc (3) animam L 21 aliumve finem erg. L 23 existunt, (1) et cur mala existant non aliam causam esse reddendam, quam (2) non minus ea, quae (a) nobis (b) secundum no (c) bona L
+
+:::
+
+Porro non nisi unam esse substantiam, et omnia hujus substantiae esse modos, res est perabsurda, et primae omnium experientiarum adversa, nam id quod in se quisque agnoscit cum cogitat seipsum id omnes vocant substantiam; Spinosae vero definitio valde vitiosa est, substantiam enim definit, quod in se est, et per se concipitur, primum enim obscurissimum est illud in se esse; si intelligit, non esse in alio tanquam in subjecto utique ego ero substantia, quis enim dicet me esse in Deo tanquam in subjecto seu Deum esse me, sin aliud quid intelligebat debebat explicare, deinde non attingit quid de illis rebus dicendum sit, quae in se sunt, etsi non per se concipiantur quales quidem communiter censentur esse substantiae, aut ostendendum illi erat, nihil posse in se esse, quin per se concipiatur. Sed haec subtiliora, illud vero utilius in conferendo cum his hominibus expertus sum, ut ostendatur illis quam absurdum sit omnia possibilia existere, nihilque tam ineptum et injustum fingi posse, quin alicubi a Deo producatur. Ostendi potest enim contradictionem ut omnia aliquando existant quae contradictionem non implicant.
+
+::: editorial
+
+(zu S. 2345) 3 hominis (1) discipulis (2) sectatoribus L 3 f. quanquam (1) eos (2) nonnullos L 4 dogmatis sui gestr. pravitatem L 9 cum (1) cogitans seipsum dicit Ego (2) cogitat seipsum L 9 f. substantiam; (1) et cum Spinosa quidem erg. substantiam definit, id quod in se est et per se concipitur, (2) in Spinosae vero definitione (a) vis (b) vitium est, (3) Spinosae . . . est L 12 utique (1) homo (2) Titius erit substantia, quis (3) ego L 13 non (1) dicit (2) attingit L
+
+10 quod . . . concipitur: B. DE SPINOZA, Ethica, pars I, def. 3 [Marg.].
+
+:::
+
+## [p. 2347] 417. DE DEO ET ECCLESIA [Herbst 1685 bis Frühjahr 1686 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 20 Bl. 227–228. 1 Bog. 4o. 4 Sp.
+
+E GRUA, Textes, 1948, S. 171–174.
+
+Dieses und das folgende Stück stehen durch teilweise wörtliche Übereinstimmung, Schriftduktus und die Verwendung desselben Papiers in engem Zusammenhang und waren ursprünglich durch Fadenheftung miteinander verbunden. Inhaltliche Parallelen zum Examen religionis christianae (N. 420) lassen auf eine diesem vorangehende Entstehungszeit zwischen Herbst 1685 und Frühjahr 1686 schließen.
+
+Naturali lumine constat esse aliquam substantiam perfectissimam, quam Deum appellamus, atque hunc proinde esse unicum, esse necessarium sive aeternum, esse omnium quae in caeteris rebus sunt perfectionum autorem et conservatorem, quicquid autem imperfectionis est ubique a propria creaturarum limitatione proficisci. Consequens etiam est Deum esse Mentem Omnipotentem et Omnisciam, omniaque ab ipso optima ratione ordinari, ut non possit melius. Denique Deum maximam in universo Mentium rationem habere, quarum Societas Optimam sub hoc justissimo Monarcha Rempublicam componat; in qua omnia supra sapientissimorum vota esse manifestum esset nobis, si arcana providentiae nosceremus.
+
+Ex his porro colligitur supremum amorem, et cultum ipsi vicissim a Mentibus deberi; omnesque summa ope niti debere, ut praesumtae ejus Voluntati satisfaciant, et [p. 2348] Spartam quisque suam, ac res cum quibus versatur ornet; quantum ex his quae ipsi nota sunt divinae voluntati consentaneum fore judicare potest. Quod si conatui successus desit, tanta tamen Dei bonitas est, ut sit optima sed seria sinceraque nostra voluntate atque erga se affectu contentus.
+
+::: editorial
+
+(zu S. 2347) 10 (1) Deus est substantia perfectissima, ac proinde (2) Naturali L 10 constat (1) Deum esse (2) esse aliquam L 10 f. perfectissimam, (1) quam Deum appellamus, unde consequens est Deum (2) Ac proinde (3) quam . . . proinde L 12 f. conservatorem, (1) qui (2) in quibus (3) quicquid autem (a) in (aa) rebus (bb) creaturis imperfectum (aaa) est (bbb) a propria ipsarum limitatione proficiscitur. Sec (b) imperfectionis . . . proficisci. L 14 f. Omnisciam, (1) et omnium rerum justi (2) omniaque ab ipso (a) optimari (b) optima ratione (aa) gubernari (bb) fier (cc) ordinari, L 15 melius. (1) Inprimis autem Regem ac Dominum esse Mentium caeterarum, (a) quae scilicet (b) (id est substantiarum quae ipsum pariter ac sese cognoscere possunt,) (aa) quarum in Universo potissimum a Deo habetur ratio, (bb) et q (cc) eas (dd) earumque potissimam in Universo a Deo rationem haberi, justis (2) Denique Deum (a) esse justissimum (aa) caeterarum Mentium Monarcham, easque justissima ratione gubernare, ut (bb) Monarcham totius Universarum Mentium Societatis, qu (b) maximam L 16 Societas (1) quandam (2) Optimam L 17 esse (1) constaret (2) manifestum esset L 18 arcana divinae gestr. providentiae L 19 porro (1) manifestum est summum (2) colligitur supremum L 19 ipsi (1) ab omnibus (2) vicissim a L 20 deberi; (1) quemad (2) omnesque (a) summa (b) omni (c) summa L
+
+:::
+
+Quae cum talia sint, ut nihil videatur[^2348-1] facilius esse recte ratiocinanti quam Deum amare et colere, constat tamen experientia Genus humanum usque adeo a rationalis naturae perfectione descivisse ut nihil appareat difficilius atque rarius. Nec satis remedii attulit philosophia sive ratio arte culta, tum quod in rebus a sensu remotis difficilis demonstratio est, tum quod homines sine majore quadam vi atque impressione solis rationibus non satis moventur.
+
+Itaque Bonitati Sapientiaeque divinae consentaneum fuit Religione Revelata emendari genus humanum, et ad meliora complectenda animos commoveri, tum ut disceremus quae ratio docere non potest, tum ut major autoritas rationibus adderetur.
+
+Ea autem Religio divinitus missa, haud dubie Christiana est, quae tot tantasque habet veritatis notas, ut divinae providentiae in ea stabilienda consilium agnoscere cogamur, nisi Deum ipsum fingamus nos objectis tot argumentis (: quod absit :) decipere voluisse.
+
+Extant autem Libri Sacri, quos pro parte saltem potiore (ut reliqua nunc seponam, quae vel minimam dubitationem habuere) genuinos esse, et primis religionis nostrae praedicatoribus Christi discipulis quibus ascribuntur tribui debere, tam certum est apud peritos, quam Ciceronis aut Virgilii esse potissima illa quae sub illorum nominibus leguntur.
+
+[^2348-1]: Darüber: credas
+
+::: editorial
+
+(zu S. 2348) 1 quibus (1) versandum ipsi est (2) versatur ornet; (a) attamen (aa) si conatui successu (bb) quantum ipse (b) quantum L 2 conatui erg. L 3 sit (1) summe (2) optima L 3 f. voluntate (1) contentus. (2) atque L 5 cum (1) ita (2) talia L 5 nihil (1) facilius recte ratiocinanti videatur (2) videatur facilius esse recte ratiocinanti L 6 amare et erg. L 6 tamen (1) gen (2) experientia L 7 ut (1) verissimi (2) nihil videatur difficilius. (3) nihil videatur (4) experiamur (5) 〈pauci〉 officio (6) nihil . . . rarius. L 7 f. remedii (1) Philosophiam, sive rationem studio excultam (a) as (b) attulisse (aa) , tum quod (bb) vid (2) attulit L 8 culta, (1) sive (2) tum quod (a) diff (b) in L 9 sine (1) superiore (2) majore L 11 f. Religione (1) animos commoveri ex omnibus autem (2) Revelata emendari . . . complectenda erg. L 13 ut (1) majus pondus (a) atque (b) co (2) major L 13 f. adderetur (1) Ex omn (2) Ea L 15 in (1) ejus stabi (2) ea L 16 fingamus (1) , quod (2) nos (a) , quod absit (b) objectis tot speciosis gestr. argumentis L 18 f. Libri quidam gestr. Sacri, (1) quos (a) ab illis qui primu (b) a primis Christi discipulis (2) ex quibus (a) nonnullos saltem (b) partem (3) quos . . . saltem (a) certe (b) potiore . . . dubitationem (aa) habent) (bb) habuere) erg. L 20 discipulis (1) tribui debere (2) quibus L 20 f. apud peritos, erg. L 22–S. 2349.1 leguntur (1) caeter (2) reliqua canone Ecclesiae confirmantur, de cujus autoritate erg. u. gestr. (a) . Verum (b) . Ex his autem libris indubi (c) . Sed L
+
+:::
+
+[p. 2349] Sed cum constet inde a quatuordecim pene seculis in Ecclesia Christiana invaluisse sententias, quae ex solis libris sacris perfecte satis et clare evinci non possunt, et, si falsae essent, periculosissimae profecto forent, alterutrum dicendum videtur, vel Christianam religionem, si falsa sunt ista dogmata mox ab initio fuisse horribiliter corruptam, et Divinam providentiam consilio suo excidisse, et praevalentibus inferorum portis irrita fuisse Christi promissa, de Ecclesia sua tutanda, atque in omnem veritatem divini spiritus ope ducenda; cum tamen etiam falsas religiones diutius puritatem servasse constet; quae sane nescio an non ipsam Christianam religionem evertant, et ad Deismum aliquem nudum, si non Atheismum, ducant; vel fatendum erit dogmatis illis tuendis Ecclesiae autoritatem sufficere, et Ecclesiae divinis promissis atque auxiliis munitae judicio circa veritates salutares tuto stari. Idque fidei simplicium, et caritatis quoque vinculo inter Christianos conservando, quod maxime Christus suis ante discessum commendavit aptissimum esse dubitari non potest.
+
+Porro ut Schismata vitarentur Ecclesiam communi quadam gubernatione atque Hierarchia colligari non rationi tantum consentaneum est, sed et traditioni Ecclesiae ipsius, et verbis Christi in Scriptura, quibus illud Dic Ecclesiae, praecepit, et ligandi solvendique potestatem concessit; et praxi Apostolorum Hierosolymis primum Concilium habentium.
+
+Cum vero concilia universalia semper haberi non possint, et tamen consentaneum sit aliquam etiam interconciliari tempore Gubernationis communis rationem superesse, neque unquam facile aliquo capite ac directore Rempublicam Christianam carere; nullum autem Collegium inde ab Apostolorum temporibus extiterit, cui tale quid tribui possit, nec quisquam hominum praeter unum Romanum Episcopum tantum sibi juris arrogaverit, Romanus vero principis olim toto orbe urbis Pastor, et vetustatis exempla atque autoritatem et possessionem longam habeat, et quod sane mirum est, quibusdam Scripturae dictis, non obscure adjuvetur, admittendum videtur tantum illi potestatis divinitus concessum esse quantum opus est ad Ecclesiam quam optime gubernandam.
+
+::: editorial
+
+(zu S. 2349) 2 satis (1) evinci (2) et L 4 , si . . . dogmata erg. (1) statim (2) mox L 5 excidisse, (1) et (2) irritaque (3) et L 6 f. veritatem (1) salutarem (2) divini L 7 religiones (1) purius (2) diutius L 9 f. vel (1) Dogma (2) fatendum erit (a) judicio (b) dogmatis . . . et erg. L 10 promissis (1) 〈 – 〉 (2) atque L 11 judicio (1) tut (2) circa L 11 f. quoque (1) Chri (2) vinculo L 16 verbis (1) Sacrae Scripturae, (2) Christi in Scriptura, (a) qui (b) quibus L 16 et (1) claves (2) ligandi L 17 f. Apostolorum (1) cum primum Hierosolymis (2) quando primum Concilium Hierosolymis habuere (3) Hierosolymis . . . habentium. L 19 universalia erg. L 19 f. possint, (1) utique necesse est (2) et sit L 21 facile erg. L 22 temporibus (1) sibi talem potestatem ascripserit, (2) extiterit, . . . possit, L 23 quisquam (1) Pastorum (2) hominum L 24 principis (1) in 〈or-〉 (2) in prima Ecclesia per orbem Urbis, (3) olim . . . Pastor, L 25 atque (1) autoritates plurimas, et autoritat (2) autoritatem L 25 quod (1) magis est quibusda (2) sane L 26 adjuvetur (1) concedendum (2) con (3) admittendum erg. L 27–S. 2350.1 gubernandam. (1) Quivis (2) Quicunque L
+
+:::
+
+[p. 2350] Quicunque autem unitatem Ecclesiae sua culpa abrumpunt aut schisma fovent, eos gravissime peccare, et animam suam summo periculo exponere pro certo habendum est. Quanta enim sint schismatis mala funestissimis experimentis didicit orbis. Et qui non faciunt quantum in se est, ut ex schismate redeant in Catholicam unitatem, temere sese privant ordinariis quibusdam divinae gratiae auxiliis quae Sacramentis Ecclesiae ideo Deus astrinxit, ut fortiore vinculo animi fidelium connecterentur.
+
+Nam ita in Ecclesia receptum et uti arbitror divinitus institutum est, ut nec Sacramentum corporis Domini cujus communicatione etiam Ecclesiae corpus sua membra agnoscit, confici, nec maxima clavium potestas exerceri possit nisi a pastore rite ordinato; ipsa autem ordinatio sit Episcoporum, qui successores Apostolorum habentur. Et licet aliquos necessitatis casus excipi posse daremus, quibus hujus potestatis pars vel communicaretur aliis, vel divina benignitate suppleretur, praesertim si quem Deus ita respexerit, ut vero divino amore incendatur; hoc tamen contemtui aliorum patrocinari non potest. Manifestum enim est qui Deum super omnia toto corde amat, praescripta ab ipso remedia nostrae infirmitatis spernere non posse.
+
+Ecclesia quoque Canonem librorum sacrorum constituit, cui tuto fidi potest, etsi de nonnullis aliquando sit dubitatum. Neque vero Circulus committitur quasi Ecclesia per Scripturam probaretur, et rursus Scriptura per Ecclesiam. Nam potiorem partem sacrorum librorum constat eodem jure agnosci, quo alii veteres autores solent, etsi nullum Ecclesiae decretum accessisset, atque hi vicissim Ecclesiae autoritatem suis testimoniis juvare possunt. Ecclesiae autem Canon et reliqua sacra volumina totumque adeo Scripturae corpus innuit. Ecclesiae autem usque adeo in clara luce posita est autoritas, ut iis quae supra attulimus argumentis, etiam sine Scriptura, stabiliri posset.
+
+::: editorial
+
+(zu S. 2350) 1 aut schisma fovent erg. L 2 et (1) summo animam (2) animam suam summo L 2 exponere (1) dubitari non debet (2) pro L 3 qui (1) in schismate haerent, carent ordinariis (a) qu (b) di (c) auxiliis divi (2) ex (3) schismate cum possint, non (4) ex (5) non L 4 schismate (1) exeant (2) redeant L 4 f. unitatem, (1) carent (2) temere sese privant L 5 auxiliis (1) quas Ecclesiae (2) quae L 5 f. ideo erg. Deus ideo gestr. astrinxit, (a) quo (b) ut L 7 receptum (1) est (2) et L 8 f. cujus communicatione (1) et (2) etiam Ecclesiae corpus (a) colligatur, (b) sua membra agnoscit, erg. L 9 maxima erg. L 10 f. , qui . . . habentur erg. . (1) Quodsi in nonnullis (2) Et L 11 posse (1) demus (2) daremus, quibus (a) aliqua (b) hujus L 12 vel (1) divini (2) a Deo suppleretur hoc tamen illis (3) divina L 12 suppleretur, (1) hoc tamen illis patrocinari posset, (2) praesertim si (a) quis (b) quem L 14 Deum (1) vere amat, (2) super L 16 cui (1) toto (2) tuto L 17 nonnullis (1) olim (2) subinde sit dubita (3) aliquando (a) esset (b) sit L 22 adeo (1) eorum (2) Scripturae L 23 sine (1) scripto verbo (2) Scriptura, L
+
+:::

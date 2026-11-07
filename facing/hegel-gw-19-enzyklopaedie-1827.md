@@ -1,0 +1,5679 @@
+---
+title: Enzyklopädie der philosophischen Wissenschaften im Grundrisse (1827)
+title_en: Encyclopaedia of the Philosophical Sciences in Outline (1827)
+author: G. W. F. Hegel
+year: 1827
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: G. W. F. Hegel, Gesammelte Werke, vol. 19, ed. Wolfgang Bonsiepen and Hans-Christian Lucas (Hamburg: Felix Meiner, 1989); OCR of the volume, cleaned 2026-10-25 by _gw-pipeline (claude-folder)
+original_text: OCR of the GW volume, uncorrected except: running heads, margin pagination, licence stamps and the critical apparatus removed; words split at line and page ends rejoined. Hegel’s spelling and the editors’ square-bracket supplements are as GW prints them; GW is the authority
+translation: none
+canonical: Gesammelte Werke 19: [GW 19:p] marks the start of each GW page; cite as GW 19, p
+rights: GW 19 was first published in 1989; the 25-year protection of scholarly editions (German copyright act, UrhG §§70–71) ended on 31 December 2014. This file holds only Hegel’s text, his own notes and the page marks: the editors’ apparatus, editorial reports, explanatory notes, registers and front matter are not included.
+pages: 428
+genre: Hegel and his school
+collection: Hegel, Gesammelte Werke
+generated: 2026-10-25 by _gw-pipeline/scripts/export.py (claude-folder)
+public: true
+---
+
+# G. W. F. Hegel, *Enzyklopädie der philosophischen Wissenschaften im Grundrisse (1827)* (1827) — Gesammelte Werke 19
+
+Conventions: `[GW 19:p]` marks where page p of GW 19 begins, at the exact word; `[orig. N]` where page N of the original print (or leaf N of the manuscript) begins, as GW records it in its margin — where those numbers could not be matched, GW’s `|` is kept; paragraphs are whole across page turns; `*…*` is emphasis as OCR read it; `[^id]` is a note of Hegel’s own (a footnote, or in the manuscripts a marginal note, `Am Rande:`), set under its paragraph; `[…]` are the GW editors’ supplements; `⁂` separates the volume’s texts. This folder is the source: corrections go into its original.md.
+
+## [p. 1] ENCYCLOPÄDIE
+
+## DER
+
+PHILOSOPHISCHEN WISSENSCHAFTEN
+
+## IM GRUNDRISSE.
+
+Zum Gebrauch seiner Vorlesungen von
+
+Dr. Georg Wilhelm Friedrich Hegel, ordentl. Professor der Philosophie an der Universität zu Berlin.
+
+Zweite Ausgabe.
+
+Heidelberg,
+
+Druk und Verlag von August Oßwald.
+
+[p. 3] der
+
+philosophischen Aissenschaften
+
+im Grundrisse.
+
+## Zum Gebrauch seiner Vorlesungen
+
+von
+
+Dr. Georg Wilhelm Friedrich Wetzel, ordentl. Professor der Philosophie an der Universität zu Berlin.
+
+Zweite Ausgabe.
+
+HEIDELBERG,
+
+Druk und Verlag von August Oswald.
+
+## [p. 5] VORREDE ZUR ZWEITEN AUSGABE
+
+## VORREDE
+
+## ZUR ZWEITEN AUSGABE.
+
+Der geneigte Leser wird in dieser neuen Ausgabe mehrere Theile umgearbeitet und in nähere Bestimmungen entwickelt finden; dabei bin ich bemüht gewesen, das Formelle des Vortrags zu mildern und zu mindern, auch durch weitläufigere exoterische Anmerkungen abstracte Begriffe dem gewöhnlichen Verständnisse und den concretern Vorstellungen von denselben näher zu rücken. Die gedrängte Kürze, welche ein Grundriß nöthig macht, in ohnehin abstrusen Materien, läßt aber dieser zweiten Auflage dieselbe Bestimmung, welche die erste hatte, zu einem Vorlesebuch zu dienen, das durch mündlichen Vortrag seine nöthige Erläuterung zu erhalten hat. Der Titel einer Encyclopädie sollte zwar anfänglich einer mindern Strenge der wissenschaftlichen Methode und einem äußerlichen Zusammenstellen Raum lassen; allein die [orig. IV] Natur der Sache bringt es mit sich, daß der logische Zusammenhang die Grundlage bleiben mußte.
+
+Es wären nur zu viele Veranlassungen und Anreizungen vorhanden, die es erforderlich zu machen schienen, mich über die äußere Stellung meines Philosophirens zu geistigen und geistlosen Betrieben der Zeitbildung zu erklären; was nur auf eine exoterische Weise, wie in einer Vorrede, geschehen kann; denn diese Betriebe, ob sie sich gleich ein Verhältniß zu der Philosophie geben, lassen sich nicht wissenschaftlich, somit überhaupt nicht in dieselbe ein, sondern führen von Außen her und drau-Den ihr Gerede. Es ist mißliebig und selbst mißlich, sich auf solchen der Wissenschaft fremden Boden zu begeben, denn solches Erklären und Erörtern fördert dasjenige Verständniß nicht, um welches es allein zur wahrhaften Erkenntniß zu thun seyn kann. Aber einige Erscheinungen zu besprechen mag nützlich oder vonnöthen seyn. Worauf ich überhaupt in meinen philosophischen Bemühungen hingearbeitet habe und hinarbeite, ist die wissenschaftliche Erkenntniß der Wahrheit. Sie ist der schwerste Weg, aber der allein Interesse und Werth für den Geist haben kann, wenn dieser einmal auf den Weg des Gedankens sich begeben, auf demselben nicht in das Eitle verfallen ist, sondern den Willen und den Muth der Wahrheit sich bewahrt hat; er findet bald, daß die Methode allein den Gedanken [orig. V] zu bändigen und ihn zur Sache zu führen und darin zu erhalten vermag. Ein solches Fortführen erweist sich, selbst [p. 6] nichts anderes als die Wiederherstellung desjenigen absoluten Gehalts zu seyn, über welchen der Gedanke zunächst hinausstrebte und sich hinaussetzte, aber eine Wiederherstellung in dem eigenthümlichsten, freisten Elemente des Geistes.
+
+Es ist ein unbefangener, dem Anschein nach glücklicher Zustand noch nicht gar lange vorüber, wo die Philosophie Hand in Hand mit den Wissenschaften und mit der Bildung ging, eine mäßige Verstandesaufklärung sich mit dem Bedürfnisse der Einsicht und mit der Religion zugleich zufrieden stellte, ebenso ein Naturrecht sich mit Staat und Politik vertrug, und empirische Physik den Namen natürlicher Philosophie führte. Der Friede war aber oberflächlich genug, und insbesondere jene Einsicht stand mit der Religion, wie dieses Naturrecht mit dem Staat in der That in innerem Widerspruch. Es ist dann die Scheidung erfolgt, der Widerspruch hat sich entwickelt; aber in der Philosophie hat der Geist die Versöhnung seiner mit sich selbst gefeiert, so daß diese Wissenschaft nur mit jenem Widerspruche selbst und dessen Uebertünchung im Widerspruche ist. Es gehört zu den übeln Vorurtheilen, als ob sie sich im Gegensatz befände gegen eine sinnige Erfahrungskenntniß, die vernünftige Wirklichkeit des Rechts, und eine unbefangene Religion und Frömmigkeit; diese Gestalten werden von der Philosophie anerkannt, ja selbst gerechtfertigt; der denkende Sinn vertieft sich vielmehr in deren Gehalt, lernt und bekräftigt sich an ihnen wie an den großen Anschauungen der Natur, der Geschichte und der Kunst; denn dieser gediegene Inhalt ist, sofern er gedacht wird, die speculative Idee selbst. Die Collision gegen die Philosophie tritt nur in sofern ein, als dieser Boden aus seinem eigenthümlichen Charakter tritt, und sein Inhalt in Kategorien gefaßt und von solchen abhängig gemacht werden soll, ohne dieselben bis zum Begriff zu führen und zur Idee zu vollenden.
+
+Das wichtige negative Resultat, in welchem sich der Verstand der allgemeinen wissenschaftlichen Bildung befindet, daß auf dem Wege des endlichen Begriffs keine Vermittlung mit der Wahrheit möglich sey, pflegt nämlich die entgegengesetzte Folge von der zu haben, welche unmittelbar darin liegt. Jene Ueberzeugung hat nämlich das Interesse an der Untersuchung der Kategorien, und die Aufmerksamkeit und Vorsicht in der Anwendung derselben vielmehr aufgehoben, statt die Entfernung der endlichen Verhältnisse aus dem Erkennen zu bewirken; der Gebrauch derselben ist, wie in einem Zustande der Verzweiflung, nur um so unverholener, bewußtloser und unkritischer geworden. Aus dem Misverstande, daß die Unzu reichenheit der endlichen Kategorien zur Wahrheit die Unmöglichkeit objectiver Erkenntniß mit sich bringe, wird die Berechtigung aus dem Gefühle und der subjectiven Meynung zu sprechen und abzusprechen gefolgert, und an die Stelle des Beweisens treten Versicherungen und die Erzählungen von dem, was sich in dem Bewußtseyn für Thatsachen vorfinden, welches für um so reiner gehalten wird, je unkritischer es ist. Auf eine so dürre Kategorie, wie die Unmittelbarkeit ist, und [p. 7] ohne sie weiter zu untersuchen, sollen die höchsten Bedürfnisse des Geistes gestellt und durch sie entschieden seyn. Man kann, besonders wo religiöse Gegenstände abgehandelt werden, finden, daß dabei ausdrücklich das Philosophiren bei Seite gelegt wird, als ob hiemit alles Uebel verbannt und die Sicherung gegen Irrthum und Täuschung erlangt wäre, und dann wird die Untersuchung der Wahrheit aus irgend woher gemachten Voraussetzungen und durch Räsonnement veranstaltet, d. i. im Gebrauch der gewöhnlichen Denkbestimmungen von Wesen und Erscheinung, Grund und Folge, Ursache und Wirkung und so fort, und in dem üblichen Schließen nach diesen und den andern Verhältnissen der Endlichkeit vorgenommen. »Den Bösen sind sie los, das Böse ist geblieben, « und das Böse ist neunmal schlimmer als vorher, weil sich ihm ohne allen Verdacht und Kritik anvertraut wird; und als ob jenes Uebel, das [orig. VIII] entfernt gehalten wird, die Philosophie, etwas anderes wäre, als die Untersuchung der Wahrheit, aber mit Bewußtseyn über die Natur und den Werth der allen Inhalt verbindenden und bestimmenden Denkverhältnisse.
+
+Das schlimmste Schicksal hat dabei die Philosophie selbst unter jenen Händen zu erfahren, wenn sie sich mit ihr zu thun machen, und sie theils auffassen theils beurtheilen. Es ist das Factum der physischen oder geistigen, insbesondere auch der religiösen Lebendigkeit, was durch jene es zu fassen unfähige Reflexion verunstaltet wird; dieses Auffassen hat jedoch für sich den Sinn, erst das Factum zu einem Gewußten zu erheben, und die Schwierigkeit liegt in diesem Uebergange von der Sache zur Erkenntniß, welcher durch Nachdenken bewirkt wird. Diese Schwierigkeit ist jedoch bei der Wissenschaft nicht mehr vorhanden. Denn das Factum der Philosophie ist die schon zubereitete Erkenntniß, und das Auffassen wäre hiemit nur ein Nachdenken in dem Sinne eines nachfolgenden Denkens; erst das Beurtheilen erforderte ein Nachdenken in der gewöhnlichen Bedeutung. Allein jener unkritische Verstand beweist sich eben so ungetreu im nackten Auffassen der bestimmt ausgesprochenen Idee, er hat so wenig Arges oder Zweifel an den festen Voraussetzungen, die er enthält, daß er sogar unfähig ist, das baare Factum [orig. IX] der philosophischen Idee nachzusprechen. Dieser Verstand vereinigt wunderbarer Weise das Gedoppelte in sich, daß ihm an der Idee die völlige Abweichung und selbst der ausdrückliche Widerspruch gegen seinen Gebrauch der Kategorien auffällt, und daß ihm zugleich kein Verdacht kommt, daß eine andere Denkweise vorhanden sey, und ausgeübt werde als die seinige, und er hiemit anders als sonst denkend sich hier verhalten müsse. Auf solche Weise geschieht es, daß sogleich die Idee der speculativen Philosophie in ihrer abstracten Definition festgehalten wird, in der Meynung, daß eine Definition für sich klar und ausgemacht erscheinen müsse und nur an vorausgesetzten Vorstellungen ihren Regulator und Prüfstein habe, wenigstens in der Unwissenheit, daß der [p. 8] Sinn wie der nothwendige Beweis der Definition allein in ihrer Entwicklung und darin liegt, daß sie aus dieser als Resultat hervorgeht. Indem nun näher die Idee überhaupt die concrete, geistige Einheit ist, der Verstand aber darin besteht, die Begriffsbestimmungen nur in ihrer Abstraction und damit in ihrer Einseitigkeit und Endlichkeit aufzufassen, so wird jene Einheit zur abstracten geistlosen Identität gemacht, in welcher hiemit der Unterschied nicht vorhanden, sondern Alles Eins, unter anderem auch das Gute und das Böse einerlei sey. Für speculative Philosophie ist daher der Name Identitäts-System, Identitäts-Philosophie bereits zu einem recipirten Namen geworden. Wenn Jemand sein Glaubensbekenntniß ablegte: Ich glaube an Gott den Vater, den Schöpfer Himmels und der Erde, so würde man sich wundern, wenn ein Anderer schon aus diesem ersten Theile herausbrächte, daß der Bekenner an Gott den Schöpfer des Himmels glaube, also die Erde für nicht geschaffen, die Materie für ewig halte. Das Factum ist richtig, daß jener in seinem Bekenntniß ausgesprochen hat, er glaube an Gott den Schöpfer des Himmels, und doch ist das Factum wie es vom zweiten aufgefaßt worden, vollkommen falsch; so sehr daß dies Beispiel für unglaublich und für trivial angesehen werden muß. Und doch ist der Fall mit dem Auffassen der philosophischen Idee diese gewaltsame Halbirung so daß um es nicht misverstehen zu können, wie die Identität, welche der Versicherung nach das Princip der speculativen Philosophie sey, beschaffen sey, die ausdrückliche Belehrung und respective Widerlegung folgt, etwa daß das Subject vom Object verschieden sey, ingleichen das Endliche vom Unendlichen u.s.f., als ob die concrete geistige Einheit in sich bestimmungslos wäre und nicht selbst den Unterschied in sich enthielte, als ob irgend ein Mensch es nicht wüßte, daß das Subject von dem Objecte, das Unendliche von dem Endlichen verschieden | sey, oder die Philosophie in ihrer Schulweisheit sich vertiefend daran zu erinnern wäre, daß es außer der Schule die Weisheit gebe, welcher jene Verschiedenheit etwas Bekanntes sey.
+
+Indem die Philosophie in Beziehung auf die ihr nicht bekannt seyn sollende Verschiedenheit bestimmter so verunglimpft wird, daß in ihr damit auch der Unterschied des Guten und Bösen wegfalle, so pflegt gern die Billigkeit und Großmuth geübt zu werden, daß zugestanden wird, daß die Philosophen in ihren Darstellungen die verderblichen Folgerungen, die mit ihrem Satze verbunden seyen, nicht immer (also doch vielleicht auch deswegen nicht, weil sie diese Folgerungen nicht denken) entwickeln. <[^gw19-8-1] Die Philosophie | muß diese Barmherzigkeit, die man ihr angedeihen [p. 9] lassen will, verschmähen, denn sie bedarf derselben eben so wenig zur moralischen Rechtfertigung als es | ihr an der Einsicht in die wirklichen Consequenzen ihrer Principien gebrechen kann und so wenig sie es an den ausdrücklichen Folgerungen ermangeln läßt. Ich will | jene angebliche Folgerung, nach welcher die Verschiedenheit von Gut und Böse zu einem bloßen Scheine gemacht werden soll, kurz beleuchten, mehr um ein Beispiel der Hohlheit solchen Auffassens der Philosophie zu geben, als diese zu rechtfertigen. Wir wollen zu diesem Behuf selbst nur den Spinozismus vornehmen, die Philosophie, in welcher Gott nur als Substanz und nicht als Subject und Geist bestimmt wird. Dieser Unterschied betrifft die Bestimmung der Einheit; hierauf kommt es allein an, doch wissen von dieser Bestimmung,
+
+[^gw19-8-1]: *) Worte Hrn. Tholuks in der Blüthensammlung aus der morgenländischen Mystik, S. 13. Auch der tieffühlende Tholuk läßt sich daselbst verleiten, der gewöhnlichen Heerstraße des Auffassens der Philosophie zu folgen. Der Verstand könne, sagt er, nur auf folgende zwei
+
+Arten schließen: entweder gebe es einen Alles bedingenden Urgrund, so liege auch der letzte Grund meiner selbst in ihm, und mein Seyn und freies Handeln seyen nur Täuschung; oder bin ich wirklich ein vom Urgrunde verschiedenes Wesen, dessen Handeln nicht von dem Urgrunde bedingt und bewirkt wird, so ist der Urgrund kein absolutes, alles bedingendes Wesen, also gebe es keinen unendlichen Gott, sondern eine Menge Götter u.s.f. Zu dem erstern Satze sollen sich alle tiefer und schärfer denkenden Philosophen bekennen (ich wüßte eben nicht, warum die erstere Einseitigkeit tiefer und schärfer seyn sollte, als die zweite); die Folgen, die sie oben erwähntermaaßen jedoch nicht immer entwickeln, seyen, daß auch der sittliche Maasstab des Menschen kein absolut wahrer ist, sondern eigentlich (ist vom Verf. selbst unterstrichen) Gut und Böse gleich und nur dem Schein nach verschieden sey.<< Man würde immer besser thun, über Philosophie gar nicht zu sprechen, so lange man bei aller Tiefe des Gefühls noch so sehr in der Einseitigkeit des Verstandes befangen ist, um nur von dem Entweder Oder eines Urgrundes, in dem das individuelle Seyn und dessen Freiheit nur eine Täuschung, und der absoluten Selbstständigkeit der Individuen zu wissen, und von dem Weder Noch dieser beiden Einseitigkeiten des, wie es Hr. Th. nennt, gefährlichen Dilemmas nichts in Erfahrung gebracht zu haben. Zwar spricht er S. 14. von solchen Geistern, und diese seyen die eigentlichen Philosophen, welche den zweiten Satz (dies ist doch wohl dasselbe, was vorher der erste Satz hieß) annehmen, und den Gegensatz von unbedingtem und bedingtem Seyn durch das indifferente Urseyn, in welchem alle beziehungsweisen Gegensätze sich durchdringen, aufheben. Bemerkte denn aber Hr. Th., indem er so spricht, nicht, daß das indifferente Urseyn, in welchem der Gegensatz sich durchdringen soll, mit jenem unbedingtem Seyn, dessen Einseitigkeit aufgehoben werden sollte, ganz dasselbe ist, und daß er so in Einem Athemzug das Aufheben jenes Einseitigen in einem solchen, welches genau eben dieses Einseitige ist, also statt des Aufhebens das Bestehenlassen der Einseitigkeit ausspricht. Wenn man das sagen will, was Geister thun, so muß man mit Geist das Factum aufzufassen vermögen; sonst ist unter der Hand das Factum falsch geworden. - Uebrigens bemerke ich zum Ueberfluß, daß was hier und weiterhin über Hrn. Tholuck's Vorstellung von der Philosophie gesagt ist, so zu sagen nicht individuell über ihn seyn kann und soll; man liest dasselbe in hundert Büchern, unter anderem besonders in den Vorreden der Theologen. Herrn Th. Darstellung habe ich angeführt, theils weil sie mir zufällig am nächsten, theils weil das tiefe Gefühl, das seine Schriften auf die [p. 10] obgleich sie Factum ist, diejenigen nichts, welche diese Philosophie Identitätssystem zu nennen pflegen, und gar den Ausdruck gebrauchen mögen, daß nach derselben Alles eins und dasselbe auch Gut und Böse gleich sey, welches alles die schlechtesten Weisen der Einheit sind, von welchen in speculativer Philosophie die Rede nicht seyn, sondern nur ein noch barbarisches Denken bei Ideen Gebrauch machen kann. | Was nun die Angabe betrifft, daß in jener Philosophie an sich oder eigentlich die Verschiedenheit von Gut und Böse nicht gelte, so ist zu fragen, was denn dies: eigentlich heiße? Heißt es die Natur Gottes, so wird doch nicht verlangt werden, daß in dieselbe das Böse verlegt werde; jene substantielle Einheit ist das Gute selbst; das Böse ist nur Entzweiung; in jener Einheit ist hiemit nichts weniger als eine Einerleiheit des Guten und des Bösen, das letztere vielmehr ausgeschlossen. Damit ist in Gott als solchem eben so wenig der Unterschied von Gut und Böse; denn dieser Unterschied ist nur im Entzweiten, einem solchen, in welchem das Böse selbst ist. Weiter kommt nun im Spinozismus auch der Unterschied vor, der Mensch verschieden von Gott. Das System mag nach dieser Seite theoretisch nicht befriedigen; denn der Mensch und das Endliche überhaupt, mag es nachher auch zum Modus herabgesetzt werden, findet sich in der Betrachtung nur neben der Substanz ein. Hier nun, wo der Unterschied existirt, ist es, daß derselbe auch wesentlich ganz andere Seite von der Verstandes-Theologie zu stellen scheint, dem Tiefsinn am nächsten steht; denn die Grundbestimmung desselben, die Versöhnung, die nicht das unbedingte Urseyn und dergleichen Abstractum ist, ist der Gehalt selbst, der die speculative Idee ist und den sie denkend ausdrückt – ein Gehalt, den jener tiefe Sinn in der Idee am wenigsten verkennen müßte.
+
+Aber es geschieht Hrn. Tholuck ebendaselbst wie überall anderwärts in seinen Schriften, sich auch in das gäng und gäbe Gerede von dem Pantheismus gehen zu lassen, worüber ich in einer der letzten Anmerkungen der Encyclop. weitläufiger gesprochen habe. Ich bemerke hier nur die eigenthümliche Ungeschicklichkeit und Verkehrung, in die Hr. Th. verfällt. Indem er auf die eine Seite seines vermeintlich philosophischen Dilemma's den Urgrund stellt, und dieselbe nachher S. 33. 38. als pantheistisch bezeichnet, so charakterisirt er die andere als die der Socinianer, Pelagianer und Popularphilosophen so, daß es auf derselben »keinen unendlichen Gott, sondern eine große Anzahl Götter gebe, nämlich die Zahl aller derer Wesen, die von dem sogenannten Urgrunde verschieden sind und ein eignes Seyn und Handeln haben, nebst jenem sogenannten | Urgrunde.« In der That gibt es so auf dieser Seite nicht blos eine große Anzahl von Göttern, sondern Alles, (alles Endliche gilt hier dafür ein eignes Seyn zu haben), sind Götter; auf dieser Seite hat Hr. Th. hiemit in der That seine Allesgötterei, seinen Pantheismus ausdrücklich, nicht auf der ersten, zu deren Gott er ausdrücklich den Einen Urgrund macht, wo somit nur Monotheismus ist. |
+
+[p. 11] als der Unterschied des Guten und Bösen existirt, und hier nur ist es, wo er eigentlich ist, denn hier ist nur die eigenthümliche Bestimmung desselben. Hat man beim Spinozismus nur die Substanz vor Augen, so ist in ihr freilich kein Unterschied des Guten und Bösen, aber darum weil das Böse, wie das [orig. XVI] Endliche und die Welt überhaupt (s. §. 50. Anm. S. 59.) auf diesem Standpunkte gar nicht ist. Hat man aber den Standpunkt vor Augen, auf welchem in diesem Systeme auch der Mensch und das Verhältniß des Menschen zur Substanz vorkommt, und wo nur das Böse im Unterschied desselben vom Guten seine Stelle haben kann, so muß man die Theile der Ethik nachgesehen haben, welche von demselben, von den Affecten, der menschlichen Knechtschaft und der menschlichen Freiheit handeln, um von den moralischen Folgerungen des Systems erzählen zu können. Ohne Zweifel wird man sich von der hohen Reinheit dieser Moral, deren Princip die lautere Liebe Gottes ist, eben so sehr als davon überzeugen, daß diese Reinheit der Moral Consequenz des Systems ist. Lessing sagte zu seiner Zeit, die Leute gehen mit Spinoza wie mit einem todten Hunde um; man kann nicht sagen, daß in neuerer Zeit mit dem Spinozismus und dann überhaupt mit speculativer Philosophie besser umgegangen werde, wenn man sieht, daß diejenigen, welche davon referiren und urtheilen, sich nicht einmal bemühen, die Facta richtig zu fassen und sie richtig anzugeben und zu erzählen. Es wäre dies doch das Minimum von Gerechtigkeit, und ein solches doch könnte sie auf allen Fall fordern.
+
+Die Geschichte der Philosophie ist die Geschichte der Entdeckung der Gedanken über das Absolute, [orig. XVII] das ihr Gegenstand ist. So hat z. B. Sokrates, kann man sagen, die Bestimmung des Zwecks entdeckt, welche von Plato und insbesondere von Aristoteles ausgebildet und bestimmt erkannt worden ist. Bruckers Geschichte der Philosophie ist so unkritisch nicht nur nach dem Aeußerlichen des Geschichtlichen, sondern nach der Angabe der Gedanken, daß man von den ältern griechischen Philosophen zwanzig, dreißig und mehr Sätze als deren Philosopheme aufgeführt findet, von denen ihnen kein einziger angehört. Es sind Folgerungen, welche Brucker nach der Weise der schlechten Metaphysik seiner Zeit macht und jenen Philosophen als ihre Behauptungen andichtet. Folgerungen sind von zweierlei Art, theils nur Ausführungen eines Princips in weiteres Detail herunter, theils aber ein Rückgang zu tiefern Principien; das Geschichtliche besteht eben darin, anzugeben, welchen Individuen eine solche weitere Vertiefung des Gedankens und die Enthüllung derselben angehöre. Aber jenes Verfahren ist nicht blos darum ungehörig, weil jene Philosophen die Consequenzen, die in ihren Principien liegen sollen, nicht selbst gezogen und also nur nicht ausdrücklich ausgesprochen haben, sondern vielmehr weil ihnen bei solchem Schließen ein Geltenlassen und ein Gebrauch von Gedanken-[p. 12] Verhältnissen [p. 12] der Endlichkeit geradezu angemuthet wird, welche dem Sinne der Philosophen, die speculativen Geistes waren, geradezu [orig. XVIII] zuwider sind und die philosophische Idee vielmehr nur verunreinigen und verfälschen. Wenn solche Verfälschung die Entschuldigung des vermeintlichen richtigen Schließens bei alten Philosophien hat, von denen uns nur wenige Sätze berichtet sind, so fällt sie bei einer Philosophie hinweg, welche ihre Idee selbst theils in die bestimmten Gedanken gefaßt, theils den Werth der Kategorien ausdrücklich untersucht und bestimmt hat, wenn doch die Idee verstümmelt aufgefaßt, aus der Darstellung nur Ein Moment herausgenommen und (wie die Identität) für die Totalität ausgegeben wird, und wenn die Kategorien ganz unbefangen nach der nächsten besten Weise, wie sie das alltägliche Bewußtseyn durchziehen, in ihrer Einseitigkeit und Unwahrheit hereingebracht werden. Die gebildete Erkenntniß der Gedankenverhältnisse ist die erste Bedingung, ein philosophisches Factum richtig aufzufassen. Aber die Rohheit des Gedankens wird ausdrücklich durch das Princip des unmittelbaren Wissens nicht nur berechtigt, sondern zum Gesetz gemacht; die Erkenntniß der Gedanken und damit die Bildung des subjectiven Denkens ist so wenig ein unmittelbares Wissen, als irgend eine Wissenschaft oder Kunst und Geschicklichkeit.
+
+Die Religion ist die Art und Weise des Bewußtseyns, wie die Wahrheit für alle Menschen, für die Menschen aller Bildung ist, die wissenschaftliche Erkenntniß der Wahrheit aber ist eine besondere Art ihres [orig. XIX] Bewußtseyns, deren Arbeit sich nicht Alle, vielmehr nur Wenige unterziehen. Der Gehalt ist derselbe, aber wie Homer von einigen Sternen sagt, daß sie zwei Namen haben, den einen in der Sprache der Götter, den andern in der Sprache der übertägigen Menschen, so gibt es für jenen Gehalt zwei Sprachen, die eine des Gefühls, der Vorstellung und des verständigen, in endlichen Kategorien und einseitigen Abstractionen nistenden Denkens, die andere des concreten Begriffs. Wenn man von der Religion aus auch die Philosophie besprechen und beurtheilen will, so ist mehr erforderlich als nur die Gewohnheit der Sprache des übertägigen Bewußtseyns zu haben. Das Fundament der wissenschaftlichen Erkenntniß ist der innere Gehalt, die inwohnende Idee und deren im Geiste rege Lebendigkeit, wie nicht weniger die Religion ein durchgearbeitetes Gemüth, ein zur Besinnung erwachter Geist, ausgebildeter Gehalt ist. In der neuesten Zeit hat die Religion immer mehr die gebildete Ausdehnung ihres Inhalts zusammengezogen und sich in das Intensive der Frömmigkeit oder auch des Gefühls und oft einen sehr dürftigen und kahlen Gehalt manifestirenden Gefühls, zurückgezogen. So lange sie noch ein Credo, eine Lehre, eine Dogmatik hat, so hat sie das, mit dem die Philosophie sich beschäftigen und in dem sie als solche sich mit der Religion vereinigen kann. Dies ist jedoch wieder nicht nach [orig. XX] dem trennenden, schlechten Verstande zu nehmen, in dem die moderne Religiosität befangen ist, und nach welchem sie beide so vorstellt, daß sie eine die andere ausschließen, oder überhaupt so trennbar [p. 13] seyen, daß sie sich dann nur von Außen her verbinden. Vielmehr liegt auch in dem Bisherigen, daß die Religion wohl ohne Philosophie, aber die Philosophie nicht ohne Religion seyn kann, sondern diese vielmehr in sich schließt. Die wahrhafte Religion, die Religion des Geistes, muß ein solches, einen Inhalt, haben; denn der Geist ist wesentlich Bewußtseyn, somit von dem gegenständlich gemachten Inhalt; als Gefühl ist er der ungegenständliche Inhalt selbst, (qualirt nur, um einen Böhmischen Ausdruck zu gebrauchen) und nur die niedrigste Stufe des Bewußtseyns, ja in der mit dem Thiere gemeinschaftlichen Form der Seele. Das Denken macht die Seele, womit auch das Thier begabt ist, erst zum Geiste; und die Philosophie ist nur ein Bewußtseyn über jenen Inhalt, den Geist und seine Wahrheit, auch in der Gestalt und Weise jener seiner, ihn vom Thier unterscheidenden und der Religion fähig machenden Wesenheit. Die contracte, auf das Herz sich punktualisirende Religiosität muß dessen Zerknirschung und Zermürbung zum wesentlichen Momente seiner Wiedergeburt machen; sie müßte aber sich zugleich erinnern, daß sie es mit dem Herzen eines Geistes zu thun hat, der Geist zur Macht [orig. XXI] des Herzens bestellt ist und diese Macht nur seyn kann, in sofern er selbst wiedergeboren ist. Diese Wiedergeburt des Geistes aus der natürlichen Unwissenheit sowohl als dem natürlichen Irrthum geschieht durch Unterricht und den durch das Zeugniß des Geistes erfolgenden Glauben der objectiven Wahrheit, des Inhaltes. Diese Wiedergeburt des Geistes ist unter anderem auch unmittelbar Wiedergeburt des Herzens aus der Eitelkeit des einseitigen Verstandes, auf den es pocht, dergleichen zu wissen, wie, daß das Endliche von dem Unendlichen verschieden sey, die Philosophie entweder Vielgötterei oder in scharfdenkenden Geistern Pantheismus seyn müsse, u.s.f. – die Wiedergeburt aus solchen jämmerlichen Einsichten, auf welchen die fromme Demuth gegen Philosophie wie gegen theologische Erkenntniß hochherfährt. Verharrt die Religiosität bei ihrer expansions- und damit geistlosen Intensität, so weiß sie freilich nur von dem Gegensatze dieser ihrer bornirten und bornirenden Form gegen die geistige Expansion religiöser Lehre als solcher, wie philosophischer.[^gw19-13-1] Nicht nur [orig. XXII] aber beschränkt der [p. 14] denkende Geist sich nicht auf die Befriedigung in der reinern, unbefangenen Religiosität, | sondern jener Standpunkt ist an ihm selbst ein aus Reflexion und Räsonnement hervorgegangenes Resultat; es ist mit Hülfe oberflächlichen Verstandes, daß er sich diese vornehme Befreiung von so gut als aller Lehre verschafft hat, und indem er das Denken, von dem er angesteckt ist, zum Eifern gegen Philosophie gebraucht, ist es, daß er sich auf der dünnen | inhaltslosen Spitze eines abstracten Gefühlszustandes gewaltsam erhält. - Ich kann mich nicht enthalten, die Paränesis des Herrn Fr. von Bader über eine solche Gestaltung der Frömmigkeit, auszugsweise anzuführen, aus den Fermentis Cognitionis 5tes Heft, Vorr. S. IX. f.
+
+[^gw19-13-1]: *) Um noch einmal auf Herrn Tholuk zurückzukommen, der als der begeisterte Repräsentant pietistischer Richtung angesehen werden kann, so ist der Mangel an einer Lehre in seiner Schrift »über die Lehre von der Sünde,« 2te Aufl. (die mir so eben unter die Augen gekommen) ausgezeichnet. Es war mir dessen Behandlung der Trinitätslehre | in seiner Schrift: die speculative Trinitätslehre des spätern Orients, für deren fleißig hervorgezogene historische Notizen ich ihm ernstlichen Dank weiß, aufgefallen; er nennt diese Lehre eine scholastische Lehre; auf allen Fall ist sie viel älter, als das was man scholastisch heißt; er betrachtet sie allein nach der äußerlichen Seite eines vermeintlich nur historischen Entstehens aus Speculation über biblische Stellen und unter dem Einflusse platonischer und
+
+aristotelischer Philosophie (S. 41.). Aber in der Schrift über die Sünde geht er, man möchte sagen, cavalierement, mit diesem Dogma um, indem er es nur für fähig erklärt, ein Fachwerk zu seyn, darin sich die Glaubenslehren (welche?) ordnen lassen (S. 220.), ja man muß auch den Ausdruck (S. 219.) auf dies Dogma ziehen, daß es den am Ufer (etwa im Sande des Geistes?) stehenden als eine Fata Morgana erscheine. Aber ein Fundament« (so vom Dreifuß spricht Hr. Th. ebendas. S. 221.) ist die Trinitätslehre »nimmermehr, auf das der Glaube gegründet werden kann.« Ist diese Lehre, als die heiligste, nicht von jeher oder seit wie lange wenigstens? der Hauptinhalt des Glaubens selbst als Credo, und dieses Credo das Fundament des subjectiven Glaubens gewesen? Wie kann ohne dieses Dogma die Versöhnungslehre, die Hr. Th. in der angeführten Schrift mit so viel Energie an das Gefühl zu bringen sucht, einen mehr als moralischen oder wenn man will heidnischen, wie kann sie einen christlichen Sinn haben? Auch von andern speciellern Dogmen findet sich nichts in dieser Schrift; Hr. Th. führt seine Leser z. B. immer nur bis zum Leiden und Tod Christi, aber nicht zu seiner Auferstehung und Erhebung zur Rechten des Vaters. Eine Hauptbestimmung in der Versöhnungs-| lehre ist die Sündenstrafe; diese ist bei Hrn. Thol. S. 119.ff. das lastende Selbstbewußtseyn und die damit verbundene Unseligkeit, in welcher alle sind, die außer Gott leben, dem alleinigen Quell der Seligkeit wie der Heiligkeit; so daß Sünde, Schuldbewußtseyn und Unseligkeit nicht ohne einander gedacht werden können (hier kommt es also auch zum Denken, wie S. 120. auch die Bestimmungen als aus der Natur Gottes fließend aufgezeigt werden). Diese Bestimmung der Sündenstrafe ist das, was man die natürliche Strafe der Sünde genannt hat, und was (wie die Gleichgültigkeit gegen die Trinitätslehre) das Resultat und Lehre der von Hrn. Th. sonst so sehr verschrienen Vernunft und Aufklärung ist. - Vor einiger Zeit fiel im Oberhause des englischen Parlaments eine Bill durch, welche die Secte der Unitarier betraf; bei dieser Veranlassung gab ein englisches Blatt eine Notiz über die große Anzahl der Unitarier in Europa und in Amerika, und fügt dann hinzu: »auf dem europäischen Continent ist Protestantismus und Unitarianismus gegenwärtig meist synonym.« Theologen mögen entscheiden, ob Herrn Tholuks Dogmatik sich in noch mehr als in einem oder höchstens zwei Punkten, und wenn sie näher angesehen werden, ob selbst in diesen nicht, von der gewöhnlichen Theologie der Aufklärung unterscheidet. |
+
+15 »nimmer-
+
+[p. 15] So lange, sagt er, der Religion, ihren Lehren, nicht wieder von Seite der Wissenschaft eine auf freies Forschen und sohin wahrhafte Ueberzeugung, gegründete Achtung verschafft worden seyn wird, – so lange werdet ihr, Fromme und Nichtfromme, mit all' euren Geboten und Verboten, mit all' eurem Gerede und Thun - dem Uebel nicht abhelfen, und so lange wird auch diese nichtgeachtete Religion nicht geliebt werden, weil man doch nur herzhaft und aufrichtig lieben kann, was man aufrichtig geachtet sieht, und als achtbar unbezweifelt erkennt, so wie der Religion auch nur mit einem solchen amor generosus gedient seyn kann. – Mit andern Worten: wollt ihr daß die Praxis der Religion wieder gedeihe, so sorgt doch dafür, daß wir wieder zu einer vernünftigen Theorie derselben gelangen, und räumt nicht euren Gegnern (den Atheisten) vollends das Feld mit jener unvernünftigen und blasphemischen Behauptung: daß an eine solche Religionstheorie, als an eine unmögliche Sache, ganz nicht [orig. XXV] zu denken, daß die Religion bloße Herzenssache sey, bei der man des Kopfs sich füglich entäußern könne, ja müsse.[^gw19-15-1] -
+
+[^gw19-15-1]: *) Herr Tholuk citirt mehreremal Stellen aus Anselm's Tractat cur Deus homo, und rühmt S. 127. »die tiefe Demuth dieses großen Denkers,« warum bedenkt und führt er nicht auch die (zu §. 77. der Encyclopädie S. 91. citirte) Stelle aus demselben Tractat an: Negligentiae mihi videtur si non studemus, quod credimus, intelligere. - Wenn freilich das Credo kaum auf etliche wenige Artikel eingeschrumpft ist, bleibt wenig Stoff zu erkennen übrig, und kann aus der Erkenntniß wenig werden. |
+
+In Ansehung der Dürftigkeit an Inhalt kann noch bemerkt werden, daß von ihr nur als der Erscheinung an dem äußerlichen Zustande der Religion zu einer besondern Zeit, die Rede seyn kann. Eine solche Zeit könnte beklagt werden, wenn es solche Noth thut, nur den bloßen Glauben an Gott hervorzubringen, was dem edeln Jacobi so angelegentlich war, und weiter nur noch eine concentrirte Christlichkeit der Empfindung zu erwecken; die höhern Principien sind zugleich nicht zu verkennen, die selbst darin sich kund geben (s. Einleit. zur Logik §. 64. Anm.). Aber vor der Wissenschaft liegt der reiche Inhalt, den Jahrhunderte und Jahrtausende der erkennenden Thätigkeit vor sich gebracht haben, und vor ihr liegt er [orig. XXVI] nicht als etwas Historisches, das nur andere besessen, und für uns ein Vergangenes, nur eine Beschäftigung zur Kenntniß des Gedächtnisses und für den Scharfsinn des Kritisirens der Erzählungen, nicht für die Erkenntniß des Geistes und das Interesse der Wahrheit wäre. Das Erhabenste, Tiefste und Innerste ist zu Tage gefördert worden, in den Religionen, Philosophien und Werken der Kunst, in reinerer und unreinerer, klarerer und trüberer, oft sehr abschreckender Gestalt. Es ist für ein besonderes Verdienst zu achten, daß Herr Franz von Bader fortfährt, solche Formen nicht nur in Erinnerung, sondern mit tief speculativem Geiste ihren Gehalt ausdrücklich zu wissenschaftlichen Ehren zu bringen, indem er die philosophische Idee aus ihnen exponirt [p. 16] (XXVIII) und erhärtet. Jacob Böhm's Tiefe gewährt insbesondere hiefür Gelegenheit und Formen. Diesem gewaltigen Geiste ist mit Recht der Name philosophus teutonicus zugelegt worden; er hat den Gehalt der Religion theils für sich zur allgemeinen Idee erweitert, in demselben die höchsten Probleme der Vernunft concipirt, und Geist und Natur in ihren bestimmtern Sphären und Gestaltungen darin zu fassen gesucht, indem er zur Grundlage nahm, daß nach dem Ebenbilde Gottes, freilich keines andern als des dreieinigen, der Geist des Menschen und alle Dinge geschaffen, und | nur dies Leben sind, aus dem Verlust ihres Urbildes dazu redintegrirt zu werden; theils hat er umgekehrt die Formen der natürlichen Dinge (Schwefel, Salpeter u.s.f., das Herbe, Bittre u.s.f.) gewaltsam zu geistigen und Gedankenformen verwendet. Die Gnosis des Hrn. v. Bader, welche sich an dergleichen Gestaltungen anschließt, ist eine eigenthümliche Weise das philosophische Interesse anzuzünden und zu befördern; sie stellt sich kräftig eben so sehr der Beruhigung bei der inhaltslosen Kahlheit der Aufklärerei als der nur intensiv bleiben wollenden Frömmigkeit entgegen. Hr. v. Bader beweißt dabei in allen seinen Schriften, daß er entfernt davon ist, diese Gnosis für die ausschließende Weise der Erkenntniß zu nehmen. Sie hat für sich ihre Unbequemlichkeiten, ihre Metaphysik treibt sich nicht zur Betrachtung der Kategorien selbst und zur methodischen Entwicklung des Inhaltes fort; sie leidet an der Unangemessenheit des Begriffs zu seinen wilden oder geistreichen Formen und Gestaltungen; so wie sie überhaupt daran leidet, daß sie den absoluten Inhalt, als Voraussetzung, hat und aus derselben erklärt, räsonnirt und widerlegt.[^gw19-16-1] |
+
+[^gw19-16-1]: *) Es muß mir erwünscht seyn, sowohl durch den Inhalt der mehreren neuerlichen Schriften des Hrn. v. Baders, als in den namentlichen Erwähnungen vieler meiner Sätze die | Zustimmung desselben zu denselben zu ersehen; über das Meiste dessen oder leicht Alles, was er bestreitet, würde es nicht schwer seyn, mich ihm zu verständigen, nämlich zu zeigen, daß es in der That nicht von seinen Ansichten abweicht. Nur Einen Tadel, der in den »Bemerkungen über einige antireligiöse Philosopheme unserer Zeit. 1824.\llS.5 5. vergl. S. 56.ff. vorkommt, will ich berühren; es wird daselbst von einem Philosophem gesprochen, welches »aus der Schule der Naturphilosophie hervorgegangen einen falschen Begriff von der Materie aufstelle, indem selbes von dem vergänglichen und die Verderbniß in sich bergenden Wesen dieser Welt behaupte, daß solches unmittelbar und ewig aus Gott hervorgegangen und gehend, als der ewige Ausgang (Entäußerung) Gottes dessen ewigen Wiedereingang (als Geist) ewig bedinge.<< Was den ersten Theil dieser Vorstellung betrifft, von dem Hervorgehen (dies ist überhaupt eine Kategorie, die ich nicht gebrauche, indem sie nur ein bildlicher Ausdruck, keine Kategorie ist) der Materie aus Gott, so sehe ich nicht anders, als daß dieser Satz in der Bestimmung, daß Gott Schöpfer der Welt ist, enthalten ist; was aber den andern Theil betrifft,
+
+[p. 17] An reinern und trübern Gestaltungen der Wahrheit haben wir, kann man sagen, genug und zum | Ueberfluß, – in den Religionen und Mythologien, in gnostischen und mysticirenden Philosophien älterer und neuerer Zeit; man kann seine Freude daran haben, die Entdeckung der Idee in diesen Gestaltungen zu machen und die Befriedigung daraus zu gewinnen, daß die philosophische Wahrheit nicht etwas nur Einsames, sondern darin die Wirksamkeit derselben wenigstens als Gährung vorhanden gewesen. Wenn aber der Dünkel der Unreife an das Aufwärmen solcher Productionen der Gährung geräth, so erhebt er sich leicht in seiner Trägheit und Unfähigkeit wissenschaftlichen Denkens solche Gnosis zur ausschließenden Weise des Erkennens; denn es ist müheloser in sol|chen Gebilden sich zu ergehen und an sie assertorische Philosopheme anzuknüpfen, als die Entwicklung des Begriffes zu übernehmen und sein Denken, wie sein Gemüth, der logischen Nothwendigkeit desselben zu unterwerfen. Auch liegt dem Dünkel nahe, sich das als Entdeckung zuzuschreiben, was er von Andern erlernt hat, und er glaubt dies um so leichter, wenn er sie bekämpft oder herabsetzt; oder ist vielmehr darum gereizt gegen sie, weil er seine Einsichten aus ihnen geschöpft hat.
+
+Wie in den Zeiterscheinungen, auf welche wir in diesem Vorwort Rücksicht genommen, sich der Drang des Denkens, obgleich verunstaltet, ankündigt, so ist es an und für sich für den zu der Höhe des Geistes gebildeten Gedanken selbst und für seine Zeit Bedürfniß, und darum unserer Wissenschaft allein würdig, daß das, was früher als Mysterium geoffenbart worden, aber in den reinern und noch mehr in den trübern Gestaltungen seiner Offenbarung dem formellen Gedanken ein Geheimnißdaß der ewige Ausgang den Wiedereingang Gottes als Geist bedinge, so setzt Hr. v. Bader das Bedingen an diese Stelle, eine theils an und für sich hier ungehörige und von mir eben so wenig für diese Beziehung gebrauchte Kategorie; ich erinnere an das, was ich oben über die unkritische Vertauschung der Gedankenbestimmungen bemerkt habe. Das unmittelbare oder vermittelte Hervorgehen der Materie aber zu erörtern, führte nur auf ganz formelle Bestimmungen. Was Hr. v. B. selbst S. 54.ff. über den Begriff | der Materie angibt, sehe ich nicht für abweichend von meinen Bestimmungen, dieselbe betreffend, an; so wie ich nicht verstehe, welche Abhilfe für die absolute Aufgabe, die Schöpfung der Welt als Begriff zu fassen, in dem liegt, was Hr. v. B. S. 58. angibt, daß die Materie »nicht das unmittelbare Product der Einheit, sondern jenes ihrer Principien (Bevollmächtigten, Elohim) sey, welche sie zu diesem Zwecke hervorrief.<< Ist der Sinn dieser (denn nach der grammatischen Stellung ist er nicht völlig klar), daß die Materie das Product der Principien sey, oder dieser, daß die Materie sich diese Elohim hervorgerufen und sich von ihnen habe produciren lassen, so müssen jene Elohim oder aber dieser ganze Kreis zusammen in eine Beziehung zu Gott gesetzt werden, welche durch das Einschieben von Elohim nicht aufgehellt wird. |
+
+[p. 18] volles bleibt, für das Denken selbst geoffenbart werde, welches in dem absoluten Rechte seiner Freiheit die Hartnäckigkeit behauptet, mit dem gediegenen Inhalte sich nur zu versöhnen, in sofern dieser sich die seiner selbst zugleich würdigste [orig. XXXI] Gestalt, die des Begriffs, der Nothwendigkeit, die alles, Inhalt wie Gedanken, bindet und eben darin frei macht, zu geben gewußt hat. Soll Altes erneut werden, d. i. eine alte Gestaltung, denn der Gehalt selbst ist ewig jung, so ist die Gestaltung der Idee etwa, wie sie ihr Plato und viel tiefer Aristoteles gegeben, der Erinnerung unendlich würdiger, auch darum, weil die Enthüllung derselben durch Aneignung an unsere Gedankenbildung unmittelbar nicht nur ein Verstehen derselben, sondern ein Fortschreiten der Wissenschaft selbst ist. Aber solche Formen der Idee zu verstehen liegt gleichfalls nicht so auf der Oberfläche als gnostische und kabbalische Phantasmagorien zu fassen, und noch weniger macht es sich so von selbst, jene fortzubilden als in diesen Anklänge der Idee zu weisen oder anzudeuten.
+
+Wie von dem Wahren richtig gesagt worden, daß es index sui et falsi sey, vom Falschen aus aber das Wahre nicht gewußt wird, so ist der Begriff das Verstehen seiner selbst und der begrifflosen Gestalt, aber diese versteht von ihrer innern Wahrheit aus nicht jenen. Die Wissenschaft versteht das Gefühl und den Glauben, sie kann aber nur aus dem Begriffe, als auf welchem sie beruht, beurtheilt werden, und da sie dessen Selbstent wicklung ist, so ist eine Beurtheilung derselben aus dem Begriffe nicht sowohl ein Urtheilen über sie, als ein Mitfortschreiten. Solches Urtheilen muß ich auch diesem Versuche wünschen, wie ich ein solches nur achten und beachten kann.
+
+Berlin, den 25. May 1827. [orig. XXXII]
+
+## [p. 19] VORREDE ZUR ERSTEN AUSGABE
+
+## VORREDE
+
+## ZUR ERSTEN AUSGABE.
+
+Das Bedürfniß, meinen Zuhörern einen Leitfaden zu meinen philosophischen Vorlesungen in die Hände zu geben, ist die nächste Veranlassung, daß ich diese Uebersicht des gesammten Umfanges der Philosophie, früher ans Licht treten lasse, als mein Gedanke gewesen wäre.
+
+Die Natur eines Grundrisses schließt nicht nur eine erschöpfendere Ausführung der Ideen ihrem Inhalte nach aus, sondern beengt insbesondere auch die Ausführung ihrer systematischen Ableitung, welche das enthalten muß, was man sonst unter dem Beweise verstand, und was einer wissenschaftlichen Philosophie unerläßlich ist. Der Titel sollte theils den Umfang eines Ganzen, theils die Absicht anzeigen, das Einzelne dem mündlichen Vortrage vorzubehalten.
+
+Bei einem Grundrisse kommt aber dann mehr blos eine äußerliche Zweckmäßigkeit der Anordnung und Einrichtung in Betrachtung, wenn es ein schon vorausgesetzter und bekannter Inhalt ist, der in einer absichtlichen Kürze vorgetragen werden soll. Indem gegenwärtige Darstellung nicht in diesem Falle ist, sondern eine neue Bearbeitung der Philosophie nach einer [orig. XXXIV] Methode aufstellt, welche noch, wie ich hoffe, als die einzig wahrhafte, mit dem Inhalt identische, anerkannt werden wird, so hätte ich es derselben dem Publicum gegenüber für vorteilhafter halten können, wenn mir die Umstände erlaubt hätten, eine ausführlichere Arbeit über die andern Theile der Philosophie vorangehen zu lassen, dergleichen ich über den ersten Theil des Ganzen, die Logik, dem Publicum übergeben habe. Ich glaube übrigens, obgleich in gegenwärtiger Darstellung die Seite, wornach der Inhalt der Vorstellung und der empirischen Bekanntschaft näher liegt, beschränkt werden mußte, in Ansehung der Uebergänge, welche nur eine durch den Begriff zu geschehende Vermittlung seyn können, so viel bemerklich gemacht zu haben, daß sich das Methodische des Fortgangs hinreichend sowohl von der nur äußerlichen Ordnung, welche die andern Wissenschaften aufsuchen, als auch von einer in philosophischen Gegenständen gewöhnlich gewordenen Manier unterscheidet, welche ein Schema voraussetzt und damit die Materien eben so äußerlich und noch willkührlicher als die erste Weise thut, parallelisirt, und, durch den sonderbarsten Mißverstand, der Nothwendigkeit des Begriffs mit Zufälligkeit und Willkühr der Verknüpfungen Genüge geleistet haben will.
+
+[p. 20] Dieselbe Willkühr sahen wir auch sich des Inhalts der Philosophie bemächtigen, auf Abentheuer des Gedankens ausziehen und dem ächtgesinnten und redlichen Streben eine Zeitlang imponiren, sonst aber auch für eine selbst bis zur Verrücktheit gesteigerte Aberwitzigkeit gehalten werden. Statt des Imposanten oder Verrückten ließ der Gehalt eigentlicher und häufiger, wohlbekannte Trivialitäten, so wie die Form die bloße Manier eines absichtlichen, methodischen und leicht zu habenden Witzes barocker Verknüpfungen und einer erzwungenen Verschrobenheit, so wie überhaupt hinter der Miene des Ernstes | Betrug gegen sich und gegen das Publicum erkennen. Auf der andern Seite sahen wir dagegen die Seichtigkeit, den Mangel an Gedanken zu einem sich selbst klugen Skepticismus und vernunftbescheidenen Kriticismus stempeln und mit der Leerheit an Ideen in gleichem Grade ihren Dünkel und Eitelkeit steigern. – Diese beiden Richtungen des Geistes haben eine geraume Zeit den deutschen Ernst geäfft, dessen tieferes philosophisches Bedürfniß ermüdet, und eine Gleichgültigkeit, ja sogar eine solche Verachtung gegen die Wissenschaft der Philosophie zur Folge gehabt, daß nun auch eine sich so nennende Bescheidenheit über das Tiefste der Philosophie mit- und absprechen, und demselben die vernünftige Erkenntniß, deren Form man ehemals unter dem Beweisen begriff, abzuleugnen sich herausnehmen zu dürfen meynt.
+
+Die erste der berührten Erscheinungen kann zum Theil als die jugendliche Lust der neuen Epoche angesehen werden, welche im Reiche der Wissenschaft wie in dem politischen aufgegangen ist. Wenn diese Lust die Morgenröthe des verjüngten Geistes mit Taumel begrüßte, und ohne tiefere Arbeit gleich an den Genuß der Idee ging und in den Hoffnungen und Aussichten, welche diese darbot, eine Zeitlang schwelgte, so versöhnt sie leichter mit ihren Ausschweifungen, weil ihr ein Kern zu Grunde liegt, und der oberflächliche Dunst, den sie um denselben ausgegossen, sich von selbst verziehen muß. Die andere Erscheinung aber ist widriger, weil sie die Ermattung und Kraftlosigkeit zu erkennen gibt, und sie mit einem, die philosophischen Geister aller Jahrhunderte meisternden, sie und am meisten sich selbst mißkennenden Dünkel, zu bedecken strebt.
+
+Um so erfreulicher ist aber wahrzunehmen und noch zu erwähnen, wie sich gegen beides das philosophische Interesse und die ernstliche Liebe der höhern Erkennt-| niß unbefangen und ohne Eitelkeit erhalten hat. Wenn dies Interesse sich mitunter mehr auf die Form eines unmittelbaren Wissens und des Gefühls warf, so beurkundet es dagegen den innern weiter gehenden Trieb vernünftiger Einsicht, welche allein dem Menschen seine Würde gibt, dadurch am höchsten, daß ihm selbst jener Standpunkt nur als Resultat philosophischen Wissens wird, somit dasjenige von ihm als Bedingung wenigstens anerkannt ist, was es zu verschmähen scheint. – [p. 21] Diesem Interesse am Erkennen der Wahrheit widme ich diesen Versuch, eine Einleitung oder Beitrag zu seiner Befriedigung zu liefern; ein solcher Zweck möge ihm eine günstige Aufnahme verschaffen.
+
+Heidelberg, im May 1817. |
+
+## [p. 23] INHALTSANZEIGE
+
+Einleitung. 1
+
+## ERSTER THEIL.
+
+## DIE WISSENSCHAFT DER LOGIK. §. 19.-S. 244.
+
+Vorbegriff. §. 19–83. *27*
+
+::: editorial
+A. Erste Stellung des Gedankens zur Objectivität; Metaphysik. §. 26–36. 36
+
+B. Zweite Stellung des Gedankens zur Objectivität. §. 37–60. 43
+
+I. Empirismus. §. 37. 43 II. Kritische Philosophie. §. 40. 46
+
+C. Dritte Stellung des Gedankens zur Objectivität. §. 61-78. 72 Das unmittelbare Wissen. §. 61. 72
+:::
+
+Näherer Begriff und Eintheilung der Logik. §. 79–83.
+
+93 [orig. XXXVIII]
+
+Erste Abtheilung. Die Lehre vom Seyn. §. 84–111. *97*
+
+::: editorial
+A. Qualität. 98
+
+a. Seyn. §. 86. 98
+
+b. Daseyn. §. 89. 104
+
+c. Fürsichseyn. §. 96. 110 112
+
+B. Quantität.
+
+a. Reine Quantität. §. 99. 112
+
+b. Quantum. §. 101. 113
+
+c. Grad. §. 103. 115 С. Maaß. §. 107. 117 120
+
+A. Das Wesen als Grund der Existenz. 123
+
+a. Die reinen Reflexionsbestimmungen. §. 115. 123
+
+a. Identität. §. 115. β. Unterschied. §. 116. γ. Grund. §. 121.
+:::
+
+Zweite Abtheilung. Die Lehre vom Wesen. §. 112–159.
+
+## [p. 24] ZWEITER THEIL.
+
+## DIE PHILOSOPHIE DER NATUR.
+
+::: editorial
+Erscheinung. §. 132. | 134 |  |
+| b. Inhalt und Form. §. 133. | 135 |  |
+| c. Verhältniß. §. 135. | 136 |  |
+| C. Die Wirklichkeit. | 141 |  |
+| a. Substantialitäts-Verhältniß. §. 150. | 146 |  |
+| b. Causalitäts**-**Verhältniß. §. 153. | *147* |  |
+| c. Wechselwirkung. §. 155. | 149 \| |  |
+| Dritte Abtheilung. Die Lehre vom Begriff. §. 160-244. | 154 |  |
+| A. Der subjective Begriff. | 157 |  |
+| a. Begriff als solcher. §. 163. | 157 |  |
+| b. Urtheil. §. 166. | 160 |  |
+| c. Schluß. §. 181. | 170 |  |
+| B. Das Object. | 183 |  |
+| a. Mechanismus. §. 195. | 184 |  |
+| b. Chemismus. §. 200. | 186 |  |
+| c. Teleologie. §. 204. | 188 |  |
+| C. | Die Idee. | 195 |  |
+| a. Leben. §. 216. | 200 |  |
+| b. Erkennen. §. 223. | 202 |  |
+| **c**. Absolute Idee. §. 236. | 210 |  |
+
+b. Die Existenz. §. 123. 129 130
+
+c. Das Ding. §. 125. 134
+
+B. Die Erscheinung.
+
+a. Die Welt der Erscheinung. §. 132. 134
+
+b. Inhalt und Form. §. 133. 135
+
+c. Verhältniß. §. 135. 136
+
+C. Die Wirklichkeit. 141
+
+a. Substantialitäts-Verhältniß. §. 150. 146
+
+b. Causalitäts-Verhältniß. §. 153. *147*
+
+c. Wechselwirkung. §. 155. 149 | Dritte Abtheilung. Die Lehre vom Begriff. §. 160-244. 154
+
+A. Der subjective Begriff. 157
+
+a. Begriff als solcher. §. 163. 157
+
+b. Urtheil. §. 166. 160
+
+c. Schluß. §. 181. 170
+
+B. Das Object. 183
+
+a. Mechanismus. §. 195. 184
+
+b. Chemismus. §. 200. 186
+
+c. Teleologie. §. 204. 188 195 C. Die Idee. 200
+
+a. Leben. §. 216.
+
+b. Erkennen. §. 223. 202 210
+
+c. Absolute Idee. §. 236.
+:::
+
+## §. 245.-§. 376.
+
+Einleitung. §. 245.
+
+Erste Abtheilung. Die Mechanik. §. 253.-271.
+
+## [p. 25] A. Raum und Zeit. 225 225
+
+a. Raum. §. 254.
+
+b. Zeit. §. 257. 229 234 |
+
+c. Ort. §. 260.
+
+O₃: Ding.
+
+O₃ | **INHALTSANZEIGE** | **XL-XLI** |  |
+|---|---|---|
+| B. Materie und Bewegung. | 238 |
+| a. Träge Materie. §. 263. | *240* |
+| b. Stoß. §. 265. | 241 |
+| c. Fall. §. 267. | 245 |
+| C. Absolute Mechanik. §. 269. | 250 |
+| Zweite Abtheilung. DRITTER THEIL.
+
+## DIE PHILOSOPHIE DES GEISTES.
+
+::: editorial
+Physik. §. 272.-336. | 260 |
+| A. Physik der allgemeinen Individualität. | 261 |
+| a. Freie physische Körper. §. 275. | 261 |
+| b. Elemente. §. 281. | 269 |
+| c. Elementarischer Proceß. §. 286. | 271 |
+| B. | Physik der besondern Individualität. | 275 |
+| a. Specifische Schwere. §. 293. | 276 |
+| b. Cohäsion. §. 295. | *278* |
+| c. Klang. §. 300. | 282 |
+| d. Wärme. §. 303. | 285 |
+| Physik der totalen Individualität. §. 308. | C. | 290 |
+| a. Gestalt. §. 310. | 291 |
+| b. Besonderung
+:::
+
+::: editorial
+individuellen Körpers. §. 316. | 295 |
+| c. Chemischer Proceß. §. 326. | 311 |
+| Dritte Abtheilung. Organik. §. 337.-376. | 323 |
+| A. Geologische Natur. §. 338. | 323 |
+| B. Vegetabilische Natur. §. 343. | *327* |
+| C. Thierischer Organismus. §. 350. | 332 |
+| a. Gestalt. §. 353. | 333 **\|** |
+| b. Assimilation. §. 357. | 336 |
+| c. Gattungs-Proceß. §. 368. | 346 |
+
+B. Materie und Bewegung. 238
+
+a. Träge Materie. §. 263. *240*
+
+b. Stoß. §. 265. 241
+
+c. Fall. §. 267. 245
+
+C. Absolute Mechanik. §. 269. 250 260
+
+A. Physik der allgemeinen Individualität. 261
+
+a. Freie physische Körper. §. 275. 261
+
+b. Elemente. §. 281. 269
+
+c. Elementarischer Proceß. §. 286. 271 B. Physik der besondern Individualität. 275
+
+a. Specifische Schwere. §. 293. 276
+
+b. Cohäsion. §. 295. *278*
+
+c. Klang. §. 300. 282
+
+d. Wärme. §. 303. 285 C. Physik der totalen Individualität. §. 308. 290
+
+a. Gestalt. §. 310. 291
+
+b. Besonderung des individuellen Körpers. §. 316. 295
+
+c. Chemischer Proceß. §. 326. 311 323
+
+A. Geologische Natur. §. 338. 323
+
+B. Vegetabilische Natur. §. 343. *327*
+
+C. Thierischer Organismus. §. 350. 332
+
+a. Gestalt. §. 353. 333 |
+
+b. Assimilation. §. 357. 336
+
+c. Gattungs-Proceß. §. 368. 346
+:::
+
+## §. 377.-§. 574.
+
+## [p. 26] Einleitung. §. 377. | 357 |
+|---|---|
+| Erste Abtheilung. Der subjective Geist. §. 387.-§. 481. | 364 |
+| A. Anthropologie. | 366 |
+| a. Natürliche Seele. §. 391. | 368 |
+| b. Träumende Seele. §. 403. | *378* |
+
+A. Anthropologie. 366
+
+a. Natürliche Seele. §. 391. 368
+
+b. Träumende Seele. §. 403. *378*
+
+c. Wirkliche Seele. §. 411.
+
+B. Phänomenologie. 398
+
+a. Bewußtseyn als solches. §. 418. 400
+
+b. Selbstbewußtseyn. §. 424. 403
+
+c. Vernunft. §. 438. 409
+
+C. Psychologie. 410
+
+a. Theoretischer Geist. §. 445. 414
+
+b. Praktischer Geist. §. 469. 434
+
+a. Praktisches Gefühl. §. 471. β. Triebe. §. 474. γ. Willkühr und Glückseligkeit. §. 478. INHALTSANZEIGE
+
+Zweite Abtheilung. Der objective Geist. §. 482.-§. 552.
+
+::: editorial
+A. Das Recht. *449*
+
+a. Eigenthum. §. 488. 449
+
+b. Vertrag. §. 493. 450
+
+c. Das Recht an sich gegen das Unrecht. §. 496. 452
+
+B. Die Moralität. 456
+
+a. Der Vorsatz. §. 504. 457 β. Die Absicht und das Wohl. §. 505. *457* γ. Das Gute und das Böse. §. 507. 458
+
+C. Die Sittlichkeit. 462
+
+a. Die Familie. §. 518. 464
+
+b. Die bürgerliche Gesellschaft. §. 523. 466 a.a. Das System der Bedürfnisse. §. 524. b.b. Die Rechtspflege. §. 529. c.c. Die Policey und die Corporation. §. 533.
+
+c. Der Staat. §. 535. 475
+
+a. Inneres Staatsrecht. §. 537. β. Aeußeres Staatsrecht. §. 547. γ. Die Weltgeschichte. §. 548. Dritte Abtheilung. Der absolute Geist. §. 553.-§. 574. *499*
+
+a. Die Kunst. §. 556. 500
+
+b. Die geoffenbarte Religion. §. 564. 512 517 [1827: XLII] 
+
+c. Die Philosophie. §. 572.
+
+
+
+## Einleitung
+:::
+
+## [p. 27] EINLEITUNG
+
+§. 1.
+
+Die Philosophie entbehrt des Vortheils, der den andern Wissenschaften zu Gute kommt, ihre Gegenstände, als unmittelbar von der Vorstellung zugegeben, so wie die Methode des Erkennens für Anfang und Fortgang, als bereits angenommen, voraussetzen zu können. Sie hat zwar ihre Gegenstände zunächst mit der Religion gemeinschaftlich. Beide haben die Wahrheit zu ihrem Gegenstande, und zwar im höchsten Sinne, in dem, daß Gott die Wahrheit und er allein die Wahrheit ist. Beide handeln dann von dem Gebiete des Endlichen, von der Natur und dem menschlichen Geiste, deren Beziehung auf einander und auf Gott, als auf ihre Wahrheit. Sie kann daher wohl eine Bekanntschaft mit ihren Gegenständen, ja sie muß eine solche, wie ohnehin ein Interesse an denselben voraussetzen; schon darum, weil das Bewußtseyn sich der Zeit nach früher Vorstellungen von Gegenständen als Begriffe von denselben macht, der denkende Geist sogar nur durchs Vorstellen hindurch und auf dasselbe sich wendend zum denkenden Erkennen und Begreifen fortgeht.
+
+Aber bei dem denkenden Betrachten gibts sich bald kund, daß dasselbe die Foderung in sich schließt, die Nothwendigkeit seines Inhalts zu zeigen, sowohl das Seyn schon, als die Bestimmungen seiner Gegenstände zu [orig. 2] beweisen. Jene Bekanntschaft mit diesen erscheint so als unzureichend, und Voraussetzungen und Versicherungen zu machen oder gelten zu lassen, als unzulässig. Die Schwierigkeit, einen Anfang zu machen, tritt aber zugleich damit ein, da ein Anfang als ein Unmittelbares eine Voraussetzung macht, oder vielmehr selbst eine solche ist.
+
+§. 2.
+
+Die Philosophie kann zunächst im Allgemeinen als denkende Betrachtung der Gegenstände bestimmt werden. Wenn es aber richtig ist, (und es wird wohl richtig seyn) daß der Mensch durchs Denken sich vom Thiere unterscheidet, so ist alles Menschliche dadurch und allein dadurch menschlich, daß es durch das [p. 28] Denken bewirkt wird. Indem aber die Philosophie eine eigenthümliche Weise des Denkens ist, eine Weise, wodurch es Erkennen und begreifendes Erkennen wird, so wird ihr Denken auch eine Verschiedenheit haben von dem in allem Menschlichen thätigen, ja die Menschlichkeit des Menschlichen bewirkenden Denken, so sehr es identisch mit demselben, an sich nur Ein Denken ist. Dieser Unterschied knüpft sich daran, daß der durchs Denken begründete, der menschliche Gehalt des Bewußtseyns zunächst nicht in Form des Gedankens erscheint, sondern als Gefühl, Anschauung, Vorstellung, - Formen, die von dem Denken als Form zu unterscheiden sind.
+
+Es ist ein altes Vorurtheil, ein trivial-gewordener Satz, daß der Mensch vom Thiere sich durchs Denken unterscheide; es kann trivial, aber es müßte auch sonderbar scheinen, wenn es Bedürfniß wäre, an solchen alten Glauben zu erinnern. Für ein Bedürfniß aber kann es gehalten werden, bei dem Vorurtheil jetziger Zeit, welche Gefühl und Denken so von einander trennt, daß sie sich entgegengesetzt, selbst so feindselig seyn sollen, daß das Gefühl, insbesondere das religiöse, [orig. 3] durch das Denken verunreinigt, verkehrt, ja etwa gar vernichtet werde, und die Religion und Religiosität wesentlich nicht im Denken ihre Wurzel und Stelle habe. Bei solcher Trennung wird vergessen, daß nur der Mensch der Religion fähig ist; das Thier aber keine Religion hat, so wenig als ihm Recht und Moralität zukommt.
+
+Wenn jene Trennung der Religion vom Denken behauptet wird, so pflegt doch nicht sowohl das Denken überhaupt, als dasjenige vorzuschweben, welches als Nachdenken bezeichnet werden kann, - das reflectirende Denken, welches Gedanken als solche zu seinem Inhalte hat und zum Bewußtseyn bringt. Indem nur dem Menschen Religion, Recht und Sittlichkeit zukommt, und zwar nur deswegen, weil er denkendes Wesen ist, so ist in dem Religiösen, Rechtlichen und Sittlichen, es sey Gefühl und Glauben oder Vorstellung, das Denken überhaupt nicht unthätig gewesen; seine Thätigkeit und deren Productionen sind darin enthalten. Allein es ist verschieden, solche vom Denken bestimmte und durchdrungene Gefühle und Vorstellungen und Gedanken darüber zu haben. Die durchs Nachdenken erzeugten Gedanken über jene Weisen des Bewußtseyns, sind das, worunter Reflexion, Raisonnement und dergleichen, dann auch die Philosophie begriffen ist. Es ist dabei geschehen, und noch öfters hat der Misverstand obgewaltet, daß solches Nachdenken als die Bedingung, ja als der einzige Weg behauptet worden, auf welchem wir zur Vorstellung und zum Fürwahrhalten des Ewigen und Wahren gelangten. So sind z. B. die (jetzt mehr vormaligen) metaphysischen [p. 29] Beweise vom Daseyn Gottes dafür ausgegeben worden, daß oder als ob durch ihre Kenntniß und die Ueberzeugung von ihnen der Glaube und die Ueberzeugung vom Daseyn Gottes, wesentlich und allein bewirkt werden könne. Dergleichen Behauptung käme mit der überein, daß wir nicht eher essen könnten, als bis wir uns die Kenntniß der chemischen, botanischen oder zoologischen Bestimmungen der Nahrungsmittel erworben, und wir mit der Verdauung warten müßten, bis wir das Studium der Anatomie und Physiologie absolvirt hätten. Wenn dem so wäre, würden diese Wissenschaften in ihrem Felde, wie die Philosophie in dem ihrigen, freilich sehr an Nützlichkeit gewinnen, ja ihre Nützlichkeit wäre zur absoluten und allgemeinen Unentbehrlichkeit gesteigert; vielmehr aber würden alle diese Wissenschaften, selbst statt unentbehrlich zu seyn, gar nicht existiren.
+
+§. 3.
+
+Der Inhalt, der unser Bewußtseyn erfüllt, von welcher Art er sey, macht die Bestimmtheit der Gefühle, Anschauungen, Bilder, Vorstellungen, der Zwecke, Pflichten u.s.f. und der Gedanken und Begriffe aus. Gefühl, Anschauung, Bild u.s.f. sind in sofern die Formen solchen Inhalts, welcher ein und derselbe bleibt, ob er gefühlt, angeschaut, vorgestellt, gewollt, und ob er nur gefühlt oder aber mit Vermischung von Gedanken, gefühlt, angeschaut u.s.f. oder ganz unvermischt gedacht wird. In irgend einer dieser Formen oder in der Vermischung mehrerer ist der Inhalt Gegenstand des Bewußtseyns. In dieser Gegenständlichkeit schlagen sich aber auch die Bestimmtheiten dieser Formen zum Inhalte; so daß nach jeder dieser Formen ein besonderer Gegenstand zu entstehen scheint, und was an sich dasselbe ist, als ein verschiedener Inhalt aussehen kann.
+
+Indem die Bestimmtheiten des Gefühls, der Anschauung, des Begehrens, des Willens u.s.f., in sofern von ihnen gewußt wird, überhaupt Vorstellungen genannt werden, so kann im Allgemeinen gesagt werden, daß die Philosophie Gedanken, Kategorien, aber näher Begriffe an die Stelle der Vorstellungen setzt. Vorstellungen überhaupt können als Metaphern der | Gedanken und Begriffe angesehen werden. Damit aber, daß man Vorstellungen hat, kennt man noch nicht deren Bedeutung für das Denken, d. h. noch nicht deren Gedanken und Begriffe. Umgekehrt ist es auch zweierlei, Gedanken und Begriffe zu haben, und zu wissen, welches die ihnen entsprechenden Vorstellungen, Anschauungen, Gefühle sind. - Eine Seite dessen, was man die Unverständlichkeit der Philosophie nennt, bezieht sich hierauf. Die Schwierigkeit liegt [p. 30] einestheils in einer Unfähigkeit, die an sich nur Ungewohntheit ist, abstract zu denken, d. h. reine Gedanken festzuhalten und in ihnen sich zu bewegen. In unserem gewöhnlichen Bewußtseyn überhaupt sind die Gedanken mit sinnlichem und geistigem geläufigen Stoffe angethan und vereinigt, und im Nachdenken, Reflectiren und Raisonniren vermischen wir die Gefühle, Anschauungen, Vorstellungen mit Gedanken, (in jedem Satze von ganz sinnlichem Inhalte: dies Blatt ist grün, sind schon Kategorien, Seyn, Einzelnheit, eingemischt). Ein anderes aber ist die Gedanken selbst unvermischt zum Gegenstande zu machen. Der andere Theil der Unverständlichkeit ist die Ungeduld, das in der Weise der Vorstellung vor sich haben zu wollen, was als Gedanke und Begriff im Bewußtseyn ist. Es kommt der Ausdruck vor, man wisse nicht, was man sich bei einem Begriffe, der gefaßt worden, denken solle; bei einem Begriffe ist aber weiter nichts zu denken, als der Begriff selbst. Der Sinn jenes Ausdrucks ist eine Sehnsucht nach einer bereits bekannten, geläufigen Vorstellung; es ist dem Bewußtseyn, als ob ihm, mit der Weise der Vorstellung, der Boden entzogen wäre, auf welchem es sonst seinen festen und heimischen Stand hat. Wenn es sich in die reine Region der Begriffe versetzt findet, weiß es nicht, wo es in der Welt ist. – Am verständlichsten werden daher Schriftsteller, Prediger, Redner u.s.f. gefunden, die ihren Lesern oder Zuhörern Dinge vor sagen, welche diese bereits auswendig wissen, die ihnen geläufig sind und die sich von selbst verstehen.
+
+§. 4.
+
+In Beziehung auf unser gemeines Bewußtseyn zunächst, hätte die Philosophie das Bedürfniß ihrer eigenthümlichen Erkenntnißweise darzuthun, oder gar zu erwecken. In Beziehung auf die Gegenstände der Religion aber, auf die Wahrheit überhaupt, hätte sie die Fähigkeit zu erweisen, dieselben von sich aus zu erkennen; in Beziehung auf eine zum Vorschein kommende Verschiedenheit von den religiösen Vorstellungen, hätte sie ihre abweichenden Bestimmungen zu rechtfertigen.
+
+§. 5.
+
+Zum Behufe einer vorläufigen Verständigung über den angegebenen Unterschied und über die damit zusammenhängende Einsicht, daß der wahrhafte Inhalt unsers Bewußtseyns in dem Uebersetzen desselben in die Form des Gedankens und Begriffs erhalten, ja erst in sein eigenthümliches Licht gesetzt wird, kann an ein [p. 31] anderes altes Vorurtheil erinnert werden, daß nämlich, um zu erfahren, was an den Gegenständen und Begebenheiten, auch Gefühlen, Anschauungen, Meinungen, Vorstellungen u.s.f. Wahres sey, Nachdenken erforderlich sey. Nachdenken aber thut wenigstens dies auf allen Fall, die Gefühle, Vorstellungen u.s.f. in Gedanken zu verwandeln.
+
+In sofern es nur das Denken ist, was die Philosophie zur eigenthümlichen Form ihres Geschäftes in Anspruch nimmt, jeder Mensch aber von Natur denken kann, so tritt vermöge dieser Abstraction das Gegentheil von dem ein, was vorhin als Beschwerniß über die Unverständlichkeit der Philosophie erwähnt worden ist. Diese Wissenschaft erfährt häufig die Verachtung, daß [orig. 7] auch solche, die sich mit ihr nicht bemüht haben, die Einbildung aussprechen, sie verstehen von Haus aus, was es mit der Philosophie für eine Bewandniß habe, und seyen fähig, wie sie so in einer gewöhnlichen Bildung, insbesondere von religiösen Gefühlen aus, gehen und stehen, zu philosophiren und über sie zu urtheilen. Man gibt zu, daß man die andern Wissenschaften studirt haben müsse, um sie zu kennen, und daß man erst vermöge einer solchen Kenntniß berechtigt sey, ein Urtheil über sie zu haben. Man gibt zu, daß um einen Schuh zu verfertigen, man dies gelernt und geübt haben müsse, obgleich jeder an seinem Fuße den Maßstab dafür, und Hände, und in ihnen die natürliche Geschicklichkeit zu dem erforderlichen Geschäfte, besitze. Nur zum Philosophiren selbst soll dergleichen Studium, Lernen und Bemühung nicht erforderlich seyn. – Diese bequeme Meinung hat in den neuesten Zeiten ihre Bestätigung durch die Lehre vom unmittelbaren Wissen, Wissen durch Anschauen, erhalten.
+
+§. 6.
+
+Von der andern Seite ist es eben so wichtig, da\beta die Philosophie darüber verständigt sey, daß ihr Inhalt kein anderer ist, als der im Gebiete des lebendigen Geistes ursprünglich hervorgebrachte und sich hervorbringende, zur Welt, äußern und innern Welt des Bewußtseyns gemachte, Gehalt, – daß ihr Inhalt die Wirklichkeit ist. Das nächste Bewußtseyn dieses Inhalts nennen wir Erfahrung. Eine sinnige Betrachtung der Welt unterscheidet schon, was von dem weiten Reiche des äußern und innern Daseyns, nur Erscheinung, vorübergehend und bedeutungslos ist, und was in sich wahrhaft den Namen der Wirklichkeit verdient. Indem die Philosophie von anderem Bewußtwerden dieses einen und desselben Gehalts nur nach der Form unterschieden ist, so ist ihre Uebereinstimmung mit der Wirklichkeit und Erfahrung nothwendig. [orig. 8] Ja diese Uebereinstimmung kann für einen wenigstens äußern [p. 32] Prüfstein der Wahrheit einer Philosophie angesehen werden, so wie es für den höchsten Endzweck der Wissenschaft anzusehen ist, durch die Erkenntniß dieser Uebereinstimmung, die Versöhnung der selbstbewußten Vernunft mit der seyenden Vernunft, mit der Wirklichkeit hervorzubringen.
+
+In der Vorrede zu meiner Philosophie des Rechts S. XIX. befinden sich die Sätze:
+
+was vernünftig ist, das ist wirklich, und was wirklich ist, das ist vernünftig.
+
+Diese einfachen Sätze haben Manchen auffallend geschienen und Anfeindung erfahren, und zwar selbst von solchen, welche Philosophie, und wohl ohnehin Religion zu besitzen, nicht in Abrede seyn wollen. Die Religion wird es unnöthig seyn, in dieser Beziehung anzuführen, da ihre Lehren von der göttlichen Weltregierung diese Sätze zu bestimmt aussprechen. Was aber den philosophischen Sinn betrifft, so ist so viel Bildung vorauszusetzen, daß man wisse, nicht nur daß Gott wirklich, - daß er das Wirklichste, daß er allein wahrhaft wirklich ist, sondern auch in Ansehung des Formellen, daß überhaupt das Daseyn zum Theil Erscheinung, und nur zum Theil Wirklichkeit ist. Im gemeinen Leben nennt man etwa jeden Einfall, den Irrthum, das Böse und was auf diese Seite gehört, so wie jede noch so verkümmerte und vergängliche Existenz zufälligerweise eine Wirklichkeit. Aber auch schon einem gewöhnlichen Gefühl wird eine zufällige Existenz nicht den emphatischen Namen eines Wirklichen verdienen; - das Zufällige ist eine Existenz, die keinen größern Werth als den eines Möglichen hat, die so gut nicht seyn kann, als sie ist. Wenn aber ich von Wirklichkeit gesprochen habe, so wäre von selbst daran zu denken, in welchem Sinne ich diesen Ausdruck gebrauche, da ich in einer ausführlichen Logik auch die Wirklichkeit [orig. 9] abgehandelt und sie nicht nur sogleich von dem Zufälligen, was doch auch Existenz hat, sondern näher von Daseyn, Existenz und andern Bestimmungen genau unterschieden habe. – Der Wirklichkeit des Vernünftigen stellt sich etwa die Vorstellung entgegen, sowohl daß die Ideen, Ideale, weiter nichts als Chimären und die Philosophie ein System von solchen Hirngespinnsten sey, als umgekehrt daß die Ideen und Ideale etwas viel zu Vortreffliches seyen, um Wirklichkeit zu haben, oder ebenso etwas zu Ohnmächtiges, um sich solche zu verschaffen. – Diese Abtrennung der Wirklichkeit von der Idee ist besonders bei dem Verstande beliebt, der die Träume seiner Abstractionen für etwas Wahrhaftes hält, und auf das Sollen, das er, auch im politischen Felde gern vorschreibt, eitel ist, als ob die Welt auf ihn gewartet hätte, um zu erfahren, wie sie seyn solle aber nicht sey; wäre sie wie sie seyn soll, wo bliebe die Altklugheit seines Sollens. Wenn er sich mit dem Sollen gegen triviale, äußerliche und vergängliche Gegenstände wendet, die [p. 33] etwa auch für eine gewisse Zeit, für besondere Kreise eine große relative Wichtigkeit haben mögen, so mag er wohl Recht haben, und in solchem Falle vieles finden, was allgemeinen, richtigen Bestimmungen nicht entspricht. Aber er hat Unrecht sich einzubilden, mit solchen Gegenständen und deren Sollen sich innerhalb der Interessen der philosophischen Wissenschaft zu befinden. Diese hat es nur mit der Idee zu thun, welche nicht so ohnmächtig ist, um nur zu sollen und nicht wirklich zu seyn.
+
+§. 7.
+
+Indem das Nachdenken überhaupt zunächst das Princip (auch im Sinne des Anfangs) der Philosophie enthält, und nachdem es in seiner Selbstständigkeit wieder in neuern Zeiten erblüht ist, (nach den Zeiten der lutherischen Reformation,) so ist, indem es sich gleich [orig. 10] anfangs nicht blos abstract, wie in den philosophirenden Anfängen der Griechen, gehalten, sondern sich zugleich auf den maßlos scheinenden Stoff der Erscheinungswelt geworfen hat, der Name Philosophie allem demjenigen Wissen gegeben worden, welches sich der Form nach, mit der Erkenntniß des festen Maßes und Allgemeinen in dem Meere der empirischen Einzelnheiten, und des Nothwendigen, der Gesetze in der scheinbaren Unordnung der unendlichen Menge des Zufälligen beschäftigt, und welches zugleich damit seinen eigenen Inhalt aus dem eigenen Anschauen und Wahrnehmen des Aeußern und Innern, aus der präsenten Natur, wie aus dem präsenten Geiste und der Brust des Menschen genommen hat.
+
+Das Princip der Erfahrung enthält die unendlich wichtige Bestimmung, daß für das Annehmen und Fürwahrhalten eines Inhalts der Mensch selbst dabei seyn müsse, bestimmter daß er solchen Inhalt mit der Gewißheit seiner selbst in Einigkeit und vereinigt finde. Der Mensch muß selbst dabei seyn, es sey auch nur mit seinen äußerlichen Sinnen oder aber mit seinem tiefern Geiste, seinem wesentlichen Selbstbewußtseyn. – Es ist dies Princip dasselbe, was heutigs Tags Glauben, unmittelbares Wissen, die Offenbahrung im Aeußern und vornehmlich im eignen Innern genannt worden ist. Wir heißen jene Wissenschaften, welche Philosophie genannt worden sind, empirische Wissenschaften von dem Ausgangspunkte, den sie nehmen. Aber das Wesentliche, das sie bezwecken und hervorschaffen, sind Gesetze, allgemeine Sätze, eine Theorie; die Gedanken des Vorhandenen. So ist die Newtonische Physik Naturphilosophie genannt worden, wogegen z. B. Hugo Grotius durch Zusammenstellung der geschichtlichen Benehmungen der Völker gegen einander, und mit der [p. 34] Unterstützung eines gewöhnlichen Raisonnements, allgemeine Grundsätze, eine Theorie aufgestellt | hat, welche Philosophie des äußern Staatsrechts genannt werden kann. – Noch hat der Name Philosophie bei den Engländern allgemein diese Bestimmung, Newton hat fortdauernd den Ruhm des größten Philosophen; bis in die Preiscourante der Instrumentenmacher herab, heißen diejenigen Instrumente, die nicht unter eine besondere Rubrik magnetischen, elektrischen Apparats gebracht werden, die Thermometer, Barometer u.s.f. philosophische Instrumente; freilich sollte nicht eine Zusammensetzung von Holz, Eisen u.s.f. sondern allein das Denken das Instrument der Philosophie genannt werden.[^gw19-34-1] – So heißt insbesondere die den neuesten Zeiten zu verdankende Wissenschaft der politischen Oekonomie, auch Philosophie, was wir rationelle Staatswirthschaft, oder etwa Staatswirthschaft der Intelligenz, zu nennen pflegen.) |
+
+[^gw19-34-1]: *) Auch das von Thomson herausgegebene Journal hat den Titel: Annalen der Philosophie oder Magazin der Chemie, Mineralogie, Mechanik, Naturhistorie, Landwirthschaft und Künste. Man kann sich hieraus von selbst vorstellen, wie die Materien beschaffen sind, die hier philosophische heißen. - Unter den Anzeigen von neu erschienenen Büchern fand ich kürzlich in einer englischen Zeitung folgende: The Art of Preserving the Hair, on Philosophical Principles, neatly printed in post 8., price 7 sh. Unter philosophischen Grundsätzen der Preservation der Haare sind wahrscheinlich chemische, physiologische u. dergl. gemeint.
+
+) In dem Munde englischer Staatsmänner, in Beziehung auf die allgemeine staatswirthschaftliche Grundsätze kommt der Ausdruck philosophischer Grundsätze häufig vor, auch in öffentlichen Vorträgen. In der Parlamentssitzung von 1825 (2. Febr.) drückte sich Brougham bei Gelegenheit der Adresse, mit der die Rede vom Throne beantwortet werden sollte, aus: »die eines Staatsmanns würdigen und philosophischen Grundsätze vom freien Handel, – denn zweifelsohne sind sie philosophisch, – über deren Annahme Se. Majestät heute dem Parlament Glück gewünscht hat.« – Nicht aber nur dieses Oppositionsmitglied, sondern bei dem jährlichen Gastmahl, das (in demselben Monat) die Schiffseigner-Gesellschaft unter Vorsitz des ersten Ministers Earl Liverpool, der zu seinen Seiten den Staatssecretär Canning und den General-Zahlmeister der Armee, Sir Charles Long hatte, abhielt, sagte der Staatssecretär Canning, in der Erwiederung auf die ihm gebrachte Gesundheit: »Eine Periode hat kürzlich begonnen, in der die Minister es in ihrer Gewalt hatten, auf die Staatsverwaltung dieses Landes die richtigen Maximen tiefer Philosophie anzuwenden.<«< – Wie auch englische Philosophie von deutscher unterschieden seyn möge, und wenn anderwärts der Name Philosophie nur als ein Uebername und Hohn, oder als etwas Gehässiges gebraucht wird, so ist es immer erfreulich, ihn noch in dem Munde englischer Staatsminister geehrt zu sehen. |
+
+[p. 35] §. 8.
+
+So befriedigend zunächst diese Erkenntniß in ihrem Felde ist, so zeigt sich fürs erste noch ein anderer Kreis von Gegenständen, die darin nicht befaßt sind, Freiheit, Geist, Gott. Sie sind auf jenem Boden nicht darum nicht zu finden, weil sie der Erfahrung nicht angehören sollten; sie werden zwar nicht sinnlich erfahren, aber was im Bewußtseyn überhaupt ist, wird erfahren, – dies ist sogar ein tavtologischer Satz, - sondern weil diese Gegenstände sich sogleich ihrem Inhalte nach als unendlich darbieten.
+
+Es ist ein alter Satz, der dem Aristoteles fälschlicherweise so zugeschrieben zu werden pflegt, als ob damit der Standpunkt seiner Philosophie ausgedrückt seyn sollte: nihil est in intellectu, quod non fuerit in sensu; es ist nichts im Denken, was nicht im Sinne, in der Erfahrung gewesen. Es ist nur für einen Misverstand zu achten, wenn die speculative Philosophie diesen Satz nicht zugeben wollte. Aber umgekehrt wird sie [orig. 13] ebenso behaupten: nihil est in sensu, quod non fuerit in intellectu, – in dem ganz allgemeinen Sinne, daß der Nus und in tieferer Bestimmung der Geist, die Ursache der Welt ist, und in dem nähern, (s. §. 2.) daß das rechtliche, sittliche, religiöse Gefühl ein Gefühl und damit eine Erfahrung von solchem Inhalte ist, der seine Wurzel und seinen Sitz nur im Denken hat.
+
+§. 9.
+
+Fürs andere verlangt die subjective Vernunft der Form nach ihre weitere Befriedigung; diese Form ist die Nothwendigkeit überhaupt (s. §. 1.). In jener wissenschaftlichen Weise ist theils das in ihr enthaltene Allgemeine, – die Gattung u.s.f. als für sich unbestimmt, hiemit mit dem Besondern nicht für sich zusammenhängend, sondern beides einander äußerlich und zufällig, wie ebenso die verbundenen Besonderheiten für sich gegenseitig äußerlich und zufällig sind. Theils sind die Anfänge allenthalben Unmittelbarkeiten, Gefundenes, Voraussetzungen. In beidem geschieht der Form der Nothwendigkeit nicht Genüge. Das Nachdenken, in sofern es darauf gerichtet ist, diesem Bedürfnisse Genüge zu leisten, ist das eigentlich philosophische, das speculative Denken. Als Nachdenken hiemit, das in seiner Gemeinsamkeit mit jenem ersten Nachdenken zugleich davon verschieden ist, hat es außer den gemeinsamen, auch eigenthümliche Formen, deren allgemeine der Begriff ist.
+
+Das Verhältniß der speculativen Wissenschaft zu den andern Wissenschaften ist in sofern nur dieses, daß jene den empirischen Inhalt der letztern nicht etwa [p. 36] nur auf der Seite läßt, sondern ihn anerkennt und gebraucht, daß sie ebenso das Allgemeine dieser Wissenschaften, die Gesetze, die Gattungen u.s.f. anerkennt und zu ihrem eigenen Inhalte verwendet, daß sie aber auch ferner in diese Kategorien andere einführt und geltend macht. Der Unterschied bezieht sich in sofern allein auf diese Veränderung der Kategorien. Die speculative Logik enthält die vorige Logik und Metaphysik, conservirt dieselben Gedankenformen, Gesetze und Gegenstände, aber sie zugleich mit weitern Kategorien weiter bildend und umformend.
+
+Von dem Begriffe im speculativen Sinne ist das, was gewöhnlich Begriff genannt worden ist, zu unterscheiden. In dem letztern, einseitigen Sinne ist es, daß die Behauptung aufgestellt, und tausend und aber tausendmal wiederholt und zum Vorurtheile gemacht worden ist, daß das Unendliche nicht durch Begriffe gefaßt werden könne.
+
+§. 10.
+
+Dieses Denken der philosophischen Erkenntnißweise bedarf es selbst, sowohl seiner Nothwendigkeit nach gefaßt, wie auch seiner Fähigkeit nach, die absoluten Gegenstände zu erkennen, gerechtfertigt zu werden. Eine solche Einsicht ist aber selbst philosophisches Erkennen, das daher nur innerhalb der Philosophie fällt. Eine vorläufige Explication würde hiemit eine unphilosophische seyn sollen, und könnte nicht mehr seyn, als ein Gewebe von Voraussetzungen, Versicherungen und Raisonnements, d. i. von zufälligen Behauptungen, denen mit demselben Rechte die entgegengesetzten gegenüber versichert werden könnten.
+
+Ein Hauptgesichtspunkt der kritischen Philosophie ist, daß, ehe daran gegangen werde, Gott, das Wesen der Dinge u.s.f. zu erkennen, das Erkenntnißvermögen selbst vorher zu untersuchen sey, ob es solches zu leisten fähig sey; man müsse das Instrument vorher kennen lernen, ehe man die Arbeit unternehme, die vermittelst desselben zu Stande kommen soll; wenn es unzureichend sey, würde sonst alle Mühe vergebens verschwendet seyn. Dieser Gedanke hat so plausibel geschienen, daß er die größte Bewunderung und Zustimmung erweckt, und das Erkennen aus seinem Interesse | für die Gegenstände, und dem Geschäfte mit denselben, auf sich selbst zurückgeführt hat. Will man sich jedoch nicht mit Worten täuschen, so ist leicht zu sehen, daß wohl andere Instrumente sich auf sonstige Weise etwa untersuchen und beurtheilen lassen, als durch das Vornehmen der eigenthümlichen Arbeit, der sie bestimmt sind. Aber das Erkennen kann nicht anders als erkennend untersucht werden, bei diesem sogenannten Werkzeuge heißt, dasselbe untersuchen, nichts anders als Erkennen. Erkennen wollen aber ehe man erkenne, ist eben so ungereimt, [p. 37] als der weise Vorsatz jenes Scholasticus, schwimmen zu lernen, ehe er sich ins Wasser wage.
+
+Reinhold, der die Verworrenheit erkannt hat, die in solchem Beginnen herrscht, hat zur Abhilfe vorgeschlagen, vorläufig mit einem hypothetischen und problematischen Philosophiren anzufangen, und in demselben, man weiß nicht wie, fortzumachen, bis sich weiterhin etwa ergebe, daß man auf solchem Wege zum Urwahren gelangt sey. Näher betrachtet läuft dieser Weg auf das Gewöhnliche hinaus, nämlich die Analyse einer empirischen Grundlage, oder einer in eine Definition gebrachten vorläufigen Annahme. Es ist nicht zu verkennen, daß ein richtiges Bewußtseyn darin liegt, den gewöhnlichen Gang der Voraussetzungen und Vorläufigkeiten für ein hypothetisches und problematisches Verfahren zu erklären. Aber diese richtige Einsicht ändert die Beschaffenheit solches Verfahrens nicht, sondern spricht das Unzureichende desselben sogleich aus.
+
+§. 11.
+
+Näher kann das Bedürfniß der Philosophie dahin bestimmt werden, daß indem der Geist als fühlend und anschauend Sinnliches, als Phantasie Bilder u.s.f. zu Gegenständen hat, er im Gegensatze oder blos im Unterschiede von diesen Formen seines Daseyns und [orig. 16] seiner Gegenstände, auch seiner höchsten Innerlichkeit, dem Denken, Befriedigung verschaffe und das Denken zu seinem Gegenstande gewinne. So kommt er zu sich selbst, im tiefsten Sinne des Worts, denn sein Princip, seine unvermischte Selbstheit ist das Denken. In diesem seinem Geschäfte aber geschieht es, daß das Denken sich in Widersprüche verwickelt, d. i. sich in die feste Nichtidentität der Gedanken verliert, somit sich selbst nicht erreicht, vielmehr in seinem Gegentheil befangen bleibt. Das höhere Bedürfniß geht gegen dies Resultat des nur verständigen Denkens und ist darin begründet, daß das Denken nicht von sich läßt, sich auch in diesem bewußten Verluste seines Beisichseyns getreu bleibt, »auf daß es überwinde,« im Denken selbst die Auflösung seiner eigenen Widersprüche vollbringe.
+
+Die Einsicht, daß die Natur des Denkens selbst die Dialektik ist, als Verstand in das Negative seiner selbst, in den Widerspruch zu gerathen, macht eine Hauptseite der Logik aus. Das Denken, verzweifelnd aus sich auch die Auflösung des Widerspruchs, in den es sich selbst gesetzt, leisten zu können, kehrt zu den Auflösungen und Beruhigungen zurück, welche dem Geiste in andern seiner Weisen und Formen zu Theil geworden sind. Das Denken hätte jedoch [p. 38] dabei nicht nöthig in die Misologie zu verfallen, von welcher Plato bereits die Erfahrung vor sich gehabt hat, und sich polemisch gegen sich selbst zu benehmen, wie dies in der Behauptung des sogenannten unmittelbaren Wissens als der ausschließenden Form des Bewußtseyns der Wahrheit geschieht.
+
+§. 12.
+
+Die aus dem genannten Bedürfnisse hervorgehende Entstehung der Philosophie hat die Erfahrung, das unmittelbare und raisonnirende Bewußtseyn zu ihrem Ausgangspunkte. Dadurch als einen Reiz erregt, benimmt [orig. 17] sich das Denken wesentlich so, daß es über das natürliche, sinnliche und raisonnirende Bewußtseyn sich erhebt, – in das unvermischte Element seiner selbst, und sich so zunächst ein sich entfernendes, negatives Verhältniß zu jenem Anfange gibt. Es findet so in sich, in der Idee des allgemeinen Wesens dieser Erscheinungen, zunächst seine Befriedigung; diese Idee (das Absolute, Gott) kann mehr oder weniger abstract seyn. Umgekehrt der Reiz, den die Erfahrungswissenschaften geben, die Form, in welcher der Reichthum ihres Inhalts als ein nur Unmittelbares und Gefundenes, ebenso vielfaches nebeneinander Gestelltes, daher überhaupt Zufälliges geboten wird, zu besiegen, und denselben zur Nothwendigkeit zu erheben, – dieser Reiz reißt das Denken aus dieser Allgemeinheit und der an sich enthaltenen Befriedigung heraus, und treibt es zur Entwickelung, von sich aus. Diese, indem sie einerseits ein Aufnehmen des Inhalts und seiner vorgelegten Bestimmungen ist, gibt demselben zugleich andererseits die Gestalt, frei im Sinne des ursprünglichen Denkens, nur nach der Nothwendigkeit der Sache selbst hervorzugehen.
+
+Von dem Verhältnisse der Unmittelbarkeit und Vermittlung im Bewußtseyn ist unten ausdrücklich und ausführlicher zu sprechen. Es ist hier nur vorläufig darauf aufmerksam zu machen, daß wenn beide Momente auch als unterschieden erscheinen, keines von beiden fehlen kann, und daß sie in unzertrennlicher Verbindung sind. – So enthält das Wissen von Gott, wie von allem Uebersinnlichen überhaupt, wesentlich eine Erhebung über ein Erstes, über die sinnliche Empfindung oder Anschauung; es enthält damit ein negatives Verhalten gegen dasselbe, darin aber die Vermittlung. Denn Vermittlung ist ein Anfangen und ein Fortgegangenseyn zu einem Zweiten, so daß dies Zweite nur ist, in sofern zu demselben von einem gegen dasselbe Andern gekommen worden ist. Damit aber ist das Wissen von Gott, gegen jene empirische Seite [orig. 18] nicht weniger selbstständig, ja es gibt sich seine Selbstständigkeit wesentlich durch diese Negation und Erhebung. Um denselben Gesichtspunkt drehen sich die (zum Theil sehr abgeschmackten) Misverständnisse über das sogenannte Apriorische der Philosophie und das [p. 39] Aposteriorische. Wenn die Vermittlung, vollends zur Bedingtheit gemacht, einseitig herausgehoben wird, so kann man freilich sagen, aber es ist nicht viel damit gesagt, die Philosophie verdanke der Erfahrung ihre erste Entstehung – in der That ist das Denken wesentlich die Negation eines nur unmittelbar Vorhandenen, so sehr als man das Essen den Nahrungsmitteln verdanke, denn ohne diese könnte man nicht essen; das Essen wird freilich in diesem Verhältnisse als undankbar vorgestellt, denn es ist das Verzehren desjenigen, dem es sich selbst verdanken soll. Das Denken ist allerdings in diesem Sinne nicht weniger undankbar. - Nach seiner Unmittelbarkeit, die nichts anderes ist, als seine in sich reflectirte Allgemeinheit, sein Bei-sich-seyn überhaupt ist es befriedigt in sich, und in sofern ist ihm gleichsam die Gleichgültigkeit gegen die Besonderung, damit aber gegen seine Entwicklung angestammt. Wie die Religion, ob entwickelter oder ungebildeter, zum wissenschaftlichen Bewußtseyn ausgebildet, oder im unbefangenen Glauben und Herzen gehalten, dieselbe intensive Natur der Befriedigung und Beseligung besitzt. Wenn das Denken bei der Allgemeinheit der Ideen stehen bleibt, wie nothwendig in den ersten Philosophieen (z. B. dem Seyn der eleatischen Schule, dem Werden Heraklits u. dergl.) der Fall ist, wird ihm mit Recht Formalismus vorgeworfen, insbesondere, wenn von einer entwickelten Philosophie nur die abstracten Sätze oder Bestimmungen z. B. daß im Absoluten Alles Eins, – die Identität des Subjectiven und Objectiven, aufgefaßt und beim Besondern nur dieselben wiederholt werden; ohnehin ist solcher Satz oder Bestimmung, auf deren [orig. 19] abstracte Form die Idee herabgesetzt wird, einseitig und falsch. – Es hat daher einen richtigen und gründlichern Sinn, daß die Entwicklung der Philosophie, der Erfahrung zu verdanken ist. Die empirischen Wissenschaften bleiben einerseits nicht bei dem Wahrnehmen der Einzelnheiten der Erscheinung stehen, sondern denkend haben sie den Stoff der Philosophie entgegen gearbeitet, indem sie deren allgemeine Bestimmungen, Gattungen und Gesetze finden; sie vorbereiten diesen Inhalt des Bestimmten dazu, so in die Philosophie aufgenommen werden zu können. Andererseits enthalten sie damit die Nöthigung für das Denken, selbst zu diesen Bestimmungen fortzugehen. Das Aufnehmen dieses Inhalts, in dem durch das Denken die ihm noch anklebende Unmittelbarkeit und das Gegebenseyn aufgehoben wird, ist zugleich ein Entwickeln des Denkens aus sich selbst. Indem die Philosophie so ihre Entwicklung den empirischen Wissenschaften verdankt, gibt sie diesem Inhalte die wesentlichste Gestalt der Freiheit (des Apriorischen) des Denkens und die Bewährung der Nothwendigkeit, statt der Beglaubigung des Vorfindens und der erfahrnen Thatsache, daß sie zur [p. 40] Darstellung und Nachbildung der ursprünglichen und vollkommen selbstständigen Thätigkeit des Denkens werde.
+
+§. 13.
+
+In der eigenthümlichen Gestalt äußerlicher Geschichte wird die Entstehung und Entwicklung der Philosophie als Geschichte dieser Wissenschaft vorgestellt. Diese Gestalt gibt den Entwicklungs-Stufen die Form von zufälliger Aufeinanderfolge und etwa von bloßer Verschiedenheit der Principien und ihrer Ausführungen in ihren Philosophieen. Der Werkmeister aber dieser Arbeit von Jahrtausenden ist der Eine, und zwar lebendige, Geist, dessen denkende Natur es ist, das, was er ist, zu seinem Bewußtseyn zu bringen, und indem dies so Gegenstand | geworden, zugleich schon darüber erhoben, und eine höhere Stufe in sich zu seyn. Die Geschichte der Philosophie zeigt an den verschieden erscheinenden Philosophieen theils nur Eine Philosophie auf verschiedenen Ausbildungs-Stufen auf, theils daß die besondern Principien, deren eines einem System zu Grunde lag, nur Zweige eines und desselben Ganzen sind. Die der Zeit nach letzte Philosophie ist das Resultat aller vorhergehenden Philosophieen und muß daher die Principien Aller enthalten; sie ist darum, wenn sie anders Philosophie ist, die entfaltetste, reichste und concreteste. Bei dem Anschein der so vielen, verschiedenen Philosophieen muß das Allgemeine und Besondere seiner eigentlichen Bestimmung nach unterschieden werden. Das Allgemeine formell genommen und neben das Besondere gestellt, wird selbst auch zu etwas Besonderem. Solche Stellung würde bei Gegenständen des gemeinen Lebens von selbst als unangemessen und ungeschickt auffallen, wie wenn z. B. einer, der Obst verlangte, Kirschen, Birnen, Trauben u.s.f. ausschlüge, weil sie Kirschen, Birnen, Trauben, nicht aber Obst seyen. - In Ansehung der Philosophie aber läßt man es sich zu, die Verschmähung derselben damit zu rechtfertigen, weil es so verschiedene Philosophien gebe, und jede nur eine Philosophie, nicht die Philosophie sey, – als ob nicht auch die Kirschen Obst wären. Es geschieht auch, daß eine solche, deren Princip das Allgemeine ist, neben solche, deren Princip ein besonderes ist, ja sogar neben Lehren, die versichern, daß es gar keine Philosophie gebe, gestellt wird, in dem Sinne, daß beides nur verschiedene Ansichten der Philosophie seyen, etwa wie wenn Licht und Finsterniß nur zwei verschiedene Arten des Lichtes genannt würden.
+
+§. 14.
+
+Dieselbe Entwicklung des Denkens, welche in der Geschichte der Philosophie dargestellt wird, wird in der Philosophie selbst dargestellt, aber befreit von jener [p. 41] geschichtlichen Aeußerlichkeit, rein im Elemente des Denkens. Der freie und wahrhafte Gedanke ist in sich concret, und so ist er Idee, und in seiner ganzen Allgemeinheit die Idee, oder das Absolute. Die Wissenschaft desselben ist wesentlich System, weil das Wahre als concret nur als sich in sich entfaltend und in Einheit zusammennehmend und haltend, d. i. als Totalität ist, und nur durch Unterscheidung und Bestimmung seiner Unterschiede die Nothwendigkeit derselben und die Freiheit des Ganzen seyn kann.
+
+Ein Philosophiren ohne System kann nichts wissenschaftliches seyn; außerdem daß solches Philosophiren für sich mehr eine subjective Sinnesart ausdrückt, ist es seinem Inhalte nach zufällig. Ein Inhalt hat allein als Moment des Ganzen seine Rechtfertigung, außer demselben aber eine unbegründete Voraussetzung oder subjective Gewißheit. Unter einem Systeme der Philosophie wird fälschlich nur eine Philosophie von einem bestimmten, von andern unterschiedenen Princip verstanden; es ist im Gegentheil Princip wahrhafter Philosophie alle besondern Principien in sich zu enthalten.
+
+§. 15.
+
+Jeder der Theile der Philosophie ist ein philosophisches Ganzes, ein sich in sich selbst schließender Kreis, aber die philosophische Idee ist darin in einer besondern Bestimmtheit oder Elemente. Der einzelne Kreis durchbricht darum, weil er in sich Totalität ist, auch die Schranke seines Elements und begründet eine weitere Sphäre; das Ganze stellt sich daher als ein Kreis von Kreisen dar, deren jeder ein nothwendiges Moment ist, so daß das System ihrer eigenthümlichen Elemente die ganze Idee ausmacht, die ebenso in jedem Einzelnen erscheint. [orig. 22]
+
+§. 16.
+
+Als Encyclopädie wird die Wissenschaft nicht in der ausführlichen Entwicklung ihrer Besonderung dargestellt, sondern ist sie auf die Anfänge und die Grundbegriffe der besondern Wissenschaften zu beschränken.
+
+Wie viel von den besondern Theilen dazu gehöre, eine besondere Wissenschaft zu constituiren, ist in soweit unbestimmt, als der Theil nur nicht ein vereinzeltes Moment, sondern selbst eine Totalität seyn muß, um ein Wahres zu seyn. Das Ganze der Philosophie macht daher wahrhaft Eine Wissenschaft aus, aber sie kann auch als ein Ganzes von mehreren besondern Wissenschaften angesehen werden. - Die philosophische Encyclopädie unterscheidet sich von einer andern, gewöhnlichen Encyclopädie dadurch, daß diese ein Aggregat der Wissenschaften ist, welche zufälliger und empirischer Weise aufgenommen, [p. 42] und worunter auch solche sind, die nur den Namen von Wissenschaften tragen, sonst aber selbst eine bloße Sammlung von Kenntnissen sind. Die Einheit, in welche in solchem Aggregate die Wissenschaften zusammen gebracht werden, ist, weil sie äußerlich aufgenommen sind, gleichfalls eine äußerliche, eine Ordnung. Diese muß aus demselben Grunde, zudem da auch die Materialien zufälliger Natur sind, ein Versuch bleiben, und immer unpassende Seiten zeigen. Außerdem denn, daß die philosophische Encyclopädie 1) bloße Aggregate von Kenntnissen – wie z. B. die Philologie zunächst erscheint, ausschließt, so auch ohnehin 2) solche, welche die bloße Willkühr zu ihrem Grunde haben, wie z. B. die Heraldik; Wissenschaften dieser Art sind die durch und durch positiven. 3) Andere Wissenschaften werden auch positive genannt, welche jedoch einen rationellen Grund und Anfang haben. Dieser Theil von ihnen gehört der Philosophie an; die positive Seite aber bleibt ihnen [orig. 23] eigenthümlich. Die positive derselben ist von verschiedener Art. 1) Ihr an sich rationeller Anfang geht damit in das Zufällige über, daß sie das Allgemeine in die empirische Einzelnheit und Wirklichkeit herunterzuführen haben. In diesem Felde der Veränderlichkeit und Zufälligkeit kann nicht der Begriff, sondern können nur Gründe geltend gemacht werden. Die Rechtswissenschaft z. B. oder das System der directen und indirecten Abgaben, erfordern letzte genaue Entscheidungen, die außer dem An- und für sich Bestimmtseyn des Begriffes liegen, und daher eine Breite für die Bestimmung zulassen, die nach einem Grunde so und nach einem andern anders gefaßt werden kann und keines sichern Letzten fähig ist. Ebenso verläuft sich die Idee der Natur in ihrer Vereinzelung in Zufälligkeiten, und die Naturgeschichte, Erdbeschreibung, Medicin u.s.f. geräth in Bestimmungen der Existenz, in Arten und Unterschiede, die von äußerlichem Zufall und vom Spiele, nicht durch Vernunft bestimmt sind. Auch die Geschichte gehört hieher, in sofern die Idee ihr Wesen, deren Erscheinung aber in der Zufälligkeit und im Felde der Willkühr ist. 2) Solche Wissenschaften sind auch in sofern positiv, als sie ihre Bestimmungen nicht für endlich erkennen, noch den Uebergang derselben und ihrer ganzen Sphäre in eine höhere aufzeigen, sondern sie für schlechthin geltend annehmen. Mit dieser Endlichkeit der Form, wie die erste die Endlichkeit des Stoffes ist, hängt 3) die des Erkenntnißgrundes zusammen, welcher theils das Raisonnement, theils Gefühl, Glauben, Autorität anderer, überhaupt der innern oder äußern Anschauung ist. Auch die Philosophie, welche sich auf Anthropologie, Thatsachen des Bewußtseyns, innere Anschauung oder äußere Erfahrung gründen will, [p. 43] gehört hieher. 4) Es kann noch seyn, daß blos die Form der wissenschaftlichen Darstellung empirisch ist, aber die sinnvolle Anschauung das, was nur Erscheinungen sind, so ordnet, wie die innere Folge des Begriffes ist. Es gehört dazu noch, daß durch die Entgegensetzung und Mannigfaltigkeit der zusammengestellten Erscheinungen die äußerlichen, zufälligen Umstände der Bedingungen sich aufheben, wodurch dann das Allgemeine vor den Sinn tritt. - Eine sinnige Experimental-Physik, Geschichte u.s.f. wird auf diese Weise die rationelle Wissenschaft der Natur und der menschlichen Begebenheiten und Thaten in einem äußerlichen, den Begriff abspiegelnden Bilde darstellen.
+
+§. 17.
+
+Für den Anfang, den die Philosophie zu machen hat, scheint sie im Allgemeinen dieselbe subjective Voraussetzung zu machen, mit welcher die andern Wissenschaften beginnen, nämlich einen besondern Gegenstand, wie anderwärts Raum, Zahl u.s.f., so hier das Denken, zum Gegenstande des Denkens machen zu wollen. Allein es ist der freie Act des Denkens, sich auf den Standpunkt zu stellen, wo es für sich selber ist und sich hiemit seinen Gegenstand selbst erzeugt und gibt. Ferner muß der Standpunkt, welcher so als unmittelbarer erscheint, ebenso innerhalb der Wissenschaft sich zum Resultate, und zwar zu ihrem letzten machen, in welchem sie ihren Anfang wieder erreicht, und in sich zurückkehrt. Auf diese Weise zeigt sich die Philosophie als ein in sich zurückgehender Kreis, der keinen Anfang im Sinne anderer Wissenschaften hat, so daß der Anfang nur eine Beziehung auf das Subject, als welches sich entschließen will, zu philosophiren, nicht aber auf die Wissenschaft als solche hat. - Oder was dasselbe ist, der Begriff der Wissenschaft, und somit der erste, - und weil er der erste ist, enthält er die Trennung, daß das Denken Gegenstand für ein (gleichsam äußerliches) | philosophirendes Subject ist – muß von der Wissenschaft selbst erfaßt werden; - dies ist sogar ihr einziger Zweck, Thun und Ziel, zum Begriffe ihres Begriffes, und so zu ihrer Rückkehr und Befriedigung zu gelangen.
+
+§. 18.
+
+So wie von einer Philosophie nicht eine vorläufige, allgemeine Vorstellung gegeben werden kann, denn nur das Ganze der Wissenschaft ist die Darstellung der Idee, so kann auch ihre Eintheilung nur erst aus dieser begriffen werden; sie ist wie diese, aus der sie zu nehmen ist, etwas Anticipirtes. Diese erweist sich als das schlechthin mit sich identische Denken, und dies zugleich als die Thätigkeit, sich selbst, um für sich zu seyn, sich gegenüber zu stellen, und in diesem Andern nur bei sich selbst zu seyn. So zerfällt die Wissenschaft in die drei Theile:
+
+[p. 44] I. Die Logik, die Wissenschaft der Idee an und für sich.
+
+II. Die Naturphilosophie als die Wissenschaft der Idee in ihrem Andersseyn. III. Die Philosophie des Geistes, als der Idee, die aus ihrem Andersseyn in sich zurückkehrt.
+
+Oben §. 15. ist bemerkt, daß die Unterschiede der besondern Wissenschaften, nur Bestimmungen der Idee selbst sind, und sie es nur ist, die sich in diesen verschiedenen Elementen darstellt. In der Natur ist es nicht ein Anderes, als die Idee, welches erkannt würde, aber sie ist in der Form der Entäußerung, so wie im Geiste ebendieselbe als für sich seyend und an und für sich werdend. Eine solche Bestimmung, in der die Idee erscheint, ist zugleich ein fließendes Moment; | daher ist die einzelne Wissenschaft eben so sehr dies, ihren Inhalt als seyenden Gegenstand, als auch dies, unmittelbar darin seinen Uebergang in seinen höhern Kreis zu erkennen. Die Vorstellung der Eintheilung hat daher das Unrichtige, daß sie die besondern Theile oder Wissenschaften nebeneinander hinstellt, als ob sie nur ruhende und in ihrer Unterscheidung substantielle, wie Arten, wären. |
+
+## [p. 45] VORBEGRIFF
+
+## ERSTER THEIL.
+
+## DIE WISSENSCHAFT DER LOGIK.
+
+## VORBEGRIFF.
+
+§. 19.
+
+Die Logik ist die Wissenschaft der reinen Idee, das ist, der Idee im abstracten Elemente des Denkens.
+
+Es gilt von dieser, wie von andern in diesem Vorbegriffe enthaltenen Bestimmungen dasselbe, was von den über die Philosophie überhaupt vorausgeschickten Begriffen gilt, daß sie aus und nach der Uebersicht des Ganzen geschöpfte Bestimmungen sind.
+
+Man kann wohl sagen, daß die Logik die Wissenschaft des Denkens, seiner Bestimmungen und Gesetze sey, aber das Denken als solches macht nur die allgemeine Bestimmtheit oder das Element aus, in der die Idee, als logische ist. Die Idee ist das Denken, nicht als formales, sondern als die Totalität seiner eigenthümlichen Bestimmungen, die es sich selbst gibt.
+
+Die Logik ist in sofern die schwerste Wissenschaft, als sie es nicht mit Anschauungen, nicht einmal wie die Geometrie mit abstracten sinnlichen Vorstellungen, sondern mit reinen Abstractionen zu thun hat, und eine [orig. 28] Kraft erfordert sich in den reinen Gedanken zurückzuziehen, ihn festzuhalten und in solchem sich zu bewegen. Auf der andern Seite könnte sie als die leichteste angesehen werden, weil der Inhalt nichts als das eigene Denken und dessen geläufige Bestimmungen, und diese zugleich die einfachsten sind.
+
+Der Nutzen der Logik betrifft das Verhältniß zum Subject, in wiefern es sich eine gewisse Bildung zu andern Zwecken gibt. Die Bildung durch die Logik besteht darin, daß es im Denken geübt wird, weil diese Wissenschaft Denken des Denkens ist. In sofern aber das Logische, die absolute Form der Wahrheit, und noch mehr als dies auch die reine Wahrheit selbst ist, ist es ganz etwas anders, als blos etwas Nützliches. Aber wie das Vortrefflichste, das Freiste und Selbstständigste auch das Nützlichste ist, so kann auch das Logische [p. 46] so gefaßt werden. Sein Nutzen ist dann noch anders anzuschlagen, als blos die formelle Uebung des Denkens zu seyn.
+
+§. 20.
+
+Das Denken erscheint a) zunächst in seiner gewöhnlichen, subjectiven Bedeutung, als eine der geistigen Thätigkeiten oder Vermögen neben andern, der Sinnlichkeit, Anschauen, Phantasie u.s.f., Begehren, Wollen u.s.f. Das Product desselben, die Bestimmtheit oder Form des Gedankens, ist das Allgemeine, Abstracte überhaupt. Das Denken, als die Thätigkeit, ist somit das thätige Allgemeine, und zwar das sich bethätigende, indem die That, das Hervorgebrachte, eben das Allgemeine ist. Das Denken als Subject vorgestellt ist Denkendes, und der einfache Ausdruck des Denkenden als existirenden Subjects ist Ich.
+
+Die hier und in den nächstfolgenden SS. angegebenen Bestimmungen sind nicht als Behauptungen und meine Meinungen über das Denken zu nehmen, sondern da in dieser vorläufigen Weise keine Ableitung oder Beweis Statt finden kann, nur als Facta, so daß in dem Bewußtseyn eines jeden es sich empirisch vorfmde, wenn er Gedanken habe und sie betrachte, daß der Charakter der Allgemeinheit, und so gleichfalls die nachfolgenden Bestimmungen darin vorhanden seyen. Eine bereits vorhandene Bildung der Aufmerksamkeit und der Abstraction wird allerdings zur Beobachtung von Factis seines Bewußtseyns und seiner Vorstellungen erfordert.
+
+Der Unterschied des Sinnlichen vom Gedanken bestehet dann nach dem Obigen darin, daß die Bestimmung von jenem die Einzelnheit ist, und indem das Einzelne (ganz abstract das Atome) auch im Zusammenhange steht, so ist das Sinnliche ein Außereinander, dessen nähere abstracte Formen das Neben- und das Nacheinander sind. Das Vorstellen aber hat theils solchen sinnlichen Stoff zum Inhalte, theils aber ist er in die Bestimmung des Meinigen, daß solcher Inhalt in Mir ist, und der Allgemeinheit, der Beziehung-auf-sich, der Einfachheit, gesetzt. Außer dem Sinnlichen hat aber die Vorstellung auch Stoff zum Inhalt, der aus dem selbstbewußten Denken entsprungen, wie die Vorstellungen vom Rechtlichen, Sittlichen, Religiösen, auch vom Denken selbst, und es fällt nicht so leicht auf, worin der Unterschied solcher Vorstellungen von den Gedanken solchen Inhalts zu setzen sey. Denn hier ist sowohl der Inhalt Gedanke, als auch die Form der Allgemeinheit vorhanden ist, welche schon dazu gehört, daß ein Inhalt in Mir, überhaupt, daß er Vorstellung sey. Die Eigenthümlichkeit der Vorstellung aber ist im Allgemeinen auch in dieser Rücksicht darein zu setzen, daß in ihr solcher Inhalt gleichfalls vereinzelt steht. Recht, rechtliche und dergleichen Bestimmungen [p. 47] stehen zwar nicht im sinnlichen Außereinander des Raums; der Zeit nach erscheinen sie wohl etwa nacheinander; aber dies gehört nur dem subjectiven Bewußtseyn an, der Inhalt selbst wird [orig. 30] nicht als von der Zeit behaftet, in ihr vorübergehend und veränderlich vorgestellt. Aber solche an sich geistige Bestimmungen stehen vereinzelt im weiten Boden der innern, abstracten Allgemeinheit des Vorstellens überhaupt. Sie sind in dieser Vereinzelung einfach. Was ist Recht? Pflicht? was ist Gott? Die Vorstellung bleibt entweder dabei stehen, daß das Recht Recht, Gott Gott ist - oder gebildeter gibt sie Bestimmungen an z. B. daß Gott Schöpfer der Welt, allweise, allmächtig u.s.f. ist; hier werden ebenso mehrere Vereinzelte, einfache Bestimmungen aneinander gereiht, welche der Verbindung ungeachtet, die ihnen in dem Subjecte angewiesen ist, außereinander bleiben. Die Vorstellung trifft hier mit dem Verstande zusammen, der sich von jener nur dadurch unterscheidet, daß er Beziehungen und Verhältnisse, von Allgemeinem und Besondern, oder Ursache und Wirkung u.s.f. unter den isolirten Bestimmungen der Vorstellung, setzt, da diese sie in ihrem unbestimmten Raume durch das bloße Auch verbunden, nebeneinander beläßt. Der Unterschied von Vorstellung und von Gedanken hat die nähere Wichtigkeit, weil überhaupt gesagt werden kann, daß die Philosophie nichts anderes thue, als die Vorstellungen in Gedanken zu verwandeln, - aber freilich fernerhin den bloßen Gedanken in den Begriff.
+
+Uebrigens indem für die Bestimmung des Sinnlichen die Einzelnheit und das Außereinander angegeben worden, ist zu bemerken, daß auch diese beiden Bestimmungen selbst wieder Gedanken und Allgemeine sind; denn in der Logik wird es sich zeigen, daß der Gedanke und das Allgemeine eben dies ist, daß er Er selbst und sein Anderes ist, über dieses übergreift, und daß Nichts ihm entflieht. Indem auch die Sprache das Werk des Gedankens ist, so kann auch in ihr nichts gesagt werden, was nicht allgemein ist. Was ich nur meyne, ist mein, gehört mir als diesem besondern Individuum [orig. 31] an; wenn aber die Sprache nur Allgemeines ausdrückt, so kann ich nicht sagen, was ich nur meyne. Und das Unsagbare, Gefühl, Empfindung, ist nicht das Vortrefflichste, Wahrste, sondern das Unbedeutendste, Unwahrste. Wenn ich sage, das Einzelne, dieses Einzelne, Hier, Jetzt, so sind dies alles Allgemeinheiten; Alles und Jedes ist ein Einzelnes, Dieses, auch wenn es sinnlich ist, Hier, Jetzt. Ebenso wenn ich sage: Ich, meyne ich Mich als diesen, alle Andern ausschließenden; aber was ich sage, ist eben jeder! - Ich, der alle Andern von sich ausschließt. Die Allgemeinheit des Ich ist jedoch nicht eine bloße Gemeinschaftlichkeit, sondern innere Allgemeinheit an sich selbst. Kant bedient sich des ungeschickten Ausdrucks, daß Ich alle meine Vorstellungen, auch Empfindungen, Begierden, Handlungen u.s.f. begleite. In der That ist Ich als [p. 48] solches die reine Beziehung auf sich selbst, in der vom Vorstellen, Empfinden, von jedem Zustand, wie von jeder Particularität der Natur, des Talents, der Erfahrung u.s.f. abstrahirt ist. Ich ist in sofern das ganz Abstracte, das abstract Freie. Darum ist das Ich das Denken als Subject, und indem Ich zugleich in allen meinen Empfindungen, Vorstellungen, Zuständen u.s.f. bin, ist der Gedanke allenthalben gegenwärtig, und durchzieht alle diese Bestimmungen.
+
+§. 21.
+
+β) Indem Denken als thätig in Beziehung auf Gegenstände genommen wird, das Nachdenken über Etwas, so erhält das Allgemeine, als solches Product, den Werth der Sache, des Wesentlichen, des Innern, des Wahren.
+
+Es ist §. 5. der alte Glaube angeführt worden, daß, was das Wahrhafte an Gegenständen, Beschaffenheiten, Begebenheiten, das Innere, Wesentliche, die Sache sey, auf welche es ankommt, sich nicht unmittelbar [orig. 32] im Bewußtseyn einfinde, nicht schon dies sey, was der erste Anschein und Einfall darbiete, sondern daß man erst darüber nachdenken müsse, um zur wahrhaften Beschaffenheit des Gegenstandes zu gelangen, und daß durch das Nachdenken dies erreicht werde.
+
+§. 22.
+
+γ) Durch das Nachdenken wird an der Art, wie der Inhalt zunächst in der Empfindung, Anschauung, Vorstellung ist, etwas verändert; es ist somit nur vermittelst einer Veränderung, daß die wahre Natur des Gegenstandes zum Bewußtseyn kommt.
+
+§. 23.
+
+8) Indem im Nachdenken eben so sehr die wahrhafte Natur zum Vorschein kommt, als dies Denken meine Thätigkeit ist, so ist jene eben so sehr das Erzeugniß meines Geistes, und zwar als denkenden Subjects, somit Meiner nach meiner einfachen abstracten Allgemeinheit, Meiner als des schlechthin bei sich seyenden oder meiner Freiheit.
+
+## Ichs
+
+Man kann den Ausdruck Selbstdenken häufig hören, als ob damit etwas Bedeutendes gesagt wäre. In der That kann keiner für den andern denken, so wenig als essen und trinken; jener Ausdruck ist daher ein Pleonasmus. – In dem Denken liegt unmittelbar die Freiheit, weil es die Thätigkeit des Allgemeinen, ein hiemit abstractes sich auf sich Beziehen, ein nach der Subjectivität bestimmungsloses Bei-sich-seyn ist, das nach dem Inhalte zugleich nur in der [p. 49] Sache und deren Bestimmungen ist. Wenn daher von Demuth oder Bescheidenheit, und Hochmuth in Beziehung auf das Philosophiren die Rede ist, und die Demuth oder Bescheidenheit darin besteht, seiner Subjectivität nichts Besonderes von Eigenschaft und Thun zuzuschreiben, so wird das Philosophiren wenigstens von Hochmuth frei zu [orig. 33] sprechen seyn, indem das Denken dem Inhalte nach in sofern nur wahrhaft ist, als es in die Sache vertieft ist, und der Form nach nicht ein besonderes Seyn oder Thun, sondern eben dies ist, daß das Bewußtseyn sich als abstractes Ich, als von aller Particularität sonstiger Eigenschaften, Zustände u.s.f. befreites verhält, und nur das Allgemeine thut, in welchem es mit allen Individuen identisch ist. - Wenn Aristoteles dazu auffordert, sich eines solchen Verhaltens würdig zu halten, so besteht die Würdigkeit, die sich das Bewußtseyn gibt, eben darin, das besondere Meinen und Dafürhalten fahren zu lassen, und die Sache in sich walten zu lassen.
+
+§. 24.
+
+Die Gedanken können nach diesen Bestimmungen objective Gedanken genannt werden, worunter auch die Formen, die zunächst in der gewöhnlichen Logik betrachtet und nur für Formen des bewußten Denkens genommen zu werden pflegen, zu rechnen sind. Die Logik fällt daher mit der Metaphysik zusammen, der Wissenschaft der Dinge in Gedanken gefaßt, welche dafür galten, die Wesenheiten der Dinge auszudrücken.
+
+Das Verhältniß von solchen Formen, wie Begriff, Urtheil und Schluß zu andern, wie Causalität u.s.f. kann sich nur innerhalb der Logik selbst ergeben. Aber so viel ist auch vorläufig einzusehen, daß, indem der Gedanke sich von den natürlichen Dingen einen Begriff zu machen sucht, dieser Begriff (und damit auch dessen unmittelbarste Formen, Urtheil und Schluß) nicht aus Bestimmungen und Verhältnissen bestehen kann, welche den Dingen fremd und äußerlich sind. Das Nachdenken, ist oben gesagt worden, führt auf das Allgemeine der Dinge; dies ist aber eines und zwar selbst das allgemeinste der Begriffsmomente. Daß Verstand, Vernunft in der Welt ist, sagt dasselbe, was der Ausdruck: objectiver [orig. 34] Gedanke, enthält. Dieser Ausdruck ist aber eben darum unbequem, weil Gedanke zu gewöhnlich nur als dem Geiste, dem Bewußtseyn angehörig, und das Objective ebenso zunächst nur von Ungeistigem gebraucht wird.
+
+§. 25.
+
+Der Ausdruck von objectivem Gedanken bezeichnet die Wahrheit, welche der absolute Gegenstand, nicht blos das Ziel der Philosophie seyn soll. Er zeigt [p. 50] aber überhaupt sogleich einen Gegensatz, und zwar denjenigen, um dessen Bestimmung und Gültigkeit das Interesse des philosophischen Standpunkts jetziger Zeit und die Frage um die Wahrheit und die Erkenntniß derselben sich dreht. Sind die Denkbestimmungen mit einem festen Gegensatze behaftet, d. i. sind sie nur endlicher Natur, so sind sie der Wahrheit, die absolut an und für sich ist, unangemessen, und [so] kann sie nicht in das Denken eintreten. Das Denken nur endliche Bestimmungen hervorbringend und in solchen sich bewegend, heißt Verstand (im genauern Sinne des Wortes). Näher ist die Endlichkeit der Denkbestimmungen auf die gedoppelte Weise aufzufassen, die eine, daß sie nur subjectiv sind, und den bleibenden Gegensatz am Objectiven haben, die andere, daß sie als beschränkten Inhaltes überhaupt sowohl gegen einander als noch mehr gegen das Absolute, im Gegensatze verharren. Die dem Denken zur Objectivität gegebenen Stellungen sollen als nähere Einleitung, um die Bedeutung und den Standpunkt, welcher hier der Logik gegeben ist, zu erläutern und herbeizuführen, nun betrachtet werden.
+
+In meiner Phänomenologie des Geistes, welche deswegen bei ihrer Herausgabe als der erste Theil des Systems der Wissenschaft bezeichnet worden, ist der Gang genommen, von der ersten, einfachsten Erscheinung des Geistes, dem unmittelbaren Bewußtseyn, anzufangen und die Dialektik desselben bis zum Standpunkte der philosophischen Wissenschaft zu | entwickeln, dessen Nothwendigkeit durch diesen Fortgang aufgezeigt wird. Es konnte hiefür aber nicht beim Formellen des bloßen Bewußtseyns stehen geblieben werden; denn der Standpunkt des philosophischen Wissens ist zugleich in sich der gehaltvollste und concreteste, somit als Resultat hervorgehend, setzte er auch die concreten Gestalten des Bewußtseyns, wie z. B. in der Moral, Sittlichkeit, Kunst, Religion, voraus. Die Entwicklung des Gehalts, der Gegenstand eigenthümlicher Theile der philosophischen Wissenschaft, fällt daher zugleich in jene zunächst nur auf das Formelle beschränkt scheinende Entwicklung des Bewußtseyns; hinter dessen Rücken sie, so zu sagen, vorgehen muß, in sofern sich der Inhalt als das Ansich zum Bewußtseyn verhält. Die Darstellung wird dadurch verwickelter, und was den concreten Theilen angehört, fällt zum Theil schon mit in die Einleitung. Die hier vorzunehmende Betrachtung hat noch mehr das Unbequeme, nur historisch und räsonnirend sich verhalten zu können, und kann zu der Einsicht mitwirken, daß die Fragen, die man in der Vorstellung über die Natur des Erkennens, über Glauben und so ferner vor sich hat, und für ganz concret hält, in der That sich auf einfache Gedankenbestimmungen zurückführen, die aber erst in der Logik ihre wahrhafte Erledigung erhalten. |
+
+## [p. 51] A.
+
+## ERSTE STELLUNG DES GEDANKENS ZUR OBJECTIVITÄT.
+
+§. 26.
+
+Die erste Stellung ist nothwendig das unbefangene Verfahren, welches noch ohne das Bewußtseyn des Gegensatzes des Denkens in und gegen sich, den Glauben enthält, daß durch das Nachdenken die Wahrheit erkannt, d. i. das, was die Objecte wahrhaft sind, vor das Bewußtseyn gebracht werde. In diesem Glauben geht das Denken geradezu an die Gegenstände, reproducirt den Inhalt der Empfindungen und Anschauungen aus sich zu einem Inhalte des Gedankens und ist in solchem, als der Wahrheit, befriedigt.
+
+§. 27.
+
+Dieses Denken kann, wegen der Bewußtlosigkeit über seinen Gegensatz eben sowohl seinem Gehalte nach ächtes, speculatives Philosophiren seyn, als auch in endlichen Denkbestimmungen, d. i. in dem noch unaufgelösten Gegensatze verweilen. Hier in der Einleitung kann es nur das Interesse seyn, das Denken nach seiner Endlichkeit zu betrachten, und daher das letztere Philosophiren zunächst vorzunehmen. Dies hatte seine bestimmteste Ausbildung in der vormaligen Metaphysik erhalten, wie sie vor der Kantischen Philosophie [orig. 37] bei uns beschaffen war. Diese Metaphysik ist übrigens nur in Beziehung auf die Geschichte der Philosophie etwas vormaliges; für sich ist sie überhaupt die immer vorhandene, bloße Verstandes-Ansicht der Vernunft-Gegenstände. Die nähere Betrachtung ihrer Manier und ihres Hauptinhaltes hat daher zugleich dies nähere präsente Interesse.
+
+§. 28.
+
+Diese Wissenschaft betrachtete die Denkbestimmungen als die Grundbestimmungen der Dinge; sie stand durch diese Voraussetzung, daß das, was ist, damit daß es gedacht wird, an sich erkannt werde, höher als das spätere kritische Philosophiren. Aber 1) nahm sie jene Bestimmungen in ihrer Abstraction als für sich geltend und fähig, Prädicate des Wahren zu seyn. Sie setzte überhaupt voraus, [p. 52] daß die Erkenntniß des Absoluten in der Weise geschehen könne, daß ihm Prädicate beigelegt werden, und untersuchte weder die Verstandesbestimmungen ihrem eigenthümlichen Inhalte und Werthe nach, noch auch diese Form, das Absolute durch Beilegung von Prädicaten zu bestimmen.
+
+Solche Prädicate sind z. B. Daseyn, wie in dem Satze: Gott hat Da-5 seyn; Endlichkeit oder Unendlichkeit, in der Frage, ob die Welt endlich oder unendlich ist; einfach, zusammengesetzt, in dem Satze: die Seele ist einfach; - ferner das Ding ist Eines, ein Ganzes u.s.f.
+
+§. 29.
+
+Dergleichen Prädicate sind aber für sich ein beschränkter Inhalt, und zeigen sich schon als der Fülle der Vorstellung nicht angemessen und sie keineswegs erschöpfend. Alsdann sind sie dadurch, daß sie Prädicate Eines Subjects seyen, miteinander verbunden, durch ihren [orig. 38] Inhalt aber verschieden, so daß sie gegeneinander von außen her aufgenommen werden.
+
+Den ersten Mangel suchten die Orientalen z. B. bei der Bestimmung Gottes durch die vielen Namen, die sie ihm beilegten, abzuhelfen; zugleich aber sollten der Namen unendlich viele seyn.
+
+§. 30.
+
+2) Ihre Gegenstände waren zwar Totalitäten, welche an und für sich der Vernunft, dem Denken des in sich concreten Allgemeinen angehören; Seele, Welt, Gott aber die Metaphysik nahm sie aus der Vorstellung auf, legte sie als fertige gegebene Subjecte, bei der Anwendung der Verstandesbestimmungen darauf, zu Grunde, und hatte nur an jener Vorstellung den Maßstab, ob die Prädicate passend und genügend seyen oder nicht.
+
+§. 31.
+
+Die Vorstellungen von Seele, Welt, Gott scheinen zunächst dem Denken einen festen Halt zu gewähren. Außerdem aber, daß ihnen der Charakter besonderer Subjectivität beigemischt ist, und sie hiernach eine sehr verschiedene Bedeutung haben können, so bedürfen sie es vielmehr, erst durch das Denken die feste Bestimmung zu erhalten. Dies drückt jeder Satz aus, als in welchem erst durch das [p. 53] Prädicat (d. i. in der Philosophie durch die Denkbestimmung) angegeben werden soll, was das Subject, d. i. die anfängliche Vorstellung sey.
+
+In dem Satze: Gott ist ewig u.s.f. wird mit der Vorstellung: Gott angefangen; aber was er ist, wird noch nicht gewußt; erst das Prädicat sagt aus, was er ist. Es ist deswegen im Logischen, wo der Inhalt ganz allein in der Form des Gedankens bestimmt wird, nicht nur überflüßig, die Bestimmungen zu Prädicaten von Sätzen, deren Subject Gott oder das vagere [orig. 39] Absolute wäre, zu machen, sondern es würde auch den Nachtheil haben, an einen andern Maßstab, als die Natur des Gedankens selbst ist, zu erinnern. Ohnehin ist die Form des Satzes oder bestimmter des Urtheils ungeschickt, das Concrete, – und das Wahre ist concret, und Speculative auszudrücken; das Urtheil ist durch seine Form einseitig und in sofern falsch. Diese Bemerkung hängt zugleich mit der Art zusammen, auf welche das in §. 29. angegebene Mangelhafte der Bestimmung durch Prädicate berichtigt wird.
+
+§. 32.
+
+3) Diese Metaphysik wurde Dogmatismus, weil sie nach der Natur der endlichen Bestimmungen annehmen mußte, daß von zwei entgegengesetzten Behauptungen, dergleichen jene Sätze waren, die eine wahr, die andere aber falsch seyn müsse.
+
+§. 33.
+
+Den ersten Theil dieser Metaphysik in ihrer geordneten Gestalt, machte die Ontologie aus, die Lehre von den abstracten Bestimmungen des Wesens. Für diese in ihrer Mannichfaltigkeit und endlichem Gelten mangelt es an einem Princip; sie müssen darum empirisch und zufälligerweise aufgenommen, und ihr näherer Inhalt kann nur auf die Vorstellung, auf die Versicherung, daß man sich bei einem Worte gerade dies denke, etwa auch auf die Etymologie gegründet werden. Es kann dabei blos um die mit dem Sprachgebrauch übereinstimmende Richtigkeit der Analyse und empirische Vollständigkeit, nicht um die Wahrheit und Nothwendigkeit solcher Bestimmungen an und für sich zu thun seyn.
+
+Die Frage, ob Seyn, Daseyn, oder Endlichkeit, Einfachheit, Zusammensetzung u.s.f. an und für sich wahre Begriffe seyen, muß auffallend seyn, wenn [orig. 40] man meynt, es könne blos von der Wahrheit eines Satzes die Rede [p. 54] seyn, und nur gefragt werden, ob ein Begriff einem Subjecte mit Wahrheit beizulegen sey, (wie man es nannte) oder nicht; die Unwahrheit hänge von dem Widerspruche ab, der sich zwischen dem Subjecte der Vorstellung und dem von demselben zu prädicirenden Begriffe fände. Allein der Begriff als Concretes, und selbst jede Bestimmtheit überhaupt ist wesentlich in sich selbst eine Einheit unterschiedener Bestimmungen. Wenn die Wahrheit also weiter nichts wäre, als der Mangel des Widerspruchs, so müßte bei jedem Begriffe zuerst betrachtet werden, ob er nicht für sich einen solchen innern Widerspruch enthalte.
+
+§. 34.
+
+Der zweite Theil war die rationelle Psychologie, oder Pneumatologie, welche die metaphysische Natur der Seele, nämlich des Geistes als eines Dinges betrifft.
+
+Die Unsterblichkeit wurde in der Sphäre aufgesucht, wo Zusammensetzung, Zeit, qualitative Veränderung, quantitatives Zu- oder Abnehmen ihre Stelle haben.
+
+§. 35.
+
+Der dritte Theil, die Kosmologie handelte von der Welt, ihrer Zufälligkeit, Nothwendigkeit, Ewigkeit, Begrenztseyn in Raum und Zeit; den formellen Gesetzen in ihren Veränderungen, ferner von der Freiheit des Menschen, und dem Ursprunge des Bösen.
+
+Als absolute Gegensätze gelten hiebei vornehmlich: Zufälligkeit und Nothwendigkeit; äußerliche und innerliche Nothwendigkeit; wirkende und Endursachen, oder die Causalität überhaupt und Zweck; Wesen oder Substanz und Erscheinung; Form und Materie; Freiheit [orig. 41] und Nothwendigkeit; Glückseligkeit und Schmerz; Gutes und Böses.
+
+§. 36.
+
+Der vierte Theil, die natürliche oder rationelle Theologie, betrachtete den Begriff Gottes oder dessen Möglichkeit, die Beweise von seinem Daseyn, und seine Eigenschaften.
+
+a) Bei dieser verständigen Betrachtung Gottes kommt es vornehmlich darauf an, welche Prädicate zu dem passen oder nicht passen, was wir uns unter Gott [p. 55] vorstellen. Der Gegensatz von Realität und Negation, oder von Positivem und Negativem kommt hier als absolut vor. Für den Begriff, wie ihn der Verstand nimmt, bleibt am Ende nur die leere Abstraction des unbestimmten Wesens, der reinen Realität oder Positivität, das todte Product der modernen Aufklärung. b) Das Beweisen des endlichen Erkennens, zeigt überhaupt die verkehrte Stellung, daß ein objectiver Grund von Gottes Seyn angegeben werden soll, welches somit sich als ein durch ein anderes Vermitteltes darstellt. Dies Beweisen, das die Verstandes-Identität der Bestimmtheiten zur Regel hat, ist von der Schwierigkeit befangen, den Uebergang vom Endlichen zum Unendlichen zu machen. So konnte es entweder Gott von der positiv bleibenden Endlichkeit der daseyenden Welt nicht befreyen, so daß er sich als die unmittelbare Substanz derselben bestimmen mußte (Pantheismus); oder er blieb als ein Object dem Subject gegenüber, somit auf diese Weise ein Endliches (Dualismus). c) Die Eigenschaften sind eigentlich in dem abstracten Begriffe der reinen Realität, des unbestimmten Wesens untergegangen. In sofern aber noch die endliche Welt als ein wahres Seyn und Gott ihr gegenüber in der Vorstellung bleibt, so stellt sich auch die Vorstellung verschiedener Verhältnisse des selben zu jener ein, welche als Eigenschaften bestimmt, einerseits als Verhältnisse zu endlichen Zuständen, selbst endlicher Art (z. B. gerecht, gütig, mächtig, weise u.s.f.) seyn müssen, andererseits aber zugleich unendlich seyn sollen. Dieser Widerspruch läßt auf diesem Standpunkte nur die nebulose Auflösung durch quantitative Steigerung zu, sie nämlich ins Bestimmungslose, den sensum eminentiorem zu treiben. Hiedurch aber wird die Eigenschaft in der That für die Vorstellung zu nichte gemacht und ihr blos ein Namen gelassen. |
+
+## B.
+
+## ZWEITE STELLUNG DES GEDANKENS ZUR OBJECTIVITÄT.
+
+## I.
+
+## EMPIRISMUS.
+
+§. 37.
+
+Das Bedürfniß theils eines concreten Inhalts gegen die abstracten Theorieen des Verstandes, der nicht für sich selbst aus seinen Allgemeinheiten zur Besonderung [p. 56] und Bestimmung fortgehen kann, theils eines festen Halts gegen die Möglichkeit, auf dem Felde und nach der Methode der endlichen Bestimmungen, Alles beweisen zu können, führte zunächst auf den Empirismus, welcher, statt in dem Gedanken selbst das Wahre zu suchen, dasselbe aus der Erfahrung, der äußern und innern Gegenwart zu holen geht.
+
+§. 38.
+
+Der Empirismus hat einerseits dies mit der Metaphysik selbst gemein, als welche für die Beglaubigung ihrer Definitionen, – der Voraussetzungen, so wie des bestimmtern Inhalts, ebenfalls die Vorstellungen, d.h. den zunächst von der Erfahrung herrührenden Inhalt, zur Gewähr hat. Anderntheils aber erhebt der Empirismus diesen der Wahrnehmung, dem Gefühl und der Anschauung angehörigen Inhalt, selbst in die Form allgemeiner [orig. 44] Vorstellungen, Sätze und Gesetze etc. Dies geschieht jedoch nur in dem Sinne, daß diese allgemeinen Bestimmungen (z. B. Kraft) keine weitere Bedeutung und Gültigkeit für sich haben sollen, als die aus der Wahrnehmung genommene, daß nicht von jenen Gedanken selbst aus weiter auf andere Gedanken fortgegangen und geschlossen werden, und kein als in der Erscheinung nachzuweisender Zusammenhang, Berechtigung haben soll. Den festen Halt nach der subjectiven Seite hat das Erkennen darin, daß das Bewußtseyn in der Wahrnehmung seine eigene unmittelbare Gegenwart und Gewißheit hat.
+
+Es liegt im Empirismus dies große Princip, daß was wahr ist, in der Wirklichkeit seyn, und für die Wahrnehmung da seyn muß. Dies Princip ist dem Sollen entgegengesetzt, womit die Reflexion sich aufbläht, und gegen die Wirklichkeit und Gegenwart mit einem Jenseits verächtlich thut, welches nur in dem subjectiven Verstande seinen Sitz und Daseyn haben soll. Wie der Empirismus, erkennt (§. 6.) auch die Philosophie nur das, was ist; sie weiß nicht solches, was nur seyn soll, und somit nicht da ist. – Nach der subjectiven Seite ist ebenso das wichtige Princip der Freiheit anzuerkennen, welches im Empirismus liegt, daß nämlich der Mensch, was er in seinem Wissen gelten lassen soll, selbst sehen, selbst darin sich präsent wissen soll. Die consequente Durchführung des Empirismus, in sofern er nämlich dem Inhalte nach sich auf Endliches beschränkt, läugnet aber das Uebersinnliche überhaupt, oder wenigstens die Erkenntniß und Bestimmtheit desselben, und läßt dem Denken nur die Abstraction und formelle Allgemeinheit und Identität zu.
+
+[p. 57] §. 39.
+
+Ueber dies Princip ist zunächst die richtige Reflexion gemacht worden, daß in dem, was Erfahrung genannt [orig. 45] wird, und von bloßer einzelner Wahrnehmung einzelner Thatsachen zu unterscheiden ist, sich zwei Elemente finden, – das eine der Inhalt, der vereinzelnte, unendlich mannichfaltige Stoff, das andere, die Form die Bestimmungen der Allgemeinheit und Nothwendigkeit. Die Empirie zeigt wohl viele, etwa unzählbar viele, gleiche Wahrnehmungen auf; aber etwas ganz anderes ist noch die Allgemeinheit, als die große Menge. Ebenso gewährt die Empirie wohl Wahrnehmungen von aufeinander-folgenden Veränderungen, oder von nebeneinander-liegenden Gegenständen, aber nicht einen Zusammenhang der Nothwendigkeit. Indem nun die Wahrnehmung die Grundlage dessen, was für Wahrheit gelte, bleiben soll, so erscheint die Allgemeinheit und Nothwendigkeit als etwas unberechtigtes, als eine subjective Zufälligkeit, eine bloße Gewohnheit, deren Inhalt so oder anders beschaffen seyn kann.
+
+Eine wichtige Consequenz hievon ist, daß die rechtlichen und sittlichen Bestimmungen und Gesetze, so wie der Inhalt der Religion als etwas Zufälliges erscheinen, und deren Objectivität aufgegeben wird. Der Humesche Skepticismus ist übrigens vom Griechischen Skepticismus sehr wohl zu unterscheiden. Der Humesche legt die Wahrheit des Empirischen, des Gefühls, der Anschauung zu Grunde, und bestreitet die allgemeinen Bestimmungen und Gesetze von da aus, aus dem Grunde, weil sie nicht eine Berechtigung durch die sinnliche Wahrnehmung haben. Der alte Skepticismus war soweit entfernt, das Gefühl, die Anschauung zum Princip der Wahrheit zu machen, daß er sich vielmehr zu allererst gegen das Sinnliche kehrte. (Ueber den modernen Skepticismus in seiner Vergleichung mit dem alten s. Schellings und Hegels Krit. Journal der Philosophie 1802. I. Bd. 1. St.) [orig. 46]
+
+## II.
+
+## KRITISCHE PHILOSOPHIE.
+
+## §. *40*.
+
+Die kritische Philosophie hat es mit dem Empirismus gemein, die Erfahrung für den einzigen Boden der Erkenntnisse anzunehmen, welche sie aber nicht für Wahrheiten, sondern nur für Erkenntnisse von Erscheinungen gelten läßt.
+
+[p. 58] Zunächst wird ebenfalls von dem Unterschiede der Elemente ausgegangen, die sich in der Analyse der Erfahrung finden, des sinnlichen Stoffes und der allgemeinen Beziehungen desselben. Indem hiemit die im vorhergehenden §. angeführte Reflexion verbunden wird, daß in der Wahrnehmung für sich, nur Einzelnes und nur solches was geschehe, enthalten sey, so wird zugleich bei dem Factum beharrt, daß die Allgemeinheit und Nothwendigkeit als eben so wesentliche Bestimmungen sich in dem, was Erfahrung genannt wird, vorfinden. Weil dieses Element nun nicht aus dem Empirischen als solchem herstammt, so gehört es der Spontaneität des Denkens an, oder ist a priori. Die Denkbestimmungen oder Verstandesbegriffe machen die Objectivität der Erfahrungs-Erkenntnisse aus. Sie enthalten überhaupt Beziehungen, und es formiren sich daher durch sie synthetische Urtheile a priori (d. i. ursprüngliche Beziehungen Entgegengesetzter).
+
+Daß sich in der Erkenntniß auch die Bestimmungen der Allgemeinheit und Nothwendigkeit finden, dies Factum stellt der Humesche Skepticismus nicht in Abrede. Etwas Anderes als ein vorausgesetztes Factum ist es in der Kantischen Philosophie auch nicht; man kann nach der gewöhnlichen Sprache in den Wissenschaften sagen, daß sie nur eine andere Erklärung jenes Factums aufgestellt habe. [orig. 47]
+
+§. 41.
+
+Die kritische Philosophie unterwirft nun den Werth der in der Metaphysik übrigens auch in den andern Wissenschaften und im gewöhnlichen Vorstellen gebrauchten Verstandesbegriffe, zunächst der Untersuchung. Diese Kritik geht jedoch nicht auf den Inhalt und das bestimmte Verhältniß dieser Denkbestimmungen gegen einander selbst, sondern betrachtet sie nach dem Gegensatz von Subjectivität und Objectivität überhaupt. Dieser Gegensatz, wie er hier genommen wird, bezieht sich (s. vorherg. §.) auf den Unterschied der Elemente innerhalb der Erfahrung. Die Objectivität heißt hier das Element von Allgemeinheit und Nothwendigkeit, d. i. von den Denkbestimmungen selbst, – dem sogenannten Apriorischen. Aber die kritische Philosophie erweitert den Gegensatz so, daß in die Subjectivität das Gesammte der Erfahrung fällt, und derselben nichts gegenüber bleibt, als das Ding-an-sich.
+
+Die nähern Formen des Apriorischen, d. i. des Denkens, und zwar desselben, als der seiner Objectivität ungeachtet nur subjectiven Thätigkeit, ergeben sich auf folgende Weise, welche übrigens nur psychologisch-historische Grundlagen hat.
+
+[p. 59] §. 42.
+
+a) Das theoretische Vermögen, die Erkenntniß als solche. Als den bestimmten Grund der Verstandesbegriffe gibt diese Philosophie die ursprüngliche Identität des Ich im Denken (transcendentale Einheit des Selbstbewußtseyns) an; die durch Gefühl und die Anschauung gegebenen Vorstellungen sind ihrem Inhalte nach ein Mannichfaltiges, und eben so sehr durch ihre Form, durch das Außereinander der Sinnlichkeit, in ihren beiden Formen, Raum und Zeit. Dieses Mannichfaltige, indem Ich dasselbe auf sich bezieht, und in sich als in Einem Bewußtseyn vereinigt, (reine Apperception,) wird hiemit in Identität, in eine ursprüngliche Verbindung gebracht. Die bestimmten Weisen dieses Beziehens sind die reinen Verstandesbegriffe, die Kategorien.
+
+Bekanntlich hat es die Kantische Philosophie sich mit der Auffindung der Kategorien sehr bequem gemacht. Ich, die Einheit des Selbstbewußtseyns, ist ganz abstract und völlig unbestimmt; wie ist also zu den Bestimmungen des Ich, den Kategorien zu kommen? Glücklicherweise finden sich in der gewöhnlichen Logik die verschiedenen Arten des Urtheils bereits empirisch angegeben vor. Urtheilen aber ist Denken eines bestimmten Gegenstandes. Die verschiedenen schon fertig aufgezählten Urtheilsweisen liefern also die verschiedenen Bestimmungen des Denkens. Der Fichte'schen Philosophie bleibt das tiefe Verdienst, daran erinnert zu haben, daß die Denkbestimmungen in ihrer Nothwendigkeit aufzuzeigen, daß sie wesentlich abzuleiten seyen. – Diese Philosophie hätte auf die Methode, die Logik abzuhandeln, doch wenigstens die Wirkung gehabt haben sollen, daß die Denkbestimmungen überhaupt oder das übliche logische Material (die Arten der Begriffe, der Urtheile) nicht mehr nur aus der Wahrnehmung abgeleitet und so blos empirisch aufgefaßt, sondern aus dem Denken selbst abgeleitet würden. Wenn das Denken irgend etwas zu beweisen fähig seyn soll, wenn die Logik fodern muß, daß Beweise gegeben werden, und wenn sie das Beweisen lehren will, so muß sie doch vor allem aus, ihren eigenthümlichsten Inhalt zu beweisen, dessen Nothwendigkeit einzusehen fähig seyn. |
+
+§. 43.
+
+::: editorial
+Einerseits wird die bloße Wahrnehmung durch die Kategorien zur Objectivität, zur Erfahrung erhoben, andererseits aber sind diese Begriffe, als Einheiten blos des subjectiven Bewußtseyns, durch den gegebenen Stoff bedingt, für sich leer und haben ihre Anwendung und Gebrauch allein in der Erfahrung, deren anderer Beallem aus,] *so* C₂ O₂: allem aus O₃: allem
+:::
+
+[p. 60] standtheil, die Gefühls- und Anschauungs-Bestimmungen, ebenso nur ein Subjectives ist.
+
+§. 44.
+
+Die Kategorien sind daher unfähig, Bestimmungen des Absoluten zu seyn, als welches nicht in einer Wahrnehmung gegeben ist, und der Verstand, oder die Erkenntniß durch die Kategorien ist darum unvermögend, die Dinge an sich zu erkennen.
+
+Das Ding an sich (- und unter dem Ding wird auch der Geist, Gott, befaßt) drückt den Gegenstand aus, in sofern von Allem, was er für das Bewußtseyn ist, von allen Gefühlsbestimmungen, wie von allen bestimmten Gedanken desselben abstrahirt wird. Es ist leicht zu sehen, was übrig bleibt, das völlige Abstractum, das ganz Leere, bestimmt nur noch als ein Jenseits; das Negative der Vorstellung, des Gefühls, des bestimmten Denkens u.s.f. Eben so einfach aber ist die Reflexion, daß dies Caput mortuum selbst nur das Product des Denkens ist, - eben des zur reinen Abstraction fortgegangenen Denkens, - des leeren Ich, das diese leere Identität seiner selbst sich zum Gegenstande macht. Die negative Bestimmung, welche diese abstracte Identität als Gegenstand erhält, ist gleichfalls unter den Kantischen Kategorien aufgeführt, und ebenso etwas ganz bekanntes. – Man muß sich hiernach nur wundern, so oft wiederholt gelesen zu haben, man wisse nicht, was das Ding-lan-sich seye; und es ist nichts leichter als dies zu wissen. – Aber das Ding-an-sich erkennen, enthält allerdings eine weitere Foderung, von der im nächsten §. die Rede ist.
+
+§. 45.
+
+Es ist nun die Vernunft, das Vermögen des Unbedingten, welche das Bedingte dieser Erfahrungskenntnisse einsieht. Was hier nämlich Vernunftgegenstand heißt, das Unbedingte oder Unendliche ist nichts anders als das Sich-selbst-Gleiche, oder es ist die (§. 42.) erwähnte ursprüngliche Identität des Ich im Denken. Vernunft heißt dies abstracte Ich oder Denken, welches diese reine Identität sich zum Gegenstande oder Zweck macht. Vergl. Anm. z. vorh. §. Dieser schlechthin bestimmungslosen Identität sind die Erfahrungs-Erkenntnisse unangemessen, weil sie überhaupt von bestimmtem Inhalte sind. Indem solches Unbedingte für das Absolute und Wahre der Vernunft (für die Idee) angenommen wird, so werden somit die Erfahrungskenntnisse für das Unwahre, für Erscheinungen erklärt.
+
+[p. 61] §. 46.
+
+Es tritt aber das Bedürfniß ein, diese Identität oder das leere Ding-an-sich zu bestimmen. Erkennen heißt nichts anderes als einen Gegenstand nach seinem bestimmten Inhalte zu wissen; bestimmter Inhalt aber enthält mannichfaltigen Zusammenhang in ihm selbst, und begründet Zusammenhang mit vielen andern Gegenständen. Für diese Bestimmung jenes Unendlichen oder Dings-an-sich hätte diese Vernunft nichts als die Kategorien; indem sie diese dazu gebrauchen will wird sie überfliegend (transcendent).
+
+Hier tritt die zweite Seite der Vernunftkritik ein; und diese zweite ist für sich wichtiger als die erste. Die erste ist nämlich die oben vorgekommene Ansicht, daß die Kategorien in der Einheit des Selbstbewußtseyns ihre Quelle haben; daß somit die Erkenntniß durch dieselbe in der That nichts Objectives enthalte, und die ihnen zugeschriebene Objectivität (§. 40.41.) selbst nur etwas Subjectives sey. Wird nur hierauf gesehen, so ist die Kantische Kritik blos ein subjectiver (platter) Idealismus, der sich nicht auf den Inhalt einläßt, nur die abstracten Formen der Subjectivität und Objectivität vor sich hat, und zwar einseitigerweise bei der erstern, der Subjectivität, als letzter, schlechthin affirmativer Bestimmung, stehen bleibt. Bei der Betrachtung aber der sogenannten Anwendung, welche die Vernunft von den Kategorien für die Erkenntniß ihrer Gegenstände mache, kommt der Inhalt der Kategorien wenigstens nach einigen Bestimmungen zur Sprache, oder wenigstens läge darin eine Veranlassung, wodurch er zur Sprache kommen könnte. Es hat ein besonderes Interesse zu sehen, wie Kant diese Anwendung der Kategorien auf das Unbedingte d. h. die Metaphysik beurtheilt; dies Verfahren soll daher hier mit Wenigem angeführt und kritisirt werden.
+
+§. 47.
+
+a) Das erste Unbedingte, welches betrachtet wird, ist (s. oben §. 34.) die Seele. In meinem Bewußtseyn finde Ich mich immer a) als das bestimmende Subject, ẞ) als ein Singuläres, oder abstract-einfaches, y) als ein in allem Mannichfaltigen desjenigen, dessen ich mir bewußt bin, ein und dasselbe, als identisches, 8) als ein mich, als denkendes, von allen Dingen außer mir unterscheidendes.
+
+Das Verfahren der vormaligen Metaphysik wird nun richtig angegeben, daß sie an die Stelle dieser empirischen Bestimmungen, Denkbestimmungen, die [p. 62] entsprechenden Kategorien setze, wodurch diese vier Sätze entstehen, a) die Seele ist Substanz, ẞ) sie ist einfache Substanz, y) sie ist den verschiedenen Zeiten ihres Daseyns nach, numerisch-identisch; d) sie steht im Verhältnisse zum Räumlichen.
+
+An diesem Uebergange wird der Mangel bemerklich gemacht, daß zweierlei Bestimmungen mit einander verwechselt werden, (Paralogismus) nämlich empirische Bestimmungen mit Kategorien, daß es etwas unberechtigtes sey, aus jenen auf diese zu schließen, überhaupt an die Stelle der erstern die andern zu setzen.
+
+Man sieht, daß diese Kritik nichts anderes ausdrückt, als die oben §. 39. angeführte Hume'sche Bemerkung, daß nämlich die Denkbestimmungen überhaupt, - Allgemeinheit und Nothwendigkeit, - nicht in der Wahrnehmung angetroffen werden, daß das Empirische seinem Inhalte wie seiner Form nach, verschieden sey von der Gedankenbestimmung.
+
+Wenn das Empirische die Beglaubigung des Gedankens ausmachen sollte, so wäre für diesen allerdings erforderlich, in Wahrnehmungen genau nachgewiesen werden zu können. – Daß von der Seele nicht die Substantialität, Einfachheit, Identität mit sich, und die in der Gemeinschaft mit der materiellen Welt sich erhaltende Selbstständigkeit, behauptet werden könne, dies wird in der Kantischen Kritik der metaphysischen Psychologie allein darauf gestellt, daß die Bestimmungen, welche uns das Bewußtseyn über die Seele erfahren läßt, nicht genau dieselben Bestimmungen sind, welche das Denken hiebei producirt. Nach der obigen Darstellung aber läßt auch Kant das Erkennen überhaupt, ja selbst das Erfahren darin bestehen, daß die Wahrnehmungen gedacht werden, d. h. daß die Bestimmungen, welche zunächst dem Wahrnehmen angehören, in Denkbestimmungen verwandelt werden. Immer ist es für einen guten Erfolg der Kantischen Kritik zu achten, daß das Philosophiren über den Geist, von dem Seelendinge, von den Kategorien, und damit von den Fragen über die Einfachheit oder Zusammengesetztheit, Materialität u.s.f. der Seele, befreyt worden ist. Der wahrhafte Gesichtspunkt aber von der Unzulässigkeit solcher Formen wird selbst für den gewöhnlichen Menschenverstand doch nicht der seyn, daß sie Gedanken sind, sondern vielmehr, daß solche Gedanken an und für sich nicht die Wahrheit, - das Unbedingte, enthalten. – Wenn Gedanke und Erscheinung einander nicht vollkommen entsprechen, so hat man zunächst die Wahl, das Eine oder das Andere für das Mangelhafte anzusehen. In dem Kantischen Idealismus, sofern er das Vernünftige betrifft, wird der Mangel auf die Gedanken geschoben, so daß diese darum unzulänglich seyen, weil sie nicht dem Wahrgenommenen und einem auf den Umfang des Wahrnehmens sich beschränkenden [p. 63] Bewußtseyn adäquat, die Gedanken nicht in solchem angetroffen werden. Der Inhalt des Gedankens für sich selbst kommt hier nicht zur Sprache.
+
+§. 48.
+
+β) Bei dem Versuche der Vernunft, das Unbedingte des zweiten Gegenstandes (§. 35.) der Welt, zu erkennen, geräth sie in Antinomien, d.h. in die Behauptung zweier entgegengesetzter Sätze über denselben Gegenstand, und zwar so, daß jeder dieser Sätze mit gleicher Nothwendigkeit behauptet werden muß. Hieraus ergibt sich, daß der weltliche Inhalt, dessen Bestimmungen in solchen Widerspruch gerathen, nicht an sich, sondern nur Erscheinung seyn könne. Die Auflösung des Widerspruchs ist, daß er nicht in den Gegenstand fällt, sondern allein der erkennenden Vernunft zukommt.
+
+Hier kommt es zur Sprache, daß der Inhalt selbst, nämlich die Kategorien für sich, es sind, welche den [orig. 54] Widerspruch herbeiführen. Dieser Gedanke, daß der Widerspruch, der am Vernünftigen durch die Verstandesbestimmungen gesetzt wird, wesentlich und nothwendig ist, ist für einen der wichtigsten und tiefsten Fortschritte der Philosophie neuerer Zeit zu achten. So tief dieser Gesichtspunkt ist, so trivial ist die Auflösung; sie besteht nur in einer Zärtlichkeit für die weltlichen Dinge. Das weltliche Wesen soll es nicht seyn, welches den Makel des Widerspruchs an ihm habe, sondern derselbe nur der denkenden Vernunft, dem Wesen des Geistes zukommen. Man wird wohl dawider nichts haben, daß die erscheinende Welt dem betrachtenden Geiste Widersprüche zeige, – erscheinende Welt ist sie, wie sie für den subjectiven Geist, für Sinnlichkeit und Verstand ist. Aber wenn nun das weltliche Wesen mit dem geistigen Wesen verglichen wird, so kann man sich wundern, mit welcher Unbefangenheit die demüthige Behauptung aufgestellt und nachgesprochen worden, daß nicht das weltliche Wesen, sondern das denkende Wesen, die Vernunft, das in sich widersprechende sey. Es hilft nichts, daß die Wendung gebraucht wird, die Vernunft gerathe nur durch die Anwendung der Kategorien in den Widerspruch. Denn es wird dabei behauptet, dieses Anwenden sey nothwendig, und die Vernunft habe für das Erkennen keine andern Bestimmungen, als die Kategorien. Erkennen ist in der That bestimmendes und bestimmtes Denken; ist die Vernunft nur leeres, unbestimmtes Denken, so denkt sie nichts. Wird aber freilich am Ende die Vernunft auf jene leere Identität reducirt, (s. folg. §.) so wird sie glücklich noch von dem Widerspruche befreyt, durch die leichte Aufopferung alles Inhaltes und Gehalts.
+
+[p. 64] Es kann ferner bemerkt werden, daß die Ermanglung einer tiefern Betrachtung der Antinomie zunächst noch veranlaßte, daß Kant nur vier Antinomien aufführt. [orig. 55] Er kam auf diese, indem er, wie bei den sogenannten Paralogismen, die Kategorientafel voraussetzte, wobei er die späterhin so beliebt gewordene Manier anwendete, statt die Bestimmungen eines Gegenstandes aus dem Begriffe abzuleiten, denselben blos unter ein sonst fertiges Schema zu setzen. Das weitere Bedürftige in der Ausführung der Antinomien habe ich gelegentlich in meiner Wissenschaft der Logik aufgezeigt. – Die Hauptsache, die zu bemerken ist, ist, daß nicht nur in den vier besondern, aus der Kosmologie genommenen Gegenständen die Antinomie sich befindet, sondern vielmehr in allen Gegenständen aller Gattungen, in allen Vorstellungen, Begriffen und Ideen. Dies zu wissen und die Gegenstände in dieser Bestimmung zu erkennen, gehört zum Wesentlichen der philosophischen Betrachtung; sie macht das aus, was weiterhin sich als das dialektische Moment des Logischen bestimmt.
+
+§. 49.
+
+γ) Der dritte Vernunftgegenstand ist Gott; (§. 36.) welcher erkannt, d. i. denkend bestimmt werden soll. Für den Verstand ist nun gegen die einfache Identität alle Bestimmung nur eine Schranke, eine Negation als solche; somit ist alle Realität nur schrankenlos, d. i. unbestimmt zu nehmen, und Gott wird als Inbegriff aller Realitäten, oder als das allerrealste Wesen zum einfachen Abstractum, und für die Bestimmung bleibt nur die ebenso schlechthin abstracte Bestimmtheit, das Seyn, übrig. Abstracte Identität, welche auch hier der Begriff genannt wird, und Seyn, sind die zwei Momente, deren Vereinigung es ist, die von der Vernunft gesucht wird; sie ist das Ideal der Vernunft.
+
+§. 50.
+
+Diese Vereinigung läßt Zwei Wege oder Formen zu; es kann nämlich von dem Seyn angefangen und [orig. 56] von da zum Abstractum des Denkens übergegangen, oder umgekehrt kann der Uebergang vom Abstractum aus zum Seyn bewerkstelligt werden.
+
+Was jenen Anfang mit dem Seyn betrifft, so stellt sich das Seyn, als das Unmittelbare, dar als ein unendlich vielfach bestimmtes Seyn, eine erfüllte Welt. Diese kann näher bestimmt werden als eine Sammlung von unendlich vielen Zufälligkeiten überhaupt (im kosmologischen Beweise) oder als eine Sammlung von unendlich vielen Zwecken und zweckmäßigen Verhältnissen (im physicotheologischen Beweise). Dieses erfüllte Seyn denken heißt, ihm die Form von [p. 65] Einzelnheiten und Zufälligkeiten abstreifen, und es, als ein allgemeines, an und für sich nothwendiges, und nach allgemeinen Zwecken sich bestimmendes und thätiges Seyn, welches von jenem ersten verschieden ist, fassen; als Gott. Der Hauptsinn der Kritik dieses Ganges ist, daß derselbe ein Schließen, ein Uebergang ist; indem nämlich die Wahrnehmungen und deren Aggregat, die Welt, an ihnen als solchen, nicht die Allgemeinheit zeigen, zu welcher das Denken jenen Inhalt reinigt, so werde hiemit diese Allgemeinheit nicht durch jene empirische Weltvorstellung berechtigt. Dem Aufsteigen des Gedankens von der empirischen Weltvorstellung zu Gott wird somit der Hume'sche Standpunkt entgegengesetzt, (wie bei den Paralogismen s. §. 47.) – der Standpunkt, der es für unzulässig erklärt, die Wahrnehmungen zu denken, d. i. das Allgemeine und Nothwendige derselben herauszuheben.
+
+Weil der Mensch denkend ist, wird es eben so wenig der gesunde Menschenverstand als die Philosophie sich je nehmen lassen, von und aus der empirischen Weltanschauung sich zu Gott zu erheben. Dieses Erheben hat nichts anderes zu seiner Grundlage, als die denkende, nicht blos sinnliche, thierische Betrachtung der Welt. Für das Denken und nur für das Denken ist das Welsen, die Substanz, die allgemeine Macht und Zweckbestimmung der Welt. Die sogenannten Beweise vom Daseyn Gottes sind nichts anderes, als nur die Beschreibungen und Analysen des Ganges des Geistes in sich, der ein denkender ist, und das Sinnliche denkt. Das Erheben des Denkens über das Sinnliche, das Hinausgehen desselben über das Endliche zum Unendlichen, der Sprung, der mit Abbrechung der Reihen des Sinnlichen ins Uebersinnliche gemacht werde, alles dieses ist das Denken selbst, dies Uebergehen ist nur Denken. Wenn solcher Uebergang nicht gemacht werden soll, so heißt dies, es soll nicht gedacht werden. In der That machen die Thiere solchen Uebergang nicht; sie bleiben bei der sinnlichen Empfindung und Anschauung stehen; sie haben deswegen keine Religion. Es ist sowohl überhaupt als insbesondere über die Kritik dieses Erhebens des Denkens zweierlei zu bemerken. Erstens wenn dasselbe in die Form von Schlüssen (sogenannten Beweisen vom Daseyn Gottes) gebracht ist, so ist der Ausgangspunkt allerding die Weltanschauung, auf irgend eine Weise, als ein Aggregat von Zufälligkeit oder von Zwecken und zweckmäßigen Beziehungen bestimmt. Dieser Ausgangspunkt kann scheinen, im Denken, in sofern es Schlüsse macht, als feste Grundlage und ganz [p. 66] so empirisch, wie dieser Stoff zunächst ist, zu bleiben und belassen zu werden. Die Beziehung des Ausgangspunktes auf den Endpunkt, zu welchem fortgegangen wird, wird so als nur affirmativ vorgestellt. Allein es ist der große Irrthum, die Natur des Denkens nur in dieser Verstandesform erkennen zu wollen. Die empirische Welt denken heißt vielmehr wesentlich, ihre empirische Form umändern und sie in ein Allgemeines verwandeln; das Denken übt zugleich eine negative Thätigkeit auf jene Grundlage aus; der wahrgenommene Stoff, wenn er durch [orig. 58] Allgemeinheit und Nothwendigkeit bestimmt wird, bleibt nicht in seiner ersten empirischen Gestalt. Es wird der innere Gehalt des Wahrgenommenen, mit Entfernung und Negation der Schale, herausgehoben. (vergl. §. 13. u. 23.) Die metaphysischen Beweise vom Daseyn Gottes sind darum mangelhafte Auslegungen und Beschreibungen der Erhebung des Geistes von der Welt zu Gott, weil sie das Moment der Negation, welches in dieser Erhebung enthalten ist, nicht ausdrücken, oder vielmehr nicht herausheben, denn darin daß die Welt zufällig ist, liegt es selbst, daß sie nur ein Fallendes, Erscheinendes, an und für sich Nichtiges ist. Der Sinn der Erhebung des Geistes ist, daß der Welt zwar Seyn zukomme, das aber nur Schein ist, nicht das wahrhafte Seyn, nicht absolute Wahrheit, daß diese vielmehr jenseits jener Erscheinung, nur in Gott ist, Gott nur das wahrhafte Seyn ist. Indem diese Erhebung Uebergang und Vermittlung ist, so ist sie eben so sehr Aufheben des Ueberganges und der Vermittlung, denn das, wodurch Gott vermittelt scheinen könnte, die Welt, wird vielmehr für das Nichtige erklärt; nur die Nichtigkeit des Seyns der Welt ist das Band der Erhebung, so daß das, was als das Vermittelnde ist, verschwindet, und damit in dieser Vermittlung selbst die Vermittlung aufgehoben wird. Es ist vornehmlich dieses Verhältniß, an das sich Jacobi hält, indem er das Beweisen des Verstandes bekämpft; er macht demselben den gerechten Vorwurf, daß damit Bedingungen (die Welt) für das Unbedingte aufgesucht werden, daß das Unendliche (Gott) auf solche Weise als begründet und abhängig vorgestellt werde (wovon hernach). Allein jene Erhebung corrigirt selbst diesen Schein, ihr ganzer Gehalt vielmehr ist die Correction dieses Scheins. Aber diese wahrhafte Natur des wesentlichen Denkens, in der Vermittlung die Vermittlung selbst aufzuheben, hat Jacobi nicht [orig. 59] erkannt, und daher fälschlich den richtigen Vorwurf, den er dem nur reflectirenden Verstande macht, für einen das Denken überhaupt, damit auch das vernünftige Denken treffenden Vorwurf gehalten.
+
+Zur Erläuterung von dem Uebersehen des negativen Moments kann beispielsweise der Vorwurf angeführt werden, der dem Spinozismus gemacht wird, daß er Pantheismus und Atheismus sey. Die absolute Substanz [p. 67] Spinoza's ist freilich noch nicht der absolute Geist, und es wird mit Recht gefodert, daß Gott als absoluter Geist bestimmt werden müsse. Wenn aber Spinoza's Bestimmung so vorgestellt wird, daß er Gott mit der Natur, mit der endlichen Welt vermische, und die Welt zu Gott mache, so wird dabei vorausgesetzt, daß die endliche Welt wahrhafte Wirklichkeit, affirmative Realität besitze. Mit dieser Voraussetzung wird freilich mit einer Einheit Gottes und der Welt, Gott schlechthin verendlicht und zur bloßen endlichen, äußerlichen Mannichfaltigkeit der Existenz herabgesetzt. Abgesehen davon, daß Spinoza Gott nicht definirt, daß er die Einheit Gottes und der Welt, sondern daß er die Einheit des Denkens und der Ausdehnung (der materiellen Welt) sey, so liegt es schon in dieser Einheit, selbst auch, wenn sie auf jene erste ganz ungeschickte Weise genommen wird, daß in dem Spinozischen Systeme vielmehr die Welt nur als ein Phänomen, dem nicht wirkliche Realität zukomme, bestimmt wird, so daß dieses System vielmehr als Akosmismus anzusehen ist. Eine Philosophie, welche behauptet, daß Gott, und nur Gott ist, dürfte wenigstens nicht für Atheismus ausgegeben werden. Schreibt man doch den Völkern, welche den Affen, die Kuh, steinerne, eherne Statuen u.s.f. als Gott verehren, noch Religion zu. Aber im Sinne der Vorstellung geht es noch vielmehr gegen den Mann, ihre Voraussetzung aufzugeben, daß dies ihr Aggregat von Endlichkeit, [orig. 60] welches Welt genannt wird, wirkliche Realität habe. Daß es, wie sie sich etwa ausdrücken könnte, keine Welt gebe, so etwas anzunehmen, hält man leicht für ganz unmöglich, oder wenigstens für viel weniger möglich, als daß es einem in den Kopf kommen könne, daß es keinen Gott gebe. Man glaubt eben nicht zu eigener Ehre viel leichter, daß ein System Gott leugne, als daß es die Welt leugne. Die zweite Bemerkung betrifft die Kritik des Gehalts, den jene denkende Erhebung zunächst gewinnt. Dieser Gehalt, wenn er nur in den Bestimmungen der Substanz der Welt, des nothwendigen Wesens derselben, einer zweckmäßig einrichtenden und dienenden Ursache u.s.f. besteht, ist freilich dem nicht angemessen, was unter Gott verstanden wird oder verstanden werden soll. Allein, abgesehen von der Manier, eine Vorstellung von Gott vorauszusetzen, und nach solcher Voraussetzung ein Resultat zu beurtheilen, so haben jene Bestimmungen schon großen Werth und sind nothwendige Momente in der Idee Gottes. Um in diesem Wege den Gehalt in seiner wahrhaften Bestimmung, die wahrhafte Idee Gottes, vor das Denken zu bringen, dafür muß freilich der Ausgangspunkt nicht von untergeordnetem Inhalte aus genommen werden. Die blos zufälligen Dinge der Welt sind eine sehr abstracte Bestimmung. Die organischen Gebilde und deren Zweckbestimmungen gehören dem höhern Kreise, dem [p. 68] Leben, an. Allein außerdem, daß die Betrachtung der lebendigen Natur und der sonstigen Beziehung der vorhandenen Dinge auf Zwecke, durch Geringfügigkeit von Zwecken, ja durch selbst kindische Anführungen von Zwecken und deren Beziehungen verunreinigt werden kann, so ist die nur lebendige Natur selbst in der That noch nicht dasjenige, woraus die wahrhafte Bestimmung der Idee Gottes gefaßt werden kann; Gott ist mehr als lebendig, er ist Geist. Die geistige [orig. 61] Natur ist allein der würdigste und wahrhafteste Ausgangspunkt für das Denken des Absoluten, in sofern das Denken sich einen Ausgangspunkt nimmt und den nächsten nehmen will.
+
+§. 51.
+
+Der andere Weg der Vereinigung geht vom Abstractum des Denkens aus fort zur Bestimmung, für die nur das Seyn übrig bleibt; – (ontologischer Beweis vom Daseyn Gottes.) Der Gegensatz, der hier vorkommt, ist der des Denkens und Seyns, da im ersten Wege das Seyn den beiden Seiten gemeinschaftlich ist, und der Gegensatz nur den Unterschied von dem Vereinzelten und Allgemeinen betrifft. Was der Verstand dieser Vereinigung entgegenstellt, ist an sich dasselbe, was so eben angeführt worden, daß nämlich wie in dem Empirischen sich das Allgemeine nicht vorfinde, so sey ebenso umgekehrt im Allgemeinen das Bestimmte nicht enthalten, und das Bestimmte ist hier das Seyn. Oder das Seyn könne nicht aus dem Begriffe abgeleitet und heraus analysirt werden.
+
+Die Kantische Kritik des ontologischen Beweises hat ohne Zweifel auch dadurch eine so unbedingt günstige Auf- und Annahme gefunden, daß Kant zur Verdeutlichung, welch ein Unterschied sey zwischen Denken und Seyn, das Beispiel von den hundert Thalern gebraucht hat, die dem Inhalte nach gleich hundert seyen, ob sie nur möglich oder wirklich seyen; aber für meinen Vermögenszustand mache dies einen wesentlichen Unterschied aus. Nichts kann so einleuchtend seyn, als daß dergleichen, was ich mir denke oder vorstelle, darum noch nicht wirklich ist, der Gedanke, daß Vorstellen zum Seyn nicht hinreicht. - Abgesehen davon, daß es nicht mit Unrecht eine Barbarei genannt werden könnte, dergleichen wie hundert Thaler einen Begriff zu nennen, so sollten doch wohl zunächst diejeni [orig. 62] gen, die immer und immer gegen die philosophische Idee wiederholen, daß Denken und Seyn verschieden seyen, voraussetzen, den Philosophen sey dies gleichfalls [p. 69] nicht unbekannt; was kann es in der That für eine trivialere Kenntniß geben? Alsdenn aber müßte bedacht werden, daß wenn von Gott die Rede ist, dies ein Gegenstand anderer Art sey, als hundert Thaler und irgend ein besonderer Begriff, Vorstellung oder wie es Namen haben wolle. In der That ist alles Endliche dies, und nur dies, daß das Daseyn desselben von seinem Begriffe verschieden ist. Gott aber, ganz abstract gefaßt, soll ausdrücklich das seyn, das nur als existirend gedacht werden kann, wo der Begriff das Seyn in sich schließt. Eben diese Einheit des Begriffs und des Seyns macht den Begriff Gottes aus. Es ist dies freilich eine ganz formale Bestimmung von Gott, die deswegen in der That nur die Natur des Begriffes selbst enthält. Daß aber dieser schon in seinem ganz abstracten Sinne, das Seyn in sich schließe, ist leicht einzusehen. Denn der Begriff, wie er sonst bestimmt werde, ist wenigstens die durch Aufhebung der Vermittlung hervorgehende, somit selbst unmittelbare, Beziehung auf sich selbst; das Seyn ist aber nichts anderes als dieses. Es müßte, kann man wohl sagen, sonderbar zugehen, wenn dies innerste des Geistes, der Begriff, oder auch wenn Ich, oder vollends die concrete Totalität, welche Gott ist, nicht einmal so reich wäre, um eine so arme Bestimmung, wie Seyn ist, ja welche die allerärmste, die abstracteste, ist, in sich zu enthalten. Es kann für den Gedanken dem Gehalte nach nichts geringeres geben als Seyn. Nur dies mag noch geringer seyn, was man sich etwa beim Seyn zunächst vorstellt, nämlich eine äußerliche sinnliche Existenz, wie die des Papiers, das ich hier vor mir habe; einer sinnlichen Existenz eines beschränkten, vergänglichen Dinges aber wird man ohnehin nicht sprechen wollen. Uebrigens vermag die triviale Bemerkung der Kritik: daß der Gedanke und das Seyn verschieden seyen, dem Menschen etwa den Gang seines Geistes vom Gedanken Gottes aus zu der Gewißheit, daß er ist, höchstens zu stören, aber nicht zu benehmen. Dieser Uebergang, die absolute Unzertrennlichkeit des Gedanken Gottes von seinem Seyn ist es, was in der Ansicht des unmittelbaren Wissens oder Glaubens in sein Recht wieder hergestellt worden ist, wovon nachher.
+
+von
+
+§. 52.
+
+Dem Denken bleibt auf diese Weise auf seiner höchsten Spitze die Bestimmtheit etwas äußerliches, oder es bleibt nur schlechthin abstractes Denken, welches hier immer Vernunft heißt. Diese, ist hiemit das Resultat, liefert nichts als die formelle Einheit zur Vereinfachung und Systematisirung [p. 70] der Erfahrungen, ist ein Kanon, nicht ein Organon der Wahrheit, vermag nicht eine Doctrin des Unendlichen, sondern nur eine Kritik der Erkenntniß zu liefern. Diese Kritik besteht in ihrer letzten Analyse in der Versicherung, daß das Denken in sich nur die unbestimmte Einheit und die Thätigkeit dieser unbestimmten Einheit sey.
+
+§. 53.
+
+b) Die praktische Vernunft wird als der sich selbst und zwar auf allgemeine Weise bestimmende d. i. denkende Wille gefaßt. Sie soll imperative, objective Gesetze der Freiheit geben, d. i. solche, welche sagen, was geschehen soll. Die Berechtigung, hier das Denken als objectiv bestimmende Thätigkeit (- d. i. in der That eine Vernunft) anzunehmen, wird darein gesetzt, daß die praktische Freiheit durch Erfahrung bewiesen d. i. in der Erscheinung des Selbstbewußtseyns nachgewiesen werden könne. Gegen diese Erfahrung im [orig. 64] Bewußtseyn recurrirt alles, was der Determinismus ebenso aus der Erfahrung dagegen vorbringt, insbesondere die skeptische (auch Hume'sche) Induction von der unendlichen Verschiedenheit desjenigen, was für Recht und Pflicht unter den Menschen gilt, d. i. der objectiv seyn sollenden Gesetze der Freiheit.
+
+§. 54.
+
+Für das, was das praktische Denken sich zum Gesetz mache, für das Kriterium des Bestimmens seiner in sich selbst, ist wieder nichts anderes vorhanden, als dieselbe abstracte Identität des Verstandes (daß kein Widerspruch in dem Bestimmen Statt finde); - die praktische Vernunft kommt damit über den Formalismus nicht hinaus, welcher das letzte der theoretischen Vernunft seyn soll.
+
+Aber die praktische Vernunft setzt nicht nur in sich die allgemeine Bestimmung, das Gute, sondern sie ist praktisch näher in der Foderung, daß das Gute weltliches Daseyn, äußerliche Objectivität habe, d. i. daß der Gedanke nicht blos subjectiv, sondern objectiv überhaupt sey. Von diesem Postulate der praktischen Vernunft nachher.
+
+§. 55.
+
+c) Der reflectirenden Urtheilskraft wird das Princip eines anschauenden Verstandes zugeschrieben, d. i. worin das Besondere, welches für das Allgemeine (die abstracte Identität) zufällig sey und davon nicht abgeleitet werden könne, durch dies Allgemeine selbst bestimmt werde; was in den Producten der Kunst und der organischen Natur erfahren werde.
+
+[p. 71] Die Kritik der Urtheilskraft hat das Ausgezeichnete, daß Kant in ihr die Vorstellung, ja den Gedanken der Idee ausgesprochen hat. Die Vorstellung des intuitiven Verstandes, der innern [orig. 65] Zweckmäßigkeit u.s.f. ist das Allgemeine zugleich als an ihm selbst concret gedacht. In diesen Vorstellungen allein zeigt daher die Kantische Philosophie sich speculativ. Viele, namentlich Schiller, haben an der Idee des Kunstschönen, der concreten Einheit des Gedankens und der sinnlichen Vorstellung, den Ausweg aus den Abstractionen des trennenden Verstandes gefunden; andere an der Anschauung und dem Bewußtseyn der Lebendigkeit überhaupt, es sey natürlicher - oder intellectueller Lebendigkeit. Das Kunstproduct, wie die lebendige Individualität sind zwar beschränkt in ihrem Inhalte; aber die auch dem Inhalte nach umfassende Idee stellt Kant in der postulirten Harmonie der Natur oder Nothwendigkeit mit dem Zwecke der Freiheit, in dem als realisirt gedachten Endzwecke der Welt auf. Aber die Faulheit des Gedankens, wie es genannt werden kann, hat bei dieser höchsten Idee an dem Sollen einen zu leichten Ausweg, gegen die wirkliche Realisirung des Endzwecks, an dem Geschiedenseyn des Begriffs und der Realität festzuhalten. Die Gegenwart hingegen der lebendigen Organisationen und des Kunstschönen zeigt auch für den Sinn und die Anschauung schon die Wirklichkeit des Ideals. Die Kantischen Reflexionen über diese Gegenstände wären daher besonders geeignet, das Bewußtseyn in das Fassen und Denken der concreten Idee einzuführen.
+
+§. 56.
+
+Hier ist der Gedanke eines andern Verhältnisses vom Allgemeinen des Verstandes zum Besondern der Anschauung aufgestellt, als in der Lehre von der theoretischen und praktischen Vernunft zu Grunde liegt; es verknüpft sich damit aber nicht die Einsicht, daß jenes das wahrhafte, ja die Wahrheit selbst ist. Vielmehr wird diese Einheit nur aufgenommen, wie sie in endlichen Erscheinungen zur Existenz kommt, und in der Erfahrung [orig. 66] aufgezeigt, zunächst im Subjecte, nämlich im Genie, dem Vermögen ästhetische Ideen zu produciren, d. i. Vorstellungen der freien Einbildungskraft, die einer Idee statt logischer Darstellung dienen und zu denken geben, ohne daß solcher Inhalt in einem Begriffe (d. h. einer abstracten Denkbestimmung) ausgedrückt wäre oder sich darin ausdrücken ließe; - theils im Geschmacksurtheile, dem Gefühl der Zusammenstimmung der Anschauungen oder Vorstellungen in ihrer Freiheit, zum Verstande in seiner Gesetzmäßigkeit.
+
+## [p. 72] ENCYCLOPÄDIE
+
+## LOGIK
+
+§. 57.
+
+Das Princip der reflectirenden Urtheilskraft ferner für die lebendigen Naturproducte wird als der Zweck bestimmt, der thätige Begriff, das in sich bestimmte und bestimmende Allgemeine. Zugleich wird die Vorstellung der äußerlichen oder endlichen Zweckmäßigkeit entfernt, in welcher der Zweck für das Mittel und das Material, worin er sich realisirt, nur äußerliche Form ist. Wo hingegen im Lebendigen der Zweck in der Materie immanente Bestimmung und Thätigkeit ist, und alle Glieder ebenso sich gegenseitig Mittel als Zweck sind.
+
+§. 58.
+
+Wenn nun gleich in solcher Idee das Verstandesverhältniß von Zweck und Mittel, von Subjectivität und Objectivität aufgehoben ist, so wird doch wieder im Widerspruch hiemit der Zweck für eine Ursache erklärt, welche nur als Vorstellung, d. h. als ein Subjectives existire und thätig sey; hiemit denn auch die Zweckbestimmung nur für ein unserem Verstande angehöriges Princip der Beurtheilung erklärt.
+
+Nachdem es einmal Resultat der kritischen Philosophie ist, daß die Vernunft nur Erscheinungen erkennen könne, so hätte man doch wenigstens für die lebendige Natur eine Wahl zwischen zwei gleich subjectiven Denkweisen, und nach der Kantischen Darstellung selbst eine Verbindlichkeit, die Naturproducte nicht blos nach den Kategorien von Qualität, Ursache und Wirkung, Zusammensetzung, Bestandtheilen u.s.f. zu erkennen. Das Princip der innern Zweckmäßigkeit, in wissenschaftlicher Anwendung festgehalten und entwickelt, würde eine ganz andere, höhere Betrachtungsweise derselben herbeigeführt haben.
+
+§. 59.
+
+Die Idee nach diesem Princip in ihrer ganzen Unbeschränktheit wäre, daß die von der Vernunft bestimmte Allgemeinheit, der absolute Endzweck, das Gute, in der Welt verwirklicht würde, durch ein drittes, die diesen Endzweck selbst setzende und ihn realisirende Macht, - Gott, in welchem, der absoluten Wahrheit, hiemit jene Gegensätze von Allgemeinheit und Einzelnheit, von Subjectivität und Objectivität aufgelöst, und für unselbstständig und unwahr erklärt sind.
+
+[p. 73] §. 60.
+
+Allein das Gute, worin der Endzweck der Welt gesetzt wird, ist von vorn herein nur als unser Gutes, als das moralische Gesetz unserer praktischen Vernunft, bestimmt; so daß die Einheit weiter nicht geht, als auf die Uebereinstimmung des Weltzustands und der Weltereignisse mit unserer Moralität.[^gw19-73-1] Außerdem daß selbst mit dieser [orig. 68] Beschränkung der Endzweck, das Gute, ein bestimmungsloses Abstractum ist, wie auch das, was Pflicht seyn soll. Näher wird gegen diese Harmonie der Gegensatz, der in ihrem Inhalte als unwahr gesetzt ist, wieder erweckt und behauptet, so daß sie als ein nur subjectives bestimmt wird, – als ein solches, das nur seyn soll, d. i. das zugleich nicht Realität hat; – als ein Geglaubtes, dem nur subjective Gewißheit, nicht Wahrheit, d. i. nicht jene der Idee entsprechende Objectivität zukomme. Wenn dieser Widerspruch dadurch verdeckt zu werden scheint, daß die Realisirung der Idee in die sinnliche Bestimmung der Zeit, in eine Zukunft, wo die Idee auch seye, verlegt wird, so ist das Sinnliche das Gegentheil vielmehr von einer Auflösung des Widerspruchs, und die entsprechende Verstandesvorstellung, der unendliche Progreß, ist unmittelbar nichts als der perennirend gesetzte Widerspruch selbst.
+
+[^gw19-73-1]: *) In den eignen Worten von Kants Kritik der Urtheilskraft S. 427. Endzweck ist blos ein Begriff unserer praktischen Vernunft und kann aus keinen Datis der Erfahrung zu theoretischer Beurtheilung der Natur gefolgert, noch auf Erkenntniß derselben bezogen werden. Es ist kein Gebrauch von diesem Begriffe möglich als lediglich für die praktische Vernunft nach moralischen Gesetzen, und der Endzweck der Schöpfung ist diejenige Beschaffenheit der Welt, die zu dem, was wir allein nach Gesetzen bestimmt angeben können, nämlich dem Endzwecke unserer reinen praktischen Vernunft, und zwar sofern sie praktisch seyn soll, übereinstimmt. |
+
+Es kann noch eine allgemeine Bemerkung über das Resultat gemacht werden, welches sich aus der kritischen Philosophie für die Natur des Erkennens ergeben, und zu einem der Vorurtheile oder allgemeinen Voraussetzungen der Zeit erhoben hat.
+
+In jedem dualistischen System nämlich, insbesondere aber im Kantischen gibt sich sein Grundmangel durch die Inconsequenz das zu vereinen, was einen Augenblick vorher als selbstständig somit als unvereinbar erklärt worden ist, zu erkennen. Wie so eben das Vereinte für das Wahrhafte erklärt worden ist, so wird sogleich vielmehr für das Wahrhafte erklärt, daß die beiden Momente, denen in der Vereinung als [orig. 69] ihrer Wahrheit, das Für-[p. 74] sichbestehen abgesprochen worden ist, nur so, wie sie getrennte sind, Wahrheit und Wirklichkeit haben. Es fehlt bei solchem Philosophiren das einfache Bewußtseyn, daß mit diesem Herüber- und Hinübergehen selbst jede dieser einzelnen Bestimmungen für unbefriedigend erklärt wird, und der Mangel besteht in der einfachen Unvermögenheit, zwei Gedanken - und es sind der Form nach nur zwei vorhanden zusammen zu bringen. Es ist darum die größte Inconsequenz, einerseits zuzugeben, daß der Verstand nur Erscheinungen erkennt, und andererseits dies Erkennen als etwas Absolutes zu behaupten, indem man sagt: das Erkennen könne nicht weiter, dies sey die natürliche, absolute Schranke des menschlichen Wissens. Die natürlichen Dinge sind beschränkt, und nur natürliche Dinge sind sie, in sofern sie nichts von ihrer allgemeinen Schranke wissen, in sofern ihre Bestimmtheit nur eine Schranke für uns ist, nicht für sie. Als Schranke, Mangel wird etwas nur gewußt, ja empfunden, indem man zugleich darüber hinaus ist. Die lebendigen Dinge haben das Vorrecht des Schmerzens vor den leblosen; selbst für jene wird eine einzelne Bestimmtheit, zur Empfindung eines Negativen, weil sie als lebendig die Allgemeinheit der Lebendigkeit, die über das Einzelne hinaus ist, in ihnen haben, in dem Negativen ihrer selbst sich noch erhalten und diesen Widerspruch als in ihnen existirend empfinden; dieser Widerspruch ist nur in ihnen, in sofern beides in dem Einen Subject ist, die Allgemeinheit seines Lebensgefühls, und die gegen dasselbe negative Einzelnheit. Schranke, Mangel des Erkennens ist ebenso nur als Schranke, Mangel bestimmt, durch die Vergleichung mit der vorhandenen Idee des Allgemeinen, eines Ganzen und Vollendeten. Es ist daher nur Bewußtlosigkeit, nicht einzusehen, daß eben die Bezeichnung von Etwas als einem Endlichen oder Beschränkten den Beweis von der wirklichen Gegenwart des Unendlichen, Unbeschränkten enthält, daß das Wissen von Gränze nur seyn kann, in sofern das Unbegränzte diesseits im Bewußtseyn ist.
+
+Ueber das Kantische Resultat vom Erkennen kann noch die Bemerkung angeschlossen werden, daß die Kantische Philosophie auf die Behandlung der Wissenschaften keinen Einfluß hat haben können. Sie läßt die Kategorien und die Methode des gewöhnlichen Erkennens ganz unangefochten. Wenn in wissenschaftlichen Schriften damaliger Zeit zuweilen der Anlauf mit Sätzen der Kantischen Philosophie genommen ist, so zeigt sich im Verfolge der Abhandlung selbst, daß jene Sätze nur ein überflüssiger [p. 75] Zierrath waren, und derselbe empirische Inhalt aufgetreten wäre, wenn jene etlichen ersten Blätter weggelassen worden wären.[^gw19-75-1]
+
+[^gw19-75-1]: *) Sogar im »Handbuche der Metrik von Herrmann,« ist der Anfang mit Paragraphen Kantischer Philosophie gemacht; ja in §. 8. wird gefolgert, daß das Gesetz des Rhythmus 1) ein objectives, 2) ein formales, 3) ein a priori bestimmtes Gesetz seyn müsse; man vergleiche nun mit diesen Foderungen und den weiter folgenden Principien von Causalität und Wechselwirkung, die Abhandlung der Versmaße selbst, auf welche jene formellen Principien nicht den geringsten Einfluß ausüben. |
+
+Was die nähere Vergleichung der Kantischen Philosophie mit dem metaphysicirenden Empirismus betrifft, so hält sich zwar der unbefangene Empirismus an die sinnliche Wahrnehmung, aber läßt ebenso eine geistige Wirklichkeit, eine übersinnliche Welt zu, wie auch ihr Inhalt beschaffen sey, ob er aus dem Gedanken, aus der Phantasie u.s.f. abstamme. Der Form nach hat dieser Inhalt die Beglaubigung, wie der sonstige Inhalt des empirischen Wissens in der Autorität der äußern Wahrnehmung, in geistiger Autorität. [orig. 71] Der reflectirende und die Consequenz sich zum absoluten Princip machende Empirismus, bekämpft solchen Dualismus des letzten, höchsten Inhalts, und negirt die Selbstständigkeit des denkenden Princips und einer in ihm sich entwickelnden geistigen Welt. Der Materialismus, Naturalismus ist das consequente System des Empirismus. Die Kantische Philosophie stellt diesem Empirismus das Princip des Denkens und der Freiheit schlechthin gegenüber, und schließt sich dem ersten Empirismus an, ohne im geringsten aus dessen allgemeinem Princip heraus zu treten. Die eine Seite ihres Dualismus bleibt die Welt der Wahrnehmung und des über sie reflectirenden Verstandes, die zwar für eine Welt nur von Erscheinungen ausgegeben wird. Dies ist ein bloßer Titel, eine nur formelle Bestimmung, denn Quelle, Gehalt und Betrachtungsweise bleiben ganz dieselben. Die andere Seite ist dagegen die Selbstständigkeit des sich erfassenden Denkens, das Princip der Freiheit, welches sie mit der vormaligen, gewöhnlichen Metaphysik gemein hat, aber alles Inhaltes entleert, und ihm keinen wieder zu verschaffen vermag. Dies Denken, hier Vernunft genannt, wird als aller Bestimmung beraubt, aller Autorität enthoben. Die Hauptwirkung, welche die Kantische Philosophie gehabt hat, ist gewesen, das Bewußtseyn dieser absoluten Innerlichkeit erweckt zu haben, die, ob sie um ihrer Abstraction willen zwar aus sich zu nichts sich entwickeln und keine Bestimmungen, weder Erkenntnisse noch moralische Gesetze hervorbringen [p. 76] kann, doch schlechthin sich weigert, etwas, das den Charakter einer Aeußerlichkeit hat, in sich gewähren und gelten zu lassen. Das Princip der Unabhängigkeit der Vernunft, ihrer absoluten Selbstständigkeit in sich, ist von nun an als allgemeines Princip der Philosophie, wie als eines der Vorurtheile der Zeit, anzusehen. [orig. 72]
+
+## C.
+
+## DRITTE STELLUNG DES DENKENS ZUR OBJECTIVITÄT.
+
+## DAS UNMITTELBARE WISSEN.
+
+§. 61.
+
+In der kritischen Philosophie wird das Denken so aufgefaßt, daß es subjectiv und dessen letzte, unüberwindliche Bestimmung die abstracte Allgemeinheit, die formelle Identität sey; es wird so der Wahrheit, als in sich concreter Allgemeinheit entgegengesetzt. Die Bestimmtheit und der Gehalt der Kategorien für sich bleibt außer der Betrachtung. Der entgegengesetzte Standpunkt ist, das Denken als Thätigkeit nur des Besondern aufzufassen, und es auf diese Weise gleichfalls für unfähig zu erklären, Wahrheit zu fassen.
+
+§. 62.
+
+Das Denken als Thätigkeit des Besondern hat nur die Kategorien zu seinem Producte und Inhalte. Diese, wie sie für sich unmittelbar genommen werden, wie sie der Verstand festhält, sind beschränkte Bestimmungen, Formen des Bedingten, Abhängigen, Vermittelten. Für das darauf beschränkte Denken ist das Unendliche, das Wahre, nicht; es kann keinen Uebergang zu demselben machen (gegen die Beweise vom Daseyn Gottes). Diese Denkbestimmungen werden auch Begriffe genannt; und [orig. 73] einen Gegenstand begreifen heißt in sofern nichts als ihn in der Form eines Bedingten und Vermittelten fassen, somit in sofern er das Wahre, Unendliche, Unbedingte ist, ihn in ein Bedingtes und Vermitteltes verwandeln, und auf solche Weise, statt das Wahre denkend zu fassen, es vielmehr in Unwahres verkehren.
+
+Dies ist die einzige, einfache Polemik, welche der das nur unmittelbare Wissen von Gott und dem Wahren behauptende Standpunkt vorbringt. Früher sind die sogenannten anthropopathischen Vorstellungen aller Art, von Gott als endlich und daher des Unendlichen unwürdig entfernt worden, und [p. 77] er war dadurch bereits zu einem erkleklich leeren Wesen gediehen. Aber die Denkbestimmungen wurden im Allgemeinen noch nicht unter dem Anthropopathischen befaßt; vielmehr galt das Denken dafür, daß es den Vorstellungen des Absoluten die Endlichkeit abstreife, nach dem oben bemerkten Vorurtheile aller Zeiten, daß man erst durch das Nachdenken zur Wahrheit gelange. Nun sind zuletzt auch die Denkbestimmungen überhaupt für Anthropopathismus, und das Denken für die Thätigkeit, nur zu verendlichen, erklärt worden. In der VII. Beilage zu den Briefen über Spinoza, hat Jacobi diese Polemik am bestimmtesten vorgetragen, welche er übrigens aus Spinoza's Philosophie selbst geschöpft und für die Bekämpfung des Erkennens überhaupt angewendet hat. Von dieser Polemik wird das Erkennen nur als Erkennen des Endlichen aufgefaßt, als das denkende Fortgehen durch Reihen von Bedingtem zu Bedingtem, in denen jedes, was Bedingung, selbst wieder nur ein Bedingtes ist; - durch bedingte Bedingungen. Erklären und Begreifen heißt hienach, Etwas als vermittelt durch ein Anderes aufzeigen; somit ist aller Inhalt nur ein besonderer, abhängiger und endlicher; das Unendliche, Wahre, Gott liegt außer dem Mechanismus solchen Zusammenhangs, auf welchen [orig. 74] das Erkennen eingeschränkt sey. Es ist wichtig, daß indem die Kantische Philosophie die Endlichkeit der Kategorien vornehmlich nur in die formelle Bestimmung ihrer Subjectivität gesetzt, in dieser Polemik die Kategorien nach ihrer Bestimmtheit, der Inhalt des Denkens, zur Sprache kommen, und die Kategorie als solche, als endlich erkannt wird. - Jacobi hat insbesondere die glänzenden Erfolge der Wissenschaften, die sich auf die Natur beziehen, (der sciences exactes) im Erkennen der natürlichen Kräfte und Gesetze vor Augen gehabt. Immanent auf diesem Boden des Endlichen läßt sich freilich das Unendliche nicht finden; wie denn Lalande gesagt hat, daß er den ganzen Himmel durchsucht, aber Gott nicht gefunden habe. (vergl. Anm. zu §. 60.) Als letztes Resultat ergab sich auf diesem Boden das Allgemeine, als das unbestimmte Aggregat des äußerlichen Endlichen, die Materie; und Jacobi sah mit Recht keinen andern Ausgang auf dem Wege des bloßen Fortgehens in Vermittlungen.
+
+§. 63.
+
+Zugleich wird behauptet, daß die Wahrheit für den Geist ist, so sehr daß es die Vernunft allein ist, durch welche der Mensch besteht, und daß sie das Wissen von Gott ist. Weil aber das vermittelte Wissen nur auf endlichen Inhalt [p. 78] eingeschränkt seyn soll, (s. vorherg. §.) so ist die Vernunft unmittelbares Wissen, Glaube.
+
+Wissen, Glauben, Denken, Anschauen sind die auf diesem Standpunkte vorkommenden Kategorien, die, indem sie als bekannt vorausgesetzt werden, nur zu häufig nach bloßen psychologischen Vorstellungen und Unterscheidungen willkührlich gebraucht werden; was ihre Natur und Begriff ist, dies worauf es allein ankäme, wird nicht untersucht. So findet man das Wissen sehr gewöhnlich dem Glauben entgegen gesetzt, während zugleich Glauben als unmittelbares Wissen bestimmt, hiemit sogleich auch für ein Wissen anerkannt wird. Es wird sich auch wohl als empirische Thatsache finden, daß das im Bewußtseyn ist, was man glaubt, daß man somit wenigstens davon weiß; auch daß, was man glaubt, als etwas Gewisses im Bewußtseyn ist, daß man es also weiß. So wird ferner vornehmlich Denken dem unmittelbaren Wissen und Glauben, und insbesondere dem Anschauen entgegengesetzt. Wird das Anschauen als intellectuell bestimmt, so kann dies nichts als denkendes Anschauen heißen, wenn man anders unter dem Intellectuellen hier, wo Gott der Gegenstand ist, etwa nicht auch Phantasievorstellungen und Bilder verstehen will. Es sey, daß, wie in der Sprache dieses Philosophirens geschieht, Glauben auch in Beziehung auf die gemeinen Dinge der sinnlichen Gegenwart gesagt wird. (Wir glauben, sagt Jacobi, daß wir einen Körper haben, wir glauben an die Existenz der sinnlichen Dinge.) Allein wenn vom Glauben an das Wahre und Ewige die Rede ist, davon, daß Gott in dem unmittelbaren Wissen, Anschauen geoffenbart, gegeben sey, so sind dies keine sinnliche Dinge, sondern ein in sich allgemeiner Inhalt, nur Gegenstände für den denkenden Geist. Auch indem die Einzelnheit als Ich, die Persönlichkeit, in sofern nicht ein empirisches Ich, eine besondere Persönlichkeit verstanden wird, vornehmlich indem die Persönlichkeit Gottes vor dem Bewußtseyn ist, so ist überhaupt von reiner, d. i. der in sich allgemeinen Persönlichkeit, die Rede; diese Einzelnheit selbst als solche ist Gedanke, und kommt nur dem Denken zu. Reines Anschauen ist nur ganz dasselbe, was reines Denken ist. Anschauen, Glauben drücken zunächst die bestimmten Vorstellungen aus, die wir mit diesen Worten im gewöhnlichen Bewußtseyn verbinden; so sind sie vom Denken freilich verschieden, und | dieser Unterschied ist ungefähr jedem verständlich. Aber zugleich sollen nun Glauben und Anschauen in höherem Sinn, sie sollen als Glauben an Gott, als intellectuelles Anschauen Gottes, genommen werden, d. h. es soll gerade von dem abstrahirt werden, [p. 79] was den Unterschied von Anschauen, Glauben und vom Denken ausmacht. Es ist nicht zu sagen, wie Glauben und Anschauen in diese höhere Region versetzt, noch vom Denken verschieden seyen. Man meynt mit solchen leer gewordenen Unterschieden sehr Wichtiges gesagt und behauptet zu haben, und Bestimmungen zu bestreiten, welche mit den behaupteten dieselben sind. Der Ausdruck Glauben jedoch führt den besondern Vortheil mit sich, daß er an den christlich-religiösen Glauben erinnert, diesen einzuschließen oder gar leicht dasselbe zu seyn scheint, so daß dieses gläubige Philosophiren wesentlich fromm und christlich-fromm aussieht und auf den Grund dieser Frömmigkeit hin sich die Freiheit gibt, um so mehr mit Prätension und Autorität seine beliebigen Versicherungen zu machen. Man muß sich aber vom Scheine nicht über das, was sich durch die bloße Gleichheit der Worte einschleichen kann, täuschen lassen und den Unterschied wohl festhalten. Der christliche Glaube schließt eine Autorität der Kirche in sich, der Glaube aber jenes philosophirenden Standpunktes ist nur die Autorität der eignen subjectiven Offenbahrung; ferner ist jener Glaube ein objectiver, in sich reicher Inhalt (ein System der Lehre und der Erkenntniß); der Inhalt dieses Glaubens aber ist so unbestimmt in sich, daß er jenen Inhalt zwar wohl auch etwa zuläßt, aber eben so sehr auch den Glauben, daß der Dalailama, der Stier, der Affe u.s.f. Gott ist, in sich begreift, auch daß er sich auf jenen Gott überhaupt, das höchste Wesen, einschränkt. Der Glaube selbst in jenem philosophisch-seynsollenden Sinne ist nichts als das trockne Abstractum des unmittelbaren Wissens, eine ganz formelle Bestimmung, [orig. 77] die nicht mit der geistigen Fülle des christlichen Glaubens, weder nach der Seite des gläubigen Herzens und des ihm inwohnenden heiligen Geistes, noch nach der Seite der inhaltsvollen Lehre, zu verwechseln, noch für diese Fülle zu nehmen ist.
+
+Mit dem, was hier Glaube und unmittelbares Wissen heißt, ist übrigens ganz dasselbe, was sonst Eingebung, Offenbahrung des Herzens, ein von Natur in den Menschen eingepflanzter Inhalt, ferner insbesondere gesunder Menschenverstand, common sense, Gemeinsinn, genannt worden ist. Alle diese Formen machen auf die gleiche Weise die Unmittelbarkeit, wie sich ein Inhalt im Bewußtseyn findet, eine Thatsache in diesem ist, zum Princip.
+
+§. 64.
+
+Das aber, was dies unmittelbare Wissen weiß, ist, daß das Unendliche, Ewige, Gott, das in unserer Vorstellung ist, auch ist, daß im Bewußtseyn mit dieser Vorstellung unmittelbar und unzertrennlich die Gewißheit ihres Seyns verbunden ist.
+
+[p. 80] Es kann der Philosophie am wenigsten in Sinn kommen, diesen Sätzen des unmittelbaren Wissens widersprechen zu wollen; sie könnte sich vielmehr Glück wünschen, daß diese ihre alten Sätze, welche sogar ihren ganzen allgemeinen Inhalt ausdrücken, auf solche freilich unphilosophische Weise gewissermaßen ebenfalls zu allgemeinen Vorurtheilen der Zeit geworden sind. Vielmehr kann man sich nur darüber wundern, daß man meynen konnte, der Philosophie seyen diese Sätze entgegengesetzt, die Sätze: daß das, was für wahr gehalten wird, dem Geiste immanent (§. 63.) und daß für den Geist Wahrheit sey (ebendas.). In formeller Rücksicht ist insbesondere der letzte Satz interessant, daß nämlich mit dem Gedanken Gottes sein Seyn, mit der Subjectivität, die der Gedanke zunächst hat, [orig. 78] die Objectivität unmittelbar und unzertrennlich verknüpft ist. Ja die Philosophie des unmittelbaren Wissens, geht in ihrer Abstraction so weit, daß nicht nur mit dem Gedanken Gottes allein, sondern auch in der Anschauung mit der Vorstellung meines Körpers und der äußerlichen Dinge die Bestimmung ihrer Existenz ebenso unzertrennlich verbunden sey. Wenn die Philosophie solche Einheit zu beweisen, d. i. zu zeigen bestrebt ist, daß es in der Natur des Gedankens oder der Subjectivität selbst liege, unzertrennlich von dem Seyn oder der Objectivität zu seyn, so möchte es mit solchem Beweisen eine Bewandniß haben, welche es wollte, die Philosophie muß auf allen Fall damit ganz zufrieden seyn, daß behauptet und gezeigt wird, daß ihre Sätze auch Thatsachen des Bewußtseyns sind, hiemit mit der Erfahrung übereinstimmen. - Der Unterschied zwischen dem Behaupten des unmittelbaren Wissens und zwischen der Philosophie läuft allein darauf hinaus, daß jenes dem unmittelbaren Wissen eine ausschließende Stellung gibt, oder allein darauf, daß es sich selbst dem Philosophiren entgegenstellt. Aber auch in der Weise der Unmittelbarkeit ist jener Satz, um den, wie man sagen kann, sich das ganze Interesse der neuern Philosophie dreht, sogleich von deren Urheber ausgesprochen worden: Cogito, ergo sum. Man muß von der Natur des Schlusses etwa nicht viel mehr wissen, als daß in einem Schlusse: Ergo, vorkomme, um jenen Satz für einen Schluß anzusehen; wo wäre der medius terminus, und ein solcher gehört doch wohl wesentlicher zum Schlusse, als das Wort: Ergo. Will man aber, um den Namen zu rechtfertigen, jene Verbindung einen unmittelbaren Schluß nennen, so heißt diese überflüssige Form nichts anderes, als eine durch nichts vermittelte Verknüpfung unterschiedener Bestimmungen, und dann ist die Verknüpfung des Seyns mit unsern Vorstellungen, welche [orig. 79] der Satz unmittelbaren Wissens ausdrückt, nicht mehr und nicht weniger ein Schluß. - Aus Herrn Hotho's demnächst zu erscheinenden Dissertation über die Cartesische [p. 81] Philosophie, die mir so eben in die Hand kommt, entnehme ich die Citate, in denen auch Cartesius selbst ausdrücklich sich darüber erklärt, daß der Satz: cogito ergo sum, kein Schluß ist; die Stellen sind Respons. ad II. Object. De Methodo IV. Ep. I. 118. Aus ersterer Stelle führe ich die nähern Ausdrücke an. Cartesius sagt zunächst, daß wir denkende Wesen seyen, sey prima quaedam notio quae ex nullo syllogismo concluditur und fährt fort: neque cum quis dicit: ego cogito, ergo sum sive existo, existentiam ex cogitatione per syllogismum deducit. Da Cartesius weiß, was zu einem Schlusse gehört, so fügt er hinzu, daß, wenn bei jenem Satz eine Ableitung durch einen Schluß Statt finden sollte, so gehörte hiezu der Obersatz: illud omne, quod cogitat, est sive existit. Dieser letztere Satz sey aber ein solcher, den man erst aus jenem ersten Satze vielmehr ableite.
+
+Die Ausdrücke des Cartesius über den Satz der Unzertrennlichkeit meiner als Denkenden vom Seyn, daß in der einfachen Anschauung des Bewußtseyns dieser Zusammenhang enthalten und gegeben, daß er schlechthin Erstes, Princip, das Gewisseste und Evidenteste sey, so daß kein Skepticismus so enorm vorgestellt werden könne, um dies nicht zuzulassen – sind so bestimmt, daß die modernen Sätze Jacobi's und anderer über diese unmittelbare Verknüpfung nur für überflüssige Wiederholungen gelten können.
+
+§. 65.
+
+Dieser Standpunkt begnügt sich nicht damit, von dem vermittelten Wissen gezeigt zu haben, daß es, isolirt genommen, für die Wahrheit ungenügend sey, sondern seine Eigenthümlichkeit besteht darin, daß das unmittelbare Wissen nur isolirt genommen, mit Ausschließung der Vermittlung, die Wahrheit zum Inhalte habe. Der genannte Standpunkt ist hiemit sogleich nichts, als ein Zurückfallen in den metaphysischen Verstand, in das Entweder Oder desselben, damit in der That selbst in das Verhältniß der Vermittlung, das auf dem Festhalten an Endlichem, d. i. einseitigen Bestimmungen beruht und über die jene Ansicht fälschlich sich hinausgesetzt zu haben meynt. Das ausschließend unmittelbare Wissen wird nur als eine Thatsache behauptet, und hier in der Einleitung ist es nur nach dieser äußerlichen Reflexion aufzunehmen. An sich kommt es auf das Logische des Gegensatzes von Unmittelbarkeit und Vermittlung an; das Gemeinschaftliche beider Seiten ist das Wissen. Aber jener Standpunkt weist es ab, die Natur der Sache, d. i. den Begriff zu betrachten, denn eine solche Betrachtung führt auf Vermittlung und gar auf Erkenntniß. Die wahrhafte Betrachtung, die des Logischen, hat ihre Stelle innerhalb der Wissenschaft selbst zu finden.
+
+[p. 82] Der ganze zweite Theil der Logik, die Lehre von dem Wesen, ist Abhandlung der wesentlichen Einheit der Unmittelbarkeit und der Vermittlung.
+
+§. 66.
+
+Mit dem unmittelbaren Wissen als Thatsache genommen, ist die Betrachtung auf das Feld der Erfahrung, auf ein psychologisches Phänomen geführt. - Hiernach ist anzuführen, daß es zu den gemeinsten Erfahrungen gehört, daß Wahrheiten, von welchen man sehr wohl weiß, daß sie Resultat der verwikkeltsten, höchst vermittelten Betrachtungen sind, sich demjenigen, dem solche Erkenntniß geläufig geworden, unmittelbar in seinem Bewußtseyn präsentiren. Der Mathematiker, wie jeder in einer Wissenschaft Unterrichtete, hat Auflösungen unmittelbar gegenwärtig, zu denen eine sehr verwickelte Analysis geführt hat; jeder gebildete Mensch hat eine Menge [orig. 81] von allgemeinen Gesichtspunkten und Grundsätzen unmittelbar gegenwärtig in seinem Wissen, welche nur aus vielfachem Nachdenken und langer Lebenserfahrung hervorgegangen sind. Die Geläufigkeit, zu der wir es in irgend einer Art von Wissen, auch Kunst, technischer Geschicklichkeit gebracht haben, besteht eben darin, solche Kenntnisse, Arten der Thätigkeit, im vorkommenden Falle unmittelbar in seinem Bewußtseyn, ja selbst in einer nach Außen gehenden Thätigkeit, zu haben. – In allen diesen Fällen schließt die Unmittelbarkeit des Wissens nicht nur die Vermittlung desselben nicht aus, sondern sie sind so verknüpft, daß das unmittelbare Wissen sogar Product und Resultat des vermittelten Wissens ist.
+
+Eine eben so triviale Einsicht ist die Verknüpfung von unmittelbarer Existenz mit der Vermittlung derselben; Keime, Eltern sind eine unmittelbare, anfangende Existenz in Ansehung der Kinder u.s.f., welche Erzeugte sind. Aber die Keime, Eltern, so sehr sie als existirend überhaupt unmittelbar sind, sind sie gleichfalls Erzeugte, und die Kinder u.s.f., der Vermittlung ihrer Existenz unbeschadet, sind nun unmittelbar, denn sie sind. Daß Ich in Berlin bin, diese meine unmittelbare Gegenwart, ist vermittelt durch die gemachte Reise hieher, u.s.f.
+
+§. 67.
+
+Was aber das unmittelbare Wissen von Gott, vom Rechtlichen, vom Sittlichen betrifft, und hieher fallen auch die sonstigen Bestimmungen von Instinkt, eingepflanzten, angebornen Ideen, Gemeinsinn, von natürlicher Vernunft [p. 83] u.s.f., - welche Form man dieser Ursprünglichkeit gebe, so ist die allgemeine Erfahrung, daß, damit das, was darin enthalten ist, zum Bewußtseyn gebracht werde, ein Wissen, und daß wesentlich Erziehung, Entwicklung, (auch zur Platonschen Erinnerung) erforderlich sey; (die christliche Taufe, obgleich ein [orig. 82] Sacrament, enthält selbst die fernere Verpflichtung einer christlichen Erziehung) d. i. daß Religion, Sittlichkeit, so sehr sie ein Glauben, unmittelbares Wissen sind, schlechthin bedingt durch die Vermittlung seyen, welche Entwicklung, Erziehung, Bildung heißt.
+
+Bei der Behauptung angeborner Ideen und bei dem Widerspruch gegen dieselbe ist ein ähnlicher Gegensatz ausschließender Bestimmungen herrschend gewesen, als der hier betrachtete, der Gegensatz von der, wie es ausgedrückt werden kann, wesentlichen unmittelbaren Verknüpfung gewisser allgemeiner Bestimmungen mit der Seele, und von einer andern Verknüpfung, die auf äußerliche Weise geschähe, und durch gegebene Gegenstände und Vorstellungen vermittelt sey. Man machte der Behauptung angeborner Ideen den empirischen Einwurf, daß alle Menschen diese Ideen haben, z. B. den Satz des Widerspruchs in ihrem Bewußtseyn haben müßten, als welcher Satz mit andern dergleichen darunter gerechnet wurde. Gewiß hat er eine erklekliche Unmittelbarkeit in sich. Diesem Einwurf kann man hier Misverstand zuschreiben, in sofern die gemeynten Bestimmungen als angeborne darum nicht in der Form von Ideen, Vorstellungen von Gewußtem seyn sollen. Aber gegen das unmittelbare Wissen ist dieser Einwurf ganz treffend, denn es ist hier ausdrücklich von Bestimmungen die Rede, in sofern sie im Bewußtseyn sind. Wenn der Standpunkt des unmittelbaren Wissens etwa zugibt, daß insbesondere für den religiösen Glauben eine Entwicklung und eine christliche oder religiöse Erziehung nothwendig sey, so ist es ein Belieben, dies bei dem Reden von dem Glauben wieder ignoriren zu wollen, oder es ist die Gedankenlosigkeit, nicht zu wissen, daß mit der zugegebenen Nothwendigkeit einer Erziehung eben die Wesentlichkeit der Vermittlung ausgesprochen ist. [orig. 83]
+
+§. 68.
+
+In den angeführten Erfahrungen ist sich auf das berufen, was sich als mit dem unmittelbaren Wissen verbunden zeigt. Wenn diese Verbindung etwa zunächst als nur ein äußerlicher, empirischer Zusammenhang genommen wird, so erweist er sich in der That für die empirische Betrachtung selbst als wesentlich und unzertrennlich, weil er constant ist. Aber ferner, wenn nach der Erfahrung dieses unmittelbare Wissen für sich selbst genommen wird, in sofern es Wissen von Gott [p. 84] und vom Göttlichen ist, so wird es allgemein als ein Erheben über das Sinnliche, Endliche, wie über die unmittelbaren Begierden und Neigungen des natürlichen Herzens beschrieben, - ein Erheben, welches in den Glauben an Gott und Göttliches übergeht, in demselben endigt, so daß dieser Glaube ein unmittelbares Wissen und Fürwahrhalten ist, aber nichts desto weniger jenen Gang der Vermittlung zu seiner Voraussetzung und Bedingung hat.
+
+Es ist schon bemerkt worden, daß die sogenannten Beweise vom Daseyn Gottes, welche von dem endlichen Seyn ausgehen, diese Erhebung ausdrükken und keine Erfindungen einer künstelnden Reflexion, sondern die eignen, nothwendigen Vermittlungen des Geistes sind, wenn sie auch in der gewöhnlichen Form jener Beweise nicht ihren vollständigen und richtigen Ausdruck haben.
+
+§. 69.
+
+Der (§. 64.) bezeichnete Uebergang von der subjectiven Idee zum Seyn ist es, welcher für den Standpunkt des unmittelbaren Wissens das Hauptinteresse ausmacht, und wesentlich als ein ursprünglicher, vermittlungsloser Zusammenhang behauptet wird. Ganz ohne Rücksicht auf empirisch-scheinende Verbindungen genommen, zeigt gerade dieser Mittelpunkt in ihm selbst die Vermittlung, und zwar in ihrer Bestimmung, wie sie wahrhaft ist, nicht als [orig. 84] eine Vermittlung mit und durch ein Aeußerliches, sondern als sich in sich selbst beschließend.
+
+§. 70.
+
+Die Behauptung dieses Standpunkts ist nämlich, daß weder die Idee als ein blos subjectiver Gedanke das Wahre ist, noch blos ein Seyn für sich; - das Seyn nur für sich, ein Seyn nicht der Idee, ist das sinnliche, endliche Seyn der Welt. Es wird damit unmittelbar behauptet, daß die Idee nur vermittelst des Seyns, und umgekehrt das Seyn nur vermittelst der Idee, das Wahre ist. Der Satz des unmittelbaren Wissens will mit Recht nicht die unbestimmte, leere Unmittelbarkeit, das abstracte Seyn, oder reine Einheit für sich, sondern die Einheit der Idee mit dem Seyn. Es ist aber Gedankenlosigkeit, nicht zu sehen, daß die Einheit unterschiedener Bestimmungen, nicht blos rein unmittelbare, d. i. ganz unbestimmte und leere Einheit, sondern daß eben darin gesetzt ist, daß die eine der Bestimmungen nur durch die andere vermittelt, Wahrheit hat, - oder wenn man will jede nur durch die andere mit der Wahrheit vermittelt ist. – Daß die Bestimmung der Vermittlung in jener Unmittelbarkeit selbst enthalten ist, ist hiemit als Factum aufgezeigt, gegen welches der Verstand, dem eigenen Grundsatze des unmittelbaren Wissens gemäß, nichts einzuwenden haben darf. Es ist so nur [p. 85] gewöhnlicher abstracter Verstand, der die Bestimmungen von Unmittelbarkeit und von Vermittlung, jede für sich, als absolut nimmt, und an ihnen etwas Festes von Unterscheidung zu haben meynt; so erzeugt er sich die unüberwindliche Schwierigkeit, sie zu vereinigen; eine Schwierigkeit, welche eben so sehr im Factum nicht vorhanden ist, als sie im speculativen Begriffe verschwindet.
+
+§. 71.
+
+Die Einseitigkeit dieses Standpunkts bringt Bestimmungen und Folgen mit sich, deren Hauptzüge nach der [orig. 85] geschehenen Erörterung der Grundlage noch bemerklich zu machen sind. Vors erste, weil nicht die Natur des Inhalts, sondern das Factum des Bewußtseyns als das Kriterium der Wahrheit aufgestellt wird, so ist das subjective Wissen, und die Versicherung, daß Ich in meinem Bewußtseyn einen gewissen Inhalt vorfinde, die Grundlage dessen, was als wahr ausgegeben wird. Was Ich in meinem Bewußtseyn vorfinde, wird damit dazu gesteigert, in dem Bewußtseyn Aller sich vorzufinden, und für die Natur des Bewußtseyns selbst ausgegeben.
+
+Vormals wurde unter den sogenannten Beweisen vom Daseyn Gottes der Consensus gentium aufgeführt, auf den sich auch schon Cicero beruft. Der Consensus gentium ist eine bedeutende Autorität, und der Uebergang davon, daß ein Inhalt sich in dem Bewußtseyn Aller finde, dazu, daß er in der Natur des Bewußtseyns selbst liege und ihm nothwendig sey, liegt nahe bei der Hand. Es lag in dieser Kategorie allgemeiner Uebereinstimmung das wesentliche, dem ungebildetsten Menschensinne nicht entgehende Bewußtseyn, daß das Bewußtseyn des Einzelnen zugleich ein Besonderes, Zufälliges ist. Wenn die Natur dieses Bewußtseyns nicht selbst untersucht, d. i. das Besondere, Zufällige desselben nicht abgesondert wird, als durch welche mühsame Operation des Nachdenkens das an- und für-sich Allgemeine desselben allein herausgefunden werden kann, so kann nur die Uebereinstimmung Aller über einen Inhalt, ein respectables Vorurtheil begründen, daß derselbe zur Natur des Bewußtseyns selbst gehöre. Für das Bedürfniß des Denkens, das, was sich als allgemein vorhanden zeigt, als nothwendig zu wissen, ist der Consensus gentium allerdings nicht genügend, aber auch innerhalb der Annahme, daß jene Allgemeinheit des Factums ein befriedigender Beweis sey, ist der Consensus gentium um der Erfahrung willen, daß [orig. 86] es Individuen und Völker gebe, bei denen sich der Glaube an [p. 86] Gott nicht vorfinde, als ein Beweis dieses Glaubens aufgegeben worden.[^gw19-86-1] Kürzer und bequemer aber gibt es nichts, als die bloße Versicherung zu machen zu haben, daß Ich einen Inhalt in meinem Bewußtseyn mit der Gewißheit seiner Wahrheit finde, und daß daher diese Gewißheit nicht mir als besonderem Subjecte, sondern der Natur des Geistes selbst angehöre.
+
+[^gw19-86-1]: *) Um in der Erfahrung den Atheismus, und den Glauben an Gott, mehr oder weniger ausgebreitet zu finden, kommt es darauf an, ob man mit der Bestimmung von einem Gott überhaupt zufrieden ist, oder ob eine bestimmtere Erkenntniß desselben gefodert wird. Von den chinesischen und indischen u.s.f. Götzen wenigstens, eben so wenig von den africanischen Fetischen, auch von den griechischen Göttern selbst, wird in der christlichen Welt nicht zugegeben werden, daß solche Götzen Gott sind; wer an solche glaubt, glaubt daher nicht an Gott. Wird dagegen die Betrachtung gemacht, daß in solchem Glauben an Götzen doch an sich der Glaube an Gott überhaupt, wie im besondern Individuum die Gattung, liege, so haben dennoch die Athenienser die Dichter und Philosophen, welche den Zevs u.s.f. nur für Wolken u.s.f. hielten und nur einen Gott überhaupt behaupteten, als Atheisten behandelt; es kommt in der That nicht darauf an, was an sich in einem Gegenstande enthalten sey, sondern was für das Bewußtseyn heraus ist. – So wäre jede, die gemeinste sinnliche Anschauung des Menschen Religion, weil allerdings an sich in jeder solchen An | schauung, in jedem Geistigen, das Princip enthalten ist, welches entwickelt und gereinigt sich zur Religion steigert. Ein anderes aber ist der Religion fähig zu seyn, (und jenes Ansich drückt die Fähigkeit und Möglichkeit aus) ein anderes, Religion zu haben. – So haben in neuern Zeiten wieder Reisende (z. B. die Capitäne Roß und Parry) Völkerschaften (Eskimaux) gefunden, denen sie alle Religion absprachen, sogar so etwas von Religion, was man noch in den africanischen Zauberern (den Goëten Herodots) finden möchte. Ein Engländer, der die ersten Monate des letztverflossenen Jubeljahrs in Rom zubrachte, sagt in seiner Reisebeschreibung von den Römern, daß das gemeine Volk bigott, daß aber die, die lesen und schreiben können, sämmtlich Atheisten seyen. Die Einsicht, daß das, was nur an sich ist, so wie was nur im unmittelbaren Wissen ist, nicht genügend sey, hängt mit der wesentlichen Nothwendigkeit einer Erziehung überhaupt (vergl. §. 67.) und dem unendlichen Werth einer ächt christlichen Erziehung zusammen. |
+
+§. 72.
+
+Daraus, daß das unmittelbare Wissen das Kriterium der Wahrheit seyn soll, folgt fürs zweite, daß aller Aberglaube und Götzendienst für Wahrheit erklärt wird, und daß der unrechtlichste und unsittlichste Inhalt des Willens gerechtfertigt ist. Dem Indier gilt nicht aus sogenanntem vermitteltem Wissen, aus Raisonnements und Schlüssen, die Kuh, der Affe oder der Brahmin, der [orig. 87] Lama als Gott, sondern er glaubt daran. Die natürlichen Begierden und Neigungen aber legen von selbst ihre Interessen ins Bewußtseyn, die unmoralischen Zwecke finden sich ganz unmittelbar in demselben; der gute oder böse Charakter drückte [p. 87] das bestimmte Seyn des Willens aus, welches in den Interessen und Zwecken gewußt, und zwar am unmittelbarsten gewußt wäre.
+
+§. 73.
+
+Endlich soll das unmittelbare Wissen von Gott sich nur darauf erstrecken, daß Gott ist, nicht was Gott ist; denn das letztere würde eine Erkenntniß seyn und auf vermitteltes Wissen führen. Damit ist Gott als Gegenstand der Religion ausdrücklich auf den Gott überhaupt, auf das unbestimmte Uebersinnliche beschränkt, und die Religion ist in ihrem Inhalte auf ihr minimum reducirt. [orig. 88]
+
+Wenn es wirklich nöthig wäre, nur so viel zu bewirken, daß der Glaube, es seye ein Gott, noch erhalten werde, oder gar, daß solcher Glaube zu Stande komme, so wäre sich nur über die Armuth der Zeit zu verwundern, welche das Dürftigste des Wissens für einen Gewinn halten läßt, und dahin gekommen ist, in ihrer Kirche zu dem Altar zurückzukehren, der sich längst in Athen befand und dem unbekannten Gotte! gewidmet war.
+
+§. 74.
+
+Noch ist die allgemeine Natur der Form der Unmittelbarkeit kurz anzugeben. Es ist nämlich diese Form selbst, welche, weil sie einseitig ist, ihren Inhalt selbst einseitig, und damit endlich macht. Dem Allgemeinen gibt sie die Einseitigkeit einer Abstraction, so daß Gott zum bestimmungslosen Wesen wird; Geist aber kann Gott nur heißen, in sofern er als sich in sich selbst mit sich vermittelnd gewußt wird. Nur so ist er concret, lebendig und Geist; das Wissen von Gott als Geist enthält eben damit Vermittlung in sich. – Dem Besondern gibt die Form der Unmittelbarkeit die Bestimmung, zu seyn, sich auf sich zu beziehen. Das Besondere ist aber eben dies, sich auf Anderes außer ihm zu beziehen; durch jene Form wird das Endliche als absolut gesetzt. Da sie als ganz abstract gegen jeden Inhalt gleichgültig und eben damit jeden Inhalts empfänglich ist, so kann sie abgöttischen und unmoralischen eben so gut sanctioniren als den entgegengesetzten Inhalt. Nur diese Einsicht in denselben, daß er nicht selbstständig, sondern durch ein Anderes vermittelt ist, setzt ihn, auf seine Endlichkeit und Unwahrheit, herab. Solche Einsicht, weil der Inhalt die Vermittlung mit sich führt, ist ein Wissen, welches Vermittlung enthält. Für das Wahre aber kann nur ein Inhalt erkannt werden, in sofern er nicht mit einem Andern [p. 88] vermittelt, nicht endlich ist, sondern sich mit sich selbst vermittelt, und so in Eins Vermittlung und unmittelbare Beziehung auf sich selbst ist. - Jener Verstand, der sich von dem endlichen Wissen, der Verstandes-Identität der Metaphysik und der Aufklärung, losgemacht zu haben meynt, macht selbst unmittelbar wieder diese Unmittelbarkeit, d.i. die abstracte Beziehung-auf-sich, die abstracte Identität zum Princip und Kriterium der Wahrheit. Abstractes Denken (die Form der reflectirenden Metaphysik) und abstractes Anschauen (die Form des unmittelbaren Wissens) sind ein und dasselbe.
+
+§. 75.
+
+Die Beurtheilung dieser dritten Stellung, die dem Denken zur Wahrheit gegeben wird, hat nur auf eine Weise vorgenommen werden können, welche dieser Standpunkt unmittelbar an ihm selbst angibt und zugesteht. Es ist hiemit als factisch falsch aufgezeigt worden, daß es ein unmittelbares Wissen gebe, welches ohne Vermittlung, es sey mit Anderem oder in ihm selbst mit sich, sey. Gleichfalls ist es für factische Unwahrheit erklärt worden, daß das Denken nur an durch Anderes vermittelten Bestimmungen, endlichen und bedingten, gehe, und daß sich nicht ebenso in der Vermittlung diese Vermittlung selbst aufhebe. Von dem Factum aber solchen Erkennens, das weder in einseitiger Unmittelbarkeit noch in einseitiger Vermittlung fortgeht, ist die Logik selbst und die ganze Philosophie das Beispiel.
+
+fort-
+
+§. 76.
+
+In Beziehung auf den Ausgangspunkt, die oben sogenannte unbefangene Metaphysik, das Princip des unmittelbaren Wissens betrachtet, so ergibt sich aus der Vergleichung, daß dasselbe zu jenem Anfang, den diese Metaphysik in der neuern Zeit als Cartesische Philosophie genommen hat, zurückgekehrt ist. In beiden ist behauptet:
+
+1) Die einfache Untrennbarkeit des Denkens und Seyns des Denkenden Cogito ergo sum, ist ganz dasselbe, daß mir im Bewußtseyn das Seyn, Realität, Existenz des Ich unmittelbar geoffenbart sey; (Cartesius erklärt zugleich ausdrücklich Princ. phil. I. 9, daß er unter Denken das Bewußtseyn überhaupt als solches verstehe,) und daß jene Untrennbarkeit die schlechthin erste (nicht vermittelte, bewiesene) und gewisseste Erkenntniß sey.
+
+[p. 89] 2) Ebenso die Unzertrennlichkeit der Vorstellung von Gott und seiner Existenz, so daß diese in der Vorstellung Gottes selbst enthalten ist, jene Vorstellung schlechthin nicht ohne die Bestimmung der Existenz, diese somit eine nothwendige und ewige ist.[^gw19-89-1]
+
+[^gw19-89-1]: *) Cart. Princ. phil. I. 15. magis hoc (ens summe perfectum existere) credet, si attendat, nullius alterius rei ideam apud se inveniri, in qua eodem modo necessariam existentiam contineri animadvertat; - intelliget, illam ideam exhibere veram et immutabilem naturam, quaeque non potest non existere, cum necessaria existentia in ea contineatur. Eine darauf folgende Wendung, die wie eine Vermittlung und Beweis lautet, thut dieser ersten Grundlage keinen Eintrag. - Bei Spinoza ist es ganz dasselbe, daß Gottes Wesen, d. i. die abstracte Vorstellung, die Existenz in sich schließe. Die erste Definition Spinoza's ist die von Causa sui, daß sie ein solches sey, cujus essentia involvit existentiam; sive id, cujus natura non potest concipi, nisi existens; – die Untrennbarkeit des Begriffs vom Seyn ist die Grundbestimmung und Voraussetzung. Aber welcher | Begriff ist es, dem diese Untrennbar-
+
+3) Was das gleichfalls unmittelbare Bewußtseyn von der Existenz äußerer Dinge betrifft, so heißt dasselbe nichts anderes als das sinnliche Bewußtseyn; daß wir ein solches haben ist die geringste der Erkenntnisse; es hat allein Interesse zu wissen, daß dies unmittelbare Wissen [orig. 91] von dem Seyn der äußerlichen Dinge Täuschung und Irrthum, und in dem Sinnlichen als solchem keine Wahrheit ist, das Seyn dieser äußerlichen Dinge vielmehr ein zufälliges, vorübergehendes, ein Schein ist, – daß sie wesentlich dies sind, nur eine Existenz zu haben, die von ihrem Begriff, Wesen trennbar ist.
+
+§. 77.
+
+Unterschieden sind aber beide Standpunkte.
+
+1) Die Cartesische Philosophie geht von diesen unbewiesenen und für unbeweisbar angenommenen Voraussetzungen fort zu weiterer, entwickelter Erkenntniß, und hat auf diese Weise den Wissenschaften den Ursprung gegeben. Der moderne Standpunkt dagegen ist zu dem für sich wichtigen Resultate gekommen (§. 62.), daß das Erkennen, welches an endlichen Vermittlungen fortgehe keit vom Seyn zukommt? nicht der von endlichen Dingen, denn diese sind eben solche, deren Existenz eine zufällige und erschaffene ist. Daß bei Spinoza die 11te Proposition: daß Gott nothwendig existire, mit einem Beweise folgt, ebenso die 20ste: daß Gottes Existenz und sein Wesen, ein und dasselbe sind, – ist ein völlig überflüssiger Formalismus des Beweisens. Gott ist die (und zwar einzige) Substanz, die Substanz aber ist Causa sui, also existirt Gott nothwendig – heißt nichts anderes, als daß Gott dies ist, dessen Begriff und Seyn unzertrennlich ist; ob Gott auch als Substanz, als Causa sui bestimmt werde, thut in dieser Rücksicht nichts zur Sache.
+
+[p. 90] nur Endliches erkenne und keine Wahrheit enthalte; und verlangt an das Bewußtseyn von Gott, daß es bei jenem und zwar ganz abstracten Glauben stehen bleibe.[^gw19-90-1] 2) Der moderne Standpunkt ändert dabei einerseits nichts an der von Cartesius eingeleiteten Methode des gewöhnlichen wissenschaftlichen Erkennens, und führt die daraus entsprungenen Wissenschaften des Empirischen und Endlichen ganz auf dieselbe Weise fort, – andererseits aber verwirft dieser Standpunkt diese Methode, und damit weil er keine andere kennt, alle Methoden für das Wissen von dem seinem Gehalte nach Unendlichen; er überläßt sich darum der wilden Willkühr der Einbildungen und Versicherungen, oder einem maßlosen Gutdünken und Raisonnement, welches sich am stärksten gegen Philosophie und Philosopheme erklärt; die Philosophie gestattet nämlich nicht ein bloßes Versichern, noch Einbilden noch beliebiges Hin- und Herdenken des Raisonnements.
+
+[^gw19-90-1]: *) Anselmus sagt dagegen: Negligentiae mihi videtur, si postquam confirmati sumus in fide, non studemus, quod credimus, intelligere. (Tractat. cur Deus homo) – Anselm hatte dabei an dem concreten Inhalte der christlichen Lehre eine ganz andere schwere Aufgabe für das Erkennen, als das, was jener moderne Glaube enthält. |
+
+§. 78.
+
+Der Gegensatz von einer selbstständigen Unmittelbarkeit des Inhalts oder Wissens und einer dagegen eben so selbstständigen Vermittlung, die mit jener unvereinbar sey, ist zunächst deswegen bei Seite zu setzen, weil er eine bloße Voraussetzung und beliebige Versicherung ist. Eben so sind alle andere Voraussetzungen oder Vorurtheile bei dem Eintritt in die Wissenschaft aufzugeben, sie mögen aus der Vorstellung oder dem Denken genommen seyn; denn es ist die Wissenschaft, in welcher alle dergleichen Bestimmungen erst untersucht und was an ihnen und ihren Gegensätzen sey erkannt werden soll.
+
+Der Skepticismus, als eine durch alle Formen des Erkennens durchgeführte, negative Wissenschaft, würde sich als eine Einleitung darbieten, worin die Nichtigkeit solcher Voraussetzungen dargethan würde. Aber er würde nicht nur ein unerfreulicher Weg, sondern auch darum etwas überflüssiges seyn, weil das Dialektische selbst ein wesentliches Moment der affirmativen Wissenschaft ist, wie sogleich bemerkt werden wird. Uebrigens hätte er die endlichen Formen auch nur empirisch und unwissenschaftlich zu finden und als gegeben aufzunehmen. Die Foderung eines solchen [p. 91] vollbrachten Skepticismus ist dieselbe mit der, daß der Wissenschaft das Zweifeln an Allem, oder vielmehr die Verzweiflung an Allem, d. i. die gänzliche Voraussetzungslosigkeit an Allem vorangehen solle. Sie ist eigentlich in dem Entschluß, rein denken zu wollen, durch die Freiheit vollbracht, welche von Allem abstrahirt, und ihre reine Abstraction, die Einfachheit des Denkens, erfaßt.
+
+## NÄHERER BEGRIFF UND EINTHEILUNG DER LOGIK.
+
+§. 79.
+
+Das Logische hat der Form nach drei Seiten a) die abstracte oder verständige, ẞ) die dialektische oder negativ-vernünftige, y) die speculative oder positiv-vernünftige.
+
+Diese drei Seiten machen nicht drei Theile der Logik aus, sondern sind Momente jedes Logisch-Reellen, das ist jedes Begriffes, oder jedes Wahren überhaupt. Sie können sämmtlich unter das erste Moment, das Verständige, gesetzt, und dadurch abgesondert auseinander gehalten werden, aber so werden sie nicht in ihrer Wahrheit betrachtet. Die Angabe, die hier von den Bestimmungen des Logischen gemacht ist, so wie die Eintheilung, ist hier ebenfalls nur anticipirt und historisch. [orig. 94]
+
+§. 80.
+
+a) Das Denken als Verstand bleibt bei der festen Bestimmtheit und der Unterschiedenheit derselben gegen andere stehen, ein solches beschränktes Abstractes gilt ihm als für sich bestehend und seyend.
+
+§. 81.
+
+β) Das dialektische Moment ist das eigene Sich-Aufheben solcher Bestimmungen und ihr Uebergehen in ihre entgegengesetzte.
+
+1) Das Dialektische vom Verstande für sich abgesondert genommen, macht, insbesondere in wissenschaftlichen Begriffen aufgezeigt, den Skepticismus aus; er enthält die bloße Negation als Resultat des Dialektischen. 2) Die [p. 92] Dialektik wird gewöhnlich als eine äußerliche Kunst betrachtet, welche durch Willkühr eine Verwirrung in bestimmten Begriffen und einen bloßen Schein von Widersprüchen in ihnen hervorbringt, so daß nicht diese Bestimmungen, sondern dieser Schein ein Nichtiges, und das Verständige dagegen vielmehr das Wahre sey. Oft ist die Dialektik auch weiter nichts, als ein subjectives Schaukelsystem von hin- und herübergehendem Raisonnement, wo der Gehalt fehlt, und die Blöße durch solchen Scharfsinn bedeckt wird, der solches Raisonnement erzeugt. In ihrer eigenthümlichen Bestimmtheit ist die Dialektik vielmehr die eigene, wahrhafte Natur der Verstandesbestimmungen, der Dinge und des Endlichen überhaupt. Die Reflexion ist zunächst das Hinausgehen über die isolirte Bestimmtheit und ein Beziehen, wodurch sie in Verhältniß gesetzt, übrigens in ihrem isolirten Gelten erhalten wird. Die Dialektik dagegen ist dies immanente Hinausgehen, worin die Einseitigkeit und Beschränktheit der Verstandesbestimmungen sich, als das was sie ist, nämlich als ihre Negation darstellt. Alles Endliche ist dies, sich selbst aufzuheben. Das Dialektische macht daher die bewegende Seele des Fortgehens aus, und ist das Princip, wodurch allein immanenter Zusammenhang und Nothwendigkeit in den Inhalt der Wissenschaft kommt, so wie in ihm überhaupt die wahrhafte nicht äußerliche Erhebung über das Endliche liegt.
+
+§. 82.
+
+γ) Das Speculative oder Positiv-Vernünftige faßt die Einheit der Bestimmungen in ihrer Entgegensetzung auf, das Affirmative, das in ihrer Auflösung und ihrem Uebergehen enthalten ist.
+
+1) Die Dialektik hat ein positives Resultat, weil sie einen bestimmten Inhalt hat, oder weil ihr Resultat wahrhaft nicht das leere, abstracte Nichts, sondern die Negation von gewissen Bestimmungen ist, welche im Resultate eben deswegen enthalten sind, weil dies nicht ein unmittelbares Nichts, sondern ein Resultat ist. 2) Dies Vernünftige ist daher, ob es wohl ein gedachtes und abstractes ist, zugleich ein Concretes, weil es nicht einfache, formelle Einheit, sondern Einheit unterschiedener Bestimmungen ist. Mit bloßen Abstractionen oder formellen Gedanken hat es darum überhaupt die Philosophie ganz und gar nicht zu thun, sondern allein mit concreten Gedanken. 3) In der speculativen Logik ist die bloße Verstandes-Logik enthalten und kann aus jener sogleich gemacht werden; es bedarf dazu nichts, als daraus das Dialektische und Vernünftige wegzulassen; so wird sie zu dem, was die gewöhnliche Logik ist, eine [p. 93] Historie von mancherlei zusammengestellten Gedankenbestimmungen, die in ihrer Endlichkeit als etwas Unendliches gelten.
+
+§. 83.
+
+Die Logik zerfällt in drei Theile: |
+
+I. In die Lehre von dem Seyn.
+
+II. Die Lehre von dem Wesen.
+
+III. Die Lehre von dem Begriffe und Idee.
+
+Nämlich in die Lehre von dem Gedanken:
+
+I. In seiner Unmittelbarkeit, - dem Begriffe an sich.
+
+II. In seiner Reflexion und Vermittlung, Schein des Begriffes.
+
+dem Fürsichseyn und
+
+III. In seinem Zurückgekehrtseyn in sich selbst und seinem entwikkelten Bei-sich-seyn, dem Begriffe an und für sich. |
+
+## [p. 94] ERSTE ABTHEILUNG DER LOGIK.
+
+## DIE LEHRE VOM SEYN.
+
+§. 84.
+
+Das Seyn ist der Begriff nur an sich, die Bestimmungen desselben sind seyende, in ihrem Unterschiede Andre gegeneinander, und ihre weitere Bestimmung (die Form des Dialektischen) ist ein Uebergehen in Anderes. Diese Fortbestimmung ist in Einem ein Heraussetzen und damit Entfalten des an sich seyenden Begriffs, und zugleich das Insichgehen des Seyns, ein Vertiefen desselben in sich selbst. Die Explication des Begriffs in der Sphäre des Seyns wird eben so sehr die Totalität des Seyns, als damit die Unmittelbarkeit des Seyns oder die Form des Seyns als solchen, aufgehoben wird.
+
+§. 85.
+
+Das Seyn selbst, so wie die folgenden Bestimmungen, nicht nur des Seyns, sondern die logischen Bestimmungen überhaupt können als Definitionen des Absoluten, als die metaphysischen Definitionen Gottes angesehen werden; näher jedoch immer nur die erste, einfache Bestimmung einer Sphäre, und dann die dritte, als welche die Rückkehr aus der Differenz zur einfachen Beziehung auf sich ist. Denn Gott metaphysisch definiren, heißt dessen Natur in Gedanken als solchen ausdrücken, die Logik aber umfaßt alle Gedanken, wie sie noch in der Form [orig. 98] von Gedanken sind. – Die zweiten Bestimmungen, als welche eine Sphäre in ihrer Differenz sind, dagegen sind die Definitionen des Endlichen. Die Form von Definitionen würde aber dies enthalten, daß ein Substrat der Vorstellung vorschwebt; denn auch das Absolute, als welches Gott im Sinne und in der Form des Gedankens ausdrücken soll, bleibt im Verhältnisse zu seinem bestimmten und wirklichen Ausdruck in Gedanken, nur ein gemeynter Gedanke, ein für sich unbestimmtes Substrat. Weil der Gedanke, die Sache, um die es hier allein zu thun ist, nur im Prädicate enthalten ist, so ist die Form eines Satzes, wie jenes Subject, etwas völlig Ueberflüssiges. (vergl. §. 31. u. unten Kap. vom Urtheile.)
+
+## [p. 95] LEHRE VOM SEYN
+
+## A.
+
+## QUALITÄT.
+
+## a. SEYN.
+
+§. 86.
+
+Das reine Seyn macht den Anfang, weil es sowohl reiner Gedanke, als das unbestimmte, einfache Unmittelbare ist; der erste Anfang aber nichts vermitteltes und weiter bestimmtes seyn kann.
+
+Alle Zweifel und Erinnerungen, die gegen das Anfangen der Wissenschaft mit dem abstracten leeren Seyn gemacht werden könnten, erledigen sich durch das einfache Bewußtseyn dessen, was die Natur des Anfangs mit sich bringt. Seyn kann bestimmt werden, als Ich = Ich, als die absolute Indifferenz oder Identität u.s.f. Diese Formen können in Rücksicht des Bedürfnisses, entweder mit einem schlechthin Gewissen, d. i. der Gewißheit seiner selbst, oder mit dem absoluten Wahren anzufangen, für die genommen werden, welche die Ersten seyn müssen. Aber [orig. 99] indem innerhalb jeder dieser Formen bereits Vermittlung ist, so sind sie nicht wahrhaft die Ersten; die Vermittlung ist ein Hinausgegangenseyn aus einem Ersten zu einem Zweiten und Hervorgehen aus Unterschiedenen. Wenn Ich=Ich, oder auch die intellectuelle Anschauung wahrhaft als nur das Erste genommen wird, so ist es in dieser reinen Unmittelbarkeit nichts anderes als Seyn, so wie das reine Seyn umgekehrt als nicht mehr dieses abstracte, sondern in sich die Vermittlung enthaltende, reines Denken oder Anschauen ist.
+
+Wird Seyn als Prädicat des Absoluten ausgesagt, so gibt dies die erste Definition desselben: Das Absolute ist das Seyn. Es ist dies die (im Gedanken) schlechthin anfängliche, abstracteste und dürftigste. Sie ist die Definition der Eleaten, aber zugleich das Bekannte, daß Gott der Inbegriff aller Realitäten ist. Es soll nämlich von der Beschränktheit, die in jeder Realität ist, abstrahirt werden, so daß Gott nur das Reale in aller Realität, das Allerrealste ist. Indem Realität bereits eine Reflexion enthält, so ist dies unmittelbarer (von Jacobi) so ausgesprochen worden: Gott ist das Seyn in allem Daseyn.
+
+[p. 96] Dies reine Seyn ist nun die reine Abstraction, damit das absolut-negative, welches, gleichfalls unmittelbar genommen, das Nichts ist.
+
+1) Es folgte hieraus die zweite Definition des Absoluten, daß es das Nichts ist; in der That ist sie darin enthalten, wenn gesagt wird, daß das Ding-ansich das unbestimmte, schlechthin form- und damit inhaltslose ist; oder auch daß Gott nur das höchste Wesen und sonst weiter nichts ist, denn als solches ist er als ebendieselbe Negativität ausgesprochen. 2) Wenn der Gegensatz in dieser Unmittelbarkeit als Seyn und Nichts ausgedrückt ist, so scheint es als zu auf fallend, daß er nichtig sey, als daß man nicht versuchen sollte, das Seyn zu fixiren und es gegen den Uebergang zu bewahren. Das Nachdenken muß in dieser Hinsicht darauf verfallen, für das Seyn eine feste Bestimmung aufzusuchen, durch welche es von dem Nichts unterschieden wäre; man nimmt es z. B. als das in allem Wechsel beharrende, die unendlich bestimmbare Materie, u.s.f. oder auch ohne Nachdenken als irgend ein Einzelnes, das nächste beste Sinnliche oder Geistige. Aber alle solche weitern und concretern Bestimmungen lassen das Seyn nicht mehr als das reine Seyn, wie es hier im Anfang unmittelbar ist. Nur in und um dieser reinen Unbestimmtheit willen ist es Nichts; ein Unsagbares; sein Unterschied von dem Nichts ist eine bloße Meinung. Es ist gerade nur um das Bewußtseyn über diese Anfänge zu thun, nämlich daß sie nichts als diese leere Abstractionen, und jede von beiden so leer ist als die andere; der Trieb, in dem Seyn oder in beiden eine feste Bedeutung zu finden, ist diese Nothwendigkeit des Seyns und Nichts an ihnen selbst, welche sie weiter führt und ihnen eine wahre, d. i. concrete Bedeutung gibt. Dieses Fortgehen ist eben die logische Ausführung, und der im Folgenden sich darstellende Verlauf. Das Nachdenken, welches tiefere Bestimmungen für sie findet, ist das logische Denken, durch welches sich solche, nur nicht auf eine zufällige, sondern nothwendige Weise hervorbringen. - Jede folgende Bedeutung, die sie erhalten, ist darum nur als eine nähere Bestimmung und wahrere Definition des Absoluten anzusehen; eine solche ist dann nicht mehr eine leere Abstraction wie Seyn und Nichts, vielmehr ein Concretes, in dem beide, Seyn und Nichts, Momente sind. – Die höchste Form des Nichts für sich wäre die Freiheit, aber sie ist die Negativität, in sofern sie sich zur höchsten Intensität in sich vertieft, und selbst auch und zwar absolute Affirmation ist. [orig. 100]
+
+[p. 97] Das Nichts ist als dieses unmittelbare, sich selbstgleiche, ebenso umgekehrt dasselbe, was das Seyn ist. Die Wahrheit des Seyns, so wie des Nichts ist daher die Einheit beider; diese Einheit ist das Werden.
+
+1) Der Satz: Seyn und Nichts ist Dasselbe, erscheint für die Vorstellung, als ein so paradoxer Satz, daß sie ihn vielleicht nicht für ernstlich gemeynt hält. In der That ist er auch von dem härtesten, was das Denken sich zumuthet, denn Seyn und Nichts sind der Gegensatz in seiner ganzen Unmittelbarkeit, d.h. ohne daß in dem einen schon eine Bestimmung gesetzt wäre, welche dessen Beziehung auf das Andere enthielte. – Sie enthalten aber diese Bestimmung, wie in dem vorhergehenden §. aufgezeigt ist, die Bestimmung, welche eben in beiden dieselbe ist. Die Deduction ihrer Einheit ist in sofern ganz analytisch; wie überhaupt der ganze Fortgang des Philosophirens, als methodischer, d. h. als nothwendiger, nichts anders ist, als nur blos das Setzen desjenigen, was in einem Begriffe schon enthalten ist. - Eben so richtig, als die Einheit des Seyns und Nichts, ist es aber auch, daß sie schlechthin verschieden sind, das Eine nicht ist was das Andere ist. Allein weil der Unterschied hier sich noch nicht bestimmt hat, denn eben Seyn und Nichts sind noch das Unmittelbare, SO ist er wie er an denselben ist, das Unsagbare, die bloße Meinung.
+
+2) Es erfodert keinen großen Aufwand von Witz, den Satz, daß Seyn und Nichts Dasselbe ist, lächerlich zu machen, oder vielmehr Ungereimtheiten vorzubringen mit der unwahren Versicherung, daß sie Consequenzen und Anwendungen jenes Satzes seyen; z. B. es sey hienach dasselbe, ob mein Haus, mein Vermögen, die Luft zum Athmen, diese Stadt, die Sonne, das Recht, der Geist, Gott sey oder nicht. Hier werden zum [orig. 102] Theil besondere Zwecke, die Nützlichkeit, die Etwas für mich hat, untergeschoben, und gefragt, ob es mir gleichgültig sey, daß die nützliche Sache sey oder nicht sey. In der That ist die Philosophie eben diese Lehre, den Menschen von einer unendlichen Menge endlicher Zwecke und Absichten zu befreien, und ihn dagegen gleichgültig zu machen, so daß es ihm allerdings dasselbe sey, ob solche Sachen sind oder nicht sind. Aber überhaupt so wie von einem Inhalte die Rede ist, so ist damit ein Zusammenhang mit andern Existenzen, Zwecken u.s.f. gesetzt, die als gültig vorausgesetzt sind; von solchen Voraussetzungen ist es nun abhängig gemacht, ob das Seyn oder Nichtseyn eines bestimmten Inhalts dasselbe sey oder [p. 98] auch nicht. Es wird ein inhaltsvoller Unterschied dem leeren Unterschiede von Seyn und Nichts untergeschoben. Dabei soll aber der Sinn jener Fragen doch dieser seyn, daß das wesentliche Interesse das Seyn oder Nichtseyn betreffe. Es ist aber für Gedankenlosigkeit zu erklären, wesentliche Zwecke, absolute Existenzen und Ideen blos unter der Bestimmung des Seyns zu betrachten. Solche concrete Gegenstände, sind noch etwas ganz anderes als nur Seyende, oder auch Nichtseyende; dürftige Abstractionen, wie Seyn und Nichts, – und sie sind, weil sie eben nur die Bestimmungen des Anfangs sind, die allerdürftigsten die es gibt, - reichen nicht hin, die Natur jener Gegenstände auszudrücken. Wenn daher ein solches Concretes unterschoben wird, so geschieht der Gedankenlosigkeit ihr Gewöhnliches, daß sie ein ganz Anderes vor die Vorstellung bekommt und davon spricht, als das, wovon die Rede ist, und hier ist blos vom abstracten Seyn und Nichts die Rede. - 3) Es kann leicht gesagt werden, daß man die Einheit des Seyns und Nichts nicht begreife. Der Begriff derselben aber ist in den vorhergehenden SS. angegeben, und er ist weiter nichts, als [orig. 103] dies angegebene; sie begreifen heißt nichts anderes, als dieses auffassen. Man versteht aber unter jenem Begreifen eigentlich mehr; es wird ein mannichfaltigeres, reicheres Bewußtseyn, eine Vorstellung verlangt, so daß ein solcher Begriff als ein concreter Fall vorgelegt werde, mit dem das Denken in seiner gewöhnlichen Praxis vertrauter wäre. In sofern nun das Nicht-begreifen-können die Ungewohnheit ausdrückt, abstracte Gedanken ohne alle sinnliche Beimischung festzuhalten, speculative Sätze zu fassen, so ist weiter nichts zu sagen, als daß die Art des philosophischen Wissens allerdings verschieden ist, von der Art des Wissens, an das man im gemeinen Leben gewöhnt ist, so wie auch von der, die in andern Wissenschaften herrscht. – Heißt das Nicht-Begreifen nur, daß man sich die Einheit des Seyns und Nichts nicht vorstellen könne, so ist dies in der That nicht der Fall. Jeder hat vielmehr unendlich viele Vorstellungen von dieser Einheit; ein Mangel dieser Vorstellung kann nur dieses sagen wollen, daß man den vorliegenden Begriff nicht in irgend einer jener Vorstellungen erkennt und sie nicht als ein Beispiel davon weiß. Das Beispiel davon, das am nächsten liegt, ist das Werden. Jedermann hat eine Vorstellung vom Werden und wird ebenso zugeben, daß es Eine Vorstellung ist; ferner daß, wenn man sie analysirt, die Bestimmung von Seyn, aber auch von dem schlechthin Andern desselben, dem Nichts darin enthalten ist; ferner daß diese beiden Bestimmungen ungetrennt in dieser Einen Vorstellung sind; so daß Werden somit Einheit des Seyns und Nichts ist. Ein gleichfalls nahe liegendes Beispiel ist der Anfang; die Sache ist noch nicht in ihrem Anfang, aber er ist nicht blos [p. 99] ihr Nichts, sondern es ist schon auch ihr Seyn darin. - Der Anfang übrigens drückt schon die Rücksicht auf das weitere Fortgehen aus; das Werden ist aber in der That auch nur Anfang, es muß weiter gegangen werden; es wird, weil [orig. 104] es der Widerspruch in sich ist, zu einem Gewordenen, zum Daseyn.
+
+Es ist aber endlich noch zu bemerken, daß der Ausdruck: Seyn und Nichts ist dasselbe, oder: die Einheit des Seyn und Nichts, - ebenso alle andere solche Einheiten des Subjects und Objects u.s.f. mit Recht anstößig ist, weil das Schiefe und Unrichtige darin liegt, daß die Einheit herausgehoben, und die Verschiedenheit zwar darin liegt, (weil es z. B. Seyn und Nichts ist, deren Einheit gesetzt ist,) aber diese Verschiedenheit nicht zugleich ausgesprochen und anerkannt ist, von ihr also nur ungehörigerweise abstrahirt, sie nicht bedacht zu seyn scheint. In der That läßt sich eine speculative Bestimmung nicht in Form eines solchen Satzes richtig ausdrücken; es soll die Einheit in der zugleich vorhandenen und gesetzten Verschiedenheit gefaßt werden. So ist Werden nicht nur die Einheit des Seyns und Nichts, sondern es ist Unruhe in sich, die Einheit, die nicht blos als Beziehung-auf-sich bewegungslos, sondern durch die Verschiedenheit des Seyns und Nichts, die in ihm ist, in sich gegen sich selbst ist. – Das Daseyn dagegen ist diese Einheit, oder das Werden in dieser Form der Einheit, eben darum ist das Daseyn einseitig und endlich. Der Gegensatz ist als ob er verschwunden wäre; er ist nur an sich in der Einheit enthalten, aber nicht in der Einheit gesetzt.
+
+## b. DASEYN.
+
+§. 89.
+
+Das Seyn im Werden, als eins mit dem Nichts, so das Nichts eins mit dem Seyn, sind nur verschwindende; das Werden fällt durch seinen Widerspruch in sich, in die Einheit, in der beide aufgehoben sind, zusammen; sein Resultat ist somit das Daseyn. [orig. 105]
+
+Es kann an diesem ersten Beispiele ein für allemal an das erinnert werden, was §. 82. und Anm. daselbst angegeben ist was allein einen Fortgang und eine Entwicklung im Wissen begründen kann, ist, die Resultate in ihrer [p. 100] Wahrheit festzuhalten. Wenn in irgend einem Gegenstande oder Begriff der Widerspruch aufgezeigt wird (- und es ist überall gar nichts, worin nicht der Widerspruch, d. i. entgegengesetzte Bestimmungen, aufgezeigt werden können und müssen; das Abstrahiren des Verstandes ist das gewaltsame Festhalten an Einer Bestimmtheit, eine Anstrengung, das Bewußtseyn der andern, die darin liegt, zu verdunkeln und zu entfernen) wenn nun solcher Widerspruch erkannt wird, so pflegt man den Schlußsatz zu machen: Also ist dieser Gegenstand Nichts; wie Zeno zuerst von der Bewegung zeigte, daß sie sich widerspreche, daß sie also nicht sey, oder wie die Alten das Entstehen und Vergehen, die zwei Arten des Werdens, für unwahre Bestimmungen mit dem Ausdrucke erkannten, daß das Eine, d. i. das Absolute, nicht entstehe noch vergehe. Diese Dialektik bleibt so blos bei der negativen Seite des Resultates stehen, und abstrahirt von dem, was zugleich wirklich vorhanden ist, ein bestimmtes Resultat, hier ein reines Nichts, aber Nichts, welches das Seyn, und eben so ein Seyn, welches das Nichts in sich schließt. So ist 1) das Daseyn die Einheit des Seyns und des Nichts, in der die Unmittelbarkeit dieser Bestimmungen, und damit in ihrer Beziehung ihr Widerspruch verschwunden ist, eine Einheit, in der sie nur noch Momente sind, 2) da das Resultat der aufgehobene Widerspruch ist, so ist es in der Form einfacher Einheit mit sich, oder selbst als ein Seyn, aber ein Seyn mit der Negation oder Bestimmtheit, oder das Werden in der Form des einen seiner Momente, des Seyns, gesetzt. [orig. 106]
+
+§. 90.
+
+a) Das Daseyn ist Seyn mit einer Bestimmtheit, die als unmittelbare oder seyende Bestimmtheit ist, die Qualität. Das Daseyn als in dieser seiner Bestimmtheit in sich reflectirt, ist Daseyendes, Etwas.
+
+§. 91.
+
+Die Qualität, als seyende Bestimmtheit gegenüber der in ihr enthaltenen Negation überhaupt, ist Realität. Indem die Negation aber nicht mehr das abstracte Nichts, sondern ein Daseyn und Etwas ist, so ist die Negation nur Form an demselben, - und sie ist das Andersseyn. Die Qualität, indem dies Andersseyn ihre eigene Bestimmung, aber zunächst von ihr unterschieden ist, - ist Seynfür-anderes, eine Breite des Daseyns, des Etwas. Das Seyn der Qualität als solches, gegenüber dieser ihrer Beziehung auf Anderes ist das An-sich-seyn.
+
+[p. 101] §. 92.
+
+β) Aber das von der Bestimmtheit als unterschieden festgehaltene Seyn, das Ansichseyn, wäre nur die leere Abstraction des Seyns. In Etwas ist die Bestimmtheit eins mit seinem Seyn, welche nun zugleich als Negation gesetzt, Gränze, Schranke ist. Daher ist das Andersseyn nicht ein gleichgültiges außer ihm, sondern sein eigenes Moment. Etwas ist durch seine Qualität hiemit erstlich endlich, und zweitens veränderlich, so daß die Veränderlichkeit seinem Seyn angehört.
+
+§. 93.
+
+Etwas wird ein Anderes, aber das Andere ist selbst ein Etwas, also wird es gleichfalls ein Anderes, und sofort ins Unendliche. [orig. 107]
+
+§. 94.
+
+Diese Unendlichkeit ist die schlechte oder negative Unendlichkeit, indem sie nichts ist, als die Negation des Endlichen, welches aber ebenso wieder entsteht, somit eben so sehr nicht aufgehoben ist, – oder diese Unendlichkeit drückt nur das Sollen des Aufhebens des Endlichen aus. Der Progreß ins Unendliche bleibt bei dem Aussprechen des Widerspruchs stehen, den das Endliche enthält, daß es sowohl Etwas ist, als sein Anderes, und ist das perennirende Fortsetzen des Wechsels dieser einander herbeiführenden Bestimmungen.
+
+§. 95.
+
+γ) Was in der That vorhanden ist, ist, daß Etwas zu Anderem und das Andere überhaupt zu Anderem wird. (Etwas ist im Verhältniß zu einem Anderen, selbst schon ein Anderes gegen dasselbe) somit da das, in welches es übergeht, ganz dasselbe ist, was das, welches übergeht, - beide haben keine weitere als ein und dieselbe Bestimmung, nämlich ein Anderes zu seyn, so geht hiemit Etwas in seinem Uebergehen in Anderes nur mit sich selbst zusammen, und diese Beziehung im Uebergehen und im Andern auf sich selbst ist die wahrhafte Unendlichkeit. Oder negativ betrachtet; was verändert wird, ist das Andre, es wird das Andre des Andern. So ist das Seyn, aber als Negation der Negation, wieder hergestellt, und ist das Fürsichseyn.
+
+Der Dualismus, welcher den Gegensatz von Endlichem und Unendlichem unüberwindlich macht, macht die einfache Betrachtung nicht, daß [p. 102] auf solche Weise, sogleich das Unendliche nur das Eine der Beiden ist, daß es hiemit zu einem nur Besondern gemacht wird, wozu das Endliche das andere Besondere ist. Ein solches Unendliches, welches nur ein Besonderes ist, neben dem Endlichen ist, an diesem eben damit seine [orig. 108] Schranke, Gränze hat, ist nicht das, was es seyn soll, nicht das Unendliche, sondern ist nur endlich. In solchem Verhältnisse, wo das Endliche Hüben, das Unendliche Drüben, das erste diesseits, das andere jenseits gestellt ist, wird dem Endlichen die gleiche Würde des Bestehens und der Selbstständigkeit mit dem Unendlichen zugeschrieben; das Seyn des Endlichen wird zu einem absoluten Seyn gemacht; es steht fest für sich. Vom Unendlichen so zu sagen berührt, würde es vernichtigt; aber es soll vom Unendlichen nicht berührt werden können, es soll ein Abgrund, eine unübersteigbare Kluft zwischen beiden sich befinden, das Unendliche schlechthin drüben, und das Endliche hüben verharren. Indem die Behauptung von dem festen Beharren des Endlichen dem Unendlichen gegenüber über alle Metaphysik hinweg zu seyn meynt, steht sie ganz nur auf dem Boden der ordinärsten Verstandes-Metaphysik. Es geschieht hier dasselbe, was der unendliche Progreß ausdrückt, das einemal wird zugegeben, daß das Endliche nicht an und für sich sey, daß ihm nicht selbstständige Wirklichkeit, nicht absolutes Seyn zukomme, daß es nur ein Vorübergehendes ist; das andremal wird dies sogleich vergessen, und das Endliche dem Unendlichen nur gegenüber, schlechthin getrennt von demselben und der Vernichtung entnommen, als selbstständig, für sich beharrend vorgestellt. Indem das Denken auf solche Weise sich zum Unendlichen zu erheben meynt, so widerfährt ihm das Gegentheil, zu einem Unendlichen zu kommen, das nur ein Endliches ist, und das Endliche, welches von ihm verlassen worden, vielmehr zu einem Absoluten zu machen.
+
+Wenn man nach der angestellten Betrachtung der Nichtigkeit des Verstandes-Gegensatzes vom Endlichen und Unendlichen (womit Plato's Philebus mit Nutzen verglichen werden kann) auch hier leicht auf den [orig. 109] Ausdruck verfallen kann, daß das Unendliche und Endliche hiemit Eins sey, daß das Wahre, die wahrhafte Unendlichkeit als Einheit des Unendlichen und Endlichen bestimmt und ausgesagt werde, so enthält solcher Ausdruck zwar Richtiges, aber er ist eben so sehr schief und falsch. Er führt ferner auf den gerechten Vorwurf von der Verendlichung der Unendlichkeit, von einem endlichen Unendlichen. Denn in jenem Ausdruck erscheint das Endliche als belassen; es wird nicht ausdrücklich als aufgehoben ausgedrückt. – [p. 103] Oder indem darauf reflectirt würde, daß es als eins mit dem Unendlichen gesetzt allerdings nicht bleiben könnte, was es seyn sollte, und wenigstens an seiner Bestimmung etwas litte, (wie das Kali mit der Säure verbunden von seinen Eigenschaften verliert) so widerführe eben dies dem Unendlichen, das als das Negative seinerseits gleichfalls an dem Andern abgestumpft würde. In der That geschieht solches auch dem abstracten, einseitigen Unendlichen des Verstandes. Aber das wahrhafte Unendliche verhält sich nicht blos wie die einseitige Säure; sondern es erhält sich; die Negation der Negation ist nicht eine Neutralisation; das Unendliche ist das Affirmative, und nur das Endliche das Aufgehobene, das ideelle.
+
+Im Fürsichseyn ist die Bestimmung der Idealität eingetreten. Das Daseyn zunächst nur nach seinem Seyn oder seiner Affirmation aufgefaßt, hat Realität (§. 91.), somit ist auch die Endlichkeit zunächst in der Bestimmung der Realität. Aber die Wahrheit des Endlichen ist vielmehr seine Idealität. Eben so sehr ist auch das Verstandes-Unendliche, welches neben das Endliche gestellt, selbst nur eins der beiden Endlichen ist, ein unwahres, ein ideelles. Diese Idealität des Endlichen ist der Hauptsatz der Philosophie, und jede wahrhafte Philosophie ist deswegen Idealismus. Es kommt allein darauf an, nicht das für das Unendliche zu nehmen, was in seiner Bestimmung selbst sogleich zu einem [orig. 110] Besondern und Endlichen gemacht wird. Auf diesen Unterschied ist deswegen hier weitläufiger aufmerksam gemacht worden; der Grundbegriff der Philosophie, das wahrhafte Unendliche, hängt davon ab. Dieser Unterschied erledigt sich durch die ganz einfachen, darum vielleicht unscheinbaren, aber unwiderleglichen Reflexionen, die im §. enthalten sind.
+
+## c. DAS FÜRSICHSEYN.
+
+§. 96.
+
+a) Das Fürsichseyn als Beziehung auf sich selbst ist Unmittelbarkeit, und als Beziehung des Negativen auf sich selbst ist das Fürsichseyende oder das Eins, – das in sich Unterschiedslose, und damit das Andere aus sich Ausschließende.
+
+§. 97.
+
+β) Die Beziehung des Negativen auf sich selbst ist negative Beziehung, Unterscheidung des Eins von sich selbst, die Repulsion des Eins, d. i. Setzen Vieler Eins. Nach der Unmittelbarkeit des Fürsichseyns sind diese Viele [p. 104] Seyende, und die Repulsion der seyenden Eins ist in sofern ihre Repulsion gegeneinander als Vorhandener, oder gegenseitiges Ausschließen.
+
+§. 98.
+
+γ) Die Vielen sind aber das Eine was das Andere ist, jedes ist Eins, oder auch Eins der Vielen; sie sind daher eins und dasselbe. Oder die Repulsion an ihr selbst betrachtet, so ist sie als negatives Verhalten der vielen Eins gegeneinander eben so wesentlich ihre Beziehung auf einander; und da diejenigen, auf welche sich das Eins in seinem Repelliren bezieht, Eins sind, so bezieht es sich in ihnen auf sich selbst. Die Repulsion ist daher eben so [orig. 111] wesentlich Attraction; und das ausschließende Eins oder das Fürsichseyn hebt sich auf. Die qualitative Bestimmt-heit, welche im Eins ihr An-und-für-sich-Bestimmtseyn erreicht hat, ist hiemit in die Bestimmtheit als aufgehobene übergegangen, d. i. in das Seyn als Quantität.
+
+Die atomistische Philosophie ist dieser Standpunkt, auf welchem sich das Absolute als Fürsichseyn, als Eins, und als Viele Eins bestimmt. Als ihre Grundkraft ist auch die am Begriffe des Eins sich zeigende Repulsion angenommen worden; nicht aber so die Attraction, sondern der Zufall, d. i. das Gedankenlose, soll sie zusammenbringen. Indem das Eins als Eins fixirt ist, so ist das Zusammenkommen desselben mit andern allerdings als etwas ganz äußerliches anzusehen. Das Leere, welches als das andere Princip zu dem Atomen angenommen wird, ist die Repulsion selbst, vorgestellt als das seyende Nichts zwischen den Atomen. – Die neuere Atomistik, – und die Physik behält noch immer dies Princip bei, – hat theils die Atome aufgegeben, und hält sich an kleine Theilchen, Molecüles; sie hat sich damit dem sinnlichen Vorstellen näher gebracht, aber die denkende Bestimmung aufgegeben. - Indem ferner der Repulsivkraft eine Attractivkraft an die Seite gesetzt wird, so ist der Gegensatz zwar vollständig gemacht, und man hat sich viel mit der Entdeckung dieser sogenannten Naturkraft gewußt. Aber die Beziehung beider aufeinander, was das Concrete und Wahrhafte derselben ausmacht, wäre aus der trüben Verwirrung zu reißen, in der sie auch noch in Kants metaphysischen Anfangsgründen der Naturwissenschaft gelassen ist. - Noch wichtiger als im Physischen ist in neuern Zeiten die atomistische Ansicht im Politischen geworden. Nach derselben ist der Wille der Einzelnen als solcher das Princip des Staates, das Attrahirende ist die Particularität der [orig. 112] Bedürfnisse, Neigungen, und das Allgemeine, der Staat selbst, ist das äußerliche Verhältniß des Vertrags.
+
+## [p. 105] B. QUANTITÄT.
+
+## a. DIE REINE QUANTITÄT.
+
+§. 99.
+
+Die Quantität ist das reine Seyn, an dem die Bestimmtheit nicht mehr als eins mit ihm selbst, sondern als aufgehoben oder gleichgültig gesetzt ist.
+
+1) Der Ausdruck Größe ist in sofern für Quantität nicht passend, als er vornehmlich die bestimmte Quantität bezeichnet. 2) Die Mathematik pflegt die Größe, als das zu definiren, was vermehrt oder vermindert werden kann; so fehlerhaft diese Definition ist, indem sie das Definitum selbst wieder enthält, so liegt doch dies darin, daß die Größebestimmung eine solche ist, die als veränderlich und gleichgültig gesetzt sey, so daß unbeschadet einer Veränderung in ihr einer vermehrten Extension oder Intension, die Sache z. B. ein Haus, Roth nicht aufhöre Haus, Roth zu seyn. 3) Das Absolute ist reine Quantität, – dieser Standpunkt ist in sofern für sich genommen worden, als das Absolute die Bestimmung von Materie hat, an der die Form zwar vorhanden, aber eine gleichgültige Bestimmung sey. Auch macht die Quantität die Grundbestimmung des Absoluten aus, wenn es so gefaßt wird, daß an ihm, dem absolut-indifferenten, aller Unterschied nur quantitativ sey. Sonst können der reine Raum, die Zeit u.s.f. als Beispiele der Quantität genommen werden, in sofern das Reale als gleichgültige Raum- oder Zeiterfüllung aufgefaßt werden soll. [orig. 113]
+
+§. 100.
+
+Die Quantität zunächst in ihrer unmittelbaren Beziehung auf sich, oder in der Bestimmung der durch die Attraction gesetzten Gleichheit mit sich selbst, ist continuirliche, in der andern in ihr enthaltenen Bestimmung des Eins ist sie discrete Größe. Jene ist aber eben sowohl discret, denn sie ist nur Continuität des Vielen; diese eben so continuirlich, ihre Continuität ist das Eins als Dasselbe der vielen Eins, die Einheit.
+
+1) Die continuirliche und discrete Größe müssen daher nicht in sofern als Arten angesehen werden, als ob die Bestimmung der einen der andern nicht zukomme, sondern sie unterscheiden sich nur dadurch, daß dasselbe Ganze das einemal unter der einen, das anderemal unter der andern seiner [p. 106] Bestimmungen gesetzt ist. 2) Die Antinomie des Raums, der Zeit oder der Materie, in Ansehung ihrer Theilbarkeit ins Unendliche, oder aber ihres Bestehens aus Untheilbaren, ist nichts anderes, als die Behauptung der Quantität das einemal als continuirlicher, das anderemal als discreter. Werden Raum, Zeit u.s.w. nur mit der Bestimmung continuirlicher Quantität gesetzt, so sind sie theilbar ins unendliche; mit der Bestimmung discreter Größe aber sind sie an sich getheilt und bestehen aus untheilbaren Eins; das eine ist so einseitig als das andere.
+
+b. Das QUANTUM.
+
+§. 101.
+
+Die Quantität bleibt Einheit, in sofern die Bestimmtheit überhaupt an ihr ist, und diese als in ihr enthalten, ist zu setzen. Sie ist so Grenze, und die Quantität ist wesentlich Quantum.
+
+§. 102.
+
+Das Quantum hat seine Entwicklung und dadurch [orig. 114] vollkommene Bestimmtheit in der Zahl, deren Element das Eins ausmacht, und nach dem Momente der Discretion die Anzahl, nach dem der Continuität die Einheit, als seine qualitativen Momente in sich enthält.
+
+In der Arithmetik pflegen die Rechnungsarten als zufällige Weisen die Zahlen zu behandeln aufgeführt zu werden. Wenn in ihnen eine Nothwendigkeit und damit ein Verstand liegen soll, so muß derselbe in einem Princip, und dies kann nur in den Bestimmungen liegen, die in dem Begriffe der Zahl selbst enthalten sind; dies Princip soll hier kurz aufgezeigt werden. Jene Bestimmungen der Zahl sind die Anzahl und die Einheit, und die Zahl selbst die Einheit beider. Die Einheit aber auf empirische Zahlen angewendet ist nur die Gleichheit derselben; so muß das Princip der Rechnungsarten seyn, Zahlen in das Verhältniß von Einheit und Anzahl zu setzen und die Gleichheit dieser Bestimmungen hervorzubringen.
+
+Indem die Zahlen selbst gleichgültig gegen einander sind, so erscheint die Einheit, in welche sie versetzt werden, überhaupt als ein äußerliches [p. 107] Zusammenfassen. Rechnen ist darum überhaupt Zählen, und der Unterschied liegt allein in der qualitativen Beschaffenheit der Zahlen, die zusammengezählt werden, und für die Beschaffenheit ist die Bestimmung von Einheit und Anzahl das Princip.
+
+Numeriren ist das erste, die Zahl überhaupt machen, ein Zusammenfassen von beliebig vielen Eins. Eine Rechnungsart aber ist das Zusammenzählen von solchen, die schon Zahlen, nicht mehr das bloße Eins sind.
+
+Die Zahlen sind unmittelbar und zuerst ganz unbestimmt Zahlen überhaupt, ungleich daher überhaupt; das Zusammenfassen von solchen ist Addiren.
+
+Die nächste Bestimmung ist, daß die Zahlen gleich überhaupt sind, damit machen sie Eine Einheit aus, und es ist eine Anzahl solcher; diese Anzahl ist zunächst nach jener Zahl, welche die Einheit ist, nicht bestimmt; das Multipliciren; wobei es gleichgültig ist, wie die Bestimmungen von Anzahl und Einheit an die beiden Zahlen, – die Factoren – vertheilt werden, welche für die Anzahl und welche dagegen für die Einheit genommen wird.
+
+Die dritte Bestimmtheit ist endlich die Gleichheit der Anzahl und der Einheit. Das Zusammenzählen so bestimmter Zahlen ist das Erheben in die Potenz und zunächst in das Quadrat. - Das weitere Potenziren ist das formelle, wieder in die unbestimmte Anzahl ausgehende, Fortsetzen der Multiplication der Zahl mit sich selbst. Da in dieser dritten Bestimmung die vollkommene Gleichheit des einzigen vorhandenen Unterschieds, der Anzahl und der Einheit, erreicht ist, so kann es nicht mehrere als diese drei Rechnungsarten geben. Dem Zusammenzählen entspricht das Auflösen der Zahlen nach denselben Bestimmtheiten. Es gibt daher neben den drei angeführten Arten, welche in sofern die positiven genannt werden, auch drei negative.
+
+## c. DER GRAD.
+
+§. 103.
+
+Die Grenze ist im Quantum mit der Quantität selbst identisch; als in sich vielfach ist sie die extensive, aber als in sich einfache Bestimmtheit, die intensive Größe oder der Grad.
+
+[p. 108] Der Unterschied der continuirlichen und discreten Größe von der extensiven und intensiven besteht daher darin, daß die erstern auf die Quantität überhaupt gehen, diese aber auf die Grenze oder Bestimmtheit derselben als solche. Gleichfalls sind die extensive und intensive Größe auch nicht zwei Arten, deren jede [orig. 116] eine Bestimmtheit enthielte, welche die andere nicht hätte; was extensive Größe ist, ist eben so sehr als intensive, und umgekehrt.
+
+§. 104.
+
+Im Grade ist der Begriff des Quantums gesetzt. Er ist die Größe als gleichgültig für sich und einfach, so daß sie aber die Bestimmtheit, wodurch sie Quantum ist, schlechthin außer ihr in andern Größen hat. Durch diesen Widerspruch, daß das Fürsichseyn die absolute Aeußerlichkeit ist, ist der unendliche quantitative Progreß gesetzt, eine Unmittelbarkeit, die unmittelbar in ihr Gegentheil, in das Vermitteltseyn (das Hinausgehen über das so eben gesetzte Quantum), und umgekehrt, umschlägt.
+
+Die Zahl ist Gedanke, aber der Gedanke als ein sich vollkommen äußerliches Seyn. Sie gehört nicht der Anschauung an, weil sie Gedanke ist, aber ist der die Aeußerlichkeit der Anschauung in sich selbst habende Gedanke. Das Quantum kann daher nicht nur ins Unendliche vermehrt oder vermindert werden, es selbst ist durch seinen Begriff dieses Hinausschicken über sich. Der unendliche quantitative Progreß ist ebenfalls wieder die gedankenlose Wiederholung eines und desselben Widerspruchs, der das Quantum überhaupt und in seiner Bestimmtheit gesetzt, der Grad, ist. Ueber den Ueberfluß, diesen Widerspruch in der Form des unendlichen Progresses auszusprechen, sagt mit Recht Zeno bei Aristoteles: es ist dasselbe, etwas einmal sagen, und es immer sagen.
+
+§. 105.
+
+Dieses sich selbst in seiner fürsichseyenden Bestimmtheit Aeußerlichseyn des Quantums macht seine Qualität aus; es ist in demselben eben es selbst und auf sich bezogen. Es ist die Aeußerlichkeit, d. i. das [orig. 117] Quantitative, und das Fürsichseyn, das Qualitative, darin vereinigt. Das Quantum an ihm selbst so gesetzt ist das quantitative Verhältniß Bestimmtheit des Quantums, welche eben so sehr ein unmittelbares Quantum (der Exponent) als auch Vermittlung ist, nämlich die Beziehung irgend eines Quantums auf ein anderes, (die beiden Seiten des Verhältnisses) die zugleich nicht nach ihrem unmittelbaren Werthe gelten, sondern deren Werth nur in dieser Beziehung ist.
+
+[p. 109] §. 106.
+
+Die Seiten des quantitativen Verhältnisses sind noch unmittelbare Quanta, ihre Beziehung daher selbst, als eine gleichgültige, ein Quantum (der Exponent); die qualitative und die quantitative Bestimmung sind sich noch äußerlich. Nach ihrer Wahrheit aber, daß das Quantitative selbst Beziehung auf sich in seiner Aeußerlichkeit ist, oder das Fürsichseyn und die Gleichgültigkeit der Bestimmtheit vereinigt sind, ist es das Maaß.
+
+## C.
+
+## DAS MAASS.
+
+§. 107.
+
+Das Maaß ist das qualitative Quantum, zunächst als unmittelbares, ein Quantum, an welches ein Daseyn oder eine Qualität gebunden ist.
+
+§. 108.
+
+In sofern im Maaß Qualität und Quantität nur in unmittelbarer Einheit sind, so tritt ihr Unterschied auf eine eben so unmittelbare Weise an ihnen hervor. Das specifische Quantum ist in sofern theils bloßes Quantum, und einer Vermehrung und Verminderung fähig, ohne daß [orig. 118] das Maaß, welches in sofern eine Regel ist, dadurch aufgehoben wird, theils aber ist die Veränderung des Quantums auch eine Veränderung der Qualität.
+
+§. 109.
+
+Das Maaßlose ist zunächst dies Hinausgehen eines Maaßes durch seine quantitative Natur über seine Qualitätsbestimmtheit. Da aber das andere quantitative Verhältniß, das Maaßlose des ersten, eben so sehr qualitativ ist, so ist das Maaßlose gleichfalls ein Maaß; welche beide Uebergänge von Qualität in Quantum und von diesem in jene wieder als unendlicher Progreß vorgestellt werden können, als das sich im Maaßlosen aufheben und wiederherstellen des Maaßes.
+
+§. 110.
+
+Was hierin in der That geschieht, ist, daß die Unmittelbarkeit, welche noch dem Maaße als solchem zukommt, aufgehoben wird. In der [p. 110] Unmittelbarkeit des Maaßes sind Qualität und Quantität selbst auch wieder als unmittelbare, und das Maaß ist nur ihre relative Identität. Das Maaß aber zeigt sich so, daß es sich in das Maaßlose aufhebt, aber in diesem, welches dessen Negation, aber selbst Einheit der Quantität und Qualität ist, eben so sehr nur mit sich selbst zusammengeht.
+
+§. 111.
+
+Das Unendliche, die Affirmation als Negation der Negation, hatte statt der abstractern Seiten, des Seyns und Nichts, Etwas und eines Andern u.s.f. nun die Qualität und Quantität zu seinen Seiten. Diese sind a) zunächst, die Qualität in die Quantität (§. 98.) und die Quantität in die Qualität (§. 105.) übergegangen, und damit beide als Negationen aufgezeigt. ẞ) Aber in ihrer Einheit (dem Maaße) sind sie als | unterschieden die eine nur vermittelst der andern; und y) nachdem sich die Unmittelbarkeit dieser Einheit als sich aufhebend erwiesen, so zeigt sich das Seyn als die Reduction der Vermittlung zur einfachen Beziehung-auf-sich. Das Seyn, oder die Unmittelbarkeit, welche nur durch ihre Negation Vermittlung mit sich, und Beziehung auf sich selbst ist, oder die Vermittlung, die sich zur Beziehung auf sich, zur Unmittelbarkeit aufhebt, – das Seyn, so durch Aufheben der Vermittlung mit sich vermittelt, ist das Wesen.
+
+## [p. 111] LEHRE VOM WESEN
+
+## ZWEITE ABTHEILUNG DER LOGIK.
+
+## DIE LEHRE VOM WESEN.
+
+§. 112.
+
+Das Wesen, als das durch die Negativität seiner selbst sich mit sich vermittelnde Seyn, ist die Beziehung auf sich selbst, nur indem sie Beziehung auf Anderes ist, das unmittelbar nur als ein Gesetztes und Vermitteltes ist. Das Seyn ist nicht verschwunden, sondern erstlich ist das Wesen als einfache Beziehung auf sich selbst, Seyn; fürs andere ist aber das Seyn nach seiner einseitigen Bestimmung, unmittelbares zu seyn, zu einem nur negativen herabgesetzt, zu einem Scheine. - Das Wesen ist hiemit das Seyn als Scheinen in sich selbst.
+
+Das Absolute ist das Wesen. Diese Bestimmung ist in sofern dieselbe, als die, daß es das Seyn ist, in sofern Seyn gleichfalls die einfache Beziehung auf sich ist. Aber sie ist zugleich höher, weil das Wesen das in sich gegangene Seyn ist, d. i. seine einfache Beziehung auf sich ist diese Beziehung durch die Negation des Negativen, nur als absolute Negativität. Indem das Absolute als Wesen bestimmt wird, wird aber die Negativität häufig nur in dem Sinne einer Abstraction von allen bestimmten Prädicaten genommen. Dieses negative Thun, das Abstrahiren, fällt dann außerhalb des Wesens, und das Wesen selbst ist so nur als ein Resultat ohne diese seine Prämisse, das caput mortuum der Abstraction. Aber da diese Negativität dem Seyn nicht äußerlich, sondern seine eigene Dialektik ist, so ist seine Wahrheit, das Wesen, als das in sich gegangene oder in sich seyende Seyn; seinen Unterschied vom unmittelbaren Seyn, macht jene Reflexion aus, und sie ist die eigene Bestimmung des Wesens selbst.
+
+§. 113.
+
+Indem das Wesen die Unterschiede nur als gesetzte enthält, hat es die Einseitigkeit, daß seinen Bestimmungen das Seyn mangelt; es ist die sich auf sich beziehende, absolute Negativität, als abstracte Affirmation, einfaches Insichseyn. Diese Form der Identität, der Reflexion-in-sich ist an die Stelle der [p. 112] Unmittelbarkeit des Seyns getreten; beide sind aber dieselben Abstractionen der Beziehung-auf-sich.
+
+Die Gedankenlosigkeit der Sinnlichkeit, alles Beschränkte und Endliche für ein Seyendes zu nehmen, geht in die Hartnäckigkeit des Verstandes über, es als ein mit-sich-identisches, sich in sich nicht widersprechendes, zu fassen.
+
+§. 114.
+
+Diese Identität, an deren Bestimmungen das Seyn noch nicht gesetzt ist, ist, als aus dem Seyn herkommend, dann damit nur behaftet, und darauf als auf ein Aeußerliches bezogen. Wird dasselbe von dem Wesen durch Abstraction abgesondert, so heißt es das Unwesentliche. Aber das Wesen ist in sich selbst nur durch seine negative Beziehung auf das Seyn. So ist es durch das Seyn, | welches zugleich nur ideell, Schein ist, zugleich als durch ein selbstständiges Aeußerliches vermittelt. Die Sphäre des Wesens ist daher durch das zunächst abstracte Insichseyn, diese – noch unvollkommene – Verknüpfung der Unmittelbarkeit und der Vermittlung. Es ist in dieser Sphäre Alles so gesetzt, daß zugleich darüber hinausgegangen ist, ein Seyn der Reflexion, ein Seyn, in dem ein Anderes scheint, und das in einem Andern scheint. – Sie ist daher auch die Sphäre des gesetzten Widerspruches, der in der Sphäre des Seyns nur an sich ist.
+
+Es kommen in der Entwicklung des Wesens, weil der Eine Begriff in allem das Substantielle ist, dieselben Bestimmungen vor, als in der Entwicklung des Seyns, aber in reflectirter Form. Also statt des Seyns und Nichts treten jetzt die Formen des Positiven und Negativen ein, jenes zunächst dem gegensatzlosen Seyn als Identität entsprechend, dieses entwickelt (in sich scheinend) als der Unterschied; so ferner das Werden als Grund sogleich selbst des Daseyns, das als auf den Grund reflectirt, Existenz ist u.s.f. - Dieser, (der schwerste) Theil der Logik enthält vornehmlich die Kategorien der Metaphysik und der Wissenschaften überhaupt; – als Erzeugnisse des reflectirenden Verstandes, der zugleich die Unterschiede als selbstständig annimmt, und zugleich auch ihre Relativität setzt; beides aber nur neben- oder nacheinander durch ein Auch verbindet, und diese Gedanken nicht zusammenbringt, sie nicht zum Begriffe vereint. |
+
+## [p. 113] A.
+
+## DAS WESEN ALS GRUND DER EXISTENZ.
+
+## a.
+
+## DIE REINEN REFLEXIONSBESTIMMUNGEN.
+
+## a) IDENTITÄT.
+
+§. 115.
+
+Das Wesen scheint in sich, oder ist reine Reflexion, so ist es Beziehung auf sich, aber nicht als unmittelbare, sondern als reflectirte, - Identität mit sich.
+
+Formelle oder Verstandes-Identität ist diese Identität, in sofern an ihr festgehalten und von dem Unterschiede abstrahirt wird. Oder die Abstraction ist vielmehr das Setzen dieser formellen Identität, die Verwandlung eines in sich concreten in die Form der Einfachheit, es sey daß ein Theil des am Concreten vorhandenen Mannichfaltigen weggelassen (durch das sogenannte Analysiren), und nur eines derselben herausgenommen wird, oder daß mit Weglassung ihrer Verschiedenheit die mannichfaltigen Bestimmtheiten in Eine zusammengezogen werden.
+
+Die Identität mit dem Absoluten, als Subjecte eines Satzes, verbunden, so lautet er: das Absolute ist mit sich identisch. So wahr dieser Satz ist, so ist es zweideutig, ob er in seiner Wahrheit gemeynt ist; er ist darum in seinem Ausdrucke wenigstens unvollständig: denn es ist unentschieden, ob die abstracte Verstandes-Identität, d. i. im Gegensatze gegen die andern Bestimmungen des Wesens, – oder aber die Identität als in sich concrete gemeynt ist; so ist sie, wie sich ergeben wird, der Grund, oder in höherer Wahrheit der Begriff. Auch das Wort: Absolut, selbst, hat häufig keine weitere Bedeutung als [orig. 124] die von Abstract; so heißt absoluter Raum, absolute Zeit, nichts weiter als der abstracte Raum und die abstracte Zeit.
+
+Die Bestimmungen des Wesens können als wesentliche Bestimmungen genommen werden, so werden sie Prädicate eines vorausgesetzten Subjects; und indem sie Bestimmungen des Wesens selbst sind, sind sie die wesentlichen an sich, die allgemein-wesentlichen. Es ist ihnen daher auch das Subject: Alles, gegeben, und die Sätze, die dadurch entstehen, sind als die allgemeinen Denkgesetze ausgesprochen worden. Der Satz der Identität lautet demnach: Alles ist mit sich identisch; A=A; Und negativ: A kann nicht zugleich A und nicht A seyn. Dieser Satz, statt [p. 114] ein wahres Denkgesetz zu seyn, ist nichts als das Gesetz des abstracten Verstandes. Die Form des Satzes widerspricht ihm schon selbst, da ein Satz auch einen Unterschied zwischen Subject und Prädicat verspricht, dieser aber das nicht leistet, was seine Form fodert. Namentlich wird es aber durch die folgenden sogenannten Denkgesetze aufgehoben, welche das Gegentheil dieses Gesetzes zu Gesetzen machen.
+
+## β) DER UNTERSCHIED.
+
+§. 116.
+
+Das Wesen ist nur reine Identität und Schein in sich selbst, als es die sich auf sich beziehende Negativität, somit Abstoßen seiner von sich selbst ist; es enthält also wesentlich die Bestimmung des Unterschieds.
+
+Das Andersseyn ist hier nicht mehr das qualitative, die Bestimmtheit, Gränze; sondern als im Wesen, dem sich auf sich beziehenden, ist die Negation Beziehung, Unterschied, Gesetztseyn, Vermitteltseyn. [orig. 125]
+
+§. 117.
+
+Der Unterschied ist 1) unmittelbarer Unterschied, die Verschiedenheit, in der die Unterschiedenen jedes für sich ist, was es ist, und gleichgültig gegen seine Beziehung auf das andere, welche also eine ihm äußerliche ist. Um der Gleichgültigkeit der Verschiedenen gegen ihren Unterschied, fällt derselbe außer ihnen in ein Drittes, Vergleichendes. Dieser äußerliche Unterschied ist als Identität der Bezogenen die Gleichheit, als Nichtidentität die Ungleichheit.
+
+Diese Bestimmungen selbst läßt der Verstand so auseinander fallen, daß wenn die Vergleichung auch ein und dasselbe Substrat für die Gleichheit und Ungleichheit hat, dies verschiedene Seiten und Rücksichten seyn sollen. Aber die Gleichheit für sich ist nur das vorige, die Identität, und die Ungleichheit für sich ist der Unterschied.
+
+Die Verschiedenheit ist gleichfalls in einen Satz verwandelt worden, in den, da\beta Alles verschieden ist, oder daß es nicht zwei Dinge gibt, die einander vollkommen gleich sind. Hier wird Allem das entgegengesetzte Prädicat von der ihm im ersten Satze beigelegten Identität gegeben. In sofern jedoch unter der Verschiedenheit nur die der äußern [p. 115] Vergleichung angehörige verstanden wird, so soll Etwas für sich selbst nur identisch mit sich, und dieser zweite Satz somit nicht dem ersten widersprechend seyn. Dann aber gehört auch die Verschiedenheit nicht dem Etwas oder Allem selbst an, sie macht keine wesentliche Bestimmung dieses Subjects aus; dieser zweite Satz kann auf diese Weise gar nicht gesagt werden. In sofern die Verschiedenheit der ganz unbestimmte Unterschied, die bloße Vielheit ist, so ist der Satz ohnehin tavtologisch, daß Alles, d. h. die Etwas in ihrer vollständigen Vielheit, viele sind. - Ist aber das [orig. 126] Etwas selbst verschieden, so ist es dies durch seine eigene Bestimmtheit; hiemit ist nicht mehr die Verschiedenheit als solche, sondern der bestimmte Unterschied gemeynt.
+
+§. 118.
+
+Die Gleichheit ist eine Identität nur solcher, die nicht dieselben, nicht identisch mit einander sind, - und die Ungleichheit ist Beziehung der Ungleichen. Beide fallen also nicht in verschiedene Seiten oder Rücksichten gleichgültig auseinander, sondern eine ist ein Scheinen in die Andere. Die Verschiedenheit ist daher Unterschied der Reflexion, oder Unterschied an sich selbst.
+
+§. 119.
+
+2) Der Unterschied an sich ist der wesentliche, das Positive und das Negative, so daß jenes so die identische Beziehung auf sich ist, daß es nicht das Negative, und dieses das Unterschiedene so für sich ist, daß es nicht das Positive ist. Indem jedes so für sich ist, als es nicht das Andere ist, scheint jedes in dem Andern, und ist nur, in sofern das Andere ist. Der Unterschied des Wesens ist daher die Entgegensetzung, nach welcher das Unterschiedene nicht ein Anderes überhaupt, sondern sein Anderes sich gegenüber hat; d. h. jedes hat seine eigene Bestimmung nur in seiner Beziehung auf das Andere, ist nur in sich reflectirt, als es in das Andere reflectirt ist.
+
+Der Unterschied an sich gibt den Satz: Alles ist ein wesentlich unterschiedenes, oder wie er auch ausgedrückt worden ist, von zwei entgegengesetzten Prädicaten kommt dem Etwas nur das Eine zu, und es gibt kein Drittes. Dieser Satz des Gegensatzes widerspricht am ausdrücklichsten dem Satze der Identität, indem Etwas nach dem einen nur die Beziehung auf sich, nach dem andern [orig. 127] aber die Beziehung auf anderes seyn soll. Es ist die eigenthümliche Gedankenlosigkeit der Abstraction, zwei solche widersprechende Sätze als Gesetze nebeneinander zu [p. 116] stellen, ohne sie auch nur zu vergleichen. – Der Satz des ausgeschlossenen Dritten ist der Satz des bestimmten Verstandes, der den Widerspruch von sich abhalten will, und indem er dies thut, denselben begeht. A soll entweder + A oder A seyn; damit ist schon das Dritte, das A ausgesprochen, welches weder + noch ist, und das eben sowohl auch als + A und als A
+
+## ENCYCLOPÄDIE
+
+## LOGIK
+
+gesetzt ist.
+
+§. 120.
+
+Das Positive nun ist jenes Verschiedene, welches für sich und zugleich nicht gleichgültig gegen seine Beziehung auf sein anderes seyn soll. Das Negative soll eben so selbstständig, also die negative Beziehung auf sich, für sich seyn, aber zugleich als negatives schlechthin diese seine Beziehung auf sich, sein Positives, nur im Andern haben. Beide sind somit der gesetzte Widerspruch, beide sind an sich dasselbe. Beide sind es auch für sich, indem jedes das Aufheben des andern und seiner selbst ist. Sie gehen hiemit zu Grunde. – Oder unmittelbar ist der wesentliche Unterschied, als Unterschied an und für sich, nur der Unterschied seiner von ihm selbst, enthält also das Identische. Als sich auf sich beziehender Unterschied, ist er gleichfalls schon als das mit sich identische ausgesprochen, und das Entgegengesetzte ist überhaupt dasjenige, welches das Eine und sein Anderes, sich und sein Entgegengesetztes, in sich selbst enthält. Das In-sich-seyn des Wesens so bestimmt ist der Grund. [orig. 128]
+
+## γ) DER GRUND.
+
+§. 121.
+
+Der Grund ist die Einheit der Identität und des Unterschieds; die Wahrheit dessen, als was sich der Unterschied und die Identität ergeben hat, – die Reflexionin-sich, die eben so sehr Reflexion-in-Anderes und umgekehrt ist. Er ist das Wesen als Totalität gesetzt.
+
+Der Satz des Grundes heißt: Alles hat seinen zureichenden Grund, d. h. nicht die Bestimmung von Etwas als Identisches mit sich, noch als Verschiedenes, noch als blos Positives oder als blos Negatives, ist die wahre Wesenheit desselben, sondern daß es sein Seyn in einem andern hat, das als das Identische mit sich das Wesen ist. Dieses aber ist eben so sehr nicht abstracte [p. 117] Reflexion in sich, sondern in Anderes. Der Grund ist das in sich seyende Wesen, aber es ist wesentlich Grund, und Grund ist es nur in sofern es Grund von Etwas, von einem Andern ist.
+
+§. 122.
+
+Das Wesen ist zunächst Scheinen und Vermittlung in sich; als Totalität der Vermittlung ist seine Einheit mit sich nun gesetzt als das sich Aufheben des Unterschieds und damit der Vermittlung. Dies ist also die Wiederherstellung der Unmittelbarkeit oder des Seyns, aber des Seyns, in sofern es durch das Aufheben der Vermittlung vermittelt ist; – die Existenz.
+
+Der Grund hat noch keinen an und für sich bestimmten Inhalt, noch ist er Zweck, daher ist er nicht thätig, noch hervorbringend; sondern eine Existenz geht aus dem Grunde nur hervor. Der bestimmte Grund ist darum etwas formelles; irgend eine Bestimmtheit, in sofern sie als bezogen auf sich selbst, als Affirmation gesetzt wird, im Verhältniß zu [orig. 129] der damit zusammenhängenden unmittelbaren Existenz. Er ist eben damit, daß er Grund ist, auch ein guter Grund; denn Gut heißt ganz abstract auch nicht mehr als ein Affirmatives, und jede Bestimmtheit ist gut, die in irgend einer Weise als ein zugestanden Affirmatives ausgesprochen werden kann. Ein Grund kann daher für alles gefunden und angegeben werden, und ein guter Grund (z. B. guter Beweggrund zu handeln) kann etwas bewirken oder auch nicht, eine Folge haben oder auch nicht. Beweggrund, der etwas bewirkt, wird er z. B. durch die Aufnahme in einen Willen, der ihn erst zum thätigen und einer Ursache macht.
+
+## b.
+
+## DIE EXISTENZ.
+
+§. 123.
+
+Die Existenz ist die unmittelbare Einheit der Reflexion-in-sich und der Reflexionin-Anderes. Sie ist daher die unbestimmte Menge von Existirenden, als in-sichreflectirten, die zugleich eben so sehr in-anderes-scheinen, relativ sind, und eine Welt gegenseitiger Abhängigkeit und eines unendlichen Zusammenhangs von [p. 118] Gründen und Begründeten bilden. Die Gründe sind selbst Existenzen, und die Existirenden ebenso nach vielen Seiten hin Gründe sowohl als Begründete.
+
+§. 124.
+
+Die Reflexion-in-Anderes des Existirenden ist aber nicht unterschieden von der Reflexion-in-sich; der Grund ist ihre Einheit, aus der die Existenz hervorgegangen ist. Das Existirende enthält daher die Relativität und seinen mannichfachen Zusammenhang mit andern Existirenden, an ihm selbst und in sich als Grund reflectirt. So ist das Existirende Ding. [orig. 130]
+
+Das Ding-an-sich, das in der Kantischen Philosophie so berühmt geworden, zeigt sich hier in seiner Entstehung, nämlich als die abstracte Reflexion-in-sich, an der gegen die Reflexion-in-Anderes und gegen die unterschiedenen Bestimmungen überhaupt festgehalten wird, als der leeren Grundlage derselben.
+
+## C. DAS DING.
+
+§. 125.
+
+Das Ding als Reflexion-in-Anderes hat die Unterschiede, an ihm, wornach es ein bestimmtes Ding ist. a) Diese Bestimmungen sind von einander verschieden; an dem Dinge, nicht an ihnen selbst, haben sie die Reflexion-in-sich. Sie sind Eigenschaften des Dings, und ihre Beziehung auf dasselbe ist das Haben.
+
+Haben tritt als Beziehung an die Stelle des Seyns. Etwas hat zwar auch Qualitäten, aber diese Uebertragung des Habens auf das Seyende ist ungenau, weil die Bestimmtheit als Qualität unmittelbar eins mit dem Etwas ist, und Etwas aufhört zu seyn, wenn es seine Qualität verliert. Das Ding aber ist die Reflexion-in-sich, als die von dem Unterschiede auch unterschiedene Identität. – Das Haben wird in vielen Sprachen zur Bezeichnung der Vergangenheit gebraucht, mit Recht, indem die Vergangenheit das aufgehobene Seyn, und der Geist deren Reflexion-in-sich ist, worin sie allein noch Bestehen hat, der aber dieses in ihm aufgehobene Seyn auch von sich unterscheidet.
+
+[p. 119] §. 126.
+
+β) Die Reflexion-in-Anderes ist aber im Grunde, auch unmittelbar an ihr selbst die Reflexion-in-sich; daher [orig. 131] sind die Eigenschaften eben so sehr selbstständig und von ihrem Gebundenseyn an das Ding befreit. Weil sie aber nur die von einander unterschiedenen Bestimmtheiten des Dinges als reflectirt-in-sich sind, sind sie nicht selbst Dinge, als welche concret sind, sondern in sich reflectirte Existenzen als abstracte Bestimmtheiten, Materien.
+
+Die Materien, z. B. magnetische, elektrische Materien, werden auch nicht Dinge genannt. Sie sind die eigentlichen Qualitäten, eins mit ihrem Seyn, die zur Unmittelbarkeit gelangte Bestimmtheit, aber einer Unmittelbarkeit, welche Existenz ist.
+
+§. 127.
+
+Die Materie ist die abstracte oder unbestimmte Reflexion-in-Anderes, oder die Reflexion-in-sich zugleich als bestimmte; sie ist daher die daseyende Dingheit, das Bestehen des Dings. Das Ding hat auf diese Weise an den Materien seine Reflexion-in-sich, (das Gegentheil von §. 125.) besteht nicht an ihm selbst, sondern aus den Materien, und ist nur deren oberflächlicher Zusammenhang.
+
+§. 128.
+
+[γ)] Die Materie als die unmittelbare Einheit der Existenz mit sich ist gleichgültig gegen die Bestimmtheit; die vielen verschiedenen Materien gehen daher in die Eine Materie, die Reflexionsbestimmung der Identität (§. 115.) aber als concret in sich, zusammen, welcher gegenüber diese unterschiedenen Bestimmtheiten, so wie auch die äußerliche Beziehung, die sie im Ding aufeinander haben, die Form sind, – die Reflexionsbestimmung des Unterschiedes (§. 116.f.) aber als existirend und als Totalität.
+
+Diese Eine, bestimmungslose Materie ist auch das [orig. 132] selbe, was das Ding-ansich, nur dieses als in sich reflectirtes, jene als unmittelbares gesetzt.
+
+§. 129.
+
+Das Ding zerfällt so in Materie und Form, deren jedes die Totalität der Dingheit, und selbstständig für sich ist. Aber die Materie, welche die positive, [p. 120] unbestimmte Existenz seyn soll, enthält als Existenz eben sowohl die Reflexionin-Anderes, als das In-sich-seyn; als Einheit dieser Bestimmungen ist sie selbst die Totalität der Form. Die Form aber enthält schon als Totalität der Bestimmungen, die Reflexion-in-sich, oder als sich auf sich beziehende Form hat sie das, was die Bestimmung der Materie ausmachen soll. Beide sind an-sich dasselbe. Diese ihre Einheit gesetzt ist überhaupt die Beziehung der Materie und Form, welche ebenso unterschieden sind.
+
+§. 130.
+
+Das Ding als diese Totalität ist der Widerspruch, nach seiner negativen Einheit die Form zu seyn, in der die Materie als bestimmt und zu Eigenschaften herabgesetzt ist, (§. 125.) und zugleich aus Materien zu bestehen, die in der Reflexiondes Dings in-sich zugleich ebenso selbstständige als negirte sind. Das Ding so, dessen wesentliche Existenz ist, als eine sich in sich selbst aufhebende zu seyn, ist die Erscheinung.
+
+Die im Ding gesetzte Negation der ebenso selbstständig gesetzten Materien kommt in der Physik als die Porosität vor. Jede der vielen Materien (Färbestoff, Riechstoff, auch Schallstoff u.s.f., Wärmestoff, electrische Materie u.s.w.) ist auch negirt, und in dieser ihrer Negation, ihren Poren, sind die vielen andern Materien, die ebenso porös sind, und in sich die andern so gegenseitig circuliren lassen. Die Poren sind nichts empirisches, sondern Erdichtungen | des Verstandes, der das Moment der Negation der selbstständigen Materien auf diese Weise vorstellt, und die weitere Ausbildung der Widersprüche mit jener nebulosen Verwirrung, in der alle selbstständig und alle in einander ebenso negirt sind, deckt. - Wenn auf gleiche Weise im Geiste die Vermögen oder Thätigkeiten hypostasirt werden, so wird ihre lebendige Einheit ebenso zur Verwirrung des Einwirkens der einen in die andere. |
+
+## [p. 121] B.
+
+## DIE ERSCHEINUNG.
+
+§. 131.
+
+Das Wesen muß erscheinen. Sein Schein in ihm ist selbst das Aufheben seiner zur Unmittelbarkeit, welche als Reflexion-in-sich ebenso Bestehen (Materie) ist, als sie durch die Form Reflexion-in-Anderes, sich aufhebendes Bestehen ist. Beide Momente sind die eignen Bestimmungen des Wesens selbst, und machen dasselbe aus. Das Wesen ist daher nicht hinter oder jenseits der Erscheinung, sondern dadurch, daß das Wesen es ist, welches existirt, ist die Existenz Erscheinung.
+
+## a.
+
+## DIE WELT DER ERSCHEINUNG.
+
+§. 132.
+
+Das Erscheinende existirt, aber sein Bestehen ist unmittelbar aufgehoben, und selbst nur Ein Moment der Form; so hat es seinen Grund in dieser als einer Innerlichkeit überhaupt gegen seine Unmittelbarkeit, und in einer andern Bestimmtheit der Form. Dieser sein Grund ist eben so sehr ein Erscheinendes, und die Erscheinung geht so zu einer unendlichen Vermittlung des Bestehens durch die Form, somit ebenso durch Nichtbestehen fort. Diese unendliche Vermittlung ist zugleich eine Einheit; die Existenz ist so zu einer Totalität und Welt der Erscheinung, der reflectirten Endlichkeit, entwickelt. [orig. 135]
+
+## b. INHALT UND FORM.
+
+§. 133.
+
+Das Außereinander der Welt der Erscheinung ist als Totalität Beziehungauf-sich. Diese Beziehung der Erscheinung auf sich hat somit die Form in ihr selbst, aber weil in dieser Identität, als wesentliches Bestehen; so ist sie der Inhalt, und nach seiner entwickeltern Bestimmtheit das Gesetz der Erscheinung. In die [p. 122] Form als in-sich nicht reflectirt fällt das Negative der Erscheinung, das Unselbstständige und Veränderliche, – sie ist die gleichgültige, äußerliche Form.
+
+Bei dem Gegensatze von Form und Inhalt ist wesentlich festzuhalten, daß der Inhalt nicht formlos ist, sondern ebenso die Form in ihm selbst hat, als sie ihm ein äußerliches ist. Es ist die Verdopplung der Form vorhanden, die das einemal als in sich reflectirt, der Inhalt, das anderemal als nicht in sich reflectirt, die äußerliche, dem Inhalte gleichgültige Existenz ist. An-sich ist hier vorhanden das absolute Verhältniß des Inhalts und der Form, nämlich das Umschlagen derselben in einander, so daß der Inhalt nichts ist, als das Umschlagen der Form in Inhalt, und die Form nichts, als Umschlagen des Inhalts in Form. Dies Umschlagen ist eine der wichtigsten Bestimmungen. Gesetzt aber ist dies erst im absoluten Verhältnisse.
+
+§. 134.
+
+Die unmittelbare Existenz aber ist Moment des Bestehens selbst, wie sie ebenso eine Bestimmtheit der Form ist; sie ist daher ebenso der Bestimmtheit des Inhalts äußerlich, und diese Aeußerlichkeit, die er durch das Moment der Existenz erhält, ist ihm wesentlich. Die Erscheinung [orig. 136] in ihrer Bestimmtheit ist daher das Verhältniß, daß Ein und Dasselbe (der Inhalt) die Aeußerlichkeit und Entgegensetzung selbstständiger Existenzen und deren identische Beziehung ist, in welcher die Unterschiedenen allein das sind, was sie sind.
+
+## c.
+
+## DAS VERHÄLTNISS.
+
+§. 135.
+
+1) Das unmittelbare Verhältniß ist das des Ganzen und der Theile; der Inhalt ist das Ganze und besteht aus den Theilen, dem Gegentheile seiner. Die Theile sind die selbstständigen Verschiedenen; sie sind aber nur Theile in ihrer identischen Beziehung auf einander, oder in sofern sie zusammengenommen das Ganze ausmachen; aber das Zusammen ist das Gegentheil des Theiles.
+
+[p. 123] §. 136.
+
+2) Das Eine und Dasselbe dieses Verhältnisses ist somit unmittelbar die negative Beziehung auf sich selbst, und zwar als die Vermittlung, daß ein und dasselbe gleichgültig gegen den Unterschied, und daß es die negative Beziehung auf sich ist, welche als Reflexion-in-sich sich selbst zum Unterschiede abstößt und sich als Reflexion-in-Anderes existirend setzt, und umgekehrt; die Kraft und ihre Aeußerung.
+
+Das Verhältniß des Ganzen und der Theile ist das unmittelbare, daher das gedankenlose Verhältniß und Umschlagen der Identität-mit-sich in die Verschiedenheit. Es wird vom Ganzen zu den Theilen und von den Theilen zum Ganzen übergegangen, und in einem der Gegensatz gegen das andere vergessen, indem jedes für sich als eine selbstständige Existenz ge|nommen wird. Oder indem die Theile in dem Ganzen, und dieses aus jenen bestehen sollen, so ist das einemal das eine, das andremal das andre das Bestehende, und ebenso jedesmal das andre desselben ein unwesentliches. Das mechanische Verhältniß besteht in seiner oberflächlichen Form überhaupt darin, daß die Theile als selbstständige gegen einander und gegen das Ganze sind. Der Progreß ins Unendliche, welcher die Theilbarkeit der Materie betrifft, kann sich auch dieses Verhältnisses bedienen, und ist dann die gedankenlose Abwechslung mit den beiden Seiten desselben. Ein Ding wird das einemal als ein Ganzes genommen, dann wird zur Theilbestimmung übergegangen; diese Bestimmung wird nun vergessen und was Theil war, als Ganzes betrachtet; dann tritt wieder die Bestimmung des Theiles auf u.s.f. ins Unendliche. Diese Unendlichkeit aber als das wahrhafte Negative genommen, ist die negative Beziehung des Verhältnisses auf sich, die Kraft, das mit sich identische Ganze, als Insichseyn, – und als sich aufhebend und äußernd, und umgekehrt die Aeußerung, die verschwindet, und in die Kraft zurückgeht.
+
+Die Kraft ist dieser Unendlichkeit ungeachtet, auch endlich; denn der Inhalt, das Eine und Dasselbe der Kraft und der Aeußerung, ist nur erst an sich diese Identität, die beiden Seiten des Verhältnisses sind noch nicht selbst jede für sich die concrete Identität Desselben, noch nicht die Totalität. Sie sind daher für einander verschiedene, und das Verhältniß ein endliches. Die Kraft bedarf daher der Sollicitation von außen, wirkt blind, und die Bestimmtheit des Inhalts ist eine beschränkte und zufällige. Er ist noch nicht als Begriff und Zweck, der das an- und für-sich bestimmte ist. - Man pflegt [p. 124] darum auch zu sagen, daß die Natur der Kraft selbst unbekannt sey, und nur ihre Aeußerung erkannt werde. Einestheils ist die ganze Inhaltsbestimmung der Kraft eben dieselbe als die der Aeußerung; die Erklärung einer Erscheinung aus einer Kraft, ist deswegen eine leere Tavtologie. Was unbekannt seyn soll, ist in der That nichts als die leere Form der Reflexion-in-sich, wodurch allein die Kraft von der Aeußerung unterschieden ist, - eine Form, die aber etwas ganz wohlbekanntes ist. Diese Form thut zum Inhalte und zum Gesetze, welche nur aus der Erscheinung allein erkannt werden sollen, im geringsten nichts hinzu. Auch wird ausdrücklich überall versichert, es solle damit über die Kraft nichts behauptet werden; es ist also nicht abzusehen, warum die Form von Kraft in die Wissenschaften eingeführt worden ist. - Anderntheils ist aber die Natur der Kraft allerdings ein unbekanntes, weil sowohl die Nothwendigkeit des Zusammenhangs ihres Inhalts in sich selbst, als desselben, in sofern er für sich beschränkt ist und daher seine Bestimmtheit vermittelst eines Andern außer ihm hat, noch mangelt.
+
+§. 137.
+
+Die Kraft ist als das Ganze, welches an sich selbst die negative Beziehung auf sich ist, dies, sich von sich abzustoßen und sich zu äußern. Aber da diese Reflexionin-Anderes, der Unterschied der Theile, eben so sehr Reflexion-in-sich ist, so ist die Aeußerung die Vermittlung, wodurch die Kraft in sich zurückkehrt; ihre Aeußerung ist selbst das Aufheben der Verschiedenheit der beiden Seiten, welche in diesem Verhältnisse vorhanden ist, und das Setzen der Identität, die an sich den Inhalt ausmacht. Ihre Wahrheit ist darum das Verhältniß, dessen beide Seiten nur als Inneres und Aeußeres unterschieden sind.
+
+§. 138.
+
+3) Das Innere ist der Grund, wie er als die bloße Form der einen Seite der Erscheinung und des | Verhältnisses ist, die leere Form der Reflexion-in-sich, welcher die Existenz gleichfalls als die Form der andern Seite des Verhältnisses mit der leeren Bestimmung der Reflexion-in-Anderes, als Aeußeres gegenüber steht. Ihre Identität ist die erfüllte, der Inhalt, die selbst in der Bewegung der Kraft gesetzte Einheit der Reflexion-in-sich und der Reflexion-in-Anderes; beide sind dieselbe eine Totalität, und diese Einheit macht sie zum Inhalt.
+
+[p. 125] §. 139.
+
+Das Aeußere ist daher vors erste derselbe Inhalt als das Innere. Was innerlich ist, ist auch äußerlich vorhanden und umgekehrt; die Erscheinung zeigt nichts, was nicht im Wesen ist, und im Wesen ist nichts, was nicht manifestirt ist.
+
+§. 140.
+
+Zweitens. Inneres und Aeußeres sind aber auch als Formbestimmungen sich schlechthin entgegengesetzt als die Abstractionen von Identität mit sich und von bloßer Mannichfaltigkeit oder Realität. Indem sie aber als Momente der Einen Form wesentlich identisch sind, so ist das, was nur erst in der einen Abstraction gesetzt ist, unmittelbar auch nur in der andern. Was daher nur ein Innerliches ist, ist auch damit nur ein Aeußerliches; und was nur ein Aeußerliches ist, ist auch nur erst ein Innerliches.
+
+Es ist der gewöhnliche Irrthum der Reflexion, das Wesen als das blos Innere zu nehmen. Wenn es blos so genommen wird, so ist auch diese Betrachtung eine ganz äußerliche, und jenes Wesen die leere äußerliche Abstraction.
+
+Ins Innere der Natur, sagt ein Dichter: Dringt kein erschaffner Geist,
+
+Zu glücklich, wenn er nur die äußere Schaale weißt.[^gw19-125-1]
+
+[^gw19-125-1]: *) Vergl. Göthe's Unwilliger Ausruf, zur Naturwissensch. I. Bd. 3tes Hft.:
+
+Es hätte vielmehr heißen müssen, eben dann, wenn ihm das Wesen der Natur als Innres bestimmt ist, weiß er nur die äußere Schaale. - Weil im Seyn überhaupt oder auch im nur sinnlichen Wahrnehmen, der Begriff nur erst das Innre, ist er ein demselben Aeußeres, ein subjectives, wahrheitsloses Seyn wie Denken. - An der Natur, so wie am Geiste, in sofern der Begriff, Zweck, Gesetz nur erst innere Anlagen, reine Möglichkeiten sind, sind sie nur erst eine äußerliche unorganische Natur, Wissenschaft eines Dritten, fremde Gewalt u.s.f.
+
+§. 141.
+
+Die leeren Abstractionen, durch welche der eine identische Inhalt noch im Verhältnisse seyn soll, heben sich in dem unmittelbaren Uebergehen, die eine in der
+
+Das hör' ich sechszig Jahre wiederholen, Und fluche drauf, aber verstohlen,
+
+Natur hat weder Kern noch Schaale,
+
+Alles ist sie mit einem Male. [orig. 140]
+
+[p. 126] andern, auf; der Inhalt ist selbst nichts anders als deren Identität, (§. 138.) sie sind der als Schein gesetzte Schein des Wesens. Durch die Aeußerung der Kraft wird das Innere in Existenz gesetzt; dies Setzen ist das Vermitteln durch leere Abstractionen; es verschwindet in sich selbst zur Unmittelbarkeit, in der das Innere und Aeußere an und für sich identisch ist. Diese Identität ist die Wirklichkeit. [orig. 141]
+
+## C.
+
+## DIE WIRKLICHKΕΙΤ.
+
+§. 142.
+
+Die Wirklichkeit ist die unmittelbar gewordene Einheit des Wesens und der Existenz, oder des Innern und des Aeußern. Die Aeußerung des Wirklichen ist das Wirkliche selbst, so daß es in ihr ebenso wesentliches bleibt, und nur in sofern wesentliches ist, als es in unmittelbarer äußerlicher Existenz ist.
+
+Früher sind als Formen des Unmittelbaren, Seyn und Existenz, vorgekommen; das Seyn ist überhaupt unreflectirte Unmittelbarkeit, und Uebergehen in Anderes. Die Existenz ist unmittelbare Einheit des Seyns und der Reflexion, daher Erscheinung, kommt aus dem Grunde, und geht zu Grunde. Das Wirkliche ist das Gesetztseyn jener Einheit, das mit sich identisch-gewordene Verhältniß; es ist daher dem Uebergehen entnommen, und seine Aeußerlichkeit ist seine Energie; es ist in ihr in sich reflectirt; sein Daseyn ist nur die Manifestation seiner selbst, nicht eines Andern.
+
+§. 143.
+
+Die Wirklichkeit, als dies Concrete, enthält jene Bestimmungen und deren Unterschied, und ist die Entwicklung derselben. 1) Als Identität überhaupt ist sie zunächst die Möglichkeit; - die Reflexion-in-sich, welche als der concreten Einheit des Wirklichen gegenüber, als die abstracte und unwesentliche Wesentlichkeit gesetzt ist. Die Möglichkeit ist das Wesentliche zur Wirklichkeit, aber sie ist zugleich nur Möglichkeit.
+
+Die Bestimmung der Möglichkeit ist es wohl, welche Kant vermochte, sie und mit ihr die Wirklichkeit und Nothwendigkeit als Modalitäten anzusehen, [orig. 142] »indem diese Bestimmungen den Begriff als Object nicht im mindesten vermehrten, sondern nur das Verhältniß zum Erkenntnißvermögen ausdrücken.« In der That ist die Möglichkeit zunächst die leere Abstraction [p. 127] der Reflexion-in-sich, so daß sie nur dem subjectiven Denken angehört. Sie ist das, was vorhin das Innere hieß, nur daß es, da es im Wirklichen aufgehoben ist, nun als das aufgehobene, nur gesetzte, äußerliche Innre bestimmt, und so allerdings als eine bloße Modalität, als unzureichende Abstraction, auch gesetzt ist. Wirklichkeit und Nothwendigkeit dagegen sind wahrhaft nichts weniger als eine bloße Art und Weise für ein Anderes, vielmehr gerade das Gegentheil. - Weil nun die Möglichkeit zunächst gegen das concrete Wirkliche die bloße Form der Identität-mit-sich ist, so ist die Regel für dieselbe nur, daß Etwas sich in sich nicht widerspreche, und so ist Alles möglich; denn allem Inhalte kann diese Form durch die Abstraction gegeben werden. Aber Alles ist eben so sehr unmöglich, denn in allem Inhalte, da er ein Concretes ist, kann die Bestimmtheit als bestimmter Gegensatz und damit als Widerspruch gefaßt werden. - Es gibt daher kein leereres Reden, als das von solcher Möglichkeit und Unmöglichkeit. Insbesondere muß in der Philosophie von dem Aufzeigen, daß Etwas möglich, oder daß auch noch Etwas anders möglich, und daß Etwas, wie man es auch ausdrückt, denkbar sey, nicht die Rede seyn.
+
+§. 144.
+
+2) Das Wirkliche aber in seinem Unterschiede von der Möglichkeit als der Reflexion-in-sich, ist selbst nur das äußerliche Concrete, das unwesentliche Unmittelbare. Oder vielmehr das Wirkliche ist um seiner Unmittelbarkeit willen selbst unmittelbar in der Abstraction der Reflexion-in-sich; es selbst ist somit als ein nur Mögliches bestimmt. In diesem Werthe einer bloßen Möglichkeit, oder unwesentlichen Wirklichkeit ist es ein Zufälliges, und die Möglichkeit ist der bloße Zufall selbst.
+
+§. 145.
+
+Möglichkeit und Zufälligkeit sind als die bloßen Formen gesetzt, welche die Aeußerlichkeit des Wirklichen ausmachen. Sie haben an dem in-sich bestimmten Wirklichen, dem Inhalte, als ihrem wesentlichen Bestimmungsgrunde, ihre Reflexion-in-sich. Die Endlichkeit des Zufälligen und Möglichen besteht daher näher in dem Unterschiede der Formbestimmung von dem Inhalte, und, ob etwas zufällig und möglich ist, kommt auf den Inhalt an.
+
+§. 146.
+
+Jene Aeußerlichkeit der Wirklichkeit besteht näher darin, daß diese als Vermittlung ist; nämlich die Zufälligkeit ist als unmittelbare Wirklichkeit das mit [p. 128] sich Identische wesentlich nur als Gesetztseyn, das ebenso aufgehoben ist. Sie ist so ein Vorausgesetztes, dessen Unmittelbarkeit zugleich eine Möglichkeit ist und die Bestimmung hat, aufgehoben zu werden, - die Möglichkeit eines Andern, die Bedingung.
+
+§. 147.
+
+3) Diese so entwickelte Aeußerlichkeit ist als dieser Kreis der Bestimmungen zunächst die reale Möglichkeit überhaupt. Als solcher Kreis ist sie ferner die Totalität als Inhalt, so die an und für sich bestimmte Sache, und ebenso, nach dem Unterschiede der Bestimmungen in dieser Einheit, die concrete Totalität der Form für sich, das unmittelbare Sich-Uebersetzen des Innern ins Aeußere, und des Aeußern ins Innere. Dies sich Bewegen der Form ist Thätigkeit, Bethätigung der Sache, als des realen Grundes, der sich zur Wirklichkeit auf|hebt, und Bethätigung der zufälligen Wirklichkeit, der Bedingungen, deren Reflexion-in-sich und ihr sich Aufheben zu einer andern Wirklichkeit, der Wirklichkeit der Sache. Wenn alle Bedingungen vorhanden sind, muß die Sache wirklich werden, und die Sache ist selbst eine der Bedingungen, denn sie ist zunächst als Inneres selbst nur ein Vorausgesetztes. Diese entwickelte Wirklichkeit, als der in Eins fallende Wechsel des Innern und Aeußern, der Wechsel ihrer entgegengesetzten Bewegungen, die zu Einer Bewegung vereint sind, ist die Nothwendigkeit.
+
+Die Nothwendigkeit ist zwar richtig als Einheit der Möglichkeit und Wirklichkeit definirt worden. Aber nur so ausgedrückt ist diese Bestimmung oberflächlich und deswegen unverständlich. Der Begriff der Nothwendigkeit ist sehr schwer, und zwar weil sie der Begriff selbst ist, aber dessen Momente noch als Wirklichkeiten sind, die zugleich doch nur als Formen, als in sich gebrochene und als übergehende zu fassen sind. Es soll deswegen in den beiden folgenden SS. die Exposition der Momente, welche die Nothwendigkeit ausmachen, noch ausführlicher angegeben werden.
+
+## §. *148*.
+
+Unter den drei Momenten, der Bedingung, der Sache, und der Thätigkeit ist a. Die Bedingung, a) das Vorausgesetzte; als nur gesetztes ist sie nur als relativ auf die Sache, aber als Voraus, ist sie als für sich, - zufälliger, äußerlicher [p. 129] Umstand, der ohne Rücksicht auf die Sache existirt; in dieser Zufälligkeit zugleich in Rücksicht auf sie ist dies Vorausgesetzte ein vollständiger Kreis von Bedingungen. ẞ) Die Bedingungen sind passiv, werden für die Sache als Material verwendet, und gehen damit in den Inhalt der Sache ein; sie sind demselben gemäß und enthalten dessen ganze Bestimmungen bereits in sich. [orig. 145]
+
+b. Die Sache ist ebenso a) ein Vorausgesetztes; als gesetzte, nur erst ein Inneres und Mögliches, und als voraus, ein für sich selbstständiger Inhalt; ẞ) sie erhält durch die Verwendung der Bedingungen ihre äußerliche Existenz, das Realisiren ihrer Inhaltsbestimmungen, welche den Bedingungen wesentlich gemäß seyn müssen.
+
+c. Die Thätigkeit ist a) ebenso für sich, (ein Mensch, ein Charakter) selbstständig existirend und zugleich hat sie ihre Möglichkeit allein an den Bedingungen und an der Sache; ẞ) sie ist die Bewegung, die Bedingungen in die Sache, diese in jene als die Seite der Existenz zu übersetzen; vielmehr aber nur die Sache aus den Bedingungen, in welchen sie an sich vorhanden ist, heraus zu setzen, und durch Aufhebung der Existenz, welche die Bedingungen haben, der Sache Existenz zu geben.
+
+In sofern diese drei Momente die Gestalt selbstständiger Existenz gegen einander haben, ist dieser Proceß die äußere Nothwendigkeit. – Diese Nothwendigkeit hat einen beschränkten Inhalt zu ihrer Sache. Denn die Sache ist dies Ganze in einfache Bestimmtheit zusammen gefaßt; da das Ganze in ihm selbst sich äußerlich ist, so ist diese Aeußerlichkeit an der Sache selbst, und an dieser ist sie Schranke überhaupt.
+
+§. 149.
+
+Die Nothwendigkeit ist daher das Eine mit sich identische, aber inhaltsvolle, Wesen, das so in sich scheint, daß seine Unterschiede die Form selbstständiger Wirklicher haben, und dies identische ist zugleich als absolute Form, die Thätigkeit des Aufhebens [der Unmittelbarkeit] in Vermitteltseyn, und der Vermittlung in Unmittelbarkeit. – Das, was nothwendig ist, ist durch ein Anderes, welches in den vermittelnden Grund (die Sache und die Thätigkeit), und in eine unmittelbare Wirklichkeit, ein Zufälliges, das zugleich Bedingung ist, zerfallen ist. Das Nothwendige als durch ein Anderes ist nicht an und für [orig. 146] sich, sondern ein blos gesetztes. Aber diese Vermittlung ist eben so unmittelbar das Aufheben ihrer selbst; der Grund und die zufällige Bedingung wird in Unmittelbarkeit übergesetzt, wodurch jenes Gesetztseyn zur Wirklichkeit aufgehoben, und die Sache mit [p. 130] sich selbst zusammengegangen ist. In dieser Rückkehr in sich ist das Nothwendige schlechthin, als unbedingte Wirklichkeit.
+
+## a.
+
+## SUBSTANTIALITÄTS-VERHÄLTNISS.
+
+§. 150.
+
+Das Nothwendige ist in sich absolutes Verhältniß, d. i. der (in den vorh. SS.) entwickelte Proceß, in welchem das Verhältniß sich ebenso zur absoluten Identität aufhebt.
+
+Unmittelbar ist es das Verhältniß der Substantialität und Accidentalität. Die absolute Identität dieses Verhältnisses mit sich ist die Substanz als solche, die aber als Nothwendigkeit die Negativität dieser Innerlichkeit ist, also sich als Wirklichkeit setzt, aber ebenso die Negativität dieses Aeußerlichen ist, nach welcher das Wirkliche als unmittelbares nur ein Accidentelles ist, das durch diese seine bloße Möglichkeit in eine andere Wirklichkeit übergeht; ein Uebergehen, welches die substantielle Identität als die Formthätigkeit (§. 148. 149.) ist.
+
+§. 151.
+
+Die Substanz ist hiemit die Totalität der Accidenzen, in denen sie sich als deren absolute Negativität, d. i. als absolute Macht und als den Reichthum alles Inhalts offenbart. Dieser Inhalt ist aber nichts als diese Manifestation selbst, indem die in sich zum Inhalte reflectirte Bestimmtheit selbst nur ein Moment der [orig. 147] Form ist, das in der Macht der Substanz übergeht. Die Substantialität ist selbst die absolute Formthätigkeit und die Macht der Nothwendigkeit, und aller Inhalt nur Moment, das allein diesem Processe angehört, – das absolute Umschlagen der Form und des Inhalts in einander.
+
+§. 152.
+
+Nach dem Momente, daß die Substanz als absolute Macht, die sich auf sich als auf nur innere Möglichkeit beziehende und sich damit zur Accidentalität bestimmende Macht ist, ist sie wirkend, - Causalität, und nach diesem gesetzten Unterschiede Causalitäts-Verhältniß.
+
+## [p. 131] b.
+
+## CAUSALITÄTS-VERHÄLTNISS.
+
+§. 153.
+
+Die Substanz ist Ursache, in sofern sie gegen ihr Uebergehen in die Accidentalität, sich in sich reflectirt, und so die ursprüngliche Sache ist, aber eben so sehr die Reflexion-in-sich oder ihre bloße Möglichkeit aufhebt, sich als das Negative ihrer selbst setzt, und so eine Wirkung hervorbringt, eine Wirklichkeit, die so nur eine Gesetzte, aber durch den Proceß des Wirkens, zugleich nothwendige ist.
+
+Die Ursache ist in der Nothwendigkeit, deren Identität ihre Ursprünglichkeit selbst ausmacht, in die Wirkung übergegangen. Es ist kein Inhalt, in sofern wieder von einem bestimmten Inhalte die Rede seyn kann, in der Wirkung, der nicht in der Ursache ist; - jene Identität ist der absolute Inhalt selbst; ebenso ist sie aber auch die Formbestimmung, die Ursprünglichkeit der Ursache wird in der Wirkung aufgehoben, in der sie sich zu einem Gesetztseyn macht. Dies Gesetztseyn [orig. 148] ist aber ebenso unmittelbar aufgehoben, es ist vielmehr die Reflexion der Ursache in sich selbst, ihre Ursprünglichkeit; in der Wirkung ist erst die Ursache wirklich und Ursache. Die Ursache ist daher an und für sich Causa sui. Jacobi, fest in der einseitigen Vorstellung der Vermittlung, hat (Briefe über Spinoza, 2te Ausg. S. 416.) die Causa sui (der Effectus sui ist dasselbe), diese absolute Wahrheit der Ursache, blos für einen Formalismus genommen. Auch in der endlichen Ursache ist diese Identität in Ansehung des Inhalts vorhanden; der Regen, die Ursache, und die Nässe, die Wirkung, sind ein und dasselbe existirende Wasser.
+
+Die Ursache im gemeinen Sinne des Causalverhältnisses ist endlich, in sofern ihr Inhalt endlich ist, (wie in der endlichen Substanz) und in sofern Ursache und Wirkung als zwei verschiedene selbstständige Existenzen vorgestellt werden, was sie aber nur sind, indem bei ihnen vom Causalitätsverhältniß abstrahirt wird. Weil in der Endlichkeit bei dem Unterschiede der Formbestimmungen in deren Beziehung stehen geblieben wird, so wird abwechslungsweise die Ursache auch als ein Gesetztes oder als Wirkung bestimmt; diese hat dann wieder eine andere Ursache; so entsteht auch hier der Progreß von Wirkungen zu Ursachen ins Unendliche. Ebenso der absteigende, indem die Wirkung, nach ihrer Identität mit der Ursache selbst als Ursache, und zugleich als eine andere bestimmt wird, die wieder andere Wirkungen hat und sofort ins Unendliche.
+
+[p. 132] §. 154.
+
+Von der Ursache ist die Wirkung verschieden; diese ist als solche Gesetztseyn. Aber das Gesetztseyn ist ebenso Reflexion-in-sich und Unmittelbarkeit, und das Wirken der Ursache, ihr Setzen, ist zugleich Voraussetzen. Es ist hiemit eine andere Substanz vorhanden, auf welche ihre Wirkung geschieht. Diese ist, als unmittelbar, nicht sich auf sich beziehende Negativität und activ, sondern passiv. Aber als Substanz ist sie ebenso activ, hebt die vorausgesetzte Unmittelbarkeit und die in sie gesetzte Wirkung auf, reagirt, d. h. sie hebt die Activität der ersten Substanz auf, welche aber ebenso dies Aufheben ihrer Unmittelbarkeit oder der in sie gesetzten Wirkung ist, hiemit die Activität der andern aufhebt, und reagirt. Die Causalität ist hiemit in das Verhältniß der Wechselwirkung übergegangen.
+
+In der Wechselwirkung ist der Progreß von Ursachen und Wirkungen ins Unendliche, auf wahrhafte Weise aufgehoben; indem das geradlinige Hinausgehen von Ursachen zu Wirkungen und von Wirkungen zu Ursachen, in sich um- und zurückgebogen ist. Diese Umbeugung des unendlichen Progresses zu einem in sich beschlossenen Verhältniß ist wie überall die einfache Reflexion, daß in jener gedankenlosen Wiederholung nur ein und dasselbe vorhanden ist, nämlich eine und eine andere Ursache, und deren Beziehung auf einander. Die Entwicklung dieser Beziehung, das Wechselwirken, ist selbst die Abwechslung des Unterscheidens der Momente, an deren jedem für sich, wieder nach der Identität, daß die Ursache nur in der Wirkung Ursache, und umgekehrt ist, - nach dieser Untrennbarkeit, ebenso auch das andere Moment gesetzt wird.
+
+## DIE WECHSELWIRKUNG.
+
+§. 155.
+
+Die in der Wechselwirkung als unterschieden festgehaltenen Bestimmungen sind an sich dasselbe; die eine Seite ist Ursache, ursprünglich, activ, passiv u.s.f. | wie die andere. Ebenso ist das Voraussetzen einer andern, und das Wirken auf sie, die unmittelbare Ursprünglichkeit, und das Gesetztseyn durch den Wechsel, ein und dasselbe. Die als erste angenommene Ursache ist um ihrer Unmittelbarkeit willen passive, Gesetztseyn und Wirkung. Der Unterschied der als zwei [p. 133] genannten Ursachen ist leer, und es ist an sich nur Eine, sich in ihrer Wirkung ebenso als Substanz aufhebende, als sich in diesem Wirken erst verselbstständigende Ursache vorhanden.
+
+§. 156.
+
+Aber auch für sich ist diese Einheit, indem dieser ganze Wechsel das eigene Setzen der Ursache und nur dies ihr Setzen ihr Seyn ist. Die Nichtigkeit der Unterschiede (vorhg. §.) ist nicht nur an sich oder unsere Reflexion, sondern die Wechselwirkung ist selbst dies, jede der gesetzten Bestimmungen auch wieder aufzuheben und in die entgegengesetzte zu verkehren. In die Ursprünglichkeit wird eine Wirkung gesetzt, d. h. die Ursprünglichkeit wird aufgehoben; die Action einer Ursache wird zur Reaction u.s.f.
+
+§. 157.
+
+Dieser reine Wechsel mit sich selbst ist hiemit die enthüllte oder gesetzte Nothwendigkeit. Das Band der Nothwendigkeit als solcher ist die Identität als noch innere, weil sie die Identität von Wirklichen ist, deren Selbstständigkeit jedoch eben die Nothwendigkeit seyn soll. Der Verlauf der Substanz durch die Causalität und Wechselwirkung ist daher nur das Setzen, daß die Selbstständigkeit die unendliche negative Beziehung auf sich ist, negative überhaupt, in der das Unterscheiden und Vermitteln zu einer Ursprünglichkeit gegeneinander selbstständiger Wirklichen wird, unendliche Beziehung auf sich selbst, indem die Selbstständigkeit derselben eben nur als ihre Identität ist. [orig. 151]
+
+§. 158.
+
+Diese Wahrheit der Nothwendigkeit ist somit die Freiheit, und die Wahrheit der Substanz ist der Begriff, - die Selbstständigkeit, welche das sich von sich Abstoßen in unterschiedene Selbstständige, als dies Abstoßen identisch mit sich, und diese bei sich selbst bleibende Wechselbewegung nur mit sich ist.
+
+§. 159.
+
+Der Begriff ist hiemit die Wahrheit des Seyns und des Wesens, indem das Scheinen der Reflexion in sich selber, zugleich selbstständige Unmittelbarkeit, und dieses Seyn verschiedener Wirklichkeit unmittelbar nur ein Scheinen in sich selbst ist.
+
+[p. 134] Indem der Begriff sich als die Wahrheit des Seyns und Wesens erwiesen hat, welche beide in ihm als in ihren Grund zurückgegangen sind, so hat er umgekehrt sich aus dem Seyn als aus seinem Grunde entwickelt. Jene Seite des Fortgangs kann als ein Vertiefen des Seyns in sich selbst, dessen Inneres durch diesen Fortgang enthüllt worden ist, diese Seite als Hervorgang des Vollkommnern aus dem Unvollkommnern betrachtet werden. Indem man solche Entwicklung nur nach der letzten Seite genommen hat, hat man der Philosophie daraus einen Vorwurf gemacht. Der bestimmtere Gehalt, den die oberflächlichern Gedanken von Unvollkommnerem und Vollkommnerem hier haben, ist der Unterschied, den das Seyn als unmittelbare Einheit mit sich, vom Begriffe als der freien Vermittlung mit sich, hat. Indem sich das Seyn als ein Moment des Begriffs gezeigt hat, hat er sich dadurch als die Wahrheit des Seyns erwiesen; als diese seine Reflexion-in-sich und als Aufheben der Vermittlung ist er das Voraussetzen des Unmittelbaren, - ein Voraussetzen, [orig. 152] das mit der Rückkehr-in-sich identisch ist, welche Identität die Freiheit und den Begriff ausmacht. Wenn daher das Moment das Unvollkommne genannt wird, so ist der Begriff, das Vollkommne, allerdings dies, sich aus dem Unvollkommnen zu entwickeln, denn er ist wesentlich dies Aufheben seiner Voraussetzung. Aber er ist es zugleich allein, der als sich setzend sich die Voraussetzung macht, wie sich in der Causalität überhaupt und näher in der Wechselwirkung ergeben hat.
+
+Was die Beziehung des Seyns und Wesens zum Begriffe betrifft, so ist der Begriff das zum Seyn als einfacher Unmittelbarkeit zurückgegangene Wesen, dessen Scheinen dadurch Wirklichkeit hat, und dessen Wirklichkeit zugleich freies Scheinen in sich selbst ist. Das Seyn hat der Begriff auf solche Weise als seine einfache Beziehung auf sich oder als die Unmittelbarkeit seiner Einheit in sich selbst; Seyn ist eine so arme Bestimmung, daß sie das Wenigste ist, was im Begriffe aufgezeigt werden kann.
+
+Der Uebergang von der Nothwendigkeit zur Freiheit, oder vom Wirklichen in den Begriff ist der härteste, weil die selbstständige Wirklichkeit gedacht werden soll, als in dem Uebergehen und der Identität mit der ihr andern selbstständigen Wirklichkeit, allein ihre Substantialität zu haben; so ist auch der Begriff das härteste, weil er selbst eben diese Identität ist. Die wirkliche Substanz als solche aber, die Ursache, die in ihrem Fürsichseyn nichts in sich eindringen lassen will, ist schon der Nothwendigkeit oder dem Schicksal unterworfen, und diese Unterwerfung ist vielmehr das härteste. Das Denken der Nothwendigkeit aber, ist vielmehr die Auflösung jener Härte; denn [p. 135] es ist das Zusammengehen Seiner im Andern mit Sich selbst, die Befreiung, welche nicht die Flucht der Abstraction ist, sondern in dem andern Wirklichen, mit dem das Wirkliche durch die Macht der Nothwendigkeit | zusammengebunden ist, sich nicht als anderes, sondern sein eigenes Seyn und Setzen zu haben. Als für sich existirend heißt diese Befreiung, Ich, als zu ihrer Totalität entwickelt freier Geist, als Empfindung Liebe, als Genuß Seeligkeit. Die große Anschauung der Spinozistischen Substanz ist nur an sich die Befreiung von endlichem Fürsichseyn; aber der Begriff selbst ist für sich die Macht der Nothwendigkeit und die wirkliche Freiheit. |
+
+## [p. 136] DRITTE ABTHEILUNG DER LOGIK.
+
+## DIE LEHRE VOM BEGRIFF.
+
+§. 160.
+
+Der Begriff ist das Freie, als die für sich seyende Macht der Substanz; und als die Totalität dieser Negativität, in welcher jedes der Momente das Ganze ist, das er ist, und als ungetrennte Einheit mit ihm gesetzt ist, ist er in seiner Identität mit sich das an und für sich bestimmte.
+
+§. 161.
+
+Das Fortgehen des Begriffs ist nicht mehr Uebergehen noch Scheinen in Anderes, sondern Entwicklung, indem das Unterschiedene unmittelbar zugleich als das identische gesetzt, oder die Bestimmtheit als ein freies Seyn des Begriffes ist.
+
+§. 162.
+
+Die Lehre vom Begriffe theilt sich in die Lehre 1) von dem subjectiven oder formellen Begriffe, 2) von dem Begriffe als zur Unmittelbarkeit bestimmtem, oder von der Objectivität, 3) von der Idee, dem Subject-Objecte, der Einheit des Begriffs und der Objectivität, der absoluten Wahrheit.
+
+Die gewöhnliche Logik faßt nur die Materien in sich, die hier als ein Theil des dritten Theils [orig. 155] des Ganzen vorkommen, außerdem etwa die oben vorgekommenen sogenannten Gesetze des Denkens und in der angewandten Logik noch einiges von dem Erkennen. Die Dürftigkeit dieses Umfangs aufzuzeigen, ist um so überflüssiger, da derselbe sich selbst nur als ein zufällig aufgelesenes Material gibt, und an irgend eine Rechtfertigung, daß er nicht mehr oder auch weniger sey, nicht gedacht wird. Ohnehin werden diese Formen auch nur als Bestimmungen des bewußten und zwar desselben als nur verständigen, nicht vernünftigen Denkens genommen.
+
+In Beziehung auf die vorhergehenden logischen Bestimmungen, die Bestimmungen des Seyns und Wesens, kann bemerkt werden, daß sie zwar an [p. 137] sich nicht bloße Gedankenbestimmungen sind; in ihrem Uebergehen, dem dialektischen Momente, und in ihrer Rückkehr in sich und Totalität erweisen sie sich als Begriffe. Aber sie sind nur bestimmte Begriffe, Begriffe an sich, oder was dasselbe ist, für uns, indem das Andere, in das jede Bestimmung übergeht, oder in welchem sie scheint, nicht als Besonderes, noch ihr Drittes als Einzelnes oder Subject bestimmt, nicht die Identität der Bestimmung in ihrer entgegengesetzten, ihre Freiheit gesetzt ist, weil sie nicht Allgemeinheit ist. - Was gewöhnlich unter Begriffen verstanden wird, sind Verstandes-Bestimmungen, auch nur allgemeine Vorstellungen: daher überhaupt endliche Bestimmungen; vergl. §. 62.
+
+Die Logik des Begriffs wird nach ihrer gewöhnlichen Behandlung als eine nur formelle Wissenschaft so verstanden, daß es auf die Form als solche des Begriffs, des Urtheils und Schlusses, aber ganz und gar nicht darauf ankomme, ob Etwas wahr sey; sondern dies hänge ganz allein vom Inhalte ab. Wären wirklich die logischen Formen des Begriffs todte, unwirksame und gleichgültige Behälter von Vorstellungen oder Ge [orig. 156] danken, so wäre ihre Kenntniß eine sehr überflüssige und entbehrliche Historie. In der That aber sind sie umgekehrt als Formen des Begriffs der lebendige Geist des Wirklichen, und von dem Wirklichen ist wahr nur, was kraft dieser Formen, durch sie und in ihnen wahr ist. Die Wahrheit dieser Formen für sich selbst ist aber seither nie betrachtet und untersucht worden, eben so wenig als ihr nothwendiger Zusammenhang. [orig. 157]
+
+## A.
+
+## DER SUBJECTIVE BEGRIFF.
+
+## a.
+
+## DER BEGRIFF ALS SOLCHER.
+
+§. 163.
+
+Der Begriff als solcher enthält die Momente der Allgemeinheit, als freier Gleichheit mit sich selbst in ihrer Bestimmtheit, der Besonderheit, der Bestimmtheit, in welcher das Allgemeine ungetrübt sich selbst gleich bleibt, und der Einzelnheit, als der Reflexion der Bestimmtheit in sich, welche negative [p. 138] Einheit mit sich zugleich das an und für sich bestimmte, und das mit sich identische oder allgemeine ist.
+
+Das Einzelne ist dasselbe, was das Wirkliche ist, nur daß jenes aus dem Begriffe hervorgegangen, somit als allgemeines, als die negative Identität mit sich gesetzt ist. Das Wirkliche, weil es nur erst an sich oder unmittelbar die Einheit des Wesens und der Existenz ist, kann es wirken; die Einzelnheit des Begriffes aber ist schlechthin das Wirkende, und zwar auch nicht mehr wie die Ursache mit dem Scheine, ein Anderes zu wirken, sondern das Wirkende seiner selbst. - Die Einzelnheit ist aber nicht in dem Sinne unmittelbarer Einzelnheit zu nehmen, nach der wir von einzelnen Dingen, Menschen sprechen; diese Bestimmtheit der Einzelnheit kommt erst beim Urtheile vor. [orig. 158]
+
+§. 164.
+
+Der Begriff ist das schlechthin Concrete, weil die negative Einheit mit sich, die Einzelnheit, seine Beziehung auf sich, die Allgemeinheit ausmacht. Die Momente des Begriffes können in sofern nicht abgesondert werden; die Reflexionsbestimmungen sollen jede für sich abgesondert von der entgegengesetzten, gefaßt werden und gelten; aber indem im Begriff ihre Identität gesetzt ist, kann jedes seiner Momente unmittelbar nur aus und mit den andern gefaßt werden.
+
+Allgemeinheit, Besonderheit und Einzelnheit sind abstract genommen dasselbe, was Identität, Unterschied und Grund. Aber das Allgemeine ist das mit sich Identische ausdrücklich in der Bedeutung, daß in ihm zugleich das Besondere und Einzelne enthalten sey. Ferner ist das Besondere das Unterschiedene in der Bedeutung, daß es allgemein in sich und als Einzelnes sey. Ebenso hat das Einzelne die Bedeutung, daß es Subject, Grundlage sey, welche die Gattung und Art in sich enthalte, und selbst substantiell sey. Dies ist die gesetzte Ungetrenntheit der Momente in ihrem Unterschiede (§. 160.) die Klarheit des Begriffes, in welchem jeder Unterschied keine Unterbrechung, Trübung macht, sondern eben so durchsichtig ist.
+
+Man hört nichts gewöhnlicher sagen, als daß der Begriff etwas Abstractes ist. Dies ist in sofern richtig, als er noch nicht die Idee ist. In sofern ist der subjective Begriff noch formell, jedoch gar nicht als ob er je einen andern Inhalt haben oder erhalten sollte als sich selbst. - Als die absolute Form selbst ist er alle Bestimmtheit, aber wie sie in ihrer Wahrheit ist. Ob er also gleich abstract ist, so ist er das Concrete, und zwar das schlechthin Concrete, das Subject als solches. Das Absolut-Concreteste ist der Geist (s. Anm.
+
+[p. 139] §. 159.) - der Begriff, in sofern er als [orig. 159] Begriff, sich unterscheidend von seiner Objectivität existirt; alles andere Concrete ist in seinem Reichthum nicht so innig identisch mit sich, nicht so concret, am wenigsten das, was man gemeinhin unter Concretem versteht, eine äußerlich zusammengehaltene Mannichfaltigkeit. Was man auch Begriffe und zwar bestimmte Begriffe nennt, z. B. Mensch, Haus, Thier, u.s.f. sind einfache Bestimmungen und abstracte Vorstellungen, - Abstractionen, die vom Begriffe nur das Moment der Allgemeinheit nehmen, und die Besonderheit und Einzelnheit weglassen, eben darum gerade vom Begriffe abstrahiren.
+
+§. 165.
+
+Das Moment der Einzelnheit setzt erst die Momente des Begriffes als Unterschiede, indem sie dessen negative Reflexion-in-sich, daher zunächst das freie Unterscheiden desselben, als die erste Negation, ist, womit die Bestimmtheit des Begriffes gesetzt wird, aber als Besonderheit, d. i. daß die Unterschiedenen erstlich nur die Bestimmtheit der Begriffsmomente gegeneinander haben, und daß zweitens ebenso ihre Identität, daß das eine das andere ist, gesetzt ist; diese gesetzte Besonderheit des Begriffes ist das Urtheil.
+
+Die gewöhnlichen Arten von klaren, deutlichen und adäquaten Begriffen, gehören nicht dem Begriffe, sondern der Psychologie in sofern an, als unter klarem und deutlichem Begriffe, bloße Vorstellungen gemeint sind, unter jenem eine abstracte, einfach bestimmte, unter diesem eine eben solche, an der aber noch ein Merkmal, d. i. irgend eine Bestimmtheit zum Zeichen für das subjective Erkennen herausgehoben ist. Der adäquate spielt mehr auf den Begriff, ja selbst auf die Idee an, aber drückt noch nichts als das Formelle der Uebereinstimmung eines Begriffs oder auch einer Vorstellung mit ihrem Objecte, einem [orig. 160] äußerlichen Dinge aus. Den sogenannten subordinirten und coordinirten Begriffen liegt der begrifflose Unterschied vom Allgemeinen und Besondern, und deren Verhältniß-Beziehung in einer äußerlichen Reflexion zu Grunde. Ferner aber eine Aufzählung von Arten conträrer und contradictorischer, bejahender, verneinender Begriffe u.s.f. ist nichts anderes als ein Auflesen nach Zufall, von Bestimmtheiten des Gedankens, welche für sich der Sphäre des Seyns oder Wesens angehören, wo sie bereits betrachtet worden sind, und die mit der Begriffsbestimmtheit selbst als solcher nichts zu thun haben. Die wahrhaften Unterschiede des Begriffs, der allgemeine, [p. 140] besondere und einzelne, machen allein, doch auch nur in sofern Arten desselben aus, als sie von einer äußerlichen Reflexion auseinander gehalten werden. Die immanente Unterscheidung und Reflexion des Begriffes selbst ist im Urtheile gesetzt.
+
+## b.
+
+## DAS URTHEIL.
+
+§. 166.
+
+Das Urtheil ist der Begriff in seiner Besonderheit, als unterscheidende Beziehung seiner Momente, die zugleich als fürsichseyende und mit sich, nicht mit einander identische gesetzt sind.
+
+Gewöhnlich denkt man beim Urtheil zuerst an die Selbstständigkeit der Extreme, des Subjects und Prädicats, daß jenes ein Ding oder eine Bestimmung für sich, und ebenso das Prädicat eine allgemeine Bestimmung, außer jenem Subject, etwa in meinem Kopfe sey, die dann von mir mit jener zusammengebracht und hiemit geurtheilt werde. Indem jedoch die Copula, ist, das Prädicat vom Subjecte aussagt, so wird jenes äußerliche, subjective Subsumiren wieder aufgehoben, und das Urtheil als eine Bestimmung des Gegenstandes selbst genommen. Die etymologische Bedeutung des Urtheils in unsrer Sprache ist tiefer und drückt die Einheit des Begriffs als das Erste, und dessen Unterscheidung als die ursprüngliche Theilung aus, was das Urtheil in Wahrheit ist.
+
+Das abstracte Urtheil drückt zunächst der Satz aus: das Einzelne ist das Allgemeine. Dies sind die Bestimmungen, die das Subject und Prädicat zunächst gegen einander haben, indem die Momente des Begriffs in ihrer unmittelbaren Bestimmtheit oder ersten Abstraction genommen werden. (Die Sätze: das Besondre ist das Allgemeine, und: das Einzelne ist das Besondre, gehören der weitern Fortbestimmung des Urtheils an.) Es ist für einen verwundernswürdigen Mangel an Beobachtung anzusehen, das Factum in den Logiken nicht angegeben zu finden, daß in jedem Urtheil solcher Satz ausgesprochen wird: das Einzelne ist das Allgemeine, oder noch bestimmter: das Subject ist das Prädicat (z. B. Gott ist absoluter Geist). Freilich sind solche Bestimmungen auch unterschieden, aber darum bleibt nicht weniger jenes ganz allgemeine Factum.
+
+[p. 141] Die Copula: ist, kommt von der Natur des Begriffs, in seiner Entäußerung identisch mit sich zu seyn; das Einzelne und das Allgemeine sind als seine Momente solche Bestimmtheiten, die nicht isolirt werden können. Die frühern Reflexionsbestimmtheiten haben in ihren Verhältnissen auch die Beziehung auf einander, aber ihr Zusammenhang ist nur das Haben, nicht das Seyn, die als solche gesetzte Identität oder die Allgemeinheit. Das Urtheil ist deswegen die wahrhafte Besonderheit des Begriffs, denn diese ist die Bestimmtheit oder Unterscheidung desselben, welche aber Allgemeinheit bleibt. [orig. 162]
+
+§. 167.
+
+Das Urtheil wird gewöhnlich in subjectivem Sinn genommen, als eine Operation und Form, die blos im selbstbewußten Denken vorkomme. Da aber dieser Unterschied im Logischen noch gar nicht vorhanden ist, so ist das Urtheil ganz allgemein, und alle Dinge sind ein Urtheil, – d. h. sie sind Einzelne, welche eine Allgemeinheit oder innere Natur in sich sind; oder ein Allgemeines, das vereinzelt ist; die Allgemeinheit und Einzelnheit unterscheidet sich in ihnen, aber ist zugleich identisch.
+
+Die Urtheile in subjectivem Sinne sind von den Sätzen unterschieden; in den letztern wird von den Subjecten etwas ausgesagt, das nicht im Verhältniß der Allgemeinheit zu ihnen steht, - ein Zustand, eine einzelne Handlung und dergleichen. Es ist etwas ganz leeres zu sagen, daß dergleichen Sätze z. B. ich habe heute Nacht gut geschlafen, oder auch: Präsentirt das Gewehr! in die Form eines Urtheils gebracht werden können. Nur dann würde ein Satz: es fährt ein Wagen vorüber, – ein Urtheil seyn, wenn es zweifelhaft seyn könnte, ob das vorüber sich bewegende ein Wagen sey, oder ob der Gegenstand sich bewege und nicht vielmehr der Standpunkt, von dem wir ihn beobachten; wo das Interesse also darauf geht, für den in meiner Vorstellung noch nicht gehörig bestimmten Gegenstand seine Bestimmung zu finden.
+
+§. 168.
+
+Der Standpunkt des Urtheils ist die Endlichkeit, und die Endlichkeit der Dinge besteht auf demselben darin, daß sie ein Urtheil sind, daß ihr Daseyn und ihre allgemeine Natur (ihr Leib und ihre Seele) zwar vereinigt sind; sonst wären die Dinge Nichts; aber daß diese ihre Momente auch wesentliche [p. 142] Selbstständigkeit gegen ein ander haben, daher sowohl bereits verschieden, als überhaupt trennbar sind.
+
+§. 169.
+
+Im abstracten Urtheile: das Einzelne ist das Allgemeine, ist das Subject als das negativ sich auf sich beziehende, das unmittelbar Concrete, das Prädicat hingegen das Abstracte, Unbestimmte, das Allgemeine. Da sie aber durch: ist, zusammenhängen, so muß auch das Prädicat in seiner Allgemeinheit die Bestimmtheit des Subjects enthalten, so ist sie die Besonderheit, und diese die gesetzte Identität des Subjects und Prädicats; als das hiemit gegen diesen Formunterschied Gleichgültige ist sie der Inhalt.
+
+Das Subject hat erst im Prädicate seine ausdrückliche Bestimmtheit und Inhalt; für sich ist es deswegen eine bloße Vorstellung oder ein leerer Name. In den Urtheilen: Gott ist das Allerrealste u.s.f. oder das Absolute ist identisch mit sich u.s.f. ist Gott, das Absolute ein bloßer Name; was er ist, ist erst im Prädicate gesagt. Was er als Concretes sonst noch wäre, geht dieses Urtheil nicht an (vergl. §. 31.).
+
+§. 170.
+
+Was die nähere Bestimmtheit des Subjects und Prädicats betrifft, so ist das erstere, als die negative Beziehung auf sich selbst (§. 163. 166. Anm.) das Feste, in welchem das Prädicat sein Bestehen hat, und ideell ist, (es inhärirt dem Subjecte;) und indem das Subject überhaupt und unmittelbar concret ist, ist der bestimmte Inhalt des Prädicats nur Eine der vielen Bestimmtheiten des Subjects, und dieses reicher und weiter als das Prädicat.
+
+Umgekehrt ist das Prädicat als das Allgemeine für sich bestehend und gleichgültig, ob dies Subject ist oder nicht; es geht über das Subject hinaus, subsumirt dasselbe, und ist seinerseits weiter als das Subject. Der bestimmte Inhalt des Prädicats (vorh. §.) macht allein die Identität beider aus.
+
+§. 171.
+
+Subject, Prädicat, und der bestimmte Inhalt oder die Identität, sind zunächst im Urtheile in ihrer Beziehung selbst, als verschieden, auseinander fallend gesetzt. An sich aber sind sie identisch, indem seinem Begriffe nach die [p. 143] concrete Totalität des Subjects dies ist, nicht irgend eine unbestimmte Mannichfaltigkeit zu seyn, sondern allein die Einzelnheit als Identität des Besondern und Allgemeinen, und eben diese Einheit ist das Prädicat (§. 170.). In der Copula ist ferner die Identität des Subjects und Prädicats zwar gesetzt, aber zunächst nur als abstractes Ist. Nach dieser Identität ist das Subject auch in der Bestimmung des Prädicats zu setzen, womit auch dieses die Bestimmung des erstern erhält, und die Copula sich erfüllt. Dies ist die Fortbestimmung des Urtheils, durch die inhaltsvolle Copula zum Schlusse. Zunächst am Urtheile ist die Fortbestimmung desselben, das Bestimmen der zuerst abstracten, sinnlichen Allgemeinheit zur Allheit, Gattung und Art, und zur entwickelten Begriffs-Allgemeinheit.
+
+Diese Erkenntniß der Fortbestimmung des Urtheils gibt demjenigen, was als Arten des Urtheils aufgeführt zu werden pflegt, erst sowohl einen Zusammenhang als einen Sinn. Außerdem, daß die gewöhnliche Aufzählung als ganz zufällig aussieht, ist sie etwas oberflächliches, und selbst wüstes und wildes in der Angabe der Unterschiede; wie positives, kategorisches, assertorisches Urtheil unterschieden sey, ist theils aus der Luft gegriffen, theils bleibt es unbestimmt. Die verschiedenen Urtheile sind als nothwendig aus einander folgend, und als ein Fortbestimmen des Begriffs zu betrachten, denn das Urtheil selbst ist nichts als der bestimmte Begriff. In Beziehung auf die beiden vorhergegangenen Sphären des Seyns und Wesens, sind die bestimmten Begriffe als Urtheile Reproductionen dieser Sphären, aber in der einfachen Beziehung des Begriffs gesetzt.
+
+## a) QUALITATIVES URTHEIL.
+
+§. 172.
+
+Das unmittelbare Urtheil ist das Urtheil des Daseyns; das Subject in einer Allgemeinheit, als seinem Prädicate, gesetzt, welches eine unmittelbare (somit sinnliche) Qualität ist. 1) Positives Urtheil, das Einzelne ist ein Besonderes. Aber das Einzelne ist nicht ein Besonderes; näher, solche einzelne Qualität entspricht der concreten Natur des Subjects nicht; 2) negatives Urtheil.
+
+Es ist eines der wesentlichsten logischen Vorurtheile, daß solche qualitative Urtheile, wie: die Rose ist roth, oder ist nicht roth, Wahrheit enthalten [p. 144] können. Richtig können sie seyn, d. i. in dem beschränkten Kreise der Wahrnehmung, des endlichen Vorstellens und Denkens; dies hängt von dem Inhalte ab, der ebenso ein endlicher, für sich unwahrer ist. Aber die Wahrheit beruht nur auf der Form, d. i. dem gesetzten Begriffe, und der ihm entsprechenden Realität.
+
+§. 173.
+
+In dieser als erster Negation bleibt noch die Beziehung des Subjects auf das Prädicat, welches dadurch als Allgemeines ist, dessen Bestimmtheit nur negirt worden, (die Rose ist nicht roth, enthält, daß sie aber noch Farbe hat, zunächst eine andere, was aber nur wieder ein positives Urtheil würde.) Das Ein-| zelne ist aber auch nicht ein Allgemeines. So zerfällt 3) das Urtheil in sich, – 1) in die leere identische Beziehung: das Einzelne ist das Einzelne, – identisches Urtheil; und 2) in sie als die vorhandene völlige Unangemessenheit des Subjects und Prädicats; sogenanntes unendliches Urtheil.
+
+Beispiele von letzterem sind: der Geist ist kein Elephant, ein Löwe ist kein Tisch u.s.f. - Sätze, die widersinnig aber richtig, gerade wie die identischen Sätze, ein Löwe ist ein Löwe, der Geist ist Geist. Diese Sätze sind zwar die Wahrheit des unmittelbaren, sogenannten qualitativen Urtheils, allein überhaupt keine Urtheile, und können nur in einem subjectiven Denken vorkommen, welches auch eine unwahre Abstraction festhalten kann. Objectiv betrachtet, drücken sie die Natur des Seyenden oder der sinnlichen Dinge aus, daß sie nämlich sind ein Zerfallen in eine leere Identität, und in eine erfüllte Beziehung, welche aber das qualitative Andersseyn der Bezogenen, ihre völlige Unangemessenheit ist.
+
+## β) DAS REFLEXIONS-URTHEIL.
+
+§. 174.
+
+Das Einzelne als Einzelnes (reflectirt in sich) ins Urtheil gesetzt, hat ein Prädicat, gegen welches das Subject als sich auf sich beziehendes, zugleich ein Anderes bleibt. In der Existenz ist das Subject nicht mehr unmittelbar qualitativ, sondern im Verhältniß und Zusammenhang mit einem Andern, mit einer äußern Welt. Die Allgemeinheit hat hiemit die Bedeutung dieser Relativität erhalten. (Z. B. nützlich, gefährlich; Schwere, Säure, - dann Trieb u.s.f.)
+
+[p. 145] §. 175.
+
+1) Das Subject, das Einzelne als Einzelnes, (im [orig. 167] singulären Urtheil) ist ein Allgemeines. 2) In dieser Beziehung ist es über seine Einzelnheit erhoben. Diese Erweiterung ist eine äußerliche, die subjective Reflexion, zuerst die unbestimmte Besonderheit, (im particulären Urtheil, welches unmittelbar eben sowohl negativ als positiv ist. - Das Einzelne ist in sich getheilt, zum Theil bezieht es sich auf sich, zum Theil auf Anderes.) 3) Einige sind das Allgemeine, so ist die Besonderheit zur Allgemeinheit erweitert; oder diese durch die Einzelnheit des Subjects bestimmt, ist die Allheit (Gemeinschaftlichkeit, die gewöhnliche Reflexions-Allgemeinheit).
+
+§. 176.
+
+Dadurch, daß das Subject gleichfalls als Allgemeines bestimmt ist, ist die Identität desselben und des Prädicats, so wie hiedurch die Urtheilsbestimmung selbst als gleichgültig gesetzt. Diese Einheit des Inhalts als der mit der negativen Reflexion-in-sich identischen Allgemeinheit macht die Urtheils-Beziehung zu einer Nothwendigen.
+
+## γ) URTHEIL DER NOTHWENDIGKEIT.
+
+§. 177.
+
+Das Urtheil der Nothwendigkeit 1) enthält im Prädicate theils die Substanz oder Natur des Subjects, das concrete Allgemeine, die Gattung; theils indem dies Allgemeine ebenso die Bestimmtheit als negative in sich enthält, die ausschließende wesentliche Bestimmtheit die Art; kategorisches Urtheil. -
+
+2) Nach dem substantiellen Unterschiede erhalten die beiden Seiten die Gestalt selbstständiger Wirklichkeit, deren Identität daher eine innere, damit die Wirklichkeit des einen zugleich nicht seine, sondern das Seyn des andern ist; hypothetisches Urtheil.
+
+3) An dieser Entäußerung des Begriffs, die innere [orig. 168] Identität gesetzt, so ist das Allgemeine die Gattung, die in ihrer ausschließenden Einzelnheit identisch mit sich ist; das Urtheil, welches dies eine Allgemeine zu seinen beiden Seiten hat, das einemal dasselbe als solches, das andremal als den Kreis seiner sich ausschließenden Besonderung, deren Entweder-Oder, eben so sehr als Sowohl- [p. 146] Als, die Gattung ist; disjunctives Urtheil. Die Allgemeinheit zunächst als Gattung und Art, ist hiemit als Totalität bestimmt und gesetzt.
+
+## 8) DAS URTHEIL DES BEGRIFFS.
+
+§. 178.
+
+Das Urtheil des Begriffs, hat den Begriff, die Totalität in einfacher Form, zu seinem Inhalte, das Allgemeine mit seiner vollständigen Bestimmtheit. Das Subject ist 1) zunächst ein Einzelnes, das zum Prädicat die Reflexion des besondern Daseyns auf das Allgemeine hat, – die Uebereinstimmung oder Nicht-Uebereinstimmung dieser beiden Bestimmungen; gut, wahr, richtig u.s.f. - assertorisches Urtheil.
+
+Erst ein solches Urtheilen, ob ein Gegenstand, Handlung u.s.f. gut, oder schlecht, wahr, schön u.s.f. heißt man auch im gemeinen Leben urtheilen; man wird keinem Menschen Urtheilskraft zuschreiben, der z. B. die positiven oder negativen Urtheile zu machen weiß; diese Rose ist roth, dies Gemälde ist roth, grün, staubig u.s.f.
+
+Durch das Princip des unmittelbaren Wissens und Glaubens ist selbst in der Philosophie das assertorische Urtheilen, das in der Gesellschaft, wenn es für sich auf Geltensollen Anspruch macht, vielmehr für ungehörig gilt, zur einzigen und wesentlichen Form der Lehre gemacht worden. Man kann in den sogenannten philosophischen Werken, die jenes Princip behaupten, hunderte und aber hunderte von Versicherungen über Vernunft, Wissen, Denken u.s.f. lesen, die, weil denn doch die äußere Autorität nicht mehr viel gilt, durch die unendlichen Wiederholungen des einen und desselben sich Beglaubigung zu gewinnen suchen.
+
+§. 179.
+
+Das assertorische Urtheil enthält an seinem zunächst unmittelbaren Subjecte nicht die Beziehung des Besondern und Allgemeinen, welche im Prädicat ausgedrückt ist. Dies Urtheil ist daher nur eine subjective Particularität, und es steht ihm die entgegengesetzte Versicherung mit gleichem Rechte oder vielmehr Unrechte gegenüber; es ist daher 2) sogleich nur ein problematisches Urtheil. Aber 3) die objective Particularität an dem Subjecte des Urtheils gesetzt, [p. 147] seine Besonderheit als die Beschaffenheit seines Daseyns, drückt es nach der Beziehung derselben auf seine Bestimmung, seine Gattung aus; (dieses – die unmittelbare Einzelnheit, - Haus, Gattung, so und so beschaffen Besonderheit ist gut oder schlecht) – apodiktisches Urtheil. Alle Dinge sind eine Gattung (ihre Bestimmung und Zweck) in einer einzelnen Wirklichkeit von einer besondern Beschaffenheit; und ihre Endlichkeit ist, daß das Besondere derselben dem Allgemeinen gemäß seyn kann, oder auch nicht.
+
+§. 180.
+
+Subject und Prädicat sind auf diese Weise selbst jedes das ganze Urtheil; die unmittelbare Beschaffenheit des Subjects zeigt sich zunächst als der vermittelnde Grund zwischen der Einzelnheit des Wirklichen und zwischen seiner Allgemeinheit, dem Urtheil über dasselbe. Was in der That gesetzt worden, ist die Einheit des Subjects und des Prädicats als der Begriff selbst. Er ist die Erfüllung des leeren: Ist, der Copula, und indem seine Momente zugleich als Subject und Prädicat unterschieden [orig. 170] sind, ist er als Einheit derselben, eine vermittelnde Beziehung der Schluß.
+
+## C. DER SCHLUSS.
+
+§. 181.
+
+Der Schluß ist die Einheit des Begriffes und des Urtheils; er ist der Begriff als die einfache Identität, in welche die Formunterschiede des Urtheils zurückgegangen sind, und Urtheil, in sofern er zugleich in seiner Realität, nämlich in dem Unterschiede seiner Bestimmungen gesetzt ist. Der Schluß ist das Vernünftige und Alles Vernünftige.
+
+Der Schluß pflegt zwar gewöhnlich als die Form des Vernünftigen angegeben zu werden, aber als eine subjective, ohne daß zwischen ihr und sonst einem vernünftigen Inhalt, z. B. einem vernünftigen Grundsatze, einer vernünftigen Handlung, Idee u.s.f. ein Zusammenhang aufgezeigt würde. Es wird überhaupt viel und oft von der Vernunft gesprochen und an sie appellirt, ohne die Angabe, was ihre Bestimmtheit, was sie ist. In der That ist das formelle Schließen das Vernünftige in solcher vernunftlosen Weise, daß es mit einem vernünftigen Gehalt nichts zu thun hat. Da aber ein solcher vernünftig nur seyn kann durch die Bestimmtheit, wodurch das [p. 148] Denken Vernunft ist, so kann er es allein durch die Form seyn, welche der Schluß ist. – Dieser ist aber nichts anders als der gesetzte, (zunächst formell-) reale Begriff, wie der §. ausdrückt. Der Schluß ist deswegen der wesentliche Grund alles Wahren; und die Definition des Absoluten ist nunmehr, daß es der Schluß ist, oder als Satz diese Bestimmung ausgesprochen: Alles ist ein Schluß. Alles ist [orig. 171] Begriff, und sein Daseyn ist der Unterschied der Momente desselben, so daß seine allgemeine Natur durch die Besonderheit sich äußerliche Realität gibt, und hiedurch und als negative Reflexion in sich, sich zum Einzelnen macht. - Oder umgekehrt das Wirkliche ist ein Einzelnes, das durch die Besonderheit sich in die Allgemeinheit erhebt und sich identisch mit sich macht. – Das Wirkliche ist Eines, aber eben so das Auseinandertreten der Begriffsmomente, und der Schluß der Kreislauf der Vermittlung seiner Momente, durch welchen es sich als Eines setzt.
+
+§. 182.
+
+Der unmittelbare Schluß ist, daß die Begriffsbestimmungen als abstracte gegen einander nur im Verhältniß stehen, so daß die beiden Extreme die Einzelnheit und Allgemeinheit, der Begriff aber als die beide zusammenschließende Mitte gleichfalls nur die abstracte, einfache Besonderheit ist. Hiemit sind die Extreme eben so sehr gegeneinander, wie gegen ihre Mitte, gleichgültig für sich bestehend gesetzt. Dieser Schluß ist somit das Vernünftige als begrifflos, - der formelle Verstandesschluß. – Das Subject wird darin mit einer andern Bestimmtheit zusammengeschlossen; oder das Allgemeine subsumirt durch diese Vermittlung ein ihm äußerliches Subject. Der vernünftige Schluß dagegen ist, daß das Subject durch die Vermittlung sich mit sich selbst zusammenschließt. So ist es erst Subject, oder das Subject ist erst an ihm selbst der Vernunftschluß.
+
+In der folgenden Betrachtung wird der Verstandesschluß nach seiner gewöhnlichen, geläufigen Bedeutung in seiner subjectiven Weise ausgedrückt, die ihm nach dem Sinne zukommt, daß wir solche Schlüsse machen. In der That ist er nur ein subjectives Schließen; ebenso hat aber dies die objective Bedeutung überhaupt, daß er nur die Endlichkeit der Dinge aber auf die [orig. 172] bestimmte Weise, welche die Form hier erreicht hat, ausdrückt. An den endlichen Dingen ist die Subjectivität als Dingheit, trennbar von ihren Eigenschaften, ihrer Besonderheit, ebenso trennbar von ihrer Allgemeinheit, sowohl in sofern diese die bloße Qualität des Dinges und sein äußerlicher Zusammenhang mit andern Dingen, als dessen Gattung und Begriff ist.
+
+## [p. 149] a) QUALITATIVER SCHLUSS.
+
+§. 183.
+
+Der erste Schluß ist Schluß des Daseyns oder der qualitative, wie er im vorigen §. angegeben worden, 1) E-B-A, daß ein Subject als Einzelnes durch eine Qualität mit einer allgemeinen Bestimmtheit zusammengeschlossen ist.
+
+§. 184.
+
+Dieser Schluß ist a) ganz zufällig nach seinen Bestimmungen, indem die Mitte als abstracte Besonderheit nur irgend eine Bestimmtheit des Subjects ist, deren es als unmittelbares, somit empirisch-concretes Subject mehrere hat, also mit eben so mancherlei andern Allgemeinheiten zusammengeschlossen werden kann, so wie auch eine einzelne Besonderheit wieder verschiedene Bestimmtheiten in sich haben, also das Subjekt durch denselben medius terminus auf unterschiedene Allgemeine bezogen werden kann.
+
+Durch solche Schlüsse kann daher das Verschiedenste, – wie man es nennt, bewiesen werden. Es braucht nur der medius terminus genommen zu werden, aus dem der Uebergang auf die verlangte Bestimmung gemacht werden kann. Mit einem andern Medius terminus aber läßt sich etwas anderes bis zum Entgegengesetzten beweisen. Je concreter ein Gegenstand ist, desto mehrere Seiten hat er, die ihm angehören, und zu [orig. 173] mediis terminis dienen können. Welche unter diesen Seiten wesentlicher als die andere sey, würde wieder auf einem solchen Schließen beruhen, das sich an die einzelne Bestimmtheit hält, und für dieselbe daher gleichfalls leicht eine Seite und Rücksicht finden kann, nach welcher sie sich als wichtig und nothwendig geltend machen läßt.
+
+§. 185.
+
+β) Eben so zufällig ist dieser Schluß durch die Form der Beziehung, welche in ihm ist. Nach dem Begriffe des Schlusses ist das Wahre die Beziehung von Unterschiedenen durch eine Mitte, welche deren Einheit ist. Beziehungen der Extreme auf die Mitte aber (die sogenannten Prämissen, der Obersatz und Untersatz) sind vielmehr unmittelbare Beziehungen.
+
+[p. 150] Dieser Widerspruch des Schlusses drückt sich wieder durch einen unendlichen Progreß aus, als Foderung, daß die Prämissen gleichfalls, jede durch einen Schluß bewiesen werden; da dieser aber eben solche unmittelbare Prämissen hat, so wiederholt sich diese und zwar sich immer verdoppelnde Foderung ins Unendliche.
+
+§. 186.
+
+Was hier sogleich (um der empirischen Wichtigkeit willen) als Mangel des Schlusses, dem in dieser Form absolute Richtigkeit zugeschrieben wird, bemerkt worden, muß sich in der Fortbestimmung des Schlusses von selbst aufheben. Für diese braucht nur das aufgenommen zu werden, was durch den Schluß bereits gesetzt ist; es ist hier innerhalb der Sphäre des Begriffs, wie im Urtheile, die entgegengesetzte Bestimmtheit nicht blos an sich vorhanden, sondern sie ist gesetzt.
+
+Durch den unmittelbaren Schluß E-B-A ist das Einzelne mit dem Allgemeinen vermittelt, und in diesem Schlußsatze als Allgemeines gesetzt. Das Einzelne als [orig. 174] Subject, so selbst als Allgemeines, ist hiemit nun die Einheit der beiden Extreme und das Vermittelnde; was die zweite Figur des Schlusses gibt; A-E-B.
+
+§. 187.
+
+2) Diese drückt die Wahrheit der ersten aus, daß die Vermittlung in der Einzelnheit geschehen, hiemit etwas zufälliges ist. Diese Figur schließt das Allgemeine (welches aus dem vorigen Schlusse als der abstracte oder unmittelbare Terminus übrig ist, hiemit die Stelle des unmittelbaren Subjects einnimmt) mit dem Besondern zusammen. Das Allgemeine ist hiemit durch diesen Schlußsatz auch als Besonderes gesetzt, also als das Vermittelnde der Extreme, deren Stellen jetzt die andern einnehmen; – die dritte Figur des Schlusses: B- А - Е.
+
+Die sogenannten Figuren des Schlusses, (Aristoteles kennt mit Recht deren nur drei; die vierte ist ein überflüssiger, ja selbst abgeschmackter Zusatz der Neuern) werden in der gewöhnlichen Abhandlung derselben nur neben einander gestellt, ohne daß im geringsten daran gedacht würde, ihre Nothwendigkeit, noch weniger aber ihre Bedeutung und ihren Werth zu zeigen. Es ist darum kein Wunder, wenn die Figuren später als ein leerer Formalismus behandelt worden sind. Sie haben aber einen sehr gründlichen [p. 151] Sinn, der auf der Nothwendigkeit beruht, daß jedes Moment, als Begriffsbestimmung, selbst das Ganze und der vermittelnde Grund wird. - Welche Bestimmungen aber sonst die Sätze, ob sie universelle, u.s.f. oder negative seyn dürfen, um einen richtigen Schluß in den verschiedenen Figuren herauszubringen, dies ist eine blos mechanische Untersuchung, die wegen ihres begrifflosen Mechanismus und innern Bedeutungslosigkeit mit Recht in Vergessenheit gekommen ist. Am wenigsten kann man sich für die Wichtigkeit solcher Untersuchung und des [orig. 175] Verstandesschlusses überhaupt, auf Aristoteles berufen, der freilich diese, so wie fast möchte man sagen, unzählig andere Formen des Geistes und der Natur beschrieben und ihre Bestimmtheit aufgesucht und angegeben hat. In seinen metaphysischen Begriffen sowohl als in den Begriffen des Natürlichen und des Geistigen war er so weit entfernt, die Form des Verstandes-Schlusses zur Grundlage und zum Kriterium machen zu wollen, daß man sagen könnte, es würde wohl auch nicht ein einziger dieser Begriffe haben entstehen oder belassen werden können, wenn er den Verstandesgesetzen unterworfen werden sollte. Bei dem vielen Beschreibenden und Verständigen, das Aristoteles nach seiner Weise wesentlich beibringt, ist bei ihm immer das herrschende, der speculative Begriff.
+
+§. 188.
+
+Indem jedes Moment die Stelle der Mitte und der Extreme durchlaufen hat, hat sich ihr bestimmter Unterschied gegeneinander aufgehoben, und der Schluß hat zunächst in dieser Form der Unterschiedslosigkeit seiner Momente die äußerliche Verstandesidentität, die Gleichheit zu seiner Beziehung; der quantitative, oder mathematische Schluß. Wenn zwei Dinge einem dritten gleich sind, sind sie unter sich gleich.
+
+§. 189.
+
+Hiedurch ist zunächst an der Form zu Stande gekommen, 1) daß jedes Moment die Bestimmung und Stelle der Mitte, also des Ganzen überhaupt bekommen, die Einseitigkeit seiner Abstraction (§. 182. und 184.) hiemit an sich verloren hat; daß 2) die Vermittlung (§. 185.) vollendet worden ist, ebenso nur an sich, nämlich nur als ein Kreis sich gegenseitig voraussetzender Vermittlungen. In der ersten Figur E-B-A sind [orig. 176] E-B Bund B-A noch unvermittelt; jenes wird in der dritten, dieses in der zweiten Figur vermittelt. Aber jede dieser zwei [p. 152] Figuren setzt für die Vermittlung ihrer Prämissen ebenso ihre beiden andern voraus.
+
+Hienach ist die vermittelte Einheit des Begriffs, nicht mehr nur als abstracte Besonderheit, sondern als entwickelte Einheit der Einzelnheit und Allgemeinheit zu setzen, und zwar zunächst als reflectirte Einheit dieser Bestimmungen; die Einzelnheit zugleich als Allgemeinheit bestimmt. Solche Mitte gibt den Reflexionsschluß.
+
+## β) REFLEXIONS-SCHLUSS.
+
+§. 190.
+
+Die Mitte so zunächst 1) nicht blos als abstracte, besondere Bestimmtheit des Subjects, sondern, zugleich als Alle einzelne concrete Subjecte, denen nur unter andern auch jene Bestimmtheit zukommt, gibt den Schluß der Allheit. Jener Obersatz setzt aber den Schlußsatz, der jenen zur Voraussetzung haben sollte, vielmehr selbst voraus. Er beruht daher 2) auf der Induction, deren Mitte die vollständigen Einzelnen als solche, a, b, c, d, u.s.f. sind. Indem aber die unmittelbare, empirische Einzelnheit von der Allgemeinheit verschieden ist, und darum keine Vollständigkeit gewähren kann, so beruht die Induction 3) auf der Analogie, deren Mitte ein Einzelnes, aber in dem Sinne seiner wesentlichen Allgemeinheit, seiner Gattung oder wesentlichen Bestimmtheit, ist.
+
+Durch den Schluß der Allheit wird der §. 184. aufgezeigte Mangel der Grundform des Verstandesschlusses verbessert; aber so daß der neue Mangel entsteht, nämlich daß der Obersatz das, was Schlußsatz seyn sollte, selbst voraussetzt, als einen somit unmittelbaren Satz. Alle Menschen sind sterblich, also ist Cajus [orig. 177] sterblich, - alle Metalle sind elektrische Leiter, also auch z. B. das Kupfer. Um jene Obersätze, die als Alle die unmittelbaren Einzelnen ausdrücken und wesentlich empirische Sätze seyn sollen, aussagen zu können, dazu gehört, daß schon vorher die Sätze über den einzelnen Cajus, das einzelne Kupfer, für sich als richtig constatirt sind. Mit Recht fällt jedem nicht blos der Pedantismus, sondern der nichtssagende elende Formalismus solcher Schlüsse: Alle Menschen sind sterblich, nun aber ist Cajus u.s.w., auf.
+
+## [p. 153] γ) SCHLUSS DER NOTHWENDIGKEIT.
+
+§. 191.
+
+Dieser Schluß hat, nach den blos abstracten Bestimmungen genommen, das Allgemeine, wie der Reflexions-Schluß die Einzelnheit, - dieser nach der zweiten, jener nach der dritten Figur (§. 187.) zur Mitte. Aber hier ist das Allgemeine gesetzt als in sich wesentlich bestimmt. Zunächst ist 1) das Besondere in der Bedeutung der bestimmten Gattung oder Art, die vermittelnde Bestimmung, im kategorischen Schlusse. 2) Das Einzelne in der Bedeutung des unmittelbaren Seyns, daß es eben so vermittelnd als vermittelt sey, im hypothetischen Schlusse. 3) Ist das vermittelnde Allgemeine, auch als Totalität seiner Besonderungen, und als ein einzelnes Besonderes, ausschließende Einzelnheit, gesetzt, im disjunctiven Schlusse; so daß eins und dasselbe Allgemeine in diesen Bestimmungen als nur in Formen des Unterschieds ist.
+
+§. 192.
+
+Der Schluß ist nach den Unterschieden, die er enthält, genommen worden, und der Verlauf derselben zeigt das Sich-Aufheben dieser Unterschiede und des Außersich seyns des Begriffs. Und zwar hat sich 1) jedes der Momente selbst als die Totalität der Momente, somit als ganzer Schluß erwiesen; sie sind so an sich identisch, und 2) die Negation ihrer Unterschiede und deren Vermittlung macht das Fürsichseyn aus; so daß ein und dasselbe Allgemeine es ist, welches in diesen Formen ist, und als deren Identität es hiemit auch gesetzt ist. In dieser Idealität der Momente erhält das Schließen die Bestimmung, die Negation der Bestimmtheiten, durch die es der Verlauf ist, wesentlich zu enthalten, hiemit eine Vermittlung durch Aufheben der Vermittlung, und ein Zusammenschließen des Subjects nicht mit Anderem, sondern mit aufgehobenem Andern, mit sich selbst, zu seyn.
+
+§. 193.
+
+Diese Realisirung des Begriffs, in welcher das Allgemeine diese Eine in sich zurückgegangene Totalität ist, deren Unterschiede ebenso diese Totalität sind, und die durch Aufheben der Vermittlung als unmittelbare Einheit sich bestimmt hat, ist das Object.
+
+[p. 154] So fremdartig auf den ersten Anblick dieser Uebergang vom Subject, vom Begriff überhaupt und näher vom Schlusse, besonders wenn man nur den Verstandesschluß und das Schließen als ein Thun des Bewußtseyns vor sich hat, in das Object scheinen mag, so kann es zugleich nicht darum zu thun seyn, der Vorstellung diesen Uebergang plausibel machen zu wollen. Es kann nur daran erinnert werden, ob unsere gewöhnliche Vorstellung von dem, was Object genannt wird, ungefähr dem entspricht, was hier die Bestimmung des Objects ausmacht. Unter Object aber pflegt man nicht blos ein abstractes Seyendes, oder existirendes Ding, oder ein Wirkliches überhaupt zu verstehen, sondern ein concretes, in sich vollständiges Selbstständiges; diese Vollständigkeit ist die Totalität des Begriffs. | Daß das Object auch Gegenstand ist, dies wird sich nachher bestimmen, in sofern es sich in den Gegensatz zum Subjectiven setzt; hier zunächst als das, worein der Begriff aus seiner Vermittlung übergegangen ist, ist es nur unmittelbares, unbefangenes Object, so wie ebenso der Begriff erst in diesem Gegensatze als das Subjective bestimmt wird.
+
+Ferner ist das Object überhaupt das Eine noch weiter in sich unbestimmte Ganze, die objective Welt überhaupt, Gott, das absolute Object. Aber das Object hat ebenso den Unterschied an ihm, zerfällt in sich in unbestimmte Mannichfaltigkeit (als objective Welt) und jedes dieser Vereinzelten ist auch ein Object, ein in sich concretes, vollständiges, selbstständiges Daseyn. Wie die Objectivität mit Seyn, Existenz und Wirklichkeit verglichen worden, so ist auch der Uebergang zu Existenz und Wirklichkeit (denn Seyn ist das erste, ganz abstracte Unmittelbare,) mit dem Uebergange zur Objectivität zu vergleichen. Der Grund, aus dem die Existenz hervorgeht, das Reflexions-Verhältniß, das sich zur Wirklichkeit aufhebt, sind nichts anderes als der noch unvollkommen gesetzte Begriff, oder es sind nur abstracte Seiten desselben, - der Grund ist dessen nur wesenhafte Einheit, das Verhältniß, die Beziehung von reellen, nur in sich reflectirt seyn sollenden Seiten; der Begriff ist die Einheit von beiden.
+
+Es erhellt übrigens, daß es bei diesen sämmtlichen Uebergängen um mehr als blos darum zu thun ist, nur überhaupt die Unzertrennlichkeit des Begriffs oder Denkens vom Seyn zu zeigen. Es ist öfters bemerkt worden, daß Seyn weiter nichts ist, als die einfache Beziehung auf sich selbst, und daß diese arme Bestimmung ohnehin im Begriff oder auch im Denken enthalten ist. Der Sinn dieser Uebergänge ist, nicht Bestimmungen aufzunehmen, wie sie nur enthalten sind, (wie auch in der ontologischen Argumentation vom Daseyn Gottes durch den Satz geschieht, daß das Seyn eine der Realitäten sey) sondern den Begriff zu nehmen, wie er zunächst für sich bestimmt [p. 155] seyn soll als Begriff, mit dem diese entfernte Abstraction des Seyns oder auch der Objectivität noch nichts zu thun habe, und an der Bestimmtheit desselben als Begriffsbestimmtheit allein zu sehen, ob und daß sie in eine Form übergeht, welche von der Bestimmtheit, wie sie dem Begriffe angehört und in ihm erscheint, verschieden ist.
+
+Wenn das Product dieses Uebergangs, das Object, mit dem Begriffe, der darin nach seiner eigenthümlichen Form verschwunden ist, in Beziehung gesetzt wird, so kann das Resultat richtig so ausgedrückt werden, daß an sich Begriff oder auch, wenn man will, Subjectivität, und Object dasselbe seyen. Eben so richtig ist aber, daß sie verschieden sind; indem eins so richtig ist, als das andere, ist damit eben eines so unrichtig als das andere. Jenes Ansich ist ein Abstractum, und so einseitig als der Begriff selbst, dessen Einseitigkeit überhaupt sich darin aufhebt, daß er sich zum Objecte, der entgegengesetzten Einseitigkeit, aufhebt. So muß auch jenes Ansich durch die Negation seiner sich zum Fürsichseyn bestimmen. Wie allenthalben ist die speculative Identität nicht jene triviale, daß Begriff und Object an sich identisch seyen; eine Bemerkung, die oft genug wiederholt worden ist, aber nicht oft genug wiederholt werden könnte, wenn die Absicht seyn sollte, den schaalen, und vollends böswilligen Misverständnissen über diese Identität ein Ende zu machen; was aber verständigerweise nicht zur Absicht zu machen ist.
+
+Uebrigens jene Einheit ganz überhaupt genommen, ohne an die einseitige Form ihres Ansichseyns zu erinnern, so ist sie es bekanntlich, welche bei dem ontologischen Beweise vom Daseyn Gottes vorausgesetzt wird, und zwar als das Vollkommenste. Bei Anselmus, bei welchem der höchst merkwürdige Gedanke dieses Beweises zuerst vorkommt, ist freilich zunächst nur davon die Rede, ob ein Inhalt nur in unserm Denken sey. Seine Worte sind kurz diese: Certe id, quo majus cogitari nequit, non potest esse in intellectu solo. Si enim vel in solo intellectu est, potest cogitari esse et in re: quod majus est. Si ergo id, quo majus cogitari non potest, est in solo intellectu; id ipsum, quo majus cogitari non potest, est, quo majus cogitari potest. Sed certe hoc esse non potest. Die endlichen Dinge sind nach den Bestimmungen, in welchen wir hier stehen, dies, daß ihre Objectivität mit dem Gedanken derselben, d. i. ihrer allgemeinen Bestimmung, ihrer Gattung und ihrem Zweck nicht in Uebereinstimmung ist. Cartesius und Spinoza, u.s.f. haben diese Einheit objectiver [p. 156] ausgesprochen, das Princip der unmittelbaren Gewißheit oder des Glaubens aber nimmt sie mehr nach der subjectivern Weise Anselms, nämlich daß mit der Vorstellung Gottes unzertrennlich die Bestimmung seines Seyns in unserm Bewußtseyn verbunden ist. Wenn das Princip dieses Glaubens auch die Vorstellungen der äußerlichen endlichen Dinge in sich befaßt, weil sie in der Anschauung mit der Bestimmung der Existenz verbunden sind, so ist dies wohl richtig. Aber es würde nur die größte Gedankenlosigkeit seyn, wenn gemeynt seyn sollte, in unserm Bewußtseyn sey die Existenz auf dieselbe Weise mit der Vorstellung der endlichen Dinge verbunden, als mit der Vorstellung Gottes; es würde vergessen, daß die endlichen Dinge veränderlich und vergänglich sind, d. i. daß die Existenz nur transitorisch mit ihnen verbunden, daß diese Verbindung nicht ewig, sondern trennbar ist. Anselm hat darum mit Recht das nur für das Vollkommne erklärt, was nicht blos auf eine subjective Weise sey, sondern zugleich auf eine objective Weise ist. | Alles Vornehmthun gegen den sogenannten ontologischen Beweis und gegen diese Anselmische Bestimmung des Vollkommenen hilft nichts, da sie in jedem unbefangenen Menschensinne eben so sehr liegt, als in jeder Philosophie, selbst wider Wissen und Willen, wie im Princip des unmittelbaren Glaubens, zurückkehrt.
+
+Der Mangel aber in der Argumentation Anselms, den sie übrigens mit Cartesius, Spinoza, so wie mit dem Princip des unmittelbaren Wissens theilt, ist, daß diese Einheit, die als das Vollkommenste, oder auch subjectiv als das wahre Wissen ausgesprochen wird, vorausgesetzt d. i. nur als an sich angenommen wird, was eben die oben bemerkte abstracte Identität hervorbringt. Dieser wird sogleich die Verschiedenheit der beiden Bestimmungen entgegen gehalten, wie auch längst gegen Anselm geschehen ist, d. h. in der That, es wird die Vorstellung und Existenz des Endlichen dem Unendlichen entgegen gehalten, denn wie vorhin bemerkt, ist das Endliche eine solche Objectivität, die dem Zwecke, ihrem Wesen und Begriffe zugleich nicht angemessen, von ihm verschieden ist, oder eine solche Vorstellung, solches Subjectives, das die Existenz nicht involvirt. Dieser Einwurf und Gegensatz hebt sich nur dadurch, daß das Endliche als ein Unwahres, daß diese Bestimmungen als für sich einseitig und nichtig und die Identität somit als eine, in die sie selbst übergehen und in der sie versöhnt sind, aufgezeigt werden. |
+
+## [p. 157] B.
+
+## DAS OBJECT. §. 194.
+
+Das Object ist unmittelbares Seyn durch die Gleichgültigkeit gegen den Unterschied, und in sich Totalität, und zugleich indem diese Identität nur die ansichseyende der Momente ist, ist es ebenso gleichgültig gegen seine unmittelbare Einheit; der Unterschied ist vorhanden, es ist ein Zerfallen in Unterschiedene, deren jedes selbst die Totalität ist. Das Object ist daher der absolute Widerspruch der vollkommnen Selbstständigkeit des Mannichfaltigen, und der eben so vollkommnen Unselbstständigkeit derselben.
+
+Die Definition: das Absolute ist das Object, ist am bestimmtesten in der Leibnizischen Monade enthalten, welche ein Object, aber an sich vorstellend, und zwar die Totalität der Weltvorstellung seyn soll; in ihrer einfachen Einheit ist aller Unterschied nur als ideelles, unselbstständiges. Es kommt Nichts von außen in die Monade, sie ist in sich der ganze Begriff, nur unterschieden durch dessen eigene größere oder geringere Entwicklung. Ebenso zerfällt diese einfache Totalität, in die absolute Vielheit der Unterschiede so, daß sie selbstständige Monaden sind. In der Monade der Monaden und der prästabilirten Harmonie ihrer innern Entwicklungen sind diese Substanzen ebenso wieder zur Unselbstständigkeit und Idealität reducirt. Die Leibnizische Philosophie ist so der vollständig entwickelte Widerspruch. [orig. 184]
+
+## a.
+
+## DER MECHANISMUS.
+
+§. 195.
+
+Das Object 1) in seiner Unmittelbarkeit ist der Begriff nur an sich, hat denselben zunächst außer ihm, und alle Bestimmtheit ist an ihm als eine äußerlich gesetzte. Als Einheit Unterschiedener ist es daher ein Zusammengesetztes, ein Aggregat, und die Wirksamkeit auf Anderes bleibt eine äußerliche Beziehung, formeller Mechanismus. - Die Objecte, in dieser Beziehung, ihrer Unselbstständigkeit, bleiben ebenso selbstständig, Widerstand leistend, einander äußerlich.
+
+[p. 158] Wie Druck und Stoß mechanische Verhältnisse sind, so wissen wir auch mechanisch, auswendig, in sofern die Worte ohne Sinn für uns sind, dem Sinne, Vorstellen, Denken äußerlich bleiben; sie sind sich selbst ebenso äußerlich, eine sinnlose Aufeinanderfolge. Das Handeln, Frömmigkeit u.s.f. ist ebenso mechanisch, in sofern dem Menschen durch Ceremonial-Gesetze, einen Gewissensrath u.s.f. bestimmt wird, was er thut, und sein eigner Geist, Wille nicht in seinen Handlungen ist, sie in ihm selbst somit äußerliche sind.
+
+§. 196.
+
+Die Unselbstständigkeit, nach der das Object Gewalt leidet, hat es nur, in sofern es selbstständig ist, und, als Begriff an sich, hebt sich die eine Bestimmung nicht in ihrer andern auf, sondern das Object schließt sich durch die Negation seiner, seine Unselbstständigkeit, mit sich selbst zusammen, und ist erst so selbstständig. So zugleich im Unterschiede von der Aeußerlichkeit ist diese Selbstständigkeit negative Einheit mit sich, Centralität, Subjectivität, in der es selbst auf das Aeußerliche bezogen ist. Dieses ist ebenso central in sich, und darin ebenso [orig. 185] nur auf das andere Centrum bezogen, hat ebenso seine Centralität im Andern. - 2) Differenter Mechanismus (Fall, Begierde, Geselligkeitstrieb u. dgl.).
+
+§. 197.
+
+Die Entwicklung dieses Verhältnisses bildet den Schluß, daß die immanente Negativität als centrale Einzelnheit eines Objects sich auf unselbstständige Objecte als das andere Extrem, durch eine Mitte bezieht, welche die Centralität und Unselbstständigkeit der Objecte in sich vereinigt; – 3) absoluter Mechanismus.
+
+§. 198.
+
+Dieser Schluß (E-B-A) ist ein dreifaches von Schlüssen. Die schlechte Einzelnheit der unselbstständigen Objecte, in denen der formale Mechanismus einheimisch ist, ist als Unselbstständigkeit eben so sehr die äußerliche Allgemeinheit. Diese Objecte sind daher die Mitte zwischen dem absoluten und dem relativen Centrum; (die Form des Schlusses A-E-B) denn durch diese Unselbstständigkeit ist es, daß jene beide dirimirt und Extreme, so wie daß sie auf einander bezogen sind. Eben so ist die absolute Centralität als das substantiell-Allgemeine (- die identischbleibende Schwere) welches als die reine [p. 159] Negativität eben so die Einzelnheit in sich schließt, das Vermittelnde zwischen dem relativen Centrum und den unselbstständigen Objecten, die Form des Schlusses B-A-E, und zwar eben so wesentlich nach der immanenten Einzelnheit als dirimirend, wie nach der Allgemeinheit als identischer Zusammenhalt und ungestörtes In-sich-seyn.
+
+Wie das Sonnensystem, so ist z. B. im Praktischen der Staat ein System von drei Schlüssen. 1) Der Einzelne (die Person) schließt sich durch seine Besonderheit (die physischen und geistigen Bedürfnisse, was weiter für sich ausgebildet die bürgerliche Gesellschaft [orig. 186] gibt) mit dem Allgemeinen (der Gesellschaft, dem Rechte, Gesetz, Regierung) zusammen. 2) Ist der Wille, Thätigkeit der Individuen das Vermittelnde, welches den Bedürfnissen an der Gesellschaft, dem Rechte u.s.f. Befriedigung, wie der Gesellschaft, dem Rechte u.s.f. Erfüllung und Verwirklichung gibt; 3) aber ist das Allgemeine (Staat, Regierung, Recht,) die substantielle Mitte, in der die Individuen und deren Befriedigung ihre erfüllte Realität, Vermittlung und Bestehen haben und erhalten. Jede der Bestimmungen, indem die Vermittlung sie mit dem andern Extrem zusammenschließt, schließt sich eben darin mit sich selbst zusammen, producirt sich und diese Production ist Selbsterhaltung. Es ist nur durch die Natur dieses Zusammenschließens, durch diese Dreiheit von Schlüssen derselben Terminorum, daß ein Ganzes in seiner Organisation wahrhaft verstanden wird.
+
+§. 199.
+
+Die Unmittelbarkeit der Existenz, welche die Objecte im absoluten Mechanismus haben, ist an sich darin, daß ihre Selbstständigkeit durch ihre Beziehungen auf einander, also durch ihre Unselbstständigkeit vermittelt ist, negirt; so ist das Object als in seiner Existenz gegen sein Anderes different zu setzen.
+
+## b. DER CHEMISMUS.
+
+§. 200.
+
+Das differente Object hat eine immanente Bestimmtheit, welche seine Natur ausmacht, und in der es Existenz hat. Aber als der Begriff an sich ist es [p. 160] der Widerspruch dieser seiner Totalität und der Bestimmtheit | seiner Existenz; es ist daher das Streben ihn aufzuheben, und sein Daseyn dem Begriffe gleich zu machen.
+
+§. 201.
+
+Der chemische Proceß hat daher das Neutrale seiner gespannten Extreme, welches diese an sich sind, zum Producte; der Begriff, das Allgemeine schließt sich durch die Differenz der Objecte, die Besonderung, mit der Einzelnheit, dem Producte, und darin nur mit sich selbst zusammen. Eben sowohl sind in diesem Processe auch die andern Schlüsse enthalten; die Einzelnheit, als Thätigkeit ist gleichfalls Vermittelndes, so wie das Allgemeine, das Wesen der gespannten Extreme, welches im Producte zum Daseyn kommt.
+
+§. 202.
+
+Der Chemismus hat noch als das Reflexionsverhältniß der Objectivität mit der differenten Natur der Objecte zugleich die unmittelbare Selbstständigkeit derselben zur Voraussetzung. Der Proceß ist das Herüber- und Hinübergehen von einer Form zur andern, die sich zugleich noch äußerlich bleiben.
+
+Im neutralen Producte sind die bestimmten Eigenschaften, die die Extreme gegen einander hatten, aufgehoben. Es ist dem Begriffe wohl gemäß, aber das begeistende Princip der Differenz existirt in ihm als zur Unmittelbarkeit zurückgesunkenem nicht; das Neutrale ist darum ein trennbares. Aber das urtheilende Princip, welches das Neutrale in differente Extreme dirimirt, ingleichen dem indifferenten Objecte überhaupt seine Differenz und Begeistung gegen ein anderes gibt, und der Proceß als spannende Trennung, fällt außer jenem ersten Processe.
+
+§. 203.
+
+Die Aeußerlichkeit dieser Processe, welche sie als selbstständig gegen einander erscheinen läßt, zeigt aber ihre | Endlichkeit in dem Uebergehen in Producte, worin sie aufgehoben sind. Umgekehrt stellt der Proceß die vorausgesetzte Unmittelbarkeit der differenten Objecte als eine nichtige dar. – Durch diese Negation der Aeußerlichkeit und Unmittelbarkeit, worein der Begriff als Object versenkt war, ist er frei und für sich gegen jene Aeußerlichkeit und Unmittelbarkeit gesetzt, als Zweck.
+
+## [p. 161] C.
+
+## TELEOLOGIE.
+
+§. 204.
+
+Der Zweck ist der in freie Existenz getretene, fürsichseyende Begriff, vermittelst der Negation der unmittelbaren Objectivität. Der Begriff ist damit als subjectiv bestimmt, indem diese Negation zunächst abstract ist, weswegen vorerst die Objectivität auch nur gegenüber steht. Die Bestimmtheit der Subjectivität ist aber gegen die Totalität des Begriffs einseitig, und zwar für ihn selbst, indem alle Bestimmtheit in ihm sich als aufgehobene gesetzt hat. So ist für ihn das vorausgesetzte Object nur eine ideelle, an sich nichtige Realität. Als dieser Widerspruch seiner Identität mit sich gegen die [in] ihm gesetzte Negation und Gegensatz ist er selbst das Aufheben desselben, die Thätigkeit, den Gegensatz so zu negiren, daß er ihn identisch mit sich setzt. Dies ist das Realisiren des Zwecks, in welchem er, indem er sich zum Andern seiner Subjectivität macht und so objectivirt, den Unterschied beider aufgehoben, sich nur mit sich zusammengeschlossen und erhalten hat.
+
+Der Zweck-Begriff ist einerseits überflüssig, sonst mit Recht Vernunftbegriff genannt, und dem Abstract-Allgemeinen des Verstandes gegenüber gestellt worden, als welches sich nur subsumirend auf das Besondere bezieht, indem es das Besondere nicht an [orig. 189] ihm selbst hat. Der Begriff als Zweck aber hat die Besonderheit, d. i. die Subjectivität und damit die weitern Unterschiede an ihm selbst, als seine eigene Bestimmung. Ebenso ist der Unterschied des Zweckes als Endursache von der blos wirkenden Ursache, d. i. der gewöhnlich sogenannten Ursache, von höchster Wichtigkeit. Die Ursache gehört der noch nicht enthüllten, der blinden Nothwendigkeit an; sie erscheint darum als in ihr Anderes übergehend und darin ihre Ursprünglichkeit verlierend; der Zweck dagegen als in ihm selbst die Bestimmtheit oder das, was dort noch als Andersseyn erscheint, enthaltend, geht nicht über in seiner Wirksamkeit, sondern erhält sich, d. i. bewirkt nur sich selbst, und ist am Ende, was er im Anfange, in der Ursprünglichkeit, war; durch diese Selbsterhaltung ist erst das wahrhaft Ursprüngliche. Der Zweck erfodert übrigens sogleich eine speculative Auffassung, als der Begriff, der selbst in der eigenen Einheit und Idealität seiner [p. 162] Bestimmungen das Urtheil oder die Negation, den Gegensatz des Subjectiven und Objectiven enthält.
+
+Beim Zwecke muß nicht gleich oder nicht blos an die Form gedacht werden, in welcher er im Bewußtseyn als eine in der Vorstellung vorhandene Bestimmung ist. Mit dem Begriffe von innerer Zweckmäßigkeit hat Kant die Idee überhaupt, und insbesondere die des Lebens wieder erweckt. Uebrigens enthält schon die Bestimmung des Aristoteles vom Leben die innere Zweckmäßigkeit und steht daher unendlich weit über dem Begriffe moderner Teleologie, die nur die endliche, die äußere Zweckmäßigkeit vor sich hatte.
+
+Bedürfniß, Trieb sind die am nächsten liegenden Beispiele vom Zweck. Sie sind der gefühlte Widerspruch, der innerhalb des lebendigen Subjects selbst Statt findet, und gehen in die Thätigkeit, diese Negation, welche die noch bloße Subjectivität ist, aufzuheben. Die Befriedigung stellt den Frieden her zwischen dem Subject und Object, indem das Objective, das im noch vorhandenen Widerspruche (- dem Bedürfnisse) drüben steht, ebenso nach dieser seiner Einseitigkeit aufgehoben wird, durch die Vereinigung mit dem Subjectiven. – Diejenigen, welche so viel von der Festigkeit und Unüberwindlichkeit des Endlichen, sowohl des Subjectiven als des Objectiven sprechen, haben an jedem Triebe das Beispiel von dem Gegentheil. Der Trieb ist so zu sagen die Gewißheit, daß das Subjective nur einseitig ist und keine Wahrheit hat, eben so wenig als das Objective. Der Trieb ist ferner die Ausführung von dieser seiner Gewißheit; er bringt es zu Stande, diesen Gegensatz, das Subjective, das nur ein Subjectives sey und bleibe, wie das Objective, das ebenso nur ein Objectives sey und bleibe, und diese ihre Endlichkeit aufzuheben.
+
+Bei der Thätigkeit des Zweckes ist noch darauf aufmerksam zu machen, daß in dem Schlusse, der sie ist, nämlich den Zweck durch das Mittel mit sich in seiner Realisirung zusammen zu schließen, wesentlich die Negation der Terminorum vorkommt; – die so eben erwähnte Negation der im Zwecke als solchem vorkommenden unmittelbaren Subjectivität, wie der unmittelbaren Objectivität (des Mittels und der vorausgesetzten Objecte). Es ist dies dieselbe Negation, welche in Erhebung des Geistes zu Gott, gegen die zufälligen Dinge der Welt, so wie gegen die eigene Subjectivität ausgeübt wird; es ist das Moment, welches, wie in der Einleitung und §. 192. erwähnt worden, in der Form von Verstandesschlüssen, die dieser Erhebung [p. 163] in den sogenannten Beweisen vom Daseyn Gottes gegeben wird, übersehen und weggelassen wird. |
+
+§. 205.
+
+Die teleologische Beziehung ist als unmittelbar zunächst die äußerliche Zweckmäßigkeit, und der Begriff dem Objecte, einem nur vorausgesetzten, gegenüber. Der Zweck ist daher endlich, hiemit theils dem Inhalte nach, theils darnach, daß er an einem vorzufindenden Objecte, als Material seiner Realisirung eine äußerliche Bedingung hat; seine Selbstbestimmung ist in sofern nur formal. Näher liegt in der Unmittelbarkeit, daß die Besonderheit (als Formbestimmung die Subjectivität des Zweckes) als in sich reflectirte, als Inhalt, unterschieden von der Totalität der Form, der Subjectivität an sich, dem Begriffe erscheint. Diese Verschiedenheit macht die Endlichkeit des Zwekkes innerhalb seiner selbst aus. Der Inhalt ist hiedurch ein eben so Beschränktes, Zufälliges und Gegebenes, wie das Object ein Besonderes und Vorgefundenes.
+
+§. 206.
+
+Die teleologische Beziehung ist der Schluß, in welchem sich der subjective Zweck mit der ihm äußerlichen Objectivität durch eine Mitte zusammenschließt, welche die Einheit beider, als die zweckmäßige Thätigkeit, und als die unter den Zweck unmittelbar gesetzte Objectivität, das Mittel ist.
+
+§. 207.
+
+1) Der subjective Zweck ist der Schluß, in welchem sich der allgemeine Begriff durch die Besonderheit mit der Einzelnheit so zusammenschließt, daß diese als die Selbstbestimmung urtheilt, d. i. sowohl jenes noch unbestimmte Allgemeine besondert und zu einem bestimmten Inhalt macht, als auch den Gegensatz von Subjectivität und Objectivität setzt, und zugleich die Rückkehr in sich ist, indem sie die gegen die Objectivität vor ausgesetzte Subjectivität des Begriffes als ein Mangelhaftes bestimmt, und sich damit zugleich nach Außen kehrt.
+
+§. 208.
+
+2) Diese nach Außen gekehrte Thätigkeit bezieht sich als die – im subjectiven Zwecke mit der Besonderheit, in welche die äußerliche [p. 164] Objectivität eingeschlossen ist, identische Einzelnheit, erstens unmittelbar auf das Object, und bemächtigt sich dessen, als eines Mittels. Der Begriff ist diese unmittelbare Macht, weil er die mit sich identische Negativität ist, in welcher das Seyn des Objects durchaus nur als ein ideelles bestimmt ist. - Die ganze Mitte ist nun diese innere Macht des Begriffs als Thätigkeit, mit der das Object als Mittel unmittelbar vereinigt ist, und unter der es steht.
+
+In der endlichen Zweckmäßigkeit ist die Mitte dies in die zwei einander äußerlichen Momente, die Thätigkeit und das Object, das zum Mittel dient, gebrochene. Die Beziehung des Zwecks als Macht auf dies Object, und die Unterwerfung desselben unter sich ist unmittelbar, - sie ist die erste Prämisse des Schlusses, in sofern in dem Begriffe als der für sich seyenden Idealität, das Object als an sich nichtig gesetzt ist. Diese Beziehung oder erste Prämisse wird selbst die Mitte, welche zugleich der Schluß in sich ist, indem sich der Zweck durch diese Beziehung, seine Thätigkeit, in der er enthalten und herrschend bleibt, mit der Objectivität zusammenschließt.
+
+§. 209.
+
+3) Die zweckmäßige Thätigkeit mit ihrem Mittel ist noch nach Außen gerichtet, weil der Zweck auch nicht identisch mit dem Objecte ist; daher muß er auch erst mit demselben vermittelt werden. Das Mittel ist als Object in dieser zweiten Prämisse in unmittelbarer [orig. 193] Beziehung mit dem andern Extreme des Schlusses, der Objectivität als vorausgesetzter, dem Material. Diese Beziehung ist die Sphäre des nun dem Zwecke dienenden Mechanismus und Chemismus, deren Wahrheit und freier Begriff er ist. Dies, daß der subjective Zweck, als die Macht dieser Processe, worin das Objective sich aneinander abreibt und aufhebt, sich selbst außer ihnen hält und das in ihnen sich erhaltende ist, ist die List der Vernunft.
+
+§. 210.
+
+Der realisirte Zweck ist so die gesetzte Einheit des Subjectiven und Objectiven. Diese Einheit ist aber wesentlich so bestimmt, daß das Subjective und Objective nur nach ihrer Einseitigkeit neutralisirt und aufgehoben, aber das Objective dem Zwecke als dem freien Begriffe und dadurch der Macht über dasselbe unterworfen und gemäß gemacht ist. Der Zweck erhält sich gegen und in dem Objectiven, weil, außerdem daß er das einseitige Subjective, das Besondre ist, er auch das concrete Allgemeine, die an sich seyende Identität beider [p. 165] ist. Dies Allgemeine, als einfach in sich reflectirt, ist der Inhalt, welcher durch alle drei Terminos des Schlusses und deren Bewegung dasselbe bleibt.
+
+§. 211.
+
+In der endlichen Zweckmäßigkeit ist aber auch der ausgeführte Zweck ein so in sich gebrochenes, als es die Mitte und der anfängliche Zweck war. Es ist daher nur eine an dem vorgefundenen Material äußerlich gesetzte Form zu Stande gekommen, die wegen des beschränkten Zweck-Inhalts gleichfalls eine zufällige Bestimmung ist. Der erreichte Zweck ist daher nur ein Object, das auch wieder Mittel oder Material für andere Zwecke ist, und so fort ins Unendliche. |
+
+§. 212.
+
+Die Thätigkeit des endlichen Zwecks ist als die nur relative Totalität der Subjectivität und Objectivität ein Verfallen in den unendlichen Progreß, indem die Thätigkeit der Widerspruch ist, den Gegensatz der Bestimmungen, den ihr Verlauf aufhebt, auch wieder zu erzeugen. Was aber in dem Realisiren des Zwecks an sich geschieht, ist, daß diese Subjectivität und der bloße Schein der objectiven Selbstständigkeit aufgehoben wird. In Ergreifung des Mittels setzt sich der Begriff als das an sich seyende Wesen des Objects; in dem mechanischen und chemischen Processe hat sich die Selbstständigkeit des Objects schon an sich verflüchtigt, und in ihrem Verlaufe unter der Herrschaft des Zwecks hebt sich der Schein jener Selbstständigkeit, das Negative gegen den Begriff, auf. Daß aber der ausgeführte Zweck nur als Mittel und Material bestimmt ist, darin ist dies Object sogleich schon als ein an sich nichtiges, nur ideelles gesetzt. Hiemit ist auch der Gegensatz von Inhalt und Form verschwunden. Indem der Zweck durch Aufhebung der Formbestimmungen sich mit sich selbst zusammenschließt, ist die Form als identisch mit sich, hiemit als Inhalt gesetzt, so daß der Begriff als die Form-Thätigkeit nur sich zum Inhalt hat. Es ist also durch diesen Proceß überhaupt nun das gesetzt, was der Begriff des Zwecks war, die Einheit des Subjectiven und Objectiven, nur als für sich seyend, d. h. die absolute an-und-für-sich-seyende Subjectivität, d. i. welche die Einheit ihrer selbst und der Objectivität für sich, subjectiv ist, die Idee. |
+
+## [p. 166] DIE IDEE.
+
+§. 213.
+
+Die Idee ist das Wahre an und für sich, die absolute Einheit des Begriffs und der Objectivität. Ihr ideeller Inhalt ist kein anderer als der Begriff in seinen Bestimmungen; ihr reeller Inhalt ist nur seine Darstellung, die er sich in der Form äußerlichen Daseyns gibt, und diese Gestalt in seiner Idealität eingeschlossen, in seiner Macht, so sich in ihr erhält.
+
+Die Definition des Absoluten, daß es die Idee ist, ist nun selbst absolut. Alle bisherige Definitionen gehen in diese zurück. – Die Idee ist die Wahrheit; denn die Wahrheit ist dies, daß die Objectivität dem Begriffe entspricht nicht äußerliche Dinge meinen Vorstellungen, dies sind nur richtige Vorstellungen, die Ich Dieser habe. In der Idee handelt es sich nicht um Diesen, noch um Vorstellungen, noch um äußerliche Dinge. Aber auch alles Wirkliche, in sofern es ein Wahres ist, ist die Idee, und hat seine Wahrheit allein durch und kraft der Idee. Das einzelne Seyn ist irgend eine Seite der Idee, für dieses bedarf es daher noch anderer Wirklichkeiten, die gleichfalls als besonders für sich bestehende erscheinen; in ihnen zusammen und in ihrer Beziehung ist allein der Begriff realisirt. Das Einzelne für sich entspricht seinem Begriffe nicht; diese Beschränktheit seines Daseyns macht seine Endlichkeit und seinen Untergang aus. [orig. 196]
+
+Die Idee selbst ist nicht zu nehmen als eine Idee von irgend Etwas, so wenig als der Begriff blos als bestimmter Begriff. Das Absolute ist die allgemeine und Eine Idee, welche als urtheilend sich zum System der bestimmten Ideen besondert, welche aber nur dies sind, in die Eine Idee, in ihre Wahrheit zurückzugehen. Doch ist die Idee als solche zunächst nur die Eine, allgemeine Substanz; ihre entwickelte, wahrhafte Wirklichkeit ist, daß sie als Subject, und so als Geist, ist.
+
+Die Idee wird häufig, in sofern sie nicht eine Existenz zu ihrem Ausgangs- und Stützungs-Punkt habe, für ein blos formelles logisches genommen. Man muß solche Ansicht den Standpunkten überlassen, auf welchen das existirende Ding und alle weitern noch nicht zur Idee durchgedrungenen Bestimmungen noch für sogenannte Realitäten und wahrhafte [p. 167] Wirklichkeiten gelten. – Eben so falsch ist die Vorstellung, als ob die Idee nur das Abstracte sey. Sie ist es allerdings in sofern, als alles Unwahre sich in ihr aufzehrt; aber an ihr selbst ist sie wesentlich concret, weil sie der freie sich selbst und hiemit zur Realität bestimmende Begriff ist. Nur dann wäre sie das Formell-Abstracte, wenn der Begriff, der ihr Princip ist, als die abstracte Einheit, nicht wie er ist, als die negative Rückkehr seiner in sich und als die Subjectivität genommen würde.
+
+§. 214.
+
+Die Idee kann als die Vernunft, (dies ist die eigentliche philosophische Bedeutung für Vernunft), ferner als das Subject-Object, als die Einheit des Ideellen und Reellen, des Endlichen und Unendlichen, der Seele und des Leibs, als die Möglichkeit, die ihre Wirklichkeit an ihr selbst hat, als das, dessen Natur nur als existi rend begriffen werden kann u.s.f. gefaßt werden; weil in ihr alle Verhältnisse des Verstandes, aber in ihrer unendlichen Rückkehr, und Identität in sich enthalten sind.
+
+Der Verstand hat leichte Arbeit, alles, was von der Idee gesagt wird, als in sich widersprechend aufzuzeigen. Dies kann ihm ebenso heim gegeben werden, oder vielmehr ist es schon in der Idee bewerkstelligt; – eine Arbeit, welche die Arbeit der Vernunft, und freilich nicht so leicht, wie die seinige ist. Wenn der Verstand zeigt, daß die Idee sich selbst widerspreche, weil z. B. das Subjective nur subjectiv, und das Objective demselben vielmehr entgegengesetzt, das Seyn etwas ganz anderes als der Begriff, und daher nicht aus demselben herausgeklaubt werden könne, eben so das Endliche nur endlich und gerade das Gegentheil vom Unendlichen, also nicht mit demselben identisch sey, und sofort durch alle Bestimmungen hindurch, so zeigt vielmehr die Logik das entgegengesetzte auf, daß nämlich das Subjective, das nur subjectiv, das Endliche, das nur endlich, das Unendliche, das nur unendlich seyn soll und so ferner, keine Wahrheit hat, sich widerspricht und in sein Gegentheil übergeht, womit dies Uebergehn und die Einheit, in welcher die Extreme, als aufgehobene, als ein Scheinen oder Momente sind, sich als ihre Wahrheit offenbart.
+
+Der Verstand, welcher sich an die Idee macht, ist der gedoppelte Misverstand, daß er erstlich die Extreme der Idee, sie mögen ausgedrückt werden, wie sie wollen, in sofern sie in ihrer Einheit sind, noch in dem Sinne und der Bestimmung nimmt, in sofern sie nicht in ihrer concreten Einheit, sondern noch Abstractionen außerhalb derselben sind. Nicht weniger verkennt er selbst die schon ausdrücklich gesetzte Beziehung; so [p. 168] übersieht er z. B. sogar die Natur der Copula im Urtheil, welche vom Einzelnen, dem Sub [orig. 198] jecte, aussagt, daß das Einzelne eben so sehr nicht Einzelnes, sondern Allgemeines ist. Vors andere hält der Verstand seine Reflexion, daß die mit sich identische Idee das Negative ihrer selbst, den Widerspruch, enthalte, für eine äußerliche Reflexion, die nicht in die Idee selbst falle. In der That ist dies aber nicht eine dem Verstande eigene Weisheit, sondern die Idee ist selbst die Dialektik, welche ewig das mit sich Identische von dem Differenten, das Subjective von dem Objectiven, das Endliche von dem Unendlichen, die Seele von dem Leibe, ab- und unterscheidet, und nur in sofern ewige Schöpfung, ewige Lebendigkeit, und ewiger Geist ist. Indem sie so selbst das Uebergehen oder vielmehr das sich Uebersetzen in den abstracten Verstand ist, ist sie ebenso ewig Vernunft; sie ist die Dialektik, welche dieses Verständige, Verschiedene über seine endliche Natur und den falschen Schein der Selbstständigkeit seiner Productionen wieder verständigt und in die Einheit zurückführt. Indem diese gedoppelte Bewegung nicht zeitlich, noch auf irgend eine Weise getrennt und unterschieden ist, – sonst wäre sie wieder nur abstracter Verstand, – ist sie das ewige Anschauen ihrer selbst im Andern; der Begriff, der in seiner Objectivität sich selbst ausgeführt hat, das Object, das innere Zweckmäßigkeit, wesentliche Subjectivität ist.
+
+Die verschiedenen Weisen, die Idee aufzufassen, als Einheit des Ideellen und Reellen, des Endlichen und Unendlichen, der Identität und der Differenz, und so fort, sind mehr oder weniger formell, indem sie irgend eine Stufe des bestimmten Begriffs bezeichnen. Nur der Begriff selbst ist frei, und das wahrhaft Allgemeine; in der Idee ist daher seine Bestimmtheit ebenso nur er selbst; eine Objectivität, in welche er als das Allgemeine sich fortsetzt, und in der er nur seine eigene, die totale Bestimmtheit hat. [orig. 199] Die Idee ist das unendliche Urtheil, dessen Seiten jede die selbstständige Totalität sind, und eben dadurch, daß jede sich dazu vollendet, in die andere eben so sehr übergegangen ist. Keiner der sonst bestimmten Begriffe ist diese in ihren beiden Seiten vollendete Totalität, als der Begriff selbst und die Objectivität.
+
+§. 215.
+
+Die Idee ist wesentlich Proceß, weil ihre Identität nur in sofern die absolute und freie des Begriffes ist, in sofern sie die absolute Negativität und daher dialektisch ist. Sie ist der Verlauf, daß der Begriff als die Allgemeinheit, welche Einzelnheit ist, sich zur Objectivität und zum Gegensatz gegen dieselbe bestimmt, und [p. 169] diese Aeußerlichkeit, die den Begriff zu ihrer Substanz hat, durch ihre immanente Dialektik sich in die Subjectivität zurückführt.
+
+Weil die Idee a. Proceß ist, ist der Ausdruck für das Absolute: die Einheit des Endlichen und Unendlichen, des Denkens und Seyns u.s.f. wie oft erinnert, falsch; denn die Einheit drückt abstracte, ruhig beharrende Identität aus. Weil sie b. Subjectivität ist, ist jener Ausdruck ebenso falsch, denn jene Einheit drückt das Ansich, das Substantielle der wahrhaften Einheit aus. Das Unendliche erscheint so als mit Endlichem nur neutralisirt, so das Subjective mit dem Objectiven, das Denken mit dem Seyn. Aber in der negativen Einheit der Idee greift das Unendliche eben so sehr über das Endliche hinüber, das Denken über das Seyn, die Subjectivität über die Objectivität. Die Einheit der Idee ist Subjectivität, Denken, Unendlichkeit, und dadurch wesentlich von der Idee als Substanz zu unterscheiden, wie diese übergreifende Subjectivität, Denken, Unendlichkeit von der einseitigen Subjectivität, von dem einseitigen Denken, der einseitigen Unendlichkeit, wozu sie sich urtheilend, bestimmend herabsetzt, zu unterscheiden ist. [orig. 200]
+
+## a. DAS LEBEN.
+
+§. 216.
+
+Die unmittelbare Idee ist das Leben. Der Begriff ist als Seele in einem Leibe realisirt, von dessen Aeußerlichkeit jene die unmittelbare sich auf sich beziehende Allgemeinheit, eben so dessen Besonderung, so daß der Leib keine andern Unterschiede, als die Begriffsbestimmungen an ihm ausdrückt, endlich die Einzelnheit ist, – die Dialektik seiner Objectivität, welche aus dem Schein des selbstständigen Bestehens in die Subjectivität zurückgeführt wird, so daß alle Glieder sich gegenseitig momentane Mittel, wie momentane Zwecke sind, und das Leben, so wie es die anfängliche Besonderung ist, sich als die negative für sich seyende Einheit resultirt, und sich in der Leiblichkeit als dialektischer nur mit sich selbst zusammenschließt. So ist das Leben wesentlich Lebendiges, und nach seiner Unmittelbarkeit Dieses Einzelne Lebendige. Die Endlichkeit hat in dieser Sphäre die Bestimmung, daß Seele und Leib trennbar sind; dies macht die Sterblichkeit des Lebendigen aus. Aber nur in sofern es todt ist, sind jene zwei Seiten der Idee, verschiedene Bestandstücke.
+
+[p. 170] §. 217.
+
+Das Lebendige ist der Schluß, dessen Momente selbst Systeme und Schlüsse (§. 198. 201. 207.) in sich sind, welche aber thätige Schlüsse, Processe, und in der subjectiven Einheit des Lebendigen nur Ein Proceß sind. Das Lebendige ist so der Proceß seines Zusammenschließens mit sich selbst, das sich durch drei Processe verläuft. [orig. 201]
+
+§. 218.
+
+1) Der erste ist der Proceß des Lebendigen innerhalb seiner, in welchem es sich an ihm selbst dirimirt, und sich seine Leiblichkeit zu seinem Objecte, seiner unorganischen Natur, macht. Diese, als das relativ Aeußerliche, tritt an ihr selbst in den Unterschied und Gegensatz ihrer Momente, die sich gegenseitig preis geben und eins das andre sich assimiliren und sich selbst producirend erhalten. Diese Thätigkeit der Glieder ist nur die Eine des Subjects, in welche ihre Productionen zurückgehen, so daß darin nur das Subject producirt wird, d. i. es sich nur reproducirt.
+
+§. 219.
+
+2) Das Urtheil des Begriffs geht als frei aber dazu fort, das Objective als eine selbstständige Totalität aus sich zu entlassen, und die negative Beziehung des Lebendigen auf sich macht, als unmittelbare Einzelnheit, die Voraussetzung einer ihm gegenüberstehenden unorganischen Natur. Indem dies Negative seiner eben so sehr Begriffsmoment des Lebendigen selbst ist, so ist es in diesem, dem zugleich Allgemeinen, als ein Mangel. Die Dialektik, wodurch das Object als an sich Nichtiges sich aufhebt, ist die Thätigkeit des seiner selbst gewissen Lebendigen, welches in diesem Proceß gegen eine unorganische Natur hiemit sich selbst erhält, sich entwickelt und objectivirt.
+
+§. 220.
+
+3) Indem das lebendige Individuum, das in seinem ersten Proceß sich als Subject und Begriff in sich verhält, durch seinen zweiten seine äußerliche Objectivität sich assimilirt und so die reelle Bestimmtheit in sich setzt, so ist es nun an sich Gattung, substantielle Allgemeinheit. Die Besonderung derselben ist die Beziehung des Subjects [orig. 202] auf ein anderes Subject seiner Gattung, und das Urtheil ist das Verhältniß der Gattung zu diesen so gegen einander bestimmten Individuen; die Geschlechtsdifferenz.
+
+[p. 171] §. 221.
+
+Der Proceß der Gattung bringt diese zum Fürsichseyn. Das Product desselben, weil das Leben noch die unmittelbare Idee ist, zerfällt in die beiden Seiten, daß nach der einen das lebendige Individuum überhaupt, das zuerst als unmittelbar vorausgesetzt wurde, nun als ein Vermitteltes und Erzeugtes hervorgeht; daß nach der andern aber die lebendige Einzelnheit, die sich um ihrer ersten Unmittelbarkeit willen negativ zur Allgemeinheit verhält, in dieser als der Macht untergeht.
+
+§. 222.
+
+Die Idee des Lebens aber hat damit sich nicht nur von irgend einem (besondern) unmittelbaren Diesen befreit, sondern von dieser ersten Unmittelbarkeit überhaupt; sie kommt damit zu sich, zu ihrer Wahrheit; sie tritt hiemit als freie Gattung für sich selbst in die Existenz. Der Tod der nur unmittelbaren einzelnen Lebendigkeit ist das Hervorgehen des Geistes.
+
+## b. DAS ERKΕΝΝΕΝ.
+
+§. 223.
+
+Die Idee existirt frei für sich, in sofern sie die Allgemeinheit zum Elemente ihrer Existenz hat, oder die Objectivität selbst als der Begriff ist, die Idee sich zum Gegenstande hat. Ihre zur Allgemeinheit bestimmte Sub [orig. 203] jectivität ist reines Unterscheiden innerhalb ihrer, - Anschauen, das sich in dieser identischen Allgemeinheit hält. Als Subjectivität in dieser Identität ist sie das Urtheil, sich als Totalität von sich abzustoßen, und zwar zunächst sich als äußerliches Universum vorauszusetzen.
+
+§. 224.
+
+Die Beziehung dieser beiden Ideen, die an sich oder als Leben identisch sind, ist so die relative (was die Bestimmung der Endlichkeit in dieser Sphäre [p. 172] ausmacht). Sie ist das Reflexionsverhältniß, indem die Unterscheidung der Idee in ihr selbst auch nur zugleich das erste Urtheil, das Voraussetzen noch nicht als ein Setzen, für die subjective Idee daher die objective die vorgefundene unmittelbare Welt, oder die Idee als Leben in der Erscheinung der einzelnen Existenz ist. Zugleich in Einem ist sie, in sofern dies Urtheil reines Unterscheiden innerhalb ihrer selbst ist (vorhg. §.), für sich sie selbst und ihre Andere, so ist sie die Gewißheit der an sich seyenden Identität dieser objectiven Welt mit ihr. - Die Vernunft kommt an die Welt, mit dem absoluten Glauben die Identität setzen und ihre Gewißheit zur Wahrheit erheben zu können, und mit dem Triebe, den für sie an sich nichtigen Gegensatz auch als nichtig zu setzen.
+
+§. 225.
+
+Dieser Proceß ist im Allgemeinen das Erkennen. An sich wird in ihm in Einer Thätigkeit der Gegensatz, die Einseitigkeit der Subjectivität mit der Einseitigkeit der Objectivität, aufgehoben. Aber dies Aufheben geschieht zunächst nur an sich, und der Proceß als solcher ist unmittelbar selbst mit der Endlichkeit dieser Sphäre behaftet und zerfällt in die gedoppelte als verschieden gesetzte Bewegung des Triebs, – die Einseitigkeit der Subjectivität der Idee aufzuheben vermittelst der Aufnahme | der seyenden Welt, in sich, in das subjective Vorstellen und Denken, und die abstracte Gewißheit seiner selbst mit Objectivität als Inhalt zu erfüllen, und umgekehrt die Einseitigkeit der objectiven Welt, die hiemit hier im Gegentheil nur als ein Schein, eine Sammlung von Zufälligkeiten und an sich nichtigen Gestalten gilt, aufzuheben, sie durch das Innere des Subjectiven, das hier als das wahrhaft seyende Objective gilt, zu bestimmen und ihr dieses einzubilden. Jenes ist der Trieb des Wissens nach Wahrheit, Erkennen als solches die theoretische, dieses der Trieb des Guten zur Vollbringung desselben, das Wollen, die praktische Thätigkeit der Idee.
+
+## a. DAS ERKENNEN.
+
+§. 226.
+
+Die allgemeine Endlichkeit des Erkennens, die in der Voraussetzung des Gegensatzes (§. 224.) liegt, gegen welche sein Thun selbst der Widerspruch ist, [p. 173] bestimmt sich näher an seiner eignen Idee dazu, daß deren Momente die Form der Verschiedenheit von einander haben, und indem sie zwar vollständig sind, in das Verhältniß der Reflexion, nicht des Begriffs zu einander zu stehen kommen. Die Assimilation des Stoffes als eines Gegebenen erscheint daher als die Aufnahme desselben in die ihm zugleich äußerlich bleibende Begriffsbestimmungen, welche ebenso in der Verschiedenheit gegen einander auftreten. Es ist die als Verstand thätige Vernunft. Die Wahrheit, zu der dies Erkennen kommt, ist daher gleichfalls nur die endliche; die unendliche des Begriffs ist als ein nur an sich seyendes Ziel, ein Jenseits für dasselbe fixirt.
+
+§. 227.
+
+Das endliche Erkennen hat 1) indem es das Unterschiedene als ein vorgefundenes, ihm gegenüber stehendes Seyendes, die mannichfaltigen Thatsachen der äußern Natur oder des Bewußtseyns, – voraussetzt, für die Form seiner Thätigkeit nur die formelle Identität oder die Abstraction der Allgemeinheit. Diese Thätigkeit besteht daher darin, das gegebene Concrete aufzulösen, dessen Unterschiede zu vereinzeln und ihnen die Form abstracter Allgemeinheit zu geben; oder das Concrete als Grund zu lassen, und durch Abstraction von den unwesentlich scheinenden Besonderheiten ein concretes Allgemeines, die Gattung oder die Kraft und das Gesetz, herauszuheben; - Analytische Methode.
+
+§. 228.
+
+Diese Allgemeinheit ist 2) auch eine Bestimmte. Weil der Begriff im endlichen Erkennen nicht in seiner Unendlichkeit ist, ist er der verständige, bestimmte Begriff. Die Aufnahme des Gegenstandes in die Formen desselben ist die synthetische Methode.
+
+§. 229.
+
+a) Der Gegenstand von dem Erkennen zunächst in die Form des Allgemeinen als des bestimmten Begriffes gebracht, so daß hiemit dessen Gattung und dessen allgemeine Bestimmtheit gesetzt wird, ist die Definition. Die Bestimmtheit soll jedoch nur ein Merkmal, d. i. zum Behufe des dem Gegenstande äußerlichen, nur subjectiven Erkennens seyn.
+
+[p. 174] §. 230.
+
+β) Die Angabe des zweiten Begriffsmoments, der Bestimmtheit des Allgemeinen als Besondrung, ist die Eintheilung, nach irgend einer äußerlichen Rücksicht.
+
+§. 231.
+
+γ) In der concreten Einzelnheit, so daß die in der Definition einfache Bestimmtheit als ein Verhältniß aufgefaßt ist, ist der Gegenstand eine synthetische Beziehung unterschiedener Bestimmungen; - ein Theorem. Die Identität derselben, weil sie verschiedene sind, ist eine vermittelte. Das Herbeibringen des Materials, welches die Mittelglieder ausmacht, ist die Construction, und die Vermittlung selbst, woraus die Nothwendigkeit jener Beziehung für das Erkennen hervorgeht, der Beweis.
+
+Nach den gewöhnlichen Angaben von dem Unterschiede der synthetischen und analytischen Methode erscheint es im Ganzen als beliebig, welche man gebrauchen wolle. Wenn das Concrete, das nach der synthetischen Methode als Resultat dargestellt ist, vorausgesetzt wird, so lassen sich aus demselben die abstracten Bestimmungen als Folgen heraus analysiren, welche die Voraussetzungen und das Material für den Beweis ausmachten. Die algebraischen Definitionen der krummen Linien sind Theoreme in dem geometrischen Gange; so würde etwa auch der pythagoräische Lehrsatz als Definition des rechtwinklichten Dreiecks angenommen, die in der Geometrie zu seinem Behuf früher erwiesenen Lehrsätze durch Analyse ergeben. Die Beliebigkeit der Wahl beruht darauf, daß die eine wie die andere Methode von einem äußerlich Vorausgesetzten ausgeht. Der Natur des Begriffes nach ist das Analysiren das Erste, indem es den gegebenen empirisch-concreten Stoff vorerst in die Form allgemeiner Abstractionen zu erheben hat, welche dann erst als Definitionen in der synthetischen Methode vorangestellt werden können.
+
+Daß diese Methoden für das philosophische Erkennen unbrauchbar sind, erhellt von selbst, da sie eine erste Voraussetzung haben, und das Erkennen sich darin zum Verstand, und dem Fortgehen an formeller Identität herabsetzt. Bei Spinoza, der die geometrische Methode vornehmlich und zwar für speculative Begriffe | gebrauchte, macht sich der Formalismus derselben sogleich auffallend. Die Wolfische Philosophie, welche sie zum weitesten Pedantismus ausgebildet, ist auch ihrem Inhalte nach Verstandes-Metaphysik. An die Stelle des Misbrauchs, der mit dem Formalismus dieser Methoden in der Philosophie und in den Wissenschaften getrieben worden, [p. 175] ist in neuern Zeiten der Misbrauch mit der sogenannten Construction getreten. Durch Kant war die Vorstellung in Umlauf gebracht worden, daß die Mathematik ihre Begriffe construire; dies sagte nichts anders, als daß sie es mit keinen Begriffen, sondern mit abstracten Bestimmungen sinnlicher Anschauungen zu thun hat. So ist denn die Angabe sinnlicher aus der Wahrnehmung aufgegriffener Bestimmungen mit Umgehung des Begriffs, und der fernere Formalismus, philosophische und wissenschaftliche Gegenstände nach einem vorausgesetzten Schema tabellarisch, übrigens nach Willkühr und Gutdünken, zu classificiren, - eine Construction der Begriffe genannt worden. Es liegt dabei wohl eine dunkle Vorstellung der Idee, der Einheit des Begriffes und der Objectivität, so wie daß die Idee concret sey, im Hintergrunde. Aber jenes Spiel des sogenannten Construirens ist weit entfernt diese Einheit darzustellen, die nur der Begriff als solcher ist, und eben so wenig ist das Sinnlich-Concrete der Anschauung ein Concretes der Vernunft und der Idee.
+
+Weil es übrigens die Geometrie mit der sinnlichen, aber abstracten Anschauung des Raums zu thun hat, so kann sie ungehindert einfache Verstandesbestimmungen in ihm fixiren; sie hat deswegen allein die synthetische Methode des endlichen Erkennens in ihrer Vollkommenheit. Sie stößt jedoch in ihrem Gange, was sehr bemerkenswerth ist, zuletzt auf Incommensurabilitäten und Irrationalitäten, wo sie, [orig. 208] wenn sie im Bestimmen weiter gehen will, über das verständige Princip hinausgetrieben wird. Auch hier tritt, wie sonst häufig, an der Terminologie die Verkehrung ein, daß was Rational genannt wird, das Verständige, was aber Irrational, vielmehr ein Beginn und Spur der Vernünftigkeit ist. Andere Wissenschaften, wenn sie, was ihnen nothwendig geschieht, an die Gränze ihres verständigen Fortgehens kommen, helfen sich auf leichte Weise. Sie brechen die Consequenz desselben ab, und nehmen, was sie brauchen, oft das Gegentheil des Vorhergehenden, von Außen, aus der Vorstellung, Meynung, Wahrnehmung, oder woher es sonst sey, auf. Die Bewußtlosigkeit des endlichen Erkennens über die Natur seiner Methode und deren Verhältniß zum Inhalt, läßt es weder erkennen, daß es in seinem Fortgehen durch Definitionen, Eintheilungen, u.s.f. von der Nothwendigkeit der Begriffsbestimmungen fortgeleitet wird, noch wo es an seiner Grenze ist, noch, wenn es dieselbe überschritten hat, daß es sich in einem [p. 176] Felde befindet, wo die Verstandesbestimmungen nicht mehr gelten, die es jedoch roher Weise noch darin gebraucht.
+
+§. 232.
+
+Die Nothwendigkeit, welche das endliche Erkennen im Beweise hervorbringt, ist zunächst eine äußerliche, nur für die subjective Einsicht bestimmte. Aber in der Nothwendigkeit als solcher hat es seine Voraussetzung und den Ausgangspunkt, das Vorfinden und Gegebenseyn seines Inhalts, verlassen. Die Nothwendigkeit als solche, ist an sich der sich auf sich beziehende Begriff. Die subjective Idee ist so an sich zu dem an und für sich bestimmten, nicht gegebenen, und daher demselben als dem Subjecte immanenten gekommen und geht in die Idee des Wollens über. [orig. 209]
+
+## b. DAS WOLLEN.
+
+§. 233.
+
+Die subjective Idee als das an und für sich Bestimmte und sich selbst gleicher, einfacher Inhalt ist das Gute. Ihr Trieb, sich zu realisiren hat das umgekehrte Verhältniß gegen die Idee des Wahren, und geht darauf, vielmehr die vorgefundene Welt nach seinem Zwecke zu bestimmen. – Dieses Wollen hat einerseits die Gewißheit der Nichtigkeit des vorausgesetzten Objects, seits aber setzt es als Endliches, zugleich den Zweck des Guten als nur subjective Idee, und die Selbstständigkeit des Objects voraus.
+
+anderer-
+
+§. 234.
+
+Die Endlichkeit dieser Thätigkeit ist daher der Widerspruch, daß in den selbst widersprechenden Bestimmungen der objectiven Welt der Zweck des Guten eben so ausgeführt wird, als auch nicht, daß er als ein unwesentlicher so sehr als ein wesentlicher, als ein wirklicher und zugleich als nur möglicher gesetzt ist. Dieser Widerspruch stellt sich als der unendliche Progreß der Verwirklichung des Guten vor, das darin ebenso nur als ein Sollen fixirt ist. Das formelle Verschwinden dieses Widerspruches ist darin, daß die Thätigkeit die Subjectivität des Zweckes und damit die Objectivität, den Gegensatz, durch den beide endlich sind, und nicht nur diese Subjectivität, sondern sie im Allgemeinen aufhebt; eine andere Subjectivität, d. i. ein neues Erzeugen des Gegensatzes, ist [p. 177] von der, die eine vorige seyn sollte, nicht unterschieden. Diese Rückkehr in sich ist zugleich die Erinnerung des Inhalts in sich, welcher das Gute und die an sich seyende Identität beider Seiten, ist, die Erinnerung an die Voraussetzung des theoretischen Verhaltens (§. 224.), daß das Object das an ihm Substantielle und Wahre sey. [orig. 210]
+
+§. 235.
+
+Die Wahrheit des Guten ist damit gesetzt, als die Einheit der theoretischen und praktischen Idee, daß das Gute an und für sich erreicht, – die objective Welt so an und für sich die Idee ist, wie sie zugleich ewig als Zweck sich setzt und durch Thätigkeit ihre Wirklichkeit hervorbringt. Dieses aus der Differenz und Endlichkeit des Erkennens zu sich zurückgekommene und durch die Thätigkeit des Begriffs mit ihm identisch gewordene Leben ist die speculative oder absolute Idee.
+
+## C.
+
+## DIE ABSOLUTE IDEE.
+
+§. 236.
+
+Die Idee als Einheit der subjectiven und der objectiven Idee ist der Begriff der Idee, dem die Idee als solche der Gegenstand, dem das Object sie ist; – ein Object, in welches alle Bestimmungen zusammengegangen sind. Diese Einheit ist hiemit die absolute, und alle Wahrheit, die sich selbst denkende Idee, und zwar hier als denkende, als logische Idee.
+
+§. 237.
+
+Für sich ist die absolute Idee, weil kein Uebergehen noch Voraussetzen, und überhaupt keine Bestimmtheit, welche nicht flüssig und durchsichtig wäre, in ihr ist, die reine Form des Begriffs, die ihren Inhalt als sich selbst anschaut. Sie ist sich Inhalt, in sofern sie das ideelle Unterscheiden ihrer selbst von sich, und das eine der Unterschiednen die Identität mit sich ist, in der aber die Totalität der Form als das System der Inhaltsbestimmungen enthalten ist. Dieser Inhalt ist das System des Logischen. Als Form bleibt hier der Idee nichts [orig. 211] als die Methode dieses Inhalts, das bestimmte Wissen von der Währung ihrer Momente.
+
+[p. 178] Die Momente der speculativen Methode sind a. der Anfang, der das Seyn oder Unmittelbare ist; für sich aus dem einfachen Grunde, weil er der Anfang ist. Von der speculativen Idee aus aber ist es ihr Selbstbestimmen, welches als die absolute Negativität oder Bewegung des Begriffs urtheilt und sich als das Negative seiner selbst setzt. Das Seyn, das für den Anfang als solchen als abstracte Affirmation erscheint, ist so vielmehr die Negation, Gesetztseyn, Vermitteltseyn überhaupt und Vorausgesetztseyn. Aber als die Negation des Begriffs, der in seinem Andersseyn schlechthin identisch mit sich und die Gewißheit seiner selbst ist, ist es der noch nicht als Begriff gesetzte Begriff, oder der Begriff an sich. - Dies Seyn ist darum als der noch unbestimmte, d. i. nur an sich oder unmittelbar bestimmte Begriff, eben so sehr das Allgemeine.
+
+Der Anfang wird im Sinne des unmittelbaren Seyns aus der Anschauung und Wahrnehmung genommen, der Anfang der analytischen Methode des endlichen Erkennens, im Sinn der Allgemeinheit ist er der Anfang der synthetischen Methode desselben. Da aber das Logische unmittelbar eben so Allgemeines als Seyendes, eben so von dem Begriffe sich vorausgesetztes, als unmittelbar er selbst ist, so ist sein Anfang eben so synthetischer als analytischer Anfang.
+
+§. 239.
+
+b. Der Fortgang ist das gesetzte Urtheil der Idee. Das unmittelbare Allgemeine ist als der Begriff an sich die Dialektik, an ihm selbst seine Unmittelbarkeit und Allgemeinheit zu einem Momente herabzusetzen. Es ist damit das Negative des Anfangs oder das Erste in [orig. 212] seiner Bestimmtheit gesetzt; es ist für eines, die Beziehung Unterschiedener, Moment der Reflexion.
+
+Dieser Fortgang ist eben sowohl analytisch, indem durch die immanente Dialektik nur das gesetzt wird, was im unmittelbaren Begriffe enthalten ist; als synthetisch, als in diesem dieser Unterschied noch nicht gesetzt ist.
+
+§. 240.
+
+Die abstracte Form des Fortgangs ist im Seyn ein Anderes und Uebergehen in ein Anderes, im Wesen Scheinen in dem Entgegengesetzten, im [p. 179] Begriffe die Unterschiedenheit des Einzelnen von der Allgemeinheit, welche sich als solche in das von ihr Unterschiedene continuirt und als Identität mit ihm ist.
+
+§. 241.
+
+In der zweiten Sphäre ist der zuerst an sich seyende Begriff zum Scheinen gekommen, und ist so an sich schon die Idee. - Die Entwicklung dieser Sphäre wird Rückgang in die erste, wie die der ersten Uebergang in die zweite ist; nur durch diese gedoppelte Bewegung erhält der Unterschied sein Recht, indem jedes der beiden Unterschiednen sich an ihm selbst betrachtet zur Totalität vollendet, und darin sich zur Einheit mit dem andern bethätigt. Nur das Sich-Aufheben der Einseitigkeit beider an ihnen selbst läßt die Einheit nicht einseitig werden.
+
+§. 242.
+
+Die zweite Sphäre entwickelt die Beziehung der Unterschiednen zu dem, was sie zunächst ist, zum Widerspruche an ihr selbst, - im unendlichen Progreß, der sich c) in das Ende auflöst, daß das Differente als das gesetzt wird, was es im Begriffe ist. Es ist das [orig. 213] Negative des Ersten, und als die Identität mit demselben die Negativität seiner selbst; hiemit die Einheit, in welcher diese beiden Ersten als ideelle und Momente, oder als aufgehobene d. i. zugleich als aufbewahrte sind. Der Begriff, so von seinem Ansichseyn vermittelst seiner Differenz und deren Aufheben sich mit sich selbst zusammenschließend, ist der realisirte Begriff, d. i. der Begriff das Gesetztseyn seiner Bestimmungen in seinem Fürsichseyn enthaltend, - die Idee, für welche zugleich als absolut Erstes (in der Methode) dies Ende nur das Verschwinden des Scheins ist, als ob der Anfang ein unmittelbares, und sie ein Resultat wäre; - das Erkennen, daß die Idee die Eine Totalität ist.
+
+§. 243.
+
+Die Methode ist auf diese Weise nicht äußerliche Form, sondern die Seele und der Begriff des Inhalts, von welchem sie nur unterschieden ist, in sofern die Momente des Begriffs auch an ihnen selbst in ihrer Bestimmtheit als die Totalität des Begriffs sind. Indem diese Bestimmtheit oder der Inhalt sich mit der [p. 180] Form zur Idee zurückführt, so stellt sich diese als systematische Totalität dar, welche nur Eine Idee ist, deren besondere Momente eben sowohl an sich dieselbe sind, als durch die Dialektik des Begriffs das einfache Fürsichseyn der Idee hervorbringen. Die Wissenschaft schließt auf diese Weise damit, den Begriff ihrer selbst zu fassen, als der reinen Idee, für welche die Idee ist.
+
+§. 244.
+
+Die Idee, welche für sich ist, nach ihrer Einheit mit sich betrachtet, ist sie Anschauen; und die anschauende Idee Natur. Als Anschauen aber ist die Idee in einseitiger Bestimmung der Unmittelbarkeit | oder Negation, durch äußerliche Reflexion gesetzt. Die absolute Freiheit der Idee aber ist, daß sie nicht blos ins Leben übergeht, noch als endliches Erkennen dasselbe in sich scheinen läßt, sondern in der absoluten Wahrheit ihrer selbst sich entschließt, das Moment ihrer Besonderheit oder des ersten Bestimmens und Andersseyns, die unmittelbare Idee, als ihren Wiederschein, sich als Natur frei aus sich zu entlassen. |
+
+## [p. 181] NATURPHILOSOPHIE.
+
+## II.
+
+⁂
+
+## [p. 183] EINLEITUNG
+
+## ZWEITER THEIL.
+
+## EINLEITUNG.
+
+## BETRACHTUNGSWEISEN DER NATUR.
+
+§. 245.
+
+Praktisch verhält sich der Mensch zu der Natur als zu einem Unmittelbaren und Aeußerlichen selbst als unmittelbar Aeußerliches und damit sinnlich Einzelner, der sich übrigens mit Recht als Zweck, hiemit zugleich als außerhalb des Naturgegenstandes befindlicher, benimmt. Die Betrachtung dieser Natur nach diesem Verhältnisse gibt den teleologischen Standpunkt (§. 205.). In diesem findet sich die richtige Voraussetzung (§. 207-211.), daß die Natur den absoluten Endzweck nicht in ihr selbst enthält; wenn aber diese Betrachtung nun besondere, endliche Zwecke annimmt und von ihnen ausgeht, macht sie diese theils zu Voraussetzungen, deren zufälliger Inhalt für sich sogar unbedeutend und schaal werden kann, theils fodert das Zweckverhältniß sogleich für sich eine tiefere Betrachtungsweise. Die Betrachtungsweise des Begriffs, der seiner Natur nach immanent ist. [orig. 218]
+
+§. 246.
+
+Was jetzt Physik genannt wird, hieß vormals Naturphilosophie, und ist gleichfalls theoretische, und zwar denkende Betrachtung der Natur, welche einerseits nicht von Bestimmungen, die der Natur äußerlich sind, wie die des Zwekkes, ausgeht, andererseits auf die Erkenntniß des Allgemeinen derselben in seiner Bestimmtheit, gerichtet ist der Kräfte, Gesetze, Gattungen, so daß ferner dieser Inhalt nicht bloßes Aggregat sey, sondern in Ordnungen, Classen gestellt, sich als eine Organisation ausnehme. Indem die Naturphilosophie [p. 184] begreifende Betrachtung ist, hat sie dasselbe Allgemeine aber für sich zum Gegenstand und betrachtet es in seiner eigenen, immanenten Nothwendigkeit.
+
+Von dem Verhältniß der Philosophie zum Empirischen ist in der Einleitung die Rede gewesen. Nicht nur muß die Philosophie mit der Natur-Erfahrung übereinstimmend seyn, sondern die Entstehung und Bildung dieser Wissenschaft hat die empirische Physik zur Voraussetzung und Bedingung. Ein anderes aber ist der Gang des Entstehens und die Vorarbeiten einer Wissenschaft, ein anderes die Wissenschaft selbst; in dieser können jene nicht mehr als Grundlage erscheinen, welche hier vielmehr die Nothwendigkeit des Begriffs seyn soll. Es ist schon früher erinnert worden, daß indem hiedurch der Gegenstand nach seiner Gedankenbestimmung angegeben ist, noch weiter die empirische Erscheinung, welche derselben entspricht, nahmhaft zu machen, und von dieser aufzuzeigen ist, daß sie jener in der That entsprechend ist. Dies ist aber in Beziehung auf die Nothwendigkeit des Inhalts kein Berufen auf die Erfahrung. Noch weniger ist eine Berufung zulässig auf das, was Anschauung genannt worden, und was nichts anders zu seyn pflegte, als ein [orig. 219] Verfahren der Vorstellung und Phantasie (auch der Phantasterei) nach Analogien, die zufälliger oder bedeutender seyn können, und den Gegenständen, Bestimmungen und Schemata äußerlich aufdrücken. (§. 231. Anm.)
+
+## BEGRIFF DER NATUR.
+
+§. 247.
+
+Die Natur hat sich als die Idee in der Form des Andersseyns ergeben. Da die Idee so als das Negative ihrer selbst oder sich äußerlich ist, so ist die Natur nicht äußerlich nur relativ gegen diese Idee, sondern die Aeußerlichkeit macht die Bestimmung aus, in welcher sie als Natur ist.
+
+§. 248.
+
+In dieser Aeußerlichkeit haben die Begriffsbestimmungen den Schein eines gleichgültigen Bestehens und der Vereinzelung gegeneinander; der [p. 185] Begriff ist deswegen als Innerliches. Die Natur zeigt daher in ihrem Daseyn keine Freiheit, sondern Nothwendigkeit und Zufälligkeit.
+
+Die Natur ist deswegen nach ihrer bestimmten Existenz, wodurch sie eben Natur ist, nicht zu vergöttern, noch sind Sonne, Mond, Thiere, Pflanzen u.s.f. vorzugsweise vor menschlichen Thaten und Begebenheiten, als Werke Gottes zu betrachten und anzuführen. Die Natur ist an sich, in der Idee göttlich, aber wie sie ist, entspricht ihr Seyn ihrem Begriffe nicht; sie ist vielmehr der unaufgelöste Widerspruch. Ihre Eigenthümlichkeit ist das Gesetztseyn, das Negative, wie die Alten die Materie überhaupt als das non-ens gefaßt haben. So ist die Natur auch als der Abfall der Idee von sich selbst ausgesprochen worden, indem die Idee in dieser Gestalt der Aeußerlichkeit, in der Unangemessenheit ihrer selbst mit sich ist. Nur dem Bewußtseyn, in sofern dieses selbst zuerst äußerlich und damit unmittelbar ist, d. i. dem Sinnlichen erscheint die Natur als das Erste, Unmittelbare, Seyende. – Weil sie jedoch obzwar in solchem Elemente der Aeußerlichkeit Darstellung der Idee ist, so mag und soll man in ihr wohl die Weisheit Gottes bewundern. Wenn aber Vanini sagte, daß ein Strohhalm hinreiche, um das Seyn Gottes zu erkennen, so ist jede Vorstellung des Geistes, die schlechteste seiner Einbildungen, das Spiel seiner zufälligsten Launen, jedes Wort ein vortrefflicherer Erkenntnißgrund für Gottes Seyn, als irgend ein einzelner Naturgegenstand. In der Natur hat das Spiel der Formen nicht nur seine ungebundene, zügellose Zufälligkeit, sondern jede Gestalt für sich entbehrt des Begriffs ihrer selbst. Das Höchste, zu dem es die Natur in ihrem Daseyn treibt, ist das Leben, aber als nur natürliche Idee ist dieses der Unvernunft der Aeußerlichkeit hingegeben, und die individuelle Lebendigkeit ist in jedem Momente ihrer Existenz mit einer ihr andern Einzelnheit befangen; da hingegen in jeder geistigen Aeußerung das Moment freier allgemeiner Beziehung auf sich selbst enthalten ist. Ein gleicher Misverstand ist es, wenn menschliche Kunstwerke natürlichen Dingen deswegen nachgesetzt werden, weil zu jenen das Material von Außen genommen werden müsse, und weil sie nicht lebendig seyen. Als ob die geistige Form nicht eine höhere Lebendigkeit enthielte, und des Geistes würdiger wäre, als die natürliche Form, die Form überhaupt nicht höher als die Materie, und in allem Sittlichen nicht auch das, was man Materie nennen kann, ganz allein dem Geiste angehörte. Die Natur bleibt, bei aller Zufälligkeit ihrer Existenzen, ewigen Gesetzen getreu; aber doch wohl auch das Reich des [p. 186] Selbstbewußtseyns; was schon in dem Glauben anerkannt [orig. 221] wird, daß eine Vorsehung die menschlichen Begebenheiten leite; - oder sollten die Bestimmungen dieser Vorsehung in diesem Felde nur zufällig und unvernünftig seyn? Wenn aber die geistige Zufälligkeit, die Willkühr, bis zum Bösen fortgeht, so ist dies selbst noch ein unendlich höheres, als das gesetzmäßige Benehmen der Gestirne oder als die Unschuld der Pflanze.
+
+§. 249.
+
+Die Natur ist als ein System von Stufen zu betrachten, deren eine aus der andern nothwendig hervorgeht und die nächste Wahrheit derjenigen ist, aus welcher sie resultirt, aber nicht so, daß die eine aus der andern natürlich erzeugt würde, sondern in der innern den Grund der Natur ausmachenden Idee. Die Metamorphose kommt nur dem Begriffe als solchem zu, da dessen Veränderung allein Entwicklung ist. Der Begriff aber ist in der Natur theils inneres, theils existirend nur als lebendiges Individuum; auf dieses allein ist daher existirende Metamorphose beschränkt.
+
+Es ist eine ungeschickte Vorstellung älterer auch neuerer Naturphilosophie gewesen, die Fortbildung und den Uebergang einer Naturform und Sphäre in eine höhere für eine äußerlich wirkliche Production anzusehen, die man jedoch, um sie deutlicher zu machen, in das Dunkel der Vergangenheit zurückgelegt hat. Der Natur ist gerade die Aeußerlichkeit eigenthümlich, die Unterschiede auseinander fallen und sie als gleichgültige Existenzen auftreten zu lassen; der dialektische Begriff, der die Stufen fortleitet, ist das Innere derselben. Solcher nebuloser, im Grunde sinnlicher Vorstellungen, wie insbesondere Hervorgehen, (z. B. aus dem Wasser) muß sich die denkende Betrachtung entschlagen. [orig. 222]
+
+§. 250.
+
+Der Widerspruch der Idee, indem sie als Natur sich selbst äußerlich ist, ist als der Widerspruch der durch den Begriff bestimmten Nothwendigkeit ihrer Gebilde und deren in der organischen Totalität vernünftigen Bestimmung, – und deren gleichgültigen Zufälligkeit, und unbestimmbaren Regellosigkeit. Die Zufälligkeit und Bestimmbarkeit von Außen hat in der Sphäre der Natur ihr Recht. Am größten ist diese Zufälligkeit im Reiche subjectiver Individualität, deren Gebilde am concretesten, aber als Naturdinge zugleich nur als unmittelbar concret sind. Das unmittelbar Concrete nämlich ist ein Reichthum von Eigenschaften, die außereinander, und mehr oder weniger gleichgültig gegeneinander sind, [p. 187] gegen die eben darum die einfache für sich seyende Subjectivität ebenfalls gleichgültig ist, und sie äußerlicher, somit zufälliger Bestimmung überläßt. Dies ist die Ohnmacht der Natur, den Begriffsbestimmungen nicht getreu zu bleiben und ihnen gemäß ihre Gebilde zu bestimmen und zu erhalten.
+
+Man hat den unendlichen Reichthum und die Mannichfaltigkeit der Formen, und vollends ganz unvernünftigerweise die Zufälligkeit, die in die äußerliche Anordnung der Naturgebilde sich einmischt, als die hohe Freiheit der Natur, auch als die Göttlichkeit derselben oder wenigstens die Göttlichkeit in derselben gerühmt. Es ist der sinnlichen Vorstellungsweise zuzurechnen, Zufälligkeit, Willkühr, Ordnungslosigkeit, für Freiheit und Vernünftigkeit zu halten. - Jene Ohnmacht der Natur setzt der Philosophie Gränzen, und das Abgeschmackteste ist, von dem Begriffe zu verlangen, er solle dergleichen Zufälligkeiten begreifen, und wie es oft genannt worden, construiren, deduciren; sogar scheint man die Aufgabe um so leichter zu machen, je gering|fügiger und vereinzelter das Gebilde sey.[^gw19-187-1] Spuren der Begriffsbestimmung werden sich allerdings bis in das Particulärste hinein verfolgen, aber dieses sich nicht durch sie erschöpfen lassen. Die Spuren dieser Fortleitung und innern Zusammenhangs werden den Betrachter oft überraschen, aber demjenigen insbesondere überraschend oder vielmehr unglaublich scheinen, der in der Natur- wie in der Menschen-Geschichte nur Zufälliges zu sehen gewohnt ist. Vornehmlich hat man darüber mistrauisch zu seyn, daß solche Spur nicht für Totalität der Bestimmung der Gebilde genommen werde, was den Uebergang zu den erwähnten Analogien macht.
+
+[^gw19-187-1]: *) Hr. Krug hat in diesem Sinne einst die Naturphilosophie aufgefodert, das Kunststück zu machen, nur seine Schreibfeder zu deduciren. - Man hätte ihm etwa zu dieser Leistung und respectiven Verherrlichung seiner Schreibfeder Hoffnung machen können, wenn dereinst die Wissenschaft so weit vorgeschritten und mit allem Wichtigern im Himmel und auf Erden in der Gegenwart und Vergangenheit im Reinen sey, daß es nichts Wichtigeres mehr zu begreifen gebe. |
+
+In der Ohnmacht der Natur, den Begriff in seiner Ausführung festzuhalten, liegt die Schwierigkeit und in vielen Kreisen die Unmöglichkeit, aus der empirischen Betrachtung feste Unterschiede für Classen und Ordnungen zu finden. Die Natur vermischt allenthalben die wesentlichen Gränzen durch mittlere und schlechte Gebilde, welche immer Instanzen gegen jede feste Unterscheidung abgeben, selbst innerhalb bestimmter Gattungen (z. B.
+
+## [p. 188] ENCYCLOPÄDIE NATURPHILOSOPHIE
+
+des Menschen) durch Misgeburten, die man einerseits dieser Gattung zuzählen muß, denen andererseits aber Bestimmungen fehlen, welche als wesentliche Eigenthümlichkeit der Gattung anzusehen wären. Um aber dergleichen Gebilde als mangelhaft, schlecht, misförmig betrachten zu können, dafür wird ein fester Typus vorausgesetzt, der aber theils nicht aus der Erfahrung geschöpft | werden könnte, denn diese eben gibt auch jene sogenannten Misgeburten, Misförmigkeiten u.s.f. an die Hand, theils muß die Selbstständigkeit und Würde der Begriffsbestimmung vorausgesetzt werden.
+
+§. 251.
+
+Die Natur ist an sich ein lebendiges Ganzes; die Bewegung ihrer Idee durch ihren Stufengang ist näher dies, sich als das zu setzen, was sie an sich ist; oder was dasselbe ist, aus ihrer Unmittelbarkeit und Aeußerlichkeit, welche der Tod ist, in sich zu gehen, um als Lebendiges zu seyn, aber ferner auch diese Bestimmtheit der Idee, in welcher sie nur Leben ist, aufzuheben, und zum Geiste zu werden, der ihre Wahrheit und ihr Endzweck ist.
+
+## EINTHEILUNG.
+
+§. 252.
+
+Die Idee als Natur ist:
+
+I. in der Bestimmung des Außereinander, der unendlichen Vereinzelung, außer welcher die Einheit der Form, und daher als eine ideelle, nur gesuchte ist. Mechanik.
+
+II. in der Bestimmung der Besonderheit, so daß die Formbestimmungen realisirt, oder die Realität mit immanenter Bestimmtheit und existirender Differenz gesetzt ist ein Reflexionsverhältniß, dessen Insichseyn die Individualität ist. Physik.
+
+III. in der Bestimmung der Subjectivität, in welcher die realen Unterschiede der Form eben so zur ideellen Einheit, die sich selbst gefunden, und für sich ist, zurückgebracht sind. Organik. |
+
+## [p. 189] MECHANIK
+
+## ERSTE ABTHEILUNG DER NATURPHILOSOPHIE.
+
+## DIE MECHANIK.
+
+§. 253.
+
+Die Mechanik betrachtet:
+
+A. Das ganz abstracte Außereinander,
+
+Raum und Zeit.
+
+B. Das vereinzelte Außereinander, und dessen Beziehung in jener Abstraction, Materie und Bewegung, endliche Mechanik.
+
+C. Die Materie in ihrer Freiheit und freien Bewegung, absolute Mechanik.
+
+## A. RAUM UND ZEIT.
+
+## a. RAUM.
+
+§. 254.
+
+Die erste oder unmittelbare Bestimmung der Natur ist die abstracte Allgemeinheit ihres Außersichseyns, – die vermittlungslose Gleichgültigkeit desselben, der Raum. Er ist das ganz ideelle Nebeneinander, weil er das Außersichseyn ist, und schlechthin continuir lich, weil dies Außereinander noch ganz abstract ist, und keinen bestimmten Unterschied in sich hat.
+
+Es ist vielerlei über die Natur des Raums von je vorgebracht worden. Ich erwähne nur der Kantischen Bestimmung, daß er wie die Zeit eine Form der sinnlichen Anschauung sey. Auch sonst ist es gewöhnlich geworden, zu Grunde zu legen, daß der Raum nur als etwas Subjectives in der Vorstellung, betrachtet werden müsse. Wenn von dem abgesehen wird, was in dem Kantischen Begriffe dem subjectiven Idealismus und dessen Bestimmungen angehört, so bleibt die richtige Bestimmung übrig, daß der Raum eine bloße Form, d. h. eine Abstraction ist, und zwar der unmittelbaren Aeußerlichkeit. Von Raumpunkten zu sprechen, als ob sie das [p. 190] positive Element des Raums ausmachten, ist unstatthaft, da er um seiner Unterschiedslosigkeit willen nur die Möglichkeit, nicht das Gesetztseyn des Außereinanderseyns und Negativen und daher schlechthin continuirlich ist; der Punkt ist deswegen vielmehr die und zwar gedachte Negation des Raums. Die Frage wegen der Unendlichkeit des Raums entscheidet sich gleichfalls hiedurch. Er ist überhaupt die reine Quantität (§. 99.), aber nicht mehr nur dieselbe als logische Bestimmung, sondern als unmittelbar und äußerlich seyend. Die Natur fängt darum nicht mit der Qualität, sondern mit der Quantität an, weil ihre Bestimmung nicht, wie das logische Seyn, das absolut-Erste und Unmittelbare, sondern wesentlich schon ein Vermitteltes, Aeußerlich- und Anders-seyn enthält.
+
+§. 255.
+
+Der Raum hat als Begriff überhaupt, (und bestimmter als das gleichgültige Außereinanderseyn) dessen Unterschiede an ihm, a) unmittelbar in seiner Gleichgültigkeit als die blos verschiedenen, ganz bestimmungslosen drei Dimensionen.
+
+Die Nothwendigkeit, daß der Raum gerade drei Dimensionen hat, zu deduciren, ist an die Geometrie nicht zu fodern, in sofern sie nicht eine philosophische Wissenschaft ist, und ihren Gegenstand, den Raum mit seinen allgemeinen Bestimmungen voraussetzen darf. Aber auch sonst wird an das Aufzeigen dieser Nothwendigkeit nicht gedacht. Sie beruht auf der Natur des Begriffs, dessen Bestimmungen aber, in sofern sie in dieser ersten Form des Außereinander, in der abstracten Quantität, sich darstellen, ganz nur oberflächlich und ein völlig leerer Unterschied sind. Man kann daher nicht sagen, wie sich Höhe, Länge und Breite von einander unterscheiden, weil sie nur unterschieden seyn sollen, aber noch keine Unterschiede sind; es ist völlig unbestimmt, ob man eine Richtung Höhe, Länge oder Breite nennt. Die Höhe hat ihre nähere Bestimmung als Richtung nach dem Mittelpunkte der Erde; aber dieser geht die Natur des Raums für sich nichts an. Jene vorausgesetzt, ist es auch gleichgültig, dieselbe Richtung Höhe oder Tiefe zu nennen, so wie für Länge und Breite, die man oft auch Tiefe heißt, nichts dadurch bestimmt ist.
+
+§. 256.
+
+b. Aber der Unterschied ist wesentlich bestimmter, qualitativer Unterschied. Als solcher ist er a) zunächst die Negation des Raums selbst, weil dieser das [p. 191] unmittelbare unterschiedslose Außersichseyn ist; der Punkt. ẞ) Die Negation ist aber Negation des Raums, d. i. sie ist selbst räumlich; der Punkt als wesentlich diese Beziehung, d. i. als sich aufhebend, ist die Linie, das erste Andersseyn des Punktes; y) die Wahrheit des Andersseyns ist aber die Negation der Negation. Die Linie geht daher in Fläche über, welche einerseits eine Bestimmtheit gegen [orig. 228] Linie und Punkt, und so Fläche überhaupt ist. Andererseits aber ist sie die aufgehobene Negation des Raums, somit Wiederherstellung der räumlichen Totalität, welche aber nunmehr das negative Moment an ihr hat; – umschließende Oberfläche, die einen einzelnen ganzen Raum absondert.
+
+Daß die Linie nicht aus Punkten, die Fläche nicht aus Linien besteht, geht aus ihrem Begriffe hervor, da die Linie der Punkt, als außer sich seyend, sich auf den Raum beziehend und sich aufhebend, die Fläche eben so die aufgehobene außer sich seyende Linie ist. – Der Punkt ist hier als das Erste, und Positive vorgestellt und von ihm ausgegangen worden. Allein eben so ist umgekehrt, in sofern der Raum das Positive ist, die Fläche die erste Negation, und die Linie die zweite, die aber ihrer Wahrheit nach, als sich auf sich beziehende Negation der Punkt ist; die Nothwendigkeit des Uebergangs ist dieselbe. Die weitern Figurationen des Raumes, welche die Geometrie betrachtet, sind fernere qualitative Begränzungen einer Raumabstraction, der Fläche, oder eines begränzten ganzen Raums. Es kommen darin wenige Momente der Nothwendigkeit vor, daß z. B. das Dreieck die erste geradlinige Figur ist, daß alle andern Figuren auf sie oder auf das Quadrat zurückgeführt werden müssen, wenn sie bestimmt werden sollen und dergl. Das Princip dieser Zeichnungen ist die Verstandesidentität, welche die Figurationen zur Regelmäßigkeit bestimmt, und damit die Verhältnisse begründet, welche zu erkennen d. i. als entwickelte Totalität zu fassen (s. §. 231.) der Zweck der Wissenschaft ist.
+
+Im Vorbeigehen kann bemerkt werden, daß es ein sonderbarer Einfall Kants war, zu behaupten, die Definition der geraden Linie, daß sie der kürzeste Weg zwischen zwei Punkten sey, sey ein synthetischer Satz; denn mein Begriff vom Geraden enthalte [orig. 229] nichts von Größe, sondern nur eine Qualität. In diesem Sinn ist jede Definition ein synthetischer Satz; das Definitum, die gerade Linie, ist nur erst die Anschauung oder Vorstellung, und die Bestimmung, daß sie der kürzeste Weg zwischen zwei Punkten sey, macht erst den Begriff aus (wie er nämlich in solchen Definitionen erscheint, s. §. 229.). Daß der Begriff nicht schon in der Anschauung [p. 192] vorhanden ist, ist der Unterschied von beiden, der die Foderung einer Definition herbeiführt.
+
+## b. DIE ZEIT.
+
+§. 257.
+
+Die Negativität, die sich als Punkt auf den Raum bezieht und in ihm ihre Bestimmungen als Linie und Fläche entwickelt, ist aber in der Sphäre des Außersichseyns eben sowohl für sich, und als gleichgültig gegen das ruhige Nebeneinander erscheinend. So für sich gesetzt ist sie die Zeit.
+
+§. 258.
+
+Die Zeit, als die negative Einheit des Außersichseyns, ist gleichfalls ein schlechthin Abstractes, Ideelles. - Sie ist das Seyn, das, indem es ist, nicht ist, und indem es nicht ist, ist; das, aber angeschaute, Werden, d. i. daß die zwar schlechthin momentanen, d. i. unmittelbar sich aufhebenden, Unterschiede als Aeußerliche, d. i. jedoch sich selbst äußerliche, bestimmt sind.
+
+Die Zeit ist wie der Raum, eine reine Form der Sinnlichkeit oder des Anschauens, das unsinnliche Sinnliche – aber wie diesen, so geht auch die Zeit dieser Unterschied der Objectivität und eines gegen dieselbe subjectiven Bewußtseyns nichts an. Wenn diese [orig. 230] Bestimmungen auf Raum und Zeit angewendet werden, so wäre jener die abstracte Objectivität, diese aber die abstracte Subjectivität. Die Zeit ist dasselbe Princip, als das Ich=Ich des reinen Selbstbewußtseyns; aber dasselbe oder der einfache Begriff noch in seiner gänzlichen Aeußerlichkeit und Abstraction als das angeschaute bloße Werden, das reine Insichseyn als schlechthin ein Außersich-kommen.
+
+Die Zeit ist eben so continuirlich wie der Raum, denn sie ist die abstract sich auf sich beziehende Negativität, und in dieser Abstraction ist noch kein reeller Unterschied.
+
+In der Zeit, sagt man, entsteht und vergeht Alles, denn sie ist eben die Abstraction des Entstehens und Vergehens selbst. Wenn von Allem, nämlich der Erfüllung der Zeit, eben so von der Erfüllung des Raums abstrahirt wird, so bleibt die leere Zeit wie der leere Raum übrig, - d. i. es sind dann diese Abstractionen der Aeußerlichkeit gesetzt. Und nicht in ihr, [p. 193] sondern die Zeit selbst ist dies Werden, Entstehen und Vergehen, dies seyende Abstrahiren, der Alles gebährende und seine Geburten zerstörende Chronos. Allein das Reelle ist eben sowohl identisch mit der Zeit, als verschieden von ihr. Es ist beschränkt, und das Andre zu dieser Negation ist außer ihm; die Bestimmtheit ist also an ihm sich äußerlich. Die Abstraction dieser Aeußerlichkeit ist die Zeit selbst. Darum ist das Endliche vergänglich und zeitlich, weil es nicht, wie der Begriff, an ihm selbst die totale Negativität ist, sondern diese als sein allgemeines Wesen zwar in sich hat, aber ihm nicht gemäß, einseitig ist, daher sich zu derselben als zu seiner Macht verhält. Der Begriff aber, in seiner frei für sich existirenden Identität mit sich, Ich=Ich, ist an und für sich die absolute Negativität und Freiheit, die Zeit daher nicht seine Macht, noch ist er in der Zeit und ein Zeitliches, sondern er ist [orig. 231] vielmehr die Macht der Zeit, als welche nur diese Negativität als Aeußerlichkeit ist. Nur das Natürliche ist darum der Zeit unterthan, in sofern es endlich ist; das Wahre dagegen, die Idee, der Geist, ist ewig. ig. - Der Begriff der Ewigkeit muß aber nicht negativ so gefaßt werden, daß sie die Abstraction von der Zeit sey oder außerhalb derselben gleichsam existire; ohnehin nicht in dem Sinn, als ob die Ewigkeit nach der Zeit komme; so würde die Ewigkeit zur Zukunft, zu einem Momente der Zeit, gemacht.
+
+§. 259.
+
+Die Dimensionen der Zeit, die Gegenwart, Zukunft und Vergangenheit, sind das Werden der Aeußerlichkeit als solches, und dessen Auflösung in die Unterschiede des Seyns als des Uebergehens in Nichts, und des Nichts als des Uebergehens in Seyn. Das unmittelbare Verschwinden dieser Unterschiede in die Einzelnheit, ist die Gegenwart als Jetzt, welches als die Einzelnheit ausschließend, und zugleich schlechthin continuirlich in die andern Momente, selbst nur dies Verschwinden seines Seyns in Nichts, und des Nichts in sein Seyn ist.
+
+Die endliche Gegenwart ist das Jetzt als seyend fixirt, von dem Negativen, den abstracten Momenten, der Vergangenheit und Zukunft, als die concrete Einheit, somit als das Affirmative, unterschieden; allein jenes Seyn ist selbst nur das abstracte, in Nichts verschwindende. – Uebrigens kommt es in der Natur, wo die Zeit Jetzt ist, nicht zum bestehenden Unterschiede von jenen Dimensionen; sie sind nothwendig nur in der subjectiven Vorstellung, in der Erinnerung, Furcht oder Hoffnung. Die Vergangenheit [p. 194] aber und Zukunft der Zeit, als in der Natur seyend, ist der Raum, denn er ist die negirte Zeit, [orig. 232] wie der aufgehobene Raum der Punkt zunächst und die Zeit ist.
+
+Der Wissenschaft des Raums, der Geometrie, steht keine solche Wissenschaft der Zeit gegenüber. Die Unterschiede der Zeit haben nicht diese Gleichgültigkeit des Außersichseyns, welche die unmittelbare Bestimmtheit des Raums ausmacht; sie sind daher der Figurationen nicht, wie dieser, fähig. Diese Fähigkeit erlangt das Princip der Zeit erst dadurch, daß es paralysirt, ihre Negativität vom Verstande zum Eins herabgesetzt wird. - Dies todte Eins nun, die höchste Aeußerlichkeit des Gedankens, ist der äußerlichen Combination, und diese Combinationen, die Figuren der Arithmetik, sind wieder der Verstandesbestimmung nach Gleichheit und Ungleichheit, der Identificirung und des Unterscheidens, fähig.
+
+Man könnte aber noch weiter den Gedanken einer philosophischen Mathematik fassen, welche nämlich dasjenige aus Begriffen erkännte, was die gewöhnliche mathematische Wissenschaft aus vorausgesetzten Bestimmungen nach der Methode des Verstandes ableitet. Allein da die Mathematik einmal die Wissenschaft der endlichen Größenbestimmungen ist, welche in ihrer Endlichkeit fest bleiben und gelten, nicht übergehen sollen, so ist sie wesentlich eine Wissenschaft des Verstandes; und da sie die Fähigkeit hat, dieses auf eine vollkommene Weise zu seyn, so ist ihr der Vorzug, den sie vor den andern Wissenschaften dieser Art hat, vielmehr zu erhalten und weder durch Einmischung des ihr heterogenen Begriffs, noch empirischer Zwecke zu verunreinigen. Es bleibt dabei immer offen, daß der Begriff ein gründlicheres Bewußtseyn, sowohl über die leitenden Verstandes-Principien, als über die Ordnung und deren Nothwendigkeit in den arithmetischen Operationen sowohl, als in den Sätzen der Geometrie begründe. Wenn man die Figurationen des Raums oder des Eins philosophisch [orig. 233] behandeln wollte, so würden sie ihre eigenthümliche Bedeutung und Gestalt verlieren, eine Philosophie derselben würde etwas Logisches oder auch etwas von einer andern concreten philosophischen Wissenschaft werden, je nachdem man den Begriffen eine concretere Bedeutung ertheilte.
+
+Es würde ferner eine sehr überflüssige und undankbare Mühe seyn, für den Ausdruck der Gedanken ein solches widerspenstiges und inadäquates Medium, als Raumfiguren und Zahlen sind, gebrauchen zu wollen und dieselben gewaltsam zu diesem Behufe zu behandeln. Die einfachen ersten Figuren und Zahlen eignen sich ihrer Einfachheit wegen, ohne Misverständnisse zu Symbolen, die jedoch immer für den Gedanken ein heterogener und kümmerlicher Ausdruck sind, angewendet zu werden. Die ersten [p. 195] Versuche des reinen Denkens haben zu diesem Nothbehelfe gegriffen; das pythagoreische Zahlensystem ist das berühmte Beispiel davon. Aber bei reichern Begriffen werden diese Mittel völlig ungenügend, da deren äußerliche Zusammensetzung und die Zufälligkeit der Verknüpfung überhaupt der Natur des Begriffs unangemessen ist, und es völlig zweideutig macht, welche der vielen Beziehungen, die an zusammengesetztern Zahlen und Figuren möglich sind, festgehalten werden sollen. Ohnehin verfliegt das Flüssige des Begriffs in solchem äußerlichen Medium, worin jede Bestimmung in das gleichgültige Außereinander fällt. Jene Zweideutigkeit könnte allein durch die Erklärung gehoben werden. Der wesentliche Ausdruck des Gedankens ist alsdenn jene Erklärung, und jenes Symbolisiren ein gehaltloser Ueberfluß.
+
+Andere mathematische Bestimmungen, wie das Unendliche, Verhältnisse desselben, das Unendlichkleine, Factoren, Potenzen u.s.f. haben ihre wahrhaften Begriffe in der Philosophie selbst; es ist ungeschickt, sie für diese aus der Mathematik hernehmen [orig. 234] und entlehnen zu wollen, wo sie begrifflos, ja oft sinnlos aufgenommen werden, und ihre Berichtigung und Bedeutung vielmehr von der Philosophie zu erwarten haben. Es ist nur die Trägheit, die, um sich das Denken und die Begriffsbestimmung zu ersparen, ihre Zuflucht zu Formeln, die nicht einmal ein unmittelbarer Gedankenausdruck sind, und zu deren schon fertigen Schematen, nimmt.
+
+Die wahrhaft philosophische Wissenschaft der Mathematik als Größenlehre würde die Wissenschaft der Maaße seyn, aber diese setzt schon die reelle Besonderheit der Dinge voraus, welche erst in der concreten Natur vorhanden ist. Sie würde aber wohl wegen der äußerlichen Natur der Größe die allerschwerste Wissenschaft seyn.
+
+## C. DER ORT.
+
+§. 260.
+
+Der Raum ist in sich selbst der Widerspruch des gleichgültigen Auseinanderseyns und der unterschiedslosen Continuität, die reine Negativität seiner selbst und das Uebergehen zunächst in die Zeit (s. §. 257.). Ebenso ist die Zeit, da deren in Eins zusammengehaltene entgegengesetzte Momente sich unmittelbar aufheben, das unmittelbare Zusammenfallen in die Indifferenz, in das ununterschiedene Außereinander oder den Raum. So ist dieser wieder mit [p. 196] negativer Bestimmung, als ausschließender Punkt, aber die Negation ist an ihm nun gesetzt, sie ist concret durch die totale Negativität, welche die Zeit ist; der so concrete Punkt ist der Ort.
+
+§. 261.
+
+Der Ort aber ist so die gesetzte Identität des Raumes und der Zeit, aber zunächst ebenso der gesetzte Widerspruch, welcher der Raum und die Zeit, jedes an ihm selbst, ist. Der Ort ist die räumliche somit gleichgültige Einzelnheit und dies nur als Zeit, als räumliches Jetzt, so daß der Ort unmittelbar gleichgültig gegen sich als diesen und sich äußerlich, die Negation seiner und ein anderer Ort ist. Dies Vergehen und Sich-wiedererzeugen des Raums in Zeit und der Zeit in Raum, daß die Zeit sich räumlich als Ort, aber diese gleichgültige Räumlichkeit ebenso unmittelbar zeitlich gesetzt wird, ist die Bewegung; ein Werden, das aber selbst eben so sehr unmittelbar identische daseyende Einheit beider, die Materie, ist.
+
+Der Uebergang von der Idealität zur Realität, von der Abstraction zum concreten Daseyn, hier von Raum und Zeit zu der Realität, welche als Materie erscheint, ist für den Verstand unbegreiflich, und macht sich für ihn daher immer äußerlich und als ein gegebenes. Die geläufige Vorstellung ist, Raum und Zeit als leer von außen her mit der Materie erfüllen zu lassen, und einerseits auf diese Weise die materiellen Dinge als gleichgültig gegen Raum und Zeit, und andererseits zugleich als wesentlich räumlich und zeitlich anzunehmen, so wie Raum und Zeit als leer, gleichgültig gegen ihre Erfüllung, für sich existirend zu betrachten.
+
+Was von der Materie gesagt wird, ist, a) daß sie zusammengesetzt ist; dies bezieht sich auf ihr abstractes Außereinander, den Raum. - In sofern bei ihr von der Zeit und überhaupt von aller Form abstrahirt wird, ist von ihr behauptet worden, daß sie ewig und unveränderlich ist. Dies folgt in der That unmittelbar; aber eine solche Materie ist auch nur ein unwahres Abstractum. ẞ) Die Materie ist undurchdringlich und leistet Widerstand, ist ein fühlbares, sichtbares u.s.f. Diese Prädicate sind nichts | anderes, als daß die Materie theils für die bestimmte Wahrnehmung, überhaupt für ein Anderes, theils aber eben so sehr für sich ist. Beides sind die Bestimmungen, welche sie eben als die Identität des Raums und der Zeit, des unmittelbaren Außereinander und der Negativität oder der als für sich seyenden Einzelnheit hat.
+
+Der Übergang der Idealität in die Realität kommt auch auf ausdrückliche Weise in den bekannten mechanischen Erscheinungen vor, [p. 197] daß nämlich die Idealität die Stelle der Realität und umgekehrt vertreten kann; und es ist nur die Gedankenlosigkeit der Vorstellung und des Verstandes daran Schuld, wenn für sie aus dieser Vertauschbarkeit beider ihre Identität nicht hervorgeht. Beim Hebel z. B. kann Entfernung an die Stelle der Masse und umgekehrt gesetzt werden, und ein Quantum vom ideellen Moment bringt dieselbe Wirkung hervor als das entsprechende Reelle. In der Größe der Bewegung vertritt ebenso die Geschwindigkeit, welche das quantitative Verhältniß nur von Raum und Zeit ist, die Masse, und umgekehrt kommt dieselbe reelle Wirkung hervor, wenn die Masse vermehrt und jene verhältnißmäßig vermindert wird. Ein Ziegelstein für sich erschlägt einen Menschen nicht, sondern bringt diese Wirkung nur durch die erlangte Geschwindigkeit hervor, d. i. der Mensch wird durch Raum und Zeit todtgeschlagen. Die Reflexionsbestimmung von Kraft ist es hier, was einmal für den Verstand fixirt, als ein Letztes dasteht, ihn hindert, weiter nach dem Verhältnisse ihrer Bestimmungen zu fragen. Aber dies wenigstens schwebt vor, daß die Wirkung der Kraft etwas Reelles, Sinnfälliges ist, und daß in der Kraft dasselbe ist, was in ihrer Aeußerung ist, und daß sie eben diese Kraft ihrer Aeußerung [orig. 237] [nach] durch das Verhältniß der ideellen Momente, des Raums und der Zeit, erlangt.
+
+Es gehört ferner zu dieser begrifflosen Reflexion, die sogenannten Kräfte als der Materie eingepflanzt, das ist, als ihr ursprünglich äußerlich anzusehen, so daß eben diese Identität der Zeit und des Raums, welche bei der Reflexionsbestimmung von Kraft vorschwebt und welche in Wahrheit das Wesen der Materie ausmacht, als etwas ihr Fremdes und Zufälliges gesetzt ist. [orig. 238]
+
+## B.
+
+## MATERIE UND BEWEGUNG.
+
+## ENDLICHE MECHANIK.
+
+§. 262.
+
+Die Materie hält sich gegen ihre Identität mit sich, durch das Moment ihrer Negativität, Verschiedenheit oder abstracten Vereinzelung, auseinander; sie [p. 198] enthält Repulsion. Eben so wesentlich ist, weil diese Verschiedenen ein und dasselbe sind, die negative Einheit dieses außereinander-seyenden Fürsichseyns; die Materie ist somit continuirlich, und enthält Attraction. Die Einheit dieser Momente ist negative Einheit derselben, die Einzelnheit; als gegen das unmittelbare Außereinander der Materie noch unterschieden und darum selbst noch nicht als materiell gesetzt, sondern außer demselben, ideelle Einzelnheit, Mittelpunkt, die Schwere.
+
+Kant hat unter andern auch das Verdienst, durch seinen Versuch einer sogenannten Construction der Materie, in seinen metaphysischen Anfangsgründen der Naturwissenschaft, den Anfang zu einem Begriff der Materie gemacht und mit diesem Versuche den Begriff einer Naturphilosophie wieder erweckt zu haben. Er hat aber dabei die Reflexionsbestimmungen von Attractivkraft und [orig. 239] Repulsivkraft als fertige angenommen, und wieder bei Bestimmung derselben, aus welchen die Materie hervorgehen sollte, diese als ein fertiges vorausgesetzt, so daß es schon Materie ist, was attrahirt und repellirt werden soll. Ausführlicher habe ich die in dieser Kantischen Exposition herrschende Verwirrung, in meinem System der Logik, 1r Bd. 1r Thl. S. 119ff. dargestellt.
+
+Die Schwere ist von der bloßen Attraction wesentlich zu unterscheiden. Diese ist nur überhaupt das Aufheben des Außereinanderseyns, und gibt bloße Continuität. Hingegen die Schwere ist die Reduction der auseinander-seyenden Besonderheit zur Einheit als negativer Beziehung auf sich, dem Fürsichseyn als Allgemeinem, Einzelnheit, Einer (jedoch noch ganz abstracten) Subjectivität. In der Sphäre der ersten Unmittelbarkeit der Natur ist die außersichseyende Continuität, noch als das Bestehende gesetzt, wodurch diese Sphäre sich zunächst von der physischen unterscheidet, als in welcher die materielle Reflexion-in-sich beginnt. Die Einzelnheit ist daher als Bestimmung der Idee zwar vorhanden, aber außer dem Materiellen dieser Sphäre. Die Materie ist daher erstens wesentlich selbst schwer; es ist dies nicht eine äußerliche, von ihr auch trennbare Eigenschaft. Die Schwere macht die Substantialität der Materie aus, diese selbst ist das Streben nach dem, - aber, dies ist die andere wesentliche Bestimmung, außer ihr fallenden Mittelpunkt. Man kann, wenn man will, sagen, die Materie werde vom Mittelpunkte attrahirt; aber wenn er als selbst materiell vorgestellt wird, so ist das Attrahiren nur gegenseitig, und selbst ein Attrahirtwerden. Der Mittelpunkt ist aber nicht als materiell zu nehmen; [p. 199] denn das Materielle ist eben dies, seinen Mittelpunkt außer sich zu setzen. Nicht dieser, sondern dies Streben nach demselben ist der Materie | immanent. Die Schwere ist so zu sagen, das Bekenntniß [der Nichtigkeit] des Außersichseyns der Materie in ihrem Fürsichseyn, ihrer Unselbstständigkeit, ihres Widerspruchs.
+
+Man kann auch sagen, die Schwere ist das Insichseyn der Materie in sich, in diesem Sinne, daß eben sofern sie der Mittelpunkt, die Subjectivität noch nicht an ihr selbst ist, sie noch unbestimmt, unentwickelt, unaufgeschlossen ist.
+
+Wo der Mittelpunkt liege, dies ist Determination, durch die schwere Materie, deren Mittelpunkt er ist.
+
+## a.
+
+## DIE TRÄGE MATERIE.
+
+§. 263.
+
+Die Materie hat zunächst als blos allgemeine und unmittelbare nur einen quantitativen Unterschied, und ist besondert in verschiedene Quanta, - Massen, welche in der oberflächlichen Bestimmung eines Ganzen oder Eins, Körper sind. Gleichfalls unmittelbar ist der Körper von seiner Idealität unterschieden, und ist zwar wesentlich [räumlich und zeitlich], aber im Raume und in der Zeit, als deren gegen diese Form gleichgültiger Inhalt er erscheint.
+
+§. 264.
+
+Als der Raum, in welchem die Zeit aufgehoben ist, ist er dauernd; und als die Zeit, in der das gleichgültige Bestehen des Raums aufgehoben ist, vergänglich, überhaupt ein ganz zufälliges Eins. Er ist die beide in ihrer Entgegensetzung bindende Einheit, Bewegung, die aber nach der Unmittelbarkeit des Unterschiedes, zunächst als verschieden von ihm, ihm äußerlich ist, so wie seine Negation derselben, die Ruhe, er ist träge.
+
+In dieser Bestimmung wird der Körper in der physikalischen Mechanik genommen, so daß es Axiom der Mechanik ist, daß der Körper schlechthin [p. 200] nur durch eine äußerliche Ursache in Bewegung als in einen Zustand und ebenso in Ruhe versetzt werde. Es schweben der Vorstellung dabei nur die selbstlosen Körper der Erde vor, von welchen jene Bestimmungen allerdings gelten. Aber dies ist nur die unmittelbare und eben damit abstracte Körperlichkeit. Der Körper quà Körper heißt nichts anders als das Abstractum des Körpers, was auch existirt, als selbstloser Körper. Aber die Unwahrheit dieses Abstractums ist im als concret existirenden Körper aufgehoben, und dies Aufheben beginnt sogar schon am selbstlosen Körper gesetzt zu seyn (s. nachher). Unstatthafter Weise werden dann die Bestimmungen der Trägheit, Stoß, Druck, Anziehen, Fall u.s.f. aus der gemeinen Mechanik in die absolute übergetragen, in welcher die Körperlichkeit und die Bewegung vielmehr in ihrem freien Begriffe existirt.
+
+## b. DER STOSS.
+
+§. 265.
+
+Der träge Körper äußerlich in Bewegung gesetzt und so auf einen andern bezogen, macht momentan mit diesem Einen Körper aus, denn sie sind Massen mit nur quantitativem Unterschiede; die Bewegung ist auf diese Weise Eine beider Körper (Mittheilung der Bewegung). Aber eben so sehr leisten sie sich Widerstand, indem jeder gleichfalls als unmittelbares Eins vorausgesetzt ist. Dies ihr Fürsichseyn gegeneinander ist ihre Schwere, Gewicht als die Schwere einer quantitativ besondern Masse (extensiv als eine Menge schwerer Theile, intensiv als bestimmter Druck s. §. 103. Anm.). [orig. 242]
+
+§. 266.
+
+Dies Gewicht als intensive Größe in einen Punkt concentrirt im Körper selbst ist sein Schwerpunkt. Aber vielmehr ist der Körper als schwer dies, seinen Mittelpunkt außer sich zu setzen und zu haben. Stoß und Widerstand hat daher eine substantielle Grundlage in einem den einzelnen Körpern gemeinschaftlichen außer ihnen liegenden Centrum, und jene ihre äußerlich gesetzte, accidentelle [p. 201] Bewegung geht in die Ruhe, in diesem Mittelpunkt, über, - eine Ruhe, die zugleich, indem das Centrum außer der Materie ist, nur ein Streben, und in dem Verhältnisse der in Körper besonderten Materie und ihrer verschiedenen Entfernung vom Mittelpunkte ein Druck ist. Dies Streben, im Verhältnisse des Getrenntseyns des Körpers durch einen relativleeren Raum von dem Mittelpunkt seiner Schwere, ist der Fall, die wesentliche Bewegung, in welche jene accidentelle übergeht.
+
+Für die äußerliche Bewegung ist es der Grundsatz der Mechanik, daß ein Körper, der ruht, in Ewigkeit ruhen, und der in Bewegung ist, in Ewigkeit sich fortbewegen würde, wenn er nicht durch eine äußerliche Ursache von dem einen in den andern Zustand versetzt würde. Dies heißt nichts anders als: Bewegung ist Bewegung, und Ruhe ist Ruhe; beide Bestimmungen sind gegen einander ein Negatives und Aeußerliches. Der Satz des Cartesius: daß sich im Universum immer dasselbe Quantum von Bewegung erhalte, gehört eben dahin. Diese Abstractionen der Bewegung für sich und der Ruhe für sich, nur sind es, welche die leere Behauptung, von einer ewig sich fortsetzenden Bewegung, wenn nicht u.s.f., hervorbringen eine Behauptung, welche für sich gar keinen empirischen Grund hat, und im Gegentheil ist schon der Stoß als solcher durch die Schwere d. i. die Bestimmung des Fallens [orig. 243] bedingt. Der Wurf enthält die Möglichkeit der accidentellen Bewegung gegen die wesentliche des Falls, indem (vgl. vorh. §. Anm.) der Körper auch als das Abstractum existirt. Aber diese Abstraction, der Körper quà Körper, ist unzertrennlich verknüpft mit seiner Schwere, und so drängt sich bei dem Wurf diese Schwere von selbst auf in Betracht gezogen werden zu müssen. Der Wurf als abgesondert, für sich existirend kann nicht aufgezeigt werden. Das Beispiel für die Bewegung, die von der vis centrifuga herkommen soll, ist gewöhnlich der Stein, der in einer Schleuder, von der Hand im Kreise bewegt, immer das Streben sich von ihr zu entfernen zeige. (Newton phil. nat. princ. math. Defin. Vta.) Aber es ist nicht darum zu thun, daß eine solche Richtung existire, sondern daß sie getrennt von der Schwere für sich existire, wie sie in der Kraft vollends verselbstständigt vorgestellt wird. Newton versichert ebendaselbst, daß eine bleierne Kugel in coelos abiret et motu abeundi pergeret in infinitum, wenn (freilich: wenn) man ihr nur die gehörige Geschwindigkeit ertheilen könnte. Solche Trennung der äußerlichen und der wesentlichen Bewegung gehört weder der Natur und der Erfahrung noch dem Begriffe, [p. 202] nur der Reflexion an. Ein anderes ist es, sie, was nothwendig ist, zu unterscheiden, so wie mathematisch sie als getrennte Linien zu verzeichnen, als getrennte Factoren zu behandeln u.s.f., ein anderes sie als physisch selbstständige Existenzen zu betrachten.[^gw19-202-1] [orig. 244]
+
+[^gw19-202-1]: *) Newton (ibid. Defin. VIII.) sagt ausdrücklich: Voces Attractionis, Impulsus vel Propensionis cujuscunque in centrum, indifferenter et pro se mutuo promiscue usurpo; has vires non Physice sed Mathematice tantum considerando. Unde caveat lector, ne per hujusmodi voces cogitet me speciem vel modum actionis | causamve aut rationem Physicam alicubi definire, vel centris (quae sunt puncta Mathematica) vires vere et Physice tribuere; si forte aut centra trahere, aut vires centrorum esse dixero. Allein durch die Einführung der Vorstellung von Kräften hat Newton die Bestimmungen aus der Erscheinung hinweggerückt, und sie wesentlich verselbstständigt. In diesen Vorstellungen hat er selbst allenthalben gesprochen, und so wird denn auch in den nur physisch seynsollenden Darstellungen des sogenannten Weltgebäudes von solchen gegen einander selbstständigen und unabhängig existirenden Kräften, deren Attractionen, Stößen u. dergl. gesprochen. |
+
+Es soll aber auch bei solchem Fliegen der Bleikugel ins Unendliche von dem Widerstande der Luft, der Reibung, abstrahirt werden. Daß ein Perpetuum Mobile, nach der Theorie noch so richtig berechnet und bewiesen, seiner Zeit, die nicht ausbleibt, zur Ruhe übergeht, dabei wird von der Schwere abstrahirt, und das Phänomen ganz der Reibung zugeschrieben. Eben diesem Hindernisse wird die allmählige Abnahme der Pendelbewegung und ihr endlicher Stillstand zugeschrieben; es wird von der Pendelbewegung gleichfalls gesagt, daß sie ohne Aufhören fortdauern würde, wenn die Reibung entfernt werden könnte. Dieser Widerstand, den der Körper in seiner accidentellen Bewegung erfährt, gehört allerdings zur nothwendigen Erscheinung seiner Unselbstständigkeit. Aber wie der fallende Körper Hindernisse findet, in den Mittelpunkt seines Centralkörpers zu gelangen, ohne daß diese Hindernisse sein Drücken, seine Schwere, aufhöben, so hemmt jener Widerstand der Reibung die Wurfbewegung des Körpers, ohne dessen Schwere aufzuheben und deren Stelle zu vertreten. Die Reibung ist ein Hinderniß, aber nicht die wesentliche Hemmung der äußerlichen, accidentellen Bewegung. Es bleibt, daß die accidentelle Bewegung unzertrennlich mit der Schwere verbunden [orig. 245] ist, und für sich in die Richtung der letztern, der substantiellen Bestimmung der Materie übergeht und ihr unterliegt.
+
+## [p. 203] c.
+
+## DER FALL.
+
+§. 267.
+
+Der Fall ist die relativ-freie Bewegung, frei, indem sie durch den Begriff des Körpers gesetzt, die Erscheinung seiner eigenen Schwere ist; sie ist ihm daher immanent. Aber sie ist zugleich als die nur erste Negation der Aeußerlichkeit, bedingt; die Entfernung von dem Zusammenhange mit dem Centrum ist daher noch die äußerlich gesetzte, zufällige Bestimmung.
+
+Die Gesetze der Bewegung betreffen die Größe und zwar wesentlich der verflossenen Zeit und des in derselben durchlaufenen Raums; es sind unsterbliche Entdeckungen, die der Analyse des Verstandes die höchste Ehre machen. Ein weiteres ist der nicht empirische Beweis derselben, und auch dieser ist von der mathematischen Mechanik gegeben worden, so daß auch die auf Empirisches sich gründende Wissenschaft mit dem blos empirischen Weisen nicht zufrieden ist. Die Voraussetzung bei diesem à priorischen Beweise ist, daß die Geschwindigkeit im Fall gleichförmig beschleunigt ist; der Beweis aber besteht in der Verwandlung der Momente der mathematischen Formel in physikalische Kräfte, in eine beschleunigende Kraft, welche in jedem Zeitmoment einen (denselben) Impuls mache,[^gw19-203-1] und in eine Kraft der Trägheit, welche [orig. 246] die in jedem Zeitmomente erlangte Geschwindigkeit fortsetze,[^gw19-203-2] – Bestimmungen, die [p. 204] durchaus ohne empirische Beglaubigung sind, so wie der Begriff nichts mit ihnen zu thun hat. Zu einer Folge aus dem so bewiesen seyn sollenden Gesetze wird gemacht, daß in der gleichförmig beschleunigten Bewegung die Geschwindigkeiten den Zeiten proportional seyen.« In der That ist dieser Satz aber nichts, als die ganz einfache Definition der gleichförmig beschleunigten Bewegung selbst. Die schlecht-gleichförmige Bewegung hat die durchlaufenen Räume den Zeiten proportional; die beschleunigte ist, in der die Geschwindigkeit zunimmt, in jedem der folgenden Zeittheile grö-Der wird, und die gleichförmig beschleunigte Bewegung somit, in der die Geschwindigkeiten den verflossenen Zeiten proportional sind; vt also \frac{s}{t2} V ist die Geschwindigkeit überhaupt, | die noch unbestimmte; deswegen ist sie zugleich die abstracte, d. i. schlecht-gleichförmige. Die Schwierigkeit bei dem Beweisen liegt darin, st mit dem Gedanken als schlechtgleichförmige, und zugleich als unbestimmte, abstracte Geschwindigkeit überhaupt, zu fassen. Jener Umweg des von der mathematischen Exposition hergenommenen Beweisens dient für das Bedürfniß, die Geschwindigkeit als die schlecht-gleichförmige st zu nehmen. Allein die Geschwindigkeit in allgemeiner Bedeutung muß allenthalben recurriren. So in dem Satze, daß die Geschwindigkeit den Zeiten proportional ist, ist die Geschwindigkeit zunächst überhaupt gesagt, und damit mathematisch st , die schlecht-gleichförmige, aber damit, daß sie den Zeiten proportional sey, ist sie vielmehr die gleichförmig beschleunigte \frac{s}{t2}.[^gw19-204-1] |
+
+[^gw19-203-1]: *) Diese sogenannte beschleunigende Kraft würde man sonach viel richtiger die nicht beschleunigende nennen, da die von ihr herrühren sollende Wirkung in jedem Zeitmo mente gleich (constant) ist; sie ist der empirische Factor in der Größe des Falls, die Einheit (die 15 Fuß an der Oberfläche der Erde). Beschleunigung drückt vielmehr eine in jedem Zeitmoment vergrößerte Wirkung aus.
+
+[^gw19-203-2]: *) In diese sogenannte Kraft der Trägheit dagegen fällt sonach in der That die Beschleunigung; denn sie wird vorgestellt als die Dauer der am Ende jeden Zeitmoments erlangten Geschwindigkeit; diese aber ist am Ende jeden Zeitmoments größer als am Ende des vorhergehenden; und Dauer ist nur Existenz, denn die Zeittheile sind unendlich klein, wie das Ende eines solchen Zeittheils noch mehr unendlich klein ist. Der Kraft der Trägheit gehört daher vielmehr die Existenz der in jedem Zeittheil vergrößerten Geschwindigkeit, die Beschleunigung zu. Größe-Bestimmungen an einem Concreten lassen sich in ihrer Ver-
+
+[^gw19-204-1]: *) Lagrange geht nach seiner Weise in der Théorie des fonctions 3me P. Application de la Théorie à la Mécanique, Ch. I. den einfachen ganz richtigen Weg; er setzt die mathematische Behandlung der Functionen voraus, findet in der Anwendung auf die Mechanik, für s=
+
+schiedenheit ruhig nebeneinander stellen und aussprechen, aber wie sie in Reflexions-Bestimmungen verwandelt werden, tritt ihre Dialektik hervor, daß jede sich vielmehr in das Gegentheil dessen, was sie seyn soll, um ihrer Untrennbarkeit willen, verkehrt. |
+
+ft in der Natur ft auch bt²; ( s=c~t3 presentire sich in der Natur nicht) bei der Entwicklung der Function, indem t zu t+9 wird, wird der Umstand, daß von der sich für den in durchlaufenen Raum ergebenden Reihe nur die zwei ersten Glieder gebraucht werden können, und die andern wegzulassen sind, auf seine gewöhnliche Weise für das analytische Interesse erledigt. Aber jene zwei ersten Glieder werden für das Interesse des Gegenstandes nur gebraucht, weil nur sie eine reelle Bestimmung haben (ibid. 4. 5. on voit que les fonctions primes et secondes [p. 205] (247)248-249
+
+Das Gesetz, des Falles ist gegen die abstracte gleichförmige Geschwindigkeit des todten, von außen bestimmten Mechanismus, ein freies Naturgesetz, d. h. das eine Seite in ihm hat, die sich aus dem Begriffe des Körpers bestimmt. Indem daraus folgt, daß es aus diesem muß abgeleitet werden können, so ist auch einmal dieses sich vorzusetzen, und der Weg anzugeben, wie das Galileische Gesetz, »daß die durchlaufenen Räume sich wie die Quadrate der verflossenen Zeiten verhalten,« mit der Begriffsbestimmung zusammenhängt.
+
+Dieser Zusammenhang ist aber als einfach darin liegend anzusehen, daß weil hier der Begriff zum Bestimmen kommt, die Begriffsbestimmungen der Zeit und des Raums gegeneinander frei werden, d. h. ihre Größebestimmungen sich nach jenen verhalten. Nun ist aber die Zeit das Moment der Negation, des Fürsichseyns, das Princip des Eins, und ihre Größe (irgend eine empirische Zahl) ist im Verhältnisse zum Raum als die Einheit oder als Nenner zu nehmen. Der Raum dagegen ist das Außereinanderseyn, und zwar keiner andern Größe, als eben der Größe der Zeit. Denn die Geschwindigkeit dieser freien Bewegung ist eben dies, daß Zeit und Raum nicht äußerlich, nicht zufällig gegeneinander sind, sondern beider Eine Bestimmung ist. Die als der Form der Zeit, der Einheit, entgegengesetzte Form des Außereinander des Raums, und ohne daß irgend eine andere Bestimmtheit sich einmischt, ist das Quadrat, die Größe außer sich kommend, in eine zweite Dimension sich setzend, sich somit vermehrend, aber nach keiner andern als ihrer eigenen Bestimmtheit, diesem Erweitern sich selbst zur Gränze machend, und in ihrem Anderswerden so sich nur auf sich beziehend.
+
+Dies ist der Beweis des Gesetzes des Falls aus dem Begriffe der Sache. Das Potenzen-Verhältniß ist wesentlich ein qualitatives Verhältniß, und ist allein das Verhältniß, das dem Begriffe angehört. - Noch ist auch in Beziehung auf Nachfolgendes hinzuzufügen, daß weil der Fall zugleich noch Bedingtheit in der Freiheit enthält, die Zeit nur abstracte Einheit, als die unmittelbare Zahl bleibt, so wie die Größebestimmung des Raums nur zur zweiten Dimension gelangt.
+
+se présentent naturellement dans la mécanique, où elles ont une valeur et une signification déterminées). Von hier fällt er auf die Newtonischen Ausdrücke | von Geschwindigkeit, die der Kraft der Trägheit anheim fällt, und auf die beschleunigende Kraft; aber dies hat keinen Einfluß auf jenen richtigen Gang, der diese Bestimmungen nicht für einen Beweis des Gesetzes gebrauchen will, sondern dieses, wie hier gehörig, aus der Erfahrung aufnimmt, und dann die mathematische Behandlung darauf anwendet. |
+
+[p. 206] Der Fall ist das nur abstracte Setzen Eines Centrums, in dessen Einheit der Unterschied der particulären Massen und Körper sich als aufgehoben setzt, (Masse, Gewicht hat daher in der Größe dieser Bewegung keine Bedeutung). Aber das einfache Fürsichseyn des Centrums ist als diese negative Beziehung auf sich selbst, wesentlich Repulsion seiner selbst, formelle Repulsion in die vielen ruhenden Centra (Sterne), - lebendige Repulsion, als Bestimmung derselben nach den Momenten des Begriffs, und wesentliche Beziehung dieser hienach unterschieden gesetzten Centra aufeinander, welche Beziehung als der Widerspruch ihres selbstständigen Fürsichseyns und ihres in dem Begriffe ideell Zusammengeschlossenseyns, in seiner Erscheinung Bewegung, und zwar die absolut freie Bewegung ist. [orig. 250]
+
+## C.
+
+## ABSOLUTE MECHANIK.
+
+§. 269.
+
+Die Gravitation ist der wahrhafte und bestimmte Begriff der materiellen Körperlichkeit, der zur Idee realisirt ist. Die allgemeine Körperlichkeit urtheilt sich wesentlich in besondere Körper, und schließt sich zum Momente der Einzelnheit oder Subjectivität, als erscheinendes Daseyn in der Bewegung zusammen, welche hiedurch unmittelbar ein System mehrerer Körper ist.
+
+Die allgemeine Gravitation muß für sich als ein tiefer Gedanke anerkannt werden, wenn er schon zunächst in der Sphäre der Reflexion gefaßt, die Aufmerksamkeit und Zutrauen vornehmlich durch die damit verbundene quantitative Bestimmung auf sich zog, und seine Bewährung nur in der vom Sonnensystem bis auf die Erscheinung der Haarröhrchen herab verfolgten Erfahrung finden sollte. Zunächst widerspricht die Gravitation unmittelbar dem Gesetze der Trägheit, denn vermöge jener strebt die Materie aus sich selbst zur andern hin. Im Begriffe der Schwere sind, wie gezeigt, selbst die beiden Momente des Fürsichseyns, und der das Fürsichseyn aufhebenden Continuität enthalten. Diese Momente des Begriffs erfahren aber das Schicksal, als besondere Kräfte, entsprechend der Attractiv- [p. 207] und Repulsivkraft, in näherer Bestimmung als Centripetal- und Centrifugalkraft gefaßt zu werden, die wie die Schwere auf die Körper agiren, [orig. 251] unabhängig von einander und zufälligerweise in einem Dritten, dem Körper, zusammenstoßen sollen. Hiedurch wird, was am Gedanken der allgemeinen Schwere Tiefes ist, wieder zu nichte gemacht, und so lange kann Begriff und Vernunft nicht in die Lehre der absoluten Bewegung eindringen, als die so gepriesenen Entdeckungen der Kräfte darin herrschend sind. In dem Schlusse, welcher die Idee der Schwere enthält, sie selbst nämlich als den Begriff, der durch die Besonderheit der Körper in die äußerliche Realität, und in dieser zugleich in deren Idealität und Reflexion-in-sich, in die Bewegung tritt, ist die vernünftige Identität und Untrennbarkeit der Momente enthalten, welche sonst als selbstständig vorgestellt werden. Die Bewegung selbst als solche hat schlechthin nur im Systeme mehrerer und zwar nach verschiedener Bestimmung zu einander im Verhältniß stehender Körper einen Sinn und Existenz.
+
+§. 270.
+
+Was die Körper, in welchen der Begriff der Schwere frei für sich realisirt ist, betrifft, so haben sie zu Bestimmungen ihrer unterschiedenen Natur die Momente ihres Begriffs. Einer ist also das allgemeine Centrum der abstracten Beziehung auf sich selbst. Diesem Extreme steht die unmittelbare, außersichseyende, centrumlose Einzelnheit, als gleichfalls selbstständige Körperlichkeit erscheinend, entgegen. Die besondern aber sind, die sowohl in der Bestimmung des Außersichseyns, als zugleich des Insichseyns stehen, Centra für sich sind, und sich auf den ersten als auf ihre wesentliche Einheit beziehen.
+
+Die planetarischen Körper sind als die unmittelbar concreten in ihrer Existenz die vollkommensten. Man pflegt die Sonne für das Vortrefflichste zu nehmen, in sofern der Verstand das Abstracte dem Concreten vorzieht, wie sogar die Fixsterne höher geachtet werden, als die Körper des Sonnensystems. Die [orig. 252] centrumlose Körperlichkeit, als der Aeußerlichkeit angehörig, besondert sich an ihr selbst, zum Gegensatze des lunarischen und cometarischen Körpers. Die Gesetze der absolut-freien Bewegung sind bekanntlich von Keppler entdeckt worden; eine Entdeckung von unsterblichem Ruhme. Bewiesen hat Keppler dieselbe in dem Sinne, daß er für die empirischen Data ihren allgemeinen Ausdruck gefunden hat (§.
+
+[p. 208] 227.). Es ist seitdem zu einer allgemeinen Redensart geworden, daß Newton erst die Beweise jener Gesetze gefunden habe. Nicht leicht ist ein Ruhm ungerechter von einem ersten Entdecker auf einen andern übergegangen. Ich bemerke hierüber folgendes:
+
+1) daß von den Mathematikern zugestanden wird, daß die Newtonischen Formeln sich aus den Kepplerischen Gesetzen ableiten lassen. Die ganz unmittelbare Ableitung ist diese: Im dritten Kepplerischen Gesetz ist \frac{A3}{T2} das Constante. Dies als \frac{A.A2}{T2} gesetzt, und mit Newton die allgemeine Schwere genannt, so ist sein Ausdruck von der Wirkung der Schwere im umgekehrten Verhältnisse des Quadrats der Entfernungen vorhanden;
+
+2) daß der Newtonische Beweis von dem Satze, daß ein dem Gravitationsgesetze unterworfener Körper sich in einer Ellipse um den Centralkörper bewege, auf eine konische Section überhaupt geht, während der Hauptsatz, der bewiesen werden sollte, gerade darin besteht, daß die Bahn eines solchen Körpers nicht ein Kreis oder sonst eine konische Section, sondern allein die Ellipse ist. Gegen jenen Beweis für sich (Princ. Math. 1. I. Sect. II. prop. 1.) sind ohnehin Erinnerungen zu machen; auch braucht die Analysis denselben, die Grundlage der Newtonschen Theorie, [orig. 253] nicht mehr. Die Bedingungen, welche dann die Bahn des Körpers zu einem bestimmten Kegelschnitte machen, werden auf einen empirischen Umstand, nämlich eine besondere Lage des Körpers in einem bestimmten Zeitpunkte, und die zufällige Stärke eines Stoßes, den er ursprünglich erhalten haben sollte, zurückgeführt; so daß der Umstand, welcher die krumme Linie zu einer Ellipse bestimmt, außerhalb der Formel fällt, welche allein das Bewiesene seyn soll;
+
+3) daß das Newtonische Gesetz von der sogenannten Kraft der Schwere gleichfalls nur aus der Erfahrung durch Induction aufgezeigt ist.
+
+Es ist nichts als der Unterschied zu sehen, daß das, was Keppler auf eine einfache und erhabene Weise, in der Form von Gesetzen der himmlischen Bewegung ausgesprochen, Newton in die Reflexionsform von Kraft der Schwere umgewandelt hat. Wenn die Newtonische Form für die analytische Methode ihre Bequemlichkeit nicht nur, sondern ihre Nothwendigkeit hat, so ist dies nur ein Unterschied der mathematischen Formel; die Analysis versteht es längst, den Newtonischen Ausdruck und die damit zusammenhängenden Sätze aus der Form der Kepplerischen Gesetze abzuleiten; (ich halte mich hierüber an die elegante Exposition in Francoeurs Traité élém. de Mécanipue Liv. II. Ch. 11. n. IV.). Vornehmlich stellt die ältere Manier des sogenannten Beweisens überhaupt ein verworrenes Gewebe dar, aus Linien det blos geometrischen Construction, welchen [p. 209] eine physicalische Bedeutung von selbstständigen Kräften gegeben wird, und aus leeren Reflexionsbestimmungen von der schon erwähnten beschleunigenden Kraft, und Kraft der Trägheit, vornehmlich dem Verhältnisse der sogenannten Schwere selbst zur Centripetalkraft und Centrifugalkraft u.s.f.
+
+Die Bemerkungen, die hier gemacht sind, bedürften [orig. 254] freilich einer weitläuftigern Auseinandersetzung, um sich als begründet zu zeigen; in einem Compendium können jedoch dergleichen Sätze, die mit dem Angenommenen nicht übereinstimmen, nur die Gestalt von Behauptungen haben. Indem sie aber so hohen Auctoritäten widersprechen, müssen sie als etwas noch schlimmeres, nämlich als Anmaßungen erscheinen. Ich will mich nicht darauf berufen, daß mich übrigens das Interesse an diesen Gegenständen 25 Jahre lang beschäftigt hat; aber dies ist näher zu erinnern, daß die Unterscheidungen und Bestimmungen, welche die mathematische Analysis herbeiführt, und der Gang, den sie nach ihrer Methode zu nehmen hat, ganz von dem zu unterscheiden ist, was eine physicalische Realität haben soll. Die Voraussetzungen, der Gang und die Resultate, welche die Analysis nöthig hat und gibt, bleiben ganz außerhalb der Erinnerungen, welche den physicalischen Werth und die Bedeutung jener Bestimmungen und jenes Gangs betreffen. Hierauf ist es, daß die Aufmerksamkeit sollte geleitet werden. Es ist um ein Bewußtseyn zu thun, über die Ueberschwemmung der physischen Mechanik mit einer unsäglichen Metaphysik, die gegen Erfahrung und Begriff - jene mathematischen Bestimmungen allein zu ihrer Quelle hat.
+
+Es ist anerkannt, daß was Newton, außer der Grundlage der analytischen Behandlung, deren Entwicklung übrigens selbst Vieles, was zu Newtons wesentlichen Principien und Ruhm gehörte, überflüssig gemacht, ja verworfen hat, zu dem Gehalt der Kepplerischen Gesetze hinzugefügt hat, das Princip der Perturbation ist, ein Princip, dessen Wichtigkeit hier in sofern anzuführen ist, als es auf dem Satze beruht, daß die sogenannte Attraction eine Wirkung aller einzelnen Theile der Körper, als materieller ist. Es liegt darin, daß die Materie überhaupt sich das Centrum setzt, und die Figur des Körpers ein Moment [orig. 255] in der Ortsbestimmung desselben ist, daß die gesammten Körper des Systems sich ihre Sonne setzen, aber auch selbst die einzelnen Körper nach der relativen Lage, in welche sie nach ihrer allgemeinen Bewegung gegeneinander kommen, eine momentane Beziehung der Schwere aufeinander bilden, und nicht nur in der abstracten [p. 210] räumlichen Beziehung, der Entfernung, sich verhalten, sondern miteinander ein besonderes Centrum sich setzen, das sich aber in dem allgemeinen System wieder auflöst.
+
+Was nun von Zügen des Weges angegeben werden soll, wie die Grundbestimmungen der freien Bewegung mit dem Begriffe zusammenhängen, kann hier nicht für seine Begründung ausführlicher entwickelt, und muß daher seinem Schicksal überlassen werden. Der Vernunftbeweis über die quantitativen Bestimmungen der freien Bewegung kann allein auf den Begriffsbestimmungen des Raums und der Zeit, der Momente, deren (jedoch nicht äußerliches) Verhältniß die Bewegung ist, beruhen.
+
+Daß zuerst die Bewegung im Allgemeinen eine in sich zurückkehrende ist, liegt in der Bestimmung der Körper der Besonderheit und Einzelnheit überhaupt (§. 269.), theils ein Centrum in sich selbst, und selbstständige Existenz, theils zugleich ihr Centrum in einem andern zu haben. Es sind dies die Begriffsbestimmungen, die den falschen Vorstellungen von einer Centripetalkraft und Centrifugalkraft zum Grunde liegen, als ob jede derselben für sich selbstständig, außerhalb der andern existire und unabhängig wirke, und sie nur in ihren Wirkungen äußerlich, damit zufällig, einander begegneten. Sie sind, wie bereits erinnert, die Linien, die für die mathematische Bestimmung gezogen werden müssen, in physische Wirklichkeiten verwandelt.
+
+Ferner ist diese Bewegung gleichförmig beschleunigt, (und - als in sich zurückkehrend - abwechselnd, gleichförmig retardirt). In der Bewegung als freien kommen Raum und Zeit dazu, als Verschiedene sich in der Bestimmung der Bewegung geltend zu machen (§. 267. Anm.). In der sogenannten Erklärung der gleichförmig beschleunigten und retardirten Bewegung aus der wechselseitigen Abnahme und Zunahme der Größe der Centripetalkraft und Centrifugalkraft wird die Verwirrung, welche die Annahme solcher selbstständigen Kräfte herbeiführt, am größten. Nach dieser Erklärung ist in der Bewegung eines Planeten von der Sonnenferne nach der Sonnennähe die Centrifugalkraft kleiner als die Centripetalkraft, dagegen soll nun in der Sonnennähe selbst die Centrifugalkraft wieder größer seyn als die Centripetalkraft. Für die Bewegung von der Sonnennähe zur Sonnenferne läßt diese Vorstellung auf eben solche Weise die Kräfte in das entgegengesetzte Verhältniß treten. Man sieht, daß ein solches plötzliches Umschlagen des erlangten Uebergewichts einer Kraft in ein Unterliegen [p. 211] unter die andere nichts aus der Natur der Kräfte genommenes ist. Im Gegentheil müßte geschlossen werden, daß ein Uebergewicht, das die eine Kraft über die andere erlangt hätte, sich nicht nur erhalten, sondern in die völlige Vernichtung der andern Kraft, und die Bewegung entweder durch das Uebergewicht der Centripetalkraft, in die Ruhe, nämlich das Stürzen des Planeten in den Centralkörper, oder durch das Uebergewicht der Centrifugalkraft in gerade Linie übergehen müßte. Wird aber an die Stelle der Plötzlichkeit des Umschlagens ein allmähliges Zunehmen der fraglichen Kraft vorausgesetzt, so geht, da vielmehr die andere Kraft als zunehmend vorausgesetzt wurde, der Gegensatz verloren, der zum Behuf des Erklärens angenommen wurde, und wenn das Zunehmen der einen auch als verschieden von dem der andern, (was sich gleichfalls in [orig. 257] einigen Darstellungen findet) angenommen wird, so finden sich in der mittlern Entfernung von den Apsiden Punkte ein, in welchen die Kräfte im Gleichgewichte sind. Das Heraustreten derselben aber aus dem Gleichgewichte ist etwas eben so unmotivirtes, als jene Plötzlichkeit des Umschlagens. Man findet überhaupt leicht, daß bei dieser Erklärungsweise, die Abhülfe eines Uebelstands durch eine weitere Bestimmung neue und größere Verwirrungen herbeiführt. Eine ähnliche Verwirrung tritt bei der Erklärung der Erscheinung ein, daß unter dem Aequator der Pendel langsamer schwingt. Diese Erscheinung wird der daselbst größer seyn sollenden Centrifugalkraft zugeschrieben; man kommt aber leicht darauf, sie der vergrößerten Schwerkraft, als welche den Pendel stärker nach der perpendicularen Linie der Ruhe halte, eben so gut zuschreiben zu können.
+
+Was nun die Gestalt der Bahn betrifft, so ist der Kreis nur als die Bahn einer schlecht-gleichförmigen Bewegung zu fassen. Denkbar, wie man es nennt, ist es wohl, daß auch eine gleichförmig zu- und abnehmende Bewegung im Kreise geschehe. Aber diese Denkbarkeit oder Möglichkeit heißt nur eine abstracte Vorstellbarkeit, welche das Bestimmte, worauf es ankommt, wegläßt. Der Kreis ist die in sich zurückkehrende Linie, in der alle Radien gleich sind; d. h. er ist durch den Radius vollkommen bestimmt; es ist nur Eine, und sie ist die ganze Bestimmtheit. In der freien Bewegung aber, wo räumliche und zeitliche Bestimmung in Verschiedenheit, in ein qualitatives Verhältniß zu einander treten, erscheint dies Verhältniß an dem Räumlichen als eine Differenz desselben in ihm selbst, welche hiemit zwei Bestimmungen erfodert. Dadurch wird die Gestalt der in sich [p. 212] zurückgehenden Bahn wesentlich eine Ellipse. Die abstracte Bestimmtheit, die den Kreis ausmacht, erscheint auch so, daß der Bogen oder Winkel, der durch zwei Radien eingeschlossen ist, von ihnen unabhängig, eine gegen sie völlig empirische Größe ist. Indem aber in der durch den Begriff bestimmten Bewegung die Entfernung vom Centrum und der Bogen, der in einer Zeit durchlaufen wird, in Einer Bestimmtheit befaßt seyn, Ein Ganzes ausmachen müssen, so ist dies der Sector, eine Raumbestimmung von zwei Dimensionen; der Bogen ist auf diese Weise wesentlich Function des Radius Vector und jener, als in gleichen Zeiten ungleich, führt damit die Ungleichheit der Radien mit sich. Daß die räumliche Determination durch die Zeit, als eine Bestimmung von zwei Dimensionen, als Flächenbestimmung, erscheint, hängt mit dem zusammen, was oben (§. 267.) beim Falle über die Exposition derselben Bestimmtheit, das einemal als Zeit in der Wurzel, das andremal als Raum im Quadrat gesagt worden. Hier jedoch ist das Quadratische des Raumes durch die Rückkehr der Linie der Bewegung in sich selbst, zum Sector beschränkt. Dies sind, wie man sieht, die allgemeinen Principien, auf denen das Kepplerische Gesetz, daß in gleichen Zeiten gleiche Sectoren abgeschnitten werden, beruht.
+
+Dies Gesetz betrifft, wie erhellt, nur das Verhältniß des Bogens zum Radius Vector, und die Zeit ist dabei als abstracte Einheit, in der die verschiedenen Sectoren verglichen werden, weil sie das Determinirende als Einheit ist. Aber das weitere Verhältniß ist das der Zeit, nicht als Einheit, sondern als Quantum überhaupt, als Umlaufszeit zu der Größe der Bahn oder was dasselbe ist, der Entfernung vom Centrum. Als Wurzel und Quadrat sahen wir Zeit und Raum sich zu einander verhalten im Falle, der halbfreien Bewegung, weil sie einerseits zwar durch den Begriff, andererseits aber äußerlich bestimmt ist. Aber in der absoluten Bewegung, dem Reiche der freien Maaße, erlangt die Bestimmung ihre Totalität. Als Wurzel ist die Zeit eine blos empirische Größe; als Moment der entwickelten Totalität aber ist sie Totalität für sich, producirt sich und bezieht sich darin auf sich selbst; als das in sich Dimensionslose kommt sie nur zur formellen Identität mit sich, dem Quadrate, der Raum dagegen als das positive Außereinander zur Dimension des Begriffs, dem Cubus. Ihre Realisirung behält ihren ursprünglichen Unterschied. Dies ist das dritte Kepplerische Gesetz, das Verhältniß des Würfels der Entfernungen zu den Quadraten der Zeiten; ein Gesetz, das darum so groß ist, weil es so einfach und unmittelbar [p. 213] die Vernunft der Sache darstellt, da hingegen die Newtonische Formel, wodurch es in ein Gesetz für die Kraft der Schwere verwandelt wird, die Verdrehung und Umkehrung der auf halbem Wege stehen bleibenden Reflexion zeigt.
+
+§. 271.
+
+Die Substanz der Materie, die Schwere, zur Totalität des Begriffs entwickelt, hat das ohne sie leere Außersichseyn der Materie nicht mehr außer ihr. So hat die Form, die zunächst nur in den idealen Bestimmungen des Raums, der Zeit und Bewegung, und deren Einheit als ein außerhalb der außer sich seyenden Materie bestimmtes Centrum gesetzt war, das Außereinander der Materie an ihr selbst, und ist materialisirt. Oder umgekehrt hat die Materie in dieser Negation ihres Außersichseyns in der Totalität, das vorher nur gesuchte Centrum, ihr Selbst an ihr selber, erhalten. Ihr abstractes dumpfes In-sich-seyn, als schwer überhaupt, ist zur Form entschlossen; sie ist qualificirte Materie; Physik.
+
+## [p. 214] ZWEITE ABTHEILUNG DER NATURPHILOSOPHIE.
+
+## PHYSIK.
+
+§. 272.
+
+Die Materie hat Individualität, in sofern sie das Fürsichseyn so in ihr selbst hat, daß es in ihr entwickelt und sie damit an ihr selbst bestimmt ist. Die Materie entreißt auf diese Weise sich der Schwere, manifestirt sich, sich an ihr selbst bestimmend, und durch die ihr immanente Form bestimmt sie das Räumliche aus sich, der Schwere gegenüber, der vorher dieses Bestimmen zukam.
+
+§. 273.
+
+Die Physik hat zu ihrem Inhalte:
+
+## A. PHYSIK
+
+## DER ALLGEMEINEN INDIVIDUALITÄT.
+
+§. 274.
+
+Die physischen Qualitäten sind a. als unmittelbar, außereinander in selbstständiger Weise, als die nun physisch bestimmten himmlischen Körper; b. als bezogen auf die individuelle Einheit ihrer Totalität, die physischen Elemente; c. als der Proceß derselben, der das Individuum derselben hervorbringt, der meteorologische Procев.
+
+## [p. 215] a.
+
+## DIE FREIEN PHYSISCHEN KÖRPER.
+
+## a) DAS LICHT.
+
+§. 275.
+
+Die erste qualificirte Materie ist sie, als ihre reine Identität mit sich, die erste abstracte Manifestation. Als daseyend ist sie die Beziehung auf sich als selbstständig gegen die andern Bestimmungen der Totalität. Dies existirende allgemeine Selbst der Materie ist das Licht, als Individualität, der Stern, und derselbe als Moment einer Totalität, die Sonne. [orig. 262]
+
+§. 276.
+
+Als das abstracte Selbst der Materie ist das Licht das absolut-leichte, und als Materie unendliches, aber als diese materielle Idealität untrennbares und einfaches Außersichseyn.
+
+In der morgenländischen Anschauung, der substanziellen Identität des Geistigen und des Natürlichen, ist die reine Selbstischkeit des Bewußtseyns, das mit sich identische Denken als die Abstraction des Wahren und Guten, eins mit dem Lichte. - Wenn die Vorstellung, welche man realistisch genannt hat, leugnet, daß in der Natur die Idealität vorhanden sey, so ist sie nur an das Licht, an dieses reine Manifestiren, welches nichts als Manifestiren ist, zu verweisen.
+
+Daß diese Gedankenbestimmung, die Identität mit sich, oder das zunächst abstracte Selbst der Centralität, welches die Materie nun in ihr hat, - diese einfache Idealität als daseyend, das Licht sey, dieser Beweis ist, wie früher in der Einleitung angegeben, empirisch zu führen. Das immanente Philosophische ist hier wie überall die eigene Nothwendigkeit der Begriffsbestimmung und deren Existenz als irgend eine natürliche. Hier nur einige Bemerkungen über die empirische Existenz der reinen Manifestation als Licht. Die schwere Materie ist trennbar in Massen, weil sie concrete Identität und Quantität ist; aber in der ganz abstracten Idealität des Lichts ist kein solcher Unterschied; eine Beschränkung desselben in seiner unendlichen Verbreitung hebt seinen absoluten Zusammenhang in sich, nicht auf.
+
+[p. 216] Die Vorstellung von discreten einfachen Lichtstrahlen und Theilchen, und Bündeln derselben, aus welchen ein in seiner Ausbreitung beschränktes Licht bestehen soll, gehört zu der übrigen Barbarei der Begriffe, die in der Physik besonders Newton herrschend gemacht hat. Es ist die beschränkteste Erfahrung, daß das Licht sich so wenig in Säcke packen, als in Strahlen isoliren, und in Strahlenbündel zusammenfassen läßt. Die Untrennbarkeit des Lichts, in seiner unendlichen Ausdehnung, ein reelles Außereinander, das mit sich identisch bleibt, kann vom Verstande am wenigsten für unbegreiflich ausgegeben werden, da sein eigenes Princip vielmehr diese abstracte Identität ist. Wenn die Astronomen darauf gekommen sind, von Himmels-Erscheinungen zu sprechen, die, indem sie von uns wahrgenommen werden, bereits vor 500 Jahren und mehr vorgegangen seyen, so kann man darin einerseits empirische Erscheinungen der Fortpflanzung des Lichts, die in einer Sphäre gelten, auf eine andere übergetragen glauben, wo sie keine Bedeutung haben, - jedoch ist solche Bestimmung an seiner Materialität nicht im Widerspruche mit seiner einfachen Untrennbarkeit; andererseits aber eine Vergangenheit zu einer Gegenwart nach der ideellen Weise der Erinnerung werden sehen. - Nach der Vorstellung aber, daß von jedem Punkte einer sichtbaren Oberfläche nach allen Richtungen Strahlen ausgeschickt, also von jedem eine materielle Halbkugel von unendlicher Dimension gebildet wird, durchdringen sich alle diese unendlich vielen Halbkugeln. Statt daß jedoch hiedurch zwischen dem Auge und dem Gegenstande eine verdichtete, verwirrte Masse entstehen und die zu erklärende Sichtbarkeit vermöge dieser Erklärung eher die Unsichtbarkeit hervorbringen sollte, reducirt sich diese ganze Vorstellung selbst so zur Nichtigkeit, wie die Vorstellung eines concreten Körpers, der aus vielen Materien bestehen soll, so daß in den Poren der einen die andern sich befinden, in welchen selbst umgekehrt die andern stecken und circuliren, welche allseitige Durchdringung die Annahme der discreten Materialität der Stoffe aufhebt, und vielmehr ein ganz ideelles Verhältniß begründet. |
+
+§. 277.
+
+Das Licht verhält sich als die allgemeine physicalische Identität zunächst als ein Verschiedenes (§. 275.) zu der in den andern Begriffs-Momenten qualificirten Materie; als ein Aeußeres und Anderes zu derselben, die als das Negative des Lichts, nicht das Manifestiren an sich selbst seyend, nicht aus sich leuchtet, ein Dunkles. In sofern dasselbe ebenso verschieden vom Lichte für sich besteht, bezieht sich das Licht nur auf die Oberfläche dieses so zunächst Undurchsichtigen, [p. 217] welche so (ohne weitere Particularisation glatt) sich manifestirend, d. i. an Anderem scheinend wird. So, indem jedes am Andern erscheinend, läßt es Anderes an ihm ins Unendliche fort erscheinen. Um endlich erscheinen, sichtbar werden zu können, muß es daher auf irgend eine physische Weise weiter particularisirt, (z. B. ein Licht, ein Rauhes, Farbigtes u. dgl.) seyn.
+
+Die sonst in Gestalt mannichfaltig particularisirte Körperlichkeit wird in dieser ihrer ersten, abstracten Manifestation auf Oberfläche reducirt, es ist nicht das Manifestiren von Etwas, sondern nur das Manifestiren als solches gesetzt, und daher ist die Determination desselben hier nur räumliche.
+
+§. 278.
+
+Die Manifestation der Gegenstände an einander, die so das Licht ist, als durch undurchsichtige Gegenstände begränzt, ist als Manifestation des einen an dem andern in der räumlichen Beziehung durch nichts weiter bestimmt, daher direct (geradlinigt). Indem es Oberflächen sind, die sich zu einander verhalten, und diese in verschiedene Lagen treten können, so geschieht, daß die Manifestation eines sichtbaren Gegenstandes an einem andern (Glatten) sich vielmehr an einem Dritten manifestirt u.s.f. Die Manifestation hat in diesen particularisirten räumlichen Bestimmungen die Gleichheit zum [orig. 265] Gesetz die Gleichheit des Einfallswinkels mit dem Winkel der Reflexion, ohnehin die Einheit der Ebene dieser Winkel.
+
+Die Bestimmungen dieses Paragraphs, die schon der bestimmtern Physik anzugehören scheinen können, enthalten den Uebergang der allgemeinen Begränzung des Lichts durch das Dunkle zur bestimmten Begränzung durch die particulär-räumlichen Bestimmungen des letztern. Diese Determination pflegt näher mit der Vorstellung des Lichts als einer gewöhnlichen Materie zusammen zu hängen. Allein es ist darin nichts enthalten, als daß die abstracte Idealität, dieses reine Manifestiren, als untrennbares Außersichseyn für sich räumlich, und damit äußerlicher determinirter Begränzungen fähig ist; diese Begränzbarkeit durch particularisirte Räumlichkeit, ist eine nothwendige Bestimmung, die weiter nichts als dieses enthält, und alle materiellen Kategorien von Uebertragen, physicalischem Zurückwerfen des Lichts und dergleichen ausschließt.
+
+Mit den Bestimmungen des Paragraphs hängen die Erscheinungen zusammen, welche auf die grobe Vorstellung von der sogenannten fixen [p. 218] Polarisation, Polarität des Lichts geführt haben. So sehr der sogenannte Einfalls- und Reflexionswinkel bei der einfachen Spiegelung Eine Ebene ist, so sehr hat, wenn ein zweiter Spiegel angebracht wird, welcher die vom ersten reflectirte Erhellung weiter mittheilt, die Stellung jener ersten Ebene zu der zweiten, die durch die Richtung dieser ersten Reflexion und der zweiten gebildet wird, ihren Einfluß auf die Stellung, Helligkeit oder Verdüsterung des Gegenstandes, wie er durch die zweite Reflexion erscheint. Dieser Einfluß muß am stärksten seyn, wenn beide Ebenen sich, wie man es nennen muß, negativ zu einander verhalten, d. i. wenn sie senkrecht aufeinander stehen (vergl. Göthe zur Naturw. I. Bd. 1. Hft. S. 28. unten 2. folg. S. und 3. Hft. Entopt. [orig. 266] Farben XVIII. XIX. S. 144. folg.). Daß nun (von Malus) aus der Modification, welche durch jene Stellung in der Helligkeit der Spiegelung bewirkt wird, geschlossen worden, daß die Lichtmoleculen an ihnen selbst, nämlich an ihren verschiedenen Seiten, verschiedene physische Wirksamkeiten besitzen, auf welche Grundlage dann mit den weiter daran sich knüpfenden entoptischen Farben-Erscheinungen ein weitläuftiges Labyrinth der verwickeltsten Theorie gebaut worden ist, - ist eins der eigenthümlichsten Beispiele vom Schließen der Physik aus Erfahrungen.
+
+## β) DIE KÖRPER DES GEGENSATZES.
+
+§. 279.
+
+Das Dunkle, zunächst das Negative des Lichts, ist der Gegensatz gegen dessen abstract-identische Idealität, der Gegensatz an ihm selbst. Er ist überhaupt materielle Realität, und bestimmter zerfällt er in sich, und ist als eine Zweiheit, a) der körperlichen Verschiedenheit, des materiellen Fürsichseyns, der Starrheit, ẞ) der Entgegensetzung als solcher, welche aber als frei und von der Individualität nicht gehalten nur in sich zusammengesunken, die Auflösung und Neutralität, ist; jenes der lunarische, dieses der kometarische Körper.
+
+Diese beiden Körper haben auch im System der Schwere als relative Centralkörper die Eigenthümlichkeit, die denselben Begriff zu Grunde liegen hat, als ihre physicalische, und hier bestimmter bemerkt werden kann. Sie drehen sich nicht um ihre Achse. Der Körper der Starrheit als des formellen Fürsichseyns, welches die im Gegensatze befangene [p. 219] Selbstständigkeit und darum nicht Individualität ist, ist deswegen dienend und Trabant eines andern, in welchem er seine Achse hat. Der Körper der [orig. 267] Auflösung, das Gegentheil der Starrheit, ist in seinem Verhalten ausschweifend, und in seiner excentrischen Bahn, wie in seinem physicalischen Daseyn die Zufälligkeit darstellend; so daß man von diesen Körpern vermuthete, daß die Nähe eines großen Planeten ihre Bahn ändern könne; sie zeigen sich als eine oberflächliche Concretion, die eben so zufällig sich wieder zerstäuben mag. Der Mond hat keine Atmosphäre, und entbehrt damit des meteorologischen Processes. Er zeigt nur hohe Berge und Krater, und die Entzündung dieser Starrheit in sich selbst; - die Gestalt eines Krystalls, welche Heim, (einer der geistvollen Geognosten) auch als die ursprüngliche der blos starren Erde aufgezeigt hat. Der Komet erscheint als ein formeller Proceß, eine unruhige Dunstmasse; keiner hat etwas starres, einen Kern, gezeigt. Gegen die Vorstellung der Alten, daß die Kometen blos momentan gebildete Meteore sind, thun die Astronomen in den neuesten Zeiten doch nicht mehr so spröde und vornehm als ehemals. Bisher ist nur erst die Wiederkehr von etlichen aufgezeigt, andere sind nach der Berechnung erwartet worden, aber nicht gekommen. Vor dem Gedanken, daß das Sonnensystem in der That System, in sich wesentlich zusammenhängende Totalität ist, muß die bisherige formelle Ansicht von der gegen das Ganze des Systems zufälligen, in die Kreutz und Quere hervortretenden Erscheinung der Kometen, aufgegeben werden. So läßt sich der Gedanke fassen, daß die andern Körper des Systems sich gegen sie wehren, d. i. als nothwendige organische Momente verhalten müssen; damit können bessere Trostgründe als bisher gegen die von den Kometen befürchteten Gefahren an die Hand gegeben werden. [orig. 268]
+
+## γ) DER KÖRPER DER INDIVIDUALITÄT.
+
+§. 280.
+
+Der Gegensatz in sich zurückgegangen ist die Erde oder der Planet überhaupt, der Körper der individuellen Totalität, in welcher die Starrheit zur Trennung in reale Unterschiede aufgeschlossen, und diese Auflösung durch den selbstischen Einheitspunkt zusammengehalten ist.
+
+[p. 220] Wie die Bewegung des Planeten als Achsendrehung um sich und zugleich Bewegung um einen Centralkörper die concreteste, und der Ausdruck der Lebendigkeit ist, ebenso ist die Licht-Natur des Centralkörpers die abstracte Identität, deren Wahrheit, wie des Denkens in der concreten Idee, in der Individualität ist.
+
+Was die Reihe der Planeten betrifft, so hat die Astronomie über die nächste Bestimmtheit derselben, die Entfernung, noch kein wirkliches Gesetz, vielweniger etwas Vernünftiges entdeckt. Ebenso können die naturphilosophischen Versuche, die Vernünftigkeit der Reihe in der physicalischen Beschaffenheit und in Analogieen mit einer Metallreihe aufzuzeigen, kaum als Anfänge die Gesichtspunkte zu finden, auf die es ankommt, betrachtet werden. Das Unvernünftige aber ist, den Gedanken der Zufälligkeit dabei zu Grunde zu legen, und z. B. in Kepplers Gedanken, die Anordnung des Sonnensystems nach den Gesetzen der musikalischen Harmonie zu fassen, nur eine Verirrung einer träumerischen Einbildungskraft (mit Laplace) zu sehen, und nicht den tiefen Glauben, daß Vernunft in diesem Systeme ist, hochzuschätzen; ein Glaube, welcher der einzige Grund der glänzenden Entdeckungen dieses großen Mannes gewesen ist. – Die ganz ungeschickte und auch nach den Thatsachen völlig irrige Anwendung der Zahlenverhältnisse der Töne, [orig. 269] welche Newton auf die Farben gemacht, hat dagegen Ruhm und Glauben behalten.
+
+## b.
+
+## DIE ELEMENTE.
+
+§. 281.
+
+Der Körper der Individualität hat die Bestimmungen der elementarischen Totalität, welche unmittelbar frei für sich bestehende Körper sind, als unterworfene Momente an ihm; so machen sie seine allgemeinen physikalischen Elemente aus.
+
+Für die Bestimmung eines Elements ist in neuern Zeiten willkührlich die chemische Einfachheit angenommen worden, die mit dem Begriffe eines physicalischen Elements nichts zu thun hat, welches eine reale noch nicht zur chemischen Abstraction verflüchtigte Materie ist.
+
+## [p. 221] a) DIE LUFT.
+
+§. 282.
+
+Das Element der unterschiedlosen Einfachheit ist nicht mehr die positive Identität mit sich, die Selbstmanifestation, welche das Licht als solches ist, sondern ist nur negative Allgemeinheit, als zum selbstlosen Moment eines andern herabgesetzt, daher auch schwer. Diese Identität ist als die negative Allgemeinheit die verdachtlose, aber schleichende und zehrende Macht des Individuellen und Organischen; die gegen das Licht passive, durchsichtige, aber alles Individuelle in sich verflüchtigende nach Außen mechanisch elastische, in alles eindringende Flüssigkeit, die Luft. [orig. 270]
+
+## β) DIE ELEMENTE DES GEGENSATZES.
+
+§. 283.
+
+Die Elemente des Gegensatzes sind erstens das Fürsichseyn, aber nicht das gleichgültige der Starrheit, sondern das in der Individualität als Moment gesetzte, das Feuer. – Die Luft ist an sich Feuer (wie sie sich durch Compression zeigt) und Feuer ist sie, gesetzt als negative Allgemeinheit oder sich auf sich beziehende Negativität. Es ist die materialisirte Zeit oder Selbstischkeit (Licht identisch mit Wärme) – das schlechthin Unruhige und Verzehrende, in welches ebenso die Selbstverzehrung des bestehenden Körpers ausschlägt, als es umgekehrt äußerlich an ihn kommend ihn zerstört, – ein Verzehren eines Andern, – das zugleich sich selbst verzehrt, - und so in Neutralität übergeht.
+
+§. 284.
+
+Das andere [Element] ist das Neutrale, der in sich zusammengegangene Gegensatz, der aber ohne die Einzelnheit hiemit ohne Starrheit und Bestimmung in sich, ein durchgängiges Gleichgewicht, alle mechanisch in ihm gesetzte Bestimmtheit auflöst, Begränztheit der Gestalt nur von außen erhält und sie nach außen sucht (Adhäsion), ohne die Unruhe des Processes an ihm selbst, schlechthin die [p. 222] Möglichkeit desselben und die Auflösbarkeit, wie die Fähigkeit der Form der Luftigkeit und der Starrheit außer seiner eigenthümlichen der Bestimmungslosigkeit in sich, ist; das Wasser.
+
+## γ) INDIVIDUELLES ELEMENT.
+
+§. 285.
+
+Das Element des entwickelten Unterschiedes und der individuellen Bestimmung desselben, ist die zunächst noch unbestimmte Erdigkeit überhaupt, als von [orig. 271] den andern Momenten unterschieden; aber als die Totalität derselben bei ihrer Verschiedenheit, ist sie deren Proceß.
+
+## c.
+
+## DER ELEMENTARISCHE PROCESS.
+
+§. 286.
+
+Die individuelle Identität, unter welche die differenten Elemente und deren Verschiedenheit gegen einander und gegen ihre Einheit, gebunden sind, ist eine Dialektik, die das physicalische Leben der Erde, den meteorologischen Proceß ausmacht; die Elemente, als unselbstständige Momente, haben in ihm ebenso allein ihr Bestehen, als sie darin erzeugt, als existirende gesetzt werden, nachdem sie vorhin aus dem Ansich als Momente des Begriffs entwickelt worden sind.
+
+Wie die Bestimmungen der gemeinen Mechanik und der unselbstständigen Körper auf die absolute Mechanik und die freien Centralkörper angewendet werden, so wird die endliche Physik der vereinzelten individuellen Körper für dasselbe genommen, als die freie selbstständige Physik des Erdenprocesses ist. Es wird gerade für den Triumph der Wissenschaft gehalten, in dem allgemeinen Processe der Erde dieselben Bestimmungen wieder zu erkennen und nachzuweisen, welche sich an den Processen der vereinzelten Körperlichkeit zeigen. Allein in diesem Felde der für sich [p. 223] individuellen Körper sind die der freien Existenz des Begriffes immanenten Bestimmungen äußerlich zu einander tretende, von einander unabhängige Umstände, - die Thätigkeit eine äußerliche bedingte, somit zufällige, deren Producte nur äußerliche Formirungen, der als selbstständig vorausgesetzten und so verharrenden Körperlichkeiten bleiben. Das Aufzeigen jener Gleichheit wird dadurch bewirkt, daß die Abstraction von den eigenthüm|lichen Unterschieden und Bedingungen oberflächliche Allgemeinheiten, wie die Attraction, hervorbringt, Kräfte und Gesetze, in welchen das Besondere, und die bestimmten Bedingungen mangeln. Bei der Anwendung aber von concreten Weisen der bei der vereinzelten Körperlichkeit sich zeigenden Thätigkeiten, auf die Sphäre, in welcher die unterschiedenen Körperlichkeiten nur Momente sind, pflegen die in jenem Kreise erforderlichen äußerlichen Umstände, in dieser theils übersehen, theils nach der Analogie hinzugedichtet zu werden.
+
+Der Hauptunterschied der Betrachtung beruht auf der fixen Vorstellung von der substantiellen, unveränderlichen Verschiedenheit der Elemente, welche aus den Processen der vereinzelten Stoffe vom Verstande einmal festgesetzt ist. Wo auch an diesen höhere Uebergänge sich zeigen, z. B. im Krystall das Wasser fest wird, Licht, Wärme verschwindet u.s.f. bereitet sich die Reflexion eine Hülfe durch nebulose und nichts sagende Vorstellungen, sinnlose Ausdrücke, von Auflösung, Gebunden-Latent-werden und dergleichen. Hieher gehört wesentlich die Verwandlung aller Verhältnisse an den Erscheinungen in Stoffe und Materien zum Theil imponderable, wodurch jede physicalische Existenz zu dem schon erwähnten Chaos von Materien und deren Aus- und Eingehen in den erdichteten Poren jeder andern gemacht wird, wo nicht nur der Begriff, sondern auch die Vorstellung ausgeht. Vor allem geht die Erfahrung selbst aus; und es wird noch eine empirische Existenz angenommen, während die Existenz sich nicht mehr empirisch zeigt.
+
+§. 287.
+
+Der Proceß der Erde wird durch ihr allgemeines Selbst, die Thätigkeit des Lichts, ihr ursprüngliches Verhältniß zur Sonne, fortdauernd angefacht, und dann | näher nach der Stellung der Erde zur Sonne (Klimate, Jahrszeiten u.s.f.) modificirt. Das eine Moment dieses Processes ist die Diremtion der [p. 224] individuellen Identität, die Spannung in die Momente des selbstständigen Gegensatzes, in die Starrheit und in die selbstlose Neutralität, wodurch die Erde der Auflösung zugeht, einerseits zum Krystall, einem Monde, andererseits zu einem Wasserkörper, einem Kometen, zu werden, und die Momente der Individualität ihren Zusammenhang mit ihren selbstständigen Wurzeln zu realisiren suchen.
+
+§. 288.
+
+Das andere Moment ist, daß das Fürsichseyn, welchem die Momente der Entgegensetzung zugehen, sich als die auf die Spitze getriebene Negativität aufhebt; die sich entzündende Verzehrung des versuchten unterschiedenen Bestehens, durch welche ihre wesentliche Verknüpfung sich herstellt, und die Erde sich als reelle und fruchtbare Individualität geworden ist.
+
+Erdbeben, Vulcane und deren Eruptionen mögen als dem Processe der Starrheit für sich angehörig angesehen werden, wie dergleichen auch am Monde erscheinen soll. - Die Wolken dagegen mögen als der Beginn cometarischer Körperlichkeit betrachtet werden können. Das Gewitter aber ist die vollständige Erscheinung dieses Processes, an die sich die andern meteorologischen Phänomene als Beginne oder Momente und unreife Ausführungen desselben anschließen. Die Physik hat bisher weder mit der Regenbildung (ungeachtet de Luc's aus den Beobachtungen gezogenen, und unter den Deutschen von dem geistreichen Lichtenberg gegen die Auflösungstheorieen urgirten Folgerungen) noch mit dem Blitze, auch nicht mit dem Donner zurecht kommen können; eben so wenig mit andern meteorologischen Erscheinungen, insbesondere den Atmosphärilien, in welchen der Proceß selbst | bis zum Beginn eines irdischen Kernes fortgeht. Für das Verständniß jener alltäglichsten Erscheinungen ist in der Physik noch am wenigsten Befriedigendes geschehen.
+
+§. 289.
+
+Indem der Begriff der Materie, die Schwere, seine Momente zunächst als selbstständige, aber elementarische Realitäten auslegt, ist die Erde abstracter Grund der Individualität. In ihrem Processe setzt sie sich als negative Einheit der außereinander seyenden abstracten Elemente, hiemit als reale Individualität. |
+
+## [p. 225] B.
+
+## DER BESONDERN INDIVIDUALITÄT.
+
+§. 290.
+
+Die (vorher elementarische) Bestimmtheit in die Individualität gesetzt, ist die materielle Form als für sich die Materie gegen ihre Schwere, bestimmend. Diese als das Suchen des Einheitspunktes thut dem Außereinander der Materie noch keinen Eintrag, d. i. der Raum ist das Maaß der Unterschiede der schweren Materie, der Massen, und die Bestimmungen der physicalischen Elemente sind noch nicht in ihnen selber ein concretes Fürsichseyn, damit dem (gesuchten) Fürsichseyn der schweren Materie noch nicht entgegengesetzt. Jetzt durch die gesetzte (irdische) Individualität der Materie, ist sie in ihrem Außereinander zugleich different gegen dies ihr Außereinander und gegen dessen Suchen der Individualität, ein immanentes anderes Bestimmen der materiellen Räumlichkeit als durch die Schwere und nach der Richtung derselben. Es ist dies die individualisirende Mechanik, indem hier die Materie durch die immanente Form und zwar nach ihrem Außereinander, dem Räumlichen, bestimmt wird, wodurch als erste Differenz zunächst ein Verhältniß zwischen beidem gesetzt ist.
+
+§. 291.
+
+Dieses Bestimmen der Schwere ist a. abstracte einfache Bestimmtheit; specifische Schwere; b. specifische Weise der Beziehung materieller Theile, Cohäsion. c. Diese Beziehung der materiellen Theile als die Idealität derselben existirend und zwar a) als das nur ideelle Aufheben derselben - der Klang; 3) als reelles Aufheben der Cohäsion – die Wärme.
+
+§. 292.
+
+Die Körperlichkeit dieser Sphäre, weil die Form nur als Verhältniß Verschiedener ihr inwohnt, steht in den endlichen Bestimmungen, bedingt durch Aeußeres zu seyn und in viele particuläre Körper zu zerfallen. Die immanente Formbestimmung kommt daher theils nur in der Vergleichung der verschiedenen [p. 226] Körper mit einander, theils in der reellern, jedoch mechanisch-bleibenden Beziehung derselben, zur Erscheinung; die selbstständige Manifestation der Formbestimmungen, die keiner Erregung bedarf, kommt erst der Gestalt zu.
+
+Es kann bemerkt werden, daß wie überall die Sphäre der Endlichkeit und Bedingtheit, so hier die Sphäre der bedingten, differenten Individualität der am schwersten aus dem übrigen Zusammenhang des Concreten zu unterscheidende und für sich festzuhaltende Gegenständ ist, um so mehr da die Endlichkeit ihres Inhalts mit der speculativen Einheit des Begriffs, die zugleich nur das Bestimmende seyn kann, im Contraste und Widerspruche steht.
+
+## a.
+
+## DIE SPECIFISCHE SCHWERE.
+
+§. 293.
+
+Die einfache, abstracte Specification ist die specifische Schwere oder Dichtigkeit der Materie, ein Verhältniß des Gewichts der Masse zu dem Volumen, wodurch die materielle Selbstischkeit sich von dem [orig. 277] abstracten Verhältnisse zum Centralkörper, der allgemeinen Schwere, losreißt, aufhört die gleichförmige Erfüllung des Raums zu seyn, und ihrem abstracten Außereinander ein specifisches Insichseyn entgegensetzt.
+
+Die verschiedene Dichtigkeit der Materie wird durch die Annahme von Poren erklärt – die Verdichtung durch die Erdichtung von leeren Zwischenräumen, von denen als von einem Vorhandenen gesprochen wird, das die Physik aber nicht aufzeigt, ungeachtet sie vorgibt, sich auf Erfahrung und Beobachtung zu stützen. - Ein Beispiel von existirendem Specificiren der Schwere ist die Erscheinung, daß ein auf seinem Unterstützungspunkte gleichgewichtig schwebender Eisenstab, wie er magnetisirt wird, sein Gleichgewicht verliert und sich an dem einen Pole jetzt schwerer zeigt als an dem andern. Hier wird der eine Theil so inficirt, daß er ohne sein Volumen zu verändern, schwerer wird; die Materie, deren Masse nicht vermehrt worden, ist somit specifisch schwerer geworden. - Die Sätze, welche die Physik bei ihrer Art, die Dichtigkeit vorzustellen, voraussetzt, sind: 1) daß eine gleiche Anzahl gleichgroßer materieller Theile gleich schwer sind; wobei 2) das Maaß der Anzahl der Theile das Gewicht ist, aber 3) auch der Raum, [p. 227] so daß, was von gleichem Gewicht ist, auch gleichen Raum einnimmt; wenn daher 4) gleiche Gewichte doch in einem verschiedenen Volumen erscheinen, so wird durch Annahme der Poren die Gleichheit des Raums, der erfüllt wird, erhalten. Kant hat bereits der Quantitätsbestimmung der Anzahl die Intensität gegenübergestellt, und an die Stelle von mehr Theilen in gleichem Raume die gleiche Anzahl aber von einem stärkern Grade der Raumerfüllung gesetzt, und dadurch einer sogenannten dynamischen Physik den Ursprung gegeben. - Wenigstens hätte die Bestimmung des intensiven Quantums so viel Recht als die des extensiven, auf welche | letztere Kategorie sich jene gewöhnliche Vorstellung der Dichtigkeit beschränkt. Die intensive Größebestimmung hat aber hier dies voraus, daß sie auf das Maaß hinweist und zunächst ein Insichseyn andeutet, das in seiner Begriffsbestimmung immanente Formbestimmtheit ist, die erst in der Vergleichung als Quantum überhaupt, erscheint. Dessen Unterschiede als extensives oder intensives aber, - und weiter geht die dynamische Physik nicht, - drücken keine Realität aus. (§. 103. Anm.)
+
+§. 294.
+
+Die Dichtigkeit ist nur erst einfache Bestimmtheit der schweren Materie; aber indem die Materie das wesentliche Außereinander bleibt, so ist die Bestimmtheit eine specifische Weise der räumlichen Beziehung ihres Vielfachen auf einander Cohäsion.
+
+## b. COHÄSION.
+
+§. 295.
+
+In der Cohäsion setzt die immanente Form eine andere Weise des räumlichen Nebeneinanderseyns der als unterschieden vorausgesetzten materiellen Theile, als durch die Richtung der Schwere bestimmt ist. Aber diese somit specifische Weise des Zusammenhalts des Materiellen ist erst am Verschiedenen überhaupt gesetzt, noch nicht zu in sich beschlossener Totalität (Gestalt) zurückgegangen. Sie kommt somit nur gegen gleichfalls verschiedene, und cohärent verschiedene Massen, zur Erscheinung, und zeigt sich daher als eine eigenthümliche Weise des Widerstands im mechanischen Verhalten gegen andere. |
+
+[p. 228] §. 296.
+
+Die erste Bestimmtheit a) ist der ganz unbestimmte Zusammenhalt, in sofern Cohäsion des in sich Cohäsionslosen daher die Adhäsion mit Anderem. ẞ) Die Cohärenz der Materie mit sich selbst ist zunächst die blos quantitative, gemeine Cohäsion, die Stärke des Zusammenhalts gegen Gewicht, ferner aber die qualitative, die Eigenthümlichkeit im Nachgeben gegen Druck und Stoß äußerer Gewalt. Nach der bestimmten Weise der Raumformen producirt die innerlich mechanisirende Geometrie die Eigenthümlichkeit, eine bestimmte Dimension im Zusammenhalte zu behaupten, die Punctualität, Sprödigkeit, die Linearität, Rigidität überhaupt und näher Zähigkeit, die Flächenhaftigkeit, Dehnbarkeit, Hämmerbarkeit.
+
+§. 297.
+
+γ) Das Körperliche, gegen dessen Gewalt ein Körperliches im Nachgeben zugleich seine Eigenthümlichkeit behauptet, ist in der ersten Unmittelbarkeit der Cohäsion, überhaupt ein anderes Körperindividuum. Aber der Körper ist als cohärent auch an ihm selbst außereinanderseyende Materialität, deren Theile, indem das Ganze Gewalt leidet, gegeneinander Gewalt ausüben, nachgeben, aber die erlittene Negation aufheben und sich herstellen. Das Nachgeben und darin die eigenthümliche Selbsterhaltung nach Außen ist daher unmittelbar verknüpft mit diesem innern Nachgeben und Selbsterhalten gegen sich selbst, die Elasticität.
+
+§. 298.
+
+Die Idealität, welche hier zur Existenz kommt, ist diese Negation, welche die materiellen Theile als Materie überhaupt nur suchen, - der für sich seyende Einheitspunkt, der zunächst außer ihnen und so nur [orig. 280] erst an sich ist. Diese Idealität ist hier noch als bedingt, als die nur eine Seite des Verhältnisses vorhanden, dessen andere Seite, das Bestehen der außereinanderseyenden Theile ist, so daß die Negation derselben in ihr Wiederherstellen übergeht. Die Elasticität ist daher nur Veränderung der specifischen Schwere, die sich wiederherstellt.
+
+Wenn hier und sonst von materiellen Theilen die Rede ist, so sind nicht Atome, noch Molecules, d. h. nicht abgesondert für sich bestehende zu [p. 229] verstehen, sondern ihre Continuität ist wesentlich von der Unterschiedenheit nicht zu trennen; die Elasticität ist die Existenz der Dialektik dieser Momente selbst. Der Ort des Materiellen ist sein gleichgültiges bestimmtes Bestehen, die Idealität dieses Bestehens ist somit die als reelle Einheit gesetzte Continuität, d. i. daß zwei vorher außereinander bestehende materielle Theile, die also als in verschiedenen Orten befindlich vorzustellen sind, jetzt in Einem und demselben Orte sich befinden. Es ist dies der Widerspruch, und er existirt hier materiell. Es ist derselbe Widerspruch, welcher der Zenonischen Dialektik der Bewegung zum Grunde liegt, nur daß er bei der Bewegung abstracte Orte, hier aber materielle Orte, materielle Theile, betrifft. In der Bewegung setzt sich der Raum zeitlich und die Zeit räumlich (§. 260.), sie fällt in die Zenonische Antinomie, wenn die Orte als Raumpunkte, und die Zeitmomente, als Zeitpunkte isolirt werden, und ist nur so zu fassen, daß Raum und Zeit in sich continuirlich ist, und der sich bewegende Körper in demselben Orte zugleich ist und nicht, d. i. zugleich in einem Andern ist, und ebenso derselbe Zeitpunkt zugleich ist, und zugleich nicht, d. i. ein Anderer ist. So ist in der Elasticität der materielle Theil, Atom, Molecule zugleich als affirmativ seinen Raum einnehmend, bestehend gesetzt, und ebenso zugleich nicht [orig. 281] bestehend, als Quantum in Einem als extensive Größe und als nur intensive Größe. Der Klang ist die fortgesetzte Abwechslung dieser Bestimmungen, das Oscilliren der Momente der Elasticität. Gegen das in Einssetzen der materiellen Theile in der Elasticität, wird für die sogenannte Erklärung wieder gleichfalls die Erdichtung der Poren zu Hülfe genommen. Wenn zwar sonst in Abstracto zugegeben wird, daß die Materie vergänglich, nicht absolut sey, so wird sich doch in der Anwendung dagegen gesträubt, wenn sie in der That als negativ gefaßt, wenn die Negation an ihr gesetzt werden soll. Die Poren sind wohl das Negative, - denn es hilft nichts, es muß zu dieser Bestimmung fortgegangen werden, - aber die Poren sind das Negative nur neben der Materie, das Negative nicht der Materie selbst, sondern da, wo sie nicht ist; so daß in der That die Materie als absolut-selbstständig, ewig, angenommen wird. Dieser Irrthum wird durch den allgemeinen Irrthum des Verstandes, daß das Metaphysische nur ein Gedankending neben d. i. außer der Wirklichkeit sey, eingeführt; so wird neben dem Glauben an die Nicht-Absolutheit der Materie auch an die Absolutheit derselben geglaubt.
+
+[p. 230] §. 299.
+
+Diese Idealität macht aber nicht blos eine Seite des Processes aus; sie ist ebenso Idealität ihrer selbst, ihr Negiren des (außereinander) Bestehens der materiellen Theile wird ebenso negirt, als das Wiederherstellen ihres Außereinanderseyns und ihrer Cohäsion; sie ist Eine Idealität als das innere Erzittern des Körpers in ihm selbst der Klang. |
+
+## C.
+
+## DER KLANG.
+
+§. 300.
+
+Die specifische Einfachheit der Bestimmtheit, welche der Körper in der Dichtigkeit und dem Princip seiner Cohäsion hat, diese zuerst innerliche Form hindurchgegangen durch ihr Versenktseyn in das materielle Außereinander, wird frei in der Negation des für sich Bestehens dieses seines Außereinanderseyns. Es ist dies das Uebergehen der materiellen Räumlichkeit in materielle Zeitlichkeit. Damit daß diese Form so im Erzittern, d. i. durch die momentane ebenso Negation der Theile wie Negation dieser ihrer Negation, die aneinander gebunden, eins durchs andere erweckt wird, und so als ein Oscilliren des Bestehens und der Negation der Theile, der specifischen Schwere und der Cohäsion – die Idealität ist, ist die einfache Form für sich existirend und kommt als diese mechanische Seelenhaftigkeit zur Erscheinung.
+
+Reinheit oder Unreinheit des Klangs, Schall, Geräusch u.s.f. hängt damit zusammen, ob nur die Oberfläche vornehmlich in die Erschütterung des Erzitterns kommt, ob der durchdringend erzitternde Körper in sich homogen ist. Das cohäsionslose Wasser ist ohne Klang und seine Bewegung als blos äußerliche Reibung seiner schlechthin verschiebbaren Theile gibt nur ein Rauschen. Die existirende Continuität des Glases in seiner innern Sprödigkeit klingt, noch mehr die unspröde Continuität des Metalls klingt durch und durch in sich, u.s.f.
+
+Die Mittheilbarkeit des Klangs, dessen so zu sagen klanglose Fortpflanzung durch alle in Sprödigkeit u.s.f. noch so verschieden bestimmten Körper (durch feste Körper besser als durch die Luft - durch die Erde auf viele Meilen weit, durch Metalle nach der Berechnung zehnmal schneller [p. 231] als durch Luft) – zeigt die durch sie frei hindurchziehende Idealität, welche ganz nur ihre abstracte Materialität ohne die specifischen Bestimmungen ihrer Dichtigkeit, Cohäsion und weiterer Formirungen in Anspruch nimmt, und ihre Theile in die Negation, ins Erzittern bringt; dieses Idealisiren selbst ist nur das Mittheilen.
+
+Das Qualitative des Klanges überhaupt, wie des sich selbst articulirenden Klanges, des Tones, hängt von der Dichtigkeit, Cohäsion und weiter specificirten Cohäsionsweise des klingenden Körpers ab, weil die Idealität oder Subjectivität, welche das Erzittern ist, als Negation jener specifischen Bestimmungen, sie zum Inhalte und zur Bestimmtheit hat; hiemit ist dies Erzittern und der Klang selbst darnach specificirt, und haben die Instrumente ihren eigenthümlichen Klang und Timbre.
+
+§. 301.
+
+An diesem Erzittern ist das Schwingen, als äußere Ortsveränderung, nämlich des räumlichen Verhältnisses zu andern Körpern, zu unterscheiden, welches gewöhnliche eigentliche Bewegung ist. Obzwar unterschieden, ist es zugleich identisch mit der vorhin bestimmten innern Bewegung, welche die freiwerdende, subjective Allgemeinheit, die Erscheinung des Klanges als solchen ist.
+
+Die Existenz dieser Idealität hat um ihrer abstracten Allgemeinheit willen, nur quantitative Unterschiede. Im Reiche des Klanges und der Töne beruht daher ihr weiterer Unterschied gegen einander, ihre Harmonie und Disharmonie auf Zahlenverhältnissen und deren einfacherem oder verwickelterem und entfernterem Zusammenstimmen.
+
+Das Schwingen der Saiten, Luftsäulen, Stäbe u.s.f. ist als abwechselnder Uebergang aus der geraden Linie in den Bogen und zwar in entgegengesetzte, zunächst äußere Ortsveränderung im Verhältnisse zu andern Körpern, aber unmittelbar ist die innere, die abwechselnde Veränderung der specifischen Schwere und der Cohäsion damit verbunden; die gegen den Mittelpunkt des Schwingungsbogens zu liegende Seite der materiellen Linie ist verkürzt, die äußere aber verlängert worden, die specifische Schwere und Cohäsion von jener vermindert, von dieser vermehrt, und dies selbst gleichzeitig.
+
+In Ansehung der Macht der quantitativen Bestimmung ist an die Erscheinungen zu erinnern, wie eine Bestimmung durch mechanische [p. 232] Unterbrechungen in eine schwingende Linie, Ebene gesetzt, sich selbst der Mittheilung, dem Schwingen der ganzen Linie, Ebene über den mechanischen Unterbrechungspunkt mittheilt, und Schwingungsknoten darin bildet (was durch die Darstellungen Hrn. Chladnis anschaulich gemacht wird). Ebenso gehören hieher die Erweckungen von harmonischen Tönen in benachbarten Saiten, denen bestimmte Größen-Verhältnisse zu der tönenden gegeben werden; am allermeisten die Erfahrungen, auf welche Tartini zuerst aufmerksam gemacht, von Tönen, die aus andern gleichzeitig ertönenden Klängen, welche in Ansehung der Schwingungen in bestimmten Zahlenverhältnissen gegen einander stehen, hervorgehen, von diesen verschieden sind, und nur durch diese Verhältnisse producirt werden.
+
+§. 302.
+
+Der Klang ist der Wechsel des specifischen Außereinanderseyns der materiellen Theile und des Negirtseyns desselben; nur abstracte, oder so zu sagen nur ideelle Idealität dieses Specifischen. Aber der Wechsel selbst ist die Negation überhaupt des specifischen Bestehens; diese ist damit reale Idealität der specifischen Schwere und Cohäsion Wärme.
+
+Die Erhitzung der klingenden Körper, wie der [orig. 285] geschlagenen, auch der aneinander geriebenen ist die Erscheinung von dieser dem Begriffe nach entstehenden Wärme.
+
+## d. DIE WÄRME.
+
+§. 303.
+
+Die Wärme ist das sich Wiederherstellen der schweren Materie in ihre Formlosigkeit, ihre Flüssigkeit, der Triumph der homogenen Materie über die specifische Bestimmtheit ihres Außereinanderseyns; ihre abstracte Continuität als Negation der Negation (der Form) bestimmt, d. i. in Activität gesetzt. Formell d. i. in Beziehung auf Raumbestimmung überhaupt erscheint sie daher ausdehnend, als aufhebend die Beschränkung, welche durch das Specificiren des gleichgültigen Einnehmens des Raums durch die Materie überhaupt, gesetzt ist.
+
+[p. 233] §. 304.
+
+Diese reale Negation der Eigenthümlichkeit des Körpers, ist sein Zustand, in sofern in seinem Daseyn nicht sich selbst affirmativ anzugehören; diese seine Existenz ist vielmehr die Gemeinschaft mit andern und die Mittheilung an sie, äußere Wärme. Die Passivität des Körperlichen für dieselbe beruht auf der in der specifischen Schwere und Cohäsion an sich vorhandenen Continuität des Materiellen, durch welche ursprüngliche Idealität die Modification der specifischen Schwere und Cohäsion zu einem leichten, zunächst jedoch formellen, Spiele jener Mittheilung wird.
+
+Incohärentes, wie Wolle, und an sich Incohärentes (d. i. Sprödes wie Glas) sind schlechtere Wärmeleiter, als die Metalle; deren Eigenthümlichkeit ist, als innere Form, die ununterbrochene Continuität [orig. 286] zu besitzen. Die Mittheilbarkeit, nach welcher die Wärme von dem Körper, in dem sie zunächst vorhanden ist, trennbar und somit als ein gegen ihn selbstständiges, so wie als ein an die andern Körper zunächst äußerliches und von Außen an sie kommendes erscheint, ferner die damit zusammenhängenden weitern mechanischen Determinationen, welche in das Verbreiten gesetzt werden können (z. B. die Repercussion durch Hohlspiegel), ingleichen die quantitativen Bestimmungen, die bei der Wärme vorkommen, sind es vornehmlich, die zur Vorstellung der Wärme, als eines selbstständig existirenden, einer Wärme-Materie geführt haben. Man wird aber wenigstens Anstand nehmen, die Wärme einen Körper, oder auch nur ein Körperliches zu nennen; worin schon liegt, daß die Erscheinung von besonderem Daseyn sogleich verschiedener Categorien fähig ist; so ist auch diejenige beschränkte Selbstständigkeit, welche bei der Wärme erscheint, nicht hinreichend, die Categorie von Materie, die wesentlich Totalität in sich, damit schwer ist, auf sie anzuwenden. Diese Selbstständigkeit liegt vornehmlich nur in der äußerlichen Weise, in welcher die Wärme in der Mittheilung gegen die vorhandenen Körper erscheint. Die Rumfordischen Versuche über die Erhitzung der Körper durch Reibung beim Kanonenbohren, hätten die Vorstellung von besonderer, selbstständiger Existenz der Wärme längst ganz entfernen können. So wie gerade die abstracte Vorstellung der schweren Materie die Bestimmung der Continuität für sich enthält, welche die Möglichkeit der Mittheilung, und als Activität die Wirklichkeit derselben ist.
+
+[p. 234] Die Mittheilung der Wärme an verschiedene Körper enthält für sich nur das abstracte Continuiren einer Determination durch unbestimmte Materialität hindurch, und [orig. 287] in sofern die Wärme als sinnliche Bestimmung überhaupt beschränkt, und in Beziehung auf sich eines Quantums und Grades fähig ist, das Hervorbringen eines abstracten Gleichgewichts, oder einer gleichen Temperatur der Körper, unter welche sich der Grad vertheilt. Da die Wärme Veränderung der specifischen Schwere und Cohäsion ist, so enthält sie selbst diese Bestimmungen, ist an sie gebunden, und die äußere, mitgetheilte Temperatur ist für ihre Existenz durch die besondere specifische Schwere und Cohäsion des Körpers bedingt, dem sie mitgetheilt wird; - specifische Wärme-Capacität.
+
+Die specifische Wärme-Capacität, verbunden mit der Kategorie von Materie und Stoff hat unter anderem zur Vorstellung von latentem, unmerkbarem, gebundenem Wärmestoff geführt; als ein nicht wahrnehmbares hat solche Bestimmung nicht die Berechtigung der Beobachtung, und als erschlossen beruht sie auf der Voraussetzung einer materiellen Selbstständigkeit der Wärme (vergl. Anm. §. 286.). Diese Annahme dient auf ihre Weise, die Selbstständigkeit der Wärme als einer Materie empirisch unwiderleglich zu machen; wird das Verschwinden der Wärme, oder ihr Erscheinen, wo sie vorher nicht vorhanden war, aufgezeigt, so wird dies für ein bloßes Verbergen oder sich zur Unmerkbarkeit Binden erklärt, und die Metaphysik von Selbstständigkeit jener Erfahrung entgegen, ja der Erfahrung a priori vorausgesetzt. Worauf es für die Bestimmung, die hier von der Wärme gegeben worden, ankommt, ist, daß empirisch bestätigt werde, daß die durch den Begriff für sich nothwendige Bestimmung der Veränderung der specifischen Schwere und Cohäsion in der Erscheinung sich als die Wärme zeige. Die enge Verbindung zunächst von beidem erkennt sich leicht in den vielfachen Erzeugungen (und in eben so vielfachen Arten des Verschwindens) von Wärme, bei [orig. 288] Gährungen, den andern chemischen Processen, Crystallisationen und Auflösungen derselben, bei den schon erwähnten mechanischen innern mit äußerlichen verbundenen Erschütterungen, Anschlagen der Glocken, Schlagen des Metalls, Reibungen u.s.f. Die Reibung (von zwei Hölzern, und auch im gewöhnlichen Feuerschlagen) bringt das materielle Außereinander des einen Körpers durch die drückende Bewegung des andern in Einen Punkt [p. 235] momentan zusammen, eine Negation des räumlichen Bestehens der materiellen Theile, die in Hitze und eine beginnende oder sich vollendende Verzehrung des Körpers ausschlägt. Die weitere Schwierigkeit ist, diese zunächst sogenannte enge Verbindung als existirende Idealität von specifischer Schwere und Cohäsion zu fassen, – eine Existenz des Negativen, welche selbst die Bestimmtheit dessen enthält, was negirt wird, als Existenz die Bestimmtheit eines Quantums hat, und als Idealität eines Bestehens das Außersichseyn desselben und sein Sich-setzen in Anderem, ist. Es handelt sich hier, wie überall in der Naturphilosophie, nur darum, an die Stelle der Verstandes-Kategorien die Gedankenverhältnisse des speculativen Begriffes zu setzen, und nach diesen die Erscheinung zu fassen und zu bestimmen.
+
+§. 306.
+
+Die Wärme als Temperatur überhaupt ist zunächst die noch abstracte und ihrer Bestimmtheit nach bedingte Auflösung der specificirten Materialität. Sich aber ausführend, in der That realisirt gewinnt das Verzehren der körperlichen Eigenthümlichkeit die Existenz der reinen physischen Idealität, der frei werdenden Negation des Materiellen und tritt als Licht hervor, jedoch als Flamme, als an die Materie gebundene Negation der Materie. Wie das Feuer zuerst (§. 283.) aus dem Ansich sich entwickelte, so erzeugt es sich hier als äußerlich [orig. 289] bedingt aus den existirenden Begriffsmomenten innerhalb der Sphäre der bedingten Existenz. Es verzehrt sich zugleich mit den Bedingungen, deren Verzehrung es ist.
+
+§. 307.
+
+Die Entwicklung der realen, d.i. die Form an ihr enthaltenden Materie geht so in ihrer Totalität in die reine Idealität ihrer Bestimmungen, in die mit sich abstract identische Selbstischkeit über, die in diesem Kreise der äußerlichen Individualität selbst (als Flamme) äußerlich wird, und so verschwindet. Die Bedingtheit dieser Individualität ist dasselbe, daß die Form an ihr zunächst nur auf unmittelbare Weise gesetzt ist, und als Totalität nur erst an sich war. In der Wärme ist gesetzt das Moment der realen Auflösung dieser Unmittelbarkeit und der zunächst vorhandenen Gleichgültigkeit des Materiellen in [p. 236] dieser seiner Existenz gegen die Form. Die Form ist daher jetzt als Totalität dem als gegen sie widerstandslosen Materiellen immanent. Die Selbstischkeit als solche, die unendliche sich auf sich beziehende Form, ist äußerlich geworden; sie verschwindet nur als bedingt, und die unterschiedenen Bestimmungen haben ihre Unmittelbarkeit, hiermit dies, Bedingungen zu seyn, verloren; die Form erhält sich somit in dieser ihr unterworfenen Aeußerlichkeit, und ist als die frei dies Materielle bestimmende Totalität die freie Individualität. [orig. 290]
+
+## C. PHYSIK
+
+## DER TOTALEN INDIVIDUALITÄT.
+
+§. 308.
+
+Die Materie ist zuerst an sich die Totalität des Begriffs, als schwere, welcher in seinen besondern Bestimmungen an ihr gesetzt die formirte Materie, als die bedingte Individualität zeigt. Die Totalität des Begriffs nun gesetzt ist der Mittelpunkt der Schwere nicht mehr als die von ihr gesuchte Subjectivität, sondern ihr immanent und zwar als die Idealität ihrer zuerst unmittelbaren und bedingten Formbestimmungen, welche nunmehr von innen heraus entwickelte Momente derselben sind.
+
+§. 309.
+
+Die totale Individualität ist:
+
+## [p. 237] a.
+
+::: editorial
+Unmittelbar Gestalt als solche, und deren abstractes Princip in freier Existenz erscheinend, der Magnetismus.
+
+b. Bestimmt sie sich zum Unterschiede, – Besonderung der Individualität für die Sinne, und diese Besonderung zum Extrem ihres Unterschiedes gesteigert, die Electricität.
+
+c. Die Realität dieses Unterschiedes ist der chemisch differente Körper, und die Beziehung dieser zur Körperlichkeit realisirten Bestimmungen, die
+:::
+
+## DIE GESTALT.
+
+§. 310.
+
+Der Körper als totale Individualität ist unmittelbar, ruhende Totalität, somit die Form eine Weise des räumlichen Zusammenseyns des Materiellen, somit wieder (wie zuerst immer) Mechanismus. Die Gestalt ist somit der materielle Mechanismus, aber der nun unbedingt und frei bestimmenden Individualität, der Körper, dessen specifische Art des innern Zusammenhalts nicht nur, sondern dessen äußerliche Begränzung im Raume durch die immanente und entwickelte Form bestimmt ist. Auf solche Weise ist die Form von selbst manifestirt, und zeigt sich nicht erst als eine Eigenthümlichkeit des Widerstands gegen fremde Gewalt.
+
+§. 311.
+
+Die a) unmittelbare d. i. die als in sich formlos gesetzte Gestalt, ist einerseits das Extrem der Punctualität der Sprödigkeit, andererseits das Extrem der sich kugelnden Flüssigkeit; die Gestalt als innere Gestaltlosigkeit.
+
+§. 312.
+
+β) Das Spröde, als an sich seyende Totalität der formirenden Individualität, schließt sich zum Unterschiede des Begriffs auf. Der Punkt geht so in die Linie über, und setzt sich an derselben in Extreme entgegen, welche zugleich als Momente kein eigenes Bestehen haben, und nur durch die Mitte, ihren Indifferenzpunkt, gehalten sind. Dieser Schluß macht das Princip der Gestaltung in ihrer entwickelten Bestimmtheit aus, und ist in dieser noch abstracten Strenge, der Magnetismus. [orig. 292]
+
+Der Magnetismus ist eine der Bestimmungen, die sich vornehmlich darbieten mußten, als der Begriff sich in der bestimmten Natur vermuthete, und die Idee einer Naturphilosophie faßte. Denn der Magnet stellt auf eine einfache naive Weise, die Natur des Begriffes dar. Die Pole sind die sinnlich existirenden Enden einer realen Linie (eines Staabes, oder in einem nach [p. 238] allen Dimensionen weiter ausgedehnten Körper), aber keine besondere Dinge; als Pole haben sie aber nicht die sinnliche, mechanische Realität, sondern eine ideelle. Der Indifferenzpunkt, in welchem sie ihre Substanz haben, ist die Einheit, in der sie nur als Bestimmungen des Begriffs sind, und die Polarität ist eine Entgegensetzung nur solcher Momente. Der Magnetismus hat außer der hiedurch [gesetzten] Bestimmung keine weitere besondere Eigenschaft. Daß die einzelne Magnetnadel sich nach Norden und damit in Einem nach Süden richtet, ist Erscheinung des allgemeinen Erdmagnetismus. Daß aber alle Körper magnetisch sind, hat einen schiefen Doppelsinn; der richtige ist, daß alle reelle, nicht blos spröde Gestalt diesen Begriff enthält; der unrichtige aber, daß alle Körper auch dieses Princip, wie es in seiner strengen Abstraction existirt und als Magnetismus ist, an ihnen zur Erscheinung bringen. Eine Begriffsform dadurch als in der Natur vorhanden aufzeigen wollen, daß sie in der Bestimmtheit, wie sie als eine Abstraction ist, allgemein existiren solle, wäre ein unphilosophischer Gedanke. Die Natur ist vielmehr die Idee im Elemente des Außereinander, so daß sie, eben so wie der Verstand, die Begriffsmomente zerstreut festhält und in Realität darstellt, aber in den höhern Dingen die unterschiedenen Begriffsformen zur höchsten Concretion in Einem vereint (s. Anm. folg. §.). [orig. 293]
+
+§. 313.
+
+In sofern diese sich auf sich beziehende Form zunächst in dieser abstracten Bestimmung, Identität der bestehenden Differenzen zu seyn existirt, also noch nicht in der totalen Gestalt zum Producte geworden und paralysirt ist, ist sie als Thätigkeit, und zwar in der Sphäre der Gestalt, die immanente Thätigkeit des freien Mechanismus; nämlich die örtlichen Verhältnisse zu bestimmen.
+
+Der Gegensatz der Form im individuellen Materiellen geht auch dazu fort, sich zum realern, electrischen, und zu dem noch realern, dem chemischen Gegensatze zu bestimmen. Allen diesen besondern Formen liegt allerdings eine und dieselbe allgemeine Totalität der Form, als ihre Substanz zum Grunde. Ferner sind Electricität und Chemismus als Processe Thätigkeiten von Gegensätzen, welche weiter physisch bestimmt sind, aber außerdem enthalten diese Processe vor Allem auch Veränderungen in den [p. 239] Verhältnissen der materiellen Räumlichkeit. Nach dieser Seite, daß diese concrete Thätigkeit zugleich mechanisirende Bestimmung ist, ist sie an sich magnetische Thätigkeit. In wiefern sie als solche auch innerhalb dieser concretern Processe zur Erscheinung gebracht werden kann, sind die empirischen Bedingungen hievon in neuern Zeiten gefunden worden. Es ist daher für einen wesentlichen Fortschritt der empirischen Wissenschaft zu achten, daß die Identität dieser Erscheinungen in der Vorstellung anerkannt worden ist, welche Electro-Chemismus, oder etwa auch Magneto-Electro-Chemismus oder wie sonst, genannt wird. Allein die besondern Formen, in welchen die allgemeine existirt, und deren besondre Erscheinungen sind auch eben so wesentlich von einander zu unterscheiden. Der Name Magnetismus ist darum besser für die ausdrückliche Form und deren Erscheinung als [orig. 294] in der Sphäre der Gestalt als solcher, sich nur auf Raumbestimmen beziehend, aufzubehalten. Früher ist Magnetismus, Electricität und Chemismus gänzlich abgesondert, ohne Zusammenhang mit einander, jedes als eine selbstständige Kraft betrachtet worden. Die Philosophie hat die Idee ihrer Identität, aber mit ausdrücklichem Vorbehalt ihres Unterschiedes, gefaßt; in den neuesten Vorstellungsweisen der Physik scheint auf das Extrem der Identität dieser Erscheinungen übergesprungen worden, und die Noth zu seyn, daß und wie sie zugleich auseinander zu halten seyen.
+
+§. 314.
+
+Die Thätigkeit der Form ist keine andere, als die des Begriffs überhaupt, das identische different, und das differente identisch zu setzen, hier also in der Sphäre der materiellen Räumlichkeit das im Raume identische different zu setzen, zu entfernen (- abzustoßen) und das im Raume differente identisch zu setzen, zu nähern und zur Berührung zu bringen (- anzuziehen). Diese Thätigkeit, da sie in einem Materiellen, aber noch abstract (und nur als solche ist sie Magnetismus) existirt, beseelt sie nur ein Lineares (§. 256.). An solchem können die beiden Bestimmungen der Form nur an dem Unterschiede des Linearen, an dessen beiden Enden, geschieden hervortreten, und ihr thätiger, magnetischer Unterschied besteht nur darin, daß das eine Ende (der eine Pol) dasselbe ein Drittes mit sich identisch setzt, was das andere (der andere Pol) von sich entfernt.
+
+[p. 240] Das Gesetz des Magnetismus wird so ausgesprochen, daß gleichnamige Pole sich abstoßen, und die ungleichnamigen sich anziehen, daß die gleichnamigen feindschaftlich, die ungleichnamigen aber freundschaftlich sind. Für die Gleichnamigkeit ist jedoch keine andere Bestimmung vorhanden, als daß die [orig. 295] gleichnamige sind, welche gleicherweise von einem Dritten beide angezogen oder beide abgestoßen werden. Dies Dritte aber hat ebenso seine Determination allein darin, jene Gleichnamigen, oder überhaupt ein Anderes entweder abzustoßen oder anzuziehen. Alle Bestimmungen sind durchaus nur relativ, ohne verschiedene sinnliche, gleichgültige Existenz; es ist oben (Anm. §. 312.) bemerkt worden, daß so etwas wie Norden und Süden keine solche ursprüngliche, erste oder unmittelbare Bestimmung enthält. Die Freundschaftlichkeit des Ungleichnamigen, und die Feindschaftlichkeit des Gleichnamigen sind hiemit überhaupt nicht eine folgende oder noch besondere Erscheinung an einem vorausgesetzten, dem eigenthümlich schon bestimmten Magnetismus, sondern drükken nichts anders als die Natur des Magnetismus selbst aus, und damit die Natur des Begriffs, wenn er in dieser Sphäre als Thätigkeit gesetzt ist.
+
+§. 315.
+
+γ) Die Thätigkeit in ihr Product übergegangen ist die Gestalt, und bestimmt als Krystall. In dieser Totalität sind die differenten magnetischen Pole zur Neutralität reducirt, die abstracte Linearität der ortbestimmenden Thätigkeit zur Fläche und Oberfläche des ganzen Körpers realisirt; näher die spröde Punctualität einerseits zur entwickelten Form erweitert, die formelle Erweiterung der Kugel aber zur Begränzung reducirt. Nach dieser Seite wirkt die Eine Form den Körper nach Außen, nach jener seine innere Continuität durch und durch, krystallisirend (Durchgang der Blätter, Kerngestalt).
+
+## b.
+
+## DIE BESONDERUNG DES INDIVIDUELLEN KÖRPERS.
+
+§. 316.
+
+Die Gestaltung, die zuerst freie Individualisirung des Mechanismus, geht in die Besonderung über. Der [orig. 296] individuelle Körper ist an sich die physische Totalität; diese ist an ihm im Unterschiede, aber wie er in der Individualität bestimmt und gehalten ist, zu setzen. Der Körper als das Subject dieser [p. 241] Bestimmungen enthält sie erstlich als Eigenschaften oder Prädicate. Aber zweitens nur erst in der unmittelbaren Individualität gehalten, sind sie auch als gegeneinander gleichgültige Materien. Drittens sind sie Verhältnisse zu den ungebundenen Elementen und Processe des individuellen Körpers mit denselben. Es sind dies die Seiten, die jede der Besonderungen der individuellen Körperlichkeit an ihr hat. – Das Wesentliche ist die Natur dieser Besonderung selbst, welche in ihrer logischen Nothwendigkeit an der elementarischen Sphäre aufgezeigt worden ist.
+
+Bei dem alten, allgemeinen Gedanken, daß jeder Körper aus den vier Elementen, oder dem neuern Paracelsischen, daß er aus Mercurius oder Flüssigkeit, Schwefel oder Oel und Salz bestehe, und vielen andern Gedanken dieser Art, ist vors erste die Widerlegung leicht gewesen, indem man unter jenen Namen die einzelnen empirischen Stoffe verstehen wollte, welche zunächst durch solche Namen bezeichnet sind. Es ist aber nicht zu verkennen, daß sie viel wesentlicher die Begriffsbestimmungen enthielten und ausdrücken sollten, und es ist daher vielmehr die Gewaltsamkeit zu bewundern, mit welcher der Gedanke in solchen sinnlichen Dingen nur seine eigene Bestimmung und die allgemeine Bedeutung erkannte und festhielt. Fürs andere ist ein solches Auffassen und Bestimmen, da es die Vernunft zu seiner Quelle hat, welche sich durch die sinnliche Spielerei der Erscheinung und deren Verworrenheit nicht irre machen, noch gar sich selbst in Vergessenheit bringen läßt, weit über das bloße Aufsuchen und das chaotische Hererzählen der Eigenschaften der Körper erhaben. Hier gilt es für Verdienst und Ruhm immer noch etwas Besonderes ausgegangen zu haben, statt es auf das Allgemeine und den Begriff zurückzubringen, und diesen darin zu erkennen.
+
+## α.
+
+## VERHÄLTNISS ZUM LICHT.
+
+§. 317.
+
+In der gestalteten Körperlichkeit ist die erste Bestimmung ihre mit sich identische Selbstischkeit, die abstracte Selbstmanifestation ihrer als unbestimmter, einfacher Individualität, das Licht. Aber die Gestalt leuchtet als solche nicht, denn sie ist noch nicht zu dieser Entwicklung und Unterscheidung ihrer [p. 242] Bestimmungen gekommen. Sie hat daher 1) ein Verhältniß zum Lichte, und ist als reiner Krystall in der vollkommenen Homogeneität seiner neutral-existirenden innern Individualisirung, durchsichtig und ein Medium für das Licht.
+
+Die innere Cohäsionslosigkeit der Luft und des Lichts ist hier Homogeneität der in sich cohärenten und krystallisirten Gestalt. Der individuelle Körper unbestimmt genommen ist freilich sowohl durchsichtig als undurchsichtig, durchscheinend u.s.f., Licht und Finsterniß sind nur Möglichkeiten an demselben. Aber die Durchsichtigkeit ist die nächste erste Bestimmung desselben als Krystalls, dessen physische Homogeneität noch nicht weiter in sich besondert und vertieft ist.
+
+§. 318.
+
+2) Die erste einfachste Bestimmtheit, die das physische Medium hat, ist seine specifische Schwere, deren Eigenthümlichkeit in Beziehung auf Durchsichtigkeit aber nur in der Vergleichung der verschiedenen Dichtigkeit eines andern Mediums zur Manifestation kommt. Was bei der Durchsichtigkeit beider von dem einen (- dem vom Auge entferntern -) in dem andern Medium (um die [orig. 298] Dar- und Vorstellung zu erleichtern mag jenes als Wasser, dieses als Luft genommen werden) wirksam ist, ist allein die Dichtigkeit desselben (des Wassers) als den Ort qualitativ bestimmend; sein Volumen mit dem darin enthaltenen Bilde wird daher in der durchsichtigen Luft gesehen, so, als ob dasselbe Volumen Luft, in die jenes gesetzt ist, die größere specifische Dichtigkeit, die des Wassers hätte, also in einen um so kleinern Raum contrahirt [wäre], sogenannte Brechung. Der Ausdruck Brechung des Lichts ist zunächst ein sinnlicher und in sofern richtiger Ausdruck, als man einen ins Wasser gehaltenen Staab bekanntlich gebrochen sieht; auch wendet sich dieser Ausdruck für die geometrische Verzeichnung des Phänomens an. Aber ein ganz anderes ist die Brechung des Lichts und der sogenannten Lichtstrahlen in physicalischer Bedeutung ein Phänomen, das viel schwerer zu verstehen ist, als es dem ersten Augenblicke nach scheint. Abgerechnet das sonstige Unstatthafte der gewöhnlichen Vorstellung macht sich die Verwirrung, in welche sie verfallen muß, in der Verzeichnung der angenommenermaßen sich von einem Punkte aus als Halbkugel ausstrahlenden Lichtstrahlen, leicht augenfällig. (Es kann hiebei an die wesentliche Erfahrung erinnert werden, daß der ebene Boden eines mit Wasser gefüllten Gefäßes, eben, somit ganz und gleichförmig GEHOBEN erscheint.) Worauf es ankommt, ist, daß Ein Medium [p. 243] nur schlechthin Durchsichtiges überhaupt ist, und erst das Verhältniß zweier Medien von verschiedener specifischer Schwere das Wirksame wird für eine Particularisation der Sichtbarkeit, - eine Determination, die zugleich nur ortbestimmend, d. h. durch die ganz abstracte Dichtigkeit gesetzt ist. Ein Verhältniß der Medien als wirksam findet aber nicht im gleichgültigen Nebeneinanderseyn, sondern allein Statt, indem das eine in dem andern, nämlich | nur als Sichtbares - als Sehraum, gesetzt ist. Dieses andere Medium wird von der immateriellen Dichtigkeit des darin gesetzten, so zu sagen, inficirt, so daß es in ihm den Sehraum des Bildes nach der Beschränkung zeigt, die es selbst (das Medium) erleidet und ihn damit beschränkt.
+
+§. 319.
+
+Diese zunächst äußerliche Vergleichung und das In-eins-setzen verschiedener die Sichtbarkeit bestimmenden Dichtigkeiten, welche in verschiedenen zunächst abstracten, in sich cohäsionslosen oder nur der bedingten Cohäsion angehörigen Medien (Luft, Wasser, dann Glas u.s.f.) existiren, ist eine innerliche in der Natur der Krystalle. Diese sind einerseits durchsichtig überhaupt, andererseits aber besitzen sie in ihrer innern Individualisirung (Kerngestalt) eine von der formellen Gleichheit[^gw19-243-1] abweichende Form, welche auch Gestalt als Kerngestalt, aber ebenso ideelle, subjective Form ist, die wie die specifische Schwere den Ort bestimmend wirkt, und daher die Sichtbarkeit, als räumliches Manifestiren auf eigenthümliche Weise, von der ersten abstracten Durchsichtigkeit verschieden bestimmt, doppelte Strahlenbrechung.
+
+[^gw19-243-1]: *) Das Kubische überhaupt ist hier unter der formellen Gleichheit bezeichnet. Als die für sich verständlichste, und hier genügende Bestimmung der Krystalle, welche die sogenannte doppelte Strahlenbrechung zeigen, in Ansehung ihrer innern Gestaltung, führe ich die aus Biot Phys. III. ch. 4. p. 325. an: »Dies Phänomen zeigt sich an allen durchsichtigen Krystallen, deren primitive Form weder ein Cubus, noch ein regelmäßiges Octaëder ist.< |
+
+Das Wort Kraft könnte hier passend gebraucht werden, indem die rhomboidalische Form (die gewöhnlichste) durch und durch den Krystall innerlich individualisirt, aber, wenn dieser nicht in Lamellen gesplit tert ist, nicht zur Existenz als Gestalt kommt, und dessen vollkommene Homogeneität und Durchsichtigkeit nicht im mindesten unterbricht und stört, nur als immaterielle Bestimmtheit wirksam ist.
+
+Ich kann nichts treffenderes in Beziehung auf den Uebergang von einem zunächst äußerlich gesetzten Verhältniß zu dessen Form als innerlich [p. 244] wirksamer Bestimmtheit anführen, als wie Göthe die Beziehung der Vorrichtung von zwei zu einander gerichteten Spiegeln auf das Phänomen der entoptischen Farben, das im Innern des Glascubus, in seiner Stellung zwischen ihnen erzeugt wird, ausdrückt. Zur Naturwissenschaft I. Bd. 3s Heft XXII. S. 148. heißt es: »von den natürlichen, durchsichtigen, krystallisirten Körpern<<< >>wir sprechen also von ihnen aus: daß die Natur, in das Innerste solcher Körper einen gleichen Spiegelapparat aufgebaut habe, wie wir es mit äußerlichen, physisch-mechanischen Mitteln gethan<« – vergl. vorherg. S. daselbst.[^gw19-244-1] – Es handelt sich, wie gesagt, bei dieser Zusammenstellung nicht von Refraction, wie im Paragraph, sondern von einer äußern Doppelspiegelung, und dem ihr im Innern entsprechenden Phänomen. So ist weiter zu unterscheiden, wenn es daselbst S. 147. heißt: »man habe beim rhombischen Kalkspath gar deutlich bemerken können, daß der verschiedene Durchgang der Blätter und die deshalb gegen einander wirkenden Spiegelungen die nächste Ursache der Erscheinung seyen<« daß im Paragraph von der so zu sagen rhomboidalischen Kraft oder Wirksamkeit, nicht von Wirkung existirender Lamellen (vergl. I. Bd. 1. Heft zur Naturwissenschaft S. 25.) gesprochen wird. [orig. 301]
+
+[^gw19-244-1]: *) Was ich über dieses Apperçu gesagt, hat Göthe so freundlich aufgenommen, daß es Heft 4. zur Naturwissenschaft S. 294. zu lesen ist. |
+
+§. 320.
+
+3) Dies immaterielle Fürsichseyn (Kraft) der Form zu innerlichem Daseyn fortgehend, hebt die neutrale Natur der Krystallisation auf, und es tritt die Bestimmung der immanenten Punctualität, Sprödigkeit (und dann Cohäsion) ein, bei noch vollkommener, aber formeller Durchsichtigkeit (- sprödes Glas z. B.). Dies Moment der Sprödigkeit ist Verschiedenheit von dem mit sich identischen Manifestiren, dem Lichte und der Erhellung, es ist innerer Beginn oder Princip der Verdunkelung, noch nicht existirendes Finsteres, aber wirksam als verdunkelnd. Die Wirksamkeit dieses Princips auf die Erhellung ist individualisirend, indem jedes der beiden Momente in seiner Unterschiedenheit bestehend, durch das eine derselben, das Fürsichseyn, zugleich in negative Einheit gesetzt wird. Diese Individualisirung des Hellen in dem Finstern ist die Farbe.
+
+[p. 245] Das Verdunkeln bleibt nicht blos Princip, sondern geht gegen die einfache, unbestimmte Neutralität der Gestalt fort zum abstracten einseitigen Extreme der Gediegenheit, der passiven Cohäsion (Metallität). So gibt überhaupt ein auch für sich existirendes Finsteres und für sich vorhandenes Helles, vermittelst der Durchsichtigkeit zugleich in Einheit, welche concret und Individualisirung ist, gesetzt, die Erscheinung der Farbe.
+
+Dem Licht als solchem ist die abstracte Finsterniß unmittelbar entgegengesetzt (§. 277.). Aber das Finstre wird erst reell als individuelle Körperlichkeit, und der aufgezeigte Gang der Verdunkelung ist diese Individualisirung des Hellen, - der abstracten (jedoch als im Kreise der Gestalt, passiven) Manifestation zum Insichseyn der individuellen Materie. Die Metallität ist bekanntlich das materielle Princip aller Färbung oder der allgemeine Färbestoff, wenn man [orig. 302] sich so ausdrücken will. Was vom Metalle hier in Betracht kommt, ist nur seine hohe specifische Schwere, in welche überwiegende Einfachheit sich die specifische Materie gegen die aufgeschlossene innere Neutralität der durchsichtigen Gestalt zurücknimmt und zum Extreme steigert; im Chemischen ist dann die Metallität ebenso einseitige, indifferente Base.
+
+In der gemachten Aufzeigung des Ganges der Verdunkelung kam es darauf an, die Momente derselben nicht nur abstract anzugeben, sondern die empirischen Weisen zu nennen, in denen sie erscheinen. Es erhellt von selbst, daß beides seine Schwierigkeiten hat; aber, was für die Physik noch größere Schwierigkeiten hervorbringt, ist die Vermengung der Bestimmungen oder Eigenschaften, die ganz verschiedenen Sphären angehören. So wesentlich es ist, für dergleichen allgemeine Erscheinungen wie Wärme, Farbe u.s.f. die wesentliche Bestimmtheit unter irgend einer noch so verschiedenen Bedingung und Umstand auszufinden, so wesentlich ist es auf der andern Seite die Unterschiede festzuhalten, unter denen solche Erscheinungen sich zeigen. Was Farbe, Wärme u.s.f. sey, muß in der empirischen Physik nicht auf den Begriff, sondern auf die Entstehungsweisen gestellt werden. Diese aber sind höchst verschieden. Die Sucht, nur allgemeine Gesetze zu finden, läßt zu diesem Ende auch sonst wesentliche Unterschiede weg, und stellt nach einem abstracten Gesichtspunkte das Heterogenste chaotisch in Eine Linie (wie in der Chemie etwa Gase, Schwefel, Metalle u.s.f.). So die Wirkungsweisen nicht nach den verschiedenen Medien und Kreisen particularisirt zu betrachten, hat dem Verlangen selbst, allgemeine Gesetze und [p. 246] Bestimmungen zu finden, nachtheilig seyn müssen. Ebenso chaotisch finden sich die Umstände neben einander gestellt, unter denen die Farbenerscheinung hervortritt, und es pflegen Experimente, die dem speciellsten Kreise von Umständen [orig. 303] angehören, sowohl gegen die allgemeine Bestimmtheit der Farbe, wie sie sich dem unbefangenen Sinne ergibt, als gegen Erscheinungen, die einer ganz entfernten Sphäre von Bedingungen angehören, entgegengestellt zu werden. Dieser Verwirrung, welche bei dem Scheine feiner und gründlicher Erfahrung in der That mit roher Oberflächlichkeit verfährt, kann nur durch Beachtung der Unterschiede in den Entstehungsweisen begegnet werden, die man zu diesem Behuf kennen und in ihrer Bestimmtheit auseinander halten muß.
+
+Zunächst ist sich davon als der Grundbestimmung zu überzeugen, daß die Hemmung der Erhellung mit der specifischen Schwere und Cohäsion zusammenhängt. Diese Bestimmungen sind gegen die abstracte Identität der reinen Manifestation (das Licht als solches) die Eigenthümlichkeiten und Besonderungen der Körperlichkeit, welche von ihnen aus in sich, in das Finstre, zurückgeht, Bestimmungen, welche unmittelbar den Fortgang der bedingten zur freien Individualität (§. 307.) ausmachen, und hier in der Beziehung der erstern zur letztern erscheinen. Die entoptischen Farben haben das Interessante, daß das Princip der Verdunkelung die Sprödigkeit als immaterielle (nur als Kraft wirksame) Punctualität ist, welche in der Pulverisirung eines durchsichtigen Krystalls auf eine äußerliche Weise existirt, und die Undurchsichtigkeit bewirkt, (- wie Schäumen durchsichtiger Flüssigkeit, u.s.f.). Der Druck einer Linse, der die epoptischen Farben erzeugt, ist äußerlich mechanische Veränderung blos der specifischen Schwere, wobei Theilung in Lamellen und dergleichen existirende Hemmungen nicht vorhanden sind. - Bei der Erhitzung der Metalle, (Veränderung der specifischen Schwere) entstehen auf ihrer Oberfläche flüchtig aufeinander folgende Farben, welche nach Belieben festgehalten werden können (Göthe Farbenlehre I. S. 191.). – Die Gestalt (Prisma, - [orig. 304] äußerliche Gränze mit Verschiedenheit der Durchmesser der verschiedenen Theile des durchsichtigen Körpers) enthält die äußerlich auffallendste Determination. In der chemischen Bestimmung tritt durch die Säure ein ganz anderes Princip der Erhellung des Dunkeln, der immanentern Selbstmanifestation, der Befeurung ein. Aus der Betrachtung der Farben für sich ist die chemisch determinirte Hemmung, Verdunkelung, Erhellung, zunächst auszuschlie- [p. 247] Den; denn der chemische Körper, wie das Auge (bei den subjectiven, physiologischen Farbenerscheinungen), ist ein Concretes, das vielfache weitere Bestimmungen in sich enthält, so daß sich die, welche sich auf die Farbe beziehen, nicht bestimmt für sich herausheben und abgesondert zeigen lassen, sondern vielmehr wird die Erkenntniß der abstracten Farbe vorausgesetzt, um an dem Concreten das sich darauf beziehende herauszufinden.
+
+Die Verdunkelung, Verdüsterung aber überhaupt ist nur der eine, abstracte Umstand; zur Farbe gehört eine nähere Determination in derselben. Das Licht erhellt, der Tag vertreibt die Finsterniß; die Verdunkelung, als Vermischung des Hellen mit vorhandenem Finstern gibt im Allgemeinen ein Grau. Aber die Farbe ist die Individualisirung beider Bestimmungen so, daß sie, indem sie auseinander gehalten sind, eben so sehr in Eins gesetzt werden; sie sind getrennt und ebenso scheint eines im andern. Das Prisma ist zugleich durchsichtig und zugleich – und zwar ungleich trübend. Was die Schwierigkeit macht, den Begriff der Farbe zu fassen, ist die Schwierigkeit des Begriffs überhaupt, welcher als concret die Momente zugleich unterschieden, und in ihrer Idealität, in ihrer Einheit enthält. Diese Bestimmung findet sich in der Götheschen Darstellung auf die ihr gehörige sinnliche Weise ausgedrückt, daß beim Prisma das Helle über das Dunkle, oder umgekehrt hergezogen wird, so daß das Helle ebenso [orig. 305] noch als Helles selbstständig durchwirkt, als es getrübt, an seiner Stelle bleibt, und zugleich verrückt wird. Wo das Helle oder Dunkle oder vielmehr Erhellende und Verdunkelnde (beides ist relativ) in den trüben Medien für sich existirt, behält das trübe Medium vor einen dunkeln Hintergrund, auf diese Weise als erhellendes wirkend gestellt und umgekehrt seine eigenthümliche Erscheinung und zugleich ist eins im andern negativ, beides identisch gesetzt. Der Unterschied der Farbe von dem bloßen Grau (– obgleich blos grauer, ungefärbter Schatten sich vielleicht seltner findet, als man zunächst meynt) ist es, worauf es ankommt; er ist derselbe, als innerhalb des Farben-Vierecks der Unterschied des Grünen von dem Rothen, - jenes die Vermischung des Gegensatzes, des Blauen und des Gelben, dieses die Individualität desselben.
+
+Nach der bekannten Newtonischen Theorie besteht das weiße, d. i. farblose Licht, aus fünf oder aus sieben Farben; denn genau weiß dies die Theorie selbst nicht. – Ueber die Barbarei vors erste der Vorstellung, daß auch beim Lichte nach der schlechtesten Reflexions-Form, der Zusammensetzung, gegriffen worden ist, und das Helle hier sogar aus sieben Dunkelheiten bestehen soll, wie man das klare Wasser aus sieben Erdarten bestehen lassen könnte, kann man sich nicht stark genug ausdrücken; [p. 248] So wie über die Ungeschicklichkeit und Unrichtigkeit des Newtonischen Beobachtens und Experimentirens, nicht weniger über die Fadheit desselben, ja selbst, wie Göthe gezeigt hat, über dessen Unredlichkeit; eine der auffallendsten, so wie einfachsten Unrichtigkeiten ist die falsche Versicherung, daß ein durch ein Prisma bewirkter einfärbiger Theil des Spectrums, durch ein zweites Prisma gelassen auch wieder nur einfärbig erscheine (Newt. Opt. L. I. P. I. prop. V. in fine); [orig. 306]
+
+Alsdenn über die gleich schlechte Beschaffenheit des Schließens, Folgerns und Beweisens aus jenen unreinen empirischen Daten; Newton gebrauchte nicht nur das Prisma, sondern der Umstand war ihm auch nicht entgangen, daß zur Farbenerzeugung durch dasselbe, eine Gränze von Hell und Dunkel erforderlich sey (Opt. Lib. II. P. II. p. 230.), und doch konnte er jenes als wirksam zu trüben, übersehen. Nach seiner Art zu schließen thut der Bildhauer mit Meißel und Hammer die Statue aus dem Marmorblocke nur aufdecken, in dem sie wie der Kern in der Nuß bereits fertig und abgesondert lag;
+
+Hierauf endlich insbesondere über die Gedankenlosigkeit, mit der eine Menge der unmittelbaren Folgerungen jener Theorie (z. B. die Unmöglichkeit achromatischer Fernröhre) aufgegeben worden und doch die Theorie selbst behauptet wird;
+
+Zuletzt aber über die Blindheit des Vorurtheils, daß diese Theorie auf etwas Mathematischem beruhe, und als ob die, zum Theil selbst falschen und einseitigen Messungen, so wie die in die Folgerungen hineingebrachten quantitativen Bestimmungen irgend einen Grund für die Theorie und die Natur der Sache selbst abgäben, ja selbst nur den Namen von Mathematik verdienten.
+
+Ein Hauptgrund, warum die, eben so klare als gründliche und gelehrte, Göthe'sche Beleuchtung dieser Finsterniß im Lichte, nicht eine wirksamere Aufnahme erlangt hat, ist ohne Zweifel dieser, weil die Gedankenlosigkeit und Einfältigkeit, die man eingestehen sollte, gar zu groß ist. Statt daß sich diese ungereimten Vorstellungen vermindert hätten, sind sie in den neuesten Zeiten auf die Malusschen Entdeckungen, noch durch die Polarisation des Lichts, und gar durch die Viereckigkeit der Sonnenstrahlen, durch eine links rotirende Bewegung rother und eine [orig. 307] rechts rotirende blauer Lichtkügelchen, durch die wieder aufgenommenen Newtonischen Fits, die accès de facile transmission und accès [p. 249] de facile reflexion und weiteren metaphysischen Galimathias vermehrt worden. Ein Theil dieser Vorstellungen entsprang auch hier aus der Anwendung von Differential-Formeln auf Farbenerscheinungen, indem die guten Bedeutungen, welche Glieder dieser Formeln in der Mechanik haben, unstatthafter Weise auf Bestimmungen eines ganz andern Feldes übergetragen worden sind.
+
+## β.
+
+## DER UNTERSCHIED AN DER INDIVIDUALITÄT.
+
+1) Geruch.
+
+§. 321.
+
+Das indifferente Finstre, die Metallität, ist das chemisch-brennbare, (oxidirbare) d. i. es wird durch ein Aeußeres (Feuer, Sauerstoff u.s.f.) in die Differenz gesetzt. Aber in der Selbstständigkeit der Gestalt ist das Fürsichseyn im Gegensatze einerseits noch nicht in realer praktischer, sondern in theoretischer Existenz, Eigenschaft des Körpers, - ferner nicht mehr mechanische Sprödigkeit, sondern als physische sich auf sich beziehende Negativität, Brennlichkeit in sich selbst; - andererseits als Moment des Gegensatzes auch different nach Außen, aber gegen das Negative, als elementarische, abstracte Allgemeinheit, die Luft, das unscheinbar verzehrende (§. 282.). – Der Geruch ist der abstracte specifische Proceß des individuellen Körpers, seine specifische Individualität als einfacher Proceß des Fürsichseyns, unscheinbare Verflüchtigung.
+
+Die Eigenschaft des Geruchs der Körper, als für sich existirende Materie (§. 316.), der Riechstoff, [orig. 308] ist Öl, das als Flamme verbrennende. Aber das Riechen existirt auch nur als bloße Eigenschaft, in dem eckelhaften Geruche des Metalls.
+
+2) Geschmack. §. 322.
+
+Das andere Moment des Gegensatzes, das als besonderes existirend in die Neutralität zusammenfällt (§. 284.), individualisirt sich zur bestimmten physischen [p. 250] Neutralität der Salzigkeit und deren Bestimmungen, Säure u.s.f. - zum Geschmack. Als differente Bestimmung zugleich ist er das Verhältniß zum Elemente, der abstracten Neutralität des Wassers. Als nur neutral ist der Körper trennbar in Bestandtheile, darum lösbar im Wasser. Indem der Geschmack existirt, der Körper geschmeckt wird, wird er in den reellen Proceß seiner Auflösung gezogen, so wie die abstracte Neutralität in ihm selbst von den physischen Bestandtheilen seiner concreten Neutralität trennbar, und als Krystallisations-Wasser darstellbar ist, welches aber in der Einheit mit dem Concreten desselben, als Krystall, nicht als Wasser existirt. (§. 286. Anm.)
+
+γ
+
+## DIE TOTALE INDIVIDUALITÄT; ELECTRICITÄT.
+
+§. 323.
+
+Der gestaltete Körper steht nach den besondern Momenten seiner Totalität zu den Elementen in Beziehung, aber als Totalitäten sind sie zugleich wesentlich besondere, und treten daher als einzelne in Verhältniß zu einander, und zwar außer dem mechanischen Verhalten als besondere, physikalische Individualitäten. Als Selbstständige erhalten sie sich gleichgültig gegen einander; wie sie im mechanischen Verhältnisse ihr Selbst in ideeller [orig. 309] Bewegung als ein Schwingen in sich als Klang kund thun, so treten sie nun in der Spannung gegen einander mit reeller Selbstischkeit, aber zugleich mit abstracter Realität, im electrischen Verhältnisse auf.
+
+§. 324.
+
+Die Berührung setzt die Differenz des andern in jeden; das Fürsichseyn, das sie darin manifestiren, ist, weil sie zugleich selbstständig gegen einander bleiben, eine entgegengesetzte Spannung. In diese tritt deswegen nicht die Natur des Körpers in ihrer ganzen Bestimmtheit ein, sondern es ist nur als Realität seines abstracten Selbst's, ein Licht, und zwar ein entgegengesetztes, wie das Fürsichseyn hier sich producirt. – Die Aufhebung der Diremtion, das andere Moment dieses Processes, hat ein indifferentes Licht zum Product, das als körperlos unmittelbar verschwindet, außer dieser abstracten physikalischen Erscheinung daher vornehmlich nur die mechanische Wirkung der Erschütterung hat.
+
+Was die Schwierigkeit beim Begriffe der Electricität ausmacht, ist die Grundbestimmung von der ebenso physischen als mechanischen Trägheit [p. 251] des Körperindividuums. Daher wird solche Spannung, wie die electrische, einem Andern, einer Materie, zugeschrieben, welcher das reine Selbst des Körpers, das Licht, angehöre. Solche Vorstellung liegt um so näher, als nur das abstracte Licht, verschieden von der concreten Realität des Körpers, welche in ihrer Selbstständigkeit bleibt, hervortritt. Es findet hier (wie §. 306.) ein Entstehen des Lichtes statt, aber eines differenten.
+
+Bekanntlich ist der frühere an eine bestimmte sinnliche Existenz gebundene Unterschied von Glas- und Harz-Electricität durch die vervollständigte Empirie in den Gedankenunterschied von positiver und negativer Electricität idealisirt worden; ein merkwürdiges Beispiel, wie die Empirie, die zunächst das | Allgemeine in sinnlicher Form fassen und festhalten will, ihr Sinnliches selbst aufhebt. Wenn in neuern Zeiten viel von der Polarisation des Lichts die Rede geworden ist, so wäre mit größerem Rechte dieser Ausdruck für die Electricität aufbehalten worden, als für die Malusschen Erscheinungen, wo durchsichtige Medien, spiegelnde Oberflächen und die verschiedenen Stellungen derselben zu einander, und viele anderweitige Umstände es sind, welche einen Unterschied am Scheinen des Lichtes hervorbringen, aber nicht einen an ihm selbst. Die Bedingungen, unter welchen die positive und die negative Electricität hervortreten, die glättere oder mattere Oberfläche z. B., ein Hauch und so fort, beweisen die Oberflächlichkeit des electrischen Processes und wie wenig darein die concrete physikalische Natur des Körpers eingeht. Ebenso zeigen die schwache Färbung der beiden electrischen Lichter, Geruch, Geschmack, nur den Beginn einer Körperlichkeit an dem abstracten Selbst des Lichts, in welchem sich der Proceß hält, der obgleich physisch doch nicht ein concreter Proceß ist. Die Negativität, welche das Aufheben der entgegengesetzten Spannung ist, ist hauptsächlich ein Schlag; das sich mit sich identisch setzende Selbst bleibt auch als solches in der äußerlichen Sphäre des Mechanismus stehen. Das Licht hat kaum einen Anfang sich zur Wärme zu materialisiren, und die Zündung, die aus der sogenannten Entladung entspringen kann, ist (Berthollet Statique Chimique. I. Partie, Sect. III. not. XI.) mehr eine directe Wirkung der Erschütterung, als die Folge einer Realisation des Lichtes zu Feuer. In sofern die beiden Electricitäten an verschiedenen Körpern getrennt von einander gehalten werden, so tritt, wie beim Magnetismus (§. 314.), die Bestimmung des Begriffs ein, das Entgegengesetzte identisch, und das Identische entgegen zu setzen. Diese Thätigkeit ist einerseits räumlich, Anziehen und Abstoßen, mechanische Thätigkeit, welche, in sofern sie isolirt werden kann, den Zusammenhang mit dem Magnetismus als solchem begründet, andererseits physisch in den [p. 252] interessanten Erscheinungen der Mittheilung der Electricität als solcher oder Leitung, und als Vertheilung.
+
+§. 325.
+
+Die Besonderung des individuellen Körpers bleibt aber nicht bei der blos trägen Verschiedenheit und Selbstthätigkeit der Verschiedenen stehen, noch bei der Entgegensetzung nur als Spannung und Differenz der abstracten reinen Selbstischkeit. Sondern da die besondern Eigenschaften nur die Realität dieses einfachen Begriffes, der Leib ihrer Seele, des Lichtes, sind, so geht die ganze Körperlichkeit in die Spannung und in den Proceß ein, welcher zugleich die Bildung des individuellen Körpers ist, und die Gestalt, welche zunächst nur aus dem Begriffe hervorging, somit nur an sich gesetzt war, geht nun auch aus dem existirenden Processe hervor; der chemische Proceß.
+
+## C.
+
+## DER CHEMISCHE PROCESS.
+
+§. 326.
+
+Die Individualität in ihrer entwickelten Totalität ist die Beziehung ihrer so bestimmten Momente, daß diese selbst individuelle Totalitäten, aber als Momente, different gegen einander bestimmte sind. Diese Beziehung als die Identität nicht identischer, selbstständiger Körper ist der Widerspruch, somit wesentlich Proceß, der dem Begriffe gemäß die Bestimmung hat, das Unterschiedene identisch zu setzen, und das Identische zu differentiiren es zu begeisten und zu scheiden. [orig. 312]
+
+§. 327.
+
+Der formale Proceß ist eine Verbindung blos Verschiedener, nicht Entgegengesetzter (er ist Synsomatie genannt worden). Um der bloßen Verschiedenheit willen bedarf es keines existirenden Dritten, in welchem sie als ihrer Mitte an sich Eines wären; ihre Verbindung oder Scheidung hat die Weise der Unmittelbarkeit, und verändert nur die Bestimmungen ihrer specifischen Schwere, Härte, Cohäsion, Schmelzbarkeit, Farbe u.s.f. Zu den Verbindungen chemisch [p. 253] gegen einander unbegeisteter Körper gehört die Amalgamation und sonstiges Zusammenschmelzen von Metallen, Vermischung von Säuren mit einander und derselben, des Alkohols u.s.f. mit Wasser und dergleichen mehr.
+
+§. 328.
+
+Der reale Proceß aber bezieht sich zugleich auf die chemische Differenz (§. 200.ff.), indem er zugleich die Veränderung der specifischen Schwere u.s.f. (s. vorherg. §.), die ganze concrete Totalität des Körpers in sich befaßt (§. 325.). Die Körper, die so in den realen Proceß eintreten, sind als zugleich selbstständig seynsollend, in einem Dritten, von ihnen Verschiedenen, vermittelt, welches aus dem Grunde nur die abstracte, an sich seyende Einheit jener concreten Extreme ist. Dieses Dritte sind daher nur Elemente und zwar selbst verschieden als theils des Vereinens, aber nur als Neutralität, das Wasser, theils des Differentiirens und Scheidens, die Luft. Das Scheiden und Neutralisiren des Processes ist damit ebenso ein Gedoppeltes, das Scheiden einmal Zerlegen der neutralen Körperlichkeit in körperliche Bestandtheile, das andremal Differentiiren der abstracten physischen Elemente, in die vier noch abstractern chemischen Momente des Stickstoffs, Sauerstoffs, Wasserstoffs und Kohlenstoffs, welche zusammen die Totalität des Begriffs [orig. 313] ausmachen und nach dessen Momenten bestimmt sind. Hienach haben die chemischen Elemente, 1) die Abstraction der Indifferenz, der Stickstoff, und 2) die beiden des Gegensatzes, der für sich seyenden Differenz, der Sauerstoff, das Brennende, und der dem Gegensatze angehörigen Indifferenz, der Wasserstoff, das Brennbare, 3) die Abstraction ihres individuellen Elements, der Kohlenstoff.
+
+Ebenso ist das Vereinen das einemal Neutralisiren concreter Körperlichkeiten, das andremal jener abstracten chemischen Elemente. So sehr ferner die concrete und die abstracte Bestimmung des Processes verschieden ist, so sehr sind beide zugleich vereinigt, denn die physischen Elemente sind als die Mitte der Extreme das, aus dessen Differenzen die gleichgültigen concreten Körperlichkeiten begeistet werden.
+
+§. 329.
+
+Der Proceß ist zwar abstract dies, die Identität des Urtheilens und des In-Eins-setzens der Unterschiedenen zu seyn, und als Verlauf ist er in sich [p. 254] zurückkehrende Totalität. Aber seine Endlichkeit, daß seinen Momenten auch die Selbstständigkeit zukommt, enthält damit dies, daß er unmittelbare Körperlichkeiten zu seiner Voraussetzung hat, welche aber eben so sehr nur seine Producte sind. Mit dieser Unmittelbarkeit aber fallen die Momente seines Verlaufs selbst als Unmittelbare und Verschiedene auseinander, und sein Verlauf als reale Totalität wird ein Kreis besonderer Processe, deren jeder den andern zur Voraussetzung hat, aber für sich seinen Anfang und zwar von Außen nimmt, und in seinem besondern Product erlischt, ohne sich aus sich in den Proceß, der das weitere Moment der Totalität ist, fortzusetzen und immanent darein überzugehen.
+
+Die zwei Gänge des Verlaufs sind, 1) vom indifferenten Körper aus durch seine Begeistung zur Neutralität, [orig. 314] und 2) von dieser Vereinung zurück zur Scheidung in indifferente Körper.
+
+## 1.
+
+## VEREINUNG.
+
+§. 330.
+
+a) Galvanismus.
+
+Mit der dem Begriffe nach oder an sich unmittelbaren, damit indifferenten Körperlichkeit, welche die unterschiedenen Eigenschaften, die sonst zur Existenz von Materien gebracht werden können, in die einfache Bestimmung der specifischen Schwere zusammengeeint hält, ist der Anfang des Processes zu machen, der Metallität. Durch diese gediegene Einheit, an sich seyende Flüssigkeit (Wärme-Electricitäts-Leitungsfähigkeit) theilen verschiedene Metalle ihre immanente Bestimmtheit und Differenz einander mit, und als selbstständig zugleich treten sie in Spannung gegen einander, welche so noch electrisch ist, aber indem sie durch das neutrale Medium des Wassers in Verbindung mit der Luft sich materialisiren, die Differenz sich realisiren kann, so ist damit chemischer Proceß und zwar in seiner einfachsten Bestimmung gesetzt; sein Product ist zunächst Oxidirung überhaupt; Erden (- Desoxidirung oder Hydrogenation [wenn es so weit geht oder wenigstens Entwicklung von Hydrogengas gehört ebenfalls zum Setzen der chemischen Differenz auf dem Grade des Oxids).
+
+Die Physik obstinirt sich, im Galvanismus, auch in sofern er als Proceß existirt, nur Electricität zu sehen, so daß der Unterschied der Extreme und der Mitte des Schlusses zu einem bloßen Unterschiede von trocknen und [p. 255] feuchten Leitern wird. - Es ist nicht nöthig, hier auf nähere Modificationen Rücksicht zu nehmen, daß die Extreme auch differente Flüssigkeiten seyn können und die Mitte ein Metall, daß die Thätigkeit lebhafter wird, wenn zu jener Mitte zwischen den Metallen nicht blos destillirtes Wasser, sondern eine Säure, Kalisches und sonstiges auf irgend eine Weise mehr Differentes genommen wird, daß theils die Form der Electrizität (wie im Paragraph angegeben) festgehalten, theils das einemal besonders vorherrschend, das andremal die chemische Wirksamkeit verstärkt werden kann u.s.f. Die Betrachtung des Wassers als bloßen Leiters der Electricität - mit der Erfahrung der schwächern Wirkung der Säule mit solcher Mitte als mit andern Mitteln, hat die originelle Consequenz hervorgebracht, daß (Biot Traité de Phys. Tom. II. p. 506.) l'eau pure, qui transmet une électricité forte, telle que celle que nous excitons par nos machines ordinaires, devient presqu' isolante pour les faibles forces de l'appareil électromoteur (so heißt in dieser Theorie die Voltaische Säule). Es ist nicht, als ob die Schwäche der Electricität das Wasser als isolirend, das hieße, als sie nicht zur Erscheinung bringend, zeigte; daß sie nicht schwach sey, zeigt sich bei andern sogenannten feuchten Leitern. Zu der Kühnheit, das Wasser zu einem Isolator der Electricität zu machen, kann nur die Hartnäckigkeit der Theorie, die sich selbst durch eine solche Consequenz nicht erschüttern läßt, bringen.
+
+§. 331.
+
+β) Feuerprocев.
+
+Die im vorigen Processe nur an sich seyende Thätigkeit für sich gesetzt ist das Feuer, wodurch das an sich Verbrennliche (wie Schwefel) befeuert, überhaupt das in noch gleichgültiger abgestumpfter Differenz (wie in Neutralität) befindliche zu der chemischen Entgegensetzung, der Säure und [des] (kaustischen) Kalischen begeistet wird. |
+
+§. 332.
+
+γ) Neutralisation, Wasserproceß.
+
+Dies so Differente ist seinem Andern schlechthin entgegengesetzt, und dies ist seine Qualität, so daß es wesentlich nur ist in seiner Beziehung auf dies Andere, [p. 256] daß daher seine selbstständige, getrennte Existenz nur ein gewaltsamer Zustand, und es in seiner Einseitigkeit, an ihm selbst der Proceß ist, sich mit dem Negativen seiner identisch zu setzen. Das Product ist das concrete Neutrale, Salz.
+
+§. 333.
+
+8) Der Proceß in seiner Totalität.
+
+Diese neutralen Körper, in Beziehung zu einander tretend, bilden den vollständig realen chemischen Proceß, da er zu seinen Seiten solche reale Körper hat. Zu ihrer Vermittlung bedürfen sie des Wassers, als des abstracten Mediums der Neutralität. Aber da beide neutral für sich sind, sind sie so in keiner Differenz gegen einander. Es tritt hier, in sofern sie real Verschiedene sind, die Particularisation der allgemeinen Neutralität und damit ebenso die Besonderung der Differenzen der chemisch-begeisteten Körper gegen einander ein, die sogenannte Wahlverwandtschaft, Bildung anderer besonderer Neutralitäten durch
+
+Trennung vorhandener.
+
+Der wichtigste Schritt zur Vereinfachung der Particularitäten in den Wahlverwandtschaften ist durch das von Richter und Guiton Morveau gefundene Gesetz geschehen, daß neutrale Verbindungen keine Veränderung in Ansehung des Zustandes der Sättigung erleiden, wenn sie durch die Auflösung vermischt werden und die Säuren ihre Basen gegen einander vertauschen. Es hängt damit die Scale der Quantitäten von Säuren und Alcalien zusammen, nach welcher jede einzelne Säure für ihre Sättigung zu jedem Alcalischen ein besonderes Verhältniß hat, so aber daß [orig. 317] für jede andere Säure, deren quantitative Einheit nur von der der übrigen verschieden ist, nunmehr die Alcalien unter einander dasselbe Verhältniß zu deren Sättigung haben, als zu den übrigen Säuren, somit auch die Säuren ein constantes Verhältniß unter sich gegen jedes verschiedene Kalische zeigen.
+
+Uebrigens ist die Wahlverwandtschaft hieselbst nur abstracte Beziehung der Säure auf die Base. Aber der chemische überhaupt und insbesondre der neutrale Körper ist zugleich concreter physischer Körper von bestimmter specifischer Schwere, Cohäsion, Temperatur u.s.f. Diese eigentlich physischen Eigenschaften und deren Veränderungen im Processe (§. 328.) treten in Verhältniß zu den chemischen Momenten desselben, erschweren, hindern [p. 257] oder erleichtern, modificiren deren Wirksamkeit. Berthollet in seinem berühmten Werke Statique chimique hat die Umstände zusammengestellt und untersucht, welche in die Resultate der chemischen Action eine Veränderung bringen, Resultate, die häufig nur nach der einseitigen Bedingung der Wahlverwandtschaft bestimmt werden. Er sagt, die Oberflächlichkeit, welche die Wissenschaft durch diese Erklärungen erhält, sieht man vornehmlich für Fortschritte derselben an.
+
+## 2.
+
+## SCHEIDUNG.
+
+§. 334.
+
+In der Auflösung des Neutralen beginnt der Rückgang zu den besondern chemischen bis zu den indifferenten Körpern. Daß aber solche hervortreten, ist bedingt durch die Voraussetzung von abstracten Agentien (- einer Säure, nicht eines Neutralen auf ein Neutrales) eine Voraussetzung, die in der endlichen Natur des chemischen Processes, des zugleich selbstständigen Bestehens seiner differenten Körper, liegt. Aber überhaupt ist jede solche [orig. 318] Scheidung selbst untrennbar mit einer Vereinung verknüpft, und ebenso enthalten auch die Momente, welche als dem Gange der Vereinigung angehörig angegeben worden, unmittelbar zugleich das andre Moment der Scheidung. Die Bestimmung für die eigenthümliche Stelle, welche jede besondre Form des Processes einnimmt, so für das Specifische unter dessen Producten, liegt in der Bestimmung einerseits des concreten Agens, und andererseits des concreten Products, das aus dem Processe hervorgeht.
+
+In der empirischen Chemie ist es hauptsächlich um die Particularität der Stoffe und Producte zu thun, welche nach oberflächlichen abstracten Bestimmungen zusammengestellt werden, so daß damit in ihre Particularität keine Ordnung kommt. In jener Zusammenstellung erscheinen Metalle, Sauerstoff, Wasserstoff u.s.f., Schwefel, Phosphor als einfache chemische Körper nebeneinander auf gleicher Linie. Sogleich muß die so große physikalische Verschiedenheit dieser Körper gegen solches Coordiniren Abneigung erwecken; eben so verschieden aber zeigt sich auch ihr chemischer Ursprung, der Proceß aus dem sie hervorgehen. Allein gleich chaotisch werden abstractere und reellere Processe auf gleiche Stufe gesetzt. Wenn hierein wissenschaftliche Form kommen soll, so ist jedes Product nach der Stufe des [p. 258] Processes zu bestimmen, aus der es wesentlich hervorgeht, und die ihm seine eigenthümliche Bedeutung gibt; und hiefür ist ebenso wesentlich, die Stufen der Abstraction oder Realität des Processes zu unterscheiden. Animalische und vegetabilische Substanzen gehören ohnehin einer ganz andern Ordnung an, und ihre Natur kann so wenig aus dem chemischen Processe begriffen werden, daß sie vielmehr dadurch zerstört, und nur der Weg ihres Todes darin erfaßt wird. Diese Substanzen sollten jedoch am meisten dienen, der Metaphysik, welche in der Chemie wie in der Physik herrschend [orig. 319] ist, nämlich den Gedanken oder vielmehr wüsten Vorstellungen von Unveränderlichkeit der Stoffe unter allen Umständen, von der Zusammensetzung und dem Bestehen der Körper aus ihnen, entgegen zu wirken. Allein wir sehen überhaupt zugegeben, daß die chemischen Stoffe in der Vereinigung die Eigenschaften verlieren, die sie in der Trennung zeigen, und doch die Vorstellung gelten, daß sie ohne die Eigenschaften dieselben Dinge, welche sie mit denselben sind, und als Dinge mit diesen Eigenschaften nicht erst Producte des Processes seyen. Der noch indifferente Körper, das Metall, hat seine affirmative Bestimmung auf physische Weise, d. i. nach Eigenschaften, welche als unmittelbare an ihm erscheinen. Aber die weiter bestimmten Körper können nicht so vorausgesetzt werden, daß dann gesehen werde, wie sie sich im Processe verhalten, sondern sie haben ihre erste, wesentliche Bestimmung allein nach ihrer Stelle im chemischen Processe. Ein anderes ist ferner die empirische Particularität derselben, wie auch der Metalle nach dem Verhalten zu den andern besondern Körpern, für diese Kenntniß muß jeder dieselbe Litaney des Verhaltens zu allen Agentien durchlaufen. - Am auffallendsten ist es in dieser Rücksicht, die vier chemischen Elemente in gleicher Linie mit Gold, Silber u.s.f., Schwefel u.s.f. als Stoffe aufgeführt zu sehen, als ob sie eine solche selbstständige Existenz wie jene Stoffe hätten. Sie sind vielmehr ganz allein dies, durch ihre Stelle im Processe bestimmt zu seyn, deren Unterordnung und Abstraction sich aus der nähern Betrachtung ergibt. Der Proceß hat nämlich als Schluß von Extremen, welche bei ihrer Differenz auch Selbstständigkeit haben, eine abstracte Mitte, welche in sich gebrochen ist (vergl. §. 208. Anm.) und zu der daher zwei Elemente gehören, - Wasser und Luft. An ihr, welche als Mittel preisgegeben wird, nehmen sich die Extreme die Existenz ihrer ursprünglichen, [orig. 320] nur erst an sich seyenden Differenz. Dies Moment der Differenz, so für sich zum Daseyn gebracht, macht das chemische Element, als vollkommen abstractes Moment aus. Statt Grundstoffe, [p. 259] substantielle Grundlagen zu seyn, wie man sich beim Ausdrucke: Element zunächst vorstellt, sind jene Materien vielmehr die extremsten Spitzen der Differenz.
+
+Es ist hiebei, wie überhaupt, der chemische Proceß in seiner vollständigen Totalität zu nehmen. Seine Endlichkeit läßt es zu, besondere Theile, formelle Processe zu isoliren (wie z. B. Phosphor in Sauerstoffgas gesetzt). Dies führt auf die nur abstracte Vorstellung vom chemischen Processe als blos der Einwirkung eines Stoffes auf einen Andern, wobei das viele Andere, das sich begiebt (wie allenthalben Wassererzeugung, Gasentwicklung), als fast Nebensache oder zufällige Folge, oder wenigstens nur äußerlich verbunden erscheint, nicht als wesentliches Moment im Verhältnisse des Ganzen betrachtet wird. So sind die angegebenen besondern Processe des totalen Processes längst als der trockne und nasse Weg (wozu der galvanische noch hinzugesetzt werden müßte) bezeichnet worden. Ihr Verhältniß ist aber bestimmter zu fassen, als nur nach dem oberflächlichen Unterschiede des Trocknen und Nassen, welcher für die Natur der Körper nichts bestimmendes enthält; und da sie sich als Fortgang der Bestimmung und als Rückgang zum Unbestimmten zu einander verhalten, ohnehin äußerlicher Weise eine Menge derselben Producte liefern.
+
+Eine vollständige Auseinandersetzung des chemischen Processes in seiner Totalität erfoderte aber näher, daß er als realer Schluß zugleich als die Dreiheit von innigst in einander greifenden Schlüssen explicirt würde – Schlüsse die zugleich nicht eine Verbindung überhaupt von ihren Terminis, sondern als Thätigkeiten Negationen von deren Bestimmungen sind. [orig. 321]
+
+§. 335.
+
+Der chemische Proceß ist zwar im Allgemeinen das Leben, wodurch der individuelle Körper in seiner Unmittelbarkeit ebenso aufgehoben als hervorgebracht wird, somit der Begriff nicht mehr innere Nothwendigkeit bleibt, sondern zur Erscheinung kommt. Es ist aber durch die Unmittelbarkeit der Körperlichkeiten, die in den chemischen Proceß eingehen, daß er mit der Trennung überhaupt, mit der Erscheinung seiner Momente als äußerlicher Bedingungen, mit dem Zerfallen des sich Scheidenden in gleichgültige Producte, und dem Erlöschen und Sich-nicht-wieder-anfachen des Feuers und der Begeistung im Neutralen, damit mit dem Zerfallen überhaupt in abgesonderte Producte, und der Verschiedenheit des Anfanges und Endes mit der Endlichkeit behaftet ist, welche ihn vom Leben abhält und unterscheidet.
+
+Es kann hiebei bemerkt werden, daß chemische Erscheinungen, z. B. daß im Processe ein Oxid auf einen niedrigern Grad der Oxidation herabgesetzt, [p. 260] auf dem es sich mit der einwirkenden Säure verbinden kann, und ein Theil dagegen stärker oxidirt wird, die Chemie veranlassen, schon hier die Bestimmung der Zweckmäßigkeit bei der Erklärung anzuwenden, einer anfänglichen Selbstbestimmung des Begriffs in seiner Realisation, so daß diese nicht allein durch die äußerlich vorhandenen Bedingungen determinirt ist.
+
+§. 336.
+
+Es ist aber der chemische Proceß selbst dies, jene Unmittelbarkeit als negirte zu setzen, und die Eigenschaften der Körper als Bestimmungen, welche als Resultate einer besondern Stufe des Processes erscheinen, zugleich auf einer andern zu verändern; was in ihm so im Allgemeinen gesetzt wird, ist die Relativität dieser Eigenschaften. Das gleichgültig-bestehende Körperliche ist dadurch nur als Moment der Individualität gesetzt, und der Begriff hat damit die ihm entsprechende Realität erlangt; die in Einem, aus der Besonderung der unterschiedenen Körperlichkeiten sich hervorbringende concrete Einheit mit sich, welche eben so sehr diese ihre einseitige Form der Beziehung auf sich oder der Unmittelbarkeit negirt, und sich in die Momente des Begriffs dirimirt und besondert, so der unendliche sich selbst anfachende und unterhaltende Proceß, der Organismus. [orig. 322]
+
+## [p. 261] ORGANIK
+
+## DRITTE ABTHEILUNG DER NATURPHILOSOPHIE.
+
+## ORGANISCHE PHYSIK.
+
+§. 337.
+
+Die reelle Totalität des individuellen Körpers, als dieser unendliche, sich zur Besonderheit oder Endlichkeit bestimmende und dieselbe ebenso negirende Proceß hat sich damit in die erste Idealität der Natur erhoben, so daß sie aber eine erfüllte und wesentlich, als sich auf sich beziehende negative Einheit, selbstische und subjective geworden ist. Die Idee ist somit zur Existenz gekommen, zunächst zur unmittelbaren, zum Leben. Dieses ist a. als Gestalt, das allgemeine Bild des Lebens, der geologische Organismus; b. als besondere oder formelle Subjectivität, die vegetabilische; c. als einzelne concrete Subjectivität, animalische Natur.
+
+## A.
+
+## DIE GEOLOGISCHE NATUR.
+
+§. 338.
+
+Der erste Organismus ist der unmittelbare; aber als unmittelbarer existirt er nicht als lebendiger; [orig. 324] denn das Leben ist (s. vorh. §.) als Proceß wesentlich sich mit sich vermittelnde Thätigkeit. – Oder vom Leben aus betrachtet, so ist dies sein erstes Moment der Besonderung, sich zu seiner Voraussetzung zu machen, und sich so die Weise der Unmittelbarkeit zu geben. Diese von der subjectiven Totalität sich selbst vorausgesetzte, unmittelbare Totalität ist nur die Gestalt des Organismus – der Erdkörper als das allgemeine System der individuellen Körper.
+
+§. 339.
+
+Die Glieder dieses Organismus enthalten daher nicht den Lebens-Proceß in sich selbst, sie machen ein System aus, dessen Gebilde die Entfaltung einer zum [p. 262] Grunde liegenden Idee darstellen, dessen Bildungsproceß aber ein vergangener ist. Die Mächte dieses Processes, welche die Natur jenseits der Erde als Selbstständigkeiten zurückläßt, sind der Zusammenhang und die Stellung der Erde im Sonnensystem, ihr solarisches, lunarisches und kometarisches Leben, die Neigung ihrer Achse auf die Bahn und die magnetische Achse. Zu diesen Achsen und deren Polarisation steht in näherer Beziehung die Vertheilung des Meers und des Lands, dessen zusammenhängende Ausbreitung im Norden, die Theilung und zugespitzte Verengerung der Theile gegen Süden, die weitere Absonderung in eine alte und in eine neue Welt, und die fernere Vertheilung von jener in die durch ihren physicalischen, organischen und anthropologischen Charakter unter einander und gegen die neue Welt verschiedenen Welttheile, an welche sich ein noch jüngerer und unreifer anschließt; – die Gebirgszüge u.s.f.
+
+§. 340.
+
+Die physicalische Organisirung beginnt als unmittelbar mit dem in sich zerfallenden Ausgangspunkt, in das entwickelt concrete granitische Princip, den eine Dreiheit der Bestimmungen in sich darstellenden Gebirgskern, und in das Kalkigte, den zur Neutralität reducirten Unterschied. Die Entwicklung des erstern Princips hat einen Stufengang, in welchem die weitern Gebilde theils Uebergänge und Modificationen sind, in denen die Totalität des Princips die existirende Grundlage, nur als in sich ungleicher und unförmlicher, bleibt; theils ein Auseinandertreten seiner Momente in bestimmtere Differenz und in abstractere mineralische Momente, die Metalle und die oryktognostischen Gegenstände überhaupt, bis sie sich in mechanischen Lagerungen und immanenter Gestaltung entbehrenden Aufschwemmungen verlieren. Hiemit geht die Fortbildung des andern, des neutralen Princips, theils als schwächere Umbildung zur Seite, theils greifen dann beide Principien in concrescirenden Bildungen bis zur äußern Vermischung in einander ein.
+
+§. 341.
+
+Dieser Krystall des Lebens, der todtliegende Organismus der Erde, der seinen Begriff im siderischen Zusammenhange außer sich, seinen eigenthümlichen Proceß aber als eine vorausgesetzte Vergangenheit hat, ist das unmittelbare Subject des meteorologischen Processes, durch welchen er als die an sich seyende Totalität des Lebens, nicht mehr nur zur individuellen Gestaltung, (s. §. 287.) sondern zur Lebendigkeit befruchtet wird. - Land und insbesondere das Meer, so als reale Möglichkeit des Lebens, schlägt allenthalben in punctuelle und [p. 263] vorübergehende Lebendigkeit aus; Flechten, Infusorien, unendliche Menge phosphorescirender Lebenspunkte im Meere. Die Generatio Aequivoca ist aber, als jenen objectiven Organismus außer ihr habend, eben dies, auf solches punctuelle, nicht sich in sich [orig. 326] zur bestimmten Gliederung entwickelnde, noch sich selbst reproducirende (ex ovo) beschränkt zu seyn.
+
+§. 342.
+
+Diese Trennung des allgemeinen, sich äußerlichen Organismus und dieser nur punctuellen, vorübergehenden Subjectivität hebt sich vermöge der an sich seyenden Identität ihres Begriffs zur Existenz dieser Identität, zum belebten Organismus, zur an ihr selbst sich gliedernden Subjectivität auf. [orig. 327]
+
+## B.
+
+## DIE VEGETABILISCHE NATUR.
+
+§. 343.
+
+Die Subjectivität, nach welcher das Organische als Einzelnes ist, entwickelt sich in einen objectiven Organismus, die Gestalt, als einen sich in von einander unterscheidende Theile gliedernden Leib. In der Pflanze als der nur erst unmittelbaren subjectiven Lebendigkeit ist der objective Organismus und die Subjectivität desselben noch unmittelbar identisch. Der Proceß der Gliederung und der Selbsterhaltung des vegetabilischen Subjects ist daher ein Außersichkommen und Zerfallen in mehrere Individuen, für welche das Eine ganze Individuum mehr nur der Boden als subjective Einheit von Gliedern ist. Ferner ist deswegen die Differenz der organischen Theile nur eine oberflächliche Metamorphose, und der eine kann leicht in die Function des andern übergehen.
+
+§. 344.
+
+Der Proceß der Gestaltung und der Reproduction des einzelnen Individuums fällt auf diese Weise mit dem Gattungsprocesse zusammen, und ist ein perennirendes Setzen neuer Individuen. Die selbstische Allgemeinheit, das subjective Eins der Individualität trennt sich nicht von der reellen Besonderung, sondern ist in sie nur versenkt. Die Pflanze hat daher keine Bewegung vom Platze, noch eine sich unterbrechende Intussusception, sondern eine continuirlich strömende [p. 264] Ernährung, sie verhält sich nicht [orig. 328] zu individualisirtem Unorganischen, sondern zu den allgemeinen Elementen; noch ist sie des Gefühls und animalischer Wärme fähig.
+
+§. 345.
+
+Als Organisches gliedert sich aber die Pflanze wesentlich auch in eine Unterschiedenheit von abstracten Gebilden (Zellen, Fasern und dergleichen) und von concreten Gebilden, die jedoch in ihrer ursprünglichen Homogeneität bleiben. Die Gestalt der Pflanze, als aus der Individualität noch nicht zur Subjectivität befreit, bleibt den geometrischen Formen und krystallinischer Regelmäßigkeit nahe. Der Lebensproceß, der die Einheit dreier Processe ist, tritt gleichfalls wesentlich in einen Unterschied derselben auseinander.
+
+Göthes Metamorphose der Pflanzen hat den Anfang eines vernünftigen Gedankens über die Natur der Pflanze gemacht, indem sie die Vorstellung aus der Bemühung um bloße Einzelnheiten zum Erkennen der Einheit des Lebens gerissen hat. Die Identität der Organe ist in der Kategorie der Metamorphose überwiegend; die bestimmte Differenz und die eigenthümliche Function der Glieder, wodurch der Lebensproceß gesetzt ist, ist die andere nothwendige Seite zu jener substantiellen Einheit. Die Physiologie der Pflanze erscheint nothwendig als dunkler, als die des thierischen Körpers, weil sie einfacher ist, und, obgleich die Producte chemischen Stoffen näher stehen, die Assimilation wenige Vermittlungen durchgeht und die Veränderung als unmittelbare Infection geschieht. Wie in allem natürlichen und geistigen Lebensproceß ist die Hauptsache in der Assimilation, wie in der Secretion, die substantielle Veränderung, d. i. die unmittelbare Verwandlung eines äußern oder besondern Stoffs überhaupt in einen andern; es tritt ein Punkt ein, wo die Verfolgung der Vermittlung, es sey in chemischer oder [orig. 329] in Weise der [mechanischen] Allmählichkeit abgebrochen und unmöglich wird. Dieser Punkt ist allenthalben und durchdringend, und Nicht-Kenntniß oder vielmehr das Nichtanerkennen dieser einfachen Identificirung so wie der einfachen Diremtion ist es, was eine Physiologie des Lebendigen unmöglich macht. Die interessantesten Aufschlüsse über die Physiologie der Pflanze leistet theils bereits, theils verspricht das Werk meines Collegen, des Hrn. Prof. C. H. Schultz (die Natur der lebendigen Pflanze, oder die Pfl. und Pflanzenreich I. Bd. Berlin 1823), das ich um so mehr hier anzuführen habe, als die in den folgenden Paragraphen angegebenen wenigen Grundzüge vornehmlich daraus geschöpft sind.
+
+[p. 265] §. 346.
+
+Der Proceß, welcher die Lebendigkeit ist, muß eben so sehr als er Einer ist, in die Dreiheit der Processe sich auseinander thun (§. 217-220.). 1) Der Gestaltungsproceß, der innere Proceß der Beziehung der Pflanze auf sich selbst ist nach der einfachen Natur des Vegetativen selbst sogleich Beziehung auf Aeußeres, und Entäußerung. Einerseits ist er der substantielle, die unmittelbare Verwandlung der Ernährungszuflüsse in die specifische Natur der Pflanzenart, und des Lebenssaftes in Gebilde. Andererseits als Vermittlung mit sich selbst a) beginnt der Proceß mit der zugleich nach Außen gerichteten Diremtion in Wurzel und Blatt, und der innern abstracten des allgemeinen Zellgewebes in die Holzfaser und die Lebensgefäße, deren jene gleichfalls nach Außen sich beziehen, diese den innern Kreislauf enthalten. Die hierin sich mit sich selbst vermittelnde Erhaltung ist ẞ) Wachsthum als Production neuer Bildungen, Diremtion in die abstracte Beziehung auf sich selbst, in die Verhärtung des Holzes (bis zur Versteinerung im Tabascher u. dergl.) und der andern Theile, und in die Rinde (das dauernde Blatt). [orig. 330] γ) Das Zusammennehmen der Selbsterhaltung in die Einheit ist nicht ein Zusammenschließen des Individuums mit sich selbst, sondern die Production eines neuen Pflanzenindividuums, der Knospe.
+
+§. 347.
+
+2) Der Gestaltungsproceß ist unmittelbar mit dem zweiten, dem nach Außen sich specificirenden Processe verknüpft. Der Saamen keimt nur von Außen erregt, und die Diremtion des Gestaltens in Wurzel und Blatt ist selbst Diremtion nach Außen in die Richtung nach Erde und Wasser, und in die nach Licht und Luft, in die Einsaugung des Wassers und in die durch Blatt und Rinde wie durch Licht und Luft vermittelte Assimilation desselben. Die Rückkehr-in-sich, in welcher die Assimilation sich beschließt, hat das Selbst nicht in innerer subjectiver Allgemeinheit gegen die Aeußerlichkeit, nicht ein Selbstgefühl zum Resultate. Die Pflanze wird vielmehr von dem Licht, als ihrem ihr äußerlichen Selbst hinausgerissen, rankt demselben entgegen, sich zur Vielheit von Individuen verzweigend. In sich nimmt sie sich aus ihm nur die specifische Befeurung und Bekräftigung, die Gewürzhaftigkeit, Geistigkeit des Geruchs, des Geschmacks, Glanz und Tiefe der Farbe, Gedrungenheit und Kräftigkeit der Gestalt.
+
+[p. 266] 3) Die Pflanze gebiert aber auch ihr Licht aus sich als ihr eignes Selbst, in der Blüthe, in welcher zunächst die neutrale, grüne Farbe zu einer specifischen bestimmt wird. Der Gattungsproceß als das Verhältniß des individuellen Selbst zum Selbst, hemmt als Rückkehr in sich das für sich angemessene Hinaussprossen von Knospe zu Knospe. Die Pflanze bringt es aber nicht zum Verhältniß des ganzen Individuums mit einem solchen, sondern nur zu einem mit ihrem Ganzen nicht zusammenfallenden Unterschiede, der hiemit nicht mehr als ein [orig. 331] Beginn und Andeutung des Gattungsprocesses ist. Der Keim ist hier für das eine und dasselbe Individuum anzusehen, dessen Lebendigkeit diesen Proceß durchläuft, und durch Rückkehr in sich ebenso sich erhalten hat, als zur Reife eines Saamens gediehen ist; - im Ganzen ein Ueberfluß, da der Gestaltungs- und der Assimilationsproceß schon selbst Reproduction, Production neuer Individuen ist.
+
+§. 349.
+
+Aber im Begriffe ist dieser Proceß als die mit sich selbst zusammengegangene Individualität die Allgemeinheit, in welcher die Pflanze die unmittelbare Einzelnheit und das Außereinander ihres organischen Lebens aufhebt, und dadurch den Uebergang in den höhern Organismus begründet. [orig. 332]
+
+## C.
+
+## DER THIERISCHE ORGANISMUS.
+
+§. 350.
+
+Die organische Individualität ist erst Subjectivität, in sofern ihre Einzelnheit nicht blos unmittelbare Wirklichkeit und damit eine Vielheit von Individuen, sondern ebenso aufgehoben und als concretes Moment der Allgemeinheit ist, die eigene Aeußerlichkeit der Gestalt zu Gliedern idealisirt ist, der Organismus in seinem Processe nach Außen die selbstische Sonne inwendig behält. Dies ist die animalische Natur, welche in der Wirklichkeit und Aeußerlichkeit der Einzelnheit, ebenso dagegen unmittelbar in sich reflectirtes Selbst der Einzelnheit, in sich seyende subjective Allgemeinheit ist.
+
+§. 351.
+
+Das Thier hat zufällige Selbstbewegung, weil seine Subjectivität, wie das Licht und Feuer, der Schwere entrissene Idealität, - eine freie Zeit ist, die, als der [p. 267] reellen Aeußerlichkeit entnommen, sich nach innerem Zufall aus sich selbst zum Orte bestimmt. Damit verbunden ist, daß das Thier Stimme hat, indem seine Subjectivität als wirkliche Idealität (Seele) die Herrschaft der abstracten Idealität von Zeit und Raum ist, und seine Selbstbewegung als ein freies Erzittern in sich selbst, darstellt; animalische Wärme, als fortdauernden Auflösungsproceß der Cohäsion in der fortdauernden Erhaltung der Gestalt; unterbrochene Intussusception; vornehmlich aber Gefühl, als die in | der Bestimmtheit sich unmittelbar allgemeine, einfach bei sich bleibende und erhaltende Individualität; die existirende Idealität des Bestimmtseyns.
+
+§. 352.
+
+Der thierische Organismus ist als lebendige Allgemeinheit der Begriff, welcher sich durch seine drei Bestimmungen verläuft, deren jede an sich dieselbe Totalität der substantiellen Einheit und zugleich nach der Formbestimmung das Uebergehen in die andern ist, so daß aus demselben sich die Totalität als existirend resultirt; nur als dieses sich reproducirende, nicht als seyendes, ist und erhält sich das Lebendige; es ist nur, indem es sich zu dem macht, was es ist; es ist vorausgehender Zweck, der selbst nur das Resultat ist. Der Organismus ist daher zu betrachten a. als die individuelle Idee, die in ihrem Begriff existirt und sich auf sich selbst bezieht, – die Gestalt; b. als Idee, die sich zu ihrem Andern, ihrer unorganischen Natur, verhält und sie ideell in sich setzt, die Assimilation; c. die Idee, als sich zum Andern, das selbst lebendiges Individuum ist, und damit im Andern zu sich selbst verhaltend, – Gattungsproceß.
+
+## a.
+
+## DIE GESTALT.
+
+§. 353.
+
+Die animalische Gestalt ist 1) der Begriff in seinen, nun daseyenden Bestimmungen. Das animalische Subject ist daher a) sein einfaches, allgemeines Insichseyn in seiner Aeußerlichkeit, wodurch die wirkliche Bestimmtheit unmittelbar als Besonderheit in das Allgemeine aufgenommen und dieses dadurch ungetrennte Identität des Subjects mit sich selbst in jener ist, Sensibilität; β) Besonderheit, als Reizbarkeit von Außen und aus dem aufnehmenden Subjecte kommende Rückwirkung dagegen nach Außen, - Irritabilität; γ) die Einheit dieser Momente, die negative Rückkehr zu sich selbst aus dem [p. 268] Verhältnisse der Aeußerlichkeit und dadurch Erzeugung und Setzen seiner als eines Einzelnen, Reproduction; die Realität und Grundlage der erstern Momente.
+
+§. 354.
+
+Diese drei Momente des Begriffs haben für sich ihre Realität in den drei Systemen, dem Nerven-, Blut- und Verdauungssystem, deren jedes als Totalität sich nach denselben Begriffsbestimmungen in sich unterscheidet.
+
+a. Das System der Sensibilität bestimmt sich so a) zu dem Extreme der abstracten Beziehung ihrer selbst auf sich selbst, die ein Uebergehen in die Unmittelbarkeit und Empfindungslosigkeit ist, Knochensystem, dessen Unmittelbarkeit gegen das Innere zu nur Umhüllung seyn kann, nach Außen der feste Halt des Innern gegen das Aeußere, ẞ) zu dem (Seite der Irritabilität) System des Gehirns mit den Nerven ebenso nach Innen Nerven der Empfindung, nach Außen des Bewegens, γ) zu dem der Reproduction angehörenden System, dem sympathetischen Nerven mit den Ganglien, worein nur dumpfes, unbestimmtes und willenloses Selbstgefühl fällt.
+
+b. Die Irritabilität ist eben so sehr Reizbarkeit durch Anderes und die Selbsterhaltung dagegen durch Rückwirkung, als umgekehrt actives Selbsterhalten und darin sich Anderem preis geben. Ihr System ist a) abstracte (sensible) Irritabilität, die einfache Veränderung der Receptivität in Reactivität, Muskel überhaupt; dann dessen Differentiirung zum Streck- und Beugemuskel, welcher an dem Knochengerüste den Halt (unmittelbare Beziehung auf sich für seine Entzweiung) aber äußerlich gewinnend, sich ferner zum eigenthümlichen Systeme der Extremitäten ausbildet. ẞ) In realem Unterschiede sich concret auf sich beziehend und sich in sich haltend, ist die Activität in sich, Pulsiren, lebendige Selbstbewegung, deren Materielles nur eine Flüssigkeit, das lebendige Blut seyn kann, - und Kreislauf, der zunächst zur Besonderheit, von der er herkommt, specificirt, daher an ihm selbst ein gedoppelter und hierin zugleich nach Außen gerichteter ist, als Lungen- und Pfortader-System, in deren jenem das Blut sich in sich selbst, in diesem andern gegen Anderes befeuert. γ) Das allgemeine Pulsiren, von dem Mittelpunkte des Herzens aus in der Differenz der Arterien und Venen in sich zurückkehrender Kreislauf, der ebenso immanenter Proceß, als ein allgemeines Preisgeben an die Reproduction der übrigen Glieder, daß sie aus dem Blute sich ihre Nahrung nehmen, ist.
+
+[p. 269] c. Das Verdauungssystem ist als Drüsensystem mit Haut und Zellgewebe die unmittelbare, vegetative, in dem eigentlichen Systeme der Eingeweide aber die vermittelnde Reproduction.
+
+§. 355.
+
+2) Das Thier ist hiedurch für sich a) in die Centra von drei Systemen abgetheilt, (insectum) Kopf, Brust und Unterleib, wozu die Extremitäten zur mechanischen Bewegung und Ergreifung das Moment der sich nach Außen unterschieden setzenden Einzelnheit ausmachen. ẞ) Die Gestalt als Ganzes unterscheidet sich in die zwei Richtungen nach Innen und nach Außen; Jedem ist aus jedem der vorher bestimmten Systeme die eine nach Innen, die andere nach Außen gehende Seite zugetheilt. Die nach Außen gehende Richtung stellt als die differente, an ihr selbst diese Differenz durch die symmetrische Zweiheit ihrer Organe und Glieder dar - (Bichats vie organique et animale). γ) Das Ganze als Ein selbstständiges Individuum ist in dieser sich auf sich beziehenden [orig. 336] Allgemeinheit, im Geschlechts-Verhältnisse, selbst nur im Verhältnisse zu einem andern Individuum.
+
+§. 356.
+
+3) Die lebendige Gestalt ist wesentlich Proceß und zwar ist sie als solche der abstracte der lebendigen Einzelnheit, der Gestaltungsproceß innerhalb ihrer selbst, in welchem der Organismus seine eigene Glieder zu seiner unorganischen Natur, zu Mitteln macht, aus sich zehrt, und sich, d. i. eben diese Totalität der Gegliederung, selbst producirt, so daß jedes Glied wechselseitig Zweck und Mittel, aus den andern und gegen sie sich erhält; - der Proceß, der das einfache unmittelbare Selbstgefühl zum Resultate hat.
+
+## b. DIE ASSIMILATION.
+
+§. 357.
+
+Das Selbstgefühl der Einzelnheit ist in seiner negativen Rückkehr in sich, unmittelbar ausschließend und sich gegen eine unorganische Natur als gegen eine reale und äußerliche spannend. Indem [p. 270] a) die thierische Organisation in dieser äußerlichen Beziehung unmittelbar in sich reflectirt ist, so ist dies ideelle Verhalten der theoretische Proceß, die Sensibilität als äußerer Proceß, und zwar das bestimmte Gefühl, welches sich in die Vielsinnigkeit der unorganischen Natur unterscheidet.
+
+§. 358.
+
+Die Sinne und die theoretischen Processe sind daher 1) der Sinn der mechanischen Sphäre, - der Schwere, der Cohäsion und ihrer Veränderung, der Wärme, das Gefühl als solches; 2) die Sinne des Gegensatzes, der besonderten Luftigkeit, und der gleichfalls realisirten [orig. 337] Neutralität des concreten Wassers und der Gegensätze der Auflösung der concreten Neutralität - Geruch und Geschmack. 3) Der Sinn der Idealität ist gleichfalls ein gedoppelter, in sofern in ihr als abstracter Beziehung auf sich die Besonderung, die ihr nicht fehlen kann, in zwei gleichgültige Bestimmungen auseinander fällt (vrgl. §. 340.); a) der Sinn der Idealität als Manifestation des Aeußerlichen für Aeußerliches - des Lichtes überhaupt und näher des in der concreten Aeußerlichkeit bestimmt werdenden Lichtes, der Farbe; und ẞ) der Sinn der Manifestation der Innerlichkeit, die sich als solche in ihrer Aeußerung kund gibt, - des Tones; Gesicht und Gehör.
+
+Es ist hier die Art angegeben, wie die Dreiheit der Begriffsmomente in eine Fünfheit der Zahl nach übergeht; der allgemeinere Grund, daß dieser Uebergang hier Statt findet, ist, daß der thierische Organismus die Reduction der außereinander gefallenen unorganischen Natur in die unendliche Einheit der Subjectivität, aber in dieser zugleich ihre entwickelte Totalität ist, deren Momente, weil sie noch natürliche Subjectivität ist, besonders existiren.
+
+§. 359.
+
+β) Der reelle Proceß oder das practische Verhältniß zu der unorganischen Natur beginnt gleichfalls mit dem Gefühl, nämlich dem Gefühle von Aeußerlichkeit, und hiemit der Negation des Subjects, welches zugleich die positive Beziehung auf sich selbst und deren Gewißheit gegen diese seine Negation ist, mit dem Gefühl des Mangels und dem Trieb ihn aufzuheben, – der die Bedingung eines Erregtwerdens von Außen, d. i. von jener auch in der Weise eines Objects vorhandenen Negation des Subjects, ist.
+
+Nur ein Lebendiges fühlt Mangel; denn nur es ist in der Natur der Begriff, der die Einheit seiner [orig. 338] selbst und seines bestimmten [p. 271] Entgegengesetzten ist. Wo eine Schranke ist, ist sie eine Negation nur für ein Drittes, für eine äußerliche Vergleichung. Mangel aber ist sie, in sofern in Einem ebenso das Darüberhinausseyn vorhanden, der Widerspruch als solcher immanent und in ihm gesetzt ist. Ein solches, das den Widerspruch seiner selbst in sich zu haben und zu ertragen fähig ist, ist das Subject; dies macht seine Unendlichkeit aus. Auch wenn von endlicher Vernunft gesprochen wird, so beweist sie, daß sie unendlich ist, eben darin, indem sie sich als endlich bestimmt; denn die Negation ist Endlichkeit, Mangel nur für das, welches das Aufgehobenseyn derselben, die unendliche Beziehung auf sich selbst, ist. Die Gedankenlosigkeit bleibt bei der Abstraction der Schranke stehen, und faßt im Leben, wo der Begriff selbst in die Existenz tritt, ihn ebenfalls nicht auf; sie hält sich an die Bestimmungen der Vorstellung, wie Trieb, Instinkt, Bedürfniß u.s.f., ohne zu fragen, was denn diese Bestimmungen selbst in sich sind; die Analyse ihrer Vorstellung wird ergeben, daß sie Negationen als in der Affirmation des Subjects selbst enthalten und gesetzt sind.
+
+Daß für den Organismus die Bestimmung von Erregtwerden durch äußerliche Potenzen an die Stelle des Einwirkens äußerlicher Ursachen gekommen ist, ist ein wichtiger Schritt in der wahrhaften Vorstellung desselben. Es beginnt darin der Idealismus, daß überhaupt nichts eine positive Beziehung zum Lebendigen haben kann, deren Möglichkeit dieses nicht an und für sich selbst, d. h. die nicht durch den Begriff bestimmt, somit dem Subjecte schlechthin immanent wäre. Aber so unphilosophisch wie irgend ein wissenschaftliches Gebraue von Reflexionsbestimmungen ist die Einführung solcher formellen und materiellen Verhältnisse in der Erregungstheorie, als lange für philosophisch gegolten haben; z. B. der ganz abstracte Gegensatz von Receptivität und Wirkungsvermögen, die als Factoren in umgekehrtem Verhältnisse der Größe mit einander stehen sollen, wodurch aller in dem Organismus zu fassende Unterschied in den Formalismus blos quantitativer Verschiedenheit, Erhöhung und Verminderung, Stärkung und Schwächung, d. h. in die höchstmögliche Begrifflosigkeit gefallen ist. Eine Theorie der Medicin, die auf diese dürren Verstandesbestimmungen gebaut ist, ist mit einem halben Dutzend Sätze vollendet, und es ist kein Wunder, wenn sie eine schnelle Ausbreitung und viele Anhänger fand. Die Veranlassung zu dieser Verirrung lag in dem Grundirrthum, daß nachdem das Absolute, als die absolute Indifferenz des [p. 272] Subjectiven und Objectiven bestimmt worden war, alle Bestimmung nun nur ein quantitativer Unterschied seyn sollte. Die absolute Form, der Begriff, und die Lebendigkeit hat vielmehr allein die qualitative, sich an sich selbst aufhebende Differenz, die Dialektik der absoluten Entgegensetzung, zu ihrer Seele. Weil diese wahrhafte unendliche Negativität nicht erkannt war, meynte man die absolute Identität des Lebens, wie bei Spinoza die Attribute und Modi in einem äußern Verstand vorkommen, nicht festhalten zu können, ohne den Unterschied zu einem blos Aeußerlichen der Reflexion zu machen; womit es dem Leben an dem springenden Punkt der Selbstheit, dem Principe der Selbstbewegung, Diremtion seiner selbst in sich überhaupt fehlt.
+
+Für völlig unphilosophisch und rohsinnlich ist ferner das Verfahren zu halten, welches an die Stelle von Begriffsbestimmungen geradezu gar den Kohlenstoff und Stickstoff, Sauer- und Wasserstoff setzte, und den vorhin intensiven Unterschied nun näher zu dem Mehr oder Weniger des einen und des andern [orig. 340] Stoffes, das wirksame und positive Verhältniß der äußern Reize aber als ein Zusetzen eines mangelnden Stoffes bestimmte. In einer Asthenie z. B. einem Nervenfieber, habe im Organismus der Stickstoff die Oberhand, weil das Gehirn und der Nerv überhaupt der potenzirte Stickstoff sey, indem die chemische Analyse denselben als Hauptbestandtheil dieser organischen Gebilde zeigt; die Hinzusetzung des Kohlenstoffs sey hiemit indicirt, um das Gleichgewicht dieser Stoffe, die Gesundheit, wieder herzustellen. Die Mittel, welche sich gegen Nervenfieber empirischer Weise wirksam gezeigt haben, werden aus eben diesem Grunde als auf die Seite des Kohlenstoffs gehörig angesehen, und ein solches oberflächliches Zusammenstellen und Meynen für Construction und Beweisen ausgegeben. Das Rohe besteht darin, daß das äußere caput mortuum, der todte Stoff, in dem die Chemie ein erstorbenes Leben zum Zweitenmal getödtet hat, für das Wesen eines lebendigen Organs, ja für seinen Begriff genommen wird.
+
+Dies letztere begründet dann den bequemen Formalismus, dergleichen sinnliche Materialien wie die chemischen Stoffe, ferner Verhältnisse, die der Sphäre der unorganischen Natur angehören, wie die Nord- und Süd-Polarität des Magnetismus, oder die Unterschiede dieses selbst und des electrischen Moments statt der Begriffsbestimmungen zu gebrauchen, und das natürliche Universum auf die Weise zu begreifen und zu entwickeln, daß auf seine Sphären und Unterschiede ein solches fertiges Schema von Nord- und Süd-, West- und Ost-Polarität, oder welches andere es sey, äußerlich angeheftet wird. Es ist hierüber eine große Mannichfaltigkeit von Formen [p. 273] möglich, da es beliebig bleibt, die Bestimmungen, wie sie in der chemischen Sphäre z. B. erscheinen, Sauerstoff, Wasserstoff u.s.f. für das Schema anzunehmen und sie auf Magnetismus, [orig. 341] Mechanismus, Vegetation, Animalität u.s.f. überzutragen, oder aber den Magnetismus, die Electricität, das Männliche und Weibliche, Contraction und Expansion u.s.f. zu nehmen, überhaupt zu Gegensätzen jeder andern Sphäre zu greifen und sie in den übrigen zu gebrauchen.
+
+§. 360.
+
+Das Bedürfniß ist ein Bestimmtes und seine Bestimmtheit ein Moment seines allgemeinen Begriffs, obschon zugleich auf unendlich mannichfaltige Weise particularisirt. Der Trieb ist die Thätigkeit, den Mangel solcher Bestimmtheit, ihre Form zunächst nur ein Subjectives zu seyn, aufzuheben. Indem ihr Inhalt ursprünglich ist, in der Thätigkeit sich erhält und durch sie nur ausgeführt wird, ist er Zweck (§. 204.) und der Trieb Instinct. Jener formelle Mangel ist die innere Erregung, deren, dem Inhalte nach, specifische Bestimmtheit zugleich als eine Beziehung des Thieres auf die besondern Natursphären erscheint.
+
+Das Geheimnißvolle, das die Schwierigkeit, den Instinct zu fassen, ausmachen soll, liegt allein darin, daß der Zweck eines Theils nur als Begriff aufgefaßt werden kann, daher blos verständige Erklärungen und Verhältnisse sich dem Instincte bald als unangemessen zeigen. Die gründliche Bestimmung, welche Aristoteles vom Lebendigen gefaßt hat, daß es als nach dem Zwecke wirkend zu betrachten sey, ist in neuern Zeiten beinahe verloren gewesen, bis Kant in der innern Zweckmäßigkeit, daß das Lebendige als Selbstzweck zu betrachten sey, auf seine Weise diesen Begriff wieder erweckte. Andererseits macht es eine Schwierigkeit, daß hiegegen die Zweckbeziehung gewöhnlich als äußere, und daß der Zweck nur auf bewußte Weise existire, vorgestellt wird. Der Instinct ist die auf bewußtlose Weise wirkende Zweckthätigkeit. [orig. 342]
+
+§. 361.
+
+In sofern das Bedürfniß ein Zusammenhang mit dem allgemeinen Mechanismus und den abstracten Mächten der Natur ist, ist der Instinct nur als innere, nicht einmal sympathetische, Erregung, (wie im Schlafen und Wachen, den klimatischen und andern Wanderungen u.s.f.). Aber als Verhältniß des Thiers zu seiner unorganischen, vereinzelten Natur ist das Bedürfniß überhaupt bestimmt, und nach dessen weiterer Particularität ist nur ein beschränkter [p. 274] Umkreis der allgemeinen unorganischen Natur der seinige. Der Instinct ist gegen sie ein practisches Verhalten, innere Erregung mit dem Scheine einer äußerlichen Erregung verbunden, und ist theils die formelle theils reelle Assimilation der unorganischen Natur.
+
+§. 362.
+
+Jener Instinct, der nur auf formelle Assimilation geht, bildet seine Bestimmung in die Aeußerlichkeiten ein, gibt ihnen als einer Materie nur eine äußere dem Zwecke gemäße Form, und läßt die Objectivität dieser Dinge bestehen (wie vornehmlich im Bauen von Nestern und andern Lagerstätten). Dieser aber ist der reelle Proceß, der die unorganischen Dinge vereinzelt oder sich zu den bereits vereinzelten verhält, und sie mit Verzehrung derselben, - Vernichtung ihrer eigenthümlichen Qualitäten - assimilirt; der Proceß mit der Luft, (Athmen und Hautproceß), mit dem Wasser (Durst), und mit der individualisirten Erde, nämlich besondern Gebilden derselben (Hunger). Das Leben, das Subject dieser Momente der Totalität, spannt sich in sich als Begriff und in die Momente als ihm äußerliche Realität, und ist der fortdauernde Conflict, in welchem es diese Aeußerlichkeit überwindet. Weil das Thier als wesentlich Einzelnes dies nur im Einzelnen vermag, ist diese Realisirung seiner [orig. 343] seinem Begriffe nicht angemessen, und geht daher aus der Befriedigung fortdauernd in den Zustand des Bedürfnisses zurück.
+
+§. 363.
+
+Die mechanische Bemächtigung des äußern Objects ist der Anfang; die Assimilation selbst, da das Thier Subject, einfache Negativität des punctuellen Eins ist, kann weder mechanischer noch chemischer Natur seyn, da in diesen Processen sowohl die Stoffe als die Bedingungen und die Thätigkeit äußerliche gegen einander bleiben, und der lebendigen absoluten Einheit entbehren.
+
+§. 364.
+
+Die Assimilation ist erstlich, weil das Lebendige die allgemeine Macht seiner äußerlichen, ihm entgegengesetzten Natur ist, das unmittelbare Zusammengehen des inwendig aufgenommenen mit der Animalität; eine Infection mit [p. 275] dieser und einfache Verwandlung (§. 345. Anm. 346.). Zweitens als Vermittlung ist die Assimilation Verdauung; - Entgegensetzung des Subjects gegen das Aeußere, und nach dem weitern Unterschiede als Proceß des animalischen Wassers (des Magen- und pankreatischen Safts, animalischer Lymphe überhaupt) und des animalischen Feuers (der Galle, in welcher das Insichgekehrtseyn des Organismus von seiner Concentration aus, die es in der Milz hat, zum Fürsichseyn und zur thätigen Verzehrung bestimmt ist).
+
+§. 365.
+
+Aber dieses Einlassen mit dem Aeußern, die Erregung und der Proceß selbst, hat gegen die Allgemeinheit und einfache Beziehung des Lebendigen auf sich gleichfalls die Bestimmung der Aeußerlichkeit; und macht [orig. 344] also eigentlich das Object und das Negative gegen die Subjectivität des Organismus aus, das er zu überwinden und zu verdauen hat.
+
+§. 366.
+
+In dieser Verkehrung der Ansicht liegt die Möglichkeit und das Princip der Reflexion des Organismus in sich; sie ist die Negation seiner eigenen Negativität, seiner nach Außen gerichteten Thätigkeit. Die Rückkehr derselben in sich hat die doppelte Bestimmung, daß er die erste Negation, nämlich seine mit der Aeußerlichkeit des Objects in Conflict gesetzte Thätigkeit, von sich einerseits excernirt, andererseits als unmittelbar identisch mit derselben für sich geworden und in diesem Mittel sich reproducirt hat. Der nach außen gehende Proceß wird so in den ersten formellen der Reproduction aus sich selbst, in das Zusammengehen mit sich, verwandelt.
+
+Das Hauptmoment in der Verdauung ist die unmittelbare Wirkung des Lebens, als der Macht über sein unorganisches Object, das es nur und in sofern als seinen erregenden Reiz voraussetzt, als es an sich identisch mit ihm aber zugleich dessen Fürsichseyn ist. Diese Wirkung ist Infection und unmittelbare Verwandlung. Spallanzani's und andere Versuche, und die neuere Physiologie haben diese Unmittelbarkeit, mit der das Lebendige als allgemeines, ohne weitere Vermittlung, durch seine bloße Berührung und durch Aufnehmen des Nahrungsmittels in seine Wärme und Sphäre überhaupt, sich in dasselbe continuirt, auch empirisch erwiesen, und dem [p. 276] Begriffe gemäß aufgezeigt, - gegen die Vorstellung eines blos mechanischen, erdichteten Aus- und Absonderns schon fertiger, brauchbarer Theile, so wie eines chemischen Processes. Die Untersuchungen dagegen der vermittelnden Actionen haben bestimmtere Momente dieser Verwandlung, (wie sich z. B. bei vegetabilischen Stoffen eine Reihe von Gährungen darstellt) nicht ergeben. Es ist im Gegentheil z. B. gezeigt worden, daß schon vom Magen aus vieles in die Masse der Säfte übergeht, ohne die übrigen Stufen der Vermittlung durchzugehen zu haben, daß der pankreatische Saft weiter nichts, als Speichel ist, und die Pankreas sehr wohl entbehrt werden könne, u.s.f. Das letzte Product, der Chylus, den der Brustgang aufnimmt und ins Blut ergießt, ist dieselbe Lymphe, welche jedes einzelne Eingeweide und Organ excernirt, die Haut und das lymphatische System im unmittelbaren Processe der Verwandlung allenthalben gewinnt und die allenthalben schon bereitet ist. Die niedrigen Thierorganisationen, die ohnehin nichts als eine zum häutigen Punkte oder Röhrchen – einem einfachen Darmkanal geronnene Lymphe sind, gehen nicht über diese unmittelbare Verwandlung hinaus. Der vermittelte Verdauungs-Proceß, in den höhern Thierorganisationen, ist in Rücksicht auf sein eigenthümliches Product ein eben solcher Ueberfluß, als bei Pflanzen ihre durch sogenannte Geschlechts-Differenz vermittelte Saamen-Erzeugung. Die Faeces zeigen, besonders bei Kindern, bei denen die Vermehrung der Materie doch am meisten hervorsticht, häufig den größten Theil der Nahrungsmittel unverändert, vornehmlich mit thierischen Stoffen, der Galle, Phosphor und dergleichen vermischt, und als die Hauptwirkung des Organismus, diese seine eigenen Productionen zu überwinden und wegzuschaffen. – Der Schluß des Organismus ist darum nicht der Schluß der äußern Zweckmäßigkeit, weil er nicht dabei stehen bleibt, seine Thätigkeit und Form gegen das äußere Object zu richten, sondern diesen Proceß, der wegen seiner Aeußerlichkeit auf dem Sprunge steht, mechanisch und chemisch zu werden, selbst zum Object macht. Im Zusammengehen seiner darin mit sich selbst ist er, als lebendiger | Begriff, eben so sehr disjunctive Thätigkeit, welche diesen Proceß von sich wegschafft, von seinem Zorne gegen das Object, dieser einseitigen Subjectivität abstrahirt, und dadurch das für sich wird, was er an sich ist, subjective, nicht neutrale, Identität seines Begriffs und seiner Realität, so das Ende und Product seiner Thätigkeit als das findet, was er schon von Anfang und ursprünglich ist. Hiedurch ist die Befriedigung [p. 277] vernünftig; der in die äußere Differenz gehende Proceß schlägt in den Proceß des Organismus mit sich selbst um, und das Resultat ist nicht die bloße Hervorbringung eines Mittels, sondern des Zwecks, Zusammenschließen mit sich.
+
+§. 367.
+
+Durch den Proceß mit der äußern Natur gibt das Thier der Gewißheit seiner selbst, seinem subjectiven Begriff, die Wahrheit, Objectivität, als einzelnes Individuum. Diese Production seiner ist nicht nur Selbsterhaltung oder Reproduction, sondern die Subjectivität Product geworden, ist zugleich als unmittelbare aufgehoben; der Begriff so mit sich selbst zusammengegangen, ist concretes Allgemeines, Gattung. Die Disjunction der sich selbst findenden Einzelnheit in der Gattung ist die Geschlechts-Differenz, die Beziehung des Subjects auf ein Object, das selbst ein solches Subject ist.
+
+## C.
+
+## GATTUNGS-PROCESS.
+
+## 1.
+
+## GESCHLECHTS-PROCESS.
+
+§. 368.
+
+Der Proceß beginnt mit dem Triebe. Das Einzelne als solches ist seiner Gattung nicht angemessen, [orig. 347] und zugleich ist es deren identische Beziehung auf sich in Einer Einheit; es hat somit das Gefühl dieses Mangels. Der allgemeine Begriff, als Wesen der Individuen ist das allgemeine Extrem, dessen Spannung gegen die Unangemessenheit ihrer einzelnen Wirklichkeit sie treibt, jedes nur im Andern seiner Gattung sein Selbstgefühl zu haben und sich durch die Einung mit ihm zu integriren. Durch diese Vermittlung wird das concrete Allgemeine mit sich zusammengeschlossen und gibt sich einzelne Wirklichkeit.
+
+§. 369.
+
+Dies Product ist die negative Identität der differenten Einzelnheiten, die gewordene Gattung, ein geschlechtsloses Leben; aber nach der natürlichen [p. 278] Seite ist es nur an sich diese Gattung und verschieden von den Einzelnen, deren Differenz in ihm untergegangen ist, daher selbst ein Einzelnes, welches die Bestimmung der gleichen Differenz und Vergänglichkeit in sich hat. In diesem neuen Leben, worin die unmittelbare Einzelnheit aufgehoben, dieselbe Subjectivität positiv erhalten und in dieser ihrer Rückkehr in sich die Gattung als solche für sich in die Realität getreten ist, ist jedoch ein Höheres, als die Natur, geworden, was nachher zu betrachten ist.
+
+## 2.
+
+## DIE GATTUNG UND ARTEN.
+
+§. 370.
+
+Die unterschiedenen Gebilde und Ordnungen der Thiere haben den allgemeinen, durch den Begriff bestimmten Typus des Thiers zum Grunde liegen, welchen die Natur theils in den verschiedenen Stufen seiner Entwicklung von der einfachsten Organisation an bis zur vollendetsten, in welcher sie Werkzeug des Geistes [orig. 348] ist, theils unter den verschiedenen Umständen und Bedingungen der elementarischen Natur darstellt.
+
+Der Begriff des Thiers hat den Begriff selbst zu seinem Wesen, weil es die Wirklichkeit der Idee des Lebens ist. Die Natur seiner Allgemeinheit macht möglich, daß er ein einfacheres und entwickelteres, so wie ein ihm mehr oder weniger entsprechendes Daseyn hat. Aus dem Daseyn selbst kann daher der Begriff in seiner Bestimmtheit nicht aufgefaßt werden. Die Classen, in welchen er entwickelt und in seinen Momenten vollständig dargestellt auftritt, erscheinen als ein besonderes Daseyn gegen die übrigen, und auch in jenen kann er ein schlechtes Daseyn haben. Ob aber das Daseyn schlecht ist, zu diesem Urtheil wird der Begriff schon vorausgesetzt. Wenn das empirische Daseyn vorausgesetzt wird, um daraus die Natur des Thieres und seine wesentlichen Bestimmungen, oder die wesentlichen Organe einer Classe zu erkennen, so kommt es auf diesem Wege zu keiner festen Bestimmung, und alle besondern Eigenschaften zeigen sich auch so, daß sie mangeln können; z. B. die Acephalen sind als Instanz angeführt worden, daß der Mensch auch ohne Gehirn leben könne. – Es ist in der Zoologie, wie in den Naturwissenschaften überhaupt, mehr darum zu thun gewesen, für das subjective Erkennen sichere und einfache Merkmahle aufzufinden. Erst seitdem man diesen Zweck sogenannter künstlicher Systeme bei der Erkenntniß der Thiere mehr aus den Augen gesetzt hat, hat sich eine größere Ansicht eröffnet, und [p. 279] unter den empirischen Wissenschaften ist wohl schwerlich eine, welche in neuern Zeiten so große Erweiterungen, nicht vorzugsweise in der Masse von Beobachtungen, denn daran hat es in keiner Wissenschaft gefehlt, sondern nach der Seite erlangt hat, daß ihr Material sich gegen den Begriff und die Vernünftigkeit hin gearbeitet hat, als die Zoologie durch ihre Hülfswissenschaft, die vergleichende [orig. 349] Anatomie. Wie die sinnige Naturbetrachtung (der französischen Naturforscher vornehmlich) die Eintheilung der Pflanzen in Monocotyledonen und Dicotyledonen, ebenso hat sie den schlagenden Unterschied gefunden, den in der Thierwelt die Abwesenheit oder das Daseyn der Rückenwirbel macht; die Grundeintheilung der Thiere ist auf diese Weise zu derjenigen im Wesentlichen zurückgeführt worden, welche schon Aristoteles gesehen hat. - Näher ist alsdann theils an den einzelnen Gebilden der Habitus, als ein die Construction aller Theile bestimmender Zusammenhang zur Hauptsache gemacht worden, so daß der große Stifter der vergleichenden Anatomie, Cuvier, sich rühmen konnte, aus einem einzelnen Knochen die wesentliche Natur des ganzen Thieres erkennen zu können. Theils ist der allgemeine Typus des Thiers durch die verschiedenen, noch so unvollkommen und disparat erscheinenden Gebilde verfolgt und in der kaum beginnenden Andeutung, so wie in der Vermischung der Organe und Functionen, ihre Bedeutung erkannt, und eben dadurch über und aus der Besonderheit in seine Allgemeinheit erhoben worden. Eine Hauptseite dieser Betrachtung ist die Erkenntniß, wie die Natur diesen Organismus an das besondere Element, in das sie ihn wirft, an Klima, Kreis der Ernährung, überhaupt an die Welt, in der er aufgeht (die auch eine einzelne Pflanzen- oder andere Thiergattung seyn kann), anbildet und anschmiegt. Die Unmittelbarkeit der Idee des Lebens ist es, daß der Begriff, obgleich nur er das an und für sich Bestimmte ist, nicht als solches im Leben existirt, sein Daseyn daher sich den vielfachen Bedingungen und Umständen der äußern Natur unterwirft, und in den ärmlichsten Formen erscheinen kann; die Fruchtbarkeit der Erde läßt es allenthalben und auf alle Weisen ausschlagen. Die Thierwelt kann darum fast weniger als die andern Sphären der Natur, ein [orig. 350] in sich unabhängiges vernünftiges System von Organisation darstellen, an den Formen, die durch den Begriff bestimmt wären, festhalten und sie gegen die Unvollkommenheit und Vermischung der Bedingungen vor Vermengung, Verkümmerung und Uebergängen bewahren. Diese Schwäche des Begriffs in der Natur überhaupt, [p. 280] der darum auch im Thiere nicht in seiner festen, selbstständigen Freiheit existirt, unterwirft die Gattungen ganz den Veränderungen des äußern allgemeinen Naturlebens, dessen Wechsel das Thier mit durchlebt, und das als eine fortdauernde Gewaltsamkeit gegen dasselbe ist. Das Thierleben zeigt sich daher überhaupt als ein krankes; so wie sein Gefühl, als ein unsicheres, angstvolles, unglückliches.
+
+## 3.
+
+## DIE GATTUNG UND DAS INDIVIDUUM.
+
+§. 371.
+
+Der einzelne Organismus kann wegen der Aeußerlichkeit seines Daseyns auch seiner Gattung, seiner Bestimmung nicht entsprechend werden. Er befindet sich im Zustande der Krankheit, in sofern eines seiner Systeme oder Organe im Conflict mit einer unorganischen Potenz erregt, sich für sich festsetzt und in seiner besondern Thätigkeit gegen die Thätigkeit des Ganzen beharrt, dessen Flüssigkeit und durch alle Momente hindurch gehender Proceß hiemit gehemmt ist.
+
+§. 372.
+
+Die eigenthümliche Erscheinung der Krankheit ist daher, daß die Identität des ganzen organischen Systems sich als successiver Verlauf der Lebensbewegung durch seine unterschiedenen Momente, die Sensibilität, Irritabilität und Reproduction, als Fieber darstellt, welches als Verlauf der Totalität gegen die vereinzelte Thätigkeit eben so sehr der Versuch und Beginn der Heilung ist.
+
+§. 373.
+
+Das Mittel erregt den Organismus dazu, die besondere Erregung, in der die formelle Thätigkeit des Ganzen fixirt ist, aufzuheben, und die Flüssigkeit in das Ganze herzustellen. Dies bewirkt das Mittel dadurch, daß es ein Reiz aber ein noch schwerer zu assimilirender und zu überwindender ist, gegen welchen der Organismus seine ganze Kraft aufzubieten genöthigt ist. Indem er sich so gegen ein Aeußerliches richtet, tritt er aus der mit ihm identisch gewordenen Beschränktheit, in welcher er befangen war.
+
+Der Hauptgesichtspunkt, unter welchem die Arzneimittel betrachtet werden müssen, ist, daß sie ein Unverdauliches sind. Aber die Bestimmung [p. 281] von Unverdaulichkeit ist relativ, jedoch nicht in dem unbestimmten Sinne, in dem sie genommen zu werden pflegt, nach welchem leicht verdaulich heißt, was schwächere Constitutionen vertragen können. Solches leicht Verdauliche ist für die kräftigere Individualität vielmehr unverdaulich. Die wahrhafte Relativität, die des Begriffes, welche im Leben ihre Wirklichkeit hat, besteht, in quantitativer Rücksicht ausgedrückt, die hier gilt, in einer um so höhern Homogeneität, als höher und selbstständiger die Entgegensetzung ist; die höchste qualitative Form derselben im Lebendigen hat sich als das Geschlechtsverhältniß gezeigt, in welchem selbstständige Individualitäten sich als identische sind. Für die niedrigern, zu keiner Differenz in sich gekommenen animalischen Gebilde, ist das individualitätslose Neutrale, das Wasser, wie für die Pflanze, das Verdauliche; - für Kinder ist das Verdauliche theils die ganz homogene animalische Lymphe, die Muttermilch, ein schon verdautes oder vielmehr nur [orig. 352] in Animalität unmittelbar und überhaupt umgewandeltes und in ihr selbst weiter nicht differentiirtes; - theils von differenten Substanzen solche, die noch am wenigsten zur Individualität gereift sind. Substanzen dieser Art sind hingegen unverdaulich für die erstarkten Naturen. Diesen sind dagegen thierische Substanzen als das Individualisirte, oder die vom Lichte zu einem kräftigeren Selbst gezeitigten und deswegen geistig genannten vegetabilischen Säfte, ein Verdaulicheres, als z. B. die, noch in der blos neutralen Farbe und dem eigenthümlichen Chemismus näher stehenden vegetabilischen Productionen. Durch ihre intensivere Selbstigkeit machen jene Substanzen einen um so stärkern Gegensatz; aber eben dadurch sind sie homogenere Reize. Die Arzneimittel sind insgesammt in sofern negative Reize, Gifte, ein Erregendes und zugleich Unverdauliches, als der in der Krankheit sich entfremdete Organismus dazu erregt wird, sich gegen ein ihm äußerliches Fremdes zu richten, und dadurch zum Selbstgefühl und seiner Subjectivität wieder zu gelangen. So ein leerer Formalismus der Brownianismus gewesen ist, wenn er das ganze System der Medicin seyn soll, und die Bestimmung der Krankheiten und der Wirksamkeit der Mittel, jene auf Sthenie und Asthenie und etwa noch auf directe und indirecte Asthenie, diese auf Stärken und Schwächen, - beides gar auf Kohlen- und Stickstoff noch mit Sauer- und Wasserstoff, oder magnetisches, electrisches und chemisches Moment, und dergleichen ihn naturphilosophisch machen sollende Formeln beschränkt, so hat er doch wohl die zwei wichtigen Folgen gehabt, erstlich, daß durch ihn die Ansicht des blos Particulären und Specifischen sowohl der Krankheiten als der Mittel erweitert, und in beiden vielmehr das Allgemeine als das Wesentliche erkannt worden ist; zweitens, daß [p. 282] er durch seinen Gegensatz gegen die vorherige im Ganzen mehr asthenische und asthenisi rende Weise gezeigt hat, daß der Organismus gegen die entgegengesetzteste Behandlungsart nicht auf eine so entgegengesetzte, sondern häufig auf eine wenigstens in den Endresultaten gleiche, und daher allgemeine Weise reagirt, und seine einfache Identität mit sich als sein wahrhaftes Wesen gegen eine particuläre Befangenheit einzelner seiner Systeme in specifischen Reizen, beweißt.
+
+§. 374.
+
+Die Ueberwindung aber und das Vorübergehen einzelner Unangemessenheit des thierischen Individuums gegen seinen Begriff hebt die allgemeine Unangemessenheit nicht auf, welche es dadurch hat, daß seine Idee die unmittelbare ist, oder daß das Thier innerhalb der Natur steht, seine Subjectivität an sich der Begriff aber nicht für sich selbst ist, und nur als unmittelbare Einzelnheit existirt. Jene innere Allgemeinheit ist daher gegen diese Wirklichkeit eine negative Macht, von welcher es Gewalt leidet und untergeht, weil sein Daseyn als solches nicht selbst diese Allgemeinheit in sich hat, somit nicht deren entsprechende Realität ist.
+
+§. 375.
+
+Diese negative Allgemeinheit ist zunächst die abstracte, nach welcher das Thier eine endliche Existenz überhaupt ist, und die Macht der Allgemeinheit in einer äußern Wirklichkeit erscheint, welche gegen das Thier mechanische oder chemische Gewalt ausübt und es zerstört. Als seine eigene concrete Allgemeinheit ist sie die Gattung, in deren Proceß theils, der Begattung, das Lebendige seine differente Einzelnheit versenkt; theils aber hebt sich unmittelbar seine Unangemessenheit mit derselben, welche seine ursprüngliche Krankheit und den angebornen Keim des Todes ausmacht, auf, indem es seine Einzelnheit derselben einbildet, aber hiemit, | weil diese unmittelbar ist, nur eine abstracte Objectivität erreicht, seine Thätigkeit sich abstumpft, verknöchert, und das Leben zur proceßlosen Gewohnheit wird, so daß es sich so aus sich selbst tödtet.
+
+§. 376.
+
+Aber die Subjectivität des Lebendigen ist wesentlich an sich mit dem concreten Allgemeinen, der Gattung, identisch. Die erreichte Identität mit dieser ist daher nur das Aufheben des formellen Gegensatzes, der [p. 283] Unmittelbarkeit und der Allgemeinheit der Individualität. Die Subjectivität ist in der Idee des Lebens der Begriff, so ist sie an sich das absolute Insichseyn der Wirklichkeit, und durch das aufgezeigte Aufheben der Unmittelbarkeit ihrer Realität ist sie mit sich selbst absolut zusanımengegangen; das letzte Außersichseyn der Natur ist aufgehoben. Die Natur ist hiemit in ihre Wahrheit übergegangen, in die Subjectivität des Begriffs, deren Objectivität selbst die aufgehobene Unmittelbarkeit der Einzelnheit, die concrete Allgemeinheit ist, so daß der Begriff gesetzt ist, welcher den Begriff zu seinem Daseyn hat, – der Geist. |
+
+## [p. 285] PHILOSOPHIE DES GEISTES.
+
+## III.
+
+⁂
+
+## [p. 287] EINLEITUNG
+
+## DRITTER THEIL.
+
+## EINLEITUNG.
+
+§. 377.
+
+Die Erkenntniß des Geistes ist die concreteste, darum höchste und schwerste. Erkenne dich selbst, dies absolute Gebot hat weder an sich, noch da wo es geschichtlich als ausgesprochen vorkommt, die Bedeutung blos einer Selbsterkenntniß nach den particulären Fähigkeiten, Charakter, Neigungen und Schwächen des Individuums, sondern die Bedeutung der Erkenntniß des Wahrhaften des Menschen, wie des Wahrhaften an und für sich, - des Wesens selbst als Geistes. Eben so wenig hat die Philosophie des Geistes die Bedeutung der sogenannten Menschenkenntniß, welche von andern Menschen gleichfalls die Besonderheiten, Leidenschaften, Schwächen, diese sogenannten Falten des menschlichen Herzens zu erforschen bemüht ist, eine Kenntniß, die theils nur unter Voraussetzung der Erkenntniß des Allgemeinen, des Menschen und damit wesentlich des Geistes Sinn hat, theils sich mit den zufälligen, unbedeutenden, unwahren Existenzen des Geistigen beschäftigt, aber zum Substantiellen, dem Geiste selbst, nicht dringt. [orig. 358]
+
+§. 378.
+
+Der Pneumatologie oder sogenannten rationellen Psychologie, als abstracter Verstandesmetaphysik, ist bereits in der Einleitung Erwähnung geschehen. Die empirische Psychologie hat den concreten Geist zu ihrem Gegenstande, und wurde, seitdem nach dem Wiederaufleben der Wissenschaften die Beobachtung und Erfahrung zur vornehmlichsten Grundlage der Erkenntniß des Concreten geworden, auf dieselbe Weise getrieben, so daß theils jenes Metaphysische außerhalb dieser empirischen Wissenschaft gehalten wurde und keine [p. 288] Anwendung darin fand, theils diese sich an die gewöhnliche Verstandesmetaphysik von Kräften, verschiedenen Thätigkeiten u.s.f. hielt und die speculative Betrachtung daraus verbannt blieb. Die Bücher des Aristoteles über die Seele mit seinen Abhandlungen über besondere Seiten und Zustände derselben sind deswegen noch immer das vorzüglichste oder einzige Werk von speculativem Interesse über diesen Gegenstand. Der wesentliche Zweck einer Philosophie des Geistes kann nur der seyn, den Begriff in die Erkenntniß des Geistes wieder einzuführen und den Sinn der aristotelischen Bücher wieder aufzuschließen.
+
+## ENCYCLOPÄDIE PHILOSOPHIE DES GEISTES
+
+§. 379.
+
+Das Selbstgefühl von der lebendigen Einheit des Geistes setzt sich von selbst gegen die Zersplitterung desselben in die verschiedenen, gegeneinander selbstständig vorgestellten Vermögen, Kräfte oder was nur auf dasselbe hinauskommt, Thätigkeiten. Noch mehr aber führen die Gegensätze, die sich sogleich darbieten, von der Freiheit des Geistes und von dem Determinirtwerden desselben, ferner von der freien Wirksamkeit der Seele im Unterschiede von der ihr äußerlichen Leiblichkeit, und wieder ihr inniger Zusammenhang auf das Bedürfniß, hier zu begreifen. Insbesondere haben die Erscheinungen des animalischen Magnetismus in neuern Zeiten [orig. 359] auch in der Erfahrung eine substantielle Einheit der Seele gezeigt, wodurch alle die festen Verstandesunterschiede in Verwirrung gebracht werden, und eine speculative Betrachtung für die Auflösung der Widersprüche unmittelbarer als nothwendig gezeigt wird.
+
+§. 380.
+
+Die concrete Natur des Geistes bringt für die Betrachtung die eigenthümliche Schwierigkeit mit sich, daß die besondern Stufen und Bestimmungen der Entwicklung seines Begriffs nicht zugleich als besondere Existenzen zurück und seinen tiefern Gestaltungen gegenüber bleiben, wie dies in der äußern Natur der Fall ist, wo die Materie und Bewegung ihre freie Existenz als Sonnensystem hat, die Bestimmungen der Sinne auch rückwärts als Eigenschaften der Körper und noch freier als Elemente existiren u.s.f. Die Bestimmungen und Stufen des Geistes dagegen sind wesentlich nur als Momente, Zustände, Bestimmungen an den höhern Entwicklungsstufen. Einestheils geschieht dadurch, daß an einer niedrigern, abstractern Bestimmung das Höhere sich schon empirisch vorhanden zeigt, wie z. B. in der Empfindung alles höhere Geistige als Inhalt oder [p. 289] Bestimmung. Oberflächlicherweise kann daher in der Empfindung, welche nur eine abstracte Form ist, jener Inhalt, das Religiöse, Sittliche u.s.f., wesentlich seine Stelle und sogar Wurzel zu haben, und seine Bestimmungen als besondere Arten der Enıpfindung zu betrachten nothwendig scheinen.
+
+Anderntheils, wenn niedrigere Stufen betrachtet werden, wird nöthig, um sie nach ihrer empirischen Existenz zu zeigen, an höhere zu erinnern, an welchen sie nur als Formen vorhanden sind, und auf diese Weise einen Inhalt zu anticipiren, der erst später in der Entwicklung sich darbietet (z. B. beim natürlichen Erwachen das Bewußtseyn, bei der Verrücktheit den Verstand u.s.f.). [orig. 360]
+
+## BEGRIFF DES GEISTES.
+
+§. 381.
+
+Der Geist hat für uns die Natur zu seiner Voraussetzung, deren Wahrheit, und damit deren absolut Erstes er ist. In dieser Wahrheit ist die Natur verschwunden, und der Geist hat sich als die zu ihrem Fürsichseyn gelangte Idee ergeben, deren Object eben sowohl als das Subject der Begriff ist. Diese Identität ist absolute Negativität, weil in der Natur der Begriff seine vollkommene äußerliche Objectivität hat, diese seine Entäußerung aber aufgehoben, und er in dieser sich identisch mit sich geworden ist. Er ist diese Identität somit zugleich nur, als Zurückkommen aus der Natur.
+
+§. 382.
+
+Das Wesen des Geistes ist deswegen formell die Freiheit, die absolute Negativität des Begriffes als Identität mit sich. Nach dieser formellen Bestimmung kann er von allem Aeußerlichen und seiner eigenen Aeußerlichkeit, seinem Daseyn selbst abstrahiren; er kann die Negation seiner individuellen Unmittelbarkeit, den unendlichen Schmerz ertragen, d. i. in dieser Negativität affirmativ sich erhalten und identisch für sich seyn. Diese Möglichkeit ist seine abstracte fürsich-seyende Allgemeinheit in sich.
+
+§. 383.
+
+Diese Allgemeinheit ist auch sein Daseyn. Als für sich seyend ist das Allgemeine sich besondernd und hierin Identität mit sich. Die Bestimmtheit des Geistes ist daher die Manifestation. Er ist nicht irgend eine Bestimmtheit oder [p. 290] Inhalt, dessen Aeußerung und Aeußerlichkeit nur davon unterschiedene Form wäre; so daß er nicht Etwas offenbart, sondern seine Bestimmtheit und Inhalt ist dieses Offenbaren selbst. Seine Möglichkeit ist daher unmittelbar unendliche, absolute Wirklichkeit.
+
+§. 384.
+
+Das Offenbaren, welches als die abstracte Idee unmittelbarer Uebergang, Werden der Natur ist, ist als Offenbaren des Geistes, der frei ist, Setzen der Natur als seiner Welt; ein Setzen, das als Reflexion zugleich Voraussetzen der Welt als selbstständiger Natur ist. Das Offenbaren im Begriffe ist Erschaffen derselben als seines Seyns, in welchem er die Affirmation und Wahrheit seiner Freiheit sich gibt.
+
+Das Absolute ist der Geist; dies ist die höchste Definition des Absoluten. Diese Definition zu finden und ihren Sinn und Inhalt zu begreifen, dies kann man sagen, war die absolute Tendenz aller Bildung und Philosophie, auf diesen Punkt hat sich alle Religion und Wissenschaft gedrängt; aus diesem Drang allein ist die Weltgeschichte zu begreifen. Das Wort und die Vorstellung des Geistes ist früh gefunden, und der Inhalt der christlichen Religion ist, Gott als Geist zu erkennen zu geben. Dies was hier der Vorstellung gegeben, und was an sich das Wesen ist, in seinem eigenen Elemente, dem Begriffe, zu fassen, ist die Aufgabe der Philosophie, welche so lange nicht wahrhaft und immanent gelöst ist, als der Begriff und die Freiheit nicht ihr Gegenstand und ihre Seele ist.
+
+## EINTHEILUNG.
+
+§. 385.
+
+Die Entwicklung des Geistes ist:
+
+daß er
+
+I. in der Form der Beziehung auf sich selbst ist, innerhalb seiner ihm die ideelle Totalität der Idee wird, subjectiver Geist. |
+
+II. in der Form der Realität als einer Welt, welche die Freiheit als vorhandene Nothwendigkeit ist, objectiver Geist.
+
+III. in an und für sich seyender Einheit der Objectivität des Geistes und seiner Idealität oder seines Begriffs, der Geist in seiner absoluten Wahrheit, der absolute Geist.
+
+[p. 291] §. 386.
+
+Die zwei ersten Theile der Geisteslehre befassen den endlichen Geist. Der Geist ist die unendliche Idee, und die Endlichkeit hat hier ihre Bedeutung der Unangemessenheit des Begriffs und der Realität mit der Bestimmung, daß sie ein Scheinen innerhalb seiner ist, ein Schein, den an sich der Geist sich als eine Schranke setzt, um durch Aufheben derselben für sich die Freiheit als sein Wesen zu haben und zu wissen, d. i. absolut manifestirt zu seyn. Die verschiedenen Stufen der Thätigkeit des Geistes sind Stufen seiner Befreiung, in deren absoluten Wahrheit das Vorfinden einer Welt als einer vorausgesetzten, das Erzeugen derselben als eines von ihm gesetzten, und die Befreiung von ihr eins und dasselbe sind.
+
+Die Bestimmung der Endlichkeit wird vornehmlich vom Verstande in der Beziehung auf den Geist und die Vernunft fixirt; es gilt dabei nicht nur für eine Sache des Verstandes, sondern auch für eine moralische und religiöse Angelegenheit, den Standpunkt der Endlichkeit als einen letzten festzuhalten, so wie dagegen für eine Vermessenheit des Denkens, ja für eine Verrücktheit desselben, über ihn hinausgehen zu wollen. Es ist aber wohl vielmehr die schlechteste der Tugenden, eine solche Bescheidenheit des Denkens, welche das Endliche zu einem schlechthin Festen, einem Absoluten macht, und die ungründlichste der Erkenntnisse, in dem, was seinen Grund nicht in sich | selbst hat, stehen zu bleiben. Die Bestimmung der Endlichkeit ist längst an ihrem Orte, in der Logik, beleuchtet und erörtert worden; diese ist dann ferner für die weiter bestimmten aber noch immer einfachen Gedankenformen der Endlichkeit, wie die übrige Philosophie für die concreten Formen derselben nur dies Aufzeigen, daß das Endliche nicht ist, d. i. nicht das Wahre, sondern schlechthin nur ein Uebergehen ist. - Dieses Endliche der bisherigen Sphären ist die Dialektik, sein Vergehen durch ein Anderes zu haben, der Geist aber, der Begriff und das an sich Ewige, ist es selbst, dieses Vernichtigen des Nichtigen, das Vereiteln des Eiteln zu vollbringen. Die erwähnte Bescheidenheit ist das Festhalten dieses Eiteln gegen das Wahre, und darum selbst das Eitle. Diese Eitelkeit wird sich in der Entwicklung des Geistes selbst als seine höchste Vertiefung in sich und innerster Widerspruch und damit Wendepunkt, als das Böse, ergeben. |
+
+## [p. 292] ERSTE ABTHEILUNG DER PHILOSOPHIE DES GEISTES.
+
+## DER SUBJECTIVE GEIST.
+
+§. 387.
+
+Der Geist in seiner Idealität sich entwickelnd ist der Geist als erkennend. Aber das Erkennen wird hier nicht blos aufgefaßt, wie es die Bestimmtheit der Idee als logischer ist (§. 223.), sondern wie der concrete Geist sich zu demselben bestimmt.
+
+Der subjective Geist ist:
+
+A. Unmittelbar; so ist er Seele oder Naturgeist; - Gegenstand der
+
+## ANTHROPOLOGIE.
+
+B. Für sich noch als identische Reflexion in sich und in Anderes; der Geist der Gegenstand im Verhältniß oder Besonderung; - Bewußtseyn der
+
+PHÄNOMENOLOGIE des Geistes.
+
+C. Der sich in sich bestimmende Geist, als Subject für sich, der Gegenstand der
+
+## PSYCHOLOGIE.
+
+In der Seele erwacht das Bewußtseyn; das Bewußtseyn setzt sich als Vernunft; und die subjective Vernunft befreit sich durch ihre Thätigkeit zur Objectivität.
+
+Wie im Begriffe überhaupt die Bestimmtheit, die an ihm vorkommt, Fortgang, Entwicklung [orig. 365] ist, so ist auch an dem Geiste jede Bestimmtheit, in der er sich zeigt, Moment der Entwicklung und der Fortbestimmung, Vorwärtsgehen seinem Ziele zu, sich zu dem zu machen und für sich zu werden das was er an sich ist. Die psychologische oder sonst gewöhnliche Betrachtungsweise gibt an, erzählungsweise, was der Geist oder die Seele ist, was ihr geschieht, was sie thut; so daß die Seele als fertiges Subject vorausgesetzt ist, und dergleichen Bestimmungen nur als Aeußerungen an derselben zum Vorschein kommen, und aus denen nur soll erkannt werden, was sie ist, in sich für Vermögen und Kräfte besitzt. [p. 293] Abgesondert hievon ist der Kreis des Fortschreitens, der Bildung und Erziehung gestellt, weil er sich nur auf die einzelnen Subjecte als solche bezieht, daß der allgemeine Geist in ihnen zur Existenz gebracht werde. In der philosophischen Ansicht dagegen wird der Geist als solcher vielmehr selbst als sich bildend und erziehend betrachtet, und seine Aeußerungen als die Momente seines Sich-zu-sich-selbst-Hervorbringens, seines Zusammenschließens mit sich, wodurch er erst wirklicher Geist ist. [orig. 366]
+
+## A. ANTHROPOLOGIE.
+
+## DIE SEELE.
+
+§. 388.
+
+Der Geist ist als die Wahrheit der Natur geworden. Außerdem, daß in der Idee überhaupt dies Resultat die Bedeutung der Wahrheit und vielmehr des Ersten gegen das Vorhergehende hat, hat das Werden oder Uebergehen im Begriff die bestimmtere Bedeutung des freien Urtheils. Der gewordene Geist hat daher den Sinn, daß die Natur an ihr selbst als das Unwahre sich aufhebt, und der Geist so sich als diese nicht mehr in leiblicher Einzelnheit außer-sich-seyende, sondern in ihrer Concretion und Totalität einfache Allgemeinheit voraussetzt, in welcher er Seele, noch nicht Geist ist.
+
+§. 389.
+
+Die Seele ist nicht nur für sich immateriell, sondern die allgemeine Immaterialität der Natur, deren einfaches ideelles Leben. Sie ist die Substanz, so die absolute Grundlage aller Besonderung und Vereinzelung des Geistes, daß er in ihr allen Stoff seiner Bestimmung hat, und sie die durchdringende, identische Idealität derselben bleibt. Aber in dieser noch abstracten Bestimmung ist sie nur der Schlaf des Geistes; - der passive Nus des Aristoteles, welcher der Möglichkeit nach Alles ist.
+
+Die Frage um die Immaterialität der Seele kann nur dann noch ein Interesse haben, wenn die Materie [orig. 367] als ein Wahres einerseits, und der Geist als ein Ding andererseits vorgestellt wird. Sogar die Physiker sind aber in neuern Zeiten auf imponderable Stoffe als Wärme, Licht u.s.f. gekommen, [p. 294] wozu sie leicht auch Raum und Zeit rechnen könnten. Diese Imponderabilien haben jedoch noch sonst ein sinnliches Daseyn, ein Außersichseyn; der Lebensmaterie aber, die man auch darunter gezählt finden kann, fehlt nicht nur die Schwere, sondern auch jedes andere Daseyn, wornach sie sich noch zum Materiellen rechnen ließe. In der That ist in der Idee des Lebens schon an sich das Außersichseyn der Natur aufgehoben und der Begriff seine Substanz jedoch nur so als Subjectivität, daß die Existenz oder Objectivität noch an jenes Außersichseyn verfallen ist. Aber im Geiste, als dem Begriffe, dessen Existenz nicht die unmittelbare Einzelnheit, sondern die absolute Negativität, die Freiheit ist, so daß das Object oder die Realität des Begriffes der Begriff selbst ist, ist das Außersichseyn, welches die Grundbestimmung der Materie ausmacht, ganz zur subjectiven Idealität des Begriffes, zur Allgemeinheit verflüchtigt. Der Geist ist die existirende Wahrheit der Materie, daß die Materie selbst keine Wahrheit hat.
+
+Eine damit zusammenhängende Frage ist die nach der Gemeinschaft der Seele und des Körpers. Diese Gemeinschaft war als Factum angenommen, und es handelte sich daher allein darum, wie sie zu begreifen sey? Für die gewöhnliche Antwort kann angesehen werden, daß sie ein unbegreifliches Geheimniß sey. Denn in der That, wenn beide als absolut Selbstständige gegen einander vorausgesetzt werden, so sind sie einander eben so undurchdringlich, als jede Materie gegen eine andere undurchdringlich und nur in ihrem gegenseitigen Nichtseyn, ihren Poren, befindlich angenommen wird; wie Epikur den Göttern ihren Aufenthalt in den Poren angewiesen, aber consequent ihnen keine Gemeinschaft mit der Welt aufgebürdet hat. Für gleichbedeutend mit dieser Antwort kann die nicht angesehen werden, welche alle Philosophen gegeben haben, seitdem dieses Verhältniß zur Frage gekommen ist. Descartes, Malebranche, Spinoza, Leibnitz, haben sämmtlich Gott als diese Beziehung angegeben, und zwar in dem Sinne, daß die Endlichkeit der Seele und die Materie keine Wahrheit haben, so daß Gott bei ihnen nicht blos ein anderes Wort für jene Unbegreiflichkeit, sondern vielmehr die wahrhafte Identität derselben ist. Diese Identität ist jedoch bald zu abstract, wie die Spinozistische, bald zwar auch schaffend, aber zugleich nur als urtheilend, so daß es zum Unterschiede der Seele und des Leiblichen, Materiellen kommt, die Identität aber nur als Copula des Urtheils ist, nicht zum absoluten Schlusse fortgeht.
+
+[p. 295] §. 390.
+
+Die Seele ist zuerst
+
+## a.
+
+::: editorial
+in ihrer unmittelbaren Naturbestimmtheit, die nur seyende oder schaffende Seele;
+
+b. tritt sie als individuell in das Verhältniß zu diesem ihrem unmittelbaren Seyn träumende und sich eingewöhnende Seele;
+
+c. ist sie in demselben als ihrer Leiblichkeit wirklich, gestaltete und empfindende Seele.
+:::
+
+## DIE NATÜRLICHE SEELE.
+
+§. 391.
+
+Die allgemeine Seele muß nicht als Weltseele fixirt werden, denn sie ist nur die allgemeine Substanz, welche ihre wirkliche Wahrheit nur als Ein-| zelnheit, Subjectivität, hat. Als sich besondernd tritt sie, vorher nur innere Idee, in das Daseyn. In diesen Bestimmungen zeigt sie sich als seyende Seele, welche Naturbestimmtheiten an ihr hat, die, so zu sagen, hinter ihrer Idealität freie Existenz haben, d. i. für das Bewußtseyn Naturgegenstände sind, zu denen aber die Seele als solche sich nicht als zu äußerlichen verhält; sie hat vielmehr an ihr selbst diese Bestimmungen als natürliche Qualitäten.
+
+::: editorial
+392.
+
+Der Geist lebt 1) in seiner Substanz, der natürlichen Seele, das allgemeine planetarische Leben mit, den Unterschied der Klimate, den Wechsel der Jahreszeiten, der Tageszeiten, u. dgl. - ein Naturleben, das in ihm zum Theil zu Bestimmungen und Zuständen, zum Theil nur zu trüben Stimmungen kommt.
+
+Es ist in neuern Zeiten viel vom kosmischen, siderischen, tellurischen Leben des Menschen die Rede geworden. Das Thier lebt wesentlich in dieser Sympathie; dessen ganzer specifischer Charakter, so wie seine besondern Entwicklungen hängt, bei Vielen ganz, immer mehr oder weniger, damit zusammen. Beim Menschen verlieren dergleichen Sympathien um so mehr an Bedeutung, je gebildeter er, und je mehr damit sein ganzer Zustand
+:::
+
+[p. 296] stand auf freie geistige Grundlage gestellt ist. Die Weltgeschichte hängt nicht mit Revolutionen im Sonnensysteme zusammen, so wenig als die Schicksale der Einzelnen mit den Stellungen von Planeten. Der Unterschied der Klimate enthält eine festere und gewaltigere Bestimmtheit. Aber den Jahrszeiten, Tagszeiten entsprechen nur schwächere Stimmungen, die in Krankheitszuständen, wozu auch Verrücktheit gehört, in der Depression des selbstbewußten Lebens, sich vornehmlich nur hervorthun können. Unter dem Aberglauben | der Völker und den Verirrungen des schwachen Verstandes finden sich bei Völkern, die weniger in der geistigen Freiheit fortgeschritten und darum noch mehr in der Einigkeit mit der Natur leben, auch einige wirkliche Zusammenhänge und darauf sich gründende, wunderbar scheinende Vorausahndungen von Zuständen und daran sich knüpfenden Ereignissen. Aber mit der tiefer sich erfassenden Freiheit des Geistes verschwinden auch diese wenigen und geringen Dispositionen, die sich auf das Mitleben mit der Natur gründen. Das Thier wie die Pflanze bleibt dagegen darunter gebunden.
+
+§. 393.
+
+Das allgemeine planetarische Leben des Naturgeistes 2) besondert sich in die concreten Unterschiede der Erde und zerfällt in die besondern Naturgeister, die im Ganzen die Natur der geographischen Welttheile ausdrücken, und die Racenverschiedenheit ausmachen.
+
+Der Gegensatz der terrestrischen Polarität, durch welchen das Land gegen Norden zusammengedrängter ist und das Uebergewicht gegen das Meer hat, gegen die südliche Hemisphäre aber getrennt in Zuspitzungen auseinander läuft, bringt in den Unterschied der Welttheile zugleich eine Modification, die Treviranus (Biolog. II. Thl.) in Ansehung der Pflanzen und Thiere aufgezeigt hat.
+
+§. 394.
+
+Dieser Unterschied geht in die Particularitäten hinaus, die man Localgeister nennen kann, und die sich in der äußerlichen Lebensart, Beschäftigung, körperlicher Bildung und Disposition, aber noch mehr in innerer Tendenz und Befähigung des intelligenten und sittlichen Charakters der Völker zeigen.
+
+So weit die Geschichte der Völker zurückreicht, zeigt sie das Beharrliche dieses Typus der besondern Nationen. |
+
+[p. 297] Die Seele 3) vereinzelt sich zum individuellen Subject. Diese Subjectivität kommt aber hier nur als Vereinzelung der Naturbestimmtheit in Betracht. Sie ist als der Modus des verschiedenen Temperaments, Talents, Charakters, Physiognomie und anderer Dispositionen und Idiosyncrasien von Familien oder den singulären Individuen.
+
+## β) NATÜRLICHE VERÄNDERUNGEN.
+
+§. 396.
+
+An der Seele als Individuum bestimmt, sind die Veränderungen an ihm, als in ihnen beharrendem Subjecte und als Entwicklungsmomente desselben. Da sie in Einem physische und geistige Unterschiede sind, so wäre für deren concretere Bestimmung oder Beschreibung die Kenntniß des gebildeten Geistes zu anticipiren.
+
+Sie sind 1) der natürliche Verlauf der Lebensalter, von dem Kinde an, dem in sich eingehüllten Geiste, durch den entwickelten Gegensatz, die Spannung einer selbst noch subjectiven Allgemeinheit (Ideale, Einbildungen, Sollen, Hoffnungen u.s.f.), gegen die unmittelbare Einzelnheit, d. i. gegen die vorhandene Welt und die Stellung des Individuums in seinem Daseyn dazu (Jüngling), zu dem wahrhaften Verhältniß, der Anerkennung der objectiven Nothwendigkeit und Vernünftigkeit der bereits vorhandenen, fertigen Welt, an deren sich an und für sich vollbringendem Werke das Individuum seiner Thätigkeit eine Bewährung und Antheil verschafft, dadurch Etwas ist, wirkliche Gegenwart und objectiven Werth hat (Mann), bis zur Vollbringung der Einheit mit dieser Objectivität, welche Einheit als reell in die Unthätigkeit abstumpfender Gewohnheit übergeht, als ideell die Freiheit von den beschränkten Interessen und Verwicklungen der äußerlichen Gegenwart gewinnt, – (Greis.) [orig. 372]
+
+§. 397.
+
+2) Das Moment des reellen Gegensatzes des Individuums gegen sich selbst, so daß es sich in einem andern Individuum sucht und findet; - das Geschlechtsverhältniß, ein Naturunterschied einerseits der mit sich identischen, nicht zum innern extremen Gegensatze des Allgemeinen (in Zwecken, Wissenschaft, Kunst u.s.f.) und des Einzelnen fortgehenden Individualität, andererseits der sich in sich zum Gegensatz allgemeiner, objectiver Interessen gegen die vorhandene, seine [p. 298] eigene und die äußerlich-weltliche, Existenz spannenden, und jene in dieser zu einer erst hervorgebrachten Einheit verwirklichenden Thätigkeit. – Das Geschlechtsverhältniß erlangt in der Familie seine geistige und sittliche Bedeutung und Bestimmung.
+
+§. 398.
+
+3) Das Unterscheiden der Individualität als für sich seyender gegen sich als nur Seyender, welches Fürsichseyn selbst für sie die Einheit von beiden Bestimmungen ist, als unmittelbares Urtheil, das Erwachen der Seele, welches ihrem in sich verschlossenen Naturleben zunächst als Naturbestimmtheit und Zustand, einem Zustande, dem Schlafe gegenübertritt. – Das Erwachen ist nicht nur für uns oder äußerlich vom Schlafe unterschieden; es selbst ist das Urtheil der individuellen Seele, und somit das Unterscheiden ihrer selbst von ihrer noch ununterschiedenen Allgemeinheit. In das Wachseyn fällt überhaupt alle selbstbewußte und vernünftige Thätigkeit des Geistes. Der Schlaf ist Bekräftigung dieser Thätigkeit nicht als das blos Negative der Ruhe von derselben, sondern als Rückkehr aus der Welt der Bestimmtheiten, der Zerstreuung und aus dem Festwerden in den Einzelnheiten, in das allgemeine Wesen der Subjectivität, welches die Substanz jener Bestimmtheiten und deren absolute Macht ist.
+
+Der Unterschied von Schlaf und Wachen pflegt zu einer der Vexirfragen, wie man sie nennen könnte, [orig. 373] an die Philosophie gemacht zu werden (- auch Napoleon richtete bei einem Besuch der Universität zu Pavia diese Frage an die Classe der Ideologie). Die im §. angegebene Bestimmtheit ist abstract, in sofern sie zunächst das Erwachen als natürliches betrifft, worin das geistige allerdings implicite enthalten, aber noch nicht als Daseyn gesetzt ist. Wenn concreter von diesem Unterschiede, der in seiner Grundbestimmung derselbe bleibt, gesprochen werden sollte, so müßte das Fürsichseyn der individuellen Seele schon bestimmt als Ich des Bewußtseyns, und als verständiger Geist, genommen werden. Die Schwierigkeit, welche man dem Unterscheiden von jenen beiden Zuständen erregt, entsteht eigentlich erst in sofern man das Träumen im Schlafe hinzunimmt, und dann die Vorstellungen des wachen, besonnenen Bewußtseyns auch nur als Vorstellungen, was die Träume gleichfalls seyen, bestimmt. In dieser oberflächlichen Bestimmung von Vorstellungen kommen freilich beide Zustände überein, d. h. es wird damit über den Unterschied derselben hinweggesehen; und bei jeder angegebenen Unterscheidung läßt sich zu der trivialen Bemerkung, daß dies doch auch nur Vorstellungen seyen, zurückkehren. - Aber das Fürsichseyn der wachen Seele, concret aufgefaßt, ist Bewußtseyn [p. 299] und Verstand, und die Welt des verständigen Bewußtseyns ist ganz etwas anderes, als ein Gemälde von bloßen Vorstellungen und Bildern. Diese letztern als solche hängen vornehmlich äußerlich - nach den sogenannten Gesetzen der sogenannten Ideen-Association auf unverständige Weise zusammen, wobei sich freilich auch hie und da Kategorien einmischen können. Im Wachen aber verhält sich wesentlich der Mensch als concretes Ich, als Verstand; durch diesen steht die Anschauung vor ihm als concrete Totalität von Bestimmungen, in welcher jedes Glied, jeder Punkt seine bestimmte Stelle einnimmt. So hat der Inhalt seine [orig. 374] Bewährung nicht durch das bloße subjective Vorstellen und nur das Unterscheiden des Inhalts als eines Aeußern von der Person, sondern durch den concreten Zusammenhang, in welchem jeder Theil mit allen Theilen dieses Complexes steht. Das Wachen ist das concrete Bewußtseyn dieser gegenseitigen Bestätigung jedes einzelnen Momentes seines Inhalts durch alle übrigen des Gemäldes der Anschauung. Dies Bewußtseyn hat zugleich nicht nöthig deutlich entwickelt zu seyn, aber es ist in dieser ganzen Bestimmtheit im concreten Selbstgefühl enthalten und vorhanden. Um den Unterschied von Träumen und Wachen zu erkennen, braucht man nur den Kantischen Unterschied der Objectivität der Vorstellung (ihres Bestimmtseyns durch Kategorien) von der Subjectivität derselben überhaupt vor Augen zu haben; zugleich muß man wissen, was so eben bemerkt worden, daß was im Geiste wirklich vorhanden ist, darum nicht auf explicite Weise in seinem Bewußtseyn gesetzt zu seyn nöthig hat, so wenig als die Erhebung des etwa fühlenden Geistes zu Gott in Form der Beweise vom Daseyn Gottes vor dem Bewußtseyn zu stehen nöthig hat, ungeachtet wie früher auseinandergesetzt worden, diese Beweise ganz nur den Gehalt und Inhalt jenes Gefühls ausdrücken.
+
+## γ) EMPFINDUNG.
+
+§. 399.
+
+Schlafen und Wachen sind zunächst zwar nicht bloße Veränderungen, sondern wechselnde Zustände (Progreß ins Unendliche). Aber in diesem ihrem natürlichen, negativen Verhältniß ist eben so sehr das affirmative vorhanden. Die einzelne Seele findet so die Bestimmtheiten ihrer schlafenden Natur, welche als in ihrer Substanz an sich in derselben sind, in sich selbst für sich. Als Bestimmtheit ist dies Besondere von der Identität des [orig. 375] Fürsichseyns mit sich, unterschieden, und zugleich in dessen Einfachheit, einfach enthalten, - Empfindung.
+
+[p. 300] Die Empfindung ist die Form des dumpfen Webens des Geistes in seiner bewußt- und verstandlosen Individualität, in der alle Bestimmtheit noch unmittelbar ist, als nach ihrem Inhalte wie nach dem Gegensatze eines Objectiven gegen das Subject unentwickelt gesetzt, als seiner besondersten, natürlichen Eigenheit angehörig. Die Empfindung ist eben damit beschränkt, weil ihr Inhalt dem natürlichen, unmittelbaren Seyn, dem qualitativen also und endlichen angehört.
+
+Alles ist in der Empfindung, und wenn man will, Alles, was im geistigen Bewußtseyn und in der Vernunft hervortritt, hat seine Quelle und Ursprung in derselben; denn Quelle und Ursprung heißt nichts anders, als die erste unmittelbarste Weise, in der etwas erscheint. Es genüge nicht, daß Grundsätze, Religion u.s.f. nur im Kopfe seyen, sie müssen im Herzen, in der Empfindung seyn. In der That, was man so im Kopfe hat, ist im Bewußtseyn überhaupt, welchem ein Inhalt gegenständlich ist, und darin eben so sehr als er mit Mir, dem abstracten Ich, überhaupt identisch gesetzt, auch von Mir, nach seiner und meiner Besonderheit, abgehalten seyn und werden kann; in der Empfindung dagegen ist solcher Inhalt Bestimmtheit meines noch substantiellen dumpfen Fürsichseyns; er ist also als mein eigenstes gesetzt. Denn das Eigene ist das von Mir ungetrennte, und diese unmittelbare Einheit der Seele mit ihrer Substanz ist eben dies Ungetrenntseyn, was selbst noch nicht zum Ich des Bewußtseyns, noch weniger zur Freiheit vernünftiger Geistigkeit bestimmt ist. Daß übrigens Wille, Gewissen, Charakter, noch eine ganz andere Intensität und Festigkeit des Meineigen-seyns besitzen, als [orig. 376] die Empfindung überhaupt und der Complex derselben, das Herz, liegt auch in den gewöhnlichen Vorstellungen. – Daß aber die Empfindung und das Herz nicht die Form sey, wodurch etwas als religiös, sittlich, wahr, gerecht u.s.f. gerechtfertigt sey, und die Berufung auf Herz und Empfindung entweder ein nur nichts sagendes oder vielmehr schlechtes-sagendes sey, sollte für sich nicht nöthig seyn erinnert zu werden. Es kann keine trivialere Erfahrung geben als die, daß es wenigstens gleichfalls böse, schlechte, gottlose, niederträchtige u.s.f. Empfindungen und Herzen gibt; ja daß aus den Herzen nur solcher Inhalt kommt, ist in den Worten ausgesprochen: Aus dem Herzen kommen hervor arge Gedanken, Mord, Ehebruch, Hurerei, Lästerung u.s.f. In solchen Zeiten, in welchen das Herz und die Empfindung zum Kriterium des Guten, Sittlichen und Religiösen von wissenschaftlicher Theologie und Philosophie gemacht wird, wird es nöthig an jene triviale Erfahrung zu erinnern, eben so sehr als es auch [p. 301] heutigstags nöthig ist, überhaupt daran zu mahnen, daß das Eigenste, wodurch der Mensch sich vom Vieh unterscheidet, das Denken ist, und daß er das Empfinden mit diesem gemein hat.
+
+§. 401.
+
+Wird auf die aus der Einheit, welche Empfindung ist, nachher sich entwickelnden Unterschiede vom unmittelbaren Seyn der Seele und ihrem Fürsichseyn Rücksicht genommen, so wird letzteres als in sich vertieft Ich des Bewußtseyns und freier Geist, hingegen das erstere zur natürlichen Leiblichkeit bestimmt. Hienach unterscheidet sich eine äußerliche oder vielmehr leibliche
+
+Empfindung, welche zuerst eine Bestimmung der Leiblichkeit (des Auges u.s.f. aber überhaupt jedes körperlichen Theils) ist, die Empfindung wird darin, daß sie im Fürsichseyn der Seele innerlich gemacht, erinnert [orig. 377] wird. (Daß der Inhalt ferner im geistigen Bewußtseyn zur Anschauung einer objectiven Welt u.s.f. wird, gehört noch nicht hieher.) Auf der andern Seite wird die im Geiste entsprungene, ihm zuerst angehörige Bestimmtheit, um empfunden zu seyn, verleiblicht. So als Empfindung ist sie in dem Subject als unmittelbarer, natürlicher Einheit mit sich, in ihm als Seele gesetzt. (Daß der geistige Inhalt ferner vom geistigen Bewußtseyn zu seiner vernünftigen Objectivität bestimmt wird, fällt gleichfalls in spätere Entwicklung.) Zunächst solcher Inhalt auf jene Weise verleiblicht und zu einem Unmittelbaren gemacht, erscheint er so als Bestimmtheit der Empfindung dem Bewußtseyn zunächst als ein Vorgefundenes, Gegebenes. Aber die Verleiblichung ist als in der lebendigen concret entwickelten Natürlichkeit selbst concret, und nach dem besondern Inhalt der geistigen Bestimmung führt sie sich in einem besondern Systeme oder Organe des Leibes aus.
+
+Das Empfinden überhaupt enthält das gesunde sympathische Mitleben des individuellen Geistes in seiner Leiblichkeit. Aber das System des Empfindens in seiner sich verleiblichenden Besonderheit wäre würdig in einer eigenthümlichen Wissenschaft einer psychischen Physiologie, ausgeführt und abgehandelt zu werden. Die äußern Sinne werden längst für sich als Beziehungen leiblicher Gebilde auf ihre besondern Empfindungen, betrachtet, nämlich auf deren unmittelbaren Inhalt, z. B. Licht, Farbe, Ton u.s.f. Ein Anderes ist die weitere zunächst oberflächliche Vergleichung und Empfindung der Angemessenheit oder Unangemessenheit [p. 302] einer unmittelbaren Empfindung zu dem für sich bestimmten sinnlichen Innern, das Angenehme oder Unangenehme; wie auch die bestimmte Vergleichung im Symbolisiren der Empfindungen z. B. von Farben, Tönen, Gerüchen u.s.f. Aber abgesehen von diesen weiter abliegenden | Seiten würde für sich die interessanteste Seite einer psychischen Physiologie seyn, die Sympathie oder bestimmter die Verleiblichung zu betrachten, welche sich geistige Bestimmungen, insbesondere als Affecte geben. Es wäre der Zusammenhang zu begreifen, durch welchen der Zorn und Muth in der Brust, im Blute, im irritabeln Systeme, wie Nachdenken, geistige Beschäftigung im Kopfe, dem Centrum des sensibeln Systemes empfunden wird. Es wäre ein gründlicheres Verständniß als bisher über die bekanntesten Zusammenhänge zu fassen, durch welche von der Seele heraus die Thräne, die Stimme überhaupt, näher die Sprache, Lachen, Seufzen, und viele andere Particularisationen sich bilden, die gegen das Pathognomische und Physiognomische zu liegen. Die Eingeweide und Organe werden in der Physiologie als Momente nur des animalischen Organismus betrachtet, aber sie bilden zugleich ein System der Verleiblichung des Geistigen.
+
+§. 402.
+
+Die Empfindungen sind zunächst als solche einzeln, vorübergehende Bestimmungen, Veränderungen in ihrer Substantialität gesetzt in dem mit derselben identischen Fürsichseyn der Seele. Aber die Wahrheit des Einzelnen und Vorübergehenden ist das Allgemeine; die empfindende Seele ist in sich reflectirte Totalität des Empfindens, - Empfinden der totalen Substantialität, die sie an sich ist.
+
+## b.
+
+## DIE TRÄUMENDE SEELE.
+
+§. 403.
+
+Das empfindende Individuum ist die einfache Idealität, Subjectivität des Empfindens. Es ist darum zu thun, daß das Individuum sich als diese Sub|jectivität setzt, sich in Besitz nimmt, als die Macht seiner selbst für sich wird. Sie ist als empfindende nicht mehr blos natürliche, sondern innerliche Individualität, und dies ihr formelles Fürsichseyn ist zu objectiviren.
+
+[p. 303] Nirgend so sehr als bei der Seele und noch mehr beim Geiste ist es die Bestimmung der Idealität, die für das Verständniß am wesentlichsten festzuhalten ist; daß die Idealität Negation des Reellen, dieses aber zugleich aufbewahrt, virtualiter erhalten ist, ob es gleich nicht existirt. Es ist die Bestimmung, die wir wohl in Ansehung der Vorstellungen, des Gedächtnisses, vor uns haben. Jedes Individuum ist ein unendlicher Reichthum von Empfindungsbestimmungen, Vorstellungen, Kenntnissen, Gedanken u.s.f.; aber Ich bin darum doch ein ganz einfaches, ein bestimmungsloser Schacht, in welchem alles dieses aufbewahrt ist, ohne zu existiren. Erst wenn Ich mich an eine Vorstellung erinnere, bringe Ich sie aus jenem Innern heraus zur Existenz, vor das Bewußtseyn. In Krankheiten geschieht, daß Vorstellungen, Kenntnisse wieder zum Vorschein kommen, die seit vielen Jahren vergessen heißen, weil sie in so langer Zeit nicht ins Bewußtseyn gebracht wurden. Wir waren nicht in ihrem Besitz, kommen etwa auch durch solche in der Krankheit geschehene Reproduction nicht fernerhin in ihren Besitz, und doch waren sie in uns und bleiben noch fernerhin in uns. So kann der Mensch nie wissen, wie viele Kenntnisse er in der That in sich hat, ob er sie gleich vergessen hat. – Diese einfache Innerlichkeit ist und bleibt die Individualität in aller Bestimmtheit und Erfüllung, welche später in sie gesetzt wird. Hier ist diese Einfachheit der Seele zunächst in Beziehung auf ihre Leiblichkeit, welche für das Bewußtseyn und den Verstand eine außer einander und außer ihr seyende Materialität ist, festzuhalten. So wenig [die] Mannichfaltigkeit ihrer vielen Vorstellungen ein Außereinander und reale Vielheit in [orig. 380] der Seele begründet, so wenig hat das reale Auseinander der Leiblichkeit eine Wahrheit für die Seele. Empfindend ist sie unmittelbar bestimmt, also natürlich und leiblich, aber das Außereinander und die sinnliche Mannichfaltigkeit dieses Leiblichen gilt der Seele eben so wenig als dem Begriffe als etwas Reales und darum nicht für eine Schranke; die Seele ist der existirende Begriff. Sie ist darum in dem Leiblichen allgegenwärtige Einheit, wie für die Vorstellung der Leib Eine Vorstellung ist, und das unendlich Mannichfaltige seiner Materiatur und Organisation zur Einfachheit eines bestimmten Begriffes durchdrungen ist, so ist die Leiblichkeit und damit alles das, was als in ihre Sphäre gehöriges Außereinander fällt, in der empfindenden Seele zur Idealität, der Wahrheit der natürlichen Mannichfaltigkeit, reducirt. Die Seele ist an sich die Totalität der Natur, als individuelle Seele ist sie Monade, die gesetzte Totalität ihrer [p. 304] besondern Welt, so daß diese in sie eingeschlossen, ihre Erfüllung ist, gegen die sie sich nur zu sich selbst verhält.
+
+§. 404.
+
+Die Seele ist als individuelle, ausschließend überhaupt, den Unterschied in sich setzend. Das von ihr unterschieden werdende, ist noch nicht ein äußeres Object wie im Bewußtseyn, sondern es ist sie selbst als empfindende Totalität ihrem Fürsichseyn gegenüber. Die Seele ist in diesem Urtheile Subject, ihr Object ist ihre Substanz, welche zugleich ihr Prädicat ist. Diese Substanz ist nicht der Inhalt ihres Naturlebens, sondern als Inhalt der individuellen Seele, wie er in der Empfindung ist; da solche zugleich besondere ist, ist er ihre besondere Welt aber insofern diese auf implicite Weise in der Idealität des Subjects eingeschlossen ist.
+
+Diese Stufe des Geistes ist für sich die Stufe seiner [orig. 381] Dunkelheit, indem sich ihre Bestimmung nicht zu eigenthümlichem Inhalt entwickelt; sie ist in sofern überhaupt formell. Ein eigenthümliches Interesse erhält sie, in sofern sie als Form ist, und damit als Zustand erscheint (§. 380.), in welchem die schon weiter bestimmte Entwicklung der Seele zu Bewußtseyn und Verstand herab versinken kann. Die wahrhaftere Form des Geistes in einer untergeordnetern, abstractern existirend, enthält eine Unangemessenheit, welche die Krankheit ist. Es sind in dieser Sphäre einmal die abstracten Gestaltungen der Seele für sich, das andremal dieselben auch darum als die Krankheitszustände des Geistes zu betrachten, weil diese ganz allein aus jenen zu verstehen sind.
+
+## α)
+
+## DIE PASSIVE TOTALITÄT DER INDIVIDUALITÄT.
+
+§. 405.
+
+αα) Die Individualität als Totalität zunächst ist zwar ein monadisches Individuum, aber als unmittelbar noch nicht als Es selbst, nicht in sich reflectirt, und darum passiv. Somit ist seine selbstische Individualität ein anderes Individuum, das deren Subject ist, von dessen empfindender Selbstischkeit es als [p. 305] eine Substanz, welche nur unselbstständiges Prädicat ist, durchzittert und auf eine durchgängig widerstandslose Weise bestimmt wird; dies Subject kann so dessen Genius genannt werden.
+
+Es ist dies die Bestimmtheit des Kindes im Mutterleibe, - ein Verhältniß das weder blos leiblich, noch blos geistig, sondern psychisch ist, - ein Verhältniß der Seele. Es sind zwei Substanzen, und doch in noch ungetrennter Seeleneinheit; die eine ist noch kein Selbst, noch nicht undurchdringlich, noch ein widerstandloses; das andere ist dessen Selbst, das einzelne Selbst bei der. - Die Mutter ist der Genius des Kindes, denn unter Genius pflegt man die selbstische Totalität des Geistes zu verstehen, in sofern sie für sich existire, und die subjective Substantialität eines Andern, das nur äußerlich als Individuum gesetzt ist, ausmache; Letzteres hat nur ein formelles Fürsichseyn. Das Substantielle des Genius ist die ganze Totalität des Daseyns, Lebens, Charakters nicht als bloße Möglichkeit oder Fähigkeit oder Ansich, sondern als Wirksamkeit und Bethätigung, als concrete Subjectivität.
+
+Bleibt man bei dem Räumlichen und Materiellen stehen, nach welchem das Kind als Embryo in seinen besondern Häuten u.s.f. existirt, und sein Zusammenhang mit der Mutter durch den Nabelstrang, Mutterkuchen u.s.f. vermittelt ist, so kommt nur die äußerliche anatomische und physiologische Existenz in sinnlichen und reflectirenden Betracht; die wesentliche, das psychische Verhältniß wird übersehen, für welches alles jenes sinnliche und materielle Außereinander und Vermitteltseyn keine Wahrheit hat.
+
+Es sind bei diesem Zusammenhange nicht blos die in Verwunderung setzenden Bestimmungen, welche sich im Kinde durch heftige Gemüthsbewegungen, Verletzungen u.s.f. der Mutter fixiren, vor Augen zu haben, sondern das ganze psychische Urtheil der Substanz, in welches die weibliche Natur wie im Vegetativen die Monocotyledonen, in sich entzweibrechen kann, und worin das Kind so Krankheits- als die weitern Anlagen der Gestalt, Sinnesart, Charakters, Talents, Idiosynkrasien u.s.f. nicht mitgetheilt erhalten, sondern von Haus aus hat.
+
+Von diesem magischen Verhältniß kommen anderwärts im Kreise des bewußten, besonnenen Lebens sporadische Beispiele und Spuren, etwa zwischen Freunden, insbesondere nervenschwachen Freundinnen (- ein | Verhältniß, das sich zu den magnetischen Erscheinungen ausbilden kann), Eheleuten, Familiengliedern vor.
+
+[p. 306] §. 406.
+
+ββ) Diese passive Totalität als Form, Zustand des selbstbewußten, gebildeten, besonnenen Menschen ist Krankheit, in der das Individuum sich unvermittelt zu dem concreten Inhalte seiner selbst [verhält], so zu sagen seiner als Genius bewußt ist; animalischer Magnetismus und mit ihm verwandte Zustände.
+
+In dieser encyclopädischen Darstellung kann nicht geleistet werden, was für den Erweis der gegebenen Bestimmung des animalischen Magnetismus zu leisten wäre, daß nämlich die Erfahrungen entsprechend seyen. Hiefür müßten zuförderst die in sich so mannichfaltigen und von einander so sehr verschiedenen Erscheinungen unter ihre allgemeine Gesichtspunkte gebracht werden. Wenn das Factische vor allem aus der Bewährung bedürftig scheinen könnte, so würde eine solche jedoch auch wieder darum überflüssig seyn, weil diejenigen, welche sich die Betrachtung dadurch höchst leicht machen, daß sie die Erzählungen, so unendlich zahlreich und so sehr sie durch die Bildung, Charakter u.s.f. der Zeugen beglaubigt sind, kurzweg für Täuschung und Betrug ausgeben, in ihrem à priorischen Verstande so fest sind, daß nicht nur gegen denselben alle Beglaubigung nichts vermag, sondern daß sie auch schon das geleugnet haben, was sie mit Augen gesehen haben. Um auf diesem Felde selbst das, was man mit seinen Augen sieht, zu glauben, noch mehr es zu begreifen, dazu ist die Voraussetzung, nicht in den Verstandeskategorien befangen zu seyn. Es sollen hier nur die Hauptmomente, auf welche es ankommt, angegeben werden.
+
+a) Zum concreten Seyn eines Individuums gehört die Gesammtheit der Verhältnisse, in denen es zu andern Menschen und mit der Welt überhaupt steht. [orig. 384] Diese Totalität macht seine Wirklichkeit so aus, daß sie ihm immanent ist; und zwar nicht blos als die abstracte Concentration, welche dessen Charakter, Bildung u.s.f. heißt, sondern diese seine allgemeine Bestimmtheit als concret, identisch mit der lebendigen innern Subjectivität, wie auch mit seinen empirischen Particularitäten, – der Genius, wie es vorhin genannt worden ist, aber nicht der wollende und denkende freie Geist. Die Gefühlsform, in deren Versinken das Individuum hier betrachtet wird, ist vielmehr das Aufgeben seiner Existenz als freier bei sich selbst seyender Geistigkeit. Die nächste Folgerung hieraus in Beziehung auf den Inhalt ist, daß im Somnambulismus auch nur der Kreis der individuell bestimmten Welt, particulären Interessen und beschränkten Verhältnisse ins Bewußtseyn [p. 307] tritt. Wissenschaftliche Erkenntnisse oder philosophische Begriffe und allgemeine Wahrheiten erfordern einen andern Boden, das zum freien Bewußtseyn aus der Dumpfheit des empfindenden Lebens entwickelte Denken; es ist thörigt, Offenbarungen über Ideen vom somnambulen Zustand zu erwarten. β) Der Mensch von gesundem Sinne und Verstand weiß von dieser seiner Wirklichkeit, welche die concrete Erfüllung seiner Individualität ausmacht, auf selbstbewußte, verständige Weise; er weiß sie wach in der Form des Zusammenhangs seiner mit den Bestimmungen derselben als einer von ihm unterschiedenen äußern Welt, und er weiß von dieser als einer eben so verständig in sich zusammenhängenden Mannichfaltigkeit. In seinen subjectiven Vorstellungen, Planen hat er ebenso diesen verständigen Zusammenhang seiner Welt und deren Vermittlung mit diesen in sich gleichfalls durchgängig vermittelten objectiven Existenzen vor Augen (vergl. §. 398. Anm.). Dabei hat diese seine Welt, die außer ihm ist, ihre Fäden so in ihm, daß was er für sich selbst wirklich ist, aus denselben besteht; so daß er [orig. 385] auch in sich selbst so abstürbe, wie diese Aeußerlichkeiten verschwinden, wenn er nicht ausdrücklicher in sich durch subjective Vernunft und Charakter selbstständig und unabhängig ist. In diesem Falle ist er der Form des Zustandes, von dem hier die Rede, weniger fähig. Für die Erscheinung jener Identität kann an die Wirkung erinnert werden, die der Tod von geliebten Verwandten, Freunden u.s.f. auf Hinterbliebene haben kann, daß mit dem einen das andere stirbt oder abstirbt, -– Heimweh u. dergl.
+
+γ) Die Einhüllung des Bewußtseyns in den Schlaf, seines Verhältnisses zu seiner Erfüllung als zu seiner Außenwelt (im magnetischen Schlafe, Katalepsie, andern Krankheiten, z. B. der weiblichen Entwicklung, Nähe des Todes u.s.f.) bleibt jene immanente Wirklichkeit des Individuums, dieselbe substantielle Totalität als ein Gefühlsleben, das in sich sehend, wissend ist. Indem es das entwickelte, erwachsene, gebildete Bewußtseyn ist, welches in jenen Zustand des Fühlens herabgesetzt ist, behält es mit seinem Inhalte das Formelle seines Fürsichseyns, ein formelles Anschauen und Wissen, das nicht bis zum Urtheil fortgeht, wodurch sein Inhalt als äußere Objectivität für dasselbe ist, wenn es gesund und wach ist. So ist das Individuum die seine Wirklichkeit in sich wissende Monade, das Selbstbewußtseyn des Genius. In diesem Wissen ist daher das Charakteristische, daß derselbe Inhalt, der als verständige Wirklichkeit objectiv für das gesunde Bewußtseyn ist, und um welchen zu wissen es als besonnen der verständigen [p. 308] Vermittlung in ihrer ganzen realen Ausbreitung bedarf, in dieser Immanenz unmittelbar von ihm gewußt, angeschaut wird. Dies Anschauen ist in sofern ein Hellsehen, als es Wissen in der ungetrennten Substantialität des Genius ist, und sich im Wesen des Zusammenhangs befindet, und daher nicht an die Reihen der vermittelnden, einander [orig. 386] äußerlichen Bedingungen gebunden ist, die das besonnene Bewußtseyn zu durchlaufen hat und in Ansehung deren es nach seiner eigenen äußerlichen Einzelnheit beschränkt ist. Dies Hellsehen ist aber zugleich auch dunkler als das besonnene Bewußtseyn, weil in seiner Trübheit der Inhalt nicht als verständiger Zusammenhang ausgelegt, und es daher aller Zufälligkeit des Fühlens, Einbildens u.s.f. preisgegeben ist. Es ist darum nicht auszumachen, ob dessen, was die Hellsehenden richtig schauen, Mehr ist, oder dessen, in dem sie sich täuschen. - Abgeschmackt aber ist es, das Schauen dieses Zustandes für eine Erhebung des Geistes und für einen wahrhaftern, in sich allgemeiner Erkenntnisse fähigen Zustand zu halten.[^gw19-308-1]
+
+[^gw19-308-1]: *) Plato hat das Verhältniß der Prophezeiung überhaupt zum Wissen des besonnenen Bewußtseyns besser erkannt, als viele Moderne, welche an den platonischen Vorstellungen vom Enthusiasmus leicht eine Autorität für ihren Glauben an die Hoheit der Offenbarungen des somnambulen Schauens zu haben meynten. Plato sagt im Timäus (Steph. III. p. 71.f.), damit auch der unvernünftige Theil der Seele einigermaßen der Wahrheit theilhaftig werde, habe Gott die Leber geschaffen und ihr die Manteia, – das Vermögen Gesichte zu haben, gegeben. Daß Gott der menschlichen Unvernunft dies Weissagen gegeben, davon ist dies ein hinreichender Beweis, daß kein besonnener Mensch eines göttlichen und wahrhaften Gesichtes theilhaftig wird, sondern es sey, daß im Schlafe der Verstand gefesselt oder durch Krankheit oder einen Enthusiasmus außer sich gebracht ist. Richtig ist schon vor Alters gesagt worden, »zu thun und zu kennen das Seinige und Sich selbst, steht nur dem Besonnenen zu.<< Plato bemerkt sehr richtig, sowohl das Leibliche solches Schauens und Wissens als die Möglichkeit der Wahrheit der Gesichte, und das Untergeordnete derselben unter das vernünftige Bewußtseyn. |
+
+8) Indem in diesem Zustande die Unterscheidung des Selbstbewußtseyns von dem Inhalte des Individuums [orig. 387] als objectivem eingehüllt ist, und die Persönlichkeit des Verstandes und Willens mangelt, so ist dies ebenso ein Zustand der Passivität, wie der des Kindes im Mutterleibe; das kranke Subject kommt daher und steht unter der Macht eines Andern, des Magnetiseurs, und so sehr daß in diesem psychischen Zusammenhange beider das selbstlose, nicht als persönlich wirkliche Individuum zu seinem subjectiven Bewußtseyn das Bewußtseyn jenes besonnenen Individuums hat, daß dies Andere dessen gegenwärtige, formelle Seele, dessen Genius ist, der es auch [p. 309] mit Inhalt erfüllen kann. Daß der Somnambule Geschmäcke, Gerüche, die in dem, mit welchem er in Rapport ist, vorhanden sind, in sich selbst empfindet, daß er noch mehr von dessen sonstigen gegenwärtigen Anschauungen und innern Vorstellungen aber als den seinigen weiß, zeigt diese substantielle Identität, in welcher die Seele, als die auch als concrete wahrhaft immateriell ist, zu seyn fähig ist. In dieser substantiellen Identität ist auch die Subjectivität des Bewußtseyns nur Eine, und die Individualität des Kranken zwar ein Fürsichseyn, aber ein leeres und sich nicht präsentes, wirkliches; dies formelle Selbst hat daher seine Erfüllungen an den Empfindungen, Vorstellungen des Andern, sieht, riecht, schmeckt, liest, hört auch im Andern. Die nähere Modification, daß dem Somnambulen dagegen wieder das Sprechen dessen, mit dem er im Rapport ist, äußerlich ist, und dasselbe hört, wie auch anderer – aber nur derselben, die mit eben diesem Andern in Rapport gesetzt sind, – übergehe ich. – Aber zu bemerken ist noch, daß der Somnambule auf diese Weise in ein Verhältniß zu zwei Genien und einem zweifachen Inhalt zu stehen kommt, zu seinem eigenen und zu dem des Magnetiseurs. Welche Empfindungen oder Gesichte dieses formelle Vernehmen nun aus seinem eigenen Innern oder aus dem Vorstellen dessen, mit dem es in Rapport steht, erhält, anschaut [orig. 388] und zum Wissen bringt, ist unbestimmt. Diese Unsicherheit kann die Quelle von vielen Täuschungen seyn, begründet unter anderem auch die nothwendige Verschiedenheit der Ansichten der Somnambulen über Krankheitszustände und deren Heilungsweisen.
+
+ɛ) Wie in dieser fühlenden Substantialität der Gegensatz zum äußerlich Objectiven verschwindet, so ist innerhalb seiner selbst das Subject fähig, diese Einigkeit und das Verschwinden der Particularitäten des Fühlens zu zeigen, so daß, indem die Thätigkeit der Sinnesorgane eingeschlafen ist, ein Gemeingefühl sich zu den besondern Functionen bestimmt und mit den Fingern - insbesondere der Herzgrube, Magen - gesehen, gehört u.s.f. wird. Begreifen heißt für die verständige Reflexion, die Reihe der Vermittlungen zwischen einer Erscheinung und anderem Daseyn, mit welchem sie zusammenhängt, erkennen. Das Gefühlsleben, auch wenn es noch das nur formelle Wissen, wie in den erwähnten Krankheitszuständen, beibehält, ist gerade diese Form der Unmittelbarkeit, in welcher die Unterschiede vom Subjectiven und Objectiven, verständiger Persönlichkeit gegen eine äußerliche Welt, nicht vorhanden sind. Das Begreifen dieses verhältnißlosen und doch vollkommen erfüllten Zusammenhangs macht sich selbst [p. 310] unmöglich durch die Voraussetzung selbstständiger Persönlichkeiten gegen einander und gegen den Inhalt als eine objective Welt, und die Voraussetzung der Absolutheit des räumlichen und materiellen Auseinanderseyns überhaupt.
+
+## β) SELBSTGEFÜHL.
+
+§. 407.
+
+Die empfindende Totalität ist als Individualität wesentlich dies, sich in sich selbst zu unterscheiden, und zum Urtheil in sich zu erwachen, nach welchem sie besondere Empfindungen hat und als Subject in Beziehung auf ihre Bestimmungen ist. a) Das Subject als solches setzt die Bestimmtheiten der Empfindungen (- sie bestimmen sich nachher weiter als äußerliche, oder als Resultate und Befriedigungen eines innerlich Bestimmten, eines Triebes –) als seine Gefühle in sich. Es ist in die Besonderheit der Empfindungen versenkt, und zugleich schließt es durch die Idealität des Besondern sich mit sich, als subjectivem Eins zusammen. Es ist auf diese Weise Selbstgefühl - und ist dies zugleich nur im besondern Gefühl - psychisches bestimmtes Subject mit noch ungeschiedener Geistigkeit und Leiblichkeit.
+
+§. 408.
+
+β) Die Krankheit des Subjects in dieser Bestimmung ist, daß es gegen sein verständiges Bewußtseyn im Selbstgefühle und damit in der Besonderheit einer Empfindung beharren bleibt, welche es nicht zur Idealität zu verarbeiten und zu überwinden vermag. Was im vorherigen §. als abstractes Selbstgefühl bestimmt ist, ist im concreten Menschen (wie §. 406.) das erfüllte Selbst seines verständigen Bewußtseyns, - das Subject als in sich consequentes, nach seiner individuellen Stellung und dem Zusammenhange mit der äußern, ebenso innerhalb ihrer geordneten Welt sich ordnendes und haltendes Bewußtseyn. In einer besondern Bestimmtheit befangen bleibend, weist es solchem Inhalte nicht die verständige Stelle und die Unterordnung an, die ihm in dem individuellen Weltsysteme, welches ein Subject ist, zugehört. Das Subject befindet sich auf diese Weise [p. 311] im Widerspruche seiner in seinem Bewußtseyn systematisirten Totalität, und der besondern in derselben nicht flüssigen und nicht ein- und untergeordneten Bestimmtheit - die Verrücktheit.
+
+Bei der Betrachtung der Verrücktheit ist das ausgebildete, verständige Bewußtseyn zu anticipiren, welches | Subject zugleich natürliches Selbst des Selbstgefühls ist. In dieser Bestimmung ist es fähig, in den Widerspruch seiner für sich freien Subjectivität und einer Besonderheit, welche darin nicht ideell wird, und im Selbstgefühle bleibt, zu verfallen. Der Geist ist frei, und darum für sich dieser Krankheit nicht fähig. Er ist von früherer Metaphysik als Seele, als Ding betrachtet worden, und nur als Ding, d. i. als Natürliches und Seyendes ist er der Verrücktheit, der sich in ihm festhaltenden Endlichkeit, fähig. Deswegen ist sie eine Krankheit des Psychischen, ungetrennt des Leiblichen und Geistigen; der Anfang kann mehr von der einen oder der andern Seite auszugehen scheinen und ebenso die Heilung.
+
+Als gesund und besonnen hat das Subject das präsente Bewußtseyn der geordneten Totalität seiner individuellen Welt, in deren System es jeden vorkommenden besondern Inhalt der Empfindung, Vorstellung, Begierde, Neigung u.s.f. subsumirt, und an die verständige Stelle desselben einordnet, es ist der herrschende Genius über diese Besonderheiten. Es ist der Unterschied wie beim Wachen und Träumen, aber hier fällt der Traum innerhalb des Wachens selbst, so daß er dem wirklichen Selbstgefühl angehört. Irrthum und dergl. ist ein in jenen objectiven Zusammenhang consequent aufgenommener Inhalt. Es ist aber im Concreten oft schwer zu sagen, wo er anfängt Wahnsinn zu werden. Er wird dies überhaupt durch den Widerspruch gegen die Totalität der Vermittlungen, welche das concrete Bewußtseyn ist. So ist der Irrthum ein im Bewußtseyn unmittelbar bleibendes, ein Seyendes, und der Geist als nur seyend bestimmt, ist theils noch abstract, theils aber in sofern ein solches Seyn unaufgelöst in seinem Bewußtseyn ist, so ist er krank. - Der Inhalt, der in dieser seiner Natürlichkeit frei wird, sind die selbstsüchtigen Bestimmungen des Herzens, Eitelkeit, Stolz und die andern Leidenschaften, und Einbildungen, Hoffnungen, Liebe und Haß des Subjects. Dieses Irdische wird frei, indem die Macht der Besonnenheit und des Allgemeinen, der theoretischen, oder moralischen Grundsätze über das Natürliche nachläßt, welche dasselbe sonst unterworfen und versteckt hält; denn vorhanden ist es in dem Herzen, weil dieses als [p. 312] unmittelbar natürlich und selbstisch ist. Es ist der böse Genius des Menschen, der in der Verrücktheit herrschend wird, zugleich im Gegensatze und im Widerspruche gegen das Bessere und Verständige, das im Menschen zugleich ist, so daß dieser Zustand Zerrüttung und Unglück des Geistes in ihm selbst ist. Weswegen auch die wahrhafte psychische Behandlung den Gesichtspunkt festhält, daß die Verrücktheit nicht abstracter Verlust der Vernunft, sowohl nach der Seite der Intelligenz als des Willens und seiner Zurechnungsfähigkeit, sondern nur Verrücktheit ist, die Behandlung daher den Kranken als Vernünftiges voraussetzt und hieran den festen Halt hat, an dem sie ihn nach dieser Seite erfassen kann, wie nach der Leiblichkeit an der Lebendigkeit, welche als solche noch Gesundheit in sich enthält.
+
+## γ) DIE GEWOHNHEIT.
+
+§. 409.
+
+Das Selbstgefühl als solches ist formell, und setzt die Bestimmungen der Empfindung überhaupt zwar in seine Subjectivität, allein in deren abstracter Einzelnheit nur so, daß sie darin zufällig überhaupt und vorübergehend wären. Das Selbst aber ist als einfache Beziehung der Idealität auf sich formelle Allgemeinheit. An der in ihm gesetzten besondern Empfindung wird deren Unmittelbarkeit, d. i. die Leiblichkeit der Seele aufgehoben und erhält die Form der Allgemeinheit. Diese ist aber in Beziehung auf die natürliche Einzelnheit nur Reflexions- Allgemeinheit (§. 175.), und die Einbildung der Empfindungen nach dieser ihrer Leiblichkeit (das Selbst ist schon an sich die Gattung derselben) erscheint daher als eine Wiederholung, wodurch das Selbst sich dieselbe zu eigen macht. Das Selbstgefühl hebt eben darin sein formelles, subjectives Fürsichseyn auf, erfüllt sich und macht sich an ihm selbst zum Objectiven, so daß dieses in sich bestimmte Seyn der Seele ebenso schlechthin ideelles, das ihrige ist. So ist das Selbst allgemeine durchdringende Seele in ihrem Empfinden und in ihrem Leibe für sich, Subject in demselben als dem Prädicate
+
+Gewohnheit.
+
+§. 410.
+
+In sofern auf den anticipirten Unterschied Bedacht genommen wird, daß die Bestimmtheit, der Inhalt der Empfindung von Außen kommt, oder aber im Willen, Trieb im Innern ihren Ursprung hat, so ist nach jener Seite, die Objectivität der Seele Gewohnheit überhaupt, auch Abhärtung, so daß das [p. 313] Bewußtseyn, ob es wohl diese Empfindung hat, von ihr und ihrer Leiblichkeit gar nicht oder nicht ausschließend beschäftigt wird, weil es nicht mehr im Unterschiede gegen sie, sondern das Empfinden zu einem Seyn der Seele, zur Unmittelbarkeit herabgesetzt ist. Ist die Gewohnheit von innerer Bestimmung ausgegangen, so gehört die Geschicklichkeit hieher, die Einbildung der Vorstellungsbestimmungen in die Leiblichkeit, so daß diese keine Eigenthümlichkeit mehr für sich hat, sondern jenen vollkommen durchgängig ist, – als ein unterworfenes ideelles Seyn nur ist, wie umgekehrt die Vorstellungen unmittelbares, leibliches Daseyn haben, wie sie als Vorstellungen in mir vorhanden, unmittelbar auch auf äußerliche Weise vollbracht sind.
+
+Die Gewohnheit ist mit Recht eine zweite Natur genannt worden, Natur, denn sie ist ein unmittelbares Seyn – eine Zweite, denn sie ist eine von der Seele gesetzte Unmittelbarkeit, eine Ein- und Durchbildung der Leiblichkeit für die Vorstellungs-Willens-Bestimmtheiten.
+
+Der Mensch ist darum in der Gewohnheit in der Weise von Natur-Existenz und unfrei, aber in sofern frei, als die Naturbestimmtheit der Empfindung durch die Gewohnheit zu seinem Seyn herabgesetzt, er nicht mehr in Differenz und damit nicht mehr in Abhängigkeit gegen dieselbe ist. Die Unfreiheit ist aber theils nur formell, theils nur relativ, und findet eigentlich nur Statt bei übeln Gewohnheiten, oder in sofern einer Gewohnheit überhaupt ein anderer Zweck entgegengesetzt ist. Die wesentliche Bestimmung ist die Befreiung, die der Mensch von den Empfindungen, indem er von ihnen afficirt ist, durch die Gewohnheit gewinnt. Die Abhärtung gegen äußerliche Empfindungen (Frost, Hitze, Müdigkeit der Glieder u.s.f., Wohlgeschmack u.s.f.), so wie die Abhärtung des Gemüths gegen Unglück ist eine Stärke, daß, indem der Frost u.s.f. das Unglück von dem Menschen allerdings empfunden wird, solche Affection zu einer Aeußerlichkeit und Unmittelbarkeit (- es ist) herabgesetzt, und sein Bewußtseyn, Reflexion, sonstiger Zweck und Thätigkeit nicht mehr damit verwickelt ist. Die Triebe werden durch die Gewohnheit der Empfindung ihrer Befriedigung abgestumpft; dies ist die vernünftige Befreiung von denselben, (- die mönchische Entsagung und Gewaltsamkeit befreit nicht von ihnen) es versteht sich dabei, daß die Triebe, nach ihrer Natur als endliche Bestimmtheiten gehalten, und sie wie ihre Befriedigung als Momente in der Vernünftigkeit des Willens untergeordnet sind. - In den Geschicklichkeiten ist die Leiblichkeit, welche in der unmittelbaren Einheit der Seele natürliches Mittel (vgl. §. 208.) des [p. 314] Willens und seines Vorstellens [orig. 394] ist, so zum Instrumente gemacht, daß, wie die Vorstellung (z. B. eine Reihe von Noten), in mir ist, auch widerstandslos und flüssig, der Körper sie richtig geäußert hat.
+
+Die Form der Gewohnheit umfaßt alle Arten und Stufen der Thätigkeit des Geistes; die äußerlichste, die räumliche Bestimmung des Individuums, daß es aufrecht steht, ist durch seinen Willen zur Gewohnheit gemacht, eine unmittelbare, bewußtlose Stellung, die aber immer Sache seines fortdauernden Willens bleibt; der Mensch steht nur, weil und sofern er will, und nur solang als er [es] bewußtlos will. Ebenso Sehen und so fort ist die concrete Gewohnheit, welche unmittelbar die vielen Bestimmungen der Empfindung, des Bewußtseyns, der Anschauung, des Verstandes u.s.f. in Einem einfachen Act vereint. Das ganz freie, in dem reinen Elemente seiner selbst thätige Denken bedarf ebenfalls der Gewohnheit und Geläufigkeit, dieser Form der Unmittelbarkeit, wodurch es ungehindertes, durchgedrungenes Eigenthum meines einzelnen Selbsts ist. Erst durch diese Gewohnheit existire Ich als denkendes für mich. Selbst diese Unmittelbarkeit des denkenden Bei-sich-seyns enthält Leiblichkeit (Ungewohntheit und lange Fortsetzung des Denkens macht Kopfweh), die Gewohnheit vermindert diese Empfindung, indem sie die natürliche Bestimmung zu einer Unmittelbarkeit der Seele macht. – Die entwickelte und im Geistigen als solchem bethätigte Gewohnheit aber ist die Erinnerung und das Gedächtniß, und weiter unten zu betrachten.
+
+Von der Gewohnheit insbesondere pflegt herabsetzend gesprochen und sie als ein Unlebendiges, Zufälliges und Particuläres genommen zu werden. In der That ist der Gewohnheit als Form ganz zufälliger Inhalt fähig, und es ist die Gewohnheit des Lebens, welche [orig. 395] den Tod herbeiführt, oder, wenn ganz abstract, der Tod selbst ist. Aber zugleich ist sie der Existenz aller Geistigkeit im individuellen Subjecte das Wesentlichste, damit dieses concrete Unmittelbarkeit, seelische Idealität sey, damit der Inhalt, religiöser, moralischer u.s.f. ihm als diesem Selbst, ihm als dieser Seele angehöre, weder in ihm blos an sich (als Anlage), noch als vorübergehende Empfindung oder Vorstellung, sondern in seinem freien, allgemeinen Seyn sey. In gewöhnlicher Betrachtung der Seele und des Geistes pflegt die Gewohnheit etwa als etwas Verächtliches übergangen zu werden, oder vielmehr auch, weil sie zu den schwersten Bestimmungen gehört.
+
+## [p. 315] C.
+
+## DIE WIRKLICHE SEELE.
+
+§. 411.
+
+Die Seele ist in ihrer durchgebildeten und sich zu eigen gemachten Leiblichkeit als einzelnes Subject für sich, und diese die Aeußerlichkeit als Prädicat, in welchem als unselbstständigem das Subject sich nur auf sich bezieht. Diese Aeußerlichkeit stellt so nicht sich vor, sondern die Seele, und ist deren Zeichen. Die Seele ist als diese Identität des Innern und Aeußern wirklich, und hat an ihrer Leiblichkeit ihre freie Gestalt, in der sie sich fühlt und sich zu fühlen gibt, und damit menschlichen, pathognomischen und physiognomischen Ausdruck hat. Zum ersten gehört z. B. die aufrechte Gestalt überhaupt, die Bildung insbesondere der Hand, als des absoluten Werkzeugs, des Mundes, Lachen, Weinen u.s.w. und der über das Ganze ausgegossene geistige Ton, welcher den Körper unmittelbar als Aeußerlichkeit [orig. 396] einer höhern Natur kund gibt. Dieser Ton ist eine so leichte, unbestimmte und unsagbare Modification, weil der Geist identisch mit seiner Aeußerlichkeit Allgemeines für sich und darum eben so frei darin ist, dieses aber zugleich die Unvollkommenheit hat, ein unmittelbares und natürliches zu seyn, und darum Zeichen ist, den Geist hiemit zwar, aber zugleich als ein Aeußerliches, nicht wie er für sich selbst als allgemeines ist, vorstellt. Für das Thier ist daher die menschliche Gestalt das Höchste, wie der Geist demselben erscheint. Oder für den Geist ist sie die erste Erscheinung desselben, weil sie seine erste, noch in der Sphäre der Unmittelbarkeit versenkte Wirklichkeit ist. - Der Geist ist also in diesem seinem Zeichen schlechthin endlicher und einzelner; es ist zwar seine Existenz, aber sie ist zugleich in ihrer physiognomischen und pathognomischen Bestimmtheit Zufälliges für ihn, und die Physiognomik, vollends aber die Cranioskopie zu Wissenschaften erheben zu wollen, ist einer der leersten Einfälle, die es geben konnte, noch leerer als eine signatura rerum, wenn aus der Gestalt der Pflanzen ihre Heilkraft erkannt werden sollte.
+
+§. 412.
+
+An sich hat die Materie keine Wahrheit im Geiste als der allgemeinen Seele; die Leiblichkeit, welche zwar seiner Individualität angehört, aber dieselbe zunächst in der Form der Unmittelbarkeit ist, kann ebenso seinem Einbilden in sie keinen Widerstand leisten. Durch die Einbildung des Seyns in sich hat der Geist, da er es sich entgegengesetzt, es aufgehoben und als das seinige bestimmt hat, die [p. 316] Bedeutung der Seele, seiner Unmittelbarkeit, verloren. Die wirkliche Seele, in der Gewohnheit des Empfindens und ihres concreten Selbstgefühls, ist gesetzt als die für sich seyende [orig. 397] Idealität ihrer Bestimmtheiten, in ihrer Aeußerlichkeit erinnert in sich und unendliche Beziehung auf sich. Dies Fürsichseyn ihrer freien Allgemeinheit ist das höhere Erwachen des noch an sich seyenden Geistes zum Ich, welches so Denkendes und Subject für sich und zwar bestimmt seines Urtheils ist, in welchem es die Totalität seiner Bestimmungen als ein Object, eine ihm äußere Welt von sich ausschließt, sich darauf bezieht, aber so daß es in derselben unmittelbar in sich reflectirt ist, das Bewußtseyn. [orig. 398]
+
+## B.
+
+## DIE PHÄNOMENOLOGIE DES GEISTES.
+
+## DAS BEWUSSTSEYN.
+
+§. 413.
+
+Das Bewußtseyn macht die Stufe der Reflexion oder des Verhältnisses des Geistes, seiner als Erscheinung, aus. Ich ist die unendliche Beziehung des Geistes auf sich, aber als subjective, als Gewißheit seiner selbst. Die reine abstracte Freiheit für sich entläßt die Bestimmtheit als eben so frei, als selbstständiges Object, aus sich. Aber Ich als diese absolute Negativität ist die Identität in dem Andersseyn; Ich ist es selbst und greift über das Object als ein an sich aufgehobenes über, ist Eine Seite des Verhältnisses und das ganze Verhältniß; das Licht, das sich und noch Anderes manifestirt.
+
+§. 414.
+
+Die Identität des Geistes mit sich, wie sie zunächst als Ich gesetzt ist, ist nur seine abstracte, formelle Idealität. Als Seele in der Form substantieller Allgemeinheit ist er als die subjective Reflexion-in-sich, darauf als auf das Negative seiner, ihm Jenseitiges und Dunkles bezogen. Das Bewußtseyn ist daher, wie das Verhältniß überhaupt, der Widerspruch der Selbstständigkeit der Seiten, und ihrer Identität, in welcher sie aufgehoben sind. Der Geist ist als Ich Wesen, aber [orig. 399] indem die Realität in der Sphäre des Wesens das Verhältniß ist, ist er als das Bewußtseyn nur das Erscheinen des Geistes.
+
+[p. 317] Da Ich für sich nur als formelle Identität ist, so ist die dialektische Bewegung des Bewußtseyns ihm nicht als seine Thätigkeit, sondern sie ist an sich, d. i. für dasselbe Veränderung des Objects. Das Bewußtseyn erscheint daher verschieden nach der Verschiedenheit des gegebenen Gegenstandes, und seine Fortbildung als eine Veränderung der Bestimmungen seines Objects.
+
+Die Kantische Philosophie kann am bestimmtesten so betrachtet werden, daß sie den Geist als Bewußtseyn aufgefaßt hat, und ganz nur Bestimmungen der Phänomenologie, nicht der Philosophie desselben, enthält. Sie betrachtet Ich als Beziehung auf ein Jenseitsliegendes, in seiner abstracten Bestimmung, das Ding-an-sich, so sowohl die Intelligenz als den Willen, und wenn sie im Begriffe der reflectirenden Urtheilskraft zwar auf die Idee des Geistes, die Subject-Objectivität, einen anschauenden Verstand u.s.f., wie auch auf die Idee der Natur, zu sprechen kommt, so wird diese Idee selbst wieder zu einer Erscheinung, nämlich einer subjectiven Maxime, herabgesetzt (s. §. 58. Einl.). Es ist daher für einen richtigen Sinn dieser Philosophie anzusehen, daß sie von Reinhold als eine Theorie des Bewußtseyns, unter dem Namen Vorstellungsvermögen, aufgefaßt worden. Die Fichtesche Philosophie hat denselben Standpunkt, und Nicht-Ich ist nur als Gegenstand des Ich, nur im Bewußtseyn bestimmt; es bleibt als unendlicher Anstoß, d. i. als Ding-an-sich. Beide Philosophien zeigen daher, daß sie nicht zum Begriffe oder zum Geiste, wie er an und für sich ist, sondern nur, wie er in Beziehung auf ein Anderes ist, gekommen sind. [orig. 400]
+
+In Beziehung auf Spinozismus ist dagegen zu bemerken, daß der Geist in dem Urtheile, wodurch er sich als Ich, als freie Subjectivität gegen die Bestimmtheit constituirt, aus der Substanz, und die Philosophie, indem ihr dies Urtheil absolute Bestimmung des Geistes ist, aus dem Spinozismus heraustritt.
+
+§. 416.
+
+Das Ziel des Geistes als Bewußtseyns ist diese seine Erscheinung mit seinem Wesen identisch zu machen, die Gewißheit seiner selbst zur Wahrheit zu erheben. Die Existenz, die er im Bewußtseyn hat, hat darin ihre Endlichkeit, daß sie die formelle ist; weil das Object nur abstract als das Seinige bestimmt oder er in demselben nur in sich als abstractes Ich reflectirt ist, so hat diese Existenz noch einen Inhalt, der nicht als der seinige ist.
+
+[p. 318] §. 417.
+
+Die Stufen dieser Erhebung der Gewißheit zur Wahrheit sind, daß er a) Bewußtseyn überhaupt ist, welches einen Gegenstand als solchen hat, b) Selbstbewußtseyn, für welches Ich der Gegenstand ist, c) Einheit des Bewußtseyns und Selbstbewußtseyns, daß der Geist den Inhalt des Gegenstandes als sich selbst und sich selbst als an und für sich bestimmt anschaut; – Vernunft, der Begriff des Geistes.
+
+## a.
+
+## DAS BEWUSSTSEYN, ALS SOLCHES.
+
+§. 418.
+
+Das Bewußtseyn ist 1) zunächst das unmittelbare, seine Beziehung auf den Gegenstand daher die einfache unvermittelte Gewißheit desselben; der Gegenstand selbst ist daher ebenso als unmittelbarer, als seyender [orig. 401] und in sich reflectirter, weiter als unmittelbar Einzelner bestimmt; sinnliches Bewußtseyn.
+
+Das Bewußtseyn als Verhältniß enthält nur die dem abstracten Ich oder formellen Denken angehörigen Kategorien, die ihm Bestimmungen des Objects sind. Es weiß daher nur von diesem als einem Seyenden, Etwas, existirenden Dinge, Einzelnem. Das sinnliche Bewußtseyn als das reichste an Inhalt erscheinend ist das ärmste an Gedanken. Jene reiche Erfüllung machen die Empfindungsbestimmungen aus. Die räumliche und zeitliche Einzelnheit, Hier und Jetzt, wie ich in der Phänomenologie des Geistes S. 25.ff den Gegenstand des sinnlichen Bewußtseyns bestimmt habe, gehört eigentlich dem Anschauen an. Das Object ist hier zunächst nur nach dem Verhältnisse zu nehmen, welches es zu dem Bewußtseyn hat, nämlich ein demselben Aeußerliches, noch nicht für sich Aeußerliches oder selbst ein Außersichseyn zu seyn.
+
+§. 419.
+
+Das Sinnliche als Etwas wird ein Anderes; die Reflexion des Etwas in sich, das Ding, hat viele Eigenschaften, und das Einzelne in seiner [p. 319] Unmittelbarkeit mannichfaltige Prädicate. Das viele Einzelne der Sinnlichkeit wird daher ein Breites, eine Mannichfaltigkeit von Beziehungen, Reflexionsbestimmungen, und Allgemeinheiten. Dies sind logische Bestimmungen, durch das Denkende, d. i. hier durch das Ich gesetzt. Aber für dasselbe als erscheinend hat der Gegenstand sich so verändert. Das sinnliche Bewußtseyn ist in dieser Bestimmung zum Wahrnehmen geworden.
+
+§. 420.
+
+2) Das Bewußtseyn, das über die Sinnlichkeit hinausgegangen, will den Gegenstand in seiner Wahrheit | nehmen, nicht als blos unmittelbaren, sondern in sich vermittelten und in sich reflectirten. Er ist somit eine Verbindung von sinnlichen und von Gedankenbestimmungen und das Bewußtseyn in seinem sinnlichen Verhalten hier zugleich thätige Reflexion-in-sich. Damit ist seine Identität mit dem Gegenstand nicht mehr die abstracte der Gewißheit, sondern die bestimmte, ein Wissen.
+
+Die nähere Stufe des Bewußtseyns, auf welcher die Kantische Philosophie den Geist auffaßt, ist das Wahrnehmen, welches überhaupt der Standpunkt unsers gewöhnlichen Bewußtseyns und mehr oder weniger der Wissenschaften ist. Es wird von sinnlichen Gewißheiten einzelner Apperceptionen oder Beobachtungen ausgegangen, die dadurch zur Wahrheit erhoben werden sollen, daß sie in ihrer Beziehung betrachtet, über sie reflectirt, überhaupt daß sie nach Verstandesbestimmungen zugleich zu etwas Allgemeinem, zu Erfahrungen werden.
+
+§. 421.
+
+Diese Verknüpfung des Einzelnen und Allgemeinen ist Vermischung, weil das Einzelne zum Grunde liegendes Seyn und fest gegen das Allgemeine bleibt, auf welches es zugleich bezogen ist. Sie ist daher der vielseitige Widerspruch, – überhaupt der einzelnen Dinge der sinnlichen Apperception, die den Grund der allgemeinen Erfahrung ausmachen sollen, und der Allgemeinheit, die vielmehr das Wesen und der Grund seyn soll, – und denn der Einzelnheit der Dinge selbst, welche deren Selbstständigkeit ausmacht, und der mannichfaltigen Eigenschaften, die vielmehr frei von diesem negativen Bande und von einander, selbstständige allgemeine Materien sind, u.s.f. (s. §. 123. ff. die Erscheinung). |
+
+[p. 320] §. 422.
+
+Die nächste Wahrheit des Wahrnehmens ist, daß der Gegenstand vielmehr Erscheinung und seine Reflexion-in-sich ein dagegen für sich seyendes Inneres ist. Das Bewußtseyn dieses Gegenstandes ist 3) der Verstand. Jenes Innere ist einerseits die aufgehobene Mannichfaltigkeit des Sinnlichen, und auf diese Weise die abstracte Identität, aber andererseits enthält es deswegen sie auch, aber als innern einfachen Unterschied, welcher in dem Wechsel der Erscheinung mit sich identisch bleibt. Dieser einfache Unterschied ist das Reich der Gesetze der Erscheinung, ihr ruhiges allgemeines Abbild.
+
+§. 423.
+
+Das Gesetz zunächst das Verhältniß allgemeiner, bleibender Bestimmungen, hat, in sofern sein Unterschied der innere ist, seine Nothwendigkeit an ihm selbst; die eine der Bestimmungen, als nicht äußerlich von der andern unterschieden, liegt unmittelbar selbst in der andern. Der innere Unterschied ist aber auf diese Weise, was er in Wahrheit ist, der Unterschied an ihm selbst, oder der Unterschied, der keiner ist. – In dieser Bestimmung ist an sich das Bewußtseyn in seiner ersten Form, welche die Selbstständigkeit des Subjects und Objects gegen einander enthält, verschwunden; Ich hat als urtheilend einen Gegenstand, der nicht von ihm unterschieden ist, sich selbst; Selbstbewußtseyn.
+
+## b.
+
+## DAS SELBSTBEWUSSTSEYN.
+
+§. 424.
+
+Die Wahrheit des Bewußtseyns ist das Selbstbewußtseyn, und dieses der Grund von jenem, so daß in der Existenz auch alles Bewußtseyn eines andern Gegen standes zugleich Selbstbewußtseyn ist. Der Ausdruck von diesem ist Ich = Ich; abstracte Freiheit, reine Idealität. – So ist es ohne Realität, denn es selbst, das Gegenstand seiner ist, ist nicht ein solcher, da kein Unterschied desselben und seiner vorhanden ist.
+
+§. 425.
+
+Indem das abstracte Selbstbewußtseyn die erste Negation des Bewußtseyns ist, so ist es auch behaftet mit einem äußerlichen Object; es ist daher zugleich die [p. 321] vorhergehende Stufe, Bewußtseyn, und ist der Widerspruch seiner als Selbstbewußtseyns und seiner als Bewußtseyns. Aber indem letzteres und die Negation überhaupt an sich schon aufgehoben ist, ist es als diese Gewißheit seiner selbst gegen diese Negation, der Trieb das zu setzen, was es an sich ist, – näher dem abstracten Wissen von sich Inhalt und Objectivität zu geben, und umgekehrt sich von seiner Sinnlichkeit zu befreien, die Objectivität als gegebene aufzuheben und mit sich identisch zu setzen, oder sein Bewußtseyn seinem Selbstbewußtseyn gleich zu machen. Beides ist ein und dasselbe.
+
+§. 426.
+
+1) Das Selbstbewußtseyn in seiner Unmittelbarkeit ist Einzelnes und Begierde, der Widerspruch seiner Abstraction, welche objectiv, oder seiner Unmittelbarkeit, welche subjectiv seyn soll und die zugleich die Gestalt eines äußern Objects hat, nach welcher das Selbstbewußtseyn Bewußtseyn ist. Für seine einfache Identität mit sich ist die Negation, welche an ihm selbst als die Abstraction ist, als Nichtiges bestimmt, wie das Object für die aus dem Aufheben des Bewußtseyns hervorgegangene Gewißheit seiner selbst.
+
+§. 427.
+
+Das Selbstbewußtseyn ist sich daher an sich im Gegenstande, der auf diese Weise dem Triebe gemäß ist; in [orig. 405] der Negativität, als der eigenen Thätigkeit des Ich, wird für dasselbe diese Identität. Der Gegenstand kann dieser Thätigkeit keinen Widerstand leisten, als an sich und für dasselbe das Selbstlose; die Dialektik, welche seine Natur ist, sich aufzuheben, existirt hier als jene Thätigkeit des Ich. Das gegebene Object wird hierin eben so subjectiv gesetzt, als die Subjectivität sich ihrer Einseitigkeit entäußert und sich somit objectiv wird.
+
+§. 428.
+
+Das Product dieses Processes ist, daß Ich sich mit sich selbst zusammenschließt und hiedurch für sich Wirkliches ist. Nach der äußerlichen Seite bleibt es in dieser Rückkehr zunächst nur als Einzelnes bestimmt, und hat sich nur erhalten, weil es sich auf das selbstlose Object nur negativ bezieht, dieses in sofern nur aufgezehrt wird. Die Begierde ist so in ihrer Befriedigung überhaupt zerstörend, und selbstsüchtig.
+
+[p. 322] §. 429.
+
+Aber das Selbstbewußtseyn hat an sich schon die Gewißheit seiner in seiner Abstraction (der einseitigen Subjectivität) und in dem unmittelbaren Gegenstande. Das Selbstgefühl, das ihm in der Befriedigung wird, ist daher nach der innern Seite nicht nur das abstracte seines Fürsichseyns oder nur seiner Einzelnheit, sondern als die Negation der Unmittelbarkeit seines Fürsichseyns, ist das Product allgemeines (zunächst näher besonderes) Selbstbewußtseyn. Das Urtheil oder die Diremtion desselben ist das Bewußtseyn eines freien Objects, in welchem Ich das Wissen seiner als Ich hat.
+
+§. 430.
+
+2) Es ist ein Selbstbewußtseyn für ein Selbstbewußtseyn, zunächst unmittelbar als ein Anderes für ein Anderes. Ich schaue in ihm als Ich unmittelbar mich [orig. 406] selbst an, aber auch darin ein unmittelbar daseyendes, als Ich absolut gegen mich selbstständiges anderes Object. Dieser Widerspruch gibt den Trieb, sich als freies Selbst zu zeigen, und für den andern als solches da zu seyn, den Proceß des Anerkennens.
+
+§. 431.
+
+Er ist ein Kampf; denn Ich kann mich im Andern nicht als mich selbst wissen, in sofern das Andre ein unmittelbares anderes Daseyn für mich ist; Ich bin daher auf die Aufhebung dieser seiner Unmittelbarkeit gerichtet. Eben so sehr kann Ich nicht als unmittelbares anerkannt werden, sondern nur in sofern Ich an mir selbst die Unmittelbarkeit aufhebe, und dadurch meiner Freiheit Daseyn gebe. Aber diese Unmittelbarkeit ist zugleich die Leiblichkeit des Selbstbewußtseyns, in welcher es als in seinem Zeichen und Werkzeug, sein eignes Selbstgefühl und sein Seyn für Andere, und seine es mit ihnen vermittelnde Beziehung hat.
+
+§. 432.
+
+Der Kampf des Anerkennens geht also auf Leben und Tod; jedes der beiden Selbstbewußtseyn bringt das Leben des Andern in Gefahr und begiebt sich selbst darein, - aber nur als in Gefahr, denn eben so ist jedes auf die Erhaltung seines Lebens, als des Daseyns seiner Freiheit gerichtet. Der Tod des einen, der den [p. 323] Widerspruch nach einer Seite auflöst, durch die abstracte, daher rohe Negation der Unmittelbarkeit, ist nach der wesentlichen Seite, dem Daseyn des Anerkennens, somit der größere – Widerspruch.
+
+§. 433.
+
+Indem das Leben so wesentlich als die Freiheit ist, so endigt sich der Kampf zunächst als einseitige Negation, mit der Ungleichheit, daß das eine der Kämpfenden das [orig. 407] Leben vorzieht, sich als einzelnes Selbstbewußtseyn erhält, sein Anerkanntseyn aber aufgiebt, das Andere aber an seiner Beziehung auf sich selbst hält, und vom Ersten als dem Unterworfenen anerkannt wird: das Verhältniß der Herrschaft und Knechtschaft.
+
+Der Kampf des Anerkennens und die Unterwerfung unter einen Herrn ist die Erscheinung, in welcher das Zusammenleben der Menschen, als ein Beginnen der Staaten, hervorgegangen ist. Die Gewalt, welche in dieser Erscheinung Grund ist, ist darum nicht Grund des Rechts; obgleich das nothwendige und berechtigte Moment im Uebergange des Zustandes des in die Begierde und Einzelnheit versenkten Selbstbewußtseyns in den Zustand des allgemeinen Selbstbewußtseyns. - Es ist der äußerliche oder erscheinende Anfang der Staaten, nicht ihr substantielles Princip.
+
+§. 434.
+
+Dies Verhältniß ist erstlich nach seiner Identität eine Gemeinsamkeit des Bedürfnisses der Begierde und der Sorge für ihre Befriedigung; an die Stelle der rohen Zerstörung des unmittelbaren Objects, tritt die Erwerbung, Erhaltung und Formiren desselben als des Vermittelnden, worin die beiden Extreme der Selbstständigkeit und Unselbstständigkeit sich zusammenschließen.
+
+§. 435.
+
+Zweitens nach dem Unterschiede hat der Herr in dem Knechte und dessen Dienste die Anschauung der Objectivität seines einzelnen Fürsichseyns, es ist dies Gelten seiner für ihn vermittelst der Aufhebung des unmittelbaren Fürsichseyns, welche aber in einen Andern fällt. – Dieser, der Knecht, aber arbeitet sich im Dienste des Herrn seinen Einzel- oder Eigenwillen ab, hebt seine innere Unmittelbarkeit auf, und macht durch diese Entäußerung und die [orig. 408] Furcht des Herrn den Anfang der Weisheit, - den Uebergang zum allgemeinen Selbstbewußtseyn.
+
+[p. 324] 3) Das allgemeine Selbstbewußtseyn ist das positive Wissen seiner selbst im andern Selbst, deren jedes als freie Einzelnheit absolute Selbstständigkeit hat, aber, vermöge der Negation seiner Unmittelbarkeit oder Begierde, sich nicht vom andern unterscheidet, allgemeines und objectiv ist und die reelle Allgemeinheit so hat, als es im freien Andern sich anerkannt weiß, und dies weiß, in sofern es das andere anerkennt und es frei weiß.
+
+Dies allgemeine Wiederscheinen des Selbstbewußtseyns, der Begriff, der sich in seiner Objectivität als mit sich identische Subjectivität und darum allgemein weiß, ist die Form des Bewußtseyns der Substanz jeder wesentlichen Geistigkeit, der Familie, des Vaterlandes, des Staats; so wie aller Tugenden, der Liebe, Freundschaft, Tapferkeit, der Ehre, des Ruhms.
+
+§. 437.
+
+Diese Einheit des Bewußtseyns und Selbstbewußtseyns hat zunächst die Einzelnen als für sich seyende und in einander scheinende bestehen. Aber ihr Unterschied ist in dieser Identität die ganz unbestimmte Verschiedenheit, oder vielmehr ein Unterschied, der keiner ist. Ihre Wahrheit ist daher die an und für sich seyende, unvermittelte Allgemeinheit und Objectivität des Selbstbewußtseyns, – die Vernunft.
+
+Die Vernunft als die Idee erscheint hier in der Bestimmung, daß der Gegensatz des Begriffs und der Realität überhaupt, deren Einheit sie ist, hier die nähere Form des Bewußtseyns und des demselben gegenüber äußerlich vorhandenen Objectes gehabt hat. [orig. 409]
+
+## DIE VERNUNFT.
+
+§. 438.
+
+Die an und für sich seyende Wahrheit, welche die Vernunft ist, ist die einfache Identität der Subjectivität des Begriffs und seiner Objectivität und Allgemeinheit. Die Allgemeinheit der Vernunft hat daher eben so sehr die [p. 325] Bedeutung des im Bewußtseyn als solchem nur gegebenen aber selbst allgemeinen Objects, als des reinen Ich im Selbstbewußtseyn. Dieses ist so als an und für sich bestimmt gesetzt, und daher die Gewißheit, daß seine Bestimmungen eben so sehr gegenständlich, Bestimmungen des Wesens der Dinge, als seine eigenen Gedanken sind.
+
+§. 439.
+
+Die Vernunft ist als diese Identität nicht nur die absolute Substanz, sondern auch die Wahrheit als Wissen. Denn sie hat hier zur eigenthümlichen Bestimmtheit den für sich selbst existirenden reinen Begriff, Ich, - die Gewißheit seiner selbst als unendliche Allgemeinheit. – Diese wissende Wahrheit ist der Geist. [orig. 410]
+
+## C. PSYCHOLOGIE.
+
+## DER GEIST.
+
+§. 440.
+
+Der Geist hat sich als die Wahrheit der Seele und des Bewußtseyns gezeigt, jener einfachen unmittelbaren Totalität, und dieses Wissens, welches nun als unendliche Form von keinem Inhalt beschränkt, nicht im Verhältnisse zum Gegenstand als solchem steht, sondern Wissen der substantiellen, weder subjectiven noch objectiven Totalität ist. Der Geist fängt daher nur von seinem eigenen Seyn an, und verhält sich nur zu seinen eigenen Bestimmungen.
+
+Die Psychologie betrachtet daher die Vermögen oder allgemeine Thätigkeitsweisen des Geistes als solchen, Anschauen, Vorstellen, Erinnern u.s.f., Begierden u.s.f., ohne den Inhalt, der nach der Erscheinung sich im empirischen Vorstellen, auch im Denken, wie in Begierde und Willen findet, einen Inhalt, der theils in der Seele, durch die Natur bestimmt ist, theils in dem Bewußtseyn, eine Beziehung auf einen für sich vorhandenen Gegenstand hat. Aber der Geist ist eben dies, über die Natur und natürliche Bestimmtheit, wie über die Verwicklung mit einem äußerlichen Gegenstande, d. i. über das Materielle überhaupt erhoben zu seyn; wie dies der Begriff ist, der sich ergeben hat. Er hat jetzt nur dies zu thun, diesen Begriff [p. 326] seiner Freiheit zu realisiren, d. i. nur die Form des sich [orig. 411] bestimmt Findens aufzuheben. Der Inhalt, der zu Anschauungen erhoben wird, sind seine Empfindungen, wie seine Anschauungen, welche in Vorstellungen, und sofort Vorstellungen, die in Gedanken verändert werden u.s.w.
+
+§. 441.
+
+Die Seele ist endlich, in sofern sie unmittelbar oder von Natur bestimmt ist; das Bewußtseyn, in sofern es einen Gegenstand hat; der Geist, in sofern er nicht mehr zwar einen Gegenstand, aber eine Bestimmtheit unmittelbar in seinem Wissen hat, oder in sofern sie eine von ihm nur gesetzte ist. An und für sich ist er die schlechthin unendliche, objective Vernunft, die sein Begriff, und deren Realität das Wissen oder die Intelligenz ist. Die Endlichkeit des Geistes besteht daher näher darin, daß das Wissen das An- und Für-sich-seyn seiner Vernunft nicht erfaßt hat. Diese ist aber nur in sofern die unendliche, als sie die absolute Freiheit ist, daher sich ihrem Wissen voraussetzt und sich dadurch verendlicht, und die ewige Bewegung ist, diese Unmittelbarkeit aufzuheben und sich selbst zu begreifen, Wissen der Vernunft zu seyn.
+
+§. 442.
+
+Das Fortschreiten des Geistes ist Entwicklung, weil seine Existenz, das Wissen, in sich selbst das an und für sich Bestimmtseyn, d. i. das Vernünftige, und seinen Gehalt und Zweck hat, und die Thätigkeit des Uebersetzens rein nur der formelle Uebergang in die Manifestation und darin Rückkehr in sich ist. In sofern das Wissen als die absolute Form ist, so ist dieses Uebersetzen im Begriffe die Erschaffung überhaupt. In sofern das Wissen nur erst abstractes oder formelles ist, so ist der Geist in ihm seinem Begriffe nicht gemäß, und sein Ziel ist, zugleich die absolute objective Erfüllung [orig. 412] und die absolute Freiheit seines Wissens hervorzubringen.
+
+Es ist hiebei nicht an die mit der anthropologischen zusammenhängende Entwicklung des Individuums zu denken, nach welcher die Vermögen und Kräfte als nach einander hervortretend und in der Existenz sich äu-Bernd betrachtet werden, ein Fortgang, auf dessen Erkenntniß eine zeitlang (von der Condillac'schen Philosophie) ein großer Werth gelegt worden ist, als ob solches vermeintliches natürliches Hervorgehen das Entstehen dieser Vermögen aufstellen und dieselben erklären sollte. Es ist hierin die Richtung nicht zu verkennen, die mannichfaltigen Thätigkeitsweisen des Geistes bei der Einheit desselben begreiflich zu machen [p. 327] und einen Zusammenhang der Nothwendigkeit aufzuzeigen. Allein die dabei gebrauchten Kategorien sind überhaupt dürftiger Art. Vornehmlich ist die herrschende Bestimmung, daß das Sinnliche zwar mit Recht als das Erste, als Anfang und Grundlage genommen wird, aber von diesem Ausgangspunkte weitere Bestimmungen als nur auf affirmative Weise hervorgehend erscheinen, und das Negative der Thätigkeit des Geistes, wodurch jener Stoff vergeistigt und als Sinnliches aufgehoben wird, verkannt und übersehen ist. Das Sinnliche bleibt auf solche Art nicht blos das empirische Erste, sondern als wahrhafte substantielle Grundlage.
+
+Ebenso wenn die Thätigkeiten des Geistes nur als Aeußerungen, Kräfte überhaupt, etwa mit der Bestimmung von Nützlichkeit, d. h. als zweckmäßig für irgend ein anderes Interesse der Intelligenz oder des Gemüths betrachtet werden, so ist kein Endzweck vorhanden. Dieser kann nur der Begriff selbst seyn, das Ansich des Geistes, und die Aeußerung durch die Thätigkeit des Begriffs ist, die Form des bloßen Ansichseyns aufzuheben, sich zu erreichen und zu fassen, sich zu sich [orig. 413] selbst zu befreien. Auf diese Weise sind die sogenannten Vermögen des Geistes in ihrer Unterschiedenheit als Stufen dieser Befreiung zu betrachten. Und dies ist allein für die vernünftige Betrachtungsweise des Geistes und seiner verschiedenen Thätigkeiten zu halten.
+
+§. 443.
+
+Der Weg des Geistes ist a) theoretisch zu seyn, es mit dem Vernünftigen als seiner unmittelbaren Bestimmtheit zu thun zu haben und es als das Seinige zu setzen; oder das Wissen von der Voraussetzung und damit von seiner Abstraction zu befreien, und die Bestimmtheit subjectiv zu machen. Indem das Wissen so als in sich an und für sich bestimmt, die Bestimmtheit als die Seinige gesetzt, hiemit als freie Intelligenz ist, ist es b) Wille, praktischer Geist, welcher zunächst gleichfalls formell ist, unmittelbar will und seine Willensbestimmung von ihrer Subjectivität als der einseitigen Form seines Inhalts befreit, so daß er als freier Wille und objectiver Geist ist.
+
+§. 444.
+
+Der theoretische sowohl als praktische Geist sind noch in der Sphäre des subjectiven Geistes überhaupt. Sie sind nicht als passiv und activ zu unterscheiden.
+
+[p. 328] Der subjective Geist ist hervorbringend. Aber seine Productionen sind formell. Nach innen ist die Production des theoretischen nur der ideelle Boden seiner Welt, das Gewinnen der abstracten Selbstbestimmung in sich. Der praktische hat es zwar nur mit Selbstbestimmungen, mit seinem eigenen, aber ebenfalls noch formellen Stoffe, beschränktem Inhalte zu thun. Nach außen, indem der subjective Geist Einheit der Seele und des Bewußtseyns, hiemit auch seyende, in Einem anthropologische und dem Bewußtseyn gemäße Realität, ist, sind seine Producte das Wort, und (noch nicht That und Handlung) Genuß.
+
+Die Psychologie gehört, wie die Logik, zu denjenigen Wissenschaften, die in neuern Zeiten von der allgemeinern Bildung des Geistes und dem tiefern Begriffe der Vernunft noch am wenigsten Nutzen gezogen haben, und befindet sich noch immer in einem höchst schlechten Zustande. Es ist ihr zwar durch die Wendung der Kantischen Philosophie eine größere Wichtigkeit beigelegt worden, sogar daß sie, und zwar in ihrem empirischen Zustande die Grundlage der Metaphysik ausmachen solle, als welche Wissenschaft in nichts anders bestehe, als die Thatsachen des menschlichen Bewußtseyns, und zwar als Thatsachen, wie sie gegeben sind, empirisch aufzufassen und sie zu zergliedern. Mit dieser Stellung der Psychologie, welche zugleich mit dem Standpunkte des Bewußtseyns und mit Anthropologie vermischt wird, hat sich für ihren Zustand selbst nichts verändert, sondern nur dies hinzugefügt, daß auch für die Metaphysik und die Philosophie überhaupt, wie für den Geist als solchen, auf die Erkenntniß der Nothwendigkeit dessen, was an und für sich ist, auf das Nachdenken, den Begriff und die Wahrheit Verzicht geleistet worden ist.
+
+## a.
+
+## DER THEORETISCHE GEIST.
+
+§. 445.
+
+Die Intelligenz findet sich bestimmt; dies ist ihr Schein; der Inhalt ist an sich vernünftig. Als Wissen aber ist sie dies, das Gefundene als ihr eigenes zu haben, Vernunft für sich zu seyn, als Intelligenz weiß sie, Vernunft an sich zu seyn. Ihre Thätigkeit hat es daran mit der leeren Form zu thun, die Vernunft zu finden; sie ist in sofern das rein formelle Wissen, welches | sie nur zum bestimmten Wissen ihrer selbst zu erheben hat. Die Art und Weise dieser Erhebung ist selbst vernünftig, und ein durch den Begriff bestimmter, nothwendiger [p. 329] Uebergang einer Bestimmung ihrer Thätigkeit in die Andere. Die Widerlegung jenes Scheins gründet sich so auf ihren Glauben an ihre Fähigkeit vernünftig zu wissen, an die Möglichkeit, sich die Vernunft aneignen zu können.
+
+Die Unterscheidung der Intelligenz von dem Willen hat oft den unrichtigen Sinn, daß beide als eine fixe von einander getrennte Existenz genommen werden, so daß das Wollen ohne Intelligenz, oder die Thätigkeit der Intelligenz willenlos seyn könne. Die trivialste Form solcher falschen Trennung ist die eingebildete Möglichkeit, daß, wie es genannt wird, der Verstand ohne das Herz und das Herz ohne den Verstand gebildet werden könne. Eine solche Meynung ist die Abstraction des betrachtenden Verstandes, wie einseitigerweise verstandlose Herzen, und herzlose Verstande wohl existiren; aber die Philosophie ist es nicht, welche solche Unwahrheiten des Daseyns und der Vorstellung für die Wahrheit nehmen soll.
+
+Eine Menge anderer Formen, die von der Intelligenz gebraucht werden, daß sie Eindrücke von Außen empfange, sie aufnehme, daß die Vorstellungen durch Einwirkungen äußerlicher Dinge als der Ursachen entstehen u.s.f. gehören dem Standpunkte des Wahrnehmens an, einem Standpunkte, der dem Geist als solchem nicht zukommt, noch weniger aber dem Philosophieren.
+
+Eine beliebte Reflexionsform ist die der Kräfte und Vermögen der Seele, der Intelligenz oder des Geistes. – Das Vermögen ist wie die Kraft die fixirte Bestimmtheit des Inhalts, als Reflexion-in-sich vorgestellt. Die Kraft (§. 136.) ist zwar die Unendlichkeit der Form, des Innern und Aeußern, aber ihre wesentliche Endlichkeit enthält die Gleichgültigkeit des Inhalts gegen die Form (ebendas. Anm.). Hierin liegt das Vernunftlose, was durch diese Reflexions-Form und die Betrachtung des Geistes als einer Menge von Kräften in denselben so wie auch in die Natur, gebracht wird. Was an seiner Thätigkeit unterschieden werden kann, wird als eine selbstständige Bestimmtheit festgehalten, und der Geist auf diese Weise zu einer verknöcherten, mechanischen Sammlung gemacht. Es macht dabei ganz und gar keinen Unterschied, ob statt der Vermögen und Kräfte der Ausdruck Thätigkeiten gebraucht wird. Das Isoliren der Thätigkeiten macht den Geist ebenso nur zu einem Aggregatwesen, und betrachtet das Verhältniß derselben als eine äußerliche, zufällige Beziehung.
+
+## [p. 330] a) ANSCHAUUNG.
+
+§. 446.
+
+Der Geist, der als Seele natürlich bestimmt, als Bewußtseyn im Verhältniß zu dieser Bestimmtheit als zu einem äußern Objecte ist, als Intelligenz aber 1) sich selbst so bestimmt findet, ist Gefühl, - das dumpfe Weben des Geistes in sich selbst, worin er sich stoffartig ist, und den ganzen Stoff seines Wissens hat. Um der Unmittelbarkeit willen, in welcher er noch als fühlend ist, ist er darin schlechthin nur als ein einzelner und gemein-subjectiver.
+
+§. 447.
+
+Die Form des Gefühls ist, daß es zwar eine bestimmte Affection, aber diese Bestimmtheit einfach und darum als zufällige Particularität ist. Es ist im Gefühl die Unterscheidung sowohl des Inhalts gegen andern Inhalt, als der Aeußerlichkeit desselben gegen die Subjectivität und diese darum als frei noch nicht gesetzt. [orig. 417]
+
+Daß der Geist in seinem Gefühle den Stoff seiner Vorstellungen hat, ist eine sehr allgemeine Voraussetzung, aber gewöhnlicher in dem entgegengesetzten Sinne von dem, den dieser Satz hier hat. Gegen die Einfachheit des Gefühls pflegt vielmehr das Urtheil überhaupt und die Unterscheidung des Bewußtseyns in ein Subject und Object als das Ursprüngliche vorausgesetzt zu werden; so wird dann die Bestimmtheit der Empfindung von einem selbstständigen äußerlichen oder innerlichen Gegenstande abgeleitet. Hier in der Wahrheit des Geistes ist dieser seinem Idealismus entgegengesetzte Standpunkt des Bewußtseyns untergegangen. In Betreff des Inhalts ist es ein gewöhnliches Vorurtheil, daß im Gefühl mehr sey, als im Denken; insbesondere wird dies in Ansehung der moralischen und religiösen Gefühle statuirt. - Es hat sich ergeben, daß der Stoff, der sich der Geist als fühlend ist, das an und für sich Bestimmtseyn der Vernunft ist. Es tritt darum aller vernünftige und näher auch aller geistige Inhalt in das Gefühl ein, als in die eigenste, selbstische Einzelnheit des Geistes. Aber diese Form seiner Einzelnheit ist die unterste und schlechteste, in der er nicht als Geist, als Freies, als unendliche Allgemeinheit, was sein Wesen ist, seyn kann. Er muß vielmehr schlechthin über diese unwahrste Weise seines Seyns hinausgehen, weil in dieser Unmittelbarkeit er überhaupt und sein Gehalt und Inhalt ein zufälliges, subjectives, particuläres, er noch nicht als vernünftiges wirklich ist. Gebildete Empfindung ist die Empfindung eines [p. 331] gebildeten Geistes, der sich das Bewußtseyn von bestimmten Unterschieden, wesentlichen Bestimmungen u.s.f. erworben, und bei dem dieser berichtigte Stoff es ist, der in sein Gefühl tritt, d. i. diese Form erhält. – Wenn aber ein Mensch sich über Etwas nicht auf die Natur und den Begriff der Sache, oder wenigstens auf Gründe, die Verstandesallgemeinheit, | sondern auf sein Gefühl beruft, so ist nichts anders zu thun, als ihn stehen zu lassen, weil er sich dadurch der Gemeinschaft der Vernünftigkeit verweigert, und sich in seine isolirte Subjectivität, die Particularität, abschließt.
+
+§. 448.
+
+2) Die abstracte identische Richtung des Geistes in der Empfindung, wie in allen andern seiner weitern Bestimmungen, ist die Aufmerksamkeit, ohne welche nichts für ihn ist; – die thätige Erinnerung, aber als die noch formelle Selbstbestimmung der Intelligenz.
+
+§. 449.
+
+Diese Selbstbestimmung ist aber wesentlich nicht diese abstracte; als unendliche 3) dirimirt sie die Einfachheit ihres Bestimmtseyns, und hebt damit dessen Unmittelbarkeit auf. So setzt sie dasselbe als ein Negatives, als das abstracte Andersseyn seiner selbst. Die Intelligenz bestimmt hiemit zunächst den Inhalt der Empfindung als außer sich seyendes, wirft ihn in Raum und Zeit hinaus, welches die Formen sind, worin sie anschauend ist. Der Stoff ist jene Totalität der Bestimmtheit des Gefühls überhaupt, aber zugleich in dieser ersten, abstracten Entäußerung desselben, noch in seiner gefundenen, äußerlichen Einzelnheit. Die Intelligenz ist als anschauend noch in diesen Stoff versenkt.
+
+§. 450.
+
+Aber die andere Seite der Diremtion ist, die Form als unendliche Reflexion in sich zu setzen, das Erwachen der Intelligenz zu sich selbst in diesem Stoff, ihre Erinnerung in sich in demselben; so ist er der ihrige, und sie hat dessen Unmittelbarkeit und Finden nicht mehr nöthig das Vorstellen. |
+
+## [p. 332] β) DIE VORSTELLUNG.
+
+§. 451.
+
+Die Vorstellung ist als die erinnerte Anschauung die Mitte zwischen dem unmittelbaren Bestimmt-sich-finden der Intelligenz und zwischen derselben in ihrer Freiheit, dem Denken. Die Vorstellung ist das Ihrige der Intelligenz, aber noch mit einseitiger Subjectivität, indem dies Ihrige noch bedingt, formell, damit in Differenz gegen die Anschauung ist, und nicht an ihr selbst das Seyn ist. – Der Weg der Intelligenz in der Vorstellung ist, die Unmittelbarkeit ebenso innerlich zu machen, als die Subjectivität der Innerlichkeit aufzuheben, und sich in ihr selbst ihrer zu entäußern.
+
+aa) Die Erinnerung.
+
+§. 452.
+
+Als die Anschauung erinnernd setzt die Intelligenz den Inhalt des Gefühls in ihre Innerlichkeit, in ihren eigenen Raum und ihre eigene Zeit. So ist er 1) Bild, von seiner ersten Unmittelbarkeit und abstracten Einzelnheit gegen anderes befreit, als in die Allgemeinheit des Ich überhaupt, aufgenommen. Das Bild hat nicht mehr die vollständige Bestimmtheit, welche die Anschauung hat, und ist willkührlich oder zufällig, überhaupt isolirt von dem äußerlichen Orte, Zeit und dem unmittelbaren Zusammenhang, in dem sie stand.
+
+§. 453.
+
+2) Das Bild für sich ist vorübergehend, und die Intelligenz selbst ist als Aufmerksamkeit die Zeit desselben. Die Intelligenz ist aber für sich das Subject, das Ansich ihrer Besonderheiten; so in ihr erinnert, ist das Bild nicht mehr existirend (bewußtlos) aufbewahrt.
+
+Die Intelligenz als diesen nächtlichen Schacht, in welchem eine Welt unendlich vieler Bilder und Vorstellungen aufbewahrt ist, ohne daß sie im Bewußtseyn wären, zu fassen, ist dieselbe allgemeine Forderung überhaupt, den Begriff als concret, wie den Keim z. B. so zu fassen, daß er alle Bestimmtheiten, welche in der Entwicklung des Baumes erst zur Existenz kommen, in virtueller Möglichkeit, affirmativ enthält. Aber der Keim kommt aus den existirenden Bestimmtheiten nur in einem Andern, dem Keime der Frucht, zur Rückkehr in seine Einfachheit, wieder zur Existenz des Ansichseyns.
+
+[p. 333] Aber die Intelligenz ist als solche die Existenz des in seiner Entwicklung sich in sich erinnernden Ansichseyns.
+
+§. 454.
+
+3) Die eigentliche Erinnerung ist die Beziehung des Bildes auf eine Anschauung und zwar als Subsumtion der unmittelbaren einzelnen Anschauung unter das der Form nach Allgemeine, die Vorstellung, die derselbe Inhalt ist; so daß die Intelligenz in der bestimmten Empfindung und deren Anschauung sich innerlich ist, und sie als das bereits ihrige erkennt, so wie sie zugleich diese ihre zunächst innere Vorstellung auch als unmittelbaren Inhalt der Anschauung, und an solcher als bewährt weiß. Die innere Vorstellung, die nun zugleich mit der Bestimmung der Aeußerlichkeit im Besitze der Intelligenz ist, ist damit zugleich als unterscheidbar von der Anschauung und trennbar von der einfachen Nacht, in der sie zunächst versenkt ist, gesetzt. Die Intelligenz ist so die Gewalt sie äußern zu können, und für die Existenz solcher Vorstellung in ihr nicht mehr der äußern Anschauung zu bedürfen.
+
+ββ) Die Einbildungskraft.
+
+§. 455.
+
+1) Die in diesem Besitz thätige Intelligenz ist die reproductive Einbildungskraft, das Hervorrufen der Bilder aus der eigenen Innerlichkeit des Ich, welches nunmehr deren Macht ist. Die nächste Beziehung der Bilder ist die ihres mit aufbewahrten äußerlichen unmittelbaren Raums und Zeit. Aber indem das Bild im Subjecte, worin es aufbewahrt ist, allein die Individualität hat, in der die Bestimmungen seines Inhalts zusammengeknüpft sind, so ist seine unmittelbare Concretion, welche es als Eines im Anschauen hat, dagegen aufgelöst. Der reproducirte Inhalt, als der mit sich identischen Einheit der Intelligenz angehörend, und aus deren Innerem in die Vorstellung hervortretend, hat daher eine allgemeine Vorstellung zur associirenden Beziehung der Bilder, der nach sonstigen Umständen mehr abstracten oder mehr concreten Vorstellungen.
+
+Die sogenannten Gesetze der Ideen-Association haben besonders in der mit dem Verfall der Philosophie gleichzeitigen Blüthe der empirischen [p. 334] Psychologie ein großes Interesse gehabt. Fürs erste sind es keine Ideen, welche associirt werden. Fürs andere sind diese Beziehungsweisen keine Gesetze, eben darum schon, weil so viele Gesetze über dieselbe Sache sind, wodurch Willkühr und Zufälligkeit, das Gegentheil eines Gesetzes, vielmehr Statt hat; es ist zufällig, ob das Verknüpfende ein Bildliches oder eine Verstandes-Kategorie, Gleichheit und Ungleichheit, Grund und Folge u.s.f. ist. Das Fortgehen an Bildern und Vorstellungen nach der associirenden Einbildung ist überhaupt das Spiel eines gedankenlosen Vorstellens, in welchem die Bestimmung der Intelligenz noch formelle Allgemeinheit überhaupt, der Inhalt aber der in den Bildern gegebene ist. - Bild und Vorstellung ist nur dadurch unterschieden, daß jenes die sinnlich-concretere Vorstellung ist; Vorstellung, der Inhalt mag ein Bildliches oder Begriff und Idee seyn, hat überhaupt den Charakter, ob zwar ein der Intelligenz angehöriges doch ihrem Inhalte nach für sie gegebenes und unmittelbares zu seyn. Das [orig. 422] Seyn, das Sich-bestimmt-Finden der Intelligenz klebt der Vorstellung noch an, und die Allgemeinheit, welche jener Stoff durch das Vorstellen erhält, ist selbst diese abstracte Form der Beziehung-auf-sich, welche das Seyn ist. Die Vorstellung ist daher die Mitte in dem Schlusse der Erhebung der Intelligenz; die Verknüpfung der beiden Bedeutungen der Beziehung-auf-sich, nämlich des Seyns und der Allgemeinheit, die im Bewußtseyn als Object und Subject bestimmt sind. Ueber den Unterschied von Vorstellungen und Gedanken vergl. Einl. §. 20. Anm.
+
+Diese Abstraction, welche in der vorstellenden Thätigkeit ist, wodurch allgemeine Vorstellungen producirt werden, wird gewöhnlich als ein Aufeinanderfallen vieler ähnlicher Bilder ausgedrückt und soll auf diese Weise begreiflich werden. Damit dies Aufeinanderfallen nicht ganz der Zufall, das Begrifflose sey, müßte eine Attractionskraft der ähnlichen Bilder oder desgleichen angenommen werden, welche zugleich die negative Macht wäre, das noch Ungleiche derselben an einander abzureiben. Diese Kraft ist in der That die Intelligenz selbst, das mit sich identische Ich, welches durch seine Erinnerung ihnen unmittelbar Allgemeinheit gibt, und die einzelne Anschauung unter das bereits innerlich gemachte Bild subsumirt. (§. 453.)
+
+§. 456.
+
+Die Association der Vorstellungen ist Subsumtion der Einzelnen unter eine Allgemeine, welche deren Zusammenhang ausmacht. Diese Allgemeinheit ist zunächst Form der Intelligenz und der Inhalt der subsumirenden Vorstellung [p. 335] dem Vorgefundenen angehörig. Die Intelligenz aber (anticipirt genommen) als in sich bestimmte, concrete Subjectivität, hat ihren eigenen Inhalt, der ein Gedanke, Begriff oder Idee seyn kann. Sie ist nun die Macht über den Vorrath der ihr angehörigen [orig. 423] Vorstellungen, und so 2) freies Verknüpfen und Subsumiren der Bilder unter den eigenthümlichen Inhalt. So ist sie in jenen in sich bestimmt erinnert, und sie diesem ihrem Inhalt einbildend, Phantasie, symbolisirende, allegorisirende oder dichtende Einbildungskraft.
+
+§. 457.
+
+Die Intelligenz ist in der bestimmten Erinnerung der Phantasie in soweit vollendet, als ihr aus ihr selbst genommener Inhalt eine bildliche Existenz hat. Sie ist concrete Totalität des Vorstellens in ihr selber, und zur freien, identischen Beziehung auf sich, zur Unmittelbarkeit zunächst in sich zurückgekehrt. Die Intelligenz in dieser Bestimmung thätig, ist sich äußernd Anschauung producirend, - 3) Zeichen machende Phantasie.
+
+§. 458.
+
+In dieser der Intelligenz angehörigen Einheit selbstständiger Vorstellung und der Anschauung, zu welcher jene als freie Phantasie sich äußert, ist der Inhalt dieser Anschauung als solcher zunächst ein aufgenommenes, etwas unmittelbares oder gegebenes (z. B. die Farbe der Cocarde u. dgl.). Aber die Anschauung gilt in dieser Identität nicht als positiv und sich selbst, sondern etwas anderes vorstellend. Sie ist ein Bild, das eine selbstständige Vorstellung der Intelligenz als Seele in sich empfangen hat, seine Bedeutung. Diese Anschauung ist das Zeichen.
+
+Das Zeichen ist irgend eine unmittelbare Anschauung, aber die einen ganz anderen Inhalt vorstellt, als den sie für sich hat; - die Pyramide, in welche eine fremde Seele versetzt und aufbewahrt ist. Das Zeichen ist vom Symbol verschieden, einer Anschauung, deren eigene Bestimmtheit ihrem Wesen und Begriffe nach mehr oder weniger der Inhalt ist, [orig. 424] den sie als Symbol ausdrückt; beim Zeichen als solchen hingegen geht der eigene Inhalt der Anschauung, und der, dessen Zeichen sie ist, einander nichts an. Als Bezeichnend beweist daher die Intelligenz eine freiere Willkühr und Herrschaft im Gebrauch der Anschauung, denn als symbolisirend.
+
+[p. 336] Gewöhnlich wird das Zeichen und die Sprache, irgendwo als Anhang in der Psychologie oder auch in die Logik eingeschoben, ohne daß an die Nothwendigkeit und Zusammenhang in dem Systeme der Thätigkeit der Intelligenz gedacht würde. Die wahrhafte Stelle des Zeichens ist die aufgezeigte, daß die Intelligenz, welche als anschauend Zeit und Raum erzeugt, nun ihren selbstständigen Vorstellungen ein bestimmtes Daseyn gibt, den erfüllten Raum und Zeit, die Anschauung als die ihrige gebraucht, deren unmittelbare und eigenthümliche Vorstellung tilgt, und ihr eine andere zur Bedeutung und Seele gibt. – Diese Zeichen erschaffende Thätigkeit könnte das productive Gedächtniß (Muse, Mnemosyne) genannt werden, indem das Gedächtniß, das im gemeinen Leben oft mit Erinnerung, auch Vorstellung und Einbildungskraft verwechselt und gleichbedeutend gebraucht wird, es überhaupt nur mit Zeichen zu thun hat. Dieser Ausdruck wird jedoch in seiner nähern Bestimmung gewöhnlich für diejenige Thätigkeit gebraucht, welche zum Unterschied von dem Zeichen- Machen, reproductives Gedächtniß zu nennen wäre.
+
+§. 459.
+
+Die Anschauung, die zu einem Zeichen gebraucht wird, und als unmittelbare zunächst ein gegebenes und räumliches ist, hat die wesentliche Bestimmung, nur als aufgehobene zu seyn. Indem die Intelligenz diese ihre Negativität ist, so ist die wahrhaftere Form des Daseyns des Zeichens, die Zeit, ein Verschwinden des Daseyns, indem es ist, [orig. 425] und ebenso ist dessen angemessene Aeußerlichkeit und Bestimmtheit ein von der Intelligenz aus ihrer (anthropologischen) eigenen Natürlichkeit hervorgehendes Gesetztseyn, der Ton, die erfüllte Aeußerung der sich kund gebenden Innerlichkeit. Der für die bestimmten Vorstellungen sich weiter articulirende Ton, die Rede und ihr System, die Sprache gibt den Empfindungen, Anschauungen ein zweites höheres, als ihr unmittelbares Daseyn und den Vorstellungen überhaupt eine Existenz, die im Reiche des Vorstellens gilt.
+
+Die Sprache kommt hier nur nach der eigenthümlichen Bestimmtheit als das Product der Intelligenz, ihre Vorstellungen in einem äußerlichen Elemente zu manifestiren, in Betracht. Wenn von der Sprache auf concrete Weise gehandelt werden sollte, so wäre für das Material (das Lexicalische) derselben der anthropologische, näher der psychisch-physiologische (§. 401.), Standpunkt zurückzurufen, für die Form (die Grammatik) der [p. 337] Gesichtspunkt des Verstandes zu anticipiren. Für das elementarische Material der Sprache hat sich einerseits die Vorstellung bloßer Zufälligkeit verloren, andererseits das Princip der Nachahmung auf seinen geringen Umfang, tönende Gegenstände, beschränkt. Doch kann man noch die deutsche Sprache über ihren Reichthum wegen der vielen besondern Ausdrücke rühmen hören, die sie für besondere Töne (Rauschen, Sausen, Knarren u.s.f., man hat deren vielleicht mehr als hundert gesammelt; die augenblickliche Laune macht deren, wenn es ihr beliebt, neue) besitzt; ein solcher Ueberfluß im Sinnlichen und Unbedeutenden ist nicht zu dem zu rechnen, was den Reichthum einer gebildeten Sprache ausmachen soll. Das eigenthümlich Elementarische selbst, welches nicht sowohl auf einer auf äußere Objecte sich beziehenden, als auf innerer Symbolik, der anthropologischen Articulation gleichsam als einer Gebehrde der leiblichen Sprech-Aeußerung beruhen muß, wird durch weitere natürliche Momente und Bildungs-Bedürfnisse zur Unscheinbarkeit und Unbedeutenheit modificirt. Das Formelle der Sprache aber ist Werk des Verstandes, der seine Kategorien in sie einbildet, dieser logische Instinct bringt das Grammatische derselben hervor. Das Studium von ursprünglich gebliebenen Sprachen, die man in neuern Zeiten erst gründlich kennen zu lernen angefangen hat, hat hierüber gezeigt, daß sie eine sehr ins Einzelne ausgebildete Grammatik enthalten und Unterschiede ausdrücken, die in Sprachen gebildeterer Völker mangeln oder verwischt worden sind; es kann sogar scheinen, daß vergleichungsweise die Sprachen der gebildetsten Völker die unvollkommnere Grammatik haben.
+
+Es ist für sich nicht nothwendig, daß hier bei der Tonsprache, als der ursprünglichen, auch der Schriftsprache erwähnt werde, denn diese ist eine weitere Fortbildung im besondern Gebiete der Sprache, welche eine äußerlich praktische Thätigkeit zu Hülfe nimmt. Es kann dies im Allgemeinen bemerkt werden, daß die Schriftsprache zum Felde des unmittelbaren Anschauens fortgeht, und in diesem die Zeichen (§. 454.) nimmt und hervorbringt. Näher bezeichnet die Hieroglyphenschrift die Vorstellungen durch räumliche Figuren, die Buchstabenschrift hingegen Töne, welche selbst schon Zeichen sind; diese besteht daher aus Zeichen der Zeichen, und so, daß sie die concreten Zeichen der Tonsprache, die Worte, in ihre einfachen Elemente auflöst, und diese bezeichnet. - Leibnitz hat sich durch seinen Verstand verführen lassen, eine vollständige Schriftsprache auf hieroglyphische Weise gebildet, was wohl partiell auch bei Buchstabenschrift (wie in [p. 338] unsern Zeichen der Zahlen, der Planeten, der chemischen Stoffe u. dgl.) Statt findet, als eine allgemeine Schriftsprache für den Verkehr der Völker und insbesondere der Gelehrten für sehr wünschenswerth zu halten. Vielmehr könnte man [orig. 427] dafür halten, daß der Verkehr der Völker (was vielleicht in Phönicien der Fall war, und gegenwärtig in Canton geschieht s. Macart-ney's Reise von Staunton) das Bedürfniß der Buchstabenschrift und damit deren Entstehung herbeigeführt hat. Ohnehin ist nicht an eine umfassende fertige Hieroglyphen-Sprache zu denken; sinnliche Gegenstände scheinen zwar festbleibender Zeichen fähig seyn zu können, aber für Zeichen von Geistigem führt der Fortgang der Gedankenbildung, die fortschreitende logische Entwicklung veränderte Ansichten über ihre innern Verhältnisse und damit über ihre Natur herbei, so daß damit auch eine andere hieroglyphische Bestimmung einträte. Geschieht dasselbe doch schon bei den Namen sinnlicher Gegenstände in der Tonsprache, wie z. B. bei den chemischen auch mineralogischen; seitdem man vergessen hat, was Namen als solche sind, nämlich für sich sinnlose Aeußerlichkeiten, die erst als Zeichen eine Bedeutung haben, seit man statt eigentlicher Namen den Ausdruck einer Art von Definition fordert und übrigens nach Zufall bei einigen Gegenständen, bei andern nicht – formirt, ändert sich die Benennung, d. i. nur die Zusammensetzung aus Zeichen ihrer Gattungsbestimmung oder anderer charakteristisch seyn sollender Eigenschaften, nach der Verschiedenheit der Ansicht, die man von der Gattung oder sonst einer specifisch seyn sollenden Eigenschaft faßt. Nur dem Statarischen der chinesischen Geistesbildung ist die hieroglyphische Schriftsprache dieses Volkes angemessen; diese Art von Schriftsprache kann ohnehin nur der Antheil des geringeren Theils eines Volkes seyn. Die Ausbildung der Tonsprache hängt zugleich aufs genaueste mit der Gewohnheit der Buchstabenschrift zusammen, durch welche die Tonsprache allein die Bestimmtheit und Reinheit ihrer Articulation gewinnt. Die Unvollkommenheit der chinesischen Tonsprache ist bekannt; eine Menge ihrer Worte hat mehrere ganz [orig. 428] verschiedene Bedeutungen, selbst bis auf zehn, ja zwanzig, so daß im Sprechen der Unterschied blos durch die Betonung, Intensität, leiseres Sprechen oder Schreien bemerklich gemacht wird. Europäer, welche anfangen chinesisch zu sprechen, ehe sie sich diese absurden Feinheiten der Accentuation zu eigen gemacht haben, fallen in die lächerlichsten Misverständnisse. Die Vollkommenheit besteht hier in dem Gegentheil von dem parler sans accent, was mit Recht in Europa für ein gebildetes Sprechen gefordert wird. Es fehlt um der hieroglyphischen Schriftsprache willen der chinesischen Tonsprache an der objectiven Bestimmtheit, welche in der Articulation durch die Buchstabenschrift gewonnen wird. Lesen- [p. 339] und Schreibenlernen einer Buchstabenschrift ist für ein nicht genug geschätztes, unendliches Bildungsmittel zu achten, indem es den Geist von dem sinnlich Concreten zu der Aufmerksamkeit auf das Formelle, den Ton und dessen abstracte Elemente, bringt, und den Boden der Innerlichkeit im Subjecte zu begründen und rein zu machen ein wesentliches thut. - Die erlangte Gewohnheit tilgt auch später die Eigenthümlichkeit und den Umweg der Buchstabenschrift, und macht sie für uns zur Hieroglyphenschrift, so daß wir beim Gebrauche derselben die Vermittlung der Töne, wodurch die Schriftzeichen mit den Vorstellungen verknüpft werden, nicht im Bewußtseyn vor uns zu haben bedürfen; Leute dagegen, welche eine geringe Gewohnheit des Lesens haben, sprechen sich das Gelesene laut vor, um es in seinem Tönen zu verstehen. Außerdem daß die durch jene erste Einübung gewonnene Abstractions-Fähigkeit bleibt, so ist das hieroglyphische Lesen für sich selbst ein taubes Lesen und ein stummes Schreiben, und die Vermittlung der Vorstellungen durch das Unsinnlichere der Töne ist für den folgenden Uebergang von dem Vorstellen zum Denken, – das Gedächtniß an und für sich von Wesentlichkeit. [orig. 429]
+
+§. 460.
+
+Der Name als Verknüpfung der von der Intelligenz producirten Anschauung und seiner Bedeutung ist zunächst eine einzelne vorübergehende Production, die Verknüpfung beider eine äußerliche, so wie jene Anschauung selbst. Die Erinnerung dieser Aeußerlichkeit ist das Gedächtniß.
+
+γγ) Gedächtniß. §. 461.
+
+Die Intelligenz 1) jene Verknüpfung, die das Zeichen ist, zu dem ihrigen machend, macht durch diese Erinnerung (vergl. §. 453.) die einzelne Verknüpfung zu einer allgemeinen, d. i. bleibenden Verknüpfung, in welcher Name und Bedeutung objectiv für sie verbunden sind und die Anschauung, welche der Name zunächst ist, zu einer Vorstellung, so daß der Inhalt, die Bedeutung, sowohl als das Zeichen Eine Vorstellung ist, und das Vorstellen in seiner Innerlichkeit concret, sein Inhalt als dessen Daseyn ist; – das Namen behaltende Gedächtniß.
+
+[p. 340] §. 462.
+
+Der Name ist so die Sache, wie sie im Reiche der Vorstellung vorhanden ist und Gültigkeit hat. Das 2) reproducirende Gedächtniß hat im Namen die Sache, und mit der Sache den Namen, ohne Anschauung und Bild.
+
+Bei dem Namen Löwe bedürfen wir weder der Anschauung eines solchen Thieres, noch auch selbst des Bildes, sondern der Name, indem wir ihn verstehen, ist die bildlose einfache Vorstellung. Es ist in Namen, daß wir denken.
+
+Die vor einiger Zeit wieder aufgewärmte und billig wieder vergessene Mnemonik der Alten besteht darin, | die Namen in Bilder zu verwandeln, und hiemit das Gedächtniß wieder zur Einbildungskraft herabzusetzen. Die Stelle der Kraft des Gedächtnisses vertritt ein in der Einbildungskraft befestigtes, bleibendes Tableau einer Reihe von Bildern, an welche dann der auswendig zu lernende Aufsatz, die Folge seiner Vorstellungen, angeknüpft wird. Bei der Heterogeneität des Inhalts dieser Vorstellungen und jener permanenten Bilder, wie auch wegen der Geschwindigkeit, in der es geschehen soll, muß dies nicht anders als durch schaale, alberne, ganz zufällige Zusammenhänge geschehen. Nicht nur wird der Geist auf die Folter gesetzt, sich mit verrücktem Zeuge zu plagen, sondern das auf solche Weise auswendig gelernte ist eben deswegen schnell wieder vergessen, indem ohnehin dasselbe Tableau für das Auswendiglernen jeder andern Reihe von Vorstellungen gebraucht, und daher die vorher daran geknüpften wieder weggewischt werden. Das mnemonisch eingeprägte wird nicht wie das im Gedächtniß behaltene auswendig, d.h. eigentlich von Innen heraus, aus dem tiefen Schachte des Ich hervorgebracht und so hergesagt, sondern es wird von dem Tableau der Einbildungskraft, so zu sagen, abgelesen. – Die Mnemonik hängt überhaupt mit den gewöhnlichen Vorurtheilen zusammen, die man von dem Gedächtniß im Verhältniß zur Einbildungskraft hat, als ob diese eine höhere, geistigere Thätigkeit wäre als das Gedächtniß. Vielmehr hat es das Gedächtniß nicht mehr mit dem Bilde zu thun, welches aus dem unmittelbaren, ungeistigen Bestimmtseyn der Intelligenz, aus der Anschauung, hergenommen ist, sondern mit einem Daseyn, welches das Product der Intelligenz selbst ist, einem solchen Auswendigen, welches in das Inwendige der Intelligenz eingeschlossen bleibt, und nur innerhalb ihrer selbst deren auswendige, existirende Seite ist. |
+
+[p. 341] Der Name, als Existenz des Inhalts in der Intelligenz, ist die Aeußerlichkeit der Intelligenz selbst in ihr; die Erinnerung des Namens als der von ihr hervorgebrachten Anschauung ist zugleich die Entäußerung, in welcher der theoretische Geist innerhalb seiner selbst sich setzt. Er ist so das Seyn, ein Raum der Namen als solcher, d. i. sinnloser Worte. Der Namen sind viele überhaupt, und als solche sind sie zufällige gegeneinander, und es ist in sofern hier nichts, als Ich und viele Worte. Ich ist aber nicht nur das allgemeine Seyn oder ihr Raum überhaupt, sondern als Subjectivität die Macht derselben, das leere Band, welches Reihen derselben in sich befestigt und in fester Ordnung behält. In sofern sie nur seyend sind, und die Intelligenz in sich hier selbst nur als Seyn ist, ist sie die Macht der ganz abstracten Subjectivität, – 3) das Gedächtniß, das um der gänzlichen Aeußerlichkeit, in der die Glieder solcher Reihen gegeneinander sind und das selbst diese Aeußerlichkeit ist, mechanisch genannt wird.
+
+Man weiß bekanntlich einen Aufsatz erst dann recht auswendig, wenn man keinen Sinn bei den Worten hat; das Hersagen solches Auswendiggewußten wird daher von selbst accentlos. Der richtige Accent, der hinein gebracht wird, geht auf den Sinn; die Bedeutung, Vorstellung, die herbeigerufen wird, stört dagegen aber den mechanischen Zusammenhang und verwirrt daher leicht das Hersagen. Das Vermögen, Reihen von Worten, in deren Zusammenhang kein Verstand ist, oder die schon für sich sinnlos sind, auswendig behalten zu können, ist darum so höchst wunderbar, weil der Geist wesentlich dies ist, bei sich selbst zu seyn, hier aber derselbe als in ihm selbst entäußert, seine Thätigkeit als ein Mechanismus ist. Der Geist aber ist nur bei sich als Einheit der Subjectivität und der Objectivität; und hier im Gedächtniß, [orig. 432] nachdem er in der Anschauung zunächst als Aeußerliches ist, die Bestimmungen findet, und in der Vorstellung sich in diesem Gefundenen erinnert und es zu dem Seinigen macht, macht er sich selbst in ihm zu einem Aeußerlichen, so daß das Seinige als ein Gefunden-werdendes erscheint. Das eine Moment des Denkens, die Objectivität, ist hier als Qualität der Intelligenz selbst in ihr gesetzt.
+
+§. 464.
+
+Das mechanische Gedächtniß ist das Aufheben der einseitigen äußerlichen Objectivität, welche dem Seyenden, als Namen, zunächst noch zukommt, indem [p. 342] er nämlich eines Andern, der Bedeutung der vorstellenden Intelligenz, bedarf, um die Sache, die wahre Objectivität zu seyn. Die Intelligenz, welche als mechanisches Gedächtniß jene äußerliche Objectivität selbst ist, ist damit zugleich selbst das allein Bedeutende. Das Gedächtniß ist auf diese Weise der Uebergang in den Gedanken, der keine Bedeutung mehr hat, d. i. in dessen Objectivität nicht mehr das Subjective ein von ihm Verschiedenes ist, so wie diese Innerlichkeit an ihr selbst seyend ist.
+
+Schon unsere Sprache gibt dem Gedächtniß, von dem es zum Vorurtheil geworden ist, verächtlich zu sprechen, die hohe Stellung der unmittelbaren Verwandtschaft mit dem Gedanken. Die Jugend hat nicht zufälligerweise ein besseres Gedächtniß als die Alten, und ihr Gedächtniß wird nicht nur um der Nützlichkeit willen geübt, sondern sie hat das gute Gedächtniß, weil sie sich noch nicht nachdenkend verhält, und ihr Gedächtniß wird absichtlich oder unabsichtlich geübt, um den Boden ihrer Innerlichkeit zum reinen Seyn, zum reinen Raume zu ebnen, in welchem die Sache, der an sich seyende Inhalt ohne den Gegensatz gegen eine subjective Innerlichkeit, gewähren und sich expliciren könne. Ein gründliches Talent pflegt mit einem guten Gedächtnisse [orig. 433] in der Jugend verbunden zu seyn. Es ist einer der schwersten Punkte in der Lehre vom Geiste, in der Systematisirung der Intelligenz die Stellung des Gedächtnisses zu fassen, und dessen organischen Uebergang in das Denken zu begreifen.
+
+## γ) DAS DENKEN.
+
+§. 465.
+
+Durch die Erinnerung des unmittelbaren Bestimmtseyns der Intelligenz und die Entäußerung ihres subjectiven Bestimmens ist die Differenz, mit der das Vorstellen behaftet ist (§. 451.), aufgehoben, und deren Einheit und Wahrheit geworden; der Gedanke. Der Gedanke ist die Sache; einfache Identität des Subjectiven und Objectiven. Was gedacht ist, ist; und was ist, ist nur, in sofern es Gedanke ist.
+
+§. 466.
+
+Gedanken haben. Zu-
+
+Das Denken der Intelligenz ist für sich, es ist nächst ist es formell; die Allgemeinheit als die Allgemeinheit und ihr Seyn ebenso [p. 343] die einfache Subjectivität der Intelligenz. Die Gedanken sind so nicht als an und für sich bestimmt; die zum Denken erinnerten Vorstellungen sind in sofern noch der Inhalt, ein Inhalt, der an sich nur das An- und Für-sich-bestimmtseyn der Vernunft ist.
+
+§. 467.
+
+Das Denken aber als diese freie Allgemeinheit, welche mit dem Seyn identisch, und als diese Einheit in sich concret und reine Negativität ist, entwickelt sich an dem Inhalte, und ist somit nicht nur a) der formell identische Verstand, sondern ẞ) wesentlich Diremtion und Bestimmung, - Urtheil, und y) die aus dieser Besonderung sich selbst findende Identität, begreifendes Denken, formelle Vernunft. Die Intelligenz hat als begreifend das Bestimmtseyn, welches in ihrer Empfindung zunächst unmittelbarer Stoff ist, in sich selbst als ihr schlechthin eigenes. In der Einsicht der Nothwendigkeit des dem Denken selbst zunächst gegebenen Inhalts, ist für sie der Gang ihrer eigenen Thätigkeit identisch mit dem an sich seyenden Bestimmtseyn des Inhalts; sie ist für sich als Bestimmen.
+
+In der Logik ist das Denken, wie es erst an sich ist, und sich die Vernunft in diesem gegensatzlosen Elemente entwickelt. Im Bewußtseyn kommt es ebenso als eine Stufe vor (s. §. 437. Anm.). Hier ist die Vernunft als die Wahrheit des Gegensatzes, wie er sich innerhalb des Geistes selbst bestimmt hatte. Es tritt in diesen verschiedenen Theilen der Wissenschaft deswegen immer wieder hervor, weil sie nur durch das Element und die Form des Gegensatzes verschieden, das Denken aber dieses eine und dasselbe Centrum ist, in welches als in ihre Wahrheit die Gegensätze zurückgehen.
+
+§. 468.
+
+Das Denken, als der freie Begriff, ist hiemit auch dem Inhalte nach frei; die Bestimmtheit der Vernunft ist an sich die eigene der subjectiven Intelligenz, und der Inhalt heißt nichts anders, als eben die Bestimmtheit, welche das begreifende Denken aus sich entwickelt. Die Intelligenz sich wissend als das Bestimmende eines Inhalts, der ebenso der ihrige, als er als seyend bestimmt ist, ist Wille.
+
+## [p. 344] b.
+
+## DER PRAKTISCHE GEIST.
+
+§. 469.
+
+Der Geist als Wille weiß sich als sich selbst bestimmend, somit sich aus sich erfüllend. Dies erfüllte Fürsichseyn oder Einzelnheit macht die Seite der Existenz oder Realität von der Idee des Geistes aus, dessen Begriff die Vernunft ist. Die Endlichkeit des Willens besteht in dessen Formalismus, nach welchem er als sich selbst bestimmend, bei sich, hiemit frei, aber dies durch sich Erfülltseyn zunächst nur die abstracte Bestimmtheit, die seinige überhaupt ist und noch mit der entwickelten Vernunft sich nicht identificirt hat. Die Bestimmung des an sich seyenden Willens ist, die Freiheit in dem formellen zur Existenz zu bringen, und damit die des letztern, sich mit diesem seinem Begriffe zu erfüllen, d. i. die Freiheit zu seiner Bestimmtheit, zu seinem Inhalte und Zwecke wie zu seinem Daseyn zu machen. Dieser Begriff, die Freiheit, ist wesentlich nur als Denken; der Weg des Willens, sich zum objectiven Geiste zu machen, ist sich zum denkenden Willen zu erheben, - sich den Inhalt zu geben, den er nur als sich denkendes haben kann.
+
+Die wahre Freiheit, die Sittlichkeit, ist dies, daß der Wille nicht subjective, d. i. eigensüchtige, sondern allgemeinen Inhalt zu seinen Zwecken hat; solcher Inhalt ist aber nur im Denken und durchs Denken; es ist nichts geringeres, als absurd, aus der Sittlichkeit, Religiosität, Rechtlichkeit u.s.f. das Denken ausschließen zu wollen.
+
+§. 470.
+
+Der praktische Geist enthält zunächst als formeller Wille ein gedoppeltes Sollen 1) in dem Gegensatze der aus ihm gesetzten Bestimmtheit gegen sein unmittelbares Bestimmtseyn, gegen sein Daseyn und Zustand, was im Bewußtseyn sich zugleich im Verhältnisse gegen äußere Objecte entwickelt. 2) Jene erste Selbstbestimmung ist zunächst nicht in die Allgemeinheit des Denkens erhoben, welche daher an sich das Sollen gegen jene sowohl der Form nach ausmacht, als dem Inhalte nach ausmachen kann; – ein Gegensatz, der zunächst nur für uns ist. [orig. 435]
+
+## [p. 345] a) DAS PRAKTISCHE GEFÜHL.
+
+§. 471.
+
+Die Selbstbestimmung des Geistes als zuerst auf unmittelbare Weise, ist damit nur formell, so daß der Geist sich findet, als nach seiner innerlichen Natur sich bestimmende Einzelnheit. Er ist so praktisches Gefühl.
+
+§. 472.
+
+Der Wille ist diese Natur des Geistes als an sich mit der Vernunft einfach identische und dadurch selbst allgemeine Subjectivität; er hat daher in der unmittelbaren Einzelnheit des praktischen Gefühls wohl den Inhalt der Vernunft aber als unmittelbar einzelnen, hiemit als natürlichen, und zugleich zufälligen und subjectiven, und eben sowohl Einen aus der Particularität des Bedürfnisses, des Meynens u.s.f., und aus der gegen das Allgemeine sich für sich setzenden Subjectivität sich bestimmenden Inhalt.
+
+Wenn an das Gefühl von Recht und Moralität, wie von Religion, das der Mensch in sich habe, an seine wohlwollenden Neigungen u.s.f. an sein Herz überhaupt, d. i. das Subject, in sofern in ihm alle die verschiedenen praktischen Gefühle vereinigt sind, appellirt wird, so hat dies 1) den richtigen Sinn, daß diese Bestimmungen seine eigenen immanenten sind, 2) und dann, in sofern das Gefühl dem Verstande entgegengesetzt wird, daß es gegen dessen einseitige Abstraction die Totalität seyn kann. Aber ebenso kann das Gefühl einseitig, unwesentlich, schlecht seyn. Das Vernünftige in der Gestalt der Vernünftigkeit, das als Gedachtes dagegen ist, ist derselbe Inhalt, den das gute praktische Gefühl hat, aber in seiner Allgemeinheit und Nothwendigkeit, in seiner Objectivität und Wahrheit. [orig. 437]
+
+Deswegen ist es einerseits thöricht, zu meynen, als ob im Uebergange vom Gefühle zum Recht und der Pflicht an Inhalt und Vortrefflichkeit verloren werde; dieser Uebergang bringt erst das Gefühl zu seiner Wahrheit. Eben so thöricht ist es, die Intelligenz dem Gefühle, Herzen und Willen für überflüssig, ja schädlich zu halten; die Wahrheit und was dasselbe ist, die Vernünftigkeit des Herzens und Willens kann allein in der Allgemeinheit der Intelligenz, nicht in der Einzelnheit des Gefühles als solchen Statt finden.
+
+[p. 346] Wenn die Gefühle wahrhafter Art sind, sind sie es durch ihre Bestimmtheit, d. i. ihren Inhalt, und dieser ist wahrhaft nur, in sofern er in sich allgemein ist, d. h. den denkenden Geist zu seiner Quelle hat. Die Schwierigkeit besteht für den Verstand darin, sich von der Trennung, die er sich einmal zwischen den Seelenvermögen, dem Gefühle, dem denkenden Geiste willkührlich gemacht hat, loszumachen und zu der Vorstellung zu kommen, daß im Menschen nur Eine Vernunft, im Gefühl, Wollen und Denken ist. Die damit zusammenhängende Schwierigkeit ist, daß die Ideen, die allein dem denkenden Geiste angehören, Gott, Recht, Sittlichkeit auch gefühlt werden können. Das Gefühl ist aber nichts anderes, als die Form der unmittelbaren eigenthümlichen Einzelnheit des Subjects.
+
+Andererseits ist es verdächtig, und sehr wohl mehr als dies, am Gefühle und Herzen gegen die denkende Vernünftigkeit festzuhalten, weil das, was Mehr in jenen als in dieser ist, nur die besondere Subjectivität, das Eitle und die Willkühr, ist. - Aus demselben Grunde ist es ungeschickt, sich bei der wissenschaftlichen Betrachtung der Gefühle auf mehr, als auf ihre Form einzulassen, und ihren Inhalt zu betrachten, da dieser als gedacht, vielmehr die Selbstbestimmungen des Geistes in ihrer Allgemeinheit und Nothwendigkeit, die Rechte und Pflichten, ausmacht. [orig. 438]
+
+§. 473.
+
+Das praktische Gefühl enthält das Sollen, seine Selbstbestimmung als an sich seyend, bezogen auf eine seyende Einzelnheit, die als an sich nichtig, und nur in der Identität mit jener als gültig, bestimmt ist. Da beide in dieser Unmittelbarkeit noch keine nothwendige Identität haben, ist diese Beziehung des Bedürfnisses auf das Daseyn das Gefühl des Angenehmen oder Unangenehmen.
+
+Vergnügen, Freude, Schmerz u.s.f., Schaam, Reue, Zufriedenheit u.s.w. sind theils nur Modificationen des formellen praktischen Gefühls überhaupt, theils aber durch ihren Inhalt, der die Bestimmtheit des Sollens ausmacht, verschieden.
+
+Die berühmte Frage nach dem Ursprunge des Uebels in der Welt, tritt, wenigstens in sofern unter dem Uebel zunächst nur das Unangenehme und der Schmerz verstanden wird, auf diesem Standpunkte des formellen Praktischen ein. Das Uebel ist nichts anders als die Unangemessenheit des Seyns zu dem Sollen. Dieses Sollen hat viele Bedeutungen, und da die zufälligen Zwecke gleichfalls die Form des Sollens haben, unendlich viele. In Ansehung ihrer ist das Uebel nur das Recht, das an der Eitelkeit und Nichtigkeit ihrer Einbildung ausgeübt wird. Sie selbst sind schon das Uebel. Daß [p. 347] es solche und alle andere der Idee unangemessene Einzelnheiten gibt, liegt in dem Urtheil des Begriffs in sich (lebendige Seele, Geist, Vernunft u.s.f.) und in das Seyn, und in seiner Gleichgültigkeit gegen das unmittelbare Seyn überhaupt, welches durch ihn selbst zur freien Wirklichkeit entlassen, ebenso auf ihn bezogen bleibt, und als für sich seyend ihm nicht angemessen, gegen ihn und hiemit an sich das Nichtige ist; – ein Widerspruch, der das Uebel heißt. Im Todten ist kein Uebel noch [orig. 439] Schmerz, weil der Begriff in der unorganischen Natur seinem Daseyn nicht gegenüber tritt. Im Leben schon und noch mehr im Geiste ist diese Unterscheidung vorhanden, und tritt hiemit ein Sollen ein; und diese Negativität, Thätigkeit, Ich, die Freiheit, sind die Principien des Uebels und des Schmerzens. – Jacob Böhm hat die Ichheit als die Pein und Qual und als die Quelle der Natur und des Geistes gefaßt.
+
+## 3) DIE TRIEBE.
+
+§. 474.
+
+Das praktische Sollen ist reelles Urtheil. Die unmittelbare selbst nur vorgefundene Angemessenheit der seyenden Bestimmtheit zum Bedürfniß ist für die Selbstbestimmung des Willens, eine Negation, und ihr unangemessen. Daß der Wille, d. i. die Einheit der Allgemeinheit und der Bestimmtheit, sich befriedige und für sich sey, soll die Angemessenheit seiner innern Bestimmung und das Daseyn durch ihn gesetzt seyn. Der Wille ist der Form des Inhalts nach noch natürlicher Wille, wie im Bedürfnisse überhaupt, das aber als durch ihn zu befriedigend nun Trieb und Neigung ist, und mit der nähern Bestimmtheit, daß die Totalität des praktischen Geistes sich in eine einzelne der beschränkten Bestimmungen legt, Leidenschaft.
+
+§. 475.
+
+Die Neigungen und Leidenschaften haben dieselben Selbstbestimmungen zu ihrem Inhalte, als die praktischen Gefühle. Weil die einen wie die andern unmittelbare Selbstbestimmungen sind, welche die Form der Vernünftigkeit noch nicht haben, so sind sie mannichfaltige besondere. Sie haben die vernünftige Natur des Geistes einerseits zu ihrer Grundlage, andererseits aber als dem noch subjectiven, einzelnen Willen angehörig sind sie ebenso wesentlich mit [p. 348] Zufälligkeit behaftet, und verhalten | sich zum İndividuum, wie zu einander, nach einer äußerlichen, unfreien Nothwendigkeit.
+
+Von den Neigungen gilt ganz dasselbe, was von den Gefühlen; sie sind Selbstbestimmungen des an sich freien Willens, der aber noch nicht im Inhalte seiner Selbstbestimmung als Intelligenz für sich frei, noch nicht allgemein und objectiv ist. Die Leidenschaft enthält schon dies in ihrer Bestimmung, daß sie auf eine Besonderheit der Willensbestimmung und die subjective Einzelnheit beschränkt ist, ihr Inhalt mag sonst seyn, welcher er will. Um dieses Formellen willen aber ist die Leidenschaft weder gut noch böse; diese Form drückt daher nur dies aus, daß ein Subject das ganze lebendige Interesse seines Geistes, Talentes, Charakters, Genusses in einen Inhalt gelegt habe. Es ist nichts Großes ohne Leidenschaft vollbracht worden, noch kann es ohne solche vollbracht werden. Es ist nur eine todte, ja zu oft heuchlerische Moralität, welche gegen die Form der Leidenschaft als solche loszieht.
+
+Aber von den Neigungen wird unmittelbar die Frage gemacht, welche gut und böse, ingleichen bis zu welchem Grade die Guten gut bleiben, und da sie Besondere gegen einander und ihrer Viele sind, wie sie sich, da sie sich doch in Einem Subjecte befinden, und sich nach der Erfahrung nicht wohl alle befriedigen lassen, gegen einander wenigstens einschränken müssen. Es hat mit diesen vielen Trieben und Neigungen zunächst dieselbe Bewandniß, wie mit den Seelenkräften, deren Sammlung der theoretische Geist seyn soll; - eine Sammlung, welche nun mit der Menge von Trieben vermehrt wird. Die formelle Vernünftigkeit des Triebes und der Neigung besteht nur in ihrem allgemeinen Triebe, darin, nicht als Subjectives zu seyn, sondern durch die Thätigkeit des Subjects selbst ihre Subjectivität aufzuheben, realisirt zu werden. Ihre wahrhafte Vernünftigkeit kann sich nicht in einer Betrachtung der äußern Reflexion ergeben, welche selbstständige Naturbestimmungen und unmittelbare Triebe voraussetzt und behält. Es ist aber vielmehr die immanente Reflexion des Geistes selbst, über ihre Beson-derheit wie über ihre natürliche Unmittelbarkeit hinauszugehen, und ihrem Inhalte Vernünftigkeit und Objectivität zu geben, worin sie als nothwendige Verhältnisse und Rechte und Pflichten sind. Diese Objectivirung ist es denn, welche ihren Gehalt, so wie ihr Verhältniß zu einander, überhaupt ihre Wahrheit aufzeigt. Wie Plato, was die Gerechtigkeit an und für sich sey mit wahrhaftem Sinne, auch in sofern er unter dem Rechte [p. 349] des Geistes seine ganze Natur befaßte, nur in der objectiven Gestalt der Gerechtigkeit, nämlich der Construction des Staates, als des sittlichen Lebens, darstellen zu können zeigte.
+
+Welches also die guten, vernünftigen Neigungen und deren Unterordnung sey, verwandelt sich in die Darstellung, welche Verhältnisse der Geist hervorbringt, indem er als objectiver Geist sich entwickelt; eine Entwicklung, in welcher seine Selbstbestimmungen überhaupt die Form von Neigungen, so wie der Inhalt die Subjectivität, Zufälligkeit oder Willkühr verloren haben. Die Abhandlung der Triebe, Neigungen und Leidenschaften nach ihrem wahrhaften, sittlichen Gehalte ist daher wesentlich die Pflichtenlehre. Jenen bleibt nichts eigenthümliches, als die von dem Sittlichen abweichende Besonderheit, die bösen Triebe und Leidenschaften.
+
+§. 476.
+
+Das Subject ist die Thätigkeit der Befriedigung der Triebe, der formellen Vernünftigkeit, nämlich der Uebersetzung aus der Subjectivität in die Objectivität, in welcher jenes sich mit sich selbst zusammenschließt. Daß [orig. 442] die Sache, welche zu Stande gekommen ist, das Moment der subjectiven Einzelnheit und deren Thätigkeit enthält, ist das Interesse. Es kommt daher nichts ohne Interesse zu Stande.
+
+Eine Handlung ist ein Zweck des Subjects und ebenso ist es seine Thätigkeit, welche diesen Zweck ausführt; nur durch dies, daß das Subject auf diese Weise in der uneigennützigsten Handlung ist, d. h. durch sein Interesse, ist ein Handeln überhaupt. – Den Trieben und Leidenschaften setzt man einerseits die schaale Träumerei eines Naturglücks gegenüber, durch welches die Bedürfnisse ohne die Thätigkeit des Subjects, die Angemessenheit der unmittelbaren Existenz und seiner innern Bestimmungen hervorzubringen, ihre Befriedigung finden sollen. Andererseits wird ihnen die Moralität entgegengesetzt. Aber Trieb und Leidenschaft ist nichts anderes als die Lebendigkeit des Subjects, nach welcher es selbst in seinem Zwecke und dessen Ausführung ist. Das Sittliche betrifft den Inhalt, der als solcher das Allgemeine, ein Unthätiges, ist. An dem Subjecte hat er sein Bethätigendes, und diesem immanent ist er Interesse des Triebs, und die ganze wirksame Subjectivität in Anspruch nehmend, der Leidenschaft.
+
+§. 477.
+
+Das Interesse und der Trieb oder Neigung haben einen vom Willen bestimmten, besondern Inhalt. Die einfache Subjectivität des Willens steht zugleich [p. 350] über diesem seinem mannichfaltigen Inhalt und dem Widerspruch der Triebe. Sie ist so als denkender, und indem das Denken nur jenen mannichfaltigen Inhalt vor sich hat, als reflectirender Wille, und damit als Willkühr bestimmt. Indem diese gegen die beschränkte Besonderheit der Triebe deren Allgemeinheit sich zum Zwecke macht, ist sie der Trieb nach Glückseligkeit. [orig. 443]
+
+## Y) DIE WILLKÜHR UND DIE GLÜCKSELIGKEIT.
+
+§. 478.
+
+Die Glückseligkeit ist die durch das reflectirende Denken hervorgebrachte Vorstellung der Befriedigung aller Triebe, die in ihrer Besonderheit als negativ gesetzt, und einer dem andern ganz oder zum Theil aufgeopfert und vorgesetzt werden sollen. Die Begränzung derselben durch einander ist einerseits eine Vermischung von qualitativer und quantitativer Bestimmung; andererseits da die Glückseligkeit ihren affirmativen Inhalt allein in den Trieben hat, liegt in ihnen die Entscheidung, und es ist das subjective Gefühl und Belieben, was den Ausschlag geben muß.
+
+§. 479.
+
+Der Wille ist in dem allgemeinen Zwecke der Glückseligkeit von der Vereinzelung befreit, in der er befangen, als ein besonderer Trieb oder Leidenschaft ist. Eine solche Besonderheit ist in sofern nicht mehr unmittelbar, sondern erst die seinige, indem er sich mit ihr zusammenschließt und sich dadurch bestimmte Einzelnheit und Wirklichkeit gibt. Er ist so auf dem Standpunkt, zwischen Neigungen zu wählen zu haben, und ist Willkühr.
+
+§. 480.
+
+Der Wille ist auf diese Weise für sich frei, indem er als die Negativität seines unmittelbaren Bestimmens in sich reflectirt ist; jedoch in sofern der Inhalt, in welchem sich diese seine formelle Allgemeinheit zur Wirklichkeit beschließt, noch keine andere als eine unmittelbare Besonderheit ist, ist er nur als subjectiver und zufälliger Wille wirklich. Als der Widerspruch, sich in einer [p. 351] Besonderheit zu verwirklichen, welche zugleich für ihn eine Nichtigkeit ist, und eine Befriedigung in ihr zu haben, aus der er zugleich heraus ist, ist er zunächst der | Proceß der Zerstreuung und des Aufhebens einer Neigung oder Genusses durch eine Andere und der Befriedigung, die dies eben so sehr nicht ist, durch eine andere ins Unendliche.
+
+§. 481.
+
+Die Glückseligkeit ist die Allgemeinheit des Inhalts, welche nur seyn soll. Die Wahrheit aber des besondern Inhalts, welcher eben so sehr Bestimmtheit ist, als aufgehoben ist, und der abstracten Einzelnheit, der Willkühr, welche sich darin eben so sehr einen Zweck gibt, als nicht gibt, ist die allgemeine Bestimmtheit des Willens, d. i. sein Selbstbestimmen selbst, die Freiheit. Die Willkühr ist auf diese Weise der Wille als die reine Subjectivität, welche dadurch rein und concret zugleich ist, daß sie zu ihrem Inhalt und Zweck nur jene Bestimmtheit, die Freiheit selbst, hat. Der Geist in dieser Wahrheit seiner Selbstbestimmung, worin Begriff und Gegenstand identisch ist, ist objectiver Wille, objectiver Geist überhaupt. |
+
+## [p. 352] ZWEITE ABTHEILUNG DER PHILOSOPHIE DES GEISTES.
+
+## DER OBJECTIVE GEIST.
+
+§. 482.
+
+Der objective Geist ist die Einheit des theoretischen und praktischen; freier Wille, der für sich als freier Wille ist, indem der Formalismus, Zufälligkeit und Beschränktheit seines bisherigen praktischen Inhalts sich aufgehoben hat. Durch das Aufheben der Vermittlung, die darin enthalten war, ist er die durch sich gesetzte unmittelbare Einzelnheit, welche aber ebenso zur allgemeinen Bestimmung, der Freiheit selbst, gereinigt ist. Diese allgemeine Bestimmung hat er nur, indem er sich denkt, Wille als freie Intelligenz ist.
+
+§. 483.
+
+Der Geist, der sich als frei weiß und diesen seinen Gegenstand will, d. i. sein Wesen zur Bestimmung und zum Zwecke hat, ist überhaupt der vernünftige Wille, oder an sich die Idee, und darum nur der Begriff des absoluten Geistes. Diese abstracte Idee ist daher nur die Seite des Daseyns der Vernunft, der einzelne Wille als Wissen jener seiner Bestimmung, die seinen Inhalt und Zweck ausmacht und deren nur formelle Thätigkeit er ist. [orig. 446]
+
+§. 484.
+
+Weil dieser Wille nur die an sich seyende Idee und damit endlich ist, hat seine Objectivität zunächst die Unterschiede an ihr, a) daß die Freiheit seine innere Bestimmung und Zweck ist, und sich ẞ) auf eine äußerliche Objectivität bezieht, welche sich spaltet in das Anthropologische der particulären Bedürfnisse, in die äußern Naturdinge, welche für das Bewußtseyn sind, und in das Verhältniß zu andern Willen, welches zugleich ein Selbstbewußtseyn und ein Bewußtseyn derselben als verschiedener und particulärer ist.
+
+§. 485.
+
+γ) Diese beiden Momente können ihrer Einseitigkeit wegen die subjective Seite des objectiven Willens genannt werden. Seine wahrhafte Objectivität ist, [p. 353] daß sein Begriff, die Freiheit, in der äußerlich objectiven Seite, dem endlichen Stoffe, realisirt, dieser als eine durch jenen bestimmte Welt sey, so daß er in ihr bei sich selbst, mit sich selbst zusammengeschlossen sey. Die Freiheit, zu einer Welt äußerlicher Existenz gestaltet, erhält die Form von Nothwendigkeit, deren substantiellen Zusammenhang die Freiheits-Bestimmungen, wie den erscheinenden Zusammenhang, denselben als Macht desselben, das Anerkanntseyn, ausmacht, wodurch der vernünftige Wille nicht nur an sich, noch innerlich, noch blos, wie das Natürliche, unmittelbar ist, sondern sein Inhalt gewußt wird und gilt, als positive Gesetze und deren Sitte ist.
+
+§. 486.
+
+Diese Realität als Daseyn des freien Willens überhaupt ist das Recht; als die vernünftigen und festen Willensbestimmungen in Beziehung auf den subjectiven Willen, in welchem allein sie als allgemeine ihr Daseyn haben können, sind sie die Pflicht, und als Gewohnheit [orig. 447] und Sinnesart in demselben Sitte. Dasselbe was ein Recht ist, ist an sich auch eine Pflicht, und was eine Pflicht ist, ist auch ein Recht. Denn ein Daseyn ist ein Recht nur auf den Grund des freien substantiellen Willens; derselbe Inhalt ist es, der in Beziehung auf den als subjectiv und einzeln sich unterscheidenden Willen Pflicht ist. Die Endlichkeit des objectiven Willens ist in sofern der Schein des Unterschieds der Rechte und Pflichten.
+
+Im Felde der Erscheinung sind Recht und Pflicht zunächst so Correlata, daß einem Rechte von meiner Seite eine Pflicht in einem Andern entspricht. Aber dem Begriffe nach ist mein Recht an eine Sache nicht blos Besitz, sondern Besitz als Eigenthum, d. i. ein rechtlicher Besitz, und es ist Pflicht, die Sache als Eigenthum zu besitzen, welche in das Verhältniß der Erscheinung, nämlich in der Beziehung auf eine andere Person, gesetzt, sich zur Pflicht des Andern mein Eigenthum zu respectiren entwickelt. Die moralische Pflicht ist in mir als freiem Subject, zugleich ein Recht meines subjectiven Willens, meiner Gesinnung. Aber in sofern im Moralischen die Differenz von Recht und Pflicht auch für den Begriff eintritt, ist meine Pflicht durch das Recht beschränkt, was als das Recht anderer erscheint. Hier ist die unmittelbare Einheit dessen, was Pflicht ist, mit dem Rechte dazu (daß ich darf, was ich moralisch soll) nur etwas Subjectives in mir, und die Differenz derselben, wie damit die Zufälligkeit ihrer Einheit, macht die Einseitigkeit des blos moralischen Standpunktes aus. Im Sittlichen ist beides zu [p. 354] seiner Wahrheit, zu seiner absoluten Einheit gelangt, obgleich als in der Weise der Nothwendigkeit Pflicht und Recht durch Vermittlung in einander zurückkehren und [sich] zusammenschließen. Die Rechte des Familienvaters über die Mitglieder sind eben so sehr Pflichten gegen sie, wie die Pflicht des Gehorsams der Kinder ihr Recht, zu freien Menschen erzogen zu werden, | ist. Die Strafgerechtigkeit der Regierung, ihre Rechte der Verwaltung u.s.f. sind zugleich Pflichten derselben zu strafen, zu verwalten u.s.f., wie die Leistungen der Staatsangehörigen an Abgaben, Kriegsdiensten u.s.f., Pflichten und ebenso ihr Recht an den Schutz ihres Privateigenthums und des allgemeinen substantiellen Lebens sind, in dem sie ihre Wurzel haben; alle Zwecke der Gesellschaft und des Staats sind ihre eigenen, und nur der Weg der Vermittlung, durch welche ihre Pflichten als Ausübung und Genuß von Rechten an sie zurückkommen, macht die Erscheinung der Verschiedenheit aus, zu welchem Anschein die Weise kommt, in welcher der Werth bei dem Austausche mannichfaltige Gestalten erhält, ob er gleich an sich derselbe ist. Wer keine Rechte hat, hat keine Pflichten.
+
+## EINTHEILUNG. §. 487.
+
+Der freie Wille ist:
+
+::: editorial
+A. Zunächst unmittelbar, und daher als einzelner, die Person; das Daseyn, welches diese ihrer Freiheit gibt, ist das Eigenthum. Das Recht als solches, das formelle, abstracte Recht.
+
+B. In sich reflectirt, so daß er sein Daseyn innerhalb seiner hat, und hiedurch zugleich als particulärer bestimmt ist, das Recht des subjectiven Willens, die Moralität.
+
+C. In der Einheit seines subjectiven und des objectiven Daseyns, – der substantielle Wille als die ihrem Begriffe gemäße Wirklichkeit im Subjecte und
+:::
+
+Da ich diesen Theil der Philosophie in meinen Grundlinien des Rechts (Berlin 1821.) ausgeführt habe, so kann ich mich hier kürzer, als über die andern Theile fassen. |
+
+## [p. 355] A.
+
+## DAS RECHT.
+
+## a.
+
+## EIGENTHUM.
+
+§. 488.
+
+Der Geist in der Unmittelbarkeit seiner für sich selbst seyenden Freiheit ist Einzelner, aber der seine Einzelnheit als absolut freien Willen weiß; er ist Person, das Sich-Wissen dieser Freiheit, welche ganz abstract und leer ist, ihre Besonderheit, Bestimmtheit und Erfüllung noch nicht an ihr selbst, sondern an einer äußerlichen Sache hat. Diese ist gegen die Subjectivität der Intelligenz und der Willkühr als ein Willenloses ohne Recht, und wird von ihr zu ihrem Accidens, der äußerlichen Sphäre ihrer Freiheit gemacht, Besitz.
+
+§. 489.
+
+Das für sich blos praktische Prädicat des Meinigen, welches die Sache durch das Urtheil des Besitzes zunächst in der äußerlichen Bemächtigung erhält, hat hier die Bedeutung, daß Ich meinen persönlichen Willen hineinlege, der absolut ist. Durch diese Bestimmung ist der Besitz Eigenthum, der als Besitz Mittel, als Daseyn der Persönlichkeit aber Zweck ist. [orig. 450]
+
+§. 490.
+
+In dem Eigenthum ist die Person mit sich selbst zusammengeschlossen. Aber die Sache ist zugleich eine abstract äußerliche, und Ich darin äußerlich. Diese Aeu-Berlichkeit ist näher, daß Ich als Person, die unendliche Beziehung meiner auf mich, die Repulsion meiner von mir selbst bin, und die höhere Seite meiner Realisirung in dem Seyn anderer Personen und meiner Beziehung auf sie habe.
+
+§. 491.
+
+Die Sache ist die Mitte, durch welche die Extreme, die in dem Wissen ihrer Identität als freier zugleich selbstständigen Personen sich zusammenschließen. Mein Wille hat für sie sein bestimmtes erkennbares Daseyn in der Sache durch [p. 356] die unmittelbare körperliche Ergreifung des Besitzes oder durch die Formirung oder auch durch die bloße Bezeichnung derselben.
+
+§. 492.
+
+Die subjective und zufällige Seite am Eigenthum ist, daß ich in diese Sache meinen Willen lege; in sofern ist mein Wille Willkühr, so daß ich ihn eben so gut darein legen kann, oder nicht, und herausziehen kann, oder nicht. In sofern aber mein Wille in einer Sache liegt, kann nur Ich selbst ihn herausziehen, und sie kann nur mit meinem Willen an einen andern übergehen, dessen Eigenthum sie ebenso nur mit seinem Willen wird; - Vertrag.
+
+## b. VERTRAG.
+
+§. 493.
+
+Die zwei Willen und deren Uebereinkunft im Vertrage sind als Innerliches verschieden von dessen Realisirung, [orig. 451] der Leistung. Die relativ-ideelle Aeußerung in der Stipulation aber enthält das wirkliche Aufgeben eines Eigenthums von dem einen, den Uebergang und die Aufnahme in den andern Willen. Der Vertrag ist an und für sich gültig und wird es nicht erst durch die Leistung des einen oder des andern, was einen unendlichen Regreß oder unendliche Theilung der Sache, der Arbeit, und der Zeit in sich schlösse. Es ist eine äußerliche (dem Zwange sich unterwerfende) Verbindlichkeit, welche der Wille eingeht, weil er nur Wille der abstracten Persönlichkeit und ein Wollen über diese und jene Sache ist. Und seine Innerlichkeit, welche hier nicht die moralische ist, ist in der Aeußerung der Stipulation vollständig und erschöpft. Seine Innerlichkeit ist im Reiche des Vorstellens, und das Wort ist in diesem That und Sache. (§. 462.)
+
+§. 494.
+
+Wie in der Stipulation sich das Substantielle des Vertrags von der Leistung als dem Aeußerlichen, das zur Folge herabgesetzt ist, unterscheidet, so wird damit an die Sache oder Leistung der Unterschied der unmittelbaren specifischen Beschaffenheit derselben von dem Substantiellen derselben, dem Werthe gesetzt, in welchem jenes Qualitative sich in quantitative Bestimmtheit verändert; [p. 357] ein Eigenthum wird so vergleichbar mit einem andern und kann qualitativ ganz Heterogenem gleichgesetzt werden. So wird es überhaupt als abstracte, allgemeine Sache gesetzt.
+
+§. 495.
+
+Der Unterschied aber im Vertrage, der zunächst von Person zu Person ist, geht aus dem Unterschied eines solchen Substantiellen, das jedoch zunächst nur als eine aus der Willkühr entstandene Uebereinkunft ist, von dem Accidentellen, in den höhern Unterschied des in jenem enthaltenen reinen Substantiellen, gegen jene Seite des zufälligen Willens, des an und für sich allgemeinen, des Rechts als solchen gegen das Unrecht über.
+
+с.
+
+## DAS RECHT AN SICH GEGEN DAS UNRECHT.
+
+§. 496.
+
+Das Princip des Rechts, die Freiheit, indem sie sich Daseyn also im Aeußerlichen gibt, fällt damit in mehrere Beziehungen auf dasselbe und auf die andern Personen. (§. 491. und 493.ff.) 1) Dadurch gibt es mehrere Rechtsgründe, von denen, indem das Eigenthum sowohl nach Seite der Person als der Sache ausschließend individuell ist, nur Einer an sich das Rechte ist, die aber als gegeneinander gemeinschaftlich als Schein gesetzt sind.
+
+§. 497.
+
+Gegen diese Form des Scheins wird zugleich das Eine Recht an sich, noch in unmittelbarer Einheit mit den verschiedenen Rechtsgründen, als affirmativ gesetzt, gewollt und anerkannt. Die Verschiedenheit liegt nur in der Subsumtion dieser Sache unter das Recht an sich durch den besondern Willen dieser Personen; - das unbefangene Unrecht, - ein einfaches negatives Urtheil, welches den bürgerlichen Rechtsstreit ausdrückt, zu dessen Schlichtung ein drittes Urtheil, das als das Urtheil des Rechts an sich ohne Interesse bei der Sache ist, und das die Macht ist, sich gegen jenen Schein Daseyn zu geben, erfordert wird.
+
+[p. 358] §. 498.
+
+2) Der Schein des Rechts ist vom Recht-an-sich verschieden; jener als solcher gegen das Recht-an-sich [orig. 453] vom besondern hiemit von bösem Willen gewollt, die Anerkennung des Rechts von seinem Werthe getrennt, - gibt das Unrecht des Betrugs; das unendliche Urtheil als identisches, (§. 173.) – die formelle Beziehung gegen den Gehalt, d. i. gegen den Werth. (§. 494.)
+
+§. 499.
+
+3) Der besondere Wille stellt sich als dem Recht-an-sich schlechthin Zufälliges in der Negation sowohl desselben selbst als dessen Scheins dar; - negativ unendliches Urtheil, (§. 173.) – gewaltthätig-böser Wille, das Verbrechen.
+
+§. 500.
+
+Diese Handlung ist als Verletzung des Rechts an und für sich nichtig, und als Wille und Denkendes stellt in ihr der Handelnde ein aber formelles und nur von ihm anerkanntes Gesetz auf, einen Schein, der für ihn gilt, er hat durch sie sich selbst zugleich darunter subsumirt. Die dargestellte Nichtigkeit dieser Handlung, die Ausführung dieses formellen Gesetzes und zugleich des Rechts an sich, zunächst durch einen subjectiven einzelnen Willen, ist die Rache, welche, weil sie von dem Interesse unmittelbarer particulärer Persönlichkeit ausgeht, zugleich nur neue Verletzung, ins Unendliche fort, ist. Dieser Progreß hebt sich gleichfalls in einem dritten Urtheil, das ohne Interesse ist, der Strafe, auf.
+
+§. 501.
+
+Das sich Geltendmachen des Rechts an sich ist vermittelt a) durch das affirmative Verhalten des besondern Willens (des Richters) zum Recht, was zunächst zufällig ist, und ẞ) durch die Negation des gegen das Recht eben sowohl auch negativ sich verhalten könnenden besondern Willens, – durch den Zwang, welcher in [orig. 454] dem Rechte des allgemeinen Willens, des Rechts an sich, gegen den particulären begründet, und dadurch möglich ist, daß der Wille sein Daseyn in einer äußerlichen Sache hat. Mehr nicht als möglich aber ist der Zwang, in sofern Ich mich als frei aus jeder Existenz, ja aus dem Umfange derselben, dem Leben, herausziehen kann. Rechtlich aber ist der Zwang nur als das Aufheben eines ersten, unmittelbaren Zwangs.
+
+[p. 359] Die Realität des Rechts, welche sich der persönliche Wille zunächst auf unmittelbare Weise gibt, zeigt sich durch den subjectiven Willen, das dem Rechte Daseyn gebende Moment, vermittelt. Umgekehrt ist der subjective Wille als Macht über das Recht in dieser seiner Abstraction für sich ein Nichtiges, und hat wesentlich nur in der Identität mit dem allgemeinen Willen Wahrheit und Realität; Moralität.
+
+Der Ausdruck Naturrecht, der für die philosophische Rechtslehre gewöhnlich gewesen, enthält die Zweideutigkeit, ob das Recht als ein in unmittelbarer Naturweise vorhandenes, oder ob es so gemeynt sey, wie es durch die Natur der Sache, d. i. den Begriff, sich bestimme. Jener Sinn ist der vormals gewöhnlich gemeynte; so daß zugleich ein Naturzustand erdichtet worden ist, in welchem das Naturrecht gelten solle, wogegen der Zustand der Gesellschaft und des Staates vielmehr eine Beschränkung der Freiheit und eine Aufopferung natürlicher Rechte fordere und mit sich bringe. In der That aber gründen sich das Recht und alle seine Bestimmungen allein auf die freie Persönlichkeit, eine Selbstbestimmung, welche vielmehr das Gegentheil der Naturbestimmung ist. Das Recht der Natur ist darum das Daseyn der Stärke und das Geltendmachen der Gewalt, und ein Naturzustand, [orig. 455] ein Zustand der Gewaltthätigkeit und des Unrechts, von welchem nichts Wahreres gesagt werden kann, als daß aus ihm herauszugehen ist. Die Gesellschaft ist dagegen vielmehr der Zustand, in welchem allein das Recht seine Wirklichkeit hat; was zu beschränken und aufzuopfern ist, ist eben die Willkühr und Gewaltthätigkeit des Naturzustandes. [orig. 456]
+
+## B.
+
+## DIE MORALITÄT.
+
+§. 503.
+
+Das freie Individuum im (unmittelbaren) Rechte nur Person, ist nun als Subject bestimmt, - in sich reflectirter Wille, so daß die Willensbestimmtheit überhaupt als Daseyn in ihm, als die seinige sey. Die Willensbestimmtheit ist näher theils die an sich seyende - der Vernunft des Willens, das an sich Rechtliche und [p. 360] Sittliche; theils die natürliche des Bedürfnisses und Triebes; - theils das in der thätlichen Aeußerung vorhandene, sich begebende und sich derselben angehörig machende Daseyn. Der subjective Wille ist in sofern moralisch frei, als diese Bestimmungen innerlich als die seinigen gesetzt und von ihm gewollt werden. Seine thätliche Aeußerung ist mit dieser Freiheit Handlung, und nur solches anerkennt er in deren Aeußerlichkeit als das seinige, und läßt es sich zurechnen.
+
+Diese subjective oder moralische Freiheit ist es vornehmlich, welche im europäischen Sinne Freiheit heißt. Nach dem Rechte derselben muß der Mensch überhaupt eine Kenntniß vom Unterschiede des Guten und Bösen überhaupt eigens besitzen, und die sittlichen wie die religiösen Bestimmungen sollen nicht nur als äußer | liche Gesetze und Vorschriften ihren Anspruch an ihn machen und von ihm gehalten werden, sondern in seinem Herzen, Gesinnung, Gewissen, Einsicht u.s.f., ihre Zustimmung, Anerkennung oder selbst Begründung haben. Die Subjectivität des Willens in ihm selbst ist Selbstzweck, schlechthin wesentliches Moment.
+
+## α) DER VORSATZ. §. 504.
+
+In sofern die Bestimmtheit der Handlung zunächst als unmittelbar das Daseyn betrifft, so ist das Meinige in sofern formell, als das äußerliche Daseyn auch selbstständig gegen das Subject ist. Diese Aeußerlichkeit kann dessen Handlung verkehren und Anderes zum Vorschein bringen, als in dieser gelegen hat. Obgleich alle Veränderung als solche, welche durch die Thätigkeit des Subjects gesetzt wird, That desselben ist, so erkennt es dieselbe darum nicht als seine Handlung, sondern nur dasjenige in der That, was in seinem Wissen und Willen lag, was sein Vorsatz war, als das Seinige an, als seine Schuld.
+
+## β) DIE ABSICHT UND DAS WOHL.
+
+§. 505.
+
+Die Handlung hat nach ihrem besondern Inhalt 1) in ihrer empirisch-concreten Aeußerlichkeit eine Mannichfaltigkeit besonderer Seiten und Zusammenhänge; das Subject muß die Handlung nach ihrer wesentlichen, diese [p. 361] Einzelnheiten in sich befassenden Bestimmung gewußt und gewollt haben; Recht der Absicht. 2) Das Subject hat ebenso das Recht, daß die Besonderheit des Inhalts der Materie nach nicht eine äußerliche, sondern dessen eigene Besonderheit, seine Bedürfnisse, Interessen und Zwecke seyen, welche in Einen Zweck gleichfalls zusammengefaßt, sein Wohl ausmachen; das Recht des Wohls.
+
+§. 506.
+
+Aber die Wesentlichkeit der Absicht ist zunächst die abstracte Form der Allgemeinheit, und an der empirisch-concreten Handlung kann diese und jene besondere Seite in diese Form gesetzt und damit als wesentlich zur Absicht gemacht oder die Absicht auf sie eingeschränkt werden. Ebenso ist das Wohl abstract, und kann in dies oder jenes gesetzt werden; es ist als diesem Subjecte angehörig überhaupt etwas Besonderes.
+
+γ) Das Gute und das Böse.
+
+§. 507.
+
+Die Wahrheit dieser Besonderheiten und das Concrete ihres Formalismus ist der allgemeine, an und für sich seyende Wille, das Gesetz und die Substanz aller Bestimmtheit, daher der absolute Endzweck der Welt, das an und für sich Gute und die Pflicht für das Subject, welches die Einsicht in das Gute haben, dasselbe sich zur Absicht machen und durch seine Thätigkeit hervorbringen soll.
+
+§. 508.
+
+Das Gute ist a) zwar das an ihm selbst bestimmte Allgemeine des Willens, und schließt so die Besonderheit in sich. Aber in sofern diese zunächst selbst noch abstract ist, ist kein Princip ihrer Bestimmung vorhanden. Es gibt deswegen überhaupt mancherlei Gutes und vielerlei Pflichten, deren Verschiedenheit dialektisch gegen einander ist, und sie in Collision bringt. Zugleich sollen sie in Uebereinstimmung stehen um der Einheit des Guten willen, und zugleich [p. 362] ist jede als Pflicht und als | Gut absolut. Das Subject soll die Dialektik seyn, welche eine Verbindung derselben mit Ausschließung der andern und damit [mit] Aufheben ihres absoluten Geltens beschließe.
+
+§. 509.
+
+β) Dem Subject, das im Daseyn seiner Freiheit wesentlich als ein Besonderes ist, soll sein Interesse und Wohl wesentlicher Zweck und darum Pflicht seyn. Zugleich aber im Zwecke des Guten, welches das nicht Besondere, sondern nur Allgemeine des Willens ist, soll das besondere Interesse kein Moment seyn. Um dieser Selbstständigkeit beider Bestimmungen willen ist es gleichfalls zufällig, ob sie harmoniren. Aber sie sollen harmoniren, weil das Subject als Einzelnes und Allgemeines an sich Eine Identität ist.
+
+γ) Das Subject ist aber nicht nur in seinem Daseyn Besonderes überhaupt, sondern es ist auch eine Form seines Daseyns, abstracte Gewißheit seiner selbst, abstracte Reflexion der Freiheit in sich zu seyn. So ist es fähig, sich das Allgemeine zu einem Scheine, zu einem Besondern zu machen. Das Gute ist auf diese Weise als ein Zufälliges für das Subject gesetzt, welches sich hienach zu einem dem Guten Entgegengesetzten entschließen, böse seyn kann.
+
+§. 510.
+
+8) Die äußere Objectivität macht gegen die innerliche Seite das andere selbstständige Extrem, eine eigenthümliche Welt für sich aus. Es ist daher zufällig, ob sie zu den subjectiven Zwecken zusammenstimmt, ob das Gute sich in ihr realisirt und das Böse, der an und für sich nichtige Zweck, in ihr nichtig ist; – ferner ob das Subject sein Wohl in ihr findet, und näher ob das gute Subject in ihr glücklich, und das böse unglücklich wird. Zugleich soll die Welt das Wesentliche, die gute Handlung in sich ausführen lassen, wie dem guten Subjecte die Befriedigung seines besondern Interesse gewähren, dem bösen aber versagen, so wie das Böse selbst zu nichte machen.
+
+§. 511.
+
+Der allseitige Widerspruch, welchen dieses vielfache Sollen, das wesentliche Seyn, welches doch zugleich nicht ist, ausdrückt, enthält die abstracteste Analyse [p. 363] des Geistes in ihm selbst, sein tiefstes In-sich-gehen. Die Beziehung der sich widersprechenden Bestimmungen ist nur die abstracte Gewißheit seiner selbst, die Unendlichkeit der Subjectivität, für welche der allgemeine Wille, das Gute, Recht und Pflicht eben sowohl ist, als nicht ist, und welche sich als das Wählende und Entscheidende weiß. Diese reine sich auf ihre Spitze stellende Gewißheit seiner selbst erscheint in den zwei unmittelbar in einander übergehenden Formen, des Gewissens und des Bösen. Jenes ist der Wille des Guten, welches aber in dieser reinen Subjectivität das nicht Objective, nicht Allgemeine, das Unsagbare ist, und worüber das Subject sich in seiner Einzelnheit entscheidend weiß. Das Böse aber ist dieses selbe Wissen seiner Einzelnheit als des Entscheidenden, in sofern sie nicht in dieser Abstraction bleibt, sondern gegen das Gute sich den Inhalt eines subjectiven Interesses gibt.
+
+§. 512.
+
+Diese höchste Spitze des Phänomens des Willens, der bis zu dieser absoluten Eitelkeit, einem nicht-objectiven, sondern rein nur seiner selbst gewissen Gutseyn, und einer Gewißheit seiner selbst in der Nichtigkeit des Allgemeinen, verflüchtigt ist, sinkt unmittelbar in sich zusammen. Das Böse als die reine Reflexion der Subjectivität in sich gegen das Objective und Allgemeine, das [orig. 461] ihr nur Schein ist, ist dasselbe, was die gute Gesinnung des abstracten Guten, welche der Subjectivität die Bestimmung desselben vorbehält; das ganz abstracte Scheinen, das unmittelbare Verkehren und Vernichten seiner selbst. So aber in sich zusammenfallend ist dies Scheinen vielmehr dieselbe einfache Allgemeinheit des Willens, welche das Gute ist. Der Begriff der Subjectivität in dieser ihrer Identität mit demselben ist nur die unendliche Form, dessen Bethätigung und Entwicklung; es ist damit überhaupt der Standpunkt des Verhältnisses und des Sollens verlassen, und zur Sittlichkeit übergegangen. [orig. 462]
+
+## C.
+
+## DIE SITTLICHKEΙΤ.
+
+§. 513.
+
+Die Sittlichkeit ist die Vollendung des objectiven Geistes, nicht nur die Wahrheit des Rechts und der Moralität, als ihre Einheit, sondern des subjectiven und [p. 364] objectiven Geistes selbst. Sie ist nämlich die Freiheit als der allgemeine vernünftige Wille, wie er in dem reinen Gedanken der einzelnen Subjectivität, sein Wissen von sich und die Gesinnung, so wie seine Bethätigung und unmittelbare allgemeine Wirklichkeit zugleich als Sitte hat, die selbstbewußte Freiheit zur Natur geworden.
+
+§. 514.
+
+Die freie Substanz, in welcher das absolute Sollen eben so sehr Seyn ist, hat als Geist eines Volkes Wirklichkeit. Ihre abstracte Diremtion ist die Vereinzelung in Personen, von deren Selbstständigkeit sie die innere Macht und Nothwendigkeit ist. Die Person aber weiß als denkende Intelligenz die Substanz als ihr eigenes Wesen, hört in dieser Gesinnung auf Accidenz derselben zu seyn; schaut sie als ihren absoluten [orig. 463] Endzweck in der Wirklichkeit ebenso als erreichtes Diesseits an, als sie denselben durch ihre Thätigkeit hervorbringt, jedoch als etwas, das eben so sehr schlechthin ist, hiemit ohne die wählende Reflexion ihre Pflicht als das Ihrige und als Seyendes vollbringt und in dieser Nothwendigkeit sich selbst und ihre wirkliche Freiheit hat.
+
+§. 515.
+
+Weil die Substanz die absolute Einheit der Einzelnheit und der Allgemeinheit der Freiheit ist, so ist die Wirklichkeit und Thätigkeit jedes Einzelnen, für sich zu seyn und zu sorgen, bedingt sowohl durch das vorausgesetzte Ganze, in dessen Zusammenhang allein vorhanden, als auch ein Uebergeben in ein allgemeines Product. - Die Gesinnung der Individuen ist das Wissen der Substanz und der Identität aller ihrer Interesse mit dem Ganzen, und daß die andern Einzelnen gegenseitig sich nur in dieser Identität wissen und wirklich sind, – das Vertrauen, die wahrhafte, sittliche Gesinnung.
+
+§. 516.
+
+Die Beziehungen des Einzelnen in den Verhältnissen, zu denen sich die Substanz besondert, machen seine sittlichen Pflichten aus. Die sittliche Persönlichkeit, d. i. die Subjectivität, deren ganze Individualität von dem substantiellen Leben durchdrungen ist, ist Tugend. In Beziehung auf äußerliche Unmittelbarkeit, auf ein Schicksal, ist die Tugend ein Verhalten zum Seyn als nicht Negativem, und dadurch ruhiges Beruhen in sich selbst; - in Beziehung auf die substantielle Objectivität, das Ganze der sittlichen Wirklichkeit, ist sie Vertrauen, [p. 365] absichtliches Wirken für dieselbe und Fähigkeit für dieselbe sich aufzuopfern; in Beziehung auf die Zufälligkeit der Verhältnisse mit andern, zuerst Gerechtigkeit und dann wohlwollende Neigung; in welcher Sphäre und im Verhalten zu ihrem eigenen Daseyn und Leiblichkeit die Individualität ihren besondern Charakter, Temperament u.s.f. als Tugenden ausdrückt.
+
+§. 517.
+
+Die sittliche Substanz ist
+
+a. als unmittelbarer oder natürlicher Geist, die Familie; b. die relative Totalität der relativen Beziehung der Individuen als selbstständiger Personen auf einander in einer formellen Allgemeinheit, die bürgerliche Gesellschaft; c. die selbstbewußte Substanz als der zu einer organischen Wirklichkeit entwickelte Geist, die Staatsverfassung.
+
+## a.
+
+## DIE FAMILIE.
+
+§. 518.
+
+Der sittliche Geist in seiner Unmittelbarkeit enthält das natürliche Moment des Geschlechtsverhältnisses, aber erhoben in geistige Bestimmung; die Einigkeit der Liebe und der Gesinnung des Zutrauens; - der Geist ist als Familie empfindender Geist.
+
+§. 519.
+
+1) Der Unterschied der natürlichen Geschlechter erscheint ebenso zugleich als ein Unterschied der intellectuellen | und sittlichen Bestimmung. Diese Persönlichkeiten verbinden sich nach ihrer ausschließenden Einzelnheit zu Einer Person; die subjective Innigkeit zu substantieller Einheit bestimmt macht diese Vereinung zu einem sittlichen Verhältnisse; zur Ehe. Die substantielle Innigkeit macht die Ehe zu einem ungetheilten Bande der Personen, zu monogamischer Ehe; die körperliche Vereinigung ist Folge des sittlich geknüpften Bandes. Die fernere Folge ist die Gemeinsamkeit der persönlichen und particulären Interessen.
+
+[p. 366] §. 520.
+
+2) Das Eigenthum der Familie als Einer Person erhält durch die Gemeinschaft, die es in Beziehung auf die verschiedenen Individuen hat, aus denen die Familie besteht, wie der Erwerb, die Arbeit und Vorsorge, ein sittliches Interesse.
+
+§. 521.
+
+Die mit der natürlichen Erzeugung der Kinder verbundene, zunächst als ursprünglich (§. 519.) im Schließen der Ehe gesetzte Sittlichkeit realisirt sich in der zweiten Geburt der Kinder, der geistigen, der Erziehung derselben zu selbstständigen Personen.
+
+§. 522.
+
+3) Durch diese Selbstständigkeit treten die Kinder aus der concreten Lebendigkeit der Familie, der sie ursprünglich angehören, und sind bestimmt, eine neue solche wirkliche Familie zu stiften. Der Auflösung geht die Ehe wesentlich durch das natürliche Moment, das in ihr enthalten ist, den Tod der Ehegatten zu; aber auch die Innigkeit, als die nur empfindende Substantialität ist an sich dem [orig. 466] Zufall und der Vergänglichkeit unterworfen. Nach dieser solcher Zufälligkeit gerathen die Mitglieder der Familie in das Verhältniß von Personen gegen einander, und damit erst treten, was diesem Bande an sich fremd ist, rechtliche Bestimmungen in dasselbe ein.
+
+## b.
+
+## DIE BÜRGERLICHE GESELLSCHAFT.
+
+§. 523.
+
+Die Substanz als Geist sich abstract in Personen (Familien oder Einzelne) besondernd, welche in selbstständiger Freiheit und zugleich als Besondere für sich sind, verliert zunächst ihre sittliche Bestimmung, indem diese Personen als solche nicht die absolute Einheit, sondern ihre eigene Besonderheit und ihr Fürsichseyn in ihrem Bewußtseyn und zu ihrem Zwecke haben. Die Substanz wird auf diese Weise nur zu einem allgemeinen, vermittelnden Zusammenhange von selbstständigen Extremen und von deren besondern Interessen; - die in sich entwickelte Totalität dieses Zusammenhangs ist der Staat als bürgerliche Gesellschaft, oder als äußerer Staat.
+
+[p. 367] a. a.
+
+## DAS SYSTEM DER BEDÜRFNISSE.
+
+a) Die Vermittlung der Bedürfnisse.
+
+§. 524.
+
+Die Besonderheit der Personen begreift zunächst ihre Bedürfnisse in sich. Die Möglichkeit der Befriedigung derselben ist hier in den gesellschaftlichen Zusammenhang [orig. 467] gelegt, welcher das allgemeine Vermögen ist, aus welchem alle diese Befriedigung erlangen. Die unmittelbare Besitzergreifung (§. 488.) von äußern Gegenständen als Mitteln hiezu findet in dem Zustande, worin dieser Standpunkt der Vermittlung realisirt ist, nicht mehr oder kaum Statt; die Gegenstände sind Eigenthum. Deren Erwerb ist durch den Willen der Besitzer, der als besonderer die Befriedigung der mannichfaltig bestimmten Bedürfnisse zum Zwecke hat, einerseits bedingt und vermittelt, so wie andererseits durch die immer sich erneuernde Hervorbringung austauschbarer Mittel durch eigene Arbeit.
+
+β) Die Theilung der Arbeit.
+
+§. 525.
+
+In die Besonderheit der Bedürfnisse scheint die Allgemeinheit zunächst so, daß der Verstand an ihnen unterscheidet und sie wie die Mittel für diese Unterschiede ins Unbestimmte vervielfältigt, und beides immer abstracter macht. Die Gewohnheit dieser Abstraction im Genusse, Kenntniß, Wissen, und Benehmen macht die Bildung in dieser Sphäre - überhaupt die formelle Bildung aus.
+
+§. 526.
+
+Die damit zugleich abstractere Arbeit führt einerseits durch ihre Einförmigkeit auf die Leichtigkeit der Arbeit und Vermehrung der Production, andererseits zur Beschränkung auf Eine Geschicklichkeit und damit zur unbedingtern [p. 368] Abhängigkeit von dem gesellschaftlichen Zusammenhange. Die Geschicklichkeit selbst wird auf diese Weise mechanisch und tritt in die Fähigkeit, an die Stelle menschlicher Arbeit die Maschine treten zu lassen. [orig. 468]
+
+γ) Die Stände. §. 527.
+
+Die concrete Theilung aber des allgemeinen Vermögens, das ebenso ein allgemeines Geschäft ist, in die besondern nach den Momenten des Begriffs bestimmten Massen, die eine besondere Subsistenzbasis und im Zusammenhange damit entsprechende Weisen der Arbeit, der Mittel der Befriedigung der Bedürfnisse, ferner der Zwecke und Interessen so wie der geistigen Bildung und Gewohnheit bilden, macht den Unterschied der Stände. Die Individuen theilen sich denselben nach natürlichem Talent, nach Geschicklichkeit, Willkühr und Zufall zu. Solcher bestimmten, festen Sphäre angehörig, haben sie ihre wesentliche Existenz, als welche nur als etwas Besonderes ist, und in derselben ihre Sittlichkeit als Rechtschaffenheit, ihr Anerkanntseyn und ihre Ehre.
+
+Wo bürgerliche Gesellschaft und damit Staat vorhanden ist, treten die Stände in ihrem Unterschiede ein; die Geschichte der Verfassungen ist die Geschichte der Ausbildung dieser Stände, der rechtlichen Verhältnisse der Individuen zu denselben, und ihrer zu einander und zu ihrem Mittelpunkte.
+
+§. 528.
+
+Der substantielle Stand hat an dem Boden ein natürliches und festes Vermögen, seine Thätigkeit erhält ihre Richtung und Inhalt durch Naturbestimmungen, und seine Sittlichkeit gründet sich auf Glauben und Vertrauen. Der zweite Stand ist auf das Vermögen der Gesellschaft, auf das in Vermittlung, Vorstellung und in ein Zusammen der Zufälligkeiten gestellte Element, und das Individuum auf seine subjective Geschicklichkeit, Talent, Verstand und Fleiß angewiesen. Der dritte [orig. 469] Stand hat die allgemeinen Interessen zu seinem Geschäfte und wie der zweite eine durch die eigene Geschicklichkeit vermittelte und wie der erste eine aber durch das Ganze der Gesellschaft gesicherte Subsistenz.
+
+[p. 369] b. b.
+
+## DIE RECHTSPFLEGE.
+
+§. 529.
+
+In dem durch natürliches Bedürfniß und freie Willkühr vermittelten, zu allgemeinen Verhältnissen und einem nothwendigen Gange erhobenen Systeme des Princips der zufälligen Besonderheit ist die für sich feste Bestimmung der Freiheit zunächst nur das formelle Recht. 1) Das ihm in dieser Sphäre verständigen Bewußtseyns zukommende Daseyn ist, daß es als das feste Allgemeine zum Bewußtseyn gebracht, in seiner Bestimmtheit gewußt und gesetzt sey, als das Geltende; - das Gesetz.
+
+Das Positive der Gesetze betrifft nur ihre Form überhaupt als gültige und gewußte zu seyn, womit die Möglichkeit zugleich gegeben ist, von Allen auf gewöhnliche äußerliche Weise gewußt zu werden. Der Inhalt kann dabei an sich vernünftig oder auch unvernünftig und damit unrecht seyn. Aber indem das Recht als im bestimmten Daseyn begriffen ein entwickeltes ist und sein Inhalt sich, um die Bestimmtheit zu gewinnen, analysirt, so verfällt diese Analyse wegen der Endlichkeit des Stoffes in den Progreß in das schlecht-unendliche und deswegen kann die schließliche Bestimmtheit, die schlechthin wesentlich ist, nur auf eine zufällige und willkührliche Weise erhalten werden (ob drei Jahre, 10 Thaler u.s.f., oder nur 212, 234, 245 u.s.f. Jahre, und so fort ins Unendliche, das Gerechte wäre, [orig. 470] läßt sich auf keine Weise durch den Begriff entscheiden, und doch ist das Höhere, daß entschieden wird). So tritt von selbst, aber freilich nur an den Enden des Bestimmens, an der Seite des äußerlichen Daseyns, das Positive als Zufälligkeit und Willkührlichkeit ein. Es geschieht dies und ist in allen Gesetzgebungen von jeher von selbst geschehen; es ist nur nöthig ein bestimmtes Bewußtseyn hierüber zu haben gegen das vermeynte Ziel und Gerede, als ob nach allen Seiten hin das Gesetz durch Vernunft oder rechtlichen Verstand, durch lauter vernünftige und verständige Gründe bestimmt werden könne und sollte. Es ist die leere Meynung von Vollkommenheit, solche Erwartung und Forderung an die Sphäre des Endlichen zu machen.
+
+Diejenigen, welchen Gesetze sogar ein Uebel und Unheiliges sind, und die das Regieren und Regiertwerden aus natürlicher Liebe, angestammter Göttlichkeit oder Adelichkeit durch Glauben und Vertrauen für den ächten, die Herrschaft der Gesetze aber für den verdorbenen und ungerechten Zustand halten, übersehen den Umstand, daß die Gestirne u.s.f., wie auch das Vieh, nach Gesetzen und zwar gut regiert werden, - Gesetzen, welche aber [p. 370] in diesen Gegenständen nur innerlich, nicht für sie selbst, nicht als gesetzte Gesetze sind, daß der Mensch aber dies ist, sein Gesetz zu wissen, und daß er darum wahrhaft nur solchem gewußten Gesetze gehorchen kann, wie sein Gesetz nur als gewußtes, wahrhaftes Gesetz seyn kann, sonst aber nur Zufälligkeit und Willkühr, oder wenigstens damit vermischt und verunreinigt seyn muß.
+
+Dieselbe leere Forderung der Vollkommenheit wird für das Gegentheil des Obigen, für die Meynung der Unmöglichkeit oder Unthunlichkeit eines Gesetzbuches gebraucht. Es tritt dabei ein weiterer Gedankenmangel ein, die wesentlichen und allgemeinen Bestimmungen mit [orig. 471] dem besondern Detail in Eine Classe zu setzen. Der endliche Stoff ist ins schlecht-unendliche fort bestimmbar; aber dieser Fortgang ist nicht, wie er im Raume z. B. vorgestellt wird, ein Erzeugen von Raumbestimmungen derselben Qualität als die vorhergehenden, sondern ein Fortgehen in Specielleres und immer Specielleres, durch den Scharfsinn des analysirenden Verstandes, der neue Unterscheidungen erfindet, welche neue Entscheidungen nöthig machen. Wenn diese solche Bestimmungen gleichfalls den Namen neuer Entscheidungen oder neuer Gesetze erhalten, so nimmt im Verhältnisse des Weitergehens dieser Entwicklung das Interesse und der Gehalt dieser Bestimmungen ab. Sie fallen innerhalb der bereits bestehenden substantiellen, allgemeinen Gesetze, wie Verbesserungen an einem Boden, Thüre u.s.f. innerhalb des Hauses, und wohl etwas Neues, aber nicht ein Haus sind. Hat die Gesetzgebung bei einzelnen Bestimmungen angefangen und diese ihrer Natur nach immerfort vermehrt, so entsteht im Gegentheil das Bedürfniß eines einfachern Gesetzbuches, d.h. des Zusammenfassens jener Menge von Einzelnheiten in ihre allgemeinen Bestimmungen, welche zu finden und auszusprechen zu wissen dem Verstande und der Bildung eines Volkes ziemt; wie in England diese Fassung der Einzelnheiten in allgemeine Formen, welche in der That erst den Namen von Gesetzen verdienen, erst kürzlich, vom Minister Peel, der sich dadurch den Dank, ja die Bewunderung seiner Landsleute gewonnen, angefangen worden ist.
+
+§. 530.
+
+2) Die positive Form der Gesetze, als Gesetze ausgesprochen und bekannt gemacht zu seyn, ist Bedingung der äußerlichen Verbindlichkeit gegen [p. 371] dieselben, indem sie als Gesetze des strengen Rechts nur [orig. 472] den abstracten (d. i. selbst an sich äußerlichen) nicht den moralischen oder sittlichen Willen betreffen. Die Subjectivität, auf welche dieser nach dieser Seite ein Recht hat, ist hier nur das Bekanntseyn. Dies subjective Daseyn ist als Daseyn des An und für sich seyenden in dieser Sphäre, des Rechts, zugleich objectives Daseyn, als allgemeines Gelten und Nothwendigkeit.
+
+Das Rechtliche des Eigenthums und der Privathandlungen über dasselbe erhält nach der Bestimmung, daß das Rechtliche ein Gesetztes, Anerkanntes und dadurch Gültiges sey, durch die Förmlichkeiten diese Seite allgemeiner Garantie.
+
+§. 531.
+
+3) Die Nothwendigkeit, zu welcher das objective Daseyn sich bestimmt, erhält das Rechtliche in der Rechtspflege. Das Recht-an-sich hat sich dem Gerichte, dem individualisirten Rechte, als bewiesen darzustellen, wobei das Recht-an-sich von dem beweisbaren unterschieden seyn kann. Das Gericht erkennt und handelt im Interesse des Rechts als solchen, benimmt der Existenz desselben seine Zufälligkeit und verwandelt insbesondere sie, wie sie als Rache ist, in Strafe. (§. 500.)
+
+Die Vergleichung der beiden Arten oder vielmehr Momente, die Ueberzeugung der Richter über den Thatbestand einer Handlung in Beziehung auf den derselben Beklagten, - durch die bloßen Umstände und Zeugnisse Anderer und das Geständniß desselben, hat in neuern Zeiten viel Interesse erweckt, und macht die Hauptsache der Frage über die sogenannten Geschwornengerichte aus. Es ist eine wesentliche Bestimmung, daß die beiden Bestandtheile eines richterlichen Erkenntnisses, das Urtheil über den Thatbestand, und das Urtheil [orig. 473] als Anwendung des Gesetzes auf denselben, als an sich verschiedene Seiten, auch als verschiedene Functionen ausgeübt werden; durch die genannte Institution sind sie auch verschieden qualificirten Collegien zugetheilt, deren das eine ausdrücklich nicht aus Individuen, die zum Fache der amtlichen Richter gehören, bestehen soll. So interessant dieser Umstand ist, so beruht er doch mehr auf außerwesentlichen Rücksichten, und die Hauptsache bleibt die abgesonderte Ausübung jener an sich verschiedenen Seiten. Wichtiger aber ist, ob das Eingeständniß des eines Verbrechens Beschuldigten zur Bedingung eines Strafurtheils zu machen sey oder nicht. Die Institution des Geschwornengerichts abstrahirt von dieser Bedingung. Das Geständniß aber ist als die höchste Spitze der [p. 372] Vergewisserung anzusehen, welche ihrer Natur nach subjectiv ist; die letzte Entscheidung liegt daher in demselben; an diesen Punkt hat der Beklagte daher ein absolutes Recht für die Schließlichkeit des Beweises und der Ueberzeugung der Richter. – Unvollständig ist dies Moment, weil es nur Ein Moment ist; aber noch unvollkommener ist das andere eben so abstract genommen, das Beweisen aus bloßen Umständen und Zeugnissen. Extraordinäre Strafen ist leicht für einen Unsinn zu erklären, und vielmehr zu flach, sich so an den bloßen Namen zu halten. Der Sache nach sind alle auf den Grund des Ausspruchs eines Geschwornengerichts verhängte Strafen, (- ein Eingeständniß, das hier auch Statt finden kann, ist dabei etwas Zufälliges und Außerwesentliches) das, was extraordinäre Strafen genannt worden sind.
+
+§. 532.
+
+Die Rechtspflege hat die Bestimmung nur die abstracte Seite der Freiheit in der bürgerlichen Gesellschaft zur Nothwendigkeit zu bethätigen, aber diese Bethätigung beruht [orig. 474] zunächst auf der particulären Subjectivität des Richters, deren selbst nothwendige Einheit mit dem Recht-an-sich noch nicht vorhanden ist. Umgekehrt ist die blinde Nothwendigkeit des Systems der Bedürfnisse noch nicht in das Bewußtseyn des Allgemeinen erhoben und von solchem aus bethätigt.
+
+## C. C.
+
+## DIE POLICEY UND DIE CORPORATION.
+
+§. 533.
+
+Die Rechtspflege schließt von selbst das nur der Besonderheit Angehörige der Handlungen und Interessen aus und überläßt der Zufälligkeit sowohl das Geschehen von Verbrechen als die Rücksicht auf die Wohlfahrt. In der bürgerlichen Gesellschaft ist die Befriedigung des Bedürfnisses und als des Menschen auf allgemeine Weise, d. i. die Sicherung dieser Befriedigung, der Zweck. In der Mechanik aber der Nothwendigkeit der Gesellschaft ist auf die mannichfaltigste Weise die Zufälligkeit vorhanden, sowohl in Rücksicht der Wandelbarkeit der Bedürfnisse selbst, an denen Meynung und subjectives Belieben einen großen Antheil haben, als durch die Localitäten, die Zusammenhänge eines Volkes mit andern, durch Irrthümer und Täuschungen, welche in einzelne Räder gebracht werden können und das Ganze in Unordnung zu bringen vermögen, wie auch insbesondere durch die bedingte Fähigkeit des Einzelnen aus jenem allgemeinen [p. 373] Vermögen für sich zu erwerben. Der Gang jener Nothwendigkeit, da sie nur die Wirkungsweise der Besonderheiten als solcher ist, enthält nicht für sich den affirmativen Zweck der Sicherung der Befriedigung, sondern kann in Ansehung desselben sowohl angemessen seyn oder auch nicht. [orig. 475]
+
+§. 534.
+
+Das Bewußtseyn des wesentlichen Zwecks, die Kenntniß der Wirkungsweise der Mächte und wandelbaren Ingredienzien, aus denen jene Nothwendigkeit zusammengesetzt ist, und das Festhalten dieses Zwecks in dem Gange derselben als eines Mittels, hat einerseits zum Concreten der bürgerlichen Gesellschaft das Verhältniß einer äußerlichen Allgemeinheit; diese Ordnung ist als thätige Macht der äußerliche Staat, die Policey, welche, in sofern sie den substantiellen Staat über sich hat, als Staats-Policey erscheint; andererseits bleibt der Zweck substantieller Allgemeinheit und dessen Bethätigung in dieser Sphäre der Besonderheit auf das Geschäft besonderer Zweige und Interesse beschränkt – die Corporation, in welcher der besondere Bürger als Privatmann die Sicherung seines Vermögens findet, eben so sehr als er darin aus seinem einzelnen Privatinteresse heraustritt, und eine bewußte Thätigkeit für einen relativen allgemeinen Zweck, wie in den rechtlichen und Standespflichten seine Sittlichkeit, hat.
+
+## c.
+
+## DER STAAT.
+
+§. 535.
+
+Der Staat ist die selbstbewußte sittliche Substanz, die Vereinigung des Princips der Familie und der bürgerlichen Gesellschaft; er ist das Sittliche, indem dieselbe Einheit, welche in der Familie in der Form des Gefühls als Liebe ist, sein Wesen, aber zugleich durch das zweite Princip des wissenden und aus sich thätigen Willens die Form gewußter Allgemeinheit erhält, so wie diese wissende Subjectivität jene Einheit und deren im Wissen sich entwickelnde Bestimmungen zum Inhalte und absoluten Zwecke erhält, d. i. für sich dies Vernünftige will. [orig. 476]
+
+§. 536.
+
+Der Staat ist a) zunächst seine innere, sich auf sich beziehende Entwicklung, das innere Staatsrecht oder die Verfassung; er ist ẞ) besonderes [p. 374] Individuum und so im Verhältnisse zu andern besondern Individuen, das äußere Staatsrecht; γ) aber diese besondern Geister sind nur Momente in der Entwicklung der allgemeinen Idee des Geistes, - die Weltgeschichte.
+
+## α.
+
+## INNERES STAATSRECHT.
+
+§. 537.
+
+Das Wesen des Staates ist das an und für sich Allgemeine, des Wollens, das Vernünftige des Willens, aber als sich wissend und bethätigend schlechthin Subjectivität und als Wirklichkeit Ein Individuum. Sein Werk überhaupt besteht in Beziehung auf das Extrem der Einzelnheit als der Menge der Individuen in dem gedoppelten, einmal sie als Personen zu erhalten, somit das Recht zur nothwendigen Wirklichkeit zu machen, und dann ihr Wohl, das zunächst jeder für sich besorgt, aber schlechthin eine allgemeine Seite hat, zu befördern, die Familie zu schützen und die bürgerliche Gesellschaft zu leiten, – das andremal aber beides und die ganze Gesinnung und Thätigkeit des Einzelnen, als der für sich ein Centrum zu seyn strebt, in das Leben der allgemeinen Substanz zurückzuführen, und in diesem Sinne als freie Macht jenen ihr untergeordneten Sphären Abbruch zu thun.
+
+§. 538.
+
+Die Gesetze sprechen die Inhalts-Bestimmungen der objectiven Freiheit aus. Erstens als unmittelbar | sind sie Schranken des unmittelbaren Subjects, der selbstständigen Willkühr und des besondern Interesses. Aber die Gesetze sind zweitens absoluter Endzweck und das allgemeine Werk, so werden sie durch die Functionen der verschiedenen sich aus ihrer allgemeinen Besonderung weiter vereinzelnden Stände, und durch alle Thätigkeit und Privat-Sorge der Einzelnen hervorgebracht und indem sie die Substanz ihres Wollens und ihrer Gesinnung sind, als geltende Sitte dargestellt.
+
+§. 539.
+
+Die Verfassung ist die Gegliederung der Staatsmacht, welche das Allgemeine zum Zwecke hat; sie enthält die Bestimmungen, auf welche Weise der vernünftige Wille, in sofern er nur an sich der allgemeine der Individuen ist, theils zum [p. 375] Verständniß seiner selbst komme und gefunden werde, theils durch die Wirksamkeit der Regierung und ihrer besonderen Zweige in Wirklichkeit gesetzt und darin erhalten und ebenso gegen deren zufällige Individualität als gegen die der Einzelnen geschützt werde. Sie ist die existirende Gerechtigkeit, als die Wirklichkeit der Freiheit in der Entwicklung aller ihrer vernünftigen Bestimmungen.
+
+Freiheit und Gleichheit sind die einfachen Kategorien, in welche häufig das zusammengefaßt worden ist, was die Grundbestimmung und das letzte Ziel und Resultat der Verfassung ausmachen sollte. So wahr dies ist, so sehr ist das Mangelhafte dieser Bestimmungen zunächst, daß sie ganz abstract sind, und in dieser Form der Abstraction festgehalten, sind sie es, welche alles Concrete, d. i. die Gegliederung des Staats, d. i. eine Verfassung überhaupt verwerfen. Es ist um dieser Mangelhaftigkeit willen vornehmlich, daß sie etwa mehr oder weniger ihre Wichtigkeit in der Vorstellung verloren haben und vergessen sind. Es hat aber Interesse, sie näher zu betrachten, in sofern der Gedanke von selbst auf sie zurückkommt. Was zunächst die Gleichheit betrifft, so enthält der geläufige Satz, daß alle Menschen von Natur gleich sind, den Misverstand, das Natürliche mit dem Begriffe zu verwechseln; es muß gesagt werden, daß von Natur die Menschen vielmehr nur ungleich sind. Aber der Begriff der Freiheit, nicht als nur das Ansich, das Innere oder ein Gedachtes oder gar nur Gemeyntes, sondern existirend, ist die abstracte Subjectivität als Person, die des Eigenthums fähig ist; diese einzige abstracte Bestimmung der Persönlichkeit macht die wirkliche Gleichheit der Menschen aus. Daß aber diese Gleichheit vorhanden, daß es der Mensch ist, und nicht wie in Griechenland, Rom u.s.f. nur Einige Menschen, welcher als Person anerkannt ist und gesetzlich gilt, dies ist so wenig von Natur, daß es vielmehr nur Product und Resultat von dem Bewußtseyn des tiefsten Princips des Geistes und von der Allgemeinheit und Ausbildung dieses Bewußtseyns ist. Daß die Bürger vor dem Gesetze gleich sind, enthält eine hohe Wahrheit, aber ist eine Tavtologie, denn es ist damit nur der gesetzliche Zustand überhaupt, daß die Gesetze herrschen, ausgesprochen. Aber die Gesetze drücken nur die an sich allgemeinen Bestimmungen der Vernunft des Willens aus; in Rücksicht auf das Concrete sind die Bürger vor dem Gesetze nur in dem gleich, worin sie sonst außerhalb desselben gleich sind. Nur die sonst auf welche Weise es sey zufällig zu Stande gekommene Gleichheit des Vermögens, des Alters, der physischen Stärke, des Talents, der Geschicklichkeit u.s.f. oder auch der Verbrechen u.s.f. kann und soll eine gleiche Behandlung derselben vor dem Gesetze – in Rücksicht auf Abgaben, Militärpflichtigkeit, [p. 376] Zulassung zu Staatsdiensten u.s.f.
+
+Bestrafung u.s.f. im Concreten rechtfertigen. [orig. 479]
+
+Was die Freiheit betrifft, so wird dieselbe am nächsten theils im negativen Sinne gegen fremde Willkühr und gesetzlose Behandlung, theils im affirmativen Sinne der subjectiven Freiheit sowohl einer großen Breite für die eigene Willkühr und Thätigkeit für seine besondern Zwecke als der eigenen Einsicht und der Geschäftigkeit und Theilnahme an allgemeinen Angelegenheiten genommen. Ehemals sind die gesetzlich bestimmten Rechte, sowohl Privat- als öffentliche Rechte einer Nation, Stadt u.s.f. die Freiheiten derselben genannt worden. In der That ist jedes wahrhafte Gesetz eine Freiheit, denn es enthält eine Vernunftbestimmung des objectiven Geistes, einen Inhalt somit der Freiheit. Dagegen ist nichts geläufiger geworden als die Vorstellung, daß jeder seine Freiheit in Beziehung auf die Freiheit der Andern beschränken müsse, und der Staat der Zustand dieses gegenseitigen Beschränkens und die Gesetze die Beschränkungen seyen. In solchen Vorstellungen ist Freiheit nur als zufälliges Belieben und Willkühr aufgefaßt. So ist auch gesagt worden, daß die modernen Völker nur oder mehr der Gleichheit als der Freiheit fähig seyen. Im Gegentheil ist zu sagen, daß eben die hohe Entwicklung und Ausbildung der modernen Staaten die höchste concrete Ungleichheit der Individuen in der Wirklichkeit hervorbringt, hingegen durch die tiefere Vernünftigkeit der Gesetze und Befestigung des gesetzlichen Zustandes um so größere und begründetere Freiheit bewirkt. Je mehr Freiheit und Sicherheit des Eigenthums, die Möglichkeit seine Talente und guten Eigenschaften zu entwickeln und geltend zu machen u.s.f. befestigt ist, desto mehr erscheint sie sich von selbst zu verstehen; das Bewußtseyn und die Schätzung der Freiheit wendet sich dann vornehmlich nach dem subjectiven Sinne derselben. Diese aber selbst, die Freiheit der nach allen [orig. 480] Seiten sich versuchenden und für besondere und für allgemeine geistige Interessen nach eigner Lust ergehenden Thätigkeit, die Unabhängigkeit der individuellen Particularität, wie die innere Freiheit, in der das Subject Grundsätze, eigene Einsicht und Ueberzeugung hat und hienach moralische Selbstständigkeit gewinnt, erwächst selbst nur unter der Bedingung jener objectiven Freiheit. Wenn damit die Menge von Bedürfnissen und die Schwierigkeit sie zu befriedigen, das Räsonniren und Besserwissen und dessen unbefriedigte Eitelkeit sich ins Unbestimmbare vergrößert, so gehört dies der preisgegebenen Particularität an, der es [p. 377] überlassen bleibt, sich in ihrer Sphäre alle möglichen Verwicklungen zu erzeugen und sich mit ihnen abzufinden; dies ist freilich das Feld der Beschränkungen, weil die Freiheit befangen in der Natürlichkeit, dem Belieben und der Willkühr ist.
+
+Was aber die politische Freiheit betrifft, nämlich als förmliche Theilnahme des Willens und der Geschäftigkeit auch derjenigen Individuen, welche sich sonst zu ihrer Hauptbestimmung die particulären Zwecke und Geschäfte der bürgerlichen Gesellschaft machen, an den öffentlichen Angelegenheiten des Staates, so ist es zum Theil üblich geworden, Verfassung nur die Seite des Staats zu nennen, die eine Theilnahme jener Individuen an den allgemeinen Angelegenheiten betrifft, und einen Staat, in welchem sie nicht förmlich Statt hat, als einen Staat ohne Verfassung anzusehen. Diese Bedeutung ist zu beschränkt, wenn unter Verfassung die Bestimmung der Rechte d. i. der Freiheiten überhaupt, und die Organisation der Verwirklichung derselben verstanden wird. Jene Theilnahme bestimmt sich durch das Mehr oder Weniger der Entwicklung der Vernünftigkeit des Staats, wovon weiter unten die Rede seyn wird. [orig. 481]
+
+§. 540.
+
+Die Garantie einer Verfassung, d. i. die Nothwendigkeit, daß die Gesetze vernünftig und ihre Verwirklichung gesichert sey, liegt zugleich in dem Geiste des gesammten Volkes, nämlich der Bestimmtheit, nach welcher es das Selbstbewußtseyn seiner Vernunft hat, (die Religion ist dies Bewußtseyn in seiner Substantialität), und dann in der demselben gemäßen wirklichen Organisation als Entwicklung jenes Princips. Die Verfassung setzt jenes Bewußtseyn des Geistes voraus, und umgekehrt der Geist die Verfassung, denn der wirkliche Geist selbst hat nur das bestimmte Bewußtseyn seiner Principien, in sofern dieselben für ihn als existirend vorhanden sind.
+
+Die Frage, wem, welcher und wie organisirten Autorität, die Gewalt zukomme, eine Verfassung zu machen, ist dieselbe mit der, wer den Geist eines Volks zu machen habe. Trennt man aber die Vorstellung einer Verfassung von der des Geistes so, als ob dieser wohl existire oder existirt habe, ohne die Verfassung, die ihm gemäß ist, zu machen, so beweist solche Meynung nur die Oberflächlichkeit des Gedankens über den Zusammenhang des Geistes, seines Bewußtseyns über sich und seiner Wirklichkeit. Was man [p. 378] so eine Constitution machen nennt, ist, um dieser Unzertrennlichkeit willen, in der Geschichte niemals vorgekommen, eben so wenig als das Machen eines Gesetzbuches; eine Verfassung hat sich aus dem Geiste nur entwickelt, und in der Entwicklung die durch den Begriff nothwendigen Bildungsstufen und Veränderungen durchlaufen. Es ist der inwohnende Geist und die Geschichte - und zwar ist die Geschichte nur seine Geschichte, welche die Verfassungen gemacht haben und machen. [orig. 482]
+
+§. 541.
+
+Die Erhaltung d. i. die fortdauernde Verwirklichung des Staats überhaupt und seiner Verfassung ist die Regierung. Ihre Organisation ist der allgemeine Theil der Verfassung, d. i. derjenige, welcher sich auf die allgemeinen, über der Bestimmung der Familie und der bürgerlichen Gesellschaft stehenden Zwecke bezieht. Diese Organisation hat ihre Vernünftigkeit und damit ihre Vollkommenheit darin, daß sie in Gewalten unterschieden ist, wie deren Eigenthümlichkeiten durch den Begriff bestimmt sind, und damit ebenso in dessen Subjectivität zur geistigen Einheit sich durchdringen.
+
+Da die nächsten Kategorien des Begriffs die der Allgemeinheit und Einzelnheit sind, und deren Verhältniß das der Subsumtion der Einzelnheit unter die Allgemeinheit ist, so ist im Staate gesetzgebende und ausübende Gewalt unterschieden worden, so daß die letztere sich wieder in Regierungs- oder administrative Gewalt und in richterliche Gewalt theile, nach der Anwendung der Gesetze auf allgemeine oder auf Privat-Angelegenheiten. Weiter ist für ihr Verhältniß die Theilung dieser Gewalten für das Wesentliche angesehen worden, d. i. ihre Unabhängigkeit von einander, außer dem erwähnten Zusammenhange der Subsumtion des Besondern unter das Allgemeine. Es sind in diesen Bestimmungen die Elemente des Begriffs nicht zu verkennen, aber sie sind von dem Verstande zu einem Verhältniß der Unvernunft, statt zu dem Sich-mit-sich-selbst-Zusammenschließen des lebendigen Geistes verbunden. Daß die Geschäfte der allgemeinen Interessen des Staats in ihrem nothwendigen Unterschiede von einander geschieden organisirt seyen, diese Theilung ist das eine absolute Moment der Tiefe und Wirklichkeit der Freiheit; denn diese hat nur so Tiefe als sie in ihre Unterschiede entwickelt und zu [orig. 483] deren Existenz gelangt ist. Das Geschäft des Gesetzgebens aber (und vollends mit der Vorstellung, als ob irgend wann eine Verfassung und die Grundgesetze – in einem Zustande, worein eine schon vorhandene Entwicklung der Unterschiede gelegt wird erst zu machen wären) zur selbstständigen Gewalt und zwar [p. 379] zur ersten mit der nähern Bestimmung der Theilnahme Aller daran, und die Regierungsgewalt zur davon abhängigen nur ausführenden zu machen, dies setzt den Mangel der Erkenntniß voraus, daß die wahre Idee, und damit die lebendige und geistige Wirklichkeit der sich mit sich zusammenschlie-Bende Begriff, und damit die Subjectivität ist, welche die Allgemeinheit als nur eines ihrer Momente in ihr enthält. Die Individualität ist die erste und die höchste durchdringende Bestimmung in der Organisation des Staates. Nur durch die Regierungsgewalt und dadurch daß sie die besondern Geschäfte, wozu auch das selbst besondere, für sich abstracte Gesetzgebungs-Geschäft gehört, in sich begreift, ist der Staat Einer. So wesentlich wie überall, und allein wahr ist das logische Verhältniß; was dessen Einheit desorganisirt, desorganisirt ebenso die Wirklichkeit.
+
+§. 542.
+
+In der Regierung als organischer Totalität ist a) die Subjectivität als die in der Entwicklung des Begriffs unendliche Einheit desselben mit sich selbst, der alles haltende, beschließende Wille des Staats, die höchste Spitze desselben, wie alles durchdringende Einheit, die fürstliche Regierungsgewalt. In der vollkommenen Form des Staats, in der alle Momente des Begriffs ihre freie Existenz erlangt haben, ist diese Subjectivität nicht eine sogenannte moralische Person, oder ein aus einer Majorität hervorgehendes Beschließen, - Formen, in welchen die Einheit des beschließenden [orig. 484] Willens nicht eine wirkliche Existenz hat - sondern als wirkliche Individualität, Wille Eines beschließenden Individuums; Monarchie. Die monarchische Verfassung ist daher die Verfassung der entwickelten Vernunft; alle andere Verfassungen gehören niedrigern Stufen der Entwicklung und Realisirung der Vernunft an.
+
+Die Vereinigung aller concreten Staatsgewalten in Eine Existenz wie im patriarchalischen Zustande, oder wie in der demokratischen Verfassung, der Theilnahme Aller an allen Geschäften, widerstreitet für sich dem Princip der Theilung der Gewalten, d. i. der entwickelten Freiheit der Momente der Idee. Aber eben so sehr muß die Theilung, die zur freien Totalität fortgegangene Ausbildung der Momente, in ideelle Einheit, d. i. in Subjectivität zurückgeführt seyn. Die gebildete Unterschiedenheit, die Realisirung der Idee enthält ebenso wesentlich, daß diese Subjectivität als reales Moment, zu wirklicher Existenz gediehen sey, und diese Wirklichkeit ist allein Individualität des Monarchen, die in Einer Person vorhandene Subjectivität des abstracten, letzten Entscheidens. Allen jenen Formen von einem gemeinsamen Beschließen und Wollen, das aus der Atomistik der [p. 380] einzelnen Willen demokratisch oder aristokratisch hervorgehen und hervorgezählt werden sollte, klebt die Unwirklichkeit eines Abstractums an. Es kommt nur auf die zwei Bestimmungen, Nothwendigkeit eines Begriffsmoments und die Form der Wirklichkeit desselben an. Wahrhaft kann nur die Natur des speculativen Begriffs sich darüber verständigen. Jene Subjectivität, indem sie das Moment des abstracten Entscheidens überhaupt ist, geht theils zu der Bestimmung fort, daß der Name als solcher das Band und die Sanction ist, unter der überhaupt Alles geschieht, theils daß sie als die einfache Beziehung auf sich die Bestimmung der Unmittelbarkeit und damit der Natur an ihr | hat, hiemit die Bestimmung der Individuen für die Würde der fürstlichen Gewalt durch die Erblichkeit festgestellt wird.
+
+§. 543.
+
+b) In der besondern Regierungsgewalt thut sich theils die Theilung des Staatsgeschäfts in seine sonst bestimmten Zweige, die Gerechtigkeitspflege oder richterliche Gewalt, administrative und policeyliche Gewalt u.s.f., und damit die Vertheilung derselben an besondere Behörden hervor, welche für ihre Geschäfte an die Gesetze angewiesen, hiezu und deswegen sowohl Unabhängigkeit ihrer Wirksamkeit besitzen als zugleich unter höherer Beaufsichtigung stehen; theils tritt die Theilnahme Mehrerer an dem Staatsgeschäfte ein, die zusammen den allgemeinen Stand (§. 528.) ausmachen, in sofern sie zur wesentlichen Bestimmung ihres particulären Lebens ein Geschäft der allgemeinen Zwecke machen, an welchem individuell Theil nehmen zu können die weitere Bedingung die Ausbildung und die Geschicklichkeit hiefür ist.
+
+§. 544.
+
+c) Die ständische Behörde betrifft eine Theilnahme aller solcher, welche der bürgerlichen Gesellschaft überhaupt angehören und in sofern Privatpersonen sind, an der Regierungsgewalt und zwar an dem Allgemeinen der Interessen, welche nicht das Auftreten und Handeln des Staats als Individuums betreffen (wie Krieg und Frieden) und daher [nicht] nur der Natur der fürstlichen Gewalt für sich angehören, und daher näher an der Gesetzgebung; womit die subjective Freiheit und Einbildung und deren allgemeine Meynung sich in einer existirenden Wirksamkeit zeige und die Befriedigung, etwas zu gelten, genieße. |
+
+[p. 381] Die Eintheilung der Verfassungen in Demokratie, Aristokratie und Monarchie gibt noch immer ihren Unterschied in Beziehung auf die Staatsgewalt aufs bestimmteste an. Der orientalische Despotismus kann etwa gleichfalls unter dem vagen Namen Monarchie befaßt werden, wie auch die Feudalmonarchie, welcher sogar der beliebte Name constitutioneller Monarchie nicht versagt werden kann. Der nähere Unterschied dieser Formen von der wahrhaften Monarchie beruht auf dem Gehalt der geltenden Rechtsprincipien, welche in der Staatsgewalt ihre Wirklichkeit und Garantie haben. Diese Principien sind die in den frühern Sphären entwickelten der Freiheit des Eigenthums und ohnehin der persönlichen Freiheit, der bürgerlichen Gesellschaft, ihrer Industrie und Gemeinden, und der regulirten von den Gesetzen abhängigen Wirksamkeit der besondern Behörden.
+
+Die am meisten streitige Frage ist, in welchem Sinne die Theilnahme der Privatpersonen an den Staatsangelegenheiten zu fassen sey. Denn als Privatpersonen sind die Mitglieder von Ständeversammlungen zunächst zu nehmen, sie seyen nun als Individuen für sich oder als Repräsentanten Vieler oder des Volkes geltend; das Aggregat der Privaten pflegt nämlich häufig das Volk genannt zu werden. Als solches Aggregat ist es aber vulgus, nicht populus. Das Interesse jener Theilnahme ist weder in den Vorzug besonderer Einsicht überhaupt zu setzen, welchen die Privatpersonen vor dem Staatsbeamten besitzen sollen, es ist nothwendig das Gegentheil der Fall; noch in den Vorzug des guten Willens für das allgemeine Beste, denn die Mitglieder der bürgerlichen Gesellschaft sind die, welche ihr besonderes Interesse und wie vornehmlich im Feudalzustande das ihrer privilegirten Corporation, zu ihrer nächsten Bestimmung machen. Wie z. B. von England, dessen Verfassung darum als die freiste angesehen wird, weil die Privatpersonen eine überwiegende Theilnahme an dem Staatsgeschäfte haben, die Erfahrung nothwendig zeigt, daß dies Land in der bürgerlichen und peinlichen Gesetzgebung, dem Rechte und der Freiheit des Eigenthums, den Veranstaltungen für Kunst und Wissenschaft u.s.f., gegen die andern gebildeten Staaten Europa's am weitesten zurück, und die objective Freiheit, d.i. vernünftiges Recht, vielmehr der formellen Freiheit und dem Privatinteresse (dies sogar in den der Religion gewidmet seyn sollenden Veranstaltungen und Besitzthümern) aufgeopfert ist. – Das Interesse eines Antheils der Privaten an den öffentlichen Angelegenheiten ist zum Theil in die concretere und daher dringendere Empfindung allgemeiner Bedürfnisse zu setzen, wesentlich aber in das Recht, daß der gemeinsame Geist auch zu der Erscheinung eines äußerlich allgemeinen Willens in einer geordneten und ausdrücklichen Wirksamkeit für die öffentliche Angelegentlichkeit [p. 382] gelange, und durch diese Befriedigung ebenso eine Belebung für sich selbst empfange, als eine solche auf die Verwaltungsbehörden einfließt, welchen es hiedurch in gegenwärtigem Bewußtseyn erhalten ist, daß sie, so sehr sie Pflichten zu fordern, ebenso wesentlich Rechte vor sich haben. Die Bürger sind im Staate die unverhältnißmäßig größere Menge, und zwar eine Menge von solchen, die als Personen anerkannt sind. In ihnen stellt der freie Wille seine Existenz als Vielheit oder seiner Reflexions-Allgemeinheit dar, welcher in einem Antheil an der Staatsgewalt ihre Wirklichkeit gewährt wird. Es ist aber bereits als Moment der bürgerlichen Gesellschaft bemerklich gemacht worden (§. 527., 534.), daß die Einzelnen sich aus der äußerlichen in die substantielle Allgemeinheit, die besondere Gattung, die Stände, erheben; und es ist nicht in der unorganischen Form von Einzelnen als solchen (auf demokratische Weise des Wählens), sondern als organische [orig. 488] Momente, als Stände, daß sie in jenen Antheil eintreten.
+
+Ständeversammlungen sind schon in der Rücksicht mit Unrecht als die gesetzgebende Gewalt bezeichnet worden, in sofern sie nur einen Zweig dieser Gewalt ausmachen, an dem die besondern Regierungsbehörden wesentlichen Antheil und die fürstliche Gewalt den absoluten der schließlichen Entscheidung hat. Ohnehin kann in einem gebildeten Staate das Gesetzgeben nur ein Fortbilden der bestehenden Gesetze und können sogenannte neue Gesetze, nur Extreme von Particularitäten seyn, deren Inhalt durch die Praxis der Gerichtshöfe schon vorbereitet oder selbst vorläufig entschieden worden. - Das sogenannte Finanzgesetz, in sofern es zur Mitbestimmung der Stände kommt, ist wesentlich eine Regierungsangelegenheit und heißt nur uneigentlich ein Gesetz in dem allgemeinen Sinne, in welchem Gesetze von den Regierungsbeschlüssen, in sofern sie über besondere Angelegenheiten entscheiden, unterschieden werden. Denn die Finanzen betreffen wenn auch den Complex doch ihrer Natur nach nur die besondern immer neu sich erzeugenden veränderlichen Bedürfnisse. Würde dabei der Hauptbestandtheil des Bedarfs als bleibend angesehen, wie er es denn auch wohl ist, so würde die Bestimmung über ihn mehr die Natur eines Gesetzes haben, das aber damit ein für allemal gegeben seyn sollte, und nicht jährlich oder nach wenigen Jahren immer von Neuem zu geben wäre; die nach Zeit und Umständen veränderliche Parthie betrifft in der That den kleinsten Theil des Betrags, und die Bestimmung über ihn hat um so weniger den Charakter eines Gesetzes. Das Interesse, welches in die Fähigkeit, den Finanzetat immer wieder von Neuem zu bewilligen, gelegt wird, daß nämlich die [p. 383] Ständeversammlung daran ein Zwangsmittel gegen die Regierung und hiemit eine Garantie gegen Unrecht und Gewaltthätigkeit besitze, dies | Interesse ist ein oberflächlicher Schein; indem die für den Bestand des Staats nothwendige Veranstaltung der Finanzen nicht nach irgend andern Umständen bedingt werden kann; so wenig als die Regierung die Veranstaltung der Rechtspflege nur immer auf eine beschränkte Zeit zugeben und anordnen könnte, um an der Drohung, die Thätigkeit solcher Anstalt zu suspendiren, und an der Furcht eines eintretenden Raubzustandes sich ein Zwangsmittel gegen die Privaten vorzubehalten.
+
+Uebrigens beruhen Vorstellungen von einem Verhältnisse, für welches Zwangsmittel in Händen zu haben nützlich und erforderlich seyn könnte, theils auf der falschen Vorstellung eines Vertragsverhältnisses zwischen Regierung und Volk, theils setzen sie die Möglichkeit einer solchen Divergenz des Geistes beider voraus, bei welcher überhaupt nicht an Verfassung und Regierung mehr zu denken ist. Die Einrichtung des Staats als eine bloße Verstandes-Verfassung, d. i. als den Mechanismus eines Gleichgewichts sich in ihrem Innern einander äußerlicher Mächte vorzustellen, geht gegen die Grundidee dessen, was ein Staat ist.
+
+§. 545.
+
+Der Staat hat auch die Seite, die unmittelbare Wirklichkeit eines einzelnen und natürlich bestimmten Volkes zu seyn. Als einzelnes Individuum ist er ausschließend gegen andere eben solche Individuen. In ihrem Verhältnisse zu einander hat die Willkühr und Zufälligkeit Statt, weil das Allgemeine des Rechts um der autonomischen Totalität dieser Personen willen, zwischen ihnen nur seyn soll, nicht wirklich ist. Diese Unabhängigkeit macht den Streit zwischen ihnen zu einem Verhältnisse der Gewalt, einem Zustand des Krieges, für welchen der allgemeine Stand sich zu dem besondern Zwecke der Erhaltung der Selbstständigkeit des Staats gegen andere, zum Stand der Tapferkeit bestimmt.
+
+§. 546.
+
+Dieser Zustand zeigt die Substanz des Staates in ihrer zur abstracten Negativität fortgehenden Individualität, als die Macht, in welcher die besondere Selbstständigkeit der Einzelnen und der Zustand ihres Versenktseyns in das äußerliche Daseyn des Besitzes und in das natürliche Leben, sich als ein Nichtiges fühlt, und die Erhaltung der allgemeinen Substanz durch die Aufopferung dieses natürlichen und besondern Daseyns in der Gesinnung der Freiheit und Vereitlung des Eiteln sich mit sich selbst vermittelt.
+
+## [p. 384] β.
+
+## DAS ÄUSSERE STAATSRECHT.
+
+§. 547.
+
+Durch den Zustand des Krieges wird die Selbstständigkeit der Staaten auf das Spiel gesetzt, und nach Einer Seite die gegenseitige Anerkennung der freien Völkerindividuen bewirkt (§. 430.), und durch Friedens-Vergleiche, die ewig dauern sollen, sowohl diese allgemeine Anerkennung, als die besondern Befugnisse der Völker gegeneinander festgesetzt. (§. 493.) Das äußere Staatsrecht beruht theils auf diesen positiven Tractaten, enthält aber in sofern nur Rechte, denen die wahrhafte Wirklichkeit abgeht (§. 545.); theils auf dem sogenannten Völkerrechte, dessen allgemeines Princip das vorausgesetzte Anerkanntseyn der Staaten ist, und daher die sonst ungebundenen Handlungen gegen einander so beschränkt, daß die Möglichkeit des Friedens bleibt; – auch die In [orig. 491] dividuen als Privatpersonen vom Staate unterscheidet; und überhaupt auf den Sitten beruht.
+
+γ
+
+## DIE WELTGESCHICHTE.
+
+§. 548.
+
+Der bestimmte Volksgeist, da er wirklich und seine Freiheit als Natur ist, ist nach dieser von besonderer geographischen und klimatischen Bestimmtheit; er ist auch in der Zeit und hat eine durch sein besonderes Princip bestimmte Entwicklung seines Bewußtseyns und seiner Wirklichkeit zu durchlaufen; er hat eine Geschichte. Als beschränkter Geist ist nach dieser zweiten Seite seine Selbstständigkeit ein untergeordnetes; er geht in die allgemeine Weltgeschichte über, deren Begebenheiten die Dialektik der besondern Völkergeister, das Weltgericht, darstellt.
+
+§. 549.
+
+Diese Bewegung ist die Befreiung der sittlichen Substanz von ihren Besonderheiten, in denen sie in den einzelnen Völkern wirklich ist, – die That, wodurch sich der Geist zum Bewußtseyn, und damit zur Offenbarung und Wirklichkeit seines an und für sich seyenden Wesens bringt, und sich zum allgemeinen, zum [p. 385] Weltgeist wird. Indem sie die Entwicklung seines Selbstbewußtseyns in der Zeit ist, so sind deren einzelne Momente und Stufen die Völkergeister, deren jeder als einzelner und natürlicher in einer qualitativen Bestimmtheit, und daher nur Eine Stufe auszufüllen und nur ein Geschäft der ganzen That zu vollbringen bestimmt ist. |
+
+Daß die Voraussetzung eines an und für sich seyenden Zweckes und der sich aus ihm nach dem Begriffe entwickelnden Bestimmungen bei der Geschichte gemacht wird, ist eine a priorische Betrachtung derselben genannt und der Philosophie über a priorisches Geschichtschreiben Vorwurf gemacht worden. Daß der Geschichte und zwar wesentlich der Weltgeschichte ein Endzweck an und für sich zum Grunde liege und derselbe in ihr wirklich realisirt worden sey und werde, - der Plan der Vorsehung, – daß überhaupt Vernunft in der Geschichte sey, muß für sich selbst philosophisch ausgemacht werden. Tadel kann es nur verdienen, willkührliche Vorstellungen oder Gedanken vorauszusetzen und solchen die Begebenheiten und Thaten angemessen finden und vorstellen zu wollen. Dergleichen a priorischer Verfahrungsweise haben sich aber heut zu Tage vornehmlich solche schuldig gemacht, welche reine Historiker seyn zu wollen vorgeben und zugleich gelegentlich ausdrücklich gegen das Philosophiren theils überhaupt theils in der Geschichte sich erklären; die Philosophie ist ihnen allerdings eine lästige Nachbarin, als welche dem Willkührlichen und den Einfällen entgegen ist. Dergleichen a priorisches Geschichtschreiben ist in Deutschland und zwar zuweilen von einer Seite her, woher man es am wenigsten erwarten sollte, von der philologischen her vornehmlich, mehr eingerissen als in Frankreich und England, wo die Geschichtschreibung sich im Gegentheil mehr und mehr zu einem festen, reifen und verständigen Charakter gereinigt hat. Erdichtungen zu machen, wie die von einem Urzustande und dessen Urvolk, das im Besitz der wahrhaften Gotteserkenntniß und aller Wissenschaften, von Priestervölkern, und in speciellerem z. B. von einem römischen Epos, welches die Quelle der für historisch geltenden Nachrichten über die ältere Geschichte Roms gewesen sey u.s.f. ist an die Stelle der pragmatisirenden Erfindungen von psychologischen Gründen und Zusammenhängen getreten, und es kann scheinen, als ob es in einem weiten Kreise für das Erforderniß einer, aus den Quellen schöpfenden, gelehrten und geistreichen Geschichtschreibung angesehen werde, solche hohle Vorstellungen auszuhecken und sie aus einem gelehrten Auskehrigt entfernter äußerlicher Umstände, der beglaubigtsten Geschichte zu trotz, keck zu [p. 386] combiniren. Die Forderung, daß die Geschichte nicht nach einem Zwecke betrachtet werde, ist im Ganzen mit der noch mehr berechtigt scheinenden gleichbedeutend, daß der Geschichtschreiber mit Unpartheilichkeit verfahre, - einer Forderung, welche insbesondere an die Geschichte der Philosophie gemacht zu werden pflegt, als in welcher keine Zuneigung zu einer Vorstellung und Meynung sich zeigen, wie ein Richter für keine der beiden streitigen Partheien ein besonderes Interesse haben soll. In der That aber wird bei einem Richter zugleich angenommen, daß er sein Amt albern und schlecht verwalten würde, wenn er nicht eine Kenntniß des Rechts und ein Interesse, ja das ausschließende Interesse für dasselbe, wenn er es nicht zum Zwecke und alleinigen Zwecke hätte und wenn er sich des Urtheilens enthielte. Dies Erforderniß an den Richter kann man Partheilichkeit für das Recht nennen und weiß sie hier sehr wohl von der andern, der subjectiven Partheilichkeit, zu unterscheiden. Bei der an den Geschichtschreiber geforderten Unpartheilichkeit wird in dem nüchternen, selbstgefälligen Gerede darüber jener Unterschied verlöscht und werden beide Arten von Interessen verworfen, wenn verlangt wird, der Geschichtschreiber solle keinen bestimmten Zweck und Ansicht, nach welcher er die Begebenheiten aussondern, stellen und beurtheilen würde, mitbringen, sondern sie gerade in der zufälligen Weise, wie er sie vorfindet, in ihrer ganz particulären Bestimmtheit erzählen. So viel wird zugestanden, daß eine Geschichte einen Gegenstand haben müsse, z. B. Rom, [orig. 494] dessen Schicksale, oder den Verfall der Größe des römischen Reichs. Es gehört wenig Ueberlegung dazu einzusehen, daß dies der vorausgesetzte Zweck ist, welcher den Begebenheiten selbst, so wie der Beurtheilung derselben zum Grunde liegt, welche Wichtigkeit, d. h. nähere oder entferntere Beziehung sie auf ihn haben. Eine Geschichte ohne solchen Zweck und ohne solche Beurtheilung wäre nur eine schwachsinnige Faselei, nicht einmal ein Kindermährchen, denn selbst die Kinder fordern in den Erzählungen ein Interesse, d. i. einen wenigstens zu ahnden gegebenen Zweck und die Beziehung der Begebenheiten und Handlungen auf denselben. In dem Daseyn eines Volkes ist der substantielle Zweck, daß es ein Staat ist, und als solcher sich erhält; alles andere hat nur Bedeutung in Beziehung hierauf, und die Particularitäten der Individuen sind am entferntesten von jenem der Geschichte angehörigen Gegenstand. Wenn in dem Charakter der wenigen großen Individuen einer Periode sich der allgemeine Geist einer Zeit abdrückt, und auch ihre Particularitäten noch die entferntern und trüben Medien sind, in welchen er noch in geschwächten Farben [p. 387] spielt, so ist dagegen die Masse der sonstigen Einzelnheiten ein überflüssiger Plunder; die der Geschichte würdigen Gegenstände werden durch die getreue Aufsammlung solcher nur das in sich Unbedeutende charakterisirender Einzelnheiten gedrückt und verdunkelt; die Charakteristik des Geistes und seiner Zeit ist in den großen Begebenheiten enthalten. Es hat darum ein richtiger Sinn darauf geführt, dergleichen Schildereien des Particulären und das Auflesen der Züge desselben in den Roman (wie die berühmten Walter-Scottschen und dergl. sind) zu verweisen; es ist für guten Geschmack zu halten, die Gemälde der unwesentlichen, particulären Lebendigkeit mit einem unwesentlichen Stoffe zu verbinden, wie ihn der Roman aus den Privatleidenschaften und subjectiven Leidenschaften nimmt. [orig. 495]
+
+Im Interesse der sogenannten Wahrheit aber die individuellen Kleinigkeiten der Zeit und der Personen in die Vorstellung der allgemeinen Interessen einzuweben ist nicht nur gegen Urtheil und Geschmack, sondern gegen den Begriff objectiver Wahrheit, in deren Sinne dem Geist nur Substantielles, nicht aber die Gehaltlosigkeit äußerlicher Existenzen und Zufälligkeiten das Wahre, und es vollkommen gleichgültig ist, ob solche Unbedeutenheiten förmlich historisch beglaubigt oder aber wie im Romane, charakteristisch erdichtet und diesem oder jenem Namen und Umständen zugeschrieben sind.
+
+Die Anforderung der Unpartheilichkeit aber an die Geschichte der Philosophie wie auch der Religion theils überhaupt, theils an die Kirchengeschichte pflegt noch näher die ausdrückliche Ausschließung der Voraussetzung von einem objectiven Zwecke zu enthalten. Wie vorhin der Staat als die Sache genannt war, auf welchen das Urtheil die Begebenheiten in der politischen Geschichte zu beziehen hätte, so müßte hier die Wahrheit der Gegenstand seyn, auf welche die einzelnen Thaten und Begebenheiten des Geistes zu beziehen wären. Es wird aber vielmehr die entgegengesetzte Voraussetzung gemacht, daß jene Geschichten nur subjective Zwecke, d. i. nur Meynungen und Vorstellungen, nicht den an und für sich seyenden Gegenstand, die Wahrheit zum Grunde liegen haben, - und zwar aus dem einfachen Grunde, weil es keine Wahrheit gebe. Nach dieser Annahme erscheint das Interesse für die Wahrheit nur als eine Partheilichkeit im gewöhnlichen Sinne, nämlich für subjective Zwecke, für Meynungen und Vorstellungen, die als von gleicher Gehaltlosigkeit sämmtlich für indifferent gelten. Die geschichtliche Wahrheit selbst hat damit den Sinn nur von Richtigkeit, genauem Berichte des Aeußerlichen, ohne Urtheil als über diese [p. 388] Richtigkeit selbst, womit blos qualitative und quantitative, keine Urtheile der Nothwendigkeit und des [orig. 496] Begriffs, (vergl. Anm. zu §. 172. u. 178.) zugelassen sind. In der That aber, wenn in der politischen Geschichte Rom oder das deutsche Reich u.s.f. ein wirklicher und wahrhafter Gegenstand und der Zweck sind, auf welchen die Erscheinungen zu beziehen und nach dem sie zu beurtheilen sind, so ist noch mehr in der allgemeinen Geschichte das geistige Leben der Wahrheit und der Freiheit, der allgemeine Geist und das Bewußtseyn desselben ein wahrhafter und wirklicher Gegenstand, Inhalt und ein Zweck, dem an und für sich alle andern Erscheinungen dienen, so daß sie durch das Verhältniß zu ihm, d. h. das Urtheil, in welchem sie unter ihn subsumirt sind und er ihnen inhärirt, allein ihren Werth so wie ihre Existenz selbst haben.
+
+§. 550.
+
+Diese Befreiung des Geistes, in der er zu sich selbst kommt und sich verwirklicht, und das Geschäft derselben ist das höchste und absolute Recht. Das Selbstbewußtseyn eines besondern Volks ist Träger der diesmaligen Entwicklungsstufe des allgemeinen Geistes in seinem Daseyn, und die objective Wirklichkeit, in welche er seinen Willen legt. Gegen diesen absoluten Willen ist der Wille der andern besondern Volksgeister rechtlos, jenes Volk ist das Weltbeherrschende; ebenso aber schreitet er über sein jedesmaliges Eigenthum als über eine besondere Stufe hinaus, und übergibt es dann seinem Zufall und Gericht.
+
+§. 551.
+
+Indem solches Geschäft der Wirklichkeit als Handlung und damit als ein Werk Einzelner erscheint, so sind diese in Rücksicht auf den substantiellen Inhalt ihrer Arbeit Werkzeuge, und ihre Subjectivität, die ihr Eigenthümliches ist, ist die leere Form der Thätigkeit. Was sie daher [orig. 497] durch den individuellen Antheil, den sie an dem substantiellen von ihnen unabhängig bereiteten und bestimmten Geschäfte genommen, für sich erlangt haben, ist eine formelle Allgemeinheit subjectiver Vorstellung, der Ruhm, der ihre Belohnung ist.
+
+§. 552.
+
+Der Volksgeist enthält überhaupt die Natur-Nothwendigkeit, er steht in der Weltlichkeit; seine in sich unendliche sittliche Substanz ist zugleich theils für sich eine besondere und beschränkte (§. 549. u. 550.), theils ist darum das obgleich zur [p. 389] Sitte und objectiven Freiheit untergegangene Wissen und Wollen der subjectiven Seite mit Zufälligkeit behaftet, und näher im Verhältnisse des Bewußtseyns und des Gegensatzes gegen eine selbstständige, äußerliche Natur. Aber es ist die lebendige Sittlichkeit selbst, in deren objectivem Wissen sich die Aeußerlichkeiten des Weltgeistes und die Gegensätze der Endlichkeit, die er enthält, abstreifen und aufheben, so daß dies Wissen sich in sich zum Wissen des absoluten Geistes, als der ewig wirklichen Wahrheit erhebt, in welcher die Vernunft frei für sich und die Nothwendigkeit und Natur nur als seiner Offenbarung dienend und Gefäße seiner Ehre sind.
+
+Von dem Formellen der Erhebung des Geistes zu Gott ist in der Einleitung zur Logik (vergl. insbesondere §. 51. Anm.) gesprochen worden. In Ansehung der Ausgangspunkte dieser Erhebung hat Kant in sofern im Allgemeinen den richtigsten ergriffen, als er den Glauben an Gott aus der praktischen Vernunft hervorgehend betrachtet. Denn der Ausgangspunkt enthält implicite den Inhalt oder Stoff, welcher den Inhalt des Begriffs von Gott ausmacht. Der wahrhafte concrete Stoff ist aber weder das Seyn (wie im kosmologischen), noch nur die zweckmäßige Thätigkeit (wie im physicotheologischen Beweise), sondern der Geist, dessen absolute Bestimmung, die wirksame Vernunft, d. i. der sich bestimmende und realisirende Begriff selbst, - die Freiheit ist. Daß die in dieser Bestimmung geschehende Erhebung des subjectiven Geistes zu Gott in der Kantischen Darstellung wieder zu einem Postulate, einem bloßen Sollen, herabgesetzt wird, ist die früher erörterte Schiefheit, den Gegensatz der Endlichkeit, dessen Aufheben in der Wahrheit jene Erhebung selbst ist, unmittelbar als wahr und gültig wieder herzustellen.
+
+Es ist früher von der Vermittlung, welche die Erhebung zu Gott ist, gezeigt worden (§. 192. vergl. §. 204. Anm.), daß das Moment der Negation, als durch welche der wesentliche Inhalt des Ausgangspunktes von seiner Endlichkeit gereinigt wird und hiedurch frei hervorgeht, vornehmlich zu beachten ist. Dies in der logischen Form abstracte Moment hat nun seine concreteste Bedeutung erhalten. Das Endliche, von dem hier ausgegangen wird, ist das sittliche Selbstbewußtseyn; die Negation, durch welche es seinen Geist zu seiner Wahrheit erhebt, ist die in der sittlichen Welt wirklich vollbrachte Reinigung seines Wissens von der subjectiven Meynung und Befreiung seines Willens von der Selbstsucht der Begierde. Die wahrhafte Religion und wahrhafte Religiosität geht nur aus der Sittlichkeit [p. 390] hervor, und ist die denkende d. i. der freien Allgemeinheit ihres concreten Wesens bewußtwerdende Sittlichkeit. Nur aus ihr und von ihr aus wird die Idee von Gott als freier Geist gewußt; außerhalb des sittlichen Geistes ist es daher vergebens wahrhafte Religion und Religiosität zu suchen. |
+
+## [p. 391] ABSOLUTER GEIST
+
+## DRITTE ABTHEILUNG DER PHILOSOPHIE DES GEISTES. DER ABSOLUTE GEIST.
+
+§. 553.
+
+Der Begriff des Geistes hat seine Realität im Geiste. Daß diese in der Identität mit jenem als das Wissen der absoluten Idee sey, hierin ist die nothwendige Seite, daß die an sich freie Intelligenz zu ihrem Begriffe befreit sey, um die dessen würdige Gestalt zu seyn. Der subjective und der objective Geist sind als der Weg anzusehen, auf welchem sich diese Seite der Realität oder der Existenz ausbildet.
+
+§. 554.
+
+Der absolute Geist ist ebenso ewig in sich seyende als in sich zurückkehrende und zurückgekehrte Identität; die Eine und allgemeine Substanz, als geistige, das Urtheil in sich und in ein Wissen, für welches sie als solche ist. Die Religion, wie diese höchste Sphäre im Allgemeinen bezeichnet werden kann, ist eben so sehr als vom Subjecte ausgehend und in demselben sich be findend, als objectiv von dem absoluten Geiste ausgehend zu betrachten, der als Geist in seiner Gemeinde ist.
+
+Daß hier nicht und daß überhaupt Glaube dem Wissen nicht entgegengesetzt, sondern Glauben vielmehr ein Wissen ist, und jener nur eine besondere Form von diesem, ist oben §. 63. Anm. bemerkt worden.
+
+§. 555.
+
+Das subjective Bewußtseyn des absoluten Geistes ist wesentlich in sich Proceß, dessen unmittelbare und substantielle Einheit der Glaube in dem Zeugniß des Geistes als die Gewißheit von der objectiven Wahrheit ist. Der Glaube, zugleich diese unmittelbare Einheit und [sie] als das Verhältniß jener unterschiedenen Bestimmungen enthaltend ist in der Andacht, dem impliciten oder explicirtern Cultus, in den Proceß übergegangen, den Gegensatz zur geistigen Befreiung [p. 392] aufzuheben, durch diese Vermittlung jene erste Gewißheit zu bewähren und die concrete Bestimmung derselben, nämlich die Versöhnung, die Wirklichkeit des Geistes zu gewinnen.
+
+## a.
+
+## DIE KUNST.
+
+§. 556.
+
+Die unmittelbare Gestalt dieses Wissens ist die der Anschauung und Vorstellung des an sich absoluten Geistes als des Ideals, der aus dem Geiste gebornen concreten Gestalt, in welcher die natürliche Unmittelbarkeit nur Zeichen der Idee, zu deren Ausdruck so durch den einbildenden Geist verklärt ist, daß die Gestalt sonst nichts anderes an ihr zeigt; - die Gestalt der Schönheit. [orig. 501]
+
+§. 557.
+
+Die sinnliche Aeußerlichkeit an dem Schönen, die Form der Unmittelbarkeit ist zugleich Inhaltsbestimmtheit und der Gott hat bei seiner geistigen zugleich die Bedeutung eines natürlichen Elements oder Daseyns. Er enthält die sogenannte Einheit der Natur und des Geistes, d. i. die unmittelbare, indem dies die Form dieser Anschauung überhaupt ist; - somit nicht die geistige Einheit, d. i. nicht die, in welcher das Natürliche nur als Ideelles, Aufgehobenes gesetzt und der Inhalt in geistiger, wahrhafter Beziehung auf sich selbst wäre; es ist nicht der absolute Geist, welcher in dies Bewußtseyn eintritt. Nach der subjectiven Seite ist die Gemeinde wohl eine sittliche, weil sie ihr Wesen als geistiges weiß, und ihr Selbstbewußtseyn und Wirklichkeit hierin zur substantiellen Freiheit erhoben ist. Aber behaftet mit der Unmittelbarkeit ist die Freiheit des Subjects nur Sitte, ohne die unendliche Reflexion in sich, die Gewißheit, ohne die subjective Innerlichkeit des Gewissens.
+
+§. 558.
+
+Näher ist es um dieser nur unmittelbaren Einheit willen selbst, daß die Gestalt eine gleichgültige Aeußerlichkeit für sich, ein gemeines sinnliches Material ist, und auf diese Weise sie und ihre Bedeutung selbstständig auseinander fallen. Diese [p. 393] Bedeutung, der Inhalt, ist wie die Gestalt ein endliches überhaupt, ein beschränkter Volksgeist, der zugleich zwar unendlicher Reichthum nur in der Allgemeinheit des Gedankens gefaßt, nicht in solcher Einzelnheit des Gestaltens explicirt werden kann, und wenn zu weiterer Bestimmung fortgegangen wird, in eine unbestimmte Vielgötterei zerfällt. [orig. 502]
+
+§. 559.
+
+Mit der wesentlichen Beschränktheit des Inhalts wird die Schönheit überhaupt nur zur Durchdringung der Anschauung oder des Bildes durch den geistigen Gedanken, zu etwas Formellem, so daß der Inhalt des Gedankens oder die Vorstellung ebenso wie der Stoff, den er zu seiner Einbildung gebraucht, von der verschiedensten und selbst unwesentlichsten Art, und das Werk doch ein schönes Kunstwerk seyn kann.
+
+§. 560.
+
+Die Einseitigkeit der Unmittelbarkeit an dem Ideale enthält die entgegengesetzte, daß es ein vom Künstler Gemachtes ist. Das Subject ist zwar das rein Formelle der Thätigkeit, und das Kunstwerk nur dann Ausdruck des Gottes, wenn kein Zeichen von subjectiver Besonderheit darin, sondern der Gehalt des inwohnenden Geistes, sich ohne solche Beimischung und von deren Zufälligkeit unbefleckt empfangen und herausgeboren hat. Aber es ist hierin der Gegensatz vorhanden, daß die mit diesem inwohnenden Gehalte erfüllte Thätigkeit, die Begeisterung des Künstlers, wie eine in ihm fremde Gewalt als ein unfreies Pathos ist, das Produciren hiemit an ihm selbst die Form natürlicher Unmittelbarkeit, im Genie als diesem besondern Subjecte hat, und zugleich ein mit technischem Verstande und mechanischen Aeußerlichkeiten beschäftigtes Arbeiten ist. Das Kunstwerk ist daher eben so sehr ein Werk der freien Willkühr und der Künstler der Meister des Gottes.
+
+§. 561.
+
+In jenem Erfülltseyn erscheint die Versöhnung so als Anfang, daß sie unmittelbar in dem subjectiven [orig. 503] Selbstbewußtseyn vollbracht sey, welches so in sich sicher und heiter, ohne die Tiefe und ohne Bewußtseyn seines Gegensatzes gegen das an und für sich seyende Wesen ist, und das schöne Werk ist ein sinnliches äußerliches Ding und ein vom Subjecte gemachtes. Die Religion, ihrem [p. 394] Begriffe nach, fängt aber von dem Wissen der nur an sich seyenden Versöhnung an, und ist damit auf der Seite des Subjectes wesentlich Ausgehen von dem Gegensatze, und ist ein erst durch die Vermittlung hervorzubringendes Ueberwinden desselben; sie liegt daher theils als eine Vergangenheit schon im Rücken der schönen Kunst (vergl. §. 341.), theils vorwärts derselben in der Zukunft.
+
+§. 562.
+
+Die im Rücken der schönen Kunst liegende Religion zerfällt in mehrere, indem sie zu ihrem Inhalte die abstracten Momente haben kann, deren concrete Einheit der Geist ist; ihr Gott ist ein elementarisches oder concreteres Natur-Seyn, oder das entgegengesetzte, das reine Denken. An dem einen wie an dem andern ist die Subjectivität nur die oberflächliche Form von Persönlichkeit, weil der Gehalt nicht concret geistig ist. Um dieser Bestimmung des Gegenstandes willen hat das Subject seine Freiheit nicht in demselben, sein Cultus ist zwar mit Ehrfurcht und Andacht, aber überwiegend mit dem Bewußtseyn der Nichtigkeit seines endlichen Daseyns und Selbstgefühls, und mit Aberglauben verbunden.
+
+Die Philosophie der Religion hat die logische Nothwendigkeit in dem Fortgang der Bestimmungen des als das Absolute gewußten Wesens zu erkennen, welchen Bestimmungen zunächst die Art des Cultus entspricht, wie ferner das weltliche Selbstbewußtseyn, das Bewußtseyn über das, was die höchste Bestimmung im Menschen sey, und hiemit die Natur der Sittlichkeit eines Volkes, das Princip seines Rechts, seiner wirklichen [orig. 504] Freiheit und seiner Verfassung, wie seiner Kunst und Wissenschaft, dem Princip entsprechen, welches die Substanz einer Religion ausmacht. Daß alle diese Momente der Wirklichkeit eines Volkes Eine systematische Totalität ausmachen und Ein Geist sie erschafft und einbildet, diese Einsicht liegt der weitern zum Grunde, daß die Geschichte der Religionen mit der Weltgeschichte zusammenfällt.
+
+Ueber den Zusammenhang der Kunst mit den Religionen ist die nähere Bemerkung zu machen, daß sie, indem wahrhaft schöne Kunst nur denjenigen Religionen angehören kann, in welchen die concrete Geistigkeit Princip ist. Aber auch in den Religionen, in welchen die Idee noch nicht in ihrer freien Bestimmtheit offenbar geworden und gewußt wird, thut sich wohl das Bedürfniß der Kunst hervor, um in Anschauung und Phantasie die Vorstellung des Wesens zum Bewußtseyn zu bringen, ja die Kunst ist vielmehr das einzige Organ, in welchem der untergeordnete Inhalt zum Bewußtseyn gebracht werden kann. Aber die Kunst ist mangelhaft; weil sie einen so [p. 395] mangelhaften Gehalt hat, daß er die freie Geistigkeit noch nicht enthält, ist auch die Form und die Aeußerlichkeit selbst mangelhaft, daß sie in Endlichkeit und Selbstständigkeit gegen das Innere bleibt. Die Darstellung behält eine Seite der Geschmack- und Geistlosigkeit, weil das Innere selbst noch mit Geistlosigkeit behaftet ist, und daher nicht die Macht hat, das Aeußere frei zur Bedeutung und zur Gestalt zu durchdringen. Die schöne Kunst dagegen hat das Selbstbewußtseyn des freien Geistes und damit das Bewußtseyn der Unselbstständigkeit des Sinnlichen und blos Natürlichen gegen denselben zur Bedingung, sie macht dieses ganz nur zum Ausdruck desselben. Eben damit aber beweist ihr Eintreten den Untergang einer an sinnliche Aeußerlichkeit noch gebundenen Religion. Zugleich, indem sie der Religion die höchste Verklärung, Ausdruck und Glanz zu geben [orig. 505] scheint, hat sie dieselbe über diese Beschränktheit hinausgehoben. Das Genie des Künstlers und der Zuschauer ist in der erhabensten Göttlichkeit des Kunstwerks mit seinem Sinne und Empfindung einheimisch, befriedigt und heiter. Jene Religion aber, in welcher sich das Bedürfniß der schönen Kunst und eben deswegen erzeugt, hat in ihrem Princip ein gedankenloses und sinnliches Jenseits; die andächtig verehrten Bilder sind die unschönen Götzenbilder, als wunderthätige Talismane, die eine jenseitige Objectivität einschließen, und Knochen thun denselben oder selbst bessern Dienst, als solche Bilder. Die wahrhafte Objectivität, welche nur im Elemente des Gedankens ist, dem Elemente, in welchem allein der reine Geist für den Geist, die Befreiung zugleich mit der Ehrfurcht ist, mangelt eben so sehr in dem Sinnlich-schönen des Kunstwerks, als in jener äußerlichen, unschönen Sinnlichkeit.
+
+§. 563.
+
+Die schöne Kunst hat aber auch ihr Vorwärts in der Zukunft der wahrhaften Religion; das beschränkte Daseyn der Idee geht an und für sich in die Allgemeinheit des Daseyns, die Form der Anschauung, des unmittelbaren an Sinnlichkeit gebundenen Wissens, in das sich in sich vermittelnde Wissen, in ein Daseyn, das selbst das Wissen ist, das Offenbaren über; so daß damit der Inhalt der Idee die Bestimmung des freien Wissens zum Princip hat, und als absoluter Geist für den Geist ist.
+
+Die wahrhafte Religion hat noch ein anderes Rückwärts als die Kunst, nämlich in der Erscheinung der wissenschaftlichen Folge, den Staat. Aber [p. 396] diese Ordnung gibt sich selbst wie überall im Speculativen die Bedeutung, daß das zunächst als Folgendes gestellte vielmehr das absolute Prius, die Wahrheit dessen ist, durch das es als vermittelt erscheint. So ist die Sitt|lichkeit der Ausgangspunkt zur Religion von der Wirklichkeit des subjectiven Bewußtseyns aus (§. 552.). Die Sittlichkeit ist der auf sein substantielles Inneres zurückgeführte Staat, dieser die Entwicklung und Verwirklichung derselben; die Substantialität aber der Sittlichkeit selbst und des Staats ist die Religion. Der Staat beruht nach diesem Verhältniß auf der sittlichen Gesinnung und diese auf der religiösen. Indem die Religion das Bewußtseyn der absoluten Wahrheit ist, so kann was als Recht und Gerechtigkeit, als Pflicht und Gesetz, d. i. als wahr in der Welt des freien Willens gelten soll, nur in sofern gelten, als es Theil an jener Wahrheit hat, unter sie subsumirt ist und aus ihr folgt. Das Religiöse ist aber nicht nur als Gesinnung zu nehmen. Die Gesinnung gehört dem Selbstbewußtseyn als einzelnen an, ist darin durch Erziehung zu pflanzen und auf die mannichfache, psychologische Wirkungsweise zu ernähren und zu erhalten.
+
+Ihr Verhältniß zum Staat kann so betrachtet werden, daß dieser für sich sonst schon und aus irgend einer Macht und Gewalt existire, und das Religiöse als das Subjective der Individuen nur zu seiner Befestigung hinzuzukommen hätte. In der That aber liegt in der Natur des Ueberganges vom Staat zur Religion, daß diese die an und für sich seyende Basis von jenem, die Quelle und Macht sey, welche ihn und seine Verfassung gegründet und hervorgebracht hat. In sofern aber die Religion (§. 562. Anm.) wie Staat und Kunst (§. 559.) etwas Formelles seyn kann, hat auch die ursprüngliche Harmonie von Religion und Staat verschiedene Bestimmungen, je nach dem substantiellen Principe, nämlich dem Bewußtseyn der Freiheit des Geistes, der identischen Grundlage beider. Der allgemeine Unterschied ist, ob die Unfreiheit oder die Freiheit des Geistes, diese Grundbestimmung ausmacht. Es kann dabei ferner die Unfreiheit der Form nach Statt | finden, obgleich der an sich seyende Inhalt der Religion der absolute Geist ist. Der letztere große Unterschied, um das Bestimmtere anzuführen, findet sich innerhalb der christlichen Religion selbst, in welcher nicht das Naturelement selbst den Inhalt des Gottes macht, noch auch ein solches in den Gehalt desselben als Moment eintritt, sondern Gott, der im Geist und in der Wahrheit gewußt wird, der Inhalt ist. Und doch wird in der katholischen Religion zunächst in der Hostie Gott als äußerliches Ding, der religiösen Anbetung präsentirt, (wogegen in der lutherischen Kirche die Hostie als solche erst und nur allein im Genusse (d. i. in der Vernichtung der Aeußerlichkeit derselben) und im Glauben consecrirt und zum gegenwärtigen [p. 397] Gotte erhoben wird). Aus jenem ersten und höchsten Verhältniß der Aeußerlichkeit fließen alle die andern äußerlichen und damit ungeistigen und aberglaubischen Verhältnisse; namentlich ein Layenstand, der das Wissen der göttlichen Wahrheit, wie die Direction des Willens und Gewissens von außenher und von einem andern Stande empfängt, und selbst zum Besitze jenes Wissens nicht auf geistige Weise allein gelangt, sondern wesentlich dafür einer äußerlichen Consecration bedarf. Weiteres, die theils für sich theils darin geistlose Weise des Betens, daß das Subject auf die directe Richtung zu Gott Verzicht leistet, und Andere um das Beten bittet, die Richtung der Andacht an wunderthätige Bilder, ja selbst an Knochen, und die Erwartung von Wundern durch sie, – überhaupt die Gerechtigkeit durch äußerliche Werke, ein Verdienst, das durch die Handlungen soll erworben, ja sogar auf andere übergetragen werden können, u.s.f. - Alles dieses bindet den Geist unter ein Außersichseyn, wodurch sein Begriff im Innersten verkannt und verkehrt, und Recht und Gerechtigkeit, Sittlichkeit und Gewissen, Zurechnungsfähigkeit und Pflicht in ihrer Wurzel ver dorben sind. Solchem Princip und dieser Entwicklung der Unfreiheit des Geistes im Religiösen entspricht nur eine Gesetzgebung und Verfassung der rechtlichen und sittlichen Unfreiheit im Politischen. Consequenterweise ist die katholische Religion so laut als diejenige gepriesen worden und wird oft noch gepriesen, bei welcher allein die Festigkeit der Regierungen gesichert sey, in der That solcher Regierungen, welche mit Institutionen zusammenhängen, die sich auf die Unfreiheit des rechtlich und sittlich frei seyn sollenden Geistes gründen. Gegen solches Außersich- und Zerrissenseyn sammelt sich das Bewußtseyn in seine freie Wirklichkeit; es erwacht die Weltweisheit im Geiste der Regierungen und der Völker, d. h. die Weisheit über das, was in der Wirklichkeit an und für sich recht und vernünftig ist. So wird das, was in der Welt Heiligkeit seyn soll, durch die Sittlichkeit verdrängt. Statt des Gelübdes der Keuschheit gilt die Ehe als das Sittliche, und damit als das Höchste in dieser Seite des Menschen die Familie; statt des Gelübdes der Armuth (dem sich in Widerspruch verwickelnd, das Verdienst des Wegschenkens der Habe an die Armen d. i. die Bereicherung derselben entspricht) gilt die Thätigkeit des Selbsterwerbs durch Verstand und Fleiß, und die Rechtschaffenheit in diesem Verkehr und Gebrauch des Vermögens, die Sittlichkeit in der bürgerlichen Gesellschaft; statt des Gelübdes des Gehorsams gilt der Gehorsam gegen das Gesetz und die gesetzlichen Staatseinrichtungen, welcher selbst die wahrhafte Freiheit ist, die [p. 398] Sittlichkeit im Staate. Mit dem Bedürfnisse des Rechtes und der Sittlichkeit tritt der Zwist derselben gegen die Religion der Unfreiheit ein. Es hälfe aber nichts, daß die Gesetze und die Staatsordnung zur vernünftigen Rechtsorganisation umgeschaffen würden, wenn nicht in der Religion das Princip der Unfreiheit aufgegeben wird. Beides ist unverträglich [orig. 509] mit einander; es ist eine thörigte Vorstellung, beiden ein getrenntes Gebiet anweisen zu wollen, in der Meynung, ihre Verschiedenheit werde sich gegenseitig ruhig verhalten und nicht zum Widerspruch und Kampf ausschlagen. Ohnehin können Grundsätze der rechtlichen Freiheit nur abstract und oberflächlich, und müssen daraus hergeleitete Staatsinstitutionen für sich unhaltbar seyn, wenn die Weisheit jener Principien die Religion so sehr miskennt, um nicht zu wissen, daß die Grundsätze der Vernunft der Wirklichkeit ihre letzte und höchste Bewährung in dem religiösen Gewissen, in der Subsumtion unter das Bewußtseyn der absoluten Wahrheit, haben. Wenn, auf welche Weise es geschehe, so zu sagen a priori eine Gesetzgebung, welche die Vernunftgrundsätze zu ihrer Grundlage hätte, aber im Widerspruche mit der auf Principien der geistigen Unfreiheit basirten Landesreligion, aufgedrungen worden wäre, so liegt die Bethätigung der Gesetzgebung in den Individuen der obersten Regierung als solcher und der ganzen sich durch alle Classen verzweigenden Verwaltung; es ist nur eine abstracte, leere Vorstellung, dieselben sich nur nach dem Sinne der Gesetzgebung und nicht nach dem Geiste ihrer Religion, in der ihr innerstes Gewissen und höchste Verpflichtung liegt, handelnd vorzuspiegeln. Die Gesetze erscheinen nur als ein von Menschen gemachtes, und deren Umänderung muß selbst gesetzlich berechtigt seyn; sie könnten, wenn sie auch sanctionirt und äußerlich eingeführt wären, dem Widerspruche und den Angriffen des religiösen Geistes gegen sie keinen dauerhaften Widerstand leisten.
+
+In Plato war die Erkenntniß über die Entzweiung bestimmter aufgegangen, die zu seiner Zeit zwischen der Religion und der Staatsverfassung einerseits, und andererseits den tiefern Anforderungen eingetreten war, welche die ihrer Innerlichkeit nun bewußt werdende Freiheit an die Religion und den politischen Zustand machte. [orig. 510] Plato faßt den Gedanken der tiefern Begründung der Verfassung und des Staatslebens auf die Idee, die an und für sich allgemeinen und wahrhaften Principien der ewigen Gerechtigkeit. Diese zu wissen und zu erkennen ist allerdings Bestimmung und Geschäft der Philosophie. Von diesem Gesichtspunkte her bricht Plato in die berühmte oder berüchtigte Stelle aus, worin er den Sokrates es sehr emphatisch aussprechen läßt, daß Philosophie und Staatsmacht in Eines zusammenfallen, die Idee die Regentin seyn müsse, wenn das Unglück der [p. 399] Völker ein Ende sehen soll. Plato hat dabei die bestimmte Vorstellung gehabt, daß die Idee, welche freilich an sich der freie sich bestimmende Gedanke ist, auch nur in Form des Gedankens zum Bewußtseyn kommen könne; als ein Gehalt, welcher um wahr zu seyn, zur Allgemeinheit herausgehoben und in solcher gefaßt werden müsse.
+
+Um den platonischen Standpunkt mit dem Gesichtspunkte zu vergleichen, in welchem hier der Staat in Beziehung auf Religion betrachtet wird, so ist daran zu erinnern, zunächst, daß in den natürlichen Dingen, die Substanz derselben, die Gattung, verschieden ist von ihrer Existenz, in welcher sie als Individuum ist; diese individuelle Existenz der Gattung ist aber zugleich von derjenigen unterschieden, welche die Gattung als solche für sich herausgehoben, in der Vorstellung und in Gedanken erhält. Diese andere Individualität, der Boden der freien Existenz der Substanz, ist das Selbst des denkenden Geistes. Der Gehalt der natürlichen Dinge erhält die Form der Allgemeinheit und Wesentlichkeit nicht durch sich; die Individualität dieser Dinge ist nicht an ihr selbst die Form, welche für sich das subjective Denken ist. Jener Gehalt kommt daher nur in der Philosophie zur Existenz für sich. Der menschliche Gehalt in seiner Substantialität hingegen ist der freie Geist, und kommt in ihm selbst, in seinem Selbstbewußtseyn, zur Existenz. Dieser absolute Gehalt, der in sich concrete Geist, ist eben dies, die Form, das Denken, selbst zu seinem Inhalte zu haben; zu der Höhe dieser Bestimmung hat sich Aristoteles in seinem Begriffe der Entelechie des Denkens, welches νόησις τῆς νοήσεως ist, über die platonische Idee emporgehoben. Das Denken nun enthält, und zwar um der angegebenen Bestimmung selbst willen, eben so absolut das Fürsichseyn der Subjectivität als die Allgemeinheit, und jene concrete und wahrhafte Grundlage der absoluten Idee ist eben so wesentlich in der einen seiner Bestimmungen, des subjectiven Bewußtseyns, als in der andern, der Allgemeinheit, und ist in der einen wie in der andern derselbe substantielle Inhalt. Zu jener Form aber gehört Gefühl, Anschauung, Vorstellung, und es ist vielmehr nothwendig, daß das Bewußtseyn der absoluten Idee der Zeit nach zuerst in dieser Gestalt gefaßt werde, und früher als Religion da sey, denn als Philosophie. Diese entwickelt sich nur erst wieder aus jener Grundlage, so gut als die griechische Philosophie später ist, als die griechische Religion und eben nur darin ihre Vollendung erreicht hat, das Princip des Geistes, der sich zuerst in der Religion manifestirt, in seiner ganzen und bestimmten Wesenheit zu fassen und zu begreifen. In dieser Bemerkung ist zum Theil die Stellung anticipirt, welche die Philosophie [p. 400] zur Religion hat, und die sich erst nachher §. 571. ff zu ergeben hat; doch bezieht sich das hier Gesagte zunächst auf die zeitliche Erscheinung der Entwicklung der Philosophie aus der Religion. Auf gleiche Weise ist es nun aber auch, daß der Staat sich und zwar früher als die Philosophie aus der Religion entwickelt. Indem hier von der vollendeten Religion die Rede ist, welche auf die absolute Wahrheit, das Princip des sein Wesen wissenden, des an sich absolut freien und in der Thätigkeit seines Befreiens seine Wirklichkeit habenden Geistes sich gründet, so ist in [orig. 512] diesem Princip die absolute Wirklichkeit vorhanden, daß Staatsmacht, Religion und die Principien der Philosophie in eins zusammenfallen, die Versöhnung der Wirklichkeit überhaupt mit dem Geiste, des Staats mit dem religiösen Gewissen ingleichen dem philosophischen Wissen sich vollbringt. Indem die Religion in der Entwicklung ihrer selbst die in der Idee enthaltenen Unterschiede (§. 566. ff.) entwickelt, so kann, ja muß der Unterschied in seiner ersten unmittelbaren Weise zu sinnlicher Aeußerlichkeit und damit weiter hin zur Unterdrückung der Freiheit des Geistes und Verkehrtheit des politischen Lebens, der Form nach verdorben werden. Aber das Princip enthält die unendliche Elasticität ihrer absoluten Form, dies Verderben ihrer Formbestimmungen und des Inhalts durch dieselben, zu überwinden, und die Versöhnung des Geistes in ihm selbst zu bewirken. So wird zuletzt das Princip des religiösen und des sittlichen Gewissens ein und dasselbe, in dem protestantischen der freie Geist in seiner Vernünftigkeit und Wahrheit; – die Verfassung und Gesetzgebung wie deren Bethätigungen haben zu ihrem Inhalt das Princip und die Entwicklung der Sittlichkeit, welche aus der zu ihrem ursprünglichen Princip hergestellten und damit erst wirklichen Wahrheit der Religion hervorgeht und daraus allein hervorgehen kann. Die Sittlichkeit des Staates und die Geistigkeit des Staates sind [sich] so die gegenseitigen festen Garantien.
+
+## b.
+
+## DIE GEOFFENBARTE RELIGION.
+
+§. 564.
+
+Es liegt wesentlich im Begriffe der wahrhaften Religion, d. i. derjenigen, deren Inhalt der absolute Geist, [orig. 513] daß sie geoffenbart und zwar von Gott [p. 401] geoffenbart sey. Denn indem das Wissen, das Princip, wodurch die Substanz Geist ist, als die unendliche für sich seyende Form das selbstbestimmende ist, ist es schlechthin manifestiren, der Geist ist nur Geist, in sofern er für den Geist ist, und in der absoluten Religion ist es der absolute Geist, der nicht mehr abstracte Momente seiner, sondern sich selbst manifestirt.
+
+Der alten Vorstellung der Nemesis, nach welcher das Göttliche und seine Wirksamkeit in der Welt nur als gleichmachende Macht, die das Hohe und Große zertrümmere, vom noch abstracten Verstande gefaßt worden, setzten Plato und Aristoteles entgegen, daß Gott nicht neidisch ist. Man kann dies gleichfalls den Versicherungen entgegensetzen, daß der Mensch Gott nicht erkennen könne; - diese Versicherungen, denn mehr sind diese Behauptungen nicht, sind um so inconsequenter, wenn sie innerhalb einer Religion gemacht werden, welche ausdrücklich die geoffenbarte heißt, so daß sie nach jenen Versicherungen vielmehr eine Religion wäre, in der von Gott nichts offenbar wäre, und die ihr so angehörigen »die Heiden« wären, »die von Gott nichts wissen.« Wenn es mit dem Worte Gott überhaupt Ernst ist, so darf und muß die Betrachtung auch von ihm anfangen, und wenn ihm das Sichoffenbaren abgesprochen wird, so bliebe von einem Inhalte desselben nur dies übrig, ihm Neid zuzuschreiben. Wenn aber näher das Wort Geist einen Sinn haben soll, so enthält derselbe das Offenbaren seiner.
+
+§. 565.
+
+Der absolute Geist in der aufgehobenen Unmittelbarkeit und Sinnlichkeit der Gestalt und des Wissens, ist dem Inhalte nach der an und für sich seyende Geist der Natur und des Geistes, der Form nach ist er zunächst für die [orig. 514] Vorstellung. Die Subjectivität dieses Wissens, weil sie Reflexion ist, gibt den Momenten seines Inhalts Selbstständigkeit, und macht sie gegen einander zu Voraussetzungen und aufeinander folgenden Erscheinungen, und zu einem Zusammenhang des Geschehens nach endlichen Reflexionsbestimmungen.
+
+§. 566.
+
+In diesem Trennen scheiden sich die Form von dem Inhalte, und in jener die unterschiedenen Momente des Begriffs als besondere Sphären oder Elemente ab, in deren jeder sich der absolute Inhalt darstellt, a) als in seiner Manifestation bei sich selbst bleibender, ewiger Inhalt, ẞ) als Unterscheidung des ewigen Wesens von seiner Manifestation, die durch diesen Unterschied die Erscheinungswelt ist, γ) als unendliche Rückkehr und Versöhnung dieser äußerlichen Welt mit dem ewigen Wesen.
+
+## [p. 402] ENCYCLOPÄDIE
+
+## PHILOSOPHIE DES GEISTES
+
+§. 567.
+
+a) In dem Momente der Allgemeinheit, der Sphäre des reinen Gedankens oder dem abstracten Elemente des Wesens ist es also der absolute Geist, welcher zuerst das Vorausgesetzte, jedoch nicht verschlossen bleibende, sondern als substantielle Macht in der Reflexionsbestimmung der Causalität, Schöpfer Himmels und der Erde ist, aber in dieser ewigen Sphäre vielmehr nur sich selbst als seinen Sohn erzeugt, ebenso in ursprünglicher Identität mit diesem Unterschiedenen bleibt, als diese Bestimmung, das von dem allgemeinen Wesen unterschiedene zu seyn, sich ewig aufhebt, und durch diese Vermittlung der sich aufhebenden Vermittlung, die erste Substanz wesentlich als concrete Einzelnheit und Subjectivität – der Geist ist. [orig. 515]
+
+§. 568.
+
+β) Im Momente der Besonderheit aber des Urtheils, ist dies concrete ewige Wesen das Vorausgesetzte, und seine Bewegung ist die Erschaffung der Erscheinung, das Zerfallen des ewigen Moments der Vermittlung, des einigen Sohnes, in den selbstständigen Gegensatz, einerseits des Himmels und der Erde, der elementarischen und concreten Natur, andererseits des Geistes als mit ihr im Verhältniß stehend, somit des endlichen Geistes, welcher als das Extrem der in sich seyenden Negativität sich zum Bösen verselbstständigt, solches Extrem durch seine Beziehung auf eine gegenüberstehende Natur und durch seine damit gesetzte eigene Natürlichkeit ist, in dieser als denkend zugleich auf das Ewige gerichtet, aber damit in äußerlicher Beziehung steht.
+
+§. 569.
+
+γ) Im Momente der Einzelnheit als solcher, nämlich der Subjectivität und des Begriffes selbst, als des in seinen identischen Grund zurückgekehrten Gegensatzes der Allgemeinheit und Besonderheit, stellt sich 1) als Voraussetzung, die allgemeine Substanz aus ihrer Abstraction zum einzelnen Selbstbewußtseyn verwirklicht, und dieses als unmittelbar identisch mit dem Wesen, das Böse somit als an sich aufgehoben, aber ferner diese unmittelbare und damit sinnliche Existenz des absolut Concreten in den Schmerz der Negativität ersterbend, dar, in welcher es als unendliche Subjectivität identisch mit sich, somit aus derselben als absolute Rückkehr und allgemeine Einheit der allgemeinen [p. 403] und einzelnen Wesenheit für sich geworden ist, die Idee des als ewigen aber lebendigen, und in der Welt gegenwärtigen Geistes. [orig. 516]
+
+§. 570.
+
+2) Diese objective Totalität ist die an sich seyende Voraussetzung für die endliche Unmittelbarkeit des einzelnen Subjects, für dasselbe daher zunächst ein anderes und angeschautes, aber die Anschauung der an sich seyenden Wahrheit, wodurch es wegen seiner unmittelbaren Natur sich für sich als das Nichtige und Böse bestimmt. Es ist darum, nach dem Beispiel seiner Wahrheit, vermittelst des Glaubens an die darin an sich vollbrachte Einheit der allgemeinen und einzelnen Wesenheit, auch die Bewegung, seiner unmittelbaren Naturbestimmtheit und des eignen Willens sich zu entäußern, und mit jenem Beispiel und seinem Ansich in dem Schmerze der Negativität sich zusammen zu schließen und so als vereint mit dem Wesen sich zu erkennen, welches 3) durch diese Vermittlung sich als inwohnend im Selbstbewußtseyn bewirkt und der wirkliche allgemeine Geist ist.
+
+§. 571.
+
+Diese drei Schlüsse, die den Einen Schluß der absoluten Vermittlung [des Geistes] mit sich selbst ausmachen, sind die Offenbarung desselben, welche dessen Leben in dem Kreislaufe concreter Gestalten der Vorstellung explicirt. Aus ihrer auseinander tretenden Selbstständigkeit, und zeitlichen und äußerlichen Aufeinanderfolge nimmt sich die Entfaltung der Vermittlung in diesem ihrem letzten Resultat, dem Zusammenschließen des Geistes mit sich selbst, als dem Wahren und Wirklichen, in den allgemeinen, einfachen und ewigen Geist zusammen. In dieser Form der Wahrheit ist die Wahrheit der Gegenstand der Philosophie.
+
+Wird das Resultat, der für sich seyende Geist, in welchem alle Vermittlung sich aufgehoben hat, in nur formellem, inhaltslosem Sinne genommen, so [orig. 517] daß der Geist nicht zugleich als an sich seyender und objectiv sich entfaltender gewußt wird, so ist jene unendliche Subjectivität das sich in sich als absolut wissende Selbstbewußtseyn, die Ironie, welche allen objectiven Gehalt sich zu nichte, zu einem eiteln zu machen weiß, somit selbst die Gehaltlosigkeit und Eitelkeit ist, die sich nur zufälligen und beliebigen Inhalt und Bestimmung gibt, Meister darüber bleibt, durch ihn nicht gebunden ist, und mit der Versicherung auf der höchsten Spitze der Religion und der Philosophie zu stehen, vielmehr in die hohle Willkühr zurückfällt.
+
+## [p. 404] c.
+
+## DIE PHILOSOPHIE.
+
+§. 572.
+
+Diese Wissenschaft ist in sofern die Einheit der Kunst und Religion, als die der Form nach äußerliche Anschauungsweise der erstern, deren subjectives Produciren und Zersplittern des substantiellen Inhalts in viele selbstständige Gestalten, in der Totalität der zweiten, deren in der Vorstellung sich entfaltendes Auseinandergehen und Vermittlen des Entfalteten, nicht nur zu einem Ganzen zusammengehalten, sondern auch in die einfache geistige Anschauung vereint und dadurch zum selbstbewußten Denken erhoben ist. Dies Wissen ist damit der denkend erkannte Begriff der Kunst und Religion, in welchem das in dem Inhalte Verschiedene als nothwendig, und dies Nothwendige als frei erkannt ist.
+
+§. 573.
+
+Dies Erkennen von der Nothwendigkeit des Inhalts der absoluten Vorstellung, so wie von der Nothwendigkeit [orig. 518] der beiden Formen, nämlich einerseits der unmittelbaren Anschauung und ihrer Poesie, so wie der voraussetzenden Vorstellung, der objectiven und äußerlichen Offenbarung, und andererseits zuerst des subjectiven Insichgehens, dann der subjectiven Hinbewegung und des Identificirens des Glaubens mit der Voraussetzung derselben, das Anerkennen des Inhalts und der Form und die Befreiung von der Einseitigkeit der Formen und die Erhebung derselben in die absolute Form, die sich selbst zum Inhalte bestimmt und identisch mit ihm bleibt, - findet sich schon vollbracht, indem die Philosophie am Schluß ihren eigenen Begriff erfaßt, d. i. nur auf ihr Wissen zurücksieht.
+
+Es könnte hier der Ort zu seyn scheinen, das Verhältniß der Philosophie zur Religion in einer bestimmten Auseinandersetzung abzuhandeln. Es ist hierüber zu bemerken, daß es ganz allein auf den Unterschied der Formen des speculativen Denkens von den Formen der Vorstellung und des reflectirenden Verstandes ankommt. Es ist aber der ganze Verlauf der Philosophie und der Logik insbesondere, welcher diesen Unterschied nicht nur zu erkennen gibt, sondern auch beurtheilt oder vielmehr die Natur desselben an diesen Kategorien selbst sich entwickeln und richten läßt. Nur auf den Grund dieser Erkenntniß der Formen läßt sich die wahrhafte Ueberzeugung, auf die es hier ankommt, gewinnen, daß der Inhalt der Philosophie [p. 405] und der Religion derselbe ist, abgesehen nämlich von dem weitern Inhalte der äußern Natur und des endlichen Geistes, was nicht in den Umkreis der Religion fällt. Aber die Religion ist die Wahrheit für alle Menschen, der Glaube beruht auf dem Zeugniß des Geistes, das an sich substantiell, in sofern es sich zu expliciren getrieben ist, zunächst in diejenige Bildung sich faßt, welche die sonstige seines weltlichen Bewußtseyns und Verstandes ist; hiedurch aber verfällt die Wahrheit in die Bestimmungen und Verhältnisse der Endlichkeit überhaupt. Dies hindert jedoch nicht, daß der Geist seinen Inhalt, der als religiös wesentlich speculativ ist, selbst im Gebrauche sinnlicher Vorstellungen, des Denkens der endlichen Kategorien, gegen dieselbe festhalte, ihnen Gewalt anthue, und inconsequent gegen sie sey. Durch diese Inconsequenz corrigirt er das Mangelhafte derselben; es ist darum dem Verstande nichts leichter, als Widersprüche in der Exposition des Glaubens aufzuzeigen. Gibt der Geist aber dieser endlichen Reflexion nach, welche sich Vernunft und Philosophie genannt hat, so verendlicht er den religiösen Inhalt und macht ihn in der That zunichte. Die Religion hat dann ihr vollkommenes Recht, gegen solche Vernunft und Philosophie sich zu verwahren und feindselig zu erklären. Ein Anderes aber ist es, wenn sie sich gegen die begreifende Vernunft und gegen Philosophie überhaupt und bestimmt auch gegen eine solche setzt, deren Inhalt speculativ und damit religiös ist. Solche Entgegensetzung beruht auf dem Mangel an Einsicht in die Natur des angegebenen Unterschieds und Werths der geistigen Formen und am bestimmtesten an Einsicht in den Unterschied des Inhalts von jenen Formen, der in beiden derselbe seyn kann. Es ist auf den Grund der Form, daß die Philosophie von der religiösen Seite her, und umgekehrt wegen ihres speculativen Inhalts, daß sie von einer sich so nennenden Philosophie, ingleichen von einer inhaltslosen Frömmigkeit, Vorwürfe und Beschuldigungen erfahren hat; für jene hätte sie von Gott zu wenig in ihr, für diese zu viel. Die Beschuldigung des Atheismus, die man sonst häufig der Philosophie gemacht hat, ist selten geworden, desto verbreiteter aber ist die Beschuldigung des Pantheismus, so sehr daß dies nicht sowohl für eine Beschuldigung als für ein erwiesenes, oder selbst keines Beweisens bedürftiges, für ein baares Factum gilt; so daß besonders die Frömmigkeit, die | in ihrer frommen Vornehmigkeit sich des Beweisens ohnehin entübrigt glaubt, im Einklange mit der leeren Verstandesphilosophie, der sie sonst so sehr entgegengesetzt zu seyn meynt, sich der Versicherung, gleichsam als nur der Erwähnung [p. 406] einer bekannten Sache, von der Philosophie als der All-Eins-Lehre oder dem Pantheismus überläßt. Man muß sagen, daß es der Frömmigkeit und der Theologie selbst mehr Ehre gemacht hat, ein philosophisches System, z. B. den Spinozismus, des Atheismus als des Pantheismus zu beschuldigen, obgleich jene Beschuldigung auf den ersten Anblick härter und invidiöser aussieht. Die Beschuldigung des Atheismus setzt nämlich eine bestimmte Vorstellung von einem inhaltsvollen Gott voraus, welche die eigenthümlichen Formen, an welche sie gebunden ist, in den philosophischen Begriffen nicht wieder findet; die Philosophie kann wohl ihre eigenen Formen in den Kategorien der religiösen Vorstellungsweise so wie hiemit ihren Inhalt in dem religiösen Inhalte erkennen und diesem Gerechtigkeit widerfahren lassen, aber nicht umgekehrt, da die religiöse Vorstellungsweise auf sich selbst nicht die Kritik des Gedankens anwendet und sich nicht begreift, in ihrer Unmittelbarkeit daher ausschließend ist. Die Beschuldigung des Pantheismus gegen die Philosophie fällt vornehmlich in die neuere Bildung, in die neue Frömmigkeit und neue Theologie, welcher die Philosophie zu viel Gott hat, so sehr daß er der Versicherung nach sogar Alles, und Alles Gott seyn solle. Denn diese neue Theologie, welche die Religion nur zu einem subjectiven Gefühle macht und die Erkenntniß der Natur Gottes leugnet, behält sich damit nur einen Gott überhaupt ohne objective Bestimmungen. Ohne eigenes Interesse für den concreten, erfüllten Begriff Gottes betrachtet sie solchen nur als ein Interesse, welches Andere einmal gehabt haben, und behandelt deswegen das, was zur Lehre von der concreten Natur [orig. 521] Gottes gehört, nur als etwas Historisches. Der unbestimmte Gott ist in allen Religionen zu finden; jede Art von Frömmigkeit (§. 72.), die indische gegen Affen, Kühe u.s.f., oder gegen den Dalai-Lama, die ägyptische gegen den Ochsen u.s.w., ist immer Verehrung eines Gegenstandes, der bei seinen absurden Bestimmungen auch das Abstracte der Gattung, des Gottes überhaupt enthält. Wenn jener Ansicht solcher Gott hinlänglich ist, um Gott, wenn Gott nicht ausdrücklich geleugnet wird, in Allem, was Religion genannt wird, zu finden, so muß sie solchen wenigstens auch in der Philosophie anerkannt finden, und kann diese nicht wohl des Atheismus mehr bezüchtigen. Aber indem jene Vorstellung an ihrer abstracten Allgemeinheit festhält, außerhalb welcher alle Bestimmtheit fällt, so ist die Bestimmtheit nur das Ungöttliche, die weltliche Existenz der Dinge, welche hiedurch in fester ungestörter Substantialität verbleibt. Mit solchen Voraussetzungen [p. 407] läßt sich die an und für sich seyende Allgemeinheit, welche von Gott in der Philosophie behauptet wird, und in welcher das Seyn der äußerlichen Dinge keine Wahrheit hat, nicht anders fassen, als daß die weltlichen Dinge doch ihr Seyn behalten und das Bestimmte an der göttlichen Allgemeinheit ausmachen. Sie nennen daher jene Allgemeinheit die pantheistische, daß Alles, d. h. die empirischen Dinge ohne Unterschied, die höher geachteten wie die gemeinen, sey, Substantialität besitze, und dies Seyn der weltlichen Dinge sey Gott. – Es ist nur die eigene Gedankenlosigkeit und eine daraus hervorgehende Verfälschung der Begriffe, welche die Vorstellung und Versicherung von dem Pantheismus erzeugt.
+
+Aber wenn diejenigen, welche irgend eine Philosophie für Pantheismus ausgeben, dies einzusehen nicht fähig und nicht willens sind, denn eben die Einsicht von Begriffen ist es, was sie nicht wollen, so hätten sie es [orig. 522] vor Allem aus nur als Factum zu constatiren, daß irgend ein Philosoph oder irgend ein Mensch in der That den Allen Dingen an und für sich seyende Realität, Substantialität zugeschrieben und sie für Gott angesehen habe. Dieses Factum will ich in dieser exoterischen Betrachtung beleuchten; dies kann aber nicht anders geschehen, als daß die Facta selbst vor Augen gelegt werden. Wollen wir den sogenannten Pantheismus in seiner poëtischen, erhabensten, oder wenn man will, crassesten Gestalt nehmen, so hat man sich dafür bekanntlich in den morgenländischen Dichtern umzusehen, und die breitesten Darstellungen finden sich in dem Indischen. Unter dem Reichthum, der uns hierüber eröffnet ist, wähle ich aus der uns am avthentischsten vorliegenden Bhagavad-Gita und unter ihren zum Ueberdruß ausgeführten und wiederholten Tiraden etliche der sprechendsten Stellen aus. In der zehnten Lection (bei Schlegel S. 162.) sagt Krischnas von sich:
+
+»Ich bin der Odem, der in dem Leibe der Lebendigen inwohnt; ich bin der Anfang, die Mitte der Lebendigen, ingleichen ihr Ende. - Ich bin unter den Gestirnen die strahlende Sonne, unter den lunarischen Zeichen der Mond. Unter den heiligen Büchern das Buch der Hymnen, unter den Sinnen der Sinn, der Verstand der Lebendigen u.s.f. Unter den Rudrus bin ich Sivas, Meru unter den Gipfeln der Berge, unter den Bergen Himalayas u.s.f., unter den Thieren der Löwe u.s.f., unter den Buchstaben bin ich A., unter den Jahrszeiten bin ich der Frühling u.s.f. Ich bin der Saame aller Dinge, es gibt keines, das ohne mich ist« u.s.f.
+
+Selbst in diesen ganz sinnlichen Schildereien gibt sich Krischnas (und man muß nicht meynen, außer Krischnas sey hier noch sonst Gott oder ein Gott; wie er vorhin sagte, er sey Sivas, auch Indras, so ist [orig. 523] von ihm nachher (11. Lect. S. 15.) gesagt, daß auch Brahma in ihm sey) nur für das [p. 408] Vortrefflichste von Allem, aber nicht für Alles aus; es ist überall der Unterschied gemacht zwischen äußerlichen, unwesentlichen Existenzen und einer wesentlichen unter ihnen, die Er sey. Auch wenn es zu Anfang der Stelle heißt, er sey der Anfang, die Mitte und das Ende der Lebendigen, so ist diese Totalität von den Lebendigen selbst als einzelnen Existenzen unterschieden. Man kann hiemit solche die Göttlichkeit in ihrer Existenz weit ausdehnende Schilderung noch nicht Pantheismus nennen; man müßte vielmehr nur sagen, die unendlich vielfache empirische Welt, das Alles, sey auf eine beschränktere Menge von wesentlichen Existenzen, auf einen Polytheismus reducirt. Aber es liegt schon im Angeführten, daß diese Substantialitäten des Aeußerlichexistirenden, selbst nicht die Selbstständigkeit behalten, um Götter genannt werden zu können, sogar Sivas, Indras u.s.f. lösen sich in dem Einen Krischnas auf.
+
+Zu dieser Reduction geht es ausdrücklicher in folgender Schilderung (7. Lect. S. 7. ff.) fort; Krischnas spricht:
+
+Ich bin der Ursprung der ganzen Welt, und ihre Auflösung. Vortrefflicher als mich gibt es nichts. An mir hängt das Universum, wie an einer Schnur die Reihen der Perlen. Ich bin der Geschmack in den Wassern, der Glanz in Sonne und Mond, der mystische Name in allen heiligen Büchern u.s.f., das Leben in allen Lebendigen u.s.w., der Verstand der Verständigen, die Kraft der Starken u.s.f. Er fügt dann hinzu, daß durch die Maya (Schlegel: Magia), die auch nichts selbstständiges, sondern nur die seinige ist, durch die eigenthümlichen Qualitäten, die Welt getäuscht, ihn den höhern, den unwandelbaren nicht erkenne, daß diese Maya schwer zu durchbrechen [orig. 524] sey; die aber Theil an ihm haben, haben sie überwunden u.s.f., die Vorstellung faßt sich dann in den einfachen Ausdruck zusammen; am Ende vieler Wiedergeburten, sagt Krischnas, schreitet der mit der Wissenschaft begabte zu mir fort: Vasudevas (d. i. Krischnas) ist das All, wer diese Ueberzeugung hat, dieser Großsinnige ist schwer zu finden. Andere wenden sich zu andern Göttern; ich belohne sie nach ihrem Glauben, aber der Lohn solcher wenig einsichtigen ist beschränkt. Die Thoren halten mich für sichtbar, mich den unsichtbaren, unvergänglichen, u.s.f. Dieses All selbst ist eben so wenig als wie das Eleatische Eine und die spinozistische Substanz, das Alles. Dies Alles vielmehr, die unmittelbare, unendlich-viele sinnliche Vielheit des Endlichen ist in allen diesen Vorstellungen, als das Accidentelle bestimmt, das nicht an und für sich ist, sondern [p. 409] seine Wahrheit an der Substanz, dem Einen hat, welches verschieden von jenem Accidentellen, allein das Göttliche und Gott sey. Die indische Religion geht ohnehin zur Vorstellung des Brahma fort, der reinen Einheit des Gedankens, worin das empirische Alles der Welt, wie auch jene nächste Substantialitäten, welche Götter heißen, verschwinden. Colebroke und viele Andere haben darum die indische Religion in ihrem Wesentlichen als Monotheismus bestimmt. Daß diese Bestimmung nicht unrichtig ist, geht aus dem wenigen Angeführten hervor. Aber diese Einheit Gottes und zwar geistigen Gottes ist so wenig concret in sich, so zu sagen so kraftlos, daß die indische Religion die ungeheure Verwirrung ist, eben so sehr der tollste Polytheismus zu seyn. Aber die Abgötterei des elenden Indiers, indem er den Affen oder was sonst anbetet, ist immer noch nicht jene elende Vorstellung des Pantheismus, daß Alles Gott, Gott Alles sey. Der indische Monotheismus ist aber selbst ein Beispiel, wie wenig mit dem bloßen Monotheismus [orig. 525] gethan ist, wenn die Idee Gottes nicht tief in ihr bestimmt ist; denn jene Einheit, in sofern sie abstract in sich und hiemit leer ist, führt es sogar selbst herbei, außer ihr das Concrete überhaupt, sey es als eine Menge von Göttern oder empirischen, weltlichen Einzelnheiten, selbstständig zu haben. Jenen Pantheismus selbst könnte man consequent nach der seichten Vorstellung desselben einen Monotheismus nennen; denn wenn nach derselben Gott identisch mit der Welt ist, gäbe es, da es nur Eine Welt gibt, somit in diesem Pantheismus auch nur Einen Gott. Die leere numerische Einheit muß etwa von der Welt prädicirt werden, doch hat diese abstracte Bestimmung weiter kein besonderes Interesse - denn eben sie ist dies, in ihrem Inhalte die unendliche Vielheit und Mannichfaltigkeit der Endlichkeiten zu seyn. Aber es ist selbst jene Täuschung mit der leeren Einheit, welche allein die schlechte Vorstellung eines Pantheismus möglich macht und herbeiführt. Nur die im unbestimmten Blauen schwebende Vorstellung von der Welt, als Einem Dinge, dem All, kann man etwa mit Gott verknüpfbar ansehen, und es daraus für möglich annehmen, daß gemeynt worden sey, Gott sey die Welt; wäre die Welt wie sie ist, als Alles, als die endlose Menge der empirischen Existenzen genommen worden, so hätte man gewiß es nicht auch nur für möglich gehalten, daß von solchem Inhalte behauptet worden sey, er sey Gott.
+
+Will man, um noch einmal auf das Factische zurückzukommen, das Bewußtseyn des Einen, nicht nach der indischen Spaltung einestheils in die bestimmungslose Einheit des abstracten Denkens, anderntheils in die ermü-
+
+[p. 410] 525-526(527) dende selbst litaneyartig werdende Durchführung am Besondern, sondern in der schönsten Reinheit und Erhabenheit sehen, so muß man sich bei den Muhammedanern umsehen. Wenn z. B. bei dem vortrefflichen Dschelaleddin Rumi insbesondere die Einheit der | Seele mit dem Einen, auch diese Einheit als Liebe, hervorgehoben wird, so ist diese geistige Einheit eine Erhebung über das Endliche und Gemeine, eine Verklärung des Natürlichen und Geistigen, in welcher eben das Aeußerliche, Vergängliche des unmittelbaren Natürlichen wie des empirischen, weltlichen Geistigen, ausgeschieden und absorbirt wird.[^gw19-410-1] |
+
+[^gw19-410-1]: *) Ich kann mich nicht enthalten, zum Behuf einer nähern Vorstellung etliche Stellen hier anzuführen, die zugleich eine Vorstellung von der bewundernswürdigen Kunst der Uebertragung des Herrn Rückert, aus der sie genommen sind, geben mögen:
+
+III. Ich sah empor, und sah in allen Räumen Eines, Hinab, und sah in allen Wellenschäumen Eines.
+
+Ich sah ins Herz, es war ein Meer, ein Raum der Welten Voll tausend Träumen, ich sah in allen Träumen Eines. Luft, Feuer, Erd und Wasser sind in Eins geschmolzen In deiner Furcht, daß dir nicht wagt zu bäumen Eines. Der Herzen alles Lebens zwischen Erd und Himmel Anbetung dir zu schlagen soll nicht säumen Eines.
+
+V. Obgleich die Sonn' ein Scheinchen ist deines Scheines nur, Doch ist mein Licht und deines, ursprünglich Eines nur. Ob Staub zu deinen Füßen der Himmel ist der kreist; Doch Eines ist und Eines mein Seyn und deines nur.
+
+Der Himmel wird zum Staube, zum Himmel wird der Staub,
+
+Und Eines bleibt und Eines, dein Wesen meines nur.
+
+Wie kommen Lebensworte, die durch den Himmel geh'n
+
+Zu ruh'n in engen Räumen des Herzenschreines nur?
+
+Wie bergen Sonnenstrahlen, um heller aufzublühn,
+
+Sich in die spröden Hüllen des Edelsteines nur? |
+
+Wie darf Erdmoder speisend und trinkend Wasserschlamm
+
+Sich bilden die Verklärung des Rosenhaines nur?
+
+Wie ward was als ein Tröpflein die stumme Muschel sog,
+
+Als Perlenglanz die Wonne des Sonnenscheines nur?
+
+Herz ob du schwimmest in Fluthen, ob du in Gluthen glimmst;
+
+Fluth ist und Gluth Ein Wasser; sey deines, reines nur.
+
+[p. 411] Ich enthalte mich, die Beispiele von den religiösen und poëtischen Vorstellungen zu vermehren, die man | pantheistisch zu nennen gewohnt ist. Von den Philosophien, welchen man eben diesen Namen gegeben, z. B. der Eleatischen oder Spinozistischen ist schon früher (§. 50. Anm.) erinnert wor-
+
+IX. Ich sage dir, wie aus dem Thone der Mensch geformt ist: Weil Gott dem Thone blies den Odem ein der Liebe. Ich sage dir, warum die Himmel immer kreisen: Weil Gottes Thron sie füllt mit Widerschein der Liebe. Ich sage dir, warum die Morgenwinde blasen: Frisch aufzublättern stets den Rosenhain der Liebe. Ich sage dir, warum die Nacht den Schleier umhängt: Die Welt zu einem Brautzelt einzuweih'n der Liebe.
+
+Ich kann die Räthsel alle dir der Schöpfung sagen: Denn aller Räthsel Lösung ist allein die Liebe.
+
+XV. Wohl endet Tod des Lebens Noth, Doch schauert Leben vor dem Tod. So schauert vor der Lieb' ein Herz, Als ob es sey vom Tod bedroht.
+
+Denn wo die Lieb' erwachet, stirbt Das Ich, der dunkele Despot.
+
+Du laß ihn sterben in der Nacht
+
+Und athme frei im Morgenroth.
+
+Wer wird in dieser über das Aeußerliche und Sinnliche sich aufschwingenden Poesie die prosaische Vorstellung erkennen, die von dem sogenannten Pantheismus gemacht wird, | und die vielmehr das Göttliche in das Aeußerliche und Sinnliche herabversetzt? Die reichen Mittheilungen, welche uns Herr Tholuck in seiner Schrift: Blüthensammlung aus der morgenländischen Mystik, von den Gedichten Dschelaleddins und anderer gibt, sind eben in dem Gesichtspunkte gemacht, von welchem hier die Rede ist. In der Einleitung beweist Hr. Th., wie tief sein Gemüth die Mystik erfaßt hat; er bestimmt daselbst auch näher den Charakter der morgenländischen, und den der abendländischen und christlichen gegen dieselbe. Bei ihrer Verschiedenheit haben sie die gemeinschaftliche Bestimmung, Mystik zu seyn. Die Verbindung der Mystik mit dem sogenannten Pantheismus (S. 33.) enthält die innere Lebendigkeit des Gemüths und Geistes, welche wesentlich darin besteht, jenes äußerliche Alles, das dem Pantheismus zugeschrieben zu werden pflegt, zu vernichten. Sonst läßt Hr. Th. es bei der gewöhnlichen unklaren Vorstellung von Pantheismus [p. 412] beden, daß sie so wenig Gott mit der Welt identificiren und endlich machen, daß dies Alles vielmehr in ihnen keine Wahrheit hat, und daß man sie richtiger als Monotheismen und in Beziehung auf die Vorstellung von der Welt, als Akosmismen zu bezeichnen hätte. Am genauesten würden sie als die Systeme bestimmt, welche das Absolute nur als die Substanz fassen. Von den orientalischen, insbesondere muhammedanischen Vorstellungsweisen kann man mehr sagen, daß | das Absolute als die schlechthin allgemeine Gattung erscheint, welche den Arten, den Existenzen, einwohnt, aber so daß diesen keine wirkliche Realität zukommt. Der Mangel dieser sämmtlichen Vorstellungsweisen und Systeme ist, nicht zur Bestimmung der Substanz als Subject und als Geist fortzugehen.
+
+Diese Vorstellungsweisen und Systeme gehen von dem Einen und gemeinschaftlichen Bedürfnisse aller Philosophien wie aller Religionen aus, eine Vorstellung von Gott und dann von dem Verhältniß desselben und der Welt zu fassen. In der Philosophie wird es näher erkannt, daß aus der Bestimmung der Natur Gottes sich sein Verhältniß zur Welt bestimmt, und man sollte meynen, daß man in einer exoterischen Betrachtung diesen Zusammenhang als zugestanden annehmen dürfte. Es kann jedoch von diesem Zusammenhange abgesehen werden. Wenn nun nach Verwerfung jener Vorstellungsweisen und Systeme, um Gott rein im Glauben oder Bewußtseyn zu haben, derselbe als das Wesen von der Erscheinung, als der Unendliche von dem Endlichen geschieden worden, so tritt nach dieser Scheidung die Ueberzeugung auch von der Beziehung der Erscheinung auf das Wesen, des Endlichen auf den Unendlichen, und so fort, und damit die Frage nach der Natur dieser Beziehung ein. Es ist in dieser Form dann hier, wo die ganze Schwierigkeit der Sache liegt. Diese Beziehung ist es, welche das Unbegreifliche von jenen, die von Gottes Natur nichts wissen wollen, genannt wird. Aber am Schlusse der Philosophie ist nicht mehr der Ort, auch überhaupt nicht in einer exoterischen Betrachtung, ein Wort darüber zu verlieren, was Begreifen heiße. Nur daran mag noch erinnert werden, daß, indem die Philosophie es mit der Einheit überhaupt, in welcher Rücksicht und Anwendung es sey, und zwar nicht | mit der abstracten, der blowenden; eine gründlichere Erörterung derselben hatte zunächst für den Gefühlsstandpunkt des Hrn. Verfs. kein Interesse; man sieht ihn selbst durch eine nach dem gewöhnlichen Ausdruck ganz pantheistisch zu nennende Mystik von wunderbarer Begeisterung ergriffen. Wo aber der Hr. Verf. sich auf das Philosophiren einläßt (S. 12. f.), kommt er über den gewöhnlichen Standpunkt der Verstandes-Metaphysik und ihre unkritischen Kategorien nicht hinaus. |
+
+[p. 413] Den Identität und dem leeren Absoluten, sondern mit der concreten Einheit (dem Begriffe) zu thun und in ihrem ganzen Verlaufe ganz allein es damit zu thun hat, - jede Stufe des Fortgangs eine eigenthümliche Bestimmung dieser concreten Einheit ist, und daß die tiefste und letzte der Bestimmungen der Einheit die des absoluten Geistes ist. Denjenigen nun, welche über die Philosophie urtheilen und sich über sie äußern wollen, wäre zuzumuthen, daß sie sich auf diese Bestimmungen der Einheit einließen und sich um die Kenntniß derselben bemühten, wenigstens so viel wüßten, daß dieser Bestimmungen eine große Vielheit und eine große Verschiedenheit unter ihnen ist. Sie zeigen aber so wenig eine Kenntniß hievon und noch weniger eine Bemühung damit, daß sie so wie sie von Einheit, und die Beziehung enthält sogleich Einheit, hören, bei der ganz abstracten, unbestimmten Einheit stehen bleiben, und von dem, worin allein alles Interesse fällt, nämlich der Weise der Bestimmtheit der Einheit, abstrahiren; so wissen sie nichts über die Philosophie auszusagen, als daß die trockne Identität ihr Princip und Resultat, und daß sie das Identitätssystem sey. An diesen begrifflosen Gedanken der Identität sich haltend, haben sie gerade von der concreten Einheit, von dem Begriffe und dem Inhalte der Philosophie, gar nichts, sondern vielmehr sein Gegentheil gefaßt. Sie verfahren in diesem Felde, wie in dem physischen die Physiker, welche gleichfalls wohl wissen, daß sie mannichfaltige sinnliche Eigenschaften und Stoffe, - oder gewöhnlich nur Stoffe (denn die Eigenschaften verwandeln sich ihnen gleichfalls in Stoffe), vor sich haben, und daß diese Stoffe auch in Beziehung auf einander stehen. Nun ist die Frage, welcher Art diese Beziehung sey, und die Eigenthümlichkeit und der ganze Unterschied aller natürlichen, unorganischen und lebendigen Dinge, beruht [orig. 531] allein auf der verschiedenen Bestimmtheit dieser Einheit. Statt aber diese Einheit in ihren verschiedenen Bestimmtheiten zu erkennen, faßt die gewöhnliche Physik (die Chemie mit eingeschlossen) nur die eine, die äußerlichste, schlechteste auf, nämlich die Zusammensetzung, wendet nur sie in der ganzen Reihe der Naturgebilde an, und macht es sich damit unmöglich, irgend eines derselben zu fassen. – Jener schaale Pantheismus geht so unmittelbar aus jener schaalen Identität hervor; die, welche dies ihr eigenes Erzeugniß zur Beschuldigung der Philosophie gebrauchen, vernehmen aus der Betrachtung der Beziehung Gottes auf die Welt, daß von dieser Kategorie, Beziehung, das Eine, aber auch nur das Eine Moment und zwar das Moment der Unbestimmtheit, die Identität, ist; nun bleiben sie in dieser Halbheit der Auffassung stehen, und versichern factisch falsch, die Philosophie behaupte die Identität Gottes und der Welt, und indem ihnen zugleich beides, die Welt so sehr als Gott, feste [p. 414] Substantialität hat, so bringen sie heraus, daß in der philosophischen Idee Gott zusammengesetzt sey aus Gott und der Welt; dies ist die Vorstellung, welche sie vom Pantheismus machen. Die, welche in solchen Ansichten stekken und von diesen aus, die sie in die Philosophie, allwo dergleichen nicht vorhanden ist, hineintragen, ihr die Krätze anhängen um sie kratzen zu können, vermeiden alle Schwierigkeiten, die sich beim Auffassen der Beziehung Gottes auf die Welt hervorthun, sogleich und sehr leicht dadurch, daß sie eingestehen, diese Beziehung enthalte für sie einen Widerspruch, von dem sie nichts verstehen; daher sie es bei der ganz unbestimmten Vorstellung solcher Beziehung und der nähern Weise derselben z. B. der Allgegenwart, Vorsehung u.s.f., bewenden lassen müssen. Glauben heißt in diesem Sinne nichts anders, als, nicht zu [orig. 532] einer bestimmten Vorstellung fortgehen, auf den Inhalt sich weiter nicht einlassen wollen. Daß Menschen und Stände von ungebildetem Verstande mit unbestimmten Vorstellungen befriedigt sind, ist zusammenstimmend; aber wenn gebildeter Verstand und Interesse für die reflectirende Betrachtung in dem, was für höheres und das höchste Interesse anerkannt wird, mit unbestimmten Vorstellungen sich begnügen will, so ist schwer zu unterscheiden, ob es dem Geiste mit dem Inhalt in der That Ernst ist. Wenn es aber denen, die an dem angegebenen kahlen Verstande hängen, in diesem Sinne z. B. mit der Behauptung der Allgegenwart Gottes Ernst würde, daß sie den Glauben daran in bestimmter Vorstellung sich präsent machten, in welche Schwierigkeit würde ihr Glaube an wahrhafte Realität der sinnlichen Dinge sie verwickeln? Sie würden Gott nicht wohl wie Epikur in den Zwischenräumen der Dinge, d. i. in den Poren der Physiker wohnen lassen wollen; als welche Poren das Negative sind, was neben dem Materiell-reellen seyn soll. Schon in diesem Neben würden sie ihren Pantheismus der Räumlichkeit haben, - ihr Alles als das Außereinander des Raumes bestimmt. Indem sie aber Gott eine Wirksamkeit auf den erfüllten Raum, auf die Welt, in seiner Beziehung auf sie zuschreiben würden, hätten sie die unendliche Zersplitterung göttlicher Wirklichkeit in die unendliche Materialität, die schlechte Vorstellung, welche sie Pantheismus oder All-Eins-Lehre nennen, in der That nur als die eigene nothwendige Consequenz der schlechten Vorstellungen von Gott und der Welt. Dergleichen, wie die vielbesprochene Einheit oder Identität der Philosophie aufzubürden, ist eine so große Sorglosigkeit um Gerechtigkeit und Wahrheit, daß sie nur durch die Schwierigkeit, sich Gedanken und Begriffe, d. h. nicht die abstracte Einheit, sondern die vielgestalteten Weisen [orig. 533] ihrer Bestimmtheit, in den Kopf zu schaffen, begreiflich gemacht werden könnte. Wenn factische Behauptungen aufgestellt werden, und die Facta Gedanken und [p. 415] Begriffe sind, so ist es unerläßlich dergleichen zu fassen. Auch die Erfüllung dieser Anforderung hat sich dadurch überflüssig gemacht, daß es längst zu einem ausgemachten Vorurtheil geworden, die Philosophie sey Pantheismus, Identitätssystem, Alleinslehre, so daß derjenige, der dies Factum nicht wüßte, entweder nur als unwissend über eine bekannte Sache, oder als um irgend eines Zwecks willen Ausflüchte suchend, behandelt würde. Um dieses Chorus willen habe ich geglaubt, mich weitläufiger und exoterisch über die äußere und innere Unwahrheit dieses angeblichen Factums erklären zu müssen; denn über die äußerliche Fassung von Begriffen als bloßen Factis, wodurch eben die Begriffe in ihr Gegentheil verkehrt werden, läßt sich zunächst auch nur exoterisch sprechen. Die esoterische Betrachtung aber Gottes und der Identität, wie des Erkennens und der Begriffe, ist die Philosophie selbst.
+
+§. 574.
+
+Dieser Begriff der Philosophie ist die sich denkende Idee, die wissende Wahrheit (§. 236.), das Logische mit der Bedeutung, daß es die im concreten Inhalte als in seiner Wirklichkeit bewährte Allgemeinheit ist. Die Wissenschaft ist auf diese Weise in ihren Anfang zurückgegangen, und das Logische ihr Resultat, als das Geistige, welches sich als die an und für sich seyende Wahrheit erwiesen, und aus ihrem voraussetzenden Urtheilen, der concreten Anschauung und Vorstellung ihres Inhalts in sein reines Princip zugleich als in sein Element sich erhoben hat. |
+
+## [p. 416] ARISTOTELES METAPHYSIK. XI. 7.
+
+Ἡ δὲ νόησις ἡ x\alpha9\prime αὑτὴν, τοῦ καθ᾽ αὑτὸ ἀρίστου· καὶ ἡ μάλιστα, τοῦ μάλιστα. ᾿Αυτὸν δὲ νοεῖ ὁ νοῦς κατὰ μετάληψιν τοῦ νοητοῦ. νοητὸς γὰρ γίνεται θιγγάνων καὶ νοῶν. ὥστε ταὐτὸν νοῦς καὶ νοητόν. τὸ γὰρ δεκτικὸν τοῦ νοητοῦ καὶ τῆς οὐσίας, νοῦς. ἐνεργεῖ δὲ ἔχων. ὥστε ἐκεῖνο μᾶλλον τούτου, ὃ δοκεῖ ὁ νοῦς θεῖον ἔχειν· καὶ \mathfrak{\eta} θεωρία τὸ ἥδιστον καὶ ἄριστον. Ἐι οῦν οὕτως εὖ ἔχει, ὡς ἡμεῖς ποτε, ὁ θεὸς ἀεὶ, θαυμαστόν· εἰ δὲ μᾶλλον, ἔτι θαυμασιώτερον. ἔχει δὲ ὧδε.
+
+Καὶ ζωὴ δέ γε ἐνυπάρχει. ἡ γὰρ νοῦ ἐνέργεια, ζωή· ἐκεῖνος δὲ ἡ ἐνέργεια· ἐνέργεια δὲ ἡ x\alpha9° αὑτὴν, ἐκείνου ζωὴ ἀρίστη καὶ ἀΐδιος. φαμὲν δὲ τὸν θεὸν εἶναι ζῶον ἀΐδιον, ἄριστον. ὥστε ζωὴ καὶ αἰὼν συνεχὴς καὶ ἀΐδιος ὑπάρχει τῷ θεῷ. Τοῦτο γὰρ ὁ θεός.
+
+## [p. 417] BEILAGEN
+
+⁂
+
+## [p. 419] NOTIZEN ZU LOGIK UND METAPHYSIK
+
+## NOTIZEN ZU VORLESUNGEN ÜBER
+
+## LOGIK UND METAPHYSIK
+
+So geringe Vorstellung von der Logik – Interesse des Denken sie kennenzulernen, nur wie sonstige a) Gegenstände – Anatomie Physik Rechtswissenschaft Theologie - Kirchengeschichte Brodwissenschaften Einfluß, Wirksamkeit genug.
+
+Subjective, individuelle Zwecke, – aber auch Interesse an den Gegenständen selbst nur Interesse der Kenntnisse - Erkenntniß – das edelste, was der Mensch hat die Theorie sagt Aristoteles ist das Göttliche – Kenntniß der Gedanken, wenn diß heißt: auch Gedanken in den Kopf bekommen, kann es vom größten Interesse scheinen.
+
+## Man hat übrigens keinen leichten Gegenstand gewählt
+
+Hören und Sehen buchstäblich vergangen es geht einem wie ein Mühlrad im Kopf herum keinen Halt mehr¹, wenn das Sinnliche vergangen Halt in den Gedanken gewinnen
+
+1 Links am Rande und zwischen den Zeilen mit etwas hellerer Tinte: An Empfindung Vorstellung Leidenschaft Recht; festen Halt Menschen, Mut Krieger
+
+Grundsäze letzte Punkte unsers Horizontes - hinaus über Alles diß Concretes [p. 420] schwer - s. §- mit Abstraction festhalten; Übung, Gewohnheit, Gelaüffigkeit - leicht - nicht verwikelt – in diesem reinen Raum sich zu bewegen – letzte Wissenschaft s. Manuscript 4to Physik - Kopfweh - Gesetze, sagt man Bestimmungen; – bey Gesezen sogleich verdächtig (s. näher 4to Manuscript)
+
+## Gleich - Nähertreten - Denken Gegenstand – überhaupt s. § 19
+
+§ 20 Denken mischt sich in Alles – (Religion – in wiefern Inhalt)
+
+Wach seyn, Kategorien Wissenschaften bewußtlos, räsonniren Bewußtseyn darüber in wiefern der Wahrheit fähig
+
+## Boden wenigstens der Religion [orig. 130b]
+
+130 b Interesse¹ die Natur des Erkennens
+
+Resultat daß man mit diesen logischen Formen nichts Wahres erkennen könne aber auch mit den Denkformen überhaupt - jene logischen Formen längst bloß für formell angesehen
+
+§ 20 Besondere Kräfte – neben, was diese bewirken, seyen hier nicht, auch noch nicht welches Verhältniß sie zum Denken haben - SUBJECTIV - Denken das Allgemeine Abstraction in sofern mit reiner (aüssre) Negation verbunden
+
+Es gibt das Allgemeine nicht unmittelbar² a) das Allgemeine, überhaupt
+
+¹ Links am Rande und zwischen den Zeilen mit Einfügungszeichen*:* Kommt Alles in der Logik selbst vor Aber Vorstellung - mannigfaltige Bildung - Anknüpfen, herüberziehen Auf einmal Alles wegwerfen - Bodenloses (- Geschichte Alexanders) so nah und doch so fern.
+
+[p. 421] β) vermischt, verbunden mit besonderem und einzelnem - das Allgemeine für sich reine Gedanken oder Moment darin Haus, Schlacht, Mensch die Geschichte Roms (Individuum Alexander ganzer Lebenslauff) Verständige Bestimmung des Denkens leicht zu fassen; schwer geht erst an, mit dem Verhältniß zum Besonderen Concreten der lebendigen Welt aufmerksam darauf machen, daß überall das Allgemeine vorhanden nur
+
+Noch zu b Allgemeine ist a) einfach - in Aller Vorstellung in der Sprache blau Rose, Pflanze, Thir, Mensch, - diß Individuum itzt unendlich einfacher als sein ganzes Leben ẞ) Abstraction - eben dadurch einfach gemacht Denken – a) das Allgemeine
+
+β) Sein Werden ist abstract, weil wir es abstract machen; γ) Bedeutung Wesen der Dinge - Nachdenken Metaphysik Philosophie Gränzen¹
+
+Gefühl, Anschauung Mannichfaltigkeit Reichthum empirisch immer einzelne Combination a) Anschauung vollständig als Verstand vernünftige Anschauung aber unmittelbar ẞ) Concretes in Gedanken wiederherstellen
+
+Vorstellung a) unmittelbar Stoff BILD von Verhältniß Sohn, Erzeugen sinnlich geistig Recht β) einfach | selbst einfacher Gedanke Gesetze, Erfahrungen diese Methode Geschultheit, aber eines sey aus der Erfahrung Wahrnehmung genommen – Basis, unendlich, wahr dadurch hier die Rede noch nicht davon
+
+[p. 422] 130 a § 20 Denken
+
+durch die Form der Allgemeinheit - Vorstellung vereinzelte Bestimmung Logik REINE Gedanken Seyn - können auch als Vorstellungen seyn sind es zuerst gegen aussen isolirt
+
+αα) Vorstellung einfache Beziehung auf sich
+
+ββ) einfach in sich selbst - Blau, Begriff GEDANKE des Blauen – sinnliche Materiatur vernichtet
+
+Wenn die Bestimmung des Gedanken gegen Vorstellung näher angegeben werden soll, müßte sogleich zum Begriff übergegangen werden Überhaupt eine letzte Selbstständigkeit des Seyns Unmittelbar sinnlicher, wie auch geistiger Stoff
+
+Denken über Recht, bringt ihn in Bewegung, dringt in ihn ein: Gedanken, BEZIEHUNGEN der Gegenstände AN IHNEN selbst aufeinander – eigene
+
+Thätigkeit Inhalt Stoff der Vorstellung gegeben unmittelbar Denkendes¹
+
+ICH² - andere Gestalt – nicht gewohnt - Ich als Ich denken- Allgemeinheit - als reine Beziehung auf sich – Denken wenn ich mich des
+
+1 Über der Zeile und am rechten Rand fortlaufend bis zum unteren Rand mit Abgrenzungszei*chen:* Denken, Vorstellung – Gleichsam als weit weg – verlöre mich in ein unbekanntes Land, unbekannten Raum - entferne mich von mir, das Nächste, Ich selbst, bey mir schlechthin. Es handelt sich um uns selbst mit Begriff Denken zu thun haben; so oder so sind eben Begriffe Meynungen, die mich auch nicht angehen - kann sie haben oder auch nicht; res tua agitur; Inhalt mit hereingezogen. Das Präsenteste will beym Denken für sich selbst aus dem Spiele bleiben
+
+2 Links am Rande und zwischen den Zeilen: Ich als denkendes in einer andern Form, in der Ich etwas nicht meyne, daß Ich denkendes - Gedanke a) bestimmt, Fühlen – aber nicht [p. 423] so verhalte nur als Ich - Ich in Allem – Form der Allgemeinheit – drücke ich Allem auf - Verwandlung der Vorstellung in Gedanken oder vielmehr Begriffe zwey Sprachen – a) Gegenstände überhaupt ob sie objective Gedanken ẞ) ob als Formen SIND die Wahrheit enthalten – Bewußtseyn Haupt-
+
+Aüssres im Vorstellen Form aufdrücken und Besache der Logik Denken wußtseyn über die Gedanken
+
+Wach Bewußtseyn über Gedanken.
+
+## *Zu* § 22
+
+§ 19 Anm. Sprache Untrennbarkeit des Einzelnen und Allgemeinen [orig. 134b] Ich - Drücke die Allgemeinheit Allem auf frey - Denken uns ganz nah
+
+134 b
+
+da, wo wir sie nicht suchen - Früher NEBEN den andern Thätigkeiten Denk' ich so bin ich, habe doch wahrlich nichts gedacht a) eigne Denken nicht
+
+β) Denken - das Eigenste; - der Mensch denkt – unterschieden von den Thie-Religion ren
+
+γ) Denkend – in Allem – sich verhalten - überhaupt – aber auf unterschiedliche Weise verschiedene Weise seines denkenden Verhaltens im Sinnlichen noch ANDRE Ingredienzen heteronom - ob nur denkend BEZIEHEN SICH frey a) durch Abstraction ẞ) concret
+
+Bewußtseyn über die Gedanken – Ich weiß nicht daß ich denke – weiß vom Inhalt - weiß nicht – daß in diesem INHALT eine Bestimmung Moment nun Denken angehört diß besondre; sondern ẞ) gemeinschafftlich Allgemeines, in sich allgemein sich auf sich beziehen identische – γ) Einzelnheit AUFHEBEN Beyspiel Begriffe
+
+[p. 424] § 20 - Mich kehren gegen jenes unmittelbare Verhältniß des Denkens Vorher denken, vor der Handlung - d. h. nach einem nur unmittelbaren Entschluß¹ Nachdenken Zu Allen Zeiten denkende Köpfe Auch in positiver Religion Gott gibts ihnen im Schlaff es fällt ihnen so unmittelbar ein brauchen nur zu Sehen zu Hören – Wissen wie der Staat, die Welt beschaffen seyen was Gott ist was es für eine Bewandniß mit der Philosophie
+
+Natur hat leichter - schwerer - (Kopfweh) Willkühr, wilde Phantasie Nachdenken wie Metaphysik
+
+Daß das Unmittelbare nicht wahr in der Wissenschaft selbst
+
+§ 21 Beobachtung - [orig. 135a]
+
+§ 22 Auf di\beta2 negative Moment aufmerksam machen Analysiren, der Wahrnehmung - Abstraction
+
+135 a
+
+Das Wesentliche von Un-
+
+wesentlichem trennen, welches immer das Erste Wahrgenommene ist.
+
+Bey dem Gange, der von der Wahrnehmung anfängt, er bleibt immer Bedingung
+
+§23 SUBJECTIVES Moment gesezt einseitig Ich erschaffe die Welt, Ich denke Gott rein von mir gesezt mein Erzeugniß – Hochmuth a) Ich abstract
+
+β) die Sache in sie mich vertieffen - Anstrengung, die subjective Reflexion Einfälle abzuhalten. Würde des Menschen, im Substantiellen
+
+1 Folgt in etwas dunklerer Tinte: Wohlfeil ist auch Waare darnach unmittelbare Anschauung intellectuelle Anschauung
+
+[p. 425] § 24 der eigentlich allgemeine Begriff des Logischen, um den es sich handelt nicht Geseze des Denkens; - ich mag mich darnach richtig, daß ich meinerseits keinen Fehler begehe; - die Andre Seite - der Inhalt
+
+Natur Wirklichkeit geht ihren Gang - hat ihre eignen Formen da gehört zur Objectivität Wahrheit noch etwas Anderes - eben das Rechte, Wesentliche Nein, die Wesenheiten der Dinge sind Gedanken Frage wie ich dazu komme; Anfang von Erfahrung fahrung; erst aus dieser; sie lieffert den Stoff, Material Es sey wie ihm wolle, erst Form des Gedanken (Philosophie über das Erken-
+
+Aüssere und innre Er-
+
+nen) macht sie zu einem Wahren Wahrheit, Definition derselben
+
+§25 Untersuchung der Erkenntniß, wichtig, höchstes Kriterium – Befaßt alle Controversen
+
+Gegensatz Verhältniß des Denkens zu einem Inhalt, Bestimmtheit Denken, abstract, unbestimmt, wie kommt es zur Bestimmtheit - oder vielmehr wie verhält es sich dazu a) von Aussen in das Denken, als einen leeren Raum gesezt (Subjectivität des Denkens) - Das Aüsserliche heißt das Objective so kann das Denken nicht dafür stehen - in Beziehung auf Wahrheit Ist gleichgültig, zunächst woher [orig. 135b]
+
+β) wenn sie darin sind, - im Reiche des Denkens, woher es sey Verfahren *135 b* des Denkens damit – Analyse – d. h. seine Bestimmungen
+
+Immer ein Gegensatz darin, d.h. Endlichkeit d. i. Unwahrheit Gegensaz von Subject – Gedanken zur Sache oder Gedanken gegen einander ein [p. 426] Endlichkeit der Gedanken beurtheilen lernen in Alles ein
+
+## Bewußtlos schleichen sie sich
+
+von Gedanken Denken verschlungen in sinnlichen Inhalt - Inhalt der Vorstellung
+
+## § 26 a) Einmischen
+
+## Gar nicht Wissen, daß man denkt
+
+Itzt ists Tag ist was ist, das ist, ohne Widerspruch - Wenn man weiß, daß man denkt, so weißt man den Gegensatz des Allgemeinen gegen Besonderes und Einzelnes
+
+Aufschreiben,
+
+## Aufbewahren
+
+Was Leben, was ein Thir, Gesundheit, Krankheit der Tod Arzneymittel
+
+## Richtig erkennen, das Wesentliche
+
+## (unbestimmtes, Art) empirisch was
+
+unverändert bleibt unter allen Veränderungen
+
+Dann habe ich Gattung - Leben ist lebendiges - Thir Individuelles ob Gattung ein Wahres in sich
+
+## Abstraction
+
+lasse die Einzelnheiten weg (Unwesentliches) und doch soll
+
+## Abstraction übereinstimmen mit dem Seyenden
+
+β) Blosse, Reine Gedanken über Objecte ihrer Natur selbst allgemein Vernunftgegenstände – Eigentlich nur aufmerksam machen auf Manir des Verstands |
+
+§ 31 a) Gott ist die Substanz - Seyn das Wesen Alle logischen Sätze könnten so angefangen werden – β) Anmerkung Urtheil nicht fähig das Wahre auszudrücken.
+
+133 a
+
+§ 32 Denken, Empfinden, Subject Object - Einheit, Vielheit (Demokratie Wissen Mittelbarkeit oder Unmittelbarkeit Welt ewig - oder Seele - einfach oder zusammengesezt. Entweder oder;
+
+Monarchie -) nicht ewig
+
+## Materie
+
+[p. 427] oder Übersinnliches weder noch Sinnliches
+
+Materiell ODER
+
+geistig
+
+§ 33 anderes - Weise des Denkens - wie Glauben – ehmals sich wohl gefallen lassen - [orig. 133b]
+
+a) 19-244 \mathbb{SS} ausführliche Logik so verfahen daß Erkennen die Sätze, 133 b Begriffe bestimmt gefaßt – Wissen des Denkens - Logik und Metaphysik - Vielerley Philosophie – welche? vortragen doch Logik der Tradition nur Eine Geschichte kurz beysammen
+
+Widerwille a) Abstract – β) Widersprüche – innre Grundlosigkeit der Gedanvon Religion aus gegen Natur – Hexen u.s.f. Zauberey - Politik, Recht ken was ist Recht Willkühr Absolutes an sich - Gewalt
+
+## §37 IIte Stellung
+
+Wahrheit - als Abtrennung des Denkens von der Objectivität Empirismus Denken nicht das Substantielle
+
+§ 40 Revolution in der Philosophie Unendlicher Gegensaz von Subjectivität und Objectivität nicht metaphysischer Inhalt als solcher - der Natur, Geistes - Gott ganz von Inhalt hinweg Erkennen zum Gegenstand Menschen sich nicht darein finden Alte Kriterium Auch subjectives Erkennen aber mit der Richtung auf Wahrheit¹ a) Inhalt seitdem derselbe, d. h. die Kantische Philosophie zu Grunde le-
+
+1 Unter Wahrheit *vom* Text isoliert: 41 [p. 428] gen Theologie Physik - unendlich hintendrein Nicht Veränderung, ob Erscheinung diese Erkenntnißweise
+
+β) Ein ganzes Feld von Bestimmungen
+
+§ 42 a) Transcendental Quelle des Transcendentalen ẞ) Ich – Vereinfachung Einheit - Verknüpfung als des Mannichfaltigen wird im Bewußtseyn gleichfalls hinausgeworfen wird Gegenstand für sich betrachtet, seine Thätigkeit, im Bewußtseyn als seyendes das objective y) wie kommt man zu den verschiedenen Kategorien
+
+§ 43 44 Inhalt der Kategorien nicht betrachtet – endlich – das Unwahre nicht die Sache an sich a) weil sie subjectiv ẞ) Jacobi, weil sie ihrer Bestimmung, Inhalt nach, endlich | neue Ausgabe
+
+131 a
+
+## Logik und Metaphysik
+
+a) Gegenstand willkührlich wählen - Raum, Zahl, – Pflanze, Thier men derselben
+
+For-
+
+Denkenden Menschen vom Thier unterscheiden übersinnliches
+
+β) würdiger Gegenstand Was Göttliches im Menschen
+
+γ) Bestimmungen und Geseze Genug, - Form, Bestimmungen des Magnetismus, Gesez der Electricität, Staab frey schweben nach Norden – und Süden [p. 429] diß ist Gesez des Raums, 3 Dimensionen der Zeit, Zukunft Gegenwart Vergangenheit daß die Gegenwart vergeht - diß ist die Zeit - Recht, – Daseyn der Freyheit aller erste Bestimmung des Rechts Eigenthum Gesez: der Mensch ist [des] Eigenthums fähig soll Gesez - die Form, Eine Bestimmung vorhanden – eine andere, Gesezt als Gegenstand, dazu zu ihm zukommend aüsserlich verbunden Eigene Bestimmung der Natur der Sache
+
+8) Wozu aber Logik überhaupt? – Nutzen; EINLEITUNG, Wichtigkeit der Logik überhaupt Jeder Professor streicht seine Wissenschaft heraus
+
+αα) auf Autorität, für nützlich Schulrectoren, Väter Kopf ausputzen; Anstrengung des Kopfs, abstracter trokner Gegenstand - Anstrengung gewohnt - hart gehalten werden in Logik geht um so leichter in den andern Wissenschaften
+
+ββ. die formelle Bildung, – und auch mit der Manier, Formen, allgemeine Verfahrungsweisen der Wissenschaften
+
+## Schliessen Geurtheilt
+
+kennen ler-
+
+nen
+
+Inzwischen - diß führt nicht sehr weit - Man kann von Haus aus urtheilen, schliessen - auf solche Weise thätig seyn ohnehin Stoff, Gehalt - ausserhalb der Logik - [orig. 131b]
+
+::: editorial
+Das Wozu ganz anders
+
+γ) Logik hat in neuern Zeiten eine ganz andre Stellung – und Bedürfniß – nach diesem Bedürfniß
+
+neue Gestaltung der Logik neue Logik, auf andre Weise denken, als bisher - geht gegen den Mann - Logik ein paar 1000 Jahre alt
+
+(kennen lernen unter der *Zeile*
+
+*unter* Verfahrungsweisen) 16 führt unter der Zeile 19 Das
+
+anders 131b-132a
+:::
+
+## [p. 430] Aristoteles fertig
+
+wie Geometrie des Euclids Mathematik unendlich erweitert, aber Geometrie – allerdings nicht eine neue Logik; - aber, tiefferes Bewußtseyn über die Natur des Denkens
+
+8) Bedürfniß – wodurch diß veranlaßt - hängt mit den höchsten concretesten Bedürfnissen - Religion Staat ganzem Zustand der Bildung [zusammen] diß Bedürfniß in der Einleitung - weitlaüffig
+
+αα) Früher hat man nicht Arges am Denken gehabt - Theologie, Religion frisch von der Faust weg oder vom Kopf weg gedacht über Gott, Staat, Welt, die Natur – nicht nur nichts Arges - sondern [man] war überzeugt sen,
+
+We-
+
+Wahrheit durch Nachdenken
+
+ββ) So lustig fort gemacht - Aber mit diesem Denken ist es endlich zu bösen Haüsern gegangen so für sich abstract - in der Logik - hätte man es ruhig gewähren lassen - aber die höchsten heiligsten festesten Verhältnisse der Wirklichkeit des Lebens sind dadurch compromittirt worden
+
+Staat - Gedanken, Grundsätze, Theorie in den bestimmten positiven Rechten, ihre Achtung - Vernunft höher - ebenso Religion angegriffen, - Vernunft sich darüber erhoben - Schon die Griechischen Philosophen haben die Götter gestürzt verbannt damit Staatsverfassung direct oder indirect mit Religion [orig. 132a] 132 *a* Verfassung umgestossen oder ihre Achtung versagt vor den Richterstuhl des Denken - ebenso religiösen Glauben umgestürzt – ausgeleert
+
+Ansprüche des Denkens in der Wirklichkeit sich geltend gemacht ungeheuerste Wirksamkeit
+
+## Bedürfniß diß Denken und seine Ansprüche näher
+
+Aufsichtig geworden untersuchen Gefunden Denken wolle maaste sich zu viel an zu viel, was es leisten [p. 431] der Welt, des Geistes was a) affirmativ: Wesen Gottes, der Natur Wahrheit
+
+β) Zu viel negiren stürzen Religion Staat Aufmerksam [auf] das ER-KENNEN Unterschied aber wesentlich DENKENDES Erkennen nicht sinnliches Hören, sehen - Erkennen einen Gegenstand, Pflanze habe eine Erkenntniß - diß Interesse zu untersuchen; – sich rechtfertigen über seine Thaten oder es nun rechtfertigen, daß man dasselbe nicht gelten läßt so Erkennen untersuchen - nicht was die Natur Gottes, das reine innre Wesen der Dinge - sondern das Erkennen untersuchen - Verhältniß desselben zu diesen Gegenständen
+
+ɛ) Interesse
+
+Erkennen zunächst als ein subjectives – nicht objectives nicht Wahrheit und reducirt, bloß mit Erkennen eines subjectiven – Wahrheit – ein Wort Brust gewaltiger schlagen - Geist, frisch, wohl, frey Christus und Pilatus Aber es ist eine alte Erwiederung in Geschichte Christi [orig. 132b]
+
+So kann es scheinen - Interesse für objective Wahrheit geschwunden – Ver- *132* b zweifflung nur subjective Überzeugung Inhalt möge seyn, welcher er wolle ohne Nachdenken
+
+2) Verhältniß des Denkens, - hohen Gegenstand - Resultat, so kann zunächst die Arme Logik – unschuldig – sowohl das Gute als das Schlimme – Schullogik - Verachtung die tieffen Wahrheiten des Geistes oder Umsturz derselben, der Religion, des Staats, Grundsätze – der Moral – Logik unendliche Form
+
+1 Darunter links am Rande in etwas hellerer Tinte*:* Neue Theologie am meisten nachgegeben; glaubt nicht mehr an Dreyeinigkeit [p. 432] Inhalt, Gehalt, anderswo und anderswoher – nichts mit diesem zu thun, davon abstrahiren schliessen folgern – aüsserlich thätig – aber Gegeben
+
+Lasse den Inhalt der Sache wie [er] ist – keine Macht darüber, noch darin
+
+Doch Verdacht - diese formale Logik am meisten ausgebildet Scholastik - Mittelalter – und eben diese Ausbildung Vorbereitung zum Sturz der Religion des Mittelalters
+
+So Wolfische – Logik - bey uns regirt – in neuern Zeiten solche Philosophie ganz in den logischen Formen von ihr die Aufklärung in Religion, – die Klagen über Vernichtung des Christenthums
+
+Wichtigste Verhältniß der logischen Form zum Inhalt Nicht unbekümmert, wie formale Logik Voraussetzungen, die logischen Formen gehen den Inhalt nichts an Formen [des] Denkens, Logik scheint weithin zur Wahrheit Interessantester Gesichtspunkt - Denken, Verhältniß zu Wahrheit, Inhalte Einleitung unterschiedene Stellungen Vorher sehen was Denken ist |
+
+## 129 a 3te Ausgabe § 19-244
+
+a) Gegenstand - und Inhalt - Familiär, im Besitz, – Fremdes reitzt – je fers. 29 umgekehrt – a) Sinnliches ins Bewußtseyn hinein ẞ) Sinnliches heraus ins Bewußtseyn ner
+
+[p. 433] β) Menschliche Ursprung der Logik und Metaphysik - beydes Gedan-Beobachtung gewisser Bestimmungen und Formen ken (Logik, Begriff; wie für sich, ist frey – im Bewußtseyn ist auch Metaphysik Aber Begriff, frey, unendlich nicht durchzogen von einem endlichen Inhalte.) Metaphysik [hat] einen objectiven Gegenstand als solchen verschieden von dem Gedanken, Begriff in Allem; Vorstellung - , Ursache Wirkung Seyn kein Bewußtseyn weil wir selbst[^gw19-433-1] was als verschieden von uns, d. i. Ich darüber Bewußtlosigkeit vernünftige Beziehungen - Arten von Zusammenhängen, ein Schluß Ursache Wirkung - nicht im Sinnlichen als solchen
+
+[^gw19-433-1]: Am Rande zwischen den Zeilen: Rose ist blau
+
+γ) Aristotelische Logik bis izt Verstandeslogik noch immer. Wahr-Formen (oder Geseze) abstract nicht darum mangelhaft sondern einseitig, vereinzelt nur mit andern heit
+
+Satz [der] Identität, des Widerspruchs todte Abstracte Identität Vernunft ist Vernunft was ist die Pflanze, Wesen Grund des Nordlicht Übereinstimmung, eben verschiedene Identität AUCH darin Widerspruch Raum ist Continuum
+
+Alle Menschen sind sterbliche alle Metalle sind elektrische Leiter Einzelne der Mensch das Metall seine Natur, etwas andres seiner Bestimmung nach, oder seiner Existenz nach frey
+
+## Schluß
+
+## Alle
+
+[p. 434] nun ist diß Gesicht grün Mahler grünen Teint Alles Grün d. h. es kommt auf den einzelnen Gegen-
+
+Das Grün ist angenehm dieser See (Sumpf)
+
+stand an empirisch EINE seiner Eigenschaften andern widersprechend
+
+So groß der Gegenstand - auch Nahme des Aristoteles man itzt von der Logik; - Compendien, auf Universitäten fortgeschleppt Kopf ausputzen als elementare Schulweisheit - wie lateinisch lernen müssen eben Schon Interesse gering, noch mehr Allgemeine Vorstellung kann Wahrheit - den Hund nicht aus dem Ofen locken. Der Schule eigen, Schul- so schlecht denkt
+
+Form bestimmt den Inhalt |
+
+geschwätz; so nicht im wahren, concreten Denken Form Denken, der Begriff - vernünftig in sich
+
+127 a § 137 - Innres - und Aüssres gedankenlos Ganzes gesetzt als an ihm selbst, nicht in den Theilen den Inhalt Kraft Aufheben dieser Gedankenlosigkeit ist in der Aüsserung erst Kraft – also Identität mit dem Aüssern, und Aüssres ebenso weil in ihm die Kraft erst Kraft so Innres, das Ganze, auch sein wahrhafter Inhalt a) Identität - der Inhalt Aüssres in ihm habend den INHALT als Einen
+
+§ 139
+
+β) Formbestimmung nun gesezt als nur in Aüsserung der Kraft aufgehoben noch Formunterschied ABSTRACT mangelhaft
+
+γγ) nur Ein Inhalt - als solche Formen selbst untrennbar [p. 435] Innres und Aüssres für sich identisch IDENTITÄT Vernunft Anlage Innres sind als AÜSSERLICHE Geseze Trieb zur Wirklichkeit Ansich der Inhalt,
+
+§ 141
+
+-
+
+sich als aüsserliches zu setzen die Aüsserlichkeit als sich Einheit mit Form an sich |
+
+Innres ist als aller Inhalt
+
+[p. 437] [p. 439]
+
+::: editorial
+## Nachrichten über Verschollenes
+
+### 1. Vorlesungsmanuskripte
+
+a) Verweise Hegels in den Notizen zu Vorlesungen über Logik und Metaphysik 130a (vgl. in diesem Band S. 420):
+
+s. Manuscript 4to
+
+(s. näher 4to Manuscript)
+
+b) G.W.F. Hegel: Werke. Bd 6. Berlin 1840. S. V (Vorwort des Herausgebers L. von Henning):
+
+Da indeß der selige Hegel, während seiner dreizehnjährigen Wirksamkeit an der hiesigen Universität, nur zweimal die philosophische Encyclopädie vorgetragen (das erste Mal gleich beim Antritt seines hiesigen Lehramts im Wintersemester 181819 und dann zum zweiten Mal im Wintersemester 182627) und derselbe demnächst den größern Theil der in diesen Vorlesungen gegebenen Erläuterungen zu den §§. der ersten Ausgabe des vorliegenden Compendiums, in der Form von Zusätzen und Anmerkungen, in die im Jahr 1827 erschienene und dadurch bedeutend erweiterte Ausgabe aufgenommen hat, so fand sich sowohl in den von ihm hinterlassenen Papieren als auch in den nachgeschriebenen Heften nur sehr wenig Material zu weiter erläuternden Zusätzen.
+:::
+
+[p. 440]
+
+::: editorial
+### 2. Erste Fassung der Einleitung zur Ausgabe der Enzyklopädie von 1827
+
+Hegel an Daub (Berlin, 29. 5. 1827):
+
+S. 1 ist allerdings: das Interesse hineinzusetzen; - ich fand diß auch in dem älteren Brouillon, das ich zum Überflusse nachgesehen; [. . .] denn eine Hauptverzögerung der ganzen Arbeit entstand mir daraus, daß mir die erste Ausarbeitung der Einleitung auch in ein Buch auszulauffen anfing, und ich daher eine Umarbeitung von vorne an vornehmen mußte.
+
+### 3. Entwurf des Druckfehlerverzeichnisses für die Ausgabe von 1827
+
+Hegel an Daub (Berlin, 29. 5. 1827):
+
+S. 1 ist allerdings: das Interesse hineinzusetzen; [. . .] 'Sollte Ihnen sonst ein Corrigendum aufgefallen seyn, so ersuche ich Sie es in das Verzeichniß, das ich beygefügt, gefälligst einzuschalten.
+
+1 Sollte Ihnen einzuschalten. am Rande
+:::
+
+[p. 441]
+
+::: editorial
+## Anhang
+:::
+
+::: editorial
+## Textkritischer Apparat
+
+S. 5, äußerlichen] O₂: äußerlichen O₃: äußerlichen
+
+S. 7, 13 Untersuchung] O₂: Untersuchnng O₃: Untersuchung
+
+S. 8, 34 Tholuks] s. *Editorischer Bericht* S. **449**
+
+S. 10, **1** diese] O₂O₃: **die 32** sogenannten] O₂: sogenannten O₃: sogenannten
+
+S. 11, §. 50.] О2О3: §. 48.
+
+S. 11, **24** Bruckers] O₂: Bruk-/kers O₃: Bruckers
+
+S. 13, 11 vom] O₂: von O₃: vom
+
+S. 14, **8 von Bader**] s. *Editorischer Bericht* S. 449 14 »ein Fundament«] O₂O₃: »ein Fundament mehr,] O₂O₃: »nimmermehr**,<« 28** aus] O₂ ans O₃: aus
+
+S. 14, **34** »auf] O₂: auf O₃: **»auf**
+
+S. 16, **19** wilden] O₂: milden O₃: wilden
+
+S. 16, **22** sowohl] O₂: fowohl O₃: sowohl
+
+S. 16, **25** würde] O₂: **würdr** O₃: **würde**
+
+S. 17, »nicht] O₂O₃: nicht
+
+S. 18, 14 vom] O₂: **von** O₃: vom
+
+S. 20, 5 häufiger] O₂: häufiger O₁O₃ häufiger
+
+S. 23, **8 43**] O2: **42 9** 43] 02:42
+
+S. 23, **13** Logik.] O₂O₃: Logik 24 159.] O2: 150. O₃: 159.
+
+S. 23, 13 93]
+
+S. 24, 28 **Mechanik**.] O₂: Mechanik..
+
+S. 24, 2 Ding.] O2: Ding
+
+S. 24, 7141] O2: 144
+
+S. 24, **27** 217] 02: 218
+
+S. 24, 29 225] 02: 226
+
+S. 24, 29 **30** 225] O₂: 226
+
+S. 25, 250] 02: 251 8 §. 275.] O2: §. 285. Оз: 275. 261] 02: 262
+
+S. 26, 24 §. 529.] O2: §. 29. Corporation.] O2: Corporation, 26 Staatsrecht1] O₂: Staasrecht
+
+S. 27, 12 ohnehin ein Interesse] *so* C₂ O₂: ohnehin O₃: ohnehin ein Interesse *vgl*. Nachrichten über Verschollenes S. 440 und Editorischer *Bericht* S. **462** น. **478**
+
+S. 28, 25 zukommt] *so* C₂, s. Editorischer *Bericht* S. **450** O₂: zulommt O₃: zukommt
+
+S. 29, **15** Vorstellungen,] O₂: Vorstellungen O₃: Vorstellungen,
+
+S. 30, 27 eine] O₂: die eine **O₃** eine
+
+S. 30, 27 **33** in2] O₂ iu **O₃**: **in**
+
+S. 31, 29 Bewußtseyn] so C2 O₂: Bewußtseyns O₃: Bewußtseyn
+
+S. 33, 4 deren] O₂: derem O₃: deren
+
+S. 33, 4 **14** allem] O₂: allen O₃: allem
+
+S. 33, 4 **27** heutigs] s. *Editorischer Bericht S*. 450
+
+S. 33, 4 **34** wogegen] O₂: woge-/gegen O₃: wogegen
+
+S. 34, **1** Raisonnements, allgemeine] O₂: Raisonnements allgemeiner C₂: allgemeine O₃: Raisonnements, all**gemeine 14** herausgegebene] O₂: herausbegebene O₃: herausgegebene
+
+S. 34, **31** Long] O₂: Longe O₃: Long
+
+S. 35, **23** Weise ist] so C₂ O₂: Weise, O₃: Weise ist
+
+S. 37, 17 Phantasie Bilder] O₂: Phantasie-Bilder O₃: Phantasie Bilder
+
+S. 39, 31 in dem] O₂: in-/dem O₃: in dem
+
+S. 42, 37 Anschauung] O₂: Anschaung O₃: Anschauung
+
+S. 44, 3 Die] O₂O₃: Die O₁: die
+
+S. 45, 3 **VORBEGRIFF**] O₂: VORBEGRIFS O₃: **VORBEGRIFF** 19 zurückzuziehen] O₁O₂O₃ zurückziehen
+
+S. 48, 12 §. 5.] 0203: §. 6. C₃: §. 5.
+
+S. 48, 12 **32** Pleonasmus] *so* C₂, s. *Editorischer Bericht* S. 450 น. 452 O₂ **Plenoas**mus U₃: Pleonasmus
+
+S. 49, 31 nur als] *so* C₂ O₂: nur O₃: nur als
+
+S. 49, 31 **32** angehörig] so SC₂ O₂: angehört O₃: angehörig
+
+S. 50, 6 [so] kann] O₃: so kann
+
+S. 50, 6 **11** noch] O₂: uoch O₃: noch
+
+S. 50, 6 **26** Wissenschaft] C₂: Wissenschaft ist s. ***Edi***torischer *Bericht* S. **452**
+
+S. 51, **werde**] *so* C₂ O₂O₃: werden
+
+S. 51, **20** die immer vorhandene, bloße] so C₂ O₂: immer vorhandene, bloße O₁: die bloße O₃ immer vorhanden, die bloße
+
+S. 52, 7zusammengesetzt] O₂: zusamengesetzt O₁O₃: zusammengesetzt 8\mathfrak{u}.s.f.]O₂: u s.f. O₁O₃:
+
+S. 53, machen,] O₂: machen **O₃**: machen,
+
+S. 54, 11 Theil] O₁O₂O₃: Theil
+
+S. 56, 20 Empirismus] O₂: Epirismus O₃: Empirismus
+
+S. 56, 20 **25** §. 6.] 0203: §. 7.
+
+S. 57, 26 St.)] O₂: St.-O: St.) 31 für] O₂: sür **O₃**: **für**
+
+S. 61, 12 dieselbe] Plural!
+
+S. 63, zweier] O₂: Zweier **O₃**: **zweier**
+
+S. 65, C₂ O2 :e es, O₃: es als
+
+S. 65, **6-7** reinigt,] ***so*** C₂ O₂: reinigt; O₃: reinigt,
+
+S. 65, **7** jene empirische]
+
+S. 65, **es, als**] ***so***
+
+S. 65, C₂ O₂: jener empirische O₃: jener empirischen
+
+S. 68, 2 **Dinge**] ***so*** C₂ O₂O₃: Dingen
+
+S. 68, 2 **18** Empirischen] O₂: Empirischen, O₃: Empirischen
+
+S. 69, von] O₂: mit O₃: von
+
+S. 72, 2 für] O₂: sür O₃: für
+
+S. 72, 2 **24-25** Betrachtungsweise derselben] so C₂ O₂O₃: Betrachtungsweise
+
+S. 73, 28 Urtheilskraft] O₂: Urtheiskraft O₃: Urtheilskraft
+
+S. 74, 21 seines] *so* C₂ O₂O₃: ihres
+
+S. 74, **21-22** die negative] *so* C₂ O₂: der... negativen O₃: die... **negati-**
+
+S. 74, 27 Unbeschränkten] O₂: Unbeschränkten O₃: Unbeschränkten
+
+S. 75, 31 **Herrmann**, **«**] O₂: Herrmann, O₃: Herrmann**,
+
+S. 77, **abstreife**] ***so*** C₂ O₂: abstreite **O₃**: abstreife **8 Briefen**] ***so*** C₂ O₂: Begriffen **O₃: Brieffen**
+
+S. 78, 7 untersucht] O₂: unterscht O₃: untersucht
+
+S. 82, 27 **Kinder u.s.f**.,] O₂O₃: Kinder, u.s.f. 32 unmittelbare] O₂ unmitelbare O₃: unmittelbare
+
+S. 85, **1-2** Unmittelbarkeit und von Vermittlung] *so* C₂ O₂: Unmittelbarkeit O₃: Unmittelbarkeit und von Vermittlung
+
+S. 87, 14 unbekannten] O₂: unbekanten O₃: unbekannten
+
+S. 88, 22 Ausgangspunkt] so C₂ O₂: Aufgangspunkt O₃: Ausgangspunkt
+
+S. 90, 9 maßlosen] *so* C₂ O₂: marklosen O₃ maaßlosen
+
+S. 90, 9 **21** sey] O₂: sey, und C₂: sey, O₃: sey 32 hat**te**] **so** C₂ O₂O₃: hat
+
+S. 91, zu] O₂: zn O₃: zu 5 von] O₂: vom O₃ von
+
+S. 94, 26 um] O₂: nm O₃: um
+
+S. 95, 12 Diese] O₁O₂: diese vgl. O₃: **Im**
+
+S. 97, selbstgleiche] O₁O₂O₃: selbst-/gleiche
+
+S. 101, das1] O₂: das als O₃: Das 26 Anderes] O₂: Anderes, O₃: Anderes 27 selbst ist] O₂: selbst, ist O₁: selbst ist, O₃: selbst ist
+
+S. 102, 25 zu2] O₂: zn O₃: zu
+
+S. 102, 25 **33** Ausdruck] O₂: Ausdrnck O₃: **Ausdruck**
+
+S. 104, 11 An**-**und**-**für-sich-Bestimmtseyn] O₁O₂O₃.: An**-**und-für sich**-**Bestimmtseyn
+
+S. 106, 3 Untheilbaren] O₂: Untheilbarem O₁: untheilbaren O₃: Untheilbaren liche O₁: unendliche O₃: unendliche 17 Einheit] O₂: Einheit
+
+S. 106, 6 unendliche] O2: un-/end-O₁O₃: Einheit
+
+S. 107, **15-16** vertheilt werden] O₂: vertheilt wird O₃: **vertheilt**
+
+S. 109, 19 eine] O₂: etne O₁O₃: eine
+
+S. 111, 17 Prädicaten] O₂: Prädicaten, O₁O₃: Prädicaten
+
+S. 112, 15 Unmittelbarkeit] O₂: Unmitelbarkeit *O₃*: Unmittelbarkeit
+
+S. 114, 13 beziehenden,] O₂: beziehenden *vgl*. O₁: beziehenden; O₃: beziehenden,
+
+S. 114, 13 **16** unmittelbarer] O₂: unmitttelbarer O₁: unmitelbarer O₃: unmittelbarer
+
+S. 116, 20 bestimmt] O₂: bestimmmt O₃: bestimmt
+
+S. 117, **ist**] so C₂ O₂: in O₁O₃: **ist** 13 formelles; irgend] O₂ formelles. Irgend *vgl*. O₁: formelles, weil
+
+S. 118, 11 Reflexion**-**in**-**Anderes] *so* C₂ O₂: Reflexion**-in-**sich O₃: Reflexion**-**in**-**anderes
+
+S. 118, 11 **27** zur Bezeichnung] O₂: zur Bezeichnung O₁O₃: zur Bezeichnung
+
+S. 119, **z**. B.] O₂: z. B: O₁O₃: z. **B. 19** [γ)] Die] O₃: γ) Die s. *Editorischer Bericht* S. 449
+
+S. 119, **21** §. 115.] O₂: §. 114.
+
+S. 119, **24** §. 116.f.] O₂: §. 115.
+
+S. 120, **11-12** Reflexion-] O₂: Reflexion O₃: Reflexion-
+
+S. 120, **16** in] O₂: iu O₃: in
+
+S. 122, 11 Inhalts] O₂O₃: Inhalts 16 der Bestimmtheit] *so* C₂ O₂: Bestimmtheit O₃: **der** Bestimmtheit
+
+S. 123, als] O₂: als O₁O₃: als 34 Sollicitation] O₁O₂: Solicitation O₃: Sollicitation
+
+S. 124, 24 und] O₂: urd O₁O₃: und
+
+S. 128, 14 sich Aufheben] O₂: sich aufheben O₁: Aufheben O₃: Sich-aufheben
+
+S. 129, existirt;] *so* C₂ O₂: existirt, O₃: existirt;
+
+S. 129, **28** Aufhebens [der Unmittelbarkeit]] O₁: Aufhebens der Unmittelbarkeit O₃: Aufhebens
+
+S. 130, 23 Nothwendigkeit] O₂: Nothwendtgkeit O₁O₃: Nothwendigkeit 30 Causalitäts-Verhältniß] O₂: Causalitäts-/verhältniß O₃: Causalitäts-Verhältniß
+
+S. 131, einseitigen] O₂: einseitigeu O₃: einseitigen
+
+S. 131, **27-28** Causalitätsverhältniß] O₂: Causalitätsverhältniß O₃: Causalitätsverhältniß
+
+S. 132, 6 **ist**, *so* C₂ O₁O₂O₃: ist
+
+S. 132, 6 **29** sind] O₂O₃.: sind a) *s*. *Editorischer Bericht* S. 449
+
+S. 134, 36 und] O₂: uud O₁O₃: und
+
+S. 135, ist] O₂. ist O₁O₃: ist
+
+S. 136, 26 genommen.] O₂: genommen O₃: genommen. 28-138,1 an sich] O₂: an sich
+
+S. 137, 21 und] O₂: und und O₁O₃: und
+
+S. 139, **z**. B.] O₂: z. B O₁O₃: z. B.
+
+S. 140, 9 fürsichseyende] O₂: sürsichseyende O₁O₃: fürsichseyende
+
+S. 142, 21 Subject] O₂: Subjeet O₃: Subject
+
+S. 142, 21 **29** Prädicat] O₂: Prädieat O₃: Prädicat
+
+S. 143, Identität] O₂: Identät O₃: Identität 23 Beziehung] O₂: Veziehung O₃: Beziehung 28 Einzelne] *so* C₂ O₂O₃: Einzeles
+
+S. 146, 14 Rose] so C₂ O₂: Röthe O₃: **Rose** 20 Werken] O₂: Werken O₃: Werken
+
+S. 149, terminus] O₂: tcrminus O₁O₃: terminus
+
+S. 150, 17 gibt;] O₂: gibt. ***vgl***. **O₃**: gibt,
+
+S. 152, 11 einzelne concrete] O₂: einzelner concreter O₃: einzelne concrete
+
+S. 153, 23 wesentlich] O₂: wesentilch O₃: wesentlich
+
+S. 155, 13 aufhebt] O₂: aushebt O₃: aufhebt
+
+S. 157, 10 derselben] *W₁W2*: der Unterschiedenen *R*: desselben
+
+S. 158, 6 u.s.f.] O₂O₃: u.f.f.
+
+S. 158, 6 **21** durch] O₂: dnrch O₁O₃: **durch** 30 bezogen] O₂: bezogen, O₁O₃ **bezo**gen
+
+S. 158, 6 **31** welches] so C₂ O₁O₂O₃.: welche
+
+S. 159, 12 Rechte] O₂: Nechte O₃: Rechte Gesellschaft,] O₂: Gesellschaft O₃: Gesellschaft,
+
+S. 161, 4 fürsichseyende] O₂: für-/sichseyende O₃ für-sich-/seyende
+
+S. 161, 4 **11** [in] ihm] O₃: in ihm
+
+S. 161, 4 **30-31** Ursprünglichkeit, **war**;] *so* C₂ O₂: Ursprünglichkeit war, O₃: Ursprünglichkeit **war**;
+
+S. 162, 33 Erhebung] O₂: Erhebuug O₃: **Erhebung**
+
+S. 165, **29** an**-**und**-**für**-**sich**-**seyende] O₂: an**-**und für**-**sich seyende
+
+S. 166, 21 und] O₂: uud O₁O₃: und
+
+S. 169, 12 Unendlichkeit] O₂: Uneudlichkeit O₃: Unendlichkeit
+
+S. 171, Fürsichseyn] O₁O₂O₃.: Für-/sichseyn
+
+S. 172, 23 **als**] ***so*** C₂ O₂: durch O₃: als
+
+S. 175, 20 Vollkommenheit] O₂: Vollkommeuheit O₁O₃.: Vollkommenheit 32 und] O₂: nnd **O₃ und**
+
+S. 178, **22** an sich die Dialektik,] O₂: an sich, die Dialektik O₃: an sich die Dialektik**, 29** ist] O₂ sind O₁: **ist *vgl***. O₃: war
+
+S. 179, **an** sich] O₂O₃: an sich
+
+S. 179, **10-11** Sich**-**Aufheben] O₂: mit Aufheben O₃: Sich**-**Aufheben 12 werden.] O₂: werden O₃: werden.
+
+S. 180, **4** hervorbringen] O₂: hervorbringeu O₁O₃: hervorbringen
+
+S. 183, 15 tiefere] O₂: tiesere O₃: tiefere
+
+S. 184, 17 das, was] O₂: das **was, O₃**: das, **was**
+
+S. 185, 21 nicht] O₂: uicht O₁O₃.: nicht
+
+S. 187, 15 gering | fügiger] O₂: geriug-/fügiger O₃: geringfügiger
+
+S. 191, 3 Andersseyn] O₂: Anders-/seyn O₁: Andersseyn *vgl*. O₃: Anders- d. i. räumlichseyn
+
+S. 193, 33 Natur] O₂: Ratur O₁O₃: Natur
+
+S. 197, Aeußerung [nach]] O₁: Aeusserung O₃: Aeußerungen C₃: Aeußerung nach (*s*. *Editorischer Bericht* S. 452) 21 eingepflanzt] O₂. eingepslanzt O₁O₃: eingepflanzt
+
+S. 198, **6-7** Einzelnheit] O₂: Eiuzelnheit O₃: Einzelnheit
+
+S. 198, **14** angenommen] O₂: angenommeu O₁O₃: **ange**nommen 15 vorausgesetzt] so oC₂ O₁O₂O₃: voraussetzt 35 nur] O₂: nnr O₃: nur
+
+S. 199, **2** Materie] O₂: Materi O₃: Materie
+
+S. 199, **3-4** [der Nichtigkeit] des Außersichseyns] O₃: der Nichtigkeit des Außersichseyns
+
+S. 199, **19** wesentlich [räumlich **und** zeitlich]] O₃: wesentlich räumlich **und** zeitlich
+
+S. 200, 17 sind] O₂: sind nur O₃: sind
+
+S. 201, 4 Mittelpunkte] O₂: Mittelkunkte
+
+S. 203, 18 Formel in] so C₂ O₂: Formelin O₃: Formel in
+
+S. 204, 11 unbestimm-
+
+S. 204, 6 schlecht**-**gleichförmige] O₂: schlecht-/gleichförmige O₃: schlecht gleichförmige
+
+S. 204, te] O₂: unbestimte O₃: unbestimmte
+
+S. 204, **20-21** schlecht**-**gleichförmige] O₂: schlecht-gteichförmige
+
+S. 204, 27 einfachen] O₂: **einfacheu O₃**: **einfachen 29** Entwicklung] O₂: Ent- 30 Function] O₂O₃: Fonction
+
+S. 204, 27 **33** für] O₂: sür O₃: für
+
+S. 206, 4 hat] O₂: ist O₃: **hat 25** Erscheinung] O₂: Erscheiuung O₁O₃: Erscheinung
+
+S. 207, 10 dieser zugleich] so C₂ O₂: diese zugleich und *vgl*. O₃ zugleich
+
+S. 207, **11** die1] *so* C₂ O₂: **der** 33 dieselbe] Plural!
+
+S. 209, 23 Begriff] O₂: Vegriff O₃: Begriff
+
+S. 210, 25 §. 267. Anm.] O₂O₃: §. 266. Anm.
+
+S. 210, 25 **27** Zunahme] O₂: Znnahme O₃: Zunahme
+
+S. 210, 25 **28** und] O₂: nnd O₃ und
+
+S. 211, 11 wurde] O₂: wnrde 18 neue] O₂: neuere O₃: neue
+
+S. 212, 12 §. 267.] О2О3: §. 266. 28 Maaße] O₂: Masse O₃: Maaße
+
+S. 214, 7 **immanente Form bestimmt** sie] *so* C₂ O₂: immanente bestimmt ***vgl***. **O₃**: **bestimmt... immanente Form**
+
+S. 215, 22 nun] O₂: nur O₃: nun
+
+S. 217, 12 Manifestation] O₂: Manisestation
+
+S. 217, 12 **19** die] O₂: der **O₃: die**
+
+S. 218, 4 Erhellung] O₂: Erhelluug O₃: Erhellung
+
+S. 218, 4 **6** Einfluß] O₂: Einfinß O₃: Einfluß
+
+S. 218, 4 **8-9** nennen] O₂ nenneu O₃: nennen
+
+S. 218, 4 **22** Gegensatz] O₂: Gegeusatz O₃ Gegensatz
+
+S. 219, 17 nach] O₂: uach O₁O₃: nach
+
+S. 219, 17 **31** aufgeschlossen] so C₂ O₂: ausgeschlossen O₁O₃: aufgeschlossen
+
+S. 220, 7 kein] O₂: kcin O₁O₃ kein
+
+S. 221, 13 Fürsichseyn] O₁O₂O₃: Für-/sichseyn
+
+S. 221, 13 **23** andere [Element]] trale] O₂: Reutrale O₁O₃: **Neutrale 27** an] O₂: au O₁O₃: an
+
+S. 221, O₁: andere Element O₃: andere Neulichkeit
+
+S. 222, 5 §. 285.] O2: §. 255. Оз: §. 285. 21 und] O₂: nnd O₁O₃ und
+
+S. 223, 5 Aufzeigen] O₂: Aufzeigeu O₁O₃: Aufzeigen
+
+S. 225, 11 entgegengesetzt] O₂O₃: entgegensetzt 18 erste] O₂: erster
+
+S. 226, 6 Zusammenhang] O₂: Znsammenhang O₃: Zusammenhang
+
+S. 228, 4 zunächst] O₂: znnächst O₃: zunächst 23 Negation] O₂: Regation
+
+S. 229, 12 Antinomie] O₂: Antinonomie O₃: Antinomie
+
+S. 229, 12 **36** derselben] O₂: der/selben O₃: derselben
+
+S. 230, **29-30** Fortpflanzung] O₂: Fortpflanznng O₃: Fortpflanzung
+
+S. 231, ist **nur**] *so* C₂ O₂O₃: nur ist
+
+S. 231, **7** weiter] *so* C₂ O₂O₃: weiters
+
+S. 231, **29** zu liegende] O₂O₃: zuliegende
+
+S. 232, 4 Chladnis] O₂: Chladuis O₃: Chladni's
+
+S. 233, **3-4** Existenz] O₂: Cxistenz O₃: Existenz
+
+S. 233, **11** deren] O₂: als deren O₃: deren 28~in₂]O₂: iu **O₃**: **in** 30 hätten] O₂O₃: hätte
+
+S. 234, **5-6** das Hervorbringen eines] so C₂ O₂: eines 7 unter] O₂: uuter O₃: unter
+
+S. 234, **9** gebunden] O₂: gebundeu O₃ gebunden
+
+S. 234, **22** Binden] O₂: binden O₃: Binden
+
+S. 235, Quantums] O₂: Qnantums O₃: Quantums 11 Erscheinung] O₂: Erscheinnng O₃: Erscheinung
+
+S. 236, 27 Bestimmungen] O₂: Bestimmungeu 28 Totalität] O₂: Totalität O₃: **Totalität**
+
+S. 237, 6 wieder (wie zuerst immer)] *so* C2 O₂: wie wieder (zuerst wie **immer**) ***vgl***. O₃: wieder zuerst **14 form**los] O₂: formlos, *O₃*: formlos
+
+S. 238, 5 Entgegensetzung] O₁O₂: Entgegengesetzung 6 [gesetzten] Bestimmung] O₃: gesetzten Bestimmung
+
+S. 238, 5 **12** Abstraction existirt] O₂: Abstraction existirt O₁ **Abstraction** O₃: Abstraction existirt zur] O₂: znr O₃: **zur 15** allgemein existiren] O₂: allgemein existiren O₁: allgemein **exi**stiren **O₃** allgemein existiren
+
+S. 238, 5 **23** zum] O₂: znm O₃: zum
+
+S. 239, 17 ausdrücklichem] O₂: ansdrücklichem O₃: ausdrücklichem hen) O₃: **(**-anzuziehen) 32 ein Drittes] O₂: ein Drittes O₃
+
+S. 239, 26 (-anzuziehen)] O₂: - (anzuzie- : ein Drittes
+
+S. 241, 11 bestehe,] O₁O₂: bestehe O₃: bestehe,
+
+S. 242, 22 contrahirt [wäre]] O₃: contrahirt wäre
+
+S. 244, 4 XXII.] О2О3: S. XXII.
+
+S. 245, 4 **für** sich] O₂O₃: für sich
+
+S. 245, 4 **8** §. 277.] О2О3: §. 276.
+
+S. 245, 4 **36** betrachten] O₂: betrachteu O₃: betrachten
+
+S. 246, 12 der] O₂: der **O₃: der 18-19** Beziehung] O₂: Beziehnng zur O₃: Beziehung 19 der erstern] ***so*** C₂ O₂ erstern der O₃: der erstern
+
+S. 248, 15 aufdecken] O₂: anfdecken 21 Zuletzt] O₂: Zuletzt O₃: Zuletzt
+
+S. 249, 1 reflexion] O₂: Reflexion O₃: reflexion
+
+S. 252, 21 **es zu**] ***so*** C₂ O₂: zu O₃: es zu 29 u.s.f.] O₂: n.s.f.
+
+S. 253, **1** unbegeisteter] O₂: uubegeisteter O₃: unbegeisteter
+
+S. 255, **-Es**] O₂: (-Es O₃: - **Es** 14 presqu' isolante] O₂O₃: presqu'isolante 27 und [des]] O₃: und des
+
+S. 256, 7 zu] O₂: zn O₃: zu
+
+S. 257, 27 u.s.f.] so C₂ O₁O₂: u.s.f. **Erden** *vgl*. **O₃**: u.s.f. (ehmals Erden nun) Metalloide
+
+S. 258, 22 derselben] O₂: derselbeu
+
+S. 258, 22 **32** §. 208.] ОгОз: §. 204.
+
+S. 260, 4 Realisation] O₂: Nealisation O₁O₃: **Realisation**
+
+S. 261, 26 Entfaltung] O₂: Entfaltung O₁O₃: Entfaltung
+
+S. 264, 16 Lebensproceß] O₂: Lebensprocß O₃: Lebensproceß
+
+S. 264, 16 **26** [mechanischen] Allmählichkeit] *vgl*. O₃: mechanischer Allmählichkeit
+
+S. 265, unmittelbare] *O₂*: unmitelbare O₁: unmittelbare O₃: unmittelbare 20 zweiten] O₂: Zweiten O₃: zweiten
+
+S. 268, 16 Selbstgefühl] *so* C₂ O₂: Selbst gefühl O₃: Selbstgefühl
+
+S. 268, 16 **28** hierin] O₂: hiegegen O₃: hierin
+
+S. 268, 16 **33** Proceß] O₂: Proeeß O₃: Proceß
+
+S. 269, 13 Bichats] O₂: Biots O₃: Bichats
+
+S. 271, 29 Organismus] O₂: Organismns O₁O₃: **Organismus 35** Veranlassung] O₂: Veranlassnng O₁O₃: Veranlassung
+
+S. 274, 12 Athmen] O₁O₂: Athmen- O₃: Athmen 23 Negativität des] O₂: Negativität, des O₁: Negativität **des** *vgl*. **O₃**: Negativität, ist
+
+S. 275, ist).] O₂: ist.) O₁: ist,) O₃: ist);
+
+S. 276, 5 vegetabilischen] O₂: vegeta/bilischen O₁O₃: vegetabilischen
+
+S. 276, 5 **12** lymphatische] O₂: lympathische O₁: lymphatische O₃: lymphatischen
+
+S. 277, Resultat] O₂: Resulat O₁O₃: **Resultat**
+
+S. 279, 29 und] O₂: uud O₁O₃: und 31~auf]O₂: anf O₃ **auf**
+
+S. 287, 10 für] O₂: sür **O₃: für**
+
+S. 288, 21 als nothwendig gezeigt wird] O₂: nothwendig zeigen O₃: als nothwendig gezeigt wird
+
+S. 291, 22 ihrem] 0203: seinem
+
+S. 292, 6 §. 223.] O₂: § 223. Оз: §. 223. 11 Anderes;] O₂: Anderes O₁: Anderes, O₃: Anderes;
+
+S. 294, 23 Aufenthalt] O₂: Aufenhalt O₃: Aufenthalt
+
+S. 296, 12 Vorausahndungen] *so* C₂ O₂: Voraussetzungen O₃: Voraussetzungen
+
+S. 301, 10 u.s.f.] O₂: **u.s.s**. O₃: u.s.f. **11 jedes] so** C₂ O₂: jenes O₃: **jedes**
+
+S. 302, 29 seiner] O₂: ihrer O₃: seiner
+
+S. 303, und] O₂: nnd **O₃**: **und 22-23** [die] Mannichfaltigkeit] O₃: die Mannichfaltigkeit 24 begründet] O₂: begründen O₃: begründet
+
+S. 304, 14 eigenthümlichem] O₂: eigenthümlichen *vgl*. O₃: bewußtem und verständigem 17 weiter] O₂: weitere O₃: weiter **23 α)] O₂O₃.: α**.
+
+S. 305, 2 Subject] O₂: Subjeet O₃: Subject
+
+S. 305, 2 **8** noch ein widerstandloses] *so* C₂ O₂: widerstandloses ***vgl***. **O₃**: sondern ein widerstandloses **dası**] O₂: der O₃: **das**
+
+S. 306, **2-3** gebildeten,] O₂: gebildeten O₃: gebildeten, 4 selbst [verhält]] O₃: selbst verhält
+
+S. 307, 8 Bestimmungen] O₂: Bestimmuugen O₃: Bestimmungen
+
+S. 307, 8 **13** §. 398.] O₂: §. 389. O₃: §. 398. 14 **ihre** Fäden] *so* C₂ O₂: ihren Faden O₃: ihre Fäden
+
+S. 307, 8 **23** Schlaf,] O₂: Schlaf
+
+S. 309, 13 anderer] *so* C₂ O₂: deren
+
+S. 309, 13 **15-16** zweifachen] O₂ zweisachen O₃: zweifachem 31 zusammenhängt] O₂: znsammenhängt O₃: zusammenhängt
+
+S. 310, 13 die] *so* C₂ O₂: der *vgl*. O₃: diese **24-25 individuellen] O₂**: invividuel-
+
+S. 310, 13 **29** welches] *so* C₂ O₂: welche O₃: welches
+
+S. 310, 9 hat] O₂; ist O₃: hat len O₃ individuellen
+
+S. 311, 36 hält;] C₂: halten, *vgl*. O₃: von welcher gehalten wird;
+
+S. 313, Empfindung] O₂: Empsindung 12 unmittelbares] O₂: unmit-/mittelbares O₃: unmittelbares 35 der] O₂: de r
+
+S. 314, 7 Stellung] ***so*** C₂ O₂: Stellung ist O₃ Stellung 8 nur] O₂: nnr O₃ nur 9 [es] bewußtlos] O₃: **es** bewußtlos
+
+S. 318, 24 es] O₂: er O₃: es
+
+S. 321, **3** an sich] O₂: an sich O₃: an sich **28~nur₁]O₂**: uur O₁: nur
+
+S. 322, 11-12 unmittelbar] O₂: nnmittelbar O₁O₃: unmittelbar
+
+S. 324, 22 und] O₂: uud O₃: und
+
+S. 325, 28-29 einem Gegenstande] *so* C₂ O₂: einen... Gegenstand O₃: einem Gegenstande
+
+S. 327, **6-7** wodurch] O₂: wodnrch **O₃**: **wodurch** 12 ein] O₂: eiu **O₃: ein**
+
+S. 329, 18 zukommt] O₂: znkommt O₁: zukommt
+
+S. 333, **27** Bilder,] O₂: Bilder O₃: **Bilder**,
+
+S. 335, 4 Verknüpfen] O₂: Verknüpsen O₃: Verknüpfen
+
+S. 336, **5** anschauend] O₂: auschauend O₁: anschauend O₃: anschauuend
+
+S. 337, 21 verwischt] O₂: vermischt O₃: verwischt
+
+S. 339, **31** sein Inhalt] O₂: sowohl sein Inhalt O₃: der **Inhalt**
+
+S. 340, 23 Gedächtniß] O₂: Gedächniß O₃ Gedächtniß
+
+S. 341, 29 zu] O₂: zn O₃: zu
+
+S. 342, 15 welchem] O₂: welche O₃**: welchem**
+
+S. 343, Anund Für-sich-bestimmtseyn] O₂: Anund Für-sich-/bestimmtseyn O₁: An-und-für-sich-bestimmt seyn
+
+S. 344, **5** Fürsichseyn] O₁O₂O₃: Für-/sichseyn
+
+S. 345, 16~in₂]O₂: iu O₁O₃.: in
+
+S. 348, 18 sie sich] *so* C₂ O₁O₂O₃: sie
+
+S. 350, 25 unmittelbaren] O₂: nnmittelbaren O₁O₂.: unmittelbaren
+
+S. 350, 25 **26** Wirklichkeit] O₂: Wirklichlichkeit O₁O₃: **Wirklichkeit**
+
+S. 353, 9 ist] so C₂ O₂: sind 16 Recht1] O₂: Necht O₃: Recht
+
+S. 354, 3 [sich] zusammenschließen] O₃ sich zusammenschließen
+
+S. 354, 3 **11** eigenen] O₂: eigene *vgl*. O₃: eigenen **25 Moralität**] O₂: Moralität O₁O₃: Moralität
+
+S. 358, 3 gewollt] ***so*** C₂, s. *Editorischer Bericht* S. 452 O₂: das gewollt *vgl*. **O₃**: gewollt
+
+S. 359, **31** als1] O₂: ihr **O₃: als**
+
+S. 361, Handlung] O₂: Haudlung O₃: **Handlung 17** Welt, das]O₂: Welt das *vgl*. O₁: Endzweck, das **vgl**. **O₃**: **Welt**,
+
+S. 362, **2-3** [mit] Aufheben] O₃: mit Aufheben 16 einem] O₂: einer O₃: einem 17 Entgegengesetzten] O₂: entgegengesetzten O₃: Entgegengesetzten
+
+S. 363, 11 sondern] O₂: sodnern O₁O₃: sondern **24~Form,]O₂**: Form O₃: Form,
+
+S. 367, Die1] so C₂, s. *Editorischer Bericht* S. 452 O₂: 1) Die
+
+S. 367, **17** Allgemeinheit] O₂: Allge-/gemeinheit **O₃**: Allgemeinheit
+
+S. 370, 23 Natur] O₂: **Ratur** O₃: Natur 26-27 auszusprechen] O₂: aussprechen **O₃**: auszusprechen
+
+S. 371, **An**] O₂: **an** O₃: **Ап**
+
+S. 376, 375,
+
+S. 376, **38-2** eine gleiche Behandlung... rechtfertigen] O₂O₃: eine gleiche Behandlung ... fähig machen *W1MM*: einer gleichen Behandlung ... fähig machen 12 einen] O₂: ein O₃: einen
+
+S. 377, 26 dieselben] *so* C₂ O₂: dieselbe O₃: dieselben
+
+S. 380, 30 [nicht] nur] O₃: nicht nur
+
+S. 382, 3 erhalten] ***so*** C₂ O₂: erhalten, O₃: erhalten
+
+S. 385, 18 **Historiker**] O₂: Histo-/ker **O₃: Historiker**
+
+S. 386, 36 Particularitäten] O₂: Particuläritäten O₃: Particularitäten
+
+S. 387, 27 **auf**] O₂: anf **O₃: auf**
+
+S. 389, dessen] *so* C₂ O₂ und dessen O₃: dessen
+
+S. 391, **25** [sie] **als**] O₃: **sie als**
+
+S. 392, 29 Bedeutung] O₂: Bedeutung
+
+S. 395, **6** und] O₂: nnd **O₃**: **und**
+
+S. 397, **1** wird).] O₂: **wird**.) O₃: wird).
+
+S. 399, 23 νόησις] O₂O₃: νοήσις
+
+S. 400, 27 [sich] so] **O₃: sich so**
+
+S. 402, 24 und] O₂: nnd O₁O₃: und
+
+S. 403, 17-18 Vermittlung [des Geistes]] O₃: Vermittlung des Geistes
+
+S. 405, 10 Vorstellungen, des Denkens] *O2*: Vorstellungen des Denkens, *vgl*. O₃: Vorstellungen und... des Denkens 29 die] O₂O₃: den
+
+S. 406, **22** welches Andere] O₂: welches Andere O₃: welches Andere
+
+S. 408, 12 Sivas] O₂: Shiwas O₃: Siwas
+
+S. 408, **25** u.s.f.,] O₂: u.s.f., «< O₃: u.s.f.
+
+S. 408, **32** u.s.f.] O₂: **u.s.f.«** O₃: **u.s.f."** *s*. Editorischer *Bericht* S. 449
+
+S. 409, 26 zu] O₂: zn O₃: zu
+
+S. 410, 8 weltlichen] O₂: weltlichem O₃: weltlichen
+
+S. 411, 27 Dschelaleddins] O₂: Dscheleddins O₃: Dschelaleddins
+
+S. 416, 2 **νόησις] O₂O₃: νοήσις αὐτὴν] O₂O₃: ἀυτὴν αὐτὸ] O₂O₃** τἀυτὸν **7 ἀεὶ] O₂O₃: ἀὲι θαυμαστόν] O₂O₃: θαυμαστὸν ἀρίστη] O₂O₃: ἄρίστη 10** αἰὼν] O₂: ἀιὼν O₃: **αιὼν**
+
+S. 416, **: ἀυτὸ 3 κατά] O₂O₃: κατα 4 ταὐτὸν] O₂O₃: 8 δέ**] O₂O₃**: δὲ 9 αὐτὴν] O₂: ἀυτὴν O₃: ἀυτὴν 11** θεός] O₂O₃**: θεὸς**
+
+S. 419, **4-529** 28] s. *Editorischer Bericht* S. 476 **6** geringe Vorstellung *unter gestr*. phys. Vrh.; *über* <phys. Vrh) versehentl. nicht gestr. s. geringe *aus* Geringe des Denken *über der* Zeile 7 a) vor der Zeile hinzu**gesetzt** Anatomie] Anat.
+
+S. 419, **8** Theologie] Theol. Kirchengeschichte] Kirchengesch. Einfluß ***aus* Ein**flus Wirksamkeit] Wirks.
+
+S. 419, **10** Gegenständen] Ggstnden selbst] sel **11** Interesse der *unter der* Zeile **11-12** das edelste Göttliche in Kurzzeilen auf der rechten Blatthälfte
+
+S. 419, **11** das *aus* E der] **ds** 12 Aristoteles] Arist. Kenntniß] Kenntn. *(davor gestr*: Ar(?)) 13 auch *unter* der Zeile vom *aus* von 16 buchstäblich unter der Zeile **17-18** im Kopf... gewinnen. in drei zunehmend längeren Zeilen auf der rechten *Blatthälfte* 17 vergangen] verga. *(aus* vers) 19 Empfindung] Empf. 20 Leidenschaft] Leidensch. (unter der Zeile) Menschen, Mut Krieger *über* letzte Punkte; Mut (?) schräg *unter* Krieger **21** Grundsäze unter *der* ***Zeile***
+
+S. 420, 2 verwikelt *aus* arm **2-4 in** diesem ... Manuskript) in unregelmäßioen Kurzzeilen und ungleichen Schriftgrößen auf der rechten Blatthälfte
+
+S. 420, 2 **3** Wissenschaft] Wiss. Manuscript] Mst *s*. Editorischer Bericht S. 477
+
+S. 420, 2 **4** Bestimmungen] Bestimmungen sogleich] sogl. näher] nä. Manuscript] Mst **5** Gleich über der Zeile Gegenstand *über der* Zeile **6**$ 20 über der Zeile Denken] Denk *(aus* Dens) **7-8 - Kate**gorien ... fähig - in etwas dunklerer Tinte .7 Wissenschaften] Wissensch. räsonniren] räsonn.
+
+S. 420, 2 **9** wenigstens] wenigst. 10 Interesse] *folgt gestr*. *unleserliches Wort* 11 Resultat] Res**. 12** Denkformen] **Denk**foren Formen] F. 14 Besondere Kräfte *über* der Zeile
+
+S. 420, 2 **15** noch *schräg unter* nicht SUBJECTIV] SBJV (links am Rande)
+
+S. 420, 2 **16** Abstraction] *davor gestr*: Ο
+
+S. 420, 2 **19** überhaupt] *folgt gestr*: **( 21** mannigfaltige] mannigf. *(aus* mannif)
+
+S. 420, 2 **22** Geschichte] Gesch. Alexanders] Alex. **24-26** Ein anderes die in etwas dunklerer Tinte hinzugefügt
+
+S. 420, 2 **25** Unterschied] Unt. 26 Sittliches *aus* sittlich das ist recht über der Zeile Einheit] Eht
+
+S. 421, reine Gedanken *über der* Zeile Haus**] H^s 3** die Geschichte Roms *über* der Zeile Alexander] Alex. ganzer Lebenslauff ***unter*** (Individuum Alexander) **4** Verständige Bestimmung... fassen; *weiter* oben links am Rande Bestimmung] **Bestiuung 5** Concreten] Concr. lebendigen] leb.
+
+S. 421, **6** aufmerksam] **auf**merks. vorhanden] vrh.
+
+S. 421, **7** Noch **zu** b links über der Zeile ist] *folgt* ***gestr***: ẞ in Aller Vorstellung *über* der Zeile mit Einfügungszeichen **8 blau** Mensch, -] *(1*) Rose *(2) Text* (Rose[,] unter der Zeile mit Einfügungszeichen) Thir aus S Mensch *aus* N itzt unter der Zeile
+
+S. 421, **9** Leben *aus* Lebnd Abstraction] Abstr. *(aus* abstr.) 10 das *aus* des 13 Gränzen] vielleicht auch zu lesen: Genügen **14-17** Gefühl, Anschauung... wiederherstellen *auf der rechten Blatthälfte in* unregelmäßigen Kurzzeilen in kleiner werdender Schrift bis zum unteren Rand
+
+S. 421, **14** Mannichfaltigkeit] Mannichf. empirisch] empir. (aus ?)
+
+S. 421, **15** vollständig] vollst.
+
+S. 421, **15-16** vernünftige] vern. 16 Concretes] Concr. 18 a) unmittelbar Stoff *unter* der Zeile mit Einfügungszeichen Verhältniß aus v **18-19** Sohn, Erzeugen... **Recht** in kurzen **gebo**genen Zeilen 19 geistig] geisti ẞ) einfach links unten am Rande **20** einfacher Gedanke weiter unten mit Einfügungszeichen einfacher] einf. 20-22 diese Methode ... davon weiter unten mit Einfügungszeichen 20 Methode] Met. Geschultheit,] Geschultheit
+
+S. 421, **21** Erfahrung] Erf. Wahrnehmung] Wahrn. 22 hier] davon hier
+
+S. 421, **23** Allgemeines] Allgs selbstständig] selbstst.
+
+S. 422, 1 Anmerkung] Anm.
+
+S. 422, 1 **2** Allgemeinheit] Allgth vereinzelte ***aus* vereinzelt** *(Schluß*-e unter der Zeile) Bestimmung unter der Zeile **3-4 Logik** REINE zuerst *links* am Rande
+
+S. 422, 1 **3** als *aus* eben 5 Beziehung] Bez. **6-7** Blau, Begriff vernichtet rechts am Rande **6** GEDANKE *über* der *Zeile*
+
+S. 422, 1 **9** müßte aus muß s (davor gestr. s(?)) sogleich] sogl.
+
+S. 422, 1 **10** Selbstständigkeit] Selbstst. Unmittelbar] **Un**mittlb sinnlicher] *davor*, *von* der Zeile abgesetzt, *gestr*: sinn
+
+S. 422, 1 **12** Bewegung,] Bewegung 13 BEZIE-**HUNGEN** der aufeinander rechts am Rande mit Abgrenzungsstrich
+
+S. 422, 1 **13-14** eigene Thätigkeit **gegeben-**] *(***1**) Vorstellung gegeben *(2*) eigene Thät[igkeit] Vorstellung **gegeben *(3) Text*** (Inhalt Stoff der *unter* der Zeile mit Einfügungszeichen)
+
+S. 422, 1 **14** unmittelbar] *folgt gestr*: **Uns** nicht damit aufhalten H[au]pts[ache] 15-16 denkendes] denkdes 16 Beziehung] Bez. wenn ich mich] (*1*) wenn's sich (2) *Text*: wenn (ich *unter* der Zeile und in 's *hineingeschrieben*) mich (unter versehentl. *nicht gestr*: sich) 18 Vorstellung - **Vorst**. 18-19 unbekanntes Land Unterstreichung unvollständig
+
+S. 422, 1 **20** schlechthin.] schlechthin Denken *unter* mit Begriff
+
+S. 422, 1 **21** angehen *aus* angeh(?)
+
+S. 422, 1 **22** Inhalt] Inha **22-23** will beym ... bleiben links vor dem Abgrenzungszeichen
+
+S. 422, 1 **24** denkendes] denkds einer] r andern *über* der
+
+S. 422, Zeile
+
+S. 422, **25** denkendes] denk. Gedanke] Ge. bestimmt] bestt
+
+S. 423, **3-6** α) ***ob***] ***folgt***
+
+S. 423, 1 verhalte ] verhalte. in aus ?
+
+S. 423, 1 **2** Verwandlung] Vrw **3** zwey Sprachen Gegenstände**... Gedanken *in*** Kurzzeilen mit hellerer Tinte auf der rechten Blatthälfte **gestr**: sie
+
+S. 423, 1 **4-5** Hauptsache] Hpts.
+
+S. 423, 1 **5** Aüssres] Aüssr **7-9** Wach... Allgemeinen links am Rande 7 Gedanken *aus* Denken
+
+S. 423, 1 **8** §22] im *Manuskript unterstrichen*
+
+S. 423, 1 **10** Ich] *folgt* ***gestr***: Denken Drücke die auf links am *Rande* Allgemeinheit] Allgtt 10-11 Denken uns Thätigkeiten rechts oben am Rande und in Fortsetzung der ersten Zeile 11 Thätigkeiten] Thätigkt **11-12** Denk**'** ich... gedacht ***in*** *etwas* hellerer Tinte links oben am äußersten Rande, teilweise in Ich hineingeschrieben **13 a**) eigne... nicht Zeilen eigne] egne 14 unterschieden] untrsch.
+
+S. 423, 1 **15** Religion] Relig. *(kaum leserlich*) vrh. überhaupt *schräg vor der Zeile* unterschiedliche] untersch. 17 seines] s's denkenden] denk. **Ver**haltens] Vrh.
+
+S. 423, 1 **18** Ingredienzen] Ingred. heteronom *unter der Zeile* **BEZIEHEN**] BEZ 19 a) unter der ***Zeile*** 21 weiß nicht unter der **Zeile** 21-22 Moment angehört *auf* der rechten Seite in Kurzzeilen angeschlossen
+
+S. 423, 1 **23** gemeinschafftlich] gemeinsch. *(über* Allg^s) sich *aus* **bz 24** beziehen] bez. **Einzeln**heit] Einzelnh
+
+S. 423, zwischen den 16 verhalten]
+
+S. 424, 2 Darüber am oberen Rande mit *hellerer Tinte*: Bewußtlos, schwach von Erfahrung, **Wahr**nehmung
+
+S. 424, 1 Mich kehren... Denkens *über der* Zeile Denkens unter gestr. d(?) **2-3 Vorher** denken... **Ent**schluß *unter* § 21 Beobachtung - (Zeile 10) mit Einfügungszeichen
+
+S. 424, 1 **2** nach] ***darüber gestr***: vor(?) einem] e. **3 Zu** Allen... Köpfe **- in zwei** Kurzzeilen an die abgebrochene Zeile angeschlossen **3-4 Auch in... Reli**gion links am Rande 4 positiver] posit. es] *davor gestr*: gibt
+
+S. 424, 1 **4-5** unmittelbar] unmittlb.
+
+S. 424, 1 **5** ein am Rande unter unmittelb[ar] brauchen nur Hören *auf der* linken Blatthälfte in zwei Kurzzeilen **5-7** Wissen wie ... hat *auf der* rechten Blatthälfte in gewundenen, kürzer werdenden Zeilen 7 Natur *unter* Philo**sophie** schwerer] schwre wilde] milde
+
+S. 424, 1 **8** Nachdenken] *darüber gestr*: nicht 9 Wissenschaft] Wiss. 10 Beobachtung-] ***folgt gestr***: nu
+
+S. 424, 1 **11** Auf *über* der Zeile diß aus Dis negative] negat. 12 der Wahrnehmung] d. **Wahrn**. Das ***über der* Zeile 12-13** Unwesentlichem] Unwes.
+
+S. 424, 1 **13** trennen, welches ist. zwischen den Zeilen
+
+S. 424, 1 **14** Wahrnehmung] **Wahrn**. 16 Moment] Mom. Welt,] **Welt** 17 Ich denke
+
+S. 424, gesezt] (1) Gott *(****unter*** erschaffe *am* Zeilenende) (2) denke Gott *(****3***) Ich denke Gott *(*4) ***Text*** (-rein von mir gesezt *unter* Ich denke Gott) mein] m. 19 die subjective Reflexion] d. subj. Refl. **20** des Menschen *über der* Zeile 21-22 unmittelbare Anschauung ***schräg über*** intellect. Anschauung **22 in**tellectuelle Anschauung *links* am Rande intellectuelle] intellect. 23 Bewußtlos] Bewßlos schwach ***aus*** schwarz (?)
+
+S. 425, 1 Links am Rande: Höre die Frage **nach Gedanken** als im Verhältniß Wahrheit ein Verhältniß Subjective Gedanken
+
+S. 425, meinerseits] **mrseits 4 - Natur**] *davor gestr*: §2*(*?) Wirklichkeit *schräg unter* Natur
+
+S. 425, **5** Objectivität] Objtät Wahrheit *über der* Zeile
+
+S. 425, **6** Nein,] Nein *(über gestr*: D) sind *aus*, **in 7** komme *aus* kommen (en *als* **Kürzel) 7-8 Aüssere**... Erfahrung; *vor und* schräg unter der *Halbzeile* erst aus... lieffert
+
+S. 425, **8** lieffert] folgt gestr: d den Stoff, ***rechts*** unter der Halbzeile Material ***unter*** den Stoff,
+
+S. 425, **9-10** (Philosophie **... Er**kennen)] Philosophie über das **Erk** (Philosophie ... **Erk** *vor und über* macht) 10 Wahrheit, Definition derselben *in* hellerer Tinte links am Rande mit Abgrenzungszeichen Definition] Defin. 11 Untersuchung der *unter der* Zeile mit *Einfügungszeichen* wichtig[,] höchstes unter der Zeile 12 Controversen] Controvers 13 Gegensatz unter der Zeile Bestimmtheit] Bstht
+
+S. 425, **14** wie] *folgt* versehentl. nicht gestr: **zu** zur aus **zu** Bestimmtheit] Bstht *(aus* Bst. -) 15 verhält es *aus* erhalte d. *(*?) 16 Subjectivität] Sbjtät
+
+S. 425, **17** Objective] Obje 19 Reiche] R^e Denkens,] Denkens woher] *davor gestr*: - ob mit Abgrenzungsstrich Verfahren *aus* verfahren
+
+S. 425, **20** des Denkens *Unterstreichung* unvollständig damit] *davor* gestr: dabey Analyse-] Analyse *(über* der Zeile mit Einfügungszeichen)
+
+S. 425, **21** Immer *über der Zeile* 22 Gegensaz] **Ggsz** von] *davor* gestr: **z** Subject] Subj. 23-24 Höre die... Verhältniß *in* hellerer Tinte hältniß] Vrhältn.
+
+S. 425, **24** Verhältniß] Vrhältn Subjective Gedanken in dunklerer **Tinte**
+
+S. 425, 23 **Ver-**
+
+S. 426, 3 **α**) ... Gedanken *über der* Zeile **5-**Itzt ists Tag *durch* geschlängelte Linien *mit* Aufschreiben, - Aufbewahren (Zeile 8) *und* Was Leben Arzneymittel (Zeile 9-10) *verbunden* Widerspruch] Widerspr**. 6-7** des Allgemeinen ... Einzelnes *rechts unter* der Zeile
+
+S. 426, 3 **8** Aufschreiben] *davor gestr*: Prz *(*?) **9-10 Arz**neymittel rechts unter der Zeile **11-12** (unbestimmtes, Art) ... Veränderungen *an die* Zeile angeschlossen und in Kurzzeilen rechts unter der Zeile
+
+S. 426, 3 **11** unbestimmtes,] unbesttes Art] kaum leserlich (aus N) **empi**risch] empir.
+
+S. 426, 3 **13** Dann *aus* G lebendiges] Indiges 15 Abstraction] Abstractung (ung als Kürzel) die] d. (*aus* f) weg] wegen *(*en *als* Kürzel) 16 Abstraction] Abstraction, übereinstimmen] übereinst. 17 Blosse,] Blosse *(unter* Reine) Reine] R^e Objecte] Obje Natur] Nat. 20 Substanz] Sbstz logischen *über der* Zeile
+
+S. 426, 3 **21** ẞ)] davor *gestr*: A Anmerkung] Anm. Urtheil] Urth**. 23 Emp**finden] Empf. Subject] Subj. Object] Obj. Einheit] Eht Vielheit] Vielht *(aus* Vieht) Demokratie] Demok**. 24** Mittelbarkeit] Mittelb. Unmittelbarkeit] Unm. *(aus* unm.)
+
+S. 426, 3 **25** Seele einfach] (*1*) Sein (f. in der Zeile angeschlossen) (2*) Text* (eele - *schräg* unter ein an S angeschlossen) zusammengesezt] zus.geszt Entweder] Entw. *(davor gestr*: W)
+
+S. 427, Substantielle] Sbsttielle
+
+S. 427, **15-16** Subjectivität] Sbjt
+
+S. 427, **8** Geschichte] Gesch. kurz] kuz **9** Widerwille *über* **a**) innre ***aus*** Innre *über der* Zeile mit Einfügungszeichen **9-10** Gedanken aus *rechts* unter der Zeile 10-11 gegen Natur ... Gewalt - *weiter* unten rechts am Rande mit Einfügungszeichen
+
+S. 427, **10** Zauberey *aus* **Zau**bey (?)
+
+S. 427, **11** Absolutes] Absol.
+
+S. 427, **12** § 37] davor gestr: D
+
+S. 427, **13** Wahrheit *aus* T von ***aus* v**. d**. Objectivi**tät] Objvtät *(davor* gestr: Obj) Empirismus] Emp. 14 15 Revolution] Revol. Unendlicher] Un unter der Zeile Gegensaz] Ggsz 16 Objectivität] Objvtät (aus Objt) 17 metaphysischer] metaphy. 18 Erkennen] schräg darunter *gestr*: Krite zum] **Z**. 19-20 Alte Kriterium Wahrheit links am Rande
+
+S. 427, **19** Kriterium *schräg über* Alte - **Erken**nen] Erk. 21 Kantische] Kant.
+
+S. 427, Sinnliches] Sinnlich (lich *als Kürzel*) Übersinnliches] Übersinnlich (lich *als Kürzel*) Materiell] Mater. 3 anderes -] anderes 5-8a) 19-244 §§ ... beysammen *in* etwas hellerer Tinte 5 Erkennen] Erk. 5-6 die Sätze, Begriffe *unter der* Zeile 5 die] *davor gestr*: fest 6 bestimmt] bestt Wissen] Wiss. Denkens -] Denkens Logik und Metaphysik *über* der Zeile 6-7 Vielerley Philosophie [-] unter der *Zeile* 7 welche? *(Fragezeichen schräg unter* welche) doch unter der Zeile der Tradition *unter der* Zeile mit Einfügungszeichen Tradition] Trad.
+
+S. 428, 1 Theologie**] Theol. 1-2** unendlich hintendrein... Erkenntnißweise] *(1*) unendlich hintendrein / Ersch. / Nicht Veränderung diese **Erk.weise** *(2*) ***Text*** (Ersch. *durch schräg über* diese *eingefügtes* **ob *zu* Veränderung zugeordnet) 1** Veränderung,] Veränderung
+
+S. 428, 1 **3** ganzes] gazes Feld von versehentl. zusammengeschrieben und durch *Abgrenzungsstrich voneinander* getrennt 4a) Transcendental *über der Zeile* Transcendental] Trsendal *(nur die Endsilbe unterstrichen*) Quelle des Transcendentalen *links* am Rande mit Einfügungszeichen Transcendentalen] Transc. β) aus α)
+
+S. 428, 1 **4-5** Vereinfachung] Vereinf.
+
+S. 428, 1 **5** Verknüpfung] Vrkn. Mannichfaltigen] Mannichf
+
+S. 428, 1 **5-6** gleichfalls] glfalls
+
+S. 428, 1 **6** betrachtet,] betr. Thätigkeit] Thät.
+
+S. 428, 1 **7** γ) aus **β**) **9 Ka**tegorien] Kat. betrachtet] betr. das unter der Zeile Unwahre *aus* **unwahre** 10 β)] β)) sie] s 13 neue Ausgabe links oben am äußersten Rande in hellerer Tinte **14** und Metaphysik *schräg über* willkührlich wählen
+
+S. 428, 1 **15** Gegenstand] Ggstand willkührlich wählen *über* der Zeile willkührlich] willkühlich 16 derselben *aus* desselben **17** Denkenden Menschen unterscheiden links am Rande **19-429,1** des Magnetismus ist links am Rande
+
+S. 428, 1 **19-20** Magnetismus,] Magn.
+
+S. 428, 1 **20** Electricität,] Electr. Staab frey schweben *unter* der Zeile mit Einfügungszeichen
+
+S. 429, 131 **b**
+
+S. 429, Raums] R's **Dimensionen] Dimens**. Zeit] Zt Zukunft] Zuk. Gegenwart] Gegnw. **2 Vergan**genheit] Verg. Gegenwart] Gegnw. Zeit] Zt **3** aller erste... Rechts *unter der* Zeile mit Einfügungszeichen aller *Endsilbe verkleckst* Eigenthum] Eigenth.
+
+S. 429, **4** ist] *davor* ***gestr***: soll Eigenthums] Eignth. 5 eine **andere**... zukommend –] *(1*) Gegenstand, / als zu ihm hinzukommend (in zwei Kurzzeilen *auf der rechten* Blatthälfte) (2) ***Text***: ([ein]e andere, GESEZT *vor* als *hinzugefügt*) als Gegenstand, dazu *(unter* als) **zu** ihm <hin)zukommend nicht sehr wichtig
+
+S. 429, 6 aüsserlich aus Un (?) Eigene Bestimmung Sache *über* ***gestr***. 8) diß nun 7-8 Nutzen; EINLEITUNG heraus *rechts* am Rande
+
+S. 429, 6 **7** EINLEITUNG] EINL.
+
+S. 429, 6 **8** Professor] **Prof. 9** auf *über der Zeile* Autorität,] Autor. *(*aus **K**.) **Kopf**] *davor gestr*: **gut** 10 trokner] trokn
+
+S. 429, 6 **11** andern] and
+
+S. 429, 6 **13-15** die formelle lernen ] (1) Formelle Bildung, Verfahrungsweisen der *(aus Gedankenstrich*) Wissenschaften] - Schliessen Geurtheilt - *(*2*) Text*: die *(über* der Zeile) formelle ***(aus* Formelle**) Bildung, - (und auch mit der Manier, Formen, *in der* Zeile angeschlossen) **allgemeine *(vor*** der nächsten Zeile) Verfahrungsweisen der Wissenschaften] – Schliessen Geurtheilt-
+
+S. 429, weit *unter gestr*. viel urtheilen, links oben am äußersten Rande
+
+S. 429, **20** Zeiten] Zten eine]'e andre]
+
+S. 429, **22** geht] *davor gestr*: nur *(über* der Zeile) eine **paar] p. Jahre] J**.
+
+S. 429, **folgt gestr**: **Bed**
+
+S. 429, 21 Bedürfniß] Bed.
+
+S. 430, 1 Aristoteles) Aristot. Geometrie] Geom. **1-2** Mathematik unendlich Geometrie in zwei Kurzzeilen an die Zeile angeschlossen
+
+S. 430, 1 **1** Mathematik] Mathem
+
+S. 430, 1 **2** Geometrie] Geo allerdings] allrd. eine] **e 3** Natur] N. **4** wodurch diß *unter* der *Zeile* den *aus* der concretesten *unter* der Zeile *mit* Einfügungszeichen
+
+S. 430, 1 **5** Bedürfnissen] Bedürfn. *(folgt gestr*: des Geistes) diß] *zuerst* Gedankenstrich **6 Bedürf**niß] Bed. Einleitung) Einl. weitlaüffig] weitlaüff.
+
+S. 430, 1 **7** Theologie, Religion *links* am Rande in hellerer Tinte 8 weg1] w unter der Zeile 9 nicht] *davor* ***gestr***: sosehr war *unter der Zeile* überzeugt] übrz. 10 Wahrheit] Wahrh. durch *über der* Zeile **11** lustig unter der Zeile mit Einfügungszeichen endlich unter der Zeile **12** Haüsern *aus* Haüss 13 heiligsten festesten *unter* der *Zeile* heiligsten] heil. **13-14** der Wirklichkeit *über gestr*. sind **《》** 14 Lebens *unter* der Zeile compromittirt] comprom. worden] waren nunft2] Vern
+
+S. 430, 15 Staat ***aus* W** in] i bestimmten] best. positiven] pos. 16 Vernunft1] Vern. Ver- 17 Griechischen] Griech. Philosophen] Philos. 18 Staatsverfassung] Staatsverf. **in- 20** religiösen] **relig**. Glauben] Gl.
+
+S. 430, direct] indir.
+
+S. 430, 19 Verfassung] Vrfass Richterstuhl] Richtrst.
+
+S. 430, 23 Bedürfniß] Bed.
+
+S. 430, 23 **25** zu2] *davor gestr*: leist
+
+S. 431, 1 **affirmativ**] affirm *(davor* gestr: im)
+
+S. 431, 1 **3** negiren] neg. Aufmerksam] Aufmrks. (**mrks**. ***schräg*** unter der Zeile angeschlossen) 3-4 ERKENNEN **- ERK**. ***(folgt gestr***: Denken**) 4** Unterschied] Untrsch. aber wesentlich *unter* der Zeile wesentlich] wes. DENKENDES] *zuerst*: denkendes Erkennen] Erk
+
+S. 431, 1 **5** Erkennen] Erk. eine] **e 6** sich *aus* diß (?) rechtfertigen] *davor* ***gestr***: man zuläßt, u 7 nun über der **Zeile** rechtfertigen] rechtfert. **8 so schräg vor** der Zeile Erkennen] **Erk**. untersuchen] untrs Gottes,] G\wedgeS reine] **re** *über* der Zeile 9 Erkennen] **Erk**. untersuchen *über der Zeile* diesen] davor *gestr*: **r** 10 Gegenständen -] *folgt* versehentl. nicht gestr: **zu 11 €**) Interesse isoliert vor den Zeilen 12 Erkennen] Erk. zunächst *unter* der Zeile
+
+S. 431, 1 **14** Erkennen] Erk. eines] ^s
+
+S. 431, 1 **15** Christus] Chr. *(aus* s) Pilatus] Pil.
+
+S. 431, 1 **16** eine] e Erwiederung] Erwiedung Geschichte] Gesch. Christi] **Chr**. 18 nur unter der Zeile Überzeugung] Übrz. er] **r 20** Verhältniß des Gegenstand über gestr. Dem sey nun **wie ihm wolle Resultat** *aus* D
+
+S. 431, 1 **21** unschuldig] un-/schuldig **21-22** Schullogik - **Ver**achtung *vor* ***der*** Zeile in hellerer *Tinte*
+
+S. 431, 1 **23** Religion,] Religion des ***aus* des** (*Schluß*-s aus Lang-s) **Grundsät**ze der Moral rechts unter der Zeile Grundsätze] Grunds. Logik unendliche *schräg über* Form (Zeilenbeginn)
+
+S. 432, 1 Inhalt, aus Inhalts
+
+S. 432, 1 **2** abstrahiren] abstr. schliessen *(*chl *aus* P *oder* f) **3 noch** *über* versehentl. nicht ***gestr*****. do 4** formale] form.
+
+S. 432, 1 **4-5** Scholastik] Scholast
+
+S. 432, 1 **5** der *aus* des 7 in neuern Zeiten *über* der Zeile solche] s.
+
+S. 432, 1 **9** Christenthums] Christenth. 10 logischen**] log**. *aus* **Log**. 10-11 Nicht unbekümmert**... Logik *links*** am Rande mit Einfügungszeichen (versehentl. zu Form ***zugeordnet***) 11 wie formale] wie form. *(****darüber*** gestr: W) 11-12 Voraussetzungen, die an unter der letzten Zeile mit Einfügungszeichen 12 Formen unter der Zeile (aus **des**) Logik] Log. (**aus S**) scheint *über* der Zeile 13 Interessantester] Intersttr ***(aus*** Int.) Gesichtspunkt] Gesichtsp. **Denken**,] Denken **Verhält**niß über der **Zeile 14** Inhalte *unter* **Wahrheit[**,] Einleitung) **Einl 17** 3te... 244 links oben am äußersten Rande in bräunlicher *Tinte*
+
+S. 432, 1 **18** Gegenstand] *darunter* ***gestr***: So groß nun **d. Ggst(**?) 18-20-und Inhalt Bewußtseyn spätere Ergänzung in teilweise sehr kleiner Schrift 18 und *über* der *Zeile* **19 s**. 29 schräg über **umgekehrt *mit*** Einfügungszeichen Sinnliches *über* der Zeile
+
+S. 432, 1 **20** ins Bewußtseyn **rechts am Rande** Bewußtseyn] Bwts
+
+S. 433, 1 Menschliche weiter unten links am Rande Ursprung] **Urspr**. *(darunter gestr*: **so** sche) **und** Meta**physik** unter der Zeile
+
+S. 433, **1-2** beydes Gedanken *schräg* unter und Metaphysik 2 Bestimmungen] Bestimungen und Formen *rechts* unter der Zeile **3-4 (Logik**, Begriff**... Inhalte**.) *auf* der rechten Blatthälfte in Kurzzeilen mit feinerer *Feder*
+
+S. 433, **3** wie über der Zeile ista *unter der* Zeile
+
+S. 433, **4** nicht] (nicht
+
+S. 433, **5-6** Metaphysik **[hat**]... Begriff *auf der* Blattmitte in Kurzzeilen, in teilweise sehr kleiner *Schrift*
+
+S. 433, **5** Metaphysik] Met. objectiven] obj *(über* der Zeile) als] *davor gestr*: b **7-9 in** Allem Bewußtlosigkeit *auf der* linken Blatthälfte in länger werdenden Zeilen
+
+S. 433, **7** Ursache] Urs. kein] **k**. **8** als unter der **Zeile** d. **i**. Ich unter der Zeile 8-9 Bewußtlosigkeit] Bewußtls. 10 vernünftige] vern. Arten von *unter* der Zeile Zusammenhängen] Zus.
+
+S. 433, **10-11** Ursache] Urs.
+
+S. 433, **12** Aristotelische] Aristot. 15 Identität,] Ident. Widerspruchs] **Widrspr**. 15-18 Abstracte Identität Continuum rechts am Rande in unregelmäßigen Kurzzeilen **15 Identität**] Id. Vernunft] Vern
+
+S. 433, **16** Vernunft] Vern. die **Pflanze ... Nord**licht] die *(*1) Pfl. (**Pothos**) *(2*) Pfl. (Wesen des Nordlicht *über gestr*: (**Pothos**)*) (****3***) ***Text***: Pfl. [,] Wesen Grund (am Rande mit Einfügungszeichen) **des** Nordlicht
+
+S. 433, **16-17** Übereinstimmung] Übereinst. 17 Identität] Id. Widerspruch] Widrspr.
+
+S. 433, **18** Continuum] Contin. 19 Metalle] Met. **elek**trische] elektr.
+
+S. 433, **20** Einzelne -] Einz. das *über* der Zeile
+
+S. 433, **21** seiner1] sr Existenz] Ex.
+
+S. 434, 1 angenehm] angen. Mahler grünen Teint ***über*** diß Gesicht grün
+
+S. 434, 1 **2** dieser See (Sumpf) *rechts* unter der Zeile Grün] Gr**. 3** empirisch] empir. EINE] E Eigenschaften] Eignsch. andern] andn widersprechend *aus* W **4-8** So groß... locken. links am Rande und zwischen den Zeilen **4 So** groß **der** *weiter* oben am Rande mit Einfügungszeichen auch aus? Aristoteles - **Arist. 5** Universitäten] Univ.
+
+S. 434, 1 **6** elementare] element. Schulweisheit] Schulw.
+
+S. 434, 1 **6-7** müssen eben *unter* lat. lernen **8 Der] der** *(*links am Rande über Schule) concreten] concr. bestimmt] bstt
+
+S. 434, 1 **10** vernünftig] vern**. 12** gedankenlos – zwischen den Zeilen gesetzt unter der Zeile mit Einfügungszeichen 13 den aus das
+
+S. 434, 1 **14** Aüsserung] Aüss. ebenso *aus* eben, 15 Krafta] Kraf **15-16** so Innres Inhalt *links* am Rande in zwei Kurzzeilen 15 wahrhafter] wahrh.
+
+S. 434, 1 **19** Kraft] Kr.
+
+S. 434, 1 **20** noch Formunterschied *schräg vor* der Zeile Formunterschied] Formuntersch. *(aus* Formut) mangelhaft**] mangelh. 21** γγ)] **folgt** gestr: αα) (darunter **gestr**: ββ)) nur *über* der Zeile mit Einfügungszeichen Inhalt
+
+S. 434, lateinisch] lat. **9** wahren *aus* wahrh
+
+S. 434, unter der Zeile mit Einfügungszeichen untrennbar] untrennba
+
+S. 435, **1** Innres und Aüssres *über* der *Zeile* Innres] Innr. identisch] ident. Vernunft] Vern. **2** Innres
+
+S. 435, über der Zeile **4 Innres ist** ... sich links am Rande Einheit] Eht
+:::

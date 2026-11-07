@@ -1,0 +1,35 @@
+---
+title: A su Excelencia el Marqués
+author: José Vasconcelos
+year: 1925
+original_language: es
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: José Vasconcelos, *A su Excelencia el Marqués*, *La Antorcha* (México), issue 2 of the 16 in the e-book (e-book p. 43); Apple Books e-book sold as ‘Voyage de Thomas Gage, Tome II’ (José Vasconcelos; Secretaría de Cultura / Dirección General de Bibliotecas, 2016; Apple Books id1160615476), which holds *La Antorcha*, late 1924 to spring 1925; file Cultura0036A_Part03.xhtml. The issue is undated in the e-book; dated by the latest dates it prints (1925).
+original_text: the e-book's transcription of the magazine (Dirección General de Bibliotecas), uncorrected; no page images; headings and bylines kept where the e-book has them; the magazine is the authority
+translation: none
+rights: public domain in the US (published in La Antorcha, 1924–25, pre-1930); Vasconcelos died in 1959, so in Mexico the text stays protected to 2059. The e-book (DGB, 2016) adds no editorial text, only a transcription.
+pages: 1
+genre: Latin American philosophy
+collection: José Vasconcelos, La Antorcha writings 1924–1925
+order: 2
+generated: 2026-11-02 from the Apple Books e-book (issue #98)
+public: true
+---
+
+# José Vasconcelos, *A su Excelencia el Marqués* (1925)
+
+Conventions: `[PDF N]` marks where page N of the e-book begins (the e-book numbers the volume's pages 1–529; the magazine's own folios are not given); `## ` a heading as the e-book sets it; paragraphs as the e-book has them. Uncorrected transcription: the magazine is the authority. This folder is the source: corrections go into its original.md.
+
+[PDF 43]
+
+## *A su Excelencia el Marqués*
+
+Excelentísimo señor Primo de Rivera: En una carta que acabo de recibir de Tlacotalpam y bajo el rubro de: “Querido paisano”, se me pregunta por qué es que habiendo tenido el fácil atrevimiento de censurar al señor Mussolini y a algunos otros igualmente distantes, no la emprendo también contra usted? Agrega el firmante que precisamente por que está inspirado en un sincero amor a España, desea que usted sea exhibido, según lo merece, como enemigo de la patria española y, por lo mismo, como enemigo de toda, la raza iberoamericana. En realidad, no habíamos querido lastimar susceptibilidades porque deseamos que no se vayan a tomar los ataques contra un mal español, como parte de ese afán, que por fortuna ya va pasando, de censurar a la madre patria todos sus yerros, sin advertir nunca sus grandes aciertos en el campo de la civilización. Pero dice muy bien mi paisano, la suerte de los españoles que en estos instantes padecen bajo una tiranía sin gloria y sin genio, debe preocuparnos y debe ser objeto, por lo menos de nuestro comentario.
+
+El señor Marqués de Estella que usurpó el poder, con el pretexto de que los gobiernos civiles no podían con la campaña de Marruecos, vuelve ahora de Marruecos, más derrotado que todos los gobiernos que lo precedieron; pero noha regresado a Madrid, para presentar su dimisión, sino para avivar las persecusiones contra los enemigos del régimen espurio, que es su obra. Acaba de ser aprehendido, por ejemplo, nuestro bien recordado amigo, el escritor y tribuno socialista D. Marcelino Domingo, viejo adversario del militarismo español; otros muchos intelectuales ilustres están desterrados, la prensa sigue amordazada; en fin, el cuadro habitual de la tiranía, agravado por el fracaso de las armas del gobierno en el exterior.
+
+De verdad que estos gobiernos militares son un encanto: feroces en la guerra intestina, complacientes y cautos delante del enemigo extranjero; implacables con el vencido, si es de su sangre, pero muy blanditos con el extraño, si es poderoso. Los grados y los honores de la milicia, para que fueran menos odiosos, deberían reservarse para los hechos de guerra extranjera. La lucha entre hermanos puede ser necesaria, lo es a veces y puede dar honra, pero no gloria. La sangre hermana empaña, cubre de luto la espada; y el gobierno de un pueblo no es galardón de campaña, sino servicio que debe ser encomendado al más apto. Ahora bien, la guerra moderna demuestra que la clase militar llevada all gobierno, no sólo no gobierna, sino que no sirve ni para la guerra. El Directorio Militar lo ha hecho más mal en Marruecos, que todos los gobiernos civiles. Alemania, que era un cuartel, quedó vencida por Francia que es civilista, por Inglaterra, la tradicional enemiga del militarismo; por los Estados Unidos que no tenían ejército. Aun a la hora de la guerra, la clase menos útil es la clase militar; a la hora del peligro, los civiles van de vanguardia formando legión, mientras los generales se hacen un embrollo y sólo se salvan como se salvaron los aliados, dejando la dirección del gobierno y aun la dirección de la campaña en manos de los civiles. Dos escritores ilustres, Lloyd George y Clemenceau, ganaron las más grandes batallas de la historia, decidieron el triunfo contra toda la táctica de fuerza bruta del Estado Mayor alemán. Si en Alemania hubiesen mandado los civiles, por lo menos se empata la guerra. Porque la milicia en el gobierno, sólo sirve para oprimir, para fundar tiranías. El de la última guerra europea es el fracaso más sonado de la milicia. La única bella enseñanza que debemos a esta clase militar que ya debe mirarse como una cosa del pasado, fue el ejemplo, altamente civilista y patriótico de los dos generales más ilustres de la época: el Mariscal Joffre y el Mariscal Foch, que en vez de declararse salvadores de la patria, o encarnación de los destinos de Francia, se volvieron a su oficio, dejando el gobierno a los civiles y ganando con esto una fama mucho más alta que el laurel de la victoria.
+
+Doloroso contraste el de Primo que, no pudiendo someter moros, desahoga sus iras en indefensos periodistas y patriotas. Si no sirvió para la guerra, cómo va a servir para el gobierno que requiere capacidades mayores? Si aun para la guerra se necesita en estos tiempos de la amplitud de concepción, de la preparación técnica, de la cultura que sólo poseen algunos civiles, ¿cómo van a sostener su poder los generales? Primo de Rivera contesta: con la cárcel, con el destierro, con el terror que paraliza la acción noble y desorienta la conciencia colectiva.

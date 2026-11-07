@@ -1,0 +1,2235 @@
+---
+title: Aus und zu Malebranche, De la recherche de la vérité
+author: Gottfried Wilhelm Leibniz
+year: 1999
+original_language: fr
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the publisher's text layer of the typeset edition PDF (no OCR); the editors' apparatus fenced as ::: editorial; not collated by us against the scan; the printed edition is the authority"
+translation: none
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Aus und zu Malebranche, De la recherche de la vérité was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10165)
+---
+
+# G. W. Leibniz, *Aus und zu Malebranche, De la recherche de la vérité* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## 348. AUS UND ZU MALEBRANCHE, DE LA RECHERCHE DE LA VERITÉ [1686 bis 1699 (?)]
+
+Überlieferung:
+
+LiH Marginalien, An- und Unterstreichungen mit Tinte oder Bleistift (Tom. 3, p. 173 f. mit
+
+Rötel) in N. MALEBRANCHE, De la recherche de la vérité. Où l’on traitte de la nature de l’Esprit de l’homme, et de l’usage qu’il en doit faire pour éviter l’erreur dans les sciences. Quatriéme edition reveuë et augmentée, Paris 1678–1679: Leibn. Marg. 22.
+
+(Unsere Druckvorlage für den nicht eingezogenen Text.)
+
+L Auszug: LH IV 6, 6 Bl. 1–8. 4 Bog. 2o. 11 1/2 S. (Unsere Druckvorlage für den mit Einzug wiedergegebenen Text.)
+
+E ROBINET, Malebranche et Leibniz, 1955, S. 152–193. (nach L und den Marginalien mit
+
+Tinte aus LiH.)
+
+Malebranches’ Recherche hat Leibniz im April 1685 zu behuf der Fürstl. Bibliothec gekauffet (I, 4 N. 128). Die Datierung stützt sich auf das für 1686 häufig belegte sowie ein für 1690–1699 wenig belegtes Wasserzeichen; Leibniz mag den Auszug zunächst liegengelassen und später fortgesetzt haben. Er dürfte die Auszüge auf der Grundlage seiner An- und Unterstreichungen sowie seiner Marginalien in der Recherche gemacht haben. Um diesen Zusammenhang deutlich werden zu lassen, geben wir beides geschlossen wieder. Den vorangestellten an- und unterstrichenen Passagen aus der Recherche, deren Marginalien wir als Fußnoten unter den Text setzen, folgt dabei, durch Einzug gekennzeichnet, der jeweilige Auszug. Die Seiten der Ausgabe von 1678 und die der Oeuvres, Bd 1–3, hrsg. v. G. Rodis-Lewis, Paris 1962–1964, u. Bd 17.1, hrsg. v. P. Costabel, A. Cuvillier u. A. Robinet, Paris 1960, sind den entsprechenden Abschnitten von Text und Auszug vorangestellt, Leibniz’ Unterstreichungen durch Sperrung, Marginalien, An- und Unterstreichungen mit Tinte in . . . wiedergegeben. Die Stellenhinweise gehen in der Regel auf Malebranche zurück.
+
+PRÉFACE1
+
+[ad fol. A2 vo / 1, 9–11] L’union de l’ame avec Dieu est plus considerable [p. 1804] que l’union de l’ame avec le corps.Elle est plus estroite et plus essentielle, elle peut estre sans le corps, et ne sçauroit estre sans estre unie à Dieu. L’ame a esté plus tost faite pour connoistre et pour aimer Dieu, que pour informer le corps. L’union de l’ame avec Dieu est immediate, l’union de l’ame avec le corps n’est que par la volonté de Dieu. Nostre perfection ne peut estre attendue que de celuy qui est au dessus de nous. (+ Mais l’union de l’ame avec le corps est hypostatique, et celle de l’ame avec Dieu ne l’est pas. Ce sont deux hypostases. [ +)]
+
+::: editorial
+
+(zu S. 1803) 1 Auf der Innenseite des vorderen Buchdeckels: 2 extra (1) hominem (2) volentem L
+
+:::
+
+[ad fol. A8 vo / 1, 18] [note p] Augustinus in Johannem: animam humanam non vegetari, non illuminari, non beatificari nisi ab ipsa substantia Dei.
+
+[ad fol. A2 vo / 1, 10] [note b] Ad ipsam similitudinem non omnia facta sunt, sed sola substantia rationalis, Lib. imp. de Genesi ad lit.
+
+Rectissime dicitur factus ad imaginem et similitudinem Dei non enim aliter incommutabilem veritatem posset mente conspicere; De vera relig.
+
+[ad fol. A3 vo / 1, 11] [note c] Mens quod non sentit nisi cum purissima et beatissima est nulli cohaeret nisi ipsi veritati, quae similitudo et imago patris et sapientia dicitur, Lib. imp. de Gen. ad lit.
+
+[fol. A3 ro / 1, 10] Il est évident que Dieu ne peut agir que pour lui-mesme, qu’il ne peut créer les esprits que pour le connoître, et pour l’aimer; qu’il ne peut leur donner aucune connoissance, ni leur imprimer aucun amour, qui ne soit pour lui, et qui ne tende vers lui: mais il a pû ne pas unir à des corps, les esprits qui y sont maintenant unis. L’auteur est fertile en conceptions et malheureux en preuves. Tom. 1. Preface B. pag. versa, p. 13. p. 15. p. 16. p. 66 p. 73. p. 91. non habemus ideam claram animae p. 77. idea objectum immediatum p. 125. raisons finales seulement rendues [p. 1805] Ce n’est pas ici le lieu d’apporter toutes les autoritez et toutes les raisons qui peuvent porter à croire qu’il est plus de la nature de nô tre esprit d’ê tre uni à Dieu, que d’ê tre uni à un corps , ces choses nous meneroient trop loin. [ad fol. A5 ro – A6 vo / 1, 13–15] [note d] Anima non exigua hominis portio, sed totius humanae universitatis substantia est, Ambros. 6. hexaem. 7. [note e] Ubique veritas praesides omnibus consulentibus Te, simulque respondes omnibus etiam diversa consulentibus. Liquide Tu respondes, sed non liquide omnes audiunt, Confessio S. Aug. lib. 10, c. 26. [note g] Idem quod nec Hebraea nec Graeca nec barbara veritas, lib. 11, c. 3. [note h] Videtur quasi ipse a te occidere cum tu ab ipso occidas, Aug. in Ps. 25; ambobus (videnti et caeco) sol praesens est, sed praesente sole unus absens est, sic et sapientia Dei dominus J. C. ubique est praesens quia ubique est veritas ubique sapientia, Aug. in Joh. tr. 35. [ad fol. A9 ro-A10 ro / 1, 19 sq.] S. Augustin confesse d’avoir long temps ignoré la différence du corps et de l’esprit. [Confess.] lib. 4. c. 15. [ad fol. A10 ro / 1, 19] mé vues. Preface. [fol. A10 ro / 1, 19] On ne se contente pas d’y faire une simple exposition de nos égaremens et de nos mé vû ë s , on explique encore la nature de l’esprit. [ad fol. A12 vo / 1, 22] [note u] Nolite putare quenquam hominem aliquid discere ab homine. Admonere possumus per strepitum vocis nostrae, si non sit intus qui doceat, inanis fit strepitus noster, In Joh. [ad fol. B1 ro / 1, 24] [note x] Le livre de Magistro de S. Aug. [note y] Noli putare te ipsum esse lucem, Aug. in Ps. (+ Distinctionem Animae et corporis egregie explicat S. Augustinus cap. 10. libri X. de Trinitate et cap. 4, cap. 14 libri de quantitate animae. +) [fol. B1 vo / 1, 24] La principale raison pour laquelle on souhaitte extrémément, que ceux qui liront cet Ouvrage s’appliquent de toutes leurs forces, c’est que l’on desire d’être repris des fautes qu’on pourroit y avoir commises: car on ne s’imagine pas être infaillible. On a une si étroite liaison avec son corps, et on en dépend si fort, que l’on appréhende avec raison, de n’avoir pas toûjours bien discerné le bruit confus dont il remplit l’imagination, de la voix pure de la vérité qui parle à l’esprit.
+
+::: editorial
+
+(zu S. 1804) 3 L’union (1) du corps avec (2) de L
+
+8–10 AUGUSTINUS, In Johannis evangelium tractatus, tract. 23, 5. 11 f. AUGUSTINUS, Liber imperfectus de genesi ad litteram, cap. 16, 59. 13 f. AUGUSTINUS, De vera religione, I, 44. 17 dicitur: AUGUSTINUS, Liber imperfectus de genesi ad litteram, cap. 16, 59–60.
+
+:::
+
+::: editorial
+
+(zu S. 1805) 13 f. tr. 35. (1) De ipso carne Christi, Augustinus (2) Caro vas fuit (3) S. Augustin L
+
+4 f. AMBROSIUS, Liber Hexaëmeron, 6, 7. 19–21 AUGUSTINUS, In Epistolam Johannis ad Parthos tractatus, tract. 3. 23 Vgl. AUGUSTINUS, Enarrationes in Psalmos, 25, enarr. 2, 11.
+
+:::
+
+[p. 1806] [ad p. 1 / 1, 39] Lib. 1. cap. 1. Error miseriae humanae causa est.
+
+Attentione tantum opus est ut evitetur. Quaeramus causam errorum.
+
+[p. 2 / 1, 40] Il ne faut pas s’imaginer, qu’il y ait bien de la fatigue à endurer dans la recherche de la vérité: Il ne faut qu’ouvrir les yeux, se rendre attentif, et suivre exactement quelques régles que nous donnerons dans la suite.
+
+[ad p. 3 / 1, 40 sq.] Mentis facultates intellectus et voluntas. Intellectus recipit ideas, voluntas inclinationes. Idea est instar figurae, inclinatio instar motus.
+
+[p. 4 sq. / 1, 41–43] J’appelle donc simplement figure celle qui est extérieure, et j’appelle configuration, la figure qui est intérieure, et qui est nécessairement propre à la cire, afin qu’elle soit ce qu’elle est.
+
+On peut dire de même, que les idées de l’ame sont de deux sortes, en prenant le nom d’idée en général, pour tout ce que l’esprit apperçoit immédiatement. Les premiéres nous représentent quelque chose hors de nous, comme celle d’un quarré, d’une maison, etc. Les secondes ne nous réprésentent que ce qui se passe dans nous, comme nos sensations, la douleur, le plaisir, etc.
+
+Cependant je n’appelle pas les inclinations de la volonté , ni les mouvemens de la matié re des modifications, parce que ces inclinations et ces mouvemens ont ordinairement rapport à quelque chose d’extérieur; car les inclinations ont rapport au bien, et les mouvemens ont rapport à quelque corps étranger: Mais les figures et les configurations des corps, et les sensations de l’ame, n’ont aucun rapport né cessaire au dehors.[^1806-2]
+
+. . . que la faculté de recevoir différentes figures et différentes configurations dans les corps, est entiérement passive et ne renferme aucune action, ainsi la faculté de recevoir différentes idées et diffé rentes modifications dans l’esprit, est entié rement passive et ne renferme aucune action; et j’appelle cette faculté ou cette capacité qu’a l’ame de recevoir toutes ces choses, entendement.
+
+[ad p. 4 sq. / 1, 41–43] Ut duae sunt figurae, alia externa rei, quae proprie figura dicitur, alia interior, quam configurationem (+ texturam +) dicere possis; ita aliae ideae (id est objecta mentis immediata) externa nobis exhibent [p. 1807] (+ quatenus externis terminemur +) aliae nostras sensationes, et hae ideae posteriores nihil aliud sunt quam modificationes animae, secus priores (+ priores in Deo esse infra ostendere conatur, hoc parum probabile si non et de posterioribus dici potest +). Possunt quidem inclinationes motus mentis, et motus materiae inclinationes dici, sed non ita apte, quia ad externa referuntur. (+ Turbatur nonnihil opinio autoris, ex eo quod ideas distinctas ut quadrati vult extra nos esse in Deo,[^1807-3] confusas in nobis, non bene ergo respondent figuris, quae licet externae, sunt tamen in materia. +)
+
+[^1806-2]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1806) 30 possis (+ ergo ideae illae in nobis non in Deo, si respondent figuris materiae +) erg. u. gestr. ; ita L
+
+:::
+
+Intellectus porro est facultas passiva, voluntas activa (+ mihi videtur omnis sensus seu perceptio involvere quandam affirmationem eamque a voluntate independentem +).
+
+[p. 6 sq. / 1, 44] . . . l’esprit ne reç oit point de changement par la diversité des idé es qu’il a; je veux dire que l’esprit ne reçoit point de changement considé rable, quoi qu’il reçoive l’idée d’un quarré ou d’un rond, en appercevant un quarré ou un rond.
+
+[ad p. 6–8 / 1, 44–46] Materia mutata, figura externa parum mutatur, interna seu configuratione multum. Ita sensiones magis[^1807-4] mutant animam quam ideae. Quoad voluntatem motui comparandam, ut autor rerum est causa motuum, ita et inclinationum; inclinationes a Deo rectae, ut motus, nisi a causis particularibus determinentur.
+
+[p. 9 sq. / 1, 47 sq.] De sorte que la volonté ne peut dé terminer diversement l’impression qu’elle a pour le bien, et toutes ses inclinations naturelles, qu’en commandant à l’entendement de lui repré senter quelque objet particulier.
+
+. . . l’esprit a du mouvement pour aller plus loin: il n’aime point nécessairement et invinciblement cette dignité, et il est libre à son égard. Or sa liberté consiste en ce que n’é tant point pleinement convaincu, que cette dignité renferme tout le bien qu’il est capable d’aimer, il peut suspendre son jugement et son amour
+
+[ad p. 9 sq. / 1, 47 f.] Voluntas est motus animae naturalis versus bonum in [p. 1808] genere. Libertas est facultas mentis determinandi hanc impressionem ad objecta particularia.
+
+[^1807-3]: Am Rande: NB.
+
+[^1807-4]: Darüber: minus
+
+::: editorial
+
+(zu S. 1807) 28 est (1) inclinatio (2) motus L
+
+:::
+
+Libertatem non habet anima amandi bonum in genere, et felicitatem, sed hanc habet ut cum objectum aliquod particulare amat, non ei adhaereat invincibiliter, sed possit ab eo avertere, sed et ad alia bona tendere, vi unionis cum bono universali. Ita et libertas judicandi est, quoties non summa evidentia est.
+
+[p. 10 sq. / 1, 48] Nous aimons la connoissance de la vérité, comme la joüissance du bien, par une impression naturelle; et cette impression, aussi bien que celle qui nous porte vers le bien, n’est point invincible, elle n’est telle que par l’é vidence ou par une connoissance parfaite et entiére de l’objet: et nous sommes aussi libres dans nos faux jugemens que dans nos amours déréglez, comme nous l’allons faire voir dans le Chapitre suivant.
+
+[p. 11 sq. / 1, 49 sq.] [Chap. II.] On pourroit assez conclure des choses que nous avons dites dans le chapitre précedent que l’entendement ne juge jamais, puisqu’il ne fait qu’appercevoir, ou que les jugemens et les raisonnemens même de la part de l’entendement, ne sont que de pures perceptions; que c’est la volonté seule qui juge vé ritablement en acquiesç ant à ce que l’entendement lui représente, et en s’y reposant volontairement; et qu’ainsi c’est elle seule qui nous jette dans l’erreur
+
+Quand on apperçoit par exemple deux fois 2, ou 4, ce n’est qu’une simple perception. Quand on juge que deux fois 2 sont 4, ou que deux fois 2 ne sont pas 5, l’entendement ne fait encore qu’appercevoir le rapport d’é galité , qui se trouve entre deux fois 2 et 4, ou le rapport d’inégalité, qui se trouve entre deux fois 2 et 5. Ainsi le jugement de la part de l’entendement, n’est que la perception du rapport, qui se trouve entre deux ou plusieurs choses. Mais le raisonnement est la perception du rapport qui se trouve, non pas entre deux ou plusieurs choses, car ce seroit un jugement, mais c’est la perception du rapport qui se trouve entre deux ou plusieurs rapports de deux ou plusieurs choses.
+
+[ad p. 11 sq. / 1, 49 f.] Cap. 2. Non intellectus judicat, sed voluntas.
+
+Intellectus tantum percipit rerum relationes, simplici quadam operatione mentis. Voluntas judicat, licet tunc cum evidentia judicare nos facit, nec liberum judicium est, voluntarium nobis esse non videatur. Nunquam[^1808-5] res nobis [p. 1809] evidentes apparent, nisi cum omnes ejus facies respectusque mens examinavit. Quo facto cum voluntas non potest desiderare ut aliquod amplius consideret intellectus (+ obscura haec omnia quomodo in aliis desiderat voluntas, nisi quod jam cognoscit +) quiescere cogitur et hoc est judicium, cum vero nondum omnia excussa sunt, aut certe non sumus certe omnia excussa esse liberum est non consentire, hoc est voluntas jubere potest ut intellectus pergat.
+
+[^1808-5]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1808) 3 amandi (1) Deum, ama (2) bonum (a) generale (b) in genere L
+
+:::
+
+[p. 12 sq. / 1, 51 sq.] Afin de reconnoître nôtre erreur, il faut sçavoir, que les choses que nous considérons ne nous paroissent jamais entiérement évidentes, que lorsque l’entendement en a examiné tous les côtez et tous les rapports; d’où il arrive, que la volonté ne pouvant rien vouloir sans connoissance, elle ne peut plus agir dans l’entendement, c’est-à-dire qu’elle ne peut plus desirer qu’il représente quelque chose de nouveau dans son objet, parce qu’il en a déja considéré tous les cô tez ,[^1809-6] qui ont rapport à la question que l’on veut décider.
+
+C’est que dans l’état où nous sommes, souvent nous voyons évidemment des véritez sans aucune raison d’en douter, et ainsi la volonté n’est point indifférente dans le consentement qu’elle donne à ces véritez évidentes, comme nous venons d’expliquer: mais il n’en est pas de même des biens, et nous n’en connoissons aucun sans quelque raison de douter que nous le devions aimer.
+
+[ad p. 13 / 1, 52] Cum saepe occurant veritates particulares de quibus dubitare non possumus, nunquam vero occurrant bona particularia de quibus an sint amanda dubitare non possimus, non ita facile notamus judicia nostra esse libera. (+ Videtur omne judicium esse perceptio cum quodam agendi conatu qui cum ab alio agendi conatu refringitur, suspenditur judicium, nisi didicissemus perceptiones inter se distinguendas esse, omnibus perceptionibus fidem adhiberemus. +)
+
+[p. 14 sq. / 1, 52 sq.] . . . car la vérité ne consiste, que dans le rapport que deux ou plusieurs choses ont entr’elles, mais la bonté consiste dans le rapport de convenance, que les choses ont avec nous. Ce qui fait qu’il n’y a qu’une seule action de la volonté au regard de la vérité, qui est son acquiescement ou son consentement à la représentation du [p. 1810] rapport qui est entre les choses; et qu’il y en a deux au regard de la bonté, qui est son acquiescement ou son consentement au rapport de convenance de la chose avec nous, et son amour ou son mouvement vers cette chose, lesquelles actions sont bien différentes, quoi qu’on les confonde ordinairement
+
+[^1809-6]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1809) 3 desiderat (1) mens (2) voluntas L 19 occurrant (1) volun (2) veritates L 24 se (1) non cohaerere, omnes (2) conjungendas (3) distinguendas L
+
+:::
+
+Or si on considére bien ces choses, on reconnoîtra visiblement que c’est toûjours la volonté qui acquiesce, non pas aux choses si elles ne lui sont agréables, mais à la représentation des choses: et que la raison pour laquelle la volonté acquiesce toûjours à la représentation des choses qui sont dans la derniére évidence, est comme nous avons déja dit, qu’il n’y a plus dans ces choses aucun rapport qu’il ait fallu considé rer ,[^1810-7] que l’entendement ne l’ait apperçû: de sorte qu’il est comme nécessaire, que la volonté cesse de s’agiter et de se fatiguer inutilement, et qu’elle acquiesce avec pleine assû rance qu’elle ne s’est pas trompée, puisqu’il n’y a plus rien vers quoi elle puisse tourner la pointe de l’entendement.
+
+[p. 16 sq. / 1, 54–56] Car la vérité ne se trouve presque jamais qu’avec l’évidence, et l’évidence ne consiste que dans la vûë claire et distincte de toutes les parties, et de tous les rapports de l’objet, qui sont né cessaires pour porter un jugement assûré.
+
+L’usage donc, que nous devons faire de nôtre liberté, c’est de nous en servir autant que nous le pouvons; c’est-à -dire , de ne consentir jamais à quoi que ce soit,[^1810-8] jusqu’à ce que nous y soyons comme forcez par des reproches inté rieurs de nô tre raison.[^1810-9]
+
+IV. Voici la premiére [règle], qui regarde les Sciences. On ne doit jamais donner de consentement entier, qu’aux propositions qui paroissent si évidemment vraies, qu’on ne puisse le leur refuser sans sentir une peine inté rieure et des reproches secrets de sa raison; c’est-à -dire , sans que l’on connoisse clairement qu’on feroit mauvais usage de sa liberté, si l’on ne vouloit pas consentir, ou si l’on vouloit étendre son pouvoir sur des choses, sur lesquelles elle n’en a plus.
+
+La seconde pour la Morale est telle. On ne doit jamais aimer absolument un bien, si l’on peut sans remors ne le point aimer. D’où il s’ensuit, qu’on ne doit rien aimer que Dieu absolument et sans rapport; car il n’y a que lui seul, qu’on ne puisse s’abstenir d’aimer de cette sorte sans remors; c’est-à-dire, sans qu’on sç ache é videmment qu’on fait mal, supposé qu’on le connoisse par la raison ou par la foi. [p. 1811] V. Mais il faut ici remarquer, que quand les choses que nous appercevons, nous paroissent fort vrai-semblables, nous nous trouvons extrêmement portez à les croire; nous sentons mê me de la peine, quand nous ne nous en laissons pas persuader; en sorte que si nous n’y prenons bien garde, nous sommes fort en danger d’y consentir, et par conséquent de nous tromper; car c’est un grand hazard, que la vérité se trouve entiérement conforme à la vrai-semblance. Et c’est pour cela que j’ay mis expressément dans ces deux regles, qu’il ne faut consentir à rien, jusqu’à ce que l’on voye é videmment, qu’on feroit mauvais usage de sa liberté, si l’on ne consentoit pas. [ad p. 16 sq. / 1, 54 f.] Verus usus libertatis est uti ea quantum possumus (+ non probo, possumus etiam a manifestis et convicturis detorquere animum ad alia, ut convictionem declinemus +) nec consentiamus nisi coacti, forcés par les reproches interieurs de nostre raison (+ elle parle donc, judicat igitur ratio, si aliquod nobis exprobat. Multa habet de la voix de la verité eternelle, il faut donc qu’il y ait en nous un autre jugement que celuy de la volonté, il faut que non seulement les idées, mais encor les enonciations de Dieu se trouvent en nous, selon S. Augustin[^1811-10] +). L’usage que nous devons faire de nostre liberté, c’est de nous en servir autant que nous le pouvons, c’est a dire ne consentir jamais à quoy que ce soit jusqu’à ce que nous y soyons comme forcés par des reproches interieurs de nostre raison. Et mox: on ne doit jamais donner de consentement entier qu’aux propositions qui paroissent si evidemment vrayes, qu’on ne puisse le leur refuser sans sentir une peine interieure et des reproches secrets de sa raison. C’est a dire sans que l’on connoisse clairement qu’on feroit un mauvais usage de sa liberté, si l’on ne vouloit pas consentir, ou si l’on vouloit étendre son pouvoir sur des choses sur lesquelles elle n’en a plus. (+ Haec obscura, primum dicit A, c’est à dire B, mox B, c’est à dire A. Non explicat ce que c’est que cette peine interieure et reproches secrets. On peut tousjours faire un usage de sa liberté, mêmes contre les plus grandes evidences, en se laissant aller à penser à autres choses. Comment sçavoir qu’on a examiné tous les rapports. De cette maniere il n’y auroit jamais de l’ [p. 1812] evidence. Pour faire un jugement il faudroit tousjours un autre jugement reflexif, si on a examiné tous les rapports, et même il faudroit le connoistre clairement. Mais comment cela est il possible. Cela depend de la memoire dont le temoignage ex intervallo n’est jamais infaillible.
+
+[^1810-7]: Am Rande: ,
+
+[^1810-8]: Am Rande: ,
+
+[^1810-9]: Daneben: elle juge donc
+
+[^1811-10]: Am Rande: NB.
+
+::: editorial
+
+(zu S. 1811) 9 usus est str. Hrsg. libertatis L 15 les (1) propositions (2) enonciations (a) qui se (b) de L 21 puisse (1) les refuser (2) le L 23 clairement erg. L
+
+:::
+
+Judicia infallibilia sunt primum nostrae conscientiae proximae, deinde propositionum probatarum quarum contradictorium videmus implicare contradictionem. Videtur esse in fide aliqua voluntas et obedientia. Summe multis haec ambiguitatibus laborant. Cum mens non agat extra se, imo revera non agat, sed mutetur tantum, quomodo voluntas dicetur activa facultas mentis? An voluntas est id quod in praesenti statu mentis est causa sequentis, seu vis sive conatus animae ad mutationem; an intellectus est passio animae, seu relatio status praesentis ad praecedentem, et voluntas relatio status praesentis ad sequentem. Quomodo possumus velle dimidiate, sans donner un consentement entier, cum omnis voluntas videatur esse plena, nempe conatus agendi. Si affirmatio et negatio consistit in cessatione ulterioris inquisitionis, utique erit voluntatis. +)
+
+[p. 18 / 1, 56] Mais si la vrai-semblance vient de quelque conformité avec la vérité, comme d’ordinaire les connoissances vrai-semblables sont vraies, prises dans un certain sens; alors si l’on s’examine, l’on se sentira porté à faire deux choses, l’une à croire, et l’autre à examiner encore; mais l’on ne se trouvera jamais si persuadé, qu’on croye é videmment mal faire, si l’on ne consent pas tout-à-fait.
+
+[p. 22 / 1, 61] [Chap. III.] Mais c’est aprés avoir ainsi digéré les principes de la Philosophie de Descartes et d’Aristote, qu’on rejette l’un, et qu’on approuve l’autre; que l’on peut mêmes assûrer du dernier qu’on n’expliquera jamais aucun phénomene de la nature, par les principes qui lui sont particuliers, comme ils n’y ont encore de rien servi depuis deux mille ans, quoi que sa Philosophie ait été l’étude des plus habiles gens dans presque toutes les parties du monde.
+
+[p. 24 / 1, 63] J’appelle vé ritez né cessaires celles qui sont immü ables par leur nature, et celles qui ont é té arrê té es par la volonté de Dieu, laquelle n’est point sujette au changement.
+
+[ad p. 24 / 1, 63] Cap. 3. De eodem argumento, non habemus ideas [p. 1813] mysteriorum fidei. Il y a [des] verités necessaires et contingentes. J’appelle necessaires qui sont immuables par leur nature, ou par la volonté de Dieu qui n’est point sujetté au changement. (+ Critica hic objecerat quasi autor putaret necessarias quoque veritates esse a divina voluntate, sed ipse se explicat disjunctivum hic esse ou alias scilicet veritates sua natura, alias voluntate divina immutabiles esse. +)
+
+::: editorial
+
+(zu S. 1812) 3 ex intervallo erg. L 7 contradictionem. (1) Omne judicium (2) Omnis perceptio videtur involvere conatum agendi (a) . Voluntas videtur esse (b) , judicium vero non refractum sed erumpentem. Non judicamus quia volumus, sed agimus quia volumus. (3) Videtur L 12 praecedentem, (1) seu (2) et (a) volun (b) intellectus (c) voluntas L
+
+:::
+
+[p. 25 sq. / 1, 64] La troisiéme chose enfin, c’est qu’il ne faut pas mépriser absolument les vrai-semblances, parce qu’il arrive ordinairement que plusieurs jointes ensemble, ont autant de force pour convaincre, que des démonstrations tres-évidentes. Il s’en trouve une infinité d’exemples dans la Physique et dans la Morale, de sorte qu’il est souvent à propos d’en amasser un nombre suffisant sur les matiéres qu’on ne peut démontrer autrement, afin de pouvoir trouver la vérité, qu’il seroit impossible de découvrir d’une autre maniere.
+
+Mais il faut aussi que l’on m’accorde qu’on marchera avec sûreté en la suivant, que jusqu’à présent pour avoir couru trop vîte, on a été obligé de retourner sur ses pas: et mêmes un grand nombre de personnes conviendront avec moi, que puisque M. Descartes a découvert en trente années plus de véritez, que tous les autres Philosophes, à cause qu’il s’est soumis à cette Loi
+
+[ad p. 25 sq. / 1, 63 f.] In contingentibus verisimilitudine contenti simus oportet (+ imo experimenta interna sunt rerum contingentium, certissima tamen sunt +).
+
+Il faut souvent se contenter de vraisemblance dans les sciences de practique, parce que le besoin presse. Souvent plusieurs vraisemblances jointes ensemble ont autant de force pour convaincre (+ en quoy consiste cette force de convaincre? +) que les demonstrations tres evidentes.[^1813-11] De sorte qu’il est souvent à propos d’en amasser un nombre suffisant sur les matieres qu’on ne peut demonstrer autrement. Mons. des Cartes a decouvert en 30 années plus de verités que tous les autres philosophes.[^1813-12]
+
+[^1813-11]: Am Rande: ,
+
+[^1813-12]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1813) 2 ou bien gestr. par L 4 ou (1) vel a natura (2) alias L
+
+:::
+
+[p. 1814] [p. 26 sq. / 1, 65 sq.] [Chap. IV.] Car puisque l’erreur enferme deux choses, le consentement de la volonté , et la perception de l’entendement; il est bien clair, que toutes nos manié res d’appercevoir nous peuvent donner quelque occasion de nous tromper, puisqu’elles nous peuvent porter à des consentemens précipitez.
+
+Or parce qu’il est nécessaire de faire d’abord sentir à l’ame ses foiblesses et ses égaremens, afin qu’elle entre dans de justes desirs de s’en délivrer, et qu’elle se défasse avec plus de facilité de ses préjugez; on va tâcher de faire une division exacte de ses manié res d’appercevoir, qui seront comme autant de chefs, à chacun desquelles on rapportera dans la suite les différentes erreurs ausquelles nous sommes sujets.
+
+L’ame peut appercevoir les choses en trois manié res, par l’entendement pur, par l’imagination, par les sens.
+
+Elle apperçoit par l’entendement pur les choses spirituelles, les universelles, les notions communes, l’idée de la perfection, celle d’un être infiniment parfait, et généralement toutes ses pensé es. Elle apperçoit même par l’entendement pur les choses matérielles, l’étenduë avec ses propriétez; car il n’y a que l’entendement pur qui puisse appercevoir un cercle, et un quarré parfait; une figure de mille côtez, et choses semblables.
+
+Par l’imagination l’ame n’apperçoit que les choses matérielles, lors qu’étant absentes elle se les rend présentes en s’en formant des images dans le cerveau.[^1814-13]
+
+[p. 28 / 1, 67] L’ame n’apperçoit donc les choses, qu’en ces trois maniéres, ce qu’il est facile de voir, si l’on considére, que les choses que nous appercevons sont spirituelles, ou maté rielles. Si elles sont spirituelles, il n’y a que l’entendement pur qui les puisse connoître. Que si elles sont maté rielles, elles seront pré sentes ou absentes.[^1814-14]
+
+[ad p. 26–28 / 1, 65–67] Cap. 4. Causa immediata erroris est pravus usus liberi arbitrii. Causae occasionales sunt, tum a perceptionibus intellectus, tum ab inclinationibus voluntatis. Perceptiones intellectus, sunt vel puri intellectus, vel imaginationis vel sensus. Voluntas quoque habet tum [p. 1815] inclinationes naturales, tum passiones. Agemus ergo libro 1 reliquo, de erroribus sensuum, libro secundo de erroribus imaginationis, libro 3tio de erroribus puri intellectus, libro quarto de erroribus inclinationum, libro 5to de erroribus passionum seu affectuum. Denique libro sexto dabimus Methodum generalem inquirendae veritatis.
+
+[^1814-13]: Am Rande: ,
+
+[^1814-14]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1814) 27 est (1) malus (2) pravus L
+
+:::
+
+Pura intellectio est, cum non est opus imaginibus corporeis in cerebro ad rem repraesentandam. Imaginatio cum adsunt imagines, rei materialis, ipsa re absente; denique sensus est cum res quae repraesentatur praeter imaginem suam praesens est. (+ Non puto ullam esse intellectionem puram, sine aliquo responsu in corpore. Videtur omnis perceptio esse confusa vel distincta; et distincta vel composita ex distinctis, vel non irresolubilis. Videantur quae dixi de veris et falsis ideis. +)
+
+Non nisi intellectus purus verum circulum percipit. (+ Puto nullam a nobis ideam percipi veri circuli, sed [nos] habere tantum ejus cognitionem caecam sive suppositivam. Ait intellectu percipi circulum purum seu perfectum, ergo potest circulus perfectus percipi puro intellectu sine imagine. +)
+
+[p. 29 / 1, 68] II. Premiérement, on parlera des erreurs des sens. Secondement, des erreurs de l’imagination. En troisiéme lieu, des erreurs de l’entendement pur. En quatriéme lieu, des erreurs des inclinations. En cinquiéme lieu, des erreurs des passions. Enfin aprés avoir essayé de délivrer l’esprit des erreurs ausquelles il est sujet, on donnera une methode gé né rale pour se conduire dans la recherche de la vérité.
+
+[p. 30 sq. / 1, 69–71] [Chap. V.] Le plaisir est un instinct de la nature, ou pour parler plus clairement, c’est une impression de Dieu mê me, qui nous incline vers quelque bien, laquelle doit être d’autant plus forte, que ce bien est plus grand.
+
+Ainsi, puisque Dieu l’avoit [scil. le premier homme ] créé pour l’aimer, et que Dieu étoit son bien; on peut dire que Dieu se faisoit goûter à lui, qu’il le portoit à son amour par un sentiment de plaisir, et qu’il luy donnoit des satisfactions inté rieures dans son devoir, qui contrebalanç oient les plus grands plaisirs des sens, lesquelles depuis le pé ché , les hommes ne ressentent plus sans une grace particulié re.
+
+::: editorial
+
+(zu S. 1815) 6 est (1) necesse (2) opus L 10 corpore (1) nam et in corpore et si (2) . Videtur L 10 distincta; (1) nec quicquam ad rem facere praesentia vestigiorum corporis cum ea (2) et L 11 vel (1) resolubilis (2) composita L
+
+12 quae dixi de veris et falsis ideis: Vgl. N. 141.
+
+:::
+
+[p. 1816] On n’ose pas décider, si le premier homme avant sa chute pouvoit s’empê cher d’avoir des sensations agré ables, ou dé sagré ables dans le moment que son cerveau é toit é branlé par l’usage actuel des choses sensibles. Peut-ê tre avoit-il cet empire sur soi-mê me, à cause de sa soûmission à Dieu, quoi qu’il semble plus vraisemblable de penser le contraire.[^1816-15]
+
+Le premier homme ressentoit donc du plaisir, dans ce qui perfectionnoit son corps; comme il en sentoit dans ce qui perfectionnoit son ame: et parce qu’il étoit dans un état parfait, il éprouvoit celui du corps; et ainsi il lui étoit infiniment plus facile de conserver sa justice, qu’à nous sans la grace de Jesus-Christ, puisque sans elle nous ne trouvons plus de plaisir dans nô tre devoir.
+
+[p. 32 / 1, 71 sq.] Mais dans le fond, on ne peut pas dire, que le changement soit fort grand du côté des sens. Car de même que si deux poids étant en équilibre dans une balance, je venois à en ôter quelqu’un, l’autre la feroit trébucher de son côté sans aucun changement de la part du premier poids, puisqu’il demeure toûjours le même: Ainsi depuis le péché les plaisirs des sens ont abbaissé l’ame vers les choses sensibles, par le défaut de ces delectations intérieures, qui contrebalançoient avant le péché l’inclination que nous avons pour les biens sensibles; mais sans un changement si considérable de la part des sens, qu’on se l’imagine ordinairement.
+
+[ad p. 29–32 / 1, 69–72] Cap. 5. De sensibus. Non videntur sensus peccato originali plane corrupti esse. Ordo postulat, ut eo majorem sentiat anima delectationem quo magis est bonum quo fruitur. Delectatio, plaisir enim est impressio Dei nos ad aliquod bonum inclinantis. Itaque ante peccatum
+
+Adamus in solidioribus bonis plus voluptatis invenit.
+
+Dieu se faisoit gouter à luy, et le portoit à son amour par un sentiment de plaisir et luy donnoit des satisfactions interieures dans son devoir qui contrebalançoient les plus grands plaisirs des sens, lesquelles depuis le peché les hommes ne ressentent plus sans une grace particuliere.
+
+Sed cum Deus vellet ut Adamus corpus quoque suum conservaret, tanquam partem fecit ut voluptates sentiret his similes quas nos percipimus in usu rerum quae vitae conservandae sunt aptae. Quaestio est utrum potuerit Adam [p. 1817] impedire perceptiones gratas aut ingratas ex motibus cerebri secuturas. Verisimilius tamen videtur contrarium; et potuisse eum quidem motus spirituum et sanguinis et cerebri agitationes sistere, in quo consistebat imperium animae in corpus, sed non potuisset his admissis sistere perceptionem, alioqui arbitraria fuisset unio animae et corporis. (+ Sed difficilius adhuc creditu est, potuisse Adamum sistere motum spirituum a magna vi agitatorum. +)
+
+[^1816-15]: Am Rande: p. 35.
+
+::: editorial
+
+(zu S. 1816) 21 plaisir erg. L 28 ut (1) homo (2) Adamus L
+
+:::
+
+Lapsu Adami, videtur non quidem magna mutatio facta fuisse in sensibus (nisi quod non amplius eorum motus sistere possumus) sed tantum contrapondium delectationis in actionibus rectis et affectu erga Deum fuisse sublatum, nisi per gratiam suppleatur. Ipsorum per se sensuum finis et usus idem qui ante, ut inde nosceremus quae corpori apta sunt.
+
+[p. 33 sq. / 1, 72 sq.] La beauté de la justice ne se sent pas, la bonté d’un fruit ne se connoit pas. Les biens du corps ne méritent pas l’application d’un esprit, que Dieu n’a fait que pour lui: il faut donc, que l’esprit reconnoisse de tels biens sans examen, et par la preuve courte et incontestable du sentiment.[^1817-16] Les pierres ne sont pas propres à la nourriture; la preuve en est convainquante, et le seul goût en a fait tomber d’accord tous les hommes.[^1817-17]
+
+Mais pour Dieu, qui seul est le vrai bien de l’esprit; qui seul est au dessus de lui; qui seul peut le récompenser en mille façons différentes; qui seul est digne de son application, et qui ne craint point que ceux qui le connoissent ne le trouvent point aimable, il ne se contente pas d’ê tre aimé d’une amour aveugle, et d’un amour d’instinct , il veut être aimé d’un amour éclairé, et d’un amour de choix.
+
+[p. 34 / 1, 73] Le plaisir que les bienheureux sentent dans la possession de Dieu, n’est pas tant un instinct qui les porte à l’aimer, qu’une ré compense de leur amour
+
+Les choses étant ainsi, on doit dire qu’Adam n’é toit point porté à l’amour de Dieu, et aux choses de son devoir par un plaisir pré venant.
+
+[^1817-16]: Am Rande: ,
+
+[^1817-17]: Daneben: venin
+
+::: editorial
+
+(zu S. 1817) 2 motus (1) corporis (2) spirituum L 3 sistere, (1) sed eis admissis non po (2) in L 3 imperium (1) spiritus (2) animae L
+
+:::
+
+[p. 1818] [p. 35 sq. / 1, 74 sq.] . . . il est visible, que des choses qui é toient indignes de l’application de son esprit [scil. d’Adam], en eussent entiérement rempli la capacité
+
+Adam avoit donc les mêmes sens que nous, par lesquels il étoit averti sans être détourné de Dieu, de ce qu’il devoit faire pour son corps. Il sentoit comme nous des plaisirs, et même des douleurs ou des dégouts prévenans et indéliberez. Mais ces plaisirs et ces douleurs ne pouvoient le rendre esclave, ni malheureux comme nous; parce qu’é tant maître absolu des mouvemens qui s’excitoient dans son corps, il les arrê toit incontinent aprés qu’ils l’avoient averti,[^1818-18] s’il le souhaitoit ainsi; et sans doute il le souhaitoit toû jours à l’é gard de la douleur. Heureux et nous aussi, s’il eût fait la même chose à l’égard du plaisir; et s’il ne fût point distrait volontairement de la présence de son Dieu, en laissant remplir la capacité de son esprit de la beauté et de la douceur espérée d’un fruit deffendu, ou peut ê tre d’une joie pré somptueuse excité e dans son ame à la vû ë de ses perfections naturelles.
+
+[p. 36 / 1, 76] On doit conclure en passant de ces deux maniéres, selon lesquelles nous venons d’expliquer les desordres du péché, qu’il y a deux choses nécessaires pour nous rétablir dans l’ordre.
+
+La premiere est, qu’il faut ô ter de ce poids qui nous fait pancher, et qui nous attire vers les biens sensibles, en retranchant continü ellement de nos plaisirs, et en mortifiant la sensibilité de nos sens par la pénitence, et par la circoncision du coeur.
+
+[p. 37 / 1, 76 sq.] La seconde est, qu’il faut demander à Dieu le poids de sa Grace, et cette délectation prévenante, que Jesus-Christ nous a particuliérement méritée
+
+Car si l’on considére, qu’ils [scil. nos sens] nous sont donnez pour la conservation de nôtre corps, on trouvera qu’ils s’acquittent admirablement bien de leur devoir, et qu’ils nous conduisent d’une maniére si juste et si fidelle à leur fin, qu’il semble que c’est à tort, qu’on les accuse de corruption et de déréglement. Ils avertissent si promptement l’ame par la douleur et par le plaisir, par les goû ts agré ables et desagré ables, et par les autres sensations, de ce qu’elle doit faire, ou ne faire pas pour la conservation de la vie, qu’on ne peut pas dire avec raison, que cet ordre, et cette exactitude soient une suite du péché. [p. 1819] [ad p. 33–37 / 1, 72–77] Ut pulchritudo justitiae non sentitur, ita bonitas fructus alicujus non cognoscitur. Et cum nimis occupatura fuisset animum adquisitio ad corporum naturas, ut inde nosceretur a priori quid nobis utile vel secus, voluit Deus ut haec via brevi sensus nobis innotescerent. Deus vero non ut corpora amore instinctus, sed amore intellectus (d’un amour eclairé) se voluit amari. Porro etsi Adamus delectationem in rectis actionibus perciperet, tamen eae delectationes non erant praevenientes, ne Deus ipsi adimeret meritum recte agendi, sed consequentes rectam actionem. Atque ita plenum Adamo Arbitrium relictum erat. Adamus primos corporei doloris vel voluptatis stimulos sentiens, poterat eos statim sistere; felix futurus et nos cum ipso si in voluptate fecisset quod in dolore. Videtur igitur permisisse ut capacitas animae voluptate fructus prohibiti impleretur, ou peut estre d’une joye presomtueuse excitée dans son ame, excitée à la veue de ses perfections naturelles. Peccato admisso, Deus voluptatem rectarum actionum consecutricem negavit, et imperium in membra corporea abstulit ut motus eorum pro arbitrio supprimere posset. Hinc obiter intelligimus quibus esse opus ut reparemur: scilicet in una librae parte ponderi voluptatuum sensualium quantum licet esse detrahendum, mortificatis sensibus, et ab altera parte gratiam Dei esse petendam, quae praevenienti delectatione nobis pondus addat. (+ Sed haec non satis cohaerent quod Adamo delectationem praevenientem ipse negat autor. +) [ad p. 38 / 1, 77] Ut sensibus recte utamur hoc uno opus est: nunquam ex iis judicandum esse de absoluta rerum veritate et quidnam sint in se ipsis, sed tantum de respectu quem habent ad nostrum corpus. [ad p. 39–41 / 1, 79] Cap. 6. De erroribus visus respectu extensionis vel magnitudinis. Un ciron peut avoir des animaux qui sont à luy ce qu’un ciron est à nostre egard, et peut estre qu’il y en a dans la nature des plus petits et des plus petits à l’infini dans cette proportion si estrange d’un homme à un ciron. [p. 41 / 1, 81] Lors qu’on examine au milieu de l’hyver, le germe de l’oignon d’une tulippe, avec une simple loupe ou verre convexe, ou même seulement avec les yeux, on découvre fort aisément dans ce germe, les feüilles qui doivent devenir vertes, celles qui [p. 1820] doivent composer la fleur ou la tulippe, cette petite partie triangulaire qui renferme la graine et les six petites colomnes qui l’environnent dans le fond de la tulippe. Ainsi on ne peut douter que le germe d’un oignon de tulippe ne renferme une tulippe toute entiére.
+
+[^1818-18]: Darunter: p. 31
+
+::: editorial
+
+(zu S. 1819) 1 (1) Bonitas (2) Ut L 24 et . . . ipsis erg. L
+
+:::
+
+[p. 42 / 1, 82] Il est raisonnable de croire la même chose du germe d’un grain de moutarde, de celui d’un pepin de pomme, et généralement de toutes sortes d’arbres et de plantes, quoi que cela ne se puisse pas voir avec les yeux, ni même avec le microscope; et l’on peut dire avec quelque assû rance, que tous les arbres sont en petit dans le germe de leur semence.
+
+[p. 43 / 1, 82 sq.] (b) On voit aussi dans le germe d’un oeuf frais, et qui n’a point encore é té couvé , un poulet qui est peut-ê tre entié rement formé . (c) On voit des grenoü illes dans les oeufs des grenoü illes et on verra encore d’autres animaux dans leur germes, lors qu’on aura assez d’adresse et d’expérience pour les découvrir. Mais il ne faut pas que l’esprit s’arrête avec les yeux: car la vûë de l’esprit a bien plus d’étenduë, que la vûë du corps. Nous devons donc penser outre cela; que tous les corps des hommes et des animaux, qui naîtront jusqu’à la consommation des siécles, ont peut-ê tre été produits dés la création du monde; je veux dire, que les femelles des premiers animaux ont peut-être été créés, avec tous ceux de même espéce qu’ils ont engendrez, et qu’ils s’engendreront dans la suite.
+
+[note b] Le germe de l’oeuf est une petite tache blanche, qui est sur le jaune. V. Le liv. De formatione pulli in ovo de M. Malpighi.
+
+[note c] V. Miraculum naturae de M. Swammerdam.
+
+[ad p. 41–43 / 1, 81–83] On peut dire que les plantes sont en petit dans leurs germes. Examinant le germe de l’oignon d’une tulippe avec une simple loupe ou verre convexe, ou même seulement avec les yeux on decouvre fort aisement les parties de la tulippe. Il ne paroist pas deraisonnable de dire qu’il y a des arbres infinis dans un seul germe, car le germe ne contient pas seulement l’arbre, mais encor sa semence c’est à dire un autre germe, la nature ne faisant que developper ces petits arbres. On le peut aussi penser des animaux. On voit dans le germe d’un oeuf frais et qui n’a point encor esté couvé un poulet qui est peutestre entierement formé. (Le germe de l’oeuf est une petite tache blanche qui est sur le jaune. Videatur le livre de
+
+Formatione [p. 1821] pulli in ovo de M. Malpighi. ) On voit des grenouilles dans les oeufs des grenouilles. (Voyés miraculum naturae de M. Swammerdam. ) Peutestre que tous les corps des hommes et des animaux ont esté produits dès la creation du monde, c’est à dire que les femelles des premiers animaux ont peutestre esté créées avec tous ceux de même espece.
+
+::: editorial
+
+(zu S. 1820) 22 que tous gestr. les L
+
+20 M. MALPIGHI, Dissertatio epistolica de formatione pulli in ovo, London 1673. 21 J. SWAMMERDAM, Miraculum naturae sive de uteri muliebris fabrica, Leiden 1672.
+
+:::
+
+[p. 44 / 1, 84] Mais afin d’expliquer les choses à fond, nous devons considérer, que nos propres yeux ne sont en effet que des lunettes naturelles; que leurs humeurs font le même effet que les verres dans les lunettes; et que selon la figure du crystalin, et son éloignement de la rétine, nous voyons les objets fort différemment: de sorte qu’on ne peut pas assûrer, qu’il y ait deux hommes dans le monde, qui les voyent de la même grandeur, puisqu’on ne peut pas assûrer, que leurs yeux soient tout-à-fait semblables.
+
+[ad p. 44 sq. / 1, 85] On ne peut asseurer qu’il y ait deux hommes dans le monde, qui voyent de la même grandeur, les yeux n’estant pas apparemment tout à fait semblables. Quand le cristallin est plus convexe les images sont plus petites. Pour l’ordinaire un homme voit les objets plus grands de l’oeil gauche que de l’oeil droit. Journal des Sçavans de Rome Janvier 1669.
+
+[p. 46 sq. / 1, 87] De ce que Dieu nous fait avoir une telle idée sensible de grandeur, lors qu’une toise est devant nos yeux, il ne s’ensuit pas que cette toise n’ait que l’é tenduë qui nous est repré senté e par cette idé e.[^1821-19]
+
+[p. 47 / 1, 87] Mais pour mieux comprendre, ce que nous devons juger de l’étenduë des corps sur le rapport de nos yeux; imaginons-nous que Dieu ait fait en petit, et d’une portion de matiére de la grosseur d’une balle, un ciel et une terre, et des hommes sur cette terre, avec les mêmes proportions qui sont observées dans ce grand monde.
+
+[p. 49 / 1, 89] Mais les hommes ne se fient pas seulement à leurs yeux pour juger des objets visibles: ils s’y fient même pour juger de ceux qui sont invisibles. Dé s qu’ils ne voyent point certaines choses, ils en concluent qu’elles ne sont point; attribüant ainsi à la vûë une pénétration en quelque façon infinie.
+
+[p. 50 sq. / 1, 90 sq.] Ils ont des couronnes, des aigretes, et d’autres ajustemens sur leurs têtes, qui effacent tout ce que le luxe des hommes peut inventer; et je puis dire hardiment, que tous ceux qui ne se sont jamais servi que de leurs yeux, n’ont jamais rien [p. 1822] vû de si beau, de si juste, ni même de si magnifique dans les maisons des plus grands Princes, que ce qu’on voit avec des lunettes sur la tête d’une simple mouche. Cependant nôtre vûë nous cache toutes ces beautez, elle nous fait mépriser tous ces Ouvrages de la nature, si dignes de nôtre admiration; et à cause que ces animaux sont petits par rapport à nôtre corps, elle nous les fait considérer comme petits absolument, et ensuite comme mé prisables à cause de leur petitesse, comme si les corps pouvoient être petits en eux-mêmes. [ad p. 46–51 / 1, 87–91] Dieu pourroit faire d’une portion de matiere de la grosseur d’une balle un ciel et une terre et des hommes sur cette terre, avec les mêmes proportions qui sont observées dans ce grand monde. Ou bien pensons que Dieu ait fait une terre infiniment plus vaste le tout dans la même proportion, les hommes de ce monde pourroient estre plus grands qu’il y a d’espace entre nostre terre et les estoiles les plus eloignées. Ils auroient les mêmes idées que nous quoyque les choses soyent incomparablement plus grandes. C’est pourquoy la veue ne sçauroit faire connoistre la grandeur. Les hommes regardent les insectes et autres choses petites à leur egard comme petites absolument, et ensuite comme meprisables. Nos sens même ne nous sçauroient apprendre exactement les rapports des corps au nostre, car cela change selon l’eloignement. [ad p. 53 sq. / 1, 94 f.] Cap. 7. Des Erreurs de nos yeux touchant les figures. Nous ne voyons pas les plus petites. Et dans les autres nous ne sçaurions les connoistre exactement par les sens, ny discerner un rond d’une Ellipse. [p. 55 / 1, 96 sq.] . . . mais ces erreurs sont corrigées par de nouvelles sensations qu’on pourroit peut-être regarder comme une espece de jugemens naturels, et qu’on pourroit appeller jugemens des sens. Or l’on pourroit dire que cela arrive par une espéce de jugement que nous faisons naturellement, sçavoir, que les faces du cube les plus éloignées ne doivent pas former sur le fond de nos yeux des images aussi grandes, que celles qui sont plus proches. [ad p. 55 / 1, 96 sq.] Les sensations des faces d’un cube sont inegales, à peu pres comme on les peint en perspective, et cependant nous les voyons egales. On pourroit dire que c’est par une espece de jugement naturel, mais comme nos sens ne font que sentir et ne [jugent] jamais, ce n’est qu’une sensation composée qui par consequent peut estre fausse. [p. 1823] [p. 56 sq. / 1, 97 sq.] . . . je parle quelquefois des sensations comme des jugemens naturels; parce que cette maniére de parler sert à rendre raison des choses, comme on le peut voir ici, dans le 9. chapitre vers la fin, et dans plusieurs autres endroits. S’il arrive par exemple que nous voyons le haut d’un clocher derriére une grande muraille, ou derriére une montagne, il nous paroîtra assez proche et petit. Que si aprés nous le voyons dans la même distance, mais avec plusieurs terres et plusieurs maisons entre nous et lui, il nous paroîtra sans doute plus éloigné et plus grand, quoique dans l’une et dans l’autre maniére la projection des rayons du clocher ou l’image du clocher qui se peint au fond de nôtre oeil soit toute la même. Or si on le veut, cela vient d’un jugement que nous faisons naturellement, sçavoir, que puisqu’il y a tant de terres entre nous et le clocher, il faut qu’il soit plus éloigné, et par conséquent plus grand. Et cela se fait encore par une espéce de jugement naturel à nôtre ame, laquelle voit de la sorte ce clocher, parce qu’elle le juge à cinq ou six cens pas: car d’ordinaire nôtre imagination ne se représente pas plus d’étenduë entre les objets et nous [ad p. 56 sq. / 1, 97 f.] Cependant comme l’auteur de la nature l’excite en nous comme une espece de jugement, j’en parle comme des jugemens naturels, parce que cette maniere de parler sert à rendre raison des choses,[^1823-20] voyez ch. 9. vers la fin. Ils servent à corriger les sens, si nous voyons le haut d’un clocher derriere une muraille, il paroist proche et petit, si nous voyons des terres entre luy et nous, il paroist plus grand, quoyque la projection qui est dans le fonds de l’oeil soit la même. Ce jugement naturel, ou cette sensation comme s’il estoit grand et eloigné ne suit point d’un jugement de la raison, lorsque nous le sçavons d’ailleurs. Ordinairement nous jugeons que les choses les plus eloignées le sont à 5 ou 600 pas. La lune élevée sur l’horizon paroist plus petite, car on ne voit pas des objets entre elle et nous. Quoyque alors elle soit veritablement plus proche autant qu’elle porte presque le semi-diametre de la terre, d’où vient que lorsque le diametre apparent de la lune pris par des instrumens est plus grand, elle nous paroist moindre aux yeux. Nostre esprit suppose de l’egalité, où il ne remarque point de difference, c’est pour cela que nous jugeons que toutes les estoiles sont dans le même convexe. [p. 1824] [p. 59 / 1, 101] [Chap. VIII.] Mais afin de ne rien dire, que de net et de distinct, il faut d’abord ôter l’é quivoque du mot de mouvement: car par ce terme on entend ordinairement deux choses, dont la premiére est une certaine force, qu’on imagine dans le corps mû, qui est la cause de son mouvement: la seconde est le transport continuël d’un corps, qui s’éloigne ou qui s’approche d’un autre que l’on considére comme en repos. [p. 60 / 1, 102] Il est constant, que nous ne sçaurions juger de la grandeur du mouvement d’un corps, que par la longueur de l’espace, que ce même corps a parcouru.[^1824-21] [p. 61 sq. / 1, 104] Car de même qu’une personne trouve un tableau d’autant plus grand, qu’il s’arréte à considérer avec plus d’attention les moindres choses qui y sont représentées; ou de même qu’on trouve la tête d’une mouche fort grande, quand on en distingue toutes les parties avec un miscroscope, ainsi l’esprit trouve la durée d’autant plus grande, qu’il la considére avec plus d’attention. De sorte que je ne doute point, que Dieu ne puisse appliquer de telle sorte nôtre esprit aux parties de la durée; en nous faisant avoir un tres grand nombre de sensations dans tres-peu de tems, qu’une seule heure nous paroisse plusieurs siécles. [ad p. 59–64 / 1, 102–106] C. 8. Erreurs de nos yeux touchant le mouvement. Quand on dit, la boule communique son mouvement, on l’entend de la force que l’on s’imagine dans le corps mû, qui est la cause du mouvement; mais ce n’est qu’une chimere, mais icy le mouvement s’entend d’un transport d’un corps à l’egard d’un autre, qui se considere comme en repos. Nous ne sçaurions juger de la grandeur du mouvement, que par la grandeur de l’espace parcouru; et il y faut encor joindre le temps. Quand on est comblé de joye, quatre heures n’en paroissent qu’une; mais quand on est mal les jours durent longtemps, car on s’applique à leur durée. Un tableau paroist plus grand quand on s’arreste à le considerer, à peu pres comme la teste d’une mouche considerée par le microscope. Dieu nous donnant un grand nombre de sensations dans tres peu de temps, une heure pourroit paroistre un [p. 1825] siecle, si nos sensations laissoient les traces pour s’en souvenir. Souvent ce qui est en repos nous paroist estre en mouvement, terraeque urbesque recedunt, quand un vaisseau va viste et également, surtout si on ne voyoit point de voiles enflées, ny de matelots en besoigne.
+
+[^1821-19]: Am Rande: obscu[rum]
+
+::: editorial
+
+(zu S. 1821) 15 Giornale de’ letterati, 29 gennaio 1669, no 1, S. 11 f. (Beobachtung von G. A. Borelli).
+
+:::
+
+::: editorial
+
+(zu S. 1822) 34 jugement L ändert Hrsg.
+
+:::
+
+[^1823-20]: Am Rande: ,
+
+[^1824-21]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1824) 30 tres erg. L
+
+:::
+
+[Cap. 9.] Enfin ne pouvant pas connoistre exactement la distance des objets nous n’en sçaurions assez connoistre le changement.
+
+[p. 64] [note a] Voyez la figure.[^1825-22]
+
+[p. 66 / 1, 109] [note b] L’â me ne fait point tous les jugemens que je lui attribuë, ces jugemens naturels ne sont que des sensations[^1825-23]
+
+[p. 66 sq. / 1, 109–111] On se persuadera facilement de ce que je dis, si l’on prend la peine de faire cette expérience, qui est fort facile. Que l’on suspende au bout d’un filet une bague, dont l’ouverture ne nous regarde pas, ou bien qu’on enfonce un bâton dans la terre, et qu’on en prenne un autre à la main, qui soit courbé par le bout: que l’on se retire à trois ou quatre pas de la bague, ou du bâton: que l’on ferme un oeil d’une main, et que de l’autre on tâche d’enfiler la bague, ou de toucher de travers le bâton avec celui que l’on tient à la main, à la hauteur environ de ses yeux: et on sera surpris de ne pouvoir peut-être faire en cent fois, ce que l’on croyoit tres-facile.
+
+Mais il faut bien remarquer, que j’ai dit, qu’on tâchât d’enfiler la bague, ou de toucher le bâton de travers, et non point par une ligne droite de nô tre oeil à la bague: car alors il n’y auroit aucune difficulté; et mêmes il seroit encore plus facile d’en venir à bout avec un oeil fermé, que les deux yeux ouverts, parce que cela nous régleroit.
+
+La disposition des yeux, qui accompagne l’angle formé des rayons visuels qui se coupent et se rencontrent dans l’objet, est donc un des meilleurs et des plus universels moyens, dont l’ame se serve pour juger de la distance des choses. Si donc cet angle ne change point sensiblement, quand l’objet est un peu é loigné , soit qu’il s’approche ou qu’il recule de nous, il s’ensuivra que ce moyen sera faux, et que l’ame ne s’en pourra servir pour juger de la distance de cet objet.
+
+[p. 68 / 1, 112] Il est vrai que si le crystalin devenoit plus convexe quand l’objet est proche, cela feroit le même effet que si l’oeil s’allongeoit: mais il n’est pas croyable qu’il [p. 1826] puisse facilement changer de convexité; et l’on a cependant une preuve tressensible, que l’oeil s’allonge; car l’anatomie apprend qu’il y a des muscles, qui environnent l’oeil par le milieu, et l’on sent l’effort de ces muscles qui le pressent et qui l’allongent, quand on veut voir quelque chose de fort prés.
+
+[^1825-22]: Daneben: Tom. 2. p. 64.
+
+[^1825-23]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1825) 2 terraeque . . . recedunt: VERGIL, Aeneis, III, 72.
+
+:::
+
+[p. 73 sq. / 1, 117] Les Astronomes, qui mesurent les diamétres des Planetes, remarquent que celui de la Lune s’agrandit, à proportion qu’elle s’é loigne de l’horison, c’est-à-dire, à proportion qu’elle nous paroît plus petite: ainsi le diamétre de l’image que nous en avons dans le fond de nos yeux, est plus petit lorsque nous la voyons plus grande. En effet lorsque la Lune se lève, elle est plus é loigné e de nous du demidiamé tre de la terre , que lorsqu’elle est perpendiculairement sur nôtre tête, et c’est-là raison , pour laquelle son diamétre s’agrandit lorsqu’elle monte sur l’horison, parce qu’alors elle s’approche de nous.
+
+Ce qui fait donc, que nous la voyons plus grande lorsqu’elle se léve, n’est point la réfraction que souffrent ses rayons dans les vapeurs qui sortent de la terre, puisque l’image qui est formée de ces rayons est alors plus petite
+
+[p. 76 sq. / 1, 121 sq.] [Chap. X.] Mais cependant on peut assurer qu’il y a ordinairement hors de nous de l’étenduë, des figures, et des mouvemens, lorsque nous en voyons. Ces choses ne sont point seulement imaginaires, elles sont ré elles; et nous ne nous trompons point de croire, qu’elles ont une éxistence réelle, et indépendante de nôtre esprit, quoiqu’il soit tres-difficile de le prouver.
+
+I. On suppose d’abord, qu’on ait fait quelque réfléxion sur deux (a) idé es , qui se trouvent dans nôtre ame: l’une qui nous représente le corps, et l’autre qui nous représente l’esprit.
+
+[note a] J’appelle ici idé e tout ce qui est l’objet immediat de l’esprit.[^1826-24]
+
+[ad p. 76 sq. / 1, 121 f.] Cap. 10. Des erreurs des qualité s sensibles.
+
+L’etendue, la figure et le mouvement sont des choses reelles, mais il est tres difficile de le prouver. Mais les couleurs, odeurs, saveurs et autres qualités sensibles ne se trouvent point hors de nous. Il y a deux idées (j’appelle idée tout objet immediat de l’esprit) celle du corps et celle de l’esprit, dont les attributs positifs qui les distinguent, sont la pensée et l’etendue.
+
+[^1826-24]: Darunter: p. 344.
+
+[p. 1827] [p. 78 / 1, 125] III. Il est encore bon de remarquer ici en passant, que l’expé rience apprend qu’il peut arriver, que nous sentions de la douleur dans des parties de nôtre corps qui nous ont été entiérement coupées.
+
+[ad p. 78 sq. / 1, 125] Il y a des petits filets, dont les organes des sens sont composés, et qui ont leur origine dans les membres où il y a du sentiment et viennent aboutir aux parties exterieures du corps. Ils peuvent estre remués ou par le bout qui est hors du cerveau ou par celuy qui est dans le cerveau, et alors l’ame peut sentir dans des parties imaginaires, qui ont deja esté coupées une douleur tres reelle (+ c’est assez rare +). Dans le sommeil ces filets sont un peu plus laches.
+
+[p. 80 / 1, 127] [note b] Ce raisonnement confus, ou ce jugement naturel n’est qu’une sensation composée. Voyez ce que j’ai dit auparavant des jugemens naturels, et le premier ch. du troisiéme livre.
+
+[p. 81 / 1, 127 sq.] Il faut de plus considérer, que si l’ame n’appercevoit que ce qui se passe dans sa main, quand elle se brûle: si elle n’y voyoit, que le mouvement et la séparation de quelques fibres, elle ne s’en mettroit guéres en peine: et même elle pourroit quelquefois par fantaisie et par caprice, y prendre quelque satisfaction, comme ces fantasques qui se divertissent à tout rompre dans leurs emportemens et dans leurs débauches.
+
+Ou bien de même qu’un prisonnier ne se mettroit guéres en peine, s’il voyoit qu’on démolit les murailles qui l’enferment, et que même il s’en réjouiroit dans l’espérance d’être bien-tôt délivré. Ainsi si nous n’appercevions que la séparation des parties de nôtre corps, lorsque nous nous brûlons, ou que nous recevons quelque blessure, nous nous persuaderions bien-tôt que nôtre bon-heur n’est pas d’être enfermée dans un corps, qui nous empêche de jouïr des choses qui nous doivent rendre heureux; et ainsi nous serions bien aises de le voir détruire.
+
+[ad p. 81 sq. / 1, 127] L’ame n’apperçoit point les ebranlemens des fibres, elle n’en tireroit point assez de lumiere pour juger si elles peuvent nuire a son corps, si elle ne voyoit que des mouvemens dans sa main qui se brusle, elle ne s’en mettroit gueres en peine, et pourroit y prendre plaisir par phantasie,[^1827-25] comme ceux qui rompent tout dans leurs debauches, ou bien [p. 1828] comme un prisonnier ne se met gueres en peine quand on demolit les murailles de sa prison. C’est pourquoy Dieu a voulu nous faire sentir une qualité intime à nous mêmes sçavoir le plaisir ou la douleur. Et cela sans raisonnement, et sans nous faire juger par la structure des parties du corps, qui occuperoit trop la capacité de nostre esprit. [p. 83 / 1, 129] Dans presque toutes les sensations, il y a quatre choses différentes, que l’on confond, parce qu’elles se font toutes ensemble, et comme en un instant. C’est-là le principe de toutes les autres erreurs de nos sens. [ad p. 83 sq. / 1, 129 f.] Dans presque toutes les sensations, il y a quatre choses, l’action de l’objet, la passion de l’organe, la passion de l’ame, et le jugement de l’ame de ce qu’elle sent, s’il est dans la main ou dans le feu, etc. Ce jugement naturel est une sensation composée, mais il est presque tousjours suivi d’un jugement libre, que nous avons pris l’habitude de faire, que nous ne pouvons presque plus nous en empecher. [ad p. 84–86 / 131–133] Ch. 11. Des actions de l’objet. Nous mettons souvent dans l’objet ce que nous sentons en nous, par exemple nous croyons que la chaleur est dans le feu; mais on ne juge pas que la douleur soit dans l’eguille (+ non videtur per calorem intelligi id quod percipimus, sed causam perceptionis a parte objecti ad nos relatam, sciunt enim omnes eandem aquam pro varia dispositione nostra calidam aut frigidam videri +), parce qu’alors la cause de la douleur nous est connue, et comme la bruslure est une douleur, et que nous sçavons d’ailleurs par l’eguille et autres experiences sensibles, que la douleur n’est pas dans l’objet, nous jugeons que la bruslure n’est pas dans le bois, quoyque nous n’en connoissions pas la cause. (+ Les hommes signifient par la douleur leur qualité passive, et par la chaleur la qualité active de l’objet. +) Ordinairement nous mettons nos sensations dans les objets toutes les fois qu’ils agissent sur nous par le mouvement de quelques parties invisibles. [p. 87 / 1, 135] [Chap. XII.] II. Que nous n’appercevons pas ces mouvemens , ou que nous les confondons avec nos sensations. [ad p. 87 / 1, 135] Ch. 12. De la passion de l’organe. Nous ne nous en appercevons point, ou les confondons avec nos sensations. [p. 1829] Nous croyons que la chaleur est dans nostre main, nous ne sçavons pas que les couleurs sont peintes sur la retine comme l’experience le peut faire voir avec un oeil de boeuf nouvellement tué. [p. 89 / 1, 137 sq.] [IV.] Les sensations fortes et vives sont celles qui é tonnent l’esprit, et qui le ré veillent[^1829-26] avec quelque force, comme lui étant fort agréables ou fort incommodes Enfin j’appelle moyennes entre les fortes et les foibles, ces sortes de sensations qui touchent l’âme mé diocrement , comme une grande lumiére, un son violent, etc. [ad p. 89 sq. / 1, 138] L’ame après le peché ne se distingue presque d’avec le corps. L’ame attribue aisement à elle-meme les sensations fortes, et croit qu’elles sont dans les membres de son corps, comme le froid dans la main, une grande lumiere dans les yeux, celles qui sont plus foibles et qui la touchent moins elle les attribue aux objets, comme les couleurs. [p. 91 / 1, 139] Or la raison pour laquelle tous les hommes ne voyent point d’abord que les couleurs, les odeurs, les saveurs, et toutes les autres sensations sont des modifications de leur ame, c’est que véritablement nous n’avons point d’idé e claire de nô tre ame. [ad p. 91 / 1, 139 sq.] Les sensations moyennes nous embarrassent. Comme nous n’avons pas une idée claire de l’ame, nous ne connoissons pas ce qui luy appartient. [p. 92 / 1, 140] Si la sensation la [scil. l’âme] touche assez fort, elle la juge dans son propre corps, aussi bien que dans l’objet. Si elle ne la touche que trés-peu, elle ne la juge que dans l’objet. Par exemple, si on regarde une chandelle d’un peu loin, l’ame juge, que la lumiére n’est que dans l’objet. [p. 93 / 1, 141] Donc de la couleur n’est point du mouvement. [ad p. 93] On ne s’apperçoit point du mouvement quand on voit la couleur, donc de la couleur n’est point du mouvement (+ Consequentia infirma, sentimus forte motus multos, sed confusos +) comme le quarré n’est pas un rond parce que leurs idées different. (+ Mais ces idées sont toutes deux distinctes, et celle de la couleur ne l’est pas. +) [p. 1830] [p. 94 / 1, 142] Mais il n’en est pas de même des couleurs; elles ne peuvent d’ordinaire blesser le fond de l’oeil, où elles se rassemblent, et il nous est inutile de sçavoir qu’elles y sont peintes. [p. 95 sq. / 1, 144] [Chap. XIII.] Il se trouve tous les jours une infinité de gens, qui se mettent fort en peine de sçavoir ce que c’est que la douleur, le plaisir, et les autres sensations, quoiqu’ils tombent mêmes d’accord[^1830-27] qu’elles ne soient que dans l’ame, et qu’elles n’en soient que des modifications. [ad p. 95 /1, 144] Ch. 13. Des passions de l’ame, ou sensations en elles mêmes. On s’imagine qu’on n’a aucune connoissance de ses sensations. Il y a des gens qui voudroient sçavoir ce que c’est que plaisir, douleur, mais ils ne sçauroient l’ignorer entierement, car c’est une modification d’eux mêmes. C’est assez qu’on la peut distinguer de toute autre chose. (+ On en demande la cause. +) Il est impossible de donner aux aveugles la moindre connoissance de ce qu’on appelle verd, jaune, etc. (+ non puto. Explicari potest reperiri in superficie, et alia +). On ne connoist point l’ame par des idées prenant le mot d’idée dans son veritable sens, mais par conscience ou sentiment interieur. Un homme ne voit pas les couleurs comme l’autre, les organes des sens ne sont pas disposés dans les uns comme dans les autres. Les coups de poin[g] que les portefaix se donnent pour se flatter seroient capables d’estropier bien des gens. La musique de France est differente de celle d’Italie. Quand on a l’imagination plus echauffée, on demande une Musique plus hardie et où il entre beaucoup de dissonances. [p. 102 / 1, 150] Voici un exemple plus sensible: supposé que de vingt personnes, il y ait quelqu’un qui ait froid aux mains, et qu’il ne sçache pas les noms dont on se sert en France pour expliquer les sensations de froideur et de chaleur, et que tous les autres au contraire ayent les mains extrêmement chaudes. Si en hyver on leur apportoit à tous de l’eau un peu froide pour se laver, ceux qui auroient les mains fort chaudes se lavant d’abord les uns aprés les autres pourroient bien dire: Voila de l’eau bien froide [ad p. 102 / 1, 150] Quand on dit qu’on n’aime pas le doux, ce n’est pas [p. 1831] selon la verité qu’on n’aime pas la sensation de l’autre, mais qu’on ne l’a pas. Si quelqu’un ne sçavoit pas ce qu’on entend par le mot de froid, et avoit les mains fort froides, entendant que d’autres disent en se lavant, voilà de l’eau bien froide, je n’aime pas cela; il pourroit dire, je ne sçay pourquoy vous n’aimés pas le froid, pour moy j’y prends plaisir. Mais c’est qu’il la trouveroit tiede. On change quelquefois de passion pour les choses, parce qu’on en a esté là malade, ou qu’on y trouve quelque saleté melée. [p. 104 / 1, 151 sq.] Dont la raison est, que quand deux mouvemens se sont faits dans le cerveau en même-tems, l’un ne s’excite plus sans l’autre, si ce n’est après un tems considérable. [ad p. 104 / 1, 151 sq.] Ils ont deux sensations, l’une de la chose, qui peut demeurer la même, l’autre accessoire, qui est le souvenir du mal qui estoit joint, et deux mouvemens estant faits dans le cerveau en même temps, l’un ne s’excite plus sans l’autre qu’après un temps considerable. [ad p. 106 / 1, 155] L’on prend plus de plaisir à la saveur, qu’à la couleur. Les couleurs ne sont pas données pour marquer ce qui est bon à nostre nourriture. Ils ne sont donnés que pour distinguer les corps (+ de loin +). [p. 106 / 1, 155] [Chap. XIV.] On prévoit bien d’abord, qu’il se trouvera tres-peu de personnes qui ne soient choquées de cette proposition générale que l’on avance: sçavoir, que nous n’avons aucune sensation des choses exté rieures, qui n’enferme un ou plusieurs faux jugemens. Ch. 14. Des jugemens de l’ame qui accompagnent les sensations. Il y en a de jugemens naturels et de jugemens libres. Nous n’avons aucune sensation des choses exterieures, qui n’enferme un ou plusieurs faux jugemens. [p. 107 / 1, 156] Il est donc né cessaire, que nô tre ame voye les maisons et les é toiles où elles ne sont pas ,[^1831-28] puis qu’elle ne sort point du corps où elle est, et qu’elle ne laisse pas de les voir. [ad p. 107 / 1, 156] Nostre ame voit les estoiles où elles ne sont pas, car elle ne sort point du corps où elle est, et ne peut voir que celles qui sont [p. 1832] immediatement unies à l’ame. On ne peut s’empecher de faire ce jugement naturel. Mais on se peut empecher de faire ensuite celuy qui est libre ou volontaire. L’ame ne pouvant les voir quand il luy plait, elle est portée à juger qu’elles sont au dehors et dans la cause. Non seulement on sent, mais on croit aussi, l’un est un jugement naturel, l’autre est un jugement volontaire.
+
+[^1827-25]: Am Rande: NB.
+
+::: editorial
+
+(zu S. 1827) 4 filets (1) dans les (a) organes (b) membres ou il y a du sentim (2) dont L 27 L’ame (1) ne sent (2) n’apperçoit L 27 les (1) changemens (2) ebranlemens L
+
+:::
+
+::: editorial
+
+(zu S. 1828) 25 hommes (1) ent (2) signifient L
+
+:::
+
+[^1829-26]: Dazu: cela ne s’accorde point
+
+[^1830-27]: Dazu: ils en demandent les causes
+
+::: editorial
+
+(zu S. 1830) 16 idées (1) distinctes (2) prenant L
+
+:::
+
+[^1831-28]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1831) 1 f. Si (1) plusi (2) quelqu’un L 2 qu’on (1) app (2) entend L 15 la (1) douleur (2) saveur, L 16 f. nostre (1) nature (2) nourriture L
+
+:::
+
+[p. 109 sq. / 1, 158] Cependant ces jugemens sont tres faux en eux mê mes, quoi que fort utiles à la conservation de la vie.
+
+[ad p. 109 sq./ 1, 158] Ces jugemens naturels sont tres faux en eux mêmes mais utiles à la conservation de la vie.
+
+[p. 110 / 1, 159] Il peut toutefois arriver, que nous voyions ce premier Soleil qui est uni intimement à nôtre ame, sans que l’autre soit sur l’horison, et même absolument parlant, sans qu’il existe du tout. De même nous pouvons voir ce premier Soleil plus grand, quand l’autre se léve, que quand il est fort élevé sur l’horison
+
+[ad p. 110/ / 1, 159] Il est possible que je voye le soleil immediatement uni à mon ame, sans que l’autre existe ou au moins sans qu’il soit sur l’horison, et on le voit plus ou moins grand, aussi ce soleil en nous l’est veritablement.
+
+[p. 111 / 1, 160] Car il n’y a rien de plus vrai que tous les visionnaires voient ce qu’ils voient
+
+[ad p. 111] Les visionnaires voyent ce qu’ils voyent, leur erreur consiste dans les jugemens de ce qui existe au dehors.
+
+[ad p. 112 / 1, 162] Ch. 15. Exemple des erreurs generales des sens, par l’explication de ceux de la veue.
+
+[ad p. 114 / 1, 163 sq.] L’ame croit que la douleur que fait la lumiere du soleil est dans les yeux. Quand on a regardé le soleil et entre dans un lieu obscur, les yeux ouverts, on pense voir une lumiere blanche et jaune dans ses yeux ou sur la muraille. Peu à peu la couleur blanche devient orangée, puis se change en rouge, enfin en bleue.
+
+[p. 115 / 1, 165] [Chap. XVI.] I. Que les erreurs de nos sens nous servent de principes gé né raux et fort fé conds pour tirer de fausses conclusions , lesquelles servent de principes à leur tour. II. L’origine des différences essentielles. III. Des formes substantielles. IV. Des autres erreurs de la Philosophie de l’Ecole. [p. 1833] [p. 117 / 1, 167] . . . que les sensations qu’il [scil. l’esprit] a du miel, différent essentiellement de celles qu’il a du sel puisqu’il n’en juge que par l’impression qu’ils font sur les sens. Il regarde donc ensuite sa conclusion, comme un nouveau principe, duquel il tire d’autres conclusions en cette sorte.[^1833-29] [p. 119 / 1, 169] Ils ont assez fait voir que les formes substantielles ne furent jamais dans la nature [ad p. 119 sq. / 1, 169 f.] Ch. 16. Les formes substantielles ne furent jamais dans la nature. Elles ne suivent que de ce principe que les sensations comme couleurs, etc. sont dans les objets qu’ils sentent, par exemple la couleur blanche dans le sel, jaune dans le miel, lesquelles couleurs different essentiellement, il s’ensuit aussi qu’il y ait une difference essentielle entre le sel et le miel, et par consequent que cette difference ne consiste point dans la seule configuration. (+ Quasi configurationes non differant essentialiter. +) [ad p. 115 / 1, 165] Ainsi les erreurs des sens sont des principes des fausses conclusions. [p. 121 sq. / 1, 172 sq.] [Chap. XVII.] Et si ce n’est point elle qui se cause du plaisir ou de la douleur selon la diversité des ébranlemens des fibres de son corps, comme il y a toutes les apparences, puisqu’elle sent du plaisir et de la douleur sans qu’elle y consente, je ne connois point d’autre main assez puissante pour les luy faire sentir, que celle de l’Auteur de toutes choses. [ad p. 121 sq. / 1, 172 f.] Ch. 17. Croyant que les sensations sont dans les objets, et de plus que les objets sont les seules et veritables causes de nos sensations, cela fait qu’on s’attache aux biens sensibles. Mais puisque comme les objets ne peuvent agir tout au plus que sur nostre corps; et que ce n’est pas non plus l’ame qui agiroit sur elle même à l’occasion de ce qui se passe dans le corps (parce qu’elle sent du plaisir et de la douleur sans qu’elle y consente). Il n’y a que Dieu qui les luy puisse faire sentir: donc il n’y a que Dieu qui soit nostre veritable bien. (+ Mais il s’ensuivroit aussi, qu’il n’y auroit que Dieu qui seroit nostre veritable mal ou[^1833-30] bien il faut dire, [p. 1834] qu’il n’y a point de veritable mal; ou que l’ame produise ses maux, et non pas ses biens +). [ad p. 123 / 1, 174 sq.] Plus le bien est grand, et plus les plaisirs le sont, c’est pourquoy les plaisirs des bienheureux surpassent tous les plaisirs. Les biens sensibles ne peuvent estre des biens à l’egard de nostre ame. Les objects exterieurs n’enferment rien d’agreable ny de facheux (+ , +). Ils ne sont point la cause de nos plaisirs. (+ Passe +) Nous n’avons pas sujet de les craindre ny de les aimer. (+ Ergo pater, mater, conjux, amici non amandi εëτερογλωσσιÂα. +) [ad p. 124 / 1, 176 sq.] C. 18. Les sens portent à l’erreur en des choses même qui ne sont pas sensibles en nous empechant de considerer les objects avec attention et en nous inclinant de juger sur leur rapport. [p. 125 / 1, 177] La raison[^1834-31] de ceci est, que les sens représentent les objets comme présens, et que l’imagination ne les représente que comme absens. [ad p. 125 / 1, 177] L’ame est plus attentive à ce qui la touche plus. Or ce qu’elle apperçoit par les sens la touche plus que ce qu’elle imagine, et encor plus que ce qu’elle entend. (+ Qu’est-ce que toucher? +) La raison est (+ cause finale +) que les sens representent les choses comme presentes, l’imagination comme absentes, or l’ordre demande que le present touche plus, parce que l’ame se doit determiner promtement. Et comme l’ame ne peut concevoir nettement beaucoup de choses à la fois, elle ne s’attache gueres aux idées distinctes que l’entendement luy represente en même temps. [p. 126 / 1, 179] . . . enfin, s’il est assez heureux pour plaire, ou pour étre estimé, il aura raison dans tout ce qu’il avancera; et il n’y aura pas jusqu’à son colet et à ses manchettes, qui ne prouvent quelque chose. [ad p. 126 / 1, 179] Nous voyons que les auditeurs sont plus touchés par l’exterieur avantageux que par la force des raisons. Une personne de qualité suivie d’un grand train, parlant avec autorité et avec gravité, ecoutée avec respect et en silence, surtout si elle a de la reputation, et quelque commerce avec les esprits du premier ordre, et si elle est aimée ou [p. 1835] estimée, aura raison dans tout ce qu’elle avancera. Il n’y aura pas jusqu’à son colet et ses manchettes qui ne prouve quelque chose. [ad p. 128 sq. / 1, 180 f.] Les juges de l’areopage n’écouterent des avocats que dans les tenebres, et leur defendoient les figures et les ornemens. C. 19. Une des principales erreurs en matiere de physique est qu’on croit qu’il y a beaucoup plus de substance dans les corps qui se font beaucoup sentir, comme dans l’or plus que dans l’air. Item que ce qui est plus agreable est plus pur et plus parfait. Par exemple l’eau claire plus que la fange. [p. 129 / 1, 182] Mais les personnes, qui aiment les entrailles de la becasse et les excremens de la foü ine , ne disent pas que c’est de l’impureté, quoiqu’ils le disent de ce qui sort de tous les autres animaux. Enfin le musc et l’ambre[^1835-32] sont estimez genéralement de tous les hommes, quoi que l’on tienne que ce ne sont que des excremens. [ad p. 129 / 1, 182] Cependant des personnes qui aiment les entrailles de la becasse et les excremens de la fouine ne disent pas que c’est de l’impureté, quoyqu’ils le disent de tous les autres animaux. Et le musc et l’ambre sont estimés generalement, quoyque l’on tienne que ce ne sont que des excremens. [ad p. 132 / 1, 184 sq.] On ne se met pas en peine de l’approbation et de l’estime de ceux qui veuillent juger de ces choses sans ecouter et sans les examiner. Il suffit qu’on defende la verité et qu’on ait l’approbation de ceux qui travaillent serieusement pour la decouvrir, c’est au jugement de ceux cy qu’on se soumet. Livre II. De l’imagination, partie Iere. [p. 136 / 1, 190 sq.] Voici l’ordre que nous gardons dans ce Traité. Il est divisé en trois Parties. Dans la premiére nous expliquons les causes physiques du déreglément, et des erreurs de l’imagination. Dans la seconde nous faisons quelque application de ces causes aux erreurs les plus générales de l’imagination; et nous parlons aussi des causes que l’on peut appeller morales de ces erreurs. Dans la troisiéme nous parlons de la communication contagieuse des imaginations fortes. [ad p. 136 sq. / 1, 190 f.] Les sens et l’imagination ne different que du plus et [p. 1836] du moins. Ce livre aura trois parties. Dans la premiere on explique les causes physiques des erreurs de l’imagination, dans la 2de on les applique aux erreurs, et on explique aussi les causes morales; dans la 3me nous parlons de la contagion des imaginations fortes. Ch. 1. Les esprits animaux d’ordinaire agitent moins les fibres du cerveau (+ , +) que les objets exterieurs. Cependant des jeunes, des vieilles, une fievre chaude ou folie, quelques fois les agitent autant ou plus. [p. 138 / 1, 192 sq.] De sorte que la faculté d’imaginer, ou l’imagination ne consiste que dans la puissance qu’a l’ame de se former des images des choses, en produisant du changement dans les fibres de cette partie du cerveau, que l’on peut appeller partie principale, parce qu’elle répond à toutes les parties de nôtre corps [ad p. 138 / 1, 192 sq.] Le changement de l’ordre des fibres du cerveau accompagne tousjours le changement de l’imagination dans l’ame. La faculté d’imaginer est la puissance de l’ame de se former des images en produisant du changement dans les fibres du cerveau. (+ An justum; l’ame pour produire un changement en elle produit premierement un changement dans le cerveau, et ce changement en produit un à son tour dans l’ame. Circulus inutilis. Pourquoy l’ame ne produit elle pas ce changement en elle même sans ce detour. +) [p. 139 / 1, 194] Il suffit, et il est absolument né cessaire, qu’il y en ait une principale, et que le fond du Systeme de M. Descartes subsiste. [ad p. 139 / 1, 193 sq.] On entend cette partie du cerveau, où tous les nerfs aboutissent. Selon M. des Cartes, c’est la glande pineale. Selon M. Willis c’est corpus striatum, où reside le sens commun. Les sinuosités du cerveau conservent les especes, et le corps calleux est le siege de l’imagination. Selon Fernel c’est la pie mere. Quoyqu’il en soit; il faut qu’il y ait une telle partie. (+ Peutestre n’y en a-t-il aucune, et que c’est un fluide dont les mouvemens [se] servent. +) [ad p. 140 / 1, 194] La netteté de ces traits de l’imagination depend de la force des esprits qui les tracent, et de la constitution des fibres. Dans les [p. 1837] esprits animaux, il y a de l’abondance, velocité, grosseur, plus ou moins. Dans les fibres grosseur, humidité, facilité de ployer. [ad p. 143 sq. / 1, 197 f.] Ch. 2. Le chyle mêlé avec le sang va au coeur et y produit du changement. C’est pourquoy il doit y avoir grande difference entre ceux qui sont à jeun et ceux qui ont fait bonne chere. Ceux[^1837-33] qui sont dans une sante parfaite font une digestion si achevée que le chyle entrant dans le coeur n’en augmente et n’en diminue presque point la chaleur, mais les vieillards et les infirmes s’assoupissent après le repas, ou du moins leur imagination devient languissante. Le vin fournit des esprits animaux presque tous faits, mais ils sont un peu libertins, ils ont trop de solidité et trop d’agitation. [ad p. 145 / 1, 198 sq.] Ch. 3. L’air qu’on respire change aussi les esprits animaux mais plus lentement. [p. 146 / 1, 202] Je pourrois cependant assûrer sur la foi de Monsieur Silvius, que l’air même le plus grossier passe de la trachée artere dans le coeur, puisqu’il assûre lui même, qu’il l’y a veu passer par l’adresse de Monsieur de Swammerdam. [ad p. 146 / 1, 202] M. Sylvius asseure que l’air même le plus grossier passe de la trachée artere dans le coeur, et qu’il l’a veu par l’adresse de M. Schwammerdam. De cela vient en partie la difference des pays. [ad p. 147 / 1, 204] Ch. 4. Les nerfs qui vont aux visceres principalement au coeur font des grandes impressions sur nous; d’autant qu’ils ne dependent point de la volonté. [ad p. 149–151 / 1, 206–208] Le foye contient la partie la plus subtile du sang, sçavoir la bile; la rate la plus grossiere, le pancreas un suc acide propre pour la fermentation. Dans la passion le nerf qui environne le foye en le serrant augmentera la bile des veines, dont le feu montera à la teste à son tour. Tout cela ne se fait que par machine, sans ordre de la volonté. [ad p. 154–157 / 1, 212 sq.] Ch. 5. La memoire et les habitudes ne sont autre chose que la facilité que nous avons de penser à des choses aux quelles nous avons déja pensé et de faire des choses que nous avons déja faites. Les [p. 1838] branches d’un arbre qui ont demeurées quelque temps ployées d’une certaine façon conservent quelque facilité pour estre ployées de nouveau de la même maniere. (+ Il y a quelque autre chose dans la memoire. Il ne suffit pas d’avoir la facilité de penser, il faut juger qu’on y a déja pensé. +) On s’apperçoit plus aisement de ce qu’on a vu plusieurs fois, et de ce qu’on a vu plus aisement que de ce qu’on a imaginé. (+ Et plus aisement de ce qu’on a entendu avec image, que sans image. +) Ces choses suffisent pour decouvrir la cause des effects si surprenants de la memoire dont parle S. Augustin lib. 10 de ses Confessions. Pour expliquer les habitudes il faut concevoir qu’il y a des endroits dans le cerveau, où il y a des esprits agités tousjours prests à couler où ils trouvent des passages ouverts, c’est à dire dans les nerfs des muscles. On voit que lors qu’on est foible, et qu’on a de la peine à se soûtenir sur ses pieds, et qu’on prend quelque chose de fort spiritueux, le corps obeit mieux car il y manquoit des esprits animaux. Les enflures des muscles sont visibles dans les agitations de nos bras et des autres parties du corps. Les passages ne sont pas tousjours assez libres, comme lorsqu’on commence à apprendre à jouer d’un instrument ou à parler une langue. [p. 158 / 1, 228] Car c’est dans cette facilité que les esprits animaux ont de passer dans les membres de nôtre corps, que consistent les habitudes. [ad p. 158 sq. / 1, 228 f.] Mais enfin les chemins sont applanis, et il y a moins de resistance, cela fait les habitudes. Les enfans acquierent plus facilement des habitudes. (+ Les vieillards les perdent difficilement. +) Il est difficile de perdre les vieilles habitudes. La memoire est une espece d’habitude et dans les bestes elle n’est autre chose qu’une habitude. (+ Il est difficile de bien expliquer comment nous sçavons que nous avons déja pensé à une certaine chose. C’est par les images de nostre corps jointes a la pensée que nous avions alors, cela s’entend dans les souvenances un peu eloignées. Je me souviens d’avoir entendu cela d’un tel, car je me figure assis aupres de moy dans l’eglise, et cette imagination a connexion à celles que j’appelle sentimens à present. +) [ad p. 160 / 1, 231] Ch. 6. Les fibres sont plus delicates et plus molles dans l’enfance, avec l’âge elles deviennent plus seches, plus dures et plus fortes, [p. 1839] mais dans la vieillesse elles sont fort inflexibles, grossieres, et melées des humidités superflues que la chaleur trop foible ne peut dissiper. Les esprits sechent les fibres comme les vents sechent la terre (+ mais peut estre qu’ils y laissent quelque phlegme comme l’esprit de vin +), donc les yvrognes doivent avoir les fibres plus solides. (+ Plus tost, plus pleines de phlegme. +)
+
+::: editorial
+
+(zu S. 1832) 21–27 Exemple (1) d’un changement (2) des . . . bleue. erg. L
+
+:::
+
+[^1833-29]: Daneben: jusqu’icy tout cela se peut excuser
+
+[^1833-30]: ou . . . biens am Rande angestrichen
+
+::: editorial
+
+(zu S. 1833) 25 pas (1) l’ame qui (2) non L 25 qui (1) agit elle même sur (2) agiroit . . . même L
+
+:::
+
+[^1834-31]: Am Rande: causa finalis
+
+::: editorial
+
+(zu S. 1834) 1 l’ame (1) s’agisse son bien (2) produise L
+
+:::
+
+[^1835-32]: Über l’ambre: ,
+
+::: editorial
+
+(zu S. 1836) 17 f. l’ame. (1) Il entend cette (2) Circulus L 23 aboutissent (1) quoyque (2) . Selon L 30 de (1) l’obeissance (2) la constitution L
+
+23 Vgl. R. DESCARTES, Traité de l’Homme, 1664, S. 73 (A.T. XI, S. 176). 24 TH. WILLIS, Cerebri Anatome, London 1664, I, 11. 26 J. FERNEL, Universa medicina, 2 Tle, Utrecht 1656, lib. I, cap. 9; lib. V, cap. 8 u. 10.
+
+:::
+
+[^1837-33]: Ceux . . . chaleur am Rande angestrichen
+
+::: editorial
+
+(zu S. 1837) 6 le (1) sa (2) chyle L 8 f. leur (1) vivacité (2) imagination L 25 fermenation. (1) Le nerf (2) Dans L 28 memoire (1) n’est autr (2) et L
+
+:::
+
+::: editorial
+
+(zu S. 1838) 4 juger (1) que (2) qu’on L
+
+:::
+
+[ad p. 161 / 1, 232 sq.] Ch. 7. Nous tenons à toutes choses et nous avons des rapports naturels à tous les corps qui nous environnent, mais à l’un plus qu’à l’autre à mesure du besoin.
+
+[p. 162 / 1, 234 sq.] . . . on a ce me semble raison de penser que les meres sont capables d’imprimer dans leurs enfans tous les mêmes sentimens dont elles sont frappées, et toutes les mêmes passions dont elles sont agitées. Car enfin le corps de l’enfant ne fait qu’un même corps avec celui de la mere
+
+[ad p. 162 / 1, 234 sq.] Les enfans sont dans le sein de leur meres les plus unis à leur mere, les meres impriment les mêmes sentimens aux enfans.
+
+[p. 162 sq. / 1, 235] Ces choses me paroissent incontestables pour plusieurs raisons; mais cependant je ne les avance ici que comme une supposition , et je croi qu’elle se trouvera suffisamment démontrée par la suite.
+
+[ad p. 163 / 1, 236] Il y a dans nostre cerveau des ressorts qui nous portent naturellement à l’imitation. Les esprits animaux se portent naturellement dans les endroits propres à produire les actions que nous voyons. (+ Quia imaginando incipimus agere. +)
+
+[p. 165 / 1, 237] . . . des bêtes . . . parce que la plû part des hommes ne les peuvent tuë r sans se blesser par le contrecoup de la compassion.
+
+Ce qu’il faut principalement remarquer ici, c’est que la veuë sensible de la blessure qu’une personne reçoit, produit dans ceux qui le voyent une autre blessure d’autant plus grande, qu’ils sont plus foibles et plus délicats.
+
+[p. 166 / 1, 238 sq.] III. Il y a environ sept ou huit ans, que l’on voyoit aux incurables un jeune homme, qui étoit né fou, et dont le corps étoit rompu dans les mêmes endroits, dans lesquels on rompt les criminels. Il a vêcu prés de vingt ans en cet état: plusieurs personnes l’y ont veu, et la feuë Reine-Mere, étant allée visiter cet Hospital eut la curiosité de le voir, et même de toucher les bras, et les jambes de ce jeune homme aux endroits où étoit la fracture. [p. 1840] [p. 167 / 1, 240] Et il faut remarquer, que si cette mere eût déterminé le mouvement de ces esprits vers quelqu’autre partie de son corps en se chatoüillant avec force, son enfant n’auroit point eu les os rompus, mais la partie, qui eût répondu à celle vers laquelle la mere auroit déterminé ces esprits, eût été fort blessée [ad p. 165–167 / 1, 237–240] On veut aussi une compassion. Cette impression nous empeche souvent de massacrer les bestes. Ceux là même qui sont les plus persuadés que ce sont des machines, pour ne se pas blesser par le contrecoup de l’imagination. Cette blessure est plus grande plus nous sommes foibles ou delicats. Quand les femmes grosses sont frappées d’une imagination extraordinaire, on leur conseille de se frotter à quelque partie cachée du corps. Il y avoit aux incurables un jeune homme qui estoit né fou, et dont le corps estoit rompu dans les endroits dans lesquels on rompe les criminels, parcequ’elle l’avoit vu; la Reine mère l’a vû. [p. 168 / 1, 240] Il n’y a pas un an qu’une femme, ayant consideré avec trop d’application le tableau de Saint Pie dont on a celebré la feste de la Canonisation, accoucha d’un enfant qui ressembloit entiérement à la représentation de ce Saint. [p. 170 / 1, 242] Car encore que l’on puisse donner quelque raison de la formation du foetus en général, comme Monsieur Descartes l’a tenté assez heureusement. Il est vrai que la pensée la plus raisonnable, et la plus conforme à l’expérience sur cette question tres-difficile de la formation du foetus, c’est que les enfans sont déja tout formez avant même l’action [ad p. 170 sq. / 1, 242 f.] Il est tres difficile d’expliquer formationem foetus, et pourquoy une cavale n’engendre pas un boeuf, sans la communication du cerveau de la mere avec celuy de l’enfant. Et quoyque la pensée la plus raisonnable soit que les enfans sont tout formés et ne reçoivent que de l’accroissement, cet accroissement même a besoin d’estre reglé. [p. 172 / 1, 244] . . . que les tulippes par exemple qui viennent de caïeux sont de même couleur que leur mere, et que celles qui viennent de graine en sont presque toûjours fort différentes [ad p. 171–173 / 1, 244–246] Il est vray que les plantes n’ont pas besoin de ce secours. Cependant on voit que les plantes qui reçoivent leur accroissement par l’action de leur mere ressemblent beaucoup que celles qui viennent [p. 1841] de graine. Les tulipes par exemple qui viennent de caïeux sont de même couleur que leur mere. Celles qui viennent de graine sont presque tousjours fort differentes. Dieu[^1841-34] n’a pas eu dessein de faire des monstres. S’il ne faisoit qu’un animal il ne [le] feroit point monstrueux, mais il a voulu suivre les voyes les plus simples sans se detourner de l’ordre des choses pour quelque monstre qu’il prevoyoit en devoit suivre. Un monstre tout seul est un ouvrage imparfait, mais joint aux autres, il ne rend pas le monde imparfait. Les meres font naistre les mêmes passions dans l’esprit du foetus (+ , +) et par consequent elles luy corrompent le coeur et la raison en plusieurs manieres, car tous les sentimens corporels sont accompagnés de veritables sentimens et passions dans l’ame. Or les meres communiquent à leurs enfans les traces de leur cerveau (+ , +). Tant d’enfans portent sur le visage des marques de l’idée qui a frappé la mere quoyque la peau resiste plus que les fibres du cerveau. (+ Mais elle retient mieux aussi. +) Il y a des familles entieres qui sont affligées de grandes foiblesses d’imagination. [ad p. 174 / 1, 246 sq.] Le Roy Jacques ne pouvoit souffrir la veue de l’epée nue, parce que sa mere estant grosse de luy, quelques seigneurs tuerent son secretaire italien quoyque elle se fut jettée au devant de luy pour les en empecher. Elle en reçut meme quelques legeres blessures. Voyés ce qu’il en dit dans son Traité de la poudre de sympathie. On voit des gens qui ne sçauroient souffrir certains animaux qui peutestre ont fait peur aux meres grosses. [p. 174 sq. / 1, 247] V. Mais ce que je souhaite principalement que l’on remarque, c’est qu’il y a toutes les apparences possibles que les hommes gardent encore aujourd’huy dans leur cerveau des marques, et des impressions de leurs premiers parens. [ad p. 175–177 / 1, 247–250] On peut dire que les hommes gardent encor [p. 1842] aujourd’huy dans le cerveau des marques de leurs premiers parens, à cause des traces profondes qu’ils ont reçeus après le peché. Ainsi nous devons naistre avec la concupiscence et avec le peché originel. Le regne de la concupiscence et ces esprits victorieux et maistres du coeur (Paul ad Rom. VI. 12. 14) sont apparemment ce qu’on appelle peché originel dans les enfans et peché actuel dans les hommes libres. (+ Ergone haec eadem? +) [VI.] (+ Nous voyons que les poulets ont peur de certains oiseaux de proye, qu’ils n’avoient jamais vû; et les craignent quand ils sont encor fort loin, se jettans où ils peuvent. +) Les petits ont les memes ruses pour se surprendre ou pour se defendre. Cependant il faut distinguer entre les traces naturelles, aux quelles il n’y a rien dans le corps qui ne soit conforme, et qui se transmettent; et les acquises qui se perdent peu à peu d’elles memes, et qui ne sont que dans le cerveau, et ne rayonnent point dans le reste du corps. C’est pourquoy elles ne se transmettent que lorsqu’elles sont accompagnées d’une passion violente. [ad p. 178 / 1, 251 sq.] Les sentimens des enfans quand ils sont mis au monde sont plus vifs que ceux qu’ils recevoient de la mere, qui se trouvent enfin effacés. [ad p. 179 sq. / 1, 252 f.] Les pensées spirituelles ne se transmettent point; l’amour de Dieu qui est dans la mere, ne produira dans l’enfant que l’imagination peutestre de quelque vieillard, le corps n’est pas fait pour instruire l’esprit et il ne parle à l’ame que pour luy même. [ad p. 181 / 1, 254] Dans la regeneration la force du sacrement fait aimer Dieu, ou du moins dispose le coeur comme il seroit s’il avoit actuellement aimé. [ad p. 182 sq. / 1, 256 f.] Ch. 8. Les larmes d’un enfant nouvellement né, sont les prières que la nature fait pour luy aux assistans, afin qu’ils le defendent des maux qu’il souffre ou apprehende. Les enfans doivent estre surpris comme nous serions, si nous nous voyions environnés tout d’un coup de geans ou de quelques monstres des poetes ou animaux inconnus, tels que tous les hommes sont à l’enfant. (+ Les enfans n’ont pas des pensées si [p. 1843] distinctes. +) [ad p. 184 / 1, 258] Les inclinations secretes que nous avons pour certaines choses ne semblent venir que des traces de nos premiers jours. M. des Cartes dit qu’il avoit une amitie particuliere pour toutes les personnes louches, parce qu’une jeune fille qu’il aimoit estant encor enfant avoit ce defaut. [ad p. 185 sq. / 1, 259] Mais ce qu’il y a de plus important, c’est que nous sommes tous sujets à quelque espece de folie et que nous avons l’esprit faux en quelque chose. [ad p. 186 / 1, 259] Les nourrices ne font aux enfans que des contes ridicules et quelques fois terribles. [ad p. 188 / 1, 261] Les dragées ou les pommes font autant d’impression sur l’esprit d’un enfant, que les grandeurs sur celuy d’un homme de 40 ans. Cela les detourne des sciences, aussi bien que ces divertissemens dont on les recompense, et les peines dont on les menace. Cela les eloigne aussi de la vraye pieté, car ils sont remplis de choses sensibles.[^1843-35] [p. 189 / 1, 263] C’est éteindre leur raison, et corrompre leurs meilleures inclinations, que de les tenir dans leur devoir par des impressions sensibles. [ad p. 189 / 1, 263] C’est corrompre la raison des enfans que de les tenir dans leur devoir par des impressions sensibles. Ce n’est qu’une apparence de devoir qui fait une crainte servile, ou une affection interessée. Il ne faut venir à ces choses qu’au defaut de la raison. (+ Il faudroit tousjours de bons exemples aux enfans. +) [p. 191 / 1, 264] Mais ce qu’il faut principalement remarquer, c’est que les peines ne remplissent pas la capacité de l’esprit, comme les plaisirs. . Ainsi on peut s’en servir envers les enfans pour les retenir dans leur devoir ou dans l’apparence de leur devoir. Mais s’il est quelquefois utile d’effrayer et de punir les enfans par des châtimens sensibles, il ne faut pas conclure qu’on doive de mê me les attirer par des ré compenses sensibles. [ad p. 191 / 1, 264] Les peines sont plus propres à corriger que les plaisirs; [p. 1844] les peines ne remplissent pas la capacité de l’esprit comme les plaisirs (+ , +). On cesse facilement d’y penser. Il ne faut donc pas se servir de recompenses sensibles. Livre 2. Partie 2 [ad p. 192–194 / 1, 266–268] Chap. 1. Tout ce qui depend du goust est du ressort des femmes. C’est qu’elles ont les fibres delicates. On l’entend pour l’ordinaire. Mais laissons là les enfans et les femmes, on ne les croit gueres sur les matieres d’importance. La solidité des fibres des hommes faits fait la solidité ou la consistance de leurs prejugés qui font tousjours naistre de nouvelles erreurs. Cela les rend encore inhabiles à la meditation. Il faut s’exercer à mediter sur toute sorte de sujets. [ad p. 199–201 / 1, 274–276] Ch. 2. Les esprits animaux vont d’ordinaire dans les traces des choses qui nous sont plus familieres. Nous pensons voir un visage dans la lune, parce que nous sommes accoustumés a voir des visages, et que la grandeur apparente de la lune n’est pas fort differente d’une teste; d’ou viennent aussi des chariots dans les nuës. [p. 202 / 1, 277] Il y en a eu un, par exemple, qui a fait plusieurs volumes sur la Croix: cela lui a fait voir des croix par tout [ad p. 202 sq./ 1, 277 f.] Un medecin prevenu trouve du scorbut dans toutes les maladies, il en attend les mêmes effects, et il est surpris quand ils ne viennent point. Un auteur qui veut ecrire de la croix trouve des croix partout (+ le P. Kirker du Cophte +). Ch. 3. Liaison naturelle des traces et traces, idées et idées, idées et traces. [ad p. 206 sq. / 1, 216–218] Souvent la seule identité du temps fait la liaison des idées et des traces. Comme par exemple les mots entendus tousjours lors qu’il y a occasion de faire naistre une certaine pensée, item la volonté des hommes. (+ Mais elle se sert de l’identité susdite. +) Cette volonté fait la repetition de la rencontre des traces et des idées, la 3me cause est la volonté du createur, c’est elle qui est entre les traces du cerveau et les sentimens.
+
+::: editorial
+
+(zu S. 1839) 5 plus (1) phlegmatiques (2) pleines de phlegme L
+
+:::
+
+::: editorial
+
+(zu S. 1840) 14 parcequ’elle l’avoit vû. erg. L
+
+:::
+
+[^1841-34]: Satz am Rande angestrichen
+
+::: editorial
+
+(zu S. 1841) 8 dans (1) les (2) l’esprit L 12 sur le visage erg. L
+
+18 secretaire italien: d. i. David Rizzio. 20 K. DIGBY, Discours fait en une celebre assemblée, touchant la guerison des playes par la poudre de sympathie, Paris 1658.
+
+:::
+
+::: editorial
+
+(zu S. 1842) 6 les (1) petits (2) enfans L 11 f. naturelles, (1) qui sont (2) aux quelles L 23 l’esprit (1) Dieu (2) et L 23 parle (1) dans (2) à L
+
+:::
+
+[^1843-35]: Am Rande: Education
+
+::: editorial
+
+(zu S. 1843) 31 plaisirs; (1) ils (2) les L 3–5 R. DESCARTES, Lettres, Bd 1, XXXVI, S. 124 f. (A.T. V, S. 57).
+
+:::
+
+::: editorial
+
+(zu S. 1844) 7 matieres (1) delicates (2) d’importance L 8 leurs (1) erreurs (2) prejugés L 19 maladies, (1) et il est surpris (2) il L
+
+21 Vgl. A. KIRCHER, Prodromus coptus sive aegyptiacus, Rom 1636; Diatribe de prodigiosis crucibus, Rom 1661; Würzburg 1666.
+
+:::
+
+[p. 1845] [p. 208 / 1, 219] Il faut bien remarquer ici que la liaison des idées de toutes les choses spirituelles, qui sont distinguées de nous, avec les traces de nôtre cerveau n’est point naturelle et ne le peut-être;[^1845-36] et par conséquent qu’elle est, ou qu’elle peut être différente dans tous les hommes, puis qu’elle n’a point d’autre cause que leur volonté et l’identité du temps
+
+[ad p. 208 / 1, 219] Ce sont là les liaisons les plus fortes. La liaison des idées spirituelles avec les traces du cerveau ne peut estre naturelle et ne peut venir que de la volonté et de l’identité du tems (+ , quomodo enim orta primum connexio +).
+
+[p. 209 / 1, 220] Il est vray que toute la difficulté que l’on a à comprendre et à retenir les choses spirituelles et abstraites, vient de la difficulté que l’on a à fortifier la liaison de leurs idées avec les traces du cerveau, que lorsqu’on trouve moyen d’expliquer par les rapports des choses materielles
+
+[ad p. 209 / 1, 220] On fait plus aisement comprendre les choses spirituelles lors qu’on trouve moyen de les expliquer par les rapports des causes materielles.
+
+[p. 210 / 1, 221] On peut en passant reconnoître de ce que je viens de dire que ces écrivains, qui fabriquent un grand nombre de mots nouveaux et de nouvelles figures pour expliquer leurs sentimens font souvent des ouvrages assez inutiles.
+
+[ad p. 210 / 1, 221] On retient mieux les theoremes de la Geometrie que de l’Algebre, parce que les figures ont un rapport plus naturel que les characteres ou lettres n’ont pas. C’est pourquoy il ne faut pas faire trop de nouveaux termes.
+
+[p. 211 / 1, 221] On ne prétend pas aussi par ce qu’on vient de dire, condamner l’Algebre telle principalement que Monsieur Descartes l’a rétablie: car encore que la nouveauté de quelques expressions de cette science fasse d’abord quelque peine à l’esprit, il y a si peu de varieté et de confusion dans ces expressions, et le secours que l’esprit en reçoit surpasse si fort la difficulté qu’il y a trouvée, qu’on ne croit pas qu’il se puisse inventer une manié re de raisonner et d’exprimer ses raisonnemens qui s’accommode davantage avec la nature de l’esprit , et [p. 1846] qui puisse le porter plus avant dans la découverte des véritez inconnuës. [ad p. 211 / 1, 221 sq.] On[^1846-37] ne croit pas qu’il se puisse inventer une maniere de raisonner et d’exprimer ses raisonnemens, qui s’accommode davantage avec la nature de l’esprit que celle de l’Algebre, comme M. des Cartes l’a retablie. [ad p. 212 sq. / 1, 222 f.] La liaison mutuelle des traces entre elles et par consequent des idées entre elles est le fondement des figures de rhétorique et des choses de plus grande consequence dans la morale et dans la politique. [ad p. 214–216 / 1, 279 sq.] Ch. 4. Les personnes d’estude sont les plus sujettes à l’erreur. On entend ceux qui font plus d’usage de la memoire que du jugement. Quand un voyageur a pris un chemin pour un autre, il s’eloigne s’il continue d’avancer. (+ Mais pourquoy les personnes d’estude sont elles sujettes à prendre un chemin pour l’autre? +) [ad p. 217 / 1, 282] Paresse naturelle empêche la meditation, incapacité de mediter si on ne s’y applique de bonne heure, peu d’amour pour les verités abstraites, satisfaction qu’on trouve dans les vraisemblances attrayantes; la vanité de paroistre sçavant et on croit plus sçavans ceux qui ont plus de lecture; la prevention pour les anciens. Heraclite clarus ob obscuram linguam. On cherche les medailles rongées par la rouille. On s’applique à la lecture des Rabbins qui ont ecrit dans une langue fort corrompue. Au contraire le monde est plus agé à present que du temps d’Aristote, il doit estre plus sage. Un auteur du temps efface nostre gloire, on ne craint rien de tel de l’honneur qu’on rend aux anciens. On craint la nouveauté. [ad p. 219 / 1, 284] Les hommes n’agissent que par interest, et ils n’en trouvent gueres dans les recherches de la verité. [ad p. 220 / 1, 285 sq.] Ch. 5. Quand on lit un livre, il est bon de tacher de resoudre les questions marquées dans le titre, avant que de lire le livre. Les sciences qui dependent de la memoire enflent, car elles donnent de l’eclat. [p. 1847] [p. 222 sq. / 1, 288] Ainsi l’air de fierté et de brutalité, est l’air d’un homme qui s’estime beaucoup, et qui néglige assez l’estime des autres. L’air modeste est l’air d’un homme qui s’estime peu, et qui estime assez les autres. [ad p. 223 / 1, 288] Les differens airs qu’on prend ne sont que des suites naturelles de l’estime que chacun a de soy par rapport aux autres. L’air3 8 de fierté est l’air d’un homme qui s’estime beaucoup et qui neglige l’estime des autres. L’air modeste est celuy d’un homme qui s’estime peu et qui estime assez les autres. L’air grave est l’air d’un homme qui s’estime beaucoup, et qui desire fort d’estre estimé. L’air simple est celuy d’un homme qui [ne] s’occupe gueres de soy ny des autres. Ch. 6. Les personnes d’estudes s’entestent ordinairement de quelque auteur. (+ J’ay connu un jeune homme, qui estoit entesté de Juste Lipse, puis de Grotius. +) [ad p. 224 / 1, 290] Si Aristote a cru à l’immortalité et semblables questions ridicules, sont des sujets importans de critique aux sçavans. (+ Non spernenda haec. +) [ad p. 228 / 1, 293 sq.] Mais quand il s’agit de la foy il est important de sçavoir ce que les Peres ont crû. (+ Il ne faut donc pas mepriser cette critique. L’Histoire de Philosophie a grande influence sur celle des Peres. +) [ad p. 229–234 / 1, 295–300] Ch. 7. De la preoccupation des commentateurs. Ils ne se regardent que comme faisant un tout avec leur auteur. Sa gloire rejaillit sur eux. C’est une soupplesse d’amour propre dont on ne s’apperçoit pas tousjours. Il se moque de ce qu’Averroes a dit pour louer Aristote et des commentaires de Savil sur les definitions, demandes, axiomes, et 8 premieres propositions d’Euclide. C’est un livre in 4o de 300 pages. Il sçavoit du Grec. Il avoit lu les anciens Geometres. (+ Ce n’est pas si mal fait qu’on pense. Il dira des bonnes choses sur l’usage et l’application de ces principes. +) [p. 1848] [p. 235 / 1, 300 sq.] . . . il seroit tombé d’accord, que les définitions que donne Euclide de l’angle plan et des lignes paralleles sont defectueuses, et qu’elles n’en expliquent point assez la nature: et que la seconde proposition est impertinente, puisqu’elle ne se peut prouver que par la troisiéme demande, laquelle on ne devroit pas si-tost accorder que cette seconde proposition [ad p. 235 sq. / 1, 300 f.] Il ne s’est pas apperçu que les definitions qu’Euclide donne de l’angle plan et des lignes paralleles sont defectueuses. Que la 2de proposition est impertinente puisqu’elle ne se peut prouver que par la 3me demande, laquelle on ne devroit pas accorder si tost que cette seconde proposition puisqu’en accordant la 3me demande dato intervallo circulum describere on accorde tirer d’un point une ligne egale à une autre. [ad p. 238 sq. / 1, 304 f.] Ch. 8. Il y en a d’autres qui ne respectent jamais les auteurs. Ils veuillent estre les inventeurs de quelque opinion nouvelle. Ordinairement ils ont l’imagination forte, c’est a dire dont les fibres gardent les traces. Pour decouvrir un veritable systeme, il faut une certaine estendue d’esprit. [ad p. 241 / 1, 307] Il y a des gens qui après avoir esté desabusés de leur erreur, ne veuillent plus rien croire. Ils deviennent sceptiques. Ils s’imaginent de sçavoir ce qui peut estre connu. [ad p. 243 sq. / 1, 310 f.] Ch. 9. Il y a des esprits effeminé s qui ne recherchent que l’agrément. Les esprits fins remarquent les differences les plus petites, et penetrent bien avant. Mais les esprits mols n’ont qu’une fausse delicatesse, ils ne sont delicats que pour les manieres. Une petite grimace, un accent de province les irrite plus qu’une mauvaise raison. [ad p. 245–248 / 1, 312–316] Il y a des esprits superficiels qui n’approfondissent rien. Ce sont ceux qui supposent aisement de la ressemblance entre les choses, ils ne voyent que comme en passant. Ceux qui pensent profondement ont de la peine à se bien exprimer. Ils ont honte de parler cavallierement. Les personnes d’autorité doivent se garder de juger avec precipitation, car leur autorité precipite les autres avec eux. Pessima res errorum apotheosis. S. Thomas opusc. 9 au general de son ordre rapporte les [p. 1849] paroles de S. Augustin 5. Confess. et I. Super Genesi ad literam: nocet ea quae ad pietatis doctrinam non spectant, vel asserere vel negare quasi pertinentia ad sacram doctrinam. [ad p. 251 / 1, 318] Quand aux chymistes et ceux qui font des experiences, le plus souvent c’est le hazard qui les conduit. Ils arrestent plus tost aux experiences curieuses et extraordinaires, sans commencer par les plus simples. Ils cherchent plus tost les experiences qui apportent du profit que celles qui eclairent. Ils ne remarquent pas assez les circomstances particulieres. Par exemple lorsqu’on dit: prenés du vin, il y a de l’Equivoque; les vins sont fort differens. Ils tirent trop de consequences d’une seule experience. Enfin ils ne remontent pas aux premieres notions. Livre 2. Partie 3me de la communication contagieuse. [ad p. 253–262 / 1, 320–329] Les imaginations fortes sont contagieuses, elles dominent sur les foibles. Nous avons de la disposition à imiter. Il faut entrer dans les passions des autres, oderunt hilarem tristes, tristemque jocosi, sedatum celeres, agilem gnavumque remissi. C’est pourquoy Dieu a donné aux hommes la disposition à se composer de la même maniere comme ceux avec lesquels ils vivent. Cette disposition est augmentée par l’inclination pour la grandeur. Cela fait qu’on imite les personnes de qualité. C’est la source des nouveautés bizarres appuyées sur la phantasie. Elle est augmentée aussi par la force des impressions qu’on fait sur nous. Il y a des gens dont l’imagination domine sur l’ame. Les fous sont visionnaires des sens, les imaginatifs visionnaires d’imagination. Ils s’imaginent les choses autrement qu’elles ne sont. (+ , +) Visionnaires d’imagination sont simplement dits visionnaires. Ils sont excessifs en toutes rencontres lorsqu’ils se melent de pieté, ils s’arrestent à l’ecorce. Tout est de foy tout est essentiel chez eux hormis ce qui l’est veritablement comme la charité et la justice. Leur avantage est de s’exprimer d’une maniere forte et vive quoyqu’elle ne soit pas naturelle (+ ils sont [p. 1850] poetiques +). . . . Un passionné emeut les [bricht ab] [ad p. 264 / 1, 331] Ch. 2. Les imaginations des superieurs sont contagieuses à l’egard des inferieurs. [ad p. 265 sq. / 1, 333 f.] Dieu donne de l’autorité aux princes, les hommes leur donnent l’infaillibilité. Dans l’Allemagne, l’Angleterre, Suede et Danemarc les peuples ont changé de religion avec leur souverains. (+ Il est bien mal informé. C’est que tout estoit alors dans une grande incertitude parce qu’on voyoit les abus et les apparences des novateurs. Il falloit plustost apporter l’exemple de la France. +) [p. 270 / 1, 337] Si l’on ne souffre pas tant de douleur à tenir son sein découvert pendant les rudes gelées de l’hyver, et à se serrer le corps durant les chaleurs excessives de l’esté, qu’à se crever un oeil ou à se couper un bras, on devroit souffrir davantage de confusion. [ad p. 273–302 / 1, 341–369] Exemples de Tertullien, Seneque, Montaigne, ch. 3. 4. 5. [p. 277 / 1, 345] . . . il [scil. Seneque] s’imagine qu’il avance beaucoup; mais il ressemble à ceux qui dansent, qui finissent toûjours, où ils ont commencé. [ad p. 277 / 1, 345] Seneque ressemble à ceux qui dansent, qui finissent tousjours par où ils ont commencé. [ad p. 290 / 1, 357] Lors qu’on surmonte la crainte par l’ambition, on ne se delivre pas de la servitude, on ne fait que changer de maistre. [ad p. 302 / 1, 370] Ch. 6. Des loups garous etc. Et des sorciers d’imagination. [ad p. 308 / 1, 376] Il faut mepriser les demons comme on meprise les bourreaux; il avoit regné jusqu’à la venue du Sauveur, et regne encor là où il n’est point connu. Livre 3me. De l’Entendement ou de l’Esprit pur. [ad p. 311 / 1, 379] Ire partie Ch. 1. L’entendement pur est la faculté qu’a l’esprit de connoistre les objets de dehors, sans en former des images corporelles. [p. 313 / 1, 381] I. Je ne croi pas qu’on puisse douter après y avoir pensé serieusement, que l’essence de l’esprit ne consiste que dans la pensée, de même que [p. 1851] l’essence de la matié re ne consiste que dans l’é tenduë
+
+[^1845-36]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1845) 15 de de streicht Hrsg. les L
+
+:::
+
+[^1846-37]: Satz am Rande angestrichen
+
+::: editorial
+
+(zu S. 1846) 3 ses (1) pensées (2) raisonnemens, L 6 f. traces (1) et des idées (2) entre . . . elles L 23 anciens. (1) La pr (2) On L 25 f. verité. (1) Quand (2) Ch. 5 L 27 questions (1) avan (2) marquées L
+
+19 Vgl. LUKREZ, De rerum natura, I, 639.
+
+:::
+
+::: editorial
+
+(zu S. 1847) 38 Bis Absatzende am Rande angestrichen 5 l’estime (1) qu’on fait (2) que L 25–28 Vgl. H. SAVILE, Praelectiones 13 in principium Elementorum Euclidis, Oxford 1612.
+
+:::
+
+::: editorial
+
+(zu S. 1848) 25 grimace, (1) les irrite (2) un L 32 apotheosis S. Augustinus et gestr. S. L
+
+31 f. Vgl. F. BACON, Novum organum scientiarum, I, 65. 32 Vgl. THOMAS VON AQUIN, Responsio ad magistrum Joh. de Vercellis de articulis XLII, praefatio.
+
+:::
+
+::: editorial
+
+(zu S. 1849) 7 tost (1) le profit (2) les experiences (a) profitables que celles (b) qui L 23 sens (1) . Ceux-cy sont (2) , les imaginatifs L
+
+1 Vgl. AUGUSTINUS, Confessiones, V, 5; De Genesi ad litteram, I, 19. 15 f. oderunt . . . remissi: HORAZ, Epistolae, I, 18, 89 f.
+
+:::
+
+[ad p. 313 / 1, 381 sq.] L’essence de l’esprit consiste dans la pensée comme celle de la matiere dans l’etendue. Essence est ce qu’on conçoit de premier, d’où dependent toutes modifications. L’esprit est voulant imaginant, comme la matiere est eau, bois, etc. Ce sont les modifications de la pensée et de l’etendue.
+
+Il est facile de concevoir un esprit sans sentiment, mais non pas sans pensée.
+
+Il est possible de concevoir de la matiere qui ne soit point en mouvement.
+
+[p. 314 / 1, 382] . . . de même qu’il n’est pas possible de concevoir une matiére, qui ne soit pas étenduë, quoi qu’il soit assez facile d’en concevoir une, qui ne soit ni terre ni metal, ni quarrée ni ronde, et qui mê me ne soit point en mouvement.
+
+[p. 315 / 1, 383] Mais aussi comme l’on conçoit que la matiére peut exister sans aucun mouvement, on conçoit de même que l’esprit peut-être sans aucune impression de l’Auteur de la Nature vers le bien
+
+[ad p. 315 / 1, 383] Cependant l’esprit seroit inutile sans volonté et la matiere sans mouvement. Un esprit peut estre sans impression de l’auteur vers le bien, c’est a dire sans volonté.
+
+[p. 317 sq. / 1, 386] C’est donc sans raison que l’on s’imagine pé né trer de telle sorte la nature de l’ame, que l’on ait droit d’assû rer, qu’elle n’est capable que de connoissance et que d’amour.
+
+[ad p. 317 / 1, 386] C’est sans raison que l’on s’imagine de penetrer la nature de l’ame de telle sorte qu’on puisse asseurer qu’elle n’est capable que de connoissance et que d’amour.
+
+[p. 318 / 1, 386 sq.] Je ne conç ois pas comment-on peut dire que la lumié re, les couleurs, les odeurs, etc. soient des jugemens de l’ame
+
+Examinons ce que ces personnes disent de la douleur, ou du plaisir. Ils veulent après plusieurs (c) Auteurs tres-considerables que ces sentimens ne soient que des suites de la faculté que nous avons de connoître et vouloir ; et que la douleur par exemple ne soit que le chagrin, et l’opposition, et l’éloignement qu’a la volonté pour les choses, qu’elle connoît être nuisibles au corps qu’elle aime. Mais il me paroît évident que c’est confondre la douleur avec la tristesse, et que tant s’en faut que la douleur soit une suite de la connoissance de l’esprit et de l’action de la volonté, qu’au contraire elle précéde l’une et l’autre. [p. 1852] [note c] S. Aug. liv. 6. De Musica, Descartes dans son homme etc. [ad p. 318 / 1, 386 sq.] Je ne conçois [pas] comment on peut dire que la lumiere, les couleurs sont des jugemens de l’ame. Plusieurs veuillent avec M. des Cartes que la douleur ne soit que le chagrin que la volonté a des choses nuisibles, mais il me semble que c’est confondre la douleur avec la tristesse. [p. 319 / 1, 387] Il me semble au contraire qu’il est indubitable que la premié re chose que cet homme [scil. qui dort] appercevroit , lorsque le charbon lui toucheroit la main, seroit la douleur ; et que cette connoissance de l’esprit, et cette opposition de la volonté ne sont que des suites de la douleur; quoiqu’elles soient véritablement la cause de la tristesse qui la suivroit. Au contraire la tristesse est la derniére chose que l’ame sente; elle est toûjours précedée de la connoissance; et elle est toû jours tres-agré able par ellemê me. [ad p. 319 / 1, 387] Il semble plus tost que la douleur precede la connoissance et la volonté. Lorsqu’on mettroit un charbon dans la main d’un homme qui dort, la premiere chose dont il s’apperceuvroit en s’eveillant seroit la douleur (+ non considerat judicia exigua innumerabilia quorum non meminimus distincte +). La douleur n’est jamais agreable par elle meme. La tristesse l’est tousjours. Le plaisir l’accompagne dans les representations (+ ut sunt colores etc. quarum est magna copia exiguarum perceptionum confusarum +). [p. 321 / 1, 390 sq.] [Chap. II.] I. Ce qu’on trouve donc d’abord dans la pensée de l’homme, c’est qu’elle est tres-limitée, d’où l’on peut tirer deux conséquences de tresgrande importance. La premiére que l’ame ne peut connoître les ê tres infinis. . . . ainsi, il arrive quelquefois qu’on a un si grand nombre de pensé es diffé rentes, qu’on s’imagine que l’on ne pense à rien. [ad p. 321 / 1, 390 sq.] Ch. 2. L’ame ne peut connoistre les estres infinis et ne peut connoistre distinctement plusieurs choses à la fois, car nostre pensée est limitée. Il arrive quelque fois qu’on a un si grand nombre de pensées [p. 1853] differentes qu’on s’imagine que l’on ne pense à rien. Cela paroist dans ceux qui s’evanouissent. Le tournoyement des esprits animaux fait sentir trop de choses à la fois. [ad p. 320 / 1, 388] Lors qu’on s’evanouit faute d’esprit, on ne laisse pas d’avoir des pensées pures (+ nunquam solae +). [p. 323 / 1, 392 sq.] Mais ils ne tombent dans ces égaremens, que parce qu’ils ne sont pas interieurement convaincus que l’esprit de l’homme est fini; qu’il n’est pas necessaire qu’il comprenne la divisibilité de la matiére à l’infini, afin qu’ils la croyent; et que toutes les objections qu’on ne peut resoudre qu’en la comprenant,[^1853-39] sont des objections qu’il est impossible de resoudre. [ad p. 323 / 1, 392 sq.] On ne peut comprendre la divisibilité de la matiere à l’infini. Toutes les objections qu’on ne peut resoudre qu’en comprenant la divisibilité de la matiere à l’infini sont des objections qu’il est impossible de resoudre. (+ Il n’y en a point de telles, et n’en sçauroit avoir. Pour resoudre une objection, je n’ay qu’à nier ce qui n’est pas prouvé, et ce qui est prouvé se conçoit tousjours. +) [ad p. 328–331 / 1, 397–401] Ch. 3. Les philosophes se dissipent l’esprit en s’appliquant aux objets qui renferment trop de rapports sans garder aucun ordre. Aristote prend soin d’avertir qu’on le doit croire sur sa parole, δειÄ πιστευÂ ειν τοÁ ν µανθαÂ νοντα. [p. 333 / 1, 402] Car cela seul fait bien voir que les Logiques ordinaires sont plus propres pour diminü er la capacité de l’esprit que pour l’augmenter. [p. 335 / 1, 405] [Chap. IV.] Car cet amour naturel que nous avons pour Dieu, é tant la mê me chose que l’inclination naturelle qui nous porte vers le bien en gé né ral [ad p. 335 / 1, 405] Ch. 4. L’amour naturel que nous avons vers Dieu est la même chose que l’inclination naturelle qui nous porte vers le bien en general. [ad p. 336 / 1, 406] Le vuide des creatures ne pouvant remplir le desir de l’homme, il change d’objet. [p. 1854] [p. 338 sq. / 1, 408 sq.] Il y a tres-peu de gens, qui ne s’apperçoivent du vuide et de l’instabilité des biens de la terre, et même qui ne soient convaincus d’une conviction abstraite, mais toutefois tres-certaine et tres-évidente, qu’ils ne meritent pas nôtre application et nos soins. Mais où sont ceux, qui méprisent ces biens dans la pratique, et qui refusent leurs soins et leur application pour les acquerir? Il n’y a que ceux qui sentent quelque amertume et quelque dé goû t dans leur joü issance; ou que la grace a rendu sensibles pour des biens spirituels par une dé lectation inté rieure que Dieu y a attaché e, qui vainquent les impressions des sens et les efforts de la concupiscence. La veuë de l’esprit toute seule ne nous fait donc jamais ré sister, comme nous le devons, aux efforts de la concupiscence: il faut outre cette veuë un certain sentiment du coeur. [p. 339 sq. / 1, 409] Je ne nie pas toutefois que les justes dont le coeur a déja été vivement tourné vers Dieu par une délectation prévenante, ne puissent sans cette grace particuliere faire quelques actions meritoires, et résister aux mouvemens de la concupiscence. [ad p. 339 / 1, 408 sq.] Les hommes sont convaincus d’une conviction abstraite mais tres certaine et tres evidente, que les biens terrestres ne meritent pas nostre application. Cependant dans la practique, il n’y a que ceux qui sentent quelque amertume ou quelque degoust dans leur jouissance, ou que la grace a rendus sensibles aux biens spirituels, par une delectation interieure qui vainquent les impressions des sens et les efforts de la concupiscence. La veue de l’esprit toute seule ne nous fait jamais resister comme nous le devons. Il faut un certain sentiment du coeur. Cette lumiere d’esprit toute seule est si on le veut une grace suffisante, mais le sentiment du coeur est une grace vive. Cela s’entend de ceux dont la conversion se commence, car les justes se peuvent conserver sans ses plaisirs prevenans. Cet estat merite d’avantage, car Dieu ne veut pas estre aimé seulement d’un amour d’instinct. [ad p. 341 / 1, 411] Les gros volumes qu’on compose sur la physique et la morale nous doivent estre fort suspects, parce qu’il est difficile de bien juger des matieres particulieres avant les generales. L’applaudissement[^1854-40] du peuple [p. 1855] sur une matiere difficile est une marque infaillible de sa fausseté, et qu’elle n’est appuyée que sur des notions trompeuses des sens. Seconde Partie. De l’entendement pur. De la nature des Idees.[^1855-41] [p. 343–346 / 1, 413–417] Elle [scil. l’ame] ne les [scil. les choses hors de nous] voit donc point par elles mêmes, l’objet immé diat de nô tre esprit.[^1855-42] Il faut bien remarquer qu’afin que l’esprit apperçoive quelque chose, il est absolument necessaire que l’idée de cette chose lui soit actuellement presente, il n’est pas possible d’en douter: mais il n’est pas necessaire, qu’il y ait au-dehors quelque chose de semblable à cette idée. J’expliquerai dans le Chapitre septiéme le sentiment que j’ai sur la maniere, dont nous connoissons les esprits, et je ferai voir que nous ne pouvons les connoître entierement par eux mêmes, quoiqu’ils puissent peut-ê tre s’unir à nous.[^1855-43] [ad p. 343–346 / 1, 413–417] 2de partie de la nature des idées. Ch. 1. Nous n’appercevons pas les choses qui sont hors de nous par elles mêmes. Le soleil n’est pas l’objet immediat de nostre Esprit, mais quelque chose qui est unie intimement à nostre ame, et c’est ce que j’appelle idée. Il n’est pas necessaire qu’il y ait dehors quelque chose de semblable à cette idée. Il n’y a dans l’ame que des pensées avec leur modifications. Pensées sont des choses qui ne peuvent estre dans l’ame sans qu’elle les apperçoive (+ mais non pas toujours distinctement +). L’ame n’a pas besoin d’idées pour les appercevoir. Pour les choses spirituelles qui sont hors de l’ame, on peut douter si l’ame ne s’en peut pas appercevoir immediatement. Et si les anges ne s’entrecommuniquent ainsi. Je ne parle à present que des choses materielles qui ne se sçauroient unir [à] nostre ame. Il faut donc dire ou que nos idées viennent des objets, ou que l’ame ait la puissance de les produire, ou que l’ame les ait produites avec elle en les creant; ou qu’il les produise toutes les fois qu’on pense à quelque objet, ou que l’ame ait en elle toutes les perfections qu’elle voit dans les corps, ou qu’elle soit unie avec un estre tout [p. 1856] parfait. [ad p. 347 / 1, 418] Ch. 2. Que les objets materiels n’envoyent point d’especes qui leur ressemblent. (+ Ils en pourroient envoyer de nonressemblantes. Qu’importe. +) [ad p. 348 / 1, 419] On ne peut concevoir cette multitude et penetration des especes (+ ces especes ne sont autre chose que les propagations des mouvemens qui vont partout et à l’infini +). [ad p. 350 / 1, 422] Ch. 3. Que l’ame n’a point la puissance de produire des idées des choses auxquelles elle veut penser (+ cette production n’est pas tousjours un acte volontaire +). [ad p. 351 / 1, 423] On doit se defier de ce qui eleve l’homme. Les idées sont des estres reels et spirituels, et peutestre plus nobles que les choses mêmes. Donc il s’ensuivroit que les hommes peuvent faire des choses plus nobles que celles que Dieu a créées. [p. 353 sq. / 1, 425] . . . de même l’esprit, qui n’aura par exemple que l’idée de l’être ou de l’animal en général, ne peut pas se repré senter un Cheval, et en former une idé e bien distincte avec assurance qu’elle est bien faite, s’il n’a déja une premiére idée avec laquelle il confére cette seconde. [ad p. 353 / 1, 425] Si l’on dit que l’idée n’est pas une substance, je le veux mais c’est tousjours une chose spirituelle. (+ L’homme ne sçauroit produire la force ou le mouvement. +) De plus un peintre ne sçauroit faire un pourtrait ressemblant sans connoistre l’original. Mais si l’esprit forme l’idée, il connoist déja la chose, donc il a déja l’idée. [p. 355 / 1, 426] . . . les hommes ne manquent jamais de juger qu’une chose est cause de quelque effet, quand l’un et l’autre sont joints ensemble, supposé que la veritable cause de cet effet leur soit inconnuë . [ad p. 355 / 1, 426] Les hommes ne manquent jamais de juger qu’une chose est cause de quelque effet, quand l’un et l’autre sont tousjours joints ensemble supposé que la veritable cause leur soit inconnue. Les pierres sont exposées à la lune et elles sont mangées des vers. Il arrive une comete et un prince meurt. [p. 1857] [p. 357 / 1, 429] [Chap. IV.] La troisiéme opinion est de ceux qui pré tendent, que toutes les idé es des choses sont cré é es avec nous. Mais pour ne parler que des simples figures, il est constant que le nombre en est infini [p. 358 / 1, 430] Or je demande s’il est vrai-semblable, que Dieu ait creé tant de choses avec l’esprit de l’homme. [ad p. 357 sq.] Ch. 4. Les idées ne sont pas créees avec nous. Le nombre des idées est infini par exemple des figures, des nombres. Je demande s’il est vraisemblable que Dieu ait creé tant de choses avec l’esprit de l’homme d’autant qu’il y a une autre maniere plus simple. [ad p. 359 / 1, 431] Mais quand il y auroit un magazin d’idées, comment l’âme en pourroit-elle choisir. De dire que Dieu produise de nouvelles idées au besoin, mais nous pouvons tousjours penser à toutes choses et y pensons déja confusement. [p. 360 / 1, 433] [Chap. V.] La quatriéme opinion est, que l’esprit n’a pas besoin d’autres idé es pour appercevoir les objets que soi-mê me, et qu’il peut, en se considerant et ses propres perfections, découvrir toutes les choses qui sont au dehors. [ad p. 360–362 / 1, 433 sq.] Ch. 5. L’esprit ne voit pas l’essence ou existence des objets dans ses propres perfections. Quelques uns veuillent, que c’est la nature de l’ame puisqu’elle est faite pour penser, qu’elle contient les choses eminemment que c’est un monde intelligible. Augustin contra Serm. 8 de Verbis Domini: tu tibi lumen non es. Cela n’est vray que de Dieu. Nostre esprit tres limité ne contient pas tous les estres. Cependant il apperçoit actuellement l’infini sans l’estre. Encor moins conçoit il l’existence des choses, car elles ne dependent pas de sa volonté (+ mais bien de son existence +). [p. 363–365 / 1, 437–439] [Chap. VI.] . . . Il faut de plus sçavoir que Dieu est tres-étroitement uni à nos ames par sa presence, en sorte qu’on peut dire qu’il est le lieu des esprits, de mê me que les espaces sont le lieu des corps. Car ceux qui veulent des formes substantielles, des facultez; et des ames dans les animaux, différentes de leur sang et des organes de leur corps, pour faire tout ce qui arrive dans la nature, veulent en même tems que Dieu manque d’intelligences, et ne puisse pas faire ces choses admirables de l’etenduë toute seule. [p. 1858] . . . il n’y a rien en Dieu qui soit divisible, ou figuré: car Dieu est tout être, parce qu’il est infini et qu’il comprend tout; mais il n’est aucun ê tre en particulier. [ad p. 363–365 / 1, 437–439] Ch. 6. Que nous voyons toutes choses en Dieu. Dieu a en luy les idées de toutes choses. Il est tres estroitement uni à nos ames par sa présence et il est le lieu des esprits de mê me que l’espace est le lieu des corps. Ainsi, si Dieu le veut, l’esprit peut voir en Dieu les ouvrages de Dieu. Or cela est plus simple que de creer une infinité d’idées dans chaque Esprit. Cependant les esprits ne voyent pas l’essence de Dieu. On ne voit pas proprement l’idée, mais ce qui est representé par l’idée. Cela met les esprits crées dans une entiere dependence de Dieu. Lux vera quae illuminat omnem hominem venientem in hunc mundum. [ad p. 366 / 1, 440] Le mot general de concours ne dit rien. Lorsque nous voulons penser à quelque chose, nous envisageons d’abord tous les estres. C’est la plus belle preuve de l’existence de Dieu (+ vera ratio, quia alioqui non consentirent substantiae +). [p. 367 / 1, 441 sq.] Car il est constant que l’esprit apperçoit l’infini, quoi qu’il ne le comprenne pas; et qu’il a une idé e tres-distincte de Dieu, qu’il ne peut avoir que par l’union qu’il a avec lui . . . que Dieu ne tient pas son être des créatures, mais toutes les créatures ne subsistent que par lui. La derniére preuve, qui sera peut-ê tre une demonstration pour ceux qui sont accoûtumez aux raisonnemens abstraits, est celle-ici. Il est impossible que Dieu ait d’autre fin principale de ses actions que lui-même [p. 368 / 1, 442 sq.] Dieu ne peut donc faire un esprit pour connoître ses ouvrages, si ce n’est que cet esprit voie en quelque façon Dieu en voyant ses ouvrages. De sorte que l’on peut dire, que si nous ne voyions Dieu en quelque manié re, nous ne verrions aucune chose. [p. 369 / 1, 444] Il y a dans saint Augustin une infinité de passages semblables à celui-ci, par lesquels il prouve que nous voyons Dieu dés cette vie, par la connoissance que nous avons des vé ritez é ternelles. Nous pensons donc que les véritez, mê me celles qui sont é ternelles, comme que deux fois deux sont quatre, ne sont pas seulement des êtres absolus, tant s’en faut que nous croyons qu’elles soient Dieu. Car il est visible que cette verité ne consiste que dans [p. 1859] un rapport d’é galité[^1859-44], qui est entre deux fois deux et quatre. [ad p. 367–370 / 1, 441–445] L’Esprit conçoit l’infini. Il a une idée tres distincte de Dieu qu’il ne sçauroit avoir que par l’union qu’il a avec luy. L’idée de l’infini est avant celle du fini. Dieu ne peut faire un esprit pour voir ses ouvrages s’il ne voyoit en quelque façon Dieu, en voyant ses ouvrages (+ le sentiment de l’auteur veut tout le contraire, non pas qu’on voye Dieu dans les ouvrages, mais qu’on [voye] les ouvrages dans Dieu +). Si nous ne voyions Dieu en quelque sorte, nous ne verrions aucune chose. De même que si nous n’aimions Dieu, c’est a dire le bien en general, nous n’aimerions rien. Les idées des creatures ne sont que des limitations de l’idée du Createur, comme les mouvemens de la volonté, ne sont que des determinations du mouvement vers le Createur. Les impies mêmes aiment Dieu de cet amour naturel. Augustin lib. 14. de Trin. c. 13.: Aeternas veritates etiam impios videre in libro lucis. Cependant nos raisons sont un peu differentes de celles de S. Augustin. Les verités même eternelles ne sont pas des estres absolus. Elles ne sont que les rapports des idées. Peut-estre que S. Augustin l’a entendu ainsi. On croit aussi qu’on connoist en Dieu non seulement les verités eternelles, mais encor celles qui sont changeantes. Je ne dis pas que nous ayions en Dieu les sentimens, mais seulement de Dieu qui agit en nous. Dieu connoist les choses sensibles, mais il ne les sent pas. Le sentiment est une modification de nostre ame, et Dieu la cause en nous. L’idée jointe à ce sentiment est en Dieu. [ad p. 372 / 1, 447] C’est de la puissance de Dieu que nous recevons toutes nos modifications. C’est dans sa sagesse que nous trouvons toutes nos idées, et c’est par son amour, qu’ils sont agités de tous leur mouvemens reglés. [ad p. 373 / 1, 448] Ch. 7. On connoist les choses ou par elles mêmes comme Dieu, ou par leur idées comme les objets exterieurs, ou par conscience, comme l’on connoist ce qui est en soy, ou par conjecture lorsqu’on croit que quelques choses sont semblables à celles qu’on connoist. [p. 1860] [ad p. 374 sq. / 1, 449 f.] On ne conçoit point que l’estre universel puisse estre conçu par une idée, c’est à dire par un estre particulier. Mais les estres particuliers sont representés par l’estre universel qui les renferme. Nous[^1860-45] ne connoissons point l’ame par son idée comme l’etendue; ce n’est [que] par conscience, c’est pour cela que sa connoissance est imparfaite. (+ Il n’est pas certain que nous connoissons l’etendue par son idée. +) [p. 376 / 1, 451] . . . cependant nous n’avons pas une connoissance si parfaite de la nature de l’ame que de la nature des corps [ad p. 376 / 1, 451] Nous connoissons plus distinctement l’existence de l’ame, que l’existence du corps, cependant nous n’avons pas une connoissance si parfaite de la nature de l’ame que de la nature du corps. Les idées qui nous representent quelque chose hors de nous, ne sont pas les modifications de nostre ame. Car ainsi l’ame devroit connoistre plus clairement son essence. Elle connoist que l’etendue est capable d’une infinité de figures par l’idée qu’elle a de l’etendue, mais elle ne connoist pas qu’elle soit capable d’une telle sensation par la veue qu’elle a d’elle même, mais par l’experience qu’elle en a. [ad p. 377 / 1, 452] On ne sçauroit definir les modifications de l’ame comme les couleurs etc. [p. 378 / 1, 453] Enfin si nous eussions eu une idée claire de l’ame comme celle que nous avons du corps; cette idée nous l’eût trop fait considérer comme séparée de luy, ainsi elle eût diminué l’union de nôtre ame avec nôtre corps: en nous empêchant de la regarder comme répanduë dans tous nos membres, ce que je n’explique pas davantage. [ad p. 378 / 1, 453] La connoissance que nous avons de l’ame par conscience est vraye mais imparfaite, mais celle que nous avons des corps par sentiment ou par conscience est non seulement imparfaite, mais fausse. Il nous falloit donc une idée du corps pour corriger cette erreur. Les ames des autres hommes, et les intelligences pures ne nous sont connues que par conjecture. [ad p. 381 sq. / 1, 457 f.] Ch. 8. Nous connoissons les estres particuliers par celle de l’estre en general. Nous faisons un mauvais usage de la presence [p. 1861] de cette idée par les Abstractions des Philosophes. L’idée des formes substantielles n’est que celle de l’estre en general. La fluidité, dureté, mouvement se peuvent separer de la matiere (+ male, non possunt +).
+
+::: editorial
+
+(zu S. 1852) 3 l’ame. (1) Ils (2) Plusieurs L
+
+1 Vgl. AUGUSTINUS, De musica, VI, 5 (PL 32, Sp. 1161 f.); R. DESCARTES, Traité de l’homme, 1664, S. 97 f. (A.T. XI, S. 193).
+
+:::
+
+[^1853-39]: Dazu: il n’y en a point
+
+::: editorial
+
+(zu S. 1853) 4 (+ nunquam solae +) erg. L 13 avoir. (1) Je nie une dans toute objection (2) Pour L 18 f. Vgl. ARISTOTELES, De sophisticis elenchis, cap. 2, 165 b 3.
+
+:::
+
+[^1854-40]: Satz am Rande angestrichen
+
+::: editorial
+
+(zu S. 1854) 26 vive. (1) Cependant (2) Cela L
+
+:::
+
+[^1855-41]: Zur Überschrift: p. 77.
+
+[^1855-42]: Am Rande: p. 77
+
+[^1855-43]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1856) 19 une (1) chose (2) substance L 21 plus (1) l’homme (2) un L 22 l’original. (1) Comme (2) Mais L
+
+:::
+
+::: editorial
+
+(zu S. 1858) 5 par sa présence erg. L 13 nous (1) envisa (2) voulons L 11 f. Lux . . . mundum: Joh. 1, 19.
+
+:::
+
+[^1859-44]: Am Rande: male
+
+::: editorial
+
+(zu S. 1859) 6 (+ (1) et c’est tout le contraire (2) le L 6 pas (1) qu’il (2) qu’on L 7 voyage L ändert Hrsg. 16 absolus. (1) Mais les (2) Elles L 23 (1) Nous trouvons les (2) C’est L 25 et que str. Hrsg. c’est L 26 f. memes (1) comme l’esprit se connoist, ou par leur idées (2) comme Dieu, L
+
+:::
+
+[^1860-45]: Satz am Rande angestrichen
+
+::: editorial
+
+(zu S. 1860) 24 avons (1) des corps (2) de L
+
+:::
+
+[p. 384 / 1, 459] Les Philosophes tombent assez d’accord, qu’on doit regarder comme (a) l’essence d’une chose, ce que l’on reconnoît de premier dans cette chose, ce qui en est inséparable, et d’où dépendent toutes les propriétez qui lui conviennent.
+
+[note a] Si on reçoit cette dé finition du mot essence, tout le reste est absolument demontré: si on ne la reçoit pas ce n’est plus qu’une question de nom, de sçavoir en quoi consiste l’essence de la matiére.
+
+[p. 385 sq. / 1, 461 sq.] . . . ainsi personne ne peut sans une ré velation particulié re assurer comme une dé monstration de Gé ometrie, qu’il n’y a que de l’é tenduë diversement configuré e dans une pierre.
+
+Or l’é tenduë n’est pas la manié re d’un ê tre: donc c’est un être.[^1861-46] Mais parce que la matié re n’est pas un composé de plusieurs ê tres, comme l’homme qui est composé de corps et d’esprit, puisque la matiére n’est qu’un seul être; il est manifeste que la matiére n’est rien autre chose que l’étenduë.
+
+Pour prouver maintenant que l’é tenduë n’est pas la manié re d’un ê tre, mais que c’est véritablement un être; il faut remarquer qu’on ne peut concevoir la maniére d’un être, qu’on ne conçoive en même tems l’être dont il est la maniére.
+
+Si donc l’étenduë étoit la maniére d’un être, on ne pourroit concevoir l’é tenduë sans cet être, dont l’étenduë seroit la maniére. Cependant on la conç oit fort facilement toute seule.[^1861-47]
+
+[ad p. 384–386 / 1, 459–462] La figure, divisibilité, impenetrabilité sont inseparables, mais elles supposent l’estendue. (+ Non solum. Ex sola extensione non sequitur impenetrabilitas. +) Dès que l’etendue est donnée, l’impenetrabilité, figure, divisibilité sont données. (+ elle les suppose donc.
+
+Praeterea non concedo dari impenetrabilitatem data extensione. +) Mais on peut douter si la matiere n’a pas quelque autre attribut different de l’etendue et anterieur. (+ Extensio non est attributum substantiae, sed multitudinis. +)
+
+Mais comme il suffit de pouvoir tout expliquer dans la monstre par les [p. 1862] figures et mouvemens, il en est de même dans la matiere. (+ Mais il y a du mouvement, qui suppose quelque chose de plus que l’etendue. +) Cependant[^1862-48] personne ne peut sans une revelation particuliere asseurer comme une demonstration de Geometrie, qu’il n’y a que de l’etendue diversement configurée dans une pierre. (+ Si nous voyons parfaitement la possibilité d’une substance etendue, cela suffiroit. +) Il se peut absolument que l’etendue soit jointe à quelque autre chose. Cependant on peut au moins asseurer que l’etendue n’estant une maniere d’estre, est donc un estre. Or la matiere n’estant pas un composé de plusieurs estres, donc elle n’est autre chose que l’etendue. Or si l’etendue estoit une maniere d’estre, on ne pourroit concevoir l’etendue sans cet estre. Cependant on la conçoit fort facilement toute seule. (+ imo contra non nisi in substantia cujus extensio est. +) [p. 388 / 1, 463] Sans doute l’étenduë n’est point l’essence de la matiére, si cela est contraire à la foi, on y souscrit. [ad p. 388–390 / 1, 463–465] On pourroit encor imaginer un nouveau principe de ce principe qu’on s’imagine de l’etendue. Cependant s’il est contraire à la foi de croire que l’etendue est de l’essence de la matiere on le desavoue. Mais on croit de pouvoir expliquer la Transsubstantiation d’une maniere assez nette. Mais il faut mieux ne se point presser à donner des explications des mysteres. [ad p. 391–393 / 1, 468–470] Ch. 9. Il reste une cause generale qui entre dans toutes nos erreurs. C’est que [le] neant n’ayant point d’idée l’esprit croit que les choses qui n’ont point d’idées n’existent pas. Nous voyons par une espece d’instinct, que les idées se doivent presenter en nous dès que nous le souhaittons. Mais cela n’est plus dans l’estat present de nostre nature. [p. 394 / 1, 471] . . . on ne pense pas dé voir juger avec pré cipitation, que tous les ê tres soient esprits ou corps [ad p. 394 / 1, 471] On ne sçauroit absolument asseurer qu’il n’y a d’autres substances que les esprits et les corps. [p. 1863] [p. 395 / 1, 471 sq.] Car c’est faire à peu près la même chose que feroient des aveugles, si voulant parler entr’eux des couleurs et en soû tenir des Theses, ils se servoient pour cela des definitions que les Philosophes leur donnent, dont ils tireroient plusieurs conlusions. [ad p. 395] Les raisonnemens vagues des philosophes sont comme si les aveugles vouloient soutenir des theses sur les couleurs et en disputer entre eux. [p. 395 sq. / 1, 472 sq.] Les hommes font donc un jugement précipité, quand ils jugent comme une chose indubitable, que toute substance est corps ou esprit. Mais ils en tirent encore une conclusion pré cipité e, lorsqu’ils concluent par la seule lumié re de la raison que Dieu est un esprit. . . . elle [scil. la raison] ne nous assure pas qu’il n’y ait point encore des êtres plus parfaits que nos esprits Or supposé qu’il y eût de ces êtres, comme il paroît mê me indubitable par la raison que Dieu en a pû cré er, il est clair qu’ils ressembleroient plûtôt à Dieu que nous. [ad p. 396 / 1, 472 sq.] On ne sçauroit asseurer par la seule lumiere de la raison que Dieu est un esprit. Dieu est plus au dessus des esprits créés que ceux cy sont au dessus des corps. [p. 400 / 1, 477] . . . on peut assurer que l’on n’en peut pas donner deux goutes, fussent-elles prises de la mê me rivié re, qui se ressemblent entierement. [p. 402 / 1, 478] C’est par cette raison qu’il se persuade facilement que les essences des choses consistent dans l’indivisible, et qu’elles sont semblables aux nombres [ad p. 400–402 / 1, 476–478] Ch. 10. On ne sçauroit donner deux gouttes fussent-elles prises de la même riviere, qui se ressemblent entierement. C’est dans les ressemblances que les hommes se trompent fort. Nous sommes inclinés à supposer de la ressemblance. On se persuade que les essences des choses consistent dans l’indivisible comme les nombres. (+ non video quid in hoc reprehendat. +) Nous attachons des proportions aux choses comme la proportion decuple dans les elemens et dans le nombre des esprits bienheureux. [ad p. 403 sq. / 1, 479 f.] La distance egale des fixes, les orbes solides et cercles parfaits. On suppose les cieux incorruptibles.
+
+[^1861-46]: Am Rande: ,
+
+[^1861-47]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1861) 30 monstre (1) sans recourir (2) par (a) ses (b) les L
+
+:::
+
+[^1862-48]: Satz am Rande angestrichen
+
+::: editorial
+
+(zu S. 1862) 21 le erg. Hrsg. nach Malebranche L
+
+:::
+
+[p. 1864] [ad p. 407 sq. / 1, 484 f.] Ch. 11. Dans la morale la supposition des ressemblances fait, qu’on croit tous les Anglois ou Italiens semblables. On juge de tout d’un ordre par un religieux qu’on connoist. C’est là l’adresse des calomniateurs.
+
+[ad p. 410 sq. / 1, 486 f.] Le vulgaire croit les gens de bien plus opiniastres que les libertins, parce que ceux-cy se peuvent desabuser, et les autres demeurent attachés à la verité. Le monde qui n’est pas capable de juger qui a raison les confond. On revient de quelques chimeres, on devient sceptique, on tient tous ceux qui sont attachés aux verités claires pour opiniastres.
+
+Sequitur liber quartus.
+
+LIVRE QUATRIÉME. DES INCLINATIONS DE L’ESPRIT.
+
+[p. 51 / 2, 9] Il ne seroit pas necessaire de traiter des inclinations naturelles comme nous allons faire dans ce quatriéme Livre
+
+[p. 52 / 2, 10] Or il me semble que les inclinations des esprits sont au monde spirituel, ce que le mouvement est au monde materiel. . .
+
+Si nôtre nature n’étoit point corrompuë il ne seroit pas necessaire de chercher par la raison, ainsi que nous allons faire, quelles doivent être naturellement les inclinations des esprits creés, nous n’aurions pour cela qu’à nous consulter nous-mêmes, et nous reconnoîtrions par nôtre propre experience, je veux dire par les choses que nous aimerions, celles que nous devons aimer.
+
+[p. 53 / 2, 11 sq.] Ainsi Dieu les [scil. les êtres qu’il a creés] aime, et c’est même son amour qui les conserve, car tous les ê tres ne subsistent que parce que Dieu les aime. Diligis omnia quae sunt, dit le Sage, et nihil odisti eorum quae fecisti: nec enim odiens aliquid constituisti et fecisti. Quomodo autem posset aliquid permanere, nisi tu voluisses, aut quod a te vocatum non esset, conservaretur.
+
+Les inclinations naturelles des esprits étant certainement des impressions continuë lles de la volonté de celui qui les a creé s et qui les conserve.
+
+[p. 54 / 2, 12] Les inclinations naturelles des esprits creés ne peuvent donc avoir naturellement d’autre fin principale que la gloire de leur Auteur, ni d’autre fin seconde que leur propre conservation et celle des autres, mais toûjours par rapport à celui qui leur donne l’être.
+
+::: editorial
+
+(zu S. 1864) 7 qui (1) n’entre pas (2) n’est L 9 on (1) croit (2) tient erg. L 23–26 Diligis . . . conservaretur: Buch der Weisheit, 11, 25 f.
+
+:::
+
+[p. 1865] Comme il n’y a proprement qu’un amour en Dieu, qui est l’amour de lui mê me, et comme Dieu ne peut rien aimer que par cet amour, puisque Dieu ne peut rien aimer que par rapport à lui, aussi Dieu n’imprime qu’un amour en nous, qui est l’amour du bien en general. . .
+
+Il n’y a que la puissance de mal aimer ou plû tô t de bien aimer de mauvaises choses qui dé pende de nous; parce qu’ê tant libres nous pouvons dé terminer, et nous dé terminons en effet à des biens particuliers.
+
+[p. 55 / 2, 13] Mais non seulement nôtre volonté, ou nôtre amour pour le bien en general vient de Dieu, nos inclinations pour des biens particuliers lesquelles sont communes à tous les hommes, quoi qu’iné galement fortes dans tous les hommes, comme nô tre inclination pour la conservation de nô tre ê tre, et de ceux avec lesquels nous sommes unis par la nature, font encore des impressions de la volonté de Dieu sur nous, car j’appelle ici indifferemment du nom d’inclination naturelle toutes les impressions de l’Auteur de la nature communes à tous les esprits.
+
+Je viens de dire que Dieu aimoit ses créatures, et que c’étoit même son amour qui leur donnoit et qui leur conservoit l’être; ainsi Dieu imprimant sans cesse en nous un amour pareil au sien.
+
+Ils aiment bien, car on ne peut jamais mal aimer, puisque c’est Dieu qui fait aimer; mais ils aiment de mauvaises choses, mauvaises seulement parce que Dieu, qui donne même aux pecheurs le pouvoir d’aimer, leur deffend de les aimer, à cause qu’elles les empê chent de l’aimer.
+
+[p. 57 / 2, 15 sq.] Nous pretendons seulement rapporter dans ce quatriéme livre les erreurs de nos inclinations à ces trois chefs, à l’inclination que nous avons pour le bien en general, à l’amour propre, et à l’amour du prochain.
+
+L’ame ne les goû te pas, parce que souvent la vû ë de l’esprit n’est point accompagné e de plaisir; car c’est par un plaisir que l’ame goû te son bien: et l’ame ne s’en contente pas, parce qu’il n’y a rien qui puisse arrê ter le mouvement de l’ame, que celui qui le lui imprime.
+
+[p. 58 / 2, 17 sq.] Elle est donc toûjours inquiete, parce qu’elle est portée à chercher ce qu’elle ne peut jamais trouver, et ce qu’elle espere toûjours de trouver: et elle aime le grand, l’extraordinaire, et ce qui tient de l’infini; parce que n’ayant pas trouvé son vrai bien dans les choses communes et familieres, elle espere le trouver dans [p. 1866] celles qui ne lui sont point connuë s. Nous ferons voir dans ce chapitre que l’inquietude de nô tre volonté est une des principales causes de l’ignorance où nous sommes, et des erreurs où nous tombons sur une infinité de sujets. Et dans les deux suivans nous expliquerons ce que produit en nous l’inclination que nous avons pour tout ce qui a quelque chose de grand et d’extraordinaire.[^1866-49]
+
+Il est assez évident par les choses que l’on a dites, premierement que la volonté n’applique gueres l’entendement qu’à des objets qui ont quelque rapport avec nous, et qu’elle neglige fort les autres; à cause que souhaittant toûjours la felicité avec ardeur, et par l’impression de la nature, elle ne tourne l’entendement que vers les choses qui nous paroissent utiles et qui nous causent quelque plaisir.
+
+Secondement, que la volonté ne permet pas que l’entendement s’occupe long-tems à des choses même qui lui causent quelque plaisir: parce que comme on vient de dire, toutes les choses créées peuvent bien nous plaire pour quelque temps, mais nous nous en dé goû tons bien-tô t apré s; et alors nôtre esprit s’en détourne et cherche ailleurs de quoi nous satisfaire.
+
+[p. 60 / 2, 19] Ces choses ne sont pas fort difficiles à découvrir, si peu que l’on s’y applique.
+
+[p. 61 / 2, 20] . . . et que la fausse Géometrie fût aussi commode pour leurs inclinations perverses que l’est la fausse Morale, il pourroient bien faire des paralogismes aussi absurdes en Geometrie qu’en matiere de Morale
+
+[p. 62 / 2, 20 sq.] Il falloit que la sagesse é ternelle se rendit enfin sensible pour instruire des hommes qui n’interrogent que leurs sens. . .
+
+La plûpart des hommes, et principalement les pauvres qui sont le plus digne objet de la misericorde et de la providence du createur, ceux qui sont obligez de travailler pour gagner leur vie, sont extré mement grossiers et stupides.
+
+[p. 63 / 2, 21 sq.] Ainsi quoi que les conseils que Jesus-Christ comme homme, que Jesus-Christ comme voie, que Jesus-Christ comme Auteur de nôtre foi nous donne dans l’Evangile, soient beaucoup plus proportionnez à la foiblesse de nôtre esprit, que ceux que le même Jesus-Christ comme sagesse éternelle, que Jesus-Christ comme verité interieure, que Jesus Christ comme lumiere intelligible nous inspire dans le plus secret de nôtre raison: quoi qu’il rende ces conseils agreables par sa grace, sensibles par son [p. 1867] exemple, convaincans par ses miracles, les hommes sont si stupides, et si incapables de réflexion, mêmes sur les choses qu’il leur est de la derniere consequence de bien sçavoir, qu’ils n’y pensent presque jamais comme ils le doivent.
+
+[^1866-49]: Am Rande: p. 72
+
+[p. 64 / 2, 22] Faut-il apporter une si grande attention d’esprit pour voir qu’une pensé e n’est pas une chose ronde ou quarré e:[^1867-50]
+
+[p. 65 / 2, 24] . . . mais il n’y a point de loi dans la nature pour l’aneantissement d’aucun étre; parce que le neant n’a rien de beau ni rien de bon, et que l’Auteur de la nature aime son ouvrage.
+
+[p. 66 / 2, 24] Mais par quelle ligne peut-on concevoir qu’un plaisir, qu’une douleur, qu’un desir se puissent couper
+
+[p. 68 sq. / 2, 27] Mais lorsque les choses sont abstraites et peu sensibles, nous n’en pouvons que difficilement avoir quelque connoissance assurée: non que les choses abstraites soient d’elles-mêmes fort embarrassées, mais à cause que l’attention et la vû ë de l’esprit commence, et finit d’ordinaire en mê me temps que la vû ë sensible des choses; parce que l’on ne pense gueres qu’à ce que l’on voit et que l’on sent, et qu’autant de temps qu’on le voit et qu’on le sent.
+
+Certainement si l’esprit pouvoit facilement s’appliquer aux idé es claires et distinctes sans ê tre comme soû tenu par quelque sentiment, et si l’inquietude de la volonté ne dé tournoit point sans cesse son application; nous ne trouverions pas de fort grandes difficultez dans une infinité de questions naturelles que nous regardons comme inexplicables, et nous pourrions en peu de temps nous délivrer de l’ignorance et des erreurs où nous sommes sur ce sujet.
+
+[p. 69 / 2, 27] On chercheroit dans les idées distinctes que l’on a de l’étenduë, de la figure, et du mouvement, la raison des choses naturelles; ce qui n’est pas toûjours si difficile qu’on se l’imagine; car toutes les choses de la nature se tiennent et se prouvent les unes les autres.
+
+Les effets du feu par exemple comme ceux des canons et des mines sont fort surprenans, et leur cause est assez cachée.
+
+[p. 70 sq. / 2, 29] Mais de même aussi que cette riviere est capable de renverser un pont, lorsque traînant dans le cours de ses eaux quelques grandes masses de glaces,[^1867-51] ou quelques autres corps plus solides, elle [p. 1868] les pousse contre luy avec le mê me mouvement qu’elle a;[^1868-52] ainsi la matiere subtile est capable de faire les effets surprenans que nous voyons dans les canons et dans les mines, lorsqu’ayant communiqué aux parties de la poudre qui nagent au milieu d’elle, son mouvement infiniment plus violent et plus rapide que celuy des rivieres et des torrens, ces mêmes parties de la poudre ne peuvent pas librement passer par les pores du corps qui les enferment, à cause qu’elles sont trop grosses; ainsi elles les rompent avec violence pour se faire un passage libre.
+
+[^1867-50]: Am Rande: ,
+
+[^1867-51]: Am Rande: ,
+
+Mais les hommes ne peuvent pas si facilement se representer des parties subtiles et deliées, et ils les regardent comme des chimeres à cause qu’ils ne les voyent pas. Contemplatio fere desinit cum aspectu, dit Bacon.
+
+[p. 72 / 2, 31] Chapitre III. De la curiosité ou de l’inclination[^1868-53] pour les choses nouvelles et extraordinaires.
+
+[p. 74 / 2, 32 sq.] Il y en a trois dont la premiere est, que les hommes ne doivent point aimer la nouveauté dans les choses de la foi qui ne sont point soûmises à la raison.
+
+La seconde, que la nouveauté n’est pas une raison qui nous doive porter à croire les choses
+
+La troisiéme, que lorsque nous sommes assurez d’ailleurs que des veritez sont si cachées qu’il est moralement impossible de les découvrir, et que les biens sont si petits et si minces qu’ils ne peuvent pas nous satisfaire, nous ne devons point nous laisser exciter par la nouveauté qui s’y rencontre, ni nous laisser seduire sur de fausses esperances.
+
+[p. 77 / 2, 36] Presque toutes les communautez ont une doctrine qui leur est propre, et qu’il est dé fendu aux particuliers d’abandonner.
+
+[p. 78 / 2, 36] . . . les Livres d’Aristote sont si obscurs et remplis de termes si vagues et si generaux, qu’on peut lui attribuer avec quelque vrai-semblance les sentimens de ceux qui lui sont les plus opposez. On peut luy faire dire toutes choses dans certains de ses ouvrages, parce qu’il n’y dit rien; de même que les enfans font dire au son des cloches tout ce qu’il leur plaît, parce que les cloches font grand bruit et ne disent rien.
+
+[^1868-52]: Am Rande: ,
+
+[^1868-53]: Darüber: p. 58
+
+::: editorial
+
+(zu S. 1868) 10 Contemplatio . . . aspectu: vgl. F. BACON, Novum organum scientiarum, I, 50.
+
+:::
+
+[p. 1869] [p. 79 / 2, 37 sq.] On leur demande seulement que s’ils sçavent qu’Aristote ou quelqu’un de ceux qui l’ont suivi, ayent jamais déduit quelque verité des principes de Physique qui lui soient particuliers
+
+Et il y a grande apparence que personne ne se hazardera jamais de faire, ce que les plus grands ennemis de Monsieur Descartes et les plus zelez défenseurs de la Philosophie d’Aristote n’ont osé entreprendre.
+
+[p. 80 / 2, 39] La seconde regle que l’on doit observer, c’est que la nouveauté ne doit jamais nous servir de raison pour croire les choses.
+
+[p. 81 / 2, 40 sq.] Et parce qu’on se flatte ordinairement, et qu’on croit volontiers que les choses sont comme on souhaite qu’elles soient, leurs esperances se fortifient à proportion que leurs desirs s’augmentent, et enfin elles se changent insensiblement en des assurances imaginaires.
+
+. . . au contraire de ceux, qui ayant joint l’idé e de la nouveauté avec celle de la fausseté par l’aversion qu’ils ont eu pour les heresies, s’imaginent que toutes les opinions nouvelles sont fausses et qu’elles renferment quelque chose de dangereux.
+
+La troisiéme regle contre les desirs excessifs de la nouveauté est, que lorsque nous sommes assurez d’ailleurs que des veritez sont si cachées qu’il est moralement impossible de les découvrir, et que les biens sont si petits et si minces qu’ils ne peuvent nous rendre heureux, nous ne devons pas nous laisser exciter par la nouveauté qui s’y rencontre.[^1869-54]
+
+[p. 82 / 2, 41] Car enfin ils ne tombent jamais que de haut; ils ne reçoivent jamais que de grandes blessures; et toute cette grandeur qui les accompagne et qu’ils attachent à leur propre é tre, ne fait que les grossir et les é tendre, afin qu’ils soient capables d’un grand nombre de blessures, et plus exposez aux coups de la fortune.
+
+[p. 83 / 2, 42] . . . nous ne devons pas aussi avoir le moindre desir de sçavoir les opinions nouvelles, un tres-grand nombre de questions difficiles, parce que nous sçavons d’ailleurs que l’esprit de l’homme n’en sçauroit découvrir la verité. La plûpart des questions que l’on traite dans la Morale et principalement dans la Physique, sont de cette nature.
+
+[^1869-54]: Am Rande: 〈très justes〉
+
+[p. 1870] [p. 84 / 2, 42 sq.] Car quoique les questions qu’ils contiennent se puissent résoudre absolument parlant, cependant il y a encore si peu de veritez découvertes, et il y en a tant d’autres à sçavoir avant que de venir à celles dont traitent ces livres, qu’on peut ne les pas lire sans se hazarder de perdre beaucoup.
+
+Cependant ce n’est pas ainsi que les hommes se conduisent, ils font tout le contraire. Ils n’examinent point si ce qu’on leur dit est possible. Il n’y a qu’à leur promettre des choses extraordinaires, comme la réparation de la chaleur naturelle, de l’humide radical
+
+Il suffit pour les éblouïr et pour les gagner, de leur proposer des paradoxes, de se servir de paroles obscures, de termes d’influences, de l’autorité de quelques auteurs inconnus, ou bien de faire quelque experience fort sensible et fort extraordinaire, quoiqu’elle n’ait mê me aucun rapport à ce qu’on avance, car il suffit de les é tourdir pour les convaincre.
+
+[p. 85 / 2, 43 sq.] Mais si un Medecin ne sçait au moins lire le grec pour apprendre quelqu’aphorisme d’Hippocrate, il ne faut pas qu’il s’attende de passer pour sçavant homme dans l’esprit des gens de ville, qui sçavent ordinairement du latin. Ainsi les habiles Medecins connoissans cette fantaisie des hommes se trouvent obligez de parler comme les affronteurs et les ignorans; et l’on ne doit pas toûjours juger de leur capacité et de leur bon sens, par les choses qu’ils peuvent dire dans leurs visites.
+
+Chap. V. De la seconde inclination ou de l’amour propre. Qu’il se divise en l’amour de l’ê tre et du bien ê tre, ou de la grandeur et du plaisir.
+
+[p. 86 sq. / 2, 46] Car on peut dire presentement que nous n’avons de l’amour que pour nous mê mes, puisque nous n’aimons toutes choses que pour nous, au lieu que nous ne devons aimer que Dieu et toutes choses pour Dieu.
+
+Si la foi et la raison nous apprennent qu’il n’y a que Dieu qui soit le souverain bien, et que lui seul peut nous combler de plaisirs; nous concevons facilement qu’il faut donc l’aimer, et nous nous y portons avec assez de facilité; mais sans la grace c’est toû jours par amour propre que nous le faisons. La charité toute pure est si au dessus de nos forces, que tant s’en faut que nous puissions aimer Dieu pour lui même, que la raison humaine ne comprend pas facilement que l’on puisse aimer autrement que par rapport à soy, et avoir d’autre derniere fin que sa propre satisfaction.
+
+[p. 87 / 2, 47] Or cet amour propre se peut diviser en deux especes, sçavoir en l’amour de la grandeur, et en l’amour du plaisir: ou bien en l’amour de son [p. 1871] ê tre et de la perfection de son ê tre, et en l’amour de son bien ê tre ou de la felicité
+
+Car il faut remarquer que la grandeur, l’excellence, et l’indépendance de la creature, ne sont pas des manieres d’ê tre qui la rendent plus heureuse par elles-mê mes
+
+[p. 88 / 2, 48] Mais le plaisir est toû jours la maniere d’ê tre de l’ame qui la rend heureuse et contente par elle-mê me; de sorte que le plaisir est le bien être, et l’amour du plaisir l’amour du bien être.
+
+[p. 88 sq. / 2, 49] Ces deux amours se peuvent diviser en plusieurs manieres, soit parce que nous sommes composez de deux parties differentes, d’ame et de corps, selon lesquelles on les peut diviser; soit parce qu’on les peut distinguer ou les specifier par les differens objets qui nous sont utiles pour nôtre conservation. On ne s’arrêtera pas toutesfois à cela, parce que nôtre dessein n’étant pas de faire une Morale, il n’est pas necessaire de faire une recherche et une division exacte de toutes les choses que nous regardons comme nos biens.
+
+[p. 90 / 2, 51] . . . car comme dit agreablement l’auteur des Réflexions Morales, la vertu n’iroit pas loin si la vanité ne lui tenoit compagnie.
+
+[p. 91 / 2, 52] Mais cependant on peut assurer qu’il est tres-necessaire de sç avoir quelques veritez de Metaphysique.
+
+[p. 92 / 2, 53] Et l’on peut dire que de même qu’un homme si grossier et si stupide qu’il soit, est toutesfois infiniment au dessus de la matiere, parce qu’il sçait qu’il est et que la matiere ne le sçait pas: ainsi ceux qui connoissent l’homme, sont infiniment au dessus des personnes grossieres et stupides, parce qu’ils sçavent ce qu’ils sont, et que les autres ne le sçavent point.
+
+Mais la science de l’homme n’est pas seulement estimable, parce qu’elle nous éleve au dessus des autres; elle l’est beaucoup plus parce qu’elle nous abbaisse et qu’elle nous humilie devant Dieu.
+
+[p. 92 sq. / 2, 53 sq.] On ne peut gueres se passer d’avoir au moins une teinture grossiere et une connoissance generale des Mathematiques et de la nature.
+
+Qu’ils condamnent au feu des Poëtes et les Philosophes Payens, les Rabbins, quelques Historiens, et un grand nombre d’Auteurs qui font la gloire et l’érudition de quelques sçavans; on ne s’en mettra guéres en peine. Mais qu’ils ne condamnent pas la [p. 1872] connoissance de la nature comme contraire à la Religion, puisque la nature êtant réglée par la volonté de Dieu.
+
+::: editorial
+
+(zu S. 1871) 16 f. Vgl. LA ROCHEFOUCAULD, Réflexions morales, Paris 1665, no 200.
+
+:::
+
+[p. 94 / 2, 54 sq.] Les superstitieux par une crainte servile, et par une bassesse et une foiblesse d’esprit, s’effarouchent dé s qu’ils voyent quelque esprit vif et penetrant. Il n’y a par exemple qu’à leur donner des raisons naturelles du tonnerre et de ses effets, pour être un athée dans leur esprit. Mais les hypocrites par une malice de demon se transforment en anges de lumiere.
+
+Ces personnes sont donc les plus forts et les plus puissans ennemis de la verité, et ils sont extrémement à craindre; il est vray qu’ils sont assez rares, mais il en faut peu pour faire de grands maux.
+
+[p. 97 sq. / 2, 58] D’où vient qu’il y a des personnes qui passent toute leur vie à lire des Rabbins, et d’autres livres écrits dans des langues étrangeres, obscures et corrompuës.[^1872-55]
+
+[p. 98 / 2, 59] . . . on se laisse persuader qu’ils sont sçavans dans la nature des choses.
+
+C’est pour la même raison que les Astronomes employent leur tems et leur bien pour sçavoir au juste ce qui ne se peut jamais sçavoir, et ce qui leur est assez inutile de sçavoir.[^1872-56]
+
+[p. 99 / 2, 60] . . . car enfin qu’y-a-t’il de grand dans la connoissance des mouvemens des Planetes, et n’en sçavons-nous pas assez presentement pour regler nos mois et nos années?[^1872-57]
+
+[p. 100 / 2, 61] Mais cependant les hommes ne sont pas faits pour considerer les moucherons; et l’on n’approuve pas la peine que quelques personnes se sont données pour nous apprendre comment sont faits les poux de chaque espece d’animal, et les transformations de differens vers en mouches et en papillons. Il est permis de s’amuser à cela quand on n’a rien à faire et pour se divertir; mais les hommes ne doivent point y employer tout leur tems, s’ils ne sont insensibles à leurs miseres.
+
+[p. 101 / 2, 61] Car quand un homme se met en tête de devenir sçavant, et que l’esprit de polymathie commence à l’agiter, il n’examine gueres quelles sont les sciences qui lui sont les plus nécessaires
+
+[^1872-55]: Am Rande: ,
+
+[^1872-56]: Am Rande: ,
+
+[^1872-57]: Am Rande: ,
+
+[p. 1873] [p. 102 sq. / 2, 62 sq.] Ils [scil. les historiens ] ne connoissent pas mêmes leurs propres parens; mais si vous le souhaitez ils vous apporteront plusieurs autoritez pour vous prouver qu’un citoyen Romain étoit allié d’un Empereur, et d’autres choses semblables.
+
+A peine sçavent-ils le nom des vêtemens ordinaires dont on se sert de leur temps, et ils ne craignent point de s’amuser à la recherche de ceux dont se servoient les Grecs et les Romains. Les animaux de leur pays leur sont peu connus, et ils ne craindront pas d’employer plusieurs années à composer de grands volumes sur les animaux de la Bible[^1873-58]
+
+Un tel livre fait les delices de son auteur et des sçavans qui le lisent, parce qu’étant tout cousu de passages Grecs, Hebreux, Arabes, etc. de citations de Rabbins, et d’autres auteurs obscurs et extraordinaires, il satisfait la vanité de son auteur, et la sotte curiosité de ceux qui le lisent
+
+La carte de leur pays ou même de leur ville leur est souvent inconnuë, dans le tems qu’ils étudient celle de la Gréce ancienne, de l’Italie, des Gaules du tems de Jules Cesar, ou les ruës et les places publiques de l’ancienne Rome. Labor stultorum, dit le Sage, affliget eos, qui nesciunt in urbem pergere: il ne sçavent pas le chemin de leur ville
+
+. . . et qu’il suffit pour être estimé sçavant, de sçavoir ce que les autres ne sçavent pas, quand mê me on ignoreroit les choses les plus necessaires et les plus belles.
+
+[p. 104 / 2, 64] Ils s’éloignent si fort de toutes les pensées communes dans le dessein qu’ils ont d’acquerir la qualité d’esprit rare et extraordinaire, qu’en effet ils y réüssissent, et qu’on ne les regarde plus qu’avec admiration, ou qu’avec beaucoup de mé pris.
+
+On les regarde quelquefois avec admiration, lors qu’é tant é levez à quelque dignité qui les couvre, on s’imagine qu’ils sont autant au dessus des autres par leur génie et par leur érudition qu’ils le sont par leur rang. Mais on les regarde le plus souvent avec mé pris, et quelquefois même comme des fous, lorsqu’on les regarde de plus pré s, et que leur grandeur ne les cache point aux yeux des autres.
+
+[p. 106 / 2, 66] Car il faut bien remarquer que le nombre des sots, ou de ceux qui se laissent conduire machinalement et par l’impression sensible, é tant infiniment [p. 1874] plus grand que de ceux qui ont quelqu’ouverture d’esprit, et qui se persuadent par raison
+
+[^1873-58]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1873) 16 f. Labor stultorum affliget . . . pergere: Pred. 10, 15.
+
+:::
+
+[p. 107 / 2, 66 sq.] Les plus complaisans et les plus raisonnables mé prisant dans leur coeur le sentiment des autres montrent seulement une mine attentive, pendant que l’on voit dans leurs yeux qu’ils pensent à toute autre chose qu’à ce qu’on leur dit, et qu’ils ne sont occupez que de ce qu’ils veulent nous prouver, sans songer à nous ré pondre. C’est ce qui rend souvent les conversations tres-desagreables
+
+Car enfin on ne se plaît pas à parler et à converser avec des statuës, mais qui ne sont statuës à nôtre égard, que parce que ce sont des hommes qui n’ont pas beaucoup d’estime pour nous, et qui ne songent point à nous plaire, mais seulement à se complaire en eux-mêmes en tâchant de se faire valoir.
+
+[p. 107 sq. / 2, 67] On peut dire pour eux [scil. les faux sçavans] que l’on apporte d’ordinaire peu d’application à ce qu’on dit dans ce temps-là, que les personnes les plus exactes y disent souvent des sottises; et qu’ils ne prétendent pas qu’on ramasse toutes leurs paroles comme celles de Scaliger et du Cardinal du Perron.
+
+Car enfin lorsque l’on a composé un méchant livre, on est cause qu’un tresgrand nombre de personnes perdent leur temps à le lire
+
+[p. 109 / 2, 68] Il est mê me tres-à -propos, afin que l’on puisse se dé livrer de l’erreur, qu’il y ait plus de liberté dans la Ré publique des lettres que dans les autres où la nouveauté est toû jours fort dangereuse.
+
+[p. 110 / 2, 69] C’est dans cette vuë qu’ils [scil. les faux sçavans] ne traitent comme nous avons déja dit, que des sujets rares et extraordinaires, qu’ils ne s’expliquent que par des termes rares et extraordinaires, et qu’ils ne citent que des Auteurs rares et extraordinaires.
+
+Il est ce me semble évident qu’il n’y a que la fausse érudition, et l’esprit de Polimathie qui ait pû rendre les citations à la mode comme elles ont été jusqu’ici, et comme elles sont encore maintenant chez quelques sç avans.
+
+[p. 112 / 2, 71] Ainsi ils vous citeront plûtôt des Livres fort chers, fort rares, fort anciens et fort obscurs, que non pas d’autres Livres plus communs et plus intelligibles; et des Livres d’Astrologie, de Cabale, et de Magie, que de bons Livres
+
+Mais la plûpart des Livres de certains sçavans ne sont fabriquez qu’à coups de dictionnaires, et ils n’ont gueres lû que les tables des Livres qu’ils citent, ou quelques lieux communs ramassez de différens Auteurs.
+
+[p. 1875] [p. 114 sq. / 2, 74] . . . qu’ils [scil. les personnes publiques] tombent souvent dans l’erreur à l’égard de toutes les choses qu’il est difficile de sçavoir, lorsqu’ils en veulent juger.
+
+III. Parce qu’ils sont tres-peu capables d’attention, à cause que la capacité de leur esprit est partagé e par la multiplicité des idé es des choses qu’ils souhaitent, ou qui les occupent même malgré eux.
+
+IV. Parce qu’ils s’imaginent de sç avoir toutes choses; et qu’ils ont de la peine à croire que des gens qui leur sont inferieurs ayent plus de raison qu’eux: car s’ils souffrent bien qu’ils leur apprennent quelques faits, ils ne souffrent pas volontiers qu’ils les instruisent des veritez solides et qu’il est necessaire de sç avoir, ils s’emportent lorsqu’on les contredit et qu’on les détrompe.
+
+V. Parce qu’on a de coûtume . . . de railler ceux qui ne sont pas de leur sentiment, quoy qu’ils ne défendent que des veritez incontestables. C’est par cette conduite flateuse de ceux qui les approchent, qu’ils se confirment dans leurs erreurs et dans la fausse estime qu’ils ont d’eux-mêmes, et qu’ils se mettent en possession de juger cavalierement de toutes choses.
+
+[p. 115 / 2, 74] VII. Parce que ceux qui aspirent à quelque dignité, tâchent autant qu’ils peuvent de s’accommoder à la portée des autres, à cause qu’il n’y a rien qui excite si fort l’envie et l’aversion des hommes que de paroître avoir des sentimens peu communs.
+
+[p. 117 / 2, 77 sq.] Car il est évident à tout homme qui n’interroge et qui n’écoute point ses sens mais sa raison, que ce ne sont point les objets que nous sentons, qui agissent effectivement en nous, et que ce n’est point aussi nô tre ame qui cause en elle-mê me son plaisir et sa douleur.
+
+. . . et qu’ainsi Dieu agissant toû jours avec ordre, et selon les regles de la justice, tout plaisir nous porte à quelque bonne action, ou nous en recompense; et toute douleur nous dé tourne de quelque action mauvaise, ou nous en punit.
+
+[p. 118 / 2, 79] II. Parce que le plaisir étant une récompense, c’est faire une injustice que de produire dans son corps des mouvemens qui obligent Dieu en consequence de sa premiere volonté à nous faire sentir du plaisir lorsque nous n’en méritons pas; soit parce que l’action que nous faisons est inutile ou criminelle, soit parce qu’étant pleins de pechez nous ne devons point luy demander de récompense.
+
+[p. 119 sq. / 2, 80] V. . . . il est presque toû jours tres-avantageux de souffrir la douleur, quoyqu’elle soit effectivement un mal.
+
+[p. 1876] Cependant tout plaisir est un bien, et rend actuellement heureux celuy qui le goûte, dans l’instant qu’il le goûte et autant qu’il le goûte; et toute douleur est un mal et rend actuellement mal-heureux celuy qui la souffre, dans l’instant qu’il la souffre, et autant qu’il la souffre.
+
+Ceux qui souffrent persécution pour la justice sont en cela justes, vertueux, et parfaits, parce qu’ils sont dans l’ordre de Dieu, et que la perfection consiste à le suivre; mais ils ne sont pas heureux à cause qu’ils souffrent.
+
+[p. 122 / 2, 82] Mais parce que nous jugeons qu’une chose est cause de quelqu’effet, lorsqu’elle l’accompagne toûjours, nous nous imaginons que ce sont les objets sensibles qui agissent en nous.
+
+[p. 123 / 2, 83] A la vû ë de son bon-heur il sent de la joië : à la vû ë de son malheur il sent de la tristesse. Il s’imagine aussi-tô t que c’est la vû ë de son bon-heur produit en lui-mê me ce sentiment de joië , parce que ce sentiment accompagne toûjours cette vûë: il s’imagine aussi que c’est la vûë de son malheur qui produit en lui-même ce sentiment de tristesse, parce que ce sentiment suit cette vûë. La vé ritable cause de ces sentimens, qui est Dieu seul, ne lui paroît pas: il ne pense pas même à Dieu: car Dieu agit en nous sans que nous le sçachions.
+
+[p. 125 / 2, 86] Nos erreurs ont presque toûjours plusieurs causes qui contribuent toutes à leur naissance: de sorte qu’il ne faut pas s’imaginer que ce soit faute d’ordre que l’on repete quelquesfois presque les mêmes choses, et que l’on donne plusieurs causes des mêmes erreurs: c’est qu’en effet il y en a plusieurs. Je parle toû jours de causes occasionnelles: car nous avons dit souvent qu’il n’y en avoit point d’autre ré elle et veritable que le mauvais usage de nô tre liberté , de laquelle nous n’usons pas bien en cela seul que nous n’en usons pas toujours autant que nous le pouvons, ainsi que nous avons expliqué dés le commencement de cet ouvrage.
+
+[p. 127 / 2, 88] Ainsi ceux qui veulent s’approcher de la verité pour ê tre é clairez de sa lumiere, doivent commencer par la privation du plaisir.
+
+[p. 129 / 2, 89] L’Analyse ou l’Algebre spécieuse est assurément la plus belle, je veux dire la plus feconde et la plus certaine de toutes les sciences. Sans elle l’esprit est sans pénétration et sans étendüe; et avec elle il est capable de sç avoir presque tout ce qui se peut sç avoir avec certitude et avec é vidence.
+
+[p. 1877] [p. 132 sq. / 2, 92 sq.] On peut prouver que le tout est plus grand que sa partie par ce premier axiome, mais ce premier ne se peut prouver par aucun autre.
+
+N’y ayant rien de semblable[^1877-59] dans cet axiome il n’y a rien qui arrête et qui applique naturellement l’esprit.
+
+[p. 134 / 2, 94] Il[^1877-60] y a des gens qui tâchent de persuader qu’ils n’ont point d’idée d’un être infiniment parfait. Mais je ne sçai comment ils s’avisent de répondre, lors qu’on leur demande si un être infiniment parfait est rond ou quarré, ou quelque chose de semblable: car ils devroient dire qu’ils n’en sçavent rien, s’il est vrai qu’ils n’en ayent point d’idée.
+
+Il y en a d’autres enfin qui prétendent que cette maniere de prouver de l’éxistence d’un Dieu est un Sophisme; et que l’argument ne conclut que supposé qu’il soit vrai que Dieu existe, comme si on ne le prouvoit pas. Voici nôtre preuve. On doit attribuer à une chose ce que l’on conçoit clairement être renfermé dans l’idée qui la représente. C’est-là le principe general de toutes les sciences. L’existence necessaire est renfermée dans l’idée qui représente un être infiniment parfait. Ils l’accordent. Et par consequent on doit dire que l’être infiniment parfait éxiste. Ouï, disent-ils, supposé qu’il éxiste.[^1877-61]
+
+[p. 135 sq. / 2, 95] Mais l’idée de Dieu, ou de l’être en general, de l’être sans restriction, de l’être infini n’est point une fiction de l’esprit. Ce n’est point une idé e composé e qui enferme quelque contradiction; il n’y a rien de plus simple, quoiqu’elle comprenne tout ce qui est, et tout ce qui peut être. Or cette idée simple et naturelle de l’être ou de l’infini enferme l’éxistence necessaire: car il est évident que l’ê tre (je ne dis pas un tel ê tre) a son existence par lui-même; et que l’être ne peut n’être pas actuellement, étant impossible et contradictoire que le veritable être soit sans existence.
+
+S’il y a quelque chose, il [scil. Dieu] est; puisque tout vient de lui.
+
+[p. 137 / 2, 104] Les hommes sont d’ordinaire incapables de voir l’évidence de cet axiome, sub justo Deo, quisquam nisi mereatur, miser esse non potest, dont saint Augustin se sert avec beaucoup de raison contre Julien pour prouver le peché originel, et la corruption de nôtre nature.
+
+[^1877-59]: Leibniz ändert de semblable in de sensible
+
+[^1877-60]: Am Rande: ,
+
+[^1877-61]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1877) 27 f. AUGUSTINUS, Contra secundam Juliani responsionem, I, 39 (PL 45, Sp. 10).
+
+:::
+
+[p. 1878] [p. 139 / 2, 106] . . . et on ne les [scil. les hommes] pourra pleinement convaincre qu’en opposant des preuves sensibles, en leur montrant sensiblement comment toutes les parties des animaux ne sont que des machines.
+
+[p. 143 / 2, 110] Il se trouve souvent beaucoup de vertu et de charité dans les personnes affligées de scrupules, mais il y en a beaucoup moins dans ceux qui sont attachez à quelques superstitions, et qui font leur principale occupation de quelques pratiques Juives et Pharisaïques.
+
+[p. 147 / 2, 113 sq.] Pour bien comprendre la cause et les effets de cette inclination [scil. l’amour du prochain] naturelle, il faut sçavoir que Dieu aime tous ses ouvrages, et qu’il les unit é troitement les uns avec les autres pour leur mutuelle conservation.
+
+. . . il nous a lié de telle maniere avec toutes les choses qui nous environnent, et principalement avec les êtres de même espece que nous, que leurs maux nous affligent naturellement, que leur joïe nous réjoüit, et que leur grandeur, leur abbaissement, leur diminution semble augmenter ou diminuër nôtre être.
+
+. . . et même les nouvelles découvertes du nouveau monde semblent ajoû ter quelque chose à nô tre substance.
+
+[p. 149 / 2, 115] Ceux qui sont dans le trouble des affaires ne se mettent gueres en peine s’il paroît quelque cométe ou s’il arrive quelqu’éclypse, mais ceux qui ne tiennent point si fort aux choses qui les environnent, se font une affaire considerable de ces sortes d’évenemens: parce qu’en effet il n’y a rien à quoi l’on ne tienne, quoi qu’on ne le sente pas toûjours; de même qu’on ne sent pas toûjours que son ame est unie, je ne dis pas à son bras et à sa main, mais à son coeur, et à son cerveau.
+
+[p. 150 / 2, 116] Car un cri indiscret, poussé sans sujet ou par une vaine frayeur, produit dans les assistans de l’indignation ou de la mocquerie au lieu de compassion; parce qu’en criant sans raison l’on abuse des choses é tablies par la nature pour nô tre conservation.
+
+[p. 152 sq. / 2, 118] Ainsi tous ceux qui composent les armées, ne travaillant que pour leurs interêts particuliers, ne laissent pas de procurer le bien de tout le pays. Ce qui fait voir, qu’il est tres-avantageux pour le bien public que tous les hommes ayent un desir secret de grandeur pourvû qu’il soit moderé.
+
+[p. 153 sq. / 2, 119] Car de cette sorte tous les hommes possedent en quelque maniere la grandeur qu’ils desirent: les grands la possedent réellement (a) et les petites et les foibles ne la possedent que par imagination
+
+[p. 1879] [note a] Je parle selon l’homme; car la veritable grandeur de la terre ne consiste que dans un tour d’imagination, et elle renferme encore plus de vuide, et cause plus d’illusion que la grandeur imaginaire des petites gens; mais on est souvent obligé de parler comme tout le monde parle.
+
+[p. 160 / 2, 124 sq.] Je me fais un ordre pour me conduire, mais je prétens qu’il m’est permis de tourner la tête lorsque je marche, si je trouve quelque chose qui merite d’être consideré. Je prétens mêmes qu’il m’est permis de me reposer à quelque lieux à l’écart pourvû que je ne perde point de vûë le chemin que je dois suivre.
+
+LIVRE CINQUIÉME. DES PASSIONS.
+
+[p. 162 / 2, 127] J’ay donc appellé inclinations naturelles tous les mouvemens de l’ame, qui nous sont communs avec les pures intelligences, et quelques-uns de ceux ausquels le corps a beaucoup de part, mais dont il n’est qu’indirectement et la cause et la fin, je les ai expliquées dans le Livre precédent: Et j’appelle ici passions toutes les é motions que l’ame ressent naturellement ensuite des mouvemens extraordinaires des esprits animaux et du sang.
+
+[p. 169 / 2, 133] C’est l’ordre de la nature, c’est la volonté du Créateur, que tous les ê tres qu’il a faits se tiennent les uns aux autres.
+
+Car de mê me qu’il est ridicule d’avertir les hommes de ne point sentir de douleur lorsqu’on les frappe, ou de ne point sentir de plaisir lorsqu’ils mangent avec appetit: ainsi les Stoiciens n’ont pas raison de nous prê cher de n’ê tre point affligez de la mort d’un pere, de la perte de nos biens, d’un exil, d’une prison, et de choses semblables
+
+[p. 169 sq. / 2, 134] Je veux bien que la raison nous apprenne que nous devons souffrir l’exil sans tristesse; mais la même raison nous apprend que nous devons aussi souffrir qu’on nous coupe un bras sans douleur. L’ame est au dessus du corps, et selon la lumiere de la raison, son bon-heur ou son malheur n’en doivent pas dépendre. Il est vray. Mais l’experience nous prouve assez que les choses ne sont point comme nostre raison nous dit qu’elles doivent ê tre, et il est ridicule de philosopher contre l’experience.
+
+[p. 172 / 2, 136] 2. L’union aux choses sensibles que l’on a vû ë s est plus forte que l’union à celles que l’on a seulement imaginé es, et desquelles on a seulement ouï parler.
+
+[p. 1880] 3. Cette union n’est pas si forte dans ceux qui la combattent sans cesse pour s’attacher aux biens de l’esprit, que dans les autres qui suivent les mouvemens de leurs passions et qui s’y laissent assujettir: car la cupidité l’augmente et la fortifie.
+
+[p. 173 / 2, 137] Les femmes ne tiennent qu’à leur famille et à leur voisinage, mais les hommes tiennent à toute leur patrie: c’est à eux à la deffendre; ils aiment les grandes charges, les dignitez et le commandement.
+
+Les Religieux n’ont pas l’esprit ni le coeur tourné comme les hommes du monde, ni mê me comme les Ecclesiastiques: ils sont unis à moins de choses, mais ils y tiennent plus fortement.
+
+[p. 174 / 2, 138] Cette union sensible de l’esprit des hommes à toutes les choses, qui ont quelque rapport à la conservation de leur vie, ou de la societé dont ils se considerent comme parties, est donc differente dans tous les hommes: puisqu’elle est plus é tenduë dans ceux qui ont plus de connoissance, qui sont de plus grande condition, qui ont de plus grands emplois, et qui ont l’imagination plus spatieuse; et qu’elle est plus é troite, et plus forte dans ceux qui sont plus sensibles, qui ont l’imagination plus vive, et qui suivent plus aveuglé ment les mouvemens de leurs passions.
+
+[p. 175 sq. / 2, 139] Il est vrai que souvent on ne reconnoit pas que l’on imagine quelque peu dans le même tems que l’on conçoit une verité abstraite; dont la raison est que ces veritez n’ont point d’images ou de traces institué es de la nature pour les representer, et que toutes les traces ausquelles elles sont unies ou qui les ré veillent, n’ont point d’autre rapport avec elles, que celui que la volonté des hommes ou le hazard y a mis. Car enfin les Arithmeticiens, et les Analystes mêmes, qui ne considerent que des choses abstraites, se servent tres-fort de leur imagination pour arrê ter la vû ë de leur esprit sur leurs idé es. Les chiffres, les lettres de l’alphabet, et les autres figures qui se voyent ou qui s’imaginent, sont toû jours jointes aux idé es qu’ils ont des choses.
+
+[p. 177 / 2, 142] On peut distinguer sept choses dans chacune de nos passion, excepté dans l’admiration, laquelle en effet n’est qu’une passion imparfaite.
+
+La premiere chose est le jugement que l’esprit porte d’un objet, ou plûtôt c’est la vû ë confuse, ou distincte du rapport qu’un objet a avec nous.
+
+[p. 1881] [p. 178 / 2, 142 sq.] La seconde est une nouvelle dé termination du mouvement de la volonté vers cet objet particulier, supposé que cet objet soit un bien, ou qu’il soit estimé tel.
+
+Mais si cet objet particulier est consideré comme mauvais ou comme capable de nous priver de quelque bien, il n’arrive point de nouvelle dé termination au mouvement de la volonté ; mais seulement une augmentation de mouvement vers le bien qui luy est opposé , d’autant plus grande que le mal paroit plus à craindre.
+
+Ainsi le mal é tant consideré comme la privation du bien; fuir le mal, c’est fuir la privation du bien, c’est-à-dire tendre vers le bien.
+
+[p. 179 / 2, 143 sq.] Mais il faut ici remarquer que la douleur est un mal ré el et veritable, et qu’elle n’est pas plus la privation du plaisir, que le plaisir est la privation de la douleur; car il y a difference entre ne point sentir de plaisir ou être privé du sentiment de plaisir, et souffrir actuellement de la douleur. Ainsi tout mal n’est pas tel pré cisement à cause qu’il nous prive du bien, mais seulement comme je me suis expliqué , le mal qui est hors de nous, et qui n’est point une maniere d’ê tre qui soit en nous.
+
+[p. 180 / 2, 144] La troisié me chose qu’on peut remarquer dans chacune de nos passions, est le sentiment qui les accompagne, sentiment d’amour, d’aversion, de desir, de joie, de tristesse. Ces sentimens sont toûjours differens dans les differentes passions.
+
+La quatrième est une nouvelle dé termination du cours des esprits et du sang vers les parties exterieures du corps et vers celles du dedans.
+
+[p. 181 sq. / 2, 145 sq.] La cinquié me est l’é motion sensible de l’ame qui se sent agitée par ce débord inopiné d’esprits. Cette émotion sensible de l’ame accompagne toû jours ce mouvement d’esprits,
+
+La sixiéme sont des sentimens differens d’amour, d’aversion, de joie, de desir, de tristesse, causez non par la vûë intellectuelle du bien ou du mal; comme ceux dont on vient de parler, mais par les differens é branlemens que les esprits animaux causent dans le cerveaux.
+
+La septié me est un certain sentiment de joie ou plûtôt de douceur interieure, qui arrê te l’ame dans la passion qui l’occupe, et qui lui témoigne qu’elle est dans l’état où il est à propos qu’elle soit par rapport à l’objet qu’elle considere. Cette douceur interieure accompagne generalement toutes les passions, celles qui naissent de la vûë d’un mal, aussi bien que celles qui naissent de la vûë d’un bien, [p. 1882] la tristesse comme la joie. C’est cette douceur qui nous rend toutes nos passions agréables, et qui nous porte à y consentir. Enfin c’est cette douceur qu’il faut vaincre par la douceur de la grace, et par la joie de la foi et de la raison.
+
+[p. 195 / 2, 161] Nous sommes raisonnables, et Dieu qui est nôtre bien, ne veut pas de nous un amour aveugle, un amour d’instinct, un amour pour ainsi dire forcé: mais un amour de choix, un amour éclairé, un amour qui luy assujettisse nôtre esprit et nôtre coeur. Il nous porte à l’aimer en nous faisant connoître par la lumiere qui accompagne la délectation de sa grace qu’il est nôtre bien: mais il nous porte au bien du corps seulement par instinct.
+
+[p. 196 sq. / 2, 162 sq.] Car vous produisez avec une addresse criminelle dans vôtre corps des mouvemens qui l’obligent, pour ainsi dire, à vous combler de délices: mais la mort corrompra ce corps, et Dieu que vous avez fait servir à vos injustes desirs, vous fera servir à sa juste colere, il se mocquera de vous à son tour.
+
+. . . le bien de l’ame étant infiniment plus grand que le bien du corps, nous devrions sentir infiniment plus de douceur dans l’amour de Dieu que dans l’usage des choses sensibles. Cela sera certainement un jour, et il y a quelque apparence que cela étoit ainsi avant le peché.
+
+[p. 200 / 2, 165 sq.] . . . mais outre la raison nous avons encore l’experience. Car dés qu’une personne forme seulement la resolution de mépriser tout pour Dieu, il est d’ordinaire touché d’un plaisir, et d’une joïe interieure qui lui font sentir aussi vivement que Dieu est son bien, qu’il le connoissoit clairement.
+
+Les vrais Chrêtiens nous assurent tous les jours que la joïe, qu’ils ont de n’aimer et de ne servir que Dieu, ne se peut exprimer, et il est bien juste de les croire touchant ce qui se passe dans eux-mêmes. Les impies au contraire sont toûjours dans des inquietudes mortelles
+
+[p. 203 sq. / 2, 168 sq.] Mais non seulement on peut dire que l’esprit qui connoît la verité , connoît en quelque maniere Dieu qui la renferme, on peut mê me dire qu’il connoît en quelque maniere les choses comme Dieu les connoît.
+
+De même lors que l’on aime selon les ré gles de la vertu, on aime Dieu.
+
+Mais non seulement, c’est aimer Dieu, c’est encore aimer, comme Dieu aime.
+
+[p. 206 / 2, 170 sq.] Il est impossible, je l’avouë , que l’esprit possede actuellement quelque bien, et qu’il ne soit pas actuellement plus [p. 1883] parfait; mais il n’est pas impossible qu’il possede actuellement quelque bien sans ê tre actuellement plus heureux. Ceux qui connoissent le mieux la verité , et qui aiment davantage les choses qui sont les plus aimables, sont toû jours actuellement plus parfaits que ceux qui sont dans l’aveuglement et dans le dé reglement; mais cependant ils ne sont pas toû jours actuellement plus heureux.
+
+La vertu est souvent dure et amere, et le vice doux et agreable: et c’est principalement par la foi et par l’esperance que les gens de bien sont veritablement heureux, pendant que les mé chans sont actuellement dans les plaisirs et dans les dé lices. Cela ne doit pas ê tre, mais cela est.
+
+[p. 210 / 2, 174] La Mé taphysique, les Mathematiques pures, et toutes les sciences universelles qui réglent et qui renferment les sciences particulieres, comme l’être universel renferme tous les êtres particuliers, paroissent chimeriques presqu’à tous les hommes, aux gens de bien comme à ceux qui n’ont aucun amour pour Dieu. De sorte que je n’oserois presque dire que l’application à ces sciences est l’application de l’esprit à Dieu, la plus pure et la plus parfaite dont on soit naturellement capable.
+
+[p. 217 / 2, 181] Les Jacobins se croyent obligez de suivre saint Thomas, et pourquoi? c’est souvent parce que ce saint Docteur étoit de leur Ordre. Les Cordeliers au contraire embrassent les sentimens de Scot, parce que Scot étoit Cordelier.
+
+Il y a de même des veritez et des erreurs de certains tems. . . . On a brûlé autrefois Aristote: un Concile Provincial approuvé par un Pape, a tres-sagement deffendu qu’on enseignast sa Physique.
+
+Il y a des opinions recûës présentement dans les écoles qui ont été traitées d’heresies, et ceux qui les soûtenoient excommuniez comme des heretiques par quelques Evêques. Parce que les passions causant des factions, les factions produisent de ces veritez et de ces erreurs aussi inconstantes que la cause qui les produit. (a) Les hommes sont indifferens au regard de la stabilité de la terre, et de la forme de corporeité, par exemple, mais il ne sont point indifferens sur ces opinions, lorsque ceux qu’ils haïssent les soûtiennent.
+
+[note a] Concile d’Angl. par Spelman l’an 1287.
+
+::: editorial
+
+(zu S. 1883) 32 Vgl. H. SPELMAN, Concilia, decreta, leges, constitutiones in Re Ecclesiarum orbis Britannici, 2 Bde, London 1639–1664, II, S. 347 f.
+
+:::
+
+[p. 1884] [p. 220 / 2, 184] Quand l’on se tâte et que l’on se frappe soi-même, il semble que l’on soit insensible: mais quand on est seulement touché par les autres, on en reçoit des sentimens assez vifs pour réveiller l’attention. En un mot on ne se chatoüille pas soimême, on ne s’en avise pas, et l’on n’y reüssiroit peut-être pas si l’on s’en avisoit. C’est à peu prés par cette même raison que l’esprit ne s’avise pas de se tâter et de sonder soy-même, qu’il se dégoûte incontinent de cette sorte de réflexion, et qu’il n’est ordinairement capable de reconnoître et de sentir toutes les parties de son ame, que lorsque d’autres les touchent et les lui font sentir.
+
+[p. 221 / 2, 185] . . . j’assure que tous les hommes veulent être heureux . . . Je sçai même que Dieu ne produira jamais aucun esprit sans ce desir. Ce n’est point l’experience qui me l’a appris: jamais je ne vis ni Chinois ni Tartare. Ce n’est point le té moignage interieur de ma conscience: j’en apprens seulement que je veux ê tre heureux. Il n’y a que Dieu qui me puisse convaincre interieurement que tous les autres hommes, que les Anges et les Dé mons veulent ê tre heureux. Il n’y a que lui qui puisse m’assurer, qu’il ne donnera jamais l’être à aucun esprit qui soit indifferent pour le bon-heur, car quel autre que lui pourroit m’assurer positivement de ce qu’il fait, et mê me de ce qu’il pense?
+
+[p. 223 / 2, 187] . . . que l’amour et l’aversion sont les passions meres: qu’elles n’engendrent point d’autres passions generales que le desir, la joie, et la tristesse: que les passions particuliers ne sont composé es que de ces trois primitives
+
+[p. 224 / 2, 188] Lorsque nous voyons quelque chose pour la premiere fois, ou que l’ayant déja vûë plusieurs fois accompagnée de certaines circonstances, nous la voyons revêtuë de quelques autres, nous en sommes surpris et nous l’admirons. Ainsi une nouvelle idée, ou une nouvelle liaison de vieilles idées cause en nous une passion imparfaite qui est la premiere de toutes, et que l’on nomme admiration.
+
+Le cerveau se trouvant alors frappé en de certains endroits dans lesquels il ne l’avoit jamais été, ou d’une maniére toute nouvelle, l’ame en est sensiblement touché, et par consequent elle s’applique fortement à ce qu’il y a de nouveau dans son objet: par la mê me raison qu’un simple châ toü illement à la plante des pieds, excite dans l’ame par la nouveauté plû tô t que par la force de l’impression, un sentiment tres-sensible et tres-appliquant.
+
+[p. 225 / 2, 188 sq.] Dans l’admiration toute seule, on ne considére les choses que selon ce qu’elles sont en elles-mêmes, ou selon ce qu’elles paroissent: on ne les considé re point par rapport à soi, on ne les considére point comme bonnes ou comme mauvaises.
+
+[p. 1885] Si les choses que l’on admire paroissent grandes, l’admiration est toûjours suivie de l’estime et quelquefois de la veneration. Elle est au contraire toûjours accompagnée de mé pris et quelquefois de dédain, lorsqu’elles paroissent petites.
+
+[p. 227 / 2, 191] Car on ne peut trop considé rer que toutes les passions, qui sont excité es en nous à la vû ë de quelque chose qui est hors de nous, ré pandent machinalement sur le visage de ceux qui en sont frappez, l’air qui leur convient, c’est-à-dire un air qui par son impression dispose machinalement tous ceux qui le voyent, à des passions et à des mouvemens utiles au bien de la societé.
+
+[p. 230 / 2, 193 sq.] Le superbe est un homme riche et puissant, qui a un grand équipage, qui mesure sa grandeur par celle de son train, et sa force par celle des chevaux qui tirent son carrosse.
+
+[p. 231 / 2, 194] Ce sont ces hé betez, s’il est permis de les appeller ainsi, ces esprits froids et languissans, qui sont les plus capables de dé couvrir les veritez les plus solides et les plus caché es.
+
+[p. 233 / 2, 196] Car outre le tems que l’on perd dans ces exercices, le peu d’usage que l’on fait de son esprit, est cause que la partie principale du cerveau dont la flé xibilité fait la force et la vivacité de l’esprit, devient entié rement inflé xible, et que les esprits animaux ne se ré pandent pas facilement dans le cerveau d’une maniere propre pour penser à ce que l’on veut.
+
+[p. 238 / 2, 200] Il s’est trouvé des Princes et des Rois Astronomes, et qui faisoient gloire de l’être. La grandeur des Astres sembloit s’accommoder avec la grandeur de leur dignité: mais je ne croi pas que l’on en ait vû qui se soient fait honneur de sç avoir l’Anatomie, et de bien dissequer un coeur ou cerveau. Il en est de même de beaucoup d’autres sciences.
+
+[p. 240 / 2, 202] Les Peintres et les Sculpteurs ne représentent jamais les Philosophes de l’antiquité comme d’autres hommes: ils leur font la tête grosse, le front large et élevé, et la barbe ample et magnifique.
+
+[p. 241 sq. / 2, 203] Ceux par exemple qui ne disent que des paradoxes, se font admirer des esprits foibles; car ils ne disent que des choses qui ont le caractere de la nouveauté. Ceux qui ne parlent que par sentences et qui n’emploient que des mots choisis et propres pour le sublime, se font respecter; car ils paroissent dire quelque chose de grand. Mais ceux qui joignent le sublime au nouveau, le grand à l’extraordinaire, ne manquent presque jamais d’enlever et d’étourdir le commun des hommes, quand même ils ne diroient que des sottises.
+
+[p. 1886] [p. 244 / 2, 205 sq.] Il est vrai que les esprits animaux obeïssent aux ordres de la volonté, et que l’on se rend attentif lorsqu’on le souhaite: mais cela se fait d’une maniere si languissante et si foible, lorsque la volonté qui commande est une volonté de pure raison qui n’est point soû tenuë de quelque passion.
+
+Ainsi ceux qui sont capables d’admiration, sont beaucoup plus propres à l’é tude que ceux qui n’en sont point susceptibles; ils sont ingenieux, et les autres sont stupides.
+
+[p. 246 / 2, 207] Les hommes se plaisent généralement dans tout ce qui les touche de quelque passion que ce puisse être: ils ne donnent pas seulement de l’argent pour se faire toucher de tristesse par la représentation d’une tragedie, ils en donnent aussi à des joüeurs de gobelets pour se faire toucher d’admiration; car on ne peut pas dire que ce soit pour être trompez qu’ils leur en donnent.
+
+. . . et c’est ce sentiment de douceur, qui tient les admirateurs si fort attachez aux sujets de leur admiration, qu’ils se mettent en colere lorsqu’on leur en montre la vanité . Quand un homme affligé goû te la douceur de la tristesse, on le fâ che lorsqu’on le veut ré joü ir.
+
+[p. 248 / 2, 209] . . . enfin s’il [scil. un jeune homme] n’est curieux autant qu’il le faut être pour bien juger: il y a grand danger que son admiration ne luy faisant voir ces sciences [scil. la poesie, l’histoire, le chymie etc.] que par le bel endroit, ne le sé duise.[^1886-62] Il est même fort à craindre qu’elle ne luy corrompe le coeur de telle maniere, qu’il ne puisse plus se défaire de son erreur, quoyqu’il la reconnoisse dans la suite: parce qu’il n’est pas possible d’effacer de son cerveau des traces profondes qu’une admiration continuelle y aura gravées. C’est pour cela qu’il faut veiller sans cesse à la pureté de son imagination, c’est- à -dire qu’il faut empê cher qu’il ne s’y forme de ces traces malheureuses qui corrompent l’esprit et le coeur.
+
+[p. 248 sq. / 2, 209 sq.] Ainsi l’ame ne pouvant ê tre é muë sans le sentir, elle est suffisamment avertie de prendre garde à elle, et d’examiner s’il luy est avantageux que ces traces s’achevent et se fortifient. Mais parce que dans le temps de l’émotion, l’esprit n’est pas assez libre pour bien juger de l’utilité de ces traces, à cause que cette émotion le trompe et l’incline à les favoriser: il faut faire [p. 1887] tous ses efforts pour arrê ter cette é motion, ou pour dé tourner ailleurs le mouvement des esprits qui la cause, et cependant il est absolument necessaire de suspendre son jugement.
+
+[^1886-62]: Am Rande: ,
+
+Ainsi lorsque nous voulons arrê ter quelque mouvement d’esprits qui s’excite en nous, il ne suffit pas de vouloir qu’il cesse, car cela n’est pas toûjours capable de l’arrêter: il faut se servir d’addresse, et se representer des choses contraires à celles qui excitent et qui entretiennent ce mouvement, et cela fera ré vulsion. Mais si nous voulons seulement dé terminer ailleurs un mouvement d’esprits dé ja excité , nous ne devons pas penser à des choses contraires, nous devons seulement penser à d’autres qu’à celles qui l’ont produit, car cela fera sans doute diversion.
+
+[p. 250 / 2, 210 sq.] Si l’on a soin d’attacher fortement la pensé e de l’é ternité ou quelqu’autre pensé e solide, aux mouvemens extraordinaires qui s’excitent en nous, il n’arrivera plus de mouvemens violents et extraordinaires qui ne ré veillent en mê me-tems cette idé e, et qui ne fournissent par consequent des armes pour leur resister.
+
+[p. 251 / 2, 211 sq.] Car il faut que je dise ici en passant, que des personnes de pieté retombent souvent dans les mêmes fautes, parce qu’elles remplissent leur esprit d’un grand nombre de petites veritez qui ont plus d’éclat que de force, et qui sont plus propres à dissiper et à partager l’esprit, qu’à le fortifier contre les tentations: au lieu que des personnes grossieres et peu éclairées sont fideles dans leur devoir; parce qu’elles se sont renduës familieres quelque grande et solide verité qui les fortifie et qui les soûtient en toutes rencontres.
+
+[p. 254 / 2, 215] On ne doute pas que les hommes les plus mé chans et les plus barbares, que les idolatres et que les athées même, ne soient unis à Dieu par un amour naturel, et dont par consequent l’amour propre n’est point la cause. Ils y sont unis par l’amour pour la verité , pour la justice, pour la vertu. Ils louënt et ils estiment les gens de bien: et ce n’est point à cause que ce sont des hommes, qu’ils les aiment; mais c’est qu’ils voyent en eux des qualitez, qu’ils ne peuvent s’empêcher d’aimer, parce qu’ils ne peuvent s’empêcher de les admirer et de les juger aimables. Ainsi l’on aime autre chose que soi, mais l’amour de soimê me est toû jours le maître de tous les autres amours.
+
+[p. 255 / 2, 216] Car de même que toutes les vertus ne sont, selon saint Augustin, que des especes de cette premiere vertu que l’on appelle charité: tous les vices et même toutes les passions ne sont aussi que des sujets ou des especes d’amour propre, ou de ce vice general qu’on appelle concupiscence.
+
+[p. 1888] [p. 256 sq. / 2, 217] Ainsi l’idé e generale du bien produit un amour indé terminé qui n’est qu’une extension de l’amour propre.
+
+L’idé e du bien que l’on possede produit un amour de joye.
+
+L’idé e d’un bien que l’on ne possede pas, mais que l’on espere de posseder, c’est-à -dire que l’on juge pouvoir posseder, produit un amour de desir.
+
+Enfin l’idé e d’un bien que l’on ne possede pas, et que l’on n’espere pas de posseder, ou ce qui fait le mê me effet, l’idé e d’un bien que l’on n’espere pas de posseder sans la perte de quelqu’autre, ou que l’on ne peut conserver lors qu’on le possede, produit un amour de tristesse. Et ce sont là les trois passions simples ou primitives, qui ont le bien pour objet; car l’esperance qui produit la joye, n’est point une é motion de l’ame, mais un simple jugement.
+
+[p. 258 / 2, 218] Le sentiment actüel de la douleur produit une aversion de tristesse.
+
+La douleur que l’on ne souffre pas, mais que l’on craint de souffrir, produit une aversion de desir.
+
+Enfin la douleur que l’on ne souffre pas, et que l’on ne craint point de souffrir; ou ce qui fait le même effet, la douleur que l’on n’apprehende point de souffrir sans quelque grande recompense, ou la douleur dont on se sent délivré, produit une aversion de joye. Et ce sont là les trois passions simples ou primitives qui ont le mal pour objet, car la crainte qui produit la tristesse n’est point une émotion de l’ame, mais un simple jugement.
+
+[p. 261 / 2, 221 sq.] Car les mots d’esperance, de crainte, de hardiesse, de honte, d’impudence, de colere, de pitié, de moquerie, de regret, enfin le nom de toutes les autres passions sont dans l’usage ordinaire des abré gements de plusieurs termes, par lesquels on peut expliquer en détail tout ce que les passions renferment.
+
+C’est une chose fort utile à la connoissance de la verité que d’abré ger les idé es et leurs expressions: mais souvent cela est cause de quelqu’erreur, principalement lorsque ces abré gements se font par un usage populaire.
+
+[p. 266 / 2, 226] Car enfin il suffit de supposer que toutes les passions se justifient, et qu’elles tournent l’imagination et ensuite l’esprit d’une manié re propre à conserver leur propre é motion, pour conclure directement quels sont les jugemens que toutes les passions nous font faire.
+
+[p. 1889] [p. 267 / 2, 226] Car on ne doit pas penser que ceux qui dé couvrent le mieux les ressorts de l’amour propre, qui pé né trent et qui dé velopent d’une manié re plus sensible le coeur de l’homme, soient toû jours les plus é clairez. C’est souvent une marque qu’ils sont plus vifs, plus imaginatifs, et quelquefois plus malins que les autres.
+
+[p. 269 / 2, 229] . . . et lorsqu’on est agité de quelque passion, on a bien-tô t dé couvert dans son objet le bien et le mal qui la favorise.
+
+[p. 271 / 2, 231] Mais j’avouë qu’il est difficile de justifier par quelque raison apparente la passion de ceux qui s’appliquent indifferemment à toutes sortes de langues.
+
+[p. 273 / 2, 233] Car les passions ne sont point indifferentes les unes pour les autres. Toutes celles qui se peuvent souffrir, contribuent fidellement à leur mutuelle conservation.
+
+[p. 276 / 2, 235 sq.] Car ceux qui ont abondance de sang et d’esprits comme sont ordinairement les jeunes gens, les sanguins, et les bilieux, é tant de facile esperance à cause du sentiment secret qu’ils ont de leur force, ils croiront ne trouver aucune opposition à leurs desseins qu’ils ne puissent surmonter: ils se repaîtront d’abord de l’avantgoût du bien dont ils esperent de jouïr, et ils formeront toutes sortes de jugemens propres à justifier leur esperance et leur joye. Mais les autres qui ont disette d’esprits agitez, comme les vieillards, les mélancholiques et les phlegmatiques, é tant portez à la crainte et à la tristesse, à cause que leur ame se croit foible: parce qu’elle est dénuée d’esprits qui executent ses ordres, ils formeront des jugemens tout contraires; Ils s’imagineront des difficultez insurmontables, afin de justifier leur crainte.
+
+[p. 277 / 2, 237] De toutes les passions celles dont les jugemens sont les plus é loignez de la raison et les plus à craindre: sont toutes les especes d’aversion. Il n’y a point de passion qui corrompe davantage la raison en sa faveur, que la haine et que la crainte: la haine dans les bilieux principalement, ou dans ceux dont les esprits sont dans une agitation continuelle, et la crainte dans les mé lancholiques, ou dans ceux dont les esprits grossiers et solides ne s’agitent et ne s’appaisent pas avec facilité
+
+La raison de ceci est que les maux de cette vie touchent plus vivement l’ame que les biens.
+
+[p. 279 / 2, 239] Lorsque le faux zé le se joint à la haine, il la met à couvert des reproches de la raison, et il la justifie de telle maniere qu’on feroit mê mes scrupule de n’en pas suivre les mouvemens.
+
+[p. 1890] [p. 281 / 2, 240] Car on doit remarquer qu’il y a des passions qui passent et qui ne reviennent plus, et qu’il y en a d’autres constantes et qui subsistent long-temps. Celles qui ne sont point soû tenuë s par la vû ë de l’esprit, mais qui sont seulement produites et fortifié es par la vû ë sensible de quelque objet et par la fermentation du sang, ne durent pas.
+
+LIVRE SIXIÉME. DE LA METHODE.
+
+[p. 286 / 2, 246] On ne doit jamais donner un consentement entier, qu’aux propositions qui paroissent si évidemment vraies qu’on ne peut le leur refuser, sans sentir une peine interieure et des reproches secrets de sa raison, c’est-à -dire, sans que l’on connoisse clairement, qu’on feroit mauvais usage de sa liberté , si l’on ne vouloit pas consentir.
+
+Ainsi la vû ë confuse d’un grand nombre de vrai-semblances ne rend point nô tre raison plus parfaite, et il n’y a que la vûë claire de la verité qui lui puisse donner quelque perfection et quelque satisfaction solide.
+
+[p. 288 / 2, 247 sq.] . . . il ne reste autre chose à faire pour conserver l’é vidence dans toutes nos perceptions, qu’à chercher les moyens de rendre nô tre esprit plus attentif et plus é tendu: de mê me que pour bien distinguer les objets visibles qui nous sont pré sens, il n’est necessaire de nô tre part que d’avoir bonne vû ë et de les considerer fixement.
+
+. . . nous avons encore besoin de quelques regles qui nous donnent l’addresse de dé velopper si bien toutes les difficultez, qu’é tant aidez des secours qui nous rendrons l’esprit plus attentif et plus é tendu, nous puissions dé couvrir avec une entiere é vidence tous les rapports de la chose que nous examinons.
+
+[p. 289 / 2, 249] Car les simples perceptions ne représentent à l’esprit que les choses, mais les jugemens représentent à l’esprit les rapports qui sont entre les choses.
+
+[p. 291 sq. / 2, 251 sq.] Car encore que Dieu soit tres-intimement uni à nous, et que ce soit dans lui qui se trouvent les idées de toutes les choses que nous voyons: cependant ces idé es, quoique pré sentes et au milieu de nous-mê mes, nous sont caché es, lorsque les mouvemens des esprits n’en ré veillent point les traces, ou lors que nô tre volonté n’y applique pas nô tre esprit, c’est-à -dire lorsqu’elle ne forme point les actes ausquels la repré sentation de ces idé es est attaché e par l’Auteur de la nature.
+
+[p. 1891] Les modifications de l’ame ont trois causes, les sens, l’imagination, et les passions. Tout le monde sçait par sa propre experience que les plaisirs, les douleurs et généralement toutes les sensations un peu fortes: que les imaginations vives, et que les grandes passions occupent si fort leur esprit, qu’il n’est pas capable d’attention dans le tems que ces choses le touchent trop vivement; parce que sa capacité ou sa faculté d’appercevoir en est toute remplie.
+
+Il faut donc tirer cette conclusion importante: Que tous ceux qui veulent s’appliquer sérieusement à la recherche de la verité, doivent avoir un grand soin d’é viter autant que cela se peut, toutes les sensations trop fortes, comme le grand bruit, la lumiere trop vive, le plaisir, la douleur, etc.
+
+[p. 297 / 2, 257 sq.] Ainsi l’on peut presque toû jours faire naître dans son coeur les passions dont on a besoin. Mais si l’on peut presque toûjours les faire naître, on ne peut pas toû jours les faire mourir.
+
+[p. 299 / 2, 259 sq.] Il faut prendre garde sur tout à ne point couvrir les objets que l’on veut considerer ou que l’on veut faire voir aux autres, de tant de sensibilité que l’esprit en soit plus occupé que de la verité de la chose; car c’est un défaut des plus considérables et des plus ordinaires.
+
+Il n’y a rien de si beau que la vé rité , il ne faut pas pré tendre qu’on la puisse rendre plus belle en la fardant de quelques couleurs sensibles qui n’ont rien de solide, et qui ne peuvent charmer que fort peu de temps.
+
+[p. 301 sq. / 2, 262] Il faut user de grandes circonspections dans le choix et dans l’usage des secours, que l’on peut tirer de ses sens et de ses passions pour se rendre attentif à la verité; parce que nos passions et nos sens nous touchent trop vivement, et qu’ils remplissent de telle sorte la capacité de l’esprit, qu’il ne voit souvent que ses propres sensations, lors qu’il pense découvrir les choses en elles-mêmes. Mais il n’en est pas de mê me des secours que l’on peut tirer de son imagination.
+
+[p. 304 / 2, 265] Enfin cette ligne [scil. AXYE] répresénte à l’imagination tous les lieux où ce corps poussé par deux forces differentes vers deux differens endroits, doit se trouver. En sorte que l’on peut marquer pré cisement le point où ce corps doit ê tre dans tel instant qu’on voudra.[^1891-63]
+
+[^1891-63]: Am Rande: ,
+
+[p. 1892] [p. 306 / 2, 268 sq.] Mais si l’on suppose qu’il y ait inégalité dans l’acceleration, ou dans la diminution des mouvemens simples; quoique l’on suppose cette inégalité telle qu’on voudra, il fera toûjours facile de trouver la ligne, qui représente à l’imagination le mouvement composé des mouvemens simples, en exprimant par des lignes ces mouvemens; et en tirant à ces lignes des paralleles qui s’entre-coupent.[^1892-64]
+
+[p. 308 / 2, 270] Que si l’on vouloit déterminer les points infinis par lesquels ce corps doit passer, c’est-à-dire, décrire exactement et par un mouvement continu la ligne AE, il seroit nécessaire de se faire un compas dont le mouvement des jambes seroit reglé , selon les conditions exprimées dans les suppositions que l’on vient de faire.
+
+[p. 309 / 2, 275 sq.] . . . c’est-à-dire toutes les sciences exactes, se peuvent rapporter à la Géométrie: parce que toutes les veritez speculatives ne consistant que dans les rapports des choses, et dans les rapports qui se trouvent entre leurs rapports, elles se peuvent toutes rapporter à des lignes. On en peut tirer Géométriquement plusieurs consequences: et ces consequences étant renduës sensibles par les lignes qui les représentent, il n’est presque pas possible de se tromper, et l’on peut pousser ces sciences fort loin avec beaucoup de facilité.
+
+Il y en a qui ne mettent point de difference entre une octave et trois ditons. Quelques-uns même s’imaginent que le ton majeur n’est point different du ton mineur; de sorte que le comma qui en est la difference, leur est insensible, et à plus forte raison le schisma qui n’est que la moitié du comma.
+
+[p. 311 / 2, 276] On pouroit mêmes dire à l’avantage de la Geometrie que les lignes peuvent représenter à l’imagination plus de choses que l’esprit n’en peut connoître: puisque les lignes peuvent exprimer les rapports des grandeurs incommensurables, c’est- à-dire des grandeurs dont on ne peut connoître les rapports à cause qu’elles n’ont aucune commune mesure par laquelle on en puisse faire la comparaison. Mais cet avantage n’est pas fort considerable pour la recherche de la verité, puisque ces expressions sensibles des grandeurs incommensurables, ne dé couvrent rien à l’esprit.
+
+[p. 313 sq. / 2, 278] On doit donc regarder la Gé ometrie comme une espece de science universelle, qui ouvre l’esprit, qui le rend attentif, et qui lui donne l’addresse de regler son imagination, et d’en tirer tout le secours qu’il en peut recevoir
+
+[^1892-64]: Am Rande: ,
+
+[p. 1893] Il en est de même des differentes lignes; il faut davantage de pensé e, c’est- à -dire davantage de capacité d’esprit, pour se representer une ligne parabolique, ou elliptique, ou quelques autres plus composé es, que pour se representer la circonference d’un cercle
+
+[p. 318 / 2, 283] Ainsi il n’y a pas plus de pensé e dans l’ame lorsqu’elle pense à plusieurs choses, que lorsqu’elle ne pense qu’à une seule: puisque si elle ne pense qu’à une seule, elle l’apperçoit toûjours beaucoup plus clairement, que lorsqu’elle s’applique à plusieurs.
+
+[p. 320 sq. / 2, 285 sq.] L’idé e generale de l’infini est inseparable de l’esprit et elle en occupe entierement la capacité , lorsque nous ne pensons point à quelque chose de particulier.
+
+On ne peut donc augmenter l’étenduë et la capacité de l’esprit en l’enflant pour ainsi dire, et en lui donnant plus de réalité qu’il n’en a naturellement, mais seulement en la ménageant avec adresse, ce qui se fait parfaitement par l’Arithmetique et par l’Algebre.
+
+La verité n’est rien autre chose qu’un rapport réel soit d’égalité, soit d’inégalité.[^1893-65]
+
+[p. 322 / 2, 286 sq.] Et comme il y a des rapports de trois sortes, d’une idé e à une autre idé e, d’une chose à son idé e ou d’une idé e à sa chose, enfin d’une chose à une autre chose, il y a des veritez et des faussetez de trois sortes.
+
+De ces trois sortes de veritez, celles qui sont entre les idées sont éternelles et immuables: et à cause de leur immutabilité, elles sont aussi les regles et les mesures de toutes les autres; car toute regle ou toute mesure doit être invariable.
+
+[p. 325 / 2, 289] Et parce que tous les nombres ne sont composez que de l’unité,[^1893-66] il est déja évident que sans les idées des nombres et sans la maniere de comparer et de mesurer ces idées, c’est-à-dire sans l’Arithmetique, il est impossible d’avancer dans la connoissance des veritez composées.
+
+[p. 325 sq. / 2, 289] Car la Géometrie ordinaire ne perfectionne pas tant l’esprit que l’imagination: et les veritez que l’on découvre par cette science ne sont pas toûjours si évidentes que les Géometres s’imaginent, ils pensent par exemple avoir exprimé la valeur de certaines grandeurs, lorsqu’ils ont prouvé qu’elles sont [p. 1894] égales à certaines lignes, qui sont les soûtenduës d’angles droits dont les côtez sont exactement connus, ou à d’autres qui sont determinées par quelqu’une des sections coniques; mais il est visible qu’ils se trompent,[^1894-67] car ces soûtenduës par exemple sont elles-mêmes inconnuës.
+
+[^1893-65]: Am Rande: ,
+
+[^1893-66]: Am Rande: ,
+
+[p. 326 / 2, 290] On vient de dire que toutes les veritez ne sont que des rapports; que le plus simple et le mieux connu de tous les rapports est celui d’é galité .[^1894-68]
+
+[p. 329 / 2, 292] Ce qui se fait en beaucoup de temps par l’Arithmetique, se fait en un moment par l’Algébre,[^1894-69] sans que l’esprit se broüille par le changement de chiffres et par la longueur des opérations. Enfin il y avoit des choses qui se pouvoient sçavoir, et qu’il étoit necessaire de sçavoir dont on ne pouvoit avoir la connoissance par l’usage de l’Arithmetique seule: mais je ne croi pas qu’il y ait rien qui soit utile ,[^1894-70] et que les hommes puissent sç avoir avec exactitude, dont ils ne puissent avoir la connoissance par l’Arithmetique et par l’Algé bre.
+
+SECONDE PARTIE DE LA METHODE.
+
+[p. 331 sq. / 2, 296] . . . que nous devons toûjours commencer par les choses les plus simples et les plus faciles
+
+Mais lorsqu’on ne peut reconnoître les rapports que les choses ont entr’elles, en les comparant immediatement, la seconde régle est; qu’il faut découvrir par quelque effort d’esprit une ou plusieurs idé es moyennes qui puissent servir comme de mesure commune pour reconnoître par leur moyen les rapports qui sont entr’elles.
+
+[p. 333 sq. / 2, 297 sq.] Les idées de toutes les choses, qu’il est absolument né cessaire de considerer ,[^1894-71] étant claires, familieres, abrégées, et rangées par ordre dans l’imagination, ou exprimées sur le papier; il est necessaire de les comparer toutes alternativement les unes avec les autres selon les regles des combinaisons ,[^1894-72] ou par la seule vûë de l’esprit, ou par le mouvement de l’imagination accompagné de la [p. 1895] vûë de l’esprit, ou par le calcul de la plume joint à l’attention de l’esprit et de l’imagination.
+
+[^1894-67]: Darunter: on en cherche la construction en Géometrie, et non l’expression de la valeur
+
+[^1894-68]: Am Rande: falsum, ubi similitudo?
+
+[^1894-69]: Am Rande: il y a des exemples du contraire
+
+[^1894-70]: Am Rande: ,
+
+[^1894-71]: Am Rande: quaenam illa
+
+[^1894-72]: Darüber: hoc plerumque longum
+
+Si de tous les rapports qui résultent de toutes ces comparaisons, il n’y en a aucun qui soit celuy que l’on cherche; il faut de nouveau retrancher de tous ces rap/ports[^1895-73] ceux qui sont inutiles à la résolution de la question; se rendre les autres familiers, les abréger, et les ranger par ordre dans son imagination, ou les exprimer sur le papier; les comparer ensemble selon les regles des combinaisons, et voir si le rapport composé que l’on cherche , est quelqu’un de tous les rapports composez qui résultent de ces nouvelles comparaisons.
+
+S’il n’y a pas un de ces rapports que l’on a découverts qui renferme la résolution de la question,[^1895-74] il faut de tous ces rapports retrancher les inutiles, se rendre les autres familieres, etc.
+
+Il faut sur toutes choses prendre garde à ne pas se contenter de quelque lueur ou de quelque vray-semblance, et recommencer si souvent les comparaisons qui servent à découvrir la verité que l’on cherche,[^1895-75] qu’on ne puisse s’empêcher de la croire sans sentir les reproches secrets du Maître qui répond à nôtre demande, je veux dire à nôtre travail, à l’application de nôtre esprit, aux desirs de nôtre coeur.
+
+[p. 337 / 2, 302] Ce n’est que depuis Descartes, qu’à ces questions confuses et indéterminées, si le feu est chaud, si l’herbe est verte, si le sucre est doux, etc. on répond en distinguant l’équivoque des termes sensibles qui les expriment.
+
+[p. 345 / 2, 310] Et c’est pour ces raisons que ce grand Saint [scil. Augustinus ] reconnoît (a) que le corps ne peut agir sur l’ame, et que rien ne peut être au dessus de l’ame que Dieu.
+
+[note a] Ego enim ab anima hoc corpus animari non puto, nisi intentione facientis: nec ab isto quicquam illam pati arbitror, sed facere de illo et in illo, tanquam subjecto divinitus dominationi suae, l. 6. Mus. c. 5.
+
+[p. 348 / 2, 313] La force mouvante des corps n’est donc point dans les corps qui se remü ent , puisque cette force mouvante n’est autre chose que la volonté de Dieu.
+
+[^1895-73]: Am Rande gestrichen: a quoy bon, puis
+
+[^1895-74]: Am Rande: Hoc nihil est
+
+[^1895-75]: Am Rande: Autor nunquam usus hac Methodo
+
+::: editorial
+
+(zu S. 1895) 22 f. Vgl. AUGUSTINUS, De quantitate animae, cap. 34. 24–26 AUGUSTINUS, De musica, VI, 5.
+
+:::
+
+[p. 1896] [p. 349 / 2, 314] Mais non seulement les corps ne peuvent être causes veritables de quoi que ce soit, les esprits les plus nobles sont dans une semblable impuissance. Ils ne peuvent rien connoître si Dieu ne les éclaire. Ils ne peuvent rien sentir si Dieu ne les modifie. Et ils ne sont capables de vouloir quelque chose, que parce que Dieu les agite vers lui. Ils peuvent dé terminer l’impression que Dieu leur donne pour lui, vers autre chose que lui, je l’avouë , mais je ne sç ai si cela se peut appeller puissance.
+
+[p. 351 / 2, 315 sq.] Si un homme ne peut pas renverser une tour, au moins sçait-il bien ce qu’il faut faire pour la renverser: mais il n’y a point d’homme qui sç ache seulement ce qu’il faut faire, pour remüer un de ses doigts par le moyen des esprits animaux. Comment donc les hommes pouroient ils remuer leurs bras; Ces choses me paroissent évidentes et à tous ceux qui veulent penser,[^1896-76] quoiqu’elles soient peut-être incompréhensibles à tous ceux qui ne veulent que sentir.
+
+Mais non seulement les hommes ne sont point les veritables causes des mouvemens qu’ils produisent dans leur corps, il semble même qu’il y ait contradiction qu’ils puissent l’être. Cause veritable est une cause entre laquelle et son effet l’esprit apperç oit[^1896-77] une liaison nécessaire, c’est ainsi que je l’entens.
+
+Dieu n’a pas besoin d’instrumens pour agir, il suffit qu’il veüille afin qu’une chose soit, parce qu’il y a contradiction qu’il veüille, et que ce qu’il veut ne soit pas. Sa puissance est donc sa volonté .[^1896-78]
+
+[p. 356 / 2, 321] On vient de faire voir dans quelles erreurs on est capable de tomber, lorsqu’on raisonne sur les idées fausses et confuses des sens, et sur les idé es vagues et indé terminé es de la pure Logique.[^1896-79]
+
+[p. 357 / 2, 322] On connoît les choses imparfaitement, lorsqu’on n’est point assuré que l’on en a consideré toutes les parties: et on les connoît confusément, lorsqu’elles ne sont point assez familiéres à l’esprit, quoy que l’on soit assuré que l’on en a consideré toutes les parties. Lorsqu’on ne les connoît qu’imparfaitement, on ne fait que des raisonnemens vray-semblables. Lorsqu’on les apperçoit confusé ment, il n’y a point d’ordre ni de lumiere dans les deductions: on ne sçait souvent où l’on est, et où l’on va.
+
+[^1896-76]: Am Rande: nulla consequentia
+
+[^1896-77]: Darüber: s’il est assez eclairé
+
+[^1896-78]: Am Rande: ,
+
+[^1896-79]: Am Rande: ,
+
+[p. 1897] [p. 360 / 2, 324 sq.] Les Philosophes ne peuvent par leurs principes expliquer comment des chevaux tirent un chariot, comment la poussiere arrête une montre, comment le tripoli nettoye les métaux, et les brosses les habits. Car ils se rendroient ridicules à tout le monde s’ils supposoient un mouvement d’attraction et des facultez attractrices, pour expliquer d’où vient que les chariots suivent les chevaux qui y sont attelez; et une faculté détersive dans les brosses pour nettoyer des habits; et ainsi des autres questions. De sorte que leurs grands principes ne sont utiles que pour les questions obscures, parce qu’ils sont incompréhensibles.
+
+Il ne faut donc point s’arrêter à aucun de tous ces principes que l’on ne connoît point clairement et évidemment, et que l’on peut penser que quelques nations ne reçoivent pas: et considerer avec attention les idées que l’on a d’étenduë, de figure, et de mouvement local, et les rapports que ces choses ont entr’elles. Si on connoit distinctement ces idées, et si on les trouve si claires qu’on soit persuadé que toutes les nations les ont reçuës dans tous les temps, il faut s’y arrêter et en examiner tous les rapports: mais si on les trouve obscures, il en faut chercher d’autres si l’on en peut trouver.
+
+[p. 361 / 2, 325] Et si l’on considere que les rapports les plus simples sont toûjours ceux qui se présentent les premiers à l’imagination, lorsqu’elle n’est point déterminée à penser plûtôt à une chose qu’à une autre; on reconnoîtra qu’il suffit de regarder les choses avec attention et sans pré occupation, pour entrer dans cet ordre que nous prescrivons et pour découvrir des veritez tres-composées, pourvû qu’on ne veüille point courir trop vîte d’une chose à une autre.
+
+Si l’on considere donc avec attention l’étenduë, on conçoit sans peine qu’une partie peut ê tre separé e d’une autre, c’est-à -dire que l’on conç oit sans peine le mouvement local, et que ce mouvement local produit une figure dans l’un et dans l’autre des corps qui sont mûs.
+
+[p. 362 sq. / 2, 326] Cette premiére considération des rapports les plus simples de nos idées, nous fait déja reconnoître la né cessité des tourbillons de M. Descartes
+
+Ainsi tous les corps n’é tant pas d’une é gale grandeur,[^1897-80] et ceux qui sont les plus grands ayant plus de force à continuër leur mouvement en ligne droite que les [p. 1898] autres; on conçoit facilement que les plus petits de tous les corps doivent être vers le centre du tourbillon, et les plus grands vers la circonfé rence; puisque les lignes, que l’on conçoit être décrites par les mouvemens des corps qui sont vers la circonférence, approchent plus de la droite que celles que décrivent les corps qui sont vers le centre.
+
+[^1897-80]: Am Rande: cur
+
+::: editorial
+
+(zu S. 1897) 28 f. Vgl. R. DESCARTES, Principia Philosophiae, III, 30 u. 65–69.
+
+:::
+
+[p. 364 / 2, 328] . . . qu’il [scil. Dieu ] a formé tout d’un coup toutes choses, comme elles se seroient arrangé es avec le tems selon les voyes les plus simples
+
+[p. 372 / 2, 338] Cela fait donc voir que la Terre est mé tallique vers le centre; qu’elle n’est pas fort solide vers la circonference.
+
+[p. 380 / 2, 347] . . . et il [scil. Aristote ] auroit vû qu’il y a des mouvemens d’une infinité de faç ons differentes qui ne sont point composez du droit et du circulaire.
+
+[p. 399 / 2, 365] Certainement c’est une regle fort utile pour reconnoître si l’on a bien dé fini les termes, et pour ne se point tromper dans ses raisonnemens, que de mettre souvent la dé finition à la place du dé fini: car on connoît par là si les termes sont équivoques, et les mesures des rapports fausses ou imparfaites: ou si l’on raisonne consequemment.
+
+[p. 404 / 2, 370] Car lorsque l’on raisonne, la mé moire agit; et où il y a mé moire, il peut y avoir erreur.
+
+[p. 405 / 2, 371] Ainsi il est né cessaire de connoître Dieu, et de sç avoir qu’il n’est point trompeur, si l’on veut ê tre pleinement convaincu que les sciences les plus certaines comme l’Arithmé tique et la Gé omé trie, sont de veritables sciences; car sans cela l’évidence n’étant point entiére, on peut retenir son consentement.
+
+Toutes les preuves ordinaires de l’existence et des perfections de Dieu, tirées de l’existence et des perfections de ses créatures, ont ce me semble ce défaut, qu’elles ne convainquent point l’esprit par simple vûë.
+
+Ils convainquent suffisamment qu’il y a une puissance supérieure à nous, car mê mes cette supposition extravagante l’é tablit[^1898-81]: mais ils ne convainquent pas pleinement, qu’il y a un Dieu ou un être infiniment parfait.
+
+[^1898-81]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1898) 11–13 Vgl. ARISTOTELES, De coelo, I, 2, 268 b 17–18.
+
+:::
+
+[p. 1899] [p. 406 / 2, 371 sq.] Mais les preuves de l’existence et des perfections de Dieu tirées de l’idée que nous avons de l’infini, sont preuves de simple vû ë .[^1899-82]
+
+. . . on voit clairement qu’il [scil. Dieu] ne veut pas nous sé duire, et mê mes qu’il ne le peut pas, puisqu’il ne peut que ce qu’il veut, ou que ce qu’il est capable de vouloir.
+
+. . . ayant reconnu que Dieu ne se plaît point à nous tromper, il nous est alors permis de raisonner.
+
+[p. 407 / 2, 372 sq.] De ce principe que Dieu n’est point trompeur, on pourroit aussi conclure que nous avons effectivement un corps auquel nous sommes unis d’une manié re particuliere, et que nous sommes environnez de plusieurs autres. Car nous sommes interieurement convaincus de leur existence, par des sentimens continuëls que Dieu met en nous, et que nous ne pouvons corriger par la raison; quoy que nous puissions corriger par la raison des sentimens qui nous les repré sentent avec certaines qualitez et certaines perfections qu’ils n’ont point.
+
+Mais afin de raisonner par ordre, nous ne devons point encore examiner si nous avons un corps, et s’il y en a d’autres autour de nous, ou si nous en avons seulement les sentimens quoy qu’ils ne soient point. Cette question renferme de trop grandes difficultez, et il n’est peut-ê tre pas si né cessaire de la ré soudre pour perfectionner ses connoissances, qu’on pouroit se l’imaginer, ni même pour avoir une connoissance exacte de la Physique, de la Morale, et de quelques autres sciences.
+
+[p. 409 sq. / 2, 375 sq.] L’Algébre et l’Analyse étant absolument nécessaires pour découvrir les veritez composées, je croi devoir donner de l’estime pour un livre qui pousse ces sciences assez loin, et qui selon le sentiment de quelques sçavans, les explique plus nettement que personne n’a encore fait.
+
+Ensuite l’on poura é tudier la Physique et la Morale à cause de leur grande utilité , quoi qu’elles ne soient pas fort propres pour rendre l’esprit juste et pé né trant.
+
+[p. 411 / 2, 377] Ce n’est pas que l’on puisse douter qu’il y ait actuellement des corps, lors que l’on considere que Dieu n’est point trompeur.
+
+[^1899-82]: Am Rande: ,
+
+[p. 1900] [p. 413 / 2, 379] . . . que la retraitte et la penitence sont né cessaires pour diminuer nô tre union avec les choses sensibles, et pour augmenter celle que nous avons avec les choses intelligibles.
+
+[p. 416 / 2, 382] Quelquefois on cherche les causes inconnuë s de quelques effets connus: quelquefois on cherche les effets inconnus par leurs causes connuë s.
+
+Quelquefois on cherche la nature d’une chose par ses proprié tez: quelquefois on cherche les proprietez d’une chose, dont on connoît la nature.
+
+[p. 417 / 2, 383] Quelquefois on cherche toutes les parties d’un tout: quelquefois on cherche un tout par ses parties.
+
+Enfin on cherche quelquefois si certaines choses sont é gales ou semblables à d’autres, ou de combien elles sont iné gales ou diffé rentes.
+
+[p. 417 sq. / 2, 383 sq.] Il y a des rapports de plusieurs especes, il y en a entre la nature des choses, entre leur grandeur, entre leurs parties, entre leurs attributs, entre leurs qualitez, entre leurs effets; entre leurs causes, etc. Mais on peut les reduire tous à deux, sçavoir à des rapports de grandeur, et à des rapports de qualité .
+
+[p. 419 / 2, 384 sq.] Il est vrai qu’il n’y a pas toûjours quelques conditions exprimées dans les questions; mais c’est que ces questions sont indéterminées, et que l’on peut les résoudre en plusieurs maniéres, comme si on demandoit un nombre quarré, un triangle, etc. sans rien spécifier davantage: ou bien c’est que celui qui les propose ne sç ait point les moyens de les ré soudre, ou qu’il les cache à dessein d’embarasser, comme si on demandoit que l’on trouvâ t deux moyennes proportionnelles entre deux lignes sans ajoû ter par l’intersection du cercle et de la Parabole, ou du cercle et de l’Ellipse, etc.
+
+De même il faut avoir soin d’ô ter de la question toutes les conditions qui l’embarassent, et sans lesquelles elle subsiste dans son entier; car elles partagent inutilement la capacité de l’esprit.
+
+[p. 420 / 2, 386] Quelquefois aussi l’on ne met pas dans ces questions toutes les conditions nécessaires pour les résoudre: et cela les rend pour le moins aussi difficiles, que lorsque l’on en joint d’inutiles, comme dans celle-ci. Rendre un homme immobile sans le lier ni le blesser, ou plû tô t ayant mis le petit doigt d’un homme dans l’oreille de cet homme, le rendre par cette posture comme immobile, en sorte qu’il ne puisse sortir du lieu où on l’aura mis, jusqu’à ce qu’il ô te son petit doigt de son oreille.
+
+[p. 1901] [p. 425 / 2, 390] . . . car il y en a peu qui croyent que les animaux ayent une ame spirituelle et indivisible.
+
+[p. 427 / 2, 392] Il est vray que saint Augustin supposant selon le préjugé commun à tous les hommes que les bêtes ont une ame, au moins n’ai-je point lû qu’il l’ait jamais examiné serieusement dans ses ouvrages, ni qu’il l’ait revoqué en doute, et s’appercevant bien qu’il y a contradiction de dire qu’une ame ou une substance qui pense, qui sent, qui desire, etc. soit matérielle, il a crû que l’ame des bê tes é toit effectivement spirituelle et indivisible.
+
+[p. 432 / 2, 396 sq.] Ainsi il y a des questions de plusieurs sortes, 1. Il y en a dans lesquelles on recherche une connoissance parfaite de tous les rapports exacts, que deux ou plusieurs choses ont entr’elles.
+
+2. Il y en a dans lesquelles on recherche la connoissance parfaite de quelque rapport exact qui est entre deux ou plusieurs choses.
+
+3. Il y en a dans lesquelles on recherche une connoissance parfaite de quelque rapport assez approchant du rapport exact, qui est entre deux ou plusieurs choses.
+
+4. Il y en a dans lesquelles on recherche seulement de reconnoître un rapport assez vague et indé terminé .
+
+[p. 434 / 2, 398] Enfin il est évident que pour résoudre des questions du quatriéme genre, et pour connoître les rapports vagues et indéterminez des choses, il suffit de les connoître d’une maniére proportionnée au besoin que l’on a de les comparer pour découvrir les rapports que l’on cherche. De sorte qu’il n’est pas toû jours necessaire pour ré soudre toute sorte de question, d’avoir des idé es tres-distinctes de ses termes, c’est-à-dire de connoître parfaitement les choses que ses termes signifient; mais il est necessaire de les connoître d’autant plus exactement, que les rapports qu’on tâ che de dé couvrir, sont plus exacts et en plus grand nombre.
+
+[p. 435 / 2, 400] . . . on ne peut voir ces rapports qui sont exprimez par les termes de la question, en comparant immediatement les idées de ces termes, car elles ne peuvent se joindre ou se comparer. Il faut une ou plusieurs idé es moyennes afin de faire les comparaisons necessaires pour découvrir ces rapports.
+
+[p. 444 / 2, 409] Il est évident que la question présente consiste dans ce probléme des Mécaniques. Trouver par des machines pneumatiques le moyen de vaincre telle force, [p. 1902] comme de cent pesant, par une autre force si petite que l’on voudra, comme celle du poids d’une once; et que l’application de cette petite force pour produire son effet dépende de la volonté.
+
+::: editorial
+
+(zu S. 1901) 3–8 Vgl. AUGUSTINUS, De quantitate animae, cap. 25–29 (PL 32, Sp. 1062–1068) u.ö.
+
+:::
+
+[p. 448 / 2, 412 sq.] Il est vrai que le principe de la fermentation ou de la dilatation des liqueurs n’est peut-être pas assez connu à tous ceux qui liront ceci, pour prétendre avoir expliqué un effet, lorsqu’on a fait voir en général que sa cause est la fermentation: mais on ne doit pas ré soudre toutes les questions particulié res en remontant jusques aux premié res causes.
+
+Pour faire comprendre ce que je veux dire, il faut sçavoir qu’il y a des questions de deux sortes. Dans les prémiéres, il s’agit de découvrir la nature et les proprié tez de quelque chose: Dans les autres, on souhaitte seulement de sçavoir si une telle chose a ou n’a pas une telle proprié té ; ou si l’on sçait qu’elle a une telle propriété, on veut seulement découvrir quelle en est la cause.
+
+Pour résoudre les questions du premier genre, il faut considé rer les choses dans leur naissance, et les concevoir toû jours s’engendrer par les voies les plus simples et les plus naturelles. Pour ré soudre les autres, il faut s’y prendre d’une manié re bien diffé rente: il faut les ré soudre par des suppositions, et examiner si ces suppositions font tomber dans quelque absurdité , ou si elles conduisent à quelque verité clairement connuë .
+
+[p. 449 / 2, 413 sq.] On voit par exemple sans peine, que la soûtendante de la roulette est égale au cercle qui l’a formée: et si l’on n’en dé couvre pas facilement beaucoup de proprié tez par cette voie,[^1902-83] c’est que la ligne circulaire qui sert à la former n’est pas assez connuë.
+
+Mais s’il n’est pas question de découvrir en général les propriétez d’une chose, mais de sç avoir si une chose a une telle proprieté . Alors il faut supposer qu’elle l’a effectivement, et examiner avec attention ce qui doit suivre de cette supposition, si elle conduit à une absurdité manifeste, ou bien à quelque verité incontestable, qui puisse servir de moyen pour dé couvrir ce qu’on cherche.
+
+[p. 450 / 2, 414] Et parce que le feu et les différentes fermentations sont des choses fort gé né rales, et qui dé pendent par consé quent de peu de causes; il ne sera pas nécessaire de considérer long-tems ce dont la matiére est capable lors qu’elle [p. 1903] est animée par le mouvement, pour reconnoître la nature de la fermentation dans son principe. Et l’on apprendra en même temps plusieurs autres choses absolument nécessaires à la connoissance de la Physique. Au lieu que si l’on vouloit raisonner dans cette question par suppositions, afin de remonter ainsi jusques aux premiéres causes, et jusques aux loix de la nature selon lesquelles toutes choses se forment, on feroit beaucoup de fausses suppositions qui ne serviroient à rien.
+
+[^1902-83]: Am Rande: assez
+
+[p. 451 / 2, 415] Mais il seroit moralement impossible par la voye des suppositions, de dé couvrir comment cela se fait: et il n’est pas de beaucoup si difficile de le dé couvrir, lorsqu’on examine la formation des é lé mens, ou des corps dont il y a un plus grand nombre de mê me nature, comme on le peut voir par le systé me de Monsieur Descartes. . .
+
+Lorsque l’on a sé paré un muscle du reste du corps et que l’on le tient par les extré mitez, on voit sensiblement qu’il fait effort pour se racourcir lorsqu’on le pique par le ventre.
+
+Il ne faut donc point penser à dé terminer quelle est la vé ritable construction des muscles.
+
+[p. 455 / 2, 418 sq.] Enfin le seul défaut qui se rencontre dans cette science [scil. l’Algébre ] c’est comme j’ai déja dit ailleurs, qu’elle n’a point de moyen fort propre pour abréger les idées et les rapports qu’on a découverts.[^1903-84]
+
+Mais l’Algébre apprenant à abréger continüellement et de la manié re du monde la plus courte[^1903-85] les idées et leurs rapports, elle augmente extrêmement la capacité de l’esprit
+
+Les cinq, six et septiéme regles, etc. que l’on a données, où il est parlé de l’abrégement des idées, ne regardent que cette science;[^1903-86] car l’on n’a point dans les autres sciences de maniére commode de les abréger: ainsi je ne m’arrêteray pas à les expliquer.
+
+[p. 456 sq. / 2, 420] Par la continuité, ou par la cause de la continuité, j’entens ce je ne sç ai quoy que je tâ che de dé couvrir qui fait que les parties d’un corps tiennent si fort les unes aux autres, qu’il faut faire effort pour les séparer, et qu’on les regarde comme ne faisant ensemble qu’un tout.
+
+[^1903-84]: Am Rande: il y en a
+
+[^1903-85]: Am Rande: ,
+
+[^1903-86]: Am Rande: quidni
+
+[p. 1904] Par la contiguité, j’entens ce je ne sç ai quoi qui me fait juger que deux corps se touchent immédiatement, en sorte qu’il n’y ait rien entr’eux; mais que je ne juge pas étroitement unis, à cause que je les puis facilement separer.
+
+Par ce troisiéme terme, union, j’entens encore un je ne sç ai quoi qui fait que deux verres, ou deux marbres, dont on a usé et poli les surfaces en les frottant l’un sur l’autre, s’attachent de telle sorte, que quoi qu’on les puisse tres-facilement séparer en les faisant glisser, on a pourtant quelque peine à le faire en un autre sens.
+
+[p. 457 sq. / 2, 421] Mais je me trompe bien lourdement, car il se peut bien faire que cette difficulté que je trouve à rompre le moindre petit morceau de fer vienne de ma foiblesse, et non pas de la ré sistance de ce fer.[^1904-87]
+
+[p. 461 / 2, 424] Car la partie A est tres-certainement une substance aussi bien que B, et par conséquent il est clair que A peut exister sans B, puisque les substances peuvent exister les unes sans les autres, parce qu’autrement elles ne seroient pas des substances.
+
+De dire que A ne soit pas une substance,[^1904-88] cela ne se peut: car il est visible que ce n’est point seulement un mode, et que tout être est une substance ou un mode de substance.
+
+[p. 462 / 2, 426] . . . car quand les sujets que l’on considere sont un peu cachez, c’est toûjours le meilleur de ne les considerer que par parties et de ne se point fatiguer inutilement sur de fausses espérances de rencontrer heureusement.[^1904-89]
+
+[p. 464 / 2, 427] Je pourrois pourtant me répondre que chaque corps a veritablement de la force pour continuer de demeurer dans l’é tat où il est.
+
+[p. 465 / 2, 428 sq.] Je reconnois donc qu’il se peut faire que Dieu veüille que chaque chose demeure en l’état où elle est, soit qu’elle soit en repos, ou qu’elle soit en mouvement, et que cette volonté soit la puissance naturelle qu’ont les corps pour demeurer dans l’é tat où ils ont une fois é té mis.
+
+Mais cependant je n’ai point de preuve certaine que Dieu veü ille par une volonté positive que les corps demeurent en repos , et il semble qu’il suffit que Dieu veü ille qu’il y ait de la matiere, afin que non seulement elle existe, mais aussi afin qu’elle existe en repos.[^1904-90]
+
+[^1904-87]: Am Rande: 〈 – 〉
+
+[^1904-88]: Am Rande: non existit pars ante divisionem
+
+[^1904-89]: Dazu: Hic ergo incipit methodus
+
+[^1904-90]: Am Rande: ,
+
+[p. 1905] [p. 466 / 2, 429] C’est ainsi que je conçois les choses: j’en dois juger selon mes idé es, et selon ces idé es, le repos n’est que la privation du mouvement.
+
+[p. 466 sq. / 2, 430 sq.] Il est évident que si Dieu cesse seulement de vouloir que cette boule soit agitée, la cessation de cette volonté de Dieu fera la cessation du mouvement de la boule, et par consé quent le repos.
+
+Supposons présentement une boule en repos, au lieu que nous la supposions en mouvement: que faut-il que Dieu fasse pour l’agiter? Suffit-il qu’il cesse de vouloir qu’elle soit en repos.
+
+Certainement il est impossible qu’elle soit muë, et qu’elle n’ait point quelque degré de mouvement: et il est impossible de concevoir qu’elle aille avec quelque degré de mouvement, de cela seul qu’on conç oit que Dieu cesse de vouloir qu’elle soit en repos.
+
+. . . mais on ne peut pas dire qu’une mê me boule ait deux fois plus de repos en un temps qu’en un autre.[^1905-91]
+
+[p. 468 / 2, 431] Je conç ois seulement que les corps qui sont en mouvement, ont une force mouvante, et que ceux qui sont en repos, n’ont point de force pour leur repos.
+
+[p. 468 sq. / 2, 432] . . . et ainsi le moindre effort, et le plus petit corps que l’on concevra agité dans le vuide contre un corps tres-grand et tres-vaste, sera capable de le mouvoir, puisque ce grand corps étant en repos il n’aura aucune puissance pour resister à celle de ce petit corps, qui viendra frapper contre lui. Ainsi la resistance que les parties des corps durs font pour empêcher leur séparation, vient nécessairement de quelque autre chose que de leur repos.[^1905-92]
+
+[p. 471 / 2, 434] C’est ainsi que Monsieur Descartes et ceux qui sont de son sentiment, défendent les regles du mouvement qu’il nous a données.
+
+Mais les personnes dont je parle le nient, et ils répondent que ce qui fait que le grand morceau de bois avance dés qu’il est poussé par le petit; c’est que le petit, qui ne pouroit le remuë r s’il é toit seul, é tant joint avec les parties du corps liquide qui sont agité es, les dé termine à le pousser, et à lui communiquer une partie de leur mouvement. Mais il est visible que selon cette [p. 1906] ré ponse, le morceau de bois é tant une fois agité ne devroit point diminuer son mouvement, et qu’il devroit au contraire l’augmenter sans cesse.[^1906-93]
+
+[^1905-91]: Dazu: Il n’y [a] point de repos, le repos s’il y en avoit viendroit d’une grande reaction
+
+[^1905-92]: Daneben: non potest dici in vacuo, utrum sit in motu
+
+[p. 472 / 2, 435 sq.] Il est certain pour ceux tout au moins à qui je parle, qu’il n’y a jamais dans la nature plus de mouvement en un temps qu’en un autre, et que les corps en repos ne deviennent agitez, que par la rencontre de quelques corps agitez, qui leur communiquent de leur mouvement. D’où je conclus qu’un corps, que je suppose creé parfaitement en repos au milieu de l’eau, ne recevra jamais aucun degré de mouvement des petites parties de l’eau qui l’entourent; et qui viennent continuellement heurter contre lui pourvû qu’elles le poussent également de tous côtez: Parce que toutes ces petites parties, qui viennent heurter contre lui é galement de tous cô tez; ré jallissant avec tout leur mouvement elles ne lui en com/muniquent point: et par consequent ce corps doit toûjours être consideré comme en repos et sans aucune force mouvante, quoiqu’il change continuellement de surface.
+
+Or la preuve que j’ay, que ces petites parties réjallissent ainsi avec tout leur mouvement; c’est qu’autrement l’eau qui touche ce corps devroit resoudre beaucoup ou mê me se glacer et devenir à peu pré s aussi dure que le bois à sa surface, puisque le mouvement des parties de l’eau devroit se ré pandre é galement dans les petites parties du corps qu’elles environnent.
+
+[p. 473 / 2, 436] Cela toutesfois supposé, je dis que de toutes les parties d’eau qui sont dans la riviere, il n’y a selon Monsieur Descartes que celles qui touchent immediatement le bateau du cô té d’où il a é té poussé qui puissent aider à son mouvement.
+
+[p. 474 / 2, 437] Si donc il n’y avoit point d’autre ciment que le repos pour unir les parties qui composent le cloud: la barre de fer é tant cent mille fois plus grosse que le cloud devroit selon la cinquiéme régle de Monsieur Descartes.
+
+[p. 479 / 2, 441 sq.] Je pourois encore prouver la grandeur du mouvement de la matiére subtile à ceux qui recoivent les principes de Monsieur Descartes, par le mouvement de la pesanteur des corps; et je tirerois mêmes de là des preuves assez certaines et assez exactes.
+
+[^1906-93]: Am Rande: NB.
+
+::: editorial
+
+(zu S. 1906) 27 Vgl. R. DESCARTES, Principia philosophiae, II, 50.
+
+:::
+
+[p. 1907] [p. 482 / 2, 444] Ainsi il a mesuré les effets de la force du repos par la grandeur du corps où elle é toit, comme ceux de la force du mouvement: ce qui lui a fait donner les regles de la communication du mouvement qui sont dans ses principes, et la cause de la dureté des corps que j’ai tâché de réfuter.
+
+[p. 482 sq. / 2, 445 sq.] Je suis surpris de ce que dans l’article 132. de la quatriéme Partie il attribuë la force qu’ont certains corps pour se redresser, à cette matié re subtile, et qu’il ne lui attribuë pas leur dureté , et la resistence qu’ils font lorsqu’on tâche de les ployer et de les rompre, mais seulement au repos de leurs parties article 55. et 43. de la seconde Partie, et ailleurs; car il me paroît évident que la cause qui redresse et qui rend roides certains corps, est la mê me que celle qui leur donne la force de ré sister lorsqu’on les veut rompre; car enfin la force qu’on employe pour rompre de l’acier ne differe qu’insensiblement de celle par laquelle on le ploye.
+
+. . . et qu’enfin il n’y a aucun corps dur qui ne fasse quelque peu de ressort.
+
+[p. 484 sq. / 2, 447 sq.] Monsieur Descartes sçavoit bien que pour soûtenir son systéme, de la vérité duquel il ne pouvoit raisonnablement douter, il é toit absolument necessaire que les grands corps communiquassent toû jours de leur mouvement aux petits qu’ils rencontreroient, et que les petits ré jaillissent à la rencontre des plus grands, sans une perte pareille du leur: car sans cela le premier é lement n’auroit pas tout le mouvement qu’il est necessaire qu’il ait par dessus le second, ni le second par dessus le troisié me; et tout son systé me seroit absolument faux, comme le sçavent assez ceux qui l’ont un peu médité. Mais en supposant que le repos ait force pour résister au mouvement, et qu’un grand corps en repos ne puisse ê tre remü é par un autre plus petit que lui, quoi qu’il le heurte avec une agitation furieuse; il est visible que les grands corps doivent avoir beaucoup moins de mouvement qu’un pareil volume de plus petits, puisqu’ils peuvent toû jours selon cette supposition communiquer celui qu’ils ont, et qu’ils n’en peuvent pas toû jours recevoir des plus petits.
+
+Les petits corps et les corps fluides, l’eau, l’air. etc. ne peuvent communiquer à quelques grands corps que leur mouvement uniforme et commun à toutes leurs parties.
+
+::: editorial
+
+(zu S. 1907) 6–10 Vgl. R. DESCARTES, a.a.O., IV, 132; II, 55 u. 43 (A.T. VIII, S. 274, S. 71 u. S. 66).
+
+:::
+
+[p. 1908] . . . et chacune de ces petites parties outre ce mouvement commun, en a encore une infinité d’autres particuliers. Ainsi il est visible par cette raison, qu’un batteau par exemple ne peut jamais avoir autant de mouvement qu’un é gal volume d’eau, puisque le batteau ne peut recevoir de l’eau que le mouvement direct et commun à toutes les parties qui la composent.
+
+[p. 486 / 17.1, 39] Les corps n’é tant point durs dans le vuide, puisqu’ils ne sont durs que par la pression de la matiére subtile qui les environne, si deux corps se rencontroient, ils s’applatiroient sans réjaillir.
+
+[p. 487 / 17.1, 39 sq.] . . . il est visible qu’ils ne doivent ré jaillir que lorsqu’ils sont égaux en grandeur et en vîtesse, ou que la vîtesse recompense la grandeur ou la grandeur la vîtesse. Et il est facile de là de conclure que dans tous les autres cas ils doivent toû jours communiquer leur mouvement, de telle maniere qu’ils aillent apré s de compagnie avec une é gale vîtesse.
+
+De sorte que pour sçavoir ce qui doit arriver dans toutes les differentes suppositions de la grandeur et de la vîtesse des corps qui se rencontrent, il n’y a qu’à ajoû ter tous les degrez de mouvement de deux, ou de plusieurs corps qui ne doivent être considérez que comme un seul dans le moment de leur rencontre, et aprés diviser la somme de tout le mouvement à proportion de la grandeur de ces corps.
+
+D’où je conclus que des sept regles que Monsieur Descartes donne du mouvement, les trois premieres sont bonnes.
+
+Que la quatriéme est fausse, et que B. doit communiquer à C. de son mouvement à proportion de la grandeur de ce même C et aller ensuite de compagnie; en sorte que si C. est[^1908-94] double de B. et que B ait trois degrez de mouvement.
+
+[p. 488 / 17.1, 41] Ce qui prouve encore plus clairement ce que je dis, c’est que si deux boules de plomb, ou de quelqu’autre matiére qui fasse encore moins de ressort se choquent, elles ne réjallissent point aprés leur choc, mais elles vont à-peu-prés selon les regles que j’ai é tablies auparavant.
+
+[p. 492 / 17.1, 44] . . . que les regles de la communication des mouvemens données par Monsieur Descartes sont en parties fausses, je montrerois ici que dans sa supposition il seroit impossible de se remüer dans l’air: et que ce qui fait que la circulation du mouvement dans les corps fluides est possible sans recourir au vuide, c’est que le premier élement se divise sans peine en plusieurs maniéres différentes, le repos de ses parties n’ayant aucune force pour résister au mouvement.
+
+[^1908-94]: Darüber: quiescens
+
+[p. 1909] ECLAIRCISSEMENS SUR LES SIX LIVRES DE LA RECHERCHE DE LA VERITÉ.
+
+PREMIER ECLAIRCISSEMENT SUR LE PREMIER CHAPITRE DU PREMIER LIVRE.
+
+[p. 2 / 3, 18] Je répons que la Foi, la raison, et le sentiment interieur que j’ai de moi-même, m’obligent de quitter ma comparaison où je la quitte: Car je suis convaincu en toutes manieres, que j’ai en moi-même un principe de mes déterminations, et j’ai des raisons pour croire que la matié re n’a point de semblable principe.
+
+[p. 3 / 3, 19] Voicy donc ce que fait le pé cheur. Il s’arrê te: il se repose: il ne fuit point Dieu: il ne fait rien, car le péché n’est rien.
+
+[p. 4 / 3, 20] S’il est donc vrai que nous pouvons vouloir considérer de prés, ce que nous voyons déja comme de loin, puisque nous sommes unis avec l’Etre universel: Et s’il est certain qu’en vertu des loix de la nature, les idé es s’approchent de nous dé s que nous le voulons; il est é vident,
+
+Premierement, Que nous avons un principe de nos dé terminations.
+
+Secondement, Que ce principe de nos déterminations est toûjours libre à l’égard des biens particuliers. . . . Ainsi le principe de nôtre liberté c’est, qu’é tant faits pour Dieu et unis à lui, nous pouvons toû jours penser au vrai bien ou à d’autres biens qu’à ceux ausquels nous pensons actuellement.
+
+[p. 5 / 3, 21] Il est évident de tout ceci, que Dieu n’est point Auteur du péché, et que l’homme ne se donne point à soi-mê me de nouvelles modifications.
+
+[p. 6 / 3, 21] Mais le péché d’un homme ne consiste pas en ce qu’il aime un bien particulier, car tout bien est aimable: c’est en ce qu’il aime uniquement ce bien.
+
+En un mot le pé ché d’un homme consiste en ce qu’il ne rapporte pas tous les biens particuliers au souverain bien, ou plû tô t en ce qu’il ne considé re, et qu’il n’aime pas le souverain bien dans les biens particuliers.
+
+[p. 7 / 3, 22] . . . car il [scil. Dieu] nous pousse vers le bien en general autant que nous en sommes capables, et nous en sommes en tout tems é galement capables,[^1909-95] parce que nôtre volonté ou nôtre capacité naturelle de vouloir estre toûjours égale à elle-même.
+
+[^1909-95]: Am Rande: ,
+
+[p. 1910] [p. 7 sq. / 3, 23 sq.] C’est nô tre memoire et non pas nô tre sentiment interieur qui nous apprend que nous sommes capables de sentir ce que nous ne sentons plus; ou d’être agité par des passions desquelles nous ne sentons plus aucun mouvement. Ainsi il n’y a rien qui nous empêche de croire que Dieu nous pousse toûjours vers luy d’une égale force, quoique d’une maniere bien differente; et qu’il conserve toûjours dans nôtre ame une égale capacité de vouloir, ou une même volonté, comme il conserve dans toute la matiere une égale quantité de mouvement.
+
+. . . que Dieu conserve aussi en nous tout ce qu’il y a de réel et de positif dans les déterminations particulieres du mouvement de nôtre ame, sçavoir nos idées et nos sentimens.
+
+De sorte que tout ce que nous faisons, quand nous péchons, c’est que nous ne faisons pas tout ce que nous avons néanmoins le pouvoir de faire, à cause de l’impression que nous avons vers celui qui renferme tous les biens.
+
+[p. 9 / 3, 24 sq.] Et quand nous pé chons que faisons-nous? Rien.
+
+Nôtre péché consiste précisément en ce que nous arrê tons à ce bien particulier
+
+Mais ce que nous faisons alors, est produit par l’action que Dieu met en nous, c’est-à -dire par nô tre mouvement vers le bien en general, ou par nô tre volonté secouruë par la grace, c’est à dire é clairé e par une lumiere, et poussé e par une dé lectation pré venante.
+
+[p. 10 sq. / 3, 27 sq.] Il n’en est pas de même du sentiment interieur, comme de nos sens exterieurs. Ceux-ci nous trompent toûjours en quelque chose, lorsque nous suivons leur rapports: mais nô tre sentiment interieur ne nous trompe jamais.[^1910-96]
+
+Cependant, comme l’on n’a pas toû jours ce sentiment interieur, et qu’on ne consulte quelquefois que ce qui nous en reste dans la memoire d’une maniere fort confuse; on peut en pensant à des raisons abstraites, qui nous empê chent de nous sentir nous mê mes, se persuader qu’il n’est pas possible que l’homme soit libre.
+
+[p. 12 / 3, 30] Comme nous ne connoissons point nô tre ame par une idé e claire, ainsi que je l’ai expliqué ailleurs, c’est en vain que nous faisons effort pour dé couvrir ce qui est en nous qui termine l’action que Dieu nous imprime.
+
+[^1910-96]: Am Rande: p. 203 contrarium asseritur
+
+[p. 1911] . . . car il n’y a point d’homme qui puisse douter qu’il n’est point porté invinciblement à manger d’un fruit, ou à éviter une douleur fort legére.
+
+[p. 14 / 3, 34] Comme avant le peché toutes choses étoient parfaitement bien reglées, l’homme avoit nécessairement ce pouvoir sur son corps, qu’il empêchoit la formation de ces traces lorsqu’il le vouloit: car l’ordre demande que l’esprit domine sur le corps.
+
+[p. 15 sq. / 3, 35] Ainsi la volonté de Dieu, ou la loi gé né rale de la nature, qui est la cause vé ritable de la communication des mouvemens, dé pendoit en certaines occasions de la volonté d’Adam. . .
+
+Ainsi le formel de la concupiscence, non plus que le formel du péché n’est rien de réel: ce n’est rien autre chose en l’homme que la perte du pouvoir qu’il avoit de suspendre de la communication des mouvemens en certaines occasions.
+
+SECOND ECLAIRCISSEMENT SUR LE PREMIER CHAPITRE DU PREMIER LIVRE.
+
+[p. 18 sq. / 3, 39 sq.] . . . car c’est une loi naturelle que les idé es soient d’autant plus pré sentes à l’esprit, que la volonté les desire avec plus d’ardeur.
+
+. . . nous ne souhaitons jamais de penser à quelque objet,[^1911-97] que l’idé e de cet objet ne nous soit aussi-tô t pré sente
+
+ECLAIRCISSEMENT SUR LE TROISIÉME CHAPITRE.
+
+[p. 20 / 3, 43] Quand je dis que nous n’avons point d’idées des Mystéres de la Foi, il est visible par ce qui suit, que je parle des idées claires qui produisent la lumiére et l’évidence, et par lesquelles on a comprehension[^1911-98] de l’objet, si l’on peut parler ainsi.
+
+[p. 21 / 3, 44] Mais je l’ai pris aussi pour ce qui repré sente les choses à l’esprit d’une manié re si claire, qu’on peut dé couvrir de simple vû ë si telles ou telles modifications leur appartiennent.[^1911-99] C’est pour cela que j’ai dit quelquefois qu’on avoit une idée de l’ame, et quelquefois je l’ai nié.
+
+[^1911-97]: Darüber: on ne sçauroit le souhaiter sans y penser dejà
+
+[^1911-98]: Dazu: habemus ideam Dei at non comprehensionem
+
+[^1911-99]: Am Rande: ubi hoc
+
+[p. 1912] ECLAIRCISSEMENT SUR CES PAROLES DU CINQUIÉME CHAPITRE.
+
+[p. 23 / 3, 45 sq.] Le plaisir au contraire prévient nôtre raison; il nous détourne de la consulter; il ne nous laisse point entiérement à nous-mêmes, et il affoiblit nô tre liberté .
+
+Ainsi, comme Adam avant le peché étoit dans le temps destiné pour mériter son bonheur éternel; qu’il avoit pour cela une pleine et entiére liberté; et que sa lumiére suffisoit pour le tenir étroitement uni à Dieu, qu’il aimoit déja par le mouvement naturel de son amour; il ne devoit pas ê tre porté à son devoir par des plaisirs pré venans, qui eussent diminué son mé rite en diminuant sa liberté .
+
+[p. 23 sq. / 3, 46 sq.] Il me paroît donc certain qu’Adam ne sentoit point de plaisirs prévenans dans son devoir. Mais il me semble qu’il n’est pas tout-à -fait certain qu’il sentît de la joie, quoique je le suppose ici, à cause que je le croi tres-probable. Je m’explique.
+
+Il y a cette différence entre le plaisir prévenant, et le plaisir de la joie, que celui-là prévient la raison, et que celui-ci la suit.
+
+La principale est que cette joie eû t peut-ê tre tellement rempli son esprit, qu’elle l’eû t privé de sa liberté , et qu’elle l’eû t uni à Dieu d’une manié re invincible. Car on peut croire que cette joie devant être proportionnée au bonheur qu’Adam possedoit, elle devoit être excessive.
+
+Mais je répons à cela, premierement, que la joie purement intellectuelle laisse l’esprit tout-à -fait libre, et n’occupe que tres peu la capacité qu’il a de penser.
+
+[p. 24 sq. / 3, 47] Son bonheur consistoit principalement en ce qu’il ne souffroit point de mal, et qu’il étoit bien avec celui qui devoit le rendre parfaitement heureux, s’il eût persévéré dans la justice. Ainsi sa joie n’étoit point excessive: elle étoit mêmes, ou elle devoit ê tre mê lé e d’une espé ce de crainte, car il devoit se dé fier de lui-mê me.
+
+ECLAIRCISSEMENT SUR LE CINQUIÉME CHAPITRE.
+
+[p. 27 / 3, 50] Ce que je dis ici suppose que Dieu laisse agir en nous nôtre concupiscence, et qu’il ne la diminuë pas en nous inspirant de l’horreur pour les objets sensibles, qui en conséquence du péché doivent nous tenter. Je parle des choses comme elles arrivent ordinairement. Mais supposé que Dieu diminuë la [p. 1913] concupiscence au lieu d’augmenter la dé lectation de la Grace, cela pourra faire le mê me effet.
+
+Il me semble que la dé lectation n’est né cessaire que lorsque la tentation est forte, ou que l’amour est foible.
+
+[p. 28 / 3, 51] On suppose que le plaisir et l’amour sont une mê me chose, à cause que l’on n’est presque jamais sans l’autre; et que saint Augustin ne les distingue pas toû jours. Et cela supposé , on a raison de dire tout ce qu’on dit. ECLAIRCISSEMENT SUR CE QUE J’AY DIT AU COMMENCEMENT DU DIXIÉME CHAPITRE DU
+
+PREMIER LIVRE, ET DANS LE SIXIÉME DU SECOND LIVRE DE LA MÉTHODE.
+
+[p. 33 / 3, 57] Mais dans le fond, comment peut-on s’assurer, si ceux qu’on appelle fous, le sont effectivement? Ne peut-on pas dire qu’ils ne passent pour fous, que parce qu’ils ont des sentimens particuliers? Car il est é vident qu’un homme passe pour fou, non parce qu’il voit ce qui n’est pas; mais pré cisé ment parce qu’il voit le contraire de ce que les autres voyent, soit que les autres se trompent, ou ne se trompent pas.
+
+[p. 34 / 3, 58] Car si tous les hommes croyoient être comme des coqs, celui qui se croiroit tel qu’il est, passeroit certainement pour un insensé.
+
+[p. 37 / 3, 60] Cependant on peut dire que l’existence de la matié re n’est point encore parfaitement dé montré e.
+
+[p. 39 / 3, 62] Je demeure d’accord que la Foi oblige à croire qu’il y a des corps: mais pour l’évidence, il est certain qu’elle n’est point entiére, et que nous ne sommes point invinciblement portez à croire qu’il y ait quelqu’autre chose que Dieu et nô tre esprit. Il est vray que nous avons un penchant extréme à croire qu’il y a des corps qui nous environnent. Je l’accorde à M. Descartes: Mais ce penchant, tout naturel qu’il est, ne nous y force point par évidence: il nous y incline seulement par impression.
+
+[p. 40 sq. / 3, 63 sq.] Nous n’avons rien qui nous prouve qu’il n’y en a point, et nous avons au contraire une inclination forte à croire qu’il y en a. Nous avons donc plus de raison de croire qu’il y en a, que de croire qu’il n’y en a point. Ainsi [p. 1914] nous devons croire qu’il y en a. Nous devons suivre nôtre jugement naturel, puisque nous ne pouvons pas positivement le corriger par la lumiére et par l’évidence. Car tout jugement naturel venant de Dieu, nous y pouvons conformer nos jugemens libres, lorsque Dieu ne nous donne point de moyen pour en dé couvrir la fausseté
+
+::: editorial
+
+(zu S. 1913) 26 Vgl. R. DESCARTES, Meditationes, VI (A.T. VII, S. 80).
+
+:::
+
+Si le raisonnement que je viens de faire est juste, nous devons croire qu’il est tout-à -fait vrai-semblable qu’il y a des corps.
+
+[p. 42 / 3, 64 sq.] Les Saints qui sont dans le Ciel voyent bien par une lumiere é vidente, que le Pere engendre son Fils, et que le Pere et le Fils produisent le Saint Esprit; car ces é manations sont né cessaires.
+
+Il est vrai qu’il semble d’abord que la preuve ou le principe de nôtre foi suppose qu’il y ait des corps, fides ex auditu.
+
+. . . puisque, comme j’ai prouvé en plusieurs endroits de la Recherche, il n’y a que Dieu qui puisse représenter à l’esprit ces prétenduës apparences, et que Dieu n’est point trompeur, car la foi même suppose tout ceci.
+
+ECLAIRCISSEMENT SUR LE CINQUIÉME CHAPITRE DU DEUXIÉME LIVRE.
+
+[p. 45 sq. / 3, 67–69] Je suppose de plus que la volonté de Dieu é tant entié rement conforme à l’ordre et à la justice, il suffit d’avoir droit à une chose afin de l’obtenir. Ces suppositions qui se conçoivent distinctement, étant faites, la mémoire spirituelle s’explique facilement. Car l’ordre demandant que les esprits qui ont pensé souvent à quelque objet, y repensent plus facilement, et en ayent une idé e plus claire et plus vive que ceux qui y ont peu pensé ; La volonté de Dieu qui opé re incessamment selon l’ordre, repré sente à leur esprit dé s qu’ils le souhaitent, l’idé e claire et vive de cet objet. De sorte que selon cette explication la mémoire et les autres habitudes des pures intelligences, ne consistent pas dans une facilité d’opé rer qui ré sulte de certaines modifications de leur ê tre: mais dans un ordre immuable de Dieu, et dans un droit que l’esprit acquiert sur les choses qui lui ont dé ja é té soû mises.
+
+Cependant je croi, et je pense devoir croire, qu’apré s l’action de l’ame il y reste certains changemens qui la disposent à cette mê me action. Mais comme je ne les connois pas, je ne les puis pas expliquer; car je n’ai point d’idée claire de mon esprit, dans laquelle je puisse découvrir toutes les modifications dont il est capable. [p. 1915] Je croi par des preuves de Theologie et non point par des preuves claires et évidentes, que la raison pour laquelle les pures intelligences voyent, par exemple, plus clairement les objets qu’ils ont déja considérez, que les autres, n’est pas précisément parce que Dieu leur représente ces objets d’une maniére plus vive et plus parfaite.
+
+ECLAIRCISSEMENT SUR LE CHAPITRE SEPTIÉME DU DEUXIÉME LIVRE.
+
+IV.
+
+[p. 48 sq. / 3, 73] Cependant afin de sçavoir par une connoissance claire, si un tel fruit en un tel tems est propre à la nourriture du corps, il faut apparemment sç avoir tant de choses, et faire tant de raisonnemens, que l’esprit le plus é tendu y seroit entié rement occupé .
+
+VIII.
+
+[p. 51 / 3, 75] Ainsi s’étant distrait, il [scil. Adam] a été capable de tomber: car sa principale grace et sa principale force é toit sa lumié re et la connoissance claire de son devoir.
+
+X.
+
+[p. 52 / 3, 76 sq.] . . . qu’il y a une telle communication entre le cerveau de la mere et celuy de son enfant, que tous les mouvemens et toutes les traces qui se font dans le cerveau de la mere, s’excitent dans celuy de l’enfant. Ainsi comme l’ame de l’enfant est unie à son corps dans le même moment qu’elle est créée, à cause que c’est la conformation du corps qui oblige Dieu en conséquence de ses volontez générales à luy donner une ame pour l’informer: il est évident que dans le même instant que cette ame est créée, elle a des inclinations corrompuë s.
+
+XI.
+
+[p. 53 / 3, 77] Mais parce que c’est un desordre que l’esprit soit tourné vers les corps, et qu’il les aime; l’enfant est pêcheur et dans le desordre dés qu’il est crée, Dieu qui aime l’ordre, le hait en cet état. Cependant son pé ché n’est pas libre: C’est sa mére qui l’a conçû dans l’iniquité, à cause de la communication qui est établie par l’ordre de la nature entre le cerveau de la mére et celuy de son enfant.
+
+[p. 1916] XIII.
+
+[p. 53 sq. / 3, 77 sq.] Et si l’ame des enfans é toit cré é e un seul moment avant que d’ê tre unie à leur corps, si elle é toit un seul moment dans la justice et dans l’ordre, elle auroit de plein droit et par la né cessité de l’ordre ou de la loi é ternelle, le pouvoir de suspendre cette communication: de même que le premier homme avant son péché arrêtoit, lorsqu’il le vouloit.
+
+XV.
+
+[p. 54 sq. / 3, 78 sq.] Mais s’il est permis de pénétrer dans les conseils de Dieu, et de dire ce qu’on pense sur les motifs qu’il a pû avoir pour é tablir l’ordre que je viens de dé duire, et pour permettre le pé ché du premier homme; il me semble qu’on ne peut avoir de sentiment plus digne de la grandeur de Dieu, et plus conforme à la Religion et à la raison, que de croire que le principal dessein de Dieu dans ses opérations au dehors, c’est l’Incarnation de son Fils.
+
+J’avouë que la concupiscence peut être le sujet de nôtre mérite, et qu’il est tres-juste que l’esprit suive pour un temps l’ordre avec peine, afin de mé riter d’y ê tre é ternellement soû mis avec plaisir. Je veux que ce soit dans cette vû ë que Dieu ait permis la concupiscence, apré s avoir pré vû le pé ché . Mais la concupiscence n’étant point absolument nécessaire pour mériter, si Dieu l’a permise, c’est qu’il a voulu qu’on ne pust faire le bien sans le secours que Jesus-Christ nous a mé rité , et que l’homme ne pust se glorifier en ses propres forces.
+
+XVII.
+
+[p. 56 / 3, 80 sq.] Mais lors qu’ils ont été régénérez en Jesus-Christ, c’est à dire, lorsque leur coeur a é té tourné vers Dieu, ou par un mouvement actuel d’amour, ou par une disposition inté rieure semblable à celle qui demeure apré s un acte d’amour de Dieu: Alors la concupiscence n’est plus pé ché en eux: car elle n’est plus seule dans leur coeur, elle n’y domine plus. L’amour habituel, qui reste en eux par la grace du Baptême en Jesus- Christ, est plus libre ou plus fort que celuy qui est en eux par la concupiscence qu’ils ont d’Adam. Ils sont semblables aux Justes qui suivent dans le sommeil des mouvemens de la concupiscence, ils ne perdent point la grace de leur Baptême, car ils ne consentent point librement à ces mouvemens.
+
+[p. 1917] XVIII.
+
+Et l’on ne doit pas trouver fort ê trange, si je croy qu’il se peut faire que les enfans dans le tems qu’on les batise, aiment Dieu d’un amour libre.
+
+Et comme cet acte peut se former dans l’ame sans qu’il s’en fasse de traces dans le cerveau: il ne faut pas non plus s’é tonner si mê mes les adultes qu’on batise ne s’en souviennent pas toû jours: car on n’a point de mé moire des choses dont le cerveau ne garde point de traces.[^1917-100]
+
+XX.
+
+[p. 58 / 3, 82] Il faut ce semble un miracle extraordinaire pour donner à l’ame ces dispositions sans acte précédent.
+
+OBJECTION CONTRE LE PREMIER ARTICLE.
+
+[p. 59 / 3, 84] Dieu veut l’ordre, il est vrai; mais c’est sa volonté qui le fait: elle ne le suppose point.
+
+Si Dieu vouloit que 2 fois 2 ne fussent pas 4 on ne mentiroit point en disant que 2 fois 2 ne sont point 4: ce seroit une vérité.
+
+[p. 60 / 3, 85] Ainsi je ne crains point de dire que Dieu ne peut pas vouloir positivement que l’ê sprit soit soû mis au corps.
+
+RÉPONSE.
+
+[p. 61 / 3, 85 sq.] . . . qu’il n’y a point d’ordre, dit-il, point de loi, point de raison de bonté et de vérité qui ne dépende de Dieu; et que c’est lui qui de toute éternité a ordonné et établi comme souverain Legislateur les véritez éternelles. Ce sçavant homme ne prenoit pas garde qu’il y a un ordre, une loi, une raison souveraine que Dieu aime nécessairement, qui lui est coéternelle.
+
+[^1917-100]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1917) 20–22 Vgl. R. DESCARTES, Meditationes, Sextae Responsiones, 6 u. 8 (A.T. VII, S. 431–433).
+
+:::
+
+[p. 1918] SECONDE OBJECTION CONTRE LE PREMIER ARTICLE.
+
+RÉPONSE.
+
+[p. 63 / 3, 88] Je dis donc que Dieu veut l’ordre, quoiqu’il y ait des monstres, et que c’est mê me parce que Dieu veut l’ordre qu’il y a des monstres.
+
+[p. 64 / 3, 89] Ainsi Dieu ne veut pas positivement ou directement qu’il y ait des monstres; mais il veut positivement certaines loix de la communication des mouvemens, desquelles ils sont des suites né cessaires.
+
+OBJECTION CONTRE LE SECOND ARTICLE.
+
+[p. 65 / 3, 90] Dieu ne peut jamais agir pour lui. On ne fait rien d’inutile quand on est sage, et tout ce que Dieu feroit pour lui seroit inutile, car rien ne lui manque.
+
+OBJECTION CONTRE LE QUATRIÉME ARTICLE.
+
+RÉPONSE.
+
+[p. 67 / 3, 92] L’ignorance n’est ni un mal ni une suite du pê ché : c’est l’erreur ou l’aveuglement de l’esprit qui est un mal, et une suite du pêché.
+
+SECONDE OBJECTION CONTRE LE QUATRIÉME ARTICLE.
+
+RÉPONSE.
+
+[p. 69 sq. / 3, 95] Adam ne souffroit donc jamais de douleur violente; mais je ne croi pas qu’on soit obligé de dire qu’il n’en sentoit pas mê mes de lé gé res, comme seroit celle qu’on a, lorsqu’on goûte d’un fruit verd, pensant qu’il est mûr.
+
+::: editorial
+
+(zu S. 1918) OBJECTION CONTRE LE CINQUIÉME ARTICLE.
+
+:::
+
+[p. 1919] RÉPONSE.
+
+[p. 71 / 3, 96] Le plaisir et l’amour sont des manié res d’ê tre de l’ame: mais le plaisir n’a point de rapport né cessaire à l’objet qui semble le causer, et l’amour a né cessairement rapport au bien.
+
+OBJECTION CONTRE LE SIXIÉME ARTICLE.
+
+RÉPONSE.
+
+[p. 72 sq. / 3, 97 sq.] Or il est évident que l’ordre immuable demande que le corps soit soûmis à l’esprit: et il y a contradiction que Dieu n’aime et ne veü ille pas l’ordre, car Dieu aime né cessairement son Fils.
+
+Donc, selon les différentes volontez de l’homme, les esprits animaux sont déterminez pour produire ou pour arrêter quelques mouvemens dans son corps; ce qui certainement ne se peut faire par la loi gé né rale de la communication des mouvemens.[^1919-101] Ainsi la volonté de Dieu étant encore aujourd’hui soûmise à la nôtre, pourquoi n’auroit-elle pas été soûmise à celle d’Adam?[^1919-102]
+
+OBJECTION CONTRE LE SEPTIÉME ARTICLE.
+
+[p. 73 sq. / 3, 98] Mais l’ordre demande-t’il que les loix des mouvemens soient violé es pour le mal, et qu’elles soient inviolables pour le bien?
+
+RÉPONSE.
+
+[p. 75 / 3, 100] . . . et qu’ainsi il est nécessaire que l’homme aprés son péché, conserve encore le pouvoir de remü er diversement toutes les parties du corps, les mouvemens desquelles peuvent être utiles à sa conservation.
+
+[p. 76 / 3, 101] Or il faut prendre garde que Dieu agit toûjours par les voyes les plus simples, et que les loix de la nature doivent être générales: et qu’ainsi nous ayant [p. 1920] donné le pouvoir de remü er nô tre bras et nô tre langue, il ne doit pas nous ô ter celuy de frapper un homme injustement ou de le calomnier.
+
+[^1919-101]: Am Rande: NB.
+
+[^1919-102]: Am Rande: ,
+
+OBJECTION CONTRE LES ARTICLES ONZIÉME ET DOUZIÉME.
+
+[p. 77 / 3, 102] Ainsi le pé ché originel est quelque chose de bien diffé rent de la concupiscence avec laquelle nous naissons: et c’est apparemment la privation de la grace ou de la justice originelle.
+
+RÉPONSE.
+
+[p. 77 sq. / 3, 102 sq.] Or cette indignité qui consiste, comme je l’ay fait voir, en ce que les inclinations des enfans sont actuellement corrompuës, que leur coeur est tourné vers les corps et qu’ils les aiment, est réellement en eux, ce n’est point l’imputation du pé ché de leur pé re: ils sont effectivement dans le desordre.
+
+. . . et je suis persuadé qu’il y a une telle correspondance entre les dispositions de nôtre cerveau et celles de nôtre ame, qu’il n’y a peut-ê tre point de mauvaise habitude dans l’ame, qui n’ait son principe dans le corps.
+
+[p. 79 / 3, 103] Enfin il paroît par saint Paul que tout pé ché vient de la chair.
+
+SECONDE OBJECTION CONTRE LES ARTICLES ONZIÉME ET DOUZIÉME.
+
+RÉPONSE.
+
+[p. 84 / 3, 107] Il est certain que c’est l’homme qui rend la femme fé conde, et par conséquent c’est lui qui est cause de la communication qui se trouve entre le corps de la mére et celui de son enfant.
+
+[p. 85 / 3, 108 sq.] Cela étant, on ne peut pas se persuader que la femme apré s son pé ché eû t perdu le pouvoir qu’elle avoit sur son corps, si son mari n’eust pé ché aussi-bien qu’elle.
+
+C’est pour cela qu’Eve ne sent point de mouvemens involontaires et rebelles incontinent aprés son péché: elle n’a point encore de honte de se voir nuë: elle ne se cache point, elle s’approche au contraire de son mari quoique nud comme elle: ses yeux ne sont point encore ouverts: elle est comme auparavant la maîtresse absolüe de son corps.
+
+::: editorial
+
+(zu S. 1920) 16 Vgl. Röm. 7, 5.
+
+:::
+
+[p. 1921] OBJECTION CONTRE L’ARTICLE DOUZIÉME.
+
+[p. 86 / 3, 109 sq.] C’est deviner que de dire que la communication du cerveau de la mére avec celui de son enfant, soit necessaire ou utile à la conformation du foetus: car il n’y a point de communication entre le cerveau d’une poule et de ses poulets, et cependant les poulets se forment parfaitement bien.
+
+RÉPONSE.
+
+[p. 87 sq. / 3, 111 sq.] J’avouë qu’il n’y a point de communication entre le cerveau d’une poule et celui du poulet qui se forme dans un oeuf, et que neanmoins le corps des poulets ne laissent pas de se former parfaitement bien. Mais on doit prendre garde que le poulet est bien plus avancé dans l’oeuf, lorsque la poule le pond, que le foetus lorsqu’il descend dans la matrice. On en doit juger ainsi, puisqu’il faut moins de tems pour faire é clore des oeufs, qu’il n’en faut par exemple pour avoir des petits chiens; quoique le ventre d’une chienne é tant fort chaud, et son sang toû jours en mouvement, les chiens dû ssent ê tre plû tô t formez que les oeufs é clos, si les poulets n’é toient pas plus avancez dans leurs oeufs que les petits chiens dans leurs germes. Or il y a bien de l’apparence que cette formation du poulet dans son oeuf avant que d’avoir é té pondu, a é té produite par la communication dont je parle.
+
+Je répons en second lieu, que l’accroissement du corps des oiseaux est peut-être plus conforme aux loix générales du mouvement, que celui des animaux à quatre pieds; et qu’ainsi la communication du cerveau de la mére avec celui de ses petits, n’est pas si nécessaire dans les oiseaux que dans les autres animaux. Car la raison qui rend cette communication nécessaire, est apparemment pour remédier au défaut des loix générales, qui ne suffisent pas dans quelques cas particuliers à la formation ou à l’accroissement des animaux.
+
+Ceux qui dressent les jeunes chiens à la chasse, en trouvent quelquefois qui arrêtent naturellement, à cause seulement de l’instruction qu’ils ont reçûë de leur mére, qui a souvent chassé étant pleine.
+
+[p. 88 sq. / 3, 112] Les oiseaux ne sont donc pas si dociles ni si capables d’instruction que les autres animaux.[^1921-103]
+
+[^1921-103]: Am Rande: ,
+
+[p. 1922] SECONDE OBJECTION CONTRE L’ARTICLE DOUZIÉME.
+
+RÉPONSE.
+
+[p. 90 / 3, 113] Je dis donc que la mére et l’enfant auroient eu naturellement commerce entr’eux sur toutes les choses qui se peuvent représenter à l’esprit par les liaisons naturelles: que si la mére par exemple eût vû un quarré, l’enfant l’auroit vû aussi; et que si l’enfant se fust imaginé quelque figure, il auroit aussi réveillé la trace de la même figure dans l’imagination de sa mére.
+
+OBJECTION CONTRE L’ARTICLE DIX-SEPTIÉME ET CEUX QUI LE SUIVENT.
+
+[p. 93 / 3, 116] Il y a de la témérité à dire que les enfans dans le Batême sont justifiez par des mouvemens actuels de leur volonté vers Dieu. Il ne faut point donner d’ouverture à des opinions nouvelles: cela n’est propre qu’à faire du bruit. ECLAIRCISSEMENT SUR LE TROISIÉME CHAPITRE DE LA TROISIÉME PARTIE DU SECOND
+
+LIVRE.
+
+[p. 96 / 3, 120] Car il n’est pas nécessaire de connoître beaucoup l’homme pour sçavoir que les blessures que le cerveau a reç û ë s, se gué rissent plus difficilement que celles des autres parties du corps.
+
+ECLAIRCISSEMENT SUR LA NATURE DES IDÉES.
+
+[p. 108 / 3, 130] Je suis certain que les idées des choses sont immuables, et que les véritez et les loix éternelles sont necessaires: il est impossible qu’elles ne soient pas telles qu’elles sont.
+
+[p. 109 / 3, 131] Mais la raison que nous consultons n’est pas seulement universelle et infinie, elle est encore nécessaire et indépendante, et nous la concevons en un sens plus indé pendante que Dieu mê me. Car Dieu ne peut agir que selon cette raison: il dépend d’elle en un sens: il faut qu’il la consulte et qu’il la suive. Or Dieu ne consulte que lui-même: il ne dépend de rien. Cette raison n’est donc pas distingué e de lui-mê me: elle lui est donc coé ternelle et consubstantielle.
+
+::: editorial
+
+(zu S. 1922) 18–20 Vgl. AUGUSTINUS, De libero arbitrio, II, 8–12.
+
+:::
+
+[p. 1923] [p. 110 / 3, 132] Certainement si les véritez et les loix éternelles dépendoient de Dieu; si elles avoient été établies par une volonté libre du créateur; en un mot si la raison que nous consultons n’é toit pas né cessaire et indé pendante: il me paroît é vident qu’il n’y auroit plus de science véritable, et qu’on pourroit bien se tromper si l’on assuroit que l’Arithmétique ou la Géométrie des Chinois est semblable à la nôtre.
+
+[p. 112 / 3, 133 sq.] Si nous n’avions point en nous-mêmes l’idée de l’infini, et si nous ne voyions pas toutes choses par l’union naturelle de nô tre esprit avec la raison universelle et infinie, il me paroît é vident que nous n’aurions pas la liberté de penser à toutes choses.
+
+De plus, ne pouvant aimer que nous voyons, si Dieu nous donnoit seulement des idé es particulié res, il est é vident qu’il dé termineroit de telle manié re tous les mouvemens de nô tre volonté , qu’il seroit né cessaire que nous n’aimassions que des ê tres particuliers.
+
+[p. 115 / 3, 136] Il est certain que Dieu renferme en lui-même d’une maniére intelligible les perfections de tous les êtres qu’il a créez ou qu’il peut créer, et que c’est par ces perfections intelligibles qu’il connoît l’essence de toutes choses, comme c’est par ses propres volontez qu’il connoît leur éxistence. Or ces perfections sont aussi l’objet immé diat de l’esprit de l’homme, pour les raisons que j’en ai données.
+
+[p. 117 sq. / 3, 138] Il faut donc considérer que Dieu s’aime par un amour né cessaire, et qu’ainsi il aime davantage ce qui est en lui qui repré sente ou qui renferme plus de perfection, que ce qui en renferme moins. Si bien que si l’on vouloit supposer que l’esprit intelligible fût mille fois plus parfait que le corps intelligible l’amour par lequel Dieu s’aime lui-même, seroit nécessairement mille fois plus grand pour l’esprit que pour le corps intelligible: car l’amour de Dieu est né cessairement proportionné à l’ordre qui est entre les ê tres intelligibles qu’il renferme.
+
+Or cet ordre immuable, qui a force de loi à l’é gard de Dieu mê me, a visiblement force de loi à nôtre égard.
+
+[p. 121 / 3, 141 sq.] Il est ce me semble fort utile de considérer que l’esprit ne connoît les objets de dehors qu’en deux maniéres, par lumiére et par sentiment. Il voit les choses par lumiére, lorsqu’il en a une idée claire, et qu’il peut en consultant cette idé e, dé couvrir toutes les proprié tez dont elles sont capables. Il voit les choses par sentiment, lorsqu’il ne trouve point en lui-même d’idée claire de ces choses pour la consulter, qu’il ne peut ainsi en dé couvrir clairement les propriétez, qu’il ne les connoît que par un sentiment confus, sans lumière et sans évidence.
+
+[p. 1924] [p. 121 sq. / 3, 142] Mais ce que l’esprit apperçoit par sentiment, ne lui est jamais clairement connu: non par un defaut d’application de sa part, car on s’applique toûjours beaucoup à ce que l’on sent, mais par le dé faut de l’idé e qui est extrê mement obscure et confuse.
+
+[p. 122 sq. / 3, 143] J’excepte l’é xistence de Dieu: car on la reconnoît par idé e pure sans sentiment; son é xistence ne dé pendant point d’une cause, et étant renfermée dans l’idée de l’être nécesssaire, comme l’égalité des diamétres est renfermée dans l’idée du cercle. Et j’excepte aussi l’é xistence de nô tre ame; parce que nous sç avons par sentiment inté rieur que nous pensons, voulons, sentons, etc. OBJECTIONS ET RÉPONSES CONTRE CE QUI A ÉTÉ DIT, QU’IL N’Y A QUE DIEU QUI NOUS
+
+ÉCLAIRE, ET QUE L’ON VOIT TOUTES CHOSES EN LUY.
+
+PREMIERE OBJECTION.
+
+RÉPONSE.
+
+[p. 126 / 3, 146] Il vaut encore mieux se croire indé pendant, que de croire qu’on dé pend vé ritablement des corps.
+
+SECONDE OBJECTION.
+
+[p. 127 sq. / 3, 147 sq.] L’ame é tant plus parfaite que les corps, pourquoy ne poura-t’elle pas renfermer en elle ce qui les repré sente?
+
+RÉPONSE.
+
+Mais l’ame ne peut voir en elle ce qu’elle ne renferme pas.
+
+L’ame ne renferme pas l’étenduë intelligible comme une de ses maniéres d’être; parce que cette étenduë n’est point une maniére d’être, c’est véritablement un être. On conç oit cette é tenduë seule sans penser à autre chose,[^1924-104] et l’on ne peut concevoir les maniéres d’être, sans appercevoir le sujet ou l’être dont elles sont les maniéres.
+
+[^1924-104]: Am Rande: ,
+
+[p. 1925] [p. 128 sq. / 3, 149 sq.] Certainement on peut assurer ce que l’on conçoit clairement. Or on conç oit clairement, que l’é tenduë que l’on voit est une chose distingué e de soi.
+
+Or on voit clairement, et l’on sent distinctement, que ce soleil est quelque chose qui est distingué de soi.
+
+Le plaisir, la douleur, la saveur, la chaleur, la couleur, toutes nos sensations et toutes nos passions, sont des modifications de nô tre ame.
+
+Si nous ne pouvions voir les figures des corps qu’en nous-mê mes, elles nous seroient au contraire inintelligibles; car nous ne nous connoissons pas. Nous ne sommes que ténébres à nous-mêmes; il faut que nous nous regardions hors de nous pour nous voir.[^1925-105]
+
+TROISIÉME OBJECTION.
+
+RÉPONSE.
+
+[p. 130 / 3, 151 sq.] Pour répondre à tout ceci, il suffit de considérer que Dieu renferme en lui mê me une é tenduë intelligible infinie.
+
+[p. 131 / 3, 152 sq.] Car Dieu ne voit point le mouvement des corps dans la substance, ou dans l’idé e qu’il en a en lui-mê me. Mais seulement par la connoissance qu’il a de ses volontez à leur é gard. Il ne voit mê mes leur existence que par cette voye, parce qu’il n’y a que sa volonté qui donne l’ê tre à toutes choses. Les volontez de Dieu ne changent rien dans sa substance: elles ne la meuvent pas. Peut-être que l’étenduë intelligible est immobile en tout sens, même intelligiblement. Mais quoy que nous ne voyons que cette é tenduë intelligible, immobile ou non, elle nous paroît mobile à cause du sentiment de couleur.[^1925-106]
+
+[^1925-105]: Am Rande: ,
+
+[^1925-106]: Am Rande: ,
+
+[p. 1926] OBJECTION.
+
+[p. 133 / 3, 155] [Saint Jean dans son Evangile, et dans la premiére de ses Epîtres, dit que personne n’a jamais vû Dieu.]
+
+RÉPONSE.
+
+Je répons que ce n’est pas proprement voir Dieu, que de voir en lui les créatures. Ce n’est pas voir son essence, que de voir les essences des créatures dans sa substance: comme ce n’est pas voir un miroir, que d’y voir seulement les objets qu’il repré sente.[^1926-107]
+
+[p. 135 / 3, 156 sq.] Je n’apporte pas d’autres preuves du sentiment de saint Augustin. Si l’on en souhaitte, l’on en trouvera de toutes sortes dans la sç avante Collection qu’en a faite Ambroise Victor, dans le second volume de sa Philosophie Chrê tienne. ECLAIRCISSEMENT SUR LE CHAPITRE SEPTIÉME DE LA SECONDE PARTIE DU TROISIÉME
+
+LIVRE.
+
+[p. 141 / 3, 164] Car je croi pouvoir dire que l’ignorance, où sont la plûpart des hommes à l’égard de leur ame, de sa distinction avec le corps, de sa spiritualité, immortalité et de ses autres proprietez, suffit pour prouver évidemment que l’on n’en a point d’idée claire et distincte.
+
+[p. 142 / 3, 165] Les Cartesiens même, consultent au contraire l’étenduë, et ils raisonnent ainsi. La chaleur, la douleur, la couleur ne peuvent être des modifications de l’étenduë: car l’étenduë n’est capable que de differentes figures et de differens mouvemens. Or il n’y a que deux genres d’êtres des esprits et des corps. Donc la douleur, la chaleur, la couleur, et toutes les autres qualitez sensibles appartiennent à l’esprit.
+
+Lors qu’un Philosophe veut dé couvrir, si la rondeur appartient à l’é tenduë , consulte-t’il l’idé e de l’ame ou quelqu’autre idé e que celle de l’é tenduë ?
+
+[^1926-107]: Am Rande: ,
+
+::: editorial
+
+(zu S. 1926) 2 f. Vgl. Joh. 1, 18; 1. Joh. 4, 12.
+
+:::
+
+[p. 1927] [p. 143 / 3, 166] On se rend mê mes ridicule parmi quelques Cartesiens, si l’on dit que l’ame devient actuellement bleuë , rouge, jaune
+
+Où est donc l’idé e claire de l’ame, afin que les Cartesiens la consultent; et qu’ils s’accordent tous sur le sujet, où les couleurs, les saveurs, les odeurs, se doivent rencontrer?
+
+[p. 145 / 3, 167] Mais qui ne voit qu’il y a bien de la diffé rence entre connoître par idé e claire et connoître par conscience? Quand je connois que 2 fois 2 sont 4, je le connois tres-clairement: mais je ne connois point clairement ce qui est en moi qui le connoît. Je le sens, il est vrai: je le connois par conscience ou par sentiment interieur.
+
+[p. 147 sq. / 3, 169 sq.] On voit sans peine en quoi consiste la facilité que les esprits animaux ont à se ré pandre dans les nerfs dans lesquels ils ont déja coulé plusieurs fois
+
+Mais que peut-on concevoir qui soit capable d’augmenter la facilité de l’ame pour agir ou pour penser? Pour moi j’avouë que je n’y comprens rien. J’ai beau me consulter pour découvrir ces dispositions: je ne me répons rien. Je ne puis m’é clairer sur cela, quoique j’aye un sentiment tres-vif de cette facilité avec laquelle il s’excite en moi certaines pensé es.
+
+Mais comme l’on a une idée claire de l’ordre, si l’on avoit aussi une idée claire de l’ame par le sentiment intérieur qu’on a de soi-même, on connoîtroit avec évidence si elle seroit conforme à l’ordre; on sç auroit bien si l’on est juste ou non; on pourroit mêmes connoître exactement toutes ses dispositions intérieures au bien et au mal, lorsqu’on en auroit le sentiment.
+
+[p. 149 / 3, 171] C’est qu’il faut consulter avec application l’idée de l’étenduë, et reconnoître que l’é tenduë n’est point une manié re d’ê tre du corps, mais le corps mê me, puisqu’elle nous est representée comme une chose subsistante, et comme le principe de tout ce que nous concevons clairement dans les corps. ECLAIRCISSEMENT SUR LE CHAPITRE HUITIÉME DE LA DEUXIÉME PARTIE DU TROISIÉME
+
+ECLAIRCISSEMENT SUR LE CHAPITRE LIVRE.
+
+[p. 150 / 3, 173] . . . il suffit de faire réfléxion, que tout ce qui existe se réduisant à l’ê tre ou aux manié res d’être, tout terme qui ne signifie aucune de ces choses, ne signifie rien.
+
+[p. 1928] [p. 152 / 3, 174] Par l’ê tre j’entens ce qui est absolu, ou ce qui se peut concevoir seul et sans rapport à autre chose. Par les manié res de l’ê tre j’entens ce qui est relatif, ou ce qui ne se peut concevoir seul.
+
+[p. 153 / 3, 175] Il est plus clair de dire que Dieu a créé le monde par sa volonté, que de dire qu’il l’a créé par sa puissance. Ce dernier mot est un terme de Logique: il ne réveille point dans l’esprit d’idée distincte et particuliére, et il donne lieu de s’imaginer que la puissance de Dieu peut être autre chose que l’efficace de sa volonté.
+
+ECLAIRCISSEMENT SUR LA CONCLUSION DES TROIS PREMIERS LIVRES.
+
+[p. 157–159 / 3, 182–184] Mais cela ne suffit pas pour justifier ce que j’ai pensé, et mêmes ce que j’ai dit ailleurs: Que nos sens s’acquittent admirablement bien de leur devoir, et qu’ils nous conduisent d’une maniére si juste et si fidéle à leur fin, qu’il semble que c’est à tort qu’on les accuse de corruption et de déréglement.
+
+Mais à l’é gard des poisons, je ne pense pas que nos sens nous portassent jamais à en manger, et je croi que si par hazard nos yeux nous excitoient à en goûter, nous n’y trouverions pas une saveur propre à nous les faire avaler, pourvû né anmoins que ces poisons fussent dans leur é tat naturel.
+
+Je demeure aussi d’accord, que nos sens nous portent maintenant à manger avec excés de certains alimens: mais c’est qu’ils ne sont point en leur état naturel. On ne mangeroit peut-ê tre point trop de bled, si on le mouloit avec les dents qui sont faites à ce dessein.
+
+Puisqu’ils se servent de leur raison, pour se preparer d’autres alimens que ceux que la nature leur fournit, j’avouë qu’il est né cessaire qu’ils se servent aussi de leur mê me raison pour se modé rer dans leur repas: et si les cuisiniers ont trouvé l’art de nous faire manger des vieilles savates en ragoû t, nous devons aussi faire usage de nô tre raison, et nous dé fier de ces viandes falsifié es
+
+Car si un homme n’avoit jamais mangé ni vû manger d’un certain fruit, et qu’il en rencontrâ t, il auroit d’abord quelque aversion et quelque sentiment de crainte en le goû tant.
+
+[p. 160 / 3, 184 sq.] Peut-ê tre que ces fruits trompent nó tre goû t, parce que nous en avons alté ré l’organe par une nourriture qui n’est point naturelle
+
+::: editorial
+
+(zu S. 1928) 11 ailleurs: vgl. N. MALEBRANCHE, De la recherche de la verité, I, 5, 1, S. 29 f.
+
+:::
+
+[p. 1929] Mais, supposé mêmes qu’il y ait des fruits dont le goût soit capable de tromper les sens les plus délicats, et qui sont encore dans leur perfection naturelle, on ne doit point croire que cela vienne du peché, mais seulement de ce qu’il est impossible qu’en vertu des loix tres-simples de la nature, un sens ait assez de discernement pour toutes sortes de viandes.
+
+[p. 161 / 3, 186] Car de même qu’une plaie se referme et se ré tablit d’elle-mê me, lorsqu’on a soin de la tenir nette et de la lé cher, comme font les animaux lorsqu’ils sont blessez: les maladies ordinaires se dissipent bien-tô t lorsqu’on demeure dans l’é tat, et qu’on observe exactement la manié re de vivre, que ces maladies nous inspirent comme par instinct ou par sentiment.
+
+[p. 162 / 3, 186] Ainsi on ne peut douter qu’il ne faille interroger ses sens pour sç avoir mê mes dans la maladie le moyen de ré tablir sa santé .
+
+Il faut que les malades soient extré mement attentifs à certains desirs secrets que la disposition actuelle de leur corps excite quelquefois en eux; et sur tout qu’ils prennent garde que ces desirs ne soient point une suite de quelque habitude pré cé dente.
+
+[p. 162 sq. / 3, 187] Mais si la maladie augmente quoiqu’il fasse diéte et qu’il demeure en repos; alors il est nécessaire d’avoir recours à l’expérience et au Médecin.[^1929-108] Il faut donc représenter exactement toutes choses à quelque Médicin expert.[^1929-109]
+
+[p. 163 / 3, 187] Car si cette aversion s’é toit excité e en nous en mê me tems que la maladie nous est survenuë , ce seroit une marque que cette espé ce de mé decine seroit de mê me nature que les mauvaises humeurs qui causent cette maladie, et qu’ainsi elle ne feroit peut-être que les augmenter.
+
+Néanmoins je croi qu’avant que de se hazarder à prendre des médecines fortes, ou dont on a beaucoup d’horreur, il seroit à propos de commencer par des remé des plus doux ou plus naturels; comme pouroit ê tre de boire beaucoup d’eau, ou de prendre quelque lé ger vomitif, si l’on a perdu l’appetit.
+
+[p. 163 sq. / 3, 188] Je croi donc qu’il faut suivre le conseil des Médecins sages, qui ne vont point trop vîte, qui n’espérent point trop dans leurs remédes, qui ne sont point trop faciles à laisser des ordonnances.
+
+[^1929-108]: Am Rande: ,
+
+[^1929-109]: Dazu: trop tard
+
+[p. 1930] . . . les Mé decins ne visitent point assez, et ordonnent trop.
+
+Je croi donc qu’il faut avoir recours aux Mé decins, et ne pas refuser de leur obeïr, si l’on veut conserver sa vie.
+
+Ils sç avent peu de chose avec exactitude, mais ils en sç avent toû jours plus que nous; et pourvû qu’ils se mettent en peine de connoître nôtre temperament, qu’ils observent avec soin tous les accidens du mal, et qu’ils ayent beaucoup é gard au sentiment inté rieur que nous avons de nous-mêmes; nous devons espérer d’eux tout le secours que nous pouvons raisonnablement espérer des hommes.
+
+[p. 165 / 3, 189] On dit ordinairement que la raison de l’homme est sujette à l’erreur, mais il y a en cela un équivoque auquel on ne prend point assez garde: car il ne faut pas s’imaginer que la raison que l’homme consulte soit corrompuë , et qu’elle le trompe jamais lorsqu’il la consulte fidé lement.
+
+Ce n’est point la raison de l’homme qui le sé duit, c’est son coeur: ce n’est point sa lumiére qui l’aveugle, ce sont ses ténébres: ce n’est point l’union qu’il a avec Dieu, ce n’est pas mêmes en un sens celle qu’il a avec son corps, c’est la dé pendance où il est de son corps qui le trompe.
+
+[p. 167 / 3, 190 sq.] Mais ce sentiment, qui ébranle tous les fondemens de la Morale, en ôtant à l’ordre, et aux loix éternelles qui en dépendent, leur immutabilité, et qui renverse tout l’é difice de la Religion Chré tienne, en dé poü illant Jesus-Christ ou le Verbe de Dieu de sa divinité , ne répand point encore assez de ténébres dans l’esprit pour lui cacher cette vérité, que Dieu veut l’ordre.
+
+[p. 168 / 3, 191 sq.] . . . il est évident que tout homme qui veut être heureux, doit tendre à Dieu sans cesse; et qu’il doit rejetter avec horreur tout ce qui l’arrê te dans sa course
+
+Voulons-nous sçavoir si nous irons au bal et à la comédie; si nous pouvons en conscience passer une grande partie du jour au jeu et à des entretiens inutiles
+
+. . . nous avons sujet de croire que nous allons augmenter ou assurer nô tre fé licité par l’action que nous pré tendons faire.
+
+[p. 169 / 3, 192] Mais si aprés avoir examiné avec soin nos obligations essentielles, nous reconnoissons clairement que nôtre être ni sa durée ne sont point à nous, et que nous faisons une injustice, que Dieu ne peut s’empê cher de punir, lorsque nous ne travaillons qu’à passer le tems agré ablement.
+
+. . . ne cherchons point de Directeurs qui nous consolent de ces reproches.
+
+[p. 1931] [p. 171 / 3, 194] Je scai qu’il y a une bé né diction particuliere de soû mettre ses sentimens aux plus sages.
+
+ECLAIRCISSEMENT SUR LE TROISIÉME CHAPITRE DU CINQUIÉME LIVRE.
+
+[p. 173 sq. / 3, 198] Mais afin de faire voir clairement que le plaisir et l’amour sont deux choses fort différentes, je distingue deux sortes de plaisirs. Il y en a qui pré viennent la raison, comme sont les sentimens agré ables, et on les appelle ordinairement plaisirs du corps. Il y en a d’autres qui ne préviennent ni les sens ni la raison, et on les appelle plaisirs de l’ame: telle est la joye qui s’excite en nous ensuite de la connoissance claire.
+
+[p. 174 / 3, 199] Car le plaisir qui pré cé de la raison, précéde certainement l’amour; puisqu’il pré cé de toute connoissance; et que l’amour en suppose quelqu’une. Et la joye au contraire ou le plaisir qui suppose la connoissance, suppose aussi l’amour, puisque la joye suppose le sentiment confus, ou la connoissance claire qu’on possé de ou qu’on possé dera ce qu’on aime.
+
+[p. 175 / 3, 200] . . . car il est vrai en un sens que l’amour demeure en nous dans les distractions et dans le sommeil, mais il me semble que le plaisir ne subsiste dans l’ame qu’autant qu’il se fait sentir à elle. Ainsi l’amour ou la charité demeurant en nous sans plaisir ou sans délectation, on ne peut pas soûtenir que le plaisir et l’amour ne soient qu’une seule et même chose.
+
+Comme le plaisir et la douleur sont les deux contraires, si le plaisir é toit la mê me chose que l’amour, la douleur ne seroit pas diffé rente de la haine.
+
+[p. 176 / 3, 201] . . . si la joye é toit la mê me chose que l’amour, la tristesse ne seroit pas diffé rente de la haine.
+
+[p. 177 / 3, 201] Je sçai bien que saint Augustin assure que la douleur est une aversion que l’ame a, de ce que le corps n’est pas disposé comme elle le souhaite. [p. 1932] ECLAIRCISSEMENT SUR LE CHAPITRE TROISIÉME DE LA SECONDE PARTIE DU SIXIÉME
+
+::: editorial
+
+(zu S. 1931) 25–27 Vgl. AUGUSTINUS, De civitate Dei, XIV, 15; XXI, 3 (PL 41, Sp. 424; 710–712).
+
+:::
+
+LIVRE.
+
+[p. 178 / 3, 203] Quelques Philosophes aiment mieux imaginer une nature et certaines facultez, comme causes des effets qu’on appelle naturels, que de rendre à Dieu tout l’honneur qui est dû à sa puissance.
+
+[p. 179 / 3, 204] Quelque effort que je fasse pour la comprendre, je ne puis trouver en moi d’idé e qui me repré sente ce que ce peut ê tre que la force ou la puissance qu’on attribuë aux cré atures.
+
+[p. 180 / 3, 205] Mais quelque effort que je fasse, je ne puis trouver de force, d’efficace, de puissance, que dans la volonté de l’Etre infiniment parfait.
+
+Lorsque des personnes ne peuvent s’accorder, n’y ayant point de raison d’interê t qui les en empê che, c’est une marque certaine qu’ils n’ont point d’idée claire de ce qu’ils disent, et qu’ils ne s’entendent pas les uns les autres.
+
+[p. 182 / 3, 207] Il est vrai que dans tous les siécles cette puissance a é té reconnuë pour ré elle et vé ritable de la plupart des hommes: mais il est certain que ç’a été sans preuve, je ne dis pas sans preuve démonstrative, je dis sans preuve qui soit capable de faire quelque impression sur un esprit attentif.
+
+[p. 184 / 3, 209] Un corps ne pouvant pas connoître les corps infinis qu’il rencontre à tous momens, il est visible que quand on supposeroit mêmes en lui de la connoissance, il ne pourroit pas faire dans l’instant du choc la distribution de la force mouvante qui le transporte lui-mê me.
+
+PREMIERE PREUVE.
+
+RÉPONSE.
+
+[p. 187 / 3, 212] C’est aux Péripatéticiens à donner à ceux qu’ils nomment Cartésiens, une idé e claire de ce qu’ils appellent vie des bêtes, ame corporelle, corps qui apperçoit et qui desire, qui voit, qui sent, qui veut, et ensuitte on résoudra clairement leurs difficultez, si aprés cela ils continuent de les faire.
+
+[p. 1933] AUTRE PREUVE.
+
+On ne pourroit pas reconnoître les différences ni les vertus des élémens: il se pourroit faire que le feu râfraichiroit comme fait l’eau: la nature de chaque chose ne seroit point fixe et arrê té e.
+
+TROISIÉME PREUVE.
+
+[p. 189 / 3, 215] [Il seroit inutile de labourer, d’arroser et de donner de certaines dispositions pour préparer les corps à ce qu’on souhaite qui leur arrive: car Dieu n’a pas besoin de ces dispositions pour produire ses effets.]
+
+RÉPONSE.
+
+Je répons que Dieu peut absolument faire tout ce qui lui plaît, sans trouver de dispositions dans les sujets sur lesquels il agit. Mais il ne le peut faire sans miracle, ou par les voyes naturelles, c’est à dire selon les loix générales de la communication des mouvemens qu’il a établies, et selon lesquelles il agit presque toû jours.
+
+QUATRIÈME PREUVE.
+
+RÉPONSE.
+
+[p. 191 / 3, 216] Donc les causes secondes font tout, et Dieu ne fait aucune chose. Car Dieu ne peut pas agir contre lui-même, et concourir c’est agir.
+
+[p. 192 / 3, 217] Car je suis persuadé que ces deux loix naturelles qui sont les plus simples de toutes: sç avoir que tout mouvement se fasse ou tende à se faire en ligne droite; et que dans le choc les mouvemens se communiquent selon la proportion de la grandeur des corps qui se sont choquez, suffisent pour produire le monde tel que nous le voyons; je veux dire le ciel, les étoiles, les planétes, les cométes, la terre et l’eau, l’air et le feu; en un mot les élémens, et tous les corps qui ne sont point organisez ou vivans: car les corps organisez dé pendent de beaucoup d’autres loix naturelles qui sont entiérement inconnuës. Peut-être mêmes que les corps vivans ne se forment pas comme les autres par un certain nombre de loix naturelles. Car il y a bien de l’apparence qu’ils ont é té formez dè s la cré ation du monde, et qu’ils ne [p. 1934] reç oivent plus par le tems que l’accroissement né cessaire pour se rendre visible à nos yeux.
+
+[p. 195 / 3, 220] On a un grand exemple de ce que je viens de dire, dans la damnation d’un nombre infini de personnes que Dieu a laissé pé rir dans les sié cles de l’erreur. Dieu est infiniment bon; il aime tous ses ouvrages; il veut que tous les hommes soient sauvez, et qu’ils viennent à la connaissance de la vérité; car il les a faits pour jouïr de lui: et cependant le plus grand nombre se damne? . .
+
+Le péché du premier homme a produit une infinité de maux; il est vrai. Mais certainement l’ordre demandoit que Dieu le permît, et qu’il mît l’homme en é tat de pouvoir pé cher.
+
+CINQUIÉME PREUVE.
+
+RÉPONSE.
+
+[p. 199 / 3, 224] Ils [scil. bien des gens] veulent bien que Dieu soit Auteur des miracles et de certains effets extraordinaires qui sont en un sens peu dignes de sa grandeur et de sa sagesse.
+
+SIXIÉME PREUVE.
+
+[p. 199 sq. / 3, 224] La principale preuve, que les Philosophes apportent pour l’efficace des causes secondes, se tire de la volonté de l’homme et de sa liberté .
+
+RÉPONSE.
+
+[p. 200 / 3, 225] J’avoüe que l’homme veut, et qu’il se détermine lui-même: parce que Dieu le fait vouloir, qu’il le porte incessamment vers le bien, qu’il lui donne toutes les idées et tous les sentimens par lesquels on se détermine.
+
+L’homme n’a de lui-même que l’erreur et le pé ché qui ne sont rien.
+
+[p. 201 / 3, 225] Je sç ai que je veux et que je veux librement; je n’ai aucune raison d’en douter.
+
+::: editorial
+
+(zu S. 1934) 25 Vgl. Concilium Arausicense, 2, Can. 22: Nemo habet de suo nisi mendacium et peccatum. (MANSI VIII, Sp. 716C).
+
+:::
+
+[p. 1935] [p. 203 / 3, 227] [note y] . . . je dis que le sentiment inté rieur n’est point infaillible; car l’erreur se trouve presque toû jours dans ces sentimens, lorsqu’ils sont composez. Je l’ai suffisamment prouvé dans le premier Livre de la recherche de la Vérité.[^1935-110]
+
+[p. 204 sq. / 3, 229] . . . c’est par préjugé que nous croyons que nos desirs sont causes de nos idées, c’est que nous é prouvons cent fois le jour qu’elles les suivent ou qu’elles les accompagnent.
+
+SEPTIÉME PREUVE.
+
+RÉPONSE.
+
+[p. 211 / 3, 235] [note n] Quomodo enim est contra naturam quod Dei fit voluntate: cum voluntas tanti utique conditoris conditae rei cujusque natura sit?
+
+[p. 214 / 3, 237] Les Theologiens, dis-je, ont trouvé ce tempérament pour accorder la Foi avec la Philosophie des Payens, et la raison avec les sens, que les causes secondes ne feroient rien, si Dieu ne leur prê toit son concours. Mais parceque ce concours immediat, par lequel Dieu agit avec les causes secondes, renferme de grandes difficultez, quelques Philosophes l’ont rejetté , pré tendant qu’afin qu’elles agissent, il suffit que Dieu les conserve avec la vertu qu’il leur a donné e en les cré ant.
+
+[p. 216 / 3, 240] Car en leur disant que Dieu fait tout, ils auroient seulement prétendu dire que Dieu donne son concours pour toutes choses, et apparemment les Juifs ne pensoient pas seulement à ce concours; ceux d’entre les Juifs qui ne sont point trop Philosophes, croyant que c’est Dieu qui fait tout, et non pas que Dieu concourt à tout.
+
+[p. 217 / 3, 240 sq.] Je croi, comme j’ai déja dit ailleurs, que les corps, par exemple, n’ont point la force de se remüer eux-mêmes, et qu’ainsi leur force mouvante n’est que l’action de Dieu; ou pour ne me point servir d’un terme qui ne signifie rien de distinct, leur force mouvante n’est que la volonté de Dieu
+
+[^1935-110]: Dazu zunächst: supra contrarium dann überschrieben: add. supra p. 10, conciliari possunt pag. 10 et 203.
+
+::: editorial
+
+(zu S. 1935) 10 f. Quomodo . . . sit: AUGUSTINUS, De civitate Dei, XXI, 8.
+
+:::
+
+[p. 1936] Cela étant, lors qu’un corps en choque et en meut un autre, je puis dire qu’il agit par le concours de Dieu, et que ce concours n’est pas distingué de son action propre.
+
+[p. 218 / 3, 242] Donc nous n’agissons que par le concours de Dieu: et nô tre action considé ré e comme efficace et capable de produire quelqu’effet, n’est point diffé rente de celle de Dieu: c’est comme le disent la plûpart des Théologiens, toute la même action: Eadem numero actio.
+
+[p. 219 sq. / 3, 243] . . . il n’y a rien que Dieu ne fasse par la même action que celle de sa créature: non que les créatures ayent par elles-mêmes aucune action efficace; mais parce que la puissance de Dieu leur est en quelque sorte communiquée par les loix naturelles que Dieu a établies en leur faveur.
+
+Voilà tout ce que je puis faire, pour accorder ce que je pense avec le sentiment des Théologiens, qui soûtiennent la nécessité du concours immédiat, et que Dieu fait tout en toutes choses par la même action que celle des créatures. Car, pour les autres Thé ologiens, je croi que leurs opinions sont insoû tenables en toutes manié res, et principalement celle de Durand, et celle de quelques Anciens que ré fute saint Augustin, qui nioient absolument la né cessité du concours, et qui vouloient que les causes secondes fissent toutes choses par une puissance que Dieu leur a donné e en les cré ant.
+
+J’avouë que les Scholastiques, qui disent que le concours immédiat de Dieu est la même action que celle des créatures, ne l’entendent pas tout-à-fait comme je l’explique; et qu’excepté Biel et le Cardinal d’Ailly, tous ceux que j’ai lûs, pensent que l’efficace qui produit les effets, vient de la cause seconde aussi-bien que de la premié re.
+
+[p. 222 / 3, 245] Car on ne justifiera jamais par cette Philosophie l’amour des richesses, la passion pour la grandeur, l’emportement de la débauche, puisque l’amour des corps paroît extravagant et ridicule selon les principes que cette Philosophie établit.
+
+[p. 225 / 3, 247] J’avouë qu’ils [scil. les grands pêcheurs] se trompent, mais l’efficace des causes secondes é tant nulle, ils n’ont rien de solide pour justifier leur conduite.
+
+::: editorial
+
+(zu S. 1936) 16 Vgl. DURAND von St. Pourçain, In IV libros sententiarum, in 2. dist. 1. qu. 5 u. dist. 37. 17 Vgl. AUGUSTINUS, De genesi ad literam, V, 20. 23 Vgl. G. BIEL, Epitome et collectorium ex Occamo circa IV. sententiarum libros, dist. 1, qu. 1 u. PIERRE D’AILLY, In IV libros sententiarum, dist. 1, qu. 1.
+
+:::
+
+[p. 1937] [p. 228 sq. / 3, 251] Les Philosophes, et principalement les Philosophes Chrétiens, devroient combattre incessamment les jugemens des sens, ou les préjugez, et particuliérement les préjugez aussi dangereux qu’est celui de l’efficace des causes secondes: et cependant je ne sç ai par quel principe des personnes, que j’honore extré mement et avec raison, tâ chent de l’é tablir, et mê mes de rendre odieuse, et de faire passer pour superstitieuse et extravagante une doctrine aussi sainte, aussi pure, et aussi solide qu’est celle qui soû tient que Dieu seul est l’unique cause veritable. ECLAIRCISSEMENT SUR CE QUE JE DIS DANS LE CHAPITRE QUATRIÉME DE LA SECONDE
+
+PARTIE DE LA MÉTHODE.
+
+[p. 231 / 2, 504] Je prens un exemple sensible pour me faire mieux entendre, et je suppose que Dieu veüille que le corps A choque le corps B. Puisque Dieu sçait tout, il connoît parfaitement que A peut aller choquer B par une infinité de lignes courbes, et par une seule ligne droite. Or Dieu veut seulement le choc de B par A, et l’on suppose qu’il ne veut le transporter de A vers B, que pour ce choc.
+
+[p. 234 / 2, 506] . . . il y a certaines loix générales selon lesquelles Dieu prédestine et santifie en Jesus-Christ ses élûs, et que ces loix sont ce que nous appellons l’ordre de la grace, comme les volontez générales selon lesquelles Dieu produit et conserve tout ce qui est dans le monde, sont l’ordre de la nature.
+
+Je ne sçai si je me trompe, mais il me semble qu’on peut tirer directement de ce principe bien des consé quences, qui ré soudroient peut-ê tre des difficultez sur lesquelles on a beaucoup disputé depuis quelques anné es.
+
+[p. 236 / 2, 508] C’est peut-ê tre mê me ce dé faut de premié re pensé e de prier, et de considé rer ses obligations en la pré sence de Dieu, qui est la source de l’aveuglement de bien des gens, et par conséquent de leur damnation éternelle: Car Dieu agissant toûjours par les voyes les plus simples, n’a pas dû leur donner par des volontez particuliéres, des pensées qu’ils auroient obtenuës en vertu de ses volontez générales, s’il avoient une fois pris la coû tume de prier ré gulié rement en certains tems.
+
+Apparemment c’est pour ces raisons que Dieu ordonna autrefois aux Juifs d’écrire ses Commandemens sur la porte de leurs maisons, et d’avoir toûjours quelques marques sensibles qui les en fissent ressouvenir: cela é pargnoit à Dieu une volonté particulié re, s’il est permis de parler ainsi, de leur inspirer ces pensées.
+
+[p. 1938] [p. 237 / 2, 508] Les Pharisiens tiroient de la vanité de porter des signes sensibles et mémoratifs de la Loi de Dieu, comme Jesus Christ le leur reproche: et les Chrêtiens se servent souvent des Croix et des Images par curiosité, par hypocrisie, ou par quelque autre raison d’amour propre. Cependant, ces choses pouvant faire penser à Dieu, il est tres-utile de s’en servir; car il faut autant qu’on le peut, faire servir la nature à la grace, afin que Dieu puisse nous sauver par les voyes les plus simples.

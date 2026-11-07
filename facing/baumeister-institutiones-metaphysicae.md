@@ -1,0 +1,4893 @@
+---
+title: Institutiones metaphysicae
+author: Friedrich Christian Baumeister
+year: 1739
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Institutiones metaphysicae, ontologiam, cosmologiam, psychologiam, theologiam denique naturalem complexae, methodo Wolfii adornatae (Wittenbergae & Servestae 1739; first printing 1738); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, corrected by rules and an Opus read of the text (not page by page against the scan); word error 5.9% on 6 held-out pages against a Sonnet transcription (about 8 errors a page; most section heads not recovered); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Institutiones metaphysicae was written by an author who died in 1785, so before 1931; Friedrich Christian Baumeister (d. 1785) is long out of protection and the edition (1739) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-02 by _normalize_work/wg_export.py (library id 10364)
+---
+
+# F. C. Baumeister, *Institutiones metaphysicae* (1739)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. i] bsb10042691_00001 [p. ii] s x l
+
+Iſ EX BIBLIOTA NATIONIS IIU ſVv0 VITEBERG. E
+
+SIGNAT. c1o1cCCxill. B
+
+[p. iii] 10 40. 2 24 36 100.2 < 36630692730016 S E 2 < 36630692730016 Bayer. Staatsbibliothek ว
+
+[p. iv] M3752 Ph. So so Baumeister Philos. Metaph. Instit. 909.
+
+#### [p. v] M. FRID. CHRIST. BAVMETSTERI
+
+AVGVSTI GYMNASII GORLICENSIS RECT O RI S
+
+INSTITVIIONES METAPHYSICA A.. A
+
+ONTOI. OGIAM COSMOLOGIAM, Psychologiam THEOLOGIAM DENIQVE NATVRALEM COMPLEXAE METHODO Ex Libris ſ]
+
+VVOLFII ADORNATAE Reginaldi C. J. D. Ang EDITIO
+
+Nova AvcTiOR ET CORRECT. vla ErE NBEG I SERVI I t, Svrve SAM. HODOFR. ZIMMERMANNI, I744
+
+[p. vi] Bayerische Staatsbibliothek München
+
+[p. vii] A.
+
+PRAEFATIO A AD LECTOREM. tque ita tandem, quam dudum dedi, fidem ſoluo, non profecto i laborem, inchoatam, ſoluturus, niſi uel me inuitum ad laborem, quem inchoatam, per- ficiendum uaria commouiſſent. Rem narrabo. Tres nunc ſunt anni, cum inſtitutiones philoſophiae rationalis edidi. Verſabar tum Vitembergae, in erudienda iuuentute occupatus. Libellum, meis adornatum uſibus, explicabam commilitonibus, nec id ſine omni, ut opinor, fructu, cum maximo certe, (quod praefiscine dixerim) audientium plauſu. Vix dum ea, quae typis curaueram excudenda, interpretari occoeperam, cum auditorum haud pauci me ro- garent, A
+
+[p. viii] PRA EPF A4 T IO. garent, ut Metaphyſicam eadem conscriberem methodo. Commilitonum ſatisfacturus precibus, meditabar opus. At, quod interea offerebatur mihi, nouum munus nimium quantum! rationes meas conturbabat. Cum enim, de Cathedra deuocatus Academica, praeter omnem meam ſpem et exſpectationem, rei ſcholaſticae gubernaculis admouerer, iis me destinati uidebam laboribus, ut de metaphyſica ne cogitare quidem possem. Nec de ea, in lucem emittenda, nunc cogitaſſem, niſi et Bibliopola, cum quo tranſegeram, me urſiſſet, et eruditiorum plurimi cum in literis, ad me datis, tum in publicis ſcriptis, ad fidem liberandam eſſent cohortati; Amicorum itaque obſecutus uoluntati, quicquid huius eſt ſcriptionis, tibi offero, L. B. maioremque in modum Te rogito, uelis naeuos, qui, mę abſente, irrepserunt, benignius excuſare Quod reliquum eſt, ſub noui anni auspicia, prosperrima quae- que Tibi apprecor, remque Tuam ex uoto feliciterque agere Te uolo. Vale. Gorlicii clIb In ccxxx vir. Ipſis Calend. Ianuariis. : §. 1. INSTI ۱
+
+[p. ix] INSTITVTIONVM METAPHYSICARVM PROLEGOMENA.
+
+METAPHYSICES NATVRA ET IN- DOLE INTERIORE, VSVQVE C ITEM INSIGNI. J. I. i um, qua ante hunc annum, methodo inſtitutiones philoſophiae rationalis conscripsi, eadem nunc metaphyſicam, in recitationum mearum academicarum uſum, adornare mecum conſtituerim, operae pretium existimo, nonnulla de ele- gantiſſimae huius utiliſſimaeque diſciplinae natura intrinſeca, uſuque peramplo praefari. Quae autem hic, προλεγομένων praemissurus ſum, cum eo pertinebunt, ut ii, qui animum praeceptis metaphyſicis imbuere uolunt, ſciant, in qua potiſſimum re ipſorum curae euigilare debeant, tum uel maxime ideo diſputabuntur, ut imperiti rerum metaphy- ſicarum oſores deſinant tandem et erubeſcant
+
+A meta-
+
+[p. x] 2 Metaphyſices prolegomena. metaphyſicam iniquius criminari, deſpi- cere, et ad quisquilias ac purgamenta amandare. Vt uero, quae ſit metaphyſicae interior natura, distinctius intelligatur, nonnullas praemittemus positiones, ex quibus, ſufficienter intellectis, euidentissime patebit, quid tandem ſit illud, quo me- taphyſica ab omnibus aliis rebus et diſciplinis internoscatur.
+
+§. 2. - Omnem noſtram cognitionem originem ſuam ultimam et prima incunabula repetere a ſenſibus, id uero, nemo eſt, qui negare audeat. Quicquid autem ſenſibus percipimus, id omni modo eſt determinatum (Log. 100) et multiplicibus circumſtantiis, uel loci, uel temporis, uel personae, inuolutum et ueſtitum nobis ſiſtitur.
+
+§. 3. Quamuis uero res indiuiduae ſiue exiſtentes, ſenſibus perceptae, ob innumeras circum- ſtantias determinationesque omnimodas ita a ſe inuicem differant, ut altera alteri nunquam in omnibus ſimilis deprehendatur, nihilo minus dantur determinationes et notae, quas habent indiuidua, multum alio- quin a ſe inuicem diſcrepantia, communes, et in quibus eadem perpetuo conueniunt. conf. Logic. 1o4.) Summ
+
+[p. xi] Metaphyſices prolegomena. 3 : Sumas e. gr. complura indiuidua, Caium, Petrum, Paullum, Sempronium, hunc canem, hanc menſam, hoc atramentarium, hunc librum, etc. In his, quod negari non poteſt, miram animaduertes diuerſitatem, ſed in quibusdam tamen de- terminationibus eadem perpetuo ſibi ſimilia eſſe, deprehendes,
+
+#### e. gr. in eo, quod haec omnia indiuidua ſint
+
+ſubſtantiae, quod ſint entia compoſita, quod exiſtant, adeoque ad claſſem entium referri debeant.
+
+9: §. 4. rebus pluribus Cum has determinationes, rebus pluribus communes, nobis animo sistimus, tunc re- praeſentationes harum affectionum, rebus pluribus communium, dicuntur notiones uniuerſales (5. 108. io9. Log.) itemque abstractae, quia formantur ope abſtractionis (§. II. Log.) ſcientia autem uniuerſalium, ſiue diſciplina illa, in qua notiones, a rebus indiuiduis abſtractae, et iisdem communes, diſtincte ex- plicantur, generali nomine dicitur Metaphysica. (conf. Log s 45. p.31.) Metaphysices nomen, in numero singulari pro ſcientia uniuerſalium, ſiue diſciplina notionum ab- ſtractarum uſurpatum, in Ariſtotelis ſcriptis nunquam legi, dudum obſeruarunt eruditi. Ariſtoteles
+
+### XIV. reliquit libros, quos inſcripſit æẽ uerœ
+
+Φυσικά idque uel ideo, quia ea, quae in his XIV. libris Ariſtotelis pertractantur, poſt phyſicam demum ſunt inuenta, atque hoc ſenſu μετὰ ſigni-
+
+A2 ficabit
+
+[p. xii] 4 Metaphysices prolegomena. ficabit post, uel ideo, quia in libris metaphyſicis eiusmodi notiones enodantur, quae ſunt ſupra res naturales, ſenſibus obuias, quaeque adeo ad ab- ſtractionem pertinent. In his libris, qui nomine 7ò ueTẽ ò Qunò circumferuntur, Aristoteles id unice ſibi habebat propoſitum, ut de ente, prout ens eſt, eiusque primis cauſſis, et principiis commentaretur. Quid 12 uero philoſophus per ens, prout ens eſt, intellexerit, non ſatis definire uidentur ipſius interpretes. Satis hic habebo, adduxiſſe uerba Cel. Hollmanni, qui in prolegomenis philosophiae primae 6. VII. Nihil aliud, inquit, Ariſtoteli in libris, quos uocat uerè Quoę, pertractare propoſitum fuit, quam ut maxima, qua quidem poterat, ἀκριβείᾳ inquireret, num praeter res ſen- sibiles, perpetuo fluentes, in rebus omnibus adhuc quid detur, quod magis conſtans et perpetuum ſit, illisque quaſi ſubſtet, quodque adeo et pro illorum principio caussaque prima reputari queat, Plura addit eruditissimus uir, quae ad mentem ſententiamque Aristotelis rectius inſpiciendam mirifice faciunt. Caeterum in eo conueniunt eruditorum plerique, quod Ariſtoteles in libris Metaphyſicis tradere inſtituerit ſcientiam de Deo, atque id ita quidem, ut praemiſerit quaedam, praeparationis loco et ordinis cauſſa, de ente genera- tim ſpectato, ſpiritibuſque finitis. Scholaſtici, non intellecta recte Aristotelis mente, dici non poteſt, quam ſumma imis miſcuerint. in systemate aliquo metaphyſices ad mentem Ariſtotelis e formando. Quam ipſi inierant metaphysicam tractandi
+
+[p. xiii] Metaphysices prolegomena. 5 1 Tractandi rationem, nemo liberalioris ingenii nunc cogitat, quin, ipſam metaphyſicam ſibi exoſam eſſe, ſentiat. Vſque enim adeo ſcholaſtici nugis ineptiiſque operam dabant, ut quantiuis ſibi tum demum uiderentur pretii, cum abstractionum ab- ſtractiones, et diuisiones diuisionum proferre, cum terminos, mente caſſos, barbaros, et nefando quidem auditos, procudere poterant. Quo factum, ut metaphyſica plurium ludibrio fuerit exposita, et propemodum conuicti loco habitum, uocari metaphyſicum. At poſtquam, pulſa ſcholaſticorum barbarie, metaphyſica dignitati honori- que ſuo priſtino reſtitui coepit, eo nunc prodit ha- bitu, ut, quantum diuerſa eſt a ueterum ſchola- ſticorum metaphyſica, tantum sui cultoribus adferat emolumenti. Aliorum conatus laudabiles in aſſerenda Metaphyſices dignitate nunc reticemus, Vvolfii tantum methodum, metaphyſicam tractandi, hic paucis adducturi. Refert Vir illuſtris ad metaphyſicam Ontologiam, ſiue philoſophiam primam, in qua prima et communiſſima omnis cognitionis humanae principia explicantur, item notiones generaliſſimae et uniuerſaliores enodantur diſtincte, et poſitiones, ob uniuerſalitatem ſuam, ad nullas diſciplinas ſingulares, referendae, accurate demonſtrantur. B) A Volfio ad metaphyſicam referri, ſcimus, Coſmologiam, ſiue disciplinam illam, in qua de uniuerſo in genere agitur, et, notionibus generalibus et abſtractis de mundo explicatis, non niſi talia de mundo demonstrantur, quae mundo, ut enti compoſito et mutabili, tri- buun- A 3 1
+
+[p. xiv] §. 6. Metaphyſices prolegomena. 1 buuntur. 7) Exponit VVolfius in Metaphyſica Psychologiam, ſiue ſcientiam animae, in qua, I) ea tradit, quae per experientiam de anima nobis in- noteſcunt, 2) ea demonſtrat, quae de anima, ope ratiociniorum, ex experientiis, rite ſtabilitis, deductorum, noſſe nobis datum eſt. Hinc pſychologiam diuidit in empiricam et rationalem. ò) Refert denique ad Metaphyſicam Theologiam naturalem, ſiue ſcientiam de Deo, eius exiſtentia, attributis et operibus
+
+5s. Quae quidem, metaphyſicen tractandi, ratio cum commodiſſima et maxime completa eſſe uideatur, ducem Vvolfium ita nunc ſequemur, ut primo notiones generaliſſimas, et principia cognitionis humanae communiſſima diſtincte in Ontologia exponamus, deinde his ſcientiam mundi in genere, ſiue coſmologiam transcendentalem ſubiungamus, tum ea, quae, cum per experientiam, tum per ratiocinia, de anima nouimus, in psychologia empirica et rationali adducamus, et de- nique in Theologia naturali de exiſtentia Dei, eius attributis operibusque commentemur.
+
+Eadem Cel. Bülfingerus in dilucidat. philoſophicis §. 2. ad metaphyſicam requirit. Tenetur, inquit uir acutiſſimus, illa diſciplina (metaphyſica nimirum) 1) ideas rerum generalissimas ſic uoluere, ut eo magis certae fiant, distinctaeque et foecundae,
+
+[p. xv] Metaphysices prolegomena.
+
+§. 7. cundae conclusionum 2) Tenetur summa rerum genera ordinare et connectere, discrimina etiam, subtilius licet eruenda, peruestigare, exponere, et applicare tollendis difficultatibus. 3) Tenetur principia et propoſitiones generaliſsimas exhibere, quae axiomatum requisitis gaudent, declarare et applicare in generalibus, in caeteris applicandi modum oſtendere, quae axiomata non ſunt, ex talibus demonstrare, 4) Tenetur doctrinas in physica, in philosophia morali etc. praesuppositas, etsi non generaliſſimas, v. c. de natura animae humanae, et ſimiles, ſic euoluere, ut iiſdem, quoad fieri poteſt, demonſtrandis ſubſeruiant et ſufficiant. 5) Tenetur denique cognitionem de rebus creatis generalem, et de Deo ſpecialem ſic tradere, ut in- telligatur, quis ſit rerum omnium a Deo ortus, ſub Deo progreſſus, et ad Deum reditus? In s. II. ſubſequenti pergit ita Bülfingerus: Non igitur, mea ſententia, plena est tractatio metaphyſica, niſi et Ontologiam, et Coſmologiam, et Pſychologiam, et Theologiam naturalem complectatur.
+
+s. 6.metaphysicam, qua- His in unum collectis, metaphysicam, qua- tuor dictas disciplinas complexam, cum Thümmigio definimus per ſcientiam entis et mundi in genere rerumque immaterialium.
+
+Mlv De uſu metaphyſicae, non eſt, quod multa hic proferamus. Quicquid enim ontologia, A 4 cosmo-
+
+[p. xvi] §. 8. Metaphysices prolegomena. A cosmologia, pſychologia,
+
+Theologia denique naturalis ubi adfert commodi, id omne a metaphyſica, has ſcientias complexa, (õ. 5.) ſperare poteris. Quare cum in peculiari cuiusque diſciplinae pertractatione uſum quoque, quem quaeque harum ſcientiarum ſui cultoribus praeſtat, enarraturi ſimus, non eſt, quod pluribus hic emolumenta metaphyſicae et fructus percenſeamus.
+
+INSTITVTIONES:- ONTOLOGIAE. SEV PHILOSOPHIAE PRIMAE.
+
+PROLEGOMENA. 4. 8. ſum ontologia primam conſtituat metaphyſices partem, 5.) ab huius di- sciplinae pertractatione ordiendum eſſe, in- telligitur. Et, quia ontologia in eo occupata eſſe debet, ut generaliſſimos conceptus et notiones diſtincte explicet, ũ. 4) in eo autem conceptu omnia conueniunt, quod entia ſint, eum tractandi ontologiam ordinem obseruabimus, ut, praeſtructis primis omnium ueritatum principiis, ab entis conceptu generaliori primordia capiamus, ex  eo communis fimas
+
+[p. xvii] Ontologiae prolegomena. §. 9. ſim s et generaliſſimas poſitiones deducturi. Atque hinc est, ut Ontologiam definimus per ſcientiam entis in genere, ſeu quatenus ens eſt. Ontologia, quae erat ueteribus metaphysica, ſtricte sic dicta, quamque nos pro prima et uniuer- ſali metaphyſices parte habemus, dicitur alias quoque Ontosophia, item philoſophia prima. Philo- Sophia autem prima ideo appellatur, quia in eadem prima ueritatum omnium principia, et primae no- tiones, in aliis diſciplinis applicandae, et in ratiocinando maximo uſui futurae, traduntur.
+
+Propoſitiones, 5. 9. Propositiones, in ontologia occurrentes, debere demonstrari, ex definitione ontologiae, f.antecedenti suppeditata, intelligi poteſt. Demonſtr. Cum enim ontologia ſit ſcientia entis in genere, ũ5. 8) illa autem disciplina, in qua aſſerta accurate demonſtrantur, mereatur demum nomen ſcientiae (§. 27. Log.) manife- ſtum eſt, propoſitiones, in ontologia occurrentes, debere Demonstrari. Excipi tamen hic uolumus poſitiones illas, quae ex terminis oppido intelliguntur, atque adeo inter axiomata, et demonſtrandi principia certa referuntur. Tales poſitiones, et poſſumus, et debe- mus, ſalua omni certitudine, ſine demonstratione aſſumere.
+
+Aj .o.
+
+[p. xviii] E= jHllj5 IO Ontologiae prolegomena.
+
+s5 n. Vnde exiſtit haec propoſitio: In ontologia ueritates ita ſunt connectendae, ut principia certa et indubitata praemittantur, et ex his caetera aſſerta deducantur. Demonſtr. Cum enim in ontologia omnia aſſerta demonſtrari debeant, ſ. 9.) aſſerta autem tum demum demonſtrentur, cum eadem ex principiis certis et indubitatis legitimo nexu deducuntur, ſꝗ. 386. Log) palam eſt, poſitiones in ontologia eſſe ita connectendas, ut principia certa et indubitata praemittantur, et ex his caetera aſſerta deducantur. 5. II.
+
+Veritates itaque ontologicas methodo mathematica proponendas eſ- ſe, recte affirmatur. Demonſtr. Cum enim methodus mathematica ſit ille ordo tractandi ueritates, quo ex principiis certis et indubitatis asserta nexu legitimo deducuntur, (I.34. Log.) in ontologia uero eiusmodi ordo obſeruari debeat, (§.10.) patet, ueritates ontologicas eſſe methodo mathematica pertractandas. c. 12.
+
+[p. xix] Ontologiae prolegomena. II
+
+5. I2. Ex quo conficitur, in ontologia nullum terminum, niſi accurate definitum, adhiberi debere. Demonſtr. Cum enim haec praecipua lex ſit methodi mathematicae, ut nullus terminus, niſi accurate definitus, adhiberi debeat, 34. Log.) ontologia autem methodo mathematica pertractari debeat, (§. 11.) intelligitur, nullum terminum, niſi accurate definitum, in ontologia adhibendum eſſe.
+
+Ex Logicis uero conſtat, in determinandis et definiendis terminis non poſſe procedi in infinitum, ũ 57. Log.) nec illos quidem terminos definiri  debere, qui ſatis ſunt ſimplices, nec cum ueritatibus demonſtrandis ullum habent nexum. Scholaſtici in ontologiae pertractione ſaepenumero ſatis habebant, claram tantum et confuſam cum terminis ontologicis coniunxiſſe notionem, definitione termini usurpati, uel nulla, uel ſpuria certe minusque legitima, adhibita, id quod in recitationibus ipſis illuſtrabo et confirmabo pluribus exemplis Nos uero, lege methodi commonefacti, id vel maxime operam dabimus, ut ter- minos, cum quibus confuſa alias notio a ueteribus combinabatur, diſtinctius enodemus, et, definitio- nibus legitimis in ſubſidium adhibitis, quae cui- que termino reſpondeat notio, exponamus.
+
+5 53.
+
+[p. xx] §. 12. Ontologiae prolegomena.
+
+5. I3- Conficitur ex his, ontologiam ſiue philoſophiam primam minus recte a quibusdam haberi pro lexico philo- Sophico. : Demonstr.
+
+Lexicorum proprium eſt, ut in iis uocum ſaltem ſignificatus explicetur, et uoces unius linguae per uoces alterius reddantur. Cum uero in ontologia ſiue philo- ſophia prima non uocum modo ſignificatus explicetur, ſed generales poſitiones continuò legitimoque nexu demonſtrentur, (§. 9.) oppido intelligitur, ontologiam minus recte appellari Lexicon philoſophicum Fert ita nonnullorum consuetudo, ut, cum contemtum ontologiae produnt, eam nominent Lexicon philosophicum, farraginem item terminorum barbarorum et horriſonorum At hi, cum ontologiae placita eiusdemque uſum inſignem ignorent, mirum non eſt, quod tam abiecte tam- que humiliter ſentiant de utiliſſima illa diſciplina, quam merito optimoque iure acutiſſimus Leibnitius ſcientiam principem nominauit.
+
+5 I- Ex his omnibus conſtare nunc poteſt, quam amplus ſit uſus ontologiae ſiue philoſophiae primae. Vt uero, quantae ſit utilitatis ontologia, luculentius intelligatur, nonnullas poſi-
+
+[p. xxi] Ontologiae prolegomena. §. 13. 1 positiones hic adiiciemus, quibus uſus ontologiae uberius ſigillatimque declarabitur.
+
+5 I5. Ontologia reliquis ſcientiis philo- Sophicis omnibus antecellit, earum- demque caput merito dici poteſt. Demonstr. Cum enim in ontologia notiones generaliſſimae determinentur, itemque propoſitiones communiſſimae demonſtrentur, 4.9) patet, in ontologia eiusmodi principia suppeditari, quae omnibus reliquis ſcientiis philoſophicis ſunt communia, et ex quibus peculiares caeterarum ſcientiarum ueritates robur ſuum et ſtabilitatem nanciſcuntur. Vt adeo recte, ontologiam reliquis scientiis antecellere, earundemque caput eſſe, poſſimus affirmare.
+
+§. 16. Sine ontologia cognitio nostra ueritatum, nec certa, nec solida eſſe poteſt. Demonſtr. Cum cognitio noſtra ueritatum tum demum certa euadat, quando ueritates uel indubia ſenſione niti comperimus, uel easdem demonſtrare possumus, (V 4I. Log.) ueritates uero tum demonstremus, cum easdem A
+
+[p. xxii] 14 Ontologiae prolegomena. dem ex primis ſuis immotisque principiis deriuamus, (8:86. Log.) manifestum eſt, ſine diſtincta cognitione principiorum, quibus ueritates nituntur, nullam omnino certam cognitionem poſſe obtineri. Iam uero cum. generaliſſima ueritatum principia in ontologia ſuppeditentur et ſtabiliantur, (§. 4.) euidens eſt, ſine ontologia noſtram cognitionem certam eſſe non poſſe.
+
+Porro quia omnis ſolida cognitio illa eſt, qua ueritates ita habemus perſpectas, ut eaſdem poſſimus demonſtrare (per defin. ſolid. conf. §. 483. Log.) nemo autem ueritates ita poſſit perſpectas habere, ut easdem poſſit demonſtrare, niſi qui principia, quibus ſuperſtruuntur ueritates, probe cognita habuerit et perſpecta, 386. Log.) liquet, ontologiam, in qua quippe generaliora ueritatum principia ſtabiliuntur, 4) neceſſario requiri ad cognitionem solidam.
+
+Cum hac theſi exacte conſentiunt Cel. Hollmanni cogitata de philoſophiae primae uſu Quum illa demum, inquit uir Cel. in institut. philoſoph. edit. rec. p. 667 T. I. cognitio hic ſolida dici mereatur, quae ad prima quaeque principia reuocare nouit, qui. quaeſo, ſolide quid cognoſcere aliquis poteſt, qui prima cognitionis omnis principia, primaſque ueritates, quae fundamentum conclusionum omnium conſtituunt, adeoque soliditatem scientiae nostrae unice conciliant, ignorat?
+
+§. 17.
+
+[p. xxiii] Ontologiae prolegomena. I5
+
+5. Philoſophia prima ' siue ontologia maximi quoque uſus eſt in ueritate inuenienda. Demonſtr. Cum enim ueritates inueniantur, cum easdem ex aliis ueritatibus, tanquam principiis ſuis, eruimus, (per defin.) facile patet, quemque facilius tum in ueritate inueſtiganda progredi poſſe, cum intellectus primis ueritatibus notionibusque generalioribus probe imbutus eſt Iam uero cum primas illas ueritates conceptusque uniuerſaliſſimos, quibus aliae ueritates ſuperſtruuntur, diſtincte explicet ontologia, (§. 4.) intelligitur, uſum ontologiae in ueritate inuenienda eſſe manifestissimum.
+
+F 8. Ontologiae praeterea uſus per omnes omnino disciplinas philoso- phicas usque adeo ſe diffundit, ut, ſine ontologia, nec coſmologiam, nec Pſychologiam, nec theologiam naturalem, nec practicas denique ſcientias, intelligi riteque explicari poſſe exiſtimem.
+
+[p. xxiv] i6 Ontologiae prolegomena. Demonſtr. Cum enim principia et dogmata philoſophiae primae ſint generaliſſima et communiſſima, 5.) hoc autem latius cuiusque dogmatis uſus pateat, atque ad hoc plura extendi poſſe recte credatur, quo generalius dogma quoddam eſt, dubitari non poteſt, ontologiae, generalissima et communiſſima dogmata complexae, uſum per omnes philo- ſophiae partes ſe diffundere, atque adeo, nec theoreticas, nec practicas, diſciplinas facile poſſe intelligi, et cum fructu tractari, niſi i ontologicae poſitiones fuerint ante diſtinctius explicatae ſolideque demonſtratae.
+
+Vberius a poſteriori in ſubſequentibus, quae ontologiae adiungentur, diſciplinis intelliges, quantae ſint utilitatis uniuerſalia. illa et abſtracta ontologiae praecepta. Vix enim et ne uix quidem, uel in coſmologia, uel in pſychologia, uel in theologia denique naturali, occurret propoſitio, quae ſine principiis ontologicis demonſtrabitur. Vnico tantum alteroque exemplo dicti faciam fidem. In cosmologia e. gr. primo loco explicanda eſt definitio mundi, qui exponitur per congeriem omnium entium finitorum, ſimultaneorum, ſucceſſiuorum, inter ſe connexorum. Hic aqua haerebit, ſi i;ignoraueris, nondum principiis imbutus ontologicis, quid ſint entia finita, ꝗuid ſimultanea, quid ſucceſſiua, et ſic porrò. Ipſam quoque doctrinam de nexu, quae, ut in coſmologia, ita in uniuerſa philoſophia maximi omnino eſt momenti, plane non intelliges, niſi, quid ſit caussa, 6
+
+[p. xxv] Ontologiae prolegomena. 17 4 caussa, quid effectus, quidue item ſit relatio cauſſam inter et effectum, ex ontologia recte didiceris. In pſychologia complura obueniunt, quae difficillima intellectu erunt, ſi ignoraueris ontologiam. Explica, ſi potes, demonſtra immortalitatem animae ſine theoria generali de ente ſimplici. Nihil profecto proficies, fruſtraque, eluſio irrito conatu, inſumetur labor. Quanti itaque intereſt, animi immortalitatem ἀκριβῶς demon- ſtrari, tanti quoque refert, doctrinam ontologicam de ente ſimplici recte capi. Libertatem quoque animae nemo exponet enucleatius, nemo controuersias, de eadem ultro citroque motas, decidet, nemo aduersarios libertatem impugnantes, fatumque fatuum asserentes, confutabit, niſi, quid ſit neceſſarium, quidue contingens, ex Ontologia habuerit perſpectum. Alia lubens reticeo. In Theologia denique naturali, scimus, exiſtentiam Dei, ſine adſtructa mundi contingentia, demonſtrari non posse. quo ipſo intelligis, Atheorum nullum ſine exquiſitiori doctrinae ontologicae de neceſſario, et con- tingenti cognitione poſſe refelli Vnitatem quoque Dei ſine principio indiſcernibilium, in ontologicis explicari ſolito, nunquam ſolide demonſtrabis. In moralibus, ut de his quoque nonnulla adiiciam; diſciplinis controuerſa illa de moralitate actionum intrinseca doctrina intelligi non poteſt, ſine praeſtructa hac poſitione ontologica: Essentiae rerum ſunt necessariae. Diſse- 'rentia item actionum liberarum et necessariarum neſcio, qua ratione explicari diſtincte poſſit ſine primi (
+
+[p. xxvi] Ontologiae prolegomena.
+
+principiis ontologicis. In theologicis denique et aliis ſuperioribus ſcientiis ſoliditas nulla ſpe- rari poterit, niſi, quae identidem fundamenti loco in assertis noſtris confirmandis, uel defendendis ſubſterni debent, principia ontologiae commu- nissima animo comprehenſa tenuerimus. Id quod ſelectis quibusdam, ex omni disciplinarum genere depromtis, exemplis coram illustrabo. conf. omnino Gottſched, in oratione pro utilitate et neceſſitate Metaphysic. in contemtores eius. Lips. habit.
+
+item Reinbec, in meditat, part. II. prole- gom. XXXI.
+
+CAP. I.
+
+PRINCIPIO CONTRADICTIONIS 9. §. 19. ! Cum ontologia communiſſimas et genera- lissimas explicare debeat notiones, et uniuerſaliora cognitionis humanae principia ſtabiliat, ũ 4. p. 5.) duo autem a philoſophis omnis cognitionis humanae principia conſtituantur, alterum ſcilicet principium contradictionis, alterum uero principium rationis ſufficientis, ordinis rationem habituri, a principio contradictionis (quod primum et ab- ſolute ultimum omnis cognitionis humanae prin-
+
+[p. xxvii] De Principio contradictionis. 19 principium esse, deinceps demonstrabimus) ordiemur.
+
+Vt uero, in quo principium contradictionis con- sistat, quidue item ſibi uelint poſitiones, de hoc principio annotari solitae, rectius intelli- gi queat, notionem contradictionis euoluemus ante, quam contradictionis principium explicabitur.
+
+Cur uero duo tantum, nec plura, ueritatum et cognitionis humanae a philoſophis constituantur principia, ratio haec eſt Omnes ſcilicet ueritates duplicis ſunt generis, aliae sunt necessariae, id eſt, eiusmodi, ut aliter esse non possint, (e. gr. hae propositiones: circulus est rotundus, bis duo sunt quatuor, sunt ueritates neceſſariae) aliae uero sunt contingentes, i. e. eiusmodi, ut aliter eſſe non possint, Ce. gr. hae prop:ſitiones: circulus eſt rotundus, bis duo ſunt quatuor, ſunt ueritates necessariae) aliae uero ſunt contingentes, i æ. eiusmodi, ut aliter eſſe poſſint, (e. gr. hae propoſitiones: Caius eſt eruditus, Titius Theologiae operam dat, ſunt contingenter uerae] Quia itaque omnes in uniuerſum ueritates duplicis ſunt generis, diuer- ſaeque plane naturae, diuerſa quoque harum ueritatum diuerſarum conſtituantur, neceſſe eſt, principia, diuersique allegentur fontes, ex quibus profluant. Cum itaque ueritates neceſſariae ex principio contradictionis demonſtrentur, ueritates autem contingentes ex principio rationis sufficientis deriuari ſoleant, patet, cur duo tantum, nec plura cognitionis humanae ueritatumque principia con- ſtituamus. conf. Straehleri commentatio de ſenſu atque uſu princip rationis ſuff. Halae 727.
+
+B a s. 20.
+
+[p. xxviii] 20 De Principio contradictionis. §. 20. Cum de una eademque re aliquid ſimul affirmamus et negamus, tum dicimur nobis contradicere, ut adeo contradictionem recte de- ſiniamus per eiusmodi orationem, qua de una eademque re idem ſimul affirmatur et negatur. E. gr. Cum dixeris: Sol lucet, et ſol non lucet, tum contradicis tibi, de uno enim eodemque subiecto, ſcilicet ſole, affirmas, quod luceat, et negas ſimul, quod luceat. Contradictio autem uel fit ita, ut unio oppoſitorum expreſſis uerbis ſignificetur, uti in exemplo, modo allato, uel fit ita, ut in una propoſitione aut in uno termino complexo combinentur ideae, quarum altera alteram tollit. E. gr. Circulus quadratus. Illa dicitur contradictio explicita, haec uero implicita, itemque contradictio in adiecto. Per principium autem hic intelligo eiuſmodi propoſitionem, quae in ſerie ueritatum prima eſt, et unde deduci intelligique debent reliquae ueritates. Definitionem tantum nominalem principii hic adferimus, plura infra in peculiari capite de principio allaturi, S. §. 21.
+
+Cum multa omnino ſunt, quorum datur cognitio, tum uero illud omnium eorum, quae quidem noſſe nobis datum eſt, primum eſt, quod exiſtimus. Dum autem nouimus, nos exiſtere, fieri non poteſt, ut eodem tempore, nos non existere nobis perſuadeamus. Atque
+
+[p. xxix] De Principio contradictionis. 20 1 Atque idem, quod in exiſtentiae noſtrae cognitione accidit nobis, in aliis quoque rebus nobis uſu uenire, comperimus. Vnde, ex- * perientia teſte et magiſtra, haec propoſitio certissima eſt: fieri non potest, ut idem ſimul ſit, et non ſit. §. 22. : Atque haec quidem propoſitio: fieri non potest, ut aliquid ſimul ſit, et non ſit, dici ſolet principium contradictionis. Principium quidem, quia huic propoſitioni, fundamenti loco ſubſtratae, omnes ueritates ſuperſtruuntur. Contradictionis uero principium ideo dicitur, quia, ſublata hac propoſitione, aperta adeſſet contradictio. Dicitur quoque alias hoc principium identitatis principium, item principium neceſſitatis, neque minus principium eſſentiarum. Rationem, cur hoc principium ita appelletur, ſpeciatim enumerabimus in commentationibus. Haec propoſitio, quam appellamus principium contradictionis, tam euidens eſt ex ipſis terminis, ut, non quemquam exſtitiſſe unquam, aut exiſtere etiam nunc, crediderim, qui ſerio hanc propoſitionem, uel in dubium uocare, uel negare prorſus, queat.
+
+§. 23. Principium contradictionis 23. eſt Principium abſolute primum, quo B prius
+
+[p. xxx] 22 De Principio contradictionis. 1 prius nec datur, nec dari poteſt. Demonstr. Ponamus, principium contra- dictionis, non eſſe principium abſolute primum, tunc dabitur propoſitio aliqua prior et notior, ex qua haec propoſitio: fieri non potest, ut idem ſimul ſit, et non ſit, demum deduci debeat. Illa propoſitio prior et notior, quam nunc A, uocabimus, aut eſt uera, aut eſt falſa. Si eſt falſa, tunc ex propoſitione falſa immediate fluet uera haec propoſitio: fieri non potest, ut aliquid ſimul ſit, et non ſit. Quod iam eſt abſonum. Si uero eſt uera propoſitio A, ex qua deduci debet principium contradictionis, ſiue haec propoſitio: fieri non potest, ut idem ſimul ſit, et non ſit: tunc, nondum ſuppoſito principio contradictionis, eodem iure affirmabo, eſſe propoſitionem A, falſam, quo tu affirmas, eſſe ueram, (fieri enim poteſt, ut una eademque propoſitio, nondum prae- structo contradictionis principio ſit ſimul uera et falſa) Abſonum hoc, inquies, eſt et impossibile. Atque hoc ipſo concedis iam et ſupponis principium contradictionis, quod tamen demum ex propoſitione A, tanquam notiore, deducere uis. Vt itaque nihil aliud relinquatur, quam ut affirmemus, nullam dari poſſe notiorem et priorem propoſitionem
+
+[p. xxxi] De Principio contradictionis. 23 nem hac: fieri non poteſt, ut idem simul fit, et non ſit: atque adeo principium contradictionis eſſe principium ueritatum abſolute pri- mum. §. 24. Ex quo conficitur, principium contradictionis esse indemonstrabile. Demonstr.
+
+Cum enim principium contradictionis ſit absolute primum principium, neque adeo ex aliis principiis sine propoſitionibus deriuari poſſit, 23) illae autem propoſitiones, quae demonstrantur, debeant ex aliis notioribus et prioribus poſitionibus, tanquam ex ſuis principiis, deduci, ſ 16. Log.) patet, principium contradictionis eſſe indemonſtrabile. A poſteriori, ſiue per experientiam, et inductionem plurium caſuum ueritas huius principii euinci quidem poteſt et communiri, at a priori, ſiue ex notioribus atque prioribus propoſitionibus illud demonſtrare uelle, abſonum prorſus et fruſtramneum eſt. Cl. Carpou. in diſſertat. de principio rat. suff. hanc in rem ita diſſerit: Quandoquidem, inquit, quodcunque in medium profertur ueri, ueritatis omne robur et uim ab hoc principio accipit, conuenienterque illius demonſtrandi nec uia, nec ratio ex notioribus ueritatibus apparet, ex falsis autem propoſitionibus illud demonſtrare, ridiculum foret, qui pro ultimo primoque illud habent, a ueritate non alieni eſſe uidentur. §. VII.
+
+B 4 Strach-
+
+[p. 4] De Principio contradictionis. 1 Straehlerus in Exam. Metaph ſ.l Vols P. I. 5.3. item in diſſertat. I. de Exiſtent. Dei. 320 principium hoc contradictionis ex notione oppoſitorum hunc in modum demonſtrare uoluit: Esse et non esse ciuſdem, ſunt oppoſita, (ui defin) Hinc unio eorum contradictionem conſtituit, quia contradi- ctio dicitur oppositarum unio. Quod autem cum contradictione eſt, eſt impoſſibile.Ergo 5 eſſe et non eſſe eiuſdem, eſt impoſſibile, ſiue quod idem eſt, impoſſibile eſt, idem ſimul eſſe et non eſſe. At, quod pace uiri clarissimi dixerim, in tota hac demonſtratione ſupponitur iam principium contradictionis, tanquam certum et uerum, quod tamen debet demum demonſtrari Vnde enim minor propoſitio probabitur, quod ſcilicet  eſſe et non eſſe ſint opposita, niſi ex principio contradictionis? Quia ſcilicet fieri non poteſt, ut idem ſimul ſit, et non ſit, inde ſequitur, ut eſſe et non esse pro oppoſitis habeantur. Si uero nondum ſuppoſueris princi- pium contradictionis, tunc esse et non eſſe pro iiſdem haberi poterunt. conf. citat. diſertat. Carpouii. 5. 6. Atque hoc ipſo patet, in tota hac probatione circulum committi (conf. §. 357. Log.) quem ſolicite euitandum eſſe, monuimus in §. 398. Log. Idem circulus committitur in hac demon- ſtratione principii contradictionis. Esse, et non eſſe, inuoluit contradictionem (per def. contrad.) quicquid contradictionem inuoluit, eſt impoſſibile (per defin. Impossib B. impoſſibile eſt, idem ſimul eſſe, et non eſſe. Nulla enim praemiſſa in hoc ratiocinio eſt uera, niſi ſuppoſueris principium contradictionis.
+
+§. 25.
+
+[p. 5] De Principio contradictionis. 25
+
+ꝗ. 25. Principium contradictionis eſt uniuer sale. Demonſtr. Ponamus enim, non eſſe illud uniuerſale, tunc caſus aliquis indiuiduus dabitur, in quo fieri poteſt, ut idem ſimul ſit, et non ſit. Cum uero eiuſmodi caſus nec allegatus unquam ſit, nec allegari poſſit a quoquam, uniuersalitatem principii contradictionis ſatis intelligis. §. 26. Principium contradictionis eſt absolute necessarium. Demonſtr. Cuiuſcunque oppoſitum inuoluit in ſe et ſua natura contradictionem, illud eſt abſolute neceſſarium. (per def. neceſſ) Iam uero principii contradictionis oppoſitum inuoluit in ſe et ſua natura contradictionem,
+
+#### E. principium contradictionis eſt abſolute
+
+neceſſarium. Cum enim principium contradictionis abſoluatur hac propoſitione: fieri non potest, ut idem ſimul ſit, et non ſit: (§. 22.) patet, principii contradictionis oppoſitum eſſe hanc propoſitionem: fieri potest, ut idem ſimul ſit, et non ſit. Quaecunque uero Propoſitio eſt eiusmodi, ut de eodem ſimul quid affirmet, et neget, illa inuoluit contra- B5 dictio.
+
+[p. 6] 26 De Principio contradictionis. 1 dictionem, 20.) E. oppoſitum principii contradictionis inuoluit contradictionem. 5 21. Principium contradictionis est immutabile. 1 Demonstr.
+
+Quodcunque eſt abſolute neceſſarium, illud eſt eiusmodi, ut eius oppoſitum inuoluat contradictionem, ſiue, quod idem eſt, ut aliter eſſe non poſſit. Quodcun- qũe uero aliter eſſe non poteſt, illud dicitur immutabile, E. principium contradictionis, quia eſt abſolute neceſſarium (§. 26-) eſſe immutabile, patet. Ne a Deo quidem mutari poteſt principium contradictionis, quia Deus contradictoria pro- ducere nequit, id quod omnes theologi et philoſophi ſaniores ultro largiuntur.
+
+§. 28. Principium contradictionis eſt fons omnis certitudinis. Demonſtr. Si enim fieri nequit, ut aliqua res ſimul exiſtat, et non exiſtat, conſequens eſt, ut, cum res aliqua eſt, oppoſitum ſimul eſſe nequeat. Atque adeo ex hac propoſitione: fieri non potest, ut aliquid ſimul ſit, et non ſit, fluit haec: quaelibet res, dum eſt, certo eſt, item haec: quicquid noui exiſtere, id ita ſcio, ut omnis formido oppoſiti exulet, siue ut
+
+[p. 7] De Principio contradictionis. 27 : ut oppoſitum ſimul non exiſtere certo ſciam. Vnde principium contradictionis recte appel- Iatur fons omnis certitudinis. Vt haec propoſitio rectius perſpiciatur, fingas principium contradictionis eſſe falſum, atque adeo poſſibile eſſe, ut idem ſimul ſit, et non ſit, tunc, cum menſam quadratam cernis, non certo noſti, num ſit quadrata, quia oppoſitum eius, quod exiſtere uides, ſimul exiſtere poteſt, item, cum ſolem lucere uides, non certo noſti, num luceat. Vt ita, negato principio contradictionis, omnem tolli certitudinem, intelligatur, eodem uero posito, certitudo locum habeat.
+
+§. 29. Ex principio contradictionis fluunt per immediatam conſequentiam duae hae poſitiones: Necesse eſt, aliquid uel eſſe, uel non eſſe, ſiue, quod idem eſt, quodlibet eſt, uel non eſt. Item haec inde eruitur propositio: Quodlibet, dum eſt, necessario ſi. Priorem propoſitionem, quam dicunt principium excluſi medii inter duo contradictoria, ita demonſtrat Hebenſtreit in philoſophia prima pag. 140. Quia, inquit, impoſſibile eſt, idem ſimul eſſe, et non eſſe, ideo quodlibet eſt, uel non est. Nam si v. gr. aliquid nec est ens, nec non- ens, Sequitur, aliquid ſimul eſſe non- ens, et non eſſe non- ens. Erit non- ens, quia non eſt ens, et non erit non-ens, quia nec ens, nec non-ens eſſe dicebatur.
+
+Poſte-
+
+[p. 8] 28 De Principio contradictionis. non Poſterioris propoſitionis ſenſus non hic eſt, quod quaelibet res exiſtat abſolute neceſſario. Sed haec propoſitio ita eſt intelligenda: Quaelibet res, quando exiſtit, eo ipſo ita exiſtit, ut non poſſit ſimul eo tempore, quo exiſtit, non exiſtere. Si enim res, dum exiſtit, ſimul poſſet non exiſtere, corrueret principium contradictionis. Adeoque quaelibet res, dum exiſtit, eo ipſo exiſtit neceſſario. Haec propoſitio, quodlibet, dum eſt, eſt, dicitur principium certitudinis. Sed hactenus de principio contradictionis, quod quidem ubi et quanto cum fructu in disciplinis philosophicis adhiberi ſoleat, coram oſtendetur. De principio contradictionis conf. Bilfingeri diſſertat. de Axiomatibus philoſoph. Tubing. habit. 1722.
+
+CAP. II.
+
+PRINCIPIO RATIONIS SVFFICIENTIS.
+
+§. 30. : Veritatum contingentium, rerumque item J exiſtentium principium eſt principium rationis sufficientis, 519) quod nunc, expoſito contradictionis principio, et ex- plicari facilius, et diſtinctius poterit intelligi.
+
+Vt
+
+[p. 9] De Principio rationis sufficientis. 29 Eu
+
+Vt uero natura et indoles principii rationis ſufficientis rite perſpiciatur, id agemus, ut ante, quid ſit ratio, quid ſit sufficiens ratio, explicemus, aliasque notiones, huc pertinentes, enodemus.
+
+F- 31. Ratio ſufficiens eſt id, ex quo intelligitur, cur aliquid potius ſit, quam non ſit, cur ſit potius hoc modo, quam alio. Breuius; Ratio sufficiens est id, unde poteſt cognoſci, cur ſit alterum.
+
+< Sic e. gr. ponamus, Titium ad ſupplicium trahi et capite plecti. Quod ſi fit, debet quid adeſſe, ex quo intelligi queat, cur Titius ad ſupplicium potius trahatur, quam non trahatur. Ponas itaque, Titium homicidium commisisse, atque ob homicidium commiſſum nunc capite plecti, tunc homicidium commiſſum erit ratio Sufficiens supplicii, ad quod nunc rapitur Titius. Ex homicidio enim commiſſo intelligis et concipere potes, cur Titius capite potius plectatur, quam non plectatur. Pluribus, huc pertinentibus, exemplis definitiones in recitationibus illuſtrabo.
+
+Sunt, qui non omnem rationem sufficientem eſſe arbitrati, rationem diſtinguunt in sufficientem et inſufficientem. Sed ratio inſufficiens, meo quidem iudicio, non eſt ratio, cum ad rationem, ſi quidem debet eſſe uera ratio, requiratur, ut effectui producendo ſit idonea, plena, integra, adeoque ſufficiens. Variae
+
+[p. 10] 30 De Principio rationis sufficientis. Variae dantur rationis differentiae, quas, pro instituti noſtri ſcopo, percenſebimus. Alia ratio eſt poſſibilitatis, alia actualitatis. Illa eſt id, unde intelligitur, cur alterum potius eſſe poſſit, quam non. Haec dicitur id, unde intelligitur, cur alterum potius actu ſit, quam non ſit, ſit hoc et non alio modo. Rationem quoque diſtinguunt in rationem intrinſecam et extrinſecam. Illa uocatur, quae rei, de qua quaeritur, ineſt, haec uero, quae extra rem illam eſt poſita. Ratio denique ſufficiens alia simplex eſt, alia compoſita. Illa eſt id, ex quo unico intelligi poteſt, cur alterum ſit. Sed plura, ex quibus, ſimul sumtis, intelligi poteſt, cur alterum potius ſit, quam non ſit, conſtituunt rationem sufficientem compositam. Illustrabimus haec exemplis. Sic e. gr. poſſibilitatis omnium rerum ratio sufficiens eſt intellectus diuinus, quia infra in Theologia naturali demonſtratum dabimus, radicem et fontem poſſibilitatis rerum eſſe intellectum diuinum. Ratio uero suff. actualitatis omnium rerum eſt uoluntas diuina, id quod itidem in Theologia na- turali demonſtrabitur. Melancholiae ratio ſufficiens interna eſt uitioſa sanguinis constitutio, succusque corporis corruptus; externa ſaepius eſt miſeria, paupertas, iniuriae aliorum etc. Ratio suffic. ſimplex exiſtentiae huius mundi eſt ſola uoluntas diuina, quia ex hac unica concipi poteſt, cur mundus existat. Vt uero adſit peccatum in ſpiritum sanctum, requiritur, I) plenaria ueritatis caeleſtis agnitio et conuictio, 2) ſpon- 7Ah 1anea eiusdem abnegatio, 3) ueritatis confessorum
+
+[p. 11] De Principio rationis sufficientis. 1 rum perſecutio, 4) perſeuerantia in eiusmodi ſtatu uſque ad finem uitae. Haec plura, simul ſumta, constituunt rationem ſuff.compositam peccati in ſpiritum ſanctum.
+
+Rationem a cauſſa, ſtricte et proprie ſic dicta, cauſſa ſcil.efficiente, distinguunt recentiores philoſophi. Cauſſa ſcil. eſt id, quod continet rationem alterius in ſeſe. Sic e. gr. Deus eſt cauſſa huius mundi, non uero dici poteſt ratio huius mundi, Cajus eſt cauſſa deambulationis quam ſuſcipit, ratio uero, quae ipſum ad deambulationem ſuſcipiendam determinat, eſt repraesentatio tempestatis amoenae. Hoc uero infra de cauſſis uberius excutietur.
+
+Nihil eſt ſine ratione 3. sufficiente, siue, quicquid eſt, debet habere rationem ſufficientem, ex qua intelligi poteſt, cur potius ſit, quam non ſit, cur hoc modo ſit, nec alio. Demonſtr. Ponamus, aliquid eſſe ſine ratione sufficiente, tunc, cur aliquid exiſtat, concipi et intelligi debebit ex nihilo. (§. 31.) Adeoque 7õ nihilum exiſtet, et non exiſtet ſimul. Exiſtet, quia exiſtentia alterius rei ex nihilo concipi debet, ſiue; quod idem eſt, quia alteri rei 7õ nihilum exiſtentiam largitur; non exiſtet, quia eſt nihilum Cum
+
+[p. 12] §. 32. De Principio rationis ſufficientis. uero impoſſibile ſit, ut aliquid ſimul exiſtat, et non exiſtat, (§. 22.) impoſſibile quoque eſt, ut ex nihilo alterius rei exiſtentia concipi et intelligi debeat, atque adeo impoſſibile quoque eſt, ut aliquid exiſtat, nec tamen habeat rationem ſuff., ex qua intelligi poteſt, cur existat. E. nihil eſt ſine ratione sufficiente, ſiue, quod idem eſt, quicquid exiſtit, debet habere rationem ſufficientem, ex qua in- telligi poteſt, cur potius ſit, quam non ſit, cur ſit potius hoc modo, quam alio. D. 23.
+
+Ex his, neceſſaria conſecutione, conficitur
+
+### I. id, quod ratione ſufficiente deſtituitur, nec
+
+eſſe, nec eſſe poſſe. II. Hinc colligimus; omne, quod, ratione ſufficiente gaudet, eam aut in semetipso habere debere, aut in alio ente extra ſe. Vt adeo, quicquid rationem sufficientem suae exiſtentiae non habet in ſe, eam habere debeat in alio, et, quodcunque rationem ſufficientem ſuae exiſtentiae in ſe habet, eam non habeat in alio extra ſe.
+
+Has propoſitiones, tanquam conſectaria, hic uolo annotari, propterea, quod in demonſtranda exiſtentia Dei, item in doctrina de neceſſario et contingenti, in ſubſequentibus multo uſui nobis ſunt futurae.
+
+i 5. 34 à
+
+[p. 13] De Principio rationis ſufficientis.
+
+§. 34. Haec propoſitio, nihil eſt ſine ratione ſufficiente, ſiue affirmatiue enunciata, quicquid est, debet habere rationem sufficientem, dicitur a Leibnitio et VVolfio aliisque principium rationis ſufficientis. Dicitur alias quoque a Leibnitio principium rationis determinantis, quia ratio sufficiens determinat res, i, e. efficit, ut praeciſe hae res sint, nec aliae, Item appellatur principium conuenientiae, uel quia inconueniens eſt dictu, quicquam eſſe, quod ratione ſufficienti ſit destitutum, uel quia rationem reddit, cur hoc illudue rei conueniat, uel minus. Nominatur denique principium exiſtentiarum, quia res exiſtentes dependent ab hoc principio, i, e. ſi quaeritur, cur res exiſtant potius, quam non, ad principium rationis sufficientis confugiendum eſt. Veritates, inquit Cel. Bulfingerus in dilucidat, p. 62. de exiſtentia rerum finitarum omnium ſunt eiusmodi, ut oſtendi non poſsit. ſi quis illas aliter concipiat, impingere illum in principium contradictionis. Aliud itaque principium quaeri oportet, a quo pendeat existentiae certitudo. Scilicet id oſtendi poteſt, ſi rem aliter conſtitutam supponat, eſſe aliquid ſine ratione ſufficiente. Occaſione propoſitionum Archimedis de libra, ſine ratione nullam partem inclinantem, inuenit, aut certe ſagacius applicauit Leibnitius principium rationis ſufficientis, cuius tamen demon- ſtrationem suppeditare noluit, propterea. quod omnes, qui rationis compotes forent, et infinita abſurda C abſur-
+
+[p. 14] 34 De Principio rationis sufficientis. 1 1 4 abſurda effugere uellent, non poſſe non illud con cedere, affirmabat. Experientiam pro huius principii confirmatione .allegabat, ex qua nullum exemplum produci poſſe, aiebat, in quo ratio ſufficiens prorſus abſit, licet ignoretur. Negabat praeterea Leibnitius, ſine principio rationis ſufficientis existentiam Dei probari poſſe. Illustr. Wolfius huius principii demonſtrationem dedit in Metaphyſic. ſua Germanica i0. et u. In Ontologia Latina 5. 70. VVolfius ita demonſtrat hoc principium: Aut, inquit, nihil eſt ſine ratione sufficiente, cur potius ſit, quam non ſit, aut aliquid eſſe poteſt absque ratione ſufficiente, cur ſit potius, quam non ſit. Ponamus, eſſe A, ſine ratione sufficiente, cur ſit potius, quam non ſit. Ergo nihil ponendum eſt, unde intelligitur, cur A, ſit. Admittitur adeo, A. eſſe propterea, quod nihil eſſe ſumitur. Quod cum ſit abſurdum, absque ratione sufficiente nihil eſt, ſeu, ſi quid eſſe ponitur, admittendum etiam eſt aliquid, unde intelligitur, cur ſit. Venerandus Reinbeckius in meditat. in August. Confess. T.I. p. 13:6. XII, et XIII principium rationis ſuff. ex interiore ſui pretio aestumat, adiecta eleganti demonſtratione. Verba ipſius, certas ob caussas, hic adponam: Der Grund - Satz, inquit uir acutiſſimus, au meld)em dieſe Wahrheit, es iſt ein GOt, hergeleitet wird, iſt ſo beschaffen, da ihn sein vernünfftiger?e Mensch) leugnen kan. Er ũt folgender: 8 muß; elles ſeinen 3zulänglichen Grund haben, węrum eœ it; und worum es so, und nicht vielmehr anders 1
+
+[p. 15] De Principio rationis sufficientis. 1 35 anders iſt. ſB8er dieſen &a leugnen, und also behaupten wolte, daß etwas auch also ohne einen hinreichenden &Grund seyn Fonte; der müste 3zugestehen müssen, daß etwas sich ſeſlbũ aus einem Nichts, oder daß ein Nichts etwas hervor. bringen könnte. Denn, wenn etwas wircklich vorhanden seyn kan, das doch gar seinen Grund weder in noch auſſer sich selbst hat, warum e vor handen iſt; ſo iſt Nichts da, arum es vorhanden iſt. un aber it es gleichwohl vorhanden, so wäre es denn aus einem lichte morden. Hier aber ;zeigt sich. dann cin offenbarer Widerspruch: Gin Nichts ſeyn, und doch etwas hervor gebracht haben. Solte man sagen, es habe sich selbst hervorgebracht; so ist der Widerspruch abermahls offenbar. Denn, hätte es sich selbst hervorgebracht, so muste es schon gewesen seyn, ehe es gewesen mũre, nun aber ist e; ein offenbarlicher —Widerspruch), schon gewesen seyn, ehe man worden ist. Darum bleibet es eine ewige Wahrheit: Es muß alles ſeinen hinreichenden Grund haben, warum es ist, warum es ſo, und nicht anders ist. Wer demnach dieses nicht zugestehen wolte, der wäre nicht́t werth, da” man mei ter mit ihm ein Wort verlöhre, ſondern NB. er würde den vornehmſten Platz im Voli- Ho- ſe verdienen, als ein Mensch der glaubte, daß etwas ;u gleicher Zeit schwartz und weiß seyn könte. CL Straehlerus in commentat. de ſenſu et uſu Principii rationis ſuff- p. 4. principium rationis suff. ita demonſtrat: quicquid eſt perfecte intelli- 1 C2 gibile, 1
+
+[p. 16] 36 De Principio rationis ſufficientis. gibile, ſeu conceptibile, illud habet rationem suf- ficientem; (per des.) Atqui, quicquid eſt, ſeu quicquid habet eſſe, scilicet ſine contradictione, per- fecte intelligi ſeu concipi poteſt, quia non- entis tantum nulla datur notio et nullum esse. E. quicquid eſt, habet rationem ſufficientem. Carpouii demonſtratio, qua principium rationis ſufficientis corroborat, haec eſt: Si aliquid ſine ratione eſt, ex nihilo aliquid fieri, neceſſe eſt. Nihilum autem, hoc eſt, quod nullam habet existentiam, uel negatiue, uel priuatiue tale est Si negatiue, nec ullo modo potest existere, eiusque ex- iſtentia per ſe contradictionem inuoluit; ſin priua- 3l l tiue, non quidem existit, exiſtere tamen poteſt, IE eiusque exiſtentia contradictionem non inuoluit. 3il Iam ſi nihilum negatiuum debet aliquid fieri, impoſſibile debet ad exiſtentiam peruenire, et consequenter poſſibile fieri, quia omnis exiſtentia ſupponit possibilitatem. Nam poſſibilitas ſiue potentia habitudo ad actum eſt Sed impoſſibile est, impos- sibile fieri possibile, propter contradictionis prin- cipium Ergo ex nihilo negatiuo nec poteſt aliquid fieri. Quodsi uero a uel ex nihilo priuatiuo i omnimodo, h. e. tali, ubi omnis ratio actu abeſt, i aliquid fit, non exiſtent debet actuare, ſiue esset ctum producere. Antea enim non fuiſſe, et ſine cauſa uel ratione orta eſſe res assumitur. Si non exiſtens agat, gaudet attributo poſitiuo actuali quia attributum poſitiuum actuale eſt, quod aliquid actualiter affirmat. Si non existens habet attributum poſitiuum actuale, ſequitur, ut ſit ens reuera exiſtens, quia attributa actualia positiua, 1 1 tan-
+
+[p. 17] De Principio rationis sufficientis. 37 tanquam actualiter aliquid de re affirmantia, ex- iſtentibus competunt; non entis autem nulla ſunt praedicata, ſcilicet poſitiua, quia affirmatio attributi exiſtentis et negatio exiſtentiae de eodem ſibi inuicem contradicunt. Ergo ſi ex nihilo priuatiuo aliquid fit, non exiſtens eſt existens. Sed propter poſterioris abſurditatem prius etiam pro ab- ſurdo habendum eſt Si autem ex nihilo, tam priuatiuo, quam negatiuo, non poteſt aliquid fieri, omne, quod est, debet ſe ad aliquid referre, ex quo poſſit cognoſci, cur potius ſit, quam non ſit, propter contradictionis principium. Si omne, quod eſt, debet aliquid agnoſcere, ex quo poſſit cognoſci, cur ſit, omne, quod eſt, debet habere rationem ſufficientem, Conf. diſsertat. de ration. ſuff, principio 5. XV.
+
+§. 35. Principium rationis sufficientis ex principio contradictionis demon- ſtratur. Demonstr. Cum enim haec propoſitio: Nihil eſt ſine ratione ſufficienti: ideo uera ſit, quia, ſi negaretur, nihilum exiſteret et non exiſteret ſimul, (§. 34.) adeoque in principium contradictionis impingeretur, (§. 22.) facile intelligis, hanc propoſitionem: Nihil eſt ſine ratione ſufficiente: ex principio contradictionis robur ſuum et firmitatem nanciſci, ex eodemque demonſtrari. Cum C3
+
+[p. 18] §. 38. De Principio rationis sufficientis. { uero haec propoſitio: Nihil eſt ſine ratione ſufficienti: conſtituat principium rationis ſufficientis; (§. 34.) intelligitur, principium rationis ſufficientis ex principio contradictionis demonſtrari.
+
+F-36. Principium rationis ſufficientis non eſt abſolute primum principium. Demonstr. Cum enim principium rationis ſufficientis ex principio contradictionis demonſtretur; (§. 35.) conſequens eſt, ut, quia principium rationis ſufficientis aliud prius principium, ex quo fluit, agnoſcit, non poſſit pro principio abſolute primo haberi. Quia principium rationis ſufficientis ex principio contradictionis fluit; (§. 35.) patet, principium rationis ſufficientis in relatione ad principium contradictionis eſſe principiatum, in re- ſpectu autem ad alias ueritates, robur ſuum et ſtabilitatem inde acquirentibus, eſſe principium.
+
+5. 37- Principium rationis ſufficientis eſt abſolute neceſſarium. Demonſtr. Cum enim principium rationis ſufficientis ex principio contradictionis immediate fluat, 35.) principium autem contra-
+
+[p. 19] De Principio rationis sufficientis. §. 39. 1 contradictionis ſit abſolute neceſſarium, (§. 26.) intelligis, principium rationis ſufficientis fluere ex principio abſolute neceſſario. Si uero principium rationis ſufficientis fluit immediate ex principio abſolute neceſſario, non poteſt non quoque principium rationis ſufficientis eſſe abſolute neceſſarium, quia, qualis eſt cauſa, tale quoque exiſtere debet effectum. Vt uero hoc theorema recte intelligatur, ſen- ſum eiusdem hunc eſſe, ſcito: Abſolute necessarium eſt, ut, quicquid eſt, habeat rationem sufficientem, cur ſit, et fieri omnino non poteſt, ut quicquam, uel exiſtat, uel exiſtere poſſit, quod omni prorſus ratione sufficienti deſtituatur. Hoc uero non eſt absolute neceſſarium, ut haec praeciſe ratio adſit, poterat alia adeſſe. Memini, Cel. Bülfingerum affirmare, principium rationis ſufficientis eſſe neceſſarium in actu signato, i, e. in genere, ſine applicatione. Aſſerta exemplo perquam luculento explicabo. Fac, te exſpatiari. Si reuera extra portam exſpatiatus fueris, tunc debet adeſſe ratio sufficiens neceſſario, ex qua concipi poteſt et intelligi, cur exſpatieris potius, quam domi maneas, Hactenus rationis ſufficientis principium eſt neceſſarium, quia fieri non poteſt, ut deambulatio ſine ratione ſufficiente ſuſcipiatur. At alia aliaue poteſt adeſſe ratio, quae te determinat ad exspatiandum. Poteris exſpatiari ob tempeſtatem ſerenam, ob ſanitatem per corporis motum conſeruandam, et
+
+C 4 C4 ob
+
+[p. 20] §. 40. De Principio rationis sufficientis. ob neſcio quas alias cauſſas. Vt adeo in appli- catione, siue, ut Bülfingerus loquitur, in actu ex- exercito, principium rationis ſufficientis non abſolute neceſſarium eſſe, facile intelligas. $. 38. Principium rationis sufficientis eſt uniuersale. Demonstr. Si principium rationis ſufficientis eſt abſolute neceſſarium, conſequens eſt, ut idem quoque ſit uniuersale Atqui uero principium rat. suff. eſt abſolute neceſſarium 37.) E. idem quoque erit uniuerſale. Si enim non eſſet uniuerſale, caſus darentur, in quibus ratio sufficiens nulla eſſet. Si uero ca- ſus darentur, in quibus ratio sufficiens nulla eſſet. Si uero casus darentur, in quibus ratio ſufficiens nulla eſſet, tunc haec propoſitio: Non omne, quod eſt, habet rationem sufficientem, eſſet uera et possibilis. Haec propoſitio: Non omne, quod eſt, habet rationem sufficientem: eſt huic propoſitioni oppoſita: Omne, quicquid eſt, habet rationem ſuff. E. Si darentur caſus, in quibus nulla adeſſet ratio ſuff. principium rationis ſuff, eſſet contingens. (per des. conting.) Cum uero demonstratum ſit, illud eſſe abſolute neceſſarium, (§. 37.) intelligitur, idem quoque eſſe uniuersale. a Sunt, qui quidem, rationem suff. debere habere locum in corporibus, concedunt, at quod principio rationis ſufficientis etiam in ſpiritibus ſemper locus
+
+[p. 21] De Principio rationis sufficientis. §. 41. locus sit, id uero negant et pernegant. Ex demon- ſtratis autem patet, nullam mutationem, neque in corporibus, neque in ſpiritibus, contingere poſſe ſine ratione sufficienti. Alia uero ratio sufficiens eſt in corporibus, alia in ſpiritibus. In corporibus ratio sufficiens eſt trudens, neceſſitans, pellens etc In ſpiritibus uero ratio ſuff. eſt ſuauiter in- clinans, moraliter ſuadens, alliciens, inuitans etc. Vniuerſalitati principii rationis ſuff. opponunt nonnulli ipsam experientiam, ex qua quippe con- ſtet, dari complura, et euenire multas mutationes, cum in homine, tum extra hominem, quae omni ratione sufficienti ſint deſtitutae. At, ſi quid hic ex experientia praesidii peti poteſt, id tantum- modo ex eo constare, arbitror, quod in pluribus rebus nullam uideamus rationem ſufficientem. Nunquam uero caſus ex experientia poterit adduci, in quo omnis ratio ſuff. plane exulet, et in quo demonstrare poteris, nullam rationem adeſſe. Vniuersalitati denique rationis ſuff. obſtare, nonnulli exiſtimant, ipſum Vvolfii aſſertum, quippe qui s. 142. Metaphyſic, Germ. con- tendat, in somnio omnia eſſe ſine ratione ſuffici- enti. Sed VVolfius hic recte intelligendus eſt. Sumit VVolfius somnium hic obiectiue, i. e. pro iis rebus, quas ſomniamus, quas, negat VVolſius, principio rationis ſufficientis conformiter exiſtere. Non enim ſunt illa phantasmata actu exiſtentia, non datur in illis nexus, nulla itaque ratio suff, poteſt habere in iis locum. Somnium autem, ſubiectiue conſideratum, pro operatione ſcili- cęt imaginationis, habet omnino rationem ſuffi-
+
+Cs cien-
+
+[p. 22] §. 42. De Principio rationis sufficientis. cientem, qua ex lege imaginationis deriuari debet. Sed de his plura in recitationibus, in quibus obie- ctiones, contra principium rationis ſufficientis formatas, quantum ſatis eſt, confutabimus.
+
+Ex his satis pateſcit, omne, quicquid eſt, eſſe in ſe conceptibile. Demonstr. Quicquid eſt, debet habere ra- EEI ma tionem ſufficientem; (§.32.) quicquid habet rationem ſufficientem, illud habet quid, ex quo exiſtentia poſſit concipi: 3:. E. quicquid eſt, ex aliquo, qua exiſtentiam suam, concipi debet et poteſt, E. quicquid eſt, eſt in ſe conceptibile. Sed ſtudio et data opera dico, eſt in ſe conceptibile. Licet enim nos complura nec concipia- mus diſtincte, nec ob arctos intellectus humani limites concipere poſſimus, in ſe tamen omnia, quia gaudent ratione sufficiente, ſunt conceptibilia. Ex quo intelligitur, id, quod ratione sufficiente de- ſtituitur, eſſe in ſe inconceptibile Nihil igitur in ſe inconceptibile eſſe, ex his poteſt manifeſtum fieri 5& 40. Caeterum adhuc obſerues, principium rationis ſufficientis mirifice ſe commendare ob egregium uſum in omnibus eruditionis partibus.
+
+Nulla
+
+[p. 23] De Principio rationis sufficientis. §. 43. Nulla omnino philoſophiae pars eſt, nullaque prorſus diſciplina, in qua non poſitiones occurrant, ex rationis ſufficientis principio demonſtrandae. In ontologia principium indiſcernibilium ex hoc principio demonſtratur, item uniuerſa doctrina de ente ſimplici saepenumero requirit, ut ad principium rationis ſufficientis confugiatur. In co- ſmologicis perutilis illa de nexu doctrina ſine Rat. ſuff. principio intelligi non poteſt. In pſychologicis principium Rat. ſuff. utramque facit paginam, cum nec lex imaginationis, nec appetitus auer- ſationisque natura, nec alia denique absque hoc principio perſpici queant. In theologia uero naturali, dici non poteſt, quanti ſit uſus principium Rat. ſufficientis. Tolle principium hoc, et reperies, exiſtentiam Dei, eo ſublato, demonſtrari non posse. Agnouerunt hoc Leibnitius, Reinbeckius, Carpouius, qui in diſſertat. de principio rat. ſuff. dilucide demonſtrauit, omnia argumen- 1, quae pro exiſtentia Dei ab eruditissimis uiris adferri ſolent, hoc principio niti. Conf XVII. Prouidentiam quoque et ſapientiam Dei, nescio, quomodo adſtruere queas, ſi ſuſtuleris ex mundo principium rationis ſufficientis, Ecqua enim ratione fortuitum atomorum concurſum, ex quo totum mundum forte fortuna coaluiſſe, putant nonnulli, deſtrues, ſi negaueris principium rationis suff?7 In moralibus quantae ſit utilitatis principium Rat suff. uel hoc unicum common- ſtrare poterat, quod, ſublato hoc principio, ne- ſcias; quid uera libertas, quae tamen in moralibus uel 7
+
+[p. 24] §. 44. De Principio rationis sufficientis. uel maxime consideranda eſt. Alia, breuitatis cauſſa, taceo. Quantae uero utilitatis hoc principium eſt in uniuerſa omnino philoſophia, tanti quoque uſus idem eſſe comperimus in ſuperioribus et altioris indaginis diſciplinis. In Theologia tolle principium rationis sufficientis, quomodo deſtrues ab- solutum Caluinianorum decretum? Tolle princi- pium rationis ſufficientis, quomodo deſtrues ab- ſolutum Caluinianorum decretum? Tolle principium rationis sufficientis, quid obſtat tunc, quo minus ſcripturam ſacram, prout libuerit, inter. pretere, et quiduis ex quouis eruam? A proprietate uero, inquis, literae, ſine urgente neceſſitate,i. e. ſine ratione ſufficienti) recedendum non eſt. En! uſum et necessitatem principii Rat ſuff. Leibnitius in Epiſt. V. ad Clarckium obseruat, principio rat. ſuff. ſublato, praeſcientiam Dei contra Socinianos non poſſe aſſeri. De quo ſuo loco. Cl. Canzius in uſu philosophiae Leibnitianae et Wolfianae in Theolog. T. I. p. 169. ſolide impugnat auctoritatem Pontificis Romani, idque principio rationis ſufficientis in ſubſidium adhi- bito. Plures uſus huius principii in Theologia allegabo coram. In iurisprudentia uel ideo principio noſtro denegari non poſſe uſum, patet, quia in foro omnia ſecundum acta et probata aguntur, i e. principio rationis sufficientis conformiter. Tolle autem principium rat suff. quid impedit, quo minus iudex reum ſine ratione absoluat, et innocentem damnet? Conf. interim de hoc principio, praeter Straehlerum in commentat. de ſenſu et uſu principii rat. ſuff. Halae ed. 1727. et Car- pou. in diſertat. de principio Rat. ſuff. ienae hab.
+
+r%5.
+
+[p. 25] 1 45 De possibili et impoſſibili. 1725. r25. Billfingerus in diluc. philosophicis S. 67. ſ99 item in diſſertat. de Axiomat. Philoſophicis, Tubing. 1726. hab. Hagmaier in d dissertat. de princip. rat. ſuff. 1723. Tubing. habit. et denique Ludouici in dissertat. de ueris et falsis cognitionis humanae principiis, Lipſ. 1731. habit.
+
+CAP. III.
+
+POSSIBILI ET IMPOSSIBILI. ꝗ. 4I. explicatis hactenus generalioribus omnis
+
+2 cognitionis humanae principiis, principio ſcil. contradictionis, (Cap.1.) et principio rationis sufficientis, (Cap. 1) er principio rationis sufficientis, (Cap. ll.] nunc ad communiſſimas notiones, in quibus enodandis ontologia uerſatur, explicandas accedemus. Cum uero in eo omnia omnino conueniant, quod ſint poſſibilia, et ultra poſſibilitatem rei in abſtrahendo aſcendere non liceat, ab eo, quod eſt poſſibile, merito ordimur, maxime, cum, quae de ente dicentur in ſequentibus, intelligi nequeant, niſi ante notionem Tě possibilis et impoſſibilis rite euoluerimus. J. 42.
+
+Cum fieri non poſſit, ſiue impoſſibile ſit, ut idem ſimul ſit, et non ſit, uel idem affirmetur
+
+[p. 26] §. 46. De poſſibili et impoſſibili. metur de eodem, et negetur (§. 21.) simul- tanea autem eiusdem rei affirmatio et nega- tio conſtituat contradictionem, (§. 20.) impoſſibile recte definiemus per id, quod inuoluit contradictionem. E. gr. Deus dependens eſt impoſſibile quid, quia duo hi conceptus, quos coniungis, eiusmodi ſunt, ut alterum alter tollat, manifeſtaque adeo adsit contradictio. S.
+
+43. Ex quo intelligitur, nihil eſſe pro impossibili habendum ante, quam contradictio fuerit demonstrata.
+
+y 44- Poſſibile dicimus id omne, quod contradictione caret, ſiue, quod idem eſt, possibile eſt id, quod nullam inuoluit repugnantiam. Vox poſſibilis duplici potiſſimum ſenſu ſumitur. a) Tè possibile denotat id, quod quidem exiſtere poteſt, quamuis non actu existat. Atque hoc eſt 75 stricte poſſibile, quod opponimus 7ẽ actuali, ſiue ei, quod reuera et actu existit. B) T poſſibile latius paullo ſumitur, et ſignificat cum omne id, quod actu et reuera exiſtit, tum id quoque, quod non quidem exiſtit, interim tamen exiſtere pot- eſt Quo ſenſu opponitur illi, quod eſt impoſſibile. Vt uero definitio të poſſibilis plenius intelli- gatur ex antecedentibus repetendum, quid ſit contra-
+
+[p. 27] -r.
+
+De possibili et impossibili. 47 contradictio, quam s. 20. eiusmodi orationem eſſe diximus, in qua de una eademque re idem affirmetur, et negetur. Si itaque poſſibile diximus eſſe illud, quod nullam inuoluit contradictionem, hoc ipſo poſſibile eiusmodi quid eſſe, affirmauimus, in cuius ideam non ingrediuntur duo aut plura, quorum alterum ait, negat alterum eodem modo. e. gr. Homo eruditus eſt poſſibile quid, non enim contradicit idea hominis ideae eruditi, nec conceptus eruditi tollit conceptum hominis. Equidem offendere poterit nonnullos definitio 75 poſſibilis, propterea, quod negatiua eſt. At ex Logicis conſtat, definitiones negatiuas tolerari poſſe, ſicubi unus terminorum immediate et con- tradictorie oppoſitorum definiri debeat. Quod num hic locum habeat, commonſtrabo in recitationibus ipſis. Conf. interim Log 171. Si uero definire negatiue nolueris 7è ꝑi sibile, com Bu fingere affirmatiue ita definias: Poſſibile eſt, cui praeſtando uires alicuius cauſſae existentis sufficiunt. De qua definitione uid. Bilfing. tr. de Orig. mali. p. 18-
+
+5-a5. Expoſitis diſtincte notionibus poſſibilitatis et impoſſibilitatis, id nunc agemus, ut diuer- ſas tě poſſibilis e? impoſſibilis, ſpecies percen- ſeamus. Niſi enim hae differentiae, quae in doctrina de poſſibilibus occurrunt, rite fuerint euolutae, dici uix poteſt, quam parum proficiatur in decidendis controuer ſis philo-
+
+[p. 28] 3 De possibili et impossibili. قیم L 1 philosophicis, quae, cum in cosmologia, tum in theologia naturali, recentiori aetate, mo- 1ae ſunt.
+
+j 46. 1 Si quid ita eſt comparatum, ut in ſe et ſua natura inuoluat contradictionem, tunc dici- tur absolute impossibile. Si quid uero ſub certis u t tis quibusdam conditionibus et circumſtantiis inuoluit contradictionem, tunc dicimus illud hypothetice impoſſibile.
+
+#### E. gr. Circulum eſſe quadratum, eſt abſolute
+
+impoſſibile, cum 76 quadratum eſſe naturae circuli prorſus repugnet, nec per abſolutam quidem Dei potentiam fieri poſſit, ut circulus unquam ſit quadratus. Hypothetice uero impoſſibile eſt, ut sole radios ſuos per fenestram transmittente, tenebrae maneant in conclaui. Non quidem in ſe et ſua natura inuoluit contradictionem, conclaue eſſe tenebricoſum, inuoluit tamen contradictionem, poſita ſcilicet hac conditione, ſi ſol radios ſuos per fene- ſtram transmiſerit,
+
+§. 47. ũ lilbr u
+
+Moraliter impoſſibile dicitur illud, quod quidem non in ſe contradictionem inuoluit, infert tamen repugnantiam in hoc illoue ſubiecto, ob intercedentes ſubiecti illius per- fectiones morales. m E. gr. Deterius praeferre meliori, non in ſe quidem inuoluit contradictionem, adeoque in ſe non
+
+[p. 29] De poſſibili et impoſſibili. non eſt impoſſibile, at Deo tamen id eſt impoſſibile, ob ipſius ſanctitatem et ſapientiam. To de- terius itaque praeferre meliori repugnat ſapientiae diuinae et ſanctitati, tanquam perfectionibus Dei moralibus, adeoque eſt moraliter impossibile. Hanc moralem impoſſibilitatem uocat Bülfingerus impoſſibilitatem impropriam, item reſpectiuam. Conf. ipſius dilucidat. philoſ. 5. XII. sqq. item eius tract de origine mali 36. ſ44. Accidit nonnunquam, ut id quoque impoſſibile uocemus, quod eſt difficile, item, quod eſt interdictum et illicitum. De quo plura in praelectionibus.
+
+In diiudicanda alicuius rei poſſibilitate at- tendendum) ad rem ipſam eiusque naturam intrinſecam, ad uires cauſſae efficientis. Quod eſt eiusmodi, ut in intrinſeca ſua natura non inferat repugnantiam, id dicimus intrinsecus possibile. Quod uero ſimul eſt eiusmodi, ut non modo in intrinſeca ſua natura nullam inuoluat contradictionem, ſed quoque rebus externis, cauſſae ſcil. efficientis uiribus, tempori, loco, non repugnet, id dicimus extrinsecus poſſibile Vnde orta diſtinctio philoſophorum inter poſſibilitatem rei intrinſecam et extrinſecam. Sic e. gr. cera quia nihil habet, quod impediat, quo minus liquefieri poſſit, intrinſecus pos- ſibile eſt, ceram liquefieri. Miracula item ha- D 2 bent
+
+[p. 30] §. 50. De possibili et impoſſibili. bent intrinſecam possibilitatem, quia leges motus in intrinſeca ſua natura ita ſunt comparatae, ut possint ſuſpendi. Quia praeterea liquefactio cerae non repugnat caussae efficientis externae uiribus, sed potius ex calore ignis intelligi potest, quare liquefieri cera poſſit, extrinsece quoque poſſibile eſ- ſe dicimus, ut cera liquefiat. Si demonſtraſti, dari ens, quod leges motus ſuſpendere possit, demonſtraſti miraculorum posſibilitatem extrin- -secam. of L $ 49.
+
+His notionibus legitime determinatis, nunc poſitiones quasdam, de poſſibilitate et impoſſibilitate, ſubnectendas putamus. -30 1. I. Ex his intelligis, id, quod eſt abſolute et in ſua natura impoſſibile, non fieri pos- ſe poſſibile, (per princip. contradi&t, 2 explicatum.)
+
+### II. Manifeſtum ex his eſt, id quod hypo
+
+thetice impossibile eſt, poſſe eſſe in ſe et ſua natura possibile. 1 E. gr. Hypothetice impoſſibile eſt, ut Caius, si usque ad finem uitae in malitia et mentis obſtinatione perſeuerauerit, ſaluetur. Non tamen in ſe et ſua natura impossibile est. III. Poſſibilitas externa nunquam poteſt eſſe ſine possibilitate interna. Si enim -2012) extrinsecus quid eſſet possibile, quod tamen in ſua natura et abſolute eſſet im- possi- 30. d :
+
+[p. 31] De possibili et impossibili. §. 51. poſſibile, tunc cauſſa aliqua efficiens externa daretur, cuius uires sufficerent, ad producendum id, et ad possibile ad- eo reddendum id, quod in ſe et ſua natura eſſet impossibile, (quod eſt contra poſ
+
+### IV. Interna uero poſſibilitas poteſt eſſe ſi-
+
+a ne externa. Vt haec intelligantur facilius, exemplum perquam perſpicuum adferre lubet. Ponas e.gr.te demonstrasse, dari ens, quod posſit motus leges ſuſpendere, atque adeo patrare miracula, tunc demonſtraſti miraculorum possibilitatem extrinſecam. Fac uero, ſuſpenſionem legum motus atque miracula in ſe eſſe impoſſibilia, tunc ob intrinſecam impoſſibilitatem nulla quoque locum habere potest poſſibilitas extrinſeca, quia nullum ens, licet ſit infinitum, datur, quod poſſit contradictoria et intrin- ſecus impoſſibilia proferre. Vides hinc, quam praepoſtera methodo utantur nonnulli nostrae aetatis philoſophi, cum aeternitatem mundi posſibilem demonstrare uolunt, Possibilitatem extrinsecam prius probant, confugientes ad potentiam Dei, qua ipſe mundum ab aeterno producere potuisset, non de eo solliciti, num creatio mundi ab aeterno intrinsece ſit Possibilis. Cum uero demonſtrari poſſit, intrinſece aeternitatem mundi eſſe impoſſibilem, (quia ab aeterno eſſe, et tamen creari, ſibi repugnant) eo ipſo etiam externa poſſibilitas remota eſt, quia, ui poſ, Iiſ. externa poſſibilitas ſine intrinſeca esse non potest.
+
+D Quod 1
+
+[p. 32] §. 52. De poſſibili et impoſſibili. Quod uero interna poſſibilitas poſſit eſſe ſine externa, facile comprobari poteſt exemplo circuli. Quamuis enim nunquam circulus exſtitiſſet, quamuis etiam nulla caussa externa foret, quae circulum produceret, aut producere posset, manet tamen circulus intrinsece poſſibilis, quia in interna ſua natura nullam inuoluit repugnantiam. Ex his denique intelliguntur et explicari poſ- ſunt Theologorum locutiones: Impoſſibile eſt, ut r sgA C rur nulla ſcandala ueniant; Impoſſibile eſt, ut re. genitus studio et data opera peccet, item: Impoſſibile eſt, ut, qui ſemel illuminati ſunt, et in - pristina peccata relabuntur, denuo conuerti queant, Hebr. VI. 2. Duae priores positiones loquuntur de impossibilitate hypothetica, poſterior et ultima de difficultate. Impoſſibile enim ſaepius pro difficili ſumi, iam ſubmonuimus 47-
+
+CAP. IIII DE
+
+EX ISTENTIA ss0. um ad 7vò poſſibile nihil aliud requira tur, quam ut nulla interna adſit repugnantia et contradictio, (§. 44.) palam eſt quidpiam poſſe eſſe poſſibile, quamuis non actu existat. Ad exiſtentiam enim non ſufficit ſola non- repugnantia et mera contradictionis abſentia, ſed ſtatus ille, qui ſuper- 1 acce- د X
+
+[p. 33] De Exiſtentia. §. 53. accedit poſſibilitati, quoque id, quod possibile eſt, aptum eſt uel ad agendum, uel ad patiendum, conſtituit id, quod dicimus existentiam. Notionem exiſtentiæ hic ideo diſtincte explicandam putamus, ut, quae de ente occurrunt dicenda, eo rectius intelligantur.
+
+s SI Patet hinc, exiſtentiam recte explicari per complementum poſſibilitatis. Demonſtr. Cum enim id, quod poſſibile poteſt habere praeter poſſibilitatem ſuam, dicamus complementum poſſibilitatis, poſſibile autem, praeter poſſibilitatem ſuam, poſſit habere ſtatum, quo poſſibile aptum eſt ad agendum uel patiendum, conſequens eſt, ut ſtatus ille, quo poſſibile aptum eſt ad agendum uel patiendum quid, conſtituat complementum poſſibilitatis. Atqui uero ſtatus ille, qui ſuperaccedit poſſibilitati, et quo poſſibile aptum eſt ad agendum uel patiendum quid, eſt id, quod uocamus existentiam (§. 50.) E. exiſtentiam recte uocari complementum poſſibilitatis, hinc euidens eſſe poteſt.
+
+D 3 Exi-
+
+[p. 34] §. 54. De Exiſtentia. Exiſtentia et actualitas ſunt philoſophis ſynonyma. Sunt, qui notionem exiſtentiae tam claram eſſe arbitrantur, ut definitione nulla indigeat. Veterum nonnulli exiſtentiam per id definiebant, per quod aliquid eſt extra cauſas ſuas, item, exiſtentia eſt id, per quod aliquid deſinit eſſe intra caussas ſuas. Hebenstreit. in philoſoph. prima definit exiſtentiam ita: exiſtentia eſt, qua res actu, et nemine cogitante, in hac rerum uniuersitate praeſens eſt ac exiſtit. Conf. philoſ. prima p i5o. VVolfius in Ontologia Latina p. i43. exiſtentiam definit per complementum poſſibilitatis, Bülfingerus autem in dilucidat. philos ſ. 270. exiſtentiam explicat per illum eſſentiae ſtatum, quo apta eſt ad agen- dum uel patiendum. Quas duas definitiones facile poſſe conciliari, ex dictis perſpicuum eſt. Plura de exiſtentiae definitione coram.
+
+s-52- Quicquid exiſtit, debet quoque esse possibile. Demonstr. Cum enim exiſtentia ſit complementum posſibilitatis, (§. 51.) conſequens eſt, ut exiſtentia ſua notione includat possibilitatem Vt adeo recte contendamus, quicquid existit, debere ;quoque poſſe exiſtere, ſiue eſſe posſibile. Ponamus, id, quod exiſtit, non eſſe posſibile, consequens eſt, ut debeat eſſe imposſibile. Quia, quod non eſt posſibile, (voce hac latius ſumta) debet eſſe imposſibile
+
+[p. 35] De Existentia. §. 55. Si uero id, quod existit, eſt impoſſibile. conſequens eſt, ut id exiſtat, quod inuoluit contradictionem, ſiue quod non potest existere. ſſ- 42.) Cum uero hoc ſit contra princ. contradictionis, 22.) liquet, id, quod ex- iſtit, debere eſſe posſibile. Si res incipit existere, tunc exſpirat quidem poſſibilitas stricte sic dicta, (uocem scil. possibilis hic oppono τῷ actuali)
+
+manet tamen illa res, quae existit, etiam tum, cum exiſtit, possibilis, (uoce possibilis. ita ſumta, ut. opponatur impoſſibili.) Rem illustrabo exemplo. Ante, quam mundus exiſtebat actu, erat posſibilis, i. e. poterat exiſtere, quamuis non actu exiſteret. Vides hic, æ poſſibile actuali contradiſtingui, quae posſibilitas nunc, cum mundus existat reuera, exſpirauit. Sed manet tamen altero ſenſu mundus, quamuis actu existat, etiam poſſibilis. Scilicet, cum mundus hic exiſtens non inuoluat contradictionem, et, dum exiſtit, possit etiam exiſtere, uerum eſt, mundum, dum exiſtit. eſſe quoque poſſibilem. Alias illum, ſi haec negaueris, neceſſe eſt, appelles imposſibilem. Veteres id ipſum ita enunciabant: 40 eſſe ad poſſe ualet conſequentia. Si menſa eſt quadrata, poteſt quoque eſſe quadrata, ſi Caius eſt eruditus, poteſt quoque eſſe eruditus. 53 Per immediatam conſequentiam hinc eruitur hoc, quod, poſita exiſtentia, neceſſario quoque ponatur poſſibilitas. Atque hinc i] D 4 ſimul
+
+[p. 36] §. 56. De Existentia. ſimul patet modus cognoſcendi a poſteriori, quaenam ſint poſſibilia.
+
+Quod poſſibile eſt, id non ideo exiſtit. Demonſtr. Cum enim ad poſſibilitatem, qua talem, nihil aliud requiratur, quam mera contradictionis abſentia, (§. 44.) plura autem ad exiſtentiam requirantur, quam ſola nonrepugnantia, ſiue contradictionis abſentia, (§. 50.) perspicuum eſt, id, quod poſſibile eſt, non ideo ſtatim exiſtere, quia poſſibile eſt. Veteres hanc poſitionem ita enunciabant: 4 poſ- ſe ad eſſe non ualet consequentia. Cuius pro- positionis ueritas ipſa corroboratur experientia, qua edocti nouimus, non ideo menſam ſtatim eſſe rotundam, quia poſſibile eſt, ut ſit rotunda. Notandum tamen hic eſt, aſſertum hoc unice in rebus 2ar contingentibus, creatis, et finitis, locum habere. Ad ens enim perfectissimum et neceſſarium quod attinet, ſcias, eius exiſtentiam per ipſam eius poſſibilitatem determinari, gt poſſibilitatem determinari, et poſſibili- tatem entis perfectiſſimi eſſe rationem ſufficientem actualitatis et exiſtentiae entis perfectissimi, ita quidem, ut, ſi poſſibilitatem entis perfectissimi probaſti, eo ipſo iam exiſtentiam eiusdem demonſtraueris. Sed plura de his in Theologia naturali. Ex propositionibus adstructis intelliguntur quoque hae po- ſitiones.
+
+õ. s5-
+
+[p. 37] De Existentia. §. 57. 1 §. 55.
+
+### I. Quod impoſſibile eſt, id quoque non
+
+poteſt ad exiſtentiam peruenire. Veteres ita: A non poſſe ad non eſſe ualet conſequentia.
+
+II. Quod non exiſtit, ideo non eſt habendum pro impoſſibili, ſiue, ueterum ut uerbis utar, a non esse ad non poſſe non ualet con Sequentia, 115
+
+CAP. V.
+
+NOTIONE ENTI S ET NON - ENTIS, 5. 56. us definimus per id, quod eſt poſſibile, E siue, ut VVolfii uerbis utar. ens eſt, quod exiſtere poteſt, conſequenter, cui exiſtentia non repugnat. id. VVolfii Ontologia Latin. I. 33. Ins ens definiendum putamus, ut definitio ad omnes ſpecies entis poſſit applicari. Sunt quidem, qui per ens id tantum intelligunt, quod re- uera et actu exiſtit, licet nemo de eo cogitet. Sed ideo, hac entis deſcriptione, paullo anguſtiori, miſſa, uocem entis latius ſumimus, ut ita ſub de-
+
+D fini
+
+[p. 38] 58 De Notione - Entis 1 finitione noſtra et ens actuale, quod uocant, et ens potentiale comprehendatur.
+
+Cum id, quod possibile eſt, reuera et actu exiſtit, tunc dicitur ens actuale, siue ens actu. Cum uero quid non existit, exiſtere tamen poteſt, dicitur ens in potentia; ſiue potentiale: EB8s actualeuereres ũocabant ens actuale ueteres uocabant ens participiale, ens uero potentiale appellabant ens nominale. Cur uero ita nominauerint ens actuale et poten- tiale, rationem, reddam in ipſis  praelectionibus. E. gr. hic mundus, Deus, ſol, ſunt entia actualia ſiue participialia, exiſtunt enim actu et reuera. Iudicium vero IEſu extremum, quo rationem factorum ab hominum quouis exigit, eſt ens poten- tiale et nominale. Si uero ens potentiale siue ens in potentia recte conſideraueris, tunc reperies aliud ens eſſe in potentia proxima, aliud in re- mota. De quo plura coram. Ep-; Eãiũ
+
+§. 58. Ens rationis dicitur, quod quidem non reuera exiſtit, interim tamen exiſtere fingitur, ſiue, ens rationis eſt, quod non exiſtit, niſi in mentis fictione. E. gr. regnum chiliasticum Fanaticorum eſt ens rationis et ſua- ue somnium.
+
+Veteres ens rationis diſtinguebant in ens ra- tionis ratiocinantis, et ens rationis ratiocinatae. Hoc definiebant ſcholaſtici, quicquid quidem - fingitur, ſed cum fundamento in re, illud autem dice- [p. 39] et Non - Entis. 59 : L I 1 dicebant id, quicquid ſine omni fundamento in re ipſa fingitur. Fundamentum huius distinctionis hoc eſt. Deprehendimus ſcilicet per experientiam. cum res ſingulares ſiue indiuidua inter ſe conferimus, tunc ex comparatione hac plurium indiuiduorum nos peruenire ad notiones abſtractas, ſpecierum ſcilicet et generum. Quicquid uero notione ſpecierum et generum continetur, illud non exiſtit ſeorſum, ita, uti nos nobis conci- pimus, sed tantum exiſtit in indiuiduis E. gr. Homo, quatenus, ut ſpecies, conſideratur, non exiſtit ſeorſum, ut ſpecies, ſed tantum abſtrahitur haec notio ab indiuiduis. (Conf. Log. s. Io4.) Rerum itaque exiſtentium conceptus, a rebus ſingularibus abſtracti, genera ſcilicet et ſpecies, referebantur a ueteribus inter entia rationis ratiocinatae. Si quid uero fingebatur, ſine ratione, in obiecto deprehenſo, id appellabatur ens rationis ratiocinantis. E. gr. regnum chiliaſticum Fanaticorum.
+
+VVolfius ens fictum appellat id, cui exiſtentiam non repugnare ſumimus, utut reuera idem repugnet. Ens autem imaginarium appellat, quod notione imaginaria continetur. Notionem autem imaginariam uocat, qua ob quandam ſimilitudinem fingitur, quod non eſt, ut per imaginem quandam ueluti oculis praeſens sistere queamus, quòd in eos non incurrit. Conſ. Ontolog. Lat. ſ. 140. et i4.. E. gr. ſi concipis memoriam tibi, ut idearum receptaculum, tunc notio memoriae eſt imaginaria, et receptaculum idearum in anima eſt ens imaginarium. Respublica Plato-
+
+[p. 40] De Notione Entis, Platonica eſt ens fictum, quia ſumimus, exiſtentiam eiusmodi reipublicae non repugnare, licet reuera repugnet. §. 59. Enti rationis, ficto, imaginario, opponi mus ens reale, quod non per fictionem mentis exiſtit, ſed exiſtit actu et reuera, licet de eius exiſtentia nemo cogitet.
+
+ſ. co. Ens poſitiuum VVolfius uocat, quod eſt aliquid.  autem dicitur id omne, cui notio reſpondet.
+
+#### E. gr. Menſa eſt res, eſt ens poſitiuum, quia
+
+cum uoce menſae cogitari quid poteſt, et determinata notio coniungi.
+
+5 6. Enti poſitiuo opponitur priuatiuum, quod uocamus defectum realitatis, inſtar entis consideratum.
+
+#### E. gr. Coecitas conſiſtit in puro puto defectu
+
+realitatis, qui tamen defectus realitatis cum ſaepius a nobis inſtar entis consideretur, fit, ut coecitatem ens aliquod priuatiuum nominemus. Priuatio enim nihil eſt aliud, quam defectus ali- cuius realitatis,
+
+#### E. gr. ignorantia eſt priuatio, quia, ubi
+
+adeſt ignorantia, ibi abſunt realitates, quae adesse poterant. : Vere- [p. 41] et Non- Entis. c Veteribus erat priuatio abſentia uerae et realis exiſtentiae ex ſubiecto capaci. Quam quidem priuationem distinguebant a pura negatione, quam eſ- ſe dicebant abſentiam uerae ac realis ex- existentiae ex ſubiecto incapaci. e. gr. Abſentia imaginis diuinae in homine eſt priuatio, homo enim eſt ſubiectum capax imaginis diuinae, et gauderet profecto ea, niſi per lapſum deperdita eſſet. Abſentia autem uiſus uel auditus in lapide eſt pura negatio, quia lapis non eſt ſubiectum capax auditus uel viſus.
+
+Priuationem porro ueteres ab ente priuatiuo diſtingui uolebant. De quo conf. Hebenſtreit. Philoſ. prim. p. I00. Quid ſit ens priuatiuum. poſitiuum, definiam in ipſis lectionibus, occaſione quaeſtionis, a Theolo- gis identidem in medium prolata: Num peccatum in genere, ac ſpeciatim peccatum originis, ſit aliquid reale ac poſitiuum? Peccatum abſtracte et formaliter ſumtum pro carentia ſcil. et abſentia imaginis diuinae eſt mera priuatio, concretiue uero siue in ſubiecto peccante ſpectatum, infert quoque poſitiui quid. Includit enim in ſuo conceptu nonnunquam habitum, diſpoſitionem et inclinationem, nonnunquam etiam actum poſitiuum. Unde est, ut Theologorum nonnulli peccatum dicant ens priuatiuo- poſitiuum. De quo plura adferam coram in eorum gratiam, qui rebus sacris operantur.
+
+De priuatione has potiſſimum regulas inculcasse ueteres, ſcimus. a) A priuatione (totali) ad habitum (eundem numero) non datur regressus (natu-
+
+[p. 42] §. 62. De Notione - Entis 1 (naturaliter) β) Omnis priuatio ſupponit habi- tum, (uel de facto, uel de iure) Quae scholasticorum dicteria ne omnino neſciamus, in recitatio- * nibus exponam ſufficienter.
+
+Quemadmodum ens, generatim ſpectatum, id eſſe diximũs, quod eſt poſſibile, ſiue exstat, ſiue minus; 56.) ita intelligitur, non ens nihil aliud esse, quam quod eſt impoſſibile, adeoque contradictionem inuoluit, ſiue, quod nec eſt, nec eſſe poteſt: Non ens et nihilum negatiuum ſunt nobis ſynonyma. Nihilum autem negativum eſt, quod eſſe nequit. Quod nihilum negatiuum diſtingui uolumus a nihilo priuatiuo, per quod nihil aliud intelligitur, quam eiusmodi quid, quod quidem non eſt, interim tamen eſſe poteſt. E. gr. lignum ferreum eſt nihilum negatiuum, quia lignum ferreum nec eſt, nec eſſe potest Sparta autem futura Titii est nihilum priuatiuum, quia quidem nondum ſparta futura existit, exiſtere tamen poteſt. Vt adeo, ſecundum has explicationes nihilum priuatiuum et ens in potentia, tanquam synonyma considerari possint. (§. 57.) Nihilum VVolfius definit ita: Nihilum, inquit, dicimus, cui nulla reſpondet notio. Conf. Ontol. Lat. §. 57. Paullo aliter uocem nihili determinari nouimus; cum a Theologis in articulo de creatione aſſeritur, opera primi diei eſſe creata ex nihilo negatiuo. Per nihilum negatiuum non intelligunt impoſſibile, et contradictorium, ſed id, quod plane non existit [p. 43] et Non - Entis. §. 63. 1 - exiſtit, quamuis exiſtere poſſit. Opera reliquo rum dierum. aiunt, eſſe producta ex nihilo  priuatiuo. Producta enim ſunt ex operibus primi diei, ſed indiſpoſitis et indigeſtis Materiam ita- que indiſpoſitam reſpectu operum. quae ex ea prouenerunt, pro nihilo haberi uolunt. Quod nihilum eſt theologis nihilum priuatiuum. .... Ad non ens a ueterum nonnullis referri quo- que, conſtat, ens per accidens, quod consistit in aggregatione plurium entium, quae nullum in unio- ne ſua ſeruant ordinem. Quapropter ens per accidens uocabant quoque ueteres ens per aggre- gationem. Tale ens, per aggregationem eſte.gr. aceruus lapidum, uel frumenti etc. ens autem per accidens ideo referebant ad non ens, quia ens per accidens inuoluit plura, adeoque hoc reſpe- Etu non eſt ens, sed entia. Quicquid autem non est ens, inquiunt Metaphysici ueteres, illud eſt non ens. Genſ I Uelibemit mẽtaphyſic. p. ca. ſ. et Hebenstreit philosophia prima p.113. ८ Caeterum obserua hic regulas, quae circa non ens tradi ſolent etiam dudum omnium ore tritae sunt. a) Non entis nulla sunt praedicata. B) Non entis nulla est scientia. Quae explica. bimus et confirmabimus, quantum ſatis eſt, in scholis no- ſtris, ita tamen, ut limitationum, quibus haec dicteria ueterum scholasticorum restringi debent, neutiquam simus oblituri, §.
+
+63. Fieri non potest, ut non ens fiat ens. Demonstr.
+
+[p. 44] §. 64. De Notione Entis et Non- Entis. Demonstr. Ponamus, fieri poſſe, ut non ens fiat ens, tunc, quod impoſſibile eſt, de- bebit fieri poſſibile. Non ens enim eſt id, quod eſt impoſſibile, (§. 62.) et ens eſt id, quod eſt poſſibile, (5. 5s60 Quod cum aduerſetur principio contradictionis, 22.) facile intelligis, fieri non poſſe, ut non ens fiat ens.
+
+Q CAP. VI.D:
+
+ES S E NT IA, 5 64. uid ſit poſſibile, quid ſit exiſtentia, quid ſibi uelit ens, itemque non ens, hactenus perſpeximus. Nunc iam, ex ordinis lege, peruenimus ad doctrinam de eſſentia diſtinctius explanandam. Vt uero, in quo eſſentia rei alicuius conſiſtat, cuiuis perſpicuum ſit, ad ſequentia potissimum uolo attendi. §. 65.
+
+Omnes res, quas percipimus ſenſibus, animaduertimus, in eo conuenire, quod ex- istant. Sed unumquodque tamen, obſeruamus, continere in ſe quid, quo ab aliis re- ul m P r ItPV7 d us umu ox ent us interno catur, quoquò
+
+[p. 45] De Eſſentia. 65 1 ( ر que efficiat. ut ad aliquam entium claſſem ſpecialiorem referatur. Sic e. gr. nouimus, Deum exiſtere, nouimus quoque, exiſtere mundum, item menſam, librum, hominem, exiſtere, non ignoramus. In eo itaque conueniunt quidem Deus, mundus, homo, menſa, liber, etc. quod exiſtant, attamen debet quid eſſe, quod Deum, mundum, librum, hominem, men- ſam, a ſe inuicem internoſcat, debet quid adeſſe, quod efficiat, ut Deum ab homine, et hominem a Deo, etc. diſcernam, quodque adeo ſingula illa indiuidua, quae dicimus homines, ad certam claſ- ſem redigat. Cum enim nihil ſit ſine ratione ſuffi- ciente, (§. 32.) debet quoque ratio adeſſe ſufficiens, cur librum non habeam pro menſa, et cur mensam non appellitem hominem, et ſic porro. §. 66.
+
+Cum itaque aliquid in qualibet re adeſſe debeat, quod efficiat, ut alterum ab altero internoſcam, quodque unumquodque ad ſuam claſſem referat, (§. 65.) nunc facile in- telliges, quid ſit eſſentia. Scilicet cuiusuis rei /essentia eſt id, per quod res praeciſe haec res eſt, et non alia, ſiue per quod res ab omnibus aliis rebus, ſimul exiſtentibus, poteſt internoſci. E. gr. Conſidera hominem, ut hominem. Homo habet hoc commune cum innumeris aliis rebus, quod exiſtat. Sed per hoc homo Praeciſe eſt homo, quod ſit rationalis, et per hoc
+
+E homo
+
+[p. 65] De Essentia. 1 homo ab omnibus aliis rebus, cum quibus alias optime conuenit, accurate discernitur. Rationalitas- Istas itaque eſt eſſentia hominis. Conſidera creaturam, ut creaturam Per hoc praeciſe creatura eſt creatura, quod ſit limitata, et per limitationem creatura a creatore internoſcitur, ut adeo, limitationem  conſtituere eſſentiam creaturae, non difficulter intelligas. Conſidera denique inuidum, ut inuidum. Inuidus per hoc praeciſe eſt inuidus, quod aliorum ob felicitatem doleat, ut adeo eſſentiam inuidiae abſolui uideas dolore ob aliorum felicitatem. Essentia rei, siue id, (ut uerbis ſcho- Iaſticorum utar,) per quod res eſt id, quod eſt, dicitur alias natura rei, ratio formalis, item forma et quidditas, quia per eſſentiam declaratur, non quod res ſit, ſed quid res ſit. Veterum definitio essentiae cum recentiorum definitione optime conuenit. Ita uero illi: Essentia eſt id, quod primo in re concipitur, et per quod res ab omnibus aliis rebus diſtinguitur. Huic definitioni perquam ſimilis eſt VVolfiana. VVolfius enim in Ontolog. Lat. p. 1357. 168. eſſentiam definit per id, quod primum de ente concipitur, et in quo ratio continetur ſufficiens, cur caetera, uel actu in- ſint, uel ineſſe posſint. Ea autem, qui- bus eſſentia conſtat, dicuntur eſſentialia.
+
+§. 67. Ex his intelligi poteſt, entis, qua ens eſt, eſſentiam eſſe possibilitatem eius intrinsecam.
+
+[p. 66] De Eſſentia. 67 Demonstr. Cum ens, generatim et abstra- te ſpectatum, per hoc præciſe ſit ens, quod ſit posſibile, ſ5. 56.) et per possibilitatem.a a non ente distinguatur, (ò 62) id autem, per quod res aliqua praeciſe haec res eſt, et non alia, et per quod ab aliis rebus distinguitur, dicatur rei essentia, (§. 66.) euidens eſt, possibilitatem entis intrinſecam abſoluere eiusdem essentiam. Poterat hoc theorema ita quoque demon- ſtrari. Cum eſſentia ſit id, quod primum in re concipitur, (§. 66. not. 2.) nihil autem prius in ente, qua ens eſt, concipi possit, quam eiusdem poſſibilitas, (ultra possibilitatem enim cogitando progredi non possumus. id quod per ſe patet,) palam eſt, entis, generatim ſpectati, eſſentiam abſolui posſibilitate intrinseca. Hanc propoſitionem, ſcio, impugnatam recentius a nonnullis, ab aliis uero defensam eſſe. At, quisquis demum fueris, negas per me licet, hanc positionem. Dic ergo, in quonam eſſentiam en- us in genere conſtitues? Num in exiſtentia? Sed ita exiſtentiam et eſſentiam non diſcernis. Quae tamen a ſe inuicem diſcerni debent. Ergo, cum, praeter exiſtentiam et poſſibilitatem, in ente, quatenus ens eſt, cogitare et discernere nil posſimus, relinquitur, ut, eſſentiam entis in posſibilitate eiusdem consistere, aiamus. 1 Quemadmodum uero entis, generatim ſpectati, eſſentia posſibilitas eiusdem intrinseca eſt, ita
+
+E a ſpe.a-
+
+[p. 67] 68 De Essentia. ſpeciatim rei cujusdam eſſentiam intelligere quis cenſendus eſt, ſi modum, quo quaeque res fieri poteſt, perspicit. E. gr. creatura per limitationem non niſi poſſibilis eſt, homo item alio modo ad exiſtentiam peruenire non poteſt, quam per rationalitatem. Limitatio itaque et rationalitas ſunt creaturae et hominis eſſentia.
+
+§. 68. Hinc perſpicuum eſt, quodlibet ens ſua gaudere eſſentia. V4 Demonſtr. Ponas enim, dari ens, quod careat ſua eſſentia, ergo dabitur ens, quod deſtituatur eo, per quod ens eſt ens, quodque adeo careat poſſibilitate interna. (5. 657.0 Ens uero, quod caret poſſibilitate interna, eſt ens, et non eſt ens. Ens eſt, (per hypothesin,) non eſt ens, quia caret poſſibilitate. (§. 62.) Cum uero impoſſibile ſit, ut aliquid ſimul ſit ens et non ens, (§. 22.) intelligitur, impoſſibile quoque eſſe, ut aliquid ſit ens, et tamen ſua careat eſſentia. Quodlibet ergo entium, ſua gaudeat eſſentia, neceſſe eſt. Poteſt uero unum idemque ens diuerſis ſub re- ſpectibus conſiderari Qui diuerſi reſpectus quoque eſſentiam diuerſam in uno eodemque ente inferunt. Sumas e. gr. hominem. Poteris ipſum conſiderare, ut animal, quo reſpectu peculiarem habet eſſentiam, poteris ipſum conſiderare, ut hominem, qua ratione aliam rursus habet essentiam. Poteris porro ipſum tibi repraesentare, ut crea-
+
+[p. 68] De Essentia. §. 69. L creaturam, et ſic noua adſit eſſentia, neceſſe eſt. poteris denique ipſum tibi ſiſtere, ut ens, quo reſpectu non eam habet eſſentiam, quam habet, ut homo, ut animal, ut creatura, etc. Haec uel ideo monenda hic putaui, quia complures, artis abſtrahendi et discernendi quaeque insueti, confundunt non confundenda. Sic, cum VVolfium audiunt affirmare, quod entis eſſentia ſit eiusdem poſſibilitas, oppido inſtant: Atqui uero homo eſt ens, E. hominis eſſentia est possibilitas. At fallacia compoſitionis eſt manifesta. Hominis, ut entis, conſiderati eſ- ſentia eſt quidem possibilitas in- trinseca, at hominis, ut hominis, eſſentia eſt rationalitas Homo enim non fit homo per posſibilitatem, ſed per rationalitatem.
+
+69. Nullum ens poteſt eſſentia ſua priuari. Demonſtr. Fac, ens aliquod eſſentia ſua poſſe priuari, tunc priuabitur poſſibilitate ſua intrinſeca. 57.) Atque ita ens ceſſabit eſſe poſſibile Si uero ens cesset eſſe possibile, fiet imposſibile Quod cum fieri ne- queat, (§. 22.) intelligitur, nullum ens posse privari ſua eſſentia.
+
+5. 7O. Ex dictis colligi poteſt, essentiam entis poſſe eſſe ſine entis exiſtentia,
+
+V E; quam-
+
+[p. 69] §. 70. De Essentia. quamuis existentia entis non poſſit eſ- ſe ſine eiusdem essentia. Demonstr. Cum enim poſſibilitas entis intrinseca. a entis eſſentiam conſtituat, (§. 67.) ens autem posſit gaudere ſua posſibilitate, quamuis non existat, poſſe enim ad eſſe non ualet consequentia, 54.) manifestum eſt, entis eſſentiam poſſe eſſe ſine eiusdem exiſtentia.
+
+Quia uero nihil exiſtere poteſt, niſi quod ſit posſibile 6 52.) posſibilitas autem cuius- uis entis essentiam conſtituit, (3. 6.) euidens rur- ſus eſt, quod nullum ens exiſtere posſit ſine eiusdem eſſentia. Hoc theorema ſpecialioribus exemplis illuſtrabo in- scholiis.
+
+7i Va L, entia entis est absolute neces- Saria. Demonstr.
+
+Si uerum eſt, entis eſſentiam eſſe posſibilitatem intrinſecam, conſequens eſt ut eſſentia entis ſit abſolute necessaria. Iam uero prius eſt, (§. 67.) E. etiam posterius Connexio maioris propos. facillime probatur. Cum enim poſſibilitatis oppositum ſit im- poſſibilitas, intelligis, posſibilitatis oppositum inuoluere contradictionem. (§. 42.) Cu- L ius-
+
+[p. 70] De Essentia. §. 71. 1 iuscunque uero oppositum inuoluit contradictionem, illud eſt abſolute neceſſarium. (per defin. neceſſar.) E. posſibilitas entis eſt abſolute necessaria. E. ſi eſſentia entis absoluitur eiusdem posſibilitate, (3 57.) eſſentia entis ab- soluitur eiusdem poſſibilitate, (§. 67.) essen- tia entis erit abſolute neceſſaria.
+
+Poteras hanc propoſitionem, uerisſimam profecto et multarum concluſionum feracissimam, ita quoque ſtabilire, Ens, dum eſt posſibile, et quatenus eſt poſſibile, neceſſario eſt posſibile. Non enim poteſt ſimul eſſe impoſſibile, (per princ. contrad. 5. 227 Et fac, ens, dum eſt posſibile, eſſe etiam imposſibile, tunc non foret ens, (per defin. ſ. 56. traditam) ſi itaque entis poſſibilitas eſt neceſſaria, et posſibilitas entis abſoluit eiusdem eſ- ſentiam, (§. 67.) conſequens eſt, ut eſſentia entis ſit neceſſaria. Clarius ueritas huius theſeos perſpicietur, ſi caſu aliquo ſpecialiori eandem illuſtrauerimus. E. gr. Triangulum nullo alio modo poſſibile eſt, quam ut tribus lateribus conſtet. Eſſentiam itaque trianguli conſtituunt tria latera, certo modo inter ſe combinata. Neceſſarium itaque eſt, ut omne triangulum tria habeat latera, ſiue, quod idem eſt, eſſentia trianguli eſt neceſſaria, Creatura nullo alio modo posſibilis eſt, niſi per limitationem, adeoque limitatio eſt eſſentia creaturae, et neceſſarium eſt, ut creatura ſemper ſit limitata. Sed dicis: Triangulum poterat, ſi Deus ita uoluisset, quatuor habere latera. Reſp. Tunc non eſſet amplius triangulum, ſed aliud quid. E 4 tata.
+
+Porro
+
+[p. 71] §. 72. De Eſſentia. Porro excipis: Poteratne quoque creatura eſſe ſine limitatione? Reſpondeo: Tunc non esset amplius creatura, ſed ens illimitatum. Caueas uero, a necesſitate eſſentiarum ad necesſitatem existentiae cum Vener. Langio in den Anmerkungen p. 12. et 59. concludas, ac cum eo ſtatuas, ex necesſitate eſſentiarum adſtructa fatum Stoicum et Spinozianum fluere Non enim ſequitur: Circulus, quando exiſtere debet, neceſſario debet existere per rotunditatem. E. exiſtenlad è-niſ tia circuli eſt neceſſaria. Non ſequitur, creatura neceſſario per limitationem exiſtit, et alio modo um exiſtere non poteſt. E. creatura neceſſario ex- iſtit. Confutauit tamen ſemet ipſum uir S. R. in der ausführlichen Recension p. 117. ubi concedit ultro, quod eſſentia alicuius rei aliter eſſe non posſit, quam uti eſt. s5.
+
+72. Consequitur hinc, essentiam tam entis in genere, quam rerum quar ;u- aæ t-ſ 3 rumuis, eſſe immutabilem.
+
+Demonstr. Cum enim eſſentia entis ſit necessaria, ſ5.1) id autem quod neceſſarium eſt, eiusmodi fit, ut oppoſitum eius inuoluat contradictionem, (per defin. ſiue, ut aliter eſſe non posſit, conſequens eſt, ut eſſęntiae rerum ſint immutabiles. Immutabile enim dicitur illud, quod aliter eſſe non poteſt.
+
+i5ũ Ne
+
+[p. 72] De Essentia. §. 73.
+
+De &£&ſentia. i Ne Deus quidem easdem mutare poteſt. Non enim poteſt potentissimum Numen efficere, ut circulus sit circulus, et tamen ſimul quadratus, non potest efficere, ut creatura ſit maneatque creatura, et h tamen illimitata. Entia quidem, qua exiſtentiam, mutare poteſt, e. gr, aquam in uinum, manent tamen eſſentiae rerum, in mera poſſibilitate conſideratae, immutabiles. Eadem ratione potes circulum, in tabula pictum, in quadratum uel triangulum commutare, eſſentia tamen circuli, generatim conſiderati, manet ſemper immutabilis.
+
+Essentia entis eſt aeterna.
+
+Demonstr. Cum enim tempus nullum detur, quo coeperit ens eſſe poſſibile, nullumque tempus futurum ſit, quo deſinet ens eſſe poſſibile, alias aliquando id, quod nunc eſt poſſibile, fuiſſet impoſſibile, aut futurum in poſterum eſſet impoſſibile, quod eſt contra princip. contradict (§. 22.) facile intelligis, ens, qua poſſibilitatem ſuam, eſſe aeternum. (per des. aetern Cum uero poſſibilitas entis eſſentiam conſtituat, (§. 67.) exinde conſequitur, entis eſſentiam eſſe aeternam. Non eo ſenſu accipi uolumus hanc positionem, ac si res cum ſuis eſſentiis ab aeterno exſtiterint. aut in aeternum exſtiturae ſint. Sed ſenſus hic eſt: Deus omnium rerum eſſentias ab aeterno ſibi in Val
+
+ES intæl-
+
+[p. 73] 74 De Essentia. : A intellectu ſuo immenſo repraeſentauit, et ſi res, quae nunc exiſtunt, ab aeterno exſtitiſſent, non alio modo possibiles fuiſſent. Accipe, ut abſtractam regulam clarius intelligas, exemplum per- quam perspicuum. Circulum Deus ab aeterno ſibi non alio modo repraesentare potuit, quam - rotundum. Quidni. inquies, quadratum? ſic non circulum ſibi repraesentasset. Et circulus ab aeterno nulla alia ratione posſibilis fuit, quam per rotunditatem.
+
+Praeclare hanc in rem Clericus in Ontolog Cap. IV. Essentias rerum, inquit, qui aeternas et immutabi- les dicunt, id uolunt, per quod ens eſt id, quod est, seu ipſum ens non poſſe a nobis intelligi, eſſe aliud ens, et ſimul idem, Itaque ſi Deus ab omni aeternitate r habuerit ideas entium nunc existentium, qualia sunt, illas necessa- rio easdem fuisse, ac nunc ſunt. Alioqui L ii qui non fuiſſent ideae eorundem entium, ſi diuerſae eſſe potuerunt, niſi mutarentur ſpecies entium. Quis ſi autem hoc negare ſuſtineat. ſi nulla perturbatione laboret, et ex animi ſententia loquatur? Conf. Kindleri diſput. de aeternitate essentiarum ſub
+
+5 praesid. Mauis. Schroederi Vittebergae habita. 1727. Vbi simul argumenta Cl. Vuchereri, contra i eſſentiarum aeternitatem formata, ſunt examinata tu: n- et confutata.
+
+§. 74. Essentia eſt incommunicabilis.
+
+u Demonstr. Ponamus, eſſentiam 7 à, posse bé tribui et communicari τῷ 3, tunc A, priuaretur ſua eſſentia. Cum uero nullum ens ſua
+
+[p. 74] De Sent a. 75
+
+ſua essentia posit p priuari, ꝑ. u) ꝑ 1perspicuum eſt, essentias rerum eſſe incommuni- cabiles. Poterat haec propoſitio ita quoque demonſtrari: Si eſſentiae rerum ſunt immutabiles, conſequens eſt, ut etiam sint incommunicabiles, (facta enim communicatione, adesset mutatio.) Atqui prius eſt uerum, 72) E. etiam poſterius, quod eſſen- tiaę rerum ſint incommunicabiles.
+
+Ex hoc theoremate poteſt facile decidi quaeſtio illa controuerſa, num posſit fieri, ut Deus corpori facultatem et uim cogitandi tribuat? Hic respondemus negando. Si enim corpus cogitandi ui gauderet, tunc eſſentia ſpiritus. quae absoluitur ui cogitandi, corpori communicaretur, adeoque corpus eſſet corpus, (per hypothesin,) et tamen ſimul etiam ſpiritus, quia eſſentia ſpiritus gauderet. Quod eſt contra princ. contradictionis. §. 75.
+
+Ex his conſtare nunc poteſt, eſſentiam cuiusuis rei nec minui, nec m)
+
+augeri poſſe. Demonstr. Cum enim eſſentia rei cuiusuis ſit immutabilis, 72.) intelligis, eam nec minui, nec augeri poſſe. Si enim minueretur, mutaretur, ſi augeretur, itidem muta- 1 retur.
+
+Atque
+
+[p. 75] De generalioribus entis affectionibus.
+
+Atque hoc ſenſu eſſentiae dicuntur eſſe, ſicut numeri. Sic e. gr. numero ternario nihil addi, et nihil demi poteſt, ſaluo numero ternario. Si enim quid addideris non amplius eſt numerus ternarius, ſi aliquid demſeris, itidem ceſſat eſſe numerus ternarius.
+
+1 CAP. VII. AC DE GENERALIORIBVS ENTIS AFFECTIONIBVS. §. 76. Exposita in antecedentibus et notione en-
+
+I iis, et eſſentia, ad affectiones entis generaliores explicandas nunc nos accingimus. Per affectiones autem entis intelligimus quaeuis ipſius praedicata, quorum ratio uel in eſſentia ſola, uel extra eandem continetur.
+
+E. gr. libertatis capacitas eſt affectio hominis. Eſt enim eiusmodi praedicatum, quod de homine enunciatur, ut ex eſſentia hominis, ſcil. rationalitate, immediate fluat. Eruditum eſſe, eſt itidem affectio hominis, quae uero non ex eſſentia hominis ortum suum ducit.
+
+s 7. Eiusmodi affectio, quae ſui rationem sufficientem agnoſcit in ſola essentia, ſiue eius- A modi
+
+[p. 76] De generalioribus entis affectionibus. §. 77. 5 modi praedicatum, quod ex eſſentia sola fluit, dicitur attributum. (eine Eigenschafft.)
+
+#### E. gr. To poſſe eſſe eruditum, eſt attributum
+
+hominis, fluit enim ex eſſentia hominis, nempe rationalitate. Quia attributa ex eſſentia rei con- ſequuntur, manifeſta eſt ratio, cur ueteres attribu- tum uocent eſſentiale conſecutiuum Ipſam autem eſſentiam, et ea, quibus eſſentia continetur, uocant eſſentiale conſtitutiuum.
+
+5& 78 Poſita itaque rei eſſentia, ponuntur quoque rei attributa. Demonstr. Cum enim in eſſentia ratio attributorum contineatur, 77.) conſequens eſt, ut, poſita eſſentia, ponantur quoque attributa. Poſita enim rei alicuius ratione ſufficiente, ipſam rem poni, ex ſuperioribus conſtat: Siue, ut ueteres aiunt, poſita caussa, Ponitur effectus. s 75. Hinc attributa entis ab eiusdem eſſentia ſeparari non poſſe, intelligis. Demonſtr. Ponamus, attributa ab eſſentia ſeiungi poſſe, tunc fieri poſſet, ut attributa aut ſine ratione eſſent, aut ratio ęorundem non contineretur in eſſentia ſola
+
+[p. 77] §. 78. De generalioribus entis affectionibus.
+
+: Si sine ratione essent, corrueret principium rationis sufficientis. (§. 33.) Si ratio illorum non contineretur in ſola eſſentia, eſſent at- tributa, (per hypothesin.)
+
+et non eſſent attribu- 1. (per def. 6.. traditam) Cum uero fieri nequeat, ut aliquid ſimul ſit, et non ſit, ſ5. 22)
+
+fieri quoque non poſſe, intelligitur, ut attributa entis ab eiusdem eſſentia ſeiungantur.
+
+§. 80. Attributa entis sunt necessa- Demonstr. Cum enim attributa ſint eĩus- 3æ modi, ut ab essentia ſeiungi non posſint, à 79) essentia autem entis ſit necessaria, ĩ 71) consequens eſt, ut attributa quoque æ- ſint necessaria. P l Fieri e. gr. non potest, ut, quamdiu homo eſt homo, adeoque.e gaudet rationalitate, tamdiu careat docilitate. Necessaria itaque in homine eſt docilitas, tanquam attributum, ex eſſentia huma nis fluens. ꝗ. 8i. Ex quo porro pateſcit, attributa, ex entis eſſentia reſultantia, pariter, ac ipſas eſſentias, eſſe aeterna, immutabilia, incommunicabilia, omnisque augmenti et diminutionis incapacia. (conſ, 5. 72. ſqq.) NEE
+
+[p. 78] De generalioribus entis affectionibus. 79
+
+§. 82. Attributis opponimus modos siue accidentia. Eſt autem modus siue accidens nihil aliud, quam eiusmodi affectio, cuius ratio ſufficiens extra eſſentiam in entibus aliis continetur. E. gr. Eruditio eſt modus siue accidens hominis. Eruditio enim non fluit ex eſſentia hominis.
+
+Hinc conſequitur, modos a re, cuius sunt modi, poſſe separari. Demonſtr. Cum enim id omne, quod rationem ſui sufficientem non habet in rei essen tia, ab eadem ſeparari posſit, (§. 79.) modi autem rationem ſui ſufficientem non agnoſcant in rei eſſentia, 82) euidens eſt, modos poſſe a re ſeparari. Sic e. gr. eruditio poteſt ab homine ſeparari, et nihilominus homo manet homo. Modos dicebant ueteres scholastici accidentia praedicabilia, quia apta ſunt, ut praedicentur ſiue enuncientur de ſubiectis ſuis. Haec itaque accidentia praedicabilia definiebant recte per eò, quae poſſunt adeſſe et abeſſe ſine ſubiecti interitu. Accidentia autem praedicabilia diſtinguebant ab accidentibus prae- dicamentalibus. Accidens ſcilicet praedicabile * contradistinguebant proprio siue attributo, quod necessario et conſtanter rei ineſt. Accidens autem praedicamentale opponebant ſubſtantiae, 1 er
+
+[p. 79] 80 De generalioribus entis affectionibus.
+
+et ſub accidenti praedicamentali complectebantur tum propria, tum accidentia ſtricte ſic dicta, siue praedi: cabilia. Quam quidem diſtinctionem uel ignoraſſe, uel in diſputandi feruore non ſatis attendiſſe uidetur Flacius, qui, in celebri illa ſatisque nota disputatione, cum Victorino Strigelio inſtituta, peccatum originis ipsam esse hominis ſubſtantiam, contendebat. De quo plura in ſcholis noſtris.
+
+Quandoquidem itaque modi a re, cuius ſunt modi, ſeiungi poſſunt, (§. 83.) perſpicuum eſt, modos cuiusuis rei eſſe mutabiles et contingentes.
+
+§. 85. Quamuis uero modi, qua actualitatem ſuam et exiſtentiam, non ex eſſentia rei fluant, (f.82.) possibili- tates tamen modorum rationem ſui ſufficientem in eſſentia agnoscant, neceſſe eſt. Demonſtr. Cur modi ineſſe poſſint, debet adeſſe ratio. (§. 32.) Illa ratio aut in eſſentia rei, cui modi ineſſe poſſunt, quaerenda eſt, aut in attributis rei, aut in modis. Quia plura in re quapiam non dantur. Si dicis: ratio eſt in modis ipſis, rei iam inexiſtentibus, quaerenda, tunc ex exiſtentia modorum concipi
+
+[p. 80] De generalioribus entis affectionibus. 81 concipi debet, cur modi ineſſe poſſint, ſ5. 31) adeoque, quia fluit poſſibilitas hac ratione ex exiſtentia, exiſtentia prior erit, quam possibilitas. Cum uero exiſtentia omnis sup- ponat iam poſſibilitatem, 52) facile intelligis, exi- ſtentiam modorum non eſſe priorem, quam poſſibilitatem eorundem, adeoque, quod modi rei ineſſe poſſint, non concipi poteſt ex eorundem actualitate. Si dicis: Ratio ſufficiens, cur modi ineſſe possint, latet in attributis, tunc conceditur hoc ipso, ratio- nem ſufficientem, cur modi ineſſe poſſint, latere in eſſentia, quia attributa ſui rationem ſufficientem habent in eſſentia. (§. 77.) Relinquitur ergo nihil aliud, quam ut statuamus, modorum poſſibilitatem, uel proxime, uel remote, interuenientibus attributis, ex eſſentia rei cuiusuis fluere.
+
+#### E. gr. Eruditio, tanquam modus et accidens
+
+hominis, non fluit, qua actualitatem ſuam, ex eſſentia hominis, quod uero homo poſſit eſſe eruditus, id dependet ab ipſius eſſentia. Solicite profecto actualitas et poſſibilitas modorum ſunt diſtinguendae, maxime cum haec in intricata illa controuer- ſia: num malum ex eſſentia creaturae fluat: multo uſui ſint futura, uti id infra in Theologia naturali pateſcet. Ex his paret nunc, quid ſit diſpoſitio naturalis Quatenus ſcilicet ens ad modos admittendos aptum eſt per eſſentiam, eatenus ipſi diſpoſitionem nat- F ralem
+
+[p. 81] 82 De generalioribus entis affectionibus. 1 ralem ad illum modum, quem recipere poteſt, tribuimus. Homo e. gr. gaudet diſpoſitione naturali ad eruditionem recipiendam, quia eruditionem, tanquam modum, homo per eſſentiam recipere poteſt.
+
+5. 36. Poſſibilitates itaque modorum loco attributorum eſſe habendas, ex his nunc cumulatissime intelligi poteſt. Demonstr. Cum enim poſſibilitates modorum in ipſa eſſentia fundatae ſint, ſ. 85) id autem, quod in eſſentia rei cuiusdam fundatum eſt, ſiue quod ex eſſentia rei reſultat, attributi loco recte habeatur, (§. 77.) conſequens eſt, ut poſſibilitates modorum attributorum loco ſint habendae. E. gr. Poſſe calidum eſſe, eſt attributum lapidis, HEP quamuis calor actualis ſit inter modos lapidis refe- uumuuu rendus.
+
+Poſſibilitates itaque modorum ſunt necessariae et immutabiles. Demonstr. Cum enim attributa rei ſint ne- ceſſaria et immutabilia, ũũ. 80.81.) poſſibilitates autem modorum loco attributorum ſint habendaeę, ũ. 86.) conſęquens eſt, ut poſſibilitates y
+
+[p. 82] De generalioribus entis affectionibus. 83 tates modorum ſint neceſſariae et immuta- r biles. 3i Quamdiu e. gr. homo eſt homo, et rationalita- te gaudet, tamdiu quoque necęſſarium eſt, ipſum poſſe fieri doctum,
+
+5 B8. Ex his optime nunc poterit iudicari, quid sit entis unitas. Complexus ſcilicet eorum Omnium, per quae ens aliquod praeciſe hoc ens eſt, et non aliud, conſtituit entis cuiusuis unitatem. r Considera e. gr. hunc librum, quem coram intueris. Hic liber conſtat ex variis determinationibus, quae efficiunt, ut liber hic praeciſe hic liber sit, et non alius. Atque uniuerſus ille complexus uariorum, hunc potissimum librum constituentium, efficit id, quod unitatem libri dicimus, S. 89.
+
+Vnitatem itaque in complexu totaque comprehenſione eorum, quae eſſentiam rei conſtituunt, cum eademque immediate et neceſſario connexa ſunt, conſiſtere, ex demonſtratis fit manifeſtum. Demonſtr. Cum enim unitas entis conſi- ſtat in complexu eorum, per quae ens praeciſe hoc ens eſt, et non aliud, ſ 88.) per ef sentiam F2
+
+[p. 83] 84 De generalioribus entis affectionibus.
+
+4. ſentiam autem, ſiue ea, quae eſſentiam con- ſtituunt, adeoque etiam per attributa, cum eſſentia immediate et neceſſario connexa, 7/) res aliqua praeciſe haec res ſit, et non alia, (§. 66.) intelligitur, recte affirmari, cuiusque rei unitatem in complexione eorum, quae eſſentiam conſtituunt, cum ea- demque immediate et neceſſario ſunt connexa, con- ſiſtere. Hinc eſt, ut Thümmigius unitatem definiat per inſeparabilitatem eorum, per quae ens in eſſe ſuo determinatur. Conf. Institutt. Philos. VVolfianae. P. 47. §.
+
+90.
+
+Omne ens eſt unum. Demonſtr.
+
+Cum enim omne ens habeat ſuam eſſentiam, 68.) adeoque etiam attributa, ex eſſentia neceſſario fluentia, (§. 77.) in complexu autem ſeu comprehenſione illorum, quae eſſentiam entis conſtituunt, cum eademque, tanquam attributa, necessario sunt connexa, conſiſtat unitas, (§. 88.) palam eſt, omne ens debere eſſe unum. Vnitatem, de qua nunc loquimur, uocabant ueteres metaphysicam tranſcendentalem et ab- Solutam, referebantque illam inter affectiones entis simplices, quae ſimpliciter et ſine oppoſitorum disiunctione cum ente reciprocari poſſunt Diſtin
+
+[p. 84] De generalioribus entis affectionibus. 85 _a
+
+Diſtinguebant praeterea unum metaphyſicum ab o numerico. Vnum numericum ſiue exclusiuam uocabant, quod negationem plurium infert. Vnum uero abſolute ſumtum et transcendentale appellitabant id, quod eſſentiam indiuisam ac minime multiplicem habet. Vnitatem uero conſtituebant in eſſentiae indiuiſione. Ex his Hebenſtreit. philoſ. prim. p. 498. noſtrum theorema: omne ens eſt unum: ita demonſtrat: Si non, in- quit, omne ens eſſet unum, ſeu non haberet eſſentiam indiuiſam, tunc non eſſet ens, ſed entia, cum diuiſa eſſentia arguat multitudinem, aut minimum dualitatem essentiarum, multiplicata autem eſſentia, quippe quae est formale entis, multiplicetur ipſum ens, neceſſe eſt.
+
+Vnum autem metaphyſicum multiplex eſt. a) Eſt uel indiuiſum ita, ut non ſit actu diuisum, interim tamen diuidi poſſit. E. gr. pomum eſt indiui- ſum, diuidi tamen poteſt. Vel eſt ita indiui- ſum, ut nec actu ſit diuisum, nec diuidi poſſit. Quod dicimus indiuisibile. E. gr. Deus. B) Vnum eſt uel unum per ſe, uel unum per accidens. Illud dicitur, quod, ſi ex partibus pluribus coagmentatum eſt, ex eiusmodi partibus eſt conflatum, quae a natura per ſe ac primo ad id ordinatae ſunt, ut ad tale quid conſtituendum uniantur. E. gr. Homo eſt unum per ſe. Vnum uero per accidens, quod etiam uocant unum per meram aggregationem, dicitur a ueteribus, quod includit plura entia, quae nullum inter ſe ordinem ſeruant, nullamque unionem habent, ſed aggregantur ſaltem. E. gr. aceruus;s frumenti.
+
+F3 s 9u.
+
+[p. 85] 86 De generalioribus entis affectionibus.
+
+5. 9. Caeterum obſerues, omnia attributa rei cuiusdam, ex eſſentia oriunda, 77.) omnesque omnino modos, rei alicui in- exiſtentes, generali nomine adiunctorum deſignari.. Vt p adeo adiunctum et affectionem unum fere idemque eſſe pateat, (conf. §. 76.) Res autem iſ illa, quae eſſentia et attributis gaudet, modorumque capax eſt, dicitur Subiectum. Attributa, quae rei neceſſario et conſtanter insunt, uocant ueteres adiuncta propria, modos au- 3 tem, qui poſsunt a re, cui insunt, ſeiungi, dicunt adiuncta communia. Subiectum, cui insunt ad- 2 iuncta, uocant alias ſubiectum metaphyſicum, item Br 7 ror 3subiectum inhaesionis. Ideo autem dicitur res illa, à cui inſunt attributa et accidentia, ſubiectum meta- Phyſicum, ut distinguatur a ſubiecto logico ſiue praedicationis, de quo actum eſt in Logica, li 5. 191. CAP.>E VIII. DE EO, QUOD
+
+IDEM EST AC DIVERSVM.
+
+5 a2eæ;r e TV- 5. 92. Euolutis hactenus generalioribus entis, es- I ſentia, attributorum, et modorum denique notionibus, nunc ad peculiares quasdam
+
+[p. 86] De Eo, quod idem est ac diuersum. 87 dam entis proprietates explanandas nos accingemus.
+
+s 9. Si res quascunque inter ſe comparauerimus, tunc uel easdem, uel diuerſas, uel ſimiles, uel diſſimiles eſſe, reperiemus. §. 94. 1
+
+Eadem dicuntur, quae ſibi mutuo poſſunt substitui, ita, ut facta ſubſtitutione, nulla ad- fit mutatio, ſiue A, et B, dicuntur eatenus eadem, quatenus, quod eſt in A, id quoque in B, reperitur. Si omne id, quod eſt in A, quoque deprehenditur in B, tunc A, et B, dicuntur ab- ſolute eadem. Si uero A, continet tantummodo aliquid, quod est in B, tunc A, et B, di- cuntur absolute eadem. Si uero A, continet tantummodo aliquid, quod eſt in B, tunc A, et B, dicuntur respectiue eadem.
+
+E. gr. Bis duo et quatuor ſunt eadem. Si quatuor groſſos expenderis, et ſubſtitueris in eorundem locum duos groſſos, bis sumtos, nullam mutationem in marſupio tuo deprehendis. Eadem ab- ſolute talia non exiſtere, euincet infra principium indiſcernibilium. Eadem autem reſpectiue talia et dari possunt et dantur. E. gr. Homo et brutum sunt respective eadem. Homo enim uiuit et ſentit, brutum etiam uiuit et sentit, adeoque brutum continet quid, quod eſt in homine, et hoc reſpectu homo et brutum ſunt eadem. lt F 4
+
+F4s 95. N
+
+[p. 87] 88 De Eo, quod idem eſt ac diuersum. §. 95.
+
+Affectio illa, qua entia ſunt eadem, 94) dicitur barbaro, ſed recepto tamen, uocabulo identitas. Sic in Caio et Titio deprehendis identitatem, quatenus Caius et Titius a) uiuunt et ſentiunt, 3) rationalitate gaudent.
+
+L 5-96. Idem numero, quod uocatur quoque idem ipſum, eſt, quod bis exiſtere adeoque numerari non poteſt, quodque ideo de ſe ipſo tantum dici poteſt. ft identitatem absolutam. Si e. gr. monetam quandam pretioſiorem tibi mutuam dedero, et tu eandem ipſam indiuiduam monetam, quam tecum communicaui, poſt aliquod temporis ſpatium, mihi reddideris, tunc eandem numero mihi reddere diceris. Quodlibet indiuiduum, quia de ſe tantum nec de alio dici poteſt, eſt idem numero. In Theologicis dicuntur tres perſonae habere eandem numero eſſentiam et naturam, quia pater eam ipſam indiuiduam naturam poſſidet, quam filius et ſpiritus ſanctus.
+
+5. 9 Conuenientia autem plurium indiuiduorum in conceptu illorum ſpecifico conſtituit identitatem eorum ſpecificam. Liliti
+
+#### E. gr. Caius, Titius, Sempronius, non ſunt
+
+u quidem iidem numero, ſed ſunt tamen iidem spe cie, quia et Caius, et Titius, et Sempronius, in co
+
+[p. 88] De Eo, quod idem eſt ac diuersum. 89 eo conueniunt, quod ſint homines. Si uero plures ſpecies in aliquo conceptu inter ſe conuenerint, tunc illa plurium ſpecierum conuenientia in conceptu illarum generice dicitur identitas generica, E. gr. Anima, angeli, Deus, in eo conueniunt, quod ſint ſpiritus, ergo animae, angeli, Deus, ſunt iidem genere. In rebus diuinis distinguere adhuc ſolemus es- ſentialem identitatem ab identitate perſonali. E gr. Pater et filius ſunt idem essentialiter, ſed Filius Dei, et Dei uerbum et Chriſtus eſt idem perſonaliter.
+
+§. 98. Diuerſa sunt, quorum unum continet ali- quid, quod non eſt in altero, ſiue, quorum ſubſtitutio mutationem producit. Sic ſi in bibliotheca in locum libri alicuius in folio ſubſtitueris librum in 3vo, tunc, ſubſtitutione facta, magnam obseruabis mutationem, cum, quod deprehendebas in libro formae maximae, non itidem uideas in libro minoris formae. Adeoque hos duos libros diuersos eſſe, ultro fateberis.
+
+Diuerſa numero ſunt, quorum unum de altero affirmari nequit, ſeu quorum unumquodque propriam ſibi habet exiſtentiam. 1 E.gr. Si Caium et Paullum, ut duas perſonas, conſideraueris, uidebis, Caium non dici poſſe Paullum, et Paullum non poſſe dici Caium. Quo
+
+F3 ipſo
+
+[p. 89] E JE El 90 De Eo, quod idem eſt ac diuerſum. ipſo intelligis, Caium eſſe a Paullo, et Paullum a Caio diuerſum, et quidem numero.
+
+§. 100. Diuerſa ſpecie ſunt, quae in conceptu ge- nerico non conueniunt. lũ
+
+#### E. gr. Homo et lapis ſunt diuerſa ſpecie, cum
+
+non ſub uno genere contineantur. Homo enim, cum uiuat et ſentiat, eſt animal, id quod de lapide dici nequit. Quae diuerſa ſunt ſpecie, dicuntur habere distinctionem essentialem. Sic eſſentialiter differunt ſpiritus et corpus, propterea, quod habent eſſentiam, ſpecie diuerſam.
+
+ò. §. 101. Expoſitis nunc et declaratis ſufficienter eiusdem et diuerſi notionibus, facile nunc erit intellectu, quid ſint similia, quid diſſimilia. ſt v n ũ Nota characteriſtica dicitur id, ex quo res cognoſcitur, et a reliquis diſtinguitur. æ- x Sic e. gr. latratus eſt nota characteriſtica ca- nis, cum per id, quod latret canis, ab aliis rebus ſoleat a internoſci. §. 103. EEIF i Quae easdem habent notas characteriſti- 0 /u -5 cas, dicuntur similia, quae uero diuersas ha- bent notas characteriſticas, appellamus diffi milia. Si notae characteriſticae omnes eaeum.- æ dem ſint, adeſt ſimilitudo abſolute talis. Si uero tantum quaedam notae fuerint eaedem, adeſt similitudo reſpectiue talis.
+
+E. gr.
+
+[p. 90] De Eo, quod idem eſt ac diuersum. 91 , E.gr. Caius, Titius, Sempronius, in hoc ũmile: sunt, quod ſint homines. Habent enim easdem notas characteriſticas, ſcilicet Caius anima rationali, cum corpore organico connexa, gaudet, item Titius, et Sempronius. Caius uero, Titius et Sempronius in quibusdam ſunt diſſimiles, cum in Caio, ut indiuiduo conſiderato, obserues notas, quibus ipſe a Titio et Sempronio diſcernitur, quaeque adeo in Titio et Sempronio non reperiuntur. VVolfius ſimilia dicit in Ontologia Lat. p.160. eſſe ea, in quibus ea eadem ſunt per quae a ſe in- uicem diſcerni debebant.
+
+103. Vt autem notio similitudinis et dissimilitudinis, aequalitatis item et inaequalitatis diſtinctius euoluatur, insimulque, quomodo a ſimilibus aequalia differant, rectius perſpiciatur, opus eſt, ut hic, quid ſit qualitas et quantitas, exponamus. Sine his enim notionibus doctrina de ſimilibus et aequalibus uix explicari poteſt. §. 105. Qualitatem dicimus determinationem rei internam, quae ſine alio aſſumto intelligi poteſt Per determinationem autem rei internam intelligo id omne, quod rei ineſt, quodque efficit, ut res aliqua praeciſe haec res fit, et non alia. Ad qualitates itaque referimus omnia attributa, quae rei constanter inſunt, 77 8ſ.) item omnes modos
+
+[p. 91] 92 De Eo, quod idem eſt ac diuerſum. dos et accidentia, quae rei tantum ad tempus inſunt. 83.) Attributa uocat VVolfius in Ontolog. Lat. s. 460. et 461. qualitates primitiuas; acciden- tia autem et modos uocat qualitates deriuatiuas. Qualitas autem diuiditur in phyſicam et moralem. Moralis deprehenditur in actionibus hominum liberis, e. gr. bonitas actionum. Phyſica in aliis rebus naturalibus consideratur. Vt uero definitio qualitatis nemini non perſpicua ſit, ſequentia obſeruari uolo. Sic e.gr. dul- cedo cibi eſt qualitas cibi. Eſt enim dulcedo con- sideranda, tanquam quid intrinſecum cibo, adeo- que, cum dulcedo praeciſe hunc cibum conſtituat, et v non alium, patet, dulcedinem eſſe æ) determinatio- 'r nem cibi intrinſecam. B8) Dulcedo cibi intelligi poteſt ſine alio aſſumto cibo, i. e. ſi alteri dixeris, te cibum dulcem tecum sumsisse, in- telliget, qualis  ille ſit, idque ſine alio dato cibo uel potu, ad quem cibus guſtatus referri debeat. Qualitatem definiebant veteres per eiusmodi accidens, a quo ſubſtantia denominatur:tur qualis. Conſ. n Velthemii Metaphyſic. p. 1810. item Scharfii Log. I3 p 7I. Sed quis non uidet, hanc definitionem -unẽp"“] -t idem per idem explicare? Quas definitiones euitandas eſſe, monuimus in Logic. §. 163. L5E §.
+
+ꝗ I06. SE
+
+Ex his poſſe inter uides, notas rei characteriſti- i cxũs.
+
+IiL Demonstr. lD
+
+[p. 92] De Eo, quod idem eſt ac diuerſum. 93 Demonſtr. Cum enim qualitates ſint determinationes rei intrinſecae, 105) determinationes autem rei intrinſecae efficiant, ut praeciſe res aliqua haec res ſit, et non alia, (per des.) manifestum eſt, qualitates efficere, ut res aliqua praeciſe haec res ſit, et non alia. Si efficiunt qualitates, ut res aliqua praeciſe haec res ſit, et non alia. Si efficiunt qualitates, ut res aliqua praeciſe haec res ſit, et non alia, intelligitur, per qualitates alteram rem ab altera internoſci. Cum uero id, quod rem alteram ab altera dignoſcit, eius rei, quam ab altera- internoscit, ſit nota characteriſtica, (§. 102.) perſpicuum eſt, qualitates referri poſſe inter notas rei characteri- ſticas. õ. Io7. Quaecunque itaque easdem habent qualitates, easdem quoque habent notas characteriſticas; ubi uero diuerſæ adſunt qualitates, ibi diuerſas quoque notas characteriſticas locum habere, intelligitur. §. 108.
+
+Quantitatem definimus per multitudinem eorum quae rem conſtituunt. Vt adeo, ubi determinata multitudo locum habet, ibi locum habere quantitas recte dicatur. Multitudo autem conſtat ex unitatibus iunctis. Wolfius quantitatem definit per determinationem rei intrinsecam, quae tantum dari, ſine alio 1
+
+[p. 93] 94 De Eo, quod idem eſt ac diuerſum.
+
+alio autem assumto intelligi nequit. Dari autem poſſe dicitur, cuius notionem habere nequis, niſi ubi idem actu praeſens intuearis. Notionem adeo abſentis excitare non potes, niſi id retuleris ad aliud homogeneum praesens siue datum. Si e. gr. ex me quaeſiueris, quanta fuerit dulcedo cibi, quem ſumſi, tunc distincte explicare nunquam potero, quanta fuerit dulcedo cibi, niſi alia quanta aſſumſero, ad quae, tanquam ad men- suras, dulcedinis quantitatem exigam. Quaere ex Titio, quantus fuerit Colossus, ſiue ſtatua Co- loſſea? Distinctam quantitatis notionem non ſuppeditabit, nec intelliges unquam, quanta haec ſtatua fuerit, niſi aſſumſeris aliud quantum, ad quod Colossi quantitatem exigas. Si uero res, cuius quantitatem uis explorare, praesens eſt, tunc intuere tantum rem, et diſtinctam quantitatis ideam acquires.
+
+Veteres quantitatem diuidebant a) in quantitatem molis et quantitatem uirtutis. Illam, quam proprie quantitatem eſſe patet, dicebant extenſionem ſubſtantiae naturalis, e. ”T. quantitas lapidis eſt quantitas molis. Hanc uocabant quamlibet perfectionem rei internam, siue cu- iusque rei ualorem, ſecundum quem cum alia re, iLĩ tanquam cum menſura, comparabilis eſt. Sic, cum interrogo te, quanta eſt ſapientia Dei t -ar r/ intelligis, me non loqui de quantitate molis, ſed uirtutis. 3) Quantitatem diuidebant praeterea in continuam et discretam. Ad illam referebant lineam,
+
+ſuperficiem, et corpus mathematicum, h. e. corpus, in longum, latum, et profundum ex- [p. 94] puæ
+
+De Eo, quod idem eſt ac diuersum. 95 extensum. Ad hanc referebant numerum, quem VVolfius in Ontolog. Lat. p. 328. definit ita: Numerus eſt id, quod ad unitatem eam habet relationem, quam recta quaedam data ad rectam datam aliam habere poteſt.
+
+mc.a-
+
+§. 109. Quantitas non pertinet ad notas rei characteristicas. Demonſtr. Cum enim res, ſeorſum conſiderata, non poſſit per quantitatem agnoſci, et ab aliis rebus diſtingui, ſed quantitas rei co- air —r gnoſcatur tantum in reſpectu ad aliam quantitatem ſiue menſuram, 108.) nota autem rei rærz characteriſtica dicatur id, ex quo res cognoſcitur, et a reliquis diſtinguitur, (§. 2.) manife- ſtum hinc fit, quantitatem rei non pertinere ad eiusdem notas chara- Cteristicas. §. 110.
+
+Quae eandem habent quantitatem, dicuntur aequalia, quae uero diuerſam, appellamus inaequalia. Vt adeo aequalitas in abſtracto recte definiatur per identitatem quantitatis, et inaequalitas per quantitatis diuerſitatem. Hinc ueteres: Maxime proprium eſt quantitatibus, ut ſint aequales uel inaequales.
+
+§. 111.
+
+[p. 95] De Eo, quod idem eſt ac diverſum.
+
+5 Ii His expeditis, perfaciles nunc erunt intellectu poſitiones abſtractae, quas de identitate et diuerſitate, de ſimilitudine item et diſſimilitudine, et de aequalitate atque inaequalitate, nunc demonſtraturi ſumus.
+
+F- Ii2. Quae in aliquo tertio conueniunt, illa eadem sunt, siue illa inter se conueniunt, æ.reſpectu istius tertii. Demonstr. Fac enim, A, et B, in aliquo tertio conuenire, nec tamen eatenus eſſe eadem, tunc aliquid in A, erit, quod non eſt in B, 94) Cum uero sumamus, A, et B, in teram —tt a-,- tio C, conuenire, intelligis, debere eatenus, SE:% quatenus in C, conueniunt, eſſę A, et B, eadem. Alias non conuenirent in tertio, quod eſt contra hypothesin. E. gr. Anima et Deus inter ſe conueniunt, qua- tenus conueniunt in hoc tertio, quod Deus ſit ſpiritus, et anima ſit ſpiritus. Atheus et ſtultus ſunt iidem, quatenus in hoc tertio conueniunt, quod Atheus contra rationem agat et stultus etiam a -_2r t]
+
+Haec propoſitio habetur a philoſophorum nontacl) vi, nullis pro uero et legitimo fundamento, quo omnia noſtra ratiocinia nituntur. Quotiescunque enim ratiocinamur, toties ita procedimus, ut alteram ideam, nempe ſubiectum concluſionis ſrr ſemel
+
+[p. 96] De Eo, quod idem est ac diuersum. 97 1 ſemel in praemiſſis, cum idea aliqua tertia coniungamus et combinemus, et ſemel praedicatum conclusionis cum eadem tertia idea connectamus. Hinc concludimus, ipſum ſubiectum et praedicatum conclusionis inter ſe conuęnire, quia conueniunt in idea aliqua tertia.
+
+51II3. Quaecunque in iisdem rationem
+
+ſui ſufficientem agnoscunt, illa eatenus ſunt eadem. Demonſtr. Fac enim, A, non minus, quam B, in C, rationem ſui ſufficientem habere, siugs. æ tunc A, non minus, quam B, in hoc tertio conueniunt, quod in C, rationem ſui ſuffici- E3 -mui —nm. n- entem habeant. Quaecunque in aliquo tertio conueniunt, ea conueniunt inter ſe, ſiue illa ſunt eadem. n2.) E. quaecunque rationem ſui ſufficientem in iisdem agnoſcunt, illa conueniunt inter ſe, et eatenus ſunt eadem.
+
+Fac e. gr. Caium duas conſcripſiſſe diſputationes, quas quidem, non nego, poſſe in multis dif- æ u—m -3 ferre, eatenus tamen conueniunt inter ſe, et ſunt eaedem, quatenus ad rationem ſufficientem et caussam, a qua productae ſunt, reſpicitur.
+
+9. Ii4 Patet itaque ex his, ubicunque adsunt eaedem eſſentiae, ibi eadem esse attributa. G Demonstr.
+
+[p. 98] De Eo, quod idem eſt ac diuerſum. E]V2]2ill Demonstr. Cum enim ea eadem ſint, quae in iisdem rationem ſui sufficientem habent, (6. u3) attributa autem ſint eiusmodi affectiones, quarum ratio continetur in ſola eſſentia, (§. 77.) patet, poſitis iisdem eſſentiis, poni eadem attributa. E. gr. Caius et Titius eandem habent eſſentiam, rationalitatem scilicet. Vnde ſequitur, ut Caius aeque ac Titius gaudeant facultate libere agendi. Facultas enim libere agendi eſt attributum, ex rationalitate, tanquam hominis eſſentia, immediate et neceſſario proueniens. §. 115.
+
+Vnde neceſſaria conſecutione conficitur, diverſitatem eſſentiarum gignere attributo- rum diuerſitatem. us. Quaecunque habent easdem qua- litates, illa ſunt ſimilia, quae uero diuersas habent qualitates, ſunt dissimilia. Demonſtr. Cum qualitates rei referantur inter notas eiusdem characteriſticas, (V. 15) atque adeo, quaecunque easdem qualitates habent, easdem quoque habeant notas characteristicas, (3. 107) intelligitur, ea, quae easdem habent qualitates, eſſe ſimilia, et, quae diuerſas, dissimilia. 5 3) Hinc
+
+[p. 99] De Eo, quod idem est ac diuerſum. 99 Hinc uides, cur ueteres dixerint: secundum qualitatem dicimur ſimiles et diſſimiles. E. gr. Demoſthenes et Cicero ſunt ſibi ſimiles, ratione eloquentiae, ouum est niui ſimile ob albedinem, Caius uero et Titius ſunt ſibi diſſimiles ratione diligentiae et eruditionis. Vidęs hic qualitatum identitatem et diuerſitatem.
+
+s5 u. Quaecunque habent essentiam eandem, eadem item attributa et modos eosdem, illa sunt ſimilia. Demonſtr. Cum enim eſſentia, attributa, modique qualitatum in numerum referantur, (ꝗ. i05.) ea autem, quae habent qualitates easdem, ſint ſimilia, (. 16.) patet, ea, quae habent eſſentiam eandem, eadem item attributa, et modos eosdem, eſſe ſimilia.
+
+5 us. Vbicunque itaque eſſentialia ſunt diuerſa, et modi ſiue accidentia diuerſa, ibi, patet, adeſſe diſſimilitudinem. s5 19. Si duo eidem tertio ſunt ſimilia, ipſa quoque ſibi ſimilia eſſe debent. Demonstr. Fac, A, et B, ſimilia eſſe tertio, quod C, uocabimus, tunc A, et B, ratione notarum characteriſticarum, conueniunt, ſiue G 2 eadem Gz
+
+[p. 100] De Eo, quod idem eſt ac diuersum. : eadem erunt cum C (ꝗ. 103 Quaecunque eadem ſunt, ſiue conueniunt in tertio quodam, illa inter ſe ſunt eadem. 12) E. ũi duo eidem tertio ſunt ſimilia, ipſa quoque ſibi ſimilia eſſe debent. E. gr. Si lac et ouum, ratione albedinis, similia ſunt niui, dubitari non poteſt, lac et ouum ſibi ipſis, ratione albedinis, eſſe ſimilia.
+
+5. 20. Omnia entia, quaecunque tandem exiſtant, ſunt ita comparata, ut aliqua ex parte sint ſimilia ſibi. Demonstr. Cum omnia entia, quaecunque tandem extiterint, in eo conueniant, ut poſſibilitate gaudeant, (§. 56.) possibilitas autem conſtituat entis eſſentiam, (§.67.) con- ſequens eſt, ut omnia entia eandem habeant eſſentiam. Quaecunque habent eandem eſſentiam, ſunt ſimilia. 177) Ergo omnia entia ſunt ſibi ſimilia, certe in eo, quod ſint poſſibilia. Haec ſimilitudo entium quamuis non concedi non poſſit, ſi tamen diuerſi reſpectus, ſub quibus entia conſiderari poſſunt, rurſus interceſſerint, Zsr nr— adeſt entium ſumma dissimilitudo. Vt adeo recte dixerint ueteres: Omne ſimile eſt etiam dissimile.
+
+S. II.
+
+[p. 101] De Eo, quod idem est ac diuersum. 101 §. 121.
+
+Quamuis ſimilia ob easdem notas characteristicas, quibus a ſe inuicem diſtingui debebant, distingui non poſſe uideantur, possunt tamen illa, salua similitudine, quantitate differre. Demonſtr. Cum enim quantitas non pertineat ad notas rei characteristicas, (ꝗ 19 facile intelligis, poſſe duas res habere easdem notas characteristicas, adeoque eſſe ſimiles, quamuis diuerſa adſit quantitas. Vt adeo intelligas, ſimilia, ſalua ſimilitudine, quantitate differre. Poteſt
+
+#### e. gr. ouum alteri ouo ratione albedinis
+
+exacte ſimile eſſe, quamuis alterum ouum ab altero, ratione quantitatis, multum differat.
+
+1 Si uero contigerit, ut ſimilia ſimul eandem habeant quantitatem, adeoque ſint aequalia, s o.) tum uero illa a ſe inuicem distinguimus per reſpectum ad alia externa entia, loci e.gr. ratione habita. Fac, duo oua oculis tuis obuerſari, et ſimilia, et aequalia. Si unum ab altero, poſt aliquod temporis ſpatium diſcernere volueris, ad locum, ubi alterum alteri coëxstiterit, et ad aliasmeęiàœes externas attendas. Cumque hac ratione ſimilia non distinguantur, niſi per externas loci uel temporis aliusque rei circum- ſtantias, quae ſimul sensibus offeruntur, e ſimul
+
+G 3 prae-
+
+[p. 102] 100 De Eo, quod idem eſt ac diuerſum. praeſentes ſunt, intelligis, cur Leibnitius ſimilia definiuerit per ea, quae non poſſunt diſtingui, niſi per compraeſentiam, Conf. VVolfii Ontologia P. 165.
+
+§. 122. Cum omnia ſimilia, ſalua ſimilitudine, poſ- ſint differre quantitate, (ꝗ n.) tum autem, cum ſimilia per quantitatem diuerſam diſcernimus, non opus habeamus, ut externam circumſtantiam loci in ſubſidium adhibeamus, patet, hanc differentiam ſimilium, quae a quantitate petitur, poſſe dici internam. Vt adeo nunc intelligas, quid ſit, quod VVolfius definiat in Ontolog. Lat. ſſ. 345. quantitatem per diſcrimen internum ſimilium, h. e. illud, quo ſimilia, ſalua ſimilitudine, intrinſece differre poſſunt. Conf. Thummigii in- stitut. philos. VVolf. p.48.
+
+Cum multitudo eorum, quae rem conſtituunt, efficiant rei quantitatem, (§. 108.) illa autem ipſa multitudo poſſit aliter aliterque eſſe, (per ex- per) adeoque augeri minusue, quantum quoque dicere poteramus id, quod poteſt augeri et minui, recte cens“t re Vetere.
+
+5 3. Quemadmodum, quae ſimilia ſunt, poſsunt quantitate differre, 121D adeoque eſſe inaequalia, (p.110.) ita contra
+
+[p. 103] De Eo, quod idem eſt ac diuersum. 103 contra, quae aequalia sunt, adeoque eandem habent quantitatem, uo.) poſſunt eſſe diſſimilia. Demonſt?7. Cum quantitas rei non pertineat ad notas rei characte: risticas, (ꝗ. iꝗ.) intelligis. ea, quae eandem habent quantitatem, non ideo ſtatim habere easdem notas characteriſticas. Ea, quae habent ean- dem quantitatem, dicuntur aequalia. (Suo.) Ergo aequalia poſſunt habere diuerſas notas characteriſticas. Quae diuerſas habent notas characteristicas, dicuntur diſſimilia. (ſ: 193) Ergo aequalia poſſunt eſſe diſſimilia. Sic e. gr. liber et urceus, quem coram intueor, poſſunt eſſe aequales, et tamen, ob diuerſas notas characteriſticas et qualitates diſſimiles.
+
+y 124. Omne quantum non poteſt non ſibi ipſum eſſe aequale. Demonstr. Cum enim omne quantum ſit id, quod eſt, (ò. 22) intelligis, ſi quantum A, bis poſueris, tunc ſemper te ponere idem quantum A. Vbi uero eadem adeſt quantitas, ibi eſt aequalitas, (ò. no.) ut adeo euidens ſit, omne quantum ſibi ipſum ron ꝑoſe non poſſe non esse aequale. G 4 5. §. 125.
+
+[p. 104] I04 De Eo, quod idem eſt ac diuerſum.
+
+l 12. Quae aequalia ſunt eidem tertio, illa aequalia sunt inter ſe. ha
+
+Demonſtr. Si enim A, et B, ſunt aequalia T3 C, tunc A, et B, eadem ſunt cum C, ratione quantitatis. (3. no.) Quae eadem ſunt cum tertio, illa ſunt inter ſe eadem, (§. 12.)
+
+#### E. quae aequalia ſunt eidem tertio, ſunt inter
+
+ſe aequalia. Fac e. gr. menſam A, eſſe aequalem menſurae C, et menſam B, itidem eſſe aequalem menſurae C, facile intelligis, menſas A, et B, ſibi eſſe aequales.
+
+§. 126. _—0n Hinc cogitur haec propoſitio: Si A, et B, sunt aequalia menſuris C, et D, et menſurae C, et D, ſunt sibi ipsae aequales, intelligitur, ipſa quoque A, et B, ſibi ipſa eſſe aequalia. Demonſtr. Si enim A, eſt aequale menſurae C, et B, eſt aequale menſurae D, menſurae næ autem C, et D, ſunt ſibi aequales, conſequens eſt, ut menſurae C, et D, ſint eaedem ratione quantitatis. 3I) Adeoque, ſi A, et B, ſunt aequales menſuris C, et D, ſequitur, ut A, et B, ratione quantitatis in eodem tertio conueniant, (5. o.) Quae in eodem tertio [p. 105] uum
+
+De Eo, quod idem est ac diuersum. 105 1 tio conueniunt, siue eadem sunt, inter ſe conueniunt, ſiue eadem sunt, 12) E. ſi A, et B, ratione quantitatis eadem ſunt cum menſuris C, et D, consequens eſt, ut A, et B ſint intęr ſe eadem ratione quantitatis. Eadem ratione quantitatis dicuntur aequalia, ſꝗ. no.) E. ſi A, et B, ſunt aequalia menſurisC, et D, et menſurae C, et D, ſunt ſibi ipſae aequales, intelligitur, ipſa quoque A, et B, ſibi ipſa eſſe aequalia.
+
+Hoc theorema Mathematicorum filii ita enunciant: Aequalia aequalibus ſunt ſibi ipſa aequalia. Vt uero hoc theorema distinctius intelligatur, accipe exemplum. Ponas, menſam A, eſſe aequalem filo B, et alteram mensam C, eſſe aequalem filo D, Ponamus porro, filum B, eſſe aequale filo
+
+#### D. Quid inde conſequetur aliud, quam ut menſam
+
+A, aequalem eſſe menſae C, aiamus?
+
+Has positiones, de eodem et diuerſo, de ſimilitudine, et diſſimilitudine, de aequalitate denique et inaequalitate, uides, eſſe ſatis abſtractas, maximeque generales. Adeoque, ob uniuersalitatem ſuam multum nobis commodi ab iis in applicatione et praxi polliceri poterimus. Quare, quanta potuimus, breuitate et perſpicuitate hic illas demonſtrauimus, uberius easdem in scholis noſtris illuſtraturi.
+
+G3 CAPD.
+
+[p. 106] 106 De determinato D CAP. IX.
+
+DE DETERMINATO
+
+INDE TE RMINAT O. §. 127. m4%Doctrinae de conuenientia et diuerſitate U entium subiicimus nunc ea, quae de determinato et indeterminato ſunt annotanda. Hae notiones generaliores 7ã determi- nati et indeterminati hoc magis nunc ſunt euoluendae, quo frequentius occurrunt, cum in omni philosophia, tum uero uel inprimis in ſubſequentibus ontologiae capitibus. Subinde quidem uoce determinationis in ſuperioribus uſi ſumus, notione clara huius uocabuli contenti. Nunc uero pateſcet ex dicendis clarius, quae ſit terminis determinati, indeterminati, jtemque determinationum tribuenda idea di- stincta. §. 128. Determinare, ui originis, nihil aliud ſignificat, quam terminos limitesque rei dare, eamque ab omni alia re diſtinguere. Sic e. gr. cum animaduertimus, Caium animo fluctuare, atque dubitare, num satius ſit Theo- logiae, quam iuris prudentiae operam dare, ita quidem, ut animus maneat in ſuſpenſo, cogitationes- ! A 1 que
+
+[p. 107] 1 107 et indeterminato. 4 que in utramque partem diſtrahantur, tum dicimus, Caius an sich 30 nichte determiniren, i. e. non potest fluctuantibus et dubiis cogitationi- bus fixum aliquem terminum ponere. Ita quoque uocabulum aliquod determinare dicimur, ſi, miſſis aliis conceptibus omnibus, quos poterat inuoluere, tribuimus ipſi certum aliquem et fixum ſignificatum, atque adeo illud terminis quibusdam, intra. quos contineatur, includimus. : 1 Canzius in uſu Philoſoph. Leibnitianae et VVolfianae in Theolog. Tom. II. P. 235. 7 determinare ita definit: Determinare, inquit, h. l. dicimus indicare differentiam, qua aliud ab alio diſtat.
+
+5 de Determinatum est, de quo aliquid ita praedicatur, ut oppoſitum eius, quod praedicatur, ſimul excludatur, ſiue, ut Bilfingerus in dilucidat. p. 8. loquitur, determinatum eſt, de quo una propoſitionum contradictoriarum eſt uera, et altera falſa. Sic e. gr. cum scribo, tum haec actio dicitur actio determinata, fieri enim non poteſt, ut, dum scribo, ſimul non ſcribam, adeoque ſcribere ita de me praedicatur, ut oppoſitum ſcriptionis, quae de me praedicatur, excludatur. Cum Vitembergae exi- ſto, tum exiſto in loco determinato, quia fieri non poteſt, ut, dum commoror Vitembergae, ſimul Ienae uel Lipſiae exiſtam.
+
+ꝗ i30. Cum determinatum ſit id, de quo aliquid ita praedicatur, ut oppoſitum eius, quod prae- _u
+
+[p. 108] De determinato praedicatur, simul excludatur, (õ 2”9) con- sequens eſt, ut determinatum dici quoque poſſit id, quod eſt ſui generis unicum.
+
+ꝗn Determinato opponitur indeterminatum, de quo aliquid adhuc praedicari non poteſt etſi de eo in poſterum praedicari poſſe non repugnet. 1 E. gr. Voluntas noſtra, quatenus ſumitur pro gm facultate et potentia appetendi uel auersandi, eſt facultas indeterminata, reſpectu appetitus actualis, uel auerſationis. Nondum enim de uoluntate, pro facultate sumta, praedicari poteſt, quod re- uera appetat, aut reuera auerſetur, quamuis non repugnet, de uoluntate in poſterum praedicari, ipſam appetere aut averſari, ſi ſcilicet motiua ac- cesserint, quae determinatam uolitionem producant.
+
+Ea omnia, quaę in aliquo ſubiecto certo reſpectu determinata ſumuntur, dicimus de- terminationes, que, determinationes rei uocantur en omnia, quae efficiunt, ut res aliqua praeciſe haec res ſit, et non alia. E. gr. Intellectus et uoluntas ſunt determinationes ſpiritus, quia per intellectum et uoluntatem ſpiritus praeciſe eſt ſpiritus, et non aliud quidpiam. §. 133.
+
+[p. 109] et indeterminato. 109 §.
+
+133. Si ponitur determinans, ponitur quoque ipſum determinatum. Demonſtr.
+
+Si ponitur determinans, tunc ponitur aliquid, quod efficit, ut res aliqua praeciſe haec ſit, et non alia. ũ 128.) Si uero ponitur id, quod efficit, ut res aliqua praeciſe haec ſit. et non alia, ponitur ſimul id, quod efficit, ut de re cum certitudine aliquid praedicari poſſit. Id, de quo aliquid cum certitudine praedicatur, dicitur determinatum. (§. 129.) E. Si ponitur determinans, ponitur quoque determinatum.
+
+#### E. gr. Quod de anima cum certitudine poſſit
+
+praedicari, illam eſſe indeſtructibilem, id uero dependet ab hoc, quod anima ſit ens ſimplex. Cum itaque haec propoſitio: anima eſt ens ſimplex, efficiat, ut hoc de anima praedicari possit, ipsam eſſe indeſtructibilem, intelligitur, animae inde- ſtructibilitatem determinari per eiusdem ſimplicitatem. Poſita itaque animae ſimplicitate, poni- tur quoque eius indeſtructibilitas.
+
+5. 134- Vnde manifeſtum eſt, ſi eorum, quae per ſe inuicem determinantur, unum adfuerit, alterum quoque adeſſe debere. §. 135.
+
+[p. 110] 110 De determinato 5. 135- Porro hinc constare poteſt, essentiam rei per aliud non determinari, ipſam autem determinare attributa, rei constanter inexiſtentia. Demonſtr. Fac, eſſentiam per aliud quid, rei inexistens, determinari, tunc ſupponet eſſentia aliquod determinans in re, per quod ipſa determinetur. Quod autem determinans eſt, ſemper prius eſt determinato, (per ſenſum communem) ut adeo hac ratione prius quid in ente concipi debeat, quam ipſa eſſentia. Cum uero eſſentia ſit illud, quod primum in ente concipi debet, (§. 66.) per- ſpicuum eſt, eſſentiam per aliud quid non determinari. Quia uero attributa, reĩ conſtanter competentia, ſui rationem ſufficientem in eſſentia rei agno- scunt, 77) conſequens eſt, ut ex eſſentia con- cipi et intelligi debeat, cur haec et non alia rei in- ſint attributa. Eſſentia itaque efficit, ut haec potius, quam alia, in re quadam deprehendantur attributa. Id ipſum uocamus determinare. C5. 128) E. eſſentia determinat attributa,
+
+5 156. Ab indeterminato ad determinatum non ualet conſequentia. Demonstr- [p. 111] et indeterminato. Ii Demonstr Cum indeterminatum ſit id, de quo nihil dum certi praedicari poteſt, quamuis certi quid de ipſo praedicari poſſe, non repugnet, (8. 3I) intelligitur, indeterminatum, quatenus eſt indeterminatum, non poſſe referri ad ea, quae actu ſunt et exiſtunt. Si enim actu eſſent indeterminata, tunc ita eſſęnt actu, ut oppoſitum, ſcilicet non- exiſtentia, eodem tempore excluderetur, adeoque certi quid cum excluſione oppoſiti de ipsis praedicaretur, et ſic indeterminata eſſent determinata. (3 1299 Quod eſt contra primum principium contradictionis. 5. 220 Relinquitur itaque, ea, quae ſunt indeterminata, adhuc in uaga poſſibilitate uerſari. Cum uero a poſſę adeſſe non ualeat conſequentia, §. 54.) ab indeterminato ad determinatum ibidem non ualere conſequentiam, intelligis.
+
+E. gr Voluntas mea eſt adhuc indeterminata in relatione ad appetitum huius libri. Poteſt ipſum pro diuerſis circumstantiis appetere, poteſt ipſum quoque, accedentibus nouis motiuis, auer fari. Si itaque quaeſtio mota fuerit, cur appetam hunc librum potius, quam auerſer, et ego respondeam, quia facultate hunc librum appetendi gau- deo, tunc ab indeterminato ad determinatum concludam. Conf. Bilfingeri dilucidationes philo- Sophicae $ -82. 199. item eiusdem tr. de origine mali. S. 182. CAP
+
+[p. 112] De toto et parte. C A P. X.
+
+TOTO ET PARTE. 5. 13 Plura, quae, ſimul ſumta, conſtituunt unum aliquod ens, dicuntur partes, quod autem partibus conſtat, dicitur totum. Doctrinam de toto et partibus hic exponendam exiſtimamus, quia quae de ente compoſito in ſub- ſequentibus tradentur, ſine praemiſſa doctrina de toto intelligi non poſſunt. Notiones itaque quasdam generaliores primum euoluemus, et uarias totius ſpecies enumerabimus, deinde his nonnulla theoremata ſuperſtruemus. Totum autem hic consideramus in oppoſitione ad partem, ſi uero totum conſideratur in oppoſitione ad mutilum, tunc totum dicitur id, quod conſtat ex omnibus partibus debitis.
+
+§. 138. Cum, ubicunqueꝗI358plura ſimul ſumta con- ſtituunt unum, ibi ſit totum, (§. 137.) intelligitur, pro uarietate plurium illorum, quae conſtituunt unum, uarie quoque diuidi poſſe totum. §. 139.
+
+Si quid conſtat materia et forma, et materia adeo ac forma, tanquam multa, conſideratae unum quid conſtituunt, tunc inde emergit totum ꝓlyſicum. Cum uero quid conſtat ex genere
+
+[p. 113] De toto et parte. 113 genere et differentia ſpecifica, genus autem et differentia ſpecifica, tanquam multa conſiderata, unum quid conſtituunt, inde oritur totum metaphysicum. E. gr. Homo, quatenus conſtat materia et forma, corpore ſcilicet et anima, dicitur totum phyſicum. Quatenus uero homo eſt animal ſimul, et rationale, et ex his duobus conceptibus, tan- quam pluribus, conceptus hominis conſtat, tunc homo consideratur, ut totum metaphyſicum. Eiusmodi autem totum phyſicum et metaphyſicum generaliori nomine appellatur totum eſſentiale, quia conſtat ex partibus eſſentialibus et neceſſariis, iisque uel physicis, uel metaphyſicis.
+
+§. 140. Cum indiuidua plura, ſimul ſumta, ob ſimilitudinem, conſtituunt ſpeciem, (§. 105. Log. plures ſpecies, ſimul ſumtae, ob ſimilitudinem et quandam conuenientiam, conſtituunt genus, (§. 197. Log.) tum genus in re- ſpectu ad plures ſpecies, ex quibus conſtat, et ſpecies ad plura indiuidua, quae ipſam efficiunt, dicuntur totum uniuersale. E.
+
+gr. Animal in reſpectu ad hominem, ca- nem, leonem, gallum. equum, et plura alia, eſt totum uniuerſale. Et homo in reſpectu ad Ca- ium, Titium, Sempronium, Paullum, Petrum, et alia ſimilia indiuidua, itidem eſt totum uni uersale.
+
+H s. §. 141.
+
+[p. 114] 114 De toto et parte. II4
+
+5 1I Cum corpora plura et diuerſa componunt aliud quoddam corpus A, tunc corpus A, ex pluribus compoſitum corporibus, uoca- tur totum integrale. Corpora autem illa plura, quae ſimul ſumta ipſum corpus A, constituunt, dicuntur partes integrantes, ſeu quantitatiuae. E. gr. Corpus humanum eſt totum integrale, quia ex pluribus aliis corporibus, capite ſcilicet et trunco conſtat, et artus corporis humani dicuntur partes integrantes, ſiue quantitatiuae. Hoc totum integrale a ueteribus Metaphysicis diſpeſcitur in totum ſimilare, ſiue homogeneum, et totum diſsimilare, siue heterogeneum Totum similare, siue homogeneum uocatur illud, cuius partes ſunt eiusdem naturae cum toto. E. gr. uinum eſt totum ſimilare, quia quaelibet guttula uini eſt eiusdem naturae cum toto uino, adeoque partes uini ſunt ſimilares; ſiue homogeneae. Diſſimilare uero, ſiue heterogeneum totum eſt, quod habet par- tes diuersae naturae cum toto. E. gr. Corpus humanum eſt totum aliquod integrale, idque dissimilare et heterogeneum, quia corpus humanum conſtat ex partibus, quae plane ſunt diuersae naturae et rationis cum toto, conſtat enim ex capite, trunco, reliquisque membris. His addunt nonnulli totum poteſtatiuum. Cum ſcilicet in re aliqua plures potentiae et uires reperiuntur, eaeque coniunctim sumtae unum quid conſtituunt tum indę reſultat totum aliquod, H quod او
+
+[p. 115] De toto et parte. 115 › quod uocant poteſtatiuum. Sic e. gr. anima con- ſiderari poteſt, ut totum poteſtatiuum, quatenus in anima facultas intelligendi, iudicandi, reflectendi, attendendi, abstrahendi, ratiocinandi, appetendi denique et auerſandi, ut plura, considerantur, ex quibus anima conſtat.
+
+§. 142. Pro diuerſa totius denominatione diuerſimode quoque partes poſſunt denominari. Quae totum essentiale conſtituunt, dicuntur essentiales, quae integrale, integrales, quae poteſtatiuum, potentiales etc.
+
+§s 15 Pars aliquota eſt, quae aliquoties repetita toti fit aequalis. E. gr. numerus ternarius eſt pars aliquota numeri nonarii. Pars uero aliquanta eſt, quae aliquoties repetita non fit toti aequalis, e. gr. Numerus ternarius eſt pars aliquanta numeri ſeptenarii. 5 144: Partes, quae toti poſſunt ſimul ineſſe, uocantur actuales, Quae uero ſimul ineſſe nequeunt, appellantur partes poſſibiles. E. gr. Septem unitates, quas numerus ſeptenarius continet, numeri septenarii ſunt partes actuales, ſed 1, 2, 3, 4, in quae numerus ſeptenarius poteſt ſolui, ſunt partes poſſibiles.
+
+§. 145. Multitudo partium, totum conſtituentium, dicitur magnitudo. Ipſum autem totum, H2 quod 1 :
+
+[p. 116] 116 De toto et parte. quod plures habet partes reſpectu eius, quod paucioribus eſt praeditum, appellatur magnum Totum uero, quod pauciores habet partes reſpectu eius, quod pluribus conſtat, nominatur paruum.
+
+§. 146. Illud totum, cuius pars alteri toti aequalis eſt, appellatur maius, quod uero parti alterius aequale eſt, dicitur, minus. A Vt hae definitiones plenius intelligantur, sumas duos libros A, et B. Liber A, eſt in folio, et liber B, eſt in forma octaua. Liber itaque A, eſt maior libro B. Sed quid ita? Nunc itaque applicentur noſtrae definitiones. Si librum A, in partes ſecueris, tunc efficere poteris, ut pars aliquà libri A, ſit aequalis toti libro B. Adeoque uides, maius eſſe illud, cuius pars alteri toti eſt aequalis Sumas porro librum B, qui minor eſt libro A Hic liber B, tanquam totum consideratus, erit aequa- lis demum parti libri A Vti adeo minus i eſſe uideas, quod, tanquam totum, aequale eſt alterius parti. His notionibus diſtincte euolutis, nunc perfaciles erunt intellectu poſitiones generaliores, de toto et partibus obſeruandae.
+
+§. 147. Totum eſt idem cum omnibus partibus, ſimul ſumtis, et omnes partes ſimul ſumtae ſunt idem cum toto. Demonstr
+
+[p. 117] De toto et parte. II5 Demonſtr. Cum enim omnes partęs ſimul ſumtae conſtituant ipſum totum, ũ. 57.) con- ſequens eſt, ut totum et omnes partes, ſimul ſumtae, ſibi, ſalua omni mutatione, ſubſtitui possint. Quaecunque uero ſibi, ſalua omni mutatione, ſubſtitui possunt, illa ſunt eadem. (5 940 E. manifestum eſt, to- tum eſſe idem cum omnibus partibus ſimul ſumtis, et omnes partes ſimul ſumtas eſſe idem cum toto. Hinc eſt, ut Wolfius in Ontolog. Latin. p. 268. totum definiat per unum, quod idem eſt cum multis, et partes dicat eſſe multa, quae idem ſunt cum toto. s. i138. Poſito itaque toto, ponuntur omnes eius partes, et positis omnibus totius partibus, ponitur ipſum totum. Demonſtr. Cum enim totum ſit idem cum omnibus eius partibus, ſimul ſumtis, omnesque partes ſimul sumtae sint idem cum toto, (§. 147.) nemo non intelligit, poſito toto, poni omnes eius partes, ſimul ſumtas, et po- ſitis omnibus totius partibus, ſimul sumtis, ipsum poni totum.
+
+H3s 149-
+
+[p. 118] De toto et parte.
+
+ò I49. Quod continetur in parte, continetur etiam in toto, ſiue pars partis eſt quoque pars totius. Demonstr. Si enim partes b, c, d, continentur in toto A, partes autem, e, f, g, continentur in partibus b, c, d, conſequens est, ut partes e, f, g, contineantur quoque in toto A; E. Quod continetur in parte, continetur quoque in toto, siue, quod idem eſt, pars partis eſt quoque pars totius. J. 150.
+
+Omne totum eſt aequale omnibus partibus ſuis, ſimul ſumtis, et omnes partes, quibus totum conſtituitur, ſimul ſumtae ſunt aequales toti. Demonſtr. Cum totum ſit idem cum omnibus partibus ſimul ſumtis, et omnes partes ſimul ſumtae ſint idem cum toto, (õ. 147.) idem autem quantum ſibi ipſum debeat eſſe aequale, ſ§. I24.) palam eſt, totum eſſe aequale omnibus ſuis partibus, ſimul sumtis, et omnes partes ſimul ſumtas eſſe aequales toti.
+
+l 5 I51. Quaelibet pars totius toto eſt minor. mi li i Demonſtr.
+
+[p. 119] De toto et parte. 119 1 Demonstr. Considera quamlibet partem totius, tanquam nouum totum Cum uero omne totum ſibi ipſum aequale ſit, 124. 50.) conſequens eſt, ut pars totius, tanquam totum conſiderata, ſit aequalis parti totius. id, quod tanquam totum, aequale eſt parti totius, dicitur minus, (§. 146.) ſequitur ergo, quamlibet partem totius eſſe toto minorem.
+
+s5 IS. Totum itaque maius eſſe qualibet ſua parte, hinc poteſt nullo negotio -2 5959p intelligi. Demonſtr. Cum enim quaelibet pars totius ipſo toto ſit minor, It) conſequens eſt, ut pars totius huius parti tanquam toti ſit aequalis. Cuiuscunque uero pars alteri toti aequalis eſt, illud dicitur maius, (§. 145.), E. quodlibet totum qualibet ſua parte maius eſt. Has poſitiones,. quas pro. axiomatibus complures habent legitime demonſtratas eſſe, euincemus in ſcholis noſtris, uberius inſimul demonſtrationes allatas explicaturi.
+
+5. 153: Dimidium totius eſt, quod bis ſumtum toti eſt aequale.
+
+5. I54. Hinc intelligis, dimidia eiusdem totius ſibi debere eſſe aequalia. H 4 Demonstr.
+
+[p. 120] De toto et parte. Demonstr. Cum enim dimidia, bis ſumta, ſint aequalia eidem toti, 153) conſequens eſt, ut dimidia ſint aequalia eidem tertio, Quae eidem tertio aequalia ſunt; ſunt ſibi ipſa aequalia (5. 25 E. dimidia eiusdem totius ſibi aequalia eſſe debere, patet.
+
+CAP. XI. Eæ:3
+
+ENTE SINGVLARI VNIVERS ALLI
+
+5Ens singulare, ſeu indiuiduum dicitur, quod Pns
+
+Omnimode autem determinatum dicitur ens aliquod, cum ita eſt determinatum, ut alio modo determinari nequeat. Vnde intelligitur, cur ens ſingulare, ſiue indiuiduum, de ſe tantum, nec ullo alio, dici queat. Si enim de alio. dici poſſet, alio modo determinari poſſet.
+
+Vt haec intelligantur plenius, conſideres hanc, quam coram intueris, menſam. In hac menſa omnia ita ſunt determinata, ut non aliae nouae determinationes possint accedere, ſi haec mensa manere debeat haec menſa. Atque ob has omnimodas determinationes haec menſa non poteſt de alia
+
+[p. 121] 1 De ente singulari et uniuersali. 121 alia quadam menſa praedicari, ſed unice de ſe ipſa dici potest. 5 66. Cum nihil ſit ſine ratione sufficienti, (§. 32.) debet quoque quid adesse, ex quo intelligi poteſt, cur aliquid habeamus pro ente ſingulari, ſiue indiuiduo.
+
+5. 4, ex quo intelligi poteſt, cur ens ſit indiuiduum, dicitur principium indiuidua- tionis. Hoc principium indiuiduationis dicitur a ſcho- laſticis haecceitas, propterea, quod ex eo intelligi poteſt, cur aliqua res praeciſe haec res ſit, siue quia per principium indiuiduationis res aliqua haec res constituitur. §. 158. Principium itaque indiuiduationis esse omnimodam determinatio- nem eorum, quae enti actu insunt, ex di- &is colligi potest. Demonſtr. Cum enim indiuiduum consti- ✓tuatur per id indiuiduum, quod ſit omnimode determinatum, (§. 155.) conſequens dere eſt, ut ex omnimoda determinatione intelligi poſſit, cur res aliqua ſit hoc indiuiduum, Id, ex quo patet, cur ens aliquod ſit indiuiduum, dicitur principium indiuiduationis,
+
+H; 5)
+
+[p. 122] m? De ente singulari ũ. 157.0 E. Omnimodam determinationem eorum, quae enti actu inſunt, conſtituere principium indiuiduationis, euidens eſt satisque manifestum. §. 159. Quicquid existit, omni modo est determinatum. Demonstr.
+
+Si enim ens exiſtit, tunc in eo deprehenditur poſſibilitatis complementum, (§. 51.) adeoque omnis exiſtentia inuoluit conſummatam entis determinationem. Quicquid ergo exiſtit, non poteſt alio modo determinari. Quicquid non poteſt alio modo determinari, id omni modo determinatum eſt. 6. is3) E. quicquid exiſtit, omni modo eſt determinatum. Haec menſa, quam coram intueor, existit. - In hac itaque menſa ita iam omnia ſunt determinata, ut, quamdiu haec menſa debet eſſe et manere haec menſa, non poſſint plures determinationes accedere. Fac enim, nondum omnia in hac mensa, quae exiſtit coram, eſſe determinata, tunc adhuc ſuperſunt circumſtantiae et determinationes possibiles, quae nondum in hac menſa adſunt. Hac ratione haec menſa, quae exiſtit, erit haec menſa, per hypothesin) et non erit haec menſa, quia nondum omnes determinationes adſunt, quae ad hanc mensam conſtituendam requiruntur. Quod, ut uides, eſt contra principium contradictionis.
+
+22)
+
+[p. 123] e uniuersali. I23 (§. 22.) Atque eandem reliquarum rerum, quae exiſtunt, rationem eſſe, clarius perſpicies, ſi quodlibet eorum, quae exiſtunt, attente conſideraueris.
+
+ꝗ- 1650. Quicquid exiſtit, eſt ens ſingulare ſiue indiuiduum. Demonstr. Cum, quicquid exiſtit, ſit omni modo determinatum, 159.) id autem, quod omni modò determinatum eſt, ſit ens ſingulare, ſiue indiuiduum, (ò I55.) conſequens eſt, ut, quicquid exiſtit, ſit ens ſingulare, ſiue indiuiduum.
+
+5 I6i Quicquid itaque non omni modo determinatum eſt, illud non exiſtit.
+
+§. 162. Enti ſingulari, ſiue indiuiduo, opponitur ens uniuerſale, quod omnimode determinatum non eſt, ſeu, quod, ob determinationes intrinſecas, communes pluribus ſingularibus, de pluribus praedicari poteſt. E. gr. Si in ſpiritu, qua tali, non concipimus, niſi intellectum et uoluntatem, nondum omnia determinata ſunt, quae in ſpiritu determinari poſſunt. Poteſt enim ſpiritus de anima, de angelis, de Deo, praedicari. Adeoque ſpiritus eſt ens uniuerſale, oppoſitum enti ſingulari, quippe quod tantum de ſe ipſo, non uero de aliis pluribus, praedicari poteſt. i6. 155) §. 163.
+
+[p. 124] 124 e ente singulari 'l
+
+5. i63. Vniuer sale, ut uniuerſale, exiſte- re non potest. Demonstr.
+
+Cum, quicquid exiſtit, ſit omni modo determinatum, (§. 159.) uniuersale autem non ſit omni modo determinatum. 162.) conſequens eſt, ut uniuerſale, tanquam uniuerſale, exiſtere nequeat.
+
+#### E. gr. Animal, ut animal, exiſtere nequit. Si
+
+enim animal, ut animal, exiſtere deberet, tunc exi- stere deberet ens, quod uiueret et ſentiret, (Haec duo enim uniuersalis animalis notio inuoluit.) Adeoque nulla alia determinatio accedere debe- ret. Sed dic, ubi locorum unquam exſtiterit, aut exiſtat etiam nunc ens, quod tantummodo uiuat et sentiat, nullisque praeterea aliis determinationibus et circumſtantiis inuolutum exhibeatur. Quamuis uero uniuerſalia, ut uniuerſalia, non exiſtant, insunt tamen indiuiduis et ſingularibus, e quibus, inter se comparatis, per abſtrahendi artem eruuntur. Conf. Log. p.79. Ex hoc intelligi poteſt et decidi controuersia illa, quae olim inter ſcholaſticos, quorum alii nominales, alii uero reales uocabantur, fuit agitata: Num ſcilicet uniuerſalia ſint res, an mera nomina? Si per res idem intelligi uolunt, quod nos uocamus indiuidua, omni modo determinata, manifeſtum eſt, non poſſe non uniuerſalia, in quibus non omnimoda conſpicitur determinatio;, l] 162.) nominibus annumerari. Si autem id reale [p. 125] et uniuerſali. I2; P reale eſſe conceditur, quod aliquo modo determinatur, intelligitur, uniuerſalia inter realia poſſe referri. S5. n64. Id, in quo plura entia ſingularia, ſiue indiuidua perpetuo conueniunt, conſtituit ſpeciem, ut adeo ſpeciem recte definiamus per ſimilitudinem indiuiduorum. E. gr. Caius, Titius, Sempronius, Casparus, Paullus, Petrus, tanquam entia singularia et in- diuidua, ſunt eiusmodi, ut ubique deprehendas diuerſitatem. In hoc tamen conueniunt, quod ſint homines. Hinc eſt, ut claſſem entium conſtituamus, cui hominis nomen imponimus. Quo ſimul intelligitur, cur notio hominis ſpeciem constituat. §. 165.
+
+Si plures ſpecies inter ſe comparaueris, easdemque deprehenderis in nonnullis proprietatibus inter ſe perpetuo conuenire et ſimiles eſſe, tum obſeruata illa perpetua ſimilitudo ſpecierum claſſem quandam conſtituit superiorem, quae, ſpecies illas ſub ſe complexa, genus uocatur. E. gr. Anima, angeli, Deus, tanquam entia ſpecie diuerſa, in hoc ſemper conveniunt, quod ſint spiritus. Vt adeo ſpiritus genus conſtituere recte dicatur. 165.
+
+[p. 126] 1n6 De ente ſingulari 166. Si plura genera inter ſe comparantur, id, in quo conueniunt illa plura genera, efficit nouum genus, quod uocant genus ſuperius. Plura autem illa genera, quae ſuperius genus comprehendunt, dicuntur inferiora. E. gr. Animal et ſpiritus ſunt genera, ſed animal et ſpiritus in eo conueniunt rurſus, quod ex- iſtant ita, ut ui agendi ſint praedita, quod uoca- mus ſubſtantiam, ſubſtantia itaque eſt genus ſuperius. Hinc intelligi quoque potest, quid ſit genus ſummum. Eſt id ſcilicet, in quo omnia alia genera conueniunt. e. 'r. Poſſibile, ſiue ens, eſt genus ſummum Altius enim cogitationibus noſtris ascendere non poſſumus
+
+§. 167. Quicquid in ſpecie deprehenditur, id uero non poteſt non quoque in ſingulis eius indiuiduis deprehendi. n nr% Demonstr. Cum enim ſpecies ſit indiuiduorum ſimilitudo, 164) conſequens eſt, ut nihil poſſit eſſe in ſpecie, quin simul ſit in singulis eius indiuiduis.
+
+ræ Quicquid generi ineſt, ſingulis quoque eius ſpeciebus ineſſe debet. -r Demonstr.
+
+[p. 127] et uniuerſali, 177 iſ Demonſtr. Si enim quid ineſſet generi, quod non ineſſet ſingulis eiusdem speciebus, tum genus non poſſet dici ſpecierum ſimilitudo. Quod eſt contra ꝗ. I65. E. gr. Homini, tanquam ſpeciei, ineſt rationa- litas omnibus itaque indiuiduis, quae ſpecies haec ſub ſe continet, itidem rationalitas conueniat, neceſſe eſt. Animali, tanquam generi, competit uita et ſenſio; omnibus itaque ſpeciebus, ſub hoc genere contentis, uitam et ſenſionem tribui debere, intelligis. Plura de genere et ſpecie uniuerſalibusque poteris demonſtrata legere in Inſtitutionibus noſtris philosophiae rationalis 5.99 ſ11:
+
+§. 169. Non dantur duo indiuidua, quae ſibi in omnibus ſint ſimilia, ita, ut in uno non detur, per quod discerni poſſit ab altero. Demonstr, Si darentur duo indiuidua, quorum neutrum ab altero ulla ratione differret, tunc illa duo indiuidua eſſent unum idemque, (§. 93.) adeoque unum idemque bis existere fingeretur. Cum uero, unum idemque bis exiſtere, contra ſenſum communem ſit, (abſurdum enim e. gr. eſt, ut hae literae, in hoc folio occurrentes, ſint eadem, quae in Praecedenti ꝗoho occurrunt) intelligitur, fieri h- [p. 128] i28 De ente singulari 1 fieri non posse, ut duo dentur indiuidua, quae in omnibus ita ſibi ſint ſimilia, ut ab altero alterum diſcerni nequeat. Haec propoſitio dicitur a Leibnitio principium identitatis indiscernibilium. Dissimilitudinem autem omnium rerum existentium Leibnitius de- monſtrauit ex principio rationis ſufficientis. Si enim duo exiſtant indiuidua, in omnibus ſibi ſimilia, nullam tunc adeſſe rationem ſufficientem, arbitratus eſt uir perſpicaciſſimus, ex qua possit intelligi, cur exiſtant. Illam enim rationem, ait Leibnitius, nec in indiuiduis, quae perfecte ſimilia ſint, deprehendi, nec extra eadem. Si enim exiſtere debeant duo indiuidua, in omnibus sibi perfecte similia, tunc, putat, adesse debere rationem ſufficientem, cur alterum in loco A, potius ſit, quam in loco B. Hanc autem rationem, negat, deprehendi in ipſis indiuiduis, perfecte ſimilibus, quia ob perfectam similitudinem neutrum altero praeſtantius ſit; neque rationem deprehendi poſſe extra perfecte ſimilia, existimat Leibnitius. Cum enim indiuidua duo ſumantur perfecte ſimilia, nullaque ratione a ſe inuicem discernibilia, conſequens eſt, ut, ſi quid exiſtit extra duo indiuidua, perfecte ſimilia, quod producat potius indiuiduum A, quam indiuiduum B, et indiuiduum A, potius hoc loco et hoc tempore, quam indiuiduum B, tunc illud, quod indiuiduum A, potius, quam B, producit, ſine ratione indiuiduum A, producat; cum indiuiduum B, ob perfectam similitudinem aeque producere potuiſſet. Cum itaque sine ratione sufficiente fieri nihil poſſit, fieri quo- qus [p. 129] et uniuersali. 129 A : que non poſſe, contendit Leibnitius, ut exiſtant duo indiuidua, quae plane ſint in omnibus ſimilia, nulloque modo diſcernibilia. Conſ. Leibn. Episto- Ia l. ad Clarckium §. 4. sqq. P. 94. et Ep. V. ad eund. S. 23. 1qq. p. 174. Qua occasione Leibnitius in hoc principium inciderit, diſſeram uberius in recitationibus. Conf. Hanſch. princ. philoſoph. Leibn. p. 1.
+
+Cel. Billfingerus Leibnitii mentem in dilucidat. philoſ. his uerbis exprimit. Suppone, inquit, uel finge potius duo in omnibus ſimilia A, et B, quae ſolo differant numero, in caeteris omnibus indi- scernibilia. Non illa eundem locum occupabunt, :ſi eodem tempore exiſtunt, non existent eodem tem- pore, si eundem spatii, quod fingitur, absoluti locum occupare ſupponuntur. Sunt igitur in diuer- ſis loco aut tempore. Nulla est ratio, quare A, sit potius hoc loco aut tempore, quam B. Igitur, ſi eſt, eſt aliquid ſine ratione. Si a Deo sic collocatum eſt, collocatum erit sine ratione sufficienti ad hoc, ut potius A, quam B, ſit hoc loco, aut tempore. Erit igitur aliquid ſine ratione. Cel. Hollmannus hanc in rem praeclare: experientia, inquit, conſtat, adeo infinitam fere esse rerum exiſtentium, inprimis materialium et corporearum, uarietatem, ut ne duas quidem res singulares, eiusdem ſpeciei, deprehendere liceat, quarum determinationes omnes eodem modo utrobique ſe habeant, et, ſi uel maxime omnes eodem modo ſe habere, uellemus ſupponere, uel ſolo tamen loco coexistendique modo, ſemper adhuc inter ſe differrent, Duae ergo pluresue res, uti dici uulgo ſolet
+
+[p. 130] 13o De neceſſario Naii? i ſolet, numero inter ſe differentes, non dantur, ne- tĩ que ſi loci intuitu ſimul ſpectentur, dori poſſunt ii Via. ipſius Inſtitutt. Philoſoph, primae s. 255. a Caeterum hoc Leibnitianum principium miriill fice facit ad distinctius intelligendam ſtupen- dam et infinitam rerum in uniuerſo uarietatem, id quod VVolfius in Metaphyſic. s. 591. oſtendit, et ad demonſtrandam Dei unitatem uel inprimis requiritur, id quod Cantzius uberius euicit in Vſu philoſoph. Leibnit. et VVolfianae in Theologia T. I P. i56. ſ49. Conf. Gottschedii dialog philoſophic de quaeſtione: Num plura possint eſſe entia infinita? Hic dialogus annexus eſt parti I. inſtitutt. ipſi ns philoſophic.
+
+CAP. XII. DE
+
+NECESSARIO 7 CONTINGENTE. 5 Ir?:; Doctrina de Necessario et Contingente i 2 ontologicis hoc diſtinctius eſt explicanda da, quo plura ex notionibus Neceſſarii et Cor contingentis in caeteris, diſciplinis et explicari poſſunt, et ſolide demonſtrari Vt uero quid ſit neceſſarium, quidue contingens, rectius intelligi poſſit, antes, quid ſint oppoſit determinabimus. L] s. i [p. 131] et contingente. 3I
+
+5m Opposita ſunt, quorum unum inuoluit negationem alterius. i ( E. gr. calidum et frigidum ſunt ſibi oppoſita, cum ad essentia siue praeſentia calidi inferat negationem frigidi. Oppoſita ſunt uel contrarie, uel contradictorie, uel priuatiue, uel relatiue oppoſita. Quae eidem enti ſimul ineſſe nequeunt, dicuntur contrarie oppoſita, e. gr. calidum et frigidum Quae ſimul esse non poſſunt, dicuntur contradictorie opposita, e. gr. calidum et non - calidum. Ens autem po- ſitiuum, et, quod ei reſpondet, priuatiuum nominantur priuatiue oppoſita. Vitae e. gr. tanquam enti positiuo reſpondet mors, tanquam ens priuatiuum, uita ergo et mors ſunt priuatiue opposita. Relatiue autem oppoſita nihil aliud ſunt, quam re- Lata illa, quorum unum non poteſt eſſe alterum. E. gr. pater et filius, dominus et ſeruus. Ab oppoſitis differunt diſparata, quae naturam habent quidem diuerſam, inter ſe tamen non pugnant, e. gr. Eruditio et pietas.
+
+5- r. Neceſſarium eſt id, cuius oppoſitum eſt impossibile, ſeu contradictionem inuoluit, (542.) ſiue, quod non poteſt non eſſe.
+
+#### E. gr. bis duo ſunt neceſſario quatuor. Sumas
+
+enim oppoſitum: Bis duo non ſunt quatuor: et habes apertam contradictionem. Ita quoque necessarium eſt, totum eſſe maius qualibet ſua parte.
+
+I2 Sumas
+
+[p. 132] De neceſſario Sumas oppoſitum huius propositionis, et manife- ſta aderit contradictio ſiue repugnantia.
+
+§. 173. Neceſſarium eſt uel abſolute, uel hypothetice neceſſarium. Demonstr. Cum enim aliquid impoſſibile ſit uel in ſe et in ſua natura, uel certo tantum ſub reſpectu, et conditione, 43) intelligis, oppoſitum alicuius rei uel in ſe et sua natura, uel ſub aliqua conditione tantum, contradictionem inuoluere. Cuiuscunque oppositum in ſe et ſimpliciter contradictionem infert, illud dicimus eſſe absolute neceſſarium. Cuiuscunque autem oppoſitum ſub conditione tantum eſt impoſſibile; illud dicimus hypothetice neceſſarium. Vt ũdẽo omne neceſſarium recte diſpeſci uideas in neceſſarium abſolute et hypothetice tale.
+
+#### E. gr. Abſolute neceſſarium eſt, ut bis duo
+
+ui* h t ciant quatuor, quia oppoſitum in ſe et ſua natura aia I nu? eſt impossibile, ſiue contradictionem inuoluit. Vt uero, ſole ſplendente, ſit dies, hypothetice neceſ un a ſarium eſt Poſita ſcilicet hac conditione, quod sol
+
+ſplendeat, neceſſarium eſt, ;ut ſit dies. Necessitas abſoluta dicitur alias quoque necessi l tas essentiae, quia eſſentiae rerum ſunt abſolute ũ L3t neceſſariae, (§. 71.) item appellatur necessitas metaphyſica, quia metaphysica uersatur circa essentias rerum.
+
+Dicitur [p. 133] et contingente. 133 Dicitur praeterea neceſſitas intrinſeca, quia rebus nihil magis eſt intrinſecum, quam essentia. Geometrica quoque nominatur, quoniam haec ne- i ceſſitas maxime in rebus geometricis deprehen- ditur.
+
+Logicam denique hanc necessitatem, me- mini, uocari, idque procul dubio ideo, quia in Logica definitiones, eſſentialesque notiones in- dagantur et examinantur. 5 74. ſſ Neceſſitas hypothetica pro diuerſitate conditionum, quas uocant, necessitantium uaria est.
+
+Conditionem autem neceſſitantem G. Bilfinge: rus aliam dicit eſſe antecedentem, aliam concomitantem, conſequentem denique aliam. Conſ. dilucid. philos p. 1. Vt haec intelligantur rectius, ad ſequentia notiſſimum uolo attendi. Nouimus, ſi quae res facta eſt, tum fieri non poſſe, ut ſit eadem res non - facta. Atque adeo omnia quae praeterita ſunt, necessario facta ſunt, eo ſcilicet reſpectu, quo ſupponitur, ea, quae facta ſunt, non poſſe ſimul eſſe infecta. Quae praeteritorum neceſſitas eſt hypothetica, et quidem ex conditione actionem conſequente. Nouimus porro, unamquamque rem. dum eſt, ita eſſe, ut non poſſit ſimul non: eſſe. (§. 22.) Atque adeo quodlibet, dum eſt, neceſſario eſt. Quae omnium rerum exiſtentium necessitas a Bülfingero uocatur necesſitas ex hypotheſi ſiue conditione concomitante. Nouimus denique, experientia edocti, po- ſito ſplendore solis, tanquam cauſſa, poni ne-
+
+I3 ceſſa-
+
+[p. 134] 134 De neceſſario i ceſſario diem, tanquam effectum, et, poſitis in homine uitiis, tanquam cauſſis, neceſſario poni funeſtos euentus et conſectaria perniciosa. Haec neceſſitas, qua, poſita cauſſa, non poteſt non ſequi effectus, dicitur a Bilfingero necęſſitas ex conditione antecedenti. Hanc conditionem antecedentem, ait, uel in ipſam effectus productionem influere, ut necęſitantem, (e. gr. ſplendor ſolis ratione diei eſt conditio antecedens influens et necessitans effectum,) uel non influere (è gr. Praeſcientia diuina, ratione rerum exiſtentium, eſt conditio antecedens non influens. Etſi enim, poſita Dei prae- ſcientia, neceſſarium eſt, rem ita fieri, uti praeſcitur, nihil- eminus, haec praescientia non influit in res exiſtentes, tanquam caussa in effectus. Res enim non ideo fiunt aut existunt, quia easdem Deus praeſcit.) Neceſſitas phyſica; in regno naturae naturalique euentuum conſecutione, locum obtinens, itemque necessitas hypothetica moralis, in ſpiritibus reperiunda, a nobis in recitationibus fuſius exponetur.
+
+§. 175. Contingens dicitur id, cuius oppoſitum posſibile, ſiue quod aliter eſſe poteſt E. gr. Contingens eſt, quod nunc scribam, poteram etiam non scribere, poteram meditari uel a r3 a5 librum philoſophicum euoluere. 1 Contingens quoque nonnunquam ſumi ſolet pro eo, quod eſt fortuitum, ẽt praeter agentis in ten- J_ [p. 135] et contingente. 35 tentionem accidit. Ita contingit, Caium, dum domum praeterit, tegula, ex tecto delapſa, per-. cuſſum interire. Nos uero ſumimus contingens ita, ut opponamus ei, quod eſt neceſſarium.
+
+5 VEe. Mutabile dicitur, quod poteſt eſſe aliter. Quod uero minus aliter eſſe poteſt, id uero appellamus immutabile. Vt adeo nunc intelligas, quod eſt abſolute neceſſarium, idem es- ſe immutabile, i73) et quod contingens eſt, inter mutabilia referri debere. (6185)
+
+Exiſtentia entis eſt abſolute ne- ceſſaria, cuius ratio sufficiens in eſ- ſentia eiusdem continetur. Demonſtr. Cum omne id, quod rationem ſui sufficientem in eſſentia habet, ſit attribu- tum, (§. 77.) conſequens eſt, ut entis exiſtentia, cuius ratio ſufficiens in entis eſſentia continetur, ſit entis attributum. Quia uero attributa ſunt abſolute neceſſaria, ꝗ 80.) ſequitur, ut exiſtentia entis ſit abſolute neceſſaria, cuius ratio sufficiens in eſſentia eiusdem continetur.
+
+s I8. Illud ens, cuius exiſtentia eſt abſolute neceſſaria, dicitur ens neceſſarium, ut adeo entis neceſſarii exiſtentiam rationem ſufficientem in
+
+14 in
+
+[p. 136] 136 De neceſſario in ſua eſſentia habere, luculentiſſime intelligas. Tale ens neceſſarium eſſe Deum, in theologia naturali demonſtratum dabimus, ubi euincemus plus ſatis, Deum exiſtere, quia eſt Deus, eiusque conceptum primum et eſſentiam ſtatim inferre exiſtentiam.
+
+sm Ens neceſſarium, ſiue quod exiſtit abſolute neceſſario, rationem sufficientem, cur exiſtat, in ſemet ipſo habet. Demonſtr. Cum enim ens, quod abſolute neceſſario existit, rationem ſufficientem, cur exiſtat, in ſua eſſentia habet, 78.) eſſentia autem cuiusuis entis ſit enti intrinſecum quid, (§. 66.) manifeſtum eſt, ens, quod abſolute neceſſario exiſtit, habere rationem ſufficientem, cur exiſtat, in ſemet ipſo.
+
+5 150. Ens itaque contingens illud eſt, quod existentiae ſuae rationem ſufficientem non habet in ſua essentia ſiue quod rationem ſuę; exiſtentiae extra ſe in ente alio, a ſe diuerſo, habet. Quicquid scilicet, praeter Deum, existit, illud exiſtit contingenter, id. quòd. ſuo loco euincemus, 5. 181.
+
+[p. 137] et contingente. 13b
+
+I3-I Hinc pateſcit, exiſtentiam entis contingentis non esse attributum eiusdem, sed tantum modum siue accidens. Demonstr.
+
+Cum enim attributum ſit eiusmodi praedicatum rei, cuius ratio ſufficiens in rei eſſentia continetur, 77.) exiſtentia autem entis contingentis rationem ſui ſufficientem non contineat in eiusdem eſſentia, G. 180.) palam eſt, exiſtentiam entis contingentis non inter eiusdem attributa referri debere. Quia uero entis contingentis exi- ſtentia eſt eiusmodi entis contingentis affectio, quae rationem ſui ſufficientem in ente alio extra ſe inuenit, (6. I3o) conſequens eſt, ut exiſtentia entis contingentis ſit inter eiusdem accidentia referenda. 82) 5 I32. Omnia contingentia rationem exi- ſtentiae ſufficientem debent habere in ente ſimpliciter et abſolute necessario. ii
+
+Demonstr. Nullum ens contingens, cur e:i- stat, rationem ſufficientem agnoſcit in ſemetipſo, alias esset ens ſimpliciter neceſſarium. t5 179) Hinc. conficitur, omnia entia contingentia debere habere rationem sufficien 15 tem
+
+[p. 138] De necessario tem in ente a ſe diuerſo. 33 Ens, quod ab omnibus entibus contingentibus diuerſum eſt, eſt ſimpliciter necessarium. Si enim non ſimpliciter eſſet neceſſarium, esset contingens, adeoque ab omnibus entibus contingentibus non eſſet diuerſum) E. omnia contingentia, cur exiſtant, rationem ſufficientem agnoscere debent in ente ſimpliciter et abſolute neceſſario.
+
+5-If́- Quot itaque dantur entia contingentia, tot proſtant luculenta teſtimonia, dari ens, cuius exiſtentia ſit abſolute neceſſaria. Hae poſitiones, dici uix poteſt, quantopere nobis inſeruiant, in demonstranda Dei exiſtentia, id quod ſuo loco, infra nimirum in Theologia naturali, uberius declarabitur.
+
+5. 184- Abſoluta necessitas repugnat contingentiae, idque omne, quod eſt ab- ſolute neceſſarium, non poteſt eſſe con- tingens. Demonstr. Quod enim in ſe et abſolute neceſſarium eſt, eius contrarium in ſe et ſua natura, conſtanterque adeò impoſſibile eſt- 573) Cuiuscunque uero: oppositum con- ſtanter impoſſibile eſt, eius. oppoſitum nunquam poteſt fieri poſſibile. (§. 22.) Cuius- cunque [p. 139] et contingente. 139 cunque uero oppoſitum nunquam fieri poteſt posſibile, illud non poteſt eſſe contingens, (§. 175.) E. quodcunque eſt abſolute neceſſarium, non poteſt eſſe contingens, ab- ſolutaque adeo neceſſitas repugnat contingentiae.
+
+5 I85. Id, quod hypothetice neceſſarium eſt, in se est contingens, ut adeo necessitas hypothetica contingentiam neutiquam tollere cenſenda ſit. Demonstr. Si enim quid hypothetice necessarium eſt, eius oppoſitum nonniſi ſub conditione ſiue hypotheſi data imposſibile eſt, (§. 74.) adeoque, abſente conditione ſiue hypotheſi, oppoſitum eſt in ſe poſſibile. Illud, cuius oppoſitum eſt poſſibile, dicitur contingens, (§. 175.) E. quod hypothetice neceſſarium eſt, eſt in ſe contingens. Poterat hoc theorema apagogice ſiue per indirectum ita quoque demonſtrari: Ponamus, id, quod hypotheticę neceſſarium eſt, non eſſe contingens in ſe, tunc eius, quod eſt hypothetice neceſſarium, oppoſitum nunquam erit poſſibile, (§. 175.) adeoque constanter in ſe et ſua natura contradictionem inuoluet. Hac ratione id, quod eſt hypothetice neceſſarium, erit ſimul abſolute neces.
+
+[p. 140] 140 De neceſſario et contingente.
+
+ſ neceſſarium. 73 Quod cum ſit abſonum, 6. 22) intelligis, id, quod hypothetice neceſſa- rium eſt, eſſe in ſe contingens, ſimulque perſpicis hinc rationem, cur, hypotheticam neceſſitatem v euertere contingentiam. negemus et pernegemus. Vt propoſitio praesens, multi omnino uſus magnique momenti, intelligatur facilius, habeto exemplum. Hypothetice neceſſarium eſſe, iam supra affirmauimus, f. 174. ut, ſole ſplendente, radiosque ſuos nobiscum communicante, dies ſit, ſed tollas hypotheſin, ſub qua necessarium eſt, ut ſit dies, tollas ſolis ſplendorem, oppido, diei oppoſitum in ſe poſſibile eſſe, animaduertes. Vt adeo, diei licet existentia hypothetice neceſſaria ſit, in ſe tamen eandem contingentem eſſe; quiuis facillime perſpicere queat.
+
+G CAP. XIII.
+
+EEEE. ai
+
+ORDINE, VERITATE sbai METAPHYSICA,
+
+PERFECTIONE. §. 186. Generaliores quaedam entis affectiones adhuc reſtant explicandae, inter quas 3l maxime conſiderari merentur ueritas me- taphysica et perfectio. Vt uero, quae de ueri-
+
+[p. 141] } De ordine, ueritate Metaphys. et perfec. ĩa
+
+-n—m— ueritate non minus, quam perfectione, ex- ponenda sunt, rectius queant faciliusque in- telligi, prius ordinis notionem ita euoluemus, ut et pateat, quae ſit ordinis natura et indoles, et deinceps, quid ad ueritatem requiratur, ex dictis poſſit intelligi.
+
+5. 187Illam ſimilitudinem, quae obuia eſt in modo, quo res iuxta ſe inuicem collocantur, uel ſe inuicem conſequuntur, cum Wolfio dicimus ordinem. Conf. eius Ontolog. Lat. ſſ. 472.
+
+E. gr. In bibliotheca, dicimus, libros eſſe ordine diſpoſitos, cum ſcilicet ita eos iuxta ſe inuicem collocatos deprehendimus, ut adſit aliqua ſimilitudo ſiue notarum characteriſticarum identitas (§. 103.) in modo, quo iuxta ſe inuicem collocantur. Si nimirum forma externa et ligatura quandam inter ſe ſimilitudinem habent, ſi, qui. ſimile tractant argumentum, eodem reponuntur loco, ſi denique in ipſis editionibus conuenientia conſpicitur, tum uero ordinem in eiusmodi bibliotheca admiramur. Quae Cel. Rüdigerus in der Gegenmeinung von dem Wesen der &Seele und des Geistes p. 128. contra hanc notionem ordinis monuit, ea a me confutata leges in philoſophia definitiua pog. 8. ſ1q3.m.5]
+
+§. 188.
+
+[p. 142] I42 De ordine, ueritate 5. ISS. Confuſionem itaque ſiue inordinationem, ut oppoſitorum, intelligis, nihil eſſe aliud, quam diſſimilitudinem, quae obuia eſt in modo, quo res iuxta ſe inuicem collocantur, uel ſe inuicem conſequuntur. E. gr. Cum in bibliotheca ita libros reperis eſſe diſpoſitos, ut, cum ratione argumenti, quod tractant, tum ratione formae externae et ligaturae, nulla appareat similitudo, tum dicimus adeſſe con- fuſionem in bibliotheca.
+
+s
+
+In omni ordine debet quid adeſſe, in quo uaria, uel coẽxiſtentia, uel ſibi inuicem ſuccedentia, sint ſibi similia. Demonstr. Cum enim omnis ordo conſtituatur ſimilitudine, quae obuia eſt in modo, quo plura ſibi uel coẽxiſtunt, uel ſe inuicem ſequuntur, (§. 187.) intelligis, in omni ordine debere quid adeſſe, in quo uaria, uẽl coẽxi- ſtentia, uel ſibi inuicem ſuccedentia, ſint ſibi ſimilia. 5 I9O. Id, in quo uaria ſunt ſibi ſimilia, dicitur regula ordinis.
+
+#### E. gr. Si in bibliotheca quapiam libros ordine
+
+diſpoſitos dicis, idque ideo, quia libri omnes, iuxta se
+
+[p. 143] Metaphyſic. et perfect. 143 f ſe inuicem collocati, ſunt ratione ligaturae, ſibi ſimiles, tunc ligatura eſt id ipſum, in quo uarii libri; iuxta ſe inuicem poſiti, conueniunt. Similitudo itaque ligaturae eſt, hoc quidem in caſu, regula ordinis, et ratio ſufficiens, cur in bibliotheca ordinem adeſſe affirmes.
+
+S3f. I9. In omni ordine debet adeſſe regula ordinis. Demonſtr. Cum enim in omni ordine debeat quid adeſſe, in quo uaria uel coẽxiſtentia, uel sibi inuicem ſuccedentia, ſint ſibi ſimilia, 189.) id autem, in quo uaria uel coëxiſtentia, uel ſibi inuicem ſuccedentia, ſunt ſibi ſimilia, conſtituat regulam ordinis, 10) patet, in omni ordine debere adeſſe regulam ordinis. Poterat haec propoſitio ita quoque demonſtrari: Cum nihil ſit ſine ratione sufficienti, (§. 32.) ratio quoque ſufficiens adeſſe debet, cur affirmemus, ordinem potius adeſſe, quam confuſionem. Illa ratio sufficiens, ex qua intelligi poteſt, cur affirmemus, ordinem potius adeſſe, quam confuſionem, id ipſum eſt, quod uocare consueuimus regulam ordinis. Ergo in omni ordine ad- eſſe debere regulam ordinis, perſpicuum eſt. §. 192.
+
+[p. 144] l I44 De ordine, ueritate §. 192. Vbi una tantum adeſt regula ordinis, ibi t adeſt ordinem ſimplicem adeſſe, affirmamus, ubi uero plures adſunt regulae ordinis, ibi adest ordo compoſitus. E. gr. Cum in bibliotheca libri, iuxta ſe inuicem collocati, tantum ratione formae externae, ſunt ſi- Ei bi ſimiles, diuerſa uero tractant argumenta, et in t) aliis pluribus determinationibus a ſe inuicem differunt, tum ordinem simplicem in bibliothe- ca deprehendimus. Si uero a) ratione formae externae et ligaturae, B) ratione argumentorum, v) ratione editionum, libri, iuxta ſe diſpoſiti, conuenerint, vi tum ordo in illorum dispositione deprehenditur compoſitus. n 5 13 Ex quo facillimo negotio intelligis, hoc heſ maiorem eſſe ordinem, quo plures adſunt ii unſ3; ordinis regulae, et ordinis gradus recte ex copia
+
+I pia ordinum ſimplicium aeſtumari. -r2 æ
+
+-ii? -2ua-
+
+Poteſt in rebus, iuxta ſe inuicem à diſpoſitis alio reſpectu, adeſſe ordo, i alio uero respectu inordinatio ſiue confusio. i Demonſtr. Cum enim omne ſimile ſit etiam dissimile, (§. 12.) intelligitur, poſſe in pluribus rebus, iuxta ſe inuicem collocatis, alio q reſpe- v
+
+[p. 145] Metaphysica et perfectione. 145 { reſpectu adeſſe ſimilitudinem, adeoque ordinem, ſ 187.) alio uero reſpectu in iisdem poſ- ſe locum obtinere diſſimilitudinem, adeoque confuſionem ſiue inordinationem. (§. 188.) E.gr. In bibliotheca adeſt eatenus ordo, quatenus libri ita ſunt diſpoſiti, ut conueniant ratione formae externae. Poteſt vero eodem tempore, quo, ratione formae externae, in librorum diſpoſitione, ordo deprehenditur, inſignis adeſſe confuſio, ſi rationem ſc. habueris argumentorum, quae ſunt dissimilia.
+
+E õ I95. Ordo caeterum rei alicuius poteſt cogno- ſci uel a priori, dum a) regulam ordinis cognoſcimus, ò) ex illa ipſa regula cognita ua ria determinamus, uel a poſteriori, dum uaria inter ſe comparamus, ut, ſimilitudine rerum inuenta, hoc modo ipſe inueniatur ordo. n6. In iis, quae exiſtunt, reperitur ordo. Demonſtr. Cum nihil ſit ſine ratione sufficienti, (§. 32.) intelligis, in omnibus, quaecunque tandem exiſtunt, eam reperiri ſimilitudinem, ut fiant principio rationis ſufficientis conformiter. Illa ſimilitudo, quae in omnibus exiſtentibus deprehenditur, eorum-
+
+K dem [p. 146] il 146 De ordine, ueritate l dem ordinem constituit, 1837) E. in existentibus ordinem eſſe, deprehendis. Atque haec similitudo, hic ordo, per quem omnia existentia rationem sufficientem ſui habent, eſt commune illud criterium, per quod, et uulgus, et philoſophus, diſcernunt fictiones et phantaſma- Ii ta, in somniis obuia, ab euentibus, qui nobis uigilantibus reuera accidunt. Somnia, inquit Bülfingerus in dilucidat. §. 162. inde agnoſcimus, et negamus factam eſſe rem, ſed eſſe uiſam ſolum fieri, quando hiat alicubi nexus rerum; ſi res illae, quae -13 uidentur fieri uel ſui rationem sufficientem non habent in uiſis anterioribus, uel inter ſeſe non habent suae successionis rationem ſufficientem, uel uisa posteriora non habent in ipsis. Sin phaenomena sint eiusmodi, ut antecedentia ſemper rationem in ſe habeant sufficientem conſequentium, iudicamus,; illa reuera sic exiſtere.
+
+tis 97. Vtili i E; “i Hinc eſt, ut veritatem metaphyſicam definia- mit mus per ordinem talem, per quem quod- libet habet rationem ſufficientem ſui. VVol- fius in Ontolog. Lat. ſſ 495. ueritatem, quae transcendentalis appellatur, et rebus ipsis ineſſe in- eſſe intelligitur, definit per ordinem in uarietate eorum, quae ſimul ſunt, ac ſe inuicem conſen3 quuntur. Item breuius: ueritas eſt ordo eorum, quae enti conueniunt.
+
+Dum de ueritate, eaque metaphysica, hic ſermo u eſt differentiam inter ueritatem exiſtendi et ueri- E tatem essendi obſeruari uolo. Veritatem existendi (qua
+
+[p. 147] Metaphyſica et perfectione. I47 (qua quid reuera exiſtit, non uero fingitur) facile intelligis, ita debere explicari, ut inuoluat ordinem eiusmodi, per quem quodlibet rationem ſui ſufficientem habet. Quicquid enim reuera exiſtit, id debet habere rationem sufficientem, cur existat potius, quam non exiſtat. 32.) Veritatem eſſendi definiebant ueteres scholastici per eam affectionem, qua res habet, quae ipſius eſſentiae et naturae debentur. E. gr. Aurum eſt uerum aurum, (ueritate essendi) quia omnia ea habet, quae ad naturam eſ- ſentiamque auri debitam requiruntur. Haec definitio scholasticorum non uidetur contradicere VVolfianae. Res enim, inquit Cl. Schlosserus in diſſertat. Epiſtol ad Hobeiſel. de Ideis p. 23. tum habet eſſentiam debitam, ſi is ibi obſeruetur ordo, ut Principio rationis ſufficientis conformiter omnia fiant, atque adeo secundum hanc ſimilitudinem omnia ordine ſuo ex natura entis ſequantur, ita, ut ex conceptu quodam primario concipere poſſis attributa reliqua, et modorum adſit etiam ratio, in aliis quippe rebus extraessentialibus. 198 Ens uerum eſt, in quo datur veritas. Fortaſſe uidetur tibi haec definitio ſynonymica. At, cum, quid ſit ueritas, iam in antecedenti 5explicatum ſit, definitionem hanc non eſſe synony micam, intelligis. Conf. Log. §. 163.
+
+5. 19. Omne ens eſt uerum.
+
+K2 Demonstr.
+
+[p. 148] De ordine, ueritate i Demonstr.
+
+Cum ueritas conſiſtat in ordine, i per quem quodlibet habet rationem ſufficientem ſui, ſꝗ. 1957.) omne autem ens ſit eius- modi, ut habeat rationem ſui sufficientem, 32.) intelligitur, in omni ente dari ueritatem. Ens, in quo datur ueritas, dicitur ens uerum, Io8) E. omne ens eſt uerum.
+
+Poterat haec propoſitio ita quoque per indirectum demonſtrari: Ponamus, dari ens, quod non ſit uerum ens, tunc dabitur ens, quod non id omne ne habet, quod ens habere debet. (5. 199 Atque adeo eiusmodi ens erit ens, (per hypothesin,) et non erit ens, quia non id omne habet, quod ens habere debet. Cum uero abſonum ſit et contradictorium, eſſe aliquid ſimul ens et non ens, (§. 22.) abſurdum quoque eſt, ut detur ens, quod non ſit uerum. E. omne ens debet esse uerum.
+
+Vnde intelligitur, nullum falſum in rerum natura exiſtere, ſi falſum ſcilicet dixeris id, quod non habet eſſentiam debitam. At falſum, inquis, datur aurum. Nego. Aurum, quod falsum dicis eſ- ſe aurum, aut eſt aurum, aut non eſt aurum. Si eſt aurum, habet neceſſario omnia auri requiſita, adeoque non eſt falſum aurum. Si non eſt aurum, erit uel cuprum uel orichalcum, uel aliud metallum. Atque hac ratione erit uerum cuprum, uerum orichalcum, uel aliud quoddam uerum metallum. Ei s. 200.
+
+[p. 149] Metaphyſica et perfe&tione. I49
+
+4 200. Ex his denique intelligitur, fontem omnis, quae datur in rebus, ueritatis eſſe principium rationis sufficientis, (§. 197.) ut adeo, ſublato principio rationis ſufficientis, tollatur, quae rebus ineſt, ueritas. Atque haec eſt ratio, cur cum Leibnitio alii, inter quos Thümmigius, uel ideo principium rationis ſufficientis concedendum eſſe, aiant, quia alias diſcrimen inter ſomnium et ueritatem tolleretur. Conf. ea, quae supra f. 32. sqq. de principio rationis sufficientis a nobis copioſe ſunt diſputata-
+
+5- 20I. Cuilibet rei, in qua uaria ſiue plura occurrentia ita conſentire et conſpirare quaſi deprehendimus, ut ad finem, ad quem res condita eſt, aſſequendum ſufficiant, tribuimus perfectionem. Hinc perfectionem definiunt quidam per ſufficientiam ad finem.
+
+§. 202. Cum qua notione perfectionis apprime conuenit VVolfii definitio, qui perfectionem definit per conſenſum in uarietate, ſeu Plurium a ſe inuicem differentium in uno. Conſenſum uero, dicit, eſſe nihil aliud, quam tendentiam ad unum aliquod obtinendum.
+
+K ;3 Haec
+
+[p. 150] De ordine, ueritate 1 ! 4 Haec definitio VVolfi nonnullis uehementer displicuit, quae tamen contra illam moueri ſolent dubiola, uix merentur ſolutionem. Conſ. interim philosophia mea definitiua p. 5. ubi ad nonnullas exceptiones responsum eſſe, uidebis. Vt interim haec definitio rectius capiatur, auctor exſtiterim cuique et ſuaſor, ut singulos consideret attentius et percurrat caſus, in quibus rei alicui tribuimus perfectionem, uideatque inſimul, num haec definitio applicari queat. Mihi certe, diligentius meditanti, nondum occurrit perfectionis exemplum, in quo praeſentem definitionem non oppido et commodiſſime potuerim applicare. Vnum alterumue exemplum ad illuſtrandam hanc definitionem adferemus. Reipublicae e. gr. tri- buimus tum perfectionem, cum in eadem uaria, actiones ſcilicet principis et ſubditorum, eo con- ſpirant et eo tendunt, ut tranquillitas publica obtineatur et conseruetur. Horologio tribuimus itidem perfectionem, cum uaria in horologio, omnes scilicet catenulae, omnes rotae, omnesque rotarum motus eo tendunt, eo collineant, ut finis horologii, indicium ſcilicet horarum, obtineatur.
+
+§. 203. 2 Imperfectionem in aliqua re deprehendimus tum, cum uaria, in re obuia, fuerint eiusmodi, ut fini rei aduerſentur et contradicant. Imperfectionem itaque. Volfius definit per diſſenſum in varietate ſeu plurium ſe differentium in uno, 11 E. gt.
+
+[p. 151] Metaphysica et perfectione. i51 A —m—tt A v— E. gr. Cum in republica uaria, actiones nimirum principis ac ſubditorum, fini reipublicae, ſcil. tranquillitati publicae, contrarientur, cum princeps crudeliter in ſubiectos saeuit, ciues autem omne obſequium detrectant, tum nemo non haec omnia pro reipublicae imperfectionibus habebit. Horologium item imperfectum eſt, ſi qua in eius structura occurrunt, quae obſtant, quò minus horae singulae accurate indicentur. Conf. Vvolfii
+
+Ontol. Lat. §. 504. §. 204. Apparet hinc, ad omnem perfectionem re- quiri a) principium perfectionis, siue finem aliquem et ſcopum, ad quem uaria in re, quam perfectam eſſe dicimus, tendant. Hoc principium perfectionis, in quo plura in re quapiam conſentiunt; dicitur a VVolfio quoque ratio determinans perfectionis. B) Ad perfectionem requiruntur plura, quamuis non realiter a ſe inuicem ſemper diſtincta, interim tamen, ut plura, a nobis repraeſentata. Ad- ſit conſenſus plurium cum principio. siue ratione determinante perfectionis, ſiue, quod idem eſt, harmonia plurium cum fine aliquo et ſcopo communi, E.gr.
+
+Principium perfectionis mundi eſt manifestatio gloriae diuinae, uaria illa in mundo obuia, ad hunc finem tendentia, ſunt corpora mundi totalia et partialia, conſenſus eſt nexus rerum ſimultanearum et ſucceſſiuarum.
+
+K 4 5. æs3.
+
+[p. 152] Ecmummu::
+
+I52 De ordine, ueritate at]
+
+E §. 205. Si principium uel ratio determinans per- sectionis adfuerit unica, tum perfectionem adeſſe ſimplicem, dicimus. Cum uero plura perfectionis principia, adeoque plures perfectiones ſimplices in aliquo ente obueniunt, tum uero adeſt perfectio composita. Vt adeo perfectio compoſita ex conſenſu multarum ſimplicium perfectionum oriri recte dicatur.
+
+.i E. gr. Cum horologium ita fuerit conſtructum, us: ut in eo conſpiciatur partium rotularumque omnium conſenſus ad id, ut horae tantum indicem- ĩ: mẽ tur, habes hoc in caſu perfectionem horologii ſim- 3l plicem. Si uero conſenſus partium in horologio arv ii non modo id efficit, ut horae indicentur, ſed quo- ſtĩl que, ut ſingula minuta, ſinguli quoque dies menſis cuiusuis, manifeſtentur, tum uero perfectio horologii eſt compoſita, quia plures adſunt fines et ſcopi, qui per ſtructuram partium, in horologio apte cohaerentium, et amice conſpirantium, obtinentur. §. 206. F 0 ãæ /æ ra Quo itaque plures adſunt perfectiones ſimplices, compoſitam conſtituentes, quo item exactius plura in ente aliquo conſentiunt et conſpirant cum fine et ſcopo siue principio 55 æ perfectionis, hoc maior eſt perfectio.
+
+W ꝗ. 207-
+
+[p. 153] Metaphysica et perfectione. 153
+
+§. 207. Experientia nos condocet, ſaepius uſu uenire, ut perfectiones ſimplices, compoſitam conſtituentes, earundemque regulae ſiue principia inter ſe pugnent. Quod cum fit, fieri autem, ut dixi, experientia teſte, per- ſaepe ſolet, plures regulae dicuntur inter ſe collidi. ( E. gr. Eruditionem ſibi in academiis acquirere, mentemque literarum ſtudiis ita excolere, ut patriae aliisque, nobis item, prosimus, eſt, nemine diſſentiente, perfectio. Opum ſuarum nullam pati iacturam, easque partas conseruare, itidem perfectio est. At mentem noſtram literarum ſtudiis excolere uix poſſumus, opesque ingenii aegre augebimus, niſi ſumtus impenderimus. Vides hic, duas perfectiones pugnare, et inter ſe collidi, cuius quidem perfectionum colliſionis exempla Plura, eaque perquam Luculenta, in ipſis praelectionibus adducemus.
+
+§. 208. Quia ea, quae inter ſe pugnant, ſimul eſſe non poſſunt, 22) opus eſt, ut, ſi utraque perfectio ſimul obtineri nequit, uel regularum perfectionis altera praeferatur, et negligatur altera, uel ut utraque ex parte negligatur, ex parte autem retineatur. Neglectus hic alterutrius regulae perfectionis uocatur exceptio a regula perfectionis. Quae exceptio a regula perfectionis, ex colli-
+
+K5 ſio
+
+[p. 154] 154 De ordine, ueritate 1 fione plurium regularum oriunda, ita definitur a Volfio in Ontologia Lat. §. 510. Exceptio eſt determinatio, regulae contraria, ob regularum ſimul obſeruandarum colliſionem facta. Fac e. gr. Caium uulnus accepiſſe in crure, quod ſit immedicabile, ipſumque adeo in uitae diſcrimen adducat, niſi ipſum crus chirurgorum instrumentis  reſecetur. Quid tunc Caius? No- uit regulam, m.; v magiſtra recta ratione, dudum in mente ipſius alte impreſſam:
+
+Membra ſunt integra conſeruanda, I %a mi neque adeo reſecanda,. Sed non neſcit alteram 4 quoque: Vitam tuam conſerua. Si itaque Caius, æ i uitam ſine cruris abſciſſione et iactura ſeruari non ĩii poſſe, uidet, oppido illud a corpore abſcindendum curat, tantum, ut uitam seruet. Exceptionem hic facit Caius a regula priori, propterea, quod ipſius actiones et determinationes huic re5h gulae: Membra ſunt integra conſeruanda, nec re- ILll æ ſſſæũ ſecanda, plane ſint contrariae, idque propter re t,,- gularum ſimul obſeruandarum pugnam ſiue colli- Vi ſionem. H
+
+5. ob Quotiescunque 209. Quotiescunque ob regularum, ſimul ob- ſeruandarum, pugnam siue colliſionem ex- ceptio a regula perfectionis inſtituenda, toties, ſi quidem ducem rectam rationem ſequi Uoluerimus, ita eam inſtituemus, ut maximam totius perfectionem obtineamus, ſiue ut maius bonum praeferamus minori. Ab-
+
+[p. 155] Metaphyſica et perfectione. 155 • Abſonus profecto mentisque ualde inops ex- istimaretur ille mercator, qui, si, coorto turbine maris, uitam ſuam ſine mercium iactura et pro- iectione in mare seruari non posse uideret, uitam mallet, quam merces, perdere.
+
+§. 210. Si in regularum plurium colliſione uel Rę-æ. pugna minimum admittatur exceptionis, nihilominusque finis obtineatur et ſcopus, tum uero magnam hinc emergere perfectionem totius, per ſe patet. Hinc eſt, ut, praeterea, quae iam §. 206. de perfectionis gradu determinando dicta ſunt, ex hoc quoque alicuius rei perfectionis gradum aeſtumare ſoleamus, ſi minimum ſcilicet exceptio- nis fuerit admiſſum.
+
+#### s. anadſuerit regu-
+
+Vii unica tantum adfuerit regu- la perfectionis, ibi exceptioni non eſt locus. Demonstr. Cum enim omnis exceptio a regula perfectionis oriatur ex collisione regularum, (§. 208.) colliſio autem ſiue pugna regularum perfectionis locum habere nequeat, niſi adfuerint plures regulae pugnantes, (3 207.) intelligis, ubi unica adfuerit regula perfectionis, ibi exceptioni non eſſe locum.
+
+[p. 156] i 156 De ordine, ueritate ꝗ. an. In perfectione itaque ſimplici ex- ceptio nulla eſſe poteſt, quamuis in perfectione compoſita locum exсе- ptio habere queat. Demonstr. Cum enim, ubi unica eſt regula perfectionis, ibi exceptio locum habere nequeat, 2I.) in perfectione autem ſimplici unica tantum regula perfectionis locum habeat, ſ6. 205.) manifestum eſt, in perfectione ſimplici nullam poſſe eſſe exceptionem a regula perfectionis. In perfectione compoſita plures adſunt regulae perfectionis, (§. 205.) ubi uero plures adſunt regulae perfectionis, lt ibi locum habere poteſt colliſio ſiue pugna rr. regularum, (ꝗ297.) ubi locum habere poteſt ne pugna ſiue colliſio regularum, ibi locum habere poteſt exceptio a regula perfectionis. lẽ:. i i ſ ũ 208.) E. in perfectione compoſita locum habere poteſt exceptio.
+
+5 2n. Ex exceptione oritur defectus, non uerus ille quidem, sed tantum apparens. Demonstr.
+
+[p. 157] Metaphysica et perfectione. 157 Demonstr. Cum enim in omni exceptione determinationes habeas, regulae contrarias, (§. 208.) determinatio autem regulae contraria, hoc quidem loco, a nobis dicatur defectus, conſequens eſt, ut ex exceptione oriatur defectus. Quia uero ille defectus euitari non poteſt, propter regularum, ſimul obſeruandarum, colliſionem, defectum illum apparentem eſſe, uides. §. 214. Ex exceptione a regula perfectionis oritur imperfectio in parte, ſal- ua tamen totius perfectione. Demonſtr. Cum enim ex exceptione a regula perfectionis oriatur defectus, (6 æ13) defectus autem conſenſus uariorum cum ſi ne conſtituat imperfectionem, (§. 203.) intelli- gitur, ex exceptione a regula perfectionis oriri imperfectionem Haec tamen imperfectio non eſt in toto, (exceptio enim ita poteſt inſtitui, ut maxima totius perfectio obtineatur) E. erit in parte. E. exceptionem, intelligis, parere imperfectionem in parte, ſalua totius perfectione.
+
+5. 2. Ex quo conficitur, imperfectionem partis, ex exceptione illa reſultantem, facere poſſe ad maiorem totius perfectionem. Quod tamen [p. 158] i 158 De ordine, ueritate tamen non ita uolo accipi, ac ſ 1 ex imperfe- V ctione pĩrs in ſe et ſua natura accedat quicquam perfectioni totius, ſed aliunde dependet pra-praerogatiua perfectionis in toto, quae ſ?ſſi
+
+3 tamen nu adeęſſet, niſi imperfectio in parte fuisset admissa. i Vt facilius intelligar, ſuppeditabo exemplum i perſpicuum. Fac, mercatorem, maris aeſtu et fluctibus agitatum, merces proiicere in mare, ut uitae suae consulat. Negligit hic mercator, ut uides, alteram perfectionis regulam, ut obſeruetur altera et retineatur. Adeoque admittit imperfectionem in parte, imperfectio enim eſt, iacturam Eil ram mercium opum facere,) ut obtineatur perfectio totius, ſide, ut altera conſeruetur. Non bEVS autem dependet uitae conſeruatio a mercium ia- Hi àli Ctura et proiectione in mare, tanquam cauſſa ef- -q ficiente, ſed uita. non potuiſſet; conſeruari, niſi n anteceſſiſſet ſaltem, ut conditio ſine qua non, mer- ;i cium proiectio et nauis exoneratio. 5.
+
+216. Perfectio eſſentialis eſt, quae continetur conſenſu determinationum eſſentialium. Perfectio autem accidentalis eſt, quae facit con- ſenſum determinationum accidentalium cum essentialibus. 5. au. Pæ]
+
+Omne ens gaudet perfectione eſ- ſentiali. Demonstr
+
+[p. 159] Metaphysica et perfectione. IS9 Demonstr. Cum enim omne ens ſua gaudeat eſſentia, 69.) adeoque attributis et- iam, cum eſſentia neceſſario et indiuulſo nexu coniunctis, (§. 7.) haec autem omnia, tanquam determinationes eſſentiales, eo tendant, et in eo conſpirent, ut ens prae- -ciſe ſit ens, non uero non ens, ut ens ſit hoc ens, nec aliud ens, (§.66.) intelligitur, omne ens gaudere ſua perfectione essentiali. 216.)
+
+Hanc eſſentialem perfectionem uocabant ſcholaſtici bonitatem metaphysicam Hinc intelligis, cur, omne eſſe ens bonum, contenderint iidem, negauerintque, quicquam metaphysice malum in rerum natura exiſtere.
+
+5. 2i8. Caeterum obſerues, perfectionem rerum uel ita 1) cognoſci, ut detegamus regulam ſiue principium perfectionis, 2) ex illo principio perfectionis determinemus uaria, quomodo debeant eſſe comparata, ut cum principio et regula perfectionis conſentiant et conſpirent, uel ita cognoſcimus perfectionem, ut 3) uaria alicuius rei cognoſcamus, iisque inter ſe collatis, principium quoque perfectionis siue regulam cognoscamus. In illo caſu dicimur cognoscere perfectionem a priori, in hoc uero a poſteriori. Maxi-
+
+[p. 160] 160 De ordine, ueritate Metaph. et perfect. Maxime autem in operibus artis perfectiones rei cognoſcimus a priori. In horologio e. gr. a) de regula ſiue principio et fine ſolliciti ſumus, ad quem uaria in horologio tendere debent, B) diſpicimus, num uaria in horologio ita consentiant, et ita inter ſe conſpirent, ut finis horologii, horarum scilicet indicium, obtineatur. In operibus autem naturae in cognoscendis et detegendis perfectionibus ita uersamur, et ita procedimus, ut a) uaria, æ 2ræ in ente obuia, inter ſe comparemus, iisque inter ſe comparatis, ẞ) finem, ſcopum et principium per- -4 sectionis cognoſcamus. E Lcrpi
+
+C AP. XIV. DE ar
+
+ENTE COMPOSITO. 5. 21:. T7uniuersalibus notionibus entisque affectio- V .ibus iam iam explicatis, nunc ad ſpecialiorem entium conſiderationem accedi- mus. Cumque omne ens iam a ueteribus in ens compoſitum et ens ſimplex fuerit distributum:, a compoſito ordimur, quia ex compoſito ſimplex infra demonſtrabitur/ Ita autem hoc in capite doctrinam de ente compoſito trademus, ut generalia exponamus principia, et poſitiones demonſtremus uniuerſaliores, quae in coſmologia itemque in phyſicis, cum natura et affectiones corporum iA
+
+[p. 161] De ente compoſito. 161 : rum explicandae ſunt, multo nobis uſui ſunt futurae. 5 20€0. Vt uero, quae de ente compoſito dicenda ſunt, intelligantur facilius, primo quidem loco, quid ſint res, extra ſe inuicem positae, definiamus. §. 221. 1. Cum rei alicuius nobis ſumus conſcii, tanquam a nobis diſtinctae et diuerſae, tum illam rem extra nos ponimus. Ea autem extra se inuicem poni dicuntur, quae cogitamus, tanquam a ſe diuerſa et diſtincta.
+
+#### E. gr. Cum Maeuium tibi repraeſentas, illum
+
+extra te ponis, quia illum diuerſum a te repraeſentas. Maeuium porro et Titium extra ſe inuicem ponimus, quia Maeuium a Titio diſtinctum concipimus. Ita quoque in hac menſa unam menſae particulam extra aliam ponis, quatenus ſcilicet quamlibet mensae particulam ab alia diſtinctam tibi repraeſentas.
+
+§. 222. Illud ens, quod ex pluribus, a ſe inuicem diſtinctis, ſeu extra ſe poſitis, partibus conſtat, dicimus ens compoſitum. E. gr. Menſa, liber, ſunt entia compoſita. Con- ſtant enim ex pluribus partibus, a ſe inuicem di- stinctis, ſeu extra ſe positis. Compoſitum hoc, quod definiuimus, quodque in libris philoſophicis ſtricte et κατ᾿ ἐξοχήν 2g0xM
+
+L com-
+
+[p. 162] 162 De ente compoſito. compoſitum dicitur, appellamus compoſitum rea- —ſ— e2g—Nu le siue physicum. Quod ipſum compoſitum reale diſtinguitur a compoſito rationis. Eſt autem compoſitio rationis siue logica, cum Plura, tanquam a ſe inuicem diſtincta, in ente quopiam mente concipiuntur, qua?è tamen realiter a ✓ ſe inuicem distincta non ſunt. E gr. Cum in Deo attributa omnia, quae ſunt ipſe Deus, tanquam plura, a ſe inuicem diſtincta, et extra ſe po- ſita, repraeſentamus, tunc illa compoſitio, qua Deus ex pluribus attributis componi uidetur, dicitur compoſitio rationis siue logica.
+
+§. 223. Hinc euidens eſt,y 223 compoſitum per certam plurium, a ſe inuicem diſtinctarum, partium combinationem fieri compoſitum, et, ut alia Eææ aliaue ęſt partium coniunctio, ita inde emergere aliud aliudue compoſitum, ex definitione, ſ. 222. ſuppeditata, conſtare poteſt.
+
+5. 229. Eſſentia compoſiti consistit in modo compoſitionis talium partium, qui n ſ.& bus conſtat compoſitum. Demonstr. Cum enim eſſentia rei ſit id, per quod praeciſe res aliqua haec res eſt, et non alia, (3 66) per partium autem combina tionem, ſiue, quod idem eſt, per modum compoſitionis partium, quibus conſtat com poſi
+
+[p. 163] De ente compoſito. I63 poſitum, compoſitum ſit praecise compoſitum, nec aliud quid, et, ut alia aliaue adeſt combinatio partium ſiue modus compoſitionis, ita aliud aliudue inde emergat ens compoſitum, 23) conſequens eſt, ut eſſentiam compoſiti in modo compoſitionis talium partium, quibus conſtat compoſitum, recte constituamus. 1 Vt facilius intelligas, exemplum ſuppeditabo ,perſpicuum. Noſti, horologium et molendinum eſſe entia compoſita, plane a ſe diuersa. Dic uero, quid eſt illud tandem, per quod horologium praeciſe eſt horologium, nec potius molendinum? Per quod, quaeſo, horologium a molendino, et molendinum ab horologio ſemper et ubique diſcernitur? Nonne per internam partium combinationem et ſtructuram diverſam? Quia scilicet alius eſt modus compoſitionis in horologio, alius in molendino, fit inde, ut molendinum non habeas pro horologio, nec horologium credas eſſe molendinum, ſ20 per modum compositionis partium diuerſum ſtructuramque diuerſam haec duo entia compoſita diſtinguas.
+
+æ5.
+
+Eſſentiam itaque compoſiti is demum per- ſpicere recte exiſtimatur, qui cogno- ſcit, quales sint in composito partes, quoue modo partes illae ſint inter ſe combinatae et connexae.
+
+L25 226.
+
+[p. 164] 164 De ente compoſito.
+
+§. 226. Quaecunque compoſita ſunt eius- modi ut ſimili gaudeant ſtructura, ſimilemque modum compoſitionis habeant, illa ſunt ſibi ſimilia. Demonſtr. Quaecunque enim compoſita eadem ſtructura gaudent, ſimilemque compoſitionis modum habent, illa habent eſſentiam ſimilem ſiue eandem, 224) quaecunque eſſentiam ſimilem ſiue eandem habent, illa ſunt ſibi ſimilia, (§. 17.) E. quaecunque compoſita ſunt eiusmodi, ut ſimili gaudeant ſtructura, ſimilemque modum compoſitionis habeant, illa ſunt ſibi ſimilia.
+
+§. 227. æ Quaecunque contra entia compoſita diſſimilem compoſitionis modum habent, illa- eſſe diſſimilia, ex dictis perſpicuum eſt. E. gr. Lupus et lepus ſunt entia compoſita diſſimilia, ob diuerſum compoſitionis modum, ſtructuramque plane diſſimilem.
+
+§. 228. Duo entia compoſita perfecte similia exiſtere nequeunt. Demonſtr. Cum enim duo indiuidua, perfecte in omnibus ſimilia, dari non poſſint, (§. 163.) omne autem id, quod existit, ſit indi-
+
+[p. 165] De ente compoſito. 165 indiuiduum, 160) manifeſtum eſt, duo entia compoſita, in omnibus perfecte similia, existere non poſſe. §. 229. Quodcunque eſt ens compositum, illud non exiſtit abſolute et ſimpliciter neceſſario. Demonstr. Compoſitum exiſtere nequit, niſi ſub hac hypotheſi, ſi plures partes, a ſe inuicem diſtinctae, certo modo inter ſe combinatae et connexae exiſtant., (§. 222.) Vt adeo exiſtentiam entis compoſiti conditionem admittere, intelligas. Cum uero id, quod ſimpliciter et abſolute necessarium est, nullam ferre conditionem queat, ſũ. i13.) conſequens eſt, ut exiſtentia entis compoſiti non posſit esse ſimpliciter et abſolute neceſſaria. Cl VVincklerus in institutt. philos. VVolfianae P 56. hoc theorema ita demonſtrat: Si ullum compositum cum neceſſitate ſimplici exiſtat, aut ,,partium, quibus continetur, alicui aut nulli eius- „ modi eſt exiſtentia. Si pars aliqua ita exiſtat: ,duo ſunt, quorum exiſtentia eſt ſimpliciter necessaria. Haec uero eſſe nequeunt. Si nulla par- ,, tium existat cum neceſſitate ſimplici: neque et- iam ratio, cur compoſitum cum eadem exiſtat. ;Cum enim omnes (partes) poſſint non esse, ,, nec earundem coniunctio eſt necessaria simpliciter.,,
+
+L3 5 230
+
+[p. 166] De ente compoſito. §.
+
+ꝗ 230. Extensum uocatur, quod habet partes, quarum unaquaeque extra alteram exiſtit, easque inter ſe unitas. Cum uero partes intra partes in ente quodam deprehenduntur, tum uero illud ens dicimus intensum. E. gr. In menſa deprehendimus extenſionem, ſ i propterea, quod in menſa partes ſunt ita extra ſe inuicem poſitae, ut pars A, non ſit ibi, ubi eſt pars B, et B. non ſit ibi, ubi eſt pars C. Eruditioni ue- ro, calori, etc, tribuimus intenſionem rẽ 5. 231 Omne ens compositum debet esse extensum. 1 Demonstr. Cum enim omne compositum debeat partibus conſtare, a ſe inuicem diſtin- Ais, inter ſe autem connexis, (§. 222.) tum autem ens dicatur extensum, cum gaudet partibus, quae extra ſe inuicem ſunt poſitae, in- terim tamen sunt unitae], (§. 230.) conſequens eſt, ut omne ens compoſitum debeat eſſe extenſum. /2
+
+Compoſitum dicitur continuum tum, cum eius partes eo ordine iuxta ſe inuicem ſunt collocatae, ut aliae diuerſae inter ipſas poni planè non possint. Quando uero partes ita ſunt coll/c tae, ut aliae inter ipſas locum habere possint, tum uero compoſitum dicitur inter-
+
+[p. 167] De ente composito. 167 interruptum. Si denique compoſita duo ita - fuerint collocata, ut ipſorum superficies ſe mutuo ſic contingant, ut ipſa maneant plura, neutiquam uero unum efficiant extensum, tum illa duo compoſita, ſibi proxima, uocari ſolent contigua. Vt notiones hae, in capite de ente composito explicari solitae, intelligantur facilius, exempla perquam perſpicua subnectam Maſſa e. gr. aurea eſt compoſitum continuum, propterea, quod partes, totam maſſam conſtituentes, ita ſunt inter ſe connexae, ut aliae, a maſſa aurea diuersae, partes interponi nequeant. Via dicitur tum continua a termino B, usque ad terminum C, cum ipſa nullis riuis, foueis, fluminibusque fuerit intersecta. Cribrum uero eſt compoſitum interruptum. Cribri enim ſtructura totusque compoſitionis modus eſt eiusmodi, ut inter partes, laxius et per interſtitia cohaerentes, aliae, a cribri partibus prorſus diuer- ſae, partes posſint interponi. Duo uero globuli, quorum ſuperficies ſe mutuo ita contingunt, ut ipsi licet ſibi proxime eoẽxiſtant, nihilo minus maneant duo globuli, dicuntur recte contigui.
+
+233:
+
+Ex his conficitur, contigua non ſtatim eſſe continua. Demonſtr. Cum enim, quae sunt contigua, ſe mutuo, qua superficiem, contingant qui-
+
+S L 4 dem 1
+
+[p. 168] 168 De ente compoſito. T dem, neutiquam uero ita unum efficiant ex- tenſum, ut nullae aliae partes interponi pos- ſint, 282.) ad compoſitum uero continuum eiusmodi partium nexus requiratur, ut nullae aliae partes diuerſae inter ipſas locum habere queant, (§. 23.) manifeſtum eſt, contigua non ſtatim eſſe continua.
+
+1 E. gr. Hae duae literae, a, ſunt literae contiguae, (cohaerent enim, et, arcte licet cohaereant, nihilominus manent duae literae) abſit uero, ut dicamus eas continuas, poſſunt enim aliae literae diuerſae interponi. mæ; t/3 a.
+
+5. 224. Perſpeximus, quid ſit continuum, interruptum, itemque, quae compoſita dici debeant contigua. 232) Reliquum eſt, ut, ad compoſitorum entium naturam et affectiones plenius intelligendas, quasdam adhuc notiones diſtincte hic euoluamus. Scilicet, cum deinceps demonſtrandum nobis ſit, omnia entia compoſita replere ſpatium, item, omne compoſitum poſſe recipere motum, etc. id agemus nunc, ut, quid ſit ſpatium, locus, ſitus, figura, tempus, motus, quam fieri poteſt, eno- datissime exponamus, exemplis ubique luculentis ea, quae abſtruſiora uideri poterant, illuſtraturi. §. 235.
+
+[p. 169] De ente compoſito. 169 5 235. Spatii notio tam abſtracta omnino eſt, ut complures, confuse huius uocis conceptu contenti, nihil omnino ſciant, cum, quid ſit ſpatium, fuerint interrogati. Factum hinc eſt, ut alii, cum, audito uocabulo ſpatii, nihil cogitare ſibi uiſi ſint, uocem spatii pro uoce nihili habuerint, quo pertinet cum primis Clericus, alii uero, phantaſia, inepte ſedula, deluſi, spatium quoddam corporum receptaculum, et eſſe, et dici debere, exiſtimarint, alii denique ſpatium ens ſimplex eſſe, affirmarint. 5. 2%5. Vt uero ſpatii notio facilius animo informetur, ſequentia probe obſeruanda eſſe, iudico. Deprehendimus per experientiam, plura entia composita A, B, C, D, ſaepius ita exiſtere, ut, dum A, exiſtit, etiam B, C, D, exiſtant. Haec plura entia compoſita, ſimul exiſtentia, dicuntur ſimultanea. Q) Dum uero ad haec simultanea, A, B, C, D, quae ſibi inuicem coẽxiſtunt, curatius attendimus, obſeruamus, Tò A, alio plane modo coëxiſtere τῷ B, quam coẽxiſtit idem A, τῷ C, uel D, Diſtinguimus itaque modum, quo A, coëxiſtit τῷ 7õ B, a modo, quo idem coexistit 7õ et D. L5 y)
+
+Hinc
+
+[p. 170] De ente composito. y) Hinc intelligis luculenter, eiusmodi omnino ordine haec ſimultanea iuxta ſe in- uicem collocari, ut diſtantia inter A, et B, ſit plane diuerſa a diſtantia, quae conſpicienda eſt J inter idem A, et D. : 8)
+
+Cum cogitamus hunc ordinem, qui conſpicitur in modo, quo plura ſimultanea A, B, C, D, ſibi coẽxiſtunt, reuera cogitamus id, quod dicitur ſpatium, neque fieri poteſt, ut res, extra ſe inuicem coẽxiſtentes, nobis repraeſentemus, quin iisdem adhaereat notio ſpatii, s5 23 VVolſius itaque spatium definit in Ontologia Latina p.454. f. 598. per ordinem ſimultaneorum, quatenus ſcilicet coẽxiſtunt. niilir r-
+
+J N a a- E. gr. in foro Vitembergenſi, dicimus, dari quoddam ſpatium, propterea, quod multa aedi- ficia, prope forum ſibi coẽxiſtentia et ſimultanea, certam quandam relationem certumque ordinem, ratione ſuae coẽxiſtentiae, inter ſe ſer- uant. Quae quidem relatio, quae inter aedificia coexistentia intercedit, prout alia aliaque eſt, ita aliud aliudue ſpatium inde exſurgit. Vt adeo uideas, ſpatium neutiquam poſſe considerari, ut ens abſolutum, quin potius ſine relatione aliqua ad
+
+[p. 171] De ente compoſito. 171 ad corpora coẽxiſtentia ſpatium nullum concipi poteſt. Cel. Hollmannus in Metaphyſica s. u9. ſeq4. ſpatium poſitiui quicquam eſſe, negat, arbitratus, ſpatium esse nudam rerum exiſtentium non- contiguitatem. Nihil poſitiui, inquit s. 121. cogitandum nobis eſt, quando ſpatium cogitare uolumus, nosque illud, modo explicato, posſibile iam esse, diximus, quin nuda potius unius rei, uere existentis, ab alia, uere exiſtente, diſtantia, ſeu, quoniam et hoc uocabulum, aeque, ac ſpatii uocabulum poſitiuum eſt, ideoque et ideam rei alicuius positiuae plerumque in nobis generat, nuda non - contiguitas est. Nonnulla quoque ꝗ. 12. Cel. Vir contra definitionem ſpatii VVolfianam monuit, quae uero, hic. non attinet, pluribus commemorare et confutare.
+
+lj r I 5 258. Praeter diſtinctam ſpatii notionem, 6. antecedenti ſuppeditatam, datur adhuc quaedam ſpatii notio imaginaria. Scilicet imaginatio nobis ſiſtit ſpatium, tanquam ens reale, actu exiſtens, extenſum, uniforme, continuum, quod eſt indiuisibile ac immo- bile, et a rebus exiſtentibus penetrabile. Quo ipſo ſpatium ſibi homines repraeſentant, tanquam receptaculum, a rebus omnibus uacuum, in quo aliquid reponere queamus,
+
+Haec,
+
+[p. 172] De ente compoſito. Haec, a phantaſia efficta, ſpatii notio, qua spatium, tanquam corpus aliquod et ens reale, nobis ſiſtimus, quamuis multis imponat, impediatque adeo, quo minus. quid ſit proprie ſpatium, homines ſibi diſtincte repraeſentare poſſint, ea tamen nos, in Geometria inprimis et doctrina de motu, non facile carere poſſe, monet C. Erneſti in philoſophia ſua ꝑ. æ10.
+
+5. 29. Ex definitione Spatii, f. §. 237. allata, intelligitur, ſpatium a rebus ſimul exiſtentibus eſſe diuerſum. Demonſtr. Cum enim nemini non pateat, ordinem siue modum, quo res plures ſibi coexistant, a rebus ipſis coẽxiſtentibus plane eſſe diuerſum, ordo autem ille ſiue modus, quo res plures ſimultaneae ſibi coẽxiſtunt, con- ſtituat id, quod dicimus spatium, (§ 237.) manifeſtum eſt, ſpatium a rebus pluribus coëxistentibus eſſe plane diuerſum, aut ſaltem, tanquam diuerſum, concipi debere. Hoc theorema optime illuſtrari poſſe, crediderim, exemplo numeri et rei numeratae. Quemadmodum enim, ſi res adfuerint numeratae, non poteſt non adeſſe numerus,  autem non eſt ipſa res numerata, et quemadmodum, rebus numeratis ſublatis, numerus exiſtere ceſſat, ita etiam, ut primum plures res simultaneae
+
+[p. 173] De ente compoſito. Vi neaę certo quodam ordine coexistunt, oritur ſpa- tium, (ſpatium autem illud, quod a rebus ordinatis et coẽxiſtentibus oritur, non ſunt ipſae res ordinatae,) quod quidem ſpatium, rebus coẽxiſtentibus ſublatis, non poteſt non rurſus euaneſcere, fere, uti numerus, rebus numeratis ſublatis, euaneſcit. Conf. VVolfii Ontologia Lat. 653 et VVinckleri institutt. philosophiae VVolfianae p. 58. D. 272.
+
+Patet hinc, quid de ſpatio extramundano, u ue- terum nonnullis conficto, ſit exiſtimandum. Qua, dic, quaeſo, ratione ſpatium ſiue rerum exiſtentium non - contiguitas locum habebit, ubi nullae plane res exiſtunt?
+
+§. 240. Omnia compoſita inſunt ſpatiis. Demonſtr. Cum enim ſpatium ſit ordo rerum, extra ſe inuicem poſitarum, quae tamen coẽxiſtunt ſibi inuicem, (§. 237.) patet, in ſpatio id tantum eſſe, in quo reperitur ordo diuerſorum, quae ſibi inuicem coẽxiſtunt. Cum uero omnia compoſita eiusmodi ſint, ut in iis reperiantur plura, a ſe inuicem diſtincta, ſed inter ſe connexa, et ſibi inuicem coẽxi- ſtentia, 222) perſpicuum eſt, omnia compoſita ineſſe ſpatiis.
+
+Si notionem ſpatii imaginariam in ſubſidium adhibueris, poteris facilius hanc propoſitionem tibi concipere Extensum ſcilicet dicitur im- pleræ [p. 174] v4 De ente composito. 1 : A plere ſpatium, quatenus in ſpatio imaginario, ſiue in receptaculo quodam, a rebus uacuo, partem nobis fingimus immobilem, quam extenſum illud adaequat. Conf. VVolfius in Ontolog. Lat. s. 609. Iam uero cum omne compositum, quodcunque extra intellectum noſtrum existit, alicubi existere debeat, (id, quod, uel me tacente, quilibet intelligit) euidens eſt, quodlibet compoſitum partem aliquam, in receptaculo, a rebus uacuo, adaequare, adeoque ſpatium aliquod replere debere. Prae- clare hanc in rem Hollmannus: In ſpatio, inquit, aliquo eſſe nobis aliquid dicitur, quando illud ita extra intellectum nostrum uere alicubi existit, ut ibidem et alia magis, uel minus, ab eodem diſtantia, exiſtere non repugnet, id quod, quum de rebus omnibus, uere existentibus, dici iam poſſe, neceſſe ſit, res omnes, uere exiſtentes, neceſſario quoque in ſpatio aliquo eſſe debere, ſatis inde iam apparet. Conf. Inſtitutt. philoſ primae p. 727.
+
+5& 241
+
+Quando A. B, C, D, ſibi inuicem coẽxi- stant, tunc certo quodam ordine, oportet, coexistant, ita, ut modus, quo A, coëxistit τῷ B, uel C, et D, diſtingui poſſit ab illo modo, quo B, coẽxiſtit 7õ à, uel C, et D. Qui quidem determinatus modus, quo A, coẽxiſtit τῷ B, C et D, eſt id, quod locum appellamus.
+
+T
+
+[p. 175] De ente compoſito. I75 /—oo Tũ A, ſcilicet tribuitur peculiaris locus, quia τὸ A, determinato modo coẽsistit 7ꝗ B, C, et D. E.gr. Hic liber, quem coram uideo, peculiarem occupat locum, quia hic liber, quem coram uideo, et mihi, et aliis rebus circumiacentibus determin— to modo coẽxiſtit, ita quidem, ut, ſi hic liber diſtantiam mutet, alioque modo determinato mihi coẽxiſtere incipiat, locum quoque ſuum mutare dicatur.
+
+Sunt, qui differentiam ſpatii et loci ita ſibi concipiunt. Spatii, inquiunt, et loci idea, ut totius et partis, ideae inter ſe differunt. In ſpatio ſcilicet ſunt plura ſimultanea concipienda, quorum cum quodlibet habeat determinatum ſuum modum caeteris coẽxiſtendi, ſpatium imaginamur, tanquam ex multis locis compoſitum.
+
+5. 292. Quemadmodum ſ. 23. iam demon- ſtratum eſt, ſpatium a rebus simultaneis earumque exiſtentia plane differre, ita nunc quoque facile patebit, locum ab ipſa re differre, tanquam rei relationem. Demonstr. Quicquid enim non eſt, niſi modus coẽxiſtendi caeteris, id non eſſe ipſam rem, facillime intelligitur. Atqui uero locus non eſt, niſi modus determinatus coëx- istendi 1
+
+[p. 176] 176 De ente compoſito. iſtendi caeteris, E. locus non eſt ipſa res, ſed eſt reĩ relatio.
+
+§. 243. Vnde conficitur, 1) locum cum intrinſeco entis nullam habere connexionem, nec in eo 72 poſſe quicquam mutare. 2) Hinc manife- ſtum fit, non poſſe in loco eſſe rationem, cur
+
+cur ens aliquod ſit hic nec alibi, (alias locus cum ipſo ente eiusque intrinſeca natura rem haberet.)
+
+Cum itaque nihil ſit ſine ratione ſus- 7 25 E; t ficienti, ratio debet eſſe extra locum in alia quapiam re, cur ens quodlibet potius hic ſit, nec alibi.
+
+§. 244. Quemadmodum ſpatium eſt ordo ſimultaneorum, quatenus ſibi coẽxiſtunt, et non niſi congregatione rerum, quae ſunt, conti- netur, (§. 237.) ita tempus eſt ille ordo, qui ob- ſeruatur in ſucceſſiuis.
+
+5& 245 Vt notionem temporis diſtinctius formemus et facilius, ad ſequentia attendi uolo. a) Entia perplura dantur, quorum alterum eſſe incipit, alterum uero eſſe desinit. Haec entia dicuntur ſucceſſiua. In his entibus successiuis obseruamus B) aliquod, quod adeſt actu, et appellatur praesens, y) Cum id,
+
+[p. 177] De ente compoſito. 7; id, quod praesens erat, eſſe deſinit, et in ſtatum merae poſſibilitatis recidit, tum uocatur praeteritum. ò) Cum ens aliquod, quod mere adhuc eſt poſſibile, ſed ad actum deducitur, tum appellatur futurum. Cum uero quodlibet horum ſua gaudeat duratione, atque adeo in his deprehendatur uniformitas quaedam et: ſimilitudo, deprehendi hic quoque ordinem, ex ꝗ. 187. conſtare poteſt. Atque hic ordo in ſucceſſiuis eſt id ipſum, quod tempus appellatur. §. 246. Qui in temporis notione informanda ima: ginationi nimis indulgent, ii tempus ſibi re- praeſentant, tanquam ens compoſitum, ex partibus ſucceſſiuis continuis conſtans et perdurans, uel ſibi id ſiſtunt, tanquam lineam rectam, quae fluxu puncti continuo gignitur. conſ. V. Volfius in Ontologia Lat. p. 448. §.582. §. 247.
+
+Ex definitione temporis, S. 244. suppeditata, neceſſaria conſecutione, ſequentia fluunt axiomata. u) Intelligitur hinc, ubi nullum habent locum res ſucceſſiuae, quarum altera eſſe incipit, altera eſſe deſinit, 245.) ibi tempus quoque nullum habere locum.
+
+M B) Pla-
+
+[p. 178] 178 De ente compoſito. g) Planum hinc fit, eum, in quo nullae reperiuntur ſucceſſiones, temporis non poſſe non eſſe expertem. y) Euidens eſt, omne id, quicquid eſt in tempore, mutationibus eſſe obnoxium. 8) Quam parua ſucceſſiua poſſumus a ſe inuicem diſtinguere, tam minuta temporis momenta ſeu tempuſcula poſſumus admittere. Haec tempuſcula eatenus audiunt temporis partes, quatenus ad aliud referuntur, quod, dum ipſa fluunt, existit ſeu durat.
+
+**§5**
+
+§. 248. Tempus cum entis intrinſeco nullam habet connexionem, nec quicquam in natura rei intrinſeca mutare potest. Demonſtr. Cum enim tempus non niſi ſit ordo ſucceſſionis rerum, ſ5. 244.) successioni autem entis cum intrinſeco entis nihil ſit commercii, id quod cuiuis patet, perſpicuum eſt, tempus cum entis intrinſeco nullum habere nexum, neque adeo quicquam in entis in- terioribus mutare poſſe.
+
+5. 249- Tempus a rebus ſibi ſuccedentibus, harumque exiſtentia differt. Demonstr.
+
+[p. 179] De ente compoſito. I79 Demonstr. Cum tempus ſit ſucceſſio rerum, 2935. ſucceſſio autem rerum non ſint ipſae res ſuccedentes, palam eſt, tempus a rebus, ſibi ſuccedentibus, harumque exiſtentia differre.
+
+§. 250. Motus eſt nihil aliud, quam loci mutatio, perſeuerantia autem in eodem loco uocatur Quies. Quicquid autem moueri, ſiue locum ſuum mutare poteſt, illud uocamus mobile.
+
+Motus omnis fit in tempore, et eſt ens ſucceſſiuum. Demonſtr. Cum enim motus fit loci mutatio, (§. 28.) omne autem illud, quod ad mutationes pertinet, ſit in tempore, (§. 247.) intelligitur, omnem motum fieri in tempore. Cum uero tempus nullum habere poſſit locum, niſi res adfuerint ſucceſſiuae, 5- 247) motum ens poſſe dici ſucceſſiuum, euidens eſt ſatisque manifeſtum.
+
+§. 252. Locus non obſtat, quo minus poſſit quodlibet ens moueri. Demonstr. Cum enim ratio, cur quodlibet ens hic ſit, nec potius alibi, non reperiatur in loco, ũ. 243.) intelligitur, locum non
+
+M2 ob-
+
+[p. 180] De ente compoſito. obſtare, quo minus quodlibet ens poſſit occupare alium locum. Alium locum occupare ſiue mutare locum, dicitur moueri. E. locus non obſtat, quin quodlibet ens poſſit moueri. §. 253. Cum partes, ex quibus conſtat compoſitum, a ſe inuicem ſeparantur, tum dicitur compoſitum diuidi.
+
+Eæũ
+
+Ex dictis conſtare poteſt, omne compoſitum eſſe diuiſibile. Demonſtr. Cum enim quaelibet compoſiti totius pars alium poſſit locum occupare, ſiue ex loco ſuo moueri, 252) per ſe patet, poſ- ſe quoque partes compoſiti a ſe inuicem ſe- parari. Quia uero in partium separatione compoſiti extenſi diuiſio conſiſtit, 253.) uides, omne compoſitum eſſe diuiſibile. §. 255. Ex quo conſequitur porro, partes entis compoſiti ex alio in alium locum poſſe tranſponi, quia non neceſſario ſuum locum occupant; et ens compos. poſſe oriri, et interire. F- 256. Magnitudinem dicimus partium multitudinem, ut adeo, cum in omni compoſito plures partes, a ſe inuicem diſtinctae, inter ſe
+
+[p. 181] De ente compoſito. I8l ſe tamen connexae, locum habeant, (§. 220.) intelligis, omne ens compoſitum certa quadam et determinata gaudere magnitudine.
+
+5. 9 Colligi hinc poteſt, quando ens compoſitum fiat maius, quando minus. Si ſcilicet partes quaedam nouae ad compositum acce- dant, tum compoſitum fit maius, si uero partes quaedam nouae ad compoſitum accedant, tum. compoſitum fit maius, ſi uero partes quaedam ab eo ſeparentur, tum compoſitum fit minus. §. 258. Compoſitum poteſt fieri maius et minus. Demonſtr. Cum enim entia non occupent neceſſario locum ſuum, ſed partes in ente compoſito locum suum mutare queant, 252) intelligis, fieri poſſe, ut nouae quaedam partes ad compoſitum accedant, aliae uero ab ipſo separentur. Quo quidem in casu cum compoſitum fiat maius et minus, ſ5: 257.) patet, compoſitum fieri poſſe maius et minus.
+
+5 25. Cum entis alicuius magnitudinem ad aliam datam homogeneam inueſtigamus, tum uero illud ens dicimus metiri siue  mensurare. Data autem illa magnitudo, ad M 3 quam :
+
+[p. 182] De ente compoſito. quam ratio alterius magnitudinis exigitur, dicitur mensura.
+
+Sumas e gr. filum A. Si ad huius fili magni- tudinem menſae magnitudinem inueſtigaueris, tum dixeris menſam menſurare. Ipſum autem filum A, ad cuius magnitudinem mensae magnitudo inueſtigatur, dicitur menſura.
+
+§. 260. Quicquid itaque habet magnitudinem, cuius ratio ad aliam datam homogeneam poteſt inueſtigari, id poteſt menſurari.
+
+lE maga
+
+5. 201 Omne ens compoſitum eſt mensurabile. V- Demonstr. Cum omne ens compoſitum certa quadam et determinata gaudeat magnitudine, (§. 256.) manifestum eſt, magnitudinem entis compoſiti poſſe ad aliam datam ſoæ 5væ15 mogeneam magnitudinem inueſtigari. Quia uero, quicquid habet magnitudinem, cuius ratio ad aliam datam homogeneam magnitudinem poteſt inueſtigari, id mensurari poteſt, 260.) conſequens eſt, ut omne ens compo- ſitum poſſit menſurari, ſiue, quod idem eſt, ut omne ens compoſitum ſit menſurabile. ES/ii y: §. 262. Figuram dicimus limitem extenſionis. E Haec am
+
+[p. 183] De ente compoſito. I83 Haec figurae definitio quamuis duobus tantum et pauciſſimis conſtet uerbis, rem tamen ple- ne exhaurit. Aſpice e. gr. hanc menſam, quae gaudet figura quadrata. Figura autem haec, nec alia menſae, unice exſurgit ex his, nec aliis, limitibus extenſionis, in ipſo reperiundae.
+
+§. 263. Ex definitione allata patet, mutatis limitibus extenſionis in ente compoſito, mutari eiuſdem figuram. Limites autem extenſionis uariantur tum, cum uel nouae accedunt partes, uel nonnullae partes auferuntur, uel transponuntur alio.
+
+§. 264. Figura entis compoſiti eſt mutabilis. Demonſtr. Cum enim compoſitum poſſit fieri maius, adeoque nouae accedere queant partes, (§. 258.) itemque minus, et aliae auferri poſſint partes, (§. 258.) cum praeterea partes in ente compoſito transponi poſſint, 255) tum autem, cum uel nouae adduntur partes, uel auferuntur nonnullae, uel transponuntur, extenſionis limites mutentur, 263) palam eſt, in ente compoſito limites extenſionis poſſe mutari. Limitibus extenſionis mutatis in ente compo- ſito, ipſa eiusdem figura mutatur. ſ 262.)
+
+M 4 E.
+
+[p. 184] 184 De ente compoſito. E. figuram entis compoſiti eſſe mutabilem, nullo negotio nunc perſpicitur. Si menſa fuerit quadrata, demas quasdam ab ipſa partes, et prodibit figura, uel rotunda uel alia quaecunque,
+
+§. 265. æ 44 Omnis mutatio, quae accidit in ente compoſito, non poteſt non fieri per. motum. Demonſtr. Quicquid in ente composito deprehendimus, id pertinet uel ad eiusdem magnitudinem, (5. 2556.) uel ad partium et ex- tenſionis limitationem ſiue figuram, (§. 262.) uel ad motum et totius et partium, ſ 250) uel ad ſpatium denique et. locum totius et partium. Si itaque in compoſito mutatio debeat fieri, ille, aut in magnitudine, uel figura, uel ſitu totius et partium accidere debet. Cum uero experientia uſusque communis nos condoceat, neque in magnitudine, neque in figura, neque in ſitu denique totius et partium accidere poſſe mutationem quandam, quin inſimul partes alium aliumque occupent locum, ſiue moueantur, ſ. 250.) (ſine mutatione enim loci manent omnia, ut ante, patet, omnem mutationem, in ente compoſito accidentem, debere fieri per motum. Haec
+
+[p. 185] De ente ſimplici. ISS Haec propoſitio, a nobis iam demonſtrata, permultum nobis inſeruit, cum infra demon- ſtrandum erit, corpus non poſſe cogitare, animamque adeo debere eſſe ens ſimplex. De quo plura in pſychologia. E CAP.
+
+### XV. RE
+
+ENTE SIMPLICI 5 266. nti compoſito, cuius hactenus naturam et d attributa perſpeximus, opponitur ens simplex. Quemadmodum ens compoſitum con- ſtare diximus partibus, a ſe inuicem diſtinctis, inter ſe tamen connexis, ſꝗ. 220) ita ens ſimplex illud eſt, quod omnibus partibus caret. Noui, uocem simplicis a uariis uarie ſumi. Nonnunquam 7b ſimplex, cum uſurpatur de corporibus, opponitur 7ẽ mixto, unde diuiſio corporum in simplicia et mixta coorta. Poteramus hoc ſimplex dicere ſimplex phyſicum. Cum uero hoc in capite de ente simplici loquimur, hanc uocem ita uolumus accipi, ut 7 ſimplex opponamus omni illi, quod eſt materiale et compoſitum. Atque hoc quidem ſimplex ens poſſumus commode appellare simplex metaphyſicum. De quo quamuis nobis nonniſi conceptum negatiuum i formare poſſimus multa tamen praedicata posse ex notione entis ſimplicis negatiua colligi M 5 erui-
+
+[p. 186] 186 De ente ſimplici. eruique poſſe, et monuit iam Volfius S. 673. On- tolog. Lat. et ſubſequentia theoremata luculentius declarabunt.
+
+i s. §. 267. Omne ens uel ſimplex eſt, uel compoſitum. Demonſtr. Cum quodlibet uel ſit, uel non ſit, (§. 29.) manifestum eſt, omne ens uel partes habere debere, uel nullas. Ens, quod partibus gaudet, dicitur ens compoſitum, (§. 220.) quod autem partibus caret, dicitur ens ſimplex. (§. 266.) Omne itaque ens erit uel ſimplex, uel compoſitum.
+
+§. 268. Si dantur entia compoſita, conſequens eſt, ut quoque dentur entia ſim- plicia. Demonſtr. Si enim dantur entia compo- ſita, tunc dantur eiusmodi entia quae ex partibus, a ſe inuicem diſtinctis, conſtant. (§. 220.) Illae partes, quibus entia compoſita conſtant, aut ſunt rurſus entia compoſita, aut ſimplicia, ũ 267.) ſi ſunt entia compoſita, nouis rurſus gaudent partibus. 220) Hae nouae partes aut ſunt rurſus entia compoſita, aut ſimplicia, ſi ſunt rurſus entia compoſita, tunc redire denuo: ubi compoſita, ibi componentia, et ſic in infinitum. Cum
+
+[p. 187] De ente ſimplici. 13 Cum uero, ob principium rationis ſufficientis, in infinitum progredi nequeas, ſed ne- ceſſario debeas in ratione ultima ſubſiſtere, 6. 32) manifeſtum eſt, in analyſi entium. compositorum tandem nos deuenire ad eiusmodi entia, quae nullis amplius gaudent partibus. Eiusmodi entia, quae nullis amplius gaudent partibus, dicuntur entia ſimplicia, (§. 266.) E. in analyſi compoſitorum cogitationibus tamdiu progredimur, donec deſcenderimus ad entia ſimplicia. Vnde nunc clarum et per- ſpicuum eſt theorema: ſi dantur entia composita, dentur quoque, ne- cesse est, entia ſimplicia.
+
+Dicis: Poteramus in materia minima ſubſiſtere. Reſpondeo. Illa materia, quam dicis minimam, aut habet partes, aut non habet partes. Si habet partes, tunc minimo datur minus, quod eſt abſurdum. Partes enim materiae minimae neceſſario debent eſſe minores, quam ipſa materia, tanquam totum, conſiderata. Si uero non habet partes, tunc illa materia non eſt amplius materia, ſed re- uera eſt ens ſimplex (per definit. entis simpl.) Habeo itaque, quod uolo.
+
+Haec entia ſimplicia, ad quae in reſoluendis entibus compoſitis ultimato deuenimus, uocat Leibnitius cum Pythagoraeis monades, Epicurus autem primus atomos dixit. Vocat autem Leibnitius ideo haec entia ſimplicia monades, quia, uti in numero magno, ex aliis minoribus compo- ſito,
+
+[p. 188] I88 ſito, ultimato deueniendum eſt usque ad unitatem, quae omnis eſt multitudinis expers, ita in analyſi entium compoſitorum itidem deſcenditur usque ad aliquod ens, in ſe indiuiſibile et ſimplex. De monadibus Leibnitianis ſpecialius agendi da- bitur occasio in Coſmologicis.
+
+§. 269. Ens ſimplex non eſt extenſum. Demonstr. Cum enim omnis extenſio inuoluat poſitionem partium extra partes, (§. 222.) ens autem ſimplex partes nullas habeat, (§. 265.) oppido intelligitur, ens ſimplex non poſſe eſſe extenſum.
+
+§. 270. Simplex caret omni magnitudine, Demonstr. Cum ęnim ens ſimplex ſit deſtitutum, omnibus partibus, (§ 266.) nullam, uides, deprehendi poſſe partium multitudinem in ente ſimplici. Partium multitudo conſtituit id, quod dicimus magnitudinem. (§. 256.) Vt adeo, omne ens ſimplex deſtitutum eſſe magnitudine, hinc manifestum sit, §. 271. Omne ens ſimplex caret figura. Demonſtr. Cum ens ſimplex non ſit extenſum, (3. 265.) nullos quoque limites ex- tenſionis habere poteſt Limes extenſionis eſt
+
+[p. 189] De ente ſimplici. a89 eſt illud, quod dicimus figuram. (ò. 262.) E. omne ens ſimplex caret figura.
+
+5. 27;æ. Ens ſimplex eſt indiuiſibile. Demonstr. Cum enim diuiſio ſit ſolutio partium, (§, 253.) conſequens eſt, ut, ꝗuicquid non habet partes, illud non poſſit diuidi. Atqui uero ens ſimplex nullas habet partes. ũ. 266.) E. ens ſimplex eſſe indiuiſibile, intelligitur. 557 &næ Jimp lex non ſt n ſpatio. item: Ens simplex non alt motum inteſtinum.
+
+s 27m3. Ex his entis ſimplicis attributis, ſpeciatim demonſtratis, intelligi poteſt, ens ſimplex a compoſito plane eſſe diuerſum Ens enim ſimplex non eſt extenſum. (5. 269.O Ens autem compoſitum eſt extenſum. 2223 Ens ſimplex nulla gaudet figura. (5. 27 Ens compoſitum habet figuram. (§. 262.) Ens ſimplex eſt indiuiſibile. 27.) Ens compo- ſitum eſt diuiſibile. (5 2540) Quae omnia diuersitatem entis ſimplicis et compoſiti luculenter declarant.
+
+§. 274. Attributis entium ſimplicium luculenter nunc expoſitis, proximum eſt, ut de iis exponamus, quae ad eorum ortum interitumque rectius intelligendum pertinent. 5. €$735
+
+[p. 190] I90 5& 275. Oriri ens ſimplex dicitur, quando exiſtentiam accipit, qua ſi priuatur, illud dicimus interire.
+
+§. 275. Ens ſimplex, quod abſolute neceſ- sarium est, oriri non poteſt.
+
+Demonstr. Cum enim id, quod abſolute neceſſario exiſtit, ita exiſtat, ut non poſſit non exiſtere, (§. 172.) conſequens eſt, ut ens ſimplex, quod abſolute neceſſarium eſt, exiſtentiam non poſſit accipere Alias enim aliquando non extitiſſet. Si autem ens ſimplex, abſolute neceſſarium, exiſtentiam non poteſt accipere, id uero, quod exiſtentiam accipit, dicitur oriri, (§. 275.) intelligitur, ens ſimplex, abſolute neceſſarium, non posse oriri.
+
+Quandoquidem omne, quicquid exiſtit, uel neceſſario, uel contingenter exiſtit, i72. 17.) illud autem ens ſimplex, quod neceſſario exiſtit, oriri nequit, (§. 276.) manifeſtum eſt, nos cum hic de ortu entis ſimplicis exponere ingredimur, ortum entis ſimplicis, contingenter exiſtentis, uelle intelligi. §. 278. 1
+
+[p. 191] De ente simplici. I91
+
+5 278. Ex compoſito nullum ens ſimplex, contingenter exiſtens, oriri poteſt. Demonſtr. Omne id, quod ex compoſito oritur, oriri debet vel per partium combinationem, uel per earum tranſpoſitionem, uel per diuiſionem et ſolutionem. Nam, niſi uel combinaueris partes, uel transpoſueris, uel ſolueris, compoſitum prius manet, nec ulla in eo euenit mutatio. Si partes combinaueris, atque adeo nouas addideris, tunc ex hac partium coagmentatione oritur maius compoſitum, (§. 257.) non uero ens ſimplex: ſi partes transpoſueris, tum uero ex hac partium immutatione et transpoſitione aliud exſurgit compoſitum, quod noua gaudet figura. Quo ipſo nondum ens ſimplex habes. Si partes denique ſolueris, ſiue diuiſeris, tum quidem ex hac partium ſolutione. paullo diutius continuanda uideri poterat oriri ens ſimplex. Quia uero ſupra iam a nobis eſt demonſtratum, in entium compoſitorum analyſi, et partium diuisione nos peruenire ad entia ſimplicia, iam in iisdem exiſtentia, (§. 268.) conſequens eſt, ut ens ſimplex ex partium, in compoſito reperiundarum, diuiſione, neutiquam oriatur
+
+[p. 192] I92 tur. Quod enim ex aliqua re oritur, id non prius in eadem debet exiſtere, ſed exiſtentiam quam antea non habebat, demum accipere, 275.) ſi itaque uerum eſt, ut eſt, ens ſimplex neque ex transpoſitione; neque ex combinatione, neque ex diuiſione denique partium, in compoſito deprehensarum, oriri; intelligis, ens ſimplex plane ex compoſito non oriri.
+
+§. 279. Ens simplex, contingenter exi- stens, ex ſimplici nou poteſt oriri. E æãl Demonstr. Sĩ ens ſimplex A, ex alio ente simplici B, oriri deberet, tunc ens ſimplex A, ex ente ſimplici B, suam acciperet exiſtentiam, (§. 275.) atque adeo ſepararetur ab ente ſimplici B. Cum uero ab ente ſimplici, quatenus et quamdiu eſt ens simplex, nihil poſſit ſeparari, quia omne ens ſimplex eſt indiuiſibile, 272) palam eſt, ens ſimplex ex alio ente ſimplici non poſſe oriri. Hic uero probe diſtinguas 75 oriri EX ente simplici, et ò oriri ab ente ſimplici. Quamuis, sufficientibus commoti cauſis, negemus, ens ſimplex EX alio ente ſimplici, tanquam ex materia, oriri poſſe, concedimus tamen, ens ſimplex AB ente ſimplici, tanquam a cauſſa ſua efficiente, poſſe produci, et ortum ſuum capere. Deus enim, i
+
+[p. 193] De ente simplici. 1I93 enim, tanquam cauſſa efficiens, poteſt alia entia ſimplicia, e. gr. animam humanam, angelos, etc. producere, quamuis ipſe ſit ens simplicissimum. Miror itaque, Vvolfii aduerſarios, in iisque maxime Langium et Straehlerum, tantos concitare motus, cum in VVolfiano Syſtemate demonstratum hoc theorema legunt: Ens ſimplex ex ente ſimplici oriri non poteſt Ex quo conficiunt, VVolfium negare, animam angelosque, tanquam entia ſimplicia, a Deo posse oriri. Quaſi vero AB aliqua re, tanquam caussa efficiente, et EX aliqua re, tanquam cauſſa materiali, oriri, essent unum idemque. §. 280. Si ens ſimplex oriri debet, neceſſe eſt, ut id ex nihilo producatur. Demonſtr. Cum enim ens ſimplex, neque ex ente compoſito, neque ex alio ente simplici, oriri poſſit, 278. 279.) praeter ens ſimplex autem et compoſitum nihil concipi poſ- ſit, (§. 267.) manifeſtum eſt, ens ſimplex, ſi oriri debet, ex nihilo debere produci.
+
+28. Quid ſint res ſucceſſiuae, et quid ſit tempus, ſupra iam (§. 247.) definiuimus. Tũ successiuo id opponitur, quod dicitur inſtans.  ſcilicet dicimus omne id, quod caret ſucces- ſione, quodque adeo temporis eſt expers, 247. B) oriri itaque in instanti quid dicitur, N ur
+
+[p. 194] EI E
+
+194 De ente ſimplici. tur, cum ſine omni ſucceſſione exiſtentiam b accipit. §. 282. Ens ſimplex, cum oritur, debet oriri in instanti 3 Demonstr. Cum enim ens ſimplex non habeat partes, (§. 266.) intelligis, in eius ortu non poſſe partes cum partibus ſucceſſiue combinari, uti id quidem fieri ſolet in ortu entium compoſitorum Vt adeo, in entium 3. ſimplicium ortu nullam habere locum ſucceſſionem, pateat. Cum uero, quod ſine omni ſucceſſione oritur, oriri dicatur in in- ſtanti, perſpicuum eſt, ens ſimplex, cum oritur, oriri debere in inſtanti. 4
+
+Vt theorema hoc facilius intelligas, propone tibi ortum uel angeli alicuius, uel animae humanae. Si angelus produci deberet, num credis, id ita fieri poſſe, ut, hoc horae momento, angeli particula A, altero particula B, produceretur? Repugnat ſucceſſiuus hic ortus angelorum omniumque entium simplicium immaterialitati, quae omnes reſpuit partes. Angelus itaque et anima humana, omniaque omnino entia ſimplicia finita et contingenter exiſtentia, ſi oriuntur, produci debent ſine omni ſucceſſione et in inſtanti.
+
+§. 283. Hinc eſt, ut modum ſpecialiorem ortus
+
+[p. 195] De ente ſimplici. I95 ortus entium ſimplicium diſtincte explicare nequeamus. Demonſtr. Cum enim ens ſimplex in in- ſtanti, et ſine omni ſucceſſione, oriatur, (§. 282.) perſpicuum eſt, in modo ortus entium ſimplicium nos plura a ſe inuicem distinguere non poſſe. Dum uero rem quampiam tum demum diſtincte explicare posse dicimus, cum plura in ea a ſe inuicem diſcernere poſſumus, 74. Log.) mirum non eſt, ortum entis ſimplicis diſtincte non poſſe explicari. : Entium quidem compoſitorum ortum poſſumus explicare distinctius, dum ſigillatim exponimus, quomodo haec pars A, cum illa parte B, ſit ſucceſſiue combinata, et quomodo tandem ex ſucceſſiua hac partium coagmentatione exſurrexerit ens compoſitum
+
+F 284. Hactenus de entium ſimplicium ortu. Nunc, qua ratione, ſi interire debent, ſuam perdant exiſtentiam, paucis dispiciemus. S. 2854011
+
+Interire ens ſimplex dicitur, quando perdit exiſtentiam.
+
+N2 5. 286.
+
+[p. 196] §. 286. Si interit ens ſimplex, debet annihilari. Demonſtr. Ponamus enim, ens ſimplex cum interit, non annihilari, ſequetur tunc, ut, cum ens ſimplex interit, ita exiſtere deſinat, ut eius aliquid adhuc amplius existat. Hoc modo ens ſimplex erit diuiſibile, atque adeo habebit partes. 253. Cum uero ens ſimplex non habeat partes, (§. 266.) intelligi- tur, ens ſimplex, cum interit, ita debere in- terire, ut plane in nihilum euaneſcat.
+
+§. 287. Ens ſimplex, quod abſolute necessarium eſt, non poteſt interire. Demonſtr. Cum enim ens, quod abſolute neceſſario exiſtit, non poſſit non exiſtere; (6. r2.) conſequens eſt, ut ens, quod abſolute neceſſarium eſt, non poſſit priuari exi- ſtentia, adeoque non interire. (§. 275.) llG
+
+§. 288. Reſtant nonnulla theoremata de entibus ſimplicibus demonſtranda. Quae uero cum demonſtrari nequeant, niſi notiones quaedam, huc pertinentes, diſtinctius ante fuerint enodatae, id nunc operam dabimus, 4 ut
+
+[p. 197] De ente ſimplici. 199 ut generaliores quasdam definitiones actionis, passionis, ſubſtantiae, accidentis, etc. hic exponamus. §. 289. Actionis uero definitionem tradituri, de eo uel maxime ſumus ſoliciti, ut ideas partiales, in actionis definitione occurrentes, distincte ante diſtributiusque explicemus, id quod methodi leges regulaeque definiendi requirunt. (§. 147. Logic) Quid itaque ſit mutatio, quid ſit status, determinabimus.
+
+§. 290. Cum, quod in re quapiam deprehenditur, uel ad eſſentialium attributorumque, uel ad modorum et accidentium numerum pertineat, 66.) id autem, quod ad eſſentiam rei cuiusdam et attributa refertur, rei con- ſtanter perpetuoque conueniat, neque ulla poſſit mutari ratione, s1) facile intelligitur, omne, quod mutatur in re quapiam, pertinere ad modos. Vt adeo philoſophi omnem mutationem recte definiant per uariationem modorum, quae uariatio modo- rum siue accidentium alias quoque uocatur modificatio, et id, quod eiusmodi modorum uariationi obnoxium eſt, appellatur ſubiectum modificabile. 1 E. gr. Cum ex rudi impolitoque homine per literarum culturam, et alias exercitationes men-
+
+1 N3 tis
+
+[p. 198] I98 De ente ſimplici. tis redditur homo doctus, moratus, et maxime politus, tum in eiusmodi homine accidisse dicimus mutationem. Modi enim et accidentia ((eruditio enim et inſcitia ſunt in homine accidentia) uariantur.
+
+5. 25I. Cum in re quapiam accidentia una cum essentialibus et attributis, quae fixa manent, nec mutantur, ſimul deprehenduntur, tum EET. J eX determinata illa coẽxiſtentia accidentium mutabilium cum iis, quae fixa et perpetua in re ſunt, naſcitur id, quod dicimus statum rei. Hinc Clar. Thimmigius ſtatum rei definit per determinationem mutabilium. Conf. In- stitutt. Philos. Volfianae p. ci. Definitioni huic maiorem foeneraturi lucem, ſequens addimus exemplum. Cum quis, e. gr. eruditione perpolitus, praeditusque uirtute eſt, in alio plane uersari dicitur ſtatu, quam is, qui literarum eſt nauiter imperitus, iners, uecors, omnibusque uitiis coopertus. Eruditio et uirtus, d quod, uel me non monente, intelligis) ſunt in homine mutabilia quaedam. Poſſunt enim adeſſe et abesse Si uero adſunt, uel eruditio, uel pietas, tum certo quodam et determinato modo cum iis, lli ill quae homini perpetuo inſunt, ſimul in homine] exiſtunt, et, quamuis ſint accidentia mutabilia, determinata tamen nunc gaudent exiſtentia. Dum enim adſunt, impoſſibile eſt, ut ſimul non adſint Adeſſentia itaque eruditionis et uir- tutis certum hominis statum constituit. 5. 29% ali
+
+[p. 199] De ente ſimplici. I99 5. 29:. Accidentia alia alio modo in re quapiam exiſtere obſeruamus. Hinc enaſcuntur uaria ſtatus genera. Si accidentia fuerint intrinſeca, ita, ut cum eſſentia rei et attributis ſimul rei inſint, tum inde oritur ſtatus internus, ex extrinſecis contra accidentibus uel modis ſtatus externus exſurgit. E. gr. Cum quis uirtute enitescit, tum illa uirtutis praeſentia, quaę ſimul cum eſſentia hominis et attributis in eo locum habet, conſtituit internum hominis ſtatum. Cum uero quis diuitiis affluit, aut in alto dignitatis gradu conſtitutus uiuit, intelligis, haec omnia ad accidentia externa ſtatumque externum pertinere.
+
+5. 298. Facillimo nunc negotio intelligi poterit actionis definitio. Actionem ſcilicet cum Vvolfio aliisque definimus per eiusmodi mutationem ſtatus, cuius ratio ſufficiens continetur in ſubiecto, quod eundem mutat. Conf. Vvolfii Ontologia õ. 113.
+
+#### E. gr. Dum loquor, ſermonesque cum Caio
+
+amico meo, confero, agere quid dicor. Euenit enim tum, cum loquor, in me mutatio. Cuius quidem mutationis debere adeſſe rationem sufficientem, et quendam quaſi fontem, ex quo ipſa fluat, intelligis ex rationis ſufficientis principio, supra iam explicato §. 32. Illa autem ratio cum in
+
+N 4 memet
+
+[p. 200] De ente simplici. memet ipſo reperiatur (non enim mutatio, dum loquor et ſermones cum altero confero, ab alio quodam in me producitur, ſed ipſe me ad loquendum, ſermonesque cum altero conferendos determino) facile uides in hoc caſu, ideo me dici aliquid agere, quia u) mutatio adeſt, B) quia ratio huius mutationis in me ipſo, tanquam in ſubiecto mutato, continetur. Perſpicuum hinc eſt, hanc definitionem eſſe omnino eiusmodi, ut ad omnes b actionis ſpecies nullo negotio poſſit applicari. ſſ Quae contra hanc definitionem a nonnullis y Vvolfii aduerſariis monita ſunt, refelli facile poſſunt et confutari, ſi hoc unicum obſeruaueris, hanc definitionem, uti plures alias Ontologicas, J] i eſſe a caſibus indiuiduis, contingenter existenti- bus, abſtractam, adeoque, hanc definitionem tan- tum ad ſubiecta agentia, contingenter exiſtentia, extendi debere, patet. Conſ, Philoſophia mea de-
+
+J3li finitiua O. T. I. q
+
+§. 294. Quoties quid agimus, toties aut eiusmodi ſuſcipimus actiones, quae in alias minores l actiones, tanquam totidem partes, poſſunt reſolui, aut etiam in nobis deprehenduntur actiones, quae ita reſolui non possunt. Illas actiones appellare ſolemus actiones composi- tas, has uero actiones ſimplices.
+
+Cum e. gr. pronuncias literam A, tum actio- -a0 nem ſuſcipis, eamque ſimplicem, poteſt enim haec actio in nullam aliam actionem resolui.
+
+[p. 201] De ente ſimplici, 201 Si uero integrum librum, aut lineam integram legis, tunc hanc actionem, intelligis, eſſe compositam, propterea, quod haec actio in alias plu- res, tanquam particulas poteſt ſolui et diuidi. Id quod uel ex eo patet, quod pueri, ſi quidem integras lineas, integrumque librum legere discupiunt, primum literas et uocales ſeorſum pronunciare discant, deinde, literas et uocales combinando, integras conficiant ſyllabas, et denique ex ſyllabis demum pluribus conſtituant uerba, lineasque perlegant. Vides itaque lectionem libri cuiusdam eſſe actionem compoſitam, quae ex pluribus actionibus, tanquam ex minoribus partibus, eſt coagmentata.
+
+Ss 25- Action? opponitur z4passio, quam contraria ratione nunc definies. Per paſſionem ſcilicet nihil aliud intelligimus, quam eiusmodi mutationem, cuius ratio et fundamentum deprehenditur extra ſubiectum mutatum.
+
+Cum quis e.g. loris aut uirgis caeditur, pati quid dicitur. Accidit enim in ipſo mutatio, eiusque mutationis ratio extra personam, quaę mutatur, in alio quodam reperiunda eſt.
+
+§. 296.
+
+His definitionibus inter ſe collatis intelligis, toties, quoties unum N5 ens
+
+[p. 202] C De ente ſimplici tllt—=u_Q 4a a r- æ ens A, ab altero ente B, patitur, ens alterum B, in ens A, agere. Demonſtr. Si enim A, patitur a B, tum in A, aliqua accidit mutatio, cuius ratio sufficiens deprehenditur in B, (V 295.) et B, mutationem reuera producit in A. Quod uero cum ſit agere, (§. 293.) manifestum eſt, quoties A, patitur a B, toties B, agere in A.
+
+§. 297. 1 Quiduis potius, quam actionem sine ui agendi, concipies Quare, cum doctrina de Tm ui agendi latiſſime pateat, multaque theoremata in capite de entibus ſimplicibus explicari nequeant, niſi, quid ſit agendi uis, ante intelligatur, iis, quae huc dum de actione paſſioneue, generatim et uniuerſalius conſiderata, diſputata ſunt, nunc ſubnectimus ea, quae de ui agendi in metaphyſicis ſunt exponenda.
+
+Qualemcunque agendi potentiam a ui agendi solicite diſcernas. Potentia ſcilicet actiua eſt mera agendi poſſibilitas, quae alias appellatur Facultas. Potentia passiua, con- ſiſtit in patiendi poſſibilitate. Vis uero eſt continuus conatus ſiue niſus proximus agendi, ſiue uis eſt id, in quo continetur ratio sufficiens, cur actio ad exiſtentiam per- ueniat,
+
+[p. 203] De ente simplici. 203 ueniat, et actu adſit. Conf. VVolfii Ontolog. p. 542. Poterat is etiam ita definiri: s eſt tendentia entis continua ad producendas mutationes. Vt hae definitiones itemque differentia, quae uim inter et facultatem agendi reperitur, cuiuis perſpicua ſit, exemplum, quo, quae dicta ſunt, commode possint illustrari, ſubiungam. Ita e. gr. animae humanae tribuimus potentiam uel facultatem fingendi. Non fingit ſemper anima actu, ſed quia fieri potest, ut, data occaſione fingat, ipſi tribuimus poſſibilitatem ſiue facultatem fingendi. Arcui item adscribimus potentiam ſiue poſſibilitatem iacula emittendi, etiam tum, cum laxus neque tenſus fuerit. Si uero neruus, in arcu iaculis proiiciendis deſtinatus, fuerit tensus, ita, ut, impedimento ſublato, oppido ſuo defungatur officio, et eiaculetur tela, tum arcui uim eiaculandi tribuere conſueuimus. In globo quoque ſuſpenſo deprehendimus uim ſiue continuum conatum deſcendendi et ſtatum ſuum mutandi. Qui quidem conatus, remoto impedi- mento, actu ſe oppido exſereret. : Scholastici, neque minus Carteſius, eiusque sectatores uim et potentiam agendi non ſatis a ſe inuicem diſcreuerant. Leibnitius uero primus in Act. Eruditorum, A. 1694. p. III. uim actiuam ab agendi potentia internoſcere coepit, arbitratus, inter uim, facultatem agendi, et ipſam actionem, medium eſſe, et inuoluere co- natum et niſum continuum mutationes producendi [p. 204] oa cendi. conf. VVolf. Ontol. s. 761. et Hauſchius In Princip. Philosoph. Leibnit. more Geometrico de- monstrat. P. 32. §.
+
+§. 299. Ex dictis patet, quemadmodum ex ſola agendi potentia nulla ſequitur actio, ita ex ſola potentia paſſiua nullam fluere paſſionem Demonſtr., Cum enim id, quod poſſibile eſt, ideo nondum actu exiſtat, et a poſſe ad eſſe nulla ualeat conſequentia, 54.) intelligitur, non ideo actionem reuera dari uel exiſtere, quia potentia agendi in ſubiecto reperitur. Eandem ob cauſſam manifeſtum eſt, ideo nondum exiſtere passionem, quia potentia paſſiua in ſubiecto aliquo reperitur.
+
+§. 300. Poſita ui, ponitur actio, niſi adſit impedimentum. Demonſtr. Poſita enim ui, ponitur id, in quo continetur ratio ſufficiens, cur reuera detur et exiſtat actio. 298.) Poſita uero ratione ſufficiente alicuius rei, ponitur id, quod rei producendae aptum et ſufficiens eſt, 32.) adeoque ipſa res ponitur. E. - poſita ui, ponitur actio. Si uero impedimen-
+
+[p. 205] De ente ſimplici. 20, mentum adfuerit, tunc eiusmodi quid obstat, quod in ſe continet rationem ſufficientem, cur actio non perueniat ad exiſtentiam Vt adeo uis agendi, impedita obſtaculis, tendat quidem ad mutationem ſtatus producendam, ſed ſine effectu. E. gr. Cum Globum habueris in filo ſuſpenſum, tum ſentis in globo conatum et niſum continuum de- ſcendendi. Qui uero conatus uel ideo actu ſe non exserit, quia filum eſt impedimentum, quod ob- ſtat, quo minus globus uim: deſcendendi prodat manifeſta quadam actione, et mutatione, et mutatione. In anima deprehenditur uis repraeſentandi. Haec uis repraesentandi continuo agit, (perpetuo enim, ipſoque in alto ſopore, anima gaudet cogitationibus) Vt adeo, ui poſita, ipſam poni actionem, ſatis liqueat.
+
+5. 30I Entia ſimplicia ui agendi gaudent. Demonſtr. Cum ſupra, ui principii indiſcernibilium, (V. 169.) explicati, euictum ſit, duas res perfecte ſimiles ſiue easdem nec dari, nec dari quidem poſſe, intelligitur, limites entis ſimplicis, qui in ſe uariari poſſunt, ſemper mutari. Si enim minus ua- uariarentur, duo uel plures eius ſtatus eſſent per-
+
+[p. 206] 206 De ente ſimplici. perfecte iidem, et ita non adeſſet ratio ſufficiens, cur ſtatus A, non fuiſſet tempore alterius ſtatus B, quippe qui, ex hypotheſi, in omnibus cum ſtatu A, perfecte conueniret. Si itaque uerum eſt, ut eſt, limites in entibus simplicibus, (ſed NB. contingenter exiſtentibus) perpetuo uariari, limitum autem ſiue modorum uariatio id. ipſum eſt, quod uocamus mutationem, (§. 290.) palam eſt, mutationes continuas in entibus ſimplicibus reperiri. Hae ipſae mutationes, in ente ſimplici oriundae, uel exiſtunt, nullo alio ente ſimplici praeſente, uel aliis entibus simplicibus coexistentibus. Si nulla alia entia ſimplicia co- exiſtunt, ratio mutationis erit in ipſo illo entę ſimplici, quod mutatur, adeoque agit, J ã u 293) si uero substantiae coëxistentes a ſe inuicem Patiuntur, tum in ſe inuicem agunt. Quoties enim A, patitur a B, toties B, agit in A. 295.) Cum itaque, quo tandem cumque modo exiſtant entia ſimplicia, agant, actio autem entium ſimplicium nihilo magis ſine ui agendi concipi poſſit, quam quicquam ſine ratione ſufficiente, (5. 297. 33) liquet, omnia entia ſimplicia gaudere ui agendi.
+
+5. 300
+
+[p. 207] De ente simplici. 207 ८ 1. §. 302.
+
+In entibus ſimplicibus debet aliquid eſſe perdurabile. Demonstr. Cum entia ſimplicia, ob  immaterialitatem suam. deſtrui et interire non poſſint, niſi per annihilationem. (§. 286.) Con- ſequens eſt, ut entia ſimplicia naturaliter 7ſ eſſe ſuum continuent. Cum uero continuatio 78 eſſe appelletur et ſit entis duratio (per defin.) colligitur hinc, in entibus ſimplicibus perdurabile quid eſſe, i. e. eiusmodi quid, quod per aliquod tempus duret, quodque determinationibus intrinſecis conſtantibus gaudeat, quibus plures modi uariabiles coexistant. §. 303. Subiectum perdurabile et modificabile, i. e. quod ſuſtinet accidentia et modos, uocamus ſubſtantiam. Sic e. g Anima noſtra eſt perdurabile quid, quatenus illam conſidero, tanquam subiectum illud, quod multis gaudet accidentibus, innume- rasque habet facultates. Anima quoque eſt ſubjectum modificabile Multis enim modis et accidentibus eſt obnoxia, nunc enim cogitat, nunc iudicat, nunc appetit, nunc auersatur etc. Hanc definitionem, a rebus praeſentibus et contingenter exiſtentibus abſtractam, itidem ad res finitas, et contingentes uolumus extendi. In
+
+[p. 208] 208 De ente ſimplici. In philoſophia Aristotelico - Scholastica subſtantia definiebatur per ens, quod per ſe ſubſiſtit, et sustinet accidentia. Quae uero definitio nonnullis obscurum per aeque obſcurum explicare, uidetur, propterea, quod non facile Scholaſticorum quisquam determinare poſſit, quid ſit per ſe subsistere. Neque uideo, quomodo hanc definitionem tolerare queant Theologi, cum, ſubſtantiam eſſe Chriſti humanam naturam, aiunt, eandem uero per ſe ſubſiſtere negant. Quare Hebenſtreitius, philoſophiae Scholasticae, si quis- quam, gnarus hanc substantiae definitionem re- iicit, eique substituit ſequentem: ſubſtantia eſt ens, quod non exiſtit in alio, tanquam in ſubiecto. In altero uero, tanquam in ſubiecto quid eſſe dicitur, cum reuera et actu in alio ente ita eſt, ut de illo poſſit reuera affirmari, nec ad illius essentiam ſpectet, neque in- ſit ei, tanquam pars, neque ab ipſo ſeparari poſ- ſit positiue, h. e. ut, facta ſeparatione, remaneat. Conf. Philoſ. Prima m. 245. Spinoza in Ethic.geometr.ord.demonstr. Part.I. defin. I. substantiam definit per ens, cuius conceptus non indiget conceptu alterius, a quo formari debeat. Quam quidem definitio nem cum Cel. Hollmannus, Professor Gottingen-
+
+ſis, optimam, multisque aliis praeferendam cre- Ei r dat, eam in Metaphyſica s. 556. retinuit et defendit. i Leibnitius, cum eoque plures alii, ſubſtantiam definiunt per ens, quod ui agendi eſt prae- i ditum, ſiue, quod idem eſt, quod principium mutationum ſuarum in ſe continet. Conſ. Han- i ſchii
+
+[p. 209] De ente ſimplici. 209 ſchii princip. Philoſ. Leibnit. more geometrico de- monstr. p. 31. et Act. Erudit. ann i694 P. 110. VVolfius ſubſtantiam eodem fere modo in Metaphyſica German. definit: eine Substantz, inquit, ist Dasjenige, welches die Quelle seiner Veränderungen in ſich hat. 5. 114. Quam quidem definitionem Leibnitianam quamuis impugnauerint cum alii plures, tum uero uel maxime Ruardus Andala, et Straehlerus, ille ſcil. in dissert. philoſ in qua uera substantiae notio uindicatur, simulque confutatur uis actiua a G. G. L cuilibet substantiae, tam corporeae quam ſpirituali, in Specimine dynamico attributa, hic uero in exam. philoſ VVolf. nihilominus, re rite expenſa, arbitramur, non adeo male Leibnitium ſubſtantiam definiuisse. Si tamen dicendum, quod res eſt, rectius uis agendi de ſubſtantiis demonſtratur, quam ad ſub- ſtantiae definitionem refertur. Leibnitium itaque uides theorema, ex definitione demum deducendum, pro ipſa uenditare definitione. Id quod nihil noui eſt in philoſophia.
+
+Subſtantia, in qua omnia determinata ſunt, dicitur ſubſtantia prima. Huc referimus omnia indiuidua, in quorum quolibet omnia iam ita ſunt determinata, ut, quamdiu debet eſſe haec res, nec alia, tamdiu nullae aliae poſſint accedere notae et determinationes. Conf. Log. s. 100. ſeqq. Veteres ſub- ſtantiam primam, (quam alias quoque uocare solent 0 1
+
+[p. 210] 219 De ente ſimplici. ſolent ſubſtantiam ſingularem ita definiebant: Substantia prima eſt, quae neque de ſubiecto aliquo dicitur, neque in ſubiecto aliquo ineſt. E. gr. Hic Paullus, hic Petrus, etc. ſunt ſubſtantiae primae, Paullus enim, quatenus eſt hic Paullus, de nullo ſubiecto dici poteſt, neque etiam ineſt in aliquo subiecto. §. 305. Subſtantiae primae opponitur ſubſtantia ſecunda ſiue uniuerſalis, in qua non omnia ſunt determinata, ſed plura adhuc possunt determinari.
+
+Huc referas genera et et ſpecies. Sic e. gr. Spiritus, homo, animal, ſunt ſubſtantiae ſecundae, ſiue uniuerſales, (Conf. Log. s. ion)
+
+§. 306. Subſtantia, quae pluribus poteſt competere, dicitur Communicabilis, quae autem pluribus competere nequit, uocatur incommunicabilis. E. gr. Omnes ſubſtantiae ſecundae ſiue uniuer- ſales ſunt etiam communicabiles. Subſtantia hominis poteſt communicari pluribus indiuiduis, e. gr. Petro, Paullo, Sempronio etc. Subſtantia uero prima, ſiue ſingularis, eſt incommunicabilis. Subſtantia e. gr. Caii non poteſt communicari ſub- ſtantiae Titii, ita, ut ſit Titius Caius.
+
+5. 30. Subſtantia, quae ex ſua natura non ordi- natur 1
+
+[p. 211] De ente ſimplici. 2I natur ad constituendam ſubſtantiam aliquam tertiam, dicitur completa, quae uero ad aliquod tertium constituendum ordinata eſt, appellatur incompleta.
+
+Anima e. gr. hominis a philoſophis aeque ac Theologis habetur pro ſubſtantia incompleta. Anima enim diuinitus eſt ad id ordinata, ut, cum corpore organico unita, ſubſtantiam tertiam con- ſtituat, ſcilicet hominem. Angelus uero eſt ſub- ſtantia completa, propterea, quod angelus ad id non eſt ordinatus, ut tertium quoddam ens con- ſtituat,
+
+§. 308. Ex his notionibus, distincte euolutis, intelligi nunc poterit, quid ſit suppositum.  ſcilicet dicimus substantiam ſingularem, incommunicabilem et comple- tam. 1 1
+
+Anima hominis non poteſt dici ſuppoſitum, quia anima hominis non eſt ſubſtantia completa. Ordinatur enim anima hominis ad conſtituendum aliquod ens tertium. Haec uero menſa, quam coram uides hic liber, quem, in hac men- ſa poſitum, intueris, eſt suppositum. Eſt enim haec menſa 1) indiuiduum et ſubſtantia ſingularis. 2) Eſt haec menſa ſubſtantia incommunicabilis. Fieri enim nequit, ut haec menſa communicetur alteri menſae, et tamen maneat haec menſa. 3) Eſt denique ſubſtantia completa. Non enim haec menſa eſt eiusmodi ſubſtantia, quaę, cum 02 alia )
+
+[p. 212] ar De ente simplici. 1 alia coniuncta, tertium aliquod ens conſtituere debeat, ut e. gr. anima humana.
+
+§. 309. Modus ille exiſtendi, quo ſubſtantia ſingularis ita exiſtit, ut nec ordinetur ad ſubſtantiam aliquam tertiam conſtituendam, nec communicari poſſit alteri ſubſtantiae, dicitur barbare ſuppoſitalitas, item ſubſiſtentia et bt poſiaſis. Intelligis, opinor, hinc, quid ſit, quod Theolo- gi, humanam Chriſti naturam non habere ſub- ſtantiam et ὑπόστασιν propriam, aiant. Aliunde à enim, nempe a diuina natura, humana Chriſti natura ſuſtentatur, et ordinata eſt ad ſubſtantiam quandam tertiam in unione conſtituendam, scilicet Chriſtum.
+
+ii 5. §. 310. Si ſuppoſitum fuerit intelligens, i.e. ſi res diſtincte ſibi poteſt repraeſentare, tum illud appellamus perſonam. Ex quo uides, animam humanam non dici poſſe perſonam. Eſt enim anima humana ad id ordinata, ut, cum corpore coniuncta, tertiam ſubſtantiam, ſcil. ſubſtantiam hominis constituat, adeoque anima humana non eſt suppositum, ſ5. 308) nec poteſt dici perſona. Caius uero, ut homo, ex corpore organico et anima rationali conſtans, conſideratus, eſt perſona. Eſt enim ſuppoſitum (per des. ſuppol.) et quidem intelligens. Has notiones uel ideo ſpecialius explicandas duxi,
+
+[p. 213] De ente ſimplici. o13 duxi, ut familiares fierent literarum ſanctiorum studioſis, quos harum rerum ignorantia nimium quantum impedit, quo minus, in perlegendis ue- terum Theologorum ſyſtematibus, inoffenſo pede, poſſint progredi.
+
+Quemadmodum5id,31. quod perdurat, et in quo attributa una cum uariis mutationibus obſeruamus, ſubſtantiam eſſe, ſupra diximus, (§. 303.) ita omnes illae determinationes, quae in ſubiecto perdurabili deprehenduntur, ſiue conſtantes et perpetuae ſint, ſiue ſint uariabiles, appellantur accidentia.
+
+Vocem accidentis non hoc loco uolumus eo accipi ſenſu, quo ſupra 82.) iom a nobis determinatum eſt. Ibi enim id omne ad accidentia et modos referendum putauimus, quod non conſtanter rei conuenit, quodque adeo attributis, rei perpetuo et conſtanter competentibus, opponi- tur. Veteres accidens, ſupra 5. 82 iam explicatum, uocabant accidens praedicabile. Hoc loco accidens ita interpretamur, ut ſub eo id omne complectamur, quod non eſt ſubſtantia, ſiue de caetero rei conſtanter et perpetuo competat, siue minus. Veteres hoc accidens uocabant accidens praedicamentale.
+
+Permultum refert, accidens praedicabile a praedicamentali ſolicite internoſci. Ex harum enim notionum confuſione, ſcimus, funeſtam 03 illam 1
+
+[p. 214] 2n4 illam inter Flacium et Strigelium controuerſiam de peccato originis eſſe exortam.
+
+§. 312. Omnis substantia ui agendi gaudet.
+
+Demonstr. In qualibet enim ſubſtantia, experientia teſte, mutationes obſeruamus. Si V uero ſubſtantiae ſtatus mutatur, tunc aut ſola H illa, quae mutatur, ſubſtantia exiſtit, aut ipſi plures aliae ſubſtantiae coẽxiſtunt. Si ſola exiſtit substantia, tunc ratio sufficiens mutationis, in ipſa euenientis, non poteſt quaeri extra ipſam, (quia, per hypotheſin, nulla alia cum ea exiſtit ſubſtantia) ſed ratio ſufficiens debet i in ipſa deprehendi. Adeoque ſubſtantia, ſola exiſtens, agit, ſ5. 293) et gaudet ui agendi, (§. 297.) ſi uero plures aliae ſubſtantiae ſimul cum ea exiſtant. tum aut ratio sufficiens mutationis in ipſa ſubſtantia, quae mutatur, reperitur, aut in alia coẽxiſtente. In caſu priori agit (per de- monstrata) et gaudet ui agendi, in caſu poſteriori substantiae coẽxiſtentes a ſe inuicem patiuntur. Atqui uero ſi A, patitur a B, tunc B, agit in A, (§.296.) E. B, agens in A, ui agendi praeditum ſit neceſſe eſt, E. ſubſtantia agendi uim poſſidet.
+
+§. 313.
+
+[p. 215] De ente ſimplici, 215
+
+Entia ſimplicia ſunt ſubſtantiae. Demonstr. Cum omnes ſubſtantiae ui agendi gaudeant, 312.) entia autem ſimplicia ui agendi ſint inſtructa, 30L) manifeſtum eſt, entia ſimplicia esse ſubſtantias. Leibnitius entia ſimplicia ſubſtantias κατ’ ἐξοχήν uE: Xiv eſſe putat, et, quia entia materialia siue corpora ex entibus ſimplicibus ſint compoſita, corpus dicendum eſſe potius ſubſtantiarum ag- gregatum credit, quam ipſam ſubſtantiam. Vid. Recueil. T. II. p. 133. item Acta Erudit. ad ann. i168. p 43- Leibnitio aſſentitur VVolfius, qui id ipſum in Ontol. Lat. 793. ſufficienter demonſtrauit. Malim, inquit Wolfius, ſubſtantiarum ſimplicium aggregata, hoc eſt, entia illa compoſita, ex quibus mundus materialis conſtat, corpora dici, quam ſubſtantias simplices, cum a communi uocis ſignificatu non ideo ſit recedendum, quod corpora uulgo dicantur substantiae, et ſi corpus quod- cunque non ſit ſubſtantia una ſed potius aggre- gatum substantiarum innumerarum. Si qui ſunt, qui, hoc ipſum incommode dictum, putant, ii, quod in accęptione uocis ſubſtantiae diſplicet, emendent, modo, multum hic latere ueneni, ſibi non perſuadeant.
+
+O 4 CAP.
+
+[p. 216] 216 De ente finito et infinito. 1 1
+
+CAP. XVI.
+
+ENTE FINITO ET INFINITO. 5. 314æ um ea, quae ad differentiam entium cem- V poſũtorum ſimpliciumque intelligendam 5 3.
+
+pertinent, quantum ſatis eſt, explicaſſe uideamur, proximum eſt, ut, quae ſit infiniti finitive entis natura quodque diſcrimen, ex- ponere ingrediamur. Neutiquam uero id hic a nobis adſtrui exiſti- mate, quod reuera detur ens aliquod infinitum, id enim in Theologia demum naturali demonstratur, ſed generatim tantum, (id quod eſt Ontologiae) entis finiti infinitique naturam, et, quibus ab altero alterum internoſcatur, notas euoluemus.
+
+53. Per limitem nihil aliud intelligimus, quam defectum ulterioris realitatis. VVolfius Terminum ſiue limitem ita definit in Ontol. Lat. 468. Limes eſt id, ultra quod nihil amplius in re concipere licet ad eandem pertinens. Definitionem hanc oppido intelliges, ſi limites corporis alicuius, e. gr. mensae tibi re- praesentaueris. Quid quaeſo, tibi ſiſtis, cum limites huius, quam coram uides, menſae tibi repraeſentas?7 Annon, cum, quae adſunt, partes reales eſſe deſinunt, limites incipiunt? Vt adeo limites
+
+[p. 217] De ente finito et infinito. 217 limites recte conſtituamus in defectu ulterioris realitatis.
+
+5- 30. Cum limites in entibus extenſis deprehenduntur, tum illi limites extenſionis efficiunt id, quod dicimus figuram, de qua iam ſupra, 262.) actum eſt a nobis. Si limites uero in entibus ſimplicibus, omni extenſione de- ſtitutis, reperiuntur, tum illi limites intensionis siue uirium et qualitatum dicuntur gradus.
+
+5. 17. Omne,: quod circumſcriptum eſt limitibus, non omnia ea habet, quae habere poteſt. Demonſtr. Cum enim limes conſiſtat in defectu ulterioris realitatis, 35) manife- ſtum eſt, omne id, quod limitibus eſt circum- ſcriptum, carere quibusdam realitatibus, ad- eoque nondum omnia habere, quae habere poterat.
+
+§. 318. Eo, quod limitibus eſt definitum, maius quid concipi poteſt. Demonstr. Cum enim, quod limitibus gaudet, ſit eiusmodi, ut nondum omnia ea habeat, quae habere poteſt, 37.) intelli- O gis, l
+
+[p. 218] 218 De ente finito et infinita gis, aliud quoddam ens concipi poſſe, in quo plus reſideat realitatis. Si uero ens A, fuerit ita comparatum, ut in eo plus deprehendatur realitatis, et plures in eo concurrant partes, quam in alio quodam ente B, tunc ens A, dicitur maius ente B, 25 E. perſpicuum eſt, eo, quod limitibus circumſcriptum eſt, ente maius adhuc concipi poſſe. Et uice uerſa omne id, quo maius concipi poteſt, limitibus circumſcriptum ſit, neceſſe est.
+
+3m3. Quodcunque limitibus circumſcriptum, successiue alios atque alios Status habere potest. Demonstr.
+
+Cum, quod habet limites, ſit eiusmodi, ut nondum habeat omne id, quod habere poteſt, ſ. 3m) palam eſt, ad id, quod gaudet limitibus, ſucceſſiue alia atque alia poſſe accedere. Adeoque, quicquid eſt limitibus circumſcriptum, id ſucceſſiue alios atque alios ſtatus habere poteſt. §. 320. i
+
+Ex quo, neceſſaria conſecutione, efficitur, omne id, quod definitum eſt limitibus, eſſe mutationis capax.
+
+[p. 219] De ente finito et infinito. 29 JS
+
+5 32I Omne itaque id, quod possidet li- mites, debet esse ens contingens. Demonſtr. Cum enim omne id, quod possidet limites, ſit mutabile, ũ 320) omne autem id, quod eſt mutabile, ſit contingens, 776.) perſpicuum eſt, omne id, in quo reperiuntur limites, debere eſſe ens contingens.
+
+§. 322. Ex his, habita oppoſiti ratione, intelligi poteſt id, quod limitibus caret ſiue deſtituitur, ò) omnes eas, quas habere poteſt, realitates actu habere debere, (§. 317.) B) omnes reſpuere gradus, 3155) eo nihil poſſe concipi maius, ſ5. 311) jn ipſo nullam ſucceſſionem posse habere locum, (§. 319.) e) nullam quoque mutationem in ipſo reperiri, et denique abſolute necessarium eſſe debere.
+
+§. 323. Quicquid gaudet limitibus, id dicimus ens limitatum ſiue finitum, quicquid uero iisdem deſtituitur, id appellitamus illimitatum ſiue infinitum.
+
+Non eſt, quod has definitiones cum nonnullis pro identicis ſiue Synonymicis habeamus, Cum enim, quid ſit Limes, iam in antecedenti- bus, [p. 220] n20 De ente finito et infinito. 7 bus, (f. 315.) ſit explicatum, ceſſant iam hae definitiones eſſe identicae et obſcurae, Conſ. Institut- Meat Lag. 5. 149- ſ43-
+
+ſqq, ſima I In-Omne ens finitum eſt eiusmodi, ut non- dum omnia habeat actu, quae habere poteſt. Hanc poſitionem rectius intelligis, ſi 317) cum 323.) contuleris. Sunt, qui, cum ens finitum definire uolunt, id per eiusmodi ens exponunt, quod non omnia habeat actu, quae. habere potest. Qui quidem id, quod nos, tanquam theorema, ex definitione finiti et limitis eliciimus, pro ipſa finiti definitione aſſumunt. Id quod ſubinde fieri in philosophicis, iam ſupra, 6 303.) monuimus. Vt uero theorema, quod ex definitionibus 7ẽ finiti et limitis ſuum petit robur, tibi fiat manife- ſtum; habeto exemplum. Anima humana eſt ens finitum, atque ob ipſam ſuam finitudinem non dum habet actu omnia, quae habere poterat. Alia noſti hodie quae heri plane ignorabas, alia cras scies diſtinctius, quae confuſe hodie et ob- ſcuriuſcule percipis. Quae quidem omnia, opinor, quemuis cumulatiſſime edocent, non omnia habere actu animam noſtram, quae quidem poterat habere.
+
+5. 395. nl: Ente finito concipi maius qui poteſt. Demonſtruual
+
+[p. 221] De ente finito et infinito. 221 Demonstr. Cum enim eo ente, quod non eſt limitibus circumſcriptum, nullum aliud poſſit maius concipi, (§. 322.) omne autem ens finitum siue limitatum ſit limitibus circumſcriptum, 223.) palam est, ente finito poſſe quid maius concipi. Ex supraadstru. Ais itidem pateſcit, ens finitum alios atque alios ſtatus ſucceſſiue acquirere, (b.315. 323.) adeoque eſſe mutationis capax, 320) itemque eſſe ens contingens. (3. 321)
+
+§. 326. Praeterea, quae ſint entis infiniti attributa, qui characteres, ex dictis plus ſatis intelligi poteſt.
+
+9 3a7. Ens infinitum debet omnes realitates, quae tantum in ipſo ſunt poſſibiles, actu poſſidere. Demonstr. Cum enim ens infinitum omnibus omnino deſtituatur limitibus, (§. 323.) id autem, quod deſtituitur limitibus, omnes realitates, quae ſunt poſſibiles, actu poſſidere debeat, (ò. 322) manifeſta eſt ratio, cur ens infinitum omnes realitates, quae in ipſo locum poſſunt habere, actu et re ipſa poſſidere debere aiamus. L Intelligis ex hoc theoremate, quid ſit, quod Iaftr. Volfius in Metaphys. German. S. 109. ſequen-
+
+[p. 222] 222 De ente finito et infinito. quentem in modum definiat. Ein uneingeschränktes uneingeſchränctes Ding iſt alles, was e seyn kan, auf einmal. Intelligis hinc porro, quid ſit, quod Bülfingerus in dilucidat. §. 407. infinitudinis notionem quaerat in omnitudine compossibilium. (Ita enim ipſe loquitur, barbare quidem, ſed vere tamen et recte.]) Vt, quae enunciauerat obscurius, facilius intelligerentur, ſequentia addit: Ad infinitudinem pertinet 1) ut ens infinitum attributa, quaecunque habet, habeat abſolutẽ, et ſine gradibus, hoc eſt, attributa illa cum uniuerſa ſua omnitudine poſſibili, u. gr. intellectum cum extensione ad omnia ſcibilia etc. 2) Vt ens infinitum habeat attributa compossibilia omnia, hoc est, attributa uere et ſimpliciter realia omnia. Quae enim uere et ſimpliciter realia ſunt, illa non pugnant, sed compossibilia sunt inter ſe omnia.
+
+Ens autem infinitum non modo omnes, quae sunt in ipſo poſſibiles, realitates et perfectiones actu possi- det, ſed easdem quoque possidet ſine E æ tu-3 ullo gradu. Demonstr.
+
+Cum enim gradus conſiſtat in limite virium ſeu qualitatum et perfectionum, 315) ens autem illimitatum ſeu infinitum omnes limites reſpuit, (§. 323.) con- ſequens eſt, ut ens illimitatum ſiue infini- 1 tum
+
+[p. 223] De ente finito et infinito. 223 tum omnes realitates, in ipſo poſſibiles, ſine ullo possideat gradu. §. 329. Ens infinitum nullam admittit ſucceſsionem. Demonſtr. Cum enim, quod caret limitibus, idem debeat carere successione, (§32) ens autem infinitum careat limitibus, (§. 323.) conſequens eſt, ut ens illimitatum siue in- finitum nullam omnino admittat ſucceſſionem. Hinc VVincklerus in Inſtitutt. philoſ VVolfianae ꝑ. 78. 5. 386. ens infinitum reale definit per eiusmodi ens, in quo omnia, quae eidem poſſunt ineſſe, inſunt ſine temporis progreſſu.
+
+§. 330. Ens infinitum nullius omnino mutationis est capax. Demonſtr. Cum enim, quod limitibus de- ſtituitur, deſtituatur quoque omni omnino mutatione, (§. 322.) ens autem infinitum ſit illud ipſum ens, quod deſtituitur limitibus, (§. 323.) palam eſt, ens infinitum ſive illimitatum nullius omnino mutationis eſſe capax.
+
+Ens infinitum debet eſſe ens abſo— lute necessarium. Demonstr.
+
+[p. 224] 224 De ente finito et infinito. 1 : Demonstr. Cum enim, quod deſtituitur li- mitibus, debeat eſſe ens abſolute neceſſarium, (§. 322.) conſequens eſt, ut ens infinitum, quippe quod caret limitibus, 323.) non poſſit non eſſe ens abſolute neceſſarium.
+
+Ex quo apparet, ens infinitum 0x non poſſe eſſe ens compoſitum, ſed debere eſſe ens ſimplex. Demonſtr. Cum enim, quicquid eſt com— poſitum, non poſſit eſſe ens abſolute neceſſarium, (§. 224.) ens autem infinitum ſit ens ab- ſolute neceſſarium, (ſ. 3m) conſequens eſt, ut ens infinitum non poſſit eſſe ens compoſitum. Quia uero omne ens debet eſſe aut ens compoſitum, aut ens ſimplex, (§. 267.) intelligi poteſt, cur ens infinitum debeat eſſe ens ſimplex.
+
+Quicquid itaquẽ ad entium compoſitorum numerum refertur, id non poteſt eſſe ens infinitum, ſed finitum ſit, limitibusque circumſcribatur, neceſſe eſt.
+
+5 34 nec dantur, Duo entia infinita nec dantur, nec dari poſſunt.
+
+p
+
+[p. 225] De ente finito et infinito. 225 Demonstr.
+
+Si plura darentur aut dari pos- ſent entia infinita, tunc aut illa ſibi forent ſimilia, aut dissimilia. Si ſibi eſſent dissimilia, tunc in ente infinito A, eſſent perfectiones, quae deſiderarentur in B, aut in B, es- ſent perfectiones, quae deſiderarentur in A. Quum uero ens infinitum debeat habere omnes realitates ſiue perfectiones compoſſibiles, 328) fieri non poteſt, ut ens infinitum A, plures, et B, pauciores poſſideat realitates, et uiceuersa. Adeoque, ſi plura forent entia infinita, illa ſibi non poſſe eſſe diſſimilia, uides, ſi uero ſibi eſſent perfecte ſimilia, tunc non eſſent plura, ſed unum, et principium indiſcernibilium, ſupra, 169) demonſtratum hoc modo corrueret. Addo. etiam hoc: Si illa, quae finguntur, entia infinita ſibi eſſent ſimilia, tunc aut es- ſent ſimilia et aequalia ſimul, aut ſimilia quidem, ſed inaequalia. Si dixeris, eſſe illa ſibi ſimilia quidem, ſed inaequalia, ab- ſurditatis te ipſe incuſas. Quando enim ſibi eſſent inaequalia, tunc maior realitatum quantitas eſſet in ente infinito A, et minor in B. Cum uero realitatum ſiue perfectionum gradus in ente infinito locum habere nequeant, 38) conſequens eſt, ut nec ens infinitum A, maiorem, nec ens B, minorem realitatum siue perfectionum quan- P Ad- :
+
+[p. 226] 7,m6 De ente finito et infinito. quantitatem habere queat, adeoque plura, quae ſumuntur, entia infinita non poſſunt eſſe ſimilia et inaequalia. Si uero ſibi ſunt ſimilia et aequalia ſimul, tunc aut nulla pror- ſus inter ea reperitur differentia, aut tantum aliqua. Si plane nulla inter ipſa reperitur differentia, tum quidem non amplius ſunt plura entia infinita, ſed unum, ſub diuerſo licet nomine. Si uero aliqua tantum in J ipſis deprehenditur differentia, tum ea erit il aut in numero, aut in loco, ſi ens infinitum A, ab ente infinito B, tantum numero differt, tum debet adeſſe ratio ſufficiens, cur A, a B, h numero differat. (§. 32.) Aut itaque ratio ſufficiens, cur ens infinitum A, numero dist ferat ab ente infinito B, eſt in ente A, aut in ente
+
+B. Si ratio sufficiens ista eſt in ente B, tum ens A, alicuius rei, in ſe exiſtentis, rationem habet in altero, adeoque eſt aliquo modo dependens. Quae uero imperfectio ab ente infinito eſt plane excludenda. Si autem illa ratio ſufficiens, cur ens infinitum A, numero differat ab ente infinito B, eſt in ente ipſo A, tum poſſeſſio et praeſentia huius rationis ſufficientis aut eſt imperfectio quaedam, aut perfectio. Non imperfectio, quia ens infinitum tantum gaudet realitatibus ſiue perfectionibus, ſi uero eſt' perfectio, et tamen tantum reperitur in ente A, Si
+
+[p. 227] De ente finito et infinito. 227 A, non autem B, ſequitur, ut B, perfectione aliqua deſtituatur. Cum uero ens infinitum habeat omnes realitates et perfectiones, nec hac carere poteſt, ſi eſt. Sed eam non habet (per demonſtr) E. etiam non eſt. Cum uero, quicquid non habet rationem ſufficientem, sit nihil, 32.) nihil autem non existat, ſequitur, ut nec haec, qua numerum, differentia exiſtat. Quae de differentia numeri ualent, dicta quoque ſunto de loci differentia. Ex quibus tandem hoc conficis, plura entia infinita nec dari, nec dari poſſe, 1 (
+
+Verboſior uideri poteram in hoc theoremate20 demonſtrando. Sed plurimum intereſſe, ſcito, ut haec positio legitime demonſtretur, propterea, quid sine hoc theoremate unitas Dei infra nequit demonſtrari. Cl. Canzius in Vſu Philos. Leibnit. et Wolf. T. I. i166. praeclare hanc in rem: Cum per uocem entis infiniti, inquit, intelligamus illud ens, quod omnes omnino perfectiones complectitur, et eas quidem ſine gradu poſſeſſas, cognoſcitur ſane, plura eius generis entia eſſe non poſſe. Nam cum ſingula omnibus, et ſine gradu quidem perfectionibus exornata forent, nullum remaneret distinctionis fundamentum.
+
+enim bis omnia cogitat, ſi differre tum ea ſtatuat, aut alterutro conceptu non comprehendit omnia, aut eadem omnia diuerſo mentis actu concepit. Conferri hic poteſt elegans dialogus, quem, P2 Qui :
+
+[p. 228] 228 De principiis et cauſſis. quem doctissimus Gottſchedius Theologiae ſuae naturali ſubiunxit, qui, dici non potest, quam magna animi cum uoluptate a me fuerit et perlectus et expensus.
+
+5. 33- Ens infinitum menſurari non potest. 2 Demonstr.
+
+Cum enim menſurare nihil aliud ſit, quam magnitudinem alicuius entis ad alteram datam homogeneam magnitudinem t exigere; ũ 259.) conſequens eſt, ut, quicquid caret magnitudine, id menſurari non poſſit. Quia uero ens infinitum eſt ens ſimplex, (§. 332.) et omni adeo caret magnitudine, Q25 270.) manifesta eſt ratio, cur ens infinitum r menſurari non poſſit. 5 36. Caeterum probe caueas, ne  infinitum confundas cum indefinito, quippe quod idem eſt, quod ſupra diximus indeterminatum, conf. 5. ”I. J;= r
+
+-r £m CAP. XVII. DE
+
+PRINCIPIIS ET CAVSSIS. ag. 50m-1 Exposuimus hactenus uariam entium dif2 ferentiam. Nunc itaque in eo erimus, ut um
+
+[p. 229] De principiis et cauſis 229 ut reſpectus entium ad ſe inuicem ac relationes explicemus. Scilicet, ſi ita entia conſideramus, prout cum altero alterum eſt con- nexum, tum aliud deprehendimus ab alio dependere, atque adeo aliud eſſe caussam, aliud cauffatum, principium aliud,  prin- cipiatum. Quare agendum nunc exiſtimamus de caussa et caussato, principio et principiato. Non minimi eſt momenti doctrina de principio et principiato, cauſſa et cauffato. Vix enim ex ueteribus uel Theologi, uel Jure conſulti, uel Medici etiam conſpicies compendium, quin in eo dogmata per quatuor cauſſarum genera pertractata uideas.
+
+5. 338: Si ens A, ita fuerit comparatum, ut in ſe contineat rationem, cur ens B, ſit, tum ens B, ab ente A, dependere dicitur. Si uero ens quodpiam fuerit eiusmodi, ut in nullo alio ente extra ſe habeat rationem, cur ſit, tum dicimus illud independens. Has notiones ante, quam, quid ſit principium et principiatum, exponi poteſt, enodandas exiſtimamus. Vt uero ipſae intelligi diſtinctius pos- ſint, exemplum addere lubet. Hic mundus, e. gr. dependet a Deo, quia, cur hic mundus ſit potius, quam non ſit, ratio inuenitur in liberrima Dei uoluntate. Appetitio boni dependet a repraesentatione boni, per intellectum facta, pro- pterea, P3 pterea,
+
+[p. 230] 230 De principiis et cauſſis. pterea, quod ratio, cur uoluntas noſtra appetat bonum, deprehenditur in repraeſentationibus in- tellectus, id quod infra in pſychologia uberius demonstrabitur. Deus uero ideo dicitur inde- pendens, quia, cur Deus exiſtat, in nullo alio ente extra ipſum poteſt dari et inueniri ratio,
+
+Principium, in' ſenſu generaliſſimo ſumtum, nihil aliud eſt, quam omne id, unde ali- quid quocunque modo dependet. Cum uero id, a quo aliquid dependet, debeat eſſe eiusmodi, ut in ſe contineat rationem, cur alterum ſit, (§. 338.) uides, quid ſit, quod nonnulli principium in ſenſu generaliori definiant per id, quod in ſe continet rationem alterius. Id, quod ab altero dependet, ſiue, quod idem eſt, in altero ſui rationem habet, dicitur principiatum. 5 l Sic e. gr. Solis ſplendor eſt principium diei, propterea, quod dies a ſolis ſplendore dependet, et haec propoſitio: Anima eſt immaterialis: eſt principium huius propoſitionis: Anima eſt incorruptibilis. Haec enim ultima propoſitio r- E tionem ſul habet in priori. Dies itaque, in re- ſpectu ad ſolis ſplendorem, eſt principiatum, item, haec propoſitio, anima eſt incorruptibilis, lil relata ad hanc propoſitionem: anima est im- materialis: est principiatum, quia ab illa de- pendet, $. 340.
+
+[p. 231] De principiis et caussis. 231 §.
+
+340. Id, in quo eſt ratio, cur alterum ſit, dicitur a philoſophis principium eſſendi. Id uero, in quo reperitur ratio, cur alterum fiat, appellamus principium fiendi. Illud denique, in quo deprehenditur ratio, cur alterum co- gnoſcatur, principium cognoscendi uocamus. 本 Hebenſtreit in philoſophia prima p. 598. principium eſſendi uocat id, a quo aliquid in ſuo eſſe pro- cedit. Sic Deus eſt principium eſſendi, reſpectu mundi. Principium fiendi, idem dicit, eſſe r, a quo res tantum dependet in fiendo, quale eſt e. g. architectus reſpectu domus. Principium denique cognoſcendi notat, ex Hebenſtreitii Sententia, omne id, unde res cognoſcitur. Sic haec propositio: impoſſibile eſt, idem ſimul eſſe et non eſſe, eſt principium huius propoſitionis: Nihil est ſine ratione sufficienti Haec enim ultima propoſitio dependet ab illa priori, quemadmodum id plus ſatis demonſtratum dedimus 32-
+
+Principium eſſendi diuiditur a ueteribus Me- taphysicis in principium QVOD et in princi- pium QVO. Principium QVOD eſt illud ipſum, quod rem aliquam ad exiſtentiam perducit. Principium autem QVO eſt id, quo mediante quid producitur. Sic Deus eſt fidei in homine principium quod, ipſe enim producit in hominum mentibus fidem. Verbum autem et Sa-
+
+P 4 cra-
+
+[p. 232] 232 De principiis et caussis. His cramenta poſſunt dici principium QVO. His enim mediantibus fides in animis et accenditur et confirmatur. Principium eſſendi diſpeſcitur praeterea in principium internum et externum. Illud ipſam rei, quae dicitur principiatum, intrin- secam naturam conſtituit, e. gr. Lignum re- ſpectu menſae. Hoc uero, quod conſtitutionem principiati ĩntrinſece non ingreditur, e. gr. Scri- niarius reſpectu menſae.
+
+Denique principium eſſendi diuiditur in principium cauſſale et non cauſale. Illud eſt, quod a rem aliquam reuera producit, e. gr. Deus reſpe- lill c&tu mundi, ſol reſpectu diei, ſunt principia cauſſalia. Principium uero non cauſſale eſt id, quod quidem rem producendam neceſſario praecedit, non uero illam reuera producit, e.gr. Aurora respectu diei. 1 Principium cognoſcendi diuidi ſolet a philo- Im i
+
+Tlil ſophis in principium complexum et incomple- E xum. Principium complexum cognoſcendi ue B teres uocabant quamuis integram propoſitionem, quae, tanquam praemissa aliqua, in aliqua disciplina ad probandum quid adhibetur, et ad conclusiones inferendas uſurpari poteſt. Sic e. gr. Theologiae principium cognoſcendi com plexum eſt haec propoſitio, multas ideas et terminos complexa: Quicquid scriptura sacra dicit, illud infallibiliter uerum eſt. Principium uero cognoſcendi incomplexum Metaphyſici uocant terminum aliquem, qui in concluſione alicuius ui; qua inferenda et demonſtranda locum obtinet al: i medii termini. E. gr. Theologi uocant Scri
+
+[p. 233] De principiis et cauſſis. 233 pturam S. Theologiae principium cognoſcendi incomplexum.
+
+5 34m. Nexus eſt illa rerum ad ſe inuicem relatio, ui cuius unum continet rationem alterius, et connexa ea dicuntur, quorum unum in ſe continet rationem, cur alterum exiſtat. l
+
+Has notiones, in Coſmologia copioſius euol- lLl l uendas, hic propterea diſtincte proponendas duxi- I mus, quod, iis explicatis et praefulcitis, ea, quae de ll principiis cauſſisque diſputantur, rectius in- telliguntur. Vt uero definitiones fiant magis perspicuae et manifeſtae, ſequens habeto exemplum. Inter Deum e. gr. et hunc mundum datur nexus, item inter pluuiam calidam et terrae foecunditatem. Rationem enim Deus in ſe continet, cur hic mundus exiſtat, et pluuia calida itidem rationem in ſe habet, cur terra ſit foecunda.
+
+s 342- Vbicunque itaque alterum alterius rationem in ſe continet, ibi datur nexus, et ſublato rationis ſufficientis principio, tollitur nexus.
+
+Inter principium et principiatum datur nexus.
+
+P Demonstr.
+
+[p. 234] 234 De principiis et cauſis. Demonſt?. Cum enim principium ſit id, Quod continet in ſe rationem eius, quod dicimus principiatum, ũ 339.) illa autem relatio rerum ad ſe inuicem, ui cuius unum continet rationem alterius, dicatur nexus, (§. 340.) consequens est, ut inter principium et principiatum detur nexus.
+
+5. 344- Poſito principio, ponitur principiatum. Demonstr. Principium eſt id, quod in ſe continet rationem alterius. 339) E. posito principio, ponitur rei alicuius ratio sufficiens. Poſita uero ratione ſufficiente, ponitur id, cuius eſt ratio. (§. 32.) E. cum principiatum ſit id, quod rationem ſui ſufficientem in altero habet, (§. 339.) intelligitur, poni, poſito principio, principiatum.
+
+5& 355- Poſito principiato, ponitur principium. Demonſtr. Cum enim principiatum rationem ſui ſufficientem in altero habeat, 5. 339) conſequens eſt, ut, ſi datur principiatum, dari etiam quid debeat, in quo ratio eius continetur. Dum autem illud, quod rationem hanc continet, ſit principi- um
+
+[p. 235] De principiis et caussis. 235 um, 5339.) palam est, principium, poſito principiato, poni. Si dies eſt, ponatur, neceſſe eſt, ſolis ſplendor, a quo dies dependet, tanquam a ſuo principio.
+
+§. 346. Principium et principiatum ſunt ſimul. Demonſtr. Ponas enim, principium et principiatum non eſſe ſimul, tunc aut principiatum prius erit, quam principium, aut principium erit prius, quam principiatum. Ponas, principiatum eſſe prius, quam principium, tunc erit principiatum, et non erit principiatum. Erit principiatum (per hypothesin,) non erit principiatum, quia omne principiatum ſui rationem inuenire, et dependere debet a principio. ſſ. 339 Quomodo uero principiatum dependebit a principio, ſi principiatum eſt prius principio, adeoque principium nondum exiſtit? Cum itaque impoſſibile ſit, ut aliquid ſimul exiſtat et non exiſtat, (ꝗ. 2:) impoſſibile quoque erit, ut principiatum prius ſit, quam ipſum principium. Ponas uero, principium prius eſſe principiato, tunc principium erit principium, et non erit principium. Erit principium (per hypothesin,) non erit prin-
+
+[p. 236] 236 De principiis et caussis. i ? principium, quia principium per id eſt principium, quod quicquam habet, quod ab ipſo dependeat, ũũ 339.) adeoque quod adſit principiatum. Cum uero fieri nequeat, ut aliquid ſimul ſit principium,  et non ſit principium, 22) manifeſta eſt ratio, cur principium principiato prius eſſe nequeat. Si itaque neque principium principiato, neque principiatum principio prius eſſe poteſt, nihil aliud Biurr relinquitur, quam ut, principia et principiata n.- ſimul eſſe, aiamus. pv i
+
+3 I7 Duo uero hic obseruari uolo. I. Poteſt ens aliquod conſiderari I) abſolute, id eſt, ſine reſpectu ad alterum quoddam ens, quod producit. 2) Consideratur relatiue, quatenus ſcilicet alterum quod- 2) 2. Qrr- dam ens ad exiſtentiam perducit. Si. conſideratur principium abſolute, i. e. ut ens, non uero ut principium, tunc principium prius eſſe poteſt, et eſt quoque prius ipſo principiato. E. gr. pater, ut homo conſideratus, prior eſt filio, ſi uero patrem consideraueris, ut patrem, et principium filii, non poteſt ipſe eſſe prior filio. Ecquis enim, patrem eſſe illum poſſe, dixerit, qui nunquam liberos generauit? II. Principium eſt quidem prius natura, quam principiatum, i. e. principium prius concipi poteſt, et debet quam principiatum, non uero eſt prius tempore. Solis e. gr. ſplendor prius concipi debet, quam dies, ſed, ſi temporis habueris rationem, ſol ſimul cum die apparet.
+
+5. 337
+
+[p. 237] De principiis et caussis. 237 I. §. 347.
+
+Principium illud, a quo alterius exiſtentia dependet, ſiue, quod continet rationem in ſeſe, cur alterum exiſtat, dicitur CAVSSA, id uero, quod a cauſſa dependet, ſiue quod ſui rationem in principio caussali inuenit, appellatur CAVSSATVM; ſiue Effectus, siue Effectus. Latius patet notio principii, quam notio caussae. Omnis quidem cauſſa eſt principium, ſed non omne principium eſt cauſſa, quia datur etiam principium non cauſſale. Conẽ 339
+
+§. 348.Cauſſalitatem uocant rationem Cauſſalitatem Scholaſtici illam rationem, qua in cauſſa continetur, cur effectus producatur. Ita cauſſalitas in Deo, qui eſt cauſſa huius mundi, eſt creatio ipſa, qua totum hoc uniuerſum ex nihilo ad exiſtentiam perduxit.
+
+5. 349- Cum cauſſa ſit principium, (§. 337.) con- ſequens eſt, ut, quicquid dicitur de principio et principiato, idem dicatur de cauſſa et cauſſato.
+
+§. 350. 6 Experientia conſtat, quod ad id, ut aliqua res ſuam accipiat exiſtentiam, multa concurrere ſoleant. Alia ſcilicet per ueram actionem, alia per repraeſentatam bonitatem,
+
+[p. 238] 238 De principiis et caussis.
+
+De principiis et cauſis.  tem, per neceſſarias determinationes, alia denique per receptionem harum determinationum ad effectum producendum quid conferunt. Vnde exiſtunt uaria cauſſarum gene—7 ra, quae ſigillatim nunc exponemus. Veteres doctrinam de cauſſis ita pertractabant, ut caussas omnes dicerent eſſe, uel internas, uel externas. Has, aiebant, conſtitutionem effectus intrinſecam non ingredi. Quo pertinent a) caussa efficiens, a qua res eſt, B) Cauſſa finalis, propter L3li quam res eſt. Caussas internas dicebant, quae i conſtitutionem effectus intrinsecam ingrediuntur. Huc pertinent a) caussa materialis, ex qua res eſt, et ſ3) cauſſa formalis, per quam res eſt.
+
+5 3. Cauſſa efficiens, quae proprie et uur ẽfoxv cauſſa eſt, nihil eſt aliud, quam id, quod per actionem ſuam continet rationem alterius rei exiſtentis, ſiue, quod ui ſua alterum producit, uti e. gr. Deus hunc mundum produxit. Cauſſa efficiens et ratio (die raiſon) omnino a ſe inuicem differunt. Deus quidem huius mundi cauſſa efficiens poteſt appellari, ecquis autem? ipſum rationem huius mundi nominari poſſe, dixerit? Vt itaque has duas propoſitionẽs: nihil eſt ſine cauſſa, et nihil est ſine ratione sufficienti: a ſe inuicem recte diſtingui a nonnullis, uideas. hca E:
+
+s 35.
+
+[p. 239] De principiis et caussis. 239
+
+Cauſſa efficiens uarie a Metaphyſicis diſtinguitur. Nos, ne quid hic omiſiſſe uideamur, quod ad rem pertineat, singulas diuisiones, quam fieri poteſt distinctissime, exponemus. §. 353. Cauſſa efficiens, quaę. per ſuam actionem producit effectum, 351) uel ita agit, dum effectum producit, ut poſſit quoque actionem omittere, uel ita agit, ut, intrinſeca ſua natura àd agendum impulsa, non possit non. agere. Illam uocamus liberam, hanc naturalem et necessariam. Scriptionis huius ſum caussa libera, poteram enim praesentem: ſcriptionem quoque omittere. Cum uero ignis lignum comburit, fieri non poteſt, ut ex libera uoluntate ignis actionem omittat, adeoque eſt cauſſa efficiens naturalis et ne- cessaria. §. 354.
+
+Cum cauſſa efficiens producit effectum, tunc aut productus effectus eſt eiusdem eſ- ſentiae, qua gaudet ipſa cauſſa, aut diuerſam habet eſſentiam, diuerſaeque eſt Speciei. Sin illud, tum cauſſa, effectum eiusdem eſſentiae producens, dicitur caussa uniuoca. Si hoc, tum cauſſa, effectum diuersae eſſentiae producens, appellatur caussa aequiuoca.
+
+Vi
+
+[p. 240] 240 De principiis et cauſis: Vt intelligar haud difficulter, exemplum addo illuſtrans. Cum pater generat filium, tum pro- ducit effectum, eiusdem plane essentiae ac ſpeciei, adeoque pater eſt caussa filii uniuoca. Cum uero ll Deus hunc mundum produxit, cumque item ſutor calceum, ſcriniarius menſam, ad existentiam perducit, tum Deus, ſcriniarius, ſutor, ſunt cauſſae aequiuocae, quia nec mundus, nec menſa, nec calceus; eiusdem ſunt eſſentiae, cuius ſunt cauſſae, quae —q haec effecta produxerunt. .t lL or li EVN lt Cauſſa efficiens, uel principalis eſt, uel inſtru- I -3 mentalis. Cauſſa efficiens principalis eſt, quae effectum producit uirtute ſua propria. Si uero actio ui aliena producitur, dicitur cauſſa mi; instrumentalis. E. gr. Deus eſt cauſſa efficiens principalis Scripturae Sacrae. Prophetae autem et Apoſtoli ſunt cauſſa inſtrumentalis Scripturae Sacrae. Inſtrumentum uero, quod a cauſſa efficiente ad effectum producendum eleuatur, dicitur a VVolfio ens, quod potentia agendi inſtructum, ſed ui agendi deſtituitur, ad effectum requiſita. Conf r 5-nr g 5- VVolfii Ontol. Lat. p.657.
+
+§. 356. Cauſſa efficiens porro eſt uel phyſica uel moralis. Quae diſtinctio, cum in aliis di- moralis. ſciplinis identidem occurrat, nunc accura- tius et diſtinctius eſt explicanda. Caussa physica g
+
+[p. 241] De principiis et cauſis. 241 phyſica eſt, quae effectum immediate uera ac reali actione producit, ſi uero quid effectum mediate ac per alium ad exiſtentiam perducit, tum dicitur caussa moralis.
+
+#### E. gr. Si quis alterum hominem ſua interficit
+
+manu, tum dicitur cauſſa phyſica homicidii; si uero quis ad alterius occiſionem uel cohortando, uel ſubſidia ſubminiſtrando, uel ſuadendo, uel non impediendo, cum impedire poſſet, concurrit, tum uero ille dicitur homicidii cauſſa moralis.
+
+Praecipui modi, per quos aliquis fit cauſſa moralis, ſunt ſequentes. Si quis fuerit (1) mandans, (2) conſulens, (3) ratihabens, (4) laudans, (5) consentiens ſeu approbans, 6) prouocans, De (7) non impediens, cum impedire poſſet. Caeterum obſerua, in ſacris literis, aeque effectum ad- ſcribi cauſſae morali ac cauſſae phyſicae. Quem fugit, Dauidi, qui caedis Vriae tantum cauſſa mo- ralis erat, sacras literas imputaſſe, quod reuera occiderit Vriam?
+
+His diuiſionibus cauſſae efficientis ſub. iungimus adhuc ſequentes. Cauſſa efficiens Producit uel per ſe, ut talis, effectum, uel ab ipſa, ſed non ut tali, per accidens, effectus in ſuo eſſe procedit. Illa dicitur caussa per ſe, haec uero caussa per accidens.
+
+Q
+
+[p. 242] 240 De principiis et caussis. دل 1. Vt haec theſis pateat uberius, sequenti ipsam exemplo illuſtrandam putaui. Philoſophus eſt caussa per ſe bonae, et regulis rectae rationis A conuenienter inſtitutae, ratiocinationis. Legi- tima enim, et ad rationis leges exacta, ratiocinatio prouenit a philosopho, quatenus talis est. Philosophus uero eſt cauſſa per accidens Athei- ſmi, et philoſophia est caussa per accidens multa- rum monstrosarum opinionum, Quia Atheiſmus non prouenit a philoſopho, quatenus talis eſt, (alias omnis philoſophus deberet eſſe Atheus) ſed quatenus ſuis praeconceptis opinionibus- nĩium quantum indulget. Nec Philoſophia eſt cauſſa monſtroſarum opinionum, (alias omnis, qui philoſophia esset imbutus, deberet monſtroſis opinionibus eſſe fascinatus.) Num Deus dici poſſit cauſſa per accidens peccati; copioſius diſputauit Hebenstreit. in philoſophia prima, p. m. &-1. ſ44. IEll
+
+Concaussae ſunt, quae ſimul concurrunt ad unum idemque effectum producendum. Atque hae ipſae concaussae, (ita enim philoſophis uocantur plures caussae) ad unum effectum producendum unitae, uel eiusdem, uel ſunt diuerſi generis.
+
+#### E. gr. Scriniarius et lignum ſunt concauſſae
+
+respectu menſae, ſed ſunt concaussae diuerſi generis. scriniarius enim pertinet ad cauſſam efficientem, lignum autem ad caussam materialem, Deus uero et Prophetae Apoſtolique itidem
+
+Vi a
+
+[p. 243] De principiis et cauſs. 243 dem ſunt concauſſae, reſpectu scripturae sacrae, ſed ſunt concauſſae eiusdem generis, Pertinent enim ad caussam efficientem, Deus quidem ad cauſſam efficientem principalem, Prophetae autem et Apoſtoli ad cauſſam inſtrumentalem, uti hoc iam indicauimus. S. 355-
+
+Has concauſſas eiusdem generis nonnulli ex ueteribus porro diuidere consueuerunt m concauſ- ſas eiusdem ordinis et diuersi ordinis. Con- caussae eiusdem ordinis ſunt e. gr. duo ualidi uiri, qui, uiribus unitis, onus praegrande poſt ſe trahunt, et de loco in locum mouent, concauſſae uero eiusdem generis quidem, ſed diverſi ordinis ſunt Deus et Apostoli reſpectu scripturae sacrae.
+
+309. Caussa efficiens solitaria dicitur, cum effectus cauſſa efficiens non niſi fuerit unica, si uero plures caussae eiusdem ordinis, conſti- tuentes unam caussam efficientem, effectum producunt, tum illae plures cauſſae dicuntur caussae sociae.
+
+E. gr. Diei cauſſa efficiens ſolitaria eſt ſol, ſed ſi plures equi currum unum onustum traxerint, dicuntur cauſſae ſociae. Ad caussas autem ſocias requirit Hebenſtreitius non modo, ut ſint concaussae eiusdem generis eiusdemque ordinis, ſed etiam numero diuerſas rationes caussandi habeant, ita, ut effectus aliqua ratione ab hac, aliqua uero ratione ab illę caussa, a nulla autem n Q totus )
+
+[p. 244] 244 De principiis et caussis. 1 totus dependeat. Quales cauſſae e. gr. ſunt duae lampades, in eodem conclaui compoſitae et accenſae, respectu luminis, in eo conclaui producti. Ex his requiſitis negandum eſſe, idem affirmat, tres diuinitatis perſonas eſſe cauſſas ſocias creationis. Vna enim et eadem numero potentia ad creationis opus concurrerunt, et totum creationis opus a qualibet perſona totum dependebat, id quod ſecus fit in cauſſis ſociis. Conf. Hebenſtreit. Philoſophia prima. ꝑ. 691. lã
+
+§. 360. Cauſſa efficiens porro alia proxima eſt, alia remota. Cauſſa remota eſt, a qua effectus, interuenientibus aliis caussis, dependet. Cauſſa uero proxima eſt, a qua effectus, nulla alia cauſſa interueniente, dependet. Haec dicitur immediata, illa mediata. Auus eſt nepotis cauſſa remota, quia pater adhuc eſt cauſſa intermedia, pater uero eſt cauſſa filii proxima, Concipies tibi hanc differentiam optime ita. Fingas, hanc ſeriem A, B, C, D, fingas D, dependere a C, et C, a B, et B, ab A. Vides hic D, proxime dependere a C, adeoque C, eſt cauſſa proxima 7 D. Vides uero inſimul, D, quoque dependere a B, ſed interueniente cauſſa C. Ergo B, eſt cauſſa remota τῷ D.
+
+5. 561. Ex his intelligi nunc poteſt, quando cauſſae dici poſſint ſubordinatae. Si ſcilicet opera-
+
+[p. 245] De principiis et caussis. 245 1 . operatio caussae proximae dependet a re- mota, et operatio remotaę cauſſae dependet a remotiori, et ultra, tum caussae iſtae, a ſe inuicem in operando dependentes, dicuntur ſubordinatae. Sic A, B, C, ſunt cauſſae ſubordinatae reſpectu D, quia C, dependet, tanquam effectus, a cauſſa B, et B, dependet, tanquam effectus, a caussa A.
+
+5. 55. Cauſſa efficiens a Cel. ?Volfio diuiditur praeterea in Ontol. Lat. p. 66. in cauſſam effi- cientem ſufficientem et insufficientem. Sed, ſi dicendum, quod res eſt, haec diſtinctio parum mihi approbatur. Quomodo enim id, quod non ſufficit ad effectum producendum, cauſſa dici poſſit, non uideo. Per hoc enim quidpiam eſt cauſſa, quod effectum producat. 1
+
+Caeterum cauſſam, ſiue conditionem ſine qua non, probe diſtinguas uelim a uera caussa efficiente. Eſt autem conditio ſine qua non nihil aliud, quam eiusmodi conditio neceſſaria, quae ex parte caussae requiritur, et ſine qua cauſſa effectum non poteſt producere. Sic e. gr. cum quis alterius intellectum ad ueritatum utiliſſimarum cognitionem perducere, ipſumque rite emendare uoluerit, tum ante, neceſſe eſt, remoueantur et exstirpentur praeiudicia. Quae quidem praeiudiciorum ręmotio non eſt ipſa cauſſa ueritatum
+
+_l Q3 1 L
+
+[p. 246] 246 De principiis et cauſſis. cognitionis, ſed eſt conditio ſine qua non. Ita quoque  in opere conuersionis, docent Theologi, primum omnium remouendam eſſe m:malitiosam reſi- ſtentis;m Quae uero malitiosae reſiſtentiae remotio non eſt cauſſa conuerſionis, ſed tantum conditio sine qua non.
+
+A Nihil eſt cauſſa5ſui 365. ipſius, ſiue, quod idem eſt, nihil ſemet ipſum poteſt producere. Demonstr.
+
+Ponamus, aliquid ſemet ipſum producere, et ſui ipſius eſſe cauſſam, tunc illud, quod ſemet ipſum produceret, et existeret: ret, et ſimul non exiſteret. Exiſteret, alias ſemet ipſum non produceret, (quomodo enim quid aliquid. Produceret, et agendo ad existentiam am perũuces niſi ipſum existat?) Non exiſteret, quia demum, ſe producere i. e. sibi exiſtentiam largiri fingitur. Cum uero impossibile ſit, ut aliquid ſimul exiſtat, et non exiſtat, 2) B2, impossibile quoque eſt, ut aliquid ſemet ipſum producat, ſiue ſit cauſſa ſui ipſius. Veteres hanc propoſitionem ita enunciabant, Nihil -ſt a ſe ipſo, in ſenſu affirmatiuo, i. e. ita, ut semet ipſum produxerit, quamuis. Deus ſit a ſemet ipſo in ſenſu negatiuo, i. e, ita, ut a nullo alio fuerit productus. §. 364.
+
+.4 P umi
+
+[p. 247] De principiis et cauſſis. 247
+
+Cum quicquid dicitur dæ principio et principiato,, idem dici poſĩt de cauſ*a et caussato. (ꝗ. 3399.) conſequens eſt, ut a) poſita caussa, ponatur effectus, ſiue caussatum, 344) et è) poſito caussato, ſiue effectu, ponatur caussa. (§.345.) y) Hinc perspicuum eſt, inter caussam atque effectum siue cauſſa- tum dari nexum. (ẽ 343)
+
+5. 56s. Qualis cauſſa uniuoca, talis quoque eſt effectus. Demonstr. Cum enim cauſſa uniuoca producat effectum eiusdem ſpeciei et eſſentiae, (§. 354.) ſequitur, ut, qualis cauſſa eſt uniuoca. talis quoque ſit effectus. (Alias cauſſa et effectus non eandem haberent essentiam.) Sic e. gr. pater eſt homo, ſequitur, filium, a patre generatum, debere quoque eſſe hominem.
+
+8 x66. Caussa caussae eſt etiam caussa caussati. Demonſtr. Fac enim, in A, contineri rationem, cur B, existat, tunc A, erit cauſſa ipſius B, (§. 339.) et B, erit effectus. Ponas
+
+Q4 1 porro
+
+[p. 248] 248 De principiis et cauſſis. porro, B, producere alium effectum, quem uocabimus C, tunc facile uidebis, C, non potuiſſe produci a B, niſi B, productum fuiſſet ab A. A, itaque non modo est caussa tě B, ſed quoque eſt cauſſa ipſius C. Quo ipſo intelligitur, caussam cauſſae eſſe etiam cauſſ=am cauſſati. Haec propoſitio licet ſit veriſſima in cauſſis eſſentialiter et neceſſario ſubordinatis, non tamen ex eo colligendum eſt, eandem quoque locum obtinere in cauſſis accidentaliter et contingenter ſibi ſubordinatis. Recte quidem infers: Auus eſt cauſſa patris, pater eſt cauſſa mei, E auus quoque erit cauſſa, cur ego exiſtam. Minus autem apte ratiocinaueris, ſi rationes ita conficeres. Deus eſt cauſſa hominis, homo eſt cauſſa peccati, E. Deus eſt cauſſa peccati
+
+§. 367. Omnis cauſſa efficiens ui agendi praedita ſit neceſſe eſt. Demonſtr. Cum cauſſa efficiens producat li li effectum per realem actionem, 351) quicquid autem agit, id quoque ui agendi gaudere debeat, (§. 297.) intelligis, cauſſam efficientem ui agendi gaudere debere. J. §. 368.
+
+Cauſſa, abſolute eadem, conr-
+
+Sa traautii
+
+[p. 249] De principiis et caussis. 249 E trarios effectus producere non poteſt. Demonſtr. Ponas, cauſſam eandem contrarios effectus producere poſſe, tunc et erit cauſſa eadem, et non erit cauſſa eadem. Erit cauſſa eadem. (per hypothesin.) Non autem erit caussa eadem, quia non eosdem producit effectus. Nam per id, quod effectum producat, aliquid eſt et fit caussa. Adeoque aliqua res tum demum eadem cauſſa erit, ſi eosdem effectus producit. Si itaque caussa eadem contrarios effectus produceret, tunc non amplius eſſet eadem. Cum uero aliquid ſimul eſſe et non eſſe nequeat, (§. 22.) eandem quoque cauſſam contrarios effectus Producere non poſſe, palam eſt.
+
+Cl. Carpouius in diſſertatione de poenis ne- ceſſitati hypotheticae non contrariis 5. VI. hanc format demonstrationem: „ Si eadem cauſſæ »A, poteſt effectus B, et C, ſibi inuicem contra- »rios, aeque bene facile producere, tunc, ſũi »Producit B, non eſt ratio, cur non producat C, »et uice uerſa. Obiectionem hic ſibi ipſe for- „ mat Clariſſ. Vir hoc modo: A, cauſſa eſt. Sed reſpondet ipſe quoque ſibi. A, eſt cauſſa, cur ut B, aut C, ſequatur, (quia, ui hypotheseos, „ utrumque poteſt producere,) ſed de ratione, cur „ B, nec C, producatur, quæſtio recurrit. Nempe aut cauſſam A, non poſſe contrarios effectus B, et
+
+Uuj Qqs 2C,
+
+[p. 250] 250 De principiis et caussis n 2ròv e c potuiſſe, aut aliquid ſine ratione „ fieri, confitendum eſt. Z
+
+§. 369. bà
+
+Non potest esse plus in effectu, quam fuit in caussa. Demonstr.
+
+Ponamus, eſſe plus in effectu B. quam fuit in caussa A, tunc illud plus, quòd uocabimus C, aut dependet a caussa A, aut ab eadem non dependet. Si a caussa A, dependet, tunc fuit omnino in cauſſa A. Si uerò a cauſſa A, non dependet, tunc aut a semetipso extitit, aut ab alia cauſſa D, depen- det. A semetipso existere non poteſ: ũ. 35) E. a caussa D, dependet. Si uero illud plus C, deꝑ eſ: dependet a cauſſa D, tunc non pertinet ad effectum B, quia effectus B, per hoc eſt effectus I, quod dependeat a caussa A. Nunquam itaque plus in effectu eſſe poteſt, quam fuit in cauſſa. X Hoc theorema, quo effectum plene ex caussa ſua intelligi debere, aſſeueramus, idem fere eſt cum propositione illa, quam Leibnitius, fundamenti loco, in Dynamices ſuae Specimine Act. Erudit. p. 157. bo. 1655. poſuit. Enunciant eam Mathematici ita: Effectus plenus aequipollet caussae plenae ſeu uiribus cauſſae integris. Alii ita: Omnis cauſſa producere debet effectum sibi aequalem, adeoque ſe nec maiorem, nec minorem.
+
+[p. 251] De principiis et cauſſis. lGES u 251 Ell morem. Conſ. Erneſti diſputat, de Emendatione Voluntat. per ſaltum, XII. Lipſ. r730. hab.
+
+§. 370. Cauſſa, quatenus eſt caussa, et effectus ſunt ſimul, nec tempus ullum inter caussam efficientem et effectum interiectum eſt. Demonſt?. Cum enim cauſſa ſit principium, 37) principium autem et principiatum ſint ſimul, 6. 346.) intelligis, cauſſam et effectum esse ſimul. Quae in nota ad ſꝗ. 36.) ſubmonuimus, ea hic repeti, et applicari poſſunt.
+
+s /;m Caussarum externarum altera eſt caussa finalis, quam nunc ita exponemus, ut a) quid ſit finis, B) quotuplex ſit finis, B) quotuplex ſit finis, v) quae de caussa finali propositiones demonstratione indi- geant, indicemus. 3 S. 372. Id, cuius gratia 5 372 cauſſa efficiens operatur, siue quod per actionem ſuam cupit obtine- re, dicitur finis. X
+
+Cum quis e. gr. in academias commeat, prae- ceptoribusque limandum ſe perpoliendumque tradit, multos item libros dies noctesque legit et perscrutatur, tum eruditio, quam artium ſtu- dioſus omnibus his actionibus obtinere cupit, dicitur finis ſtudioſi. 1 $.373
+
+[p. 252] 252 De principiis et caussis.
+
+5. 35 Finem multiplici modo distinguere ſolent philoſophi. Si quis ita propter finem agit, ut, ſi nullum alium ſibi propoſitum haberet, ob hunc ſolum ageret, tum eiusmodi finis dicitur finis princeps siue principalis. " Finis autem ſecundarius siue minus principalis eſt, propter quem quis ita agit, ut, ſi non praeterea alium ſibi propoſitum haberet, non ageret. Caius e. gr. extra portam exſpatiatur, idque ideo, ut ſanitatem labefactatam reſtituat in integrum. Simul uero, commodam hoc ipſo uiſendi amici cuiusdam occaſionem nactus, intendit deambulatione, ob ſanitatem inprimis susceptâ, ſalutare et conuenire amicum ſuum Hic, ut j uides, deambulationis finis princeps uel primarius eſt sanitas, finis uero ſecundarius eſt amici ſalutatio.
+
+Finis proximus dicitur, qui, nullo alio mæ diante, intenditur. Remotus uero finis eſt,
+
+ſ qui non, niſi alio, uel aliis finibus mediam- 3 tibus, obtinetur. 1 Cum e. gr. Caius in tabernam librariam ſe confert, tum ideo eam uiſitat, ut librum ſibi neceſſarium coẽmat, librum uero ideo ſibi comp* rat, ut ex eo eruditionem hauriat. Finis. proximus eſt emtio libri, remotus uero eruditionis acquiſitio. Finis
+
+[p. 253] De principiis et caussis. 253 Finis autem ille remotus, in quem ceteri omnes reſoluuntur, et propter quem omnes alii sunt, dicitur ultimus, qui propter nullum alium finem eſſe poteſt. E. gr. omnium actionum, quas demum cunque suscipimus, finis ultimus debet eſſe illuſtratio gloriae diuinae. Ad hanc enim omnes actiones, omnesque actionum fines noſtri tendere debent. Ceteri fines, qui ſunt propter ultimum, dicuntur intermedii. Scholastici adhuc finem in finem cuius, et finem cui diſtinguunt. E. gr. Scripturae sacrae finis cuius eſt salus aeter- na. Si enim quaeras, cuius gratia ſcriptura ſacra eſt data? re- ſpondebis: Salutis aeternae gratia. Finis autem cui Scripturae S. ſunt omnes homines. Si enim interrogaueris me: cuinam in ſalutem (inem ;3u gute) eſt data Scriptura S.? Re- ſpondebo: Omnibus hominibus. Finis externus Scholaſticis eſt, qui non eſt in poteſtate mea. Finis uero internus eſt, qui eſt in poteſtate mea.
+
+s 33. Medium uocatur, quod in ſe continet rationem, cur finis exiſtentiam conſequatur. Medio opponitur impedimentum, quod nihil eſt aliud, quam id, quod in ſe continet rationem, cur aliquid ad exiſtentiam non perueniat.
+
+5. 39. A caussa finali differt cauſſa impulſiua, quae uel externa, uel interna eſt. Caussa X impub.
+
+[p. 254] 254 De principiis et cauſis.
+
+impulsiua interna, quam ueteres ĩę»yguẽ uocant, eſt, ſi rationes, uoluntatem ad aliquid agendum determinantes, in ipſo agente continentur. Si uero rationes, ad actionem nos commouentes, a rebus externis petuntur, tum illae rationes uocantur caussa impulſiua externa, Graecis προκαταρκτική Deus e. gr. mittebat filium in hunc mundum, salutis nobis restituendae cauſſa. En finem Ipſum ad hoc ipſum ſuſcipiendum commouebat ex parte 2 ſui immenſa ſua bonitas et misericordia, En caussam impulsiuam internam!
+
+Ex parte generis humani ipſum determinabat miſeria hominum maxima u, u FEltt llit ma. Ep cauſſam impulſiuam externam
+
+5 5. Omnis finis ſupponit ens intelli- F ciadã
+
+EEE gens, nec probari adeo poteſt finis exiſtentia, nisi antea probata et euicta ſit entis intelligentis existentia. Demonstr. Cum enim finis ſit id, quod cupit cauſſa efficiens per actionem ſuam obtinere, (§. 372.) omnis autem ille, qui cupit quid, debeat habere intelligentiam, quia, quod aiunt, ignoti nulla cupido, intelligitur, omnem finem ſupponere ens intelligens. 5. 375:
+
+[p. 255] mr
+
+De principiis et caussis.s. 2%5
+
+5 93. Qui uult finem (serio, et, ut uete- res loquuntur, uoluntate efficien- tiae,) etiam uelle debet media. Demonſtr.
+
+Cum enim medium ſit id, quod continet rationem in ſe, cur finis ex- istat, (§. 375.) id autem, quod in ſe continet rationem, cur alterum exiſtat, dicatur cauſſa alterius, (§. 351.) conſequens eſt, ut medium ſit cauſſa finis, et finis ſit effectus medii. Cum itaque nullus effectus ſine cauſſa eſſe queat, (8..363) etiam finis ſine mediis exiſte e non potest. Quicunque itaque uult finem, uelle etiam debet media, ſine quibus nullus finis obtinetur.
+
+4: 379: Cum medium contineat rationem in ſeſe, cur finis exiſtat, (I. 375.) facile uides, medium prius exiſtere debere fine. Dumque propter finem uolumus media, 378) finis recte primum in intentione, et ultimum in executione, eſſe dicitur.
+
+5. 580. Materia siue caussa materialis, (haec eſt cauſſarum internarum prima) eſt id, ex quo conſtat
+
+[p. 256] 256 1 De principiis et caussis. 1 conſtat ens compoſitum, ut e. gr. lignum eſt materia, ex qua conſtat menſa.
+
+Haec materia dicitur materia ex qua, ut ita discernatur a materia in qua, quae alias dicitur ſubiectum inhaeſionis, et a materia, circa quam, quam appellamus obiectum. Eſt ſcilicet obie- tum id, in quo actio mea uerſatur. E. gr. Co- Coloris albi materia in qua, ſiue ſubiectum in- haeſionis, eſt paries. Obiectum autem ſtudioſi * Theologiae, siue id, in quo elaborat, eſt theologia.
+
+Formam efficiunt rei omnes illae notae et determinationes eſſentiales, rem aliquam  conſtituentes.
+
+E. gr. rationalitas eſt forma hominis, per rationalitatem enim homo eſt homo, et ab omnibus aliis rebus diſcernitur.
+
+E. gr. rationalitas a cauſſa efficiente de.
+
+pendet, ut res aliqua exiſtat, ſic a forma dependet, ut res aliqua talis exiſtat. Adeoque forma inter cauſſas referenda eſt. &r des. Cauſſae.
+
+5. 383:
+
+[p. 257] De ſigno et signato. 257 i 5. 383. Forma dat Eſſe rei. Demonſtr. Cum enim per formam ſiue caussam formalem nihil aliud Intelligamus, quam complexum determinationum eſſentialium, ũ 381) per determinationes autem eſſentiales praeciſe res aliqua haec res ſit, et non alia; (§. 66.) intelligis, formam dare rei ſuum eſſe, alii adhuc addunt, dat forma di- ſtingui et operari.
+
+C AP. XVIII. DE hl
+
+N SIGNO ET SIGNATO. 5. 384: Signum est id, cuius idea excitat ideam al— terius, ſiuę, ut VVolfius definit, ſignum eſt, ex quo alterius praeſentia, uel aduentus uel praeteritio colligitur.
+
+E. gr. Illuminationes ſunt in natali die principis ſigna gaudii. Cum enim tibi repraesentaueris lampades accensas, oppido succurret tibi hoc ipſo gaudium, in animis ciuium excitatum Idea in lampadum excitat in te ideam gaudii,
+
+R s- 3859
+
+[p. 258] De ſigno et ſignato. 5-=
+
+æz
+
+5. 385- Id, quod ex altero colligitur, ſiue cuius idea excitatur, dicitur signatum, uti in priori exemplo gaudium, per lampades signifi- catum. §. 386. : Si res, quae ſignificatur, praeſens eſt, tum ſignum dicitur demonſtratiuum, ſi res autem futura fuerit, appellatur ſignum prognoſticum, ſi autem res ſignificata praeterita eſt, tum ſignum uocamus rememoratiuum ſiue memoriale. Signum o neceſſarium eſt, inter quod et rem ſignificatam nexus eſt necessarius, ſignum uero arbitrarium eſt, quod ab arbitrio humano pendet,
+
+#### E. gr. Fumus eſt ſignum neceſſarium ignis, ſed
+
+uerba ſunt ſigna arbitraria conceptuum Poteramus enim ideas noſtras aliis ſignis, nutu e. gr. aut manibus indicare, id quod demonſtraui in Philos-
+
+Rationali 54. Cap. II. de Usu Verborum.
+
+FINIS ONTOLOGIAE SIVE PHILOSOPHIAE PRIMAE 1 META auui
+
+[p. 259] De coſmologia in genere. 259
+
+METAPHYSICES PARS II. COSMOLOGIA GENERALIS.
+
+CAP. I DE
+
+COSMOLOGIA IN GENERE. §. 388. cosmologia generalis eſt nihil aliud, quam V ſcientia mundi in genere.
+
+- Quae definitio ut rectius intelligatur, huiusque ſpeciatim diſciplinae indoles ac natura uſusque item amplissimus cuique manifeſtus fiat, ad ſequentia uolo attendi.
+
+### I. Primus, qui doctrinam de mundo in artis formam
+
+redegit, eamque ſyſtemati metaphy- ſico inſerendam curauit, fuit illuſtris VVOL- FIVS, quem, nouimus, notiones generaliores, ad mundi cognitionem pertinentes, non di- stincte modo explicaſſe, ſed eiusmodi quoque de mundo theoremata accurate demonſtraſſe, quae, in physicis solidiorem consecuturo ſcientiam mirifice inſeruire poſſunt. Ipſum audiamus VVOLFIVM. Nouam quandam, inquit, diſciplinam condere coepi, quam Cosmologiae Transcendentalis nomine compellare ſoleo, in qua ueritates maxime arduae de uniuerſo materiali explicantur ad mentis humanae naturam
+
+V_ R 2 inti- R2 1
+
+[p. 260] 260 De cosmologia in genere intimius cognoſcendum et de Deo ex lumine rationis accuratiora ratiocinia contexenda adpri- me utiles. Conf. luculenta eius commentatio de differentia nexus rerum ſapientis et fatalis. S. II. I.
+
+Ad definitionis praeſtructae intelligentiam uel maxime pertinet illud, ut, quotuplici ratione uocabulum, mundi accipiatur, diligenter obſeruemus. Scilicet cum noſtros aperimus oculos, tum terram, multis uariisque repletam corporibus, tum caelum, innumeris diuerſique generis exornatum ſtellis, contuemur. Quae duo magna corpora, nostris expoſita oculis, aliisque condecoratis corporibus, uocare conſueuimus mundum aſpectabilem. De quo quidem mundo aſpectabili cum et phyſica et aſtronomia exponat, intelligis, eum a nobis in cosmologia tranſcen- dentali siue generali neutiquam pertractari. III.
+
+Quid ergo illud tandem eſt, quod ad co- ſmologiam generalem ſiue tranſcendentalem pertinet? Coſmologiam generalem conſtituit explicatio illarum notionum, quae, ab hoc, qui exiſtit mundo indiuiduo abſtractae, mundo, generatim ſpectato, conueniunt. Demonſtrantur quoque in cosmologia generali eiusmodi positiones, quae, quia sunt uniuersaliores latissimeque patent, in phyſicae pertractatione, fundamenti loco, ſubſternuntur. Quare cosmologiam generalem VVOLFIVS percommode appellat co- smologiam transscendentalem. Conf. Cosmol. Lat. p. I. l4 aul
+
+[p. 261] De Coſmologia in genere. n61 i
+
+E ESEA Coſmologia generalis ſiue transscendentalis recte ad metaphysicam i refertur. l
+
+Demonſtr. Cum enim in metaphyſica no- ll tiones, a rebus indiuiduis abſtractae, et iisdem Jll communes, diſtincte explicentur, 4) in il in è coſmologia autem generali eae exponantur l in notiones, quaę, ab hoc, qui exiſtit, indiuiduo mundo abſtractae, mundo, generatim ſpectato, conueniunt, (§. 388.) non obſcura eſſe por-m 'SENE T eſt cauſſa, cur coſmologia generalis ad meta- TEIũ rum phyſicam referatur. nm Inm
+
+ſin hi Coſmologiae generalis plures omnino am- fiu plioresque ſunt uſus, quam ut a nobis hic poſ- ſint enumerari. Praecipuae uero utilitates ſe exſerunt in Physica, Theologia naturali, et Psychologia.
+
+Qui cum fructu phyſicam uolunt pertractare, ii, in peruidenda expendendaque hac rerum uni- uersitate occupati, eo uel maxime debent conniti, ut generalem ſibi de mundo conceptum forment, legesque, quibus corporum mutationes conformantur, rite perſpectas habeant. In Theologia uero naturali, dici non poteſt, quos quantosque tibi Coſmologia praeſtet uſus. ]l
+
+[p. 262] 262 De notione siue conceptu mundi.
+
+4 Dei enim existentiam nunquam demonstrabis, ni- ſi mundi ſtabiliueris contingentiam.  uero mundi ecqua ratione ita perſpicies, ut de eadem certus ſis atque conuictus, niſi, quae coſmologiae propria ſunt, principia ex eadem tibi fuerint familiaria? Ad alias denique diſciplinas quod attinet, eas uel ideo multum cosmologiae de- bere exiſtimauerim, quod in coſmologia tradatur l diſtributius doctrina de nexu, qua carere disciplinarum nulla facile poteſt. Vti enim rerum connexio ubiuis ſuum obtinet locum, ita in diſciplinis praeſertim ſcientiisque poſitionum notionumque nexus utramque facit paginam. Conſ. ea, quae acutiſſimus Bilfingerus in tract. de Origine et per miſſione mali copioſius de utilitate doctrinae de nexu diſputauit.
+
+7 x ſi 54 l
+
+CAP. II.
+
+NOTIONE SIVE CONCEPTV MVNDI. è 5 391
+
+In philoſophiae rationalis inſtitutionibus p.268.
+
+rationem a nobis, memini; eſſe commonſtratam, quam inire illos decet, qui definitiones uniuersaliores ex caſibus B indiuiduis a poſteriori eruere allaborant. Ел Quare,
+
+[p. 263] De notione siue conceptu mundi, 263
+
+Quare, ſi diſtinctam completamque mundi, generatim ſpectati, notionem formare uelis, opus eſt, ut, ui regulae, ex Logica adductae, hunc, qui exiſtit, indiuiduum mundum, quem uocant adſpectabilem, attente contueris, atque ita, abstractionis ope, generaliorem tibi mundi conceptum formes.
+
+§. 392. Cum oculos noſtros uel ad caelum tollimus, uel demittimus ad terram, eaque, quae ſunt ante pedes, contemplamur, tum, plurima corpora obuerſari oculis noſtris, deprehendimus, animalia, e. gr. arbores, frutices, flumina, ſolem, ſidera innumera, quae omnia simul exiſtunt. Ea, quae ſimul exiſtunt, dicimus entia ſimultanea. (§. 240.) E. patet, in hoc mundo dari res simultaneas. §. 393.
+
+Experientia praeterea nos condocet, horum, quae diximus ſimultanea, alia oriri, alia uero interire rurſus et abeſſe. Diem nox, noctemque dies, aeſtas hiemem, hiemsque aeſtatem excipit, nec ſol, nec luna, nec aliae denique ſtellae, in eodem ſemper ſitu permanere cernuntur. Cum uero, quae ſe inuicem ſequuntur, dicantur entia succes R 4 succes-
+
+[p. 264] 26: X notione ſiue conceptu mundi. succeſſi-1, 245.) perspicuum eſt, exiſtere in Bem7z& hoc mundo res successiuas. §. 394. 2 Omnia haec, uel ſimultanea. uel ſucces- ſiua entia, quae in hoc,  quantum eſt, (eſt autem maximum) uniuerſo deprehenduntur, ſunt omnino eiusmodi, ut poſſint immutari et eſſe aliter. Omnia, quae in hoc uniuerſo tibi obuia ſunt, oculis, mente, ac cogitationibus percurre, et ita, opinor, deprehendes eſſe comparata, ut, aliter eſſe poſſe, oppido perſpicias. Quid obſtat, quo minus potuerint pauciores, quam nunc ſunt, ſtellae uel planetae exiſtere? Quid inde emerget abſoni, ſi contendero, maiorem plantarum uel animalium numerum in hoc uniuerſo dari poſſe? Quid impedit, quo minus eo tempore, quo ſol lucis ſuae radiis terram colluſtrat, effusa nebula ſolis intercipiat radios, et hor- Eàax 5 renda ſaeuiat tempeſtas? Quo igitur cunque oculos tuos uertis, omnia in hoc mundo eſſe mutabilia, uides ac ſentis. Elitã s5 395. Deprehendimus porro per e experien tiam, eam eſſe rerum, in hoc mundo obuiarum, ad ſe inuicem relationem, ut uel ale ram rem res altera producat, uel unum ſit 13 propter 1
+
+[p. 265] De notione siue conceptu mundi. 265 propter aliud. Ecquis neſcit, pluuiam calidam et moderatam eam producere terrae foecunditatem, quae optari modo poteſt? Quem latet, ſolem ideo cum terra ceterisque planetis una exiſtere, ut terra illuminetur ab eo et calefiat? ſi itaque uerum eſt, ut eſt, uel alterum ab altero, in hoc mundo, produci, uel unum eſſe propter aliud, intelligitur, omnia in hoc mundo eſſe ita comparata, ut unum eorum in ſe contineat ratio- nem ſufficientem alterius. Cum uero, quae ita ſunt comparata, ut eorum unum rationem ſufficientem contineat alterius, dicantur connexa, 341) manifeſtum eſt, omnia in hoc mundo eſſe connexa,.
+
+§. 396. His itaque omnibus in ſummam collectis, colligimus; notionem mundi genuinam, foecundam, et uniuerſalem hanc esse, quod mundus, generatim conſideratus, nihil ſit aliud, quam ſeries omnium rerum simultanearum, 352) ſucceſſiuarum ſ. 35) mutabilium, 304) et inter ſe connexarum ſ- 35- Hanc mundi definitionem, quam cum VVOLFIO et THVMMIGIO, aliis, communem habemus, tantum, quantum ſatis eſt, expoſuimus, et ab aduerſariorum exceptionibus uindicauimus in philoſophia definitiua. Sin minus haec, (quae R 5
+
+[p. 266] De notione ſiue conceptu mundi. 1 (quae tamen ipſa nititur experientia,) definitio tibi probata fuerit, mundum dicas complexum rerum creatarum.
+
+Ad illuſtrandam hanc definitionem ſequentia adhuc adiicimus. Obserua nimirum (a) nos * ſtudio dicere, mundum eſſe ſeriem omnium rerum inter ſe connexarum. Sic intelligi poteſt, non quaecunque connexa ſtatim conſtituere mundum, ſed i eo usque extendi mundum, quo- usque res ſunt connexae. Ita quoque ſua ſponte cadunt et irritae fiunt obiectiones, contra definitionem mundi a Cel.
+
+ſlil LANGIO formatae. Vid. eius bescheidene und ausführliche Entdeckung. p. 58. (3) Data dicimus opera, rerum mutabilium Sic excluditur Deus a mundo, ita, ut ipſe non conſideretur, ut pars mundi. Deus enim eſt immutabilis, id quod infra in Theologia naturali uberius ſumus commonſtra- turi. (7) Non dicimus: rerum existentium: Vt hoc modo definitio non ad praeſentem modo mundum pertineat, ſed ad quamcunque aliam rerum connexionem, quae, praeter hunc, qui nunc existit, indiuiduum mundum eſſe poteſt, extendi queat.
+
+5. 397- Quandoquidem in mundi idea uel maxime ad rerum, quae ubiuis obuia eſt, connexionem attendendum eſt, id hoc loco operam dabimus, ut, quanta fieri poteſt, maxima perſpicuitate doctrinam de nexu rerum exb]
+
+I ponamus. 5: 398:
+
+[p. 267] De notione ſiue conceptu mundi. 26 i
+
+5. 39 Quae dicantur connexa, quaeue nexus ſit natura et indoles, a nobis breuiter commen-
+
+ſtratum eſt in Ontologia, 5 341) ubi ea con- nexa diximus, quorum unum continet in ſe rationem ſufficientem, cur alterum ſit, et ne- xum explicauimus per illam rerum ad ſe inuicem relationem, ui cuius unum continet in l
+
+I3ſl ſe rationem ſufficientem alterius. 'il Il
+
+Exempla harum notionum iam ſupra ſ. 341. ſup- n peditauimus, et plura omnino in ſubſequentibus in occurrent, cum, quot ſint connexionis rerum ſpe- n cies, nunc a nobis tradetur. ſh Iſl lt 5. 39 lll
+
+Tempus ſupra diximus ordinem in ſucces- h ſiuis; 245 ſi itaque A, et B, ita ſunt com t parata, ut A, in ſe contineat rationem, cur B, I ei ſuccedat, tum A, et B, dicuntur connexa ra- tione temporis. r Sic e. gr. nocturnae diurnaeque Caii commeſſationes, et debilis eiusdem ualetudo, effoetumque corpus ſunt connexa ratione temporis. Pluuia et h terrae foecunditas ſunt itidem ratione temporis connexa. Effoetum enim corpus succedit commeſſationibus, et foecunditas ſequitur plu- uiam, tanquam cauſſam foecunditatis. il
+
+F. 400. Spatium, diximus, eſſe nihil aliud, quam ordinem simultaneorum. (§.240.) Quae- : cunque
+
+[p. 268] De notione siue conceptu mundi. mmi cunque igitur ita ſunt comparata, ut eorum unum in ſe contineat rationem, cur alterum cum eo ſimul ſit, illa dicuntur connexa ratione ſpatii. Sic e gr. ſol et terra simul; exiſtunt, et in terra reperiunda eſt ratio, cur ſol ipſi coẽxiſtat. Ideo enim ſolem Deus in coelo conſtitui uoluit, ut terra ceteraeque planetae illuminarentur ab ipſo et calefierent. Sol itaque et planetae ſunt connexa, non quidem ratione temporis, ſunt enim ſimul; ſed ratione spatii.
+
+5. 40 Quaecunque ſunt connexa ratione temporis, illa ſunt connexa per caussas efficientes. Demonstr. Cum enim, quae per cauſſas ef- ficientes ſunt connexa, ea ſint ita comparata, ut eorum unum in ſe contineat rationem, cur alterum cum eo simul ſit, illa dicuntur connexa ra- tione spatii. Sic e. gr. ſol et terra simul exiſtunt, et in terra reperiunda eſt ratio, cur, ſol ipsi coëxiſtat. Ideo enim ſolem Deus in coelo conſtitui uoluit, ut ter- ra ceteraeque planetae illuminarentur ab ipso et calefierent. Sol itaque et planetae sunt connexa, non quidem ratione temporis, ſunt enim si- mul; sed ratione ſpatii. §. 401. Quaecunque sunt connexa ratio- ne temporis, illa sunt connexa per caussas efficientes. • Demonstr. Cum enim, quae per cauſſas efficientes sunt connexa, ea sint ita compa- rata, ut eorum unum in ſe contineat ratio- nem, cur alterum ſubſequatur, 337.) connexa autem ratione temporis ſint talia, ũ 39.) intelligitur, ea, quae connexa ſunt ratione temporis connexa esse per cauſſas efficientes. Sic pluuia et foecunditas terrae ſunt ratione temporis connexa, ũ. 399.) adeoque etiam ratione caussae efficientis. Pluuia enim eſt cauſſa efficiens, et foecunditas eſt effectus.
+
+5 40%
+
+[p. 269] De notione ſiue conceptu mundi. 2ę
+
+5 40. Experientia nos condocet, eorum, quae ſimul ſunt, et una exiſtunt, alterum alteri in uniuerſo praeſtare uſum Dum igitur infra in Theologia naturali demonstrabitur, hos ipſos uſus eſſe fines Dei ab ipſo intentos, certum est, Deum ideo res in uniuerſo uoluisse ſibi inuicem coẽxiſtere, ut alterum alteri uſum praeberet. Cum igitur unum ſimultaneorum contineat in ſe rationem, cur alteri co- &iſtat, ſcilicet, ut ex intentione ſiue fine Dei ei hunc uel illum uſum praestet, datur etiam nexus in mundo per caussas finales. Conſtat, ſolem, ex intentione et fine Dei ideo u exiſtere cum tellure ceterisque planetis, ut hae ab ipſo illuminarentur, et calefierent. Solem itaque ceterosque planetas eſſe connexa per caus- fas finales, abunde intelligitur.
+
+§. 403. Quae connexa sunt, ratione ſpatii, illa ſunt connexa per caussas finales. Demonstr.
+
+Cum enim, quae connexa ſunt ratione ſpatii, ita ſint comparata, ut eorum unum ĩn ſe contineat rationem, cur alterum exiſtat, (§. 400.) connexa autem per cauſſas finales ſint talia, 372) intelligitur, ea, quae
+
+[p. 270] L 270 De notione ſiue conceptu mundi.
+
+1 1 quae ſunt connexa ratione ſpatii, eſſe connexa per cauſſas finales. Dum ſucceſſiua connexa ſunt per caussas efficientes, (§. 401.) et ſimultanea per cauſſas finales, (§. 403.) nexum nonnulli definiunt per dependentiam a causis efficientibus et finalibus.
+
+L $. §. 404. Cum in mundo404. hoc aspectabili omni, quaecunque ſenſibus obuia ſunt, cauſſam ſui habeant efficientem, (§ 363.) et caussam fina lem, (ob principium rationis ſufficientis) pa: tet, dari in hoc mundo aſpectabili nexum, per cauſſas efficientes et cauſſas finales. Si te uox NEXVS offenderit, id tantum concedas, omnia, quae in hoc mundo exiſtunt, gaudere caussa efficienti et cauſſa finali. Quod quidem mentis inops ſit, qui negare audeat. a §. §. 405. t
+
+Ex his conficitur, per ſimultanea et successiua connexa HAEC, nec alia, mundum quemlibet eſſe praeciſe HVNC mundum, nec alium. E. poſito alio rerum nexu, mundus ALIVS inde emergit. Cui haec propoſitio uidebitur paradoxa, ille et principium indiuiduationis, in Logicis explicatum, S. 100, et ea, quae praecedentibus demonſtrata ſunt, probe expendat. Addo, illu- ſtrationis gratia, ſequentia. Concipe tibi ſeriem hanc, A, B, D, E, H, G, concipe hanc seriem
+
+[p. 271] De notione siue conceptu mundi. 271 F 1 em, esse eiusmodi, ut omnia in ea per caussae fina- les et caussas efficientes sint connexa. Iam fingas, nos tranſponere has literas ita, ut loco A, ſubſti- tuatur G, et loco B, ponatur H, locum denique 78 D, excipiat E Tunc emerget haec ſeries, G H, E, A, B, D. Annon haec ſeries, et haec con- nexio literarum plane ALIA eſt, et a priori diverſa? ſtat itaque ſententia firma et inconcussa: poſitis aliis causſis finalibus et efficientibus, poſitoque alio rerum per caussas efficientes et finales nexu, ponitur ALIVS mundus, quia mundus alius aliusue per aliam aliamue rerum simultanearum et successiuarum connexionem conſtituitur.
+
+§. 406. 9. Ex nexu rerum ſtabilito multa profluunt corollaria, ſcitu perquam neceſſaria, ueritatibusque utiliſſimis intelligendis multum in- seruientia. Quas propoſitiones paullo diſtributius nunc ſumus enumeraturi.
+
+§. 407. Ex nexu rerum intelligitur, in natura nihil fieri per saltum. Demonſtr. Per ſaltum quid fieri dicitur in natura, quando aliquid concipitur fieri ſine ratione ſufficienti, i. e. quando effectus aliquis contingere dicitur ita, ut non praecedant omnes illae circumſtantiae et muta- tiones, L
+
+[p. 272] 272 De notione ſiue conceptu mundi.
+
+tiones, quaę ad hunc effectum praeſtandum ſunt neceſſariae. Cum uero, ſi nexus in uniuerſo admittitur, eo ipſo admittatur id, ut quodlibet habeat rationem ſui ſufficientem, (341.) manifeſtum eſt, ex nexu rerum ſtabili- to intelligi, cur nihil in uniuerſo contin gere poſſit per ſaltum. lbE ciæ Cel. Bülfingerus in dilucidat. philoſophicis p. 143. ſaltum deſinit: cum ab extremo ad ex- tremum deuenitur, non transeundo per inter- media. Huncque ſaltum uel abſolutum eſſe, ait, uel respectiuum. Illum, dicit, tum contingere, cum effectus plane ſine omni ratione sufficienti et caussa efficiente ad actum perduci fingitur. Talis ſaltus absolutus eſ- ſet, cum eclipſis ſolis in uniuerſo accideret, quae neque a caussis naturalibus, neque a Deo praepotenti eſſet producta. Atque hunc ſaltum in natura locum habere non poſſe, oppido intelligit is, qui, uel principium rationis ſufficientis, uel ea, quae hactenus de nexu rerum diſputauimus, a r. probæ expendit. Saltum reſpectiuum illum uocat, ubi mutatio in uniuerſo cum ratione quidem sufficienti euenit, ſed pauciori tamen tem: C pore ad exiſtentiam perducitur, quam alias ad eiusmodi mutationem producendam requiritur. Sic e. gr. Apoſtolorum Peritia Linguarum ante minus cognitarum, non quidem ſine omni caussa et ratione sufficienti in ipſis exiſtere occipiebat; ſed celeriori tamen tempore illam linguarum peritiam impetrabant, quam alias ad linguas ad- diſcen-
+
+[p. 273] De notione siue conceptu mundi. 2 3 discendas requiritur. Saltus itaque hic obtine- bat locum, ſed respectiuus ille, non absolutus.
+
+§. 408. Ex rerum nexu clarum est, in nullo mundo poſſe quicquam euenire fortuito et casu. Demonstr.
+
+Cum enim euentus caſu et fortuito accidere tum dicatur, cum ille omni ratione deſtituitur, nexu autem rerum con- cesse, omnia, quae eueniunt, cum ratione eueniant, (§. 31.) patet, ex rerum nexu per- ſpicuum eſſe, cur in mundo nil poſſit caſu et fortuito accidere. Si id caſu et fortuito accidere dicitur, cuius nos ratio sufficiens latet, tum equidem concedimus, multa fieri caſu, et fortuito. Sed casu nihil accidit, cum, quod opinantur complures, id caſu accidere dicitur, quod omni ratione ſufficienti destituitur.
+
+§. 409. Neceſſaria hinc conſequentia efficitur, ſub- Lato rerum nexu, res poſſe in uniuerſo fieri per ſaltum. Viderint itaque illi, qui nexum rerum adeo impugnant, quomodo positionem illam, a ueterrimis philoſophis dudum defenſam, ſaluam tueri queant: Natura nil facit per ſaltum.
+
+hn. l li 5 S5410.
+
+[p. 274] ti l Ill 274 De notione ſiue conceptu mundi.
+
+§. 410.
+
+a 0,1ſper ſt turſpicitur Nexu rerum aſſert i ll exinde admirabilis quaedam Dei sapientia, disponens omnia mirifice et prouida i c4 innumerabilium utilitatum et commoditatum. u; n; Demonſtr. Ponamus, dari nullum in uniuerso uerſo nexum, tunc conſequens eſt, ut finis obmTiũ timeatur ſine mediis, effectus ſine cauſſis. Si- nis enim et media, ut effectus, et cauſſae, con- ũ- I5 mæ lti RIT iii
+
+J nectuntur, ũ6 378.) ſublato itaque nexu rerum, non opus eſt, ut media ordinentur ad n finem. Cum uero ſapientiae ſit, ordinare media ad finem, (id quod notio sapientiae requirit,) palam eſt, poſita et aſſerta rerum in uniuerſo connexione, poni et aſſeri ſapientiam Dei admirabilem, qua nexa inter ſe omnia Elli 5 d oſita ſunt ſublato contra ex mundo rerum nexu, tolli et negari sapientiam nexu, am diuinam. tli Perſpexit hoc et accurate demonſtrauit, ſi LEEES quisquam, perſpicaciſſimus Bülfingerus, qui Flilll cum in dilucidationibus p. 156. tum in libro Flltll de origine et permissione mali, ex nexu rerum, tanquam ex lucidiſſimo quodam ſpeculo, cognoſci ſs ſummm ſummi Numinis ſapientiam, eleganter vſ oſten-
+
+[p. 275] De notione ſiue conceptu mundi. 275 Item: ostendit. Vbi nexus eſt, inquit, mediorum et finium, ubi fines poni per media intenduntur idonea et obtinentur, ibi eſt ſapientia. Item: Tanto plus ſapientiae in mundo demonſtratur, quanto Plus nexus continet finalis. Quanto igitur harmonia rerum, ceteris paribus, maior eſt, quo Plures res ſe ita inuicem reſpiciunt, ut una ſit per et propter aliam, tanto mundus eſt diuina sapientia dignior.
+
+5. 4 Ex nexu rerum perſpicuum eſt, omnes euentus in uniuerſo contingentes, habere ſuam ueritatem determinatam. Demonſtr.
+
+Vi nexus rerum habet quilibet euentus cauſſam ſui efficientem, (§. 241.) quae cauſſa efficiens, cum effectus contrarios eodem tempore producere nequeat, (§. 368.) efficit, ut praeciſe effectus hic ſe- Quatur, nec alius. Efficere uero, ut aliquis effectus praeciſe hic ſit, et non alius, eſt effectum determinare, (§. 28.)0) E. ' quilibet effectus siue euentus eſt determinatus, siue habet ſuam ueritatem determinatam. Poterat haec propoſitio ita quoque demonſtra- ri: Determinatum eſt id, de quo aliquid ita praedicatur, ut oppoſitum eius, quod Praedicatur, ſimul excludatur. 13330 Iam
+
+S 2 uerę
+
+[p. 276] De notione ſiue conceptu mundi.
+
+L uero omnis euentus in uniuerſo eſt eiusmodi, ut euentus oppoſitus ſimul locum non habeat, (quando e. g. pluit, fieri non potest, ut ſimul non pluat) E. omnis euentus in uniuerſo eſt determinatus, ſiue habet ſuam ueritatem determinatam.
+
+Hanc propositionem, miror, cur tantopere impugnauerint nonnulli, qui ſyſtema VVolfianum ſub examen uocarunt. Credo, omnes contradictiones et cauillationes ex uoce DE- TERMINATI, minus recte intellecta, ꝓroſluxiſſee Adeoque ſi te uocabulum DETERMINATVM offenderit, minusque, quae huic uoci ſententia ſit ſubiecta, capere poteris, ſubſtituas, per me licet, uocem CERTI. Dic itaque: Omnis euentus in uniuerſo eſt CERTVS. Non te, credo, de hac poſitione dubitare amplius poſſe. Sed ſi dubitas, expende ſequentia: Aut euentus, in hoc mundo ad actum per- ueniens, eſt praeteritus, aut prae- ſens, aut futurus.
+
+De euentu praeterito, non habes, cur dubites, illum certo accidiſſe Cum e. gr. heri aurora borealis in coelo illuxit, quis eſt, qui, hunc euentum certo adfuiſſe, neget? Quod ad euentum praesentem attinet, illum itidem certo contingere, non te dubitare exiſtimo, ſi ſen- ſu gaudes communi. Futurus autem euentus num ſua gaudeat determinata ueritate, de eo poterat solicitius quaeri, ſed ad haec, quae- ſo, attendas. Aut futuri euentus praesciuntur a Deo,
+
+[p. 277] De notione siue conceptu mundi. Deo, aut non praeſciuntur. Hoc, caue, cum Socinianis affirmes. Sin praeſciuntur a Deo, tum ab ipſo praeſciuntur, ac ſi iam facta eſſent, adeoque tanquam certo futura. Praeclare Henr. Hoepfnerus in Loc. Theol. p. 126b Deus praeſcit rem omnem, non aliter ac ſi iam facta eſſet, quod autem factum eſt, id neceſſarium et immutabile, non simpliciter, ſed ex hypothesi. Bülfingerus in dilucidationibus, p. 62. Is, inquit, qui omnia exiſtentia cum ſuo nexu perſpicit, poteſt in omnibus ſimul omnia intueri, coexistentia non ſolum, ſed etiam ſuccedentia.
+
+Summe Reuerendus Riebouius, sacrorum Gottingensium Antistes, et exquiſite ſolideque eruditus et de re ſacra ac literaria immortaliter meritus, in eleganti libro, quem inscribit: Fernere Erläuterung 2c. determinatam omnium euentuum ueritatem, perspicue contra nonnullos aſſeruit, atque in eorum gratiam, qui ueritatem non tam ex rationum ponderibus, quam ex auctoritate testimoniisque eruditorum aeſtumant, complurium Theolog9rum teſtimonia adduxit. Petrus, inter alia inquit, 5wird sauffen, oder wũtò niſt sauffen 3u ꝗſ cher RJeit, Das sind Dinge, die sich einander mies widersprechen: denn nun Petrus ist, so kan nur eines davon wahr ſe”n, und dus andere muss falsch seyn, entweder er wird sauffen, oder er wird nicht ſauffen ;3u gleicher Zeit, und GOtt weiß, welches wahr ist. Eins aber muß wahr seyn. P. 79. §.71. at heup
+
+S 3 Haec
+
+[p. 278] De notione ſiue conceptu mundi. A Haec ipſa certitudo futuritionis rerum determinata, (ita enim appellat Bilfingerus) a non- nullis uocatur neceſſitas hypothetica. Quae ſi in corporum mutationibus inuenitur, dicitur phyſi- Ga, ſi in ſpiritibus occurrit, moralis. Atque hinc eſt, ut nonnulli, omnes euentus in hoc mundo, tum phyſicos, tum morales, hypothetice neceſſarios eſſe, aiant. Quod quamuis a nonnullis fuerit pernegatum, idem tamen asseruisse uidentur omnes illi ueteres Metaphyſici, qui hunc pro- pugnarunt canonem: Poſita cauſſa, neceſſario ponitur niæ?
+
+tur effectus. Mallem uero, omnes philoſophi, miſſo neceſſitatis uocabulo, certitudinis uoce hic uterentur, idque non tam ideo, ut hoc modo quempiam deuitarent errorem, ſed ut of- fendiculi nullam praeberent materiam.
+
+ittæ e/';
+
+§. 412. Adſtructo in rerum uniuerſitate nexu, tollitur inſimul et refellitur omne fatum fatalisque omnis neceſſitas, quam alios, ſcimus, acriter admodum ſerioque defendere, aliis uero,  nihil tale merentibus, fruſtra irritoque conatu imputari. Vt itaque, quam inimica ſit fato fatuo ſapiens rerum connexio, hactenus a nobis aſſerta, plenius intelligi queat, ſequentia uolo expendi.
+
+§. 413. Fatum, a fando dictum, ui uocis et etymi Fatum a fando dictum, id omne indicat, quod fatum quis eſt, ſiue quod
+
+[p. 279] De notione siue conceptu mundi. 279 quod decretum eſt. Ad loquendi uero uſum ſi attenderis, per fatum, comperies, intelligi ſemper quandam rerum neceſſitatem in uniuerſo.
+
+§. 414. 2 Haec ipſa neceſſitas fingitur 1) ab omnibus mediis motiuisque abſoluta, ita, ut effectus ſequi debeat, ſiue media et cauſſae adſint, ſiue minus. Quod dicitur Fatum Mu hamedanum. : Turci
+
+ſcilicet dicuntur quoduis periculum ſine ullo timore et tremore adire, quin etiam in loca pestilentissima ſe conferre, rati, ſi mors ipſis ſit fato deſtinata, non poſſe non ſe hoc ipſo momento, quo mori ob fatum debeant, mori, ſiue loca periculoſa adeant, siue euitent, ſiue uenenum bibant, ſiue minus.
+
+4I5. Altera neceſſitatis ſpecies, a Stoĩcis aſſerta, haec eſt. Stoici quidem non necessitatem, a mediis motiuisque abſolutam illam, defendebant, neque, totum caussarum nexum intrinſece et abſolute neceſſarium et ſine cauſſa, et immutabilem eſſe, aiebant, interim tamen uniuerſum cauſſarum nexum, affirmabant, dependere a decreto diuino immutabili et abſoluto, non habito reſpectu ad hominis propenſiones et actiones liberas.
+
+S 4 EX [p. 280] l 2890 De notione siue conceptu mundi. Ex quo Sronl ueque Iu.ii p patientiam et ἀπάθειαν deriuabant. Haec neceſſitatis species dicitur Fatum Stoicum. 3li
+
+5. 41. Aliam adhuc neceſſitatem in uniuerſo ho- minumque actionibus locum habere, contendebant quondam Chaldaei, qui, quicquid fiat, id ab influxu Astrorum immutabili de- pendere, credebant. Haec neceſſitas nominatur Fatum Aſtrologicum.
+
+Spinoza eiusque ſectatores id quidem docebant, et ad finem conſequendum opus eſſe mediis, et ad uoluntatem determinandam motiuis. Totum tamen cauſſ=arum nexum ſubſiſtere abſolute neceſſario, ſine cauſſa, et eſſe immutabilem in ſe ac plane aeternum. Quod eſt Fatum Spinozianum,
+
+5 as. Spinoza e. gr. ſtatuebat, aeque neceſſarium eſſe, me iam ſcribere, ac neceſſarium eſt bis duo efficere quatuor, aut triangulum habere tria latera.
+
+§. 418. Ad ultimam, quae quidem locum habere potest, necessitatis ſpeciem nunc deuenimus, ſcilicet necessitatem hypotheticam. Vi huius omnia in uniuerſo ita contingunt, ut, poſi-
+
+[p. 281] De notione siue conceptu mundi. 28I ta cauſſa, neceſſario poni debeat effectus. Totum tamen caussarum nexum, necessitate hypothetica locum habente, in ſe contingentem eſſe, et a cauſſa aliqua prima et sapientissima dependere, docetur. Quam necessitatem eventuum hypotheticam, aut, ſi mauis, certitudinem determinatam, uocant nonnulli Fatum rationabile siue rationi conſentaneum.
+
+5. 41. His fatorum ſpeciebus carptim et diſtincte explicatis, nunc, quae neceſſitas fatumque per rerum nexum tollatur, quae uero cum ipſo queat conſiſtere, exponemus.
+
+420. r Fatum Mubamedanum eſt nexui rerum plane aduer ſum.
+
+Demonſtr. Cum enim, nexu rerum aſſerto, quodlibet habere cauſſam ſui efficientem, affirmari debeat, ſ 341.) conſequens eſt, ut, quamdiu rerum nexus locum habet, nullus effectus ſine cauſſis intermediis, adeoque nullus finis ſine mediis, (§. 378.) obtineri queat. Quod cum ſit fato Muhamedano contrarium, 414.) ſequitur, ut nexus rerum cum fato Muhamedano conſiſtere non possit.
+
+S 5 421
+
+[p. 282] 282 De notione ſiue conceptu mundi.
+
+5. 42L Fatum Stoicum itidem cum rerum nexu conſiſtere non poteſt. Demonstr. Cum, ob rerum nexum, quodlibet rationem habeat ſui ſufficientem, ſ6. 34I. conſequens eſt, ut Deus, cur huic hoc, cur alteri illud, decreuerit, debeat habere rationem ſufficientem Illa ratio aut in Deo ipſo eſt, aut in obiecto extra Deum. Si in Deo ipſo eſt, tunc Deus uult, quia uult, decernit, quia decernit. Quod uero cum aduerſetur principio rationis ſufficientis, (§. 32.) palam eſt, non euentus dependere a diuino quodam decreto immutabili, ita, ut nulla habeatur humanarum propenſionum hominisque ſtatus ratio. Quo ipſo tolli, uides, fatum Stoicum. 415.) Fatum itaque Stoicum cum rerum nexu conſiſtere non poteſt.
+
+4æ. Fatum Aſtrologicum nexui rerum aduersatur et principio rationis ſufficientis. Demonſtr. Cum enim rationem eorum, quae in mundo eueniunt, quaęque homini accidunt, ſufficientem inueniamus in cauſſis aliis antecedentibus, in terra obuiis, non habemus
+
+[p. 283] De notione ſiue conceptu mundi. 283 bemus rationem ſufficientem, cur eam in immutabili Aſtrorum influxu quaerere nolimus.
+
+423. Quod autem denique ad neceſſitatem euentuum hypotheticam, quam nonnulli Fatum rationabile appellitant, attinet, eam, quidem, quis eſt, qui negare audeat, ſi, quemlibet euentum cauſſam ſui efficientem habere, ſciat. ſ6 363.) At, uti ſupra iam submonui, conſultius eſſe a uocabulo necesſitatis ſe abſtinere, quam ea uti, ita cuiuis etiam auctor ſuaſorque exſtiterim, ut, determinatam euentuum mundanorum certitudinem indicaturus, uocem fati miſſam faciat.
+
+Illustris Hoffmannus, Halenſium Medicus, immortalitate digniſſimus, in diſ=sert. de Fato Phyſico et Medico, ſuam de fato rationabili mentem perſpicue exponit. His, inquit, praemiſſis, ingenue et aperte profitemur, per fatum nihil aliud eſſe intelligendum, quam neceſſitatem, aut, ſi mauis, certitudinem quandam euentuum et effectuum, qui fuerunt, ſunt et erunt in universo, a certo rerum et cauſarum ordine, nexu, ac ſerie dependentem; atque adeo cum in rebus phyſicis et medicis, tum etiam in moralibus, politicis, quin imo ipſa in Theologia fatum, sano sensu acceptum, admitti poſſe existimamus. 5. 5et 10. Conf. Riebouius l. c. p. 49. ſqq. qui Dant-
+
+[p. 284] 284 De notione ſiue conceptu mundi.
+
+haerum aliosque Theologos orthodoxos, idem sentientes, adducit.
+
+5 434: Quamuis omnes euentus in uni- uerso habeant ueritatem suam- terminatam (p. 411.)
+
+et sint Hypothetice EEEEEEBESE neceſſarii, 433) ſunt tamen et manent contingentes, nexus- que eorum uniuersalis gaudet omni- no contingentia. Demonstr.
+
+Cum enim neceſſitas hypothetica euentuum eorum contingentiam neutiquam-
+
+### L. t— ,æ
+
+quam tollat, ſ6. 185 facile intelligitur, euentus mundanos, licet ſint hypothetice neceſſarii, eſſe et manere tamen contingentes, totamque rerum connexionem gaudere contingentia, quia oppoſitus nexus concipi adhuc poteſt poſſibilis. Omnes euentus, quoscunque libuerit, in hoc uniuerſo conſideres, nexumque omnium rerum, ſi potes, percurras, ubique nexum oppoſitum et euentus alios locum habere poſſe, comperies. Annon, cum pluit, caelumque nubibus obductum- ſtum eſt, fieri poterat, ut ſol ſplendeat, caelique ſerenitas blandiatur? Annon contra, cum ſol ſplendet, caelumque sudum eſt, poſſibile eſt, ut pluat, denſisque caelum obtenebrętur nubibus etc.
+
+S 45.
+
+[p. 285] De notione ſiue conceptu mundi. 285 §. 425.
+
+Ex quo conficitur, ipſum mundum, quantus quantus eſt, cum in eius conſtitutione, tum in euentuum conſecutione, eſſe contingentem.
+
+Demonſtr. Cum enim omnes euentus mundi, totaque euentuum connexio ſit contingens, 424.) ipſe autem mundus consti tuatur connexione euentuum, 495.) in- intelligitur, mundum, quantus quantus eſt, eſſe contingentem, cum in ipſius conſtitutione, (poterat enim etiam non exiſtere) tum in phaenomenorum consecutione, (poterat enim alius nexus locum habere.)
+
+5 496. Immediata hinc conſequentia haec fluit positio, quod plures mundi, siue, quod idem eſt, plures rerum connexiones posſibiles sint, praeter hunc mundum et hunc nexum rerum. Fac enim, non plures rerum connexiones eſſe posſiBiles, praeter hanc, quae exiſtit, tunc ſequetur, hunc mundum aſpectabilem, ſiue hanc, quae eſt praeſens, rerum connexionem eſſe unice posſibilem. Adeoque hic mundus erit ab- ſolute
+
+[p. 286] 286 De notione siue conceptu mundi.
+
+ſolute neceſſarius, omnisque tollitur contingentia. Doctrinam de nexu ſolide explicauit et aſſeruit VVOLVIVS in commentatione luculenta de nexu rerum ſapienti et fatali.
+
+5& 427. Eſſentia mundi alicuius conſiſtit in modo, quo res ſimultaneae et ſucceſſiuae ſunt inter ſe connexae. Demonstr. Cum enim eſſentia alicuius rei ſit id, per quod res aliqua praeciſe haec res eſt, nec alia, (§. 66.) per connexionem autem hanc nec aliam rerum ſimultanearum et successiuarum,  praeciſe hic mundus nec alius conſtituatur, (§. 405.) intelligitur, eſſentiam mundi alicuius conſiſtere in modo, quo res ſimultaneae et ſucceſſiuae ſunt inter ſe connexae. 5428. Quilibet mundus, dum exiſtit, debet eſſe ens unum. Demonstr. Cum enim ens dicatur unum tum, cum ea, per quae ens in eſſe ſuo determinatur, ſunt inſeparabilia, ſi hoc ens debet manere hoc ens, nec aliud, (§. 88.) nexus autem, qua caussas efficientes et finales, ſeu ſimultaneorum et ſucceſſiuorum, per quem hic
+
+[p. 287] De notione siue conceptu mundi. 287 hic mundus in eſſe ſuo determinatur, ſit in- ſeparabilis, quamdiu debet manere mundus hic, (õ. 405) manifeſtum eſt, quemlibet mundum eſſe ens unum.
+
+**§5**
+
+439: Mundus eſt ens compoſitum. Demonſtr. Quicquid conſtat ex partibus. inter ſe connexis, illud eſt ens compoſitum. 5. 220.) Atqui mundus conſtat ex partibus. inter ſe connexis; plura enim, quae, ſimul ſumta, conſtituunt unum aliquod ens, dicuntur eius partes: 135709 Cum igitur ſimultanea et ſucceſſiua connexa uniuersi cuiuslibet ſint plura, quae, ſimul ſumta, conſtituunt unum aliquod univerſum, 45.) E. illa plura ſimultanea et successiua connexa debent conſiderari, ut partes uniuerſi. E. mundus est ens compoſitum. Duplex autem eſt ſeries rerum earum, quae mundus, tanquam ens aliquod unum, constituunt. Altera scilicet connexio eſt inter caussas et effecta rerum corporearum, haec dicitur mundus materialis siue corporalis. Altera connexio eſt inter cauſſas et effecta rerum corporearum, haec dicitur mundus materialis ſiue corporalis. Altera connexio, eſt inter cauſ- ſas et effectus rerum ſpiritualium et immaterialium. Haec appellatur mundus immaterialis ſiue pneumaticus. Plura autem illa inter ſe connexa, siue sint ſpiritus, ſiue corpora, conſiderantur. ut partes, totum uniuerſum conſtituentes.
+
+[p. 288] 288 De eſſentia et natura corporum,
+
+1 CAP. III. m: x ESSENTIA ET NATVRA CORPORVM, AC PENDENTIBVS AFFECTIONIBVS. §. 430. INDE AFFECTIONIBVS.
+
+5 a430. Itã 3-2ẽ ſt mundus materialis ex uariis entibus compositis M poſitis conſtat, ex quibus tanquam b ſu partibus ipſe componitur. Atque haec entia compoſita uocari ſolent corpora.
+
+Plura ad corpora requiruntur, quam ad entia compoſita. Ad ens compoſitum, qua tale, nihil requiritur aliud, quam partium, extra ſe inuicem poſitarum, determinata: connexio, (§. 220.) ad corpora uero rite intelligenda, tria omnino adſint, oportet, ſcilicet in iis non modo ad modum compoſitionis et ſtructuram, ſed vim quoque actiuam ſiue motricem, et uim denique inertiae attendendum eſt.
+
+Generalia hic de ' natura et eſſentia corporum tradimus, idque ideo, ut hac ratione natura et indoles mundi, quippe qui ex corporibus conſtat, distinctius et luculentius perspiciatur- s 431 i [p. 289] ac pendentibus inde Affectionibus. 289 a31 Cum itaque corpora ſint entia compoſita, ſ. 430.) omnia ea, quae ſupra de ente compoſito annotauimus et demonſtrauimus, (6. 220. ſqq) nunc ad corpora commodiſſime transferuntur. Corpora nimirum debent habere partes extra partes, (§. 221.) gaudeant determinata magnitudine, (§. 26.) debent esse extenſa, 224) diuiſibilia, (ò 253) figuram habere, (§. 262.) et nulla denique mutatio corporibus poteſt accidere, ſine motu ſiue mutatione loci. (§. 265)
+
+5. 43- Caue uero, putes, ſola extensione completam corporis notionem conſtitui, id quod nonnulli Carteſianorum opinantur. Recte a Leibnitio, VVolfio, aliis, plura ad corporis ideam, complete formandam, requiruntur, quam ſola extenſio. Sunt enim in corpore permulta, quae, non uideo, quomodo diſtincte intelligere poſſis et explicare, ſi ſolam admittas extenſionem.
+
+5. 43 Experientia quotidiana quemlibet condocet, corpora, ſenſibus obuia, eſſe eiusmodi, ut non quaelibet uis ipſis mouendis sufficiat. :
+
+T Lapidem
+
+[p. 290] 290 De eſſentia et natura corporum, Lapidem e, gr. magnae molis debilis infans aut homo exiguarum uirium de loco in locum moue- re non poteſt, et quotidie quiuis experiri pot- eſt, ſe cuiuis corpori mouendo non eſſe parem. §. 434. * Ex quo conficitur, in quouis corpore, ug dum motui resistit, nec uiribus noſtris cedit adeſſe quid debere, per quod corpus motui resistat. Atque id ipſum, quo corpus motui reſiſtit, dicitur uis inertiae Alii hanc uim 45c tai inertiae dicunt vim passiuam. Quod uero quam commode dicatur, nunc non pluribus diſquiram. 5. 43. Haec ipſa uero uis inertiae, per experientiam perientiam in quouis corpore de- prehensa, non a corporis extensione pendet, neque ex extenſione ſequitur, ſed in extenſo iam ſupponitur. Demonstr. Si enim uis inertiae ab extenſione dependeret, et ex ea ſequeretur, tum uero facile intelligis, ut quodque corpus maximae eſt extenſionis, ita quoque maxima gaudere debere ui inertiae, et motui /4
+
+æ adeo uehementiſſime resistere Quod uero cum experientiae ſit prorſus contrarium liquet, uim inertiae non dependere ab ex- BIES] ſ EEEEE ten-
+
+ælæ m
+
+-a [p. 291] ac pendentibus inde Affectionibus. 291 a : tensione, neque ex ea ſequi, ſed in extenſo iam supponi. : Sumas e. gr. maſſam plumbeam, quae pondere uix aequet libram. Sumas plagulam charteam. Nonne plagula maioris eſt extenſionis, quam maſſa plumbea? Nihilo minus infantulus et infirmiſſimus quisque plagulam papyraceam ſine ullo labore mouere, et de loco in locum potuerit transferre, massam plumbeam non item. E. reſiſtentiam maiorem minoremue in corporibus non rationem ſui ſufficientem habere in maiori minorique extenſione, ſed ex peculiari quadam ui reſiſtendi, diuinitus cuique corporum indita, ex exemplo adducto, opinor, plus ſatis apparet. §. 436. Extensum, quod in multarum, a ſe inuicem diſtinctarum, partium diffuſione, et congregatione conſiſtit, ſi ui inertiae praeditum eſt, uocare ſolent philosophi materiam corporis.
+
+Materiam itaque corporis eſſe id, per quod unumquodque corpus motui reſiſtit, ex his, quae diximus, nunc eſt perſpicuum.
+
+5a438. Hactenus de ui inertiae. Per experientiam porro obſeruamus, cum corpus A, mouetur, tum poſſe corpus A, quod nunc uu T 2 mo-
+
+[p. 292] De eſſentia et natura corporum, mouetur, alterum corpus B, mutare, et de loco in locum transferre. Cum e. gr globus A, in alium globum B, impingit, tum globus A, eo momento. quo ”globum B, attingit, globum B, mouet, atque in eo ipso globo B, mutationem producit.
+
+5. 4- Si itaque quodlibet corpus, experientia te- ſte, eſt eiuſmodi, ut alterum corpus poſſit mutare, tum quodlibet quoque corpus in alterum corpus agere, per experientiam con- ſtat. Quodcunque agit, id quoque ui agendi eſt praeditum, (§. 297.) E. quodlibet corpus est ui agendi praeditum.
+
+5440. Haec agendi uis, cuique corpori diuinitus indita, dicitur uis corporum actiua, item uis motrix. Si quis de hac ui motrice dubitare uelit, is perpendat modo niſum illum et mirificum conatum, quo quodlibet corpus ad centrum suum et deorſum tendit. Ecquis eſt, qui, cum corpora deorſum tendunt, iis induci mutationem, neget? Ecquis praeterea reperietur, qui non huius mutationis rationem in ipſis corporibus verſus centrum propendentibus, deprehendi, oppido perſpiciat? Atqui uero cum eiusmodi mutatio, cuius ratio continetur in ipſo ſubiecto mutato, dicatur actio, Corporibus quidni actionem tribuamus? Vbi actio, ibi adeſt uis agendi. E, cor [p. 293] ac pendentibus inde Affectionibus. 293 E. corpora ui agendi, ſiuę ui motrici gaudere, manifestum eſt.
+
+Vis haec motrix ſiue actiua in aliis corporibus alio ſe habet modo. Nonnunquam uis haec exerit ſeſe et in actum erumpit, non- nunquam uero impeditur, quo minus ſe- quatur actio. In illo caſu dicitur uis actiua uiua, in hoc mortua. Leibnitius hanc diſtinctionem cum aliis maxime in medium protulit. Qua obſeruata, omnes difficultates, quas contra uim motricem mouentur, facile tolluntur. Corpora, licet quieſcant, nihilo ſecius ui motrici gaudent, non uiua illa quidem, ſed mortua. Cum e. gr. pila in terram impingit, reſilit. Quod quidem non uideo quo- modo fieri poſſit, niſi in terra aut in pariete, in quem impingit pila, fuerit uis motrix, quae tamen mortua adhuc eſt, et uiua tum demum redditur, ſi conflictus factus fuerit.
+
+y 4æ Ex his apparet, tria omnino ad completam corporis notionem formandam requiri. r
+
+Vis inertiae ſiue materia, 439 Q) Struttura ſiue modus compoſitionis, quia omne corpus eſt ens compoſitum, ũ 430)3) Vis motrix ſiue actiua. (5. 4410 Vnde quid ob- ſtat, quo minus corpus ita definiamus? Corpus eſt ens, ex materia compoſitum, et ui motrici praeditum.
+
+T 3 Eodem [p. 294] a uil
+
+294 / De essentia et natura corporum, etc. 1 2
+
+Eodem modo cum VVolfio aliisque ideam corporis completam format Cel. Koehlerus, Professor Ienensis, de re literaria et philoſophiae incrementis immortaliter meritus. Hic in diſſertatione de natura humana morali 242. in corpore, inquit, datur 1) modus compoſitionis ſeu ſtructura, 2 uis inertiae ſeu reſiſtentiae, 3) uis actiua seu motrix. Haec tria in corpore ſemper coẽxiſtunt, ad euitandam tamen confusionem consultum est, ut illa idealiter a ſe inuicem ſeparemus,
+
+F- 443 Vis motrix ſeu actiua, quae corporibus inexiſtit, 5. 441) dicitur eorundem natura. i ææ.8
+
+Naturam enim cuiusque rei dicimus uim cuiusque rei actiuam, unde eius actiones dependent. Haec acceptio uocis naturae uſui loquendi eſt quam maxime conformis. Sic e. gr. dicimus: Naturae ſtomachi eſt contrarium, ut ferrum concoquat, i. e. ad ferrum concoquendum ſtomachi uis concoquendi non apta nec ſufficiens eſt. Corporis quoque totius humani naturam in quo- nam alio, putas, consistere, quam in complexu uirium illæ rum, in corpore humano obuiarum, quae ad finem corporis, ſcilicet ſanitatem, obtinendum tendunt?
+
+Vocabulum naturae tam late patet, ut, quot fuerunt unquam philoſophi, tot fere huius uocis acceptiones in medium protulisse uideantur. Veterum nonnulli per naturam ipſum intelligebant
+
+[p. 295] D: legibus motus. 295 こ bant Deum, quem uocabant naturam naturantem, Ipſum autem mundum, ſiue uniuerſum rerum creatarum complexum uocare censuerant naturam naturatam. Alii naturam uocant omnes res exiſtentes, quaè quidem in hoc mundi ſyſtemate obuiae ſunt. Huc pertinet illud, cum dicimus: Cognoſcimus ex natura, i. e. ex rerum creatarum exi- ſtentia ac proprietatibus. Naturam praeterea ſunt qui ſaepenumero conditionem cuiusque rei interiorem et eſſentiam appellitant. Couſ, Schelhammer de natura ſibi et medicis uindicata. Mis- ſis multiplicibus uocis naturae acceptionibus, fixum determinatumque uocabuli huius hanc eſſe, arbitramur, ut per naturam nihil aliud intelligamus, quam tendentiam cuiusque rei ad finem ſuum, siue quod idem eſt, principium actuoſum et uim intrinsecam actiuam, in qualibet re exiſtentem, ex qua actiones determinatae profluant. Cum
+
+CAP. IV. DE
+
+LEGIBVS MOTVS.
+
+§. 444. um uis motrix, cuique corporum inſita, Sese actu exſerit, tum, ſecundum certas quasdam regulas et leges, uis illa mouendi determinatur modificaturque. Illae propoſitionęs ſiue regulae, ſecundum quas
+
+T 4 cor-
+
+[p. 296] 296 De legibus motus. 1 corporum quodlibet in motu et conflictu dirigitur, dicuntur leges motus, de quibus nunc, quantum fini noſtro erit conueniens, ſumus acturi.
+
+Alii alias allegant leges motus. Nevvtonus in Philos, Natural. Princip, Mathemat, p. 12. eas ad tria ſequentia axiomata reducit: —r Corpus omne perseuerat in ſtatu suo quiescendi uel mouendi uniformiter in directum, niſi quatenus a uiribus impreſſis cogitur, ſtatum illum mutare. E& 3) Mutatio motus proportionalis eſt ui motrici lbẽ impressae; et fit ſemper ſecundum lineam rectam, qua uis illa imprimitur. V) Actioni contraria ſemper et aequalis eſt reactio: ſiue corporum duorum actiones in ſe mutuo ſunt aequales, et in contrarias partes diriguntur. Conf. Keil in introduct. in ueram phyſicam P. u5. Verdrieſ. in Phyſica .9. A. Cel. Billſingero in dilucidationibus philoſophicis r70. ſq. ſequentes enumerantur leges motus. I. Actioni aequalis et contraria eſt reactio Il. effectus plenus ſemper eſt aequipollens uiribus cauſ
+
+ſac integrae. III Perſiſtit in uniuerſo eadem uirium quantitas. IV, Corpus unumquodque per- ſeuerat in motu ſuo.
+
+§. 445. Nos, cum uarias in uariis corporibus mutationes conflictusque obſeruamus,. omnes,
+
+[p. 297] De legibus motus. 297 1 omnes, quae quidem in ſingulis corporibus obuiae ſunt, mutationes æd ſequentes, a nobis nunc ſtabiliendas, regulas confirmari, animaduertimus.
+
+Nullum corpus, quod quieſcit, ſe ipſum poteſt mouere. Demonstr. Cum enim omne corpus ui in- inertiae gaudeat, 5. 442.) adeoque motui, per hanc uim, reſiſtat, 439.) intelligis, omne corpus quaſi ad motum deprehendi ſegne atque ineptum. Comprobat hanc ipſam quoque legem experi- .entia, qua edocti nouimus nullum corpus, ſi quieuerit antea, ſe ipſum mouiſſe unquam.
+
+§. 447. Ex quo intelligitur, omne corpus, cum quieſcit, in ſuo manere ſtatu, donec ab altero corpore ex quietis ſtatu ad motus ſtatum perducatur. Demonſtr. Cum enim nihil ſit ſine ratione sufficienti, 32) ſequitur, ut quid adeſſe ſemper debeat, ex quo poſſit intelligi, cur corpus, quieſcens antea, moueatur. Dum uero haec ratio, cur moueatur corpus, non
+
+1 TS in
+
+[p. 298] 298 De legibus motus. 1 in ipſo, quod mouetur, corpore reperitur, (nullum enim corpus seipsum mouere poteũ) 6 446 conſequens eſt, ut ratio motus extra corpus motum reperiatur... E. omne corpus, cum quieſcit, in ſuo manet ſtatu, donec ab altero corpore ex quietis ſtatu in ſtatum motus perducatur.
+
+i 5 445 m u itæ uu ſſ Si corpus fuerit reuera in motu ſſ ui, conſtitutum, tum tamdiu motum it continuabit, donec impedimentum aliquod ex parte contraria accesserit. 20000 Demonstr.
+
+Cum omne corpus ſit ui motrici, ſiue ſtatum ſuum mutandi, praeditum, 6. 44.) omnis autem uis ſiue niſus agendi fit eiusmodi, ut continuo agat et ſtatum quoque mutet, ſi impedimentum, quod obſtat actioni, fuerit ſublatum, 235.) intelligitur, corpus, in motu conſtitutum, tamdiu motum continuare, ob uim intrinsecam, donec im- pedimentum aliquod ex parte contraria fuerit obiectum. Ex his propoſitionibus, rite demonſtratis, intelligitur porro, unumquodque corpus eum, in quo eſt, ſtatum ſemper ſeruare; niſi
+
+[p. 299] De legibus motus. 299 niſi a caussa externa ſtatum ſuum mutare co- gatur. 5. 449- Tantum corpus B, reagit in corpus A, quantum agit corpus A, in corpus B, ſiue, ut alii enunciant, actiones et reactiones corporum sunt aequales. Confirmat hanc propoſitionem ipſa experientia. Quis enim nescit, pilam, in terram et lapidem duriorem proiectam, reſilire? Qua uero ratione re- resiliret pila, niſi preſſioni pilae reſiſteret terra et lapis, ſiue, quod idem eſt, reageret? Quis porro neſcit, hoc maiori cum impetu reſilire pilam, quo fortiori maioriue ui in tellurem deiicitur?
+
+دو رو Cl. Bülfingerus in dilucidationibus philoſophicis 5. ?0. hanc motus legem ita exprimit: Quantum A, premit B, tantum A, premitur a ,B, ſic ut idem B, fortius premat reagendo, prout fortius premitur ab AA Ad illustrandam hanc motus legem ſequens adiicit experimentum. „ Suſpendatur, inquit, ex filo ſphaerula, u. g™. ,,marmorea uel eburnea, ſic, ut, tenso filo, quiescat, ſuſpendatur alia ex plumbo, luto, uel „ materia quaecunque, aliquantum molli. Atque „ haec ſublata aliquo usque permittatur2tur libero lapſui, quo impingat in Sphaerulam priorem „ quiescentem. Impellet illa quieſcentem pres- ,, fione
+
+[p. 300] 300 De legibus motus. : ,, ſione et impetu ſuo, ſed et ipſa comprimetur per ,reſiſtentiam et reactionem quiescentis, et quidem ,, magis magisque, prout fortius in illam impege- ,, rit. Sic eadem quiescens Sphaerula reactionem praestat contrariam actioni; et maiorem in ,, maiore actione. Si ad numeros et menſuram reuo- ,care noris experimentum praecipue in ela- ,, ſticis inſtitutum corporibus, deprehendis, reactionem ,,eſſe actioni aequalem.
+
+54s0. Hae, quae diuinitus conſtitutae sunt, leges motus non ſunt abſolute neceſſariae et immutabiles, ſed ſunt contingentes et mutari poſſunt.
+
+Demonstr. Cum enim, quas Deus fixit in natura et conſtituit, leges motus ſint eiusmodi, ut eſſentiae corporum non repugnent, ſi ſupponantur aliae, conſequens eſt, ut leges motus ſint contingentes adeoque mutabiles. Atqui prius eſt uerum. Non enim leges motus profluunt ex corporum eſſentia, id quod ex dictis facile patet, E, etiam poſterius.
+
+Hanc propoſitionem, ſcias, uel ideo eſſe probe annotandam, quod ex ea, contra Atheos et Naturalistas, infra poſſibilitas miraculorum de- monſtrabitur, Equidem VVolfio ab aduerſariis con-
+
+[p. 301] De corporum elementis. 201 Ersu contrariam ſententiam imputatam esse, memini Volfius ſcilicet in Metaphyſica Germ. leges naturae dixit eſſe immutabiles, et alio tamen loco, easdem saepissime a Deo immutari, affirmat. Sed cum VVolfius leges naturae immutabiles eſſe dixit, reſpectu tantum creaturarum, eas eſſe immutabiles, arbitratus eſt, non uero reſpectu Dei. Immutabilitatem hypotheticam et respectiuam. non abſolutam, VVolfius uult intelligi.
+
+Plura de legibus motus adferre eſſet ſuperuacuum. Eae enim in phyſicis et Mathematicis, dedita opera, copiosiusque enodantur. CAD.
+
+### V. DE
+
+CORPORVM ELEMENTIS. 1 S. 451. "
+
+ex quibus ulti- Prima corporum stamina, ultimato componuntur, et ad quae in Corporum reſolutione cogitando tandem deuenimus, dicuntur corporum elementa. Cum hactenus de corporum natura et Affectionibus, legibusque motus. ſecundum quas corpora in motu diriguntur, a nobis actum ſit, ordinis ratio uidetur exigerę, ut et ipſa elementa, ex quibus corpora conſtant, diſtinctius pertractemus, maxime, cum hac in doctrina complures inter eruditos ſint exortae controuerſiae.
+
+[p. 302] 302 De corporum elementis.
+
+Elementa corporum prima, ex quibus illa ultimato constant, non possunt esse entia compoſita, ſed debent eſſe entia ſimplicia. Demonſtr. Fac, elementa corporum prima eſſe entia compoſita, tum illa elementa prima adhuc conſtabunt partibus in in illasque poterunt reſolui, Atque hac ratione illa elementa erunt ꝓrima (per hypotheſin) et non erunt prima, quia adhuc conſtant ex lI EZPl aliis partibus minoribus, in quas reſolui ul- E Lui Sſ ſiu terius queant. Quod uero cum ſit contrarium principio contradictionis, manifeſtum liæ mE ĩ naæ eſt, elementa corporum prima non poſſe l. eſſe entia compoſita. z -1 Si itaque elementa non poſſunt eſſe entia compoſita, omne autem id, quod non eſt ens compoſitum, debet eſſe ens ſimplex, relinquitur, elementa corporum prima debere eſſe entia ſimplicia. Ad intelligendum diſtinctius hoc theorema, ea, quae ſupra in capite, de Ente ſimplici, hanc in rem ſunt allata, perpendas. Ibi enim de- monſtrauimus, in entium compoſitorum analyſi non poſſe nos ſubſiſtere in ente compoſito, ſed deueniendum ultimato eſſe ad entia ſimplicia, quae
+
+[p. 303] De corporum elementis. 303 quae omnibus careant partibus, quaeque adeo in nulla minora et priora entia poſſint reſolui.
+
+S5 £53 Elementa itaque corporum poſſunt dici entia ſimplicia, unde compoſita entia ortum trahunt. 2 S. 454.
+
+Haec entia ſimplicia, ex quibus, tanquam ex primis ſtaminibus, omnia entia compo- ſita conſtant, dicuntur a Leibnitio Monades, et a Volfio in Metaphyſica German. Einheiten. Non hic copiosius inquiremus, quid ex ueterum philoſophorum grege nonnulli de corporum elementis, quae uocabant atomos, et ſenſerint, et docuerint. Cui diuerſas antiquorum de atomis ſententias penitius noſſe libuerit, ille uel VVerenfelsii meditationem de Atomis, uel Cel. VValchii Lexicon philoſoph. Artic. Atomi euoluat. Nos, quae ſit Leibnitii VVolfiique de Monadibus mens et ſententia, hic paucis commemorabimus. Vox Monas, origine Graeca, indicat VNVM, et proprie uſurpatur, de Vnitate, in qua omnis numerus, quantuscunque etiam ille ſit, tanquam in fonte ſuo et ultima origine, ſubſiſtit et terminatur. Hoc ſenſu uocabulum Monas iam a P»Pythagora fuisse adhibitum; dudum eruditis eſt obſeruatum. Leibnitius, ultima et prima corporum, tanquam entium compoſitorum, principia
+
+[p. 304] De corporum elementis. 1 cipia et elementa indicaturus, hanc uocem a ueteribus mutuatus eſt, eandemque in ſcriptis ſuis identidem adhibuit. Idque non unis adductus rationibus Leibnitius fecisse putandus eſt. Corpora, putat Leibnitius, nos nobis repraesentare debere, tanquam numerum maxime compoſitum, et ex multis conſtantem unitatibus. Atqui uero, E &æst quemadmodum omnis numerus ex unita- tibus, tanquam partibus ſuis ultimis, conſiſtat, omnisque numerus ultimato in VNVM resoluatur, ita corpora quoque tandem resolui debere in prima ſua ſ 2 ur et ultima elementa (quae idem ſint, quod VNVM. in numero,) putat Leibnitius. Hinc prima illa corporum elementa uocat Monades,- ſiue Vnitates, et corpora ipſa uocat Mona- data, siue aggregata ex multis monadibus. " Num uero prima corporum ſtamina et elementa recte monades dixerit, nunc non definiam. Cl. Creilingius, Professor Tubingenſis, in principiis philoſophiae Leibnitianae examinatis, P- 4,,Monadis, inquit, nomine uix aliud aptius dari poteſt, prima et simplicissima rerum elementa in uniuerſum exprimere ill ,mens, neque obstat, quod Epiphanes Auctor Monadicae cognitionis, aliique „ haeretici eodem ,uſi fuerint. ſmi yr Dum prima illa corporum ſtamina et elemen- Hi JEcæ 1a a Leibnitio uocantur Monades, ipſa autem i r- haec elementa ab ipſo habentur pro entibus  simplicibus, et reuera etiam talia ſunt, (§. 453.) factum factum eſt, ut Leibnitius omnia entia ſimplicia appellet Monades Monas itaque et ens ſimplex uht ſunt ipſi Synonyma. Hinc, cum Deus, ex omni.
+
+um,
+
+[p. 305] De corporum elementis. 305 A um, et Theologorum, et Philoſophorum, ſententia, ſit ens ſimplex, imo uero ens ſimpliciſſimum, mirari noli, Leibnitium Deum uocare Monadem. Quae appellatio quanto fuerit offendiculo iis, qui Leibnitii mentem nec uoluerunt, nec potuerunt, capere, plus ſatis inter omnes conſtat. Quot- quot uero Deum ens ſimplex eſſe, putant, et Leibnitio ens ſimplex et Monada ſynonyma eſſe, norunt, non erraſſe Leibnitium fatebuntur illi quidem, at, ueritatem eiusmodi inconuenienti exprimi uocabulo, minus probabunt. Quia porro anima humana, brutorumque animae ſunt entia ſimplicia, id quod in pſychologia luculentius demonſtrabitur, uides, quid ſit, quod Leibnitius animam hominum aęque ac brutorum monades appellet. Elementa tamen et ſtamina prima corporum, quae entia ſimplicia eſſe, (§. 452.) demonſtratum dedimus, ſunt in Leibnitiana Philoſophia ſtricte et κατ᾽ ἐξοχήν i&exi ſic dictae Monades.
+
+Ex his intelligi nunc poteſt, cur Leibnitius quatuor Monadum conſtituat classes. In prima classe, ex ipſius ſententia, collocatur Deus, qui ab ipſo, ob ſimplicitatem ſeu immaterialitatem ſuam, uocatur Monas, quique diſtinctiſſima omnium rerum cognitione gaudet Ad alteram Monadum claſſem refert Leibnitius animas hominum rationales, quae non clara modo, ſed diſtincta quoque, rerum gaudent repraeſentatione. Ad tertiam claſſem pertinent animae brutorum, quae claris quidem, ſed confuſis, ideis ſunt instructae. Quartam denique et ultimam claſſem
+
+U consti- 1 1
+
+[p. 306] 3056 De corporum elementis. conſtituunt ultima et ſimpliciſſima corporum ele? menta, quae, ut dixi, Leibnitio ſunt Monades, ſtricte et uav ebonv ſic dictae, quaeque, ex Leibnitii ſententia, hoc uniuerſum ſibi obſcure repraeſentant. Deum, a quo omnia, tum simplicia, tum compoſita, entia ſuam petunt originem, uocat Leibnitius Monada Originariam, Primitiuam, Increatam: Cetera entia ſimplicia, ſcilicet Animam humanam, Animas brutorum, elementa item corporum, uocat Monades deriuatiuas, quia a Deo, tanquam cauſſa efficiente, ſuum ortum de- deriuant.
+
+Speciatim illis Monadibus, quae ad ultimam pertinent claſſem, quaeque ipſa ſunt corporum ele- menta, Leibnitius tribuit quaedam, quae, neſcio, an firmo ſatis nitantur fundamento, quaeque ad- eo, dici non poteſt, quam uehementer  impugnata. O) Exiſtimat Leibnitius, has monades siue entia ſimplicia, ex quibus entia compoſita conſtent, gaudere ui repraesentatiua, atque ipſum hoc uniuerſum ſibi repraesentare obſcure. Hinc illas uocat uiua ſpecula huius uniuersi Q) Affirmat Leibnitius, in monadem creatam forinſecus nec ſubſtantiam, nec accidens ingredi poſſe. Adeoque (4) exiſtimat, omnes mutationes, in monadibus creatis obuias, a principio interno et ui intrinſeca proficiſci. Hinc (5) appellat Monades Entelechias, pro- pterea, quod in ſe habeant certam quandam per sectio-
+
+[p. 307] De corporum elementis. 307 sectionem, (x1 7 èvrene) et detur quaedam in iis sufficientia, ui cuius ſint actionum suarum internarum fontes, adeoque automata incorporea. Conf. Creilingius in diſputat. I. qua principia Philos. Leibnit. examinantur. p. i4- (6) Vnde porro concludit Leibnitius, nullam Monadem creatam ſiue deriuatiuam phyſice influere poſſe in interius alterius Monadis creatae siue deriuatiuae. (7) Opinatur Leibnitius, omnes Monades creatas gaudere determinationibus et qualitatibus intrinſecis, quibus a ſe inuicem diſtingui poſſint. Nullam item Monadem creatam in rerum uniuerſitate alteri Monadi creatae per omnia ſimilem exiſtere, autumat. Y (9) Affirmat, Monades, quae ſunt corporum elementa, nullam quidem habere apperceptionem cum perceptione coniunctam, ſed eam tamen perceptionem, licet ſit obſcura, et careat apperceptione ſiue conscientia ſui, perpetuo tendere ad nouam perceptionem, adeoque gaudere illas Monades appetitu. (:0) Vt Leibnitius, quales ſint repraeſentationes entium illorum ſimplicium ſiu? Monadum, quae conſtituunt entia compoſita, luculentius osten- dat, uocat ſtatum perceptionum illarum ſtuporem. Qualis ſtatus animae noſtrae eſt, cum uel deliquio animi laboramus, uel ſomno profundo absque somnio oppreſſi ſumus. U2 Has
+
+[p. 308] 308 De corporum elementis. —m—m—n—
+
+Has positiones, quas, cum de Monadibus ageret, in medium protulit Leibnitius, reperies cum aliis pluribus, et in Monadologia ipsius, a Doctissimo Henrico Koehlero, Professore Ienensi, in patriam ſermonem conuerſa, et in Hanſchii Principiis philoſophiae Leibnitianae, more Geometrico demonstratis atis. Francofurti et Lipsiae edit. 1728. 4to.
+
+»r Leibnitium ſequitur in Monadologia VVOLFIVS, ſed ex parte tantum, et ita, ut in pluribus bus ab ipſo faciat ſeceſſionem. Hinc perinique que illi agunt, qui, VVOLFII dogmata aliis in- .j uiſa reddituri, id omne omnino, quod Leibnitius- w tius de Monadibus tradidit, VVolfio tribuunt. u.-iiLãtl Quod ipſum praeclare monuit Cel Gottingensium-  Professor, HOLLMANNVS, qui in dissertat. I. de Harmonia praestabilita. p. 9. „ VVolfius, inquit, Leibnitii de Monadibus ul m” ſententiam omni ex parte ſuam non facit. HE E
+
+,,Hinc iniuſtum, imo impium et ſceleſtum eſſe, m;
+
+hnmæ »puto, longe diuerſa ceteroquin ſentientes, si „ in aliqua conſenſerint theſi, in unam eosdem ſtæ ,coniicere maſſam, omnesque illos omnibus IE mſ ,,imputare errores, quos alter ſolummodo eo- t ,rum, qui cum reliquis aliquo in tertio coni- ,uenit, proprios habet, ſolusque, excluſis ce- „ teris, defendit. "
+
+VVolfius concedit quidem, omnia entia compoſita, et corpora omnia con- IEE.-v ſtare ex elementis, iisque non compoſitis, ſed ſimplicibus, omnia quoque, quae de ænieę ſimpli- En ci ſupra Cap. XV. Ontologiae dicta ſunt, prae- ũ l praedicari poſſe de corporum elementis, affirmat, at iis
+
+[p. 309] De corporum elementis. 309 iis simul tribui poſſe, uel mundi perceptionem:? uel uim repraeſentatiuam, id uero, quod ſciam, negat et pernegat. Conf. Metaphyſ. Germ. ſ. 59. et ſqq. item§. 898. sqq. Vide praeterea Monitum ad Commentationem luculentam de Nexu etc. 5. XIII. et Bilfinger in der ferneren Erläuterung p.m. 98.
+
+Leibnitii VVolfiique de Monadibus ſententiam uel ideo copiosius recenſui, ut ũę à cuẽe, perspicerent Leibnitianae philoſophiae non ſatis periti, quid ſit tandem illud, de quo inter recentiores tam acris huc dum lis et controuerſia fuit exorta. Ad me interim quod attinet, eam mihi ſedere mentem,
+
+ſcias, ut, nec Leibnitio, nec VVolfio, ſalua tantorum uirorum auctoritate, in omnibus accedam. Satis mihi fuerit, demonſtraſſe, elementa corporum prima non poſſe non eſſe entia ſimplicia, quae omnibus destituuntur partibus. Quae quidem entia ſimplicia ſiue Monades, ſiue Atomos appellaueris, nihil mea intereſt. Quae contra Monadologiam, uel Leibnitianam, uel VVolfianam, moueri poterant dubia, ea deprehendes in diſſertatione a Cl. Gottſchedio ſub S. R. Langhanſenii praesidio Regiomonti 1721. defenſa, quae inſcribitur: Dubia circa Monades Leibnitianas, quatenus ipſae pro elementis corporum uenditantur. Conf. Ruardi Andalae dissertat, de quatuor fictis ſimplicium speciebus.
+
+U3 s- 45-
+
+[p. 310] 3I0 De corporum elementis.
+
+y 455. Cum corporum elementa ſint entia ſimplicia, (3 452.) conſequens eſt, ut, quicquid ſupra de Entibus ſimplicibus Cap. XV. dictum eſt, id omne quoque de corporum elementis possit enunciari. Elementa ſcilicet corporum omnibus deſtituta ſunt partibus, carent extenſione, et extenſionis limite, ſcil. figura, non habent determinatam magnitudinem, non poſſunt oriri, niſi per immediatam Dei creationem, nec interire queunt, niſi per annihilationem. Haec enim omnia, ut ſupra, capite de ente ſimplici, demonſtrauimus, de entibus simplicibus praedicari debent. : Ex eo uero, quod cum Leibnitio et VVolfio entia compoſita ex ſimplicibus conſtare, nonnulli affirmant, neutiquam inferendum eſt: E. entia compoſita, atque adeo uniuersus mundus corporeus, componuntur ex ſpiritibus. Miror profecto et ualde miror, quosdam ex iis, qui Leibnitii aeque ac VVolfii Monadologiam impugnarunt, rationes ita potuiſſe subducere. Plura profecto ad ſpiritum requiruntur, quam ſola ſimplicitas, ſeu immaterialitas. Equidem omnis ſpiritus eſt ens ſimplex, at non omne ens ſimplex eſt ſpiritus, (quia ad ſpiritum requiruntur etiam intellectus et uoluntas) Quae igitur conſequentia? Omnia compoſita conſtant ex entibus ſimplicibus, (iisque, quod probe notes, omni 1.
+
+[p. 311] De miraculo. 311 omni diſtincta repraesentatione et intellectu de- ſtitutis) E. omnia compoſita conſtant ex ſpiritibus, Perinde eſſet, ac ſi dicerem: Mundus conſtat ex entibus compoſitis, E. mundus constat non niſi lapidibus. At, inquis, ex quocunque coaleſcere debet compoſitum et extensum, id ipsum quoque sit compositum et extenſum, id ipſum quoque ſit compositum et extensum, neceſſe eſt. Reſpondent Leibnitii defenſores Quamuis, qua modum coalitionis entium compoſitorum ex simplicibus, nihil certi determinari queat, negandum ✓ tamen non eſt, non magis abſonum eſſe, fieri ex non- extenſo extenſum, quam fieri ex non- bibliotheca bibliothecam, ex non - pio pium, ex non- erudito eruditum. etc. Conf. Bülfingeri dilucid. p. 88. ſ44
+
+C AP. VI. - NATVRALI ET SVPERNATVRALI SIVE MIRA CVL O. §. 456. Naturam S. 443. diximus, eſſe nihil aliud, quam uim cuiuſuis rei activam, unde eius actiones dependeant. Vt adeo Naturale generatim id omne dici queat, quod ex alicuius rei ui et eſſentia poteſt intelligi et explicari. Corpori itaque naturale id dicitur, cuius ratio in eſſentia et natura cor-
+
+U 4 porum
+
+[p. 312] De naturali et ſupernaturali, 1 7 porum continetur, ſiue, quod idem eſt, quod ex corporum ſtructura et ui poteſt intelligi et explicari. Spiritui uero naturale dicitur illud, quod ex ſpiritus ui et eſſentia poteſt intelligi et explicari.
+
+1 Y E. gr. Stomacho naturale hoc eſt, ut cibos concoquat. Ex ſtructura enim ſtomachi et ui intrin- ſeca eius explicari poteſt et intelligi, quomodo fieri queat, ut concoctio perficiatur. Igni naturale eſt, ut ſtramen et lignum aliaque consumat. Poteſt enim ex ui ignis intrinſeca et ſtructura explicari, qui fiat, ut ignis ligna ac ſtramen com- burat. Animae naturale eſt, ut, omnibus ſenſibus externis quieſcentibus, ipſa ſuas per ſomnia edat operationes. Ex lege enim imaginationis intelligi et concipi poteſt modus, quo fieri poteſt, ut anima ſomniet, et ut haec praeciſe, nec alia in ipſa ſe exſerant ſomnia.
+
+Ex quo conficitur, id omne, cuius ratio in eſſentia et natura entis non continetur, ſiue, quod eodem redit, quod ex ui et ſtructura corporum, et ex ui et eſſentia ſpiritus non poteſt concipi et intelligi, eſſe ſupra naturam; ſupernaturale itaque, quod naturali opponitur, generatim eſt nihil aliud, quam omne id, quod in eſſentia et ui uniuerſi ſecundum ſtatum antecedentem et leges motus non fundatur. Super [p. 313] miraculo. -r
+
+Supernaturale quid erat. cum ignis tres illos uiros, in fornacem candentem coniectos, referente Scriptura S., minus laederet, minusque corrumperet. Is enim euentus ex ui et natura ignis non poterat concipi. Supernaturale item quid erat, cum Apoſtoli, linguarum peregi peregrinarum prorſus imperiti, illas uno momento non modo callerent, ſed eas etiam ita in promtu haberent. ut ſua animi ſenſa iis promte expediteque poſſent explicare Is enim effectus neque ex animae ui, (utpote quae tanto effectui producendo plane impar erat) neque ex ſtatu antecedenti, (ipſi enim neque uocabula, neque declinationes, neque coniugationes, neque regulas syntacticas didicerant,) concipi poterat.
+
+Id uero, quod ſupra naturam eſt, caue confundas cum eo, quod eſt contra et praeter natu- ram. Quod praeter naturam fit, id euenit qui- dem reuera ſecundum ordinem et leges naturae generales, attamen fit contra huius illiusque corporis, in particulari, agendi patiendique leges, quas particulares corporis huius illiusue conſeruandi leges id, quod praeter naturam fit, impedit et euertit. Ita cum e. gr. uenenum imbiberis, comperies, ſecundum ordinem naturae illud in corpus tuum agere, Quia uero uenenum actiones corporis tui laedit, impedit et euertit, uides, legibus corporis tui particularibus contrarium effectum produci, qui dicitur praeternaturalis. Hinc uides, cur medici omnem corporis ſtatum morboſum uocent ſtatum Praeternaturalem.
+
+v5 Euen-
+
+[p. 314] 314 De naturali et ſupernaturali, Euentus uero contra naturam contingere dici- tur, quando, ut loquitur Verdrieſ, uis infertur rerum ordini, et effectus quidam ſequitur legibus naturae aduersus. Huc referas tenebras Aegyptiacas. Conf. Verdrieſ in phyſica. ꝑ. i4.
+
+5. 458: c æt— Omnis euentus ſupernaturalis dicitur mi- miraculum Vt adeò uideas, miraculum recte definiri per eiusmodi effectum, qui neque æ3i EV&u ex eſſentia, neque ex ui creaturarum aut mundi ſecundum ſtatum antecedentem con- Eilli ſequitur. 457) Ed
+
+Commodus hic locus eſt, doctrinam de miraculis—: u lis diſtinctius proponendi. Neque uero in philosophia)50//42//9 loſophia determinamus, num miracula unquam facta fuerint, aut etiam nunc hodie fiant. Id &æt85. 2r æ enim non niſi hiſtoriarum monumenta, quorum b eſt, tradere facta, nos condocere possunt. Sed in philosophia tantum de eo diſquirimus, num miracula in uniuerſo poſſibilia ſint, generales pr item poſitiones, quas ex miraculi notione legitime deduci- mus, de miraculis demonſtramus.
+
+Alii alias miraculi definitiones ſuppeditarunt, quas et adduxerunt, et examinarunt prae ceteris et Bülfingerus in dilucidat. p. 202. ſq4. et eruditus Hollmannus in commentatione philoſophica de Miraculis. Praecipuas harum breuissimis adferemus, ut intelligatur, quam multi fuerint eruditorum nonnulli in explodenda de miraal
+
+[p. 315] ſiue miraculo. 315 : : miraculis doctrina. Spinoza, Atheorum,; ſimus, miraculum explicat per effectum, cuius causas ignoramus, etſi omnino ſint naturales. e-' illa uero definitio, quae, ſi quid uideo, ad pluri- mos effectus naturales poteſt transferri, quae- que tò mirabile cum miraculo confundit. Poteſt quid in univerſo contingere, et contingit saepe- numero, quod eſt eiusmodi, ut eius cauſſae nos lateant, quodque adeo in admirationem nos rapit. Sed hoc eſt mirabile quid, non uero miraculum. Clarckius ad miraculum omne requirit, ut ſit rarum quid et extraordinarium. Sic uero, opinor, actum eſt de miraculis, quae, tempore ecclesiae plantandae, a Chriſto frequentiſſime patrabantur. Vid. omnino Bülf. l. c. Ad noſtram uero definitionem quod attinet, non eſt, quod quisquam eam ideo explodendam exiſtimet, quod in ea neque cauſſæ2]æ efficientis miraculorum, neque cauſſae finalis mentio ulla fiat. Non opus enim ſemper eſt, ut in definitiones philoſophicas, quae debent eſſe principia demonſtrandi, adeoque multarum conclusionum feraces, omnia, quae de re definita uel ſciuntur, uel sciri poſſunt, operoſe infarciamus. Id quod cum pluribus aliis oſtendit Cl. Schlosserus in diſſert. philoſophica de Cautione philoſophica circa definitiones. Bona eſt definitio, quae (a) omnes characteres in ſe continet, quibus res definita ab omnibus aliis rebus in omni caſu, ſtatu et tempore poteſt diſcerni. (3) Bona eſt definitio, quae eiusmodi characteres tradit, ex quibus cetera omnia quae rei definitae competunt,
+
+[p. 316] 316 De naturali et ſupernaturali, ES petunt, possint legitimo nexu deduci et demonſtrari. Vid. Inſtitutt. Log- 5. 148. Atqui uero cum noſtra miraculi definitio ſit (1) eiusmodi, ut miraculum poſſit per allegatos characteres ab euentu naturali quam accuratissime interno- sei, (2) ita quoque ſit comparata, ut ex ea, cum cauſſa miraculorum efficiens, ſ3d quod mox pateſcet) tum cauſſa eorundem finalis possit de- monstrari, non uideo, quid in ea iure possit deſiderari.
+
+Quamuis uero per characteres, in miraculi definitione adductos, generatim et in abstracto miraculum ab euentu naturali, facillimo negotio poſſit diſtingui, difficilius tamen, quam quisquam credat, eſſe uidetur, in concreto et in casu indiuiduo miraculum ab ęuentu naturali diſcernere.
+
+Ratio eſt in promtu. Cum enim paucis- ſimi hominum uires naturae perſpectas habeant, et latentes cauſas naturales ſaepius non inueſtigare queant, ſit, ut euentus inſolitus, cuius cauſſae latent, ſaepiſſime pro miraculo habeatur. Quod quidem ſi euitare uolueris, cognitione phyſices te inſtruas oportet.
+
+§. 460. Leibnitius, ut alibi, ita et in Theodicaea (§. 245.) miracula diſtinguit in miracula maiora J_ [p. 317] miraculo. 31; maiora et minora. Maiora uocat, quae totius naturae uires ſuperant, et curſum eius ordinarium tranſcendunt. Minora uocat, quae nobis quidem naturae uires ſuperare uidentur, attamen actu a creaturis inuiſibilibus e. gr. Angelis praeſtantur. Ad miracula maiora refert e. gr. creationem, incarnationem, etc. quae omnem creaturarum potentiam tranſcendunt. Ad miracula uero minora pertinere, ait, e. gr. commotionem lacus Bethesdae, ab Angelo factam. Sed, ſi noſtram definitionem in ſubſidium adhibueris, facile intelliges, miracula, quae a Leibnitio uocantur, non eſſe uera miracula, ſed tantum miracula, comparative, et quoad nos talia, aut, ut rectius dicam, mirabilia. §. 461. Miracula ſunt poſſibilia. Demonſtr. Cum enim totum uniuersum ſit eiusmodi, ut quilibet eius euentus possit esse aliter, (§. 417.) cumque praeterea leges motus non ſint necessariae, ſed contingentes et mutabiles, (§. 450.) dubium non eſt, quin, ſi detur quaedam cauſſa extramundana, ſufficiente inſtructa virtute, illa effectum, in eſſentia et ui uniuerſi non fundatum, poſſit producere, legesque motus ſuſ- Pendere, et euentum, alias futurum, immutare. Quod cum reuera ſit miraculum : patrare
+
+[p. 318] 318 De naturali et supernaturali, patrare, (§.458.) manifeſtum eſt, poſſibilia eſſe miracula,
+
+ſi tale detur ens uirtute;e, euen- n;, in ui uniuerſi non fundatum, producendi instructum (Dari autem reuera tale ens, infra in Theologia naturali uberius de- monstrabitur.)
+
+Miracula ſunt et intrinſece et extrinſece poſſibilia. Intrinſece quidem: quia totus nexus rerum eſt eiusmodi, ut poſſit immutari, et omnes leges motus, ob contingentiam, poſſunt ſuſpendi. 450.) Extrinſece uero: quia datur revera eiusmodi ens, a mundo diuerſum, quod euentum, ordini et cursus naturae plane aduęrſum, infinita ſua uirtute poteſt producere.
+
+§. 462. Miraculum, ſi producitur, produci debet ab ente aliquo, quod? a mundo plane eſt diuerſum. Demonstr. Cum enim miraculum ſit eiuſmodi euentus. cuius ratio non continetur in creaturarum et mundi ui atque eſſentia, 458) nihil autem ſit ſine ratione sufficien ti, (3.32) conſequens eſt, ut ratio miraculo- rum debeat contineri in ente aliquo, quod non eſt creatura, ſed a mundo plane diuer- ſum. E. quotięs miracula produci debent, toties producantur, neceſſe eſt, ab ente aliquo, a mundo plane diuerſo. Hoc [p. 319] miraculo. 319 Hoc ipſum uero ens, a mundo diuerſum, quod miracula producendi ui pollet, dicitur Deus. Vt adeo hinc (a) intelligas, optime ex noſtra miraculorum definitione caussam miraculorum efficientem poſſe deduci. Hinc (3) patet, recte miraculum a nonnullis definiri per quemlibet effectum Dei immediatum. 5. 453.
+
+Omne miraculum, cum fit, ſit per saltum. Demonstr. Cum miraculum ſit euentus, qui ex eſſentia et ui creaturarum et mundi, ſecundum ſtatum antecedentem, non conſequatur, 450.) ſequitur, ut, cum miraculum contingit, non praecedant omnes illae mutationes, quae alias ad eiusmodi euęntum praeſtandum ſunt neceſſariae. Cum uero, quando aliquid ita fit, ut non omnes illae mutationes praecedant, quae ad effectum Producendum neceſſario ex ordine naturae requiruntur, id fieri dicatur per ſaltum, (§. 356.) oppido patet, miracula fieri per ſaltum. Ponamus, miracula non fieri per ſaltum, tum illa ita eueniant, ut ſui rationem sufficientem in ſtatu antecedenti et uiribus na- turae inueniant, et a connexione caussali, in hoc mundo obuia, dependeant. Quo ipſo
+
+[p. 320] De naturali et supernaturali, uero erunt miracula nihil aliud, quam euentus natur. les, (§. 56.) quod eſt contra principium contradictionis, 22.) prolatum.
+
+Dum, miracula per ſaltum euenire, dicimus, non saltum abſolutum intelligimus. Vi enim huius absoluti ſaltus miracula plane nullam ſui haberent rationem ſufficientem, quod eſt contra principium rationis ſufficientis, (§. 32.) ſtabili- tum. Sed hic intelligimus ſaltum reſpectiuum, in quo non ea ſemper debent praecedere, ex quibus ratio reddi poteſt conſequentium. Ita e. gr. linguarum peritiam per miraculum acquirebant Apostoli, et per ſaltum euadebant multarum linguarum peregrinorum perit. Non enim, quat Ad intelligendas linguas requiruntur alias, uoca47 433bula, declinationes et coniugationes ſibi reddiderant familiares, ſed in momento et callebant lin guas et loqui poterant.
+
+r a451:. Miraculum, cum ab ente extra- mundano patratur, debet effectum praestare, qui a naturali euentu plane diuersus est. Demonstr.
+
+Si miraculum a cauſſa aliqua extramundana, ſiue Deo, patratur, tum de bet adeſſe ratio, cur ens a mundo diuerſum, miraculum praeſtet. 320 Ponamus igitur, [p. 321] miraculo. 321 igitur, per miraculum patratum, uel nullum effectum, uel effectum, qui ſine mira- culo naturaliter secuturus fuisset, et intendi, et obtineri, tum liquet, miraculum ſine ratione sufficiente ab ente infinito et cauſſa extramundana eſſe patratum. Quod vero cum ſit contra principium rationis sufficientis, ũ: 32) intelligitur, per miraculum effectum debere praeſtari, qui ſine miraculo naturaliter non fuiſſet ſecuturus.
+
+5ã
+
+Annon, cum Chriſtus Lazarum ' per miraculum ex mortuis ſuſcitaret, euentus ſequebantur, qui ſine hoc miraculo patrato nunquam naturaliter fuiſſent ſecuti Naturaliter Lazarus computruisset, a uermibus corroſus, in pulue- rem rediisset. Sed quam longe ab his diuerſi erant effectus, qui, miraculo, patrato, ſequebantur!
+
+§. 465.
+
+Hinc intelligi nunc poteſt, quid ſibi uelint nonnullorum loquendi formulae, cum dicunt: Per miraculum ordo naturae turbatur, Item: Per miraculum in nexum rerum confuſio inducitur.
+
+x Scio,
+
+[p. 322] 322 De naturali et ſupernaturali, 1 Nee -Scio, has loquendi formulas a nonnullis haberi periculoſas offenſionisque plenas. Nec ignoro, ex his recentiorum philoſophorum phrasibus consequentias necti satis formidolosas et detestandas. Sed, re recte expenſa, nec reperi, nec reperire potui uenenum, quod hic deliteſcere iniquiores interpretes exiſtimant. Ex notione miraculi, et poſitionibus, iam demon- ſtratis, opinor, intelliges, quid ſibi uelit illa poſitio Per miraculum ordo naturae tur- batur, Ordinem ſupra, 187.) diximus eſſe nihil aliud, quam ſimilitudinem in modo, quo res ſibi uel coexiſtunt, uel ſuccedunt. Ordinem itaque naturae dicimus ſimilitudinem in modo, - quo res uniuerſi uel ſimul ſunt uel ſe inuicem conſequuntur. Quamdiu ergo mutationes in * corporibus et in mundo ita eueniunt, ut altera ex altera regulis motus conuenienter fluat, et tertia ſequatur ex secunda,  ex prima, tamdiu in mundo et corporibus deprehenditur ordo naturae,. Simulac uero ſubſequentes mutationes uniuerſi non ex antecedentibus proueniunt, et euentus regulis motus minus conuenienter contingunt, tum, ordinem naturae turbari, affirmamus. Cum uero miraculoſi euentus eiuſmodi ſint, ut ex antecedentibus non fluant, nec regulis motus ſint conformes, 6. 438.) quid obstat, quo minus aiamus, per miraculum turbari ordinem naturae? Exemplo res fiet clarior- Annon ordo exigebat naturalis, ut Lazarus, mortuus et iam contumulatus, computreſceret, a uermibusque corroſus in puluerem redigeretur? ? Quid
+
+[p. 323] E43 siue miraculo. 323 Q 1d uero, cum ex morte per mira. ulum ex. excitaretur? Nonne hic ordo naturalis turbatur? Negas? Ergo Lazarus, miraculo facto, computruit, a uermibus fuit corrosus, perinde, ac ſi miraculum non factum fuisset. u d uero, quotus quisque eſt, qui affirmare ausit? Quae cum ita ſint, non obscure intelligis, nihil ſubeſ- ſe periculi, cum recentiorum nonnulli, per miraculum confusionem in rerum nexum introduci, contendunt. Confuſio supra dicta a nobis eſt diſsimilitudo in modo, qua res uel sibi coexi- stant, uel ſuccedunt. Vbi itaque in rerum nexu obseruas mutationes quasdam, quae in antecedenti ſtatu ſui rationem ſufficientem non habent, eiusmodi d.dissimilitudinem ſiue confusionem reuera inuenis. Iam uero cum per quoduis miraculum mutationes producantur, quae a naturalibus plane ſunt diuersae, (§. 464.) cumque item per miraculum ii contingant euentus, qui ex antecedenti ſtatu concipi nequeunt, (§. 458.) Per miraculum, uides, in rerum nexum introduci dissimilitudinem atque confusionem. Lazaro2.r0 per miraculum ſuſcitato, nexus naturalis turbabatur, et ipſi confusio inducebatur. Vi nexus naturalis L Lazarus computruisset, ſed, miraculo facto, uiuebat, et, ut alii homines, sanguine in orbem redacto, uigebat. Per nexum naturalem a uermibus fuiſſet conſumtus. Sed, miraculo facto, nihil tale poterat contingere. Neſcio, quid ſit nexus naturalis turbatio, si hoc non eſt. Probe autem monet Bülfingerus, cauendum ſedulo eſſe, ne cum idea confusionis ideam repre .1 X2 La- Vi [p. 324] s—. r
+
+De naturali, et ſupernaturali, reprobationis combinemus, Conf. Dilucid.
+
+p. 2u.
+
+§. 466. v Ex his intelligis, quid de miraculis restitutionis ſine ἀποκαταστάσεως quae uocant, ſit exiſtimandum. Leibnitius et VVolfius horum miraculorum in ſcriptis ſuis faciunt mentionem. Ad quorum mentem et ſententiam rectius intelligendam ſequentia obſeruo.
+
+Leibnitius de his reſtitutionis miraculis quaedam affert in Theodicaea 249. VVolfius uero mentem ſuam explicat in Metaphyſica Germ. S. G53.. VVolfii, ſi recte iudico, mens haec est. (a)
+
+Putat Volfius, per miraculum naturalem nexum et ordinem turbari.
+
+(β) Hinc infert, alios omnino euentus, facto miraculo, contingere, quam ſęcuti fuiſſent, ſi miraculum non patratum fuisset. (y)
+
+Diſquirit, quid facto opus sit, ſi per miraculum Deus finem suum conſecutus fuerit, et ipſe uelit res in eum ſtatum, in quem uenturae fuiſſent ſine miraculo, restitui.
+
+Q) In [p. 325] siue miraculo. 325. 1 (8)
+
+In quo caſu, (quem tamen reuera dari, aut exſtitiſſe unquam, non affirmat VVolfius) putat, per nouum miraculum nexum naturalem, qui ſine priori miraculo fuiſſet, reſtitui debere. (8) Atque hoc nouum miraculum, per quod res in eum ſtatum, in quem uenturae fuiſſent ſine miraculo, uocat miraculum restitutionis. Quale an unquam patratum fuerit, non determinat VVolfius.
+
+Vt rectius haec omnia intelligas, casum afferam ſequentem. Nouimus ex ſacris literis, Deum per miraculum Apoſtolis linguarum do- num infudiſſe. Quo miraculo facto, multa omnino eueniebant, quae ſine hoc miraculo non eueniſſent. Apoſtoli Ebraice, Syriace, Graece, Latine, etc. loquebantur, uarias docebant gentes, innumeros homines ad Chriſtum perducebant, et poſteritati etiam serae anſam Deum laudandi eiusque gloriam amplificandi ſuppeditabant. Si uero miraculum hoc non patratum fuiſſet, nexus naturalis ſine dubio hic fuiſſet: Ignoraſſent linguas, gentes multas ad Chriſtum non conuertiſſent, et innumeri homines ad Chriſtum non perueniſſent, cetera ut taceam. Ponas nunc caſum, Deum per hoc miraculum, ſcilicet linguarum infusionem, finem suum obtinuiſſe, ponas porro, Deum uoluisse res omnes in eum ſtatum, in quem uenturae fuiſſent ſine hoc miraculo, in momento reſtitui. Quaeritur hic, qua id fieri potuerit ratione? Reſpondet VVolfius: Nouo opus fuisset mira- x3 culo, [p. 326] lã Dæ mundi perfectione. Respondet VVolfius: Nouo opus fuisset mira- culo, per quod res in nexum naturalem, qui ſine mirac ſa lingue um infusione secuturus fuisset, deb iſ2nt restitut Num id recte et uere, non nunc d ſi..1u. Id tamen, abſit, ut VVolfium imparem, ipim quod 1s miraculum duplicare, ipſu n irem credere, Chriſtum cum coeco miraculuſe viſum reddiderit, debuiſſe ipſum per miraculum iterum occoecare Haec enim omnis, non uideo, qua ratione ex VVolfii sententia hypothetica de reſtitutionis miraculis deriuari possint. Conf. Bülfingerus in dilucidat. p 21 ſ44. au Item Hollmannus in commentat. de Miraculis, Contra quam commen- rationem nonnulla monuit S. R Veerportenius, Gymnasii Gedanenſ. Rector, in dissertatione de Miraculis, S
+
+CAP. VII. DE
+
+MVNDI PERFECTIONE,
+
+§. 467. ub doctrinae Coſmologicae finem non- nulla addere uisum eſt de mundi perfectione.
+
+Non id uero hic agemus, ut de- mon..remus, hunc mundum indiuiduum, f qui :
+
+[p. 327] De mundi perfectione. 327 qui nunc exiſtit, maxima gaudere perfectione, (id enim in Theologia naturali luculentius euincetur) ſed ex notione perfectionis, generalius in Ontologia, ꝗ. 20I. explicata, determinabimus, quid requiratur, ſi mundo aliqua debeat tribui perfectio, et quomodo gradus perfectionis rite cognoſcantur.
+
+§. 468. Ad perfectionem in Ontologia requiſiuimus haec tria, ut (a) adsint uaria, (õ) ut adſit finis aliquis et ſcopus, ad quem iſta uaria collineent, (y) ut adſit conſenſus uariorum, et conſpiratio ad finem et ſcopum obtinendum. Hinc facile intelligis, uniuerſo tum demum tribui poſſe perfectionem, ſi ſingula et simultanea, et ſucceſſiua, in eo obuia, ita inter ſe con- ſentiant, ut finis aliquis et commune bonum obtineatur.
+
+Finem hunc, ad quem omnia, et ſimultanea et successiua, in uniuerſo tendere debeant, eſſe unice gloriam Dei, ſiue manifeſtationem attributorum Numinis diuini, infra in Theologia naturali commonstrabitur.
+
+X æ 469
+
+[p. 328] 328 De mundi perfectione. 1 §. §. 469.
+
+Ex his conficitur, perfectionem mundi a posteriori siue per experientiam cognosci et determinari non poſſe.
+
+Demonſtr. Cum enim perfectio mundi in eo conſiſtat, ut omnia ſimultanea et ſucceſſiua, in eo obuia, ad finem aliquem et commune bonum obtinendum conſentiant, (§. 201.) conſequens eſt, ut, qui uult perfe- ctionem mundi a poſteriori ſiue per experientiam cognoſcere et determinare, is ſingula ſimultanea et ſucceſſiua in mundo ſpeciatim conſideret, et accuratius penitiusque perſpiciat, quomodo omnia, in nexu ſumta, tendant et conſpirent ad finem et commune bonum obtinendum. Quotusquisque uero hominum eſt, qui omnia ſimultanea et ſucceſſiua, maxima, minima, acie mentis peruadere poſſit et pertentare? Quis eſt, qui complicatam iſtam omnium rerum connexionem perſpiciat?? Quis ergo denique reperietur, qui perſpecto toto uniuersi nexu, determinare poſſit, omnia, maxima, minima, eo tendere ultimato, ut finis
+
+[p. 329] De mundi perfectione. 329 finis aliquis et ſcopus bonumque quoddam commune obtineatur? A poſteriori itaque nemo hominum mundi perfectionem cognoſcere poteſt et determinare.
+
+: Eadem ex cauſſa temeritatis eſt, uelle a poſteriori ſiue per experientiam determinare mundi imperfectionem. Quod tamen perplures facere, commemini, cum, de mundo perfectissimo ſententiam rogati, ita reſpondent, ut huic mundo ſummam tribuant imperfectionem, idque ipſa ex experientia conſtare, aiant. Qui enim mundo imperfectionem competere, ex ipſa probare uo- Iunt experientia, ii uero totum mundum, uniuer- ſumque omnium rerum nexum perspiciant, oportet, et num cum fine obtinendo conſentiant, nec ne, determinare debent.
+
+§. 470.
+
+Quo plura in uniuerſo occurrunt, quae cum fine, ob quem uniuerſus mundus conditus eſt, conſentiunt, quo exactius item plura iſta ſimultanea et ſucceſſiua cum fine conſentiunt, eo maior eſt uniuerſi perfectio. 206.)
+
+x5 5 471.
+
+[p. 330] 330 De mundi perfectione. r— 7
+
+5. 4m. Negari quidem non poteſt, fieri poſſe, ut imperfectiones partiales in mundo occurrant, quae, seorsum et extra nexum consideratae in numero imperfectionum collocari omnino merentur. Quas tamen ſi in nexu consideraueris, multum ad perfectionem totius uniuerſi conferre, comperies. Imperfectio enim partis, ex colliſione regularum, in perfectionibus ſimplicibus reperiundarum, oriunda, saepius multum facit ad perfectionem totius, Conf. §. 215. Ontol. Haec omnia, generalius tradita, magno nobis erunt uſui, cum infra in Theologia naturali de mundo perfectiſſimo ſpeciatim exponetur.
+
+FINIS COSMOLOGIAE.
+
+[p. 331] De spiritu in genere. 331
+
+PNEVMATOLOGIA PSYCHOLOGIAM
+
+THEOLOGIAM NATVRALEM COMPLEXA. PSYCHOLOGIA. CAP. PRAELIMINARE. SPIRITV IN GENERE. 5. 47 Iamdudum ueteres ad Metaphyſicam referebant pneumatologiam, ſiue doctrinam de Spiritibus, quam alteram Metaphyſices partem eamque ſpecialem conſtituebant.
+
+d&etenſreit in philoſ, prima p. 1. sqq. Meta- phyſicam inter alia obiecta, ait, res ſua natura praestantissimas pertractare debere. Res autem, ſua natura praeſtantiſſimas, dicit, eſſe res in- corporeas et immateriales, Deum nempe et ſpiritus creatos.
+
+5 4m; Per Spiritum, generatim ſumtum, nihil aliud intelligimus, quam ſubſtantiam ſimplicem
+
+[p. 332] 332 De spiritu in genere. 4 plicem ſiue immaterialem, intellectu et uoluntate praeditam.
+
+Hanc definitionem nominalem ſpiritus eiusmodi eſſe, ſcias, ut sufficiat ad ſpiritum a corpore et ab omnibus aliis rebus dignoſcendum. §. 474.
+
+Ex hac definitione liquet, (a) Omnia ea, quae ſupra cap. XV. Ontologiae ſunt tributa entibus ſimplicibus ſiue immaterialibus, poſſe quoque praedicari de ſpiritibus.
+
+(B) Ad notionem ſpiritus diſtinctam completam formandam non ſufficere ſolam ſimplicitatem ſiue immaterialitatem, ſed intellectum quoque ac uoluntatem requiri. (y)
+
+Hinc abſurdum eſt, et regulis recte ratiocinandi plane contrarium, cum nonnulli, dum elementa corporum et animas brutorum entia ſimplicia eſſe audiunt, oppido exinde inferunt: Ergo ſunt ſpiritus. Conſ. 454. l
+
+[p. 333] De ſpiritu in genere. 333 ò) Denique ex his manifestum fit, eo perfectiorem eſſe unumquemque ſpiritum, quo perfectiori gaudet intellectu, et eum eſſe ſpiritum perfectissimum, qui praeditus eſt intellectu perfectissimo, et uoluntate gaudet perfectissima.
+
+s 4- Vt uero, quae ſint ſpiritus requiſita, quaeue ipſius indoles et natura, rectius intelligatur, paucis tantum, quid ſit intellectus, quidue uoluntas, definiemus, uberiores harum notionum explicationes in pſychologia ſuppeditaturi.
+
+§. 476. 1 1 Intellectus eſt nihil aliud, quam facultas * res sibi distincte repraesentandi. Distincte res nobis repraeſentamus, cum eas menti no- ſtrae ita ſiſtimus, ut ipſas non modo ab aliis rebus poſſimus internoſcere, ſed notas quoque et characteres ſpeciatim allegare, quibus res repraeſentatae ab aliis rebus diſcernantur. Conf. Inſtitutt, Philoſ. Rat. S. 97. §.477. 1
+
+[p. 334] 334 De spiritu in genere.
+
+y 47 Quodcunque itaque res ſibi tantum ob- ſcure aut clare repraeſentat et facultate res ſibi diſtincte repraeſentandi destituitur, illud non poteſt in numerum ſpirituum re- ferri. १
+
+Veteres omnes Spiritus diuidebant, in ſpiritum infinitum ſiue increatum, quo referebant Deum, et Spiritus finitos ſive creatos. Hos, dicebant, eſſe uel. completos, qui non ordinentur ad ſubſtantiam tertiam in unione conſtituendam, uel incompletos, qui ad ſubſtantiam aliquam tertiam constituendam diuinitus ſint ordinati. Ad Spiritus completos referebant angelos, ad hos animam humanam.
+
+Nos, cum exiſtentiam Dei ex exiſtentia mundi et animae humanae demum in Theologia naturali simus demonstraturi, ita nunc procede- mus in pneumatologia explicanda, ut (a) ea, quae de anima nobis, uel ope experientiae, vel per ratiocinia, legitime instituta, nobis innoteſcunt, exponamus in psychologia; (3) Spiritus increati, ſcilicet DEI, existentiam et attributa demonſtremus in Theologia naturali. Quae enim ad Angelographiam pertinent, ea rectius ex literis sacris, quam ex philoſophia, quippe quae parum uel omnino nihil de Angelis nouit, petuntur. i PSY!
+
+[p. 335] Pſychologiae prolegomena. 335
+
+PSYCHOLOGIAE PROLEGOMENA. 5z. §. 478. Psychologia, ui uocis, eſt doctrina ſiue scientia de Anima.
+
+Cum uero, quae de anima §. §. 479. 2 Cum uero, quae de anima nouimus, uel per experientiam nobis innoteſcant, uel per ratiocinia, ex experientia legitime deducta, uides, quid ſit, quod VVolfius, cum eoque alii, pſychologiam diuiſerint in psychologiam empiricam et pſychologiam rationalem.
+
+5 as0. i In pſychologia empirica ea traduntur, quae, ope experientiae, de anima humana nouimus. E. gr. experimur, quod noſtrum aliarumque rerum, extra nos poſitarum, nobis ſimus conſcii. Experimur, quod sentiamus res praeſentes, quod imaginemur nobis abſentes, quodque item bonum cognitum appetamus, et malum repraesentatum auersemur. Haec omnia, et alia plura, in pſychologia empirica diſtincte exponuntur.
+
+§. 481.
+
+[p. 336] 336 Pſychologiae prolegomena.
+
+5 as Quae, ope ratiociniorum, de anima noſtra nobis innoteſcunt, ea omnia in pſychologia rationali explicantur. Huc pertinet doctrina de animae ſimplicitate, de eius immortalitate etc. Non enim experimur, animam eſſe ens ſimplex, nec experientia edoctus nouit quisquam, animam eſſe immortalem. Haec omnia, ratiociniis in ſubſidium adhibitis, demum addiſcimus.
+
+5 a82. Vſus pſychologiae multiplex eſt et uarius. Ecquis, maximopere opus eſſe, negabit, cognitione ſui et animae rationalis, per quam homines ſumus, per quam ad Dei ſimilitudinem quam proxime accedimus? Inprimis uero ſolidior animae humanae cognitio naturam ortumque affectuum, ac propenſionum ES humanarum ordinem et nexum nos edocet, quem qui perſpectum habet, nae is et in propriis affectibus compeſcendis, et in aliorum propenſionibus, uel excitandis, uel ſedandis, uel refringendis, erit felicissimus. :
+
+De uſu pſychologiae metaphyſico, morali et politico, theologico naturali legatur Bülfingerus in dilucid. p: 228.
+
+PSY-
+
+[p. 337] De animae exiſtentia. 357
+
+PSYCHOLOGIA EMPIRICA CAP. I. DE
+
+ANIMAE EXISTENTIA. 5 s5. ũ ad experientiam attendimus, deprehendimus, nos nosmet ab aliis rebus, quae extra nos ſunt, poſſe diſtinguere. Obſeruamus item, nos res, extra nos poſitas, a ſe inuicem internoſcere. ;ã
+
+Noſti e. gr. te non eſſe menſam, quam extra te conſtitutam uides, noſti item, mensam, quam co- ram intueris, non eſſe ſellam, iuxta menſam poſitam, nec ſellam eſſe menſam etc. Adeoque hoc ipſo te ab aliis rebus, extra te poſitis, distinguis, et ipſas res, quae extra te ſunt, a ſe inuicem digno- scis.
+
+§. 484. Cum nos ab aliis rebus, extra nos poſitis, • diſtinguimus, dicimur nos nostrum nobis eſſe conscii. Et cum res illas, quae extra nos Poſitae ſunt, a ſe inuicem diſcernimus, tum illarum rerum, quas a ſe inuicem dignoscimus, nos nobis ſumus conſcii.
+
+Y sum
+
+[p. 338] De animae exiſtentia. Sum e. gr. mihi mei conſcius, cum ſcio, me non eſſe menſam hanc, quam extra me poſitam uideo. Sum menſae mihi conſcius, cum noui, menſam non eſſe ſellam, et ſellam non eſſe mensam. §. 485.
+
+Experientia igitur teſtatur, nos, et no- ſtrum, et rerum extra nos poſitarum, eſſe nobis conſcios. (5. 483 484)
+
+§. 486. Quod ſi uerum eſt, conſequens eſt, ut quid dari in nobis debeat, quod ſui rerumque, ex- tra ſe poſitarum, ſibi eſt conscium. §. 487. Illud ipſum autem ens, quod in nobis ſui, rerumque extra ſe poſitarum, ſibi eſt conſcium.
+
+5 a437 Illud ipſum autem ens, quod in nobis ſui, rerumque extra ſe poſitarum, ſibi eſt conſcium, dicitur Anima. Non hic definitionem animae realem, atque omnia eius attributa et accidentia complexam, afferimus, ſed eiusmodi tantum allegamus characteres, per quos quilibet, audita animae uoce, eam a corpore poſſit diſtinguere. Si quis in hac definitione nominali requirat et deſideret libertatis mentionem, is neſciat, oportet, definitionis nominalis naturam, in qua non opus eſt, ut omnia, quae de re definita ſciuntur uel praedicari possunt, recenſeantur. Definitionem animae pleniorem in pſychologia rationali adfe- rendi locus erit, ubi antea quaedam demonſtrata dedi- mus. 5. 488:
+
+[p. 339] De animae existentia. 339
+
+§. 488. Cum itaque per experientiam, in nobis exiſtat et actu detur quid, quod ſui, rerumque extra ſe positarum, ſibi eſt conſcium, (§. 486.) conſequens eſt, ut exiſtat ſeu actu detur in nobis anima. (§. 457.)
+
+Veteres animam in uegetatiuam, sensitiuam et rationalem diſpeſcebant, ſed entia multiplicabant praeter neceſſitatem, et phyſica pneumaticis immiſcebant.
+
+§. 489. Animae itaque exiſtentia ex conſcientia ſui cuique innotescit. Qui itaque dubitare uel- let, dari animam, eo ipso dubitaret, eſſe ſe ſui ſibi conſcium; qui uero dubitaret, eſſe ſe ſui ſibi conſcium, eo ipſo ſe refutaret. Quo- modo enim dubitare poſſet, ſi ſui. ſibi non eſſet conſcius? Quamuis itaque quis negare uellet exiſtentiam corporum, animae tamen exiſtentiam inficiari nequit, quia eo ipſo, dum ipſam negat, eandem concedit, et prodit conſcientiam ſui. Atque hac ex cauſſa Carteſium, puto, affirmaſſe, animam notiorem eſſe corpore.
+
+Y 2 CAP.
+
+[p. 340] 340 De facultate cognoſcendi,
+
+CAP. II DE FACVLTATE COGNOSCENDI, EIVSQVE
+
+PARTE INFERIORI. §. 490. Experientia nos docet, nos, dum uel no- 2 Nostrum uel aliarum rerum, extra nos poſitarum, nobis ſumus conſcii, multa percipe- re et nobis repraeſentare Actio illa, qua anima res ſibi repraeſentat et percipit, dicitur cognitio, et potentia illa res ſibi repraesentandi appellatur facultas cognoſcendi. Quia, quod in anima primum obſeruamus, illud eſt, quod percipiamus res et nobis repraeſentemus a cognitione animae et facultate cognoſcendi recte nunc ordimur. Hanc facultatem animae ueterẽs uocabant intellectum, quem tamen non tam latẽ patere, quam facultatem cognoſcendi, infra demonſtrabimus.
+
+Quae uerò cognoſcimus et percipimus, non uno eodemque modo cognoſcere nos, conſtat. Alia obſcure et confuſe, alia diſtincte, nouimus et percipimus Obſcuram et confusam cognitionem habet anima humana eum brutis commu- nem. Distinctam uero cognitionem anima h?miniò [p. 341] eiuſque parte inferiori. 341 4 1 minis habet sibi propriam. Quas cum brutis communes habemus cognoſcendi facultates, eas referimus ad partem inferiorem facultatis cognoſcendi. Huc pertinent facultas (a) sentiendi, (β) imaginandi, (y) recordandi et reminiſcendi.
+
+Illa ipſa rei in mente repraeſentatio, quam appellamus perceptionem, dicitur alias quoque idea. Quatenus uero anima huius repraeſentationis ſiue perceptionis ſimul ſibi eſt conſcia, dicitur appercipere. Repraeſentatio autem talis, cuius anima ſibi eſt conscia, appellatur, cogitatio.
+
+Terminus adperceptionis a Leibnitio eſt in- uentus, qui per illum nihil aliud uoluit ſignificare, quam illum mentis noſtrae actum, quo percipimus ipſas perceptiones noſtras. Eiusmodi adperceptionem cum perceptione coniunctam requirit Leibnitius' ad omnem omnino cogitationem. Neque enim id male. Vſus enim loquendi nos docet, uocem cogitationis non prius adhiberi, quam tum, cum indicare uolumus, nos noſtrarum perceptionum nobis eſſe conſcios.
+
+Omnes noſtrae perceptiones ſiue re- praeſentationes differunt aut (o) qua re- praesentandi modum et rationem, aut (B) Y 3 qua 44:
+
+[p. 342] 342 De facultate cognoſcendi. etc. 1 qua ?ipsas res perceptas ſiue repraesentatas, ſiue qua obiecta ipſa.
+
+5: 493: Ratione modi repraeſentandi noſtrae perceptiones ſunt uel clarae, uel obſcurae. Clarae perceptiones siue repraesentationes sunt, quae ſufficiunt, ad rem repraeſentatam ab aliis rebus diſtinguendam. Obſcurae uero ſunt perceptiones, quae non ſufficiunt Exempla clararum et obſcurarum repraeſentationum petas ex inſtitutionibus noſtris philoſophiae rational. p. 50.
+
+§. 494. Clarae repraeſentationes ſunt uel diſtinctae uel confusae. Illae non modo ad res reprae- ſentatas ab aliis rebus dignoſcendas sufficiunt, ſed notas quoque characteriſticas allegare poſſumus, quibus res repraeſentata ab aliis rebus poteſt dignoſci. In confusis reprae- ſentationibus alteram quidem rem ab altera poſſumus diſtinguere, nullas uero notas ſpeciatim nobis ſiſtere, quibus res repraeſentata ab aliis rebus diſcernatur, S. §. 495. 1
+
+Si notarum characteriſticarum nouas: notas, et partium partes denuo poſſumus nobis ſiſtere, tum exinde oritur idea ſiue perce-
+
+[p. 343] De facultate ſentiendi. 343 perceptio adaequata, habitus autem eiusmodi adaequatas notiones et repraesentationes formandi dicitur profunditas cogitationum. p ffſinnighit. Omnia ea, quae de allata repraesentationum ſiue perceptionum differentia dici debent, copioſius exposita inuenies in Inſtitutionibus Philoſ Rational. p. 48. §. 496.
+
+Res, quas nobis repraeſentamus, aut ſunt indiuidua, aut abſtracta, genus nempe et ſpe- cies, (Conf. Log: 98) Indiuidua aut ſunt praesentia, aut abſentia. Indiuidua praesentia nobis repraeſentamus ſenſibus. Abſentia autem indiuidua nobis sistimus ope imaginationis et memoriae. Abſtracta repraeſentamus nobis intellectu et ratione. Senſus et imaginationem, memoriam item, cum brutis communes habemus. Facultas itaque ſentiendi, imaginandi et recordandi pertinent ad facultatis cognoſcendi partem inferiorem. A ſen- ſibus, a quibus omnis noſtra cognitio ortum ducit, ordiamur.
+
+CAP. III. FACVLTATE SENTIENDI. §. 497. Cum res, corpori noſtro praeſentes nobis repraeſentamus, tum dicimur illas
+
+Y 4 Sentire,
+
+[p. 344] 344 De facultate sentiendi. ſentire, et ipsae illae repraesentationes rerum, corpori noſtro praeſentium, dicuntur ſenſationes ſiue ſenſiones. Facultas autem sentiendi eſt potentia animae noſtrae, ſenſiones ſiue sensationes habendi. Vt uero ſenſionis natura et indoles rectius intelligatur, a Volfio et Bilfingero recensentur criteria, quibus corpus noſtrum ab omnibus aliis corporibus diſtinguitur. Praecipui uero corporis noſtri characteres hi ſunt. ſI) Ex innumeris corporibus illud uocamus nostrum, pro cuius relatione, ſitu, et operatione, reliqua corpora nobis repraeſentamus. (II) In quo, comperimus, mo- tus fieri ad imperium uoluntatis. Conf. Bülfingeri dilucidat p.234. Corpori autem noſtro praeſens dicitur illud, quicquid in eius organis ſenſoriis mutationem producit.
+
+§. 498. Organa ſenſoria dicuntur membra in corpore noſtro, in quibus mutationes, cuiusuis ſtructurae conuenienter, in ſentiendo contingunt, Quinque eiusmodi organa ſenſoria corporis noſtri deprehendimus, oculum, aurem, nares, linguam cum papillis ſuis, et fibrillas nerueas, per totum corpus diſperſas. Inde oriuntur quinque sensus, (a) uiſus, qui eſt facultas corpora per mutationes, in oculo factas, ſentiendi, (8) auditus, qui eſt facultas corpora per mutationes in aure factas, ſentiendi, (V) olfactus sentit at
+
+[p. 345] De facultate ſentiendi. 345 ſentit corpora per mutationes, in naribus factas, O) guſtus ſentit corpora per mutationes, in lingua eiusque papillis factas, 1actus denique corpora ſentit per mutationes, in lin- gua eiuſque papillis factas. (8) Tactus denique corpora sentit per mutationes, in fibrillis nerueis factas. Hos ſenſus, quia nobis corpora, extra nos posita, sistunt, uocamus externos. Addunt nonnulli ſenſus internos, cum ſcilicet anima proprias suas cogitationes cupiditates percipit.
+
+S.ſint Cum ſenſiones 499. repraeſentationes re: rum, corpori noſtro praeſentium, (§. 497.) id autem omne corpori noſtro praesens eſſe dicatur, quod in eius organis ſenſoriis mutationem producit, (§. 457.) intelligis, recte a nonnullis quoque ſenſationes definiri per repraesentationes rerum, in corporis noſtri organis ſenſoriis mutationem produ. centium. §.
+
+§. 500. Cum itaque in omni ſenſione (a) in organis noſtri corporis ſenſoriis mutatio produci debeat, (§. 499.) (B) illa mutatio, a rebus, extra nos poſitis, in organis noſtris ſenſoriis producta, ab anima repraeſentetur, (3à99) perſpicuum eſt, nec ſolum corpus, nec ſolam animam ſentire, ſed alio perfungi officio corpus, alio animam, eodem tamen tempore.
+
+Y Corpus
+
+[p. 346] 346 De facultate sentiendi. Corpus concurrit ad ſentiendum, recipiendo mu- tationes ab extra in organis ipsius ſenſoriis, anima concurrit, repraesentando illas mutationes, in corporis organis ipſius ſenſoriis, anima concurrit, repraeſentando illas mutationes, in corporis organis ſenſoriis factas. Vt haec euiden- tius pateant, addo exemplum. Cum fragorem tonitru, aut exploſi tormenti auditu percipis, tum id ita contingit, ut motus aeris tremulus, qui percussione et uehementi diſploſione corporum solidorum aut fluidorum producitur, ad aures subido deferatur, per illarum fl:flexuosos et tortuosos anfractus continuetur, atque ibi reconditum audi- tus organum percellat. Haec ad corpus. Quod
+
+#### a. Eſi
+
+cum fit, oppido anima ſibi mutationes in auribus factas repraeſentat.
+
+5. s0I De ſenſationibus per experientiam obſer- uamus, alteram iſtarum eſſe altera saepius clariorem et fortiorem, alteram debiliorem et obſcuriorem Cum e. gr. auditu percipis fragorem tormenti bellici, tum illam ſenſationem, comperies, eſſe fortiorem illa, qua dulces Lusciniae, pone ſedentis, modulationes percipis.
+
+§. 502. Senſatio fortior ſupprimit sensationem debiliorem, uti lumen maius obscurat lumen minus. Demonstr.
+
+Hanc poſitionem quotidiana confirmat experientia, qua edocemur, et, ratio-
+
+[p. 347] De facultate ſentiendi. 347 ratione uſus, ita sensationes eſſe comparatas. ut, lumine ſolis exſplendeſcente, lumen stellarum debilius fiat, nec amplius compareat, et in auditu eandem eſſe rationem: Sonus enim tympanorum, uel tormentorum fragor impediunt, quo minus muſicam aut uocem loquentis nobiſcum audiamus. Quod idem obtinet in aliis omnibus ſenſationibus.
+
+§. 503. Quando obiecta externa reuera et actu ipſo in organa sensoria agunt, in iisque mutationem pro- ducunt, non est in poteſtate animae, utrum sentire uelit, nec ne. Demonstr. Haec propoſitio itidem nititur experientia. Ad quam cum attendimus, reperimus, cum radii obiecti alicuius uiſibilis, ſolis e. gr. in oculis mutationem producunt, non eſſe arbitrii noſtri, utrum uidere ſolem uelimus, nec ne. Cum porro fragor tormenti illabitur in aures noſtras, non eſt in poteſtate noſtra, utrum ipſum audire uelimus, nec ne etc. §. 504. Poſſumus tamen impedire ſaepius, quo minus obiecta extrinſeca in organis nostris ſenſo S_
+
+[p. 348] De facultate sentiendi. soriis mutationem producant. Atque eatenus ſunt ſenſationes in poteſtate noſtra. Possumus e. gr. ſi nolumus, radios ſolares, aut fragores tormentorum in oculos auresue il- labi, oculos claudere, aut aures obturare, aut procul abire, quo minus in nobis mutatio- nes eiusmodi molestae producantur.
+
+§. 505. Non eſt penes animam noſtram, qualem ipſa sensationem eſse uelit. Demonſtr. Hanc propoſitionem ſtabilit firmatque etiam experientia. Hac enim magistra, discimus, non eſſe arbitrii noſtri, utrum id, quod aures noſtras offendit, ſentire et percipere uelimus, tanquam ſonum ſuauem ac gratum. Neque eſt in noſtra poteſtate, frigus, tanquam calorem, amarum, tanquam dulce quid, et flagella, tanquam blandam titillationem ſentire. Diſputatum eſt recentius de ſenſationum ne- ceſſitate, quam, fuerunt, qui negarunt, alia licet omnia ſenſu communi edocti. Cel. Cel. Bilfingerus in dilucidat. p. 242. mentem ſuam de iis, quae circa ſenſationum necessitatem ultro citroque di- ſputata ſunt, breuiſſimis, ſed diſtincte aperit. „ Poſitis conditionibus, inquit, ad ſentiendum ,neceſſariis, organo, obiecto, et medio recte „ constitutis, (1) non eſt penes mentem, an „ uelit ۱
+
+[p. 349] De facultate imaginandi. 349 7 „ uelit admittere ſenſationem? habet illam ne- cessario. (2)
+
+Non eſt penes illam, qualem eam „ ſenſationem esse uelit. Eſt tamen in potestate ,mentis poſitum, ut poſſit organa eo flectere, quò ,,uelit, aut auertere, cum uelit, item, ut una: ſenſationem poſſit depellere per alteram ſenſatio- nem fortiorem. Alii neceſſitatem ſenſationum ita enunciant: ſenſationes ſunt neceſſariae, ratione adeſſentiae, et ratione qualitatis: ſunt liberae, ratione prae- liminarium. §. 506. Ex his intelligi poteſt, regulam ſenſationum eſſe hanc poſitionem: Si obiecta ex- trinseca in organis corporis sensoriis mutatio- nes producunt, tum illae mutationes producunt, tum illae mutationes repraesentantur in anima.
+
+CAP. IV. FACULTATE DE FACVLTATE IMAGINANDI. §. 507. —u ſ Experientia quemlibet condocefacit, nos E non ea modo, quae coram ſunt, et quae nobis ſiſtuntur praesentia, ſentire, percipere, et nobis repraeſentare, ſed ea quoque, quae iam olim ſenſu percepimus, quaeque nunc abſentia ſunt, nos denuo nobis, tanquam praeſentia, repraeſentare poſſe.
+
+Fac, [p. 350] u7 m
+
+350 De facultate imaginandi. 1 Fac, te, uel heri, uel nudius tertius, uel ſuperioribus diebus fuiſſe in conuiuio, fac, te uidiſſe multos illuſtres et eruditos uiros, te item, aut doctos ſermones, aut muſicam audiuiſſe, omnes hos, uel eruditos uiros, uel doctos ſermones nec non musicam uiuide tibi, licet fueris abſens, poteris repraesentare, §.
+
+§. 508. Facultas res abſentes, tanquam praeſentes, denuo ſibi repraeſentandi, et perceptiones, iam olim habitas, reproducendi, dicitur facultas imaginandi. Ipse autem actus mentis noſtrae, quo res abſentes, olim perceptas, de nouo tanquam praeſentes, nobis reprae- ſentamus, dicitur imaginatio ſiue phantaſia. Ipſa autem res, quae ab imaginatione denuo producitur, dicitur phantasma.
+
+5 50. Nihil nobis imaginari poſſumus, niſi quod antea ſenſibus perceperi- Huls. Demonſtr. Cum enim imaginatio nihil aliud ſit, quam facultas, ea, quae olim ſenſibus percepimus, denuo ſibi repraeſentandi, 508.) perſpicuum eſt, nihil nos nobis poſſe imaginari, niſi quod antea a nobis sensu uerit perceptum. Hinc
+
+[p. 351] De facultate imaginandi. 351 Hinc eſt, ut nonnulli imaginationem uocem: continuatam ſenſationem. Imaginatione enim id, quod antea ſenſimus, percipere et repraesenta- re nobis continuamus. Sic e gr. nemo ſibi poterit Romam imaginari, niſi uel ipſam uiderit, uel ab aliis deſcriptam audiuerit. Puto, huc pertinere illud, quod ueteres dictitabant: Nihil eſt in intellectu, quod non antea fuerit in ſenſibus.
+
+§. 510. Hoc facilius quamque rem nobis imaginamur, quo clarius et distin- Ctius eam olim ſenſimus; hoc autem difficilius, et aegrius rem aliquam nobis imaginamur, quo eam obſcurius et confuſius antea sentiebamus. Demonstr. Experientia teſtatur, nos, cum aedificium aliquod, ſecundum ſtructuram, magnitudinem, et partes ſingulas, uidimus et attente contemplati ſumus, nos, inquam, illud facillimo negotio nobis denuo poſſe repraeſentare, etiamſi fuerimus abſentes longeque ab ipſo remoti. Sed fac, te uelle tibi guſtum cibi cuiusdam, quem ſemel tantum deguſtaſti, imaginari, tum, difficilius Imaginationem ſuo defungi officio, compe 1 1 ries.
+
+[p. 352] iid -n'
+
+352 De facultate imaginandi. ries. Cibi enim dulcedinem confuſe admodum, nec ſecundum omnes partes, ſentiebas.
+
+5 5i. no recentior fuit sensatio, et X- quo crebrius repetita eſt sensatio, eo etiam uiuidior et fortior eſt imaginatio. Demonſtr. Deprehendimus id in uita communi et quotidiana experientia. Cum re. centissime interfuiſti in templo orationi sacrae, tum uniuerſa hominum concio, multorumque, quos ibi uidiſti, facies menti tuaę, licet abſens fueris, viuidiſſime ſiſtetur. Fac uero, te, longo temporis ſpatio interiecto, uelle tibi homines, quos conſpexiſti olim in templo, rurſus, ope imaginationis, reprae: ſentare, tum difficilius procedet negotium. Aliquas iam imagines in mente euanuiſſe, m2v u.
+
+animaduertes, nonnullae uero obſcuriuſcule tibi ſe exhibebunt, etc. Vt adeo inde recte conficias, hoc uiuidiorem eſſe et fortiorem imaginationem, quo recentior fuit ſenſatio.
+
+Quod uero, quo crebrius repetitur ſen- ſatio, eo fortior et uiuidior ſit imaginatio id comprobare poterunt illi homines, qui, com
+
+[p. 353] De facultate imaginandi. 353 compotationibus aſſueti, hoc plus potare uolunt, quo plus iam potarunt. Ratio eſt in promptu, ſi enim quis ſemel iterumque ac tertio uini perſenſit dulcedinem, tum ſemper imaginatio, fortius operata, et pabulum quaſi quoddam nacta, clarius et uiuidius eam menti ſiſtit dulcedinem. Hinc fit, ut, qui ſemel iterumque ac tertio, uitiorum irretiti illecebris, ſe uitiorum conſtringendos dederunt uinculis, uix ac ne uix quidem ex iis ſe expedire queant, imaginatione fortissime operante uiuidiſſime uitiorum delicias nobis re- repraesentante, ad ſimilia uitia exſtimulati.
+
+S5. s12. Imaginatio, cum ſola, quieſcentibus ceteris ſenſibus externis, operatur, maiori claritatis gradu gaudet, quam cum una cum ſenſibus externis operari debet. : Id ipſum experientia quoque teſtatur, qua edocti non ignoramus tum, cum in ſtatu ſomnii uerſamur, et externi ſenſus plane quieſcunt, imaginationem multo fortius et uiuidius operari, quam, cum uigilamus, et nunc ſenſu uisus etc. in imaginando turbamur. Hinc intelligis (a) cur homines, quorum intereſt, ideas imaginationis eſſe clariores, oculos claudant, ſi imaginatio fortissime operari debeat. Z debeat.
+
+[p. 354] 354 De facultate imaginandi. debeat. (3) Planum hinc fit, cur imaginatio in tenebris melius operetur. 7) Cur literati, qui imaginatione alia aliaue obiecta ſibi uolunt re- praesentare, ſeceſſum ament, et a turbis ac cœlebritate hominum remoti eſſe cupiant,
+
+5. s13. Cum per imaginationem abſentia nobis repraeſentemus, abſentia autem ſint infinite multa, debet adeſſe ratio sufficiens, cur imaginatio hanc potius rem abſentem, quam aliam producat.
+
+5 s14 Hanc rationem ſufficientem deprehendimus in quadam idearum ſimilitudine, ſi ſcilicet aliquid, quod in earum una eſt, reperitur etiam in altera, aut, ſi quis duas ſenſationes ſimul habuit, earum una recurrente, altera quoque, quae olim cum priori ſimul exſtitit redit. Ponas, te commeare Lipſiam, atque in foro- minumque turba occurrere tibi perſonam, quae facie aliisque linearum ductibus gaudeat, qui lineis facieique amici cuiusdam abſentis aut patris tui ſunt ſimiles, oppido amicus ille absens aut pater tuus tibi per imaginationem repraesentabitur. Ratio hic latet in obſeruata idearum similitudine. (
+
+Ponas, te in conuiuio olim plures perſonas ſimul uidisse, cum iisque hilariter uixisse. Fac, tibi,
+
+[p. 355] De facultate imaginandi. 355 1 tibi, nec opinanti, longum poſt temporis ſpatium, Caium, qui ſimul tecum conviuio interfuit, ob- uersari, Mox, Caio conſpecto, totum denuo tibi repraeſentabitur conuiuium, omneque id, quod memoratu dignum in conuiuio contigit, menti tuae ſiſtetur. Ratio latet hic in eo, quod Caium ſcilicet, et omnia ea, quae in conuiuio contigerunt, simul senseris. §. 515. し :
+
+Hanc idearum combinationem, quae ſui rationem ſufficientem in ſimilitudine obſeruata habet, uocant philoſophi Aſſociationem idearum. Quandoquidem uero haec idearum combinatio conſtanter obſeruatur, eumque perpetuo ſeruat ordinem imaginatio, ut, uel minima ſimilitudine obſeruata, confeſtim recurrant omnes illae ideae, quae per ſenſationem, eodem tempore factam, producebantur, factum hinc eſt, ut philoſophi certam conſtituerint legem, quam legem siue re- gulam imaginationis appellant.
+
+5 sI6. Lex autem imaginationis continetur hac propoſitione: Perceptio praeterita integra redit, cuius praeſens perceptio tantummodo partem in ſe continet. Alii legem imaginationis ita enunciant: Si quae ſimul ſenſi-
+
+7 a mus, 2 Z2 :
+
+[p. 356] 356 De facultate imaginandi. mus, et unius ſenſatio denuo producitur, imaginatio producit et perceptionem alterius. Hanc imaginationis legem et ruſtici plebeiique omnes et eruditi norunt, confuſe illi quidem, at hi diſtincte Quin, ipſa bruta ſecundum legem imaginationis actiones ſuas inſtituere, comperimus. Quid eſt, quod canis, baculo conſpecto, aufugiat? ſcilicet, cum baculum conſpicit, recurrunt ipſi, occasione baculi, taedioſae ideae uerberum, baculo ipſi inflictorum, idque per legem imaginationis, ui cuius, producta una ſenſatione, recurrunt ſimul omnes, quae cum producta perceptio- ne olim erant coniunctae.
+
+5 315. ES
+
+Ex hac imaginationis lege, quam Lockius de intellectu humano lib.. 2- c. 33: p. 485. 199.
+
+primus diſtincte explicauit, innumeri caſus; cum in uita ciuili, tum in Chriſtiana, exponi et expediri poſſunt. B. Buddeus in Theologia Morali p. m. 170. in- primis tradit, quid imaginationis lex in explicandis uehementioribus affectibus ualeat, quemue item idearum aſſociatio nobis praeſtet uſum in diſcrimine naturae et gratiae recte intelligendo.
+
+5 5IS. Caeterum, quemadmodum imaginatio eſt continua ſenſatio, ũ 509) ſenſationes autem non ſemper in noſtra ſunt poteſtate,
+
+50 auil
+
+[p. 357] De facultate fingendi, 35 G. 503.) ita quoque, imaginationes non ſemper in potestate noſtra eſſe, patet. Experimur id ipſum fere quotidie. Si enim quis imaginem uiderit obscoenam, aut librum foedum legerit, ſibi imaginem obscoenam, poſt multum temporis ſpatium, identidem obuersari, ſentiet, uelit, nolit.
+
+5 5. Quatenus tamen organa noſtra ſenſoria ab obiectis extęrnis poſſumus auertere, ne eadem ſentiamus, eatenus imaginationes quoquę ſunt in noſtra poteſtate. 5i tua intereſt, imaginem obſcoenam non tuis obuersari oculis, auertas oculos ab eadem, omnique modo impedire allabores, quo minus imaginem obuiam aſpicias. Aut, ſi, imaginatione productae ideae mentem tuam turbare non debent, poteris alias res quaſcunque ſenſibus tuis obiicere, ut ita per ſenſationem fortiorem depellatur debilior. Q
+
+### V. DE
+
+V. FACVLTATE FINGENDI. §. 520. ()Quemadmodum anima noſtra gaudet ſo- i septacſnmmãt 6. 320) ſanſpò an
+
+3 que
+
+[p. 358] 358 De facultate fingendi. que deprehendimus potentiam et uim, res, quas imaginatio ſibi sistit, pro arbitrio uel combinandi, uel diuidendi.
+
+Potes tibi alas, licet abſentes, imaginationis adminiculo, repraesentare. Repraeſentare tibi quoque potes equum. Has denique ideas, imaginatione productas, potes pro arbitrio componere, ita quidem, ut ſiſtere tibi poſſis equum alatum. At hoc modo, inquies, poterimus quid imaginari ri no bis, quod tamen nunquam uidimus, quod eſt contra §. 508. Reſpond. Poſſumus quidem plura phantasmata inter ſe componere, ut inde emergat res 54 aliqua, quam nunquam uidimus; at partiales tamen ideas uel phantaſmata, quae componis, te ſenſibus uſurpaſſe, oportet. Quamuis non uideris equum alatum, alas tamen et equum, tanquam partiales ideas et phantaſmata, ex quibus equus alatus componitur, ſenſeris, neceſſe eſt,
+
+ær æ
+
+Haec idearum combinatio uel diuisio, ab imaginatione pro arbitrio producta, ſi ita in- ſtituitur, ut nullum extra mentem obiectum ideae totali productae reſpondeat, tum appellatur Fictio; ipſa autem mentis potentia ita ideas uel combinandi uel pro arbitrio diuidendi, dicitur facultas fingendi. E. gr. Cum poètae Harpyias ſibi repraeſentant, combinant faciem uirgineam, flauam comam, 4
+
+[p. 359] De facultate fingendi. 359 A mam, alas et corpus accipitris, aures urſinas, manus humanas. Ex qua arbitraria plurium rerum combinatione exſurgunt monſtra illa, quae Harpyias uocant. Fingunt hic poẽtae. Plures enim ideas pro arbitrio et lubitu combinant, atque id ita quidem, ut inde emergat idea aliqua totalis, cui nullum extra mentem obiectum reſpondet. Ecquis enim umquam uidit eiusmodi monstrum? Ecquis comprobabit, dari Harpyias, niſi in poẽtarum cerebro?
+
+§. 522. Cũm fingimus, tum aut res et ideas, ſibi repugnantes et contradicentes, combinamus, aut coniungimus ideas, quarum una alteram non tollit In hoc caſu dicuntur fictiones poſſibiles, in illo uero appellantur fictiones impoſſibiles, ſiue chimaerae. Ad fictiones poſſibiles referimus fabulas nonnullorum, eleganter confectas, item plures fictiones in philoſophia. Cum e. gr. nobis uniuerſam gentem et ſocietatem, tanquam perſonam indiuiduam repraęſentamus, atque exinde officia gentis erga gentem deducimus. Ad chimaeras autem, ſiue fictiones impoſſibiles, pertinet reſpublica Platonica, coecorum item reſpublica.
+
+§. 523. A fictionibus dependet magna ex parte ars inuenięndi architectorum. Ars item u_ 4 pin-
+
+[p. 360] 360 De ſtatu uigiliarum, pingendi, ſculpendi, et architectura horten- ſis nituntur fictionibus.
+
+Quid fictiones generatim praeſtent in ueritatibus inueniendis, id uero praeclare oſtendit CI Koehlerus in dissertat. de fictionibus heuristicis. Ienae 1724. habita. X
+
+CAP. VI. 4 DE
+
+STATV VIGILIARVM SOMNI ET SOMNII. Ex his, quae de ſenſationibus, imagina- IL tione et fictione dicta ſunt, clare nunc et perſpicue poterit intelligi, quid ſit uigiliae i7
+
+ſomni, ſomniique ſtatus.
+
+5565. Quando anima noſtra in eo eſt ſtatu, ut obiecta externa in corporis organis ſenſoriis mutationem producant, et ipſa res extrinſecas clare ſentiat, tum dicimur uigilare. Cum uero in eo uerſatur anima ſtatu, ut nihil clare ſentiat, nihilque clare imaginetur, tum dicimur dormire, et ille ſtatus dicitur ſomnus.
+
+[p. 361] ſomni et ſomnii. 361 9. 526. Somnium autem eſt inter ſomnum ac uigiliam ſtatus medius. In ſomnio enim anima quidem obiecta externa clare non ſentit, ſed tamen ea, quae in ſtatu uigiliae iam clare percepta sunt, clare ſibi imaginatur.
+
+Somnia, itaque, patet, eſſe imaginationes, quae ſolae, ſine ſenſationibus coẽxiſtentibus, in anima exiſtunt.
+
+Somniare non poſſumus, niſi de rebus, ſenſu perceptis. Demonſtr. Cum enim ſomnia ſint imaginationes, ꝗ- 527.) imaginari autem nihil nobis poſſimus, niſi quod ſenſibus percepimus, 508.) manifeſta eſt ratio, nihil nos in  somniis nobis poſſe imaginari, niſi quod iam à nobis ſenſu fuit perceptum.
+
+§. 530. Cum autem, teſte experientia, anima noſtra phantaſmata pro arbitrio uel combinet, uel ſeparet, 520) non mirum eſt, animam in ſomnio, nullis quippe ſenſibus
+
+Z; ex-
+
+[p. 362] J 362 De ſtatu uigiliarum, etc. externis turbatam, fortissimeque operantem, plura ſaepius phantaſmata, et plures, antea ſeorſum perceptas, ita combinare, ut inde emergant imagines monstrosae, formidoloſae, ęt terribiles.
+
+Anima noſtra in ſomniis operatur ſecundum legem imaginationis.
+
+Demonstr. Cum enim ſomnia ſint imaginationes, 527.) facile intelligis, animam operari in iisdem ſecundum legem imagina, mtii tionis. ꝗ 516)
+
+E. gr. Fac, te ante, quam cubitum eas, uel legis- ſe quid, uel cum amico ſermones contuliſſe de spectris, oppido imaginatio, quieſcere neſcia, et moleſte ſedula, formidoloſis imaginibus te dormientem turbabit. Ex quibus imaginibus ſi una alteraue, uestimento rubro induta, tibi comparuerit, confeſtim, ob ſimilitudinem coloris, imaginatio bellum et funestam cladem tibi ſiſter. Atque ita inter tormentorum bellicorum fragores et : tympana uerſaberis. Si datum nobis eſſet, àd omnia, quae in ſomnio obueniunt, attendere, profecto totius phantasmatum successionis rationem. ex lege imaginationis eſſemus reddituri.
+
+5 53% uill
+
+[p. 363] De memoria, obliuione et reminiſcentia. 363
+
+-532. Fit nonnunquam, ut, dum ſomniamus, clare agnoſcamus, quid ſomniemus, tum ſomnium appellatur clarum. Fit uero quoque, ut, quid ſomniauerimus, non ſatis agnoscamus, tum ſomnium appellamus - obscurum. :
+
+Cum clarum fuerit ſomnium, tum expergefacti omnium eorum, plerorumque certe, quae somniauimus, recordari poſſumus, aliisque ſomnium ſpeciatim enarrare. Quod non item licet in ſomnio l obſcuro.
+
+CAP. VII. E
+
+MEMORIA, OBLIVIONE REMINISCENTIA.
+
+Experientia teſte, nouimus, animam no-
+
+Nostram perceptiones, iam olim habitas, non modo poſſe reproducere, ſed reproductas-  quoque ideas recognoſcere, quod eaedem ſint, quas iam antea habuimus.
+
+E. gr.
+
+[p. 364] 364 De memoria, obliuione 7 1
+
+#### E. gr. Vides florem aliquem peregrinum in
+
+principis alicuius horto. Quem dum Dresdae intueris, ſimul autem tibi conſcius es, te iam illum ipſum florem olim uidiſſe Lipſiae, reproductam ideam floris recognoſces, quod eadem ſit, quam iam ante habuiſti.
+
+Facultas animae ideas reproductas recognoscendi-  pro iisdem, quas iam antea ha- habuimus, uocatur memoria, Ita notionem memoriae determinat Cl. Volfius in Pſychol. Empir. Lat. p. 12333 Sunt ex ueteribus, qui, memoriam idearum receptaculum ` eſſe, dicunt. Alii eam facultatem ideas, siue perceptiones, iamdum habitas, reproducendi appellant. Sed illi, uocabulo uſi metaphorice, leges definiendi migrant. Conf. Logic. ꝗ. 169. Hi uero imaginationem cum memoria confundunt. Aliud enim eſt, res obiectas extrinſecus immediate percipere, quod eſt ſenſuum, aliud uero eſt, perceptiones, iam olim habitas, reproducere, quod eſt imaginationis, aliud denique est, ideas, ab imaginatione reproductas,  recognoscere, quod eaedem ſint, quas iam olim hàbuimus, id quod operatio eſt memoriae. Quod aliud quid ſit, ideas reproducere, aliud uero quid, recognoscere, quod ideae reproductae eaedem ſint, quas iam olim habuimus, quodque uſui loquendi conuenienter et recte determinetur notio [p. 365] et reminiſcentia. 265 tio memoriae, intelligi poteſt, ſi ad ſequens at- tenditur exemplum. Annon ſaepius contingit, tibique uſu uenit, ut, ſi quid legiſti in libro quo- piam, imaginatio quidem ideam iſtam in mente reproducat, ſed tibi ſis non ſigillatim conſcius, te ea, quae iam in mente tua reproducuntur, in libro iſto legiſſe. Quod cum fit, memoriae hunc defectum imputas. Vides, notionem memoriae uſui loquendi conuenienter determinari, cum per illam intelligitur facultas, ideas, ab imaginatione reproductas, recognoscendi, quod eaedem ſint, quas olim habuimus.
+
+impotentia animae, perceptionem repre:
+
+ductam recognoſcendi, quod eadem ſit, quam iam olim habuimus, dicitur obliuio. : §. 536.
+
+De memoria nos docet experientia ſe- quentia: 1
+
+### I. Facile memoriae mandamus ea, quae
+
+uel diu, uel saepius percipimus, uel frequentius ruminamur et repetimus. II.
+
+Facilius quoque ea mandamus memoriae, quae diſtincte percepimus, quam quae confuse. 3 1 1 Y III.
+
+[p. 366] 366 De memoria, obliuione III. Felicior est memoria, quae res perceptas plures cito arripit, et, diu retinet, :
+
+Vt adeo bonitas memoriae ex ſequentibus aeſtumetur. Si quis (a) plurima, cito et facile memoriae mandata, et (Y) memoriae mandata diu retinet, bona gaudere dicitur memoria.
+
+5. 55- Fit nonnunquam, ut idea, ab imaginatione reproducta, obſcura ſit, et ne quidem recognoſcatur, tum ſolemus, cum repraeſentatio, ab imaginatione reproducta, recognoſci debet, eam in claram et diſtinctam commutare, idque ita, ut nonnullae, uel temporis, uel loci, circumstantiae allegentur, quibus mediantibus idea reproducta clara fiat.
+
+Fac, tibi, Lipſiae commoranti, in foro Titium obuiam uenire, cum quo, ante decem, amplius, annos in conuiuio aliquo Dreſdae ſimul fuiſti. Fac, te non poſſe recognoſcere, quod idem ſit Titius, quem olim uidiſti Dreſdae in conuiuio, tum allegabit Titius aliquas circumſtantias, quae olim In conuiuio adfuerunt. Atque, his mediantibus circumſtantiis, recognoſces tandem, eundem eſſe Titium, quem olim Dreſdaẽ uidiſti.
+
+s.538- uil [p. 367] et reminiſcentia. 367
+
+§. 538. Facultas animae perceptiones praeteritas, mediantibus quibusdam circumſtantiis, reproducendi et recognoſcendi, et obſcuras ideas, iam olim habitas commutandi in claras et diſtinctas, dicitur reminiscentia.
+
+Cum e. gr. Titius, in nundinis Lipſienſibus tibi occurrens, allegat quasdam loci temporis- que circumstantias, quibus mediantibus, possis recognoscere, quod idem ſit Titius, qui cum ui- xiſti Dreſdae, tum dicis, allegatis circumſtantiis: ich beſinne mich nun etc. §. 539. Haec quidem hactenus de cognoscendi facultate, eiusque parte inferiori Ad quam retulimus omnes illas animae operationes et facultates, quas cum brutis habemus communes. Bruta, ut homo, ſentiunt, imaginatione et ſomniis gaudent, recordantur, re- miniſcuntur. Nunc ad eas progrediemur operationes et facultates, quas ſibi homo proprias uindicat. Atque huc pertinent facultas attendendi et reflectendi, ratio, intellectus, ab- strahendi item potentia etc. 2. :
+
+[p. 368] 368 De facultate attendendi
+
+FACULTATE COGNOSCENDI EIVSQVE PARTE SVPERIORI. CAP. I. DE FACVLTATE COGNOSCENDI EIVSQVE PARTE SVPERIORL
+
+C AP. I PFACVLTATE ATTENDENDI D
+
+REFLECTENDI.
+
+§. 540. Ordinis exigit ratio, ut, expoſitis iis, quae ad facultatem cognoſcendi, eiuſque partem inferiorem pertinent, ea nunc exponere aggrediamur, quae ad facultatis cognoscitiuae partem ſuperiorem ſpectant. Huc uero referuntur omnes illae operationes animae noſtrae, per quas res cognoſcimus diſtincte, quasque cum brutis plane non habemus communes.
+
+§. 541. Deprehendimus per experientiam, nos poſſe efficere id, ut perceptionis A, magis ſimus conſcii, quam perceptionis B, adeoque ut perceptio A, clarior euadat, quam caeterae [p. 369] et reflectendi. 369 cetera omnes perceptiones, quae cum A, una adſunt.
+
+#### E. gr. Efficere poſſumus, ut, cum, in quandam
+
+ingreſſi bibliothecam, multos contemplamur libros, unum eorum ſpeciatim poſſimus conſiderare, atque id ita quidem, ut huius libri, quem pra. ceteris omnibus nunc intuemur et inspicimus, magis et clarius nobis ſimus conscii, quam ceterorum omnium, qui ſimul ſe uiſui noſtro exhibent.
+
+s s4 Cum efficimus, ut unius rei A, magis nobis ſimus conſcii, quam ceterarum, quarum aeque poteramus nobis eſſe conſcii, tum illi rei A, dicimur attendere. Attendis e. gr. in bibliotheca illi libro, quem nunc prae ceteris omnibus in bibliotheca contue- ris,. Attendis Sermoni oratoris, ſi ĩllius :tibi magis fueris conſcius, quam aliarum rerum, quas eo tempore tibi poteras repraesentare.
+
+Attentio ſuis gaudet gradibus. Eo maior eſt attentio, quo (a) diutius quis cogitationes ſuas ita poteſt in obiecto aliquo defigere, ut ſingula, in obiecto occurrentia, acie mentis peruadat et pertentet. (B) Attentio eo maior eſt, quo pluribus obiectis ſimul eodem tempore poſſumus attendere. Attentio maior eſt, ſi quis, inter multos
+
+ſtrepi- Aa ſtre- [p. 370] phiCF 370 De facultate attendendi. : ſtrepitus, cum multa obiecta externa feriunt organa ſenſoria, rei alicui poteſt attentione ita inhaerere, ut rerum, ſenſus ferientium, propemodum ſibi non amplius ſit 4 conſcius. ,u:
+
+Vt hi gradus pateſcant euidentius, ſequens addo exemplum. Cum quis, qui philoſophiae operam dat, ita poteſt demonſtrationi attendere, i S5æ Eàs ut omnes propoſitiones, in demonſtrationis catena, longa ſerie connexas, ſigillatim ſibi sistere poſſit, et, quo quaeque nexu cum altera ſit coniuncta, diſtincte perſpiciat, tum eiusmodi hominis attentionem permagnam eſſe, dicimus. Hanc, in diu conſeruanda attentione, patientiam ſum-. mam, reperimus in maximis quibuſque mathematicis, et exercitatissimis philoſophis. Cum porro quis et epiſtolam ſcribere, et, eodem tempore, pluribus aliis epistolas diuerſi argumenti dictare, et omnibus ac ſingulis ſpeciatim attendere poteſt, 57 tum uero magnam eiusmodi attentionem mira- mur, Iulius Caesar exemplo hic nobis eſſe poteſt, quem, accepimus, id praeſtitiſſe.
+
+s. 544- Quemadmodum, experientia teſte, attentio continuo nec interrupto exercitio et acquiritur et augetur, ita, per ſenſus et imaginationem omnesque confuſas repraesenta -7 tiones attentionem turbari et minui, itidem conſtat. Cum [p. 371] et reflectendi. 37I Cum e. gr. quis quotidie demonſtrationes mathematicas et philosophicas, uel ' legerit, uel ab aliis propositas, audiuerit, uel denique ipſe eas confecerit, id tandem, ſuccedente tempore, con- ſequetur, ut connexionem multarum propositionum, in demonſtratione longa ſerie concatenatarum, facili negotio queat perspicere Quod idem iuuenis minus exercitatus uix poterit prae- stare. Quod uero ſenſus et imaginatio turbent et minuant attentionem, tuo ipſius exemplo quotidie condoceberis. Fac, te in muſeo libris assidere, et demonſtrationi mathe:maticae, a VVolfio prolatae, attendere: Fac uero, uel fragorem tormentorum, uel horrisonum tympanorum strepitum ex improuiſo aures tuas ferire, tum derepente omnis euaneſcet attentio. Fac ꝗuœque, te, cum ☐ legis librum, argumento cuidam d difficili attendere, imaginationem autem imaginem, heri uiſam, tibi reproducere, tum extemplo omnis turbatur attentio.
+
+ꝗ. 545: Cum attentio ita per partes continuatur, ut omnes partes, in toto occurrentes, ſpeciatim contemplemur, tum ille mentis no- ſtrae actus dicitur reflexio. Reflexionem et actum reflexum uocabant ueteres illam animae actionem, qua ſeipſam et ſuas operationes cognoscit. Sed significatus uocis reflexionis, uti a nobis determinatus, uſu communique ſermone receptus eſt. Fac e. gr. ho-
+
+Aa 2 rolo :
+
+[p. 372] a ES
+
+3 De facultate attendendi et reflectendi. 5/ rologium argumentum tibi offerri. Fac, te uelle ſuper illud reflectere. Quid agis? Annon omnibus rotulis, in horologio occurrentibus, sigillatim attendis? Annon omnes catenulas ſpeciatim conſideras? Vides in reflectendo attentionem conti- nuari per ſingulas et minimas alicuius rei partes. 5 346. Intelligis hinc
+
+### I. quid ſit, cum animam ſuper ſeipſa et
+
+actionibus ſuis reflectere dicimus. In hoc caſu anima ad omnia partialia, et omnes ſuas ſpeciales actiones attendit. i II. Hinc patet, ea omnia, quae de attentio- ne dicta ſunt, (§. 541.) ualere quoque de re- flexione.
+
+IlI. Quae igitur attentionem turbant et r Tr. minuunt, ea reflexioni quoque obſtant.
+
+E s. 547. Mediante reflexione, a cognitione clara et confuſa ad distin & tam cogni- Hu tionem intellectu progredimur, Demonstr.
+
+Cum enim, ope reflexionis, partialia in re quapiam obuia, ſigillatim nobis repraesentemus, ſ5. 545.) eiusmodi autem repraesentatio rerum, qua notas et partes alicuius rei nobis sigillatim repraesenta- qua mus, dicatur cognitio distincta, (§. 75. Log.) mani
+
+[p. 373] A De intellectu. 373 manifeſtum eſt, mediante reflexione, a cognitione clara et confuſa ad diſtinctam cognitionem nos progredi.
+
+CAP. II. DE INTELLECTV. §. 548. supra iam, et in Logicis, a nobis probatum eſt, uariam eſſe noſtram rerum repraeſentationem, et cognitionem, confuſam aliam,  diſtinctam. (Conſ. 494)
+
+Facultatem res diſtincte repraesentandi dicimus intellectum. 4
+
+Vox intellectus tam late interdum patet, ut per eam ab nonnullis philoſophis omnis cognitio humana, ſiue confuſa illa ſit, siue diſtincta, intelligatur. Ita novimus, a ueteribus animae no- ſtrae adſignari duas potentias, intellectum ſcilicet, ſiue facultatem repraeſentandi; et uoluntatem, ſiue facultatem appetendi. Per intellectum ,itaque facultatem cognoſcendi generatim intelligebant. Vox autem intellectus multo aliter determinari debet. Attendas ad uſum loquendi. Intelligere nos tum demum rem aliquam recte dicimur, ſi eam diſtincte et cum ſuis notis characteristicis repraeſentauerimus, et, intelligi
+
+Aa 3 biliter
+
+[p. 374] Du- ſt? ruai
+
+374 De intellectu. biliter explicare quid, nos dicimus, cum ita illud explicamus, ut rationem interiorem et notas rei allegemus. Intellectus itaque recte definietur per facultatem, res diſtincte repraeſentandi. Si intellectus ſenſuum et imaginationis confuſas repraesenta itiones ſub ſe complectitur, quidni etiam brutis intellectum tribuimus?
+
+E:i a ꝗ. s50. Ex his intelligis
+
+### I. Eo maiorem eſſe intellectum, quo aplura
+
+ſibi diſtincte repraeſentare poteſt.
+
+### II. Maior itidem eſt intellectus, ſi plura-
+
+_g diſtinctius ſibi repraeſentat. Ill. Maximus itaque et perfectiſſimus intellectus ille eſt, qui (a) omnia possibilia, B) distinctissime et adaequatissime, (y) unico actu et ſimul, ſibi repraeſentat.
+
+S35I. Per experientiam deprehendimus, nos nec omnia nobis repraeſentare, nec, quae nobis repraeſentamus, ea diſtinctiſſime nos nobis sistere Adeoque, uides, intellectum humanum, cum quoad obiectum, tum quoad modum repraesentandi, eſſe limitatum.
+
+5. 552- Intellectum purum dicimus, ubi res eo diſtinctionis gradu nobis repraesentamus, A ut 1
+
+[p. 375] De intellectu. 375 ut nulla ſenſuum imaginationisque confuſa repraeſentatio ſit admixta. Intellectus impurus eſt, cum res nobis ita repraeſentamus, ut multas adhuc ſenſuum et imaginationis confuſas ideas admixtas inueniamus. Cum e. gr. quis, in Metaphyſicis uerſatus, notiones abſtractas ſpatii, essentiae, etc. tam distincte ſibi repraeſentat, ut nullis imaginibus ſenſua- libus, ad eas recte intelligendas, opus habeat, tum haec intellectus operatio pertinet ad intellectum purum. Si uero quis ſibi notionem ſpiritus, ſine imagine quadam ſenſuali, formare nequit, tum illud eſt indicium intellectus impuri.
+
+c s53: Intelligitur hinc, in hac uita nec dari intellectum, perfecte purum, nec dari poſſe. Demonstr. Cum enim, et quoad modum repraeſentandi, et quoad obiectum, intellectus noſter limitatus ſit, adeoque non omnia diſtinctiſſime ſibi repraeſentare poſſit, (§. 55.) facile intelligitur, multas adhuc ſenſuum et imaginationis confuſas repraeſentationes eſſe diſtinctis animae repraeſentationibus intermixtas. Quo ipſo patet, nec dari, nec dari poſſe, in hac uita, intellectum perfecte purum. Aa 4 Equidem
+
+[p. 376] 376 De intellectu. م Equidem non nego, et mathematicos, et philo- sophos, tam abſtractas ſibi formare rerum ideas poſſe, ut omnem confusam ſenſuum imaginationisque repraeſentationem abeſſe, crederes. At, re rite expenſa, deprehendes, etiam subtilissimis et maxime abſtruſis conceptibus admixtas eſſe con- fuſas ſenſuum et imaginationis ideas.
+
+y 554- Operationes, quas intellectui debemus, ſunt potissimum ſequentes. (a) Format intellectus ideas ſiue notiones. (B) Ideas uel coniungit uel separat, ex quo naſcitur iudicium. (y) Ex iudiciorum coniunctione derivat novum iudicium, unde oritur ratio- cinium.
+
+Addunt nonnulli quartam operationem, ſcili- cet ratiociniorum concatenationem ſiue demonſtrationem.
+
+Cum de tribus hiſce >>D intellectus operationibus in inſtitutionibus philoſophiae rationalis malis ſufficienter a nobis actum sit, non eſt, cur iis explicandis immorari uelimus. Quare, paucis tantum hic exponemus, quae qualeſque ſint ideae, quas intellectus ſibi format. §. 556. Cum ideae indiuiduales ſint repraeſentationes rerum praeſentium, res praesentes
+
+[p. 377] De intellectu. 377 tes autem ſiue exiſtentes, tantum ope ſenſuum, nobis repraeſententur, (§. 47.) manifeſtum eſt, ideas indiuiduales ab intellectu non formari.
+
+**§5**
+
+55: Ideis ſingularibus ſiue indiuidualibus opponuntur notiones uniuerſales ſiue abſtractae. 108. Log.) Cum itaque ideas ſingulares ſiue indiuiduales non intellectus formet, (§. 557.) palam eſt, uniuerſales ſiue abſtractas notiones tantum formari ope intellectus.
+
+5 58. Cum uero ideae ſiue notiones generum et ſpecierum ſint notiones uniuerſales, ſꝗ. I. Log.) patet, ideas, quae intellectu formentur, eſſe ideas generum et ſpecierum.
+
+S5 Quid ſit genus, 559: ſpecies, qua item quidue ratione notiones uniuerſales formentur, dictum eſt a nobis in Logicis. 105. 107 Ibi enim demonſtrauimus, notiones generum et ſpecierum, tanquam notiones uniuerſales formari non poſſe, niſi per abſtractionem. (5. no.) Breuiſſimis itaque tantum hic attingemus, in quo conſiſtat abſtractio facultasque abſtrahendi, animae noſtrae propria.
+
+Aas S. 560.
+
+[p. 378] 378 De intellectu. §. 560. Cum indiuidua nobis repraesentamus, tum eiusmodi res nobis ſiſtimus, quae omnimode ſunt determinatae, innumerisque inuolutae circumſtantiis et characteribus exhibentur. oo. Log.) Si itaque notiones generum et ſpecierum, tanquam notiones uniuerſales, nobis formare uolumus, tum id ita fit, ut notas illas et characteres, in quibus indiuidua perpetuo conueniunt, separatim consideremus, illas autem determinationes, quae in indiuiduorum collatione non ſunt perpetuae, in mente paulliſper ſeparemus et omittamus. Atque hoc ipsum eſt abstrahere. Notiones autem ita formatae dicuntur abſtractae. Si e. gr. notionem ſpei formare uolueris, tum opus eſt, ut plures caſus indiuiduales, in quibus ſperare quidam dicuntur, conſideres et inter ſe conferas. Id quod in pluribus iſtis caſibus non perpetuo occurrit, mente ſeparas ab iis determinationibus, quae ſunt in pluribus casibus perpetuae et conſtantes. Id quod fit abſtractione.
+
+5. 56. Cum notiones, abſtractione formatae, et uniuerſales, non in ſenſus incurrant, adeoque aliis coram monſtrari nequeant, nobis summum Numen dedit uerba, per quae uarieta-
+
+[p. 379] De intellectu. 379 quae uarietates rerum, maxime abſtractas, a ſe inuicem diſtinguere, et cum aliis communicare poſſumus.
+
+Sic e. gr. notio abſtracta et uniuerſalis hominis non incurrit in ſenſus, neque adeo alicui coram monſtrari illa poteſt. Si tamen alter, quid ſit homo, noſſe uoluerit, tum ipſi notionem hominis uniuersalem poteris per uerba ingenerare, dum ſcilicet recenſes notas illas et characteres, quibus homo ab aliis omnibus rebus internoſci poſſit.
+
+§. 562. $ Cum rem nobis immediate repraeſentamus, ita, ut illam coram intueamur, tum illa cognitio dicitur intuitiua?. Cum uero res nobis, uel per uerba, uel per alia quaecunque ſigna, nobis sistimus, dicitur illa cognitio  ſymbolica.
+
+Si e gr. ſolem praeſentem intueris, tum illa cognitio ſolis dicitur cognitio intuitiua. Cognitionem autem ſymbolicam habes ſpiritus, ſi cogitas, ſpiritum nihil eſſe aliud, quam ſubſtantiam immaterialem, intellectu et uoluntate praeditam, S.
+
+§. 563. Cognitio ſymbolica uel maxime facit ad ideas distinctas acquirendas. Demonstr.
+
+[p. 380] De intellectu Demonstr. Cum enim cognitione ſymbolica, ſiue per uerba, partes et notas rei cuiusque diſtinguamus, 56I) conſequens eſt, ut, ope cognitionis ſymbolicae, ideas rerum distinctas acquiramus. 72. Log.) Atque adeo per ſymbolicam cognitionem ideas diſtinctas acquirimus. Conf.
+
+Gollingii diſſertat. de Cognitione intuit? ”a crt ſymbolica, in qua cum alia multa, ad per- ſpiciendum cognitionis intuitiua et ſymbolicae differentiam, asserantur, tum inprimis demonſtratur, omnem noſtram cognitionem uniuerſalem, et di- ſtinctam uocabulis ceteriſque ſignis ita niti, ut notio diſtincta eo momento deſinat, quo nulla amplius ſigna ſuppetunt.
+
+Acuti dicuntur oculi noſtri, ſi plura in obiectis, quae ſe exhibent uiſui, poſſumus a ſe inuicem diſcernere. Atque adeo acumen (&Szorſfſimigttit) eſt in anima noſtra nihil aliud, quam facultas, in uno obiecto multa distinguendi.
+
+#### E. gr. Cum quis notionem uel legis uel obliga
+
+tionis ſibi format, atque in his notionibus plura distinguere a ſe inuicem, et detegere nouit, tum eiusmodi homini acumen tribuimus.
+
+5 in55. Quo itaque plura in re quapiam quis di- stinguere nouit, hoc maius eſt acumen. õ. 566/
+
+[p. 381] De intellectu. 381 §. §. 566. Acumen cum intellectu eſt connexum, et quo quis maiori gaudet intellectu, eo maius in ipſo eſt acumen. Demonstr. Cum enim intellectus nihil ſit aliud, quam facultas, diſtincte res sibi reprae- ſentandi, 59.) distincte autem rem quampiam nos nobis repraeſentemus, ſi plura in ea ſiue partiales notas a ſe inuicem distingue- re, ſeparatimque nobis repraeſentare poſſimus, (§. 72. Log) intelligis, acumen, quippe quod eſt facultas, plura in re quapiam diſtinguendi, (§. 164.) pertinere ad intellectum. Cum praeterea hoc maior ſit intellectus, quo diſtinctius ſibi res repraeſentat, 6. 550.) hoc autem diſtinctius intellectus ſibi res reprae- sentet, quo plura poteſt in re repraeſentata diſtinguere, (§. 7. Log.) manifestum eſt, hoc maius eſſe acumen, quo maior eſt intellectus. §. 567. Quod ad ceteras mentis operationes, iudicium scilicet, ratiocinium et demonstrationem attinet, iis recenſendis ſuperſedere poſſumus propterea, quod et iudicii naturam, et ratiociniorum demonstrationisque uarias ſpecies in philoſophia rationali uberius excussimus.
+
+[p. 382] 381 D? ingenio, ratione,
+
+C AD. III. INGENIO, RATIONE, RATIONISQOVE ANALOGDO.
+
+§. 568. Cum plures res inter ſe conferimus, tum experientia nos edocet, nos facile poſſe cognoſcere, quid ſit in rerum plurium repraeſentatione ſimile, quid dissimile Facilitas ſimilitudines rerum obſeruandi, dicitur ingenium (Wi.) Vox ingenii tam late patet ſaepius, ut per eam nonnulli intelligant uniuerſum complexum omnium facultatum et uirium mentis, Sic dicimus: Caius eſt bono ingenio praeditus. Id eſt, facile obuia quaeque arripere, memoriae mandare et diiudicare poteſt. Vſus tamen loquendi quemlibet condocet, ingenium ſtrictiori ſenſu nihil aliud significare, quam eam mentis facultatem et promtitudinem, qua res inter ſe facilè comparare, et rerum ſimilitudines ſine multo labore introſpicere poſſumus. Ingenio e. gr. haec deberetur locutio, ſi diceres: Prudens utitur diuitiis ſuis, uti mendicus claudus; ſubalaribus fulcris (krücke) Quemadmodum modum enim mendicus claudus subalaria fulcra non amat quidem per ſe, neque tamen ea abiicit, sed iis ad ambulandum opus habet; ita etiam diues diuitias ſuas non abiicit quidem, neque tamen [p. 383] rationiſque analogo. 383 : diuitias suas non abiicit quidem, neque tamen eas amat per ſe, ſed eas retinet, usus et neceſſitatis gratia.
+
+§. 569. Hinc ingenioſus (sinnreich) ille dicitur, qui ſimilitudines rerum facile obſeruat. Prae ceteris poëtae et oratores ſunt ingeniosi.
+
+Vtuntur, et oratores, et inprimis poëtae, allegoriis et metaphoris, quae in rerum ſimilitudine fundantur. §. 570. Ad ingenium opus eſt attentione et reflexione. Demonſtr. Ope enim ingenii ſimilitudines rerum obſeruamus, (§. 568.) ſimilitudo au- ' tem plurium rerum ita obſeruatur, ut tam ea, quae in uno, quam quae in altero adſunt, probe a ſe inuicem diſtinguamus, et deinde, quatenus in utroque idem ſit, attendamus. Quod cum, ut uides, fieri debeat ope attentionis et reflexionis, (§. 52.) E. ad ingenium opus eſt attentione et reflexione:
+
+§. 571. Cum Syſtemata philoſophica, ſiue eiusmodi libros, in quibus ueritates et propositiones uniuerſaliores proponuntur et traduntur, inſpicimus, tum generaliores illas et
+
+[p. 384] De ingenio, ratione, 1 : et uniuerſales propoſitiones ita ordinatas deprehendemus, ut aliae ex aliis demonſtrari poſſint, et poſteriores ex prioribus intelligi queant, cur ſint uerae Vnde perspicuum eſt, propoſitiones et ueritates uniuerſaliores inter ſe connecti.
+
+§. 572. Facultatem animae noſtrae, nexum ueritatum uniuerſalium diſtincte perspiciendi, dicimus rationem. n S7mEZ: j l Philoſophi in omnibus fere assertionibus ſuis ad rationem prouocant, ipſi tamen, quod mirabile di- ſtu, ſententiam de ratione dicere iuſſi, in uarias di- ſtrahuntur sententias.
+
+P sc Prius uero, quam rationis uox determinari rite poteſt, duplex rationis acceptio probe eſt atten re denda. I. Sumitur ratio obiectiue pro ipſo ueri- ratum et propoſitionum uniuerſalium nexu. Atque ita ſumſiſſe uidetur Leibnitius rationem, cum in diſcurſu de conformitate rationis et fidei, Theodicaeae praemiſſo, §. 23. rationem definit per catenam i. e. nexum ueritatum. II. Sumitur subiectiue, pro facultate mentis noſtrae, ueritatum uniuer- ſalium connexionem diſtincte per- spiciendi. Quod uero uox rationis recte ita determinetur, id uero ſequentibus comprobatur. Annon uſui loquendi eſt conforme, cum dicimus: Caius uitam ſuam non inſtituit rationi conuenienter, cum quotidie comeſſatur, ſcortatur, et, libris uuil [p. 385] rationisque analogo. 385 1 libris ſepoſitis, ſtudiisque liberalium artium poſthabitis eam uiuit uitam, ut damna, c eiusmodi diſſoluta uiuendi ratione oritura, plane non per- pendat? Annon contra Sempronius uiuit rationi conformiter, cum uitam suam ita inſtituit, ut futuras conſecutiones futuramque felicitatem infelicitatemue continenter conſideret, et ante oculos habeat? Vides in his exemplis, Caium ideo rationi non conuenienter uiuere dici, quia nexum inter actiones ſuas actionumque conſequentias non per- ſpicit. Sempronius uero ideo ad rationis ductum uiuit, quia non praeſentia modo intuetur, ſed ſimul mente cernit futura, et eminus proſpicit consecuturos actionum ſuarum euentus.
+
+Cicero idem, quod nos, per rationem uoluit intelligi. Ita enim ille in libro I. de officiis, Cap. IV. Homo, inquit, quod rationis est par- ticeps, per quam conſequentia cernit, cauſſas rerum uidet, earumque progreſſus et quasi ante- cessiones non ignorat, ſimilitudines comparat, et rebus prae- ſentibus adiungit atque annectit futuras. Quo quidem quid aliud innuit atque indicat Cicero, quam hoc, nos per rationem rerum et ueritatum nexum perſpicere Neque eſt, quod contra hanc rationis definitionem ob- iicias, eſſe illam nimis anguſtam, dum ad rationem non modo requiratur, ut nexum ueritatum per- ſpiciat, ſed quoque, ut a bono malum, et a malo bonum diſtinguat, et uerum falsumque di- iudicet. Sed diſtinguas, quaeſo, operationes intellectus ab operationibus rationis. Formatio
+
+Bb : notio-
+
+[p. 386] 386 De ingenio, ratione, notionum uniuerſalium, quam nonnulli rationi tribuunt, non ad rationem, ſed ad intellectum pertinet. 5 s533: Intelligi hinc et determinari poſſunt gradus rationis. Quo longiorem ſcilicet ueritatum nexum quis poteſt perſpicere, eo ma- jori rationis gradu gaudet, quo breuior uero eſt ueritatum nexus, qui perſpicitur, hoc minor eſt rationis gradus. Vbi uero plane nulla ueritatum connexio perſpicitur, ibi non locum habet ratio. Licet hinc intelligas, cur experientiam philo- ſophi opponant rationi. In experientia, per quam ea tantum, quae coram ſunt, et in ſenſus incurrunt, contuemur, nullum ueritatum nexum perſpicimus. Brutis quoque quare omnis denegetur ratio, hinc perſpicuum eſt. Bruta enim, ut obseruamus, ſenſibus tantum praeſentia contemplantes, neque praeſentibus, ut Cicero monet, futura annectunt et adiungunt.
+
+§. 574. Ratio maxime ſe exſerit ratiocinando. 1 Demonstr. Dum enim ratiocinamur, ex duobus iudiciis inter ſe collatis, deducimus tertium, adeoque, quomodo iudicium tertium cum duobus aliis iudiciis connexum ſit, perſpicimus. Quod cum ſit ut [p. 387] rationisque analogo. 387 ſit operatio rationis, (§. 572.) manifeſtum - eſt, rationem ſe maxime exſerere ratiocinando. Vnde et ratiocinia dicuntur Vernunft- &schlüsse.
+
+§. 575. Si ratiocinia et demonſtrationes ita concatenare poſſumus, ut, in demonſtrationum nexu, loco fundamenti, substernantur nonniſi axiomata et definitiones, neutiquam uero experientiae, tum, ſi nexum eiusmodi ratiociniorum et demonſtrationum perſpicimus, ratione pura gaudere dicimur. Vbi uero nexum ueritatum ita tantum perſpicimus, ut, inter demonſtrandi principia, etiam experientiis locum concedamus, dicitur ratio impura.
+
+5 5. Rationem, obiectiue ſumtam, diximus eſ- ſe catenam ſiue nexum ueritatum Recte Itaque illud rationi conforme dicitur, quicquid cum ueritatibus cognitis connectitur. Difforme autem rationi illud erit, quod ueritatum nexui contradicit.
+
+#### E. gr. haec propositio: Deus auerſatur ma-
+
+Ium: eſt rationi conformis. Haec enim propoſitio cum aliis ueritatibus iam cognitis connectitur. Ratio nouit, Deum eſſe ſanctiſsimum.
+
+Bb 2
+
+[p. 388] 6O De ingenio, ratione Scit praeterea, ens sanctissimum omnia odiſſe mala, E. concludit: Deus auerſatur mala. Vides nexum poſtremae poſitionis cum praecedentibus. Si uero dixeris: Anima est mortalis: tum haec propositio contradicit aliis propoſitionibus ueris, ex ratione iamdum cognitis Annon ex rationis lumine conſtat, animam eſſe ens ſimplex? Annon, duce ac magiſtra ratione, nouimus, ens ſimplex eſſe indestructibile? Ergo animam indeſtructibilem eſſe, inde concludimus. Propoſitio itaque haec: anima eſt mortalis siue destructibilis: cum con- Eã tradicat propoſitionibus antecedentibus, mirum non eſt, eam eſſe rationi difformem et contrariam. miæ
+
+5577. A ratione pendet ſoliditas, (&ũndſicſh- Frit) per quam nihil aliud intelligimus, quam facilitatem plura ratiocinia ita concatenandi, ut subsequentia ſemper intelligantur ex antecedentibus, donec ad principia indubitata peruentum fuerit.
+
+§. 578. Ratio, quatenus eſt ratio, non in errores nos abducit, neque quisquam errare poteſt, quamdiu rationem ducem ſequitur. Demonstr. Cum enim per rationem ueritatum nexum distincte perſpiciamus, ſ. 572) conſequens eſt, ut ratio quatenus eſt ratio, quatenus- 1 [p. 389] rationiſque analogo. 389 quatenus est ratio, unice in ueri inquisitione et indagatione occupetur. Atque adeo, rationem falſo pro errorum genitrice haberi, patet. Dum porro, qui rationem ducem sequitur, ueritatum uniuerſalium nexum distincte per- spicit, (3 572) sequitur, ut, quamdiu quis rationem ſequitur ducem, tamdiu a uero aberrare non poſſit.
+
+Equidem facile praeuideo, fore, qui hanc positionem falsam, ipsique experientiae contra- riam existiment. At ſi qui ſunt, ut ſunt, qui rationi tot tantoſque tribuunt errores, eamque pedibus proculcandam credunt, nae ii, quid ſit ratio, iuxta cum ignariſſimis ignorant. Id enim, quod praeiudicatis opinionibus, ratiocinationibusque illegitime conceptis, uitioſis item affectibus tribuendum erat, id, inquam, imputant rationi. Sed, inquis, ipſa ſcriptura sacra, cum eaque Theologi, rationem in malo sensu uſurpant. Conf, Epheſ. II 3. Col. I ar. 2. Cor. X, 5. At in locis citatis non exſtat uox Aye;, rationem ſignificans, ſed uox διάνοια, aut λογισμός, etc. Oicbvoi autem non significat rationem, ſed tantum beneplacitum (wie mirs gefällt) et λογισμὸς non indicat rationem, ſed ratiocinationem, quae saepius ex falſis praeiudiciis ortum trahit. E contrario in bono ſenſu, et ut nos eam ſumimus, uox ratio occurrit Rom. XIV, 2. I. Petr. II, 2. 4 Bb -
+
+3 s. 579-
+
+[p. 390] 390 De ingenio, ratione, 1 i 1 $ 579.
+
+Fit interdum, ut, quando olim certas ob- ſeruauimus circumſtantias, cum iisque certos euentus connexos, nos iisdem circumstantiis recurrentibus, eosdem rurſus exſpectemus euentus Id quod dicunt philoſophi exspectationem casuum ſimilium.
+
+#### E. gr. Cum iam olim obſeruaui, Titium, cum
+
+opes ſuas luxuriando concoqueret, ad incitas redactum eſſe, nunc, iisdem circumſtantiis et ar 7 caussis in Caio recurrentibus, Caium itidem in ſummam prolapſurum eſſe mendicitatem, concludo. Hic exſpecto caſus ſimiles Haec exspectatio caſuum ſimilium non in hominibus modo, ſed in brutis quoque reperitur.
+
+§. 580. Ad exſpectationem casuum ſimilium requiritur (o) ut praeſentes quasdam circum- Stantias obſeruem, id quod sensibus perficitur. Tum opus eſt, ut, occaſione prae- sentiam circumſtantiarum, ſimiles praeteritas reproducat imaginatio. (7) Denique caſus ſimiles dum exſpectamus, memoria agno- ſcit, easdem nunc eſſe circumſtantias, quaẽ iam olim adfuerunt.
+
+6- s gſ [p. 391] rationisque analogo. 39I
+
+5. 581I. Quia itaque exſpectatio caſuum ſimilium fit per ſenſus, phantaſiam et memoriam, 580.) conſequens eſt, ut exſpectatio caſuum ſimilium ſine rationis operatione exſerere ſe poſſit. Conf. hic mea diſſertatio de fallaci exſpectatione caſuum ſimilium in praxi morali, Vitembergae r733. habita, ſl
+
+5. s82. Quia tamen exſpectatio caſuum ſimilium, in ſenſibus, imaginatione, ac memoria fundata, 550.) hanc cum ratione habet ſimilitudinem, ut effectus, ex praeſentibus circumſtantiis ſecuturus, confuſe licet, praeuideatur, (§. 580.) id omne autem, quod cum ratione ſimilitudinem habet, dicitur analogum rationis, intelligitur, analogum rationis, quod in brutis reperitur, conſtitui in exspectatio- ne casuum similium, 1
+
+Plura de analogo rationis, quatenus in brutis locum habet, agentur infra in Capite de animabus brutorum.
+
+Bb 4 CAP.
+
+[p. 392] 392 De uoluptate et taedio*
+
+CAP. IV. DE VOLVPTATE
+
+ET TAEDIO. 5. 583: quandoquidem, experientia magiſtra, quilibet nouit, animam noſtram, et facultate, obuia quaeque atque ea, quae, uniuerſalia tanquam bona, cognouimus, appetendi, malaue auerſandi, praeditam eſſe, nos autem id omne, quod ad facultatem cognoſcendi ſpectat, hactenus expoſuimus, proximum eſt, ut de appeten— di auerſandique facultate quaedam nunc adferamus.
+
+Cum uero omni appetitus auersationisque notione idea uoluptatis ac taedii, contineatur, id nunc agemus, ut, quid ſit uoluptas taediumque, diſtinctę enodemus. A S.584.
+
+Cum ad nos attendimus, obſeruamus, toties, quoties, uel in nobis, uel in alia quacunque re extra nos, perfectiones contuemur, in nobis oriri uoluptatem.
+
+Ecquis aul
+
+[p. 393] De uoluptate et taedio, 393 1 Ecquis nescit?, nos insigni perfundi uoluptate, cum quis nobis cęntum aut plures thaleros dono dederit? Eiusmodi enim donum, tanquam perfectionem, i.e. tanquam tale quid, quale cum fine noſtro eſt conueniens, nobis repraeſentamus. Ita quoque in nobis oritur uoluptas, ſi quotidie in liberalium artium studiis in- crementa et auctus senserimus. Incrementa enim ſtudiorum, tanquam perfectiones, conſideramus.
+
+5 555. Voluptatem itaque in genere (das Veręni gen) definimus per ſenſum ſiue cognitionem intuitivam perfectionis.
+
+Eſt haec definitio eiusmodi, ut ortum, gene- ſin, et cauſſas uoluptatis exponat. Atque adeo inter definitiones geneticas ſiue reales eſt referenda. Omne autem id, quod contra ipsam moneri poterat, confutatur oppido, ſi modo inter definitionem nominalem et realem diſtinguere noris.
+
+Ex definitione ſuppeditata ſequentia fluunt Axiomata.
+
+### I. Quo maior eſt perfectio, quam quis animo
+
+contemplatur, eo maior et inſignior eſt uoluptas.
+
+BbS I. Hoc
+
+[p. 394] A04a De uoluptate et taedio. 1 : II. Hoc maior eſt uoluptas, quo maio- rem perfectionis habemus certitudinem. Σ III.
+
+Hoc inſignior eſt uoluptas, quo uiuidius perfectiones nobis repraesentamus.
+
+IV. Quamdiu nobis perfectionem rei alicuius repraesentamus, tamdiu durat uoluptas. Ceſſante uero perfectionis re. praesentatione, ceſſat et euaneſcit uoluptas.
+
+V. Perfectio ſi eſt uera, i. e. talis, ut nunquam in maiorem degeneret imperfectionem, tum uoluptas quoque eſt uera; ſi uero perfectio eſt apparens, tum uoluptas quoque eſt apparens.
+
+#### E. gr. Qui ueritatis ducitur cognitione, is in
+
+ea ueras reperit perfectiones. Adeoque uoluptas, ueritatum utiliſſimarum cognitio- ne nixa, eſt uera. Qui uero in ebrietate putat ineſſe perfectiones, maiores uero et plures imperfectiones poſtea obſeruat, is uoluptatem capit quidem ex ebrietate, ſed apparentem illam.
+
+5. 586- Si perfectio fuerit uera, eandemque quis ita ſibi repraesentat, ut, eam uil
+
+[p. 395] De uoluptate et taedio.
+
+eam non imperfectionem, ſed perfectionem eſſe, certo ſciat, tum uoluptas, ex certa uerae perfectionis cognitione oriunda, eſt durabilis. 1 Demonstr.
+
+Si enim perfectio fuerit uera, tum nunquam degenerat in imperfectionem, C. 585.) adeoque, cum cauſſa uoluptatis perpetua et durabilis ſit, ipſa uoluptas durabilis ſit neceſſe eſt.
+
+Si illam perfectionem ueram ita nobis repraeſentamus, ut certo ſciamus, esse per- sectionem, tum fieri non poteſt, ut illam ullo tempore pro imperfectione habeamus. (b. 348.0 Dum itaque cognitio perfectionis hoc modo eſt et manet perpetua, conſequens eſt, ut uoluptas quoque, hoc ex fonte profluens, ſit durabilis. s.
+
+587. 1 Voluptas itaque uera ſupponit perfe- ctionem ueram. (B) Certam et indubiam perfectionis uerae cognitionem.
+
+5 5388. Voluptas itaque apparens, quae nititur perfectione apparenti, eſt cito tranſitura minus
+
+[p. 396] 396 De uoluptate et taedio. 1 minusque durabilis, et degenerat in maius ũuium. §. 589. Voluptati opponitur taedium, quod, con traria ratione definitum, nihil eſt aliud, quam ſenſus ſiue cognitio intuitiua imperfectionis m Taedium, caue, ponas in ſola abſentia uoluptatis, Eſt enim omne taedium eiusmodi, ut poſi m tiui quid et reale inuoluat. Ipſa autem taedii nom tio, hic euoluta, eſt ita comparata, ut ad omnes taedii ſpecies possit applicari, experientiaeque ſit quam maxime conformis. Sic e. gr. cum non E rà. gm— b:
+
+modo nullos in ſtudiis progreſſus ſentis, ſed quoque omnia in peius prolabi, animaduertis, tum taedio afficeris. Sentis enim et cognoſcis tuas imperfectiones.
+
+§. 590. Quemadmodum uoluptas creſcit et augetur, cum (a) plures nobis perfectiones repraeſentamus, (õ) cum uiuide, diſtincte et certo perfectiones cognoſcimus, (§. 585.) ita, e contraria parte, taedium maius fit, quo (1) plures imperfectiones nobis repraesenta- mus, (2) quo uiuidius et certius illas imperfectiones cognoſcimus.
+
+5. 591-
+
+[p. 397] De uoluptate et racã o. ã
+
+Taedium, ut uoluptas, eſt uel uerum, uel apparens. Illud nititur imperfectione uera, et eſt durabile, hoc imperfectione apparen- ti, et tranſire cito repenteque euanescere potest. §. 592. Praedominatur in mente noſtra uoluptas, ſi repraeſentatio perfectionum fortior eſt repraeſentatione imperfectionum, quae ſimul concurrunt,. Praedominatur vero taedium, ſi repraeſentationes imperfectionum fortiores ſunt repraesentationibus perfectionum, easdemque obfuſcant.
+
+Si e. gr. ob iniuriam aliquam levidenſem, qua te affecit Caius, taedio fueris affectus, ſed eodem fere tempore, quo iniuriam passus, praeter opinionem literas, centum thaleris repletas, ab amico acceperis, tum hoc donum, quod misit amicus, tam erit efficax, ut omne taedium. ex iniuria, tibi illata, hauſtum, oppido depellat In hoc casu praedominatur uoluptas.
+
+§. 593. Cum anima in eiuſmodi ſtatu fuerit con- stituta, ut nec taedio nec uoluptate aliqua afficiatur, tum eiusmodi ſtatus appellatur ſtatus indifferentiae. E. gr. 4 1
+
+[p. 398] De uoluptate et taedio. E.gr.
+
+Si quis, in tabernam librariam ingreſſus, librum, antea ſibi ignotum, aſpexerit, tum, nec uoluptate, nec uoluptate, nec taedio, librum contemplatus, afficitur. §. 594. Taedii ſpecies eſt dolor, quem genetice VVolfius definit per ſolutionem continui in corpore. Conſ. eius psycholog. Empirica S. 539.
+
+Probe autem memini, ab aduerſariis VVolfii contra hanc definitionem monitum eſſe, non omnem continui ſolutionem eſſe dolorem. Quare completam doloris notionem formari ita poſſe exiſtimamus, ſi ita dolorem de finiuerimus: Dolor est ſenſus, ex ſolutione continui neruoſi in corpore noſtro ortus.
+
+§. 595. Quicquid igitur de taedio dictum eſt, id dici quoque debere, putato, de dolore.
+
+§. 596. Bonum est, quod nobis noſtroque ſtatui perfectionem conciliat, ſiue, quod idem eſt, quod fini noſtro eſt conueniens. Malum uero dicitur, quod nos nostrumque ſtatum imperfectiorem reddit, ſiue quod cum fine noſtro non conſentit.
+
+§. 597. ul
+
+[p. 399] De uoluptate et taedio. 359
+
+Cum idea boni contineat ideam perfectio- nis, et idea mali ideam imperfecti. onis, 556) perfectio autem aeque ac imperfectio ſit uel uera, uel apparens, 20n) conſequens eſt, ut bonum et malum ſit uel uerum uel apparens. 1 : §.
+
+§. 598. Vti itaque cognitio, ſiue repraeſentatio, perfectionis uoluptatem in mente excitat, (§. 585.) et cognitio imperfectionis taedium, (§. 589.) ita quoque repraesentationem boni gignere uoluptatem, et cognitionem mali taedium, patet. Sicut igitur bonum uel uerum, uel apparens eſt, (§. 597.) ita quoque uoluptas et taedium inde ortum, uel uerum uel apparens eſt.
+
+§. 599. Perfectiones aeque ac imperfectiones ſuis gaudent gradibus, (§. 189.) adeoque bona et mala etiam ſunt gradu diuerſa. Bonum minus eſt malum in comparatione ad bonum maius, et malum minus eſt bonum, relatum ad malum maius.
+
+600.
+
+[p. 400] 400 De appetitu et auersatione.
+
+§. 600. Repraesentationes noſtrae ſunt uel indi- uiduales, siue rerum exiſtentium, 8. Log.) uel abſtractae, ſiue generum et ſpecierum, (5. 1000 illae formantur ope ſenſuum, 500.) hae ope intellectus. (§. 555.) E. etiam bonum malumue uel ope ſenſuum et confuſe, uel ope intellectus et diſtincte, nos: nobis repraeſentamus. Voluptas, ex boni l repraeſentationibus, ope ſenſuum factis, orta, dicitur ſenſualis. Voluptas uero, ex re- praeſentationibus boni diſtinctis, ope intel- lectus factis, dicitur mentalis. Quod idem ualet de taedio. Explicatis nunc uoluptatis taediique notionibus, facillime intelligetur, in quo conſtet appetitus auerſationisque natura.
+
+CAP. V. m*
+
+47mrm /3 DE E APPETITV ET AVERSATIONE, 11 §. §. 601. Cum nobis bonum aliquod repraeſenta- U mus, tum, uoluptate in mente coorta, oppido in nobis ſentimus niſum, conatum et inclinationem uerſus bonum illud a nobis
+
+[p. 401] De appetitu et auerſatione. 401 nobis perceptum et cognitum. Cum e contrario aliquid, tanquam malum, nobis repraeſentamus, tum in mente, taedio ante exorto, obſeruamus conatum aliquem et ni- ſum, malum illud cognitum depellendi, et miram quandam ab eo reclinationem. Si e. gr. Caio hectico duos obtuleris pulueres, alterumque dixeris hecticae ſanandae eſſe perquam accommodatum, alterum uero, tanquam uenenum pestilentissimum, corporis uires deſtruere, tum Caius, conualeſcere cupiens, oppido in ſe ſentiet niſum et conatum ad puluerem hecticum obtinendum, eoque fruendum. Contra a pulue- re uenenato, quem sibi perniciosissimum ſiſtit, reclinationem in ſe animaduertet.
+
+5 600. Haec animae inclinatio uersus bonum cognitum dicitur Appetitus, ipſa autem potentia animae uerſus bonum cognitum inclinationem habendi appellatur facultas appetendi ſiue uoluntas.
+
+1 1 Appetitus, qui, pro actu sumtus, a nonnullis quoque dicitur appetitio, appetentia, uolitio, dum Per inclinationem definitur, poterat quempiam offendere uox metaphorica inclinationis, ex definitionibus proſcribenda. 169. Lg.) Quare in- clinationem, ſcias, de anima cum adhibetur, nihil eſſe aliud, quam conatum animae, ſenſationem aliquam producendi.
+
+Ce Vox
+
+[p. 402] 402 De appetitu et auersatione. 4 Vox uoluntas, qua indicamus generatim omnem appetendi facultatem, a VVolfio quidem aliisque uſurpatur tantum de appetitu rationali. At cum ita uſu receptum ſit, ut plerumque per uoluntatem generatim omnis appetendi facultas significetur, eum quidem ſignificatum hic retinere uo- Luimus.
+
+§. 603. Reclinatio animae a malo cognito dicitur auerſatio, ſiue nolitio in genere. 1. Reclinationem autem ita hic ſumimus, ut per eam nihil aliud uelimus intelligi, quam conatum animae ſenſationem aliquam impediendi, quo minus producatur.
+
+§. 604. Cum omni appetitu eſt uoluptas coniuncta, et cum omni auersatione taedium. Demonſtr. Dum omnis appetitus fertur in bonum cognitum, (§. 602.) conſequens eſt, ut omnis appetitus ſecum habeat coniunctam repraeſentationem boni. Quia uero, poſita boni repraeſentatione, ponitur uoluptas, (§. 585.) manifeſtum ęſt, cum omni appetitu eſſę uoluptatem coniunctam. C Porro
+
+[p. 403] De appetitu et auersatione. Porro cum auerſatio ſit reclinatio a malo cognito, c03.) ſequitur, ut omnis auerſatio inuoluat repraeſentationem mali. Po- ſita uero repraeſentatione mali, ponitur taedium. (6. 5890 E. cum omni auerſatione taedium eſſe coniunctum, patet.
+
+§. 605. Vti itaque uoluptas et taedium gradibus ſuis gaudent, (ò. 586.) ita quoque appetitus et auerſatio gradus certos admittant, neceſſe eſt. Quo plura ſcilicet bona, et quo uiuidius illa plura tibi repraeſentaueris, hoc uehementior et fortior fit appetitus. Quod idem, contraria ratione, ualet de auerſatione. §. 606. Quod
+
+Nihil appetere poſſumus, niſi nobis, tanquam bonum aliquod, re- praeſentauerimus, et nihil aversari possumus, niſi id, tanquam malum, nobis repraeſentauerimus. Demonſtr. Haec propoſitio, experientia fundata, et ipſa definitione appetitus averſationisque nixa, poterat ſine demonſtratione aſſumi, at ipſam tamen, ex principio rationis ſufficientis ita demonſtrari et corrobo- rari Cc 2 rari V_
+
+[p. 404] 404 De appetitu et auerſatione. rari poſſe existimamus. Quoties quid agimus, uel omittimus, toties, cur hoc agamus, nec potius aliud, cur ita agamus, nec aliter, debet adeſſe ratio ſufficiens. (§. 32.) E. quoties quid appetimus uel auerſamur, toties debet adeſſe ratio sufficiens, quae nos ad appetendum auerſandumque determinet, quaeque adeo efficiat, ut hoc praeciſe, nec aliud aꝑpetas, ut ſic, nec aliter. Ratio illa aut de- prehenditur in intellectu, (ſumo hanc uocem hic laxius pro quacunque repraesen- tandi facultate) aut in uoluntate. Si fuerit illa in uoluntate, tum, interrogatus, cur uelis hoc, nec aliud, aut reſpondebis; quia poſſum uelle, aut dices: uolo, quia uolo. Si illud, ab indeterminato ſequetur determinatum, et a poſſe concludetur ad eſſe, (quod eſt contra ꝗ. 54- 136.) ſin hoc, ridicule, ut dixi, reſpondebis: uolo, quia uolo. Ratio itaque, cur hoc illudue, hic et nunc, appetamus uel auerſemur, erit in repraeſentationibus intellectus. Appetitus ſcilicet ratio latet sufficiens in re- praeſentationibus boni, auerſationis uero ratio in repraeſentationibus mali. (5. 6033 Nihil itaque appetere poſſumus, niſi id nobis, tanquam bonum, repraesentauerimus, et nihil auersamur, niſi id, tanquam malum, nobis repraeſentauerimus.
+
+§. 607. auiil
+
+[p. 405] De appetitu et auerſatione. -405
+
+5. 609. Intelligitur nunc regula, quam anima in appetendo auerſandoque ſequitur. Haec ſequenti continetur propoſitione: Nihil appetimus, niſi ſub ratione boni, et nihil auersamur, niſi ſub ratione mali. Hanc propoſitionem uocant legem appetitus.
+
+§. 608. Motiua (Bewegungs - Grunde) uocamus repraeſentationes boni, uoluntatem ad appetendum determinantes, uel repraesentationes mali, uoluntatem ad auerſandum com. mouentes. Illas repraeſentationes uocant motiua uolendi, has motiua nolendi. Cum e. gr. hecticus puluerem oblatum appetit, tum motiuum eſt repraeſentatio ſanitatis, per eiuſmodi puluerem recuperandae,
+
+§. 609. Apparet hinc, nos, dum ſine repraeſentatione boni nihil appetere, et absque mali repraeſentatione auęrſari nihil poſſumus, 606.) nos, inquam, ſine motiuis nec uelle nec nolle quicquam poſſe.
+
+5. 6I. Cum bonum nobis repraeſentamus, aut, ope ſenſuum imaginationisque, confuſe
+
+Cc3 illud
+
+[p. 406] 406 De appetitu et auerſatione. illud nobis ſiſtimus, aut, ope intellectus et rationis, diſtincte. (§. 497.) Appetitum itaque et auerſationem, repraeſentationibus boni ac mali fundatam, S. 606.) uel ex repraeſentationibus boni et mali ſenſualibus et confusis, uel ex diſtinctis, et ope intellectus formatis ortum ſuum trahere, manifestum est. Appetitus ille, qui ex repraeſentationibus ſenſuum confuſis oritur, appellatur ſenſitiuus, qui autem ex diſtinctis, et ope intellectus formatis repraeſentationibus ſuam ducit originem, uocatur rationalis. Atque eodem modo, mutatis mutandis, auersationem distinguimus.
+
+Cum e. gr. quis, febri aeſtuque iactatus, uinum, quod uidet, uehementius appetit, tum hunc appetitum uocamus ſenſitiuum, propterea, quod aegrotus uinum ſibi, ope ſenſuum, bonum et dulce repraesentat,
+
+5. 6”. Qui appetitum ſenſitiuum in agendo ſequuntur, id demum appetunt, quod sensus suauius afficit, auersanturque id, quod iisdem moleſtiam et taedium creat. : Demonstr.
+
+[p. 407] De appetitu et auersatione. 407 Demonſtr. Cum enim appetitus ſenſitiuus nitatur repraeſentationibus boni, ope ſenſuum factis, ſs. 6n.) et averſatio repraeſentationibus mali ſenſualibus, ii autem, qui sensuales ſequuntur repraeſentationes, ea tantum, quae coram ſunt, et ante pedes, contueantur, (§. 497.) adeoque bonum praesenti delectatione ſenſuum et malum praesenti ſenſuum taedio metiantur, de futuris nihil ſoliciti, mirum non eſt, eos, qui appetitum sensitiuum in agendo ſequuntur, id demum appetere, quod ſenſus ſuauius afficit, id omne contra auerſari, quod iisdem taedium creat. §. 613. Vt omnis omnino appetitus auerſatioque ſuis gaudet gradibus, (§. 605.) ita appetitus quoque ſenſitiuus et ſenſitiua auerſatio gradu diſtinguatur neceſſe eſt
+
+5. 6i14. Appetitus ſcilicet ſenſitiuus fit uehementior, et mirum quantum creſcit, ſi plura bona simul nobis confuſe repraeſentauerimus, ſi item, ſenſuum imaginationisque adminiculo, plura illa bona uiuidiſſime et clarissime nobis ſiſtimus.
+
+Cc 4 75. 615.
+
+[p. 408] 408 De appetitu et auerſatione.
+
+§. 615. Hinc perſpicuum eſt; hoc uehementiorem eſſe appetitum, quo plus uoluptatis ſenſus demulcet Demonſtr. Cum enim hoc uehementior fiat appetitus ſenſitiuus, quo plura bona, aut quo maius bonum, ſenſus nobis ſiſtunt, (§. 614.) id autem, iudicio ſenſuum stantes, pro maximo bono habeamus, quod ſenſus maxime delectat, 556.) mirum non eſt, hoc fieri appetitum ſenſitiuum uehementiorem, quo maior et intenſior eſt uoluptas, qua ſenſus afficiuntur.
+
+§. 616. Appetitus ſenſitiuus in id quoque uehementius fertur, quod crebrius  cum uoluptate aliqua iam ſenſimus. Demonstr. Cum enim appetitus ſenſitiuus hoc uehementior ſit, quo uiuidius et clarius imaginatio rem aliquam, tanquam bonam, ſibi ſiſtit, (§. 614.) imaginatio autem tum demum rem aliquam sibi uiuidissime repraesentare soleat, ſi eam antea crebrius cum uoluptate aliqua ſenſimus, (§. 511.) palam
+
+[p. 409] De appetitu et auerſatione. 409 palam est, appetitum ſenſitiuum in id maiori cum impetu ferri, quo crebrius cum aliqua uoluptate antea ſenſimus.
+
+Si e. gr. Caius uoluptatem, ex Veneris et Bacchi ſeruitio, crebrius ſenſerit, tum ipſum, comperies, maximo impetu in has delicias poſtea ferri, usque adeo, ut cupiditatum ui  uix ac ne uix quidem amplius obsistere queat
+
+Quae de appetitus ſenſitiui gradibus determinandis attulimus, eiusmodi ſunt, ut, habita oppoſiti ratione, facillimo negotio ad auerſationem ſenſitiuam poſſint transferri. §. 618.
+
+Appetitum sensitiuum uel auerſationem ſenſitiuam uehementiorem, cum extraordinaria ſanguinis et fluidi neruei commotione in corpore coniunctam, dicimus aſ- ſectum.
+
+Doctrinam itaque de affectibus hic commodiſ- ſime explicabimus. Percenſebimus itaque omnes, quos noſſe datum eſt, affectus, eorundem- que originemet effecta rimabimur. Cc;
+
+[p. 410] 4I0 De affectibus.
+
+A CAP.
+
+### VI. DE
+
+VI. AFFECTIBVS. 5. 6i5. Affectus cum ſint appetitus uel auerſationes uehementiores, (ò. 618.) manife- ſtum eſt, affectus eodem modo, quo generantur appetitus ſenſitiui uel auersationis sensitiuae gradus, generari. Atque adeo ad affectum producendum requiritur, uel (1) ut multa bona et mala ſimul nobis repraeſentemus, uel (2) ut bona malaque nobis, ope ſenſuum imaginationisque uiuidiſſime reprae-
+
+ſentemus. 614) 5 5 620. 1 D Conficitur ex dictis, nullum locum habere poſſe affectum, qui neque in taedio neque in uoluptate conſiſtat. Demonſtr. Cum enim omnis affectus ſit uel appetitus, uel auerſatio ſenſitiua uehementior, (§. 618.) nullus autem appetitus poſſit eſſe ſine uoluptate, et nulla auersatio ſine taedio, (§. 604.) liquet, nullum affectum posse ha- ::
+
+[p. 411] De affectibus. 411 affectum poſſe habere locum, qui neque in taedio neque in uoluptate conſiſtat.
+
+ꝗ. 6aI. Abſit autem, ut quamlibet uoluptatem et quoduis taedium pro affectuum ſpeciebus habeamus. Ad affectum requiritur uehementior uoluptas et taedium, atque item extraordinaria ſanguinis ac fluidi neruei in corpore commotio. ſ 6i8.)
+
+§. 622. Sponte hinc enaſcitur diuiſio affectuum in gratos et ingratos. Cum ſcilicet omnis affectus uel uoluptatem uel taedium ſecum habeat coniunctum, (§. 620.) omnis affectus uel gratus erit uel ingratus. Addunt nonnulli affectus mixtos, in quibus uoluptas ac taedium alternant. Huc referunt affe- Etum amoris, qui quidem multum habet in ſe iucunditatis, ſed plurimum ſimul taedii.
+
+§. 623. Nonnulli affectus ſunt eiusmodi, ut ab iis, tanquam a ſtirpe, ceteri affectus, tanquam ſurculi, progerminent. Hos dicunt originarios. Cum uero gaudium et triſtitia eius ſint indolis, ut ab his quidem duobus affe- ctibus omnes ceteri promanent, gaudium et
+
+[p. 412] 412 De affectibus. 1 et tristitiam pro affectibus originariis recte haberi patet. Ceteros ab his deſcendentes affectus appellamus deriuatiuos.
+
+5. 624- Gaudium eſt praedominium uoluptatis, ſiue eſt uoluptas insignior. Cum v. c. Caio, Spartam per multos annos fruſtra ambienti et anhelanti, praeter omnem ſpem et ex- ſpectationem, uocatio tranſmittitur, et quidem ad munus lautiſſimum, tum in Caio maior et inſignior uoluptatis gradus orietur, siue, quod idem eſt, Caius gaudebit.
+
+5 62. Dum, uoluptatem tum praedominari, diximus, quando taędium, ſi quod adfuerit, plane non ſentimus, (§. 599.) intelligitur, characterem gaudii praecipuum eſſe hunc, ſi tanta uoluptate perfundimur, ut taedii, quod eo tempore adeſt, prorſus obliuiſcamur, ꝓ 626. Nullum gaudium poteſt in nobis exoriri, niſi uel plura bona ſimul, uel magnum aliquod et insigne bonum confuse nobis repraeſentemus.
+
+Demonſtr.
+
+[p. 413] De affectibus. 413 1 Demonstr. Cum enim omnis uoluptas nitatur repraeſentatione boni, (§. 585.) et ma- gnitudini bonorum repraeſentatorum re- ſpondeat magnitudo uoluptatis, (§. 586.) palam eſt, in ſtatu uoluptatis inſignioris, aut  plura bona ſimul, aut magnum quoddam et inſigne bonum uiuidissime nobis repraeſentari debere. Voluptas inſignior dicitur gaudium.
+
+#### E. nullum gaudium poteſt in nobis
+
+exoriri, niſi uel plura bona ſimul, uel magnum aliquod et inſigne bonum confuſe nobis repraeſentemus.
+
+s. 6. A gaudio differre quodam modo, putant nonnulli laetitiam (ꝗiòlidſeit.) quam definiunt per gaudium ob malum finitum. E. gr. cum, ex morbo recreati, conualuimus, tum gaudium noſtrum, ob morbum sublatum, proditari: Ich bin recht froh/ da die Kranckheit vorbey.
+
+§. 628. Omnes affectus cum extraordinaria ſanguinis et fluidi neruei commotione in corpore noſtro connexos eſſe, et ipſa docet ex- perientia, et ex 6i18. iam patet. Hinc, quae quisque affectuum in corpore noſtro efficiat, paucis diſpiciemus. 5. 629-
+
+[p. 414] 414 De affectibus.
+
+§. 629. In gaudii affectu hi reperiuntur plerumque in corpore effectus. (a) Concitatior sanguinis circulus, õ) riſus, comploſio manuum, (d) exsultatio, (e) oculi uiuidi et igne micantes. §. 630. Gaudio opponitur tristitia, quae eſt in- signior gradus taedii, ſiue, eſt praedominium taedii. s c;. Praedominatur taedium, cum uoluptatem, ſi qua adfuerit, eo tempore, quo afficimur taedio, prorſus non ſentimus, (§. 592.) E. character triſtitiae praecipuus eſt, ſi uoluptatis prorſus obliuiſcimur, ſi qua adfuerit. §.
+
+§. 632. Triſtitiam oriri ex confuſa et ſimultanea multorum et magnorum malorum repraę- ſentatione, ex ĩ. 590. 530) colligi poteſt.
+
+§. 633. Effectus, qui in corpore triſtitiam comitantur, plerumque ſequentes sunt. (1) La crymae et fletus, õ) oculi languidi et humum intuentes, õ) pallida facies, (4) Tremor in toto corpore et omnibus membris, (5) querimoniae, (6) ſolitudinis amor. s 634muiill
+
+[p. 415] De affectibus. 415 5. §. 634. Amor eſt gaudium, ex alicuius perſonae felicitate ortum. Amor uel ut affectus conſideratur, atque eatenus a nobis definitur, uel ut animae inclinatio et pro- nitas ad hunc affectum, atque hoc ſenſu amorem VVolfius in Pſychologia Empirica §. 633. dicit dispositionem animae ad percipiendam uoluptatem ex alterius Felicitate.
+
+§. 635. Ex definitione ſuppeditata plures fluunt poſitiones, quas ſigillatim adducemus, maxi- me cum eiusmodi eas eſſe reperiamus, ut et ad interiorem ueri amoris indolem per- ſpiciendam, et ad recte intelligendas theſes nonnullas, in morum philoſophia obuias, per- multum faciant.
+
+655. Amor ergoin alium tum demum oritur, si in ipſo quicquam, quod bonum nobis uidetur, quodque nobis placet, animaduertimus. Demonstr.
+
+Cum enim amor ſit gaudium, (634.) gaudium autem eſſe non poſſit, niſi inſignior adſit uoluptas, (624.) uoluptas ue- Io
+
+[p. 416] 416 De affectibus. ro tum demum oriatur, ſi boni quid, et quod nobis placet, nobis repraeſentamus, O. 585.) lucide apparet,  amorem erga alterum oriri tum, cum in ipſo obſeruamus, quod nobis bonum uidetur, nobisque placet. 1
+
+Hinc Volfius in Pſychologia empirica 5. 633. amorem definit genetice per affectum, qui oritur ex eo, quod quid in altero obſeruamus, quod nobis placet, ſeu ſi quid in altero nobis reprae- ſentamus, tanquam bonum, praeſertim reſpectu noſtri.
+
+5. c”. Ex his fluunt intelligique poſſunt poſitiones ſequentes. I. Eo quisque uehementius amat alterum, quo magis alterius felicitate delectatur. 1l. Quo plura quis bona in altero obſeruat, eo maiora capit incrementa amor. III. Qui alterum amat, non poteſt non taedio affici, cum alteri aegre fieri uidet. IV. Qui alterum amat, id omne appetit, quod ad alterius felicitatem promouendam pertinet, idque omne impedire et depellere nititur, quod ad alterius infelicitatem taediumque procreandum facit.
+
+s. 638:
+
+uniil
+
+[p. 417] De affectibus. 417 I. §. 638.
+
+His amoris ſignis accurate cognitis, perfacile nunc erit ad intelligendum, quid ſit odium. Odium, contraria ratione definitum, nihil eſt aliud, quam gaudium ob alicuius perſonae infelicitatem, et, odiſſe alios, nihil eſt aliud, quam aliorum delectari infelicitate. I4 odium, ut diſpoſitionem, ut animae inclinationem ad actualem hunc affectum con- siderans, illud dicit dispositionem animae ad uoluptatem percipiendam ex alterius infelicitate. Pſychol. Empir. J. 661.
+
+§. 639. ; Qui nouit amoris ſigna, ꝗ 637. a nobis recenſita, eum nunc latere non poſſunt odii criteria. I. Qui alterum odit, alterius infelicitatem, tanquam boni quid, conſiderat, quia ex ea capit uoluptatem. (§. 585.) II. Qui alterum odit, non poteſt non taedio affici, cum alterum, quem odit, res suas ſecundo uitae, ſine ulla offenſione, cur- ſu, feliciter agere, uidet. 111. Vnde non mirum, omnes eos, qui alios odio habent, horum, quos ode- tunt, felicitatem deſtructam uelle, infe- lici- Dd lici-
+
+[p. 418] 418 De affectibus. licitatem contra omnibus uiribus promouere. §. 640. Cum amoris, tum odii, ſunt effecta nonnulla, quae corpus iuxta ac animum mire agitant et turbant. Amorem comitantur plerumque commotio ſpirituum, quos uocant, animalium perturbatior, rubor in facie, oculi micantes, inſatiabile deſiderium ſe uniendi cum perſona amata, lacrimae porro, et, ut ait Terentius, ſuſpiciones, inimicitiae, induciae, bellum, pax rurſum. Eun, Aq. I. scen. l, u. 17. Odium uero comites habet oculos toruos et truces, colorem pallidum, iras et rixas, uindictae item cupiditatem, etc.
+
+5 64. Cum ob alterius infelicitatem contrista mur, dicimur commiſerari. Vt adeo commi- seratio nihil aliud ſit, quam taedium uehemens ob alterius infelicitatem. Talis commiſeratio reperiebatur in Christo, 2 cum, funeſto Hięroſolymitanorum exitio per- ſpecto, inſigniori afficeretur triſtitia ob infelicitatem ipſorum, mox inſecuturam
+
+§. 642. Qui alterum amat, non potest non
+
+[p. 419] De affectibus. 419 non eiusdem quoque, quem amat, uices miserari. } Demonstr.
+
+Cum enim, qui alterum amat, non poſſit non taedio affici, cum alteri, quem amat, aegre fieri uidet, (ſ. 637. n. III.) is autem, qui ob infelicitatem alterius taedio afficitur, dicatur alterius commiserari, (ò. 641) perspicuum eſt, eum, qui alterum amat, non poſſe non alterius quoque uices miserari.
+
+Vnde commiſerationem nonnulli recte uocant filiam amoris, ꝗui quo maior eſt, eo maior quoque eſt commiſeratio. Sublato uero et exſtincto amore, mirum non eſt, omnem quoque cessare commiſerationem.
+
+ca Commiserationi opponitur inuidia, qua. eſ taedium ob felicitatem alterius. Cum e. gr. Caius uidet, Titium, in lauta et bene aucta parte constitutum, creſcere in dies opibus, cum, eidem, obseruat, omnia fluere ad uotum, maioresque, uel fortunae, uel dignitatis, fieri ac- cessiones, tum Caius, ſi tristitia ideo afficitur, Titio ſuam inuidere felicitatem dicitur.
+
+5. 644- Quemadmodum, commiserationem amoris esse filiam, p. 642. de-
+
+Dd 2 mon-
+
+[p. 420] 420 De affectibus. A monstrauimus, ita, inuidiam odii eſſe filiam, recte affirmemus. Demonſtr. Cum enim, qui alterum odit, non poſſit non taedio affici, cum ei, quem odit, proſpere omnia cedere uidet, (§. 639. n. 11.) illud autem taedium, quod ex alterius  felicitatis ſenſu cooritur, nominetur inuidia, 643) ſequitur, ut, inuidiam odii eſſe fili- am, recte affirmemus.
+
+5. 645- Ex his non difficulter intelligi poteſt, I. Quod omnis inuidus alterius, cui inuidet, felicitatem, tanquam mali quid, ſibi repraeſentet, quia omne taedium oritur ex repraeſentatione mali, 589) II. Quod inuidus eius, cui inuidet, felicitatem auerſetur, atque adeo destruere allaboret, quia id omne, quod nobis, tanquam malum, repraeſentamus, non poſſumus non auerſari (§. 603.)
+
+§. 646. Quos habet triſtitia, eosdem plerumque comites habere ſolet commiſeratio- Praeſertim uero comperimus, eam a lacrimis rarius, a ſtudio uero iuuandi nunquam, ſeiungi. Inuidia uero, quantum faciei pallorem, quantam uniuerſo corpori maciem,
+
+[p. 421] De affectibus. 421 : corpori maciem, tanta animo tormenta cruciatusque conciliat.
+
+§. 647. Gaudium iſtud, quod percipimus, cum boni quid commiſiſſe opinamur, dicitur ac- quieſcentia in ſeipſo. Si e. gr. Sempronius, conſcenſa cathedra, ingenii experimentum edidit, atque id ita quidem, ut omnibus et egregias animi dotes, et eruditionem exquiſitam, et miram denique facundiam approbarit, tum Sempronius iis, quae bene a ſe excellenterque facta ſunt, gauiſus, dicitur in ſo ipſo acquieſcere.
+
+5 648: Hic affectus quamuis ſit unus omnium maxime iucundus, mirificeque animum ad praeclara facinora identidem exſuſcitet, fieri tamen poteſt, ut idem, in uitioſam de- generans Φιλαυτίαν multum afferat detrimenti. 5. 619. Opponitur acquieſcentiae in ſeipſo poenitentia, quam definimus per taedium ob malum, quod patrauimus. Si Maeuius, qui in Academia liberius uixit, domum reuerſus, male ſe tempus collocaſſe, animaduertit, 6, ob crassam mentis ignorantiam contemni ſe ab omnibus, et a ſpe etiam, potiundi
+
+Dd 3 mune-
+
+[p. 422] 1 De affectibus. 422 De affectibus. munere, exclusum uidet, tum poenitentia uitae anteactae tangitur, i. e, taedio afficitur, quod peropportunam ſolidi quid diſcendi occasionem temere dimiserit, quod pecuniam item, ualetudinemque profuderit. Quae omnia nunc, tanquam mala, a ſe patrata, conſiderat.
+
+§. 650. Cum ab aliis de noſtris recte beneque factis benignius honorificeque exiſtimari, ſentimus, tum, gaudium in nobis oboriri, ob- ſeruamus. Illud gaudium, ex opinione aliorum benignoque de noſtris bene factis iudicio ortum, dicitur Gloria. Wolfius in Pſychologia Empirica f. 769. gloriam genetice ita definit: Gloria eſt affectus, qui oritur, ſi ea, quae fecimus, uel noſtra ſunt, ab aliis bona existimari opinamur. Videri poterat hic affectus non multum ab acquieſcentia in ſemet ipſo, 647. explicata, differre. At, cum acquiescentia in ſe ipſo ſit gaudium, ob bonum, quod patrauimus, quamuis id non referatur ad opinionem alio- rum, gloria uero ſit gaudium ob bonum, quod patrauimus, et quatenus id refertur ad opinionem iudiciumque aliorum, 650.) vides, tantam eſſe inter hos duos Affectus differentiam, quanta maxima eſſe poteſt.
+
+5 651.ſtimulum ad opti- Gloriae, quam merito ſtimulum ad optima quaeque perpetranda dixerim, opponitur
+
+[p. 423] De affectibus. 423 nitur pudor, quem definimus per taedium, ortum ex ſiniſtro et malo iudicio aliorum de nobis et factis nostris. Fac, nouellum Magiſtrum, qui temeritatis, quam doctrinae, plus in cathedram affert, ab opponentibus in anguſtias redactum, ſtare, ceu Marpesiam cautem, nihilque, quod reſpondeat, habere, ad hoc a circumſtantibus auditoribus ex- ſibilari, tum taedio magnaque triſtitia bonus homuncio afficietur, idque ideo, quod a ſe commiſſum quid uidet, quod famam ſuam exiſtimationemque quam maxime laedit. Atque id ipſum eſt, quod nomine pudoris inſignimus.
+
+5 6s2. EX notione pudoris diſtincta concipi nunc poſſunt ſubſequentes poſitiones. I.
+
+Quo quis maiori gloriae ſtudio duci ✓tur, hoc pronior eſt ad pudorem.
+
+### II. Nullius rei nos pudet, niſi eius, quam
+
+famae et existimationi nostrae officere opinamur. 人 III.
+
+Hinc, cum nonnullos interdum uidemus pudere earum rerum, quas minime ipſorum exiſtimationi fraudi eſſe, in aprico eſt, e. gr. puſillae ſtaturae, paupertatis, etc. colligi poteſt, peruerſum de honore conce- D 4 ptum
+
+[p. 424] 424 De affectibus. ptum peruersum praeposterumque gignere in ipsis pudorem. 4 Pudorem produnt suffusus in facie rubor, auer- ſus corporis ſtatus, etc, 4 Caeterum perlubenter fateor, nunquam me affectum pudoris in homine conſiderare, quin ſingularem quandam Dei contra malum prouidentiam inde cognoſcam. Fac enim, homines carere pudoris affectu Annon ita carebunt fre- no quodam et retinaculo malitiae? Annon ſo. luti praecipiteſque ferentur in omnia mala? Hinc Poẽta: Hunc periiſſe, ſcias, cui pudor periit. Quod, quidem, tanquam in tranſcurſu, monitum hic uolo, ut intelligant lectores, quemadmodum omnes omnino affectus, ita pudorem quoque non forte caſuue, ſed aliquo numine diuinoque pros- ſus conſilio in mentibus humanis eſſe altiſſime impreſſum.
+
+Cum gaudio perfundimur ob bonum futurum, et a nobis demum obtinendum, tum dicimur sperare. Ipsum autem gaudium ob bonum futurum dicitur ſpes.
+
+#### P. r. Titius, lecto mortis affixus, cum
+
+graui ancipitique conflictatur morbo. Aduocatur medicus. Accedit. Hic, periculi quid ſubeſſe negat, aureos montes pollicetur, sanitatemque, ui morbi infracta, propediem restitutum iri, affirmat. Tum Titius uoluptatis ſenſu permulce-
+
+[p. 425] De affectibus. 425 1 mulcetur, idque ideo, quod priſtinam ſanitatem, tanquam eximium bonum, ſit obtenturus. Sperat hoc in caſu Titius.
+
+Hinc efficitur, hoc eminentiorem eſſe ſpem, hocque maiora eandem acquirere incrementa, I quo plura bona obtinenda ſibĩ quis repraeſentat, 2) quo certius iſta bona futura obtinebuntur. Euaneſcit. autem ſpes, si bonum, quod ſperamus, plane obtineri non poſſe, obſeruamus.
+
+5655. Spei gradum eminentiorem dicimus Fiduciam Cum uero tanto maior ſpes eſſe ſoleat, quanto facilius quantoque certius iudicamus bonum a nobis obtineri poſſe, (§. 654.) in- telligitur, fiduciam quoque definiri poſſe per gaudium de bono cer?o obtinendo,
+
+656. : Quoniam, quoties ſperamus, futurum bonum obtinere cupimus, (§. 653.) fit, ut mora, qua bonum obtinendum retardatur, nobis taedium procreet. Hoc ipſum taedium, ex mora boni obtinendi coortum, dicitur desiderium.
+
+Dd 3 5 657-
+
+[p. 426] 426 De affectibus. §. 657. Spei aduerſum tenet metus, quem definimus per taedium, ex malo futuro ſeu imminenti perceptum.
+
+#### E. gr. Cum in ephemeridibus relatum legunt
+
+Saxones, Turcos in eo iam eſſe, ut in proxime adiectas irruant terras, tum. magno afficiuntur taedio, futura ſibi repraeſentantes mala et incommoda. Quo in caſu dicuntur metuere Turcos.
+
+§. 658. Quo 1) plura mala inſtant, 2) quo certius iſta aduentura opinamur, eo maior eſ metus. Si uero malum iam ita imminet, ut euitari amplius non possit, oritur inde uehementior triſtitia. Quae intolerabilis triſtitia ob malum imminens, prorſus ineuitabile, conſtituit extremum gradum metus. Atquẽ hic extremus metus gradus id ipſum eſt, quod uocamus alias desperationem.
+
+Finge, te, ingenti immaniſſimorum hoſtium multitudine circumcinctum; nullam amplius elabendi rimam animaduertere, tum desperabis ui- tam tuam. Vehementiſſima enim conturbaberis  triſtitia, ob uitae diſperditionem, quam nunc, tanquam malum intolerabile et ineuitabile, tibi ſiſtis. volfius
+
+[p. 427] De affectibus. a27
+
+VVolfius deſperationem ita definit: Eſt affectus, qui oritur, ſi nobis malum repraeſentemus, tanquam ineuitabile, inprimis, ubi ſimul idem nobis repraeſentamus, tanquam intolerabile. Conf. Pſychologia Emp. S. 8%5.
+
+§. 659. Fit interdum, ut, praeter ſpem et opinionem, quid occurrat nobis, quod malum nobis ſiſtimus. Vnde uehemens ſubinde oritur taedium Vehementius hoc taedium, ex improuiſo malo perceptum, dicitur terror. Ponas, Caium, in muſeo libris aſſidentem et  meditantem, praeter omnem opinionem, ſpectrum horribilis faciei, maximique corporis iuxta ſe ui- dere. Annon Caius, ſpectrum hoc, tanquam malum improuiſum, ſibi ſiſtens, uehementiſſime conturbabitur? Annon ſumma afficietur tristitia? Quae ipsa tristitia, ex malo minus ſperato et improuiſo oriunda, terrorem conſtituit.
+
+§. 660. 4 Vbi terror animum ita concutit, ut hic, extra ſe raptus, ſui ſibi plane non amplius ui- deatur eſſe conſcius, tum inſignior ille terroris gradus appellatur pauor. (Beſtürzung.)
+
+5 66I. Vſu uenit nonnunquam, ut, cum bonum quoddam obtinendum ſperamus, id i ſpe-
+
+[p. 428] 428 De affectibus. : ſperemus, ut, quia reperire non possumus, num bonum ſperatum facile obtineri queat, multo cum metu adhuc colluctemur spemque metus, metum rurſus ſpes excipiat. Quae spei metusque uiciſitudo, Fluctuatio uel Va Vacillatio animi, nominatur. Vbi uero difficultates plures, quae bonum obtinendum circumſtant, nobis repraeſentamus, x.m% 27 oritur inde puſillanimitas, cui oppoſita eſt animoſitas, orta ex repraesentatione facilitatis boni obtinendi. r2 n
+
+Sempronius, in grauem implicitus morbum, nunc in ſpem uenit ſanitatis recuperandae, nunc, aeſtu iactatus inſolito, timet rursus sanitati ac uitae suae. En! fluctuationem animi? Morbo in dies ingraueſcente, medicoque attonito adſtante, animum deſpondet, et, abiecta fere ſpe, ad mortem ſe praeparat. En! pusillanimitatem! Fac uero, nouum accedere medicum, qui, ingenio mali morbique rite explorato, confidere animo iubeat, propterea, quod ipſe plures iamiam eiuſdem indolis morbos feliciter ſuſtulerit; tum, animo collecto, paullulum rurſus laetatur. En! animoſitatem
+
+§. 662. Aemulationem ſive Zelotypiam definimus per appetitum ſenſitiuum, quo ferimur in aliquod bonum habendum prae altero quodam, idem appetente. Hic
+
+[p. 429] De affectibus. 429 Hic affectus eſt eiuſmodi, ut ipſi plures alii facile immiſceantur, metus scilicet, ne alter nobis bonum, quo frui ſoli cupimus, eripiat, odium contra illum, quem, putamus, nobis bonum eripere uelle, inuidia item etc. §. 653.
+
+Deuenimus nunc ad affectum, omnium fere uehementiſſimum, puta, iram. Eſt autem ira nobis nihil aliud, quam inſigne taedium, ortum ex iniuria, nobis uel aliis illata, coniunctum cum odio eius perſonae, quae iniuriam intulit. Alii aliam irae definitionem proferunt, quorum tamen plures iram uel a metu, uel a poenitentia, uel a tristitia et pudore, non ſatis diſtinguunt. Allata uero definitio uidetur omnino eſſe eiusmodi, ut characteres, irae proprios, alleget. Ponas, e. gr. Caium Titium, praeſentibus aliis spectatae auctoritatis hominibus, plurimis proſcindere conuiciis, ipſique uitia uitae anteactae exprobrare, tum Titius, iniurioſius ſe tractatum arbitratus, uehementiori afficietur taedio, magnumque aduerſus Caium, iniurias inferentem, concipiet odium, ſiue iraſcetur Caio.
+
+c. 664. Promtitudo et animae pronitas ad iram celerem dicitur iracundia. Quae in iis reperiri potissimum ſolet, qui, honoris paullo auidiores-
+
+[p. 430] 430 De affectibus. auidiores, uel ſpeciem iniuriae pro inſigni ſtatim iniuria habent.
+
+5. 66;. Ira intenditur fitque uehementior, I.
+
+Cum iniuria, quae infertur, magna, fuerit et atrocissima, aut certe, ut talis, menti  repraeſentatur.
+
+### II. Cum plures iniuriae concurrunt, magnaque
+
+copia inferuntur. gru;
+
+1II. Cum per praeſentem iniuriam, ope memoriae et imaginationis, priſtinae iniuriae, reuiuiſcunt quaſi, et uiuide denuo menti ſiſtuntur. &a IV. Cum affectui irae alii ſimul affectus, e. gr. pudor, poenitentia, metus, terror, de- desperatio, inuidia, aemulatio, etc.  immiscetur. ६
+
+Fac, Caio a Titio per calumniam crimen atheismi affingi, tum Caius ira ex exardescet et ſtomacho. Crescet autem et augebitur ira, ſi Titius, qui Caio atheiſmi crimen imputat, fuerit olim Caii diſcipulus, ab eoque multa et insignia acceperit beneficia. Nam in hoc caſu iniuria maior eſt. ui num. ſ.) poni
+
+[p. 431] De affectibus. 431 1 Ponas porro, Caium non modo Titio crimen Atheiſmi imputare, ſed id quoque agere, ut Titium, munere ſuo hucdum laudabiliter functum, de gradu dignitatis ſuae deiiciat, deiectumque in exilium propellat, tum magis magisque ira in Titio intenditur, quia plures concurrunt iniuriae, ui num. II)
+
+Quod ſi Maeuius, qui multis olim te iniuriis lacessiuit, tibique uel maxime aegre fecit, forte fortuna tibi occurrerit, et uel limis te aspexerit oculis, mox ira efferueſces, idque non tam ideo, quod te nunc limis Maeuius aspiciat oculis, ſed quod imaginatio tua omnes illas iniurias, quibus te quondam Maeuius affecit, occaſione praeſentis iniuriae, denuo tibi repraesentet. (num. III.) Vt adeo intelligi queat, cur uehementiſſima ſaepius ira ex cauſſa leui oriatur, maxime, ſi irae alii affectus, (num. IV.) recenſiti immiſcentur.
+
+§. 666. Cum ira plura coniuncta ſunt mala, inter quae, ratione animae, maxime locum habet uindictae cupiditas, qua, quod alter nos iniuria affecit, ipſo malum rependere nitimur.
+
+In corpore irae effectus omnium maxime conspicui ſunt. Enumerat hos Seneca Lib. I. de Ira Cap: I. hunc fere in modum.,, Flagrant et micant oculi, multus ore toto rubor, exaestuante
+
+[p. 432] De affectibus. ,te ab imis praecordiis ſanguine. Labia  quatiuntur, dentes comprimuntur, horrent ac sub- „ eriguntur capilli, ſpiritus coactus ac ſtridens, articulorum ſe ipſum intorquentium ſonus, gemitus, mugitusque, et parum explanatis uocibus »ſermo praeruptus, et comploſae saepius manus, ,,et pulſata humus pedibus, et totum concitum ,,corpus, magnasque minas agens. Foeda uiſu ,, et horrenda facies, deprauantium ſe atque in- intumescentium. Neſcias, utrum magis deteſtabile uitium ſit, an deforme.,, An elegantius quid,  uerius, aptiusque dici poterat? Ceterum de quaestione, an ira ſemper ſit affectus malus? conferatur Schlosseri dissertatio, de morali aeſtimatione irae, 1728. Vitemb. habita.
+
+F-667. Cum quis in agendo tantum affectuum ſequitur impetum, atque adeo confuſis ſenſuum imaginationisque repraeſentationibus determinatur, is dicitur ſeruus moralis. Ipſe autem seruitutis moralis ſtatus eſt, quo quis ad appetendum auersandumque tantum ſen- ſuum imaginationisque confuſis repraeſentationibus commouetur.
+
+Qui plenius seruitutis moralis naturam et àrrna noſſe cupit, legat diſſertationem noſtram ũè ſtatu ſeruitutis moralis. Vitemb. 1732. bab. ۱
+
+[p. 433] De uoluntate, eiusdemque libertate. 433
+
+CAP. VII. DE VOLVNTATE
+
+EIVSDEMQVE LIBERTATE. §. 668. LI Hactenus appetitum, et generatim spectatum- a I um, 602) et ſenſitiuum speciatim, (§. 61.) una cum affectibus conſiderauimus. Nunc, ex ordinis lege, appetitus quoque rationalis, diſtinctis ortus ex repraeſentationibus, explicandus erat distinctius. Cum uero, quae ſupra de appetitu, generatim ſpectato, demonſtrata ſunt, (§. 604.) ea omnia quoque poſſint ad appetitum rationalem transferri, in eo tantum nunc uerſabimur, ut poſitiones quasdam adferamus, ad Intelligendam appetitus auersationisue rationalis naturam pertinentes.
+
+5 659.
+
+### I. Appetitum rationalem oriri ex diſtinctis
+
+repraesentationibus, ſupra 6iI. demonſtra- Mus. Cum uero, ope intellectus, res di- ſtincte cognoſcamus, ò: 549.) conſequens eſt, ut appetitus rationalis intellectum, tan- quam ducem, ſequatur G Le II.
+
+[p. 434] De uoluntate,
+
+#### l. Vnde manifeſtum fit, quod, ſi appetitus
+
+rationalis uia labatur, maleque eligat, ratio quaerenda ſit in errore intellectus. III. Quo maius bonum nobis intellectus repraesentat, eo fortius ad appetendum motiuum adeſt. 658 Atque adeo mirum non eſt, nos e bonis, diſtinctius cognitis, E maius bonum praeferre minori.
+
+7. IV. Fieri poteſt, et fit etiam perſaepe, ut, quod intellectus et ratio tanquam bonum repraeſentant, id ſenſus et imaginatio nobis tanquam malum ſiſtant, et contra. rr
+
+### V. Hinc oritur illud, ut, quod appetitus ſenũtiuus
+
+cupit, rationalis ſaepe auerſetur, et, quod, ſenſus et imaginationem ſecuti, auerſamur, idem, ratione in conſilium adhibita, appetamus. 1
+
+VI. Status eiusmodi, quo appetitus ſen- sitiuus rationali eſt contrarius, et uice uerſa, dicitur pugna appetitus ſenſitiui et rationalis. Hanc pugnam exemplo perquam perſpicuo illuſtrabimus. Fac, iudici cuidam, qui ĩure iurando pollicitus eſt, ſe quaſcunque largitiones oblatas recuſaturum, offerri a cliente quodam magnam pecuniae ſummam, ut ius peruertat. Senſus, ſplendore auri praestrictus- Pecuniam, tanquam gratam, tanquam utilem, : ipsi [p. 435] eiusdemque libertate. 435 ipsi repraesentabunt, atque tum appetet pecuniam, accipiendamque putabit. Mox uero ratio et intellectus iudici periurĩi deformitatem, iniu- ſtitiae item uitium, cum infamia, inde exſpectanda menti ſiſtent, atque tum auerſabitur Largitiones, ob- latumque munus reſpuendum existimabit. At- que haec appetitus rationalis ſenſitiuique lucta tamdiu durabit, donec alterutra appetitio uincat, ita, ut uel ratio imperet, et ſenſus obtemperent, uel ſenſus imperent, et ratio obtemperet. In- telligi hinc poteſt illud poëtae: Video meliora proboque, Deteriora ſequor.
+
+Videmus ſcilicet perſaepe meliora et probamus etiam, rationem ſcilicet, tanquam optimam magistram, secuti, deteriora tamen ſequimur, ſen- ſuum determinati confusis repraeſentationibus, eorundemque irritamentis illecti et circumducti.
+
+§. 670. Appetitus rationalis, quem hucdum ex- Plicauimus, dicitur Voluntas uav goxm, Auersatio uero rationalis noluntas.
+
+Ita uocat eum Wolfius, in cuius ſyſtemate quoties uel uoluntatis, uel noluntatis uocabulum occurrit, toties appetitum rationalem, ſcito, intelligi.
+
+Ee 2 SS5. 675.
+
+[p. 436] 436 De uoluntate, 5. §. 671. Haec ipſa uoluntas quamuis motiuis, ſiue repraeſentationibus boni ad uolendum determinetur et inclinetur, Cſ. 609.) non tamen anima, ut uel uelit, uel nolit, neque interna, neque externa, ui, cogi poteſt. Demonſtr. Cum enim uoluntas sequatur repraeſentationes intellectus, 606) idque tantum cupiat, quod intellectus, tanquam bonum, diſtincte cognoſcit, (ꝗ. 6u) facile intelligitur, uoluntatem a ui externa cogi non poſſe. Si enim uoluntas poſſet cogi ad appetendum, tum ui externa poſſet effici, ut id, quod intellectus, tanquam malum, ſiſtit, ſimul pro bono haberet, et ſi ad auerſandum poſſet uoluntas, cogi, tum ui externa deberet effici, ut intellectus, quod pro bono habet, ſimul pro malo haberet At cum huic rei praeſtandae nulla uis par eſſe queat, propterea, quod contradictoria produci non poſſunt, ũ 22) intelligi poteſt uoluntatem nulli ui externae eſſe ſubiectam neque adeo cogi posse. Quod [p. 437] eiusdemque libertate. 437 コ Quod uero internae coactioni non subie. cta ſit uoluntas, id internus quemuis ſenſus condocere poteſt. Experimur quidem, poſitis uolendi nolendique motiuis, nos inuita ri, determinari, ſuauiter allici ad uolendum vel auerſandum, coactionis uero neſcia eſt anima.
+
+Fac e. gr. capitis damnatum ad ſupplicium pertrahi et raptari a carniſice. Carnifex, crudelis- ſimis licet tormentorum generibus excogitatis, omnibus licet inſtrumentis adhibitis, nunquam tamen in eo, quem ad ſupplicium rapit, appetitum p:patibuli et rogi procreabit, quamuis id externa ui efficere poſſit, ut reus pedem moueat, et rogum ascendat. Hinc ueteres: Voluntas non poteſt cogi quoad actus elicitos, i. e. quoad internam appetitionem, potest tamen cogi, quoad actus imperatos, i, e. quoad externa. §. 672. Dum itaque uoluntas neque externa neque interna ui ad appetendum auerſandum. ue cogi poteſt, (§. 671.) patet, animam, cum in appetendo, tum in auerſando, ſeipſam determinare. Facultas animae ſeipſam de- terminandi dicitur Spontaneitas, et ea actio, ad quam ſe ipſa determinat anima, dicitur ſpontanea.
+
+Ee 3 Caius
+
+[p. 438] 438 De uoluntate, Caius e. gr. frequentat collegium iuridicum ſponte, sponteque audit Doctorem Iuris Titium, quatenus scilicet non ui externa pertrahitur et truditur in ſcholas iuridicas. Maeuius uero, mox ęiphis poenam in ferali pegmate subiturus, non Sponte ad locum supplicii ire dicitur, ſi à crudeli carnificis manu ad eum locum raptatur, uiolenterque detruditur.
+
+§. 673. Ex his consequitur, animam et in appetendo et auersando Sponte agere. Demonstr. Cum enim anima, neque interna neque externa ui, ad appetendum auerſandumque cogi queat, ſſ. 61.) adeoque ſe ipſa ad appetendum auerſandumque determinet, eatenus autem, quatenus anima se ipſa determinat, ſponte ipſa agere dici tur, 672.) conſequens eſt, ut anima et in appetendo et in auerſando ſponte agat.
+
+His recte intellectis, intelligetur nunc facillime, in quonam genuina libertatis notio conſiſtat. Ad quam diſtinctius euoluendam, permultum refert, caſum allegaſſe ſpecialiorem, in quo quis libere, agere dicatur. §. 675. [p. 439] eiusdemque libertate. 439 s- 675- Ponas ergo, Caium libere, prae ſtudio theologico et iuridico, eligere ſtudium medicum. Nonne hic in Caio requiritur, ut distincte perspiciat, quid agat, ut incommoda studii theologici uel iuridici perpendat, ponderetque e contrario commoda et opportunitates. a ſtudio medicinae exſpectandas. Nonne porro, ſi ſtudium medicum prae theologico iuridicoque libere eligere dici debet, requiritur, ut ſtudium medicum etiam mittere, et illud non eligere poſſet. Nonne denique uel hoc quoque inprimis requiritur, ut ſe ipſum determinet, ut a nullo uiolenter ad ſtudium medicum cogatur, tru- datur, pertrahatur?
+
+S5 665. His in ſummam collectis, conficimus, ad omnem actionem liberam requiri (1) distin Ctam actionis ſuſcipiendae intelligentiam, ſiue, ut quis eam actionem, quam libere ſuſcipere dicitur, recte intelligat, eaque, quae actionem circumſtant, probe expendat, atque adeo eligat, quod optimum iudicat. Hinc bruta non agere libere dicuntur. Quamuis enim bruta, ab omni ui externa libera, ſe ipſa ad agendum determinent, quia tamen di- ſtincta et mediata actionum committendarum cogni Ee 4 cogni-
+
+[p. 440] 440 De uoluntate 1 cognitione deſtituuntur, omnis ipſis libertas de negatur. 5. 677-
+
+### II. Quia, ſi actio libera dici debet, ita
+
+comparata eſſe debet, ut etiam poſſit omitti, ut contrarium eius fieri poſſit, (5. 6 id autem, cuius oppoſitum adhuc fieri poteſt, appellatur contingens, (§. 175.) ſequitur, ut ad omnem actionem liberam requiratur contingentia. Hinc e. ęr. pulſum cordis, circulum ſanguinis, non uocamus actionem liberam, quia non poſſumus eam omittere,
+
+§. 678. III. Cum, ut agat quis libere, requiratur, ut ſe ipſe ad agendum determinet, 675) is autem, qui ſe ad agendum ipſe determinat, dicatur ſponte agere, (§. 672.) palam eſt, libertatem ſine spontaneitate eſſe nullam poſſe. Sic fur, a carnifice ad ſupplicium pertractus, non libere ad patibulum ire dicitur, cum spon taneitas desit. §. 679.
+
+His recte praeſtructis, tem nihil eſſe aliud, quam facultatem entis intelligentis, C5. 676.) ex pluribus possibilibus siue [p. 441] eiusdemque libertate. 441 ſiue contingentibus, 67) sponte, 676.) eligendi id, quod optimum iudicat. Hunc libertatis conceptum, ipſa fundatum experientia, eleganter, ſolide, multaque eum d diligentia, expoſuit S. R. Wagnerus, Hamburgensium in praeſenti decus et delicium, idque in peculiari libro, quem de libertate, ante paucos annos, Germanice conſcripſit. Schloſſerus item ſe- Lectis quibusdam theſibus libertatis notionem enucleauit. Vitemb. 1755. S. Scholastici aliam libertatem dicebant eſſe libertatem contradictionis aliam contrarietatis. Vi illius aliquid, poſitis omnibus ad agendum praerequiſitis, poſſumus agere, et non agere. Vi huius poſſumus ex actionibus, ſpecie diuerſis, eligere hanc illamue. Libertatem con- tradictionis uocant quoque libertatem exercitii, e. g?r. Cum poſſum librum legere et non legere. Libertatem contrarietatis appellant quoque libertatem ſpeciei, e. gr. Cum poſſumus librum legere, uel ambulare, uel, loco ambulationis, ſcribere etc.
+
+§. 680. Ex libertatis notione intelligitur, ubi non habet locum intellectus et ratio, ibi nulla libertas. (β) Quicquid non tollit contingentiam actionis et Spontaneitatem, id non tollit libertatem, adeoque (y) Ees cum
+
+[p. 442] 442 De uoluntate cum necessitas hypothetica contin- gentiam neutiquam tollat, i15.) sequitur, ut necessitas hypothetica cum libertate poſſit conſiſtere.
+
+5- 6sI Motiua itaque uolendi non tollunt libertatem, ſed cum ea optime poſsunt ſimul ſtare. Demonſtr. Cum enim motiua uolendi nihil ſint aliud, quam repraeſentationes boni, voluntatem ad appetendum determinantes; (§. 608.) ad id autem, ut quis libere agat, requiratur, ut actionem ſuſcipiendam sibi tan quam bonam diſtincte ante rẽpraeſentet, in- /a z5 telligenterque eam ponderet, 676) per- spicuum eſt, tantum abeſſe, ut motiua uo- Lendi ullo modo libertati aduerſentur, ut sine iis nulla libertas locum habere queat.
+
+Ponamus, motiua uolendi tollere libertatem. Tunc ſequetur, omnem actionem, si illa quidem libera dici debeat, eſſe ſine antece s. denti deliberatione ſuſcipiendam, omnem que illam, quae cum ratione et intelligentia committitur, eſſe neceſſariam Quo quidem nihil abſurdius dici poteſt. Quod [p. 443] eiusdemque libertate. Quod uero motiua uolendi plane non officiant libertati, id cum ſuus quemque ſenſus condocet, tum ex exemplo appoſito pateſcet clarius, Fac, te hucdum ſtudio Theologico addictum fuisse. Fac porro, te nunc, miſſo ſtudio Theologico, animum tuum appellere ad ſtudium iuridicum. Numne adſunt rationes, quae te ad hanc mutationem ſuſcipiendam commouent? Adsunt omnino. Scilicet (a) debili uoce es instructus, adeoque ad orationes ſacras habendas minus aptum te sentis (8) Memoria languida, nec tenaci te laborare in- telligis, quae impediat, quo minus hebraeam, graecamque linguas, Theologo neceſſarias, addiſcere queas, (y) accedit, quod ſpes effulgeat ſtipendii percipiendi, quod uero, ex mente  testatoris, non niſi iuris ſtudio conferri debeat. En rationes, en motiua, ad ſtudium Theologi- | cum cum iuridico commutandum te mouent! Ecquis uero eſt, qui, cum te his motiuis ad ſtudium iuridicum amplectendum adductum uideat, negare uelit, te iurisprudentiam prae theologia libere elegiſſe? Neſcio itaque, nec uideo ſatis, qui fieri possit, ut nonnulli eo pro- grediantur uecordiae, ut, omnia motiua libertati repugnare, affirmarint, periculosamque Plenamque illam doctrinam eſſe, clamitarint, qua, cum ratione et tamen libere, actiones suscipi poſſe, aſſeritur. Conf. omnino iam citatus liber VVagneri de libertate.
+
+§. 682.
+
+[p. 444] A44 De uoluntate, eiusdemque libertate.
+
+5 682.
+
+Ita apparet nunc, indifferentiam illam perfecti aequilibrii, quae ueteribus Scholaſticis tantopere arrisit- fit, quaeque placet etiam nunc non nullis neutiquam libertatis notionem conſtituere, ſed pertinere ad non entia et commenta. 1 Demonstr.
+
+Cum enim libertas ſine " moti- uis siue repraesentatione boni diſtincta locum habere non poſſit, 696.) indifferentiam uero perfecti aequilibrii uocarint ueteres, qua anima, poſitis omnibus ad uolendum requiſitis ſiue motiuis, tamen contra- rium eligere poſſet, idque ſine motiuo, ſine ratione sufficienti, animam ad contrarium determinante, palam eſt, indifferentiam perfecti aequilibrii referri inter ea, quae fieri non poſſunt, adeoque ad non - entia, et commenta. 62) Concedimus equidem, quod anima, positis omnibus ad agendum requiſitis, poſſit contrarium agere, ſed NB. Si contraria motiua fortiora
+
+[p. 445] De commercio animae et corporis. 445 tiora accesserint. Caius e. gr. offert mihi medicinam, quam, ait, hecticae ſanandae eſſe accommodatiſſimam. Appeto eam, et quidem libere. Fac uero, Titium accedere, et iureiurando confirmare, quod in puluere oblato pe- pestilentissimum deliteſcat uenenum, tum, nouis motiuis, ſcilicet repraeſentatione periculi mortisque, ex ſumto puluere certiſſime subsecuturae, determinatus, auerſor id, quod modo pro ſaluberrimo habebam medicamento et appetębam. Atque eatenus, quatenus anima per ſe indifferens eſt, ad agendum et non agendum, ipsi tribuitur indifferentia exercitii, Conf. Flottvell in diſſertat. philoſophica de Anima in aequilibrio libera, Ienae 1734 hab.
+
+CAP. VIII. COMMERCIO ANIMAE P?
+
+CORPORIS QVATENVS ILLVD CONSTAT EX EXPERIENTIA.
+
+5 68. Explanata ſunt hactenus cum ea, quae ad animae facultatem cognoſcendi pertinent,
+
+[p. 446] 446 De commercio animae et corporis, nent, tum illa quoque, ex ordinis lege, di- distinctius enodaſſe nobis uidemur, quae appetitionibus animae et auersationibus, recte intelligendis deſeruiunt. Nunc, experientia magistra, trademus, quo nexu, quaue cognatione corporis ac animae mutationes inter ſe contineantur.
+
+§. 684. Quod anima arctissimo ſit coniuncta uinculo cum corpore, et in ſocietatem ueniat eorum, quae corpori contingunt, de eo ſuus neminem ſenſus dubitare patitur. Neque adeo negaſſe quemquam hanc poſitionem, memini, niſi eos, qui aut corpora dari ne- gant, quo pertinent Idealiſtae, aut, qui ſpiritus exiſtere inficiantur, quo referendi Materialiſtae.
+
+E æu T]u 5 68. Harmoniam uero et commercium, quod anima habet cum corpore, ut alia plura, ita uel maxime ſequentia compro- bant.
+
+### I. Ex
+
+[p. 447] quatenus illud conſtat ex experientia. 447 L
+
+### I. Experientia quemque condocet, eo
+
+momento, quo in corpore noſtro orga- na ſentiendi, ut, oculus, auris, nares, si- fibrillae nerueae, a rebus externis pulſantur, feriuntur, mouentur; ſtatim in anima oriri ideam eius mutationis, quae in corpore noſtro ab obiectis extrinſecis producitur. Eaque ipſa idea eſt rei externae, quae sensus afficit, mutationique, in ſentiendi organis productae, admodum conueniens.
+
+E. gr. Cum tormenta bellica, magno fragore, exploduntur, tum motus aeris tremulus producitur, ad aures defertur, per illarum anfractus continuatur, et fibrillas per aurem interiorem diſperſas subita uibratione percellit. Hae mutationes ad corpus ſpectant. Eo ipso uero momento et temporis punctulo, quo haec omnia in corpore et organo auditus contingunt, anima ſibi fragorem bellici tormenti re- praesentat. En arctam connexionem animae cum corpore. ræ
+
+### II. Commercium hoc euincit praeterea
+
+illud, quod, ubi corpus uel languore aliquo, uel morbo et dolore infirmatur, anima quoque miram ſentiat aegritudinem, et, omni uigore amiſſo, paullatim Languescat.
+
+Contra
+
+[p. 448] 448 De commercio animae et corporis, Contra, cum corpus, ſucci plenum, cre- ſcit in dies et uigeſcit, tum animam quo- que et in cogitando et in iudicando ratioci- nandoue plurimum acquirere agilitatis et firmamenti, comperimus. I1I.
+
+Experimur praeterea, animam, cerebro laeso, mirum quantum in functionibus ſuis turbari, et identidem in delirium prolabi.
+
+§. 686.
+
+} Haec uti docent, animam, arctissimo cum corpore connexam uinculo, intimum cum eo habere commercium, ſic itidem experientia neſcire neminem patitur, corpus cum anima viciſſim habere harmoniam et conſenſionem. Quod ut intelligas, atten- de ad ſequentia.
+
+1 I. Obſeruamus, motus quosdam in corpore euenire tum, cum anima eosdem uult conſequi, et eo ceſſare rurſus momento, quo ceſſare cupit eos anima. II.
+
+Nouimus, in turbulento affectuum concurſu ita ſanguinem, ſuccosque corporis [p. 449] quatenus illud conſtat ex experientia. 449 ris omnes, confundi et conturbari, ut nihil tranquilli in eo compareat, aeſtu autem animi deferueſcente, ſedari omnia et pacari.
+
+J. 686.
+
+: Quae quid aliud indicant, quam amicum, quod cum anima habet corpus, commercium? Nihil autem, ſi experientiam recte in conſilium adhibueris, experiris ſentisque aliud, quam quod cum certis corporis mutationibus conuenientes animae ideae ſimul exiſtant, 685.) quodque ad animae decretum nonnulli corporis motus ſequantur.
+
+Qui plura experientia ſe ſentire putant, idque maxime obſeruaũſe ſibi uidentur, quod anima, ut cauſſa efficiens, producat uere motus in corpore, quodque, quoties in corpore mutatio accidit, toties animae a corpore effective imprimatur idea, nae ii ſenſiſſe quid ſe putant, quod nunquam ſenſerunt, idque, ut experientiam certam nec fallacem, allegant, quod, ut foe- tum aliquem adulterinum, imaginatio enixa eſt? Hi, non uideo, qua ſe ratione uitio ſubreptionis, 366. Philosophiae noſtra. rationalis explicato, purga- re queant.
+
+Fſ 687-
+
+[p. 450] 450 De commercio animae et corporis, etc.
+
+Cum, experientiam teſtari, dixerimus (§. 684) animam motus corporis ita determinare poſſe, ut pro lubitu hic, nec alius ſe- quatur motus, conſequens eſt, ut eadem con- firmet experientia, animae competere regimen in corpus. Regimen enim animae in corpus quid aliud eſt, quam facultas animae, motus corporis pro lubitu ita determinandi, ut ſe- quatur hic, nec alius, motus. §. 688.
+
+Tantum de commercio mentis et corporis nos condocet experientia, qua edocti, ſcimus, dari reuera inter utramque hanc ſub- ſtantiam mutuam amicitiam Modum uero, E Rai quo ſequantur ad decretum animae motus in corpore, quoque ad certas, in corpore  factas, mutationes exſurgat idea in anima, uarii uarie explicant, de quo deinceps dispi05 ciemus. u ææQ;
+
+u' s imj3
+
+FINIS PSYCHOLOGIAE i EMPIRICAE, :
+
+PSYCHO-
+
+[p. 451] De eſſentia et natura animae. 451
+
+PS YC H O LOGIA RATIONALIS. CAP. I.
+
+ESSENTIA NATVRA ET ANIMAE,
+
+RATIONIBVSQVE EORVM, QVAE SVNT IN ANIMA. Supra iam monitum fuit a nobis, ea, quae animae tribuuntur, aut cognoſci ex experientia, unde exiſtit Pſychologia Empirica, aut ratiociniorum ope inueſtigari, unde Psychologia rationalis. (Conf. 499 Ad finem itaque perductis iis, quae ad pſychologiam empiricam ſpectant, nunc in inueſtigandis eorum, quae per experientiam animae competunt, rationibus uerſabimur, atque id ita quidem, ut, quas ratio ſuppeditat, poſitiones cum demonſtrationibus pertexamus.
+
+Ff2 5. §. 690.
+
+[p. 452] 452 De eſſentia et natura animae,
+
+650. Definitionem nominalem animae ſupra allegauimus, ũ. 487.) qua ipſam diximus eſſe ens, quod in nobis ſui rerumque extra ſe poſitarum eſt ſibi conſcium Cum conſcius ſibi quis ſui rerumque extra ſe poſitarum eſt, tum cogitare dicitur, ũ 49I0 Atꝗui uero tum, cum quis ſibi ſui rerumque extra ſe poſitarum conſcius eſt, ſe ab aliis rebus, reſque a ſe inuicem dignoscere debet, (§. 484.) ut adeo cogitans rerum diſcrimina percipere debeat, et unam repraeſentationem cum altera per attentionem et reflexionem 542) comparare. §. 691. 1 Quicquid igitur rerum differentias obſeruare nequit, quicquid perceptiones ſuas a ſe ipſo diſcernere non poteſt, quicquid item non eſt eiuſmodi, ut unam repraeſentationem -m cum altera, ope attentionis et reflexionis, comparare ualeat, id cogitare non poteſt.
+
+§. 692. 5 f4]
+
+Z- Quicquid eſt ens compoſitum, illud cmm( non poteſt cogitare. Demonſtr. Quicquid rerum differentias obſeruare et res repraęſentatas inter ſe inuicem [p. 453] rationibuſque eorum, quae ſunt in anima. 453
+
+1 uicem conferre perceptionesque ſuas a ſe ipſo diſcernere nequit, id cogitare non poteſt. 691.) Atqui uero ens compoſitum haec omnia non poteſt. Ergo ens compo- ſitum cogitare nequit. Quotiescunque enim compoſitum uel perciperet res, uel res perceptas inter ſe compararet, toties certas ſubiret mutationes, (quia, quod communis quemque ſenſus edocet, nulla cogitatio, et nulla rerum perceptarum inter ſe collatio ſine mutatione euenire poteſt) Cum uero omnes mutationes, quaẽ in ente compoſito fieri possent, mediante motu fiant, ĩta, ut partes ipſius uel tranſponantur, uel aliae addantur, uel minuantur quaedam, 263.) conſequens eſt, ut, ſi in ente compoſito cogitatio et conſcientia ſui locum habere deberet, tum illa aut ex additione, aut transpoſitione, aut diminutione partium exsur- geret. Sed transpone partes, tum habes aliud ens compoſitum, aliamque eiuſdem figuram, neutiquam uero cogitationem et conſcientiam ſui. Adde partes, tum emerget maius ens compoſitum, (§. 279.) diminue partes, tum habebis minus ens compo- ſitum. 6 257 Nunquam uero exſculpes cogitationem
+
+Fſ3; Hoc
+
+[p. 454] De eſſentia et natura animae. Hoc negare quidem non poſſumus, a caussa quadam externa imagines et repraeſentationes rerum materialium in ente compoſito, e. gr. imaginem regis in aenea statua produci poſse, Ad id autem, ut ens quoddam perceptiones inter ſe conferat, ut ſimilitudines rerum et differentias obſeruet, ut pro lubitu uni rei attendat, alteramque cognoſcere omittat, ad id, inquam, interna quaedam uis requiritur. Cum uero compoſitum quiescens ſeipſum mouere non poſſit, (3 496) ũ multo minus perceptiones producere easdem: que inter ſe conferre, et ſuper eas reflectere poterit. Et Theorema hoc: Compoſitum non poteſt cogita-2 re; a uariis.s uarie demonſtratum eſt. Cantzius in Iurisprudentia Theologiae p. i72. hanc in rem praeclare:,, Quod ſi, inquit, intellectus et uo- luntas Spirituum finitorum neceſſario depo- nſcunt rem extenſam, in qua inſint, (cum res extensa fit complexus plurium,) intelligendi et appetendi facultas nascetur uel a partibus ex- extensi, uel a toto, i. c. quatenus partes iunctae aa ſunt. Tertius et quartus etc. modus conſe E3 quendi aut poſſidendi intellectum in re extenſa non datur, cum nihil amplius in ea ſit. Non poteſt intellectus oriri a partibus extenſi ſing- ,lis, singulae enim haberent ſuae magnitudini Ll »Respondentes minutos intellectus, quorum unus- quiſque aliquid ad intellectum ex partibus componendum, et maiorem, uti atomi ad mo- ,lem coaceruandam, conferret, quo nihil poteſt ,cogi- [p. 455] rationibusque eorum, quae ſunt in anima. 455 cogitari abſurdius, ſed nec intellectus et uoluntas poſſunt reſultare ex partibus extenſi, quatenus ſunt iunctae in certo ſitu, figura et motu. -Nam ſi hoc fieri poſſet, nihil obſtaret, quo minus eiusmodi machina maior fabricaretur, seruata „ Proportione minoris, idque ideo maxime, ut ma- maior intellectus, domus instar, ex ea oriretur.
+
+Cum itaque de ente compoſito in genere ſit demonſtratum, adeoque etiam de corpore quouis, quod eſt ens compoſitum, 430) perſpicuum eſt, nec materiae ſubtiliori cogitationem poſſe tribui.
+
+Quin etiam ne per potentiam quidem diuinam corpori ac materiae facultas cogitandi tribui poteſt. Demonstr. Ponamus, Dei omnipotentia uim et facultatem cogitandi corpori tribui poſſe, tum aut corpus cogitaret, ut corpus,  aut in ſpiritum mutaretur. Si mutaretur in ſpiritum, tum uero non corpus, .ſed ſpiritus, omnipotentia diuina productus, cogitaret. Si uero ſimul corpus maneret, tum
+
+Ff 4 non
+
+[p. 456] 456 De eſſentia et natura animae, non cogitaret, ut corpus, ſed ut ſpiritus ſimul exiſtens. Id enim, quod cogitat, et intellectu adeo gaudet, eſt ſpiritus, et pertinet ad eſſentiam ſpiritus τὸ cogitare. (§. 473.)
+
+§. 695. Anima eſt ens ſimplex. Demonſtr. Cum enim anima cogitet, et ſui ſibi conſcia ſit, (3- 487.) ens compositum autem non poſſit ſui conſcium eſſe, adeoque nec cogitare, (ò. 69.) conſequens eſt, ut anima non poſſit eſſe ens compoſitum. Quia uero, quicquid eſt, debet eſſe aut ens compoſitum, aut ſimplex, (267.) manifeſtum eſt, animam eſſe ens ſimplex. Ergo anima non eſt extenſa, (5 269 omni caret magnitudine, (ẽ. 270.) item figura destituitur, (§. 271.) eſt indiuiſibilis, 6. 272) et indeſtructibilis, (ꝗ. citat.) tr
+
+Z& 6 696, Anima gaudet ui cogitandi ſiue a; L Za repraeſentatiua, a qua, tanquam a principio et fonte ſuo, omnes eius re- praeſentationes ortum trahunt. r Eãu rc954 [p. 457] rationibusque eorum, quae ſunt in anima. 457 1. of Demonstr.
+
+Dum enim omnia entia ſimplicia gaudent ui quadam, (§. 301.) anima autem eſt ens ſimplex, (§. 695.) intelligis, animae quoque uim, ſiue continuum agendi conatum et niſum, 298.) tribui debere. Cum uero praecipuae animae operationes repraeſentationibus abſoluantur, uim iſtam animae recte dicimus uim repraesentatiuam. Vis est id, in quo continetur ratio ſuffici- ens, cur actio ad exiſtentiam perueniat. (§. 298.) E. in ui repraeſentatiua continetur ratio sufficiens, cur repraeſentationes ad ex- iſtentiam perueniant. Id, in quo continetur-ratio sufficiens, cur alterum ad exiſtentiam perueniat, dicitur cauſſa alterius, (§. 337.) E. uis repraeſentatiua eſt cauſſa ſiue principium repraeſentationum et perceptionum in anima.
+
+§. 697. Non omnia ſibi repraeſentat unico actu anima, quae ſibi repre ſentare poteſt, nec, quae ſibi repraeſentat, eo diſtinctionis gradu ſemper ſibi ſiſtit, quin diſtinctius poſſit re- praesentare Ergo anima nondum habet omnia ea actu, quaę habere poteſt Ergo anima eſt ens finitum, (§. 324.) et limitibus circumſcripta eſt: (3. 323 Vis itaque ani-
+
+Fſ5 mae
+
+[p. 458] L 458 De eſſentia et natura animae, mae repraesentatiua etiam certo modo ſit limitata, neceſſe ęſt.
+
+§. 698. Haec uis repraeſentatiua limitatur (a) qua obiecta, quae repraesentantur, ſiue, ut alii enunciant, materialiter. Dum ſcilicet anima ✓ ſentit, ſibi repraeſentat ea, quae in organis sensoriis mutationem producunt, ſ5. 499) atque adeo res ſibi repraeſentat pro ſitu corporis organici. (ò) Limitatur qua modum repraeſentandi, ita, ut aliae perceptiones ſint clariores, obſcuriores aliae, prout ſcilicet organa ſenſoria fuerint uel ſana, uel corrupta, aut obiecto percepto propius admota, aut ab eodem longius diſtent. Hinc animam recte dicimus in repraeſentationibus ſuis limitari per ſitum corporis organici, et conſtitutionem organorum ſenſoriorum.
+
+Ex quo nunc intelligi poteſt, quid ſit, quod anima a nonnullis dicatur ſubſtantia repraeſentatiua uniuerſi pro ſitu corporis organici in uni- uerſo: Vt uero magis perſpicua fiat illa loquendi ratio: pro ſitu corporis organici, ad ſequentia attendas. Cum e. gr. in bibliotheca tu fueris, tum percipis, ſentiendoque tibi reprae- ſentas libros, qui ſunt ante oculos. Ecquid uero eſt, quod non ſimul uideas libros, qui ſunt a ter- [p. 459] rationibusque eorum, quae sunt in anima. 459 a tergo? Nonne cauſſa eſt ſitus corporis organici? Quod enim prout alium aliumue ſitum habebit, ita aliae aliaeque perceptiones exſurgent in anima. Quid porro eſt, quod, cum rem aliquam, e. gr. arborem ſenſibus tibi repraesentas, alio plane modo percipias, quam cum propius acces- ſeris? Nonne rationem inuenies in ſitu corporis organici? Atque adeo intelligis, quid ſit illud tandem, cum anima ſibi res pro ſitu corporis organici repraeſentare dicitur, Conſ. Bilfing. dilu- cid. 2585. §. 699. Quandoquidem uim repraeſentatiuam animae diximus eſſe principium fontemque omnium repraeſentationum operationumque animae, (§. 696.) agedum, diſpiciamus nunc, qua ratione illae ex ui repraeſentatiua reſultent,
+
+6. 7r70. De ſenſationibus quidem dubium non eſt, quin in ui repraeſentatiua contineantur. Cum enim ſenſationes ſint repraeſentationes rerum praeſentium, (§. 497.) repraeſentatio autem ſupponat uim repraeſentandi, (§. 27.) palam eſt, uim repraeſentatiuam non poſſe non adeſſe, ſi ſenſationes locum habere debeant. 5. 7oI.
+
+[p. 460] De eſſentia et natura animae,
+
+5. 70I. Dum autem anima in ſentiendo res prae- ſentes, mutationibus, in organis ſenſoriis factis, conuenienter ſibi repraeſentat, (§. 699.) ſequitur inde, (a) repraesentationes ſenſuum in anima exactam habere cum iis rebus, quae repraeſentantur, conuenientiam et ſi- militudinem. Sunt enim repraeſentationes rerum uelut imagines rerum. Atqui uero inter imaginem, et rem, cuius eſt imago, ſemper debet eſſe ſimilitudo. (õ) Hinc cogitur, eodem ordine eademque ſucceſſione, eodem item tempore, quo res externae or- gana ſenſoria afficiunt, pulſant, feriunt, animam ſibi easdem repraeſentare debere. (7) Ex quo fluit illud, ſi in caſibus duobus, uel pluribus etiam eadem in organis G:sensoriis producitur mutatio, eandem in anima repraeſentationem oriri debere.
+
+5. 730 Quae quidem omnia quemadmodum ex natura indoleue ſen- ſationum tam euidenter fluunt, ut euidentius non poſſint, ita illud quoque pro comperto habemus, cum [p. 461] rationibuſque eorum, quae sunt in anima. 461 cum ſenſationibus omnibus certos motus fluidi neruei in cerebro ſimul exiſtere.
+
+Demonstr. Cum enim in omni ſenſatione in organis ſenſoriis ab obięcto externo per motum producatur mutatio, (5 399: )conſequens eſt, ut nerui, qui connexi sunt, arctiusque cohaerent cum organis ſenſoriis, quoque tangantur. Nerui autem, id quod quemque corporis humani diſſectio condo- cet, in cerebrum usque, filo quaſi continuo, propagantur, ſimulque, tanquam totidem uaſcula, subtilissimum aliquod fluidum, quod uocant ideo nerueum, in ſe continent. Quo patet, motu in organis ſenſoriis facto, subtilissimum illud nerueum agitari, atque, agitatione usque in cerebrum continuata, ipſum cerebrum mutationes ſubire, Vides ergo, cum sensationibus certos motus fluidi neruei ſimul in cerebro existere. I.
+
+703. Imaginatio itidem ex ui reprae- Sentatiua resultat. : Demonstr.
+
+Cum enim ſenſatio ſuum ortum habeat a ui repraęſentandi, (ꝗ: 700) imaginatio-
+
+[p. 462] 462 De eſſentia et natura animae, 1 imaginatio autem nihil aliud ſit, quam continuata ſenſatio, (5. 509. ratio in promtu eſt, cur imaginationem ita, ut sensationem, ex ui repraeſentatiua fluere, affirmemus.
+
+5 794. y Et quia ſomnia ſunt imaginationes, ũ. 54) eadem, liquet, per uim animae repraeſentatiuam produci,
+
+5 795. Sicut ſenſationibus omnibus reſpondet certus motus fluidi neruei in cerebro, ſ5. 792:) imaginatio uero non niſi continuata eſt ſen- ſatio, 509.) dubium non eſt, quin cum imaginatione ſit certus quidam motus ſubtilioris illius, de quo diximus, fluidi neruei in ce- rebro coniunctus.
+
+Patet id cumulatius ex eo, quod, laeſo turbato- que cerebro, imaginatio ſiue phantaſia mirum E— quantum in functionibus ſuis impediatur et turbetur. Specialius haec imaginatio motuſque fluidi ner- uei in cerebro ita explicatur. Quemadmodum
+
+ſcilicet ſenſatio, quae olim fuit ſenſatio, Zæ37 producit imaginationem, ſ. 508.) ita idem, qui in cerebro cum ſenſatione ſimul exſtitit, (§. 702.) idem, inquam, motus nunc reproducitur cum i imaginatione.
+
+l 5. 796. a [p. 463] rationibuſque eorum, quae ſunt in anima. 463
+
+§. 706. Attentio, reflexio, abſtractio, re- resultant etiam ex ui repraeſentatiua animae. Demonſtr. Cum enim attentio aeque, ac reflexio abſtractioque nihil aliud inuoluant, quam id, ut anima unam rem clarius diſtinctiusque prae altera contempletur, (§. 522.) conſequens eſt, ut anima in attentione, reflexione, et abſtractione, ad unum prae ceteris repraeſentandum,. nitatur. Qui niſus quid aliud eſt, quam uis repraesentandi. Vt adeo, attentionem, reflexionem, et ab- ſtractionem ex ui repraeſentatiua reſultare, pateat. Si itaque attentio et reflexio ex ui reprae- ſentatiua concipi poſſunt, (§. 706.) comparatio uero idearum, adeoque ingenium etiam, ex attentione et reflexione originem trahunt, (§.570) ingenium et idearum comparationem ex ui repraesentatiua deriuare poſsumus.
+
+5 79. Per uim repraeſentandi formantur etiam notiones uniuersales.
+
+[p. 464] 464 De eſſentia et natura animae, Demonstr. Cum enim ad notiones rerum uniuerſales formandas opus ſit attentione, reflexione abſtractione, ſ. 560.) hae autem facultates ex ui repraesentatiua deriuentur, 706.) intelligis, per uim animae formari notiones rerum uniuerſales.
+
+5. 8- Iudicia nostrae animae ex ui repraeſentatiua deduci poſſunt. Demonſtr. Cum enim iudicia nihil aliud ſint, quam combinationes uel ſeparationes idearum, 185. Log.) conſequens eſt, ut in judiciis anima ſibi ideas certas et repraesentationes formet. Quo ipſo manifeſtum fit, animam iudicare non poſſe, niſi adſit in ea niſus ad repraeſentationes quasdam producendas- Hic ipſe niſus eſt uis repraeſentatiua, ũ6 298) E. ad iudicia formanda requiritur uis repraesentatiua, et ex hac illa recte deriuantur.
+
+5 799. Ratiocinia oriuntur ex ui reprae- Demonstr.
+
+Cum enim ratiocinia tribus sentatiua. conſtent iudiciis, (§. 236. Log.) iudicia uero non [p. 465] rationibusque eorum, quae ſunt in anima. 465 non, niſi ex ui repraeſentatiua, deduci debeant, ($.708,) in aprico eſt, ratiocinia oriri ex ui repraeſentatiua.
+
+5. 71. Dum uero ratio per ratiocinia ſe maxime exſerit, (§. 574) ratiocinia uero ex ui reprae- ſentatiua animae reſultant, ũ. 799.) idem de ratione dicendum, patet.
+
+5 7. Cum igitur tres intellectus operationes Praecipuae, notionum ſcilicet uniuerſalium formatio, iudicium, ratiocinium, ex ui re- praesentatiua propullulant, ũ. 797. 708. 709.) manifeſtum eſt, intellectum quoque ex ui repraesentatiua oriri debere.
+
+S 7i2. Quia acumen ab intellectu ſeiungi non poteſt, ṹ 566.) lucidiſime apparet, etiam acumen a ui repraesentatiua prouenire.
+
+5. 3. Ex ui repraesentatiua etiam in anima oritur appetitus et auerſatio, atque adeo uoluntas et noluntas. G Demonſtr.
+
+[p. 466] T Z 466 De eſſentia et natura animae, Demonstr. Cum enim omnis appetitus e repraeſentatione boni oriatur, (f, 606.) et omnis auerſatio ex repraeſentatione mali/ 606.) repraeſentatio autem boni malique oriatur ex ui repraesentandi, (J. 696.) con- ſequens eſt, ut et appetitus, et auerſatio, oriantur ex ui repraeſentatiua.
+
+Dum igitur appetitus et auerſationes in genere ex repraeſentatiua ui oriuntur, 73) quis dubitet, etiam appetitus ſenſiti: uos, atque adeo affectus, oriri ex ui reprae- ſentatiua?
+
+5. m5 In ui repraesentatiua animae continetur et consistit eiusdem eſſentia. Demonſtr. Cum enim uis repraesentatiua contineat rationem eorum in ſeſe, quae animae conueniunt, (§. 618.) omniaque etiam, quae in pſychologia empirica a poſteriori de anima cognouimus, ex ui repraesentatiua a nobis deducta ſint, ꝗ. 74) dubium nullum i ſupereſt, quin uis repraesentatiua primum illud ſit, quod de anima concipitur, Primum
+
+3 uil [p. 467] rationibusque eorum, quae sunt in anima. 467 mum autem illud, quod in aliqua re concipi poteſt, quodque continet rationem ſufficientem in ſeſe eorum omnium, quae rei conueniunt, eſt rei eſſentia, (§. 66.) E. uis reprae- ſentatiua eſt animae eſſentia.
+
+§. 716. Vis repraeſentatiua conſtituit etiam naturam animae. Demonstr. Naturam cuiuſque rei conſtituit uis eiusdem intrinſeca, ad determinatas actiones patrandas tendens. 4430 Cum uero uis animae repraeſentatiua ſit uis animae actuoſa ad determinatos effectus, nimirum perceptiones et uolitiones praeſtandas apta (ex ui enim repraesentatiua omnes has mutationes profluere, demonſtrauimus 714) perspicuum euidensque eſt, quod uis repraesentatiua conſtituat naturam animae.
+
+Naturam itaque et eſſentiam animae unum idemque eſſe, ex dictis conſtat. Quod neutiquam ualet in corpore, ubi naturam uis eius actiua ſiue motrix, eſſentiam uero modus compoſitionis con- ſtituit. Conſ. 443.
+
+ug 2 5-
+
+[p. 468] 468 De eſſentia et natura animae, s:m. Id omne itaque animae naturale eſt, quod ex ui eius repraeſentatiua, ſecundum regulas legesque cogitandi, poteſt concipi di stincteque explicari. Supernaturale uero, quod ex ea non poteſt diſtincte intelligi G 455) Facile hinc determinari poterit differentia inter ſomnium naturale et ſupernaturale Somnium 55.
+
+naturale legi imaginationis conformatur et continuatur. Somnium ſupernaturale non item.
+
+§. 717. Vis animae tantum unica eſt. Demonſtr. Dum enim omnia, quae de anima in pſychologia empirica a poſteriori cognouimus, ex ui repraeſentatiua unica deriuari potuerunt, (§. 700. ſqq.) ſine ratione uires plures animae tribuuntur, praeter hanc. Hoc theorema compluribus paradoxon, aut falsum omnino, uideri, non miror. Cum enim perpauci notiones diſtinctas uis et facultatis ſibi forment, factum eſt, ut, cum plures animae facultates dentur, putent, poſitionem, qua animae tantum unica uis tribuitur, eſſe ſenſui communi et experientiae contrariam. Si nos unicam uim animae aſſigna- mus, [p. 469] rationibusque eorum, quae ſunt in anima. 469 mus, tum id ita intelligi uolumus, unicum tantum eſſe niſum perpetuumque conatum in anima ad nouas repraeſentationes formandas. Haec autem unica uis repraeſentatiua diuerſo modo, pro diuersitate rei, quae repraeſentatur, determinari ſolet. Vnde oriuntur uariae facultates animae. Cum e. gr. uis animae repraeſentatiua ad repraesentationem rerum praeſentium tendat, tunc anima dicitur sentire Ipſa autem poſſibilitas ſentiendi dicitur facultas sentiendi. Eadem eſt ratio facultatis imaginandi, recordandi, iudicandi, ratiocinandi, appetendi et auersandi etc.
+
+JOICY IN Cel. Bülfingerus hanc in rem praeclare: Etsi, inquit, una animae uis tribuatur, non tribuitur tamen una facultas, quia autem unica illa uis diuerso modo agit, (nunc enim ſentit, nunc imaginatur, nunc recordatur, nunc iudicat, nunc ratiocinatur etc.) diuerſo quoque modo poteſt agere. Potentia illa ſiue poſſibilitas agendi dicitur facultas. Igitur plures in anima adeſſe poſſunt facultates.
+
+Vid. Diluc. s. 288-
+
+Vvinclerus in Institutt. philos. p. 256. Vi unica, inquit, tantum anima pollet, propterea, quod eſt ſimplex. Duae uires duas ſubſtantias requirunt.
+
+G353 CAP.
+
+[p. 470] 470 Cap. II. Sect. 1. CAP.
+
+II. DE MODO,
+
+QVO ANIMA CVM CORPORE EST CONIVNCTA.
+
+SECT. I.
+
+SYSTEMATE INFLVXVS PHYSICI. §. 719. Dari arctum quoddam corporis et animae commercium, id ſat multis, ex experi entia adductis, rationibus ſupra 684. de- monſtraſſe mihi uideor. Supereft, ut de modo nunc diſpiciamus, quo anima cum corpore eſt coniuncta. De eo ſcilicet quaeritur, quomodo id fiat, ut, dum motus in organis ſenſoriis oritur, ſtatim oriatur in anima repraesentatio, et qui fiat, ut, dum anima uult, hoc illudue membrum in corpore moueri, oppido motus in corpore conueniens adſit.
+
+§. 720. Hanc quaeſtionem, hoc problema, cuius ſolutio eſt mere metaphyſica, nec in aliis altioris 1
+
+[p. 471] De ſyſtemate influxus physici. 471 1 altioris momenti disciplinis multi eſt uſus, triplici ratione eruditi ſoluendum putarunt. Alii exiſtimant, animam ita agere in corpus, et corpus ita agere in animam, ut, quando ab obiecto externo mutatio in organo ſenſorio fiat, tum motus per neruos in cerebrum usque propagetur, et ita. me- - diante fluidi neruei motu, animae imprimatur idea, et, quando anima uelit, corpus eiusdemque membra moueri, tum anima reuera et effectiue alium aliumque neruum impellat, atque ita efficiat, ut motus uoluntarius hic, nec alius, sequatur, Alii, Deo quaſi ex machina aduocato, opinantur, facta in organis ſenſoriis mutatione, Deum immediate in anima conuenientem producere mutationem, et, coorta in anima uoluntate, motum conuenientem corpori a Deo imprimi. Alii denique, in aliam, eamque nouam, ſententiam ingreſſi, modum, quo anima cum corpore eſt coniuncta, ita exponunt. (1) Putant, facta in organis ſen- ſoriis mutatione, ſenſationes in anima produci per vim animae intrinſecam, et quidem ex ſenſationibus praecedentibus. (2) Credunt, motus corporis uoluntarios non ab anima, neque immediate a Deo produci, ſed reſultare ex ſtructura et ui motrici
+
+G3ę 4 corporis
+
+[p. 472] Cap. II. Sect. I. : (3) corporis et motibus praecedentibus. Quod uero tam amicus, tamque arctus corporis motuum, et animae repraeſentationum conſenſus adſit, id a quadam Dei prudenti praeordinatione et praeſtabilitione deriuant. re 3-
+
+Dici non poteſt, quam uehementi animi ae- ſtu, quantaque uirulentia ac pertinacia noſtris temporibus de modo, quo anima cum corpore coniuncta eſt, ſit diſputatum. Crederes de salute Gratiae agi, aut quoddam fidei dogma in discrimen uocari, cum tamen tota illa controuerſia ſit de mera hypotheſi, et de problemate; quod affirmari et negari poteſt. In tres autem, ut dixi, abeunt ſententias eruditi, nec plures, quam tres, modos dari, commercium inter animam et corpus expiſcandi, et a non paucis as- ſeritur, et res ipſa docet. Illuſtris Bilfingerus in Commentatione hypothetica de harmonia animae et corporis, maxime praeſtabilita a priori demonſtrauit, non poſſe quartam praeter has -mæ tres ſententias in medium adduci, P. 10. Cel. BE m;-a. Hollmannus in diſſertatione I. de harmonia inter animam et corpus praestabilita p - 6. hanc in rem praeclare: „ Diuersissimae, ait, duae sub5 ,ſtantiae ſi in operationibus ſuis conſpirare ſe- ,cum debent, aut altera alteram dirigat moue. , atque, aut communis inter utramque media- ꝓtor intercedat, aut utraque ſuum agat, in per- ,, petua tamen cum altera conſenſione, neceſſe ارو est.
+
+[p. 473] De ſyſtemate influxus physici. 473 Si ,, est. Illuſtrari id solet et explicari exemplo duo- I rum horologiorum, quae, licet a ſe inuicem ſint it diuerſo, licet magna diſtantia a ſe ſeiuncta sint, tamen consonent exacte. Faciamus, inquit, Bil— jl EX lebius in diſſertat: An Harmonia praestabilita I
+
+ſit miraculum, et concipiamus duo horologia, quat l conſonare debeant. Res expedita reddi potest triplici ratione. Una per influxum: fecerimus, ut alterum agat in alterum, idque, uel mutuo, uel ex unica tantum parte. Altera per cauſſas occasionales, ſi opificem operi comitem fecerimus, jl qui diſſonantia ceteroquin, uel cessatura a motu i horologia ſingulis momentis dirigat. Tertia, &0 sapienter satis perfecerimus eas machinas artis. i ut ſingulae ſuas leges exacte ſequantur, eademque n al instio ſibi respondere curauerimus Ita enim, ll
+
+IL cum utraeque easdem uel ſimiles exſequantur le. u ges, ſemel harmonicae factae nunquam dissonabunt p. 8. Conf. Schloſſeri Commentatio de Commercio Animae et corporis, S. 8. Nos tres has opi- ji niones de modo commercii animam inter et corpus nunc recenſebimus, atque id ita quidem, ut (a)
+
+rationes cuiusque ſententiae adducamus, (B)
+
+difficultates, quae unam. quamque commemoratarum opinionum circumstant, enumeremus. tl s. 721 ſ—2
+
+Prius uero, quam ad unamquemque tri- H®n it um harum hypotheſium percenſendam me ſi accingo, id monendum eſſe exiſtimo, ad i
+
+Ggs duo ſlis
+
+[p. 474] 474 Cap. II. Sect. I. 1 duo potiſſimum momenta attendi debere in explicando animae corporisque commercio.
+
+### I. Scilicet quaeritur, quomodo ſe anima hæ
+
+beat in sensationibus, facta nimirum in organis corporis ſenſoriis mutatione. II. Quaeritur, qua ratione in corpore motus hi, nec alii, ſequantur, cum anima hos, nec alios, motus uult prouenire. Haec uel ideo hic annotanda putaui, quod in controuerſiis, quae de commercio inter animam et corpus recentius obortae ſunt, ſaepius obſeruauerim, de omnibus omnino cogitationibus, omni- busque cupiditatibus diſceptatum eſſe, cum tamen nonniſi ſenſationes et motus corporis hic in cenſum ueniant.
+
+s: 7m Dum, tres modos, commercium inter animam et corpus explicandi, ab eruditis afferri, diximus, 720) fierique poſſe negauimus, ut plures, quam tres, dentur, ab eorum primo nunc ordiemur. Conſiſtit autem hic, ut (720) in eo, ut putent nonnulli, animae, facta in organis corporis ſen- ſoriis ab obiectis extrinsecis mutatione, per motum fluidi neruei reuera imprimi ideam, et corpus, anima motus in ipſo decernente, ita ab anima impelli et moueri, ut hi praeciſe, nec alii, motus conſequantur- Hic
+
+[p. 475] De systemate influxus phyſici. 475 Hic modus commercium inter animam et corpus explicandi, dicitur Systema influxus phyſici, qui autem hoc ſyſtema defendunt, appellantur influxistae, a nonnullis influxionistae.
+
+Cur uero hypothesis illa, qua ſumitur, animam reuera mouere et impellere corpus, et corpus ui. ciffin animae imprimere ideam, dicatur ſyſtema influxus phyſici, ratio haec eſt. Anima scilicet dicitur phyſice influere in corpus, quando anima reuera et effectiue agit in corpus illudque mouet; Et corpus phyſice influit in animam, cum ei imprimit reali actu ideam. Iam uero cum primus modus, explicandi commercium inter animam et corpus, huc redeat, ut ſtatuatur, animam reuera agere in corpus, et corpus in animam, (§. 720.) intelligis, cur hic modus, commercium animae et corporis explicandi, dicatur Syſtema influxus physici. Dicitur haec hypothesis alias quoque Syſtema Ariſtotelico- Scholaſticum. Ariſtotelici ſcilicet et Scholaſtici hanc hypotheſin quouis modo defendebant, et, quamdiu stetit philoſophia Aristotelico- Schola- ſtica, tamdiu quoque haec opinio philoſophan: tibus arriſit.
+
+§. 723. Qui Syſtema influxus phyſici defendunt, animamque adeo, ut cauſſam, motus in corpore, ut effecta, producere affirmant, et u. u.
+
+[p. 476] L]
+
+6 Cap. II. Sect. I. Sect. I. u. u. si ita rationes subducunt. „ Quo po- ,ſito, ponitur ſtatim et ſemper effectus, et „ quo remoto, ſtatim et ſemper remouetur ., alterum, id dicitur recte cauſſa alterius. Atqui, poſito in organis corporis ſenſoriis „ motu, ponitur repraeſentatio in anima, et ſub- ,lato motu, tollitur repraeſentatio, item, „ poſito uoluntatis decreto, ponitur motus „ uoluntarius in corpore, et remoto uolun ,, tatis decreto, remouetur motus uolunta- „ rius in corpore. E. motus in organis cor „ poris ſenſoriis eſt caussa repraeſentationis ,in anima, et decretum uoluntatis eſt cauſſa ,motuum in corpore, ſiue, quod idem eſt, , anima agit in corpus effectiue, ita, ut produ- „ cat motus in corpore, et corpus agit rurſus ,in animam, ita, ut producat fluidum corporis nerueum ideas in anima, eidemque „ eas ꝓimprimat.
+
+#### E. Syſtema influxus physici „ eſt uerum
+
+Syſtema.
+
+Alii eadem fere ratione, ita inſtruunt ratiocinium: Quaecunque ſubſtantiae firmiſſimo ſo- ciatae sunt uinculo, atque ad unum compoſitum constituendum a ſapientiſſimo omnium rerum conditore ſunt ordinatae, earum unam ab altera moueri par eſt. Atqui anima et corpus etc. Ergo. In utroque uero Syllogiſmo ii, qui Sy- ſtema influxus phyſici impugnant, quid deſiderent, ul
+
+[p. 477] De ſyſtemate influxus phyſici. 77 rent, habent. Maiorem enim propositionem, aiunt, parum habere ponderis ac firmamenti. Consequentiam ſcilicet et nexum negant in hac propoſitione:,, Quo poſito, ponitur ſtatim et ,ſemper alterum, et quo remoto, remouetur ſtatim et ſemper alterum, id dicitur recte cauſſa ,alterius. Adducam uerba Bilfingeri, qui in dilucidat. 5. 249. ita de hac propoſitione mentem ſuam exponit. Fallit, inquit, regula, niſi limitetur. Accipe caſum. Si duo effectus ſint eiusdem caussae naturaliter agentis, et effectus quidem, qui ab alia cauſſa non procedant, quam ab hac, ſane poſito uno, ponitur et alter, etſi unus non ſit caussa alterius. Num illuminatio telluris, pergit acutissimus uir, a ſole facta, eſt cauſſa illuminationis Saturni? Poſita una, Ponitur et altera, et ſublata una, tollitur et altera. Sint A, et B, duae urbes, ſub eodem meridiano ſitae, poſita in A, meridie, meridies eſt in B, et uiceuerſa ac contraria.,, Quod tamen „ A solem in meridie habent, non eſſe cauſſa, cur et B. ſolem meridianum experiatur. Nec uice »uerſa meridies in B. eſt cauſſa meridies in A. „ Sed uterque effectus habet eandem caussam, „ naturaliter agentem, et unicam. Aliam adhuc „ adiicit propoſitionis allatae limitationem, hoc »modo:,, Si, poſito A, ponitur B. et sublato, A.tollitur B, ſic, ut ex poſitione uel ablatione ẽ 'A, poſſit ratio reddi poſitionis uel ablationis à B: tum A, eſt cauſſa 7ẽ B. Sin minus, ex poſito uel ſublato A, poſſit intelligi, cur ponatur ſimul aut
+
+[p. 478] 478 Cap. II. Sect. 1. aut tollatur, B, nego, Canonem probare inſtitutum, aut ex concomitantia uel ſucceſſione duorum ſequi cauſſalitatem, Conf. Institutt. Philosoph. Rat. p. 275. ubi satis mihi euiciſſe uideor, quod ex eo, quod una res alteram uel insequatur, uel cum e” ſimul exiſtat, nondum inferre ſemper liceat. Ergo una res eſt cauſſa alterius.
+
+Defenſores Syſtematis influxus phyſici porro ad experientiam confugiunt, et, ex con- stanti omnium hominum conſcientia, ſenſu et conſenſu conſtare et pateſcere, putant, animam eſſe cauſſam et principium motuum voluntariorum in corpore, corpus uiciſſim, uel ſpiritus animales et fluidum nerueum in corpore afficere animam, eidemque ideas materiales imprimere.
+
+Vt alios taceam, unus omnium hic adduci meretur Cel. Langius. Hic in diſquiſitione mo- deſta, ex natura omnium hominum, hac in parte aequaliter ſibi conſcia, et hinc ex euidentis- E5 ſima et uniuersalissima experientia conſtare, ar- bitratur,, animam influxu phyſico agere in corpus, et corpus uiciſſim in animam Quin etiam ſibi perſuadet, hanc experientiae euident2 t tiam ſuperare quamlibet ueritatis geometricae euidentiam, certe nulli certitudine cedere Vnde de non mirum, quod Reuerendus Vir, contra Volfi-
+
+[p. 479] MEE
+
+De ſyſtemate influxus phyſici. 479 VVolfium diſputaturus, ſequentem propoſitionem, poſtulati et axiomatis loco assumat:,, Inter „ duas eſſentiales hominis partes, animam et corpus, tanquam duas ſubſtantias, phyſice diſtinctas, eſt unio phyſica, uti communione, sic ,, etiam operatione phyſica ſe exserens, p. 2. Dudum uero monuerunt alii, quiduis potius, quam influxum phyſicum conſtare ex experientia. Quamuis enim ſuus quemque ſenſus et experientia condoceat, ad certa animae decreta et uolitiones ſequi motus hos, nec alios, in corpore, item ad certos motus in organis ſenſoriis ſequi has, nec alias, repraesentationes in anima, (conf: ꝗ. 680.) negant tamen ac pernegant, uel ullum unquam experiundo ſenſiſſe, uel etiam nunc ſentire unquam, quod anima reuera moueat corpus, et quod per motum fluidi neruei animae imprimatur idea. Atque adeo eos, aiunt, qui influxum phyſicum ex experientia probare recte ſibi uidentur, quid pro experientia habere, quod tamen nunquam experti ſint, et nunquam ſenſerint, et quod potius ratiocinando ex experientia collegerint. Quare non poſſe non ipſos, uitii ſubreptionis, incuſari, contendunt. Conf. Wolf. in Pſychologia Rat. item Institutt. nostrae philos. Rat. p. 262.
+
+Cl. Bülfingerus cum in aliis pluribus scriptis, tum maxime in Dilucidationibus ostendit, quam perperam inepteque in ſtabiliendo influxus phy- ſici ſyſtemate, ad experientiam prouocetur. Quod mutatio, inquit, in corpore ſit cauſſa in- fluens
+
+[p. 480] 480 Cap. II. Sect. 1. fluens phyſice in mutationem animae, et u. u. id obſeruationis, ſiue experientiae, eſſe non arbitror.
+
+D. 240.
+
+人 دو Ipſi ſaniores influxus phyſici patroni fatentur, minus recte argumentum pro influxu phyſico ab experientia deſumi. Cel. Hollmannus, qui ſemper defendit influxum phyſicum, in diſſertatione II. de Eæ
+
+Harmonia praeſtabilita, p. 5. ita:,, Ambabus an- ,plector illam Cel. Vvolfii ſententiam, ,, qua experientia nihil aliud euinci aſſerit, quam ,, motus corporis et actiones animae ſimul fieri, ,, nequaquam autem eadem confirmari concedit, „ quod uel ,motus corporis producantur ab anima, uel ſenſationes et percęptiones animae producantur org* ,nis corporis.
+
+§. 725. Supereſt argumentum tertium, quo influxus phyſici defenſores ſyſtema et hypothe- ſin ſuam corroborare allaborant., Niſi ,talem, inquiunt, animae et corporis unio- „ nem statuamus, ut mutuam in ſe inuicem „ operationem habeant, actiones corporis „ iure non poſſunt imputari animae, nulla „ remanet uirtutum ac uitiorum forma ac
+
+Obſeruat ad hoc argumentum Bülfingerus ſequentia. Verum eſt, inquit, ſi phyſice anima influit in corpus, possunt illi operationes suae impu-
+
+I 2.u
+
+[p. 481] De systemate influxus phyſici. 481 い imputari. Sed conuerſa non ſequitur propoſitio: Ergo, ſi non phyſice influit, ſed moraliter tantum SVVM confert, ita tamen, ut eo poſito. et propter id poſitum ponatur, eo negato. et propter id negatum tollatur operatio) non potest illi imputari. Notum eſt in moralibus, recte effectus imputari cauſſae phyſicae; ſed non ideo absolui caussam moralem, propter cuius uoluntatem egit phyſica. Conf.
+
+Dilucidat. §. 321. s
+
+§. 726. Hae ſunt potiores rationes, quibus, commemini, influxus phyſici ſyſtema a nonnullis eiusdem fautoribus eſſe adſtructum et ſtabilitum. Recenſui iſtas hiſtorice. Neque enim in animo eſt, uel de argumentis, quibus unaquaeque hypotheſis confirmatur, uel de difficultatibus, quibus premuntur omnes, iudicare. Nunc enumerabimus quoque ea, quae influxum phyſicum uel tollere prorſus, uel dubium certe reddere, poſſe uidentur.
+
+Niſi me omnia fallunt, ſequentia fere contra influxum phyſicum moneri, deprehendo. I.,, Vox influxus, inquiunt contra ſentientes, ,eſt uox, a rebus materialibus deſumta. Quae ,ſi transfertur ad animam, oppido omnis con- „ ceptus euanescit, nullamque cum ea ideam ,combinare poſſumus. Aduertat, pergunt,
+
+3 ( Hh »qui
+
+[p. 482] Cap. II. ,, qui ſibi notionem cum uoce influxus coniun E—
+
+,,8tre uidetur, animum ad ſeipſum, et intelli ,8et nihil omnino eſſe, quod uocabulis istis influxus, trans- -fuſionis et transformationis uarium reſpondeat, , ubi ad animam transferuntur. Conf. VVolff. Psychol. Rat. S. 573 I. Obiicitur: ,,S1 anima reuera in corpore motum producit, id fieri „ debet ita, ut anima actu corpus contingat ,Contactus uero poſſibilis non eſt, niſi in ente ,, materiali. Ergo ſi anima mouere debet cor ارو 1 pus, aut ſi ipſi imprimi debet idea, non pot „ eſt non eſſe materialis et ens compoſitum IIL Influxus phyſicus aduerſatur illi legi motus: In toto uniuerso ſemper conſeruari debet eadem uirium uiuarum quantitas.,, Per influxum enim »phyſicum, aiunt, uis quaedam motrix oritur in aliqua materia, quae ex nulla alia in eandem ,deriuatur. Et ſi corpus in animam physicè ,influit, uis aliqua motrix in gratiam animae „ perit, quae materiae cuidam inhaerebat, et al* ,unde in ipſam deriuata eſt. IV. Bülfingerus inter alia hoc uſus eſt argumento contra influxum phyſicum. P tor, inter uires animae a& I'ã petitumque fortiſſimum, et motus corporis saepius nullam eſſe proportionem. Vires, inquit, animi et corporis motus ſunt, quoad proportionem, incomparabiles, i. e. non poſſunt ſecum J upæmu inuicem comparari. Ergo actus, quales in corpore mouendo experimur, non procedunt a uiribus animae influxu. Ergo anima non effectiue mouet corpus ſuum. Conf. Dilucidat
+
+5 327. 5. æ
+
+[p. 483] Sect. II. De systemate adsistentiae. 483 s. §. 727. Haec de influxu phyſico dixiſſe habuimus: Qui uero num poſſibilis ſit, aut probabilis, iudicet lector. Satis nobis fuerit, et argumenta pro influxu, et dubia contra illum commemoraſſe.
+
+De influxu phyſico legas Bilfingeri Dilucidat. S. 32. ſqq. item in Commentatione hypothet. de Harmonia corporis et animi maxime praestabilita. Frſ. r;23.8. item Gottsched. in uindic. Syſte- mat. influx. phyſici. Lips. 1727. Adde Verdries.
+
+in commentat. de aequilibrio mentis et corporis. Gieſſ. 1726. 4. et denique Ruardum Andalam in diſſ. de unione mentis et corporis phyſica, neutiquam metaphysica. Halae recuſ. 1724.
+
+SECT. II. SYSTEMATE ADSISTENTIAE SEV CAVSSARVM OCCASIONALIVM.
+
+l 5 7à8. Vinuod ſici eruditis arriſit usque explicauimus, tempora influxus phy- ſyſtema
+
+HE 2 Car-
+
+[p. 484] 484 Cap. II. Sect. II. De ſyſtemate adſiſtentiae,
+
+Carteſii. Hic, exploſo influxu phyſico, aliam de modo commercii inter animam et corpus opinionem combiberat, modumque, ut dicam, quod res eſt, non ſoluebat, ſed ſecabat. Opinabatur enim, Deum, facta ab obiecto externo mutatione in organis sensoriis, DEum, inquam, conuenientem repraeſentationem producere in anima, et, orto in anima uoluntatis decreto, Deum corpori imprimere motum conuenientem. Hic modus commercium animae cum corpore explicandi uocatur ſyſtema cauſſarum occaſionalium item adsistentiae. S
+
+Cum acu digitum pupugeris, et idea in anima huius compunctionis oborta fuerit, tum, ſecundum hoc ſyſtema, compunctione facta, Deus ideam in anima producit, et, cum uolueris, linguam uel brachium tuum moueri, tum, ſecundum hoc ſyſtema, Deus immediate, orto decreto in anima, producit motum in corpore.
+
+Auctor huius ſyſtematis et inuentor primus, ut dixi, fuit Carteſius, qui animae uim corpus mouendi, corporisque uim ideas) imprimendi animae prorſus denegauit. Quere affirmauit mutatione in organis ſenſuum excitata, Deum uim animae repraeſentatiuam ita determinare/ et ita dirigere, ut haec factam in organis sensoriis mutationem ſentiat, contenditque porro, orta in anima voluntate, DEum ita uim mouendi determinare, ut motus ille aut ſequatur, aut sista-
+
+[p. 485] ſeu caussarum occaſionalium. 485 1 : sistatur, Adeoque mutationes, in organis sensoriis factae, tantum occasionem praebent, qua Deus animae assistat. Hinc hypotheſis haec dicitur Systema caussarum occasionalium, item asſiſtentiae. Caussas enim occasionales uocamus eas quae ui agendi propria deſtituuntur, Deo tamen agendi occasionem praebent. Ii autem, qui hoc ſyſtema defendunt, dicuntur Occasionalistae.
+
+Defenderunt autem hoc ſyſtema Cartesius in meditat. de philoſ. prima. Malebranchius in tr. de inquirenda ueritate, de la Forge in libr. de mente humana, Sturmius, alii. §. 729. 1
+
+Contra hoc ſyſtema, de quo hodie, uel uix, uel ne uix quidem, diſceptatur, ut alia plura, ita id inprimis urgetur, quod, ſtan- te hac hypotheſi, miracula ſine necessitate multiplicentur. Dum enim, ut opinionis Carteſianae DEus immediate ad motus, in organis ſenſoriis factos, in anima ſenſationes ſiue ideas producit, et ad decretum animae motus in corpore ipſe ad exiſtentiam de- Ducit, 78.) effectus autem, a Deo im- mediate productus, uocatur miraculum, 458) conſequens eſt, ut, ſtante ſyſtemate Carteſiano, omnis ſenſatio animae, et omnis motus corporis uoluntarius pro mi-
+
+HD3 racu-
+
+[p. 486] 486 Cap.II. Sect 111. De ſyſtemate harmoniae raculo ſit habendus. Cum uero non faci miraculum patrare Deus cenſendus ſit, euentus uia naturali impetrari queat, perspicuum est, quod, ſi naturaliter poteſt fieri, V et cogitationes animae et motus in corpore producantur, cadat ſyſtema caussarum occaſi nalium.
+
+SECT. III. BE
+
+SYSTEMATE HARMONIAE Tandem PRAESTABILITAE, SIVE LEIBNITIANO. 5. 7;30. I1 andem explicondi commercium deuenimus ad tertium modum explicandi commercium inter ani.
+
+mam et corpus, qui  (§. 720.) conſiſtit eo, ut nonnulli opinentur, animam et corpus ita agere, ut anima omnes ſuas ſenſationes ui sua repraesentatiua producat, idque nexu et ſerie continua, et ut corporis motus u luntarii ex ui motrici et ſtructura eiusdem, ſecundum leges motus, proueniant, ita tamen, ut admirabilis inter ſenſationes aſ mae, corporisque motus uoluntarios cO ſenſ auiil [p. 487] praeſtabilitae ſiue Leibnitiano. 47
+
+ſenſus et harmonia adſit, quae a ſapienti quadam Dei praeordinatione, diſpoſitione, et praestabilitione deriuari debeat. Hic modus explicandi commercium inter animam et corpus dicitur systema harmoniae praestabilitae.
+
+Haec hypotheſis, quae, noſtra aetate, tam multas excitauit controuerſias, ſuam originem repetit a Leibnitio. Cum enim perſuaderet ſibi Leibnitius, nec influxum physicum poſſe cum immaterialitate animae naturaeque ordine ſtare, nec ſyſtema cauſſarum occaſionalium, ob infinities multiplicata miracula, turbatumque naturae ordinem, poſſe admitti, plures annos parturiebat nouam tertiamque de commercio animae et corporis opinionem, donec tandem harmoniam praeſtabilitam, tanquam foetum ingenii foecundiſſimi, eniteretur. Scilicet, cum per decem fere annos de noua hypotheſi cogitaſſet Leibnitius, tandem eam cum eruditis communicabat, et primum quidem omnium in Iournal des Sçauans, An. eh Inc xcx. d. XXViI. Iun. et IV. Iul. Poſt id tempus in reliquis ſuis scriptis eandem identidem proposuit, latiusque eam explicauit, cum in Monadologia, tum in Theodicaea s. 61. ſqq. Leibnitio, ut in aliis rebus, ita in hac quoque hypotheſi,, aſſentiebatur Illuſtr. ?Wolfius, cumque hoc Bulfingerus, alii. Hh 4 Vocauit
+
+[p. 488] 488 Cap.II. Sect. III. De systemate harmoniae
+
+Vocauit autem Leibnitius hanc ſuam commercii animae corporisque explicationem Harmoniam praestabilitam Harmoniam quidem, quia inter animam et corpus, ex ipſius eruditorumque aliorum ſententia, deprehenditur exacta conue- nientia, consensusque amicissimus. Praestabili- tam ideo nominat, quia putat, hanc harmoniam et consensionem motuum corporis ope- rationumque animae non dependere a mutuo influxu, ſed a ſapienti quadam Numinis praeordinatione, diſpoſitione et praestabilitione, per quam ita iam omnia ſint coordinata, ut ſibi inuicem exacte reſpondeant, animae ſcilicet ſenſationes motibus corporis, m tusque corporis decretis et uoluntati animae. 1 : §. 731. 1
+
+Expoſita ita origine Harm. praeſtab. historica, enodatisque uocum, Harmoniae et prae- Stabilitae significationibus, nunc in eo eri- Fl mus, ut ipſam Harmoniam praeſtabilitam ex mente Leibnitii Wolfiique, plenius uberiusque interpretemur. Ad quod rite praeſtandum iuuabit ad duas potiſſimum attendere E& quaeſtiones. I. Quaeritur, quomodo in 5- systemate Harmonia praeſtabilitae anima ſe habeat in ſenſationibus, ſiue, qua ratione fiat, ut, dum ab obiectis externis in organis ſenſoriis certa quaedam contingit mutatio, anima [p. 489] praeſtabilitae ſiue Leibnitiano. 489 anima eo ipſo momento ſibi repraeſentet id, quod in organis ſenſoriis mutationem producit.
+
+### II. Quaeritur, quomodo ſe habeat
+
+corpus in motibus, ad decretum animae factis, siue, qua ratione fiat, et fieri poſſit, ut, dum anima uult, linguam et brachium moveri, lingua quoque et brachium ceteraque membra, moueantur. A , $. 372. ✔
+
+Ad primam quaeſtionem quod attinet, re- ſpondent Harmoniae praeſtabilitae defenſores, nec corporis fluidum nerueum per motum ſuum producere ideas et ſenſationes in anima, uti in influxu phyſico, (§. 720.) nec Deum quoque immediate ideam ſiue perce- Ptionem imprimere animae, uti in ſyſtemate cauſſarum occaſionalium, ſed animam agere, quod ſuum eſt, ita quidem, ut omnes perce- Ptiones ſiue ſenſationes in ſua intrinſeca producat. Quod ut intelligas rectius, mentem Leibnitii paucis, at perſpicuis, poſitionibus includam.
+
+Prima itaque propoſitio haec ' eſto: ANIMA VI, SIBI DIVINITVS INDITA, OMNES SVAS SENSATIONES ſiue PERCEPTIONES PRODVCIT, ita ut ani-
+
+Hh 5 ma
+
+[p. 490] 490 C. II. Sect III. De ſyſtemate harmoniae ma nullas extrinſecus adſciſcat ideas, nulla ex organis ſenſoriis imagines accipiat, ſed ad inſtar automati, quod internum ſuarum operationum habet principium, omnes suas ſenſationes siue perceptiones ex ſe ipſa eliciat et deducat.
+
+Hac propoſitione ſe uel maxime diſtinguit 50: ſyſtema H. P. a ſyſtemate influxus phyſici, uel æ. E E cauſſ=arum occaſionalium. SI ſcilicet harmoniae praeſtabilitae defenſorem interrogaueris qui fit, ut, facta in organis ſenſoriis mutatione, anima ſentiat id, quod extrinsecus animam afficit, tum reſpondet Anima ſenſationem SVA VI producit. Teſtatur id Leibnitius, ut in aliis pluribus suorum scriptorum locis, ita inprimis in quinto aduerſus Clarckium ſcripto 84 Vbi,, ich gebe, inquit, denen Begriffen der gemeinen Weltweisen keinen Beyfall, als , wenn die Bilder der Sachen, durch Hülffe „ der Sinnen in die &Seele gebracht oder „ tranſportiret würden. Conf. Reſponſ. Anti- Bail. p. 70. not. 5. Vbi, e8 ist vielmehr beſ ſer, inquit, ba man sagt, O TT habe in einer iedweden Seele die {{}raft|Krafft}} geleget, wvdurꝗ; ſie ſich das gantze Welt-Gebäude, naũ Dem ihr eigenthümlicher Stand; den ſie in der Welt annimmt, vorzustellen vermögend ist. Si de ratione quaeras, qua adductus Leibnitius uim animae tribuat repraeſentatiuam, inter alias eam adduci ſcito, quod anima sit sub- ſtantia [p. 491] praestabilitae siue
+
+Leibnitiano. 491 دو ſtantia ſimplex, omnis autem ſubſtantia ſimplex ui agendi repraeſentandi adeoque et ſenſationes producendi gaudeat. VVolfius uero in Metaphys. Germ. 765. hanc in rem ita Da nn de &eſe ihre eigene 5cot hot, wodurch ſie ſich die eſt vor sich thut, und der Cörper gleichfalls ,, seine Veränderung vor sich hat, ohne daß ent „ weder die &Seele in den Leib, und der Leib in „ die Seele würcket, 20. 1
+
+Ex hac aſſertione, qua animae tribuitur uis ſenſationes et perceptiones producendi, enatae ſunt quaedam locutiones et propoſitiones, quae minus commodae nonnullis uidentur. Prima earum haec eſt: Anima eſt automatum incorporeum et ſpirituale. Conf. Theodicaea Part. I. LII. p. 163. Quo ſenſu autem anima a Leibnitio appelletur automatum incorporeum, oſtendit definitio automati incorporei, quam ſuppeditat Hanſchius:,, Au- „ tomatum incorporeum, inquit, eſt ens ſim- »plex, cuius mutationes ſecundum legem ap. „ petituum ex eſſentia eius ſuccesſiue conſe- ,, quuntur, ut in praecedenti mutatione ra- ,, tio sufficiens exiſtentiae conſęquentis muta- „ tionis contineatur. Princ. phil. Leibn. P.54. Negari non poteſt, compluribus hanc loquendi ratio-
+
+[p. 492] 490 Cap. II. Sect. III. De ſyſtemate harmoniae ) rationem, qua anima · uocatur ẽvręuœTn fuiſſe offenſioni, et multas excitaſſe  controuersias. Quare Bülfingerus, cum in Commen tat. de H. P. tum in Dilucidat. maximopere in eo occupatur, ut hanc locutionem ab omni mali suspicione liberet. „ Memento, inquit, ,, animam in ſenſu propriissimo eſſe durẽulũ ,,7".. Avvẽuro ex mente Lexicographorum. „ rum, descendit ab avrẽs ipſe, et udu, des- ũi ,,dero, uehementer appeto. Eſt igitur αὐτόματον ens ſeipſo deſideratiuum, ſiue cuius „ mutationes ab ipſo appetitae ſunt. Id anim ſt mae competit propriissime, quidquid in ills i is ,,ſit, ſit per appetitum internum, ſiue per ap Hlli ,petitum ſuum. Quicquid uero huius ſit, I nolim ill tamen ego animam uocare αὐτόματον Conf. Bilfingeri Dilucidat. p. 346. ſo7. In-
+
+EE conueniens illa quoque uidetur eſſe locutio, lEEũ qua nonnulli Harmoniae praeſtabilitae defensores g- l I fores utuntur, cum aiunt, animam omnes i ſuas perceptiones ex ſe ipſa euoluere. Quam- iil uis enim norim, nihil aliud hac locutione uelle intelligi Harmonistas, quam id, quod anima omnes ſuas ſenſationes ui ſua intrin- Seca producat, quodque ſuarum mutationum ſ principium ſit et caussa, dedit tamen nonnullis anſam ſibi persuadendi, Leibnitium cum VVolfio reminiſcentiam Platonicam aſſerere, et affirmare, omnes ideas in anima iam dudum actu delituisse, ita ut tantum opus fit, occasione mutationum, in organis ſenſo- I riis factarum, ipſas proferri, fere, ut merces mer- li ll catorum aul [p. 493] praeſtabilitae ſue Leibnitiano. 493 riis factarum, ipſas proferri, fere, ut merces mer- catorum e ciſta, ſi uoluerint ementes, promi pro lubitu er ostendi ſolent. Tantum de propoſitione Harmoniſtarum prima.
+
+Altera propoſitio, quam Harm. praeſt. defenſores in medium proferunt, haec eſt: ANIMA OMNES PERCEPTIONES ſiue SENSATIONES CONTINVA SERIE PRODVCIT, ITA; VT SEQVENTES SENSATIONES EX ANTECEDENTI- 2VS RESVLTENT, ET TERTIA FLVAT EX SECVNDA,  EX PRIMA. Hanc perceptionum, ſiue ſenſationum ſucces- sionem et ſeriem, quae in ſyſtemate H. P. admitti- tur a defenſoribus, Leibnitius cum aliis ex eo de- ducunt, quod animae ſtatus ſequens ſemper in antecedenti ſui rationem ſufficientem habeat, ita ut ſenſatio prima ſit caussa ſenſationis ſecundae, et ſecunda ſit caussa tertiae, siue, ut Leibnitius loquitur, ut praeſens ſit grauidum futuro. Hanc uero ſenſationum cohaerentiam et nexum, putant plerique, nonnunquam ipſi H. P. patroni, eſſe experientiae sensusque communi prorsus contrariam, Adducam quae Cel. Hollmannus in dissertat. II. de Harm. Praest
+
+[p. 494] 494 Cap.II. Sect. III. De ſyſtemate harmoniae Praest. p.
+
+9. contra hanc ſenſationum cohaeret tiam et ſucceſſionem erudite profert.,, Co” /temus modo, inquit, quotiescunque nobis non ,, accidat, ut u. e. in campum egreſſis n ,;,bis innumera fere ſe offerant obiecta, inter quae ne „ minima quidem deprehendi connexio poteſt, , ideoque nec cogitari quidem, quomodo ex una ,, idea reliquae ſucceſſiue naſ ,queant, cum diue ſiſſimae ſint, nec quicquam ,,saepius, niſi communem conceptum entis ,,commune habeant. Videmus enim et solem ,et coelum, et „ nubes, ęt terram, et herbas, et flores, nunc aues et apes, muſcas, mures ,et lepores, nunc „ boues arantes, nunc tripudiantes eaque eo ,, omnia ordine, quo exeii ,ab inuicem ideae ,, illae nunquam poſſunt,,
+
+Ipſe Reinbeckius, qui Harm. Praestabilitam diſtinctius explicauit, et quodam etiam modo defendere uidetur, non negat, illam, quae a Leibnitio aliisque H. P. autoribus tradatur, I lam, inquam, ſenſationum connexionem et co- haerentiam obſtare, quo minus harmonia prae- ſtabilita in omnibus accipi, ut uera, quet G3 ſiehet iemand, inquit, de bends vor ſn flure, und ſehet den gestirnten Himmel an. In dem Augenblick siehet ev einen fliegenden Drachen. So gleich höret er von ferne einen &Schuß. kaum iſt det &chu gehöret, ſo fiii er dá iſn eine tiice ſticht, und aſſbaD l ihn unvermuthet *it Vnchdnr. Y-n bdieſ ollu rnr— gillii [p. 495] praestabilitae ſiue Leibnitiano. 495 allen erfolgen demnach? die Empfindungen unmittelbar nacheinander in der Seele, und min ten aſſo nad) der hypotheſi, nicht allein die- selben, ſondern aud; diejenigen Dinge von aussen, welche empfunden werden, unmitteſòoh in einander gegründet ſesru. Nun erfolgen 3mar die äusserlichen Zufälle mit welchen ſl ehe Empfindungen übereinstimmen, auch unmittelbar auff einander. ein man wird nicht 3eigen Können, da auch dieſe unmittelbar in einander gegründet det wåren, welches doch nach der Harmonia prae- ſtabilita seyn müßte. Conf. ipsius Commentatio de Harmonia praestabil. p. 45.
+
+§. 735. Duae hae, quas adduximus, propositiones pertinent ad animam, eiusque facultatem sensitiuam. Nunc eas quoque adferemus poſitiones, quae explicant modum, quo in corpore ad uoluntatis decretum motus eueniunt.
+
+§. 736. / Si itaque, quo in corpore motus ad animae decretum contingant, quis noſſe auet, attendat ad has poſitiones: I. CORPVS,
+
+VI STRVCTVRAE SVaE, OMNES MOTVS PRODV. CIT. II.
+
+[p. 496] 496 Cap. II. Sect. III. De systemate harmoniae 1 11.
+
+OMNES MOTVS SEQVVNI'VR IN CORPORE CONTINVA SERIE et SVCCESSIONE CONTINVA EX MOTI- BVS ANTECEDENTIBVS. Si ergo ex Harmonia praeſtabil. defensore quaeras, qui fiat, ut, dum uis linguam moueri, eo ipſo momento lingua quoque moueatur, reſpondebit: Hic linguae motus ex alio motu praecedenti legibus motus et structurae conuenienter ſequitur.
+
+s. 4ã 8
+
+Cum itaque anima ſentiendo, in ſyſtemate H. P. ſeorſum agat, (ũ—. 73) et corpus omnes motus ſerie continua ſtructurae conformiter producat, (§. 736.) mirum uideri poterat, duas has substantias, a ſe inuicem diuerſiſſimas nec agentes in ſe inuicem, tam belle tamque exacte in ſuis operationibus conſentire, ita ut, facto motu in organis ſenſoriis, extemplo anima ſenſationem ſibi formet, et, ad uoluntatis decretum, hi, nec alii, ſequantur motus in corpore.
+
+5. 7;8:- Hic ergo H. P. Patroni ad ſummam Numinis diuini ſapientiam et potentiam confugiunt. Deus, inquiunt, qui praeui* dit, quaenam potiſſimum anima ex mille aliis corpori [p. 497] praestabilitae ſiue Leibnitiano. 497 corpori huic harmonice ſociari posset, et quodnam uiciſſim corpus huic animae Deus hic ſapientiſſimus iſtud animae corpus asſociauit, cuius motus uoluntati animae et decretis respondent, et eum cuique corpori animam adiunxit, quae, in perceptionibus ſuis attemperaretur motibus, in organis ſenſoriis factis. 1 Illuſtratur haec, diuinitus conſtituta, harmonia exemplo, a duobus horologiis, exacte inter ſe; conſonantibus, deſumto. Duo, inquiunt, dari poſſunt horologia, in quibus conſpiciatur et horarum et minutorum mensurae exactisſima conuenientia. Haec harmonia et conuenientia poteſt locum habere; quamuis horologium A, non agat in horologium B, illudque moueat, ſed haec harmonia poteſt ortum trahere a ſapientis artificis ordinatione, qui duo haec horologia ita conſtruere nouit, ut, alterum alteri attemperatam, exactisſimam seruent harmoniam. Quidni ĩtaque, pergunt, posſibile eſſet Deo, tales ſubſtantias inter ſe iungere, in quibus compareret ſumma mutationum et operationum omnium conſenſio, ſine mutuo tamen influxu, ſed a ſola ſapientia Dei conditoris orta.
+
+5. n3. Haec ſunt fere, quae ad harmoniam prae: ſtabilitam rectius intelligendam pertinent. Reſtat, ut èt praerogatiuas, quibus haec hypotheſis prae ceteris ſyſtematibus gav- i dero
+
+[p. 498] 498 Cap. II. Sect. III. De ſyſtemate harmoniae dere dicitur, et difficultates, quae eam circumſtant, enumeremus. 1 §. 740.
+
+Praerogatiuae H. P. quas oſtentant defen- ſores, potissimum ſunt ſequentes.
+
+### I. In harmonia Praęſtabilita animae ideas
+
+motusqũe corpori uia maxime naturali ex- plicari, affirmant. 1. II. In nullo ſyſtemate, contendunt, sapientiam diuinam ita extolli, quemadmodum in ſyſtemate harmoniae praestabilitae, ut adeo ſyſtema hoc uocent speculum ſapientiae et potentiae diuinae III. In ſyſtemate H. P. maiores uirtutes et perfectiones tribuuntur animae, omnia ui- ſua, ſine corporis aſſiſtentia et influxu per. agenti, quam in ceteris ſyſtematibus
+
+### IV. Harmoniam praeſtabilitam, denique
+
+pertendunt, immaterialitatem et immortalitatem animae uel maxime adſtruere, quam nemo poſſit negare, qui harmoniam prae- ſtabilitam concedat.
+
+§.
+
+5. 741 n Quod ad difficultates, quibus premitur Harmonia praeſtabilita, attinet, earum iamdum adl [p. 499] praeſtabilitae ſive Leibnitiano. 499 dum quandam recensuimus. Restant tamen aliae, quas attingere noſtrum eſt.
+
+Praecipua et prima obiectio, quae contra H. Pformatur, niſi fallor, haec eſt: In ſyſtemate H. P. homo conſtat ex duplici automato, materiali altero, scil. corpore, al ero immateriali, scil. corpore, altero immateriali, ſcil. anima. In automato uero ſiue machina ubi libertas? Reſpondent Leibnitian. Quod ad corpus attinet, ei nunquam libertas tribui poteſt, quia ad libertatem requiritur intellectus, quo corpus deſtituitur. Animae uero in ſyſtemate Harmoniae praestabilitae neutiquam denegatur libertas, cum tantum, respectu ſenſationum, non uero reſpectu ceterarum cogitationum et appetituum, anima dicatur αὐτόματον Senſationes uero in nullo ſyſtemate ſunt liberae. (2) Si mo- tus corporis in ſyſtemate H. P. oriuntur ex motibus praecedentibus, quibus corpus non potest re- sistere, non sunt liberi; Respondent defenſores: motibus praecedentibus, quibus corpus non poteſt resistere, non ſunt liberi; Reſpondent defenſores: Motibus corporis in ſe nec competit libertas, quia libertas tantum tribuenda eſt animae. (3) Si corpus motus etiam malos praeſtat mechanicae, ſequitur, quod non poſſit puniri. Reſpondent Harmoniſtae. Poena in corpore exercetur, non propter libertatem eius, ſed ut anima ſentiat dolorem. Plura et grauiora dubia qui ſibi uult reddere perſpecta, is Bilfingerum adeat in Comment. de H. P.et Diluc. philos. S. 346.
+
+Ceterum negari non poteſt Harmoniam prae- ſtabilitam a multis eſſe huc dum defenſam, a pluri- Ii 2 bus
+
+[p. 500] 500 Cap.II. Sect. III. De ſyſtemate harm.etc. bus uero impugnatam. Defenderunt nimirum Hi eam Leibnitius, VVolfius, Bülfingerus, Han Schius, Thummigius, Schreiberus, et nuper eandem ita explicauit Reinbeckius, ut haud obscure prodere uideatur, hanc hypothesin, ſi recte explicetur, omnino poſſe defendi, certe non debere illam, ut periculi ꝑlenam, libertatique inimicam L bſi
+
+ſ micam, explodi. Eandem uero impugnarunt Clarckius, Bailius, Tourueminius, Lami, Langius, Andala, Buddeus, VVuebererus, Hollmannus, et nuper etiam Müllerus, Proſũor. Gigſ ſenſis Et quis omnes illas ſchedulas scriptis li nesque enarrabit, quae contra Harmoniam praeſtabilitam a nouis magistris, famam et gloriam aucupantibus, ſunt editae. Legantur prae ceteris omnibus Billfingerus in locis citatis, Rein- 3 beckius, in tr. de Harmonia Praeſtabilita et Hollmannus in duabus diſſertationibus de Harmonia» praeſtabilita, item in Epiſtolis, quas uocat, amoebaeis, Gott. Schedius in uindiciis. 4 Jll
+
+5. 74- Noſtrum nunc eſſet, ut de his tribus ſy stematibus generatim, ita inprimis de Harmonia praeſtabilita, ſententiam nostram exponere. Sed cum de hypotheſi disputetur de qua in utramque partem poteſt disputari, tuo ipſe utere, Lector, iudicio, me meo frui patiare. Quam tu deprehendis
+
+[p. 501] Cap. III. De immortalitate animae. 50I eſſe probabiliorem, eam, ut probabilem aſ- ſumas, quae minus probabilis tibi uidetur, eam, ut minus probabilem, reiicias. Caue uero, eum, qui abs te diſſentit, uel Atheum eſſe putes, uel religionis uerae irriſorem. Non enim de ſalute Graeciae aut reipublicae, ſed de hypotheſi philoſophica et problemate diſputatio inſtituitur.
+
+Sub finem capitis uehementer opto, ut ſ&sopiantur tandem ſuperfluae illae controuer- ſiae, quae, de his tribus ſyſtematibus, ob- ortae, maximorum Theologorum animos diſtraxerunt, et, ſparſis discordiae ſemini- bus, multa in rempublicam literatam mala inuexerunt.
+
+CAP. III. DE IMMORTALITATE ANIMAE s 74 A §. 744. ; Accedimus nunc ad animae immortali- 2M tatem, quam, permultum intereſt, legitime et ex principiis rationis ſolide de- monſtrari. Cum uero animae immortali- Ii 3 tas
+
+[p. 502] 502 Cap. 111.
+
+tas recte demonſtrari non poſſit, niſi ante notio immortalitatis fuerit distinctius enodata, primum, quid intelligi uelimus per animae immortalitatem, ſumus expoſituri
+
+Vt uero notio immortalitatis recte formari queat, ita quidem, ut uſus fert loquendi, in notionem mortalitatis antea inquiramus, oportet, et, quid ſit mori, quid ſit interire, di ſpiciamus. Sic enim, oppoſitis iuxta ſe poſitis, clarius, quid sit immortalitas, dispalescet. §. 746.
+
+Corpus noſtrum ex uſu loquendi dicitur mori, quando omnia eius membra et organa a functionibus ſuis penitus cessant. Hunc ſtatum comitatur ſanguinis ſtagnatio, ex quo putredo oritur, ex putredine uero prouenit partium diſſolutio, qua notione interitus continetur.
+
+Si itaque anima humana mori deberet omnes eius repraeſentationes et appetitio nes, ipſaque animae uis, quae eius eſſęntiaſ conſtituit, cessaret. Neque per ſolutioneſ partium, ſi interire deberet, interiret anima, quia
+
+[p. 503] De immortalitate animae. 503 —=mrn quia eſt ens ſimplex, ſ. 695.) ſeq, ſi interiret, Periret per annihilationem, (.286)
+
+5748. Anima itaque erit immortalis, ſi poſt mortem corporis operationes ſuas, i. e. reprae- ſentationes et appetitiones continuat. Cum uero repraeſentationes et appetitiones continuari nequeant; niſi uis repraeſentandi con- tinuo duret, atque adeo anima, quoad eſſentiam ſuam, perſeueret, 7.) conſequens eſt, ut ad immortalitatem animae recte requiratur; ut ipſa poſt mortem corporis, qua uim et eſſentiam ſuam, perennet.
+
+rLS8 749 Si'itaque uerum eſt, ad immortalitatis animae notionem poſtulari, ut ipſa ſuas continuet perceptiones et appetitus, (§. 748.) no- sitae autęm perceptiones, dum uiuimus, ſint eiusmodi, ut anima ſe ab aliis rebus, aliasque res a ſe inuicem diſcernat, adeoque ſui ſibi conscia ſit, 6. 484: 487.) liquet, ab immortalitate animae non poſſe ſeiungi ſtatum perceptionum diſtinctarum, et conſcientiam ſui.
+
+ꝗ. 550. Tria ergo immortalitatis requiſita cum Vvolfio, Bilfingero, Thummigio, aliis, ſta- u- Il 4 tuimus.
+
+[p. 504] 504 Cap III. tuimus. I. Ad immortalitatem animae pertinet, ut ipſa a morte corporis ſuperſit, et exi- ſtentiam ſuam continuet, neque adeo pereat, O. 748) II. Vt anima ſit immortalis, po- ſtulatur, ut in ſtatu perceptionum diſtinctarum perseueret. (§. 749.) IIl. Vt ſui ſibi ſit conſcia, atque adeo ſtatuum praeteritorum poſſit recordari, eosdemque ad ſe pertinere agnoſcat. His in ſummam collectis, ſequens immortalitatis animae definitio ex- ſurget Immortalitas animae eſt perſeuerantia animae poſt mortem corporis in exi- ſtentia, ſtatu repraesentationum diſtincta- rum, et conſcientia ſui. 1 Hanc immortalitatis notionem debemus Volfio, qui, confuſionem indeſtructibilitatis animae cum eiusdem immortalitate euitaturus, ità' definit immortalitatem animae: Est potentia per- ſeuerandi a morte corporĩ́: in ſtatu perceptionum diſtinctarum et conſeruandi memoriam ſui, Conf. Pſychol. Rat, p. 657. Eandem notionem immortalitatis nos ipſa ſacra scriptura edocet, exemplo diuitis illius Helluonis, cuius ſit mentio Luc. XVI. Huius anima exiſtere pergebat poſt mortem, ſentiebat enim crucia tus. Perceptiones item diſtinctas habebat, pot- erat enim ſe a Lazaro diſtinguere, ſtatuum quoque praeteritorum recordabatur, eosdemque ad ſe pertinere agnoscebat, id quod uel ex eo p* tę, uui
+
+[p. 505] De immortalitate animae 505 tet, quod fratrum ſuorum recoleret memoriam. En, tria immortalitatis requiſita, a nobis allegata &50.)
+
+§. 751. Quicunque igitur rite demonſtrare uult, animam eſſe immortalem, ei demonſtrandum (a) eſt, animam perſeuerare poſt mortem corporis in exiſtendo. (3) Animam continuare perceptiones ſuas, et quidem diſtin- tas. (y) Animam ſui ſtatusque praeteriti eſſe adhuc conſciam.
+
+Sunt quidem, qui ſatis habent, demonstrasse, animam poſt mortem corporis perſeuerare in exiſtendo, quique adeo arbitrantur, animae immortalitatem eſſe demonſtratam tum, cum eiusdem in- deſtructibilitas demonſtrata eſt. At fac, te demonſtraſſe, animam perſeuerare in existendo; fac uero, animam eſſe in ſtupore quodam, et uerſari in ſtatu obſcurisſimarum idearum, id quod olim ſe- Eta Arabicorum opinabatur. Num haec eſſet immortalitas? Plura ergo, quam ſola inde- ſtructibilitas animae, ſunt demonſtranda, ſi quidem animae immortalitas demonſtrari debeat. Agedum ita- que, singulas propoſitiones, ad corroborandam animae immortalitatem pertinentes, Perpendamus, et, qua quaeque ratione communiri debeat, uideamus, Y li, 5 S.
+
+752.
+
+[p. 506] Cap. III. 1 S. 752. Anima cum corpore interire nequit, ſed in exiſtentia poſt mortem corporis perſeuerat.
+
+Demonſtr. Cum enim anima ſit ens ſimplex, 6. 695.) ens ſimplex autem ob partium carentiam diſſolui corrumpique ac interire non poſſit, (§. 272.) conſequens eſt, ut anima post mortem cum corpore non ſimul pereat; ſed in exiſtendo perseuerat. Poterat hoc theorema ita quoque demonſtrari: Anima eſt ens ſimplex 655.) Ens ſimplex, ſi interit, interire debet in inſtanti, 282.) E anima, ſi interit, interire debet in inſtanti. Si anima interit in inſtanti, interit miraculoſe, (quia, quod fit in inſtanti, non habet euentus antecedentes et naturales, (§. 281.) id uero, quod ex cauſſis et ſtatu antecedente concipi non poteſt, dicitur ſupernaturale ſiue miraculum; (§. 438.), ſi uero interit miraculoſe, ſequitur, Deum eius interitus eſſe caussam, (quia miracula habent rationem ſui sufficientem in cauſſa extramundana, ſiue Deo. ũ 462.) Quamuis igitur Deus poſſit animas annihilare et destruere, quaeritur tamen, num uelit et num illa deſtructio ſiue annihilatio ex natura et eſſentia animae fluat? Ipſum autem nolle probatur ex fine miraculorum. Inter alios fines, quos
+
+Deus in patrandis miraculis intendit, et hic eſt, ut
+
+[p. 507] De immortalitate animae 507 ut nos reddat attentos, Nunc uero, dic, quae- ſo, quam familiaria, et uilia apud nos tandem futura eſſent miracula, ſi uellet Deus tot perpetrare miracula, quot millia animarum interirent. Conf. Braunii diſp. de ſtatu animae poſt mortem. P 33. ſe.
+
+s 143 Anima poſt mortem perceptiones ſuas continuat. Demonstr. Cum enim anima poſt mortem in exiſtendo perduret, (§. 752.) consequens eſt, ut etiam anima poſt mortem suam adhuc habeat eſſentiam, quia eſſentia ab ente, cuius eſt eſſentia, ſeparari non pot- eſt, et omne ens debet habere ſuam eſſen- Tiam. (§. 69.) Eſſentia uero animae eſt uis repraeſentandi. 71533 Ergo poſt mortem durat uis repraeſentatiua, quae eſt fons omnium perceptionum et principium omnium operationum in anima. Si uero uis animae repraesentatiua durat poſt mortem, et omnis uis tranſit in actum, niſi impedimentum adſit, (§. 300.) intelligitur, uim repraeſentatiuam animae poſt mortem corporis producere repraesentationes, ma- Xime cum nullum impedimentum ne fingi quidem poſſit, quod fontem perceptionum in
+
+[p. 508] F 7§ a— co8- Cap. III. in anima, puta uim repraeſentatiuam, ob- struat.
+
+Nonnulli Harmoniam ſuam praestabilitam hic commendant, atque putant, cum per harmoniam pra ſtabilitam corpus nihil ad animae perceptiones conferat, ſed anima easdem ui propria producat, 733) nullam adeſſe rationem, cur anima, corpore licet in morte. intereunte, poſt mortem ſuperſtes, non uerſetur in ſtatu perceptionum, easque continuet.-
+
+Anima non modo poſt corporis mortem perceptiones ſuas continuat, ſed quoque in ſtatu perceptionum distinctarum uersatur. Demonstr.
+
+Cum enim omnis confuſio in perceptionibus ſiue repraeſentationibus proveniat a ſenſuum limitatione, (ꝗ. 8i. Log.) in morte autem corporis organa ſenſoria plane a functionibus ſuis ceſſent, ſũ: 746.) limitatio- que adeo, per organa ſenſoria producta, deſinat, conſequens eſt, ut cauſſa confuſionis ſublata, ipſa cesset repraeſentationum confuſio. Dum autem anima perceptiones suas continuat, et libera tamen eſt a confusione, ſequitur, ut animam poſt mortem corporis uerſari in ſtatu perceptionum diſtinctarum, contendamus. 1. Sunt,
+
+[p. 509] De immortalitate animae. 509
+
+Sunt, qui, hoc theorema euicturi, argumentum quoddam adducunt, quod ab analogia de- ſumtum eſt. Sic rationes ſuas fere conficiunt: Res naturae, inquiunt, in uicissitudinibus ſuis extantioribus perficiuntur potius, quam deſtruuntur. Idque comprobare ipsam animam, aiunt, quippe quae in generatione, cum una cum corpusculo organico uterum matris intret, ex statu obſcurarum perceptionum in ſtatum claritatis progredia- tur. Hinc colligi debere, existimant, animam ,, in morte corporis, ubi nouam rursus et magnam subeat mutationem, non modo pristinas, quas in. uita habuit, perceptiones claras retinere, ſed in „ maiorem quoque claritatis di- ,stinctionisque gradum progredi,, De hoc argumento uideatur Thümmigius in diſſertat. de immortal. item Bülfingerus in Dilucidat. ſ.361.
+
+5m Anima; poſt mortem corporis, ſui adhuc ſibi conſcia eſt, ſeque eandem adhuc eſſe agnoscit, quae an- tehac fuerit in uita mortali, ſtatus item praeteritis memoriam con- ſeruat. Demonſtr. Cum enim anima poſt mortem corporis uerſetur in ſtatu idearum di- Stinctarum, (§. 754.) conſequens eſt, ut ani : me
+
+[p. 510] 5I0 Cap. III. ma poſt mortem corporis ſe ab aliis rebus, resque ipſas extra ſe a ſe inuicem diſcernat, (5 495 Quo ipſo uero cum ſit conscia ſibi ſui, (§. 484.) dubitari non poteſt, animam poſt mortem corporis esse sui sibi consciam, atque adeo agnoscere, ſe eſſe ſui ſibi con ſciam, atque adeo agnoſcere, ſe eſſe eandem quae fuerit in hac uita mortali: Si itaque anima poſt mortem corporis agnoſcit, ſe eſſe eandem, quae fuerit in uita mortali, conſequens eſt, ut ſtatus praeſens, cum praeterito connexus, per legem phantasiae ſiue imaginationis, ipſi in memoriam reuocet ſtatum praeteri- tum.
+
+Adeoque ipſa memoriam conſeruabit ſtatus praeteriti. -2 x- v. v:
+
+Cl. Cantzius in uſu philoſophiae Leibn. et VVolfiana?r in Theologia hac de re praeclare: .Praeſto et ratio, ut anima perſeueret, ſtatus enim conſequens pendet ex ſtatu antecedenti r Atqui in ſtatu antecedenti erat idearum di- ſtinctarum et conſcientiae fons uberrimus, cur igitur protinus exaresceret? Sic anima, ſui ,conſcia, poſt obitum exsistit, ut etiam eandem .ſe agnitura ſit, quae antehac fuerit in uita ,,mortali. Consequentes enim fluunt ex ante- „ cedentibus.,, Phantaſiae regula poscit, ut, quoties idea offertur, quae quid commune habet cum alia, olim in diuerſa serie obſeruata, toties praeteriti ſtatus memoria animum ſubeat. Cum igitur in anima ſeparata plures or antur
+
+[p. 511] De immortalitate animae. SII antur notiones, ex antecedentibus consecutae, quae non poſſunt non aliquid cum illis habere commune; ſentiet profecto anima, ſe eandem eſſe, quae fuit ante mortem. Tom. I. p. 264. §. 756.
+
+Haec itaque euincunt, animam eſ- ſe immortalem Demonſtr. Cum enim anima poſt mortem in ęxiſtendo perſeueret, (3 52) perceptio- nes item ſua: continuet, (§. 753) et denique cum conſcientia ſui memoriam ſtatus praeteriti conſeruet, 755.) haec tria uero requirantur ad immortalitatem, 350) intelligis, animam eſſe immortalem. Hoc argumentum pro immortalitate animae uocant intrinſecum, quia ex interna animae ui, natura, et eſſentia eſt desumtum Latius hoc argumentum explicauit Thümmigius in peculiari diſſertatione, quae inscribitur: Demonſtratio immortalitatis animae, ex intima eius natura dedu- Cta. Halae clo o CCXXI. Non nego, a pluribus plura ad demonſtrandam immortalitatem animae argumenta eſſe adducta, nec iniri fere eorum pot- eſt numerus, qui animae i:immortalitatem Aſſertum eunt. Conſ. Fabric. in Syllabo scriptorum de ueritate religionis Chriſtianae. Cel. Syrbius argumento, quod a deſiderio hominis infinito pro animae immortalitate deſu- mit,
+
+[p. 512] 35m Cap. III. 6. 512 mit, plurimum tribuit. Neruus vero et robur huius argumenti conſiſtit in his poſitionibus. x
+
+Quaecunque anima naturaliter intelligit bo- :l num infinitum, illa etiam naturaliter appetit tale bonum.
+
+(2) Quicquid naturaliter appetit bonum in- finitum, illius deſiderium non poteſt esse fruſtra da- tum.
+
+Cuius desiderium infinitum non poteſt eſſe fruſtra datum, illud naturaliter destinatum eſt ad bonum infinitum lll
+
+Quicquid naturaliter deſtinatum est ad bonum infinitum, illud etiam tali bono frui potest. (5) Quicquid frui poteſt bono infinito, illud durare debet in infinitum.
+
+۱۰ (6) Quicquid durare debet in infinitum, illud non poteſt mori, adeoque eſt immortale E.
+
+(7) Anima hominis eſt immortalis Conf. Syrbii Philoſoph. Rat. p. 241. et diſputat. eiusdem de deſiderio hominis infinito.
+
+Quae contra hoc argumentum moneri excipique cum ſpecie poſſent, indicat Cantzius in Iurisprudentia Theologiae, siue de Ciuitate Dei. P. 110. sqq. Aliud,
+
+[p. 513] De immortalitate animae. 513 Aliud, praeter recensita, argumentum adhuc adhiberi solet, cum animae immortalitas eſt de- monſtranda. Scilicet ita ratiocinari video quosdam: ,,Homo ſaepe in hac uita agit male, re: 1a en ac- »cipit poenas. Ergo aut Deus non eſt iuſtus, aut ,ſtatus poſt mortem ſupereſſe debet, in quo bonis bene fit, malis male.,, Contra hoc argumentum, a iustitia diuina de- sumtum, nonnulla sunt, quae monet Bülfingerus in Dilucidationibus ſ. 362. (a) Ex hoc argumento ſequi, putat, etiam corporis immortalitatem, (õ) non ſequi perennem animae durationem, ſi quidem fortassis tempore finito poenae uel praemia accipi poſſint. Sequi ita animae immortalitatem tantum pro illis, qui praemia bonorum factorum, et poenas malorum factorum in hac uita non acceperunt.
+
+Qua felicitate, aut quo taedio anima afficiatur poſt mortem, aut resideatne perpetuo illa in corpore suo, an extra illud commoretur, non subtilius diſputabimus hoc loco, cum haec omnia ex reuelatione, quam ex ratione, rectius ſciantur. Legatur interim Braunii diſſertatio de ſtatu animae humanae post mor- tem corporis ſui, uel beato, uel damnato, ex principiis ſanioris philoſophiae deducto, Halae Mag, 1726. 4 Kk CAP.
+
+[p. 514] 514 Cap. 1V. Cap. IV. Es r
+
+æã CAP. TV. ANIMABVS BRVTORVM.
+
+5 7$atis iam, ſatis expoſuiſſe nobis uidemur animae noſtrae uirtutes ſtatumque poſt mortem corporis. Vnicam his adiungere licebit caput de /animabus brutorum, quas alio alii modo explicant; Nos uero principiis iam dum a nobis ſtabilita ſecuti, quid ſanior hic tradat philoſophia, edocebimus.
+
+**§5**
+
+n8. Bruta ſunt animabus praedita, quae, ab ipſorum corpore prorsus distinctae, obiecta, in organa ſenſoria agentia, ſibi repraeſentant. Demonstr. In brutis (o) deprehendimus, experientia teſte, organa ſenſoria, (3) deprehendimus in ipſis quoque cerebrum, * cerebro humano ſimile Iam uero, cum hunc organorum ſenſoriorum cerebrique in homine uſum, finemque adeo diuinum eſſe, nemo neget, ut per organa ſenſoria uis reprae-
+
+[p. 515] De animabus brutorum. 515 repraeſentatiua animae limitetur, nobisque perceptiones formare poſſimus, recte inde colligimus, eundem eſſe horum membrorum in brutis finem diuinum. Atque adeo liquet, brutis aeque, ac hominibus, compete- re animas, quae res, extrinſecus in organa ſenſoria agentes, ſibi repraesentent, et quidem pro mutationibus, in organis ſenſoriis factis. §. 759. Bruta cogitant. Demonstr. Cum enim experientia teſtetur, bruta, ope ſenſuum, ſe ab aliis rebus discernere, et res extra ſe a ſe inuicem, conſequens eſt, ut bruta et ſibi ſui et rerum extra ſe poſitarum ſint conſcia. (§. 484.) Dum autem, qui conſcientia ſui rerumque extra ſe poſita- rum gaudet, dicitur cogitare, (§. 491.) bruta cogitare, dubitari non potest.
+
+§. 760. Bruta non modo habent sensationes, ſed imaginatione quoque et memoria gaudent. Demonstr
+
+Cum enim quotidiana ' teſtetur experientia, in brutis, quum duae ſimul
+
+D El 2 ad-
+
+[p. 516] 516 Cap. IV. adfuerunt ſenſationes, et una earum reproducitur per ſenſus, reproduci quoque alteram. Ita uidemus, in cane, cum Dominum obſeruat baculum, quo ſemel iterumque fuit percuſſus, eleuare, oppido ideam uerberum excitari, id quod indicat abitus festinatus et uociferatio lamentabilis. Quae omnia cum ſint effectus imaginationis ſiue phantaſiae, (§. 508.) dubium non eſt, brutis competere phantasiam, ſiue imaginationem; et, cum conſcientia ſui gaudeant, 759) mirum non eſt, ipſa quoque noſſe, eſſe reproductas ſenſationes easdem, quas olim habuerunt, quod eſt operatio memoriae. ũ. 536) 5. 76I. Patet ergo, bruta, ut homines, agere ſecundum legem imaginationis, quod pluribus, ex experientia deſumtis, exemplis poteſt comprobari. De lege autem imaginationis uideas ꝗ. 509. ſqq.
+
+§. 762. Bruta gaudent appetitu ſenſitiuo et auer- satione ſenſitiua, ipſam quoque legem appetitus et auerſationis ſequuntur, id quod iterum experientia poteſt comprobare. §. 763. s ruil
+
+[p. 517] De animabus brutorum.
+
+5. 763.
+
+Bruta carent ideis rerum distinctis, et hinc etiam intellectu. Demonstr. Cum enim bruta sermone et uocibus articulatis careant, per experienti- am, ſine sermone autem et uocibus articu- latis ea, quae in obiecto totali aliquo discer- ni possunt, dignoscere nequeamus, adeo- que ad diſtinctas etiam ideas peruenire non possimus, (§. 563.) bruta carere ideis rerum diſtinctis, in aprico eſt. Et quia intellectus eſt facultas res sibi distincte repraesentandi, (§. 549.) necesse eſt, ut intellectum brutis de- negemus. Canis e. gr. format quidem sibi ideam carnis hu- * ius et illius, ſed ſenſibus acquiſitam et confusam. Non uero ita sibi formare poteſt notionem cor- poris, generatim ſpectati, ut possit sigillatim sibi sistere, quaenam sint notae characteriſticae, qui- bus corpus, generatim ſpectatum, ab omnibus aliis rebus discernatur. §. 764.
+
+Cumque abſtractio ſine ideis diſtinctis non habeat locum, (§. 550.) notionesque
+
+[p. 518] Cap. IV. uniuersales formari non possint, niſi mediante abſtractione, (f.m. Log.) euidens eſt, nec abſtractione, nec facultate, notiones univerſales sibi formandi bruta eſſe in- ſtructa.
+
+§. 765. Ex quo apparet, nec iudicia uniuersalia formare ipſis esse datum. Iudicia enim ſunt combinationes uel ſeparationęs idearum Ergo iudicia uniuerſalia ſunt, cum notiones uniuerſales combinamus uel separamus: Cum uero bruta notiones uniuerſales formare non possint, (6. 7564.) palam eſt, nec iudicia uniuerſalia ab ipſis poſſe formari. 4 Canis e. gr. equus, etc. non poteſt ſibi uni- uerſalem notionem uel legis, uel ſpei, uel uirtutis uitiique, ut homo, formare, nec fieri potest, ut equus aut canis ita iudicent: uirtus eſt legi conformis, uitium difforme. Sunt enim hae notiones uniuersales, sunt haec iudicia uni- verſalia, quae non poſſunt cadere in quemquam, niſi diſtinctis gaudeat ideis, adeoque intellectu.
+
+5 766:
+
+[p. 519] as ſbln ſinmj il hi ſmn i Eſſ:
+
+ſu. De animabus brutorum. 519 ſis
+
+F. 7566. nn nin Bruta nexum n ueritatum uniuer- Salium distincte perspicere non pos- ſunt. Demonſtr. Cum enim bruta neque notio nes, neque possint, iudicia 754. uniuerſalia, 7655.) ſibi formareprae- um omnibusque ſentationibus diſtinctis careant, (§. 763.) facile pateſcit, bruta quoque nexum ueritatum uniuerſalium diſtincte perſpicere non poſſe.
+
+§. 767. Bruta carent ratione.
+
+Demonſtr. Cum is gaudeat ratione, qui ne- l xu m ueritatum uniuerſalium diſtincte per- l icere oſſit, C. 572.) bruta autem nexum nDP 5 ueritatum uniuersalium diſtincte perſpicere non poſſint, 766.) perſpicuum hinc fit, Iam bruta omni deſtituta eſſe ratione, et ita re- te dici irrationalia.
+
+Miror, de hac theſ tam acriter inter eruditos fuiſſe diſceptatum Totalis oppido com- l poni poſſe uidetur, ſi, quid per rationem intelli-
+
+Kk 4 3gi ll I
+
+Ll
+
+[p. 520] Cap. IV. 4 1 gi uelis, determinaueris. Negari quidem non por- —u eſt, c:ſus allegari, ex quibus demonſtrari • poſſe uideatur, brutis aeque, ac hominibus, et uerius nonnunquam, tribui debere rationem. At si omnes caſus rite examinaueris, in quibus ratio brutis tribuitur, si omnia brutorum ratio- cinia et Syllogiſmos excuſſeris, ſi omnes eorum operationes, quae elegantes atque admirabiles tibi uidentur, quasque edunt ſine praeuia institutione, nunquam rationem deprehendes, eo ſcilicet ſenſu, quo nos eam definiuimus; Quas enim bruta edunt operationes, aut proueniunt ab instinctu quodam naturali, diuinitus ipſis indito, nec conſilio aut praeuia deliberatione ipſa suscipiunt, aut regulis diriguntur, quae in ſolis ſenſibus, ima- ginatione et memoria brutorum fundatae ſunt. Sic apes fauos conſtruunt, et mella conficiunt, formicae cibum congerunt, et in futuros ſuos reponunt uſus, aues nidos componunt; satis illos quidem artificiose, non tamen cum praeuia quadam delibe- ratione aut conſilio ſed uel ex instinctu quodam naturali, diuinitus ipſis inſito uel regulis diriguntur, ſenſu, imaginatione ac mem?
+
+ria nixis. Quod ad ratiocinia et Syllogiſmos brutorum at- tinet, in iis quidem, confuſe formatis, nihil, quod rationem probet, reperire potui, ſed ſemper prae- miſſa. in eiusmodi ratiocinio, quod a brutis formari uidetur, nituntur aut ſenſu, aut imaginatione, aut memoria. Cum e. gr. canis uidet, Dominuſ q eleuare baculum, tum canis, reproductis pristinis verberum ideis, oppido aufugit, ita quaſi ratiocinatus:
+
+Quia 5 æaq€a .a
+
+[p. 521] De animabus brutorum. 501
+
+Quandocunque Dominus eleuat baculum, tum uapulo, Atqui uero nunc eleuat baculum, Nunc uapulabo, ſiue uerbera ſentiam, E, ab- eundum. In hoc Syllogismo maior propoſitio nititur imaginatione, minor ſenſu, neutra uero praemiſſarum habet pro fundamento rationem. Qua itaque ratione ex Syllogiſmo, in quo, neque maior, neque minor propoſitio, nititur ratione, probabis rationem? Percurre omnes brutorum  syllogismos, quos tibi formare uidentur, ſi uel unicus eorum ratione nititur, tum pertendam, bruta gaudere ratione.
+
+968.
+
+Quamuis brutis nullam tribuendam eſſe rationem exiſtimem, analogum tamen rationis, quod uocant, ipſis adſcribi poteſt.
+
+Demonſtr. Cum enim, experientia teſte, in brutis obſeruemus, ipſis, ſi duas habuerunt olim sensationes ſimul, una earum redeunte, alteram etiam redituram uideri, (§. 760.) id quod modo exemplo canis com- n KE 5 pro-
+
+[p. 522] 522 Cap. IV: probatum dedimus, conſequens eſt, ut brutis exſpectatio caſuum similium tribui poſſit. In quO quia conſiſtit id, quod uocamus analogum rationis, (582) non video, cur non brutis rationis analogum tribui poſſit.
+
+Veteres ſcholaſtici cum uocibus his analogum rationis nullum fere coniunxerant conceptum. At recentiores, qui uocabula, mente caſſa, et uoces nihili ex philosophis ſedulo proſcribendas putant, ita determinarunt, ut per analogum rationis, ubi quis uidetur in rebus particularibus nexum perſpicere, nihil aliud intellexerint, quam exspectationem caſuum ſimilium Quid vero ſibi uelit exspectatio caſuum ſimilium, lege ins. 59-
+
+5. 759 Experientia teſtatur, in aliis brutis maiorem eſſe docilitatem, minorem in aliis, ita ut alia aptiora deprehendantur, quae inſtituantur, alia ineptiora. Atque adeo ſponte hinc fluit, alia bruta aliis meliores ſen- ſus, imaginationem et memoriam habere. ac gradu perfectionis inter ſe inuicem differre. S.770,
+
+[p. 523] De animabus brutorum. 523
+
+§. 770.
+
+Brutis competit quidem in agendo spontaneitas, non uero libertas. Demonſtr. Cum enim, id quod experientia quemque condocet, bruta ſe ipſa ad agendum determinent, is autem, qui ad agendum ſe ipſe determinat, dicatur ſponte agere, (§. 672.) brutis ſpontaneitatem denegari non poſſe, patet. Quia uero ad omnem Libertatem requiritur intellectus, (§. 676.) bruta uero intellectu deſtituuntur, 763.) manifeſtum eſt, brutis libertatem tribui non poſſe.
+
+s: 7. Brutorum animae ſunt quidem entia ſimplicia, ſed non ſunt ſpiritus. Demonſtr. Cum enim brutorum animae cogitent, (§. 759.) id autem, quod cogitat, debeat eſſe ens ſimplex, (§. 692.) palam eſt, brutorum animas eſſe entia ſimplicia. Cum [p. 524] i i —4
+
+524 Cap. IV. Cum ad omnem spiritum requiratur, ut gaudeat intellectu, 73) brutorum uero animae non gaudeant intellectu, 763) brutorum animas non poſſe eſſe ſpiritus, certum eſt.
+
+Scholaſtici animas brutorum eſſe materiales credebant, Carteſiani bruta meras machinas exiſtimabant. Vtrique falſo.
+
+Ceterum hinc uides, tertium adhuc dari inter corpus et ſpiritum, ſcilicet dantur adhuc entia, quae neque ſunt corpus, neque ſpiritus, ſunt tamen entia ſimplicia. Quo referri conſtat entia simplicia, ex quibus corpora ſunt compoſita, de quibus ſupra 454. et (3) animas brutorum, uti id ex praecedenti;ti s. pater.
+
+5 m. Colligi hinc poteſt, animas brutorum eſſe ex ſua natura indestructibiles- & indestructibiles. r i Demonstr.
+
+Cum enim animae brutorum ſint entia ſimplicia, (§. 771.) ens ſimplex autem deſtrui non poſſit, 272. ſequitur, ut animae brutorum deſtrui non poſſint, ex aul
+
+[p. 525] De animabus brutorum. 55 ex ſua natura, adeoque ſint indeſtructibiles.
+
+1 Ex eo tamen neutiquam confici potest haec propositio: Ergo animae brutorum ſunt immortales. Plura enim ad immortalitatem requiri, quam ſolam indestructibilitatem, docet 5. 750. Can:7ius mentem suam de hoc in uſu philoſoph. in Theolog. p. 167. egregie exponit. Non interire, inquit, post mortem brutorum animas, largior; Immortales tamen esse nego. Deeſt scilicet poſt mortem bi brutorum animas,. largior; Immortales tamen eſſe nego. D:ſt ſcilicet poſt mortem animabus brutorum tertium immortalitatis requiſitum, ſcilicet recordatio ſtatus praeteriti, eiusdemque cum praeſenti comparatio. 5. 755 Quod enim bruta poſt mortem corporis non poſſint recordari ſtatus praeteriti, id uel ex eo patet, quod bruta, dum uixerunt, non diſtinctas habuerunt ideas, ſed tantum claras et confuſas Atqui uero, cum anima quae- dam magnam ſubit mutationem, et ante illam mutationem tantum claris et confuſis gauiſa fuit ideis, non uero diſtinctis, reperimus, illam poſt magnam, quam subiit, mutationem non re- cordari poſſe ſtatus praeteriti. Duplici exemplo id nunc probare, opportunum erit. Quotusquisque eſt, qui eorum, quae in tenera infantia ſuſcepit, aetate adulta, recordari poteſt? Nemo profecto. Ecquid uero caussae? Scili- - cet, cum in tenera infantia nondum, ob defectum uocum articulatarum, diſtinctis gaudeamus ideis, ſed confuse omnia nobis et obſcurè rępraeſen- temus,
+
+[p. 526] 526 Cap. IV. 1 1 uocum articulatarum, diſtinctis gaudeamus.ideis, ſed confuſe omnia nobis et obſcure repraeſentemus, fit, ut, anima in alium, eumque perfectio- rem, ſtatum prouecta, nihil eorum, quae olim in ſtatu tenerrimae et primae infantiae nouit, me- meminisse queat. Et profecto, aut fallor ego uehementer, aut eandem rationem et cauſſam recte ablego in caſu illo, quo quis, inter bruta ſilueſtria educatus, ad tempus more brutorum uixit. Relatum legimus, eiusmodi homines, inter bruta in ſiluis educatos, quando capti fuerunt, et cum hominibus consociari coeperunt, ſenſim ſenſimque linguam didiciſſe, et ad cognitionem diſtinctam pedetentim peruenisse Quod uero ubi factum eſt, ubi uſum rationis impetrarunt, nunquam potuerunt ſtatus praeteriti, uitaeque, quam uiuebant inter feras ſilueſtres, recordari, idque ideo, quia in illo ſilueſtri et se- ro uiuendi genere diſtinctis caruerunt repraeſentationibus. Cum igitur animae brutorum caruerint in uita diſtinẽtis ideis, (§. 763.) quid- ni negemus, ipſi; aliquando ſtatus praeteriti recordari poſſe?
+
+s: 73 Inter hominis brutique animam tanta eſt differentia, quanta maxima eſſe poteſt.
+
+Demonst.
+
+[p. 527] De animabus brutorum. 57 Demonſtr. Cum enim anima hominis gaudeat ideis diſtinctis, 547) et intellectu, 549) abſtrahat, 557.) rationem item habeat, (s: 572) libertate ſit inſtructa, (§. 671.) haec omnia autem animabus brutorum non competant, (§. 763.767.) facile eſt intellectu, animas hominum et brutorum maxime inter ſe differre.
+
+Quaeritur uero, utrum gradu, an eſſentia dif- ferat anima brutorum ab anima hominum. Diſtinguunt hic nonnulli inter gradum eſſen- N tialem, et gradum accidentalem Gradus eſ- essentialis in repraeſentationibus dicitur, ubi totus repraesentandi modus mutatur, e. gr. repraesentatio obſcura, clara;, diſtincta. Gradus accidentalis eſt, qui in ipſo gradu eſſentiali deprehenditur e. gr. obſcuritas maior et minor, claritas maior et minor: Gradu igitur eſſentiali animas brutorum ab animabus brutorum differre aiunt, i, e. ita, ut brutorum animabus non nisi ideae competant clarae et confusae, cum contra humana anima ſit capax idearum distinctarum et uniuerſalium, quo animae brutorum pertingere nequeant.
+
+Cantzius mentem ſuam de animae bruti et infantis differentia ſic exponit.,, Anima in- ,infantis longiſſime diſtat ab anima bruti. Nam neque illa rationem ſufficientem omnium olim for-
+
+[p. 528] 528 Cap. IV. De animabus brutorum. ,, formandarum notionum. iamtum in tenella ,,aetate complectitur, anima bruti nil tale com- „ complectitur. Illa plura et ſublimiora in ſe in- „ uoluit, ad inſtar cepae Tuliparum, haec au- ,, tem uiliora et indigniora comprehendit mo- ,more cepae communis, (ſit uenia ſimilitudini ,,ultra tertium non extendendae]) Anima „ hominis inde ab initio semina futurarum , idearum distinctarum habet in ſe recondita, ,, qualia bruti anima non habet. Tom. I. p. 271. De animabus brutorum legas uel maxime libros duos Hieronymi Rorarii, quod animalia bruta ſaepe ratione utantur melius homine Quos recensuit diſſertatione hiſtorico- philoſophica de anima brutorum annotationibusque auxit Georg. Henr. Ribovius, Helmſt. li 1738. 8v5. FINIS PSYCHOLOGIAE RATIONALIS. 1 THEO-
+
+[p. 529] Theologia naturalis. 529
+
+: Theologia NATVRALIS. $ 774- THEOLOGIA NATVRALIS. §. 774. Theologia naturalis eſt ſcientia de DEO eiusque attributis et operibus.
+
+Haec diſciplina, quam, cum ueteres, tum recentiores, philoſophi ad metaphyſicam retulerunt, ultimam nobis Metaphyſices partem constituit. Conf. §. 5. Volfius Theologiam naturalem definit per ſcientiam eorum, quar per DE VM ſunt poſſibilia. Vid. diſcurſus praelimi- naris Logicae praemissus §. 57. Quae quidem definitio quomodo ſit intelligenda, et ab exceptionibus uindicanda, docui in definitiua philoſophia. ꝑ. à.
+
+Haec uero diſciplina dicitur Theologia NATVRALIS, ideo, quia, quicquid hic de DEO: eiusque attributis docetur, id omne ex lumine naturae ſiue ex ratione ſcientifice demon- ſtrari debet. Quo ipſo diſtinguitur a Theologia reuelata, quae non ratione, ſed ſcriptura ſacra, nixa, DEVM non modo ratione exiſtentiae et attributorum conſiderat, ſed explicat quoque ſublime illud trinitatis myſterium, quod rationem prorſus fugit. Taceo, quod in Theol-gia reuelata remedia allegentur, quae ad aeternam
+
+Ll ſalu-
+
+[p. 530] 530 Cap. I. ſalutem conſequendam ſufficiunt, quod non item fit in Theologia naturali.
+
+Quod uero Theologia naturalis in pertractandis diſciplinis metaphyſicis agmen claudat, ratio haec eſt. Methodus, qua philoſophos uti par eſt, poſtulat, ut praemittantur ea, per quae ſubſequentia intelligantur. (§. 30. Log.) Atqui uero in Theologia naturali plurimae propoſitiones explicari intelligique non poſſunt, niſi notiones, uel ex Ontologia, uel ex Coſmologia, uel ex Pſychologia denique praeſtruantur, (id quod ex ſequentibus uberius patescet,) E.. Theologiam naturalem demum poſt Ontologiam, Coſmologiam, Pſychologiam pertractandam eſſe, liquet.
+
+**§5**
+
+. 1715.
+
+Quod ad methodum, in explicandis Theologiae naturalis placitis adhibendam, attinet,, eam debere eſſe demonſtratiuam et scientificam affirmamus, quod uel ex eo perſpicuum eſſe potest, quod Theologiam naturalem eſſe ſcientiam de DEO, dixerimus. -um Cel. Bülfingerus cautiones nonnullas tradidit, quae circa methodum Theologiae naturali' ſunt obſeruandae, quas uide in Dilucidatione- S 372. sqq s. §. 776.
+
+[p. 531] De Dei existentia. 531 5. m. Vſus Theologiae naturalis in omnes fere diſciplinas, deductis quaſi riuulis, ſe diffundit, et in conformandis recte dirigendisque hominum moribus tantus omnino eſt, quantus uix ab alia diſciplina poteſt exſpectari. Atheiſmum quoque et ſuperſtitionem per Theologiam naturalem profligari, in aprico eſt. Iis praesertim, qui Theologiae ſe addicunt, credi uix poteſt, quantam utilitatem afferat Theologia naturalis. Qua enim ſi quis deſtituitur, neque Atheos ratione conuellere, neque religionis Christianae irriſores poterit oratione labefactare. Quid? quod Theologia naturalis uiam nobis ſternit, manuque ſui cultores ducit ad Theologiam. reuelatam, quae hoc ſolidius diſcitur, quo firmioribus, ex naturali Theologia de- ſumtis, fulcris innititur
+
+DEI EXISTENTIA, §. 777- I exiſtentia DEI EXISTENTIA.
+
+5m N exiſtentia DET rite demonstrat: debet, praemittenda eſt aliqua definitio DEI nominalis, ut ita intelligi queat, quidnam
+
+Lla hac L1 2
+
+[p. 532] 532 Cap. I. Scilicet hac uoce Dei indicari uelimus. Scilicet eiusmodi characteres ſunt allegandi, quibus id ens, quod Deum uocamus, ab omnibus aliis rebus poſſumus dignoſcere.
+
+Cum uero definitio nominalis ſit arbitraria, C§. 76. Log.) facile intelligis, ab aliis alias notas * characteriſticas poſſe allegari, quae tamen notae debent eſſe eiusmodi, ut 0) Deo ſoli et ſemper competant, (2) ut ex ea attributa Dei nexu com. modo et apto poſſint deduci. Perinde itaque eſt, ſi dixeris: DEVS eſt ens perfectissimum, aut: DEVS eſt ens abſolute neceſſarium, uirtute propria et per eſſentiam suam exiſtens, aut denique: DEVS eſt ens infinitum et independens. In una quaque enim harum definitionum nominalium allegantur characteres, Deo ſemper et soli competentes. Quarum tamen unam alteramue ſi in ordine ſyſtematico, ubi demonſtrationibus locus est, adhibueris, uidendum eſt, num ex definitione adhibita omnia attributa nexu legitimo fluant, ex eaque poſſint demonſtrari.
+
+5. 78 Definitionem itaque DEI nominalem condituri, per DEVM nihil aliud intelligimus, quam ens absolute neceſſarium, quod ab hoc uniuerſo diuerſum eſt, et a quo hic mundus, tanquam a cauſſa ſua, dependet. Putaueanuill
+
+[p. 533] De Dei exiſtentia. 533 Putauerim, hic recenſeri eiusmodi characteres, qui nulli rei, niſi DEO, competunt. Quodſi tamen minus placuerit tibi haec definitio, die: DEVS eſt ſpiritus perfectiſſimus. Item: DEVS eſt ens independens, aut, ſi mauis, DEVS eſt ens infinitum. Idem enim mecum dicis. Quod uero hanc potiſſimum, nec aliam, DEI definitionem ſuppeditauerim, rationem tum perſpicies, cum intellexeris, omnia Dei at- tributa, nexu perquam facili, a me ex hac definitione deduci. Caue uero, ideo hanc definitionem DEI falſam putes, quod non omnia DEI attributa in ea recenſeantur. Non enim hoc opus eſt in definitione nominali, quae ideo praemittitur, ut ſit principium demonſtrandi et ut ex ea rei dęfinitae attributa demonſtrentur.
+
+VVolfius in Theolog. natur. Tom. I. s. 67. eandem fere definitionem profert, ubi, per DEVM, inquit,,,intelligimus ens a ſe, in ,quo continetur ratio ſufficiens exiſtentiae „ mundi huius aſpectabilis et animarum no- stratum,, i. e. DEVS eſt ens a ſe, quod hunc mundum,. tanquam cauſſa efficiens, produxit. Id enim, quod in ſe continet rationem ſufficientem, cur alterum exiſtat, dicitur cauſſa alterius. (§. 397.) In metaphyſica Germ. has legimus DEI definitiones: GOtt ist ein selbständiges ꝗnefon (ens a ſe) darinnen der Grund von der Würcklichkeit der Welt Ll 3 T
+
+[p. 534] 534 Cap. I. mden. 945. item ſ. 155. ita mentem ſ1am exponit de DEI conceptu primo: Demnach ſan man ſagen, in o weil man G™JQ aus der Betrachtung der ĩòeſè erkennet, und einen Begriff suchet, daraus das übrige sich herleiten ten Iòũet: SQ9W ſe» das &Wesen, welches alle I8Welten, die möglich ſind, ũ. e. omnes res, non eas modo, quae existunt, ſed quae etiam exiſtere poſſunt, omniumue rerum connexiones et relationes) auff einmahl in der grössten gròfen Deutlichkeit sich vorſtellet Alius fortaſſe idem ita expressit: DEVS eſt ens, intellectu perfectissimo praeditum. 7 Id enim inuoluunt characteres, in hac definitione a VVolfio al- legati. Dici non poteſt, quanto animi impetu, quantaue acerbitate. et uehementia de his quidem recenſitis definitionibus ſit diſceptatum. Omnes, opinor, controuerſiae euaneſcerent, modo aduersarii Vvolfii intelligere uel- Lent, nihil his quidem definitionibus VVolfium aliud docere, quam quod DEVS ſit. caussa mundi, quodque DEVS ſit ſpiritus perfectissi- mus perfectissimo intellectu praeditus. Verba impugnant, res concedunt. Conf. Cantzius in uſu philoſoph. VVolf. .in Theologia p. 86. Tom. I. ubi hiſtoria totius illius controuersiae Logicae enarratur, Item Philoſophia noſtra defin. p. 171. §. 779. 1
+
+[p. 535] De Dei exiſtentia. 5
+
+Quicunque itaque demonſtrare uult, dari DEVM, is demonſtrare debet, dari ens aliquod, absolute neceſſario exiſtens, a mundo di- uerſum, et a quo hic mundus, tanquam a caussa Sua, dependet. 778 Quod quidem qui demonſtrauit, eo ipſo demonſtrauit exi- ſtentiam Dei. §. 780. Datur ens abſolute neceſſario existens, ab hoc mundo diuerſum, et a quo hic mundus, tanquam a caussa ſua, dependet. Demonstr.
+
+Huius theſeos fundamentum et ratio ut perſpiciatur luculentius, ſequentibus poſitionibus totam demonſtrationem com- prehendemus.
+
+1) Hic mundus exiſtit (ꝓer experientiam et ſenſum communem.)
+
+2) Hic mundus, qui reuera nunc exiſtit, ita exiſtit, ut etiam poſſet non exiſtere, atque adeo eſt contingens. 417.) 3) Cum hic mundus, ob contingentiam, ita exiſtat, ut poſſit etiam non exiſtere, ut
+
+1 Ll 4 possit
+
+[p. 536] Cap. 1. poſſit alio modo existere, 5 47. et num. 2) conſequens eſt, ut debeat adeſſe ratio ſufficiens, cur hic mundus exiſtat potius, quam non exiſtat, cur exiſtat hoc modo, et non alio. (5. 320 Poterat enim etiam non existere, poterat alio modo exiſtere.
+
+4) Illa ratio ſufficiens, cur hic mundus ex- iſtat potius, quam non exiſtat, cur exiſtat hoc modo, et non alio, aut eſt in ipſo mundo, aut deprehenditur in ente aliquo a mundo diuerſo. (f. 33)
+
+folds 5) Si ratio ſufficiens, cur hic mundus exi- ſtat potius, quam non exiſtat, cur exiſtat hoc modo, nec potius alio, deprehenditur in mundo ipſo, tum mundus eſt ens abſolute neceſſarium. Quodcunque enim ens ita exi- ſtit, ut rationem, cur existat, in ſemetipſo habeat, illud abſolute necessario exiſtit. 179) Cum uero mundus ſit ens contingens, 417) ens autem contingens non poſſit eſſe abſolute neceſſarium, (§. 7.) palam eſt, mundum non poſſe eſſe ens abſolute neceſſarium. Adeoque ratio sufficiens, cur hic mundus exiſtat, non eſt in ipſo mundo.
+
+6) Cum itaque ratio, cur mundus exi- ſtat, non ſit in ipſo mundo, (num. s.) manifeſtis-
+
+[p. 537] De Dei existentia. 537 1 festissimum eſt, rationem, cur hic mundus exiſtat, debere deprehendi in ente aliquo, a mundo diuerſo.
+
+7) Hoc ens, a mundo diuerſum, quod continet rationem ſufficientem in ſe, cur hic mundus exiſtat, aut eſt ens contingens, aut eſt ens absolute neceſſarium. (ꝗ. 1770.) (Tertium enim non datur.)
+
+2381) Si hoc ens, quod a mundo diuerſum eſt, quodque in ſe continet rationem sufficientem, cur hic mundus exiſtat, eſt ens contingens, tunc hoc ens contingens, quod continet in ſe rationem ſufficientem, cur mundus exiſtat, ita exiſtit, ut etiam poſſit non exiſtere. (§. 175.) Atque adeo rationem rurſus extra ſe habebit, cur exiſtat.
+
+A 9) Sic ergo aut in analyſi notionum in infinitum progredieris, ita, ut ſemper, et ſine fine, deuenias ad eiusmodi entia, quae rationem ſufficientem, cur exiſtant, habent in aliis rurſus entibus extra ſe, aut tandem ſubſi- ſtendum erit in ente aliquo, quod non amplius rationem ſufficientem, cur exiſtat, extra ſe habet, ſed quod rationem suae exi- ſtentiae in ſemetipſo habet. Ll5 10) In 1 7
+
+[p. 538] 538 Cap. 10) in infinitum autem non progredi in analyſi rationum poſſumus, quia alias non peruenietur ad rationem plene ſufficientem exiſtentiae noſtrae, qua poſita, ſiſti poteſt quaẽſtio, cur exiſtamus. 3l nm) Ergo ſubſiſtendum eſt in aliquo ente abſolute neceſſario, quod a mundo eſt diuer- ſum, quodque continet in ſe rationem ſufficientem, cur hic mundus exiſtat potius, quam non exiſtat, cur hoc modo exiſtat, et non alio.
+
+Dedita opera et ſtudio totam hanc, quanta quanta eſt, demonſtrationem poſitionibus, a ſe inuicem ſeiunctis, comprehendimus, ut ita intelligi queat, quid in quaque propositione in- ſit ponderis, et num quid contra eam excipi queat. Suum cuique robur, ſuum firmamentum conſtat. Ad eam uero propoſitionem, quae membro 5. comprehenditur, quaque progressus in infinitum negatur, quod attinet, fuſius demonſtrari potuisset. ?Volfius in Coſmologia S. 9progreſſus in infinitum rectilinei impoſſibilitatem hoc modo euincit. „ Si in ſerie cauſarum contingentium, quae progreſſum in infinitum ,,conſtituit, continuo aſcendas, ad aliam conti- ,,0uO cauſam contingentem peruenis, quocunque tandem interuallo ſeries retro continuari supponatur. Quare cum cauſſa iſta, ens contingens, rationem ſuae exiſtentiae in ſe non ha- ,beat,
+
+[p. 539] De Dei exiſtentia. 539 Series beat, in progressu in infinitum rectilineo, ,non datur ratio ſufficiens exiſtentis cuiuscun- „ que. Progreſſus itaque in infinitum rectili- ,neus eſſe nequit. Quare progredi in infini- ,, tum et progredi in linea recta, ſibi mutuo con ,, tradicunt.,,
+
+Alii ita: Si in serie cau- ſarum datur progreſſus aut potius regreſſus in infini- tum, tum in ista serie non datur principium. Vbi uero in ſerie cauſſarum nullum locum habet principium, ibi nec locum habet continuatio, ubi nulla continuatio, ibi nullus finis. uero, ubi nec principium, nec continuatio, nec finis, plane non eſt ſeries. Ergo ſeries caussarum, in qua locum habet regressus in infinitum, eſt ſeries, per hypotheſin, et non eſt ſeries, (per demonſtrata) Quod uero cum ſit contra principium contradictionis, (§. 22.) et impoſſibile, patet, ſeriem cauſſarum, ubi locum habet pro- greſſus in infinitum, eſſe impoſſibilem. Conf. Schloſſeri Commentatio de analyſi contingentium infinita Vitemb. 726. edita.
+
+Poteramus exiſtentiam entis abſolute ne- „ ceſſarii, a mundo diuerſi, breuius quoque ita ,demonſtrare. Hic nexus cauſſarum, quo mun- ,, dus praecipue hic eſt mundus, nec alius, 405.) debet habere rationem ſufficientem, cur praeci- ,ſe hic nexus sit, nec alius, (§. 432.) haec ratio ,, sufficiens aut eſt in ipſo cauſſarum nexu et ſe- ,, rie, aut extra eam. Non poteſt eſſe in ipſo ne- »xu et cauſſarum ſerie, alias cauſſarum nexus et ſeries
+
+[p. 540] 540 Cap. I. ſeries esset abſolute neceſſaria, ſ5- 79.) quod eſſet contra 5. 47. E. debet ratio eſſe extra eam ſeriem. Ergo debet ens exiſtere, quod a caussarum ſerie eſt diuerſum, et in quo ratio continetur sufficiens, cur hic praeciſe, nec alius, nexus adſit. Illud ens, a mundo diuerſum, non poteſt eſſe ens contingens, alias pertineret ad ipſum nexum mundanum, (§. 47.) et non eſſet a mundo diuerſum. Ergo debet ens eſſe necessarium. Ergo datur ens neceſſarium, quod non poteſt non exi- ſtere, quod a mundo eſt diuerſum, et in quo continetur ratio ſufficiens, cur hic mundus exiſtat.
+
+z F— vu ii
+
+5 7m31I.
+
+Datur DEVS. Demonstr. Cum enim detur ens abſolute neceſſarium, a mundo diuerſum, et in quo continetur ratio ſufficiens huius mundi,
+
+### C. 780) illud autem ens neceſſarium, a
+
+mundo diuersum, et in quo continetur ratio sufficiens huius mundi, (§780.) illud autem ens necessarium, a mundo diuersum, et in quo continetur ratio sufficiens, cur mundus exiſtat, idem illud ens ſit, quod uocamus Deum, 778) patet, dari Deum. Hoc argumentum, quod a contingentia mundi desumitur, et cui recentiores plurimum tribuunt, latius diduximus in peculiari diſſertatione Vitembergae 1735. habita. Si placet, breuiſſimis hoc argumentum ita concinna. Hic mundus existit,
+
+[p. 541] De Dei exiſtentia. S41 exiſtit Hic itaque mundus aut ſemetipſum produxit, aut per eſſentiam ſuam ui propria necessario ab aeterno extitit, aut ab alio ente productus eſt. Illud eſt contra s. 363. iſtud eſt contra 5. 477. Ergo mundus eſt ab alio productus. Ergo datur ens aliquod, quod continet in ſe rationem ſufficientem, cur mundus exiſtat.
+
+hil ll VVolfius; ceteris argumentis pro exiſtentia Dei miſſis, unico huic argumento, quod a con- tingentia mundi deſumitur,, plurimum ineſſe roboris; contendit, negatque, ullum aliud argumentum, quodcunque etiam proferatur, poſſe cum ſucceſſu adhiberi, niſi contingentia mundi, fundamenti loco, substernatur. In quo quidem rectene an ſecus fecerit VVolfius, nunc diſquirere non eſt animus. Hoc certe habeo dicere, illum neutiquam, qui argumenti alicuius robur ad examen Logicum reuocat, poſſe ideo incusari Atheiſmi. Quod enim ſi eſſet, quid tandem fieret de illis, qui Vvolfio dixerunt contra? Nonne ipſi de argumenti, pro Dei exiſtentia a VVolfio allati, robore dubitarunt? Nonne maximi quique Theologi etiam nunc argumentum Carteſii, pro existentia Dei prolatum, impu- gnant? Ecquis uero illos ideo eſſe Atheos dixerit? Non is ſtatim theſin negare cenſendus eſt, qui argumentum aliquod, quo theſis corroboratur; in dubium vocat. Quaenam uero illa sint, quae in nonnullis argumentis deſiderauit VVolfius, ſpeciatim nunc indicabo, cum potio-
+
+[p. 542] 542 Cap. 1. 1 4 potiora, quibus Dei exiſtentia confirmari ſolet, argumenta adduxerim.
+
+2 Mo- Veteres ſcholaſtici quinque commonstrabant uias, quibus inſiſti debeat, ſi diuini Numinis ex- iſtentia recte debeat demonſtrari. Prima uia concludebatur a mouentibus inter se subordinatis ad primum motorem, hunc fere in modum. ,Illud, quod mouetur, ab alio mouetur. „ nentur autem res quaedam in hoc uniuerso, „ (per ſenſ. communem) Ergo res illae, quae I ,mouentur in hoc uniuerſo, ab alio mouentur,, Cum autem in iis, quae. mouentur, non possit infinita. fieri progreſſio, deſinendum erit in uno aliquo primo, quod cum reliqua moueat, non tamen ipſum moueatur ab alio, ſed immobile existat. Hoc uero illud ipſum eſt, quod Deum appellamus. Altera uia concluditur a cauſſis, in ſubordinatione agentibus, ad cauſſam aliquam primam et independentem. Cum enim, inquiunt, in cauſſis et agentibus ſubordinatis non poſ- ſit procedi in infinitum, deueniendum eſt ad aliquam primam et independentem caussam, quae Deus eſt. Tertia uia a rerum contingentia ad ens per ſe necessarium concluditur. Quod ipſum eſt illud, quo. uſi ſumus, argumentum, paullo aliter a nobis propositum Quarta uia concludebatur ex eo, quod detur magis et minus perfectum ad ens aliquod, quod omnes habeat perfectiones, idque hac fere ratione: Aliud alio in hoc mundo deprehenditur perfectius- Ex qua graduum differentia conuincitur neceſ- ſario,
+
+[p. 543] De Dei existentia. 43 E- 5 L
+
+ſario, dari revera ens ſumme magnum, ſumme li 1 perfectum et ſumme bonum. Quinta uia ita ill inferebant: Omnia in hoc univerſo bene et t i q
+
+sapienter gubernari, uidemus,. Ergo neceſſe lli n I eſt, detur gubernator omnium rerum, i. e ii DEVS.
+
+Lon Alii argumento a conſenſu gentium deſumto utuntur, de quo videatur Feuerlini disputatio, Alii ad notitias DEI homini innatas confugiunt, alii a morſu conscientiae, ac dolore, poſt peccata patrata, robur argumenti ſui petunt, alii ab ordine ad ordinantem, a finibus rerum in hoc uniuerso ad ens aliquod sapientissimum, quod iſtos fines intenderit, concludunt. Longum foret, omnia haec argumenta uerbosius commemorare, et de cuiusque robore uel imbecillitate diſpicere Quare ea tantum, quae recentiori aetate VVolfius contra argumentum a finibus rerum; ab ordine ad ordinantem de- ſumtum, diſputauit, paucis et breuiſſimis attingemus. Conſtat ſcilicet inter eruditos, inter alia argumenta, quae ad ſtabiliendam DEI exiſtentiam adferuntur, hoc non raro occurrere, quod a finibus rerum in hoc univerſo petitur, hunc in modum: Vbi sunt rerum fines, ibi eſt, qui propter fines agit eosdemque intendit. Atqui rerum omnium in uniuerſo dantur fines, Ergo aliquod ens ſit, neceſſe est, quod propter hos fines agit, quodque eosdem intendit. Hanc argumentationem uitiosi circuli incuſat VVolfius. Qui sic uero ? Audias rationem. Si enim 1 minor
+
+[p. 544] Pi 5
+
+1l v l. Cap. 1. 1 } 1 4 11 minor propoſitio, inquit VVolfius, probanda eſt, quod in hoc neceſſario uniuerso dentur rerum fines, pro- uocabitur necessario ad uſus, quos rerum fines, altera
+
+3ll res alteri in hoc uniuerſo praeſtat. Si uero l probari debet, hos uſus in uniuerſo eſſe fines, tum neceſſario ante euinci debet, dari aliquod ſſ ens intelligens, quod hos uſus intenderit. Finis enim nihil eſt aliud, quam id, cuius gra- ĩt at tia ens intelligens agit, 3720 Adeoque it? ex mente VVolfii, et ex finis definitione non naſ probari poteſt exiſtentia finium, niſi ſit antea ad probata ex- iſtentia entis cuiusdam. intelligentis. rE l l Qui itaque ex exiſtentia finium ens intelli- 5m; gens demonſtrare uolunt, illi, ex mente VV.l-
+
+Dy n fii, revera ens intelligens iam ſupponunt.
+
+Si enim interrogati fuerint, unde constet, dari ens aliquod ſumme intelligens, ſiue DEVM, li tum reſpondebunt: quia dantur fines in hoc &l uniuerſo. Quaeſiti uero, unde conſtet, dari n fines in hoc uniuerſo, non. poſſunt non re spondere, ſi ex genuina finis notione reſpondere uoluerint; quia datur ens intelligens- Haec ex mente. VVolfii. Conf. Commentatio VVolfii de differentia nexus rerum ſapientis et fatalis 3. Item Cantzius in usu philosophiae VVolfianae in Theologia T. I. p.us. Hoc argumentum a finibus rerum de- ſumtum, contra VVolfium defendit B. Vucherer in peculiari dissertat. Ienae 1725. habita. Alterum argumentum, quod emendatione opus habet, ex VVolfii ſententia, hoc eſt: Vbi ordo, ibi ordinans, in hoc mundo eſt ordo, E. Maio-
+
+EX-
+
+[p. 545] De Dei exiſtentia. 545 1 rem ita limitandam putat: ubi ordo contingens, ibi ordinans. Adeoque hoc argumentum, regat), quicquam probare, niſi antea mundi contingentia fuerit euicta, Alia, ne longus ſim, mitto. Hi- ſtoriam huius controuerſiae, in quam VVolfius, ob argumenta pro exiſtentia Dei allata, implicitus fuit, legas in Cantzio p. 109. (49.
+
+Carteſius ab idea entis infiniti siue perfectis- ſimi, eaque innata, ſumſit probationem existentiae DEI. Quod uero argumentum uix credibiles motus uibasque excitauit. Mens autem Carteſii haec erat:,, Ens, quod perfectiſſimum ,concipio, omnes habet perfectiones Neceſ- ,ſario et actu exiſtere eſt perfectio. Ergo ens, ,quod perfectiſſimum concipio, neceſſario et actu „ existit. Vid. Cartesii Philoſ prima, meditat. 3. „ Conf. Ruckeri diſſertatio de hoc argumento le- „ nae habita. Contra hoc argumentum eruditi uel hoc maxime monuerunt, quod enti, quod perfe & issimum concipitur, conceptus quidem neceſſariae et actualis exiſtentiae tribui debeat, exinde tamen non ſequi, quod illud ens neceſ- ſario et actu etiam extra mentem existat. Alii, atque in his Leibnitius et VVolfius, stringere et valere hoc argumentum, ſibi perſuadent, dummodo entis perfectissimi poſſibilitas antea recte demonſtrata ſit. Conf. VVolfii commentatio de differentia nexus p. 122. Quare poſſibilitatem entis perfectissimi nonnulli ita probant: Cuiuscunque nulla contradictio demonstrari poteſt, illud eſt et manet tamdiu possibile, do-
+
+Mm nec [p. 546] iſt i; ã Cap. I. nec demonſtretur contradictio, 43 Atqui nulla contradictio in exiſtentia entis perfe- &ctissimi demonſtrari poteſt, ergo ens perfe &tissimum eſt et habetur tamdiu pro possibili, donec demonſtretur contradictio, quam uero putant ad Graecas Calendas demonstratum iri. Alii ita: O) Ens perfectiſſimum eſt, quod omnes poſſidet perfectiones, ſiue reali tates. (2) Vbi omnes realitates siue perfectiones, ibi non locum habet defectus siue ne- gatio ulla realitatis, Q) ubi non locum habet negatio, ibi non locum habet contradictio, (quia omnis contradictio includit ſuo conceptu nega tionem, (5. 200 Vbi nullum locum habet contra- dictio, ibi adeſt poſſibilitas (§. 49.) Ergo Vll ens perfectissimum eſt poſſibile. Si itaque ens perfectiſſimum eſt poſſibile, pergunt, ſequitur, quod ens perfectissimum eo ipſo, dum posſibile eſt, etiam actu et neceſſario exiſtat. Atqui eſt posſibile (per demonstrata) Ergo etiam actu et neceſſario existit. Consequentiam ita probant: Ens perfectissimum eſt id, quod omnes habet perfectiones. Actu et neceſſario exiſtere eſt perfectio. Ergo, ſi ens perfectissi mum eſt posſibile, etiam debet actu et necessario ex- istere. Si enim non actu et necessario exi- ſteret, tunc deeſſet enti perfectiſſimo aliqua perfectio, (actualis enim exiſtentia eſt perfectio) adeoque eſſet ens perfectissimum, (per hypothesin) et non eſſet ens perfectisſimum, quia ipſi adhuc deeſſet aliqua perfectio, scilicet
+
+[p. 547] 7] 4 z
+
+De Dei existentia. 547 3 licet actualis exiſtentia Leibnitius eodem fere modo hanc argumentationem proponit.,, Entis infiniti, inquit, poſſibilitatem nihil potest impedire. Poſſibilitas entis neceſſarii includit eius „ existentiam.
+
+Ergo ens infinitum, idque neceſſa- rium actu existit. Vid. Monadolog. I. 44,
+
+Qui hoc argumentum, tanquam debile, reiiciunt, has, ſi recte memini, formant obiectiones. (a) A poſſe ad eſſe uitioſe concluditur; 54) Reſpondent defenſores huius argumenti, a ſumma perfectione ad actualem existentiam hic conclu di. (3) Excipiunt, in hoc argumento id tantum ſequi: Si ens perfectisimum eſt poſ- ſibile, eiusmodi ens eſt poſſibile, quod omnes habet perfectiones, nondum uero actu, ſed in poſſibili- tate, quodque adeo etiam possibilem existentiam habet. Respondent: Possibilis exiſtentia non eſt perfectio, idque, quod non nisi possibilem existentiam habet, imperfectius eo eſt, quod gaudet actuali exiſtentia. Ex instituto hoc argumentum, quod uocant argumentum a priori pro exiſtentia DEI, pertractauit Hartmannus, Profeſſor Marburgenſis, in peculiari diſſertatione, de hoc argumento, ante paucos annos, Marburgi habita. Conf. Cantzius in Iurisprudent. Theologica. p. 12.
+
+Non ab inſtituto noſtro alienum erit, hoc loco quoque Cel. Syrbii; argumentum, quod, exiſtentiam DEI demonſtraturus, adhibet, Mma paucis
+
+[p. 548] 548 Cap. I l paucis attingere. Deſumit autem illud a In paucis attingere. desiderio hominis infinito, ita ratiocinatus: In homi- l ne datur deſiderium infinitum.,, Hoc „ deſiderium, omnibus hominibus innatum, eſt naturale. Ergo non poteſt eſſe frustraneum. „ Si non eſt Ii i ,,frustraneum, ſequitur, ut illud, ad ,, quod ſe re- I fert, exiſtere debeat. Refert autem ,, hoc desiderium ſe ad bonum infinitum, hoc est, „ DEVM, ergo DEVS existit.
+
+Conf. Philoſoph. prima p. il et dissertatio eius de deſiderio hominis infinito, Ienae habita. Jil
+
+Superſunt argumenta phyſica, ad quorum claſſem referuntur ea, quae ab admirabili ſtructura et pulchritudine huius uniuerſi pe- tuntur, item, quae ex artificioſiſſimo corporis humani contextu et fabrica deſumuntur, Hoc argumentum, quod ab artificioſiſima corporis humani coagmentatione petitur, pluribus perſecutus eſt Christ. Hebenſtreit in pecul. diſſertat. de corporis humani machina, diuinae ſapientiae et prouidentiae te- ſte. 17725. Fuerunt quoque, qui ſigillatim ex ſi ſingulis membris argumentum deduxerunt, e. gr. Sturmius exiſtentiam Dei ex ſtructura oculi probauit, Hambergerus ex inſpectione cordis, Schmid lli ex aure, Vucherer e cerebro; Dona ex structu- ra manus humanae, etc. Conf. Buddeus de Atheismo et ſuperſti- tione. §. 782.
+
+[p. 549] De Dei exiſtentia. 549 5. 782. Quamuis uero ueritas haec, datur Deus, tam euidens ſit, tamque clara, nihil ut euidentius clariusque eſſe possit, fuerunt tamen omni tempore, qui eo, uel uecordiae, uel impietatis, ſunt progreſſi, ut hanc poſitionem, et in dubium uocare, et negare prorſus, non erubuerint. Eiusmodi homines, qui negant, dari Deum, dicuntur ut Athei, adeo, Athei- ſmum in negatione exiſtentiae Dei conſiſtere, pateat, 1.
+
+Atheiſmi tria conſtituunt genera. Primus
+
+Atheiſmus eorum eſt, qui prorſus, Deum exi- ſtere, negant. Secundus eorum, qui mundum negant a Deo factum eſſe, etsi DEVS ali- quis existat. Tertius eorum eſt, qui ducunt, mundum a Deo productum eſſe, non uoluntate ſua libera, ſed neceſſitate naturae. Conf. Cantzius in uſu philoſ. in Theolog. Tom. II. p. 322. Quaeritur uero: Num exſtiterint unquam, aut reuera dentur Athei?
+
+Ad quam quidem quaeſtionem prius diſtin- cte reſponderi non potest, quam, quotuplices ſint Athei, fuerit explicatum. Distinguuntur (a) Athei in theoreticos et practicos. Practici uocantur illi, qui ita uiuunt, ita agunt, ut uita ſua demonſtrare videantur, nullum ſe r- Mm 3 credere
+
+[p. 550] 550 Cap. 1. 1 credere DEVM. Tales athei ſunt omnes impii, quorum numerus iniri non poteſt. Athei theoretici ſunt, qui docent aut credunt, non exiſtere DEVM. Quales num dentur, decidi fere non poteſt, niſi antea uaria Atheorum theoreticorum genera fuerint enumerata. Alii ſcilicet Athei theoretici ſunt ſyſtematici u alit perſonales. Perſonales Athei ſunt, qui quidem non docent in ſcriptis publicis, non exiſtere DE V.M, interius tamen et in mente sua credunt ſibique perſuadent, non existere DEVM. De his uero Atheis ſi quaeſtio in- ſtituitur, num dentur? facile intelligitur, difficulter reſponderi posse Ecquis enim eſt, qui animos hominum interioreſque animarum latebras perſpexerit Hoc certe affirmari posse uidetur,, quod ſi etiam fuerint, qui ſibi in mente ſua. perſuadeant, non dari llivs DEVM, uix poſſe illos ſerio et ad tempus vitae tale quid ſibi eiusmodi homines per- 5 ſuadere. Veritas enim haec: Datur Deus, ll eſt nimis manifeſta, et conſcientia perpetuo reclamat, aliaque docet omnia, quam quae uana fert perſuaſio. De Atheis. uero ſyſtematicis, i. e. eiusmodi Atheis, qui, in publicis scriptis Atheiſmum propoſuerunt, ſi ſer- mo inſtituitur, dubitari non poteſt, eorum plures, quam optauerint cordatiores, reperiri. Magna tamen hic cautio et prouiſio adhibenda eſt, ne in Atheiſmo, aliis imputando, nimis ſimus liberales Vix enim credibile eſt, quanta l ual
+
+[p. 551] * De Dei exiſtentia. 551I quanta inde in rempublicam literariam, uel sacram, importentur damna. Atheorum autem, qui uocantur ſyſtematici, alii ſunt directi, alii indirecti. Illi totidem uerbis ne- gant, dari DEVM; hi per ambages, aliisque doctrinis proferendis, declarant, ſe negare existentiam DEI, Et directorum et indirectorum Atheorum plurimos recenſet Ienckius Thomaſius in hiſtoria Atheiſmi. Item Buddeus in theſ. de Atheiſmo et ſuperſtitione. Qui de Atheiſmo scripserunt, plures ſunt, quam ut a me possint recenseri, allegati a Cel. Fabricio in syllabo scriptorum de ueritate religionis Chriſtia- -nae,.
+
+Aliud adhuc hominum genus eſt, quod itidem circa DEI exiſtentiam uehementer errat. Quemadmodum ſcilicet Atheiſmus existentiam DEI prorſus uult ſublatam, ita ſuperſtitio rebus humanis diuini quid attribuit, et in mul- tiplicandis Diis peccat. Diſputatum eſt recentius, num superstitio peior ſit Atheiſmo, numque Atheismus, an ſuperſtitio plus inferant damni ciuitatibus reique publicae Qui cum Bailio affirmant, ſuperſtitionem plus adferre damni, quam Atheiſmum, has potiſſimum rationes adferunt. (a) Superstitiosorum numerum multo ampliorem eſſe Atheorum turba. (3) Superstitionem totum animum occupare, haud quaquam reclamante conscientia,- uel eius ſtimulo urgente.. Quod contra fieri, Mm
+
+[p. 552] 552 Cap. II. De eſſentia et attributis 1 fieri, putant, in Atheis, quorum nemo unquam adeo induruerit, quin, redeuntibus interuallis, a ſuo ipſius animo fuerit obiurgatus Qui uero, Atheismum peiorem eſſe ſuperſtitione, exiſtimant, ita rationes ſubducunt: Satius eſt, religione duci aliqua, licet ſuperſtitioſa, quam nulla, ſuperſtitioſum quippe, ſi nulla alia re, certe tamen metu stulte in officio boni ciuis contineri. Difficile eſt, in quaeſtionibus comparatiuis certi quid determinare. Negare tamen non poſſum, mihi hanc controverſiam ſemper perinde eſſe uisam, ac ſi quis quaereret: Num satius ſit, ſe gladio, an cultello aliquo ſubtili interficere? Conſ. de hac controuersia Buddeus in theſibus de Atheismo et Superstitione.
+
+SECT. II. DE
+
+ESSENTIA ET ATTRIBVTIS
+
+IElL]
+
+n;.m DEI IN GENERE. mnm hy MiI ũ-
+
+5 783, 7 Essentiam rei alicuius, diximus ſupra I (§. 66.) eſſe id, per quod res aliqua praeciſe haec res eſt, et non alia, quodque eſt primus rei conceptus, unde cetera, quae rei competunt, fluunt et deriuantur.
+
+Eſe- l
+
+[p. 553] Dei in genere 1 553 Eſſentia itaque Dei erit, qua eius existentia eſt ſimpliciter et abſolute neceſſaria. Per exiſtentiam enim, ſimpliciter et absolute neceſſariam, Deus eſt Deus, 778 et ex hac ablata neceſſitate, exiſtentiae diuinae cetera, quae Deo tribuuntur, facili nexu de- ducemus,
+
+Si de eo diſceptatio inſtituitur, quaenam ſit Dei eſſentia, de nulla alia re disputatur, niſi de eo, quaenam radix attributorum Dei ſit conſtituenda. Alii independentiam, alii infinitatem, intellectum perfectissimum alii, rurſus alii aliud quid pro radice attributorum ſumunt. Hic itaque quaeritur, quinam Dei conceptus primus ſit praeferendus alteri. Atque adeo omnis haec controuersia philoſophica et logica eſt Nos id quod Deus abſolute neceſſario exiſtit, pro - conceptu Dei primo aſſumemus, atque ex eo quidem conceptu cetera omnia quae Deo competunt, de- -ducemus.
+
+§. 784. Attributa Dei uocamus quaelibet Dei praedicata, quae de Deo poſſunt dici, ſiue, attributa Dei ſunt ea omnia in Deo, quae ab ipsius eſſentia ſeparari non poſſunt.
+
+Mm; Attri-
+
+[p. 554] S5 Cap. II. De eſſentia et attributis 1 Attributa Dei, ſiue ea, quae de Deo praedicantur, quaeque ex primo Dei conceptu ſeu eſſentia nece ssario ſequuntur, neutiquam ab eſſentia diuina realiter diſtinguuntur, neque a ſe inuicem reuera differunt. Quicquid enim in Deo eſt, illud eſt ipſe Deus, neque eorum, quae in Deo ſunt, unum ab altero poteſt ſeparari. Formaliter uero differunt attributa Dei, i. e. ſecundum noſtrum concipiendi modum. Cum enim mens humana, suis, at exiguis,. limitibus circumſcripta, iis uiribus non polleat, ut diuinitatem uno. obtutu perlustrare et comprehendere queat, intelligitur, cur cogitatione noſtra eſſentiam ab attributis, unum autem attributum ab altero, diſtinguamus.
+
+Attributa Dei, ſiue praedicata illa, quae de Deo enunciantur, ſunt uel poſitiua, ſiue affirmatiua, uel negatiua. Affirmatiua e. gr. sunt omniſcientia, ueracitas, benignitas ete. etc. ete. i
+
+Negatiua uero sunt e. gr. independentia, immutabilitas, indeſtructibilitas, infinitas, etc. Haec uero attributa negatiua non ideo dicuntur negatiua, quod in re ipſa negationem inferant, ſed quod, ob intellectus humani imbecillitatem, terminis ac ideis negatiuis hic uti debeamus. At- tributa poſitiua porro diſtinguuntur in attributa abſoluta, quae de Deo praedicantur, ſine reſpectu ad mundi exiſtentiam, e. gr. infinitas, immensitas, independentia; et reſpectiua, quae iam ſupponunt mundi exiſtentiam, e. gr. omnipraeſentia, miseri- cordia etc. etc. Supereſt
+
+[p. 555] Dei in genere. 555 Supereſt alia attributorum Dei diſtinctio Di- ſtinguuntur ſcilicet ea in attributa ἀνενέργητα siue quiescentia, quae in ſuo conceptu nullam inferunt operationem.
+
+#### e. gr. aeternitas, et operatiua ſua
+
+ἐνεργητικά, quae operationem aliquam in idea ſua inuoluunt, ut, omniſcientia, omnipotentia etc. Nos ita nunc proponemus omnia Dei attributa, et poſitiua et negatiua, et abſoluta et reſpectiua, et quiescentia et operatiua, prout methodus naturalis id poſtulat, omnia ex neceſſitate in existendo deducturi.
+
+5. 58 Deus non opus habet ui entis alterius extra se ad exiſtendum. Demonstr.
+
+Cum enim Deus ſit ens abſolute neceſſarium, 779) ens autem abſolute x neceſſarium rationem ſufficientem, cur exi- ſtat, in ſe et ſua eſſentia habeat, ſ§. ;79) conſequens eſt, ut Deus exiſtat, quamuis ens aliud ab ipſo diuerſum, nullum detur. Atque adeo Deus ui alterius entis extra ſe non opus habet ad exiſtendum.
+
+§. 786. Ex quo per immediatam conſequentiam fluit, quod Deus ui propria exiſtat, ſibique ipſe ſufficiat ad exiſtendum. §. 787.
+
+## [p. 556] Cap. II. De eſſentia et attributis
+
+5 ę. Ens a ſe dicitur illud, quod non indiget ui entis alterius extra ſe ad exiſtendum, ſiue quod idem eſt, quod ui propria exiſtit.
+
+§. 788. Deus eſt ens a ſe. Demonstr. Cum enim Deus ui propria exiſtat, nec opus habeat alterius cuiusdam entis ui ad exiſtendum, ũ. 785. 785) eiusmodi autem ens dicatur ens a ſe, (5787.) patet Deum eſſe ens a ſe. Dum autem Deum dicimus ens a ſe, non id ita accipi uolumus, ac ſi Deus eſſet cauſſa ſui ipſius, ſibique ipſe exiſtentiam largitus eſſet, ſed eatenus dicitur ens a ſe, quatenus ui propria et per eſſentiam ſuam neceſſario ab aeterno exstitit. §. 789.
+
+Deus eſt ens independens. Demonstr.
+
+Eiusmodi ens, quod in nullo alio extra ſe habet rationem sufficientem, cur exiſtat, dicitur independens, (5538) Cum uero Deus ſit ens abſolute neceſſarium, (§. 738.) ens autem abſolute neceſſarium non habeat rationem sufficientem, cur existat,
+
+[p. 557] Dei in genere. 557 existat, in alio ente extra ſe, ſed in ſeipſo ũ: 179) conſequens eſt, ut DEVS ſit ens independens.
+
+§. 790. DEVS eſt immutabilis. Demonſtr. Cum enim ens abſolute neceſ- ſarium ſit immutabile, aliterque eſſe non poſſit, (§. 76.) DEVS autem ſit ens abſolute neceſſarium, (§. 778) intelligitur, DE- VM eſſe immutabilem.
+
+5. 79I Aeternum dicitur, quod nec initium, nec finem habet exiſtendi.
+
+§. 792. A Ens, quod abſolute neceſſario exiſtit, debet eſſe aeternum. Demonstr. Quodcunque enim nec initium, nec finem habet existendi, illud eſt aeternum. 791) Atqui ens, quod abſolute neceſſario exiſtit, nec initium nec finem habet exiſtendi. Ergo ens, quod abſolute neceſſario exiſtit, eſt aeternum Ens enim, quod abſolute necessario existit, ita existit, ut oppositum, ſcilicet non- exiſtentia, inuoluat contradictionem, adeoque ſit impoſſi
+
+[p. 558] 558 Cap. II. De eſſentia et attributis poſibilis. 5. 46 Fac ergo, abſolute ne- cessarium ens habere initium exiſtendi, tum concedatur neceſſe eſt, abſolute neceſſarium aliquando non exſtitiſſe, adeoque ens abſo- Lute necessarium foret ens abſolute neceſſarium, (per hypothesin) et non foret ſimul ens abſolute neceſſarium, quia etiam poſſet non exiſtere. Quod uero cum ſit contra primum principium contradictionis, (§. 22.) intelligis, ens, quod abſolute neceſſario exiſtit, non poſſe habere initium exiſtendi. Fac porro, ens abſolute neceſſarium habere finem exiſtendi, tum rurſus concedatur, neceſſe eſt, ens abſolute necessarium aliquando poſſe non - existere, quod rurſus pugnat cum indole et natura entis abſolute neceſſarii, quippe quod ita exiſtit, ut oppoſitum, ſcil non exiſtentia ſit impossibilis
+
+5.- 793- Deus eſt aeternus. Demonſtr.
+
+Cum enim DEVS ſit ens abſo- Lute neceſſarium, (§. 77.) ens autem abſolute neceſſarium debeat eſſe aeternum, 799) palam eſt, Deum eſſe aeternum, A 1 5.794. 1
+
+[p. 559] Dei in genere. 559 5. 794: Duratio D E I eſt immen ſurabilis. Demonſtr. Cum enim duratio Dei ſit aeterna, ũ 793.) aeternum autem illud ſit, quod nec initium, nec finem, exiſtendi habet, 791.) conſequens eſt, ut aeternum nullum habeat defectum realitatis, adeoque nullos limites. 3155 Quodcunque uero eſt illimitatum, illud mensurari non poteſt, quia numerus ille, quoties menſura in toto contineatur, nunquam poteſt aſſignari, quod tamen ad 7 mensurari requiritur. (ꝗi. æ60) Ergo aeternum et duratio Dei aeterna eſt immensurabilis.
+
+§. 795. Ens primum dicitur, ante quod non exiſtit aliud. &Ens ultimum uero appellatur, poſt quod non exiſtet aliud.
+
+§. 796. DEVS eſt ens primum et ultimum. Demonstr. Cum enim DEVS ſit aeternus, (§. 793.) adeoque nec Initium, nec finem, ex- iſten-
+
+[p. 560] 560 Cap. II. De essentia et attributis iſtendi habeat, (§. 791.) perſpicuum eſt, nihil exstitisse prius, quam DEVS exstitit, siue ante DEVM non exiſtere quicquam potuisse, item, poſt DEVM non exiſtere quicquam poſſe. Cum uero eiusmodi ens, ll H ante quòd non exſtitit aliud, dicatur primum, ũ 795) et poſt quod non exiſtet aliud, uocetur ultimum, 755) DEVM et primum et ultimum ens eſſe, patet. " 1. Hoc quoque ſenſu DEVS appellatur a etw. §. 797.
+
+DEVS non poteſt eſſe ens compoſitum. Il Demonstr. Cum enim DEVS ob aeternitatem nec initium, nec finem, exiſtendi ha- bere queat, (§. 793.791.) adeoque nec oriri, nec interire, ens autem compositum per combinationem partium oriri, et per eĩirundem dissolutionem interire et diuidi queat, 25:) conſequens eſt, ut DEVS non _uumu_—um—=; poſſit eſſe ens compoſitum.
+
+5 simplex. DEVS eſt ens 798
+
+Demonſtr. Cum enim DEVS non ſit ens compositum, (§. 797.) omne autem ens ſit uel
+
+[p. 561] Dei in genere. 561 uel compoſitum, uel ſimplex, (§. 267.) re- E— linquitur nihil aliud, quam ut, Deum ens ſimplex eſſe, aiamus.
+
+c. 799. Omnia itaque ea, quae de ente ſimplici ſupra, ſ5. 269. 276.) praedicauimus, de DE O quoque poſſunt enunciari. §. 800. 10 DEVS non potest habere limites. Demonstr.
+
+Cum enim omne id, quod poſſidet limites, debeat eſſe ens contingens, (§. 321.) DEVS autem non ſit ens contingens, ſed ens abſolute neceſſarium, (§. 778.) conſequens eſt, ut DEVS non poſſit habere limites.
+
+ò B3oI. DEVS eſt ens infinitum. Demonstr. Cum Deus non poſſit habere limites, (§. 800.) eiusmodi autem ens, quod non habet limites, ſit ens infinitum, (§. 323.) euidens eſt, Deum eſſe ens infinitum.
+
+Nn 5. 802.
+
+[p. 562] Cap. II. De eſſentia et attributis
+
+§. 802. Ex quo apparet, Deum debere habere omnes perfectiones actu, quae in ipſo ſunt poſſibiles. Demonſtr. Cum enim Deus ſit ens infinitum, 801) ens autem infinitum debeat actu habere omnes realitates uel perfectiones, quae in ipſo ſunt poſibiles, ũ. 327.) liquet, DEVM debere habere omnes perfectiones actu, quae in ipſo ſunt poſibiles.
+
+Alii hoc theorema ita enunciant: DEVS Do debet habere omnes perfectiones compossibiles, quae e cum eſſentia eius et reliquis attributis non pugnant. Conf Bülfingerus in Dilucidat- 5. 497. Memini, ita quoque ſolere demonſtrari infinitatem DEI: „ Aut DEVS tantum quas- ndam habet perfectiones, aut nullas, aut ,, omnes compossibiles. Nullas habere non ,poteſt: Eſt enim ens abſolute neceſſarium, ,immutabile, aeternum etc. Nec quasdam ,habere tantum poteſt perfectiones. Si enim ,,habere deberet quasdam tantum perfectiones ,,tum ratio adeſſet ſufficiens, cur quasdam, non ,omnes, poſſideret perfectiones. ſ- 32) Aut ique ratio sufficiens, pergunt, cur quaedam (tantum, DEO competant perfectiones, eſt ,, in ,DEO ipſo, aut extra illum. (5. 330 Si ,ratio
+
+[p. 563] Dei in genere. 56 3 ,,ratio ſufficiens, cur quaedam tantum compe „ tant DEO perfectiones, eſſet extra DEVM, ,tum dependeret DEVS ab alio, $ 338) quod est contra S. 789. Si ratio suffici.2ans. cur ,,D E O competant quaedam tantum perfectio- „ nes, eſſet in DEO ipſo, tum in illo deprehenderetur illa ratio, aut ꝗuatenus ens ſt, ,,ut quatenus ens eſt, ,, aut quatenus ens abſolute necessarium siue „ ens a ſe eſt. Non quatenus ens eſt, quia ,, essentia entis, ut entis, generatim considerata, , infert tantum possibilitatem, ſ5. 67) poſſi- ,bilitas autem entis non determinat perfe- „ ctionum numerum, sed maius et minus „ itemque pauciores et plures perfectiones ., admittit. Nec ratio sufficiens, cur DEO „ competant quaedam tantum perfectiones, ,,non omnes, latere poteſt in DEO, quare- ,BUS conſideratur, ut ens absolute necessa- „ rium, et ut ens a ſe. Nam vt ens a ſe ,t abſolute neceſſarium rationem ſuae exi- ,, ſtentiae habet in ſua eſſentia, (§. 777.) adeo- ,, que, quod per eſſentiam ſuam poſſibile eſt, ,,habet actu. Vbi uero limites tibi conce- „ petis, non omne id, quod per eſſentiam »entis a ſe eſt poſſibile, habet exiſtentiam. (5. 313 Cum itaque hoc aſſertum: Deo com- Petunt quaedam perfectiones: omni deſtitu- ,atur ratione ſufficienti, id autem, quod omni „ destituitur ratione sufficienti, ſit nihil, (§. 33.) consequens eſt, ut certus numerus, et deter- „ minatus gradus quarundam tantum perfe-
+
+Nno 2 ,ctio-
+
+[p. 564] 564 Cap. II. De eſſentia et attributis „ tionum in DE O ſit inter non- entia referendus: ,, Relinquitur ergo, ut affirmemus, Deum omnes „ habere realitates ſiue perfectiones compoſſibiles, ſiue, quae cum eius eſſentia et attri- ,,butis reliquis non pugnant. Vid. Bülfingerus in Dilucidat. 408. item Canzius in Vſu Philoſoph in Theologia. T. I. p. m. i47.
+
+il 5-803. Deus non modo omnes habet perfectiones compoſſibiles, (ſ. so0.) ſed easdem quoque possidet abſolute et ſine gradibus. E l Demonſtr. Cum enim DEVS ſũit ens infini- ſ tum, (ſ. 80I) ens autem infinitum omnes l AO0ſibiles perfectiones et realitates ſine ullo gra- du possideat, (§. 328) in manifeſto eſt, Deum omnes poſſibiles perfectiones non in certo aliquo et determinato gradu poſſidere, ſed abſolute et ſine gradibus.
+
+DEO nihil poteſt concipi maius. Demonstr. Cum enim DEVS nullos habeat limites, (§. 800.) et ſit ens infinitum, CO. 801) eo autem, quod limitibus deſtituitur, nihil poſſit concipi maius, 322.) con- ſequens auidl
+
+[p. 565] Dei in genere. 565 ſequens est, ut DEO nihil poſſit concipi maius.
+
+**§5**
+
+8055.
+
+Immenſitas DEI uocatur incommensurabilitas perfectionum diuinarum.
+
+j 6 506. Deus eſt, qua perfectiones ſuas, immenſus.
+
+Demonſtr. Cum enim DEVS, ob infinitatem ſuam omnes compoſſibiles perfectiones posſidet, (§. 802.) nihilque eo concipi maius poteſt, (§. 804.) manifeſtum eſt, DEO certam quandam et determinatam magnitudinem perfectionum attribui non poſſe. Cum uero, quicquid non habet magnitudinem, cuius ratio ad aliam datam homogeneam magnitudinem poteſt inueſtigari, id mensurari non poſſit, (§. 260.) intelligi poteſt, perfectiones diuinas menſurari non poſſe. (335.) Quae incommenſurabilitas perfectionum diuinarum cum conſtituat D EI immensitatem, ũ 805.) DE VM immenſum eſſe, liquet.
+
+Nn; õ. 807.
+
+[p. 566] 366 Cap. II. De eſſentia et attributis
+
+5o Eſ tantum unicus DEVS, nec possunt plures Dii eſſe, quam unus. Demonstr. Cum enim Deus ſit ens infini- tum, (§.801) duo autem entia infinita nec dentur, nec dari poſſint, ũ. 334:) conſequens eſt, ut tantum unicus ſit Deus, nec poſſint ꝑlnres Dii eſſe, quam unus. Ita
+
+Veteres uaria pro unitate DEI argumenta adhibebant, quorum quaedam adducemus. (a) „ Ita argumentabantur: DEVS eſt ens ſimplici- ,ter pei ctissimum. Ens simpliciter perfe- ,tissimum eſt, quod simpliciter omnia entia ,, superat.,, Repugnat autem, rem aliquam simpliciter omnes res reliquas perfectione ac boni- tate ſuperare, et tamen non unicam eſſe. Ita enim ſimul omnes res et non omnes res bonitate et perfectione superaret. Omnes quidem per illud, quod eſt ſimpliciter optima ac perfectiſſima. Non omnes per hoc, quod non eſt unica, ſed habet aequalem ſibi ipſi alteram rem, quam non „ excedit. Alterum argumentum hoc eſt:,, Deus eſt ſumme magnus. Ergo eſt unus. Conſequentia probatur. Quia ſumme magnus dici- , tur, cui nihil adaequatur,. Tertium argumen- ,, tum huc redit: Si eſſent plures Dii, sequeretur, nullum eorum esse omnipotentem. Ratio Confe haec 1
+
+[p. 567] Dei in genere. 567 haec eſt: Si ex pluribus Diis unus creaturam aliquam producere decreuiſſet, aut alter poſſet id impedire, aut minus. Si non poſſet alter id impedire, non esset omnipotens. Si autem poſſet impedire, tum is, qui creaturam aliquam producere uellet, non eſſet omnipotens, quia non poſſet efficere id, quod uellet. Plura uide in Hebenſtreitii Theologia naturali p. 465. item Steinwehr in peculiari diſſertatione, ante paucos annos Lipſiae habita, qua argumenta pro unitate D E I examinantur. Conf. Canzius in Vſu Philoſoph. in Theologia, ꝑ. i151,
+
+õ- 808.
+
+Omnia, quae Deo poſſunt ineſſe, inſunt ipſi ſine TE MPORIS PROGRESSV et SVCCES- SIONE. 1 Demonstr. Cum enim. DEVS ſit ens infinitum, (§. 801.) ens autem infinitum omnis Successionis ſit expers, (§. 329.) conſequens eſt, ut omnia, quae Deo poſſunt ineſſe, inſint ipſi ſine temporis progressu et ſine omni successione. Nn4 1.
+
+[p. 568] 568 Cap. III., De intellectu diuino CAP. III.
+
+DE r INTELLETV
+
+DIVINO min ATTRIBVTIS CVM IPSO TE CONNEXIS. INi
+
+I ꝗ. 809.
+
+DEVS gaudet intellectu. Demonstr.
+
+Cum enim D EO omnes, quae f ipſi ineſſe poſſunt, perfectiones actu inſint, aI 3802.) intellectus autem, per quem ens ali- 5 3v quod res ſibi diſtincte repraeſentat, (§. 549.)
+
+ex omnium ſententia, ſit perfectio, dubitari non poteſt, DEVM gaudere intellectu, Alii ad hoc theorema demonſtrandum ſequentes adducunt poſitiones: In DEO continetur ratio sufficiens, cur hic mundus potius, quam alius, ad exiſtentiam peruenerit. 778.) Iam uero plures mundi, ſiue plures rerum connexiones ſunt poſſibiles, quam hic mundus, ſiue haec rerum connexio, ob contingentiam 477. demonſtratam. Ergo ratio sufficiens adeſſe debet, cur DEVS hunc mundum, nęc potius alium, produxerit. (§. 32.)
+
+[p. 569] et attributis eum ipſo connexis. 569 t Si dixeris: Produxit hunc mundum pra? ceteris omnibus poſſibilibus, quia produxit, tunc ridicule reſpondes, nec rationem ſufficientem allegas; ſin dixeris, produxit hunc mundum prae ceteris mundis poſſibilibus ideo, quia uoluit eum producere, tum aliquid dicis, ſed nondum rationem ſufficientem allegas, in qua plene poſſim acquiescere. Vt taceam, hanc reſponſionem deducere facile quemquam poſſe ad absurdissimum, diuina sapientia prorſus indignum. Restat itaque, ut dicas, DEVM hunc mundum ideo produxisse, quia hunc mundum finibus ſuis conuenientissimum di- ſtincte repraesentauit ſentauit. i Quod cum inferat intellectum, 549) DEVM gaudere intellectu, patet, §. 810.
+
+DEus gaudet intellectu absolute perfectissimo. 1 Demonstr.
+
+Cum, quicquid DEVS poſſidet, id poſſideat ipſe non in certo quodam et determinato gradu, ſed abſolute, et ſine gradibus. (§. 803.) Deus autem intellectum habeat, 809.) Lucidissime apparet, Deum non eiusmodi gaudere intellectu, quo concipi poteſt maior, ſed intellectu, omnes gradus Nns
+
+[p. 570] 570 Cap. III. De intellectu ٢٠ diuino . gradus prorſus reſpuente, et abſolute per- fectissimo. §. 811.
+
+Dei intellectus non eſt facultas, ſed eſt actus r4 m—
+
+Demonſtr. Cum enim facultas ſit poſſibilitas agendi, ꝗ. 298.0 DEO autem omne, quicquid ipſi ineſſe poteſt, actu inſit, 82) irr in aprico eſt, intellectum DE non eſſe habendum pro facultate repraeſentandi, ſed pro actu. §. 812.
+
+DEVS non ea modo, quae actu ſunt, et reuera fiunt, ſed OMNIA quoque POSSIBILIA ſibi reprae- ſentat. Demonſtr. Cum enim DEVS gaudeat intellectu perfectiſſimo, 810.) ad intellectum autem perfectissimum requiratur, ut omnia possibilia ſibi repraeſentet, (§. 550.) certum eſt, DEVM non ea modo, quae actu ſunt, et reuera fiunt, ſed omnia quoque possibilia ſibi repraesentare.
+
+Alii [p. 571] et attributis cum ipſo connexis. 5I Alii hoc theorema ita enunciant: Deus omnes mundos poſſibiles ſibi repraeſentat. Fuerunt, qui hac locutione offenderentur. Fuerunt, qui illam reiiciendam, ut periculoſam, putarent. At nihil hic uideo ueneni, Concediſne, DEVM plura ſcire, quam quae hoc mundo compre- henduntur? Fieri enim alia omnia poſſent, quam quae nunc fiunt, fieri poſſent in alio nexu. Concediſne, plura ad exiſtentiam poſſe perduci quam quae perducuntur? Putaſne haec, quae adhuc ad exiſtentiam in alio nexu aliaque cauſſarum ſubordinatione perduci poſſunt, latere DEVM? Iam uero cum congeries rerum, per cauſſas et effectus connexarum, dicatur mundus, (§. 396.) quidni, DEVM omnes poſſibiles mundos ſibi repraeſentare dicemus? Sin haec locutio tibi fuerit ſuſpecta, dic: DEVS non ea modo, quae exiſtunt, et reuera fiunt, ſibi repraeſentat, ſed ea quoque, quae exiſtere poſſunt, quaeque, ſub hac illaue conditione, in hoc illoue nexu, futura eſſent; accuratissime nouit. Idem dicis, mutatis tantum uerbis.
+
+§. 813.
+
+DEVS non omnia modo poſſibilia ſibi repraeſentat; ſ. si2.) Sed ea quoque possibilia DISTINCTIS- SIME TISS IME et ADAEQVAnouit. Demonstr.
+
+[p. 572] 572 Cap. III. De intellectu diuino 1 Demonstr. Cum enim Deus gaudeat arm intel- Iecta perfectissimo, (§. 810.) ad intellectum uero perfectissimum requiratur, ut omnia possibilia distinctissime et adaequatiſſime sibi repraesentet, ũ 550) conficitur inde, Deum omnia poſſibilia ſibi diſtinctiſſime et adaequa tiſſime repraeſentare. Nouit adeo Deus ea, quae uel exiſtunt, uel exiſte- re possunt, non confuſe, non ſuperficiarie, ut nos homines plurima nouimus, ſed interiora rerum, et omnium possibilium óœe, habitudines, et re- lationes ad ſe inuicem intime perſpexit.
+
+58i4 Nouit DEVS, quicquid nouit, ut intellectus perfectissimi, non ſucces- ſiue, ſed VNICO ACTV et SIMVL. Demonstr.
+
+Cum enim intellectus perfe- ctissimi natura id poſtulat, ut omnia poſſibilia non modo distinctissime, ſed unico quo- tue actu et ſimul, ſine ſucceſſione, ſine temporis progreſſu, ſibi ſiſtat, (§. 550.) Deus autem gaudet intellectu perfectiſſimo, (§.810.) consequens eſt, ut Deus omnia possibilia non distinctissime modo et adaequatiſſime, ſed unico quoque actu et ſimul ſine ulla successio- [p. 573] et attributis cum ipſo connexis.
+
+573 ceſſione, ſine ullo progreſſu temporis, Sibi repraeſentet.
+
+5-SI5. Intellectus DEI eſt puriſſimus. Demonſtr. Intellectum purum dicimus, ubi res eo diſtinctionis gradu nobis repraeſentamus, ut nulla confuſa repraeſentatio ſit intermixta. (5. 550 Iam uero cum intellectus Dei omnia poſſibilia distinctissime et adaequatissime ſibi repraeſentet, 85.) luculenter apparet, in repraeſentationibus intellectus diuini ne minimam quidem confusionem locum habere poſſe. Atque adeo perſpicitur ratio, cur intellectum Dei purissimum dicamus.
+
+5 8is. DEVS nec ſentit, nec imaginatur. Demonſtr. Cum enim ad omnem ſenſionem requiratur, ut res ęxternae in organis ſenſoriis corporis producant mutationem, (§. 499.) et ille demum ſentire dicatur, qui rę5, corpori ſuo praeſentes, ſibi repraeſentat (§. 497.) Deus autem non habeat corpus, quia non eſt ens compositum, (§. 797.) ſed .ſ
+
+[p. 574] 574 Cap. III. De intellectu diuino eſt ens ſimplex, (V. 798.) clarum eſt et euidentiſſimum, Deum non ſentire.
+
+Quia omnis imaginatio oritur ex ſenſationibus, et ipſa nihil aliud eſt, quam continuata ſenſatio, (§. 509.) 59.) conſequens eſt, ut, cum Deus non ſentiat, nec imaginetur.
+
+5 s5. DEVS nec abſtrahit, nec ratiocinatur.  Demonstr. Ille abstrahit, qui unum absque altero conſiderat, atque adeo non omnia, quae poteſt cognoſcere, ſimul cognoſcit. (§. 560.) Cum uero Deus omnia poſſibilia unico actu et ſimul cognoſcat. ſꝗſ. 814.) palam eſt, Deum non abſtrahere. Ratiocinatur ille, qui unum ex altero colligit, et ex iudiciorum combinatione nouum iudicium deriuat. 554) Quod cum non poſſit, niſi ſucceſſiue, et progreſſu temporis, fieri, omnis autem ſucceſſio, omnisque cognitio, progreſſu temporis acquiſita, repugnet intellectui diuino, (§. 814.) ſequitur, ut Deus nec abſtrahere, nec ratiocinari dici queat. §. 818.
+
+[p. 575] et attributis cum ipſo connexis. 59;3
+
+5. s18. Omniscientia dicitur omnium poſſibilium diſtinctiſſima et ſimultanea repraeſentatio.
+
+5 89. DEVS eſt omniſcius. Demonstr. Cum enim Deus repraeſentet ſibi et ſciat (œ) omnia poſſibilia, 822) distinctissime, 813.0 ſimul et unico actu, O. 814) repraeſentatio autem omnium pos- ſibilium diſtinctiſſima et ſimultanea ſit omni- ſcientia, 818.) perſpicuum eſt, Deum eſſe omniſcium. §. 820. Et Nouit itaque DEVS diſtinctiſſime non praeterita modo, et praeſentia, ſed futura quoque, et haec tam certo futura, quam ſub conditione, nunquam existente, futura, (Theologi uocant futuribilia) nouit, qui ordo ſucceſſionis futurus ſit in futuris. Et cum omnia poſſibilia unico actu Deus et ſimul repraeſentet, (5. 812 814.) omnia futura ipſius intellectui ſunt praeſentia. Nouit ab- ſtruſiſſima quaeque et ipſas hominum cogitationes occultas., 8ar.
+
+[p. 576] 576 Cap. I11l. De intellectu diuino
+
+5. 8a Quatenus Deus cognoſcit mere poſſibilia quae nunquam exiſtent, dicitur habere scientiam ſimplicis intelligentiae, ſiue necessariam Quatenus ea nouit, quae actu fiunt, et reuera exiſtunt, dicitur habere scientiam uisionis, si- ue liberam. Quatenus nouit ea, quae ſub conditione, licet non exiſtente, futura, dicitur habere ſcientiam mediam, item praescienti. am. Conf. Kromayeri dissertatio de praescien- tia contingentium.
+
+5. 82. DEVS gaudet ratione ſumma et puriſſima. Demonstr. Cum enim omnia possibilia et omnium poſſibilium connexionem Deus perspiciat distinctissime, (§. 82.) is autem, qui ueritatum nexum perſpicit diſtincte, dicatur gaudere ratione, (§. 572.) conſequens eſt, ut Deus gaudeat ratione. Quia uero, quicquid in Deo eſt, ipſi ineſt abſolute et ſine gradibus, (o2) ratione ſumma et puriſſima ũ. 57.) Deus gaudeat neceſſe eſt. §. 823. Intellectus diuinus est fons essen tiarum.
+
+[p. 577] et attributis cum ipso connexis. 577 Demonstr. Cum
+
+DEI Intel intellectus omnia poſſibilia ſibi repraeſentet, (3 si2) conſequens eſt, ut, quicquid L I intellectus ſibi non repraesentat, id non ſit possibile. Ergo ratio, cur quicquam ſit poſſibile, ex intellectu DEI erit deriuanda. Id, in quo alterius ratio continetur, dicitur alterius principium ſiue fons, (5 339 Ergo intellectus diuinus eſt fons ſiuę principium poſſibilitatis rei. Poſſibilitas rei conſtituit eiusdem essentiam (§. 67.) Ergo intellectus diuinus eſt principium et fons essentiarum. Bülfingerus in eo multus eſt, ut originem essentiarum, ab intellectu diuino unice deriuandam, recte explicet, negans, poſſibilitatis et eſſentiarum fontem eſſe in uoluntate DEI et libero eiuſdem decreto quaerendum. Vid. Dilucidatio nes, §. 19. - 34. Ita ipſe inter alia: »Necessarium dicitur, cuius oppositum inuoluit contradictionem, (quicquid enim non in- »uoluit contradictionem, id eſt poſſibile,) ergo poſſibilia ſunt neceſſari. Quod nece ssarium eſt, id ex neceſſario fonte pullulat, non arbitrario; Neque enim in principiato plus ,eſſe debet, quam ,, in principio. p. 17. دو
+
+Ceterum obſtupeſcamus, neceſſe eſt, immenſitatem ęt infinitatem intellectus diuini; ſatis ma Qo gnus 1
+
+[p. 578] 578 Cap. III. De intellectu diuino etc. : gnus ſatisque uaſtus eſſet intellectus, ſi ea tantum, quae hac rerum uniuerſitate comprehenduntur, quaeque ad exiſtentiam perueniunt, ſibi repraesentaret Cum enim multitudo sit innu- merabilis corporum mundi totalium, partialium, corpuſculorum, elementorum atque aliarum ſubſtantiarum immaterialium, quae conſtituunt hoc univerſum, cum porro minimum quodque ſpatiolum innumeris repleatur particulis, quae, ob principium indiscernibilium, ſemper ſibi ſunt diſſimiles, et ſtupendam adeo uarietatem inferunt, intelligitur, eiusmodi intellectum, qui haec omnia diſtinctiſſime unico actu et ſimul ſibi repraeſentat, attentiores non poſſe non in admirationem ſui rapere. Cum uero DEVS non haec modo, quae hoc uniuerso comprehenduntur, ſed omnia quoque, quae in alio nexu hic et nunc possent accidere, distin & tissime et adaequa- tissime nouerit, ſtupore defixi et attoniti haereamus, oportet, in inexhauſto illo repraeſentationum diuinarum oceano. VVolfius, ſi quis alius, immensitatem intellectus diuini explicare pro- ponit, in ſpecim. Phyſ. ad Theolog. applicatae, ſubiuncto Thümmigii meletematibus p. 343. Hic ad immensitatem intellectus diuini aliquo modo intelligendam considerare nos iubet (a) „ multitudinem partium mundi maiorum, mi- ,, norum et minimarum, quas quidem homines per- V pilgmmT ,ueſtigare possunt. (B Stupendam uaſtita- ,, tem illius ſpatii, quod mundus noster replet, , atque alii mundi poſſibiles replere poſſent-
+
+[p. 579] C
+
+### IV. De uoluntate Dei et attributis etc. 579 (y)
+
+multitudinem mutationum, ſibi succeden- ,tium, (ò) infinitam uarietatem ſerierum, quas ,contingentia, in ſyſtemata redacta, producunt. ,(a) porro infinitarum ſerierum neceſſariarum in- ,finitatem, quam matheſis considerat. (3) Comparare nos uult intellectus finitos cum in- ,, finito. Quibus omnibus rite perpenſis, aliquo „ modo »magnitudinem intellectus diuini adumbrari poſ- ,ſe putat VVolfius
+
+CAP. IV. DE : VOLUNTATE
+
+DEI ET ATTRIBVTIS
+
+CVM EADEM CONNEXIS. §. 824. DEVS gaudet uoluntate. Demonſtr.
+
+In DEO continetur ratio sufficiens, cur hic mundus exiſtat. (§. 778.) Ratio itaque sufficiens, cur hic mundus exiſtat, (§.778.) Ra- tio itaque ſufficiens, cur hic mundus existat, aut quaerenda eſt in eſſentia DEI, aut in actu. Non autem ratio quaerenda eſt in eſſentia DEI, alias mundus eſſet DEI attributum, (§. 77.) eſſet abſolute neceſſarius et immu- tabilis. 002 1 1
+
+[p. 580] 580 Cap. IV. De uoluntate Dei 1 : 4 tabilis, ſ. 80. 81.) quod eſt contra 47 Ergo ratio quaerenda eſt in actu DEI. Cum uero plures mundi, praeter hunc, ſint pos- ſibiles, (§. 418.) neceſſe eſt, ut ille actus DEI ſit talis, ubi Deus ex pluribus illis mundis poſſibilibus praeſentem elegit, et reliquis posſibilibus praetulit. Cum uero electio ſit actus uoluntatis, (§. 624.) conſequens ji eſt, ut Deus gaudeat uoluntate. Alii ita: Intellectus DE repraeſentat distinctissime omnia bona, et omnes bonorum gradus, (§. 812.) atque adeo tendit in omnia bona, distincte  cognita ſiue, quod idem eſt, uult omnia bona distin&te cognita. co1)
+
+s uoluntatem DEVS habet 82. perfe- ctisſimam. Demonstr. Cum enim Deus, quicquid habet, id poſſideat abſolute et ſine gradibus. ũ 392.) Deus autem habeat uoluntatem, 824) certum eſt, Deum habere uoluntatem perfectiſſimam. Vt uero facilius intelligi queat, in quo consistat uoluntas perfectissima, perfectiones uoluntatis, generatim spectatae, ſunt euoluendae 5. g26 [p. 581] et attributis cum eadem connexis. 5I
+
+JE ũm— 5. §. 826. Hoc perfectior est uoluntas, (1) ad quo plura bona ipſa fertur, ſi bonum appetit pro exacta bonitatis mensura, i. e. si maiora bona uehementius, quam minora, appetit, et ſi praeſtantius bonum bono minori praefert. Hoc ipſo enim seruatur consensus et pro portio inter quantitatem boni in re, quae. appetitur, et inter actum uolendi ipſum. 3) Si uoluntas prior et poſterior circa idem obiectum ſemper sibi conſentit; ita, ut ea non auersetur poſt aliquod tempus, quae antea appetiit. Bülfingerus in Dilucidat. ꝗ. 300. haec ad per- * sectionem uoluntatis, generatim consideratam, requirit, Ex mea, inquit, ſententia perfectio ,, uoluntatis quadruplicem complectitur conſen- ,ſum. Vnum praeſupponit, eum ſcil. qui eſt ,inter repraeſentationem obiecti, ab intellectu factam, et rem ipſam. Duos includit, alterum „ inter actum uolendi et repraesentationem mo- „ tiuorum agendi; alterum inter uolitionem unam ,, et alteram.,, Quartus quaſi conſequens eſt inter uolitionem et potentiam, ut nihil uelit, niſi quod possit, Haec Bülfingerus.
+
+§. 827. Perfectissima itaque uoluntas eſt, quae (1) fertur in omne bonum, (2) pro exacta bonita- 003 tis [p. 582] c e42 x
+
+52 Cap. IV. De uoluntate Dei Lĩ tis mensura, et G) ſemper ſibi conſentanea, ut —ræ nunquam prior et poſterior actus uolendi ſecum pugnent.
+
+U3Ffc. 123. —tũ-.
+
+DEVS uult omnia, quae bona Sunt. Demonstr.
+
+Cum enim DEVS gaudeat uoluntate perfectissima, (3 825.) perfectissimae autem uoluntatis requiſitum primum. ſit, ut feratur in omne bonum, 827.) patet, DEVM uelle omne bonum. Ponamus, DEVM non omnia, quae bona ſunt, appetere, Ergo darentur bona, quibus nondum delectaretur,. Cum uero perfe- ctionibus diuinis nihil addi possit, ipſeque DEVS, quicquid habere poteſt, actu habeat, et quidem abſolute ac ſine gradibus, 893) conſequens eſt, ut nullum bonum detur, in quod uoluntas diuina non feratur. Ergo DEVS omne appetit bonum.
+
+Hominis quidem anima etiam nil, niſi bonum, appetere dicitur, at (a) ob confuſam boni cogni- tionem, anima ſaepius quid pro bono habet, quod est reuera malum DEVS autem bonum cognoſcit distinctissime. (5. 8120 (3) Homo appetit bonum generatim tantum, non uero sem- per [p. 583] et attributis cum eadem connexis. 583
+
+X per in indiuiduo, hic et nunc, quia in indiuiduo non ſemper cognoſcit bonum, cum tamen bonum adſit.
+
+5 82. Deus uult omne bonum pro exacta bonitatis menſura. Demonſtr. Cum enim uoluntas perfectissima requirat, ut bonum omne appetat pro exacta bonitatis menſura. (§. 827.) DEVS autem uoluntate gaudeat perfectiſſima, ũ. 825.) manifeſtum eſt, DEVM uelle omne bonum, pro exacta bonitatis menſura.
+
+Ponamus, DEVM non uelle omne bonum pro exacta bonitatis menſura, i. e. ita, ut bonum maius praeferret minori, tum non adesset conſenſus inter actum uolendi et inter quantitatem boni in obiecto. Cum uero, ubi deeſt conſenſus, ibi deſit aliqua perfectio, 201.) DEVS non omnes haberet perfectiones, quod eſt contra s. 802-
+
+ò- 830. DEVS non uult quicquam ſine di- ſtinctisſima boni repraeſentatione ſiue motiuo. r
+
+Oo 4 Demonstr.
+
+[p. 584] 584 Cap.
+
+### IV. De uoluntate Dei
+
+nn Pm lls aa ſ l
+
+E Lemoir. Aut enim DEVS uult bonum, i]
+
+quia uult, aut quia poteſt illud uelle, aut quia id, tanquam bonum, sibi distinctissime re- i praeſentat, Illud caue dicas, ridicule enim reſponderes, ſi quaeſitus: cur uult DEVS bonum: reſponderes; quia uult. Iſtud item non ualet: a poſſe enim ad eſſe non ualet consequentia. s) Ergo affirmandum, Deum uelle aliquid, quia illud ſibi I repraesentat, tanquam bonum, Repraesentatio boni, uoluntatem ad. appetendum determinans, dicitur motiuum. (1.618.) Ergo patet, Deum non quicquam uelle, ſine illo motiuo, it Ponamus, Deum aliquid uelle ſine motiuo ſiue repraeſentatione boni, tum concedatur, necesse eſt, eſse in DEO actum uolendi, cui nulla tamen bonitas in obiecto responderet. Deeſtne hic consensus f inter actum uolendi et bonitatem obiecti, ſiue rei appetitae, atque adeo DEI uoluntas non eſſet perfectissima, quod eſt contra § 825.
+
+Miror, nonnullos, cum de ratione ſiue motiuo,, DEVM ad appetendum determinante, audiunt, adeo efferueſcere ira., Annon in omnibus compendiis ſyſtematibuſque Theologicis occurrit haec quaeſtio? Quaenam fuit e-caussa im- pulsiua redemtionis generis humani? Quaenam caussa [p. 585] et attributis cum eadem connexis. 585 caussa impulsiua creationis huius mundi? Quaenam item cauſſa impulſiua, quae DEVM mouet ad quosdam ſaluandos? Nonne idem dicis, ac ſi di- ceres: Quaenam ratio obiectiua, quodnam motiuum adeſt, quod DEVM determinat ad quoſdam ſaluandos? Quid? quod ſi rationem obiectiuam, ſi motiua, ab obiectis deſumta, negas, euitare non potes, quin in peſtilentiſſimam illam incidas opinionem, qua DE O tribuitur abſolutum quoddam decretum.
+
+§. 831. Quamuis Deus velit omne bonum seorsim ſpectatum, (§. 828.) cum tamen saepius fiat, ut omnia bona ob colliſionem, 207.) obtineri nequeant, finibuſque praeterea di- uinis non ſit conueniens, omnia bona ad exiſtentiam perduci, DEVS, cum bonum in nexu cum omnibus reliquis bonis ſpectat, uult ſiue decernit optimum, ſiue quod finibus ſuis eſt conuenientissimum.
+
+Deus ex iis obiectis, quae perfe- ctione et bonitate inaequalia ſunt, non poteſt id, quod imperfectius eſt, finibusque ſuis non adeo eſt conueniens, praeferre ei, quod perfe- 005 Etius 1 )
+
+[p. 586] Cap. IV. De uoluntate Dei ttius eſt, finibuſque ſuis eſt conuenientius.
+
+Demonſtr. Si enim DEVS ex iis obiectis, quae perfectione et bonitate inaequalia ſunt, imperfectius ſiue id, quod finibus ſuis non adeo eſt conueniens, praeferret ei, quod perfectius eſt, finibusque ſuis conuenientius, tum DEVS id, quod imperfectius eſt, magis uellet, et id, quod perfectius eſt, minus uellet, atque adeo inter actum uolendi et quantitatem boni in obiecto non daretur consensus, Deusque non appeteret bonum pro exacta bonitatis menſura. Cum uero DEVS, ob uoluntatem ſuam perfectissimam, uelit bonum pro exacta bonitatis mensura, 6. 829) conſequens eſt, ut DEVS in obiectis, quae bonitate ſiue perfectione inaequalia ſunt, non poſſit imperfectius praeferre ei, quod perfectius eſt.
+
+ar; Si te offenderint uocabula Imperfectius et perfectius, dic. DEVS ſemper eligit; uult, et decernit id, quod finibus suis, quod sapientiae et gloriae suae est conuenientiſſimum. Non uideo, quid in hac positione, ὀρθοδοξοτάτοις Theologis familiarissima, deſiderari aut iure carpi queat i r- [p. 587] et attributis cum eadem connexis. 587 §. §. 833.
+
+Ex iis obiectis, quae bonitate uel perfectione ſunt aequalia, Deus uel neutrum eligit, uel utrumque. Demonſtr.
+
+Ponamus enim, DEVM praeferre unum alteri, ex obiectis, perfectione et bonitate aequalibus, tum circa obiectum A, ſe magis exsereret uoluntas eius, quam circa obiectum B, cum tamen obiectum B, ſit ob- ięlo A, ratione bonitatis et perfectionis, ae- quale. Atque adeo ſi DEVS ex iis obiectis, quae bonitate uel perfectione ſunt aequalia, unum alteri praefert, tum tollitur conſenſus inter actum uolendi et obiecti bonitatem, nec DEVS uult bonum pro exacta bonitatis menſura, quod eſt contra §. 829. Ergo re- ſtat, ut dicamus, DEVM ex iis obiectis, quae bonitate uel perfectione ſunt aequalia, uel neutrum eligere, uel utrumque, neutiquam uero alterum alteri praeferre.
+
+Ex his omnibus colligitur, Deum ex omnibus poſſibilibus rerum connexionibus mundum optimum ſiue rerum
+
+[p. 588] D
+
+-tiy -F thi, l llt i
+
+HEl a 580 Cap. IV. De uoluntate Dei rerum nexum finibus ſuis conuenien tissimum elegisse et produxiſſe. z 20 m-
+
+Demonstr. Cum enim Deus nunquam id quod eſt impe fectius, poſſit praeferre ei quod eſt imperfectius, possit praeferre el, quod eſt perfectius siue finibus ſuis conuenientius, 832) ſed ex pluribus boni eligat et producat id, quod finibus ſuis eſt conuenientissimum ſiue optimum, 831) intelligi poteſt, Deum, ex omnibus poſſibilibus rerum connexionibus ſiue mundis mundum optimum ſiue rerum nexum, ſi nibus ſuis conuenientissimum elegiſſe e lli h produxisse.
+
+ll Cum itaque, ui huius theorematis, DEVS.
+
+ex pluribus poſſibilibus mundis elegerit illum
+
+H mundum, qui finibus ſuis eſt conuenientissimus Siue optimus, hic autem mundus, qui nunc ex- istit, sit idem ille mundus, quem Deus, ex innumeris aliis poſſibilibus elegerit et ad existentiam u perduxerit, inferunt inde nonnulli, hunc mundum, qui nunc exiſtit, omnium poſſibilium rm* dorum eſſe optimum, eſſe perfectissimum Alii pro mundo optimo ita argumentantur: Ant in DEVS non potuit aut non uoluit, mundum optimum siue perfectissimum producere. Si non ſ i3 tuit optimum mundum producere, non eſt omni potens DEVS, si noluit uoluit mundum optimuſ producere, non est omnisapiens, nec gaudet uoluntate Aut [p. 589] et attributis cum eadem connexis. 589
+
+4 luntate perfectiſſima, quippe quae semper fertur in optimum, ui §. 831. Vtrumque eſt abſurdum. Ergo Deus mundum optimum siue perfectissimum produxit.
+
+De quaeſtione: Num hic praeſens mundus ſit optimus, omniumque possibilium mundorum per- fectiſsimus recentiori aetate uehementissime eſt diſputatum. Non diſquiremus nunc, num ueteres philosophi, Plato
+
+#### e. gr. Cicero, Plinius, mundum
+
+optimum aſſeruerint. Vid. Riebouius in ber ferneren Erläuterung p.286.sqq. Leibnitius, originem mali contra Bailium recte ex- plicaturus, Deique bonitatem et ſapientiam in mali permiſſione contra irriſores uindicaturus, inter alia incidit in dogma de mundo optimo. quod propoſuit in Theodicaea passim, maxime uero parte I. ꝗ. 8. ubi, dielbthite ſeisſeit, inquit, ſyat nechſt einer gleichfalls unendlichen &itigheit, nichts anders, aſs das Veſte erwehlen können Denn gleichwie ein kleineres Ubel etwas Gutes ist, so ist auch ein geringeres Gute was Böses, wenn e3 einem grösseren Gute im Wege ſtehet. nd e8 mũrde iu den haten &tte ermas ;u tadeln seyn, wenn ein Mitigſ vorhanden wäre es besser ;u machen. Cum Leibnitio idem ſentit VVolfius. Hic enim in Metaphy- ſica Germanica ita: Unter unſichen eſren, bie möglich find, hat GOtt nur eine erncdſi unbd den andern vorgezogen, daß sie die lichkeit erreichet. und hieraus erhellet;zugleich,
+
+[p. 590] 590 Cap IV. De uoluntate Dei da” die gegenwärtige ĩeſt unter allen dit Pferte it. Denn mir nennen die Beste, dar innen die gröste Vollkommenheit anzutreffen. Wäre eine bessere, als diese, möglich gewesen, • so hätte es nicht geschehen können, da er die unvollkommenere ihyv vorge;”gen hatte. Wenn man das Unvollkommenere dem hellfonv meneren vor;ziehet, geschichet es aus linmiſſen heit, weil sonst kein zureichender Grund vorhanden Den wäre, warum es geſchähe, sofern es mit
+
+Wissen geschehen ſolis. Da nun GOTT allt mbqliũ Qòeſlien au?j daè bdeutlidyſe kennet) r ſ tan er die geringeren der bessern aus un .r; miſenlcit nicht vor;sehen. VVolfii Leibnitiipt que ſententiam de mundo optimo cum alii plures proposuerunt et defenderunt, tum uero uel maxime Bilfingerus, in integro libro de origine et permissione mali, item in Dilucidationibus Iti Anonymus in diſſertatione in Claſſ. VIII. Fascicul. L. Biblioth. Tremens. p. 74.76. Cantzius in Vſu Philoſoph. Leibn. in Theolog. p. ar. ſqũ. et nuper S. R. Reinbeckius, qui contra Palmiuiſ, Theologum Hamburgenſem, multa de mundo optimo disputauit Addatur Georgii Friderici Moelleri, Aduocati Berolinenſis, scriptum, nuper contra Bertramum editum, quod inscribitur: emí; da aus dem &Gane: Dieſe Welt ist nicht die Beste: lauter Absurda richtig fließen. 1737. Quindecim abſurda ex poſitione hac: Hic mundus non est optimus! Auctor deducere allaborauit. : Qui [p. 591] et attributis cum eadem connexis. 591 1 4
+
+Qui mundum optimum defendunt, sequentes potiſſimum poſitiones ſibi uolunt concedi: ill Praeter hunc mundum, qui nunc existit, multi alii mundi fuerunt et ſunt etiam nunc poſſi- biles. Quod enim niſi eſſet, hic mundus, qui nunc exiſtit, unice eſſet poſſibilis, adeoque eſſet lb ſl abſolute neceſſarius, (§. 172.) quod foret contra §.417. 4 (2)
+
+DEVS omnes poſſibiles mundos et rerum n u nexus, licet non ad exiſtentiam peruenerint, ab i aeterno ſibi diſtinctisſime repraeſentauit. Quod enim ſi negaretur, negaretur intellectus DEI per- fectissimus. (§.812.) (3)
+
+Ex innumeris poſſibilibus mundis siue re- in rum connexionibus DEVS hunc potisſimum mun- m dum et rerum nexum, qui nunc eſt, elegit et m; vr ſ E ſ3 ad ex- iſtentiam perduxit. (4) Cum uero DEVS ſemper optimum eligat, aũ3
+
+ſl (§. 831.) nec posſit imperfectius perfectiori praeferre, ũ. 832.) colligitur inde, DEVM ex omnibus posſibilibus mundis optimum mundum elegiſſe. (5)
+
+Bonum dicitur illud, quod fini eſt conue- niens, (§. 596.) ergo optimum illud dicitur, -i quod finibus diuinis eſt conuenientisſimum. m (6) Cum hic mundus, qui nunc exiſtit, ſit ille mundus, quem DEVS elegit et ad actum Perduxit, conſequens eſt, ut hic mundus ſit opti-
+
+[p. 592] 592 Caput IV. De uoluntate Dei 1 し optimus ſiue diuinis finibus conuenientis ſimus. li A tam— ſl Ex his pateſcit, mundi optimi defenſores non unice per uocem mundi intelligere Syſtema hoc terraqueum, et artificioſam ſtructuram coeli et Il terrae, corporumque in iis contentorum. Neque, qui mundum optimum defendunt, per mun It: ll dum intelligi uolunt partem tantum aliquam et periodum mundi, e, gr. ſtatum paradisiacum Adami, ſed per uocem mundi indicant totam illam, quanta quanta eſt, congeriem cauſſarum et: effectuum, inter. ſe connexarum, connexionem ſtatuum praeteritorum cum ſtatibus praesentibus, et praeſentium cum futuris, ita, ut ad mundum pertineant non modo corpora terrestria et coelestia, eorundemque connexiones. ſed etiam-omnes euentus phyſici cum ſuis effectibus, omnesque actiones creaturarum intelligentium morales cum ſuis conſequentiis, poſt multa demum ſaecula insecuturis Paucis: Conſiderant mundum, tanquam ens successiuum, cuius partes, periodi, ſtatusque, ſigillatim et ſeorſim spectati, non efficiant ipſum mundum, ſed omnes ſimul et in toto ſuo nexu. Vox optimi a mundi optimi defenſoribus non eo ſenſu accipitur, quo uſurpari ſolet ab iis, qui optimum uocant, in quo nihil eſt mali, nulla macula, nullus defectus-  etc. Sed optimum, ut dixi, eo ſenſu ſumi- - tur, ut ſignificet id, quod finibus Dei gloriaeque eiuſdem amplificandae eſt accommodatissimum- Eadem ratio eſt uocis perfectissimi. Non enim, A cum uiil [p. 593] et attributis cum eadem connexis. 93 cum de mundo perfectissimo disputant L.Leibnitiani, eo ſenſu perfectissimum uocant, quo DEVM notamus ens abſolute perfectissimum, neque ita hic hanc uocem accipi uolunt, ut per perfectiſſimum mundum intelligant mundum, in quo nullae plane imperfectiones, nullumque: peccatum et labes reperiatur. Sed perfectiſſimum mundum illum uocant rerum nexum, ubi omnia ita coordinata sunt, ut fines diuini, gloriae ſcilicet diuinae manifestatio, et creaturarum felicitas, obtineantur. Cum itaque hanc positionem defendunt: Hic mundus eſt optimus: nihil aliud affirmant, quam hoc: Hic mundus eſt ſpeculum gloriae diuinae, in hoc mundo tam admirabiliter tamque ſapienter adminiſtrantur connexaque ſunt omnia, ut ultimato ex tota illa admirabili ſapientiſſimaque omnium rerum connexione gloriae diuinae manifeſtatio emergat- gar. Aut fallor ego uehementer, aut certum mihi eſt, idem docere Theologos ad unum omnes. Quin etiam docent, non modo per peccatorum permiſſionem, ſed in ipſis quoque ... damnatis adhuc patefieri iuſtitiam ſapientiamque DEI: Quod quid aliud eſt, quam hoc, quod DEI gloria, permittendis peccatis, amplificetur? Equidem negari non poteſt, res et partes mundi seorsim spectatas, actiones item hominum, ſigillatim et extra nexum consideratas, ſaepiſſime quiduis potius, quam gloriam DEI amplificare, uideri. At ſi totum perſpicere poſſes nexum omnium rerum, obstupesceres, f P omnes. PP quam
+
+[p. 594] 594 Cap. IV. De uoluntate Dei quam admirabili harmonia, quam ſuaui concentu, ultimato omnia ad gloriam DEI dirigantur et collineent.
+
+Plures fuerunt, qui mundum optimum iæ& pugnantes, et Leibnitium et VVolfium confutare allaborarunt. Contra Leibnitium edebat Ienae B. Buddeus diſſertationem de origine peccati, in qua Leibnitii Theodicaeam aggreſſus, multa contra mundum optimum monebat.  Weismannus, Theologus Tubingenſis, peculiare cor conficiebat ſchediaſma de prouidentia Dei circa m* lum, in quo mundus optimus itidem impugnabatur* batur. Zimmermannus diſſertationem  conscripsit de mundi exiſtentis imperfectione, Ienae 1725. Vi taceam Langium, Bertramum, et Palmium, qui nuper demum, cum Reinbeckio congreſſus, plurima contra mundum optimum ræ3- monuit.
+
+Plurima ſunt, quae contra mundum optimum fuerunt monita, quae autem nunc ad animum occurrunt, ſunt ſequentia. I.,, Obiicitur: In ,quocunque mundo innumera continentur mala. ,ille non eſt optimus ſiue perfectiſimus. Atqui ,in hoc mundo innumera continentur mala- ,Ergo hic mundus non eſt optimus, ſiue per „ fectissimus.,, Respondent Patroni mundi optimi: In quocunque mundo innumera continentur mala, ille non eſt optimus, ſi uox optimi significat id, in quo nihil eſt imperfectionis, nullus naeuus, nulla macula. Cum uero mundus optimus [p. 595] et attributis cum eadem connexis. 595 optimus ſumitur pro eo nexu omnium rerum creatarum, et ſimul exiſtentium, et ſuccesſiue ſe excipientium, in quo gloria DEI manifestatur maxime, maior propoſitio, si contra mundum optimum diſputari debeat, nunc ita erit inſtruenda. In quocunque rerum creatarum nexu innumera deprehenduntur mala, in illo nexu non omnia ita ordinari poſſunt et cohaerere, ut ultimato gloria DEI amplificetur. Vnde uero hoc probabitur? Qui hoc probare audet, ille uniuerſum nexum omnium rerum creatarum, inde a principio usque ad finem, ita diſtincte perſpicere debet; ut determinare queat, num partiales illae imperfectiones, num mala illa particularia, nexui implicata, non ultimato ita dirigantur, ut gloria DEI inde emergat, ut perfectiones diuinae inde manifestentur. Supra iam monuimus, imperfectionem partis saepius facere poſſe ad maiorem totius perfectionem, non id ita tamen, ut ex imperfectione partis, in ſe et ſeorſum ſpectata, reſultet perfectio totius, ſed imperfectio partis in toto nexu conſiderata, ſaepius tribuit quid ad perfectionem totius. Conf. §. 213. Non mala, in ſe et ſeorſum conſiderata, promouent gloriam DEI, ſed, intra nexum cum aliis rebus ita diriguntur, ut tandem admirabili quadam et uix exſpectata ratione gloriae et maieſtatis diuinae ſplendor elucear. Quod ut quodammodo capi poſſit, illuſtrationis gratia adiiciatur admirabilis nexus ille uitae fatorumque Ioſephi.
+
+Pp 2 Fratres
+
+[p. 596] Cap. IV. De uoluntate Dei Fratres Ioſephi ipſi inuidebant, ipſum in * foueam proiiciebant, uendebant, ete. Nihil hic boni, omnia mala, 1 Nihil Nihilominus haec Idem omnia in toto illo uit:æ fatorumque Iosephi *** nexu ita dirigebantur, ita ſe inuicem inſequebantur, ut tandem ex hoc toto nexu gloria quae- dam diuina inſigni modo eluceſceret. Idem perſpiceres, ſi totum nexum mundanum, cui innumera mala implicata ſunt, poſſes perſpicere, ſi poſſes animaduertere, quomodo omnia tn- Aem, ex conſilio DEI, cum fine DEI ultimo eęn- conspirent. Stat illud firmum inconcuſſumque, quod ſacra tradit ſcriptura Consilium DEI eſt mirabile, ſed omnia ad gloriosum exitum perducit. (2) Obiicitur: DEVS uult mundum i optimum; mundus optimus continet malum. Ergo DEVS uult malum. Reſpondent Fautores Lſ mundi optimi: Non ſequitur: Volo librum
+
+ſed liber hic eſt macula conſpurcatus. Ergo nolo quoque maculam. Non ſequitur: Volo medicinam, ob sanitatem inde impetrandam, Medicina continet amaritudinem. Ergo uolo etiam amaritudinem. 8) Obiicitur: Mala tamen, ex ſententia Leibnitii, ad creati mundi perfectionem sectionem quid conferunt. Reſpondent Leibnitiani: Non ita eſt. Mala, ſiue peccata, ſunt quidem in mundo optimo, non ſunt de mundo optimo, uti impii ſunt in eccleſia, non ſunt às L] ne adeo, mundus, QVI malo et い 1 peccato infectus eſt, eſt optimus, non QVIA peccatis [p. 597] et attributis cum eadem connexis. 597 peccatis infectus eſt. Additur, illuſtrationis gratia, ſequens exemplum. Sint studiose Theo- ll logiae oblati duo libri, chimicus alter, alter do- gmata Theologica ordine concinne et apto complexus, Ecquem librum ſtudioſus Theo- i logiae eliget Nonne eum, qui finibus ſuis eſt conuenientissimus? Puta Theologicum. Fac l vero, librum oblatum Theologicum esse insigniori- llil insigniori macula conſpurcatum, fac porro, librum Chimicum eſſe nitide compactum, et purioris chartae. Num putas, Theologicum librum, ſtudioſi Theologiae fini et ſcopo accommodatis- t simum, eſſe ideo accommodatiſſimum, quia ma- l cula conspurcatus eſt? Non puto. Num putas, i
+
+Theologiae ſtudioſum ideo eligere librum, quia macula conſpurcatus eſt? Non puto. Eligit librum, qui macula inquinatus eſt, non quia macula pollutus eſt. 4) Obiicitur: SI DEVS non potuit non eligere optimum, cadit eius libertas. Resp. Quaſi uero electio optimi non ſtare posset cum libertate. Conf. ꝗ. 618. Caio' offeruntur plures libri, diuerſi pretii. Eligit illum, quem optimum iudicat. Num putas, libertatem ita Caii, dum eligit optimum, ca- dere Conf. Cantz. in Vſu Philoſ. in Theologia. P. 212. ſq-
+
+5 8355.
+
+Voluntas Dei eſt immutabilis.
+
+t Pp 3 Demonstr.
+
+[p. 598] 598 Cap. IV. De uoluntate Dei Demonstr. Cum enim Deus ſit immutabi- Iis, 6. 790) ipſa quoque: uoluntas Dei erit immutabilis. Quicquid enim eſt in Deo, illud eſt ipſe Deus. C. 784 Ponamus, uoluntatem Dei eſſe mutabilem, tum aut Deus id, quod ante uoluiſſet, poſt aliquod tempus auerſari poſſet, aut uellet nunc id, quod ante multum tempus auersatus eſt. Conſequenter Deus id, quod antea, tanquam bonum, sibi repraesentasset, repraeſentaret sibi nunc, tanquam bonum, ſibi repraeſentaſſet, repraeſentaret ſibi nunc, tanquam malum, et u. u. Cum uero ſibi omnia posſibilia diſtinctisſime repraeſentet, (5. ꝗ12.) fieri nequit, ut id, quod, tanquam bonum, ſibi repraeſentauit, poſt aliquod tempus ſibi repraeſentet, tanquam malum Magnam enim id imperfectionem intellectus et confuſionem inuolueret. Poteſt haec poſitio ita quoque demonſtrari. Quaecunque uoluntas eſt perfectisſima, illa appetit bonum, et auersatur malum sibi conſentanee, 827) Atqui uoluntas Dei eſt perfectissima, (s. 8253 Ergo uoluntas Dei appetit bonum, et auerſatur malum ſibi conſentanee Quaecunque uoluntas appetit bonum et auerſatur malum ſibi conſentanee, illa ita appetit bonum, ut nunquam idem auersari posſit, (§. 827.) siue quod idem eſt, illa eſt immutabilis. Ergo Dei uoluntas eſt immutabilis. 5. 86 A ua [p. 599] et attributis cum eadem connexis. 59
+
+§. 836. Voluntas Dei eſt liberrima. Demonſtr.
+
+Cum enim (1) DEVS bonum, quod eligit, ſibi diſtinctiſſime repraeſentet, 813) Q) ob independentiam ſuam à nemine ad appetendum uel agendum cogi poſſit, (§. 789.) adeoque ſponte eligat bonum, 623) ſemper ob uoluntatem ſuam perfectissimam, eligat optimum ex pluribus pos- ſibilibus, ſ5. 831) haec tria autem ad libertatem, uere talem, requirantur, (§. 625.) patet, Deo competere libertatem,, uere talem. Cumque Deo, quicquid ipſi ineſt, inſit in ab- solute ſummo gradu, ſeu abſolute potius et ſine gradibus, (§. 802.) conſequens eſt, ut Deo tribui debeat libertas abſolute ſumma- Atque adeo uoluntas Dei eſt liberrima.
+
+5 83: Voluntas DEI eſt principium. omnium existentiarum rerum con- tingentium. Demonstr.
+
+In D E O continetur ratio sufficiens cur totus hic mundus exiſtat, ũ. 778) totus autem hic mundus omnia ea com- H plecti- PD 4 plecti
+
+[p. 600] 600 Cap. IV. De uoluntate Dei plectitur, quae contingenter et mutabiliter exiſtunt. (õ. 3356.) Ergo in Deo continetur ratio ſufficiens omnium exiſtentiarum re- rum contingentium. Illa ratio ſufficiens non continetur in Eſſentia diuinaũ. 824) Ergo in actu uolendi. Id, in quo continetur ratio sufficiens alterius, dicitur principium alterius. 339 Ergo uoluntas DEI eſt principium existentiarum omnium rerum contingentium.
+
+Exinde colligi poteſt I. Quicquid DEVS non uult, illud non poteſt ad exiſtentiam peruenire. II.
+
+Hinc patere ſatis nunc poteſt tibi uia, uoluntatem Dei a posteriori cognoscendi, at- tendendum ſcilicet eſt ad id, quod eſt, uel fit. Quicquid ſcilicet eſt, uel fit, id uult etiam DEVS, ſcilicet uel approbatiue, ut res ipſa etiam ipſi placeat, uęl permiſſiue, ut illam opera- tionem ſuſpendat uel deneget, qua interpoſita factum ab agente non produceretur. i III.
+
+Cum uero ſemper rationem ſufficientem habeat obiectiuam, cur quicquam uelit, 6. 830) non ſatis eſt philoſopho, in red- : dendis [p. 601] et attributis cum eadem connexis. 60I reddendis rerum cauſſis, cur existent, cur exiſtant ſic, nec aliter, ad ſolam uoluntatem Dei prouocare, ſed ratio sufficiens ex obiecto reque ipſa petenda.
+
+Leibnitius eorum philoſophiam, qui rerum rationes reddituri, unice ad uoluntatem DEI confugiunt, uocat philoſophiam ignauorum. Non enim multi laboris eſt, hoc modo omnium rerum rationes reddere. Sic, cum rationem reddere iuſſus fueris, cur magnes attrahat ferrum Cur fluxus et refluxus maris detur? Cur ſtomachus concoquat? die: Quia Deus ita uult. Magno te EEA uũl labore liberaſti. Voluit Deus, nos interiores rerum rationes indagare, et librum naturaę, oblatum cuiuis, diligentius peruoluere.
+
+5. 89- æit —a
+
+Datur adhuc alia uia uoluntatem DEI a priori naturaliter cognoſcendi. Quia ſcilicet Deus ſemper eligit optimum ſiue perfectissimum, ſ 831) inquirendum tibi eſt, an res aliqua ſit perfectionibus diuinis conueniens. Tum negatiue certus eſſe potes, quicquid perfectionibus diuinis minus eſt conueniens aut conſentaneum, illud non uult Deus.
+
+§. 840. Sũpereſt tertia uia uoluntatem DEI cognoscendi, ſi ſcilicet Deus immediate uolun- PD tatem
+
+[p. 602] 602 Cap. IV. De uoluntate Dei tatem ſuam homini ſignificat, quod uocamus reuelationem. 1
+
+Non noſtri nunc eſt inſtituti, nec huius loci determinare, num ulla unquam extiterit, aut etiam nunc exiſtat, reuelatio. Nec definiemus nunc, quaenam ſit uera reuelatio, inter tot reuelationes jactatas. Criteria tantum uerae reuelationis ex data definitione eruemus, et, ſana ratio- ne in ſubſidium adhibita, notas eiusdem explicaturi ſumus. Plurimi, noſtra aetate, necesſitatem reuelationis cuiusdam demonſtrarunt, quorum argumentum huc redit Deus uult, ut homines ſint ſumme et perpetuo felices Deus ergo et- iam uult ſerio, ut homini ſint media perſpecta ad ſummam illam perpetuamque felicitatem perducentia. Qui enim uult finem, uult etiam media. Haec media, ad ſalutem perducentia, ratio ignorat. Ergo neceſſe eſt, Deum eadem homini reuelaſſe. Ergo detur neceſſe eſt reuelatio.
+
+ò 84I. Reuelatio diuina, pro actu reuelandi ſumta, eſt miraculum. Demonstr. Cum enim, quicquid DEVS immediate facit, ſit miraculum, 4358.) reuelatio autem ſit, cum DEVS immediate uoluntatem ſuam homini ſignificat, 840) l conſequens eſt, ut reuelatio, quatenus ſci- i licet uil [p. 603] et attributis cum eadem connexis. 603 licet ſumitur pro immediata DEl significatio- ne uoluntatis ſuae, siue pro immediata Dei ſignificatione uoluntatis ſuae, siue pro actu reuelandi, ſit miraculum.
+
+§. 842.
+
+Reuelatio debet continere ueritates ſupra rationem.
+
+Demonſtr. Ponamus enim, DEVM immediate ſignificare ueritates homini, quae ipſi iam ex ratione ſint notae, aut ex ea certe cogno- ſci posſint, tum Deus faciet quid ſine ratione sufficienti. Ea enim homini immediate reuelare, quae ipſe propriis uiribus indagare et ſcire poteſt, id uero eſt, actum agere. Cum uero Deus ſine ratione ſufficiente nihil uelit, nihil ſuſcipiat, (§. 830.) conſequens eſt, ut ueritates, quas Deus reuelare debet, ſint ſupra rationem. Ergo reuelatio debet continere ueritates, ſupra rationem poſitas.
+
+Alii ita: In reuelatione defectus ſiue hiatus cognitionis naturalis ſuppleri debet, Ergo in reuelatione tradi quaedam debent, quae ratio, ſibi relicta, plane non aſſequi poteſt. Illae uero ueritates, quarum exiſtentiam uel poſſibilitatem ratio cognoſcere nequit, dicuntur ſupra rationem positae,. Ergo in reuelatione
+
+[p. 604] Cap. IV. De uoluntatẽ Dei latione contineri debent ueritates ſupra rationem positae. §. 843.
+
+Veritates, ſupra rationem poſitae, ſiue quarum possibilitatem uel exiſtentiam ratio co- gnoscere nequit, dicuntur myſteria.
+
+§. 844. Reuelatio in ſe continere debet mysteria. Demonſtr. Cum enim reuelatio continere debeat ueritates, ſupra rationem poſitas; ũ. 842) eiusmodi autem ueritates, quae ſunt ſupra rationem, ſint myſteria, 6. 843.) manifestum eſt, reuelationem debere in ſe continere myſteria. Poſſunt quidem, ob maiorem perſpicuitatem, et nexum cum aliis ueritatibus, uariae ueritates, quae ex ratione poſſunt cognoſci, admixtae eſſe myſteriis, princeps tamen finis, ob quem reuelat nobis DEVS uoluntatem ſuam, eſt, ut ueritates, eaeque ſupra rationem. poſitae, et ad salutem aeternam conſequendam ſufficientes, nobis innoteſcant, 845. Quamuis ueritates, in reuelatione contentae, sint ſupra rationem s2) uill [p. 605] et attributis cum eadem connexis. 605 i S.842.) non possunt tamen esse con- tra rationem, i.e. non possunt esse contrariae ueritatibus, ex ratione — cognitis. Demonstr. Cum idem non possit ſibi contra- riari et aduersum esse, (per princ.contradict.) conſequens eſt, ut ueritas ueritati non poſſit aduersari. Ergo ueritas reuelationis non poteſt eſſe contraria ueritatibus rationis. Potest hoc quoque theorema ita stabiliri: Omnes ueritates originem ſuam repetunt ab intellectu diuino, 6 823.) ſi itaque ueritas reuelationis ueritatibus rationis foret contraria, tum DEVS ſibi ipſe contradiceret, quod eſſet contra perfectionem intellectus ò: uini, quae omnem reſpuit diſſonantiam ſiue contradictionem. 5. 201.) Leibnitius in diſcurſu praeliminari, de Concordia Rationis et fidei, in eo totus eſt, ut, rationem scripturae ſacrae neutiquam aduer- ſati, probet. Leibnitii mentem breuibus his uerbis complectitur Cantzius in Vſu Philoſ. in Theol. p. 8. „ Aut ea, quae a ratione poſ- ſunt reuelationis dogmatibus obuerti, inuita „ demonstratione nituntur, aut non. Si prius; „ ueritas ueritati erit contraria. Nam, quicquid demonſtratione inuicta nititur, ueritas 1 " est
+
+[p. 606] 6c6 Cap. IV, De uoluntate Dei n ,eſt aeterna, nulli obnoxia dispensationi. „ poſterius autem eueniat, probabilis tantum „ eſt rationis reuelationi oppoſita obiectio. Atqui ,eius generis argumenta nihil aduersus ,, fidem proficiunt.
+
+Quis enim neſcit, reuelationem ,omni ueroſimilitudine eſſe ſuperiorem,, Idem Cantzius, conſenſum reuelationis et rationis illuſtraturus, elegantem adducit comparationem, quae huius eſt ſententiae. Quemadmodum aqua Eſſ; aquae non contrariatur ſiue aduersatur, ſed altera alteri inſinuatur et amica eſt, quamuis altera, ex lacu hauſta, uel de coelo delapſa, deterioris ſit conditionis, limumque uehat, altera uero, ex limpidiori hauſta ſcaturigine, generosioris ſit conditionis; Sic ueritates rationis et reuelationis, tantum abeſt, ut pugnent et aduerſentur ſibi inuicem, ut amicissimo potius nexu conſpirent, quamuis ueritates rationis ſint uilioris conditionis, quam ueritates reuelationis. 8 tu
+
+5. 8a6.
+
+Vti ueritates reuelationis - non arta?] ãaæ possunt aduersari et repugnare ue- ritatibus rationis, et u. u. ſic ipſae quoque ueritates, in reuelatione contentae, non poſſunt ſibi inuicem contradicere.
+
+[p. 607] et attributis cum eadem connexis. 69
+
+Demonſtr. Cum enim ueritates reuelationis habeant ſuam originem a Deo, (§. 840.) ueritates reuelationis non poſſunt ſibi inuicem contrariari. Quod enim ſi eſſet, Deus ipſe ſibi non constaret, maximaque in ipſius intellectu reperiretur imperfectio.
+
+§. 847. In reuelatione diuina nihil occurrere debet, quod perfectionibus diuinis ſit indignum. Demonſtr. Cum enim DEVS nihil uelle posſit, quod perfectionibus ſuis eſt contrarium, (§. 828.) conſequens eſt, ut nihil quoque posſit reuelare, quod ſuis perfectionibus eſt minus conſentaneum Atque adeo in reuelatione diuina nihil occurrere debet, quod perfectionibus diuinis ſit indignum.
+
+Hinc fluunt haec conſectaria: Ergo ſtilus in reuelatione debet eſſe caſtisſimus, ſanctis- ſimus, item ea ſit ſtili in reuelatione autoritas, quae hominum animis reuerentiam erga eum imprimat. $.848.
+
+[p. 608] 608 Cap. IV, De uoluntate Dei
+
+§. 848. In reuelatione, ſi ſcripto fiat, et uerba certos ſignificatus, et phra- ſes certum determinatumque habe- ant sensum. Demonstr. Cum enim reuelatio fiat ideo, ut homo perueniat ad cognitionem uoluntatis diuinae, quam, ope rationis, non poterat cognoſcere, 330. conſequens eſt, ut reuelatio ſit perſpicua. Quod enim niſi eſſet, uoluntas D EI non poſſet cognoſci. Reuelatio autem non poteſt eſſe perſpicua, niſi uerba certos ſignificatus et phraſes certum determinatumque habeant ſenſum.
+
+5. 849- Reuelatio debet in ſe continere media ad salutem sufficientia. Demonstr. Dum enim non ſine ratione nobis reuelat ſuam uoluntatem, (§. 830.) conſequens eſt; ut debeat finis eſſe, cur homini reuelet quicquam Quem cum nullum alium eſſe, quam ſalutem hominum, comprobet benignitas DEI, patet, reuelationem debere in ſe continere media ad salutem ſufficientia.
+
+Haec [p. 609] et attributis cum eodem connexis. 6c”
+
+Haec ſunt praecipua reuelationis criteria, quae num recte quadrent in librum illum, quem nos Biblia uocamus, quemque habemus pro uera reuelatione, non eſt huius loci uberius diſquirere.
+
+§. 850. Viis ita ad uoluntatem Dei rite cogno scendum demonstratis, quaedam adhuc attributa Dei, cum uoluntate eius connexa, ſunt exponenda. Huc pertinent sapientia, bonitas, iustitia, omnipotentia.
+
+t. 5. S85I Qui id eligit, quod optimum eſt, ſiue finibus ſuis conuenientiſſimum, ille dicitur sapiens. Sapientia autem eſt perfectio, qua quis id, quod finibus ſuis eſt conuenientissimum et optimum, eligit. Alii sapientiam definiunt per ſcientiam media et fines ſibi inuicem recte subordinandi.
+
+6. B52. Ex his intelligi poſſunt gradus ſapientiae, et quando quis magis minusue dici possit ſapiens. Quo plura quis ad finem nouit media, hoc eſt ſapientior. Sapientior ille etiam recte putatur, qui per eadem media finem ampliorem obtinere nouit, item: qui finem eundęm mediis paucioribus et ſim-
+
+[p. 610] 610 Cap. IV. De uoluntate Dei 1 1 plicioribus obtinere ſcit, qui denique plura media et fines ita nouit ſibi inuicem ſubordinare, ut unum idemque ſimul, diuerſo tamen reſpectu, medii finisque locum sustineat, Quae omnia ſi in ſummo adsunt gradu, tum illa ſapientia dicitur ſumma.
+
+5 S853- Deus gaudet Sapientia summa. Demonstr.
+
+Cum enim Deus, ob ”;uoluntatem perfectiſſimam, ſemper eligat id, quod optimum eſt, et finibus ſuis conuenientissi mum, (§. 831.) eiuſmodi autem perfectio, qua quis eligit optimum, ſiue finibus ſuis con uenientissimum, dicatur ſapientia, (1.851.) con- ſequens eſt, ut Deus gaudeat ſapientia. Et quia, quicquid Deo ineſt, id ipſi ineſt ab- ſolute et in ſummo gradu, (§. 802.) conſequens eſt, ut DEVS poſſideat ſapientiam eamque ſummam.
+
+Poteſt hoc theorema ita quoque demonſtrari: DEVS gaudet intellectu perfectis simo, (§. 810.) et omnia poſſibilia di- stinctis: ſime cognoscit; (§. 813.) quicunque uero omnia possibilia diſtinctiſſime cogno- ſcit, ille nouit quoque: omnes mediorum et finium [p. 611] et attributis cum eadem connexis. 6II simum ſubordinationes, ſiue: ille nouit, qua uia quibusue mediis fines optimi poſſint impetrari. Scientia fines et media ſibi inuicem recte ſubordinandi dicitur Sapientia, Ergo Deus habet ſapientiam, eamque ſummam.
+
+§. 854. Deus ergo ad quemlibet finem omnia media poſſibilia nouit; finesque amplisſimos mediis ſimplicisſimis ſcit obtinere. Demonstr. Cum enim ad summam requiratur ſapientiam, ut ad quemlibet finem omnia media poſſibilia sciat, finesque am- plissimos mediis simplicissimis norit obtinere, ũ 82) Deus autem ſumma gaudeat sapientia, (§. 853.) manifeſtum eſt, Deum ad quemlibet finem omnia poſſibilia media nosse, et mediis simplicissimis fines amplissi- mos ſcire obtinere: §. 855 Bonitas est promtitudo aliis perfectiones conferendi. Quo intenſius itaque eſt ſtu- dium,. aliis perfectiones conferendi, quo plures perfectiones aliis conferre nitimur, quo denique plures ſunt, quibus perfectio-
+
+Qq a nòs
+
+[p. 612] 612 Cap. IV. De uoluntate Dei nes conferre cupimus, hoc maior eſt bonitas. F-B856. Maxima itaque et ſumma bonitas eſt A dium intenſiſſimum, entibus omnibus perfectiones omnes, quas capere poſſunt, conferendi. DEVS habet ſummam bonitatem. Demonstr. Cum enim Deus uelit omne bonum, (5 8:8.) conſequens eſt, ut Deus quoque uelit creaturarum perfectiones, atque adeo ſtudium in Deo eſt creaturis tribuendi perfectiones. Quod cum ſit id ipſum, quod uocamus bonitatem, (§. 855.) intelligitur, Deum habere bonitatem. Quia uero, quicquid Deo ineſt, ineſt ipſi in gradu abſolute ſummo, (s 80æ.) ſequitur, ut Deus habeat bonitatem ſummam.
+
+Quamuis Deus pronus ſit, ui ſuae bonitatis infinitae, ad omnes omnino perfectiones cuique creaturarum conferendas, 856) cum tamen fieri nequeat, ut creatura quicquam recipiat, quod eſſentiae ſuae non con- [p. 613] et attributis cum eadem connexis. 613 —mu—m congruit, intelligitur, quî sit, quod Deus ſingulis creaturis tantum conferat perfectionis, quantum poteſt capere earundem eſſentia et natura. F- 859- Non itaque bonitati diuinae aduerſatur, cum magna bonorum inaequalitas in mundo obuia reperitur. Tantum enim creaturae cuique largitur Deus, quantum capere ipsa poteſt, et quantum ſapientia Numinis, nexum et conuenientias rerum ſpectans, permittit 5. 860. Iuſtitiam definimus per bonitatem, cum ſapientia connexam, ſiue adminiſtratam. Definitio haec, quam VVolfio debemus, quamque copioſius euoluit Cel. Bulfingerus in Dilucidat. S- 445. prorſus conuenit cum ueterum defi- nitione, qua iustitiam dicebant uoluntatem ſuum cuique tribuendi. Bonitas enim tribuit unicuique, ſapientia autem oſtendit, quid sit illud tandem, quod tribuere liceat, aut negare oporteat, pro rei conuenientia. q
+
+5 S361 Iustitia ergo ſumma eſt bonitas ſumma, ſecundum sapientiae perfectissimae leges temperata ſiue adminiſtrata. 1 Q9
+
+0.8620
+
+[p. 614] 614 Cap. IV. De uoluntate Dei
+
+5 8602. Deus habet iuſtitiam ſummam, ſiue eſt iuſtiſsimus. Demonſtr. Cum enim Deus bonitate ſumma gaudeat, (§. 857.) ſapientiam item ſummam possideat, (§. 853.) ſapientia autem, in Deo cum bonitate amiciſſime conſpirare debeat, (ob perfectiones diuinas summas, quaę omnem repugnantiam et dissonantiam re- ſpuunt,) conſequens eſt, ut Deus iuſtitia ſumma gaudeat, "! De hac Iuſtitiae diuinae notione commodiſſime legi poſſunt Bũlfingeri Dilucidat. ſ. 445. et Cantzius in Vſu Philoſ, in Theolog. p. 342-
+
+Potentia dicitur facultas poſſibilia perducendi ad exiſtentiam. Summa itaque poten tia ſiue omnipotentia eſt facultas omnia poſſi- bilia perducendi ad existentiam, 4 §.
+
+864. Deus eſt omnipotens, siue Deus gaudet ſumma potentia. Demonſtr. Cum enim Deus hunc mun dum, et quicquid in eo eſt, ad actum perduxe- [p. 615] et attributis cum eadem connexis. 615 duxerit, i. 778.) colligitur, Deum possibilia ad actum perducendi ui gaudere:. Quae uero uis, poſſibilia ad exiſtentiam ſiue actum per- ducendi dicitur potentia, (5. 258.0 Ergo Deus habet potentiam. Quia uero, quicquid Deus poſſidet, id possidet abſolute, et in ſum- mo gradu, 802) conſequens eſt ut Deus habeat ſummam potentiam, ſiue omnipotentiam Deus ergo eſt omni- potens. 5 B65: Impoſſibilibus omnipotentia Dei non poteſt largiri exiſtentiam. Demonstr. Fac enim, Deum largiri impos- ſibilibus exiſtentiam poſſe, tum efficere poterit Deus, ut impoſſibilia ſint poſſibilia. Id omne enim, quod actu exiſtere debet, debet eſſe possibile. ſ52.) Quod uero cum fit contra principium contradictionis, 5. 22) uides, fieri non poſſe, ut producat Deus et ad exi- ſtentiam perducat impossibilia.
+
+Impoſſibile autem quid eſt, uel ratione DEI, uel ratione rei. Ratione DEI id eſt impoſſibile, quod cum eſſentia, ceterisque perfectionibus diuinis non pugnat. E. gr peccare, mentiri, eſt impoſſibile, ratione DEI, quamuis non in ſe et ſua natura. Ratione 94 vero
+
+[p. 616] 616 Cap. IV. De uoluntate Dei. vero rei id uocatur impoſſibile, quod in ſe et ſua natura inuoluit contradictionem: E. gr. facere, ne bis duo faciant quatuor.
+
+§. 866. D EVS facere poteſt, quicquid uult. Demonstr. Dum enim omnia poſſibilia Deus ad exiſtentiam poteſt perducere, ũ 864.) inter omnia autem poſſibilia, neceſſario referatur id, quod optimum eſt, finibusque diuinis conuenientiſſimum; con- ſequens eſt, ut Deus id quoque, quod optimum eſt, finibusque ſuis conuenientissimum, possit pro- ducere. Deus autem nonniſi uult optimum,; quodque ſuis finibus eſt conuenientiſſimum. G. 831) Ergo Deus facere poteſt, quicquid uult. §. 867. Non autem uult Deus omnia perducere ad exiſtentiam, quae poteſt ad illam perducere. Demonſtr. Dum enim Deus tantum uult optimum, (§. 831.) plura autem poſſibilia ſunt, quam id, quod optimum eſt, palam eſt, Deum, qui omnia possibilia ad exiſtentiam deducere poteſt, b 364.) non uelle omnia [p. 617] et attributis cum eadem connexis. 67 omnia ad exiſtentiam perducere, quae poteſt. 5. 958. Sanctitatis uox generatim indicat quam- cunque ſeparationem, ſiue immunitatem. Sic maieſtas regia dicitur sancta, quia ab omni laeſione priuata eſt ſeparata, item uaſa, cultui diuino conſecrata, ſunt sancta, quatenus ab uſu uulgari ſunt separata. Sanctitas autem, de Deo praedicata, ſignificat abſolutam ex- clusionem omnium imperfectionum in Deo. §. 869. Deus eſt sanctissimus. Demonſtr. Cum enim Deus omnes poſſibiles perfectiones poſſideat, ſꝗ. 892) ui oppo- ſitorum neceſſario ſequitur, omnes omnino imperfectiones abſolute ab ipſo excludi. Quae abſoluta omnium imperfectionum exclusio, cum ſanctitatem Dei conſtituat, ſĩ. 868.) manifeſta eſt ratio, cur, Deum ſanctiſſimum eſſe, aiamus. §. 870. : Ex his intelligitur, intellectui diuino eatenus tribui ſanctitatem, quatenus omnia poſſibilia neceſſario cognoſcit, omnemque Q9 5 igno-
+
+[p. 618] 6I8 Cap. IV. De uoluntate Dei ; ignorantiam a ſe excludit. Voluntas autem DEI eatenus ſanctitatem habet, quatenus omne bonum ſemper et ubique appetit, et omne malum auersatur, 1. Vid.
+
+Hoeferi diſſertatio de Notione Sanctitatis diuinae. Vittembergae ræ. habita. 5. 971.
+
+DEVS non habet affectus. Demonſtr. Cum enim affectus oriantur ex confuſa boni maliue repraesentatione, 631) DEVS autem non niſi distinctissime, atque adeo ſine omni confuſione, ſibi omnia reprae- ſentet, (§. 83.) conſequens eſt, ut Deus omnibus careat affectibus.
+
+DEVS eſt ſpiritus perfectiſſi- Demonstr.
+
+Cum enim Deus habeat intel- lectum perfectissimum, (§. 810.) item uoluntatem perfectissimam, 825.) ſubſtantia autem, intellectu perfectissimo et voluntate perfectiſſima praedita, dicatur ſpiritus perfectissi- mus, (I. 474.) confitendum eſt, Deum eſſe ſpiritum perfectissimum. §. 873. [p. 619] et attributis cum eadem connexis. 6I9
+
+5. 873. Explicata ita uoluntate diuina, attributisque, cum eadem connexis, intelligi nunc poterit, quid ſint decreta diuina.
+
+§. 874. Decretum Dei eſt ipſa executio, ipſe actus, et determinatio uoluntatis, qua id, quod contingens eſt, exiſtens redditur. Theologi decretum ita definiunt: Eſt actus uoluntatis diuinae, quo Deus aliquid ſerio omnibusque cir>cumstantiis. conſideratis uult ad exiſtentiam perducere Ea autem inter uoluntatem decretumque Dei differentia aſſignatur. Voluntas Dei omnibus bonis delectatur, uultque omnia bona, cum uero, ob colliſionem, omnia bona non poſſint obtineri, ſapientiaeque praeterea diuinae repugnet, omnia, quae bona ſunt, ad exiſtentiam perdu- ci, decernit Deus tantum optimum. Illa uoluntas, qua Deus omnia bona uult, dicitur antecedens, haec autem, qua Deus tantum decernit et uult ex pluribus bonis optimum, appellatur uoluntas conſequens. Voluntas illa, qua DEVS mundum hunc perducere ad exiſtentiam uoluit, dicitur decretum DEI uniuerſale, quod tantum unum eſt, quia unus eſt mundus. Atque hoc ſenſu definit Thümmigius decretum Inſtitut. Philoſ. VVolfia- mnae P. 229. ubi, Decretum, inquit, eſt Numinis uoluntas de uniuerſo ad actum perducendo. Decretum uero hoc uniuerſale, ad quod omnia totius
+
+[p. 620] 620 Caput IV. De uoluntate Dei etc. totius uniuersi, maxima, minima, pertinent, ac- cipit nomen decretorum particularium, quatenus hoc decretum uniuerſale ad hoc illudue indiuiduum refertur. Quatenus e. gr. Deus uult, ut Caius in aeternum ſaluetur, eatenus haec uoluntatis determinatio, reſpectu huius indiuidui, Caii, audit decretum Dei particulare.
+
+s 5. Cum ergo decreta ſint determinationes uo- luntatis Dei, ũ§ 874.) ſequitur, ut, quicquid de uoluntate Dei dictum eſt, idem quoque de decretis diuinis dici debeat.
+
+5. 9756 Cum uoluntas diuina ſit immutabilis, (§.835.) Decreta quoque Dei ſunt immutabilia. 2) Voluntas diuina eſt principium et fons exiſtentiarum rerum contingentium, ſꝗ 837.) nihil poteſt ad exiſtentiam peruenire, niſi quod Deus uult, Ergo nihil poteſt euenire, niſi quod Deus decreuit. 3) Voluntas Dei eſt liberrima, (5 ꝗ36.) Ergo decreta Dei ſunt liberrima. 4) Decreta Dei certo executioni dantur. Quod enim niſi eſſet, aut mutaret”gẽt Deus ſua decreta, quod eſt contra num. I. aut ab alio im-
+
+[p. 621] Cap. V. De operibus diuinis. 61 impediretur, quod eſt contra independentiam, 5. 789. demonſtratam.
+
+50 Decreta Dei sunt aeterna. Quod enim niſi eſſet, fuiſſet aliquando tempus, quo Deus nondum decreuiſſet id, quod postmo- / dum decreuit. Sic Deo aliquando non omnia ipsi defuissent, quae ipſi ineſſe poſſunt, quod I eſt contra ꝗ 393. et ſimul ſucceſſio daretur in
+
+Deo, quod eſt contra 68. Eũ
+
+6) Voluntas Dei ſemper ratione obiectiua mouetur ad appetendum. 8:0) Ergo nihil abſolute Deus ꝗecernit, ſed ob ratio- =u nem, in nmem, in obiecto deprehenſam, hoc illudue ab aeterno decreuit.
+
+&CAP.V. nE' O P ERIBVS DIVINIS. 5 87. 3Decreti Dei uniuerſalis exſecutio ſe uel V maxime exseruit tum, cum Deus hunc mundum creare?, ſiue ad exiſtentiam perduceret. Creatio autem nihil aliud eſt, quam productio rei ex nihilo.
+
+Ad
+
+[p. 622] 622 Cap. V. De operibus diuinis. :
+
+Ad opera diuina ſive executiones decretorum diuinorum dum aggredimur, notandum eſt, actiones Dei eſſe uel immanentes, uel tranſeuntes. Illae sunt, quarum obiectum eſt ipſe Deus; Hae uero, quae extra Deum terminantur. Inter actiones D EI tranſeuntes primo loco referenda eſt creatio, qua Deus hoc uniuerſum, cum antea nihil eſſet, exiſtens reddidit. Bülfingerus aliam adhuc format notionem creationis, Mea quidem ſententia, inquit, foret etiam illa ueri nominis creatio, ſi Deus ab aeterno realitatem illi largiretur, quae ex ſeſe nullam habet, adeoque de ſeipſo nihil eſt. Conſ. Dilucidat. philoſ. p. i156.
+
+5 u78 DEVS liberrime mundum crea Demonstr.
+
+Cum enim uoluntas Dei ſit liberrima, (§. 836.) ratio autem ſufficiens exi- ſtentiae huius mundi non contineatur in eſ- ſentia Dei, ſed in eius uoluntate, 824) facile intelligitur, DEVM, dum hunc mundum produxit, egiſſe liberrime.
+
+Finis, cur DEVS hunc mundum creauit, est perfectionum ſuarum manifestatio.
+
+[p. 623] l Cap. V. De operibus diuinis. 623 1 Demonstr.
+
+Cum enim Deus, ob sapientiam suam infinitam, finem in c]an ào undo habuerit, neceſſe ſit, 53) couœ, aers est, ut finis hic, a DEO in creando mundo intentus, aut ſit in ipſo mundo, aut in Deo. In mundo ipſo eſſe non poteſt, mundus enim id ipſum eſt, per quod finis promoueri et obtineri debet. Ergo finis creationis mundi in Deo ſit oportet Cum vero Deo eiusque attributis ex creatione uniuerſi nihil detur, aut dari queat; Deus enim, quicquid in ipſo eſt poſſibile, actu possidet, (s ę.) reſtat, ut affirmemus, nihil aliud Deum in condendo mundo intendiſſe, quam ſuarum perfectionum manifeſtationem, ſiue, quod idem eſt, gloriae ſuae illuſtrationem. Gloria enim Dei illustratur, cum eius perfectiones pate- fiunt et manifeſtantur.
+
+Ceterum de creatione mundi uariae in medium proferuntur quaeſtiones, quarum ſequens uel maxime turbas concitauit. Quaeritur ſcilicet, num mundus hic creari potuerit ab aeterno? Non recenſere hic omnia ea licet, quae de hac quaeſtione ultro citroque ab eru- * ditissimis uiris ſunt diſputata. Ratio quidem determinare non poteſt, quo praeciſe tempore mundus hic ſit creatus, nec definire ratio ualet, quamdiu hoc uniuerſum durauerit. Id tamen ratio ex notione creationis colligere poteſt, aliquando
+
+[p. 624] 624 Cap. V. De operibus diuinis. 1 quando coepiſſe mundum. Vbi enim aliquid exiſtens redditur ex nihilo, ibi initium exiſtentiae ſtatuatur neceſſe eſt. Atqui in omni creatione etc. Ergo. Quocunque etiam modo tibi conceperis creationem, quocunque modo tibi repraesentaueris id, quod creatum eſt, nunquam profecto fieri poterit, vt id, quod creatur, ſiue creatum eſt, ſine initio exiſtendi tibi concipias. Hinc iudicari poterit, num mundus potuerit creari ab aeterno? Nego et pernego. In re ipſa enim hoc inuoluit contradictionem, creari, et tamen ab aeterno eſſe. Conf. Bülfingerus in Dilucidat. J 187. 6 p3so. Creationem excipit prouidentia DEI, Quam uero qui intelligere cupit, is uero antea ea, quae notionem prouidentiae ingrediuntur, rite perſpecta habeat et explorata. Quare, quid ſit conseruatio, quid concursus, quid denique gubernatio, paucis ante deſiniemus.
+
+5 88I Si res creatae exiſtentiam ſuam continuare debent, neceſſe eſt, ut Deus uoluntatem ſuam de creaturarum exiſtentia continuet. Demonſtr. Solum ens neceſſarium exiſtit per eſſentiam ſuam, (§. 177.) et eſt attributum entis
+
+[p. 625] Cap. V. De operibus diuinis. 625 entis a ſe, ut ui propria exiſtat. ſ§ 7237.) Cum vero attributa rei ſint incommunicabilia, ũ. 81) fieri nequit, ut DEVS creaturis, ;quippe quae non ſunt entia a ſe, aut neceſaria, ſed contingentia, (§. 47.) existentiam per essentiam det. Atque adeo neceſſe eſt, ut, ſi creaturae existentiam ſuam continuare debent, DE VS uoluntatem ſuam de creaturarum exiſtentia continuet.
+
+§. 882.
+
+Conseruatio eſt continuatio uoluntatis diuinae de rei creataẽe exiſtentia.
+
+§. 883.
+
+DEVS conſeruat omnia, quae creata sunt. 2 Demonstr.
+
+Experiundo nouimus, creaturas ſuam continuare existentiam Dum uero creaturae ſuam exiſtentiam continuare nequeunt, niſi D EVS ſuam uoluntatem continuet de earundem exiſtentia, (§. 881) continuatio autem uoluntatis diuinae de rerum creatarum exiſtentia dicitur conſerua-
+
+RI l tio, Rr 1
+
+[p. 626] Cap. V. De operibus diuinis. tio, 582.) palam eſt, Deum omnia, quae ab ipſo creata ſunt, conſeruare.
+
+In - qualibet autem re, quam DEVS conseruat, duo ſunt a ſe inuicem distinguenda, (a) Reale, et (O) Limitatio, ſiue defectus aliquis, qui 7ꝗ reali adhaeret. Sic e. gr. in anima humana eſt uis repraesentatiua, hoc eſt reale, et ab hoc reali omnes ueniunt repraesentationes. At haec uis adiunctas habet limitationes, ex quibus oriuntur repraeſentationes confuſae, errores, praeiudicia. Illud, quod reale eſt, DEVS conseruat, limitationes autem, 7õ reali adhaerentes et in meræ priuatione ſiue defectu ulterioris realitatis conſiſtentes, non indigent influxu aliquo conſeruatorio, atque adeo DEVS limitationes non conſeruat.
+
+Concurſus Dei generalis, qui extenditur ad omnes creaturas, eſt actio uoluntatis diuinae, qua Deus id, quod in re quapiam reale, in ui actiua conſeruat, et ad agendum creaturam aptam reddit. 1
+
+VVolfius in Theol. Natural. Tom. I. p. 873. concursum ad actionem alterius definit per actio
+
+[p. 627] Cap. V. De operibus diuinis. 627 actionem, quae in ſe continet aliquid rationis, cur agens agat uel egerit. 4 1885. C 100
+
+Ex hac definitione pateſcit, concursum diuinum a conseruatione non, niſi in eo, differre, quod conſeruatio ſit continuatio uoluntatis diuinae de continuatione exiſtentiae alicuius rei, concurſus autem tendat ad id, ut uis rei cuiusque actiua perma- Li 1. L 11
+
+Deus concurrit ad actiones creaturarum, quatenus sunt actiones, non uero concurrit ad actionum limitationes, a quibus prouenit, ut actio aliqua ſit praeciſe haec actio, nec alia. 2881- A Demonstr.
+
+Cum enim quaeuis actio, quatenus eſt actio, proueniat a ui agendi, tanquam principio et fonte ſuo, (§. 35.) con- ſequens eſt, ut, dum DEVS conseruat uim RI 2 agendi,
+
+[p. 628] 628 Cap. V. De operibus diuinis. agendi, ipſam quoque actionem patrari uelit. Conseruatio illa, qua DEVS uim agendi in subiecto quodam uult exiſtere, dicitur Concurſus D EI generalis. (§. 883.) Ergo Deus concurrit generatim ad actiones creaturarum, quatenus ſunt actiones, et a ui agendi proficiscuntur. Cum uero Deus limitatio- nes rerum non conſeruet, 883) concurſus autem DEI ſit ſpecies conſeruationis, (§. 885.) manifeſtum eſt, nec Deum ad limitationes actionum concurrere. A limitationibus uero uirium prouenit, ut aliqua actio ſit praeciſe haec actio, nec alia, (nam, dum uis agendi eſt limitata, non poteſt ſimul ad omne niti.) Ergo Deus non concurrit ad actionem, quatenus hoc illoue modo per limitationem determinata eſt.
+
+Theologi hanc poſitionem ita exprimunt: DEVS concurrit ad actionis materiale, non uero ad actionis formale, ſiue ad actionis ἀταξίαν. §. 887.
+
+Per gubernationem intelligimus directionem mediorum et actionum ad certum aliquem finem.
+
+§. 888.
+
+[p. 629] Cap. V. De operibus diuinis. 629
+
+5. 588. Deus omnia gubernat. Demonstr. Cum Deus ſit ens ſapientiſſimum, 853.) ſumme autem sapiens cum finibus optimis connectat optima media, (§. 851.) conſequens eſt, ut DEVS omnia di- æ F5:
+
+rigat ad certum finem. Quod  cum conſtituat Dei gubernationem, patet, Deum omnia gubernare. u ua a
+
+Qui omnia conſeruat, ad omnes creaturarum actiones concurrit, omnia denique gubernat, ille omnium quoque curam gerere exiſtimandus eſt.
+
+MESE Curam DEI pro creaturis dicimus prout- - dentiam diuinam, quique curam gerit creaturarum, iis prouidet.
+
+VVolfius Prouidentiam diuinam definit per decretum Dei de conſeruatione et gubernatione rerum omnium, in hoc uniuerſo et concurſu ad earundem actiones. Theol. Natural. p. 896. R 3 §.891. 1 [p. 630] c;0 Cap. V. De operibus diuinis.
+
+5. 89I. Deus prouidet omnibus Creaturis. Demonstr. Cum enim Deus omnia conſeruet, 883.)ad omnes creaturarum actiones concurrat, ũ. 886.) omnia quoque gubernet, 888) is autem, qui omnia conſeruat, ad omnes creaturarum actiones concurrit, omnia denique gubernat, omnium rerum curam gerere dicatur, ũ5: 889.) confiteamur, neceſſe eſt, Deum omnium rerum curam gerere. Is, qui omnium rerum curam gerit, prouidet iis. Ergo Deus prouidet omnibus creaturis.
+
+Haec prouidentia, qua DEVS omnium creaturarum uult exiſtentiam continuari, qua item uires activas creaturarum conſeruat, ſiue ad illas concurrit, qua denique gubernat omnia, et ad finem certum, modo ſapientiſſimo, dirigit, haec inquam, prouidentia a dicitur prouidentia generalis. Specialis uero prouidentia eſt cura DEI pro bono et contra malum- Haec ſpecialis prouidentia cuique fiet mani- * festa, qui expendet, mentes hominum diuinitus ita eſſe conditas, ut malum non posſint non auerſari, et bonum non posſint non appetere,
+
+[p. 631] Cap. V. De operibus diuinis. 63P : petere, qui item conſiderabit, DEVM ita omnia a;—t EB—2mut—r —o—0—e ee s —m n— connexuiſſe in hoc univerſo, ut ex bonis actio- nibus boni et iucundi effectus, tanquam prae- - mia naturalia, naſcantur, et ex malis actionibus mali et iniucundi euentus, tanquam poenae naturales, proueniant. Vt alia hic taceam prouidentiae DEI ſpecialis contra malum illuſtria documentat is imp tách
+
+Id tamen uideri poterit prouidentiae DEI ſpeciali prorſus aduerſari, quod tam multa tamque enormia peccata ſiue mala in hoc uniuerſo deprehendantur, quodque DEVS in hoc mundo innumera mala permiserit. Hic, quid ſentiant recentiores, atque in his maxime Leibnitius, paucis recensebo... 1 rgiro. (a)
+
+Leibnitius malum diuidit in malum me- taphyſicum, morale, phyſicum.
+
+(3) Malum metaphyſicum conſtituit in " limitatione siue in defectu ulterioris realitatis. 7)
+
+Cumque omnis creatura non posſit non eſſe limitata, ipſaque limitatio fluat ex eſſentia creaturae, quatenus eſt creatura, colligit hinc Leibnitius, non posse non omnem creaturam Leibnitius, non po e obnoxiam, malumque esse malo metaphyſico meta- RT 4
+
+[p. 632] 632 Cap. V. De operibus diuinis. 1 1 metaphysicum fluere ex eſſentia creaturae, quatenus eſt creatura.
+
+Malum morale conſtituitur in transgresſione legis.
+
+(2) Hoc malum morale, qua poſſibilitatem ſuam, recentiores deducunt ex ipſa limitatione atque eſſentia creaturae. Quatenus enim creatura limitata eſt, eatenus non omnia diſtinctisſime cognoſcit, et adeo confuſas habere poteſt ideas, Quatenus uero poteſt ideas habere con- - fuſas, eatenus poteſt errare, Quodcunque errare poteſt, illud poteſt bonum pro malo, et malum pro bono habere, adeoque peccare. Ergo creatura, quatenus limitata eſt, poteſt peccare. En! originem mali moralis, qua ꝓoſſibilitatem ſuam deductam ex ipſa limitatione ſiue eſ- ſentia creaturae.
+
+Hoc tamen malum morale, quamuis intellectus limitatio abſit, poſſe euitari, ſi ratio et intellectus recte adhibeatur, existimant, (n)
+
+Malum phyſicum, quod in perpesſione doloris conſiſtit, oritur, ex ſententia recentiorum, ex malo morali, (9)
+
+Ad DEVM auctorem mali metaphysici, moralis, et phyſici originem non referri debere,
+
+[p. 633] Cap. V. De operibus diuinis 633 NN- bere, aiunt, permiſiſſe tamen DEVM malum, addunt, (1) Affirmant, malum metaphysicum non potuiſſe impedire DEVM, quia limitatio eſſen- tiae creaturarum adhaereat; Adeoque ſi DEVS impedire uoluiſſet malum metaphyſicum, debuis- ſet non creaturas, ſed DEOS, creare, quod dictu eſt inconueniens. E
+
+Malum morale, inquiunt, DEVS permiſit ob rationes ſuae sapientiae conuenientiſſimas, æ et ob bona maiora obtinenda. Si conuenientius fuiſſet, malum morale impedire, impediuiſſet potius illud, quam permisisset. Quicunque enim non poteſt minus bonum praeferre maiori, ille nec poteſt malum permittere, niſi ubi ex per- misſione mali maius oritur bonum, quam ex impeditione. Atqui DEVS etc,. Ergo etc. Conf. Leibnitii Theodicaea, paſſim.
+
+§. 892. ũicm
+
+Quemadmodum corpori noſtro id prae- ſens eſſe, diximus, (§. 497.) quod in id agit, ſic ſpiritui id eſſe praeſens, patet, quod ſpiritus ſibi repraeſentat.
+
+r Ls
+
+RTS 5. 593
+
+[p. 634] 64 Cap. V. De operibus diuinis.
+
+§. 893.
+
+Deo omnia sunt praesentia. Demonstr. Cum enim Deus ſit ſpiritus perfectisſimus, (§. 872.) et omnia posſibilia ſibi repraeſentet, g.) id autem, quod ſpiritus ſibi repraeſentat, ſit ſpiritui praeſens 892) palam eſt, Deo omnia eſſe prae- sentia. 5. 394- Id contra praeſens alteri dicitur, quod in alterum operatur.
+
+5. 855 DEVS itaque eſt omnibus rebus praesens. Demonſtr. Cum enim Deus omnes creaturas conſeruet, 883.) ad omnes creaturarum actiones concurrat, 886.) omnia denique gubernet, (§. 858.) adeoque circa omnes creaturas operetur, is autem, qui in alium operatur, ſit alteri praeſens, a97) euidentisſimum eſt, Deum eſſe omnibus rebus praeſentem. §. 896.
+
+[p. 635] Cap. VI De proprietatibus diuinis. etc. 635 T J. 896
+
+Duo itaque momenta ad omnipraesentiam requiruntur, ſcilicet (a) distinctissima cognitio omnium posſibilium, ſiue omniscientia; omni- operatio diuina, qua ad actiones omnium omnes concurrit.
+
+1 De hac notione omnipraeſentiae uideatur Cantzius in Vſu philoſoph. in Theologia p. 3. Requirit ſcilicet Cantzius ad omnipraeſentiam 7 repraeſentare omnia, et operari omnia. Hinc definit omnipraesentiam per ſtatum operandi omnia in omnibus creatis.
+
+EX : CAP. VI. 0=
+
+DE 0 f&/ H&
+
+PROPRIETATIBVS QVIBVSDAM DIVINIS, QVAE EX ANTECEDENTIBVS DEMONSTRANTVR.
+
+§. 897. Deus eſt ens actuoſisſimum.
+
+Demonſtr.Cum enim DEVS ui propria exiſtat, (§. 786.) omnis autem uis, niſi impedi-
+
+[p. 636] Cap. VI. De proprietatibus quibusdam pedimentum adsit, agat, (§. 300.) ſequitur, ut Deus continuo ſit actuoſus. Quis enim uim Dei agendi inhibere poterit, cum Deus a nemine dependeat? ũ 789)
+
+§. 898. Atque in hac actuoſitate continua, qua Deus per intellectum infinitum repraeſentat ſibi omnia poſſibilia, 810.) et, propter uoluntatem infinitam, uult omne et ſolum bonum, ũ 825.) conſiſtit uita DEI. 5
+
+§. 899. 3 Maiestas DEI ſiue gloria diuina conſiſtit in complexu omnium attributorum ſiue diuinarum perfectionum Cum igitur DEO omnes, quae modo poſſibiles ſunt, perfectiones competant, (§. 802.) manifeſtum eſt, D EO competere ſummam maieſtatem ſiue gloriam. §. 900. 4 Deus eſt beatisſimus, ſibique sufficientissimus.
+
+Demonſtr. Cum DEVS omnia diſtinctis- sime cognoſcat, seipsum quoque diſtinctis- ſime [p. 637] diuinis, quae ex antecedentibus demonſtrr 63
+
+ſime cognoſcat, neceſſe eſt. Si itaque Deus ſeipſum omneſque ſuas perfectiones diſtin. Etissime cognoscit, exinde non poteſt non in Deo oriri ſumma uoluptas, (§. 585.) quae, quia ob DEI independentiam turbari a nemine poteſt, ſemper et perpetuo durat. Cum vero in ſumma, ſemperque duratura uoluptate conſiſtat summa felicitas, (per des.) Deum eſſe beatiſſimum patet. r
+
+Porro, quia Deus omnia habet actu, quae habere poteſt, (§. 802.) intelligitur, Deo nihil deeſſe, Deumque adeo ſibi eſſe sufficientissi.. mum. §. 901.
+
+DEVS eſt Dominus omnium rerum. Demonſtr. DEVS omnia conſeruat, 883) ad omnes creaturarum actiones concurrit, 886.) omnia denique gubernat; (5 888 DEVS porro a nemine dependet, 789.) atque adeo nemini rationem reddere tenetur: A D E I denique uoluntate, tanquam fonte omnium rerum exiſtentium, dependent omnia. (§. 837.) Ex his conficitur, DEVM eſſe dominum omnium
+
+[p. 638] 638 Cap. VI. De proprietatibus diuinis etc. omnium rerum. Eum enim merito dicimus dominum, cuius uoluntati aliqua res ita ſubiecta eſt, ut nemini rationem reddere te- neatur. §.
+
+§. 902. : : Has ergo perfectiones, quibus maieſtas diuina exſplendeſcit, qui distinctius pieque conſiderat, non poterit non ad ſanctam aliquam D EI reuerentiam, ad cultum religio- ſum, amoremque Numinis benigniſſimi in: citari. Quem quidem religiosum DEI cultum, ex diligentiori perfectionum diuinarum consideratione oriundum; in doctrina morum, ſuo tempore, ſumus expoſituri.
+
+2 Interim TIBI, ſanctiſſimum, rebuſque humanis propitium, Numen, gratias, quas poſſam, ſubmisſisſimas perſoluo, quod perclementer mihi adeſſe uolueris, ut Laborem hunc, uariis interruptum laboribus, feliciter ad finem perducere potuerim.
+
+FINIS TOTIVS METAPHYSICES.! ) 1 : J in CON
+
+[p. 639] +53 o s* CONSPECTVS CAPITVM In hac Metaphyſica contentorum. Prolegomena, in quibus Metaphysices natura et indoles interior, uſuſque item inſignis exponitur. pag.
+
+Laa ONTOLOGIAE. 7 I. De principio contradictionis. pog 18 II. De principio rationis ſufficientis. 238 III. De poſſibili et impoſſibili. 5 IV. V4AuiaDe exiſtentia. De exiſtentia. 52 s9 De existentia. V. De notione entis et non - entis. VI. De essentia D VII. De generalioribus entis affectionibus. VIII. De eo, quod idem est ac diuersum. IX. De determinato et indeterminato. pag. I pag. 18 -28 N - 45 152 57 64 1 76 86 106
+
+### X. De
+
+toto et parte. 112 XI. De ente singulari et uniuersali.
+
+XII. De necessario et contingente 130 XIII. De ordine, ueritate Metaphyſica, et perfect, 10
+
+### XIV. De ente composito. 160 -
+
+XV. De ente simplici. 185 XVI. De ente finito et infinito. 216 XVII. De principiis et caussis. 1 228 XVIII. De ſigno et ſi;nato. 257 3 COSMOLOGIAE GENERALIS Cap. I. De Coſmologia in genere. 259 II. De notione ſiue conceptu mundi. 262
+
+### III. De eſſentia et natura corporum uc pendentibus
+
+inde affectionibus. 288 IV. De legibus motus. 295
+
+### V. De corporum elementis. 30L
+
+VI De naturali et supernaturali, ſiue miraculo. 3 r VII. De mundi perfectione. 326 PNEVMA-
+
+[p. 640] 3o t PNEVMATOLOGIAE PSYCHOLOGIAM E? THEOLOGIAM NATVRALEM COMPLEXAE Caput praeliminare, de ſpiritu in genere. 331 PSYCHOLOGIAE EMPIRICAE 1 Cap. I.
+
+De animae exiſtentia. cognoſcendieiuſ́ i 337 II. De facultate cognoscendi eiuſq, parte inferiori. 340 III. De facultate sentiendi. 343 IV. De facultate Imaginandi. 349 V. De facultate imaginandi. 349 VI.De facultate fingendi. 357 K. VI. De statu uigiliurumfincendi. l 357 ſomni et somni. 360 VI. De memoria, obliuione et reminiſcentia. 363 De facultate cognoſcendi eiuſque parte ſuperiori. Cap. I. De facultate attendendi et reflectendi. 368 -II.
+
+De intellectu. 373 -III. De ingenio, ratione, rationisque analogo. 5382 -IV. De uoluptate et taedio. 892 -V. De appetitu et auerſatione. 400 VI. De affectibus. 410 -VII. De uoluntate eiuſdemque libertate. 433
+
+### VIII. De commercio animae et corporis, quatenus illud
+
+conſtat ex experientia. 445 PSYCHOLOGIAE RATIONALIS. Cap. I. De eſſentia et natura animae, rationibuſque eorum, quae ſunt in anima. 45I -I1I. De modo, quo anima cum corpore est coniuncta. 470 SECT. I.
+
+De Syſtemate influxus Phyſici. 40 SECT. II. De Syſtemate adſiſtentiae,
+
+ſeu cauſſarum occaſionalium. r 483 S ECT.
+
+[p. 641] )0( SECT. 111.
+
+De Syſtemate Harmoniae praeſtabilitae, ſiue Leibnitiano 486 Cap. III. De immortalitate animae 50I
+
+### IV. De animabus brutorum 5I4
+
+THEOLOGIAE NATVRALIS Cap.
+
+### I. DeetDei
+
+-II. De Dei existentia 531 II. De essentia et attributis Dei in genere53I - III. De intellectu diuino et attributis cum ipſo connexis 1 568
+
+### IV. De uoluntate Dei et attributis cum eadem
+
+connexis 579 V. De operibus 579 diuinis 621I VI. De proprietatibus quibusdam diuinis. 655
+
+A Index rerum praecipuarum. Numerus paginam indicat.
+
+A.
+
+IX Abstrahere quando dicamur? 378 A B Abſtractae notiones 378 3.378 Accidens 79. eſt uel praedicabile uel praedicamentale, 79. Actio, eius definitio, 199. uel ſimplex uel compoſita, 200.
+
+uel ſpontanea uel coacta i 437. et 438 Agendi uis in quonam conſiſtat? 402. differt a potentia agendi : ibid, et ſqq. Agere libere quando dicamur? 439 Acumen quid ſit? 380. eius gradus, ibid. pertinet ad intel- lectum 38I Acquieſcentia quid? 42. eſt affectus admodum gratus, ib. poteſt degenerari in uitioſam ꝗirœuT ibid, Adiuncta quid? 86. sunt uel propria uel communia, ibid, s5 Aemu.
+
+[p. 642] Index rerum praecipuarum. Acnd 0 d? 428. plures huic ane.tus ſunt immixti, Affectus, eius definitio, 409. quomodo generetur? uel in taedio uel in uoluptate consistat
+
+A eiæ dernũtio 09 quomodo generetur? 410 neel:n uunntt. econliſtit ibid. uhu m giats et ingratos, 31I. ſunt uel originarii uel deriuatiui ibid. et sqq. Amor quid?
+
+415. quotuplici modo consideretur? ibid. unde oriatur? ibid, eius Criteria allegantur, 416. Analo- gum rationis. 391. in brutis locum habet 521 Anima quid? 338. eius existentia unde nobis innotescat? 339. eius regimen in corpus, 350. eſt ens ſimplex. 456 avdet u e cogitandi, ſiue repraeſentatiua ibid. eius essentia in quonam consistat? 466. eius immortalitas in quonam e miutat? 5083. cum corpore interire nequit, 506. poſt mortem perceptiones suas continuat, 507. post mortem in statu perceptionum distinctarum uersatur, 521
+
+508 Animositas quid? 428 Apperceptio quid? 341. ad omnem cogitationem requiri- Tui 35d. Appercipere quando dicamur? 341I Appetendi facultas quid? 401 Appetitus dv 40n1. cum co eſt u-luptas coniuncta, 402. gradus admittit,
+
+403. eſt uel ſenſitiuus uel rationalis, 406. eius lex quaenam ſit? 405 Appetitus sensitiui et rationalis pugna 434 Attributum quid? 77 Attributa entis Altuibuim quid non possunt ab eiusdem eſſentia ſeparari, Attendere quando dicamur? Attentionis gradus quinam sint? 77. sunt necessaria, aeterna, mutabilia, incommunica- bilia Auersatio quid?
+
+402. cum ea coniunctum eſt taedium. ibid-
+
+B.
+
+m aud? 395. eſt uel uerum uel apparens 299 nam mnns quidſ ihid- 7 Ltn animbty n. edita, 574. cogitant, 515. fen- fationibus, imaginatione et memoria gaudent, ibid. 78 369 ibid. 1 ٢٤ agunt.
+
+[p. 643] Index rerum praecipuarum. agunt ſecundum legem imaginationis. 516. gaudent appetitu sensitiuo et auersatione ſenſitiua, ib carent ideis rerum distinctis, 517. abſtrahere nequeunt, 518. carent ratione, 5I9. habent analogum rationis. 52I. habent ſpontaneitatem in agendo, non libertatem, 523. Brutorum animae ſunt entia simplicia, non ſpiritus, 523. sunt ex sua natura destru & indestructibiles, 524. inter hominis et bruti animam maxima eſt differentia. Com C. 526 Caſuum
+
+C.
+
+C aequiuoca,, ib. aſuum ſimilium expectatio 590 Cauſſa, eius definitio, 237. efficiens 238. eſt vel li- bera uel necessaria, 239. est uel uniuoca uel aequiuoca, ibid. eſt uel inſtrumentalis uel principalis, 240. eſt uel phyſica uel moralis, 24I. eſt uel per ſe uel per accidens talis, ibid. ſolitaria, 248. a proxima est remota, 244 eſt remota, 244. eſt uel ſufficiens uel inſufficiens, 245. nil est caussa ſui ipsius, 246. qualis cauſſa uniuoca, talis quoque eſt esse- Etus, 247. Caussa caussae eſt etiam cauſſa caussati;, ibid. omnis caussa efficiens ui agendi praedita eſe debet, 245. cauſa abſolute eadem contrarios effectus produ- cere nequit. 248. non potest eſſe plus in effectu, quam fuit m caussa, 250. Cauſſa, quatenus; eſt cauſſa, et effectus ſunt ſimul, 251. finalis quid? ibid. Impulſiua qui: 254. materialis Caussae sociae quid? 243. subordinatae 235 Cauſſalitas quid? Cauffatum quid?
+
+Cogitatio quid? Cogitationum profunditas 343 Commiseratio quid? 418. eſt filia amoris 419 Conditio sine qua non $ 258 245 237 ibid. 341 343 419 246 Confusio quid? I42 Connecti quaenam dicantur? 267 Connexa, 233. ſunt uel ratione temporis uel ratione ſpatii, 267 t Lq- Conſenſus quid? 59 Conſciĩ nobis noſtrum quando dicamur? 337 Contingens quid? 134. inter mutabilia refertur 135 Contradictio quid? 200 eſt uel implicita, uel explicita, ibid. Ss 2 Corpus
+
+[p. 644] Index rerum praecipuarum. Corpus quid? 293. eius materia quaenam ſit? 291. cor- pori naturale quodnam dicatur? Corpora quid? 288 eorum elementa quaenam ſint? 30I Cosmologia quid? 255. recte ad metaphysicam refertur, 311 261 eius plures ſunt sſus d,. Creatio quid? 621 D. D decretum
+
+Dei quidũ 619 D Dependere ab altero quando en: dicatur? 229
+
+Deſide. tum Determinare quid significet? Determinationes quid? 619 1 229 425 ſignificet? 106 108
+
+Deus, eius definitio, 532. eius exiſtentia 108 demonſtratur, 540. eius attributa quid? 553 non opus habet ui entis alterius extra ſe ad exiſtendum, 555. eſt ens a ſe, 556. eſt ens independens, ibid est immutabilis, 557. eſt immutabilis, 555 eſt ens primum et ultimum, ibid. non poteſt eſſe ens compositum, 560. eſt ens ſimplex, ibid. non poteſt ha-, bere limites, 561. eſt ens infinitum, ibid. habet omnes perfectiones actu, quae in ipſo ſunt compoſſibiles. et quidem ſine ullo gradu, 562. et 564. eſt immensus, 565. eſt unicus, 566. gaudet intellectu perfectiſſimo, 563. et sqq. eius intellectus eſt fons eſſentiarum, et eſt purissimus, 576 et 553. nec ſentit nec imaginatur, ibid nec ratiocinatur, 574. eſt omniſcius, 575 1anone ſumma et puriſima gaudet, 556. gaudet uoluntate perfectissima, 579. elegit mundum optimum, 587. et sqq. eius uoluntas eſt immutabilis, 597. est liberrima, 596.. eſt principium omnium existentiarum rerum contingentium, 599 eſt sanctissimus, 617. non habet affectus, 618. eſt ſpiritus perfectiſſimus, ibid. eius decretum quid? 619. liberrime creauit mundum, 622eius prouidentia quid? 624. gaudet ſapientia ſumma, 610. habet summam bonitatem, 612. eſt iustissimus, 614 eſt omnipotens, ibid omnia conſeruat, 625. ad actiones creaturarum quomodo concurrat? 627. omnia gubernat, 629. prouidet omnibus creaturis, 630: Deo omnia sunt praesentia, 634. Eſt ens actuosissi mum, 1 i
+
+[p. 645] -o u
+
+Index rerum praecipuarum num, 635. Dei maieſtas in quonam conſiſtat? 636 Eſt beatiſſimus, ibid. Eſt dominus omnium rerum, 637 Diſparata quid? 131 Dispositio naturalis quid? Diuerſa quid? 90 Diuersa quid? sunt uel numero uel specie talia' 39. 50 Dormire Dolor quid? quando dicamur? 360 Dolor quid? 398
+
+#### E. L
+
+adem quid? 87. ſunt uel abſolute uel reſpectiue talia 12 ibid. Ens quid? 57. eſt uel actuale uel potentiale, 58. fictum, 59. reale, 60. ſingulare, 120. uniuerſale, ibid. neceſſarium, I35. contingens, 136. eſt uel priuatiuum uel poſitiuum, 60. unum, 90. uerum, I47. perfectum 158 Ens rationis quid? 58. eſt uel ratiocinatae uel ratiocinantis ibid. ens compoſitum, eĩus definitio, 16I. eius eſſentia in quonam conſiſtat? 162. non exiſtit abſolute neceſſario, I65. eſt extenſum, 166. ineſt ſpatio, 173. eſt diuiſibile, I80.poteſt fieri maius et minus, I8I. eſt menſurabile, 182. eius figura eſt mutabilis ibid. Ens ſimplex, eius definitio, I85. eius exiſtentia probatur, 186. non eſt extenſum, r8ꝗ. caret omni magnitudine, ib. caret figura, ib. eſt indiuiſibile, 189. ex composito oritur, 191, ex ſimplici non poteſt oriri, 192. ex nihilo producitur, 193. oritur in inſtanti, 194. interire quando dicatur? 195. ſi interit, debet annihilari, 196 Ens finitum, eius definitio, 2 79. non omne habet actu, quod habere poteſt, 220, eo concipi maius quid poteſt, ibid. Ens infinitum, eius definitio, 2 19. omnes realitates compoſ- ſibiles actu poſſidet et quidem ſine ullo gradu, 22I. 222. nullam admittit successionem, 223. nullius mutationis capax eſt, ib. debet eſſe ens abſolute necessarium, ib. non poteſt eſſe ens compoſitum, 224. duo entia infinita nec dantur nec dari poſſunt, > 224 Essentia quid? 65. eſt abſolute neceſſaria, 70. eſt absolute necessaria, 70, eſt immu- tabilis, 72. eſt aeterna, 73. eſt incommunicabilis, 74. nec minui nec augeri poteſt 75
+
+Ss 3 Essen- :
+
+[p. 646] i Index rerum praecipuarum. Essentialia quid?
+
+66 1 Exceptio regula perfectionis quid? Existentia quid? Extensum quid? 154 53 166
+
+#### F. Facultas quid?
+
+202 Fatum quid?
+
+279. rationabile, 281. Mohamedanum, 279 Stoicum, 280. Aristotelicum, ib. Spinosisticum, ibid. Fictio quid? 358. eſt uel poſſibilis uel impoſſibilis, 359 Fiducia quid? 435
+
+Figura quid? 183 Fingendi facultas 1383 Finis, eius definitio, 251. eſt uel principalis, vel minus principalis, 252. eſt uel proximus uel remotus, ib. eſt uel externus uel internus, 253. ultimus, ib. eſt uel cuius uel cui, ib. ſupponit ens intelligens, 254 Finitum quid? 219 Fluctuatio animi quid? ibid.
+
+Forma rei quid? 1777 256 Futurum quid? 177 G.
+
+,udium quid? »a3 U Genus quid? 125. eſt uel ſuperius uel inferius 126 Gloria quid? 422 Gradus quid?
+
+217 40 H. Harmoniae praeſtabilitae ſyſtema quid? 487
+
+I.
+
+Idea quid? i 3a1 Idearum aſſociatio quid? 355 Idealistae 446 Identitas quid? 88 • eſt uel ſpecifica uel numerica, ibid. Imaginatio quid? 30. eius lex quaenam? 835 Imaginandi facultas quid? 350 Imn?
+
+[p. 647] Index rerum praecipuarum. Impedimentum quid? Immutabile quid?
+
+Imperfectio quid? Impoſſibile quid? 46. est uel absolute uel uel abſolute uel hypothetice 253 135 156 tale 43 Independens quid 229 Indeterminatum quid? 108 Indifferentiae ſtatus
+
+397 Indiuiduum quid? 120
+
+Infinitum quid? 219 Influxistae 475 Influxus
+
+Phyſici ſyſtema quid? 475 ibid- Ingenium 382 Ingeniosus 1 383 Instrumentum quid? 240 Intellectus quid? 333. et 373. eius gradus, 374 eſt uel ib. et ſqq. purus uel impurus ibid. et sqq. Intelligere rem quando dicamur? 373 Interitus corporis noſtri quid? 502 Inuidia quid? 419 Ira quid? 429 Iracundia ibid. Iudicium unde oriatur? 370 Iustitia quid?
+
+L)
+
+netitiamotus V Leges quid? 413 motus quid? 296. ſunt contingentes, 300 Libertas quid? 440 Limes quid? 216 Locus quid? 174 i M. ęnitudo quid 5
+
+AVI Magnum 1I6 Malum quid? 398. minus Materia quid? Medium quid? Memoria quid? 115 116 399 Materia quid 255 Medium quid 253 Memoria quid 364 Ss 4 Men-
+
+[p. 648] Index rerum praecipuarum. Menſura quid? 182 Metaphyſica quid? 3. 7. eius utilitas y Metus quid? a25
+
+Minus quid? - 116 Mirabile quid? 116 Miraculum, 314. produci debet ab ente aliquo, a mundo diuerſo, 318. fit per ſaltum, 319. per hoc ordo naturae turbatur, 321. confuſio in nexum rerum introducitur, ibid. Modi quid? 79. ſunt contingentes et mutabiles a3
+
+Monades quid? 303 Mori corpus noſtrum quando dicatur? 502 Motiua quid? 405. ſunt uel uolendi uel nolendi ibid. Multitudo quid? quid? Mundus, eius definitio, 265. optimus, 593. in hoc datur nexus per caussas efficientes et finales, 270. eſt contingens, 285. eius perfectio in quonam conſiſtat? 327
+
+N.
+
+Natura quid? 294 Naturale, 311. corpori naturale quid? ibid. Spiritu 294 naturale quid? 3I Neceſſarium quid? 135. eſt uel abſolute uel hypothetice tale 132
+
+Nexus quid 233. 267 Nihilum quid? 62. eſt uel priuatiuum uel negatiuum, ibid.
+
+Nolitio quid? 402 Noluntas quid? 435
+
+Non - ens quid? 62 Nota characteriſtica quid? 90 O.
+
+Obliuio quid? 365 Occasionalistae 485 Occaſionalium cauſſarum ſyſtema quid? 4a34
+
+Odium quid? 417 1 Omnipotentia Dei quid? 614. impoſſibilibus non potest largiri exiſtentiam
+
+615 Ontologia quid? 9. demonſtrationem requirit, ibid. me- thodo mathematica tractanda eſt, 10. non eſt Lexicon : philo.
+
+[p. 649] Index rerum praecipuarum. - philosophicum, 12. reliquis ſcientiis philoſophicis ante- cellit, 13. facit ad ueritates inueniendas, 15. eius usus maxima eſt, ibid. philoſophia prima cur dicatur? 9 Oppoſita quid? ”ſſ;~ quotuplicis ſunt generis: n.ibid. Ordo quid? 141. eius regula, 142. eſt uel ſimplex uel com- poſitus 143 Organa ſenſoria quid?
+
+P.
+
+Pa aliquanta aliquota
+
+Partes quid ibid. II2 actuales -eſſentiales II; -integrales ibid. ibid.
+
+-potentiales ibid. -poſſibiles ibid. Paſſio quid? P. 144 345 115 ibid. 112 115 ibid. ibid. ibid. ibid. 201 427 Perceptio quid? 201 Perceptio quid? 341. eſt uel clara uel obſcura, 342. uel confuſa uel diſtincta, ibid. uel adaequata uel inadaequata, 343 Perfectio quid? 149. eſt uel ſimplex uel compoſita, 152-343 uel eſſentialis uel accidentalis, 158. a perfectionis regu- la exceptio quid? 153. cognoſcitur uel a priori uel a posteriori
+
+Perſona quid? 212 Phantaſia quid? 350. Poenitentia quid? 421
+
+Poſſibile quid? 46. eſt uel extrinsecus uel intrinsecus tale Zia
+
+Potentia quid? 614 Praeſens quid? Praeſens noſtro corpori quid dicatur? 345 Praeteritum quid? 177 Principatum quid? 7 a30 Principium quid? ibid. eſt uel cauſſale uel non cauſſale, 235. essendi, 231. fiendi, ibid. cognoſcendi ibid.
+
+Ss 5 Prin-
+
+[p. 650] Index rerum praecipuarum. Principium contradictionis quid? 21. eſt principium ab- ſolute primum, ib. eſt indemonstrabile. 23. eſt uniuersa- le, 25. eſt abſolute neceſſarium, ibid. eſt immutabile, 26. eſt fons omnis certitudinis Principium indiſcernibilium quid? Principium indiuiduationis quid? ibid, 125 121 Principium rationis ſufficientis in quonam consistat? 33. ex principio contradictionis demonſtratur, 37. eſt uniuerſale, 46 non eſt abſolute primum, 38. maxime utile eſt, 42 Profunditas cogitationum quid? 343 Prouidentia Dei quid? 624 Psychologia quid? 335 est uel experimentalis uel rationalis Prouidentia Dei quid? Pſychologia quid?
+
+Pudor quid? Puſillanimitas a423 quid? 428. Q.
+
+Qualitas quid? 91. eſt uel phyſica uel moralis 95 w Qualitates, ſunt uel primitiuae uel deriuatiuae Q
+
+Quantitas quid? Quies quid? 343 624 335 ibid. 423 428 92 ibid. 93 Quies quid? 179 li i
+
+#### R. Ratio est
+
+uel sufficiens uel inſufficiens, uel extrinseca uel intrinseca, 30. uel poſſibilitatis eſt uel actualitatis, ibid. uel simplex uel compoſita ibid. Ratio quid ſit? 384. quotuplici modo ſumatur ibid. Rationis analogum quid? 391I 37I Reflexio quid? 371 Reminiſcentia quid? 368 Reuelatio quid?
+
+602. eſt miraculum, ibid. debet continere ueritates supra rationem, 603. in ſe continere debet mysteria, 603. eius ueritates non sunt contra rationem, 605. in hac nihil occurrere debet, quod perfectionibus diuinis ſit indignum, 607. ſi scripta ſit, debent uerba certos ſignificatus et phrases certum ſenſum habere, 608. debet in ſe continere media ad ſalutem ſufficientia, ib.
+
+#### S. Saltus
+
+## [p. 651] Index rerum praecipuarum.
+
+S. Saltus quid? 271. eſt uel abſolutus uel reſpectiuus 272 Sanctitas Dei quid? 617
+
+Sapientia quid? c10
+
+Senſationes Senſoria crgmaquiu quid? 344 Se: ;tetis moralis ſtatus quid? 432 Sensus moralis quid? 432 Signatum quid? 258 Signum quid? 257 arbitrarium imd l lt ibid. demonstratiuum n' necessarium prognosticon ibid ibid. rememoratiuum Similia quid? H0 Similitudo quid? ibid. eſt uel abſoluta uel reſpectiua, ibid. Simultanea quid? 196
+
+Soliditas quid? 388 Somnium quid? 361 Spatium quid? 170 Species quid? * 125
+
+Spes quid? 424 Spiritus quid? 3531. eſt uel completus uel incompletus, ib.
+
+Spontanea actio quid A557 Spontaneitas quid? ibid. Status quid? 198. eſt uel internus uel externus. 199
+
+Successiua quid? 179 Subiectum quid? 212 Subſiſtentia quid? 207. eſt uel prima uel secunda, 209, et 4n F 5r
+
+ſqq. eſt uel communicabilis uel incommunicabilis, 210. eſt uel completa uel completa uel incompleta 211 Supernaturale quid ”12
+
+Superstitio quid 551 Suppositum quid? 2I æ: a]-
+
+### I. Tacdium
+
+## [p. 652] Index rerum praecipuarum.
+
+T. Taedium quid? 356. eſt uel merum uel apparens, 397 l quando praedominari dicatur? ibid. Tempus quid? 176 Terror quid? 427 Theologia naturalis quid 54. methodo demonſtratiua eſt tractanda, 550. eius utilitas 53I Totum quid? 112 .. integrale metaphyſicum II 113 .. Physicum 112 uniuersale 113 Vnitas entis quid? Voluntas quid?
+
+Triſtitia Vv. IIæ II3 quidĩ 414 Veritas V Vigilare quandodicamur? 360 dicamur?147 Vindictae cupiditas quid? Vis, a02. inertiae, quid? i a3r 290. motrix 29 Vnitas entis Voluntas quid? 33 10I. 435 Voluptas, 393. eſt uel uera uel apparens, 394. praedominari quando dicatur? 397. eſt uel ſenſualis uel men- 414 V. 147 360 431 292 83 401.435 talis Zelotypia quid? Z.
+
+i Z. Lat à
+
+Zelotypia quid? a23 [p. 653] bsb10042691_00661
+
+[p. 654] [p. 655] 500 April 85 [p. 656] bsb10042691_00664

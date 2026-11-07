@@ -1,0 +1,4770 @@
+---
+title: Estudios indostánicos
+title_en: Hindustani Studies
+author: José Vasconcelos
+year: 1921
+original_language: es
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: José Vasconcelos, *Estudios indostánicos*, Madrid: Editorial “Saturnino Calleja”, 1923 (the scan's title page; HathiTrust copy of the University of Texas); scan ‘JV (1921) ESTUDIOS INDOSTÁNICOS.pdf’ (LatAm Philosophy / José Vasconcelos)
+original_text: OCR of the scan of the printed book; Apple Vision OCR (on-device), 2026, mean line confidence 0.935, uncorrected; running heads and folios removed by the OCR layout pass; `⟦…⟧` kept around the lines read with low confidence; the scan is the authority; 2026-11-01 (#91): page marks re-derived from the scan (printed folio = PDF page − 9), HathiTrust watermark, library slips and running heads removed
+translation: none
+rights: public domain in the US (published 1921, pre-1931); Vasconcelos died in 1959, so in Mexico the text stays protected to 2059.
+pages: 452
+genre: Latin American philosophy
+collection: José Vasconcelos, works (Vision OCR 2026)
+order: 2
+generated: 2026-10-26 by import_editions.py (claude-folder/_ocr-vision, issue #37)
+public: true
+---
+
+# José Vasconcelos, *Estudios indostánicos* (1921)
+
+Conventions: `[p. N]` marks where a printed page begins, numbered as the folio was read; `[PDF N]` a page of the scan that carries no folio; paragraphs are whole across page turns, as the OCR's line boxes found them; `## ` a centred line (a heading, or a title page's line); `[^id]` a small-type line at the foot of the page, set under the paragraph that ends there; `⟦…⟧` a line the OCR read with low confidence (damaged print, foreign quotation). Uncorrected OCR: the scan is the authority. This folder is the source: corrections go into its original.md.
+
+[PDF 8]
+
+INDOSTANICOS
+
+POR
+
+⟦JOSÉ VASCONCELOS⟧
+
+• BIBLIOTECA
+
+CALLEJA:
+
+[PDF 9]
+
+[PDF 10]
+
+[PDF 11]
+
+[PDF 12]
+
+[PDF 13]
+
+[p. 5]
+
+JOSÉ VASCONCELOS
+
+## ESTUDIOS INDOSTÁNICOS
+
+MCMXXIII
+
+EDITORIAL "SATURNINO CALLEJA" S.A
+
+CASA FUNDADA EL AÑO 1876
+
+MADRID
+
+[p. 6]
+
+PROPIEDAD
+
+DERECHOS RESERVADOS
+
+PARA TODOS LOS PAÍSES
+
+COPYRIGHT 1923 BY
+
+JOSÉ VASCONCELOS
+
+[p. 7]
+
+LOS MANANTIALES
+
+Lee los libros esenciales, bebe leche de leones; gresta el vino de los fuerses: tes Platón y tu Plotino, tu Pitágoras, tu Biblia, lus indos inmemoriales;
+
+Epicteto, Marco Aurelio... / Todo el frescor cristalino que nos brindan los eternos manantiales/ AMADO NERVO
+
+[p. 8]
+
+[p. 9]
+
+⟦Ese ido, la ito en el derie de rede refor-⟧
+
+mado en la calma laboriosa del retorno. La soledad, que acaso le fue propicia, estuvo llena de visiones y de amhelo de comprensión. Lo releo superficialmente para darlo al público, y sólo encuentro, después de dos o tres años de escrito, una especie de confirmación de algunas de sus tesis o, para ser más preciso, de dos de sus tesis fundamentales. La primera es la tesis de que la civilización occidental, particularmente las civilizaciones sajona y francesa, se encuentran en franca decadencia en todo el mundo, y de que el porvenir inmediato corresponde a la raza de la América española y a las razas de Europa que rio se han agotado, como Rusia, España e Italia. La segunda tesis que veo confirmada es la de que estamos en los comienzos de un renacimiento espiritual semejante al Renacimiento italiano del siglo XV, pero mucho más vasto que aquél.
+
+El renacimiento que llamaremos clásico surgió de la mezcla del espíritu medioeval con la tradición griega, renovado por los emigrados de Bizancio. Y el ⟦renacimiento contemporáneo, esta Era que parecerá a las⟧ almas futuras como un milagro de renovación y de clarividencia, procede del encuentro del espíritu cristia-
+
+[p. 10]
+
+no con el espiritu indostánico. La religión humana está y estará incompleta mientras no hayan fundido sus credos todas las grandes religiones, y ésta es la época de fermentación y de exégesis en que se están confundiendo el cristianismo y el budismo; el vedantismo y la filosofía científica. Lo que ocurrió hace muchos siglos en Alejandría cuando se mezclaron las doctrinas de Cristo con las teorías platónicas se repite ahora en un escenario más vasto y con el propósito: de formular là verdad total.
+
+Mi libro, según lo abservará el lector atento, dista mucho de ser una apologia irreflexiva del pensamiento indostánico.; sin embargo, afirma que para entender y comprobar la verdad cristiana es menester incorporar al cristianismo la tradición vedántica por el camino del Buda, que es el verdadero bautista. En consecuencia, si por una parte es necesario impregnar las almas cristianas de la grandeza inconmensurable de la India, también es necesario que nuestra actitud ante la India no sea de contempladores ensimismados, sino de campeones de la verdad cristiana, que, 'aplicada honestamente en lo social y en lo metafísico, es como el coronamiento de ⟦ todas las conquistas del espíritu humano. Una prueba⟧ de que ha Hegado la época de que las religiones se junten. para verificar una exegesis y lograr una sintesis se encuentra en el plan de Tagore para la creación de una Universidad verdaderamente universal en Calcuta, donde concurrirán todas las razas y todas las épocas. A esta Universidad y al público de habla española dedico ⟦Txt⟧
+
+[p. 11]
+
+la presente edición, porque presumo que la unidad de
+
+Occidente y Oriente, que no pudo lograrse por la mediación de la raza sajona, se consumara por intermedio de la raza española, que es mística y práctica, sabia en
+
+España y en América joven, y en los dos continentes una sola para señalar nuevas rutas a la verdadera civilización del mundo.
+
+México, Mayo, 15 de I922.
+
+[p. 12]
+
+[p. 13]
+
+## INTRODUCCIÓN
+
+N las paginas que siguen oirezco al publiço un
+
+• especie de Manual para el estadio del pensamient indostánico. La idea de organizar el presente volumen me vino así que había reunido, casi sin darme cuenta, un sinnúmero de notas, tomadas con más o menos desorden entre la multitud de las obras relativas ail país de la flosofía religiosa. Lo penoso de mis primeros pasos en esta investigación fascinante me hace creer que una exposición sintética, como la que en estas páginas intento, habrá de ser muy útil a todas las personas—cuyo número aumenta a diario-que se interesan en estos asuntos. Sé por experiencia propia cuán difícil es concebir el desarrollo de los conceptos indostánicos, cuando sólo se dispone de los pocos textos que han sido traducidos a nuestro idioma, y debo hacer constar que, aun teniendo a la vista las obras escritas en idiomas extranjeros, resulta muy difícil establecer orden en el rico y vasto conjunto de la venerable escuela hindú. Por todo esto, creo que las deficiencias de mi esfuerzo serán dispensadas y que los ricos datos que en algunas páginas ofrezco serán debidamente aprovechados por las almas se-⟦lectas.⟧
+
+[p. 14]
+
+El gusto por estos estudios, tan poco cultivados entre nosotros de manera ordenada, nació en nuestras juntas inolvidables de hace unos ocho años, cuando nos reuníamos Antonio Caso, Pedro Henríquez Ureña, Alfonso Reyes y yo, en nuestro México, para discurrir sobre todos los asuntos que afectan directamente al espíritu. Ninguna enseñanza nos dejaba satisfechos, y ninguna de las grandes cuestiones fundameftales dejo de interesarrios: viyamente. Disgustados de nuestro medio y decepcionados de Europa, que atravesaba por ese período de corrupción materialista que precedió a la guerra, nos deleitábamos algunas veces con las páginas indostánicas, que leíamos con mezcla de asombra y de curiosidad confusa..No poseíamos siquiera una idea aproximada del desarrollo y el contenido de la litératura exótioą, y nos recreabamos. en uno que otro libro, con emoción análogaia la de un oriental ⟦que, ignorants de-tadarla eultura de Faropal toyese de⟧ pronto un dlálogo de Platón y un pasaję del Evangelio. ¡ Qué ansia no sentiría de coordimar las dos obras!
+
+Pues así nos encontrábamos nosotrós. Y hoy que cada uno ha seguido su ruta, diversa en el rumbo, aunque común en el propósito de investigar ló Infinito, no puedo dejar de pensar en el esfuerzo inicial, ni puedo olvidar la parte que à estos amigos míos corresponde en lo que de mi obra parezca valioso. Y apenas asentado esto, reflexiono en lo indigna que es de ser asociada a la labor pulcra y lograda de mis ya ilustres compañeros. En efecto, no es éste un libro ca-
+
+[p. 15]
+
+bal, sino una colección de notas, sacadas de distintos autores, en distintas épocas, en las bibliotecas de las ciudades por donde me ha tocado ir pasando. Muchas veces he tomado un apunte a lápiz de algún libro importante que después ya no he podido volver a consultar, porque mis azares me llevaban lejos, y desgraciadamente, muchas de las obras relativas sólo se encuentran en las más grandes bibliotecas. La falta de calma y la escasez de recursos bastarian para explicar las deficiencias de una obra cuyo asunto, por otra parte, es tan vasto que en ningún caso podría llegar a ser totalmente comprendido: Asi, pues, mi intención se reduce a poner de manifiesto una parte de los tesoros que he encontrado, y muy particularmente los hilos que sirven de engarce a la maravillosa pedrería del pensar in-⟦dostánico.⟧
+
+En los capitulos iniciales atiendo a las clasificaciones, adoptando las de autores conocidos y reformándolas algunas veces para hacerlas abarcar mayor número de asuntos. Al ocuparme de cada sistema he procurado formular un resumen, hasta donde me ha sido posible com. pleto, de las doctrinas respectivas, desentendiendome de comparaciones ociosas, de detalles novelescos y de comentarios inoportunos. También he tenido que circunscribir mi estudio a los sistemas más importantes; muchas doctrinas valiosas y muchas observaciones llenas de interés han tenido que quedar fuera de mi plan. El estudiante concienzudo deberá ir a las fuentes, pero el hecho de hallarlas señaladas en estas páginas quizás le
+
+[p. 16]
+
+ahorre largas horas de estudio ý no poco esfuerzo de coordinación.
+
+Por demás está decir que el verdadero especialista necesita conocer la lengua sánscrita, la lengua pali, el ' indostano y el bengali-iqué sé yo cuántos más idiomas !—para apreciar con exactitud el sentido literal de los textos. Quien tal obra emprenda, ya no podrá realizar ninguna otra en su vida; háganla, en buena hora, los meritísimos traductores; jo, por mi parte, confieso no entender una letra de sánscrito y haber leído los textos que cito en francés o en inglés; rara vez en español, ya sea porque no han sido traducidos todos a nuestro ilustre idioma, o bien porque he tenido la mala fortuna de rodar por tierras no hispanas. Esta circunstancia habrá de excusarme de la rudeza con que he traducido textos y citas; por fortuna, el sentido literal jamás ha beneficiado a ninguna doctrina y las ideas que comento poseen tal fuerza de sugestión y de verdad, que ellas se salvan y aparecen radiantes, aun en el penoso desastre de las transcripciones y los compendios. • Después del largo capítulo destinado a las clasificaciones, en el cual se enumeran los períodos principales, y casi todos los sistemas y sus teatos relațivos, tanto literarios como filosóficos, emprendo el estudio de lo que se llama brahmanismo o hinduísmo. En el estudio del brahmanismo hago una breve reseña de los mitos primitivos y el panteón indostánico, y: me detengo un poco más en lo que constituye doctrina teológica, así como en la enumeración de los rasgos gene-
+
+[p. 17]
+
+rales de las sectas más importantes. En un breve párrafo de este mismo capítulo se encontrará un esbozo de los principales estilos arquitectónicos que prevalecen en la India, y de la influencia de los preceptos tea logioes en el desarrollo de estos estilos.
+
+Después de los apuntes sobre el brahmanismo, estudio, históricamente, los famosos Upanishads, señalando la manera cómo se conocieron los textos en Europa, su contenido general y su carácter; en seguida, en capitulo aparte, hago una reseña de las principales ideas que ellos contienen, ó sea de las ideas fundamentales de la filosofía indostánica.
+
+El estadio de la 'escuela Vedanta, la más antigua y venerable de las escuelas indostánicas, lo he dividido en dos partes. La primera parte arranca del texto mismo de los Upanishads, en que la escuela se funda, y se extiende hasta la redacción de los Brahma-Suttas de Badarayana, por el año 600 antes de nuestra Era. Después de esta época, el brahmanismo decae, y se propagan los sistemas filosóficos y las religiones heterodoxas de Buda y de los Jainistas; así, pues, hago un largo paréntesis para reseñar todos estós movimientos, y. cierro el capitulo de la escuela Vedanta con los Bra-⟦hama-Suttas de Badarayana. Para la conolusión y la⟧ exposición definitiva del sistema, el lector tendrá que trasladarse al capítulo que denomino: "Renacimiento Vedántico", en el cual se exponen las doctrinas "ad-⟦vaitas",⟧
+
+', conforme al texto clásico, pero relativamente moderno, de Sankara.
+
+[p. 18]
+
+En la exposición de los otros sistemas ortodoxos no hallará el lector ningunas novedades. Hay sistemas a los que dedico muy poco espacio, como, por ejemplo, los sistemas de Gaimini y los de Kanada y Nyaya. En cambio he procurado extenderme, tanto en la exposición como en el comentario de las importantisimas escuelas Samkya y Yoga. Particularmente he querido estudiar la escuela yoga, en mis observaciones fipales, a la luz de un criterio moderno y libérrimo, que ansia comprender y aprovechar lo que contienen de profundo prácticas aparentemente vanas. Señalo, pues, el estudio de los capítulos dedicados a las escuelas Samkya y Yoga entre las partes más interesantes de mi trabajo.
+
+Otra parte sobpe la que reclamo la atención del lector y del crítico es la relativa al Budismo. En el estudio de esta grande y generosa religión no me he podido limitar a exponer: he entrado muchas veces a la apología, al comentario y a la hipptesis. La cita de Los textos y la exposición de la doctrina han sido hechas con toda la escrupulosidad y fidelidad que me ha sido posible; pero hay algunos capítulos en los que domina la labor del propagandista: por ejempla, el que estudia las relaciones probables entre las creencias, budistas y las teorías gnóstiças de los neoplatónicos alejandrinos. A causa de la escasez de datos históricos, las afirmaciones en esta, materia son aventuradas, y he procurado guiarme únicamente por las. similitudes y afinidades de las ideas mismas. Es este un asunto que invita la aten-
+
+[p. 19]
+
+ción de los filólogos y de los pensadores, y que debe ir siendo aclarado.
+
+Otro de los capítulos que, para mí, tienen capital importancia, es aquél en que estudio el papel de anunciador y de Profeta que, con respecto a Jesucristo, vino a desempeñar el Buda. Allí he querido desarrollar la tesis que ya he apuntado en mi libro: "El Monismo Estético", la tesis de que Jesús es el Buda Supremo, el Buda Maitreya o Misericordioso, que el Buda Sakya Muni anunció como renovador y fundador definitivo de la verdad. Esta tesis interesa a todas las razas, a todos los tiempos, a todas las gentes, y en ella todavía me propongo insistir.
+
+Me he extendido en la exposición del brahmanismo filosófico moderno, en las páginas que intitulo "Renacimiento Vedántico", a causa de que dentro de esta escuela preclara hallan hoy día cabida casi todas las principales doctrinas religiosas que ha elaborado la humanidad.
+
+Entre las partes que no son de mera exposición, señalo los párrafos destinados al examen de las ciencías ocultas del Indostán. En ellos he procurado cotejar las creencias hindús con los fenómenos semejantes que, en Europa, se estudian con los nombres de hipnotismo, sugestión, ocultismo, etc. Las conclusiones a que llego podrán no ser del agrado de tales o cuales criterios ⟦sensatos—ayunos del instinto de lo desconocida-, pero, en⟧ general, coinciden con lo que los más grandes espíritus han opinado a este respecto.
+
+[p. 20]
+
+Concluyo el libro con unas páginas de interpretación sintética de todas las verdades místicas.
+
+El lector hallará en mi prosa constantes defectos de forma, que me ha sido imposible evitas, en parte por incapacidad fundamental y también porque me he visto privado aun de la ayuda elemental de un simple copista. Por lo demás, quien tiene mucho que decir, no puede detenerse a reorganizar un párrafo o a corregir un giro... "La perfección es la virtud de lo mediocre"' —me he diaho para consolarme-, y ¡adelante! Aparte de todo esto, debe observarse que hay asuntos que no pueden ser expuestos con la meticulosa propiedad del estilista, sino que reclaman el trazo grande y atrevido del inspirado. El pensamiento indostánico es uno de ellos: no prerde mucho por faltas de detalle, porque no está hecho para ser contenido en formas; está todo impregnado de Infinitud.
+
+Convienen los críticos en afirmar que es común a todas las escuelas indostánicas un pesimismo que condena la realidad sensible y la vida del mundo, como cosas falsas, efimeras e indignas de la innata nobleza del espíritu. A este supremo desdén debe agregarse la creencia, también comun, en un monismo radical, el monismo que identifica a Atman con Brahma, al alma con Dios y a toda cosa con Dios. En nuestra pensamiento eurapeo también es posible señalar una serie casi continua de ideas pesimistas, desde el pesimismo helénico de Heráclito hasta el pesimismo austero del medioeval Kempis. También en Europa hemos tenido monismo.
+
+[p. 21]
+
+desde el monismo riguroso de Parménides hasta el mo nismo radical de Plotino y el monismo casuístico de
+
+San Agustín y Santo Tomás. Pero lo que sí predomina en la metafísica indostánica a un grado que no hemos conocido nosotros a pesar de Espinosa-es el pensamiento, o más bien dicho, la convicción de la eternidad.
+
+Acaso porque son poco activos, los hindús poseen en mayor grado que nosotros el sentido de la perennidad de las cosas, y esto les asegura el supremo don del equilibrio extático. Nosotros vivimos en el movimiento, engañados por la acción; creemos en el movimiento y padecemos del miraje que nos representa las cosas y los instantes de nuestra vida, como en un perpetuo aniquilamiento, tan sólo porque el foco de la atención va y viene y se dispersa en los detalles. La idea de que una cosa perezca es una idea absurda, y si los sentidos constantemente nos están demostrando el perecer, esto no es sino una mala interpretación de los sentidos. El entendimiento, en cambio, concibe que hay un plano y una manera en que todo es perpetuo desde que nace; "ab eternam". Lo que es no puede dejar de ser.
+
+⟦ Fueron los griegos, según demuestra Zeller, los pri-⟧
+
+meros pensadores de la humanidad que alcanzaron la independencia de criterio necesaria para buscar la ⟦verdad en las cosas mismas, sin tener en cuenta la tradi-⟧
+
+ción religiosa, y a esa independencia se debe la creación del método científico. Los hindos, mucho antes que los ⟦21⟧
+
+[p. 22]
+
+griegos, pusiéronse a pensar con libertad e independencia ejemplares; sin embargo, nunca crearon ciencia propiamente dicha, ni ciencia racional, ni ciencia empírica; munca perfeccionaron el método científico, sin duda porque no poseyeron jamás el don de apreciar y juzgar los hechos en sí mismos, y con independencia de toda tesis mental. La India es país de ideas. Los objetos que Grecia concebía con lineamientos precisos y definidos, en la India no eran vistos sino como símbolos y signos del mundo que trasciende a lo sensible. Este apartamiento de los valores materiąles ha producido un idealismo constantemente benévelo y una devoción que nunca se ha manchado con las crueldades del fanatismo. Los nobles místiços hindús siempre han comprendido que las ideas son milagro divino al que no afecta la acción de lo externo, y para propagarlas y perpetuarias sólo han confiado en la inspiración, la persuasión y la simpatía.
+
+La misma religión oficial se ha visto muchas veces combatida, discutida y negada; pero runca se les ocurrió ni a los mismos brahamines emprender por ese motivo persecuciones y atropellos. En las ciudades importantes de la India clásica abríanse a la disposición de ⟦ todo el mundo las salas de las "Discusiones Libres" ;⟧
+
+en ellas iban a exponer sus opiniones los pensadores de todos los credos. Desde Yajnavalkia hasta Buda. Y posteriormente, casi todos los textos tienen la forma de ⟦diálogo libre, un diálogo en que suele aparecer citada la au-⟧
+
+toridad de los Vedas, pero sin estorbar al pensamiento para que descubra nuevas verdades. En muchas de
+
+[p. 23]
+
+estas lucubraciones, no sólo toma parte la mente, sino también la naturaleza y los elementos, las fuerzas todas del mundo que van indicando, por simbolos y por sugestiones sublimes, el camino que deben seguir las almas para llegar al Señor.
+
+Un misticismo libre y que desdeña la acción y el cambio, la vida y los goces del mundo, condujo a las especulaciones más hondas y a los idealismos más puros. La renuncia indostánica es mucho más noble que la de los mahometanos y que la de no pocos cristianos, porque el místico hindú no renuncia para asegurar goces en un paraíso, sino porqué lo perecedero y lo finito le parecen indignos de la sublimidad y la grandeza del espíritu. En todo 1o que representa elevación, poesía y profundidad, ninguna escuela aventaja a la escuela indostánica; pero precisamente por el desdén de los hechos, las cuestiones de método son tan imperfectas en esta filosofía, siempre absoluta. La clasificación de las cosas y el análisis de las facultades del sujeto pensante nunca llegaron a ser formulados en la India con la exactitud científica que, entre nosotros, han alcanzado Aristóteles, Santo Tomás, Bacon o Kant. En la India ⟦ abundan los inspirados, pero casi ro existen los catalo-⟧ gadores, los sistematizadores. Y no se da uno bien cuenta de la importancia de esta falta hasta que se siente sumergido en el caos rumoroso y magnifico de las ideas indostánicas.
+
+No es posible presentar la especulación hindú como 16 ⟦ un modelo, así como no es posible tampoco recomendar⟧
+
+[p. 24]
+
+la religión brahmánica como una religión que nosotros debamos aceptar. El pensamiento indostánico inspira simpatía constante, pero no siempre aquiesoencia total. Hay problemas que nosotros hemos resuelto mejor, y hay otros que todavía no se resuęlven ni en Oriente ni en Occidente. Nosotros, aunque más o menos protegidos por nuestros derechos políticos, padecemos todavía la injusticia irritante de las desigualdades económicas agudas. La India, llena de piedad para los animales, ve morir indiferente miles y millones de seres humanos en las hambres periódicas, y mantiene en servidumbre delorosa a la mayoría de su población. la realidad socal es por doquiera terrible, y todas las civilizaciones se disuelven al ritmo de las dos monótonas circunstancias : imperfección y dolor. Por encima de todo esto, el espiritu pugna y obtiene aislados y espléndidos triunfos; y eso es lo único que importa salyar; la fe del espiitu en su propio poder y en su destino sublime. Todo esto.lo confirma la India, lo proclama la India :.
+
+Lua filosofía verdadera no es cosa del pasado ni cosa del presente, no es patrimonio de una edad ni de una raza. La verdad no es un hallazgo de ocasión, ni tesoro ⟦ escondido en literaturas exóticas. La verdad es esfuerzo⟧ personal de cada alma, pero un esfuerzo que se aligera, un esfuerzo que se llena de arrebato cada vez que el contagio simpático de otros vislumbres llena la mente de esplendoroso fuego. La lectura de las ideas indostánicas se parece al deleite del que mira el firmamento en hemisferio distinto del suyo, y descubre estrellas nuevas ,
+
+[p. 25]
+
+y las admira, aun sabiendo que son todas de un mismo cielo. En las regiones del espíritu no tiene límites el descubrimiento de nuevos mundos.
+
+Nuestra especulación metafísica hállase fatigada y necesita el renuevo de las antiguas ideas hindúes. Cierto que muchas de ellas se han filtrado desde hace siglos en el alma europea; mas ahora comienzan a llegarnos organizadas en 6u imponente totalidad, y es indudable que la vasta aportación ha de producir un renacimiento de todas las cuestiones del espíritu. Y en ninguna parte ese renacimiento será más fecundo que en la América latina, y en la raza española, raza siempre alerta para las empresas místicas. Y no sólo los pueblos hispano americanos, que preparan una nueva cultura: todo el pensamiento occidental está llamado a renovarse con las influencias hindúes. Todo el pensamiento contemporáneo ha de ir a la India en busca de las ideas esenciales que alli han elaborado grandes espiritus. La crítica de todas esas doctrinas y la asimilación a nuestras creencias de todo aquello que sea válido habrá de ir constituyendo esa filosofía que todos anhelamos: una filosofía que ya no sea expresión de una sola raza, ni obra de una sola ⟦ época, sino resumen y triunfo de toda la experiencia hu-⟧ mana: una filosofía mundial.
+
+San Diego, California, Julio de 1919.
+
+⟦LO ⟧
+
+[p. 26]
+
+[p. 27]
+
+## APUNTES HISTÓRICOS
+
+- grupo de pueblos conocido bajo la denominació La de Indo-Arios no ha dejado detrás de sí escritos d historia: su desdén por las cosas políticas y sociales fue tan completo, que nunca se ocupó de conservar la crónica de sus dinastías ni el relato de sus conquistas. La única fuente segura, aunque incompleta, de la historia indostánica se encuentra, por esta razón, en los libros sagrados y en la literatura. Fundándose en esta literatura, señalan los autores tres épocas bien definidas en la historia del pueblo brahmánico. :
+
+La primera época es la primitiva, en que las tribus procedentes del Norte se establecen en los valles que forma el río Indo con sus cinco tributarios, región que se conoce con el nombre de Penyab o Punjab. El monumento literario de esta época es el Rig-Veda, cuyos himnos revelan una organización social primitiva, en la que todavía no se define el régimen de castas, ni se precisan los conceptos teológicos y filosóficos. Las fechas de este período, todas problemáticas, se remontan a los años 2000 y 3000, antes de nuestra Era.
+
+El segundo período ve desarrollarse las conquistas hacia el Oriente, desde el Penyab hasta el Ganges, pro-
+
+[p. 28]
+
+bablemente entre el año 1000 y el año 500, antes de nuestra Era. Los libros de la época son el Yagur-Veda, el Shama-Veda y el Atharva-Veda, con los libros Brahmanes y los Upanichadas, así como el poema épico intitulado el Mahabharata. Este poema, atribuído al poeta Vyasa, relata las luchas de los Rayás o Rajás, jefes de los distintos reinos, y coloca en la ciudad de Hastinapur, gobernando sobre todos, al gran Rayá o Maharayá, descendiente del héroe Bharata, supuesto conquistador de toda la India. Según el mismo poema, los Rayás compartían el poder con los brahamines o sacerdotes, y por debajo de ellos estaban los artesanos y los siervos, por lo común miembros de las razas sometidas.
+
+El tercer período comienza con las emigraciones hacia el Sur, primero al Decán y después hasta el extremo de la peninsula; invasiones debidas a la presión que por el Norte comenzaban a ejercer las razas bárbaras del centro de Asia: tártaros, mogoles, etc. Se considera que este tercer período, ya casi histórico, se inicia con las conquistas de los Asokas, que llevaron sus armas y su cultura hasta Ceylán, como 500 años antes de Jesucristo, y se prolonga hasta la época moderna. Los antecedentes de este último período se encuentran en el poema clásico, "El Ramayana", que relata las aventuras y peregrinaciones del principe Rama, y cuyo autor es el célebre Valmiki. .
+
+[p. 29]
+
+A través de los tres períodos indicados se advierte un desarrollo progresivo y constante: desde un estado pastoril y nómada hasta una civilización de las más completas que ha conocido el mundo. ¿ Cuál es el secreto de este continuado progreso y por qué no todas las razas do logran? ¿Por qué, entre la multitud de las tribus y los pueblos, sólo hay una Grecia y una India?
+
+La mayor parte de los historiadores europeos resuelven el problema mediante la tesis, bastante obscura, de la identidad de da raza aria, a la cual hacen descender de un tronco común situado en el centro del Asia, bifurcado en los arios de Europa y los arios del Indos-⟦tán o indoarios.⟧
+
+Paul Deussen va más lejos, en el afán de hacer europeo todo lo que es vamoso para la civilización, cuando declara que los indoarios son sucesores de las tribus ariogermánicas del mar Báltico. En cambio, aquellos autores que, como el inglés Gough, han escrito histo rias de la filosofía Upanishad, sin darse cuenta del valor de esa filosofía, deelaran con desdén que las ideas indostánicas proceden de las razas aborigenes sometidas por la conquista aria. Para este autor, que no estima la filosofía indostánica, la teoría de la unidad aria no tiene mucha importancia.
+
+Pero haciendo a un lado los prejuicios de cada autor, es un hecho que hay analogías entre el idioma sánscrito de los indoarios y los idiomas de los arios europeos. Y siendo, en realidad; un territorio geográficamente continuo aquel en que se desarrollan ambos pueblos, nada
+
+[p. 30]
+
+tendría de particular que, en efecto, descendiesen de un tronco común los arios de Europa y los llamados arios de la India. Sin embargo, la aceptación de este hecho no justifica la conclusión que generaimente se deriva de él, a saber: que los arios son una raza de capacidad general superior a todas las demás razas. No se justifica, no porque no sea cierto que la Grecia y la India son las dos civilizaciones más altas de la historia humana, sino porque dista mucho de estar probado que los llamados arios, los hombres rubios de climas fríos, sean los autores de esas dos civilizaciones extraordinarias.
+
+Cuando los hombres rubios, arios puros, llegaron a Grecia, encontraron el país bien poblado de razas más o menos mixtas y de color obscuro, y la contribución que ellos trajeron a la cultura de esas razas autóctonas fue sumamente exigua; no era más que una contribución de fuerza, de acometividad, de codicia, de energía humana primitiva. Probablemente los aborigenes de Grecia no tenían tampoco mucho que enseñar a sus conquistadores; pero es un hecho que al cabo de algunos siglos; y después de que ambas razas se mezclaron y vivieron juntas bajo la influencia del medio helénico, se produjo un •milagro que no ha vuelto a repetirse: el milagro del mundo griego.
+
+En la India se verificó un fenómeno semejante: así  que los arios invasores de piel blanca se mezclaror con la raza misteriosa y sutil de los dravidios, de piel obscura, y así que ambos vivieron juntos en el nuevo me-
+
+[p. 31]
+
+dio cálido, se produjo ama transformación que se advierte palpablemente en la literatura. Una transformación que convierte el animismo primitivo de los dravidios y el antropomorfismo radísimo de los arios en el suntuoso y soberano pensamiento de los indostanos.
+
+¿Qué les parecería a ciertos autores la tesis de que el rubio del Norte no puede nada sin el hombre obscuro de los países tórridos, sin la sangre vidente de los cielos claros? ¿Qué opinarían ciertas escuelas de la tesis de que sólo las razas mestizas son capaces de las grandes creaciones?:
+
+Y no son la Grecia y la India los únicos ejemplos. También se puede extender la tesis a casas como el de España, que se hizo grande después de su mezcla, más o menos confesada, con los moros y demas razas del sur de la Península. Lo mismo se puede afirmar de Italia, que, a través de distintas invasiones, ha recibido en su seno a casi todas las razas.
+
+Y en el resto dè: Europa, los arios, que se consideran a sí mismos puros, ¿ qué han hecho sino vivir, en todas las formas más altas de la vida, tan sólo de las ideas que en el Mediterráneo o en el Asia elaboran las razas mezcladas y proteiformes? La filosofía, là religión, el arte, el alma misma de los rubios, no es la de sus ante-⟦cesores Odín y demás dioses-anglos o teutones, sino,⟧ lo que han querido hacerla las razas del Sur, las razas ⟦ que han regalado a los ingleses la Biblia, a los teutones⟧ la especulación griega, cada cual tomando lo que comprende.
+
+[p. 32]
+
+Por lo demás, todas estas quimeras y vanidades de raza carecen de verdadero fundamento científico. Mucho más acertado parece suponer que los distintos grados de desarrollo de los pueblos han dependido de una combinación de factores étnicos y de influencias climatéricas. Alli donde el calor es excesivo, en África, en el sur de China, en el sur del Indostán, no se han desarrollado grandes civilizaciones. En los lugares donde el frio es exagerado tampoco se desarrollaron grandes pueblos. Todas las razas importantes de la historia, la griega, la indostánica, la hebrea, la romana, la árabe, todas se cimentaron en climas más bien cálidos, porque en ellos había menos necesidad de dedicar atención al cuerpo, y se vivía al aire libre, y existía el ocio, que es indispensable para pensar.
+
+En América, la influencia del clima determina también un proceso semejante al que se ha observado en Asia. Los toltecas, los. aztecas, los mayas, nómadas y rudos cuando habitan las zonas frías del Norte, tan luego como llegan á los climas templados o cálidos de Anáhuac y de Yucatán, desarrollan civilizaciones importantes. En la América del Sur, la barbarie no viene del Norte, sino del Sur, porque allá el Sur es la zona fría. Las civilizaciones de la costa del Perú eran constantemente acosadas por invasiones de tribus primitivas, o más bien que primitivas no desarrolladas, que venían del Sur, de la región del frío: una zona donde lo que llamamos civilización sólo puede existir de una manera artificial y a costa de penosos esfuerzos. En cain-
+
+[p. 33]
+
+bio, la cultura espontánea, la poesía y el milagro son frutos natos de los lugares que están henchidos con las potencias todas del planeta.
+
+Pero las tierras privilegiadas, las tierras del sol, se fueron llenando de hombres, y los habitantes de los países frios, los arios rubios, ya no pudieron seguir emigrando al Sur: los rechazaban los descendientes de sus mismos congéneres que siglos antes se les adelantaron a poblarlo. Entonces, los rubios rezagados se pusieron a elaborar esa civilización de taller y de labor manual, cuyo modelo se encuentra en la Inglaterra moderna. Civilización que no engendra ningún nuevo ideal, pero se muestra apta para explotar las riquezas terrestres, todos los instrumentos eficaces para dominar el medio fisico.
+
+La necesidad de modificar el ambiente, para hacerlo habitable, fue obligando a los hombres del Norte a dedicar toda su atención a las artes industriales; la pobreza e inhospitalidad de sus tierras obligóles también a buscar el comercio con regiones más favorecidas, y de toda esta tremenda lucha contra lo físico proceden: la invención de la máquina, la codicia colectiva, el exceso de la alimentación, la filosofía empírica y la moral utilitaria; los hábitos detallistas, con el afán de lucro; todo ese conjunto de aspectos ruines que, con el nombre de civilización moderna, ha ido invadiendo y oprimiendo al mundo durante los dos últimos siglos.
+
+En definitiva, todo este enorme esfuerzo ha servido para crear un ambiente artificial, pero relativamente fa-
+
+[p. 34]
+
+vorable para la vida del espíritu. Mas esto que los hombres del Norte han podido realizar creando el medio artificial de sus ciudades, ya existía y siempre ha existido en los países cálidos como un don gratuito de la naturaleza. El pensamiento, la cultura, el desprendimiento y la gracia son producto natural y espontáneo en el trópico, mientras que son esfuerzo penoso y paciente en el Norte. Y el peligro con que el Norte amenaza al mundo es el peligro de querer aplicar toda esa maquinaria prolija y esclavizadora que le ha permitido salvarse, todo ese su sistema militar industrial, a pueblos y a situaciones que ni lo necesitan ni lo solicitan. Afortunadamente, el peligro parece próximo a desvanecerse. Se desvanecerá, porque el régimen capitalista tiene sus días contados y porque los nuevos regímenes de socialismo radical no irán a invadir los otros pueblos para imponer por la fuerza absurdos.
+
+De todas maneras no perdamos de vista la ley natural, que hace que las verdaderas civilizaciones, las civilizaciones creadoras y completas, se desarrollen siempre, no en el frío, como nos dicen los industrialistas, sino en el calor generoso y propicio. Las mismas ⟦civilizaciones del Norte, pobres como son en ideas religiosas y en⟧ ideas artísticas, deben todo su progreso al calor artificial, que les ha permitido imitar al Sur.
+
+En el porvenir, el proceso natural del adelanto humano hará florecer civilizaciones, no en los climas fríos, que ya vemos cuán pobres son en las cosas elevadas de la vida; ya no tampoco en los climas templados, que
+
+[p. 35]
+
+han sido hasta hoy los más favorables para la verdadera civilización; ya no en ninguno de éstos, sino en los tórridos. En la zona tórrida, porque allí la naturaleza muéstrase más fecunda y pródiga; pródiga y vigorosa, no sólo en frutos, sino en fuerzas naturales y en paisaje.
+
+Para ponerse a la altura de este medio espléndido; para aprovechar sus fuerzas y dominar sus obstáculos, el hombre habrá de emprender una luoha tan eficaz como la que supo librar para vencer el frío. En la zona ecuatorial, la química habrá de hallar procedimientos de enfriamiento y de sanidad que protejan al hombre, sin disminuir la palpitación abrasada de la tierra, que es útil a las plantas; toda una serie de inventos irán permitiendo que el hombre sume su esfuerzo a los esfuerzos máximos de la Naturaleza. Y entonces habrán de verse civilizaciones, que no sólo aumentan, como las actuales, el poder material del hombre, sino también el poder de su espíritu y el poder de su fantasía. Todo el arte europeo contemporáneo parecerá empañado de sombras y exiguo ante las grandes creaciones que dentro de algunos siglos se producirán en la India y en el ⟦Brasil... Porque no es el frío, sino el calor, la condición⟧ del verdadero progreso homogéneo de todas las potencias humanas.
+
+Los arios impusieron en el Indostán su lengua sánscrita, su sistema político de castas, sus hábitos guerre-
+
+[p. 36]
+
+ros y su poesía religiosa. Los dravidios aportaron una masa confusa de conceptos, que las gentes ligeras califican con el nombre de supersticiones, pero en los cuales iba el germen de todas las admirables teorías que no sospecharon los primitivos invasores, y que después se desarrollan y se hacen eternas: la inmortalidad del alma, la transmigración, la omnipresencia de Brahma. Parece que hasta hoy no se ha hecho justicia a la influencia de la raza dravidia en el progreso de la especulación indostánica. Sus ideas nos han llegado en el lenguaje de los conquistadores; pero no cabe duda que en muchos casos, si no es que en la generalidad de los casos, la iniciativa y la originalidad fueron hallazgo de la raza inferior, de la raza sometida. Los conquistadores pro piamente arios se dedicaban a las armas o al sacerdo-⟦cio, eran krashytas o brahmines. Los krashytas hacían⟧ la guerra, y los brahmines mantenían el culto de los antecesores y elaboraban el ritual; elaboraban, por ejemplo, los libros brahmanes, llenos de fórmulas y de invocaciones; elaboraban leyes y preceptos, consolidaban, para beneficio propio, el poder conquistado por los gue-Treros. Pero los libros en que se contiene la ⟦especulación libre, los diálogos Upanishads, los relatos de soli-⟧ tarios y fakires, no siempre han de haber sido obra de los dominadores. En casi todos esos dialogos, el filósofo no es un brahmin, ni un guerrero, sino un sabio de cuya casta no se hace mención, un mendigo, un solitario de las selvas que ha roto todos sus lazos con el mundo y , se ha puesto a investigar la verdad. Nada se sabe, por
+
+[p. 37]
+
+ejemplo, de la casta de Yajnavalkya, pero se ve en los ⟦diálogos Upanishads que no era krashyta ni brahmín,⟧ sino una especie de libre pensador, un filósofo, que acaso vivía de las dádivas de sus discípulos, y que ya en la madurez de su vida se deshizo de todos sus bienes, se separó de sus mujeres y se fue a la soledad para consumar una obra perfecta. También se comprende que no son arios, sino dravidios de raza pura, todos esos hombres extraños que, a través de los siglos, han venido siendo motivo de justo asombro: los gimnosofistas de que nos hablan los griegos, los fakires y ascetas de los tiempos modernos; hombres en quienes el cuerpo parece entumecido, mientras el espíritu arde como llama inextinguible. Nada hay más opuesto al temperamento ario que la naturaleza de estos hombres. Y quizás por eso mismo estos hombres poseen ojos y sentidos que nosotros no poseemos, videncia que nosotros, demasiado dados a la carne, no sospechamos.
+
+De sus orígenes nada se sabe, sino que son oriundos de la península. Al principio habitaban el Indostán propiamente dicho; es decir, el vasto territorio que media ⟦ entre el Indo y el Ganges, y todavía forman allí la⟧ masa primitiva de la población. En la actualidad, sin embargo, se conservan más puros y hablan sus dialectos propios en las costas y en el extremo sur de la peninsula.
+
+El desarrollo continuo y progresivo de la literatura
+
+[p. 38]
+
+indostánica demuestra que el país se vio libre, durante mucho tiempo, de invasiones extranjeras. Probablemente hubo épocas, según se infiere del Mahabharata, en que todo el territorio estuvo sometido a un Rayá, el Maharayá. Otras veces, el poder volvía a fraccionarse entre los Rayas provinciales, en una especie de feudalismo, muy anterior al feudalismo europeo.
+
+Cuando Alejandro llegó a las riberas del Indo con sus ejércitos, los distintos Rayás formaron una liga para oponerse a su avance. Los incidentes de la lucha contra Alejandro son ya acontecimiento propiamente histórico. Alejandro ganó algunas batallas; pero, al fin, tuvo que retirarse, y los Rayás quedaron ejerciendo dominio supremo sobre su patria. Esta guerra, que, en realidad, fue una victoria para los Rayás, sirvió para la consolidación del poder indostánico, y de ella procede la constitución de la primer dinastía de cuya existencia se tienen noticias históricas: la dinastía de los ⟦Asokas.⟧
+
+Sandrokotos, un general hindú que en la historia griega se conoce con el nombre de Chandragupta, fundó el imperio de la Bactriana, imperio que si no llegó a dominar la Rajputania, la región del Ganges, a cargo de los Rayás independientes, si mantuvo con ella relaciones cordiales, y durante mucho tiempo le sirvió de valladar contra las razas salvajes del Norte.
+
+Se refiere que Sandrokotos contrajo matrimonio con la hija de Seleucos, el gobernador griego de Persia, y a su corte vino a residir, como embajador, el griego ,
+
+[p. 39]
+
+Megastenes, considerado como el primer historiador de la India.
+
+Afirman algunos historiadores contemporáneos que la célebre dinastía de los Asokas procede de este mismo Sandrokotos. La verdad es que después de Megastenes, y al consumarse el desmembramiento del imperio de Alejandro, Europa volvió a quedar totalmente incomunicada de la India, y esta incomunicación duró hasta que Vasco de Gama, en el siglo XV, llegó con sus navios a las costas malabares.
+
+Las inscripciones descubiertas hasta la fecha permiten afirmar que, en el territorio de Kosala, que corresponde al Oude actual, floreció la dinastía Asoka, por el siglo III antes de la Era cristiana. Se conserva, grabado en piedra, el edicto de uno de estos reyes, acaso el edicto más notable de toda la historia del mundo. La capital estaba en Pataliputra, cerca de Benarés.
+
+En su famoso edicto, Asoka recomienda la protección de todo lo que tiene vida, declara abolida la pena de muerte, prohibe el sacrificio de los animales y hace obligatoria la caridad. Aunque el budismo era la religión oficial, se establecia la tolerancia de cultos. Los ⟦ Asokas emprendieron grandes obras arquitectónicas, de⟧ cuya importancia dan una idea las ruinas de Pataliputra, cerca de la actual ciudad de Patna.
+
+La dinastía Asoka prolongóse varios siglos, pero no sucedió lo mismo con el imperio de Sandrokotos en la Bactriana, que fue presa de los Indoescitas. La presión de las invasiones hizo que los hindús extendieran sus
+
+[p. 40]
+
+conquistas hacia el Sur. Por la región de Cachemira, otra tribu o raza civilizada, la de los gettaes, fundó un imperio, con capital en la misma Cachemira. El rey de los gettaes, Canishka, extendió sus dominios desde el centro de Asia hasta el Penjab, y probablemente entabló relaciones amistosas con los Asokas. En la capital gettae, Cachemira, reunióse, en el siglo primero, antes de la Era cristiana, un concilio budista, presidido por el mismo Canishka. De este imperio partió el célebre monje Najarjuna, considerado como el apóstol del budismo en el Japón y en China.
+
+En toda esta época, la historia de la India se confunde con la historia del budismo. La obra de los misioneros budistas obtuvo resultados extraordinarios. En el Japón y en China millones y millones de adeptos, hasta nuestros días, conservan el culto. El brillante historiador moderno del arte japonés Kakasu Okakura, , nos muestra la inen su libro "Ideals of the East"
+
+fluencia que tuvo la predicación budista en la moral, en las costumbres, en el pensamiento y en el arte de toda el Asia.
+
+El interés enorme que en China despertaron las ⟦doctrinas budistas, hizo que se estableciera una corriente⟧ de estudiantes, que venían a los reinos hindús, para ilustrarse en las fuentes de la nueva religión. Se conserva el relato del monje Fah-Hian, que visitó la India en el siglo IV de la Era cristiana, aprendiendo la lengua pali, que era la dominante, la lengua sagrada de , los budistas. Fah-Hian visitó los lugares sagrados y se
+
+[p. 41]
+
+llevó consigo copias revisadas de las escrituras budistas.
+
+Dos siglos más tarde, 629-645, otro monje chino, el célebre Hiouen-Thsang, escribió las memorias de su estancia en la India. Refiere que las costumbres del país eran dulces; la gente temía los castigos de la otra vida; la autoridad se ejercía muy suavemente. Las penas consistían en multas; la pena de muerte estaba abolida. Había mucho fervor religioso. Los brahmanes rendían culto a sus antiguos dioses conforme al rito ancestral. Los budistas, organizados en Iglesia, llenaban el territorio de templos y columnas, estatuas y obras de arte. Las procesiones, encabezadas con la imagen de Vichnu o de Buda, se sucedían por las calles con fausto incomparable. Las universidades eran una mezcla de escuela y monasterio. La Universidad de Nalanda tenía capacidad para diez mil estudiantes. En ella se cultivaban libremente las ciencias y las artes, y de alli salíaín misioneros para todo el mundo conocido. El emperador Siladytia amparaba con su cetro benigno a todas las sectas y a todas las razas; las divisiones de castas, conmovidas hondamente por la generosidad de los principios budistas, se mantenía, más por la fuerza del ⟦ hábito que por mandato de la ley. Pataliputra, la capi-⟧ tal asoka, y Cachemira, la metrópoli gettae, rivalizaban en empresas cultas, y Benarés era ya la ciudad antigua y sagrada que servía de asilo y de altar a todas las ⟦ creencias.⟧
+
+El siglo VII A. C. abre una era de gran esplendor ⟦161⟧ ⟦ para el Asia. El emperador asoka Vikramadytia lo-⟧
+
+[p. 42]
+
+gró expulsar del Norte a las tribus iconoclastas de los Hunas, reavivando el sentimiento nacional y consolidando, en seguida, su dominio sobre casi todo el vasto territorio del Sur. China, después de la desintegración provocada por las seis dinastías, unificóse bajo el primer emperador Tang, y dilató sus fronteras por una extensión tan vasta que sólo era comparable con el reino de Gen Gis Khan. En el Japón, el emperador Tenjitemo destruye el poder de los nobles y consolida el trono, desarrollando en seguida la cultura. Pero de estos tres reinos, el de la India era el creador, la cuna de las ideas y del arte, y el asiento de los poderes reli-⟦giosos.⟧
+
+Esta es la época que hace exclamar a Okakura: "La India ha desparramado por todo el mundo los datos del progreso intelectual; desde la época prebudista, la India produjo la filosofía Samkya y la teoría atómica; las matemáticas y la astronomía progresan en la ciencia de ⟦Arybhatta; en el siglo VII, Brahmagupta emplea el⟧ álgebra para hacer observaciones astronómicas; Arybhatta descubre el movimiento de la tierra alrededor de su eje, y Varimihira sienta las bases de la medicina ⟦científica"... La poesía de Kalidasa, conocida popularmente⟧ en Europa y América, procede también de la corte de Vikramadytia, y las grandes artes religiosas; el baile, el decorado y la música, alcanzaron entonces el fausto más suntuoso.
+
+La pujanza de las civilizaciones asiáticas de esta ⟦época, no llegaba a hacer sentir sus efectos en la Europa⟧
+
+[p. 43]
+
+civilizada, porque se lo impedían dos barreras infranqueables: el reino bárbaro de Gen Gis Khan, extendido por todo el occidente europeo, y el poderío creciente de los árabes que amenazaba a Europa por el Sur y había mvadido hasta la misma España. Pero todavía en el año 1000 de la Era presente, la India conservaba la hegemonía del pensamiento en Asia y, quizás después de China, era el imperio más vasto y poderoso del mundo.
+
+Sin embargo, en ese tiempo había de comenzar para los hindús una lucha semejante a la que en Europa había estado librando el antiguo imperio romano, acosado por todas partes por las invasiones extrañas. Las mismas tribus semisalvajes que solían llegar hasta las puertas de Roma, extendíanse por el Oriente, y amenazaban las fronteras del Indostan; aunque estos primitivos tártaros no fueron capaces de penetrar en el corazón del imperio.
+
+Los árabes, unificados por la doctrina de Mahoma, se habían convertido en raza guerrera y conquistadora, que invadió África y llegó hasta España. Los turcos, representantes del mahometismo en Oriente, ⟦habian conquistado Persia y comenzaron a invadir el⟧ Punjab. Al principio los asaltos de los turcos no eran más que incursiones temporales de bárbaros. Llegaban a las ciudades extremas del territorio de los Rayás, robaban los tesoros, destruían los templos y vendían como esclavos a los habitantes. Más tarde, Mamud Ghori conquistó el Afganistán. Desde allí, aprovechando una
+
+[p. 44]
+
+alianza con un Rayá rebelde, al frente de un ejército de turcos y de hindús, pudo llegar hasta Benarés.
+
+La discordia de los Rayas era la mejor aliada de los musulmanes. Los sultanes turcos fomentaban y apoyaban la ambición de pretendientes dudosos o legitimos, y por medio de sus ejércitos imponían en el trono a sus protegidos. Por lo común, en estas alianzas se estipulaba la tolerancia religiosa, y la población indígena seguía, más o menos tranquila, en los territorios invadidos. Otras veces eran verdaderas conquistas a sangre y fuego; entonces, los que podían escapar emigraban hacia el sur de la peninsula. Pero, generalmente, las conquistas turcas y afganes no se consolidaban; los gobiernos que establecían veíanse desmembrados por las intrigas personales, y los Rayás sobrevivían como tributarios o como lugartenientes.
+
+Por el año 1300 de nuestra Era, el sultán turco Aladino había establecido su trono en Delhi, en el corazón del Punjab, y de allí partían, periódicamente, expediciones arrasadoras contra el Decán. En la región central de la Rajputania, varios Rayás se conservaban ⟦ independientes en Marwar o Jodpore, en Chitor. El⟧ sitio de Chitor es sólo un caso de la heroica resistencia que supieron oponer las Rayás. Así que ya no pudieron oponerse a los ejércitos de Aladino, levantaron en el centro de la ciudad una enorme hoguera, y en ella se sacrificaron con sus esposas y sus hijos. Unos pocos pudieron salvarse y se hicieron fuertes en los montes Aravulli, donde siguieron oponiendo resistencia.
+
+[p. 45]
+
+La conquista musulmana era violenta y ruda, pero no permanente; sus miras no eran las de una civilización superior que se propaga, sino codicia bárbara de tesoros y poderío. Las poblaciones quedaban sojuzgadas, pero no sin convertirse a las ideas de los vencedores. En la misma Delhi se sucedían los complots contra los musulmanes, y cada vez que el jefe o el bajá de alguna provincia se declaraba rebelde al Sultán, los Rayás lo apoyaban, sembrando ellos también la discordia entre sus enemigos. Y así se prolongó, como tres siglos, una situación desastrosa en la que los turcos no lograron imponerse, ni los Rayas consiguieron sacudir su yugo.
+
+Una nueva raza vigorosa y ruda aparece en el siglo XIV por el norte, disputando el poder a los afganos y turcos; la raza de los tartaros descendientes de Gen Gis Khan. Los nuevos invasores profesaban también la religión musulmana, pero, quizás por ser todavía más incultos que los turcos, no mostraban apasionamiento religoso en el mismo grado que los fanáticos partidarios del Sultán. En realidad, puede afirmarse que la aparición de los tártaros fue benéfica para la India indostánica, porque el nuevo poder que ellos crearon vino a establecer equilibrio, y más tarde, conciliación entre musulmanes e hindús.
+
+El año de 1399, Timur el tártaro derrocó la ⟦dinastía afgana de Delhi, y más tarde Baber fundó allí el⟧ primer imperio mogol. Los Rajás de los reinos vecinos formaron una liga para batir a Baber, pero otra vez
+
+[p. 46]
+
+fueron vencidos. Sin embargo, más tarde Baber se alió con ellos, para acabar de destrozar a los. afganos. Con alternativas de guerra y de paz, los mogoles emplearon más de un siglo en consolidar su imperio.
+
+Cuando Vasco de Gama, en I498, después de descubrir la ruta del Cabo de Buena Esperanza llegó a las costas de la India, desembarcando en la península Malabar, el país estaba dividido, más o menos, en la forma siguiente: todo el sur de la península se hallaba bajo el dominio directo del Rajá Vyayanagar. En el norte había dos reinos extranjeros, la dinastía afgana de los Lodi, que según parece, todavía predominaba en Delhi, y otro reino afgano en la Bengala. En Bijapur y al norte del Decán había reinos mahometanos; pero los tratos de los portugueses para traficar en la costa se hicieron con el Rajá hindú independiente. Más tarde los portugueses comprobaron la constante buena voluntad de los Rajás, a la vez que la opsición y el rencor de los mahometanos.
+
+En 1556 subió al trono de Delhi el principe Akbar, verdadero fundador del imperio mogol de la India. Akbar consolidó su poder estableciendo la igualdad ⟦política religiosa de musulmanes e hindús, conducta que si-⟧ glos más tande habían de imitar los ingleses; y una vez que en sus dominios estuvo asegurada la paz, dedicóse a extender sus fronteras.
+
+⟦La Rajputania fue conquistada por Akbar, comba-⟧ tiendo a algunos Rajas y celebrando alianzas y tratados , con otros. En esta invasión, la ciudad de Chitor, que
+
+[p. 47]
+
+se había levantado de nuevo, opuso otra vez resistencia y fue arrasada. Los supervivientes se internaron en los montes Avarulli, y fundaron alli la ciudad de Odeipur, que siguió independiente. Los Rajás que sometían pasaban a ocupar cargos distinguidos en la corte de Akbar; otras veces les permitía seguir ejerciendo soberanía en sus Estados, y frecuentemente sellaba pactos de amistad contrayendo matrimonio con princesas indias. Tan estrechamente llegó a ligarse Akbar con los hindús, que los musulmanes lo acusaban de apostasía. Pero por mucho que los Emperadores mogoles extendieran sus conquistas y se mostrasen hábiles para manejar las distintas razas que poblaban la peninsula, hubo regiones enteras donde jamás dominaron, y que siguieron sometidas a sus jefes nativos, los Rajás hindús.
+
+Los reinos de Assam y de Nepal jamás se sometieron a la dinastía mogólica, y otros muchos del sur de la península conservaron independencia casi completa.
+
+El Sha Jehán, sucesor de Akbar, es célebre por el fausto extraordinario de su reinado. Bajo su dirección se construyó el famoso palacio del Taj Majal, uno de los más bellos edificios del mundo, que recuerda el ⟦estilo de la Alhambra y de las construcciones moriscas⟧ de España. El Jehán construyó también el suntuoso trono del pavo real, hecho de esmeraldas y joyas preciosas. Los relatos que por entonces llegaban a Europa, del misterioso país de la India, eran relatos de la corte de este príncipe bárbaro, que en realidad nada tenía que ver con la India auténtica de los rajás y los brah-
+
+[p. 48]
+
+mines, refugiada en los distritos montañosos del norte, y en los reinos más o menos libres del sur.
+
+El sucesor de Jehán, Aurangzeb, musulmán fanático, pretendió unificar la peninsula por medio de la intolerancia religiosa, pero sus decretos no fueron atendidos en la Rajputania; y cuando ocurrió su muerte, en el siglo XVIII, ya los ingleses tenían colonias en ambas costas del país.
+
+Las hordas de Aurangzeb se extendieron, sin embargo, por todo el Decán, llegando a capturar el reino de Golconda, que estaba en poder de los sucesores de Vijanagar, el último Rajá que en el siglo XIV había logrado unificar a su raza, para hacer frente a los musulmanes. Las conquistas de Aurangzeb se desintegraron a su muerte, y el imperio mogol entró en decadencia definitiva. En 1739, el shah persa, Nadir, arrasó los dominios inogoles, entrando a saco en Delhi. Nadir se retiró, pero el imperio ya no volvió a consolidarse. En Delhí siguió existiendo un pequeño Estado mogol que fue disuelto en la época de la sublevación contra los ingleses, a mediados del siglo XIX.
+
+Al desmembrarse el dominio mogol, hubo un intento de resurreoción nacional en el sur; la clase militar de ⟦ los Mahrattas se hizo cargo de algunos reinos y opuso⟧
+
+alguna débil resistencia a los ingleses.
+
+El interior, devastado por las constantes guerras y desorientado por la falta de un poder central, procuraba establecer equilibrio entre los cincuenta millones ⟦ de musulmanes que habían quedado de las distintas in-⟧
+
+[p. 49]
+
+vasiones, y el resto, aún más numeroso, de la población indostánica. Por las costas de la infortunada península, seguían apareciendo los europeos. Durante un siglo, de 1600 a 1700, los portugueses habían conservado el monopolio del tráfico con la India. Después de algunas victorias navales, los ingleses los substituyeron en el occidente. La costa oriental, mientras tanto, fue ocupada por los ingleses, en Calcuta, y por los franceses en Pondiahery, y el sur por el Coromandel. El francés Dupleix estuvo a punto de constituir un vasto imperio en el sur de la península, pero los ingleses a las ondenes de Clive los combatieron, y finalmente, los hicieron capitular.
+
+La historia de la conquista inglesa de la India es una repetición de la fábula del sapo y el grillo. Los ingleses llegaron humildes a la corte del gran Mogol y a las cortes de los distintos monarcas, musulmanes y rajás. Obtuvieron permisos de comercio y arrendaron tierras en Calcuta y otros lugares; explotaron el comercio de las regiones más ricas, y así que las discordias interiores les daban oportunidad, intervenían en ellas apoyando al jefe que mayores concesiones les hacía. Así fueron sometiendo a su influencia un reino tras otro, por medio de intrigas, de cohecho y astucia. La conquista de la India no es obra de un hombre de genio, sino de una compañía de mercaderes listos. ⟦ Uno de los servidores de esta compañía, el militar Ro-⟧ berto Clive, derrotó en Plassey, en 1757, a un ejército indo-musulmán que pretendía arrojar a los ingleses de
+
+[p. 50]
+
+su antiguo establecimiento de Calcuta. En esta célebre batalla, Clive contaba con un poco menos de gente que sus adversarios, pero mejores elementos de guerra y, además, fue ayudado por una traición en el ejército enemigo. Después de su victoria, Clive impuso jefes nativos, gratos a la compañía inglesa, y arrancó fuertes sumas por indemnización o tributo. Clive, que antes había destruido el prestigio de los franceses en el sur, aseguraba, a consecuencia de la victoria de Plassey, la supremacía inglesa en la Bengala; por todo esto se le considera como el genio militar que fundó el poder inglés en la península. Las tropas inglesas apoyaban las exacciones y los negocios de la East India Co., concesionaria de S. M. Británica, y vendían sus servicios y su pericia militar a los pretendientes de los numerosos reinos indostánicos. El famoso Clive suicidóse al volver a Inglaterra, y después vino a la India otro personaje aún más discutido, pero que había de organizar la administración inglesa de la península, el tristemente célebre Warren Hastings.
+
+Warren Hastings, por una serie de pactos y convenios hábiles, logró cimentar el poder de los ingleses; ⟦ pero sus abusos fueron tan grandes, sus crimenes tan⟧ escandalosos, que en su misma patria fue procesado y severamente juzgado. El secreto del exito inglés en la India fue el mismo que aprendieron de los soberanos mogoles: la indiferencia religiosa que les permitió poner en paz a musulmanes y rajás. A cambio de este servicio de policía, los ingleses fueron conquistando todos ,
+
+[p. 51]
+
+los recursos del país y, finalmente, han impuesto allí su soberanía.
+
+Para comprender la facilidad de la conquista inglesa, así como todas las demás cuestiones relativas a la India, es menester tener presente que toda la península, con los dos valles del Indo y del Ganges, forma un vasto territorio comparable en extensión a toda la Europa, y habitado por una infinidad de razas diversas entre las cuales no hay liga común.
+
+La población actual de la India se calcula en más de trescientos millones, que pueden subdividirse en seis clases bien marcadas: I.° Las razas aborigenes, no arias, y que no han evolucionado del estado de tribu salvaje, los Bhilis y Gindus que habitan el centro de la península en número de once millones; 2.º los dravidios del sur, en número como de cincuenta y cuatro millones; 3.º los arios puros, compuestos de Brahmanes y Rajputanes, en número aproximado de veinte millones; 4.° los mestizos hindús, que representan la fusión de los arios con las razas autóctonas: ciento treinta y cinco millones ; 5.° los mahometanos: sesenta y dos millones, repartidos por casi toda la península, pero especialmente por el noroeste, cerca del Afganistán; 6.º los parsis o judíos persas de la península Malabar, en número reducido.
+
+Hay regiones en que esta población permanece casi estacionaria; en otras, por los valles y los distritos más ⟦ fértiles del Indo, la población crece cuando las buenas⟧ cosechas aumentan los granos, y disminuye con las sequías, lo mismo que si se tratara de una especie animal;
+
+[p. 52]
+
+el dolor que de esto resulta ha de ser una de las causas que fomentan el pesimismo. La costumbre de casar a hombres y mujeres desde niños, ha aumentado y degenerado la raza en forma que justifica la tendencia del hombre civilizado a limitar estrictamente su prole.
+
+Entre todas estas multitudes heterogéneas, la religión es el elemento característico. La inmensa mayoría de los hindús, los arios, los dradivios y los mestizos de ambos, profesan la religión brahmánica, con excepción de diez o doce millones de budistas. Las tribus primitivas practican el animismo idolátrico; los mahometanos conservan su religión propia, y los parsis mantienen el culto tal como se prescribe en el Zend-Avesta. Se calcula que hay poco más de un millón de cristianos conversos de origen indostánico, aparte de la población europea de la peninsula, compuesta principalmente de ingleses, y de algunos portugueses en la costa occidental.
+
+Bajo la denominación general de brahmanismo, se comprenden todas las sectas y variantes de las doctrinas derivadas de los Vedas. En la actualidad prevalece, entre la parte más ilustrada de la población, un eclecticis mo elevado que comprende dentro de si aun a sectas en ⟦ apariencia heterodoxas, como el budismo.⟧
+
+La división de la población indostánica por idiomas, también demuestra una variedad comparable a la variedad de las creencias y las razas. Los idiomas principales son los siguientes: el hindú, usado por cerca de ciento ⟦ veinte millones de hombres, en el Indostan propiamente⟧
+
+dicho, y subdividido en varios dialectos; es un idioma
+
+[p. 53]
+
+culto, con rastros muy marcados de las lenguas más antiguas: el sánscrito y el pali. El bengalí de los habitantes de Bengala, úsase aproximadamente por cuarenta y dos millones, y es el idioma de poetas y escritores modernos, como Tagore; también tiene sus raíces en los idiomas tradicionales. El Marati se habla en el Decán por cerca de veintiún millones de hombres. El Telegu de la costa de Coromandel, idioma dravidio de dulzura comparable a la del italiano, lo hablan cerca de veinte millones de hombres. El Tamil, en el cual está escrita buena parte de la literatura tántrica, etc., etc.
+
+La conquista inglesa y la introducción de las ideas de Europa ha traído como consecuencia la aparición de un nuevo factor de unidad entre las distintas razas de la península; ese factor es el concepto del nacionalismo. Un país de civilización tan antigua y tan completa no puede renunciar a su historia y a su alma, para fundirse de verdad en una nación extraña; tarde o temprano, los hijos del Indostán llegarán a ocupar el puesto a que tie. nen derecho, entre los pueblos ilustres y libres de la tierra.
+
+[p. 54]
+
+[p. 55]
+
+## III.—Clasificación de períodos y sectas
+
+### LITERATURA Y FILOSOFÍA
+
+PERÍODOS PRINCIPALES
+
+CLASIFICACIÓN
+
+La más amplia división general es la que establece
+
+Deusen en tres períodos, a saber:
+
+1'—Védico Primitivo, representado por el Rig-Veda, can los desarrollos religiosos y filosóficos que de él se derivan directamente, y que se conocen con los nom-
+
+⟦bres de Samas o Samhitas, Brahmanes y Suttras.⟧
+
+2°—Neo-Védico, que comprende un período que va desde el año 1000 ó 1500 antes de nuestra Era, hasta el siglo V de la Era cristiana. Este es el período de la organización del brahmanismo, tanto en lo religioso como en lo político, y a él correspoden libros como el ⟦ Yagur-Veda, el Sama-Veda y el Atharvá-Veda, con sus⟧
+
+respectivos comentarios en forma de samas, brahma-
+
+⟦nes, suttras y Upanishads o Upanischadas.⟧
+
+3.º—Post-Védico, que comienza 500 años A. C. con las doctrinas heréticas de Buda y de Mahavira, y llega ⟦ hasta nuestros días.⟧
+
+La denominación Vedas o Los Vedas se aplica a to-55
+
+[p. 56]
+
+da la literatura sagrada y antigua del Indostan; pero es necesario distinguir en cada Veda tres partes bien definidas: Los Himnos o Mantras, los Brahmanes y los
+
+⟦U'panishads o Upanischadas. Los libros védicos son cua-⟧
+
+tro y reciben sus nombres de los nombres de las familias de sacerdotes que los compusieron.
+
+La siguiente tabla explica todas estas divisiones y abarca los dos primeros períodos ya dichos:
+
+Rig Veda o colección de himnos compuestos por los antiguos sacerdotes del Rig o Rik.
+
+⟦Sama-Veda, Yajur o Yajur-Veda, Atharvo-Veda.⟧
+
+Himnos compuestos por los sacerdotes: Sama, Ya-
+
+⟦gur y Atharva.⟧
+
+Comentarios derivados de todos estos himnos y campuestos por los mismos sacerdote, o por pensadores independientes, en la siguiente forma:
+
+⟦Samhitas o Samas, Brahamanes, Suttras, Vedanta o⟧
+
+Upanischad, que quiere decir fin del Veda (derivados del Atharva-Veda, libros llamados Tantras, etc.).
+
+Los himnos o Mantras son la parte más conocida; contienen mitología y poesía, y constituyer la base primitiva y fundamental de todos los Vedas. Son obra ⟦ de bardos anónimos, pero unificados en la tendencia⟧
+
+naturalista y religiosa.
+
+Los textos llamados Samhitas o Mantras son colecciones de cantos religiosos primitivos; cantos de ⟦ruego y de alabanzas de los dioses.⟧ Los libros Brahmanes constituyen una etapa religiosa más avanzada. En ellos se precisa más el objeto del
+
+[p. 57]
+
+culto y la manera de aleanzar el favor de los dioses; la mitología se transforma en teología al definirse los atributos y los aspectos de la divinidad.
+
+Además, los Brahmanes contienen el ritual; en ellos se encuentran fórmulas sacramentales para el bautizo, para la primera vez que el niño es sacado a ver el sol, para el día en que toma el cordón de estudiante de las esorituras sagradas y pasa a poder del maestro o guru; en fin, fórmulas matrimoniales, funerarias, etc., etcétera.
+
+Los Upanishads son textos todavia posteriores, libros de metafísica. Metafísica fundada en los Himnos, en los Samas, en la teología brahmánica, en la revelación o doctrina sagrada, que también se llama Smitri.
+
+Tanto los Samas como los Brahmanes y los Upanischads, corren agregados a los "Himnos", y constituyen, con ellos, el cuerpo de doctrina sagrada, de doctrina ortodoxa, que es la base de todas las religiones y de todas las filosofías del Indostán.
+
+Un género literario posterior, aunque muy antiguo y también de capital importancia, es el de los Suttras o Suttas, que quiere decir sentencias en prosa o aforismos. Hay Suttas fundadas en los libros brahmanes, y Suttas derivados de los Upanischads, etc.
+
+En realidad, las tres formas Samhitas, Brahmanes y Suttas corresponden a géneros literarios que perduran en todos estos vastos períodos, y que son una ⟦consecuencia del comentario de los textos védicos y del⟧ desarrollo natural del pensamiento. El nombre Upanis-
+
+[p. 58]
+
+had o Aranyaka (I) se ha reservado para los que se acupan de una manera particular en cuestiones teosóficas y filosóficas.
+
+Pero los Samhitas, los Brahmanes y los Upanishads dejaron de escribirse, quedaron concluídos, al finalizar, por lo menos, el segundo período de la literatura védica, o quizás anteriormente, desde unos 1000 años A. C.; en tanto que el género de los Suttas o Aforismos se siguió cultivando hasta las épocas más recientes. En forma de Suttas están escritos casi todos los grandes sistemas de filosofía, y en forma de Suttas se han recopilado también todos los comentarios que sucesivamente se han ido haciendo de los libros antiguos y clásicos, ⟦los Brahmanes y los Upanischads.⟧
+
+Los principales libros del período post-védico están escritos, como ya se ha indicado, en estilo de aforismos o Suttas, y consisten, por lo común, en comentarios o recopilaciones de los más antiguos textos Los sistemas de Capila, de Patanjalí y de Mahavira están escritos en forma de aforismos o Suttas.
+
+Al periodo post-védico y a la era de los Suttas corresponden también los grandes poemas, como el Mahabharatta, primero, y el Ramayana después.
+
+Todavía más tarde aparecen obras como los Dramas de Kalidasa, las fábulas de animales y romances populares; obras de historia, geografía y lenguaje, entre
+
+(I) Los Aranyakas, o tratados de los bosques, son textos intermediarios entre brahmanes y upanishads, en los cuales se interpreta en forma simbólica el rito.—Véase: M. BLOOMFIELD, The Religion of the Veda, New York, Putnam and Sons.
+
+[p. 59]
+
+otras, la famosa gramática de Panini; retóricas y poéticas, etc. El Código de Manú, muy anterior, corresponde a la época de la constitución de la sociedad indo-aria.
+
+Otras obras puramente literarias, todavía célebres, pero mucho más recientes, son, por ejemplo, El Prem Samgar-Océano de Amor-, poema erótico escrito, ya no en sánscrito, sino en indostano, y el poema erótico denominado Gita Govinda, escrito por Jayadeva en el siglo XII, A. C., para celebrar las amores del dios Krishna con su favorita Radha.
+
+La filosofía propiamente dicha quedó constituída en el período post-védico, dentro de los seis sistemas siguientes:
+
+⟦Vedanta o Uttara Mimanza.—El más antiguo e ilus-⟧ tre de todos los sistemas, fundado en la doctrina expurgada de los Upanischads. Vedanta quiere decir parte final del Veda, y Mimanza quiere decir exégesis; Uttata Mimanza, exégesis posterior. La vida de la escuela se extiende desde la más remota antigüedad, de que proceden sus textos fundamentales, hasta la redacción de las colecciones de Badarayana, en muy distante ⟦época, y de Samkara, en el siglo IX de nuestra Era, y, por⟧ último, hasta nuestros días.
+
+⟦Purva Mimanza. — Dootrina o exégesis anterior—.⟧ El fundador de esta escuela, Jaimini, se propuso volver a la tradición ritual contenida en los libros brahmanes, más antiguos todavía que los Upanischads, con el objeto de contrarrestar los efectos de la especulación
+
+[p. 60]
+
+upanishádica, que comúnmente se resolvía en doctrina no muy acorde con la letra de los textos sagrados.
+
+Escuela Samkya. — Escuela propiamente filosófica, fundada en las sentencias o aforismos de Capila, que explican el universo por medio de un dualismo naturalista. Las ideas de esta escuela han sido la base de toda la especulación independiente del Indostan.
+
+Escuela Yogui.—La ciencia yogui, como ciencia de meditación y de ascetismo, es antiquísima en la India; pero los aforismos que sirven de base a la escuela conocida con el nombre de Yogui se atribuyen a Patanjali, por el siglo II, A. C.
+
+Filosofía o Escuela Nyaya.—Escuela lógica fundada por el sabio Gotama, en la cual se estudian las facultades del entendimiento y se busca la salvación por medio de la crítica racionalista.
+
+Escuela Varsheshika, que aparece por el siglo V de nuestra Era, con doctrinas muy semejantes a las de la escuela Niyaya, y cuyo fundador es Kanada.
+
+Todos estos sistemas son ortodoxos, porque aceptan la tradición védica y se fundan en ella, aunque en sus conclusiones se aparten de las doctrinas originales. La ⟦ denominación ortodoxa no quiere decir en la India ape-⟧ go estricto a un cuerpo de dogmas, sino sólo el reconocimiento de la infalibilidad de los Vedas. Por lo que hace a interpretación, siempre ha habido la más completa libertad.
+
+. Tan completa ha sido esta libertad, que siempre han existido sectas heterodoxas. Una de ellas, citada por
+
+[p. 61]
+
+Garbe (I), es la de los materialistas o Characas, cuyo antiquísimo texto sólo se conoce por las citas que de él hace Badarayana, en sus Brahma Suttras. El autor del credo positivista indostánico se llama Brihaspati, y su
+
+⟦libro los Brahma Suttas de Brihaspati. Según Garbe,⟧
+
+los Characas afirmaban que la percepción sensorial es la única fuente del conocimiento; naturalmente, la consecuencia de tal sistema era el hedonismo grosero, que aclama el deleite de los sentidos, como el supremo bien
+
+de la vida.
+
+Pero las más importantes escuelas heterodoxas son las dos grandes religiones del Budismo y el Jainismo, fundadas, respectivamente, por el Buda Gotama o Sakya Muni, y por Mahavira. Los libros en que se fundan estas religiones se mencionan en la parte relativa del
+
+texto.
+
+El avance filosófico representado por los Upanischads, las escuelas de filosofía, el budismo y el jainismo, no podía dejar de hacer sentir su influencia sobre el brahmanismo oficial, por muy apegado que se mantuviese a la tradición.
+
+A fin de adaptar el culto a las nuevas ideas, los ⟦brahmines tuvieron que desarrollar su teología; una teolo-⟧ ⟦ gía que más o menos correspondiese a las necesidades⟧
+
+metafísicas de la época. De esta teología antiquísima procede la doctrina de la Trinidad, o sea de Brahma ⟦ considerado como el autor, el mantenedor y el destruc-⟧
+
+(1) RICHARD GARBE, Outline of a History of Indian hilosophy.
+
+[p. 62]
+
+tor de la vida, bajo los nombres respectivos de Brahma,
+
+⟦Vishnu y Siva.⟧
+
+A este desarrollo teológico-filosófico se debe la aparición de las siguientes sectas o sistemas que se enumeran en el Sarva-Darsano Sangana, (I), además de los seis sistemas clásicos ya mencionados, a saber:
+
+⟦La Secta Vishnuvita fundada por Anandathirta, que⟧
+
+hasta la fecha cuenta con gran número de fieles, y cuatro sectas dedicadas al culto de Siva bajo los nombres
+
+⟦de Nakulika-Pacupata, Siva, Pratyabhijna y Rasevcuro.⟧
+
+Las doctrinas de estas sectas son mezcla de principios samkyas y vedánticos. El sexto sistema es el de Panini el gramático, clasificado entre las filosofías, porque los gramáticos indos aceptaban el dogma de la escuela Miimanza, relativo a la eternidad del sonido, y desarrollaban la teoría yoga sobre la voz Sphota, o lo Indivisible, como factor unitario del idioma, y latente en cada palabra.
+
+La doctrina del brahmanismo Vishnuvita o culto de
+
+Vishnu se halla contenida en libros que se denominan puranas. La voz purana quiere decir tradición antigua, pero según Monier Williams (2), la denominación es ⟦ficticia y hecha para dar autoridad a textos espurios, que⟧
+
+sin razón se quieren hacer aparecer como de Vyasa, el legendario autor del Mahabharatta.
+
+(I) El Sarva-Darsana-Sangana es un compendio de los principales sistemas indostánicos, formado en el siglo XIV A. C., por el maestro
+
+⟦vedantista Madhava o Madhavacharya (Trad. inglesa de Cowell y⟧
+
+⟦Gouh, I882).⟧ (2) Véase MONTER WILLIAMS, Hinduism.
+
+[p. 63]
+
+Una de las Puranas más célebres es la denominada Bhagavato-Purono, que narra el nacimiento y la vida de Krishna, una de las encarnaciones de Vishnu. Este texto constituye el libro sagrado de los adoradores de Vishnu, pero en realidad la voz Purana cubre un género vasto de obras filosófico-religiosas..
+
+Cada Purano se compone de las siguientes partes:
+
+I.* La Creación del Universo.—2:* Su destrucción y nueva creación.—3.° La Genealogía de los Dioses.— 4.° Los reinos y períodos de Manus,-5.* La historia de los reyes solares y lunares; todo expuesto con mezcla de citas del Mahabharatta y el Ramayana. Otro asunto común a todas las Puranas es la enumeración de las formas y las encarnaciones de Vishnu.
+
+Las doctrinas de los adoradores de Siva están contenidas en textos denominados Agamas o Sivo-Agamas y en los libros llamados Tantras, aunque según Farquhar (I), el nombre de Tantra sólo se aplica a los libros de los Saktas o adoradores de Kali, la esposa de Siva. Se atribuye gran antigüedad a la colección de las Aga-. mas.
+
+Los Tantras son muy numerosos y relativamente ⟦recientes, a pesar de lo que afirman sus sostenedores. Al-⟧ rededor de estos libros hay no poco misterio. Según los más, no contienen sino supercherías y obscenidades. Los famosos ritos secretos no son sino la reglamentación de la licencia y la orgía, con pretextos religiosos. Sin embargo, hay Tantras que se ocupan más exclusi-⟦ (I) FARQUEAR, Hinduism, Londres.⟧
+
+[p. 64]
+
+vamente de Magia y artes conexas, conjuros, encantamientos, exorcismos, etc.
+
+Refiere Farquhar que en la ciudad de Vikramasila, sobre el Ganges, existió una célebre Universidad dedicada al estudio de las ideas Tántricas: magia, espiritismo y sus similares.
+
+Tanto los Tantras como las Puranas son, según Monier Williams, obras no sólo de propaganda, sino también de controversia religiosa, en la cual se defienden las doctrinas peculiares de cada secta contra las creencias rivales.
+
+De esta manera las Puranas y los Tantras (I) han venido a ser una especie de quinto Veda para uso de las masas en cuestiones religiosas.
+
+⟦La'⟧
+
+'escuela Tántrica cuenta en la actualidad con muchos prosélitos, particularmente entre los Lamas del
+
+⟦Thibet.⟧
+
+En el fondo de toda esta variedad de doctrinas, y a través de millares de años, el brahmanismo oficial, el hinduîsmo de las castas y el culto de Brahma, se ha mantenido apegado a su tradición y a su fe. La mayor ⟦ parte de los desarrollos filosóficos y religiosos que se⟧
+
+han sucedido, han afectado poco a la doctrina principal, tal como se deriva de los Vedas y de los Upanischads. Sin embargo, para mantener viva la escuela oficial, frente a las nuevas sectas, ha sido necesario usar de mucha liberalidad por una parte, y por otra de cons-⟦ (1) Véase: Tantra of The Great Lileration, trad. de ARTHUR AvALON⟧
+
+LuzAc, Londres: una de las pocas traducciones publicadas.
+
+[p. 65]
+
+tante restauración y afirmación de los antiguos credos.
+
+Precisamente las épocas de mayor actividad heterodoxa, han sido también las épocas en que aparecen en el seno del brahmanismo oficial los grandes restauradores que revisan la doctrina y la interpretan conforme al avance de los tiempos.
+
+La fundación de la escuela Uttara Mimanza por Badarayana, fue una reacción del brahmanismo tradicional contra la especulación de los distintos sistemas de filosofía libre. La escuela de Badarayana dejó tras de sí el monumento filosófico de los Brahma Suttas, que había de ser la Biblia brahmánica durante cerca de mil quinientos años.
+
+En el siglo IX de la Era cristiana apareció otro gran compilador del brahmanismo, de cuya obra parte toda la doctrina moderna; ese compilador es Samkara.
+
+La obra de Samkara consta en los Vedanta Suttas o Brahma Suttas de Samkara, vasta enciclopedia crítica del pensamiento indostánico (1).
+
+Los Brahma Suttas de Samkara son un comentario de las antiguas doctrinas de los Upanischads, y en ellos se funda casi todo el pensamiento moderno de la India. Los autores europeos comparan la obra de Samkara a la crítica de Kant (2), pero también se parece, por su amplitud y sus efectos, a la redacción de la Summa Teológica por Santo Tomás.
+
+⟦ Todas las ideas conocidas hasta su época y las doc-⟧
+
+## (1) Véase: Vedanta Suttas de SAMBARA O SAMKARACHARYA.
+
+⟦(2) PAUL DEUSSEN.—MAX MÜLLER.⟧
+
+[p. 66]
+
+trinas fundamentales de su propia escuela-la escuela
+
+Vedanta, monista radical o advaita—, se encuentran en la obra de Samkara, que es la obra capital de la filoso-
+
+⟦fia védica.⟧
+
+Un contemporáneo de Samkara, y como él, ortodoxo, el célebre Ramanuga compuso un sistema un poco distinto del credo vedanta advaita, en el sentido de que sostiene que las almas son partes, no idénticas, sino distintas de Brahma, aunque como él, eternas.
+
+Un sucesor de Ramanunja, llamado Ramananda, fundó en el siglo XV, A. C., la escuela Raimita, que forma parte del gran movimiento Bhakti, que busca la salvación en el ejercicio de prácticas devotas fervorosas. Los textos de esta escuela están escritos en idiomas
+
+vernáculos.
+
+Se reseñan brevemente las principales ideas de nas de estas sectas, en el capítulo dedicado a las religiones brahmánicas, y en la parte final del libro se dedican varias páginas al estudio de la escuela vedanta moderna, cuyo renacimiento contemporáneo es muy digno de ⟦ atención. EL BRAHMANISMO⟧
+
+### EL BRAHMANISMO.—Los Mitos.—Las Sectas.—Religiones principales.
+
+⟦Vishnu.—Siva.—Krishna.⟧ 16:
+
+Comúnmente se da el nombre de brahmanismo a la religión tradicional derivada de los cantos védicos, y
+
+[p. 67]
+
+conservada por los brahmines o sacerdotes, constituídos en casta dominadora y casi sobrehumana. De los himnos Védicos y de los libros sacerdotales llamados "brahmanes" se fue derivando una serie de prácticas litúrgicas y sociales, que afectaban hasta los más sencillos actos de la vida. La necesidad de influir sobre las distintas tribus conquistadas hizo que los sacerdotes fueran ampliando el animismo primitivo de sus antecesores, y aunque los dioses védicos se fueron transformando en el sentido de un monoteísmo fundamental, ello no excluía un sinnúmero de divinidades inferiores, a propósito para toda clase de creyentes.
+
+El politeismo rudimentario de los arios primitivos se elevó y se enriqueció con la adopción de ideas como la de la reencarnación y el poder de un Dios Absoluto o Brahma. El desarrollo natural de la especulación fue conduciendo a estudiar las jerarquías y los atributos de los poderes divinos. Multiplicaronse las opiniones y las sectas, porque no había una autoridad religiosa central y reconocida, sino que cada familia de sacerdotes escribía sus propias reglas y comentarios, sin más norma fija que los Himnos o Mantras, pero aun éstos eran susceptibles de aumento y de modificación. Fácilmente se comprende por qué desde aquellos tiempos hasta nuestros días, el brahmanismo ha estado dividido y subdividido. Sin embargo, a pesar de esta libre fecundidad, existen ciertos rasgos comunes que permiten hablar del brahmanismo como de un todo rico y complejo, pero bien organizado.
+
+[p. 68]
+
+El poder absoluto de Brahma, comprobado por las especulaciones de la alta teología, de lo que podríamos llamar teología esotérica, no era discutido por los organizadores de cultos populares, pero tampoco hallaban el medio de hacerlo palpable a las masas. Quizás por eso desde el principio se descompuso ese poder abstracto en un sinnúmero de representaciones y de mitos. El dogma de la Trinidad vino a facilitar la exposición del principio divino. Todas las sectas brahmánicas aceptan la tesis de la Trinidad y la representan bajo los nombres de Brahma, Vishnu y Siva: la creación, la conservación y la destrucción del Universo.
+
+Para representar a estas distintas personas de la Trinidad, se recurre a una infinidad de simbolos que enriquecen el panteón indostánico, acaso el más rico de todos los conocidos. También a medida que aparecen los nuevos conceptos, sucede que no se reniega de los dioses viejos, sino que se les vuelve a interpretar y se les renueva con el ropaje de las más avanzadas ideas. Los dioses primitivos sirven algunas veces para el desarrollo del pensamiento religioso, pero otras sucede que la especulación se adelanta y formula conceptos que no han ⟦ sido sospechados por la tradición; entonces los sacer-⟧ dotes y los popularizadores de doctrina se han puesto a crear mitos a posteriori, para representar un concepto y hacerlo inteligible a las masas. Esto explica que la , mitología no siempre precede a la especulación filosófica, sino que a veces se deduce de esa especulación.
+
+Entre la multitud de los dioses hindús, creo que pue-
+
+[p. 69]
+
+den establecerse las siguientes distinciones generales:
+
+I. Los dioses primitivos y propiamente mitológicos ⟦que como Indra, Rudra, Additi, Rama y Agni, repre-⟧ sentan antepasados unas veces, y elementos naturales otras, y que ya todos están olvidados.—2. Los dioses filosóficos que enseñan y disertan en los Upanishads o el Mahabharatta, y que son símbolos, cuando se trata de representar a Brahma, o personajes mitológicos como Pragapati y Krishna.—3. Los dioses filosóficos que proceden del desarrollo de las distintas escuelas metafísicas y religiosas; dioses que ya no representan un antepasado, ni un simbolo mitológico, ni un sabio legendario, sino un concepto metafísico, como, por ejemplo, Isvara, el Dios personal de los Yoguis; Variochana, uno de los principales dioses budistas, que quiere decir lo Universal Impersonal, representado por un Buda que ostenta en el pecho la flor del loto, cuyos pétalos radian en todos sentidos y abajo ostenta los simbolos de sus cuatro subdivisiones; poder, misericordia, riqueza y karma; los dioses esculpidos de los jainistas, que por representar el cuerpo desnudo, tuvieron tanta influencia en el desarrollo de la escultura indostánica, etc., etc. ⟦ NoTA.—Frecuentemente uso las palabras «hinduísmo» e hindú, como⟧ sinónimas de brahmanismo o induísmo y de Indo, siguiendo en esto la costumbre del inglés. que ba adoptado las referidas voces, tomándolas del persa «sindhi», nombre que designaba al río Indo o Indus de los romanos. La palabra hindú así derivada, tiene sobre su sinónima latina, ⟦ ‹indo», derivado de Indus, la ventaja de que evita confusiones con las⟧ voces derivadas de la palabra India, aplicadas a nuestraś cosas indias de América, y no hay motivo para que el castellano no se enriquezca con esta voz, tal como lo ha hecho el inglés. También digo Upanishad, en
+
+[p. 70]
+
+vez de Upanischadas, y uso constantemente la esh», porque las voces hindús la requieren, y el castellano oficial ha hecho mal no adoptándola, y pretendiendo sustituirla con la «ch», que además de tener un sonido desagradable, no basta para traducir voces como Krishna, etc.
+
+LAS SECTAS
+
+Brahmanismo primitivo.
+
+Los arios primitivos concebían a sus dioses como héroes esforzados y para propiciarlos les elevaban oraciones y sacrificios. El dios más importante de los cantos védicos es Indra, el guerrero invencible, el jefe de los cazadores que después se convierte en el guerrero celeste que junta las nubes y dirige los vientos, produciendo lluvias benéficas o inundaciones y calamidades.
+
+Cuando Indra no combate, celebra festines en que danza y se embriaga con el jugo del "soma"; de esta suerte los espiritus de la planta sagrada lo poseen y le permiten vaticinar el porvenir. Agni es el dios del fuego y
+
+Additi la diosa de la Tierra, la diosa fecundidad. Las historias de todos estos dioses se hallan relatadas en el
+
+Rig-Veda, pero con bastante imprecisión. Sin embargo, ⟦ aun este primitivo culto, presenta el rasgo noble de que⟧
+
+no exige sacrificios sangrientos, sino meros ritos y, sobre todo, pureza de costumbres.
+
+Politeísmo intermedio.
+
+La religión primitiva de los arios, como se contiene en el Rig-Veda, se pone en contacto con las creencias
+
+ atl
+
+[p. 71]
+
+de las distintas razas aborígenes y se enriquece y se transforma. Es seguro que en toda esta época, debe haber prevalecido la más grande confusión en materia de dogmas. Sin embargo, el carácter general de la religión indostánica, se define desde entonces con rasgos característioos, como por ejemplo: el desprecio de lo terrestre, para buscar la salvación y la verdad en la meditación solitaria y en la renuncia; la creencia en la reencarnación que trae como consecuencia el respeto de la vida en todas sus formas, etc. La supremacía de los sacerdotes se consolida, porque la salvación se hace depender de sacrificios y de ritos que sólo ellos practican. Las múltiples divinidades se expresan por la voz de los sacerdotes, que son una especie de inspirados divinos. Las revelaciones a ellos concedidas van formando la numerosa literatura samhita y brahmánica.
+
+Monoteismo.— Subdivisiones posteriores.— Interpretación de la Trinidad.
+
+La escuela oficial brahmánica, compuesta de la mayoría de las viejas familias sacerdotales, supo ⟦aprovechar los progresos de la especulación filosófica tal como⟧ se iba desarrollando en los Upanishads. Cuando se hubo llegado a conclusiones como la Omnipotencia de Brahma, los sacerdotes adaptaron las ceremonias del rito a los nuevos conceptos monoteístas. Y siendo difícil representar abstracciones como las que resultan de las discusiones metafísicas, hubo necesidad de ir
+
+[p. 72]
+
+inventando simbolos y mitos conformes con las nuevas doctrinas.
+
+La secta pura de Brahma es la seota de los filósofos. Brahma es irrepresentable, absoluto y se halla en el corazón de los hombres y en todo el Universo. Pero las otras personas de la Trinidad, Vishnu y Siva, prestáronse para la interpretación y la representación litúrgica, y sirven de base al rito y al culto.
+
+⟦La Secta de Vishnu o Vaishnavita.⟧
+
+⟦Los vishnúvitas adoran a Vishnu como el mantene-⟧ dor de la vida. Vishnu se transforma a su antojo y reencarna sucesivamente en personajes divinos, como Krishna y Rama, etc. De esta manera, la religión vishnuvita ha logrado renovarse periódicamente y susbsistir hasta nuestros dias. La secta es aun hoy de las más importantes, porque alrededor de ella se encuentra afiliado el brahmanismo oficial contemporáneo. Se ignora la forma primitiva del culto; pero en su forma actual, Vishnu es adorado bajo la advocación de Krishna.
+
+El vishnuvismo de Krishna data, probablemente, del siglo XII o XIII de nuestra Era, y representa un ⟦esfuerzo de renovación del brahmanismo. El fundador⟧ de la secta, Krishna Vasudeva es personaje mitológico, supuesta encarnación de Vishnu. En la creación de este personaje quizás hubo también influencias cristianas que ya para entonces sin duda se hacían sentir en la India, aunque corrompidas y tergiversadas por los clé- , rigos brahmanes.
+
+[p. 73]
+
+De todas maneras, el sistema Vaishnavita es posterior al culto de Vishnu y de Siva y como una conciliación de ambos. Asimismo, para restituir otras sectas a la influencia brahmánica, los organizadores del vaishnavismo, incorporaron a personajes como el Buda Gau.
+
+tama en su panteón religioso. Las diez encarnaciones
+
+⟦sucesivas de Vishna, segán los Vaishnavitas, son como⟧
+
+sigue:
+
+I. Matsya, el Pez. En esta forma Vishnu salvó a
+
+Manu del Diluvio.
+
+2. Kurma, la Tortuga. En esta forma descendió Vishnu al fondo del Océano, para extraer el néctar de los dioses y otros tesoros que se perdieron en el Diluvio.
+
+3. Varaha, el monstruo benéfico que libró al mundo del demonio de los "ojos de oro" , poco después del
+
+⟦Diluvio.⟧
+
+4. Nara-Simha, El Hombre-León, forma que adoptó
+
+Vishnu para destruir otro espíritu del mal.
+
+5. Vamana, el Enano que robó al demonio Bali la posesión de la Tierra, dejando reducido su reino a los
+
+Infiernos.
+
+6. Parsu-Rama, Rama con hacha. Forma en que ha ⟦ aparecido Vishnu veintiún veces para librar al mundo⟧
+
+de la clase militar (Inventóse, quizás, esta advocación en la época de las invasiones tártaras y turcas que asolaban el Indostán).
+
+7. Rama-Chandra, el héroe del poema del ⟦Ramayama.⟧ ⟦ 8. Krishna. El dios Negro o Khrisna Vasuveda, que⟧
+
+[p. 74]
+
+es una especie de dios personal a quien se dirigen plegarias y sacrificios.
+
+⟦9. El Buda Sakya Muni.⟧
+
+1o. Kalki o Kalkin, la futura manifestación de dios que ha de aparecer en un caballo blanco y espada en mano, para destruir el mundo.
+
+Pero el personaje importante para la secta y acaso también el personaje más importante del brahmanismo contemporáneo, es Krishna. Los datos sobre su culto y facultades se encuentran en el Harlvansa, libro que forma parte de la colección de Los Libros Sagrados del Oriente (I) y en el Bhagovatapurana, que se encuentra en la misma colección.
+
+La Secta de Siva.
+
+Siva, como Vishnu, es una emanación, una tación de Brahma; su culto, como el de Vishnu, es muy antiguo y probablemente data de la época en que se redactaron los seis sistemas clásicos de filosofía. Los símbolos de Siva son el toro sagrado, el tridente y el falo. Con el transcurso del tiempo el culto de Siva como el de su rival Vishnu ha sufrido modificaciones y se ha enriquecido con preceptos y alegorías de todas las demás religiones, inclusive la cristiana. Lo característico del culto de Siva es el uso de signos fálicos para representarlo, a diferencia de Vishnu, que siempre aparece ⟦(1) Véase: Sacred Books of the East.—Ediciones de Max Müller.-⟧ Londres.
+
+[p. 75]
+
+en su propia imagen. El culto de Siva se halla extendido por el sur de la India, y lo mismo que el de Vishnu da lugar a procesiones y festividades religiosas de gran pompa. Los gurus o instructores, y los gossains o sacerdotes de Vishnuistas y Sivistas, gozan de gran prestigio entre los fieles, y según se asegura, abusan de él, muy a menudo.
+
+⟦Los Saktas.⟧
+
+El Saktismo, llamado también Tantritismo por el nombre de los libros en que consta la doctrina-Tantras—, es el último desarrollo del brahmanismo medioeval y el más corrompido de todos. Así como el dios principal de las Puranas es Vishnu, el dios principal de los Tantras es Siva, muy particularmente en sus manifestaciones femeninas. Por lo común, observa Monier Williams, las divinidades hindús poseen una doble naturaleza compuesta de una parte activa y otra pasiva. La parte artiva de Siva, llamada Sakti, fue personificada como su esposa o la parte femenina de su esencia. La energía de Siva o Sakti se desarrolla también en ⟦ innumerables fuerzas y manifestaciones físicas, mora-⟧ les, etc. Por ejemplo, reconocen los Saktistas diversos personajes divinos, a saber: Mahavidyas o fuentes del saber: Matris, madres divinas; Yoginas, diosas que poseen poderes mágicos, etc. Y así como los Vaishnavitas reconocen y veneran diez encarnaciones masculinas de ⟦Vishnu, los Saktas o Saktistas veneran las diez mani-⟧
+
+[p. 76]
+
+festaciones femeninas de Siva, o más bien dicho, manifestaciones de la energía de Siva o Sakti: Kali, Tara, Matangi, etc., etc., todas éstas, además de las Matris, Yoginas, etc. En esta faz, agrega Monier Williams, el brahmanismo se convierte en una especie de culto a la fuerza en todas sus modificaciones, y la teoría de los Tantras se relaciona estrechamente con la escuela filosófica de los Samkyas que reconoce la purusha o alma como el elemento masculino, inactivo e indiferente y el pakriti o materia como elemento femenino cambiante, activo y reproductor.
+
+Los Saktistas, a causa de sus doctrinas, vinieron a ser los corruptores de las religiones Vishnuvita y Sivista, porque mientras estos últimos rendían culto a las mujeres de Vishnu y de Siva o de Krishna en su carác-⟦ter de diosas, los Saktistas, llamados Vamacarins o pro-⟧ sélitos de la mano izquierda, se hicieron devotos del Upanishad Kauli y de los Tantras. Las aventuras de Krishna con su favorita Radha han servido de pasto a la literatura erótica, pero los Saktistas se extienden más allá y llevan a la práctica los mitos. Las reuniones de la secta constituyen verdaderas orgías en las que los fieles ⟦ se entregan con desenfreno a las cinco Makaras o cin-⟧ co M, emes, que en idioma sánscrito corresponden a las cinco palabras, Madya, vino; Mansa, carne; Matsya, pez; Mudra, grano, trigo, y Maithuna, unión sexual. No sólo a la licencia se entregan los Saktistas, sino también al estudio de los libros de magia denominados ⟦ Mantras; pero en este caso la palabra Mantra no quie-⟧
+
+[p. 77]
+
+re decir, como es usual, un himno de devoción o plegaria, sino de una manera especial himnos derivados del Atharva-Veda; invocaciones mágicas de sílabas o frases que pronunciadas o repetidas conforme a ciertas fórmulas, poseen poderes extraordinarios, benéficos o adversos.
+
+Las sílabas místicas así usadas se denominan Vijas y generalmente designan alguno de los dioses o una parte del cuerpo; por ejemplo, Am significa Siva; U, Vishnu; Lam, la tierra, etc.
+
+Las Yantras son diagramas místicos, combinaciones de figuras triangulares, que también emplean los saktas en sus exorcismos.
+
+Las doctrinas de los Saktistas están contenidas en los libros Tantras. Los pocos que hasta hoy se han traducido demuestran doctrinas estúpidas y obscenas. Sin embargo, hay algunos que no sólo se ocupan de fórmulas y prácticas groseras, sino que están escritos en forma de diálogo doctrinario entre Siva y su esposa. Para los Saktistas estos Tantras constituyen un quinto Veda y ocupan el lugar de los Puranas de los Vishnuvistas. Cada Tantra se ocupa, de la creación del mundo y su destrucción, del culto que ha de rendirse a los dioses; de la conquista de ocho facultades sobrehumanas o sidhi; de las cuatro maneras de unión con el espíritu supremo, etc., y las más groseras supercherías, tales como consejos para destruir a nuestros enemigos mediante la pronunciación y repetición de frases o sonidos; en fin, brujerías de la más absurda especie. Lo poco que hasta
+
+[p. 78]
+
+J o g &
+
+hoy se conoce de estos libros hace casi imposible fijar sus fechas y su origen. Algunos de ellos fúndanse en el Upanishad-Kauli; de todas maneras parece que son posteriores a los Puranas y que los más antiguos datan del sigio VI o VIl de nuestra Era. Las nombres de los más usados entre los Saktas son, por ejemplo, el ⟦Rudra-Yamala, el Sakti-Sangana, el Visva-Sara, el Ma-⟧ ⟦ha-Nirvana, Vira, Kularnava, Vishnu-Yamala, etc., etc.⟧ Como ejemplo de lo que dicen estos Tantras, Monier reproduce las ceremonias del rito llamado Bhutta-suddi, que tiene por objeto arrojar los demonios del cuerpo; el párrafo relativo está tomado de un libro bengali, denominado Durga-puja:
+
+"Apóyese una flor aromática, untada de sándalo, sobre la sien izquierda y repítase: "Om, a los gurus", ⟦"Om, a Ganesa", "Om, a Durga" (diosa negra). En se-⟧ guida frótense las palmas de las manos con flores, diciendo: Omphat; suénense las manos tres veces por encima de la cabeza y en seguida los dedos, en todas direcciones, para ahuyentar los malos espíritus. Recítese en seguida el Mantra (plegaria o conjuro) Ram, rocíese de fuego... Medítese en las veinticuatro esencias de la ⟦ naturaleza, a saber: los cinco elementos, los cinco sen-⟧ tidos, etc... Meditese en Matrika, diosa de la palabra, y dígase: ayúdame; Am en la frente, Am en la boca, etcétera, etc."
+
+En fin, cinco son las sectas principales que reciben el ⟦nombre de brahmánicas: La de Vishnu o Vaishnavitas,⟧ la de Siva, la de los Saktas, la de los Sauras o adorado
+
+[p. 79]
+
+res del sol y las de los Ganapatyas o adoradores de Ganesa, el señor de la tropa de los demonios. Alrededor de todas éstas hay subdivisiones, como la célebre del sur de la India, denominada Lingam, por el uso público que hace de los simbolos de la reproducción, etc., etc. Sin embargo, puede afirmarse que la secta Vishnu y la secta de Siva constituyen las dos ramas principales, alrededor de las que se han desarrollado las otras, y que todas estas sectas datan del principio de la Era cristiana. Los movimientos de reforma y de restauración de tan diversos cultos, han ido dando lugar a la aparición de variantes que constituyen las nuevas iglesias, o cultos desarrollados desde la edad media hasta la época moderna.
+
+Sectas medioevales y reformas.
+
+La literatura tántrica llevó su contagio de ocultismo y charlațanería a casi todas las sectas indostánicas. Los mismos budistas adoptaron libros tántricos, especialmente los laimistas del Thibet. Se cita el nombre de los doce Alvars, poetas y maestros ambulantes que desarro llaron, en el sur de la India, un vishnuísmo popular, en el que Vishnu comienza a ser adorado bajo la advocación de Krishna. Con pasajes de las historias de Krishna, tomados de las Puranas, compusieron himnos de hermoso estilo, que después han venido a quedar refundidos en la colección llamada Nalayira Prabandham, conocida también con el nombre del Veda Tamil.
+
+[p. 80]
+
+Por la misma época, los Adiyars hicieron algo semejante con los asuntos de la religión de Siva; sus himnos están contenidos en el Devarán. En el siglo X, A. C. el poeta Manikka Vachanar escribió su colección lírica, dedicada a Siva, con el nombre de Tiruvachakan, o cantos sagrados, y tanto este libro como los anteriormente nombrados, han sido adoptados por el culto de Siva.
+
+En el siglo X apareció el Bhagavata Purana o Purana del Adorable, que a la fecha es considerado como el mejor de los Puranas y está dedicado a Krishna. Más tarde apareció Nimbarka, cuyos discípulos adoran a Radha, la favorita de Krishna: Jayadeva escribió el Gita-Govinda por esta época, cantando a Krishna en estilo erótico y voluptuoso. Todos estos libros se escribieron en sánscrito, pues aún en nuestros días este idioma sigue siendo la lengua literaria de toda la India.
+
+⟦Los Bhaktas.—El movimiento bhaktista.⟧
+
+Bhakti quiere decir adoración, devoción, y se ha usa. do este nombre para designar un movimiento de restauración brahmánica, dirigido quizás contra el budismo, y que afectó a todas las sectas ortodoxas, principalmente a las de Vishnu y de Siva. Los himnos religiosas que de este movimiento resultaron se denominan ⟦Sampradayas, y todos predican el amor apasionado de la divini-⟧ nidad. En vez de los viejos himmos védicos, los reformadores bhaktistas tocaban música religiosa, agitaban
+
+[p. 81]
+
+⟦Estudio i n o s t n i o r⟧ luces y antorchas y entonaban canciones místicas. A la vez substituían los textos sánscritos de los mantras con versos en idioma popular y adoraban las imágenes de Krishna. Para alcanzar la beatitud aconsejaban que el devoto pasase por los siguientes estados: CoNTEMPLA-CIÓN TRANQUILA DE LA DEIDAD; Dasya, SERVIDUMBRE DE LA DEIDAD; Sakya, AMISTAD CON LA DEIDAD; Vatsa-Lya, AFECCIÓN FILIAL, y Madhurya, AMOR TIERNO.
+
+Sampradaya quiere decir tradición, y a este movimiento bhaktista corresponde la escuela Ramaita, fundada por Ramananda, sobre la base de la exégesis de Ramanunga el filósofo. Ramananda fundó su secta en Benarés, a principios del siglo XV, A. C.
+
+⟦El sabio Madhva fue un reformador Vishnuvita, ad-⟧ verso al monismo "advaita" de Sankara; su escuela se llama Dvaita o dualismo y sus adeptos viven en monasterios como simples filósofos; sostienen la tesis de que Dios y las almas poseen existencia eterna, pero distinta, a diferencia del vedantismo advaita o clásico, que sostiene la identidad de atman y de Brahma. Este principio lo simbolizan con dos rayas perpendiculares sobre un arco de círculo que usan en la frente, pintado con ⟦ carbón.⟧
+
+⟦Vallabacharya es un reformador vishnuvita del si-⟧ glo XV, el que probablemente acabó de definir la teoría de las sucesivas reencarnaciones de Vishnu. De este ⟦reformador cuenta la fábula que a los siete años había⟧ dominado los cuatro Vedas, los seis sistemas de filosofía y las dieciocho puranas. Vallbacharya adoraba a
+
+[p. 82]
+
+Vishnu en la advocación de Krishna y no era dado al ascetismo, sino a la devoción y culto de los ídolos; su secta ha degenerado considerablemente, haciéndose sensual y disoluta.
+
+Los textos de todo el movimiento bhaktista se llaman ⟦también "Bhagavatas".⟧
+
+Chaitanya o Claitanya constituyó una secta a fines del siglo XV en Bengala, sosteniendo que la devoción es más eficaz que el conocimiento y que la virtud o la caridad.
+
+⟦Eclecticismo de Kabir.⟧
+
+Kabir nació, en el siglo XV, en Benarés, y en sus célebres himnos muestrase enemigo de las disputas dogmáticas y de las prácticas que conducen a la idolatría; se dirige a la divinidad en términos de un noble eclecticismo que pretende conciliar todas las religiones, particularmente las brahmánicas con la musulmana. Un sucesor de Kabir, fundado en sus doctrinas, organizó una iglesia en el Penyab con el nombre de secta Sikh. Desde el principio, el jefe de esta secta ejerció gran influencia ⟦ religiosa y política sobre los fieles, a tal punto que el⟧ décimo guru, o jefe del culto, organizó la orden militarmente y fundó un estado guerrero, que hasta la fecha subsiste.
+
+Sectas modernas.
+
+En la actualidad, lo mismo que en todas las épocas
+
+82 ⟦ the⟧
+
+[p. 83]
+
+anteriores, las sectas del brahmanismo continúan multi_ plicándose y subdiviéndose. Calcúlase que suman varios cientos las distintas ramas y sus subdivisiones, y enumerarlas siquiera ocuparía un gran espacio; por eso, entre toda la variedad de tal frorecimiento religioso, elegiremos solamente dos de las sectas modernas, para apuntar las fuentes donde pueden ser estudiadas. En la elección susodicha nos guía la importancia de la personalidad de los fundadores, todos ellos hombres eminentes y versados en la cultura europea contemporánea.
+
+La "Samaj Brahmánica" o Iglesia Brahmánica.
+
+Se conoce con el nombre de Samaj Brahma o Brahma Samaj un movimiento unitario, de reforma religiosa, que parte de principios del siglo XIX. El iniciador del movimiento es el ilustre filósofo Ramohum Roy. Lo que Kabir pretendió hacer con el islamismo en el siglo XV, Ramohum Roy lo intentó con el cristianismo; es decir, que Roy, conservándose brahmanista confesó y proclamó, sin embargo, la divinidad de Jesús y la excelencia de su mensaje. Y conforme con la pureza de la moral cristiana, se puso a reformar las costumbres y aun la liturgia del Indostán. Las declaraciones de Ramohum acerca de su concepto de la divinidad casi coinciden con las creencias cristianas. Cree en la intervención de la Providencia en los sucesos humanos y predica un teísmo prudente y puro.
+
+La secta de Ramohum Roy no se ha extendido mu-
+
+[p. 84]
+
+cho, por lo mismo que requiere cultura ecléctica de parte de los fieles y porque está libre de idolatrías y de ritos; sin embargo, cuenta con más de un millón de adeptos, y ha seguido sostenida por maestros ilustres, tales como Devendra Nath Tagore, de la familia del célebre poeta, y como Keshab Sen. A la secta pertenecen las clases más ilustradas de la India, y sus discípulos se encuentran en Bengala, Bombay, Madras y Lahore.
+
+⟦Ramakrishna Paramahamsa.⟧
+
+Tal es el nombre de un beato, lleno de fervor religio.
+
+so, que pasó toda su vida en un templo cerca de Calcuta predicando y conversando, pero sin dejar nada escrito.
+
+Su dulzura y su elocuencia, de inspirado sincero, atrajeron a su alrededor un gran número de discípulos que se han encargado de propagar sus enseñanzas. Ramakrisna se decía unas veces brahman, otras musulmán, otras veces cristiano. Su alma adoraba a Dios en la forma de todos los conceptos y de todas las iglesias. Mucho de su estado de ánimo se encuentra en toda la mistica ⟦moderna, que siente un afán ilimitado por acercarse a to divi-⟧
+
+no y goza con todas las expresiones religiosas. El eclecticismo de Rama Krishna era un eclecticismo emotivo; no discutía a Dios, sino que lo sentía viviente en el precepto de todas las doctrinas. Uno de sus más ilustres discípulos, Vivekananda, se ha encargado de llevar este espíritu, de universalismo religioso, a todos los países occidentales. Vivekananda vivió varios años en Europa
+
+[p. 85]
+
+y en los Estados Unidos, y dejó escritos muchos libros de propaganda clara e ilustrada, libros que a menudo citamos y que tendrán que citar por mucho tiempo todos los que se ocupan de cuestiones religiosas (I).
+
+### 3.—Las Sectas Desviadas.—La lujuria y la mística
+
+Ya sea por falta de una iglesia oficialmente reconocida que defina el dogma, o por excesiva dedicación a los asuntos místicos, la India ha vivido constantemente poseída por un fervor de manifestaciones múltiples, que se parece a los primeros siglos del cristianismo en Bizancio y Alejandría.
+
+Al lado de los cultos públicos y de las doctrinas ele-
+
+(1) De intento he dejado para una nota final, la mención de una secta que por su carácter, no merece figurar entre las verdaderas sectas indostánicas, ni en las páginas de ningún libro serio. Pero el hecho de que sus libros inunden el mercado, me obliga a dedicar unas palabras de advertencia para los lectores incultos. Me refiero a la llamada Sociedad Ieosófica fundada por la señora Blavatsky en los Estados Unidos. Para la historia detallada de ja secta, véase, por ejemplo, el libro de Farquhar: Hinduism, y otros muchos que es ocioso citar. En realidad, para formarse idea de la secta, basta leer alguno de sus libros; jamás se había visto igual cinismo de charlatanería y de ignorancia como el que se muestra en cada una de las páginas de ese /sis sin Velo, The Secret Doctrine, etc., etc, gruesos volúmenes de la pluma de la Blavatsky. Y nada digo de la insulsa lectura de sus sucesores norteamericanos, porque no tiene ni siquiera el atractivo de conseja atrevida, que se encuentra en la fundadora. Para informar al lector, baste decir que la Blavatsky aseguraba estar en comunicación con sabios misteriosos llamados: Mahatmas, capaces de destruir el mundo, y de volverlo a construir a su antojo, y que por una merced especial le mandaban a ella revelaciones escritas. Como los escritos de la Blavatsky alcanzaran renombre, hubo quien se dedicara a estudiarlos junto con los milagros que aseguraba realizar, y el resultado fue que quedaran plenamente
+
+[p. 86]
+
+vadas persisten prácticas obscuras y preceptos turbios que no tienen que ver directamente con las cuestiones trascendentes, sino con las costumbres y la miseria de las pasiones humanas. Ya hemos hablado de las ceremonias orgiásticas que se mencionan en los libros Tantras, y sólo nos queda por decir que los ritos voluptuosos distan mucho de estar muertos entre las sectas menudas, pero populares de la península indica. Los gossains o sacerdotes desempeñan en estos ritos un papel semejante al que han representado no pocos frailes en las épocas de corrupción religiosa entre nosotros. Dichos abusos, vistos desde el punto de vista social, constituyen una plaga, relativamente fácil de etirpar, mediante la acción enérgica de los superiores y el ejemplo de una vida elevada por parte de los hombres y mujeres virtuosos.—Pero lo que debe interesarnos a nosotros, en este estudio, es la persistencia de la desviación de lo místico hacia lo voluptuoso.—¿ Es ésta, acaso, una tendencia fatal en el misticismo si no se la domina rigurosamente? ¿ Hay en cada místico un sensual, según lo han comprobados, no sólo las supercherías de prestidigitadora de la señora Blavatsky, sino sus plagios a obras mediocres de magia popular; magia ⟦ que ni siquiera aprendió en la India misma, sino en libros y transcrip-⟧ ciones europeas. En fin, todo el movimiento teosófico hubiera quedado estancado al nacer si no hubiese sido porque la atrevida aventurera logró engañar a una alma noble y poderosa que tomó con calor proselitario sus doctrinas. Me refiero a la ilustre Annie Besant, a la que hay que absolver por libros tan inteligentes como Esoteric Christianity, aunque todos sus escritos, sin exceptuar ni aun éste, adolezcan del defecto blavatskiano, de no señalar la autoridad en que se apoyan las citas, excusándose de hacerlo con pretexto de que tales conocimientos son esotéricos, y sólo se obtienen después de larga preparación especial, etc., etc.
+
+[p. 87]
+
+afirmado algunos psicólogos, estilo siglo XIX, que no saben una palabra de mística? ¿ Qué quieren decir entonces las apasionadas orgías de los hindús, en cuya fiebre se llega hasta los repugnantes excesos del incesto? ¿Qué quiere decir ese retorno a la libre animalidad, pero con pasiones tan sutilizadas y vehemen..
+
+tes, que pretenden llevar un malsano júbilo hasta las limpias esferas donde concebimos lo divino?
+
+Pues es muy frecuente que las sociedades y las épocas dominadas por el problema religioso vean aparecer este morbo terrible del alma, que en la India es constante entre ciertas gentes. Recordemos, por ejemplo, los extraños y fascinantes misterios de la decadencia bizantina, cuando se reproducía la escena de la crucifixión, azotando a un esclavo bello y desnudo, que era entregado, todo sangriento, a los abrazos febriles de las mujeres. Seguía después una orgía en la que cada cual saciaba su apetito, sin freno ni reparo. Así que estaban hartos y, por decirlo así, desentrañados de sus potencias físicas, abríase la bóveda de la gran sala del festín y, al aparecer el cielo lleno de estrellas, todos aclamaban al "pleroma del universo" y se creían ⟦poseídos de éxtasis sagrado, cuando, en realidad, hallábanse⟧
+
+envilecidos y empozoñados en lo más intimo del alma.
+
+Así deben ser las orgías indostánicas, exacerbadas todavía más por la influencia de la literatura erótico religiosa, que representa Krishna ensayando deleites con ⟦ la segunda parte de su naturaleza, representada por una⟧ decena de favoritas. Así han sido en nuestro mundo ⟦87⟧ .
+
+[p. 88]
+
+cristiano esas ráfagas de lujuria que no han respetado ni los conventos, que más bien se han ensañado en los conventos; épocas en que con todo descaro, y aun con fundamento en teorías dudosas, hanse entregado frailes y mojas a la licencia y al vicio. Tristes enfermedades en las que el espiritu se contagia del cuerpo, y que sirven a las gentes malignas para regocijarse de los errores de almas esforzadas y para suponer inclinación turbia en los transportes más elevados del ánimo, como si ellas no estuviesen también sujetas a todas las tentaciones bajas, aunque son incapaces de comprender lo alto (I).
+
+A mi juicio, la mejor manera de desligar para siempre 1o bajo de nuestra naturaleza de lo alto del espíritu, la manera eficaz para separar y divorciar la sensación voluptuosa del deleite místico, es definir bien la naturaleza de lo místico: es concebir lo místico, tan trascendente, tan superior y diverso de lo humano, que ponerse a tratar en cualquiera forma con lo divino, implique el abandono radical de todas las emociones que tienen su raíz en los apetitos de nuestro organismo. El abuso de la palabra amor ha hecho mucho daño a la mística en todo el mundo. Los libros eróticos, así se llamen el ⟦ (I) Conocida es en nuestra historia religiosa la berejía, llamada el⟧ molinosismo-atribuída acaso injustamente al ilustre Miguel de Molinos, víctimas de la infame Inquisición—, según la cual era indiferente el acto carnal, y podían por lo mismo, practicarlo libremente los clérigos.
+
+En La Historia del Perú, de mi ilustre y admirado amigo Don José de la Riva Agüero, se mencionan casos de lo que, él también, llama molinosismo, en los conventos coloniales de Lima y el Ecuador, y no hay país católico, de aquella época, que no registre aberraciones seme-⟦jantes.⟧ 15
+
+[p. 89]
+
+Cantar de los Cantares, anexo de la Biblia sagrada, o el Gita-Govinda, la historia amorosa de Krishna, están muy bien en la literatura, en las obras de deleite y de fantasía.—Pero las interpretaciones religiosas que se hacen de estos libros—-toda la escuela mística que de ellos procede, todas esas alegorías del Amado y de la Amada y del abrazo del criador con la criatura, que tanto se repiten en nuestra mística española-, no pueden ser sino •desagradables, cuando la conciencia está despejada, y peligrosas cuando la pasión turbia asalta al místico. Lo mismo pasa en la India, dentro del rito Vishnu, dentro del rito Siva, dentro de todos los ritos populares, tan sólo por el absurdo de concebir a Dios como Krishna y a Krishna como hombre necesitado de mujeres. Cuando el concepto de la divinidad se envilece de este modo, es natural que también las prácticas religiosas se cotrompan. El budismo, que antes de entrar a la vida religiosa hace renuncia plena de todos los goces humanos, libra a las almas de todas estas confusiones, y así se explica que no hallemos una sola emoción impura en toda la bella literatura de los conventos budistas-—los Salmos de las Hermanas, los Salmos de los Hermanos, etcétera—; porque Buda, en su carácter místico elevado, no usaba el amor de la hembra y el macho ni como simil de sus concepciones religiosas.
+
+Las claras palabras del Evangelio son también de una limpieza ejemplar; verdadero mensaje divino que no necesita de lo que los hombres llamamos amor para hacernos entender la naturaleza sublime de la vida en
+
+[p. 90]
+
+el más allá. No obstante que la religión de Cristo es esencialmente emotiva, y mucho más emotiva que la de Buda, no hay en los Evangelios una sola frase que empañe el puro concepto de la relación inmaterial de las almas, y cuando en ellos se usa de la alegoría, y se trata de representar lo divino por medio de lo humano, Cristo recurre a ese lazo, el único noble y desinteresado entre los hombres, al amor del padre, dulce y vigilante, para con el hijo; amor que la serena edad madura va desarrollando en nosotros para todos los seres y para todas las criaturas:-San Pablo, con su elogio de la castidad y su serie de visiones sublimes del misterio, supo interpretar debidamente el espiritu cristiano—. Los padres bizantinos, que desarrollaron el culto de María, también supieron elevar la dignidad de la segunda naturaleza del hombre haciendo de la Madre Inmaculada un símbolo de amor ardiente y puro: la segunda Eva, que, en vez de prestar oído a la serpiente, la aplasta y se eleva milagrosa, clara como una "fuente de gracia", luminosa como "estrella de la mañana".
+
+Todo esto tan sublimemente hermoso lo han entendido lien entre nosotros los más preclaros ingenios; pero el elemento antropomórfico judaico, que se ha introducido en nuestra religión, por el afán de hacer pasar como revelación divina todo el contenido del Viejo Testamento, ha sido responsable de que se propaguen conceptos erótico metafísicos que afean la mitad de nuestra mística española. Lo diré claramente, aun cuando choque con la tradición aceptada: me refiero a San
+
+[p. 91]
+
+Juan de la Cruz y a León Hebreo. No conozco nada más morboso entre las cosas altas del pensamiento que los transportes febriles del santo y los similes sucios del Hebreo. Creo también que cuando don Marcelino Menéndez y Pelayo—-hombre, por otra parte, eminente y genial—declara, si mal no recuerdo, en su discurso de entrada a la Academia, que la mística española se distingue porque ha realizado "el abrazo de la criatura con el criador", él, sin proponérselo, hace una injuria a la mística española, que si no tuviera en sus páginas más que deliquios y abrazos, valdría, poco más o menos, lo que una colección de Tantras indostánicos—. No: por fortuna, la mística española cuenta con el genio verdadero de fray Luis, que iba a la divinidad por el camino directo y limpio de la contemplación de lo bello en la naturaleza: su pensamiento hallaba siempre el rastro de terror dulce y sublime que indica la ruta de Dios.—Santa Teresa fue muy humana, y solía hablar de deliquios; pero tales cosas, en ella, son símiles; de aquí que a veces parezca fría; pero justamente por oso era capaz de elevarse, y penetraba luego a esas regiones adonde sólo se tiene cabida después de una transfiguración de nuestra naturaleza terrestre en otra que ya sólo es ritmo y luz.
+
+⟦El misticismo germárico, desde Kempis y Tauler, pa-⟧ sando por Ruisbroek y Jacob Boehme y llegando hasta ⟦ el Wagner del Parsifal—sin exceptuar el Océano im-⟧ ponente, con serenidades de cumbre, de la música de Beethoven—, también ha interpretado limpia y elocuen-
+
+[p. 92]
+
+temente el problema divino. No debe haber, pues, duda de que todo lo que se aparta de la gozosa y libre, pero inmaculada espiritualidad, colinda con el error y se presta a la corrupción.
+
+Practiquese en buena hora el "molinosismo" ', si se desea experimentar la esencia de amargura que hay en todas las relaciones; practiquenio los atormentados, porque quizás liberta más pronto que la continencia forzada; pero todo esto es pasión y deleite humano, que está a mil leguas de las cosas divinas. Y lo condenable y repugnante, lo verdaderamente diabólico, es corromper los afectos y empañar, con la palpitación de la carne, el reflejo de la luz divina.
+
+### ARTE INDOSTÁNICO La Arquitectura.—Estilos Hindú y Dravídico.
+
+No nos es posible entrar en detalles, ni siquiera ofre. cer un esbozo del asunto. Para el estudio del arte indostánico-por lo menos de la influencia que este arte ha tenido en los otros países de Oriente—-remitimos al lector al brillante libro de Okakura, ya citado en la Introducción, y en las presentes líneas sólo apuntaremos algunas observaciones sobre arquitectura.
+
+De las más antiguas ciudades y monumentos no quedan casi ni ruinas. Lo más antiguo que se conoce data . de la época budista, como 500 años antes de nuestra
+
+[p. 93]
+
+Era. Sin embargo, las ciudades históricas de esta época han desaparecido totalmente, si se exceptúa Benarés, la más antigua y la más importante de las ciudades religiosas del mundo.
+
+No hay espectáculo comparable al que debe presentar Benarés, con sus miles de torres y cúpulas elevándose sobre ambas riberas del Ganges, y hacia el cielo luminoso de los trópicos, como diseños de complicadas ideas piadosas.
+
+Desde el punto de vista arquitectónico, Benarés constituye un museo incomparable, que todavía los criticos de Europa no han aprovechado debidamente, tal vez por el temor que existe, 'entre los más autorizados, de abandonar la fácil rutina de la belleza griega, melodiosa y resplandeciente, pero ya más o menos agotada en sus interpretaciones.
+
+Sin embargo, Benarés no conserva gran casa de lo muy antiguo, a causa de que varias veces fue devastada por conquistadores de todas las estirpes, desde las tribus bárbaras de hunos y de escitas hasta los iconoclastas musulmanes. Las distintas invasiones arrasaron de tal modo la India, que no se conservaría casi nada de la ⟦ antiguo si no fuese por la costumbre indostánica, rara⟧ y misteriosa, de aprovechar las grutas o cavernas naturales para erigir en ellas templos, estatuas y altares.
+
+En las cuevas sagradas se encuentran ejemplares antiquísimos de estatuas esculpidas en piedra, y decoraciones de un profuso entrelazamiento de motivos de gran lujo simbólico.
+
+[p. 94]
+
+Entre las construcciones al aire libre se citan como muy antiguas, y todavía en buen estado, la pagoda budista de Budh-Gaya y los claustros hindús de Bhuvanes-
+
+⟦vara, en Orissa.⟧
+
+La forma del templo hindú se deriva del marco de piedra que protege y da realce a las imágenes: consta al principio de dos columnas y un arco, y se desarrolla después en la capilla que sirve de habitación al ídolo.
+
+Las distintas formas que adopta el techo de la capilla van definiendo los diversos estilos.
+
+El templo hindú, como el jain, se compone de una capilla, en forma de cubo, rematada por una torre. La torre corresponde al sitio donde se asienta el ídolo, y a la entrada se eleva, comúnmente, un pórtico.
+
+El estilo del norte o indio-ario se distingue por la cúpula de aristas curvilineas; tal circunstancia y el uso de las arcos, da a estos monumentos cierto parentesco con el arte románico, aunque el estilo combo de la pagoda recuerda demasiado la lasitud de la palmera, la opulencia de la vida tropical. Las decoraciones de estos edificios son de uma riqueza que estamos acostumbrados a calificar de bárbara, acaso tan sólo porque ⟦ nuestras mentes no son bastante finas para percibir las⟧
+
+armonías complejas.
+
+En el estilo del sur o estilo dravídico, el techo es piramidal, y los caracteres todos se apartan por completo de las maneras de Europa. Hay monumentos que por lo vastos parecen ciudades, y sin embargo, están todos hechos de figuras labradas y estatuas, dando idea de un 94 ,
+
+[p. 95]
+
+magno ensueño realizado en piedra. Parecen la redención de la piedra, la piedra hecha concepto y símbolo.
+
+No hay en los monumentos dravídicos ninguna idea de utilidad; no se concibe que sirvan de albergue, ni siquiera a los ídolos, porque los ídolos están fuera, como sostén y adorno de la pirámide profusamente labrada, llena de horadaciones fantásticas y de remates suntuosos: son esplendor puro y religioso alarde.
+
+La gran impresión de cosa tenue y eterna que dan estas obras, no se encuentra en ningún otro arte. La pirámide egipcia es maciza y obtusa; la pirámide tolteca es imponente por sus serenidades de montaña, pero no habla; la pirámide dravidia canta. Hállase llena de luz y de alma; es el alma misma compleja y aérea, llena de multitudes, y enraizada y ligada con toda cosa, pero hecha para ascender con melodías que se difunden hacia lo eterno.
+
+Los templos dravídicos se elevan en honor de Vishnu o de Siva o de Buda, pero su carácter común es el estilo como de poema melodioso y alto.
+
+El estilo Chalukya es una variedad del dravídico en el cual la pirámide recorta sus costados en forma de estrella. Se le encuentra en Mysore, y en general, el dravídico predomina en el sur, y en Ceylán y Siam, países completamente budistas.
+
+Las esculturas monumentales de los jainistas, carecen de gusto porque representan un desnudo afectado; no el desnudo espontáneo y glorioso de los griegos, sino el desnudo premeditado, de gentes que ya habían tenido
+
+[p. 96]
+
+preocupaciones a este respecto, y que sólo por una convicción religiosa nueva se decidían a presentarse sin ropas, con alarde de quien defiende una tesis. (Véase el capítulo dedicado a la secta jainista.)
+
+En cambio, son imponentes y hermosos los Budas colosales de pórfido y de granito que se encuentran en el Nepal y en la China budista. En ellos, la piedra no sirve para expresar el concepto, sino que el concepto enno blece a la piedra, la idealiza y la levanta, desde su inercia nativa, hasta el esplendor de un rostro de Buda; un rostro que aspira la sensualidad del paisaje y la purifica, y lo llena todo de majestad luminosa.
+
+### LA IDEA DE LA CASTA
+
+El reconocimiento de que existen entre los hombres diferencias de grado y de calidad ha sido común a todos los pueblos, pero en ninguna parte se han ⟦reglamentado esas diferencias con la precisión y rigor que se⟧ observa en la India. La palabra casta, aplicada a la organización social de los hindúes, es de origen castellano, habiendo sido los portugueses los primeros europeos que la emplearon. La casta indostánica corresponde a la aristocracia griega o europea, pero mientras en Grecia y Europa ha sido la guerra la modeladora suprema de las jerarquías sociales, en la India, aparte de la guerra y por encima de la guerra, la sociedad ha sido organi
+
+[p. 97]
+
+zada conforme a las ideas y las conveniencias de la religión. Desde la más remota antigüedad indostánica, se reconocen dos castas privilegiadas: en primer lugar, la de los brahmanes o sacerdotes; en segundo lugar, la de los krashytas o guerreros. Después venían los operarios, escribas, labradores, etc. En la India, las barreras de clase han sido mucho más rigurosas que entre los europeos. Las aristocracias guerreras están sujetas a los azares de la guerra misma, pero la aristocracia brahmánica fundada en el oficio sacerdotal, heredado de padres a hijos, no se renovaba sino por la muerte. Los extraños no podían aspirar a formar parte de ella. Los krashytas se han renovado, con más o menos frecuencia, según el vaivén de las dinastías y las conquistas, pero los brahmines, indiferentes a las vicisitudes de la historia, se han mantenido aparte, durante siglos y millares de años, y hasta la fecha presumen algunos de una descendencia pura y continua desde la mas remota antigüedad. El rigor de los preceptos que norman las relaciones de cada clase llega a extremos ridículos. Por ejemplo, un brahmín no puede probar alimento que haya sido tocado por un inferior, y a veces tiene que hacerse él mismo sus propios alimentos. Una infinidad de prejuicios necios podrían citarse. Los autores modernos atribuyen estos hábitos a la necesidad en que se vieron los primitivos arios: de mantenerse libres de alianzas con las razas sometidas, especialmente de alianzas matrimoniales. Pero la verdad es que la idea de aristocracia y de casta coresponde a una realidad del espíritu. Unos hombres
+
+[p. 98]
+
+poseen más penetración y más elevación que otros. La opinión de un solo hombre suele valer más que la de muchos millones de sus semejantes. Unos cuantos hombres crean y formulan todas las ideas de que vivimos; la obra del espíritu es esencialmente individualista. Los derechos políticos deben ser iguales y los bienes terrestres deben ser más o menos comunes, porque lo mismo los aprovecha un zafio que un refinado. Cualquiera puede llegar a ser refinado en el gusto de lo físico. Pero los tesoros espirituales están cerrados con doble puerta para todos los que no se resuelvan a emprender la inicia. ción necesaria. La idea de crear y purificar, y en seguida conservar una casta, es tan fundamental en todas las sociedades, que constantemente la vemos reaparecer, aun en las más exigentes repúblicas.
+
+Esto no quiere decir que las sociedades modernas hayan hecho mal destruyendo las viejas aristocracias feudales. Estas aristocracias, fundadas en injusticias y prejuicios, tenían que desaparecer. En lo que se ha hecho mal es en substituirlas con las aristocracias contemporáneas del dinero, más ruines aún que sus antecesoras e igualmente tiránicas. Cuando se logre acabar con esta ⟦ nueva casta opresora, será conveniente recondar que la⟧ idea de aristocracia necesita fundarse en nuevos elementos. Hasta hoy se han probado tres clases de aristocracia: la sacerdotal, que se funda en la hipótesis de que unos cuantos hombres, organizados en casta, poseen el secreto de las verdades divinas y deben, por lo mismo, . reglamentar la conducta de los demas y hacerse servir y
+
+[p. 99]
+
+obodecer. Esta suerte de aristocracia, por más que en determinadas épocas haya servido para conservar ciertas prácticas de moral y de cultura, es, sin embargo, condenable, porque acaba por ser un estorbo para el progreso y una carga para los pueblos. La guerrera que se funda en la violencia, y a veces ha servido para organizar Estados, pero acaba siempre por constituir despotismos que hacen intolerable la vida colectiva. Como probablemente el estado de guerra entre los hombres ha de ser eterno—verdadera maldición inherente a la vida terrestre-, muy difícil será que nos libremos de las aristocracias guerreras, que constantemente están formándose y disgregándose. Finalmente, la aristocracia burguesa contemporánea se ha desarrollado hipócritamente, al amparo de un vacio de los preceptos liberales; vacio que consistió en no castigar como un delito el acaparamiento de fortunas, con menoscabo de las necesidades ajenas. No parece probable que sobreviva a los tiempos de lucha que corren. Cuando ella desaparezca, ¿ vendrá el aplanamiento democrático que intenta hacer iguales a todos los hombres, como si fuesen sociedades de hormigas? Seguramente que no. Nuevos caracteres servirán de base a distinciones nuevas, y acaso veremos la casta de que ya tanto se ha hablado, la casta de los intelectuales, gobernando y dominando sobre todas las demás. Pero el poderio de esta casta será breve y vano, si quiere gobernar el mundo conforme a una ciencia limitada y empírica. Una casta así, instruída e inteligente, pero sin ideal superior, nos llevaría a hacer del mundo una gran
+
+[p. 100]
+
+China, comunista, y gobernada por ilustrados mandarines, pero a la postre corrompida, decadente y famé.
+
+lica, como la China actual.
+
+¿ Cuál es, pues, esa aristocracia que no corrompe, sino que eleva, que no oprime, sino que salva y orienta a los pueblos? La respuesta es muy fácil: esa aristocracia benéfica es la de los hombres y mujeres que viven para el espíritu y sacrifican los goces de la carne a los goces del espíritu. Puede un hombre derlumbrar a la sociedad y ganarse todos los honores y todo el poder; pero, observadlo: si aprovecha su triunfo para enriquecerse como el burgués, para entregarse a los placeres vulgares de la • mesa y del traje, del amor y de la vanidad, ese hombre no es un aristócrata: es un advenedizo y un plebeyo. Porque es propio de burgueses y de plebeyos el afán y la preocupación de las fortunas terrestres. Tan vulgar es el rico preocupado por el buen parecer y la sensualidad, como el villano que lo envidia. La aristocracia consiste en saber despreciar lo despreciable y estimar lo estimable. Aristocracia es decoro y elevación del alma. Y 'en nada se revela esta superior calidad de una manera tan patente, como en la suerte de goces que un hombre ⟦ ama. A la hora cruel de la urgente necesidad primitiva,⟧ todos somos casi iguales, pero en la forma de gozar, y en la forma de ambicionar todos somos distintos. Si am. bicionamos dinero y poder, somos vulgares, porque eso mismo ambiciona la inmensa mayoría del género ⟦humano, y nuestro sueño de grandeza es igual al del úl-⟧
+
+timo lacayo. Si ambicionamos ser justos, si ambiciona-
+
+[p. 101]
+
+mos llevar a la práctica un ideal, si gozamos entrañablemente con la contemplación de la naturaleza, con el arte sublime, entonces seremos aristócratas, ya sea que en el mundo dominemos como señores o trabajemos como labriegos.
+
+Para quien no es, o no se empeña en hacerse, de estos elegidos, hállanse cerradas las puertas de la verdad y las fuentes de la eterna dicha. Tal es el fondo de enseñanza indudable que se encierra en la doctrina de la casta indostánica, en la doctrina de la gracia cristiana, en todas las doctrinas de depuración y selección de esta cosa turbia que es nuestra conciencia. El siervo, que al caer de la tarde, detiene el arado y participa de la unción de un crepúsculo en campo abierto, es más aristócrata que el dueño de la finca que pasa y no detiene su automóvil, porque lo espera rica cena en la ciudad.
+
+### IV.—Los seis sistemas de filosofía. Upanischadas
+
+## UPANISCHADAS
+
+⟦• LOS LIBROS UPANISHADS O UPANISCHADAS⟧
+
+De toda la literatura indostánica, lo más importante para la filosofía es la numerosa colección de textos conocidos con el nombre de Upanischadas o Upanishads. Los Upanishads son tratados teológicos y filosóficos fundados en la doctrina de los himnos Vedas. Upanishad quiere decir: "escuchar sentado, en sesión o asam-
+
+[p. 102]
+
+blea, la palabra del maestro." Tal es la significación etimológica, pero Max Müller explica que el sentido posterior de la palabra es el de doctrina secreta derivada de los Vedas. Según Deussen, Upanishad quiere decir: fin del Veda.
+
+El título Upanishad se aplica también a todo tratado filosófico relacionado con los Vedas y dotado de antigüedad suficiente. Por extensión se ha solido llamar Upanishad aun a los pasajes filosóficos de los mismos cantos védicos, particularmente aquellos en que hay diálogo entre discípulo y maestro.
+
+Aunque el texto de los Upanishads no es tan antiguo como el de los himnos o el de los libros brahmanes, se considera que las principales doctrinas upanishádicas se remontan a un período que el mismo Müller fija entre el año 800 y el 1000 antes de la Era cristiana. La vaguedad de todas estas fechas se explica, entre otras causas, porque la redacción de textos es en la India costumbre relativamente moderna, no muy anterior a la época budista. Anteriormente, y aun después, las principales obras se han transmitido por tradición oral. Todavía los "panditis" contemporáneos poseen una ⟦extraordinaria capacidad para retener de memoria largos y⟧ numerosos textos.
+
+Durante muchos siglos, los Upanishads, junto con los himnos védicos y los libros brahmanes, y en general, con toda la literatura de la época, eran recitados y comentados en los templos y en las discusiones de los filósofos, clase esta última que siempre ha abundado en el
+
+[p. 103]
+
+Indostán. El primer ejercicio que desde entonces se imponía al estudiante o al novicio, era el aprendizaje de memoria de todas las principales obras entonces cono-⟦cidas.⟧
+
+Por el siglo I antes de la Era cristiana, un virtuoso e ilustre sabio, el casi místico Badarayana, deseando reavivar la fe en las antiguas doctrinas, y a la vez purificarlas de la corrupción en que habían caído entre el sinnúmero de sectas, dedicóse a redactar la primera colección de Upanishads, la cual hizo publicar acompañándola de sus propios comentarios.
+
+Los Upanishads recopilados por Badarayana y muchos siglos después por Sankara, son los que pudieran llamarse clásicos y los que contienen la doctrina llamada Vedanta, la más ilustre de las filosofías indostánicas.
+
+Cree Deussen que Badarayana se sirvió de antiguas colecciones para formar el primer epítome conocido de la doctrina de los Upanishads, en el libro intitulado Suttas o Sentencias de Brahma, que ha sido la base de la escuela Vedanta posterior. Badarayana funda sus doctrinas en la opinión concorde de los Upanishads; afirma expresamente que todos los Upanishads merecen fe, pero no da la lista de los canónicos. Esta distinción la hace más tarde Samkara. A Badarayana se le conoce también con el nombre de Vyasa, y su obra es poco consultada por obscura y confusa, habiendo quedado en realidad reemplazada por la de Sankara.
+
+El gran comentario de Sankara, (siglo IX de nuestra Era), se presenta como una continuación de los
+
+[p. 104]
+
+⟦Suttas de Brahma, de Badarayana. Sankara escribio⟧ muchas obras, pero principalmente comentarios sobre ⟦los Upanishads, Brihadarayaka, Khandogya, Taitiniya,⟧ ⟦Atareya, Svetasvatara, Isa, Kena, Katha, Prana, Mun-⟧ daka y Mandukya. El sistema genial que alrededor de estos textos construye, es el mas notable de cuantos se han escrito en la India y acaso en el mundo.
+
+Probablemente fue el persa el primer pueblo extranjero que conoció los Upanishads, pues consta que en el siglo XVI el príncipe Dara Sukhob patrocinó a los panditis que prepararon la versión persa de los famosos libros. La colección de Dara Sukhob contiene cincuenta Upanishads-casi podríamos decir diálogos—, fundados todos en pasajes de los distintos Vedas.
+
+La traducción persa fue conocida más tarde, en Europa, en la versión latina de Anquetil Duperron, el sabio descubridor del Zend-Avesta, y aunque muy imperfecta, ella fue durante mucho tiempo la única, siendo fama que inspiró a Schopenhauer todos sus escritos sobre filosofía indostánica.
+
+Ramohum Roy, el filósofo y reformador religioso hindú, de principios del siglo XIX, también dedicó gran parte de su vida a la traducción al hindú moderno y al inglés de un gran número de Upanishads. Otros filólogos modernos han ido completando la obra, y por fin en la actualidad se estima en cerca de doscientos cincuenta el número de Upanishads conocidos. El estudio más complețo que sobre ellos se ha publicado es el del profesor alemán Deussen. En su colección Sa
+
+[p. 105]
+
+cred Books of the East, Max Müller da la versión inglesa, de once Upanishads por lo memos, que él considera clásicos; a saber :
+
+Chandogya, derivado del Sama Veda y atribuído a ⟦Badarayana, Talavakara o Kena, Kaushitaki, Taitire-⟧ ⟦ya, Vagusaneyi o Isa, Katha, Mundaka, Brhihadaran-⟧ ⟦kaya, Svetasvatara, Prasna, etc.⟧
+
+## Los Upanishads (a).
+
+La palabra Upanishads llegó a representar un estilo literario, más que la forma propia de un sistema determinado:; sin duda por eso existe tal cantidad heterogénea de tratados con ese nombre. El profesor Deussen establece una clasificación por épocas y por materias en la forma siguiente: los antiguos Upanishads en prosa, ⟦a saber: Brhihadaranyaka y Khandogya; Taittiriya;⟧ ⟦Aitareya; Kaushitaki; Kena. Observa el mismo autor⟧ que estos textos comienzan a emanciparse del ritual que llena las páginas de samhitas y brahmanes. Su estilo imita todavía la antigua prosa de los brahmanes, "algo pesada y extravagante, aunque no exenta de gracia natural." Después de este grupo, vienen los Upanishads ⟦métricos: Kathaka, Isa, Svetasvatara, Mundaka, Ma-⟧ hanarayana, y por último, los Upanishads posteriores, ⟦redactados otra vez en prosa: Prasna, Maitrayanika.⟧ ⟦ Mandukya, que por su estilo, revelan menor antigüedad.⟧ Estos tres grupos primitivos están fundados en las tres Vedas originales, es decir, en el Rig Veda, el Yajur
+
+[p. 106]
+
+Veda y el Sama Veda. Existe un cuarto grupo de Upa-⟦nishads fundados en el Atharva Veda.⟧
+
+⟦Los Upanishads del Atharva Veda.—Tratados teoló-⟧ gicos muy posteriores que retienen la forma de los Upanishads, a causa de que es ella conveniente y ya consagrada-. Se ocupan en desarrollar viejas teorías o disertan sin salir de ellas, como los Upanishads Garbha, ⟦Pranagnihotra, Pinda, Atma, o bien son tratados des-⟧ tinados a la glorificación del Yoga: Bramavidya Kohu-⟦rika, Culica Nadabindu, Amritabindu, Dyanabindu,⟧ ⟦Tegobindu, Yoka-iksha Yogatattva, Hamsa; o bien⟧ pertenecen a la escuela Sanniesa de Sannya, como los ⟦Upanishads Brahma, Sanyasa, Aruneya, etc. Las Upa-⟧ nishads Yoga están en verso y los de la escuela Sannaya en prosa, con inserciones incidentales de verso.
+
+Existe todavía otra clase de Upanishads dedicados al ⟦culto de Siva (Atharvas ivas, Atharvas'ikha, Nilarudra⟧ ⟦Kalagnirudra (Kaivalya) y otros dedicados a Vishnu,⟧ ⟦Maha, Narayana, Atmabodha, Nrisimhatapanuya, Ka-⟧ matapanuya, y ensayos para interpretar todos estos tex. tos a la luz de la doctrina del atman). Generalmente están escritos en prosa y verso. Todos estos Upanishads ⟦ fueron aceptados por los principales teólogos de la es-⟧ ⟦cuela vedántica.⟧
+
+[^p115-1]: Ger
+
+[p. 107]
+
+### 6.—Idea de los Brahmanes y Upanishads
+
+Ya hemos visto que la literatura indostánica se desarrolla en tres períodos generales, perfectamente caracterizados en las series sucesivas de los libros que se conocen con las nombres de: 'Los Vedas o himnos
+
+poéticos primitivos"
+
+', Los Brahmanes o libros de liturgia y de práctica sacerdotal, y por último los Upanischads o libras de especulación filosófica.
+
+Los primeros ensayos de teología indostánica se encuentran en la prosa litúrgica de los Brahmanes. En ella los dioses de los Himnos comienzan a despersonalizarse, y las palabras y los ritos pierden la sencillez primitiva para hacerse simbólicos, e intensificar su sig-
+
+⟦nificado (1).⟧
+
+Entre la enorme masa de los libros Brahmanes, el profesor Oldenberg ha escogido el llamado Brahma de los Cien Senderos para darnos una idea del contenido de dichas obras. En este curiosísimo libro descubrimos, en germen, ciertas ideas que después se hacen ⟦ fundamentales en toda la especulación hindú: las no-⟧
+
+ciones de sujeto, de Atman y de Brahma (2).
+
+(.) No nos ocupamos en el presente libro de obras como Los
+
+Vedas, el Mahabharatta y el Ramayana por el valor casi únicamente literato que poseen, ya que tenemos que limitarnos a lo estrictamente fi.
+
+losófico. Naturalmente haremos una excepción en favor del Bagavad-
+
+Gita: el episodio filosófico del Mahabharatta.
+
+(2) El Brahma de los «Cien Senderos, › clasificado por Oldenberg como uno de los libros llamados "brahmanes" acaso por su mismo
+
+[p. 108]
+
+Atman es el sujeto en que se encuentran y funden todas las funciones del organismo y todas las tendencias de la voluntad. Los poderes externos, a semejanza del aliento humano, penetran el cuerpo en todas direcciones y con propósitos distintos; pero el atman como poder central, gobierna todas las distintas fuerzas.
+
+El mundo entero-según el mismo texto-está dominado por fuerzas análogas al aliento, fuerzas cuyo impetu vario ha producido el cosmos. Tal aliento sagrado gobierna y penetra todos los mundos y todas las conciencias; inspira a los sacerdotes y a los sabios, flota sobre el mundo impregnándolo todo; todo lo conoce y tado lo crea: se llama Brahma, o la Verdad, la Palabra Divina.
+
+Pragapati, observa Oldenberg, es una divinidad mitológica que desde los himnos del Rig-Veda comienza a adquirir supremacía sobre los otros dioses y acaba por corresponder al Dios creador, al Dios personad de la mayor parte de las religiones. En el Brahma de los "Cien Senderos",
+
+, Pragapati figura como el Señor de las criaturas. Pragapati imprime al Verbo su propia esencia; el verbo es su compañero inseparable. ⟦Pragapati es también espíritu creador; espíritu, que cierta⟧
+
+nombre, es en realidad más semejante a un Upanishad que a un brahman, tanto por su contenido como por su época, que el mismo Oldenberg señala como del siglo VII al IX antes de J. C. Sin embargo, las ideas filosóficas están todavía tan elementalmente desarrolladas, que bien puede considerarse el libro de los Cien Sonderos como uno de los primitivos Upanishads, o como ejemplo del libro en que se pasa del estilo litúrgico de los brahmanes al filosófico de los Upanishads.
+
+[p. 109]
+
+vez tuvo un deseo: "Que no pueda yo ser pluralidad y propagarme", así dijo, y en seguida se sometió a duras pruebas, y tras ellas produjo un gran esfuerzo, y creó a Brahma, que desde entonces le ayuda a sostener el mundo. Y por eso se dice, en los cantos védicos, "que Brahma es el sostén del mundo".
+
+"Brahma es el primer hijo de Pragapati, el padre de los mundos, el Verbo." La voz "Brahma" procede, según Müller, de la raíz "brhi", que quiere decir nacimiento y crecimiento, expansión; y Brahma se manifiesta en el lenguaje, en el verbo--el logos alejandrino y también en el universo visible. Brahma es la fuerza que crea las ideas y los fenómenos sensibles.
+
+### BRAHMA Y ATMAN
+
+Toda la especulación de las Upanischadas gira alrededor de las dos ideas fundamentales "Brahma" y "Atman"; Brahma, Dios, y Atman, el alma. A veoes. los dos términos son sinónimos, pero cuando difieren, Brahma aparece como el principio más antiguo e inefable, en tanto que Atman es cosa posterior y más inteligible. Atman es el sujeto interno, cuyos conocimientos dan la única clave para conocer todo lo demás, y Brahma es el primer principio del Universo.
+
+En el Upanishads Chandogya escuchamos las ⟦enseñanzas de Pragapati; sus disertaciones sobre el valor⟧
+
+de la sílaba Om, que significa algo semejante al Verbo
+
+⟦10g⟧
+
+[p. 110]
+
+alejandrino, y también es uno de los nombres sagrados de la divinidad. Afirma Pragapati que la verdad se encuentra contenida en los Vedas, habiendo sido inspirada por revelación divina a los sacerdotes o poetas que la compusieron. La verdad también se conoce por la inteligencia, pues "lo concebimos como el Infinito; es idéntico al yo; por eso quien concibe al yo como infinito acierta y se hace dueño y señor de los mundos"
+
+Sobre la naturaleza del ser individual, Pragapati propone la tesis de que el cuerpo es adorable a causa de sus perfecciones y de su belleza, pero la rechaza, y busca la esencia del ser en la sombra que acompaña a los cuerpos, en la visión de los sueños. Y finalmente declara: "Quien vive feliz con sus sueños, ese conoce la beatitud propia del Brahma inmortal..." El discípulo medita esta tesis largo tiempo, y por fin confiesa al maestro que sus dudas subsisten. Pragapati propone otra solución: "Cuando el hombre duerme con sueño profundo, sin sueños, tal estado es digno de la inmortalidad". El discípulo se retira; pero reflexiona, y dice: eso no es conocerse a sí mismo, ni siquiera saber que se existe. Una vez más interroga, y, por fin, el maestro ⟦ le dice: "Este cuerpo mortal guarda un alma inmortal⟧ e incorpórea. Mientras el alma habita el cuerpo, há-Hase sometida al placer y al dolor. Pero cuando huye del cuerpo ya no la alcanzan ni el placer ni el dolor: como el relámpago, como la nube, así el ser, todo serenidad, al abandonar el cuerpo luce en su propia flamo y se acerca a la luz verdadera.
+
+[p. 111]
+
+Lo que se llama eter-asara-es una substancia reveladora de toda clase de formas y nombres, que todos contienen en sí una parte del Brahma inmortal, el fin de nosotros mismos.
+
+Los hombres, prosigue, se dividen en tres clases: los de la promera, faltos de capacidad, no pueden comprender lo divino, y han de conformarse con meditar el texto de los Vedas.—Los de la segunda clase, sienten el deseo de emanciparse, pero les falta poder; y de allí que no aspiran al Brahma Absoluto, sino a la felicidad trascendental. Estos hombres adorarán el espíritu bajo las formas físicas; de ellos es el reino de la luz, y la gloria del creador personal.—Pero, los de la tercera clase, saben que la vida material es reflejo del espíritu, y que el creador personal es obra del espiritu, y por eso aspiran al Ser mismo, al Brahma inmortal y Absoluto. Los que esto saben, meditan en el espíritu Alto y Absoluto."
+
+⟦Los Upanishads Brhiahadaranyaka y Kaushitaki se⟧ ocupan en la crítica de las distintas definiciones de Brah-⟦ma. En el Brhihadaranyaka, el filósofo Yajnavalki o⟧ Yajnavalkia discute las seis definiciones que le propone el rey Janaka, y declara que las seis definiciones representan atisbos del "principio" y sólo sirven para formular algunos de sus atributos. Para llegar verdaderamente a Brahma, Yajnavalki discurre sobre la suerte del alma después de la muerte, e imagina al sujeto despojado del velo que le forman los músculos, las venas, los nervios, los ajos; y así privado de todo sentido, lo deja frente al ser Omnipotente: Atman frentea Brahma.
+
+[p. 112]
+
+A través de los Upanishads, Atman y Brahma son objeto de representaciones simbólicas, y muchas veces ocurren confusiones, como la que hace Badarayana en un pasaje del Chandogya, donde se confude a Brahma con el éter o asaka, cuando, en realidad, el asaka no es más que el elemento de unión de los hombres y las formas, la expansión de Brahma en formas y nombres. En el Up. Brih se dice de Brahma: "Aquel que reside en el asaka y es distinto del asaka. El asaka no le conace, pues es como su cuerpo, pero el gobierna el asaka desde dentro. El es tu alma y tu guía interior, tu yo inmortal..." Brahma es inteligencia y beatitud. concluye ⟦Yajnavalkia.⟧
+
+En otro pasaje dice el mismo filósofo que Brahma es inmanente y no trascendente, que "como alma está dentro de todas las cosas..." "En verdad, oh Gagi, este ser imperecedero, mira, pero no es visto; escucha, pero no es escuchado; comprende, pero no es compren-• dido; conoce, pero no es cognoscible..."
+
+Y en otro pasaje del Upanishads Taitiriyaka existe el siguiente párrafo señalado por Deussen: "Todo deseo alcanza quien conoce a Brahma como Verdad, como ⟦ Inteligencia y como Infinitud; escondido en el corazón⟧ humano, y en las más lejanos espacios".
+
+Brahma está dentro de la conciencia, no en parte, sino total e inmanentemente: "Grande como los espacios del mundo es este espacio interior de mi corazón; en él se contienen el cielo y la tierra, el fuego y el vien- . to, el sol y la luna, el relámpago y las estrellas, todo
+
+[p. 113]
+
+lo que poseemos y todo lo que nos falta" ⟦• (Up., Chand.⟧ ⟦81, III.)⟧
+
+"Aquí reside en la cavidad de mi corazón este centro del universo a quien no exaltan las buenas obras, a quien no envilecen las malas; él es señor del mundo, protector de los seres, puente que liga los mundos y evita que choquen unos con otros." Up. Brih.—Pues todo este atman interior es idéntico al Brahma absoluto, y es idéntico a todo cuanto existe, ya que no hay nada fuera de Brahma. Esta identidad fundamental del alma con todo el universo, se expresa en la vieja y sinrética fórmula que es la expresión de toda la filosofía ⟦vedántica: Tat tram ansi, "tú eres esto." Ante cada⟧ cosa, la conciencia debe deoir: tú eres esto, esto es tú mismo, en otro aspecto. No hay en toda la filosofía un monismo más radical que el monismo vedántico.
+
+LA DOCTRINA DEL VELO DE MAYA
+
+Mas como todo misionero se ve contradicho por la realidad exterior que por doquiera se presenta múltiple y varia, las filósofos de los Upanishads se apresuran a decirnos que todo lo que vemos como multiplicidad y cambio, es: "sólo un nombre", una apariencia vana. Y de esta manera se va preparando la tesis del velo de Maya, que también es una de las ideas comunes a todas las escuelas indostánicas. Las cosas existen, dice el Up. Chandogya, "tan sólo porque Brahma es el ser
+
+[p. 114]
+
+interno de todas ellas". La obra del mundo es como el hilo con que teje la araña, contrayendo o alargando una parte de su propia substancia; también se parece al tallo que elevan las plantas, al crecer de los cabellos en el cráneo, a las chispas que brotan del fuego y al fuego ⟦vuelven". (Up.-Mundaka.)⟧
+
+⟦"El Universo, dice el Upanishads Brhiahadaranyaka.⟧ no se había desdoblado, pero al aparecer nosotros se descompuso en formas y nombres. El Atman ha entrado dentro del Universo hasta la punta de los dedos, y en él permanece, como navaja en su vaina, como el fuego en el madero seco". El Up. Chandogya hablando del ser dice: "En el principio existía solo, solo y sin segundo, y se dijo: me multiplicaré; y entonces creó el fuego. Y en seguida pensó: entraré dentro de estos tres elementos: fuego, agua y viento. Y entrando así, con su yo viviente, desarrolló los nombres y las formas"
+
+"Brahma es la cuna de todos los seres y todos a él revierten." Cuanto posee movimiento o es inmóvil, todo en Brahma se pierde como las burbujas que se alzan un instante sobre las olas y luego se confunden con el Océano." Todo es falso y todo es irreal; sólo Brahma posee la existencia, el Brahma del cual nuestra alma es un reflejo inmanente.
+
+La tesis de que el mundo sensible es "Maya", ilusión, aparece desde los primeros Upanishads y se sostiene como parte fundamental del credo vedántico, y como hipótesis en casi todos los demás sistemas; pero el filósofo que vino a precisarla, según veremos en la
+
+[p. 115]
+
+parte expositiva de la doctrina vedántica, fue Sankara, que en sus comentarios llega a definirla en términos casi análogos a la doctrina kantiana. Pues la expresión de que el mundo exterior es sólo cuestión de nombres y formas la interpreta Sankara diciendo que esos nombres y formas son la obra del entendimiento y no cosa esencial en ellos. Brahma es una es-⟦pecie de nóumeno, pero no un nóumeno incognosci-⟧ ble y lejano, sino igual a lo intrínseco de nuestra propia conciencia.
+
+Sin embargo, y sin duda por esto mismo, Brahma no es inteligible; no es inteligible porque desde el instante en que el sujeto concibe, se crea una dualidad: sujeto pensante y cosa o ser pensado. No podemos conocer a Brahma, pero sí podemos sentirnos idénticos a él, y en eso consiste la beatitud: en hallar la paz y el reposo en aquel invisible, inefable ser incorpóreo. (Taitireya Up.). Pues en los términos del Upanishads Kena, "Brahma es distinto de lo Inteligible, y sin embargo, no es desconocido, ya que nuestros padres nos legaron enseñanzas que la tradición conserva... Quien no lo conoce, conócele; y quien lo conoce, lo ignora". Y en el ⟦ Upanishads Khata se dice que el Atman se nos vuel-⟧ ve una certeza inmediata:
+
+"No por palabras ni por ideas, ni por la vista es comprendido. Él es, estas palabras lo expresan, y ningunas otras. Diciendo: El es, así se le comprende, pues ⟦ti⟧ Él es la esencia de ambos. El es para quien así lo com-⟦26g1⟧ prende."
+
+[p. 116]
+
+¿ Cómo logra el Atman librarse de las quimeras del mundo sensible, para realizar su unión con ese Brahma suyo y Absoluto? Este problema llevó a los indostanos a la sistematización de otras dos teorías importantes: la trasmigración y el Karma.
+
+Las religiones primitivas suponen que la salvación depende de prestar obediencia ciega a los mandatos divinos, y de agradar a los dioses por medio de plegarias y ofrendas. Los libros samhitas y brahmanes están llenos de fórmulas y preceptos sobre la manera de conquistar el favor divino. En los Upanishads la escatologia se aparta por completo de estos medios elementales. En los Vedas se habla de la beatitud que aguarda a las buenos después de la muerte, pero no se dice que habrán de renacer. La teoría de la reencarnación aparece también mucho más tarde, en los Upanishads. Los Upanishads, afirma Deussen, son, frente a los antiguos brahmanes, como el Evangelio respecto del Antiguo ⟦ Testamento, un progreso moral e ideológico.⟧
+
+Ya sea que la idea de la trasmigración represente un desarrollo natural del pensamiento indostánico o que, según creen algunos autores, la hayan tomado los brahmines de las tribus aborígenes, el hecho es que ya en. los Upanishads aparece como una tesis comúnmente aceptada.
+
+. "Igual, dice el Up. Kaushitalli; igual que los elemen-
+
+[p. 117]
+
+tos y que la naturaleza orgánica; del seno de Bralma emanan también las criaturas, y la muerte las retorna al mismo seno infinito de donde han de nacer una vez más, ya como aves, ya camo peces, o bien como hombres o insectos, según las abras y el grado de saber que en la vida alcanzaron."
+
+En realidad, las contradicciones que resultan del monismo absoluto que predica la identidad de Atman y de Brahma, y el hecho de la creación del mundo, el hecho de la pluralidad, etc., son insolubles, por lo menos de una manera directa, y esta misma imposibilidad de conciliación va obligando a desarrollar ingeniosamente las teorías sobre los avatares que se suceden en el más allá. Ahora bien, dentro de esta teoría, el Karma viene a ser como la ley de esos avatares.
+
+La teoría y las formas de la trasmigración encuéntranse expresadas en distintos Upanishads, y de ellas nos ocuparemos más extensamente en otra parte del libro. Casi todas las autoridades están contestes en afirmar que las variedades de la trasmigración dependen del Karma. La palabra Karma quiere decir hecho y la teoría del Karma consiste en afirmar que los hechos y muy especialmente las acciones humanas, y aun los deseos, producen efectos que se prolongan más allá de la vida corpórea. En otros términos, que nuestro destino después de la muerte, depende de la conducta que hemos observado en esta vida. Y como es imposible escapar a las consecuencias de esa conducta, resulta que deberemos volver al cuerpo para desagraviar las
+
+[p. 118]
+
+culpas cometidas o para satisfacer los deseos más imperiosos. Por eso continuamos reencarnando, y la única manera de escapar a este ciclo fatal de las reencarnacio nes es buscar la salvación; una salvación que consista en arrancarnos de la servidumbre del deseo y del acto, para poder ser libres, en una esfera mejor que la del mundo.
+
+## KALPAS Y PRALAYAS
+
+⟦En el Upanishads Svetasvatara señala Deussen un⟧ pensamiento que alli aparece por primera vez y más tarde alcanza gran importancia: la disolución del universo en Brahma, seguida después de una nueva creación, y así sucesivamente, por indefinidos ciclos. La idea se expresa en el mito del dios que, semejante a colosal arácnido, teje la tela del mundo y luego la recoge dentro de si, volviéndolo a su unidad con él. Y luego vuelve a comenzar la rica obra de las "gunas", con el objeto de ir dando a cada cual sus atributos propios. Tal es la teoría de las kalpas o grandes Eras periódicas del mundo.
+
+Según la posterior doctrina vedántica, al fin de cada Kalpa o ciclo, ocurre una Pralaya o disolución del mundo. Al verificarse ésta, Brahma se ve reducido a su condición primera, conteniendo dentro de sí la materia en forma indeterminada y amorfa, y el alma. Al fin de la pralaya, "brahma" emana de sí un nuevo mundo; la materia se hace otra vez sensible, y el espíritu la va moldeando en formas donde las almas encarnan
+
+[p. 119]
+
+de acuerdo con sus anteriores destinos o karmas. Durante cada kalpa las almas encarnan y reencarnan en sucesivas vidas; al fin de la kalpa la materia se disuelve y torna al caos, y las almas se refugian en el seno de Brahma hasta la creación próxima o kalpa nueva.
+
+leno el proceso de las kalpas y pralayas, sólo afecta al mundo del cambio y la irrealidad, a todo lo que es parte de Maya. Las almas que no se sustraen a las ataduras de Maya siguen condenadas a nacer y renacer a través de las kalpas. Mas durante el plazo de cada kalpa las almas tienen ocasión de salvarse mediante los distintos medios que explican los textos.
+
+Precisamente el objeto de las kalpas es poner en juego la materia y el espíritu, para que en la lucha y conciliación de entrambos, las almas mejores se libren definitivamente del ciclo absurdo del nacer y el perecer.
+
+Esta última importante afirmación podemos hacerla sin temor que la contradigan los textos, ya que la teoría de las kalpas es una especie de postulado que cada filósofo interpreta según sus propias luces.
+
+En los Upanishads no se desarrolla la teoría de las
+
+Kalpas, pero sí reaparece ella en el Baghavad-Gita y ⟦ llega después a ser formulada con precisión por la es-⟧ ⟦ cuela Samkya.⟧
+
+LAS GUNAS
+
+Finalmente, para concluir esta breve exposición de las ideas principales de la filosofía indostánica, observemos que el texto citado en el párrafo que ante- ⟦II9⟧
+
+[p. 120]
+
+cede, dice: "que después de la disolución vuelve a comenzar la rica abra de las gunas, que var dando a cada cual sus atributos propios". Guna quiere decir cualidad; tal es su significación primitiva; más tarde, guna llega a significar una especie de elemento constitutivo de la Naturaleza; gunas son también los tres elementos lógicos, la tesis, la antítesis y la síntesis; las tres estados: frío, calor y ni frio ni calor; lo bueno, lo malo y lo indiferente; lo masculino, lo femenino y lo neutro. La tensión de estos tres estados-de las tres gunas en sus diferentes aspectos-determina la actividad y la lucha; conflicto que generalmente se resuelve en el reposo.
+
+En el Upanishad Maitreya se dice que este mundo era en el principio Tamas, obscuridad. La abscuridad movida por la más alto se hizo desigual y se convirtió en Ragas o acción, las que al moverse se convirtieron finalmente en Sattva bondad. Estas son las tres gunas primitivas en que se descomponen las cosas. La teoría de las gunas aparece en los Upanishads más recientes y en el Baghavad-Gita; pero sólo alcanza formal desarrollo en la escuela de los Samkyas.
+
+### EL BAGHAVAD-GITA ORIGEN DEL LIBRO.—COMENTARIOS DE MADERO
+
+Ya hemos indicado en los apuntes históricos, que el Mahabharatta corresponde al segundo período del pensamiento indostánico. No se conoce la fecha del ⟦16 ⟧ poema, pero por las doctrinas y referencias que con- ,
+
+[p. 121]
+
+tiene, se deduce que es posterior a los Upanishads y probablemente anterior al budismo. El episodio más importante del Mahabharatta es el libro conocido con el nombre de Baghavad-Gita. Nada se sabe del autor de la obra sino que se llamaba Vyasa, un nombre, por lo demás, muy común en la literatura hindú. El poema está escrito en sánscrito.
+
+Comienza con un diálogo entre Arjuna, el jefe de un ejército y Krishna, el dios que lo auxilia en la batalla. Los cuernos de guerra han anunciado que va a comenzar el combate, las flechas comienzan a volas por el aire, y entonces Arjuna pide a Krishna que le permita ver el ejército enemigo. Krishna interpone su carro luminoso y por un momento interrumpe el combate. Arjuna pasa revista a sus enemigos. Allí está Bima, su rival, fuerte y rodeado de atrevidos guerreros, acompañado de las tribus y de los mismos parientes y amigos de Arjuna. Al contemplar a todos estas hombres, Arjuna siente que no los odia, y se duele de tener que luchar con ellos; vacila y pregunta a Krishna: " ¿ cómo podré yo combatir contra Bima y Drona, si entre todos los hombres ellos son los más dignos de mi respeto? Preferiré mendigar mi pan por el mundo, antes que ser el asesino de estas gentes... No podría decir si es preferible que nos derroten o que nosotros los derrotemos. Pues los enemigos que allí nos esperan, con los pechos llenos de rencor, son los hijos del pueblo de Dhiritarashtra, y si hubieren de perecer por mi mano, yo no desearía vivir... no los combatiré..."
+
+[p. 122]
+
+Krishna contesta, haciendo ver a Arjuna la futilidad de la vida lo mismo que la futilidad de la muerte, la imposibilidad de matar el espíritu, etc. Le hace ver también que si huye y no combate, el enemigo lo atribuirá a cobardía; en cambio, una vez iniciado el combate, si mueres, le dice Krishna, irás al cielo; y si vences, el mundo será tuyo. En el curso de su disertación, Krishna instruye al guerrero en las doctrinas del yoga activo y en la salvación que se logra mediante las acciones justas y el abandono de los deseos; le expone la doctrina de la reencarnación y de la liberación.
+
+En el capítulo tercero, Krishna sigue su discurso, explicando la salvación que se logra por la ejecución adecuada de las acciones. En el capítulo cuarto, se habla del conocimiento espiritual.
+
+A partir de este capítulo cuarto, suspendo mis notas, remitiendo a los lectores al admirable texto original, que es muy fácil de obtener; pero quiero cerrar mi capítulo con un comentario que es quizás el primero que se escribió en México, del Baghavad-Gita; un comentario que procede del extraordinario y nobilísimo espíritu, que entre nosotros fue apóstol, pensador y presidente mártir, y que conocimos con el nombre terrestre de Francisco I. Madero. Del comentario de Madero poseo sólo un fragmento, que dice textualmente:
+
+"Este capítulo (el 40) trata de la verdadera devoción, en términos tales que merecen meditarse seriamente, porque demuestran cuán profundas y grandiosas son las enseñanzas del Baghavad-Gita; cuán amplio es su
+
+[p. 123]
+
+espíritu de tolerancia y cómo concuerda con las enseñanzas de Jesús, quien consideraba como ley principal el amarnos los unos a los otros. Así el Baghavad-Gita dice en este capítulo, versículo 4, que el principal culto que debe rendirse al Ser Supremo y el camino que a él conduce, consiste en refrenar los sentidos, equilibrando el entendimiento y complaciéndose en el bien de todos los seres.
+
+"Se ve, pues, que el modo más eficaz de adorar a la divinidad es "complacerse en el bien de todos los se-⟦res"⟧
+
+, o lo que es lo mismo, amar a nuestros hermanos. como decía Jesús.
+
+"Es indiscutible que también es necesario refrenar y dominar los sentidos, pues de otra manera los deseos y las pasiones nos ofuscan e impiden amar a nuestros semejantes y desear su bien.
+
+"En los versículos 5 y 6 explícase que: "ardua por demás es la tarea de aquel cuya mente se halla fija en lo Inmanifestado"; refiérese a la gran dificultad que implica concentrar por completo la mente en lo divmo y permanecer en constante meditación o adoración. Y en verdad, cualquiera que haya intentado centrar su mente en ese sentido, habrá observado cuán pocos son los minutos en que se puede lograr tal resultado, siendo casi impasible evitar que otros pensamientos vengan a perturbar y distraer la atención. "Así dice que ese camino está lleno de dificultades, pero en cambio, no es indispensable tal practica, sino que basta con renunciar en Él todas sus acciones y que .
+
+[p. 124]
+
+El constituya el ideal supremo, para que lo salve sin tardanza del piélago de la muerte y de la existencia.
+
+'Por remuncia en Él de todas sus acciones, debe entenderse que todos nuestros actos deben tener un fin. altruísta, un fin bueno; el de servir las designios de la Divinidad, trabajando en cualquier forma por acelerar la evolución de la humildad y por ayudar a nuestros semejantes.
+
+'Todas las acciones que tengan un fin de tal naturaleza y no busquen recompensa terrenal, sino que se ejecuten con el propósito de servir a la Divinidad, son las que más pesan en su balanza.
+
+"Los que obran de esta manera, indudablemente consideran a la Divinidad como su ideal supremo, puesto que sus principales aspiraciones consisten en colaborar de acuerdo con sus designios a la realización del grandioso plan Divino.
+
+"'En los versículos 8, 9, 10, II y 12 vuelven a expresarse las mismas ideas, considerando siempre superior a la renuncia las obras, al conocimiento, la práctica perseverante y a la meditación (Versiculo 12).
+
+"El versículo 8 recomienda la concentración de tra mente para adorar al Ser Supremo; pero como esto es muy difícil obtenerlo, según acabamos de exponer, entonces el versiculo 9 recomienda toda clase de prácticas religiosas, las cuales ayudan a concentrar la atención y a aumentar la devoción. Si aum esto se dificulta, ⟦16.13⟧ recomienda el versiculo 10 dedicarse a ejecutar obras . por consideración a Él tan sólo. Como este concepto
+
+[p. 125]
+
+parece semejante al que se expresa en el versículo inmediato, consideramos que debe interpretarse en el sen. tido de: comsagrarse al culto de la Divinidad, afiliando se en alguna sociedad u orden religiosa, puesto que um sacerdote de cualquier culto indudablemente se dedica a ejecutar obras por consideración a la Divinidad a cuyo servicio dedica todos sus esfuerzos desde el momento de su consagración.
+
+"Por último, si aun esto no es posible, entonces recomienda refugiarse en El por medio de la Unión Espiritual, y, subyugándose a sí mismo, renunciando por completo al fruto de sus acciones.
+
+'Todo esto puede efectuarse llevando la vida mundana, sin necesidad de recluírse en un claustro, ni de abandonar la familia y las ocupaciones ordinarias. Es, por consiguiente, posible llegar al grado máximo de virtud y evolución que puede alcanzar el ser humano, dedicándose a la vida ordinaria, a la profesional, a la agricultura, a los negocias, a la política y a todas las ocupaciones que exige la moderna civilización, así como la constitución de un hogar y de una familia; basta para ello unirse espiritualmente con el Ser Supremo, es decir, llegar ail resultado de que todos nuestros actos tengan un fin bueno y útil a la humanidad, o sea, que todos ellos estén en harmonía con el Plan Divino, porque tienden a favorecer el bienestar del género ⟦humano y su evolución. Para lograr este resultado, es in-⟧ dispensable, como dice el mismo versículo, "subyugar- . se a sí mismo", porque de otra manera las pasiones
+
+[p. 126]
+
+nos impiden tener la serenidad de espiritu y la rectitud necesarias para obrar siempre bien.
+
+"Por último, estando unificados espiritualmente con la Divinidad y habiéndonos subyugado a nosotros mismos, "debemos renunciar al fruto de nuestras acciones". Ya hemos explicado que por "renunciar al fruto de nuestras acciones" debe entenderse que al ejecutar cualquier acto meritorio no debemos hacerlo en vista de la recompensa que de él esperamos, sino por considerar que tal es nuestro deber y que de esa manera servimos al Ser Supremo: lo cual debe ser para nosotros la principal y más honda de las aspiraciones. Servir a la Divinidad, convertirnos en agentes de su valuntad, en colaboradores, y buscar como recompensa la satisfacción que se siente con la conciencia del deber cumplido, con la paz que se disfruta cuando ningún deseo ni pasión nos agita, tal debe ser nuestra aspiración suprema.
+
+"El resto del capítulo expresa la idea de que los hombres de ideas benévolas, compasivos, indiferentes en medio del placer y del dolor, pacientes en las ofensas, contentos con su suerte, constantemente harmonizados, ⟦ dueños de sí mismos, firmes en sus resoluciones, con⟧ la mente y el discernimiento fijos únicamente en la Divinidad y devotos de ella, así como aquel que no turba al mundo ni por el mundo se ve turbado, que está libre de las emociones causadas por la alegría, la cólera y el temor, etc., son dignos de la estimación, el apre- . cio y el afeoto de la Divinidad.
+
+[p. 127]
+
+"También son acreedores a este afecto los que se muestran iguales ante el amigo y el enemigo, indiferentes en el honor y en la ignominia, imperturbables a la alabanza y al vituperio, etc.
+
+"Insistiendo sobre la idea ya expresada anteriormente, afirma que es objeto de la predilección del Ser Supremo, aquel que lleno de fe sigue la ley que confiere la inmortalidad (complacerse en el bien de todos las seres y renurciar en la Divinidad todas sus acciones), asimismo el que hace del Ser Supremo el más alto ideal de sus aspiraciones, idea que debe entenderse según la hemos expresado en los comentarios de este ca-⟦pítulo.⟧
+
+'Como se ve, son grandiosas todas las concepciones que encierra el Baghavad-Gita, y está muy lejos de recomendar esas prácticas supersticiosas tan en boga en la mayoría de las religiones, aun de las que actualmente profesan los pueblos civilizados, y, según las cuales se da más importancia a determinadas prácticas religiosas que al cumplimiento del deber, sin considerar que cumpliendo con el deber, es como se favorece en un plano más vasto y extenso el bienestar y progreso de la humanidad.
+
+"Indudablemente un guerrero que va a la lucha por el bien de sus semejantes, hace un acto más meritorio ante la Divinidad que el sacerdote que se dedica exclusivamente a sus prácticas religiosas, sin unir a la ción la acción. Este sacerdote, si acaso, se limita a tener buenos deseos para la humanidad, si no es que, como
+
+127 ⟦Googl⟧
+
+[p. 128]
+
+⟦Estu i o i n n | o⟧ acontece generalmente, piensa únicamente en la salvación de su propia alma, y con tal objeto e inspirado en un sentimiento egoísta, se dedica a las prácticas religiosas más extrañas.
+
+"No queremos terminar el comentario de este capitulo dejando inadvertido el versículo 80 en lo relacionado con la idea panteista, pues viene a confirmar nuestras constantes observaciones sobre el Baghavad-Gita, y es que en esta obra no tienen cabida las ideas panteistas, contrariamente a las deducciomes hechas por investigadores superficiales.
+
+"En ese versículo dice: "Fija, pues, tu mente en Mí, penetra en Mí tu entendimiento y sin duda alguna, después de tu muette, vivirás en Mí en las alturas."
+
+"Vivirás en Mi en las alturas", no significa ir a absorbernos en el Ser Supremo y a formar parte de El mismo, sino que nos acercaremos a El, y llegando a identificarnos con sus designios, viviremos para El y dentro de El; pero siempre conservando nuestra propía individualidad, así como la inmensa y muy respetabite distanoia que nos separa de Aquél "que con una partícula de Sí mismo dio origen y actividad al Universo entero y sigue existiendo" (capítulo X, ⟦versícu10 42).⟧
+
+"Por ese motivo, cada uno de nosotros, parte infinitesimal de ese Universo, no puede pretender llegar a ser tan alto como El, que lo creó con una partícula de Si mismo.
+
+"Nuestro destino es muy glorioso y muy alto el lu-
+
+[p. 129]
+
+gar que llegaremos a ocupar entre los que rodean al Ser Supermo y del gobierno del Universo; llegarán nuestras aspiraciones a confundirse con sus designios; pero por más que nos identifiquemos con el plan divino, nunca perderemos nuestro Yo, nunca llegaremos a ser parte de Dios, que no está integrado por millares de seres, sino que es Uno e Indivisible."
+
+Impresionante resulta imaginar los pensamientos de Madero cuando llegó a encontrarse en los campos mexicanos, en la situación de Arjuna, dispuesto a combatir un ejército de enemigos que no odiaba, pero que era su deber destruír. Venció a esos enemigos, el Arjuna de México, en la noble lid de la fuerza, y después perdonóles con tierno espíritu cristiano; mas para ser víctima de Judas, en la más negra y cruel de las trai-⟦ciones.⟧
+
+### LA ESCUELA VEDÁNTICA
+
+⟦UTTRA MIMANZA.—BADARAYANA O VYASA.—UPANISHADS.⟧
+
+⟦BRAHMA SUTTRAS DE BADARAYANA Y BRAHMA SUTTRAS⟧
+
+DE SANKARA.—LAS TRES ETAPAS DEL VEDANTISMO.
+
+La escuela vedántica es la heredera y conservadora de los preceptos de la antigüedad clásica, desde los más remotos tiempos. Los vedantistas gustan de remontar su tradición hasta cinco o seis mil años antes de nuestra Era y apoyam sus enseñanzas, en primer lugar, en los distintos Vedas (Rig., Sama, etc.); pero fundamen-
+
+[p. 130]
+
+talmente en los Upanishads. Mientras los sacerdotes brahmines seguían apegados a los himnos primitivos o mantras, escribiendo sus complicados ritos en los Brahmanes, los verdaderos filósofos, pertenecientes por lo común a la clase guerrera, desarrollaban sus especulaciones usando del mito antiguo a la manera de los filósofos socráticos, como símil y punto de partida del pensamiento.
+
+Para formarnos una idea aproximada de lo que era esta especulación libre en una tierra donde la libertad del pensamiento siempre ha sido absoluta y jamás ha costado una gota de sangre, sería menester ponernos a repetir el contenido de los centenares de Upanishads que en esta larga época se produjeron.
+
+El periodo de la composición de los Upanishads abarca, como ya se ha visto, varios siglos y representa una de las épocas más fecundas del espíritu humano. En los Upanishads están contenidas doctrinas que siempre figuraran entre las más elevadas que ha conocido el hombre. Pero los Upanishads no solamente contienen el cuerpo de las enseñanzas que desde entonces ha venido constituyendo el núcleo de las creencias vedánticas o canónicas del Indostán, sino que además, por su carácter vario y libre, han servido de base a todas las escuelas, aun a las disidentes; y así puede afirmarse que no hay idea que no tenga sus raíces en los antiguos y venerados libros. La exposición de la parte reputada como doctrina canónica, la emprendemos en el capitulo denominado Renacimiento Vedántico, al ocupar-
+
+[p. 131]
+
+nos de la obra del filósofo Sankara; por ahora sólo haremos notar que, desde la época anterior a la aparición de las grandes sectas heterodoxas, el budismo y el jainismo, se hizo sentir la necesidad de establecer algún orden entre las múltiples producciones bautizadas con el nombre de Upanishads; un orden y una exégesis que permitieran a las creyentes determinar cuál era la verdad camónica, frente a las interminables discusiones de las Samkyas y Jos Yogas y los independientes de todas denominaciones. Así fue cómo nació la doctrina llamada Mimanza-doctrina exegética-, que se divide en lais dos grandes escuelas: la de Badarayana y la de Gaimini.
+
+Badarayana o Vyasa es un personaje legendario, pero reconocido como el fundador de la escuela Vedanta; es decir, la escuela fundada en la filosofía de los Upanis-⟦hads. Y la colecoión o exégesis de los Upanishads for-⟧ ⟦mada por Badarayana se llama Uttara Mimanza o exé-⟧ gesis posterior.
+
+⟦La Uttara Mimanza o exégesis de Badarayana está⟧ contenida en el libro o colección de aforismos conocido ⟦oon el nombre de Brahma-Suttras o Vedanta-Suttras.⟧ Probablemente el nombre Uttara Mimanza abarca más y cubre los Upanishads catalogados por Badarayana y además sus comentarios o Suttras, los Brahma o Ve-⟦danta Suttras.⟧ ⟦ Se cree que Badarayana es posterior a Capila y an-⟧ terior a la aparición del budismo. Badarayana, bajo el nombre de Vyasa, pasa por ser el autor del Mahaba-
+
+[p. 132]
+
+ratta y de otras muchas obras voluminosas; pero lo más probable es que se trate de una confusión de nombres, pues no es oreíble que un mismo autor haya escrito las dos obras.
+
+Pareoe, además, indudable, según observa Max Müller, que el Baghavad-Gita, que es parte del Mahabaratta, ya cita los Brahma-Suttras o aforismos de Brahma, de donde se deduce que éstos son anteriores a contemporáneos. Y como a su vez Badarayana cita a Capila, debemos deducir, a pesar de la ausencia de datos exactas, que la obra de los Brahma-Suttras es posterior a la escuela Samkya y anterior al Mahabaratta y al budismo.
+
+Lo más probable es que Badarayana y su escuela representen una reacción religiosa y tradicional en contra del materialismo ateo que se deriva de los Samkyas.
+
+Ahora bien, para fijar, ya que no es posible las fechas, sí por lo menos el orden de los períodos de la escuela Vedántica, recordemos los siguientes hechos: I.-Que la escuela Vedanta o Vedantica se funda en los Upanishads y que estos textos datan de un período muy antiguo, por lo menos 1.000 años antes de Cristo. La figura principal de los Upanishads, el filósofo que en ⟦ellos diserta es Yajnavalkia, 2.—Después de Yajnaval-⟧ kia y de los Upanishads más antiguos viene un perio do muy largo, durante el cual las ideas de los Upanishads son la base de toda la especulación indostánica; en los pasajes de los Upanishads se fundan las doctrinas Samkyas de Capila, aunque en realidad sus con
+
+[p. 133]
+
+alusiones se aparten de ellas; en los Upanishads se sigue fundando todo; pero esto mismo produce una corrupción. Para contrarrestarla aparecen las dos escuelas, que en adelante serán modelo de artadoxia: la Purva-Mimanza de Gaimini, que precisa y depura el ritual, y la Uttara-Mimanza o Vedanta de Badarayana, que precisa y depura el fondo de la doctrina de los Upanishads. 3.—Después de Badarayana y después del Bahgavad-Gitta, en que se afirma otra vez la doctrina clásica de los Upanishads, viené una nueva desviación del tronco brahmánico, un nuevo cisma, aún más importante que el cisma Samkya, el cisma budista. Después del cisma budista o contemporáneamente con el budismo, aparece el atro cisma religioso de la secta de Jain. Muchos siglos después, ya que el budismo y el jainismo han decaído en la India, aparece Sankara, un nuevo recopilador de la doctrina Vedántica, un filósofo que reemprende la obra llevada a cabo más de mil años antes por Badarayana y restaura otra vez la doctrina clásica y antigua, la doctrina sagrada de los Upanishads, doctrina que todavía hoy cuenta con la fe de la mayoria de la población indostánica.
+
+En el prasente capítulo nos ocuparemos únicamente del período que termina com la redacción de los Brahma Suttras de Badarayana; y hasta después de tratar del budismo y del jainismo volveremos a estudiar la escuela vedántica, en la renovación que debió a Sankara, en el siglo IX de nuestra Era.
+
+Cálculos conjeturales permiten afirmar que los Brai-
+
+[p. 134]
+
+ma-Suttras se escribieron el año 600 A. C. Así pues, la cronología de la escuela vedántica podría establecerse, más o menos imprecisamente, en la forma siguiente: U panishads, mil o mil quinientos años antes de Cristo; Restauración de las ideas de los Upanishads y formación de un cuerpo sistemado de doctrina derivada es trictamente de los Upanishads, año 600 A. C., fecha probable de los Brahma-Suttras. Segunda restauración emprendida por Sankara en el siglo IX de nuestra Era. La obra de Sankara se conserva como autoridad hasta nuestros días.
+
+Badarayana no se propone iniciar un nuevo sistema, sino, como ya se ha dicho, restaurar en todo su vigor ⟦y pureza la antigua fe Upanischádica. Badarayana co⟧ mienza aceptando las principales tesis de Gaimini acerca de la prueba y la eternidad de la revelación contenida en los Vedas. Su principal argumento en favor de la doctrina Upanischádica es el origen divino de los textos védicos. Hay aforismo en que se expresa terminantemente que Dios o Brahma es el autor de los Vedas.
+
+Refiriéndose a las apiniones de los Samkyas y ⟦Yogas, Badarayana se muestra respetuoso con ellas y les⟧ conserva el calificativo de emitri o sagradas; pero ese calificativo debe entenderse aplicado tan sólo a la parte de estas doctrinas que se apoya en los Vedas y se confunde con ellos, y de ningún modo a las conclusiones que se apartan de la ortodoxia. Contra estas conclusio- . nes, como, por ejemplo, el dualismo Samkya y algunas
+
+[p. 135]
+
+aseveraciones yogis, Badarayana emprende cruzada formal.
+
+A diferencia de Gaimini, cuyo objeto es aprender en los Vedas los deberes que hay que cumplir para hacerse grato a la Divinidad, Badarayana se propone investigar la naturaleza de Brahma mediante la revelación contenida en los textos sagrados.
+
+Para emprender este estudio, la primera condición que se establece es la de pertenecer a una de las castas elevadas. Las mujeres quedan también excluídas, aunque con excepciones, como la que se deduce del pasaje en que Yajnavalkya instruye a una de sus esposas.
+
+Badarayana estudia las interpretaciones que los Sam.
+
+kyas, los Yoguis y los lógicos de la escuela Vaiseshika han hecho de los Upanischads y procura rebatir aquellas opiniones que no van de acuerdo con el monismo riguroso del original. Por ejemplo, la afirmación de que la palabra Brahma es sinónimo de pakriti es rebatida con acaloramiento. La teoría atómica de Gautama y de
+
+Kanada también es rechazada, y se reafirma la teoría upanischádica de una sala substancia, más bien divina que material, cuya emanación es la causa del mundo. ⟦ Los comentarios de Badarayana son sumamente os-⟧
+
+curos, quiza por su gran antigüedad, y si a la fecha se les conoce es por la revisión y reedición que de ellos hizo Sankara; así pues, para la exposición más ⟦detallada de la doctrina nos reservaremos hasta el capítulo⟧
+
+en que se trata del Renacimiento Vedántico, encabezado . por Sankara.
+
+[p. 136]
+
+Esto no obstante, la obra de Badarayana tuvo una importancia extraordinaria e insubstituíble para su épo ca. Después de la redacción de los Brahma-Suttras puede considerarse que quedó plenamente constituido el Brahmanismo o Induismo con todos sus caracteres peculiares. La India entera era brahmánica. La creencia en un Dios todopoderoso y amnisciente, causa del Universo y única realidad existente, permeaba todos los espíritus. La doctrina de la transmigración mostraba el estrecho parentesco que une a todos los seres, a pesar de sus diferencias de grado y de forma, e indicaba el camino que es necesario seguir para ir logrando la aspiración de todo lo creado, la reabsorción en el Brahma Absoluto. El mundo externo no era más que ilusión: Maya, que aparecía y desaparecía según el proceso de Las creaciones divinas. Brahma y el alma humana eran uno y la mismo. El tat tram ansi: ésto eres tú, era la suprema verdad; pero la teología explicaba la aparición del mundo, la creación de la multiplicidad por medio del desdoblamiento de Brahma. Cada uno de estos desdoblamientos representaba un aspecto del Universo y los tres constituían la Trinidad Brahmánica: Brahma, el principio creador; Vishnú; el principio de conservación del mundo, y Siva, el dios destructor. El supremo fin de la vida era la reabsorción, la identificación con Brahma; ésta se logra mediante el conocimiento de las doctrinas sagradas contenidas en los Vedas; pero no todos pueden alcanzar ese comocimiento. Unicamente las castas superiores, los brahmines y los krashytas podían aspi-
+
+[p. 137]
+
+rar a la verdad. Tal creencia, apoyadia en conveniencias políticas, hacía que el régimen de castas se mantuviera con un rigor renovado. Una infinidad de creyentes abandonaban el mundo, la familia y los bienes, para vivir como mendigos en los basques o en las aldeas y las caminos, pero sin estar sujetos a ninguna regla colectiva. Estos solitarios brahmánicos se llamaban sanyasines y formaban ejército, junto con los ascetas yogas y los creyentes libres de un sinmúmero de sectas. La más amplia libertad de pensar juntaba a todos en discusiones que tenían como sitio los bosques, las salas públicas y los palacios de los reyes. La preocupación de lo transcendental llenaba todas las almas.
+
+### 10.—Purva Mimanza.—Exégesis anterior.—Escuela práctica de Gaimini.—El Dharma.—El deber religioso como medio de salvación
+
+La sistematización de los diversos preceptos contenidos en la doctrina védica recibe el nombre de Mimanza, exégesis. Las palabras Purva-Mimanza quieren decir exégesis anterior y se emplean en relación con el nombre: Uttara Mimanza, exégesis posterior. Gaimini es el autor de la escuela anterior o Purva, y Badarayana es el autor de la Uttara Mimanza o posterior.
+
+Las palabras Purva y Uttara, anterior y posterior, no deben tomarse, sin embargo, en sentido de tiempo, sino de orden. Em efecto, parece que Gaimini redactó su
+
+[p. 138]
+
+exégesis amterior, después de que Badarayana habia recopilado en sus Brahma-Suttras el texto de la escuela ⟦Uttara Mimanza. Gaimini cita la obra de Badarayana,⟧ de quien tal vez fue contemporáneo. A pesar de eso, la denominación aplicada a la escuela de Gamini es apro piada, porque mientras Badarayana en sus Brahma-Suttras comenta los Upanishads, que son la tercera parte o parte final del Veda, Gaimini se ocupa en el comen. tario de Mantra y Brahmana, himnos y ritual y preceptos éticos.
+
+Comúnmente se aplica la denominación de Mimanza a la escuela de Gaimimi, mientras que la de Badarayana es más conocida con el nombre de escuela Vedanta.
+
+Del fundador de la escuela Mimanza, Jaimini o Gaimini, nada se sabe. Su obra consta en aforismos o Suttras, denominados Suttras de Gaimini, en número de cerca de 2.600. Los aforismos serían ininteligibles, afirman los doctos, sin el comentario.
+
+El comentarista más antiguo, Sabara Swami Bhatta, escribió la gran obra denominada Sabara-Bhasyka. Otro gran comentador posterior es Kumarilla Swami-Bhata, célebre por haber encabezado la cruzada de restauración ⟦ brahmánica que dió por resultado la extirpación del⟧ budismo en el país de su origen. Kumarilla fue anterior a Sankara y probablemente vivió por el siglo VIII.
+
+La versión generalmente usada en la actualidad es la que se contiene bajo el rubro de Darsna Jainini en el libro conocido con el nombre de Sarva-Darspna-Samgrana (traducción inglesa de Cowell y Gough).
+
+[p. 139]
+
+El sistema de Gaimini es un sistema ortodoxo, aún más apegado a la tradición brahmánica que el sistema vedántico. Gaimini acepta sin reserva la autoridad de los Vedas y se fija en aquella parte de los Vedas que es más antigua y venerada, una parte en cuya formación no han intervenido más que los sacerdotes. Podría sostenerse que la escuela de Jainini es una reacción de la casta brahmanica en contra de la especulación libre y generosa de los Upanishads; contra los comentarios más bien filosóficos que religiosos de la escuela Uttara ⟦• Vedanta.⟧
+
+También se dice que Gaimini, desengañado por la contradicción y vaguedad de los comentarios upanischádicos, se decidió a buscar la verdad, ya no mediante la especulación filosófica, sino par ei cumplimiento estricto de los deberes religiosos, como están impuestos en los sagrados Brahmanes.
+
+Dejando a un lado los problemas de la salvación por el conocimiento, etc., Gaimini se pregunta cuáles son los deberes, el Dharna. Y como pasa con toda escuela propiamente clerical, los deberes que preocupan a Gaimini no son las formas en que podemos emplear nuestra actividad para beneficio de los demás, sino la observancia de ritos y sacrificios eclesiásticos. La escuela de Gaimini es una escuela descaradamente frailuna; tan inmoral y tan absurda como la doctrina de ciertos preceptistas católicos, para quienes la salvación no depende de la buena conducta y de la luz divina, sino del poder oculto de rezos y sacramentos. Según estos jaimi-
+
+[p. 140]
+
+nistas, siervos de la letra, se puede ser un malvado, y, sin embargo, uno se salva si observa las prácticas que ellos predican, y a la inversa, sin observarlas, ni un santo se salva.
+
+Gaimini enseña cuales son las libros sagrados que merecen fe plena; los ritos y ceremonias que deben po nerse en práctica en el uso diario y en las ocasiones extraordinarias de la vida; las sacmficios que se deben ofrecer a la Divinidad; las palabras o sílabas místicas que es necesario emplear para obtener resultados; los himnos que deben cantarse; la manera de murmurar los conjuros, etc., etc.
+
+Todos los asuntos se discuten en la escuela Mimanza según fórmulas muy complicadas: se sienta la tesis, en seguida se discute el pro y el contra, se ilustra la discusión con ejemplos y, por fin, se da la conclusión con más aparato que rigor lógico.
+
+Una de las discusiones más importantes que emprende Gaimini es la relativa a probar el origen revelado, y por lo mismo divino, de la doctrina védica. Su opositor en la discusión señala el hecho de que así como el Ramayana es la obra de un poeta, de un hombre, ⟦Valmiki, así también los Upanishads se llaman Khata,⟧ Chandogya, etc., para indicar el nombre del autor que los compuso. A esto contesta Gaimini diciendo que esos nombres, son los de los sabios que han transmitido la doctrina, pero que la doctrina en su origen es revelada y eterna. Es eterna, porque las palabras de que consta son eternas, y así se llega a una discusión sobre la
+
+[p. 141]
+
+eternidad de la palabra, el Verbo. De aquí se pasa a discutir la eternidad del sonido.
+
+Después de contestar las objeciones que se hacen a la tesis de la eternidad del sonido, tales como que el sonido se desvanece después de promunciada la palabra, etc., Gaimini concluye: "que si el sonido no fuera eterno, no podría entenderse el sentido de las palabras un instante después que han sido pronunciadas; que el sonido es susceptible de ser percibido simultáneamente por distintas personas en distintos lugares; que es imposible aplicar al oído la función numérica; ejemplo: si diez veces seguidas repetimos la palabra ir, la palabra subsiste como tal; que el sonido es indestructible, porque no existe causa capaz de destruirlo; que el sonido no es una modificación del aire y, por lo mismo, no es un efecto, y que, además, hay en la escritura declaraciones expresas donde se afirma la eternidad del sonido."
+
+El profesor Ballantyne señala la semejanza de esta teoría sobre la eternidad del sonido con la teoría de la física moderna, según la cual podría sostenerse esa eternidad, en vista de que las vibraciones en que consiste el sonido subsisten en las ondas sonoras, y aunque estas ondas se propaguen indefinidamente en la atmósfera, siempre sería posible, para un oído muy fino, ir a descubrirlas en algún lugar del espacio. Un sonido, una vez que se produce, perdura en la atmósfera en ondulaciones y vibraciones eternas.
+
+Otro de los fines, si no el fin principal, de la escuela
+
+[p. 142]
+
+Mimanza es reconciliar las afirmaciones de los textos, particularmente aquellas afirmaciones que son oscuras o aparentemente absurdas, confarme los progresas de la filosofía. La escuela Mimanza representa un esfuerzo para modernizar y salvar de la ruinz el antiguo ritual y el sistema de los Brahmanes; quizás eso explica que a pesar de su poco valor filosófico, su doctrina figura entre los seis sistemas principales del pensamien-⟦to indostánico.⟧
+
+### ESCUELA SAMKYA
+
+⟦KAPILA.—EL SAMKYA KARIKA.—EL TATTVA-SAMASA.—LA⟧
+
+⟦PURUSHA Y EL PAKRITI.—DUALISMO FUNDAMENTAL.⟧
+
+Después de los Upamishads y de la escuela Vedanta, que se deriva dinectamente de dichos libros, la más antigua de las filosofías indostánicas es la que se conoce ⟦con el nombre de Samkya. El Upanishad Svetasvatara⟧ menciona la filosofía Samkya, y en el Bahgavad-Gita se cita la filosofía Samkya y la escuela Samkya. Kapila es el filósofo fundador de la escuela, pero nada se sabe de su biografía ni de su época. Sucede con casi todas las ideas indostánicas que, en realidad, son una cosa ambiente, y no es fácil atribuirlas a un autor determinado: así también el nombre de Kapila sirve para cubrir un sistema de pensamiento.
+
+El texto más moderno de la doctrina, es el conocido con el nombre de Samilya-Suttras: Sentencias o 'Afo-
+
+[p. 143]
+
+rismos de kapila. En todos los seis sistemas, dice Max Müller, los textos que se presentan con el nombre de Suttras son los más recientes, pues el nombre es relativamente moderno. Los Suttras de la escuela Samkya son muy modernos, quizás fueron compuestos en el siglo XIV de muestra Era. Aunque en un principio se creyó en la gran antigüedad de estos Suttras los estudios de Fitz Edward Hall han demostrado que no se les menciona en los textos antiguos, que se refieren a los Samkyas, y en cambio se mencionan otras coleccio nes de la doctrina Samkya, por lo que los Suttras, en este caso, como en el de otras escuelas, deben ser recopilación relativamente reciente.
+
+⟦El Samkya-Tattva-Kaumadi, otro texto Samkya de⟧ por el siglo XII de nuestra Era, todavía no menciona ⟦los suttras:⟧
+
+El Samkya-Karika es el nombre de otro texto cuya antigüedad está bien establecida y que muchas veces es citado como antecedente, en los Suttras de Samkya. El Samkya Karika ha sido, durante mucho tiempo, el texto clásico de la escuela Samkya; contiene setenta ver-⟦sículos atribuídos a Isvara-Krishna. Alberuni, un via-⟧ jero italiano del siglo XI, menciona el Samkya-Karika. En la tradición china se relata que desde el siglo VI de muestra Era, ya eran conocidas las traducciones chinas de la misma obra. La tradición indostánica asegura que ⟦ el libro, en realidad, procede del siglo. I de nuestra Era.⟧ Gaudapada es el autor de uno de los comentarios más ⟦célebres, del Samkya-Karika.⟧
+
+[p. 144]
+
+⟦El Tattvo-samasa es otro texto samkya, que en opi-⟧ nión de Müller (I), es el más antiguo, y que, en este caso, sería el texto, o más bien dicho, la colección de sentencias, en que se conservó la doctrina durante el período larguísimo que media entre el fin del período ⟦Upanishad y la redacción del Karika. Ballantyne (Brief⟧ of the Samkya) explica que este texto era tenido en Benares por el texto clásico.
+
+Las doctrinas contenidas en los Aforismos de Kapila y sus comentarios, som como sigue:
+
+En el primer libro, de los cinco que componen el vo lumen, se trata de la manera de librarnos del dolor. Se afirma que el mal no es inevitable. Analízanse las carsas de la esclavitud del alma, el tiempo, que la limita en su existencia, el espacio y las demás circunstancias que la hacen condicionada. Pero en realidad, ninguno de estas hechos es decisivo para la sumisión del espíritu, que por su naturaleza es absoluto. Tampoco las obras esclavizan nocesariamente al espíritu. La maturaleza misma puede no afectante, pues el alma sólo es susceptible a sus influencias, cuando está ligada con ella, pero no cuando logra libertarse. Los vedantas afirman que el alma se hace esclava a causa de la ignorancia, pero esto no puede ser, puesto que la ignorancia no es una condición positiva. Los vedantas mismos no pueden admitir que la ignorancia sea una realidad, ya que ellos sólo reconocen la realidad única del atman. Ahora bien, continúa discurriendo Kapila, si la ignorancia no
+
+⟦(1) Véase Max Muller: «The Six Systems of Indian Philosophy.•⟧
+
+[p. 145]
+
+puede tener realidad intrínseca, tampoco puede decirse que tenga existencia momentánea, los términos real y momentáneo son contradictorios. Si algo real fuose a la vez momentáneo, la relación de causa a efecto dejaría de existir, ponque un producto no puede venir de algo que ha desapanecido; el efecto no puede sobrevi vir a su causa substancial. Tan luego como el antecedente o la causa se ausentan, el consecuente o producto hácese incapaz de existir; para subsistir, tiene que conservarse inherente en la causa, tiene que ser substancialmente idéntico a ella, aunque en la forma sea distinto. (Nótese la semejanza de este concepto de la callsalidad con nuestras teorías modernas sobre la conservación de la energia, que es lo que Kaptila llamaba identidad de sustancia entre el antecedente y su producto.)
+
+Si por lo mismo, agrega Kapila, se insiste en que sólo el pensamiento existe y todo lo demás es falso, el mal y la sumisión no tienen causa, lo que es inadmisible. Por el contrario, la intuición nos da pruebas, tanto de la realidad del yo, como de la realidad de lo externo.
+
+Debemos, pues, admitir que la realidad es no sólo pensamiento, sino también subtancia.
+
+Negar lo externo es lo mismo que afirmar el nihilismo. Y el mihilismo es atacable por las mismas razones que hemos empleado contra las realidades que sólo tuvieran una existencia momentánea y contra todas las toorías exclusivamente idealistas; para los nihilistas que las sostienen, el fin supremo del alma, su sumum bonum es el mero vacio.
+
+[p. 146]
+
+Pero el fin del alma no es el aniquilamiento. El alma debe su limitación y esclavitud al movimiento, pero el movimiento no es inherente en ella, sino que lo toma cuando se junta al pakritz. El alma en sí es ilimitada e inmóvil. Tampoco depende la esclavitud del alma, de sus obras o faltas, pues si así fuese, jamás podría li. bertarse totalmente, (ya que el becho es algo que no puede desaparecer por completo).
+
+La esclavitud del alma, en realidad, depende del error. El error consiste en no distinguir la diferencia que hay entre el alma y la materia. Este error sólo se corrije con la verdad, es decir, concibiendo a la naturaleza como distinta del alma. Tal es la base de todas las demás distinciones. La sumisión del alma es meramente verbal. La verdad de su existencia independiente de la materia, debe ser percibida directamente. Sin embargo, no es ella una verdad, que podamos probar por testimonios humanos, sino sólo por inferencias, como infe rimos la existencia del fuego cuando miramos el humo.
+
+Sin desconocer el valor de la revelación, enseña Kapila que el método de inferencias es el más adecuado para descubrir la naturaleza de las cosas imperceptibles para los sentidos.
+
+En seguida muestra el orden de las cosas de la creación. Reconoce veinticinco realidades, a saber: Primero, la naturaleza (pakriti), que es un estado de equilibrio de tres elementos: bondad (sattva), rayas o pasio nes y tamas u obscuridad. De la naturaleza se deriva la mente (mahat) y de esa gran conciencia o mahat, la
+
+[p. 147]
+
+conciencia individual (ahankara); de esta última vienen los cinco elementos sutiles que corresponden a los cinco sentidos: vista, oido, etc.; (tan-matras) (la forma ideal, la idea de elementos materiales,) y dos series de órganos (indriyas) (una serie interna y la otra externa, que vendrian a corresponder, la primera, a las ramificaciones del sistema nervioso, y la segunda a los miem. bros del cuerpo). De los elementos sutiles internos se derivam los elementos materiales: éter, aire, fuego. agua, tierra, todos ellos llamados buthas, y, por último. aparece la purusha o el alma individual.
+
+Analizando estas realidades por el sistema de inferencias, Kapila deduce la existencia de lo imperceptible por inferencia de lo sensible. Así, por ejemplo, de la existencia de los órgamos de los sentidos, se deduce la existencia del yo consciente, del cual los órganos sensorios son productos; y de la existencia del yo consciente, se deduoe la existencia del intelecto o mente (budhi), por un procedimiento semejante, aunque inverso, del cógito ergo sum, de Descartes. Asimismo, de la existencia del intelecto se desprende la existencia de la naturaleza, que es la causa de todos nuestros afectos, la provocadora de todos nuestros deseos.
+
+Las combinaciones diversas de los elementos naturales son una prueba de la existencia del alma, pues to das ellas no pueden haber sido hechas sino para el alma inteligente, y no para la naturaleza misma, ni para alguno de sus productos, pues ella y todos sus productos son ininteligentes.
+
+[p. 148]
+
+La naturaleza es eterna, porque en su raíz carece de causa; tanto ella como el alma son originariamente increados y existen desde la eternidad.
+
+La teoría del agente primer nóvil, es una simple regresión del problema al infinito, pues constantemente habría que buscar la causa de ese primer agente. La naturaleza es una sustancia que siempre ha existido. Esta sustancia no está compuesta de átamos, porque los átomos son limitados, y lo que es limitada no podría ser la sustancia de todas las cosas. La naturaleza es una sustancia plástica, dotada de realidad. No hay que confundir esta sustancia con la nada, mi con la acción o la potencia. La naturaleza ha de ser concebida como sustancia eterna, y la liberación del alma se ve rifica, cuando discierne la diferencia que hay entre esa sustancia y el espiritu.
+
+Otras escuelas han intentado alcanzar la liberación par otros medios, por ejemplo, el del dolor, purgando nuestras culpas con el sufrimiento. Pero el dolor, en mealidad, sólo puede producir dolor, y no redención; todo lo que se realiza en abras es transitorio, y carece de influencia sobre el fin último del alma.
+
+Examina en seguida el filósofo, las tres clases de pruebas que sirven para demostrar una aserción: petcepción, reconocimiento de signos que prueban algo (inferencia ya citada) y testimonio. El empleo de la percepción está limitado a los fenómenos externos. No acepta como percepción válida, la que practican las yo guis sin servirse de los sentidos externos, pero si reco
+
+[p. 149]
+
+noo el valor de la percepción mística realizada bajo la influencia de la exaltación religiosa.
+
+Durante la discusión de la teoría de la prueba, examina la probabilidad de la existencia del Dios personal, de /suara y afirma que no puede probarse su exis-⟦tencia.⟧
+
+Después de una breve discusión que trata de probar su tesis agnóstica, afirma Kapila que: "El alma no obra sobre la naturaleza con el poder de su voluntad, sino como el imán sobre el hierro, por influencia de proximidad." La naturaleza también se rige en todos sus cambios como el imán y el hierro, por contigüidad, y no por voluntad o intención.
+
+De la unión o aproximación del alma primera a la naturaleza, ha nacido toda lo que llantamos areación, y el sentido verdadero de esa creación es semejante a la influencia del imán sobre el hierro, todo en ella obedece a influencias de contigüidad.
+
+En el alma operan: "el principio de la acción, que es aparente, y el principio inactivo, que es lo real de su naturaleza." "Porque el alma se convierte en agente, sólo en presencia de la naturaleza, y cuando se ⟦acerca a ella, pero no cuando atiende a sí misma" La na-.⟧ turaleza afecta al alma en la forma de un órgano interno.
+
+En seguida define Kapila la inferencia y el testimonio válido, y discute la existencia del alma y la de la naturaleza, por medio de argumentos fundados en la analogía. El alma, dice, se aplica a sí misma los esta- |
+
+[p. 150]
+
+dos que observa en la naturaleza, pero en realidad, ella no es ni agente, ni paciente en esos estados. EI verdadero estado del alma es aquel en que discierne la verdad, es decir, cuando percibe a la naturaleza y al espíritu en todas sus cualidades características.
+
+Discute también las teorías que otras escuelas han propuesto, para explicar la naturaleza, y en el curso de esta discusión, afirma que: "la existencia del alma no se prueba par inferencias, ni por ningún otro medio indireoto, sino simplemente afirmándola, Y tada el que no la admite, ignora la que dice, pues solamente son discutibles sus cualidades, pero no su existencia."
+
+El espíritu, repite, es algo de la materia, el alma no es material, puesto que para ella se ha hecho el complejo funcionamiento de la naturaleza; para ella, que es la única que puede juzgarlo. El alma es el principio experimentador de la naturaleza, pero su liberación no ha de buscarla el alma en la naturaleza. El alma no tiene cualidades, ni siquiera la inteligencia, que es uno de los atributos, pues el alma, en realidad, no es ni inteligente ni ininteligente.
+
+Combate Kapila la afirmación vedántica que dice: "el alma es solamente la unidad". De la multiplicidad que vemos por doquiera en la creación, ha de deducirse que las almas también son múltiples. Cuando la esoritura védica habla del alma como Uno, esta unidad debe entenderse en sentido gerérioo, como el espiritu multiplicado en una infinidad de almas.
+
+El dualismo de espíritu y materia hace compatible
+
+[p. 151]
+
+la determinación relativa de nuestras acciones. con nuestro libre albedrio. Al concebir como distintas el alma y la materia, comprendemos que la sumisión que la segunda impone al alma, es tan sólo aparente y causada por su confusión con el pakriti o materia.
+
+Tal como han sido las cosas, así seguirán siendo; el flujo universal ha de correr eternamente. El número de las almas es infinito, y aunque en grupos sucesivos logren muchas la liberación, siempre quedarán otras por tibertar y munca habrá un brusco fin de las cosas del mundo.
+
+Pero la verdadera condición propia del alma es la Ibentad constante y su final indiferencia por el placer y el dolor.
+
+La escuela Samkya dió origen a una infinidad de sectas, en su mayor parte filasóficas. Los autores han discutido mucho acerca de si la escuela Samkya es o no ortodoxa, y Max Müller se inclina a suponer que no es propiamente ni una ni otra cosa. La escuela Samkya es una elucubración libre, pero no rechaza el testimonio de los Vedas, antes, al contrario, muchas veces se funda en ese testimonio.
+
+Puede afirmarse que los Samkyas, o más bien dicho, que Kapila fué el primer filósofo que con ⟦espíritu puramente racionalista se puso a interpretar el mun-⟧
+
+do, conforme al saber de su tiempo. Y ese saber de su
+
+[p. 152]
+
+tiempo estaba constituído por la tradición upanishádica, con todas las ideas que son en ella comunes: inmortalidad, identidad del Atman y Brahma, la influencia de las tres gunas, etc., etc. Kapila se funda en la evidencia del mundo exterior para negar el monismo radical de los vedantistas; por eso también, para explicar el mundo exterior, crea la ficción del pakriti, del éter, independiente de Brahma, y como Brahma, exis tente desde toda eternidad e indestructible. Casi todas las variantes que el sistema de Kapila contiene, se derivan de este dualismo, contradictorio de la unidad ve-⟦dántica.⟧
+
+La purusha existe desde el principio, como pluralidad; la purusha es el sujeto cognoscente desembarazado de todo lo que es objetivo. Patriki es todo lo que no es sujeta, todo lo objetivo, ya sea que aún perma-⟦nezca latente (avyaktam), o que ya esté realizado (vyak-⟧ tam). La purusha y el pakriti se han unido desde la eternidad, y esa unión parece irremediable; pero romaper esa unión es conseguir la libertad.
+
+Una vez que la purusha deja de reflejar los sufrimientos del pakditi, los sufrimientos de todo mi ⟦cuerpo mortal, esos sufrimientos desaparecen; desapare-⟧ cen porque ya no tienen pakriti que los refleje. En el instante de la liberación, la purusha no cambia de naturaleza: "no es la purusha, sino el pakriti lo que se suelta y se liberta".
+
+El prooeso de la liberación es individual. Desde el principio existen una infinidad de purushas; algunas
+
+[p. 153]
+
+conquistam el conocimiento, otras no pueden tograrlo. El pakriti unido a las primeras se liberta con ellas; pero el que está unido a purushas imperfectas, con ellas permanece irredimido. A cada purusha sigite su ⟦parte de pakriti, su lingam-cuerpo. El pakriti se⟧ exhibe ante la purusha, con el objeto de obligarla a reconocer su diferencia, y de esta suerte favorecer la liberación que a ambos conviene.
+
+La purusho es el yo cognoscente, y nada más; pero las purushas se distinguen unas de otras por el lingam o cuerpo.
+
+Este cuerpo está formado por las gunas o factores siguientes: sattva, rayas y tammas: inteligencia, voluntad y materia inerte. La diversidad de los lingam depende de las distintas combinaciones de estos tres ⟦factones.⟧
+
+Cada vida individual es una nueva ostentación del pakriti frente a la purusha, ostentación que se expresa en el lingam o cuerpo. De las tammas o elementos materiales del cuenpo, nacen, siempre nuevos, los elementos--bhutas-elementos burdos: éter, viento, fuego, agua y tierra. Y así como cada purusha tiene. su propio lingam, así posee también su correspondiente mundo material. A causa de que las almas liberadas ya no pasen lingam, el pakriti ya no desenvuelve ante ellas su mutalidad, y por lo mismo, el mundo materiai les desaparece.
+
+Tres son las principios fundamentales de los Sam-⟦kyas: purusha, pakriti y mahan o budhi: alma, sus-⟧
+
+[p. 154]
+
+tancia, intelecto, que corresponde a los tres conceptos: I. El ser primitivo que se desarrolla partiendo de si masmo. 2. La materia primordial, con la cual se mezcla el purusha, fracciomándose y dando nacimiento a las airmas individuales. 3. Las almas individuales, mahan o budhis intelectos, rodeados de un cuerpo sutil o lingam, que es particula del pakriti original.
+
+La liberación es romper esta liga, y volver a purusho inmaculado, que rehusaría mezclarse con la pakriti, después de la experiencia desastrosa de su multiplicación?... Pero eso sería volver a comenzar, porque ¿ qué haría la paloriti sola, y cómo se conformaría la purusha con no ser Todo? La solución la indica el mismo Kapila cuando habla de que el alma, o la purusha individual, al libertarse se bleva también consigo algo del pakriti, que se ostenta amoroso delante de si. El alma que arrastra a parriti como con fuerza de imón. Esto es una liberación sintética, una liberación estética. Liberación que conduciría, al fin de los tiempos, a una nueva coexistencia de purusha y pakriti, a una nueva armonía de lo uno y lo múltiple. En fin, y esto sólo lo miramos claro los modernos y sólo en nuestros ⟦tiempos se puede formular: La síntesis sólo puede realizar-⟧ se mediante la percepción estética; la unidad estética de lo uno y lo múltiple.
+
+Las notas de los párrafos anteriores están tomadas de los Aforismos y del Samkya-Karika, traducción de Garbe. Para el estudio del Tattva, samasa, seguimos el . extracto de Max Müller.
+
+[p. 155]
+
+Un Brahmán llega a consultar al gran Rishi—maestro - Kapiila, proponiéndole las preguntas del caso:
+
+¿Qué es lo más alto de este mundo? ¿ Qué es la verdad?
+
+¿Qué debo hacer para salvarme? Kapila promete decrlo, y expone las tópicos de su disertación, en núme ro de veinticinco; a saber:
+
+## LISTA DE VEINTICINCO TATTVAS
+
+1.—Los ocho pakritis. elementos primarios-, como sigue: a, pakriti como avyatka, el principio no diferenciado; b, budhi, el intelecto; c, ahamkara, el sujeto; d, e, f, g, las cinco tammattras (esencias): sonido, tacto, olor, color, sabor.
+
+2.-Las dieciseis Vikaras modificaciones—, como sigue: cinco Buddhindriyas, órganos perceptivos; cinco
+
+Karmendriyas, órganos activos; Manas, órgano central o mente; cinco Mahabhutas (elementos materiales).
+
+3.—La purusha (el espíritu, el yo).
+
+Tales son las veinticinco tattvas o asuntos; las tópicos del libro siguen en el orden que en seguida se expresa:
+
+⟦4.—La Triagunya-triada de fuerzas.⟧
+
+⟦5.-Sankara—evolución.⟧
+
+⟦6.—Pratisankara—disolución.⟧
+
+7.—Adhyatma. Estas tres divisiones se refieren a los trece instrumentos, como Buhdi, Ahamkara, Manas y ⟦ las diez Indriyas.⟧
+
+⟦I0.—Las cinco Abhibudhis, aprehensiones, cinco⟧
+
+actos de Budhi o de las Indriyas.
+
+[p. 156]
+
+II.—Los cinco Karmayonis-fuentes de actividad.
+
+12.—Los cinco Vayus-vientos o espíritus vitales.
+
+13.—Avidya—conocimiento de cinco clases, con se senta y dos subdiviones.
+
+⟦15.—Asakti-debilidad—de veintiocho clases.⟧
+
+⟦16.-Tushti-contento de mueve clases.⟧
+
+17.- Siddhi-perfección-de ocho clases.
+
+⟦18.—Mulikarthas hechos cardinales-ocho.⟧
+
+⟦19.-Amigrahasarga creación benevalente.⟧
+
+20.—Bhutasarga-creación de elementos materialos, en número de catoroe.
+
+⟦21.—Bandha-esclavitud-de tres clases.⟧
+
+22.-Maksha liberación de tres clases.
+
+⟦23.-Pramana autoridad-tres.⟧
+
+⟦24.-Dukha dolor-de tres clasos.⟧
+
+Avyakta el principio no diferenciado, el caos primitivo, diríamos nosotros; los Samkyas lo declaran sin principio ni fin, carente de atributos y unas veces nos lo presentam como lo indestructible, otras como oscuridar, otras como principio productivo, etc.
+
+El Budhi es el entendimiento, la porción de pakriti que se elimina y se individualiza. En otros lugares se define como el elemento sutil que rodea a la purusta, la inteligencia, la razón. El Budhi tiene ocho mamifestaciones que se resumen en estas cuatro siguientes:
+
+Dharma-virtud, que es lo opuesto de adharma, vicio, y nos es ordenada e impuesta por la tradición, por la revelación, como se contiene en los Vedas.
+
+Gnana, o conocimiento, lo opuesto de Agnana, o igna
+
+[p. 157]
+
+rancia, y consiste en conocer los tattvas o asuntos, los estados de la mente o Bhava y los elementos: Buhta.
+
+Vaigagya, desapasionamiento, que es do opuesto a la pasión, y consiste en no atender a la influencia de las
+
+cosas externas.
+
+Aisvarya, poder sobrehumano, lo opuesto a la impo tencia y se compone de ocho cualidades tales como animan, extrema pequeñez, capacidad de asumir poco peso,
+
+o tamaño, etc.
+
+En las variedades de este poder sobrehumano del intelecto, o de la persomalidad especial que constituye el Budhi, se fundó después la escuela yoga, para establecer sus prácticas, que tienden a desarrollar estas facultades extraordinarias.
+
+Ahamkara es el sujeto en presencia del objeto, como algo claramente diferenciado de él, y dotado de acción.
+
+⟦Ahamkara es el "principium individuationis" de Scho-⟧
+
+penhattr. —Es el principio individual bajo el dominio de las gunas, dice Müller, y ya no como potencia cósmica,
+
+sino como agente moral.
+
+Las tanmattras o sustancias se explican ⟦suficientomente en el cuadro; lo mismo las Vykaras u organos⟧
+
+y elementos.
+
+⟦Las budhindriyas, son: el oído, los ojos, etc. Las⟧
+
+Kamendriyas u órganos de acción son los pies, manos,
+
+generación, etc.
+
+## Manas.—mente, perceptiva y activa.—
+
+Mahabuthas son los elementos: aire, tierra, luz, etc.
+
+⟦Purusha.—Sinónimos de Purusha, son Atman, ego.—⟧
+
+[p. 158]
+
+, La purusha no tiene principio, es sutil, amnisciente, capaz de percibir, sin cualidades, eterna, vidente, sin mancha, improductiva. Purusha quiere decir antigua y que dirige al cuerpo.
+
+Purusha pareoe ser un equivalente de Brahma, y pro bablemente al principio significaba el yo íntimo, el alma, y después llegó a significar Brahma, el dios externo.— Según Müller, lo que caracteriza a la escuela Smakya . es la afirmación de la pluralidad de la purusha.
+
+Los Samkyas, deben haber partido de la introspección, del ego, para después afirmar dioe terminantemente, en algún suttra, que la conciencia, la purusha, el ego, es la verdad primordial, el dato inmediato que sirve de base a todas los demas.—Pero la que no parece en todo el sistema Samkya es el concepto de un Dios o de una purusha Absoluta; persisten siempre en su pluralismo irremediabie, el pluralismo de las purushas. Enfrente de estas purushas está la otra masa eterna de pakriti. Las purushas son como las mó-⟦nadas leibnizianas, y pakriti es el éter, la nebulosa pri-⟧ ⟦mitiva.⟧
+
+La purusha no tiene cualidades ni acción; así, pues. todo lo que en nosotros es movimiento depende, no de la purusha, no del alma, sino de los elementos que formam el cuerpo, de las partes en que se subdivide pakriti; dependen, en fin, de las Gunas, o sea de la triada de las fuerzas. Esta tesis se confirma en el Bha- ⟦gavad—-Gita cuando Krishan dice: II, 27.—'Las accio⟧ nos dependen de las cualidades o gunas del pakriri,
+
+[p. 159]
+
+en distintas maneras; pero el ego, el atman, engañado por el orgullo del ahamkara-(sujeto, aquí se traduce como egoísmo)—, se imagina que el yo es el agente". Para entender bien estos pasajes debe tenerse presente que los hindús no establecen la distinción marcarla y precisa que nosotras acostumbramos hacer en das partes: alma y cuerpo, sino que distinguen, además del atman, que es el alma propiamente dicha, sin aleaciones con la materia el ahamkara, o cuerpo sutil, que es un yo inmaterial, pero ya contaminado con los intereses y las influencias de la materia o pakriti.
+
+El mismo Bhagavad-Gita, dice, refiriéndose a la aoción XIII, 29: "Acierta sin duda alguna, el que mira las acaiones como la obra exclusiva de Pakriti; mientras el ego, el yo íntimo, permanece inmóvil; jamás es agente".
+
+Finalmente, para las discípulos de la escuela vedántica, la purusha es una, inmortal y eterna; pero, como ya lo hemos dicho, los samkyas afirman su pluralidad, se atienen a la evidencia de sus sentidos, la cual les señala, el dolor, el placer, la muerte, por doquiera, el cambio.
+
+Las Gunas. Las trigunas.—Se llaman: Sattva, que quiere decir: virtud, pureza, bondad; Ragas o rayás, que quiere decir: oscuridad, ignorancia. Las gunas se toman aquí como elementos materiales, cualitativos, de la purusha, y de los cuales dependen sus acciones. Las gunas representan también los tres lados de toda cuestión. Según Max Müller vendrían a equivaler a la
+
+[p. 160]
+
+J O S a n
+
+tesis, la antitesis y la síntesis de la filosofía hegeliana.
+
+⟦Sankara y Pratisankara.—Samkara es la evolución,⟧ Pratisankara la disolución o reinvolución. La evolu-⟦ción se opera como sigue: Del avyakta (pakriti amor-⟧ fo) prooede, por la influencia de purusha, el entendimiento Budini. De este Budhi, sustancia del intelecto, ⟦prooede el ahamkara, el yo subjetivo. El Ahamkara se⟧ modifica bajo la influencia de las sattvas, luz, y de las rayas, voluntad, y de los Budhi o elementos primarios; y de estas modificaciones proceden los elementos matériales, los órganos sensorios, etc.
+
+La Pratisankara o disolución se produce en esta forma:
+
+Los elementos materiales se disuelven en las esencias, las esencias y los sentidos en ahamkara, el ahamkara en el budhi o intelecto y el intelecto en avyakta, la materia amoría.
+
+El impulso que determina la evolución es el desequilibrio de las tres gunas.—
+
+Butha-sarga.—La creación divina consta de ocho clases de seres, entre los cuales se comprenden buenos y malos espíritus, tales comos Pisakas, Rakshas, Kas-⟦kyas, Indra, Pragapati y Brahma. La creación tripar-⟧ ⟦ tita comprende dioses, hombres y animales. (Nótese⟧ amalogía con la Cabala hebrea y la creencia cristiana en jerarquías como las de ángelos, arcángeles, etc.)
+
+Moksha.—Moksha quiere decir liberación; equivale a Nirvana en el sentido de que tambien es liberación.— La liberación es de tres clases: la que procede de all-15
+
+[p. 161]
+
+mento del conocimiento; la que procede de aquietamiento de las pasiomes; la que procede de destrucción del conjunto. Del aumento del saber y el aquietamiento de las pasionos, procede la indiferencia al mérito y al demérito, y de la destruoción del mérito y el demérito procede el desprendimiento completo del mundo y la concentración de la purusha en sí misma.—.
+
+Quien de esta suarte, conoce y practica la filosofía contenida en el Tattva-samasa, ya no vuelve a na-⟦cer.-⟧
+
+Segúm parece, el verdadero Nirvana, en el sentido del aniquilamiento absaluto, es el que se predica en esta escuela Samkya.—Kapila no lo llama, sin embargo, Nirvana ni lo define. La definición de Nirvana y la elección del término, son más bien desarrollos que se encuentran en la doctrina budista. Para Kapila la liberación, el Kavalya, consistía en la reconcentración del yo, y en su soledad y apartamiento de toda cosa.
+
+DANZA DE LA PAKRITI FRENTE A LA PURUSHA
+
+Para concluír la exposición de la escuela Samkya, transoribimos el siguiente bellísimo pasaje del Samkya-Karika, que contiene en síntesis lai doctrina:
+
+5962.—"Como la danzarina que cesa de bailar después de, exhibirse en la escena, así pakriti oesa, una vez que se ha manifestado a la purusha.—
+
+Pakriti sirve a purusha en distintas formas, y ésta nada le da en recompensa; pakriti es noble y sólo
+
+[p. 162]
+
+piensa en el bienestar de quien así se muestra ingrato.—
+
+Nada hay más modesto que pakriti, que no se expone otra vez a las vista de purusha, sabe que ya ha sido vista.
+
+Ninguna purusha está realmente encadenada, ni se pome a vagar: sólo pakriti, encadenada como se halla a las distintas purushas, anda errante de nacimiento en nacimiento, unas veces sometida, otras libertada."
+
+Parece, observa Max Müller, que el único propósito de pakriti, al exhibirse ante la purusha, es darle ocasión de que se dibre de sus trabas.
+
+### LA ESCUELA DE LOS YOGUIS
+
+⟦FILOSOFÍA YOGUI. — PATANJALÍ—AFORISNOS DE PATAN-⟧ JALÍ—. EL YOGUISMO COMO DISCIPLINA O REGLA ASCÉTICA COMÚN A TODAS LAS ESCUELAS: VEDANIA, BUDISTA,
+
+## SAMKYA, ETC.
+
+⟦EL SAYANA Y LOS SIDHES.—EL SAMHADÍ O EXTASIS⟧
+
+El fundador de la filosofía Yogui es Patanjali, sabio legendario que, se cree escribió sus aforimos por e siglo primero de la Era, Cristiana. El libro principal de la escuela yogui se conoce con el nombre de Atorismos de Patanjalí. La principal influencia que se des cubre en estos aforismos es samkya. La metafísica de Patanjali es una metafísica derivada directamente de
+
+[p. 163]
+
+los Samkyas, del dualismo samkya. Pero al mismo tiempo la doctrina de Patanjali es una reacción contra las interpretaciones ateístas de la filosofía samkya. Patanjali acepta la mayor parte de los preceptos de Kapila; pero en el punto relativo a la divinidad, Patanjalí sostiene el más riguroso deísmo.
+
+La afirmación de un Dios personal, Isuara el Se-7709—, y las disciplinos a que es necesario someter el cuerpo, a fin de que se libre de las influencias materiales, a fin de que se desembarace de pakriti y se recon centre en su esencia, tales son las principales doctrinas de toda la escuela. Y estas mismas doctrinas separan al yoguismo, por una parte, de los Samkyas, cuya metafísica niega el Dios personal, y por la otra de Buda, que nunca puso mucha fe en la eficacia de las prácticas ascéticas, por lo menos en el ascetismo entendido de una manera rigurosa.
+
+Los antecedentes de da doctrina de Patanjalí se encuentran, como ya se ha indicado, en la filosofía samkya por lo que hace a ideas metafísicas, y en el acervo de la ideología, tradicional, en lo que se refiere a tea logía. Las prácticas ascéticas existían, como es natural, desde mucho antes que Patanjalí las sistematizara; y la idea de dioses personales, se encuentra sostenida en toda la mitalogía indostánica. Cuando se estudia ca los suttras de Patanjalí, cuál es la manera de purificas las acciones y de acercarse a la divinidad, no se puede menos de recordar pasajes completos, por ejemplo, del ⟦Bhagavad-Gita.⟧
+
+[p. 164]
+
+La doctrina yogui es, por la mismo, una doctrina de meras prácticas, una sistematización del ascetismo. Los samkyas, habían afirmado que el alma se emancupa mediante el conocimiento de sus relaciones con pakriti, y la filosofía yogui se dedica a explicar la forma en que debe procurarse esa emancipación, los pasos que se deben dar para la conquista del conocimiento.
+
+Para comprender las sentencias yoguis es necesario tener presente la terminología samkya:
+
+Yoga, dide Patanjalí, es refrenar la sustancia men tal, a fin de impedir que tome varias formas. Sólo de esta manera se puede lograr la concentración de la atención.
+
+Cuando se recomcentra la atención, la purusha se contempla a sí misma, en su estado propio. Cuando la atención no se halla así reconcentrada, la purusha, el sujeto vidente, se identifica con las modificaciones (de pakriti, los objetos). Por ejemplo: estoy triste, alguien me oulpa por ello; esta es una modificación; entonoos la forma-vittri-y el sujeto, nos identificamos con la ⟦purusha; y de alli resuita desdicha.⟧
+
+Hay cinco clases de modificaciones, unas dolorosas y otras no dolorosas, a saber: conocimienta exacto, falta de disoemimiento, falacia verbal, sueño y memoria; percepción dinecta, inferencia y prueba suficiente, todas estas últimas son pruebas.
+
+: La lucha continua para dominar las modificaciones se llama práctica. En ella nos hacemos fuertes, me
+
+[p. 165]
+
+diante el constante ejercicio y gran amor del fin que se persigue.
+
+Lo que vemos nosotros mismos y la experiencia de los demás, todo esto, acompañado de la práctica de refrenar las modificaciones, nos conduce a la cesación. del deseo, a la renunciación y al desprendimiento de lo que es ajeno a nuestro yo.
+
+El desprendimiento extremo, en el cual se renuncia, aun a las cualidades, nos muestra la verdadera naturaleza de la purusha.
+
+La reconcentración que nos conduce al conocimiento de la verdad ha de estar fundada en el disoernimiento y la razón, y por ella llegamos a la beatitud del yo incondicionado.
+
+Samhadi es este estado de reconcentración beatífica en nosotros mismos, y otra manera de lograrlo es la práctica constante de hacer cesar toda aatividad mental, a fin de que la sustancia del espíritu retenga sólo las impresiones inmanifiestas.
+
+Cuando el Samhadi, o el éxtasis, no se acompaña de desprendimiento extremo, entonoes la purusha vuelve a manifestarse en la forma de dioses, o en las formas de los que toravía están inmergidos en la naturaleza material.
+
+Otros conquistan este Samhadi mediante la fe, la energía, la reconcentración y el discernimiento de lo ⟦ TeaL⟧
+
+O bien se alcanza el Samhadi, mediante la ⟦devolución a Isvara. Isvara-el Jefe Supremo es una Pu-⟧
+
+[p. 166]
+
+rusha especial, a la que no afecta el resultado de las acciones y los deseos.
+
+En Isvara se hace infinito el conocimiento que, en todos los demás seres, es sólo germen.
+
+El es el maestro de los más antiguos maestros.
+
+Isvara se manifiesta en la partícula Om.
+
+Repetir Om y meditar su significado, ese es el camino.
+
+Así es como se obtiene conocimiento de la introspección y de la destrucción de los obstáculos.
+
+La enfermedad, la pereza mental, la duda, la calma, la percepción falsa, el no conseguir reconcentrar la atención o el no poder mantenerse en ese estado, tales son los obstáculos que distraen del Samhadi,-
+
+La pena, la inquietud, el temblar del cuerpo, la respiración irregular, son consecuencias de la no reconcentración.
+
+La amistad, la piedad, la alegría, da indiferencia respecto de los objetos buenos o malas, apaciguar lachitta-sustancia mental, esencia de la purusha.
+
+Prana quiere decir. energía. Esa energía, repartida en el mundo, se controla en nosotros mediante ade cuados ejercicios de la respiración.
+
+La concentración en un sólo abjeto; por ejemplo, ta punta de la nariz, hace que al cabo de unos días percibamos deliciosos aromas, y así los demás sentidos.
+
+La meditación reconoentrada en el Uno refulgente, produce el Samhadi. "Piénsese en él como la flor de loto del corazón, con los pétalos caídos, inhálese el viento y al expelerto piénsese en la misma flor, con los
+
+[p. 167]
+
+pétalos enderezados; imaginese que dentro de la flor de loto, hay una luz refulgente, piénsese en eso.—"
+
+Piénsese en el corazón que se ha desprendido de todos los abjetos sensibles.
+
+Meditese en el saber o conocimiento que se obtiene durante el sueño. O en algo que nos parece Dios.
+
+La mente del yogui, que así medita, pasa sin obstáculos, desde lo atómico, hasta lo infinito.
+
+Se hace como cristal que recibe y refleja en si todo Lo que existe.
+
+La ignorancia consiste en tomar lo impuro, perecedero y dolorosco e inexistente, por la eterno, puro, feliz y existente per sé, el alman o yo.
+
+El que comprende la renunciación, logra un vislumbre del más allá. Las penas que todavía no llegan, pueden ser prevenidas: la parte del Karma que todavía no se produoe, nuestro Karma futuro, puede ser prevenido. Todas las distintas reenaciones o samsaras, que son una consecuencia fatal de muestras acciones, de nuestro Karma, pueden ser evitadas, si, por medio de ordos de energía psíquica, controlamos y desviamos ese Karma.
+
+El yogui debe renunciar al amor sexual; el alma no tiene sexo. Recibir algo de otro es tan malo como robar.—El yogui no recibirá dádivas.
+
+No matar sér alguno, es regla que cumplida fielmente, librará al yogui de toda clase de enemistades.
+
+La verdad asegura et fruto de las obras, la continencia produoe extraordimaria energía mental.
+
+[p. 168]
+
+El alma libre y poderasa del yogui se hace capaz de recordai los sucesos de sus vidas anteriores.
+
+El asoo interno y externo producirá disgusto del cuerpo. El rostro más hermoso parecerá al yogui la faz de una bestia, si detrás no brilla el espíritu.
+
+Las mortificaciones destruyen la impureza y dereelven su poder a los órganos y al cuerpo. Así se logra, por ejemplo, la visión a distancia, etc., etc.
+
+Sacrificándolo todo a Isvara, se logra el Samhari.
+
+Asana es la postura firme y cómoda necesaria para la meditación.
+
+Sabemos que se ha logrado la reconcentración del. Samhadi cuando sentimos que el tiempo se ha desvamecido, cuando el pasado y el presente se hacen uno. Samyana es la identificación del sujeto con la impresión interna del objeto. Mediante el Samyana, un yogui puede saber el pasado y el futuro y leer en la mente de otra persona.
+
+Cuando el yogui hace el samyana, y se identifica con un elefante, el yogui adquiere la fuerza de ese elefante.
+
+El yogui puede entrar a un cuerpo muerto y hacerlo levantar, o bien puede operar sobre un cuerpo vivo controlando a su voluntad. Hace un Samyana con esas cuerpos, porque su alma es parte de la mente universal. Comúnmente el alma sólo puede funcionar me diante las corrientes nerviosas de su cuerpo; pero cuando se desata de esas corrientes nerviosas, se hace capaz de abrar sobre otras cosas.
+
+[p. 169]
+
+Udana es el nombre de la corriente nerviosa que gobierna los pulmones y las partes superiores del cuerpo. Cuando el yogui domina esta corriente se hace ligero y sin peso, no puede sumergirse en el agua, andará sobre espinas o sobre hojas de acero afilado, a sobre el fuego, etc., etc.
+
+Si controla la corriente, Samyana se verá rodeado de fulgor y podrá lanzar ravos de su cuerpo.
+
+Haciendo Samyana, identidad, con el Akasa o éter, escucharó toda cosa.
+
+Si hace Samyana con el Akasa de su cuerpo, el yogui se hará ligero y podrá trasportarse a su antojo en el aire. Así puede el yogui conquistar todos los elementos.
+
+Cuando el yogui ha conquistado todos estos poderes, y ha remanciado a ellos, entonces alcanza el Kaivalya, un estado que se encuentra más allá de la mente misma.
+
+Los Siddhis son facultados o poderes y algunas vedes se obtieren por nacimiento, a causa de que en otra ⟦vida ya se habiar practicado. Kapila era un Siddhi⟧ nato. Otros alcanzan estas poderes por medio de las mortificaciones, por medio de la reconcentración de la atención, como ya se ha dicho, y también según algu. nas sectas, por medios físicas, tales como drogas ý el poder de ciertas palabras.
+
+La secta de los Rayasanas se dedica a fortalecer y perfeccionar el cuerpo. Algunos de sus adeherentes han vivido varias siglos.
+
+Hay ciertas patabras sagradas llamadas Mantras que
+
+[p. 170]
+
+si son eminciadas en condiciones a propósito, producen extraordinarios efectos.
+
+El pasado y el porverir existen conforme a su propia naturaleza. Están en estado manifiesto o sutil, pues son de la naturalza de las gunas.
+
+Las Gunas son las tres sustancias: Sativas, Rayas, y Tamas cuyo estado tosco produoe el universo sensible.
+
+La mente carece de luz propia. La mente no es capaz de percibir dos cosas a un tiempo; la Purusha lo concibe todo en el mismo instante.
+
+La ciencia del yogui le permite domeñar las fuerzas naturales y ejecutar milagros; pero, en general, el yogui no abusa de estos poderes, pues prefiere emplear su energía en alcanzar la liberación de su alma, la Kaivalya, soledad y ensimismamiento. Patanjalí no insiste mucho en la consecución de los poderes físicos, aunque no los rechaza; pero más bien aconseja los ejercicios que tienden al desarrollo de los poderes espirituales de la conciencia.
+
+La purusha que alcanza la liberación plena, se sustrae el juego de patriti, la cual sigue tejiendo su interminable urdimbre de sucesos y formas, con el objeto de que las demás purushas lo aprovechen y se rediman. Y mientras existan espectadores, el juego de Pakriti no . terminará..
+
+[p. 171]
+
+Todo lo anterior es extracto de la dactrina contenida en los aforismos de la Patanjali, extracto tomado de los mismos aforismos y de los comentarios y exposiciones de Müller, Vivekamanda y de Ram Chandra Base.
+
+En realidad, la escuela Yogui, y la filosofía Yogui abarcan más que la dootrina de Patanjali. En generai, la filosofía yogui es una filosofía práctica que se propone llevar a ejecución los postulados de las distintas escuelas.
+
+Yogui quiere decir unión y uno de los propósitos capitales o el propósito capital del yogui, es verificar esa unión o comumión con el principio universal, según el concepto que de él han formulado las distintas escuelas. De tal suerte que cada credo religioso y cada escuela filosófico tiene su rama yogui, su disciplina especral para la consecución de su fin último. Los vedantistas no desdeñan al yogui, al contrario, saben apro vechar torta su experiencia para acercarse al fin supremo, de percibir la identidadt del atman y Brahma; los mismos Budistas practican ejercicios que pueden caer bajo la denominación general de yoguismo, pero por supuesto la naturaleza de estas ejercicios varía según el fin que se persigue: llegar a Brahma, conforme al verantismo, o a la soledad de la purusha libre con los samkyas, o al seno de Isvara según yogas de ⟦Patanjalí.⟧
+
+También bajo el nombre de yoguis se han clasificado siempre, no sólo las ascetas, sabios y solitarios,
+
+[p. 172]
+
+sino los fakires y taumaturgos, todos los ejecutores de prodigios de que nos ocuparemos en capitulo aparte. El número de sectas y de textos comprendidos en la denominación de yogui, es por lo mismo incontable, y en este sentido puede decirse que el yoguismo es un agregado necesario de toda doctrina transcendente, de toda religión que récomoce la necesidad de hacer esfuerzos para salvar el alma.
+
+Al mismo tiempo, minguna escuela ha sido tan desprestigiada por los charlatames y los embaucadores como la escuela yogui. De sus aberraciones, nos acuparemos de paso en el capítulo dedicado al Atharvar Veda y al ocultismo, pero de sus misterios procuraremos hablar tan hondamente como sea posible.
+
+### LOS PODERES DEL YOGUI, Y LA TEORÍA DEL VERBO
+
+La literatura yogui, que es enorme, está contenida en algunos Upanishads, poca conocidos en el Bhagavad-Gita y en los textos de ciencia oculta llamados Tamtras. Desde el punto de vista del método diremos que, la obra dásica para la exposición de la doctrina es la de Patanjali, pero todas las demás anteriormente citadas poseen importancia. La palabra Raya Yogui, quiere decir Yogui o doctrina de reyes, doctrina de fuertes porque se dirige a las almas enérgicas que están dispuestas a procurar por sí mismas su salvación. Un pensamiento fundamental de la doctrina yogui, parece ser, la afirmación de que hay correspon-
+
+[p. 173]
+
+⟦&t o i i n o n i o r⟧ dencia indudable entre los movimientos de la canciencia, los movimientos o ritmos del pensamiento y los ritmos de la naturaleza. Según esta filosofía cada cambão en el estado de la conciencia, produce una vibración simpática en la naturaleza. Como si la fuerza que llamamos valuntad, pudiera transmutarse, físicamente, en dinamismo exterior. Lo que los psicólogos modernos llaman exteriorización de la voluntad, parece ser un fenómeno reconocido y comprobado desde antiguo por las yoguis. Y esa exteriorización, pretenden haberla llevado a extremos que løs permiten ejercer in fluencia a distancia sabre los objetos y sobre los seres. En realidad, la tesis es muy honda. La tesis arranca de la teoría del verbo, el logos alejandrino. La teoría del Verbo, comocida en la India desde la primera época Upamishadica, o antes, predica que la creación es obra de la palabra divina, pero no ha de entenderse la palabra en su acepción gramatical, sino en el sentido del pensamiento divino, que al exteriorizarse, se traduce en formas y movimiento, crea las formas y el movimiento, y asi es como produce la creación: como una serie de cristalizaciones, o concreciones del pensamiento divino. Pero no estáticas como las ideas simplemente humanas, sino animadas, vivamente, por el ritmo divino. Y así coma nos dicen las más altas filosofías y casi todas las religiones, el alma es particula divina, entonoes, una vez que se acepte la teoría del "ogs", es preciso suponer, que también el alma humana tiene poder sobre la naturaleza externa, pader
+
+[p. 174]
+
+creador y poder regulador; poder modificador y poder de redención, toda clase de poderes, tal como lo sueñan las yoguis, y tail como lo afirma cada: conciencia, humana: Pues para todas nasotros lo asombraso y lo inexplicable es que estemos tan llenos de limitaciones, que no portamos volar, morir y renacer a nuestro antojo, ya que todo eso es tan fácil para el pensamiento, aunque imposible conforme a las torpes leyes de la naturaleza externa. Lo natural es sentimos eternos, lo absurda e inexplicable es la muerte. Lo natural es vencer el espacia y el tiempo, y la resistencia de los objetos y fundirse en toda cosa. Lo absurdo, lo imbécil, lo inexplicable es que el espacio nos limite, que el tiempo nos arrastre, y que el fuego nos queme, en vez de jugar, encendiéndonos en el matiz de sus flamas, como ⟦lo iiaría si fuésemos pura alma.⟧
+
+En el comfliato que resulta de lo que nuestra alma ve, como natural y sencillo, y la naturaleza que lo rechaza como imposible, todos nos hemos resignado a esperar que en una existencia menos imperfecta que esta del mundo, el alma será capaz de cumplir sus potencialidades infinitas. Hemos aplazado para el mas ⟦ allá, la realización de la mejor parte de nuestros pro-⟧ pósitas espirituales; l0 hemos bocho así por resignación, no porque nos parezca justo. Y lo hemos hecho, después de que el desarrollo metódico de la ciencia empirica, nos ha demostrado los limites de muestro orgamismo y las leyes que rigen por igual a la naturaleza externa y al cuerpo. Para organizar estas verdades, han
+
+[p. 175]
+
+⟦Esto i o n r n o⟧ acumulado esfuerzas pacientes y acrisoladamente sinceros, un sinmúmero de hombres, de los más nobles y devados que han existido. Las leyes y las verdades que estos hombres han descubierto, están al alcanoe de todo el mundo y se comprueban, dentro de su modesta relatividad cada día y en carda instante, a la hora en que alguien desea comprobarlos. Por eso, cuando se nos dice que aquí en este mundo y con este cuerpo, es pa sible ejercitar poderes extraordinarias, verificar actos que contradicen la ley natural, tenemos el denecho de exigir pruebas y no podemos conformarnos con testimonios ni con alegatos. Por eso, nas tienen que pareor ligeros las conceptos de un hombre como Vivekananda, que sin embargo, es tan ilustrado. Muy ilustrado em las ideas de su país, y muy elacuente. Pero cuando habla de ciencia empirica, lo hace con cierta generaldad, que no revela mucho conocimiento pormenorizado y sistemático de lo que llamamos ley, y mucho menos de lo que entendemos por prueba, aquí en las civilizaciones de Oocidente.
+
+Vivekananda nos dice que en la India se cultiva una ciencia tan avanzada que, nosotros calificaríamos de milagro, la que para los iniciados de allá es casa co riente; como, por ejemplo, la levitación y la transmisión del pensamiento. Pero Vivekananda no prueba su aserto, mi mas da la manera de probarlo, ni explica ni puede explicarlo, por qué han de ser secretas esas prácticas. Pareoe ignorar que la cieracia no tiene, ni debe terrer, secretos en cuanto a su métado. Mucha
+
+[p. 176]
+
+desearíamos creenlo, pero después de escuchar al propagandista hindú, quedamos en mayor duda que antes; casi nos sonreímos de habernos manifestado tan dispuestos a ser convencidas. Y, finalmente, si he de decir el fondo de mi pensamiento, yo siempre me quedo después de estudiar estas cuestiomos, en un estado de animo que se revela claramente en las frases que siguen:
+
+No es buena tu prueba, cantesto mentalmente a los expositores; tu método es deplorable; a pesar de eso, acaso tengos razón. Lo que afirmas es lo que debiera ser, lo que tal vez es, sólo que todavía nuestra ignorancia lo nubla.
+
+### El yoguismo y la teoría de la superconciencia, como un adelanto sobre la tesis de la subconciencia de Myers y William James
+
+COMO UN ADELANTO SOBRE LA TESIS DE LO SUBCONS-
+
+## CIENTE EN MYERS Y WILLIAM JAMES.
+
+La concepción del yoguismo, ya no como una escuela con doctrina determinada, sino como un método para alcanzar la verdad, la encontramos claramente formulada en las conferencias de Vivekananda.—Raja Yoga.
+
+## Longmans and Green. Nueva York.
+
+El arte yogui es una mezcla de higiene, de introspección psicológica y de disciplina del carácter. En primer lugar, se propone dar a conocer la naturaleza de nuestro șer interno, las facultades que alli están lar ⟦ tentes. Para descubrir por nosotros mismos esas facul-⟧
+
+tades, es necesario aprender a reconcentrar nuestra
+
+[p. 177]
+
+atención, a reconcentrar nuestra energía interior sobre un asunto determinado.
+
+Cuando reconcentramos nuestra atención en un objeto externo, comenzarhos a percibir con claridad sus caraoterísticas y acabamos por comprenderlo con exactitud. Cuando esa reconcentración de la reflexión la aplicamos al sujeto interno, entonoes el sujeto y el objeto se haten uno y los más recónditos secretos del yo se hacen patentes.
+
+• "El ejercicio de este arte yogui no requiere ninguno fe determinada: aprovecha por igual al budista y al cristiano, al teista y al incrédulo." "Una parte de los ejercicios yoguis son físicos; pero la mayor parte de esos ejercicios son mentales. La mente es una parte más fina del cuerpo, y es capaz de ejercer acción sobre el cuerpo; de igual manera, el cuerpo ejerce influencia sabre la mente. Por medio de ejercicios adecuados, logramos dominar la mente y manejarla a muestro antojo. Según el Raja-Yoga, el mundo externo no es sino forma o manera tosca de lo interno, el efecto de la causa interna. Asi, pues, el que descubre la manera de manejar la fuerza interior, adquiere al mismo țiempo la facultad de dominar la naturaleza externa. Y llega un momento en que lo que llamamos leyes naturales, ya no ejerce imperio sobre nosotros, pues nos hallamos más allá de ese imperio.
+
+"Así como el trabajo subconsciente se desarrolla en un plano inferior, hay un trabajo superconsciente de que tampoco se da cuenta el yo egoísta. El senti-
+
+[p. 178]
+
+miento egoísta prevalece tan sólo en el plano intermedio. Cuando la mente se encuentra encima o debajo de ese plano, no hay sentimiento del yo, y, sin embargo, la mente labora.
+
+'¿Cómo sabremos si estamos en el plano superior o en el plano inferior, cuando por un instante perdemos la conciencia individual? Por el resultado del trabajo emprendido. De lo subconsciente el hombre vuelve como fué a él; mas de lo superconsciente regresa iluminado, sabio y profético.
+
+"Nuestras teorías éticas, nuestros propósitos morales, todo lo bueno de la vida humana, tiene su causa y su fuente en ese plano de la superconsciencia. La razón es estéril y sólo da respuestas agnósticas; no puede decir ni sí, ni no, a ninguna de las cuestiones importantes de la vida. Del plano superior viene el impulso de toda volición ética, de toda intuición estética. El instinto se desarrolla en razón, y la razón salta fuera de sus límites para convertirse en superconsciencia. Y todo lo que procede de la superconsciencia, dista más del instinto que de la razón." Sin embargo, esto tan sencillo no pudieron formularlo ni Myers ni ⟦ William James, cuando hicieron su teoría de la sub-⟧ . consciencia y del yo subliminal. En la subconsciencia mezalaron confusamente, Myers y. James, fenómenos que en realidad corresponden a un estado superior y no inferior al de la razón más alta.
+
+ .
+
+[p. 179]
+
+### EL FLUIDO AKASA.—LA ENERGÍA PRANA.—LA ENERGÍA KUNDALINI.—LA ENERGÍA «OJAS».—TRANSFORMACIÓN DE LA ENERGÍA SEXUAL EN ENERGÍA MENTAL.
+
+El Akasa es un fluído, una especie de éter en el cual estaban confundidas todas las cosas, antes de la creación. Prana es la energía organizadora, la fuerza que toma el Akasa para imprimirle aliento y formas. El Prana psíquico es el prana, el poder o energía de nuestra conciencia. Según los yoguis, en la columna vertebral pasan dos corrientes nerviosas: Pingala e Ida, y a través de la espina corre un canal hueco llamado susumma. En la extremidad inferior de la espina, hay un espacio hueco que se llama Kundalini, de forma triangular, en el cual reside atesorada un fuerza deno minada Kundalini también. Cuando esta fuerza kundalini despierta, inmediatamente busca salida por el canal de Susumma, y a medida que se eleva, paso a paso, el Yoga va adquiriendo los más maravillasas poderes. Cuando la fuerza Kundalini llega al cerebro, el Yoga se desprende del cuerpo y de la mente y su alma se encuentra libre.
+
+El corte de la columna vertebral se parece a un acho acastado. La columna vertebral se compone, por lo mismo, de dos partes unidas por un extremo; el lado izquierdo se llama Ida, el derecho, Pingala, y la canal hueca que corre por el centro de la espina se llama Susumma. La espina, en su extremo superior, concluye
+
+[p. 180]
+
+en una especie de bulbo que, como se sabe, flota en un líquido. El trayecto de la médula lo dividen los yoguis en tres centros principales: el Muladhara o básico, el ⟦Sahasrara—los mil pétalos del cerebro-, y el Svadhis-⟧ ⟦thana-el ombligo.⟧
+
+En seguida, para explicar su tesis Vivekananda, recuerda que en el universo hay movimientos de distinto género, y se pregunta cual es la diferencia entre estos movimientos y la electricidad. Movimiento eléctrico, dice, "es aquel en que todas las moléculas se mueven en el mismo sentido. Si todas las moléculas del aire de una habitación se moviesen en el mismo sentido, la habitación se convertiría en una batería eléctrica.
+
+Ahora bien, agrega, se sabe que el sistema respiratorio ejerce influencia directiva sabre el sistema nesvioso, y el sistema respiratorio está en el tórax, enfrente de la columna vertebral.
+
+Por lo mismo, una respiración rítmica provocará en las moléculas del cuerpo una tendencia a seguir la misma dirección. Cuando la mente se transforme en voluntad, las corrientes cambiarám, transformándose en un movimiento semejante a la electricidad, porque se ha comprobado que los nervios manifiestan polanidad bajo la acción de las corrientes eléatricas. Esto demuestra que, cuando la voluntad se transmite a las co rrientes nerviosas, se transforma en algo como electricidad. Y cuando todos las movimientos dell cuerpo se han hecho perfectamente rítmicos, el cuerpo se transforma, como si dijéramos, en una gigantesca batería
+
+[p. 181]
+
+de voluntad. Esta voluntad tremenda os la que el yo gui busca... Y así, mediante los ejercicios respiratorios, etc., se logra despertar y aprovechar la energía ⟦Kundalini, atesorada y adormida en el Muladhara, el⟧ extremo inferior de la columna vertebral.
+
+Todas las sensaciones y los movimientos del cuerpo, pasan por las fibras de los nervios, por las columnas nerviosas Ida y Pingala, de la columna vertebral. Pero si logramos transmitir las impresiones, sin hacer uso de las nervios, entonces hemos dominado el cuerpo. Si logramos que la voluntad pase por el canal hueco o Susumma, entonoes hemos resuelto el problema.
+
+La voluntad pasando sin intervención de los nervios, a través del Susumma, despierta la energía Kundalini, y entonces se praduce una reacción infinitamente superior a la reación que producen los nervios, superior a la percepción y superior a la imaginación misma. Despertar el Kundalini, es uno de los medios de alcanzar la sabiduría suprema.
+
+La energía Kundalini asciende entonces y llega a la mente. Allí en la mente encuentra otra energía en depósito, la más alta de todas las energías, denominada "Ojas". Todas las fuerzas del cuerpo, al alcanzar su forma más alta, se convierten en Ojas". Ojas es el po. der intelectual, espiritual."
+
+La energía sexual debidamente controlada se convierte fácilmente en Ojas. Por eso, sólo mediante la ⟦ castidad perfecta, se puede alcanzar vigor mental y⟧ moral, fuerza de espiritu.
+
+[p. 182]
+
+La fuerza Kundalini se liberta mediante las prácticas yoguis, se liberta también ejercitándose en la virtud y en la plegaria. Toda devoción, dice Vivekananda, tiene este objeto, libertar la fuerza kundalini. El hambre que se imagina escuchar la respuesta a sus plegarias, ignora que la satisfaoción que obtiene, procede de sí mismo; ignora que no ha hecho otra cosa que despertar la particula de poder infinito que en él mismo reside, y que ese prodigio lo ha logrado, gracias a la actitud mental que se impuso en la plegaria.
+
+"Es decir, concluye Vivekananda, que todos los poderes divinos y aun todo lo divino, reside en nosotros mismos y nada más que en nosotros mismos." Tal es la tesis propiamente yogui y propiamente Samkya. 'Tesis atea, pero que en cambio nos declara dioses a nosotros mismos, y nos lo prueba con el ejemplo de los yoguis, que aun desde esta vida logran libertarse." Y ya que son dioses, agregariamos nosotros, no logran otra cosa mas que divertir a los extranjeros con sus prestidigitaciones. Sin embargo, esta es la tesis de Pa-⟦tanjalí también, porque el Isvara de Patanjali, la pu-⟧ rusha 'absoluta no es compatible con el pluralismo Samkya y según muchos comentadores, no fué la ⟦creación de ese Isvara más que una transacción con el oen-⟧
+
+tir popular.
+
+Ni aun dando por probados todos los poderes mágioas del yogui, sería aceptable una tesis que excluye  la necesidad de un Absoluto, que podrá ser igual en esencia a nosotros, pero que no es, nada más, nosotros.
+
+[p. 183]
+
+Lo que sea nada más nosotros, por muy poderoso que se le suponga, no vale la pena de ser. Las demás escuelas indostánicas no se conforman con esta derdad yogui, por mas que algunos yoguis modernos como el mismo Vivekananda, se declaren vedantistas, para concluir con las conclusiones, no de Yajnavalkya ni de Samkara, sino con las conclusiones de Kapila y de Pa-⟦tanjalí.⟧ • Pero si censuro las conolusiones metafisicas de los yoguis, no por eso dejo de admirar sus prácticas. Veo en ellas un ejemplo de lo que es capaz el espíritu, aun en esta envoltura, y una prueba de que, en etapas sucesivas y en espacios distintos de nuestro espacio, en verdad se hará infinito. Los milagras yoguis, como todos los demás milagros, no son más que vislumbre y anuncio de los poderes divinos.
+
+### OTRA VERSIÓN YOGUI (I)
+
+La unión con Dios que el yogui bresca, no se verifica por medio de la emoción mistica, sino por medio de la inteligencia. El yogui adquiere superconsciencia, es decir, visión clara de las poderes propios del yo. ⟦ Para el yogui, la devación es un medio, y las disci-⟧ plinas todas, procedimientos que permiten descubrir en nasatras mismos el poder de Dios. El yogui busca la intuición interna de Dios, pero no de una manera pasajera, sino como intuición inmutable y cierta.
+
+⟦(I) Yogui Philozophy.—Annie Besant.⟧
+
+[p. 184]
+
+Un análisis sutil de la naturaleza de la conciencia y la naturaleza de la materia, demuestra cierta relación defimda entre los ritmos de uno y otro movimiento. Cada vibración de la materia corresponde a un cambio en el estado de la conciencia, afirma Annie Besart en su interpretación de lo yogui. No hay cambio en los estados de ánimo, por sutil que sea, que no provoque una vibración externa correspondiente (teoría igual a la que sirve de fundamento a la magia, y tomada probablemente de algún Tantra de magia, más bien que de los textos yogas clásicos).
+
+Esta es, agrega Annie Besant, la gran obra del verbo logos, que las textas indios establecen all asentar la teoría del átomo: El Tammatra, la medida de la conciencia. Entre el ser y las obras hay la invariable relación siguiente: a un cambio de la conciencia, correspande una vibración correlativa de la materia. Así es como el ser conoce al no ser.
+
+Estas cornespondencias las aprueba la ciencia del Raja-Yoga, el yoga de las Rayás y el Hatha-Yoga o yoga de las activas. El primero trata de controlar los cambios de la conciencia para gobernar lo material.
+
+El Hatha-Yoga trata de contralar los cambios ⟦materiales, para después, por medio de ellos, evocar cam-⟧
+
+bios en la conciencia.
+
+184 ⟦t29?0⟧ the
+
+[p. 185]
+
+### EL YOGUISMO COMO HIGIENE.—LA MAYOR HIGIENE ES LA QUE LOGRA TRASMUTAR EL VIGOR FÍSICO EN VIGOR PSÍQUICO.—LA VIEJA CUESTIÓN DEL VEGETARIANISMO
+
+Hemos visto que la escuela yogui concede importancia capital a la práctica, y esta práotica está constituída por disciplinas corpóreas y disciplinas mentales. Examinemos brevemente las disciplinas corpóreas de los yoguis, a fin de juzgarlas, hasta donde nos sea por sible, a la luz de la ciencia moderna.
+
+La vieja cuestión, tan antigua como el hombre, de la superioridad o inferioridad del vegetarianismo sobre el uso alimenticio de la carne, fué renovada y variamente resuelta por el materialismo de fines del siglo XIX. En general, la medicina oficial y las lanzados hombres de ciencia, las especialistas de la fisiolo gia, se pronunciaron en favor de los regimenes carnivoros. Se decía que la superioridad de la raza blanca y entre ésta misma, la superioridad de razas del Norte dependía, entre otras causas, de la fuerza que le daba el uso de la carne. Los filósofas ingleses, en su empeño de justificar todas las costumbres de su propia gente, sostenían que la carne es un alimento condensado, que da all organismo abundante energia, a cambio de poco esfuerzo digestivo. Metchnikoff redujo a fórmula científica las desconectadas y casuísticas afirmacio-
+
+[p. 186]
+
+nes de los ingleses, haciendo notar que en los animales carnívoros el intestino es más corto, el esfuerzo asimilatorio más rápido, que en los animales que comen yerba. En realidad, desde Pitágoras hasta la fecha, desde el indo Patanjalí hasta nuestros días, el descubrimiento de Metchnikoff, es el único argumento serio que pueda haberse aducido en favor del uso de la carne. La contestación que a él pueda darse, en el lerreno de la biología, es materia que corresponde a los especialistas. Mas lo que no escapa al observador amplio, es que dista mucho de estar probado que las razas carnívoras en realidad pasean alguna forma de superioridad intrínsoca. Las razas de climas cálidos siempre han sido paco carnívoras y a la vez las más desarrolladas espiritualmente. Las razas de climas fríos son en general carnívoras y barbaras. Barbaras, aunque hoy se haya dado en llamar civilización a ese sistema de la organización industrial que reduce a esclavitud moral y física al noventa por ciento de los hombres de una sociedad. Si fuésemos a juzgar el régimen carnívoro, mediante el sistema de inducción particularista, que es tan grato a la mente anglosajona, diríamos que la carne produce mentalidades como la de Darwin y la de Spencer, en tanto que el vegetarianismo ha producido las profetas y los santos, los Budas que iluminan el camino de la humanidad. ¡ Que cada quien escoja según sus gustas! Pero haciendo a un lado este sistema elemental y equivocado de argüir com casos particulares, reconozcamos que el vegeta-
+
+[p. 187]
+
+rianismo también tiene en su abono observaciones aentíficas importantes. Los campesinos de Oriente alimentados con arroz y vegetales, som más fuertes físicamente, resisten mejor un trabajo continuado que las carnívoros sajones. Durante mucho tiempo se dijo que los orientales así alimentados, no podían ser buenos guerreros; el mentís a la teoría lo dieron oportunamente los japoneses. El mentis lo han dado en Europa constantemente las latinas, derrotando sin excepción a las sajones y germanos, cada vez que ha habido siquiera equivalencia de fuerzas, y muchas veces a pesar de que la ventaja estaba de parte de las norteños. Ya Taine abservaba, y lo confirma Ferrero, que la mayor vivacidad y talento de los latinas depende de sus dietas, ligeras, en comparación de las comidas sajonas.
+
+En nuestra América española, formuló no hace muchos años el mexicano Bulnes su famosa teoría sobre las razas del trigo, del maíz y del arroz, en la cual se declara superiores a las razas que comen trigo. La teoría es ingeniosísima y más sutil que las disquisiciones de carnívoros y vegetarianos. Sin embargo, Bulnes se habría declarado por los carnívoros, a causa de que, como la mayor parte de los hombres de su época, se hallaba ofuscado por el prejuicio de conoeder superio ⟦ridad a todo lo anglasajón.⟧
+
+La insistencia con que en todas las épocas, los más grandes ingenios se ham preocupado de esta en apariencia trivial cuestión de la dieta, basta para comprobar su importancia. No es ella una cuestión desdeñable;
+
+[p. 188]
+
+y para resolverla, lo peor que podrá hacerse es consultar con los especialistas cjentificos; me refiero a los médicos o doctores en medicina; pues no es cuestión téonica de cienta rama del saber humano, sino un problema fundamental que debe apreciarse com el oriterio de la vida en su conjunto, con el oriterio que ha de servir para resolver acerca del fin mismo de la vida. Porque si se tratase de hacer una humanidad eugenésica, sin más guía que la ciencia experimental, no cabe la memor duda de que, perfeccionariamos el tipo física, y aun 1o llevaríamos al grado de uniformidad y plenitud que se observa en las razas animales que tan hábilmente crían y, desarrollan los ingleses. En pocas generaciones veríamos hombres que corresponderiam con bastante exactitud a los más valiosas ejemplares de los toras Durheim y las vacas Jersey. Afortunadamente, la humanidad cuenta con poderasos instintos que la hacen rebelarse contra deformaciones tan mons-⟦truosas.⟧
+
+El problema de la dieta debe estar sujeto, como todos los demás problemas, al problema fundamental del objeto de la vida; por eso no se resuelve dando ⟦empíricamente normas para alcanzar tal o cuál propósito;⟧ porque la vida no es una especialidad, ni un fin pequeño, sino un maravilloso transparte desde las sombras hasta la luz clara. Por eso, en éste camo en todos los demás problemas importantes, las grandes autoridades son las grandes iluminados que, después de percibir el fin de la vida en su manifestación más alta, se po-
+
+[p. 189]
+
+nen a redactar reglas destinadas a acomodar el detalle de las acciones al fin supremo que sólo ellos han percibido claramente.
+
+Hablando en términos sociales, puede afirmarse que la civilización consiste en el mayor aprovechamiento de las energías del mundo y de las energías del cuerpo en beneficio de una vida espiritual más intensa y más amplia. Todo lo que contrarie este supremo propósito, es retroceso, y todo lo que lo acelere, es progreso.
+
+Y por progreso ha de entenderse, no ese mito contemporáneo que supone que en este mundo han de realizarse palingenesias y utopias, sino el progreso individual indispensable para que cada alma se libre para siempre de la cadena del mundo; ya que el mundo siempre será mundo y, por ende, bajo y mezquino, ayer como hoy y mañana como ayer. Todo optimismo de la tierra es antiespiritual, como todo progreso terrestre es ilusión pasajera. Dentro del circulo de la naturaleza humana y dentro del espacio del planeta, resulta imposible cualquier verdadero progreso. La única manera de progresar es salir de este círculo del mundo. Pues el mundo puede llegar a ser menos injusto, si las ⟦justas reivindicaciones socialistas llegan a triunfar algu-⟧
+
+na vez; pero nunca podrá llegar a ser perfecto, ni mucho menos grande.
+
+La civilización ha de medirse por la fuerza de alma de las generaciones, por la espiritualidad consciente y arrebatada de los pueblos. Ninguna otra norma es acertada. Y así todos los problemas, inclusive los problemas
+
+[p. 190]
+
+de higiene, han de referirse al logro de la mayor suma de espiritualidad. Atendiendo a este criterio, la mejor higiene es la que, sin dañar y aniquilar el cuerpo, consigue un mayor desarrollo de las facultades superiores de la naturaleza humana. Es malo el ascetismo exagerado que daña el cuerpo, a causa de que el espíritu se perturba con las enfermedades y aberraciones de un organismo atormentado físicamente; pero si no es recomendable la penitencia, salvo quizás en casos entera. mente excepcionales, tampoco debe aconsejarse el regalo de los apetitos, aunque estas apetitos sean naturales. Lo que conviene a la eficacia del espíritu es el aprovechamiento de todas nuestras energías, hasta dondesea posible, la trasmutación del vigor físico en psíquico. El cuerpo debe ser sano y vigoroso, a manera de lámpara que da mejor luz si su aceite es puro y contiene sustancia; pero el objeto supremo es arder luminosamente.
+
+Acamodar, de esta manera lo que en nosotros es físico, al fin superior del alma, redimir nuestro físico, en el arrebato del alma; tall es la regla suprema de la conducta y del deber, lo mismo del deber individual que del deber social. Y toda organización política y econó mica, será tanto más eficaz, tanto más plausible, cuan to mejor logre asegurar a cada individuo contra estos das extremos enemigos del alma: la miseria y la hartura. Por eso el comunismo marxiano que tiende a bo Irarlos, que ataca al capitalismo para redimir al indi- . gente, es el sistema no sólo verdaderamente justo, sino
+
+[p. 191]
+
+el más propicio para que los hambres, libres de la ambición del lucro y del terror del hambre, después de dedicar unas horas a las tareas del mundo, conviertan toda su energía a las casas del espíritu, al arte y a la religión. Hablo del gran arte y de la religión sincera, no del arte de los burgueses, que se conforman con lo bonito o con nociones académicas de pensamiento y de belleza; ni de la religión burguesa que concibe a Dias como un "fine odd gentleman" (un distinguido caballero).
+
+Debe llegarse, pues, al problema de la higiene, temendo en cuenta las abjetivos que lo superan y que deben dar orientaciones a tados nuestros actos. Si de esta suerte juzgamas el problema alimenticio, veremos, desde luego, que los hombres de mayor energía mental han sido, casi sin excepción, vegetarianos, y que los pueblos más inteligentes son más o menos vegetarianos. Ya se entiende que no es posible dar reglar fijas en estas materias, pero si pueden afirmarse generalidades que una observación atenta comprueba. Tampo co debe concederse a esta cuestión una importancia exagerada. No porque un hombre se resuelva a dejar de comer carne, va por esa mismo a hacerse más inteligente ni a conquistar la beatitud. Todas estas disciplimas son elementos auxiliares de la ardua empresa del perfeocionamiento, pero nada más. Ya el Buda, disgustado por el apasionamiento con que vegetarianos y carnívoros discutían en su tiempo, tuvo que declarar, con muy buen acierto, que la salvación no depende de comer o dejar de comer carne.
+
+[p. 192]
+
+Mantengamos, pues, la cuestión en el terreno de la higiene, pero, como ya se ha dicho, de una higiene que tiende a desarrollar las potencias del espíritu, y la fexibilidad y la alegria de la conciencia. Es evidente que todo esto se logra mejor con una dieta ligera y no car-⟦nivora.⟧
+
+En el hecho de comer carne, si no se come como comúnmente se hace, de un modo irreflexivo, por la ceguera del hábito, hay un elemento tal de repugnancia, que basta considerar lo que se hace para que todo lo mejor de nuestra conciencia se rebele en dolorosa protesta. Nunca aparece la vida más repugnante que cuando la vemos, obligada a subsistir, a cambio de devorar otras vidas; vidas palpitantes y misteriosas como la propra.
+
+Desde que el niño contempla el sacrificio de un animal, que se sacude en convulsiones de agonía, dego llado y sangriento, para ir a servir de festín en la mesa venerable de la familia, su alma se llena de no sé qué amarga culpa, y ya no vuelve a gozar la plena inocencia infantil. Sin embargo, los padres, ya del todo embotados en su sensibilidad, le instan para que venza su instinto, y se alimente con los despojos de la innoble carniceria.
+
+¡Quién no ha visto temblar al cordero bajo la cuchilla asesina, y no sabe cómo, después, a pesar de todo, parece sabroso, si el hambre nos ha acosado en un campo desierto; no sabe tampoco cuán grande es el desprecio que, en nosotros mismos, suele causar la condición humana !
+
+[p. 193]
+
+Convengo en que hay necesidades fatales, en que es ley de las especies vivir unas de otras, pero precisamente el espíritu tiene por función corregir el planeta y das nuevos rumbos a la energía que organiza los seres. La intuición del espíritu es un trasunto de la ley divina, que no consume para vivir, sino que vive acrecentando y exaltando, cuanto es, exaltándolo todo a la verdadera naturaleza y a la mayor gloria divina.
+
+Par eso el espiritu, en sus horas de recogimiento, hace el recuento de los tropiezos y caidas, en su marcha penosa a través del misterio, y se entristece de las imperfeociones, se entristece de su destino, y del fondo mismo en que palpita la carne, siente nacer un impetu de náusea por la condición miserable a que se halla sujeto al cuenpo, todo ansiedad turbia y avasalladora. Y sin importarles lo que diga la ciencia, sin hacer caso de los experimentos de la biología, ilos espíritus nobles, tan pronto como meditam el problema, se convierten, por lo menos teóricamente, al limpio y sano vegetarianismo; al vegetarianismo de los pitagóricos y de los indostanas.
+
+La difusión de los manuales Yoguis entre nuestras razas de cultura europea es muy favorable para combatir nuestro carnivorismo. Los yoguis demuestran con el testimonio de una experiencia dilatadisima, que, por lo menos, no es esencial la carne para la energía plena del cuerpo humano. Coalquiera que se tome la mar lestia de experimentar en su propia persona, observará cuánto más despejado se encuentra la mente,
+
+[p. 194]
+
+cuanto más ágil y remozado se siente el cuerpo, después de que se ha sustituido por algún tiempo la carne con una moderada dieta vegetal.
+
+### AYUNO Y VIGILIAS
+
+Otra práctica en la que el saber yogui coincide con las disciplinas religiosas de Oocidente es la relativa a la abstención total de alimentas durante los periodos que preceden a los más grandes esfuerzos de meditación o de devoción. Nadie se atreve a negar que el ayuno es indispensable para despejar por completo la mente, a la vez que para limpiar el orgamismo de toxinas y residuos que se acumulan a causa de la imperfección de todas las substancias alimenticias. Todos sabemos el objeto de los ayunos de cuaresma y el objeto de las vigilias que preceden a las fiestas religiosas, y nadie discute la sabiduría de tales preceptos, pero desgraciadamente, se alvida a menudo, y lo olvidan los mismos católicos, que el objeto perseguido es acrecentar las facultades del entendimiento: poner despierta conciencia para que conciba mejor las verdades divinas. Esta es la verdadera causa por la cual se exige y es natural que se exija el ayuno total cuando se recibe la eucaristia. Sin embargo, el clero ignorante y la masa de los fieles se empeñan en juzgar las vigilias y el ayuno como medidas de perinencia, y so como práoticas de sana higiene física y mental. Hablan como si e ayuno no tuviese otro objeto que mortificar la carne, y
+
+[p. 195]
+
+la confusión es muy nociva, porque aparte de que es absurdo suponer virtud en el hecho mismo de la mortificación, resulta que después de la vigilia se entregan a excesos de comada que juzgan muy merecidos después de sus privaciones. No reflexionan en que no se trata de mortificar hoy para regalar mañana, sino de disminuir nuestra animalidad, amenguando las funciones del cuerpo a fin de que se acrecienten las de la mente.
+
+Naturalmente que cota última tesis, la tesis de que el espíritu elucubra mejor cuando el cuerpo se halla aligerado por un ayuno prudente, no puede ser aceptada por la fisiología materialista. Los neurópatas del siglo XIX, seguramente habrian calificado de anormal todo pensamiento que no se hubiese producido cuando el organismo gozaba el perfecto equilibrio de una alimentación regular y suficiente para nutrir todas las celdillas del tejido corpóreo. Pero la respuesta que debe darse a estos llamados sabios, si es que todavía tienen discípulos, es sumamente sencilla; la respuesta es la siguiente: comparad las obras de los supuestos hombres normales, las abras de los mismos sabios del detalle ⟦ acumulado, con las obras de los profetas y de los ge-⟧ nios, con las obras de los anormales. Meditad la comparación, y entonces yal cualquiera podrá preguntar, en seguida, ¿con qué derecho se atreve lo pequeño a medir lo grande? ¿ con qué derecho juzga la oruga a la estrella? Y antes de que como una estrella de los destinos humanos apareciese la palabra del Evangelio,
+
+[p. 196]
+
+Jesús tuvo que ayunar cuarenta dias, y siempre que en la conciencia humilde de un hombre aparece un fulgor de verdad divina, es porque el cuerpo de ese hombre no se halla entumecido por el sopor de las funciones corpóreas. Cualquiera que haya benido que ejecutar un trabajo intelectual fuerte y continuo, habrá abservado el aumento de energía que viene con sólo evitar hacer una de las comidas que acostumbramos normalmente.
+
+Me he extendido en la discusión de estas cuestio nes, antes de presentar algún detalle más de las prácticas higiénicas yoguis, porque sé hasta qué punto se halla contaminada toda nuestra sociedad de prácticas viciosas y de prejuicios necios, en materia de alimentación. La religión católica no ha sabido enseñarnos, porque, como ya dije, ha torcido el sentido de prácticas venerables, convirtiendo en motivo de penitencia adio sa, lo que debiera ser alegre y santa disciplina para que el espiritu arda con su luz más clara. Por lo mismo que ha hecho odioso el ayuno, no ha podido evitar el desquite de la guila, en los comelitones de los días fes: tivas que siguen a las vigilias. La ciencia contempo ránea también nos ha engañado, porque, ya sea por ignorancia, o por el prurito de contradecir la disciplina eclesiástica, la mayor parte de las biólogos y de los médicos se pronunciar en contra de los ayunos, o se desentienden del asunto, pero cuidando siempre, en la práctica, de llenar de comida hasta donde es posible, a sanos y enfermas. Las gentes se dejan convencer fácilmente de quien aconseja mucha comida, por-
+
+[p. 197]
+
+que esto halaga la gula, pero los modicos no debieran ignorar que el noventa y nueve por ciento de todos los males procede única y exclusivamente de comer más de lo necesario, de ingerir más de lo que el organismo asimila. Por haber tenido presente esta sencilla verdad, los yoguis y los ascetas de tados los tiempos han hecho prodigios con sus cuerpos, y han llegado a vencer por completo las enfermedades; sin embargo, al noventa por ciento de los médicas jamas se les ocurre recetar un ayuno rigurosa, sin medicamentos.
+
+En los países civilizados se deva, periódicamente, una voz honrada, de algúm observador con sentado común, que vuelve a repetir que el mucho comer es causa de todas las enfermedades; pero la gente no puede prescindir de su gula y se irrita si se le dice que come mucho. Las amas de casa obligan a comer all niño en lugar de suspenderle todo alimento al menor sintoma de malestar, y los médicos recetan drogas, y nunca dejar de adicionarlas con la recomendación de alimentos, invariablemente pesados para la condición del paciente. Por eso, entre nosotros es tan difícil conquistar la salud, y ni siquiera se sabe que la salud es una cosa que se conquista y se asegura con hábitos sabrios. .
+
+Necesitamos años de lecturas, y lecturas independientes de la ciencia médica oficial, y una larga experiencia propia, para venir a entender que no es natural que la cabeza duela, ni que el catarro dé en invierno; para convencernos de que la enfermedad se previene fácilmente, y se cura rápidamente con sólo dejar de
+
+[p. 198]
+
+comer en lo absoluto, al menor sintoma de desarreglo de cualquiera de los órganos del cuerpo. La ciencia ampulosa de los médicos, nunca nos dijo que un res friado no puede seguir adelante si dejamos de comer; nunca nos dijo que la piel se rejuvenece y refresca con dos o tres ayunos prolongados; que la jaqueca se des tierra cuando se aprende a no comer sin hambre. En los Estados Unidos se persigue y se prohibe el sano y fortalecedor vino de uva, pero nadie se ocupa de proscribir las carnes refrigeradas, que llegan al consumidor después de cuatro o cinco años de muertas. En los mismos Estados Unidos de América, un práctico de las ciencias naturalistas danzó, haoe poco, un reto a la medicina oficial y a los Consejos oficiales de Salubridad Pública. El reto se hizo durante la pasada epidemia de influenza y consistió en pedir a los médicos que le inyectasen el virus de un enfermo, para comprobar que su método de ayunos lo hacía invulnerable. Este mismo práctico refería el caso de varias personas, de las ideas suyas, que después de prepararse con apropiadas dietas, se desnudaban, en pleno invierno, al aire libre, sin contraer un resfriado. Para comprobar todavía más su tesis, el mismo higienista americano se apoderó de las estadísticas de mortalidad de la ciudad de San Francisco y en pleno período de epidemia anunció, dos o tres semanas antes, que la curva de mortalidad descendería unos días antes de la Noche Buena y aumentaría considerablemente durante los dos o tres días siguientes a la Navidad. La predicción se cumplió al pie
+
+[p. 199]
+
+de la letra, y en seguida el higienista la explicó muy fácilmente, haciendo ver que había sido la fuerte oena de Navidad la causa del aumento de casos desgraciados. Cito ejemplos tales, para que se vea hasta qué punto vivimos en la ignorancia de estas cuestiones, puesto que se necesitan todas estas demostraciones elementales, para apoyar una tesis, que es tan antigua como las más remotas civilizaciones, y que sin embargo nos_ otros nos practicamos. Insisto en estos hechos, para recomendar la práctica de los ejercicios yoguis, para evitar que los libros yoguis vayan a encontrar entre nosotros oposición, precisamente porque contrarían muestros prejuicios científicos y nuestras costumbres malsanas.
+
+Nos creemos muy avanzados en materias de higiene, porque saneamos nuestras ciudades y conocemos la vida de los micrabios y sus efectos sabre el organismo; pero todo esto es elemental y de importancia secundaria, si se compara con las prácticas naturalistas que sabios aislados predican en Alemania y en los demás países civilizados y que los orientales todos observan como reglas indiscutibles y bien probadas. La clase de dieta que aconsejan los yoguis es la misma que las verdaderos sabios de Occidente enseñan: alimentación suficiente, según el consumo a que obliga la diferencia de climas y de clases de trabajo, pero evitando el exceso como el mayor de los peligros. Abstención absoluta, en caso de enfermedad; y el convencimiento de que casi todas las enfermedades dependen del envene-
+
+[p. 200]
+
+namiento de la sangre, ocasionado por las toxinas que desarralla la sobrealimentación. Por último, preferencia constante de los vegetales sobre la carne. Los hom bres civilizados, por nuestro régimen absurdo de comidas, nos hemos acostumbrado a comer, no porque es necesario, sino porque llegó la hora. Cuando alguien deja de comer, se le persigue con ruegos afectuosos para que se alimente "por deber". El burgués se alarma cuando hasta el torpe organismo se rebela contra sus ansias de hartura; pero no se alarma porque comprenda el aviso del cuerpo, sino porque se abstina en hacerlo comer, pues, de lo contrario, ya no cample la fórmula de su principio de vida: "el máximo de goce con el mínimo de esfuerzo" (I). Por eso acude a los digestivos y drogas que reavivan en el organismo el ansia inmoderada de tragar, y cuando no bastan las drogas, allí están los médicos para ayudar a restablecer el apetito cansado. De tales hábitos proceden las razas barrigonas y estúpidas, que desde hace un siglo o dos, conservan el gobierno del mundo.
+
+Yo he visto en los transatlánticos que a la hora de una gran puesta de sol, suena la campana que llama a ⟦ comer, y en seguida todo el rebaño elegante, sin una⟧ sola protesta, obedeoe, y se sienta a masticar, descuidando, o acallando, el ansia del alma, que pide mirar y callar, hasta que en el' horizonte se borre el último destello de luz.
+
+ (1) Esta fórmula me la dió un amigo que ha tenido mucho éxito en . la política, no obstante que parecía inteligente y noble.
+
+[p. 201]
+
+### LA RESPIRACIÓN.—EL AIRE COMO FUENTE DE ENERGÍA.—LUGARES DONDE ABUNDA EL PRANA.—ALGUNOS CONSEJOS YOGUIS
+
+La respiración, afirman los manuales yoguis, es la fuente de la vida; el aliento es la vida. La respiración es, en efecto, la más importante y la más urgente de todas las funciones. Según las teorías de nuestra biología occidental, la respiración es un proceso químico mediante el cual la sangre se apodera del oxígeno del aire, y desecha el carbono sobrante del organismo. Los sabios de Oriente conciben el fenómeno con menos exactitud científica, pero con más sentido de universalidad. Explican ellos que el prana o energía universal, que es la esencia de toda vida, se halla latente en el aure, y que al respirar, absorbemos energía, y sólo por esa continua absorción de energía podenos seguir sosteniendo la vida del cuerpo. El prana permea toda cosa y se halla en todas partes, pero es especialmente por conducto del aire como lo absorbemos y asimilamos.
+
+Nuestra ciencia accidental reconoce que a veces el aire está más rico en facultades estimulantes de la vida, y comprueba que en estos casos es mayor la proporción de oxígeno, está ozonizado. Sin embargo, es indudable que no es sólo el aumento de oxígeno lo que acrecienta la vitalidad del fluído atmosférico, no es sólo el aumento de oxígeno, porque en ese caso, el aire ideal
+
+[p. 202]
+
+sería una cámara repleta de azono. Además del oxígeno que enriquece los lugares donde hay muchas plantas, deben existir en el aire elementos que contribuyen a hacerlo vigorizante. Conocida de todo el mundo es la influencia fortalecedora del viento del mar, salobre y cargado de yado; un viento que parece contener vestigios de la inexhausta potencia viviente.
+
+Algunos sabios modernos piensan que el mar es el lecho milenario y primitivo de todos los seres que habitan el planeta; sostienen que toda vida procede del agua, y sus teorias, impresionantes porque las confirman series de observaciones minuciosas, han dado justificación a las curas del agua, a las inyeociones de agua de mar (Escuela Kineipe, etc.) Lo que no puede negarse es el regocijo de tados los seres vivientes al acercarse al mar, y el goce de empapar el cuerpo en sus ondas vivificantes. Parece que el prana se encuentra en ellas condensado, latente, y que penetra por todos los poros de nuestra sustancia.
+
+Sin embargo, aún la vida que se desarrolla en el mar, depende del aire, y la vida que se desarrolla en los aires, es superior a la vida marina, como lo comprueban las diversas especies de mamíferos y aves. Aun en el mar, los organismos superiores, como los peces, viven cerca de la superficie, donde es más inmediato el contacto con el aire. En el fondo de los mares no se encuentran sino organismos rudimentarios, tan rudimentarios, que los naturalistas los extraen para estudiar en ellos la conformación y las propiedades del protoplasma primitivo. .
+
+[p. 203]
+
+Parece, pues, que el prana o energía de los mares, aunque acaso mas robusto, es menos sutil e inferior en temple, al prana de los aires, y por eso tienen razón los yoguis, al poner el asiento de la energía vital, en al viento, y no en las aguas. Pruebas de ello, son el águi. la, huraña y altiva, y el hombre, triste, pero lleno de majestad.
+
+El viento es muestro elemento nato, y él posee algo más que hidrógeno y oxigeno, y detritus de la descomposición orgánica, y aromas de plantas. ¿ En el viento hay potencia, prana cuya tensión varía, según las lugares y los ambientes?... ¿ Qué caminante, de los que saben percibir la naturaleza, no ha advertido que en ciertos sitios el aire es, no sólo placentero, sino denso y confortante, y aun parece que nutre?... La siguiente jornada, sin duda traerá a la mente del lector el recuerdo de ocasiones semejantes... Me dirigía, hace algunos años, a Tlacolula, del Estado de Oaxaca, en Mexico, como procurador de algúm asunto, y decidí desviarme de la ruta obligada para ir a contemplar las ruinas de los famasos palacios toltecas o zapotecas de Mitla, obras de gran belleza. Pero aquí no quiero hablar sino del trayecto, y de la especie de halo en que toda la región se halla envuelta. El paisaje es típicamente mexicano: una planicie como a das mil metros sobre el mar, limitada a trechos por el perfil de montañas altas y montes pequeños; el clima deliciosamente templado; la vegetación, lozana y rica, pero sin la superabundancia del trópico. Sobre las verdes faldas de los cerras
+
+[p. 204]
+
+se apacientan rebaños de ovejas que al caminar se confunden con los copos de las nubes que resbalan por el cielo despejado y profundo. En el llano se extienden los trigales y las ramas de arboledas frondosas se juntan formando bosques o se alinean trazando calzadas. Bajo las pisadas del caballo, que se siente como una prolongación nuestra, siéntese la tierra, mansa y potente, impregnada de jugos y de fuerzas. Y rodeandolo todo, permeando cuanto se mira, está un ambiente oreado y luminosa, trémulo de prona vivísima, y que aunque está límpido y claro, da la impresión de que se puede cortar. Lo aspiramos y nos conforta y entona. En la boca se siente un sabor, el pecho se expande gratamente, el organismo entero se satura y se siente mejor que con el más puro alimento. Un aire que mutre. ¡ Con razón, cuando se llega a las posadas de aquellos pueblos-viejas mansiones de piedra de la época colo nial—, no se apetece comer, sino seguir gozando--en el corredor que da al patio-de los nuevos aromas que alli desprenden las flores, alineadas en sus tiestos y extrayendo también del aire el prana que se ostenta en sus mágicas corolas !
+
+## ALGUNOS CONSEJOS YOGUIS
+
+Los maestros yoguis conceden tanta importancia al ejercicio adecuado de la función respiratoria, que casi todos tratan de una manera preferente acerca de las mejores formas de inhalar y expeler el aire.
+
+[p. 205]
+
+La primera regla práctica que aconsejan es el habito de respirar por la nariz en vez de hacerlo por la boca, tanto en la vigilia como en el sueño. También los higienistas nuestros estan de acuerdo en que la nariz es el órgano acondicionado por la naturaleza para la respiración y en que es peligroso respirar por la boca, a causa de que el aire no se filtra ni se entibia convenientemente, como sucede cuando pasa por la nariz antes de llegar a los pulmones.
+
+En seguida enseñan los manuales yoguis a mover convenientemente el aparato respiratorio interno, de suerte que los pulmones funcionen con libertad y aspiren mayor cantidad de aire.
+
+Después de aspirar plenamente el aire por las ventanas de la nariz y en postura erecta, enseñan a retener el aire durante varios segundos y en seguida a expelerlo lentamente (I). Esto se repite varias vedes y produce, como los mismos yoguis dioen, una limpia o
+
+(I) Leyendo el otro día un periódico que me manda de Costa Rica el culto y noble Garcia Monge, advertí que en las escuelas públicas de San José-que es fama son un modelo—se acababa de implantar un régimen que prescribe, más o menos, lo siguiente: la escuela estará bien aireada y clara, y cuando sea posible, lucirá tiestos de flores que ⟦aviven el ambiente. Antes de sentarse a sus pupitres, los niños harán ejer-⟧ cicios respiratorios extendiendo bien los brazos, aspirando el aire y después expeliéndolo lentamente, etc. Algo semejante se hace en alguna escuela de los Estados Unidos; pero todo esto no es más que práctica yogui. Y para que sea completa, requiere que se siga al pie de la letra el consejo yogui, de tapar con el dedo una de las ventanas de la ⟦ nariz y de expeler el aire muy lentamente. También la receta yogui de⟧ aspirar un poco de agua fresca por la nariz y devolverla por el mismo conducto, todos los días, es muy eficaz para prevenir resfriados y toda . clase de males del aparato respiratorio.
+
+[p. 206]
+
+aseo de todo el organismo. Este ejercicio, así como los que también necomiendan los yoguis para desarrollar tall o cual parte del cuerpo, recuerdan algunos de los preceptos de la gimnasia sueca, que se ha extendido por todos los países de cultura erupea; pero las prácticas yogurs tienen la ventaja de constituir un sistema acabado y superior. No son como todo lo occidental que se funda en la ciencia moderna,, un empirismo casuístico y ciego, sino una ciencia total porque enlaza con los más importantes problemas del espíritu.
+
+Por ejemplo, el método yogui para vencer el deseo sexuall es muy digno de estudio y debería ser meditado por todos nuestras educadores. Todo el sistema yogui se funda en la tesis de la transmutación de la energía corpórea. "Por medio de la voluntad, el pensamiento ha de seguir a la aoción." "La energía se ha acumulado en los órganos de la reproducción; reconcéntrese la atención en la idea de energía"; "si las imágenes del deseo reaparecen involuntariamente, veaselas camo manifestaciones de la fuerza universal, que, estamas tratando de usar para aumento del' vigor de la mente. Permanézcase quieto y piénsese en la asoensión de la energía reproductora; ensáyese la respiración ⟦ritmica (Véanse manuales respectivos) y represéntese el⟧ sujeto, la extracción que está verificando, de la energía reproductora, hacia arriba, hasta la mente. Lo que allá arriba no se use, de esta energía regenerada, quedara en reserva, a disposición de la valuntad, para cuando quiera utilizarlo en fines superiores."
+
+[p. 207]
+
+Por lo común, los manuales yoguis extienden sus teorías hasta regiones a donde es difícil seguirlos por mera credulidad. Sobre estas teorías no es pasible dar fallo sin haberlas experimentado nosotros mismos. Aseguran los textos, y sobre ello hay concordancia uniforme de varios siglos, que el yogui es capaz de levantarse por los aires, que de influir directamente, o a distancia, sobre otros hombres y aun sobre las fuerzas naturales. Para que el Occidente pueda opinar en estas cuestiones, es necesario que algunos de sus sabios vayan a la India a someterse de buena fe a todas las pruebas que les sean exigidas. Se encontrará entonces que quizás ha habido exageración o aun, en algunos casos, superchería; pero eso no destruirá el hecho de que los manuales yoguis contienen prácticas altamente higiénicas y eficaces para la liberación progresiva del espíritu.
+
+### ESCUELA O SISTEMA NYAYA O NAYAYA
+
+## SISTEMA LÓGICO
+
+## LA PALABRA ETERNA Y SIN PARTES
+
+DE DONDE TODAS LAS DEMÁS PROCEDEN
+
+Los sistemas Nyaya y Vaishesika se relacionan tan intimamente, que muchos autores los han tratado juz- tos, como fundiéndolos en uno solo. Ambos sistenás
+
+[p. 208]
+
+están escritos en suttras o sentencias, y por este motivo, cree Max Müller que deben haber aparecido por una misma época, y contemporáneamente a los siste-⟦mas Samkya y Yoga, y aun a los Brahma-Suttras de⟧
+
+Badarankaya; pues la denominación suttra cubre un estilo literario; el estilo adoptado cuando las doctrinas ya no se conservan por tradición oral, sino que co mienzan a ser escritas.
+
+El autor indigena Mahadeo Rajaram Bodas, calcula que los suttras de Guatama y los de Kanada se escribieron por el siglo IV antes de la Era Cristiana. De la biografía de estos autores nada se sabe. Parece que Gautama, el autor del sistema Nyaya, era del norte de la India, y Kanada, el autor de la filosofía Vaiseshika era un austero devoto y un gran pensador.
+
+La obra de Gautama está contenida en las sentencias o aforismos denominados Suttras de Nyaya. El comentario más conocido es el Sarva-Darsana-Sangrana y el Tarka-Samgrana citado por Bodas y Max Müller. El Tarka-Samgrana es un compendio de lógica hindú, cuya primer traducción al inglés fué publicada ⟦por Ballantyne. El Sarvva-Darsana contiene una expo⟧ ⟦ sición más completa del sistema. Los suttras origi-⟧ nales son sumamente oscuros y requieren, para su inteligencia, el comentario.
+
+Bajo el nombre de Lógica comprendieron los autores hindús un sistema mixto de gramática, lógica y retórica.
+
+El principio de la obra de Gautama contiene un estu-16
+
+[p. 209]
+
+dio de las oraciones. Se dice, por ejemplo, que la oración, para formar sentido, no ha de ser una serie de palabras yuxtapuestas, como vaca, caballo, casa, sino que debe haber relación de correspondencia entre esas palabras.
+
+Después de algunas explicaciones gramaticales, el sistema de lógica propiamente dicha, se divide en las siguientes partes: errunciación-Uddessa; definición-Las. hama; investigación-Pariksha. En seguida se estudia la naturaleza de la prueba, lo objetos susceptibles de prueba, la duda; los ejemplos que refutan o confirman o aclaran una afirmación; el silogismo, la refutación; la certidumbre; las falacias, los sofismas, la conclusión.
+
+La conciencia o facultad cognoscitiva no depende, según esta escuela, de los sentidos y del juego general de paloriti, como afirman los samkyas, sino que es facultad activa del alma.
+
+La inferencia o inducción es, según los aforismos Nyaya, de tres clases: de antecedente o induoción progresiva; de subsecuente o inferencia regresiva; y la general que depende de concomitancia o incompatibilidad.
+
+La prueba testimonial se divide en testimonio divino y testimonio humano; el divino es el que está contenido en la revelación, en las textos sagrados. Además, se reconocen los sigujentes medios de conocer la verdad: comparación, rumor, conjetura, probabilidad, pero todas son superfluos.".
+
+Estudia en seguida Gautama, los órganos del cuerpo como elementos del conocimiento, y sus reflexiones
+
+[p. 210]
+
+se mezclan con nociones fisiológicas, más o menos
+
+burdas.
+
+Examina en seguida las cualidades de las objetos
+
+sensibles.
+
+El silogismo Nyaya se descompone en las siguientes partes: proposición, razón, ejemplo, aplicación y conclusión; por ejemplo:
+
+1.-El volcán tiene fuego... Pratijna, proposición.
+
+2.—porque arroja humo... Hetu, razón.
+
+3.—todo lo que contiene fuego despide huno... Uda. ⟦haran; ejempto,⟧
+
+4.—El valcán despide humo... Upanaya, aplicación.
+
+5:-por tanto, tiene fuego... Nigaman; conclusión.
+
+La causa es de tres clases: intima, na intima e instrumental, o inherente, no inherente y eficiente.
+
+En seguida, Madhava, el comentador que compuso el Sarva-Darsana-Sangrana, emprende el estudio de las palabras. "Sphata", es una palabra que, según Müller, no tiene equivalente en ningún idioma, y quiere decir: nacer, brotar. Modhava ta define como la palabra eterno y sin partes, la verdadera causa del mundo. Esta palabra, dice Müller, vale por su sonido y es equivalente a Brahma.
+
+Habla después el texto, de las palabras genéricas y de las particulares. En el principio todas las palabras quieren decir Brahma, y teciben connotación especial cuando se define la relación que guardan con Brahma, al entrar a los géneros y categorías,-Sphota es el Verbo, el Logos primitivo y fecundo.
+
+[p. 211]
+
+### ESCUELA VAISHESHIKA DE KANADA. LA SUSTANCIA Y SUS ATRIBUTOS LA TEORÍA ATÓMICA HINDU
+
+No se conoce la fecha exacta en que Kanada escribió sus aforismos; pero entre otras fechas probables, Max Müller señala el siglo I' de la Era Cristiana. Se funda esta fecha en la mención que se hace de la secta Vaiseshika en una memoria de los budistas del Thibet, de la época del rey Kanishka.
+
+En el Sarva-Darsana-Sangrana se exponen, en la segunda parte, los libros que componen el sistema de ⟦Kanada.⟧
+
+Tomando como punto de partida las categorías de la escuela Nyaya, a saber: sustancia Dravya, cualidad, Guna, acción karma, genus, género, etc.; Kanada examina las sustancias, las cualidades y las acciones, etc. En las distintas lecciones se trata de una infinidad de asuntos: lógica, física, psicología, metafísica y disertaciones sobre la manera práctica de librarse de la reencarnación; todo esto aparece, sin embargo, ligado por un pensamiento central. Ese pensamiento central es la necesidad de libertar el espíritu mediante el conacimiento de la vendad.
+
+Bajo el nombre de sustancia comprende Kanada todo lo que posee existencia, tanto lo físico, como el aire, el agua, la tierra, como lo mental y subjetivo.
+
+[p. 212]
+
+Los atributos de esta sustancia son los que se derivan de los sentidos: color, olor, etc.
+
+Las acciones son: arrojar hacia arriba, arrojar hacia abajo, contraerse, expandirse.
+
+Lo general constituye el género y lo particular la especie. La existencia es el género máximo que comprende la sustancia, el atributo y la acción.
+
+La causa precede al efecto, pero a fin de que sea de veras causa, es preciso que constantemente preceda al efecto.
+
+La existencia del éter—akasa-se prueba por la existencia del sonido, que sin él sería imposible.
+
+El tiempo es pasado, presente y futuro, simultáneo, lento, rápido y todas estas cualidades prueban su exis tencia.
+
+El espacio lo comprueba la percepción de la distancia.
+
+La teoría atómica de Kanada se expresa en distintas sentencias bastante confusas, pero contiene caracteres que la distinguen de la equivalente teoría griega. Kanada sostiene que debe existir algo, de dimensiones mínimas. Estas partículas mínimas, por lo mismo que ya no pueden cortarse ni disminuir, son ⟦eternas. En cambio, los agregados de estas partículas no⟧ son eteros. Los átomos no pueden llegar a ser visibles por si sólos, pero un agregado de tres átomos, ⟦Tryanuka, ya es visible.⟧
+
+Los átomos son: terrenos acuosos, aéreos e ígneos, y se juntan y aglutinan por el poder del destino. Esto recuerda vagamente la fecunda y poco explotada teo-
+
+[p. 213]
+
+ría de Epicuro, sobre el clinamen o el caer de los áto mos en el espacio. La ley de este clinamen, o destino, de Kanada, ¿sería la simpatía, la afinidad, la belleza? La conjunción del alma influenciada por el destino, con los átomos, tal es la causa del movimiento de los átomos. Este destino es la obra acumulada de los estados de existencia anteriores. El mérito o el demérito; el karma mueve los átomos.
+
+El mérito y el demérito son la causa del renacer.
+
+El renacer produce la conjunción con los átomos, el impulso que los pone en movimiento para crear otra vez el cuerpo y el mundo. Sólo acabando con los deseos, acabando con la aoción, podremos evitar el renacer y la nueva conjunción con los átomos.
+
+Las entidades Dios, Alma, Mente y Atomos, permanecen inactivas e inmóviles, mientras no las impele el destino. El destino es el karma individual; por eso destruyendo el deseo, que es la raíz de la acción, podremos evitar que se siga repitiendo esta cadena de encarnaciones y reencarnaciones, de nacimientos y muertes. No se sabe cómo comenzó el primer impulso, el primer Karma, que dió origen al destino, pero sí sabemos, por ⟦ medio de la reflexión y del conacimiento, que es posi-⟧ ble dar fin a este proceso doloroso.
+
+⟦at⟧
+
+[p. 214]
+
+[p. 215]
+
+## LAS GRANDES ESCUELAS HETERODOXAS BUDA Y JAIN BUDISMO
+
+### APARICIÓN DEL BUDISMO.—LOS TEXTOS PRINCIPALES DE LA DOCTRINA.—EL LALITA VISTARA.—LAS PITAKAS.—LAS PREGUNTAS DEL REY MILINDA.—EL CAMINO DE PUREZA DE BHUDAGHOSA
+
+Después de la redacción de los Upanishads, el acontecimiento espiritual más importante de la India es la aparición del Budismo. Aunque no poseemos los textos originales de la predicación del Buda, existen infinidad de textos cuya autenticidad casi no admite duda.
+
+En la tierra de su origen, en el Norte de la India, el budismo llegó a desaparecer a los 500 años, más o menos, de la muerte del Buda, confirmándose así, según se asegura, una de las profecías. Pero en las dos regiones opuestas donde la doctrina Budista no sólo se ⟦ conservó sino que se propagó extraordinariamente—⟧
+
+el Thibet y la China, y el Sur de la India y Ceylán—
+
+[p. 216]
+
+los textos primitivos se han conservado con toda fidelidad. Gracias a esta coincidencia, los filólogos hau podido cotejar los originales sánscritos con las traducciores chinas y con los escritos en idioma pali.
+
+Uno de los textos budistas más antiguos, escrito en sánscrito, y que sirvió de base a las traducciones chinas, se llama Lalita Vistara. La fecha del Lalita Vistara no se ha podido precisar, pero sí su autencidad. No obstante el carácter fantástico del Lalita Vistara, poema en prosa y verso, los budistas del nonte lo acep tan como autoridad canónica. La primera traducción europea del Lalita Vistara fué la del francés Foucaux, publicada en I847.
+
+Los budistas del sur de la India y de Ceylán conservan los textos de su culto en el idioma pali, que es un dialecto derivado del sánscrito, el cual probablemente ya se hablaba en la época del Buda. El pali es hoy la lengua sagrada de los budistas. Los textos palis son muy antiguos, y quizás procedan de los primeros concilios budistas celebrados en el siglo I de la Era Cristiana. La tradición se había conservado hasta entonces oralmente, como era costumbre en la India, pero ⟦ las resoluciones de los concilios, se redactaban, porque⟧ servían de base para la propaganda que en gran escala emprendían las misioneros de la época. Se cuenta que en la época de las mayores invasiones musulmanas, un grupo de fielos, ya después del año mil de nuestra
+
+Era, hizo redactar una copia integra y exacta de todas las escrituras budistas, y la llevó a Ceylán para po-
+
+[p. 217]
+
+nerla en el seguro de un templo y a salvo de la barbarie islamita.
+
+Los libros en que consta toda esta tradición pali se llaman: el Tripitaka, — la triple Cesta, la cesta de la
+
+tradición.
+
+El Tri-Pitaka es, pues, una colección completa de los textos budistas escritos en idioma pali. Consta de
+
+las siguientes libros:
+
+I.— Vinaya Pitaka o Disciplina de la Orden, con las
+
+siguientes partes:
+
+⟦Suttavibhanga.⟧
+
+⟦Khandhakas.⟧
+
+⟦Parivara.⟧
+
+## II.—Sutta Pitaka (Cesto de Discursos).
+
+I.—Digha Nikaya, colección larga, 34 discursos.
+
+⟦2.—Majjhima Nikaya, colección media, 152 dis-⟧
+
+cursos.
+
+3.—Samyutta Nicaya, colección conexa, 55 grupos.
+
+⟦4.—Anguttara Nicarya, la colección, más uno.⟧
+
+⟦5.-Khuddaka Nikaya, colección miscelánea.⟧
+
+⟦a. Kuddhaka-pattha, pasajes cortos.⟧
+
+⟦b. Dhammapada, antología de versos.⟧ ⟦ c. Udana, versos y exclamaciones solemnes del Bu-⟧
+
+da, con acasión de emociones fuertes.
+
+d. Itti-Vutaka, pasajes, que comienzan: "Así se
+
+ha dicho" (por el Buda).
+
+e. Sutta-Nipata, discursos, principalmente en verso. f. Vimana-Vatthu (historia de las regiones celes-
+
+⟦tes).⟧
+
+[p. 218]
+
+g. Pota-Vatthu, historia de espectros.
+
+⟦h. Thera y Theri-gatha, salmos de los Monjes y⟧
+
+• las Hermanas.
+
+i. Jatakas, historias de los nacimientos anteriores
+
+de Buda.
+
+j. Nidesa, comentario de la última parte de los dis-
+
+•cursos en verso.
+
+k. Patisambhida, ciencia analítica sobre las cuatro facultades de los sabios. Arahats.
+
+1. Aladana, historias de Arahats.
+
+m. Buda-Vansa, vidas de los dos Budas anteriores.
+
+n. Cariya Pitaka, versificación de algunos Jatakas.
+
+Abhidhamma Pitaka, discusión más amplia de los principios de la doctrina, en las siguientes partes:
+
+⟦I, Dhamma-sangani; 2, Vibhanga; 3, Katha-Vatthu;⟧ ⟦4, Puggala-pannatii; 5,' Dhatu-katha; 6, Yamaka;⟧ 7, Patthana, que quieren decir, respectivamente: 1, La vida en los distintos mundos; 2, tratados de materias diversas; 3, un mil puntos controvertidos; 4, explicación de cualidades pensonales; 5, de los elementos; 6, las antitesis; 7, el libro de los orígenes o causas de la existencia.
+
+La mayor parte de estos textos se encuentra traducida al inglés en la colección de Max Müller, intitulada: "The Sacred Books of the East", o en las traduc. ciones de la "Pali Text Society": Otros, se encuentran también en traiduociones francesas y alemanas.
+
+Entre toda esta enorme colección, lo más importante para el conocimiento de la dactrina budista se halla
+
+[p. 219]
+
+en los siguientes libros: las coleociones de Discursos o Sutta Pitakas; de la coleoción miscelánea, los libros siguientes: Thera y Therita-Gata, Salmos de Monjes y Hermanas, libro de una gran poesía; los Jatakas o historias de nacimientos; el Pathisambida, que trata de las facultades del Arahat o el alma que ya ha conquistado el Nirvana y las historias de los Araihats.
+
+Aparte del Lalita Vistara y de los Tripitakas, que para los creyentes son textos sagrados, la doctrina budista se encuentra adminablemente expuesta en el célebre libro intitulado: "Las preguntas del Rey Milinda"
+
+El original de las Preguntas del Rey Milinda, probablemente fué escrito en sánscrito, pires: la abra pro cade del nonte de la India, pero la única edición que ha llegado a nuestra época es la versión padi, usada por ⟦los budistas de Ceylán..⟧
+
+Las Preguntas del Rey Milinda son el resumen de una discusión sostenida por el sabio Nagasena, como quinientos años después de la muerte del Buda, con el rey griego Milinda, que probablemente es Menandro, sucesor de las huestes de Alejandro en el tronn de la Bactriana. En las respuestas que Nagasena da al Rey, se hace una exposición cabal de la doctrina budista, en estilo noblé y hermoso. No sé si es aventurado afirmar que las Preguntas de Milanda son para el budismo ⟦lo que el Bhagavad-Gita para la esouela Upainshad o⟧ vedántica, es decir, una exposición fiel, pero alegórica, poética y popular.
+
+Se citan también con frecuencia las libros de Buda-,
+
+[p. 220]
+
+ghosa, especialmente su "Camino de Pureza". Budaghosa, por el siglo IV A. C., se dedicó a copiar los textos ceylaneses, y como resultado de sus estudios, publicó varios libros, que conservan autoridad.
+
+### LA DOCTRINA BUDISTA.—NACIMIENTO Y VOCACIÓN LAS TENTACIONES DE MARA
+
+En el Lalita Vistara y en las Jatakas (historia de los nacimientos anteriores de Buda), se desarrolla la leyenda del nacimiento y de la vida del Buda. Por datas contenidos en una de las inscripciones de Asoka, confirmados por los textas, se sabe que el Buda era hijo de un Rajá de la tribu Sakya, y que su nombre es Kapila-vatthu en las riberas del río Nepal, como tres cientos kilómetros al norte de Benarés. La reina Mahamaya, madre de Gotama, tuvo un sueño durante el cual las dioses la transporaron a un palacio celeste, y habiéndola recostado en un lecho, el dios bodhisatta bajó de una montaña de oro, se llegó ad decho, e hiriendo un costado de la reina, pareció asilarse en su vientre, y de alli nació a nueva existencia. En la leyenda posterior se habla de la virginidad de la reina, madre de Buda; pero esto quizá es una imitación tardía de la leyenda cristiana.
+
+En edad temprana, como es costumbre en da India, el principe Gotama contrajo matrimonio y comenzó a
+
+[p. 221]
+
+⟦Estadio in art ni c o r⟧ llevar la vida de fausto y de placeres, propios de su casta y de su rango. Pero a los veintinueve años, impresionado por el espectáculo del sufrimiento humano, y después de un viaje en que contempló los dolores del pueblo, los horrores de la enfermedad, los estragos de la vejez y el terror de la muerte, Gotama resolvió abandonar su fortuna y su familia, para buscar en la meditavión el remedio de los dolores del mundo.
+
+Con el corazón destrozado porque se había separado quizás para siempre de su pequeño hijo, Gotama se dirigió a la anudad de Rajagacha, capital del reino de Maghada, y allí estudió bajo la dirección de distintos maestros. En seguida, durante cinco años y en unión de varios discípulos, se dedicó a toda clase de penitencias, hasta que comprendiendo que las mortificaciones no sirven para revelar la verdad, cesó en practicarlas, y por este motivo sus discípulos lo abandonaron.
+
+Habiendo reminciado a todos los bienes y a todos los placeres del mundo, porque ellos engañan sobre la verdadera naturaleza de la vida, Gotama había buscado la verdad en las discusiones de las sabios, pero sin encontrarla; en seguida Gotama había buscado la rerdad en la intensa angustia de las prácticas ascéticas, pero tampoco la había hallado; y a la postre veíase solo, sin familia y sin servidores, abandonado de sus mismos discípulos, y en su corazón se agitaban el sufrimiento y la duda.
+
+Entonces Mara, el genio del mal con su cortejo de demonios tentadores, comenzó a atormentar a Gotama,
+
+[p. 222]
+
+pintándole las delicias de un retorno a su casa y reino, donde al fin y el cabo podría gustar los deleites seguros de las cosas terrenas; donde acaso su poderio llegaría a extenderse hasta las más dilatadas zonas del mundo.
+
+## MEDITACIÓN BAJO LA HIGUERA LA RUEDA DE LA DOCTRINA
+
+Entonces Gotama se puso a meditar, sentado a la sombra de una higuera, a orillas del Nerenjara, y cerca de la ciudad de Uruvela. Esta meditación duró siete días, y en ella Gotama pensó en todos los eslabones de la cadena de la causación, en orden directo y en arden inverso; a saber: de la ignorancia proceden las inchnaciones, inclinaciones que dependen de aatos cometidos en vidas anteriores; de estas inclinaciones y predisposiciones depende la conciencia; de la conciencia proceden el nombre y la forma; del nombre y la forma, los cinco sentidos y el entendimiento; de los sentidos procede el sentir; del sentir, el deséo, y del deseo resulta el apegamiento a la existencia; del amor a la existencia resulta el devenir, y el devenir produce la reencarnación; la reencarnación se resuelve en vejez, muerte, dotor, lamentaciones, tristeza, sufrimiento y desesperación. Tal es el origen de todo este agregado de sufrimientos. Aliora bien, por medio de la completa y radical destrucción de la ignorancia, se destruyen das pre-
+
+[p. 223]
+
+disposiciones o inclinaciones de la conciencia; destruyendo la conciencia, se destruyen el nombre y la forma; destruyendo el nombre y la forma, destrúyense los cinco sentidos y el entendimiento; destruyendo los sentidos y el enterdimiento, se destruye el contacto; desapareciendo el contacto, destrúyese el sentir; la destrucción del sentir produce el deseo; la destruoción del deseo destruye el amior de la existencia, y la destrucción del amor de la éxistencia, origina las destrucción del devenir; la destruoción del devenir, destruye el renacer; la destrucción del renacer, destruye la vejez, la muerte, el dolor, las lamentaciones, el sufrimiento, la tristeza y la desesperación. Así se destruye todo el agregado del sufrimiento. Y habiendo comprendido esto, Gotama exclamó: "Así que se mira la verdadera naturaleza de las cosas, todas las dudas se disipan y se perciben los efectos y las causas de todo..." Y Gotama sintió que una gran luz se había encendido en su espíritu, y experimentó la alegría de la emancipación. Desde entonces ya fué Buda y Señor, y se puso a predicar a los hombres.
+
+## EL PRIMER SERMÓN • LA VÍA- MEDIA
+
+Habiendo así conquistado la verdad, Gotama Buda se sintió seguro respecto a su propia salvación; pero entonces, por amor a los hombres, se resolvió a predi-
+
+[p. 224]
+
+carles: la verdad y púsose, pues, en camino de Benarés, y al acercarse a la ciudad sagrada, encontró en un bosquie a los discipulos que lo habían abandonado, y ante ellos pronunció su primer sermón; el discurso que había de poner en movimiento "la rueda de la doctrina".
+
+Este primer sermón también se llama: Discurso sobre la Vía Media. Se encuentra en el texto pali titulado Vinaya, y dice: "Ninguno de estos dos extremos deberá practicar quien ha renunciado el mundo. ¿ Cuales son esos extromos? Uno es el amor del lujo y de los placeres bajos, sensuales, vulgares, innobles e inútiles; el otro es la práctica de mortificaciones penosas, innobles e inútiles. Evitando estos dos extremos, el Tha tagata obtiene conocimiento perfecto de la vía media, conocimiento que produce luz interior y saber, y se resuelve en tranquilidad, visión tranocendente, esclarecimiento completo y Nirvana. ¿ Cuál es esta vía media, hermanos? Es la noble vía de los ocho senderos: opinión cierta, aspiración justa, discutso exacto, acción buena, buen vivir, buen propósito, atención y ineditación. Esta, hermanos, es la vía media que da al Thatagata conocimiento perfecto, visión interior y saber, y 1o lleva a lograr tranquilidad, facultades sobrenaturales, esclarecimiento total y Nirvana... Esta, hermanos, es la noble verdad del sufrimiento: nacer es sufrir, la vejez es sufrimiento, la enfermedad es sufrimiento, la muerte es sufrimiento. La unión con las cosas desagradables es sufrimiento, la separación de las cosas agradables es sufrimiento; no obtener lo que deseamos
+
+[p. 225]
+
+es sufrimiento; em suma, los cinco sentidos que nos apegan a la vida son formas de sufrimiento. Y ésta, hermanos, es la noble verdad respecto a la causa del sufrimiento: el deseo, que, produce lla reencarnación, deseo acompañado de placer y lujuria; deseo que se regocija encontrando deleite aquí y allá, y ansia placer, y ansia existencia, y ansia prosperidad. Y esta es. hermanos, la noble verdad acerca de la destrucción del sufrimiento: la destrucción completa y de raíz de esa sed, su abandono y renuncia, la aversión que de ella nos libra: Y ésta es, hermanos, la roble verdad acerca de la vía que conduce a la destrucción del sufrimiento; dicha destrucción se alcanza mediante opiniones acertadas, aspiraciones reotas, discurso exacto, acción buena, buen vivir, buen propósito, atención y meditación."
+
+## LA CONVERSIÓN DE YASA INSTRUCCIONES A SUS DISCÍPULOS
+
+En aquella época había en Benarés un joven noble llamado Yasa, que tenía tres palacios: uno para el invierno, otro para el verano y otro para la estación de las lluvias. Cuatro meses estuvo en el pallacio de la estación lluviosa, rodeado de danzarinas y sin salir de allí. Y Yasa, que así se dedicaba a dar satisfaoción a las cinco pasiones de los sentidas, se quedó dormido una noche entre sus amigos y compañeras de goces, y sus amigos se durmieron también poco después donde esta-
+
+[p. 226]
+
+ban, y ila lámpara de aceite quedó encendida toda la noche. Yasa, el noble joven, despertó antes de la hora acostumbrada, y vió a sus compañeros dormidos: uno tenía la flauta en los brazos, otro mantenía el tambor sobre el cuello, aquel otro mostraba el pelo en desorden y el último tenía abierta la boca: aquello parecía un cementerio. Y al murar esto, sintióse convencido de los males de la vida, y en su mente se fijó la aversión. Y se dijo: ¡ Cuán oprimente, cuán aflictivo es todo esto! "Y se fue del palacio."
+
+Y Yasa, el noble joven, llegó al bosque de Isipitana; y el señor (Buda) miró a Yasa, y después de sentarlo a su lado, le habló de los mandamientos, de la necesidad de dar limosnas, del dalor y del ciela, de la inuti-Lidad y la impureza de los placeres de la carne, y de la dicha de la renunciación. Y así que el Señor vio que la mente de Yasa se hallaba dispuesta, libre de obstáculos, elevada y feliz, entonces le dirigió los más excelentes discursos sobre la doctrina de los Budas; sobre el sufrimiento y su causa; sobre la destrucción del sufrimiento, y la vía de la salvación. "Y así como la tela, Limpia y blanca, se embebe en la tinta que le da el co lor, el almai de Yasa elevóse hasta la pura e inmaculada visión de la doctrina que enseña: todo lo que nace está sujeto a perecer."
+
+Después de Yasa siguieron viniendo los discípulos, de la ciudad y de los campos, y Buda permaneció con ellos en el bosque, hasta que todos se hubieron penetrado de su enseñanza. Y entonces, dirigiéndose a todos
+
+[p. 227]
+
+ellos, que eran cerca de sesenta, les dijo: "Amados hermanos: estoy libre de las cinoo grandes pasiones, que como inmensa red aprisionan a hombres y dioses (nats): vosotros también, gracias a la enseñanza que de mí habéis recibido, gozais del mismo privilegio glorioso. Mas ahora pesa sobre nosotros un gran deber: el deber de trabajar con acierto, en beneficio de los hombres y de las divinidades menores (nats), a fin de procurar a todos la diaha inapreciable de la liberación. Para hacer nuestra empresa más eficaz, separémonos, partiendo cada uno en dirección opuesta: id y predicad la más excelente ley, exponiendola en todos sus puntos, y desarro llándala con atención, en todos sus aspectos y particularidades. Explicad el comienzo, el medio y el fin de la ley, a todos los hombres sin excepción; haced que todo lo que a ella concierne se haga público y brille a la luz idel día. Enseñad a los hombres a hacer obras puras y meritorias. Encontraréis, sin duda, un gran número de mortales que todavía no se entregan a sus pasiones de una manera irreparable, y que aprovecharán vuestras prédicas para reconquistar la libertad que han perdido, ⟦ para emanciparse del yugo de las pasiones. Por mi⟧ parte, yo dirigiré mis pasos a la aldea de Sena situada cerca de las soledades de Uruwela."
+
+LOS MANDAMIENTOS DE LA LEY SON DIEZ: 
+
+I.—Abstenerse de destruir la vida.
+
+. 2.—Abstenerse de tomar lo que no se nos da.
+
+[p. 228]
+
+3.—Abstinencia de los placeres carnales, castidad.
+
+4.-Abstenerse de mentir.
+
+5.—Abstenerse de licores intoxicantes, que son causa de negligencia.
+
+6.-Abstinencia de comer a hora indebida.
+
+7.—Abstinencia de bailes, cantos, música y juegos.
+
+8.-Abstinencia del uso de coronas, perfumes, ungüentos, vestiduras, adornos, que son causa de negligencia.
+
+9.—Abstenerse de usar cama alta o grande.
+
+10.—Abstenerse de recibir oro o plata.
+
+## LA LECCIÓN DEL FUEGO
+
+(Con el nombre de Adicta-pariyaya se han conservado mudhios sermones cuyo asunto es: arder; lo que sigue es extracto de uno de ellos.) • Habiendo permanecido el Señor en Uruwela todo el tiempo que quiso, dirigióse después a Gayasica, con gran acompañamiento de fieles, con mil fielos que, antes habían sido ascetas. Y allí el Señor dijo a los fieles: todo está en fuega ¿Cómo es que todo está en fuego? El ojo, hermanos, está abrasado, los objetos visibles están abrasados, la visión y todo lo que mira está abrasado. ¿ En qué fuego arde todo ello? En el fuego de la pasión; en el fuego del odio, en el fuego de la ilusión: toda cosa está en fuego. El discipulo sabio y noble, al ver todo esto, i oh hermanos!, hácese indiferente a las ajos,
+
+[p. 229]
+
+⟦Estudior dedostanlcos⟧
+
+indiferente a los abjętos, visibles, indiferente a las, sensaciones gratas o amargas; indiferente al sonido, indiferente al olfato, indiferente al sentido; y haciéndose indiferente, se libra de la pasión; y hallándose libre de pasión, se emancipa; y cuando se ha emancipado exclama: Me he libertado. El renacer está destruido; en seguida vive su vida de religioso, y cumple sus deberes, pero sabe que ya nada debe esperar en este esta-
+
+⟦do. (Vin, Mahav.)⟧
+
+ENCUENTRO DE BUDA CON SU FAMILIA
+
+Cuando Buda llegó con sus discípulos a Rajagrija, capital del reino de Bimbisara, su fama ya era grande, y, así el Rajá vino a recibirlo con grandes honores, conversó con él, y se declaró convertida. Por esta épo ca recibió Buda invitación de su padre para que fuera ai visitarlo, y obsequiando esa invitación, dirigióse a
+
+⟦Kapillavattu. Al llegar, hospodóse en una huerta de⟧
+
+Lais cercanías. Allí fue, su padre a visitarlo. Pero no fueron de su agrado los ascetas que acampañaban a
+
+Buda, y se negó a observar la costumbre de dejar las limosnas para sus alimentos. Al día siguiente, el Buda comenzó a pedir limosna en la ciudad, yendo de casa en casa, según la costumbre. Supo el padre, que era
+
+Rajá, que su hijo andaba mendigando por la ciudad, y ⟦ vino a reconvenirle, diciéndole: —¿ Por qué nos pones⟧
+
+en vergüenzai? ¿ Por qué mendigas el pan?... —Oh Ma-⟦1. 229⟧
+
+[p. 230]
+
+harayá-contestó el Buda-"esta es la costumbre de
+
+toda mi raza"
+
+•—Pero si descendemos de una casta ilustre, de guerreros que jamás han mendigado el pan-repuso el anciano, y Buda contestó: -"Vos y vuestra familia, acaso descendeis de reyes; yo desciendo de los antiguos profetas (Budas), y ellos siempre vivreron de limosnas y dádivas, mendigando su pan."—En seguida se puso a predicar, tratando de convertir a su padre a la doctrina, mas el padre no contestó, sino que lo llevó a su casa, donde tados lo recibieron con grandes honores. Sin embargo, Yasodhara, su mujer, no fue a encontrario: —Si algo valgo a sus ojos, dijo, que venga él a buscarme. —Gotama, notando su ausencia, fue al lugar donde se encontraba, y aunque ningún miembro de la orden debía tocar una mujer, ni ser tocado por ella, él previno a los discípulos que no se lo impedieran, si ella pretendía abrazarlo. Cuando ella lo vio, envuelto en sus mantos amarillos, con la cabeza y el rostro rapados, aunque esperaba verlo así, no pudo contenerse, y se abrazó a sus pies, derramando lágrimas. En seguida, comprendiendo el abismo que separaba a ambos, se levantó y se puso en pie ⟦ a su lado. El Rajá, entonces, explicó a Gotama cómo⟧
+
+su mujer había vivido inconsolable desde el día de su partida. "No se sabe lo que el Buda pensó en esta ocasión, pero unos instantes después refirió la historia ⟦ de cuán grande había sido la virtud de su mujer, desde⟧
+
+su anterior encarnación."
+
+Una semana más tarde, Yasodhara vistió a Rahula, 230 .
+
+[p. 231]
+
+el hijo de Gotama, con sus mejores ropas, y le dijo, señalándole al Buda: "Aquel monje, de presencia glorio sa, tal es tu padre, y posee gran caudal, que no hemos visto, desde que nos dejó: ve y dile: soy tu hijo; deberé ser el jefe del clan, y quiero mi herencia; dádmela." Rahula fue a ver a Gotama y le dijo con gran ternura: "Padre, me da mucho gusto estar cerca
+
+de ti"
+
+. El buda no contestó, pero se hizo seguir de Rahula, y al llegar a la gruta donde moraba, pensó:
+
+"Estas riquezas que pide a su padre, perecen con el uso, y causan desgracia: Yo le daré la más alta riqueza, da que descubri bajo el higuera (Visión inicial de su doctrina)-Y Rahula fue admitido en la
+
+Orden.
+
+SIGNIFICADO DE LA NORMA.—REGLA O DHARMA INDIFERENCIA POR LA CASTA
+
+Preguntó el Iluminado a dos jóvenes brahmines que lo seguían que cuál era la opinión de los de su clase al verlos venir a hacer vida común con los mendigos y los humildes, y como los brahmines respondiesen que su decisión había causado gran escándalo, el Iluminado dijo: los hijos de los brahmines son nacidos de carne como todos los otros homibres, y ninguna clase o casta posee el monopolio de la vida virtuosa y pura, etc. Agregó que sólo la observancia de
+
+[p. 232]
+
+la ley moral hace a los hombres mejores. Por ejemplo, dijo: el Rey de Kosala me ha mostrado reverencia, sólo porque yo he llegado a cierto grado que él no ha podido alcanzar. Al honrarme a mí, ha honrado la Norma, el Dharma. Así, pues, quando a vostros dos os pregunten los hombres quiénes sais, responded: samos reclusos de los Samkyas, hijos del exaltado, nacidas de su palabra, de la Norma, criados por la Norma, herederos de la Norma... Ha de llegar el tiempo en que. este mundo habrá dejado de existir, y los seres habrán renacido en otra parte. Llegará también el tiempo en que este mundo comenzará una vez mas a evolver, saliendo de las aguas que lo hayan cubierto, y de la oscuridad que hace cegar. Y los seres que han muerto en mundos luminosos, renacerán con refulgencia propia en esta tierra, flotando en el espacio, sostenidas como en fantástico rapto... El sol, la luna y las estrellas valverán a hacerse visibles, y recomenzarán las estaciones.. X esta raza de seres adquirirá distintos grados de hermosura, y los hermosos despreciarán a los feos. En seguida comenzarán a evolver las plantas, las más elementales y las más completas, hasta que sobre la tierra exista ⟦abundancia de arroz que no es menester cultivar. Después⟧ aparecerán las diferencias de sexo; y grandes movimientos éticos. A medida que se constituyen las familias, el arroz se almacena, la tierra se rodea de cerca-⟦ , dos y, icon los derechos de propiedad, aparecen la im-⟧ 16:43 probidad, la injusticia y la lucha; hasta que al fin se
+
+[p. 233]
+
+dos y con los derechos de propiedad aparecen: la im probidad, la injusticia y la lucha, hasta que al fin se elige un gobernante que mantenga la equidad, y los demás lo apoyam a causa de sus virtudes; dichos señores de los campos establecen cierta Norma, o bien como príncipes atraen partidarios, por virtud de la Norma que sostienen. Asimismo, otros hombres, afligidos por los pecados de la sociedad, se retiran a los bosques para meditar y viven fuera de las ciudades haciendo libros; estos son los brahmines; otros, dedicados a los quehaceres domésticos o a las distintas industrias, también tienen su Norma y se llaman los Suddas, siervos. Y llega la época en que un Krashyta o un brahmín. o un Sudda, haciendo a un lado su propia regla-su Norma o casta social-se va de su casa, y dice: me haré monje, y así se constituye la clase de los monjes, que difiere de las otras sólo en el hecho de que posee una regla-(Norma) particular. Si los monjes son buenos, nacerán en un mundo celeste; si son malos, su otra existencia será miserable, y si son buenos y malos, en el porvenir pasarán por una mezcla de dolo res y goces... Y aquel que practique todas las virtudes y las meditaciones, el bikhu, o discípulo que conquiste el estado Arahat, o beatifico, el que ha dejado la carga de los deseos y las ambiciones, el que ha roto con el devenir, ese, por medio del conocimiento perfecto, hará libre.
+
+[p. 234]
+
+⟦Jo sé⟧
+
+⟦Vasconcelos⟧
+
+## EL BHIKKHU Y LA MUJER
+
+El Bhikkhu llegóse al Bendito, y le dijo: Oh Thatagata, nuestro señor y maestro: ¿ cuál debe ser la conducta respecto a las mujeres, de parte de aquél que ha abandonado el mundo?
+
+Y el Bendito repusa:
+
+Abstente de mirarlas. Si encuentras una mujer, pro cura no verla, y no hables con ella; pero si tuvieses que hablarle, hazlo con el corazón puro y pensando: Yo viviré en este mundo pecador lo mismo que la hoja inmaculada del loto, que no se mancha com el cieno donde crece.
+
+Si la mujer es anciana, venérala como a tu madre; si es joven, como a tu hermana, y si es pequeña, como a tue propia hija.
+
+...El poder de la lujuria es grande y temible; sé, pues, perseverante, y afila las flechas de tu sabiduria. Cubre tu frente con el casco de pensamientos rectos, y combate con resolución a los cinco deseos... La mujer del mundo ansia exhibirse, ya sea que ande o que htto://www.hathitrus esté sentada o durmiendo... Mira sus sonrisas y sus lágrimas, como enemigos terribles, y su forma provocativa, sus brazos colgantes y su cabello en desorden, como otros tantos lazos con que pretende atrazar tu ⟦ , corazón. Dominate, refrénalo. (I)⟧ 16:43 (I) Vida del Buda, por Asvaghosa.
+
+[p. 235]
+
+Cuando Buda tuvo noticia de que su padre se hallaba gravemente enfermo, dirigióse a Kapilavattu, y pasó a su lado los últimos días. Murió su padre, y entonces Yasadhara, esposa de Gotama, no deseando permanecer sola en la casa desierta de la familia, solicitó ser admitida a la Orden. Después de algunas vacilaciones, dicen las crónicas, Gotama consintió en ordenarla, y así quedó establecida la primera orden monástica de mujeres.
+
+## EL SERMÓN DE RAJA GAHA EL ANIQUILAMIENTO DEL YO EGOISTA
+
+...Algunos dicen que el yo sobrevive a la muerte, otros afirman que perece. Ambos se equivocan y su error es perjudicial."
+
+Porque si dicen que su yo es perecedero, el objeto de sus afanes también es perecedero y alguna vez ya no habrá nada por venir. El bien y el mal sérían entances indiferentes. Y esta liberación del egoísmo no tendría mérito alguno.
+
+Al mismo tiempo, cuando otros afirman que el ya no perece, implican con ello que, en medio de la vida y la muerte, no hay más que una identidad increada e inmortall. Un yo de esta suerte, perdurable e imperecedero, nunca podtía cambiat. El yo sería amo y señor, y ya no habría que esforzarse en perfeocionar lo per-
+
+[p. 236]
+
+## José V a a00=celoa
+
+fecto; las aciones buenas y la salvación serían innecesarias.
+
+Sin embargo, por doquiera vemos las huellas del sufrimiento y de la alegría, ¿ Dónde hallaremos alga constante? Si no hay un yo permanente que es el que ejecuta nuestras acciones, entonces no hay yo, no hay actor detras de nuestras farsas, no hay amo detrás de muestras obras.
+
+Ahora bien, escuchad: los sentidos se ponen en contacto con los objetos, y de ese contacto nace la sensación. De allí procede también el recuerdo. De tal suerte, así como el poder del sol detrás de una lente hace que aparezca el fuego, de igual manera del conocimien-• to que nace de los sentidos y los objetos originase la mente, y con ella el ego, la idea del ego, que algunos maestros brahmanes llaman: el Señor. El tallo nace de la semilla, y ambos no son una y la misma cosa, sino fases sucesivas de un crecimiento contruo. Asi nacen a la vida los seres animados.
+
+Y a pesar de ello, todavía hay esclavos del yo, que en su servicio se esfuerzan de noche y de dia, si, y viven en constante temor del nacimiento, la vejez, la enfermedad, la muerte. Todos vosotros, recibid la buena nueva de que vuestro amo cruel no existe... El yo es un error, una ilusión, un sueño.
+
+Abrid los ojos y despertad. Ved las casas como son, y as sentireis reconfortados,..
+
+... Quien sabe que el yo no existe, fácilmente se deshace de todas las concupiscencias y deseos del egoisma
+
+[p. 237]
+
+El apetito de las cosas, la concupiscencia y la sensuar lidad, heredados de existencias antemores, tales son las causas de la miseria y vanidad del mundo. Deshaceos de la disposición codiciósa del egoismo, y conquistar réis da ecuanimidad que asegura la paz, la bondad y. la sabiduría."
+
+Y después de decir todo esto, el Buda exclamó, en tono solemne:
+
+"No engañes a tu prójimo, ni le muestres desdén. Domina tu cólera y apaga en ti todo secreto deseo de venganza. Pues así como la madre arriesga la vida para salvar a su hijo, así sea vuestro amor: ilimitado para todas las criaturas; y así de tierno, suave y dulce.
+
+Sí: repartid la bondad a diestra y siniestra, por todos lados y al todas horas, sin estorbo y sin marcha, san envadia y sin adio. Ya sea que esters andando, o de pie, o sentado, y cualquiera que sea el estado de vuestro ánimo, la regla constantemente mejor es mostras amor y bondad (I).
+
+LAS TRES CARACTERÍSTICAS DE TODO LO CREADO
+
+Cuando el Buda se hallaba en Veluvana, la grata de bambús de Rajagaha, dirigióse a sus discípulos en estos. términos: ⟦*.!i⟧
+
+Ya sea que los Budas aparezcan, oh sacerdotes, ya
+
+(i)' Tomado del Evangelio del Buda, recopilación de Paul Carus ⟦quier-»se rez to torió del Maliavaga y de la Vida de Buhda, por As-⟧ ⟦vagosa.⟧
+
+[p. 238]
+
+⟦José Var o n el a s⟧ sea que los Budas no aparezcam, lo cierto es que es una ley fija y necesaria de la constitución del ser; que todo lo que consta de formas es tramsitorio. Esta es la ley que el Buda descubre y madura, y cuando la ha descubierto y madurado, la anuncia, la enseña, la publica, la prodlama, la explica en detalle, y demuestra palpablemente que toda conformación es transitoria.
+
+Ya sea que aparezcan los Budas o que no aparezcan los Budas, lo cierto es que a causa de la naturaleza misma de los seres, todo lo que es conformadoque consta de partes —hállase condenado al sufrimiento. Esta verdad, el Buda la descubre y la madura y después la anuncia, la da a conocer, y demuestra palpablemente que todo lo que consta de partes hállase condenado al sufrimiento... Todo lo que consta de partes, carece de ego y de ser; todo lo compuesto carece de ser... Y en seguida un discípulo pregunta: El Buda enseña que todo lo compuesto es transitorio y carece de ser; ¿ cómo puede entonces haber Nirvana, el estado de eterna beatitud?...
+
+Y Buda, el Bendito, en esta ocasión exclamó solemnemente: ¡ Existe, oh frailes, un estado en el que no hay tierra ni agua, calor ni aire, y que no es la infinidard del espacio ni la infinidad de la conciencia, que no es la nada, ni la percepción, ni la no percepción; que no es este mundo ni aquel otro, ni el sol ni la luna: porque es increado" 1 A esto, oh frailes, no lo llamo ir ni venir, ni estar quieto; no llo llamo muerte ni vida. No posee estabi-
+
+[p. 239]
+
+lidad, y tampoco cambia, es eterno, pues nunca desapaece, y nunca origina nada. Es el fin del sufrimiento
+
+Es difícil comprender lo esencial, la verdad no se concibe fácilmente; el que sabe, domina el deseo, y para el que bien ve, todas las cosas son nada.
+
+Existe, ah frailes, un ser increado, sin origen y sin forma. Si este ser no existiese, ¡ oh frailes! no habría mamera de escapar del mundo de lo creado, y de lo que tiene origen y forma.
+
+Puesto que hay un ser increado, sin origen y sin forma, entonces es posible escapar de lo creado, y de lo que posee origen y. forma (I).
+
+LO EXCELENTE ESTÁ MÁS ALLÁ DE LA RAZÓN
+
+En la "Colección media", Majhima Nikaya—, porción del Tripitaka-, se da el siguiente diálogo con Va-⟦chagotta, un asceta errabundo: "Vaccha, la tesis de⟧ que el mundo es eterno, es una maraña, un desierto, una farsa de teatro, una perversión, un estorbo, y se halla aparejada de sufrimiento, destrucción, ⟦desesperación, dolor, y no inclina a la aversión, al desapa-⟧ sionamiento, a la cesación, tranquilidad, poder sobrenatural, conocimiento perfecto y Nirvana... Por lo mismo, no he aceptado ninguna de estas tesis... Pero, interroga Vaccha, ¿ posee Gatama alguna teoría?... El Thatagata, Vacca, no tiene teorías, pues esto es lo que
+
+⟦(1) Tomado del Anguttara Nikaya.⟧
+
+[p. 240]
+
+⟦o g • Va r o n e g⟧ el Thatagata contempla; el nacimiento y destrucción de la forma, de la causa de la forma, de la sensación, de la causa de la sensación. Así, pues, por la indiferencia y destrucoión de todas las ilusiones, de todas ias agitaciones, de todas las falsedades y de todo lo que afecta al yo, el Thatagata se liberta... Pero ¿dónde renace, señor Gotama, el monje que así se liberta?... "No se puede decir Vacca, que renace, ni que no renace" Honda es la doctrina y difícil de ser percibida y comprendida, pero es buena, excelente, y está más allá de las esfera de la razón, sutil es, e inteligible, sólo para el sabio...
+
+... El Thagata que se ha emancipado de la que es forma, tórnase hondo, inmensurable, difícil de sondear y como un gran océano.
+
+## LA MUERTE DEL BUDA
+
+Absorto en sus medataciones y en sas prédicas, llegó el Buda a la edad de ochenta años. Enfermó, por fin, gravemente, y ya para morir dijo a sus discípulos: "Quizás alguno de vosotros profesa alguna duda acerca del Buda y su doctrina. Preguntad, hermanos, no sea que después digais: "Vimos al Maestro, cara a cara, y no llo interrogamos"... Ananda, el mayor y más fiel de sus discípulos, repuso que ninguno de los discípulos dudaba, y entonces el Buda, satisfecho, dijo: Con fe, ¡oh Ananda! has hablado, pues, en esta Asamblea, ni
+
+|
+
+[p. 241]
+
+el más humilde de los hermanos profesa duda alguna acerca del Buda o de la doctrina. Pues en esta Asamblea de quinientos hermanos, aun el más humilde, ha entrado a la corriente, y no corre riesgo de nacer en un estado inferior de existencia; todos se hallan destmados à alcanzar el conocimiento perfecto... Y bien, hermanos mías, yo os exhorto: "Perecedero es todo lo compuesto; bregad empeñosamente."
+
+Estas fueron las últimas palabras del Thatagata; en seguida el Señor alcanzó el primer éxtasis, y ascendiendo del primero, llegó al segundo, y del segundo al tercero, y del tercero al cuarto. Del cuanto llegó a la región del espacio infinito; del espacio infinito se elevó a la conciencia infinita y de la conciencia infinita ascendió a la región del espacio infinito; del espacio infinito ascendió a la región de la nada; a la región de lo que no es, ni percepción, ni ausencia de percepción, a la destrucción de la percepción, y de la sensa-⟦cion.⟧
+
+Entonces el mayor Ananda, dijo al mayor Anurudha: el Señor ha alcanzado el Nirvana. Y Anurudha repuso: no, amigo mío, el Señor no ha alcanzado aún el Nirvana; ha logrado la destrucción de la percepción y la sensación. De ahí, el Señor pasó a la región de la nada, y de allé elevóse a la región de la infinita conciencia, y de allí al cuarto éxtasis, y desde el cuarto ⟦éxtasis pasó al Nirvana.⟧ ⟦ Cuando el Señor llegó al Nirvana, hubo sacudimien-⟧ tos en toda la tierra, y las trompetas celestes resona-
+
+[p. 242]
+
+ron terribles. A tiempo que el Señor llegó al Nirvana,
+
+Brahma Sahampati exclamó:
+
+¡Todos los seres del mundo han de perder sus entidades compuestas, y todos desaparecen! ¡Tal Maestro como fué él, sin rival entre los hombres, y dotado con todos los poderes, llegó por fin al Nirvana!...
+
+Cuando el Señor legó al Nirvana, en el instante del
+
+Nirvana, Sakka, el rey de los dioses, exclamó:
+
+¡Impermanentes son las cosas compuestas. Crecen y decaen, tal es su destino. Belldito el instante en que se disuelven y pasan!..:
+
+### 16.—El mensaje del Buda.—Interpretación de la Doctrina
+
+Poquísimas gentes han leído a Plotino, y todavía más pocas pueden comprender lo que dice, aun cuando lo lean. Sin embargo, el nombre de Plotino se halla envuelto en aureola, y basta aírlo pronunciar para que se sienta alegría, y como rapto de esperanza. Lo mismo nos pasa con el nombre del Buda, aun antes de que estudiemos su doctrina, y tadavía más honda es la emación que el solo nombre de Jesús produce. Parece que desde que nacamos, ya está en nuestro cora-242 ,
+
+[p. 243]
+
+zón, en estado latente, algo dulce y claro, que se despierta entero, el dia en que por primera vez leemos los diálogos del Buda o los pasajes del Evangelio. Sin duda porque la enseñanza de personajes tales, consiste principalmente de simpatía que conforta y de luz. que irradia de sus almas. Sus palabras no sólo con tienen la verdad, sina el Verbo mismo de la Vida, Verbo cuyo poder trasciende nuestro entendimiento y nos llena de júbilo la voluntad.
+
+La aparición del Buda es uno de esos milagros, propios del reino del espíritu, milagros porque en ellos se manifiesta indudable la intervención de poderes superiores al curso natural de los acontecimientos. Variaciones inesperadas del proceso psíquico humano, que tienden a romper la monotonía de la tradición y a enriquecer la pobreza del diario sentir. Las hombres, como el Buda, no se explican por sus antecedentes, ni se acomodan a su medio, porque no proceden de un desarrollo natural, y están hechos para superar el medio, y para trazar rumbos al destino, están hechos para lo eterno y lo universal.
+
+¿Pana qué se iba a acupar el Buda de comentar los Upanishads o Las Vedas, si la luz estaba en él, si él era estrella, y su misión se prolongaba por espacios que no soñaron los anteriores videntes?
+
+Por eso, desde que el Buda se dió cuenta de su descubrimiento, se rodeó de discípulos, y se preparó para desempeñar la misión, que iba implícita en el nombre con que comenzaron a designarlo sus contemporáneos,
+
+[p. 244]
+
+el nombre de Buda que quiere decir "El Iluminado". La revelación directa de la divinidad.
+
+Buda es creador de un sistema original y profundo; pero como todo gram inventor, antes de llegar a sus propias verdades, hubo de pasar por la escuela de todo el saber de su tiempo. No sólo la escuela de la vida, útil y reveladora, también la escueta de los libros, ilustre, e indispensable.
+
+La leyenda nos dice que Buda, desilusionado por la contemplación del sufrimiento ajeno, se decidió a abanidonar la casa paterna para meditar libremente en los bosques; pero asimismo nos presenta a Buda, tomando lección durante largos años, en la prédica de los más famosos maestros de su tiempo. Buda había discutido con los filósofos Samkyas que creen en la dualidad de materia y espíritu, con los brahmines que creen en la identidad de Atman y Brahma. Buda conocía la tesis yoga de la unión del alma con Dios, y también el absurdo de algunos vedantistas, y de algunos yoguis que, exagerando el monismo, quieren hacer del hort bre un Dios; por último, Buda había pasado por todas las incertidumbres y todos las tormentos de los ascetas. Y después, de cada uno de estos esfuerzos para alcanzar la verdad, sentíase abatido y enfermo, y aparecíale infranqueable el abismo que separa al Atman de Brahma, a la criatura del Creador.
+
+Poseído ya el Buda de toda la sabiduría de su tiempa, abserva con los ajos nobles de su alma, y ve que el mundo está lleno de sufrimiento y de error, de un
+
+[p. 245]
+
+extremo a otro, sin remedio y sin fin. Vana es toda ciencia que se aplica a corregir esta corriente turbia, pues el mal de vivir radica en ser uno, cuando se debiera ser todo, y en el absurdo de ser finito cuando se debiera ser infinito. Así, pues, el mal está en la raíz de la vida misma, y es necesario extirparlo en el corazón de la existencia.
+
+Pero la vida no solo es el corto período que el hambre dura sobre el planeta; la vida es un río que corre sin cesar, en el cual los seres aparecen y desaparecen; lo mismo que las gotas de agua que un instante salen a la superficie, y se iluminan en el día, y después se sumergen hasta rozar el lecho oscuro del cauce. Acaso alguna vez reemergen cuando el río llega a la kaipa de su crecimiento, y rebosa y sale de madre durante la estación de lluvias.
+
+La gota de agua de la conciencia en vano pugna por arrancarse a la corriente de las fuerzas que desarrollan la vida. Fuertemente ligada al sentido de esas fuerzas, no sólo no se opone a su impulso, sino que anhela seguirlas una y otra vez, a pesar de que no halla, y no puede hallar más que desengaño y dolor. He aquí, pues, lo que hay que enseñar a los hombres; urge hacerles saber: que lal vida siempre se resuelve en vejez, muerte y dolor, y urge al mismo tiempo anunciarles cómo pueden arrancarse a la corriente falaz de las causas, al engaño que siempre ofrece dicha: pará el instante próximo.
+
+Mediante la destrucción de la sensación, logramos
+
+[p. 246]
+
+la destrucción del deseo, mediante la destrucción del deseo, abolimos el ansia y afan de la existencia; mediante la destrucción de la existencia, logramos la destrucción del devenir; destruyendo el devenir, destruímos el nacimiento, la vejez, la enfermedad, la muerte, la desesperación, la vida, todo este agregado de sufrimientos." He aguí la doctrina contenida en la Visión bajo la higuera sagrada, pasaje budista que sin duda es uno de los más importantes de la literatura del mundo.
+
+No basta con abstenerse, no basta con hacer cesar ta acción, si en el fondo de nuestras concienicias late adormido el anhelo; entonces no hacemos sino aplazar la lucha; porque esos deseas sofocados, subsistirán después de la muerte, y buscarán otra vez cuerpo donde encarnar para venir a satisfacerse. Tal es la ley fatal del Karma. Lo mismo sucedería si nos aplicásemos muerte violenta; naila de esto salva. Lo importante es aniquilar el deseo, aniquilar la voluntad; sólo el que esto consigue, puede sentirse seguro de ya no volver a entrar a la cadena de las causas, seguro de ya no renacer, de ya no reencarnar. Así, pues, la suerte ⟦ de liberación que el Buda propome, no sólo se aplica⟧
+
+al periodo de muestra vida presente, sino a todas las vidas que nuestros deseos han de ir buscando en el por- , venir, si no los refrenamos y vencemos. No sóto nos salva de la amargura de nuestra condición presente, sino que adelantándose, mucho más allá, va y destruye
+
+[p. 247]
+
+D& tu i i n o
+
+para nosotros el masmo devenir. Nos desata, nos emancipa del devenir.
+
+La enseñanza budista supone la realidad de la transmigración. Sin la doctrina de la transmigración no es posible explicar el mundo de ninguna manera, y sin embargo, no es posible comprobarla. Pero ella es verdad impresa en la conciencia humana. Basta oírla mencionar para comprederia, basta enunciaria para que adivinemos casi todo su curso, para que sintamos los caminos remotos por donde ya pasamos. La transmigración es ciencia infusa, y quienes no la perciben en una u otra forma, son ciegos de nacimiento para las cuestiones del espíritu. Pero la doctrina de la transmigración no da más que la serie de los sucesos; muestra cómo los seres nacen y mueren, y varían de envoltura y renacen; y comprueba que la dispersión de la campresto, que es la serie de los cuerpos, no afecta a la identidad de lo simple, que es el alma.
+
+Aunque este concepto de la indestructibilidad del Atman puro, del almai simple, no está tari bien definido en el credo budista como lo esta en Pitágoras o en Platón, o como se halla en la escuela vedanta, esto se explica bien, porque el Buda no venía a definir nuevamente la tesis de la transmigración. El Buda venía a romper los estabones de causa y efecto que mantienen atado el alma al ciclo de los renaceres, etc. El rompimiento lo logra el Buda, mediante la destrucción del deseo y el amor a la vida, y hasta alli llega su mensaje. Por eso me parecen aventuradas, las con-
+
+[p. 248]
+
+jeturas de los muchos modernos, que creen probar que en la hipótesis budista se destruye también el alma, de lo cual se deduciria que todo se pierde en la nada. Buda afirma que ego se modifica, pero no que se des-⟦truye; véase el Sermón del Rajagaha.⟧
+
+Según el principio de la doctrina budista, no sólo debe evitarse renacer en carne, sina que es preciso evitar, absérvese bien la expresión: reinformarse. La forma es límite, ya sea que se la conciba como figura geométrica o como sombra luminosa, a como claridad de conciencia; de todas maneras la forma es variedad y expresión de lo finito, y por tanto, dista mucho de la naturaleza de la divina esencia.
+
+Desde que este concepto quedó claramente definido en la mente del Buda, ya no tuvo que preocuparse por el sinnúmero de doctrinas filosóficas, religiosas, rituales que en su tiempo, lo mismo que en tados los tiempos, apasionaban a los hombres; su misión ya no era científica, ni siquiera humana; su misión era anticientífica, antifilosófica, antisocial, la filosofía, a la sociedad, a la criatura humana, de tado ese confuso, tejido de Maya, en donde no hallamos sino la desilusión y el ⟦ error.⟧
+
+Pero como todos los grandes videntes y todos los genios poseen un gran sentido de proporción, y saben quie la verdad nunca es obra de un instante, y munca, ni en los espíritus más originales, se presenta como un milagro, sin antecedentes justos, el mismo Buda, que tenía la conciencia de haber descubierto uma gran
+
+[p. 249]
+
+verdari, hallabase también convencido, de que su labor era, y que debía ser, una continuación de los esfuerzos que otras almas ilustres del pasado habian emprendido para ilustrar y emancipar a los hombres.
+
+En el soberano pasaje del encuentro del Buda con su padre, cuando el Buda contesta el reproche, de que pide el pam como un mendigo, no obstante que es un hijo de reyes, alaramente se ve 1o que el Buda piensa de su misión: "Vos y vuestra familia", dice al autor de sus días, "acaso descendéis de reyes; yo desciendo de los antiguos profetas y ellos siempre vivieron de limosnas y dádivas, mendigando su pan". La auten ticidad del episodio ha sido controvertida, pues afirman algunos que el padre del Buda no era guerrero o krashyta de gran influencia, sino un pequeño terrateniente. Mas la rectificación no tiene importancia aun cuando sea cierta. Si hechos tan admirables no han ocurrido positivamente, tanto peor para la realidad que no ha sabido crearlos. En cambio la leyenda los ha destruido, y eso basta. Después de todo el hecho entendiendo por hecho lo material de la acción, posee muy poca importancia. No hay acción sublime, por muy de verdad que haya ocurrido, que no pueda ser bajamente interpretada, si la juzga un espíritu vulgar. Por eso debe siempre entenderse que las cosas sublimes ocurren en una esfera que ya está por encima de la realidad física. Si la situación a que nos venimos refiriendo no hubiera ocurrido, el Buda, seguramente la habria pensado, y eso le da el mismo valor que el
+
+[p. 250]
+
+suceso. Todavía más: si mañana resultase, que el texto relativo era apócrifo, y obra de algún póstero, diríamas entonces, que la leyenda budista es a tal punto sublime, que ha necesitado la colaboración de varios espíritus elevados para poder constituirse. Esto mismo ocurre cuando las gentes se ponen a discutir sobre la autenticidad de los pasajes sublimes del evangelio. ¡ Como si las obras del gran arte fueran a depender de la exactitud de un detalle! Lo único que importa es ver si el detalle encaja bien dentro de un caracter, y sirve para darle relieve; pues lo importante es aplicar la acción de suerte que logre edificar los más excelsos monumentos de ideal.
+
+Como un continuador de la más honda sabiduría de todas las edades, el Buda nos dice: que es preciso destruir el yo egoísta, aniquilar esta baja y atormentada conciencia humana, y que para lograrlo es preciso emplear la aoción en desenraizar el deseo primero, y después en "repartir en la bondad" a diestra y siniestra, entre todos los seres. (Sermón de Rajagaha) Obsérvese atentamente que no se trata sólo de aniquilar, sino de abrar y hacer el bien. ¿ Qué abjeto tendría hacer el bien, si la doctrina budista fuese un simple nihilismo? Se dirá que el bien se hace para evitar los efectos del mal y para poder escapar a la reencarnación y el karma. Pero, en realidad, para escapar al karma basta con la expiación de las pasadas culpas, y la abstención de muevos errores. Al mismo tiempo no debe caerse eri la confusión de creer que se acorr
+
+[p. 251]
+
+seja el bien a causa de que, según et karma, el bien produce bien, en ésta o en alguna otra vida, y haciéndolo nos aseguramos recompensas inmediatas a futu Ta6. El budismo está muy lejos de tal utilitarismo contemporáneo. Para el budista el karma es una especie de ley de casualidad, una relación estrecha de efecto a cansai, y no es sólo una ley moral, un precepto como el que enunciaba San Pablo cuando decía: "según las obras, así serán los frutos". El karma budista implica también la ley física y la ley biológica que norman la creación de cada personalidad nueva. Y aunque la reéncarnación es posible, pues basta con desear para renacer, y se renace degradado o ennoblecido según miestras obras, el budista no desea reencarnar. No desea reencarnar ni como siervo ni como principe; no desea reencarnar, ni siquiera como Dios o deva, como se comprueba por el hecho de que los mismos devas, y otras divinidades inferiores escuchan con agrado la predicación del Buda, y se disponen a seguir su doctrina para emanciparse. Si pues, las budistas no andaban buscando recompensas futuras y no querían, ni siquiera, que el futuro se prolongase, puesto que soñaban con la destrucción del mismo devenir, ¿por qué entonces, en vez de predicar la muerte universal predicaban la ternura, la bondad y el amor de todos los seres? He aquí una pregunta que no pueden contestar los que interpretan el budismo como una teoría del asiquilamiento absoluto; pero, en cambio, resulta muy fácil si se interpreta el Nirvana como dicha positiva.
+
+[p. 252]
+
+Después de aconsejarnos que aniquilemos el yo, el budismo nos enseña, que todo lo compuesto es perecedero, y entrando al análisis de las distintas facultades del alma, afirma también que, siendo el alma cosa compuesta, ella es asimismo perecedera. Pero además del Atman compuesto, constituido por la mente, los sentimientos, etc., existe el alma simple, la chispa de atman que es parte divina del atman supremo, chispa de Brahma, y ésta es imperecedera. De suerte que el alma es persistente y no persistente, a semejanza del cuerpo, que nunca es el mismo, puesto que sus celdillas se mo difican sin cesar, pero conservando, sin embargo, caracteres fijos en cada individuo. Y así como se conserva el cuerpo transfiriéndose desde la infancia hasta la vejez, así el alma se modifica adoptando maneras diversas pero reteniendo la unidad que le da su esencia o ⟦atman.⟧
+
+Los budistas, según se desprende de las discusiones de las pitakas, tuvieron que emprender una cruzada contra las exageraciones del monismo vedantico. La tesis vedanta de que somos Dios y somos todo lo que existe, la cosa y el ser vivo, la diviidad y la oruga, era contestada por los budistas, diciendo: lo que es perecodero, sujeto a cambio y a sufrimiento, no es libre; por el contrario, hállase sujeto a la ley que ordena la disolución de todo lo compuesto; por tanto, no pademos decir que esto es atman y que el ego de todo esto es mi alma, puesto que a la vez afirmamos que el alma , es inmortal y eterna.
+
+[p. 253]
+
+La creencia estática del vedantista, que ante todo exclama: Tat twam ansi; esto es yo, esto soy yo, la reforman y la destruyen los budistas, mediante el descubrimiento de la regla o norma, el descubrimiento de la ley del devenir: Norma que como una queda que gura pasa constantemente, del deseo a la acción y de la acción al dolor. Un devenir que constantemente, en cada uno de sus instantes, comprueba que todo lo compuesto es perecedero.
+
+El Budismo, muy justificadamente, se propuso huír de la condlusión del vedantismo riguraso cuando dice: "yo soy atman y atman es Brahma, luego yo soy Dios". Para no caer en esta afirmación pueril y terrible que de ser cierta, nos llevaría al suicidio univesal, pues un mundo en que el hombre fuese lo más alta no valdría la pena de ser conservada-, el budismo tuvo que sacar el problema fuera de los limites de la comprensión humana, fuera de las leyes del entendimiento y de la vida humana. Y antes de hacer esto se puso a destruir todo lo que es concopto humano; por eso decía y repetía: "Perecedero es todo lo compuesta"; en vano buscaréis en lo compuesto, ni esencia ni Dios. Cuanto vemos es Maya—nombre y forma-. Tado cuanto con cebimos es error humano; por lo mismo, para salvarnos es preciso ya no renacer, ya no reencarnar, ya no emprender más aleaciones con lo compuesto. Si así logramos desligarnos totalmente de cuanto es humano, nos habremos emancipado, y conoceremos la dicha suprema del Nirvana. Y lo que es el Nirvana "está
+
+[p. 254]
+
+más allá de la esfera de la razón..." "Pero hay un ser increado, sin origen y sin forma." (Anguttara Ni-⟦kaya.)⟧
+
+Este es al descubrimiento metafísico más importante de cuantos pueden atribuirse al Buda, la aserción de que el estado post morten de los que se han salvado, no es concebrble para la mente humana, porque supera a todos los propósitos y a todos los conceptos humanos.
+
+Otra suerte de redención, no es creíble ni deseable. Tal es el punto en que la escatología budista corrige y mejora la escatología vedanta, y todas las demás escar tologias conocidas (I) y acaba para siempre con los paraísos, levantando el ideal humano a una altura incomparable. El budismo, en esta importante conclusión, coincide con las doctrinas sublimes de Plotino; y también con Jesús, que siempre tuvo la sabiduría de no precisar cómo era el reino del Pactre. Por el modo carno Cristo habla de ese reino sublime, se deduce que se tratá de un misterio que la raza humaria no penetra, y que la imaginación no concibe.
+
+Es lo inconsciente lo que 'en nosotros otea el misterio, lo que penetra y percibe, y se llena de júbilo. Como la corriente eléctrica penetra sin disgregarlas, por to das lais moléculas de las casas, ast muestro poder sub-(!) . Escatología, —Busco la palabra en el Diccionario de la Lengua Castellana, y encuentro: «escoba», «escampil», «escayola», voces sir duda muy interesantes para el criterio de ilustración casera de los seño res académicos; pero no encuentro escatología. Sin embargo, es voz culta, se deriva del griego, y quiere decir: doctrina de las cosas postrimeras, del último estado del alma.
+
+[p. 255]
+
+jetivo entra par los espacios y los dominios del mundo, y se adelanta a la conciencia, deja atrás a la conciencia y nos pencibe como sombra luminosa, como halo incapaz de dispersión, y más entero, más tenso, más espléndido que todas las fuerzas conocidas. Capaz de vencer el espacio y el tiempo, y de ejercitar una atención que se fija a la vez en todos los objetos, a un tiempo, y ro salamente en uno, como la pobre atención corpórea. Nos imaginamos entonces en coexistir profundo con todo lo que ha sido, pero ya seleccionado y purificado: disperso y aniquilado, todo lo que es imperfecto, todo lo que es campuesto, y subsistente sólo lo que es hermoso y eterno. Y sin duda, ni un solo momento de esta nuestra vida de aquí desearemos revivir en el más allá, porque ello sería sufrir y avergonzarnos, con vergüenza dolorosa, del instante más feliz, y del instante más desventurado.
+
+La corriente de la vida jamás se detiene, porque hay en el movimiento una fatalidad que, en mecánica se llama imercia, la cual impale a la continuidad de lo comenzado. Pero en el interior de ese dinamismo físico, pasa una corriente paralleta, mas de esencia diversa; esa corriente es la patencia humana que se bifurca, y unas veces se iguala con lo físico, y entonces se llama desco, y otras veces pugna contra lo fisico, y entonces se llama voluntad. Cuando la fuerza voluntaria, aclarada en el entendimiento, se da cuenta de la presencia ⟦ de su esfuerzo, frente al correr de las cosas, inmedia-⟧ tamente pónese a ensayar su poder, y anhela apartarse
+
+[p. 256]
+
+aún más de lo uniforme; pero estos breves instantes de lucidez y de impetu personal, no basta a arrancarnos del tronco vigoroso, donde hemos estado enlazados intimamente con los ritmos biológicos comunes; nuestro esfuerzo se fatiga de su rebelión, y al fin cae, y la co rriente mayor lo arrastra, y a la hora de la muerte lo confunde dentro de sí. Pues mientras se halla ligada con la fuerza mecánica, la fuerza del espiritu no hace más que anhelar y sufrir. Para arrancarnos de verdad, y no sólo por el anhelo, es preciso aniquilar todo esfuerzo que se apareje con las inclinaciones de la materia, con las afinidades de lo finito, y reconcentrar y acrecentar toda nuestra potencia, a fin de que por uno nueva ruta se desenvuelva en el sentido de lo ilimitado y eterno. Ahora bien, para saber si nuestro devenir inmaterial sigue sujeto al ritmo que mueve las cosas y las formas de lo perecedero, a si ya se libertó de semejai tes fatalidades, y va por un camino nuevo, no hay más que poner atención al fin que nuestro impulso persigue. Si ese fin es un deleite que participa de lo finito, entorces tadavía nos hallamos bajo la servidumbre del de seo, mas si sentimos que nos conduce una emoción, de goce por la dicha de todos los seres, y un deslumbramiento como de hermosura eterna, entonce ya vamos carmino de lo Absoluto. Tal es, a nuestra juicio, ta interpretación que podría darse en términos modernos al gran principio del Nirvana.
+
+¿A quién se ocurrió primero el pensamiento de que el Nirvana es la Nada y lo mismo que la muerte y el
+
+[p. 257]
+
+aniquilamiento total? No se sabe y cuesta trabajo concebir cómo se ha podido llegar a semejante versión. De casi todos los textos budistas se deduce claramente que el Nirvana es un estado inefable, pero positivo y realísimo; real por excelencia, con una realidad que jamás se encuentra en el inmenso pero efímero mundo de lo compuesto. La Nada es uno de los estados, porque se pasa para llegar al Nirvana, y todavía más allá de la Nada está el Nirvana.
+
+Tal Nada, a menos de que los textos queden totalmente ininteligibles, es la nada de los sentidos corpóreos, la desaparición de las formas; después de ella viene el Nirvana. Y el Nirvana es una cosa que se conquista, un estado más allá de todo lo temporal. No se le define, porque no se define la esencia infinita. ¿A quién se le ocurre pensar que todo esto es la Nada, cuando es el Tado?
+
+Sin embargo, algunas sectas indostánicas, al igual que casi todos los europeos, han interpretado el Nirvana como un equivalente del aniquilamiento total. Ninguna doctrina ha dejado de ser desvirtuada por las interpretaciones vulgares de quienes no quieren percibir lo sublimé. Si tal hubiese sido la mente del Buda y de sus primeros discípulos, la tesis no habría valido la pena de ser conservada, y de su autor no nos quedaría ni el nombre. En efecto, para concebir la nada, basta ver cómo se descompone un cadáver, basta ver cómo lo que se muere no vuelve; basta la tesis materialista, que suprime todo problema, indentificándonos con las meta-
+
+[p. 258]
+
+morfosis de la materia. Tal doctrina excluye toda filosofía, toda metafísica; no explica nada, ni contesta las interrogaciones del espíritu, ni las sospeahas del instinto, nada más apacigua y anula. Y así como la predica, crea la muerte, porque detrás de ella, no siguen ni escuelas importantes, ni millones y millones de hombres, que por siglos y edades siguen venerando, como se venera todavía la doctrina budista. Y cuando muere un hombre que en la desaparición absoluta complacióse, no se sacude la tierra, ni suenan las trompetas celestes, ni queda huella de todo esto en la historia; nada de él queda en los eternos espacios del espíritu.
+
+Mas cuando murió el Buda, los discípulos fleles, que sabían interpretar su enseñanza de Iluminado, dijeron: "El Señor pasó a la región de la nada, y de allí, elevóse a la región de la infinita conciencia, y de allí al cuarto éxtasis, y desde el cuarto éxtasis pasó al Nirvana." ¡ Y entonces, conmovióse la tierra porque una gran alma había partido, no sólo de este mundo, sino de todos los mundos celestes, sin hacer nuevas escalas en las regiones de las formas; y esa gran alma no se iba sola, sino que abría un camino, un camino por ⟦donde otras almas podían ascender... por eso, también,⟧ sonaron las trompetas celestes!
+
+[p. 259]
+
+### 17.—El Budismo monástico.—Los Cantares budistas.—Salmos de los Hermanos
+
+Los religiosos brahmanes o sanyasines, los yogas, los ascetas y solitarios de todas las religiones hindús, han acostumbrado, desde épocas inmemoriales, renunciar la familia y el mundo para dedicarse a la meditación. Pero nunca se juntaban a vivir en comunidades; aisladamente o en grupos, pero libres de toda regla, retirábanse a los bosques o vagaban por los caminos y las ciudades. El mismo séquito del Buda, vivió durante toda la vida del maestro de esta manera, acompañándolo generalmente en sus peregrinaciones.
+
+Sin embargo, la necesidad de redactar y recopilar las doctrinas, obligó a los discípulos a trabajar juntos, ya que el maestro había desaparecido, y de este trabajo en común fueron naciendo las primeras reglas. Al mismo tiempo, la doctrina budista se proponía llevar a cabo la reforma y la salvación del almá de los fieles, la conquista del Nirvana en este mundo. Para ir ascendiendo a los grados que preceden al Nirvana, grados que consisten en la'pureza de conciencia, la beatitud, el éxtasis, era necesario adoptar reglas para la conducta y reglas para la meditación. Y por lo que hace a las reglas prácticas, los Budistas, como todas las demás religiones indostánicas, tuvieron que pedir consejo a la antigua sabiduría de los Yoguis. Así vemos que en la regla budista aparecer, casi todos los con-
+
+[p. 260]
+
+sejos yoguis a propósito de la postura del cuerpo para la meditación, y casi todos los demás preceptos físicos o higiénicos de la venerada escuela.
+
+Pero lo peculiar de la comunidad budista fué que sus miembros redactaron disposicrones para la vida en común y el trabajo ordenado. Por eso se asegura, y con razón, que el establecimiento de las órdenes monásticas es abra original del budismo. Y las funciones que han desempeñado después las distintas órdenes monásticas del mundo, también quedaron definidas por los primitivos monjes budistas, funciones que pueden ser reducidas a tres categorías: purificación y meditación que tiene por objeto salvar la propia alma; estudio y conservación de la doctrina-, faz que llegó a dar a los monasterios budistas el carácter de Universidades, y finalmente el trabajo de propaganda religiosa que cor.vierte a los frailes o hermanos en misioneros.
+
+En las órderes budistas puede entrar un hombre. cualquiera que sea su casta. Hay también monasterios para mujeres. Los votos de unos y otros son perpetuos, y los monjes no tienen ningún carácter sacendotal. Son simples filósofos solitarios, y santos. Desgraciadamente, tambien alli, como en los conventos oris tianos, abundan los perezosos, que sólo han adoptado esa vida para librarse de las cargas materiales del mundo.
+
+El novicio debe hallarse libre de lazos mundanos y solicitar su ingreso a la Orden. El jefe de la Orden le entrega el manto anaranjado y le hace rasurar la ca- . beza. El novicio se hinca y dice: "Busoo refugio en el
+
+[p. 261]
+
+Buda". "Busco refugio en la Ley." "Busco refugio en la Orden." En seguida hace voto de castidad, voto de probidad, voto de pobreza. Los monjes viven en mo nasterios o en bosques y grutas. Na hay voto de obedencia, ni profesión de fe rigurosa: el monje va alli a meditar libremente en los problemas del mundo. Len tamente adquiere el dominio de su espíritu, y llega al estado de Jhana, estado de beatitud
+
+La beatitud o Jhana, se desarrolla en cuatro perío dos: La primer Jhana es un estado de "goca y alo-⟦gría"⟧
+
+, nacido de la reclusión e iluminado por-la sabiduría. El mendicante "goza" porque se ha apartado de la sensualidad y del pecado."
+
+La segunda Jhana es un estado de "goce y alegría", nacido de tranquildad honda, después de que han quedado suprimidas la reflexión y la sabiduría. Consiste en quietud del pensamiento y predominio de la intuición.
+
+En la teroer Jhana el mendicante se complace en la destrucción de las pasiones; goza y presiente las delicias anunciadas por los "arahats". Apaciguado, rememora y goza."
+
+La cuarta Jhana es pureza, ecuanimidad y rememo ración. Sin dolar y sin gooe por la renuncia de la pena ⟦y la remuncia del goce.⟧
+
+Después de estas Jhanas que recuerdan las "moradas" de muestra Santa Teresa, el monje puede alcanzar el éxtasis, la unión con lo Divina, que en la tecnologia budista se designa con la profunda y enigmática palabra: "Nirvana."
+
+[p. 262]
+
+Los que tal alcanzan, son santos e iluminados: "ara hats"; pero sólo los Budas venoen el Karma y ya no vuelven a renacer.
+
+Para el estudio detallado de las Jhanas y el Samadhi ⟦o éxtasis, véase el Lotus de Burnouf; el Lalita Vista-⟧ ra y el Maha Sudassana Sutta. Inútil me parece discutir la validez mística de estos éxtasis, la santidad de estos estados de alma. El estudio atento, muestra en todos ellos el mismo fondo de verdad. Los éxtasis budistas se parecen más a los éxtasis de los neoplatónicos, a los éxtasis de Plotino y de Procla, que a los éxtasis cristianos: son éxtasis y beatitud logrados por esfuerzo de reflexión. Los éxtasis cristianos poseen un elemento que las hace fáciles y como más jugosos, el elemento del arior divino. No, "amor intelectúalis dei", como el que predicaba Espinoza, sino amor sustantivo, de la esencia divina del mundo.
+
+• En los monasterios se congregaban los devotos para estudiar las escrituras de la nueva religión, y para practicar el renunciamiento, el verdadero renunciamiento, no sólo de los bienes, sino de los apetitos y de los deseos. Un renunciamiento definitivo y radical; un renunciamiento que no ponía ninguna esperanza de deleite en la otra vida: una renuncia que excluye toda suerte de paraísos; una renuncia que, por lo mismo, čonduce a la nada-el Nirvana es la nada, para los sentidos; pero esa nada de los sentidos es el principio del "rahatismo", el principio de la beatitud, el principio de la identificación con lo eterno Absoluto.
+
+[p. 263]
+
+Para formarnos una idea de lo que era la vida mo nástica en los primeros siglos del budismo; lo que es todavía esta vida, en los paises donde se ha conservado puro el budismo, pademos referirnos a dos libros célebres: uno de diseiplina, el Yoga-vacara; el otro de poesía mística, los Salmos de los Hermanos y de las Hermanas.
+
+El "Yoga-vacara" es un manual de regias monásticas, que aunque mucho más antiguo, podría ser comparado a los Ejercicios Espirituales de San Ignacio de Loyola. Llama la atención el Yoga-vacara por su moderación y altitud. En sus reglas no encontramos ninguna de las exageraciones comunes a los yoguis, sólo preceptos que pueden clasificarse como de higiene mental. En cambio, los ejeroicios propiamente espirituales, los asuntos de meditación y devoción, no han sido superados, quizás en ningún otro libro semejante. He aquí algunos de ellos:
+
+I.—Meditación sobre goces de cinco clases: ligero, momentáneo, brusco, goce que provoca choque interno, goce que nos transporta fuera de nosotros mismos, goce total que lo llena todo.
+
+2.—Los seis pares de acuerdos, a saber: serenidad de cuerpo y alma, suficiencia de cuerpo y alma; aptitud de cuerpo y alma; rectitud de cuetpo y alma.
+
+3.—Las tres formas de beatitud: Comodidad del cuenpo, tranquilidad de la mente, recuerdos del Buda, reflexión profunda que nos lleva a lo alto.
+
+4.-Conciencia de que nos poseemos a nosotros mis.
+
+[p. 264]
+
+mos, obtenida. por medio de aspiraciones y expiraciodes de aire, y meditaçión en l'as cinco virtudes.
+
+5.—Las diez ideas predominantes (kasinas); las diez imputezas (asuthas) tas treinta y dos partes del cuerpo: sólidas, líquidas, tada esto relacionado con las cinco virtudes.
+
+6.—Las diez memorias: El Buda, su doctrina, su orden. Buena conducta, generosidad, nirvana, los dioses, la mazente, la idea única, el elemento único.
+
+7.-Los cuatro planos del ser: espacio, conciencia, ausencia de obstáculos, ni presencia ni ausencia de ideas. Arupavacara, los cuatro últimos reunidos.
+
+8.—Las cuatro condiciones excelentes: Piedad para los dolores ajenos; simpatía para los goces ajenos; magnanimidad; amor.
+
+⟦9.-El conocimiento décuplo.⟧
+
+Contemplación del origen y el decaimiento.
+
+Contemplación de la desintegración presente.
+
+Contem plación de la desintegración futura.
+
+Contemplación de los peligros.
+
+Contemplación de las vanidades.
+
+Contemplación del deseo de escapar.
+
+Contemplación de las partes que constituyen la individualidad.
+
+Contemplación de la ausencia del alma de la individualidad.
+
+Contemplación del Nirvana.
+
+[p. 265]
+
+SALMOS DE LOS HERMANOS Y LAS HERMANAS
+
+Bajo el nombre de Salinos de los Hernanos y las Hermanas ha traducido Rhys Davis parte de la colecvión canónica conocida con el nombre de Thora y Therita-Gata, que contiene poemas cortos, abra de los monjes de los primitivos conventos budistas.
+
+La suave poesía de estos versos nos revela almas santas y dulces, a la vez que dotadas de inteligencia superior. No se advierte en ellas la tortura del erotis=. mo, y parecen pertenecer a una raza que hace tiempo venció la sensualidad, y ya sólo se preocupa de anular también las ilusiones, de ariquilar todo lo humano, para conquistar el divino júbilo del Nirvana.
+
+"Cuatro veces, cinco, dejé mi celda. Y recorrí los campos en busca de paz. Y mi pensar disperso no acertaba a alcanzar la Unidad.
+
+Pero vino hacia mí la noble hermana; la que ha sido mi madre en la fe, y me enseñó la Norma.
+
+Y en ella aprendí la naturaleza transitoria del Yo. Y todo lo que ella me enseñara, lo medité siete días, sentada en contemplación gozosa; inmóvil y con las piernas cruzadas. Y al octavo día, por fin, extendí las piernas, y anduve serena por mi camino. Pues se habían desvanecido las brumas que me radeaban."
+
+[p. 266]
+
+"Arando los campos y cosechando los granos que el seno de la tierra produce, los hombres nutren a sus hijos y se regocijan de sus ganancias.
+
+¿Por qué, yo, no obstante que no soy remisa para cumplir las reglas del Señor, y que mi vida es pura y humilde, no puedo, sin embargo, conquistar la beatitud del Nirvana?
+
+Un día bañaba mis pies en la corriente, y me puse a contemplar el agua que escurre veloz en declive, y tuve que refrenar mi corazón, cual se sujeta a un noble po tro con la rienda.
+
+Después, así que hube llegado a mi celda, tomé mi lámpara, y sentada en mis ropas, me puse a observar la flama: tomo un alfiler y sumerjo la mecha dentro del aceite... ¡Oh el Nirvara de la lamparita!
+
+La Emancipación se anuncia, mi corazón está libre."
+
+### LAS IGLESIAS BUDISTAS CONCILIOS, SECTAS.—LA GRAN VÍA Y LA PEQUEÑA VÍA.
+
+⟦BUDISMO CEYLANÉS O DEL SUR:—BUDISMO DEL NORTE:⟧
+
+## NEPAL, CHINA Y JAPÓN
+
+Se afirma que el budismo es la primera religión que constituyó una Iglesia, es decir, una institución religio sa orgatizada conforme a doctrinas fijas y jerarquias definidas. El Brahmanismo habia redactado varios códigos de fe, y machos libros de titual, teología, etc. Los
+
+[p. 267]
+
+Brahma Suttras de Badarayana son un cuerpo de doctrina concisa, pero no había entre los Brahmaaes organización eclesiástica propiamente dicha. Los cargos sacerdotales eran hereditarios y circunscritos, dentro de la casta brahmánica, y no había entre ellos jerarquías, sino sólo distinciones por tradición y antigüedad.
+
+El Budismo, acaso porque nació como un credo co herente y debido a un solo hombre, pudo conservarse relativamente homogéneo durante mucho tiempo. Sin embargo, las divisiones sectarias se manifestaron muy pronto, y desde el principio nos hablan las crónicas de dos grandes ramas: la gran Vía y la pequeña Vía, denominaciones que corresponden, respectivamente, a las sectas del Norte y del Sur.
+
+Poco después de la muerte del Buda, los miembros de su orden decidieron celebrar un concilio con el objeto de unificar las reglas y fijar las doctrinas. El concilio se celebró en Rajagriha, bajo la presidencia del ⟦rey Ajatasatru de Maghada. En este concilio se redac-⟧ tó el cuerpo de doctrina denominado Theda Vara, que según los budistas del Sur, es idéntico al texto de los Pitakas. Presidió este primer concilio, como jefe de los budistas, Kasyapa, un discípulo predilecto del Buda (siglo IV antes de J. C.).
+
+El segundo gran concilio verificóse cien años después, y en él se aprobaron ciertas reglas disciplinarias que a algunos devotos parecieron demasiado blandas. Los disidentes convocaron un concilio más numeroso, que, en contraposición del primero se llamó Gran Con-
+
+[p. 268]
+
+cilio. Este Gran Concilio redactó los textas y las reglas que habían de servir de madela a los budistas del Norte, a los budistas del Nepail y de Thibet, y después a los de China y Japón. Las diferencias de aredo fueron al principio insignificantes, aunque después se fueron acen-⟦tuando.⟧
+
+Por el año 250 de la era Cristiana, gobernaba la India un descendiente de Sandrokoptos o Chandragupta, el rey. Piyadasi, conocido con el nombre de Asoka y que fué el Constantino del Budisma.
+
+De Asoka dice el historiador Koppen: "Si la fama de un hombre ha de medirse por el número de coraza nes que la guardan con reverencia, por el número de labios que han pronunciado y siguen pronunciando y honrando su nombre, entonces, la fama de Asoka es mayor que la de Carlomagno y que la de César."
+
+El poder material de Asoka, según lo encontramos comprobado en sus edictos y en las historias de las misiones budistas, abarcó toda la India actual con parte del Afghanistán y Ceylán; pero el nombre de Asoka es hasta la fecha conocido y reverenciado en todo lugar donde perdura el budismo, eis el Japón, en la Chima, en Siam y Mongolia, y Siberia.
+
+Asaka se convirtió, por un milagro, y sus decretos ⟦comenzaron desde entonces a ajustarse a las dootrinas⟧ generosas del Buda. Ya en los apuntes históricos hicimas mención de estos decretos, y de la obra intensa de proselitismo que en aquella época comerzó a verificarse. En una de las inscripciones de Asoka se habla de
+
+[p. 269]
+
+la Embajada que mandó a Grecia y de la victoria que esa Embajada obtuvo sobre cuatro reyes griegos, "no por la espada, sino por la religión". En el Gobierno de Asoka hubo Ministro de Religión, Dharma Mahamatra, Ministro de Cultos. Los monasterios fueron generosamente dotados, y no se ahorró ningún esfuerzo oft cial para propagar la doctrina, a la vez que se garantizaba el ejercicio de la antigua religión brahmánica, y de todos los demás cultos.
+
+En el reino de Cachemira, el rey Kanishka imitó a Asoka, por el siglo I de muestra Era, adaptando el budismo como religión oficial y presidiendo un concilio, en el que se redaotaron algunos. comentarios, y deben haberse recopilado textos. Los datos allí reunidos, de ben haber servido para la gran obra de propaganda que el cálebre Najarguna, había de emprender en el Sur de China, propaganda que acabó por convertir al budismo a China y Japón, a todo el Asia civilizada.
+
+En el Sur, Ceylán se había hecho centro de la escuela denominada la pequeña Vía. Uno de los fundadores ⟦de la Iglesia ceylanesa fué Budaghasa. Bucaghosa na-⟧ ció oerca del árbol sagrado del Buda y se dirigió a Ceylán (por el año de 430 A. D.), donde se dedicó a redactar una enciotopedia budista, el Camino de Pureza, y una infinidad de comentarios. Et budismo cylanés había sido fundado por el príncipe Mihanca, hijo de Asoka, quien hizo una expedición y ocupó Ceylán con el objeto de convertirlo a la fe de su imperio.
+
+La historia del Budismo puede reducirse a la histo-
+
+⟦26g⟧
+
+[p. 270]
+
+ria de las dos grandes ramas ya enunciadas con ios nombres de Gran Vía y Pequeña Vía. Aparte de esto, la doctrina se alió con una infinidad de sectas y su-⟦persticiones.⟧
+
+El budismo chino y japonés se funda en las antiguas enseñanzas de Asvagossa, propagandista y comentador muy antiguo, a quien se atribuyen los comentarios que sirven de base a la doctrina Mahayana, predominante en estos países. Pero el del Asia, por el siglo III de nuestra Era, fué el célebre monje Najarguna, a quien se considera como el verdadero fundador de las iglesias mongólicas. Según parece, Najarguna enseñó la doctrina budista, ateniéndose a los comentarias de Asvagossa y. a las declaraciones del concilio de Kanishka, y sil iabor fué tan eficaz que hasta la fecha prevalece el budismo como la religión dominante en China, Manchuria, Corea, Siberia y el Japón. La escuela del Sur, con su centro en Ceylán, no ha sido menos afortunada, pues conserva millones de prosélitos en Siam y Cambodgia y la Indochina. En el reino de Siam, todavía el bridisma es culto oficial.
+
+En el múcleo de la población indostánica, el budismo, ni se propagó extraordinariamente, ni se conservó mucho tiempo, lo cual se debe a la resistencia que los brahmanes ofrecían a un oulto que desconocía el régimen de castas, y al sistema hábil de la religión brahniánica de asimilarse todas las nuevas ideas en materia religiosa. En el vedantismo contemporáneo, por ejemplo, los principales preceptos del budismo se hallan
+
+[p. 271]
+
+adoptados y concordados con las doctrinas tradicior.ales. Tal espíritu ecléctico es la gran fuerza del vedan-⟦tismo.⟧
+
+### 18.—La serie de los mundos y la serie de los Budas.—Los Brahma-Lokas
+
+## LOS BRAHMA-LOKAS
+
+Una de las tesis más curiosas e interesantes de los budistas del norte, o sea de la escuela de la Gran Vía, es la de la serie de los mundos y de los Budas. Según el gran Vehículo o gran Vía, más allá de los mundos de los dioses, se encuentran los dieciséis mundos de Bralhima; "Brahma-lokas", uno sobre otro. Según el estado de desarrollo espiritual que logra el monje, 'el solitario, así va a una u otra de estas moradas celestiales. Por último, los cinco mundos más altos están reservados para los que en este mundo alcanzan Nirvarra. Ahora bien, a cada uno de estos mundos superiores corresponde un Buda que se llama Dyana Buda o Buda místico. De suerte que son cinco los Budas que corresponden a la presente kalpa, es decir, a la presente creación del mundo. De estos cinco budas, ya ham venido cuatro, a saber:
+
+⟦Kakru-Chanda.⟧
+
+⟦Kanaka-Muni.⟧
+
+⟦Kasyapa y. Sakya-Muni, o Gotama, y está por venir⟧ ⟦el "Buda Maitreya".⟧ Por la época en que esta teoríá se inventó, el último Buda o encarnación humana de la divinidad había
+
+[p. 272]
+
+sido Gotama o Sakya-Muni, el fundador del Budismo. Pero Sakya-Muni, había predicho que su doctrina se vería corrompida y desaparecería al cabo de quinientos años, después de los cuales aparecería el Buda Maitreya, el "Buda Bondadoso", para revivir la fe de los hombres.
+
+Sea o no cierto que el Burda haya hecho tal precicción, sí consta que a los quinientos años su doctrina había sido corrompida primero y olvidada después, en la región de su origen, en todo el norte de la India, aunque persistía floreciente en otros muchos lugares. Las crónicas indostánicas ya no insisten después, en la aparición de un nuevo Buda; es evidente que ese nuevo Buda no se ha aparecido en el Indostán, hasta la fecha. Véase en el capítulo intitulado "Relación del Cristianismo y el Budismo" mi hipótesis sobre el Buda Maitreya, que llamo el Buda Misericordioso, y que identifico con ⟦Jesucristo (I).⟧
+
+### EL ARAHATISMO.—LOS BODISATAS
+
+La conquista del estado de emancipación, durante esta vida, es lo que se llama arahatismo. Un arahat es ⟦ un hombre que se ha desligado por completo del deseo,⟧ y cuya alma flota en las regiones inefables del Nirvana.
+
+En cierto sentido, el arahat corresponde al "Yoga"
+
+(1) La leyenda medioeval de San Josafat indica un intento de incorporar el Buda, al calendario cristiano, intento que no ipodía sostenerse ⟦soy por nal se pristentes de cron edica ciero de un ariado sincretis.⟧ s, aparte de se  mo religioso.
+
+[p. 273]
+
+de la secta yogui; pero mientras el yoga conquista su estado de. beatitud, mediante prácticas físicas, el arahat lo logra, más que nada, por el conocimiento de la verdad y la supresión del deseo, factores ambos que motivan la destrucción del karma.
+
+El arahat oultiva los estados de rapto místico; pero so llega a ellos por medio de prácticas externas. Estas prácticas pueden ser útiles porque remueven a veces los obstáculos que se oponen a la realización de la beatitud, pero el arahatismo, en esencia, consiste en la visión y la consumación del Nirvana.
+
+La doctrina del arahatismo dió lugar a un desarrollo religioso denominado "Mahayana" o gran vía, y que consiste en procurar la salvación de un gran número de fieles, de tados los fieles. A diferencia de la escuela Hinayana, pequeño vehículo, o pequeña vía, que limita la salvación a los arahats, los creyentes de la Mahayana sostienen que la salvación y la conquista del Nirvana, han de ser colectivos. Todos los hombres son ca: paces de llegar a ser, no sólo arahats, almas que se han libertado a sí mismas, sino Budas, es decir, alma que, además de libertarse a sí mismas, son capaces de ayudar a la salvación de las otras. Lo que se llama el "Bodisata" es un Buda creado por el propio esfuerzo, y heredero de los Budas anteriores, no precisamente de sus almas individuales, sino de sus karmas, de sus obras.
+
+La tesis de los Bodisatas es original de Najarguna y se parece a la doctrina de los santos que, no sólo se
+
+[p. 274]
+
+salvan a sí mismos, sino que interoeden para la salvación ajena; muestran el camino a los otros. Las Pitakas no reconocen la doctrina de los Bodisatas, y otros muchos estiman que no es canónica.
+
+## LOS LAMAS EL BUDISMO EN EL THIBET
+
+La doctrina de los Bodisatas, interpretada rigurosamente por los budistas del Thibet, dió lugar a la creación de un cisma, del cual procede la Iglesia independiente, conocido con el nombre de Lamaísmo.
+
+⟦Dl Lamaísmo prevalece en el Thibet mongólico, or-⟧ ganizado en Iglesia cuyos ritos se asemejan en muchos casos a los de la Iglesia católica. El jefe del culto se denomina el gran Lama, y es una especie de Papa en quien se supone reside el espíritu del Buda, y se le venera como a un Badisata. Los lamaístas prestan mucha atención a las letra de las oraciones y practican exoncismos y ensalmos. Las bendiciones, los amuletos y el rito solemme de los templos, ocupan toda la atención de los fieles. No sólo la doctrina se halla corrompida en esta dolorosa parodia de las grandes religiones, sino que el pensamiento ha sido sustituido can los balbuceos del estado hipnótico, y las supuestos milagros de la magia. El mismo Gran Lama, rodeada de los Lamas, o especie de Cardenales; dirige y preside las
+
+[p. 275]
+
+sesiones hipnóticas en que se evoca el espíritu divino para ponerlo a ejecutar suertes de fakir.
+
+Agréguese a esto, que los Lamas llevan mucho tiempo de ejercitar el poder temporal, y se tendrá idea de lo que es el Thibet, bajo la férula de estos sacerdotes fanáticos e ignorantes, que se alaban de cambiar a su antojo aun el curso de las leyes naturales.
+
+Aunque la Iglesia católica es en todos sentidos superior al Lamaismo, a un grado que no es justo ni establecer comparaciones, resulta curioso, sin embargo, observar las grandes semejanzas del rito de ambas, y el abuso a que en las dos ha dado lugar el poder temporal del clero.
+
+El emperador Kublai Khan, de la China, fué el primero que reconoció y garartizó el Estado religioso de los Lamas, y desde entonces la Iglesia del Thibet ha sido protegida contra las invasiones extrañas por las distintas dinastías chinas. Afortunadamente, a la fecha se halla en completa decadencia, una iglesia que deshomra al budismo y al ideal religioso de la humanidad.
+
+### LA INFLUENCIA DE LAS DOCTRINAS BRACMANES Y BUDISTAS EN LA FILOSOFÍA EUROPEA
+
+Algún autor que no recuerdo, probablemente Rhys Davis, afirma que el budismo fué la primera religión que se dedicó a haoer prosélitos, la primera religión que ⟦ no se fundaba para uso exclusivo de un pueblo, de una⟧ casta, sino para beneficio de todos los hombres. Ya he-
+
+[p. 276]
+
+mos indicado el éxito enorme que tuvieron los misioneros budistas, que se establecieron en el Japón y la China, y en casi todos los países asiáticos, y ahora ocurre preguntar: ¿qué pasó con los misioneros budistas que deben haber venido hacia occidente, hacia Europa? ¿ Acaso tuvieron que detenerse en la Persia que, por el siglo II de la Era Cristiana, revivía, o se quedaron entre las tribus tártaras, árabes y semitas?
+
+Poseemos pruebas de que la doctrina budista llegó a conocimiento, por lo menos, de algunos europeos de aquella remota época. Ya hemos indicado en capítulo anterior, que el libro clásico denominado las Preguntas del Rey Milinda fue escrito para convencer y convertir a un rey griego de la Bactriana, uno de los sucesores del Imperio de Alejandro.
+
+En la filosofía de Filón el hebreo, filosofía que se-⟦gún Vacherot (Histoire de Ecoles d'Alexandrial) es⟧ precursora de las ideas cristianas, existen claras influencias indostánicas. Y todo lo indostánico que salía de la India, se vestía cons ropaje budista, porque los budistas eran la única secta que protegía misioneros.
+
+,Sin embargo, no deben haber sido los budistas los primeros indos que llegaron a Europa a propagar ⟦doctrinas; también las yogas y los monjes brahmanes acos-⟧ tumbraron vagar por los más remotos lugares del mundo entonces conocido; así es que resultaría imposible descubrir las corrientes, que sin duda existieron, entre el Oriente y el Occidente, desde la más remota anti- ⟦güedad.⟧
+
+[p. 277]
+
+Las doctrinas órficas han sido explicadas por algunas autores como de importación oriental; en cambio, autoridades tan eminentes camo Zeller afirman que las dactrinas órficas, con todo el pitagorismo, se explican perfectamente bien, dentro de la sola tradición griega. Este aserto lo contradice la leyenda, según la cual Pitágoras llevó a cabo largos viajes, recorriendo lejanas tierras, de donde trajo los secretos de su ciencia. Pitágoras es muy anterior al budismo, pero el resumen de Las doctrinas órficas o doctrinas pitagóricas coincide con las viejos credos de la India. Aun detalles como la abstención de la carne, etc., revelan procedencia oriental, o por lo menos, coincidencia sumamente extraña.
+
+Las principales creencias del Orfismo eran: la inmortalidad del alima, la necesidad de reconocer la vida como un período de prueba durante el cual el alma debía prepararse para la eternidad, por medio de purificaciones y sacramentos o ritos; por último, la reencarnación de las almas en formas superiores o inferiores, según el mérito o la culpa de sus obras terrestres. He aquí, pues, las tres doctrinas fundamentales de toda escuela indostánica: inmortalidad del alma, transmigración de los seres y Karma, que rige esa transmigración. Muy difícil parece aceptar la tesis de Zeller, relativa a que Pitágoras se explica sin el Oriente.
+
+Pero aparte de todas estas discusiones de historiadores, de todas estas curiosidades de bibliofilo, lo que importa es anotar el hecho de que no sólo en Oriente, sino también en Grecia, los representantes eminentes
+
+[p. 278]
+
+del espíritu humano, aceptaron estas doctrinas: "inmortalidad", "transmigración", "Karma". Pitágoras creyó en ellas, Platón creyó en ellas y Pitágoras y Platón son lo más alto que produjo la Grecia.
+
+Después de Platón, el más grande de las filósofos hebreos, el precursor del cristianismo, Filón, se acercó también a estos preceptos fundamentales; ya sea que los tomara de versiones del Oriente, que bien pudieron llegarle, o que las adivinara por si mismo, tomándolas de ese ambiente en que perduran eternas las ideas fundamentalles, las revelaciones que son guía del espíritu humano.
+
+Y llegamos al caso de Jesús. ¡ Imposible penetrar el hondo misterio de la sabiduría de un personaje como Jesús! Todo el rastrear meticuloso de los filólogos y de los sabios, resulta impotente para explicar la doctrina de estos inspirados direatos de la divinidad; de esta alma, en la que el Espíritu se hizo Verbo y produjo los evangelios. Jesús predicaba la inmortalidad del alma, y la salvación por las obras y por la fe. No parece muy diaro, si Jesús creyó, o no creyó en la transmigración. Lo que sí se sabé es que San Pablo, el mejor intérprete de Jesús, modificó la doctrina hebrea de la resurrección de la carne, afirmando que la resiirrección era espiritual y no física. El problema inexplicable, profundo, de por qué Jesús no desarrolló una tesis metafísica o adoptó claramente alguna tesis consagrada, como la de la transmigración, me lo explico porque Jesús, a semejanza del Buda, era un Salvador;
+
+[p. 279]
+
+un Salvador mucho más eficaz, el verdadero y definitivo Salvador. No creo que tenga fundamento cientifico, afirmaciones, como las que hace Anie Bessant, diciendo que sí reconació Jesús la doctrina de la transmigración (Esotheric Christianity); pero me explico que Jesús no haya puesto mucha, atención en estos problemas, puesto que él venía precisamente a resolverlos de una buena vez. Según las creencias budistas, sólo un hombre, en cada largo período, es capaz de salvarse de la transmigración, el hombre que logra hacerse Buda, por renuncias y meditaciones y esfuerzos. Cristo, en dambio, vino a abrir las puertas del cielo a tados los hombres, enseñándoles una ruta más eficaz, que ia budista, y más al alcance de la criatura humana, la ruta del amor divino. Por eso Cristo no tuvo que ahondar problemas, que dentro de su doctrina resultan ociosos. Mas esto no quita, a mi juicio, que si no nos salvamos totalmente, que si no conseguimos la gracia que ha de asegurarnos la eterna beatitud inefable, reencarnemos; seguiremos reencarnando, y estoy seguro de que esta creencia en la transmigración no es incompatible con un sincero espíritu cristiano, puesto que Cristo no segó ta transmigración, y puesto que las demás teorías para explicar el más allá, las téorías hebraicas especialmente, las teorías bíblicas, son mucho menos acertadas, y mucho menos élevadas que las teorías de la metempsí-⟦cOsis.⟧ Después de Jesucristo, el cristianismo entró en un período de gestación en que había de asimilar las me-
+
+[p. 280]
+
+jores ideas de la época para canvertirse, no sólo en la revelación más alta de los destinos humanos, sino en la filosofía más completa que hasta entonces hubiera existido. San Pablo fué el primero en la obra de rechazar la metafísica hebrea y de adoptar la metafísica helénica como más apropiada para expresar, en términos de razón humana, la divina revelación de Cristo. San Pablo se inspiró aun sin saberlo, en Platón, y ya hemos visto cómo Platón y Pitágoras coincidían en su metafísica trascendental, con la metafísica trascendental del Indostán (I).
+
+Después de San Pablo, la metafísica cristiana siguió incubando y sufrió las vicisitudes del pensamiento general durante los primeros siglos de la Era Cristiana. Fueron éstos, siglos de anarquía y de escepticismo, pero también de fiebre mental y de tolerancia favorable al sincretismo: una edad en que las ideas de todas las razas vinieron a ser discutidas, libremente, en Bizancio, y en Alejandría y en Roma.
+
+Uno de los precursores de la escuela neoplatónica, fué Apolonio de Tyana, contemporáneo de Jesucristo y restaurador griego del pitagorismo. En la biografía de Filostrato consta que Apolonio fué a la India, en busca de saber, y que llegó hasta las ciudades que baña el Ganges. Apolonio predicaba doctrinas muy parecidas a las del Buda; se regaba a comer toda cosa que
+
+(1) San Pablo fué el primèro en romper francamente con la tradición antropomórfica de los hebreos, al afirmar que la resurrección no debia interpretarse material, sino idealmente.
+
+[p. 281]
+
+hubiese tenido vida, y a semejanza del modernísimo Tolstoy, se declaraba contra toda clase de guerras, afirmando que no tenemos derecho de matar en ningún género de circunstancias.
+
+Se ve, pues, por el caso de Apolonio, y por otros muchos que podrían citarse, que las ideas indostánicas llegaron a Occidente, y se propagaron, precisamente, en una época en que los nuevos credos se estaban formando.
+
+El siglo Ill de la Era Cristiana fué una era de cabal tolerancia religiosa, en que se juntaron en Roma y en Alejandría, y Bizancio, las ideas de todo el mundo conocido. El más grande filósofo de esa época, y quizás de todos los tiempos, el célebre Plotino, no fué un sectario, ni un hombre comprometido con escueia alguna. Plotino, también a semejanza de Pitágoras, se asomó al Oriente, y debe haber tomado de allí, a través de la Persia, todo lo que le pareció importante para su inmenso sistema. El principal maestro de Plotino fue Platón, pero el mismo Platón coincide con el Oriente en claridad y en método. Platino conoció tambren ai los cristianos y nunca los contradijo en lo fundamental de sus creencias, como nunca contradijo lo fundamental de la teoría indostánica. Todo el enojo de Plotino y de su sucesor Porfirio, estuvo dirigido, y justamente dirigido, contra las sectas gnósticas, y contra las inmumerables supersticiones y falsas teorías que en la época privaban.
+
+A pesar de todo esto, no se advierte en Occidente la
+
+[p. 282]
+
+influencia directa de la religión indostánica, y esto quizás se debe a que los preceptos del Indostán llegaban a las escuelas bizantinas, a través de los Persas, adoradores de Mithra-el Dios guerrero-, al través de los judíos, muy encastillados en su propia religión bíblica; al través de egipcios adoradores de Isis y de Osiris. Por eso la huella indostánica no se advierte en toda su pureza, más que en la doctrina de las grandes pensadores. Las ideas indostánicas, en forma de Teosofía, acompañada de prácticas esotéricas y mágicas, existió en el período neoplatónico, pero sin más carácter que el de una de tantas sectas que solicitaban la atención de los espíritus. Más o menos como la Teosofía contemporánea; sectas que explotan la ignorancia de las masas.
+
+El hecho de que las ideas indostánicas no llegaban al imperio Bizantino directamente, sino a través de otras sectas, explica que los padres de la Iglesia, y en general los filósofos cristianos, no mencionaran en sus polémicas, ni en sus prédicas, doctrinas que tanto purrto de semejanza tienen con las de Cristo. En las abras de Clemente de Alejandría se menciona al Buda, con el nombre inequívoco de Boutta, pero en general, no se ⟦ encuentra en los filósofos alejandrinos la huella clara⟧
+
+de las ideas budistas. Más bien es la Grecia la que da su metafísica al nuevo sistema teológico, que la Iglesia católica comenzaba a elaborar. Pero no debe olvidarse que este período neoplatónico fué una época eminentemente sabia, durante la cual 1 se analizaron y aquilata-
+
+[p. 283]
+
+ron todas las ideas conocidas, lo mismo las de Oriente que las de África o Egipto y Grecia. En el nuevo sistema cristiano, que había de dominar el futuro, pusieron su aporte todas las razas que convivían en el imperio griego, y todas los tiempos anteriores. De todo este rico conjunto habia de naoer una vigorosa tradición filosófica cuyos frutos aún no se acaban de re-⟦coger.⟧
+
+La esencia de las doctrinas que en Alejandría se incorporaron al cristianismo, o se definieron como propias del cristianismo, coincide exactamente con las ideas indostámicas. El tat twan ansi, la identidad de Atman y Brahma se repite claramente en la doctrina gnóstica de Clemente de Alejandría, cuando dice que el gnóstico se ejercita para llegar a ser Dios y luego afinma que el conocimiento de Dios trae aparejada semejanza con su naturaleza. Las especulaciones de Clemente sobre la Trinidad y sobre el Verbo, tienen mucho de platonismo, pero también de brahmanismo. Lo mismo puede decirse de Origenes; su afirmación de que Dios nunca nos habla desde fuera, sino dentro de nasatros mismos, y que lo que nos parece sensación divina, es la exteriorización que hacemos de nuestro "logos" interno, equivale exactamente a la tesis vedántica, tal corno pueden exponerla Samkara o el moder-⟦nísimo Vivekananda.⟧
+
+Estas coincidencias no demuestran imitación ni copia, sino confirmación de las verdades eternas. Cada época y cada raza, de acuerdo. con su idiosincracia y
+
+[p. 284]
+
+con sus luces, especulan sobre estos temas profundos; y lo admirable es que con igual sinceridad llegan a resultados en esencia idénticos. Sin embargo, la relación de unas escuelas con otras, de un vidente con otros videntes, es un estudio instruotivo y sorprendente que reconforta y convence.
+
+Seguramente, los futuros historiadores de la filosofía sabrán descubrir los hilos sutilísimos que ligan el pensamiento indostánicos, con nuestra cultura cristiana; y el período que guarda tados esos tesoros es el período neoplatónico de las escuelas de Bizancio y de Alejandría. Porque de la multitud de ideas que en dichas escuelas campeaban salieron los sistemas, de los padres de la Iglesia, de Plotino y de Porfirio y Jámbli-00, y de San Agustín; en suma, toda la mística y toda la motafísica accidentales.
+
+Vacherot, en su luminoso estudio de las escuelas de Alejandría, dice, refiriéndose a la obra de Platino: "que es una fuerte síntesis, un verdadero sistema en que se combinan las tradiciones de todas las escuelas y se organizan de nuevo bajo la acción poderosa de un solo pensamiento. A este pensamiento, profundamente extraño al espíritu griego, debe la escuela de Alejandria todo lo que excede los límites del platonismo; por ejemplo, la teoría del éxtasis, el concepto de la Unidad absoluta, principio, fin y centro de toda existencia; la teoría de la creación como un acto necesario de la po tencia divina, bajo forma de expanción o emanación"
+
+"El pensamiento dominante del neoplatonismo se en-
+
+[p. 285]
+
+cuentra en la doctrina esencialmente oriental de la "procesión". Según esta doctrina, el ser sale de su principio, como la luz del foco, por difusión, irradiación y emanación. El principio es el ser simple, invisible, inmaterial, concentrado todo entero en las profundidades de su esencia; el ser visible y sensible, exterior, no es sino la manifestación y la representación del primero."
+
+'De esta suerte el neoplatonismo concibe la Unidad, no solamente como unidad lógica, tal como se desprende del concepto de género, la unidad individual y orgánica de la forma, sino como una Unidad Sustancial, que es el'centro indiviso de donde se escapan los seres como los rayos de un foco luminoso. Para llegar a esta unidad no se emplea el procedimiento platónico del razonamiento dialéctico que conduce a la generalidad abstracta, sino un análisis interno, que nos llevia a concebir la unidad como unidad. " ...La unidad alejandrina, prosigue Vacherot, tiene un carácter propio; no es la unidad numérica de los pitagóricos, ni la unidad del género de Platón, ni la unidad de la forma de Aristóteles. Es una sustancia concentrada de donde emana lo múltiple sin agotarla ni modificarla."
+
+Con sólo alterar un poco los términos, resulta muy fácil identificar teorías neoplatónicas, con sus semejantes del Indostán, con el monismo de los Vedantas, y con las teorías de la liberación de los budistas, siempre que el Nirvana budista se interprete, como a mi juicio debe interpretarse, como liberación positiva e incremento de existencia, no como disolución final.
+
+[p. 286]
+
+El más reciente crítico de Plotonio, el inglés Inge, no obstante su tesis, no bien justificada de que Plotino es en todo su sistema un griego, un occidental y no un oriental, reconoce, sin embargo, la probabilidad de que sea exacta la leyenda según la cual Plotino llegó hasta Persia con el objeto de instruirse en la religión Brahmanica, pero tuvo que regrestar cuando se retiraron los ejércitos del Emperador Gordiano. El hecho de haber emprendido este viaje prueba la importancia que Plotino concedía a la filosofía oriental, y el origen de las ideas que, en su sistema, no puedan ser atribuídas a la Grecia.
+
+Las ideas místicas de la India, aunque poco conocidas, no nos parecen extrañas; no nos lo parecen porque el alma humana es una e igual en todos los pueblos, pero también porque ya recibimos de todas ellas un reflejo a través de la ilustre escuela de Alejandría. Plotino y los Padres de la Iglesia lograron concordarlas con el espíritu griego, y con la teología cristiana, y por eso, en realidad, desde hace muchos siglos, forman parte íntima de nuestra castiza y ancestral especulación.
+
+### RELACIÓN DEL BUDA GOTAMA CON JESUCRISTO
+
+En mi libro "El Monismo Estético" , en el ensayo sobre el Cristianismo, hago notar que la tesis indostánica de los Budas o Iluminados, que aparecen periódicamente para salvar lai los hombres, es una tesis que resuelve el conflicto de la existencia de Buda, y la aparición pos. 15
+
+[p. 287]
+
+terior de Jesús. A los ojos de un budista creyente, la fe cristiana resulta inútil, y para un cristiano la existencia del budismo es una digresión, muy difícil de justificar, dentro de los dogmas tradicionales.
+
+Los historiadores tampoco nos dan mucha luz sobre la relación mutua, mi sobre las causas de estas doctrinas tan comexas en algumos puntos, tan distantes ambas, que juntas se dividen la atención de los hombres; y rara vez se reemplazan una a otra en la conciencia de sus respectivas adeptos. Siempre que se han encontrado misioneros oristianos con misioneros budistas, parece que ninguno de los dos avanza un paso. El cristianismo no enraiza en los países budistas y el budismo no logra dominar en las conciencias cristianas. Sin embargo, todo el que medite desapasionadamente en los dos sistemas excelsas, experimentará veneración mezclada de confusión dalorosa. Pues es terrible la contradicción grave, o la duda, en asuntos que nos interesan por encima de toda cosa humanta.
+
+Quien no pasee la pureza de corazón que es necesa-
+
+Tia para alcanzar siquiera sea un vislumbre de las verdades divinas, no puede dar su experiencia como definitiva. Pero sí es ilegítimo atestiguar la paz y la luz que en la mente difunde la mera expresión de la teoría indostánica de los Budas o salvadores sucesivos. Mírese atentamente la tesis y en seguida todo se aclara y el po der de la revelación divina se acrecienta sin medida.
+
+En mi ensayo ya citado afirmaba que la novedad capital introducida por Jesucristo en la doctrina de la sal-
+
+[p. 288]
+
+vación es: el recurso de la Misericordia divina. Según la doctrina de Sakya Muni o Gatama, sólo los Budas se salvan, porque sólo ellos son capaces del inmenso esfuerzo que se requiere para conquistar el Nirvana; por eso sólo hay unos cuantos Budas, entre millones y millones de almas. Es decir, que, según esto, y no ateniéndonos más que a esto, la doctrina de la salvación es un fracaso, porque ¿ qué importan esos raros Budas, comparados con el infinito número de almas destinado a perenne esclavitud, en los naceres y renaceres de las edades y de las kalpas? ¿ Comprendió el mismo Buda la limitación y la injusticia de sus sistema, cuando predijo que después de él vendría otro Salvador, un Salvador que había de ser maestro del perdón y de la Misericordia? Es muy probable que si lo haya entendido, porque la conciencia de los Videntes posee anticipaciones maravillosas. De todas maneras, es evidente que la aparición de Jesús se hacía necesaria, imprescindible, pues él trajo el impulso divino que los hombres necesitaban para acelerar su marcha por los rudos y despiadados senderos del karma; ese impulso es la gracia emanada del amor divino; la Gracia que, al esparcirse, renovó el mundo, y llenó con un regocijo de belleza a la creación entera.
+
+En mi citado ensayo me representé a Jesús, como el Buda Misericordioso, reformador de la ley rigurosa del karma, y dispensador de la gracia divina, y ahora no sólo confirmo esta interpretación, sino que creo poder reforzarla con las mismas profecías del Buda, del Buda ⟦Sakya Muni.⟧
+
+[p. 289]
+
+La teoría de los Budas sucesivos es común a varias' escuelas o sectas indostánicas, pero existe un libro atribuído a los primeros budistas-los que conservaban viva la tradición del Maestro-, el cual se intitula: "Budivansa" o historia de los veinticinco Budas. El Budivansa forma parte del Kudhaka Nikaya, parte a su vez de las Pitakas; de suerte que se trata de un texto genuinamente ortodoxo para el budismo.
+
+⟦Pues bien, según el Budivansa o Budha-vansa, el Buda⟧ Sakya Muni o Gotama predijo que su doctrina floreceria por algún tiempo, pero que después había de decaer, y acabaría por ser olvidada; tan alvidada y corrompida, que, a los quinientos años de su propia predicación, aparecería un nuevo Buda encargado de revivirla, encargado de alentar otra vez a los hombres en la empresa de su salvación; y que este nuevo Buda se llamaría el Buda Maitreya, el Buda Bondadoso, el Buda Misericordiaso, —diríamos nosotros.
+
+La predicción no necesita comentarios. Basta escucharla para sentirse profundamente conmovido, y como aquél ante quien de pronto se abrieran los cielos para descubrir alguna verdad eterna. Creo firmemente que el Buda predijo la aparición de Jesucristo, y llevó su profecía al grado de exactitud que le permitió dar el nombre de su sucesor divino. El Buda Maitreya, dijo que se llamaría su sucesor. Y nunca, ningún Buda, ningún santo, ningún sabio, ningún vidente, había dado al amor y a la bondad la importancia que Cristo les dió para asegurar la salvación. Recórrese toda la historia humana y
+
+[p. 290]
+
+no se encontrará un solo personaje que pueda disputar a Jesús el título de Buda Mantreya, No hay tampoco doctrina, aparte de la de Cristo, que haga depender la salvación de la Misericordia divina.
+
+Claro que así que nos pasa el vértigo de la iluminación, y tan pronto como el raciocinio, el ruin y estéri raciocinio analítico, nos lleva a estudiar los detalles de La profecía budista, descubrimos incompatibilidades graves entre lo promosticado por el Buda y lo predicado por Jesús. El Buda, por ejemplo, afirma que el Buda Maitreya restituiría por entero su doctrina. Sin embargo, el Buda ni siquiera sospechó la doctrina de la gracia y la misericordia, que había de predicar Jesús. Lo más que puede afirmarse es que el Buda presintió confusamente cuál sería la sustancia de la predicación cristiana, cuando dijo que el esperado era um Buda Maitreya; "maitreya" quiere decir bondadoso. Camo se ve, por una parte soñaba el Buda con que su doctrina sería restablecida integramente, y en esto se equivocó, y estuvo bien que se equivocara, pues para restaurar no hacen falta Budas, sino sólo hombres de gran virtud. Pero al mismo tiempo el Buda sintió, que lo que hacía falta en el mundo era Amor y Bondad, de un poder superior al de los pobres seres humanos. Esta necesidad no la analizó en el texto de su profecía, pero en cambio la adivinó y la fijó, acaso sin darse bien cuenta de ello, cuando dió al nuevo Buda su nombre y calificativo; cuando dijo que el nuevo Buda se llamaría: "El Buda Maitreya."
+
+Consta en la misma profecía de Sakya Muni que el
+
+[p. 291]
+
+Buda Maitreya había de aparecer cinco mil años desprós de su propia predicación, y ya que su doctrina estuviese totalmente alvidada. Si en asuntos de esta naturaleza sublime fuéramos a preocuparnos por la ruin exactitud de los detalles, sin duda que hallaríamos un grave error en el hecho de que Cristo apareció, más o menos, quinientos años después de la predicación del Buda. La imperfección humana está obligada a conformarse con aproximaciones de las verdades eternas. Por to demás, esto de comprobar cálculos no tiene importancia más que para la ingeniería. Sin embargo, algún exégeta, todavía muy imbuído de la preocupación matemática, podría afirmar que sin duda el Buda no mencionó un período de cinco mil años, sino de quinientos. Y esto se puede sostener muy bien, dentro de la exégesis budista, puresto que quinientos años es el período designado para la desaparición de la doctrina de Sakya Muni, y es natural que al fin de ese período, y no miles de años después, sería el momento oportuno para la aparición del Buda Maitreya. La refutación es evidente, pero en realidad carece de importancia; los detalles envilecen la doctrina.
+
+Y, al pensar en todo esto, se explica uno por qué, hasta ahora, no se ha podido evangelizar el Oriente. Pues hemos ido, los llamados cristianos, a presentar a Cristo como un Dios que no perdona a los que no abrazan su fe, en vez de ir, como hubiera podido hacerlo San Francisco, a predicar la doctrina del Dios Misericordioso, a decir a los hombres de Oriente que está consumada la
+
+[p. 292]
+
+predioción del Buda Gotama; a avisarlos que había apa-⟦recido el mievo Buda, el Bude Misericardioso, el Buda⟧ ⟦Maitreya.⟧
+
+### EL JAINISMO O SECTA DE JAIN
+
+El jainismo es contemporáneo del budismo y corastituye otra desviación importante de la corriente ortodo xa. El jainismo no repudia las Vedas, pero tampoco se cuida de interpretarlos rigurosamente. Como todos los demás sistemas indostánicos, el jainismo acepta las ideas generales de inmortalidad, transmigración, karma, etcétera, etc.; pero los jainistas parocen haber hecho hincapié en la doctrina de los kalpas o períodos de comatrucción y reconstruoción del mundo. De Jain procede la interesantísima tesis que afirma la aparición sucesiva de salvadores o Budas que ayudan el proceso de salvación de las almas. Teoría que permite concitiar la presencia y la doctrina de tados los grandes videntes, haciendo que todos ellos converjan al fin de salvar, en vez de combatirse y disgreganse, como sucede en las luchas de las religiones formalistas.
+
+Los testos originales de ll jainistas se denominan Purvas, pero se han perdido. El más antiguo texto co nocido fue redactado en el siglo V A. C.
+
+El fundador de la doctrina se llamaba Viddahamana; pero después se le ha llamado Mahavira, que quiere decir héroe mayor. Se sabe que fue un asceta de gran vir-
+
+[p. 293]
+
+tud y sabiduría, y la doctrisa que predicaba no era sino repetición de lo enseñado por otros sabios que lo habían precedido; grandes videntes o Jinas.
+
+⟦La doctrina de Mahavira o dactrina jainiste onseña⟧ que el tiempo no tiene fin, pero que se subdivide en grandes eras o kalpas (I), como una rueda con aspas. Cada aspa corresponde a un período de vida, y el espacio intermedio a una suspensión o involución de la vida. Algumas de estas eras son ascendentes, y durante ellas la vida prospera; otras descienden, y representan períodos de imperfección y de mal. A cada edad corresponde la aparición de un vidente o salvador, llamado Jina o Ti-⟦tharaka.⟧
+
+(I) En Grecia, la teoría de las Kalpas se expresaba en la doctrina ⟦orfica que Inge (The Philosophy of Plotinus, vol. I), resume de este⟧ modo: La rueda del nacer está gobernada por los círculos de los cielos. El alma apresada en el circulo, pasa por varias formas, ya como bombre, como bestia o como planta. El cielo consta de diez mil años solares, y al fin de cada ciclo, el alma puede escapar de su cautiverio, y comienza un nuevo orden de cosas. Esta teoría, dice Inge, es una mezcla de la vieja creencia en la reencarnación, con las teorías astronómicas de Babilonia, según las cuales, después de muy largos intervalos periódicos, todas las estrellas vuelven a su posición primitiva.
+
+Hay otra teoría sobre las kalpas, una especie de kalpas espirituales, que cito en uno de mis ensayasi «El cristianismo, etc.»; pero no he podido después volver a encontrar el pasaje en que se funda. Es la teoría de que periódicamente vienen épocas en que se intensifica la afmidad de las almas con el creador, y, por lo mismo, se abren muchas a la luz del conocimiento y se salvan. Sería esto algo semejante a los jubileos de la Iglesia Católica: períodos gloriosos en que Dios se acerca a las criaturas. En apoyo de la tesis podrían señalarse épocas de revelación, y de purificamiento generales; épocas en que la humanidad entera parece adquirir conciencia de su misión y se deja poseer de lo divino. Así, por ejemplo, deben considerarse épocas de kalpa espiritual: el reino de los Asakas, que hizo del budismo doctrina de aplicación diaria; los primeros siglos del cristianismo; después, la escuela de Plotino.
+
+[p. 294]
+
+Todos los hombres, y también todas las cosas, poseen un alma particular o jiva, y esta jiva, según el karma y los procesas de la transmigración, vaga por este mundo y por otros diez mundos o continentes que, semejantes al nuestro, existen en los espacios. La salvación se logra por la intercesión de los Jinas y practicando sus preceptos y las mortificaciones físicas. Este último es el rasgo que más separa al jainismo del budismo, pues los jainistas acusan a los budistas de no castigar suficientemente el cuerpo. Los jainistas andaban desnudos para indicar que se hallaban libres de toda traba mundana, y tambiéri libres de pecado y de la transmigración. Esta costumbre dio origen a la construoción de las enormes y bellas estatuas desnudas de los templos y monumen-⟦tos jainistas.⟧
+
+Los libros sagrados de los jainistas se llaman Agamas, y son en número de cuarenta y cinco, escrito en dialecto jain prakrit. Más tarde fueron redactados en sánscrito, al ser adoptado este idioma como lenguaje oficial de la iglesia jainista.
+
+Para más detalladas noticias, véase: "Kalpa-Suttras ⟦de Bhadrabatu"⟧
+
+', traducción de Jacobi. Leipzig, 1879.
+
+Se calcula en dos millones el número de devotos al ⟦ culto Jain, los cuales se hallan distribuídos entre las⟧ ciudades del Ganges y el Guzerat y la costa occidental.
+
+En realidad, el jainismo ha sobrevivido en la India e su rival y contemporáneo el budismo; pero, en cambio, el jainismo no ha salido de la India, no hizo prosélitos.
+
+[p. 295]
+
+⟦• Indostánicos⟧
+
+• studio g
+
+El budismo, gracias a sus tendencias católicas, domina hoy todo el Oriente, a excepción de la India, y es la religión que cuenta con mayor número de fieles. Sus adeptos son más numerosos que los adeptos del cristianismo.
+
+[p. 296]
+
+## RENACIMIENTO VEDÁNTICO. SAMKARA.—RAMANUGA.—ECLECTICISMO CONTEMPORÁNEO.
+
+### BRAHMANISMO VEDÁNTICO SISTEMA ECLÉCTICO DE SAMKARA
+
+Un fervoroso propagandista moderno de la escuela vedántica, el Swami Vivekananda, ha dicho en una conferencia en Lahore:
+
+"En el principio de todo se encuentran las Revelacio nes, los Sutris (sentencias), es decir los Upanishads.
+
+En segundo término, entre muestras filosofías, los Suttras de Vyasa gozan de fama, parque contienen un resumen de todos los anteriores sistemas de filosofía.
+
+Todos estos sistemas se apoyan unos a otros, y el tema fundamental se desenvuelve y culmina en los Suttras,
+
+⟦suttras de Vyasa. Y entre los Upanishads y los Suttras,⟧
+
+suttras que son una sistematización de las verdades maravillosas del Vedanta, nos encontramos el comentario ⟦ divino de la doctrina vedántica, el Baghavad Gita.⟧
+
+⟦Los Upanishads, el Baghavad Gita y los suttras de⟧
+
+Vyasa constituyen, pues, textos fundamentales de toda secta que se considere ortodoxa. Y la palabra vedanta se puede aplicar con propiedad a todas las doctrinas que ⟦ acepten la verdad de estos textos" (I).⟧
+
+(1) Conferencia en Lahore.
+
+[p. 297]
+
+El vedantismo es, pues, la escuela que se funda directamente en la autoridad de los Upanishads. Como ya hemos visto al hablar de los Upanishads, el número de estos textos ha sido siempre enorme, y de alli ha susgido la necesidad de sistematizarlos. La más aceptada y famosa y la más antigua de estas sistematizaciones es la de Badarayana, autor de una serie de aforismos tomados de los Upanishads y coleccionados bajo el nombre de Brahma-Suttras-Aforismos de Brahma. Estos mismas aforismos son los que menciona Vivekananda en la cita que antecede, bajo el nombre de comentarios de Vyasa, pues se atribuyen tanto a Badarayana como a Vyasa, dos sabios legendarios sobre los que se tienen datos escasas y contradictarios.
+
+Más tarde aparece el gtan filósofo Samkara, que, tomando como punto de partida la colección de Badarayana o de Vyasa, verificó una nueva sistematización.
+
+Samkara aprovecha la mayor ilustración filosófica de su época para formular un sistema mucho más acabado que todos los anteriores; aprovecha el desarrollo de la lógica, que había sido considerable bajo la escuela de Nyaya, y en todos sus comentarios y discursos se expresa con la claridad y concisión de un filósofo disciplinado. Las mas antiguas y confusas tesis Samkara las rodude a expresiones modernas y las precisa: Asi, por ejemplo, Samkara, antes de Kant, llegó a concebir la tesis de que el espacio y el tiempo son condicionas de la inteligencia finita. Al hacer el estudio de la clásica teoría del velo de Maya, definió el Maya como el conjunto
+
+[p. 298]
+
+de espacio, tiempo y causación; todo lo que entra dentro de estas formas, todo lo fenomenal, diría Kant, esto es, Maya; lo que está detrás, el absoluto desconocido, ⟦el nóumeno de Kant, eso es Brahma.⟧
+
+La tesis fundamental de los Upanishads, interpretada rigurosamente por la escuela vedántica a través de una larga tradición, es la de la identidad del alma humana con Dios, la identidad de Brahma y de Atman. La más sagrada enseñanza de los Vedantistas se contiene en esta frase: "Aquel que es la esencia de tu alma ése es la verdad, ése es el Ser, Tú eres El, Tatt Kam así". Tú eres El, tú eres eso, tú eres esto, Brahma es la esencia de todo, está en todo. En realidad, Brahma y Atman son una sola y la misma cosa, la unidad absoluta.
+
+Sin embargo, existe "maya" , existe el fenómeno; de este hecho no debe deducirse un dualismo, porque el fenómeno no es más que maya, forma y nombre, carece de realidad. Los datos de los sentidos no poseen realidad, son parte de maya; la única realidad es el yo, la esencia del ser consciente, eso es Brahma, eso es Dios. El misterio de Maya y el misterio de la multiplicidad se explica porque Brahma trata de expresarse a través de lo finito. Ese deseo de expresión de lo Absoluto produce el fraccionamiento en los distintos individuos, y todo el tejido de maya, tejido que se reduce, según la expre sión de Samkara, a "forma y nombre". Pero lo importante, el sujeto, ése es uno, aunque se multiplique en distintos cuerpos, ya de animales o de hombres, o en la Naturaleza.
+
+[p. 299]
+
+Algunos comentadores llevan esta tesis hasta en sus conclusiones radicales, y asi acaban en un panteismo que recuerda la unidad absoluta de la substancia de Espinosa. De esta doctrina proceden las comparaciones clasicas en la literatura indostánica, del alma con la gota de agua que vuelve al Océano. Mientras hay cuerpo, dice Samkara, subsisten el placer y el dolor; sólo cuando nos separamos del cuerpo podemos libertarnos de ellos. El Atman no tiene cuerpo. Samkara construye un coherente racionalismo pamteista.
+
+Sin embargo, el panteísmo vedántico no ha conducido al materialismo. La verdadera interpretación de la tesis vendántica no es que la persomalidad, al perderse en el todo, desaparezca; al contrario, cuando la individualidad logra libertarse de Maya, logra sacudir todos los deseos y exceder las límites de la forma; vuelve a lo Absoluto, se reune de nuevo con él y se identifica con él. Entonces comienza una vida total, una manera de ser positiva y eterna. Esta sensación de plenitud de poder, de una unión con la conciencia del mundo, de un estado en que todo cuanto es parte de nosotros mismos, en que, por decirlo así, somos nosotros Dios, porque nos hemos identificado con lo Absoluto, se encuentra en todos los filósofos vedánticos. Samkara acepta la tesis y la reduce a un sistema riguroso, que concluye afirmando la salvación positiva.
+
+En los mismos Upanishads se ve claramente, que la intención de la doctrina no es predicar la desaparición total, en lo que hoy llamaríamos las fuerzas de la natu-
+
+[p. 300]
+
+Taleza No, la doctrina es inversa. Sostione que las fuerzas de la naturaleza, el sal, la luna, el tiempo, el espacio, todo esto que condiciona nuestra vida terrestre, es irreal, falso, obra de Maya, asunto de forma y nombre, pero ajeno a 10 Absoluto.
+
+¿ Qué es, pues, lo Absoluto? La pregirata la contestar los textos himdús, lo mismo que suestros pensadores de Oocidente. Lo Absoluto no posee más que calidades de gativas. Lo único que de él se puede afirmar, es que no es esto, ni esto, ni estotro. En realidad, dicen los hindús, nada se puede predicar de Brahma; pero, por lo mismo que Brahma está fuera de Maya, Brahma es indestructible; es indestructible porque no tiene forma, y sólo lo que tiene forma pereo; y es eterno, porque está fuera del tiempo. Así, pues, el cambio y la muerte no afectan a Brahma, como no afectan al atman; no nos afectan: nosotros somos indestructibles, eternos. Y esta creencia, fundamental en la India, es tan antigua como las más antiguas. Todavía los altones contemporáneos de la India citan el caso del filósofo que, al ser amenazado con la muerte par Alejandro, se rió y le dijo: "tú no puedes matarme, porque mi espíritu es inmortal."
+
+En la introducción de sus comentarios, Samkara explica que todo conocimiento empírico,-derivado de los sentidos, —es Avidya ignorancia. En contraposición de este conocimiento físico, se encuentra el conocimiento mental, la metafísica vedántica: Vidya, conocimiento. La salvación, pues, según Samkara, reside en el canocimiento. Cuando atman, o el yo, se da cuenta de que su
+
+[p. 301]
+
+esencia es la misma de Brahma, de que es Brahma, entonces ya no le afeotan los sucesos de la Maya, y está salvado.
+
+Sin embargo, para llegar a un conocimiento eficaz, a un convencimiento de esta identidad con Brahma, es preciso consunter lo que los hindús llaman la realización, la comunión. El principio es la identidad del atman con Brahma, pero el atman se halla rodeado de obstáculos; esos obstáculos son las formas y el nombre (maya), y los deseos. Para libertarse de todo esto es necesario someterse a dsciplinas severas.
+
+Estas disciplinas se reduoen a seis en el sistema de ⟦Samkara.⟧
+
+La primera condición es discernir entre la sustancia eterna y la no eterna. Por sustancia eterna debe entenderse Brahma y por no eterna, todo lo demás. Como esta es la condición primera y final del sistema, debe entenderse, observa Deussen, que al principio basta con una disposición metafísica; basta concebir un sér inmutaible en contraposición de todo lo que cambia. Y esta es, agrega Deussen, condición que también exige como previa Platón, en el Timeo, al comermar te exposición de su metafísica.
+
+La segunda condición que impone Samkara es la renuncia de todo goce o recompensa terrestres, o futuros. Sin este desligaimiento absoluto de las cosas finitas, es imposible comprender lo Absoluto.
+
+La teroera condición consiste en la reunión de otros seis estados de alma o disciplinas espirituales, a saber:
+
+[p. 302]
+
+Tranquilidad, (Cama), — Continencia -(Dama)— Re-⟦nunciación -(Parati)Creencia o fe (Cradda).⟧
+
+Final y principalmente, y una vez intentadas todas estas normas, "el anhelo de la liberación"
+
+Camentando este último requisito, dice Deussen :
+
+"Y en efecto, pues aquél que goza los días de su vida con infantil y helénico regocijo, por muy alto que su genio vuele en otros asuntos, solamente podra tacar, de paso, los más altos y definitivos problemas del ser, tal como lo hicieron los griegos. Para pensar estos problemas plena y claramente, hace falta el profundo sentimienta de la vanidad e inutilidad de esta vida, y por lo mismo, ansia de dejarla, ansia de pasar de lo no existente a In existente, de la oscuridad a la luz, de la muerte ⟦a la inmortalidad, como dice el Upanishad Brhiadaran-⟧ kaya; ansia que ha sido siempre la nota dominante de la filosofía indostánica."
+
+Capio el párrafo antihelénico, aunque es injusto, si por Grecia se entiende a Pitágoras y a Platón, a Esquio y a Euripides; por lo demás, esa alegría sin profundidad de que habla Deussen, quizas no es más que maia apreciación de los comentadores modernos.
+
+Se ve por los pánrafos anteriores que el sistema de Samkara, y en general el sistema vedántico, toma poco en cuenta ideas que en otras escuelas son fundamentales, camo la idea del deber, que es capital del Jaimini, o el karma de otras doctrinas. En el sistema de Samkara la sall vación sie efeotúa por el conocimiento. De este conoci. miento nace amor, amor y júbilo que ya se expresa des-
+
+[p. 303]
+
+de los más antiguos Upanishads, y que todavía en nuestros días resuena en la elocuencia de Vivekananda, y en la poesía de Tagare.
+
+"Cuando de verdad comprendemos que los demás bombres son yo, lo mismo que yo, nos sentimos unidos con el amigo y con el enemigo, con el malo y el bueno, pues todos son yo, y yo soy todos ellos. Ante cada ser, ante cada cosa, la doctrina exclama: Tat Iwam así, tú ⟦eres esto" (Vivekananda).⟧
+
+El esfuerzo importantisimo de Samkara consiste en haber construido un sistema coherente, con los textos vagos, a veces cantradictorios y siempre profusos, de los Brahma Sutras; es decir, en realidad, con la doctrina de los Upanishads, ya que los sutras son recopilación y comentario de esa doctrina.
+
+La obra de Samkara se divide en cuatro partes principales: Teología, Cosmogonía, Doctrina de la Transmigración y otras discusiones y estudio de los medios que son neoesarios para alcanzar el estado de Brahma; por último, Escatologia.
+
+En toda la doctrina vedántica, a semejanza de casi todas las escuelas indostánicas, hay que distinguir dos partes distintas: la exotérica y la esotérica. En la exposición que sigue comenzaremos enumerando la primera, y reservaremos para el final los extractos de la doctrina esotérica de Samkara. No parece necesario agregar que la doctrina esotérica, destinada a la mayoría inculta, no es propiamente filosofía: o metafísica, sino mito y re-⟦ligión.⟧
+
+[p. 304]
+
+0 8 . |
+
+La definición de Brahma es, en realidad, el centro de toda la doctrina Para lograr esta definición, Samkara recurre a citas de los Upanishads.
+
+"Brahma es la causa y la fuente de la disalución de este mundo, que se extiende en nombres y formas. Bralma es la causa omnisciente y omnipotente del origen, persistencia y fin de este mundo. Brahma es la causa primera, no tiene padre ni progenitor."
+
+"Brahma es la luz primordial de la cual se alumbra todo el universo. Brahma es la última causa del mundo."
+
+"Brahma es la esencia más íntima del horabre. El hombre consiste de alimento; en este cuerpo, hecho por el alimento, reside un yo, que es aliento; en éste reside otro yo, que es inteligencia, y en el fondo de esta inteligencia, el yo bendito, que es el Aman o Brahma."
+
+"Brahma es incapaz de mal, está libre del mal. Bratma también está libre del sufrimiento."
+
+"Brahma es el creador y el destrustor del mundo."
+
+"Brahma es muy grande y muy pequeño. Brahma está libre de ila ley de causa y efecto."
+
+"Brahma es goce y amplitud."' A este propósito copiamos en seguida el admirable pasaje del Upanishad Candogya, que traduce al inglés Deussen: ⟦, "Upakasala, el hijo de Kamala, vivía compo diracipado⟧ en casa de Satyakama, el hijo de Jabala. Dace años guardó Upakasala los fuegos de los sacrificios, y el maestro despidió a las otros discípazios; pero a él no le despidió. Entonces la mujer del maestro dijo a su esposo: "El discípulo está descontento; sin embargo, ha
+
+[p. 305]
+
+cuidado bien los fuegos; mira, no sea que los fuegos le hablen, ya que tú no lo haces; enséñale la doctrina." Pero el maestro, en vez de enseñar, emprendió un viaje. Entonoes el discípulo cayó enfermo y no quería comer. Y la mujer del maestro le dijo: "Come, discípulo; ¿por qué no cores?" Y él repuso: "¡ Ay, existen en el hombre tantos deseos! Me abruma la enfermedad; no quiero comer." Entonces los fuegos se dijeron entre sí: "El discípulo sufre; sin embargo, nos ha cuidado bien. Vamos, pues, enseñémosle la doctrina", y le dijeron: "Brahma es la vida, Brahma es la alegría, Brahma es amplitud." Y él dijo: "Ya sé que Brahma es la vida; pero la alegría y la amplitud no las conozco."
+
+Y los fuegos dijeron: "Verdaderamente, la amplitud es la alegría, y la allegría es amplitud". Y explicaron cómo Brahma era vida y espacio abierto, etc. Ahora bien; el maestro, cuando hubo regresado, le dijo: "Tu rostro resplandece, querido mío, como el de quien co noce a Brahma. ¿Quién, pues, te ha enseñado?" Y el discípulo refirió el pasaje amterior... Entonces el maestro dijo: "Las llamas sólo te han enseñado los lugares donde se encuentra Brahma; pero yo te voy a decir cuál es su esencia misma. El hombre que se ve en las ojos, ése es Brahma, el inmortal. También se le llama príncipe y heraldo de amor, porque todo lo que es amable él lo guía. También es principe radiante, porque en to dos las mundos irfadia. Por lo mismo, cuando uno de estos hombres (que ya han visto a Brahma, un atman), cuando uno de éstos muere, ya sea que se celebren ritos
+
+[p. 306]
+
+funerarios o que no se celebren, él penetra en la flama
+
+(del rito), y de la flama pasa al día, y del día a la luz, por medio mes; de la luz al sol, y del sol a la luna, y de la luna al relámpago. Allí encuentra uno que no es ser humano, y ése le conduce hasta Brahma. Por tal camino van; para éstos, pues, no hay retornò a la tierra, no hay retorno."
+
+Otro texto expresivo de cómo entienden la liberación, si no los adherentes estrictos de Samkara, sí, por lo menos, los antiguos Upanishads, es el que sigue, atri-⟦buído a Yajnavalkia, el viejo filósofo de los Upanishads:⟧
+
+⟦"Upanishad Brid.—4, 5—Yajnavalkia tenía dos mu-⟧ ⟦jeres: Maitreya y Katyayani. De estas dos, Maitreya era⟧ instruida en Brahma; la otra, al contrario, sabía sólo lo que las mujeres saben. Ahora bien: como Yajnavalkia desease pasar a otro estado del estado de padre de fa-⟦milia al de ermitaño-, Yajnavalkia dijo a Maitreya:⟧ 'Abandonaré el estado de casado; por tanto, repartiré mis bienes entre Katyayani y tú." Entonces contestó Maitreya: "En verdad, dueño mío, si toda esta tierra, con sus tesoros, me perteneciese, ¿ sería yo, por eso, inmortal?" "De ninguna manera — contestó ⟦Yajnavalkia—; tu vida sería próspera; mas no hay esperanzas de⟧ alcanzar la inmortalidad con las riquezas." Y Maitreya dijo: "Para qué me servirá entonces aquello que no me ha de dar la inmortalidad; comparte conmigo, maestro, el saber que tú posees." Yajnavalkia dijo: "Grata es tu respuesta, amada mía; ven a mi lado y atiende a lo que he de decirte: En verdad; no es el esposo digno de
+
+[p. 307]
+
+amor parque es esposo, sino por su ser... El ser, oh Maitreya, ha de verse y oirse, y meditarse, y ha de investigarse; el que ha visto, y oído, y meditado e investigado el ser, ése ha enteridido todo el mundo... Así como un terrón de sal se disuelve en el agua de modo que ya no puede ser extraído sino que por toda el agua, al probarla, encontramos la sal, así es este ser: grande, sin fin, sin riberas, todo conocimiento, de extremo a extremo; de las criaturas procede, como espíritu consciente, y con ellas perece otra vez. Déspués de la muerte no hay conciencia. Así en verdad te digo." Entonces Maitreya habló de esta suerte: "Pero esto, ¡oh, maestro!, me conturba, pues has dicho que después de la muerte no hay conciencia." Y Yajnavalkia dijo: "No he dicho nada que sea inquietante; lo que dije basta al entendimiento, porque donde hay dualidad, alli uno ve al otro; oye, huele y habla, conoce a otra; pero así que para un hombre todo se ha hecho su propio ser, ¿cómo podría haber alguien, cómo podría haber otro, córno podría haber olfato, oído, habla, pensamiento, conciencia de ningún otro? ¿ Cómo podría conocer lo Cognoscente? Ahora ya sabes la doctrina, Maitreya; esto, en verdad, basta para la inmortalidad." Así dijo Yajnavalkia, y partió.
+
+Samkara, comentando un pasaje del dios clásico, Prajapati, nos da la definición clara y precisa del concepto vedántico, un concepto que es el monismo más radical ⟦de todas fos monismas.⟧
+
+Dice Samkara: "Los pasajes de la escritura, como por ejemplo, Tat twam así, "tú eres esto", "esto es
+
+[p. 308]
+
+, expresan la verdadera naturaleza del alma indivi-⟦tú".⟧ dual, no la otra forma de dicha alma, producto de limitaciones. Por lo mismo, en tanto que no hacemos a un lado la ignorancia que afirma la pluralidad, ignorancia que es como creer que el tronco de un árbol es un hombre; en tanto que no hemos alcanzado el más alto y eterno yo, y que no hemos visto este ser, segun su propia naturaleza, teniendo presente la sentencia que dice: "yo soy Brahma"; mientras no hemos llegado a este conocimiento, el alma individual es individual. Pero si un hombre se eleva por encima del cuerpo, por encima de los sentidos, de las manas y Budhis, y deja de ser un alma errante para convertirse al estado que se expresa, diciendo: "esto es lo real", "esto eres tú"un estado de inteligencia pura en que tú eres eso (eres todo)-entonoes conoce el más alto y eterno ser, comprendido según su naturaleza — pues verdaderamente dice la escritura-: (Mund-Up) "Quien conoce al más alto Brahma, se vuelve Brahma."
+
+LA DOCTRINA ESOTÉRICA CON RELACIÓN A BRAHMA
+
+Por esotérico no debe entenderse, en este caso, un secreto cuidadosamente guardado, un misterio incomprensible que se expresa con símbolos, sino ese esote rismo natural que resulta de las dificultades del asunto; un esoterismo que sólo existe para los impreparados y para los ignorantes. Samkara, en estos capitulos, trata de encontrar soluciones racionales a las contradicciones
+
+[p. 309]
+
+de los textos; con tal objeto construye una metafísica fundada en los mismos textos, pero sistemada y esotérica, sólo en el sentido de que para comprenderta es necesario saber discurrir, saber reflexionar con método físico.
+
+Todo monismo tiene delante de sí el problema tremendo de explicar la pluralidad. Si lo Uno es total y perfecto, porque se reparte en lo finito, ¿por qué existe la pluralidad?
+
+Los Upanishads hablan de Brahma como lo uno y como lo múltiple. Hay un Brahma inferior que posee atributos y un Brahma superior desprovisto de atributos. Pero la fusión de éstos procede del conocimiento, de la inteligencia, de la verdad. El Brahma inferior, poseedar de atributos, es falso, y existe sólo para nuestra inteligencia; el Brahma superior es el verdadero, el eterno y el único; "ese Brahma soy yo, eres tú"
+
+Como partes y manifestaciones del Brahma inferior, del Brahma io absoluto, hay que contar los dioses de la mitología védica: Indra, Agni. "Todos los dioses, dice Samkara, aunque aparecen como la representación de fuerzas naturales, en realidad, según la escritura, asumen el ser espiritual, subsisten, como el ser, de la lus, del fuego", etc. Y muchas veces estos mismos dioses, como Indra, Prajapatiect, se hacen discípulos de Brahma y procuran obtener el conocimiento de la verdad para lograr ellos mismos su reunión con Brahma.
+
+En cuanto a las características del Brahma absoluto, ya hemos indicado que se reducen a negaciones: no es
+
+[p. 310]
+
+esto, no es lo otro: A este Brahma se refiere el célebre pasaje, citado por Samkara, en que el discípulo pregunta al sabio: ¿ qué es Brahma?, y el sabio guarda silencio. Y por segunda y tercera vez el discipulo interroga, y, por fin, el maestro responde: "Te lo estoy diciendo, y no me comprendes: este atman es silencio."
+
+A pesar de ello, es posible conocer a Brahma: conóceło el yogui; es decir, aquel que se halla en comunión con Brahma, en estado de éxtasis, de satisfacción perfecta: sumergido en meditación piadosa, dice Samkara.
+
+## COSMOLOGÍA VEDÁNTICA
+
+HIPÓTESIS RELATIVA A QUE LA CREACIÓN DEL MUNDO SEN-
+
+SIBLE NO TIENE MÁS OBJETO QUE DAR A LAS ALMAS OCA-
+
+SIÓN DE ENSANCHARSE.
+
+⟦ "En el principio no era más que Ser." No se había⟧ abierto ningún ojo. Y el Ser pensó: "Ahora crearé los mundos."
+
+Y creó los mundos, el océano, la luz, la muerte, las aguas. Es decir, el océano que está más allá de los cielos, y cuyo sustento son los cielos. La luz es el cielo; la muerte es la tierra. Las aguas están abajo.
+
+Y el Ser pensó: "He allí los mundos; ahora crearé sus guardianes." Y extrajo de las aguas al Hombre, y lo hizo sólido. Cabijólo, y así que lo hubo cabijado, su boca abrióse como un huevo, y de su boca salió el verbo,
+
+[p. 311]
+
+y del verbo, el fuego. Abriéronse las ventanas de sus narices, y de ellas salió el aliento; del aliento procede el viento. Abriéronse sus ojos, y de sus ojos salió la vista, y de la vista, el sol. Abriéronse sus oídos, y de ellos salió el sonido, y del sonido procede el espacio. Abrióse La piel, y de la piel nació el cabello, y del cabello proceden las plantas y los árboles. Abrióse su corazón, y del corazón nació la mente, y de la mente procede la luna, etc. Abrióse el ombligo, y del ombligo salió el aliento expelente, y del aliento expelente procede la muerte. Abriéronse las partes secretas, y de ellas partió la semilla, y de la semilla, las aguas."
+
+Como se ve por este pasaje del Upanishad Aitareya, las fuerzas naturales proceden de las funciones humanas, y son una consecuencia de la existencia del hombre. Esto, aunque a primera vista parece absurdo, hállase, sin embargo, implícito en tada tesis idealista. El mundo que nosotros vemos no es real, no es lo que es. Este mundo no es más que una copvención formada por miestros sentidos corporeos y por las formas de la inteligencia, espacio, tiempo, causalidad, principio de contradicción, etc. Esto que acabamos de expresar en la técnica filosófica de Europa, se ha dicho desde tiempo inmemorial en la India por medio de la tesis de Maya; la ilusión del mundo fenomenal—Maya-el reino de lo que tiene forma y nombre, según la expresión más moderna de Samkara.
+
+¿Por qué el Ser primitivo, el Brahma absoluta șe decidió a crear el mundo? Porque le plugo, nos dicen los
+
+[p. 312]
+
+comentadores. Y Samkara nos recuerda que todo lo que se dice de la creación no se aplica más que a este mundo formal, a todo esto, que no es más que Ignorancia, Ignorancia y Mentira.
+
+Brahma no sólo es creador, sino también destructor. Periódicamente, a través de la eternidad, el mundo es reabsorbido por Brahma, para emerger otra vez de su aliento, de su impulso. Este proceso se repite indefinidamente, y los períodos respectivos se llaman kalpas. Cuando viene la época de la reabsorción, las alinas, lo mismo que los elementos, vuelven al seno de Brahma, y en él permanecen, como semillas, hasta que una nueva emanación los devuelve a la vida individual de los mundos.
+
+El mundo no tiene principio. Las almas individuales existen desde la eternidad, distintas de Brahma. Pero lo que las distingue de Brahma es la envoltura-Upadhis-con que están vestidas. La muerte aniquila esa envoltura, ese cuerpo; pero el cuerpo sutil, con los óxganos psíquicos, ha existido desde la eternidad, y desde entonces acompaño al alma en todas sus peregrinaciones. Además, el alma errante se ve acompañada de todas sus abras, y estas obras son las que impiden que la ⟦transmigración se interrumpa, pues van produciendo fruto.⟧
+
+Toda abra buena trae consigo recompensa, y la mala, castigo. Las obras excelentes conducen a una existencia de dioses y las obras malas a una existencia de bestias. ⟦ Y así continúa por todas las esferas de la existencia, su-⟧ jeta a sus obras, el alma individual, mientras no viene
+
+[p. 313]
+
+el conocimiento a quemar la semilla de la obra y a libertar el espiritu.
+
+De esta manera, la existencia del mundo material, del mundo fenomenal, la existencia dé Maya depende de una necesidad moral. Este mundo es como un campo de prueba donde las almas vienen a bregar para libertarse de la reencarnación. Vienen aqui a agotar las posibilidades de su esfuerzo, diriamos nosotros en lenguaje moderno. Vienen a satisfacerse, a desengañarse y a renunciar, así que se han convencido de la vanidad del deseo, de la vanidad del esfuerzo finito. Así que, por la experiencia del mundo, se ha convencido de que no hay nada en lo finito que sea digno de su anhelo, el alma se orienta hacia Dios, hacia Brahma, su origen ilustre y comienza en ese instamte el proceso de la liberación.
+
+Sólo esta justificación es aceptable, sólo de esta manera nos pademos explicar el absurdo aparente de que un Dios poderoso y bueno cree este mundo, perverso y torpe. Lo ha creado para que en él experimentasen las almas, para que investiguen, hasta dejarlos exhaustos, todos los problemas y apariencias de la pluralidad, y asi puedan algún día volver a Brahma, sabias como él, y con una sabiduría personalmente adquirida.
+
+Es como si Brahma quisiera enseñarnos todas las riquezas de que es capaz su potente esencia y todos los horrores a que se llega cuando las innumerables variedades de lo finito se apartan de su fuente y esencia.
+
+Los textos Upanishads acerca de la creación del mundo son una contradicción evidente del monismo radical
+
+[p. 314]
+
+de la escuela vedántica, monismo que no acepta otra realidad que la de Brahma absoluto. Al mismo tiempo, la existencia del mundo, así como la existencia de la pluralidad, han sido siempre argumentos poderosos para todas las escuelas.
+
+Samkara, como buen idealista, resuelve la dificultad, ya lo hemos indicado, afirmando que todo el mundo es una ilusión, y que en realidad sólo existe Brahma. A causa de nuestra ignorancia, Brahma aparece como múltiple. La causa de esta ignorancia nos es desconocida. La inexistencia del mundo es relativa. Hay muchas cosas de las que no se puede decir que son Brahma, ni tampoco que son enteramente distintas de él. Son como las figuras de un sueño, verdaderas en tanto que el sueño dura, e irreales una vez que hemos despertado. Para explicar esta unidad de la pluralidad, los Upanishads (Chand) usan del símil del trozo de arcilla que puede ser convertido en un vaso, en una estatua, y así cambiar de formas; pero la substancia es siempre la misma: ⟦arcilla.⟧
+
+Por último, para terminar este capítulo, remitimos al estudiante al Upanishad. Chandogya VI, donde se ex-⟦plica a Svetaketu la doctrina del Tat twam así (eso⟧ eres tú), la doctrina de la identidad de nuestra alma con Brahma, y aún de todo lo que existe, con nosotros mismos. Doctrina que nos hace sentirnos uno con todo lo que hay en el universo, y que, por lo mismo, suprime o hace insignificantes el cambio y la muerte. 
+
+[p. 315]
+
+### NATURALEZA DEL ALMA TRANSMIGRACIÓN, INMORTALIDAD
+
+El alma o atman, como idéntica en esencia a Brahma, no tiene principio ni fin. Ha existido siempre y no puede morir. Nacer es tomar un cuerpo perecedero; morir es desprenderse de dicho cuerpo. El alma es inmortal; pero hay dos clases de inmortalidad: uyatureka es una palabra que indica la supervivencia del alma después de la muerte. Amritatvam, quiere decir un alma que ya no puede morir, un alma que se ha libertado de moris y de nacer, que se ha libertado del ciclo de la reencarnacion. Esto solo lo logra el alma que ha retornado a ⟦Brahma.⟧
+
+Según la doctrina esotérica de los Upanishads, el alma emerge de Brahma, to mismo que todo lo que es y vuelve a Brahma. Estrictamente, según esta doctrina, no puede haber inmortalidad, por lo menos, inmortalidad en que se conserva lo que tenemos de personal. Como las chispas vuelven a la llama y se funden en ella, asi volvemos nosotros a nuestra fuente original; esto no es inmortalidad. Esta es la tesis materialista, ni más ni menos. Pero la doctrina vedántica se declara desde luego en aposición con esta tesis. Cuando el ser humano mue-
+
+[p. 316]
+
+⟦re, dice el Upanishad Brihdarankaya, y su cuerpo vese⟧ dispersado en los elementos, hay algo, sin embargo, que subsiste: sus obras. Una necesidad moral, observa Deussen, obliga a los Upanishads a ser ilógicos, los obliga a negar la reabsorción, que es consecuencia natural de su tesis, a fin de poner en alguna parte el efecto de las obras.
+
+Si es absurdo suponer que, viniendo de las elementos, no nos reabsorbemos en ellos totalmente, también es absurdo, en el terreno moral, suponer que las aocio nes, buenas o malas, no tienen sentido y no producen resultado más allá de esta sola vida del cuerpo. •
+
+Samkara investiga los textos para afirmar que la muerte no dispersa sino el cuerpo. Parte de la consideración de que el atman, siendo de la misma esencia que Brahma, no puede morir. "La pluralidad de las almas es sólo fenomenal y está condicionada por los Upa dhis, por las envolturas y las formas, así como la pluralidad del espacio depende de los vasos que contienen el espacio."
+
+¿ Cuál es la naturaleza del alma? El alma, en sí, afirma Kanada, no es intelectual; no es, como quieren los samkyas, un ser esencial y eternamente intelectual. La inteligencia del alma es meramente accidental y depende de su relación con las formas; de su relación con el mundo fenomenal, diríamos en lenguaje moderno. El alma es intelectual, a semejanza del agua que se ca- lienta o se enfría; pero su calor depende de su relación con el fuego. Si el alma fuese esencialmente inte-
+
+[p. 317]
+
+lectual, no dejaría de manifestar esa intelectualidad en el caso de la locura y durante el sueño. La inteligencia es un atributo temporal del alma.
+
+Sin embargo, el vedantismo no puede aceptar esta tesis de Kanada, porque siendo el alma idéntica en esencia a Brahma, es claro que el alma debe ser, como Brahma, esencialmente intelectual e inmutable. Pero lo que pasa durante el sueño y durante la locura es que faltan al alma los órganos sensorios. El alma, entonces, deja de percibir porque le faltan los objetos. Los objetos son los que no pueden aparecérsele; están allí, pero invisibles, así como la luz no se hace visible en el espacio en tanto que no encuentra un cuerpo donde reflejarse.
+
+Quien ha alcanzado el conocimiento perfecto se hace iguall a la divinidad, es la divinidad; por lo tanto, ya no le obliga la ley moral; ¿ puede, acaso, pregunta en su exposición Deussen, hacer su voluntad? No, porque sólo la ilusión nos compele a obrar, y precisamente el sabio ya no está sujeto a esta ilusión.
+
+El alma no tiene origen, pero depende de que el más alto Brahma ha entrado en los elementos; el alma individual no es otra cosa que el tiás alto Brahma mismo.
+
+"La, aoción, dice Samkara, no puede ser la verdadera naturaleza del alma, porque si lo fuese, la liberación sería imposible. Si la acción fuese la naturaleza esencial del ser, nunca sería posible librarlo de ella, como no se puede librar al fuego del calor. Al contrario, mientras no nos libramos de la acción es imposible que el alma cumpla-su misión. La acción es naturalmente penosa."
+
+[p. 318]
+
+Aunque los Upanishads hablan del alma como de un anhelo, y afirman que desea volar, etc., esto sólo debe entenderse del alma que estă luchando por libertarse; peró el fin, uno de los fines del alma ya libertada, es desembarazarse de la necesidad de la aoción.
+
+La transmigración sin fin-Samkara-depende de que el alta ignora su verdadera naturaleza. La ignora por que se lo oculta su propia ignorancia, sus sentidos, todas las relaciones exteriores: Manas, Indriyas, los órganos psíquicos. Además, el alma va acompañada del yo moral, de su karma, y esta karma la llevará una y otra vez a ensayar vidas individualés, unía y otra vez, mientras llegue la liberación final.
+
+Así, pues, para el alma todavía no libertada, la muerte es el comienzo de una nueva prueba. "Después de la muerte, el alma, con sus envolturas de cuerpo sutil individual y su acerbo de obras, emigra a distintos lugares, al éter, al airé, al fuego, a la planta, al semen humano, y asi que ha llegado al seno que le corresponde, según sts méritos, pasa otra vez a ina nueva vida te-⟦rrestre."⟧
+
+El siguiente pasaje, extractado de la traducción de ⟦Deussen del Upanishad Brihdarankaya, révela el pro-⟧ ceso de estos tránsitos:
+
+"Janaka, rey de los Vihedas, viene a visitar a Yajnavalkia para conversar con él. El rey pregunta: ¿ qué es lo que da al hombre la luz? La primera respuesta es: el sol; péro cuanda el sol se pone, ¿qué es lo que da la luz?—la luna. ¿Y cuando no brilla ni sol ni luna?—
+
+[p. 319]
+
+El fuego.—¿ Y cuando están ocultos el sol y la luna y no hay fuego?-La voz: pues cuando un hombre no puede mirar ni șu propia mano, y se oye una voz en alguna parte, el hombre va hacia ella. Pero cuando no hay sol, ni luna, ni fuego, y no se escucha ninguna voz, ¿qué es lo que sirvé al hombre de luz?—Su propio ser, su atman le sirve de luz. ¿ Qué es, pues, este ser, este yo o atman? Es aquel de los órganos vitales que consiste en el conocimiento, como espíritu que brilla interiormente en el corazón. Este yo permanece idéntico a si mismo, y vaga por los dos munidos: en esté mundo durante la vigilia y el sueño, en el otro durante el sueño profundo y durante la muerte. Es como si meditase, porque cuando se ha dormido profundamente trasciende el mundo, las formas de la muerte, todo lo que es transitorio, el mal. Porque cuando este espíritu nace, cuando entra al cuerpo, se inunda de mal; pero cuando sale del cuerpo, cuando muere, deja detrás el mal. Dos estados atraviesa este espiritu, el presente y el del otro mundo, y uno intermedio, el sueño. Cuando está en la condición intermedia, contempla, en sueños, el presente y el otro mundo. Y según el aoceso que logra al otro mundo, así contempla mal o beatitud.
+
+"Pero cuando se hunde en el sueño, entonces destruye las barreras de este mundo, o derriba y lö construye de nuevo por virtud de su esplendor y de su propia luz. Cuando así duerme, entonces este su propio espíritu sirvele de luz. Allí no hay carros ni cabalgaduras, ni caminos; pero él se forma carros y cabalgaduras y cami-
+
+[p. 320]
+
+nos; alli no hay beatitud, placer ni júbilo; pero él crea para si beatitud, goce y placer: Allí no hay manantiales, lagos ni ríos; pero él forma para sí mismo manantiales, lagos y rios, porque es el creador. Así lo dicen los versos:
+
+''Abandona, al dormir, el cuerpo. Y despierto, contempla los órganos dormidos. Entonces, pidiéndoles su luz, regresa. Espíritu de oro, como pájaro errante. Deja que la vida guarde el bajo nido. Y él, inmortal, se dirige a lo alto. Inmortal, revuélvese por donde quiere. Espíritu de oro, pájaro errante. Hacia arriba, hacia abajo, muévese en el sueño. Y cual un Dios, crea varias formas. Ya con bellas mujeres, diviértese. Ya contempla asombrosas visiones. Sus ojos pueden verse, pero no su esencia."
+
+..."Y como hacia un rey van los jefes; funcionarios y conductores de carrozas, así también a la hora de la muerte los órganos se congregan. Y cuando el alma cae en sopor, y parece que ha perdido todo sentido, entonces los órganos se estrechan contra el alma, y ésta toma en sí todas las potencias (elementos de fuerza) de estos órganos, y los reconcentra en el corazón. Pero el espíritu que reside en el ojo, regresa hacia afuera, al sol de donde procede, y ya no reconoce más formas. Porque ha llegado a la unidad; ya no mira, ni huele, ni oye, ni habla, ni piensa, ni siente; ya no conoce. Entonces el punto del corazón se pone luminoso, y el alma parte, ya  sea a través de los ojos o del cráneo, o por cualquiera otro lugar del cuerpo. Al partir ella, la vida también
+
+[p. 321]
+
+parte, y los órganos vitales. Pues son de la naturaleza del conocimiento, y parten con el conocer."
+
+"Entonces el conocimiento y las obras toman al alma de la mano y con ella van el saber y la experiencia que ha adquirido."
+
+"Y así como la oruga, después de que ha llegado al final de la hoja, se apodera de otro principio (comien-2o) y en él se envuelve, así también el alma, después de que ha sacudido el cuerpo y ha dejado ir la Ignorancia, también se apodera de otro principio, y en él se envuelve. Y como este su ser (el ser del alma, el yo, el atman), como esta alma es el Brahma, que consiste de inteligencia, de Manas, de vida, de ojos, oídos, tierras, agua, viento, éter; consiste de fuego y no de fuego, de placer y no de placer, de cólera y no de cólera; así, pues, cada quien consiste de esto o de aquello, según su conducta y obras, y así es como en seguida nace: el que ha hecho bien, nace bueno, el que ha hecho mal, nace malo; santo se hará por las obras santas, malo por las malas. Pues con verdad se ha dicho: "el hombre está compuesto de deseos y según desea, así quiere, y según está su voluntad así ejecuta su obra-karma—, y según su obra. así es su suerte." Y así que ha recibido su recompensa por todo lo que ha ejecutado, vuelve del otro mundo a este mundo de aquí abajo. Tal es la suerte de aquel que todavía tiene deseos"
+
+"Ahora, en cuanto a aquel que ya no desea. Quien no desea, quien está libre de deseo, aquel cuyo deseo se ha aquietado y es él mismo su propio deseo, éste no ve
+
+[p. 322]
+
+partir sus espiritus vitales, porque él es Brahma, y en Brahma se resuelve. De él ha dicho el verso:
+
+Cuando toda pasión se ha extinguido Y en el perho todo anhelo se ha apagado, entances encuentra el mortal inmortalidad. Entonces se alcanza a Brahma, su Supremo."
+
+"Y como la piel usada de una serpiente yace muerta en el sueto y abandonada, así queda su cuerpo; pero lo que no tiene cuerpo, lo inmortai, la vida, eso es Brahma, es solamente luz."
+
+[p. 323]
+
+### LA LIBERACIÓN. EXAGERACIONES DE LA DOCTRINA VEDÁNTICA.
+
+La liberación consiste en el retorno del alma a su propia esencia, a Brahma absoluto. Entonces cesan los avatares, cesan las reencamaciones, cesa la limitación, y todo es júbilo y plenitud. Libertarse, salvarse, es lo mismo que unirse a Brahma; por eso, para concebir el estado de liberación, tenemos que volver a especular sobre la esencia de Brahma.
+
+Según la escuela vedántica, la liberación o salvación no se obtiene por las buenas obras; la más excelsa virtud, sin el conocimiento, es ineficaz. La esencia del Brahmanismo, asegura Deussen, es el conocimiento; sólo el conocimiento salva. Hay aqui algo semejante a la redención cristiana, que sólo mediante la fe salva.
+
+El cristianismo, añade Deussen, pone la esencia del hambre en la voluntad; el Brahmanismo, en la inteligencia. Por tanto, el cristianismo exige la transformación de la voluntad para lograr la salvación, la reencarnación en la fe que crea al nuevo hombre, al cristiano. El Brahmanismo exige una transformación del conocimiento; la percepción de que no somos un yo individual, sino Brahma, la totalidad del ser. Al sentirnos identificados con la totalidad del ser, ya no perecemos, porque
+
+[p. 324]
+
+somos uno con todo lo que vive; ya no aborrecemos, porque nuestro prójimo no es sólo nuestro hermano, sino
+
+, nosotros mismos, todo Uno bajo la ilusión "yo mismo"
+
+de la multiplicidad y el cambio. Concebir esta comunión con el todo, es por sí sólo libertarse, hacerse inmortal y . divino. No hay nada más allá de esta comunión, en que más bien que unirnos con Brahma, parece que nosotros nos hacemos Brahma, nos convertimos en el centro y la causa del Universo.
+
+Y justamente al pronunciar estas palabras, sentimos que tocamos, ya no diré la blasfemia, porque Dios está por encima de los juicios humanos, pero sí el absurdo. • Sin embargo, tal es para algunos la doctrina; he aquí ciertos textos del Brihdarankaya, traducción de Deus-⟦sen:⟧
+
+'Se ha venido hablando de cómo el sabio llega al conocimiento de Brahma, preparándose con disciplinas y meditaciones (todas las disciplinas y renuncias que se mencionan al principio de esta exposición de la doctrina vedántica), y una vez que el sabio llega al estado supremo, dice el téxto:
+
+"Ahora bien, aquel que se halla libre de todo deseo, cuyo deseo es el ser, sabe qué al morir, sus alientos vitales ya no partirán, pues él es Brahma y en Brahma se ha resuelto."
+
+Otro expositor ortodoxo del vedantismo que ya hemos citado, Vivekananda, dice: "El hombre es el más alto de todos los seres, y este es el más grande de todos los mundos. No podemos concebir un Dios más alto que
+
+[p. 325]
+
+el hombre. Así, pues, nuestro Dios es hombre y el hombre es Dios" (Inspired Talks.—Madras). Leer esto causa risa. Y se sigue uno riendo cuando lee que todo el poder está en el atman, y que ese atman no es ni más ni menos que nosotros mismos, y que no hay que buscar nada fuera de nosotros, y que basta con estar alegre y sentir amor, y exclamar con el texto sagrado: "tú eres esto", "yo soy esto", lo mismo ante el crimen que ante la belleza y el bien." Pueril beatitud esta, propia para ser predicada, como lo hizo Vivekananda, en Nueva York, es decir, en la patria del optimismo ramplón.
+
+No, no puede tener razón Vivekananda; no puede ser esa la tesis de una escuela ilustre y profunda como la escuela vedántica. La interpretación verdadera debe ser • semejante a la idea de Plotino, semejante a la idea cristiana; es decir, que Dios es el Ser más alto, más inconcebible, el Ser infinito del cual somos chispa, pero una chispa atenuada y lejana, una chispa a la que falta un infinito, para llegar a la esencia a que aspira. Rechacemos, abominemos de todo dios que se parezca a nosotros. Cuando Dios encarna, cuando Dios se hace hombre o se hace soplo de inspiración es porque se reduce y se abaja, a fin de poder influir en nosotros; pero Él en sí es una cosa tan distante, tan inefablemente distinta de este nuestro pobre yo, habitante de sombras, que nada podemos decir de él, nada, sino que es: "Silencio", como lo afirma el clásico Upanishad.
+
+Preferible es el aniquilamiento absoluto a un dios de factura humana, a un dios que fuera yo y el mundo, tal
+
+[p. 326]
+
+como es el yo y tal como es el mundo. Apenas si lo más hermoso del mundo es indicio del verdadero ser; apenas, porque no podemos concebir siquiera cómo es la belleza absoluta, la beileza divina, de la que toda belleza terrestre es reflejo indeciso y pálido.
+
+Samkara no afirma que el hombre es el más alto dios, y que éste es el mejor de los mundos. Samkara nada más enseña que el fin supremo es la identificación con lo Divino, con un Brahma inefabte, un Brahma que es silencio y misterio, y éste es el verdadero sentido de la doctrina upanishádica. Todas las demás afirmaciones que pretenden aclarar y hacer concisa la tesis deben verse como exageraciones de yogui, como desarreglos espirituales de una secta que pretende alcanzar la beatitud en esta vida y con este cuerpo humano.
+
+[p. 327]
+
+### 24.—Síntesis de Samkara
+
+Resumiendo la obra de Samkara, tal como se contiene en sus comentarios a los Brahama-Suttras, se puede decir que primeramente se ocupó en extraer de los Upanishadas lo sustancial de las doctrinas filosóficas y religiosas que contienen. En seguida, sin apartarse de los textos, sino sólo expurgándolos, define Samkara, en el principio de su obra, los caracteres de Brahma y su relación con el mundo sensible. Al explicar estas relaciones, refuta la tesis materialista de la escuela Samkya, afirmando que el principio creador del mundo es un principio consciente.
+
+Discute también la opinión de la escuela yogui y concluye asentando que Brahma es la causa material de la naturaleza; que el sujeto y el objeto son uno en Brahma; que el mai es eterno; pero que el autor de la creación no tiene la culpa de ello, sino sólo nuestra propia ignorancia; que Brahma, aunque se basta a sí mismo, creó el mundo, por gusto.
+
+También objeta Samkara la teoría atómica de las es-⟦cuelas Vaisheshika y de Kanada y refuta a los budistas:⟧ realistas y a los budistas idealistas, demostrando la per. sistencia del sujeto y la persistencia de la sustancia, y a la vez demostrando la realidad del mundo externo. Refuta también la teoría de Jain, relativa a que el alma po-. see cubierta exterior y la declara ilimitada.
+
+[p. 328]
+
+Estudia en seguida el carácter del alma y la naturaleza de sus relaciones con el cuerpo. Y para resolver acerca del destino del alma después de la muerte, estudia infinidad de pasajes de los textos vedánticos.
+
+El conocimiento de la verdad, la intuición interior de nuestra unidad eterna con Brahma, tal es el secreto de la salvación, independientemente de las abras; pues esta intuición, cuando es sincera, lava todas las manchas y borra todas las culpas. Sin embargo, para conquistar la intuición salvadora, es menester adiestrarnos en la moderación y la virtud, prepararnos con la abstención. Las obras malas retardan la salváción, porque prolongan los inevitables efectos del Karma, en tanto que las buenas obras hallan recompensa en la otra vida, en el sentido de que el karma se abrevia, y sólo librándonos por completo de dicho karma, logramos aniquilar las condiciones de espacio y tiempo que van determinando nuestra conducta en esta vida y en la otra.
+
+El mundo externo está constituído por lo que se llama ⟦• "Maya"⟧
+
+, es decir; el reino de la forma y el nombre. La naturaleza formal de este mundo externo, su naturaleza limitada y finita, unido a las determinaciones que ⟦heredamos de nuestro karma ancestral, hacen que nuestra⟧ alma permanezca ligada con lo finito y expuesta al sufrimiento y al remacer. Para librar al alma es preciso desatarla de su consorcio con Maya, mediante la intuición de que su verdadera naturaleza no es el cambio y la forma, sino lo infinito y eterno: Brahma.
+
+Este género de liberación total se llama Moksha, y con-
+
+[p. 329]
+
+siste en la visión intuitiva de la eterna unidad del Yo con Brahma. (Se llama también Mukti.)
+
+Desgraciadamente, esta suerte de salvación no está al alcance de todos, porque la mayor parte de las almas están ligadas al mundo material, a Maya, con multitud de ataduras. Los seres que todavía no se desprenden de lo finito, pasan por mundos materiales después de la muerte; en tanto que el aima emancipada ya no renace, pues se aniega en el sero de Brahma.
+
+Las almas todavía imperfectas se distribuyen después de la muerte en distintos mundos superiores o inferiores, según sus obras, y unas van a gozar de beatitud celestial y otras vuelven a este mundo. Los mas culpables, los que no llevan ni buenas obras, ni sabiduría, pasan a una especie de infierno a expiar sus culpas, y después vuelven a este mundo, encarnando en las formas inferiores de animades o de hombres obtusos. Nótese la gran ventaja ética de esta hipótesis sobre la teoría de la condenación eterna de algunos teólogos cristianos.
+
+No hay problema importante que Samkara no analice y resuelva con amplio criterio, a la vez con tino seguro, para hacer que todas las hipótesis vayan convergiendo a la unidad fundamental del sistema; enidad que, mejor que en ningún comentario, se halla expresada en los vie. jos textos que sirven: de base a la doctrina; he aquí, por ejemplo, las siguientes palabras del Upanishad Svetas-⟦vatara (I):⟧ (1) Véanse los Vedanta Suttras de Samkara en la colección sa-⟦cred Books of the East!⟧
+
+[p. 330]
+
+"Conozco al Gran Espíritu, radiante como el Sol; Vencedor de las Sombras. Quien lo conoce se libra de la muerte, y no hay otra salvación
+
+Nada más alto que El, ni más sutil, ni más poderoso. Como un árbol, firmemente plantado en los Cielos, mantiénese erguido el Uno, y su espíritu llena el Universo." • "Sin forma y ajeno al sufrimiento, es el más Alto. Quienes lo conacen, hácense inmortales, y los que no lo conocen, sufren."
+
+Con el rostro, la cabeza, el cuello, todo entero, reside en cada criatura; lo permea todo; él es el Señor; y así, por todas partes su presencia derrama gracia.
+
+Un Gran Señor es el espíritu ; él mueve el entendimiento, gobierna la luz, y jamás se oscurece."
+
+"En toda cosa reside el Espíritu, como un alma interior de una pulgada de estatura en el corazón de los hombres; concebible conforme al corazóm, conforme a la imaginación, conforme a la mente. Inmortales se hacen los que esto saben...".
+
+Muéstrase en las cualidaides, en todos los sentidos, y a la vez carece de sentidos: El es el Señor, el Amo de todo, el refugio de todo.
+
+Encarnado en la ciudad de las nueve puertas, el Cisne pasa por fuera, Señor de todo lo que se mueve y de todo lo que está quieto en el mundo.
+
+"No tiene manos ni pies, y, sin embargo, aprehende; no tiene ojos, y ve; no tiene oídos, y escucha. Sabe todo  lo que hay que saber; pero a él nadie le conoce. Los hombres le llaman la Causa Primera, el Gran Espiritu.
+
+[p. 331]
+
+"Más ligero que lo más sutil, mayor que lo más grande; como alma, habita escondido en todos los seres.
+
+Cuando el hombre se ha salvado del dolor, entonces por la gracia del Todopoderoso, míralo, a El, sin deseos:
+
+el Poder Soberano.
+
+"Yo lo conozco: es aquel que no tiene edad, el alma
+
+Todo que está en todas partes, con presencia total, a quien los maestros de Brahma llaman: "El Eterno..."
+
+[p. 332]
+
+### ESCUELA VEDANTA RAMANUGA
+
+En el siglo XII de la Era cristiana, es decir, tres siglas después de Samkara, el filósofo Ramanuga vino a insistir en una interpretación de la doctrina Upanishádica, que se aparta sustancialmente de la doctrina ⟦formulada por Samkara en su Sankarakarya o comen-⟧ ⟦tario de los Brahma-Suttras de Badarayana.⟧
+
+Como se sabe, Samkara sostiene la identidad absoluta del atman o el alma con Brahma; según Samkara, las cosas son apariencias, debidas a nuestra ignorancia, y la única realidad positiva es Brahma. Ramaruga, en cambio, sostiene que las almas individuales también poseen realidad.
+
+Ramanuga funda su interpretación en los mismos textos en que Samkara apoya la suya, y no pretende afirmar una novedad, sino que asegura que tal es la opi-⟦nión de Badarayana y la de Byodhayana y otros vene-⟧ rables comentaristas. (Byodhayana es anterior a Bada. rayana y citado por éste como autoridad.)
+
+De esta divergencia procede la división de la escuela ⟦vedántica en dos grandes ramas: Advaita y Visishta-⟧ ⟦ Advaita.⟧
+
+Advaita es la denominación que se aplica al monismo ,
+
+[p. 333]
+
+⟦riguroso de Samkara, y Visishta-Advaita es la doctri-⟧ na de Ramanuga, doctrina que adopta un monismo con diferencias.
+
+Para Ramanuga, Brahma es la realidad absoluta, pero, además, Brahma es un ser lleno de compasión y amor; y se ocupa en regir el Universo.
+
+El libro que contiene los comentarios de Ramanuga se llama el Sribhashya, traducido por el profesor Thi-⟦baut.⟧
+
+El Brahma de Ramanuga se parece un poco más al Dios de nuestra teología cristiana, porque no es un ser totalmente desprovisto de cualidades, sino la inteligencia suma, la pureza suma, el poder sumo.
+
+Tanto el mundo material, como las almas, poseen realidad, pero proceden de Brahma; así es que, como Brahma, son eternos.
+
+Lo único que pasa es que las almas y el mundo atra-. viesan por distintos grados de desarrollo: Vyakta es el desarrollo que conocemos aquí en el mundo; Samkokita es lo que está latente, lo que todavía no aparece. Cada desarrollo dura el espacio de una Kalpa. Al fin de la Kalpa, Brahma asume su estado de causa potencial, y ⟦ entonces, por un lapso de tiempo, las almas y el mundo⟧ pierden su individualidad, hasta que viene el nuevo desarrollo, durante la nueva Kalpa; entonces van volviendo a aparecer.
+
+El mundo, pues, no es avidya, ignorancia solamente, ⟦ sino realidad que se desenvuelve y se absorbe en Brah-⟧ ma; pero en seguida reaparece en cada nueva Kalpa. Lo
+
+[p. 334]
+
+mismo reaparecen las almas, encarnando en cuerpos ma. teriales y en el grado de elevación que corresponde a las obras de sus anteriores vidas.
+
+En el sistema de Ramanuga, la personalidad de Brahma llega a confundirse con da de Isvara, el Dios per-⟦sonal.⟧
+
+Observa Max Müller que tan legitima y ortodoxa es la interpretación de Ramanuga como la de Samkara, y que no es posible, dada la vaguedad de los textos y la ausencia de datos cronológicos, afirmar si en la más remota antigüedad y en tiempos posteriores, como la época de Badarayama, prevalecía la interpretación de Ra-⟦manuga o la de Samkara. Thibaust y Müller se inclinan⟧ a creer que, en realidad, la interpretación de Ramanuga era la más en boga, y que acaso Samkara exageró cuando llegó a afirmar, como una consecuencia rigurosa de sus premisas: "Yo soy Brahma.".
+
+Los defensores del sistema de Ramanuga citan textos expresos de los Upanishads, donde se afirma que el alma es parte de Brahma; aunque a esto Samkara arguye que, como Brahma no es divisible en partes, debe entenderse que el alma es "como parte de Brahma". Es decir, que, según Samkara, la expresión no es más que un simil, pero que no hay en realidad ninguna diferencia entre Brahma y nosotros. En realidad, los Upanishads contienen tal número de ideas, tal cantidad de doc. trina, que pueden servir de base a las opiniones más diversas, como lo comprueba todo el desarrollo filosófi- , co de la India.
+
+[p. 335]
+
+La tesis de Samkara, la tesis de la unidad absoluta del alma y Brahma, tomada con reservas, entendida con la salvedad de que se trata de la esencia íntima y pura del alma muestra, es, sin duda alguna, la más elevada, la más consoladora, la más natural, la más convincente,
+
+⟦la tesis única (I).⟧
+
+(1) . Lá secta religiosa de Ramanuga cuenta en la India con un gran número de adeptos; sin embargo, se estima que la escuela de Samkara, la escuela advaita, es la fundamental y la predominante entre los fló- , sofos.
+
+[p. 336]
+
+### ECLECTICISMO MODERNO
+
+LA INTERPRETACIÓN ESPIRITUALISTA DE TAGORE.—LA DOC-TRINA CONTEMPORÁNEA DE LA REALIZACIÓN O COMUNIÓN
+
+El Uno aspira a ser Todo, sin dejar de ser Uno, y sin dejar de abarcar Todo. Este anhelo irrefrenable del ser, que la razón y la experiencia contradicen, pero que el corazón y la voluntad imponen, eso es lo que late en toda la filosofía profunda, en toda religión verdadera; esa es la tesis de los Upanishads, esa es la tesis vedántica, esa es la tesis neoplatónica, esa es la tesis cristiąna, eso es lo que preocupaba a San Agustín, y eso es lo que no pudo demostrar Kant, y eso es lo que quiere la más humilde de las conciencias que medita el Universo. ⟦Desde Yajnavalkia, desde Parménides, hasta nuestros⟧ días, esa es la tesis eterna, el enigma insoluble, el misterio fecundo, la esencia de nuestra vida, vida absurda, pero redimible y capaz de servir de tránsito para otras vidas más altas.
+
+En realidad, la India y el Occidente coinciden en la apreciación de este problema: del yo como Todo, y el yo como Uno. Coinciden también al imaginar después de la muerte o a la hora de la salvación, un estado de mayor poder y de plenitud gozosa.
+
+La comunión con Brahma no es el aniquilamiento; es
+
+[p. 337]
+
+como si poco a poco fuéramos ensanchando nuestra conciencia individual, hasta hacerta total, hasta refundirla en el poder y la infinitud de Brahma. Sólo la ligereza de algunos comentadores y el escepticismo de algunas sectas, ha hecho creer que el Nirvana es la extinción, el aniquilamiento.
+
+Definiendo el Nirvana, dice Viveananda: La muerte irremediable del cuerpo es Nirvana. El Nirvana representa el lado negativo del problema, y dice no soy esto, ni esto, ni esotro. La doctrina vedántica va más adelante y afirma el lado positivo de la libertar—mutki—. La doctrina vedántica dice del alma liberada: "Yo soy la existencia absoluta, el conocimiento absoluto, la beatitud absoluta. "Soy Il"; esto es vedanta, la piedra central de un arco perfecto. La gran mayoría de los budistas del Norte creen en mutki - libertad y poder del espíritu; y son realmente vedantistas. Unicamente los oeylaneses interpretan el Nirvana como aniquilamiento."
+
+Que el progreso en la tranomigración, y la muerte misma, implican un aumento del poder del yo, lo confirma el más ilustre de los pensadores actuales de la India, el gran poeta Tagore. En su libro "Sadhana", que quiere decir "medios", "camino", Tagore afirma: que "el lenguaje humano sólo debe interpretarse literalmente cuando trata de cosas triviales. Mientras más importante es el asunto, más se hoce necesario interpretar las palabras de un hombre janto con la suma de su vida." En el pensamiento típicamente indostánico, se sostiene que la salvación del hombre es salvación de su
+
+[p. 338]
+
+ignorancia--avidya—. Esa salvación no consiste en destruír cosa alguna, que sea positiva y real, porque esa destrucción es imposible; se destruye sólo lo quee es negativo, lo que obstruye la contemplación de la verdad. Cuando la obstrucción de la ignorancia es removida, entonces "el ojo ve: el párpado se levanta, sin que por eso pierda el ojo su visión, sino, al contrario, para que pueda ver." Nuestra ignorancia nos hace creer que nsessro yo, como yo, es real, y que contiene en sé mismo todo su sentido... "Conquistamos la libertad así que realizamos nuestro ser verdadero. El artista conquista su libertad artística asi que encuentra el ideal de su arte." La religión no tiene por objeto destruír la nataraleza, sino llevarla a su más alta expresión." La palabra sánscrita dhormo, que comúnmente se traduce al inglés como religión, posee en nuestro idioma un significado más profundo. Dharma es la naturaleza íntima, la esencia, la verdad implícita de todas las cosas. Dharma es el fin último por que se afana nuestro ser" ⟦..."Pero⟧ este dharma, que es nuestra verdad, no nos es externo, sino inherente. Tan no lo es, que se ha sostenido que el pecado es la naturaleza del hombre, y que sólo por gracia especial de Dios puede uria persona salvarse. Lo que equivale a decir que está en la naturaleza de la semilla ei permonecer encerrado dentro de su cortesa, y que sólo por un milagro puede llegar a convertirse en plas.  to": ¿Pero acaso no sabemos que la apariencia de la semilla contradice su verdadera naturaleza? Cuando sometemos la semilla a analisis químicos, encontramos en
+
+[p. 339]
+
+ella carbón, proteínas y muchas otras cosas, pero. no la idea del árbol con ramas. Solamente ciando el árbol comienza a formarse, comprendemos cuál era el dharma de la semilla, y entonces podemos decir que la semilla que se pudrió en él:suelo, sin llegar a dar un árbol, ha malogrado su dharma, ha dejado de realizar su verdadero destino. En la historia de la humanidad podemos observar el florecimiento de la semilla vivente. Hemos visto que los altos propósitos que en nosotros existen han tomado forma en la vida de nuestros grandes hombres; sabemos que aunque hay muchos vidas individuales quie parecen ineficaces, sin embargo no es su dharma permanecer estériles, sino crecer y transformarse en vigorosos brotes del espíritu"... La más alta: naturaleza del hombre siempre busca algo que trasciende a sí misma, pero que, sin embargo, constituye su íntima verdad; algo que redama su sacrificio y, sin embargo, convierte este sacrificio en su mejor recompensa" ... "La lámpara contiene aceite que guardo celosa en su vaso, aislándolo de todos los demás objetos. Pero cuando se enciende, la lámpara comprende su objeto, su relación con todas las cosas lejanas o próximas queda establecida, y entonces, libremente, sacrifica su tesoro de aceite para alimentar la flama. Así es la lámpara de nuestro yo; mientras ate. sora sus dones, se mantiene oscura, porque esa conducta contradice su misión. Cuando encuentra la luz, se olvida de sí misma, un instante, y la levanta en alto y la alimenta con todo lo que posee, porque en ella está su rerelación. Esta revelación es la libertad que predicaba
+
+[p. 340]
+
+Buda." El queria que la lámpara quemase todo su aceite. Pero dar de sí sin objeto, es una pobresa todavía más oscura que no puede él haber aconsejado. La lámpara debe dar su aceite a la luz, a fin de cumplir al propósito que atesora. Esto es emanciparse. El damino que señalaba Buda, no era únicamente el de la abnegación de si propio, sino también el ensanchamiento en el amor. Y tal es el verdadero sentido de la doctrina de Buda. Cuan. do advertimos que al estado de Nirvana, predicado por Buda, se llega por el amor, comprendemos asimismo que el Nirvana es la más alta culminación del amor"
+
+"El Baghavad Gita afirma que debemos practicar la acción, porque sólo en la acción manifestamos nuestra naturaleza; pero esta manifestación no es perfecta, en tanto que nuestra acción no es libre. Dios se manifiesta en su obra creadora, y así afirma el Upanishad que el conocer, el poder y la acción, constituyen su naturaleza; no le son impuestas del exterior. Por lo tanto, su obra es libre, y en su creación, se realiza a sí mismo. Lo mismo se afirma en otro pasaje con diferentes palabras: "De la alegría brota toda su creación, por la alegría se sostiene, hacia la alegría progresa y en la alegría se ⟦consuma." "Nuestro ser, como forma que es de la alegrío⟧ divina, mantiénese inmortal." Porque su alegría, la alegría divina, es eterna: amritan. Esto es lo que nos hace escépticos de la muerte, aun cuando no podamos dudar del hecho de la muerte. Brahma-vihara, llama Buda al goce de vivir en Brahma. Quien desea alcanzar este estado, según el mismo Buda, debe no engañar a ninguno,
+
+[p. 341]
+
+ni guardar rencor, ni desear mal. Deberá poseer amor limitado por todas las criaturas, tal y como una madre ama a su propio hijo, a quien protege aun a costa de su propia vida." "Hacia arriba, hacia abajo, por doquiera extenderá su amor, libre de trabas y obstáculos, sin crueldad y sin antagonismos" ... La carencia de amor, agrega Tagore, es una especie de callosidad del espiritu, porque el amor es da perfección de la conciencia. Cuando no amamos, es porque no comprendemos, o más bien, no comprendemos, porque no amamos. Pues el amor es el sentido último de todo lo que nos rodea. No es sólo un sentimiento; es verdad, el amor es el goce que está en las rois de toda la creación: es ta luz blanca de la concien. cia pura que emana de Brahma. De suerte que para identificarnos con este Ser, todo sentir, que esta en el externo cielo, tanto como en nuestra conciencia íntima, debemos ascender a esa cumbre de la conciencia, que es el amor: "¿Quién podría respirar o moverse, si el cielo no estuviese lleno de alegría y amor? Acrecentando nuestro amor y extendiéndato por todo el universo es como alcanzamos el Brahma-vihara, la comunión con la alegría infinita."
+
+Obsérvese la admirable fusión que realiza Tagore de la doctrina vedántica de la salvación por el conocimiento, y la budista de la salvación por el amor.
+
+La doctrina de la Realización es en realidad nueva e importante, y me parece que en ningún lugar se halla mejor definida que en el Sadhana de Tagore, y todavía más especialmente, en la imagen del mismo Tagore, de
+
+[p. 342]
+
+la semilla, que no sólo contiene el corazón y la envodtura que nosotros vemos, sino también en potencia, el árbol, la idea o la forma del árbol, que mañana șe desarrollará espléndido si logra consumar su destino. También nosotros poseemos una semilla que sálo puede decirse que se ha logrado cuando se desarrolla y se consuma, ejecutando, realizando lo divino. Desentrañar nuestra potencia mejor para hacerla florecer, eșo es realizarnos, llegar a sentirnos en comunión con lo divino, ese es el objeto final de toda disciplina religiosa, y eso eș lo que se entiende por realización.
+
+"Hay yna gran diferencia, dice Paramananda (I), entre un filósofo, un hombre de letras y un vidente, o un hombre que ha llegado, que se ha realizado en lo Divino. El filósofo puede haber estudiado todos los Vedas y otras escrituras y citar largos pasajes de todas ellas; pero el vidente, en cambio, sabe, ponque ha visto. El primero repite lo que ha aprendido, el segurido dice: "Sí, lo sé". Sus palabras son audaces, porque la experiencia, la experiencia íntima es la única fuente de vigor. Cuando un hombre ha visto a Dios, puede declarar con convicción que hay Dias. Mientras esta convicción no se ha ⟦ formado, de nada sirve repetir fórmulas sagradas como⟧ el Soham, yo soy Él y otras semejantes."
+
+"En la India, agrega, se enseña a los loros a pronunciar nombres sagrados, y mientras nadie los molesta, los
+
+(1) Sucesor de Vivekananda, el Swam Paramananda, ha escrito un  ⟦librito dencminado «Vedantismo Práctico» (Vedanta in Proclice), que⟧ también representa muy bien el actual espíritu ecléctico y despejado de los vedantistas del Indostán.
+
+[p. 343]
+
+repiten con regularidad; pero luego que se les acerca un gato, vuelan y se agitan lanzando gritos guturales de pavor. Igual a estos loros, muchas gentes viven repitiendo las palabras de las escrituras, sin comprender su significado, y cuando les llega una aflicción, siéntense desvalidos, débiles y atemorizados."
+
+"En cambio, cuando hemos comprendido el Ser, cuando lo percibimos, como se percibe la existencia de aquièllos que están a muestro alrededor, entonces ya no existe el temor de la muerte ni el temor de las enfermedades. La Naturaleza no tiene poder sabre el Yo intimo del hombre, una vez que se ha hecho idéntico a Dios; una vez que Dios y la visión de Dios son una misma cosa: El hombre yerdadero y Dios son inseparables; juntos forman el Uno que todo lo permea. Lo que importa es sentir en nuestros corazones el amor inteaso de este atman o Dios. Este amor viene a los que son puros de corazón y se han desprendido de todo deseo egoista... Por muy difícil que sea lograr esta realización, afanémonos en ello, pues sólo así conquistaremos la verdadera paz."
+
+Presentando un resumen de las areencias de su escuela, afirma Paramananda, que todas nuestras aflicciones proceden de estar sujetos a Maya, y de no darnos cuenta de que muestra naturaleza verdadera es atman, es divina. Por eso, según él, lo más importante es ejercitar nuestra facultad de discernimiento. A medida que desarrollamos este nuestro discernimiento, comenzamos a subir, desde los planos inferiores de la vida, hasta los más altos. Hay tres planos de existencia en este universo:
+
+[p. 344]
+
+El material o físico; los pensamientos de este plano no ° van más allá de lo sensible y físico. El plano del entendimiento es el segrendo y corresponde al hombre; es el plano en que so distinguen los sabios, los hombres de ciencia y los inventones. Por encima de este plano, y más allá del cuerpo y del entendimiento se encuentra el plano espiritual. A este plano se llega por la fuerza del entendimiento, no se liega por el ingenio, y es en este plano donde salemos obtener facultades sobrenaturales.
+
+Estos tres planos de existencia se llaman, en sánscrito, Sattva, Rajas y Tamas. Nuestros cuerpos son una mezcia de los tres. Tamas es la naturaleza animal, la oscuri. dad y la estupidez. Gracias al entendimiento procuramos salir de este estado; nos esforzamos, y esto es lo que se designa con el nombre de Rajá, aoción. El poder de la razón nos hace progresar, pero pronto descubrimos que no basta. Sólo cuando descubrimos, mediante el esfuerzo del alma, la senda que nos lleva a mirar nuestro tesoro interno, entonces realizamos el Sattva. En seguida expone Paramananda algunas consideraciones sobre la clase de alimentos que conviene tomar para modificar el cuerpo y llevarlo a estado de Sattva, y dice cuáles son los alimentos impuros, etc.; en todo esto se acerca mucho a lo menos puro de los yoguis, y nos suena un poco raro, como, por ejemplo, cuando dice que es impuro "el alimento que ha sido tocado por una persona impura."
+
+Expone en seguida muestro autor algunos preceptos para la educación del carácter, señalando las ventajas que resultan de renunciar a los placenes del mundo: Re-
+
+[p. 345]
+
+huncia, renuncia, dice, tal ha sido el consejo de todas los grandes sabios desde los más antiguas hasta Buda y Jesús, El hombre más grande es el que tiene menos deseos, y' tombién el que hace bien, pues lo mejor manero de vencer el mal es hacer el bien.
+
+Habla en otro capítulo de da necesidad de educar la atención, para que se concentre en los 'objetos nobles, porque "exactamente como pensamos, así nos hacemos", y fmalmente, llega al problema que también Tagore presenta en su Sadhana, el problema istportantísimo de la Realización. ⟦.r.=⟧
+
+ach | • yp
+
+[p. 346]
+
+## LA SÍNTESIS RELIGIOSA
+
+Los problemas religiosos de la edad presente se parecen mucho a los problemas que se presentaron, durante los primeros siglos del cristianismo, en la cosmopolita escuela de Alejandría. Gracias al progreso de todas las ciencias aplicadas, el Oriente ha venido a ponerse en contacto con el Occidente, ya no como antes, de una manera parcial, y de acuerdo con las vagas noticias de un misionero o de un grupo de misioneros, sino totalmente, poniendo delante de nuestros ojos todos los antiguos tesoros de su espíritu y todos los nuevos brotes que van comprobando que ninguna generación está de más en la serie de las existencias humanas. La cultura del Oriente y la cultura del Occidente ya no van a separarse después de este definitivo encuentro, porque ahora todo el mundo es una Alejandría, donde se cotejan y estudian todas las doctrinas y se elaboran e inician todas las sintesis. Nuestro cristianismo supo resistir triunfante el enriquecimiento y la crítica de que fué objeto en Alejandría, y ahora, también, no le esperan sino frutos copiosos de su nueva inmersión en las ideas ancestrales de esa rama vigorosa del pensamiento humano, la raza de los indoarios. Porque el cristianismo es verdad, y nada tiene que temer de la verdad; por eso no debemos los cristianos acercarnos con temor a los preceptos extraños, sino
+
+[p. 347]
+
+con ese espíritu de conciliación y de eclecticismo que caracterizó a los Padres de la Iglesia, a los abispos plato nistas, que, gracias a su elevación mental, supieron depurar el cristianismo, apartándolo de la teología bíblica; para ennoblecerlo, como la doctrina de Cristo lo mérèce, en las claridades transparentes de la filosofia griega.
+
+Los teólogos modernos tienen que emprender una obra semejante con toda la cultura indostánica, tanto porque ya no es posible ignorarla cuanto por la gran afinidad que posee con lo nuestro. El decaro del espíritu humano exige que las religiones ya no estén dispersas. Así como las ciencias ya son una sola en el método y el propósito. urge que las religiones también derriben los muros de la ignorancia y el prejuicio, y junten sus preceptos comunes y organicen sus verdades de acuerdo con un propósito sintético, y que aumente el poder de la revelación. No está bien ni que las cristianos se desentiendan de lo bracmánico, ni que las bracmanes dejen de tener en cuenta el enorme suceso de la aparición de Cristo en el mundo. Los pensadores del Indostán se hallan en este momento verificando la síntesis de todas las distintas doctrinas de su raza. Las abras de Tagore y de ⟦ Vivekananda, las de Ramohum Roy y de Paramanan-⟧ da comprueban que el Indostán ya no quiere estar dividido en budistas y vedantistas o jainistas, etc., etc., sino que sus más grandes espíritus están logrando fundir todas las antiguas verdades en una nueva doctrina universal y sublime.
+
+¿ Vamos nosotros, los cristianos, a permanecer ence-
+
+[p. 348]
+
+⟦José Marcoscalos⟧
+
+rrados en nuestros preceptos, aun a rieggo de recortar
+
+⟦nuestro espacio mental, lai riesgo de oonvertirmos en⟧
+
+socta, o sabremos, aliora como antes, poner en la hoguera de mestras conciercias tada la resina de los viejos troncos para que el cielo se liene de esplendores?
+
+[p. 349]
+
+## EL VEDA ATHARVA DEMONOLOGÍA Y MAGIA
+
+### EL ATHARVA-VEDA
+
+El Atharva-Veda ha sido clasificado, desde antiguo, junto con los Vedas clásicos: el Rig, el Sama y el Yagur; por ejemplo, el Mahabarata menciona los cuatro libros, considerándolos iguales. Sin embargo, opinan los autores que el Atharva es posterior, y desde luego, según todo el mundo conviene, inferior en doctrina y en mérito poético a los otros tres libros sagrados.
+
+El Veda Atharva se compone de una colección de himnos o plegarias-mantras dirigidos a los dioses para obtener la curación de las enfermedades, el consuelo de los dolores morales; para expeler los demonios del cuerpo, curar los celas, confundir enemigos y lograr la salud y la vida. Contienen los himnos fórmulas imprecatorias para alejar y dominar el poder de los demonios y brujos, y para evitar el efecto de las maldiciones reci-i bidas y para borrar el efeato de nuestros pecados o faltas. Todo esto se consigue, según los dichos himnos, no sólo por medio de ruegos e imprecaciones verbales, sino mediante el empleo de substancias materiales y de objetos, como, por ejemplo, los amuletos hechos de ma-
+
+[p. 350]
+
+dera del árbol varana y los brazaletes, cuentas, etc., mezclándose la superstición y el conjuro con la magia.
+
+Los himnos son de inocencia infantil, y no hacen más que expresar, en forma poética y prosopopeyica, los anhelos del corazón; véase, verbigracia, el himno del amuleto, que dice textualmente:
+
+"Eres sostén—-sostén mis dos manos—; arroja lejos de mí a los rakshas-demonios—. Por la virtud de este amuleto se obtiene prole."
+
+"¡ Oh, brazalete! Abre el capullo donde se deposita el embrión. ¡Oh, brazalete!, que fijas límites: dame un hijo, tráelo aquí, tú que has venido."
+
+"El brazalete que usó Aditti cuando deseó un hijo, que Tatvashtar lo ate a esta mujer, con el propósito de que conciba un hijo.".
+
+Invocaciones semejantes ofrécense para asegurar influencia en las asambleas, para obtener prosperidad en los negocios ó en la guerra. Encuéntranse también imprecaciones contra los enemigos de los brahmanes y asimismo himnos cosmogónicos y teosóficos; estos últimos glorifican al Sol como al primer principio y primer discípulo de Brahma; otros aseguran que ese primer • principio derivado de Brahma es Kama o Amor, y otros aun sostienen que el elemento primordial es Kala o el ⟦siempo.⟧ • Con todas estas ideas, extrañas a la tradición brahmánica o vedántica, se fueron formando sectas y textos que probablerriente hasta la fecha subsisten, y que vinieron a aumentar la riqueza ideológica de la India,
+
+[p. 351]
+
+a la vez que dieron raíces a las supersticiones y a los más curiosos absurdos.
+
+En las oreencias del Veda Atharva se fundaron va-⟦rios Upanishads, pero espocialmente Tantras, casi to-⟧ das las Tantras que se refieren a ocultismo, magia, adivinación, poderes sobrenaturales, etc. Los himnos del Atharva no contienen nada misterioso, y, por lo común, se reducen a plegarias que, en gran número de casos, suenan pueriles y absurdas.
+
+Del Atharva-Veda arrancan las doctrinas de las sectas adoradoras del Sol y de los astros, y de allí mismo parten todos los tratados de magia, todas las comogonías arbitrarias y complicadas, todas las fantasías que en nuestra propia tradición filosófico-religiosa han ido a dar a la Kabala ; por eso el Atharva Veda ha sido cami parado con la Kabala hebrea. Pero, naturalmente, todos estos desarrollos no se encuentran en el Veda, sino en la inmensa y desordenada literatura que se ha ido produciendo alrededor de principios arbitrarios y confusos, que, a falta de ciencia o de iluminación superior, sirven para ensayar explicaciones del misterio de las cosas (I).
+
+(1) Véase Atharva-Veda, colección: Sacred Books of the East, Oxford Clarendon Press, 1897. Trad. inglesa de Bloomfield, profesor de la John Hopkins University, de Baltimore.
+
+[^p360-1]: Gel
+
+[p. 352]
+
+### 28.—Demonología
+
+Lla creencia en los demonios es creencia popular en da India, lo mismo que en casi todos los pueblos. Según la demonología hindú, los detonios o rakshas son las almas de los muertos que no har podido arrancarse a los atractivos de la tierra; generalmente, estas almas siguen vagando por los lugares que habitaron en vida. y en ellos ejeroen malas influencias y aun venganzas sobre los vivos. Al infierno de los cristianos corresponde el Kamatoka de los hindús, la región donde habitan los que no han podido desatarse de las ligaduras del deseo. Los moradores del Kama-loka asechan la vida de los hombres, y no pudiendo reencarnar, o mientras reencarnan, para satisfacer sus apetitos se valen de los hombres, se introducen en sus cuerpos y los obligan a ejecutar las más extrañas acciones. He aquí una teoría perfectamente congruente con el resto de las ideas cósmicas de la India y completamente eficaz para resolver el problema de los poseídos.
+
+Los diablos son los espíritus descarnados de los hombres apegados a la tierra, de los hombres malos y perversos que anhelan volver a tomar parte en los asuntos del mundo. Esto es lo que afirman los tantras, las sectas modernas, más o menos contagiadas de espiritismo; pero no son éstos, sin duda los rakshas de que nos hablan las libros antiguos, los rakshas que, por ejemplo,
+
+[p. 353]
+
+tentaron al Buda antes de que se decidiera a propagar su doctrina. Los rakshas de los textos clásicos son seres malignos, pero de naturaleso distinto de la del alma humano; las almas que habitan el Kama-loRa corresponden, más bien que a los diablos, a los condenados en nuestras religiones cristianas, a los fantasmas de los esperstistas modernos.
+
+Pues no es atinado confundir el alma de un muerto, un alma de origen humano, con el alma de un demonio auténtico, un alma, según nuestra tradición hebrea, de origen angelical. La teoría de los demonios probablemente no ha sido desarrollada en ninguna parte mejor que en la teología oristiana, en la teología católica. Las escrituras sagradas sirven de base a la creencia en Satanas, el angel soberbio que, junto con otros muchos, fué expulsado del paraíso y habita las regiones sombrías del Universo. Después, en los primeros siglos del cristianismo se desarrolla toda una literatura demonológica y magica, que por un lado constituye la tradición hebrea llamada Cábala, y por otro se manifiesta en obras de metafísica esotérica, como la de Jámblico, y en las prácticas de escuelas como la de Simón Mago. Véase Cábala, Libros Apócrifos; Libro de Erroch, etc. (1).
+
+(I) Se llama Cábala un cuerpo de doctrina secreta de los hebreas, que pretende explicar la naturaleza de Dios y sus verdaderas relaciones con el mundo y las criaturas. Alegan los cabalistas que su doctrina es una revelación trasmitida, nada menos que por boca de Adán a Seth, y a Noé, quien a su vez, la pasó a Abraham. Durante su cautiverio en Egipto, Abraham participó de ella a los egipcios, quienes a su vez la enseñaron a Moisés, y éste creyó prudente instruir en los misterios a setopta ancianos, que recibieron la misión de transmitir la verdad sagra-
+
+[p. 354]
+
+En los Evangelios se reconoce el pader de los demonios, cuando Jesús resiste victoriosamente las tentacio de Satanás y cuando cura a los poseídos. Y aun-⟦nes⟧ que algunos místicos modernos, como, por ejempla, Schleiermarcher, han pretendido negar que Cristo creyese en los demonios, no parece que esta opinión esté • da, con extrema prudencia y reserva, encontrándose entre los iniciados antiguos los reyes David y Salomón. Los profetas Isaías, Daniel y Ezequiel también tuvieron conocimiento de ella; y por fin en el siglo segundo A. de C., Simon ber Yohai, temiendo la dispersión de los iniciados, mandó que la doctrina se escribiese por primera vez. Sin embargo, sólo se escribieron, en parte, los misterios, y eso, expresándolos por medio de signos, aforismos y mitos que los velasen suficientemente a los ojos del vulgo. Los cabalistas reclaman como suyas la mayor parte de las doctrinas que se encuentran en los libros apócrifos, como los Salmos de Salomón, Visiones de Isaías, Libro de los Jubileos, Testamento de los Doce Patriarcas, Apocalipsis de Baruch, Los Libros de Hermes Trimegistos, el Libro de Enoch, San Bernabé el Apócrifo, y parte de la doctrina de Filón el hebreo. Hablan también los cabalistas de un vidente que por la época neoplatónica, volvió a refundir toda la doctrina, liamado Midras, y alegan que los preceptos de la Cábala ejercieron influencia en las doctrinas de los gnósticos alejandrinos, en los Vedas Upanishads y Tantras, en el Bhagavad-Gita, en el Yih King chino y en Laot Ize, asi como entre los magos de Persia, Caldea, Asiria y entre los dravidios de la India. Los yoguis, a su vez, alegan que Pantajolí llegó hasta la Persia y que de allí pasaron sus enseñanzas a la Arabia y Egipto y Judea.
+
+En la Edad Media, Pico de la Mirandola volvió a recomendar el estudio de los libros cabalísticos; y la Cábala volvió a alcanzar notoriedad ruidosa, con motivo de los escritos de Moisés o Mosén de León, autor del Zohar, de quien se dice que llegó a confesar que habia inventa--do toda la doctrina como un mero pasatiempo fantástico, aunque atribuyéndola, falsamente, a autoridades y textos secretos. Sin embargo, los cabalistas se desentienden de esta historia de Mosén, y atribuyen ⟦el libro a Iben Gebirol, Avicebrón.⟧
+
+El Zohar es una colección completa de las doctrinas cabalisticas, redactada, seguramente, en España y editada después en Amsterdam y otros lugares, por el siglo XV de nuestra era. Compónese de comeatarios al Antiguo Testamento, a propósito de los cuales, y con apoyo en los pasajes conocidos de la escritura, se desarrollan interpreta-
+
+[p. 355]
+
+justificada, y la contradice la tradición entera. No sólo eso, sino que, según muchos teólogos, la doctrina de los demonios es un complemento necesario al concepto hebreo y al concepto cristiano del mundo. En lo que tiene razón Schleiermarcher es en protestar contra las teorías absurdas de los teólogos cristianos sobre el demonio y el infierno y los castigos del infierno. Es claro ciones y tesis completamente nuevas. Conforme à la teoría cabalista, los fenómenos materiales son, por doquiera, simbolo y signo de lo trascendente, lenguaje de las potencias eternas. La creación del mundo se explica por emanaciones de la divinidad, y los distintos grados de esa emanación se definen con toda exactitud. Hay, por ejemplo, en el cielo, categorías de espíritus, formadas por los ángeles, los arcángeles, los serafines, potencias, dominaciones, etc. La iglesia bizantina tomó mucho de esto, según se ve todavía en las oraciones del culto católico. Los intermediarios para la creación del mundo terrestre, son los Zephirots, o entidades siguientes: Corona, Sabiduría, Inteligencia, Amor, Gloria, Triunfo, Belleza, etc. El universo se compone de cuatro mundos diferentes: el celestial o arquetipo; el Barah o del crecimiento y desarro; el yenzoh o de las esferas celestes, moradas de los ángeles, y el mundo hacer o mundo activo, de las obras materiales. Sea o no sea apócrifo, el Lohar, lo que no puede negarse es que quien lo escribió era sincero en su doctrina, pues no se explican de otro modo la emocionante grandeza, la sublimidad ý ternura de algunos pasajes: uno de esos libros que hacen llorar por el anhelo de lo Infinito. Para bibliografia, ⟦véase: FRANK, La Kabala, París, 188g.—Le Zoar, LEVÍ, La Science des⟧ Esprits, París, 1865. A propósito de Mosén de León y de Iben Gebirol, MENÉNDEZ PELAYO, Ideas Estét.
+
+⟦Libro de Enoch. Trad de G. H. Schode. Andover. 1882. Enoch. es⟧ un supuesto profeta hebreo, anterior a Cristo, que se dice vivió trescientos sesenta y cinco años y poseyó todos los secretos de todos los mundos. Su libro consta de diálogos con los ángeles, y predice la destrucción de los malos, el advenimiento del Mesías, la caída de los ángeles a causa de su consorcio con las hijas de los hombres, no obstante lo cual todos serán perdonados el día del juicio final, etc. Involuntariamente, estos personajes, como Enoch y otros cabalistas, recuerdan a Swedenborg; quizás eran iluminados sin ceros pero heterodoxos, del tipo del célebre y discutible místico moderno.
+
+[p. 356]
+
+que tado esto es efecto de una fantasía morbosa y cruel; el diablo de ta Iglesia y el diablo de la Inquisición deshonran al cristianismo. Pero esto no afecta al hecho fundamental de que, según los Evangelios, Cristo vencía la los demonios y curaba a tos poseídos de su in-⟦flujo.⟧
+
+La teología cristiana adoptó la tesis evangélica y la tesis hebrea sobre los demonios, y en el concilio de Letrán consagróse la creencia en tos ángeles, que fueron definidos como substancias espirituales—una definición incomparablemente acertada-, y la existencia de los ángeles trae consigo la creencia en sus hermanos rebeldes y caídos, los ángeles malos, discípulos de Luzbel. Sabido es que implica un progreso considerable dejar de concebir a los dioses como los manes de los antepasados muertos, para creer en una divinidad independiente y poderosa; probablemente constituye un progreso semejante dejar de considerar a los demonios como las almas de los difuntos para concebirlos como seres aparte en la cosmología inmaterial. ¿ Qué sucede, sin embargo, con los habitantes del Kama-loka, con las almas irredentas que siguen apegadas a la tierra por la fuerza del deseo insatisfecho? Sin duda, contestarán los teólogos hindús, que el estado de esas almas corresponde al estado de los condenados en da escatología cristiana. Sólo que a los hindús no les ha ocurrido la teoría, por otra parte tan poco cristiata, de que esa condenación ha de ser eterna. Tampoco conciben ellos que la pérdida del alma injusta dependa del pecado, mucho menos
+
+[p. 357]
+
+## Este i n
+
+del pecado original; esta es otra teoría hebrea que sienta mal con la pureza y la elevación del cristianismo. Lo que debe suponerse es que, además del espacio en que habitan los demonios, llámese infierno o llámese Hades, exaste una zona de reposo o de retiro en la cual el alma de las muertos yace en estado de aturdimiento, y si ha errado mucho, y se halla todavía impura, pero tiene deseo de avanzar, medita y expía sus faltas; y si se siente torpe o contumaz, vuetve a buscar envoltura terrestre para satisfacer sus apetitos ruines. De esta manera la situación del alma del muerto no depende tanto de un juicio-porque la bondad infinita no puede castigar— cuanto del estado de esa misma alma, del deseo y poder que ella lleva, deseo y poder que obran, como toda ley dinámica, buscando sus similitudes y afinidades.
+
+El problema del estado de las almas después de la muerte es, de todas maneras, distinto del problema de los demonios, y, por lo tanto, volvamos a este último problema y limitémonos a él.
+
+Después de que el Concilio hizo canónica la tesis de los demonios, ya, naturalmente, sólo se ha discutido en la teología católica el alcance de la teoría y el estado particular de los demonias, así como los poderes de que están dotados. Santo Tomás, por ejemplo, aprovecha la teoría de los demonios para explicar los fenómerios sobrenaturales, y afirma que pueden levantar a un hombre por los aires y mover los objetos sin instrumento alguno; pero como también estos actos, según la Escritura, ocurren en los milagros de los santos y
+
+[p. 358]
+
+profetas, llama Santo Tomás preternaturales a todos estos fenómenos y declara que pueden proceder de un ser superior, bueno o malo. Cuando por el carácter del ejecutante y las circunstancias que rodean al caso se comprueba que no puede provenir del demonio, se infiere la intervención divina, y en este caso, el fenómeno se llama milagro. Tal era la doctrina estricta aplicada por la Inquisición, segúm puede verse en procesos que todavía se encuentran en los archivos de la ciudad de México; por ejemplo, el de una histérica que tenía visiones y se elevaba en el aire, etc. La infeliz, junto con los que creían en ella, fué a parar a las celdas inhumanas del Santo Oficio, que así deshonraba la especulación, más o menos acertada, pero siempre interesante, de los teólogos.
+
+Suárez, un teólogo de quien no se puede hablar sin cierto horror, porque recuerda más directamente las aberraciones de la Inquisición española, emprende largas discusiones acerca de la magnitud del pecado de los ángeles, y de la injusticia de que ese pecado no pueda jamás perdonarse y de que el castigo que el pecado implica sea también irrevocable.
+
+La mente humana, pues, ha creído y sigue creyendo en la existencia de seres sin contextura corpórea, pero realès, que habitan el misterio, y asechan y persiguen a, los hombres. Esta no es sólo una creencia popular, y, por tanto, desdeñable, como debida a la ignorancia; •muy lejos de ello; los más grandes espíritus, en todas las épocas, hanse mostrado vacilantes o crédulos a este
+
+[p. 359]
+
+respecto. Los más grandes espíritus, no de una religión, ni de una secta, sino de todas las religiones y de todas las sectas.
+
+Los más ilustres testimonios de la creencia en los diablos constitúyenlos, sin duda, Buda y Jesús. Ambos se sintieron tentados par las potencias mundanas, por los apetitos y las ambiciones terrestres, y ambos prefirieron renunciar a los éxitos sociales para aprovechar su paso por este mundo. Buda y Jesús afirman haber sentido la presencia de las demonios; pero no nos dijeron cómo eran los demonios quizá porque el lenguaje de los hombres resulta ineficaz para expresar lo inma-⟦terial.⟧
+
+Otro gran vidente, Platón, además de referirse cada vez que lo cree oportuno a los demonios y demiurgos de la mitología, lo cual podría interpretarse como mera alegoría poética, afirma sin ningún género de duda, en uno de sus Discursos del Diálogo de las Leyes, la persistencia del mal en el mundo. Esto, en Platón, cuyo idealismo excluye la realidad del mal, significa el reco-¡ocimiento de que no sólo están en obra en este planeta las fuerzas ennoblecedoras, que impelen a todas las formas a convertirse en el arquetipo, sino que también hay fuerzas bajas que degradan y envilecen el esfuerzo. Estos agentes antagónicos eran diablos para la fantasía primitiva de la antigüedad. En épocas más filosóficas, asi corno el concepto de lo divino se despersonaliza, y se va haciendo cada vez menos antropomórfico, la idea del mal también se deshumaniza. A los hombres
+
+[p. 360]
+
+de hoy se nos presenta como un caos de potencias hostiles, que parecen empeñadas en contrariar y aun en deshacer este esfuerzo, que es nuestra alma; esfuerzo hacia la libertad y la superioridad; y quisieran arrastrar otra vez nuestra potencia a los bajos fondos donde impera la vida primitiva: llena de apetitos y agotándose sin término en el afán de los propósitos particulares.
+
+Romain Rolland, en el último tomao del Jean Christophe, ha sabido expresar este moderno concepto de la hucha del bien y el mal. Nunca acabariamos las citas si nos propusiésemos mencionar a todos los que en el mundo moderno se interesan en estos problemas y creen en ellas (I). Así, pues, el problema de los demonios subsiste, como subsiste el problema del alma, y como
+
+(I) A propósito del íntimo modo de pensar de algunos filósofos modernos, no quiero dejar de consignar un relato curioso. Estando hace poco en San Francisco, California, con motivo de asuntos profesionales que no es del caso referir, tocóme entablar amistad con la esposa de un prominente abogado, dama encantadora, pero lo suficientemente virtuosa para no causar tentaciones, y bastante madura y noble para vivir de la mente, y ya no de los sentidos: la única sufragista interesante que he conocido. Era culta, con ese cientificismo superficial de las gentes metódicas que, además, se dedican a la política; hallábase convencida de que todos los pueblos llegarían a ser felices tan pronto como alcanzaran el grado de progreso de Norteamérica, con la calidad de ese progreso, tal como aparece quintaesenciado en el matriarcado de ⟦ California.⟧
+
+Todo esto se lo hacía perdonar con gracia verdaderamente femenina, con una dulzura maternal que resultaba irresistible; y si menciono circunstancias tales, es precisamente para que se aprecie mejor lo que va en seguida. La distinguida sufragista y alumna de la clase de Filosofia de una universidad conocida, era, además, excelente esposa, y acababa de pasar una temporada en Washington, acompañando a su marido, que ocupó brevemente un alto puesto. En Washington, sus aficiones la llevaron a tratar con extranjeros inteligentes; una noche, me re
+
+[p. 361]
+
+subsisten todas los otros grandes problemas; porque en materia de conocimientos ultraterrestres, la humanidad no avanza por procesos graduados, ni por desarrollos raturales, sino por mensajes súbitos y extraordinarios. En realidad, en estos asuntos, la autoridad única es la de los grandes maestros religiosos, porque la verdad que ellos enseñan no están all alcance del común de los mortales, y sus doctrinas sobreviven a todas las opiniones cultas, lo mismo que a los errores de la ignorancia. Mientras sabios e igmorantes, juntos trastabillean, como ciegos en una ciudad desierta, los grandes videntes afirman, y esa visión de sus ojos extraondinarios es la verdad, o la más grande aproximación a la verdad, que nos es dado alcanzar en este planeta.
+
+Nada es, sin embargo, más difícil que conservar la distinción precisa entre lo que percibieron los verdaderos videntes y lo que más tarde el vulgo, a peor aun que el vulgo, los charlatanes semillustrados inventan; pues ya, con justicia, advertía Platón en las Leyes, que fería haber conocido a Bergson:—, Cómo es, le pregunté?-Oh, repuso, ⟦.he looks like a frail creature, like something you would like to protect»⟧ .. Bergson-agregó-había ido a Washington acompañando a la misión ⟦Francesa que dida en dir lo ara da amos cadena de ere pe estas⟧ n una cena, ' sí es que tuve ocasión de estudiarlo y de hablarle... algo de lo que ⟦lijo resultó every amusing, — muy divertido —; figúrese usted que⟧ aseguró que creía eu la existencia de «evil spirits»— espíritus ma-⟦lignos—...⟧ Cuando mi amable interlocutora dijo esto, confieso que no pude repri. mir mi emoción, y le rogué que lo repitiera, lo cual ella hizo sin asomo de turbación, pues no cree en esas cosas, porque no es «scietiic» creer en ellas.
+
+[p. 362]
+
+no debe tolerarse el culto privado, "porque las instituciones religiosas sólo pueden ser construidas por una gran inteligencia. Pero las majeres y los hombres debiles constantemente consagran los acontecimientos del instante, y bajo la influencia de cada nueva visión construyen altares y templos en cada aldea y en cada lugar." Sabias palabras que tan oportunamente podrían aplicarse a las sectas absurdas que pululan en los Estados Unidos: científicos cristianos-un disparate que acarrea detrás de sí millones de almas y todavía más millones de pesos-; mormones de Utah, etc,, etc. Así, pues, no vamos a ocuparnos de lo que piensan de Dios, ni de lo que piensan del demonio todos estos millares de desviados, que no son de los que dejan huella en la historia del pensamiento, ni en la historia de la consecución de la verdad, ni siquiera en la historia de las curiosidades interesantes.
+
+Nuestra demonología, volviendo al asunto, no puede quedar ni imperfectamente esbozada, si dejamos de men. cionar la gran figura visionaria del Dante, cuyas revelaciones no deben tomarse al pie de la letra en lo que tienen de situación y de imagen; pero sí como obra de la más acabada sabiduría en todo lo que se refiere a las causas de la condenación, a las causas de nuestra pérdida y de nuestra aleación con los demonios. ¿ Quién había advertido, por ejemplo, que aun el mucho amor, el amor excesivo, es capaz de perdernos si lo ponemos en un abjeto ruin o simplemente en un objeto finito? Porque es lo propio del amor transformar nuestra natu-15
+
+[p. 363]
+
+raleza y haoerla semejante al objeto amado, y amando lo finito caemos y nos perpetuamos en la miseria. De donde se deduce que el único afecto legítimo, entre los hombres, es la piedad del compañerismo o la paternal devoción del que ya ha visto un poco más alla. No cabe duda que Dante, en su alma agitada y magnífica, sintió cual ninguno la presencia y la fuerza de los monstruos que sin cesar nos acecham, más activos y tenaces mientras más grande es nuestro propósito (I).
+
+No cito a quienes pudiéramos llamar especialistas de la demonología, como, por ejemplo, a Strindberg, el muy ilustre y predlaro personaje, porque en todos estos supuestos espíritus demoníacos o poseídos hay un elemento de morbosidad que afecta a sus juicios y a sus experiencias, y yo quiero concretarme a inquirir lo que piensan de estos asuntos los espíritus normales, fuertes y despejados. Aquellos cuya percepción puede localizar el problema en su justo lugar y en la debida proporción, en la proporción que guarda con los demás elementos que constituyen el mundo.
+
+Ensayemos, pues, dirigirnos al nervio del problema con este criterio sereno, pero penetrante. No busquemos la solución por medio de impresiones confusas o de instintos hipnóticos, a los cuales, por otra parte, muchos
+
+(I) En los ensayos del mexicano Julio Torri, retoza un demonio ingeniosísimo, que parece indignarse de que la realidad, aun la realidad del pensamiento, no sea bastante ágil para expresar todos sus caprichos; sin embargo, hace con ella admirable cabriolas, como en el en-⟦sayo « Beati qui Perdunt.»⟧
+
+[p. 364]
+
+## Jaró Varcarcelas
+
+somos complotamente insensibles (I), sino mediante el ejercicio firme y completo de todas muestras facultades superiores; lo mismo que se busca la prueba de la existencia del alma, con el alma abierta a la duda y a la convioción. También, para no errar del todo el camino, dejemos asentado, desde luego, que el problema de la existencia de seres espirituales, amigos o enemigos del hombre, no es um problema empírico que pueda resolverse mediante experiencias prácticas.
+
+Ninguna ciencia empírica ha podido demostrar que poscemos espíritu inmortal y ninguna ciencia ha podido regarlo; pero, en cambio, la conciencia nos afirma a cada instante, y por encima de todas las realidades la realidad única y firme de nuestra propia existencia positiva; realidad tan única y tan firme, que sin ella todo el mundo de las percepciones se desvanecería y se tornaría en sombras. Sin embargo, esta realidad de realidades no puede juzgarla la inteligencia, no puode ni siquiera concebirla; no puede concebiria, porque ella trasciende a la inteligencia, como trasciende al espacio y trasciende al tiempo, y trasciende a todas las formas. Pues bien; esta realidad trascendente, que está en nosotros, y que se ha hallado igual en los hombres que nos han precedido, ha sentido muchas veces, y sigue sintiendo, en determinadas ocasiones, la sensación de que no está sola, de que no sólo está rodeada de otras almas (1) Largas y estériles horas pasé en mi más temprana juventud, impresionando mesas y platos, visitando casas de espantos e invocando espíritus, sin haber logrado ninguna manifestación anormal o que no pudiera explicarse, después de analizada friamente.
+
+[p. 365]
+
+de vivos y de otras energías particulares condensadas en lo que llamamos cosas, sino que está acompañada, ya sea de cerca, ya sea de lejos, por entidades semejantes a su propia esencia. No sólo sentimos nuestra alma, sino que sentimos la presencia de seres constituídos como nuestra alma y capaces de impresionarla, sin contacto, sin seña alguna de los sentidos, y tam sólo por una como noción de fuerza, o más bien dicho, como noción de diferencia en la fuerza. Concentraciones de fuerza, con ritmos semejantes o diversos, ése es el concepto que a primera vista nos da el mundo trascendente. Y evito llamarlo ideal, y lo llamo sólo trascendente porque es más que ideal, tanto porque trasciende a la forma, cuanto porque tiene substancia; no es mera imagen, sino la esencia y la concentración más subida de la substancia.
+
+Los seres espirituales dichos no poseen ninguna de las formas de la inteligencia, ni ninguma de las vibraciones peculiares de los sentidos, y, sin embargo, manifiestan poder, y acaso son los engendradores de la vida, y otras veces las causas de la muerte. Son seres que nada agregan a la existencia de la materia sensible, ni están sujetos a sus leyes dinámicas conservadoras; muévense por actividad espontánea e interna, y aun son capaces de mover la materia, ya que en los seres vivos, eso que llamamos alma parece ser el motor fundamental.
+
+Principios activos, pero que constituyen una excepción violenta de todas llas uniformidades de la naturaleza, y su existencia, por esto mismo, no depende de las leyes dinámicas que gobiernan al mundo sensible, sino
+
+[p. 366]
+
+de leyes que les son propias, de leyes espirituales, etc. Las relaciones de estos, seres entre sí también son independientes de las leyes del mundo físico. y sus relaciones con el mundo físico dependen de circunstancias y modos que todavía nos son completamente desconocidos. La vida toda del planeta es un caso misterioso de combinación de lo inmaterial con lo material. El alma humana, a causa de sus deseos y apetitos, hallase unida con todas las, manifestaciones del mundo físico; por atry parte participa también de las leyes y de las agitaciones del mundo invisible. Quizás las plantas son también un compuesto de este género: viven y mueren conforme a las leyes físico-químicas de su desarrollo organico; pero también alientan la vida noble y aun magnífica que se nos revela cuando las contemplamos con el ojo del vidente, cuando se nos aparecen unciosas y serenamente bellas en los paisajes de los jardines y de los campos. Lo mismo debe decirse de los minerales cuando logran una armonía interna que los hace transparentes y lúci. dos; y por ser el ritmo de sus cristales afín de la ley de orden de muestras almas, nos deslumbran como gemas, o granito, o montes.
+
+Nuestra relación con el mundo material es muy intima, porque nuestro cuerpo es parte de ese mundo, y las sensaciones del cuerpo invaden el mayor espacio de nuestra conciencia, más bien dicho, todo el espacio. Y asi como hay hombres de sensibilidad física muy desarrollada, que perciben claramente todos los collores, todos los matices de la luz, y aun los pintan con fidelidad
+
+[p. 367]
+
+envidiable; así también hay hombres dotados de gran sensibilidad para percibir las substancias o seres de la naturaleza espiritual: pintores, reveladores de lo Invisible. Estos hombres son los videntes. Y. así como no negamos al pintor la realidad de la belleza que supo ex: traer del paisaje, no es tampoco legítimo regar al vidente la verdad de sus descubrimientos en el mundo invisible.
+
+La facultad de percibir lo inmaterial es, sin duda alguna, susceptible de desarrollo ilimitado, y también parece como que los seres inmateriales encuentran facilidad para penetrar en nosotros, valiéndose del cauce que les ofrece nuestra simpatía, nuestra similitud de naturaleza con ellos. Los hombres o mujeres dotados de fuerza moral verdadera, de honda virtud nativa, nunca se ven dominados por manías bajas ni por pasiones ruines. Las malas influencias pueden hacérseles sensibles, pero las desechan y las vencen, y siempre acaban aliándose a las tendencias superiores, como si dijésemos: al impulso de los seres nobles que pueblan el mundo inmaterial. Es porque en el mundo inmaterial, ya rige, con fuerza invencible, la ley que sospecha la magia, y que está también contenida, en potencia, en todas las demás leyes dinámicas: la ley de simpatía o de afnidad estética, ley cuya más alta expresión es la belleza, que cons. tituye la liga natural de las almas.
+
+Los seres inmateriales se manifiestan a nuestra conciencia, pero no se nos presentan con el perfil claro de una convicción, porque no siendo idea no poseen for-
+
+[p. 368]
+
+ma; han excedido la forma y hállanse por encima de la ropresentación. Son substancias per se, sujetas a leyes y categorías, sin duda, pero a leyes y categorías que sólo tienen semejanza con la parte moral de nosotros mismos, con lo que llamamos mérito y cuipa, con lo que llamamos fealdad y belleza.
+
+Algunas veces estas naturalezas misteriosas se nos revelan como tendencias que ambicionaríamos seguir, o bien, en el caso de los espíritus malignos, nos hacen el efecto de inclinaciones bajas y repugnantes, a las que algunas veces cedemos, pero a disgusto. Estas influencias son frecuentemente, más poderosas que nuestra voluntad; a tal punto, que muchas veces sentimos como si emprendiesen una lucha franca con nuestra voluntad; sentimos que la cohiben y paralizan como si la sujetasen a coacción material.
+
+La fuerza incontrastable de estas potencias, contrarias y exteriores a muestra voluntad, ha sido reconocida por la tragedia en sus manifestaciones más importantes, y calificada con el nombre de destino. En sus pequéñas manifestaciomes de la vida diaria, llamasele, en el tenguaje corriente "la de malas"; los italianos llámanda: "la Jettatura"; en general, todos los pueblos reconocen la presencia confusa de fenómenos que no pueden ser explicados con el lenguaje de la razón, pero que constituyen realidades de nuestra experiencia intima.
+
+Cuando se avecina una de esas crisis de la vida, en las que se sufre un gran dolor, una gran pérdida, ¿ quién no ha sentido el anuncio de la catástrofe? Comúnmente
+
+[p. 369]
+
+sucede que el conflicto se va acercando y se va agravando, el conflicto de nuestro deseo y de nuestro amor, con los acontecimientos que van por su curso implacable. Y entonces se produce una hucha, una lucha sorda y misteriosa, pero perfectamente consciente. Durante ellas nos damos cuenta exacta de muestra propia fuerza y del poder irresistible de los hechos externos, de los hechos que no podemos controlar ni variar. Pero lo más curioso es que muchas veces, nosotros, sin quererlo, y sin poder evitarlo, aunque lo estemos comprendiendo, hacemos invariablemente algo que colabora con nuestros enemigos invisibles, algo que traiciona nuestro más intimo propósito; como si de pronto, los poderes adversos se apoderasen de nuestra misma voluntad, para torcerla y divorciarla de nuestro deseo. La inteligencia con. templa horrorizada, pero la voluntad sufre comas periódicos y rápidos que la van inutilizando en el morento de la acción decisiva, y así es como se pierden, no pocas veces, las pequeñas causas de muestros intereses persómales, y las grandes causas que afectan al porvenir de los pueblos. No sólo nos damos cuenta de la presencia de obstáculos que, paso a paso, se van haciendo mayores; no sólo nos damos cuenta de que estas obscuros obstáculos, de pronto se vuelven activos y roen nuestro propio esfuerzo, sino que materialmente percibimos, con la más clara percepción de nuestras conciencias, una como mano invisible que ata en nosotros la palabra, cuando quisiéramos hablar para desvarecer el conflicto. Nos representamos todo lo que podriamos decir, ansia-
+
+[p. 370]
+
+ríamos decirlo, estamos seguras de que esta a navestro alcanoe el medio de salvar y amiquilar los obstáculos y, sin embargo, permanocemos mudos, no por orgullo, entiéndase bien—sino por una incapacidad intima—; parque, temporalmente, aquello que tenemos de más valioso, nuestra voluntad personal, está supeditado a energías más fuertes que las nuestras. El poder de la plegaria es enorme e incontrastable en estos casos, para devolvernos la ternura luminosa que hace disipar las sombras; pero no nos auxilia en nuestra lucha, no toma parte en nuestro conflicto; más biera parece que nos arranca del terreno mismo en que el conflicto se ha producido, y nos revela otras maneras mejores de la existencia del alma. Pero el conflicto sigue desarrollándose oscuramente, en las bajas regiones donde se ventilan los intereses que poseen relación estrecha con lo finito. Una noche, un mismo sueño, soñado a un tiempo por dos amantes, revélales de una manera manifiesta la separación definitiva que se aproxima; no se cuentan uno a atro el sueño, pero sorpréndense al saber que ambos lo han referido en forma velada, a los extraños. Y entonces, aunque ya :saben adónde va el porvenir, y ese porvenir los aterroriza, y aunque está en sus manos evitarlo, sin embargo, apenas lo intentan, y en seguida comprenden que no pueden; un extraño poder les aprieta la garganta, y lloran y se debaten, pero se dejan vencer. He aquí una de las maneras como se manifiesta lo que alguien ha llamado
+
+"la fuerza del Destino." Fuerzas decimos hoy, donde antes decían diablos, porque ya no nos gusta personifi.
+
+[p. 371]
+
+car lo desconocido; pero de todos maneras, es preciso reconacer la existencia de una realidad, acaso múltiple en sus manifestaciones, pero una, en el sentido de que contraría, y a veoes vence nuestros más codiciados propósitos.
+
+Mias no debemos afirmar lo que antecede, sin insistir en que los seres inmateriales no pueden hacerse presentes a ninguno de nuestros sentidos, por lo mismo que su naturaleza no treme analogía can lo corpóreo, y sólo se nos revelan como influencia moral; como presencia intuitiva; en forma semejante a como se mos revela nuestra propia alma inmortal.
+
+Desde el momento en que se nos aparezca una imagen, en el instante en que tengamos que habérnostas con un fantasma, estemos seguros de que esa visión es morbosa y no representa realidad alguna. Lo invisible no se expresa en formas, sigue siendo invisible, y nosotros sólo podemos aprenderlo mediante la facultad invisible que en nosotros reside. Nadie sabe lo que sentiremos el día en que hayamos de contemplar, después de la muerte, tado lo visible, convertido, ya sólo en puro y luminoso recuerdo, puesto que no tendremos cuerpo donde encarnar nuestra visión; y todo lo invisible de ahora, como serena, y activa, y sublime realidad.
+
+La personalización, dirémoslo así de los demonios, ha desacreditado la demonología, como la personalización de lo divino desacredita las doctrinas teológicas: la personalidad humana es un pobre ser ruin, del que todo instinto superior tiende a apartarse. Pero así como no
+
+[p. 372]
+
+cabe duda de que hay en el universo una Divina Potencia que le da significado y aliento; así también, parece indudable que existen esas fuerzas, o entidades morales de baja inclinación, y que estamos acostumbrados a concebir como demonios. Estos elementos son la representación típica del mal, el mal mismo, como potencia activa en el munido. Mas no porque posean una esencia antipoda del bien, ni siquiera una esencia propia. La esencia no es más que una y divina, en la creación entera; pero estos principios malignos representan maneras desviadas de la energía, modalidades sordas y confusas del apetito; una interrupción y un nudo de la cotriente divina. Por lo mismo, no se puede creer, con Suárez, que estos seres, por intimamente perversos que se les suponga, deberán permanooer en el mismo estado eternamente. Tal cosa, aparte de ser injusta y absurda, a un grado que anularía la teoría de la redención toda entera, resulta, además, incompatible con el monismo absoluto, que caracteriza al verdadero coricepto de la Divina Potencia.
+
+Los diablos nos seducen, no porque posean un poder contrario al de Dios; no porque se propongan perdernos, ni porque Dios les dé el poder de tentarnos; todas estas hipótesis son absurdas; nos seducen, por la semejanza que tenemos con ellos. Nos liga con ellos un género de similitud que está en la raíz de nuestra constitución humana. Decir vida corpórea es decir apetito, afán y dispersión de la conciencia en las unidades de lo finito: el ensimismamiento en lo finito, eso es lo demoniaco, asi
+
+[p. 373]
+
+como lo divino es ensimismamiento en lo Infinito. Los cablos nos arrastran y nos llevan consigo, porque son concupiscentes como nuestro apetito, ávidos como nuestra ambición, vanos como muestra soberbia, groseros camo desbordado deleite físico, lamentables como nuestra desesperación. Nos vamos. con ellos, no porque ellos nos arrastren, smo por el caer que está en nosotros.
+
+### LOS POSEÍDOS
+
+Las escrituras sagradas ros hablam de los puseídos; los evangelios nos dicen cómo los curaba Jesús; los indostanos conservan prácticas para arrojar los demonios del cuerpo; todo esto comprueba la creencia, universalmente arraigada, en da posibilidad de que los demonios se apoderen de nuestra voluntad y la dirijan, entren en nosotros y nos embarguen el alma. Sobre los síntomas que denuncian a los poseidos, no podríamos estar de acuerdo, en la actualidad, con lo que cree el vulgo de todos los países religiasos. Todos esos casos de posesión ruidosa, de alucinaciones y de malestar y trastornos fisicos, pueden quizas quedar comprendidos dentro de las variedades de la patología nerviosa; se deben, probablemente a trastornos funcionales, o a lacras hereditarias, como las que persiguen a los hijos de los degenerados. Pero hay otra especie de posesión de que ya hemos hablado en el capítulo que antecede, una posesión que po-
+
+[p. 374]
+
+dríamos llamar obsesión, que se introduce en muestras conciencias, y se vueve en ellas motivo y elemento de acción, ajeno a nuestra propia voluntad. Acción extraña que contemplamos con cierto horror, que sentimos obrar dentro de nosotros mismos, sin que acertemos a hallar fuerzas, ni para resistirla, ni para venceria. Una especie de locura apasionada y concupiscente que nos domina bajo la forma de violentas pasiones, pasiones que nos embriagan y conmueven, pero no nos dan la verdadera dicha. Pasiones que son para el alma como el vino para el cuerpo: un rapto de gusto violento y hondo, seguido de letargo penoso y de disgusto. Aleación de nuestra vo luntad con las formas equivocadas de la energía ética ambiente.
+
+• En ninguna obra moderna hállase expresado el pathos de estas alianzas nuestros con los formas ruines de lo invisible, como en el Parsifal de Wagner, y en el caso particular de la Kundry. Todos los que alguna vez, o muchas veces, hemos probado el vino de las pasiones firitas, sabemos lo que son los tormentos de Kurdry, y no podemos negar el extraño fondo de verdad, trascendente y humana, que se encierra en la vieja teoría de los poseídos. ¡ Cuántas veoes, tos que no tenemos el don de libertar a los demás, hemos ordo, impotentes, la dolorosa queja de alguna otra almia, aún más indefensa, que al ver sus propias obras se horroriza e invoca la muerte para concluir pronto su fatal carrera de errores! ; Las Kurdrys que muchos hemos conocido! Id, hermanas nuestras, que ya no rivales, mi enemigas; id, hermanas, por
+
+[p. 375]
+
+el viejo camino que os ha recordado Wagner, y lavad vuestras conciencias en el santo misterio del llanto, de la purificación y de la eucaristia.
+
+### HIPNOTISMO, SUGESTIÓN COMUNICACIÓN CON LOS MUERTOS
+
+Los fenómenos de autosugestión y magnetismo forman ya parte de la fisiología o de la patología científica, gracias a los estudios y experimentos de sabios como Charcot, de Rochas y Richet, etc. Todos los casos de facultades extraordinarias reveladas por sujetos en estado de hipnosis, han podido ser explicados por las leyes ordinarias de la fisiología. Notable entre estas comprobaciones es, por ejemplo, el estudio de Flournoy, sobre la joven medium que decía escribir con el lenguaje de Marte: una extraña mezola de idiomas modernos, con caracteres arábigos, inexplicables en la apariencia, porque la enferma no sabía una palabra de árabe. Sin embargo, después de pacientísimas investigaciones; logtó averiguar Flournoy que el padre de la medium había sido oficial francés en Martuecos, y que de allí había traído un libro con una dedicatoria en árabe. Cotejados los términos de la dedicatoria con los escritos de la medium, se comprobó que ésta, en realidad, no usaba el idioma árabe, sino sólo unos cuantos caracteres y unas
+
+[p. 376]
+
+cuantas palabras árabes: únicamente aquéllas que estaban contenidas en la dedicatoria. De donde dedujo Flournoy que el prodigio de escribir un idioma desconocido no era más que un caso de cerebración inconsciente: ei empleo desordenado de caracteres que la medium había leido en su juventud y que, olvidados en estado de vigilia, volvían a apareoerse, sin embargu, en el estado de trance. Y una vez más quedó aparentemente comprobada la vieja sentencia escolástica que afirma no haber nada en el intelecto que no haya pasado antes por los sentidos.
+
+Se ha observado y se ha repetido hasta el cansancio que los más famosos mediums jamás han logrado decir nada importánte, nada original, y, en cambio, deslucen el estilo de los muertos cuya voz pretenden encarnar. De ninguna sesión espiritista ha resultado ni una gran verdad ni una bella composición. Y alegrémonos de que asi suceda. El cerebro humano está hecho para expresar la vida terrestre, y no para penetrar ni traducir lo invisible. Las leyes o las hipótesis de la telepatia, aurique todavía rudimentarias, bastan para explicar, por causas comunes, casi todos los milagros de los mediums; entre otros, el muy curioso y al que tanta atención ha dedicado la Society of Psychical Research: la correspondencia alternada o "'cross correspondence".
+
+El verdadero espiritualista debe ver con alegría que todos éstos fenómenos menores de la espiritualidad vayan  siendo reducidos a su justa categoría y a su ley natural, pues es de desear y es de exigirse que las manifesta-
+
+[p. 377]
+
+ciones verdaderamente espirituales se hallen por encima de toda superchería, de todo aparato y de toda morbosidad. Menguada sería la condición de los muertos si fuesen a estar al arbitrio de cuatro necios que se ponen a mover una mesa. Mezquino sería el más allá si se pareciese a las descripciones que de él nos hacen 1o6 mediums y los espiritistas. Más, mucho más venerable, si insistimos en pensar algo sobre el más allá, resulta el testimonio de los grandes poetas, de los grandes videntes, que el bajo testimonio de las histéricas hipnotizadas. Entre el paraíso que oímos describir por la boca impura y tartamudeante de los mediums en estado de coma, y el paraíso de Milton o el de Dante, nadie vacilará, ya no digo en gustar más de Milton y de Dante, sino en creer que ellos se aproximan más a la verdad que los infelices hipnotizados. El don precioso de la verdad metafísica se da a las almas grandes y puras de uta: Jesús o de un Plotino, de un San Francisco o de una'Santa Teresa, y desciende a estas grandes almas en la forma sublime de la intuición, altamente consciente y exaltada. Comparar estos divinos vislumbres con la borrachera mental de los sujetos hipnóticos es no tener una idea ni dei problema ni de la intima nobleza de la vida.
+
+Los indos jamás han caído en estas aberraciones. Acaso la idea de casta los ha defendido de ellas. Un hindú no puede concebir que la suprema esencia: se revele por conduotos viles; no puede creer que la verdad transcendente pueda ser descubierta por buenos señores burgueses, cuyo tipo de la divinidad es un caballero de buena
+
+[p. 378]
+
+presencia y finos modales (1). En la India no opinan sobre la divinidad los comerciantes, ni los novelistas escriben obras para entretener los ocios de los corner-
+
+⟦ciantes.⟧
+
+En la India tampoco se padecen esas commociones pueriles que de repente se observan en la prensa sajona, cuando Mr. Lodge, de la Psychical Research-sociedad colectiva de comunicaciones espíritas, especie de mono polio inglés de los cables para el otra mundo-, anuncia que ahora si ya se va a descubrir el misterio, por intermedio del alma de Mr. Myers, hablando por la voz de alguna Mrs. X. Nosotros los españoles también creemos en la casta. También creemos, como los hindús, que la verdad transcendente no se halla en los gabinetes de los burgueses, y que Dios no es gentleman ni tiene casta. Pero la casta es necesaria a la criatura; la casta es la verdad purisima del hombre que se hia iluminado en el sufrimiento, y que después ha dedicado su vida a la contemplación y a la santidad. Nosotros, como los hindús, creemos en la inspiración de los santos, en el mensaje de los profetas, en la videncia de aquellos místicos cuya vida entera es una consagración a las potencias superiores del mundo. Una consagración radical, de las que no ⟦ admiten transacciones ni con la sociedad ni con la⟧
+
+época.
+
+(1) Véase el repugnante libro de Wells, el noveliota imitador de
+
+Julio Verne, que, metido a filósofo, durante la guerra, escribió un libro: 
+
+Mr. Brillling sees it through, en el cual se revela el bajo y lamenta.
+
+ble concepto de Dios que tienen los espíritus educados en la vulgari. dad del comercialismo científico anglosajón.
+
+[p. 379]
+
+Hasta la fecha no poseemos el testimonio de ningún gran espíritu, de ningún iluminado verdadero, para pa der afirmar que los muertos se comunican con los vivos. Por otra parte, los sabios parecen demostrar, cada día con más éxito, que la mayor parte de los fenómenos extraordinarios, acogidos por el vulgo como obra de lo sobrenatural, obedecer a causas explicables dentro de las hipótesis científicas normales. Afortumadamente, lo sobrenatural no llega ni puede llegar a los sentidos. Y siendo los sentidos el testimonio por excelencia, el testimonio único de la ciencia empírica, es en vano que nos esforcemos en buscar la verdad transcendente por métodos empíricos. La verdaú transcendente se halla razonando, como la hallaba Sócrates; ejercitando lo más alto de la fantasía, como la halla Dante, o revelando lo invisible, como lo han revelado Buda, Plotino y . Jesús.
+
+Quede para los ignorantes la tarea de buscar comunicación con los muertos, para los ignoramtes de la ciencia del más alla, de la ciencia mística; para los que no saben que el postulado mismo de la mística es un postulado metafísico; un postulado que excluye la comunicación por medios físicos. Está bien que los discípulos de Swedenborg, el Simón Mago de los tiempos modernos, que veía a los muertos en el cielo, con sombrero y todo, recurran a los mediums y a las almas de sus ⟦ amigos muertos para descubrir la verdad; pero los que⟧ tenemos en nuestra raza místicos inspirados como fray Luis; místicos cuya mente ha sabido comunicarse en
+
+[p. 380]
+
+forma directa con las potencias divinas, no hallaremos sino disgusto y tedio en las páginas de la Psychical Re-
+
+⟦search.⟧
+
+Y seguiremos creyendo que los muertos viven, pero . en mundo distinto del nuestro, en un estado en el que no pueden y no anhelan comunicarse con nosotros. Hallanse como aquel que se ausenta, yéndose a un pais muy remoto, del cual ro ha de volver, y después que ha pasado por crueles pruebas que lo convencen de la miseria del país de donde venía, no sólo no quiere volver a él, sino que no trata de comunicarse con los que allí quedaron. El afecto de sus allegados y de sus semejantes haría que el viajero pensase a menado, a pesar de todo, en su patria abandonada; pero las muertos, ¿ por qué se han de tomar este trabajo piadoso, si saben que muy pronto, los que ellos quieren y los que no quisie ron habrán de dejar también el país de las sombras?
+
+Cuando recorremos, por ejemplo, uno de estos túneles de los ferrocarriles que pasan debajo de los grandes ríos, donde la presión se hace molesta y la oscuridad rodea al vagón, y en seguida salimos a la iz del claro día que reina afuera, ¿ nos preocupamos por los que vienen en el viaje de detrás, así sean nuestros propios hijos? No, porque sabemos que ellos también saldrán, y no volverán a acordarse del penoso instante en que, acaso, al asomarse por la ventana del vagón, sintieron que los
+
+rodeaba la sombra.
+
+ Pero si los muertos nos mandan mensajes y no adoptan apariencias humanas, ni siquiera formas de fantas-
+
+[p. 381]
+
+ma, no por eso el lazo que nos une con los que amamos, y en general con los desaparecidos, se rompe del todo con la muerte. Todo lo que es en nosotros ejercicio del sentido y experiencia corpórea queda desligado de la existencia que sigue a la muerte; pero lo que no es er nosotros impresión de los sentidos, sino noción eterna, lo que en nosotros es inmortal, tiene que seguir en relación con la substancia congénere, con el alma de los muertos. Sólo que esta relación, para que sea verdadera, para que sea pura, para que no se confunda con la sensación morbosa, con la alucinación falsa, ha de limitarse a lo estrictamente espiritual, a lo estrictamente moral y mental. La voz de nuestros muertos está en nuestras almas, como una presencia que no articula ni adopta formas, pero que late al unísono de nuestro juicio moral. 'A' la hora de estimar lo justo y lo injusto, es la honrada energía de nuestros padres la que pesa en nuestras decisiones. A la hora de nuestra existencia, real y callada en el mundo de la contemplación, todos sentimos que están con nosotros nuestros muertos amados. Los sueños suelen contener los más raros avisos. Hay muertos, quizá aquellos que realizaron plenamente su función en la vida, que se nos aparecen siempre en ambiente de claridad, amorosos y felices; nos sonríen y nos bendicen. Otros muertos se nos aparecen sufriendo. ¿Será que todavía vagan en la región de las pruebas que hay que padecer cuando no bastó la experiencia del mundo? Misterios indescifrables, pero que, sin embargo, confirman la verdad fundamental de que la
+
+[p. 382]
+
+vida y la muerte no son dos polos opuestos, sino dos estados conexos, entre los cuales no todos los contactos ⟦cesan.⟧
+
+### LA INFLUENCIA DE LAS PERSONALIDADES DIVINAS
+
+Es de creer que el común de los hombres se halla, después de la muerte, tan preocupado con sus propios problemas, que no se acupa, ni puede ocuparse de las cosas de los vivos. Pero así como hemos reconocido en el mundo que nos rodea, y en la parte inmaterial de ese mundo, la presencia de agentes o seres malignos que, por la fatalidad de su naturaleza, nos atraen y a veces nos pierden, asimismo es preciso reconocer que lo que pudiéramos llamar la acción-el karma-, el alma misina de ciertos personajes elevados, hállase por doquiera presente en el mundo, y sirve en él de estímulo y de escala para nuestro propio progreso metafísico. En todas las meditaciones hondas de la conciencia adviértese la sensación de compañía con seres superiores, siéntese la presencia de poderes sublimes. En los éxtasis de los grandes místicos, la presencia de la potencia divina se vuelve certidumbre. Los misticos cristianos atestiguan esta verdad; lo mismo atestiguan los misticos del Indostán, y lo mismo afirma Porfirio de su maestro Plotino, que vio a Dios varias veos durante su ilustre vida.
+
+Hay fórmulas o sacramentos, como la Eucaristía, que también tienen su análogo en las iglesias budistas. Tales
+
+[p. 383]
+
+son ciertas fórmulas cuyo único objeto es facilitar esta comarnicación de lo humano con lo divino, y nadie que sepa lo que esto es podrá negar que hay allí un misterio inefable; una comunión, que si se realiza con absoluta pureza de conciencia, basta para transfigurarnos y para inundarnos de dicha. Mediante el esfuerzo puro de nues tras almas, y el sortilegio de la Eucaristia, Jesús vuelve a presentarse delante de nosotros. No hay en la liturgia de ninguna religión, ni en el arte de época alguna, misterio más gozoso que éste de inundarnos en la "gracia" y de confundirnos con lo divino.
+
+En estos casos, la aparición no es una aparición física, una aparición que veamos con los ojos del cuerpo, sino una aparición espiritual; por eso mismo, mucho más real que las otras; una aparición eterna, como la que contempló San Pablo. La diferencia que hay entre estas apariciones espirituales y los aparecidos del vulgo es obvia: las primeras son fecundas y provocan verdaderos renacimientos en el orden moral de la vida, en tanto que las últimas nada más mantienen la ignorancia y la superstición.
+
+### LA MAGIA.—MAGIA BLANCA Y MAGIA NEGRA TEORÍAS GENERALES LA MAGIA EN EL INDOSTÁN
+
+La cruda tesis evolucionista explica la magia, lo mismo que explica todos los fenómenos metafísicos, religiosos, artísticos, etc., etc., atribuyéndolo todo a la igno-⟦11. ⟧
+
+[p. 384]
+
+rancia primitiva, a la costumbre natural del salvaje de suponer potencias semejantes a la humana en los objetos y en los fenómenos naturales. La magia es, pues, según estas teorías, una de tantas formas de animismo, de la creencia infantil que cree ver un espiritu detrás de cada cosa o de cada fenómeno desusado y confuso. La teoría de los espíritus malignos posee idéntico origen, según la ya citada escuela; sin embargo, no es una misma ciencia la demonología y la magia.
+
+La magia puede aprovechar o controlar el poder de los espíritus malignos, pero no siempre depende de ellos, y frecuentemente no tiene relaciones más que con principios o causas que supone encontrar en la naturaleza. La magia ha sido llamada, con razón, una falsa ciencia, porque los magos no se atienen al auxilio de los diablos, sino que creen poseor el secreto de ciertas fuerzas naturales desconocidas para el común de los hombres, y mediante las cuales pueden producir toda clase de actos maravillosos.
+
+Si estudiásemos la magia en su desarrollo puro, veríamos cuán ajeno a la naturaleza verdadera de esta ciencia es el calificativo popular de blanco, lo mismo que el de negro, a ella aplicada. La magia no es de dos clases, sino una misma, ya sea falsa o cierta; un sistema de explicar el mundo y de gobernar sus fuerzas. Por demás está decir que los adjetivos blanco y negro fueron aplicadas por la Iglesia medioeval para distinguir con el nombre de Magia Blanca los fenómenos y experiencias sancionados como obra de santos, etc., y con el
+
+[p. 385]
+
+nombre de Magia Negra a todas las experiencias, diremos heterodoxas, y que, por lo mismo, eran atribuídas a influencia de los demonios. Pero estas distinciones tienden a confundir los fenómenos de magia con los de la demonología, que también dividió la escolástica en dos partes, una para los milagros y apariciones de los santos, y otra para los prodigios y travesuras de los he-⟦chiceros y brujos.⟧
+
+Sin embargo, como la confusión ya existe en todas partes, para mayor claridad de nuestra exposición remi. timos al lector, en cuanto se refiere a Magia, Negra, al capítulo en que nos hemos ocupado de demonología, por ser la magia negra la que se funda en supercherías y pactos con el demonio.
+
+La Magia Blanca se sirve de causas naturales para obtener sus resultados. Mucho antes de que la ciencia descubriese la ley newtoniana de la atracción de todos los cuerpos, la magia venerable había sospechado algo de esto cuando afirmaba, desde épocas inmemoriales, que lo semejante atrae a lo semejante; que en los fenómenos de la naturaleza, generalmente, se va de lo mismo a lo mismo, porque el efecto es igual a la causa, y la imagen sugiere la cosa, y la parte posee siempre algo de las propiedades del todo.
+
+Prácticas de magia primitiva son, por ejemplo, ciertas curaciones que han seguido en uso hasta los tiempos modernos, como la cura de la mordedura de serpiente con aplicaciones de carne del reptil, y acaso no son sino formas de magia moderna todos esos abusos que nues.
+
+[p. 386]
+
+tros médicos hacen de los sueros con cultivos microbianos para curar las enfermedades infecciosas; ensayos dudosos de terapéutica, porque el único tratariento racional y natural y eficaz para toda clase de enfermedades consiste en la abstinencia, que, en caso de enferme dad, debe llegar a ayuna inmediato, y todo lo demás es problemático y nocivo: magia, ni más ni menos. De la magia también procede el otro principio, el de los ho meópatas, de "similia, similibus curantur". Y no menos magos que los otros médicos son los cirujanos, pues todavía, en un mensaje de la prensa de estos cias, se anuncia que un célebre cirujano de Francia ha resuelto el problema de la longevidad inyectando a los viejos visceras de mono, que basta introducir debajo de la piel, mas adentro del tejido adiposo. Y después "la naturaleza hace lo demás" (I).
+
+Aunque la magia ande, por hoy, perdida en manos de médicos, según se ve de los anteriores datos, hay que decir, sin embargo, en su honor, que unas veces se adelanta a la ciencia, como cuando formula sus extrañas leyes de simpatía, y otras permanece en estado de intuición confusa, de intuición que la ciencia aún no ⟦puede aclarar y sistemar. ¿ Podría decirse que el mago es⟧ al hombre de ciencia lo que el poeta al filósofo, un sensitivo que sospecha los caminos, pero rara vez abarca el nuevo país entero? Por ejemplo, para precisar esta afirmación, compárese el trabajo de Mesmer, el funda- ⟦E Tony dano de perildico diario ada rede de da de octubre⟧
+
+[p. 387]
+
+dor del mesmerismo; el ingenio de Mesmer, lleno de videncia científica, pero confusa y desorganizada, con los trabajos que sobre la misma materia han emprendido sabios modernos de tan acabadas dotes cientificas como Charcot, etc. Comparense las teorías mesmerianas con las modernas teorías hipnóticas, y se tendrá idea de la relación que en algunos casos existe entre la magia y la ciencia. Desgraciadamente, no siempre sucede lo mismo; todo lo contrario, lo común es que la magia se confunda con la puerilidad y con la ignorancia. Los libros relativos a magia son inmumerables, y la historia de todos los países contiene capítulos dedicados a mencionar la fama de sus magos. Entre todos éstos son célebres, en la antigüedad clásica, los magos de Egipto y los del Indostán. Según casi todas las relaciones conocidas, los más célebres son los del Indostán; los magos de la Grecia gozaban crédito sólo cuando se habían convertido en personajes de leyenda, como Pitágoras, siglos después de su muerte. Y por lo común, se afirmaba que habían aprendido su ciencia fuera de Grecia, en el Egipto o la Caldea, siempre en países remotos e ignorados. Y si quisiésemos mostrarnos demasiado escépticos, haríamos constar la fácil observación, digna de algún sociólogo spenceriano, de que los magos en la antigúedad eran más considerados mientras menos se sabía del país que habitaban, por la mismo que todos sus poderes eran meramente fantásticos y fundados en leyenda, la cual sólo se mantiene en el misterio de lo desconocido. Como en todos los principios de Pero Grullo, algo
+
+[p. 388]
+
+hay en esto de cierto. De todas maneras, y a título de curiosidad, invito al lector a que compare las historias modernas de ciertos teósofos, acerca de las facultades extraordinarias de los yoguis y magos de las regiones más recónditas de la India sagrada y venerable, con los relatos que a principios de la Era cristiana—siglo IInos dejó Filostrato, el biógrafo de Apolonio de Tyana, sobre los magos que vivían en un castillo en las riberas del Ganges, en tierra que no pudieron conquistar ni Poro ni Alejandro, porque aquellos magos eran capaces de desencadenar elementos que no sólo aniquilaban a sus enemigos, sino que podían destruír el mundo y volverlo a hacer. Cuando menos, por lo que hace a la gracia del relato, conviene más leer estas historias en los gnósticos alejandrinos, y no en la elocuencia insincera y de segunda mano de la Blavatsky y su sociedad por acciones para la explotación de las ideas de Oriente. La secta llamada teosófica no posee, sin embargo, la exclusiva en materia de relatos sensacionales; lo único que la Blavatsky hizo fue desvirtuarlos un tanto, para hacerlos aparecer como experiencia propia; mas he aqui lo que nos dice Max Müller a propósito de un yogui contemporáneo, y según un relato estrictamente hindú:
+
+Dice Max Müller (I), en su éstudio de la Escuela yogui, capítulo intitulado "Milagros": "Un esctitor con quien he sostenido correspondencia, autor de una breve biografía de su maestro Sabhapati — nacido, en
+
+(1) Vida de Apolonio de Iyano, por Filostrato. Trad, inglesa de Conybeave; Mc. Millan, Nueva York, 1917.
+
+[p. 389]
+
+Madrás, en 1840—, relata no sólo las visiones del joven, las cuales se pueden explicar como se explican otras visiones, sino milagros que ejecutaba en presencia de mulchas personas. Este sabio Sabhapati todavía vivía en 1880 en Lahore, y aunque él rehusaba ejecutar milagros, nos ha dejado la relación de un milagro ejecutado por uno de los miembros de su secta... Hace ciento ochenta años, de paso para Mysore, detúvose un yogui a visitar al rajá, quien lo recibió con las muestras acostumbradas de hospitalidad y reverencia. A la sazón visitaba Mysore el nabab de Arcot, y todos fueron con el yogui a su morada. Y como el nabab de Arcot era musulmán, preguntó, dirigiéndose al yogui: "¿Qué poder posees tú que te permite arrogarte honores divinos?" Y el yogui respondió: "Sí, los yoguis poseemos pleno poder divino y hacemos todo lo que Dios puede hacer", y diciendo esto tomó un palo y lo arrojó hacia el cielo. El palo se convirtió en un millón de flechas que cortaron en pedazos las ramas de los árboles, el trueno comenzó a resonar por los aires y comenzaron a sucederse los relámpagos; una densa obscuridad extendióse por toda la tierra, y del cielo, súbitamente nublado, comenzó a descender la lluvia en torrentes. La destrucción de todo parecía inevitable, y en medio del conflicto de los elementos oyóse la voz del yogui que decía: "Si doy más fuerza, el mundo quedará convertido en ruinas." Toda la gente rogó entonces al yogui que aplacase el universal tumulto. El yogui lo quiso, y la tempestad, el trueno, la
+
+[p. 390]
+
+⟦dasé Vasconcelos⟧ lluvia y el viento cesaron, y el cielo púsose sereno y tranquilo" (1).
+
+Ahora bien; ¿qué hay en todo esto? Es muy facil contestar: superchería, alzándose de hombros, y es igualmente fácil comenzar a escribir un volumen, "eva lucionistamente", para demostrar que las razas incultas y primitivas creen que los fenómenos naturales obedecen a causas semejantes a la voluntad humana, y son obra de voluntades más poderosas, que sólo pueden residir en seres extraordinarios o dioses, etc., etc.; mas todo esto no explica nada, todo esto no borra la emoción misteriosa y espléndida que el extraño relato del yogui nos deja en la mente.
+
+En efecto, ¿ por qué ha de poder más la imaginación que la voluntad humana, y por qué la naturaleza, esa inerte asociada mecánica, no ha de poder levantarse al influjo de la potencia superior del espíritu y servir sus antojos? Porque si bien se examina, lo absurdo no es que la mente imagine estas cosas: lo absurdo es que la natúraleza sea tan torpe que no pueda seguir a la mente, y que no pueda asociarse la la voluntad. Lo absurdo es que no exista esa atracción, esa ley de simpatía de que habla la magia, entre el poder nuestro, hecho propósito consciente y visionario, y el poder de la naturaleza, todo pesadez, repetición y simplicidad. Claro que los magos y los yoguis de la India no han hecho ninguno de estos milagros, ni los demás magos del mundo los harán; pero lo notable es que ha habido almas bastante ⟦ (1) Six Systems of Indian Philosophy.⟧
+
+[p. 391]
+
+sensitivas, bastante videntes, para representar todas estas cosas en el pensamiento; para sospechar, en el seno intrincado de la naturaleza, un hilo de simpatía que nos tra ido permitiendo asegurar, cada día más, cierto dominio sobre la naturaleza, cierta influencia en el Universo, influencia que nos viene de la chispa de potencia divina, que es la esencia de nuestras almas. Para la ciencia moderna ya no va siendo imposible hacer todo lo que soñó hacer el yogui indostánico; los descubrimientos, cada vez más precisas, de las leyes dinámicas, y el aprovechamiento, cada vez mayor, de las fuerzas naturales, acabarán por hacer utilizables para el bien y para el mal, para la paz y para la guerra, todos los elementos que la conciencia distingue en el mundo. Y si muchos dirán que la ciencia es otra cosa, que la ciencia es el descubrimiento de las leyes inherentes al fenómeno, —leyes que comprenden aun la los poderes de la voluntad humana—, entonces se debe afirmar que la apreciación del mérito depende del punto de vista en que nos coloquemos, y que la ciencia no viene a ser sino un estudio de los procedimientos; pero fue el mago, fue el adivino, el que supo de antemano los triunfos que estaban reservados al hombre. El día que la ciencia moderna haga llover artificialmente, los aparatos que emplee y las leyes dinámicas que ponga en juego no serán más que una especie de clave descubierta por seres laboriosos para poner en práctica y para comprobar la verdad, que hace muchos siglos adivinaron los videntes, los yoguis que se recreaban soñando que era posible jugar con los elementos.
+
+[p. 392]
+
+Y todavía toda la ciencia contemporánea demuestra su inferioridad rudimentaria en ser esclava del aparato. Para que la ciencia humana llegue a ser perfecta, es necesario que llegue a ser posible influír sobre lo externo sin la intervención del aparato. Por ejemplo, la telegrafía necesitó primero de alambres y pilas eléctricas; ya hoy bastan las ondas hertzianas; mañana, quiza muy pronto, el descubrimiento que han estado ensayando los magos, el descubrimiento de la transmisión del pensamiento a distancia por mero influjo de la voluntad y por el pader mismo de la voluntad. Es decir, que así como se ha podido descubrir la ley de la onda hertziana y encauzarla para servir a un alfabeto, es perfectamente legitimo suponer que un estudio eficaz de nuestras facultades espirituales lleve a descubrir la manera cómo nuestro fluido ¡:sicológico, nuestra potencia interna, puede vencer los obstáculos externos y transmitirse directamente, sin intervención del sonido y sin la materialidad del simbolo, a otra conciencia humana. Todo esto, que se estudia con el nombre de telepatía, puede llegar a arruinar a todas las empresas de telégrafos; y mientras no se desarrolle esa ciencia yogui, esa ciencia ⟦ de nuestro propio espíritu, toda nuestra otra ciencia,⟧ todo nuestro conocimiento de lo material no es más que saber rudimentario, que, cuando más, puede ser visto como puente y escalón del saber verdadero. Para que la ciencia de la materia legue hasta la perfección y la clarividencia de la ciencia del espíritu, y para que el poder de uno y otro se entrelace y confunda, será me-
+
+[p. 393]
+
+nester que poco a poco la ciencia física se deshaga del aparato y aprendia a manejar las leyes por el procedimiento directo de la intención inteligente. Todas las fuerzas del mundo son de nattiraleza análoga a la nuestra, y lo que falta es descubrir el proceso de reversión de dichas fuerzas con la fuerza de nuestro yo. La manera de transformar unas en otras, las externas con las nuestras. Esto todavía es magia. ¿ Llegará alguna vez a ser ciencia? De todas maneras, lo que distingue al mago es un poder de penetración de los secretos más recóndi. tos, y confianza, y conciencia de los poderes del espíritu.
+
+⟦" " a orr⟧
+
+### LOS FUNDAMENTOS DE LA MAGIA.
+
+Las obras modernas europeastsón e la magia se ocupan de clasificar las creencias dadosatlistintos pueblos y de estudiar sus caracteres contunes. Según Frazer— Lectures on the History of Kingship, Mc. Millan-, las distintas doctrinas de magia se dividen en tres sistemas principales: I.° La Magia de'ta Simpatía o magia fundada en las afinidades ocultas de las cosas. 2. La Magia homeopática, fundada en ladity de similitud, según la cual lo semejante sigue a lo semejante; y 3.° La Magia contagiosa o magia fundada en la ley del contacto.
+
+En el fondo de las tres divisiones late el concepto de que existe en la naturaleza una fuerza misteriosa que es
+
+[p. 394]
+
+posible utilizar mediante condiciones determinadas que sólo el hechicero conoce. Esta fuerza obliga a las cosas y a las hombres, y aun a los mismos demonios, como se ve por los conjuros en que se les manda ahuyentarse, etc. Según Frazer, que no hace más que aplicar el criterio de la ciencia empirica oficial, la magía no es más que un sistema equivocado que el avance de la ciencia destruye; uno mala hipótesis sobre la ley natural; una explicación desviada e insuficiente de los fenómenos. Además, la magia no depende de la creencia en el poder de los demonios, sino que constituye una teoría independiente, una teoría general, que lo mismo se aplicaría a las cosas que a los seres espirituales.
+
+Tal doble carácter hace sumamente interesante la teoría mágica; porque, precisamente, buscar el secreto de una fuerza que obre a la vez sobre lo moral y sobre to físico, constituye un problema capital de toda especulación. Por eso no basta, como lo hace Frazer, enumerar los errores y los prejuicios de la magia, sino que es preciso poner un poco de atención en la teoría misma, que, sin duda, encierra un fondo sorprendente de verdad confusa: La verdadera teoría de los magos se parece mucho a la teoría yogui de la energía prano. Esta fuerza, que otros llaman mana, se distingue de las otras fuerzas cósmicas en la circunstancia de que puede obrar a distancia, por mandato de la voluntad humana. Parece que se engendra en la conciencia humana, pero tambien está latente en todo el Universo, como fuerza intima, que gobierna por similitudes y simpatías, o antipatías,
+
+[p. 395]
+
+a todos los espiritus, a todo lo espiritual, y que también es capaz de obrar sabre lo físico cuando así lo quiere una conciencia.
+
+### LA MAGIA DE LAS FÓRMULAS.—LA MAGIA DE LOS RITOS.—LA MAGIA DE LAS PLEGARIAS.—LA MAGIA DE LOS LUGARES SANTOS.—LA MAGIA DEL ARTE NOBLE Y RELIGIOSO.
+
+Una teoría mágica, que ha sido aceptada por todas las grandes religiones, es la relativa al poder oculto de cier. tas voos y de ciertos signos. Los himnos del Veda Atharva ofrecen el carácter curioso de ser una mezcla de superstición de mago y de devoción de creyente. Los sacerdotes o los bardos que los compusieron no se conformaban con alabar a los dioses e implorar su auxilio, suo que pretendían ejercer poder sobre los espíritus del mal, ayuhentándolos o domeñándolos, por medio de imprecaciones y de gestos. Cuando leemos el Atharva-Veda; cuando leemos los Tantras, nos pasa lo mismo que cuando leemos la historia de las supersticiones y de las aberraciones de la conciencia humana: nos sentimos desalentados y tristes, y pensamos que es en vano buscar la verdad con los pocos medios de que disponemos en este mundo. Sin embargo, el espíritu humano constantemente vuelve a hurgar por estos caminos; tas supersticiones, desacreditadas ya, no retornan nunca, pero
+
+[p. 396]
+
+la inclinación a inventar hipótesis y a descubrir relacio nes ocultas subsiste siempre. Las religiones, que, co múnmente, constituyen la mejor sintesis del saber humano, reconocen esta necesidad del espiriti; reconocen, más bien, el poder oculto que está detrás de estas ideas. Los sacerdotes del hinduísmo, los sacerdotes del budismo, los sacerdotes de todas las sectas, han tomado de la magia ciertas maneras de plegaria y ciertos ritos, que siempre han sido usados, con gran provecho, en las ceremonias del culto. Los religiosos de la India creen, y siempre han creído, que la recitación de ciertas sílabas sagradas, particularmente la célebre sílaba Om, producen un estado de ánimo propicio para la inteligencia de las verdades divinas. La recitación de ciertas mantras en el idioma original, en idioma sánscrito, produce efectos en el orden espiritual, efectos que no se pueden obtener de ninguna otra manera. En tal virtud existen oraciones apropiadas para cada una de las circunstancias importantes de la vida, y todas ellas causan efectos apreciables en el estado de ánimo del devoto, y probablemente también modifican 'las relaciones entre la conciencia del devoto y los poderes externos a los cuales se dirige; pero sobre esto insistiremos un poco después.
+
+Ya que hemos comparado las experiencias psíquicas de Europa con las experiencias semejantes de la India, comparemos también este aspecto ritual de las religiones indostánicas con el aspecto semejante de nuestra propia religión cristiana, particularmente con el rito que mejor representa esa religión, con el rito católico.
+
+[p. 397]
+
+Enseña Harnack, en su Historia del Dogma (I), que la religión cristiana se distingue de la hebrea y de la pagana, entre otras cosas, por el carácter puramente espiritual de sus sacrificios. El sacrificio cristiano es "la ofrenda del corazón y la promesa de obediencia a la divinidad, la consagración de la personalidad entera, cuerpo y alma, al Señor"
+
+'. La modificación mas transcendental que el catolicismo impuso al cristianismo, agrega Harnack, es la importancia concedida a los sacrificios, según se fue derivando de la práctica de celebrar en forma solemne y simbólica la cena del Señor. En las Actas de los Apóstoles quedaron definidos como esenciales al culto cristiano el bautismo, los ayunos y plegarias, particularmente el Padre Nuestro y el sacramento de la Eucaristía."
+
+Las ceremonias materiales anexas al sacramento no son más que un símbolo, una alegoría de los sucesos religiosos que se recuerdan entre los fieles; lo importante es la esencia" de ese sacramento, el hecho de que aviva y despierta el ánimo para comunicarlo con las potencias exteriores, para hacerlo comulgar con lo divino. Pero también es verdad que esta operación de comunicación es tan delicada, tan misteriosa, tan maravillosa, que todo lo que a ella es anexa adquiere importancia extrema y debe ser conservado con exactitud suma. Y he aquí cómo la fórmula, la voz humana expre. sada en ciertas palabras, y en ningunas otras, en deter-
+
+(1) Harnack.— History of Dogma. Trad. inglesa de Neil Buchanan, Boston, 18g5, Robert Bros, Vol. I.
+
+[p. 398]
+
+minada lengua y con ademanes y oraciones determinados, viene a ser indispensable para que se siga produciendo el extraordinario caso de la participación del hombre en lo divino.
+
+Claro que la letra no tiene valor sin la intención pura; claro que la fórmula es mero procedimiento de que se vale el alma creyente, y que la letra sola y la fórmula sola nada valen y nada realizan; pero también es cierto que una vez puesta el alma en estado propicio, la letra ya consagrada, la fórmula ya canónica vienen a ser procedimiento que simplifica el esfuerzo de la mente, como llave ya probada que con seguridad suave y precisa abre las puertas de la conciencia. Así, pues, la intención y la fórmula, la esencia y el rito, llegan a hacerse insepa-⟦rables.⟧
+
+Y la razón es obvia: en materia de religión, el ejemplo y el procedimiento del Maestro, del Iluminado, constituyen la autoridad suprema. ¿Qué cristiano podría, por ejemplo, aventurarse a modificar las palabras y los ritos de la Cena, pretendiendo mejorarlos? Intentar esto, implicaría la creencia de que era posible lograr una unión más perfecta con lo divino que la unión de Jesús con su Padre, lo cual es absurdo. El principio de autoridad en religión no es lo mismo que el principio de autoridad en materias profanas. En la ciencia, la autoridad nada vale; en la religión, la autoridad es todo; entendiéndose por autoridad la doctrina y la experiencia del Vidente, ya que esa doctrina y esa experiencia son la base del sis- 16 tema entero.
+
+[p. 399]
+
+En realidad, la discusión de los sacramentos nos lleva un poco fuera de nuestro asunto; pero hemos querido mencionarlos, para que se vea cómo, a veces, la forma, la palabra, el símbolo, por su identificación con la sustancia de lo religioso, llega a alcanzar propiedades que para el creyente son inefables.
+
+Veamos ahora el poder de esas palabras y ritos en un terreno que se acerca a la magia, que casi se confunde con la magia. Me refiero a las palabras y fórmulas que todas las religiones emplean en los conjuros y exorcismos que tienen por objeto ejercer influencia sobre las fuerzas adversas de la creación, sobre los demonios y espíritus malignos de todo género.
+
+Los hindús fundan estos exorcismos y plegarias en el Atharva-Veda. Los budistas fundan los suyos en los pormenores de la lucha que Buda sostuvo con los demonios; y los cristianos, a su vez, se apoyan, entre otros, en el pasaje evangélico que relata el triunfo de Jesús sobre los demonios.
+
+Era muy natural que los cristianos, que creían en el poder de los diablos, se acogiesen a Cristo, vencedor del demonio, para luchar contra ellos, y es muy natural, también, que así como el caso de los sacramentos, las palabras y las acciones de Jesús fuesen tomadas estrictamente para construir las fórmulas de exorcismo, los conjuros, bendiciones, etc. Cristo es la mayor fuerza contra todas las potencias sombrías del mundo, porque Cristo es ia mayor luz y la mayor bondad hecha fuerza, la fuerza hecha bondad. Por eso, con sólo evocar el nom-
+
+[p. 400]
+
+bre de Cristo, las potencias inferiores se arrodillan y se
+
+dispersan.
+
+De esta necesidad de evocar a Jesús para defenderse contra los demonios, dedujeron los cristianos ceremo nias como la de persignarse, ante un peligro misterioso, o como simple medida preventiva contra los poderes
+
+ocultos.
+
+Y si por un momento se acepta la tesis de la existencia de los diablos, los ritos cristianos, los exorcismos paganos, las fórmulas indostánicas, todas las ceremonias del conjurador quedan justificadas, pues si es pueril pro.
+
+nunciar oraciones o palabras para defenderse de un mal físico, de un peligro material, como una tempestad o un temblor, o un descarrilamiento, que dependen de leyes mecánicas, en cambio, nada más natural que combatir los peligros morales con palabras y ritos que trenen fuerza moral, porque representan realidades esperituales ca-
+
+• paces de vencer a las potencias menores que nos amenazan. Dentro de la tesis demonológica, el exorcismo es incuestionable, indiscutible.
+
+Lo que ha puesto en ridículo al exorcismo y lo que frecuentemente pone en ridículo a la magia toda, es que se le emplea fuera de la esfera en que la magia puede ⟦ tener validez; es porque se ha confundido la ley especial⟧
+
+de la magia con la ley verificable y constante del mundo material. La magia también se pone en ridículo cuando compite con la religión y usurpa su puesto. Pero así como hay en la ciencia un terreno en que la magia es una especie de extraordinario poder de intuición, que se ade- 400 ,
+
+[p. 401]
+
+lanta a los descubrimientos de la ciencia, y que descubre analogías no sospechadas por ta inteligencia, así también en religión la magia, o la parte de rito que tiene la magia, se una a la creencia, se alía a las potencias superiores del alma, y sirve para poner en comunicación lo inferior de la naturaleza con lo más alto del espíritu.
+
+La magia en religión podría definirse como la parte de materia que tienen los ritos, y esa parte de materia es necesaria, no para la validez del trato entre la criatura y el criador: éste es un trato directo que se consigue perfecto y pleno en la plegaria, en la meditación o en el éxtasis. Pero como la criatura no es sólo alma, sino que es un alma inmergida en una infinidad de sustancias pesantes, oscuras'; como nuestro cuerpo y la naturaleza que nos rodea son parte basta de nosotros mismos, de la que no podemos ni debemos prescindir, hácese necesario que en nuestros más altos vuelos a to divino, también nos acompañen y se asocien con nosotras, pero se aso cien purificados, redimidos de toda imperfección, transformados en su más intima esencia, hechos espiritu, rutilante de ármonía y belleza. Esta parte es la que en el saeramento representa el objeto material que en él se emplea: el pan de la hostia, el vino y aun las mismas pa. labras, que son signo de esa peculiar naturaleza de nues-. tro entendimiento, el cual no puede funcionar si no crea formas.
+
+En el sacramento, la 'energía física se convierte en energía trascerdente, el valor mecánico se hace valor espiritual, lo pesado adquiere alas, y la sustancia toda
+
+[p. 402]
+
+Jo gö v
+
+asciende hacia las formas más altas de la existencia. El sacramento es la reproducción de un milagro, del milagro realizado por el vidente, por el fundador de religión, al romper las leyes ordinarias, para ponernos en contacto con los órdenes superiores del universo. Estos prodigios verdaderos sólo los realizan los grandes inspirados, los Mesías, los Salvadores.
+
+Pero los prodigios menores, las comunicaciones imperfectas con las potencias oscuras del mundo, esos son asuntos propiamente de magia, y muchas veces en ellos la magia alcanza aciertos que la apartan por completo de la superstición, y la identifican con la inspiración. La inspiración, a no dudarlo, es la fuente primordial y la fuerza insubstituible que nos pone en contacto con los valores superiores del mundo. Pero la inspiración se manifiesta de múltiples maneras. La inspiración, muchas veces, toma pie en las sugestiones de la realidad, en las analogías de la naturaleza, en las afinidades de que nos habla la magio. La liga entre el arte y la magia es sumamente estrecha. El arte profano tiende a separarse del esoterismo de la magia, tiende a confundirse con la cla ridad y la precisión del concepto científico del mundo; pero el arte religioso se funda en las mismas leyes que la magia y es un continuo atisbo de, anatagías preciosas y recónditos. Todo arte es una magia, en el sentido de que ,descubre relaciones ignoradas entre las cosas, y relacio nes que no tienen carácter de ley científica, sino de paventesco y afinidad en cuanto al espiritu. , Pero así como la magia se separa de la religión y se
+
+[p. 403]
+
+hace inferior a ella al separarse, porque ya aislada sólo atiende a lo físico, y yerra y tropieza en ello, así también la magia, al separarse del arte, se hace inferior al arte, porque las analogías de la magia son caprichosas y confusas, en tanto que las analogías que descubre el arte, obedecen siempre a la ley luminosa y perfectamente orientada de la belleza: orientada hacia las formas superiores del ser.
+
+La magia, pues, tiene puntos de contacto con las más altas actividades del espíritu humano, y sin embargo, no alcanza ella misma esa serenidad de los conceptos supremos. A menudo manifiestase profunda, pero nunca sublime; parece que es un arte de explorar las zonas oscuras del mundo, pero incapaz de elevarse, incapaz de interpretar las manifestaciones superiores de la energía. Una ley intermedia entre lo que llamamos materia y lo que llamamos espíritu; participo de la materia en cuanto se aplica a objetos y a fines materiales, y participa del espíritu por el poder que pretende ejercitar sobre lo material y sobre lo metafísico.
+
+A veces parece que lo espiritual, al ejercitarse en el espacio, dejase un sedimento semifísico; más bien dicho, imprimiese una modificación peculiar, en el ambiente físico. Diríase que transforma el ambiente físico y lo deja sensible y simpático a los fenómenos psíquicos. Ejemplo de esta clase de influencia es la especie de encanto que sigue a los amuletos y reliquias, a los objetos que han sido consagnados o que han estado en contacto con el ser superior. El espíritu humano no puede dejar
+
+[p. 404]
+
+de caer en esta forma de encantamiento, aunque un ( ramen superficial le demuestre que no hay alli nada, y que toda la atmósfera es por todas partes un compuesto uniforme de varios gases, a base de ázoe, hidrógeno, carbono y oxígeno. El espiritu humano, más penetrante que la química experimental, percibe y concibe diferencias cuyos efectos se manifiestan de una manera clara en el arte y en el estado religioso del ánimo. Diferencias que se acrecientan en algunos lugares y en algunas circunstancias, merced al influjo de experiencias anteriores. Hay ambientes, trabajados yo por el hombre, y que lo mismo en religión como en arte, sugieren una in finidad de cosas y siéntense cargados como de potencial psíquico; otros lugares, por el contrario, aun cuando sean bellos, si careoen de tradición religiosa o artística, preséntanse vacíos y son, por lo común, estériles, pues la obro del espíritu, aunque individual, es tan intensa, que requiere la aleación y el soporte del pensamiento de las generaciones anteriores. El espíritu puede, mediante un esfuerzo poderoso, rodearse de recuerdos píos y de ideas complejas, y rodearse así, un poco artificialmente, de una atmósfera propicia, lo mismo en el desierto del ⟦ campo que en el más espantoso desierto de una ciudad⟧ moderna; pero todo este esfuerzo se lo ahorra el alma y lo aprovecha para la pura meditación, si en vez de tener que crearse el ambienté, si en vez de tener que vencer el ambiente hostil; se pone a pensar o a orar en los sitios fáciles, en que tal parece que la ascensión a los  cielos está ya preparada, como en escala sublime que ya
+
+[p. 405]
+
+otros han subido. Un ambiente semejante se encuentra en el interior de los viejos templos, en esos templos en que el aire ha sido despejado y afinado por la música de los cantos litúrgicos, y por la oración y el incienso. Un ambiente semejante, me figuro que debe encontrarse en todas las ciudades sagradas, pero particularmente en Benarés y en Jerusalén. No incluyo a Roma, porque Roma ha sido siempre una capital política, el centro de un imperio rudo y odioso, el Imperio Romano, y después el sitio del poder temporal de la Iglesia; un poder que tanto ha perjudicado a la pureza del dogma y a la santidad de las prácticas. Benarés, sí, porque en Benarés han ido a levantar templos grandes religiones sinceras, que elegian el lugar, porque algo en él les parecía propicio, y porque desde antiguo, grandes sabios lo habían hecho el sitio de sus meditaciones y de sus plegarias. Jerusalén, sí, y mas que Jerusalén, la Judea, porque allí, no obstante ser el centro de la antigua ley, la ley farisaica, que nos es tan odiosa, es también el suelo donde paseó Jesús, y esto basta para redimirlo y santificarlo por encima de todos los lugares de la tierra.
+
+En conclusión, pues, y volviendo al asunto de la magia, diremos que aunque la magia es una ley de lo físico, una teoría todavía no bien desarrollada de un flúido-el prama de los yoguis—cuyas funciones se desconocen, sin embargo, no se puede dudar que cualquiera que sea la naturaleza de ese ffúido, hay intercomunicación y relación entre lo que llamamos material y lo que llamamos espiri. tual. Las energías físicas son susceptibles de elevarse
+
+[p. 406]
+
+hasta la energía espiritual, y de transmutarse en ella, y las energías espirituales, aunque no ocupan lugar en el espacio y están propiamente fuera del tiempo y del espacio, fuera de los límites conscientes, sin embargo pueden relacionarse con las modalidades inferiores del mundo, con los estados físicos, e influir vagamente en ellos y transformarlos, poniendo sobre sus vibraciones uniformes e inertes un toque de sublimidad, que los agita, los embellece y los transfigura.
+
+### LEVITACIÓN.—MOVIMIENTO DE OBJETOS A DISTANCIA.— EXPERIMENTOS DE LOS FAKIRES
+
+Uno de los capítulos más interesantes de la magia es el que se refiere a las experiencias de los fakires ⟦indostánicos. Desde la más remota antiguedad se viene ha-⟧ blando de las facultades extraordinarias de los extraños ascetas yoguis. Los tormentos y deformaciones a que sujetan su organismo no pueden ponerse en duda, porque los confirman todos los viajeros; pero cada vez que se habla de uno de los prodigios que estos hombres ejecutan, aparece la duda natural y los fenómenos extraordinarios se atribuyen a trampa de prestidigitación hábil o a ilusión del espectador; manera fácil, en verdad, de deshacerse del problema. Si no fuera porque fenómenos semejantes se han logrado en Europa, por la intervención de los' mediams y en condiciones de comprobación
+
+[p. 407]
+
+científica que garantizan contra el fraude, quizás ningún europeo habría llegado a tomar en serio las célebres experiencias de los fakires indostánicos.
+
+Para no incurrir en repeticiones ociosas, entro a tratar brevemente el asunto, dando por supuesto que el lector está enterado de las experiencias practicadas en occidente: las clásicas de William Crookes; las teorías que se han formulado sobre el poder de los mediums; las experiencias mas recientes de Lombroso, con la medium Eusapia Paladino, y las interesantisimas de Carlos Richet, con el espectro que se le aparecía en Egipto. Todo esto conviene tener presente, para juzgar de los fenómenos análogos en la India. Sólo que todo aquello que entre nosotros se explica por la influencia del medium, en la India no tiene caso, porque allí el experimentador ejecuta directamente sus pruebas, sin intervención de medium, lo que representa un progreso considerable. La relación de las experiencias indostánicas comprueba que la India conoce mejor que nosotros los métodos empiricos, que es necesario emplear para que el hombre produzca y desarrolle las facultades supernormales que le permiten vencer las leyes ordinarias de la física (I).
+
+Y aunque Bozano afirma que aparte de estas ventajas de procedimiento, no se ha logrado en la India mucho más de lo que se ha logrado en Europa, y que las ciencias acuitas son estacionarias, no por eso deja de ser el saber hindú, en esta materia, el más importante de cuan-
+
+(1) Véase la opinión, a este respecto, de ERNEST BOZANO Annales ⟦des Sciences Psychiques. Sep., 1906.⟧
+
+[p. 408]
+
+tos se han logrado hasta la fecha. En Europa, con intervención de modium, se ha logrado producir los siguientes fenámenos: percusión y movimiento de cuerpos pesados sin el empleo de aparatos o fuerzas mecánicas visibles, por acción invisible a distancia; mesas qua producen ruidos, objetos que se levantan en el aire, campanas que suenan, aparentemente solas, alteración del peso de los cuerpos e influencia a distancia sobre dicho peso, como la experiencia en que se ha hecho bajar el pesacartas aplicando encima la mano, pero sin contacto físico; signos luminosos, aparición de luces, sombras, manos, fantasmas formales; fantasmas como el de Richet que, obligado a soplar sobre un vaso que contenía solución de barita, produjo en el líquido una reac. ción semejante a la del aliento humano; levitación (el medium Home, utilizado por Crookes, salió por una ventana, suspendiéndose en el aire, y volvió después a su sitio, etc, etc.).
+
+Las experiencias de la India no han sido sistemadas en forma tan precisa como la que ya se ha dado a estos estudios en Europa, y el relato de todas ellas se encuentra disperso en infinidad de libros de cuya autenticidad nadie, hasta hoy, se ha atrevido a salir garante. Por eso tendremos que limitarnos a juzgar de algunas de las experiencias personales relatadas por los viajeros. Entre todas éstas, las que gozan de más fama, por la precisión y lucidez con que están escritas, son las de Jacolliot. Pero debe advertirse que las pruebas relatadas por Jacolliot están confirmadas por relaciones semejantes de
+
+[p. 409]
+
+otros autores en épocas diversas. Asimismo, no debe negarse que en muchos casos se ha descubierto fraude en los experimentadores de la India, lo mismo que se ha descubierto en Europa aun en mediums tan bien dotados como la Paladino; pero dictos fraudes son muy fáciles de explicar, sin que se desvirtúe la validez de los casos auténticos. En efecto, las experiencias sobrenaturales cuestan al ejecutante un esfuerzo extraordinario, y cuando se ve obligado a repetirlas con alguna frecuencia, naturalmente se inclina a ayudarse con la trampa, y esta trampa le parece tanto más logítima, cuanto que él tiene la convicción de que otras veces ha ejecutado el fenómeno sin recurrir a ella.
+
+El fakir de Jacolliot es el fakir típico de la India sagrada. Es un hombre delgado y trigueño, de raza dravidiana pura, que habla el telegu y se ha educado en las monasterios hindús bajo la influencia directa de los maestros yoguis. No posee bienes de fortuna, ni los anhela; gana la vida como puede: trabajando en oficios mecánicos o desempeñando encargos de carácter religioso, como los que lo llevan a menudo a la ciudad sagrada de Benares, para transportar el cadáver de algún rico, o para practicar ciretos ritas religiosos. Esto le produoe algunas monedas para su subsistencia; pero no cabra por las pruebas que enseña a su amigo europeo. El fakir de Jacolliot practica sus prodigios en la casa misma de su huésped, sin acompañante, y sin más aparato que una midosa vara de bambú; por lo demás, no usa casi ni vestidos. En las primeras sesiones, cuando Jacolliot lo co
+
+[p. 410]
+
+noce, en el sur de la India, el fakir se pone a sí mismo en estado hipnótico, y después de un corto espacio de calma, revuelve un poco de tierra de una maceta, tierra que los servidores de Jacolliot le dam, deposita en ella un grano, que también recibe de manos de Jacolliot, y a los quince o veinte minutos, durante los cuales ha concentrado su voluntad sobre el montón de tierra vegetal, la semilla germina, un débil tallo asoma, primero, y después crece hasta convertirse en pequeño arbolito; en seguida desaparece. Otra vez en Benarés, ya que el fakir ha repetido experiencias análogas, Jacolliot lo ve que se levanta en el aire, sobre el umbral de una puerta, y así permanece un largo rato, y luego desciende. Cuando Jacolliot le pregunta el secreto de sus hazañas, el fakir le responde, sin ningún misterio, y le explica que esos po deres están al alcante de la naturaleza humana de una manera normal; pero que a fin de desarrollarlos, es necesario sujetarse a una larga preparación moral y física, y que la ciencia de esa preparación la poseen sus maestros, los yoguis de los templos.
+
+Varios años después, Jacolliot vuelve a encontrar a su amigo el fakir, esta vez en un templo subterráneo de los que se construyen en la India, en las grutas. Jacolliot apenas puede reconocerlo, porque su cuerpo, osificado por la inmovilidad, ya casi se confunde con las estatuas de piedra del santuario; sin embargo, en sus ojos arde un fuego extraño, y así que lo interroga, el fakir habla  de tesis confusas; dícele que por su cuerpo corre, a manera de fuego luminoso, un flúido que es materia y a la
+
+[p. 411]
+
+vez conciencia. El fakir habla poco, y ya no posee aquella inteligencia clara que antes discutía con soltura todos los problemas; Jacolliot se retira desencantado porque ve la decadencia física de su amigo y no puede comprender lo que hay de perfección y de triunfo en esa reducción del cuerpo, a casi una forma mineral, por cuyos poros, sin embargo, pasa el flúido misterioso del espiritu en fiebre, en fiebre de alucinación y de penetración del mundo.
+
+El testimonio de Jacolliot jamás ha sido contradicho; el testimonio de otros viajeros también ha sido recibido en silencio de parte de los sabios. Llas universidades de Europa y de América gastan fuertes sumas en estudiar tonterías—como la naturaleza de los utensilios domésticos, y el estado de la industria del hogar entre los antiguos egipcios, etc., y no se han ocupado de mandar comisiones de sabios para que estudien a los fakires. Algunas veces, con motivo de los festejos que se celebran cuando visita la India un príncipe de Gales, o cuando se corona un nuevo rey de Inglaterra, aparece el fakir, y ante la comitiva oficial reproduce sus milagros; pero generalmente se le trata como a un prestidigitador; no se concede importancia a sus pruebas.
+
+Quizás, si el estudio de estos fenómenos se emprendiese con todos los recursos que están al alcance de la ciencia moderna, no se obtendrían, sin embargo, más resultados que los que se han obtenido en Europa: resultados oscuros, en que la ciencia vacila, y como que se da cuenta de haber hallado fenómenos que no pueden ser
+
+[p. 412]
+
+observados conforme a sus métodos, y que tampoco pue. den ser negados.
+
+Dando por cierto que los fenómenos existen, ¿ cuál es la mejor explicación que de ellos puede darse?
+
+### INTENTO DE EXPLICACIÓN LA ENERGÍA "PRANA" DE LOS YOGUIS.~SU CONFIRMACIÓN POR LOS SUEÑOS
+
+Los antiguos escolásticos, fundándose en la autoridad de San Agustín y en la autoridad de Santo Tomás, resolvian el problema muy fácilmente, afirmando que los casos de translación misteriasa de los objetos, de levitación practicada por magos y hechiceros, etc., eran debidos a la influencia del demonio, a pacto con el demonio. Todavía es ésta la tesis formal de la Iglesia Católica. Y si se pregunta cómo es entonces que los grandes apóstoles y los santos han podido realizar milagros semejantes, entonces contesta la teología dogmática que ellos lo hicieron por mediación directa del espiritu divino. La doble teoría es ingeniosa, pero pueril, y no explica nada, ni está fundada en una sola hipótesis experimental o racional.
+
+Supongamos que hay hombres capaces de modificar las leyes naturales lo bastante para levantarse en el aire sin aparato o fuerza extraña, y para transportar objetos sin la aplicación de fuerza visible y externa. Si se con-
+
+[p. 413]
+
+testa que esto lo hace el demonio, aun cuando hubiesemos dado por demostrada la existencia de los demonios, todavía tendríamos que preguntar qué clase de poder es ése que ejercita el demonio para venir a interrumpir el curso de las leyes naturales, para venir a burlar la gravitación o para acelerar los procesos de la biología, como cuando se hacen crecer plantas, y el problema no quedaría explicado, sino transportado nada más del hombre al demonio. Aun suponiendo que hay demonios, es necesario, pues, insistir en la averiguación de la naturaleza de estos poderes.
+
+Las distintas fuerzas del orden físico, luz, electricidad, calor, consisten en movimientos vibratorios cuya intensidad varía en cada una de ellas. Aunque la voluntad humana tiene puntos de semejanza con todas estas fuerzas, no puede, sin embargo, ser identificada con ellas, en virtud de que posee, por lo menos en la apariencia, un elemento de espontaneidad de que las fuerzas naturales carecen. Además, en el orden físico se observa que las distintas formas de la energia, luz, calor, electricidad, son capaces de transformarse unas en otras; el calor se transforma en fuerza motriz; la electricidad, en calor y luz, etc.; en todo el orden de las fuerzas hay lo que se llama la transformación de la energía, y todos los fenómenos dinámicos aparecen reversibles; es decir, que se puede pasar de unos a otros y viceversa sin mengra apreciable de la cantidad inicial de energía. Si yo posco una energía, digamos eléctrica, acumulada en una batería, sé que puedo transformarla en calor o en luz,
+
+[p. 414]
+
+o en potencia motora. En cambio, por más que yo haga acumulación de mi voluntad, no puedo producir con ella más que una acción limitada por las fuerzas de mi cuerpo, y no puedo transformarla ni en movimiento ni, en tiz; no puedo hacer que mi voluntad mueva ni siquiera una hoja de papel, a no ser que intervenga una energía distinta, la energía muscular de mi organismo; pero por medio de un esfuerzo, únicamente volitivo, nada puedo lograr absolutamente.
+
+¿Cuál es la causa de esta diferencia? ¿ Qué relación hay entre la voluntad, o la fuerza interna, y las fuerzas que animan lo externo?
+
+Precisa primeramente procurar definir lo que se entiende por fuerza en el mundo externo. La fuerza es la causa del movimiento, y la unidad del movimiento es el átomo; pero tanto el concepto de fuerza camo el concepto del átomo han estado siempre sujetos a las más variadas hipótesis. Para la física moderna, la materia ya no es aquel compuesto de átomos fijos, sujetos a leyes simples y constantes, como las que enunciaron Lavoisier con su célebre sentencia, "Dans la nature rien ne se perd, rien no se cree", o Newton, al formular las leyes de la gravitación universal. El concepto del átomo se ha modificado, de entonces a la fecha, a tal punto, que ya no coincide con Demócrito, sino más bien con Heráclito, el primero en concebir el flujo perpetuo e indefinido de la substancia. El átomo ya no es considerado como una mónada fija, como un punto insecable, sino como centro  o sistema de movimiento, sistema infinitesimal donde se
+
+[p. 415]
+
+agitan en velocidades fantásticas una infinidad de corpúsculos o electrones. Estos electrones, en realidad, no poseen nada de material; representan un potencial dinamico, y son tan tenues, tan impalpables, que hablar de ellos es entrar dentro de la mera hipótesis, y ya dentro de la hipótesis esos electrones se manejan y se conciben lo mismo que se manejan y conciben las ideas : se confunden con el tejido de las ideas. La esencia de la materia, la entraña del realismo abjetivo, se confunde con la substancia de la idea, se hace idealismo. De suerte, que al ahondar en la materia, con los conocimientos que nos proporcionan los sentidos organizados en ciencia empírica, hemos llegado a una conclusión análoga a la que anunciaron, haoe muchos siglos, el ya citado Heráclito y después Plotino; y por otra parte también; los sabios de los Upanishads; hemos venido a encontrarnos con que "There is no such thing as matter", con que la materia no existe; porque descartadas las percepciones, las ilusiones de los sentidos, no queda nada que corresponda al concepto de la materia; no queda más que la fuerza como concepto hipotética, como concepto metafísico. Una fuerza, que ya danza en los corpúsculos del átomo para formar cuerpos sólidos; o bien fosforece en las células del protoplasma para constituir organismos donde alentará la vida; la vida de todas las especies, y esta vida de los hombres que, al remontar hacia su origen, llénase de asombro ante el movimiento tenaz e incomprensible que la impele.
+
+En los origenes de la vida, obsérvase muy poca dife-
+
+[p. 416]
+
+rencia entre la fuerza orgánica, que es causa del movimiento de los objetos, y la fuerza vital, que despierta la vida en las células protoplásmicas. Los descubrimientos de la facultad radioactiva de las substancias minerales han acercado en cierto modo la constitución mineral, y la constitución protoplásmica, que sirve de base a la vida. Los esposos Curie han dejado asentado que los cuerpos radioactivos proyectan luz visible bajo ciertas condiciones. El químico alemán Himstedt va más lejos, cuando afirma que cada elemento químico emite una aureola o espectro, que se caracteriza en el espectroscopio por medio de ciertas rayas peculiares. Químicos autorizados, como Elster y Geitel, creen haber comprobado que la emanación radioactiva se halla presente en todas partes en la atmósfera; de suerte que mientras más se investiga, se va descubriendo que la aparente inercia de la materia es falsa, y que la sencillez con que hemos estado habituados a considerarla, como dividida en átomos insecables y físicos, no era sino imperfección de nuestros, métodos de observación. La materia no es un agregado de cuerpos muertos—como nos representábamos el átomo-, sino una especie de plasma activísimo, tan parecido al plasma de la vida orgánica, que casi se confunde con él. Se confunden, en realidad, los átomos materiales con las células protoplásmicas en muchos aspectos. Pues si es cierto que todo átomo material emite rayos característicos, también parece comprobado que en el protoplasma hay cierta fosforescencia, que sería del  todo semejante a la radioactividad de los metales. De
+
+[p. 417]
+
+Manaceine estudia esta fosforescencia, y de ella se sirve para explicar las imágenes visuales que se nos aparecen en los sueños.
+
+No sólo coinciden el átomo y el protoplasma en la facutad radioactiva, sino también en la susceptibilidad para ser penetrados por ciertos rayos luminosas. Así como las metales emiten su aureola tal como se revela en el espectrascopio, nuestros cuerpos, según las experiencias de Le Bon, paseen un halo, más o menos desarrollado, más o menos visible. Y así como los rayos › penetran los tejidos de nuestro cuerpo, así también hay rayos capaces de penetrar los metales; y parece que, en realidad, no hay cuerpo que no sea translúcido para algunta clase de rayos. Medítense todas las experiencias contenidas en la obra de Le Bon, L'Evolution des Forces, y se verá cómo no hay nada contrario a la naturaleza de las. fuerzas fisicas en la pretensión de aquellos magos que afirman la posibilidad de penetrar de algún modo los sólidos para ver lo que pasa dentro de una habitación o a gran distancia de donde se encuentra el sujeto. Los magos creen que la mente puede. penetrar los sólidos para ver detrás de ellos, y al ima. girar esto, no hacen sino suponer que reside en nosotros un poder semejante al poder de los rayos catódicos. Sin ombargo, cuando ignorábamos la existencia de los tayos catódicos, podíamos decir muy campantes que la pretensión de los magos era absurda, por ser contraria a la ley natural, que impide a la luz penetrat los só-⟦lidos.⟧
+
+[p. 418]
+
+0&6 ' & 0
+
+Igualmente, nos ha parecido siempre absurdo que nuestra voluntad pueda producir acción a distancia sin el intermedio de un agente visible. Sin embargo, desde que hemos visto que las ondas hertzianas ejercen acción a distancia en la telegrafía inalámbrica, ya no nos parecería tan raro, ni que dos pensamientos se entendiesen a distancia sin intermedios físicos, ni que la fuerza de nuestra voluntad operase un efecto sobre los objetos externos.
+
+El nudo del problema hállase en esta inexplicable circunstancia: que la naturaleza es capai y ha sido capaz de ir transformando todas las fuerzas unas en otras, las del átomo en las del protoplasma, y la del protoplasma en la de nuestra voluntad; pero nosotros nos hallamos desconectados de la cadena de esas transformaciones. Poseemos sólo una clase de energía, una energia específica: la voluntaria, y no sabemos insertaria en las demás, no acertamos a descubrir el proceso de la aleación de nuestra voluntad con las fuerzas del mundo. El que descubra este proceso se podrá convertir en seguida en el fakir más poderoso, llegará a ser un ver-⟦dadero mago.⟧ ¡ Este descubrimiento será o no factible, pero lo que sé importa dejar asentado es que no tiene nada de absurdo. Lo absurdo es que la voluntad y el pensamiento no puedan ejercer acción a distancia, ni sobre los abjetos, ni sobre el pensamiento ajeno, cuando todas las demás fuerzas, la gravedad, la fuerza de atracción, los rayos hertzianos, sí son capaces de operar a distancia.
+
+[p. 419]
+
+Nuestros sentidos, sumando sus experiencias, nos han habituado a conformarnos con que la voluntad y la mente son impotentes fuera de nosotras mismos; pero todo aquello que en nosotros se adelanta a mejorar el testimonio de los sentidos, nos dice que si es posible emplear nuestro querer a distancia, y que sólo falta encontrar la manera de transformar el ritmo de nuestra fuerza íntima en el ritmo de las fuerzas externas. El hombre probablemente es capaz de ejecutar un supremo esfuerzo que le permita consumar la transformación de su yo en energía física; pero es indudable que este esfuerzo cuesta demasiado al espíritu para que sea recomendable. Dicho esfuerzo es contrario a la naturaleza del espíritu, que está hecho para insertarse en los procesos superiores del mundo estético, y no para retrogra dar a las modalidades de la substancia pesante. Por eso, los más altos espíritus no han sido fakires ni magos, sino inspirados, videntes y santos.
+
+Según se desprende de las experiencias de Du Bois Reymond, el galvanómetro responde a la acción nerviosa en forma idéntica que cuando es impresionado por la electricidad. Pero lo que distingue a la acción nerviosa es la facultad que tiene de convertirse en la expresión y la acción de la voluntad. La vida misma es la aparición de ese movimiento espontáneo. Y el movimiento vital o nervioso, desde que comienza en el protoplasma hasta que se desarrolla en el hombre como voluntad consciente, se manifiesta siempre como un movimiento, no sólo material, sino ideal, porque persigue propósitos;
+
+[p. 420]
+
+propósitos que va realizando por acción a distancia y sin contacto. Esta acción a distancia, en uno de sus aspectos se llama instinto, se llama después voluntad así que se vuelve consciente; pero siempre acciona y reacciona por medio de una especie de emanación de sí misma, emanación que se detiene ante los obstáculos o los penetra y las vence, pero cuyo curso no pueden seguir los sentidos sino mediante la observación de sus efectos y sólo en una zona limitada de su acción. Tan maravilloso es que el protoplasma primitivo se reconcentre dentro de sí en el fondo de los mares para constituír una unidad viviente que resiste la desintegración provocada por las acciones externas, como que más tarde la voluntad trate de vencer la resistencia de lo externo para imponerle su propia manera, levantándose en el aire, como lo hacen o lo quieren haver los fakires.
+
+En toda la escala de los seres vivos es de advertir esta lucha de la voluntad con el ambiente, desde los fenómenos primitivos de reacción nerviosa, que los psicólogos estudian con el nombre de reactividad-—véase el exce lente estudio de Carlos Richet sobre la voluntad-, hasta las formas superiores de la vida, en las cuales el con ⟦ flicto de la ley del ambiente con la ley del yo asume ca-⟧ racteres francos y sublimemente trágicos. En esta lucha de las leyes del mundo con el capricho de nuestra espontameidad, cada acto inconsciente, cada acto de la vida vegetativa es una sumisión a las leyes físicas y un triunfo de las leyes físicas; cada pensamiento, acomodado ol ritmo de las leyes externas, es una invasión de lo físico
+
+[p. 421]
+
+en la esfera de nuestra alma; pero cada sentimiento generoso y universal y cada rapto de belleza eterna o de amor infinito es un triunfo del alma sobre la ley fisica. La contemplación de las cosas en función de belleza es una invasión de la fuerza del alma en la esfera propia de la materia. Y lo que la magia quiere, lo que la magia ha estado pretendiendo, desde el principio de los tiempos, es aumentar esa invasión de la física-desligarnos primeramente de las casualidades físicas —y en seguida someter a lo físico a nuestra propia ley espiritual, ley ajustada a belleza, y ya no mera equivalencia de efectos a causas. Como esto, es lo que hacen los artistas, siempre ha habido algo de mago en cada artista.
+
+Pero los magos no se conforman, como los artistas, con mejorar las leyes del mundo y ennoblecer las almas y objetos en el terreno inmortal de la fantasía. Los magos son más atrevidos, y quieren imponer las leyes de la voluntad humana en el terreno mismo de los objetos. Los magos conciben que, fuera de nosotros, en el exterior, rico en seres y cosas, hay una fuerza capaz de enlazarse con nuestra voluntad y de ejercer acción sobre todos tos objetos, de acuerdo con los dictados de nuestra propia voluntad. Esta fuerza el "prana" de los yoguis—no sólo reside en lo externo, sino que está en nosotros y constituye la esencia de nuestras varias facultades.
+
+⟦ En realidad no hay teoría más completa que la teoría⟧ yogui para explicar todas estas cosas sin necesidad de recurrir al diabolismo de los escolásticos, sin necesidad
+
+[p. 422]
+
+de suponer milagros, que serían excepciones odiosas de la ley natural.
+
+Concibamos el prana como una fuerza voluble, poderusa e inteligentísima, que unas veces mueve los objetos con los ritmos uniformes de la ley física y otras veces, descomponiendo su ley intima, se torno movimiento libre; que unas veces, al encarnar la vida, se arrastra por el suelo con los reptiles y vuela en el aire con las aves; que unas veces trabaja presurosa, como se ve en todas las funciones que mantienen el aparato fisiológico de todos los seres vivos, y otras se exponde gozosa y confiada, sin más anhelo que la belleza infinita, como se observa en el canto de los pájaros y en la música que suena en los corazones humanos. Pero en todas estas transformaciones, la fuerza prana, es cierto, tiene que cambiar de aparato; si obra como fuerza de gravedad, tiene que valerse de átomos pesantes; si se mueve entre las cosas, vese obligada a adoptar órganos de animal, y si canta libre en el espacio, necesita ligereza de pájaro o conciencia de hombre. ¿ Pero acaso no le es posible, cuando se encuentra en la forma, hondamente condersada y potente, de energía de hombre, cambiarse, trans. formarse a su antojo en las distintas fases de su inagotable poderío? Si la inteligencia todo lo puede penetrar y todo lo puede concebir, ¿por qué la volutnad también no puede obrar, como su fuente originaria, el prana, unas veces como pesantez, otras como aérea inmateria- lidad? Igualar el poder con el concepto, tal es la ambi- .
+
+[p. 423]
+
+ción del mago y tal es el secreto aviso que palpita en toda la conciencia humana.
+
+Así como yo poseo la facultad de emitir sonidos a través de mis cuerdas vocales, y una vez que esos sonidos se producen, ellos por su cuenta propia se propagan en el espacio hasta que se encuentran donde reflejarse o se pierden, asimismo es concebible que en mi mente haya un centro que produzca el pensamiento y lo recoja para transmitirlo hacia fuera. Todo el que piensa siente que de su mente irradian las fuerzas, que son las ideas, fuerzas de las más sutiles y poderosas del Universo; pero así como no podemos seguir el curso de las ondas sonoras hasta el más remoto espacio adonde la voz se propaga, no podemos tampoco, y mucho menos, seguir el curso de las ideas una vez que salen dé la mente. ¿ Se pierden? Indudablemente que no: ni en la naturaleza bruta se pierde el esfuerzo, mucho menos en el espacio ideal del pensamiento. Lo único que nos falta es el instrumento finisimo que sería necesario para descubrirlas latiendo y obrando en el mundo ideal. Para poder denunciar la presencia de las ideas, ese instrumento tendría que ser análogo a ellas en naturaleza, tendría que ser un instrumento ideal. ¿ Quién nos dice que la inspiración-ese misterioso rapto en el cual las ideas se nos aparecen súbitamente y envueltas en aureola gloriosa. no es un instante de tensión afortunada de nuestra ménte; durante el cual las afinidades obran como en el magnetismo físico y atraen hacía sí mayor suma de luz?
+
+El fakir sabe que, aunque la palabra ya no se escuche
+
+[p. 424]
+
+y aunque la letra esté oculta, ta idea subsiste, y por eso se dirige a buscarla. Par atransmitir su propio pensamiento, se desentiende de la palabra y lo envía a otra mente por intermedio del éter, quizá-, pero sin intervención del sonido articulado. Teóricamente no hay nada más sencillo, y lo único asorabroso es que la humanidad haya vivido miles de años sin descubrir los medios de hacerlo. Nuestras relaciones con la parte inferior de la naturaleza son tan directas y constantes, que damos entero crédito a todo lo que nos dicen nuestros intermediarios en esas relaciones, los sentidos corpóreos; y, en cambio, no ponemos atención en otros datos de conocimiento que se refieren a la parte superior de muestros poderes en el mundo. Aun antes de saber que hay mediums que se levantan en el aire y fakires que hacen lo mismo, todos guardamos, sin pensar nunca en ellas, una multitud de enseñanzas que nuestra conciencia descubre durante el sueño. Desde muy niños, y después constantemente, hemos venido observando que cuando soñaros nos sentimos vagar por los lugares ordinarios y por lugares fantásticos. Al hallarnos así mo viendonos en el sueño, nos sucede que con la mayor facilidad, tan pronto como se hace necesario, nos elevamos en el aire y caminamos con un movimiento que no es imitación del vuelo de las aves, sino una manera propia y que pareoe estar de acuerdo con nuestra constitución orgánica. Este vuelo nocturno no es comparable tampoco al vuelo de la fantasía, a nuestro ir y venir con el pensamiento, por los lugares del mundo y por
+
+[p. 425]
+
+las espacios ideales. El vuelo a que me refiera-ya lo comprende el lector — es el vuelo material de nuestro cuerpo, que camina en el aire, no por milagro, sino por una fuerzo que está en él, por una fuerza que durante la vigilia se halla aletargada, pero que en el sueño se revela espontáneamente, como la función natural de respirar. Tan se concibe como una función natural, que no nos causa asombro, y aun que tiene sus reglas fijas. Por ejemplo, no nos lanzamos a volar en tos sueños levantando al aire los brazos y ascendiendo, como lo haría un ave, que tiene alas, o un ángel. Nosotros no recurrimos para elevarnos a ninguna fuerza exterior, ni extraemas del pecho la fuerza que nos asciende. Para verificar este ascenso, primero nos abatimos un tanto, y doblando las rodillas y concentrando la energía alrededor del ombligo y alrededor del coxis, empezamos a mover las piernas, como en el nado, y nos elevamos; en seguida, ya que nos hemos arrancado del suelo, es necesario que los brazos intervengan, partiendo el aire para avanzar, pero el equilibrio sigue sosteniéndose mediante un esfuerzo que se concentra en la región de los nervios vegetativos del organismo. Ahora bien, esta circunstancia es muy significativa, porque se acompaña de una especie de conocimiento de que no obramos por milagro, ni por acción de energía que esté fuera de nosotros, sino por virtud de facultad natural e íntima que conoce la ley de gravedad y siente su fuerza, y por eso mismo acumula energía para oponerse a ella alli donde más fuerte se manifiesta su poder atractivo. en el punto
+
+[p. 426]
+
+donde se juntan las fuerzas de la pesantez corpórea. En el sueño parece que la voluntad se llega a ese punto y penetra en el haz de las fuerzas que atan el cuerpo a la tierra, y lo desintegra, desliga al cuerpo, y entonces reconcentra toda la fuerza muscular del organismo para que la humana armadura se eleve. Durante todo el vue lo, que generalmente es largo y seguro, la lucha, sin embargo, subsiste; el esfuerzo para vencer la pesantez ha de mantenerse, lo mismo que cuando se nada es preciso seguirse moviendo, pero esto sólo para avanzar, pues en los instantes en que permanecenos quietos casi no se advierte el esfuerzo.
+
+Y la pregunta que siempre nos hacemos mientras duran estos sueños es la siguiente: ¿ por qué no había yo hecho esto antes? ¿ Por qué no to hago siempre, si se tan fácil? De aquí que cuando despertamos queda siempre en nosotros la convicción de que sólo una ignorancia lamentable nos mantiene atados a la tierra, pues está en el poder de nuestra naturaleza elevarnos y caminar por los aires.
+
+Cuando nos caemos en los sueños, cuando nuestro cuerpo va a dar a un abismo, y 'despertamos todos sobresaltados al ir a producirse el choque, es porque el peligro que nos había amenazado se nos presentó súbitamente, y no tuvimos tiempo de referirnos a ese arsenal de recursas que está en nuestro organismo. Nos sucedió lo que en la vigilia, nos dejamos llevar de la fatalidad de las fuerzas naturales. Pero cuando tenemos ⟦ tiempo de pensar, cuando soñamos que nos persiguen,
+
+.⟧
+
+[p. 427]
+
+y que es necesario salvar un espacio abierto y profundo, ó escalar un muro, o trepar hacia arriba para hacernos invisibles, entonces nunca nos sucede ningún percance, siempre nos lanzamos a atravesar por la atmósfera con la naturalidad con que un ave se pone a volar.
+
+De suerte que cuando el fakir nos dice que se eleva en los aires, que se hace invisible, no nos sorprende; ya todo lo hemos hecho en los sueños: sabemos que la voluntad puede hacerlo y que el cuerpo puede seguirla. No lo podemos hacer nosotros durante la vigilia; pero ¿ qué vamos a saber de los poderes superiores 'del mundo, nosotros que vivimos inmergidos en la conciencia que da' el cuerpo, en esa especie de sopor que viene de la digestión, de la respiración, de todas las funciones corpóreas, constantemente enlazadas al nexo de las fuerzas externas?
+
+El problema de la levitación, como el problema del vuelo, dista mucho de estar resuelto. Naturalmente que la aplicación de la máquina de volar es una desviación útil del problema primitivo, pero nada más que útil. El verdadero problema está, como 1o buscaba Leonardo de Vinci, en volar sin motor extraño al cuerpo, con un aparato que facilite, si se quiere, el esfuerzo, mientras la fuerza humana se acostumbra a su nuevo ejercició, como las vejigas; que ayudan al nadador novicio; pero si no es la energía del cuetpo la que lo levanta y lo mueve, entonces to se puede decir que se ha aprendido-a volar. Y la noción de que hay en el organismo poderes ocultos que todavía nó se han puesto en uso
+
+[p. 428]
+
+seguirá siendo una vaga noción, sospechada por algunos, regada por otros y ridiculizada por los más. Los sabios, que cuentan con recursos para hacerlo, debieran emprender un estudio infatigable y severo para averiguar qué es lo que los fakires pueden, en realidad, aportar al conocimiento de todos estos asuntos.
+
+Mientras tanto, la teoría que más se aproxima a una explicación cabal es la teoría de los yoguis, la teoría— más antigua que la presente civilización—de que hay en la naturaleza fuerzas ignoradas, que no sólo pueden modificar increlblemente nuestra acción sobre el mundo, sino que pueden ponernos en contacto con las ideas que " han salido de nuestro cerebro, y de los otros cerebros humanos, y con los seres espirituales que, en jerarquías diversas, habitan un espacio donde no rigen las leyes del espacio que ordinariamente palpan y exploran nuestros sentidos—iuestra apercepción, para usar el tecnicismo ⟦kantiano.⟧ Todas las fuerzas, las físicas y las morales, son manifestaciones de una misma energía y reversibles umas en otras, según lo confirman los yoguis; pero no debe olvidarse que a través de las distintas manifestaciones de la potencia, los ritrhos del movimiento se modifican de una manera substancial. Los ritmos que a causa de la ley de gravitación que los rige he llamado newto manos, se observan en todo:to que percibimos con los sentidos. Mas aquellas realidades cuya presencia advertimos por la intuición estética hállanse animadas por una ley distinta de la de la atranción de los cuerpos y
+
+[p. 429]
+
+conservación de la energía. El ritmo de sus movimientos, tal como los percibimos interiormente, se parece al pathos de la belleza. Pathos que debe entenderse caracterizado por una abundancia verdaderamente milagrosa de
+
+la energia.
+
+[p. 430]
+
+### CONCLUSIÓN
+
+Al recapacitar los grandes asuntos de que se hace mención en este volumen, no se puede menos de sentir una especie de aturdimiento, causado por la multitud y la potencia extraordinaria de las grandes verdades que han ido apareciendo ante la conciencia humana, contradictorias unas, sublimes otras y todas admirables. En medio de nuestro asombro, sospechamos la presencia del omnisciente poder, que se expresa en la voz elocuente de todos los pueblos y en el anhelo de todas las almas.
+
+Todos los libros esenciales de que nos habla el poeta, aunque separados unos de otros por siglos y lenguas y razas, coinciden, sin embargo, en la aserción de un poder misterioso que se manifiesta en la inspiración mística, semejante al trino de los pájaros, desenvolviéndose irregularmente en el curso de las edades, y sin más ley que el orden múltiple y melodioso del canto.
+
+Mas, a causa de que la mística implica problemas de conducta y problemas de destino, no es posible resignarse a contemplar las verdades religiosas con curiosidad y deleite amables, como si nos ejercitásemos en el diletantismo de lo sobrenatural. Nunca es la superficialidad tan abominable como cuando se aplica al arte elevado o a ⟦m +⟧
+
+[p. 431]
+
+la religión. Y nada es más estéril que engolfarse hoy en los Upanishads, para volver mañana a los Evangelios, sin precisar nunca y sin jamás definir nuestras convicciones. No basta, por eso, leer los libros esenciales. Además de lerlos, es menester coordinarlos y establecer, siquiera sea para nuestro uso personal, ensayos de sintesis; síntesis que den a nuestros pensamientos diarios orientación précisa y esplendor fijo.
+
+La sintesis debe dar lugar y proporción a cada una de las grandes doctrinas: vasto empeño que jamás se logra del todo, pero que cada conciencia necesita resolver con premura, aunque sea de una manera imperfecta y confusa. Por fortuna, todos lo resolvemos sin gran esfuerzo, gracias al sentido de revelación que posee cada conciencia. Todos poseemos alguna manera confusa de síntesis de los problemas fundamentales del mundo. Pero lo importante es justificar esas síntesis personales, pues nada valen las propias luces mientras no han sido ilustradas con el caudal de saber, con el tesoro de las revelaciones de la humanidad entera.
+
+Asi es que, para ordenar y enriquecer nuestro concepto del mundo, estamos obligados a conocer todo lo fundamental y a aprovecharlo en seguida conforme a un. eclecticismo constructivo, que elige y coordina las distintas creaciones del espíritu humano. Mas para verificar esta elección entre la multitud de los datos acumulados por las siglos, es necesario hacer uso de un criterio fijo, de un criterio acertado. Este criterio es el criterio Absoluto. Lo que más se aparte de las modalidades finitas de
+
+[p. 432]
+
+la existencia y lo que más nos acerque a la intuición Absoluta, ése es el método de la verdad.
+
+Pero en seguida se dirá: ¿y qué es lo Absoluto?
+
+El sufi musulmán, que se provoca el éxtasis girando de prisa sobre sus propios talones, cree que su borrachera mental es lo Absoluto. Para otros, lo Absoluto es un concepto; para otros más, la negación de todo concepto; y para quienes pueden concebirlo, lo Absoluto es la esencia de toda existencia, la infinita y eterna substancia.
+
+Entre tantas opiniones diversas, es imposible decidir, exclaman los escépticos; y los pragmatistas, todavía más necios, afirman que todas son legítimas, y aún más, recomendables: so long as it is good for him, en tanto que sirven para mejorar la condición de cada conciencia. De donde se deduciría que lo Absoluto es relativo y está sujeto al gusto de cada cual, como un artículo de comercio. ¡Oh, creyentes en los fueros inviolables de la imbe-⟦cilidad!⟧
+
+Afortunadamente, por encima del criterio de utilidad, reina el criterio infinito, y para todas las almas despejadas, lo Absoluto sólo se manifiesta cuando nos sentimos arrebatados fuera de nosotros mismos, y mucho más allá del espacio y del tiempo. Lo Absoluto es lo inefable y la causa inmanente de todos los seres y de todas las formas: la esencia de todas las fuerzas. En esto coin-⟦ciden los Upanischads y la Biblia, Plotino y el Evange-⟧ lio, Kant y Samkara y todos los grandes espíritus que ha habido en el mundo.
+
+[p. 433]
+
+Sin embargo, en el concepto de las manifestacionos de ese Absolúto, se van marcando, so diré progresos, pero sí descubrimientos complementarios, que van haciendo que la verdad divina se nos aparezca más rica y perfecta.
+
+Juzgando a grandes rasgos, se podría afirmar que el primer descubrimiento importante de la conciencia humana, lo realizaron los filósofos hindúes cuando afirmaron en los Upanischads, lo identidad de Atman oon Brahma, nuestra comunidad de esencia con Brahma. Esta gran verdad ha sido invariablemente confirmada después por todas las grandes metafisicas.
+
+Pero tras este descubrimiento admirable, hácese necesario mantenerse alerta contra las interpretaciones equivocadas. Cada vez que lo pequeño, aun cuando soa de la misma esencia que lo grande, se envanece y se pone a interpretar lo grande, tropieza y yorra dastimosamente. Los tristes resultados de este error, y el espectáculo de tos dolores del mando, llevaron al Buda a reformar el postulado vedántico. La reforma budista consintió en afirmar que no basta saberse igual en esencia a 1o Absolutio, sino que para llegar a lo Absoluto es necesario huir de lo finito, es menester renunciar a las condiciones. todas de tà vida corpónea y de la vida entera de la com. presto. Perecedero es todo lo compuesto, dijo; y de eson se deduce que sôlo lo simple y absoluto es eterno. Mierz tras todavía estemos en la envoltura terrestre, cuyas facultades son todo lo contrario de lo que es Brahma, resulta imposible salvarse. He aquí el sentido de la doc-
+
+[p. 434]
+
+trina del Narvana, que nos obliga a salir de nosotros mismos, a salir del mundo, y de todos los mundos finitas y de todos los estados finitos, para poder conquistar •el estado Absoluto.
+
+Este descubrimiento del Buda, es el segundo gran paso en el problema de nuestra liberación; un descubrimiento que reduce el problema a sus condiciones precisas, y a la vez indica la manera de resolverlo.
+
+Mas el escape badista, la manera ésa de huir, dejando detrás de nosotros todo el resto de la creación, entregado a su sino maldito, no basta a la conciencia. Un secreto anhelo nos dice que es necesario que todo se salve, y que la creación cón todas sus bellezas y los seres con todas sus potencias nobles, no están hechos' para aniqui-'larse, sino paro ascender y redimirse, para subsistir ennoblecidos en un orden mejor. En presencia de la naturaleza, sentimos la amargura de los desterrados, la nos talgia de formas de vida mejores; pero al mismo tiempo nos invade unia ternura interisa, que nos liga con toda cosa, y nos hace pensar que no sólo nuestra alma, sino también el mundo visible, va a transformarse para ir detrás de nosotros en nuestro vuelo. Los conflictos innumerables del universo que siempre se resuelven en dulce paz, nó nos invitan ciertamente a morir, sino a vivir •eternamente envueltos en su misma armonía sublime: Cuando contemplo el cielo, dice Fray Luis de León:
+
+Cuando contemplo el cielo
+
+De innumerables luoes adornado,
+
+[p. 435]
+
+Y miro hacia el suelo De noche rodeado, En sueño y en olvido sepultado; El amor y la pena Despiertan en mi pecho una ansia ardiente; Despiden larga vena ..
+
+Los ojos hechos fuente; La lengua dice al fin con voz doliente: Morada de grandeza, Templo de caridad y de hermosura, Mi alma que a tu alteza Nació, ¿ qué desventura....
+
+La tiene en esta cárcel baja, oscura?
+
+¿ Qué mortal desatino De la verdad aleja asi el sentida, Que de tu bien divino Olvidado, perdido, Sigue la vana sombra, el bien fingido?
+
+El hombre está entregado : Al sueño, de su suerte no cuidando, Y con paso callado; ' ...
+
+El cielo vueltas dando, Las horas del vivir le va hurtando.
+
+¡Ay! Despertad, mortales; Mirad con atención en vuestro daño; ¿ Las almas inmortales Hechas a bien tamaño:' .
+
+Podrán vivir de sombra y sólo engaño?
+
+¡Ay! Levantad los ojos.
+
+[p. 436]
+
+⟦0 & & & & 0⟧ A aquesta celestial eterna esfera. Burlaréis los antojos De aquesa lisonjera Vida, con cuanto teme y cuanto espera. ¿ Es más que un breve punto El bajo y torpe suelo, comparado A aqueste gran trasunto, Do vive mejorado Lo que es, lo que será, lo que ha pasado?
+
+Quien mira el gran concierto De aquestos resplandones eternales, Su movimiento cierto, Sus pasos desiguales, Y en proporción concorde tan iguales: La luna cómo mueve La plateada rueda, y va en pos de ella La luz do el saber llueve, Y la graciosa estrella De amor le sigue reluciente y bella: Y cómo, otro camino Prosigue el sanguinario Marte airado Y el Júpiter beninn De bienes mil cercado Serena el cielo con su rayo amado: Rodéase en la cumbre Saturno, padre de los sigtos de oro, . Tras él la muchedumbre Del reluciente coro  Su luz va repartiendo y su tesoro:
+
+[p. 437]
+
+¿Quién es el que esto mira,
+
+Y precia la bajeza de la tierra,
+
+Y no gime y suspira
+
+Por romper lo que encierra
+
+El alma, y de estos bienes la destierra?
+
+Aquí vive el contento,
+
+Aqui reina la paz; aqui sentado
+
+En rico y alto asiento
+
+Está el amor sagrado
+
+De honras y doleites rodeado.
+
+Inmensa hermosura
+
+Aquí se muestra toda; y resplandeos
+
+Clarísima luz pura,
+
+Que jamas anochece;
+
+Eterna primavera aquí florece,
+
+¡ Oh campos verdaderos!
+
+¡ Oh prados, con verdad fregoos y amenos!
+
+¡ Riquísimos mineros!
+
+⟦¡ Oh deleitosos senos /⟧
+
+¡ Respuestos valles, de mil bienes llenos!
+
+El concepto de un gran trasunto, donde vive mojorado lo que es, lo que será, lo que ha pasado, ése es et último gran descubrimiento que la humanidad debe at cristianismo. La obra admirable de convertir lo mundano en celeste, pero transmutándolo y transfigurándolo, imprimiéndole un ritmo nuevo: el ritmo del amor y la hermosura divina.
+
+El abismo de la separación, el abismo del tiempo, el
+
+[p. 438]
+
+abismo de la muerte, todos estos abismos los salva y los borra el tierno y poderoso amor que se desprende de la gracia: amor que se resuelve en pura y resplandeciente belleza.
+
+La conquista de la eternidad por el amor, eso es lo esencial de la doctrina cristiana. Una dóctrina mucho más ambiciosa que todas las anteriores, porque no se conforma con salvar el alma, y anhela que todo cuanto existe se llene de más vida y gloria.
+
+El cristianismo que, por su ansia de escapar de la tie Ira, se ponga a condenar lo que se ve aquí abajo, sin atender a su hermosura nativa, y sin procurar que esa hermosura nativa se desenvuelva e irradie, no es un cristianismo legítimo. Las visiones sombrías del mundo, podrán ser hebreas, pero no galileas. Los dulces evangelios están llenos de la luz de Galilea, y en ellos todas las cosas se transfiguran y todo se enciende en los reflejos del Padre, en la belleza infinita de Dios.
+
+La doctrina vedántica nos enseña a amar toda cosa, a causa de que somos parte indisoluble de un universo cuya existencia es nuestra dicha, y cuyo esplendor es nuestra propia gloria. Mas no basta anegarnos en el mundo, diciendo por doquiera "tat twam así": esto es yo, porque la fealdad y el mal también se confunden en el anárquico todo. Es preciso entrar en el mundo llevando ya en nuestras conciencias el impulso de la fuerza redentora que ha de ennoblecer a todos los seres, reencarnándolos, o más bien dicho, rehaciéndolos en el reino incorruptible de la belleza eterna y divina. Este elemento
+
+[p. 439]
+
+de transfiguración de toda existencia, es un amor que no se parece al deseo, pues es fuerza que embellece y conciencia de identidad, conciencia de eternidad j de
+
+alegría infinita.
+
+[p. 440]
+
+[p. 441]
+
+## INDICE
+
+- I.—Introducción · 13
+- II.—Apuntes históricos. Rasgos generales · 27
+- III.—Clasificación de períodos y sectas
+- 1.—Literatura y Filosofía.—Períodos principales. Los Vedas, Samhitas, Brahmanes, enumeración de los principales períodos y textos · 55
+- 2.—El Brahmanismo.—Los Mitos.—Las Sectas. Religiones principales.—Vishnu.—Siva.—Krishna.—Clasificación de los dioses en tres géneros principales: dioses Mitológicos, dioses Filósofos, dioses Metafísicos.—Las Sectas.—El Brahmanismo Primitivo.—Politeísmo intermedio.—Monoteísmo.—Subdivisiones posteriores.—Interpretación de la Trinidad.—La Secta de Vishnu o Vaishnavita.—El Bhagavata-Purana y el Harivansa.—La Secta de Siva.—Los Saktas, Puranas y Tantras.—Las Yantras.—Sectas medioevales y sus reformas.—Los Bhaktas.—El movimiento Bhaktista.—Los Bhagavatas.—Chaitanya.—Eclecticismo de Kabir.—Sectas Modernas.—La iglesia Brahmánica o Samaj Brahman.—Ramakrishna · 66
+- 3.—Las Sectas Desviadas.—La lujuria y la mística · 85
+
+[p. 442]
+
+- 4.—Arte Indostánico.—La Arquitectura.—Los estilos hindú y dravidio · 92
+- 5.—La idea de casta · 96
+- IV.—Los seis sistemas de filosofía. Upanischadas · 101
+- 6.—Idea ⟦bro pai gendas parivads⟧ de los Brahmanes y Upanishads · 107
+- 7.—Brahma y Atman.—Transmigración y Karma.—Kalpas y Pralayas.—Las Gunas · 109
+- 8.—El Bhagavad-Gita.—Origen del libro.—Comentarios de Madero · 120
+- 9.—La Escuela Vedántica.—Uttara Mimanza.—Badarayana o Vyasa.—Upanishads.—Brahma Suttras de Badarayana y Brahma Suttras de Sankara.—Las tres etapas del Vedantismo · 129
+- 10.—Purva Mimanza.—Exégesis anterior.—Escuela práctica de Gaimini.—El Dharma.—El deber religioso como medio de salvación · 137
+- 11.—Escuela Samkya.—Capila.—El Samkya-Karika.—El Tattva-Samasa.—La Purusha y el pakriti.—Dualismo fundamental.—Danza de la pakriti frente a la purusha · 142
+- 12.—La Escuela Yogui.—Filosofía Yogui.—Patanjali.—Aforismos de Patanjali.—El yoguismo como disciplina o regla ascética, común a todas las sectas, vedanta, budista, samkya, etc.—El Samyama y los Siddhis.—El Samhadi o éxtasis · 162
+- Los poderes del yogui y la teoría del Verbo · 172
+- El yoguismo y la teoría de la superconciencia, como un adelanto sobre la tesis de la subconciencia de Myers y William James · 176
+- El fluido Akasa.—La energía Prana.—La energía Kundalini.—La energía «Ojas».—Transformación de la energía sexual en energía mental · 179
+- Otra versión yogui · 183
+
+[p. 443]
+
+- El yoguismo como higiene.—La mejor higiene es la que logra trasmutar el vigor físico en vigor psíquico.—La vieja cuestión del vegetarianismo · 185
+- Ayunos y vigilias.—Importancia de ambos para la higiene del organismo · 194
+- La Respiración.—El aire como fuente de energía.—Lugares donde abunda el «prana».—Algunos consejos yoguis · 201
+- 13.—La escuela o sistema Nyaya.—Sistema lógico.—Eternidad de las palabras.—Sphota.—La palabra eterna y sin partes de donde todas las demás proceden · 207
+- 13.—Escuela Vaisheshika de Kanada. La substancia y sus atributos. La teoría atómica hindú · 211
+- V.—Las grandes escuelas heterodoxas. Buda y Jain. Budismo
+- 14.—Aparición del Budismo.—Los textos principales de la doctrina.—El Lalita Vistara.—Las Pitakas.—Las preguntas del Rey Milinda.—El Camino de Pureza de Bhudagosa · 215
+- 15.—La doctrina budista.—Nacimiento y vocación.—Las tentaciones de Mara.—Meditación bajo la Higuera.—La rueda de la doctrina.—El primer Sermón.—La Vía Media.—La Conversión de Yasa.—Instrucciones a los Discípulos.—Los mandamientos de la ley.—Lección de Fuego.—Encuentro del Buda con su familia.—Significado de la Norma, Regla o Dharma.—Indiferenciada por la casta.—El Bikhu y la Mujer.—El Sermón del Rajagaha: el aniquilamiento del yo egoista.—Las tres características de todo lo creado.—«Lo Excelente está más allá de la razón».—La Muerte del Buda · 220
+- 16.—El mensaje del Buda.—Interpretación de la Doctrina · 242
+- 17.—El Budismo monástico.—Los Cantares budistas.—Salmos de los Hermanos · 259
+
+[p. 444]
+
+- 18.—Las iglesias budistas. Concilios. Sectas. La Gran Vía y la Pequeña Vía.—Budismo ceylanés o del Sur.—Budis-… · 266
+- 18.—La serie de los mundos y la serie de los Budas.—Los Brahma-Lokas · 271
+- 19.—El Arahatismo.—Los Bodisatas.—Los Lamas.—El Budismo en el Thibet · 272
+- 20.—La influencia de las doctrinas Bracmanes y Budistas en la filosofía europea · 275
+- 21.—Relación del Buda Gotama con Jesucristo · 286
+- 22.—La religión Jainista.—Las grandes Kalpas · 292
+- VI.—Renacimiento vedántico. Samkara.—Ramanuga.—Eclecticismo contemporáneo
+- 23.—Brahmanismo Vedántico. Sistema Ecléctico de Samkara.—La doctrina esotérica con relación a Brahma.—Cosmología vedántica.—Hipótesis relativa a que la creación del mundo no tiene más objeto que dar a las almas ocasión de ensancharse · 296
+- Naturaleza del alma.—Transmigración.—Inmortalidad · 315
+- La liberación.—Exageraciones de la doctrina vedántica · 323
+- 24.—Síntesis de Samkara · 327
+- 25.—Escuela vedanta.—Ramanuga. El atman eterno pero distinto de Brahma · 332
+- 26.—Eclecticismo moderno.—La Interpretación espiritualista de Tagore.—La doctrina de la realización o comunión · 336
+- VII.—El Veda Atharva. Demonología y magia
+- 27.—El Atharva-Veda · 349
+- 28.—Demonología · 352
+- 29.—Los Poseídos · 373
+
+[p. 445]
+
+- 30.—Hipnotismo.—Sugestión.—Comunicación con los muertos · 375
+- 31.—La influencia de las personalidades divinas · 382
+- 32.—La magia.—Magia Blanca y Magia Negra.—Teorías Generales.—La magia en el Indostán · 383
+- 33.—Los fundamentos de la magia · 393
+- 34.—La magia de las Fórmulas.—La magia de los ritos.—La magia de las plegarias.—La magia de los lugares santos.—La magia del arte noble y religioso · 395
+- 35.—Levitación.—Movimiento de objetos a distancia.—Experimentos de los fakires · 406
+- 36.—Intento de explicación.—La energía prana de los yoguis.—Su confirmación por los sueños · 412
+- 37.—Conclusión · 430
+
+[PDF 455]
+
+[PDF 456]
+
+[PDF 457]
+
+[PDF 458]
+
+[PDF 459]
+
+## OBRAS PUBLICADAS
+
+## AZORÍN:
+
+Parlamentarismo
+
+español.. • • 3,50 PTS.
+
+## JUAN RAMÓN JIMÉNIZ:
+
+⟦Decide sa docta 3,50 PTS.⟧
+
+## Platero y yo.
+
+3.50 PTS.
+
+Sonetos espirituales 3,50 PTS. 2,- pTs.
+
+## RICARDO DE ORVETA:
+
+⟦erruquete y su obr⟧
+
+(66 fotografias). • • 10, - PT
+
+## G. K. CHESTERTON: Ortodoxia .
+
+• 3,50 PTS.
+
+⟦P. SAVJ LÓPEZ:⟧
+
+Cervantes. . . . • 3,50 PTs.
+
+## RODRIGO ZÁRATE:
+
+España y América. 3,50 pTs.
+
+## J. MORENO VILLA:
+
+Evoluciones. . . • 4, - PTs.
+
+## T. ESQUIVEL OBREGÓN:
+
+Infiuencia de España
+
+y los Estados Unidos sobre México. 5,- pTS.
+
+⟦ ANDRENIO:⟧
+
+Novelas y novelistas 4,50 PTs.
+
+## R. PÉREZ DE AYALA:
+
+"olítica y toros . 4,50 PTS.
+
+as máscaras 4,50 PTS.
+
+## Las máscaras Il
+
+.. • 5.- PTS.
+
+## MANUEL BUENO:
+
+En el umbral de la
+
+vida. 4,- PTS.
+
+JULIO CASARES: Crítica efimera. I. 4,50 PTs. Crítica efimera. Il . 4,50 PTS. MANUEL AZAÑA: Estudios de política
+
+francesa contem-
+
+⟦poránea⟧ 4,50 pTS.
+
+⟦JOSÉ M." SALAVERRÍA:⟧ El Poema de la
+
+Pampa. 4, - PTS La intimidad literaria. ⟦4,- PTB.⟧ LUIS BELLO: Ensayos e imagina.
+
+ciones sobre Madrid..
+
+•.. 4, - PTS.
+
+RAFAEL CALLEJA: Rusia, espejo saludable para uso de pobres y de ricos. 5, - PTS. MANUEL GÁLVEZ: ⟦El solar de la raza. 4,50 PTS.⟧ EUGENIO D'ORS: Glosas ⟦regina do cleari de 4,50 pTs.⟧
+
+⟦JOSÉ MARíA CHACÓN:⟧ ⟦Ensayos críticos de⟧
+
+literatura cubana. 6,- PTS. J. FRANCOS RODRÍGUEZ: Días de la Regencia. 4,50 PTS. ⟦JOSÉ VASCONCELOS:⟧ Estudios Indostáni

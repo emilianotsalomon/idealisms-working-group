@@ -1,0 +1,849 @@
+---
+title: "Jurisprudentia: Nova methodus (Nachträge), Ratio corporis juris reconcinnandi, Ad Lycurgum"
+author: Gottfried Wilhelm Leibniz
+year: 1966
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 2 (Berlin: Akademie-Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the PDF text layer of a scan, ABBYY FineReader OCR, not corrected; measured 2026-11-01 on six scan pages of its volume (Sonnet transcriptions, sample_error_rate.py): about 0.5% of words misread; line-end splits rejoined from the scan’s text layer (softhyphen_join.py, 2026-11-01), 0.1% split or run together left; paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority"
+translation: none
+canonical: "A VI,2: [p. N] are the pages of A VI,2"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Jurisprudentia was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1966) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10258)
+---
+
+# G. W. Leibniz, *Jurisprudentia* (1966)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+### [p. 23] II. FRANKFURT UND MAINZ 1667-1672
+
+ZWEITE HÄLFTE
+
+#### A. JURISPRUDENTIA RATIONALIS (NACHTRAG)
+
+[p. 24] [p. 25] 27. NOVA METHODUS DISCENDAE DOCENDAEQUE JURISPRUDENTIAE
+
+Nachtrag: Übersichtstafel.
+
+[Herbst] 1667
+
+Überlieferung:
+
+E2 Übersichtstafel A: den Drucken E1, E2 Francofurti 1667 (VI, 1 N. 10) beigebunden.
+
+(Unsere Druckvorlage für Tafel A.)
+
+L1 Übersichtstafel B: LH II 1a Bl. 18. Übersichtstafel A mit eigh. Änderungen und
+
+Ergänzungen von Leibniz. (Unsere Druckvorlage für Tafel B.)
+
+Im Zuge der seit Ende 1695 in Angriff genommenen Umarbeitungen für die bereits 1671 geplante zweite Ausgabe der Nova Methodus (VI, 1 N. 10, Fußnoten D = L1) hat Leibniz auch die Übersichtstafel so sehr überarbeitet, daß es erforderlich war, diese veränderte Fassung in Tafel B gesondert zu drucken. Zum leichteren Vergleich mit der ursprünglichen Tafel A sind die Änderungen durch Kursivdruck bzw. durch Strichelung der neuen Klammern kenntlich gemacht. Auf eine Angabe der Streichungen wurde verzichtet, da sie bei einem Vergleich als Auslassungen in Tafel B zu erkennen sind. Die Lesarten beziehen sich also nur auf die Änderungen und Ergänzungen. In den Fußnoten zu Tafel B geben wir die nicht im Zusammenhang mit der Tafel zwischen ihren Zeilen stehenden Gliederungsansätze. Da sich bei der Tafel schlecht Zeilenweiser anbringen lassen, werden die Korrespondenzen zu den Fußnoten und Lesarten durch Indices hergestellt. Die Druckfehler bei der Zählung der Paragraphen in E1 und E2 wurden nach demText der Nova Methodus berichtigt; man liest jetzt §. 25, 58, 64, 99 an Stelle der Druckfehler §. 24, 56, 62, 89.
+
+Die beiden Falttafeln befinden sich am Ende des Bandes. 28. AUFZEICHNUNGEN FÜR EINE ZWEITE AUSGABE DER NOVA
+
+METHODUS DISCENDAE DOCENDAEQUE JURISPRUDENTIAE
+
+## 281. AUFZEICHNUNGEN (I) [Oktober 1695—1698(?)]
+
+Überlieferung: L Konzept: LH II 1b Bl. 1 —2. 1 Bog. 2°. 24/5 S. Ränder stark beschädigt,
+
+Schrift vereinzelt zerstört oder verblaßt.
+
+Dieses Stück gliedert sich nach Inhalt und Schrift in zwei Abschnitte. Der erste, zunächst in ruhiger, zügiger, dann, von S. 29,1 an, in zunehmend flüchtiger Schrift geschrieben, füllt 22/5 S., der S. 30, 6f. anschließende zweite Abschnitt, in sehr enger und kleiner Schrift, nimmt etwa 2/5 S. ein. Der erste [p. 26] Abschnitt ist nicht vor dem 21. Sept. (1. Okt.) 1695 (Datum der S. 29, 30 zitierten „Praefatio“ von Chr. Thomasius) verfaßt, aber seinen Anfangszeilen nach wohl sicher noch in der ersten Zeit der Neu bearbeitungder Nova Methodus. Mit derunten erwähnten Reise dürfte Leibniz' AufenthaltinWolfenbüttel im ersten Halbjahr 1696 gemeint sein. In der dortigen Bibliothek könnten ihm auch die verzeichneten Bücher zugänglich gewesen sein. Über ihre geringe Auswertung bei der ersten Umarbeitung (L1) vergleiche das Schriftenverzeichnis. Der zweite Abschnitt dagegen scheint erst zwischen der ersten (L1) und der zweiten Umarbeitung (L2) abgefaßt worden zu sein (vgl. S. 30, 15—17 mit VI, 1 S. 267, 29f. und 282, 27f.). Die darin skizzierte Neuordnung ist jedoch weder in L1 noch L2 übernommen worden (vgl. auch N. 27, Tafel B).
+
+Librum ad jurisprudentiam introductorium ipse oli[m edidi] adolescens anno 1667. Francofurti ad Moe[num] in duodecima quam vocant forma paginis constantem 194. Hunc ut resumerem saepe hortati sunt jurisconsulti insignes. Itaque cogitavi recte me facturum, si alios didacticos juris libros inspicerem, ut inde selecta quaedam transferrem in rem meam. Quorum cum forte nunc si[n]t a[liquot] ad manus ab amico dum in itinere versor summissi, eos percurram paucis.
+
+Primum Methodum meam subinde et emendandam, et augendam reperio; sunt enim quaedam non satis graviter dicta, nonnulla etiam minus exacta. Quaedam etiam tunc desiderata jam poterunt suppleri, vel prorsus, vel utcunque: nempe saltem succedaneis quibusdam indicatis, quae nonnihil vicem desideratorum implere possint.
+
+Supplendo operi meo quaedam suppeditat inprimis Manuale Jacobi Gothofredi Jureconsulti doctissimi. Ejus operis octava editio prodiit Genevae 1672. in 12° pag. 535 quae nunc est ad manus.
+
+Ejus prima pars est Historia juris Romani in qua inprimis Jureconsultorum Romanorum index placet chronologicus, cum Sabinianorum traditionis tenacium, et Proculianorum repraesentatione; tum tempora editorum Justiniani voluminum.
+
+Secunda pars est Bibliotheca juris civilis Romani. Hanc partem cum priore utiliter in unam confundi putem. Continet autem multa egregia, minusque in vulgus nota, atque ita pro maxima parte retinendam, sed tamen et augendam censeo. Inprimis addi vellem ex Ant. Aug. et aliis indicem veterum legum cum brevibus argumentis; oeconomiam seu dispositionem, tum 12 tabularum, tum inprimis Edicti perpetui, et aliorum veteris Jurisprudentiae fragmentorum non syllabo tantum, sed et argumentis opus erat, cum serie titulorum [p. 27] Justiniani utiliter conjungendis. Conjungantur quae ipse Jac. Gothofredus in Codicem Theodosianum a se editum monuit, et Joseph. Mariae Suaresü notitia Basilicorum.
+
+::: editorial
+
+(zu S. 26) 10 adolescens | anno aetatis 21mo gestr. | anno L
+
+14 amico: vielleicht Lorenz Hertel, Bibliothekar in Wolfenbüttel. 20 Gothofredi: s. SV.N.440, 1. 28f. Ant. Augustinus SV. N. 54,4.
+
+:::
+
+Tertia pars continet florilegium rotundiorum juris sententiarum, sed praeterquam quod pleraeque ex illis quas autor exhi[bet] vix quicquam nisi natura notum docent, magisque adeo ad ornatum in dicendo, quam ad arbitrium][ in judicando valent, deinde non rerum, sed titulorum ordine disponuntur; recte puto quibusdam sublatis aliae meliores regulae substituentur, omnesque rerum ordine col[lo]cabuntur, quod idem in titulis de V. S. et Reg. jur. faciendum.
+
+Quarta pars [con]tinet seriem titulorum qui extant in Digestis et Codice nonnihil illustratam. Hanc rectius Tabulari forma exhiberi, collatione instituta cum Cujacii paratitlis, et Jul. [Pacii] Oeconomia, Schmuckianaque etiam synopsi. Adjungenda et Oeconomia Institutionum et Novellarum Justiniani argumenta. His praemitterentur utiliter recensiones, argumenta Fragmentorum omnium Jurisprudentiae Projustinianeae, et subjiceretur etia[m] non male eorum quae Justinianum secuta sunt in oriente et occidente juris voluminum recensio quaedam; conferendo quae Lindebrogius, Conringius, Doujeatius de Civilis Canonicique juris Historia notavere. Nam Canonicum jus a Gothofre[do] neglectum miror; Feudaque etiam praeterita. Et Goldasti etiam aliorumque collectanea constitutionum non putem negligenda. Et postremo ad ipsas Germaniae et aliorum Regnorum leges veniendum, collato etiam Arthuro Duck et Giseberti Harmonicis, ut Historia juris absolvatur.
+
+Promittit Jacobus Gothofredus in praefatione Manualis, duo adhuc alia Enchiridia[;] ex his secundum deberet continere juris Fundos quos vocat potissimos ex quibus ferme natum est deinde jus Romanum, nempe leges XII Tabularum, legem Juliani et Papiam, Sabinianorum librorum continentiam sumtam ex libris JCtorum ad Sabinum, qui sub Tiberio sententias j[uris] Romani in unum contulerat; et denique Edictum perpetuum Salvii Juliani. Te[rtio in] Enchiridio se complexurum spondet, artem casuandi seu de modo casum, rationes dubitandi][ ac decidendi, et principia juris certa eliciendi ex lege. Tum Antinomicum compendiosum, ac mox selectarum ac praedicabilium legum indicem ac cujus-
+
+Zusätze von Leibniz: Zu Z. 8: Vigel. regulae.
+
+Zu Z. 28: De sedibus materiarum. [p. 28] que materiae sedem, ac postremo Consilium de Bibliotheca juris recte instituenda, designatis ipsis libris. Haec promissa sed non praestita, an effecta utcunque in autoris scriniis fuerint reperta, inquisi[tu] dignum foret. Partem tamen eius quod promiserat Gothofredus praestitit in Fontibus juris Civilis[ ] ubi elegantissimis Tabulis, et ordinem][ Edicti perpetui et libros praecipuorum JCtorum qui ad id commentat[i] recenset. Haec Thomas. in naev. antejustin. ubi [de] Ed. perp. Naev. [22].
+
+::: editorial
+
+(zu S. 27) 1 Gothofredus: SV. N. 1036. 2 Suaresii: s. SV. N. 1013. 10 Cujacii: s. SV. N. 279,6 u. 7. 11 Pacii: s. SV. N. 766, 2 (vgl. VI, 1 S. 330). 11 Schmuckiana: s. SV. N. 931. 29 Vigelius: s. SV. N. 1092,8. 15 Lindebrogius: s. SV. N. 606. 15 Conringius: s. SV. N. 245,4. 15 Doujeatius: s. SV. N. 322. 17 Goldasti: s. SV. N. 438,4. 19 Duck: s. SV. N. 329. 19 Giseberti: s. SV. N. 431.
+
+:::
+
+Manuductio ad Universum Jus Civile et Canonicum prodiit Ffti et Lipsiae apud Christian. Weidmann literis Colerianis 1685. 12° pagg. 512. Continet 1.) Bened. Carpzovii Methodum de studio juris recte instituendo, 2.) Danielis Keysers prof. Coburgensis Historiam juris civilis, 3.) Nucleum institutionum justinianearum, 4.) Memoriale juridicum Georgii Brucksulbergii seriem digestorum et codicis continens; Et digestorum quidem cujusque libri tituli versibus distincte repraesentantur, sed codicis libri novem priores unusquisque liber uno versu, quod non sufficit. Huic Memoriali subjicitur Em. Cothmanni catalogus potissimorum ex digestis titulorum, et potissimarum etiam legum ex digestis et codice; una cum 4 legibus desperatis, seu damnatis. Additur et Nicolai Everhardi praesidis Mechlinensis Nomenclatura legum quibus praecipua juris civilis capita continentur. Non continet tamen sedes materiarum, sed tantum in quibusdam titulis nominantur primariae leges. Additur ejusdem Everhardi Catalogus titulorum ex digestis primariorum ordine Alphabetico. Subjiciuntur et versus quidam vulgares apud JCtos, v.g. bis septem ex causis exhaeres filius esto. Additur et huic Memoriali juris Index Alphabeticus omnium juris Civilis titulorum, sed qualis in ipsis corporis juris editionibus haberi solet. Ego mallem Indicem dari materiarum vel Alphabeticum vel potius realem, subjicique titulos juris. 5.) Haec excipit Joh. Serpilii compendiosa juris Canonici et civilis delineatio (per ὕστεϱov πϱóτεϱov, incipit a Canonico jure). Ex Anonymi cuiusdam libello Col. 1577. edito se exhibuisse ait Serpilius veterum allegandi modum, etsi nunc fere desertum et quasdam abbreviaturas in Msis, editisque etiam glossis usitatas. Claudunt opus 6to) Principia seu Generalia juris utriusque Axiomata, ordine Alphabetico materiarum, verbisque magis doctorum quam legum, etsi leges et canones ubique citentur. Videntur non contemnenda, sed non minus ac Gothofredi ordine reali disponenda.
+
+::: editorial
+
+(zu S. 28) 4 Civilis],[ | ubi Edictum perpetuum etc. streicht Hrsg. | ubi L 6 Naev. 21 L ändert Hrsg. 11 continens; (1) constans versibus omnes cuiusque libri titulos indicantibus (2) Et L 29 ordine (1) meliore (2) reali L
+
+3 Gothofredus: s. SV. N. 440,2. 3 —6 Fast wörtlich aus Chr. Thomasius SV. N. 1040, 1 übernommen. 13 Cothmanni: s. SV. N. 156. 18 Everhardi: s. SV. N. 357,3.
+
+:::
+
+[p. 29] Joh. a Felde Compendiosae Manuductionis ad Jurisprudentiam sectio i. a Matthaeo Stirio J. U. L. edita Helmstad. 1683. 12°. pagg. 249. Continet familiarem quandam explicationem materiarum juris civilis privati sed maxime contractuum; legibus tamen non adductis.
+
+Joh. Schilteri praxis Analyticae in jurisprudentia ed. Jenae 1677. 8°. pagg. 164, aeneae tabulae praefixae[,] inscriptus est titulus philosophia juris, sed parum operi respondens. Praefigitur Tabula Genealogica Veterum JCtorum. Est logica juris, in qua insperguntur bona quaedam. Citat Quirini Cubachii Brocardicorum librum editum, qui logica applicet ad jurisprudentiam.
+
+Quod ego dixeram qualitatem moralem esse duplicem, potestatem et necessitatem; illam jus facere hanc obligationem, mutatis nonnihil verbis exhibet, vocans potentiam et impotentiam moralem.
+
+Logicae juridicae partem 1. pagg. 124 constantem facienti, subjicitur pars 2da usque ad p. 164 de methodicae doctrinae usu in acquirenda solida jurisprudentia. Commendat Hist. juris Rom. Jac. Gothofredi, et Germanici autore Conringio. Suadet ordiri potius a synopsi institutionum Schulzii quam ipsis institutionibus. Optaret tamen publica autoritate continuari institutiones juris civ., feud., saxon., ecclesiastici et publici quae necessaria continerent apta methodo ad monstrandos fontes. Id in Gallia praestitisse credi Coquillium, Eph. Erud. 34. 1666. p. 394. Elementa juris publici inquit tutissime ex Brautlachtio hauseris. His subjice ill. Seckendorfii Fürstenstaat. Deinde processus juridici. Stypmannus de ratione referendi. Commendat quae Jac. Gothofredus in titulum de regulis juris. Paraphrastice explicavere Heinsius politica Arist., Freinshemius Tacitum, B[ap]t. [Monlorius] organon Arist. — tit. Cod. de rebus creditis Pacius. [Tha-]bor in praef. lib. de Hominibus propriis remissive notavit qui scripsere [ad le]ges; nomine jurispr. analyticae dignatur. Hoc olim Delrio et Naevius. Tribonianus saepe ab intentione JCti quem excerpsit discessit et latius vagatur, v. l. 32. de H. P., l. 82. de O. et A.
+
+Pars 3tia praxis Analyticae continet tr. de pacto retrovenditionis, tanquam in specimen artis, usque ad pag. 405 post quam sequitur usque ad finem p. 476. disp. sub praesidio Slevogti de syllogismo Hypothetico.
+
+Thomasii de Naevis Jurisprudentiae Antejustinianeae praefatio quaedam bona habet de naevis Justinianeae.
+
+::: editorial
+
+(zu S. 29) 15 Gothofredi: s. SV.N. 440, 2. 15 Conringio: s.SV.N. 245,4. 16 Schulzii: s. SV. N. 940. 19 Eph. Erud.: s. SV. N. 350. 19 Brautlachtio: s. SV. N. 150. 30 Thomasii: vgl. Leibniz an O. H. Becker 1699 (Feder, Commercium, S. 144).
+
+:::
+
+[p. 30] Systemati Henningi Rennemanni praefigitur Manuductio ad studium Jurisprud. Et prior pars operis de principiis Juris.
+
+Mauritii diss. de principiis juris publ. Et alia de libris juris Communis. Addatur ejusd. diss. de Recessibus imperii, item introductio ad praxin forensem.
+
+Alberic. Gentilis de libris juris Canon.
+
+Operae pretium erit partem Generalem sic instrui, ut reapse contineat quaedam Scientiarum et Cognitionum apta jurisprudentiae Elementa.
+
+Ac primum agetur de didactica in universum, nempe de assuefactione, informatione, institutione.
+
+Videtur informatio aliquid esse generalius didactica; nam didactica est proprie eorum habituum qui cum notitia sunt conjuncti. Sed informari possunt homines non tantum ad notitias, sed et ad omnem perfectionem, quo pertinet robur, sanitas, etc. Hoc maxime apparet in educatione. Nec tantum id agitur ut agere sed et ut pati possimus. Posses et generatim appellare institutionem.
+
+Perfectiones sunt corporis et animi; et animi voluntatis et intellectus. Corporis perfectiones sunt sanitas, decus, robur, agilitas, vox grata, gestus grati, sensus exquisiti. Ad robur etiam cutis resistens igni, etc.
+
+Perfectiones mentis et corporis. Mentis voluntatis, et intellectus. Voluntatis perfectiones sunt virtutes morales. Virtutes morales sunt Voluntas tendendi ad perfectionem, idque vel per rationem, vel per inclinationem. Inclinatio est ab instinctu innato vel ab assuetudine quaesita. Quoad rationem praeter usum rationis seu virtutes intellectus, opus est affectuum repressione, ut rationem non turbe[n]t. Inclinationes bonae necessariae, praesertim ut bene agamus qua licet quando deliberandi spatium non est. Itaque non sufficit ut virtutem moralem in sola affectuum refraenatione et usu rationis ponamus; sed opus est ut affectus ipsos vertamus ad inclinationes in bonum. Tales inclinationes sunt aliis benefaciendi, perceptionem vertendi ad id quod in rebus bonum est; attentionem his praestandi, et immorandi. Immorandi ad rem facientibus. Grata habendi quae utilia [p. 31] sunt, ingrata quae inutilia, et maxime quae damnosa. Possumus utilibus aliquid grati dare, cogitando eorum ideam, cum boni idea. Pietas dum omnia assuescimur referre ad Deum, ad nos, ad commune bonum.
+
+::: editorial
+
+(zu S. 30) 8 assuefactione, (1) docendi institutione (2) informatione, (a) doctrina (b) institutione L 9f. institutione (1) Tum veniendum ad disciplinas ipsas, earumque usu[m] ad Jurisconsultum. Eae sunt Universales (a) se (—) (b) in disciplinis, Singulares in Historia et Geographia, Universales sunt generales (2) Tum veniendum ad discenda. Ea sunt Notitiae et habitudines. Notitiae Peri (3) Videtur L 20 vel per (1) impetum. Impetus (2) inclinationem. L 26 benefaciendi, (1) sensum (2) perceptionem L
+
+1f. Rennemanni: SV. N. 867, 1 u. 2.
+
+:::
+
+Perfectio appetitus tam irrationalis quam rationalis. Opus praescriptis quibusdam legibus et earum observandarum exercitio.
+
+Leges habere semper sibi propositum indiculum agendorum.
+
+Agenda subinde mutanda pro tempore et eius circumstantiis, semper dirigenda ad finem primarium subordinandi secundarii. Exercitium attendendi ad bona, immorandi utilibus, grata ea reddendi. Respice finem, und alles mit bedacht, omnia continent. Regulae vitae ex Christianis et ex Philosophis inprimis haec quomodo acquirendus habitus agendi recte.
+
+Perfectiones sunt, notitiae, memoriae, succursus ut in tempore succurrat quo indigemus.
+
+Notitiae sunt Universales et Singulares. Universales sunt generales et speciales. Generales sunt Logicae et Metaphysicae quae conjungendae. In [his] de attributis, scilicet universalibus, et subjecto, Deo et creaturis in genere. Speciales sunt de intellectu et voluntate, conatu agendi; ubi de creaturis rationalibus. De extensione et resistentia, ubi de spatio, corpore in genere seu Mechanicis, qualitatibus sensibilibus et corporibus specialibus non organicis similaribus, heterogeneis, organicis.
+
+Singulares Historiae.
+
+Et condenda praecepta rerum forent. Sed ita fieret aliud opus.
+
+Itaque suffecerit hoc nonnihil emendari et in ipsis utilioribus augeri.
+
+(Componenda) forte essent Ethicopolitica et amplius tractanda jurisprudentia quasi in politicis lateat.
+
+## 282. AUFZEICHNUNGEN (II) [Ende 1695—1696 (?)]
+
+Überlieferung: L Konzept: LH II 1b Bl. 3. 1 Bl. 8°. 1 S.
+
+Diese Aufzeichnungen (II) sind beim Durchsehen der Nova Methodus (s. u. S. 33,5) gemacht und beziehen sich auf deren speziellen Teil. Einige der im ersten Abschnitt von N. 281 notierten bzw. zitierten
+
+9 reddendi (1) moderari affectibus (2) RespiceL 12 über memoriae, succursus: quae in duobus (—) 14 conjungendae. (1) Speciales sunt de Deo et creatura (a) Creatura Rationali irrationali. (b) Creatura rationalis habet (2) His de qu (3) In de L 16 conatu agendi erg. L [p. 32] Schriften, vor allem das Buch von Chr. Thomasius, sind hier wiederum angeführt. Demnach dürften sie wohl nach dem ersten Abschnitt, aber vor dem zweiten Abschnitt von N. 281 in Hannover niedergeschrieben worden sein, d. h. zwischen Ende 1695 und 1696. Si quando mea juris Methodus recudetur, poterunt addi quaedam in ipso opusculo, partim extra ipsum. In opusculi parte generali autores uberius annotentur, sed utiliores. Materiarum digestioni adhibeantur quae alii in hanc rem; vid. index Bibliothecae, et Pandectae Gesneri. Historia externa in partem generalem rejiciatur. Adhibeatur et Lambecii Historiae literariae prodromus, et quae Vossius de artibus liberalibus et mathematicis. In parte Speciali expurgantur consilia illa de nonnullis elaborandis, velut Breviario, institutionibus, etc. Historia sit Jurisprudentiae propria. Ubi exponenda Romana, Canonica, Germanica juris Historia. Ef in Germanica adhibeatur Conring. origo juris; Historia feud. jur. sax. svevici Recessuum, Cameralis et Aulici. Provinciarum Germaniae; regionum externarum, Duck. De abrogatis Forsteri Hist. juris, Freymonius, Ant. Aug. Historica et Exegetica praemittenda Didacticae et polemicae. Possent methodi diversorum repraesentari, Lagi, Connani, Bodini, Vigelii, Gregorii Tolosani, Donelli, Vulteji, Althusii. Tollenda reprehensio eorum qvi de facto et jure. An adjiciemus definitiones alicuius viri docti? Quasdam ipse aliquando fabricavi. Huc Lexica juris. An regulas juris et brocardica selectiora. Huc autores regularum et Axiomatum. Subtituli perficiendi add. Jungii Topica, et Vigelii dialect. Matth. Steph. Fr. Hottom. Freigii. Dan. Otto. Mart. Schickard. Philologia et philosophia Legum illustretur ex autoribus principiorum juris, exemplis ubique adhibitis. Deest index corporis juris Gothofredi in quo et notae. Woldenbergii manipuli juris quaerendi. Brederodius in corpus juris civilis. Daoyz in utrumque cum glossa. Orthographia Florentina][ exhibenda. Adhibeatur Hottomanni Antitribonianus Thomasii naevi. Marsmanni metrologia dabit mathematica, huc Geometria seu autores finium regundorum. Zusätze von Leibniz: Zu Z. 26 am Rande: Placcii Nomicus Pacemutus. [p. 33] Pro Antinomiis, Struvii evolutiones; ejusdem Immo Gothofredi. Oeconomia juris Math. Stephani non est ordine legum. An Wesembecii et Giphanii? Huc Pacii, Speckhanii. Frizii paratitla recessuum Imperii. Illud praemitto scindo [VI, 1 S. 339, 24—25], explicatur et aCrispino. Censurae Regneri et contra Maestertius. Autores qui fundamenta juris naturae tradidere aliter adhibendi. Ex Mauritii praefatione chiloniensium utiliter de autoribus juris practicis. Pro legibus numeratis Delrio, Brodaeus. Extra opusculum, series corporis, ubi adhibendus Iac. Goth., Pacius, Calvini paratitla ex pluribus. Cujac. paratitl. cod., Schmuckii synops. jur. civ. et can. Volrath. Paucis ad Tabulas adjungatur medulla tituli et explicatio verborum: add. notae Dion. Gothofredi in tit. Specimen definitionum. Specimen regularum. An et termini ex Besoldo, Wehnero, Speidelio. An catalogus Actionum Placii, add. Schwendend. Exceptionum Zangeri. An et synopsis processus? Sedes materiarum. Leges candidatoriae. Differentiarum juris civilis et Canonici catalogus. Item juris civilis et sax. Decisiones Augusti et Joh. Georg. I. ex Strauchio. Regulae jur. Barbos. Cubach. in regg. jur. Joh. Rami comm. Bibliotheque françoise d’un homme de qualité. * Zusätze von Leibniz: Zu Z. 2—3 am Rande: Giseberti Harmonica in specimen theatri legalis. Uber Z. 10: Collatio Novellarum cum caeteris. et quae abrogata per Codicem rep. praeb 50 decis. Zu Z. 18 über Joh. Georg. I.: consultationes saxonicae. 283-12. AUFZEICHNUNGEN (III) [1693-17o9(?)]
+
+Überlieferung: L Konzepte: LH II 1a Bl. 140, 148, 184, 185, 186, 234, 247, 249, 250, 323.
+
+In dem Handexemplar der Nova Methodus lose eingelegte Zettel unterschiedlicher
+
+Größe: 283: Bl. 140. 1 Streifen (19 x 1 cm). 1 Zeile. — 284: Bl. 148a. 1 Streifen (10 x 0,5 cm). 1 Zeile. — 285: Bl. 184. 1 Zettel (10,3 x 16,5 cm). 1 S. — 286: Bl. 185.
+
+Von einem Brief abgerissener Zettel (11 x 2,4 cm). 31/2 Zeilen. Auf der Rückseite von unbekannter Hand: Monsieur de Leibnitz Conseille[r] Privé de S. A. E. de Brunsvic. —
+
+[p. 34] 287: Bl. 186. 1 Zettel (8 x 10,2 cm). 7 Zeilen. — 288: Bl. 234. 1 Streifen (19,7 x 5,5 cm).
+
+1 1/2 Zeilen. Auf der Rückseite von Leibniz’ Hand: m = 99, dv = dw fit h9? dz = ava99
+
+[und nicht entzifferte Buchstabenreste]. — 289: Bl. 247. 1 Blättchen (17,3 x 3,6 cm).
+
+### 5 Zeilen
+
+2810: Bl. 249. 1 Blättchen (8,8 x 11,4 cm). 7 Zeilen. — 2811: Bl. 250.
+
+1 Streifen (13,3 x 5,5 cm). 3 Zeilen. — 2812: Bl. 323. 1 Zettel (11,4 x 8 cm). 71/2
+
+Zeilen.
+
+Datierungsgründe: Die angeführten Schriften und die Adresse auf N. 286.
+
+283 Leonardi Draconis juris civilis institui. carmine conscriptae.
+
+284 Tout n’est pas dans l’infini 195.
+
+285 Jure Romano capti ab hostibus servi hostium fiunt, idque juris gentium habebatur. Grotii quoque sententia est quae hostes nobis eripiunt, ipsorum fieri; et quae alius eis rursus justo bello eripuit, ipsius esse, nec a nobis vindicari posse. vid. de J. B. et P. lib. 3. c. 6. §. 7. Hostes autem justi intelliguntur, quibus jus belli est; et si fortasse bellum sit injustum. Haec ego putem magis ex consuetudine gentium, ut servos, quam certo jure naturae pendere. Et si Gallus Germaniae urbem ademerit, eamque Batavi recipiant antequam pace facta in Gallum translata sit, reddendam pristino domino putem, ita tamen, ut sumptuum ratio habeatur. An idem est etsi pace facta Gallis urbs cessa sit, si pax sit abrupta; ut dici possit imperium in pristina jura redire. An potius dicemus, quae semel pace cessa sunt, caeteris bonis acquirentis aequari. Atque id malim. At immobilia quae ab hoste capta sunt, si ab alio durante bello recipiantur, ad nos redire censeo, nam alioqui jus recuperandi nobis adimeretur. Sed mobilia, quae nec armis recuperari facile possunt, nec pace facta reddi solent, putem fieri recipientis. Hominum autem putem eam esse rationem quam immobilium, ex quo restitui solent. Secus fortasse olim res erat, cum locum haberet servitus et capti distraherentur.
+
+286 Ant. Dominicus JCte de Cahors disquisitione Historica de praerogativa Allodiorum in provinciis quae jure scripto reguntur.
+
+::: editorial
+
+(zu S. 34) 15 Gallus (1) imperio (2) Germaniae L *
+
+8 Leonardi Draconis: vielm. Louis-Honoré Draco; s. SV. N. 323. 25 Ant. Dominicus: s. SV. N. 316.
+
+:::
+
+[p. 35] 287 Genuae plura Auriensia palatia unum ad urbis portam, Andreae Auriae conditoris statua ibidem ex aere, cum epitaphio ejus Canis cui Carolus V. annuam pensionem assignasse dicitur. Mabillonius it. ital. p. 226.
+
+288 Wilh. Schmuckius in notis ad Usum primum Indicis Labitti, librumAzonis Brocardicorum seu Generalium juris, aureolum vocat. pag. 628.
+
+289 In Placcii Theatro part. 2. p. 361 es habe sich H. Philippus von Steinberg zum Hippolytho a Lapide bekennet. )(-Zechii tr. genant Europäischer Herold so 1688 herauskommen, tadelt Thomasius in Monathsgedancken 1688. Aug. p. 194, daß er den Caesarinum Fürstenerium gelobet.
+
+2810 Joh. Tilii parallela pontificum Romanorum et Ethnicorum principum Amberg. 1610. 40. Christophori Warsevitii Caesarum Regum et Principum aliquot vitae parallelae Helmst. 1604. 8°. Conrii de statu parvulorum sine baptismo decedentium Lovan. 1624. 4°.
+
+2811 Jodoci Stimpelii Compendium Mascardi de probationibus perpetuo memoriae localis Alphabeto, materias in omni foro versatiles, ejusdemque probandi modos demonstrans. Col. Agr. 1627. 8°.
+
+2812 Giselini Adagia. H. Stephani in Erasmum, G. C. Nozareni Sylloge. C. Corocottae testamentum porcelli. P. Virgilii Adagia. C. Bovilli Proverbia. Tumebi adagia. M. Ant. Mureti Adagia. G. Gentii Adagia jurid. M. Nepei adagia 1629. fol.
+
+## 30. RATIO CORPORIS JURIS RECONCINNANDI [Juni 1668.]
+
+Überlieferung:
+
+E1 Unkorrigierter Abzug des Erstdruckes nach nicht gefundenem Manuskript. Ohne
+
+Orts- und Jahresangabe: Exemplare in Weimar, Landesbibliothek'. XII, 8 (Sammelband) und Wien, Österreichische Nationalbibliothek: 28 S 24.
+
+E2 Korrigierter Druck nach E1. Ohne Orts- und Jahresangabe [Frankfurt oder Mainz (?)
+
+1668]: Exemplar in Dresden, Landesbibliothek: Med. for. 374wt (Sammelband).
+
+(Unsere Druckvorlage.)
+
+Neuerer Druck: Dutens, 4, 3, 1768, S. 235—252 (nach E2). Die Datierung stützt sich darauf, daß der wohl gerade fertiggestellteDruck bereits am 5. Juli 1668 von Boineburg aus Köln an H. Conring übersandt worden ist (vgl. Gruber, S. 1221).
+
+RATIO CORPORIS IURIS RECONCINNANDI §. 1. Ius Romanum vocamus tam quod a Iustiniano Romano Imperatore, quam quod a Romanis Pontificibus profectum est; illud Iustinianeum dicitur, hoc Pontificium. [p. 94] §. 2. Utrumque habet per Europam fere totam, spontanea quadam receptione vim luris Communis, et quasi Iuris gentium Christianarum; ut valeat quatenus ei speciali Regni, Regionis, Provinciae, Loci alicujus Lege, Statuto, vel Consuetudine non est derogatum. §. 3. Hanc Autoritatem hoc rerum statu necessario retinebit. §. 4. Quia omnes ei assueverunt: Scriptores in allegando, et fundamentis ex eo petendis; Scholae in legendo et disputando; Forum in judicando, consulendo, patrocinando. Adeo, ut eae quoque gentes, quamvis paucae, quae usu fori excluserunt, Scholas tamen ei aperuerint. §. 5. Ideo Iuris Romani authoritas sine totali Rei Iuridicae mutatione tolli non potest; tolli tamen Vitia ejus et possunt et debent. §. 6. Iuris igitur Romani consideranda sunt: Vitia, vitiorum effectus, vitiorum remedia. §. 7. Iuri Romano objiciuntur haec Vitia: Superfluitas, defectus, obscuritas, confusio. §. 8. Superfluitas Iuris Romani consistere putatur in Abrogatis. §. 9. Sed Abrogata ex Iuris corpore, si universale variis gentibus manere debet, ejicienda non sunt, quia alia aliis gentibus sunt abrogata, v.g. in Hispania adhuc viget vera Servitus. §. 10. Perlegantur modo illi, qui Abrogata colligere conati sunt; reperiemus, quae unus pro universaliter abrogatis asserit, alterum nonnisi de illius patria concedere, de sua vero vel aliorum contrarium demonstrare. §. 11. Imo in omnibus abrogatis manet nihilominus vera propositio Conditionalis nempe: quod stante illa hypothesi, quae olim fuit, etiam stare jus vetus deberet. §. 12. Contra, quod stante hodie hypothesi, quae veteri similis, vel contraria est, etiam ob similem, vel contrariam decidendi rationem, jus hodiernum juri veteri simile vel contrarium esse debeat.
+
+**§ 13**
+
+. Et ita Abrogata praebent in hypothesi proportionali hodie vigenti, fundamentum decidendi proportionale, v.g. Materia de Famulis, de Operis Rusticis, Hominibus propriis hodiernis, ex materia Servorum veterum; Materia de Unione prolium hodierna, ex Adoptionibus veteribus capit fundamentum. Nos tamen operam dabimus abrogatis communioribus et suis locis, et sigillatim unius Schematis aspectu simul, repraesentandis. §. 14. Defectus Iuris Romani consistit in Antinomiis, et quod casus plurimi in eo non satis decisi sunt.
+
+**[p. 95] § 15**
+
+. Sed haec vitia omnibus legibus communia sunt, nunquam enim possunt comprehendi omnes casus. §. 16. Audemus tamen dicere, nullum extare librum Legum in Orbe terrarum qui plures, et insigniores in omnibus materiis, comprehendat, et decidat casus, quam Corpus utrumque juris Romani. §. 17. Antinomiae verae, si quae sunt, paucae sunt, a nobis et ipsae repraesentandae. §. 18. Et multa controvertuntur, quae ex Legibus modo confusis sic apparent, nec tamen sunt, verum exercitu tantum causa proponuntur. §. 19. Optandum tamen, Casus, adhuc controversos insigniores publica authoritate hodie decidi, et ita Corporis Iuris pomoeria velut proferri, sed hoc alterius disquisitionis est, et Legibus secundum institutum nostrum in ordinem redactis, Casibus indecisis ea ratione clarius elucescentibus, quin etiam a nobis simul indicatis Autorum eos colligentium locis, magis magisque patebit. §. 20. Obscuritas juris Romani consistit in Styli et Historiae veterum ignoratione. §. 21. Sed obscuritas hodie satis dispulsa est per Iuris Consultos Recentiores Cujacios, Contios, Hottomannos aliosque imprimis postquam potissima ex iis selecta Dionysius Gothofredus in notis suis Textui addidit. §. 22. Curatus igitur est morbus hic Legum, nisi quatenus adhuc a confusione trahit alimentum. Interim plurima egregia ad illustrationem, ornatum, perfectionem pertinentia desiderari adhuc posse, non diffitemur, de quo plura infra §. 142. et seqq. §. 23. Confusio autem sola adhuc maxime regnat, et omnia turbat. Ea enim et sustentat superfluitatem, et defectum et obscuritatem. §. 24. Quia quamdiu omnia confusa sunt, non possumus certo secureque nosse et in numerato habere, quid in legibus positum sit, quod poni non debuisset; nec, quid in iis omissum, quod omitti non debuisset; nec quae Lex aliam explicet, aut emendet. §. 25. Confusio est Operum, Materiarum et Legum. §. 26. Confusio Operum consistit tam in varietate Operum, quam in varietate Ordinis. §. 27. Varietas Operum est, quod de eadem re agitur saepissime in diversis Operibus Corporis Iuris, nempe et in Digestis et Codice, et Institutis, et Novellis etc. §. 28. Haec debent inter se conjungi paralleliter. §. 29. Et tale opus vere Basilicum, et Regium jam tum annis abhinc circiter 800 moliti sunt Imperatores Orientis: Basilius Macedo, Leo Philosophus, et Constantinus Porphyrogenneta; quod vocatur Corpus Basilicorum, constabatque ex Libris sexaginta.
+
+::: editorial
+
+(zu S. 93) 1 quando sc. Testes L1 6 abstracto, Juri ex l ändert Hrsg. nach L1 10 acquirendo. | (1) Rebus merae facultatis positivis (2) Actibus merae facultatis positivis a tempore contradictionis. gestr. | L1
+
+:::
+
+[p. 96] §. 30. Sed non pervenit ad nos integrum (in postrema enim Caroli Hannibalis Fabroti editione quae in Gallia ex M. S. Bibliothecae Regiae prodiit, desunt libri novendecim) et loca Iuris Iustinianei in eo detruncata, non, ut desiderantur, integra relicta sunt; et admixtae sunt Novellae sequiorum in Oriente Imperatorum, nunquam in Occidente receptae; ideo Basilica haec exemplum magis illustre, quam exemplar perfectum praebent.
+
+§. 31. Conjungi tamen ex variis libris Parallela sic debent, ut non unum fiat Crama, sed in qualibet materia Diversitas Iurium, seu quid Digestis inductum, Codice suppletum: et ex his iterum velut compendio: Institutis repetitum, Novellis denique et Canonico Iure correctum sit, successive in conspectu esse possit. Adde infra §. 90. 125. 139.
+
+§. 32. Varietas Ordinis est, quod alia Iura, alium habent ordinem. Alius enim est in Digestis, alius in Codice, alius in Institutis, alius in Decretalibus, in Novellis vero et Decreto plane nullus.
+
+§. 33. Sed in Decretalibus laudandum, quod eodem ordine dispositae sunt, et Decretales Gregorii, et in sexto Bonifacii, et Clementinae, et Extravagantes tam Ioannis quam Communes; ubi sequentes collectiones neque alios titulos, neque aliam eorum seriem, quam praecedentes habent.
+
+§. 34. Haec varietas Ordinis tollitur sublata varietate Operum.
+
+§. 35. Sed quaeritur utrum opus, utri in commixtione sit accomodandum?
+
+§. 36. Et res ipsa loquitur, non caeteraInstitutis accomodanda esse, quia magnum parvo accomodari, sine nimia partium majoris divulsione, ac contorsione, vix congrue potest.
+
+§. 37. Nec Codici sed Digestis, quia in Digestis materiarum principia traduntur, in Codice tantum supplentur, et specialius, per titulos particulariores diducuntur.
+
+§. 38. Confusio Materiarum est vel Generalium vel Subalternarum; vel Specialium.
+
+§. 39. Materiae Generales sunt, in quas totum Ius dividitur, v.g. hoc modo: Generalia Iuris et Actionum, Personae[,] Iudicia, Iura Realia, Contractus, Successiones, Delicta, Ius publicum, Ius Sacrum etc. quam Dividendi rationem praxi et usu communi ob commoditatem receptam nos imprimis tenebimus.
+
+§. 40. Horum in Digestis et Codice ordo aliquis ad Edictum perpetuum compositus, et ita in fundamento similis; sed saepius interruptus, et non uno loco dispersus, tum quia Edicti perpetui ordinem hodie conjecturis tantum assequimur, tum quia Tribonianus regulam ejus sibi propositam non adeo religiose ubique servavit. Hanc confusionem monstravimus duobus separatis Schematibus, Calci Dissertatiunculae hujus subjectis, sub signis Q et j). Ex quibus et apparet, Divisionem Digestorum in 7 partes a Triboniano factam, uti per se arbitrariam, nec certo fundamento nixam ita instituto nostro commodam esse non posse.
+
+[p. 97] §. 41. Sed in earum quidem locum substituimus nostras novem partes ex rei natura sumptas jamjam §. 39. enumeratas; nihilominus tamen (quod ex Tabula collatoria ordinis vulgaris, et nostri aliquando ad oculum patebit) ordinem Digestorum principaliter retinentes, iis tantum quae a sede sua propria omnium confessione distracta sunt, ad eam reductis; ut singulatim Iura personarum, Iudiciorum item, Contractuum etc. uno certo loco [collata], quaerentem non amplius fatigent.
+
+§. 42. Materiae Subalternae sunt mediae inter generales et speciales, v.g. in materia Personarum generali subalternae sunt materiae: Potestatis patriae, Servorum, Libertorum, Matri[mo]niorum, Tutelae et Curae.
+
+§. 43. In Materiis subalternis retineri plerumque potest ordo Digestorum, v.g. in Digestis (interjectis licet aliis) materia Personarum eandem fere seriem habet, quam §. praecedenti posuimus. Nisi quod materia Libertorum et Manumissionum paulo serius ponitur.
+
+§. 44. Et generaliter observandum duximus, ut ordo Corporis Iuris vulgaris, retineatur et in Corpore Iuris reconcinnando, quantum fieri potest; idque memoriae et reflexionis ad ordinem vulgarem, et commoditatis in evolvendo causa.
+
+§. 45. Materiae Speciales sunt ipsi Tituli in Corpore juris, qui in specialiores non diducuntur, v.g. de manumissis vindicta, de pactis dotalibus etc.
+
+§. 46. Titulis autem aequiparandos duximus nova, sed necessaria ratione et Paragraphos [Institutionum] et Capitula Novellarum: Paragraphos quidem, tum quia uni saepe Paragrapho Institutionum, respondet integer Tit[ulus] Digestorum et Codicis, et ille hujus velut Summarium continet; tum quia nonnulli Commentatores ea occasione ad Paragraphos istos integras materias absolvere consueverunt.
+
+§. 47. Capitula vero Novellarum secundum Editionem Gothofredi itidem titulorum — instar et suis quaeque locis inseruimus, et peculiaria ipsis, prout aliis, Summaria dedimus, quia plerumque una Novella multa Capitula, ex variis materiis inter se sine connexione mixta continet; cum tamen eae ipsae Capitulorummateriae in RubricaNovellae vulgari, non plane enumerentur, sed adjiciatur saepissime Clausula illa Generahs: et aliis Capitulis.
+
+§. 48. Titulorum consideranda Conceptio, et Series.
+
+§. 49. Titulorum Conceptionem in Corpore Iuris improbarunt, novosque sibi titulos finxerunt Methodistae, v.g. de homine relat[iv]e spectato, de postestate privata, etc.
+
+::: editorial
+
+(zu S. 97) 6 collati E2 ändert Hrsg. 20 Institutarum E2 ändert Hrsg.
+
+:::
+
+[p. 98] §. 50. Hoc autem, licet per se non improbandum, in Reconcinnando tamen Iuris Corpore fieri nequit, sed retinendi sunt tituli Corporis Iuris. Alioqui corruerent omnia allegata Doctorum, in quibus semper citatur Lex et Titulus.
+
+§. 51. Series Titulorum Specialium in Corpore Iuris posita, satis bona est. V.g. in materia manumissionum retineri potest series Titulorum Specialium, quae est in lib. 40. Digest. et in lib. [7.] Cod.
+
+§. 52. Quia in ea non multum situm est, nec interest, v.g. an prius agatur de manumissione per testamentum, an de manumissione per vindictam.
+
+§. 53. Series enim Titulorum, non ad subtilitatem philosophicam sed commoditatem practicam exigi debet, quanquam ubi vel Nigrum plus Rubro continebit, vel illi inerunt aha, quae hoc amplius declarare possint, singularibus signis et charactere in ipsis Titulis][ admonebimus.
+
+§. 54. Post Confusionem titulorum sequitur longe major Confusio Legum. Legem appellamus: quamlibet propositionem vel enunciationem in Corpore Iuris principaliter positam, quae cum annexis, unam perfectam et per se stantem Periodum constituit, quo sensu et Paragraphi Legum communiter dictarum plerumque etiam sunt Leges.
+
+§. 55. Principaliter cum dicimus, excluduntur omnia quae indirecte obiterque ad aliud confirmandum probandum illustrandum apposita sunt; ea enim a principali etiam in Reconcinnatione divelli non debent, sed unam cum eo periodum Legemque constituunt. Alioqui sensus, et vis illationis imperfecta et mutila redderentur. Propositiones enim obiter emergentes singulas suis locis annotare, Indicis Alphabetici et Digestionis remissivae: non vero Reconcinnationis, sed Digestionis Leges justo loco in natura, et ut jacent, totas repraesentantis, opus est.
+
+§. 56. Confusio Legum est partim Dispersio, partim Perturbatio.
+
+§. 57. Dispersio Legum est, quod plures Leges eodem pertinentes non sunt positae in uno loco seu titulo; sed in diversis.
+
+§. 58. Interdum enim Lex, ad duos titulos heterogeneos pertinens, in alio ponitur, in alio non ponitur. V.g. in Tit. de jure dotium ponuntur Leges de pollicitatione, stipulatione, acceptilatione, usuris, usufructu, pignore dotium, etc. Tales et ad Titulum de Iure dotium, et ad Tit. de pollicitatione, stipulatione etc. referri possunt.
+
+§. 59. Hic dispersionis gradus est in toto jure frequentissimus, caeterum in tali casu, ea ipsa lex in uno titulo ponenda est in natura, et in altero tantum summarium ejus: illic verba integra exponenda, hic numerus tantum et verba legis initialia alleganda.
+
+::: editorial
+
+(zu S. 98) 6 in lib. 8. E2 ändert Hrsg.
+
+:::
+
+[p. 99] §. 60. Ponenda autem est integra Lex in eo Titulo ex quo ratio decidendi pendet, et cui magis propria est. V.g. si legis alicuius de stipulatione dotis decisio pendet ex natura stipulationis, et ita non solum in dotis, sed et alia v.g. poenae stipulatione obtinet, referenda Lex est ad Titulum de stipulatione, seu verborum obligatione; sin aliter, referenda ad Titulum de dote. Eaque in re magna cautio ponenda est, ne primariae saepe materiarum sedes alienis Titulis per occasionem inspersae loco non suo peregrinentur, fugiantque quaerentem.
+
+§. 61. Interdum Lex non ponitur in Titulo ad quem pertinet, sed in Titulo homogeneo. V.g. in Tit. Cod. de appellationibus ponuntur quae pertinent ad Tit. Cod. de temp. Apell. et contra. Huic dispositioni in jure, neque rarissimae, neque frequentissimae, faciliori negotio occurri potest.
+
+§. 62. Interdum Lex non ponitur in Tit. ad quem pertinet, sed in plane heterogeneo.
+
+§. 63. Adeo ut saepe multorum librorum intervallum intercedat Leges quae se tamen invicem explicant, supplent, limitant, ampliant, emendant, abrogant. Quas potius immediate sibi jungi deceret. Hoc dispersionis genus, ut rarius praecedentibus, ita emendatione maxime indiget.
+
+§. 64. Interdum unius Legis Paragraphi ad varios titulos pertinent. Quae omnia ita notoria et passim obvia sunt ut non indigeant demonstratione.
+
+§. 65. Perturbatio Legum est, quando eae quidem positae sunt in uno titulo; sed ordine confusissimo. Cujus rei specimen in Tit. ff. de Proc. itidem ad calcem adjecimus, sub signo $.
+
+§. 66. Quin imo de Legibus Titulorum disponendis Tribonianum cura quandoque vacasse luculenter monstrant duo illi de verb. signif. et Reg. Jur. Tituli ex professo Miscellanei, modo generalia modo specialia continentes, qui propterea et peculiari studio nostro magis parebunt.
+
+§. 67. Debent autem Leges quolibet Titulo disponi secundum Locos materiae Topicos, quales sunt: Forma Finis, Efficiens, Subjectum, modus causandi, objectum, effectus, contrarium.
+
+§. 68. Quo pertinent Circumstantiae: Quis, quid, ubi, quibus auxiliis, cur, quomodo, quando.
+
+§. 69. In compilando respiciendi quidem sunt loci Topici, sed potius exprimendae circumstantiae.
+
+**§70**
+
+. Nam popularius, clarius, accuratius tractabimus: Quis Procuratorem dare possit, quis dari, quomodo constitui; quid facere possit, quid debeat, quomodo esse [p. 100] desinat; quam si ejus formas, causas, effectus, subjecta, objecta, aliaque metaphysica ambigua et remota ingessisse accusemur.
+
+§. 71. Hactenus de Iuris Romani vitiis. Effectus horum Vitiorum sunt omnia illa mala, quae nunc in rem Iuridicam incurrere, quae omnia enumerare neque instituti nostri, neque spatii est.
+
+§. 72. Illud tantum quasi per saturam adjiciemus, a Confusione Corporis Iuris ortam esse et neglectionem Lectionis ejus; et, si quis eam forte accessisset, difficultatem reperiendi conjunctamque cum incertitudine ac molestia ex variis locis combinandi necessitatem.
+
+§. 73. Ab his porro ortum est, quod paulatim Doctores magis in foro attendi et in scholis citari coepere, quam ipsae Leges,
+
+§. 74. Praesertim cum Stylus eorum et Genus loquendi, et Exempla Casusque, Opiniones denique, nostro aevo accommodatiores iis appareant, qui parum solliciti sunt in indaganda Historiae antiquitate et genuinis verbis ipsarum LL.
+
+§. 75. Patefacta semel Doctoribus authoritate, coepere numerari sententiae, et e contra, crepari Communes Opiniones, imo Communes contra communes.
+
+§. 76. Ita Ius infinitum, incertum, imperceptibile, arbitrarium, antiquum denique chaos reddi clamarunt plurimi.
+
+§. 77. Et sunt quidam in ipsam Iurisprudentiam ejusque cultores contumeliosi adeo, ut jactare audeant, omnia pro, et contra defendi posse, nulla esse principia justitiae certa, quo nihil miserius, nihil ad perniciem Reipublicae validius.
+
+§. 78. Ut taceamus retardationem Iuventutis in Scholis, cumulationem Litium in Foro, acervum infinitarum allegationum non ipsarum LL. tantum sed et DD. eorumque opinionum in Libris, ex hac unica scaturigine duci quae, quanto magis nundinatim augentur, tanto magis jura confunduntur.
+
+§. 79. Atque hinc simul apparet, cur Nobiliora, et ad res gerendas nata ingenia, indignatione quadam, et velut nausea concepta, secessionem a Iure-Consultis jamjam moliantur, magisque inclinent juris naturalis et historiarum jucundiorem potius ductum sequi, quam haerere inter tot ambages obscuri juris.
+
+§. 80. Aliud haud dubie factura, si quis eis via secura brevique et amoenitatem Iuris Romani, et cum naturali ratione Harmoniam satis ac facile degustandam praebeat.
+
+§. 81. Quod non toties repetitis Disputationibus, perpetuis controversiis, praegrandibus commentariis, innumeris allegatis, animum generosiorem et ad alia properantem deterrentibus; [p. 101] sed rei ad ipsa principia reductione, accedente selectarum amoenitatum velut condimento, effici tandem speramus.
+
+::: editorial
+
+(zu S. 100) 12 qui (Kustosparum): non aeque solliciti E1
+
+:::
+
+§. 82. Haec enim copia nimia, hic torrens sisti non potest, nisi fonte obstructo id est sublata Iuris Confusione, quod unicum tot vitiorum remedium restat.
+
+§. 83. Confusio ea tolletur reductis, redactisque in ordinem ipsis Legibus, id est Corpore Iuris Reconcinnato.
+
+§. 84. Reconcinnationem bono cum Deo sic paramus: (I) „Retinebitur Textus Corporis Iuris, ut jacet, nullo neque dempto, neque addito, neque mutato."
+
+§. 85. Neque enim institutum nostrum est Leges excerpere, truncare, controvertere, applicare, Argumenta Textus abundanter nimis, et saepe minus ad propositum ex-: tendere.
+
+§. 86. Nec animus est Paratitla, Analyses, Syntagmata, Dispositiones, Ideas, Introductiones, Collegia, Exercitationes, et tot aha nomina condere, quae Autores Synthetici suis laboribus, sat laudabilibus hactenus indidere.
+
+§. 87. Nam si quisque sibi sumit Leges jam ex Digestis quidem, jam ex Codice digerere, nec tamen omnes exhaurit; nec ea tantum, quae manifestissime et in terminis dicunt, adfert; neque etiam a Controversus aut DD. sententiis abstinet; tum et multiplicatur res in infinitum, et nihilominus labor manet imperfectus.
+
+§. 88. Quia nulla perfectionis, nulla certitudinis spes est, quamdiu deest (quae hactenus defuit) Proba securitatis, quae nos dubitare non sinat, de omnibus Titulis, omnibus Legibus, omnibus denique Legum Paragraphis exhaustis, et in justum locum redactis.
+
+§. 89. Id vero praestabitur in Corpore Iuris reconcinnato, quod unicum infinitorum ejusmodi Paratitlorum Analyseon, etc. instar erit.
+
+§. 90. (II) „Libri [Corporis] juris in unam consonantiam jungentur, sic tamen, ut uno obtutu apparere possit, quid [ex] Codice vel Digestis etc. haustum sit." Adde quae diximus §. 23. —31.
+
+§. 91. (III) „Retinebuntur Tituli, seu Rubricae in Corpore Iuris jam extantes", per ea quae diximus §. 48. 49. 30.
+
+§. 92. Hi Tituli (IV) primum a nobis digerentur in Materias Generales velut partes principales juris universi et totius operis nostri, ad imitationem illarum 7 Partium, in quas ipsos Pandectas, quamvis sine ullo doctrinae vel memoriae juvamine hactenus cernimus divisos. Et erunt quidem hae nostrae partes numero Novem ipsi Ordini Digestorum perpetuo currenti ejusque rationi simul ac praxi receptissimae satis consentaneae, junctis tantum securitatis causa iis Titulis, Libris, Legibus etc. quos jam a principio jungi [p. 102] decuisset, quique non juncti, praesentem nunc nobis quam omnes plangimus generarunt obscuritatem; veluti: (I) Generalia Iuris et Actionum, (II) Iura Personarum, (III) Iudicia, (IV) Iura Realia, (V) Contractus, (VI) Successiones, (VII) Delicta, (VIII) Ius Publicum, (IX) Ius Sacrum. Vide etiam §. 40. supra.
+
+§. 93. (V) „Materiae generales digerentur in subalternas, ordine veteri Corporis Iuris partim servato, partim ubi opus, mutato“, per ea quae diximus §. 42.
+
+§. 94. (VI) „Materiae subalternae digerentur in Speciales, servato ordine vulgari Corporis Iuris”, per ea quae diximus §. 51. 52.
+
+§. 95. (VII) „Ordo Corporis Iuris vetus servabitur, ubi servari commode potest“, per §. 54. et §. 92. „In primis autem Digestorum, ita ut Tituli Digestorum Directores sint, caeteri ex Cod. Inst. Novell. Decretal. memoria locali quantum fieri potest invicem etiam servata, subordinentur“, per §. 36. 37.
+
+§. 96. (VIII) „Leges vel Paragraphi ad eundem titulum spectantes colligentur in unum“, per §. 56. seqq.
+
+§. 97. (IX) „Disponentur sub eo[dem] ordine naturali circumstantiarum“, per §. 67. 68. 69. 70.
+
+§. 98. (X) „Si Lex ad plures titulos referri potest, ponetur sub eo, ex quo pendet ejus ratio decidendi. Sub altero tantum citabitur per verba initialia“, §. 5.
+
+§. 99. (XI) „Res per Indices sic dirigetur, ut Tituli et Leges Corporis Iuris ita ut nunc a Doctoribus citantur, mutato licet ordine, etiam in Corpore luris reconcinnato facile inveniri possint.“
+
+§. 100. (XII) „Denique proba securitatis velut Arithmetica habebitur, quae in eo consistet, ut certo sciamus nullum a nobis Titulum, nullam Legem Paragraphumque omissum, omnia observata, digesta, suo loco inserta esse.“ Qua de re satis prospectum est per supputationem, et velut Arithmeticam calculi subductionem. De probae hujus forma infra §. 137.138.13g. 140. amplius.
+
+§. 101. Satis delineavimus quale futurum sit Corpus Iuris Reconcinnatum, id est: nihil aliud quam Systema Legum omnium, prout singulae in Corpore Iuris verbotenus jacent, et in natura reperiuntur, justo ordine digestarum.
+
+§. 102. Sed antequam integrae Leges ita digestae excudentur, praemittemus Repraesentationem Corporis Iuris Reconcinnati, velut Ideam, Schema, Diatyposin ordinis justi.
+
+§. 103. Idque imprimis ut aliorum Iudicia exploremus, ac si quae cordate et candide admonebuntur, re adhuc integra emendemus.
+
+[p. 103] §. 104. Publico vero calculo accedente et favore principali corroborante poterunt faciliori negotio ipsae Leges integrae (quem Scopum inde usque ab initio respeximus) verbotenus, eo quo repraesentabimus ordine, ipsis Typis, bono cum Deo, exhiberi.
+
+§. 105. Quo tamen labore nobis primario propositum est, non Corpus Iuris vulgari ordine conceptum e Scholis tollere, sed declarare; non authentica vi et approbatione fori privare, sed ad ipsam praxin accommodatius reddere; non omnem ejus authoritatem, et fundatas in eo Doctorum allegationes ac omnia eorum scripta hactenus divulgata uno quasi ictu evertere, sed ordinis splendore illustrare; denique illud efficere ut Corpus reconcinnatum veteris non Successor, sed Comes habetur.
+
+§. 106. In hac Corporis Iuris Reconcinnati Repraesentatione erunt quaedam principalia, quaedam Accessoria. Principalia erunt Legum Expressio, Legum Dispositio, Summarium Tituli, Proba securitatis.
+
+§. 107. Nam et enumerabuntur Leges, ut nobis videntur disponendae, et inseretur eadem opera disponendi Ratio Legumque Nervus; denique Proba adjicietur.
+
+§. 108. Ut ita Repraesentatio haec ab ipso Corpore Iuridico Reconcinnato non aliter differat, quam quod repraesentationi integra Legum verba desunt; etsi ea ita comparata sit, ut, qui velit, ipsas Leges in natura substituere non difficulter possit.
+
+§. 109. Expressio et Allegatio Legum omnis fiet et literis initialibus, et numeris: literis initialibus solis veteres[,] numeris solis plerumque moderni citant.
+
+§. 110. Prius molestiae, posterius incertitudinis causa est.
+
+§, 111. Sentimus hodie et conquerimur omnes, quam summe lubrica sit per numeros citatio, quam erroribus Typographorum et descriptorum lapsibus obnoxia, praesertim impressionibus Operum saepe repetitis vitia augentibus magis, quam tollentibus, in quibus nonnunquam vix tertiam allegatorum partem veram esse, evolventes non sine molestia experiuntur. Quae res maxime in praeclaris Dionysii Gothofredi ad universum Iuris Civilis Corpus notis deploranda est.
+
+§. 112. Ideo nos utramque, et per numeros et per initialia verba citationem perpetuo conjungemus; et in numeris ipsis citandis nova quadam, et hactenus non visa, commodissima tamen, et securissima ratione utemur, omni lapsus metu, et revidendi necessitate praeclusa.
+
+§. 113. Sed quoniam in variis Iuridici Corporis editionibus Leges varie numerantur, inchoantur, dividuntur; quod in Paragraphis Legum imprimis elucet, olim plane non numeratis, sed ex Allegantium arbitrio distinctis; ideo semel in universum profitemur editionem Corporis Civilis Gothofrediani a nobis perpetuo respectam esse. Haec enim caeterorum editorum omnium Haloandri, Hervagii, Hugonis a Porta, Torrentini Pandectarum [p. 104] Florentinarum primi Emissoris, Russardi, Contii, Baudozae etc. luminibus offecit; et elegantia et commoditate princeps.
+
+§. 114. Etsi hanc quoque (adde §. 111.) appareat laborare quibusdam naevis; sic in Distinctione Paragraphorum vel versuum debuisset toties inchoari et numerari novus, quoties novus casus nova periodo decidi incipit; quod tamen cum factum non sit, auxit operis nostri difficultatem. V.g. in l. filius familias, 8. [D. de Procur.] principio quatuor periodi ponuntur; prima continet: Filius Familias ad agendum dare procuratorem potest; secunda: item ad defendendum; tertia: item Filia Familias ad agendum; quarta: Filius procurator dari potest. Cum autem in Digestione necesse sit separari eum qui procurator dari potest, ab eo qui eum dare potest; manifestum est, Quartam minimum periodum, peculiarem Paragraphum constituere in numerando et inchoando, debuisse.
+
+§. 115. Apparet autem Varietas editionum in Novellis maxime, has enim Veteres aha prorsus ratione, et ut ipsi vocant per Collationes et Titulos diviserant, Capitulis etiam peculiari rubrica carentibus, et in Paragraphos commutatis; quam ad rem opus erit peculiari Indice ac Schemate comparationis, suo loco producendo.
+
+§. 116. Praeterea Novellas quasdam veteribus ignoratas primum Iacobus de Bello Visu, deinde Haloander, Scrimgerus, Cujacius, et ad extremum Contius addidere, donec in hanc formam excrescerent, qua nunc utimur. Unde factum est, ut aliae Novellae Latinae tantum, aliae et Graecae habeantur; ut taceamus varie a variis Rubricas concipi, aliter enim Vulgata, aliter Haloandrina, aliter Index Cujacio adhibitus, Novellarum Capitulorumque inscriptiones expresserunt. Quae omnia a nobis suo loco exhibentur.
+
+§. 117. Et haec de ratione enumerandarum atque exprimendarum Legum in repraesentatione Corporis Iuris Reconcinnati a nobis facienda, quae tamen non cruda et nuda erit, sed una eademque opera et ratione disponendi per locos, et circumstantias (vid. supra §. 66. 67.) et ipsius Legis velut nervo et summario vestita.
+
+§. 118. Non tamen ea allinemus quae Lex per consequentiam tantum dicit; hoc enim ad Controversias et Notas pertinet; neque quae obiter dicit, id enim Indicis est; sed quae ex professo dicit, ita ut ipsa integris verbis huc transferri possit.
+
+§. 119. Talia Summaria Legum ejusdem prope brevitatis erunt cujus Gothofrediana; sed quod Gothofrediana non faciunt, integrum sensum constituent. Gothofrediana enim summaria tantum indefinite concepta sunt, et Rubricae potius vel Indicis, quam Summarii rationem habent, quod contra est in nostris.
+
+§. 120. Verbi gratia: Leges quaedam, Procuratoris Causam efficientem continentes a nobis sic proponuntur: Procuratorem dare potest filius, et filia familias, l. Filius familias, 8. princ. l. servum, 33. princ. D. de Procurat. qui de statu suo litigat, §.Eum [p. 105] vero, 1. Patronus contra Libertum, et e converso, in judicio ingrati; l. Sed et hae, 35. §. Patronus. Non potest: servus, l. Servum, 33. princ., non populari judicio agens, nisi ejus interest, l. Licet in, 42., non Tutor, et Curator, et Procurator nomine principalis, nisi litem contestatus, l. Neque Tutores, ii. C. eod.
+
+§. 121. Gothofredus vero easdem Leges sic summat: De filio, et filia familias, l. Filius familias, 8. princ. D. de Procurat. De pupillis, adultis et eorum Tutoribus, et curatoribus, l. Neque Tutores, ii. C. eod. De servi et filii familias Procuratore, l. Servum quoque, 33. princ. D. eod. De eo qui de statu suo litigat, d. l. Servum quoque, 33.§. Eum vero 1. De liberti ingrati accusatione, l. Sed et hae, 35. §. Patronus 1. ad quas actiones procurator dari potest (addi debuisset: de actionibus popularibus, quae solae in ea Lege tractantur); l. Licet in, 42. princ.
+
+§. 122. Sed Gothofredus vix potuit aliter, nisi voluisset Summaria sua nimis excrescere, quia eadem alias saepissime repetere debuisset, ob Leges, licet eodem tendentes, in ordine vulgari varie dispersas.
+
+§. 123. Nobis vero, redactis in ordinem Legibus, eadem brevitate multo plus complecti licuit, quia ob rerum sibi recte connexarum seriem possumus idem praedicatum multis subjectis simul collectis, vel e converso, praefigere, ut ita singulari compendio et claritate tota Sententia emergat, quod in exemplo praemisso patet.
+
+§. 124. Sed praeter summaria Legum, ex ipsa earum repraesentatione et dispositione velut aliud agendo emergentia, praefigetur cuilibet Titulo Summarium tituli ipsius, idque a Legum Summariis tum forma differt, tum magnitudine.
+
+§. 125. Forma, quia Leges ejusdem materiae ex Digestis, Codice, Novellis inter se jungentur; sed Titulis Dig. et Cod. Capitulis item Novellarum separata singulis Synopsis praefigetur; idque ut in ipsa commixtione Iurium (veteris, novi, novissimi) originis diversitas elucescat magis, de quo supra §. 31. et 90.
+
+§. 126. Magnitudine, quia in Summario Tituli una saepe Sententia plurimarum Legum nervus continebitur, v.g. in exemplo proximo Summarium tituli hoc tantum dicet: Procuratorem dare potest in rebus suis qui praeesse iis jure potest; in alienis liber homo ex speciali mandato. Ex quo omnes illae Leges §. 120. enumeratae, et plurimae aliae ibi omissae sponte fluunt.
+
+§. 127. Necessarium hoc est, ne dispersus per speciales Legum casus animus rem difficilius ad universalia revocare possit, cum tamen ad solide judicandum, et scientiam consequendam nihil sit universali regula optabilius.
+
+::: editorial
+
+(zu S. 105) 6 familias, 5. E1
+
+:::
+
+[p. 106] §. 128. Complectuntur autem Summaria: Tituli vel capituli continuationem, Rubricae explicationem, Materiae denique principia.
+
+§. 129. Continuationem Tituli inseruimus quam is habet in Corporis Iuris ordine vulgari, sicubi ea singularis, nec statim obvia est, quia ex ea apparet, quam varie idem titulus variis materiis applicari possit, et ipsa memoria localis, ac reflexio ad ordinem vulgarem tanto melius excitatur.
+
+§. 130. Ita tamen, ut ab anxiis quibusdam et longius petitis methodi Iustinianeae excusationibus, quas Oeconomiarum, Tabularumque Scriptores (a nobis suo loco referendi) in minime quibusque salvandis, ex professo susceperunt, abstinebimus.
+
+§. 131. Complectemur quoque Explicationem Rubricae, quam eum in finem in partes secuimus, ut singula verba, cum merentur, commodius illustrare liceret.
+
+§. 132. Ea occasione][ vocum Etymologiae notabiles, Definitiones item et Homonymiarum exclusiones, ad intelligentiam Tituli necessariae accesserunt: nec omissi sunt Ritus veteres, sicubi ad intelligentiam termini requirebantur.
+
+§. 133. In summariis Tituli exponemus principales ejus regulas, et velut Principia Materiae, unde decisiones casuum omnes pendent.
+
+§. 134. Hinc necessarium duximus ea imprimis in illis annotare, quae non naturali ratione et aequitate constant, sed arbitrio Legislatorum sunt recepta; quia talia memoriae sunt, non judicii: atque ideo diligenter animis imprimenda.
+
+§. 135. A Controversiis vero abstinuimus, purum hunc luris fundum, quasi purgatum quoddam Novale, omnis generis frugi serendae accommodatum, omnibus praestituri.
+
+§. 136. Allegata Legum summariis Tituli non inseruimus, quia ipsae Leges iis subjectae et per notas quasdam applicatae, eam vicem sustinebunt.
+
+§. 137. Proba Securitatis denique Repraesentationi adjicietur, ea erit tam particularis quam universalis:
+
+§. 138. Particularis praefigetur cuilibet Titulo, ac separatim Titulo Digestorum, separatim tit. Cod. etc. quia nihil aliud erit, quam recensio omnium Legum, et Paragraphorum tituli eo ordine, quo in ipso vulgariter jacent; et ostensio in singulis facta, quod et quo loco a nobis nostrae Reconcinnationi sint insertae.
+
+§. 139. Qua ratione, et certi erimus de toto titulo exhausto; et apparebit, quid a nobis in qualibet materia ex Digest., quid ex Cod. etc. sumptum sit, de quo supra admonuimus §. 31. 90. 125.
+
+§. 140. Proba Universalis subjicietur operi universo, quae universalem omnium Legum secundum ordinem vulgarem recensionem, et ad ordinem novum applicationem [p. 107] St,3fB - RATO WWW JTOS; ggffifiMgtgggffiïi: w 'i l 11 'ti3j|^" J( ff'P}i' '*'ƒm^|■]fpj|[|'IJ^'1^*1 i' 1 1 l^i^'}'Ijii5^t,,,,^,i0 }]Ç|' ^i'l'f^i'' «l 1 i^y'i^>1^''lj' i'11 "Ì7ií'fï|1 thííI: XiSgfíSi 5ffiä3sndlHinffli ®ttdti®®tßi, C.-w^öriffli '’ïWifew*® sa 8tattońbnß iîitatetÄj,s'Wítoi.tewntiiLBfîS88ftfc Ct iu 1kMMNfe Adii,$'..$$.. SS®.
+
+|, Kk|pc.. Ha«. litora' fiiïm<£:i,j!allïi,'t«a' ftmaWMMMBt <&5W»tm ïlWffif:ßi Bw»- li-, 14)Ä.. AcnSHNmlMB]M^ jjartimm. wil 'um,iiwrsuia apptìcalbmwJw f. x43. tou qpete' Bdmteam a« sauMntau Bwtotewafc:: <Xwiwtt«WL'*t«u 'ffisatti. uatWím. Rubricam,, Actiones «x eo Multo» dfoewitte JctnKwo-ia.aägtt«^dáwssíS;KA'ÄKa:,'ìii!»’. lm» Conceptionem.Caáfo"s; a JWfewÉöfcbfc. qpm«$|tiM!:ita.«w»-mtatoA «ÄMJ»Watete«; dii ferent i ae item luris retenu, nova tWMsama, fWite. tí ÍT^JiitÄîífi-: ÌW» X'MÌÍ«:'Kteít- Hcnxun.]Lcctïoiiies, variae earamtan. «am afife RWfecogjati'tSflta««., «,dfiftwÄÍW: «al Trhtomm Indices alphabeti«, rartwnun uurtMtam«. ï»4ihiínwni‘«tt., «i,liiit|ijiuhjjitw',. wm, rationem Schemata et Tabulae sepÄwAwJssi «mata ist tim* wdMâaON» harmoniam inter se, IhdAnem ©rdiasiìs Cmfewifc totam «tab imfonuo. .MtíifioKîtow«, Ratímem, qpoqpm jiiisÄaterifäi», »-iäiaäisi wa<iü.sd»:5:aîi^ ategrib titaüs pecnfiiam, modo Autores,,, qui materias e<g®i&,ta.3 5ünf(jid}teiiteit»i mMim «Nb plexí sant, adjiciente!,, quae ns. parvae aqjvstaMi BÌMÌeÄwsft JwÄWS! wt «m.tndMt.
+
+5,144. Legibus juxxmrarr ÂnitìaomîaMin,, C®aeÄi<«it:îte»«i,, moram, Suborfänatiamm,. Mtefeatfeamn. matanttum taMmtom quam, Sot warn m Saw» Seritur» nec Cap, Panfi. U)1jémä caesteîomnï,q.W: IC*»«* vetswE» «om Cato Theodosianus, nec Kömbtt®» ssfsànt» in Gweeia «ROm’ Í9Äí« (qiMKH» ultima editio, GatboHo, posterior nova mnfta «fictae pM| «M: dii Legum veterum ac Recentiorum celebriorum* UM K^l<vntw,
+
+|. J45- Ifl ipsis autem. lustinìansis. legibus ifeÄ8fttìaw»g»atom* pwSÌfMi^mta «cpfteustttur, ut appareat quae Leges, sint magk n«e?ssatm\ ae vetat Stete«, wil »tà«« materiarum, quae utiliareset aßmmiH&1r4MM; contra, qua* dilMh«, et ut quidam wwAiwt quae minus usitatae, quae plane aimant«®; unde «adii?» «p», iiÄswäBitiÌh Theoriae et Ptaatws elucebit.
+
+|. t46, Circa Materias ideae quaedamet Synopses, fa sbftlfe >«Ä«s cöfflpeBdiôg® a stete exhibebuntur; ite, praesto «it brevissima sywapste juri» wiwsì» Magtetntt11un,Poenarum,Delictorum.,Processus,Actionum, MatiimMfai«!»,Gmtmshnim, Feudattuffl ete,
+
+[p. 108] §. 147. Huc et Recentiorum quarundam famosarum Legum, uti Nemeseos Carolinae, Constitutionis Maximiliani de pace publica: item de Notariis etc. illustratio, et repraesentatio referetur.
+
+§. 148. In his igitur diversis selectis et curiosis nova quadam ratione veri ac varii ut sic dicam Tractatus Tractatuum Veterum et Recentiorum velut in nucleo exhibebuntur, et hodierna jura ac mores quasi in tabula apparebunt, suamque cum veteribus harmoniam ostendent, quod in jure quoque publico et utile erit, et jucundum.
+
+§. 149. Lucem denique Universalem Toti inferent omnia Schemata, Indices, Ideae, Synopses, Tabulae per varias materias titulosve diffusae. Quales plurimae jam praeparatae sunt, et sub manibus indies nascuntur, applicantes jus nostrum ad jus naturae hodie per Grotium et similes alios resuscitatum; ad jus Divinum, Theologiam, Historiam, Geographiam, Philosophiam, Philologiam, Oeconomiam, Politicam, Rem militarem, Medicinam, Mathesin, Poësin quoque et rem Metricam variis carminibus hinc inde insertis, et memoriae utilibus, et Lectioni jucundis, materias et titulos juris nostri illustrantibus.
+
+§. 150. Erunt forte qui nos in Aula et apud Iudicia suprema versantes, tantum nobis sumere mirabuntur, sed hi sibi persuadeant: animos ad universalia respicientes, et omnium Harmoniam attendentes, et variorum Authorum instituta, et methodos inter se comparantes facile commoditates quasdam advertere potuisse, quibus difficultates etiam insuperabiles vulgo visae complanentur.
+
+§. 151. Credant potius, nos tot scientiarumAffinitates non ad ostentationem, verum ad condimentum imo et complementum junxisse, quo sane carere non possumus, si quam, et vel maxime nostram hanc juris ac justitiae, ne dicam universalis, artem perfectam appetamus.
+
+§. 152. Ita habes, Benevole Lector, Instituti nostri in antecessum quidem, et Rationem, et Formam; videbis facile, si Tibi Librorum hujus temporis cognitio est, Rem, si vota omnium spectes, veterem, si executionem, imo et si ipsam Ideam et modum consideres Novam.
+
+§. 153. Ubi si quae adhuc obscurius dicta videntur, sententiam contine, usque dum Opus ipsum introspexeris; cui quaedam reservanda fuisse, ipse facile cogitabis.
+
+§. 154. Hoc interim contestamur sincere, nos, quibus et majorum continua Doctrina, et studio nostro honeste vivere concessum est, non alio stimulo impulsos fuisse, quam nostra haec statim ab ingressu cursus Iuridici agitata, publico communicandi lubentissime; gratulaturi nobis, si modo hunc velut Indicem puri denique ordinatique Iuris nostri videbimur subministrasse.
+
+[p. 109] §. 155. Omnem sane operam ac Laborem impendemus conatibus hisce nostris in lucem proxime emittendis, quantum gratia Coelestis, quantum principalis indulgentia affulserit, quantum denique concesserit valetudo. Tu tantum, Lector optime; quae probas, ne carpe, quae improbas, his meliora admone, agnoscemus et assentientis Candorem, beneficium et emendantis; stimulabimurque ad alia aeque nova, ac praeparata (horum modo fortunam exspectantia) producenda.
+
+§. 156. Summis vero illis ac Terrarum Moderatricibus Animabus nobiscum a DEO et perpetuam pacem inter se, et in ea justitiae, ad Theodosii, Iustiniani, Imperatorum vel uno hoc conatu famae aeternitatemmeritorum exemplum, restituendae otium curamque: nobis vero et Earum in labores nostros propensionem constantem et valetudinem secundam precare; ac quando hoc unum superest, Vale.
+
+## APPENDIX.
+
+Schema I.
+
+Sub Signo Q. pertinet ad §. 41.
+
+Digestorum Partes: Libri: Series: Tituli:
+
+I. (1.) Generalia 1.-4.
+
+Personae 5-7-
+
+Realia 8.
+
+Jus publicum 9.— 22.
+
+(2.) Judicia 1. - l3-
+
+Contractus l4. 15.
+
+(3.) Judicia 1. 3. 4. 6.
+
+Delicta 2.
+
+Contractus 5.
+
+(4.) Generalia
+
+II. (5.) Judicia 1.
+
+Successiones 2.-6.
+
+(6.-10.) Realia (11.) Judicia 1. 2.
+
+Realia 3.-8.
+
+[p. 110] Digestorum Partes: Libri: Series: Tituli:
+
+III. (l2.) Contractus 1. 4.-7.
+
+Judicia 2. 3- (l3.-I9.) Contractus
+
+IV. (20.—22.) Contractus 1. 2.
+
+Judicia 3. — 6.
+
+(23.-27.) Personae
+
+### V. (28.-36.) Successiones
+
+### VI. (37.) Successiones 1. - l3-
+
+Personae l4-15- (38.) Personae I.-5.
+
+Successiones 6.— 17.
+
+(39.) Realia 1. 2. 3.
+
+Jus publicum 4.
+
+Contractus 5.
+
+Successiones 6.
+
+(40.) Personae (41.) Realia (42.) Judicia (43.) Realia (44.) Generalia 1. -5. 7.
+
+Judicia 6.
+
+### VII. (45. 46.) Contractus
+
+(47.) Delicta (48.) Delicta (49.) Judicia 1. - I3.
+
+Publica 14.— 18.
+
+(50.) Publica 1.- l5.
+
+Generalia 16.17.
+
+[p. 111] Schema II.
+
+Sub Signo ([. pertinet itidem ad §. 41.
+
+Digestorum Libri: Libri Codicis Series Cod. Tituli Cod.
+
+I. (1.) Jus Sacrum 1.- 13.
+
+Generalia 14.-17. 23.
+
+Judicia 18.— 22. 44.
+
+Jus publicum 24. - 43.46.47.
+
+Judicia 44.45.48.-54.
+
+Jus publicum 55.- 58.
+
+II. (2.) Judicia 1. 2.
+
+Contractus 3. 4. 5.
+
+III. Judicia 6.- 18.
+
+IV. Generalia I9—. 54.
+
+Judicia 55—. 58.
+
+V. (3.) Judicia ..— 27.
+
+Successiones 28.— 31.
+
+VI.-XI. Realia 32.-38.40.-44.
+
+Judicia 39.
+
+XII.-XIX. XXI. XXII. (4) Contractus 1.-9.
+
+Generalia 10.— 17.
+
+Contractus 18.
+
+Judicia 19. — 22.
+
+Contractus 23—. 58.
+
+Publica 59—. 63.
+
+Contractus 64.- 66.
+
+XXIII.-XXVII. (5.) Personae 1.-52-54.- 75.
+
+Judicia 53.
+
+XXVIII.-XXXVIII. (6.) Personae 1.- 8.
+
+Successiones 9—. 37.39— 62.
+
+Generalia 38.
+
+XL. (7.) Personae 1. — 24.
+
+XLI. Realia 25—. 41. [p. 112] Digestorum Libri: Libri Codicis Senes Cod. Tituli Cod.
+
+XLII. XLIX. Judicia 42.- 75.
+
+XLIII. (8.) Realia 1.— 10.
+
+Publica 11. 12.
+
+XX. Realia I3. - 34.
+
+XLIV. Generalia 35.
+
+Judicia 36.
+
+XLV. XLVI. Contractus 37. - 45.
+
+Personae 46.— 48. 51.
+
+Jus publicum 50.
+
+Generalia 52.
+
+XXXIX. Contractus 53.- 55.
+
+Successiones 56.-58.
+
+XLVII. XLVIII. (9.) Delicta (10.) Publica
+
+### XLIX. L. (11.) Publica
+
+(12.) Publica
+
+Schema III.
+
+Sub signo pertinet ad §. 65.
+
+Speculum Legum Confusarum,
+
+Exhibitum in Tit. Dig. De Procuratoribus.
+
+Vulgaris ejus Tituli ordo huc redit: ponitur in Lege 1. Definitio, Objectum, Modus causandi, Finis, Modus causandi. Lege 2. Subjectum, Modus causandi, Subjectum. Lege 3. Objectum, Tempus. L. 4. Tempus. Lege 5. 6. 7. Modus causandi. L. 8. Efficiens, Modus causandi, Subjectum, Effectus, Contrarium. L. 9. 10. ii. Contrarium. L. 12.13. Contrarium et Effectus. L. 14.15. Effectus contra Procuratorem, pro Adversario. L. 16. Contrarium, Effectus pro Domino contra Procuratorem. L. 17. Idem. Effectus pro Procuratore. L. 18. 19. 20.21.22. 23.24. Idem. L. 25.26. Modus effectuandi. Effectus pro Domino contra Procuratorem. L. 27. Effectus contra Dominum. Modus effectuandi. Effectus pro Adversario. Effectus pro Domino contra Adversarium. L. 28. Idem. L. 29. Effectus pro Adversario contra Dominum. L. 30. [p. 113] Effectus pro Procuratore contra Adversarium. Lege 31. Effectus pro Adversario contra Procuratorem, et pro Procuratore contra Dominum. Subjectum, modus causandi, contrarium. L. 32. Modus causandi. L. 33. Efficiens, subjectum. efficiens. subjectum, cognata. L. 35. 36. 37. 38. Effectus contra Procuratorem. L. 59. Idem. Modus causandi. L. 40. Objectum. modus causandi. cognata. L. 41. Subjectum. L. 42. Objectum. Effectus pro et contra Dominum et Procuratorem. Subjectum. Efficiens. L. 43. Efficiens. Subjectum. Efficiens, Effectus contra Procuratorem. L. 44. Idem. L. 43. Idem. Efficiens. Effectus contra Procuratorem. L. 46. Efficiens, modus causandi, cognata. Effectus pro Domino contra Procuratorem. Effectus pro Procuratore contra Dominum. Subjectum. L. 47.48. Subjectum. Effectus pro Procuratore contra Adversarium. L. 49. Effectus pro Adversario contra Dominum. L. 50. Effectus pro Domino contra Adversarium. L. 51. Cognata. L. 52. 53. 54. 55. Effectus pro Procuratore contra Dominum. L. 56. Effectus pro Procuratore contra Adversarium. [L.] 57. Effectus pro Procuratore. L. 58. Idem. L. 59. Idem. L. 60. Idem. L. 61. Effectus pro Adversario contra Procuratorem. L. 62. Effectus pro Procuratore, contra Adversarium. L. 63. Idem. L. 64. Cognata. L. 63. Modus causandi. L. 66. Effectus contra Dominum. L. 67. Effectus contra Procuratorem. L. 68. Effectus pro Domino contra Adversarium. L. 69. Effectus pro Domino. L. 70. Cognata. 71. Objectum et Efficiens. L. 72. Effectus pro Domino contraAdversarium. L. 73. Effectus proAdversario. L. 74. Efficiens. L. 73. Modus causandi. L. 76. Cognata. L. 77. Idem. L. 78. Idem Effectus pro Procuratore contra Adversarium.
+
+FINIS.
+
+## 31. AD OCTAVII PISANI LYCURGUM [1668-1670 (?)]
+
+Überlieferung: L Konzept: LH II 5, 10 Bl. 1 —4. 2 Bog. 2°. 63/4 Sp. Die unteren Ränder von Bl. 3—4 beschädigt. Einige kleinere Korrekturen. Anfang Bl. 2v0, Überschrift
+
+Bl. 1rº, Ende Bl. 3r0 rechte Spalte. Papier für das CJR.
+
+Das Buch Pisanis, 1618 unter demTitel: Le Leggi per lequali si fa vera etpresta giustizia senza spese in Antwerpenveröffentlicht, istnach seinerAngabeinder,,Vorredean den Leser“ auchin spanischer, französischer, niederländischer, englischer, deutscher und polnischer Sprache erschienen. Es liegtunsin einerlatei nischen und deutschen Übersetzungvor, dieF.M.van Helmontbeide angefertigthat. BeideÜbersetzungen brachte derDrucker undVerlegerAbrahamLichtenthalerin Sulzbach 1666 heraus unter den Titeln: 1. Lycurgus Italiens. Leges per et juxta quas fit et administratur vera, promta et expedita Iustitia sine expensis et molestiis litigantium ... Italice collectae per Octavium Pisani ... 2. Der Italienische Lycurgus. Gesetze und Ordnungen,Durch undnach welchendie Rechte und SchleunigeGerechtigkeitverfügt wird OhneAdvocaten, Procuratoren, Processen,Rathgeben undinterlocuten... Italienischzusammengetragen, DurchOctavium Pisani 8 LEIBNIZ VI. 2. [p. 114] Geburts- und Todesjahr des Verf. sind unbekannt. In dem Prooemium ad virum bonae conscientiae sagt er, daß er schon seit 30 Jahren „Doctor Legum et Aulicus“ sei. Leibniz rühmt die Schrift in Helmonts Übersetzungen schon 1666 in der Nova Methodus (VI, 1 S. 300 u. 345), und zwar, wie in den beiden Anfangszeilen hier, als eine der Quellen für eine Jurisprudentia legislatoria. Aber erst die vorliegenden, von kritischen Bemerkungen begleiteten Auszüge, die in der Seitenzählung der deutschen Übersetzung folgen, zeugen von einem eindringenden Studium, das Leibniz jedoch schon im ersten Viertel des Buches abgebrochen hat. Nach sonstigen lobenden Hinweisen (unten S. 405; IV, 1 S. 561 u. I, 1 S.58) findet sich bald darauf in dem Brief an J.H.Boecklervom 12./22. Okt. 1670 (I, 1 S. 104) der Vorwurf der Wirklichkeitsferne des Lycurgus, die als Grund für die Beendigung der Lektüre angesehen werden kann. Dieser kritischeren Beurteilung entsprechen die späteren Änderungen der erwähnten Hinweise in der Nova Methodus (VI, 1 S. 300, 23f. u. S. 345, 36—37). Die Abfassungszeit des Stückes kann nicht vor dem Sommer 1668 liegen, da es auf Konzeptbogen für das CJR geschrieben ist. Andererseits setzt die kritische Bemerkung in dem genannten Brief an J. H. Boeckler eine genauere Kenntnis des Lycurgus voraus. Es kann daher angenommen werden, daß das Manuskript in der Zeit zwischen 1668 und 1670 geschrieben worden ist. Leibniz* Bemerkungen sind von ihm in (+ . . . +) gesetzt. De Jurisprudentia Legislatoria, consulendi: Moses, Plato, Aristoteles, ICti Romani, Jura Canonica, Cusanus, Cardanus, Pisani, Campanella, Verulamius, La Cour, de la Haye, Feldenus.
+
+## Praefatio
+
+Agit de poenis multum, de praemiis parum[,] silet de damno culpa dato, parum distinguit culpam a dolo non satis urget communitatem non caret advocatis et praesidentibus, quos proscribit. Partes: 1. de Judicio humano
+
+2. de Judicio divino seu examine conscientiae.
+
+civile de contractibus futuris
+
+Judicium humanum est morale de delictis futuris criminale de delictis factis de contractibus factis nullum Inquisitio Romana caret advocatis et procuratoribus (+ scil. quorum intersit obtinere +). Idem ubique introducendum. p. 3.
+
+::: editorial
+
+(zu S. 114) 18 La Cour, d. i. Jan de la Court (SV. N. 265). 18f. de la Haye (eingefügt), wohl derVerf. von: La Politique civile et militaire des Vénétiens, Paris 1668, Cologne 1669.
+
+:::
+
+[p. 115] Signum injustitiae loci, insignis advocatus. p. 4. (+ ut signum egestatis, insignis monopolista. +)
+
+Judex videre rem potest sine advocato. p. 5. (+ quidni cum ita fiat in criminalibus passim modo in civilibus quoque examina, et non testium tantum sed et principalium interrogatoria adhibeantur. +)
+
+Advocati procuratoresque removendi qui vivunt partium salariis. p. 5. (+addo etiam a magistratu salariatos hoc mali habere quod potentes sunt apud clientes, optabunt ergo potentiam suam diu durare ergo et processum. Idem et judici objici potest. Cui malo necessario ut occurratur tum potentia minuenda divisione in plures. Bonum hoc eis alio malo pensandum. Divisio in plures est vel pro diviso vel pro indiviso. Pro diviso, ut alius facti, alius juris, etc. arbiter sit, sed efficacius pro indiviso, si simul audiant plures. Quoad eius fieri potest, efficiatur, ut judex et advocatus ordinarius vel ignoret personas etiam praesentes, vel sit ab iis absens, quod fieri potest in puncto juris vel interdicatur ei imposterum vel ad tempus omni cum iis commercio. Ut scilicet justitia quoad possibile est in impertinentibus fiat caeca. Compensatio contraria esse potest, ut cum ipsi sint salariati ex publico inquisitionis sumtus ipsi sustineant. +)
+
+Loco Notariorum et malae fidei testium omnibus contractibus Magistratus interveniunt. p. 6. (+ contractus sunt actus quibus damna ferunt volentes, id est ob aliud lucrum. Delicta, quibus inviti. +)
+
+Magistratus non curent tantum an velint, sed an prudenter velint partes. p. 7.
+
+Non debet licere partibus litigare quamdiu volunt. p. 7. (+ nec quomodo volunt. +)
+
+Inventionibus terminorum novorum omnia obscurantur a Legistis. p. 7. (+ Cum non nisi dolor et voluptas propria cuiquam possint esse physice, debent etiam sola propria esse politice. +)
+
+Litigandum ante[,] non post contractum. p. 8. (+ uti non ager, sed semina stercoranda. +)
+
+Esto Archivum (+ quasi instrumentum quaerenti gratum universale +) quod contineat paratam executionem[,] adde (+quia contrarium non debet posse probari testibus +) perpetuum silentium.
+
+Inquisitores seu inspectores pacis qui contractum examinant. p. 9.
+
+Aestimatores qui rerum pretia definiunt. p. 9.
+
+Nulla obligatio, contractus, actus dandi et recipiendi nisi per magistratus. p. 9. (+ excipe minoris momenti, in quibus statim solvendum utrinque. +)
+
+Processus plerumque non veris rationibus sed calliditatibus obtinentur aut amittuntur. p. 10. [p. 116] Ex duabus injustitiis eligenda est minor. p. 11. (+ id est proprie loquendo: minor non est injustitia, quia necessaria. +) Judices sint Advocati. p. l2. sed utriusque. (+ ita praetor erat apud Romanos. +) Unius scelerati interventus optimam conversationem turbat. p. 13. Scelerati aestimantur, nam metuuntur, quia possunt nocere impune. p. 14. Die criminal-gesez und bücher sind also mit bedingungen und limitationen erfüllet, daß endtlich alles auff des richters guthachten hinaus laufft. Ist also die menge der bücher vergebens. p. 14. (+ habent usum libri quia suppeditant interrogatoria sine labore colligendi sed si formata essent certa interrogatoria posset libris careri. +) Periculosumest in Republica admitti mutationem poenarum corporalium in pecuniarias, quia ita divites et familiae potissimum periclitantur, idque in Italia inprimis usu venit. p. 15. Ut medicina non potest impedire mortem et vulnera, ita jurisprudentia (judicum et testium) fraudem et vim. p. 15. Homo debet Deo fidere, suum agere, si nihil succedat, patientem se praestare. p. 16.
+
+::: editorial
+
+(zu S. 115) 8*
+
+:::
+
+Iudicium Civile de contractibus est circa immobilia et mobilia. Immobilia in Archivo exacte et cosmographice delineata eorumque reditus, onera, possessores et familiae annotata esse debent. p. 17. Nihil Archivo inscribendum quod non sciant omnes 6 ad Archivum pertinentes. p. 18. (+ id ita fiat si pars verborum per unum quemlibet scribenda, ab uno vox prima, ab altero 2da etc. +) (+ Parum abest quin dicam, chartam armorum instar vetandam[,] innumerabiles enim fraudes chartae ope comminisci licet. +) (+ Chartae veteres non comburendae, sed novae chartopoenae immittendae. +) Archivum nemo ingredietur, nisi sex custodes archivi, et quatuor conservatores pacis seu inquisitores. p. 19. Altera Camera vicina Archivo habet 4 inquisitores, et sex aestimatores. p. 19. Inquisitoribus videndum tum an pretium mutuo aequale, tum an utrumque tam res quam pretium liberum et solubile. p. 20. (+ adde tertium an consulto faciat uterque, potest enim res pretium mereri, sed mihi esse inutilis. Et ita jungendus est aestimatori et Archivario censor. Non opus est inquisitore, hi tres sufficiunt. +) Puniendi qui contractum dolosum proponunt. p. 20. (+ castigandi et qui imprudentem. +)
+
+[p. 117] Ne vilius quidem vendere aut canus emere permittendum. Qui donare vult alias donet, contractibus haec non permiscent [p. 21—22.] (+imo et donatio est contractus, sensu nostro, id est minutio voluntaria, potest donatio casu praesenti mixta compensationi utrique parti congrua esse. Non ergo hoc absolute prohibendum, sed excessus in archivo exprimendus. +)
+
+Si quis infortunio non sit solvendo, incarcerandus 4 mensibus, inde dimittendus cum juramento de creditoribus cum poterit, indemnibus servandis. [p. 22.] (+ incarcerationis ratio nulla. Qui sua amisit infortunio ei alimenta honesta, imo hoc amplius, si sua diligenter egit, praemia debentur, et iniquum est creditores eius non ferre infortunium sed ipsum solum. Ergo etsi mox prudentia sua fiat ditissimus, non ex integro solvendum creditoribus. +)
+
+Obaeratus culpa dolove sine discrimine in exilium cum infamia ejicitur. (+ male. +) p. 23.
+
+Si quis alium deferat jurare debet veras esse suspiciones suas, et reparaturum se si sint falsae. [p. 23.] (+male. Nam si juste suspicio est, excusatus est etiam qui frustra accusavit, ferendum infortunium utrique. +)
+
+(+ Nihil est efficacius ad amicitiam quam praeditum esse d'une franchise honéste, ingenuitate quadam prudenti qua facillime occurritur odiis silentio intumescentibus. +)
+
+(+ Danda opera est in optima Republica, ut nulla debita voluntaria, kein credit und iedergleich bezahle, oder wo er nicht kann die Republique vor ihn sich zum Creditore mache, und den privatum contentire. +)
+
+Nullae appellationes ferendae. p.26. (+ Ergo per formam procedendi efficiendum est, ut perinde quasi tot essent instantiae quot personae intervenientes, et processus etiam sit ita constrictus ut non liceat a vero et justo digredi. +)
+
+(+ Dos aequa est, et recepta ubicunque (p. 26.) foeminae non sunt conditionis servilis. Nam cum libera mulier societatem quandam ineat cum marito saltem ad tuendam rem familiarem, id est ipsam cum liberis sustentandam, conferre aliquid utique debet. Minus quam maritus, quia honor eius major, labor aequalis nisi quod etiam prudentia mariti pensanda. Iniquum est in civitatibus mercatoriis, et ubicunque fit alias bona conjugum commisceri. Sed contra iniqua etiam privilegia dotis prae Creditoribus. Tenetur creditoribus, quae fructum ex bonis mariti voluptatemve percepit uberiorem. +)
+
+Contractus communi consensu tolli potest ex archivo sine causae cognitione. p. 27. (+ limita si res adhuc integra. Alioqui est novus contractus, quia remissio juris sui. Nota proprie nulla permissio per se obligat, sed effici potest ut post examinationem magistratus obliget, quasi re non integra. +) [p. 118] (+ Magistratus si dent dilationem debitoribus, solvant creditores faciantque se creditores, quia sive culpa sive dolo sive infortunio mora est in debitore, omnia ipsi rectius ferre debent et possunt. Quia culpa aliena et dolus creditori infortunium est, multo magis infortunium alienum. Omne autem infortunium Respublica in se recipere debet. +) Potius est contrahendum cum exteris, quam sine hac contractuum cautione. p. 28. (+ rectius ad depositiones adigendi, cautionesve per nostros, sed rectius ad depositiones, cautionesque exterorum apud nos agentium, ne nostros illudunt. +) Successio esto jure proximitatis in capita nisi quod filii et nepotes repraesentare debent parentes. (+ cur non ultra? +) p. 29. In feudalibus seu ubi locus majGratus, primogeniturae bastardi masculi foeminis praeferantur. p. 29. (+ non possum hoc probare. +) In successione feudorum per foeminas danda opera, ne nimis una familia ditescat, altera pauperetur, quod facit utramque contra bonum publicum conspirare. p. 29. Laudabilis in Hispania mos est seniori familiae extinctae ministro foeminam superstitem nubere, in eumque cognomen transferre. p. 30. De bonis quaesitis testari licet[,] non de transmissis. p. 30. 31. Omnia transmissa pro fideicommissis seu usufructu relicto habeantur. Reditus ex fideicommissariis percepti pro propriis. [p. 31.] (+ distingui fortasse etiam inter reditus naturales et industriales posset. +) (+ non exprimit p. 31. an in fideicommissariis locum habeat exhaeredatio ex causa. Puto causa cognita. In quaesitis an sine causae cognitione praesertim si aliunde alimenta. Fortasse +) Donationes ob ingratitudinem non revocandae, p. 31. nec ob supervenientem indigentiam propriam (+ ^ +). Si quis non nisi fideicommissaria habens, obligatus nec de propriis aut reditibus solvendo, putat solutionem posse fieri per modum legati (+an non et per viam juris +) ex bonis fideicommissariis. p. 32. (+ Ego dubito infortunium puto utrique ferendum cujus bona infortunatus possedit, sed an aequalitate arithmetica an geometrica. Pene putem geometrica, quasi tot diversi essent, concurrentes NB. nam nomina possessorum nil variare debent. +) (+ Miror taceri de inventariis, quibus id quod facti est, in quo plurimum momenti situm est[,] continetur, ut excludantur fraudes in rebus morientium. Ergo quisquis aegroto assistit, id est ei qui suis rebus praeesse non potest, quo primum momento res in eum statum devenit, accersat qui omnia saltem signent. +) (+ ne deteriorentur immobilia[,] perpetuo per opifices, das Bauamt, statis temporibus visitentur. +)
+
+[p. 119] Judicia mobilium. p. 33.
+
+Unius mercimonii, opificii, professionis homines habitent uno loco in una platea. p. 34. (+ habet hoc commoda et incommoda. Commoda quod sunt sub communi regimine, alter alterius inspector est, non diversitate faciendorum durantur, excluduntur die Stöhrer. Commoditates ad operandum adesse collectae possunt. Non vexantur eruditi strepitu, non insueti odore, absunt caeteris pericula incendiorum, salubritas et pulchritudo major. Damna sed minora haec, quod sua non ita commode vendunt collecti, sed huic incommodo respondeatur, non debere ipsos de consumtione solicitos esse, sed magistratum. Alterum est et majus quod collecta in unum tribus parata seditioni turbisque quibus civitates hodie tribuni potestati subjectas vexari videmus. Sed huic malo Ephoris, milite in ea platea (vel si separata cuilibet civitas vel pagus est, pago aut civitate) collocato, necessitate sua omnia aliunde petendi, armis armorum instrumentis, cibo potuque in potestate magistratus existentibus occurri potest. +)
+
+Quodlibet negotii vel professionis genus habeat magistratum particularem. [p. 34.] (+ recte, sed is constet ex duum generum hominibus, intelligente artis, et intelligente Reipublicae seu boni communis, illo ex artificibus, hoc ex magistratibus sumto. Dentur magistratus non specialissimi tantum subalterni, v.g. pro omnibus in ligno laborantibus, v.g. rusticis lignipetis, mercenariis ligniferis, carbonariis, fabris lignariis, scriniariis, unus. Ita de caeteris, is magistratus subalternus habeat jus convocandi sub se existentes et cum iis conferendi, nec specialissimos tantum sed et subalternos subalternorum, e.g. mechanicus convocabit et lignarium et ferrarium. Potest idem specialis diversa ratione pluribus subalternis subesse, ita scriniarius et lignario et Figuratori. Illi ob materiam huic ob formam, si quae inter officia collisiones, veniendum ad subalternum communem. Si lis sit inter lignarium et figuratorem, ea erit in effectu inter physicum et Mathematicum practicum seu mechanicum, ii convenient coram generali, id est philosopho; a quo appellari potest ad politico-metaphysicum seu sapientem, quod etiam faciendum est, si lis inter philosophum et Historicum, vel etiam inter philosophum et Ethicum, seu inter eum cui scientiacorporum et [eum cui] scientia mentium concredita est[,] oriatur. In casu certaminis sufficit, congregari subaltemos subditos proximos non remotos et iri ad unum subalternum proximum, a quo appellari potest ad remotiorem. Ut si res majoris momenti a subalterno etiam speciales a praeposito congregandi. +)
+
+Magistratus cujusque negotii aut artificii pretium designet. [p. 35.] (+ molestissima, et incertissima pretii designatione carere possumus, constituta communione. Verus ergo [p. 120] finis magistratus cuique negotio peculiaris non tam erit pretia indicere quam curare ut emendetur negotium inventis novis, et praescripta exequantur laborantes ut absolutorum consumtio procuretur. Pro hac varietate muneris variandae et personae. Eorundem curae est informationi tironum attendere, ne indigne tractentur (-) denturve. +)
+
+::: editorial
+
+(zu S. 119) 3—4 alter alter inspector L ändert Hrsg.
+
+:::
+
+(+ Marckmeister habent quandam speciem magistratus negotiorum. +)
+
+(+ omnis generis opificia non debent esse in una urbe capitali, sed varie divisa. Nisi quod metus bellicus obstat. Hic est qui cogit nos ad habendas grandes civitates, etsi alioquin multis modis damnosas et seditionibus pestique promtas. +)
+
+(+ Bestellete arbeit soll soviel müglich auffgehoben werden, und alles bereit und gemacht seyn. Und wo nicht in ganzen doch zum wenigsten per partes. Dient zur geschwindigkeit in allen dingen, welches allerhand experimenta facilitirt, auch viele Streitigkeiten wenn die bestellt arbeit undienlich verhütet. +)
+
+(+ Wer bestelt soll deponiren. +)
+
+Post contractum initum pronunciatum, vel etiam executionem, perpetuum silentium imponendum est. p. 35.
+
+(+ Credit soviel müglich auffzuheben. Nam omnia quae juris, debent esse facti quoque quousque, ergo et quamprimum possibile est. Ergo omnia si possibile est aut promte exolvenda, aut depositionibus firmanda, aut denique a republica interveniendum est, quae minore molestia, quippe in omnes diffusa tempus solutionis quam creditor expectabit. +)
+
+Hospites et Apothecarii per civitatem sparsi habitent (+ imo adde Krämer und materialisten +) habendis statim necessariis. (+ rectius omnia publica dispensatione distribuentur. +) p. 36.
+
+Hi consignent in libro mutuo sumta. p. 36. (+ imo curent ab alio inscribi, deinde rectius nihil dent mutuo in parvis, et ex iis non detur actio. Magna non sumantur ab ipsis, sed e mercatorum domo, magazin, Kauffhaus. Sed ne decipiant tamen ponderum mensurarum vasorum, tum specierum et pretii ratio certa constituta publice affixa sit. Posita communitate in his non est opus cura. Cum cuilibet suppetant omnia, nec pecunia accepta quicquam lucretur, nec emere quicquam vendereque possit extra ordinem. +)
+
+Possum te, etsi nolis[,] adigere ad vendendum, et si de pretio dissentiamus te venditorem cogere possum, ut mecum quantumcunque parva res sit, eas ad magistratum. p. 37.
+
+(+ possunt esse ministri generales in allen gaßen, zu brauchen, zu hohlen, zu tragen, zu heben, und zu aller püffel arbeit, damit man sein eigen gesinde, ohne interruption und schaden, nicht wohl occupiren kan, damit man auch solches nicht viel ausschicken dürffe, man kan auch dazu Zeichen haben in den gaßen umb sie zu ruffen mit wincken, oder schall, gleichsam ein corps de garde, dazu solcher Leute in allen gaßen die können zugleich schergen, und zeugen, und [p. 121] wachter seyn, in omnia (—)laria et contentiosa promti. Interea dum )(- intus occupandi conscribendi nach der reihe. +)
+
+(+ omnes injuriae et vexationes proscribendae. +)
+
+(+ nulla vera laesio est, nisi vexatio seu injuria, quia nil nisi voluptas animi cuiquam proprium. +)
+
+(+ si quis occulte injuriavit et neget imponendae illi amicitiae probae, addendum, si qua suspicio juramentum. +)
+
+Si qualiscunque sit dissensus de re quantulacunque quae interest colloquentium, seu de damno et lucro, eundum ad magistratum quia ex concertatione aculeata verba, hinc injuriae, hinc denique vis mutua, vulnera caedes, exitia familiarum. [p. 38.] (+ recte. Extensione tamen indiget propositio si qualiscunque sit dissensio continuata, eundum ad praefectum eius scientiae, modo de ea certare liceat. Non licet autem concertare de aliorum malis, aliisque rebus facti nihil ad nos pertinentibus; si quo casu tamen liceat, eundum erit ad censorem; cuius est nosse civium personas virtutes vitia. +)
+
+(+ Rustici non debent soliciti esse de consumtione, nec inferre sua urbibus, sed vehicularii communes ad praefectos villarum districtuumve remissi. Rusticis non erit necessitas veniendi in urbem nisi ad festivitates jucundas festaque in honorem Dei instituta. +)
+
+Propolae separato erunt loco non mixti rusticis, iidemque non vendent nisi horis pomeridianis. p. 39. (+ rectius omne propolium ad magistratum seu Rempublicam redibit. +)
+
+Omnes licitationum disputationes tollendae. p. 40.
+
+Nihil magis auget negotia quam fama fidei et tractabilitatis. Eines guthen preises. p. 40.
+
+Si qua pretii magna mutatione opus (nam parvae pene menstruae esse possunt), officiales negotii se referant ad aestimatores generales. p. 41.
+
+Moneta circulo circumdata esto, si quid imminutum reperiatur, feratur confestim ad monetae praefectum, pretio recepto conflanda. p. 41. (+ ita Cromwellus, cum perigraphe, hoc nisi periturus mihi adimet nemo. +) (+ prudenter in Anglia receptum audio. +)
+
+::: editorial
+
+(zu S. 121) 6 imponendae illis L ändert Hrsg.
+
+:::

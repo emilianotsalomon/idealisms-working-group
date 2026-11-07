@@ -1,0 +1,565 @@
+---
+title: Prometeo vencedor
+title_en: Prometheus Victorious
+author: José Vasconcelos
+year: 1919–1920
+original_language: es
+translation_language: none
+edition_layout: original text only (no translation)
+collection: Obras (vasconcelos-obras-v2)
+order: 4.0.1
+source: "José Vasconcelos, *Prometeo vencedor*, México: Lectura Selecta, 1920; from the Google/HathiTrust scan; transcribed in the HTML reader ‘4.0.1 Prometeo Vencedor - Jose Vasconcelos.html’"
+original_text: transcription as in the HTML reader (see its note on the text)
+translation: none
+pages: 82
+genre: Latin American philosophy
+generated: 2026-10-24 by corpus.py
+rights: public domain in the US (published 1919, pre-1931); Vasconcelos died in 1959, so in Mexico the text stays protected to 2059.
+public: true
+---
+
+# José Vasconcelos, *Prometeo vencedor* (1919–1920) — *Prometheus Victorious*
+
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
+
+## Prometeo Vencedor
+
+*Tragedia moderna en un prólogo y tres actos*
+
+José Vasconcelos — 1920
+
+*[Note on the text: México: Lectura Selecta, 1920. OCR’d y editado a partir del ejemplar digitalizado por Google / HathiTrust; dominio público en los Estados Unidos.]*
+
+⁂
+
+#### Advertencia
+
+La obra que ofrezco al público bajo el nombre de *Prometeo Vencedor*, forma parte de la serie anunciada en la Introducción a los ensayos de mi *Monismo Estético* y viene a sustituir el ensayo que había yo preparado con el título de “El Genio del Mal y la Ironía.”
+
+Al ir desarrollando el asunto de este último ensayo, varias veces tuve que cambiar de plan, y por fin llegué a reunir las páginas que hoy componen mi *Prometeo*. Debo reconocer que me puse a hacer una cosa y salió otra. No he logrado presentar una solución del problema del mal, acaso porque esa solución la poseía de antemano, pues acepto sin reservas la tesis de Plotino, la tesis de que el mal no posee valor en sí, y sólo depende de separación y alejamiento de la esencia divina.
+
+También me he desviado un tanto del problema del mal, para presentar en los actos segundo y tercero una doctrina que ha parecido demasiado tétrica a varios amigos ante quienes la expuse, hace años, pero creo que aún los mismos que así opinen, no dejarán de reconocer que el asunto [p. 5] tiene posibilidades enormes de belleza, que otros más capacitados, sabrán revelar.
+
+No pocas observaciones de las que había acumulado para el ensayo de la Ironía y el Mal, tuvieron que ser suprimidas, pero confío en que estos sacrificios de detalle, habrán servido para asegurar la unidad de la presente obra.
+
+*[Note on the text: Enero de 1920. / A Julio Torri. Afectuosamente, / José Vasconcelos]*
+
+⁂
+
+#### [§1] Prólogo
+
+La conciencia huye la repetición de lo particular, pero constantemente, todo en el mundo busca repetirse en lo Absoluto.
+
+Pasea dichosa la bestia, ignorante del dolor y engreída en las praderas feraces que el viento orea y el sol baña de luz. Mas apenas la chispa de la vida prende en el hombre, no obstante que el universo se ensancha, aparece también el tormento, la porfía de una voluntad pletórica de irrealizables propósitos.
+
+La conciencia observa el orden que rige las acciones externas: todas las especies animadas acatan ese orden sin preguntar si es bueno o es malo; temen, callan y se someten. Toda la estirpe de los hombres se suma al rebaño de las bestias, y es todavía más vil que las bestias, porque advierte que el orden de afuera es injusto y cruel, y sin embargo, tiembla, obedece y calla. Pero un día la conciencia afirma su imperio; y la conciencia es rebeldía, lucha, tumulto y gloria.
+
+Prometeo se irgue, el primero de los héroes, y por los lomos del rebaño pasa un calofrío trágico, pues Prometeo ha medido su fuerza con la fuerza de afuera, y la ha vencido. En la naturaleza ha aparecido una fuerza nueva, que procediendo de la conciencia, va hacia afuera y se hace obedecer de las cosas. Prometeo ha descubierto la ley del fuego y ya éste no depende del azar que incendia el bosque, sino del deseo del héroe, del capricho de todos los hombres.
+
+Prometeo inicia el orden de la voluntad sobre el orden de la necesidad, que antes rigiera indisputado en el mundo.
+
+Satanás
+
+Satán estuvo en los cielos. Jehová era allí jefe de una región cuyas fronteras se extienden hasta donde llega la fantasía de los hebreos. Satanás se aburría en aquella corte bárbara. Le irritaba la sumisión de los ángeles. Le ofendían los celos y los malos arranques del corazón duro de Jehová. Y mientras todos los demás ángeles se vanagloriaban de su dicha, [p. 10] jerárquicamente regulada, Satán llegó a envidiar la heroica mala fortuna de los hombres, condenados allá abajo a la zozobra y al cambio.
+
+Un cambio, en eso soñaba Satanás, al mismo tiempo que sonreía maliciosamente, como una mala mujer, cada vez que miraba a los ángeles. Alguno de éstos, alarmado, murmuró del malicioso. Jehová, siempre suspicaz y alerta, como tirano astuto, puso en movimiento su cortejo de espías. Nada se puso en claro, porque ni el mismo Satán sabía lo que anhelaba; pero un día el tirano miró severamente al presunto culpable, el cual, ya hastiado, ni se dignó defenderse, y se sintió arrojado con estrépito, por entre lenguas de fuego y densas nubes. Desde entonces comenzó a vagar por las soledades de todos los planetas, por doquiera que hay cavernas sombrías o quebradas desiertas.
+
+Paria y desencantado y convencido de que algo legítimo contenía la protesta que le acarreara su actual miseria, Satanás se puso a observar a los hombres: notó que cuando se sentían felices, adoraban su vida sin dolerse de sus limitaciones, y soñaban con reanudar aquella misma vida, después de la muerte, en unión de los ángeles. Y Satán, conocedor de la vanidad de aquellas pompas celestes que hacían suspirar a los hombres, sonrió de las quimeras [p. 11] humanas. ¡Si supiesen que él había poseído todo lo que ellos ansiaban y lo había desdeñado! Pobre raza, incorregible y vil.
+
+El diablo y el tigre
+
+El diablo penetra en las selvas y observa al tigre: hermoso bruto. Andar voluptuoso y firme. Ávidas fauces. Miradas ardientes e implacables. Músculos flexibles y poderosos. ¡Cuánta fruición hay en el brinco que te lleva a caer sobre la presa! Y luego cuando la destrozas, y la engulles, descansas serenamente, pues se ha cumplido tu objeto, has llenado tu misión. Para eso asechas largas horas tras de las selvas, para eso se propaga tu estirpe con férvido goce. Sin embargo, el hombre te atrapa y te hace su siervo, y tú entonces, no haces más que dar vueltas alrededor de la jaula, sirviendo de irrisión a los chicos. Pues tal es la suerte del tirano injusto, provocar espanto y después, a la postre, risa. ¡Ah! si tuvieses un instante de lucidez, yo sé lo que pensarías; porque sé cómo funciona el pensamiento, siempre constreñido a mirarse a sí propio; creerías hallarte en un infierno, cercado de demonios. Y no te cansarías de condenar la crueldad refinada de los hombres que después de hacerte escarnio, [p. 12] te traen a diario un trozo de carne muerta, humillantemente ofrecido en la punta de un hierro que alimenta y castiga.
+
+Y si además de conciencia poseyeses videncia, a semejanza de los profetas hebreos, entonces soñarías con resucitar en un paraíso de extensas praderas, tiernos rebaños, y hombres asustadizos e impotentes… y disgustado del tigre, Satán volvió entre los hombres.
+
+El diablo y los hombres
+
+Los hombres se hallaban felices, los campos eran fértiles y las cosechas abundantes; bajo el clima benigno sus hijos se multiplicaban en la proporción ilimitada que es grata a la Biblia; y todos vivían laboriosos y contentos como un vasto panal o un hormiguero. Parecía que otra vez la vida de los hombres había vuelto a confundirse con la vida de las especies animales. Pues se mostraban conformes con su suerte, irremediablemente conformes, lo mismo que los ángeles. Sólo cuando los conmovía la proximidad de la muerte, Satán, acercándose, conseguía hacer pasar por sus mentes la idea de aquella cosa confusa que él mismo buscaba. Y al ver que la muerte facilitaba su obra, Satanás se hizo amigo de la muerte y los hombres comenzaron a confundirlo con la muerte. [p. 13]
+
+Confusión semejante ocurrió con las calamidades y los dolores. Satán observó que el sufrimiento doblega los cuerpos, al mismo tiempo que despierta en los corazones la protesta, la inquietud, que él, tan bien, conocía: ¡el afán de cosa distinta de todo lo que es humano y de todo lo que es divino a la manera humana! Y Satán comenzó a estimular y a acompañar la obra del sufrimiento. Satán veía claro en la obra del mal; allí donde los hombres no atinan con una sola explicación justa. Satán había conocido al tigre y había aprendido el punto de vista del tigre. Lo que los hombres llaman la crueldad del tigre, era para el tigre mismo, no sólo un derecho sino también un ideal.
+
+Ningún mal puede sostenerse en pie si no se escuda con la sombra de un ideal. Esto prueba la inanidad del mal. El mal por el mal no es cosa que pueda existir. El mismo hipócrita no es más que un cobarde que no osa ir derecho a su fin. Tal cobardía prueba la debilidad del mal y el poder del bien, que al mismo mal ampara, y acoge y da ser. Existen el dolor y el conflicto, pero no el mal; ¡el mal es la nada!
+
+Mas la experiencia de los hombres dice: ¿que no existe el mal? Pues ¿qué es la vida misma sino el mal? Porque vivir es disputar a otro el pan y el goce, su mismo lugar en el espacio. El yo es un apetito fiero que en su ansia de [p. 14] llenar el mundo, todo lo arrasa y destroza; exactamente lo mismo que la garra del tigre. ¡Vaya si existe el mal! El mal es la vida y la vida es incompatible con la conciencia; pues apenas hay conciencia, y en seguida se comprende que nacer es maldición, vivir es pecado, y seguir viviendo es estar parodiando al infierno.
+
+Sin embargo, dentro de esta vida turbia era posible hallar sorpresas. Había habido un héroe, un hombre o un Dios, que había logrado apartar la acción, de la rutina del universo, para darle un rumbo nuevo, el rumbo de la voluntad. E inmediatamente, Satán concibió la empresa de estrechar una alianza con Prometeo. Él era el Descontento, y Prometeo, el Esfuerzo. Sí, no había más remedio que buscar entre los hombres el vigor y la audacia que no había podido descubrir en los ángeles.
+
+El diablo cavila
+
+Han pasado muchos años; el Diablo ha recorrido todos los lugares de la tierra y no ha encontrado a Prometeo. Subió primero a la roca de los desiertos de Escitia, donde creyó hallarlo todavía encadenado; pero sólo encontró las cadenas, enmohecidas y rotas, sobre la peña bruñida. Subió al Olimpo, pensando que tal vez [p. 15] allí estaría preso el héroe, mas los dioses le informaron que había muerto.
+
+Prometeo no era, pues, un Dios, sino un hombre, y la muerte lo había librado de sus suplicios. ¡Ah si yo pudiese morir, pensó, y escapar de Jehová como Prometeo escapó de Júpiter! ¡Cómo me burlaría del tirano impotente! Después de todo, este místico secreto de la muerte es lo que hace tan audaces a los hombres; pues ¿qué les importa todo, si saben que la muerte pone fin a sus luchas?
+
+Ser inmortal es no cambiar. Jehová es inmortal, Júpiter es inmortal; por eso ni Jehová ni Júpiter progresan. El hombre es mortal, lo cual quiere decir que cambia, y gracias a estos cambios se ha hecho capaz de ir superando a sus dioses. A la criatura le conviene morir. Sólo un Dios Absoluto podría engreírse en ser eterno. Todos aquellos a quienes falta algo, ansían girar para que el cosmos les llene el alma. La muerte es una transformación y a veces una transfiguración. ¿De qué suerte se habrá transformado [p. 16] Prometeo?
+
+Todavía en su busca, recorrió Satán las más altas cordilleras, porque se dijo: “tan gran espíritu forzosamente necesita el hálito de las cumbres.” Sin embargo, las halló desiertas y parecióle entonces que la vida de los hombres es un esfuerzo demasiado frágil para poder resistir [p. 17] la distensión de la altura. Mas a pesar de todo, movido de curiosidad, descendió a los llanos y volvió a mezclarse con los hombres…
+
+Y si no halló a Prometeo, sí pudo advertir por doquiera los efectos de su obra: ¡cómo habían cambiado, desde que Prometeo les enseñó la industria! No parecía, sino que el héroe, al romper las cadenas que lo sujetaban a la roca fatal, se había dedicado a reformar todas las leyes divinas en beneficio de los hombres. Porque la voluntad puesta en juego primeramente por Prometeo, es un principio ajeno a las leyes físicas; y gracias a él, han podido estos seres mortales y ruines, intervenir en el proceso de las leyes del mundo, aportando sus pequeños propósitos, en el seno de la gran corriente de los propósitos cósmicos.
+
+No entraba en los caracteres de la ley natural que el fuego se hiciese al capricho del hombre, y Prometeo adicionó la ley natural, obligándola a prestarse al conjuro del querer humano. Así en tantas otras cosas, el progreso de los hombres es una serie de esfuerzos afortunados contra la ley normal del universo.
+
+Cierto que todo progreso tiene un límite, el límite de la forma de cada ser. La planta no puede ir más allá de la planta, y el hombre no concibe lo que está más allá de su conciencia; pero así como la planta cambia, el hombre sin duda [p. 18] se supera a sí mismo, pues en toda la naturaleza, lo particular huye de su propia ruindad y sólo lo Absoluto se engríe en lo Absoluto.
+
+Y cual si en la conciencia de los hombres estuviese fijo un destello de lo absoluto, no obstante que son efímeros, se advierte en sus obras un anhelo constante de la existencia eterna. ¿Pues cómo, de otra manera, se explica la serena grandeza de los templos que en Egipto y en México se han levantado en honor de falsos dioses?
+
+Pero sin duda, lo más admirable en estos seres de un día, es la audacia extraña de lo que sus mentes inventan. Antes de llegar aquí, a estas riberas del Éufrates, donde ahora reposo y medito, estuve en los valles del Ganges, y me divertí mucho en los templos, porque el culto que allí practican es una parodia de lo que hacíamos en el cielo los ángeles. El incienso, las plegarias, las actitudes externas del devoto me son conocidos y nada nuevo hallé en ellos; pero una vez, pasando por un bosque, acerquéme de incógnito, a escuchar una discusión de fakires, esa especie de filósofos monjes, y entonces escuché una doctrina que no se me ha podido borrar de la mente. No hablaban de Jehová, ni de ningún Dios semejante, ni tampoco aconsejaban sumisión y obediencia a vagos poderes, [p. 19] no; lo que decían es algo, que si yo lo pronunciase, sonaría a blasfemia; sin embargo, ellos lo afirmaban con convicción ansiosa: decían que “Atman es Brahma y Brahma es Atman,” y con esto quieren significar que ellos, los hombres, los seres de mísero barro, son iguales, en esencia, al autor de la creación entera.
+
+La emoción del primer hombre que concibió este pensamiento extraño, debe haber sido semejante a la de Prometeo al sentir que había descubierto la ley del fuego; pero todavía más terrible. Sin embargo, ningún poder los ha castigado por esta creencia atrevida; y yo, que poseo el instinto seguro para herir en el punto más vulnerable a lo falso, no dejé de sentirme impresionado al oírla. Sin embargo, me repuse en seguida, y comparé el poder infinito, quienquiera que él sea, con aquellos desdichados hambrientos, y no pude contener la risa. Después de que yo me hube reído, noté que algunos de los fakires dudaban, y poco después, levantándose disgustados se fueron sin decirle adiós al maestro que los había arengado; pero yo, aunque envanecido por mi triunfo, no he podido desechar del todo la peregrina y absurda sentencia.
+
+Más tarde, en la Grecia, he presenciado reuniones en que se disputaba sobre la misma idea, y aunque el triunfo de la discusión se lo llevaban siempre los sofistas, yo vacilaba cada vez que veía a Platón, pues había en su semblante algo que bien pudiera servir de apoyo a la tesis. Sin embargo, ¡infelices hombres! ¡Cuán poco valen sus mismos sueños!
+
+Y no valen más sus obras: hacen pasar su carro triunfante, sobre un millón de cabezas, los fundadores de imperios, y por un minuto disfrutan la sensación del poder; pero ¡son tan idiotas que no la gozan con plena conciencia! El miedo los lleva a ser crueles y la vanidad los vuelve cómicos. Y mientras a su alrededor pugna por estallar la risa, ellos permanecen impasibles de estupidez o de ira. Decididamente los desprecio; desprecio a los tiranos, y prefiero a los soñadores, a los que apenas me ven aparecer, se desconciertan, y piensan y sufren y gozan, pero sienten. Eso es lo que yo admiro en los hombres, que sienten. En virtud de eso se hacen capaces de cambio, y yo por insensible no puedo cambiar.
+
+Sin embargo, me complacería descubrir aquel que, siendo bastante inteligente para comprender mi risa, sin embargo, no se turbara con ella. A ese sí que me gustaría probarlo, porque su temple tendría que ser firme… Satanás se siente fatigado; se extiende a reposar sobre el banco del río y explora el cielo [p. 20] con los ojos abiertos; de pronto se fija en un punto y vuelve a mirar… sí, no cabe duda, es una estrella, pero una estrella más luminosa que las otras, y su estela llega a la tierra y señala en dirección del Egipto, en dirección de Judea!… Satanás se levanta y comienza a caminar por la ruta que le señala la estrella… [p. 21]
+
+⁂
+
+#### [§2] Acto primero
+
+*La acción se desarrolla en uno de los sitios más hermosos del mundo, en el lomo de la cordillera que une a los dos volcanes, el Popocatépetl y el Ixtaccíhuatl. La vista es magnífica, pues de esta eminencia se mira, de un lado el valle de Puebla, con la ciudad llena de torres y cúpulas, y del otro el valle y la ciudad de México, de antigua fama. Prometeo está sentado en una peña, con el puño debajo de la barba, en la actitud del pensador de Rodin, conservando en lo posible su robusta desnudez pagana. Satán se sienta a su lado en el suelo, con la figura angulosa que ha consagrado la leyenda. Satán habla y Prometeo escucha, aunque más bien parece absorto en sus propias ideas. Día despejado.—Época presente.*
+
+Personajes: Satanás. — Prometeo. — El Filósofo de la Tierra.
+
+**Satanás** Sí, desde que yo vine al mundo, me dediqué a buscarte. Siento no haberte hallado a tiempo; quizás nuestros esfuerzos reunidos [p. 23] habrían beneficiado a los hombres. Tú poseías la inteligencia y la fuerza, pero yo podía darte la astucia.
+
+**Prometeo** *(Con desdén.)* La astucia es ruin y a la postre estéril; prefiero la fuerza franca y resuelta.
+
+**Satanás** Bien, ya veo que no hemos de entendernos sobre este punto, pero ya que eres franco, dime cómo pudiste vencer a Zeus, pues yo te busqué en el monte del desierto Escita y al no hallarte pensé que un milagro te había permitido escapar. Fui, sin embargo, en tu busca al Olimpo, y allí Júpiter, todavía iracundo, me dijo que la fábula de que eras un Dios había sido inventada por los ilusos mortales, y que justamente si habías escapado a su castigo eterno, era porque un día, después de mucho sufrir, te quedaste aletargado y ya no volviste a despertar. Entonces el buitre que desgarraba tus entrañas, no teniendo ya el obstáculo de tus gritos de dolor, se llegó hasta tu rostro y arrancó tus ojos, y después picoteó en tu cerebro; tus huesos se secaron, y el viento los hizo polvo; por fin, no quedó nada de ti, como nada queda del resto de los mortales. Y Zeus se regocijaba pensando que quienes se habían atrevido a resistir sus mandatos eran sólo seres efímeros, brote perverso de la humedad [p. 24] y el calor, lo mismo que los hongos venenosos de un pantano… / / Pero mientras Zeus afirmaba todo esto, yo sonreía porque adivinaba en sus palabras un dejo de despecho. Tú sabes que soy enemigo nato de los dioses y por tal de verlos penar gustosamente ayudaría a los hombres; por eso te buscaba, Prometeo, porque tú eres el primer caso de éxito en esta rebelión milenaria de los de abajo contra los de arriba, de los oprimidos contra los opresores. Dime, ¿cómo pudiste burlar a Zeus y después igualarte a los dioses al hacerte inmortal?
+
+**Prometeo** La muerte sólo existe para el que no ve. Zeus y otros dioses inferiores, a causa de una vanidad que bien podríamos llamar olímpica, se imaginan que no existe lo que sale del estrecho lindero de sus reinos. Ilusión que a más de un tirano ha costado amargas desdichas. Quien limita su visión a un solo instante, puede creer en la muerte; pero el que mira, aunque sea una parte del devenir, se convence de que no hay muerte, sino transformaciones sucesivas. Lo que importa es romper la barrera que separa, una de otra, esas transformaciones. Ligar una vida con las anteriores y las futuras, eso es la inmortalidad.
+
+**Satanás** ¿Y tú has conquistado esa suerte de inmortalidad? [p. 25]
+
+**Prometeo** Sólo en parte, pues siento en mi conciencia humana, que todas las fuerzas del pasado se han sumado en ella, y que el porvenir le pertenece.
+
+**Satanás** Pero si la vida es inmortal, entonces el dolor y el goce, que son inseparables de la vida, también serán eternos. Si yo estuviese sujeto a sufrir como sufren los hombres, no desearía la inmortalidad, sino que clamaría por la muerte.
+
+**Prometeo** El goce es estéril. El sufrimiento es fecundo, porque obliga a ser grave, a luchar y a descubrir poder.
+
+**Satanás** ¿Has probado la ironía?
+
+**Prometeo** Sé que tú eres el príncipe de la ironía, pero la ironía es incapaz de construir. Sin embargo, la ironía sirve para denunciar nuestros propósitos turbios, y para apartarnos de los ideales incompletos y de los dioses falsos. La inteligencia se equivoca y no ve más allá de su propia esfera, la voluntad se obstina y se embriaga de sí misma; pero la ironía lo penetra todo, y corroe cuanto no es del más puro metal. La ironía, expurgando nuestras almas, las deja relucientes, como oro que se despoja del cuarzo, así que lo baña y penetra el ácido.
+
+**Satanás** Sí, mas eso que llamas el oro de las almas no es más que otro fantasma, creado [p. 26] por la obstinación de ilusos, que se empeñan en embellecer la vida porque la aman y temen perderla. Yo, que soy de veras inmortal, inmortal sin cambio, y no con esa manera de inmortalidad por entregas de que tú hablas, puedo afirmar que no hay oro en el espíritu: lo conozco bien, y sé que es todo vano, como el humo, como la sombra; vacío, como la luz. Sí, porque la luz es el vacío; mírala bien, Prometeo, observa cómo es estéril y vana la luz. Desde luego se ve que carece de ritmo. Hay más, mucha más vitalidad comprimida en el tupido temblor de una sombra, que en el más claro reflejo del sol. La luz de la luna posee más sentido porque se combina mejor con la sombra. En la sombra es donde la vida se refugia cuando siente la necesidad de vigorizarse para comenzar de nuevo. La sombra es fecunda. Del negro humus proceden todos los seres. Por el éter, que la luz inunda, no hay más que moléculas muertas y un gélido vacío. Si la luz es la vida, yo, Prometeo, quiero la muerte.
+
+**Prometeo** En la luz que los objetos reflejan no hay aliento, no hay vida, pero si la ve el alma, nace el ritmo.
+
+**Satanás** Yo envidio a los hombres porque mueren, y aunque tú dices que vuelven a nacer, siquiera gozan largos períodos de calma, [p. 27] y cuando tornan al mundo, traen renovada la esperanza. Yo ansío el reposo.
+
+**Prometeo** Sin embargo, eres activo.
+
+**Satanás** Lo soy a causa de inconformidad. Me divierte fabricar palacios de ilusión donde los hombres entran a millares; pero así que los veo felices, me vence la tentación de desengañarlos; entonces hago que el goce les tienda una trampa, y al verlos caer, me regocijo, y el ruido de sus lamentaciones me molesta menos que los raptos de su dicha. Yo no tolero la dicha, porque la dicha embrutece, y no hay nada que yo odie tanto como la imbecilidad.
+
+**Prometeo** Sí, recuerdo tus perradas con Margarita.
+
+**Satanás** Las cuales han servido para que los hombres con su habitual estupidez me sigan representando con cuernos y cola, bajo el disfraz de Mefistófeles. No han podido comprender el bien que yo hice a Fausto y a Margarita; por eso insisten en que yo soy la personificación del mal. Los insensatos no comprenden que es torpeza toda pasión entre seres de un día. El amor hace que cada amante contemple al otro como a un Dios. Esto envilece a ambos. Yo, que sé los fines verdaderos del amor de hombre y mujer, quise salvarlos. Fausto [p. 28] se hallaba bajo mi guarda y no podía yo tolerar que un esfuerzo tan interesante como el suyo, fuese a parar en la común pasión que a todos los vivos inquieta en el período del celo. De no haber intervenido yo, Fausto y Margarita se casan para disfrutar mansa dicha y renovarse en sus hijos; pero si todos sirven nomás para crías, ¿hasta cuándo va a surgir el hombre que sea un fin en sí, ya no un eslabón, sino un resultado glorioso?
+
+**Prometeo** Esa ilusión que tú destruyes, a veces sirve para crear vida gloriosa.
+
+**Satanás** ¡Más que todas las invenciones que en mentira se fundan, vale lo que los hombres descubren después de que yo destruyo sus falsas quimeras! Y esto me lo hizo comprender Margarita, una vez que la encontré saliendo del templo, y quise tentarla ofreciéndole una reconciliación con Fausto. Margarita ya no se dejó vencer; me pareció que Fausto ya no le inspiraba ilusión, sino una manera de piedad; no sé exactamente, porque su rostro se veía transfigurado; no sé lo que pasaría dentro del templo; pero lo cierto es que yo le abrí las puertas de su propia conciencia… En cuanto a Fausto, yo le aseguré el dominio del mundo y algo me toca del bien que hizo. Sin mi ayuda, ¡el destino de Fausto se habría confundido con el destino de la multitud!
+
+**Prometeo** Viejo pícaro, pretendes tú ahora exhibirte como un benefactor de los hombres, [p. 29] como un colaborador de las fuerzas del bien? ¡No lograrás engañarme!
+
+**Satanás** Colaborador en la obra del bien, sí, aunque de una manera indirecta. Los hombres llaman el mal, a todo lo que los priva de un goce, y me atribuyen a mí la pérdida de sus ilusiones como si yo tuviese la culpa de que ellas sean falsas; ¡como si yo fuese el Creador! Si algo anda mal en el mundo, seguramente no es culpa mía. Yo lo que hago es denunciarlo; yo no soy enemigo del bien. Lo que yo hago es burlarme de lo que toma la apariencia del bien sin ser el bien, de lo que toma la apariencia de la belleza sin ser la belleza. Porque yo les destruyo sus falsos ídolos, porque yo les he dado mis dos lampos de claridad, la duda y la risa, los hombres me maldicen. ¡Los hombres son ingratos, ingratos a causa de estupidez!
+
+**Prometeo** En una cosa estoy de acuerdo contigo, y es en que el mal no posee realidad [p. 30] verdadera. Si en la vida diaria obra como factor positivo, en cambio jamás ha enraizado en la teoría. Cada tesis sobre el valor de lo malo, se convierte, apenas formulada, en un antecedente o en un contrario útil, de la obra del bien que, en teoría, jamás claudica. El mal es como tú, Satanás, que nunca vence, pero persiste. Abandonado a sí mismo, se desvanece y se borra, porque carece de consistencia, porque no es nada en sí. Sólo cuando se alía y confunde con la obra del bien, logra enturbiarla, y entonces adquiere un poder terrible.
+
+**Satanás** Te acercas a la verdad, Prometeo; pero te equivocas en un punto esencial. Yo no soy el mal, ni siquiera participo de la esencia del mal; yo soy inteligente y el mal es torpe. Tampoco radica el mal en la desobediencia, como suponen los necios; ¡eso sólo a Jehová se le ocurre!
+
+**Prometeo** ¡O a Júpiter!
+
+**Satanás** Pero lo malo no es irreal, como suponen los teóricos. El mal posee toda la realidad áspera de las cosas obtusas. Hay en el Universo una infinidad de potencias sombrías, torpes, desorientadas, que no aciertan a ascender y quieren bajar; esta constante inclinación al descenso, pone en desequilibrio a las fuerzas superiores y las obliga a un doble esfuerzo para vencer y libertarse.
+
+**Prometeo** ¡En efecto, muchas veces he sentido en el alma, una como pesadez y tortuosidad del anhelo…!
+
+**Satanás** Eso no obstante, ninguna de estas fuerzas perversas encarna del todo. De allí que los malos, llámense hombres o duendes, carecen siempre del valor de su propia personalidad, y ni a sí mismos se confiesan que su propósito es el mal. Me dirás que esto es hipocresía, pero [p. 31] ya es mucho que el malvado deje ganar al bien en teoría, pues la teoría es más fecunda, más válida y más duradera que la práctica. Sin embargo, comúnmente no hay hipocresía, sino confusión de valores: el perverso es un egoísta poseído de una especie de embriaguez hecha de vanidad y de aturdimiento. En todo mal hay desorientación del esfuerzo, equivocación del esfuerzo; pero tan pronto como la mala acción llega al tribunal del juicio, en seguida tiene que revestirse de apariencias nobles. Sabe que no puede presentarse con rasgos propios. Lo que hay que hacer con el malo es defenderse de él, pero cuidando de no tomarlo en serio. Un buen palo y mucho desdén.
+
+**Prometeo** Eso está muy bien como tesis, pero ¿cuando es el malo el que golpea?
+
+**Satanás** ¿Te refieres a los tiranos? Conozco esa peste. Una vez tomé por mi cuenta a un hombre de esos. No era un ser despejado y generoso como el Doctor Fausto, sino un rufián consumado. Yo había tenido tratos con otros conquistadores: el gran Alejandro logró deslumbrarme: ganaba victorias y ya en el seno de la nación sometida, exhibía sus apetitos magníficos con derroche de belleza helénica. Después anduve con César, muy inteligente y lleno de impulsos generosos; ¡un hombre que lloraba mirando los muertos sobre el campo [p. 32] de batalla! Pero Napoleón, ese sí que era malo —malo por ruin—. Para él la victoria poseía belleza intrínseca ofuscante. Nunca le vi rasgos generosos, ¡y no pensaba! Hablaba mucho, y siempre se le veía agitado, pero no había en su cabeza ideas, sino una como borrachera de motivos y de planes. ¡Y luego, tenía tanto miedo de perder su imperio, que vivía arrastrándose! No poseía convicciones, pero las simulaba todas: en Egipto se hizo musulmán y después en Europa aduló y persiguió al Papa hasta lograr que le pusiese encima una corona, que él antes, como republicano, había hecho asunto de burla. Un disgustante personaje, que por lo demás cosechó su merecido. Pues bien, yo que he conocido de cerca a todos estos malos de comedia, malos de la comedia humana, puedo afirmarte que ninguno posee bastante personalidad para encarnar un principio. ¡Ninguno de estos es como tú o yo, Prometeo! ¡Ah, si yo hubiese encarnado el mal, lo que habría podido hacer! ¡A la misma imaginación de Dante, yo la habría excedido en horror! Pero, te repito, el mal no tiene substancia, y yo sí tengo ser, y tú, Prometeo, tú tienes un ser admirable, tú eres el héroe arquetipo, la esencia más preciosa de la especie humana, y bien podrías llegar a ser Dios.
+
+*Prometeo, frunciendo el ceño y extendiendo una mano vigorosa [p. 33] , toma del pescuezo al Diablo, y dice:*
+
+**Prometeo** ¡Calla, miserable!
+
+*Satán se liberta del puño de Prometeo como un líquido turbio escurre por el cuello de un frasco, y en seguida, frotándose el cuello en el lugar que había oprimido Prometeo, el Diablo repite:*
+
+**Satanás** ¡Calla, miserable! ¡Calla, miserable! como si la injuria fuese argumento… sigue, pues, siendo hombre, sigue.
+
+*Prometeo guarda silencio y Satán continúa.*
+
+**Satanás** En realidad, todos vosotros me causáis desprecio y lástima, morbos desventurados cuyos deseos no corresponden ni en una mínima parte a su acción! ¡Sois diminutos y, sin embargo, ambicionáis la eternidad! Sois ambiciosos y cuando se os ofrece el dominio del mundo, tembláis acobardados, como si hasta entonces os dieseis cuenta de que sois impotentes! Pobres seres ilusos, que lloráis como mujeres; pero, ¡qué digo!, si lloran más los hombres que las mujeres; verdaderamente, ¡sois dignos de lástima!
+
+*Prometeo se acerca a Satán y le dice casi al oído.*
+
+**Prometeo** Sin embargo, el Verbo no desdeñó encarnar en un hombre!…
+
+*Al oír esto Satán tiembla y pierde todo su aplomo, no dice nada y va a sentarse humildemente al lado de Prometeo; éste observa el cambio de su interlocutor y le dice: [p. 34]*
+
+**Prometeo** También tú conoces, pues, el miedo!
+
+**Satanás** No, Prometeo, es algo como sensación de disgusto y bochorno lo que me causa ese nombre… ¡Mis motivos secretos nadie los conoce, pero a ti debo confesarte lo que pasó… sí, ya hace tiempo que el secreto me ahoga… yo dormitaba una noche en las orillas de un río, creo que era el Éufrates, hace casi dos mil años; había pensado mucho, y me hallaba en ese estado de sobreexcitación que precede a los acontecimientos extraordinarios. No hallando reposo, me puse a ver el cielo, y de pronto descubrí una estrella de muy viva luz, y siguiendo su estela, llegué hasta el sitio en que un niño divino sonreía, con sonrisa distinta de todo lo que yo había visto hasta entonces! Y me dediqué a observar todos sus pasos. Yo no me le presentaba en forma humana, pero él advertía mi presencia, lo mismo que ocurre a casi todos los hombres. Una vez, tú lo sabes, ya es historia antigua, viendo que su popularidad aumentaba, lo tenté para que se lanzara en pos de las glorias terrestres, le hice ver que acaso podría salvar a su raza del poder romano. Él consideró mis insinuaciones, las repasó una y otra vez en su mente, y finalmente las desechó con decisión. Yo atribuí aquella conducta a vanidad excesiva, porque creí que Jesús pensaba: yo no seré sólo el salvador de mi raza, sino el salvador [p. 35] de todos los hombres… Entonces, no sé si por buscar venganza o por probar más de cerca su fuerza, yo me apoderé del alma del más obstinado de sus discípulos, y lo hice cometer una acción que todavía me abochorna. Sin embargo, mi intención era noble, era como el argumento tortuoso de un polemista terco; yo me dije: si es Dios, como dice, ¿qué puede importarle que un simple Judas vaya a denunciarle? Los esbirros no podrán prenderle, los jueces no podrán juzgarlo, el verdugo no se atreverá a tocar su manto; ¡y si no es Dios, que sufra el castigo de sus supercherías! Judas también se dijo: si es un Dios, que se salve, y a la vez que no me impida a mí ganar mis treinta dineros. La denuncia fué atendida; Judas recibió su paga, y aquel apóstol concluyó su predicación en el cadalso. Pero así como Judas no pudo gozar su oro, sino que prefirió ahorcarse para escapar a los remordimientos, a mí me ha quedado un amargo recuerdo de aquellos sucesos.
+
+**Prometeo** No comprendes el alcance de tu culpa, porque ignoras el poder del amor. El amor no imagina pruebas como la que tú quisiste imponer a Jesús.
+
+**Satanás** Y sigue siendo para mí un enigma, porque a diferencia de todos los otros dioses que yo he podido destruir con mis burlas, Él no se presta a la risa; y más bien me parece [p. 36] que si yo pudiera llorar, me habría arrancado muchas lágrimas. ¡A ustedes los hombres, que son tan sensibles, debe haberlos hecho llorar, muchas veces!
+
+**Prometeo** ¡Llorar y soñar!
+
+**Satanás** Y te confieso que sentí su fracaso. Yo hubiera deseado verlo poner en fuga a sus enemigos, y levantarse triunfante en los cielos. En el fondo yo simpatizaba con él, porque su ley de amor y misericordia, contradice abiertamente el “ojo por ojo, diente por diente,” de mi antiguo enemigo Jehová. Y a pesar de ser un rebelde, era Jesús tan dulce, que ablandaba las piedras; yo en su presencia tenía la impresión de hacerme escurridizo como líquido que pliega su forma a la del vaso. ¡Es una gran desgracia que el poder de Jesús no haya triunfado sobre el poder de Jehová!
+
+*Se oye un ruido como la vibración de un aparato de telegrafía inalámbrica.*
+
+**Satanás** ¿Tienes por aquí aparatos modernos?
+
+**Prometeo** No, esto es mucho más perfecto que cualquier aparato. Aguarda. ¡Ah, sí! ya veo: acaba de morir un habitante de la tierra, un filósofo de esos que comprenden y arreglan los asuntos de la sociedad.
+
+**Satanás** No me explico. ¿Quieres tú ahora [p. 37] sorprenderme con escenas de comedia de magia? ¡Sería curioso que te burlaras del mismo diablo!
+
+**Prometeo** No hay en esto ningún misterio. Yo me quedo inmóvil, y mi mente, por acción a distancia, percibe todo lo que está pasando; mas no directamente, sino que necesito comunicación simpática con alguno que esté vivo, para saber lo que ocurre en el mundo. La generación que está en la tierra me sirve como una infinidad de tentáculos, para percibir lo que pasa allá abajo. Tú no puedes entender esta especie de comunicación, porque no tienes en tu alma bastante simpatía.
+
+**Satanás** ¿Y cómo los ves así que han muerto?
+
+**Prometeo** Eso depende de la naturaleza de cada caso. Cuando un hombre muere, su alma va a la parte del universo donde están aquellos con quienes tiene más afinidades. Yo no advierto la muerte de los seres comunes, pero cuando muere un filósofo, experimento una gran sacudida; y si se ha preocupado por el progreso de los hombres, entonces es seguro que al fin y al cabo viene a dar conmigo. Es como si todas las almas noblemente activas, fuesen otros tantos hilos de una energía que se dispersa para la obra, pero al fin vuelve a juntarse. [p. 38] Igual debe suceder con los que se han amado mucho; así que están libres, vuelven a unirse como se juntan en la orquesta las vibraciones de un orden afín: los violines con los violines, los latones con los latones, para formar frases y temas. Algunas veces siento pasar almas que no se detienen a verme, ¿para qué, si ellas ya saben? Son las almas de los místicos que van derecho al seno de Dios. Cuando dejan el cuerpo, se ve como una esfera de luz que asciende, y arriba, algo deslumbrante, que se abre para recibirlas.
+
+**Satanás** Has hablado de Dios; ¿te refieres a Jehová?
+
+**Prometeo** No, Jehová lleva muchos años de muerto; me refiero al Dios que no muere.
+
+**Satanás** ¿Tú le conoces?
+
+**Prometeo** No, nada que tiene forma humana es capaz de conocerle.
+
+**Satanás** ¿Y tú irás con él algún día?
+
+**Prometeo** Todos tenemos que ir, pero cada cual por su camino y así que su obra esté concluída. Mi misión es impulsar el progreso de los hombres.
+
+*Se escucha de nuevo la vibración rara.*
+
+**Satanás** *(En tono de burla.)* ¿Quién más ha muerto?
+
+**Prometeo** Es el filósofo que llega!
+
+**Satanás** Me quieres decir que un hombre que acaba de morir se presentará aquí entre [p. 39] nosotros? Esta es una treta ya muy desacreditada; ¡si creerás tú en la resurrección de la carne!
+
+**Prometeo** La carne no resucita, pero el espíritu no muere. Sin embargo, los que después de la muerte siguen preocupándose por las cosas humanas, conservan una sombra de forma humana, porque sólo así pueden discurrir sobre lo humano. En las formas hay géneros, y a cada género de formas corresponde un universo distinto. Por eso no entendemos a Dios, porque Dios sobrepasa el género de forma a que pertenecemos nosotros, y a todos los géneros.
+
+*Aparece una sombra que primero es muy tenue y después se aclara hasta que sus contornos se precisan y se confunden, con los de un hombre en traje común. Su expresión es como la de un sonámbulo.*
+
+*Prometeo hace una seña a Satanás para que se oculte, diciéndole: “Aparta, tu presencia podría alarmarlo.” En seguida, dirigiéndose al recién llegado [p. 40] , dice: “Adelante… sé bienvenido.”*
+
+*El Filósofo de la Tierra, después de mirar atentamente a Prometeo…*
+
+**El Filósofo** ¡Un hombre! ¡Un hombre que he visto antes… no sé… y como si fuese idea, como estatua… Eres la primera cosa animada que encuentro; hace ya muchos días que me envuelve una especie de sueño; me parece que me he muerto, o que estuve dormido, o más bien como entumecido largas horas, y después comencé a andar; más bien dicho, a deslizarme por el espacio; me fui por los campos, y comencé a subir.
+
+**Prometeo** Desde tu muerte sólo han transcurrido algunos minutos; pero el tiempo de esta zona a que llegas es mucho más rápido que el tiempo del mundo; no tiene que vencer la resistencia de la materia y va de prisa.
+
+**El Filósofo** ¡Ah! ya comprendo, estoy en la eternidad.
+
+**Prometeo** No es todavía la eternidad.
+
+**El Filósofo** No debe serlo, porque aún conservo muy vivo el recuerdo del mundo; parece que no he dejado el mundo.
+
+**Prometeo** ¿Qué ves en el mundo?
+
+**El Filósofo** ¡Oh, lo mismo que ayer! Los hombres están empeñados ahora en una nueva forma de optimismo. Ya no creen en el pasado, porque lo han conocido bien y lo abominan. Palpan demasiado el presente para poder amarlo, y se quejan y reniegan de él; pero todos sienten arrebatos de esperanza, cuando se les habla del porvenir. Así ocurre, particularmente en esas tierras de Hispano América. Los hombres de todas las razas que allí se han juntado, hablan de formar una humanidad nueva con lo mejor de todas las culturas, armonizado y ennoblecido dentro del molde español. [p. 41] Tal es hoy la quimera desde el río Bravo hasta el Plata.
+
+**Prometeo** Quizás en esta zona del globo, se librará la batalla definitiva del hombre contra las fuerzas que estorban su dicha.
+
+**El Filósofo** Es lo que yo he estado diciendo: si lo que allí resulte no es mejor que todo lo que se ha visto antes, entonces la humanidad no tiene remedio y debe perder la esperanza.
+
+**Satanás** *(Sin poderse contener más, exclama:)* Pero si allí, la discordia no cesa nunca, y los déspotas más ramplones se hacen venerar como dioses!
+
+**El Filósofo** *(Mirando al diablo.)* ¿Quién es éste cuyo aspecto tampoco me es desconocido, y qué hace en tu compañía? *(Dirigiéndose a Prometeo.)* ¿Es tu servidor?
+
+**Satanás** *(Antes de que Prometeo tenga tiempo de contestar:)* Aquí no hay amos ni esclavos, aquí no hay tiranos, ¡esto no es la América Latina!
+
+**El Filósofo** Pues ya quisiera yo verte de tirano mío, para probar cómo daba cuenta de ti.
+
+**Satanás** *(Con burla.)* Pareces un simio recién descolgado de la selva del trópico.
+
+**El Filósofo** *(Dice para sí.)* Pero ¿dónde he visto yo este espantajo ridículo? ¡Ah, sí, pareces un diablo de pastorela!
+
+**Prometeo** *(Interviniendo.)* ¡Vamos! No derrochéis [p. 42] el esfuerzo en disputas; la energía es un noble tesoro que hay que gastar con tino.
+
+**El Filósofo** *(Ya calmado y como disertando consigo mismo.)* Sí, tiene razón esta sombra, no es posible el progreso mientras haya países esclavos: Venezuela está oprimida, Guatemala moribunda. México se halla enfermo; pero cada vez que un tirano se encumbra, el pueblo también se levanta y lo aplasta. ¡Y el resto de la América española es libre!
+
+**Prometeo** Ojalá que al aplastar cada tirano estuvieseis seguros de hallar otro mejor.
+
+**El Filósofo** Sí, pero veo que hace tiempo estás lejos del mundo; ¿a quién se le ocurre ahora derribar un tirano malo para substituirlo por uno bueno? No hay tiranos buenos, ¡y no basta tampoco con que todos los hombres sean libres!
+
+**Satanás** ¿Qué más, pues, es necesario?
+
+**El Filósofo** *(En tono irritado.)* ¡Que todos coman para que todos piensen!
+
+**Satanás** *(Con burla.)* Ya veo, pediréis que caiga el maná del cielo, ¿o repartiréis el maíz, como en el circo romano?
+
+**El Filósofo** *(Con orgullo.)* Poseemos un maná divino: el trabajo; y una ley humana y justa: “el que no trabaja no come.” [p. 43]
+
+**Satanás** ¡Una sociedad de hormigas, porque para abejas les faltan alas!
+
+**El Filósofo** No me hacen gracia tus bromas. El fin del trabajo es ganar el ocio, el ocio fecundo que permite pensar y gozar. ¡Tesoro que hasta hoy ha sido privilegio de unos cuantos, que no saben usarlo! Los ricos no han podido usarlo, porque la riqueza es para quien la posee una lepra y para quien la tolera, un despojo. En cambio, puesta al servicio común, la riqueza será benéfica; ¡acaparada por un hombre es un crimen! Por eso la ley ha de ser, que a nadie sobre mientras a alguien falte… Esto es cristiano, ni más ni menos, verdaderamente cristiano… *(dirigiéndose a Prometeo)* ¿Sabes tú que hay ahora en el mundo una gran corriente cristiana?
+
+**Prometeo** No me sorprende, pero no veo que cesen las guerras.
+
+**El Filósofo** La última gran guerra de dos bandos de naciones fenicias, demostró el fracaso de todo lo que odiamos, y ha orientado por otros rumbos la esperanza. La codicia devorando a sus propios hijos, nos ha llenado de horror. Por eso los rusos, que son idealistas, se hicieron a un lado, y los pueblos españoles no quisieron formar entre los mercaderes. En el porvenir, los imperios, no los forjará la espada ni el tráfico, sino el gusto y la simpatía. [p. 44] Los nacionalismos, que son obra de la política, cederán ante los panetnicismos que reclama el espíritu! Los nuevos pueblos se organizarán por lenguas: la Confederación Española, la Inglesa, el Japón y Rusia, la India, he ahí las futuras potencias. Las guerras tendrán objetivos menos viles que la disputa de los mercados, pero quizás subsistan, pues el mal está en la pobreza maldita del globo frente a la avidez de los hombres, y su ceguera para multiplicarse… En fin, ustedes se parecen demasiado a los hombres, y yo llevo años de vivir entre ellos, y tengo ansia de cosas nuevas, y un deseo irresistible de ejercitar esta facultad insólita de recorrer los espacios; me voy, me voy a explorar el cielo…
+
+**Satanás** Se fue sin preguntarnos nada; bien se ve que es un necio.
+
+**Prometeo** Hay en él fuerza.
+
+**Satanás** ¿Te ha impresionado el sujeto?
+
+**Prometeo** Sí, pues parece que al fin se acercan los hombres a la ley del Señor. Este es un hombre que volverá al mundo, porque todavía está lleno del mundo. Hay en su alma cierta generosidad que es útil allá abajo; pero yo no puedo poner mucha atención en los detalles de la lucha terrestre… yo voy por otra ruta. Satanás, andemos… [p. 45]
+
+⁂
+
+#### [§3] Acto segundo
+
+*Escena. Risueña llanura primaveral, limitada por alta serranía de cuya falda nace una cascada que desciende en dos tramos y luego forma un río que se pierde por el bosque. A la izquierda quedará visible un remanso cristalino. El cielo transparente y profundo tiene entonaciones violetas. En la pradera, bancos de mármol dispuestos en desorden y una estatua de Diana. Los personajes vestirán ricamente conforme al estilo del cuadro de la Primavera de Botticelli. Al mismo tiempo, habrá detalles del más refinado modernismo, pues la acción pasa en un futuro de miles de años.*
+
+Personajes: Prometeo. — Un Desconocido. — Coro de Ninfas. — Primera Mujer. — Segunda Mujer. — Saturnino. — Bailarinas. — El Viejo. — Público Abigarrado. — Coro de Mujeres.
+
+**Coro de ninfas** ¡Ven, glorioso campeón; para ti guardamos los más dulces besos; los besos [p. 46] que no conoce ningún hombre, embriagantes como el hálito de estas últimas primaveras! ¡Pues eres tú el que inició a los hombres en la sabiduría, ven a tomar la miel más acendrada de nuestras jóvenes bocas! / / ¡Nuestras carnes son como el nardo, fragantes, y en brío y morbidez, superan a las estatuas! Somos blancas como el más limpio mármol, y al soltar los cabellos parece que un lampo de sol nos baña la espalda. Son nuestros labios rojas heridas donde la vida arde con ansiedades de brasa; en nuestros ojos de clara esmeralda, hallarás el misterio de los mares sin fondo. / / Otras somos blancas, con tinte azulado, más blanco que el de la rubia y más incitante; en nuestros labios hay la pasión que crea los infiernos y un licor que turba y no sacia! Las madejas de nuestros cabellos son como serpientes voluptuosas. / / A otras nos ha bruñido el sol con sus rayos de oro, y abrigamos la potencia, fina y profunda que alimenta las pasiones largas. / / ¡Prometeo, no puedes rehusarnos! ¡Era un error el anhelo que buscaba pareja acomodada a las uniones eternas. No es el mortal para largos gustos y el deseo no se extingue en un beso ni en millares de besos. / / El sonido de nuestras voces penetra en tu alma [p. 47] como dulce licor en boca sedienta y a poco que nos contemples te pondrás a temblar; ven sin reparo, nuestro amor no da sino frutos de gloria. ¡Ni un hijo hemos concebido, ni un hijo hemos de concebir! ¡En nosotros se extingue la estirpe, en nosotros se extingue el dolor! De nuestras dulces uniones fluye alegría, y sólo queda un recuerdo glorioso! / / ¡Ven, Prometeo, no nos niegues la fuerza que trasmutada en belleza se hará eterna. Nuestras almas quieren tu fuerza, para el tránsito próximo. Nada temas, no engendramos hijos, no engendramos dolor; engendramos deleite, deleite que el héroe recoge y transforma en laurel vencedor!
+
+*Prometeo contempla a las ninfas y siente que vacila; en seguida se dirige a un banco y se sienta. Las ninfas se ocultan entre el bosque y van apareciendo hombres y mujeres que se reparten en grupos, sentándose en los bancos o conversando de pie. Los trajes y las decoraciones serán un derroche de belleza y lujo; de cuando en cuando verán al cielo y algunos dirán: «ya se mira,» «ya viene».*
+
+**Un desconocido** *(Dirigiéndose a Prometeo.)* ¿Acudes a la fiesta?
+
+**Prometeo** Sí.
+
+**Desconocido** Será fascinante; cada vez que Saturnino habla, se producen escenas tremendas. [p. 48]
+
+**Prometeo** ¿Es terrible su doctrina?
+
+**Desconocido** No, su doctrina es la de todos nosotros; pero él sabe exponerla con caracteres dramáticos; la lleva a sus consecuencias extremas, y no le detiene ningún temor divino ni humano.
+
+**Prometeo** Ese ha sido el secreto de todos los grandes reformadores: soltar la lengua y decir la verdad. Pero, ¡qué caro cuesta! los hombres no lo perdonan, porque ven denunciados sus vicios, y los dioses lo castigan, porque sus tronos se asientan todavía en la injusticia.
+
+**Desconocido** Eso era verdad en las antiguas edades: hoy el que más hondo siente y más claro se expresa es, no sólo el favorito, sino el amo; le basta hacerse oír y convencer, y en seguida todos ajustan sus actos a la nueva doctrina.
+
+*En esto se produce un rumor entre los circunstantes, y todas las caras se dirigen al cielo, como observando un punto en movimiento…. Se oyen voces que dicen: «ya llega»… «ya desciende»… «en seguida aparece el que se supone ha bajado, el filósofo», en un aeroplano. Voces alegres, saludos. [p. 49]*
+
+**Saturnino** *(En tono grave y con cierta palidez en el semblante.)* Amigos míos, aun cuando quisiéramos arrepentirnos, nuestra decisión ya no puede variarse. La voluntad de vivir, como decían los antiguos, ha sido aniquilada… la raza humana se va; ¡ya no hay un niño en el mundo!
+
+**Primera mujer** *(Madura y fea, delgada y con aspecto de fiebre.)* Pues pronto los habrá de nuevo, con tal de que yo encuentre un hombre, un solo hombre en el mundo. No te regocijes, maldito, que habrá otras como yo, a millares, y poblaremos la tierra con raza valiente que barra toda esta casta de eunucos que hoy sueña quimeras morbosas.
+
+**Saturnino** Tu rebeldía pone a prueba la doctrina y conmueve mi corazón. ¡Ve y haz como te plazca! Consulta la voluntad del mundo y verás cómo te dice que ya es tiempo de que la vida abandone lo imperfecto y se realice en formas mejores que el hombre!
+
+*Se oyen voces que anuncian que alguien llega; todas las miradas van al cielo, y a poco aparece otro viajero, llegado en otro aeroplano. [p. 50]*
+
+**Mujer segunda** ¡Ha muerto! ¡Acaba de morir mi único hijo, hijo pequeño que alimenté con mi sangre! Lo concebí burlando mis votos; tal vez esto fue malo, tal vez la voluntad divina ya no quiere más hombres, puesto que todo mi amor no ha bastado a salvarle: *(rompe a llorar…. Después se repone poco a poco, y, como si todo fuera mentira, se va animando):* el amor que crea, el amor que puebla los mundos, el amor que asecha en los bosques mientras bailan las ninfas, el amor que se desmaya en los azahares; el amor mío, que se hizo inmenso, y lo quise completo y lo dejé correr, como río desbordado… Me anegó a mí, y quise que también inundase al mundo, que inundase al tiempo, y solté una vez más la corriente que engendra los hombres…. Lucharon mi convicción y mi instinto y dejé vencer al instinto, y me fue muy dulce la derrota. Y me puse a pasear mi pecado entre las miradas codiciosas de las otras mujeres; y todas reprimían un temblor de adoración, al ver a mi hijo, el más bello de cuantos hubo en el mundo! ¡Sí, debe ser un pecado engendrar, pues de otra suerte, si el amor fuera santo, cómo no habría de vencer la muerte! Yo lo disputé a la muerte, sentí que se iba, y no me quería conformar, mi voluntad lo arrebataba al destino, y me parecía imposible que la muerte venciese… sin embargo, se ha ido, como una llamita que al quererla tocar se apaga… ¡Que me digan todos los filósofos, pero especialmente este charlatán maldito que recorre en triunfo los pueblos; que me diga por qué se mueren los niños, por qué se mueren los jóvenes, por qué es tan estúpido el poder que ha creado la humanidad… *(llora otra vez.)*
+
+**Saturnino** Si yo fuese un sofista empeñado [p. 51] en sacar avante una tesis, ahora mismo me valdría de la angustia de esta pobre mujer, para deciros una vez más: no pongáis amor e ilusión en carne, no engendréis hijos. Procread en el pensamiento, que las obras de la idea son perennes y hermosas. ¡Huid de la carne, que sólo produce disgusto y dolor! Pero yo no soy un sofista y no estoy empeñado en demostrar una tesis. Mi intuición nace de lo más profundo y noble que tiene el instinto y me dice que la vida debe libertarse de su sumisión al planeta; me dice que la vida no se pierde porque perezcan los hombres; me dice que la vida se transfigura más allá de la naturaleza de los hombres! / / La sublime intuición había nacido conmigo, yo la concebí y desarrollé, y todos los hombres desde que el mundo existe la han practicado en mayor o menor grado; pero una vez, hurgando en el más remoto pasado, en busca del pensar de otras gentes, descubrí noticias vagas de un profeta llamado Saturnino, cuyas doctrinas gnósticas cita San Ireneo. Combinaba Saturnino las ideas religiosas de Oriente con la revelación cristiana, y en su horror de las obras materiales condenaba el matrimonio y la procreación, como fines contrarios al destino superior del alma. / / A todos vosotros os habrá ocurrido que al [p. 52] conocer la historia de determinados personajes antiguos, experimentáis una emoción tan viva, que parece que ellos eran vosotros mismos, o más bien dicho, que somos una reencarnación de sus almas; tan semejantes son a nosotros. / / Para mí, Saturnino fue como un antecesor remotísimo, aunque no sé si debo decir antecesor, pues muchas veces he sentido que Saturnino y yo éramos el mismo. De esta suerte he llegado a creer que mi anterior encarnación estuvo en el mundo hace muchísimos años para anunciar la teoría y después de dejarla consignada murió sin lograr éxito; no pudo lograrlo, porque el mundo no estaba dispuesto; mas al cabo de miles de años, y ya que los hombres han hecho todo lo que es posible hacer aquí abajo, Saturnino viene otra vez entre los hombres, y ahora sí, está a punto de alcanzar final victoria. ¡Y yo soy aquel de hace millares de años! / / Concebí el precepto y lo pensé, y lo desarrollé, mucho antes de verlo expuesto en los escritos de Saturnino; esto os lo repito, no por complacencia vana, sino para que podáis confirmar cuán misteriosos son los motivos del espíritu! Y cuando yo vi mis ideas expresadas, siglos antes, por Saturnino, ratificadas por un hombre que tenía sobre mí la ventaja de ser un venerable sabio y un santo, me pareció que no sólo se confirmaba la verdad que yo poseía, sino [p. 53] que quizás se aclaraba el misterio de mi origen a través de las obscuras edades antiguas; sentí como la revelación de mi antiguo yo, y dije: no soy Fulano de Tal, el filósofo un tanto disipado que toda la actual generación conociera, sino Saturnino, el milenario Saturnino, rejuvenecido, porque su hora ha llegado en el mundo, y desde entonces, olvidé mi nombre de pila, adopté el de Saturnino y me puse a predicar la doctrina.
+
+**Coro anónimo** Y desde entonces los hombres, libres ya de las preocupaciones terrestres, se han dedicado de lleno a la investigación del porvenir trascendental.
+
+**Saturnino** La idea que antes no pudo prosperar ha prosperado ahora. A todos los altos credos les llega su era, pues el espíritu nunca trabaja en balde! / / Mientras hubo países por descubrir, tierras nuevas que explotar, no era posible detener el incremento de la población. La tierra necesitaba que la mente humana recogiese los más fugitivos destellos de su belleza, para convertirlos al panorama eterno de la representación espiritual. La tierra se fue llenando de hombres y, a los grandes imperios que se sucedían unos a otros, siguió la era de las nacionalidades en competencia y más tarde la federación de los pueblos por razas y lenguas. La amarga [p. 54] experiencia de la discordia, indujo a la expedición de leyes sabias que garantizaban la igualdad, no tanto en la política, sino en el uso y disfrute de los bienes terrestres que por igual aprovechan al humilde y al sabio. Llegó a ser un delito acaparar riquezas, y entonces los hombres, libres de la ruin codicia, cesaron de emplear su ingenio en el mutuo despojo, y el trabajo inteligente aseguró la general abundancia. / / Se creyó al principio que el desahogo material traería consigo un gran aumento de población, pero ocurrió todo lo contrario. El horror de una China repleta de hombres iguales y míseros, el horror de una Chicago o de una Nueva York llenas de esclavos, había servido de enseñanza y ejemplo. Los explotadores ya no se atrevían a propagar sus doctrinas de reproducción ciega, y el hombre libre, en acatamiento de su más despejado instinto, cesó de propagarse como se propagan las bestias. A mayor grado de prosperidad, descendencia más reducida, fue la ley que la estadística iba descubriendo, y por fin rápidamente, por una serie de triunfos brillantes, la humanidad ha ido llegando a estas épocas nuestras de vida justa y noble, gloriosa y libre.
+
+**Coro anónimo** La era estética, [p. 55] pues hoy no nos gobierna más ley que la intuición de una generosa belleza!
+
+**Saturnino** Llegamos a la era estética, es decir, a la era en que ya no nos mueve ningún fin extraño a nuestra esencia propia, y tenemos el alma libre para seguir la ruta de sus mejores impulsos… Y fue entonces cuando el alma, sintiéndose libre, se dijo a sí misma: “ya no más efímeros triunfos sobre el exhausto planeta. La vida de aquí abajo es fea sin remedio, destruyámosla! El espíritu es glorioso, hagámonos, tan sólo espíritu!” / / Al pensar de esta suerte, no hace otra cosa la humanidad que realizar en conjunto, el propósito que ya mucho antes han cumplido las almas selectas del pasado. Las almas que son anticipación de los destinos colectivos. La única novedad que yo he traído consiste en hacer de general observancia el antiguo precepto: no limitar la salvación a uno, sino hacerla extensiva a todos. / / ¡Cambiar el sentido del mismo instinto que quiere procreación, en voluntad que la condena y la niega; suprimir la vida imperfecta del mundo, no por medios violentos que son contrarios a su naturaleza, sino por medios instintivos que son de su misma esencia: tal ha sido el motivo secreto que anima a todos los castos! La castidad no es importante porque suprime [p. 56] el deseo y el goce, sino porque suprime la descendencia. La voluptuosidad es condenable porque degrada el carácter, pero el goce pasajero es inocente si se mantiene infecundo. / / La potencia vital pugnando por librarse de recaer en lo humano: tal es el empeño común del casto y del que burlándolo, embellece el instinto genésico. El ciego apetito es como una anestesia de la conciencia, pero cuando él cesa, la conciencia descubre en sí misma, un instinto que primero vacila, y después repugna procrear: ¡he allí el instante en que la potencia, desencantada de lo finito, comienza a orientarse hacia la existencia infinita! / / En el Evangelio es alabada María, la hermana de Marta que derrama perfumes; es perdonada Magdalena, la derrochadora de su belleza, y sólo fue censurada Marta, el ama hacendosa, la hija de la tierra. Con razón San Pablo perdonaba el matrimonio, pero recomendaba la castidad, la santa e infecunda castidad; ¡la castidad que, toda la fuerza de la materia la convierte en potencia del alma! / / Con razón, todos los pueblos, en todas las épocas, han rendido apasionado tributo a las cortesanas pródigas y hermosas, y devoción ferviente a las vírgenes monjas, esposas de Cristo, o reclusas del Asia. ¡Unas y otras adorables, porque ponen término a la triste aventura [p. 57] del paso del hombre por el mundo! Vírgenes, y cortesanas, se reparten el amor y la admiración de los hombres, porque hemos venido al mundo, para hacer una experiencia que no debe ser repetida!…
+
+*Se oyen de pronto voces que dicen: «las danzarinas, las danzarinas.» Entra corriendo con balanceos voluptuosos, una tropa de manolas que después de algunos giros brillantes, danzan un baile pausado, lleno de ardor y de ritmo, levantando apenas el muslo, como si estuviesen muy apegadas a la tierra, pero al mismo tiempo, la idea de ascensión se desarrolla en la cintura y en el torso, que se irgue rítmicamente…. Mientras se desenvuelve el baile, el grupo que se había reunido en torno del filósofo se dispersa, y todos contemplan a las bailadoras, flotando sobre la escena una unción religiosa. Del grupo de danzarinas, se desprenden dos muy esbeltas y espléndidas, que con trajes goyescos, y alegría en el rostro, bailarán las «Bulerías,» con sus suaves contorsiones profundas que se resuelven en grito musical, en melodiosos raptos de delirio y goce…. Así que termina el baile, las bailarinas se mezclarán a la concurrencia de escena y todos vuelven a agruparse alrededor del filósofo…*
+
+**Saturnino** ¡Todo es tan obscuro como la [p. 58] voz de estas melodías antiguas que tienen la esencia de la tierra y la aspiración de lo eterno!
+
+**Bailarina primera** Cuando bailo, siento el misterio; pasa por mis sentidos algo como el horror de la muerte y después me invade una infinita alegría!
+
+**Saturnino** ¿Y así que has cesado de bailar?
+
+**Bailarina primera** Entonces siento que todo lo que he de hacer y todo lo que ocurre, no tiene más importancia que servirme de intervalo, para cuando vuelvo a bailar.
+
+**Saturnino** ¿Será esto una inclinación a la vida, o una inclinación a la muerte? ¿Pero qué es la vida corpórea sino la muerte, si cada instante de vida causa la muerte de pequeños y grandes seres? Oh mujer, quizás el calofrío de muerte que por ti pasa, es el calofrío de la vida terrestre que cuando tú bailas sufre en ti un conato de muerte; y la alegría que tú sientes, es la alegría de las almas que de verdad han vencido a la vida, y han vencido a la muerte: tu alegría es trasunto de la alegría de la eternidad, y en tu arte se encierra todo el enigma! / / Amigos míos, yo os digo una vez más lleno de fe: / / ¡No toleréis que la potencia, esta noble potencia, aliento del alma, se corrompa y descienda para engendrar otra vez los instantes [p. 59] de vida obscura y finita que somos los hombres! Yo os repito que la carne no es digna del ser, puesto que no soporta la eternidad! / / La energía aspira a hacerse eterna y ya no quiere sufrir la recaída en lo efímero, que implica el engendrar. En cada brote de nuestra carne, el anhelo tornaría a arrastrarse sobre el planeta, y nosotros poseemos el ímpetu de lo que ya no quiere reptar. Unos se redimen por la virtud, y esos son santos; otros se redimen por la belleza deleitosa, como quien quema en lento fuego su arcilla; pero lo importante es ya no reincidir, ya no procrear: el instinto que nos impele a suprimir para siempre este error de la vida terrestre, es un instinto tan válido como el instinto que obliga a procrear. ¡El instinto de la no procreación es también un instinto antiguo y sagrado! / / La contemplación del desacierto que es vivir, ha paralizado el deseo y ha ordenado a la voluntad: ¡Basta!
+
+**Un hombre** Permite que exprese una grave objeción: si así se hubiese pensado hace mil años, no estaríamos aquí nosotros, y nuestras almas tal vez se consumirían en algún limbo, condenadas a obscuridad perpetua, sólo porque el egoísmo humano se había negado a darles cuerpo donde viniesen a aprender el secreto del sonido, el secreto de la luz: los múltiples secretos de la conciencia. [p. 60]
+
+**Saturnino** Esa misma pregunta me he hecho muchas veces, pues no hay en la naturaleza instinto de sobra; pero si antes pudo ser bueno procrear, ahora que la existencia terrestre ha sido exprimida de todos sus jugos, conviene que la potencia suba, en vez de arrastrarse. Muchas almas tal vez han usado el concurso del hombre para ascender y redimirse en la luz —quizás el hombre no es más que una de las formas que en su inmensurable devenir toman las almas—. Apresurémonos a superar esa forma. Justamente por eso luchan en nosotros ambos instintos, el instinto que crea la vida terrestre y el instinto que se abstiene, porque se reserva para creaciones mejores. Paulatinamente ha ido venciendo el instinto nuevo, lo que prueba que por lo menos, ya no hay muchos seres, detrás de nosotros, que necesiten ayuda; la presión que en nosotros ejercen, ya dejó de hacerse urgente. En cambio, la atracción de lo alto se acrecienta… Yo no he impuesto, ni podía haber impuesto una abstención forzada. La resolución de continencia ha de brotar de lo hondo del querer. / / La entraña misma del yo, ha de decidir si todavía le queda algún afán en el mundo, si todavía siente detrás de sí el llamado de seres afines [p. 61] que padecen inconciencia; entonces si tales seres la reclaman, la conciencia se llenará como de ciego apetito, se inclinará a la tierra, y extraerá de ella esencias; esto se llama engendrar. Pero si el examen minucioso de nuestra potencia, no revela ninguna atracción hacia abajo, y si, en cambio, sentimos que todos los llamados nos vienen de arriba, entonces abstengámonos de obrar hacia abajo, y descubriremos lo que es informarse en espíritu. No hay otra señal. Escoge entre todos tus impulsos el más elevado y descuida lo demás. No eres tú el padre, ni el creador de los seres, y tus escrúpulos pueden no ser más que excusas de la parte innoble de ti mismo, que quiere volver a las suyas!
+
+**El hombre** Es que si algo está todavía inconcluso, resultaría un deber del hombre continuar su lucha aquí abajo; sin embargo, reconozco un hecho: ninguno de los grandes profetas ha dicho: ponte a poblar la tierra; todos dicen: ¡apresúrate, vete de aquí!
+
+**Saturnino** Eso han dicho porque supieron que no era posible el bien, dentro de la corteza humana. El que logra ser bueno, ya no es humano, ¡hácese divino! La bondad es absurda desde el punto de vista humano; sin embargo, es sublime, y como el heroísmo, conduce más allá de lo humano! El instinto meramente humano es un instinto maldito! Yo os afirmo [p. 62] la ineptitud fundamental de la forma humana, para mantener vida que sea noble o alta!
+
+**Primera mujer** Pero, ¿qué derecho tienes tú, desdichado, para reformar la creación? ¿Eres acaso un Dios?
+
+**Saturnino** Esa misma pregunta se ha hecho a todos los innovadores. Contra todos se invoca la ley del pasado, como si el saber del presente no fuese tan cierto, por lo menos, como puede serlo, la antigua experiencia. ¡También contra Prometeo se lanzaron anatemas, porque al dar a los hombres la industria, creó una división radical entre el reino de las bestias y el género humano… ¡No, basta de vacilaciones, yo no abrigo ninguna duda, el ciclo de la transmigración va a terminar!… ¡El hombre es una cosa que se va, se va con todo lo que le pertenece, con todas las semillas de su ser!
+
+**El Viejo** ¡Más te valiera, Saturnino, reflexionar en tu obra, antes de seguirla adelante con implacable tesón! Advierte que has afeado y empobrecido la vida; mira que no es sólo la risa divina de los niños, lo que destierras del mundo, sino también la gracia y lozanía de la juventud, la firmeza y la ciencia de la madurez. Lo divino es creación y alegría, no puede ser supresión y muerte. ¡Tú estás enfermo o te vengas de que no hallaste la dicha! De [p. 63] ja que el mundo vuelva a temblar de júbilo cada vez que retorna el milagro de la Primavera. Empapa tu alma atormentada en el esplendor de las auroras. Contempla los cielos, ellos te dirán que lo divino es luz y dulzura, color y alegría, plenitud y desenfado. ¡Deja que sobre la pradera florida se enlacen parejas en fértiles lazos, que la vida es hermosa, y por eso es eterna!
+
+**Saturnino** Un viejo es el que me habla de la vida, cuando en rigor debiera hablarnos del trasunto que ya para él está próximo. ¿Sabes, acaso, el mañana, tú que sollozas por el ayer? ¿Y qué tienes del ayer, sino recuerdos falaces que tu fantasía decora con luces irreales? ¿Crees tú que la vida la desdeñan los que no la han gozado? Para desdeñar es menester conocer; no desdeñamos la esperanza. Si la humanidad de hoy fuese la humanidad ávida y hambrienta de antes, convulsa y rencorosa, no sería entonces la hora de predicarle una más alta existencia: bastaría con hartarla. ¡Ve y predícale a la vaca, que haga un esfuerzo y que junte dentro de sí, las potencias de su organismo, para ver si fabrica una conciencia; para ver si llega a ser como el hombre: te dirá: “déjame remoler mi pasto, que la pradera está verde, y es muy dulce la hierba.”
+
+**Coro anónimo** Prevalece por doquiera [p. 64] una tensión penosa, como la pesadez de la atmósfera, cargada de relámpagos que no estallan, pero a cada instante reverberan, descubriendo mil formas fantásticas. / / Desarróllase una tragedia funesta y se siente el horror de la cuchilla que corta el lazo; el lazo que une a una generación con otra generación. Los que ya sois viejos estáis impotentes; pero los que todavía podéis recapacitar, ¡oíd lo que os digo!: “Triste vejez os aguarda; meditad que acaso es un terrible crimen la locura que estáis incubando!”
+
+**Saturnino** ¡Es el terror misterioso de todos los trances! ¡También el nacimiento está rodeado de sombras y sin embargo la vida es luz; lo mismo ocurrirá después de la muerte!
+
+**Coro** La vida de esta generación, parecerá alargarse sin término, y cuando llegue a la vejez, y ya no pueda arrepentirse, caminará errante, por bosques y prados, buscando afanosa el húmedo calor de la tierra, la exuberancia grata de las plantas; y desoladamente lamentará su sacrificio, lamentará la muerte definitiva! ¡Comprenderá entonces que ha sido víctima de una catástrofe sombría, de un engaño diabólico irreparable! / / Sus quejas y lamentos llenarán las selvas; y a la hora de la siesta, los últimos hombres arrastrarán lujuria amarga, pasando por los [p. 65] jardines y las fuentes, como sátiros canosos y decrépitos! ¡Y en vez de las ninfas soberbias que alegraron la infancia del mundo, asomarán por los senderos, viejas escuálidas de ojos febriles y rígidas formas. ¡Y llorarán los sátiros en tanto que las furiosas arpías, lanzarán maldiciones contra la memoria de este desventurado que ojalá pronto desaparezca del mundo, porque es un enemigo del mundo! / / ¡Generación extraviada, todavía es tiempo, y tú, Saturnino, ve y abdica de tus errores, y en nombre del amor inmortal, deja que una raza nueva pueble el planeta!
+
+**Saturnino** *(Dirigiéndose a todos.)* En nombre del amor inmortal, oh generación, ¡consulta tu conciencia!
+
+**Un joven** En unión de amigos jóvenes recorría yo el mundo. Allí donde el paisaje era más hermoso, hacíamos alto y en el césped blando, bajo el inmenso cielo, tendíamos manteles, y se servían las viandas y el vino rebosaba en las copas; en seguida, coronados de rosas danzábamos cambiando besos y risas con las jóvenes que nos acompañaban, y con otras que curiosas, venían a aumentar nuestros coros. Entrábamos en cada día, como en un nuevo festín, y las noches se nos hacían breves bajo las estrellas dichosas. Una vez, era tan dulce el [p. 66] reflejo celeste que se deseaba llorar; mi compañera a mi lado caminaba envuelta como en un sueño divino; cruzado el sendero, llegamos al secreto del jardín, al sitio donde las sombras ofrecen abrigo propicio a las más tiernas caricias; pero hasta allí fue a buscarnos un mensaje de muerte… En ese mismo instante, en rápido vuelo, fuime al otro lado del mundo y hallé a mi madre muerta… pasaron los días, la casa estaba intacta, las mañanas seguían siendo claras, las gentes por la plaza, reían, el mundo era el mismo, pero en mi alma herida de muerte, apareció la certeza de que me había traicionado la vida. Y me dije: “No legaré mi desgracia, en mí se suspende el absurdo!”
+
+**El Amante** En nombre del amor, yo también he de hablar, pues nadie ha amado como amé yo! Todo lo recuerdo fielmente… su presencia era dulce y me hacía temblar; sus largas pestañas sedosas, parecían los estambres de una negra flor, y sus ojos húmedos tenían el misterio de los piélagos. En sus trenzas anidaba la noche, y su carne era como la pulpa de los jazmines; en sus labios había el olvido que es parodia de la eternidad. Sólo el huracán iguala el ímpetu que unía nuestras bocas, y el rapto de la dicha que nos embriagaba; y era tal nuestro afán de fundirnos, que cada vez que la luna juntaba en el jardín nuestras sombras, creíamos en un presagio de cómo se unen en [p. 67] el cielo las almas!… Pero el amor es infinito y no lo resiste la criatura mortal! El pensamiento nos roía el corazón como las garras de un tigre hambriento; poco a poco, aunque los cuerpos seguían juntándose, las almas tomaban rumbos opuestos, y la sensación de distancia se hacía irremediable, desgarradora, profunda. ¡La ley de las almas es el hallarse distantes! Sólo el poder de lo alto hubiera podido reunirnos; mas no fue así, y todavía me persigue la visión de un abismo, de un abismo que se llena con lágrimas. ¡En nombre del amor inmortal protesto que no he de legar mi tormento!
+
+**Saturnino** Hombres obstinados, ¡oíd! quien ha conocido la dicha, la declara falaz. ¡Sólo el que no la ha poseído la ama! ¡Generación despejada, tú eres la última! ¡La radiante generación heroica! Pues has dicho: “No más hombres y que sea la vida Infinita!” / / Al cabo de los siglos, la acción colectiva viene a cumplir lo que antes sólo lograban los elegidos, pues el instinto de castidad de todos los profetas, no era más que resistencia a colaborar en las obras de la potencia que se arrastra. ¡Ya no se envilecerá la energía; vuestra heroica resolución la levanta y la sube a los cielos! / / ¡La voluntad se heló para lo pequeño, y ya sólo se apresta a lo grande! [p. 68] ¡Unos van por un camino turbio y fácil y otros van por un camino glorioso y arduo. La voluptuosidad sin consecuencias, tal es el camino fácil. Los que prueban el primer camino pronto descubren que embrutece y degrada, y buscan refugio en la sola verdad, y se salvan; pero ¡dichosa por encima de todas es la suerte de la pureza impecable! Quienes la logran son santos y elegidos, guías y antorchas de los hombres! Y si las bailarinas son amables porque nos enseñan el tránsito de la pasión, en belleza inmortal, las otras, las verdaderamente castas, las hijas del Señor, que no han burlado el deseo, sino que en lid franca lo vencen: ¡esas son las inspiradas y las libres! ¡Y yo quisiera fundir mi alma en el coro de sus voces divinas! ¡Pues son sus plegarias como un claro néctar para la sed de las almas!
+
+**Primera Mujer** ¡Ya salió el beato!… *(Risas, a las cuales se une la del mismo Saturnino.)*
+
+*El grupo que se había juntado para oír la discusión, se disgrega. Las bailarinas ensayan pasos ligeros en tono de juego; un grupo de mujeres de las más feas, se dirige a Saturnino y, en tono grave, casi irritado, le dice: [p. 69]*
+
+**Coro de Mujeres** ¡Iremos a procrear hombres, a pesar tuyo!
+
+**Saturnino** ¡Bah! no encontraréis compañeros dispuestos.
+
+**Coro de mujeres** *(Con furia.)* ¡Buscaremos centauros! ¡fuertes centauros! ¡hermosos centauros! Iremos por los llanos y por las selvas en busca de los centauros, y el ruido de sus pisadas pondrá pavor en todos los pechos. Traeremos la sana violencia sobre la tierra, la santa violencia fecunda. Dionisos vendrá cantando, y en su diestra portará una maza para romper los huesos de esta generación miserable, que, falta de hijos, no tendrá ni quien dé sepultura a sus cuerpos. ¡Mejor, así sus despojos abonarán la tierra! ¡Y los que no quisieron dar de sí un pedazo del alma para que otro ser existiese, convertiránse en frutos para sustento de hombres que no serán sus hijos! ¡Ven! ¿por qué tardas? ¡Dionisos Bello! ¡Dionisos Inmortal!
+
+**Saturnino** ¡Deliran! ¡deliran! [p. 70]
+
+⁂
+
+#### [§4] Acto tercero
+
+*Explanada estrecha sobre la tierra del Himalaya. Aparece Saturnino, muy viejo; a su lado Prometeo con su habitual apariencia de fuerza tranquila y Satán cerca, como una sombra. Es de noche, pero hay luz artificial. Se ven aparatos extraños, entre ellos un audífono con el cual se puede hablar a cualquier parte del globo, y un telescopio-reflector que por medio de espejos combinados permite ver toda la redondez de la tierra; también habrá una gran campana y una caja donde se supone está un cronómetro.*
+
+Personajes: Saturnino. — Prometeo. — Satanás. — El Australiano.
+
+**Saturnino** ¡Heme aquí en la roca más alta del mundo, y cual nuevo Prometeo, atormentado, ya no por las furias olímpicas, pero sí por el rigor de mis propios pensamientos! / / ¡Uno a uno he visto morir discípulos y amigos, y ha querido el Hado que los más jóvenes se fuesen primero, y atrás quedamos los viejos, como para ver que la obra que iniciamos sea consumada, o para castigar nuestra audacia! [p. 71] No sé cuál de las dos sea la causa, ni sé tampoco si no habrá ninguna causa, pues cada vez me acerco más, ya al fin de los tiempos, al estado en que se hallaba el filósofo del principio de las edades, y digo a mi corazón, y le repito: “No sé nada.” / / ¡La única certidumbre es la certidumbre de mi dolor!… Y también me parece… *(incorporándose)* me parece que veo cerca de mí un ser como hombre… ¡ya seas visión o fantasma, aproxímate, deja que vea quién eres!
+
+**Prometeo** Tranquilízate, soy uno que simpatiza con tus penas, y éste que viene conmigo, también ha deseado venir a contemplar tu obra.
+
+**Saturnino** Bienvenidos seáis, pues ya hace tiempo que me consume la soledad, y el no tener a quien dar noticia de los graves sucesos que presiento! Todos los días a media noche, el tañido de aquella campana me reanima un tanto, y a la vez me parece que prolonga mi agonía. Hay noches en que quisiera no oírla tocar más!
+
+**Prometeo** ¿Qué es lo que te anuncia esa campana?
+
+**Saturnino** Es la señal convenida.
+
+**Prometeo** ¿La señal?
+
+**Saturnino** Cuando esa campana toca a la media noche, anuncia que todavía hay en la tie [p. 72] rra vida humana. El día que esa campana no suene, será porque ya no hay un hombre en el mundo; por eso he estado aquí, siempre cerca de ella, para tocarla yo, si llegan a faltar los demás!
+
+**Prometeo** ¿No la tocas tú ahora?
+
+**Saturnino** No, yo la oigo tocar todas las noches; como te he dicho, es la señal convenida. Hasta hoy ha sonado, herida por ondas que venían desde América, otras veces de Europa, mas ahora ya sólo quedamos tres en el mundo. Si los otros dos mueren, no podrán acudir a la media noche a tocar la campana, esta será la señal de que han muerto, y entonces deberé tocarla yo, todos los días, a la media noche, hasta que llegue mi fin. ¡El día que la campana no suene, será porque ya no hay un solo hombre en el mundo! ¡Será un día muy triste o un día de gloria; yo no sé. Como te he dicho, nada sé!
+
+**Satanás** *(Movido de un presentimiento se acerca y pregunta.)* Di, ¿quién es el que tocará la campana esta noche?
+
+**Saturnino** ¿Presientes algo? ¿por qué lo preguntas? Si no la toca el hombre del África, la tocará el de América, que será el penúltimo, y si ninguno de los dos la hace sonar, entonces la tocaré yo, y seré el último hombre. [p. 73] Pero ¿crees que han muerto, crees que esta noche no repicarán?
+
+**Satanás** Nada de eso he querido decir, preguntaba únicamente que quién es o quiénes son los que deben tocar la campana, a distancia, como lo han hecho otras noches.
+
+**Saturnino** Uno es el hombre más viejo del África, el otro es un antiguo discípulo, convertido a mi fe desde su juventud, a causa de que habiendo perdido a su madre, no quiso prestarse a transmitir una vida que suele traer consigo penas injustas!…
+
+**Prometeo** ¿Y qué hacen lejos de ti? ¿por qué no pasáis juntos las últimas horas del mundo? ¡Vuestros últimos diálogos habrían de tener una potencia irresistible contra el misterio!
+
+**Saturnino** Mucho tiempo estuvimos juntos, e imagina lo que habremos discurrido, mientras mirábamos la desaparición lenta de toda nuestra estirpe, pues todos los hombres se resolvieron con firme voluntad a morir, y se iban tristes, pero no oíamos lamentos, porque no dejaban hijos; nos pareció que la misma muerte se había hecho más blanda, y ya no la acompañaban llantos, sino una gozosa melancolía. ¡Con cuánto orgullo hemos contemplado el tránsito de esta generación heroica! Generación que supo vencer el instinto y conquistarse un lugar propio en la eternidad! [p. 74] / / En los últimos años, el mundo se fue quedando tan despoblado que no nos llegaban avisos de las regiones distantes; y por más que explorábamos con nuestros aparatos, no nos venían respuestas. ¿Era que los hombres ya habían desaparecido, o que algunos, sustrayéndose a nuestra influencia, se habían puesto a vivir en oposición secreta de la doctrina? Esto apenas era creíble, pues ya sólo quedaban los viejos; sin embargo, enviábamos emisarios y éstos volvían con las nuevas de que en efecto ya estaba desierta, casi toda la extensión del mundo. Cuando ya sólo quedó un grupo de los antiguos fieles, decidimos separarnos, para observar por distintas zonas, las fases de la despoblación general. Tuve entonces agentes en las islas y en los continentes, y todos los días recibía censos en que sólo había bajas, las bajas que a diario causaba la muerte. El número de habitantes del mundo llegó a contarse por docenas, y finalmente, hoy ya no somos más que tres, y como te he dicho, esta noche aguardo con ansia creciente la señal de que aún viven los otros.
+
+**Satanás** Esta noche te acompañaremos, ¡la hora convenida se acerca!
+
+**Prometeo** Te acompañaremos para oír la campana!
+
+**Saturnino** *(Dirigiéndose a Prometeo.)* Agra [p. 75] dezco infinitamente tu compañía, pues son terribles las angustias que he estado sufriendo últimamente. Los días los paso escudriñando con la lente que allí ves, y que es capaz de descubrir el último rincón de la tierra. A veces dudo de mis propios ojos o creo que la lente me engaña, pues yo que conocí el mundo bien poblado y risueño, no veo ahora más que soledad y abandono. El Asia es un desierto; nada queda de la antigua Europa y de la gran Buenos Aires, que en los últimos siglos fue la ciudad principal del mundo; ya no se ve sino un mar de ruinas. No hay tampoco bestias, pues con los hombres han ido desapareciendo también las especies… Sin embargo, diríase que las plantas están despertando con vigor renovado, pues por doquiera los llanos se cubren de altas hierbas, y los bosques se enlazan como formando un manto que amenaza cubrir la tierra. ¡La vida vegetal merece este triunfo, porque es inocente y pura! / / Pero tanta soledad me causa angustia. Hoy mismo estuve todo el día pendiente de los aparatos, y por más que he esforzado mis ojos, no he podido descubrir uno solo de esos movimientos espontáneos que anuncian la presencia de la vida animal. También he puesto los oídos en aquel resonador y no he podido escu [p. 76] char un solo sonido de cosa animada; por último, he gritado y a mis gritos sólo respondían mis propios ecos; he creído que mis compañeros ya han muerto; pero no, estoy seguro de que la campana sonará esta noche. De todas maneras, hoy ya no quise gritar más, porque sentí terror: me vino la idea de que mi propia voz iba a animar una forma y a crear un ser: ¡tan grande es el ansia del vacío que se advierte! ¡Así, rodeado de tremendas visiones, paso los días! / / Pero cuando llega la noche, entonces es cuando no puedo contenerme y sollozo, y me atormentan los más extraños terrores. No sé si sueño, o estoy despierto, pero a menudo escucho risas de niños, y los veo jugar a la luz de la luna en los campos. Otras veces del fondo de las quebradas oigo que suben lamentos y maldiciones que me parecen la voz de los seres que por mi causa no hallaron un cuerpo en que poder venir a la luz redentora del mundo! / / ¡Me abate una gran tristeza, y en seguida me agito como si todos los dolores de las vidas que hemos suprimido, se congregasen en mi corazón para entablar luchas salvajes! Y como las furias de la tragedia antigua, pasan por delante de mí los espectros de todas las que por mi causa no llegaron a concebir! / / ¡Oh sombra amiga, no sé si soy un gran criminal o un mártir! [p. 77] / / ¡Un mártir debo ser, porque son amargas todas mis horas! A veces, vuelve mi fe, toda mi antigua fe, y recuerdo lo que era el mundo, no lo que es cuando lo imaginamos, sino lo que es en realidad cuando lo vivimos, y entonces me regocijo, y todo mi espíritu danza. Y anhelo que se apresure el instante en que he de ir a juntarme con el glorioso ejército de los que renunciaron la vida! ¡Y la dejaron porque tuvieron vislumbres de existencias mejores y hacia ellas se fueron cantando!
+
+**Satanás** *(Asomándose al cronómetro.)* Si no veo mal, ¡son las doce de la noche!
+
+**Saturnino** ¡Espera!… *(se dirige al aparato y observa)* Justo, la media noche, tal es la posición de las estrellas y la hora que marca el reloj… es raro, son menos viejos que yo; sin embargo, hace tiempo que se les ve decaídos y enfermos… ¿será posible, seré yo el último?… *(todo su cuerpo tiembla, y busca reposo sentándose en una roca.)*…
+
+*Breve intervalo.*
+
+**Satanás** Pasan cinco minutos, ¿esperas todavía la señal?
+
+**Saturnino** *(Incorporándose.)* …¡No! ¡La señal ya ha sido dada, la señal negativa; mis amigos han muerto, y yo soy el último hombre… Pero aguarda, yo daré la señal positiva, será el aviso de que en el mundo ha triunfa [p. 78] do la vida más alta, y ha concluido la ruin existencia del cuerpo! ¡Sí! El planeta sirvió de tránsito a una raza celeste, que ya ha concluido su éxodo. ¡Dejadme! Yo llegaré a la campana, y ella resonará en los espacios, como el clamor postrero de la humana estirpe. ¡Oh! raza que tanto afán padeciste, tu último grito será grito de triunfo, expresado en melodía vibradora y celeste!
+
+*Al pie de la campana, prosigue:*
+
+**Saturnino** ¡Precisa que el último grito sea de triunfo y no de congoja, por eso lo dará la campana, tocada por mi brazo y conmovida por mi corazón! / / ¡Mi corazón estallará en el vibrar de la campana; mi corazón, donde han librado batalla todas las amarguras y todas las dichas del Universo! / / ¡Una gran fuerza me posee en estos instantes, como la explosión de la energía postrera! / / ¡La alegría irradia de mi alma, como la luz irradia del sol! / / ¡Como el trémulo aviso de luminosos clarines, van por el orbe mis voces, anunciando el fin de la tragedia del hombre! / / ¡Ya no más penar; la naturaleza ha concluido su ensayo! ¡Comenzó a hacer a los hombres, como a los brutos, proveyéndolos nada más de instinto, pero después dioles inteligencia, [p. 79] y ésta aclaró los senderos de la acción, y llevó a la voluntad a crear todas las artes civilizadas; en seguida iluminó la conciencia, y la voluntad comenzó a separarse de los procesos ordinarios de la acción del mundo; y éste es el instante en que la última chispa de energía humana, reconcentrada en mi corazón, va a celebrar su divorcio definitivo del mundo físico, para irse, ya libre, a los espacios eternos! / / ¡La voluntad es uno de los elementos divinos: pasó por la tierra, se propagó entre los hombres, los llenó de apetitos y ansias, pero después de enconados conflictos, se resolvió otra vez en esfuerzo que asciende, y ahora ha trascendido la vida! / / El último hombre va a desaparecer, y al cerrarse su humana conciencia, toda la tierra se llenará de sombras y todo volverá al caos, porque la humana conciencia es la pauta de todas las formas de este universo visible. ¡Aquí se hará el caos, pero allá arriba esplenderá una era nueva! ¡En la luz eterna circulan formas muy bellas! / / El mundo se desvanecerá, como se desvanecen, al soplo del viento, los vanos fantasmas que fingen las nubes! ¡Todo ha sido un mal sueño y la verdadera vida va ahora a comenzar! / / ¡Recoge, campana, mi aliento postrero y da [p. 80] lo al espacio, hecho armonía! ¡Y canten tus ecos mi último hosanna, el hosanna celeste!: ¡Hosanna a Dios en las alturas!
+
+*Campanada solemne; todo lo rodea la sombra y no se ven más que las siluetas confusas de Satanás y Prometeo. Saturnino ha caído al suelo y Satanás se acerca a observarlo.*
+
+**Satanás** Ya no respira; ha muerto súbitamente, sacudido por la emoción, como un viejo cristal que se quiebra. ¡He ahí el triste fin de la raza en quien tanta esperanza pusiste, de tu raza, Prometeo!
+
+**Prometeo** ¡En efecto, era de mi misma sangre! Hace unos instantes, cuando escuchaba el relato de sus tormentos, me parecía estarme oyendo a mí mismo, cuando me hallaba atado, impotente sobre la roca escitia! ¡Y si yo inventé el fuego que dio origen a una variedad de vida, superior a la de las bestias, éste que aquí yace ha luchado para lograr una vida, que está más allá de la concepción de los hombres! / / Si la bestia hubiera podido criticar al hombre, quizás le habría dicho: ¿a dónde vas, desventurado? cuando lo vio salir de la cueva y que comenzaba a construir casas, y a pensar en el cielo. / / ¿Quién sería el osado que ahora dijese: la [p. 81] raza humana no debió marcharse, pues su destino se hallaba ligado al planeta? / / Y aunque mil lenguas lo dijesen, ¿qué vale la opinión de la turba frente a los grandes hallazgos del vidente? ¡Ya pueden zaherir o vilipendiar los necios, que de todas maneras, el profeta sigue en pie, mientras toda la muchedumbre de sus enemigos se hace polvo! / / Este hombre ha visto consumada una gran empresa; y en su espíritu había una chispa de la energía que en mi mente se hizo voluntad regeneradora! ¡En su alma tal vez ha brillado la luz de una edad sempiterna!
+
+**Satanás** Todo lo han envuelto las sombras, ¡nunca había visto una noche tan profunda!
+
+**Prometeo** Arriba habrá luz, Satanás, mucha luz.
+
+**Satanás** ¿Dónde es “arriba”?
+
+**Prometeo** Yo te digo que el hombre ha vencido! ¡Venció primero a su medio, al hacer que las leyes del cosmos sirvieran sus fines! Sin embargo, mientras su acción estuvo ligada a esas leyes, no podía salir de un círculo, no hacía más que girar sobre sí, sin llegar a parte alguna. ¡El círculo es monotonía y locura, y la acción brega por alcanzar la espiral! ¡La espiral que es emblema de lo infinito…! La acción no acertaba a levantarse, no atinaba [p. 82] con el arranque que la desprende; mas era su afán tan intenso, que conmovió las potencias celestes, y atrajo en su auxilio al Verbo! ¡Y el Verbo se hizo hombre, y vino a establecer el lazo bendito que había de conectar este mundo con el mundo divino!
+
+**Satanás** ¿Pero tú también crees en eso?
+
+**Prometeo** *(Sin responder y como hablando consigo mismo.)* ¿Tendría razón Saturnino al predicar la no procreación? Ello parece un suicidio, pero ¿qué otra cosa han hecho todos los profetas sino suprimir su descendencia al abrazar la castidad? ¿Y por qué no ha de ser deseable que todos logren igual beatitud? ¡Si se acepta el más allá, la tesis de Saturnino es irrefutable!
+
+**Satanás** Prometeo, atiende; acércate al anteojo; ¿o es una ilusión mía, o se mira allá muy lejos una claridad, como de aurora que asciende?
+
+**Prometeo** *(Después de observar por el anteojo.)* ¡Raro! ¿para qué habrá aurora, si ya no hay hombres, y cómo aparecerán ahora las cosas, si ya murió la conciencia, que era el molde y la ley de todo lo que posee nombre y forma?
+
+**Satanás** *(Observando.)* Y se oye también un rumor; mira, algo avanza como envuelto en un copo de niebla, y la claridad aumenta! [p. 83] Ya lo veo que recorre el valle, ya asciende, viene de prisa como un ligero barco con alas… ya llega…
+
+*Entra corriendo un hombre joven, vestido con pieles de canguro, de aspecto poco inteligente, pero recio de cuerpo y de ademán resuelto; ve a Saturnino y dice:*
+
+**El Australiano** ¡Hélo allí al fin! ¡Murió sin saber que nosotros nacimos! ¡Hemos triunfado, nuestro es el mundo! *(Va a los aparatos, se enciende de nuevo la luz artificial y dice por el audífono:)* “Ha muerto el enemigo de la vida. ¡Nada hay ya que temer; ya no habrá quien emponzoñe la dicha con malas doctrinas!”
+
+**Satanás** *(Al desconocido.)* ¿Quién sois y a quién habláis?
+
+**El Australiano** ¡Soy un hombre de la raza joven y hablo con mis hermanos, los nuevos dominadores del mundo!
+
+**Satanás** ¿Pero de dónde venís y cómo habéis podido engañar a este anciano?
+
+**El Australiano** Nacimos de las bravas mujeres que lograron sustraerse a la influencia de este hombre y de todos los suyos. Nuestras madres lograron seducir a unos cuantos de los que éste engañaba y con ellos se fueron a vivir ocultamente, a la región más fea y apartada del mundo; por las selvas del interior de la [p. 84] Australia. Allí fundaron un país y lo rodearon de una especie de niebla artificial que lo hacía invisible a los anteojos y aparatos de Saturnino; en seguida se pusieron a vivir, felices, a la manera antigua, con llantos y risas y rosas. Los hombres decían a menudo que aquello era horrible y se sentían asqueados, añoraban a Saturnino; pero todas las renegadas se mostraban contentas. Treinta años hace, más o menos, que empezó esta rebelión salvadora, y las madres se han encargado de ilustrarnos: nos han dicho que afuera de nuestro bosque había extensos continentes y tierras y ganados y palacios, y que todo eso debía ser nuestro cuando Saturnino, el rey de la muerte, desapareciese de la tierra. Las mujeres no confiaban en sus maridos, por eso han esperado a que nosotros, sus hijos, creciésemos, para ponernos a luchar contra Saturnino. Pero ya la muerte nos ha arrebatado la presa: es una lástima, porque mira qué brazos; advierte mis formas robustas, ¡nada podrá resistirnos!
+
+**Satanás** ¿Y sois bastantes para dominar el mundo?
+
+**El Australiano** La selva está repleta; en los últimos años, los nacimientos han sido tantos, que a no ser por la extremada precaución de las más ancianas, hace ya tiempo que hubiéramos rebasado nuestras fronteras… *(se* [p. 85] *acerca al anteojo y prosigue):* Mira, ya salen; van por tierra los que arrastran pesos, otros se dispersan por el viento en sus veloces máquinas. Son nuestros los campos, nuestros los ríos, nuestros los mares, y se multiplicarán los ganados y se repoblarán los palacios. Hay que apresurarse, porque quizás no haya bastantes palacios. Yo parto, debo partir, apresúrate tú, no sea que no alcances buena porción… *(se va.)*
+
+**Satanás** Conque otra vez la prisa y la codicia y el mal… y toda esta hermosa tragedia de Saturnino y su generación heroica, no ha sido más que un sainete; un entremés decadente en el curso majestuoso y fatal de la vida. ¡Oh invencible horror!
+
+**Prometeo** ¡La voluntad ha vuelto a bifurcarse, y una de sus ramas, apegada firmemente a la tierra, torna a emprender la aventura de construir sociedades e imperios! ¡Quién sabe qué extraños secretos contenga la masa confusa! ¡Por algo persiste en ella el anhelo! ¡Mas no! la turbia corriente ya no contiene sorpresas, y si ha vuelto a manar será en beneficio de las almas que aún no se libertan! / / ¡La ley de la naturaleza es la repetición indefinida y la ley del espíritu es variar mejorando, hasta que conquiste lo Absoluto! Y tú, Saturnino, no eras de los que bregan en vano, [p. 86] por el gusto de eternos retornos, sino un grado superior de la fuerza: ¡un alma que se emancipa, un Iluminado y un Bendito!
+
+**Satanás** Pues a mí, ni por un instante me tienta la idea de mirar por ese anteojo, la aurora de esta nueva “humanidad gloriosa,” como la llamarán de aquí a mil años, cronistas imbéciles. Toda su acción me repugna, y ya ahora no va a tener ni el atractivo de lo nuevo, y único!
+
+**Prometeo** ¡Desventurados los que no se apresuren a superar la vida terrestre, pues sufrirán muerte vil al final de la kalpa! Los que no sigan las huellas de Saturnino, morirán, tarde o temprano, aplastados como ratas, en los terremotos postreros, pues por mucho que los hombres persistan, el planeta no es eterno, y toda vida que en él se aposenta es una vida de paso!
+
+**Satanás** ¿Qué haces tú entonces que no te marchas con la corriente de arriba?
+
+**Prometeo** ¡Yo debo seguir aquí hasta que termine la obra de allá abajo!
+
+**Satanás** Siento dentro de mí algo extraño, Prometeo, algo que no sé si es una duda, o una pena, pero que turba mi aplomo y me obliga a cavilar. Si yo estuviese para bromas, te diría que, en esta tragedia, tomo la parte de los de allá abajo, que es la más turbia, y la que al [p. 87] fin vence; te diría que yo estaba en la boca de la mujer aquella que inició la rebelión contra el poder de Saturnino, pero nada de esto es exacto… Lo cierto es que cada día intervengo menos en las cosas humanas. Siento como que mi reino se extingue, y hoy por primera vez me hallo en presencia de una rebelión con la que no simpatizo… porque ¿qué van a hacer ahora estos bárbaros con el tesoro de una tierra tan vasta, tan refinada y tan rica? Se hartarán de placeres hasta que toda el alma se les envilezca, y después reñirán unos contra otros por la porción del botín. ¡Lástima que yo no pueda evadirme de mí mismo en el rapto de alguna sublime locura, como la que ha poseído a este Saturnino, el último de los ilusos!
+
+*Se dirige al anteojo y observa.*
+
+**Prometeo** ¿Qué haces allí?
+
+**Satanás** ¡Pst! satisfago una curiosidad malsana; a pesar mío, me urge saber lo que hacen allá abajo esos brutos. Después de todo, yo no tengo nada qué hacer, y me divierte la acción ajena.
+
+**Prometeo** ¿Por qué no te haces hombre?
+
+**Satanás** ¡Mal me quieres, Prometeo, pues me aconsejas que sea hombre!
+
+**Prometeo** No te quiero mal, Satanás; veo tu desgracia, y ella consiste en carecer de propósito, [p. 88] en no tener esencia. El mal no tiene esencia, no tiene propósito; por eso para obrar siempre se disfraza de bien. ¡Sólo el bien es el Ser!
+
+**Satanás** Pero me condenas a sufrir; yo hasta ahora sé lo que es la tristeza, pero no conozco el dolor.
+
+**Prometeo** ¡Lo hallarás profundo y revelador! Ve, y confúndete con los seres, hazte de su misma substancia y descubrirás que el sufrimiento obliga a superar la existencia; entonces, desde la tierra, vislumbrarás el cielo. Y así que, como hombre, hayas sufrido, quizás el Verbo perdonará tu falta: ¡pues no hay nada en el mundo que no deba llegar a ser parte de su gloria infinita!
+
+**Satanás** Pero ¿por qué me he de ir a juntar con esas gentes que ahora invaden de nuevo la tierra? ¡Dame mejor que sea bestia, una mansa y beatífica bestia!
+
+**Prometeo** Reconcentra, Satán, toda esa masa gaseosa de sombras que hoy forma tu ser, y júntate con lo más humilde del cosmos; revuélvete en el cieno, mas con afán tan intenso que te pongas a arder: ese será el principio; arder es un noble comienzo de existencia. De allí te alzarás en la quietud de la noche, como húmedo vapor que ya lleva en el seno una chispa, una luz; y asustarás a las gentes, y los [p. 89] perros lanzarán aullidos lúgubres al verte. ¡No importa! ya hecho viva fosforescencia, pasarás a otro cuerpo, y serás oruga luminosa, volando en las noches abrasadas del trópico, o sierpe astuta… sigue avanzando y llegarás a ser hombre. La distancia, al fin y al cabo, no es tan grande!
+
+**Satanás** Sin embargo, tú parecías aprobar cuando Saturnino hablaba de que es menester que la potencia ya no encarne en el hombre.
+
+**Prometeo** Las almas que ya han extraído toda la esencia del mundo, pertenecen al cielo!
+
+**Satanás** Pero supón que ya está muy próximo el fin de la kalpa y que en la kalpa siguiente ya no habrá hombres; ¿qué será de mí, ligado a las formas menores del ser, y devorado por la catástrofe que ha de dar fin al planeta?
+
+**Prometeo** Yo no sé lo que guarde la kalpa futura; quizás el mundo físico volverá a repetirse, porque la naturaleza no acierta a salir de un círculo fijo de cambios. Pero la fuerza trasmutada en acción voluntaria, busca la variedad, y no se satisface en ella, porque por todas partes encuentra lo finito; entonces huyendo de lo finito, recorre todo lo múltiple, sin repetirse jamás, hasta que vislumbra lo absoluto, pues sólo en lo absoluto anhela repetirse siempre. El constante cambiar de lo físico, [p. 90] no es más que una prueba de inconformidad, el ansia de un equilibrio que nunca se logra, pero los cambios de lo físico, son una serie prolongada de recaídas irremediables. La conciencia es el primer caso de cambio aparejado de novedad y liberación; y todo lo que se alía a la conciencia se va haciendo libre. La conciencia conquista la variedad, pero sólo para exprimirla después de gustarla, y a medida que es más libre, convertida en belleza, se acerca al ser Absoluto! La naturaleza cambia, porque no se satisface, y nada se satisface más que en lo Absoluto!
+
+**Satanás** ¿Es eso todo lo que tú sabes?
+
+**Prometeo** Eso es lo que he aprendido del mundo, y como si dijésemos, la física de la verdad. Pero todavía más allá de la acción voluntaria que es anhelo noble, pero ciego, hay un orden sublime de la fuerza, un ritmo nuevo que llamamos estético, porque responde al más íntimo gusto del alma; también se llama gracia y amor divino, y se dio a los hombres en el milagro del Verbo… Yo, Satán amigo, una vez más te aconsejo: apresúrate, que ya el fin de la kalpa debe estar próximo, y mientras ella dure, el hombre es el conducto donde la fuerza se invierte para alcanzar lo divino…! Ya se han ido muchos hombres, las regiones inmortales están llenas de seres que fueron hom [p. 91] bres. Las bestias no se han ido, porque no lo ambicionan, porque están adaptadas al mundo, apresúrate tú, y llénate de inconformidad sublime. Apresúrate, y ve y apresura todos los fines pequeños, para que de una vez se cumplan, y la fuerza se llene de más alta ambición!
+
+**Satanás** Iré, no me queda otra cosa que hacer!
+
+**Prometeo** ¡Resuélvete, y no tardarás en sentir entusiasmo; bastará que llegues a ser fósforo, y que comiences a arder; ya desde entonces la vida sola se encargará de ti! ¡Lo que arde es salvo, y tarde o temprano conquista la luz clara! ¡Lo que importa es arder! ¡Y así que llegues a ser hombre, recuerda que el hombre es un puente! ¡El puente de plata que liga el reino del mundo con el reino infinito!
+
+⁂

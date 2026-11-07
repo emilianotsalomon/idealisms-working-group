@@ -1,0 +1,719 @@
+---
+title: "Philosophia naturalis: kleinere Stücke"
+author: Gottfried Wilhelm Leibniz
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the publisher's text layer of the typeset edition PDF (no OCR); the editors' apparatus fenced as ::: editorial; not collated by us against the scan; the printed edition is the authority"
+translation: none
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Philosophia naturalis was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10166)
+---
+
+# G. W. Leibniz, *Philosophia naturalis* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+A K A D E M I E V E R L A G [p. 1958] C 1. PHILOSOPHIA NATURALIS [p. 1959] 352.REGULAE MOTUS SYSTEMATICAE PRAESTARI MECHANICE [1677 (?)]
+
+Überlieferung: L Konzept: LH IV 7C Bl. 50. 1 Bl. 8o. 1 2/3 S.
+
+Aus inhaltlichlichen Gründen (vgl. z. B. die Nähe zu Leibniz’ Überlegungen in der Abhandlung Principia mechanica, VI, 3 N. 6) gehört dieses knapp gefaßte Stück in die frühe Phase unserer Periode. Äußere Datierungsmerkmale fehlen.
+
+Diu quaesivi qua ratione regulae motus systematicae praestari mechanice possent nec regulae sejunctorum violarentur.Id nuper nactus mihi videor, concipiendo corpus a corpore impelli sine contactu, interventu scilicet Fluidi elastici, quod celerrime interfluens, motu suo rapido corpora ad se prorsus accedere non patiatur, et propinquitati solito majori obnitatur. Quodsi ergo ponamus Massam nostri systematis constare ex oneris globis aequalibus; atque his Aethera disjunctorem interfluere; fiet ut corpore in corpus incurrente primum duo globi aequales sibi proximi in se incurrere intelligantur; ita Elasticum interfluens statim unum retardabit, alterum in motum aget, sed per gradus. Idem paulatim sentient proximi. Nam et primus dum retardatur urgebitur a sequente, ut reparetur retardatio, sed hoc non efficiet nisi retardatione sui, atque ita demum in ultimos refundetur retardatio tantundemque globorum quantum impulerat, impelletur, si soluti sint globi; sed si cohaereant ita ut major massa in minorem incurrat vel contra, considerari tamen potest, cohaesionem non esse nisi solutorum ad se invicem attractionem; atque ita easdem servari leges quae in solutis. Est enim quasi conflictus inter aethera disjunctorem et aliud fluidum conjungens; quo corpora connexa in ea quae ipsis debetur Distantia servantur, et simul et cohaesionis et concursus leges observant.
+
+::: editorial
+
+(zu S. 1959) 7 motus (1) systematice (2) systematicae (a) mech (b) praestari L 9 f. scilicet (1) fluidi (2) Elastici fluidi, quod motu suo co (3) Fluidi L 10 se (1) nimiae (2) prorsus L 11 et (1) nimiae (2) propinquitati L 12 his (1) influere (2) Aethera L 13 ut (1) globus omnis (2) corpore L 13 f. aequales (1) ubi erg. interveniente aethere primus (2) sibi L 14 Elasticum (1) inter (2) influ (3) interfluens L 15 sed (1) inse (2) per L 17 in (1) ultimum (2) ultimos L 17 f. retardatio (1) fietque (2) tantundemque (a) corporum, quantum im (b) globorum L 19 f. potest, (1) non cohaerere, (2) cohaesionem L 21 quae in solutis erg. L 21 et (1) aliam (2) a (3) aliud L 22 corpora (1) in (2) connexa (a) in di (b) in L 22 ipsis erg. L
+
+:::
+
+[p. 1960] Quodsi globi primarii in proposito systematis gradu ponantur non omnino aequales, eundum erit ad quoddam inferioris gradus systema, ut magis ad aequalitatem accedatur, et ne hoc quidem sufficiente, descendetur adhuc ulterius; ita error erit dato minor. Et haec sectio in aequales partes fere fiet ut in Musicis chordis, quae varios habent tremores sed praevalent quae fiunt secundum partes aequales. Omnia tamen procedent simplicius si assumamus materiae inertiam, ut scilicet majus magis resistat.
+
+## 353. PHYSICAE PARTES [1677 (?)]
+
+Überlieferung: L Konzept: LH XXXVII 4 Bl. 112. 1 Zettel (15 × 9 cm). 2 S.
+
+Leibniz Einteilung der Physik weist auf einen frühen Versuch hin. Äußere Datierungsmerkmale fehlen.
+
+Physicae Partes
+
+Duplex est physica tractatio, de formis seu affectionibus singulatim spectatis et de subjectis in quibus plures affectiones concurrunt. De formis exempli causa de figura, motu, duritie, colore: et de subjectis exempli causa, de igne, aqua, arena, quae scilicet pluribus formis concurrentibus constituuntur. Ita ignis est lucidum et calidum. Aqua est perspicuum album liquidum, insipidum frigidum (si sibi relinquatur), certique ponderis ac certae tenacitatis quae comparatione definiri possunt. Formae rursus aliae sunt simplices quae a nobis perfecte intelliguntur, ut magnitudo, figura, motus, resistentia, atque hae geometrico plane rigore tractari possunt. Aliae sunt compositae, quas satis quidem [p. 1961] sensu non tamen satis ratione percipimus, ut calor, color, aliaeque sensiles qualitates: quae quatenus cum prioribus formis constanti ratione eas conjungi experimur, eatenus etiam ad Mathematicas rationes revocari possunt.
+
+::: editorial
+
+(zu S. 1960) 1 primarii erg. (1) ponantur non omnino aequales, liceb (2) in L 1 f. aequales, (1) redeundum (2) eundum L 3 error contra gestr. erit L 4 quae (1) omnes 〈sy〉 (2) varios L 13 f. formis (1) et de subjectis. (2) seu . . . concurrunt. L 14 causa de (1) magnitudine, (a) duritie, quiete (b) motu, duritie (2) gra (3) rotundo, gravi, duro, albo: ac de subjectis (4) figura L 15 arena, (1) in quibus (2) quae L 17 perspicuum (1) liquidum (2) album (a) in (b) liquidum, L 17 (si (1) per se spectetur (2) sibi relinquatur) L 19 f. resistentia (1) sive impenetrabilitas. Ali (2) , atque L
+
+:::
+
+Subjecta vel singulatim tractantur vel in systemate. Singulatim, si omnes dati subjecti exempli gratia aquae qualitates et affectiones enumeremus, et quando nimis vagae sunt certis gradibus definiamus. Deinde qualitates confusas ad simplices revocando texturam subjecti constituamus qua semel habita saltem aliquatenus non tantum causas phaenomenorum reddere sed et inexplorata adhuc phaenomena praedicere, et rem propositam ad varios vitae usus adhibere poterimus.
+
+Quodsi jam plura subjecta et inprimis simpliciora ac maxime diffusa hoc modo tractaverimus, tandem de toto nostri saltem mundi systemate partibusque certum aliquid statuere fas erit.
+
+## 354. REVOCATIO QUALITATUM CONFUSARUM AD DISTINCTAS [1677 (?)]
+
+Überlieferung:
+
+L Konzept: LH IV 6, 12 f Bl. 26. 1 Zettel (11,7 × 17 cm). 1 1/2 S.
+
+E COUTURAT, Opusc. et fragm., 1903, S. 190.
+
+Leibniz’ These, die konfusen Sinneseindrücke durch die sie begleitenden distinkten zu definieren, scheint in unserem Stück erstmals formuliert worden zu sein. Äußere Datierungsmerkmale fehlen.
+
+Analyseos physicae arcanum in hoc uno consistit artificio, ut qualitates sensuum confusas (nempe calorem et frigus, pro tactu; sapores pro gustu; odores pro olfactu; sonos [p. 1962] pro auditu; colores pro visu) revocemus ad distinctas quae eas comitantur, quae sunt numerus, Magnitudo, figura, motus, consistentia, ex quibus duae postremae proprie physicae sunt. Itaque si deprehendamus certas qualitates distinctas semper comitari quasdam confusas (exempli gratia omnem colorem oriri ex radio refracto, non vero ex reflexo) et, si ope distinctarum qualitatum definite totam corporum quorundam naturam explicare possimus, ita ut demonstrare queamus, ipsa talis esse magnitudinis figurae et motus; eo ipso jam necesse est etiam qualitates confusas ex tali structura resultare, licet qualitates confusas ex ipsis aliter demonstrare non possimus, quia qualitatum confusarum nulla datur definitio, nec proinde de illis demonstratio. Sufficit ergo nos omnia distincte cogitabilia, quae ipsa comitantur, posse explicare constantibus conclusionibus, experientiae consentientibus. Nam ope quarundam qualitatum ad determinandam naturam corporum sufficientium possumus invenire causas; et ex his causis demonstrare reliquos affectus, seu caeteras qualitates, et ita invenietur per circuitum, quid realis et distincti qualitatibus confusis insit, reliquum enim quod explicari nequit, ut ex. g. illa ipsa apparentia quam flavedinem dicimus quomodo ex eo in quo flavedinem consistere a parte rei ostendimus oriatur, id sciendum est pendere non a re, sed nostrorum organorum dispositione et minutissimis constitutionibus rerum. Sufficit autem nos ostendere, quid a parte rei sit in corporibus ex quo nascitur flavedo. Idque ad usum vitae sufficiet. Ita enim modum producendi qualitates confusas habebimus.
+
+::: editorial
+
+(zu S. 1961) 2 quae (1) cum (2) quatenus L 3 f. possunt. (1) In subjectis (2) Subjectorum tractatio alia est. (3) Subjecta L 9 et (1) re proposita (2) rem propositam L 11 tractaverimus, (1) dubium nullum est, quin (2) tandem L 11 systemate (1) certum aliquid pro (2) partibusque L 12 statuere (1) poterimus (2) fas L 20 ut (1) calor (2) calorem, frigus (3) calorem et frigus sonos erg. colores, odores, sapores aliasque quae (4) qualitates L
+
+:::
+
+Utile quoque est ad minuendum laborem, si qualitates confusas reducamus ad alias simpliciores, ut si viriditatem reducamus ad compositionem flavi et caerulei, si ostendamus quosdam sapores et odores cohaerere quibusdam coloribus; etc. Facilius enim colores quam sapores ad distinctas qualitates revocantur.
+
+::: editorial
+
+(zu S. 1962) 1 f. sunt (1) motus, resistentia consistentia, magnitudo (2) numerus L 5 reflexo) (1) item (2) et, L 5 quorundam erg. L 12 possumus (1) esse (2) invenire L 16 a parte rei erg. L 17 et . . . rerum. erg. L 19 f. Idque . . . sufficiet. (1) Poterimus enim producere (2) Ita . . . habebimus. erg. L 21 qualitates (1) quasdam (2) confusas L 22 simpliciores, erg. L
+
+:::
+
+## [p. 1963] 355. DE AEQUIPOLLENTIA CAUSAE ET EFFECTUS [1677 bis 1678 (?)]
+
+Überlieferung: L Konzept: LH IV 7C Bl. 66. 1 Zettel (10,3 × 16,5 cm). 2 S. Das kurze Konzept weist inhaltlich noch große Nähe auf zur Meditatio de principio individui vom April 1676 (VI, 3 N. 67), einer wohl ersten Annäherung an unser Thema durch Leibniz, und zur Catena mirabilium demonstrationum de summa rerum vom Dezember 1676 (VI, 3 N. 85, vgl. dazu auch VI, 3 N. 39 vom Dezember 1676). Es kann sich um Vorüberlegungen zu einer Dynamica handeln, wie sie Leibniz erst im Sommer 1689 in Rom ausführlich konzipiert, aber nie veröffentlicht hat (vgl. GERHARDT, Math. Schr. 6, S. 437 und 439).
+
+De aequipollentia causae et effectus Quia effectus totus involvit causam integram, et vicissim causa integra involvit effectum totum; id est ut ex sola cognitione effectus possit aliquis venire in cognitionem causae, et ex sola cognitione causae in cognitionem effectus, hinc sequitur Causam aliquam non posse producere effectum per omnia similem et sola magnitudine differentem. Itaque effectus ut a non potest producere causam ut b, posito a et b differre sola magnitudine, quia duo sola magnitudine differentia non possunt se mutuo involvere. Eo ipso enim quod similia sunt, non potest magnitudinis defectus aliunde compensari, nec b potest involvere nisi partem ipsius a.[^1963-1]
+
+Idem aliter probari potest ex eo, quod reddi ratio nulla potest cur a producat b potius quam c, omnia enim similia sunt, et magnitudine differunt, itaque aut nihil producet a aut infinitum, quae duo maxime ab a b c ipso magnitudine differunt, aut id potius quod minime differt magnitudine ab ipso, id est quod sit aequale.
+
+[^1963-1]: Nam ratiocinatio non nisi ex forma qua non differunt aut ex quantitate, sumi potest.
+
+::: editorial
+
+(zu S. 1963) 13 sequitur (1) effectum aliquem (2) Causam L 14 effectum (1) similem sibi, sed minorem (2) per L 17 mutuo erg. L 17 similia (1) non (2) sunt, L 21 f. aut infinitum, . . . maxime (1) differunt ab ipso (2) ab . . . differunt erg. L
+
+:::
+
+[p. 1964] Hinc jam porro demonstratur causam et effectum omnino aequipollere. Nam potentia seu quantitas effectus in quodam homogeneo aestimanda est, exempli causa in elevatione corporis gravis ad certam altitudinem. Et eadem causa diversos effectus homogeneos seu similes sed inaequales producere non potest; quod ex eo patet, quia si effectus involvit causam, et causa effectum, sequitur effectus ejusdem causae se involvere mutuo. Nam sit a causa, et b et c sint effectus. b involvit a (effectus causam), a involvit c (causa effectum). Ergo b involvit c. Eodem modo diversae causae ejusdem effectus se mutuo involvunt. Imo amplius diversi effectus diversarum causarum vel diversae causae eorundem effectuum, si earum fuit vel esse potest effectus vel causa communis.
+
+Si potentia quaedam est certa, id est si aestimari potest quantitas effectus in aliquo homogeneo, utique necesse est eam in iisdem semper eandem manere. Certam autem in re quaque esse potentiam non vagam sequitur ex natura Dei; et alioqui nulla erit ratiocinatio de his.
+
+## 356. QUOD OMNIS CONATUS CONSERVATUR [1677 bis 1678 (?)]
+
+Überlieferung: L Konzept: LH XXXV 9, 28 Bl. 5. 1 Zettel (10 × 9 cm). 2 S.
+
+Die kurze Aufzeichnung zur conservatio conatus mag als Vorarbeit zur Abhandlung De concursu corporum von Januar 1678 (vgl. M. FICHANT, G. W. Leibniz, La réforme de la dynamique. Textes inédits. Paris 1994) gelten. Äußere Datierungskriterien liegen nicht vor. Wir ordnen das Stück in die Anfangsphase unserer Periode ein.
+
+Omnis conatus conservatur. Cum enim unus conatus alteri sit compatibilis, nulla est causacur destruatur. Omnem autem conatum cuivis conatui esse compatibilem, patet, ex compositione motuum. Hinc sequitur de nullo corpore etiam quiescente dici posse quod [p. 1965] actione seu vi agendi careat, intelligi enim potest, in eo duos conatus agendi contrarios esse aequales. Quaeri tamen adhuc potest, an possibilis sit quies sine actione, seu quies per se stans, non per accidens ex duobus contrariis conatibus orta. Et quidem cum inter duo corpora congrua et quiescentia nullum intelligi possit discrimen sequitur in quiete esse contrarios conatus in omnes partes. Hinc sequitur porro in omni corpore esse conatus infinitos in omnes partes. Ob contrarios autem conatus aliorum fieri, ut quidam tantum exitum reperiant.
+
+::: editorial
+
+(zu S. 1964) 2 potentia (1) aesti (2) seu L 4 homogeneos (1) producere non potest (2) seu L 4 potest; (1) quia duo (2) quod L 4 f. si si erg. L str. Hrsg. effectus L 5 ejusdem causae erg. L 6 mutuo. (1) Sequitur ergo (2) Nam L 6 sit a (1) effectus (2) causa L 6 effectus. (1) Ergo (2) b L 8 causarum (1) si in uno (2) eun (3) vel L 12 manere. (1) Manere autem (2) Certam L 23 cuivis erg. L
+
+:::
+
+Porro ex eo quod omnis conatus conservatur hinc sequitur corpore uno in aliud incurrente, nullum conatum ab uno in aliud transferri, quod ita ostendo: Pono corpora A A B E B aequalia A et B aequali velocitate inter se concurrere,
+
+::: editorial
+
+(zu S. 1965) 1 2 2 1 constat ea post ictum non quiescere in loco ictus, sed potius a se invicem dissilire. Sed si verum esset, corpora post ictum conatus suos in se invicem transferre; utique unumquodque eorum, binos haberet simul conatus directe contrarios; atque adeo quiesceret, verbi gratia A positum in
+
+2 A habebit conatus contrarios 2A1A, et 2AE. Ergo quiescet. Sed hac quiete perderentur vires. Non est ergo realis haec translatio. Hypothetice tamen admitti potest, ac si omnia hoc modo se haberent et tunc ope vis elasticae aliis scilicet insequentibus, oritur dissultatio. 357.DE QUALITATIBUS QUAE REFERUNTUR AD EXTENSIONEM [1677 bis 1678 (?)] Überlieferung: L Konzept: LH XXXV 13, 1 Bl. 427–428. 1 Bog. 2o. 1/2 S. auf Bl. 428. Der Versuch, physikalische Phänomene zu bestimmen, scheint in den Rahmen früher Definitionen physikalischer Grundbegriffe durch Leibniz zu gehören. Auch die im ersten Satz unseres Stückes angedeutete Gegenüberstellung von konfuser und distinkter Wahrnehmung, die in N. 345, von uns auf 1677(?) datiert, schon formuliert wird, spricht für einen frühen Zeitraum. 1 careat, (1) tantum (2) intelligi L 2 quies (1) vera (2) sine L 4 sequitur (1) omnem quietem (2) in L 5 porro erg. L 13 ictum (1) sibi 〈mut〉 (2) conatus L 15 et (1) 2A1B (2) 2AE L
+
+:::
+
+[p. 1966] Considerare[^1966-1] possumus in rebus tum eas qualitates quae respondent quidem extensioni nihil tamen per se in ea mutant, quae sunt perceptio et voluntas, et alia id genus; tum vero eas quae referuntur ad extensionem. Haec sunt mutatio et conatus ad mutationem vel contra mutationem. Mutatio esse possit magnitudinis et situs; vel utriusque. Magnitudinis cum eadem materia in arctius vel amplius spatium ire fingitur. Situs seu loci cum fingimus materiae quantitate servata, esse motum, seu assumtis quibusdam partibus elementaribus fieri earum transpositionem; utriusque autem compositio est cum apparet quibus gradibus ab una magnitudine ad aliam sit transitum, et quod punctum cujusque situs cui respondeat. Nisus ad augendam vel minuendam magnitudinem intelligi potest proportionalis materiae compressae vel dilatatae. Potest tamen et alius fingi. Revera tamen hoc est Ens mathematicum, seu apparens, quod in omnibus suis partibus etiam minimis hoc modo in natura non reperitur, sed per spongiam explicari potest, quae idem praestat ad sensum. Possunt vero et aliae causae nisus ad dilatationem aut contractionem intelligi, quales calor et frigus. In tali autem nisu, vel etiam renisu, sequitur motus qui facillime effectus obtinetur nisi aliqua causa alium fieri jubeat.
+
+Si aliquod principium moveatur causa motus poni potest varia utcunque caetera autem ipsa connexione regantur; tunc nihil opus supponi quod non intelligatur in parte. Sed tamen et fingi possunt leges motus quarum efficiendarum ratio non constat quia tamen nihil illis inest impossibile, possunt assumi ut si diversi motus certa ratione contemperentur; causae motus variae intelligi possunt, seposita vi in materia mutandi, seposito item impulsu vel concursu; talis est attractio corporis ad corpus, item repulsus corporis a corpore; item adhaesio corporis ad corpus, quae referenda ad impedimenta tantum, si modo adhaesio nulla est, quae non revera sit attractio in exigua tamen distantia. Fingi etiam potest attractionem vel repulsionem valere in infinitum, aut contra certa distantia penitus evanescere. Fingi etiam possunt attractiones aut repulsus per lineas curvas.
+
+[^1966-1]: Am Kopf: Ens rat〈ionis〉 realis effectio
+
+::: editorial
+
+(zu S. 1966) 2 per se erg. L 3 extensionem (1) , quas possis dicere i (2) . Haec L 5 cum (1) aliquid extenditur (2) eadem L 11 et (1) alia fingi causa (2) alius fingi. L 17 motus (1) fingi (2) poni erg. L 17 f. potest (1) impulsus (2) ductio alicujusque principii seu mechanica organica aliqua ratione utcunque caetera connexione (3) varia . . . ipsa L 19 constat (1) in (2) d (3) quomodo (4) quia erg. L 21 f. mutandi (1) . Nempe (2) , seposito L 22 concursu; (1) nempe (2) talis L 25 infinitum, (1) et (2) aut contra L 26 attractiones (1) per lineas curvas (2) aut L
+
+:::
+
+[p. 1967] Haec quae de corpore diximus, possunt etiam fingi de ipso loco, quasi in puncto aliquo esset vis attrahendi, repellendi, retinendi. Idem de plaga aliqua concipi posset, ut in gravitate. Quod de loco idem est ac si fingeremus de corpore immobili.
+
+Licet etiam quasdam connexiones, inter se diversorum fingere, v.g. emissiones quasdam seu radiationes virtuales, ut cum ex sole emanat calor qui habet vim dilatandi, ex lumine lumen; huc suppositio de quovis puncto radii luminis rursus radiante.
+
+## 358. LA MEILLEURE APOLOGIE POUR DESCARTES: SES LUNETTES HYPERBOLIQUES [1677 bis 1679 (?)]
+
+Überlieferung:
+
+L Aufzeichnung: LH IV 3, 5e Bl. 26. 1 Streifen (21 × 2 cm). 1 S.
+
+E1 BODEMANN, Die Leibniz-Handschriften, 1895, S. 70.
+
+E2 A. ROBINET, Malebranche et Leibniz, Paris 1955, S. 120.
+
+Dieses Stück hat kein Wasserzeichen. Eine fast wörtlich übereinstimmende Bemerkung finden wir in einem wohl 1679 geschriebenen Brief an einen Unbekannten (II, 1 N. 219, S. 500).
+
+La meilleure Apologie qu’on sçauroit faire pour Mons. Des Cartes; ce seroit d’achever ses lunettes Hyperboliques. Qui sont la seule chose d’utile, qu’il ait trouvé; si elle avoit pû s’executer; et je voudrois que le Pere de Malebranche et d’autres qui prennent à tache de defendre tout ce qu’il a dit fussent obligez de le faire.
+
+::: editorial
+
+(zu S. 1967) 5 calor (1) ex magnete m (2) qui L 6 ex (1) mag (2) luce (3) lumine L 16 (1) Je voudrois qu’on (2) La L
+
+16 f. Vgl. R. DESCARTES, Discours de la méthode, La Dioptrique, X (A.T. VI, S. 225–227).
+
+:::
+
+## [p. 1968] 359. SPATIUM ET MOTUS REVERA RELATIONES [Anfang 1677 (?)]
+
+Überlieferung: L Konzept: LH XXXVII 4 Bl. 88. 1 Zettel (19 × 10 cm). 2 S.
+
+Das Stück ohne Wasserzeichen ist inhaltlich noch in großer Nähe zur Abhandlung Pacidius Philalethi vom 10. November 1676 zu sehen (VI, 3 N. 78). Eine Datierung auf den Beginn unserer Periode scheint angemessen.
+
+Si Spatium sit res quaedam in pura extensione posita, materiae autem natura sit spatium implere; et Motus est spatii mutatio, tunc motus erit absolutum quoddam, et duobus corporibus sibi invicem appropinquantibus dici poterit utrum moveatur aut quiescat; vel, si ambo moventur, quanam moveantur celeritate. Atque inde sequentur eae conclusiones, quas olim ostendi in Theoria motus abstracte considerati. Sed revera Spatium illud res non est, neque motus est aliquid absolutum, sed consistit in relatione. Et proinde si duo corpora sibi concurrant, celeritas inter ipsa ita animo partienda est, ut sibi occurrere intelligantur eadem vi. Itaque si duo corpora concurrentia intelligantur aequalia, statim omnia phaenomena experimentis consentanea ex hoc solo deducentur. Assumo igitur corpora alia esse dura quae post concursum reflectantur, alia mollia quae simul maneant. Et assero: duo corpora [mollia] aequalia et similia eadem celeritate concurrentia, post concursum simul manere; dura vero ea qua venere celeritate reflecti.
+
+::: editorial
+
+(zu S. 1968) Leibniz ersetzte den Text in Kleindruck zusammen mit der dazugehörigen Zeichnung durch das Folgende und hat versehentlich nur den auf der Rückseite des Manuskripts stehenden Schluß gestrichen:
+
+His positis sit navis LMN in qua duo corpora aequalia et similia eadem celeritate concurrant; eodem tempore uno veniente ab L per LM altero ab N per NM ipsi LM aequalem, itaque eadem celeritate reflectentur contraria autem directione, ut eodem tempore quo ante concursum venerant ab L et N ad M, post concursum redeant ad L et N, si quidem perfecte elastica sunt, vel simul maneant, in M si mollia. Interea ponatur navis
+
+7 Si (1) Motus sit aliquid absolutum (2) Spatium L 7 in . . . posita erg. L 9 sibi invicem erg. L 9 utrum (1) moveri (2) moveatur L 10 quiescat; (1) et qua moveatur (2) vel, L 10 f. eae (1) consequentiae (2) conclusiones, L 11 abstracte (1) a praesenti systematis statu (2) considerati L 17 maneant. (1) In mo (2) Et (a) de mollibus hanc propositionem (b) assero: L 17 mollis L ändert Hrsg. 21 concurrant (1) LM et NM (2) ; eodem L 22 aequalem, (1) intelli (2) itaque L 24 navis (1) secundo (2) progredi L
+
+11 Vgl. VI, 2 N. 41.
+
+:::
+
+[p. 1969] progredi ab 1L1M1N in 2L2M2N, quae secum feret globos in ipsa decurrentes. Sit jam
+
+1A 2A2 B 1B ripa immota PT in qua punctis 1L1M1N L M N respondeant puncta P.R.Q. et punctis 2L.2M.2N 1 1 1 puncta S.V.T.
+
+A A B B [p. 1970] quidem celerioris, celeritas autem TY seu 2M3M seu XS erit dimidia differentia celeritatum PT et RT. Est autem PS aequ. XS seu dimidia PX et PX est PT minus TX seu PT minus TR.
+
+::: editorial
+
+(zu S. 1969) 3 2 2 3 His positis sit navis LMN, in qua duo globi aequales et similes A, B, concurrant uno A veniente a prora L ad P S R V Q T medium M, altero B eodem tempore a puppi N ad idem medium M, celeritate proinde aequali, et motu uniformi seu aequabili. In M autem concurrentia haec duo corpora A et B, si Elastri perfecte capacia sint reflectantur, et aequali tempore ac celeritate redibunt A quidem ex M in L, at B ex M in N. Haec dum in navi perinde fiunt, ac si quiesceret, ipsa navis interim motu aequabili secundo flumine recta deferatur, ita ut navis initio motus globulorum sit in loco A A B B 1L1M1N, momento autem concursus sit
+
+1 2 2 1 in loco 2L2M2N, et denique momento
+
+2 L A 2M M 2N B reversa, sit in loco 3L3M3N. In ripa
+
+1 L A 1M AB1N B absoluti recursus, seu cum corpora A et
+
+3 2 2 3 B post concursum ad priora loca sunt
+
+3 3 3 autem immota PY sint puncta
+
+3 L 3N respondentia, nempe PQR ipsis
+
+1 L1M1N, et STV ipsis 2L2M2N, et XYZ ipsis [3L3M3N]. Patet absolute loquendo P S Q X T R Y V Z et respectu ripae immotae perinde esse ac si dicamus corpora A et B celeritatibus PT et RT concurrentia in T post concursum reflecti celeritatibus TX et TZ, ubi quidem (si corpora sint aequalia) manifestum est celeritates et directiones corporum concurrentium permutari, seu TX aequari ipsi RT et TZ ipsi PT. Est enim TX aequal. 2M2L seu ML, minus 2L3L seu XS, seu PS. Et RT, est
+
+1 N1M seu NM seu ML, minus 1M2M seu 1L2L seu PS. Si vero corpora sint mollia post concursum simul manebunt et cum navi deferentur, ex 2M in 3M. Itaque si duo corpora mollia concurrant celeritatibus PT et RT post concursum simul ibunt celeritate et directione TY, directione 3 immota erg. L 11 autem (1) concurrentes, si (2) concurrentia L 11 A et B erg. L 12 et (1) eodem tempore eademque celeritate redibunt (2) aequali L 12 quidem (1) in L, et B (2) ex L 15 recta erg. L 15 ut (1) in (2) navis erg. L 16 f. sit erg. L 18 f. A et B erg. L 24 3L3N L ändert Hrsg. 29 2L3L seu erg. L 31 et (1) post co (2) cum L
+
+:::
+
+## 360. QUOD MOTUS SIT ENS RESPECTIVUM
+
+Februar 1677
+
+Überlieferung:
+
+L Konzept: LH XXXVII 5 Bl. 122. 1 Zettel (16 × 9,5 cm). 1 1/3 S.
+
+Leibniz hat die Sinnabschnitte, hier durch Absätze gekennzeichnet, durch Striche getrennt – wohl zur späteren Verzettelung. Das Datum hat Leibniz anschließend ergänzt.
+
+Febr. 1677
+
+Mira res: motum esse quiddam respectivum, nec distingui posse quodnam ex corporibus moveatur. Ideoque si affectio est, subjectum ejus erit non corpus ullum singulare, sed totus Mundus. Hinc etiam omnes effectus ejus respectivos esse neccesse est. Motus autem absolutus quem nobis fingimus non nisi animi nostri affectio est, dum nos ipsi vel alias res velut immobiles spectamus, quando ipsis velut immobilibus spectatis cuncta facilius intelligere possumus. Ex eo quod motus non unius corporis sed totius Mundi affectio est, patet causam primam rerum omnium totiusque Mundi unicam esse, nec alias esse intelligentias astrorum diversorum motrices.
+
+Notandum tamen motum non in se formaliter, sed ratione causae considerando, posse attribui ejus corpori a cujus contactu provenit mutatio. Si quaerenti cur hic ignis urit, respondeam quia is ussit a quo accensus est, vel ita de quolibet, vel cur hic canis latrat, quia ejus pater latravit, nihil explicuere etiamsi enim eam hoc modo in infinitum, non ideo explicuero cur canes latrent, seu quae sit eorum latratus causa.
+
+::: editorial
+
+(zu S. 1970) 1 dimidia erg. L 2 est (1) dimidia (2) PT L 19 f. Notandum . . . mutatio. erg. (1) Si plura exi (2) Si L
+
+:::
+
+[p. 1971] Melius exemplum praebet consistentia. Quam aliqui per Tabulas sibi incumbentes explicant, sed rursus explicare debent unde ipsae tabulae sint consistentes; aut fateri se nihil perfecte explicuisse, nec rationem firmitatis intelligere, nisi supposita alia firmitate. Itaque firmitatem absolute non explicuere. Unde sequeretur firmitatem corpori competere per se, quod absurdum est.
+
+Ex eo quod motus sit Ens respectivum, sequitur non dari vacuum, nam hinc tollitur motus in vacuo, quia nihil est quo dignosci possit. Quod autem dignosci non potest, ne ab omniscio quidem, id nihil est.
+
+## [p. 1976] 362. PRINCIPIA MECHANICA EX METAPHYSICIS DEPENDERE [Sommer 1678 bis Winter 1680/81 (?)]
+
+Überlieferung:
+
+L Konzept: LH XXXVII 4 Bl. 85–86. 1 Bog. 4o. 4 S. (Geringer Textverlust ergänzt nach E.)
+
+E GERHARDT, Philos. Schr. 7, 1890, S. 280–283.
+
+Wir datieren unser Stück nach dem häufig belegten Wasserzeichen. Inhaltlich besteht ein enger Zusammenhang mit der Abhandlung De concursu corporum von Januar 1678.
+
+Tempus erat quo credebam, omnia Motuum Phaenomena principiis pure Geometricis explicari posse, nullis Metaphysicis propositionibus assumtis, et concursuum Leges ex solis motuum compositionibus pendere; sed hoc impossibile esse profundiori meditatione deprehendi; didicique veritatem tota mechanica potiorem, scilicet omnia quidem in natura explicari posse Mechanice, sed ipsa principia mechanica ex metaphysicis et quodammodo moralibus, id est contemplatione causae efficientis et finalis, Dei scilicet perfectissime operantis, dependere; ex caecis autem compositionibus motuum nullo modo deduci posse.Et proinde impossibile esse, ut nihil sit in mundo praeter materiam ejusque variationes quod Epicuri secta statuebat. Quod ut clarius appareat repetam prius paucis, quae olim statui posse credideram, et deinde dicam quid me ab ea sententia abduxerit.
+
+Ponamus duo corpora A et B in
+
+Fig. 1. fig. 1. quae instar punctorum hoc loco
+
+A AB B AB considero concurrere sibi directe in linea recta AB, et eodem momento egressa ex locis[^1976-1]A et [p. 1977] motu aequabili pergentia concurrere in locis 2A et 2B, et proinde celeritates eorum repraesentari per rectam[^1977-1]A2A, et[^1977-1]B2B quas eodem tempore absolverunt.
+
+[^1976-1]: B, ac
+
+::: editorial
+
+(zu S. 1976) 9 assumtis, (1) unde putabam ad (2) et L 14 ex (1) brutis (2) caecis L 15 proinde (1) si nihi (2) impossibile L 17 appareat (1) repetebam (2) repetam L 20 f. fig. 1. (1) occurrer (2) quae . . . hoc loco erg. considero erg. concurrere (a) celeritate quacunque (b) sibi L 22 AB, (1) ita qui (2) ex locis 1A et 1B in loco 2A2B (a) celeritatibus (b) corpus quidem A celeritate (aa) 1A2A, corpus autem B celeritate 1B2B, id est ut illud (bb) repraesentata per rectam 1A2A, corpus autem B celeritate repraesentata per rectam 1B2B (aaa) quia illud (bbb) quas rectas unumquodque eodem tempore motu 〈 – 〉 (3) et (a) corpus (b) corpora quidem A et B (4) et str. Hrsg. et erg. L 23 momento (1) egredi (2) egressa ex (a) loco (b) locis L
+
+:::
+
+Dicebam tardius B abripi a celeriore A, et a loco concursus 2A2B simul ferri in 3A3B, celeritate 2A3A (vel 2B3B) quae sit differentia priorum celeritatum [p. 1978] motui resistere et totum ex A et B compositum nunc tardius moveri, quam antea solum A, est aliquid asserere, quod ex simplici natura corporis et motus, qualem supra assumsimus, si in ea nihil aliud quam spatii impletionem et mutationem intelligimus, duci non potest.
+
+[^1977-1]: A2A, et 1B2B seu tanto tempore quo ante concursum venerant simul A ex 1A in 2A, et B ex
+
+::: editorial
+
+(zu S. 1977) 1 B in 2B, nunc post concursum simul ventura esse, A ex 2A in 3A, et B ex 2B in 3B, et 2A3A vel 2B3B, fore aequalem 1A2A minus 1B2B. Demonstrationem ex eo petebam, quod supponebam in corpore nihil aliud considerari posse, quam molem, hoc est extensionem et impenetrabilitatem, sive quod eodem redit spatii seu loci impletionem; in motu autem nihil aliud considerari posse quam mutationem eorum quae diximus, seu mutationem loci. Quod si ergo nihil aliud affirmare volumus, quam quod ex his notionibus sequitur, dicemus causam cur corpus unum aliud impellat, petendam esse, ex natura impenetrabilitatis, dum enim corpus A impingit in corpus B, et ipsum penetrare non potest, non potest motum suum continuare, quin ipsum secum abripiat. Cumque in ipso momento concursus pergere conetur, Fig. 2. conabitur alterum secum abripere; id est incipiet abripere, seu alteri quoque conatum
+
+1 B imprimet eadem celeritate et directione eundi, A A B A B
+
+1 2 2 3 3 omnis enim conatus est initium actionis, ergo et initium continet effectus, seu passionis in eo in quod agitur. Et is conatus successum habebit plenum, atque A quidem eadem celeritate perget, B autem post concursum eadem celeritate et directione movebitur, qua A venerat; si modo nihil obstet; nihil autem obstat, si corpus B ante concursum ponatur esse in quiete ut in fig. 2. (ubi puncta 1B et 2B coincidunt), sive indifferens ad quemlibet motum recipiendum, itaque in casu figurae 2. ipsi 1A2A aequabitur recta 2A3A vel 2B3B. Nam dicere materiam 1 proinde (1) celeritatem unius (2) celeritates eorum L 2 f. absolverunt (1) Dico si corpora considerantur ut dura, nec aliquid aliud quam molem sive materiam extensam in se continentia, (a) et tr (b) si (aa) motus nihil aliud est quam translatio 〈 – – 〉 (bb) in motu nihil aliud quam loci mutatio est erg. tardius B abripi a celeriore A, et post concursum 2A2B ambo simul ferri ex 2A2B in 3A3B (2) Dico (3) Dicebam L 6 simul erg. L 9 molem, (1) ite (2) hoc L 9 impenetrabilitatem, (1) et in motu nihil a (2) sive L 10 seu loci erg. L 11 loci. (1) His suppositis (2) Quod L 16 abripere; (1) cumque hinc si in 2da figura alterum B ponatur quiescere (coincidentibus punctis 1B et 2B) utique conatu suo ipsi eundem conatum imprimet. (a) Nam omnes (b) Omnis enim conatus est initium motus seu effectus in uno, et initium effectus (2) id L 18 directione (1) prosequendi, quae (2) eundi, L 21 is (1) quidem (2) conatus L 23 si (1) quidem (2) modo L 24 quiete (1) , sive (2) ut . . . sive L 25 figurae 2. (1) 1A2A, erit aequalis (2) ipsi L 26 dicere (1) corpus (2) materiam L
+
+:::
+
+Si vero in fig. 3. ponamus duo corpora sibi occurrere celeritate aequali, post concursum ambo quiescent. Nam corpus A in momento concursus duos habebit conatus,
+
+Fig. 3. unum pergendi celeritate qua venit, nempe celeritate[^1978-1]A[^1978-2]A, alterum regrediendi
+
+A B
+
+[^1978-1]: 2 2 1 celeritati 1A2A est aequalis, itaque moveri intelligetur duobus motibus oppositis aequalibus, ut uterque conatus effectum habere intelligatur id est quiescet. Nam si in fig. 4. in navi LM pila C a prora ad puppim currat celeritate 1C2C, et interim navis progrediatur celeritate 1M2M, quae sit ipsi Fig. 4. C C 1C2C aequalis, tunc pila omni suo conatu
+
+[^1978-2]: 1 M locum non mutabit, sed eidem puncto N L 1 ripae immotae respondebit. Et quod de
+
+::: editorial
+
+(zu S. 1978) 3 3 celeritate qua alterum B venit, 1B2B, quae A A B B
+
+1  L M corpore A diximus in fig. 3 dicendum erit et
+
+2 2 de altero B. Si vero ut in fig. 1. alterutrum corpus celerius moveatur id vincet, et ambo N pergent directione quidem celerioris, differentia autem celeritatum. Nam corpus quidem A momento concursus duos habebit conatus, unum pergendi celeritate ut 1A2A, majore; regrediendi celeritate ut 1B2B, minore; corpus vero B itidem duos sed contra pergendi celeritate minore 1B2B, regrediendi celeritate majore 1A2A. Qui conatus ut omnes suum effectum sortiantur, rursus motus istos inter se componamus, quos conatus isti exigunt. Semper autem si corpus moveatur duobus motibus oppositis simul, in summa movebitur directione majoris, at differentia celeritatum, id est ambo simul ibunt in fig. 1. ex 2A2B in 3A3B celeritate 2A3A vel 2B3B, quae est 1A2B minus 1B2B. Quod rursus exemplo navis intelligemus in fig. 5, nam si ripa sit NPQR, navis autem LM in flumine pergat ex 1L1M in 2 aliquid (1) assumere, (2) asserere, L 3 assumsimus, (1) et (2) in qua (3) si in ea L 10 aequalis, (1) itaque ex (2) quod autem mo (3) itaque L 12 aequalibus, (1) omnis enim conatus plenum (2) ut L 15 pila (1) respect (2) re (3) omni L 17–19 Et . . . altero B. erg. L 20 f. corpus (1) fortius (2) celerius L 21 vincet, (1) nam cum am (2) 〈id qu〉 (3) corpus B moveatur (4) et L 24 unum (1) regrediendi cel (2) pergendi L 24 1A2A, (1) alterum (2) majore L 24 1B2B, (1) ergo t (2) minore; L 27 autem (1) duo (2) si L 28 directione . . . at erg. L 29 f. id . . . simul (1) pergent (2) ibunt in fig. 1 (a) ut (b) ex . . . 2B3B, (aa) id (bb) quae est (aaa) 1A2A (bbb) 1A2B minus 1B2B erg. L 30 f. ripa (1) 〈navis〉 (2) sit L
+
+:::
+
+[p. 1979] 2L[^1979-2]M celeritate NP, secumque ferat corpus
+
+Fig. 5. C in navi interim procurrens a prora versus
+
+[^1979-2]: C 1C puppim celeritate C C, manifestum est id L M 1 2
+
+::: editorial
+
+(zu S. 1979) 1 1 duabus ferri celeritatibus oppositis, una C L 2 M navis PR, majore (aequali ipsi NP) altera
+
+2 2 minore propria contraria QP (aequali ipsi
+
+1 C2C) ergo revera transferri respectu ripae N P Q R ex loco Q in locum R, in easdem partes in quas tendit navis, seu directione celeritatis majoris, celeritate QR quae est differentia celeritatum PR et QP. Superest unus adhuc casus, si in fig. 6. corpora A et B tendant ad easdem partes in eadem recta, sed A celerius assequatur ipsum B tardius inque ipsum ita impingat tunc ambo pergent simul celeritate majoris, seu celeritate 2A3A vel 2B3B quae sit aequalis celeritati 1A2A. Seu ut in praecedentibus differentia celeritatum detrahenda est celeritati Fig. 6. majori cum sibi occurrerent, ita nunc eadem adjicienda est celeritati minori, cum celerius
+
+1 A 1B 2A B2 3A3B incurrit in tardius. Nam impingit in ipsum solo excessu celeritatis, quatenus enim eandem celeritatem habent unum in alterum non agit, perinde ac si in eadem navi lata essent motu ejus communi, in ipsa autem navi tardius quidem quiescere, celerius autem differentia celeritatum in ipsum incurrere poneretur. Si vero simpliciter posuissemus celerius totam suam celeritatem imprimere tardiori antecedenti, tunc non simul pergerent, quod tamen hic semper alias fit, sed celerius suam retineret velocitatem, tardius summa velocitatum moveretur, et ita fieret celerius. 5 PR, (1) seu NP erg. altera contraria propria (2) majore erg. L 6 minore erg. propria (1) QP (2) contraria L 8–10 R, (1) celeritate QR quae est (a) 〈 – 〉 (b) differentia celeritatum PR et QP, (aa) directionem autem habet majoris, tendit enim QR erg. u. gestr. a P versus R (bb) venit enim a Q ad R, id est (aaa) tendendo ad R 〈 – 〉 (bbb) directione PR, (2) in easdem . . . QP, L 11 si (1) corpus (2) in L 12 ita erg. L 14 f. detrahenda est (1) majori, ita hic adji (2) celeriori (3) celeritati erg. majori L 16 celeritati erg. minori, cum (1) unum (2) tardius (3) celerius L 20 communi, (1) celerius autem (a) in (b) absolute (2) in L 21 Si (1) enim (2) vero L 22 celerius (1) totam suam (2) tota sua celeritate (3) totam L 22 antecedenti, (1) utique (2) tunc L 23 pergerent, (1) sed (2) quod L 24 ita (1) praecur (2) fieret L
+
+14–17 Seu . . . tardius: Der erste Teil dieser kontrastierenden Gegenüberstellung stimmt mit dem Vorangehenden nicht überein. Der Satz müßte vielmehr sinngemäß lauten: Seu ut in praecedentibus celeritas minor detrahenda est celeritati majori cum sibi occurrerent, ita nunc differentia celeritatum adjicienda est celeritati minori, cum celerius incurrit in tardius.
+
+:::
+
+[p. 1980] Haec quae de concursu corporum ita conclusimus, in eo maxime ab experientia dissentiunt, quod magnitudine corporis movendi aucta, ut in fig. 2. non ideo statuitur celeritatis minui; nam de reliquo, eadem fere fiunt, si duo corpora mollia et elastro carentia, cujus vi post concursum dissilire cogantur, concurrere sinamus, ut duos globos argillaceos chartae involutos, ex filis suspensos; nisi quod divisio per eorum summam instituenda est, seu celeritas dimidianda est, cum corpora sunt aequalia. Cogitabam autem etsi in statu corporum extra systema posito, et ut ita dicam rudi contingerent, quae concluseram, ita, ut corpus maximum quiescens a minimo impingente eadem qua minimum celeritate abriperetur, in systemate tamen seu in corporibus circa nos tale quid fore perabsurdum, ita enim minimo negotio maxima turbarentur, et proinde variis artificiis hunc effectum impediri. Corpora enim Elastro esse praedita, et flexilia, et partem impelli saepe toto non impulso; sed cum cogitarem quomodo in universum ratio reddi posset ejus, quod in summa experimur, ut aucta mole minuatur celeritas, uti videmus navem eandem secundo flumine eo ferri tardius, quo magis oneratur, haesi utique, atque omnibus frustra tentatis deprehendi hanc ut ita dicam inertiam corporum, ex sola illa initio posita materiae et motus notione, qua materia quidem intelligitur id quod extensum est seu spatium replet; motus autem spatii seu loci mutatio; deduci non posse, sed praeter haec quae ex sola extensione ejusque variatione seu modificatione deducuntur, adjiciendas atque agnoscendas esse in corporibus notiones sive formas quasdam ut ita dicam immateriales sive ab extensione independentes; quas appellare possis potentias, quibus celeritas magnitudini attemperatur, quae potentiae [n]on in motu, imo nec in [co]natu seu motus [initi]o, sed in causa sive ratione intrinseca [motus] ea qua opus est lege continuandi consistunt. Et in eo erratum est, quod motum quidem consideravere autores, sed non potentiam motricem seu motus rationem quam etsi a Deo rerum autore et gubernatore petamus non tamen in ipso Deo esse, sed ab eo in rebus produci conservarique intelligendum est. Unde etiam non eandem quantitatem motus (quod plerosque decepit), sed potentiae, in mundo servari, ostendemus.
+
+::: editorial
+
+(zu S. 1980) 3 si (1) ponamus (2) duo L 3 mollia (1) elastro carentia, et concursu a se invicem non repulsa sibi occurrant corpora post concursum a se invicem (2) et erg. L 5 chartae (1) inclusos, (2) involutos, L 6 seu (1) corpo (2) celeritas L 7 etsi (1) abstracta Motus (2) in L 7 systema (1) qu (2) posito, . . . rudi erg. L 7 f. quae (1) ita (2) concluseram, L 10 perabsurdum, (1) mi (2) ita L 11 impediri. (1) Corpus (2) Corpora L 12 impelli (1) toto (2) saepe L 13 ejus erg. L 13 ut (1) adjecta (2) aucta mole (a) auge (b) minuatur L 17 seu loci erg. L 18 variatione (1) ducuntur (2) seu L 22 motus (1) tentam (2) [initi]o, sed L 22 causa (1) motus 〈consist〉unt (2) sive L 23 quod (1) olim (2) motum L 24 etsi (1) De (2) a L 26 f. motus (1) , sed (2) (quod L
+
+:::
+
+## [p. 1981] 363. PHYSICA SCIENTIA ATTRIBUTORUM CORPORIS [Sommer 1678 bis Winter 1680/81 (?)]
+
+Überlieferung: L Konzept: LH XXXVII 3 Bl. 7–8. 1 Bog. 2o. 1 2/3 Sp. auf Bl. 7. (Oberes linkes
+
+Viertel ausgeschnitten.) (Auf Bl. 8 N. 364.)
+
+Dieses und die folgenden drei Stücke N. 364 bis 366 befassen sich mit der physica nova instauranda. Sie sind auf Papieren mit identischem Wasserzeichen geschrieben. Inhaltlich können N. 363 und 364 als Vorarbeiten für die beiden folgenden Stücke gelten.
+
+PHYSICA est scientia attributorum corporis.
+
+ATTRIBUTA autem quae de corpore cognoscuntur sunt vel Distincta vel Confusa.
+
+DISTINCTA sunt de quibus intelligimus in quae resolvantur. Exempli gratia: Extensum, id est habens partes, easque inter se situm habentes. Itaque extensi notio resolvitur in duas alias magnitudinis et situs. Magnitudinis autem consideratio petenda est ex Algebra vel Arithmetica, situs autem ex Geometria. Mobile, id est quod mutare situm potest. Itaque notio Motus resolvitur in notionem situs et mutationis. Et situs quidem consideratio sumitur ex Geometria, mutationis ex metaphysica.
+
+CONFUSA sunt de quibus non intelligimus in quae resolvantur. Ut rubrum, calidum. Etsi enim discernamus rubrum a non rubro, non tamen ideo possumus explicare quid sit rubrum, sive quomodo rubedo producatur. Itaque caeco nullis descriptionibus explicare [p. 1982] possum, quid sit lux vel rubedo. Circulus autem quid sit explicare illi possum, etsi nunquam vel visu vel tactu circulum percepisset. Itaque notiones distinctae definitione, at confusae sola ostensione sive sensu aliis traduntur.
+
+::: editorial
+
+(zu S. 1981) 8 (1) Attributa s (2) Physica est Scientia quae affectiones corporis ex ejus attributis demonstrat. Attributa (a) sunt (b) vel distincte cognoscuntur, vel tantum confuse. Priora intelligimus, posteriora tantum sentimus. (3) Physica L 8 f. attributorum erg. corporis (1) PRAEDICATA (2) ATTRIBUTA erg. L 10 Confusa. (1) DISTINCTA sunt, quae (a) 〈intellecta〉 (b) per alia simpliciora explicare possumus, si quidem explica (c) per suas definitiones explicare possumus, (aa) si (bb) modo non per se concipiantur ut magnitudo. Confusa sunt, quae alteri (aaa) vel per se vel certe per alia in quae resolvuntur, (bbb) concipimus, (ccc) intelligimus erg. ut extensionem, magnitudinem, figuram, motum. (2) CONFUSA sunt (3) DISTINCTA L 11 sunt (1) quae (2) de L 11 f. gratia (1) , Extensum (2) : Extensio (3) : Extensum L 12–16 Itaque (1) extensio (2) extensi . . . Geometria erg. (a) Mobile, id est cujus (aa) situs (bb) locus respectu alterius est mutabilis. Motus id est mutatio (aaa) loci (bbb) situs (ccc) loci (b) Motus est mutatio situs (c) Mobile id est quod (aa) situm (bb) mutare situm potest. erg. Mutatio autem postulat tempus, sive prius posterius et simul. (d) Mobile . . . consideratio (aa) pendet (bb) sumitur . . . metaphysica erg. L 18 enim probe gestr. discernamus L 19–S. 1982.3 producatur. (1) Et si quis Indus nostrae (2) Itaque caeco nullis (a) exc (b) descriptionibus . . . rubedo. (aa) Explici (bb) Circulus . . . etsi (aaa) non (bbb) nunquam . . . sensu (aaaa) explicantur (bbbb) aliis traduntur erg. L
+
+:::
+
+Attributa distincta tractantur in Metaphysica et Mathematica, et eatenus Physica his duabus scientiis subordinata est. Confusa vero physicae propria sunt, et in his consistit historia naturalis, ad scientiam vero acquirendam non conferunt, nisi quatenus distincta illis applicantur; nam alioqui nullam intellectualem resolutionem sive analysin instituere possemus. Exempli causa quia sensu visus deprehendimus angulum incidentiae et reflexionis radii lucidi esse aequales; ex hac hypothesi in physica ratiocinari possumus geometrica certitudine. Resolutio autem quae sensu deprehenditur, etsi utilissima sit ad resolutionem intellectualem reddendam faciliorem, non tamen eam statim exhibet, neque efficit, ut notio cesset esse confusa. Exempli gratia saepe deprehensum est ex flavo et caeruleo mixtis existere viride; sed non ideo demonstratum est hoc de omni viridi nam quoties propositio aliqua sola inductione constituitur, nunquam certi sumus eam esse plane universalem; et licet verum esse constanter deprehenderetur, non ideo menti nostrae apparet quomodo ex juncta apparentia caerulei et flavi diversa adeo ab ambabus existat, nempe apparentia coloris viridis. In his vero quae distincte percipimus longe secus est, exempli causa quomodo ex duobus motibus oppositis fiat quies; facile enim patet demonstrarique potest si corpus aliquod in tabula procedat versus orientem, et tabula corpus secum ferens eadem celeritate contrario plane motu, tendat versus occidentem, corpus esse quieturum, sive eandem a circumstantibus omnibus quiescentibus distantiam servaturum. Talia quae distincte cognoscuntur etiam ante experimentum infallibiliter praedici possunt; priora vero per experientiam discere debemus.
+
+::: editorial
+
+(zu S. 1982) 4 distincta (1) petuntur ex Metaphysicis et Mathematicis, confusa a sensu (2) tractantur L 4 in (1) Metaphysicis et Mathematicis (2) Metaphysica et Mathematica L 5 scientiis erg. L 5 f. sunt, (1) neque (a) in scientiam redigi possent, nisi quatenus (b) ad scientiam acquirendam (2) et . . . naturalis (a) quae constitui (b) et inductione constitui possunt observationes generales, quae ad praxin sane utiles sunt gestr. non erg. L 7 intellectualem erg. L 8 visus erg. deprehendimus (1) angulum incidentiae et reflexionis aequales in (2) radium a lucido egredientem, et opaco occurrentem habere erg. (3) angulum L 10 f. deprehenditur, (1) non (2) etsi . . . neque L 12 saepe (1) deprehendum (2) deprehensum L 13 mixtis erg. L 13 hoc (1) semper (2) de L 13–15 nam . . . universalem erg. L 16 ex (1) apparentiis illis (a) pri (b) caerulei et fluvi diversis (2) juncta . . . diversa L 16 adeo (1) existat, qui (2) ab L 17 existat, (1) qui vi (2) nempe (a) coloris viridis (b) apparentia L 19 demonstrarique potest erg. L 20 corpus secum ferens erg. L 20 contrario plane motu erg. L 23 infallibiliter erg. L 23 vero (1) ab experientia (2) experientia sola (a) nobis (b) constant (c) certo possunt (3) per L
+
+:::
+
+## [p. 1983] 364. VERITATES PHYSICAE [Sommer 1678 bis Winter 1680/81 (?)]
+
+Überlieferung: L Konzept: LH XXXVII 3 Bl. 7–8. 1 Bog. 2o. 2 1/2 Sp. auf Bl. 8. (Auf Bl. 7 N.
+
+363.) Zur Datierung vgl. N. 363. VERITATES PHYSICAE sunt vel intellectuales vel sensuales vel mixtae. INTELLECTUALES sunt quae sola ratione cognoscuntur, suntque rursus vel Axiomata vel Theoremata. AXIOMATA sunt quae sine probatione assumi possunt, tanquam per se manifesta, exempli causa si duo gravia sint per omnia aequalia et similia, et suspendantur eodem modo a duobus brachiis c aequalibus ca, cb ejusdem librae, erunt in aequilibrio. Hoc a b sane omnes admittent etiamsi non sint experti, nec alios expertos fuisse audiant, itaque est veritas intellectualis; neque postulabunt ut ratione aliqua confirmetur, itaque est axioma. Theoremata sunt veritates intellectuales quae ex aliis demonstrantur; exempli gratia si duo corpora gravia ejusdem materiae diversae magnitudinis suspendantur ex duobus brachiis quae sint inter se reciproce ut corporum ex iis suspensorum
+
+::: editorial
+
+(zu S. 1983) 6 (1) Propo (2) VERITATES PHYSICAE sunt vel Empiricae vel Dogmaticae. EMPIRICAE sunt quae (a) experiundo (b) sensu erg. probantur: et rursus sunt vel (aa) Experimenta vel Observationes (bb) Historiae (cc) singulares (aaa) vel magis generales (bbb) sive Historiae, exempli gratia (ccc) vel magis universales (ddd) quae dicuntur Historiae, vel magis universales, quae dicuntur Experimenta. Historiae (3) VERITATES L 6 vel (1) sensiles, vel (2) intellectuales L 6 vel (1) sensiles (2) sensuales erg. L 7 cognoscuntur, (1) ut (2) verbi gratia quod duo (a) pergravia (b) gravia (aa) lancibus aeq (bb) per omnia aequalia et similia, ejusdem librae brachia aequalia habentis duabus lancibus imposita, erunt in aequilibrio, neque enim ad hoc sciendum (aaa) est (bbb) opus est (3) suntque L 8 vel (1) Conclusiones (2) Theoremata L 11 et (1) imponantur duabus lanci (2) suspendantur eodem modo erg. L 12 ca, cb erg. L 13 admittent (1) sine probatione neque (a) experientia opus est (b) opus est ut faciamus experien (2) etiamsi L 14 fuisse (1) audivissent, (2) audiant, L 15 axioma. (1) Conclusiones (2) Theoremata L 17–S. 1984.4 Zwei Vorzeichnungen der zweiten Figur gestrichen. L 17 gravia erg. L
+
+:::
+
+[p. 1984] magnitudines, erunt in aequilibrio; ut si pondus quidem b sit
+
+1 2 duplum ponderis a, sed brachium cb dimidium brachii ca.
+
+c
+
+Haec propositio ex paulo ante dicta demonstratur assumtis a b quibusdam ratiociniis geometricis.
+
+Veritates physicae SENSUALES sunt quae solo sensu a
+
+2 1 nobis cognoscuntur; suntque vel Historiae vel
+
+Inductiones.
+
+HISTORIAE sunt veritates sensuales singulares, ut relatio Eclipseos cujusdam lunaris.
+
+INDUCTIONES sunt veritates sensuales universales ex pluribus singularibus consentientibus, suntque vel observationes vel experimenta.
+
+OBSERVATIONES sunt inductiones ad quas tantum opus est ut spectatores agamus, tales sunt observationes coelestes, ut post diem semper sequi noctem; solis viam esse obliquam ad aequatorem, et alia id genus.
+
+EXPERIMENTA sunt inductiones, ubi non nudos spectatores agimus, sed corpora tractamus vel immutamus, talia sunt experimenta chymicorum.
+
+Inductiones habent suos gradus universalitatis, suntque aliae aliis certiores. Exempli gratia nemo prudens dubitat, quin cras sol sit oriturus; sed rhabarbarum purgare, non aeque certum est, aliquando enim fit ut nonnulli vix fortissimis medicamentis solicitentur. Saepe tamen contenti esse cogimur propositionibus plerumque veris, praesertim in Medicina. Nonnullae inductiones sunt plane insufficientes, et imprudenter illis fiditur. Exempli gratia, quoniam nautae notaverunt suo tempore nullam esse declinationem acus magneticae apud insulas Azores dictas, non ideo concludere debuerunt idem sequentibus temporibus futurum esse, nec proinde debuerunt hujus observationis causa primum meridianum per has insulas ducere.
+
+VERITATES MIXTAE sunt quae partim ex sensualibus partim ex intellectualibus concluduntur. Exempli causa quod speculum concavum radios colligat, hoc pendet partim ex observatione sensu deprehensa, quod nimirum angulus incidentiae et reflexionis radii sint aequales, partim ex ratiociniis geometricis.
+
+::: editorial
+
+(zu S. 1984) 1 f. ut . . . ca. erg. L 4 geometricis (1) , neque eam credere (2) quisqua (3) neque eam credent (4) . Veritates L 6 cognoscuntur; (1) exemp (2) suntque L 6 vel (1) singulares vel universales (2) Historiae L 9 sunt (1) vel exp (2) veritates L 10 vel (1) expe (2) observationes L 12 ut (1) cum scimus (2) post L 15 tractamus vel erg. L 15 chymicorum. (1) Mixtae sunt quae ex sensualibus et intellectualis inter se ju (2) Inductiones L 17 purgare, (1) vitrum antimon (2) non L 18 nonnulli (1) nec (2) fortiss (3) vix L 19 f. Saepe . . . Medicina erg. L 21 nautae olim erg. u. gestr. notaverunt L 22 magneticae (1) corvi (2) apud (a) insulam Corvi dictam non (b) insulas (aa) Canaria erg. u. gestr. (bb) Azores L 26 concluduntur. (1) Itaque semper sunt conclusiones (2) Exempli L 27 partim erg. L 27 observatione (1) et (2) sensu L 27 nimirum (1) radii (2) angulus L 28 aequales, (1) et ex consideratione ter (2) partim L
+
+:::
+
+[p. 1985] Ubi notandum nos ratione quidem conjicere posse aequalitatem anguli incidentiae et reflexionis; imo, ubi naturam lucis cognoverimus, etiam demonstrare. Sed ad discendam lucis naturam prius opus est observationibus sensuum, ex quibus haec ipsamet de angulorum aequalitate, una esse potest.
+
+Patet etiam ex his eandem veritatem uni posse esse intellectualem, alteri sensualem, prout in ejus notitiam devenit. Notandum est etiam etsi in ratiocinationibus physicis saepe opus sit conjecturis, tamen ipsam conjectandi artem certis quibusdam regulis niti, quas etsi quandoque eventus destituat, plerumque tamen voto respondent; et prudentis viri officio functi sumus si eas sequamur. Serviunt vero hae conjecturae non tantum in usu vitae, sed etiam ut facienda experimenta nobis in mentem veniant quibus postea certi reddamur an recte conjecerimus; exempli causa quia spiritus ardens ex vino destillare potest, probabile erat eundem destillaturum et ex frumento et aliis, tentandum tamen erat antequam tuto crederetur: ita is qui observaverat aquam in antliis tantum ad triginta pedes elevari posse recte conjecit Hydrargyrum seu Mercurium vix ad totidem pollices elevatum iri, quia est plus quam duodecuplo gravior aqua; sed opus erat experimento ut securi redderemur, poterat enim haec elevationis terminatio ab alia longe causa quam liquoris gravitate oriri.
+
+Et hic quidem modus procedendi per conjecturas utramque in physicis et civilibus paginam facit, imo et in arithmetica et in geometria aliquando utilis est ad inveniendum etsi postea deprehenso successu certior probandi modus sit quaerendus. Est tamen ut dixi certa quaedam conjectandi seu conjecturae vim demonstrandi scientia, unde conjecturales quoque propositiones ad scientias pertinent.
+
+::: editorial
+
+(zu S. 1985) 2 reflexionis; (1) sed quia nobis non est satis cognita (2) imo L 8 voto erg. L 11–17 conjecerimus; (1) quod adeo verum est, ut sciam etiam ad inveniendum in Arithmetica et Geometrica utiles esse aliquando conjecturas. (2) exempli . . . crederetur: erg. ita . . . recte erg. . . . seu Mercurium erg. . . . quia . . . aqua; erg. . . . ut (a) securus redderetur (b) securi redderemur erg. . . . oriri. erg. L 18 et (1) moralibus (2) civilibus erg. L 21 conjecturae (1) pondus (2) vim erg. L
+
+:::
+
+## [p. 2026] 368. DE MOTU INSENSIBILI IN BAROMETRO [Sommer bis Winter 1678/79 (?)]
+
+Überlieferung:
+
+L Konzept: LH XXXVII 5 Bl. 173. 1 Zettel (15,5 × 6 cm). 1 S. (Auf Bl. 173 vo: »Meister
+
+Hans Linsens sein Schreiben habe erhalten«).
+
+E E. GERLAND, Leibnizens nachgelassene Schriften physikalischen, mechanischen und technischen Inhalts, Leipzig 1906, S. 5.
+
+Das Stück enthält kein Wasserzeichen. Der Hinweis auf den Brief des Mechanikers Hans Linsen, mit dem Leibniz ab 1678 in Briefwechsel stand (vgl. III, 2 N. 255), und Leibniz’ bis in die frühen siebziger Jahre zurückgehenden Überlegungen zum Barometer legen jedoch eine frühe Datierung nahe.
+
+Cum motus corporis est insensibilis, ut non nisi progressu facto notari possit, potest tamen motus et directio ejus in liquido agnosci ex ipsa ejus figura. Ita in Barometro ascensus Hydrargyri vel descensus est insensibilis, et tamen ex inspectione ipsa judicari statim potest utrum et quorsum tendat, id est ascensumne an descensum moliatur. Nam si motus tendat sursum, superficies erit convexa, sin descendat, concava erit. Quoniam media minus extremis resistunt, quia ipsa interna tubi superficies contactu suo descensum moratur. Ex Mediis igitur procedentibus in ascensu intumescit superficies, in descensu excavatur.
+
+::: editorial
+
+(zu S. 2026) 11 (1) Motu (2) Directio Motus (3) Cum L 12 tamen et ipse gestr. motus L 12 ejus (1) ex indicio (2) in L 13 insensibilis, (1) ipsa tamen sup (2) et L 16 quia (1) extrema (2) ad (3) Mo (4) ipsa L
+
+:::
+
+## 370. REMARQUE SUR MALEBRANCHE [September bis Dezember 1688 (?)]
+
+Überlieferung:
+
+L Konzept: LH IV 8 Bl. 31. 1 Zettel (7 × 6,5 cm). 1 S.
+
+E1 BODEMANN, Die Leibniz-Handschriften, 1895, S. 106 f.
+
+E2 ROBINET, Malebranche et Leibniz, 1955, S. 226.
+
+Dieses Stück trägt kein Wasserzeichen. Wir ordnen die Reflexion zeitlich dem Umkreis der Überlegungen zu Malebranche zu (vgl. N. 371).
+
+3 f. vel . . . proditurarum; erg. L 5 plausibile (1) multis (2) prima . . . plerisque L 7 et (1) Francisci (2) Claudii erg. L 8 virorum caeteroqui (1) doctissimorum (2) in . . . praestantium erg. L 9 nuper (1) a quibusdam (2) regula L 10 viris doctis L
+
+7 Vgl. H. FABRI, Physica, id est, scientia rerum corporearum, in decem tractatus distributa, 2 Bde, Lyon 1669–1671 [Marg.]. 7 Vgl. C. F. M. DE CHALES, Cursus seu mundus mathematicus, 3 Bde, Leiden 1674. 7 Vgl. G. A. BORELLI, De vi percussionis. Bologna 1667; De motionibus naturalibus a gravitate pendentibus, Reggio 1670. 9 Vgl. CHR. HUYGENS, Horologium oscillatorium, Paris 1673, pars IV.
+
+[p. 2031] Le Père Malebranche a fort bien rapproché le Cartesianisme aux sentimens communs, en faisant voir que le repos est une privation du mouvement, que la dureté vient de la compression et non du repos; qu’un corps en repos peut estre remué par un moindre qui est en mouvement, que nous n’avons point d’idée claire de nostre ame, que les verités eternelles ne dependent pas de la volonté de Dieu.
+
+## [p. 2040] 372. TENTAMEN DE PHYSICIS MOTUUM COELESTIUM RATIONIBUS [Frühjahr 1689 bis Herbst 1689 (?)]
+
+Überlieferung:
+
+L1 Konzept: LH XXXV 9, 26 Bl. 1. 1 Bl. 2o. 1 1/2 S.
+
+L2 verb. Reinschrift: LH I 3, 8d Bl. 1–2. 1 Bog. 2o. 2 1/2 S. (Unsere Druckvorlage.)
+
+E GERHARDT, Der Briefwechsel von Gottfried Wilhelm Leibniz mit Mathematikern, 1899, S.
+
+612 f. (nach L2 ).
+
+In einem undatierten Brief aus Rom an Huygens (GERHARDT, Der Briefwechsel von Gottfried Wilhelm Leibniz mit Mathematikern 1, S. 606–611), worin Leibniz auf sein Tentamen de motuum coelestium causis in den Acta Eruditorum vom Februar 1689 (S. 82–96) Bezug nimmt, erwähnt er un autre discours, den er während der Veröffentlichung dieses Aufsatzes zu diesem Thema geschrieben habe. Dabei dürfte es sich um unser Stück mit dem nahezu identischen Titel handeln. Das erschloßene Wasserzeichen und das italienische Papier sowie die zeitliche und inhaltliche Nähe zu N. 377 stützen unsere Datierung.
+
+Tentamen de Physicis motuum coelestium Rationibus
+
+Astronomi superiorum temporum, ut Machinam Mundi explicarent,orbes solidos commenti sunt, aliis rursum exiguis orbibus mobilibus insertis excavatos, quibus infixi planetae compositis pro Astronomi libitu motibus, circumagi possent. Nec contemnenda illa meditatio fuit, in ea infantia philosophiae, saltem enim imaginationi regendae inservire poterat, sed a veritate naturae longissime dissidebat.
+
+Primus Tycho apparatum ex coelo sustulit, orbesque fluidos et phaenomenis et rationibus consentire ostendit, quem posteriores magno applausu sunt secuti. Sed inde visa est augeri difficultas, neque enim apparebat, quid in libero aethere regeret planetas, intelligentias enim gubernatrices affingere, perabsurdum, et divino artificio indignum merito videbatur. Sympathiae autem et Magnetismi, etsi quadam Analogia juvarent, menti tamen non satisfaciebant, cum explicatione nova indigere judicarentur.
+
+::: editorial
+
+(zu S. 2040) 14 f. Rationibus (1) Veteres, (2) Philosophi superiorum temporum, (3) Astronomi et gestr. temporum, L1 16 orbibus insertis L1 17 compositis (1) ut liberet (2) pro L2 18 in (1) tanta (2) ea erg. L1 18 philosophiae (1) . Sed (2) . Cum vero appar (3) . Tycho illum (4) , saltem L1 18 f. regendae (1) inserviebat (2) inservire poterat, L1 20 apparatum inanem sustulit, L1 21 rationibus convenire ostendit, L1 23 enim (1) affingere rectrices (2) rectrices (3) gubernatrices L1 24 f. juvarent, (1) nova (2) menti L1 25–S. 2041.1 judicarentur. (1) Tandem (2) Non ita pridem L2 25–S. 2041.1 judicarentur. (1) Tand (2) Tandem Galilaeo, (a) et (b) Torricellio erg. Cartesio et erg. u. gestr. aliisque L1
+
+:::
+
+[p. 2041] Non ita pridem Galilaeo, Torricellio, Cartesio, aliisque Philosophiae restauratoribus in mentem venit, Materiam aetheream ad Oceani cujusdam morem constanti motu actam, secum rapere planetas. Res ergo eo rediit, ut Orbes quidem deferentes, sed fluidi ad motus coelestes explicandos requirantur. Sed quomodo ex certa regula motuum aetheris liquidi, orirentur motus planetarii Leges, nemo quod sciam explicare aggressus est, et ipse Cartesius velut desperatum, silentio transmisit.
+
+Keplerus, vir maximi sane ingenii, Tychonicis observationibus adjutus, cum multa tentasset, varieque phaenomena numeris explicata improbo labore comparasset, tandem duas invenit regulas Generales nempe primo Motum Planetarium esse in Ellipsi, in cujus foco sit sol, secundo tempora esse ut sectores Ellipticos ex sole tanquam foco abscissos. Verum cum arearum proportio vera licet et succedens minus simplex videretur, omnesque ad lineas et angulos potius inclinarent, rem per varias motuum compositiones ex circulis determinatis derivatas, explicare sunt conati Ismael Bullialdus, Sethus Wardus, aliique viri insignes, qui Kepleri coepta sunt prosecuti.
+
+Tandem mihi haec ante annos aliquot profundius meditanti incidit ratio mire simplex, motuum Planetariorum causas Physicas explicandi unde apparet, tantum abesse ut arearum proportio difficilis habenda sit, ut potius ex simplicissimis materiae aethereae motibus statim nascatur, quod hoc loco paucis explicare operae pretium erit.
+
+::: editorial
+
+(zu S. 2041) 2 venit, (1) quod et Leucippo in mentem venerat, Planetas (2) totam (3) Materiam L1 4 motus (1) coelorum (2) coelestes L1 4 certa (1) lege (2) regula L1 4 f. motuum (1) vorticis (2) aetheris orirentur (a) eae quae (b) Motus L1 7 Keplerus Tychonicis observationibus (1) propriisque meditation (2) adjutus, L1 9 invenit pulcherrimas Leges, Motum Planetarum esse L1 9 f. Ellipsi, (1) cujus (2) in sol, L2 10–15 Ellipticos, seu areas ex sole (1) tan (2) sive foco abscissas. Verum cum (a) areae (b) arearum proportio et ipsi aliis minime conveniens motuum naturae videretur (aa) quam (bb) quos lineae potius atque anguli metiuntur, (aaa) mot (bbb) omnes per vim quandam Circulos (aaaa) in (bbbb) varie inter se compositos intrudere sunt conati, ut Ismael Bullialdus, Sethus Wardus, aliique viri insignes sane, et alioqui de Geometria egregie meriti. Neque enim apparebat, unde arearum proportio nasci posset. Tandem L1 11 f. vera succedens erg. (1) et ipsi et aliis minus conveniens motuum naturae videretur, quos alioqui lineae potius atque anguli metiuntur, omnes (a) loco (b) arearum (c) Ellipticarum varios (d) circulo (e) varios (2) minus . . . per L2 13 circulis (1) derivatas deter (2) determinatis L2 13 derivatas, (1) intrudere (2) explicare erg. L2 14 f. prosecuti. (1) Neque enim ipsis apparebat, unde arearum proportio nasci posset. (2) Tandem L2 15 profundius consideranti (1) in mentem venit quomodo (2) incidit L1 16 motuum (1) causas explicandi, qua semel admissa (2) planetariorum (a) physicas (b) causas physicas explicandi L1 17 proportio (1) spernenda sit, (2) difficilis habenda sit, L2 17 f. proportio (1) 〈 – 〉 (2) spernenda sit ut potius (a) ab ipsa natura praecipue (b) ex (aa) primis aetheri (bb) simplicissimis aethereae materiae motibus, L1 18 nascatur, quod distinctius nonnihil explicare paucis erg. operae pretium erit. L1
+
+:::
+
+[p. 2042] Nimirum videmus baculum vel axem erectum ad perpendiculum in vase aqua pleno circa se rotatum, omnem aquam et innatantes festucas circumagere, sic tamen ut vicina centro velocius, remotiora tardius circulentur, quod jam et ab aliis est annotatum. Pono igitur quod est simplicissimum, velocitates materiae aethereae deferentis in orbe cujusque planetae decrescere in proportione distantiarum a sole, seu Geometrica phrasi, velocitates esse distantiis a sole reciproce proportionales, eamque circulationem voco harmonicam, ostendo enim si distantiae sint progressionis Arithmeticae, circulandi velocitates hoc modo fore progressionis Harmonicae.
+
+Hinc jam Geometrica demonstratione conficio in omni mobili, quod Harmonica circulatione circa aliquod centrum agitur, vel a materia aetherea harmonice circulante defertur, quemcunque mobile demum habeat motum proprium accedendi ad centrum vel a centro recedendi, tempora arcubus orbitae describendis impensa, fore ut areas, radiis ex centro circulationis ad arcus terminos ductis abscissas.
+
+Caeteras horum motuum, abditas sane ac mirificas, sed simplices non minus, ac naturae consentaneas rationes, quibus demonstratis spes est, faciliorem nobis paulatim aditum in rerum interiora factum iri, alias uberius exponemus.[^2042-1]
+
+[^2042-1]: In L 1 befinden sich am Kopf des Blattes folgende Figuren, die ersten beiden gestrichen:
+
+::: editorial
+
+(zu S. 2042) 1 videmus (1) baculo aliquo (2) baculum aliquem (3) axem aliquem erectum ad perpendiculum erg. L1 2 f. ut (1) remotiora propius, (2) vicina (a) vel (b) centro L1 3 circulentur. Pono L1 4 deferentis erg. L1 5 f. sole, eamque L1 7 f. Arithmeticae, circulationes fore L1 10 centrum (1) fertur, (2) agitur, L1 12 tempora (1) impensa (2) fe (3) fere proportionalibus (4) arcubus L1 12 fore (1) proportionalia areis (2) ut areas radiis L1 14 horum erg. motuum (1) arcanas (2) abditas sane (a) rationes (b) ac L1 15 f. quibus (1) inte (2) demonstratis spes est, (a) in (b) veras (c) penetrare (aa) veras (bb) nos paulatim (aaa) int (bbb) magis magisque in rerum interiora posse, alias uberius exponemus. L1
+
+:::
+
+## [p. 2043] 373. ANIMADVERSIO IN PHILOSOPHIAM CARTESII [Frühjahr 1689 bis Herbst 1689 (?)]
+
+Überlieferung: L Konzept: LH IV 1, 4d3 Bl. 1–2. 1 Bog. 4o. 3 1/5 S.
+
+Dieses und das folgende Stück dürften unmittelbare Vorarbeiten zu den ausführlichen Notata circa vitam et doctrinam Cartesii N. 376 sein. Der enge inhaltliche Zusammenhang mit N. 374 und 376 und dasselbe Wasserzeichen bilden die Grundlage unserer Datierung.
+
+Cartesii doctrinam et ingenium semper mirifice veneratus sum, saepeque immaturae ejus morti indolui,nec dubito, quin multa et magna daturus fuisset in usum generis humani si ad Hobbii aut Robervallii aetatem pervenisset. Et vellem sectatores Magistri praeclara cogitata prosequi potius, quam repetere tantum ut plerumque solent, et sub alio verborum schemate repraesentare. Sed nescio quo fato fit, ut philosophiae isti, quae profundas Geometriae meditationes et multiplicia naturae experimenta exigit, plures ex illis se applicent qui sub titulo magnitudinum figurarum et motuum, speciosam potius et auribus secundam disserendi de oblatis facilitatem, atque sui ostentationem, quam solidam rerum notitiam quaerunt, magno damno juventutis, quae scholasticas quisquilias permutans hodie aliis quisquiliis animum majorum capacem iis implet, quae usum postea in vita et disciplinis non habent. Neque enim aut Chymicus experimenta futura ex ramorum, hamorum atque aculeorum consideratione qualem hactenus habemus providebit, aut mechanicus, neque medicus scire poterit, quibus dosibus materiae subtilis aut particularum striatarum febris curetur; neque hydraulicis anguillares aquae partes ullum adjumentum afferent. Itaque etsi haec vera essent, longe tamen ab iis adhuc absunt, quibus est opus, et ignavia est tam levibus et remotis contentum esse velle.
+
+Equidem Cartesius alicubi in Epistolis spem facit constituendae verae Medicinae, si adhuc aliquae sibi observationes darentur, et sane defuere subtilissimo viro necessaria ad [p. 2044] constituendam philosophiam experimenta, sed quotusquisque ex sectatoribus ejus in tanta novorum experimentorum luce ad exequenda Magistri destinata animum attollit. Quam jejuna sunt quae de salibus notavit Cartesius quibus tamen omnis chymia fere superstruenda est, quam levia et rudia, quae de mineralibus et metallis. De homine quoque sciunt jam plerique magis ex ingenio quam natura philosophatum esse.
+
+::: editorial
+
+(zu S. 2043) 9 Et (1) vellem (2) optavi erg. (3) vellem erg. L 10 f. quam (1) ut plerumque solent, inanibus paraphrasibus et commentariis et alio verborum habitu repetere. Sed hoc fatum est optimarum etiam rerum ut abusui ob (2) repetere . . . repraesentare. L 12 et . . . experimenta erg. L 12 f. exigit (1) illi maxime se applicent qui (a) potius id quaerunt 〈ut〉 (b) loquendi (2) multi (3) plures . . . sub (a) praetextu (b) titulo L 15 quae (1) novo jam nugarum gen (2) scholasticas L 16 implet, (1) quae (2) unde nihil (3) quae L 18 f. habemus (1) profutu (2) providebit, aut mechanicus erg. (a) novi aliquid deteget, (b) neque L 20 hydraulicis (1) part (2) anguillares L 22 est (1) inhaerere (2) tam L 22 et (1) ab interiore a (2) remotis L
+
+23 alicubi in Epistolis: vgl. Descartes an Mersenne, Januar 1630 und Descartes an C. Huygens, 25. Januar 1638 (R. DESCARTES, Lettres, Bd 2, CV u. LXXXV; A.T. I, S. 105 f. u. S. 507).
+
+:::
+
+Sed mihi ut quod res est dicam insigni huic viro nihil magis nocuisse videtur quam ambitio constituendae novae sectae. Hinc omnis et fons malorum. Ideo enim et praematura multa nec satis absoluta protrusit in publicum, et de plerisque aliis viris egregiis indigne et cum contemtu locutus est, quemadmodum ex Epistolis apparet. Et aliorum praeclara inventa sibi arte vindicavit, exiguo aut nullo grati animi judicio. Unde non potuit non invidiae se exponere, et odia incitare, et in contentiones incidere, quibus ipsi bona temporis pars melioribus destinata periit. Quis non cum admiratione et propemodum cum indignatione legat quam contemtim de Galilaeo et de Fermatio aliisque excellentibus viris loquatur in Epistolis. Objectiones ejus in Methodum de maximis et minimis Fermatianam sophismata erant contorta, et quae in Galilaei motuum scientiam notat tanquam gravia descendentia longe ab his legibus dissentirent, ea testimonio naturae, et successu experimentorum refutantur. Quis autem credat quod in Epistolis asserit Vietam sibi non lectum cum satis compertum videatur, non Vietae tantum sed et Harrioti qui Vietam prosecutus est inventis usum esse. Certe magna libri Geometriae tertii pars Harrioto innititur, qui jam et aequationes nihilo aequales posuerat, et ex radicibus in se invicem ductis oriri notaverat. Recessum corporum a circulo per tangentem et rationem hinc explicandi detrusionem gravium ad centrum debebat Keplero, idem primus Hyperbolam satisfacere refractionibus subodoratus erat. Veram legem dioptricae ex Snellii [p. 2045] ineditis Cartesium hausisse patefecit Isaacus Vossius, demonstrationem Snellii vel non viderat, vel studio mutavit, ut rem sibi propriam redderet, sed coactus est in pejus ire, et aëri plus resistentiae quam aquae aut vitro tribuere, ut diceret aliquid Snellio non dictum et ne sic quidem examini accurato satisfecit, et sane nec potuit, dum gloriae maluit quam veritati servire.
+
+::: editorial
+
+(zu S. 2044) 1 sed (1) quis hodie (2) quotusquisque erg. L 2 luce (1) aliquid tentat (2) ad L 2 destinata (1) cogita (2) animum L 6 Sed (1) duo max (2) mihi ut . . . dicam erg. insigni huic erg. L 7 et erg. fons L 8 praematura (1) quaedam (2) multa erg. L 8 f. viris egregiis erg. L 12 ipsi (1) optim (2) bona L 12 cum (1) indignatione (2) admiratione L 16 scientiam (1) objicit, (2) notat erg. (a) experientiae testimonia hodie refutantur (b) tanquam L 18 non (1) visum lectumve (2) lectum L 19 qui (1) Vietae inventa (2) Vietam L 19 inventis (1) non initi (2) usum L 20 pars (1) ex Harrioto sumta est, maxime pro inven (2) Harrioto L 21 a (1) tang (2) circulo L 22 tangentem (1) debet (2) et (a) originem (b) rationem L
+
+14 f. Objectiones . . . contorta: vgl. die Korrespondenzen mit Mersenne, Mydorge, Hardy u. Debeaune von Januar 1638 bis Februar 1639: R. DESCARTES, Lettres, Bd 2, LXXXVIII; Bd 3, XLI, XLII, LVI, LX, LXI, LXII, LXV, LXVI, LXX u. LXXI (A.T. I, S. 486–493; II, 15–32, 122–132, 169–196, 253–276, 307–338 u. 510–519). 17 f. Quis . . . lectum: Descartes an Mersenne, 20. Februar 1639, Lettres, Bd 2, XCVIII, S. 454 (A.T. II, S. 524). 20 TH. HARRIOT, Artis analyticae praxis, hrsg. v. W. Warner, London 1631. 23–S. 2045.5 Vgl. I. VOSSIUS, De lucis natura et proprietate, Amsterdam 1662, S. 36. 24 SNELL VAN ROYEN, Les loix de la refraction (Manuskript).
+
+:::
+
+Nec dubium est, quin Maurolyci et M. Antonii de Dominis cogitata de iride meditantem juverint, quorum neminem mentione dignatus est, quemadmodum nec Gilbertum cujus magnetica inventa maximam ipsi lucem attulerant.
+
+## [p. 2053] 375. AD LEGEM NATURAE CARTESIANORUM, QUOD QUANTITAS MOTUS SERVATUR [Frühjahr 1689 bis Herbst 1689 (?)]
+
+Überlieferung: L Konzept: LH XXXVII 5 Bl. 13–14. 1 Bog. 2o. 2 1/3 S.
+
+Dieses Stück hat mit dem vorhergehenden und dem folgenden das für den angegebenen Zeitraum belegte Wasserzeichen gemeinsam.
+
+Recepta quaedam opinio passim pro lege naturae invaluit et a Cartesii sectatoribus maxime celebratur, eandem in corporibus servari quantitatem motus; ita ut in concursu corporum uno partem virium in aliud transferente, summa motuum sit eadem post concursum quae fuerat ante.
+
+Est scilicet quantitas motus factum ex multiplicatione materiae per velocitatem. Uti in muria quantitas salis est factum ex multiplicatione quantitatis aquae in gradum salsedinis. Et quemadmodum in tribus congiis muriae duplo salsioris sextuplo plus est salis quam in uno congio muriae simplum salsedinis gradum habentis, ita in tribus libris materiae duos celeritatis gradus habentis sextuplo plus est motus quam in una libra uno gradu celeritatis mota.[^2053-1]
+
+Quemadmodum autem porro si aquae salsae affundamus dulcem seu salsedine carentem, eadem in toto manet quantitas salis; idemque est et si duae muriae salsedine differentes, commisceantur; ita si corpus motu praeditum quiescenti partem virium vel etiam totam vim communicet, volunt tantum motus in ambobus simul manere debere, quantum erat ante in uno; et generaliter utcunque corpora duo aequalia vel inaequalia [p. 2054] agant in se invicem, eandem superesse quantitatem motus in summa, quasi motus instar salis distribueretur. Quae sententia sane tam speciosa est, ut a me ipso diu admitteretur donec in singulari aliquo exemplo argumentationem instituens reperi difficultatem inexpectatam, quam initio errori calculi imputabam, sed repetito aliquoties labore, tandem deceptionis originem deprehendi animadvertique non eandem quantitatem motus sed potentiae servari, male autem haec solere confundi inter se nec recte potentiam (conservandam scilicet) per ductum materiae in velocitatem aestimari.
+
+[^2053-1]: Am Rande: Et hactenus recte [bricht ab]
+
+::: editorial
+
+(zu S. 2053) 9 in concursu corporum erg. L 11 factum (1) quoddam (2) ex fact (3) ex (a) ductu (b) multiplicatione erg. (aa) molis in velocit (bb) materiae L 12 in (1) aqua salsa (2) muria erg. L 12 ex (1) ductu (2) multiplicatione erg. (a) qua (b) quantitatis erg. L 13 salsedinis. (1) Ut (a) dupli (b) in aqua duplo ma (2) Ut in duplicata aquae men (3) Sic ut duplicata (4) Sic ut muria (a) dupli (b) triplicatae mensurae et (5) Sic ut in (a) triplis (b) tribus congiis (6) Et L 15 materiae (1) duplo celerioris (2) duos . . . habentis L 18 in toto erg. L 18 f. salsedine licet gestr. differentes L 19 ita posito eandem summam motus servari debere utique erg. u. gestr. si L 19 f. vel . . . vim erg. L 20 volunt (1) idem esse (2) tantum L 21 generaliter erg. L 21–S. 2054.1 aequalia vel inaequalia erg. (1) agerent (2) agant L
+
+:::
+
+Sed ne quis logomachiam subesse putet ob variam potentiae acceptionem, quaestio circa rem ipsam huc redit. Ponamus corpus 4 librarum moveri velocitate unius gradus et corpus aliud unius librae quiescere. Deinde illud totam suam potentiam debere transferre in hoc, ita scilicet ut corpore quadruplo quiescente simplum solum moveatur. Quaeritur quantum velocitatis accipere debeat corpus simplum seu unius librae. Ex sententia Cartesianorum, passim ab aliis quoque recepta, corpus unius librae in hoc casu accipiet velocitatem 4 graduum, ego vero comperi non accipere nisi gradus velocitatis duos, alioqui, ut mox demonstrabo, habituros nos effectum causa potiorem seu motum perpetuum mechanicum, quem pro absurdo habendum esse tanquam axioma indubitatum assumo.
+
+Hac igitur occasione excitatus multa alia detexi a vulgaribus sententiis remota et inprimis certam potentiae notionem constituere, et novae scientiae, quam Dynamicam non male appelles, Elementa condere aggressus sum, quorum specimina dedi per propositiones quasdam Mathematico more demonstratas, hic autem nonnulla exponam familiarius. Potentiae Mensuram definio per determinatam quantitatem effectus qui [p. 2055] a causa praestari potest, veluti datum pondus ad datam elevare altitudinem, datum Elastrum ad datum tensionis gradum redigere, dato corpori quiescenti datum imprimere gradum velocitatis.
+
+::: editorial
+
+(zu S. 2054) 1 in summa erg. quasi (1) motus instar s (2) eadem quantitas motus (3) motus L 2 distribueretur. (1) Haec opinio tam plausibilis est, ut me ipsum diu deceperit, non minus quam alios quibus (a) visum (b) videtur (c) videbatur erg. idem esse potentiam quod motus quantitatem. Itaque si tota potentia corporis 4 librarum celeritatem habentis unius gradus transferenda esset in corpus unius librae prius quiescens; ita ut postea corpus quatuor librarum quiescere deberet, solo corpore unius librae in motu existente (aa) sequeretur (bb) deberet erg. corpus unius librae accipere velocitatem quatuor graduum, ex eorum scilicet sententia, qui quantitatem motus eandem servari volunt. (2) Quae L 3 in (1) speciali (2) singulari erg. L 3 exemplo (1) calculum (2) argumentationem erg. L 4 inexpectatam erg. L 4 initio (1) errori (2) calculo (3) lapsui (4) errori calculi erg. L 5 tandem (1) fontem (2) deceptionis L 6 haec . . . recte erg. L 10 debere erg. L 11 ita (1) ut (2) scilicet ut corpore L 12 simplum seu erg. L 13 in hoc casu erg. L 14 graduum, ut scilicet tantum possit quantum corpus 4 librarum motum velocitate gradus unius, gestr. ego L 14 vero certa demonstratione gestr. comperi L 14 accipere (1) corpus simplum nisi duplam prioris (2) nisi L 15 ut mox demonstrabo erg. L 15 effectum . . . seu erg. L 16 mechanicum, (1) quod es (2) ut mox demonstrabo gestr. quem L 16 habendum (1) sumo (2) esse L 18 multa vulgaribus erg. L
+
+:::
+
+Quae igitur idem praestare possunt aequalis sunt potentiae, et quae idem praestare possunt aliquoties, potentias habebunt in eadem ratione in qua sunt numeri repetitionum. Est tamen ea in re subtili opus consideratione, unde aliquando in dubitationem venit, quinam effectus sint potentiis proportionales. Ac nos quidem comperimus tripla opus esse potentia ad idem pondus in triplam altitudinem elevandum, vel ad triplum pondus elevandum in eandem altitudinem; vel ad celeritatem eandem triplo ponderi imprimendam. Sed falsum esse deprehendimus triplam potentiam sufficere ad triplam velocitatem eidem ponderi imprimendam, opus enim est noncupla, et ad duplam velocitatem imprimendam opus est potentia quadrupla, ut mox patebit.
+
+Et ratio cur de velocitate argumentari non liceat, velut de pondere et altitudine haec
+
+L M N est, quod mensura potentiae seu datus effectus simplex [p. 2056] velocitatis non potest hic casus, vel hoc thema dividi in tria themata gemella inter se realiter diversa, nam si tollas inde casum, seu thema librae unius praeditae velocitate unius gradus, restabunt duo gradus velocitatis sed sine libra seu sine subjecto quippe jam sublato. Sed ita non possunt constituere novos casus. Sin thema totale concipiamus ut compositum ex tribus impressionibus successivis aequalium graduum velocitatis in idem corpus, alia oritur difficultas, nam tria themata partialia non erunt gemella inter se. Et casus imprimendae velocitatis determinatae in corpus quiescens, non est per omne gemellus casui ejusdem gradus denuo imprimendi in corpus velocitate jam praeditum, tametsi prima specie ex vulgari doctrina de motuum compositione, plerisque videatur, ejusdem esse potentiae dare quiescenti gradum unum velocitatis, et deinde jam moto addere adhuc unum in easdem partes, ita ut inde nascatur duplex celeritas, quod tamen falsum esse constabit ex sequentibus. Unde intellegi potest, quanta circumspectione sit opus, et quam intutum sit fidere probabilitati, ubi exactae proportiones quaeruntur.
+
+::: editorial
+
+(zu S. 2055) 2 2 2 praecise repetitur ter in pondere vel altitudine triplicatis, non vero in velocitate triplicata. Nam pondus trium librarum, velut LMN Q ad unum pedem PQ elevare, est ter elevare unam libram ad unum pedem, nempe libram L ad pedem 1L2L, libram M ad pedem L M N 1M2M, et libram N ad pedem 1N2N. Et pondus unius librae ad tres
+
+1 1 1 P pedes elevare est etiam ter unam libram elevare ad unum pedem; nullo utique in repetitionibus discrimine. Similiter pondus trium librarum velocitatem F habens unius gradus ter continet unam libram velocitate praeditam unius gradus. Sed non aeque manifestum est, corpus unius librae velocitatem E habens trium graduum ter continere unam libram velocitate praeditam unius gradus. Et sane unam libram ad tres pedes elevando tres habemus casus seu D tria themata inter se realiter diversa et per omnia gemella, nempe libram A A C quiescentem in C elevare per pedem CD ut sustentatum quiescat in D, et rursus quiescentem in D elevare per pedem DE, et postremo quiescentem in E elevare per pedem EF ut in F sustentetur. Sed cum una eademque libra tres habet gradus 9 altitudinem; (1) vel etiam ad triplam (2) vel L 13 et (1) magnitudine (2) altitudine L 18 nempe (1) libram L, et libram M, et libram N; ad pedes 1L2L, 1M2M, 1N2N. (2) libram L 21 f. librarum (1) velocitate praeditum (2) velocitatem habens L 23 Sed (1) dici non potest pondus (2) non ideo erg. u. gestr. . . . corpus L 26 et . . . gemella erg. L 27 quiescentem in C erg. elevare (1) ad pedem CD (a) et rursus quiescen (b) ut ibi quiescat (2) per . . . D, L 28 elevare (1) ad (2) per erg. L 29 ut postremo gestr. in L
+
+:::
+
+Sed ne diutius expectationem lectorum veritatis avidorum suspensam teneamus, Demonstrationem ipsam exponere placet.
+
+Propositio
+
+Si corpus quatuor librarum moveatur in horizonte, ejusque potentia omnis transferenda sit in corpus unius librae in eodem horizonte quiescens, ita scilicet [bricht ab]
+
+::: editorial
+
+(zu S. 2056) 3–8 gradus, (1) nullum superest subjectum reliquis duobus gradibus ad nova themata componenda. Et (a) potent (b) casus (aa) potentiae (bb) velocitatis determinatae imprimendae in corpus quiescens non est per omnia gemellus casui (aaa) velocitatis (bbb) ejusdem gradus velocitatis in easdem partes erg. u. gestr. imprimendae in corpus eodem gradu simplice vel duplicato jam praeditum (2) supererunt duo gradus sed sine libra tanquam subjecto quod locum non habet. Sin thema totale esse velis imprimere eidem librae diversas successive (3) non restabit nisi una libra sed (4) restabunt . . . quippe jam sublato erg. (a) , quod non consti (b) . Sed . . . praeditum erg. L 4 f. ut (1) impressionem (2) compositum L 7 casus (1) imprimendi unum gradum (2) imprimendae L 11 in . . . celeritas erg. L 13 quam (1) parum fidendum (2) intutum L 13 probabilitati, (1) ubi de mathematica rigore (2) ubi L 15 f. teneamus, (1) certa (2) Demonstrationem L 17 f. Propositio Unica gestr. (1) Non servatur eadem (2) Si L 18 corpus (1) quadruplum (2) quatuor librarum L 18 f. omnis (1) transferatur in cor (2) transferenda L 19 quiescens, (1) hoc est si cesset mo (2) ita L
+
+:::
+
+## 378. QUANTITAS EFFECTUS FORMALIS IN MOTU [Mitte bis Ende 1689 (?)]
+
+Überlieferung: L Konzept: LH XXXVII 4 Bl. 164–165. 1 Bog. 4o. 3 Sp.
+
+Leibniz zitiert aus seiner in Rom enstandenen Dynamica de potentia et legibus naturae corporeae (GERHARDT, Math. Schr. 6, 282–514). Das Stück ist auf italienischem Papier geschrieben, hat aber kein Wasserzeichen. 3781. GESTRICHENER ERSTER ANSATZ
+
+EFFECTUS MOTUUM FORMALES sunt qui nihil aliud continent quam quantitatem materiae per spatium esse translatam. Et ACTIONES MOTUUM FORMALES sunt quae nihil aliud continent quam quantitatem materiae per spatium in tempore transferri.
+
+Itaque nulla hic ratio habetur obstaculi superati quod nasci forte potuit a corpore alio occurrente aut ipsius corporis moti adhaesione vel attractione, aliisque materiae concretae accidentibus. Sed consideratur tantum materiae quantitas locum mutans per tempus, quae scilicet motui essentialia sunt, itaque Effectum vel actionem, formalem appellavi. Differt autem Effectus ab Actione quod in Effectu solum ejus quod praestitum est, nempe ejus quod est translatum et spatii per quod facta est translatio; in actione vero integra etiam temporis, quo praestitus est effectus, ratio habetur. [p. 2076] 3782. ZWEITER ANSATZ
+
+::: editorial
+
+(zu S. 2075) 2 f. relictus esse videatur. L1 11 (1) ACTIONES (2) EFFECTUS L 15 f. a (1) medio in quo fertur mo (2) medio (a) fluido in quo fertur mobile (b) aut corpore oc (3) corpore alio erg. L 16 corporis (1) movendi (2) moti erg. (a) qualitate, (b) adhaesione (aa) aut (bb) vel erg. L 18 f. quae . . . appellavi erg. L
+
+:::
+
+QUANTITAS EFFECTUS FORMALIS IN MOTU est cujus mensura est materiam certae quantitatis motu aequidistributo motam esse per certam longitudinem.
+
+Ut quantitatem materiae contentam in AB translatam esse ex[^2076-1]A[^2076-1]B in 2A2B, per
+
+A A longitudinem quae est lineae[^2076-1]A2A a quocunque [p. 2077] quantitatum verum est universaliter, id de alia verum est quantitate, quae a priori minus differt errore quovis dato.
+
+[^2076-1]: 2 corporis puncto ut A, descriptae; quae scilicet est longitudo motus aequidistributi (defin. 1. cap. de velocitate motus aequidistributi), ubi nempe linea a quocunque mobilis puncto descripta est aequalis B B
+
+::: editorial
+
+(zu S. 2076) 1 2 (defin. 1. dicti cap.). Itaque si haec mensura in motu repetatur, etiam toties repetetur seu multiplicabitur quantitas Effectus. Hunc autem Effectum voco formalem, quia motui est essentialis, secus ac sunt effectus alii qui a peculiari qualitate moti, aut obstaculo occurente ac superato nasci forte possunt. Axioma Duo Quantitatem habentia sunt inter se, ut numeri aequalium partium in quas resolvi possunt. Quicquid autem de genere aliquo 2 (1) EFFECTUS MOTUUM FORMALES INTER SE sunt, quorum (2) QUANTITAS EFFECTUS FORMALIS A MOTU (3) QUANTITAS (a) ACTIONIS (b) EFFECTUS erg. FORMALIS (aa) A MO (bb) IN L 2–5 materiam (1) datae quantitas (2) certae quantitatis erg. (a) motu aequidistributo certae velocitatis moveri per certam longitudinem (b) moveri per certam longitudinem et quidem motu aequidistributo (aa) datae velocitatis (bb) certae velocitatis (cc) qui certum habeat gradum velocitatis. (c) motu . . . longitudinem. erg. (aa) Axioma 1. Duo quantitatem habentia sunt inter se, ut numeri (aaa) aequalium in quae (bbb) partium aequalium in quas erg. ita resolvi possunt, ut quod superest sit minus quovis dato. (bb) Effectum erg. u. gestr. Ut L 5 2A2B, tempore T, gestr. per L 6 longitudinem (1) 1A2A, (a) a quocunque corporis p (b) au (2) quae L 11 f. cap.). (1) Effectum (2) Itaque L 18 quas (1) ita (2) resolvi L 18–S. 2077.2 possunt (1) , ut quod superest sit (2) , resolvitur autem in partes quod ita exhauritur (a) ut quod sup (b) ut si quid detractis partibus erg. superest, sit minus quovis dato. (3) . Quicquid autem de (a) quantitate aliqua verum est generaliter (b) genere . . . universaliter erg. , id . . . dato. L
+
+8 f. (defin. . . . aequidistributi): G. W. LEIBNIZ, Dynamica de potentia et legibus naturae corporeae tentamen scientiae novae, pars I, sect. II, cap. III: GERHARDT, Math. Schr. 6, S. 330.
+
+:::
+
+Exempli causa Hexapoda resolvi potest in pedes sex, decempeda in pedes decem, vel (posita ulna duarum pedum) resolvi potest Hexapoda in ulnas tres, decempeda in ulnas quinque. Itaque Hexapoda est ad decempedam ut 6 ad 10 seu ut 3 ad 5. Et vero in universum nihil aliud est quantitas quam numerus partium posito mensuram quandam semper sibi congruentem assumi pro unitate. Et hinc usus Scalarum in partes aequales divisarum nascitur.
+
+## 379. DE POTENTIAE ABSOLUTAE CONSERVATIONE [Winter 1689/90 (?)]
+
+Überlieferung: L Konzept: LH XXXV 9, 16 Bl. 12. 1 Zettel (11 × 18,5 cm). 1 3/4 S.
+
+Das Stück enthält kein Wasserzeichen. Die Datierung stützt sich auf inhaltliche Gründe. So lag Leibniz’ Konzeption der Dynamik schon vor, von der er Antonio Alberti in einem Brief vom 20. Januar 1690 berichtet (GERHARDT, Philos. Schr. 7, S. 445f.). Leibniz hat ab Dezember 1689 (vgl. III, 4 N. 223) Teile seiner Dynamik an Rudolph Christian v. Bodenhausen geschickt, der die Manuskriptteile ins reine schreiben und später zum Druck geben sollte, wozu es aber nicht gekommen ist. Vgl. hierzu den Briefwechsel Leibniz- Bodenhausen, III, 4, bes. N. 240 und N. 245 von Ende Februar bzw. vom 18. März 1690 und den Briefwechsel mit Antonio Magliabechi (I, 5 N. 304, N. 306 und N. 312 vom Februar und März 1690).
+
+Eadem semper in mundo servatur potentia absoluta, ut potentia elevandi tantum pondus ad tantam altitudinem;vel tendendi arcum ad tantum usque tensionis gradum. Et proinde semper servantur in mundo eaedem quantitates virium quae fiunt ex ductu corporum in quadrata celeritatum.
+
+Eadem semper servatur in mundo potentia reactiva seu respectiva, qua scilicet corpora concurrentia in se invicem agere possint, seu qua a se invicem repellantur. Et ea [p. 2078] potentia habetur, si corpora ducantur in celeritates [quibus] unumquodque recedit a centro gravitatis communi.
+
+::: editorial
+
+(zu S. 2077) 3 in (1) partes sex (2) pedes sex, L 8 nascitur. Haec autem etiam ad incommensurabilia producuntur, quae definito numero rationali (1) ex unitatibus composito exprimi non possunt (2) seu numero unitatum aut ejus partium aequalium exprimi non possunt; item ad ea erg. u. gestr. ostendendo errorem esse minorem quovis errore dato, adeoque revera esse nullum. gestr. L 20 vel erg. L 23 f. scilicet (1) duo corpora (2) corpora L
+
+:::
+
+Motus autem quem habet eorum centrum gravitatis commune, siquidem id mutatur, debet motui eorum proprio non misceri, sed talis [ipsis] motus tribuendus est, qualem haberent centro gravitatis communi spectato ut quiescente. Et hac vi corpora duo concurrentia agunt in se invicem.
+
+Potentia absoluta mortua fit ex ductu celeritatis mortuae in molem. Potentia viva ex ductu celeritatis vivae impetu quaesitae. Celeritas mortua potest dici conatus, viva impetus. Conatus est ponderis in statera, impetus gravis ex altitudine aliqua in stateram cadentis.
+
+In vi qua corpus in corpus agit, seu vi
+
+B A respectiva omnis celeritas computatur quasi c mortua, ut si vis elastica corpora A et B separet, vim respectivam corpora inter se divident, at eadem accipient celeritates proportionales reciproce, magnitudinibus. Ratio quia vis viva f d e manet mortuae proportionalis, ut ponamus primo momento cd corpus minus A accipere celeritatem majorem de, corpus vero majus B celeritatem l h minorem df, in ratione reciproca corporum, ut s g r quia B [duplum] A, sit de dupla df. Quia primo momento est vis mortua. Secundo momento celeritas addita rh proportionalis est additae sl et o u m t n ita porro. Celeritates ergo semper proportionales.
+
+Ergo et vires, quia et effectus, id enim tantum quaeritur, ut a se invicem repellantur mutuo, nec refert quod unum celerius aut tardius moveatur, r p q ut si fingamus arcum qui sagittam expellere debet esse libere suspensum, ut aeque possit procedere arcus ac recedere sagitta. Ergo vis haec corporum a se invicem recessu quaesita, et ipsis distributa semper manet proportionalis primae mortuae qua a se invicem recedere conantur, quae reciproce proportionalis est corporibus. Et manet generalis [p. 2079] regula, quod semper spatium ducendum est in corpus, ad vim habendam. Et vis quam a separante accipiunt, eadem est quae vis qua in se invicem agerent, si iterum concurrerent. Ergo et vi ista concurrunt. Ergo ex principio quod vis mortua aestimanda facto celeritatis in corpus caetera sequuntur tam in respectiva actione seu vi, quia tunc primae proportionalis, quam in absoluta, quia tunc vis ultima est ut quadrata primorum conatuum, seu ut spatium. Generalissime autem verum manet vim esse factum ex ductu corporis in spatium. Debet autem corpori ascribi motus pro concursu talis seu tale spatium, ut utriusque corporis eadem sit vis; quia certum est duo corpora concurrentia aequali vi concurrere, seu tantam vim sentire unum quantam sentit alterum.
+
+::: editorial
+
+(zu S. 2078) 1 si (1) quantitas versehentlich nicht gestr. corporum ducatur in celeritatem (2) corpora . . . celeritates qua ändert Hrsg. L 4 ipsius L ändert Hrsg. 6 f. invicem (1) 〈non〉 (2) servatur (3) . Potentia L 7 absoluta erg. L 9 est (1) libram (2) ponderis L 18 minus erg. L 21 dupla L ändert Hrsg. 30 quaesita, (1) semper manet (2) et L 31 Et (1) patet tantum (2) manet L
+
+:::
+
+## 380. DE FIRMITATE, VI ELASTICA, EXPLOSIONE, ATTRACTIONE [Frühjahr bis Sommer 1690 (?)]
+
+Überlieferung: L Konzept: LH IV 1, 14c Bl. 4–5. 1 Bog. 4o. 4 S.
+
+Leibniz erinnert hier an seine versprochene Dynamik, an den Phoranomus und schließlich an die in Florenz ausgearbeiteten Untersuchungen zur Naturphilosophie. Alle diese Arbeiten fallen in die spätere Zeit seines Italienaufenthaltes. Das Stück enthält kein Wasserzeichen, ist nicht auf italienischem Papier geschrieben, dürfte aber bald nach Leibniz’ Eintreffen in Hannover niedergeschrieben worden sein.
+
+Cum materia homogenea et continua sit, nulloque vacuo interrupta, figurae in ea actuales non oriuntur nisi per motum. Proximum a figura est, ut firmitas explicetur, seu partium cohaesio quaedam, quae petenda est a motu conspirante, simplex enim quies aut nullam dabit firmitatem, aut infinitam, quanquam explicari non possit, quomodo firmitas a quiete.Motus autem conspirans firmitatem producens, non tantum debet esse communis, hoc enim ad connexionem non sufficit, sed qui separationi resistat, quod quomodo concipi possit mox dicetur.
+
+::: editorial
+
+(zu S. 2079) 1 habendam. (1) Aequalis au (2) Et L 3 f. celeritatis (1) seu spatii, in (2) in L 4 respectiva (1) poten (2) actione L 7 f. seu tale spatium erg. L 17 (1) Nihil in materialibus intelligibile est, quod non a motu (2) Ut materialia intelligibiliter explicentur (a) a motu incipiendum est (b) varietas in ipsis a motu petenda est, quoniam in continuo et pleno, et homog (3) Cum L 19 quaedam, (1) tunc (2) quae L 21 autem (1) nisi (2) conspirans (a) b (b) non (c) 〈tantu〉 (d) firmitatem L 22 communis, (1) sed et (2) et ta (3) hoc L
+
+:::
+
+[p. 2080] Equidem motus in se rediens, vorticis in modum supponi potest, sed cum talia recedere conentur per tangentem, nisi quid impediat, videndum quod impedimentum concipi possit. Nam si alio vortice vorticem circumdes non tollitur, sed transfertur difficultas.
+
+Simplicissimum reperio, ut ponamus in materia massas dispersas veluti totidem nubes in aëre concitatas in motum. Etsi enim non differant densitate a reliquo differunt tamen, quod reliquam materiam his nubibus interspersam, concipimus ut quiescentem. Unaquaeque autem massa motu recto [procedens] materiam ambientem concitabit in vorticem, dum anterior cedens tendit in orbem ad replendum locum a corpore relictum. Ita simul habemus vorticis polos, axem, et velut meridianos, etsi vere circularis sive sphaericus non esse ponatur. Penetrabit autem in ipsam massam, eamque partim perforabit, partim relinquet, et corpus magneticum formabit. Massa enim ipsa non aequabiliter ubique se habet, sed ex minoribus massulis constat.
+
+Plures magnetes concurrentes sese ita disponent, ut motus quam minimum turbent, itaque vel sese attrahent vel repellent vel etiam ad directionem mutandam disponent.
+
+Atque hinc firmitatem aliquam in corporibus oriri patet dum attrahunt sese magnetica corpora.
+
+Orietur et Elastica quaedam vis, dum demota ex statu apto, vi motus libertatem pristinam in materia dudum aptata recuperare adeoque materiam in priorem statum restituere nitentis.
+
+Firmitate primitiva explicata, jam facilius intelliguntur derivatae qualis ea est quam pressio facit ambientis, ut in tabulis sibi impositis, vel polyedris per plures hedras sibi adaptatis quae ob pressionem ambientis, non facile in locum desertum subingredientis, [p. 2081] adeoque separationi renitentis, atque etiam, si separatio facta sit, sed non sufficiens ad subintrationem ambientis crassioris; recontrudentis, ubi aliqua elastica vis rursus apparet. Sed hic modus jam supponit firmitatem tabularum seu polyedrorum.
+
+::: editorial
+
+(zu S. 2080) 2 impediat, (1) non (2) non apparet quid impediat dissipationem, nisi (a) aliud (b) principium (3) nisi str. Hrsg. videndum L 5 Simplicissimum (1) ergo (2) reperio, L 5 ponamus (1) materiam dividi in partes (a) m (b) magnitudine (2) in L 5 f. dispersas (1) in media (2) concitari in (3) veluti L 7 reliquo (1) aëre (2) differunt L 9 procediens L ändert Hrsg. 10 anterior (1) r (2) cedens L 10 tendit (1) per circulum (2) in L 12 f. eamque (1) perforabit, (2) partim perforabit, partim (a) formabit (b) relinquet, L 13–15 formabit. (1) Materia (2) Massa (a) 〈 – 〉 (b) homogeneo (c) enim . . . habet, (aa) ex (bb) sed . . . constat. erg. (aaa) Vel (bbb) Si (ccc) Plures L 15 sese (1) at (2) ita L 17 Atque (1) hoc primum est: (2) hinc L 17 f. sese (1) magnetes, id est (2) magnetica L 19 Elastica (1) vis (2) quaedam L 19 f. libertatem (1) recuperare nitentis (2) jam (3) pristinam erg. in materia (a) adapt (b) dudum L 20 recuperare (1) nitentis (2) adeoque L 21 f. nitentis (1) Consti (2) Sed (a) 〈nec〉 (b) aliqu (c) vis (3) Ex sola (4) Caeterum (5) Firmitate (a) jam (b) primitiva L 23 in (1) duabus (2) tabulis L 23 polyedris (1) non (2) per L 24 quae (1) sine (2) ob L 24–S. 2081.1 subingredientis, (1) non (a) facit (b) facile (2) adeoque (a) vel (b) separationi renitentis, (aa) sub (bb) atque L
+
+:::
+
+Hinc etiam intelligitur omnem firmitatem cum vi Elastica conjunctam esse, nam omnis firmitas originarie est ab attractione, quae ut firmitatem tuetur, ita restituit, nisi cum nimia separatio facta est, vorticum enim magneticorum actio non agit notabiliter in id quod notabiliter distat.
+
+Et aliunde leges naturae a me propositae docent, omne durum esse Elasticum; ostensum etiam est a me in Phoranomicis ex alio principio, necessario in firmitate esse attractionem, alias vis non conservaretur semper, videantur quae Florentiae elaboravi.
+
+Porro omnis magnes attractorius est, magnetum quorundam vicinorum, semper enim aliqui sic facile disponi possunt ut motu conspirent, licet alii quoque adsint qui dissentiunt, et repelluntur, eoque magis horum repulsa caeterorum attractionem auget.
+
+Et rursus in omni vortice majore minores massae absorptae comminuuntur, parsque subtilior abrasa ejicitur, in universum enim nititur materia ad dissipationem nisi necessitate quadam contineatur. Itaque in omnibus vorticibus perpetua est explosio materiae tenuis, seu rarae, et attractio crassae.
+
+Quin imo explosio est materiae proportionalis, in eodem gradu subtilitatis. Gradus enim gradus constituendi sunt, systematum ut apud nos concipi potest duplicem esse materiam crassam et tenuem et hanc prioris comparatione censeri carentem firmitate, etsi ipsa rursus ex partibus firmis, sed incomparabiliter minoribus constet.
+
+::: editorial
+
+(zu S. 2081) 2 aliqua (1) vi (2) elastica L 3 f. polyedrorum. (1) Omn (2) Hinc L 6 est, (1) ubi vortices (2) vorticum enim (a) axi (b) actio non agit (c) magneticorum L 6 agit (1) in (2) notabiliter L 10 f. elaboravi (1) Caeterum omnis vortices hoc jam ut in eo cominuatur materia (2) Porro L 11 omnis (1) vortex (a) et ma (b) magnes erg. attractorius est, (aa) massarum vicinarum, quia semper aliquae 〈fac〉 (bb) corporum (cc) vorti (dd) ma (ee) magnetum L 12 aliqui (1) q (2) sic L 12 licet (1) alii ho (2) alii str. Hrsg. alii L 13 repulsa (1) caeteros admovet (2) caeterorum L 14 f. parsque (1) earum (2) subtilior L 15 ejicitur, (1) et (2) in L 15 enim (1) disperg (2) 〈 – 〉 (3) nititur L 18 in (1) massa (2) eo (3) eodem L 18 subtilitatis. (1) Sunt (2) Horum (3) Gradus L 19 concipi (1) possunt ea qu (2) potest L 20 firmitate, (1) et 〈 – 〉 (2) et str. Hrsg. etsi L 21 constet. (1) At erit proportionalis mat (2) Attractio L
+
+8 Vgl. Dynamica: de potentia et legibus naturae corporeae tentamen scientiae novae, LH XXXV 11, 18; GERHARDT, Math. Schr. 6, S. 281–514, bes. pars II, sect. III, prop. 5 f. u. 21, S. 491 f. u. 511. 9 f. Vgl. Phoranomus seu de potentia et legibus naturae, LH XXXV 9, 1 Bl. 1–54. 10 Leibniz war von Anfang bis zum 22. Dezember 1689 in Florenz.
+
+:::
+
+[p. 2082] Attractio igitur partium crassarum ejusdem systematis erit densitati materiae crassae systematis, proportionalis, quia quaevis pars perpetuas facit explosiones, impulsus autem omnes velut radii propagantur in infinitum etsi sint disgregati in ratione duplicata reciproca distantiarum seu reciproce ut superficies sphaericae.
+
+Mirum non est quamvis partem materiae agere in quamvis distantiam, quia omnis motus in quamvis distantiam propagatur, cum omnia sint plena. Sed hoc intelligendum, quaevis pars materiae tantum partes consystematicas attrahit, alioqui si quaevis pars materiae aequaliter quamlibet attraheret discrimine solum pro ratione distantiarum variato, se mutuo tollerent attractiones.
+
+In systematibus contingit quod in gradibus infinite parvorum, ut alia aliis sunt incomparabiliter minora, non absolute, sed ad sensum, uti ad sensum gravium directiones apud nos sunt parallelae, potest esse aliquod systema majus, in quo totus globus terrae sit instar atomi, seu non majoris valoris quam particula elementaris radiorum lucis.
+
+In quovis corpore multa insunt animalia, cum ob divisionem rerum in infinitum quodlibet corpusculum instar sylvae aut piscinae considerari possit, ubi ingentes animalium greges. Etsi eorum nulla fortasse in illo systemate ratio habeatur. Et cum tempus quoque divisibile in infinitum sit, durationisque sensus a varietate pendeat, minutum apud nos potest illis animalculis esse instar 6 mille annorum. Sed in majore systemate possunt momentanea videri, quae nobis diuturna sunt. Si animae transferuntur in majus systema parum illis durabunt periodi restitutionis. [p. 2083] C 2. PHILOSOPHIA NATURALIS
+
+::: editorial
+
+(zu S. 2082) 1 crassarum erg. L 2 proportionalis (1) et (2) quia (a) quaeq (b) quaevis (aa) part (bb) pars L 4 seu (1) ut superficie (2) reciproce L 6 f. intelligendum, (1) om (2) quaevis L 10 In (1) partib (2) systematibus L 11 gravium (1) conatus (2) directiones L 12 f. terrae (1) est (2) sit erg. instar (a) 〈mat〉 (b) atomi, L 13 particula (1) lucis (2) radii lucis (3) 〈cor〉 (4) elementaris L 13 f. lucis. (1) Ubi (2) Omnia corpora componuntur (3) Ubique (4) In L 14 multa (1) org (2) insunt L 14 cum (1) 〈corp〉 (2) ob L 15 quodlibet (1) corpus (2) corpusculum L 15 instar (1) horti (2) sylvae L 15 f. animalium (1) 〈ag〉 (2) greges. L 16 Et (1) si (2) cum L 18 animalculis erg. L 18 annorum. (1) Vicissi (2) Sed L 19 nobis (1) long (2) diuturna L 20 durabunt (1) tempora quae supersunt (2) periodi L
+
+:::

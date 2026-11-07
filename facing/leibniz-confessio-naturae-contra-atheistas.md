@@ -1,0 +1,79 @@
+---
+title: Confessio Naturae contra Atheistas
+author: Gottfried Wilhelm Leibniz
+year: 1930
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 1 (Darmstadt: Reichl 1930; repr. Berlin 1971) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the PDF text layer of a scan, ABBYY FineReader OCR, not corrected; measured 2026-11-01 on six scan pages of its volume (Sonnet transcriptions, sample_error_rate.py): about 3% of words misread (half of them æ given as ae or a lost accent), 0.5% split or run together; paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority"
+translation: none
+canonical: "A VI,1: [p. N] are the pages of A VI,1"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Confessio Naturae contra Atheistas was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1930) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10251)
+---
+
+# G. W. Leibniz, *Confessio Naturae contra Atheistas* (1930)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+#### B. DEMONSTRATIONES CATHOLICAE
+
+## [p. 488] [p. 489] 13. CONFESSIO NATURAE CONTRA ATHEISTAS
+
+Frühjahr 1668 (?). Druck C (Augsburg 1669).
+
+CONFESSIO NATURAE CONTRA ATHEISTAS.
+
+PARS I.
+
+Quod ratio Phaenomenorum Corporalium reddi non possit, sine incorporeo
+
+Principio, id est DEO.
+
+Divini ingenii vir Francisons Baconus de Verulamio recte dixit, philosophiam obiter libatam a DEO abducere, penitus haustam reducere ad eundem. Experimurhoc seculo nostro, feraci pariter scientiæ et impietatis. Cum enim excultis egregiè mathematicis artibus, et rerum interioribus per Chemiam et Anatomiam tentatis appareret, plerorumque rationes ex Corporum figura motuque velut mechanice reddi posse, quas Veteres vel ad solum Creatorem vel ad nescio quas incorporales formas retulerant; tum vero ingeniosi quidam primum tentare coeperunt, possentne phænomena naturalia, seu ea quæ in corporibus apparent, salvari et explicari, Deo non supposito, nec ad ratiocinandum assumto: mox ubi paulum res successit (antequam scilicet ad fundamenta et principia venissent) velut gratulantes securitati suæ permaturè prodiderunt, se neque DEUM; neque immortalitatem Animæ naturali ratione reperire, sed fidem ejus rei vel praeceptis civilibus vel historiarum relationi deberi, ita censuit subtilissimus Hobbes, inventis suis meritus hoc loco sileri, nisi autoritatiejus indreteriusvaliturae nominatim obviam eundum esset. Atque utinam non alii, longius progressi, jamque de Scripturae sacræ autoritate, de veritate historiarum, de historiarum relatione dubitantes Atheismum Mundo non obscure invexissent.
+
+Hoc vero mihi admodum indignum visum est animum nostrum sua ipsius luce, id est Philosophia praestringi. Coepi igitur ipsemet inquisitioni rerum incumbere, tanto vehementius, quanto ferebam impatientius, me maximo vitæ bono, certitudine scilicet ætemitatis post mortem, et spe divinæ beneficentiæ in bonos ac innocentes aliquando appariturae, dejici per subtilitates novatorum.
+
+Sepositis igitur praejudiciis et dilata Scripturae et historiæ fide, anatomen corporum mente aggredior, tentaturus an eorum quæ in corporibus sensu apparent, rationem reddere possibile sit, sine suppositione causæ incorporalis.
+
+Ac principio hodiernis philosophis, Democriti et Epicuri resuscitatoribus, quosRobertus de Boyle corpuscularesnoninepteappellat, utGalilao, Bacono,Gassendo, Cartesio, [p. 490] Hobbesio, Digbœo facile condescendendo assensus sum, in reddendis corporalium Phaenomenorum rationibus neque ad Deum, neque aliam quamcunque rem, formamque aut qualitatem incorporalem sine necessitate confugiendum esse (Nec Deus intersit, nisi dignus vindice nodus inciderit), sed omnia quoad ejus fieri possit, ex natura corporis, primisque ejus qualitatibus: Magnitudine, Figura et Motu deducenda esse.
+
+Sed quid si demonstrem, ne harum quidem primarum qualitatum originem in natura corporis reperiri posse? Tum vero fatebuntur, ut spero, naturaliste nostri, corpora sibi non sufficere nec sine principio incorporeo subsistere posse. Demonstrabo vero nec obscure nec flexuose.
+
+Si scilicet qualitates iste ex definitione corporis deduci non possunt, manifestum est eas in corporibus sibi relictis existere non posse. Omnis enim affectionis Ratio vel ex re ipsa, vel ex aliquo extrinseco deducenda est. Definitio autem corporis est spatio inexistere. Et omnes homines illud dicunt, corpus, quod in spatio aliquo reperiunt, et contra quod corpus est, in spatio aliquo reperiunt. Constat hæc definitio duobus terminis spatio, et inexistentia.
+
+Ex spatii Termino oritur in corpore magnitudo et figura. Corpus enim eandem statim magnitudinem et figuram habet cum spatio quod implet. Sed restat dubium cur tantum potius et tale spatium impleat, quam aliud, et ita cur exempli causa sit potius tripedale quam bipedale, et cur quadratum potius quam rotundum. Cujus rei ratio ex corporum natura reddi non potest, eadem enim materia ad quamcunque figuram sive quadratam sive rotundam indeterminata est. Duo igitur tantum responderi possunt, vel coipus propositum quadratum fuisse, ab ætemo, vel ab alterius corporis impactu quadratum factum esse, siquidem ad causam incorpoream confugere nolis. Si dicis: ab ætemo fuisse quadratum eo ipso rationem non assignas, quidni enim potuerat ab ætemo esse Sphæricum? ætemitas quippe nullius rei causa intelligi potest. Sin dicis alterius corporis motu quadratum factum esse, restat dubium cur figuram talem vel talem ante motum illum habuerit; et si iterum rationem refers in motum alterius, et sic in infinitum, tum per omne infinitum responsiones tuas novis quæstionibus prosequendo, apparebit nunquam materiam deesse quærendi rationem rationis, et ita rationem plenam redditam nunquam esse. Apparebit igitur ex natura corporum rationem certe in iis figuræ et magnitudinis reddi non posse. Diximus definitionem corporis duas habere partes: Spatium et inexistentiam; sed ex voce spatii oriri magnitudinem aliquam et figuram, sed non determinatam; ad terminum verò inexistentiæ in illo spatio pertinet motus, dum enim corpus incipit existere in alio spatio quam prius, ex ipso movetur. Sed re accuratius perpensa apparebit ex natura quidem corporis oriri mobilitatem, sed non ipsum motum. Eo ipso enim [p. 491] dum corpus propositum est in spatio hoc: etiam esse potest in alio æquali et simili prioris, id est potest moveri. Nam posse esse in alio spatio quam prius, est posse mutare spatium, posse mutare spatium est posse moveri. Motus enim est mutatio spatii. Actualis autem motus ab inexistentia in spatio non oritur, sed potius corpore relicto sibi contrarium ejus, nempe permansio in eodem, seu quies. Ratio igitur motus in corporibus sibi relictis reperiri non potest. Frustraneum igitur est illorum effugium, qui rationem motus sic reddunt: Omne corpus vel motum esse ab æterno vel moveri ab alio corpore contiguo et moto. Nam si dicunt corpus propositum motum esse ab æterno, non apparet cur non potius quieverit ab æterno, tempus enim, etiam infinitum, causa motus intelligi non potest. Sin dicunt corpus propositum moveri ab alio contiguo et moto; idque iterum ab alio, sine fine; nihilo magis rationem reddiderunt, cur moveatur primum, et secundum et tertium vel quotumcunque, quamdiu non reddidere rationem cur moveatur sequens, a quo omnia antecedentia moventur. Ratio enim conclusionis tam diu plane reddita non est, quamdiu reddita non est ratio rationis. Praesertim cum hoc loco idem dubium sine fine restet.
+
+Satis igitur, opinor, demonstratum est: determinatam figuram et magnitudinem, motum vero omnino ullum in corporibus sibi relictis esse non posse. Tacebo hoc loco, quia altioris indaginis res est, ne causam quidem consistentiæ corporum hactenus ab ullo ex ipsa corporum natura redditam esse.
+
+A consistentia autem corporum est (1.) quod corpus grande parvo impellenti non cedit, (2.) quod corpora aut partes corporum sibi invicem cohærent, ex quo oriuntur qualitates istæ tactiles quas vulgo fecundas vocant, nempe soliditas, fluiditas; durities, mollities; glabrities, aspritudo; tenacitas, fragilitas; friabilitas, ductilitas, malleabilitas, fusibilitas, (3.) quod corpus durum corporinon cedenti impingens reflectitur. Breviter a consistentia tria sunt: Resistentia, cohærentia, reflexio. Quarum rationem qui ex materiæ figura magnitudine et motu mihi reddiderit, eum ego magnum philosophum libens fatebor. Unica prope via apparet, nempe corpus ideo corpori impellenti resistere, et ipsum repercutere, quia ipsius partes in superficie insensibiliter in occursum ejus moveantur. Sed supponamus corpus impingens non ea linea, qua partes corporis impellendi occursura sunt, sed alia, obliqua fortasse incidere; eo ipso statim omnis reactio, resistentia, reflexio cessabit contra Experientiam. Sed cohærentiæ ratio a reactione et omnino motu, plane reddi non potest. Nam si chartæ partem impello, pars quam impello, cedit, ideo aliqua reactio, et motus resistentiæ fingi non potest. Sed non cedit sola, sed reliquas partes sibi adhærentes simul aufert. Sane verum est, et rationem habet, quod olim Democritus, Leucippus, Epicurus, et Lucretius, hodie sectatores eorum Petrus [p. 492] Gassendus et Joh. Chrysost. Magnenus prodiderunt: Omnem in Corporibus Cohærentiæ causam esse naturaliter figuras quasdam implicatorias, nempe: hamos, uncos, annulos, eminentias, breviter, omnes durorum corporum curvitates vel stationes sibi invicem insertas. Sed hæc ipsa instrumenta implicatoria solida, et tenacia esse necesse est, ut suum faciant officium et Corporum partes contineant. Sed unde ipsis tenacitas? an hamos hamorum supponemus in infinitum? Sed quæ dubitandi ratio in primis erit, ea et in secundis et tertiis erit sine fine, ad has difficultates acutissimis istis philosophis nihil aliud superfuit quod responderent quam ut supponerent in ultima corporum resolutione insecabilia quædam corpuscula, ipsi Atomos vocant, quæ variis suis figuris varie combinatis varias corporum sensibilium qualitates efficiant. Sed in istis ultimis corpusculis nulla apparet ratio cohærentiæ et insecabilitatis.
+
+::: editorial
+
+(zu S. 491) Zu N. 13. Eigenhändige Änderungen von Leibniz (D) in seinem Handexemplar des Druckes C: Z. 31 D: Ac non cedit sola,
+
+:::
+
+Reddidere aliquam veteres, sed ita ineptam ut ejus recentiores pudeat. Scilicet partes Atomorum ideo cohærere, quia nullum intercedat vacuum; ex qua sequitur, omnia corpora quæ se semel contigerunt, inseparabiliter ad Atomorum exemplum cohærere debere, quia in omni contactu corporis ad corpus nullum intercedit vacuum. Qua perpetua cohærentia nihil est absurdius, nihil ab experientia magis alienum. Recte igitur in reddenda Atomorum ratione confugiemus ad Deum denique, qui ultimis istis rerum fundamentis firmitatem præstet. Et miror neque Gassendum neque alium inter acutissimos hujus seculi philosophos, praeclaram hanc demonstrandæ Divinæ Existentiæ occasionem animadvertisse. Apparet enim in extrema corporum resolutione Dei auxilio carere naturam non posse.
+
+Cum autem demonstraverimus corpora determinatam figuram et quantitatem, motum vero omnino ullum habere non posse, nisi supposito Ente incorporali, facile apparet illud Ens incorporale pro omnibus esse unicum, ob harmoniam omnium inter se, præsertim cum corpora motum habeant, non singula a suo Ente incorporali, sed a se invicem. Cur autem Ens illud incorporale hanc potius quam illam magnitudinem, figuram, motum eligat, ratio reddi non potest, nisi sit intelligens, et ob rerum pulchritudinem sapiens, ob earum obedientiam, ad nutum, potens. Tale igitur Ens incorporale erit Mens totius Mundi Rectrix, id est DEUS.
+
+## PARS II.
+
+Mentis humanæ immortalitas continuo sorite demonstrata. Mens humana est Ens cujus aliqua actio est cogitatio. Ens cujus aliqua actio est cogitatio, ejus aliqua actio est res immediate sensibilis sine imaginatione partium. [p. 493] Cogitatio enim est (1.) res immediate sensibilis, mens quippe se cogitantem sentiens sibi immediata est. (2.) Cogitatio est res sensibilis sine imaginatione partium. Hoc experienti clarum est. Cogitatio enim est hoc ipsum nescio quod, quod sentimus, quando sentimus nos cogitare. Quando autem verbi gratia sentimus nos cogitasse de Titio, non solum sentimus nos Titii imaginem, quæ sane partes habet, habuisse in animo, quia hoc non sufficit ad cogitationem. Habemus enim imagines in animo etiam quando de iis non cogitamus; sed sentimus prætereà, nos illam Titii imaginem advertisse, in qua advertentiæ ipsius imaginatione nullas partes deprehendimus. Cujus aliqua actio est res immediate sensibilis sine imaginatione partium, ejus aliqua actio est res sine partibus. Nam quale quid immediate sentitur, tale est. Erroris enim causa est medium, quia si objectum sensus esset causa erroris, semper falso sentiretur; sin subjectum, semper falso sentiret. Cujus aliqua actio est res sine partibus, ejus aliqua actio non est motus. Omnis enim motus habet partes per demonstrata Aristotelis et omnium confessionem. Cujus aliqua actio non est motus, illud non est corpus. Omnis enim corporis actio est motus. Omnis enim rei actio est essentiæ variatio. Corporis essentia est: esse in spatio, existentiæ in spatio variatio est motus. Omnis igitur corporis actio est motus. Quicquid non est corpus, non est in spatio. Corporis enim definitio est esse in spatio. Quicquid non est in spatio, non est mobile. Motus enim est mutatio spatii. Quicquid non est mobile, est indissolubile. Dissolutio enim est motus secundum partem. Omne indissolubile est incorruptibile. Corruptio enim est dissolutio intima. Omne incorruptibile est immortale. Mors enim est corruptio viventis, sed dissolutio ejus machinæ per quam quid apparet se movere.
+
+::: editorial
+
+(zu S. 492) Z. 2 D: causam dare naturaliter Z. 3 D: vel flexiones sibi invicem Z. 7 D: sine fine. Ad has difficultates
+
+:::
+
+Igitur
+
+MENS HUMANA EST IMMORTALIS.
+
+Quod erat demonstrandum.

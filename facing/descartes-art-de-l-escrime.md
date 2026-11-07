@@ -1,0 +1,61 @@
+---
+title: Art de l'escrime
+author: René Descartes
+year: 1897
+original_language: fr
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Œuvres de Descartes, publiées par Charles Adam et Paul Tannery, t. X (Paris, Cerf, 1897-1913); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: Wikisource's OCR text layer of the scan, mostly not proofread there; long s read as f restored by a lexicon and Haiku (at_longs_fix.py), not otherwise corrected; [p. N] are AT's pages, from Wikisource; the printed edition is the authority
+translation: none
+canonical: AT X:533-539
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Art de l'escrime was written by an author who died in 1650, so before 1931; René Descartes (d. 1650) is long out of protection and the edition (1897) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 9306)
+---
+
+# R. Descartes, *Art de l'escrime* (1897)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. 533] ART DE L’ESCRIME
+
+[p. 535] ART DE L’ESCRIME
+
+L’inventaire de Stockholm ne mentionne pas ce petit traité de l’Art de l’Escrime (ou peut-être simplement Art d’Escrime). Il ne nous est connu que par un passage de Baillet, dans sa Vie de Monsîeur Des-Cartes, que nous reproduisons ci-après. Le Manuscrit original se trouvait-il, bien que non inventorié, dans les papiers remis par Chanut à Clerselier ? On ne saurait dire. Toujours est-il que Leibniz, ne l’a pas vu, lorsqu’il feuilleta chez Clerselier les Manuscrits de Descartes à Paris en 1676. Lui-même le déclare, dans une note sur l’Abrégé de la Vie de Mons. des Cartes, note que nous avons reproduite au tome I de cette édition, page 196. Le Manuscrit semble donc irrémédiablement perdu.
+
+A quel moment fut-il rédigé ? On lit dans Baillet, t. I, p. 35 : « M. Descartes passa l’hiver de la fin de 1612 & du commencement de 1613 dans la Ville de Rennes, à revoir sa famille, à monter à cheval, à faire des armes, & autres exercices convenables à sa condition. On peut juger, par son petit Traité de Escrime, s’il y perdit entiérement son têms. » Et c’est tout. Peut-on conclure de là, que ce petit traité est le premier en date de tous les écrits de Descartes, et remonte à sa dix-septième année, bien avant le Compendium Musicæ lui-même ? Le texte de Baillet ne dit pas cela, et nous avons vu, p. 87-88 ci-avant, à propos du Compendium Musicæ, que notre philosophe ne paraît pas avoir rien écrit, comme traité véritable. [p. 536] çj6 Art antérieurement. — D'autre part, Baillet mentionne VArt d'Escrime immédiatement après le Dialogue de la Recherche de la Vérité, comme s'il avait sous les yeux les deux Manuscrits à la suite l'un de l'autre. Et ceci est une première indication. En outre, au début de la Correspondance Aq Descartes, il est question d'escrime dans ses lettres. Le 23 décembre i63o, il répond au sujet d'un Livre à tirer des armes, qui lui avait été signalé, comme si cette question l'intéressait alors (t. I, p. igS, 1. 12-16). Mais surtout, le 4 novembre i63o, il donne à Mersenne, pour le P. Gibieuf, cette commission significative : « le ne seray » pas marry qu'il sçache aussi, plus particulièrement que les » autres, que i'eftudie à quelqu'autre chose qu'à l'art de tirer » des armes » (t. I, p. 174, 1. 28-3o). Descartes avait donc laissé de lui à ses amis de Paris, en ces derniers temps, la réputation d'un amateur d'escrime. C'est peut-être une raison suffisante pour dater de ce moment, 1628 environ, le petit traité perdu.
+
+Voici le passage de Baillet, qui fait suite immédiatement à celui que nous avons donné ci-avant, p. 528-529 :
+
+« Nous trouvons aufTi, parmi les Manuscrits de M. Descartes, un » petit traité touchant la manière de faire des armes, sous le titre de » I'Art d'Escrime, où il paroît que la plupart des leçons qu'il y » donne, sont appuyées sur sa propre expérience. »
+
+« Apres avoir dit quelque chose, en général, de la qualité de l'épée » & de la manière de s'en Tenir , il divifc son traité en deux » parties. »
+
+« Dans la première, il fait voir comme on peut s'afTùrer contre tous les efforts de Tadverfaire, & en tirer de l'avantage, pendant qu'on ell en mesure longue, & comme on peut le mettre fùrement en mesure courte.
+
+« Dans la féconde il examine comment, étant entré en mesure courte, on peut infailliblement vaincre.
+
+�� �
+
+[p. 537] DE l'Escrime. ^^7
+
+« Et pour cela il suppose deux hommes d'égale grandeur, d'égale force, & d'armes égales, se réfervant à marquer ensuite ce qu'il y a à faire en cas d'inégalité.
+
+(A. Baillet, La Vie de Motifieur Des-Cartes, 1691, t. II, p. 407.)
+
+Voici le titre exact et complet de ce « Liure à tirer des armes », dont Descartes parle dans sa lettre du 23 déc. i63o, t. I, p. 195, 1. 12 :
+
+Académie de l'espée de Girard Thibault d'Anvers : oii/e démon- Jlrent par reigles mathématiques sur le fondement d'un cercle myfîe- rieux la théorie & pratique des vrais & iusqu à present incognusfecrets du maniement des armes à pied & à cheval. (M. IDC. XXVIII. in-fol. Privilège du Ro)- de France, 21 décembre 1620; des Etats-Généraux des Pays-Bas, 5 juin 1627.) — Un exemplaire, conservé à la Bibliothèque de Versailles, contient à la fin un feuillet supplémen- taire, sur lequel on lit : « Advertiffement au ledeur : Le Letteur » sera adverti, que l'Autheur, ayant eu le deflein de produire la » fcicnce de l'exercice à cheval, avec celle à pied, comme il en ei\ » faift mention au frontifpice de ce livre, la mort l'ayant prévenu, » ne l'a peu mettre en cfTcft; mesme l'impreflion du present livre » en a elle retardée iusques à present. — A Lej-de, Imprimé en la i> typographie des El\eviers, Au moj's d'Aouft, l'an cId Id c xxx. » — Somptueuse édition, ajoute Alphonse Wii.lems [Les Elsevier, Bruxelles, Paris et La Haye, 1880, p. 79), imprimée en grands et beaux caractères sur un papier très fort, et recherchée encore aujourd'hui à cause des magnifiques planches dont elle est ornée. La première partie se compose, en effet, de 33 planches doubles accompagnées d'un texte, et la seconde de i3 planches doubles (sans compter 1 3 feuilles liminaires, dont 9 pour les armoiries des princes auxqueis l'ouvrage est dédié).
+
+D'autre part, nous avons reproduit, t. IV, p. 319^320, d'après Baillet, le récit laissé par Porlier. neveu de Chanut. d'un entretien qu'il eut à Amsterdam, en octobre 1645, avec un Maître d'armes, qui « se vantoit de connoiftrc AL Dcfcartes mieux que pcrfonne, « pour l'avoir hanté souvent en différens endroits de la Hollande »; CEirvuES. V. 68
+
+�� �
+
+[p. 538] Au sujet de l’habitude que Descartes avait des armes, rappelons enfin cette aventure, qui remonte à son séjour de Paris, 1625-1628. Baillet la raconte d’après une relation MS. du P. Poisson, qu’il cite même textuellement :
+
+« Madame du Rosay, qui se faisoit honneur d’avoir été la seule qu’il eût recherchée, étoit toujours fort curieuse de raconter dans toutes les bonnes compagnies une aventure, où son servifeur, qui n’étoit encore qu’un jeune cavalier, s’étoit signalé pour l’amour d’elle. Elle pretendoit que [En marge : Poiss. ibid.] Monsieur Descartes, retournant un jour de Paris, où il l’avoit accompagnée avec d’autres Dames, avoit été attaqué par un Rival sur le chemin d’Orléans, & que, l’ayant désarmé, il luy rendit son épée, disant, qu’il devoit la vie à cette Dame pour laquelle il venoit d’exposer luy même la sienne. Hors ce trait de bravoure, qui pourra servir à ceux qui voudront faire son Roman pour le traiter en Paladin, nous ne trouvons rien, dans tout le reste, qui ait eu aucun air de galanterie, ou qui ait pû faire juger que l’on penchant fût tourné ailleurs que vers la Philosophie. »
+
+(A. Baillet, La Vie de Monsieur Des-Cartes, 1691, t. II, p. 501.) [p. 539] tl ��SUPPLÉMENT

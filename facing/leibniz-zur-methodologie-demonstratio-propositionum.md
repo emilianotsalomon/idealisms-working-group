@@ -1,0 +1,679 @@
+---
+title: "Zur Methodologie: Demonstratio propositionum primarum, Characteristica universalis u. a."
+author: Gottfried Wilhelm Leibniz
+year: 1966
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 2 (Berlin: Akademie-Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "the PDF text layer of a scan, ABBYY FineReader OCR, not corrected; measured 2026-11-01 on six scan pages of its volume (Sonnet transcriptions, sample_error_rate.py): about 0.5% of words misread; line-end splits rejoined from the scan’s text layer (softhyphen_join.py, 2026-11-01), 0.1% split or run together left; paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority"
+translation: none
+canonical: "A VI,2: [p. N] are the pages of A VI,2"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: "The Zur Methodologie: Demonstratio propositionum primarum, Characteristica universalis u was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1966) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish."
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10265)
+---
+
+# G. W. Leibniz, *Zur Methodologie: Demonstratio propositionum primarum, Characteristica universalis u* (1966)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## [p. 385] [p. 386] [p. 387] 51. VITIA DISPUTATIONIS CONFUSANEAE [Sommer 1668—1671(?)]
+
+Überlieferung: L Konzept: LH IV 7 B 6,4 Bl. 14—15. 1 Bog. 2°. 4 Sp. Papier für das CJR.
+
+Datierungsgründe: Papier und Duktus der Schrift. Vgl. auch oben S. 257.
+
+Vitia Disputationis Confusaneae:
+
+(1.) Confusanea Disputatio est in qua forma ratiocinandi non servatur. Et in ea vel conclusio facienda non est, vel facienda est.
+
+(2.) Si conclusio facienda non est, inutilis est disputatio, nec nisi oblectamentum tendit; sin conclusio facienda est tunc aut numeranda aut ponderanda vota sunt. Et disputare licet, vel non licet.
+
+(3.) Si numeranda sunt vota tunc aut omnes informati sunt, aut non sunt. Si omnes informati sunt, et numeranda sunta vota, et disputare non licet, tunc frustra afferuntur rationes a votante. Neque enim spes est facile alium rationibus suis a concepta sententia abducturum; suffecerit ergo sententiam simpliciter unumquemque rogari. Et ab eo responderi sine ulla licet ratione. Cum frustra sit ratiocinari.
+
+(4.) Sin omnes informati non sunt, sed quidam tantum, qui caeteros informare debent, et numeranda sunt vota, et disputare non licet: Tunc difficillime caeteri non informati judicare possunt utrique ex informatis si dissentiunt, aut si consentiunt, utrum omnino eorum sententia sit vera si quidem oretenus res determinanda est e vestigio.
+
+(5.) Nam si determinatio tempus fert, tunc licet caeteros annotare in charta quae audiunt (ideo enim eis charta proponitur) et expendere deinde per otium quanquam sic quoque forte omissuri sunt et oretenus dicentes pleraque in proponendo, et audientes pleraque et forte optima in excipiendo. Sin in scriptis res proponenda, tunc res solet lente admodum et tarde ob molestiam legendi, explicari.
+
+::: editorial
+
+(zu S. 387) 6 in qua (1) cuique (2) ordo argumentandi non est (3) forma L 11f. omnes (1) legerunt acta (2) informati L 17 difficillime (1) judex aliquis esse (2) caeteri L 19 vera (1) (5.) Quia vel disputatio in (2) si L
+
+25*
+
+:::
+
+[p. 388] (6.) Caeteri jam informandi si consentiunt post informationem res manifesta est, sin dissentiunt[,] res redit in eum statum quo omnes informati, aut si nova afferunt, habendi ipsi pro informatis, caeteri pro informandis, et ita secundum priora.
+
+(7.) Si numeranda sunt vota, et disputare licet, tunc aut director adest, qui directorio suo utitur, aut non adest. Si director non adest tunc inutilis est omnis disputatio[,] si quidem numeranda non ponderanda sunt vota, neque enim quisquam facile in publica ejusmodi collatione nisi accedant secretae rationes aut singularia insueta artificia, ab opinione sua ad opinionem alterius transit, praesertim in juridicis, atque plerumque nihil refert magnopere disputantium an et quomodo sequatur conclusio, quod secus plerumque est in deliberationibus politicis, ubi proprium interesse necessitat saepe ad deserendam opinionem suam et mittendam pertinaciam. Praetera si director abest, tunc aut replicare et disputare licet in infinitum aut alteri statim ab initio dicere licet: dixi sententiam meam, dic tu tuam, non est cur disputemus, nisi forte ut alios informet, replicat, ne illi ab altero occupentur.
+
+(8.) Si igitur huius rei causa replicatur tunc vel replicatur interruptis verbis vel continuis quasi perorationibus. Si replicatur interruptis verbis, seu interpellare alterum licet tunc haec mala sequuntur 1) quod non licet pertexere telam rationis suae, 2) quod obliviscimur aliarum rationum dum de hac altercamus, 3) quod etsi velimus subnectere et caeteras, taedium disputationis primae facile adimit reliquis audiendi caeteras voluptatem, et per consequens attentionem, 4) auditores in illa inordinata reciprocatione omnium hinc inde tandem obliviscuntur, aut confunduntur; et ita cessat fructus tum convincendi adversarium, cui ab uno ad aliud transsilire, eludereque ratiocinantem, et rem in infinitum protrahere licet; tum persuadendi caeteros, confusos aut taedio affectos.
+
+(9.) Sin disputatur continuis perorationibus tunc cessat quidem unum malum, licet enim hic cuilibet suam telam pertexere. Subit vero alterum, quod rationes rationibus non opponuntur, vir viro non occurritur, pes pedi non conseritur. Licet enim cuilibet transire optima adversarii, afferre denuo centies refutata, ut taceam et ipsum et auditores mutuo allatorum oblivisci, et abire etiam replicationes in infinitum.
+
+(10.) Species disputationis continuis perorationibus factae est quae in scriptis fit, sed habet commodum prae aliis, quod oblivio dictorum irrepere non potest, sed omnia regulari possunt. Sed contra succedit taedium legentium in ista longitudine, quia necessario omnia in scriptis longiora et ita tandem etiam oblivio ut ex innumeris exemplis eorum patet qui libris editis invicem decertarunt. Accedit hoc malum, quod in scriptis uberior est potestas prolixitatis et aliena afferendi quam viva voce, quia in sermone vivo judicium audientium vereri debes, antequam te absolvisti, quod non est in scriptis, quia litera non erubescit.
+
+[p. 389] (11.) Si quis director adest, id est in cujus potestate est quaestiones formare ut lubet et disputationem interrumpere et finire ubi lubet (etiamsi autoritatem alios movendi non habeat, de hac enim nolo hic loqui) tunc posito quod is director sit prudens et bonus, res exitum reperire possunt. Director enim vel ab initio format quaestiones praeliminares, vel eas format ex disceptationibus partium. Et quotiescunque nova affertur ratio, suspendit numerationem majorum et de illa ratione quaerit. Et omnino cavere potest ne ulla ratio sine refutatione relinquatur, quia de rationibus rationum quasi novis quaestionibus emergentibus semper quaestiones formare, et impedire potest, ne quid sicco pede praetereatur. Si quis igitur detur director bonus et sagax, tunc spes est pleraque recte confici posse. Sed directores plerumque sunt parum sagaces et periti; interdum vero sagaces sed mali, et utuntur arte illa formandi quaestiones vel praeliminares vel emergentes, tantum in rebus sibi utilibus, vel in quas privato quodam affectu feruntur. Et ita justitia ab eorum voluntate pendet, quod miserum est admodum.
+
+(12.) Et est omnino his modis omnibus commune, quod casu tantum pervenitur ad decisionem eamque tam saepe justam quam injustam. Nam plerumque rationes aut ultimae aut primae aut peculiari quadam circumstantia prolatae solent potissimum animis infixae manere, et a directore aliisve arripi; et si taedium obrepit longae disputationis aeque saepe minuta quam solida ratio fit decisiva. In bonitate autem et prudentia directoris solum confidere a justitiae pariter et politicae rationibus alienum est.
+
+(13.) Denique omnino injustum est numerari vota praesertim officialium. Tolerabilior est numeratio haec quando Assessores sunt Interessentes et de ipsorum corio luditur, ut in societatibus. At hic principis aut boni publici res agitur. Cur enim teneatur se princeps, aut director nomine principis conformare majoribus; quasi et princeps aliquis exAssessoribus esset, si diis placet.
+
+(14.) Ponderanda igitur sunt vota, sed ita res abibit in disputationes sine fine. Ita sane, si res nullis regulis includatur. At potest res regulis ita firmis solidisque includi ut aeque celeriter quam alias, et solide tuteque sine periculo errandi ex omnibus dubiis emergere liceat, et nihil possit omitti, et nihil possit bis dici, et nulla ratio sine responsione, et nulla responsio si patitur sine replicatione praetermittatur, et a nulla re nisi confecta ad aliam transsiliatur, et nihil sine probatione dicatur, et nihil nisi formaliter concludatur
+
+::: editorial
+
+(zu S. 389) 9 bonus et (1) prudens (2) sagax L
+
+:::
+
+## [p. 390] 52. AUS UND ZU DER APPENDIX PRACTICA VON J. J. BECHER [Sommer 1669(?)]
+
+Überlieferung: L Auszug mit Bemerkungen: LH IV 6, ii c Bl. 7. 2°. 2 S. Außenrand beschädigt.
+
+Bei diesem Stück lag Leibniz Bechers in deutscher Sprache verfaßte Appendix Practica, München 1669 (SV. N. 94,4) vor, nicht, wie seine Überschrift vermuten läßt, die 1668 erschienene, in VI, 1 S. 496 zitierte Methodus Didactica (SV. N. 94,3). Das Erscheinen der Appendix Practica auf der Ostermesse 1669, Papier und Schrift unseres Stückes sowie die von Leibniz auch excerpierte Ankündigung (vgl. unten S. 394) der im Herbst des Jahres dann erschienenen Conclusio Praxis (SV. N. 94,5) lassen auf den Sommer 1669 als Abfassungszeit schließen.
+
+Methodus nova Didactica
+
+Doctrina est Rerum et vocabulorum. Vocabula rebus parallela sunt (sic satis.) Parallelorum eadem cognitio. Ergo Res et vocabula eadem opera disci possunt, imo debent. Vocabula tum singula, tum conjuncta spectari debent. De conjunctione et constructione eorum dicere hujus loci non est. Singulorum igitur comprehensio consideranda. Si comprehendenda sunt, memoriae infigenda sunt. Memoriae adminiculum Ordo. Ordo vocabulorum ex eorum cognatione sumendus. Cognatio vocabulorum est derivationis, significationis, praedicationis.[^390-1] Cognatio derivationis per se facilis. Cognatio significationis
+
+Leibniz' Randbemerkungen (seineVerweisungszeichen haben wir durch Zahlen wiedergegeben) : [p. 391] est secundum rerum naturam. Res sunt substantiae et accidentia.2 Substantiva nominalia pertinent ad 3tiam connexionem.3 Accidentium videnda tum habitudo inter se, tum ad Corpora seu substantiva nominalia.4 Accidentia quoad habitudinem in se alia describunt actionem et passionem, alia effectum actionis seu statum.5 Illinc verba, hinc nomina verbalia, abstracta adjectivorum. Obiter hic dicit Grammaticae fere totius rationem ex natura rerum reddi posse. v. g. comescere non habere praeteritum perfectum, quia consistit in fiendo.6 Accidentia quoad habitudinem ad res alia sunt communissima, alia communia.7 Communissima Accidentia consistunt in Fiendo (tanquam accidente substantiali), qualitate, quantitate, loco et tempore. Communia sunt Corporalium vel mentalium. Corporalia referuntur ad 5 sensus. Tactus continet tactum ipsum, wie sich die sach anfühle, wie sie durch fühlen verleze. et id quod tangitur, was man an der Sach fühle, was sie für gestalt oder figur habe. Omnis autem tactus per motum fit. Is ergo huc quoque pertinet. Mentalia consistunt in potentia, appetitu, cognitione.8 Hac porro vocum praedicatione obtinetur, ut libere omnes de omnibus praedicari possint, nec sint ad certa objecta determinatae.
+
+[^390-1]: forte cognatio significationis ad cognationem praedicationis reduci debet, ut ita duplex sit cognatio literalis et realis. Posset tamen et sic distingui cognationem significationis constituere propositiones necessarias, et scientias; cognationem praedicationis constituere propositiones contingentes seu historiam; illic esse connexionem, hic tantum compatibilitatem.
+
+::: editorial
+
+(zu S. 390) 22 sit (1) connexio (2) cognatio L 15 singulorum . .. consideranda: vgl. II, 1 S. 199, 26—31.
+
+:::
+
+2 forte accidentia sunt principia substantiarum, vide Verulam.
+
+3 Ergo termini hi duo: piscatio et piscis diversis plane locis ponuntur. Nescio an non commodius cognata substantiva et adjectiva et verba eodem loco ponere. Hoc etiam notandum est: verba esse ex adjectivis. Substantiva omnia quae non significant substantias esse verbalia. v. g. Albedo derivatur ab Albere.
+
+4 vide meae novae Methodi partem generalem.
+
+5 forte status motu prior.
+
+6 dubito de hac ratione. Nam ergo et Canescere non habebit perfectum, cum tamen dicere liceat: Canuit.
+
+::: editorial
+
+(zu S. 391) 7 ubi vero propria? An ad subjecta relata. 8 potentia videtur esse inter communissimas affectiones referenda. Nam et corporum est. Motus quoque nescio an ad tactum pertineat. Et potius dantur qualitates omnibus sensibus communes, v. g. motus et figura. Magnitudo quoque nescio an communis affectio Mentium et Corporum, et non potius ad Corpora restricta. 9 Über substantiali: verbo substantivo erg. L
+
+16 Verulam: s. Fr. Bacon, De augm. scient. l. III, cap. 4; Nov. Org. l. II, aph. 17. 21 meae novae Methodi: vgl. Nova Methodus, P. I, § 27—83 (VI, 1 S. 280—289).
+
+:::
+
+[p. 392] Duo sunt systemata: Accidentium inter se, et subjectorum inter se.9 Connexionem 3tiam non explicat, nisi quod ge[ne]raliter monet etiam subjecta spectari tum in [s]e tum in ordine ad accidentia. Illud quoque monet ea substantiva verbalia, quae non abstracta sunt sed concreta seu subjectum continent, et denotant vel materiam ut rasura10 11 a radere; vel instrumentum, ut scalptrum a scalpendo; vel officium ut sutor a suendo. Ea non in Accidentium sed subjectorum systemata locari.11
+
+Non praestabit simul pansophiam, nisi communem et naturalem. Sufficit enim tantum didicisse, quantum necesse est ut linguam scire dicaris. Scire germanice dicitur, qui tamen terminos artis variorum opificiorum ignorat.12 Comenius rerum connexiones quaerit, et ita Pansophiam promittit; Jonstonus terminorum tantum, et ita promittit tantum polymathiam philologicam. Uterque in eo peccat quod connectit jam voces, et ita coarctat,
+
+9 Forte tria sunt: nempe 3tium: Subjectorum et accidentium inter se junctorum. Ubi nempe integra oratio absolvitur. Ef vero locatio et rerum et verborum duplex est mortua et viva. Locatio rerum mortua ist in einer Kunstkammer, item in illo theatro naturae [et] artis ab autore praescripto. Locatio viva est, ubi adest ipse motus v. g. im thiergarten, im Blumengarten, im Bergwerck. Locatio vocabulorum mortua est Becheriana. Viva est Comeniana et similium. Ubi ipsa connexio oratio et motus. Uti autem in locatione viva v. g. im Bergwerg non potest perfecta digestio haberi. Neque enim accidentia a subjectis realiter separari possunt, ef ideo communia in specialibus repraesentanda sunt. Ita similiter Comenio, Jonstono, Seyboldo (quem Bech. laudat) ignoscendum quod voces generales necesse specialibus, ut commodum immiscere.
+
+10 rasurae voce videtur alligere non actum radendi, sed id quod abrasum est, quasi praesegmina.
+
+11 Eodem jure nescio an non et concreta v. g. albus in subjectorum classe locari debeant. Deinde forte commodius instrumenta et officia adjungentur usui, quem sui natura praestant, v. g. scalptrum scalpendo, sutor suendo adjungetur.
+
+12 fortasse Pansophia eadem cum vocabulis opera optime praestari posset. [p. 393] nec liberae dispositioni relinquit. Quod a nobis non fit.13 In Jonstoni Polymathia desunt supra 10000 terminorum technicorum tantum mechanicorum.
+
+::: editorial
+
+(zu S. 392) 18 enim (1) abstracta ut abstracta (2) accidentia L 21 necesse | habuerunt gestr. | specialibus L 25 nach officia: commodius L streicht Hrsg.
+
+14f. theatro naturae [et] artis: Bechers für die Herbstmesse 1669 angekündigter (vgl. S. 394,5-9) Catalogus aller Körper, die im theatrum naturae et artis gefunden werden, ist nicht erschienen (vgl. H. Hassinger, Johann Joachim Becher; Veröffentl. d. Komm. f. neuer. Gesch. Österr. 38, Wien 1951, S. 264). 17 Comeniana, s. SV. N. 241, 3,4,5. 20 Jonstono: J. Jonston, Polymathia philologica, 1667. 20 J. G. Seybold, Differentiae latinarum vocum, 1668.
+
+:::
+
+Eadem vox varia in diversis scientiis significat, v. g. Beschlagen bey Zimmerleuten das bauholz behauen, bey Schlossern mit eisernen banden umbgeben. Ita una vox dat plures terminos, hoc non observant polymathistae contenti vocem in diversis classibus ponere, cum tamen hoc uno loco sit admonendum.14 Talis universalis Lexici conspectus a me editus Francofurti sub tit. Atlas Philologicas. Ex quo, cum nemo quaereret, nucleum in manus sumsi tit. mel scientiarum sive omnium scientiarum definitiones axiomata divisiones. Tale opus vocat Jonstonus pantechnicen. Pansophica systemata dum proprias quasdam dichotomias sequuntur, eo ipso naturalem puritatem inficiunt. Alterum Lustrum est Methodus acuendae rationis. Principium cognitionis anima nostra, haec seipsam intelligens principium Gnostologiae. In anima connatae paucae notitiae et fundamenta, hae velut literae. Ex his hypotheses sive axiomata scientiarum velut syllabae, denique praecepta scientiarum velut voces.15
+
+Verissima sunt simplicissima et clarissima.
+
+Axioma incertum est: nihil in intellectu (pag. 49), quod non prius in sensu.16
+
+Anima est unicum objectum pansophicum, ex cujus centro omnis cognitio procedit. Videtur sentire intellectionem fieri per realem [q]uandam mentis cum rebus unionem sed spiritualem, uti et Kenelm. Digbaeus.17
+
+13 vide signum 9. forte illi laudandi.
+
+In Theatro naturae et artis hic defectus quod ipsi motus repraesentari non possunt, nisi adhibeatur plane Machina qualem aliquando vidi, quae contineat omnia opificia. Forte et posset aliqua haberi quae repraesentet omnia mundi. vide et Erhard. Weigelium.
+
+14 respondebunt Hoc indice vel Lexico dirigi.
+
+15 videatur Sforza Pallavicinus in lib. de Bono.
+
+16 limitandum hoc modo: nihil est in intellectu quod non prius fuerit in sensu. Nisi ipse intellectus.
+
+17 vide Digbaei immort. an.
+
+::: editorial
+
+(zu S. 393) 22 plane (1) Horologium (2) Machina JL
+
+7—9 Der angeblich gedruckte Atlas Philologica sowie die angekündigte Schrift Mel Scientiarum sind nicht erschienen (vgl. Hassinger a.a.O. S. 257 u. S. 270). 9 vocat Jonstonus pantechnicen: vgl. J. Jonston, Polymathia philologicae adumbratio, S. 683. 23 E. Weigel: wohl SV. N. 1116,3. 25 Pallavicino, Philosophia moralis (SV. N. 768,2). 28 K. Digby, Demonstratio immortalitatis animae rationalis (vgl. SV. N. 305,1), vgl. II, 1 S. 113 Z. 4f.
+
+:::
+
+[p. 394] Methodus didactica est verborum[,] Gnostica cogitationum.
+
+In fine subjecta Tabella: ubi sub fieri in systemate accidentium recensetur fieri: animalium, mineralium, etc.18
+
+Conclusio praxis prodibit autumno. Locus deligetur, ubi praeceptores et discipuli degere et informari possint. 4. ibi erit theatrum naturae et artis, et simul laboratorium physicum et mechanicum, ubi usus rerum monstrabilis. Res partim in natura, partim in holz oder wachs. Schedula affixa cuivis in qua nominavariarum linguarum^] etiam corpora, in quibus vel solum 3000019 handwergs instrumenta. Quinto prodibit Methodus gnostica de natura mentis et cognitionis. 6. Methodus mechanica practica ubi 10 axiomata, in quae resolvuntur opificia omnia, quorum ope facile est discere opificia, sese alere, in omnem eventum paratum esse. Rogantur harum rerum aestimatores, ut apud Zunnerum exponant, si quid velint.
+
+## 53. DE RATIONE PERFICIENDI ET EMENDANDI ENCYCLOPAEDIAM ALSTEDII [Herbst 1669—Anfang 1671(?)]
+
+Überlieferung:
+
+E Drucknach nichtaufgefundenemManuskript: Feller, Monumenta, 1718, S. 114—117.
+
+(Unsere Druckvorlage.)
+
+Nachdrucke von E: 1. Kortholt, Epistolae, 3, 1738, S. 266—271; 2. Dutens, Opera,
+
+5, 1768, S. 183—185.
+
+Die Echtheit dieses Stückes ist nicht zu bezweifeln, abgesehen von den Überschriften, die wohl erst von Feller eingefügt sein dürften. Die Terminologie verweist ebenso wie die angeführten Schriften und Entwürfe in die Mainzer Zeit. Von der erwähnten Abhandlung von Huygens De motu corporum hatte Leibniz imAugust 1669 durch Erich Mauritius Kenntnis erhalten (vgl. S. 160,11-18). Der noch unbestimmte Hinweis (S. 395,16f.) auf die Theoria motus, die im Frühjahr 1671 erschien, legt für die Abfassungszeit dieses Stückes Herbst 1669 — Anfang 1671 nahe. Leibniz zitiert Alsteds Encyclopaedia in dem Postskript zu einem nicht näher datierten Brief aus der Mainzer Zeit an einen Unbekannten (vgl. II, 1 S. 217). Noch im Frühjahr 1677 bemüht er sich, ein Exemplar der Neuausgabe von Lyon zu erhalten (vgl. I, 1 S. 245 und 270).
+
+18 Ea ratione prius de accidente rei, quam de ipsa re dicitur.
+
+19 (30000 forte 3000.) [p. 395] Cogitata quaedam de Ratione perficiendi et emendandi Encyclopaediam
+
+::: editorial
+
+(zu S. 394) 4 Conclusio praxis: erschienen als MethodiBecherianae Didacticae Praxis (SV. N. 94,5). 8f. Methodus gnostica: wohl identisch mit der imVorwort zur Methodus didactica angekündigten, nach Hassinger (a. a. O. S. 270) nicht erschienenen Methodus gnostica de acuenda ratione et formando iudicio. 9 Methodus mechanica practica ist nicht erschienen (vgl. Hassinger a. a. O. S. 270).
+
+:::
+
+Alstedii.
+
+Operae pretium esset, Encyclopaediam Alstedii perfici et emendari. Defuit viro optimo non labor, non judicium, sed materia, sed nostri temporis felicitas. Ego vero ad ejusmodi Encyclopaediam constituendam haec nobis comportanda puto. Quicquid sciri dignum est, distinguo in Theoremata seu rationes, et observationes seu historiam rerum, historiam locorum et temporum. Encyclopaediae igitur necessaria sunt primo elementa verae philosophiae accurate demonstrata. Huc inserendus Thomas Hobbes de Corpore et de Cive integer, passim tamen emendatus. Inserenda huc Elementa Euclidis, et quae iis addita ab eo tempore inventa, similiter demonstrata. Pro vera Theologia addenda nostra Elementa philosophica de mente, pro vera Jurisprudentia nostrae demonstrationes juris naturalis, pro vera Politica nostrae demonstrationes tum de utili in genere, tum de optima civitate possibili. Interea pro philosophia de mente adhibenda Excerpta quaedam ex Cartesio et Digbaeo et Bonarte, et Logica (nam et illa est pars philosophiae de mente) Jungii cum excerptis ex Claubergiana et Arnaldiana, et mea arte combinatoria. Pro vera Physica supplendo Hobbio addenda Galilaeana et Hugeniana de motu, et mea etiam nonnulla, imo et Aristotelica et Digbaeana quaedam, quae in meris ratiocinationibus non experimentis consistunt.
+
+Nunc ad Historiam rerum seu Observationes. Observationes itidem sunt de mente, de corpore, de homine; observationes de mente sunt vel de nostra, vel de aliena. Ad nostram pertinet doctrina characteristica de moribus et affectibus eorumque variis causis, gradibus, effectis, mutationibus; tum doctrina de observationibus mentalibus ipsarum cogitationum, quibus rebus sentiamus juvari memoriam judiciumque, quibus ingenium, multaque alia id genus reflexionibus in nos ipsos factis annotanda. Tum doctrina de somniis, ecstasibus, operationibus Lunaticorum, ebriorum etc. Et omnino illud diligenter attendendum est, curnam homines semper cogitent, nec ullo momento cesset anima, neque in sopore, neque in Apoplexia, neque in ipsis viciniis mortis, cum tamen is cui subito succurritur, ad se redit, et de extremis renunciat.
+
+Porro de mente aliena observationes institui possunt, si omnia observentur, quae in mundo etiam sine cooperatione hominum rationabiliter fiunt. Huc regimen mundi [p. 396] ejusque forma, usus partium tum mundi, tum corporis humani. Sed haec pars veluti fastigium operis universi imponenda est, quia pendet ex historia caeterorum omnium cognita. Ergo huc tantum referenda est Historia omnium miraculorum, quae in mundo praeter naturae cursum contigere, et ex iis institutae observationes. Hic neque sagarum narrationes negligendae, quaecunque solidae sunt. Historia physica consistit in physica speciali, nucleo Aldrovandi, Gesneri, Bauhini, additamentis ad eos, tum mathematica mixta, quia nimirum et specierum et qualitatum historia habenda est. Huc igitur Schotti totus cursus mathematicus, demtis pure arithmeticis et geometricis, referri debet. Huc omnium fere artium mechanicarum recondita.
+
+::: editorial
+
+(zu S. 395) 3 J. H. Alsted, Encyclopaedia, 7 Bde, 1630. 10f. Elementa philosophica de mente: vgl. VI, 1 S.494,18 — 495,6; 509,29 — 510,14; 533 — 535; oben N. 42. 11 demonstrationes juris naturalis: vgl. VI, 1 N. 12. 12 nostrae demonstrationes: vgl. oben N. 29. 15 mea arte combinatoria: VI, 1 N. 8. 16f. mea etiam nonnulla: vgl. oben N. 38. 24 doctrina de somniis: vgl. oben N. 421-2.
+
+:::
+
+Historia temporum est universalis, illa prorsus necessaria nostro scopo. Hic jungendi Calvisius, Petavius, Alstedius, Labbaeus: particularis vero accurata nostrorum temporum, cum absolutissimo Indice ad exempla cuilibet statim casui similia reperienda. Historia locorum est geographia tum vetus tum recens.
+
+Nunc tandem sequitur fastigium operis de admirabili regimine mundi et incredibili sapientia directoris Dei, seu de finibus rerum, Theoremata de Ente, de mente, de spatio, de motu, de bono. Observationes de motu, de qualitatibus, de mirabilibus, miraculis, de speciebus. Historia temporum omnium et maxime nostri (universalis et hodierna), locorum omnium et maxime nostri. De Regimine mundi seu Deo collectiones. Historia conjecturalis, problemata de agendo.
+
+Partes Encyclopaediae.
+
+Theoremata, Historiae, Observationes, Hypotheses, Problemata. Theoremata sunt Propositiones universales, sumtae ex ratione tantum. Historiae sunt propositiones singulares contingentes, sumtae a sensu composito seu inductione. Hypotheses sunt propositiones sive universales sive singulares theoreticae, sumtae ex sensu et ratione. Problemata sunt propositiones sive universales sive singulares practicae, sumtae itidem ex sensu et ratione. Illud in arbitrio est, miscere sibi invicem an separatim ponere praestet; et quidem si scientialis ordo prorsus severe teneri debet, separari decet, si consuetudo, jungi. Sed optimum est parallela quadam forma proponere, quae separat simul et jungit. His accedat coronis, Index seu Lexicon vocabulorum prorsus accuratum, quo et [p. 397] vocabulorum confinitates explicantur, ut, quod in hoc non invenies, in cognato petere admonearis. Haec demum distributio mihi satisfacit.
+
+::: editorial
+
+(zu S. 396) 28 jungo E ändert Hrsg.
+
+3 Historia omnium miraculorum: vgl. VI, 1 S. 495, 30. 6 Aldrovandi: Welche seiner zahlreichen Naturgeschichten gemeint ist, ist nicht festgestellt. 6 C.Gesner, Historiae animalium, lib. 1-5. 6 Bauhini: wohl SV. N.91. 11 Calvisius: SV. N. 183. Petavius: SV. N. 790,2 u. 3. Alstedius: SV. N. 25,6. Labbaeus: An welche seiner vielen historischen Schriften Leibniz gedacht hat, ist nicht festgestellt.
+
+:::
+
+Theorema est: si quid semel cogitat, perpetuo cogitabit.
+
+Historia: Titius cum jaceret in apoplexia vel sopore, expertus est, semper sibi cogitationes, confusas tamen, obversatas.
+
+Observatio: multa somnia divinatoria sunt.
+
+Hypothesis, seu collectio ex his experimentis: mens nostra cum a corporis functionibus cessat, a superiore quadam mente patitur.
+
+Problema, seu propositio practica, mentem nostram superiorem habere amicam. Necessaria propositio est quae non potest non esse. Contingens est, quam non implicat non esse. Universalis propositio est, quae non tantum certo loco et tempore vera est. Singularis, cujus veritas est certo loco et tempore existere, extitisse vel extituram. Theoretica est, quae non continet quid sit bonum cogitanti, sive absolute seu quid sit justum, sive hypothetice quid sit utile. Nunc demum in partiendo satisfacio.
+
+Sunt autem et theoremata, et historiae et observationes, et hypotheses, et problemata, de Ente, Mente, Spatio, Motu. In Jurisprudentia theoremata jurisprudentia naturali; Historiae, legibus et consuetudinibus particularibus; observationes, factis inde per inductionem et collationem propositionibus universalibus; Hypotheses, decidendis casibus controversis; problemata, cautelis continentur.
+
+Medici theoremata petunt ex physicis et mathematicis. Historiae sunt eorum consilia, praxes, casus. Observationes sunt in eorum physiologia et pathologia. Hypotheses sunt in semeiotica. Problemata in diaetetica et methodo medendi seu therapeutica.
+
+::: editorial
+
+(zu S. 397) 14 justum, seu hypothetice E ändert Hrsg.
+
+:::
+
+## 55. DE REDUCTIONE HYPOTHESIUM AD DEMONSTRATIONES AC PHAENOMENORUM AD THEOREMATA [Herbst 1669—1670 (?)]
+
+Überlieferung: L Konzept: LH I 3, 7 c Bl. 5—6. 1 Bog. 2°. 1 Sp. auf Bl. 6 v°. (Auf Bl. 5 und 6 r°: VI, 1 N. 18.)
+
+Aus dem Inhalt dieser Aufzeichnung und besonders deutlich aus den Lesarten ergibt sich, daß sie in der frühen Zeit der Ausarbeitung der Theorie der „abstrakten" und „konkreten" Bewegung entstanden und durch eine Idee des Ramus angeregt ist, mit der sich Leibniz in der Nizoliusausgabe bekannt zeigt (vgl. den Anfang dieser Aufzeichnung mit der Fußnote 56 von N. 54.). Auf den ersten drei Seiten dieses Bogens steht die ebenfalls aus inhaltlichen Gründen in die Zeit von 1669—1670 gesetzte Aufzeichnung über die Inkarnation Gottes und die hypostatische Union (N. 18).
+
+Petrus Ramus in Mathematicis omnia problemata reduxit ad theoremata. Et merito. Quia modo tantum applicandi differunt. Solutio enim problematis est theorema, verbis tantum operativis mutatis. V.g. problema: datum Circulum mutare. Solutio seu Canon: multiplicetur quadratum diametri, seu circumscriptum, producto circumscribatur Circulus, is erit multiplex dati. Theorema: Circuli sunt ut quadrata diametrorum seu circumscripta. Similiter mihi venit in mentem omnes Hypotheses ad demonstrationes, omniave phaenomena ad theoremata reduci posse. V.g. Phaenomenon est: Lumen quoad sensum instanti movetur, seu minore celeritate, quam est quaelibet sensibilis. Hypothesis: Supponatur nullam esse sensibilem in pleno lineam, quae non contineat lineam aliquam insensibilem contigui sibi corporis subtilissimi, quod aetherium vocant. Solutio: Luce igitur orta, seu corpore lucido emissis ex se radiis impellere lineas luminis incipiente, quo primum momento initium lineae impellit, eo et impellet finem eius ad
+
+3 monoculus inter caecos unterstr. [p. 477] quantamcunque distantiam. Uti qui baculum impellit totum simul impellit, etsi protendantur in infinitum. Ergo quo primum momento lux orietur lumen sentietur. Theorema fieri potest: ,,Si ad certam distantiam a lucido nulla sit linea recta sensibilis quae non contineat luminosam; orta lux ad distantiam eandem momento videbitur." Quod theorema est prorsus necessarium, et reddit causam possibilem Luminis instantanei. Si esset convertibile seu si hypothesis demonstrabilis esset vel sensu certa, redderet causam prorsus necessariam, seu ostenderet nullam aliam esse posse, quod fit in hoc exemplo: Phaenomenon: Grave projectum aliquamdiu impetum retinet. Hypothesis: 1.) Gravi projecto nihil statim occurrit aeque validum. 2.) Cui nihil occurrit aeque validum, id impetum semel acquisitum retinet. Solutio: Igitur grave projectum impetum retinet. (Theorema: Quicquid semel movetur, id eadem via et celeritate semper movebitur nisi sit quod impediat; et, si quid sit quod impediat, sed non aeque validum, minuetur impetus; si id continue obstet, minuetur continue impetus, donec desinat.) Theorema: Si gravi projecto nihil statim occurrit aeque validum, et motus omnis durat nisi impediatur; impetus gravis projecti aliquamdiu durabit. Ita causa reddita est possibilis. Sed cum Hypothesis non solum sit possibilis, sed et certa, altera sensu, altera demonstratione; et converti possit Theorema hoc modo, atque et sic demonstrari: Si gravis projecti impetus durat; nisi impediatur, sequitur nihil statim occurrere aeque validum, et omnem motum durare nisi impediatur. Cum ergo et hoc conversum verum sit, erit causa reddita non solum possibilis, sed et necessaria.
+
+::: editorial
+
+(zu S. 476) 19 quadratum (1) inscriptum (2) diametri, seu circumscriptum, L 22 Phaenomenon est: (1) Aër a lapide impulsus (2) Lux in (3) Lumen L 24 Supponatur (1) non esse vacuum, supponatur et (a) plenum (b) undique (c) ubique (d) nullam esse sensibilem pleni partem, in qua non sit (aa) ignis (bb) corpus illud subtile cuius motu fit lumen. Supponatur tertio (2) nullam L
+
+:::
+
+## 56. TOTOS LIBROS EXPLICARE UNA FIGURA [1670—1671 (?)]
+
+Überlieferung: L Konzept: LH XXXV 1, 14 Bl. 87. 1 Oktavblatt aus dem Papier für das
+
+CJR. 2 S.
+
+Datierungsgründe: Papier und Duktus der Schrift.
+
+Totos libros explicare una figura, et ut omnes autores eadem utantur
+
+Magno levamento res mathematicas discentium docentiumque figuris iisdem uterentur omnes. Exempli causa tota doctrina optica posset explicari una figura grandi. Et ut [p. 478] confusio vitaretur, quae eodem tempore consideranda sunt, possent notari colore eodem et quia idem diverso tempore cum variis conferendum est, possent induci ei colores varii se comitantes. Ita quicunque aliquid de re optica commentabitur, iisdem et figuris et numeris utetur, quibus et alii omnes, et alias ipse. Compendio sumtuum incidendis figuris novis, laboris in delineandis, universalitate intellectuum (uti apud Analyticos idem omnibus z vel y ut quaesitum x) harmonia librorum, minore fatigatione imaginationis huc illuc versandae, magna etiam commoditate ad detegenda nova et non considerata, tum omnia simul sunt in conspectu, conferrique inter se, et detegi hiatus possunt. His figuris lineisque ut urbibus in chartis geographicis ascribi nomina debent, theoremata non pauca possunt. Incredibile hoc levamentum est molestis illis versationibus foliorum et inquisitionibus, et huc illuc respectationibus carere posse, Rationemque et sensum uno velut momento quasi oculis in rem praesentem ductis expedire. Apparebit quid inventum quousque sciendo profecti simus, patebit omnibus campus adjungendi. Abbreviaturae quoque seu Brachigraphiae faciles possunt adhiberi. Lineae (sint) ductae iisdem manentibus coloribus duplicitate aut triplicitate seu crassitie, ut fluvii in geographia, modo flexus, punctis adjunctis, serratura, ita carere poterimus illuminatione molesta. Et veteribus notis omnibus facile est adjungere novam, (suppetente quippe spatio, adjectum novi generis priorem comitante serratura, aut variato tantum serraturae angulo, aut appositis quibusdam hamis, punctis etc.) Tota Geometria potest contineri una grandi figura, una cum demonstratione omnium theorematum brachygraphica in margine. Omnes introspicient uno momento in fundum demonstrationum, et rationes rationum ad primas usque. Stereometria potest exhiberi vel pluribus figuris, vel ea ratione, qua Rumelinus usus est in corpore humano. Quanquam pro stereometricis moduli solidi sint vendendi cum libris, similiter in mechanicis quoad eius fieri potest. Adde Speneri meditationes de emendandis chartis geographicis adhibitis pluribus characteribus. Adde quae alibi commentatus sum de tota quadam materia juridica una historia seu facto comprehendenda, ut Italus quidam in Criminibus Judiciisque Ecclesiasticis fecit; Ayrerus quoque in processu Belialis contra Jesum adumbravit.
+
+::: editorial
+
+(zu S. 477) 3 potest. (1) Si nulla sit linea sensibilis, quae non contineat lineam luminosam, lux orta ad quantam (2) „Si L 27 levamento (1) rerum mathematicarum (2) res L 28 tota (1) res (2) doctrina L
+
+:::
+
+::: editorial
+
+(zu S. 478) 8 detegi (1) errores (2) hiatus L 24—28 Adde ... adumbravit. erg. L
+
+22 Rumelinus: wohl Joh. Conr. Rhumelius, Arzt aus Altorf. 24 Speneri meditationes: nicht ermittelt. 25 alibi: wohl VI, 1 N. 10. 26 Italus quidam: nicht identifiziert. 27f. Jac. Ayrerus, Historischer Processus iuris in welchem sich Lucifer über Christum, darum, daß dieser ihm die Hölle zer störet,h eingenommen ... Darinn ein gantzer ordentlicher Processus von Anfang der Citation bis auf das Endurtheil in erster und anderer Instance, darzu die Form, wie in Compromissen gehandelt wird, einleibet, 1597.
+
+:::
+
+## [p. 479] 57. DEMONSTRATIO PROPOSITIONUM PRIMARUM [Herbst 1671 — Anfang 1672 (?)]
+
+Überlieferung: L Konzept: LH I 20 Bl. 223—224. 1 Bog. 2°. 7 Sp.
+
+Die Datierung dieses Stückes stützt sich zunächst auf das Wasserzeichen, das übereinstimmt mit einem des sicherlich im Herbst 1671 verfaßten dritten Entwurfes der Summa hypotheseos (N. 483). Inhaltlich werden die ebenfalls in der 2. Hälfte 1671 konzipierten Elementa juris naturalis vorausgesetzt (VI, 1 N. 125 und N. 126) und selbstverständlich auch die Abhandlungen zur Theoria motus (N. 40 und 41).
+
+Ego ita sentio, nullam propositionem accipiendam esse nisi probatam, nec vocem nisi explicatam; quantum scilicet res moram fert inquirendi.
+
+Vocis explicatio, Definitio est
+
+Propositionis explicatio idem cum Demonstratione *[^479-1]
+
+Dantur autem propositiones indemonstrabiles, id est quae sunt sentiendae, ut solem lucere.
+
+Demonstrabiles aliae sunt rationis, aliae facti.
+
+Facti ut terram moveri, quam propositionem ego in Hypothesi ni fallor primus demonstravi assumtis duabus propositionibus altera facti, sed indemonstrabili, seu sentienda: ut terram esse consistentem seu cohaerentem; altera rationis et a me demonstrata nullam esse cohaesionem quiescentis. Unde illud universaliter deduxi omnem Globum Mundanum, ut Solem, Lunam, Terram etc. motum proprium a caeterae massae motu distinctum, eumque, pro re nata, circa proprium centrum, habere debere.
+
+Rationis sunt Propositiones illae ex solis ideis, vel quod idem est definitionibus conjunctis orientes, sensui originem non debentes, ac proinde hypotheticae, necessariae, aeternae, ut Geometricae, Arithmeticae, Phoronomicae abstractae omnes: ita totum esse maius parte, Nihil esse sine ratione, Circulos esse ut quadrata diametrorum[,] Numeros impares esse differentias quadratorum, quae omnia talia sunt, ut ex sola accurata distinctaque expositione, id est definitionibus pendeant. Idem Aristoteles vidit, idem Lullius, ambo Viri magni.
+
+Zu N. 57: Zusätze am Rande: [p. 480] At sunt qui putant, esse quaedam Axiomata per se nota, haec esse in demonstrando definitionibus adjungenda. Hos ego audacter dicam nondum satis patiente animo in intima penetrasse. Primum enim spondeo nullum eorum esse in quo non effecturus sim, ut positis definitionibus admitti necesse sit a Sceptico etiam quantocunque. Totum esse maius parte, primus demonstravit Hobbius, fundamentum Scientiae de Quantitate. Nihil esse sine ratione, ego quod sciam primus demonstravi fundamentum scientiarum de mente et motu. Notum est quaedam Axiomata ab Euclide assumta, a Clavio aliisque in Theorematum numerum redacta esse, quasi paulo difficiliora. Quis obsecro gradum difficultatis determinabit, quis assignabit rationem sistendi Quod enim per se noti nec declaratione indigentis? Alia aliis clariora sunt, nihil absolute notum. Praeterquam idem dicere de seipso, vel iisdem vel aliis sed idem significantibus verbis, aut consensu omnium, aut voluntate declarata dicentis. Et quid Scepticis respondebimus, qui irrident illud nostrum per se notum? Quid magnis Mathematicis et Philosophis, qui interdum negare audent, quae aliis clara videntur. Ut Totum esse maius parte in Angulo contactus negavit Gregorius a S. Vincentio et in infinito Cardinalis Pallavicinus. Et nihil esse sine ratione negant quicunque ab hac regula excipiunt voluntatem, ut Scientiae mediae patroni omnes contra Praedeterminatores. Et tamen labente harum propositionum absoluta et rigorosa universalitate actum est de certitudine omnium propositionum quascunque mens humana invenit. At, inquies, qui fieri potest, ut solae definitiones aliquid novi ingenerent menti, non sunt enim nisi vetera aliter expressa. Et quae utilitas erit invenire aliquod theorema, si dudum noram omnia eius praeter verba? [p. 481] Qui sic objiciunt nondum Scientiae, et idearum, et quam Plato vocabat reminiscentiae mysteria comprehenderunt. Qui Arithmeticam, et in ea Tabulam Pythagoricam discit, quid obsecro discit: An novi aliquid praeter verba[?] Cum disco bis duo esse quatuor, an aliud praeter nomen numerale disco, cuius deinde in loquendo computandoque compendiosus sit usus? Et tamen nisi haec vocabula, vel alia quaecunque eorum loco constantia signa essent, periisset nobis arithmeticae usus omnis. Verissimum ergo est, qui non nisi res rationis, theoremata, definitiones discit, non discere, nisi dudum cognitis uti. Quemadmodum enim nemo computare posset, praesertim numeros ingentes, sine nominibus vel signis numeralibus, loco numeri enim deberet sibi distincte imaginari omnes in eo comprehensas unitates. Quis autem nisi tempore aetatis Methusalae imaginabitur sibi distincte unitates quae sunt in 1000,000,000,000 et si posset tamen inter progrediendum priorum oblivisceretur. Ita nemo ratiocinationes longe productas persequi animo posset, nisi reperta essent signa quaedam, id est nomina, quibus magna rerum vis ita compendiose comprehenderetur, ut plurima celeriter percurrere liceret, quod esset impossibile, si sublatis nominibus, vel aliis ejusmodi signis, pro definitis esset definitionibus utendum. Et huius generis cogitationes soleo vocare Caecas, Quibus nihil apud homines frequentius auf necessarium magis. Quotusquisque enim cum de novenario loquitur omnes eius unitates; cum de Hyperbola modum eius generandae; sibi distincte imaginatur. Si semel nobis conscii simus verba distincte constanterque ordinasse, suffecerit cogitationibus caecis uti ad distincte ratiocinandum. Hinc Symbolica illa recentiorum Analysis, quicquid etiam contradicat Hobbius, tanti est ad celeriter et secure ratiocinandum usus. Unde videmus eos qui artem tenent verbis aptis constanter utendi, accurate ratiocinari, id est cogitationes ordinare solere. Ratiocinatio demonstratioque omnis non auget cogitationes, sed ordinat. Theorematis nullus alius usus est, quam quod compendiose multa dicit. [p. 482] Et quia compendiose, ideo apte ad usum, Compendiose enim expressa multa simul facili cogitatione comparari, percurri, ad unum finem, id est ad solvenda Problemata, et ad maximum problematum: obtinere felicitatem, coordinari possunt. Omnes omnia per partes novimus, quae conjuncta ordinate, proposita distincte, cogitata reflexe apud Euclidem Theoremata dederunt. Qui absolvit legendo demonstrationem in Euclide miratur se tam manifesta non dudum vidisse: cum ea omnia diu cognita agnoscat, ex quibus combinatis tantum in eadem incidisset. Sed scilicet haec tam ordinata combinatio, in qua omnis philosophandi lux consistit, non venerat ei in mentem. Cogitaverat, sed quasi non cogitaret, id est sine reflexione. Uti cum novem unitates cogito, cogito et septem, sed sine reflexione. Quemadmodum in data massa informi figurae omnes dudum insunt, nec nisi ablatione inutilium indigent ad apparendum. Nimirum ut finiam, quemadmodum essentia Mentis in actione in se ipsum, ita et anima sapientiae, atque id quod vulgo judicium vocant, consistit in illo: Dic Cur Hic, seu in Reflexione. Et prudentiores saepe sunt, qui pauciora norunt, sed promte ad inveniendum, distincte ad dijudicandum, compendiose ad peragendum.
+
+[^479-1]: Definitio est idea significata Ratiocinatio est catena idearum Demonstratio ratiocinatio significata Demonstratio catena definitionum.
+
+::: editorial
+
+(zu S. 479) 13 quae sunt (1 facti, ut (2) sentiendae L 22 illae | necessariae, gestr. | ex solis ideis | perceptis gestr. |, vel L 30 idea | clare erg. u. gestr. | significata L 30 Ratiocinatio korr. aus Definitio L
+
+:::
+
+::: editorial
+
+(zu S. 480) 8f. scientiarum korr. aus scientiae L 24 rigorosa (1) certitudine (2) universalitate L 28 erit (1) nosse (2) invenire L
+
+6 Hobbes, De corpore, cap. 8, § 25. 20 Gregorius a S. Vincentio, Opus geometricum, 1647 (vgl. oben S. 432). 21 S. Pallavicino, Werk nicht ermittelt (vgl. oben S. 432).
+
+:::
+
+::: editorial
+
+(zu S. 481) 20f. Caecas, | quibus homines plerumque utuntur. gestr. | Quibus L 22 cum de (1) circulo linearum aequali (2) Hyperbola L 26f. Hobbes, De corpore, cap. 20. 31 LEIBNIZ VI. 2.
+
+:::
+
+Propositio:
+
+Totum cde est maius parte de.
+
+Definitio: Maius est cuius pars alteri toti aequalis est. Eyófaov: Ex hac definitione maius minusque aestimant homines universi; duas enim res datas congruentes sibi aut saltem parallelas collocant, ut ab et cde, ita enim apparet cde esse maius, seu aliquid aequale ipsi ab nempe cd et aliquid praeterea de habere.
+
+::: editorial
+
+(zu S. 482) 9 philosophandi (1) anima (2) lux L 15—17 quemadmodum essentia Mentis ... in Reflexione korr. aus quemadmodum Mentis essentia consistit in Reflexione L 19 Propositio korr. aus Demonstratio Propositionis L
+
+19 — S. 483, 5 Leibniz gibt hier eine ausführlichere Darstellung des ihm bekannten Beweises aus Hobbes, De corpore, cap. 8, § 25.
+
+:::
+
+[p. 483] Demonstratio:
+
+Cuius pars alteri toti aequalis est, id est maius per defin. Majoris Pars totius cde (nempe de) est aequalis toti de (nempe sibi ipsi) Ergo cde est maius quam de; totum parte.
+
+Quod erat demonstrandum.
+
+Ecce elegans exemplum propositionis primis, id est definitionibus et propositionibus identicis proximae, demonstratae unico syllogismo in prima figura, cuius maior est definitio, minor est propositio identica, conclusio theorema datum.
+
+Propositio:
+
+Nihil est sine ratione, seu quicquid est habet rationem sufficientem. Definitio i. Ratio sufficiens est qua posita res est. Definitio 2. Requisitum est quo non posito res non est.
+
+Demonstratio:
+
+Quicquid est, habet omnia requisita.
+
+Uno enim non posito non est per def. 2. Positis omnibus requisitis res est
+
+Nam si non est, deerit aliquid quo minus sit, id est requisitum. Ergo omnia Requisita sunt ratio sufficiens per def. 1. Igitur quicquid est habet rationem sufficientem
+
+Q. E. D.
+
+Propositio:
+
+Nulla est resistentia quiescentis. Definitio 1. Quiescere est uno tempore continuo esse in uno loco. Def. 2. Resistere est mutare motum impingentis. [p. 484] Def. 3. Impingere est conari movere Excipiens eadem celeritate in eandem plagam. Def. 4. Conari est incipere movere.
+
+::: editorial
+
+(zu S. 483) 3 Pars (totius) cde L ändert Hrsg. 11 quicquid est (1) eius ratio sufficiens est (2) habet L 12 res (1) existit (2) est L 15 Quicquid est, (1) eius sunt (2) habet L 18f. requisitum. (1) Ergo positis omnibus requisitis ponitur ratio sufficiens (2) Ergo L 23 Nulla est (1) cohaesio (2) resistentia L 24f. loco. (1) def. 2. Cohaerere est (a) resistere divisioni parte mota (b) moveri totum (c) totum
+
+31*
+
+:::
+
+Demonstratio:
+
+Omne impingens conatur movere excipiens eadem celeritate in eandem plagam. def. [3]. Ergo omne excipiens conatur moveri celeritate impingentis in eandem plagam. Ergo incipit sic moveri per def. [4]. Qualis motus incipit, pergit, nisi sit conatus seu initium motus aliorsum.
+
+(Neque enim mutationis ratio est) Quiescentis antea non est conatus aliorsum quam ab impulsu novo per def. 1. Ergo quiescens nunc impulsum pergit moveri celeritate impingentis in eandem plagam. Quicquid celeritate alterius in eandem cum eo plagam movetur non mutat eius motum.
+
+(Altero enim intrante locum alterum exit; cum tamen omnis actio corporis in corpus, seu mutatio motus situsque, sit a concursu plurium corporum in unum locum, per alibi ex definitionibus corporis et motus demonstranda) Ergo Quiescens per d. 2 non resistit impingenti.
+
+Q. E. D.
+
+::: editorial
+
+(zu S. 484) motum iri. Ostendamus nullam esse resistentiam quiescentis, partem non cedere nisi cum toto (2) def. 2. Cohaerere est resistere divisioni (3) Def. 2. Resistere L 1 Impingere est | in locum alterius gestr. | conari L 3—5 incipere (1) esse (2) moveri (3) movere. | def. 5. Moveri est mutare locum. def. 6. Excipiens est id quod impingitur. def. 7. Pelli est moveri ab impingen gestr. | Demonstratio | Quicquid impingit, pellere conatur quiescens per def.3. Quicquid pellere conatur, pellere incipit, per def. 4. (1) Quicquid pelli incipit moveri incipit seu quiescere desinit (2) Ergo quo quid momento quiescens existit impingens, quiescere desinit (3) Quicquid (a) pergere incipit (b) cedere (c) pelli incipit, incipit moveri ab impingente eadem celeritate in eandem plagam. Quicquid incipit moveri in aliquam plagam aliqua celeritate, non resistet, sed perget eodem modo, nisi incipiat simul seu conetur moveri in aliam. Quiescens impulsum non conatur in aliam plagam, quam in quam impulsum est. Ergo nulla est resistentia quiescentis. Propositio Juris Naturalis. Tanto quisque potentior esse debet quanto est sapientior gestr. | Omne (1) excipiens (2) impingens L 5 def. 2. L ändert Hrsg. 7 def. 3. L ändert Hrsg.
+
+:::
+
+[p. 485] Propositio:
+
+Tanto quisque potentior esse debet quoad eius fieri potest quanto est sapientior
+
+1. Sapientia est scientia felicitatis. 2. Potens est hoc loco felix si velit. 3. Debitum est necessarium viro bono. 4. Vir Bonus est qui amat omnes. 5. Amare est felicitate alterius delectari. 6. Delectari est sentire harmoniam.
+
+Demonstratio:
+
+Sapiens est sciens felicitatis def. 1. Sciens felicitatis vult felicitatem. Potens qui vult felicitatem est felix def. 2. Quo quis sapientior hoc debet esse felicior. Ergo quo quis sapientior hoc debet esse potentior. Restat ut probetur: Quo quis sapientior hoc debere esse feliciorem. Nam quo quis sapientior hoc intelligentior felicitatis. Ergo hoc ea gaudebit magis. Ergo hoc eius capacior. Quanto quis autem capacior felicitate tanto debet esse felicior. Probatur hoc ultimum. Nam debent omnes esse felices quoad eius fieri potest (per def. 3. 4. 5. junctas), magis autem in quibus hoc harmonicum magis def. 6. Magis autem harmonicum quod magis possibile caeteris paribus.
+
+::: editorial
+
+(zu S. 485) 2f. quanto est (1) sapientior (2) prudentior (3) sapientior. L 5f. velit. (1) arbiter felicitatis alienae (2) 3. Debitum L 8f. delectari. (1) Felicitas est voluptas sine dolore. (2) 6. Delectari 13f. def. 2. (1) Sapiens debet esse felix (2) Quo quis sapientior L 15 Ergo (1) sapiens debet esse potens (2) quo quis L
+
+:::
+
+[p. 486] (Argumentatio ab obliquo ad rectum, et contra.) Exemplum: Christus est DEUS. E. qui recipit Christum recipit DEUM. Definitiones: Christum est eum qui est Christus.
+
+DEUM „ ,, ,, ,, DEUS. E%ófaov: Omnis obliquus resolvitur in rectum cum addito relativo. Cogitationis obliqui pars est cogitatio recti. Ipsa Grammatica compositio hinc oritur.
+
+Demonstratio seu Connexio Definitionum: Qui recipit Christum, recipit eum qui est Christus per def. 1.
+
+Christus est DEUS per hypoth. Ergo recipit eum qui est DEUS per 1m fig.
+
+(ita argumentando: Christus est DEUS per hypoth. qui est Christus est Christus,
+
+Ergo qui est Christus est DEUS. Ergo si pro[:] qui est Christus[,] substitui potest[:] qui est DEUS[,] poterit pro[:] eum qui est Christus, substituit:] eum qui est DEUS[,] quia si aequalibus addas aequalia, quae remanent sunt aequalia) Qui recipit eum qui est DEUS recipit DEUM per def. 2. Ergo qui recipit Christum recipit DEUM
+
+Q. E. D.
+
+Q. E. D.
+
+Hinc patet omnem ratiocinationem consistere in perpetua substitutione aequipollentium ex toto vel parte. Christum dicere idem est quod dicere eum qui est Christus.
+
+::: editorial
+
+(zu S. 486) 1—26 Nachträglicher Zusatz am Rande (26 in anderer Schrift). Die Diskussion der consequentiae a rectis ad obliqua procedentes fand Leibniz bei J. Jungius, Logica Hamburgensis, 1638, l. III, c. 4. § 8.
+
+:::
+
+## [p. 487] 58. VORARBEITEN ZUR CHARACTERISTICA UNIVERSALIS
+
+Definitionentafel.
+
+[2. Hälfte 1671—Frühjahr 1672 (?)]
+
+Überlieferung: L Konzept: LH IV 7 C Bl. 35—44. 5 Bog. 2°. 10 S. Konzeptpapier für das CJR.
+
+In der Anordnung folgt diese Definitionentafel dem Aufbau der Begriffstafeln in John Wilkins’ Essay towards a Real Character and a Philosophical Language, London 1668, Part II, chap. 1, p. 26—33, geht aber über dessen bloße Begriffsaufteilung hinaus. Für unsere Datierung ist daher maßgebend Leibniz’ Mitteilung vom 29. April (9. Mai) 1671 an Oldenburg (II, 1 S. 104), er habe kürzlich Wilkins’ Werk gelesen. Die Niederschrift (auf Mainzer Papier) erfolgte offenbar wenig später, wurde jedoch abgebrochen, vermutlich wegen seiner Vorbereitungen für die Reise nach Paris (19. März 1672).
+
+Zur Zählung sei angemerkt: die erste Kolonne zählt die Abschnitte fortlaufend (1—62), die zweite (Hauptabschnitte I—VI und I—II) und dritte Kolonne gliedern die Definitionen in Anlehnung an die Einteilungin dem Werk vonWilkins. Die arabischen Ziffern in der dritten Kolonne, deren Folge manchmal springt oder verändert ist, sind von Leibniz so geschrieben, daß sie größtenteils Definitionspaare zusammenfassen. Wir setzen sie aus drucktechnischen Gründen jeweils vor das erste Glied. Die dem Hauptabschnitt III des zweiten Teils des Buches von Wilkins entsprechenden Definitionen hat Leibniz erst um 1678 in Hannover konzipiert, weswegen sie erst im Band VI, 4 zum Abdruck gelangen werden. Aus dieser Zeit stammen vermutlich die durch (H?) gekennzeichneten Änderungen und Zusätze, die aus äußeren Gründen nicht mehr der Mainzer Zeit zuzuordnen sind.
+
+Generalis notio est quae alterius (specialis) pars est: 1.I. 1. Aliquid est quicquid cogitari potest.[^487-1]
+
+Nihil est quicquid nominari potest, cogitari non potest, nomen sine re, sine mente sonus.* 1 2 (Existentia) est alicuius sensibilitas distincta3 (Essentia) est alicuius cogitabilitas distincta. 2. 2. Reale est quicquid non est tantum apparens
+
+Nachträgliche Änderungen und Zusätze: [p. 488] Apparens est cuius sensibilitas non est distincta. 3. 3. Notio, Conceptus, Idea, est cogitatio quatenus alicuius cogitatio est. Fictio est cogitatio non existentis. (Fictio nisi possibilis nulla est in mente, est in voce) 4. 4. Vocabulum est sonus articulatus nota signumque4 cogitationis. (Praedicatum) est vocabulum ei tributum quod alio vocabulo scilicet nomine suo dignosci solet.5 * (Titulus) est praedicatum boni (Convicium) est praedicatum mali. (Compellatio) est allocutionis inchoatio. (Allocutio) est sermo cui ab alio praesente attendi velle, nos declaramus. Unde desiderare solemus signum attentionis nutu, voce facto. 4. Persona est cuius aliqua voluntas intelligitur. 5. 5. Substantia est cuius aliqua actio vel passio est. An potius: quicquid cogitatur absolute sive complete. Accidens est modus substantiae quo cogitari potest. 6. 6. Quantitas est modus, quo res cogitatur determinata, aut potius modus quo res cogitatur tota. Figura terminos continet, sed mutata figura manet quantitas et haberi res potest nihilominus tota. Seu quantitas est ipsa haecceitas, qua res cogitatur haec.6 Qualitas est modus, quo res cogitatur mutabilis seu posse agere et pati. Quo res cogitatur cum relatione non ad sensum, sed intellectum.[^488-7] Quantitatis enim 4 nota mihi, signum aliis. 5 v.g. rationale non est nomen hominis, sed praedicatum. 8 Principium eorum quae tractant de existentia seu quantitate est: Quod est id esse; seu non utique non esse, cuius illud: totum est majus parte, non nisi subsumtio est. [p. 489] conceptus est cogitatio relationis rei ad sensum. Hinc ratio patet cur sola ex accidentibus quantitas auferri non possit, continet enim ipsam rei haecceitatem. 8 7. 7. Actio est9 status unius quem sequitur mutatio alterius. Passio est illa ipsa mutatio. Hinc sequitur agens sine mutatione esse posse, patiens non posse. Sed agens unicum, DEum.10 11 Relatio est duorum concogitabilitas. Absolutum est quod cogitatur alio non cogitato. 8. II. Causa est sensu hominum communi: quod nisi nunc hic praeextitisset aliud non existeret. Quid vero si eodem momento producantur, ut quo momento actio eo passio? Erit tamen actio natura prior. Cur ita? Prius igitur natura est, etsi non tempore, quicquid altero prius coeptum est, etsi sint simul absoluta. Sed hoc alibi accuratius excutiendum. An potius prius est natura cum in momento productionis etsi uni obstes nihil agis, nisi alteri obstes. Quemadmodum frustra umbram tollere conamur, nisi sublato obumbrante. Est ergo causa natura prius.11 Effectus est ipsum requirens. (Procurare) est efficere cura sua. (Cura) est labor animi. Labor est actio molesta alicuius efficiendi causa suscepta. 8 Principium eorum quae tractant de mutatione seu Qualitate est, nihil esse sine ratione. 9 conservatio vel auctio suae perfectionis vel potius est variatio quae fit salva per fectione. 10 vel potius passio est variatio quae perfectionem sua natura minuit. 11 simul et requisitum, et inferens, non absolute sed hoc rerum statu, hic et nunc. Nam homicidium causa est poenae, non absolute, ut sequatur poena, nec ut poena alias non sequatur, sed hic et nunc caetero temporis tractu similiter posito et secuta fuit et aliter secuta non fuisset. Causa integra est absoluta NB. Am Rande: Causa aliquando est requisitum quod unicum supererat. [p. 490] Causa efficiens est causa per actionem. (Causa per emanationem) est causa efficiens sine mutatione sui. Quod movetur impellit quiescens sine repassione, non tamen sine mutatione. Mutat enim seipsum, id est in cursu destinato pergit.12 (Producere) in lucem scil. in conspectum: Est facere rem existere, ac proinde sensibilem. Addit ergo effectioni relationem ad sensum. Agere refertur ad objectum, facere ad effectum. Efficere ad utrumque, est enim facere aliquid ex aliquo. (Eventus) est effectus contingentium. (Successus) fortuitorum. (Exitus) dubiorum. (Fructus) est effectus bonus.13 (Autor) est qui declaratione voluntatis suae est causa efficiens alienae. Efficacia est potentia efficiendi. Virtus est efficacia boni.14 9 Causa impulsiva est causa ut actio incipiat in agente. Unde qui removet impedimentum non est causa impulsiva, nec qui objicit patiens jam agenti. Concitare est augere actionem coeptam. Incitare est actionem ex lenta facere vehementem. Instigare est impellere conari. Inducere est aliquandiutino impulsu continuo denique actioni initium dare. Stimulus est medium instigandi. Irritare est iratum facere. Provocare est profiteri se alium iratum velle. Excitare est motum intestinum extrinsecus sensibilem aliquid efficere conantem dare: facere ut aliquid propinquum fiat conanti. (Implicare) Engagiren efficere ut desistere cum velis non possis. Urgere est inducere conari. 12 Non est ergo causa per emanationem. 13 Damnum malus, uterque subsistens. 14 geändert in efficacia ad bonum. [p. 491] (Impedio) etiam perrumpentem dummodo efficiam, ut ita uti nunc agit, efficere non possit. (Adjuvo) etiam sine me effecturum, cum ita uti nunc egit, alioquin effecturus non fuerit. Obstaculum est impedimentum quod omnino tolli debet. Sistere est ita impedire ut conatus etiam desinat. Cohibere est sistere incipientem. Resistere est impedire conari. Impedire (rectius) efficere ut nihil agatur. Assistere est adjuvare conari. Succurrere est assistere, opere coepto indigentia apparente. Relevare est minuere difficultatem. Qui bajulantem haustu vini recreat juvat, non relevat. Non enim minuit difficultatem, sed auget vires. Advantage Vortheil est circumstantia ad victoriam utilis. Subsidium est auxilium praeparatum in eventum indigentiae, subsidit enim quasi in fundo, ut spes in Pyxide Pandorae.15 * * * Conducere est subsidium praestare iter facienti. (Restituere) est praesens efficere quod praesens esse desiit. (Reddere) in potestate esse efficere, quod in ea esse desiit. (Restaurare) est aptitudinem reddere. vide supra. (Sarcire) est reddere continuitatem. Supplere est simile substituere, sed aliud. (Est ergo species restaurationis.) (Substituere) est aliud pro expectato praestare. Quod scilicet vel affuturum vel diutius affuturum expectabatur. Accomodare est commodum facere. Aptare aptum. 15 ita triarii subsidebant, nec nisi in necessitatis articulo exurgebant.
+
+[^487-1]: Si A sit B vel C vel D, et ita porro dicitur Aliquid 2 seu si N non sit A et N non sit B et N non sit C et ita porro N dicitur Nihil hoc est quod vulgo dicunt Non Entis nulla esse attributa 3 seu Existens est, quod distincte sentiri sive percipi potest[,] distincte id est adhibitis distinctis conceptibus quemadmodum Ens est quod distincte concipi potest
+
+::: editorial
+
+(zu S. 487) 25 alicuius (1) sensibilitas | distincte cogitabilis erg. | (2) sensibilitas L 26f. distincta. erg. | (1) Res (2) Reale L 27 apparens |, sed et existit gestr. | Apparens L 32 sive percipi erg. L 32f. adhibitis (1) accuratis ratiocinationibus (2) distinctis .. . potest L
+
+:::
+
+[^488-7]: über intellectum: imaginationem.
+
+::: editorial
+
+(zu S. 488) 2 idea, est | Essentiae gestr. | cogitatio L 4f. voce) (1) Nomen (2) Vocabulum L 6 est (1) nomen (2) vocabulum L 6f. alio (1) nomine (2) vocabulo L 8 praedicatum (1) exprimens bonita (2) boni L io est (1 colloquii (2) allocutionis L 11 sermo (1) quo significamus nos (2) cui (a) alium praesentem (b) ab alio praesente L 13 voluntas | atque actio gestr. | intelligitur L 14 vel passio erg. L 15 absolute sive complete erg. L 19 nihilominus erg. L 19f. Seu ... haec. erg. L 22 intellectum (1) Quantitas enim (2) Quantitatis enim conceptus L 24 v. g. (1) rationalitas (2) rationale L
+
+:::
+
+::: editorial
+
+(zu S. 489) 4 status | seu modus gestr. | unius L 9 est (1) principium exis (2) sensu L 9f. nunc hic prae— erg. L 16 causa | requisitum gestr. | natura prius | requirente gestr. | Effectus L
+
+:::
+
+::: editorial
+
+(zu S. 490) 6 relationem ad (1) materiam (2) sensum. L 14 impulsiva est (1) auxilium efficientis in agen (2) causa L 20 est (1) instrumentum (2) medium L 23 Excitare est (1) quietem tollere (2) fermentationem seu (3) motum L 24 facere ... conanti erg. L 26—S. 491, 1 conari. (1) Inhibere (2) Impedire est facere ne fiat. Adjuvare est facere ut fiat. (3) (Impedio) L
+
+:::
+
+::: editorial
+
+(zu S. 491) 12 minuere (1) laborem. Potest adjuvare, qui non relevat ut si alioqui nihil fuisset alter effecturus. (2) difficultatem L 22 Supplere est (1) aliquid pro (2) simile L 22 sed .. . restaurationis.) erg. L 23 aliud pro (1) alio (2) expectato (a) dare (b) praestare L
+
+8 Resistere: In der Handschrift LBr 662 Bl. 5—6, einem von Leibniz angefertigten Auszug aus einem Brief von D. G. Morhof an E. Mauritius vom Oktober (?) 1671, findet man die wohl aus der gleichen Zeit stammende Notiz von Leibniz: Resistere est Terminus Negativus. Obsequi est prorsus cedere. Antecedere est moveri in plagam impingentis.
+
+:::
+
+[p. 492] (Aptum) est congruum16 ad agendum.
+
+(Commodum) congruum17 ad patiendum, seu non resistens.18
+
+Congruum19 est quod facile compossibile est.20 vid. 33.
+
+Facile est valde possibile, seu cuius pauca sunt requisita. Quod facile est in re, id probabile est in mente.21
+
+Inservire est juvare ad arbitrium eius qui juvatur
+
+Coadjutor22 est adjutor in officio existentis extraordinarius mansurus tamen.
+
+Dicitur alioquin adjunctus. Et coadjutori additur spes successionis.
+
+Collega est adjutor eodem officio praeditus.
+
+Minister est qui obligatus est ad inserviendum
+
+Praejudicium est impedimentum23 in judicio futuro a priore24. 10. 6. Finis est cuius appetitus alterius appetitum efficit. Alterum dicitur Medium. 11. 3. Exemplar est cui quis aliud simile facere voluit, quod dicitur Exemplum 12. 4. Conditio est oppositum requisito, nempe quo posito aliud ponitur. adde inf. 44.
+
+(Requisitum) est quo sublato aliquid tollitur. 13. Occasio est tempus sine opera nostra congruum agendis quae volumus, seu tempus fortuito congruum.25
+
+Opportunum est quicquid casu congruum est.
+
+Scandalum est periculum corruptionis voluntatum. Corrumpitur voluntas, quae fit malis volendis facilior.26 14. 7. Materia est cuius manentis mutatione fit aliquid. Quod materia est effectus, est objectum agentis. Argumentum est cuius repraesentatio cogitantis objectum est. Subjectum est formae.
+
+Forma est aggregatum27 qualitatum seu mutabilium. Nam ut supra [6] dictum est Quantitas mutari non potest, Qualitas potest.
+
+16 über congruum: conveniens 17 congruum nachträglich geändert in convenit 18 Aptum est facile ad agendum. Commodum est facile ad patiendum. 19 Congruum nachträglich geändert in Conveniens 20 nachträglich geändert in facile coexistit seu valde compossibile est 21 Periculosum est facile damnosum 22 sensu juridico 23über impedimentum: vinculum, obligamentum 24 priore nachträglich geändert in praeterito 25 Occasio est tempus opportunum 26 periculosum probitati 27 über aggregatum: principium
+
+### [p. 493] III. Differentiae
+
+15. 1. Verum est quicquid clare distincteque sensibile est.28 ((Certum) est quicquid clare distincteque sentitur.29 Seu certitudo est claritas veritatis.) Falsum est quod non esse clare distincteque sensibile est, seu quod non esse verum est. Error est sensus falsi.30 (Sensus)31 est cogitatio quam sequitur32 voluptas et dolor, seu33 appetitus et fuga, sive conatus agendi. (Cogitatio) est actio in34 seipsum.35 Fides est sententia de veritate verborum alterius. Alio sensu fides est ipsa veracitas. (Opinio) est sensus36 non clarus distinctusque. 16. 2. Bonum est quicquid sentiens37 efficere conatur. Divitiae non sunt bonae si rigorosius loquendum est, sed eas habere.38 Malum est quicquid sentiens destruere conatur. Positivum est quod sentitur. {Negativum, quod non sentitur. Privatio est possibilis negatio. 18. 4. Genuinum est quod est id quod appellatur,39 alioquin Spurium. 19. 5. Actus est effectus praesens.40 Potentia est possibilitas mutationis (Terminus) est cui aliquid quod rei pars non est contiguum est. 28 über sensibile est: percipi potest 29 über sentitur: percipitur 30 sententia falsa 31 Neben (Sensus) am Rande: Sententia 32 später geändert in quam comitatur 33 quam sequitur 34 über in seipsum: interna 35 perceptio cum reflexione 30 sensus geändert in perceptio 37 über sentiens: percipiens 38 eas habere geändert in eis frui. Am Rande: Iucundum an bonum per se praesens? 39 seu cui competit nomen suum 40 seu existentia mutationis [p. 494] 20. 6. Finitum est quod terminos habet, infinitum quod non habet [,] vel finitum est, cuius partes sunt numerabiles. Limes est Termini signum. Confinia sunt terminus communis. Indefinitum est incognitae quantitatis. 21. 7. Naturale est quicquid ex motu ac quiete sequitur nam Natura est principium motus et quietis.41 Seu quicquid experientiae aut rationi consentaneum est. Praeternaturale quicquid insolitum est, cuius ratio nulla apparet in corporibus nec nobis. Supernaturale, insolitum cuius ratio non apparet in creaturis. Artificiale est cuius ratio apparet non in corporibus sed nobis. Natura est consuetudo Mundi. Ars est potentia hominum in naturam.42 Praeternaturale est quod fit praeter Mundi consuetudinem. Supernaturale est quod fit praeter naturae43 potentiam. Miraculum est actus non naturalis. 22. 8. Simplex est sine partium diversitate. Unde patet varios esse gradus simplicitatis, aliud omni partium multitudine caret, seu differentia numerica, et hoc est prorsus indivisibile, aliud caret partibus dissimilibus, magis minusve. Mixtum est cuius partium diversitas est. Miscellaneum est cuius partium notio communis definita nulla est. Confusum est quicquid inter caetera sentiri cum velis non potest. Rhapsodia est conjungere situ disjuncta natura, Cento est conjungere situ, conjuncta natura. 23. 9. Perfectum est quicquid tantum potest, quantum potest posse.44 * Imperfectum contra Maturum est quicquid aetate perfectionem acquisivit.
+
+### IV. Differentiae relatae ad finem
+
+24. 2. Jucundum est quod quicquid destructurum putamus destruere conamur seu quod conamur conservare per se.45 41 ut consuetudo est secunda natura, ita natura est prima consuetudo. 42 Natura est ars subtilis, Ars natura crassa 43 cognitae gestr. 44 [M]elius[:] Perfectio est gradus realitatis (H?) 45 Jucundum est quod continet sensum perfectionis (H?).
+
+::: editorial
+
+(zu S. 492) 8 spes (1) substitutionis. (2) successionis L 32 periculosum | animarum gestr. | probitati L
+
+:::
+
+::: editorial
+
+(zu S. 493) 1 Differentiae am Rande erg. L 7 est (1) opinio fa (2) sensus L 26f. sensus (1) sent (2) perceptio L
+
+:::
+
+::: editorial
+
+(zu S. 494) 2 partes (1) sensibiles (2) sunt L 20f. natura, | et disjungere conjuncta gestr. | Cento L 25 Differentiae .. . finem erg. L
+
+:::
+
+[p. 495] Conservare enim est destruere destruens. Molestum est quicquid destruere conamur. 25. 1. Utile est quicquid boni causa est, seu quo posito sequitur bonum.
+
+Necessarium est quicquid boni requisitum est, seu quo non posito tollitur bonum.
+
+Interest nostra quo posito vel non posito circa bonum vel malum nostrum mutatio contingit. 26. 3. Debitum, Officium est ad quod me coget qui prudens simul potensque est. 27. 4. Possibile est quicquid clare distincteque cogitabile est.46 Impossibile contra. 28. 5. Important est cuius effectus bonus malusve magnus, seu quicquid plurimum interest.
+
+Vanum est contra. 29. 6. Pretium est determinatio gradus bonitatis in aliqua bonorum mensura communi.
+
+Meritum est pretium actionis.
+
+Demeritum est pretium omissionis. Nam quam malum est facere, tam bonum omittere.
+
+Carum est cuius pretium persolvere non est cuiusvis. Vile contra.
+
+Dignus est quisquis meriturus est.
+
+### V. Differentiae relatae ad media
+
+30. 1. Legitimum quod est quale Legislator se velle ipsum esse declaravit.47
+
+Adiaphorum est quicquid lege nec vetitum nec jussum est. 31. 2. Decorum est quicquid ex opinione seu consuetudine pulchrum est, vel potius generalius: decor est pulchritudo in vivendo. Galant. Galanterie est decor in minutis.48 32. 3. Tutus est cui noceri non potest. Securus est qui putat sibi noceri non posse.49
+
+Differunt ergo ut verum et creditum; potest aliquod falsum mihi certum esse (fy). Hinc non est necesse requirere ad Rempublicam opinionem securitatis, quia ipsa securitas est opinio.
+
+46 Possibile est quod non implicat contradictionem (H ?) 47 quale . . . declaravit geändert in conforme legi 48 Est ad pulchritudinem ut risus ad jucunditatem 49 seu tutus opinione [p. 496] Salvus est cui noceri non potuit60 in periculo; Innoxium quod nocere non potest. Innocuum quod non nocuit. Indemnis cui non nocitum est.51 Protegere est tutum praestare. (Advocatus est protector Ecclesiae52.) Garantia est tutum ab injuria praestare. Refugium est locus securitatis. Asylum est locus securitatis ex loci jure. Periculum est damni facilitas. Timor est damni probabilitas. Vereri, Metuere est cogitare damni possibilitatem. Minari est terrere conari seu metum facere quantum in se est. 33. 4. Labor est molestia in agendo. Nam non sentientium non est labor. Facile est cuius pauca sunt requisita. Facile enim aut difficile aliquid est etiam inanimatis. Difficile est potentiae tollere pondus in applicatione nuda, facile in machina. Minore enim potentia opus est, etsi tempore majore sed temporis jactura nulla est, ubi nihil mora amittitur. Facile etiam est quicquid multis modis fieri potest, ita enim nullus modorum est requisitus. Clarum est quod totum facile intelligi potest. Leve est quod facile sursum moveri potest.53 Durum est quod difficulter transfiguratur. (Morosus) est cuius verba gestusque minantur difficul[ta]tem conciliationis (Conciliare est benevolum facere), Torvus cuius vultus. Intricatum est catena difficultatum, seu cum nova difficultas incipit, antequam altera desinat. Id enim est (Catena). Perplexum est cuius plurium difficultatum una victa aliam facit, vicissim. vide dissert. de cas. perplex. in Jur. Nodus est subjectum perplexitatis. 50 noceri non potuit geändert in non est nocitum 51 nocitum est nachträglich geändert in nocetur aut damnum praestatur 52 vel communitatis 53 quod parum resistit, quod parum efficit. [p. 497] (Molle) est quod facile figuram recipit, et sponte servat. (Fluidum) est quod facile recipit, non servat figuram ullam nisi continuante figurae causa. (Elasticum) est quod non continuante causa figurae novae redit ad priorem. Humanitas est facilitas agendi cum hominibus; quatenus homines seu ratione praediti sunt. (Cicurem) esse est quaedam humanitas bestiarum sensu ipsis afficto seu humanitas apparens (uti vita est motus spontaneus apparens) brutorum. (Mansuetum) est cuius actiones dirigi possunt sine vi, quod manui assuevit an potius, quod tractari potest sine periculo laesionis voluntariae. Tractatio est aliquandiutina continua in aliquid actio. Vehemens est cuius actio est velox et efficax. Seu cuius effectus est celer et magnus. Saevum est quod sine periculo conatus laedendi tractari non potest. Crudele est sentiens cuius conatus laedendi durat ultra causam54 55, et est supra causam. Rude est quicquid per se incongruum, arte congruum factum non est. Congruum est quod ita conveniens est, ut nihil addi nec demi opus sit. Conveniens quid vid. sup. 9 infra 34. Asperum est cuius superficies lacerat. (Lacerare) est varie rumpere. Rumpere est solvere rem tenacem. Tenax est quicquid ante dissolutionem attenuat seipsum. Tensum est quod tenetur difficulter in spatio. Violare est contumeliam inferre per vim. Ita virgines, sacra, Leges, custodiae publicae, muri, violantur. Cum quis exemplo docet contemni posse. Erit ergo generalius Violare rem honorandam suo exemplo contemtam facere, etsi absit vis. Sed rectius, vim adjiciemus. Nam etiam vis generalius sumta ut solent pleraque corporalia altius assurgere ut et mentalibus tribui possint, est actus quo aliquid dissolvitur subito praeternaturaliter.55 54 durat ultra causam nachträglich, et versehentlich nicht gestrichen 55 praeternaturaliter nachträglich geändert in praeter naturam eius [p. 498] 34. 6. Congruum quid vide 9. 33. Gratum est quod sponte sua oblatum placet. Placet quod bonum apparet. Sympathia est eorum, quorum uno agente vel patiente insensibiliter alterum agit vel patitur. Seu est mutatio unius ad statum alterius, modo insensibili.56 Compatibilia sunt quae existere possunt eodem tempore in loco aliquo communi. Compossibilia sunt quorum uno posito alterum non sequitur tolli, seu quorum unum est possibile altero supposito. e.g. compossibilia sunt Eclipsin Aliquam ante novendecim annos fuisse, et nunc esse similem. Non vero fuisse ante decem annos, et nunc esse similem. Sed duae hae Eclipses etsi sint compossibiles non sunt tamen compatibiles quia non possunt esse eodem tempore. Est ergo compatibilitas rerum, compossibilitas propositionum. Rectum est quicquid regulae congruum est. Regere est motum determinare. Regula est instrumentum determinans figuram motus durante applicatione sui ad spatium.57 Circinus ergo non est regula. Circulus aliquis vel annulus solidus, si quis eo in describendo circulo uteretur, esset Regula. Norma est instrumentum determinandi plagam, seu objectum per mensuram. Registrum est instrumentum determinandi intensionem per extensionem. (Mensura) est instrumentum determinandi extensionem. (Gubernaculum) est instrumentum dans plagam motu suo. (Calcar) est instrumentum augendi celeritatem, vel etiam faciendi motum. (Frenum) est instrumentum minuendi motum vel etiam faciendi quietem. Apposite fit, quicquid ita recte fit sine regula, ac si regula factum esset. Nam quod ope regulae vel instrumenti fit, nemo laudat quasi apposite factum. Erit ergo appositum cuius artificiosa est rectitudo. 38. 7. Contraria sunt quorum effectus sunt incompatibiles. At inquies omne est nulli contrarium, non est non omni. Septentrio est meridiei contrarius non occidenti. Erit ergo contrarium dissimillimum, dissimillimorum effectivum. Nam terra est [p. 499] similior igni quam aqua, sed non dissimillimorum effectiva. Meridies septentrioni contrarius quia isti duo venti concurrentes se mutuo destruunt. Omne et nullum se tota destruunt. Antiperistasis est virium augmentum per contrarium. 39. 8. Necessarium est sine quo aliquid esse non potest. Contingens contra. De quo alibi. Casus est contingentia in effectis naturalibus. Fortuna in voluntariis. Quanquam in usu loquendi Casus vox sit generalis. Fortuitus sit casus qui bonus malusve est. Incidens est contingens inter agendum.
+
+### VI. Modi
+
+40. 1. Modus est status mutationis seu actionis vel passionis. Dicimus enim non modum auri, nisi habendi, tractandi. Status est aggregatum accidentium seu praedicatorum contingentium. Quemadmodum Forma est aggregatum qualitatum requisitarum sufficientium; et Essentia est aggregatum praedicatorum requisitorum, vel affectionum, scil. sufficientium. Subjectum quid, diximus supra. 14. Adjunctum est idem quod accidens attributum. Epitheton est accidens attributum sine copula. v.g. Eloquentissimus Cicero scripsit; eloquentissimus est Epitheton. Si dicam Cicero est eloquentissimus, non est Epitheton. 41. 2. Objectum sup. 14. 42. 3. Circumstantia est pars status, seu accidens (id est praedicatum contingens) mutationis. Ita Emtorem esse Titium accidit Emtioni, et ita quis est circumstantia; etsi Emtor in genere sit Emtioni necessarius. Ritus est circumstantia arbitraria communiter recepta cogitationum excitandarum causa. [p. 500] Caeremonia est ritus in colendo (sive homine sive DEo).58 Solennitas est Ritus multiplex publicus, publicus id est in multorum conspectu. 43. 4. Status vide 40. Conjuncture est occasio status plurium apti ad unum. Occasio inquam, nam si procuratum est non est conjunctura. 44. 5. Signum est quod nunc sentimus59 et alioquin cum aliquo connexum esse ex priore experientia nostra vel aliena judicamus. (Connexum) est quo posito aliud poni necesse vel probabile est. Non est ergo signum statim causa, potest enim et effectus esse. Nam et effectus signum est causam fuisse. Nec (conditio) adde supra 12, est signum. Conditionis enim connexio non ab experientia sed ratione pendet. Nota est signum cogitationis nostrae prioris, seu signum memoriale.60 Symptoma est morbus secundarius. Symbolum est signum factionis seu sectae, vel etiam consensus cuiusvis. Tessera est symbolum ab aliis inimitabile. Index est signum loci. Indicatio apud medicos est signum modi curandi. Hinc apud eos indicantia et contraindicantia. Sigillum est integritate sua signum alienae. Unde necesse est sigilla rupta esse difficilius reintegrabilia quam rem signatam. Universalius: Sigillum est perseveratione sua ultima signum alienae continuae. Possunt enim sigilla esse quae [p. 501] solvi non rumpendo possunt a sciente. Sunt sigilla non tantum ne quid aperiatur, sed et ne permutetur, ut impressa terrae sigillatae. Necesse est ergo sigillum ita factum esse ut mutatum difficilius restituatur in formam priorem quam sigillatum. Vestigium est signum locati relictum in loco. Cicatrix est vulneris vestigium. Insigne est signum personae arbitrio eius electum, sumtum plerumque ab insignibus id est notabilibus seu valde sensibilibus gestis eventisve ipsorum aut majorum. Insigne, si voce [generalius] utamur, non consistit tantum in pictura et armis, potest enim etiam nota esse literis impressa, v.g. semper praescribere literis + aut simile aliquid observare, quod nemo facile animadvertat. Res utilis ad vitandas falsificationes alienas, sed non ad proprias amovendas. Insigne etiam est signetum notarii, sic enim vocare quidam solent. Hoc fit apud nonnullos certis ductibus quibus manus assuevit. Idem potest plura insignia habere, pro variis personis quas sustinet. Ita insigne Hospitii, hospitis insigne est, sed quatenus hospitii personam sustinet. Significare est signum dare. Signatura est signum virium ex forma externa, seu qualitatum insensibilium (nisi effectu), ex sensibilibus. Crollius de rerum signaturis pleraque hic fabulosa. Specula est locus unde signum ex longinquo haberi aut in longinquum dari visu potest. Praesagium est signum futuri ex propria cogitatione fortuita. Omen ex facto. Portentum est signum futuri mirabile quodam horrore seu vehementi motu animum percellens. In prodigio plus mirabilitatis, minus horroris. Auspicium est signum eventus in incipiendo. Omnia haec divinatoria. Divinationes sunt omnes conjecturae de ignotis ex supposita DEi voluntate. Unde etiam signaturae rerum sunt quaedam divinationes nam supponunt DEum voluisse vires forma indicare ad utilitatem generis humani. Huc pertinent omnes [p. 502] conjecturae de simili ad simile seu sumtae ab harmonia, ut a pulchritudine hominis ad virtutem; physiognomica (nisi quousque experimentis firmantur), oneirocritica, Astrologica planetis enim certas facultates tribuunt harmonias quasdam suas secuti. Sortes sunt divinationes quae supponunt DEum invocatum maxime in rebus momenti nonnullis exauditurum. Sunt igitur hae voluntatis divinae futurae spes, caeterae, fiducia praeteritae. 46. 6. Successor est procurator seu vices, personam gerens non redituri. Quoties scil. antecessori debet. Si uterque eidem, ut Reipublicae, alia opus est definitione. Generatim ergo successor est qui ejusdem juris obligationisve subjectum est, cuius alius esse desiit. Nam et possessionis solius successor juris alicuius successor est. Substitutus est qui consensu superioris officii alicuius labores obit, cuius titulus penes alium est. Titulus inquam: Nam commoda interdum tota cedunt substituto, interdum dividuntur, interdum tota relinquuntur honorem gerenti, substituto vel aliunde contento, vel spe successionis aliisve rationibus se solante. Potest ergo quis habere substitutum, sed qui juribus privilegiisque iisdem non fruatur. (Supposititium) est quod ut alterius esse putetur quam cuius est arte effectum est. (Commissarius) est cui potestas onusque (id est Munus) cui autoritas apud alios data est investigandi negotium aliquod eius decidendi causa. Non ergo omnes habent potestatem decidendi. Sunt igitur internuncii omnes, quidam plenipotentiarii. (Deputati) sunt Collegium Commissariorum, selectum ex numero plurium Ordinariorum. (Judex delegatus) est Commissarius cum potestate decidendi. Judex datus est Commissarius cum potestate pronunciandi de quaestione facti. [p. 503] Mandata jurisdictio est potestas exercendi jurisdictionem alterius. Legatus est missus a possessore ad possessorem summae potestatis cum charactere, id est cum significatione mittentis, velle se ei honores aliquos alioquin indebitos exhiberi. Characteris ergo varii sunt gradus. Legatus ordinarius est Residens61 id est qui venit animo manendi quousque revocetur. Legatus extraordinarius est qui certorum negotiorum causa praeter solitum venit, cui proinde majores plerumque honores tribuuntur. Caeteri missi non nisi internuntii sunt, et tractantur pro conditione sua, aut voluntate recipientis, sic tamen ut nulla mittenti contumelia inferatur. Sunt autem rursus missorum non-Legatorum quidam gradus[,] abi enim tantum Tabularii sunt, et Portitores eorum quorum conscientia carent, vocantur Courriers, Cursores; aliorum munus est nunciare et renunciare, hi internuncii sunt atque hi indigent Credentialibus id est literis quibus significat mittens, velle se misso credi quae afferat mittentis esse. Tabellariis seu Cursoribus nihil creditur, sed literis. Aliorum munus est ad responsiones replicare, id est tractare, hi credentialibus indigent, nam etsi careant concludendi potestate, habent tamen audiendi potestatem, quam probare posse alioquin recipiens cogeretur cuique se offerenti secreta negotiorum aperire.62 Denique sunt qui concludendi quoque potestatem habent, hi non credentialibus tantum, sed et mandatis, id est potestate jus alienum transferendi declarata indigent, et hi quidem Plenipotentiarii dicuntur. Hactenus ad negotia missi: sunt et alii missi ad solennitates, gratulationes, condolentiae contestationes, acceptandas desponsationes, feudorum impetrationes, donorum oblationes, caeteraque honoris amorisve signa obeunda. Hos splendidos esse, ac proinde charactere insigniri etiam recipientis interest. Dummodo mittens nullos eis honores insolitos petat, et paratus sit eosdem63 honores Legato alterius quandoque pari splendore venturo praestare. Qui a summa potestate missi Legati dicerentur, a coetu publico alio missi (cui tamen ad summam potestatem solum jus, aut possessio deest) horum character 61 Am Rande: Male. Ita olim hodie nomina perverse mutata (H?) 62 Iidem in digent domi instructione. 63 aut proportione majores minoresve [p. 504] alius nullus est, nisi ut contumelia absit. Missi aliorum quorumcumque non nisi Tabellarii, Internuntii aut Mandatarii sunt. Summus gradus characteris est, ut is honor misso habeatur qui mittenti et quidem toto tempore durantis Legationis; proximus est, ut in certo actu. A maximis principibus ad maximos principes vix unquam aliquis hoc charactere mitti solet, solet a magnis ad minores. Et saepe idem Legatus qui apud principem magnum tabulae astat, mox apud minorem in summo accubat. A minoribus ad majores mitti aliquem cum summo charactere ineptum et inutile est, nisi ut humilitas mittentis fiat insignitior, nam non ideo meliore erit loco. Minorem hoc loco voco, cum virium comparatio sensibilis nulla est, eum nempe qui protegi et obrui potest, contra nocere aut juvare aliquo ad summam rerum momento per se non potest. Qui eodem charactere praediti sunt, eorum invicem ratio est quae mittentium; qui nullo, inter se ex propria persona censentur. Caetera ex consuetudine aut consensu mittentis recipientisque pendent. Et notandum est si nomen tantum Legati, Ambassadoris, Residentis vel simile tribuatur, ex consuetudine vel consensu jam tum de charactere satis constare. Vicarius est quisquis interim vices gerit eius cuius reditus expectatur. Procurator vices gerit, vices id est personam volentis. Negotiorum gestor personam non repraesentat. Curator personam repraesentat, est enim ordinatus a summa potestate, ut subditum repraesentet. Jam subditi voluntas in summae potestatis voluntate (regulariter) continetur. Institor est mandatarius in negotiando. Exercitor est64 * dominus navis, magister navis est velut institor exercitoris. Proxeneta est contractus causa impulsiva seu qui contractum persuadet. Potest ergo neutrius internuncius, ac proinde nec mandatarius esse. 47. 7. Reciprocum est cum duo bis correlata sunt eodem relationis genere, terminis permutatis. Alternatio est reciprocatio possessionis et privationis inter duos pluresve. [p. 505] 48. 8. Gradus est intensio determinata. Alias, potentiae quantitas. Intensio est quantitas inextensorum. Qualis est quantitas in puncto, in conatu. Impetus est quantitas conatus. Paroxysmus est impetus morbi cum natura animali certantis. 49. 9. Cognata sunt quorum causa est communis similisque.65 Porro filii quoque et nepotis causa est communis, nempe avus, cognati sunt ergo. Affinia sunt quorum effectus est communis similisque.66 Substitui pro generatione causationem. Communis autem interdum intelligitur qui est similis, quia saepe eadem dicuntur similia, ita novenarii et ter-ternarii eadem est quantitas, cogitatione non sensu. Propinqua sunt cognata vel affinia. Transscendentales Relationes Mixtae quoad quantitatem consideratam
+
+::: editorial
+
+(zu S. 495) 23 pulchritudo (1) morum (2) in vivendo L 23 est (1) pulchritudo in minu (2) decor L 26 verum et (1) certum (2) creditum L 30 Est ad (1) voluptatem (2) pulchritudinem L
+
+:::
+
+::: editorial
+
+(zu S. 496) 8f. probabilitas | Metus est damni possibi gestr. | Vereri L 9f. Minari ... est. erg. L 13 est | fortasse erg. u. gestr. | potentiae L 15 jactura (1) facilior (2) nulla L 20 gestusque (1) produnt (2) minantur L 25
+
+25 dissert. de cas. perplex, in Jur.. VI, 1 N. 9.
+
+:::
+
+::: editorial
+
+(zu S. 497) 1 facile (1) transfiguratur (2) figuramL 7f. apparens | (uti... apparens) erg. | (1) bestiarum (2) brutorum L 12 cuius (1) effectus (2) actio L 18 ita (1) aptum est (2) nihil nec addi (3) conveniens L 23f. spatio | ampliore gestr. | Violare L 26 suo | primum gestr. | exemplo L
+
+32 LEIBNIZ VI. 2.
+
+:::
+
+::: editorial
+
+(zu S. 498) 55 6 Commercium insensibile. 57 seu praeexistendo ante mobile 6 tempore (1) et loco (2) in loco L 16 motus | motum streicht Hrsg. | durante L 22 instrumentum (1) determinans (2) dans L 28 7. (1) Contrarium est contradictorium dissimillimum (2) Contraria L
+
+:::
+
+::: editorial
+
+(zu S. 499) 4 est (1) virtutis aug (2) virium L 11 Modi am Rande erg. L 12 Modus est (1) qualitas mutationis, seu actionis vel passionis. (2) status L 19 quod (1) praedicatum (2) accidens (a) praedicatum (b) attributum L 20 accidens (1) praedicatum (2) attributum L 27 circumstantia (1) arbitrio communi (2) arbitraria communiter L
+
+32*
+
+:::
+
+::: editorial
+
+(zu S. 500) 5 8 Colere est sibi bonum reddere conari, ita terram colere dicimur. 59 sentimus geändert in percipimus 60 Am Rand: Omne signum ex instituto supponit aliquod naturale, per quod institutio apparere possit. Infantes ergo non audiendo tantum, sed simul audita videndo aut alioquin sentiendo, id est non sine factis, verba discunt. 2-4 conspectu. | Complementum, Compliment estCircumstantia arbitraria cogitationum excitandarum causa, etsi non sint arbitrio communi receptae, nec proinde ritus. Uti insignia, tituli honorum, imagines maiorum. Pompa est complementum excitandarum cogitationum causa ad cogitandam (a) magnitudinem autoris (b) potentiam autoris. gestr. | 43. 4. Status L 7 Signum est (1) connexum cognitum. Id quod (2) quod ... alioquin L 7f. connexum esse (1) solere probabile est (2) est | cognitum streicht Hrsg. | (3) ex | priore erg. | experientia | nostra vel aliena erg. | (a) didicimus (b) judicamus L 14 morbus (1) id est (2) ortus signum primi. (3) secundarius L 15 vel etiam (1) amicitiae (2) consensus cuiusvis erg. L 21 sigillum est (1) duratione sua (2) integr (3) duratione sua (4) perseveratione L
+
+:::
+
+::: editorial
+
+(zu S. 501) 2 impressa (1) lignis, sed haec fortasse non sunt huius loci (2) terrae sigillatae L 9 generalibus L ändert Hrsg. 14 assuevit. Es folgen 71/2 nicht nur gestrichene, sondern offensichtlich unleserlich gemachte Zeilen, deren Inhalt die Darstellung eines Chiffrierverfahrens sein dürfte. Idem L 19 Crollius ... fabulosa erg. L 26 omnes (1) collectiones (2) conjecturae L
+
+19 Crollius: vgl. SV. N. 272.
+
+:::
+
+::: editorial
+
+(zu S. 502) 1f. seu ... harmonia erg. L 12f. cuius (1) honor (2) titulus L 13 est. (1) Honor (2) Titulus L 15f. solante. (1) Unde constat non esse capacia substituti officia, nisi (2) Potest etmunifex habere (3) Potest L 17f. fruatur. | Est ergo ejusmodi substitutus ÖQyavov êpyv%ov, non quoad arbitrium rerum gerendarum, non quoad fructus, sed nomen. gestr. | (Supposititium) est, quod ut (1) aliud putetur quam quod est arte effectum est. Potest vero suppositi (2) alterius L 19f. est. | Deputatus est Commissarius in rebus status. gestr. | (Commissarius) L 21 data est (1) aliquid quod investigatione indiget (2) investigandi L 21 aliquod (1) determinatum (2) eius L 22f. Sunt...plenipotentiarii. erg. L
+
+:::
+
+::: editorial
+
+(zu S. 503) 3f. aliquos (1) consuetos adhiberi (2) alioquin . . . exhiberi L l3 aperire. | Hi dicuntur Envoyez; posses dicere: Ablegatos Abgesandte. gestr. | Denique L 22 contestationes, (1) matrimonii (2) nuptiarum celebrationes, fidelitatis praestationes (3) acceptandas desponsationes L 28 deest) (1) dicuntur (a) Ablegati (b) similiter ablegati (2) horum L
+
+:::
+
+::: editorial
+
+(zu S. 504) 6 4 quasi 8 inutile est, (1) nam ne sic quidem meliore erit loco, (2) nisi L 19f. gestor (1) vires non (2) personam L 30 inter duos pluresve erg. L
+
+:::
+
+generalius et specialius. Generalius:
+
+### I. Generalius de quantitate
+
+50. 1. Indifferens est quicquid non consideratur, aut potius quicquid non est memorabile seu non cogitatur diutius quam sentitur. Notabile considerabile, quicquid cogitatur animo imposterum quoque cogitandi. Contemnitur cuius parvitas consideratur. Parvitas, scilicet efficaciae ad bonum malumve. Magnum (parvum) est, absolute, quicquid opinione de se prima majus (minus) est. Cum Gigantem video de quo mihi praedictum est, opinio quam ex sensu haurio, non est prima.67 Sed ea est prima, quam concepi cum diceretur mihi hominem aliquem adesse, vel cum alius mihi utcunque aliquid narraturum significaret. Opinione majus est, cuius idea ex sensu major est idea ex praesensione; seu Expectatione. Expectare est sic agere omnia scientem ac si aliquid futurum esset. 65 similisque nachträglich gestr. 66 communis similisque geändert in cognatus 67 Am Rande: Magnum est solito majus (H?) [p. 506] Largum est cuius latitudo et longitudo magna est. Amplum est cuius latitudo et profunditas magna est. Vastum est, cuius longitudo, latitudo et profunditas magna est. Ex tribus dimensionibus seu tribus maximis perpendicularibus in aliquo corpore ductis maximam quidam solent vocare longitudinem, minimam profunditatem, mediam latitudinem; quoties omnes omnibus aequales sunt aut latitudo alterutri (neque enim alia combinatio contingere potest) in arbitrio est quod cui tribuere nomen velis. Notandum tamen solere homines tum alias, tum maxime in casu paritatis longitudinem appellare lineam maximam per rem ductam parallelam lineae in homine ductae a dextro ad sinistrum, seu quam faciunt brachia quantum possunt extensa.68 Latitudinem parallelam maximam ductae per medium hominem, saltem per sensorium commune ab anteriore plaga ad posteriorem perpendiculari ad [Longitudinem]. Profunditatem parallelam maximam similiter ductae per medium hominem a summo ad imum parallelae ad utramque priorem. Quare re in naturali vel necessario situ constituta, id est cuius causa comparata est vel unde dimoveri non potest, qualis est scrinii erectus, quod tum ut dixi lineis humani corporis parallelum est, longum, latum, profundum appellatur. Sed si rem licet locare ut lubet, moris est hominibus a dextro ad sinistrum seu in longitudine, lineam maximam collocare, quia in eo situ extensis manibus res facilius tractantur, caeterae ergo latae profundaeve erunt per definitiones posteriores. Sin maxima non appareat minima appareat, minima locum dabunt profunditatis. Quia circuiri res facihus quam ascendi potest, malunt igitur latam quam altam esse. Sunt ergo posteriores longitudinis, latitudinis, profunditatis definitiones in usu populari universales, priores non nisi per accidens aliquando verae. * 68 Am Rande: Imo breit inter dextrum et sinistrum, hoch inter caput et pedes, dick antrorsum, si sit corpus. Imo lang: linea maxima in corpore ductilis, horizonti parallela. Hoch linea horizonti perpendicularis. [p. 507] Si quid Longum, Latum, Altum Profundumque, quemadmodum et magnum simpliciter dicitur, subintelligiturvalde. Dici etiam aliquid valde magnum potest, datur enim magnitudo magnitudinis, ut numerus numeri. Quia ratio rationis. Quantitas idem est quod ipsa rei totalitas69, seu qua quid dicitur totum. Totum est omnes partes. Est ergo quantitas partium omnitas. (Unum) cuius partes non considerantur impraesentiarum, seu a cujus partibus abstrahitur, est enim (abstrahere) ab aliquo, cogitare aliud cum hoc conjunctum sine animo recordandi huius impraesentiarum seu in ratiocinatione fine aliquo determinata. Abstractio est contemtus particularis, Contemtus abstractio universalis. Longo opponitur breve, humile alto vel profundo. Strictum lato. Angustum amplo. Angustum enim est transituro, in quo non consideratur longitudo seu via motus, quia non moraturum est, sed latitudo et profunditas. Arctum largo. Quia arcta res est incluso. Inclusum autem concipitur non jacere, sed stare, more animalium. Ergo necesse est habeat carcer altitudinem debitam, sed manus neque antrorsum neque retrorsum neque dextrorsum neque sinistrorsum explicare posse, molestum est. Minutum denique opponi potest vasto. Modicum est quicquid necessario nec majus nec minus est. Mediocre est quicquid non parvum magis quam magnum est. vid. 51. Capacitas est areae magnitudo, Area est inclusum extreme toti. Ambitus terminus totus maximi plani secantis. Planum illud in superficie unum, ipsa nimirum superficies, in corpore varium. Inane est in cuius area nihil sensibile est. Vacuum est, in cuius area nihil est. Crassum est amplum plenum. Laxum est quod largum fieri potest ex arcto. 51. 2. Mediocre vid. 50. est cuius nihil nec abundat nec deest. Abundat cuius pars necessaria non est. Deficit, cuius pars necessarium aliquod non est. Supervacuum est pars inutilis. Nimium est magnitudo damnosa. Parum est parvitas 69 Über ipsa rei totalitas: Numerus partium [p. 508] damnosa vel saltem: Nimium est magnitudo mala seu fugienda. Parum est parvitas mala seu fugienda: Parum enim est, etiam inefficax, etsi non damnosum. Justa est magnitudo appetenda aut conservanda. Multum est numerus magnus. Paucum parvus. Plenum est cui nihil addi potest. Copia est potestas eligendi. Taedium est molestia ex identitate seu diuturnitate cogitationum. Satietas est taedium ex voluptate. Parcus est qui parcit opibus suis. Parcere est nolle deteriorare cum faciendi ratio est. 51. 3. Sufficiens est necessariae magnitudinis. Paupertas est defectus commodorum non necessariorum ad animi tranquillitatem. Egestas est defectus externorum necessariorum ad animi tranquillitatem. 52. 4. Excellens est extraordinariae bonitatis. 53. 5. Aequalitas est identitas quantitatis. Majus est cuius pars alteri toti aequalis est, quod appellatur minus. 54. 6. Aequivalentia est aequalitas efficaciae. Melius est cuius bonitas major. Deterius cuius malitas major. 55. 7. Augmentatio est magnitudinis causatio. Diminutio parvitatis. Progressus est augmentatio viae. Incrementum est augmentatio molis. Extenuatio est opinionis de magnitudine deminutio falsa. 56. 8. Intensio est quantitas qualitatis. (vide tamen supra [48]). Remissio est parvitas qualitatis. 57. 9. Emendatio est deminutio malitatis. Depravatio augmentatio. Reparatio est augmentatio perfectionis aequalis deminutioni priori. Reformatio est mutatio cum praetextu70 emendandi. 70 über praetextu: titulo [p. 509] Correctio est emendatio facti mali. Restauratio (vid sup. [9]) est reparatio per simile. Impurum est depravatum mixtura. Corruptio est substantiae depravatio, seu mutatio substantiae in deteriorem.
+
+### II. Transscendentales mixtae Relationes concernentes
+
+::: editorial
+
+(zu S. 505) 5 quorum (1) effectus est (2) causa est communis | similisque erg. |. Porro L 14 Generalius de quantitate am Rande erg. L 16 non (1) consideratus ultra (2) cogitatur L 21 (parvum) erg. L 21 (minus) erg. L 26 omnia scientem erg. L
+
+:::
+
+::: editorial
+
+(zu S. 506) 1f. est. | id est longitudine non multum inferior. gestr. | Amplum L 2f. est. | id est (1) longitudo (2) latitudo longitudine; profunditas (a) utraque non (b) latitudine non multum inferior. gestr. | Vastum L 5 maximam (1) solemus (2) quidam solent L 8 tamen | quoties res est immobilis gestr. | solere L 13 Latitudinem L ändert Hrsg. 15 vel necessario erg. L 16 vel... potest erg. L 19f. quia ... tractantur erg. L 24 universales (1). At in definitione largi, ampli, vasti usus sum
+
+:::
+
+::: editorial
+
+(zu S. 507) (a) posteriori (b) prioribus nulla inconstantia cumadmoneatur. Quid ni enim ita liceat utivocibus commoditatis causa. Si reformatas definitiones mavis, ita habe. Vastum est cuius omnes tres dimensiones sunt longae. Amplum est (2) abjice tantum post (3), priores L 9 Abstractio . . . universalis. erg. L 10 profundo. (1) Schmahl lato (2) Strictum L 19 Area est (1) ambitus (2) inclusum L 24 quod (1) amplum (2) largum L 24 potest (1) seu amplificabile (2) ex L 25 est (1) non (a) magis (b) majus nec minus (2) cuius L 25 nec (1) supervacuum est (2) deest L
+
+:::
+
+::: editorial
+
+(zu S. 508) 1 u. 2 mala seu erg. L 4 aut conservanda erg. L 15 externorum erg. L 29 perfectio nis erg. L 29 priori erg. L
+
+:::
+
+quantitatem continuam
+
+58. 1. Longitudo est quantitas lineae. Brevitas est parvitas lineae. Compendiosum est parvum aequivalens magno. Linea est via puncti. 59. 2. Latitudo est quantitas superficiei. Strictum est cuius superficies parva est. Superficies est via lineae in transversum motae. Solidum seu corpus superficiei. In Transversum, id est ut pars non ingrediatur locum partis. Vox transversum non debet adjici puncto, quia nullae puncti partes. Corpus non potest moveri in transversum omnino. Unde nulla datur dimensio quarta. 60. 3. Profundum est cuius corpus magnum est. Rectius Longitudo est lineae a dextro ad sinistrum magnitudo, Brevitas ejusdem parvitas, Latitudo lineae 61. 4. ab anteriore ad posterius, Strictum itidem, profunditas a summo ad imum, altitudo ab imo ad summum. 62. 5. Crassities est amplitudo plena. Quanquam possit amplitudo definiri quantitas longitudinis latitudinis et profunditatis, et vastitas amplitudo valde magna. Longitudo hic erit: lineae maximae, profunditas minimae[,] latitudo mediae restitutis definitionibus de quibus supra [50]. An potius longitudo coincidere potest profunditati, ut in scrinio erecto. Erit ergo longitudo semper maxima linearum, in casu aequalitatis ducta a dextro ad sinistrum. Latitudo
+
+::: editorial
+
+(zu S. 509) 1 emendatio (1) erroris in agendo (2) facti (a) ex errore (b) mali L 4 seu .. . deteriorem erg. L 14 Solidum ... superficiei. erg. L 15— 17 Vox ... quarta. erg. L 18 Longitudo est (1) linea parallela (2) lineae L 22 Crassities (1) (vel ut supra nominavi amplitudo (2) est L 25—S. 510, 3 An ... contra. erg. L
+
+:::
+
+[p. 510] maxima caeterarum in casu paritatis parallela dextro ad sinistrum, quando longitudo hic non est; alioquin erit antrorsum. Crassities erit quod reliquum est. Profunditas vel altitudo semper a capite ad pedes vel contra.71

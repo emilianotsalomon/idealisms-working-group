@@ -1,0 +1,469 @@
+---
+title: Correspondance de Descartes et Beeckman (1619-1620)
+author: René Descartes
+year: 1897
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Œuvres de Descartes, publiées par Charles Adam et Paul Tannery, t. X (Paris, Cerf, 1897-1913); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: Wikisource's OCR text layer of the scan, long s restored by a lexicon and Haiku (at_longs_fix.py), then corrected (2026-11-01): the volume's own OCR error kinds by rule, misreadings inferred in context by Opus, doubtful places read on the scans, damaged pages transcribed; about 8% of words wrong on the measurable stretches of 12 random unproofread pages of the volume (14% before), against a Sonnet transcription; left: running-head debris, formula and table pages, some accents; the edition's 17th-century spelling kept, Latin kept as Latin; [p. N] are AT's pages, from Wikisource; the printed edition is the authority
+translation: none
+canonical: AT X:151-169
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Correspondance de Descartes et Beeckman (1619-1620) was written by an author who died in 1650, so before 1931; René Descartes (d. 1650) is long out of protection and the edition (1897) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 9313)
+---
+
+# R. Descartes, *Correspondance de Descartes et Beeckman (1619-1620)* (1897)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. 151] IV
+
+CORRESPONDANCE
+
+I.
+
+Descartes a Beeckman.
+
+Bréda, 24 janvier 1619.
+
+Copie MS., Middelbourg, Provinciale Bibliotheek Zeeland, Journal de Beeckman, /o/. 287 verso.
+
+Et acceptæ & expectatæ mihi fuerunt tuæ litterae», gavisusque sum primo intuitu, cùm Musicae notas inspexi : quo enim pacto te memorem meî clariùs ostenderes ? Aliud autem est quod etiam expectabam, 5 & præcipue : nempe quid egeris, quid agas, vt valeas. Neque enim scientiam solam, sed te ipsum, mihi curæ esse debuisti credere ; nec ingenium solum , etiamsi pars sit maxima, sed hominem totum.
+
+Quod ad me pertinet, desidiosus meo more, vix titu-
+
+10 lum libris, quos te monente scripturus sum, imposui.
+
+Neque me tamen ita desidiosum existimes, vt plane tempus inutiliter conteram; imò nunquam vtiliùs, sed in rebus quas ingenium tuum, altioribus occupa-
+
+8 Non à la ligne (MS.).
+
+a. Cette lettre de Beeckman, écrite d'abord à Descartes, n'a pas été retrouvée. Voir toutefois un passage du Journal, publié ci-avant, p. 61-62.
+
+�� � [p. 152] tum, haud dubie contemnet, & ex edito scientiarum cælo despiciet : nempe in Picturâ, Architecturâ mili- tari, & præcipue sermone Belgico. In quo quid prose- cerim, brevi visurus es : petam enim Middb"^, si Deus sinat, quadragesimâ ineunte^. 5
+
+Quod ad tuam quæstionem spectat, ipse solvis, nec melius potest. Vnum autem est, quod, opinor, non satis mediate scripsisti : nempe omnes saltus in vnicâ voce fieri per consonantias exactas ^ Distet enim nota A à nota D intervallo vniûs quintæ : necessariè dista- lo
+
+ILÂ ^ p_'
+
+A êO. C ioê. -D aùCt.ctS Boad \os eôt bit à C spatio vnius quartæ, non perfectae, sed qu?î deficiat vno schismate, vt demonstratur ex numeris appositis'^; quibus si vtaris, facillimè cuiuslibet toni exactam quantitatem invenies. Neque dixeris debere potius inter A & D esse quintam imperfectam, vt AC i5
+
+3 quo] qucd. — 4 Middb'. sic pro Middelbourg^. — 5 Ao;i à la ligne. — 8 niudiate \sic-.
+
+a. C'est-à-dire vers le milieu de février, le mercredi des cendres, premier jour du carême, tombant, cette année 1619, le 14 février.
+
+b. En marge, de la main de Beeckman : « Vocis viiiiis omhes saltus in » muficd an per exadas consonantias. "
+
+c. Voir ci-avant, pour les figures et les nombres, Compendium Musicæ, p. 126.
+
+[p. 153] Correspondance.
+
+��M5
+
+��sit vera quarta & exacta ; melius enim dissonantia ad- verteretur in tonis qui simul emitti debent, quàm in ijs qui successive. Quos existimo, saltem in vocali Musicâ & mathematice eleganti, nunquam ab vno confo-
+
+5 nantiee termine ad alium immediate pervenire, sed vehi suaviter per omne medium intervallum ; quod impedit ne vnius schismatis exiguus error distingua- tur. Idque me notasse memini in ijs, quee de dilTonan- tijs ante scripsi"; ad quæ si diligenter advertas & ad o reliquam meam Musicam, invenies omnia quæ de consonantiarum, graduum, & dissonantiarum intervallis annotavi, mathematice demonstrari, sed indigeste & confuse nimiumque breviter explicata.
+
+Sed de his hactenus. Aliàs plura. Interim me ama,
+
+5 & certum habe me Musarum ipsarum potius quàm tuî obliturum. Sum enim ab illis tibi perpetuo amoris vinculo coniunctus.
+
+��lO
+
+��Bredæ. 9° Kal. Feb. 1619.
+
+Het opfchrift was : A Monsieur Monsieur Ifaack Beeckman Docteur en Medicine à Middeb.
+
+��Du Perron.
+
+��8 mes nec, faute. — 13 Non à la ligne, mais petit intervalle en blanc. — 23 Medicine) Medicinæ,
+
+��mais £e peut aussi se lire e, la lettre a étant effacée. — 24 Middeb., sic pro Middelbourg.
+
+��a. Voir ci avant, p. 127-131.
+
+��Œuvres. V.
+
+��20
+
+�� �
+
+[p. 154] 1 54 Descartes et Beeckman.
+
+IL
+
+Descartes a Beeckman.
+
+Bréda, 26 mars 1619.
+
+Copie MS., Middelbourg, Provinciale Bibliolheek Zeeland, Journal de Beeckman, /o/. 288 recto et verso.
+
+Licebit saltem, opinor, vale mittere per epistolam, quod tibi discedens dicere non potui^. Ante 6 dies huc redij, vbi Musas meas diligentiùs excolui quàm vnquam hactenus. Quatuor enim à tam brevi tempore insignes & plane no vas demonstrationes adinveni, 5 meorum circinorum adiumento*".
+
+Prima " est celeberrima de dividendo angulo in
+
+6 Non à la ligne.
+
+a. Voir notre Avertissement, p. 24-25.
+
+b. Les compas, dont Descartes parle ici, étaient certainement semblables à ceux que Ton trouve dans sa Géométrie, t. VI de cette édition, p. 391 et p. 442-3. (Note de G. Eneström.) — Voir également ci-après, extrait des MS. de Leibniz, publiés par Foucher de Careil.
+
+c. En marge, de la main de Beeckman ; Cossica quædam Des Cartes. Cette expression Cojfica quædam se trouve ainsi expliquée par Christopho- Rus Clavius, surnommé par les Jésuites lEuclide de son siècle, Algebra (i" édit., Rome, i6o8 ; 2' édit., Orléans, 1609 ; 3"^ édit., Mayence, 1612), chap. II : « Numeri Cossici, siue Denominati, sunt numeri cuiuscunque » progressionis Geometricas ab vnitate incipientis. Primus terminus, id » est vnitas, Numerum absolutum & simplicem repraesentat. Secundus verò » terminus... vocatur Radix omnium sequentium, cùm ex eius multipli- » catione in seipsum procreetur tertius... Tertius deinde terminus... » dicitur Quadratus, seu Census vel Zensus. . . Quartus postea terminus » appellatur Cubus, etc.. Denominationes autem hae exprimuntur se- » quentibus characteribus : N (Numerus simplex & absolutus). 0^ (Radix. » Italis Res, vel Cosa.). §' (Zensus, llue Quadratus). [X, (Cubus.). JS* (Zen- » zizenlus, siue Quadratiquadratus). Etc. » \ remarquer le mot italien Cosa, traduit par Res, et interprété par Radix; de là viennent les expressions Cossici numeri et Cossici charaâeres.
+
+�� �
+
+[p. 155] Correspondance. i ^ ^
+
+æquales partes quotlibet. Très aliæ pertinent ad aequationes cub(ic)as : quarum primum genus est inter numerum absolutum, radices, & cubos ; alterum, inter numerum absolutum, quadrata, & cubos ; tertium de- 5 nique, inter numerum absolutum, radices, quadrata & cubos^ Pro quibus ^ demonstrationes repperi, quarum vnaquæque ad varia membra est extendenda propter varietatem signorum + & — . Quæ omnia nondum discussi ; sed facile, meo iudicio, quod in vnis repperi lo ad alia applicabo. Atque hac arte quadruplo plures quæstiones & longe difficiliores solvi poterunt, quàm communi Algebrâ ; i j enim diversa genera iequatio- num cubicarum numero % qualia tantùm sunt tria sequa- tionum communium : nempe inter i ^ &.0 7^ + ON,
+
+2 cub(ic)as] cubas. — 4 absolutum] abs. — 5 numerum absolutum] num. ab.
+
+a. Ces équations se traduisent ainsi en symboles modernes : ±.a±bx ~x\ ±.a±.bx' — x\ ±. a±: bx ±. ex' — x\
+
+a, b, c, étant des quantités connues positives. Mais il faut exclure les cas
+
+— a — t-r = x^, — a — bJi' = x', — a — bx — ex' = x^, parce que, pour un mathématicien du commencement du xvn^ siècle, une équation que ne vérifie aucune racine posiiive était impossible. (G. E.)
+
+b. Ceci se rapporte probablement à la construction géométrique des équations cubiques. Les mathématiciens de l'antiquité enseignaient déjà de telles constructions, et Descartes en donnera plus tard un exemple dans sa Géométrie, t. VI. p. 465. (G. E.)
+
+c. En combinant, de toutes les manières possibles, les signes -j- ei — des trois équations signalées ci-dessus (note a), on obtient seize cas, et en ex- cluant les trois cas impossibles, il en reste treize. Ces treize cas avaient été indiqués expressément déjà par le mathématicien persan Omar AlkhayamJ (y 1 123), et Cardano en parle dans son Ars magna, en i545. (G. E.)
+
+d. L'expression cequatio communis signifie « équation du second degré », et les trois espèces dont parle Descaries, sont, en notations modernes :
+
+x' = ax -\- b, x' =z ax — b, x' ^^ b — ax. Pour les mathématiciens du commencement du xvii< siècle, une équation
+
+�� �
+
+[p. 156] 1^6 Descartes et Beeckman.
+
+\e\ 0% — ON, vel denique ON — O T^- Aliud est quod iam quaero de radicibus simul ex pluribus varijs nominibus compositis extrahendis" ; quod si reperero, vt spero, scientiam illam plane digeram in ordinem, si desidiam innatam possim vincere, & fata liberam vitam indulgeant .
+
+Et certe, vt tibi nude aperiam quid moliar, non Lullij Artem brevem", sed scientiam penitus novam "^
+
+2 Correction de G. E. — (MS.) : de pluribus radicibus llniui ex varijs. — 6 NoJi à la ligne.
+
+qui n'a point de xac\nt positive, était une équation impossible ; et pour cette raison, le quatrième cas, savoir
+
+x' = — ax — b,
+
+dont les racines sont ou négatives ou imaginaires, n'est pas mentionné par Descartes.
+
+Les notations dont il se sert ici sont à peu près celles de Chr. Claviis [Algebra, Aurelianas Allobrogum, M.DCIX, p. 7). Seulement Clavr-s écrit (Ibid., p. 67) : æquatio inter "^ & '^-\- N, p^sur x" — ax -- b. La notation de Descartes, O "^ -\- ON, ou O signifie évidemment une quantité quelconque connue, peut être considérée comme un petit progrès. Ce signe O est probablement un zéro, et il a le même but que les points que Descartes utilisera plus tard dans sa Géométrie {vo\x t. VI de cette édition, p. 457), c'est-à-dire de marquer la place d'une certaine .^uantité dépendant de la question dont jl s'agit.
+
+Le fait que Descartes emploie, en 1619, les notations de Clavus, et non pas celles de Ramus ou de Viète, est très intéressant, parce qu'il semble indiquer la source oli notre philosophe aurait puisé ses connaissances mathématiques. S'il avait étudié les écrits de Viète, il aurait pu éviter l'emploi du même signe O pour deux quantités en général différentes. (G. E.) . a. Il s'agit de l'extraction des racines de quantités de la forme a + [/b+[/~c+ ... Les termes : de radicibus Simul ex varijs nominibus compositis extrahenJis, peuvent se traduire ainsi : sur l'extraction des racines d'une somme de quantités incommensurables entre elles. (G. E.)
+
+b. Voir ci-avant, p. 88, I. 11, et p. 141, 1. 10.
+
+c. Voir ci-avant, p. 63, note c.
+
+d. En marge, de la main de Beeckman : Ars generalis ad omnes quce- Jliones folvendas qucejita.
+
+[p. 157] Correspondance. 1^7
+
+tradere cupio, quà generaliter solvi possint quæstiones omnes, quæ in quolibet genere quantitatis, tam continuæ quàm discretæ, possunt proponi. Sed vna- qugeque iuxta suam naturam : vt enim in Arithmeticâ 5 qucedam quæstiones numeris rationalibus absolvuntur, aliæ tantùm numeris surdis% aliæ denique imaginari quidem possunt, sed non solvi: ita me demonstraturum spero, in quantitate continua, quccdam problemata ab- solvi posse cum solis lineis rectis vel circularibus; alia
+
+10 solvi non posse, nisi cum alijs lineis curvis, sed quæ ex vnico motu oriuntur, ideoque per novos circinos duci possunt, quos non minus certos existimo & Geome- tricos, quam communis quo ducuntur circuli ; alia denique solvi non posse, nisi per lineas curvas ex dii5 versis motibus sibi invicem non subordinatis genera- tas, quæ certe imaginariæ tantùm sunt : talis est linea quadratrix, satis vulgata. Et nihil imaginari posse existimo, quod saltem per tales lineas solvi non pos- fit ; sed spero fore vt demonstrem quales quæstiones
+
+20 solvi queant hoc vel illo modo & non altero : adeò vt pene nihil in Geometriâ supersit inveniendum ". Infinitum quidem opus est, nec vnius. Incredibile quàm ambitiosum ; sed nescio quid luminis per obscurum
+
+I polTint] possunt. — -2 1 â 2, Entre ces deux mots, aucune p. i58, Infinitum... existimo. ponctuation (MS.).
+
+a. « Numeri furdi », nombres irrationnels (G. E.).
+
+b. Probablement Descartes a en vue des équations de degré supérieur à quatre. Le mot imaginari ne semble pas devoir être interprété comme ayant trait à des racines imaginaires. (G. E.)
+
+c. Pour tout ce passage, ita me demonstraturum... inveniendum, 1. 8-22, comparer ce que dit Descartes sur le même sujet dans sa Géométrie, t. VI, p. 388-390.
+
+�� �
+
+[p. 158] 158 Descartes et Beeckman.
+
+hujus scientiæ chaos aspexi, cujus auxilio densissimas quasque tenebras discuti posse existimo.
+
+Quod ad peregrinationes meas attinet^, nupera fuit felix ; eoque felicior, quo visa'est periculosior, præsertim in discessu ex vestrâ insulâ^. Nam prima die 5 Vlessigam redij, cogentibus ventis ; sequenti verò die, perexiguo conscenso navigiolo, adhuc magis iratum mare sum expertus, cum majori tamen delectatione quàm metu. Probavi enim me ipsum, & marinis flucti- . bus, quos nunquam antea tentaveram, absque nauseâ ([10]) trajectis, audacior evasi ad majus iter inchoandum. Nec subitanei Galliæ ([c]) motus institutum meum mu-
+
+2 Non à la ligne.
+
+a. En marge, de la main de Beeckman : Peregrinatio Des Cartes præ- concepta.
+
+b. L'île de Walcheren, dont Middelbourg occupe le centre. Descartes s'était rendu de là à Flessingue (Vlissingen, port d'embarquement pour Bréda, Dordrecht, etc.).
+
+c. Sic. Lire plutôt Germaniæ. Rien de grave, en effet, ne s'est passé en France, les mois de février et mars 1619, tandis qu'en Allemagne l'empereur Mathias mourut le 20 mars. Mais, dès l'année précédente, on avait refusé, à Prague, de reconnaître comme roi de Bohème et successeur à l'empire son cousin-germain Ferdinand d'Autriche : les gouverneurs au- trichiens furent jetés par les fenêtres du château, le 23 mai 1618. Les Etats de Bohème levèrent deux armées, dont ils donnèrent le commande- ment au comte de Thurn et au comte de Mansfeld. L'empereur Mathias leur opposa le comte de Dampierre et le comte de Bucquoy avec deux armées également. L'année 16 18 se passa en expéditions et escarmouches. Mais les Etats de Bohême tâchèrent de gagner à leur cause leurs deux voisins, l'électeur de Saxe et l'électeur Palatin ; ils écrivirent même au duc de Bavière, pour lui demander de ne point permettre le passage par ses terres à un secours de 8,000 hommes de pied et 2,000 chevaux, envoyés des Pays-Bas par l'archiduc Albert, pour l'empereur Mathias, puis pour Ferdinand. Le duc de Bavière, non seulement donna le passage aux troupes venues de Flandre, mais il en leva de son côté pour assister la Maison d'Autriche. (A. Baillet, Vie de Monsieur Des- Cartes, t. l, p. 60-61.) — Ce sont ces mouvements de troupes, des Pays-Bas espagnols
+
+�� �
+
+[p. 159] Correspondance. i 59
+
+tarunt ; tamen detinent aliquandiu. Non enim ante tres hebdomadas hinc discedam ; sed spero me illo tempore Amsterodamum petiturum, inde Gedanum, postea per Poloniam & Vngariae partem ad Austriam 5 Bohemiamque perveniam ; quæ via certe longissima est, sed, meo iudicio, tutissima. Præterea famulum mecum ducam, & fortasse comites mihi notos ; quod scribo, ne pro me metuas, quia diligis. Pro certo autem ante decimum quintum Aprilis hinc non disce-
+
+10 dam. Ipse videris vtrum ante illud tempus à te possim habere litteras ; alioqui enim accepturus non sum forte à longo tempore. Quod si scribas, de Mechanicis nostris" mitte quid sentias & vtrum assentiaris mihi.
+
+i5 Cogitavi ^ etiam, Middelburgo exiens, ad vestram navigandi artem, & revera modum inveni quo possem, vbicunque gentium deferrer, etiam dormiens & ignoto tempore elapso in meo itinere, ex solâ astrorum in- spectione agnoscere quot gradibus versus Orientem
+
+20 vel Occidentem ab aliâ regione mihi nota essem remo- tus. Quod tamen inventum parum subtile est, ideoque difficulter mihi persuadeo à nemine hactenus fuisse excogitatum ; sed potius arbitrarer propter vsûs diffi-
+
+14 Non à la ligne. — iG quo] quod {faute?).
+
+jusqu'en Bavière, qui firent prendre à notre philosophe un autre itinéraire : tutius iter, dira-t-il plus loin, nec à militibus prœdonibus occupatum.
+
+a. S'agit-il simplement de l'écrit envoyé en décembre 1618, et qui se trouve imprimé ci-avant, p. 67-78 (Beeckman a dit d'ailleurs ce qu'il en pensait, dans son Journal, p. 58-6i, ci-avants ? ou bien d'un autre écrit, lequel serait perdu ? — Voir, en tout cas, p. 67, 1. 7.
+
+b. En marge, de la main de Beeckman : Oost en west te Seylen a Des Cartes inventum.
+
+�� � [p. 160] i6o Descartes et Beeckman.
+
+cultatem fuisse neglectum. In instrumentis enim ad id vtilibus vnus gradus major non est quam duo minuta in alijs^ instrumentis, ad altitudinem poli inda- gandam ; ideoque tam exacta esse non possunt, cùm tamen etiam Astrologi minuta & secundas, atque adhuc 5 minores partes, instrumentis suis metiantur. Mirarer profecto, si nautis talis inventio videretur inutilis, in quâ aliud nullum occurrit incommodum. Ideoque scire vellem exactius, vtrum simile quid non sit inventum; & si scias, ad me scribe : excolerem enim con- 'o fufàm adhuc in cerebro meo speculationem illam, si æque novam suspicarer atque certa est.
+
+Interim me ama, vive feliciter & vale. Adhuc a me litteras accipies ante discessum.
+
+Bredæ Brab., s Kal. Aprilis. i5
+
+Tuus si suus
+
+Du Perron. Het Opfchrift ivas :
+
+A Monsieur Monsieur Isaac Beeckman 20
+
+Docteur en médecine inden twe hanen bij de beestemarckt^ à Middelburgh.
+
+12 e/ 14 Non à la ligne.
+
+a. Cette maison de Beeckman, où demeuraient ses parents, se voit encore à Middelbourg, dans la Hoogstraat, I, 126, non loin, en effet, du mar-clié aux bestiaux, Beestenmarkt, et tout près du marché aux porcs, Varkensmarkt. Mais l'enseigne « Aux deux Coqs » a disparu.
+
+�� �
+
+[p. 161] Correspondance. i6i
+
+III.
+
+Descartes a Beeckman.
+
+Bréda, 20 avril 1619.
+
+CopiK MS., Middelbourg, Provinciale Bibliotheek Zeeland, Journal de Beeckman, /o/. 290 verso.
+
+Nolui hunc nuntium ad vos mittere sine litteris, etsi iam multa scribere non vacet. Sed peto saltem vt < per > hunc, qui famulus est meus, ad me rescribas : vt vales, & quid agis, vtrum in nuptijs adhuc, sed iam 5 non alienis, sis occupatus^ .'^ Hinc discedam die Mercurij proximâ^, statim atque istinc nuntius ad me redierit. Plura scripsi ante tres hebdomadas. Vale & me ama.
+
+Bredæ Brabant., 12 Kal. Mai], 1619.
+
+Tuus æque ac suus
+
+'o Du Perron.
+
+H et Opfchrift was :
+
+A Monsieur
+
+Monsieur Isaac Beeckman,
+
+inde twee haenen bij de
+
+i5 beestemarckt
+
+à Middelb.
+
+3 <per>, omis (MS.). — 6 irtinc] hinc.
+
+a. Isaac Beeckman se maria lui-même l'année suivante, le 20 avril 1620. {'Journal MS , folio 179 recto.)
+
+b. C'est-à-dire le 24 avril 1619. Le départ de Descartes fut retardé de quelques jours : en réalité, il ne s'embarqua que le 29 avril (voir ci-après, p. 165,1.24).
+
+c. Lettre précédente, du 26 mars, ^ laquelle Beeckman n'avait sans doute pas encore répondu. Ou bien une autre lettre (perdue), du 3o mars (pour faire exactement trois semaines) ?
+
+Œuvres. Y. ■- ai
+
+�� �
+
+[p. 162] 102 Descartes et Beeckman.
+
+IV.
+
+Descartes a Beeckman.
+
+Bréda, 23 avril 1619.
+
+Copie MS., Middelbourg, Provinciale Bibliotheek Zeeland, Journal de Beeckman, /o/. 2go recto.
+
+Accepi tuas litteras pene eâdem die quâ scriptae sunt, noluique hinc discedere, quin semel adhuc epi- stolâ duraturam inter nos amicitiam renovarem. Ne tamen iam aliquid à Musis nostris expectes : iam enim peregrinatur animus, dum me ad viam die crastinâ 5 ingrediendam accingo^. Adhuc incertus sum
+
+. ^.quo fata ferant, vbifijîere detur^.
+
+Nam belli motus nondum me certo vocant ad Germaniam'^, suspicorque homines quidem in armis fore multos, prælium verò nullum. Quod si ita sit, interim 10 in Danià, Poloniâ & Hungariâ spatiabor, donec in Germanià, vel tutius iter nec à militibus prædonibus occupatum, vel bellum certius possim nancisci. Si alicubi immorer, vt me facturum spero, statim tibi ' polliceor me Mechanicas vel Geometriam digeren- i5 dam suscepturum, teque vt studiorum meorum pro- motorem & primum authorem amplectar.
+
+Tu^ enim revera solus es, qui desidiosum excitasti,
+
+17 Non à la ligne (MS.).
+
+a. Voir lettre précédente, p. 161, 1. 5-6.
+
+b. Virgile, y£'«., III, 7.
+
+c. Voir ci-avant, p. i58, 1. 14, note c.
+
+d. Ibid., p. iSg, 1. i2-i3.
+
+e. En marge, de la main de Beeckman : Des Cartes de me.
+
+�� �
+
+[p. 163] Correspondance. i6j
+
+iam è memoriâ pene elapsam eruditionem revocasti, & à serijs occupationibus aberrans.ingenium ad me- liora reduxisti. Quod si quid igitur ex me forte non contemnendum exeat, poteris iure tuo totum illud 5 reposcere ; & ipse ad te mittere non omittam, tum vt fruaris, tum vt corrigas. Vt nuperrime^, de eo quod ad te circa rem nauticam scripseram^; quod idem, quasi divinus, ad me misisti : eadem enim est tua illa de Lunâ inventio". Quam tamen quibusdam instrumentis
+
+>o facilitari posse arbitrabar, sed perperam,
+
+Quod ad cætera quæ in superioribus '* me invenisse gloriabar, vere inveni cum novis circinis, nec deci- pior. Sed membratim non ad te scribam, quia integrum opus hac de re meditabor aliquando, meo iudi-
+
+«5 cio, novum nec contemnendum. Iam autem ab vno mense non studui, quia scilicet ingenium illis inventis ita exhaustum fuit, vt ad alia, quæ adhuc quærere
+
+10 Non à la ligne.
+
+a. Lettre du 26 mars. Ci-avant, p. 1 59, 1. 1 5.
+
+b. En marge, de la main de Beeckman : « Oost en west non inventum. »
+
+c. Dans le Journal de Beeckman, année 1614, on trouve déjà un article intitulé : « Ooji en west per motum Lunce. — Idem fieri potest, si quàm » exactissime locum lunæ in aequinoctiali observes, cujus fundamentum est » quòd singulis diebus i5 gradibus luna ad orientem retrogradiiur. Si » enim noveris, quota horâ domi tuæ luna aliquem gradum aequinoctialis » lineas ingressura sit, visa ea significabit tibi quota sit hora domi tuje hoc » tempore quo observaveris horam loci navis tuæ; differentia verò tem- » poris vtriusque indicabit, quanto navis domo tuâ sit vel orientalior vel » occidentalior. Quia autem luna i5 duntaxat gradibus diebus singulis » variat, exactissimâ opus fuerit observatione, nisi tubus ocularis aliquo » pacto hune laborem levare posse'speraveris. » [Fol. ly verso, col. i, 1. 15-34.) — Cet article est précédé immédiatement d'un autre, qui a déjà pour titre : Oost en weji te Seylen. (Fol. 17 recto, col. 2, 1. 41. — Ib., verso, col. i, 1. 14).
+
+d. Même lettre du 26 mars, p. 154, 1. 4 et suiv.
+
+�� �
+
+[p. 164] 164 Descartes et Beeckman.
+
+destinaveram, invenienda non suffecerit. Sufficiet autem ad memoriam tuî perpetuè conservandam. Vale.
+
+9" Kal. Maij 1619.
+
+Tuus æque ac suus
+
+Du Perron. 5
+
+H et Opfchrift was :
+
+A Monsieur
+
+Monsieur Isaac Beecman,
+
+inde twee haenen bij de
+
+beestemarckt, 10
+
+à Middelborgh.
+
+V.
+
+Descartes a Beeckman.
+
+Amsterdam, 29 avril 16 19.
+
+Copie MS., Middelbourg, Provinciale Bibliothcek Zeeland, Journal de Beeckman, /t>/. u8y recto.
+
+Nolo vllam ad te scribendi occasionem omittere, vt & meum erga te affectum atque recordationem nullis viæ occupationibus impeditam demonstrem.
+
+Repperi nudius tertius eruditum virum in diver- i5 forio Dordracensi, cum quo de LuUi arte parva sum loquutus : quâ se vti posse gloriabatur, idque tam feliciter, vt de materiâ quâlibet vnam horam dicendo posset implere ; ac deinde, si per aliam horam de
+
+14 Nou à la ligne (MS.). — 16 LuUi sic [et non LuUij).
+
+a. « Parva », sic dans le MS. Mais le copiste a-t-il bien lu ? Et le texte original de Descartes ne portait-il pas plutôt brevi? Dans une précédente leure du 26 mars, on lit : Lullij artem brevem. Voir ci-avant, p. iSj, 1. i.
+
+�� �
+
+[p. 165] Correspondance. ' 16ç
+
+eâdem re agendum foret, se plane diversa à præce- dentibus reperturum, & sic per horas viginti consequenter^ Vtrum credas, ipse videris. Senex erat, aliquantulum loquax, & cujus eruditio, vtpote à libris
+
+5 hausta, in extremis labris potius quàm in cerebro versabatur.
+
+Inquirebam autem diligentius, vtrum ars illa non consisteret in quodam ordine locorum dialecticorum vnde rationes desumuntur; & fassus est quidem, sed
+
+10 addebat insuper nec Lullium nec Agrippam"^ claves quasdam in libris suis tradidisse, quæ necessariæ sunt, vt dicebat, ad artis illius aperienda secreta. Quod illum certe dixisse suspicor, vt admirationem captaret ignorantis, potius quàm vt vere loqueretur.
+
+15 Vellem tamen examinare, si haberem librum ; sed cùm tu habeas, si vacet, examina, quæso, & scribe vtrum aliquid ingeniosum in arte illà reperies. Tantùm ingenio tuo fido, vt certus sim te facile visurum qualia illa sint, si quæ tamen sint, omissa illa puncta
+
+20 ad aliorum intelligentiam necessaria, quæ claves vocat. Atque hæc ad te scribere volui, ne vnquam de eruditione tecum non loquar, quia postulas. Quod si idem à te exigam, ne graveris, si placet.
+
+Hodie navim conscendo, vt Daniam invisam ; ero
+
+2 5 aliquandiu in vrbe Coppenhaven, vbi à te litteras
+
+6, 14^/23 Non à la Ugue (MS.).
+
+a. Voir une anecdote toute semblable (trop semblable même), et dont Descartes, cette fois, serait le héros, rapportée par Pierre Borel, à la date de sept, ou oct. 1628. Nous avons cité tout le passage, t. I, p. 217.
+
+b. En marge, de la main de Beeckman : LtiUij ars. Voir ci-avant, p. 63 (xv), et ci-après, lettre V bis, p. 167-168.
+
+c. Voir ci-avant, p. 64, note a.
+
+�� � [p. 166] i66 Descartes et Beeckman.
+
+expecto. Singulis enim diebus hinc eô naves exeunt, & licet hospitij mei nomen ignores, tamen ita dili- gens ero ad inquirendum vtrum ad me qui nautae litteras ferant, vt amitti in via < non > facile possint. Cura, quaeso, reddi statim litteras meas his adiunctas 5 Petro vander Mereck ^. Nec tamen plura, nisi vt me ames & sis felix. Vale.
+
+Amsterodami, 29 Aprilis 1619.
+
+Tuus vt suus H et Opschrift was : Du Perron. 10
+
+A Monsieur Monsieur Beecman Docteur en Medicinae à Middelb.
+
+4 < non > omis. — 7 Non à la ligne.
+
+a. On connaît deux frères Van der Merci, Hans ou Jan, et Pieter, nés tous deux à Anvers, le premier en 1551, le second en 1 552. L'un et l'autre se marièrent à Anvers, et épousèrent probablement les deux sœurs : l'aîné, Elisabeth Hendricksdr., et le cadet, Johanna Hendricksdr. van Breuse- chem. Ils émigrèrent sans doute lors du siège d'Anvers par les Espagnols, 1 584-1 586, et vinrent d'abord à Dordrecht; puis ils s'établirent, Jan à Amsterdam, et Pieter à Middelbourg. Ce fut là que celui-ci perdit sa femme, 9 septembre 1589; qu'il se remaria, 7 novembre 1594; et qu'il mourut lui-même, 17 octobre 1616 ; sa seconde femme y mourut également, i5 octobre 16 17. Ce Pieter senior avait eu de son premier mariage un fils, Pieter van der Merct junior, né à Dordrecht en 1587, mais que ses parents emmenèrent presque aussitôt à Middelbourg, où il passa toute sa vie. Son nom se trouve au registre des mariages de l'Eglise réformée de Middelbourg, pour les accordailles, 19 septembre 161 5, et le mariage lui-même, 21 octobre 161 5 : il épousa Sara de Fraey, d'Amsterdam, fille de Hans de Fraey, d'Anvers, et de Sara Potay, de Londres. Pieter van der Merct junior mourut à Middelbourg, 28 janvier 1625. Sa veuve figure, à la date du 26 novembre, sur le livre des orphelins, Weesboeken, avec trois enfants, Janneken, Pieter et Igut, âgés de six, quatre et deux ans. Le père est qualifié de marchand, coopman. Voilà tout ce que l'on sait de ce correspondant de Descartes. Ajoutons que Beeckman ne le mentionne nulle part ailleurs dans son Journal. (Note de C. de Waard.)
+
+�� �
+
+[p. 167] Correspondance. 167
+
+V bis. Beeckman a Descartes.
+
+Middelbourg, 6 mai 1619.
+
+Copie MS., Middelbourg, Provinciale Bibliotheek Zeeland, Journal de Beeckman, fol. 389 verso.
+
+Accepi tuas litteras, inclusasque tradidi Petro vander Marck^ ^ Sicut ad me scripseras . Quanquam autem nihil est quod tibi respondeam, ut tamen scias me tuas accepisse, hæc pauca addidi. 5 Scribis^ te Dordraci doctum hominem reperisse, quem tamen postea nolis doctum dici ob vnicam cognitionem artis Lullianæ, quam præ se ferebat Rogas me, vt commentaria Agrippæ diligenter evolverem atque claves quas vocabat senex tuus expiscarer, quibus ars illa aperitur ab
+
+10 Agrippa aut ipso Lullio, arti huic non adiunctas, ne quis temere eius peritus foret ; adeo enim fidis ingenio meo, vt me, si quid in hac arte lateat, non possit latere volentem diligentius commentarijs incumbere'^. Ac certe tibi obtem- perarem, amico meo non vulgari, nisi temporis angustia id i5 prohiberet Vereor enim ne tam diu possis morari a Cop- penhagen, cùm litteræ sæpius in via diu hæreant, ante- quam ad locum quo missæ sunt perveniant.
+
+Ad hæc, nisi mihi plane exciderit quod ante aliquot
+
+4et 1-] Non à la ligne (MS.)- position française). Voir aussi — 16 à sic, avec l'accent [pré- p. 166, l. I4,p- 164, l. 11, etc.
+
+a. Voir lettre précédente, p. 166, 1. 6.
+
+b. En marge, de la main de Beeckman : Lullij ars.
+
+c. Voir ci-avant, p. i65, 1. i5-2i, et p. 63-65.
+
+�� � [p. 168] i68 Descartes et Beeckman.
+
+annos hac de re conceperam ex superficiariâ lectione horum Agrippæ commentariorum, non sunt claves hæ longe petendæ ; ex ipso enim Agrippa, si nuper voluisses, ipse ad amussim eas percepisses. Nam omnia quæ sunt, dividit in generales locos, hosque Singulos iterum subdividit in 5 alios, adeo vt nihil rei cogitari possit, quin in hisce cir- culis generaliter & specialiter non contineatur ; tandem diversorum circulorum locos Sibi mutuo per litteras con- iungit. Atque ita, quâvis re propositâ, per combinationem omnium terminorum protrahi, poterit tempus dicendi ad \o injinitas pæne horas ; sed necesse est, dicentem multarum rerum esse peritum, ac diutius loquentem multa ridicula & ad rem parum facientia dicere, ac demum totaliter phantasiam fieri totamque mentem adeò characteribus litterarum affigere, vt vix aptus sit ad solidi quid medi- i5 tandum . Hæc hac de re sufficiant, nisi tu aliud quid velis.
+
+Det Deus, ut aliquamdiu vnà vivamus, Studiorum cam- pum ad vmbilicum vsque ingressuri. Interim valetudinem tuam cura, atque esto prudens in toto itinere tuo, ne Solam 20 praxim eius scientiæ quam tanti facis, videaris ignorare. Memento meî tuæque Mechanicæ conscribendæ^ ; soles enim promissis tuis examussim stare, præsertim ijs quæ litteris mandasti. Vtinam ijsdem & tempus credidisses! Versaris iam in vrbe præcipuà eius regni ; vide ne quid 2 5 ibi sit scientiæ quod non examines, aut vir doctus quem non convenias, ne quid boni in Europâ te lateat, aut potius vt
+
+17 Non à la ligne, — 20 itinere 1 itenere.
+
+a. Voir ci-avant, p. 64, note a.
+
+b. Ib., p. 162, 1. 15.
+
+�� �
+
+[p. 169] Correspondance. 169
+
+rationem tuî ad reliquos doctos intelligas . Ego valeo. Pridie Nonarum Maij 1619, Stylo novo".
+
+Venit huc è patriâ tua Gallus quidam elegantissimas artes publice professus, fontes perpetua ab eâdem aquâ 5 salientes, bellica, medica, rei familiaris augmentum in pane multiplicando, cùm ipse foret rerum omnium egenus. Hunc conveni, & examini subiectum, omnium rerum fere ignarum comperi, etiam eorum quæ profiteretur. Itaque hîc rem non faciet, estque ad borealiores re{le)gandus, vbi 10 crassa ingenia deceptionibus & præstigijs magis patent.
+
+Tuus vt suus
+
+Isack Beeckman.
+
+Het opschrift was : A Monsieur 15 Monsieur René Du Perron estant in Denemarcken port. Coppenhaghen^.
+
+2 Non à la ligne. — 7 examini] exanimi. — 9 re{le)gandus] re- gandus.
+
+a. Voir ci-avant, p. 46, note b.
+
+b. Cette lettre parvint-elle à son adresse ? On ne sait. Toujours est-il que les relations entre Descartes et Beeckman furent interrompues, au point qu'en 1628 Descartes, revenu en Hollande, s'en fut d'abord à Middelbourg pour retrouver son ami, ne sachant pas qu'il avait été nommé à Utrecht, 26 novembre 1619, à Rotterdam, 37 novembre 1620, et finalement à Dordrecht, mai 1627.

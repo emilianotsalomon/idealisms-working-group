@@ -1,0 +1,1009 @@
+---
+title: Versuch einer möglichst faßlichen Darstellung der absoluten Identitätslehre
+author: Ignaz Thanner
+year: 1810
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1810 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, corrected by Haiku from the text alone, without the scan (2026-10-27); word error rate 9.3% against a Sonnet reading of 5 sampled scan pages; non-word rate 0.6% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1810 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Versuch einer möglichst faßlichen Darstellung der absoluten Identitätslehre was printed in 1810; Ignaz Thanner (in print in 1810, so dead long before 1955) is long out of protection and the edition (1810) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 6197)
+---
+
+# I. Thanner, *Versuch einer möglichst faßlichen Darstellung der absoluten Identitätslehre* (1810)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Ph. Sp .
+
+Th. sp. Thanner
+
+BIBLIOTHECA REGIA
+
+MONACENSIS .
+
+Versuch einer möglichst faßlichen
+
+{
+
+Darstellung der absoluten
+
+Identitätslehre, zunächst als wissenschaftlicher Orientierung über die Höhe und Eigenthümlichkeit derselben.
+
+Von
+
+R. u. Pr. I. Thanner.
+
+München , im Verlage der Lentner'schen Buchhandlung.
+
+1810,
+
+Nicht das Verstehen des Buches , sondern die Selbstverständigung durch dessen Anregung ist die Hauptsache. Nicht die Wahrheit oder Irrigkeit des aufgeſtellten Lehrgebäudes , sondern die Tauglichkeit und Brauchbarkeit seiner Formen oder Bestandtheile zur eigenen , freyen , selbstständigen Schöpfung des Geistes ist das Wichtigste. Cui omnia unum sunt , et qui omnia ad unum trahit, et omnia in uno videt , is poteſt ſtabilis corde eſſe, et in Deo pacificus manere.
+
+Bayerische Staatsbibliothek München
+
+Th.
+
+## Vorrede.
+
+Ueber die Kantische Philosophie erschien der Versuch einer solchen faßlichen Darstellung, daß hieraus das Brauchbare und Wichtige derselben für die Welt einleuchten möge ( begonnen von Seb. Mutschelle , fortgesetzt vom Unterzeichneten , München b. Lindauer. 12 Heſte. ). Man sagt , daß derselbe Manchen , die nicht hinlängliche Zeit , Lust oder Vorbereitung zum eigenen tiefen Studium hatten, gute Dienste geleistet habe.
+
+Soll man nicht über Schellings absolute Identitätslehre einen ähnlichen Versuch wagen ? nicht ähnliche Früchte erwarten dürfen?
+
+## Vorrede.
+
+Diese Ansicht und Lehre hat zuverläßig so viele Wichtigkeit und Brauchbarkeit als die kantisch : kritische- für Wissenschaft und Leben. Für bende verspricht sie gleich viel. Sie macht nicht weniger Aufsehen , als jene zu ihrer Zeit gemacht und beunruhigt eben so viele Gemüther in Hinsicht auf die grossen Wahrheiten der Menschheit , als jene es ehemals gethan hat. Ihr Studium ist zuverläßig nicht leichter , als es jenes der kritischen Ansicht war.
+
+Sehr viele Schriften , wer versteht sie ohne dieselbe ?
+
+Diesen Versuch hat man nun hiermit begonnen. In 3 bis 5 Heften dürfte derselbe ganz vollendet seyn ; jedes Heft wird aber für sich selbst bestehen. Da die absolute Identitätslehre durchaus einen eigenen Stands und Gesichtspunkt hat , der sich vom kantischen wesentlich unterscheidet ; da dieser Standpunkt für die treffende Würdigung derselben sehr entscheidend ist ; da er von den Meisten , welche davon gesprochen haben, entweder kaum
+
+## Vorrede.
+
+angedeutet , oder wohl auch noch öfter verkehrt beurtheilt und angegeben ward ; da mit dessen richtiger Erkenntniß viele Schwierigkeiten und noch mehrere gehäßige Beschuldigungen von selbst wegfallen : so hat man der wissenschaftlichen Orientierung über denselben dieses (wenn man will, erste) Heft gewidmet.
+
+Man hat zugleich damit einen Versuch machen wollen , die Wahrheit und Bedeutung der absoluten Identitätslehre unmittelbar aus dem wesentlichen Charakter der Wissenschaft abzuleiten , und nachzuweisen , was man , so viel uns bekannt ist , bisher nicht versucht hat.
+
+In den folgenden Heften , wenn sie das Publikum wünscht , wird man den orientierten Leser in die merkwürdigsten Hauptpunkte der Theorie und Praxis , so weit sie durch
+
+Diese philosophische Ansicht auf eine eigenthümliche Art bestimmt werden , einführen ; und eine belehrende Parallele mit den übri
+
+## [p. vi] Vorrede.
+
+gen philosophischen Zeitansichten zu ziehen bemüht seyn.
+
+Die Leser bittet man , vor Allem die nachstehende Inhalts-Anzeige mit Aufmerksamkeit durchzugehen. Der Faden des Ganzen, so wie der bestimmte Sinn eines jeden einzelnen S. wird dadurch sicherer aufgefaßt und festgehalten.
+
+Der Verfasser.
+
+[p. vii] Inhalts- Anzeige. ‫د‬
+
+Die Einleitung macht auf das Bedürfniß und Die 3 Hauptpunkte einer faßlichen Darstellung der absoluten Identitätslehre aufmerksam. Der erste , die wissenschaftliche Orientierung , fordert
+
+I. den Standpunkt der absoluten Identitätslehre (§. 1. ) , und zwar (§. 2. ) A) mittels geeigneter Vorbemerkungen einzuleiten (§. 3–8.) a) durch unmittelbare Vergleichung (§. 4.) mit dem kantiſchen , welcher (§. 5.) jenem direkte entgegengesetzt ist, und dadurch (§. 6.) warnt und leitet - b) durch analoge Zusammenstellung (§. 7.) mit der Mathematik und Astronomie , indem in der Mathematik (§. 8–10.) doppelt ( reflektierend und konstruierend ) z. B. Der Kreis betrachtet , indem in der Astronomie (§. 11.) zweyerley Ansichten (die ptolomäische und kopernikanische ) genommen werden können - zur Erläuterung (§. 12.) des doppelten philosophischen Standpunktes. -B) Den eingeleiteten Standpunkt der absoluten Identitätslehre wissenschaftlich zu begründen (§. 13–15. ) , wird a) der Begriff des voll
+
+[p. viii] Inhalts - Anzeige.
+
+ständigen Wissens aufgestellt; dieser zeigt (§. 16. und 17. ) verschiedene Stufen , und (§. 18. ) in der höchsten derselben , der Wissenschaft , die Prädikate ( §. 19.
+
+20. ) der Einheit und Totalität , der lebendigen, organischen Gestaltung ; bestätiget (§. 21 , 22.) werden sie durch eines jeden eigenes Bewußtseyn so wie durch die des bekannten logischen Foderungen. b) Aus dem Begriffe ergeben sich (§. 23, 24.) die Foderungen eines wahrhaft vollständigen Wiſſens (der Wissenschaft) :
+
+aa) es müsse (§. 25.) absolut seyn , wie dieser Charakter mehr als bloß Unbedingtes (§. 26. ) - in der menschlichen Vernunft ( §. 27 , 28.) das innere abgeschlossene Leben ( §. 29. ) bezeichnet ; es müsse bb) eine All - Einheit ( §.30 , 31.) seyn , welche auf absolute
+
+Identität ( §. 32. ) , auf Unterscheidung von Wesen und Form (§. 33.) und auf das Gesetz der Triplicität in Der Identität (§. 34. ) hinweiset ; es müsse cc) ein Vernunftwissen (§. 35. ) seyn , einzig in und durch Ideen ( $, 36. ) bestehen,
+
+II. In und auf dem Standpunkte eröffnet sich die
+
+Höhe und Eigenthümlichkeit der absoluten Identitätsansicht. a) Sie übersteigt (§. 37.) als Vernunftwissen jede Reflexion (§. 38. -40. ) , die gemeine und die höhere kritische ; b) sie hält sich (§. 41.) an die Spekulation , die ( §.42. ) keine bloße Dialektik ist ; c) dringt mit dem geistigen Blicke der intellektuellen Anschauung (§. 43.) in das Wesen der Dinge ein. d) Indem sie das identische Princip des Seyns und Erkennens ( §.44 , 45.) ergreift , verfolgt sie es (§. 46. ) in seinen freynothwendigen Entfaltungen , nach dem gesetzlichen
+
+[p. ix] Inhalts-Anzeige.
+
+Gange (§. 47.) , der sich durch Triplicität in der Identität (§. 48. ) charakterisiert.
+
+III. Es ergeben sich demnach (§.49. ) zwey
+
+Hauptdogmen , die Quelle aller untergeordneten a) das eine identische Wesen (§.50. ) , vermöge welchen ein bloß quantitativer Unterschied in den Erscheinungen (§. 51. ) statt findet , der aber (§. 52
+
+-54.) weder die Substantialität , noch den specifischen Unterschied in den Erscheinungen als solchen aufhebt; vermöge welchen die Aufmerksamkeit auf das Wesen in den Erscheinungen (§.55. ) die Hauptsache bleibt ; vermöge welchen (§. 56, 57. ) die das Ewige erforschende Spekulation der auf das Zeitliche und Räumliche beschränkten Reflexion erst Gehalt und Würde ertheilen; und , indem sie (§. 58. ) das einseitige Identisieren sowohl als die einseitige Empirie entfernet , jede Erscheinung in der Totalität der Idee (§. 59. ) erfassen muß . Ein Wissen des Göttlichen und Ewigen, das den Menschen noch lange nicht der Gottheit gleichſtellt
+
+(§. 60.) ! b) Das zweyte Hauptdogma betrifft die Offenbarung des einen Wesens (§. 61. )
+
+in der ewigen Erzeugung der Dinge. Die organische Weltbetrachtung (§. 62. ) erkennt mittelst der intellektuellen Anschauung das Bedürfniß der idealen philosophischen Konstruktion ( §. 63.) , in der sich der eine absolute Erkenntnißakt (die Idee ) zugleich als einer und als unendlich mannigfaltig (§. 64. ) darstellt.
+
+Für die Darstellung scheiden sich (§. 65.) 3 Hauptideen , womit (§. 66. ) alle die speciellen Lehrsätze von
+
+Wesen und Form , von potenzieller Entwicklung ic. gegeben sind , und (§. 67-69. ) ihr Verständniß finden.
+
+[p. x] Inhalts:Anzeige.
+
+Damit ist der universelle Organismus (§. 70.) nachgewiesen.
+
+( Am Schlusse ( zum Behufe der wissenschaftlichen Orientierung ) eine kurze Rekapitulation des Ganzen (§. 71. ) eine gedrängte Uebersicht der Tens. Deng (§. 72.), technischen Sprache (§. 73. )
+
+und der Haupteinwürfe (§. 74. ). Zuletzt ein Var parallelisierende Belege ($. 75. und 76. ) in Hinsicht auf die absolute Identitätslehre
+
+Sinnstörende Fehler: §. 21. 3. 15. lies: huldigend. §. 40. - 15. - All Einheit.
+
+67.
+
+15.
+
+das.
+
+-§. 76. - 12. tilge das Komma vor: Bey dem. -§. 80.- 8. lies : Verständnisse des Ganzen. - Hauptrichtungen.
+
+Ein-
+
+## Einleitung.
+
+[p. 1]
+
+1Unverkennbar ist der denkende Mann
+
+!
+
+neuerdings in seinen Ansichten und ihren Gründen Durch Kants Unternehmen mächtig gestört. schien die Ruhe hergestellt. auf immer; so erwartete man es von allen Seiten.
+
+Die Erfahrung hat der Erwartung nicht entsprochen. Alles ist nun wieder erschüttert , alles scheint sogar eine verkehrte Wendung zu nehmen ; eine Wendung , welche in den Augen Vieler ungemein verderblich zu werden droht , indem durch dieselbe von der einen Seite der Aberglaube und die Schwärmeren , von der andern der Unglaube und die bloß physische Betrachtungsweise begünstigt und gefördert werde.
+
+Was soll der Denker bey dieser unläugbaren Erscheinung der Zeit ? Gleichgiltig bleiben kann er nicht , so bald er ein wahrhaft denkender Mann ist. Er kann es nicht aufgeben, bestimmte Ansichten zu fassen , besonders wo es so wichtige Angelegenheiten der Menschheit im
+
+[p. 2] Ganzen und im Einzelnen betrifft. Feste , bestimmte Ansichten zu fassen , setzt aber nothwendig die unerläßliche Bedingung voraus , daß man mit sich - vorzüglich in Hinsicht auf den Grund und die Grundlichkeit seiner Ansichten - im Reinen sey. Davon hängt jede feste Regel und Maxime ab, wie sie des denkenden Mannes von eigenem Charakter einzig würdig ist. Wie kann man aber dieß ? Es ist unvermeidlich sich mit den Zeitansichten zu befreunden , um so mehr , als sie zerstörend , wenigstens umkehrend , wo nicht verkehrend , zu wirken scheinen. Der denkende Mann , der nicht gedankenlos in der Zeit lebt , kann es doch einmal nicht über sich gewinnen , wenn er es auch wollte, von ihren Erscheinungen keine Notiz zu nehmen.
+
+Unwillkührlich dringen sie sich ihm auf
+
+- zum Urtheile und zur Berücksichtigung. Er hat kein anderes Mittel , sich Ruhe zu verschaffen, als sich mit ihnen abzufinden - mittelst einer vertrauten Kenntniß ihrer Beschaffenheit , wovon alle gründliche Würdigung ausgeht. Wenigstens ist dieß die einzige Weise , welche vor ihrer Herrschaft sichert , indem man sich ihrer mit Freyheit und eindringender Erkenntniß bemächtiget.
+
+[p. 3] Nur ist es wieder nicht so leicht , die Ansichten
+
+der Zeit genau kennen zu lernen , zu prüfen und zu würdigen. Noch schwieriger wird dieser Umstand da , wo sie die höchste Höhe der Abstraktion und die tiefste Tiefe der Spekulation betreffen , und somit eine hohe wissenschaftliche Bildung in formeller wie in materieller Hinsicht eine seine Orientierung in den Foderungen der Logik und Metaphysik , des Subjektiven und Objektiven einer wissenschaftlichen Erkenntniß zum Behufe ihres Verstehens voraussetzen.
+
+Dazu kommt der verwirrende Kampf der Parteyen, der sich kaum so eben zum dauernden Frieden schien ausgesöhnt zu haben, doppelt verwirrend durch die Einseitigkeit und durch die Lebhaftigkeit der Kämpfer. Indem die Herrschende (kantische) Schule mit allen Vorurtheilen einer dominierenden Parthey kämpft, und ein mächtiges Vorurtheil für sich sprechen läßt, erschwert sie die nöthige Unbefangenheit in der Prüfung, und macht sie manchen, besonders in ihrer Ansicht durch lange alldurchgreifende Gewohnheit ſtabilierten Gemüthern unmöglich.
+
+Und wie schwer wird eine unbefangene Prüfung selbst dem parthenlosesten Gemüthe auch nur durch den einzigen Umstand, daß die nämlichen
+
+Betrachtungen, aus einem ganz verschiedenen Gesichtspunkte angestellt, zu ganz andern Resultaten führen; daß aus derselben Ursache sehr ähnliche Bezeichnungen ohne alle Willkühr einen ganz andern Sinn und Wortverstand geben. Während ihn die Einen (die Gegner) ganz verkennen, dessen Verschiedenheit gar nicht oder nur halb erfassen; das Ganze als ein eitles Phantom einer sich selbst verkennenden, schwärmerischen Einbildungskraft ansehen, und im Voraus schon nicht ohne den Anschein wichtiger Gründe, selbst mit der mächtigen Hilfe einer scheinbar gelungenen Parodie zu vernichten bemüht sind; machen die Andern (sie nennen sich Freunde) die Sache nicht besser, dadurch, daß ihre Fehlgriffe, Blössen und Mängel der Sache selbst zugeschrieben werden.
+
+Ist es da zu wundern, wenn unter so vielen Schwierigkeiten mancher Denker Lust und Geduld verliert? Dazu kommt bey ältern Denkern
+
+Mangel an Beweglichkeit und Lebendigkeit des Geistes; den Geschäftsmännern Mangel an Zeit und Gelegenheit; bey den Meisten Mangel an Kraft und Muth, welche durch sich allein jedes Hinderniß zu besiegen im Stande wären. Die Erschlaffung und Genußsüchtigkeit unserer Zeit, verbunden mit den nie [p. 5] derdrückenden Zeitbegebenheiten, sind ohnedieß nicht gemacht, den Geist kraftvoll und muthig zu erhalten.
+
+Darum dürfte es kein unnukes und verkehrtes Bemühen seyn, wenn man es unternähme, durch eine möglichst faßliche Darstellung der philosophischen Zeitansichten dem Bedürfniße Vieler zu begegnen, welche sich noch verbunden erachten, die Ehre des Menschen durch ein tieferes Verstehen seiner Würde zu behaupten. Es läßt sich hierin, wenn mich nicht alles täuscht, sehr vieles thun. Es läßt sich der Zweck, den sich Mutschelle und sein Fortsetzer in den bekannten Heften auf eine nach dem Geständnisse Vieler nicht mißlungene Weise rücksichtlich auf Kant setzte, auch auf die Identitätslehre, welche Schelling begründete, ausdehnen. Es ist dabey wahrlich nicht darum zu thun, eine zeitliche Sekte zu bilden; eine sehr gemeine Eitelkeit ohne Gehalt und Dauer! Die ewige Wahrheit und ihre Erkenntniß auch in dieser neuen interessanten Form der Erscheinung für das Verständniß der Mehrzahl der Zeitgenossen zu retten, kann nur ein würdiger Zweck heißen und seyn.
+
+[p. 6] Eine solche möglichst faßliche Darstellung der neueren Wendung in der philosophischen Zeitansicht, um sie dem Verständniße und der eigenen Beurtheilung denkender Zeitgenossen näher zu bringen, dürfte vorzüglich auf 3 Punkten beruhen: I. auf einer glücklichen Orientierung in Hinsicht des eigenthümlichen Standpunktes derselben. Diese Eigenthümlichkeit muß genau und deutlich bezeichnet und hinlänglich beleuchtet werden, so daß nicht nur sie selbst nicht wohl verkannt werden kann, sondern auch die von da zu nehmenden An- und Aussichten an Helle gewinnen;
+
+II. auf einer genauen und mit Rücksicht angestellten weitern Entwicklung der Hauptpunkte so wie der wichtigsten Resultate- in Hinsicht auf Theorie und Praxis. Die Art, Anzahl und Wahl der letztern wird aber durch die Eigenthümlichkeit des Systems nicht allein, sondern auch durch die Bedürfnisse der Zeit bestimmt; III. auf einer komparativen zusammenstellung der (theoretischen und praktischen) Vortheile, welche der neuern Ansicht der Identitätslehre im Vergleiche mit jener frühern kritischen nicht abgesprochen werden können.
+
+Die letztere ist die bekannteste, und in Hinsicht auf die Zahl der Anhänger noch immer die herrschende, zugleich diejenige, welche direkt und [p. 7] indirekt das Verständniß und die unbefangene Würdigung der Identitätsansicht am meisten hindert. Dabey hält es nicht schwer, die einseitigen und mangelhaften Vorstellungen der Empiristen und der gemeinen Reflexionstheoristen zu.
+
+berücksichtigen, und man hat noch den Vortheil, daß es zugleich offenbar wird, was die kritische Theorie mehr leistet, als die letzteren; wie und worin. Es tritt die Eigenthümlichkeit der erstern in dem Maaße mehr hervor, als die Differenz und die Mangelhaftigkeit der letztern bestimmter nachgewiesen wird; man kommt zur Einsicht der stufenweisen Entwicklung der Vernunft in Hinsicht auf Ihre Selbsterkenntniß. Und was ist Philosophie anders, als diese wissenschaftlich eröffnete und durchgeführte Selbsterkenntniß der Vernunft? t
+
+Die Orientierung soll uns am Ende sagen: wo wir stehen? ob der Ort geeignet oder nicht sey? ob und was wir daran zu verbessern haben?
+
+Die Entwicklung soll uns darstellen: was da Idee und Begriff, Spekulation und Empirie, Wissenschaft und Rhapsodie sey? was Theorie und Praxis bedeuten, ihre einzelne Fächer wollen? Was die sogenannten Vernunftwissenschaften und die positiven Doktrinen wollen? wie sie sich berühren, scheiden und wieder begegnen?
+
+ob und wie Religion und Moral , Philosophie und Kunst , Wissenschaft und Leben , Studium und Ausübung gewinnen ? ob Einseitigkeit und Schwärmeren , wie manche meinen , oder ob AU. seitigkeit und klare , besonnene Erkenntniß mit Tiefe vereint die Frucht des Bestrebens sey ? Die Vergleichung soll unterrichten über die Berührung und Entfernung zweyer merkwurs diger Ansichten der letzten Jahrzehnte , und vore bereiten , um gerecht und wahr zu beurtheilen das freundliche und feindliche Verhältniß beyder und die Nothwendigkeit des Gesezes , die es bea dingt.
+
+Verdient dieß nicht die Beachtung eines jeden, der noch Sinn und Gefühl für höhere Selbstwürdigung in Erkenntniß und Leben hat? Wir behandeln vor der Hand hier nur den ersten Punkt einer allgemeinen wissenschaftlichen Orientierung über die absolute Identitätsansicht und geben dieselbe durch diese in ihrer Art selbstständige Abhandlung.
+
+[p. 9] Wissenschaftliche Orientierung. I.
+
+Standpunkt der Identitäts : Ansicht. S. 1.
+
+Wer wovon immer eine durchaus klare, feſte und bestimmte Ansicht gewinnen will, der muß sich einen festen Punkt verschaffen, an dem er ſich orientiert. Es ist das bey Ansichten im geistigen Gebiete so gut der Fall, als bey jenen im Kreise sinnlicher Beobachtung. Im letztern Falle, wenn man sich ein genaues Bild von einer schönen oder sonst merkwürdigen Gegend verschaffen will, was thut man? Man hält es nicht für genug, sie so gut als möglich zu überblicken. Man wird, wo möglich, einen erhöhten Standort aussuchen, der den vollständigsten Ueberblick gestattet; man wird zugleich einen festen Punkt (die Himmelsgegend des Nordens oder des Aufgangs) fixiren, und, will man sehr genau seyn, dieß sogar durch künstliche Mittel [p. 10] thun, um so alles Uebrige mit Beziehung darauf für sich und Andere bestimmen zu können. Dürfte es nicht der ganz gleiche Fall in dem Bemühen seyn, sich solche Ansichten auf dem geistigen Gebiete zu verschaffen, welche zugleich treffend und wahr das Ganze erfassen, und es auf eine durchaus bestimmte Weise wiedergeben sollen?
+
+S. 2. Wenn ich nun meinem Endzwecke zu Folge eben diese Verfahrungsweise zur ersten sichern Orientierung befolge, muß ich vorläufig erinnern, daß ich ein Doppeltes hierbey berücksichtigen zu müssen glaube.
+
+Ich habe zu berücksichtigen den Standpunkt, welchen die Meisten meiner Leser bereits befangen, erst verlassen müssen; habe zu berücksichtigen denjenigen, den sie dann einzunehmen haben.
+
+Die stärkste Anzahl meiner Leser hat wahrſcheinlich bereits einen Standpunkt ergriffen jenen der bisherigen Systeme, besonders des Kantischen. Ich muß ihnen sagen, wie sich der von mir zu bestimmende Standpunkt der Identitätsansicht zu dem ihrigen verhalte. Dazu bestimme ich die Vorbemerkungen.
+
+Die Uebrigen, Unbefangenen wollen auf den Standpunkt versetzt werden, von wo aus sie die Befriedigung des wissenschaftlichen Interesse's als solchen in den bisherigen Versuchen der Auch die erste Vollendung würdigen lernen. vorhin genannte Klasse tritt dieser zweyten zuletzt bey, sobald sie durch die Vorbemerkungen das für empfänglich gemacht ist. Die Haupterläuterungen, welche ich auf jene Vorbemerkungen folgen lasse, betreffen also eigentlich den gemeinsamen Zweck einer möglichst faßlichen und zugleich sichern Orientierung über den wissenschaftlichen Standpunkt der absoluten Identitätslehre. Wenn man will, kann man in diesem doppelten Versuche zu orientieren unterscheiden die Vorbereitung zum
+
+Geschäft und das Geschäft selbst. Eine gute Methode will nämlich durch jene einleiten, indem sie vom Bekannten aufs Unbekannte, vom
+
+Gewohnten auf das Ungewohnte (von der kritischen zur Identitätsansicht) überzugehen empfiehlt; sie will durch das Letztere die richtige Erkenntniß zweckmäßig herbeyführen und sichern. A. Vorbemerkungen. S. 3.
+
+Die methodische Vorbereitung, indem sie auf den eigentlich wissenschaftlichen Standpunkt [p. 12] einleiten will, betritt den gewöhnlichen, mehr bekannten nicht um sein selbst willen. Dieser ist ihr nur Mittel und Stufe der Erhebung zu jenem. Sie findet ein solches Mittel a) geradezu auf dem philosophischen Gebiete selbst an dem herrschenden Kantianismus, der ohnehin als das stärkste Hinderniß der höhern Erkenntniß nicht unberücksichtigt bleiben durfte, und übrigens als die bekanntere Ansicht der weniger bekannten den Weg bahnen kann.
+
+Sie findet b) ein solches Mittel in der Analogie verwandter mathematischer und astronomischer Beziehungen. S. 4. Man wird darin keinen Tadel finden wollen, wenn die Kantische Ansicht hier nur als Uebergangsstufe angesehen und behandelt wird, wenn sie wohl gar als ein großes Hinderniß der höhern Ansicht erklärt wird. Dem großen Denker von Königsberg kann und will man dadurch von seinem verdienten Ruhme nichts entziehen, wie sich zeigen wird.
+
+Es ist nur von dem Vorurtheile eines herrschenden Zeitsystemes die Rede. Dieß sey im Vorbeygehen bemerkt für diejenigen, welche jedes Wort, die Kantische Lehre betreffend, aufbringen kann, das sich nicht demüthig der eingeführten Autorität zu unterwerfen scheint. Bey aller Verehrung für Kants Verdienste kann und darf man thun, was wir hier unternehmen: durch eine kurze Parallele zwischen seiner und der später folgenden philosophischen Betrachtungsweise vorläufig sich genauer orientieren wollen. Die Freunde Kants mögen also immer ruhig fortlesen! Diese Freunde Kants werden so viel zugestehen, daß dessen Betrachtungsweise zunächst im Sinnlichen und Empirischen als dem einzig sichern Boden theoretischer Erkenntniß walte. Es ist ihnen bekannt genug aus der Kritik der reinen Vernunft. Sie werden zugestehen, A daß Kant zwar das durch Erfahrung Erholte durch den Verstand regeln läßt, und so unter die obersten Erfahrungsprincipien, wie sie der transcendentale Schematismus ausspricht, stellen lehrt; daß er aber es unmöglich findet, sich über die Erfahrung als Grundlage, und über die Reflexion des Verstandes als die ordnende Regel zu erheben. Kants Betrachtungsweise ist wie der Empirie und dem sinnlichen Gebiete der Beobachtung hingegeben, so auf das bloße Geschäft der Reflexion, welche das durch die Erfahrung Gegebene zusammenstellt, und zur verständigen Einheit ordnet, beschränkt. Dieß ist ihr eigenthümlicher Standpunkt, wie dieß Niemand widersprechen wird, der sie einiger Massen kennt.
+
+[p. 14] $. 5-
+
+Diesem Standpunkte der kantischen betrachtungsweise ist jener der absoluten Identitätsansicht geradezu entgegengesetzt ; in keiner Hinsicht - etwa als Steigerung , sey sie auch die
+
+Höchste- ihm verwandt.
+
+Diese direkte Entgegensetzung beyder muß wohl bemerkt werden. Es gibt vielleicht keinen Umstand , der den Sinn für die höhere Erkenntniß so lange und so sehr verschlossen hält , als wenn man in der absoluten Identitätslehre nichts weiter als eine tiefere oder genauere Entwicklung , eine blosse Steigerung des kantischen Gesichtspunktes vermuthet.
+
+Dieß
+
+Vorurtheil zerstört im voraus jede Empfänglichkeit. Darum muß es sorgfältig entfernt werden
+
+- wenigstens in so weit , daß man den prüfenden Denker , der etwa bisher ein eifriger Kantianer war, auf das πρωτον ψευδος, den Haupt punkt seiner Verirrung , warnend hinweiset. S. 6. Mit bestimmter Hinsicht auf dieses Bedürfniß der Warnung wird nun hiemit ausdrücklich bemerkt , daß der Stand = und Gesichtspunkt der absoluten Identitätslehre durchaus entgegengesetzt dem kantischen - nicht im Empirischen , sondern in dessen ursprünglichen Quelle - nicht im Sinnlichen ,
+
+[p. 15] A lichen, sondern im Uebersinnlichen - nicht im Zeitlichen , sondern im Ewigen - nicht in der Reflexion , die das Gegebene der Erschei= nungen regelt , sondern in der Spekulation , die das Wesen der Dinge erforscht - nicht in dem Begriffe , dem Diener der Reflexion , sondern in der Idee , der Schöpferin ursprünglicher Ere kenntniß u. s. w. ruhe. Es mag vor der Hand immerhin der Fall seyn , daß man diesen Gegens sak nicht durchschaue; es ist genug , daß man darauf hingewiesen sey. Wenigstens findet man durch diese Hinweisung sich pflichtmäßig aufgefodert , seine bisherigen kantischen Ansichten und Prämissen einsweilen zu ignorieren; sie also nicht zum Dienste der Würdigung oder auch nur des Verständnißes der höhern Ansicht gebrauchen zu wollen , sondernmit einsweiliger Verzichtung aufseine bisherige Ansicht , so viel man kann, sich die Un= ſchuld des unbefangenen Nichtwissens wiederzuges den. Man sage sich : Du warst bisher auf der Stufe der Erfahrung , des Begriffes und des ſie ordnenden Verstandes hingehalten , weil du glaube test , keine höhere für die wissenschaftliche Erkennt niß annehmen zu dürfen. Vergiß diese Annahme wie fern du eine andere jungere Ansicht in ihrer Eigenthumlichkeit erkennen und verstehen willst. Man versichert dich , dieselbe sey bestimmt der kantischen entgegengesetzt. Dieß mußt du zum
+
+[p. 16] Behufe deiner Belehrung als Warnung gelten lassen, um nicht gleich Anfangs deinen Zweck zu vereiteln - durch Verkehrtheit des Standpunktes , aus dem du die Ansicht betrachtest. Damit hast du nichts vergeben ; wohl aber gewinnst du an Unbefangenheit und Kürze der Erforschung, wie dich wenigstens die Freunde und angeblichen Kenner der höhern Ansicht versichern , und du ihrer Versicherung als vermeinter Sachverständiger vor der Hand glauben mußt. Der eigenen Prüfung ist dadurch nichts entzogen , daß du die Sache nach ihrer Eigenthümlichkeit behandelst. Das Uebrige wird der Erfolg wissenschaftlicher Befriedigung oder Nichtbefriedigung lehren. S. 7. Wenn durch diese Vorbemerkung nur so viel erreicht wird , daß der Standpunkt der höhern Ansicht (der absoluten Identität) nicht mit jenem * der kantischen Reflexion verwechselt , vielmehr als wesentlich verschieden von ihm erkannt wird ; so deutet auf die Eigenthümlichkeit und höhere Prätension des erstern Standpunktes vor dem letztern schon bestimmter hin - die analoge Beziehung beyder auf ähnliche Erscheinungen in der Mathematik und Astronomie.
+
+Die
+
+[p. 17] Die Mathematik reicht uns zu diesem Behufe der Orientierung eine analoge doppelte Betrachtungsweise des Kreises - die Astronomie eine analoge doppelte Theorie der Bewegung der Himmelssphäre und ihrer Erscheinungen dar. Des Zweckes der Vorbereitung besonders durchgehen.
+
+S. 8.
+
+Im Kreise verkennt Niemand die Peripherie und den Mittelpunkt als Gegensätze , deren Vereinigung und Einheit eben den Kreis bildet. Aber man ist nicht so aufmerksam auf die doppelte Weise, wie sich in diesen Gegensätzen die Einheit des Kreises (dessen Begriff) gebildet hat ; oder übersieht doch die Wichtigkeit und Bedeutung dieser Betrachtung. Und doch ist es etwas anders, wenn ich im bereits gegebenen Kreise die Peripherie und den Mittelpunkt als bloße vorfindige Theile erkenne , und etwas anders, wenn ich die Entstehung der Peripherie aus dem Mittelpunkt anschaue - und damit jene als die all.
+
+seitige Ausdehnung von diesem , und nicht umgekehrt , begreifen lerne S. 9.
+
+= Im ersten Falle (der über das Vorliegende bloß reflectierenden Betrachtungsweise )
+
+[p. 18] kann ich über das Gegebene (die Theile des erscheinenden Kreises ) nicht hinaus ; sie sind zusammen die Grundlage , wie sie in der Erscheinung vorkommen. Der Verstand kann höchstens das Ganze der Erscheinung in seine Theile zerlegen , darüber selbst wieder nur die Erscheinung mittelst der Beobachtung berathen , und dann die Verhältniße dieser Theile näher bestimmen - mit allen den Folgerungen , welche damit in verschiedener Hinsicht verbunden seyn mögen.
+
+Hingegen im zweyten Falle (der ursprünglichen, den Kreis konstruirenden Ansicht) ist gar nichts gegeben ; alles entsteht. Der Punkt, indem er sich nach allen Seiten gleich ausdehnt , wird zum Kreise , in welchem sich ein Mittelpunkt und eine Peripherie für die Erscheinung scheiden.
+
+Durch nichts Gegebenes beengt , wird , was ist. Alles ist klar vom ersten Momente bis zum Letz= ten; die Erkenntniß durchdringt das ganze Seyn , indem sie mit dem Kreise wird und ist. Nicht eine blosse reflectierende , eine konstruirende und die Konstruktion beschauende Ansicht des Kreises ist da , der Begriff wird aus unmittelbarer Anschauung gehoben , ist damit verschmolzen. S. 10.
+
+Ferner ist in diesem letztern Falle der Standpunkt der (schauenden) Erkenntniß im Mittelpunk [p. 19] te. Die Theile sind im und durch das Ganze begriffen. Hingegen im erstern Falle findet sich der Standpunkt auf der Peripherie ; die Theile sind nicht in und durch das Ganze erkannt , sie sind ein Mannigfaltiges , das an und für sich durch keine Einheit zu bestimmen ist. Der Mittelpunkt verschwindet. Diese Differenz der (reflectierenden und konstruierenden ) Ansicht ist so merkwürdig , als die eben vorhin bemerkte in der Philosophie. Die höhere oder niedrigere Betrachtungsweise der Mathematik beruht eben hierauf. Es ist hier der Ort nicht , dieß noch mehr zu zeigen. Es war nur der Ort , diese Verschiedenheiten anzuregen zum Behufe der nachfolgenden Untersuchung über den eigentlichen Standpunkt der absoluten Identitätslehre.
+
+S. 11. Rücksichtlich auf Astronomie wird hier keine tiefe Kenntniß derselben vorausgesetzt. Nur die einzige Bekanntschaft mit der doppelten Theorie des Ptolomäus und Kopernikus will man benutzen. So viel weiß nun Jedermann , daß der erste der Erscheinung folgte, somit die Erde in die Mitte der Gestirne sekte , und alle Hime melssphären , selbst die Sonne um dieselbe kreis [p. 20] sen ließ. Febermann weiß , daß der lehte hingegen, indem er die Erscheinung in den Ursachen ihrer Entstehung erforschte , nicht die Erde , sona dern die Sonne als den Centralkörper betrachte.
+
+te, um den sich die Erde mit den übrigen Pla= neten bewegte. Bekanntlich hat dieß lektere Syr stem den allgemeinen Beyfall der Gelehrten erhalten , ungeachtet es zunächst geradezu der Erscheinung widerspricht , und gegen den Anschein die Sonne still stehen , die Erde gehen heißt. Hier handelt es sich gar nicht um die Wahrheit dessel den. Es wird nur angeführt , wiefern es vorzuglich geeignet ist - vorzubereiten auf einen Standpunkt der philosophischen Ansicht , welcher auch , wie der kopernikanische in der Astronomie, alles umzukehren scheint ; welcher der gemeinen Ansicht , der Erscheinung und Erfahrung sich scheins bar ganz entzieht , nicht die Emprie , sondern die Spekulation hört , nicht den unmittelbaren (durch die Beobachtung gegebenen ) Begriff sondern die , ursprungliche (die Sache in ihrem Leben und des sen Princip erfassende ) Idee als das Erste und
+
+Wichtigste (als das Wesen) ansieht ; wovon alles Uebrige nur Erscheinung , Darstellung , Offenbarung sey. S. 12
+
+Hat man in einer Wissenschaft ( der astronomischen) den Gesichtspunkt geändert , und , wie [p. 21] man allgemein glaubt , zum Vortheile derselben geändert, eigentlich zu sagen umgekehrt ; warum soll man nicht Aehnliches in einer andern Wissenschaft (der Philosophie ) versuchen ? In jener war die ptolomäische Ansicht die früher herrschende ; und sie besiegte die spätere kopernikanische. Warum soll es (vor der Hand sey dieß gefragt !) in der
+
+Philosophie nicht derselbe Fall seyn ? Und, wenn dieß als möglich, als wirklich behauptet wird , warum nicht eine eigene Prüfung verdienen ? Nur muß bey dieser Prüfung die Hauptsache nicht vergessen werden , worauf man hier vorzüglich aufmerksam machen will : daß sich beyde Systeme (als erklärende Ansichten) ganz entgegengesetzt sind , daß das eine, der Erscheinung schuldigend in der Beobachtung die Ursache so wie die Wirkung , den Grund so wie die Folge findet - das andere , dem nicht erscheinenden Dinge an sich nachforschend , den Grund in dem unsichtbaren
+
+Wesen , die Folge in der sichtbaren Erscheinung entdeckt. Das ist Kants und Schellings Ansicht, wiefern jener die kritische Reflexion , dieser die Identitätslehre begründet hat. Wie in der astronomischen Lehre die wissenschaftliche Erkenntniß bey gleichen empirischen Resultaten verschieden ist, je nachdem die Erde als Mittelpunkt betrachtet wird oder nicht ; so verhält es sich auch mit den übrigen Erscheinungen. Die Wissenschaft , welche [p. 22] sie in ihrer Totalität umfaßt , und Philosophie heißt , macht entweder sie selbst (die Erscheinungen) zum Mittelpunkt , oder erkennt sie nur als kreisende Punkte des einen Mittelpunktes (des einen Wesens) , das , wie die Sonne die Planeten beherrscht , und in allen ihren Richtungen leitet , das alles macht , ohne selbst zu erscheinen. Darauf möchte man nur hinweisen; und es wäre das Ziel dieser Vorbemerkungen erreicht , wenn durch sie der Standpunkt der absoluten Identitätslehre den Lesern erleichtert , angedeutet und trotz der entgegenstehenden Vorurtheile näher geführt würde.
+
+Demselben wirklich zur
+
+Befriedigung der Wissenschaft zu begründen ist eine höhere Untersuchung. Diese Letztere bezweckt die folgende
+
+B. Wissenschaftliche
+
+Erörterung des
+
+Standpunktes der absoluten Identitätslehre.
+
+S. 13. Das , was wir bisher vorbereiteten , soll uns nun unmittelbar in und durch sich klar werden - der Standpunkt der absoluten Identitätslehre, wie er zugleich jener aller wahren Philosophie ist. Wir müssen demnach tiefer eindringen und weiter ausholen , wenn wir eine freye , selbstständige Erkenntniß und Ueberzeugung gewinnen wollen. Und darum handelt es sich doch! Dieß ist das eigentliche Ziel unserer Bemühung , von dessen Erreichung allein wie die Einheit unsers Wissens und Denkens , so die Einheit unsers Wollens und Strebens , mit einem Worte der wahre Charakter und die achte Bewährung höherer Bildung erwartet , und die Harmonie unsers Gemüthes nach der jetzigen Stufe geistiger Entwicklung begründet werden kann. S. 14.
+
+Es liegt hiebey alles daran , daß wir mit Genauigkeit , Vorsicht und klarer Besonnenheit vorschreiten.
+
+Wir müssen uns versichert halten dürfen , daß wir nichts versehen haben ; wir müssen darum bestimmt wissen , was wir zu thun haben - Schritt vor Schritt , ob und wie wir's gethan haben. Nur aus einer solchen Genauigkeit , Vorsicht und klaren Besonnenheit geht jene beruhigende Gewißheit hervor , welche wir vollkommne Ueberzeugung nennen. $ 15,
+
+Ich schlage meinen Lesern zu diesem Behufe nach reifer Ueberlegung folgenden Gang für die Untersuchung , welche wir gemeinschaftlich anzustellen haben , vor :
+
+Wir gehen von einem festen Gesichtspunkte aus , suchen einen sichern Standpunkt für eigene, selbstständige Ansicht zu gewinnen. Dies ist das erste Geschäft wissenschaftlicher Orientierung ; was wir bereits $ 3 12 eiugeleitet haben. Alle Philosophie will denn doch nichts anders als die voukommste Wissenslehre seyn. Dieß ist die Basis , auf der wir fussen.
+
+Das Wissen in sei= uem Anfange und Ende , in seinem Ursprunge und in seiner Vollendung ergriffen, führt uns 1) auf die Merkmale seines vollständigen Begriffes ; und diese 2) auf die Forderungen, welche man noth wendig an eine wahrhaft wissenschaftliche (philosophische) Erkenntniß machen muß. Damit sehen wir uns auf eine Hitze gestellt wo sich die Eigenthumlichkeit wahrhaft philosophi. ſcher Erkenntniß und Ansicht einzig in dem Sinne und Ausdruck der absoluten Identität . von selbst und ungezwungen darstellen wird . Dieß ist das zweyte Geschäft wissenschaftlicher Drientirung über jene Lehre , ihre Hdhe und Eigeno heit frey und selbstständig zu würdigen. Damit ist die Möglichkeit gegeben, uns mit leichter Mühe und freyer Uebereinstimmung zu verständigen über die wesentlichen Hauptsås he der absoluten Identitätsansicht. Das dritte Geschäft der beabsichteten Orientierung.
+
+Dieß ist der Gang. Der vollständige Begriff des wissenschaftlichen Wissens führt uns auf die
+
+[p. 25] Bedingungen desselben - diese auf die Höhe und Eigenthümlichkeit der absoluten Erkenntniß, die am besten als jene der absoluten Identität bezeichnet wird - und diese endlich zum leichten Verständniße ihrer Hauptdogmen. Meine Leser werden auf diesen Gang aufmerksam gemacht , damit , indem sie denselben mit mir betreten, sie desto leichter sich selbst stets gegenwärtig , diejenige Vorsicht , Genauigkeit und Besonnenheit behaupten , aus welcher allein , wie wir schon bemerkt haben , eigene , selbstständige , wahre , feste und vollkommne Ueberzeugung hervorgeht. S. 16.
+
+1) Der vollständige Begriff des wissenschaftlichen Wissens.
+
+Wir behaupten , der vollständige Begriff des Wissens führe uns selbst auf Forderungen, wie sie nur allein in der absoluten Erkenntniß der Identitätslehre befriediget werden. Derselbe bildet die Basis unsrer Untersuchung ; hier befestigen wir den Standpunkt der Würdigung der absoluten Identitätslehre. Der vollständige Begriff des Wissens muß also vor Allem auf eine Art gewonnen werden , daß wir uns rücksichtlich desselben in unserm innersten Bewußtseyn befriedigt finden. Zu diesem Behufe bemerke ich, nicht um meine [p. 26] Ansicht den Lesern unterzuschieben , sondern um ihr Nachdenken über sich selbst und ihr Wissen zu leiten , Folgendes. Es betrifft die Erscheinungen des Wissens , wie sie in dem Bewußtseyn eines jeden vorgehen. S. 17.
+
+Niemand wird läugnen , daß es ein sehr mannigfaltiges, verschiedenartiges Wissen gebe , nicht nur, wenn wir auf die mannigfaltigen Gegenstände desselben , sondern auch , worauf hier eigentlich zu merken ist , wenn wir auf die verschiedene Art der Befriedigung sehen.
+
+Es finden sich nämlich Abstufungen in unserm Wissen, welche wir sehr gut dem Gefühle nach unterscheiden , wenn wir auch in ihren Unterschie= den sie deutlich nachzuweisen nicht im Stande sind . Ich weiß dies , jenes - heißt verschiedenes ; bald : es mir bekannt ; bald : es ist mir sicher bekannt ; bald : es ist mir durchaus und vollkommen bekannt. Im ersten Falle ſteht es der Unwissenheit und Unbekanntschaft , im zweyten der blossen Meinung und Unsicherheit, im dritten Falle der Mangelhaftigkeit und Einseitigkeit gegenüber.
+
+Natürlich umfaßt diese letztere Stufe des Wissens die beyden andern.
+
+Was ganz und durchaus Jemanden bekannt ist , das [p. 27] hat er zur Erkenntniß und zwar zur sichern , und zur durchgreifenden Erkenntniß erhoben.
+
+S. 18.
+
+Diese letztere Stufe des Wissens ist das eigentliche Wissen - eben weil sie in ihrer
+
+Art durchgreifend und geschlossen ist ; und man bezeichnet sie in dieser Hinsicht mit dem Worte Wissenschaft. - Sie muß uns näher bekannt werden, weil nur sie dem Bedürfniße und der Würde der höhern Bildung des Litteraten entsprechen kann. Der wahre Gelehrte ( Litterat ) kann sich nicht mit der gemeinen , unsichern und mangelhaften Erkenntniß befriedigen - er muß die höhere, sichere , vollständige suchen ; wer will dieß läugnen ? In und mit dieser Erwägung nun findet sich :
+
+"Das Wissen , soll es ein vollständig befriedigendes seyn , müsse nicht nur ganz , den Gegenstand durchgreifend , sondern auch für den Gelehrten als solches nachweisbar seyn."
+
+S. 19. Es muß ganz , vollständig , durchgreifend seyn; was will dieß sagen ? Ich antworte. So ein Wissen muß den Gegenstand in seiner Einheit und zugleich in seiner Vollständigkeit [p. 28] erkennen. Was ein Ganzes ist, führt nothwendig Einheit und Totalität mit sich. Das Viele, was sich in demselben unterscheiden läßt , ist nicht ein bloß Vieles ; es muß Einem und dem.
+
+felben Wesen angehören , und so erkannt seyn , um als ein Ganzes erkannt zu seyn.
+
+Ich folgere nun weiter. Das Wissen , das in seiner Art nicht mangelhaft seyn soll (wie es doch zuverläßig vom höhern Wissen des Littera C ten erwartet werden darf ) , muß nun , um seiner Einheit und Totalität willen ein lebendiges Wissen seyn; man nennt es auch organisch.
+
+Diese Bemerkung darf nicht übersehen werden ; sie ist um so nothwendiger und unent= behrlicher ( ungeachtet sie sich schon von selbst verstehen durfte ) , weil erstens der Begriff des Ganzen - als eines mechanischen und als eines organischen Ganzen - einseitig gefaßt, und das eine mit dem andern verwechselt werden, kann ; weil zweytens diese Eigenschaft des Orga:
+
+nischen , Lebendigen es hauptsächlich ist , die wohl begriffen zum Behufe der richtigen Ansicht der absoluten Identität ungemein beyträgt. Bey Vielen ist der Irrthum im letztern Falle das einzige Hinderniß der Anerkennung , indem Vorurtheil oder Versehen ihnen nicht erlaubt , die organische
+
+Eigenschaft auch auf das Wissen (einen geistigen Zustand ) anzuwenden. Sie verwerfen ungeprüft , was sie nicht einsehen, weil Wissen und Organismus in ihrem Auge zu heterogene Dinge sind , um jemals sich so innig berühren zu können.
+
+S. 20.
+
+Und doch ist es nicht anders ; das eigentliche, durchgreifende Wissen ist ein lebendiges, organisches Wissen - darum , weil es ganz , abe geschlossen, nicht mangelhaft , einseitig und unbefriedigend seyn darf. Dieß muß meinen Lesern klar werden - aus eigener Einsicht. Ich erinnere sie deßhalb , daß so ein Wissen Einheit und Totalität , wie wir gefunden haben, in sich vereinige. Es umfaßt seinen Gegenstand in allen seinen Theilen und Beziehungen als einen Gegenstand ; nur so ist es durchgreifend. Wie kann es aber dieß ? Offenbar ist es hierzu nicht hinreichend , daß die Theile des sogenannten Ganzen aufgefaßt, und auf eine beliebige, mehr oder weniger willkührliche Weise verbunden werden. So eine Einheit ( der Vereinigung ) ist nur aufgedrungen , ist Werk des subjektiven Verfahrens , somit veränderlich wie dieses ; sie kann die Vollständigkeit der Theile so wenig als den innigen Zusammenhang derselben und ihre eigent [p. 30] liche Bedeutung mit Sicherheit nachweisen. Sie ist ja selbst aus den Theilen und aus dem Versuche ihrer Vereinigung erst entstanden , kann also nur darstellen , was sie empfangen hat , niemals aber mehr leisten.
+
+Man nennt so eine Einheit die bloß formale , logische, weil sie nur aus dem bloß logischen Verfahren ( der Analyse und Synthese des bereits gegebenen Mannigfaltigen ) hervorgeht. Sie bildet ein Ganzes im Wissen , welches durchaus dasselbe ist mit dem mechanischen Ganzen , wie es jede Maschine in der Vereinigung ihrer Bestandtheile darstellt. Es ist ein todtes Ganzes ohne inneres Leben , ohne innere Bewegung , ohne das innere Werden , Sich selbstentwickeln , was wir im organischen Ganzen, z. B. eines Thierkörpers unverkennbar erblicken. Hier bildet eine innere gestaltende Einheit die Theile selbst ; diese werden durch jene produciert, und somit. in ihrer Vollständigkeit und in ihrem innigen Zusammenhange durch dieselbe bestimmt und erhalten. Darum sind auch in einem Organismus die Theile und das Ganze durcheinander bestehend , in der innigsten Wechselwirkung. Die eine gestaltende ( produktive) Einheit bedingt Alles - das Ganze wie die Theile. Die Maschine hingegen und ihr Mechanismus [p. 31] kennt so eine Einheit , so ein inneres Princip gar nicht; sie wird nur durch ein äußeres in Bewegung gesetzt , das ihr fremd ist und bleibt, nicht ihr Seyn , sondern nur ihre Bewegung des Dings.
+
+Ein wahres Ganzes ist somit einzig das organische , das durch eine innere , gestaltende Einheit bestehende Ganze. Hier ist einzig wahre
+
+Abgeschlossenheit , eine wahre alldurchdringende Einheit und allumfassende Totalität. das låugnen ?
+
+Wer will
+
+Aber die Anwendung auf das Wissen? Sie ist sehr leicht.
+
+Wir haben gefunden , das Wissen höherer Art , wie es der Litterat , der Gelehrte , der Philosoph in Anspruch nimmt - darf nicht mangelhaft
+
+, es muß ganz in seiner Art seyn. Als ein Ganzes der Vorstellungen und Erkenntnisse muß es Einheit und Totalität in denselben offenbaren; und welch eine Einheit und Totalität ?
+
+Nur- eine solche, die das Ganze der Vorstellungen 2c. als ein wahrhaft abgeschlossenes beweist, somit eine Einheit , welche als inneres , produktives Princip die Erkenntnisse selbst gestaltet , in ihrer Vollständigkeit sowohl als in ihrem
+
+[p. 32] Zusammenhange - somit organisch ist. So ein Wissen heißt mit Recht ein lebendiges (sich selbst entwickelndes , bestimmendes ) Wissen - und ist das einzige , das der Würde des gelehrten Denkers entspricht.
+
+S.21. : Will man die Möglichkeit eines solchen Wissens in Zweifel ziehen ? Man richte nicht vor der Zeit ! Die Sache muß und wird sich durch sich selbst bewahren. Vor der Hand habe man Geduld ! Was man indeß sogleich thun kann , und wir bisher schon eingeleitet haben , um sich von der Wahrheit und Möglichkeit , Natur und Ei.
+
+genthümlichkeit des Wissens (nach dessen Würdi= tät, in welcher es, mit Recht als Wissenschaft ausgezeichnet wird ) noch besser zu unterrichten ist eine aufmerksame und unbefangene Reflexion über das , was wir in uns bey den verschiedenen Zuständen des Wissens in dessen mannigfaltiger Gradation entdecken. Nicht nur sagt jedem sein Bewußtseyn , seine innere Erfahrung und Beobachtung , daß er nicht bey jeder Art und bey jedem Grade des Wissens gleich befriediget werde ; daß ihm die vollkommenste Befriedigung nur dann werde , wenn er seinen Gegenstand ganz durchschauen kann , wenn er dessen Mannigfaltiges mit Bestimmtheit und Vollständigkeit unterscheidet , und in dem einen Wesen, in der einen Einheit nothwendig gesetzt erkennt; wenn aus dem einen umfassenden Gedanken (Idee genannt ) als dem produktiven Princip alle übrigen Theilvorstellungen in lebendiger Regsamkeit hervorgehen. S. 22.
+
+Dasselbe bestätigen die alten bekannten Forderungen aller Logiker. Sie ſprechen von der Nothwendigkeit eines Princips , einer nicht willkührlichen Abtheilung, eines vollkommenen Zusammenhanges - eines Systems 2c.
+
+Sie deuten offenbar auf die unentbehrliche Eigenschaft des Wissens und Denkens hin , wie es vollendet und eines Gelehrten würdig heißen soll - auf die Eigenschaft , ein wahres , d. h. durch Einheit , Vollständigkeit und Zusammenhang sich auszeichnendes Ganze zu seyn. Es ließe sich dieß ausführlich darlegen in allen den einzelnen Unter.
+
+suchungspunkten der Logik. Wäre hier der Ort so konnte dieß insbesondere gezeigt werden von Seite der logischen Denkgesetze. Diese drucken offenbar keine andern Foderungen aus , als die aus der eben angeführten Eigenschaft hervorgehen : daß das Denken wie das Wissen ein Gan [p. 34] zes seyn müsse , nur als ein solches der Würde der höchsten Kultur , wie die des wahren Gelehrten seyn soll , entspreche. S. 23. 2) Die Foderungen aus dem vollständigen Begriffe des wissenschaftlichen Wissens.
+
+Der vollständige Begriff des Wissens ist entwickelt. Wir kennen dessen Prädikate. Aus demselben gehen Foderungen hervor , die es nicht genug ist , angedeutet zu haben. Sie müssen durchaus klar und deutlich vor unserm Bewußtseyn da stehen , wenn sie das Mittel werden sollen , den Standpunkt , die Idee und den
+
+Gehalt der absoluten Identitätsansicht befriedigend zu erkennen. S. 24.
+
+Wir haben gefunden , daß das Wissen im vollständigen Begriffe des Wortes - nothwendig ein ganzes , durchgeführtes , darum lebendiges und organisches Wissen seyn müsse (S. 19. und 20.). Um dieser Eigenschaften willen muß alles , was diesen Charakter mit Recht führen will, folgende Foderungen befriedigen. Sie sind eben so [p. 35] nothwendige unmittelbare Folgerungen und unerläßliche Bedingungen jenes Charakters. Das wahrhaft vollständige ( wissenschaftliche ) Wissen muß absolut , organisch , ein Vernunftwissen seyn. Wir entwickeln dieß im Einzelnen S. 25. , S. 30. und S. 35S. 25.
+
+a) Das Wissen , vollständig in seiner Art und zur Wissenschaft erhoben, muß durch sich bestehen und alles aus sich selbst entwickeln , so wie alles in sich umfassen. Man bezeichnet diese Foderung mit dem einen Worte : es muß absolut seyn.
+
+Man verwechsle nur den Charakter des Absoluten nicht mit jenem des Unbedingten. Das Unbedingte ist eine reine Negation aller Bedingung , Beschränkung ; das Absolute eine reine Position aller Realität. Durch das erste ist nur angedeutet das , was irgend etwas nicht ist, noch nicht aber zugleich jenes , was es ist. Durch das Absolute ist dieß Lektere selbst unmittelbar und zunächst ausgesprochen.
+
+Das Absolute sagt daher ungleich mehr , als das Unbedingte ; das»
+
+selbe umfaßt dieses , nicht umgekehrt dieses Lektere das Erstere.
+
+Man macht hierauf besonders aufmerksam; denn diese Differenz bleibt sehr oft, [p. 36] ehemals und jetzt noch , unbeachtet , theils weil man beyde verwechselt , theils weil man nur das Lektere ( das Unbedingte ) , nicht aber das Erstere ( das Absolute ) für die menschliche Erkenntniß erreichbar hält. Nur der Gottheit ausschließender Besitz sey dieses.
+
+S. 26. Es ruht hier offenbar ein doppelter Mißverstand , welcher aufgeklärt und dadurch beseitigt werden muß.
+
+Was nun denjenigen betrifft , welcher das Absolute und Unbedingte ununterschieden vermischt , dürfte es um so unnöthiger seyn , noch viel mehr davon zusprechen , als das Nöthige bereits gethan ist , auf den sehr wesentlichen Unterschied beyder hinzuweisen ; als ein tieferes Hinderniß der Nichtunterscheidung aber vor der Hand nicht wohl wegzuschaffen , auch unschädlich ist , in der Folge von selbst wegfallen wird (SS. 38. flg. ) , bey allen denen , welche außer der gemeinen , beschränkten Begriffsansicht noch eine höhere absolute Ansicht anzunehmen sich gedrungen finden werden. Nur so viel vorläufig, was in der Folge ganz deutlich werden soll. Die Reflexions* ansicht kann als solche über die Sphäre des Beschränkten nicht hinaus ; der bessere Sinn, [p. 37] dadurch nicht befriedigt , ergreift daher das , was darüber hinaus liegt , als Ahnung , Glaube, Gefühl eines Höhern ; das somit durch Begriffe nur negativ bestimmt werden kann , ungeachtet es als sehr positiv , als der Ursprung alles Positiven geahnt , geglaubt , gefühlt wird nur bestimmt werden kann als der negative Begriff eines Wesens (so wenig entspricht dieser der bessern Ahnung) , welches erhoben über jede Schranke , über jedes Maaß , über Zeit und Raum , unbeschränkt , unermeßlich , mit einem Worte unbedingt heißt. S. 27. Der Mißverstand , welcher das Absolute dem menschlichen Erkennen abspricht , und dem göttlichen allein zuerkennt , ist wichtiger , weil er zunächst und unmittelbar die bessere Erkenntniß hindert. Zwar kann auch er jetzt noch nicht ganz gehoben werden, und wird erst in der Folge seine vollständige Aufklärung finden (S. 60.) Hinreichend und nothwendig ist es aber , so viel zu merken , daß das absolute Wissen des Menschen darum noch nicht das Wissen der Gottheit sey ; göttlich an Würde und Bedeutung , doch nie an Macht und Erhabenheit des Wesens in der Darstellung. Man wird übrigens , oft nicht ganz mit Unrecht , befremdet durch die etwas zu star [p. 38] ken Ausdrücke von Leuten, welche sich den Schein höherer Erkenntniß zu geben wünschen. Nur bringe man dieß nicht auf Rechnung der Sache, was Fehler der Person ist !
+
+S. 28.
+
+Die Bemerkung , welche ich nun hierzu hinreichend halte , ist : Wenn das absolute Wissen jenes der Vernunft ist (wie es sich zeigen wird
+
+S. 36. ) , hat man es je unannehmbar gefunden, im Menschen denselben Vernunftcharakter wesentlich zu erkennen , wie wir ihn in der Gottheit verehren? „Aber man unterscheidet doch Vernunft und absolute Vernunft ? ,, Wie aber , wenn gezeigt werden kann , daß Vernunft als solche nothwendig absolut sey , um sich vom Verstande zu unterscheiden ? Wer unterscheidet nicht das Einzel.
+
+ne und das Ganze - und eben so eine Erkenntniß des Einzelnen und eine Erkenntniß des Ganzen ? Wer hält lektere nicht für höher als erstere ? Der Geist , indem er diese (die Erkenntniß des Ganzen ) bildet und hat , heißt Vernunft, indem er jene hat und entwickelt , heißt Verstand.
+
+Vernunft und Verstand zu unterscheiden - ist daher nothwendig ; und damit ist es auch nothwendig, zu unterscheiden das Absolute [p. 39] (in sich Abgeschlossene ) und das Vereinzelte (Zerrissene und Zerstückelte ) , darum Bedingte und
+
+Beschränkte. Und , wenn das in sich Abgeschlos sene aufzufassen die Sache der Idee , das Zerrissene zu sammeln die Sache des Begriffes ist ; wenn das Vermögen der Ideen Vernunft heißt und das Vermögen der Begriffe Verstand ; so erfaßt ja die Vernunft durch ihre Ideen das Absolute nothwendig und ausschließend ; und es ist dieß der charakteristische Unterschied derselben von dem Verstande. Ist es nun befremdend , wenn behauptet wird , die Erkenntniß der Vernunft ( der Ideen ) sey die absolute ? Eine absolute Vernunft an sich kann daher in Hinsicht auf Erkenntniß nicht anders als tautologisch , ein mäßiges Prädikat seyn. Damit wird gar nicht geläugnet, daß in anderer Beziehung der Geist des Menschen und Gottes Geist gar sehr verschieden sey ; des Menschen Geist beherrscht nicht das All mit gleicher Macht der Fülle , Kraft und Darstellung , wie Gottes Geist.
+
+Genug , daß man durch diese Bemerkung aufmerksam gemacht ist , wie der Charakter des
+
+Absoluten in der Erkenntniß des Menschen nicht ein ausschließend göttliches Attribut sey , das so mit des Menschen Geist zu etwas machen würde , was er nicht ist und nie wird.
+
+[p. 40] S. 29 Vielleicht wiederholt nun Jemand die Frage : Was denn das Prädikat des Absoluten , als erste Foderung des vollständigen Begriffes , wie wir ihn vom Wissen aufgestellt haben , sagen wolle? Ich wiederhole ebenfalls : es bezeichne das , was das Wissen ( das als vollständiges nothwendig lebendig ist ) zum in sich selbst Bestehenden , darum alles aus sich Entwickelnden und alles Umfassenden macht. Dieser Charakter des in sich Bestehens, des lebendig aus sich Entwickelns und des vollständigen Umfassens ist es - was es bezeichnet. S. 30.
+
+Daher eben b) die zweyte Forderung , welche durch jenen vollständigen Begriff des Wissens gesetzt ist - eine Alleinheit , welche nothwendig Identität in ihrem Wesen , Triplicität in ihren Gestaltungen ist.
+
+Man lasse sich nicht durch Worte schrecken , und höre erst , was damit gesagt werden wolle ! Wir erwägen wieder jedes im Einzelnen.
+
+S. 31.
+
+Das Wissen im vollständigen Begriffe als wahre , lebendige , in sich abgeschlossene Wissenschaft müsse absolut seyn - das fanden wir als [p. 41] die erste Foderung. Offenbar muß in demselben eine Einheit seyn , welche das Mannigfaltige seines Inhaltes entwickelt , und zu einem Ganzen verbindet. Diese Einheit kann sie als eine bloß mechanische , von außen hinzutretende , bloß formale betrachtet werden ? Würde dann das Wissen noch , wie wir es hier voraussehen, ein lebendiges , in sich selbst beschlossenes seyn ? Dieß wird kaum Jemand behaupten , der uns bisher mit eigenem Nachdenken gefolgt ist. (S. 19. , 20.). Die Einheit , welche so einem Wissen , wie wir hier meinen, und als wissenschaftliches bezeichnen, wesentlich eingebildet , einwohnend ist , kann nur die organische Einheit seyn , die wir oben kennen lernten , und von der wir bemerkt haben, daß sie Alles , das Ganze , was zu ihrer Erscheinung gehören mag , aus sich entwickelt und gestaltet , somit es , wie der Keim die Frucht , in ſich trägt , außer sich entfaltet und konstituirt. Alles , was ist bey einem solchen Wissen , ist nur in , aus und durch diese Einheit ; sie ist das lebendige Princip desselben. Nun frage ich meine Leser , wie wollen sie eine solche Einheit , die Alles in sich lebendig umfaßt , besser bezeichnen , als Alleinheit , um sie bestimmt zu bezeichnen , und besonders , was sehr wichtig ist, ihre wesentliche Differenz von jener bloß formalen, logischen , stets auf das Vorliegende des beschränkten Einheit , welche den logischen Akt der Analyse und Synthese des Gegebenen begleitet , gehörig anzudeuten? S.32.
+
+Können und müssen mir hierin meine Leser beypflichten , so hält es nicht schwer , sie auch davon zu überzeugen , daß eine solche Einheit nothwendig den Charakter der absoluten Identität rücksichtlich des Wesens und der Triplicität rücksichtlich der Form der Entwicklung mit sich führe. Sie dürfen nur aufmerksam bleiben auf die bedeutende Eigenschaft einer lebendigen Einheit , die um ihres Lebens willen zur Entwicklung , zur
+
+Entfaltung , zur Darstellung, zur Offenbarung des Mannigfaltigen , das sie in ſich trägt , wodurch sie gerade das ist , was sie ist , kommen muß, und - doch sich nie in diesem Mannigfaltigen , dessen Princip sie ist , verlieren darf. Ueberlegen wir, was dieß mit andern Worten deutlicher ausgesprochen sagen will ! Wir werden finden: es sey damit ausgesprochen eine Einheit , die , immer dieselbe an sich, die mannigfaltigen Erscheinungen hervorbringt und einzig bedingt. Sie ist eine identische Einheit , kürzer eine Identität, die , weil ihr gar nichts entgeht , schlechthin , und weil sie ohne irgend eine
+
+[p. 43] Ausnahme alles umfaßt , mit Recht absolute Identität heißt. Es ist damit weiter nichts anders als der Charakter eines lebendigen Princips bezeichnet , wie fern es sich während der wechselnden Gestalten stets gleich bleibt , weil es dasselbe allwirkende Princip ist. S. 33. Man sieht zugleich , wie hier die Unterschei= dung des Wesens und der Form und Formen sich von selbst aufdringt. Man sieht ihre Bedeutung und Beziehung auf einander , so wie ihren Ursprung , wiefern sie als Begriffe einander gegenüberstehen. Die eine, lebendige (identische ) Einheit hat ein Mannigfaltiges der Entwicklung , das als Mannigfaltiges , Vieles , somit unter sich Diffe= rentes (unter sich nicht = identisches) gestaltet , ge= bildet ist -Form, Formen hat , und in diesen Formen sich vom Identischen (dem Wesen) unterscheidet für die Entwicklung , womit der Proceß des Lebens sich entfaltet. S. 34.
+
+Damit (in und mit diesem Entfaltungspro ceße) ist eine Einheit der Mannigfaltigkeit gegenüberstehend , und sie zugleich zur Totalität eines
+
+[p. 44] Ganzen vereinigend. Die lebendige Einheit , dem Wesen nach stets identisch , scheidet sich für den Akt ihrer nothwendigen Gestaltung in eine Ein= heit , die zugleich eine Vielheit und Einheit ist. Sie geht gleichsam aus sich heraus , wird dadurch zum Vielem , das sich in der Zeit und im Raume gegenübersteht , und kehrt in sich selbst als beschlossene Totalität zurück. Man hat diesen Akt , so wie er dem über sie Reflectirenden erscheint , als den Akt der Thesis , Antithesis , und Synthesis bezeichnet , und es ist daran, nichts zu tadeln , als daß man bloß bey dem stehen blieb , was vorgieng , und so über der Form der Erscheinung den Charakter des identischen Wesens (die
+
+Hauptsache und das Ursprüngliche) übersah ; was die Theorie einseitig machen mußte. Die Triplicität in der Gestaltung , so wie die Nothwendigkeit ihrer Anerkennung bey aller Identität des Wesens werden meine Leser nun nicht verkennen können. Dabey kann sie die Verschiedenheit der Bezeichnung , die wir noch später finden werden , nicht irre machen.
+
+Wer die Sache gefaßt hat, den täuscht das Wort nicht. S. 35. Daher dann c) die dritte Forderung , welche eigentlich nur die beyden vorigen umschließt – die [p. 45] Forderung , daß das in seinem Begriffe vollständige Wissen (das wissenschaftliche) nothwendig ein Vernunftwissen , ein Wissen aus und in Ideen sey , S. 24. Nur die Vernunft trägt den Charakter des Absoluten und der Alleinheit in sich; nur sie kann ihn also im Wissen aus sich entfalten und darstellen ; nur sie behauptet die Eigenschaft absoluter Identität des Wesens und des Gesetzes. Diese behauptet bey der unendlichen Mannigfaltigkeit der
+
+Gestaltungen die Totalität der Erzeugung und der Ansicht , und unterwirft sich selbst dem Gesetze der Triplicität.
+
+Der Verstand hingegen , eben weil er das Vermögen des Geistes ist , das Einzelne , bereits in seiner Bestimmtheit und Trennung Gegebene beachtend zu sammeln und zu verstehen , wie es da ist und vorkommt in der Erscheinung - ist durchaus ungeeignet, sich über sich selbst zu erheben, d. h. mit sich selbst in Widerspruch zu treten ; was man denn doch von demselben nicht erwarten wird. S. 36. **Das Wissen der Vernunft ist zugleich ein Wissen aus , in und durch Ideen d. h. aus , in und durch solche Vorstellungen , welche der Vernunft , der ursprünglich produktiven , totalen Ansicht , eigenthümlich sind (S. 28.). Das achte Wissen, das [p. 46] vollständig und in sich selbst beschlossen ist , verwirft das Geschäft des Verstandes nicht , vielmehr es will den Schein und die Erscheinung jeder Sache kennen. Aber es befriedigt sich nicht damit. Eigentlich ist es nur höher als dasselbe an
+
+Gehalt und Würde , wie an Umfang und Lebendigkeit. Es verfolgt jede Sache, die es erfaßt in ihrem Ursprunge , begleitet es von da in ihrer
+
+Entwicklung und verläßt sie nicht bis zum letzten Punkt ihres Bestehens. Man kann in dieser Hinsicht sagen , daß das Vernunft = Wissen ( das der Ideen) da aufhört , wo jenes des Verstandes eigentlich erst beginnt.
+
+Es beseitiget dieses nicht, umfaßt es nur aus einem höhern Gesichtspunkte (des Lebens, der wesenhaften Ansicht , der sich das
+
+Wesen als solches in seinen Erscheinungen offenbart) . Die Erscheinungen sind demselben nicht ein zweydeutiges Nichts ohne eigentlichen Bestand ; sie sind ihm Darstellungen eines Höhern , das sich in denselben für Zeit und Raum kund thut. Wir sind nun vom Begriffe des vollständigen Wissens vorgerückt zu den Foderungen desselben , und damit auf das Bedürfniß vorbereitet einer absoluten Erkenntniß , wie sie einzig die Vernunft in ihrer eigenthümlichen Vorstellungsweise (der Ideen) geben kann.
+
+Wir sind im Stande die
+
+Höhe zu bemessen , welche die absolute Erkennt[p. 47]niß einnimmt , und in der absoluten Identi= tätslehre entwickelt.
+
+Das Nähere der Letztern soll nun in einer eigenen Abtheilung klar werden indem besonders erläutert wird
+
+II .
+
+Die Höhe und Eigenheit der absoluten Identitätsansicht. S. 37. Wir sind in unserer Orientierung so weit vorgerückt – einzusehen : daß nur das Vernunftwissen, indem es einzig den Charakter allerzeugender Einheit und allumfaßender Totalität , den Charakter des Absoluten in sich trägt , den wissenschaftlichen Denker befriedigen kann. Damit haben wir zugleich die Höhe so wie die Eigenheit der sogenannten absoluten Identitätslehre ausgesprochen. Sie bedingen sich gegenseitig. Ihre Höhe ist ihre Eigenheit und umgekehrt. S. 38.
+
+Als Vernunftwissen verschmäht sie nicht den Verstand , sondern nur die Oberherrschaft des Verstandes und der Operation , die seine eigenthümliche ist - der Reflexion. Das Wissen des Gegebenen kann überall nur ein beschränk[p. 48]tes, bedingtes seyn durch die Schranken , Verhältnisse , die eben statt haben (gegeben sind ) ; es haftet eben darum , weil es nur nimmt was und wie es vorliegt , bloß am Aeußern , an der Erscheinung , und kann in das Innere ( das was mehr als Erscheinung ist , in das Wesen) nicht eindringen. S. 26, 28, 30. Das logische Räsonnement (von dem man allenfalls eine Art von Erhebung über die Erscheinung erwarten michte ) kann nichts Wesenhaftes leisten , weil bey bloß empirischen Untersuchungen die Basis das Faktische bildet), und das, was etwa darüber hinaus mittels Induktion und Analogie erschlossen werden mag , selbst wieder unvollendet bleibt und nie zu vollenden steht - somit dem Zweifel wegen der Nichtvollendung Preis gegeben ist ; weil bey sogenannten spekulativen
+
+Untersuchungen , so lange sie von keiner Idee beseelt sind , nicht auszumitteln steht , was an dem Erschlossenen mehr als subjective Vorstellung , als leeres Begriffsspiel sey. Weder auf dem Wege der Empirie , noch der Abstraktion (rasonnierenden Spekulation ) ist durch die blosse Logik und ihr eigenthümliches Geschäft der Reflexion etwas ausgerichtet.
+
+$. 39.
+
+[p. 49] S. 39. Um dieß noch gründlicher einzusehen , bestimmen wir uns näher die Frage , welche die Reflexion des Verstandes lösen sollte - wenn sie es könnte.
+
+Man hat seit lange die zu lösende Aufgabe dahin bestimmt : Den objektiven Gehalt unserer Vorstellungen im letzten Grunde nachzuweisen - auszumitteln das enge Band des Objektiven und Subjektiven in unsern wahren , realen Ansichten und Begriffen. Man hat dieß auch durch die Formel versinnlicht : a = b
+
+In dieser bedeutet: a das Subjective, b das Objective des Begriffes und beyder, ihre Gleichsetzung , wiefern nämlich die Vorstellung als subjectives Bild ganz dem realen Objekte , das sie repräsentiret , im wahren Begriffe entsprechen soll. Hat man nicht von jeher die Wahrheit - als die vollkommne Uebereinstimmung des Objektes und seiner Vorstellung erklärt ?
+
+Der Zweifel über das Verhältniß des Sub, und Objektiven mit dem Versuche denselben be [p. 50] friedigend zu ldsen - ist erst , als bestimmt. erkannte und vorgelegte Aufgabe , ein Erzeugniß der lekten Jahrzehnte. Man hat chehin nach
+
+Wolfischer Ansicht so sehr mit dem a ( dem Subjektiven ) und dessen logischer Würdigung - das b (das Objektive ) sich gegeben gemeint , daß man hierüber gar nichts zu fragen nothwendig fand , und vom Denker nur verlangte , daß er nach den Vorschriften der Logik dem a ( dem Subjektiven ) seiner Vorstellung die möglichste Vollkommenheit und Deutlichkeit zu geben bemüht wäre. Einem deutlichen und logisch ausgebildeten Begriffe, glaubte man , konnte die Ueberstimmung mit seinem
+
+Gegenstande gar nicht fehlen. Die Logik war nach dieser Ansicht Alles im Allem.
+
+Schärfern Denkern, besonders wenn sie mit den
+
+Philosophemen der Alten nicht unbekannt waren mußten freylich bald mehr oder weniger Zweifel entstehen über das Verhältniß der Vorstellung zum Gegenstande ; und je nachdem sie an der Lösung verzweifelten , oder aus Einſeitigkeit der Bildung entweder mehr am Realen und Körperlichen oder mehr am Idealen und Geistigen hiengen, auf die mangelhaften Systeme des Skepticismus , des Materialismus und Spiritualismus gerathen. Der Grundfehler, den sie begiengen, aber nicht bemerkten , lag darin, daß sie von der Reflexion ( der
+
+Sphäre und Ansicht des Gegebenen) die Erklärung der Reflexion erwarteten. Sie hatten sich selbst in einen Zauberkreis gebannt , woraus nur eine scheinbare , und was im Grunde für den schärfer Sehenden dasselbe ist , keine Rettung war , so lange der Zauber währte. S. 40.
+
+Indeß auch der tiefer sehende Kant, der doch eigentlich die Frage zunächst mit Bestimmtheit zur Aufgabe machte , konnte sich von diesem Hauptversehen nicht ganz losmachen. So viel fuhr er ein, daß sich die Frage wie : a
+
+Subj.
+
+b:
+
+Objektivem sey , nicht in ihrem Urgrunde lösen lasse auf dem Wege der Reflexion. Statt aber um dieser Ohnmacht willen sie nicht als das Höchste , was menschliche Erkenntniß erreichen könne, anzusehen, und folglich sie zu verlassen , argumentierte er vielmehr umgekehrt. Er suchte die Reflexion gegen sich selbst und gegen die Angriffe des Skepticismus dadurch zu retten , daß er sie mit scharfer Kritik ihrer Macht und ihres Gehaltes auf sich selbst beschränkte; und erklärte : „Man müsse bey jener Aufgabe stehen bleiben - bey dem reinen Fakt
+
+[p. 52] ,,tum des Bewußtseyn , vermöge welchem einmal „diese Grundsynthese des Sub- und Objektiven gesetzt sey , indem alle weitere Nachforschung „eitel wäre; man müsse dafür auf das denken, „was nützlicher wäre - auf die unmittelbaren, Folgerungen , die sich aus jenem Grundfaktum „des reinen Bewußtseyns in Hinsicht auf die „die Bedingungen des wahren Erkennens , sowohl „der Form (dem Subjektiven ) als der Materie „(dem Objektiven ) nach , analytisch ergäben.“ Dadurch rettete Kant das Werk der Reflexion und des auf das Gegebene beschränkten Verstandes – durch die Hinweisung auf die Schranken und die Maxime ihrer Berücksichtigung.
+
+Er brachte sie zur Selbstprüfung , zur Selbsterkenntniß und dadurch zur bescheidenen Zurückziehung innerhalb der Schranken ihres Gebietes. Dadurch ward allerdings die philosophische Untersuchung vor mancher Verirrung und Ueberschreitung ihres Gebietes verwahrt - aber in der eigentlichen Erkenntniß der Wahrheit nicht weiter gebracht.
+
+Kants Verdienst war negativ , übrigens groß genug , und als Uebergangsstufe unentbehrlich ; allemal nur von einem Geiste zu erwarten, der mit einem bewunderungswürdigen
+
+Umfange von Kenntnissen eine seltene Tiefe, ein [p. 53] nen seltenen Scharfsinn und dialektische Gewandtheit verband.
+
+S.41.
+
+Auf dem Gebiete der Reflexion war nichts zu erreichen.
+
+Indem die Gegensätze des Sub- und Objektiven blieben , war ihre Gleichsetzung ( das ) nur faktisch anzuerkennen , nie ihre Identität selbst nachzuweisen.
+
+Und doch mußte dieß geschehen , wenn die Aufgabe wahrhaft gelöset seyn sollte. Es war also einzig auf dem , jenem der Reflexion gegenüber stehenden , Gebiete der Identität Heil und Rettung für den Denker zum Behufe jener Lösung zu erwarten. Man nennt dieß das Gebiet der ( nicht bloß logischen ( S.
+
+38. ) - sondern wahrhaft metaphysischen ) Spekulation. Wir müssen es näher kennen lernen , so weit dieß nöthig ist , um in demselben das einzige Gebiet philosophischer Wahrheit und zugleich jenes der absoluten Identität zu erkennen. Das Charakteristische desselben im Vergleiche mit jenem der Reflexion , deren Gegensatz und Vereinigung näher auseinander zu setzen , behalten wir uns für die Folge bevor (vergl. die Einleit.).
+
+[p. 54] S. 42. Die Ansicht auf dem Gebiete der (wahren) Speculation ist- keine bloß logische. Dies kann nicht genug beherzigt werden. Die logische Meditation fodert überall einen Stoff des Nachdenkens , der bereits gegeben ist; sie kann ihn nur zerlegen und wieder zusammensehen ; das übrigens allenfalls mit einer Einheit der Analyse und Synthese , die , weil sie sich scheinbar gar sehr oder völlig von der Erfahrung los macht und wie selbstständig verfährt , wohl auch Spekulation genannt werden kann , und genannt wurde. Es gehen Objekte und Erkenntnisse für den logischen Künstler ( Dialektiker ) hervor , die ganz neu und über alle Erfahrung erhaben , und von ihr ganz unabhängig scheinen. Leider ist aber dieß Letztere reine Täuschung. Es ist alles nur Spitzfindigkeit und leeres Räsonnement , was durch bloße Schlüsse , unabhängig von der Erfahrung , als Wahres und Wirkliches erkannt zu werden den Schein hat. Kant hat dieß auf eine unwiderlegbare Weise dargethan; und diejenigen, welche meinen, der gründliche Denker könne jemals davon nur ein Jota aufgeben , irren gar sehr ( S. 38. fig. ).
+
+[p. 55] Dafür muß man solchen empfehlen , einen andern Punkt nie zu übersehen , und wohl zu beherzigen; nämlich , wenn Kant unwidersprechlich Die Nichtigkeit jeder bloß logischen Speculation , die ohne die Grundlage der Erfahrung. ein eitles Spiel mit spitzfindigen Sophismen und versteckten Paralogismen wird , dargethan hat, habe es derselbe gar sehr darin versehen , daß er zu vorschnell mit der logischen Spekulation jede Spekulation ( auch die wahre , acht metaphysische oder, wenn man lieber will , philosophische ) verurtheilt und vernichtet hielt. Er war hier selbst trotz seiner Vorsicht einseitig und inkonsequent. So richtig er die Nullität der Spekulation , die sich auf dem Gebiete der Reflexion nothwendig in ein Nichts , in ein Grundloses auflöst , bemerkte , so wenig bemerkte er, daß damit nicht alle , sondern nur die scheinbare (logische) Spekulation , auf dem Gebiete der Reflexion aus Mangel von Selbsterkenntniß beharrend , angegriffen und bestritten war ; er bemerkte nicht , daß es eine höhere , eigentliche, selbstständige Spekulation gäbe , welche seine Argusmeute nicht erreichten , und auch nicht bezielten ; eine Spekulation , die , indem sie sich über den Verstand und die Ansicht des Gegebenen ( die Reflexion ) erhebt , außer ihren Widersprüchen und Fallstricken liegt - im Schooße des wah [p. 56] ren, wissenschaftlichen , absoluten Wissens der Ideen , der Vernunft. Man kann sie die Vernunft , auch die ideale Spekulation nennen. Einige glaubten dadurch jeden Mißverstand zu verhüten , daß sie dieselbe Kontemplation zu nennen vorschlugen , um sie von der logischen Spekulation und ihren eiteln Kunsten des blossen Räsonnements auch dem Buchstaben nach zu unterscheiden. Ich halte dieß für wenig wichtig; auch , wie es scheint , hat der Vorschlag wenig Eingang gefunden. S. 43. Diese achte Spekulation nun im scharfen Gegensatze der bloß logischen hat , wie gesagt, ihr eigenes Gebiet , auf demselben ihre eigene
+
+Funktion und Handlungsweise. Indem Kant dieß Letztere übersah , und übersehen mußte nach seinem , einmal eingenommenen Standpunkte ; urtheilte er so wenig treffend über die theoretische Erkenntniß der Vernunft und über die Natur, den Gehalt und Gebrauch der Ideen - daß er sich selbst zuletzt gezwungen sah , ein Nebengebäude der praktischen Vernunft zu errichten, die untheilbare Vernunft in sich selbst zu spalten, und mit sich selbst in eine Art von Widerspruch zu setzen. Es war dieß im Grunde eine nothwendige Folge seines beschränkten Gesichts [p. 57] punktes , womit er , das Faktische der Reflexion als Grundlage anerkennend , selbst die Vernunft in die Beschränkung seiner bloß verständigen Ansicht theoretisch hinabziehen mußte , und somit sie ( die Vernunft ) theoretisch nicht mehr gelten lassen konnte , als der Verstand erlaubte. Die eigene Funktion und Handlungsweise der achten Spekulation - ist , wie bey der Erfahrung , eine unmittelbare des Geistes. Nennen wir jene , da sie zunächst in ihrer Aeußerung an die Sinne und deren Sphäre gebunden ist, die sinnliche Anschauung, so bezeichnen wir diese mit gleichem Rechte als Anschauung , wie fern sie unmittelbar ist , aber als rein geistige (intellektuelle , nach Andern rationale ) Anschauung, weil sie durch keinen Stoff , durch keinen Sinn gebunden , sondern rein geistig , schaffend , produktiv , ursprünglich von der werdenden Einheit bis zur gewordenen Fülle und Vollendung des Denkens fortgehend - verfährt. Es läßt schwer, diesen Geistesakt Jemanden , der ihn in sich nicht beobachtet hat , zu beschreiben; er ist aber jedem klar , der ihn in sich einmal wahrgenommen hat ; so wie er denn auch in jedem wohnt , wenn schon nicht in jedem zum klaren Bewußtseyn kommt. Der Spott über intellektuelle Anschauung ist deßwegen allemal sehr am unrechten Orte; er beweiset , daß man über etwas spottet , [p. 58] was man nicht kennt , obwohl man es in sich trägt.
+
+!
+
+Auf wen somit das Lächerliche zurückfalle, ist leicht zu erachten. Am ärgsten kompromittieren sich hieben diejenigen, welche sich über diesen Akt geistiger Anschauung lustig machen , und doch unkonsequent genug mit inniger Ueberzeugung von Gott , von Religion , von Tugend , von Wahrheit, oder auch nur von Wissenschaft im bessern Sinne des Wortes sprechen; die sie doch ohne jenen geistigen Blick gar nicht erfassen könnten , vielmehr als bloße leere Begriffe und eitle Gedankenwesen nach der bloß empirischen Ansicht der Dinge ( wie Kant dieß sehr richtig bewiesen hat ) theoretisch verwerfen mußten.
+
+Dieser geistige Blick ist nichts Außerordentliches , Uebernatürliches , wie sich diese Funktion Manche zu denken scheinen; so wenig , daß er das Natürlichste ist für jeden , der einer geistigen Erhebung fähig ist. Und wer ist dieß in der Regel nicht , wenn er auch nur die bessern Empfindungen der Menschheit zu theilen im Stande ist ? Daß ihn (diesen Blick) der Mann von Talent und
+
+Bildung , besonders von philosophischer Bildung (wenn letztere nur nicht schon durch eine verkehrte Ansicht und Konsequenz verschoben ist) vorzüglich entwickelt und in Thätigkeit setzt - daß in so fern derselbe unter dem Namen intellectueller Anschau [p. 59] ung vorzüglich dem Philosophen als unentbehrlich zugetheilt wird ; wen wird dieß befremden, wenn er bedenkt , daß die höchste Bildung auch das höchste Organ geistiger Thätigkeit entwickelt besitzen soll ? Es ist nicht etwa anzunehmen , als wenn der Philosoph als solcher ein eigenes Organ mit sich auf die Welt bringen , oder wie immer em.
+
+pfangen müßte.
+
+S.44.
+
+Durch diesen geistigen Blick , welcher der Vernunft eigenthümlich ist , und den man den Vernunftblick nennen könnte , d. h. durch die intellektuelle Anschauung erfaßt die Spekulation jenen Punkt ursprünglicher Einheit , von dem aus Seyn und Erkennen sich gleich gestalten, sich parallel laufen, indem sie sich stets begegnen, in und durch den sie schlechthin identisch sind. Dieß ist so wenig , wie man Identität übersehen wollte , eine Einerleyheit , als die Theile einer Pflanze einerley sind , weil sie sich aus und durch dieselbe identische Einheit im Keime entwickelt haben. t
+
+Die Spekulation erhebt sich also über jede Erscheinung bis zur identischen Quelle der Erscheinungen , aber nicht wie die Reflexion, um sie bloß für architektonische und moralische Zwecke zu pos [p. 60] stuliren. Sie steigt nicht erst von diesen zu jener auf, sondern sie steht unmittelbar auf der
+
+Höhe jener identischen Einheit , die ihr das Erste, das Wesentliche und ursprünglich Allgemeine ist. Und diese Ansicht ist der Spekulation so wesentlich , daß sie charakteristisch die Ansicht der absoluten Identität heißt , und dieß System als das einzig wahrhaft spekulative System der Philosophie anerkennt , indem nur in diesem das wahre d. h. das eine , in sich abgeschlossene Vernunftwissen waltet. Wollen wir dieß mit einem Rückblick auf das (S. 39. und 40.) Gesagte und die da gebrauchte Formel versinnlichen ; so müssen wir diese letztere so stellen: X ab
+
+:১
+
+Das Subjektive (a) und das Objektive (b) soll man nicht bloß im synthetischen Akte (=) , wo sich die Gegensätze ( Differenzen von beyden ) verlieren, d. h. zur Indifferenz werden, aufweisen ; was auch allenfalls faktisch nach Kants Gedanken geschehen könnte. Es soll das über alle Gegensätze Erhabene (= x) schlechthin ergriffen werden; das über sie (nicht bloß in ihnen) waltet; aus dem alles hervorgeht , alle gedenkbaren Gegensätze J [p. 61] somit auch die höchsten des Seyns und Erkennens - durch das alles gestaltet wird , und das somit.
+
+als das ursprüngliche Wesen , aller Erscheinungen erste und letzte Quelle ist ; darum, mit Recht als die eine Substanz d. h. als das Eine schlechthin durch sich Selbstständige erkannt wird , ohne das alles Uebrige nicht besteht , und in wiefern es besteht , nur bedingt und abhängig besteht.
+
+Ehe wir weiter fahren , wird eine Bemerkung für meine Leser nicht überflüssig seyn. An dem , was wir so eben beschrieben haben als den Centralpunkt , erkennt jedes religiöse Gemüth leicht von selbst das Wesen , das wir Gott nennen. Nur ist das Geschäft , das wir hier zunächst vorhaben - jenes der Wissenschaft. Diese kann und darf nun nicht so vorschnell in diesem Ausspruche seyn, um so weniger als sie dadurch nicht zum gewünschten Ziele einer durchgreifenden Erkenntniß gelangen konnte. Die religiöse Erbauung kann allerdings für die Erkenntniß unausgefüllte Räume durchfliegen , um sich an den anzuschließen, in dem sie Ruhe und gemüthliche Befriedigung findet. Nicht so die Wissenschaft; sie muß alles beleuchten , alles mit ihrer Erkenntniß erfüllen , wenn sie befriedigt werden soll. Daher , so sehr Wissenschaft und
+
+[p. 62] Religion in ihrem Anfange und in ihrem Ende eins sind ( was sich einmal später zeigen wird ), so sehr differiren sie in ihrem nächsten Geschäfte ; eine Bemerkung , welche zugleich die bekannte Erscheinung erklärt , daß Wissenschaft und Religiosität in der Erscheinung des Lebens sich nicht immer , vielleicht so gar, seltner, als es gut ist, begegnen ; eine Bemerkung , welche Bacon's von Verulam Behauptung bestätigt , die Philosophie halb begriffen führe von Gott ab , ganz gefaßt, zu Gott zurück.
+
+S. 45 Die Spekulation , indem sie die identische Einheit aller Erscheinungen und Gegensätze mittels intellektueller Anschauung ergreift , hat das identische Princip alles Seyns und Werdens ( des Alls , als des Inbegriffes aller Erscheinungen) so mit das ursprünglich schaffende Princip aller und jeder Produktion im Auge- um erkennend demselben in seiner ganzen Entwicklung zu folgen, nicht willkührlich , sondern gesetzlich dessen Gestaltungen zu konſtruiren, und sie im Wesen und in der Erscheinung zu schauen (vergl. S. 20. u. 30. fig.) Man braucht diesen letzten Ausdruck nicht aus irgend einer affektirten Oftentation , sondern weil er der bezeichnendste ist , die Geistesfunktion in diesem Geschäfte ( dasselbe verglichen mit jenem [p. 63] der blossen Reflexion über Erscheinungen ) anzudeuten. Für beyde gehen diese (die Erscheinungen) vor aber nicht auf dieselbe Weise werden sie erkannt. Die Spekulation erkennt an ihnen das sich entwickelnde Wesen , als die Einheit , durch die sie als Erscheinungen bedingt , und wovon sie die zeitlichen Offenbarungen sind ; die Reflexion hingegen erblickt in ihnen bloß sie allein , stellt sie zusammen , vergleicht sie, und sucht dadurch mit gehöriger Vorsicht bleibende Verhältniße derselben , aber niemals , wenn sie bescheiden ist , das
+
+Wesen zu erschließen. Offenbar will die Spekulation die Sache selbst ganz als Inneres und Aeußeres , das Wesen und die Erscheinung des Wesens ungetrennt erfassen - eine Eigenheit der
+
+Anschauung , wo Sache und Vorstellung noch ungetrennt sich berühren. Hingegen die Reflexion will nur das Aeußere, die Erscheinung in ihrer Trennung von dem Wesen ( dem Innern) sich bekannt machen ; der Begriff , welcher das Ganze zusammenfassen soll , kommt da erst hinzu , und faßt da nur zusammen , was der auf das Vorliegende achtenden Reflexion gegeben ist, d. h. die Aussenseite und die Beziehungen der Erscheinungen aufeinander und auf die ( mehr oder weniger hypothetische ) Einheit ihrer Erklärung. Offenbar eine Einheit , die nicht ursprünglich ist , nur durch den reflectirenden Verstand hinzugethan.
+
+[p. 64] Uebrigens ist es für sich klar , daß dieß identische Princip des Alls als das lebendige Urprincip , selbst nicht entstanden , überall die universelle Quelle der Erscheinungen , der Grund alles Entstehenden und Entstandenen ist - und als Kraft alles belebt , entwickelt , durchdringt und sich in ihnen als vorübergehenden Gestaltungen verkündet - das allein Ewige in den unendlichen
+
+Evolutionen der Endlichkeit.
+
+$.46.
+
+Der Spekulation in Hinsicht auf ihr wissenschaftliches Bestreben , das keine bloß erbauliche Betrachtung seyn darf, liegt alles daran dieß identische Urprincip des Alls in dem freygesetzlichen Gange seiner Gestaltungen vollkommen zu erkennen. Deutlich muß ihr seyn ( und diese Aufgabe der Philosophie ist in ihrer Art unendlich) sowohl das große Gesetz aller Gestaltung im Allgemeinen , als diese Gestaltungen selbst im Besondern nach ihren quantitativen und qualitativen Differenzen , erkannt aus demselben Gesetze und als potentielle Wiederholungen , Darstellungen , Offenbarungen desselben Wesens. Schon hieraus sieht man, daß die Spekulation die Empirie und den Dienst der Reflexion nicht verschmäht , so wenig , daß sie beyde vielmehr im wohlthätigsten Verkehr mit sich selbst setzt , nur aber auch das von ihnen Gegebene dem höhern Blicke der konstruktiven Ansicht unterwirft. S.47-
+
+Der Gang der Entwicklung ist durch die sich entwickelnde ursprüngliche Einheit durchaus bestimmt ; derselbe ist um seiner Bestimmtheit willen nothwendig und gesetzlich , ist um der innern (organischen) , um der Selbst = Bestimmung willen frey. Man nehme nur dieß Wort hier, bey dieser allgemeinen Beziehung, nicht in der engen Bedeutung, wie wir es später bey Wesen von Selbstbewußtseyn am vollkommsten dargestellt finden werden.
+
+Dieser freynothwendige Gang - eben weil er nichts anders ist, als die durch die ursprüngliche Entwicklung gegebene Weise der Entfaltung - läßt sich als universelles Gesetz aller
+
+Darstellung angeben , womit die ursprüngliche allbelebende und allerzeugende Einheit ihr Wesen unter mannigfaltigen Gestaltungen sichtbar macht. a) Mit dem Mannigfaltigen , was jede lebendige Darstellung als solche mit sich führt , sind außer der sich entwickelnden Einheit Gegensätze gegeben; ein Mannigfaltiges , das sich als Different gegenüber , aber zugleich um des identischen
+
+[p. 66] Ursprunges willen in wesentlicher Beziehung zu und auf einander befindet- gerade das , was der
+
+Begriff eines Gegensatzes durch alle Abstufungen hindurch bezeichnet. Die sich entwickelnde Einheit wird auf diese Art zur Vielheit , die sich in Gegenſätzen mit gegenseitiger Beziehung darstellt aber auch in und durch die vollendete Entwicklung als die siegende Beziehung , als die siegende Einheit in der Totalität der Gegensätze, als die entwickelte Einheit , nicht mehr als organisches Princip , sondern vielmehr als organiſches Ganzes beweiset. Es tritt damit eine
+
+Indifferenz der Gegensätze ein , die wir uns als streitende Potenzen , als gegenüberstehende Pole vorstellen müssen ; die Differenz verschwindet.
+
+b) Wenn Veränderungen durch die eigene, innere Macht der sie bestimmenden Kraft hervorgerufen und zu geschlossenen Erscheinungen gestaltet , im Allgemeinen Leben heißen, so ist jede Entwicklung der ursprünglichen Einheit im All ein Lebensprozeß im weitern Sinne des Wortes, eine durch das innere Princip bestimmte Entfaltung des Mannigfaltigen - auf eine Art , daß in diesem Lebensproces nothwendig ein Kampf streitender Potenzen statt findet , in denen sich die mannigfaltigen Formen der ursprünglichen Kraft aussprechen, und durch ihre gegenseitige (lebendige)
+
+[p. 67] Beziehungen als momentane , vorübergehende Indifferenzverhältnisse manifestiren. Die streitenden Faktoren begegnen sich , um zu augenblicklichen Resultaten einer relativen Indifferenz (Ausgleichung) sich zu vereinigen; aber indem im nächsten
+
+Augenblicke sie sich wieder verlassen, und mit neuer Entgegensetzung sich gegenüber treten, setzen sie dieses Spiel ihrer Thätigkeit - bis zur endlichen vollen Entwicklung aller Gegensätze fort. c) Es ist dieß das Charakteristische des Organismus.
+
+Daher ist mit der wahrhaft spekulativen Ansicht nothwendig ein universeller Organismus gesetzt. Ein universelles Leben , und Lebensprincip waltet im All der Erscheinungen , daß sie eben zu einem wahren All (universum)
+
+vereiniget, und jede Geschiedenheit , jede Trennung als bloß relativ , so wie jeden Tod und jeden Mechanismus der Natur als bloß scheinbar erkennen läßt.
+
+Dieser universelle Organismus behauptet sich in seiner Darstellung überall gleich ; er entfaltet Überall drey Momente , die sich unterscheiden als eben so viele Epochen des Vorrückens in
+
+Hinsicht auf die sich entwickelnde Einheit , als eben so viele Potenzen in Hinsicht auf den Grad der Fülle und Macht der Entwicklung selbst
+
+[p. 68] Da dasselbe durchaus identische Princip das Ganze in den kleinsten Theilen durchdringt , so muß sich in jeder Epoche , und auf jeder Potenz dasselbe Gesetz der Entwicklung wiederholen. Das Allgemeine entwickelt sich in jedem Besondern, das Besondere ist nur ein Besonderes durch die quantitative Stufe der potenziellen Darstellung , ohne übrigens , wie sich später zeigen wird, den specifischen (qualitativen ) Unterschied der Dinge aufzuheben. S. 48.
+
+Man hat dieses Gesetz als jenes der absoluten Identität in der Triplicität und umgekehrt (der Einheit in der Dualität und umgekehrt) bezeichnet. Die Dualität bezieht sich auf die Nothwendigkeit der Gegensätze , so wie die Triplicität auf dieselben Gegensätze und ihre Indifferenz. Da die ursprüngliche Einheit und ihre absolute (nicht blosse relative) Darstellung über denselben waltet , so begreift es sich , wie man auch von einer Quadruplicität sprechen konnte.
+
+Man sieht , daß , wenn die wahre Spekulation nothwendig Vernunftwissen ist , absolut , lebendig, organisch 2c. , sie sich als die Ansicht der absoluten Identität eben so nothwendig charakterisirt.
+
+[p. 69] Die Höhe und Eigenheit dieses letztern philosophischen Systems würdiget sich dadurch hinreichend. Dessen Höhe ist die Höhe des absoluten , lebendigen , darum ursprünglichen Wissens. Dessen Eigenheit der Charakter der einzigen wahrhaft philosophischen Spekulation. Nur Unbekanntschaft und Vorurtheil können es von dieser Seite verkennen. Wir werden Gelegenheit haben , dieß in der Folge noch mehr zu zeigen, wo wir auf die gewöhnlichsten Erinnerungen, Vor- und Einwürfe Rücksicht nehmen werden.
+
+Wir gehen zum dritten Punkt unserer wissenschaftlichen Orientierung über , indem wir auseinandersehen wollen: III.
+
+Die Hauptdogmen der absoluten Identitätslehre. S. 49.
+
+Diese Hauptsätze der Identitätsansicht können nichts anders seyn , als die unmittelbaren Theoreme , welche aus der eben erklärten Höhe und Eigenheit ihres Standpunktes , ganz besonders aus der Identität in der Triplicität , der
+
+Einheit in der Dualität hervorgehen, und alle übrigen Sätze und Bestimmungen dieser Ansicht, als Direktivnormen beherrschen. Auf ihrer Basis beruht das ganze System dieser Lehre, wenn man darunter nichts weiter versteht als die Totalität ihrer Entwicklung. So wie das ganze System selbst nichts anders ist als das System des Vernunfts ( des absoluten , in sich abgeschlossenen) Wissens , das einzig die Foderungen der Wissenschaft befriedigt; so sind diese Theoreme und jene Hauptdogmen nichts anders als - die ersten und unmittelbarsten Begriffe und Prädikate der wahren Vernunftansicht , welche sich durch lebendige Einheit und geschlossene Totalität auszeichnet. Ihre Darstellung und Nachweisung wurde daher sehr einfach seyn , wenn das Geschäft nicht dadurch verwickelter würde, weil des wahrscheinlichen Mißverstandes und der Zeitbedürfnisse wegen manche unmittelbare Folgerungen gezogen , und manche nähere Bestimmung vorgenommen werden müssen. Wir gehen an die Sache!
+
+Man kann diese Hauptdogmen auf zwey Hauptpunkte zurückführen : das eine Wesen der
+
+Dinge- und dessen unendliche Offenbarung in den Erscheinungen,
+
+[p. 71] S. 50.
+
+In Hinsicht auf das erstere ſteht als Dogma an der Spike der Satz : „Es ist überall nur ein Wesen , eine Substanz - die absolute Substanz , das absolut= identische Princip aller Erscheinung. ,,
+
+Zur Erläuterung bemerken wir : Es ist dieß nur der entwickelte Begriff der absoluten Identität ; wie jeder Satz als eine logische Entwicklung des Begriffes angesehen werden kann.
+
+Der Beweis desselben ergiebt sich auch unfehlbar aus demselben durch bloße logische Analyse. Nicht so sehr von dieser Seite bedarf daher dieser Satz einer Erläuterung - als von Seite der unmittelbaren Folgerungen , die man daraus zu ziehen hat , und der Mißverständnisse , die man sich dabey sehr oft beykommen läßt. $. 51.
+
+Dieß eine Wesen, diese absolute Substanz identische Princip im All der Er= das ist ſcheinungen. Die Behauptung , welche das Wesen der Dinge ins Unendliche vermannigfaltigt, und eine ursprüngliche qualitative Differenz derselben setzt und annimmt - wird hiemit verworfen. Dagegen wird als entschieden vermöge logischer Konsequenz - eine bloß quantitative Differenz der Dinge festgesetzt , die aber darum doch nicht die spezifische Differenz in den Erscheinungen aufhebt , wie wir sehen werden. Auch die verschiedenartigsten Erscheinungen reihen sich an einer Kette der Erscheinungen; nur nach dem Grade des in ihnen sich entwickelnden Ur = Lebens behaupten sie , ſo wie ihre Selbstständigkeit , so ihre sogenannte spezifische Differenz.
+
+Dies ist eine unmittelbare
+
+Folgerung.
+
+S. 52.
+
+Man hat so wie an jenem Satze, so an dieser Folgerung manches Arge und Bedenkliche erblicken wollen.
+
+Die Dinge wurden zu blossen
+
+• Scheinsubstanzen herabgewürdigt ; es würde der specifische Unterschied derselben und damit die höhere Würdigung des Menschen ( dieses Fundament der Moral , des Rechtes 2c. ) vernichtet , Gutes und Böses , Laster und Tugend gleichgesetzt. Spinozismus , eine poetische, irreligiöse Naturphilosophie , ein schwärmerischer Hylozoismus und ein ungereimter Pantheismus , der das Universum vergöttert , oder die Gottheit in das ungeheuerste Monstrum zerstückelt , seyen die [p. 73] traurigen Früchte dieser Ansicht und ihrer konsequenten Durchführung. Daß es so gar arg nicht sey , werden die folgenden Bemerkungen lehren , welche bestimmt , sind , diesen Mißverständnissen zu begegnen. Es ist um so nothwendiger , diese Vorsorge zu treffen , als jene Mißverständnisse in mancher Hinsicht viel Scheinbares haben , und deßwegen gerade bey sehr wohldenkenden und unbefangenen Gemüthern sich einfinden können. § 53 In Hinsicht der Substanzialität der Dinge bemerke man , daß durch dieselbe zunächst nicht ihre Ursprünglichkeit bezeichnet werden wolle , sondern wie Kant sehr richtig bemerkt hat , für die konsequente Ansicht der Reflexion einzig das Bleibende der Erscheinung. Dieß wird aber durch obige Behauptung so wenig gefährdet, daß es durch dieselbe gar nicht berührt wird.
+
+Von der Erscheinung ist gar nicht die Rede , als von dem , wodurch sie in der Zeit und in Raum beharrt.
+
+Der Begriff der absoluten Substanz überspringt alle Zeit und allen Raum , somit auch das , was in ihnen vorgeht. Derselbe schadet der behaupteten Substanzialität der Dinge , wie sie uns vorkommen so wenig , als nach der [p. 74] allgemeinen Meinung jemals der Begriff Gottes und der Schöpfung des Alls durch sein Wort ihr geschadet hat. Im Wesentlichen ist auch obige Behauptung von dieser religiösen Bestimmung gar nicht verschieden , außer wie ferne das wissenschaftliche und religiöse Interesse an und für sich verschieden ist. Das hätte man bedenken sollen ! In der Folge wird das noch klarer werden durch die bestimmte Anwendung, die hier noch am unrechten Orte wäre. Die einzelnen Dinge bleiben obiger Behauptung ungeachtet Substanzen wie bisher. Darum weil sich in ihnen das allgemeine Princip des Lebens darstellt , verliert sich die Selbstständigkeit der Wesen, in denen es sich darstellt , so wenig , daß vielmehr die Darstellung sie selbst verlangt, und eine Individualität ( d. h. eine selbstständige Existenz ) um des sich entwickelnden Principes willen mit sich führt. S. 54.
+
+Dieselbe Antwort gilt rücksichtlich des specifischen Unterschiedes der Wesen.
+
+Ist nach der Ansicht , nach welcher Alles aus dera selben allschaffenden Macht Gottes hervorgeht , jener Unterschied gefährdet ? Wenn nicht , warum soll es derselbe bey der so nahe verwandten wis [p. 75] senschaftlichen Ansicht eines durchgängig identischen Lebensprincips des erscheinenden Aus ? Ins dem dasselbe nach dem schon erdrterten Geseze der Darstellung Potenzen (S. 47.) entwickelt; müssen diese nicht eine verschiedene Fülle und Macht des sich entwickelnden Lebensprincips auss sprechen , die, so identisch sie in Hinsicht auf Quelle und Ursprung seyn mag , in Hinsicht auf Besonderheit und Charakter der Erscheinung eben so different , und zwar specifisch different unter einander bleiben muß ? Das Leben , das in der uns organischen Natur noch zurückgedrängt wird , und nicht zur äußeren Offenbarung kommt - thut dieß Letztere in der organischen auf eine unver kennbare , wenn schon übrigens unendlich mannigfaltige Weise, und wird zum wahren äußern ( hervortretenden ) Leben in der Pflanzen noch > mehr in der thierischen Natur , über die sich der Mensch wie eine kleine Gottheit ( Gottes Ebenbild ) erhebt. Ist hier der specifische Unterschied, wie man ihn gewohnlich anerkennt , vernichtes? Gewiß nicht , so wenig als die fromme Behauptung : die schaffende Hand Gottes sey so gut im Steine als in der Vernunft des Menschen zu bewundern , denselben und in demselben die Era habenheit der menschlichen Wurde vernichtet. Man setzt hier Mensch und Stein nicht gleich , weil man sie durch die eine Macht und Weisheit Got= [p. 76] tes werden und bestehen läßt. Die nämliche Des merkung gilt auch von unserer wissenschaftlichen Bemerkung , daß ein Wesen alle Erscheinungen ursprunglich durchdringe ; sie vernichtet ihre specia fische Differenz nicht. S. 55Durch das erste Dogma (S. 50.) das , wie wir eben hörten , auf die Substanzialität und den specifischen Unterschied der Dinge keine nachtheilige
+
+Beziehung hat , soll nur hingedeutet werden auf das große, wissenschaftliche Interesse : „Bey der Erkenntniß der Dinge es nicht des ,,wenden zu lassen , bey dem , wie sie erscheinen, sondern über die Erscheinung hinaus in das Wesen ,,derselben einzudringen , dieses in jener, jene in „diesem zu erkennen - und somit zu verstehen , wie sich die ursprüngliche Einheit in was immer „für einer bestimmten Gestalt der Erscheinungswelt gesetzlich offenbare." Es ist damit eigentlich nur das oberflächliche Wissen getadelt , das an der äußern Schale der blossen Erscheinungen hängen bleibt , und den Kern des innern Wesens zu erforschen unverſucht läßt.
+
+[p. 77] S. 56. Wir sehen unsere Dogmenbestimmung fort,
+
+Diese eine absolute Substanz ist als das eine Wesen der Erscheinungen zugleich ewig. Denn es ist die positive Quelle aller Erscheinungen in Zeit und Raum. Zeit und Raum entstehen selbst erst mit den Erscheinungen. Sie sind selbst nichts anders als die formalen Bedingungen d. h. die nothwendigen Formen (Weisen) , unter denen sich das Unendliche , was in dem ewigen Princip ruht, einzig in der Endlichkeit darstellen kann. Dasselbe muß sich als ein ( unendliches ) Nacheinander (die Zeit) , und als ein (unendliches) Außer = und Nebeneinander (der Raum) entwickeln. Wie kann das Ewige mit seiner Unendlichkeit in der Endlichkeit sich anders darstellen ? Wie anders sich der eine Centralpunkt des Lebens zu uns endlich vielen Lebenspunkte in der Totalität der Lebens Peripherie ausdehnen ? Beyde
+
+Raum und Zeit- sind selbst nichts anders als die unendliche Entwicklungen des Ewigen im Endlichen. Das ist ihre Vernunftansicht , ihre Idee, die sie in ihrem ursprünglichen Wesen erfaßt , und sich gar sehr von dem beschränkenden Begriffe , der Zeit und Raum bereits in gegebenen Sphären einengt , unterscheidet , der nur den einzelnen Raum und die einzelne Zeit in ihrer Realität kennt.
+
+[p. 78] Daher der paradoxe Charakter dieser beyden, in dem sich auf eine befremdende Weise das Unendliche und Endliche ( Anschauung und Begriff) berühren ! - Dieß ist es , was bekanntlich der scharfbeobachtende Kant so treffend bemerkte und so richtig hervorhob , und wie man weiß auf eine scharfsinnige Weise zur Basis seiner transcendentalen Aesthetik in der Kritik der reinen Vernunft machte. Nur unterschied auch er nicht , wie er sollte, die Idee und den Begriff (die absolute und relative Ansicht) von Raum und Zeit. Indem nun das identische Princip sich zeitlich und räumlich in endlichen Erscheinungen darstellt, ist es selbst erhaben über die Zeit und den Raum, es ist ewig. Das Ewige ist das Positive , das in
+
+Zeit und Raum nur gleichsam theilweise , und in ein unendlich mannigfaltiges Endliche zerlegt, hervortreten , und sich offenbaren ( als unsichtbares Wesen in sichtbarer Erscheinung manifestiren) kann.
+
+Die Idee des Ewigen ist positiv , wogegen der Begriff desselben, wie er durch die Reflexion auf das Zeitliche entstehen kann , rein negativ ist und stets bleibt. }
+
+$. 57.
+
+Die unmittelbare Folge ist die , daß alles was, wie die in der Totalität ergreifende, Ver= [p. 79] nunftansicht es verlangt , ursprunglich und absolut erkannt seyn soll - zugleich in seinem Wesen und in seiner Erscheinung , d. h. zugleich in der Idee, die jenes , und im Begriffe , der diese er= faßt , und um beyder willen als Ewiges und als Zeitliches erkannt werden musse. Zeit und Raum sind eigentlich die Vehikel , die , indem sie selbst den doppelten Charakter des Unendlichen und Ende lichen in sich vereinigen , das gemeinsame Band von Idee und Begriff ( als formale Bedingungen - alles Werdens und Seyns ) tragen. Auch dieß hatte Kant, der feine Dialektiker , sehr richtig ge schlossen, wie wohl weniger glücklich ausgeführt. --- Und wenn , wie wir bereits wissen , dieSpes kulation vorzuglich derIdee, die Reflexion dem Des griffe huldigt , sehen wir , wie nahe und im Grunde unzertrennlich sich Spekulation und Reflexion ( Empirie ) berühren ; wie ihre
+
+Trennung nie bleibend seyn dürfe , nur vorübergehend und zu dem Behufe , damit jede in ihrer Trennung mit desto größerer Genauigkeit bearbeite, was die beschränkte menschliche Kraft nicht auf einmal wie Gottes Kraft überschauen kann. Man möchte sagen , was Gottes Blick in Einem umfaßt , müsse des Menschen Geist stets zu Einem versammeln ; dazu sey aber nothwendig , daß er sich ermanne, und als Gottes Ebenbild auf [p. 80] dem Standpunkte des Einen über Allem walte um sich nicht zu verlieren im Unendlichen. In der Regel ist es nur Sache eines ausgezeichneten philosophischen Genie's , das beyde in ihrer Gesammtheit und ihrer gegenseitigen Durchdringung stets glücklich zu überschauen vermag. S. 58.
+
+Bey dieser Gelegenheit darf zum bessern Verhältniße des Ganzen nicht ungerügt bleiben das doppelte Versehen derjenigen, die einseitig idealisiren sowohl als der andern , die nichts als Empirie , Erfahrung und Beobachtung gelten lassen. Dieß ist eine unbefugte und zu nichts führende Trennung. Sie ist überdieß sehr verderblich für Ansicht und Leben , für Theorie und Praxis.
+
+Uebrigens muß man gestehen, daß die blossen Empiriker, wenn sie über sich wachen und sich konsequent bleiben , noch ungleich weniger schaden, als die einseitigen, alles willkührlich (ohne
+
+Rücksicht auf Erfahrung ) idealisirenden Theoretiker. Jene haben doch noch einen Boden , eine Sphäre , die sie beschränkt. Sie wollen nur die
+
+Erscheinung kennen , in derselben leben, und sie mühen sich mit ihr vertraut zu werden. Diese hingegen ( die Idealisirer ) haben weder Boden, noch noch Sphäre, die Macht ihrer Phantasie , das Spiel ihres Witzes , und Scharfsinnes , die Kunst ihrer Dialektik , kurz die Willkühr ihrer subjektiven Ansicht ist die Grenze ihrer Fiktionen , die sie unglücklicher Weise Ideen , Ideale nennen , und .aus Selbſteingenommenheit und Selbsttäuschung um so mehr hochhalten , herausputzen , präkonisiren, je weniger sie mit dem eigentlichen Gehalte und der Bedeutung der Ideen bekannt sind.
+
+Mit der Wirklichkeit unzufrieden , treibt sie dann eine unendliche Reformierlust ; und wenn sie Macht haben , kann sie keine Warnung und keine Erfahrung zurückhalten , ihre Träume realisiren zu wollen. Das Traurigste bey der Sache ist , daß sie über lauter Idealisieren und Bessermachen ungemein viel Gutes zerstören , und , daß , weil sie dann am Ende selbst einsehen müssen , wie wenig sie gethan haben , sie lieber den Glauben an die Menschheit als an ihre Phantasieen , die sie für Ideen halten , aufzugeben sich entschließen. Man frage unsre Zeit , die so viel idealisirt und reformirt!
+
+$. 59. Wahre Philosophie , die den Charakter ächter Idealität und Spekulation behauptet , trennt nie Idee und Begriff , das Unendliche und Endliche, die höhere Erkenntniß, wie sich das ursprüng [p. 82] liche Wesen in einer bestimmten Erscheinung darstellt , und die gemeine Erkenntniß , was von dieser bestimmter Erscheinung bisher in jeder Beziehung auf dem Wege der Erfahrung und Reflexion bekannt seyn mag. Wahre Philosophie will wissen, so genau und vollständig als möglich das was vorgeht in der Erscheinung , und das , wodurch nach der ursprunglichen Konstruktion die Erscheinung selbst bedingt ist. Durch das erste will sie erkennen , was da ist , durch das zweyte es verstehen in seinem Innern , in seinen t
+
+Wesen.
+
+Die wahre Philosophie kann sich nicht , wie Kant ( aus Verzweiflung am höhern Gelingen ) meinte , beschränken auf die blossen Erscheinungen der Dinge und ihre bloß formale Gesezmäßigkeit. Dieß sinnliche Gebiet für sinnliche Anschauung und formale Reflexion - ist ihr zu enge , zugemein , zu niedrig. Sie will sich bis zum Uebersinnlichen erheben, das der Verstand mit seinen sinnlich bedingten und formal entwickelten Begriffen nicht mehr fassen kann - bis zum Unendlichen und Ewigen , das sich in Ideen der Vernunft kund thut , auf eine, wie wir noch sehen werden, nichts weniger als willkührliche Weise. Indem sie sich aber zum Ueberſinnlichen erhebt , das Wesen der Dinge erforscht , vergißt sie nie zur Wirk [p. 83] lichkeit in der Offenbarung d. h. in ihrer Erscheinung für Zeit und Raum zurückzukehren. Und so beyde umfaßend , befindet sie sich in einer doppelten Welt , beyden angehörend , beyde erkennend, und in beyden lebend - somit eben so sinnvoll als verständig , eben so weise als klug , eben so erhaben als bescheiden, eben so umfassend als bestimmt 2c. hat nicht ein heiliger Schriftsteller - diese Eigenheit lange sehr treffend bezeichnet : utentes mundo, quasi non utamur?
+
+Ich darf kaum mehr hinzusehen , wie es zu verstehen ist , wenn man von dieser ächt philosophischen Spekulation sagt : sie umfaße wie die Totalität des innern und außern Seyns der Dinge, so die Möglichkeit und Wirklichkeit derselben zugleich ; und dieses sey eine charakteristische Eigenheit der wahren Idee im Gegensatze des bloßen Begriffes (oder auch des bloß formal , somit bloß scheinbar zur Idee gesteigerten Begriffes ), die Wirklichkeit in der Möglichkeit und diese in jener zu erblicken. Wer erkennt hier nicht eine bekannte Eigenschaft des Genies, auch wenn es über sich selbst nicht philosophisch orientirt ist ? - Der
+
+Grund ? Jedes Genie als solches lebt in Ideen , auch wenn es sich des Besitzes derselben nicht bewußt ist (keine philosophische Bildung hat).
+
+[p. 84] S. 60. Im Streben und Charakter nähert sich nun diese Philosophie allerdings dem göttlichen ( als schlechthin wahren , vollständigen , absoluten , ursprünglich anschaulichen Wissen. Es ist ein Wesen der Vernunft ! Es steht aber darum doch weit hinter Gottes absoluten Wissen , nicht in Hinsicht auf den Akt , die Funktion der Vernunft, sondern der Umfaßung , der Totalität dieser Funktion in der absoluten Einheit eines Moments zurück. Was sich in der menschlichen Endlichkeit entwickelt , in Zeit und Raum ausdehnt , um uns gegenwärtig zu seyn, das , ohne darum aufzuhören ein absoluter Erkenntnißakt zu bleiben, erfüllt bey der Gottheit die ganze Unendlichkeit der Offenbarungen ihrer Werken ohne Raum und Zeit , wie zusammengedrängt in einen Moment der Allgegenwärtigkeit. Der Mensch , darum, weil er Göttliches in sich trägt , ist nicht die Gottheit selbst. Man konnte auch sagen , in der Gottheit scheiden sich nie aus ihrer ursprünglichen Einheit Spekulation und Empirie ; es wohnt in ihr der Akt der Kontemplation als der absoluteste, umfaßendste und einfachste Akt.
+
+Dem Menschen wohnt die Kontemplation nur als die Indifferenz (nicht als die ursprüngliche Identität) von Spekulation und Empirie (Reflexion) bey ; im Men [p. 85] ſchen begegnen sie sich nur , um sich zu durchdringen - unbewußt im Genie , bewußt in der Erkenntniß des philosophischen Denkers In der Folge werden wir von diesen Bemerkungen noch einen andern Vortheil ziehen : auf _die eigentlichen Abwege des Phantheismus. und Mysticismus aufmerksam zu machen. Vor der Hand nur soviel : jener verliert die Gottheit in der Natur , dieser die Natur in der Gottheit
+
+S. 61.
+
+Der zweyte Hauptpunkt , worauf sich die Principaldogmen der absoluten Identitätslehre beziehen (S. 50.) ist die unendliche Mannigfaltigkeit und organische Entwicklung in der Offenbarung des einen ewigen Wesens in Zeit und Raum.
+
+Indem ( S. 46. und 47. ) die höhere Erkenntniß ( der Vernunft , der Idee , des Absoluten) den unendlichen Akt der Selbstentwicklung des einen ewigen Wesens beschaut , erhebt sich der geistige Blick , den wir intellektuelle Anschaue bis zur ung nannten , über alle Erscheinungen ursprünglichen Quelle derselben. Nichts also ist demselben gegeben , als die ewige , lebendige Ein heit; sie , die , indem sie die Mutter aller Dinge ist , sich mit sich selbst entzweyt , die unendliche Fülle der Dinge erzeugt, und sich selbst das Gesetz , womit diese Selbstoffenbarung vorgeht , durch ihre Natur bestimmt. Es ist die Zeugung des Zeitlichen aus dem Ewigen , des Endlichen aus dem Unendlichen und die freygesetzliche Weise dieser Erzeugung - was der zweyte Hauptpunkt unserer Erwägung , die Offenbarung des ewigen Wesens, erläutern soll. Wie das Endliche aus dem Unendlichen hervorgehe , begriffen werden könne , ist die Frage ; eine Frage , zu der zuletzt jede philosophische Untersuchung zurückkehrt - und in der sie so leicht scheitert. Begreiflich ist sie auch die schwierigste in Hinsicht auf Lösung und Erläuterung. Wir versuchen , was wir vermögen ! S. 62.
+
+In der Offenbarung tritt das eine, ewige Wesen, sich selbst entzweyend , in Gegensäzen hervor; eine unendliche Mannigfaltigkeit der Gestaltungen , in denen allen es , nur überall anders , erscheint , breitet sich aus , und wird durch dasselbe zugleich zusammengehalten zu einem wahren Kreise , zu einer wahren Totalität lebendiger Bildungen, die ein Mittelpunkt , ein beseelendes
+
+*Princip (eine Weltseele ) beherrscht , und zu einem wahren Universum, dem vollendetsten Organismus konstituirt.
+
+So müssen wir uns die Sache nach der Forderung des Vernunftwissens (S. 43. flg. ), das überall Einheit und Totalität verlangt, vorstellen. Das haben wir bereits gefunden (S. 25. flg. S. 30. flg. ). Wir erinnern uns daran , um uns nun bestimmter zu sagen , was wir damit ausgesprochen haben.
+
+Damit werden uns auch
+
+Ausdrücke in ihrer eigentlichen Bedeutung bekannt , die so gewöhnlich mißverstanden , wohl und mißbraucht werden , als da sind : die ewige Erzeugung der Ideen (der Dinge ) die Konstruktion der Erscheinungen , das göttliche und menschliche Princip des Alls , die Einbildung des Allgemeinen in das Besondere , die Potenzen und das Potenzlose. S. 63.
+
+Wir haben schon früher gefunden , daß das eine identische Wesen, indem es ist , zugleich in der Unendlichkeit endlicher Gestaltungen wird. Dieß ewige Seyn in seinen unendlichen Werden , und umgekehrt , zu erkennen - ist die erste Hauptforderung und Hauptlehre der Ansicht, die wir erläutern. Dies ist die Foderung der [p. 88] philosophischen Konstruktion und konstruktiven Ansicht , welche von der wahren Spekulation so unzertrennlich erklärt wird , als jener höhere Blick des Geistes selbst , den man darum , weil er jede Erscheinung in ihrer Totalität erfaßt , intellektuelle Anschauung genannt hat.
+
+::
+
+Man sieht , daß alle Versuche , beyde ins Lächerliche zu ziehen , eitel sind , und die Beschränktheit ihrer Unternehmer verrathen, so lange nicht alles höhere Vernunftwissen ( S. 36. ) aufgegeben wird. Kant allein war in ihrer Verwerfung konsequent , weil er seine Ansicht selbst zu einer bloßen Verstandes - Ansicht beschränkte. Wenn nur auch der Fundamentalsatz seiner empirischen Zurückhaltung nicht erweisbar falsch wäre!
+
+Meistens werden aber beyde in einer Bedeutung genommen , die , weil sie nichts anders als Willkühr und Fiktion in das Gebieth der Philosophie verseket , lächerlich wird; allein auf wessen Kosten zuletzt ? Ohne Zweifel auf Kosten derjenigen, welche nicht mehr Lust oder Anstrengung in einer philosophischen Prüfung haben wollen , als nöthig ist , sie zu verkehren , oder doch verkehrt zu nehmen. Gab es doch Leute , die mein [p. 89] ten , man wolle durch die philosophische Konstruktion die leibhafte Welt erschaffen , und durch die intellektuelle Anschauung das Geheimste der Natur und Gott selbst von Angesicht zu Angesicht erspähen! S. 64.
+
+Diese konstruktive Ansicht des ewigen Seyns in seinem unendlichen Werden und umgekehrt ist die (S. 29, 30.) dargestellte Alleinheit des vollständigen Begriffes , der das Ganze, wie die Theile, das Allgemeine wie das Besondere nach demselben ursprünglichen Typus organischer Bildung betrachtet ( S. 32-34. S. 44-48. ). Sie heißt daher Vielen im engern Sinne des Wortes die absolute Erkenntniß , die Weltanschauung, die Idealansicht der Dinge , die Erkenntniß der Idee , die Idee selbst. Idee in dieser Bedeutung ist nur eine einzige in ihrer Art , so wie es nur eine absolute Erkenntniß (nur eine Vernunftansicht ) gibt.-So wie sich aber dieser , an sich einzige und identische , Akt absoluter Erkenntniß auf eine unendlich mannigfaltige und rücksichtlich auf die Anwendung unendlich verschiedene Weise darstellt , gleichsam sich selbst in eben so viele differente ( wenn schon dem Principe und dem Typus nach
+
+[p. 90] -durchaus gleichartige ) Akte zerlegt , so kann man auch sagen: es gebe unendlich viele Ideen. Es ist in so fern gar nicht widersprechend zu sagen: die absolute Ansicht , beschäftigt mit der urſprünglich = produktiven Gestaltung der Dinge , sey nur eine - und sie sey zugleich unendlich mannigfaltig und verschieden, je nachdem sie die eine ewige oder die unendlich viele zeitliche Gestaltung der Dinge im Auge hat.
+
+Ist nicht auch die Beziehung des Mittelpunktes auf die Peripherie ursprünglich und wesentlich nur eine , und doch unendlich mannigfaltig in
+
+Hinsicht auf die einzelnen unendlich vielen Punkte im Umkreise?
+
+Es handelt sich hieben nicht bloß um blosse Verständigung über Worte , sondern um ein Höheres.
+
+Indem die absolute (ursprünglich konstruktive ) Ansicht der Dinge zugleich als eine
+
+Idee und als unendliche viele Ideen erkannt wird, ist uns einer der wichtigsten Lehrsätze, den zwey ten Hauptpunkt betreffend , gegeben:
+
+„Nicht nur das All ist eine Darstellung, ein Abbild des ewigen einen Wesens , auch die unendlich vielen einzelnen Dinge sind solche Darstellungen in unendlichen Abstufungen; vereinigen also einen doppelten Charakter und Gesichts.
+
+punkt der Betrachtung , den unendlichen und endlichen, den ewigen und zeitlichen, den allgemeinen und besondern , den idealen und realen ; und nur die totale Ansicht , welche beyde umfaßt (konstruktiv den spekulativen in dem empirischen, und diesen in jenem erkennt ) , befriedigt die Foderungen der Wissenschaft. ,, (S. 47.) S. 65.
+
+Da aber diese Offenbarung , womit sich das eine Wesen in den einzelnen Dingen und in ihrer Totalität darstellt , durch sich selbst (S. 29.
+
+u. 30.) an eine bestimmte Weise gebunden ist ; da diese bestimmte Weise sich in dem Charakter der Triplicitat in der Identität ausspricht ( S. 34, 48. ); da die konstruktive ideale Ansicht nothwendig diese im Auge behalten muß , und dadurch sich den wesentlichen ursprünglichen Gang der Entwicklung alles Seyns (in den Gegensätzen und ihrer Indifferenz ) vergegenwärtiget : so spricht man auch und mit Recht von dren Hauptideen , d. h. von drey Hauptpunkten der absoluten Erkenntniß. Sie sind die Ideen Der ursprünglichen Einheit , der unendlichen Vielheit (der Entwicklung , der Selbstentzweyung in Gegensätze ) und der indifferenzierenden
+
+Totalität (S. 34.). So wie diese Ideen oder Idealpunkte in der Wirklichkeit der Erscheinungen
+
+?
+
+vorkommen, heißen und sind sie: die Ideen des Ewigen , des Unendlichen und Endlichen.
+
+Sie bedeuten die Rücksicht und die Erinnerung : wie den jeder spekulativen Erkenntniß eines Dinges und des Alls der Dinge klar seyn müsse der Uebergang des ewigen Princips in eine zeitliche Erscheinung , wo es seine Fülle durch einen unendlichen Proceß von Evolutionen kund thut , und so für Zeit und Raum in der Endlichkeit ein abgeschlossenes Ganzes der
+
+Erscheinung, eine Individualität (zeitlich und räumlich bedingte lebendige Totalität), ein endliches , bestimmtes Individuum bildet." Da sie gleichsam den einen ewigen Lebenskeim in seiner Spaltung , aus der jede Frucht hervorgeht, und in dem Streben der getrennten Theile zu einem Ganzen der Erscheinung bezeichnen , so begreift man, wie man sie auch die Ideen ( Potenzen, Epochen ) der Einheit , der Entzweyung und Wiederversöhnung 2c. nennen konnte. $. 66.
+
+In und durch diese Erinnerung wird man nun aufgefodert : keine Erscheinung als blosse Erscheinung anzusehen , sondern , was das Wort schon sagt , als etwas , in dem das für die Beobachtung Zugängliche nicht Alles , nicht die Hauptsache, ein bloß Aeußeres ist ; das vielmehr auf ein [p. 93] inneres hindeutet , was es verkündet , darstellt , offenbart , was die Haupsache ist , das Bleibende, das , was unter der wandelbaren äußern Form stets dasselbe beharrt.
+
+Man wird aufgefodert in jeder Erscheinung das Wesen und die Form , unter der das Wesen sichtbar wird , zu unterscheiden. Man wird aufgefordert in dem Wesen jedes
+
+Dinges das ursprüngliche identische Wesen zu erkennen , aber wie es zugleich mit und in der absoluten Form der unendlichen Gestaltung bereits einen endlichen Charakter , eine bestimmte Form angenommen hat , durch die es in der unendlichen
+
+Peripherie des Weltalls gerade diesem Punkte der Zeitlichkeit und Räumlichkeit , (diesem Punkte der Peripherie in der Totalität der Erscheinungen) angehört.
+
+Man wird erinnert , daß somit jedes Ding im Systeme der unendlichen Allentwicklung des einen Wesens sich auf einer bestimmten Stufe der Entwicklung , und dann wieder in einer bestimmten Zeit und Lokalexistenz befinde. Daher die Unterscheidung der ewigen und vergänglichen Form der Dinge.
+
+Durch jene gehören sie dem Allgemeinen der wesenhaften Offenbarung , durch diese dem Besondern der zeitlichen Offenbarung an. In jeder Erscheinung offenbart sich das Wesen; es ist dieß die ursprüngliche , dem Wesen gleiche Form, womit sich die absolute Erkenntniß vorzüglich beschäftigt. Indem sich aber das Wesen offenbart , offenbart es sich auf eine bestimmte
+
+Weise , die der Zeit und dem Raume als dem Gebiete der Endlichkeit heimfällt. Beyde sind in der Wirklichkeit der Dinge nie getrennt , nur die
+
+Lehre trennt, oder besser unterscheidet sie zum Behufe der Erläuterung. Man wird endlich erinnert , daß jedes Ding, wie seine bestimmte Stufe im All einnimmt , so seinen Charakter auf eine bestimmte Weise der Entwicklung mittels eines innern Princips ( das
+
+*eben jenes eine Wesen, in der besondern Offenbarung begriffen, ist) gesetzlich entfaltet, somit das obige Gesez der Triplicitat (§. 65.) (der Einheit, der Entzweyung und Wiederversöhnung ) befolge. In jedem Einzeldinge wie im All der Dinge sind Potenzen der Darstellung und Epochen der Entwicklung gesetzt , welche durchaus unwillkührlich auseinander hervorgehen, den Charakter im Wechsel der Veränderungen fixieren , und in der Entwicklung des Ganzen ein organisches Verhältniss des Mannigfaltigen konſtituiren , das einen wahren Lebensproces erkennen läßt.
+
+[p. 95] S. 67 Insbesondere bedürfen die Potenzen und und das denselben gegenüberstehende Potenzlose in der Offenbarung des einen ewigen Wesens einer besondern Erläuterung. Davon , von dem Verständniß derselben , hängt die philosophische Konstruktion , die als solche mit Besonnenheit und mit bestimmter Erkenntniß des gesetzlichen Verfahrens vorgehen muß , zum Theile ab ; davon der ganze Schematismus der organischen Verkettung der Dinge (unter dem Gesichtspunkte der eben ausgeführten philosophischen Konstruktion ) , worauf dann eben die verschiedenen Versuche naturphilosophischer Schriften beruhen.
+
+Wenn sich in und mit dem Gesetze der absoluten Identität in der Triplicitat die Einheit von der Vielheit der Gegensätze scheidet , um sich in der Totalität mehr oder weniger zu indifferenziren; so sind dadurch in jeder organischen Entwicklung des Einzelnen, wie des Ganzen der Erscheinungen 3 Punkte als wahre Abstufungen in Hinsicht auf Kraft , Bedeutung und Umfang der Entwicklung gesetzt - die , wiefern sie zugleich in der Zeit und im Raume gesetzt sind , als faktische Epochen für die Beobachtung sich darstellen. Da sie aber eben um ihres organischen Verhältnißes
+
+A
+
+T [p. 96] willen ſtätig in einander übergehen , so begreift sich, warum sie die empirische Beobachtung und faktische Nachweisung nie scharf unterscheiden kann, und, wenn diese deßungeachtet das unmögliche versucht , sich selbst bis zum vernichtenden Zweifel zerstören muß.
+
+S. 68.
+
+Diese Potenzen der Einheit , des Vielen (der Gegensätze ) und der Totalität ( der Indifferenz ) haben auch sehr begreiflich die Bezeichnung erhalten als die Potenzen der Anschauung , der Reflexion und ihrer Synthese (der Idee , der Spekulation). Die Anschauung trägt als Akt der Intelligenz die noch unentwickelnde Einheit zum Charakter , die Reflexion hingegen giebt Vielheit und Trennung in der Entwicklung (das Geschäft der Scheidung und Analyse , was die Logik charakteriſirt , ist ihr eigenthumlich) , die Spekulation endlich mit der Idee beweiset den selbstständigen Blick der Allheit , welchen die Erkenntniß des Einen im Vielen auszeichnet. Dasselbe von einer andern Seite (von der Art , nicht von dem Akte der Betrachtung) angesehen , hieß die Potenz des Endlichen , wo die Einzelheit - des Unendlichen, wo die Vervielfachung vorherrscht - und des
+
+Ewigen, wo sich das Besondere im Allgemeinen und umgekehrt gesetzt findet. Uebris
+
+[p. 97] Uebrigens ist man durch diese Potenzen in der Offenbarung des Absoluten aufgefordert : „Nicht nur die Erscheinungen alle zu einem durchaus gegliederten Ganzen zu schematisiren , sondern auch in jeder Verzweigung derselben das nämliche Gesetz der Entwicklung lebendiger Totalität zu erkennen , und in den mannigfaltigsten Datis , welche hierüber die emsigste Empirie aus giebt und anzugeben fortfährt , die gleiche Gesezgebung, denselben Typus , und damit dasselbe identische Wesen unter der mannigfaltigsten Gestaltung und Potenzierung zu entdecken. S. 69.
+
+Ueber diesen Potenzen der Darstellung, die sich in eben so vielen bestimmten Erscheinungen objektiv vorfinden , und so einen Stufengang der Entwicklung auf der Leiter der Naturwesen bilden , welcher ungemein merkwürdig ist, und mit auffallender Uebereinstimmung sich faktisch und empirisch nachweisen läßt - über diesen Potenzen , und ihren analogen Erscheinungen waltet eine wahre absolute Identität der Darstellung. Sie ist die Erscheinung , die keine Potenz mehr ist , die als eine wahrhaft identische Einheit alle Potenzen in sich trägt, aus sich entwickelt , und in so fern eine wahrhaft absolute Totalität erkennen läßt.
+
+[p. 98] Wie will man diese absolute Darstellung des einen Wesens richtiger bezeichnen als mit dem Namen des
+
+Potenzlosen , da sie nicht bloß dasselbe von einer Seite , sondern in jeder Beziehung als ächtes Nachbild darstellt - selbst ein Absolutes , nur kein ursprüngliches , sondern durch das Ursprüngliche gesetztes Absolute ist. Hierauf beziehen sich ganz besonders die Ausdrücke : Macro und Microcosmus. Der erstere bezieht sich auf das erscheinende Universum selbst , der zweyte auf den Menschen , der den Charakter identischer
+
+Einheit vermöge seiner Vernunft intensiv besitzt, wie jenes ihn extensiv darstellt.
+
+S. 70.
+
+Wir können nun nicht nur, wir müssen ein universelles Leben , ein wahres Universum , und einen universellen Organismus statuiren, Indem wir nach dem Bisherigen ein identisches, das Ganze durchdringendes (absolutes) Princip , daa mit ein System der Offenbarung in den Erscheinungen erkennen , das ein wahrhaft gegliedertes Ganze darstellt , bey aller Mannigfaltigkeit der
+
+Funktionen dasselbe Gesez und Wesen nur in verschiedenen Potenzen und Epochen enthaltend. Auf diese Weise empfiehlt sich diese Lehre der absoluten Identität nicht bloß durch Einheit ,
+
+[p. 99] Gleichförmigkeit und Konsequenz des Systems sondern auch durch die Wahrheit, Lebendigkeit und Totalität ,, der Ansicht ; wovon sich die erste durch die anschauliche Konstruktion , die zweyte durch die innere , freynothwendige ( organische ) Bewegung und die dritte durch die universelle Umfassung des Allgemeinen und Besondern in materieller wie in formeller Hinsicht beweiset.
+
+Wenn
+
+Wissenschaft möglich ist , als ein lebendiges , in sich abgeschlossenes Wissen; so ist nur in dieser
+
+Ansicht Wissenschaft vorzugsweise zu erhalten. S. 71. Wir wollen am Schluße der wissenschaftlichen Orientierung zur leichten Uebersicht die vorzüglichsten Lehrsätze zusammenfaßen , und denselben ein Paar Erklärungen von andern Männern sagen lassen , die auf Sache und Sprache neues Licht werfen können.
+
+Wir suchten auf eine faßliche Weise uns der absoluten Ansicht zu bemächtigen , unbefangen nach eigener Einsicht ringend. Wir giengen vom Begriffe der Wissenschaft aus ; wir fanden , daß so ein Wissen vollständig , in sich abgeschlossen (S. 16-22. ) , darum absolut seyn , Einheit und Totalität in sich vereinigen müßte (S. 23-
+
+34.) - ein Vernunft wissen wäre , das man, [p. 100] im Gegensatze mit andern Versuchen , am richtigſten (der Höhe und der Eigenheit nach) als absolute Identitätsansicht bezeichnete und charakteriſirte.
+
+Wir giengen in die Principal = Lehrsätze der Ansicht ein (S. 61.), wie sich dieselben aus der lebendigen Einheit und abgeschlossenen Totalität , d. h. aus den zwey wesentlichen Gesichtspunkten des einen universellen Wesens und seiner unendlich mannigfaltigen Offenbarung entwickelten Wir fanden und finden : .a) Es ist eine allerzeugende , allbelebende Einheit , die Überall wiederkehrt , wiewohl unter den mannigfaltigsten Gestaltungen; die alles trägt , und selbst durch nichts getragen wird - eine absolute Identität ( identische Einheit) , ein absolutes Princip eine absolute Substanz.
+
+b) Diese Einheit , wie sie alles beherrscht , belebt und trägt , entwickelt alle Erscheinungen zu einer universellen Totalität. Es ist ein Universum , ein universeller Organismus , das reinste und vollkommſte Nachbild der absoluten Identität.
+
+ΙΟΙ
+
+•) Indem sich diese Einheit und Totalität gegenseitig auf das innigste durchdringen , so sind alle Erscheinungen im Einzelnen wie im Ganzen durch sie in jedem Punkte ihrer Entwicklung beherrscht.
+
+Es stellt sich allenthalben ein lebendiger Proceß der Entzweyung in Gegensätze dar , die sich mehr oder weniger versöhnen bis zur vollen Befriedigung in der absoluten Indifferenz. Es ist deßhalb ein merkwürdiger Stufengang im Einzelnen wie im Ganzen. Das Gesetz der Triplicitat in der Identität gebietet der Offenbarung des innern Wesens in zeitlichen Erscheinungen. Wesen und Form scheiden sich , Potenzen entwickeln sich , Epochen thun sich kund. Und der höhere Blick , der auf dieß alles merkt , dringt durch sie in das Innere der Dinge, lernt die Erscheinungen verstehen , die Aussagen der Erfahrung würdigen , und erkennt die Natur in ihren Ideen d. h. in ihren lebendigen Verfahrungsweisen , die zugleich die Bildungsweisen der absoluten Erkenntniß sind. f
+
+S. 72. Wollen wir diese Lehrsätze zum Behufe der Würdigung und mit Hinsicht auf die Zeitbedürfnisse näher bestimmen , so finden wir , daß die Ansicht der absoluten Identität [p. 102] a) nicht der Reflexion und ihrer sich auf blosse Erscheinungen beschränkenden Theorie zusagt. Sie will sich über das , was zeitlich und räumlich vorgeht , erheben , und bis zu dem Innern , Bleibenden der Dinge vordringen. Sie ehrt die Entdeckungen und den Fleiß der Empirie und empirischen Wissenschaften ; sie will aber aus einem höhern Standpunkte beurtheilen das , was dieselben zeigen , und da auch erkennen , was sie nicht zeigen können - den verborgenen Gang und die geheimen Gesetze der Natur , das innere Getriebe , das Leben der äußern Erscheinungen.
+
+b) Ueberall ist ihr das Aeußere , das Zufällige, das Zeitliche , Endliche nicht die Hauptsache. Alles dieß ist ihr nur etwas , das auf ein Höhers hindeutet ; eine Erscheinung , eine Realität , die vom Scheine ( wie von einem Kleide) bedeckt , erst erkannt wird , wenn sie , von diesem Scheine enthält , offenbart , was sie an sich sey. Mit einem Worte , sie sucht das Innere , Nothwendige , Ewige und Unendliche im Aeußern , Zufälligen Zeitlichen und Endlichen zu erblicken. Dies ist ihm Bild , jenes die Sache ; ohne übrigens' sie zu trennen oder als trennbar anzuerkennen. Ihr Streben ist daher Erhebung über das
+
+Sinnliche- zu dem Uebersinnlichen ; und sie findet nur ihre Ruhe in dem , was schlechthin gilt,
+
+!
+
+das Erste und Lezte aller Dinge ist - im Absoluten.
+
+c) Dadurch erhält jede theoretische und praktische Ansicht eine andere Wendung , die zum
+
+Vortheile alles dessen gereicht , was der Menschheit ehrwürdig ist : zum Vortheile der Religion , der Moral und des Rechts , der Kirche und des
+
+Staates. Keine bloße Verstandes : Theorie kann, wenn sie konsequent verfährt , über diese ehrwürdigen Angelegenheiten der Menschheit etwas Bedeutendes sagen. Der konsequenteste Denker auf dem Gebiete der Reflexion , Kant , sah das so gut ein, daß er in seiner Kritik der reinen Vernunft sie als unnachweisbare Ideen erklärte , und nur in dem Nebengebäude der praktischen Vernunft sie für den Glauben zu retten bemüht war. So viel nur des Beyspieles wegen ; an einem andern Orte wird dieß mehr ausgeführt werden. d) Dadurch aber , daß sich die absolute Identitätsansicht zum Uebersinnlichen und Ewigen erhebt , verläßt sie das Sinnliche und Zeitliche so wenig , daß es die Nothwendigkeit und das Gesetz erkennt , womit jenes sich in diesem stets darstellt. Auch dieser Punkt ist für Theorie und Praxis sehr wichtig. Alles einseitige Idealisieren mit allen phantastischen Theorien und überspannten praktischen Vorschriften wird beseitigt. Die Wissenschaft wird dem Leben zurückgegeben die Beurtheilung im Blicke auf die Epochen verständiger und milder. Vernunft und Verstand bleiben sich keine feindliche Potenzen; sie sind nur different Vermögen, die sich aber wieder in der Totalität der Ansicht zur schönsten Harmonie vereinen, um jede Sache zugleich in ihrem Wesen und in ihrer bestimmten Erscheinung zu würdigen. In der wahren Wirklichkeit des Lebens gelten beyde,
+
+Vernunft und Verstand , gleich sehr ; sie sind beyde wesentliche Funktionen desselben Geistes . Nur so vereint sich hohes und Niederes in einer zugleich würdigen und treffenden Ansicht was immer für eine Sache. Nur so können die zerstörenden Einseitigkeiten in Edukation , in Reformation , in der sogenannten Aufklärung , in was sonst für einer Angelegenheit des Wissens und Handelns entfernt - ganz besonders aber die Gebrechen unsers in vieler Hinsicht verderblichen
+
+Zeitgeistes gehörig gewürdigt und glücklich beseitigt werden.
+
+Ein ganz besonderer Vortheil dieser absoluten Betrachtungsweise , die Vernunft und Verstand vereinigt zur Würdigung der Dinge, ist noch die hohe Beruhigung, womit man durch sie überall stufenweise Erscheinungen und bestimmte
+
+Epochen der Darstellung in Hinsicht auf die eine große Angelegenheit erkennen darf. Was ges [p. 105] schieht, geschicht nothwendig ; aber diese Nothwendigkeit ist zugleich von Ideen beherrscht , die, wenn sie die Philosophie beleuchtet , als erhabene Weisheit Alles im schönsten Einklange zeigt. Das Böse verschwindet. Es gehört der Endlichkeit und Zeit an , und verflüchtiget mit derselben. : Auch hierüber wird an einem andern Orte ausführlicher gesprochen werden. S. 73.
+
+Aus diesem deuten wir uns auch leicht die eigenthümlichen Bezeichnungen, welche hier gewöhnlich gebraucht werden , und Manchen sehr paradox und unverständlich , wo nicht anstößig und unsinnig vorkommen. Indem wir sie hier in einer Art von Uebersicht zusammenstellen , hoffen wir, daß sie sich mittels der kleinen Zusätze und Einschiebsel gegenseitig noch mehr erläutern. a) Man spricht vom Absoluten und dessen ewiger Selbstaffirmation ( Selbstbejahung , Selbstbekräftigung). Man deutet auf die Formel A-A. Sie wird gebraucht , die absolute Identität als ursprüngliches Princip aller Erscheinungen zu bezeichnen. Will man auf die Differenz der Lestern (und ihre höchsten Gegensätze des Objektiven und Subjektiven ) zugleich aufmerksam machen , braucht man die Formel A - B und
+
+[p. 106] A = B; iene bezeichnet sie in der Differenz, womit sie sich entwickeln , diese in der Indifferenz, womit sie sich in ihrer Totalität darstellen. Weil aber denn doch um der ursprünglichen Einheit willen nur ein quantitativer Unterschied des Ueberwiegens in den Gegensätzen Statt finden kann , und jeder derselben ein Minimum des andern in sich trägt, so wollte man dieß andeuten durch die bestimmtere Formel A++ B = B+ + A wo der Exponent + das Ueberwiegen des Faktors , das Verbindungszeichen - aber die Beymischung des andern ( überwogenen ) Faktors anzeigt. Diese Faktoren stehen sich übrigens in
+
+Hinsicht auf ihre Tendenz der Vereinigung wie Pole eines Magnetes gegenüber , und führen auch diese Benennung in dieser Beziehung. Sie sind und heißen mit ihrer Indifferenz in Hinsicht auf die Entwicklung und den Grad der Darstel= lung der innern absoluten Einheit - 3 Potenzen , die sich mit dem organischen Leben in allen untergeordneten Erscheinungen wiederholen ( die 3 Potenzen des Realen , des Idealen und ihrer Indifferenz - auch des Endlichen , des Unendlichen und des Ewigen genannt ). Um aber den Gesichts = und Standpunkt ihrer Wiederholung zugleich anzugeben , bezeichnet man diesen als den Exponenten , unter dem die potenziellen Ent [p. 107] wicklungen und Bestimmungen einer Erscheinung gefaßt sind. Solche Exponenten geben im Allgemeinen die Ansicht des Idealen (Subjektiven , Unendlichen ) , des Realen ( Objektiven , Endlichen ) , da sich das Absolute in dieser Entzweyung zunächst darstellt , und zur absoluten Totalität entwickelt.
+
+b) Man spricht vom Absoluten und dessen Offenbarung , Darstellung , Selbstentzweyung. Das Wesen objektiviert sich in den Erscheinungen, in welche es sich , wie man sagt , hineinbildet (einbildet , in Eins bildet ) - nach der Stufe (Potenz ) , in der es Ausdruck und Abbild desselben ist. Ueber diese drey Potenzen der Objektierung waltet das in seiner Art durchaus voll.
+
+kommne Abbild als Potenzloses , darum, sogenannt, weil es die vorhin genannten Potenzen in sich trägt , und über sie erhaben ist, wie das x über a = b.
+
+Es giebt demnach Reflexe , d. h. das ursprüngliche Wesen spiegelnde Darstellungen ; - und diese Reflexe sind sich selbst wieder mehr oder minder untergeordnet , nach den Potenzen der Darstellung unter verschiedenen Exponenten. In diesen Reflexen tritt das Unendliche ( die Idee)
+
+in der Endlichkeit hervor , und verkündet das
+
+[p. 108] Ewige in Zeit und Raum , in Bewegung und Ruhe , in Intension und Extension (lauter relativen Begriffen). Diese Bedingungen aller Objektivierung ( alles Reflexes ) geben dann nach dem allgemeinen Typus (Grundform), der Gestaltung ( dem Gesetze der Triplicitat ) den ganzen Kreis der mannigfaltigsten Erscheinungen mit der bestimmtesten organischen Dreygliederung. Nur darf die Idee , welche in der endlichen Erscheinung nie die unendliche Bedeutung aus dem Auge verliert , auch das Verhältniß des Endlichen zum Unendlichen nie vergessen , womit jede Erscheinung ein doppeltes Seyn ( ein Ansich seyn und Fürsichseyn , ein centrales und peripherisches Seyn ) behauptet , d. h. dem ewigen Allleben und der zeitlichen Vergänglichkeit angehört. c) Es läßt sich in so fern ein allgemeines Schema organischer Allentwicklung entwerfen , in dem die Grundideen ( und Urreflexe ) aller Erscheinungen dargestellt sind. Nach Schelling, dem ich hier vorzüglich in meiner Metaphysik (München bey Lentner 1806) mit Freyheit gefolgt bin , würde es so aussehen :
+
+I. Gott ( Absolutes im Urbilde) geoffenbart auf das vollkommste durch die
+
+[p. 109] II. Natur ( Absolutes im Nachbilde )
+
+Diese in der organischen Entwicklung ihres Allebens - stellt sich dar
+
+Idee der In a) unter dem realen Exponenten ( der Natur im engen Sinne , des objektiven Seyns)
+
+「 als Schwerkraft als Materie als Licht als Bewegung als Organismus als Leben
+
+Im Begriffe für die Erscheinung wesentlich
+
+A) in Hinsicht auf die potenziellen Urreflexe
+
+Idee der in wesentlich als Wissenschaft als Güte als Religion als Schönheit als Kunst für die als Wahrheit
+
+Im Begriffe
+
+Geistes , des subjektiven Seyns )
+
+Erscheinung b) unter dem idealen Exponenten (des
+
+Anm. Aus ihnen entwickeln sich weiter, unter beyden Exponenten , die ursprünglichen Erscheinungen der Natur und des Geistes , als Darstellungen ihrer relativen oder absoluten Indifferenz.
+
+B) Ueber ihnen und ihrem Wechselverkehr nach den 3 Potenzen waltet das Potenzlose (Reflex der absoluten Identität selbst )
+
+[p. 110] die wahrhaft identische Einheit in der Unendlichkeit und Totalität der Erscheinungen, und zwar real, als erscheinendes ideal , als Weltges Universum , schichte.
+
+C) Indem aber jede lebendige Einheit , die zugleich entwickelte Totalität ist , die Potenzen und das Potenzlose in und aus sich entwickelt, so zeigen sich a) Unter dem Exponens | b) unter dem Exponenten des Realen ( Obs ten des Idealen (Subjektiven)
+
+jektiven)
+
+das sinnliche des. Geistes das unorganische der Natur
+
+1) die Potenzen :
+
+das verständige das geniale Leben das organische das thierische Reich
+
+2) das Potenzlose: der Mensch ( Selbst: | der Staat ( Selbstbe= bewußtseyn und Verzwußtsein und Vernunft in ihrer Anlas nunft in ihrer vollen ge, als Produkt und Entwicklung, als Pros Anstalt der Natur indukt und Anstalt der ihrer Nothwendigkeit)
+
+Menschheit in ihrer Freyheit )
+
+|
+
+Die Philosophie, der Spiegel des Universums. Anm. Man vergleiche das Schema am Schluße meiner Metaphysik.
+
+>
+
+III d) Aus dem Schema geht von selbst hervor, daß und wie die Philosophie die Natur ideal konstruire, und ihren universellen Entfaltungsproceß darstelle , indem sie den Denker in Stand setzt , dieß alles mit wissenschaftlicher Nachweisung vor sein Bewußtseyn deutlich hinzustellen ; mit einer wissenschaftlichen Nachweisung , welche als solche sich verbunden findet , ohne Willkühr und eitle Hypothese , wie den Gang der Entwickelung , so das Resultat der Erscheinung in jeder
+
+Beziehung gehörig zu belegen. So ergreift die Philosophie mit ihrer absoluten Erkenntniß das
+
+Absolute , indem sie das ewige Wesen und dessen zeitliche Offenbarung (das Allgemeine im Besondern) wissenschaftlich verstehen lehrt.
+
+Man hat ihr in so fern einen esoterischen und exoterischen Theil zugeschrieben - die Erkenntniß des Innern, des Wesens , und des Aeußern , der Form in der Offenbarung des Absoluten. Diese Abtheilung hat bey Manchen die Unterscheidung der Philosophie und der Naturphilosophie ( als wissenschaftlicher Naturkunde) veranlaßt. Andere haben nach den
+
+Fundamentalgegensätzen (des Realen und Idealen) eine Naturphilosophie und Idealphilosophie unterſchieden. Da nach dem, was an einem andern Orte erst nach Würde und mit der erforderlichen Aus.
+
+[p. 112] führlichkeit dargelegt werden kann, die Gottheit, das heilige Urprincip alles Seyns und Erkennens in diesem ihren Seyn und Erkennen durch jede Erscheinung mehr oder weniger dargestellt wird , so unterscheidet man mit Recht das Urbild vom
+
+Nachbilde. Gott ist dieß Absolute im Urbilde , die Natur sein Nachbild , das ihn allenthalben verkündet (wo dann seine Macht , die absolute
+
+Identität , als schaffendes Princip , die Weltseele heißt) . Die Philosophie als wissenschaftliche Lehre umfaßt nach dieser Ansicht Theologie und Naturphilosophie - und diesen beyden Theilen geht eine wissenschaftliche Erörterung der absoluten Erkenntniß, als der eigentlich wissenschaftlich Erkenntniß überhaupt , voraus ; wo somit das Absolute und dessen Ansicht (die Idee) , das Relative und dessen Ansicht (der Begriff) , beyde an sich und in ihrem Verhältniße zu lichten Grundsätzen entwickelt werden. Diesen Gang habe ich in meiner
+
+Methaphysik versucht ( 1807 München b. Lentner) J
+
+S. 74. Zur vollen Begründung der gegebenen Ansicht nur noch die Beseitigung einiger der vorzüglichsten Vor- und Einwürfe. Hoffentlich wird man dann williger zugeben, daß , was man hie und da der absoluten Identitäts [p. 113] lehre machte , an sich grundlos , meistens Mißverstand der Gegner manchmal auch Mißbrauch der angeblichen Freunde war.
+
+a) Man hält die absolute Identität bloß für eine logische Hypothese eines neuen Systems. Sie ist dagegen die unmittelbare und erste Foderung alles wahren Vernunftwissens (der Wissenschaft) (S. in dies. Schrift S. 32 , S. 37. flg.). b) Man hält die Naturphilosophie für ein poetisches Werk willkührlich spielender Phantasie, wo eitle Spekulation ohne Hilfe der Erfahrung die Welt konstruirte , ohne im Grunde ein Staubchen in ihr versehen oder verändern zu können.
+
+Dagegen ist die wahre Spekulation weder Dialektik noch Sophistik (S. 42,) sondern das Vernunftwissen selbst , das nach dem strengen Charakter eines lebendigen und durchaus gesetzlichen Erkennens (der Idee) jede Sache in ihrem Wesen und dessen Darstellung erforscht , dabey die Erfahrung so wenig vernachläßigt , daß sie sich in derselben mit der größten Vorsicht eben so sehr umſieht , als sie dieselbe in ihrer Tiefe einzig versteht (S.55. flg.). Mißbrauch kann dem rechten Gebrauche nichts entziehen. Und was ist nicht dem
+
+[p. 114] Mißbrauche unterworfen in den Händen der Menschen , die von ihrer Beschränktheit und Einseitigkeit , ehe sie sich's versehen , berückt werden ? c) Man hält dieses System bald für Pantheismus , der die Natur vergöttert , und zum Materialismus führt , bald für Mysticismus , der alles zum willkührlichen Spiele der Gefühle und Einbildungen macht.
+
+Dagegen vereint die absolute Identitätslehre
+
+Wissenschaft und Religion ohne sie zu vermischen. Sie unterscheidet das Göttliche im Urbilde und Nachbilde , so wie die Zwecke der Erbauung und
+
+Wissenschaft ; und vergißt nicht , beyde in der Idee und im Begriffe (im Wesen und in der Erscheinung)
+
+gesetzlich zu ergreifen. Wenn sie überall im Zeitlichen das Ewige , im Sichtbaren das Unsichtbare erkennen will, mag man ihr Mystik beylegen, aber sie will hiebey keinen Mysticismus, der bloß tändelt ; sie verlangt ein wissenschaftliches Verfahren.
+
+Vom pantheistischen Materialismus ist sie so weit entfernt , daß sie eher des Idealismus beschuldigt werden kann , wiefern sie im Vernunftleben das Alleben erkennt. Die eine ursprüngliche Einheit ist ihr so wenig ein blosses Abstraktum der logischen Systematik , als ein wissenschaftlich unbestimmbares Objekt müssiger
+
+[p. 115] Empfindung und Tändeley. Was Einzelne hier zu viel oder zu wenig thaten , ist als Folge ihrer Einseitigkeit nicht zu loben - und gereicht der Sache selbst zu keinem Vorwurfe das Absolute geradezu ein Nichts nennt , aus dem Alles hervorgeht ; wer sieht nicht , daß er den mathematischen Punkt im Auge habe , der für die Erscheinung und ihre Wirklichkeit ein wahres Nichts , übrigens der Anfang aller mathematischen Bestimmungen ist , und in so fern die höhere Wirklichkeit eines unsichtbaren Princips hat? d) Man hält in diesem System allen specifischen Unterschied aufgehoben , und den Stein, das Holz mit dem Menschen , ja das Böse mit dem Guten gleichgesezt.
+
+::
+
+Dagegen hebt die absolute Identitätslehre den specifischen Unterschied so wenig auf , daß sie ihn sogar aus dem allgemeinen Entwicklungsgesetz als durchaus nothwendig erkennt , und in dem, worin er eigentlich besteht , auf das bestimmteste nachweisen kann. (S. 54.) Es ist nur bey dem quantitativen Unterschiede nicht , wie man bey solchen Einwürfen thut , an eine bloß mechanische Addition zu denken , vermöge der man wohl etwa auch das Leben unendlich vieler Thiere ( Frösche
+
+2c.) ,als dem Leben Gottes gleichgesezt annehmen möchte. In der potenziellen Steigerung ist eine innige Durchdringung , welche die Erscheinung zu einem ganz andern Wesen macht. Die unorganische , organische und thierische Natur gehören zwar dem allgemeinen Organismus an , aber jede auf eine durchaus eigenthümliche Weise. Der quantitative Unterschied der Erscheinungen bezieht sich Überhaupt nur auf das eine Wesen , das sie offenbaren - nicht auf ihre Eigenthümlichkeit unter sich. Es ist durchaus die ähnliche logische Betrachtung von genus und ſpecies , was diesen Mißverstand erzeugt und erhält. Dieselbe Bemer.
+
+lung gilt in Hinsicht auf das Gutes und Böse , auf Freyheit und Nothwendigkeit. Ihre Gleichsetzung geht über alle Erscheinung und deren logische Bestimmung, über ihr sogenanntes specifisches Wesen, hinaus (S. 51. fig.). Wir werden vielleicht an einem andern Orte mehr hievon sprechen können. Alle übrigen Ein- und Vorwürfe gegen die absolute Identitätslehre beruhen im Grunde auf den eben angeführten , z. B. daß sie alle Klarheit und kritische Besonnenheit vernichte , daß sie die natürliche Ansicht der Dinge verkehre , die Aufklärung hindere , den Aberglauben hege, den Unglau[p. 117]ben herbeyführe , die Religion und den Geschmack verderbe , die Moralität und den Sinn fürs Praktische untergrabe - und durch dieß Alles Barbarey , Unwissenheit und Zügellosigkeit herbeyführe.- Nur dieß Einzige hierauf , da die weitere Erörterung einem andern Orte vorbehalten bleiben muß ! Vorausgesetzt , daß die absolute Identitätsansicht nichts anders sey , als jene des Vernunftwissens , wodurch sich die Wissenschaft vom bloßen Wissen unterscheidet (S. 35. ) ; so würde man diese Beschuldigungen gegen die Wissenschaft selbst gemacht haben, wären sie so treffend als man glauben mag. Kann ein liberaler Denker so etwas annehmen ? Gewiß nicht ! Ohne Wissenschaft giebt es keine Menschheit , keine Bildung , die sie beurkundet ! Schon darum können jene Vorwürfe nur Kinder des Mißverstandes , hie und da der Leidenschaft , gewöhnlich gefaßter Vorurtheile seyn. Die eigene „Terminologie" , welche man jener Ansicht vorwirft , geht aus ihrer Eigenthümlichkeit hervor. Hat nicht jedes Handwerk sogar seine eigenen Bezeichnungen ? Wem sind sie unverständlich , als dem , der das Geschäft nicht kennt ? Darf dann aber ein solcher mit Recht tadeln , was er nicht versteht ? Ganz gewiß läßt sich Alles mit andern Worten sagen , aber nicht so kurz , nicht so präcis. Am auffallendsten ist dieser Vorwurf von Seite der Kantianer ; man muß sie nothwendig fragen, [p. 118] ob denn sie auch die gleiche Beschuldigung für ihre Ansicht (die kantische) als treffend gelten lassen ? Daß beyde Terminologien gar oft bis zum schneidenden Gegensatze different sind , kann den nicht befremden , der sich erinnert , daß auch die zu Grunde liegenden Systeme sich entgegengesetzt sind. Das Wort verkündet den Gedanken , folgt seiner
+
+Richtung . Ist dieser als die Seele verschieden , muß es auch jenes seyn , das dessen Werkzeug , Dessen Körper , dessen Organ ist ? /
+
+S. 75.
+
+Es dürfte unserm Zwecke der Orientierung über den Sinn und das Wort der absoluten Identitäts = Ansicht sehr zuträglich seyn - noch von ein Paar ausgezeichneten Freunden derselben einige Sätze zu entlehnen , welche , wie wir hoffen , beytragen können , zu bestätigen , was wir bisher sagten, und deren Gedanken und Bezeichnungen durch das Bisherige beleuchtet werden mögen. Nebenher erreichen wir wieder vielleicht die Nebenabsicht , bemerken zu lassen , daß die Gedanken und die Sprache dieser Männer weder so unsinnig, noch so unschicklich seyen , als Manche es uns wollten glauben machen.
+
+Wir begreifen , wenn Schelling a) früher ( in der Zeitschrift für spekulative Physik) erklärte :
+
+1) „Außer der Vernunft ist nichts und in ihr Alles " (vergl. mit S. 35. dies. Schrift.) 2) ,,Die Vernunft ist schlechthin eine und schlechthin sich selbst gleich." ( vergl. mit
+
+S. 28, 29. d. Schr.)
+
+3) „Das höchste Gesez für die Vernunft (somit auch für das Seyn ) ist die absolute
+
+Identität ( A = A ) ; hier ruht die einzig unbedingte Erkenntniß" ( vergl. mit S. 32.
+
+d. Schr.)
+
+4) „Alles , was ist , ist absolute Einheit. Alles , was ist , ist an sich Eins. Nichts ist dem Seyn an sich nach entstanden , end.
+
+lich" (vergleiche S. 50. 51. d. Schr. ) . 5) Zwischen Subjekt und Objekt ist nur eine quantitative Differenz möglich - verſteht sich in Ansehung des einzelnen Seyns , nicht in Ansehung der absoluten Totalität, welche = der absoluten Identität ist" (vergl.
+
+S. 51. fig. d. Schr.)
+
+6) „Die absolute Identität ist nicht Ursache des Universums , sondern das Universum selbst. Alles Einzelne ist zwar nicht absolut, aber in seiner Art unendlich. Daher ist jedes Einzelne in Bezug auf sich selbst eine Totalität ic, (vergl. S. 61 70 dieser Schrift [p. 120] man erinnere sich auch noch , daß der Begriff: Ursache ein blosser Verstandesbegriff sey, wie das schon Kant bemerkt hat (vergl. S. 40 und 42) , und darum nur das Beschränkte und beschränkende Verhältniß der Era ſcheinung zur Erscheinung , niemals jenes des Wesens und der Erscheinung , des
+
+Urprincips und seiner Offenbarung, bezeichnen können) ;
+
+b) wenn Schelling später (in der neuen Zeitschrift f. spek. Phys.) aus den 5 Såken : 1) „Das Innere des Absoluten ( das, Wesen) kann nur als absolute , durchaus reine
+
+- und ungetrübte Identität gedacht werden." (vergl. in d. Schr. S. 44 , und S. 50-60) 2) „Die nothwendige und ewige, dem Absoluten selbst gleiche Form ist das absolute Erkennen." (vergl. in dies. Schr. S. 46 und S. 61-70.)
+
+3) Die absolute oder ewige Form ist wie das Absolute selbst absolute Identität 2c. (vergl. S. 64. S. 30.) 4) „Das Verhältniß vom Denken und Seyn in der ursprünglichen Form ist das Verhältniß des an sich Unendlichen zum an sich Endlichen." (vergl. in d. Schr. S. 36, $ 56)
+
+[p. 121] 5) „Denken und Seyn (das an sich Unendliche und an sich Endliche ) indem sie ideel entgegengesetzt sind , können dadurch reel nur eins seyn , daß das Endliche , indem es ideel endlich ist , reel unendlich ist und umgekehrt." (vergl. S. 56.) (Anm. Diese Såken sind mehr erläutert in meinem Handb. d. Vorbereitung und Einleitung zum selbständ. wissenschaftlichen Studium II. Th. ( die Methaphysik ) München b. Lentner. S. 101 - 105.)
+
+folgende (Vielen sehr anstößige) Såke zog , und als wesentliche Folgerungen erklärte:
+
+1) Im Absoluten sind alle Dinge , ohne es jedoch zu trüben." (Es ist nur ein ursprünglich identisches Princip des Seyns und Erkennens ; dasselbe bedingt die Einheit und
+
+Totalität , ohne die bende nicht einmal des friedigend gedacht werden können.
+
+Vergl.
+
+S. 18 flg. d. Schr. * 2) „Das Absolute ist eins und Alles ; eins an sich und Alles im Reflex." (Dieß ist es , was die Alleinheit S. 30 aussagt , und damit
+
+Wesen und Form (die Darstellung , den Reflex des Wesens) unterscheiden macht S. 33.) 3) „Das wahre Seyn ist daher nur in den
+
+Ideen ; jedes Ding aber , das sich absondert, und durch diese Absonderung selbst sich seine
+
+Zeit und das zeitliche und empirische Daseyn setzt , ist abgesondert nur für sich selbst und durch sich selbst." (Die Ansicht der Dinge in ihrer ursprünglichen All-Einheit ist die Vernunftansicht , die Idee S. 36; sie betrachtet das Endliche niemals als solches als blosse Erscheinung) , sondern im Unendlichen (in Beziehung auf das innere Wesen , das die Erscheinung darstellt). Das Endliche also bloß als solches allein, losgetrennt vom ursprünglichen Princip , betrachtet giebt nichts als isolierte Ansichten , wie sie die gemeine Reflexion und Empirie einzig liefern kann. Aus dieser fehlerhaften Trennung entstehen die gerügten Mängel und Einseitigkeiten des eiteln Idealisirens und Empirisierens (S. 57 fig.)
+
+4) „Die Dinge absolut d. h. wie sie (nicht in der Höchsten sondern) in der schlechthin einen Identität des Idealen und Realen präs determiniert sind , begreifen - heißt einzig sie in ihrem wahren Seyn erkennen. Denn nur dieß heißt vernünftig begreifen, was als organisches Glied des absoluten Ganzen d.
+
+h. im nothwendigen Zusammenhange mit demselben und dadurch als ein Reflex der absoluten Einheit erkannt ist ." (Die wahre Spekulation- die absolute Erkenntniß erfaßt [p. 123] stets den einen identischen Centralpunkt , das eine Wesen, dessen organische Offenbarungen alle Erscheinungen sind. (Vergl. S. 19 flg. und S. 41 fq.) 5) „Das Herausgehen des Absoluten aus sich - so wie die Einheit und innere Verwandschaft aller Dinge mit sich und dem göttlichen Wesen ist schlechthin undenkbar.
+
+Es ist kein relatives , sondern ein absolutes Erkennen , das alle Begriffe übersteigt. " ( Wie soll die beschränkte Ansicht - der Begriff des Verstandes - das Unbeschränkte 2c. erreichen? Dieß ist eine nothwendige zurechtweisung des anmaßenden Verstandes, der alles in seine beschränkenden Formen ohne
+
+Recht und Fug einzwången will. Vergl. S. 37, 42 und S. 60.) S. 76. Steffens (f. dessen Grundzüge der philos. Naturwissenschaft , Berlin 1806) stellt gleich nach der interessanten Einleitung folgende Säke auf : „Es giebt nur ein wahres Erkennen , und dieses ist das absolute Erkennen der Vernunft." (S. 18 dies. Schr. haben auch wir nur ein Wissen wahr gefunden , und es als das absolute
+
+S. 25 und als Vernunftwissen S. 35 erkannt.)
+
+[p. 124] „Was in der Vernunft erkannt wird , ist nichts als die Vernunft selbst , und auch das Erkennen ist wiederum nur die Vernunft." (Das
+
+Vernunftwissen ist nothwendig eine lebendige AllEinheit S. 30 , die aus ihrem identischen Princip alle reale und ideale Erscheinungen , soo mit auch das Erkennen , entwickelt S. 44 fig.)
+
+„Nennen wir das Erkennende ein Subjektives , das Erkannte ein Objektives , so ist das wahre Erkennen (das Ansich des Erkennens) weder das eine noch das andere , also weder ein erkennendes Subjekt , noch ein erkanntes Objekt , sondern die absolute Einheit beyder." ( In der Trennung des Sub = und Objektiven ist keine Befriedigung , weil da weder lebendige Einheit noch Totalität ist S. 16 und flg.)
+
+„Der Gegensatz zwischen Subjektivität und Objektivität ist also kein reeler Gegensaz ; die wahre Realität ist nur da , wo er schlechthin verschwindet." (Jener Gegensaz gehört der Erscheinung , nicht dem Wesen an ; wahre Realität in philosophischer Hinsicht giebt nur die. Erkenntniß des Letztern. Darum sagt St. gleich nachher , daß das wahre Erkennen nur da sey , wo Denken und Seyn (die Gegensätze) identisch werden." Vergl. S. 44.)
+
+[p. 125] „Die absolute Einheit (Identität) wird nicht gesucht 2c. , nicht postuliert 2c. , sie ist das ewig dasenende 2c. Organ aller lebendigen Untersuchung, alles wahrhaften Erkennens , welches das Ganze des Erkennens und einen jeden Punkt desselben gleich klar bezeichnet (die Einheit der Vernunft). "(Vergl. S. 44 d. Schr.) In der Vernunft erkennen heißt nicht ein
+
+Sinnliches , Endliches , so wie es sich den leiblichen Sinnen entdeckt , als ein Sterbliches , Vergängliches , sondern ein jedes Einzelne in seinem Wesen d. h. in der Potenz des Ewigen erkennen"
+
+2c. (Vergl. §. 55. Die Einseitigkeit , Unfruchtbarkeit und Verkehrtheit der blossen Reflexion des merkt St. hiedurch sehr gut.)
+
+„Raum und Zeit , das Nothwendige und das
+
+Freye sind relative Formen , welche identisch werden auf dem Standpunkte , wo Natur und. Geschichte (das Endliche und Unendliche als relative
+
+Totalitäten) indifferent sind" 2c. „Das wodurch eine relative Indifferenz des Wesens und der Form in Rücksicht auf das Ganze gesetzt wird , nennen wir die bestimmte Potenz , und sie druckt sich durch den Grad des Ueberwiegens der Subjektivität oder der Objektivität aus." (Vergl. S. 66 flg. d. Schr.)
+
+[p. 126] „Die Philosophie ist die Wissenschaft des Wesens. Idee nennen wir das , wodurch die Potenz als dem ewigen Wesen gleich gesetzt wird" 2c.
+
+(Vergl. SS. 59 , 64. Philosophie ist als absolute ein Wissenschaft nothwendig Vernunftwissen Wissen in und durch Ideen , welche die unendliche
+
+Offenbarung des ewigen Wesens kund thun. S. 61.) Was übrigens St. S. 16 und flg. über Natur , Naturphilosophie , Potenzen der Natur 2c.
+
+sagt , ist sehr lesenswerth , muß aber zur Ersparung des Raums hier übergangen werden. - Job. Bernh . Wilbrand ( s. dessen Darstellung der gesammten Organisation , Gießen b. Heyer 1809.)
+
+faßt in seiner Einleitung die Hauptgrundsäße der philosophischen Naturansicht in 42 gedrängten Numern zusammen, die man bey Gelegenheit nützlich mit den aus Schelling und Steffens angeführten vergleichen kann.
