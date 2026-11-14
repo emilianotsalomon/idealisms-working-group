@@ -1,0 +1,472 @@
+---
+title: Descartes et Beeckman (1628-1629)
+author: René Descartes
+id: 9319
+markers: [at, print]
+pairs_by: at
+year: 1897
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Œuvres de Descartes, publiées par Charles Adam et Paul Tannery, t. X (Paris, Cerf, 1897-1913); converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: AT X:329-348
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Descartes et Beeckman (1628-1629) was written by an author who died in 1650, so before 1931; René Descartes (d. 1650) is long out of protection and the edition (1897) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 9319)
+---
+
+# R. Descartes, *Descartes et Beeckman (1628-1629)* (1897)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. 329] DESCARTES
+
+��ET
+
+��BEECKMAN
+
+(1628-1629)
+
+��Œuvres. V. 4a
+
+�� �
+
+[p. 331] DESCARTES ET BEECKMAN
+
+(1628-1629)
+
+(I) Historia Des Cartes ejusque mecum necessitudo.
+
+DOCTI COR PAUCI [2].
+
+D. Renatus des Cartes du Peron, qui anno 1618 in meam gratiam, Bredæ Brabantinorum, Musicæ compendium conscripsit [b], quo suam sententiam de musicà mihi aperuit, quodque huic operi insertum est [c] : is, inquam, die 8° mensis octobris 1628, ad me visen- dum venit Dortrechtum, cùm prius frustra ex Hollandiâ Middel- burgum venisset, ut me ibi quæreret [d]. Is dicebat mihi se in arithmeticis [e] & geometricis nihil amplius optare : id est, se tantùm in ijs, his novem annis, profecisse, quantùm humanum ingenium capere possit. Cujus rei non obscura mihi specimina reddidit, paulò post Parisijs suam Algebram, quam perfectam dicit, quàque ad perfectam
+
+a. Ces deux titres, de la main de Beeckman, sont ajoutés en marge, le second plus bas que le premier, et en regard du texte : Causam verà cur... (second alinéa). Voir ci-avant, p. 34-38.
+
+b. Voir ci-avant, p. 89-141.
+
+c. Ibid., p. ai et p. 82-83.
+
+d. Beeckman habitait Dordrecht, depuis la fin de mai 1627. Son discours inaugural, comme recteur du collège, est du 2 juin (voir ci-avant, p. 20-21). Auparavant, il était à Rotterdam depuis décembre 1620 (p. 46, note b), et auparavant encore à Utrecht depuis nov. i6i9(p. 24). Il avait quitté définitivement Middelbourg depuis la fin de cette année. Descartes en était resté à ses souvenirs d'avril 1619 (voir p. 169).
+
+e. M S. : aridmethicis.
+
+�� � [p. 332] jj2 Descartes ET Beeckman
+
+Geometriæ scientiam pervenit, imò quà ad omnem cognitionem humanam pervenire potest, propediem ad me missurus, aut ipse- met hue ad eam edendam & limandam venturus, ut communi operà id quod restat in scientijs perficiamus. Gallià enim, Germanià & Italiâ peragratà, dicit se non invenisse alium, cum quo secundum animi sui sententiam disserere & à quo adjumentum in studijs suis sperare possit, quàm per me. Tantam dicit esse ubique inopiam veræ' philosophiæ quam vocat operam navantium. Ego verò illum omnibus, quos unquam vidi aut legi, arithmeticis"^ & geometris præfero.
+
+Causam verò cur tam pauci hic^ versatissimi sint, esse existimo, quia omnes qui ingenio tali pollent, ubi se aliquid invenisse autu- mant, statim scripturiunt, nec tantùm id quod invenere edunt, verùm eam occasionem arripientes, nova opera scientiasque ab ovo conscribunt ', atque ita suum ingenium, ad plurima perfecte invenienda aptissimum, multitudine laboris» non utilis aut novi obruunt. Ille verò necdum quicquam scripsit, sed usque ad 33 ætatis suæ annum meditando, eam rem quam quæsivit, perfectiùs quàm reliqui invenisse videtur. Hæc dicta sunto, ne quis potius numerum scripturientium quàm illum imitetur'.
+
+{Fol, 333, recto, l. i-34.)
+
+a. Dans le MS., ce mot se termine par le même signe abréviatif que le mot précédent, que nous lisons cognitionem. Il faudrait lire humanem, faute, qui s'explique pour humanam.
+
+b. Après eam : con/crit>en,écTh d'abord, puis barré (MS.).
+
+c. MS. : vere.
+
+d. Voir p. 33 1 note e.
+
+e. MS. : hic. Lire peut-être: his, ou bien in his.
+
+f. MS. : incipiunt conscribere, écrit d'abord, puis incipiunt a été barré, ainsi que la fin du mot suivant {ère remplacé par unt)..
+
+g. MS. : après laboris, obruunt écrh d'abord, puis barré, pour faire place aux mots.- non utilis aut noifi.
+
+h. MS. : 24, écrit d'abord, puis le 2 changé en J, et le 4 (?) aussi en 3. Descartes étant né le 3i mars 1596, l'âge de 24 ans (ou plutôt la 24'»« année de son âge) nous reporterait à 1619-1620, et l'âge de 33 ans ^ou la 33°" année) à 1628-29.
+
+i. MS. : imiterum (cf. finale de illum). La dernière lettre seulement a été corrigée : r au lieu de m (abrégée).
+
+�� �
+
+[p. 333] (1628-1629).
+
+��}}}
+
+��(H)
+
+��AlgebRvE Des Cartes spécimen quoddam.
+
+��Dicit idem se invenisse Algebram generalem, ad eamque se non uti corporum figuris, sed planis duntaxat, quia eæ facilius men- tibus insinuantur ; atque ita res aliæ, præter Geometriam, ijs optime exprimuntur.
+
+Concipit unitatem per quadratum exiguum ; ita etiam punctum
+
+��D
+
+��r
+
+��I I I
+
+��concipit. Lineam verò aut radicem concipit par parallelogrammum, ex uno istius quadrati latere & longitudine debita conflatum. Quadratum concipit ex tot talibus radicibus'^ factum ; cubum, ex tot quot numeri indicant quadratis ad formam oblongam redac- tis factum ; biquadratum, eodem modo, &c. Imo hæc omnia etiam lineis explicat, ita ut a punctum, b lineam, c quadratum, d cubum
+
+a. Les figures, dans le MS., sont faites à la main, sans grande précision. Seule la figure c est divisée en trois parties qui devraient être égales. Par analogie, et pour compléter les autres figures, nous avons reproduit dans toutes, au pointillé, cette division tripartite, qui est évidemment la base de ce système particulier, bien que le texte ne donne pas le nombre 3, mais parle de nombres quelconques.
+
+b. Après tôt, le mot cf, écrit d'abord, puis barré.
+
+c. MS. : radicis. Mais radicibus s'impose, comme à la ligne suivante, cubum ex... quadratis. D'autant plus que, dans le MS., le second i n'a pas de point, et pourrait être le dernier jambage d'un u.
+
+d. MS. : quo.
+
+�� �
+
+[p. 334] JJ4 Descartes et Beeckman
+
+representet. Eo modo quoque^/cubum representabat ex multiplicatione quadrati e per numerum radicis confectum.
+
+Nec minori negotio eadem absolvit per nudas lineas, quemadmodum hîc ad marginem videre est, ubi notæ cossicae singulis
+
+��1 •
+
+��1
+
+��>
+
+��lineis adjectæ sunt, lineis eas quæ præfixæ sunt quantitates signi- ficantibus.
+
+Particulariter verò concipit cubum per tres dimensiones , ut etiam alij faciunt; at biquadratum concipit ac si ex cubo simplici, qui consideratur ut ligneus, fieret cubus lapideus : ita enim per totum additur una dimensio'; at si altera dimensio sit addenda, considerat cubum ferreum ; tum aureum &c., quod non solùm fit in gravitate, sed etiam in coloribus & omnibus alijs qualitatibus. Secans igitur ex cubo ligneo quadrata tria, concipit etiam tandem se secare cubum ex ligneitate, ferreitate &c. solâ conflatum, ita ut ferreus cubus ad ligneum perducatur eo modo quo cubus simplex ad quadratis observatis in unoquoque genere observandis f.
+
+Idem hoc pacto, ut vides, minuit binomium uno nomine. Cupiens enim auferre 6 radices quadrati ab incogniti, dividit 6 per 2, At, quia sc & gb continent utrumque 3 radices, cùm sc & gb
+
+a. MS. : quo.
+
+b. Voir ci-avant, p. i54, note c.
+
+c. MS. : dimentiones.
+
+d. Ib. : biquadradum.
+
+e. Ib. : dimentio.
+
+f. Le texte est corrompu. L'un des deux mots : observatis, obfervandis serait de trop. De plus il faudrait : ad quadrata... observanda (ou observata).
+
+�� �
+
+[p. 335] auferuntur, aufertur quadratum *dc* bis ; auferentur igitur 6 ℞ & quadratum ex dimidio viz. 9. Idcirco qui auferre vult 6 ℞
+
+1 ʒ ∞ 6 ℞ + 7
+− 6 ℞ + 9
+1 ʒ ∞ *de* . 16
+*df* . 4
+*dg* . 3
+*ac* . 7
+
+debet addere 9, ut restet minus quadratum *de*. Quo cognito, cognoscitur etiam ejus latus, quod, addito dimidio radicum, habetur radix quadrati primi. Ita ex majore quadrato excipitur minus, quo mediante invenitur majoris radix.
+
+Irrationales numeros, qui aliter explicari non possunt, explicat per parabolam ; nominat autem quasdam radices veras, quasdam implicitas, id est minores quàm nihil, quasdam imaginarias, id est omnino inexplicabiles ; ac videt ex tabulà vulgari, quot aliqua æquatio radices habere possit quarum una sit quæsita.
+
+(III)
+
+## Angulus refractionis a Des Cartes exploratus.
+
+Idem etiam explorat quantitatem anguli refractionis per vitreum triangulum *lmn,* in quod radij paralleli in latus *lm* ad rectangulos incidunt ; tegitque *lm* chartâ, perforatque duntaxat ad *o,* ut ibi
+
+a. MS. : *adde.*
+
+b. Après *quadrato fit minu* (sic), écrit d'abord, puis barré.
+
+c. Voir ci-avant, p. 157.
+
+d. Avant *nominat habet* écrit d'abord, puis barré.
+
+[p. 336] }}6 Descartes et Beeckman
+
+radius admittatur, atque observat angulum refractionis radij qrp.
+
+���tu.
+
+��72.
+
+��Cognito uno angulo refractionis, deducit inde reliquos secundum angulorum sinus :
+
+Ut enim, inquit, ab 3ià h g, ita c<a? ad is.
+
+Considerat enim sub st esse aquam, radios esse aeg, ces ; idemque
+
+��fr._
+
+�/
+
+�..\
+
+�d
+
+�^^-~^._ \
+
+� �e.
+
+ï <
+
+�[---"et
+
+��videntur ipsi pati quod brachia æqualia bilancis, quorum * finibus appensa sunt pondera, quorum id quod in aquà est levius est et brachium attollit. Tandem quærit multa puncta, qualia est r, ac circa illa hyperbolam ducit, per quam omnes radij paralleli incidentes concurrunt in unum punctum.
+
+Quod vitrum optimum foret ad faciendos tubos oculares ; nam, inquit,
+
+a. MS. : quo=. à la fin d'une ligne.
+
+�� �
+
+[p. 337] (1628-1629). ))j
+
+hyperbole minor ejusdem generis serviet ad vitrum concavum faciendum.
+
+Dicit se jussisse fieri convexum tale, sed ita ut mechanicus torno «qualiter super eodem centro id raderet. Quod ego aliquando imperavi fabro, statuens toties mutare lineam chalibeam, secun- dum quam vitrum formaret, donec mechanice viderem omnes radios" perfecte convenire. Ipse dicit sibi perfecte successisse.
+
+{F0I..333, verso, l. 28-48.)
+
+��(IV) Chordarum musicarum crassitiei ratio.
+
+Idem dicit Monachum quem sibi notum Parisijs observasse chor- dam a requirere i pondus ; cujus chorda duplo crassior b (duplicatui
+
+��CL
+
+��4 .
+
+Ni
+
+��\4
+
+��autem, duas simul convolvendo) 2 ; &. cujus c. chorda duplo longior, ejusdem verò cum prima crassitiei, requirit 4 : ut eundem omnes reddant sonum.
+
+Nec mirum, inquit, quia b duplà crassitie eodem modo se habet% ut h duîe simplices separatæ.
+
+[Fol. 334, recto, 1. i-io.)
+
+a. MS. : radio, h. Le P. Mersenne.
+
+c. MS. : habent, faute, qui s'explique par le pluriel du second membre de phrase.
+
+ŒuvRF.s. V. ' 43
+
+�� �
+
+[p. 338] ))8
+
+��Descartes et Beec
+
+��KMAN
+
+��(V)
+
+Soi.IS RADIJS COMBURERE REMOTISSIMA.
+
+Quod attinet ad inventionem hyperbolicæ sectionis ejus generis, per quam omnes radij in idem punctum refringantur, quod dictus Des Chartes dicit se fecisse : hoc ad magnas, è longissimâ distantiâ, machinationes comburendas, aut cælestia corpora exactissime in omnibus particulis conspicienda, potest sufficere : quiaplus lucis requiritur quàm parvum vitrum capere potest, & maxima hyperbola difficulter, imò fortasse nequaquam, parari poterit. Quare cùm in maximis rebus punctum mathematicum non requiratur, quia locus unum pollicem latus pro puncto erit, poterit fieri quàm maximum hæmisphærium ex ferro, atque in convexitate ejus primum præparari vulgare vitrum ; deinde circumferentia unum pollicem lata, quæ exacte primo possit circumponi ; tertio circumferentia ejusdem lati- tudinis, sed tanti circuli, ut possit secundæ circumponi ; & sic plures, donec maxima fere æquet circumferentiam maximum hemisphaerij. Ligna verò per quæ præparantur vitra circulorum majorum poterunt" medio loco esse cava ad levitatem ; ita non erit necesse torno rem peragere, sed quavis hæmisphærij parte radij potest prout manus fertur : ubique enim est circularis. Peractis omnibus & vitris præparatis, omnia ita admoventur vel removentur, ut omnes radij in unum locum incidant. Melius quidem in hyperbola tali hæc peragerentur, nisi ibi motus circularis super axem hyperbolæ exacte requireretur : cui rei fabri non assueverunt.
+
+(Fol. 334, recto, l. 1 1-34.)
+
+(VI)
+
+Ellipsis in qua omnes radij paralleli concurrent in puncto medij densioris.
+
+Ex scriptis D. Des Chartes ante sæpe dicti ad verbum descripta :
+
+Si velimus invenire superficiem in quâ omnes radij paralleli incidentes post refractionem concurrant in
+
+a. M S. : puterum.
+
+�� � [p. 339] lO
+
+��20
+
+��(1628-1629). J}9
+
+puncto medij densioris, ducemus ellipsim cujus maxima diameter sit ad distantiam inter utrumque focum ut sinus ingredientis anguli incidentis ad sinum egredientis.
+
+Verbi gratiâ, sint a &. b foci ellipseos, & c punctum in circumferentiâ qualecunque in quod radius sic parallelus axi refringatur : necessario concurret cum axe in puncto d. Cum enim major diam(et)er ellipseos sit ad
+
+���differentiam inter focos ut a ad unitatem, linea^c juncta lineæ cb erit ad ab ut a. ad unitatem. Deinde divide angulum acb bifariam per lineam eci, quæ secabit ellipsim ad angulos rectos ; ergo ich erit angulus incidentiæ radij hc, cui æqualis est ceb, cùm ch & eb sint parallelæ. Cujus anguli cd est sinus rectus, i5 si ce sit sinus totus. Eodem modo ace est angulus incidentiæ in medio densiori, cujus sinus rectus est ef, ponendo iterum ce pro sinu toto. Superest igitur probandum ef esse ad cd ut unitas ad a, quod ita fit : ab est ad acb ut unitas ad a, ae est ad ac ut ab ad acb, ergo ut unitas ad a ; item e/est ad cd ut ae ad ac, ergo ut unitas ad a : quod erat demonstrandum.
+
+Estque hæc fœlicissima demonstratio & clarissima.
+
+�� �
+
+[p. 340] 540 \ Descartes et Beeckman
+
+(VII)
+
+Hyperbola per quam radij in unum punctum concurrunt.
+
+Ab eodem.
+
+Omnes radij ex uno puncto venientes in medio 5 rariori & incidentes in superficiem convexam medij densioris ut fiant paralleli, oportet illam superficiem esse hyperbolam, in quâ distantia inter utrumque focum sit ad distantiam inter utrumque verticem, ut sinus radij ingredientis ad sinum egredientis, & focus exte- "o rior erit punctum ex quo radij omnes egredientur.
+
+(Fol. 338, recto, l. 33-3 g.)
+
+(VIII)
+
+ElLIPSIS PARS PER QUAM RADiJ IN AERE EXACTE CONCURRUNT. i5
+
+Quod si in ellipsi præcedente ex centro a circuli partem describas* intra ellipsim, ita ut cbkc sit pars ellipseos, nihilominus refractio fiet in a, quia radij à centro ad circumferentiam sunt perpendiculares. Ergo
+
+comburet in a aere. 20
+
+[Ib., l. 40-44-)
+
+a. MS. : Describes écrit d'abord, puis a récrit sur e.
+
+�� �
+
+[p. 341] (I628-I629).
+
+)4i 
+ (IX) 
+ Hyperbola per quam omnes radij paralleli in unum punctum exacte incidant demonstrata.
+
+i' Feb. 1629. Dortrechti .
+
+Hanc de hyperbola propositionem D. des Chartes indemonstratam reliquerat, ac me rogavit ut ejus demonstrationem quœrerem ; quam cùm invenissem, gavisus est ac genuinam esse judicavit ^. Ea autem talis est : sint ae duo foci, partes hyperbolarum gb & uc.
+
+wg radius parallelus ae, perpendiculariter g'/ incidens, & refrin- 
+ gatur in e; vel ex e in ^ incidens, refringatur parallelus in w; sitque a^ altera linea, ex quà cum ^^e hyperbola describitur, suntque qr & st sinus radij egredientis & ingredientis ad perpendicularem hq, qu£e tangentem gm secat ad angulos rectos ; gm verò ex bisectione anguli âge nata est. Ostendendum est 5/ se habere ad qr ut bc ad ae. At cum qrg & hig triangula similia sint, ut &. stg & ghf, certum est st esse ad qr sicut gf est ad hi ; cùmque ihe & gfe etiam similia sint, erunt ut gf Sid hi, sie ge ad lie. Fiat jam gn æquale^ç-a, & oa 8l pn xquaMa. ab, quod etiam æquale est ce.
+
+a. Date écrite par Beeckman en regard de la figure.
+
+b. Voir lettre de Descartes à Beeckman, du 17 octobre i63o, Correspondance, t. i, p. i63, 1. 3-2 1.
+
+[p. 342] }4^ Descartes et Beeckman
+
+At ablatis æquali[bu]s g-p & go ex ge & ga, erunt pe & be' asqualia ex constructione hyperbolæ ; vertex enim l> notatur, cùm ao super centre a &. ep super centro e motæ unam rectam efficiunt le invicem tangentes ad A. Cùm autem np æquale sit ai & ec, erit Jie minor quàm ae duplici ab, id est ab & ec, ergo æqualis be^. Cùmque an recta, per 9 primi Euclidis, sit ad angulos rectos ad lineam gm, crum gh &l a n parallelæ, & triangula atie & hge similia; ideoque < ut > ne ad ae, sie ge ad lie, ergo etiam ut bc ad ae. Si. hæc ut st ad qr. Quod erat demonstrandum.
+
+Idem fiât per numeros : Sit bc 10, ae 12, ge ib : ergo he 18. Id autem hoc pacto probatur : egga 20 dant ga 5, ergo atnme 12 dant am 3. Quadrata ga Si. ae \6q à quadrato ge 22?, restat 56. Id divisum per duplum ae 24, habetur/a 2^; ergo s m S-,. Et quadratum /a i2 à quadrato ag2b, restat quadratum gf'-^- Ut autem/;;; 5 ^ ad gf \/^\ sie gf \J'-^ ad /;/ 3 §. Hoc cum /a 2 j & ae 12 facit uS, ut supra.
+
+(X)
+
+PaRABOLÂ duo MEDIA PROPORTIONALI A Inveniri POSSE DEMONSTRATUR.
+
+Cùm D. des Chartes invenisset per parabolam duo media propor- tionalia inveniri, hoc mathematicus quidam Gallus Parisijs geo- metrice demonstravit hoc modo. Quod ad verbum descripsi.
+
+« Problema solidum solide constructum.
+
+» Propositis duabus lineis rectis, binas medias in continua proportione assignare.
+
+>i Sunto binæ propositæ, minorai, major bh; oporteat autem » inter eas binas medias in continua proportione invenire.
+
+'Av(xXuTl/CtOÇ.
+
+)i Sit jam factum "^ ; et sunto in adscriptâ figura bina; mediæ, minor » quidem ed, major autem ea. Quoniam igitur ed & ea sunt mediæ
+
+a. MS. : a e, faute.
+
+b. MS. : b c, faute.
+
+c. Pour la première fois, dans le MS., les lettres correspondant à la figure sont soulignées, tandis que, dans les articles précédents, rien ne les distingue du contexte.
+
+�� �
+
+[p. 343] (1628-1629). }A}
+
+» in continua proportione, erit ut^^ ad ed, ita ed ad ea, & ita ea » ad bh ; quadrato autem sub secunda de æquatur rectangulum sub 1) i" & 3". Igitur si statuatur secunda de et ordinatim ducta & ad » angulos rectos tertiæ ae, crit ae axis parabolæ cujus vertex a & )> latus rectum crit ipsa gb prima. Sit igitur descripta parabole.
+
+���» Quoniam autem ut bg ad de ita de ad ea, & haea ad /'//, omnibus » fubdupiicatis" (ductis nempc ad l'cdà bifariam in /', & ti pmduclà » in r, ut sit dimidio bh iioc cst bc ctqualis & parallela) crit ut ab » ad bs hoc elt ti, ita // ad ta, & ita ta ad /;• hoc est bc. Sunt igitur bina, ati, atr, triangula similia & æquiangula, & angulus tai angulo art æqualis. Sed ut at ad tr, ita 5/ ad ir, hoc est is ad se (ductis nempe is, cr, axi parallelis) & ita )'/ ad ti. Sunt igitur etiam similia, atr, isr,j-ti, ita, triangula & iequiangula,
+
+��a. MS. : fubciuplatis.
+
+b. \b. : br, faute.
+
+c. Ib. : er.
+
+�� �
+
+[p. 344] 344 DEscARTt-s ET Beeckman
+
+» atque ideo anguli art, tes, yil, tai, invicem æquales. Itaque » propter similitudinem est ut at ad //", ita ti ad ty ; est igitur aiy » angulus in semicirculo, ideoque rectus. Itemque, is qui deinceps » aie, etiam rectus. Igitur propter æquales ai, id, & communem » ie, erunt triangula aie, die, invicem similia & æqualia, atque » ideo ae æqualis cd, et utraque radius circuli cujus centrum c. »
+
+« Componetur igitur sie. Super ducta ge interminata secetur ab » æqualis dimidio minoris extremæ gb & ad rectos ab excitetur bh » æqualis majori extremæ; quà bifariam sectâ in c, centre c inter- » vallo ca describatur circuli circumferentia. Jam l'edà ab bifariam » in o, foco o vertice a describatur parabola ad secans circumferen- » tiam in d puncto, à quo a.d ab productam ducatur ordinatim & » ad rectos de. Dico ipsam de ede minorem è medijs quæsitis & ae » majorem. Atque sie fore, ut gb ad de, ita de ad ae, & ita ae » ad bh. »
+
+��(XI)
+
+PaRABOLÂ /EQUATIONES COSSICAS LINEIS EXPONERE.
+
+Auxilio paraboUï omnia solida problemata generali methodo construere. Quod alio loco vocat D. des Chartes secretum universale ad aequationes omnes tertiâ vel quartâ dimensione involutas lineis geometricis ex- ponendas.
+
+Quod ex illius scriptis ad verbum describo :
+
+Primo praeparetur æquatio ita ut remaneat biquadratum æquale + vel minus certo numero quadratorum, + vel — certo numero radicum, & plus vel minus certo numero absoluto.
+
+Describatur deinde parabola, cujus vertex A, focus O, ita ut latus rectum mOn transiens per focum sit
+
+�� �
+
+[p. 345] 10
+
+��(1628-1629! }4^
+
+unitas; ducaturque diame(te)r. AO utrinque in infinitum, & in illà assumatur punctum B, vel intra vel extra parabolam, ex quo ad angulos rectos educatur linea BC, & ex centro C describatur circulus DD, qui inter-
+
+���5 secabit circumferentiam parabolæ in duobus", vel uno vel tribus ^\ transeundo scilicet per verticem , vel quatuor'^ punctis, ex quibus lineæ perpendiculariter descendentes supra diametrum AO erunt omnes radices propositæ æquationis.
+
+Si autem numerus quadratorum affectus sit nota plus, linea AB erit media pars aggregati ex unitate & numero quadratorum, assumeturque intra parabolam. Si verò affectus sit nota minus, linea AB erit media pars
+
+a. MS. : 2"». b.Ibid. : 3"n c. 4"'.
+
+Œuvres. V. 44
+
+�� �
+
+[p. 346] ^4^ Descartes et Beeckman
+
+differentiæ inter unitatem & numerum quadratorum ; atque intra parabolam, si illa differentia sit minor unitate ; si verò major, erit extra ; si æqualis, in vertice. Item linea BC erit media pars'numeri radicum. Et denique semidiameter circuli CD erit radix quadrata 5 ex aggregato quadrati facti supra linea CA & numeri absoluti, si quidem in numero absoluto fuerit nota + ; si verò sit nota —, semidiameter CD erit radix differentiæ, quâ quadratum lineæ CA excedit numerum absolutum. Debet enim excedere : alioqui nulla est lo radix vera in totà æquatione, sed omnes imaginariæ, & generaliter tot tantùm sunt veræ radices in sequa- tione, quot sunt puncta in quibus dictus circulus secat parabolam alibi quàm in vertice. Et si in numero radicum sit nota minus, illæ tantùm ex veris radicibus '5 erunt explicitæ, ex quarum extremitate lineæ ductæ ad centrum circuli secabunt diametrum parabolæ ; aliæ verò erunt implicitæ. Et contra, si in numero radicum sit nota +, illæ erunt radices explicitae, quæ se tenent ex parte parabolæ in quâ est centrum circuli, & impli- 20 citae, quæcunque in altera parte reperiuntur. Neque ullam plane hæc regula patitur exceptionem aut defectum.
+
+Hanc inventionem tanti facit D. des Chartes, ut fateatur se nihil unquam præstantius invenisse, imò à nemine unquam præstan- tius quid inventum ".
+
+{Fol. 33g, verso, l. 20. — Fol. 340, recto, l. 24.)
+
+a. Le Jo«rwa/ continue ainsi : « 1629. — 18 Feb. venit mihi in mentem cogitare de causis frigiditatis. . . » En marge : Frigiditatis causa in aère est major aut minor densitas. (Fol. 340, recto, 1. 25.)
+
+�� �
+
+[p. 347] (1628-1629)- }47
+
+��XII)
+
+LUN.E AN I.ITTER.K INSCRIBI POSSINT ABSENTIBUS LEGEND.*:.
+
+Agrippam^ cùm ante 20 annos legerem, memini eum dicere se posse lunæ inscribere litteras,quas alius in altera terræ regione possit legere. Quod D. des Chartes dicit Baptistam Portam '• referre ad vitra in infinitum comburentia, per quœ etiam videtur in lunà quasvis litteras exaraturus. At nugatur cum Agrippa Porta ; neuter enim tenuit. A'erùm, si quis posset facere tubum, per quem videri possent qua; in lunà aguntur, & ab ijs qui ibi habitare dicuntur exarantur & scribuntur, & si illi idem possent quod nos : possent illi nobis, singulis diebus, significare quid.apud antipodas ageretur, quia terra; omnes partes singulis diebus opponuntur. Cùmque à Galila'O"^ dicantur Gigantes, ideoque nobis multo sapientiores, verisimile est eos iam dudum tubum talem invenisse, ac singulis momentis viderequid agamusnos,& sperare ut & nos aliquando talem tubum inveniamus, ut cum illis atque illi nobiscum possint disserere. Sed &c. »
+
+(Fol. 34 1, verso, l. i6-3o.)
+
+a. Voir ci-avant, p. 63-65, note d, et p. i65, 1. 10.
+
+b. De Occulta Philofophid, lib. I, cap. VI : De admirandis aquce & aeris atque ventorum naturis. Voici le passage en question :
+
+« Et est aliud præstigium admirandum magis, vbi piilis certo artificio • imaginibus scriptisue literis, quis nocte serenâ planas lunæ radiis opponat, » quarum simulacris in aëre multiplicatis sursumque raptis, &vnàcum » lunx radiis reflexis, alius quispiam rai conscius per longam distantiam » videt, legit & agnoscit, in ipso disco seu circulo lunæ : quod equidem » nunciandorum secretorum obsessis villis & ciuitaiibus vtilissimum artiti- » cium est olim à Pythagorà factitatum, & hodie aliquibus adhuc pariter & » mihi incognitum. Atque omnia hœc & multo plura maioraque in ipsà » aeris naturâ fundata sunt, & ex mathematicâ atque opticà suas rationes »'habent. » (Henrici Cornelii Agripp.e ab Netteshevm, Opera omnia, Lugduni, per Beringos fratres, M. DC, t. I. p. 11.)
+
+c. Johannes-Baptista Porta : Magice naturalis, Sive de miraculis rerum naturalium, libri XX {NeapoW, i589,in-f°). La première édition, en quatre livres, est de i 558.
+
+d. Edition Nationale de Favaro, vol. VII, p. 86. •
+
+�� �
+
+[p. 348] J48 Descartes et Beeckman
+
+(XIII)
+
+CoNSONANTI.ï: OMNES ex continua CHOROiE BISECTIONE.
+
+D. des Chartes in Musicâ suà, quam ante 12 annos in meam gratiam Bredæ conscripsit^, quam etiam huic libro inseri jussi, dicit non inconcinne ex perpetuâ chordæ ■= bile(5tione omnes consonantias & gradus oriri. Ita ut ab ad ac sit octava, ai ad ac sit quinta,
+
+f 1 » ' , — • -5 -^
+
+a: ^^s « '^ /
+
+ae ad ac sit ditonus, o/ad ac sit tonus major. Unde etiam sequeretur a^ad ac esse semitonium majus, &a/ad ag semitonium minus; eo modo quo a/ ad a c est tonus major, &ea ad /a tonus minor, & sicut ibi dicitur accidentales consonantias ex hac divisione relinqui. At ag ad ac est ut 17 ad 1 6, & a/ ad a^ ut 18 ad 17, cum tamen semitonium usitatum sit ut 16 ad i5 &c. Unde sequitur musicae formam non consistere in hac divisionis concinnitate, nisi quatenus eaiduum identitas explicatur in consonantijs ; et gradus desumi ex transitu unius consonantiæ ad aliam, sive hi cum hac divisione respondeant, ut in tono majore & minore, sive non, ut in semitonijs ostensum est <*.
+
+[Fol. 35'2, recto, l. 8-24.)
+
+Le Journal continue ainsi (et cet alinéa, outre son importance particulière, donne une date précise) :
+
+Dixit mihi hodie, qui est dies 11 octob. 1629, Patrem Paulum Servitam Venetum sentire idem quod ego, ut ante sæpe patet, de motu, viz. quicquid semel movetur, id semper moveri nisi impedimentum accedat, eoque probasse æternitatem motùs in cœlis à Deo semel motis. Id mihi dixit, inquam, D. Colviijs qui id ex scriptis ejus Patris Venetijs annotaverat.
+
+[Fol. 352, recto, l. 25-3o.)
+
+a. Voir ci-avant, p. 89-141, et aussi p. 33i.
+
+b. MS. : inserui. Beeckman avait sans doute écrit d'abord ce mot seul, qui suffisait. Puis il aura ajouté j'u^, sans penser à revenir sur le mot précédent pour le corriger. Voir ci-avant, p. 21.'
+
+c. MS. : avant bisectione, le mot divione et même diviones (pour divi- Jione) écrit d'abord, puis barré.
+
+d. Voir ci-avant, p. 56-58.
+
+e. Voir ci-avant, p. 60, note/.

@@ -1,0 +1,326 @@
+---
+title: "Demonstrationes catholicae: Trinität, Inkarnation, Gnade, Kirche"
+author: Gottfried Wilhelm Leibniz
+id: 10254
+markers: [a, print]
+pairs_by: a
+year: 1930
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 1 (Darmstadt: Reichl 1930; repr. Berlin 1971) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+canonical: "A VI,1: [p. N] are the pages of A VI,1"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Demonstrationes catholicae was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1930) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10254)
+---
+
+# G. W. Leibniz, *Demonstrationes catholicae* (1930)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## [p. 518] 16. DEFENSIO TRINITATIS CONTRA WISSOWATIUM 16r DEDICATIO
+
+Frühjahr 1669 (?). Eigenh. Konzept F (Hannover).
+
+DEFENSIO TRINITATIS per nova Reperta Logica contra adjunctam hîc
+
+Epistolam Ariani non incelebris, ad Illustrissimum
+
+Baronem Boineburgium.
+
+autore
+
+G. G. L. L.
+
+Dedicatio:
+
+Ibit TECUM in Poloniam, si pateris, ILLUSTRISSIME DOMINE, qvod à Polono ad TE venit. Nomini ejus parcere, et scripturae privatæ jura jubent, et svadet magna, sed, ut nos credimus, infelix Viri doctrina, cujus non personæ sed sententiæ nocere volo. Is ergo à Te, pro eâ qvâ erga omnes literarum amantes voluntate es, inter alia eruditionis commercia appellatus de deponenda sententia exosâ, et periculosâ, et à consensu Ecclesiae Catholicae, id est tempore perpetuae, loco universalis, abhorrente; argumento qvidem, qvo tu potissimum nitebaris, in consensu Christianorum posito, non respondit; id enim leve illis videtur, qvi assueti sunt in Ecclesia et Republicâ summam judicandi potestatem sibi sumere; at verò in se suosqve versus ex scriptis eorumhunc velut succum contundendo expressit, qvô ego fidenter dico robur omne sophismatum contra Trinitatem contineri. Et profectò sic astringit nodos, sic difficultates exaggerat, sic proseqvitur pugnam, sic ictus ictibus ingeminat; ut, qvi his repellendis par fuerit, reliqva è pharetrâ Socini tela, possit fortassis audacter contemnere.
+
+Ego, Illustrissime DOMINE, cumprimum ea et beneficio TUO vidi, et autoritate ad tentandam responsionem impulsus sum, tum demum cepi et fructum et voluptatem maximam ex profundiore illa philosophiâ, cui ego me meopte genio à puero immersi. Hæc mihi, [p. 519] nisi amore veritatis fallor, in sacris meditationibus, in civilibus negotiis, in natura rerum ea documenta suggessit, qvibus ad vitam tranqvillè agendam nihil in me sentio efficacius: qvædam etiam tunc curiosa magis qvàm utilia; sed qvæ nunc in tollendis Anti-Trinitariorum difficultatibus eam lucem attulerunt, ut jam non dubitem, qvicqvid verum est, idem utile esse. Cum enim aliqvando de Arte Combinatoria meditarer, dissertatiuncula à me publicata est —
+
+## 162. WISSOWATIUS AD BARONEM BOINEBURGIUM
+
+Oktober 1665. Abschrift D (Hannover). 16s. RESPONSIO AD OBJECTIONES WISSOWATII
+
+Frühjahr 1669 (?). Eigenh. Konzept E (Hannover),
+
+Wissowatius ad B. B. Manhemio m. oct. 1665.
+
+Suscepta objectione tua, et missa ad eam responsione, qva nisi fallor ostendi nostram de lesu Christo non supremo DEO, sed tamen huic proximo et subordinato, ac proinde de ejus adoratione divina non suprema, sed supremæ proxima et subordinata, sententiam non implicare ,*contradictionem cujus tu nos arguere voluisti; nunc vicissim tibi aliqvas circa idem subjectum contra vulgarem opinionem, qvam et tu foves, objectiones, largius qvàm tu dedisti reddere volens, mitto.
+
+Aspice num mage sit nostrum penetrabile telumb. Qvod si ipse objectiones istas examinare négligés, saltem alicui à veritatis exploratione non averso examinandas porrigito.
+
+Responsio ad Objectiones Wissowatii contra Trinitatem et Incarnationem DEI altissimi.
+
+a Qvia objectiones et responsiones pristinas non vidi, judicare ùon possum, an contra dictionem sententiae Anti-Trinitariæ probaverint vel diluerint.
+
+b dicis ex Virgilio:
+
+Aspice num mage sit nostrum penetrabile telum.
+
+Ego ex eodem respondeo:
+
+— Postqvam arma DEI ad Vulcania ventum est,
+
+Mortalis mucro, glacies ceu futilis, ictu
+
+Dissiluit.
+
+[p. 520] (I)
+
+Unus DEUS altissimus est Pater ille ex qvo omnia.
+
+Filius DEI IESUS CHRISTUS non est pater ille ex qvo omnia.
+
+E. Filius DEI IESUS CHRISTUS non est unus DEUS altissimus0.
+
+c Ad argumentum 1. præmitto in genere, qvod et in seqventibus observandum est copulas in syllogismorum præmissis vulgò non rectè concipi. Distingvendum autem inter propositiones per se et per accidens, v. g. rectè simpliciter dicimus: Omnis homo est rationalis, sed non rectè dicimus: omnis homo est albus; etsi verum sit, qvia albedo humanitati immediatè non cohæret; sed dicendum, omnis qvi est homo, est albus. Similiter non dicendum: omnis Musicus est albus, sed: omnis qvi est Musicus est albus. Qvæ etiam ex parte observavit loh. Rauen Berlinensis in peculiaribus suis de copula speculationibus. (Nachträglich am Rande hinzugefügt: Hæc observatio etiam prodest ad distingvendam infinitam à negativa, verbi gratia: qvi non credunt damnantur, ludæi non credunt, ergo damnantur. Videtur esse syllogismi minor negativa, sed non est; qvia syllogismus fit talis: Qvi sunt illi qvi non credunt damnantur. Iudæi sunt illi qvi non credunt. Ergo damnantur.) Deinde observandum est ex eodem fundamentoomnespropositiones singulares essevirtutelatentis signiuniversales, qvodet ab autore dissertationis deArteCombinatoriaest annotatum,v. g. hæcpropositioPetrusApostolus fuit primus Episcopus Romanus, signis et copula rectè positis ita formabitur: Omnis qvi est Petrus Apostolus fuit Episcopus Romanus. Iuxta hæc igitur formabimus primum argentum :
+
+Omnis qvi est unus DEUS altissimus est Pater ille ex qvo omnia. (Nachträglich hinzu- gefügt: Negatur hæc major).
+
+Filius DEI IESUS CHRISTUS non est pater ille ex qvo omnia.
+
+Ergo Filius DEI IESUS CHRISTUS non est is qvi est unus DEUS altissimus. Ita syllogismus erit in Camestres.
+
+Respondeo distingvendo: Per omnia, intelliguntur vel Creaturae, vel etiam simul Filius. Si Creaturæ cæteræ tantùm, concedo majorem, qvod omnis ille qvi est unus DEUS altissimus sit pater ille ex qvo omnia, scilicet omnes creaturae. Et ita negatur Minor, qvòd filius DEI non sit pater ille ex qvo omnia, scilicet omnes Creaturae. Qvia vos ipsi conceditis, omnes Creaturas per filium creatas esse. Sin verò sub omnium voce intelligitur etiam ipse Filius, tunc concessa minore, qvòd Filius DEI non sit pater ille ex qvo omnia, nempe ipse etiam filius, negabitur Major: qvòd omnis ille qvi est unus DEUS altissimus sit pater ille ex qvo omnia, etiam ipse filius, oriuntur. Nos enim donec contrarium melius probetur, manemus in hac sententia, qvòd Filius et Spiritus Sanctus sint ille qvi est unus DEUS altissimus; et tamen non sint pater ille ex qvo omnia, et in iis ipse filius et spiritus s. qvoqve, oriantur.
+
+[p. 521] Syllogismi hujus propositio major habetur 1. Cor. VIII. 6. in verbis Apostoli, qvi docere volens qvis nobis Christianis habendus sit DEUS ille unus, nempe non talis, qvales sunt multi Dii, qvos esse ibidem supra dixit, ait eum esse Patrem illum ex qvo omnia, nempe primam personam ex qva ut fonte et causa primoqve principio omnia proficiscuntur. Non dicit, ut nunc dici solet, unum illum DEUM esse et Patrem, et Filium et Spiritum S. cujus mysterii dicendi hîc erat vel maxima occasio, si usqvamd.
+
+Minor probatur præter alia inde, qvòd ibidem mox Iesus Christus distingvatur ab illo Patre, ex qvo omnia, et peculiariter describatur alio modo, unus Dominus per qvem omnia* 6. Nempe Dominus non supremus, qvi est solus pater ex qvo omnia, sed is qvem DEUS ille fecit Dominum6[^521-1], et Christum seu unctum suum, ut ait S. Petrus alter Apostolus Act. II. 36. per qvem ut secundam et mediam causam DEUS ille supremus ex qvo omnia, ut prima causa facit ista omnia. De qvo vide etiam Ephe. III. 9. Heb. I. 2. XIII. 21. Act. II. 22. Tit. III. 4. 5. 6. II. Cor. V. 18. I. Cor. XV. 57. II. Cor. IV. 14. Rom. II. 16g.
+
+Hoc autem ipsum qvod DEUS ille unus altissimus per Iesum Christum faciat talia, potest esse argumentum peculiare qvo probetur Iesum non esse ipsum DEUM altissimumh.
+
+d Non est scriptoribus άγιοπνεύστοιςhagiopneustois ea necessitas imponenda, ut cujus dicendi etiam maxima occasio est, id statim dicant.
+
+6 D. Paulus loco citato per Patrem ex qvo omnia, et Dominum per qvem omnia, potest intelligere unum idemqve Ens, nempe DEUM altissimum. Nam alioqvi jure naturali, qvi pater idem Dominus est liberorum. Et præpositiones: ex, et per, non ita disparate sunt, ut prohibeamur ita loqvi: ex qvo sunt omnia, per eum qvoqve sunt omnia. Nam et Paulus alibi de uno eodemqve DEO altissimo duas has particulas, unà cum tertia: in, simul enuntiat, cum inqvit: Ex qvo, per qvem, et in qvo sunt omnia. Qvam phrasin qvidam ad adumbrationem Trinitatis meritò trahunt; verum nunc non est meum argumentari, sed respondere.
+
+[^521-1]: Non necesse est ut Paulus I. Cor. VIII. 6. et Petrus Act. II. 36. vocem Domini de Chnsto eodem respectu usurpent, potest ille de Christo qvatenus DEUS est, hic qvatenus homo est, loqvi. g Non vacat nunc loca citata omnia evolvere, et ex ipsis argumenta exculpere, si qva in iis difficultas latet, ostendatur. h Argumentum qvod implicitè proponis, ne qvid dissimulemus, esset tale: Omnis per qvem ille qviest unusDEUS altissimus facitomnia is non estDEUS altissimus. Filius DEI est ille per qvem ille qvi est unus DEUS altissimus facit omnia. Ergo Filius DEI non est DEUS altissimus. In hoc argumento negatur Major. Potest enim DEUS altissimus nempe Pater, per DEUM altissimum nempe filium, omnia facere, et tamen non per se ipsum, licet per eum qvi etiam [p. 522] (2)
+
+Qvi nescivit diem judicii, is non est DEUS altissimus.
+
+Filius nescivit diem judicii.
+
+E. Filius non est DEUS altissimus*[^522-1].
+
+Major probatur qvia esse omniscium est DEI altissimi attributum proprium. Qvi autem nescivit diem judicii, is non est DEUS altissimus. Implicat hoc contradictionem.
+
+Minor patet ex verbis ipsis Christi. Primo Matth. XXIV. 36. De die illa et hora nemo scit etc. nisi pater meus solus. Deinde expressius Marc. XIII. 32. De die illa et hora, nemo scit, neqve angeli qvi sunt in calo, neqve filius, nisi Pater. est id qvod est ipse. Et ita respondimus, opinor, argumento primo, ut tamen ad oculum constet, nervum ejus incisum esse, aliud ad ejus imitationem fabricabimus:
+
+Omne Trilineum habet pro abstracto immediato trilineitatem.
+
+Triangulum non habet pro abstracto immediato trilineitatem.
+
+(Habet enim Trianguleitatem potius, qvæ si cum trilineitate esset immediatè idem, esset etiam idem anguleitas, et lineitas, qvæ demta temitate remanent. Iam verò Anguleitas etLineitas adeò non sunt idem, utpossint etiam duæLineæsineanguloesse,v. g. Paraîlelæ).
+
+Ergo Triangulum non est trilineum, qvod est absurdum.
+
+(Auf den Rand hat Leibniz nachträglich noch dies zweite Beispiel geschrieben: Homo habet abstractum immediatum: humanitatem, Petrus non habet abstractum immedia- tum humanitatem, Ergo Petrus non est homo.) Respondeo ex fundamento præmisso, majorem ita formandam: Omne qvod est trilineum habet pro abstracto immediato trilineitatem. Et sic negatur major. Nam et Triangulum est Trilineum, et tamen non habet pro conceptu immediato Trilineitatem.
+
+Hoc principio adhibito Scholasticorum tædiosis circa suppositiones præceptis carere possumus. V. g. Animal est genus, Petrus est animal, Ergo Petrus est genus. Respondeo majorem non esse universalem, neqve enim is qvi est animal est genus.
+
+[^522-1]: Argumentum 2. ut formale sit sic formandum est: Qvi nescivit diem judicii, is non est ille qvi est DEUS altissimus. Filius nescivit diem judicii. Ergo Filius non est ille qvi est DEUS altissimus. Et sic negatur Major. Nam potest qvis ex nostra hypothesi, simul esse ille qvi nescit diem judicii, nempe homo; et ille, qvi est DEUS altissimus. Qvæ hypothesis nostra, qvòd idem simul possit esse DEUS et homo, qvamdiu non evertitur, tamdiu contrarium argumentum petit principium. Qvidlibet autem possibile præsumitur, donec contrarium probetur.
+
+[p. 523] Qvantopere hæc verba Christi torserint et torqveant Homousianos, et qvomodo ipsi ea vicissim torqvere soleantk, patet ex Maldonato. Afferuntur inter alias responsiones iste, Filium nescivisse ita esse interpretandum, non qvod verè nesciverit, sed qvod se scire dissimulaverit, qvod revelare noluerit, qvod fecerit ut nos nesciremus, qvod eum diem nondum expertus fuerit, tales sunt Doctorum seu patrum Ecclesiæ in ista Christi verba commentationes; vel potius eorum contorsiones satis inepte, ut agnovit ipse Maldonatus lesuita, easqve rejecit. Nam primò non idem est nescire qvod dissimulare se scire, vel nolle dicere. Deinde his admissis seqveretur posse dici etiam DEUM Patrem diem istum nescire, qvod est absurdum. Sed ipse Maldonatus aliâs ingeniosus aliam responsionem dubitanter afferens, vineta sua cædit. Vulgata responsio praesertim Reformatorum (nam alii eam refugere solent) est ex distinctione partium in Christo, nescivisse eum hunc diem qvoad humanitatem, at scivisse qvoad divinitatem*[^523-1]. Sed 1) distinctio ista vana est, qvando ponit unum suppositum filii DEI esse DEUM altissimum et hominem simul, atqve DEUM supremum esse hominem, qvod est absurdum, et implicans contradictionem. Etenim DEUS et homo sunt disparata, at disparata non possunt et de alio tertio, et de se invicem praedicari propriè, qvod omnes ratione sana utentes, nec eam obnubilantes agnoscuntm. Ut ferrum esse lignum, et animam esse corpus k Interpretes textum contorqventes nihil ad nos; utri plus textum torqveant, et ex pluribus interpretationibus possibilibus eligant improbabiliorem, dummodo sibi faveat, alibi demonstrandi occasio erit. [p. 524] absurdum est. Si idem essetDEUS et homo,seqvereturDEUM summum simulessenonDEUM summum, qvod est contradictorium. Nec una pars de toto composito potest prædicari propriè, univocè. Deinde qvòd composito alicui inest secundum partem qvandam et qvidem majorem ac potiorem, atqve affirmari de eo simpliciter potest ac debet, id de eo non licet negare simpliciter, qvamvis ei non insit secundum partem minorem111111. Ut qvamvis corpus hominis non ratiocinetur, nec sciat aliqvid, tamen cum anima ejus ratiocinetur atqve sciat, qvis dicat simpliciter hominem non ratiocinari neqve aliqvid scire? An ipsi concedent11, ut dicere liceat, Filius DEI non creavit mundum, non est patri coëssentialis, qvia ista non conveniunt ipsi secundum humanam naturam, nisi per idiomatum communicationem commentitiam. 2) Cum ista Christi natura humana dicatur conjuncta deitati hypostaticè in unitate personae, nonne deitas humanitati suæ tam arctè conjunctæ scientiam hujus secreti cujus capax esset communicavit0? 3) Si persona filii, qvæ est divina scivit istum diem, qvomodo potuit verè dici
+
+[^523-1]: Vulgatam hanc responsionem neqve qvi se Catholicos, neqve qvi Evangelicos, neqve qvi Reformatos vocant, qvod sciam, aversantur. m Disparata neqve de se neqve de eodem tertio praedicari non posse, planè nego. Dum- modo circa copulam, qvæ admonuimus, serventur. Etsi enim minus bene dicatur, ferrum est lignum, et anima est corpus: Tamen potest casus contingere, in qvo rectè dicatur, qvoddam qvod est ferrum (scilicet ex parte), id est lignum (scilicet ex alia parte), et qvoddam qvod est anima (ex parte), idem est corpus (ex alia parte). Nec absurdum est eundem esse et non esse DEUM altissimum pro diversis partibus. Nec video cur non pars de toto propriè praedicari possit, dummodo reduplicatio addatur, vel subintelligatur. Propriè enim Totum nihil aliud est qvàm singulæ partes de eo praedicate cum unione. V. g. Homo est anima et corpus. Qvic- qvid autem anima et corpus est, illud utiqve anima est, et idem utiqve corpus est. Si igitur licet formare hanc propositionem: Homo est anima et corpus. Qvidnî liceat resolvere Copula- tivam in duas simplices: homo est anima, et homo est corpus? Igitur similiter si, ex nostra hypothesi, Christus est unum ex DEO et homine, licebit dicere: Christus est DEUS et homo, et ita: Christus est DEUS, et Christus est homo.
+
+mm Qvòd objicitur, inconveniens esse ut Christus simpliciter intelligatur dixisse se nescire, ideò, qvia pars sui inferior nescivit. Id cur inconveniens sit, non video. Inprimis eo tempore, qvo functio, parti inferiori ordinarie inesse solita, ei subtracta est. Sciendum enim, ordinarium qvidem esse, ut Divinitas Scientiam humanitatis sibi conjuncte perficiat, si non per communicationem ejusdem numero idiomatis, saltem per excitationem accidentis novi. Id tamen qvod ordinarium est; in statu humilitatis Christi, anteqvam humanitas ejus reciperetur in gloriam suam, ei subtrahebatur. Qvæ res multum ventilata est inter Theologos qvosdam Lutheranos, qvi et libros scripsêre περίperi tapeinosigraphiasταπε&νωσιγραφίας.. Potest ea subtractio intelligi exemplo Ecstaseos, qvo tempore anima functiones qvas alioqvi per corpus peragit, nempe ratiocinari, cogitare etc. exeqvitur qvasi separata sine corporis concursu. Eo igitur tempore durantis Ecstaseos non inepte dicetur hominem non ratiocinari, etiamsi pars ejus ignobilior, nempe corpus tantùm à ratiocinatione cesset, qvia functio illa qvam anima ordinarie per corpus peragit, et qvam homo ordinariè efficit qvatenus ex anima et corpore unitus est; nunc ab eo non qvatenus anima et corpus est, et ita non qvatenus homo est; sed tantùm qvatenus anima est peragitur. Similiter igitur Christus rectè dicetur aliqvid nescire, qvando functionem sciendi non per deitatem cum humanitate ut alias, et ita nec qvatenus deus-homo est, et ita nec qvatenus Christus est, exercet.
+
+n Ad verba: an ipsi concedent, imò concedemus Filium DEI non creasse mundum etc., dummodo subaudiatur; secundum humanitatem.
+
+0 Qværis 2) cur divinitas secretum de tempore extremæ diei non communicârit humanitati sibi tam arctè unite. Ideò, inqvam, qvia eam nondum glorificatam humiliari et pati oportuit. [p. 525] Filium nescivisse eum, cum illa persona sit iste filiusp? 4) Simpliciter hîc dicitur filius nescivisse diem judicii, ergo hoc de filio toto dicitur, non de parte filii inferiore, qvæ non solet vocari simpliciter et absolute filiusq. 5) Patet hîc per filium intelligi filium DEI, qvatenus est DEI filius, primo ob id ipsum qvia non dicitur filius hominis, sed absolutè filius, per qvem solet intelligi filius DEI. Deinde qvia huic filio opponitur statim Pater ejus, qvi est DEUS, ergo istius patris filius intelligitur* * 1. 6) Dicitur solus Pater scire, et qvidem oppositè ad filium, idqve ita, ut filius nescire, paterverò solusscire dicatur. Talehincemergit argumentum arctèstringens
+
+Qvicunqve scivit tunc diem judicii is est pater Iesu Christi.
+
+At filius etiam secundum divinitatem consideratus non est pater Iesu Christi.
+
+Ergo Filius etiam secundum Deitatem consideratus non scivit tunc diem judiciis.
+
+Major probatur ex verbis Christi qvibus dixit solum patrem suum scivisse hunc diem. Nam si solus pater Christi scivit, ergo qvicunqve scivit, is est pater Christi, et qvicunqve non est pater Christi, is nescivit seu exclusus est ab ista scientia. Minor negari non potest, qvia est in confesso apud omnes. Ergo conclusio est firma.
+
+Simile argumentum peti potest ex eo qvòd ut hîc omniscientiam, ita alibi omnipotentiam, talem ut à seipso omnia facere posset, filius DEI sibi denegavit, Ioh. V. 19. 30. VIII. 28l. Tum ex eo qvòd filius omnia habeat non à se, sed à DEO Patre sibi data, Matth. XI. 27. XXVIII. 18. Ioh. III. 35. XIII. 3. XVII. 2. 7U.
+
+p Argumentaris 3): Persona filii divina scivit diem judicii. Persona filii est filius, Ergo filius scivit diem judicii. Concedo. Qvomodo ergo nescivit? Scivit DEUS, nescivit homo.
+
+q Repetitur 4), qvod supra objiciebas: qvod parti inferiori competit, toti non tribuendum simpliciter. Responsum est supra lit. m.
+
+r Objicis (5) filium DEI nescivisse diem judicii qvatenus est filius DEI, qvia opponitur hîc patri. Respondeo etiam humanitatem non ineptè dici: filium DEI, qvamvis ei non δμοούσιον,symphonian, qvia et vos qvi homoousion patri negatis, tamen DEI filium dicitis.
+
+s In argumento illo negatur minor: qvòd filius DEI etiam secundum Deitatem non sit pater Iesu Christi. Imo tota Trinitas rectè dicetur Pater Iesu Christi hominis. Ideò miror cur opponens dicat minorem esse apud omnes in confesso.
+
+::: editorial
+
+(zu S. 525) 1 Argumentum illud esset tale: qvicunqve non facit omnia à se ipso ille non est omni- potens. Filius DEI non facit omnia à se ipso. Ergo. Negatur major. Perinde ac si argumen- tari vellem: Pater non facit omnia per seipsum sed per filium, ut vos conceditis, Ergo non est omnipotens. imò sunt causæ sociæ in agendo, etsi altera altera sit prior natura in essendo. u Potest esse DEUS altissimus etiam qvi omnia ab alio habet, qvando nimirum in alterius potestate non est ipsi denegare. Et non minus filius patri, qvàm pater filio necessarius est.
+
+:::
+
+[p. 526] (3)
+
+Unicum numero et singulare Ens non prædicatur de multis. Qvia hoc est de definitione singularis, seu individui; alias non esset singulare, sed contrà Universale.
+
+Atqvi DEUS altissimum est unicum numero et singulare Ens.
+
+Ergo DEUS altissimus non prædicatur de multis*.
+
+Sed Trinitarii qvi negare non audent eum esse Ens singularissimum, unicum numero, non specie vel genere, tamen eum praedicant de tribus personis, qvarum unaqvæqve cum sit distincta substantia, est illis distinctè DEUS altissimus. At ut ter unum sunt tria, sic ter unus sunt tres. Ergo ubi est ter imus DEUS, ibi sunt tres DII.
+
+Qvidam eò devenerunt, ut dicant, esse qvidem unum numero DEUM essentialiter, sed non esse unum DEUM, si idem consideretur personaliter. Ita non absolutè et simpliciter strictissima unitate unus erat DEUS altissimus, sed aliqvo modo unusy. Cum enim propriè pater sit intellectivum, filius intelligibile, et spiritus s. intellectio, et in ætemis atqve divinis idem sit esse et posse; non erit intellectivum in DEO qvod non actu intelhgat, intellectio autem sine intelligibili esse non potest. Contra nullum erit intelligibile in DEO qvod non intelligatur, et ita non habeat correspondons sibi intellectivum. Igitur ut secunda persona sine primâ, ita prima sine secundâ esse non potest.
+
+x Ad argumentum tertium respondeo concedendo totum: DEUS altissimus est singulare, nec prædicatur de multis. Sed hoc nihil officit Trinitati. Nam is qvi est DEUS altissimus (seu persona DEI altissimi) potest nihilominus de multis praedicari, qvia is qvi est DEUS altissimus, seu persona divinitatis est universale non singulare. Ex hoc etiam apparet qvod etsi tres sint, qvorum qvilibet est id qvod est DEUS, tamen non sint tres DII. Non est enim ter unus DEUS ab altero distinctus, sed est ter unus, qvorum qvilibet est id qvod est DEUS, seu ter una persona. Igitur nec tres DII sunt, sed tres personæ. Qvanqvam hæc vulgò observata non sit temere reperire.
+
+y Non potest dici DEUM ita strictissimè unum esse, ut non dentur in eo realiter seu ante operationem mentis distincta. Si enim mens est, impossibile est qvin sint in eo: intelligens, intellectum, et intellectio, et qvæ cum his coincidunt: posse, scire, et velle. Horum verò reale discrimen non esse implicat contradictionem. Cum enim formaliter differant, erit eorum differentia rationis ratiocinate, talis autem differentia habet fundamentum in re, erunt igitur in DEO tria fundamenta realiter distincta. Vellem huic argumento responderi. Neqve hoc imperfectionem in DEO infert, qvia multitudo et compositio per se imperfecta non est, nisi qvatenus continet separabilitatem, et ita corruptibilitatem totius. Sed separabilitas hinc non infertur. Qvin potius supra lit. u. demonstratum est impossibile esse, et implicare contra- [p. 527] (4)
+
+Ex regula illa infallibili, qvæ duo in uno tertio singulari conveniunt, ita ut de eo praedicentur, ea etiam inter se conveniunt ita ut de se prædicentur, procedit tale argumentum ex singularibus:
+
+DEUS ille altissimus, unicus individuus est Pater Filii DEI Domini lesu Christi.
+
+DEUS ille altissimus unicus individuus est filius DEI Dominus lesus Christus.
+
+Ergo Filius DEI Dominus IESUS CHRISTUS est pater filii DEI Domini lesu Christi* 2. Atqvi hoc implicat contradictionem et est palam falsum. Ergo aliqva praemissarum est falsa. Non major, qvam omnes Christiani agnoscunt, Ergo minor.
+
+(5)
+
+Filius DEI aut est à se aut ab alio, adeoqve non est absolutè primum principium, sed principiatumaa. Si prius eligatur, tunc seqvetur filium non esse DEUM altissimum. Nam huic repugnat esse ab alio, et habere ullo modo principium existendi. Sin posterius, tunc seqvetur filium DEI si non ab alio est, Hon esse filium. Nam hoc implicat contradictionem, certè qvatenus est filius à patre est. Sed hîc argutuli qvidam conantur hujus dilemmatis vim evitare distinctione; ajunt filium DEI esse qvidem à seipso non ab alio, qvoad essentiam, qvatenus est DEUS, sed eundem non esse à se, verùm ab alio, qvoad personam qvatenus est filius. At hæc distinctio non tollit difficultatem. Nam hîc de filio est qvæstio qvatenus is est filius DEI, seu persona secunda, non autem qvatenus est essentia divina, qvæ ponitur esse communis patri dictionem, ut una Deitatis persona sine alia existat. Nec multiplicatur DEUS. Qvemadmodum enim si differunt realiter in corpore: magnitudo, figura, et motus, non seqvitur ideò etiam necessariò tria esse corpora, unum qvantum, alterum figuratum, tertium motum. Cum idem lapis: cubitalis, rotundus et gravis esse possit: ita si differant realiter in mente judicium, idea, et intellectio, non seqvitur tres esse mentes. Cum una sit mens qvæ qvando reflectitur in seipsam (NB), est id qvod intelligit, id qvod intelligitur, et id qvo intelligit et intelligitur. Nescio an qvicqvam clarius dici possit.
+
+2 Formabo syllogismum ut sit formalis ex præsuppositis,
+
+Qvicunqve est DEUS ille altissimus, unicus, individuus, est pater Filii DEI Domini lesu Christi.
+
+DEUS ille altissimus, unicus, individuus, est filius DEI Dominus lesus Christus.
+
+Ergo filius DEI Dominus lesus Christus est pater filii DEI Dominus lesus Christus. Nego majorem.
+
+aa Nego DEO altissimo aut potius ei qvi est DEUS altissimus repugnare esse ab alio, vide supra u. [p. 528] et filio, qvæ essentia non est filius, qvia ab istis negatur essentiam DEI generari. Ergo tamen hoc manebit, filium DEI qvatenus est filius DEI, seu secunda persona non esse DEUM altissimum.
+
+(6)
+
+Ex generatione filii DEI secundum Deitatem præ-ætema, qvæ vulgo statuitur, præter aha hæc seqvuntur inconvenientia 1.) qvod absurdum sit eum qvi generatur secundum Deitatem, statuere esse DEUM altissimumbb. Sempiterna substantia non generatur. Nam generari necessariò infertproduci ab alio, et habereprincipium aliqvod saltem originis, et fieri ac proinde dependere ab alio, à qvo habet suum esse. Qvæ omnia non conveniunt DEO altissimo sempiterno, qvo nullus ullo modo prior esse potest. At omnis generans pater est prior genito filio : qvod non tantum in humanis, sed etiam in divinis verum esse universaliter, ex communi notione ipsum vulgus homousianorum nobiscun? agnoscit. 2.) Qvando dicitur DEUS generare DEUM, qvi est DEUS ex DEO, aut generat eundem numero DEUM, qvi ipse est, aut aliumcc. Non eundem qvia generans et generatus sunt opposita: qvæ non sunt unum et idem. Sin autem alium DEUM generat, seqvetur non unum numero esse DEUM altissimum. Conantur qvidam ex hoc dilemmate sic elabi, dari inter ista duo medium, generari enim personam, sed non cessat difficultas, nam num ista persona DEI qvæ generatur non est DEUS? 3.) Si filius DEI generabatur ab omni ætemitate ex Essentia DEI Patris, aut jam desiit generari, aut non desiit. Non datur medium inter contradictoriê opposita. Si desiit, habet finem temporis ista generatio, ergo etiam apparet eam habuisse principium temporis adeoqve non fuisse præ- ætemam. Nam qvod nunqvam incepit, id nec desinere potest. Sin autem non desiit, seqvetur filium DEI qvoad Deitatem etiam nunc generari, et porro generandum esse, in omnia secula seculorum. Ut qvidam concedunt. Qvod est absurdum. Nam qvod generatur, id fit, nondum perfectè est. At non convenit personæ DEI esse in fieri semper. Et qvi adhuc gignitur, nondum est perfectè et absolutè genitusdd.
+
+bb Non est absurdum DEUM altissimum aut potius eum qvi est DEUS altissimus generari. Sempiternam substantiam in tempore generari absurdum est, non verò est absurdum eam esse generatam ante datum qvodlibet tempus id est ab ætemo. DEO altissimo aut potius ei qvi est DEUS altissimus potest qvis prior esse natura non tempore, alius nempe, qvi etiam est DEUS altissimus. Nam non datur alius et alius DEUS, sed alius et alius, qvi est DEUS.
+
+cc Qvando DEUS DEUM generat, generat eum qvi est idem numero DEUS cum ipso, etsi non simpliciter sit idem numero cum ipso. Non generat eundem numero DEUM, sed eum qvi est idem numero DEUS, licet sit alia persona.
+
+dd Si filius DEI generabatur ex substantia patris ab æternitate, aut desiit generari, aut [p. 529] (7)
+
+Qvum asseritur DEUS altissimus esse incarnatus, aut tota Trinitas, seu qvicqvid est DEUS altissimus est incarnatus, aut non tota; si illud, non tantùm filius DEI, sed etiam DEUS Pater et Spiritus S. sunt incarnati, et ex Maria Virgine nati; qvod etiam aliqvi asserere non erubuerunt, qvia sunt unus idemqve DEUS indivisibilis, cum etiam non sola persona secunda sit incarnata, sed cum ea qvoqve essentia illa divina qvæ à persona divina separari neqvit. Ista autem essentia est communis tribus personis, qvæ in ea continentur. Præsertim cum hæc actio assumendæ sibi humanæ naturæ sit actio ad extra, qvales actiones dicuntur esse totius Trinitatis indivisæ. Sin autem non tota divina Trias est incarnata, sed sola persona Filii, tum seqvetur DEUM aliàs indivisibilem esse qvodammodo à seipso divisum, itaqve non omnino unum ac simplicissimum, si non omne, qvod est DEUS altissimus, est incarnatum66, unde tale argumentum ex singularibus :
+
+Illa Deitas qvæ est in DEO patre non descendit de cœlo et non est incarnata.
+
+Hæc Deitas qvæ est in DEO filio descendit de coelo et est incarnata.
+
+Ergo Hæc Deitas qvæ est in DEO Filio non est illa Deitas qvæ est in DEO Patreff.
+
+Contradictorie sibi opponuntur, unicum DEUM altissimum totum esse incarnatum, et tamen simul DEUM altissimum unicum non totum esse incarnatum. Ergo hæc opinio implicat contradictionem, adeoqve seipsam evertit, ideo ut vera consistere non potest. Sed hæc hactenus sufficiant. non desiit. Si non desiit adhuc generatur, et ita nunqvam est, semper fit; sin desiit generari, finem temporis habet eius generatio. Adeoqve et initium temporis, Ergo non est præætema. Respondeo desiit generari. Et tamen generatio illa non habet finem temporis, nam et incepit et desiit generari ante qvodlibet tempus. Simul enim generari incepit et desiit.
+
+ee Qværis an tota, an non tota Trinitas sit incarnata. Respondeo: non tota. Ergo, inqvis Trinitas à se divisa est, seu diversa continet. Qvid tum? Ergo et DEUS à se divisus est; hoc non seqvitur, sed divisi à se seu differentes sunt illi qvi sunt DEUS.
+
+ff Syllogismum formas:
+
+Deitas qvæ est in DEO patre non est incarnata.
+
+Deitas qvæ est in DEO filio est incarnata.
+
+Ergo Deitas qvæ est in DEO filio non est Deitas ea qvæ est in DEO Patre. Ergo dantur plures Deitates. Nego Minorem. Non Deitas, sed personalitas potius filii DEI incarnata est, id est: filius DEI incarnatus est non qvâ DEUS, sed qvâ filius.
+
+::: editorial
+
+(zu S. 529) LEIBNIZ VI. I. 34
+
+:::
+
+[p. 530] Si qvis mihi hos nodos bene dissolverit, tùm demum ego istam opinionem non esse absurdam confitebor.
+
+gg Nodos TE proposuisse non nego, et qvidem qvantos maximos qvispiam tui similis possit. Reperto semel principio fili, id est natura copulæ propositionis in syllogismo, videmur nobis eos perfecte solvisse. Idem tibi visum iri, si rectè attendas, non dubito. Tum verò dabis opinor gloriam DEO, dabis hoc veritati, et sententiam Orbi Christiano tot seculis receptam non-absurdam confitebere. Sin aliter sentis, effice ut aut nos cur dissentias, aut tu cur dissentire non debeas, ambo tandem sentiamus.
+
+## [p. 531] 17. REFUTATIO OBJECTIONUM DAN. ZWICKERI CONTRA TRINITATEM ET INCARNATIONEM DEI
+
+1669—1670 (?). Eigenh. Konzept A (Hannover). Dan. Zwickeri* 1 Tractatus Tractatuum de Contradictione, qva sola cognita Ecclesia collapsa, Romana, Graea, Lutherana et Calviniana instaurari, et ad pacem mutuam adduci possint. §. 1.) dicit Ecclesias Trinitatem docentes ita se contradictionis reas fecisse, ut nisi eluant hanc maculam non possint habere DEUM faventem et propitium2. §. 5.) Ante Concilium Nicenum Trinitatem Catholicam non fuisse ex pauculorum qvorundam, v. g. Artemonitarum contradictione probare conatur3. §. 6.) DEUM esse naturam seu essentiam summè intelligentem pro certo supponit4. Addit Personam Divinam, qvia intelligens sit esse essentiam intelligentem5. §. 12.) Corpus unum non potest esse in pluribus locis, sine divisione sui à se ipso6. §. 13.) Ait absurdè cogitari unam essentiam esse in pluribus suppositis7. §. 19.) Citat Irenicum Irenicorum et commendat; videndum an non sit autor. §. 21.) Argumentatur: Qvi in contradictione et idololatria ad ætemam damnationem usqve hærent, nisi mutent sententiam, salvari non possunt8. Pleræqve Ecclesiæ tales sunt, uti à se supra demonstratum sit. Ergo nisi sententiam Trinitatis abjiciant, salvari non possunt. Ego verò fateor Socinianum tam barbarè stolidum, tam pueriliter ferocientem, visum mihi hactenus esse nullum. Plerosqve subtiles et modestos expertus sum. Nec verbulum attulit, si demas excerpta hoc loco, et refutata, qvibus ulla vel minima difficultas objiciatur Zu N. 17. Randbemerkungen: [p. 532] Trinitati. Corradit loca paucula Bellarmini et Meisneri, qvibus dicunt Trinitatem et incarnationem implicare in Philosophia. Id est, implicare ut producantur viribus naturæ ordinariis, uti implicat in Philosophia lapidem gravem sine sustentaculo in aëre pendere: id est implicat ut hoc efficiatur viribus naturæ. Qvòd si nec DEUM posse putat ut lapis sponte pendeat, profiteatur apertè atheismum. Notissimum est ex toto controversiarum Bellarmini, et Philosophiæ sobriæ Meisneri opere, huc eos omni ope niti: Nullum articulum fidei in terminis suis implicare contradictionem, Non esse duplicem Veritatem Theologicam et Philosophicam, sed qvod Philosophicè falsum est, et Theologicè tale esse; qvando verò vulgò dicitur Philosophicè aliqvid falsum est, non dicitur simpliciter falsum, sed falsameius naturalem producibilitatem. Ideò duplex veritas damnata est in Concilio Lateranensi, et ob eam assertam meritò vapulavit Dan. Hofmannus, vexatus est Paulus Slevogtius. Contra communis omnium Scholarum sententia est, nihil in Theologia vera implicare contradictionem. Legat ineptus ille Zwingerus, qvi se omnes compellere intrare posse putat, der meinet erkönne sie alle zwingen. Legat, inqvam, D. Augustinum, D. Thomam, Vallam, Savonarolam, Ferrariensem, Steuchum, Campanellam, Mersennum, Bonartem, Albium, Vedelium, Musæum, Rob. Baronium, breviter legat omnes omnium temporum Scriptores Christianos. Miror si denarium conficiet, talium, qvales ipse omnes fingit, à recta ratione Apostatarum.
+
+::: editorial
+
+(zu S. 531) 1 Homo arrogans, ineptus, infans, perissologus, à qvovis de schola puero facile refutabilis. 2 Qvi sibi imprudens contradicit, gratiam DEI ideò non amittit. 3 Qvi à contradictione, qvi ab autore sectae nomen nacti sunt, Catholici non fuerunt. 4 DEUS non est essentia, uti homo non est humanitas. 5 Essentia DEI non potest dici intelligens, sed id qvo Deus intelligit. Ergo nec Persona erit essentia, etsi sit intelligens. Actio non est essentiae seu naturae, sed suppositi seu personæ. 6 Imò substantia corporis (seu principium actionis in eo), potest esse in pluribus locis, qvia est incorporalis et immaterialis. Breviter: forma substantialis corporis, qvæ propriè substantia est, potest esse in pluribus locis, materia verò et species non possunt. 7 Non magis hoc absurdum est, qvàm DEUM esse simul in pluribus locis; aut si id qvoqve negas, saltem, qvod negare non potes, centrum simul totum esse in omnibus radiis concurrentibus. 8 Egregia et subtilis, si Diis placet, propositio, qvæ apertè identica est: qvi ad æternam usqve damnationem in aliqvo hæret, nisi id mutet, salvari non potest. Id est qvi damnatur, non salvatur.
+
+:::
+
+Was meinstu Zwinger doch uns alle einzuzwingen,
+
+Las deinen Hochmuth erst mit dem Verstande ringen,
+
+Und zück die Feder ein, die so gar läppisch schreibt,
+
+Die uns an Schweißes statt nichts als zu lachen treibt.
+
+Trag nun den Bogen rumb auff Universitäten,
+
+Laß die Scholaren dir den Hoffarts-wurmb ertödten.
+
+Ich glaube nun daß ihr geht mit einander ein.
+
+Weil nur die Bauern iezt Socinianer sein.
+
+## 18. DE INCARNATIONE DEI SeU DE UNIONE HYPOSTATICA
+
+1669—1670 (?). Eigenh. Konzept A (Hannover).
+
+Notatu dignum est Hæreticos etiam veteribus eos tantùm habitos, qvi subditi essent. Unde 1.12. C. de hæreticis Gothi à Poenis in hæreticos constitutis excipiuntur, qvia non subditi, sed foederati. Hæreseos igitur Crimen est inobedientiæ civilis Species, et hæretici ii habiti sunt, qvi Magistratui de religione definienti non parerent. Hæc Lex 12. peculiarem Exercitationem meretur.
+
+[p. 533] Uniri possunt hypostaticè 1) Deus et mens, 2) Mens et Corpus, 3) Corpus et Corpus per mentem communem. Corpus et Corpus per se uniri hypostaticè non potest, qvia Corpus nullum per se subsistit. Mens et mens uniri hypostaticè non potest, nisi perfecta et imperfecta, qvia mens imperfecta extra se non agit nisi per Corpus. Ex qvo seqvitur Daemones obsessorum animis non uniri hypostaticè, qvia agunt in eas per corpora intermedia, eaqve sibi hypostaticè non unita. Porro Mens creata s. imperfecta non unitur omni corpori, sed ei tantùm in qvo radicata est, et à qvo separari non potest. V. g. in Corpore humano non putandum est animam omnibus qvæ in eo sunt corpusculis hypostaticè uniri, cum perpétué transpirent, sed in ipso centro cerebri flori cuidam substantiae fixo et inseparabili, subtilissimè mobili in spirituum animalium centro inhæret et substantialiter unitur ita ut nec morte separetur. Igitur daemoni nec corpora obsessorum sunt unita, qvia non inseparabiliter, sed agit in ea tantùm mediante suo corpore. Illud jam investigandum est an Deus corporibus omnibus seu toti Mundo hypostaticè uniatur, an alicui an nulli uniri possit. Et puto mundum s. corpora Deo non esse unitum hypostaticè. Qvia omnis unio hypostatica non est nisi per actionem unius per aliud, agere autem Deus in corpora non aliter potest (annihilatione et creatione demta) qvàm imprimendo motum; dum autem moventur continué creantur, ut à me demonstratum est. Ergo ultra momentum Deo unita sunt, ut autem qvi ultra momentum in loco non est, in eo qviescere non censetur, sed transit tantùm, ita corpora ultra momentum Deo non unita, unita propriè non sunt, sed transeunt tantùm. Secus est in Mentibus qvæ non creantur, dum Deus in eas agit, neqve eius rei ulla apparet demonstratio, sed mentes sunt liberae, et habent principium actionis in se, excepta illa mente cujus principium agendi fit Deus, seu qvæ est unita Deo. Sed qvomodo igitur Corpora mentibus hypostaticè unita sunt? cum etiam non sint unita nisi per motum, in motu autem continué non existant? An igitur potius dicendum est ideò potius Corpora Deo hypostaticè unita non esse, qvia in ea non agit extra ordinem, sed omnibus æqvaliter unitus est; imò etsi nec agere in corpora extra ordinem potest. Qvia omnis eius actio in corpora est creatio, etsi igitur modò creet, modo non creet. Nihil in eo agit extra ordinem. Nam omnis extraordinaria Dei actio non ratione actus, sed temporis et loci extraordinaria est, v. g. qvod annihilat corpus eo tempore et loco, qvo alias [p. 534] annihilare non solet, nempe qvo qviescit, vel qvando creat corpus qvando creare non solet, v. g. cum antea non præexstiterit. Vel qvando creat corpus ubi creare non solet, v. g. in loco longius remoto præteritis multis intermediis. Ergo Dei in corpora non actio, sed tempus actionis extraordinaria et specialis est. Actio verò Dei in mentem est specialis et qvasi determinata ad hanc mentem etiam ratione actus. Nam internum principium agendi esse, et hoc modo in mentes agere Deus non solet; nisi in ea solâ qvam hypostaticæ univit. Esto ergo Unio Hypostatica: in iis qvorum unum agit perpetuo peculiari actus ratione in aliud, seu qvorum unum est alterius instrumentum agendi immediatum. Nam hîc potest reperiri discrimen inter actionem mentis in Corpus, et Dei in corpus. Mens in corpus non agit creando, sed movendo, Deus creat. Contra Deus in corpora non agit, nisi creando. Qvi autem creat in rem agit, re non agit, et ita res non est eius instrumentum agendi. Dei verò instrumentum est mens, Deo unita qva Deus agit in corpora aliter qvàm creando. Est igitur unitum hypostaticè nihil aliud, qvàm qvod rei principium actus in se habentis instrumentum immediatum est. Et unio hypostatica est actio rei principium agendi in se habentis immediatèper rem aliam. Et sunt hæc unionis hypostaticæ reqvisita: 1.) Res per se subsistens seu principium agendi in se habens, cui unitur. 2.) Res alia qvæcunqve qvæ unitur. 3.) Actio subsistentis per unitum in tertium, seu ut unitum subsistentis sit instrumentum. 4.) Illius actionis immedietas, seu ut non agat per aliud cui ipsum in qvod agitur, et qvod unitum primo dicitur, non sit unitum. Nam unitum uniti est unitum primi. Uniens est A, id qvod unitum dicitur est B. 1.) A sit res per se subsistens. 2.) A agat per B in C. 3.) A agat immediatè in B seu non per aliud. At inqvies contra regulam tertiam, nonne Corpus Christi est unitum Deitati, ita sanè, at non est ei immediatè unitum, sed per mentem, respondeo, A hîc non est Deitas tantùm, sed Deitas cum omni qvod ei unitum est, seu qvod idem est concipiatur regula 3tia sic. A agat in B non nisi per id in qvod A immediatè agit, vel per aliud in qvod immediatè agit. Seu A non agat in B, nisi vel immediatè, vel per intermediam aut intermedias res per se subsistentes per se continué immediatè agentes. Ita totus Conceptus Unionis hypostaticæ perfectus mihi et absolutus videtur. Qvâ in re hactenus multum frustra laboravi. Scholasticis hæc mira monstra erunt.
+
+::: editorial
+
+(zu S. 533) Zu N. 18. Vor l. 1 gestrichen: De incarnatione Filii DEI seu incarnatione Hypostatica Hæc notanda sunt. Nachträge am Rande: Zu l. 27—28 u. S. 534 l. 1—6: Et huc resolvuntur omnia in corporibus miracula, qvorum natura paucis cognita. NB. Angeli non possunt corpus excitare vel sistere nisi alio modo. Miracula omnia in corpora consistunt in creando annihilando, motum sistendo, excitando, movendo in instanti, inflectendo à viâ ordinaria. Hæc omnia angeli et homines non possunt, faciunt enim via ordinaria objecto alio corpore. Nisi qvod hoc mentes possunt: movere, sistere, flectere corpora sibi unita.
+
+:::
+
+Notandum est mentem etsi continué in corpus non agat tamen cognoscere. Sed difficultas . est, qvod supra diximus: Unionem mentis et corporis non esse nisi per actionem unius in aliud, actionem verò non esse nisi per impressionem, motus. Ergo nec unio erit nisi per impressionem [p. 535] motus. Iam sine unione nulla cognitio est, qvia se cognitum reddere est actio unius in aliud, jam omnis actio non est inter unita per definitionem Unionis. Unio enim non est contiguitas, sed continuitas, seu motus vel actio communis. Ergo qvando Creaturæ qviescunt nihil de iis sciet Deus. Respondeo imò sciet, qvod qviescant, qvia negativè, si moverentur, sciret (et tamen hoc non est discursus in Deo, sed cognitio negativa rei per se negativæ). Et similiter de mente. Et est sine unione aliqva cognitio, nempe qvæ fuit tempore unionis, seu praecedens, et vera est regula, sine unione nulla est cognitio, nempe nova, vetus verò manet. Iam nihil novum contingit qviescentibus corporibus (nisi qvod alia iis appropinqvant vel abeunt, qvod ex eorum unione et motu cognoscitur, et tum est cognitio composita ex veteri et nova). At verò inqvies in mente multa contingunt, sine motu, qvomodo igitur cognoscet ea Deus, qvia in mentem ipsam per se non agit. Responsio est, mentem non qvidem moveri, sed omnes eius actiones fieri cum motu corporum, qvibus unita est ex qvibus Deus eius actiones cognoscet, Diaboli non cognoscent, qvia ipsi in corpora illa non agunt, pei corpora, ergo non penetrant in interiora, sed tantùm superficiem Corpusculorum mentalium. Deus interim omnia simul praescit, et recordatur, qvia nihil eo nolente fit, ergo et nihil eo sciente. Iam scit qvid facturus sit, scit ergo qvid futurum sit. Et tamen in eo non est discursus, qvod est aliqvando diligentius explicandum.
+
+::: editorial
+
+(zu S. 534) Zu l. 8—12: Potest et sic responderi, non nisi punctum menti substantialiter s. hypostaticè unitum est et id in motu non annihilatur. Deus verö in movendo non agit in puncta, ut mens, sed in corpus. Adde in fine: Mirabilia. » Zu l. 22—27: NB. mirabile et notabile Specimen Definitionis Analogi, ubi genus definiri non potest, nisi mentione facta unius speciei primariæ, et caeterarum per eam.
+
+:::
+
+Qværitur qvomodo Mens qvæ corporis puncto implantata est eo in motu intereunte non etiam interit. An dicendum est puncta non interire, qvia non partes corporum, sed termini, et qvia de punctis cessat illa circa corpora demonstratio. Punctum enim qvolibet instanti est in certo puncto spatii, at id qvod in corpore præter puncta est, aliqvando in nullo loco est, eo igitur tempore est nihil. Mirabiliter. Sed hæc arcana rerum pauci capient nec nisi sultilissimi.
+
+Notabile illud est Socianorum doctrinam Catholica longè esse periculosiorem. Catholica enimEcclesianon nisi unumDeum colit, nec eum nisi summum. Etsi triplicem in eo subsistendi modum agnoscat, qvo nec dividit Deum nec multiplicat. Contra Sociniani adorant qvem creatum putant, qvem summum Deum esse non putant, qvem à summo Deo essentiâ distinctum putant, ipsi ergo duos Deos habent. Adorant merum hominem, nos habitantem in homine Deum.
+
+## 19. DE POSSIBILITATE GRATIAE DIVINAE
+
+1669—1671 (?). Eigenh. Konzept A (Hannover).
+
+Posset fortasse Definitio Gratiæ Sufficientis et Efficacis dari, in qvâ conveniant omnes, abstrahendo à singulorum sententiis, qvod omnino necesse est, alioqvi res abit in λογομαχίαν.logomachian [p. 536] Ergo definio: Gratia in genere est concursus DEI extraordinarius ad bonum opus. Gratia efficax qvâ absolutè positâ ponitur. Gratia sufficiens est qvâ posita non statim ponitur opus nisi supposita hominis voluntate.
+
+Sunto jam propositiones (1.)Daturgratiasufficiens. Scilicet ad agendum, suppositâ voluntate. Hanc admittunt Thomiste et Moliniste, negant lansenistæ. (2.) Datur gratia sufficiens-sola. Seu datur gratia sufficiens ad agendum, sine præsuppositâ gratia efficaci ad volendum. Hanc admittunt Thomiste et lansenistæ, negant Moliniste. (3.) Si datur gratia sufficiens, datur gratia sufficiens-sola. Hanc admittunt Moliniste et lansenistæ, negant Thomiste. Hîc ut verum fatear, mihi Thomistarum sententia et vera et utilis, lansenistarum falsa, Molinistarum etiam periculosa.
+
+Tabula Opinionum.
+
+non datur non datur dantur et potest dari potest
+
+Liberum Gratia debent dari Gratia non dari Arbitrium Sufficiens omnia Efficax Gratia seu seu seu seu seu omnis DEI con- omnis DEI con- DEI concursus potest existere potest existere cursus est deter- cursus ad bonum ad bonum nullus, actus bonus sine actus bonus sine minativus, sive est determinati- ad malum est concursu DEI concursu DEI ad bonum, sive vus, secus decon- determinativus. determinativo. extraordinariosiad malum con- cursu eius ad ita ita ve determinativo currat. malum. Augustanen- Moliniste soli sive auxiliativo.
+
+ita ita ses et nisi fortasse ita
+
+Stoici Dordraceni Thomiste. Semipelagianos Pelagiani. et Manichæi. et lansenistæ. velint adsciscere in Societatem.
+
+Notabene: potest statui triplex gratia: Efficax est qvâ posita ponitur actus. Necessaria est qvâ non posita non ponitur actus. Sufficiens est qvâ positâ accedente voluntate ponitur actus. Dabitur igitur sententia anonymosάνώνυμος,, hactenus defensore carens, nisi aliqvem ei ex veteribus adsciscas, qvæ statuat, dari qvædam auxilia gratiæ, qvæ tamen non sufficiant, etsi homo vel maximè velit. Et ita putabunt aliqvem actum fieri concurrente gratiâ neqve efficace, neqve sufficiente. Sed tamen hæc in subtilitate consistet, nullo ad praxin usu. Uti et dissensus lansenisticus.
+
+## [p. 547] 21. DE UNITATE ECCLESIÆ ROMANAE
+
+1669—1671 (?). Eigenh. Konzept A (Hannover).
+
+Romana Ecclesia Unitatem suam mirifice jactat. Ego verò tueri ausim illam unionem non esse veram, sed tantùm exteriore aliqvo Politico Syncretismo simulatam. Probo:
+
+Magna Pars Romanensium non credit articulos fidei in Romana Ecclesia definitos qvia Papa definivit, sed qvia ita in antiqvitate Ecclesiastica se reperire putat.
+
+Qvi autem non credit aliqvid verum, qvia Papa definivit, is secundum Romanam Ecclesiam non est verè Catholicus.
+
+Ergo Magna Pars Romanensium non est verè Catholica.
+
+Assumtum probatur ex facto: Galli ferè omnes, et ex eorum sententia Walemburgii, Thomas Albius, Veronius, hanc qvam nunc exeqvar Analysin fidei se habere docent (confer Franc. Macedum contra Albium, et Walenburgii notas ad Honoratum Fabri contra Indifferentes Ms.). Nimirum. Neminem posse salvari nisi credat articulos fidei fide divina. Fidem divinam esse, credere qvod Deus dixit, qvia dixit. (Hactenus consensit Ecclesia Romana et Gallicana. Iam seqvitur divortium.) Deum dixisse constare nobis per Christi et Apostolorum praedicationem miraculis confirmatam. Apostolos sic prædicâsse, constare nobis ex Historia, seu antiqvitate Ecclesiastica, vel qvod idem est, traditione sive scripta sive non scripta. Ergo ultima Analysis Fidei Gallicanæ est in Antiqvitatis Ecclesiasticæ historicam traditionem, Hæc est ubiqve Analysis Walenburgii, Veronii, Amaldi, et Gallorum controversias scribentium propè omnium.
+
+Nunc intueamur Analysin Romanam, seu Curialem, qvam et tuentur Iesuitæ, vide Honoratum Fabri libro de una fide contra indifferentes, et contra qvam propriè concussio Conringii directa est. Unde nec declinarunt certamen Iesuitæ, agnoscentes qvam oppugnat sententiam suam esse, qvod non fecerunt Walenburgii, qvi non responderunt concussioni, sed tantùm eam retorserunt. Analysis igitur Curialis hæc est. Nemo potest salvari, nisi articulos fidei credat fide divina. Fide divina credere est credere, qvia DEUS dicit. DEUS hodie nihil dicit, nisi per hominem habentem à DEO donum infallibilitatis. Is homo habens à Deo donum infallibilitatis nemo datur alius, qvi vel ipse praetendat se id habere, praeter solum pontificem Romanum. Ergo nemo potest salvari, nisi articulos fidei credat qvia definivit Pontifex Romanus. Huc redeunt argumentationes Bonartis, Honorati Fabri, Valeriani Magni aliorumqve id genus. In hoc Sorite est manifestus paralogismus, inseritur enim τò hodie in propositione 3tia, [p. 548] qvasi necesse sit hodie DEI vocem habere, nec sufficiat probare, DEUM sic locutum olim. Qvanqvam ut verum fatear etiam prima propositio est valde dubitabilis.
+
+Cæterum ex his apparet Analysin fidei Romanæ tantum differre ab Analysi fidei Gallicanae, qvantum Analysis fidei Romanæ differt ab Analysi fidei Augustanæ. Et hinc omnes illos, qvos etiam politicos Zelotæ vocant, non vere sacramentorum gratiæ fieri participes, qvippe extra Ecclesiam constitutos, et Galliam suis libertatibus inhærentem externo tantùm politicè simulato syncretismo, qvàm vero animorum consensû Ecclesiae Romanæ cohærere. Hæc scil, est jactata illa Ecclesiæ Romanæ unio. Cæterum Connexio ex hac ipsa illa Analyseon oppositione patet. Dicunt enim exertè Honoratus Faber et alii, salvari non posse, nisi qvi potestatem et infallibilitatem pontificis credat.

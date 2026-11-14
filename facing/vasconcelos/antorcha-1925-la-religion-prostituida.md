@@ -1,0 +1,63 @@
+---
+title: La religión prostituida
+author: José Vasconcelos
+id: 10400
+markers: [para, pdf]
+pairs_by: para
+year: 1925
+original_language: es
+translation_language: en
+edition_layout: clean text (both columns typeset)
+paragraphs: printed
+source: José Vasconcelos, *La religión prostituida*, *La Antorcha* (México), issue 13 of the 16 in the e-book (e-book p. 403); Apple Books e-book sold as ‘Voyage de Thomas Gage, Tome II’ (José Vasconcelos; Secretaría de Cultura / Dirección General de Bibliotecas, 2016; Apple Books id1160615476), which holds *La Antorcha*, late 1924 to spring 1925; file Cultura0036A_Part14.xhtml. The issue is undated in the e-book; dated by the latest dates it prints (1925).
+rights: public domain in the US (published in La Antorcha, 1924–25, pre-1930); Vasconcelos died in 1959, so in Mexico the text stays protected to 2059. The e-book (DGB, 2016) adds no editorial text, only a transcription.
+pages: 1
+genre: Latin American philosophy
+section: Newspaper articles and minor writings › La Antorcha, México (1924–1925)
+collection: José Vasconcelos, La Antorcha writings 1924–1925
+order: 15
+generated: 2026-11-02 from the Apple Books e-book (issue #98)
+public: true
+---
+
+# José Vasconcelos, *La religión prostituida* (1925)
+
+Conventions: `[PDF N]` marks where page N of the e-book begins (the e-book numbers the volume's pages 1–529; the magazine's own folios are not given); `## ` a heading as the e-book sets it; paragraphs as the e-book has them. Uncorrected transcription: the magazine is the authority. This folder is the source: corrections go into its original.md.
+
+<!-- block -->
+
+> [¶ 1] [PDF 403]
+
+[PDF 403]
+
+<!-- /block -->
+
+> [¶ 2] JOSE VASCONCELOS
+
+[¶ 2] JOSE VASCONCELOS
+
+## LA RELIGION PROSTITUIDA — RELIGION PROSTITUTED
+
+> [¶ 3] Llegaron hace pocos días noticias de Venezuela; noticias pavorosas en las que sin ambargo, ya nadie pone atención por que tenemos los nervios acostumbrados a las visiones infernales. El verdadero infierno está en el carazón de los hombres. Juan Vicente es una encarnación Iuciferiana,pero no es más malvado, ni más despreciable que los quelo encubren y lo aplauden y le premian los crímenes.
+
+[¶ 3] News arrived a few days ago from Venezuela; fearful news to which, however, no one pays attention any longer, because our nerves are accustomed to infernal visions. The true hell is in the heart of men. Juan Vicente is a Luciferian incarnation, but he is no more wicked, nor more despicable, than those who cover for him and applaud him and reward his crimes.
+
+> [¶ 4] Juan Vicente acaba de matar en la cárcel a dos o tres generales enemigos suyos, colgándolos de partes nobles, en forma innoble por medio de un suplicio que ha repetido con tanta frecuencia que ya tiene nombre propio, se llama el Tortol. Y Juan Vicente no contento con hacer destrozosen su feudo de Venezuela, se acaba de meter al territorio de Colombia donde exterminó a unos cuantos enemigosya indefensos, cometiendo de paso horrorores en la personas de habitantes pacíficos de Colombia, que para salvar la vida tuvieron que remontarse a las selvas.
+
+[¶ 4] Juan Vicente has just killed in prison two or three generals, enemies of his, hanging them by their private parts, in an ignoble manner, by means of a torture that he has repeated so frequently that it already has a name of its own, it is called the Tortol. And Juan Vicente, not content with working havoc in his fief of Venezuela, has just entered the territory of Colombia, where he exterminated a few enemies already defenceless, committing in passing horrors upon the persons of peaceful inhabitants of Colombia, who to save their lives had to retreat to the forests.
+
+> [¶ 5] La noticia cablegráfica dice, refiriéndose a los refugiados Venezolanos: “Lanzados de sus últimos reductos, desprovistos de municiones y de material de boca, los soldados del general Arévalo Cedeño se desbandaron, comenzando entonces a hacer propagandas revolucionarias entre los gomistas que les perseguían, pasándose muchos de ellos a las filas de la revolución.
+
+[¶ 5] The cable news says, referring to the Venezuelan refugees: "Driven from their last redoubts, deprived of munitions and of provisions, the soldiers of General Arévalo Cedeño scattered, beginning then to carry on revolutionary propaganda among the Gomistas who pursued them, many of them passing over to the ranks of the revolution.
+
+> [¶ 6] En esta situación, las tropas del nipotarca se replegaron sobre la frontera de Colombia y desatendiendo las protestas del Ministro de Relaciones Exteriores, Sr. Abadía Méndez, entraron a reforzar los batallones venidos de Coro,que iniciaron el movimiento envolvente. Fue cuando entonces cundió la deserción entre lo6 hombres que se habían pasado a la revolución. “El gobierno de Colombia parece no haberse dado por entendido del brutal atropello a su soberanía. Sigue recibiendo en Bogotá al Ministro Pleni potenciario del Monstruo y no sabemos que haya movido sus soldados, ya no para castigar el crimen, siquiera paragarantizar la tranquilidad de los colombianos que viven en la frontera de Venezuela.
+
+[¶ 6] In this situation, the troops of the nepotarch fell back upon the frontier of Colombia and, disregarding the protests of the Minister of Foreign Relations, Mr. Abadía Méndez, entered to reinforce the battalions come from Coro, which began the enveloping movement. It was then that desertion spread among the men who had gone over to the revolution. "The government of Colombia seems not to have taken notice of the brutal outrage to its sovereignty. It continues to receive in Bogotá the Minister Plenipotentiary of the Monster and we do not know that it has moved its soldiers, not now to punish the crime, but at least to guarantee the tranquillity of the Colombians who live on the Venezuelan frontier.
+
+> [¶ 7] Sin embargo, el mismo cable da cuenta de algo todavía peor, de algo moralmente espantoso; elo aquí textual:“Juan Vicente Gómez inoblecido por el Pontífice con la orden de Pío XI, premiará a los sacerdotes católicos su adhesión a su causa, adhesión que ha servido para dar al traste con la rebelión promovida entre sus oprimidos conciudadanos por el general Arévalo Cedeño.
+
+[¶ 7] Nevertheless, the same cable reports something still worse, something morally appalling; here it is verbatim: "Juan Vicente Gómez, ennobled by the Pontiff with the order of Pius XI, will reward the Catholic priests for their adhesion to his cause, an adhesion that has served to bring to ruin the rebellion promoted among his oppressed fellow citizens by General Arévalo Cedeño.
+
+> [¶ 8] Monseñor Petro Pauli, nuncio del Pontífice en Caracas, prometió al nipoterca el apoyo del Arzobispo de Bogotá,que intercedería cerca del general Nell Ospina, presidente de Colombia para que no se opusieran a que los venezolanos se ampliaran “motu propio” los términos del permiso concedido para el cruze de las fuerzas venezolanas por el territorio de Colombia, y el establecimiento en éste de bases de aprovisionamiento militar y consejos de guerra, que sumarísimamente juzgarían en tierras colombianas a los rebeldes que fuesen capturados. Condicional para ese apoyo ha sido la obtención por el Nuncio de un convenio por el cual la Universidad de Caracas pasaría a ser Centro Religioso de Enseñanza, ocupando sus cátedras sacerdotales y jesuítas.” Esto es lo que hace en nuestros días de decadencia, un Papa que deriba su poder de San Pedro; deSan Pedro que murió crucificado boca abajo, por no transigir, por levantar su protesta en contra del emperador de los Romanos. Hoy para ganar un Colegio se condecora a un bandido. Esperemos que andando el tiempo se levantará en el Vaticano el busto de Juan Vicente, como tienen hoy el de García Moreno, el Monstruo, que martirizó al Ecuador.
+
+[¶ 8] Monsignor Petro Pauli, nuncio of the Pontiff in Caracas, promised the nepotarch the support of the Archbishop of Bogotá, who would intercede with General Nel Ospina, president of Colombia, so that they should not oppose the Venezuelans' extending "motu propio" the terms of the permit granted for the crossing of Venezuelan forces through the territory of Colombia, and the establishment in it of bases of military supply and councils of war, which would summarily try on Colombian soil the rebels who might be captured. A condition for that support has been the Nuncio's obtaining an agreement by which the University of Caracas would become a Religious Centre of Teaching, its chairs being occupied by priests and Jesuits." This is what, in our days of decadence, a Pope does who derives his power from Saint Peter; from Saint Peter, who died crucified head downwards, for not compromising, for raising his protest against the emperor of the Romans. Today, to win a College, a bandit is decorated. Let us hope that in the course of time the bust of Juan Vicente will be raised in the Vatican, as they now have that of García Moreno, the Monster, who martyred Ecuador.

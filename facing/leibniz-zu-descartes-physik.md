@@ -1,0 +1,426 @@
+---
+title: Zu Descartes’ Physik
+author: Gottfried Wilhelm Leibniz
+id: 10168
+markers: [a, print]
+pairs_by: a
+year: 1999
+original_language: fr
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Zu Descartes’ Physik was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10168)
+---
+
+# G. W. Leibniz, *Zu Descartes’ Physik* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## [p. 2027] 369. BREVIS DEMONSTRATIO ERRORIS MEMORABILIS CARTESII [Januar (?) 1686]
+
+Überlieferung:
+
+L Konzept: LH XXXV 10, 12 Bl. 25. 1 Bl. 2o. 2 Sp.
+
+E A.E., März 1686, S. 161–163. (Unsere Druckvorlage).
+
+Weitere Drucke nach E: 1. DUTENS 3, 1768, S. 180–182. 2. GERHARDT, Math. Schr. 6, 1860, S.
+
+117–119.
+
+Übersetzungen: 1. Nouvelles de la Republique des Lettres, September 1686, S. 996–999. 2.
+
+KORTHOLT, Epistolae 4, 1742, S. 411–414. 3. A. BUCHENAU in BUCHENAU-CASSIRER,
+
+Hauptschriften, 1, 1904, S. 246–250, Neuausg. 2 Bde, 1996, S. 186–193. 4. LOEMKER,
+
+Philosophical Papers, 1. Aufl. 1956, S. 455–458, 2. Aufl. 1969, S. 296–298. 5. JA. M.
+
+BOROVSKOGO, in Soĉinenija v ĉetyrech tomach, I, hrsg. v. V. V. SOKOLOV, Moskau 1982,
+
+S. 118–120.
+
+Leibniz sandte, wie aus dem Titel hervorgeht, die Brevis demonstratio am 16. Januar 1686 an die Acta Eruditorum, vgl. auch die Antwort von Otto Mencke vom 27. Januar 1686 (II, 1 N. 473, S. 564). Ihre Entstehungszeit dürfte unwesentlich früher liegen. G. G. L. Brevis demonstratio erroris memorabilis Cartesii et aliorum circa legem naturae, secundum quam volunt a Deo eandem semper quantitatem motus conservari; qua et in re mechanica abutuntur.
+
+Communicata in litteris d. 6. Jan. 1686. datis.
+
+Complures Mathematici cum videant in quinque machinis vulgaribus celeritatem et molem inter se compensari, generaliter vim motricem aestimant a quantitate motus, sive producto ex multiplicatione corporis in celeritatem suam. Vel ut magis geometrice loquar, vires duorum corporum (ejusdem speciei) in motum concitatorum, ac sua mole pariter ac motu agentium, esse dicunt in ratione composita corporum seu molium, et earum quas habent velocitatum. Itaque cum rationi consentaneum sit, eandem motricis potentiae summam in natura conservari: et neque imminui, quoniam videmus nullam vim ab uno corpore amitti, quin in aliud transferatur; neque augeri, quia vel ideo motus perpetuus mechanicus nuspiam succedit, quod nulla machina, ac proinde ne integer quidem mundus [p. 2028] suam vim intendere potest sine novo externo impulsu; inde factum est ut Cartesius, qui vim motricem, et quantitatem motus pro re aequivalente habebat, pronunciaverit eandem quantitatem motus a Deo in mundo conservari.
+
+::: editorial
+
+(zu S. 2027) 21 (1) Plerique (2) Complures erg. L 21 quinque erg. L 24 f. (ejusdem . . . agentium erg. L 25 seu molium erg. L 26 earum quas habent erg. L 27 et neque imminui erg. L 29 succedit (1) quoniam (2) quod erg. L
+
+:::
+
+Ego vero, ut ostendam quantum inter haec duo intersit, suppono, primo corpus cadens ex certa altitudine acquirere vim eousque rursus assurgendi, si directio ejus ita ferat, nec quicquam externorum impediat: exempli causa, pendulum ad altitudinem ex qua dimissum est, praecise rediturum esse, nisi aëris resistentia similiaque impedimenta exigua alia nonnihil de vi ejus absorberent, a quibus nos quidem nunc animum abstrahimus. Suppono item secundo, tanta vi opus esse ad elevandum corpus A unius librae usque ad altitudinem CD quatuor ulnarum,
+
+A quanta opus est ad elevandum corpus B quatuor
+
+C librarum, usque ad altitudinem EF unius ulnae.
+
+Omnia haec a Cartesianis pariter ac caeteris
+
+Philosophis et Mathematicis nostri temporis conceduntur. Hinc sequitur, corpus A delapsum ex altitudine CD, praecise tantum acquisivisse virium, quantum corpus B lapsum ex altitudine EF. Nam corpus (A) postquam lapsu ex C pervenit ad D, ibi
+
+E habet vim reassurgendi usque ad C, per suppos. 1,
+
+B hoc est, vim elevandi corpus unius librae (corpus (A) scilicet proprium) ad altitudinem quatuor ulnarum.
+
+D (B) F Et similiter corpus (B) postquam lapsu ex E pervenit ad F, ibi habet vim reassurgendi usque ad
+
+E, per suppos. 1, hoc est vim elevandi corpus quatuor librarum (corpus scilicet proprium) ad altitudinem unius ulnae. Ergo per suppos. 2, vis corporis (A) existentis in D, et vis corporis (B) existentis in F, sunt aequales.
+
+Videamus jam, an et quantitas motus utrobique eadem sit. Verum ibi praeter spem discrimen maximum reperietur. Quod ita ostendo. Demonstratum est a Galilaeo, [p. 2029] celeritatem acquisitam lapsu CD, esse duplum celeritatis acquisitae lapsu EF. Multiplicemus ergo corpus A quod est ut 1, per celeritatem suam quae est ut 2, productum seu quantitas motus erit ut 2; rursus multiplicemus corpus B quod est ut 4, per suam celeritatem quae est ut 1, productum seu quantitas motus erit ut 4. Ergo quantitas motus quae est corporis (A) existentis in D, est dimidia quantitatis motus quae est corporis (B) existentis in F, et tamen paulo ante vires utrobique inventae sunt aequales. Itaque magnum est discrimen inter vim motricem et quantitatem motus, ita ut unum per alterum aestimari non possit, quod ostendendum susceperamus. Ex his apparet, quomodo vis aestimanda sit a quantitate effectus, quem producere potest, exempli gratia ab altitudine ad quam ipsa corpus grave datae magnitudinis et speciei potest elevare, non vero a celeritate quam corpori potest imprimere. Non enim dupla sed majore vi opus est ad duplam eidem corpori dandam celeritatem. Nemo vero miretur in vulgaribus machinis, vecte, axe in peritrochio, trochlea, cuneo, cochlea et similibus aequilibrium esse, cum magnitudo unius corporis celeritate alterius, quae ex dispositione machinae oritura esset, compensatur; seu cum magnitudines (posita eadem corporum specie) sunt reciproce ut celeritates; seu cum eadem alterutro modo prodiret quantitas motus. Ibi enim evenit etiam eandem utrobique futuram esse quantitatem effectus, seu altitudinem descensus aut ascensus, in quodcunque aequilibrii latus motum fieri velis. Itaque per accidens ibi contingit, ut vis a motus quantitate possit aestimari. Alii vero casus dantur, qualis is est quem supra attulimus, ubi non coincidunt.
+
+::: editorial
+
+(zu S. 2028) 2 pro (1) eadem re (2) re aequivalente L 7 qua demissum L 7 nisi (1) altitudo (2) aëris L 8 a . . . abstrahimus erg. L 10 CD erg. (1) duarum (2) quatuor erg. L 11 B (1) duarum (2) quatuor erg. L 12 EF erg. L 16 tantum acquisiisse L 18 (A) (1) ubi (2) postquam erg. L 21 altitudinem (1) duarum (2) quatuor erg. L 22 (B) (1) ubi (2) postquam erg. L 24 corpus (1) duarum (2) quatuor erg. L
+
+1–3 R. DESCARTES, Principia Philosophiae, II, 36 (A.T. VIII 1, S. 61 f.). 28–S. 2029.1 G. GALILEI, Discorsi e dimostrazioni matematiche, Leiden 1638, III, theor. II, prop. II.
+
+:::
+
+Caeterum cum nihil sit probatione nostra simplicius, mirum est vel Cartesio vel Cartesianis, viris doctissimis, in mentem non venisse. Sed illum quidem nimia fiducia sui ingenii in transversum egit, hos alieni. Nam Cartesius, solito magnis viris vitio, postremo factus est paulo praesidentior. Cartesiani autem non pauci vereor ne paulatim Peripateticos complures imitari incipiant, quos irrident, hoc est, ne pro recta ratione et natura rerum, consulendis magistri libris assuefiant.
+
+::: editorial
+
+(zu S. 2029) 1 esse (1) quadruplam (2) duplam erg. L 2 suam erg. L 2 ut (1) 4 (2) 2 erg. L 3 productum (1) erit 4. (2) seu . . . erit ut (a) 4 (b) 2 erg. L 3 ut (1) 2 (2) 4 L 4 ut (1) 2 (2) 4 L 5 quae est erg. L 5 est (1) dupla (2) dimidia erg. L 5 quae est erg. L 7 f. ita . . . possit; erg. L 10 ipsa erg. L 11 quam (1) tali (2) corpori L 11 sed (1) majore (2) minore (2) majore erg. L 14 f. quae . . . esset erg. L 15 magnitudines (1) sunt reciproc (2) (positis (3) (posita L 16 cum (1) ibi eadem erg. est quantitas (2) eadem utrobique est quantitas motus (3) eadem . . . motus L 16 f. enim (1) etiam eadem utrobique futura esset quantitas effectus seu altitudo (2) evenit . . . altitudinem L 18 in velis erg. L 19 a (1) celeritate aestimetur. (2) motus L 19 f. Alii . . . coincidunt. erg. L 23 solito . . . vitio erg. L 24 non pauci erg. L 25 Peripateticos (1) nonnullos (2) complures erg. L
+
+:::
+
+[p. 2030] Dicendum est ergo, vires esse in composita ratione corporum (ejusdem gravitatis specificae seu soliditatis) et altitudinum celeritatis productricium, ex quibus scilicet labendo tales celeritates acquiri potuissent; vel generalius (quia interdum nulla adhuc celeritas producta est) altitudinum proditurarum: non vero generaliter ipsarum celeritatum, utcunque id plausibile prima specie videatur, et plerisque sit visum; ex quo complures errores nati sunt, qui in scriptis mathematico-mechanicis RR. PP. Honorati Fabri et Claudii des Chales, itemque Joh. Alph. Borelli et aliorum virorum, caeteroqui in his studiis praestantium, deprehenduntur. Quin et hinc factum puto, quod nuper Regula Hugeniana circa centrum oscillationis pendulorum, quae verissima est, a nonnullis viris doctis in dubium fuit vocata.
+
+## 371. PRINCIPIUM QUODDAM GENERALE NON IN MATHEMATICIS TANTUM SED ET IN PHYSICIS UTILE [September bis Dezember 1688 (?)]
+
+Überlieferung:
+
+L Konzept: LH XXXV 10, 19 Bl. 1–2. 1 Bog. 2o. 3 1/2 S.
+
+E GERHARDT, Math. Schr. 6, 1860, S. 129–135.
+
+Weiterer Druck: HERRING, Schr. zur Logik, 1992, S. 230–246 (nach E).
+
+Übersetzungen: 1. A. BUCHENAU in BUCHENAU-CASSIRER, Hauptschriften, 1, 1904, S. 84–93,
+
+Neuausg. 2 Bde, 1996, S. 62–70. 2. GOLDENBAUM, Philos. Schr., 1992, S. 72–82. 3.
+
+HERRING, Schr. zur Logik, 1992, S. 231–247.
+
+Leibniz’ Principium quoddam generale schließt inhaltlich an seine früheren Auseinandersetzungen mit Descartes und Malebranche an, worauf er hier verweist (fons errorum ejus) und an den Extrait d’une Lettre de M. L. sur un Principe Générale in den Nouvelles de la République des lettres, Juli 1687, S. 744–753 (GERHARDT, Philos. Schr. 3, S. 51–55). Wir datieren unser Stück aufgrund des weiterführenden Inhalts und des Wasserzeichens.
+
+1 rapproché (1) Des Cart (2) le L
+
+2–5 Vgl. N. MALEBRANCHE, De la recherche de la verité, 4. Ausg. Paris 1678–1679, VI, 2, 9; III, 2, 7 u. 6 [Marg.]. [p. 2032] G. G. L. Principium quoddam Generale non in Mathematicis tantum sed et Physicis utile, cujus ope ex consideratione Sapientiae Divinae examinantur Naturae Leges, qua occasione nata cum R. P. Mallebranchio controversia explicatur, et quidam Cartesianorum errores notantur.
+
+Principium hoc Ordinis Generalis, ab infinito habet originem; magnique in ratiocinando usus est, quanquam non satis usurpatum, nec pro amplitudine sua cognitum. Absolutae est necessitatis in Geometria, sed tamen succedit et in Physica, quoniam Suprema Sapientia, quae fons est rerum, perfectissimum Geometram agit, et Harmoniam observat, cujus pulchritudini accedere nihil potest. Itaque principio hoc saepe utor tanquam probatione sive examine ad Lydium quendam lapidem, unde statim et solo exteriore aspectu multarum opinionum male cohaerentium detegi potest falsitas etsi ad interiorem discussionem non perveniatur. Enuntiari potest hoc modo: Cum differentia duorum casuum infra omnem quantitatem datam diminui potest, in datis sive positis, necesse est, ut simul diminuatur infra omnem quantitatem in quaesitis, sive consequentibus quae ex positis resultant. Vel ut loquar familiarius: Cum casus (vel data) continue sibi accedunt, ita ut tandem alter in alterum abeat, oportet in consequentiis sive eventibus (vel quaesitis) respondentibus idem fieri. Quod pendet a principio adhuc generaliore, Datis nimirum ordinatis, etiam quaesita esse ordinata. Sed regula illustranda est exemplis facilibus, quo melius appareat ratio ipsam in usum transferendi. Scimus per umbram seu projectionem circuli fieri Conicas; et projectionem rectae esse rectam. Si jam recta circulum in duobus punctis secet, etiam recta projecta circuli projectionem, verbi gratia Ellipsin aut Hyperbolam in duobus punctis secabit. Cum igitur porro recta circulum secans sic moveri possit, ut magis magisque extra circulum egrediatur, et puncta intersectionum sibi magis magisque [p. 2033] appropinquent, donec tandem coincidant, quo casu recta circulo egredi incipit, sive ipsum tangit; sequitur puncta intersectionum rectae et circuli projecta, seu puncta intersectionum rectae projectae cum projectione circuli et ipsa sibi continue accedere, et postremo punctis intersectionum veris in se invicem abeuntibus, etiam projecta in se invicem abire, ac proinde ubi recta circulum tangit, etiam rectam ab ipsa projectam, tangere lineam Conicam a circulo projectam. Quod est inter primaria Conicarum theoremata, et non ambagibus et apparatu figurarum, aut in unaquaque Conica separatim, ut solet apud alios, sed facili mentis intuitu generaliterque hoc modo demonstratur. Sumamus aliud ex Conicis exemplum. Constat casum vel suppositionem Ellipseos accedere posse casui Parabolae, quantum quis volet, sic ut discrimen inter Ellipsin et Parabolam fieri possit minus discrimine quovis dato; modo concipiatur alterum focum Ellipseos a foco nobis propiore satis longe removeri, ita enim radii ab illo remoto foco venientes, a parallelis tam parum different, quam quis volet, et proinde, vi principii nostri, omnia Theoremata Geometrica, de Ellipsi in universum applicari poterunt ad Parabolam, siquidem haec consideretur tanquam Ellipsis foci alterius infinite abhinc distantis, aut (si quis infiniti expressionem vitare velit) tanquam figura ab Ellipsi quadam minus differens quantitate data.
+
+::: editorial
+
+(zu S. 2032) 1 f. (1) De Principio quodam Generali non in Mathematicis tantum sed et Physicis utili, (2) G. G. L. . . . utile, L 3 f. Leges, (1) deque controversia cum R. P. Mallebranchio in ea occasione nata (2) qua . . . explicatur, L 6 hoc (1) Generale (2) Ordinis L 7 satis erg. L 11 tanquam (1) comprobatione (probam vulgo vocant) atque (a) Examine sive probatione ad lydium q (b) examine et (2) probatione (a) et (b) sive erg. L 15 ut (1) possit etiam diminui (2) simul diminuatur L 16 quae (1) inde (2) ex positis L 19 adhuc erg. L 20 Sed (1) res (2) regula L 21 facilibus, erg. . . . transferendi erg. L 22 Conicas Sectiones gestr. ; (1) jam (2) et L 22 rectam. (1) Ponamus (2) Circuli autem (3) Si L 23 circulum (1) tangat (2) in L 24 secabit. (1) Et quanto propius sibi (2) Et propius sibi accedentibus punctis sectionum circuli, propius etiam sibi accedent (3) Cum L 25 secans immoto circulo gestr. sic L 26 puncta (1) sectionum (2) intersectionum erg. L
+
+:::
+
+Idem jam Principium ad Physica transferamus. Exempli causa Quies considerari potest ut celeritas infinite parva, vel ut tarditas infinita. Et proinde quicquid verum est de celeritate et tarditate in universum, id verum etiam suo modo esse debet de quiete seu tarditate summa, et proinde qui regulas motus et quietis dare vult, meminisse debet, regulam quietis sic oportere concipi, ut possit intelligi velut corollarium quoddam sive casus specialis regulae motus. Quodsi id non succedat, certissimum signum est, regulas esse male constitutas et minime inter se consentientes. Sic et aequalitas considerari potest, ut inaequalitas infinite parva, ubi discrimen est dato quovis minus. Neglectu hujus quoque observationis Cartesius, magni licet ingenii vir, in suis naturae legibus constituendis lapsus est. Nec repetam nunc quidem alium fontem errorum ejus, supra a me [p. 2034] obstructum, ex confusione virium et quantitatis motuum ortum. Tantum ostendam quomodo in principium nostrum hic expositum peccaverit. Sumamus exempli causa regulam motus primam et secundam, quas in Principiis Philosophiae tradidit, has ajo inter se pugnare. Secunda enim ejus regula est: Si duo corpora B et C sibi directe occurrant aequali velocitate, et B sit major quam C, reflecti quidem C priore sua velocitate; B autem continuare motum, atque ita ambo conjunctim ire in plagam quo prius tendebat B. Sed secundum regulam ejus primam, B et C aequalia et aequivelocia directe sibi occurrentia, reflectentur ambo ea qua venerant velocitate.
+
+::: editorial
+
+(zu S. 2033) 2 f. sequitur puncta (1) projectionum etiam sibi continue accedere, (2) sectionum (3) intersectionum erg. (a) projecta (b) rectae . . . puncta (aa) sectionum (bb) intersectionum erg. . . . accedere, L 4 postremo erg. punctis (1) sectionum (2) intersectionum erg. L 6 tangere (1) sectionem (2) lineam erg. L 7 ambagibus (1) hoc modo sed (2) et L 7 f. aut . . . alios, erg. L 8 generaliterque hoc modo erg. L 13 f. vi principii nostri erg. L 16 quis (1) infinitum (2) infiniti expressionem L 16 tanquam (1) Ellipsis (2) figura L 16 f. quadam erg. L 19 ut (1) tarditas (2) celeritas erg. L 20 f. seu tarditate summa erg. L 24 et . . . consentientes erg. L 26 quoque erg. L 26 magni . . . vir, erg. L
+
+27–S. 2034.1 Nec . . . ortum: vgl. N. 369.
+
+:::
+
+B B C C
+
+Cartes. reg. 1.
+
+B B C C
+
+Cartes. reg. 2.
+
+BC [p. 2035] statim maximum; ita ut hac additione indefinite parva ex absoluta reflexione ipsius B, tota sua velocitate, fiat absoluta continuatio ipsius B etiam tota sua velocitate, qui est ingens saltus ab uno extremo ad aliud, cum ratio jubeat, aucta nonnihil magnitudine atque adeo potentia ipsius B reflecti ipsum seu repelli paulo minus quam ante, ita ut augmento vel excessu prope imperceptibili ac pene nullo existente, etiam repulsae diminutio sit exigui admodum et pene nullius momenti. Similes incongruitates in reliquis Cartesii regulis motuum deprehendentur, quas nunc non persequar.
+
+::: editorial
+
+(zu S. 2034) 1 B et 1C situs ante concursum, 2B et [2C] in concursu, 3B et 3C aequali tempore a concursu quo prius 1B et 1C ante concursum. Et erit hoc loco secundum Cartes. 1B2B aequ. 1C2C aequ. 2B3B aequ. 2C3C. Hanc ego differentiam inter duos istos casus, aequalitatis, et inaequalitatis nego esse rationi consentaneam. Cum enim inaequalitas corporum magis magisque decrescere possit, tandemque fieri quantumlibet parva, ita ut discrimen inter suppositiones duas inaequalitatis et aequalitatis minus sit quovis dato; igitur vi nostri principii, et luminis adeo naturalis, discrimen inter effectus vel consequentias harum suppositionum, etiam deberet continue decrescere, et tandem quovis dato fieri minus. Verum si secunda regula aeque vera esset ac prima contrarium eveniret. Nam ex secunda regula, augmentatio utcunque parva corporis B, antea aequalis ipsi C, facit in effectibus non discrimen utcunque parvum et paulatim crescens pro crescente augmentatione, ut debebat, sed 3 quas . . . tradidit erg. L 4 enim erg. ejus regula motus gestr. est: L 5 quidem erg. L 6 velocitate; (1) sed secundum regulam primam B (2) B L 6 ire (1) ad partes (2) in plagam L 7 f. et aequivelocia erg. (1) reflectentur ambo (2) directe sibi erg. L 9–12 1B. . . 2C3C. mit Figur erg. (1) Si jam ponatur aequalitas (2) Hanc L 9 1C L ändert Hrsg. 9 3C (1) post (2) aequali L 14 parva, (1) seu ab aequalitate tam parum differens quam quis velit; et (2) ita L 15 aequalitatis (1) fiat (a) infini (b) minus (2) tandem evanescat (3) minus L 16 effectus , resultata gestr. vel L 19 in (1) effectu (2) effectibus L
+
+3 regulam . . . tradidit: R. DESCARTES, Principia Philosophiae, II, 46–47.
+
+:::
+
+Porro cum R. P. Mallebranchius in libro De Inquirenda Veritate praeclara non pauca monuerit, et nonnulla Philosophiae Cartesianae dogmata correxerit, et regulas quoque motuum aliter constituendas censuerit, operae pretium tunc putavi annotare nec ab ipso hujusmodi incongruitates esse vitatas, quod feci eo libentius, quia nec ipsum pro suo quem profitetur veritatis amore aegre laturum judicavi, et vel hinc apparere censui, quam utile sit haec admoneri, ut imposterum caveantur quae viris etiam ingeniosissimis imposuere. Sic igitur ille, ut in exemplo sententiam ejus proponamus. Sit corpus B ut 2 celeritate[^2035-1]B2B ut 1, corpus vero C ut 1 celeritate[^2035-1]C2C ut 2 quae directe sibi occurrant. Statuit ambo reflecti qua quodque venerat celeritate. Sed si vel celeritas, vel magnitudo alterutrius corporis velut B, tantillum augeatur, vult ambo corpora simul in eam plagam ire, in quam prius tenderat solum B, et quidem velocitate communi, quae erit circiter quatuor tertiarum, seu quae velocitatem ipsius B priorem uno triente excedat; si scilicet ponamus augmentationem potentiae circa B factam, tam esse exiguam, ut priores numeri sine errore consideratu digno retineri possint.
+
+B B C C
+
+B Malebranch.
+
+[p. 2036] cesset reflexio, et maximo saltu ab uno extremo ad aliud facto, B quod prius reflectebatur velocitate ut 1, nunc ideo tantum quia tantillum potentiae adjectum est, non modo non reflectatur, sed etiam progrediatur celeritate ut 4. Ubi illud quoque prorsus παραÂ λογον
+
+[^2035-1]: B 2B 2C 3B 3C 1C Sed1 quis credat ob mutationem tam exiguam, quam quis velit in suppositione respectu ipsius B factam, exurgere magnam adeo differentiam in eventu; ita ut omnis
+
+::: editorial
+
+(zu S. 2035) 1 Am Rande: bv ? ce 4 seu repelli erg. L 4 f. ut (1) si (a) aequalit (b) inaequalitate ta (2) augmento L 5 vel excessu erg. L 5 ac pene nullo erg. L 5 f. etiam (1) reflexio (2) reflexionis (3) repulsae erg. diminutio L 6 momenti. (1) Eadem contrarietas (2) Similes (a) contrarietates (b) incongruitates L 10 tunc erg. putavi (1) admonere (2) annotare erg. L 11 libentius, (1) ut (a) imposterum (b) appareat quam facilis hic lap (c) necessit (d) usus (2) quia L 11 f. pro . . . amore erg. L 13 caveantur (1) hujusmodi lapsus, qui (2) quae L 14 corpus durum erg. u. gestr. B L 15 1B2B erg. L 21 errore (1) notabili (2) consideratu L
+
+9–21 regulas quoque motuum . . . 1C: vgl. N. MALEBRANCHE, De la recherche de la vérité, Paris 1678, VI, 2, 9, S. 486–492 (MALEBRANCHE, Oeuvres, Bd 17, 1, S. 39–44).
+
+:::
+
+accidit, ut ictus contrarius alterius corporis C, non repellat aut retardet corpus B ullo modo, sed ipsum quodammodo ad se attrahat, et conatum ejus contrarium sibi, augeat. Cum enim B ferretur ante ictum celeritate ut l, nunc post occursum contrarii corporis C, continuat motum velocitate ut 4. Quod puto digeri non posse. Haec cum ego monuissem in Replicatione mea ad Dn. Abb. D. C. Novell. Reip. lit. mense Febr. 87 pag. 139, respondit R. P. Mallebranch. April. ejusdem anni p. 448 laudabili admodum ingenuitate, agnoscens animadversionem hanc meam aliquid in recessu habere, paradoxas autem istas consecutiones ex hypothesi, a se jam tum pro falsa agnita, et refutata esse [natas]. Sese enim in suo illo Inquirendae Veritatis opere libro 6. cap. ult. ratiocinatum esse ex hypothesi corporum perfecte durorum, cum tamen durities non nisi a circumstantium compressione, nec ut Cartesius putaverat, a quiete partium oriatur, ac proinde nunquam sit perfecta et absoluta. Si tamen ponatur Deum creare corpora perfecte dura, et simul servare eandem quantitatem motus (quod ipsi R. Patri etiamnum post meam si bγ + cε = bv + ce sec. Malebr.
+
+2b∼1v ? 1b(2)≈ v
+
+2b1v ? 1c(2)
+
+1b10v ? 9c1v [p. 2037] demonstrationem expendisset verisimile amplius videri non potuisset) vel potius (ut ego sentio) eandem quantitatem virium, pro certo habet illas prope incredibiles consequentias a me notatas debere sequi, aut necesse esse, ut vel corpus debilius C determinationem fortioris B mutet vel corpus debilius a fortiore, majore, quam ipsius est fortioris velocitas repellatur, sine interventu Elastri, quorum utrumque parum admodum credibile ipsi videtur. Quibus a me nonnihil responsum est Novell. Reip. lit. [Jul.] 87 pag. 745. Et quidem ut taceam multo omnibus esse incredibilius, ut corpus B attrahatur a contrario C, ubi semel admiserimus, quod vult R. P. Malebranchius, non corpus tardius alteri dare motum suo celeriorem, sed Deum esse qui occasione situs corporum, ipsos motus in iis producit, non apparet, cur etiam sine ullo elaterio non possit corpori C motum dare, quem conservandarum virium ratio dictat, celeriorem motu ipsius B, cujus occasione id facit. Imo hoc ipsum ad confirmandam sententiam quae corpori in corpora veram actionem negat, prodesse potest. Utcunque autem sit, si Deus vellet perfecte dura creare corpora, caeteris omnibus ut nunc servatis, sequetur ex Principio nostro Generali, rationi consentaneum fore, ut ipsa dura Leges corporum quae revera in Mundo reperiuntur, hoc est Elasticorum sequantur; concipiendo dura, ut Elastica perfectissima, quae in sese restituendis sint promtitudinis infinitae.
+
+::: editorial
+
+(zu S. 2036) 4 aut retardet erg. L 4 B (1) nonnihil, (2) ullo modo, L 5 et (1) celeritatem (2) conatum L 5 ejus (1) contra se (2) contrarium L 6 B (1) tenderet ante ictum i (2) ferretur L 11 natam L ändert Hrsg. 12 f. ex falsa gestr. hypothesi L 16–S. 2037.2 motus (1) (quod ipsi et Mallebranchio etiamnum nescio quomodo post meam demonstrationem verisimile videri potuerit) (2) (quod (a) nescio quomodo (b) ipsi . . . potuisset) erg. vel . . . virium erg. L
+
+8 Replique de M. L. à M. l’Abbé D. C. continuë dans une lettre ecrite à l’Auteur de ces Nouvelles le 9. de Janv. 1687. Touchant ce qu’a dit M. Descartes que Dieu conserve toujours dans la nature la meme quantité de mouvement., in Nouvelles de la Republique des Lettres, Mois de Fevrier 1687, S. 131–145. 8 Dn. Abb. D. C.: d. i. der Abbé F. Catelan. 9–S. 2037.6 Extrait d’une Lettre du P. M. à M. l’Abbé D. C., a.a.O., Mois de Avril 1687, S. 448–450.
+
+:::
+
+::: editorial
+
+(zu S. 2037) 2 habet (1) ista prope incredibilia debere sequi (2) illas L 4 B erg. (1) , atque celeri (2) mutet L 4 fortiore, (1) celerius (2) majore, L 5 f. ipsi . . . 745 erg. L 6 Jun. L ändert Hrsg. 7 f. B (1) attrahatur a (2) contrahatur, (3) attrahatur . . . C, (a) non video cur (aa) velit (bb) nolit determinationem fortioris a debiliore mutari. Mutatur illa semper ab occurrente, sed plus minusve. Praejudicium hoc ex Cartesiano dogmate natum est, qui determinationem ab ipso motu separatam, servat mutatve. (aaa) Cum tamen (bbb) Nonne (ccc) Sane cum tria sint, progressus quies et regressus (b) ubi L 8 f. quod . . . Malebranchius, erg. non . . . sed erg. L 9 occasione (1) corporum sibi oppositorum, (2) situs L 9 ipsos erg. L 10 etiam erg. L 10 f. elaterio (1) non possit motum dare (2) non sit motum daturus, (3) non . . . dare, erg. quem (a) praescripta reg (b) conservationis vi (c) conservandarum L 11 f. dictat, (1) neque enim corpus tardius (2) celeriorem . . . facit L 12 sententiam (1) ejus (a) de causa motuum (b) aliquid facere potest uni corpori in aliud (2) quae L 12 corpora (1) actionem (2) influx (3) propr (4) veram L 13 perfecte erg. L 14 caeteris . . . servatis erg. L 14 f. Generali, (1) Sapientiam ejus effecturam, (2) rationi . . . fore, L
+
+6 Extrait d’une Lettre de M. L. sur un Principe Générale, utile à l’explication des loix de la nature, par la considération de la Sagesse Divine; pour servire de réplique à la réponse du R. P. M, a.a.O., Mois de Juillet 1687, S. 744–753.
+
+:::
+
+[p. 2038] Et quanquam fatendum sit a voluntate divina pendere motuum leges; ut R. P. Mallebranchius notat, ipsa tamen voluntas divina ordinem ac rationem quandam servat in omnibus quae agit, ut consentiant inter se, nec proinde Principium Generale hic traditum in legibus naturae constituendis infringet, aut male colligata atque hiantia fundamenta ponet. Et si evenirent in natura hujusmodi irregularitates [quales] admiserat R. Pater, credo Geometras prope non minus attonitum iri, quam si proprietates Ellipseos ad Parabolam praescripto supra modo accommodari non possent. Sed nunquam opinor ullum exemplum occurret in natura, quod usque adeo offendat rationem. Porro quae in ipsis principiis simplicibus abstractisque paraloga sunt, ea in concretis naturae phaenomenis, sunt tantum paradoxa. Nam in corporibus compositis fieri potest, ut exigua mutatio in datis [magnam] faciat effectus mutationem in eventibus, ita scintillula ingenti massae pulveris pyrii injecta urbem evertere potest, et videmus elaterium aliquod tensum, exiguo obstaculo detentum, levi attactu liberari, et magnam vim exercere; sed haec tantum abest, ut contraria sint principio nostro, ut potius ex ipsis principiis generalibus recipiant explicationem. Sed in principiis, ac rebus simplicibus, nihil tale admitti potest, alioqui natura non foret effectus sapientiae infinitae.
+
+Hinc jam apparet (paulo melius quam vulgo proponitur) quomodo vera Physica ex divinarum perfectionum fontibus sit haurienda. Deus enim est ultima ratio rerum, et Dei cognitio non minus est principium Scientiarum, quam essentia ejus et voluntas principia sunt rerum. Quo quisque in Philosophia interiore versatior est, eo facilius hoc agnoscit. Sed pauci hactenus ex consideratione Divinarum proprietatum, veritates ducere potuerunt alicujus in scientiis momenti. Erunt fortasse qui speciminibus istis excitabuntur. Sanctificatur Philosophia, rivulis ex sacro Theologiae naturalis fonte in eam immissis. Et tantum abest, ut causae finales rejici debeant, et consideratio Mentis sapientissimae propter bonum agentis, atque adeo ut bonitas et pulchritudo res sit arbitraria, vel ad nos [p. 2039] tantum relata et a Deo removenda, quorum illud Cartesio, hoc Spinosae visum est, ut contra potius ex consideratione Mentis potiora Physicae dogmata deducantur. Hoc jam praeclare a Socrate in Phaedone Platonis annotatum est, in Anaxagoram invehente, aliosque Philosophos nimium Materiales, qui cum agnovissent principium intelligens materia superius, non utuntur tamen ejus ope, cum philosophandum est de universo, et ubi ostendendum erat, Mentem omnia optime ordinare, eamque esse rationem rerum omnium quas producere scopo suo conveniens judicavit, confugiunt potius ad motus atque concursus brutorum corporum confundentes conditiones et instrumenta cum causa vera. Perinde est (ait Socrates ) ac si quis rationem redditurus cur ego hic sedeam in carcere, fatalem haustum expectans, nec potius ad Boeotios, aliosve populos, fugam, ut poteram, ceperim, hoc ideo fieri diceret, quod ossa et tendines et musculos habeam, ita flexos, quemadmodum ad sedendum opus. Profecto nec ossa ista nec musculi hic forent, nec me vos sedentem videretis, nisi Mens judicasset dignius esse Socrate, subire quod Leges jubent. Meretur ille Platonis locus integer legi, habet enim cogitationes solidas et perpulchras. Interea non nego Effectus naturae et posse et debere explicari Mathematice vel Mechanice principiis semel positis, modo fines ususque admirabiles Providentiae ordinatricis non negligantur. Sed principia Physicae, atque ipsius adeo Mechanicae, non possunt amplius ex legibus mathematicae necessitatis deduci, sed ad rationem earum reddendam oportet supremam intelligentiam vocari in partes. Hoc demum est conciliare pietatem rationi; quod si considerasset Henricus Morus, aliique viri docti ac pii, minus metuissent, ne quid religio detrimenti caperet, ex incrementis Philosophiae Mechanicae vel Corpuscularis. Quae tantum abest, ut a Deo et Substantiis immaterialibus avertat, ut potius, adhibitis correctionibus, et omnibus bene consideratis, multo melius quam antea factum est a philosophis, nos ad sublimiora illa ducat.
+
+::: editorial
+
+(zu S. 2038) 1 sit (1) arbitrarium esse quid Deus de (2) a L 1 f. ut . . . notat, erg. L 2 ordinem (1) certum (2) ac rationem quandam L 3 f. hic (1) positum (2) traditum erg. (a) infringet (b) in L 4 naturae generalibus gestr. constituendis L 4 male (1) cohaerentia (2) colligata atque hiantia L 5 si (1) quid tale eveniret in natura, quale admiserat R. P. Geometrae non mi (2) evenirent L 5 qualis L ändert Hrsg. 8 ullum ejus gestr. exemplum L 8 rationem. (1) Etsi autem in peculiaribus naturae phaenomenis, paradoxa hujus (2) Porro L 9 principiis (1) generalibus (2) simplicibus abstractisque L 9 in (1) peculiaribus (2) specialibus (3) concretis erg. L 10 compositis erg. L 11 datis (1) magnum faciat effectum (2) magnum ändert Hrsg. . . . mutationem L 13 tensum, (1) et in puncto constitutum, et (2) exiguo (a) foramine (b) obstaculo L 14 potius (1) cur evenire (2) ex L 15 f. tale (1) contingere (2) admitti L 20 rerum. (1) Omnes (2) Quo quisque philosophorum (3) Plerique philosophi (4) Quo L 22 in (1) Philosophia (2) scientiis L 24 f. ut (1) bonum (2) causae . . . et (a) ut substantiae optima 〈omnia〉 (b) consideratio . . . ut erg. bonitas L 26–S. 2039.1 vel (1) imaginaria (2) ad . . . removenda L
+
+:::
+
+::: editorial
+
+(zu S. 2039) 1 est, (1) et ut causae finales excludi debeant, (2) ut L 2 ex (1) sapientis (2) consideratione (a) sapientissimi autoris (b) Mentis L 3 in (1) Commentario (2) Phaedone L 5 ejus (1) opera (2) ope erg. L 5 f. et (1) loco ejus quod ostendendum erat, quomodo intelligentia hac cuncta opt (2) ubi L 6 erat, (1) Intelligentiam (2) Mentem L 6 ordinare, (1) eamque esse rationem eorum quae ipsa producere dignum judicavit, (2) eamque L 7 omnium erg. L 7 producere (1) ipsi visum est, (2) finibus suis (3) scopo L 10 potius (1) in itinere (2) verser a (3) sim (4) ad L 10 populos, (1) cum non fuerit (2) fugam, L 13 nisi (1) animus ju (2) Mens L 13 Socrate, (1) legibus obedire (2) subire L 14 f. et (1) pulchras (2) perpulchras L 15 f. Mathematice vel erg. L 16 principiis semel positis erg. L 16 admirabiles (1) Providentiae non omittantur qui (2) quos Providentia in rem vertit (3) Providentiae L 18 amplius (1) mathematice (2) ex L 19 f. demum . . . quod erg. L 21 quid (1) phi (2) religio L 22 immaterialibus nos gestr. avertat, L 23 consideratis, (1) illuc ducat. (2) multo L
+
+3 in Anaxagoram invehente: vgl. PLATON, Phaedo, 97b–99c. 9–14 Perinde . . . jubent: PLATON, Phaedo, 98c–99a.
+
+:::
+
+## 374. REMARQUES SUR LA DOCTRINE CARTESIENNE [Frühjahr 1689 bis Herbst 1689 (?)]
+
+Überlieferung:
+
+L Konzept: LH IV 1, 4d2 Bl. 1–2. 1 Bog. 2o. 4 S.
+
+E1 FOUCHER DE CAREIL, Nouvelles lettres et opusc., 1857, S. 12–21.
+
+E2 GERHARDT, Philos. Schr. 4, 1880, S. 304–309.
+
+Zur Datierungsbegründung s. N. 373.
+
+J’estime infiniment Monsieur des Cartes, et je connois la grandeur de son merite, mais je ne conviens pas des exaggerations de certaines gens, et je ne sçaurois approuver le Cartesianisme. L’Esprit de secte, et l’ambition de celuy qui pretend de s’eriger en chef [p. 2046] de parti fait grand tort à la verité et aux progres des Sciences. Un auteur qui a cette vanité en teste tache de rendre les autres meprisables, il cherche à faire paroistre leur defauts, il supprime ce qu’ils ont dit de bon et tache de se l’attribuer sous un habit deguisé. Et il ne songe pas qu’en payant d’ingratitude ses predecesseurs, il laisse un mauvais exemple à la posterité, et pourra estre traité de même. Il leve la gloire à ceux qui la meritent, et rebute d’autres qui pourroient estre animés par leur exemples à bien faire. Il fait naistre des jalousies et des contestations avec perte du temps pretieux et du repos necessaire pour les découvertes de conséquence.
+
+::: editorial
+
+(zu S. 2045) 2 f. et (1) aërem (2) aëri L 6 cogitata (1) medi (2) de L 8 Gilbertum (1) circa magnetem (2) cujus (a) magneticas meditationes (b) magnetica inventa L 8 lucem (1) attulere. (2) attulerant. L 17 ne (1) sçaurois convenir (2) conviens pas L 18 Cartesianisme. (1) Je trouve que (a) l’esprit (b) l’ambition d’un homme qui affecte un Empire dans la Republique des (2) L’Esprit L
+
+6 Vgl. F. MAUROLICO, Photismi de lumine, et umbra ad perspectivam, et radiorum incidentiam facientes. Diaphanorum partes tres . . . in secundo de Iride . . . Problemata ad . . . Iridem pertinentia, Neapel 1611. 6 Vgl. M. A. DE DOMINIS, De radiis visus et lucis in vitris perspectivis et iride tractatus, Venedig 1611. 8 Vgl. W. GILBERT, De magnete, magnetisque corporibus, et de magno magnete tellure; physiologia nova, plurimis et argumentis, et experimentis demonstrata, London 1600.
+
+:::
+
+Les sectateurs d’un tel auteur n’étudient ordinairement que les écrits du maistre au lieu du grand livre de la nature; ils s’accoustument, au babil, à des faux fuyans et à la paresse, ils ignorent ce qu’il y a de bon chez les autres, et se privent des avantages qu’ils en pourroient recevoir; car estant tousjours determinés à penser la même chose d’une même façon, ils ne trouvent jamais des routes nouvelles, et cet esprit servil qui les tient enchainés les rend d’ordinaire incapables de s’elever à des inventions et de faire des progrés de consequence.
+
+Tout cecy est arrivé à des Cartes et à beaucoup de Cartesiens. Ce philosophe chercha d’abord de faire mépriser tous les autres. Il parle d’une étrange maniere dans ses lettres [p. 2047] des plus habiles hommes de son temps, et il paroist une vanité estrange dans ses expressions accompagnée de quelques finesses peu louables. Il cherchoit avec passion d’entrer en lice avec les Jesuites, et il prenoit pour un mepris la reserve qu’ils firent paroistre à luy repondre. ll cite rarement les autres, et il ne loue presque jamais. Cependant une grande partie de ses meilleures pensées estoit prise d’ailleurs, à quoy personne ne trouveroit à redire, s’il l’avoit reconnu de bonne foy.
+
+::: editorial
+
+(zu S. 2046) 1 Sciences. (1) Un auteur qui a cette vanité en teste, tache de rendre les autres meprisables, il cherche à faire paroistre leur defaute, il supprime ce qu’ils ont dit de bon, et tache de se l’attribuer sous un habit deguisé. Et il ne pense pas qu’en payant (a) les autres (b) d’ingratitude ses precedesseurs, il donne un mauvais exemple à la posterité (aa) dont quelque autre se servira contre la (bb) et pourra estre traité de même. Il ne cite personne, que peutestre (aaa) plus pour (bbb) pour le reprendre et cependant erg. il seroit bien faché si on ne le citoit pas avec eloge. (2) Il seroit bien faché, si on ne (a) le citoit pas avec eloge, et cependant il n (b) luy rendroit justice, et cependant (aa) il seroit bien faché, s (bb) il ne cite personne que pour le reprendre, et il ne songe pas que la gloire (aaa) est l’unique salaire des personnes (bbb) estant ce qui anime (aaaa) bien des gens (bbbb) les (cccc) les plu (dddd) le plus (eeee) à bien faire, on ne la sçauroit refuger à ceux qui la meritent sans faire tort au bien public, en rebutant (aaaaa) ceux qui ont des (bbbbb) les bien i (ccccc) ceux qui l’esperent. (aaaaaa) Luy même cependant (bbbbbb) De plus erg. cette humeur critique et ambitieuse ne manque jamais de faire naistre des ennemis; l’envie et la jalousie jouent d’abord. (3) Un L 3 f. ne (1) pense (2) songe L 4 payant (1) les autres (2) d’ingratitude L 4 il (1) donne (2) laisse L 5 posterité, (1) dont quelque autre se servira contre la (2) et L 6 faire. (1) Elle (2) Il L 7 contestations (1) parmy (a) les sçavans (b) ge (c) sçavans, qui les font passer (2) avec L 8 f. conséquence. (1) Tout cela est arrivé à (a) Mons (b) feu Monsieur des Cartes. Que si un auteur s’est trouvé dans des conjonctures favorables pour se faire une secte, (2) Les L 10–13 fuyans (1) et se rendant l’esprit servil, et incapable (2) et . . . paresse, (a) ignorans les (b) ils . . . ce (aa) qui se passe (bb) qu’il . . . nouvelles, L 14 enchainés erg. L 15 f. consequence. (1) Outre qu’ignorant les belles pensées d’autres, (a) qui (b) et (2) Tout L 16 et (1) aux (2) à beaucoup de L 16 f. philosophe (1) méprisa d’abord (2) chercha . . . mépriser L
+
+:::
+
+Aristote a fort bien expliqué le plein et la division du continu contre les Atomistes. Democrite avoit monstré, que tous les phenomenes de la physique peuvent estre expliqués mecaniquement, et M. des Cartes le voulant rendre meprisable pour luy paroistre moins redevable, a tort de luy imputer l’erreur d’Epicure, qui s’imaginoit que les atomes avoient une pesanteur. Leucippe avoit enseigné les tourbillons. L’explication de la lumiere par la comparaison d’un baston qui touche ce qui est éloigné estoit déjà des anciens rapportés par Simplicius, philosophe grec. Platon a expliqué divinement bien les substances incorporelles distinctes de la matiere, et les idées indépendentes des sens. Il faut mêmes avouer que les raisonnemens des Academiciens, et les objections des Sceptiques contre les sens et contre les choses sensibles sont de grande importance pour faire reconnoistre ces verités. La morale de des Cartes est sans doute celle des Stoiciens. Et quant aux Mathematiques où il avoit acquis le plus d’autorité, il s’en faut beaucoup que les eloges excessives de ses sectateurs ayent lieu. ll avoue luy même dans ses lettres qu’il n’a pas entrepris de donner la Mathematique Universelle, parce qu’il trouvoit bien de la difficulté dans les problemes des nombres, tels que M. Fermat et M. Frenicle proposoient. [p. 2048] Et dans la Geometrie même, il se trouva pris lorsque M. de Beaune luy proposa les problemes de la converse des tangentes. Il se trompa fort quand il crût qu’on ne trouveroit jamais la proportion d’une courbe à une droite. Et ayant reconnu que les anciens avoient eu tort de donner des bornes à la Geometrie, en excluant les lignes des plus hauts degrés, il tomba dans le même defaut ou voulut bien y tomber en excluant de la geometrie les lignes qui ne se peuvent expliquer par une equation d’un degré determiné, parce qu’il ne pouvoit pas les assujetir à sa methode, par laquelle il pretendoit de pouvoir resoudre tous les problemes de Geometrie, il commence la sienne par une rodomontade qui est bien eloignée de la verité comme s’il avoit donné moyen de reduire tous les problèmes à des equations d’un certain degré; et par consequent le moyen de les construire par des lignes courbes convenables.
+
+::: editorial
+
+(zu S. 2047) 2–4 Il . . . Jesuites, (1) et tachoit d’y engager la So (2) disant à tout (3) et (a) en refusant quelques uns il disoit à tout propos, (aa) qu’il a (bb) qu’u (cc) que les particulières (b) il (aa) estoit faché, (bb) prenoit repondre erg. L 4 cite (1) qu (2) presque jamais personn (3) rarement les autres erg. L 5 Cependant (1) ses plus belles pensées (a) estoi (b) bea (2) une L 5 ses (1) belles pe (2) meilleures L 5 prise (1) des autres, (2) d’ailleurs erg. L 6 f. foy. (1) Il devoit à (2) Aristote L 7 expliqué (1) avant luy (2) le plein, et (a) l’indi (b) la divisibilité de la mat (c) la L 7 les (1) Dem (2) Atomistes. L 8 que (1) toute la nature corporelle peu (2) tous L 8 la (1) matiere (2) physique L 9–11 des Cartes (1) en voulant elever tout autorité (2) le . . . pour (a) paroistre plus grand (b) luy . . . a (aa) grand (bb) tort . . . pesanteur erg. L 11 Leucippe (1) et autres avoient déjà (2) avoit L 13 Simplicius (1) vieux commentateur (2) philosophe grec dans ses (3) peripateticien grec (4) philosophe L 13 Platon (1) a dit divinement bien (2) le plus (3) auteur des Academiciens erg. (4) a expliqué L 13 bien (1) la distincti (2) que les substa (3) la verité (4) la distinction (5) la (6) les L 14 incorporelles (1) et les idées (2) distinctes L 14–16 sens (1) , et les raisonnemens des Academiciens (a) et (b) ou même des Sceptiques erg. (2) on voit même que (3) Il sensibles L 17 sans doute erg. L 19 les (1) hyperboles (2) eloges excessives L 19 lieu. (1) Car sa (2) Il (a) reconnoist (b) avoue L 21 les (1) nombres, et qu’il (2) problemes L 22 proposoient. (1) Il s’estoit donc (a) limit (b) borné à la Geometrie. (2) Et L
+
+21 f. B. FRÉNICLE DE BESSY, Traité des triangles rectangles en nombres, hrsg. v. E. Mariotte, Paris 1676 [Marg.].
+
+:::
+
+Mons. Fermat avoit déja donné les lieux plans et solides et les fondemens de presque tout ce qui est contenu dans le premier livre de la Geometrie de des Cartes, aussi n’estoit ce qu’une resuscitation de la methode des anciens. Et le même M. Fermat a monstré depuis que M. des Cartes s’est fort trompé dans l’assignation des lignes propres à une resolution des problemes, ayant monstré que 30 moyennes proportionelles se peuvent trouver par une ligne du 6me degré, au lieu que suivant des Cartes il en faudroit une du 15me pour le moins. Et il l’avoit prevenu encor dans la Methode de Maximis et Minimis et des Touchantes; car celle de des Cartes qui est plus bornée, et bien plus embarassée et eclaire moins l’esprit est venue après coup et peut passer pour un deguisement de l’autre, d’autant que lorsqu’une chose est trouvée, il est souvent facile d’y arriver par une autre route; de sorte qu’on peut dire, qu’encor le deuxieme livre de la Geometrie de des Cartes [p. 2049] n’est pas tout à fait nouveau; et quant au 3me, les Anglois ont decouvert que l’ouvrage posthume de Thomas Harriot, imprimé l’an 1631, contient déjà presque tout ce qu’il y a de meilleur; et principalement l’adresse de poser une equation egale à rien et de la produire par la multiplication des racines, qui est le fondement de tout ce livre 3me. Il a joué aussi d’adresse pour s’approprier la belle invention de la reduction des equations quarré-quarrées aux cubiques. L’auteur en estoit Ludovicus Ferrarius, dont Cardan, qui estoit son maistre et son ami nous a laissé la vie. Bombelli nous en explique l’origine de methode, et Viete s’en sert. Mais des Cartes a prit expres un autre tour moins naturel pour donner la meme chose. Mais sur tout il devoit nommer Viete, quand il seroit vray meme qu’il ne l’eût jamais lû auparavant, comme il nous veut persuader dans une de ses lettres avec peu de vraisemblance.
+
+::: editorial
+
+(zu S. 2048) 2 problemes (1) des tangentes renversées. (2) de . . . tangentes L 5 ou . . . tomber erg. L 6 f. une (1) explication d’Algebre (2) equation d’un (a) certain degré (b) degré determiné, L 8 Geometrie, (1) en commençant son (2) il commence L 12 donné (1) avant luy (2) les L 12 f. fondemens (1) de ce que M. des Cartes donnoit (2) de . . . contenu L 14–18 anciens. (1) La maniere dont (2) Et . . . (a) l’assignations (b) l’assignation des lignes erg. . . . moins. L 19 f. est plus bornée, et erg. . . . l’esprit, erg. outre qu’il est plus bornée erg. u. gestr. est L 21 l’autre (1) . Car quand une (2) d’autant que lorsqu’une L 22 route; (1) et on peut dire que celle de des Cartes est bien plus embarassée, et (2) de L
+
+1 f. Vgl. III, 1 S. 584 f. 3 R. DESCARTES, Géometrie, livre 2 (A.T. VI, S. 412). 12 P. DE FERMAT, De locis planis et solidis linearibus et ad superficiem, [Ms.] 1636, in Oeuvres, hrsg. v. P. Tannery u. Chr. Henry, Bd 1, Paris 1891, S. 91–117.
+
+:::
+
+Quant à la dioptrique, il avoue dans ses lettres, que Kepler a esté son maistre dans cette science, et celuy de tous les hommes qui en avoit sçû le plus, cependant il n’avoit garde de le nommer dans ses ouvrages. Et bien moins Snellius dont il paroist avoir appris la veritable regle des refractions comme M. Isaac Vossius a decouvert. Il se donne bien de garde aussi de nommer Maurolycus et de Dominis, qui avoient ouvert le chemin à la decouverte des raisons de l’arc en ciel. C’est Kepler aussi qui avoit trouvé que la ligne dioptrique approchoit de l’Hyperbole, et un aussi habile Geometre que des Cartes, après avoir appris la regle de Snellius, pouvoit trouver aisement que c’estoit l’Hyperbole même. Kepler aussi a remarqué la rejection des mobiles par la tangente de la circulation, et le moyen d’expliquer la gravité par la similitude d’un tourbillon d’eau, dont l’agitation [p. 2050] dans un vaisseau fait aller vers le centre les petites raclures de bois et autres particules, qui sont moins solides que l’eau même; ce qui est le fondement de ce qu’il y a presque de meilleur dans la physique de des Cartes.
+
+::: editorial
+
+(zu S. 2049) 1 que (1) M (2) feu M. Harriot (3) dans les (4) l’ouvrage L 2 imprimé l’an 1631 erg. L 3 à (1) red (2) rien L 4 racines, (1) ensemble (2) qui L 4–11 Il . . . vraisemblance. erg. L 12 dans ses lettres erg. L 16 et M. Ant. gestr. de Dominis, L 18 dioptrique (1) devoit approcher (2) approchoit L 18 et (1) après avoir sçu la (a) dir (b) regle de Snellius (2) un L
+
+2 TH. HARRIOT, Artis analyticae praxis, hrsg. v. W. Warner, London 1631. 6–8 Vgl. G. CARDANO, Artis magnae sive de regulis algebraicis liber unus, Nürnberg 1545, fol. 22 vo; vgl. III, 1 S. 623 f. 6 f. G. CARDANO, Vita Ludovici Ferrarii Bononiensis. Unveröffentlicht. 10 f. comme . . . vraisemblance: vgl. N. 373. 12 f. Vgl. Descartes an Mersenne, 31. März 1638, Lettres, Bd 3, LXIX, S. 397 (A.T. II, S. 86). 14 SNELL VAN ROYEN, Les loix de la refraction (Manuskript). 15 Vgl. I. VOSSIUS, De lucis natura et proprietate, Amsterdam 1662, S. 36. 16 F. MAUROLICO, Photismi de lumine, et umbra ad perspectivam, et radiorum incidentiam facientes. Diaphanorum partes tres . . . in secundo de Iride . . . Problemata ad . . . Iridem pertinentia, Neapel 1611. 16 Vgl. M. A. DE DOMINIS, De radiis visus et lucis in vitris perspectivis et iride tractatus, Venedig 1611. 17 f. Vgl. J. KEPLER, Dioptrice seu demonstratio eorum, quae visui et visibilibus propter conspicilla non ita pridem inventa accidunt, 1611, prop. LIX. 20–S. 2050.3 Vgl. J. KEPLER, Astronomia nova, 1609, pars 3, cap. 34, und Epitome astronomiae Copernicanae, 1618, lib. 1, pars 4 (Caspar, 3, 1937, S. 242–246 u. 7, 1953, S. 75 f.)
+
+:::
+
+Après cela on ne s’etonnera point qu’il n’a pas nommé Gilbert, auteur de la Philosophie magnetique, dont les pensées sans doute luy ont donné des ouvertures considerables. Et encor moins le Chancelier Bacon, et Galilei qu’il consideroit comme des rivaux de la gloire de la restauration de la philosophie. Il dit malignement de Bacon que les voyes qu’il propose pour la connoissance de la nature demanderoient les revenues de trois grands Rois, mais les illustres Societés fondées par des grands princes, ont bien fait voir qu’on peut reussir à meilleur marché en suivant les avis de cet illustre Chancelier, qui n’avoit garde de donner dans le visionnaire. Il est bien vray que les experiences demandent des frais que les particuliers le plus souvent ne sont pas en estat de fournir, mais il est vray aussi que c’est une temerité d’esperer la connoissance du detail des corps naturels sans faire, ou sçavoir beaucoup d’experiences.
+
+La censure de Galilei n’a gueres plus de justice, il meprise ses pensées du mouvement, particulierement de celuy des corps pesans comme si elles estoient inutiles ou mal fondées. Cependant l’experience en a fait connoistre le grand usage. Et il parle des telescopes comme trouvés par hazard, à la honte des sciences pour donner en passant une atteinte à Galilei qui les avoit trouvés à force de raisonner sur le seul bruit de la decouverte de Hollande. Aussi Kepler a remarqué que Porta en avoit donné quelques lumieres qui estoient fondées plustost sur la raison que sur l’expérience et qui ont [p. 2051] peutestre servi à l’inventeur Hollandois. Et Kepler luy même par la force de son genie, a decouvert les Telescopes dont tous les verres sont convexes, et qui sont bien plus excellens que les autres.
+
+::: editorial
+
+(zu S. 2050) 1 les (1) sc (2) petites (a) pieces (b) raclures erg. L 2 qui sont erg. L 2 est presque gestr. le L 2 f. presque erg. L 3 f. des Cartes. (1) Les belles pensees du Chancelier Bacon n’ont jamais pû mentir que M de (2) Après L 7 de (1) l’inst (2) la L 8 pour (1) restauration (2) la L 9 Societés (1) royales (2) fondées L 10 f. en . . . visionnaire. erg. L 11 vray (1) cependant (2) que L 13 fournir, (1) et (2) mais . . . que L 13 d’esperer (1) la decouverte des causes (2) des (3) la L 13 f. connoissance (1) des particularités (a) de la nature sans (b) des cor (2) du detail (a) de la nature (b) des L 15 il (1) traite (2) parle de (3) meprise L 16 particulierement de celuy erg. L 17 ou mal fondées erg. en partie gestr. . Cependant L 17 l’experience (1) des pendules (2) en L 17 connoistre (1) la grande utilité (2) le grand usage. (a) Et pour luy supprimer la gloire qu’il avoit acquis en trouvant de son chef (b) Et L 18 hazard, (1) quoqu’il sçut bien que (2) à . . . sciences L 19 Galilei (1) qu’il sçavoit les avoir (2) qui L 19 à . . . raisonner erg. L 21–S. 2051.1 et . . . Hollandois. erg. (1) Aussi (2) Et L
+
+2 f. Vgl. R. DESCARTES, Principia philosophiae, III, 30 u. IV, 20 (A.T. VIII, S. 92 u. 212). 5 Vgl. W. GILBERT, De magnete, magnetisque corporibus, et de magno magnete tellure; physiologia nova, plurimis et argumentis, et experimentis demonstrata, London 1600. 7–9 R. DESCARTES, Les passions de l’ame, préface. (A.T. XI, S. 320). 20–S. 2051.1 J. KEPLER, Ad Vitellionem paralipomena, quibus astronomiae pars optica traditur, Frankfurt 1604, prop. XXVIII.
+
+:::
+
+Enfin des Cartes vouloit faire croire qu’il avoit peu leu, et qu’il avoit plustost employé son temps aux voyages et à la guerre, c’est à quoy tendent les contes qu’il fait dans sa Methode, mais on sçait qu’il avoit fait son cours dans le college, le style fait connoistre sa lecture; la guerre ne l’avoit gueres occupé qu’autant qu’il falloit pour n’y estre pas entierement ignorant. Et les voyages luy donnoient la commodité d’estudier et de voir les bons auteurs et les habiles gens.
+
+Ces defauts de ce philosophe, qui n’estoient que les effects d’une vanité trop ordinaire aux gens de lettres, ne nous doivent pas empecher d’honnorer son grand merite. Il avoit un talent merveilleux de se bien expliquer. Il a eu l’esprit d’amasser les meilleurs sentimens des anciens et modernes, quoyqu’il ne soit pas venu à bout des demonstrations qu’il promettoit touchant Dieu et l’ame, on luy est redevable d’avoir resuscité les contemplations de Platon et des Academiciens, et d’en avoir fait voir l’importance. Il faut avouer que ce qu’il dit de l’etendue, comme elle faisoit l’essence du corps, ne sçauroit estre soutenu même en philosophie, pour ne rien dire de la religion, il est vray neantmoins qu’il n’y a jamais d’etendue sans corps, et que le vuide ne se trouve point. Et quoyqu’il se trompe dans sa physique en posant pour fondement la conservation de la même quantité de mouvement, il a donné occasion par là à la decouverte de la verité, qui est la conservation de la même quantité de force, qu’on sçait estre différente du mouvement. On ne peut pas luy accorder que la lumiere consiste dans un simple commencement ou [p. 2052] dans une action in instanti, ny qu’il ait donné la vraye raison des loix de la refraction. Car s’il est vray que l’air à cause de sa flexibilité fait perdre une partie de la force comme le tapis celle du globule qui court là dessus, cette force perdue ne sera point rendue lorsque le rayon sort de l’air et retourne dans l’eau, cependant nous voyons que le rayon y reprend la premiere inclination. Son premier element et ses globules ne sçauroient subsister, mais les tourbillons en general sont une chose fort belle, et il a poussé plus avant ce que d’autres avoient commencé. Car chaque systeme ou corps particulier ne se maintient que par le mouvement de ses parties qui repoussent celles des corps voisins. Quoyqu’il y ait encor beaucoup de difficulté dans son explication du flux et reflux à cause de celles qui se trouvent dans le mouvement de la lune, il a pourtant dit ce qu’il y a de plus plausible. Aussi quoyqu’il y ait encor un grand scrupule sur son explication de l’aimant, parce qu’on n’en sçauroit tirer cette declinaison, et qui n’est pas si irregulière qu’on auroit cru en son temps, neantmoins il paroist avoir approché le plus de la vérité. Et tout son systeme du monde et de l’homme quelque imaginaire qu’il soit, est pourtant si beau qu’il peut servir de modelle à ceux qui chercheront les causes véritables. Il manquoit d’expérience. Il n’avoit pas assez de connoissance de la chymie, et ce qu’il dit des sels, des mineraux et autres corps sensiblement homogenes est trop sec. Mais son genie y suppleoit autant qu’il estoit possible. C’est grand dommage qu’il n’a pas vecu autant que M. Hobbes et M. Roberval, le genre humain luy auroit des grandes obligations, et il se seroit peutestre corrigé en bien d’endroits. Jouissons de ce qu’il a de bon sans nous entester de son système et de l’esprit de secte, mais surtout tachons de l’imiter en faisant des decouvertes. C’est là la véritable maniere de suivre les grands hommes et de prendre part à leur gloire sans leur rien derobber.
+
+::: editorial
+
+(zu S. 2051) 3 f. autres. (1) Je ne veux pas examiner icy tout la philosoph (2) Mais disons quelque chose de la doctrine même de M. des Cartes. Il y a (a) l’argume (b) bien des choses excellentes par ce qu’il a sçû s’accomoder des b (3) Enfin L 4 f. plustot (1) voya (2) esté aux voyages (3) employé (a) l’esprit (b) son temps erg. L 6 college, (1) que (2) qu’il ne manquoit pas son (3) le erg. L 11 aux . . . lettres, erg. L 11 nous (1) empech (2) doivent L 12 d’amasser (1) partout (2) les L 13 quoyqu’il (1) n’ait pas (2) ne L 14 qu’il (1) avoit proposé sur la nature des corps (2) promettoit L 15 avoir erg. L 15–18 Il . . . point. erg. L 21 force, (1) qui est autre chose (2) qu’on L 22–S. 2052.5 mouvement. (1) Et quoque ses globules et sa matiere subtile (2) On . . . simple (a) effort (b) commencement (aa) d’action in (bb) ou raison (aaa) de la ref (bbb) des . . . refraction. Car (aaaa) l’air (bbbb) s’il . . . comme (aaaaa) celle d’eau (bbbbb) le . . . rayon (aaaaaa) retourne de l’eau dans l’air (bbbbbb) sort . . . inclination. L
+
+1 Wohl gemeint Jacob Metius; vgl. VI, 3 S. 228. 1–3 Vgl. J. KEPLER, Dioptrice seu demonstratio eorum quae visui et visibilibus propter conspicilla non ita pridem inventa accidunt, Augsburg 1611, n. 86–89 (Caspar, 4, 1941, S. 387–389).
+
+:::
+
+::: editorial
+
+(zu S. 2052) 5 f. ne (1) puissent (2) sçauroient L 6 mais erg. L 7–9 Car . . . systeme (1) particu (2) ou voisins. erg. L 9 encor (1) quelque (2) beaucoup erg. L 10 cause (1) de difficul (2) de L 15 qui (1) trouveront (2) chercheront L 18 qu’il (1) est (2) estoit L 21 entester (1) d’une secte, et tachons d’avancer au dela de ce (2) de (a) sa (b) tous ses (c) son L 21 de (1) la secte (2) l’esprit L 22 faisant (1) quelque decouverte (2) des decouvertes. L 22 là (1) le vray (2) la L
+
+:::
+
+## [p. 2057] 376. NOTATA QUAEDAM G. G. L. CIRCA VITAM ET DOCTRINAM CARTESII [Frühjahr 1689 bis Herbst 1689 (?)]
+
+Überlieferung:
+
+L Konzept: LH IV 1, 4d1 Bl. 1–2. 1 Bog. 4o. 4 S.
+
+l1 verb. Reinschrift: LH IV 1, 4d1 Bl. 3–4. 1 Bog. 2o. 3 1/6 S.
+
+l2 verb. Reinschrift: LH IV 1, 4d1 Bl. 5–6. 1 Bog. 2o. 3 1/2 S.
+
+E1 Druck nach nicht gefundenem Manuskript: CHR. THOMASIUS, Historia sapientiae et stultitiae, Bd 2, April bis Juni 1693, Halle, Magdeburg 1693, S. 113–122. (Unsere
+
+Druckvorlage.)
+
+E2 GERHARDT, Philos. Schr. 4, 1880, S. 310–314 (nach l2 ).
+
+Weitere Drucke: 1. CHR. KORTHOLT, Epistolae ad diversos, Bd 3, Leipzig 1738, S. 388–396 (nach E1 ). 2. DUTENS 5, 1768, S. 393–396 (nach E1 ).
+
+Die Notata bilden die abschließende Überarbeitung von Bemerkungen, die Leibniz schon 1689 in Rom für Adrien Auzout aus dem Gedächtnis niedergeschrieben hatte. Auzout war von Claude Nicaise aufgefordert worden, Beiträge für die von Adrien Baillet geplante Descartes-Biographie zu liefern und hatte sich der Dienste Leibnizens versichert (vgl. Leibniz’ Brief an Adrien Auzout, April bis November 1689, III, 4 N. 220, S. 429 und an Gerhard Meier vom 16./26. Oktober 1690, I, 6 N. 127, S. 272). Von seinem beginnenden Romaufenthalt berichtet Leibniz auch Melchisedech Thevenot in einem Brief vom 24. April 1689, den Adrien Auzout beförderte (vgl. I, 5, N. 239a). Dasselbe italienische Papier und das mit N. 374 identische Wasserzeichen sowie der enge inhaltliche Zusammenhang stützen unsere Datierung.
+
+Notata quaedam G. G. L. circa vitam et doctrinam Cartesii
+
+Cartesius diu Flexiae in collegio Jesuitarum studiis operam dedit, juvenisque emendandae philosophiae consilium cepit post somnia quaedam et illud Ausonii diu expensum: quod vitae sectabor iter? Ita loquuntur ipsius schedae manuscriptae.
+
+Anno 1620. die 11. Novembr. notavit in schedis suis, ea die se coepisse intelligere fundamentum inventi mirabilis, quid illud sit, videor mihi conjicere; ipse in scriptis suis [p. 2058] non exposuit, quemadmodum nec publicavit methodum suam, sed tantum de ea scribere ejusque specimina dare voluit, ut ipse observat. Itaque valde falluntur, qui his, quae edidit, nimis contenti sunt, methodumque ejus se habere arbitrantur.
+
+::: editorial
+
+(zu S. 2057) 21 quaedam Historica erg. u. gestr. circa L 21 G. G. L. erg. l2 21 f. Cartesii , magnam partem ex ipsius (1) Msis (2) scriptis editis et ineditis gestr. L 21 Cartesii , opera Cl. Auzou erg. u. gestr. l2 22 diu Flexiae gestr. studiis L 22 diu Flexiae studiis l1 22 in Collegio Jesuitarum erg. l2 23 post (1) illud Ausonii (2) somnia L 24 Ita . . . manuscriptae erg. L 24 ipsius schedae manuscriptae l1, l2 25 Anno (1) 162.. die .. (dicerem exactius si a meis excerptis non abessem) L, l1, l2 (2) 1620. die XI. Novemb. l2 25 f. suis: (1) Hodie (2) ea die se coepisse intelligere fundamentum inventi mirabilis L
+
+22–24 juvenisque . . . manuscriptae: A.T. X, S. 216. Vgl. A. BAILLET, La vie de Monsieur Des-Cartes, Paris 1691, Bd 1, S. 81–85. 23 f. AUSONIUS, Eclogarum liber, II, 1. 25 f. notavit . . . mirabilis: A.T. X, S. 216.
+
+:::
+
+Der folgende Satz in Kleindruck wurde von Leibniz erst in l2 durch Einklammerung vom Druck ausgeschlossen:
+
+Filiam naturalem in Batavis habuit et ejus mortem impense luxit idque ipse notavit sua manu.
+
+Lipstorpius narrat, Cartesium in Germania cum Faulhabero insigni Mathematico et inprimis in numerorum doctrina versato contulisse et hunc admiratione juvenis fuisse captum.
+
+Quando Cartesius in Sueciam venerat, regina magis antiquitatis et historiae quam philosophiae studio capiebatur: ita Cartesius ad horas antelucanas remissus, ex insueto officio in morbum incidit. Audivi ex V. Cl. J. H. Boeclero, qui eodem tempore in Suecia fuit, pleuriticum interiisse, quod ipse suas quasdam rationes secutus sanguinis missionem sprevisset aut distulisset.
+
+Fuit in Cartesio major librorum usus quam ipse videri volebat: hoc stylus et res ipsae docent. Praeclare in rem suam vertit aliorum cogitata, quod vellem non dissimulasset, eaque res ipsi in Suecia cum eruditis concertationes peperit.
+
+Dogmata ejus metaphysica, velut circa ideas a sensibus remotas, et animae distinctionem a corpore, et fluxam per se rerum materialium fidem, prorsus platonica sunt. [p. 2059] Argumentum pro existentia Dei, ex eo, quod ens perfectissimum, vel quo majus intelligi non potest, existentiam includit, fuit Anselmi et in libro contra insipientem inscripto inter ejus extat opera, passimque a Scholasticis examinatur. In doctrina de continuo, pleno et loco Aristotelem noster secutus est, Stoicosque in re morali penitus expressit, floriferis ut apes in saltibus omnia libans. In explicatione rerum physicarum mechanica Leucippum et Democritum praeeuntes habuit, qui et vortices ipsos jam docuerant. Jordanus Brunus easdem fere de magnitudine universi ideas habuisse dicitur, quemadmodum et notavit V. Cl. Stephanus Spleissius, ut de Gilberto nihil dicam, cujus magneticae considerationes tum per se tum ad systema universi applicatae, Cartesio plurimum profuere.
+
+::: editorial
+
+(zu S. 2058) 1 exposuit, (1) non enim (2) quemadmodum nec L 1 suam Methodum, L 2 f. Itaque . . . sunt erg. L methodumque . . . arbitrantur erg. l2 7 f. insigni Arithmetico contulisse, et L 10 magis antiquitatum et L, l1, l2 11 f. capiebatur, et Cartesius (1) horas (2) ad horas (a) nascentis diei (b) matutinas (c) auroram praevenientes (d) antelucanas remissus, (aa) inde (bb) in (cc) in obsequio (dd) ex insolito officio L 12 incidit. (1) Intellexi a Boeclero (2) Audivi L 13 fuit, (1) neglecta (a) sanguinis missione (b) aut dilata sanguinis missione (2) pleuriticum L 13 ipse (1) suis quibusdam rationibus motus (2) suas . . . secutus L 16 Praeclare (1) usus est pulcherrimis aliorum cogitatis (2) in rem suam vertit pulcherrima aliorum cogitata L 16 vertit pulcherrima aliorum l1, l2 16 quod mallem non L 17–19 dissimulasset. Eaque . . . peperit erg. (1) P (2) Contin (3) Substantiae (4) Animae (5) Dogmata ejus (a) circa animae distinctionem a materia, (b) Metaphysica, veluti . . . corpore, (aa) et fidem sensu (bb) et L 19–S. 2059.3 sunt. (1) Argu (2) Modus (3) Argumentum . . . perfectissimum, seu quo . . . potest (a) perfe (b) existentiam . . . Anselmi (aa) qui titulo libri (bb) et . . . examinatur. erg. (aaa) Plenum (bbb) doctrinam (ccc) In L
+
+6 Sua manu: Leibniz’ Quelle nicht mehr zu ermitteln, vgl. auch BAILLET, a.a.O., Bd. 2, S. 89–91. 7–9 D. LIPSTORP, Specimina philosophiae cartesianae, Lyon 1653, pars II, S. 78 f. 12–14 Leibniz hat Boeckler im Sommer 1671 in Straßburg besucht.
+
+:::
+
+Explicationem gravitatis per materiae solidioris rejectionem in tangente, (quod in Physica Cart. prope pulcherrimum est,) didicit ex Keplero, qui similitudine palearum motu aquae in vase gyrantis ad centrum contrusarum rem explicuit primus. Actionem lucis in distans similitudine baculi pressi jam veteres adumbravere. Circa Iridem a M. Antonio de Dominis non parum lucis accepit.
+
+Keplerum fuisse primum suum in dioptricis magistrum, et in eo argumento omnes ante se mortales longo intervallo antegressum, fatetur Cartesius in Epistolis familiaribus; [p. 2060] nam in scriptis, quae ipse edidit, longe abest a tali confessione aut laude, tametsi illa ratio, qua radiorum directionem explicat ex compositione nimirum duplicis conatus perpendicularis ad superficiem et ad eandem paralleli, diserte apud Keplerum extet, qui eodem ut Cartesius modo aequalitatem angulorum incidentiae et reflexionis hinc deducit. Idque gratam mentionem ideo merebatur, quod omnis prope Cartesii ratiocinatio huic innititur principio. Legem refractionis primum invenisse Willebrordum Snellium, Isaacus Vossius patefecit, quanquam non ideo negare ausim, Cartesium in eadem incidere potuisse de suo.
+
+::: editorial
+
+(zu S. 2059) 4 noster erg. L 4 f. Stoicosque . . . libans erg. (1) Explicatio rerum Physicarum Mechanica (a) est (aa) Democritica (bb) consentanea (b) Leucippi aut Democriti (2) In L 6 habuit (1) . Idem de Magnitudine Universi et a (2) , qui L 6 Brunus (1) in libro de infinito (2) easdem L 7 habuisse (1) creditur, (2) videtur, quemadmodum L 7 habuisse videtur l1, l2 8–10 Spleissius. (1) In (a) Opticis (b) Dioptricis fate (2) Explicationem L 8 f. ut . . . applicatae plurimum erg. Cartesio profuere erg. l2 10 f. per rejectionem a tangente materiae solidioris L, l1 (quod (1) fere pulcherrimum (2) in Physica Cartesiana prope pulcherrimum est) erg. L 10 materiae solidioris erg. l2 10 tangente materiae solidioris gestr. (quod l2 11 ex Keplero l1, l2 11 f. similitudine (1) paleae per aquae in vase giratae motum in centrum contrusae (2) palearum . . . contrusarum L 12 f. rem explicat. (1) Explicationem (2) Actionem lucis per distans similitudine baculi pressi erg. jam (a) apud (b) veteres (aa) habetur (bb) explicu〈 – 〉 (cc) adumbravere. erg. L 14 f. Dominis (1) aliquid (2) non parum lucis (a) accepisse censetur. (b) accepit. E (aa) Fatetur ipse in Epistolis familiaribus erg. Keplerum fuisse (: nam in Scriptis (aaa) quae ipse edidit longe abest a (bbb) neminem (bb) Keplerum L 15 Magistrum (1) fatetur in (2) et in eo (a) genere (b) argumento L 16 intervallo (1) superasse (2) reliquisse 〈aut〉 (3) antegressum L
+
+2 ANSELM VON CANTERBURY, Liber contra insipientem. Vgl. N. 129. 4 f. floriferis . . . libans: vgl. LUCRETIUS, De rerum natura, III, 11. 6 f. Wohl gemeint G. BRUNO, De immenso et innumerabilibus, seu de universo et mundis. Vgl. N. 384. 8 Vgl. I, 6 N. 127, S. 272. 8 f. Vgl. W. GILBERT, De magnete magnetisque corporibus, et de magno magnete tellure; physiologia nova, plurimis et argumentis, et experimentis demonstrata, London 1600. 10–12 Vgl. R. DESCARTES, Principia philosophiae, III, 30 u. IV, 20 (A.T. VIII, S. 92 u. 212) und J. KEPLER, Astronomia nova, 1609, pars 3, cap. 34, sowie Epitome astronomiae Copernicanae, 1618, lib. 1, pars 4 (Caspar, 3, 1937, S. 242–246 u. 7, 1953, S. 75 f.) 14 M. A. DE DOMINIS, De radiis visus et lucis in vitris perspectivis et iride tractatus, Venedig 1611. 16 Vgl. Descartes an Mersenne, 31. März 1638 (R. DESCARTES, Lettres, Bd 3, LXIX; A.T. II, S. 86). Vgl. N. 374.
+
+:::
+
+Negavit in epistolis, Vietam sibi lectum, sed Thomae Harrioti Angli libros analyticos posthumos anno 1631. editos vidisse, multi vix dubitant; usque adeo magnus est eorum consensus cum calculo Geometriae Cartesianae. Sane Harriotus aequationem jam nihilo aequalem posuit, et hinc derivavit, quomodo oriatur aequatio ex multiplicatione radicum in se invicem,[^2060-1] et quomodo radicum auctione, diminutione, multiplicatione aut divisione variari aequatio possit, et quomodo proinde natura et constitutio aequationum et radicum cognosci possit ex terminorum habitudine. Itaque narrat celeberrimus Wallisius, Robervallium, qui miratus erat, unde Cartesio in mentem venisset, palmarium illud, aequationem ponere aequalem nihilo ad instar unius quantitatis, ostenso sibi a Domino de Cavendish libro Harrioti exclamasse: il l’a veu, il l’a veu, vidit, vidit. Reductionem [p. 2061] quadrato-quadraticae aequationis ad cubicam superiore jam seculo invenit Ludovicus Ferrarius, cujus vitam reliquit Cardanus, ejus familiaris.
+
+[^2060-1]: In L am Rande, gestrichen: Quae Cartesio potissimum debentur haec esse arbitror in Metaphysicis agnovisse quod corpus in animam aut anima in corpus non agat.
+
+::: editorial
+
+(zu S. 2060) 1–6 laude, (1) cum (2) tametsi . . . qua (a) Cartesius a (b) ipse (aa) re (bb) aequationem anguli incidentiae et (cc) radiorum . . . compositione duplicis . . . et ad (aaa) superficiem (bbb) eandem erg. paralleli . . . mentionem vel ideo . . . principio innititur. erg. Legem L 6 Legem Refractionis a Cartesio publicatam primum L 6 f. Isaacus erg. L 8 f. suo. (1) Negat (2) Negavit E in Epistolis erg. (a) se legisse (b) Vietam (aa) se legisse (bb) sibi lectum L 9 f. libros anno 1631 erg. u. gestr. (1) legisse (2) Analyticos posthumos anno 1631 editos erg. (a) legisse (b) vidisse erg. L 11 est ibi erg. consensus cum (1) Alg (2) Analysi (3) calculo Geometriae Cartesianae. Sane (a) quod (b) Harriotus jam aequationem nihilo L 12 derivavit (1) plu (2) quomodo L 13 quomodo radicum (1) aequatione (2) auctione (a) aut (b) diminutione L 14 et (1) a terminis quibusdam liberari (2) quomodo (a) inde (b) proinde erg. L 15 radicum (1) comparando (2) agnosci (a) possit (b) queat L (3) cognosci possit l2 16 celeberrimus erg. L 17 f. ad . . . quantitatis erg. L 18 Dom. de Cavendish l1, l2 19–S. 2061.5 veu vidit, vidit erg. l1, l2 . Reductionem . . . Cardanus ejus familiaris erg. . Denique (1) jam ab aliis notatum (2) fuit . . . immodicus (a) spem (b) contemtor . . . possunt. erg. L 21 quod (1) substantia (2) corpus L
+
+6 f. SNELL VAN ROYEN, Les loix de la refraction (Manuskript); I. VOSSIUS. Vgl. N. 373 u. N. 374. 9 Negavit . . . lectum: vgl. N. 373. 9 f. TH. HARRIOT, Artis analyticae praxis, hrsg. v. W. Warner, London 1631. Vgl. N. 374. 16–19 Vgl. J. WALLIS, A treatise of Algebra, Oxford 1685, Praefatio (De Harrioto Addenda). Vgl. III, 1 S. LXVII u. 391. 19–S. 2061.2 Vgl. G. CARDANO, Artis magnae sive de regulis algebraicis liber unus, Nürnberg 1545, fol. 22 vo. Vgl. III, 1 S. 623 f.
+
+:::
+
+Denique fuit Cartesius, ut a viris doctis dudum notatum est, et ex epistolis nimium quantum apparet, immodicus contemtor aliorum et famae cupiditate ab artificiis non abstinens, quae parum generosa videri possunt.
+
+Atque haec profecto non dico animo obtrectandi viro, quem mirifice aestimo, sed eo consilio, ut suum cuique tribuatur, nec unus omnium laudes absorbeat; justissimum enim est, ut inventoribus suus honos constet, nec sublatis virtutum praemiis praeclara faciendi studium refrigescat. Et vellem ego propositionum aut dogmatum, quae majoris momenti sunt, autores semper memorari exemplo Mathematicorum, qui Pythagorae, Platonis, et Archimedis, et Euclidis, et Apollonii, et Nicomedis, et Dinostrati, et tot aliorum merita singulatim perpetua mentione recognoscunt.
+
+Optarim etiam, viros insignes spem inanem arripiendae tyrannidis in imperio philosophico deponere, et sectae condendae ambitionem exuere; unde inepta partium studia et bella literaria vanissima nasci solent magno scientiae et pretiosi temporis detrimento. Non distinguuntur apud Geometras Euclidei, Archimedei aut Apolloniani. Omnium eadem secta est, sequi aperientem se undecunque veritatem. Neque unquam quisquam orietur, qui totum sibi vindicabit patrimonium eruditionis, aut qui genus humanum ingenio superabit, et omnes praestinguet stellas exortus ut aetherius sol. Legamus Cartesium, laudemus etiam, imo admiremur; sed non ideo reliquos negligamus, apud quos multa et magna extant, quae Cartesius non animadvertit.
+
+Nihil magis profectui scientiarum obstat, quam nimium et servile in philosophia studium τωÄ ν παραϕραζοÂ ντων, neque aliam magis ob causam fieri arbitror, quod raro [p. 2062] aliquid egregium et novum a meris Cartesianis profertur, non magis quam a meris Aristoteleis, non ingenii sane defectu, sed vitio sectae. Quemadmodum enim imaginatio una melodia nimis occupata aegre ad aliam canendam convertitur, et qui tritam alteri viam insistit, raro in nova incidit: ita qui uni autori insuevere, mancipia sunt doctoris sui quasi usu capta, aegreque animum ad aliquid novi et diversi attollunt, cum tamen constet, non alia re magis incrementum accepisse scientias, quam varietate itinerum, quae in veritate investiganda diversi iniere.
+
+::: editorial
+
+(zu S. 2061) 7 nec . . . absorbeat erg. (1) . Vellem enim viros doctos tandem aliquando inanem persuasionem deponere, (a) sibi (b) al (c) omnes aliorum l (d) erig (2) . Justissimum L 8 f. constet. Et vellem L 9 aut dogmatum erg. L 10 Pythagorae, et Platonis et erg. L 11 f. et (1) suas cuique laudes (a) 〈sua〉 (b) illibatas asserunt (2) tot . . . merita (a) sigill (b) singulatim . . . (aa) agnoscunt. L (bb) recognoscunt. l1 14–16 condendae (1) ambitione carere (2) ambitionem exuere unde . . . et (a) vana (b) bella . . . magno (aa) detrimento temporis (bb) scientiae . . . detrimento L 16 Non (1) alii sunt (a) in j (b) apud Geometras Euclidei, alii Archimedei, alii (2) distinguuntur . . . aut L 18 quisquam (1) erit (2) orietur erg. qui patrimonium (a) verum aut doctrinae aut (b) eruditionis aut erg. L 19 omnes praestringet stellas L 20 ideo (1) alios (2) reliquos L 21 multa et erg. L 22 profectui (1) extant (2) obstat scientiarum, quam (a) servilis imitatio (b) nimium et erg. servile in philosophia erg. L 23–S. 2062.3 παραϕραζοÂ ντων: (1) Et quemadmodum (a) animus occupatus (b) occupata imaginatio certo quodam melodiae genere aegre erit (2) Neque . . . egregium et novum erg. . . . sane, sed . . . sectae. (a) Ut erg. l1(b) Quemadmodum enim erg. l2 imaginatio una melodia occupata L
+
+2 G. CARDANO, Vita Ludovici Ferrarii Bononiensis. Unveröffentlicht.
+
+:::
+
+Subjiciam nonnulla, quae mihi inter cogitata Cartesio ipsi debita inprimis laudanda videntur. In Geometricis ut hinc ordiar, recte docuit (post Soverum tamen Germanum obiter hoc perstringentem) aliam longe esse conchoëidis et similium aequatione explicabilium quam spiralis naturam, et male a veteribus lineas altiorum aequationum excludi. Primus etiam animadvertit negativas radices non modo, sed et imaginarias seu impossibiles utiliter considerari et aequationes solvere; adeoque in universum tot esse radices, quot dimensiones aequationis. Comparatio aequationum licet ab aliis non nihil usurpata, ab ipso tamen promota est egregie. Pulchre quoque notavit in tangentium problematibus et similibus duas esse radices aequales. Proprietates, quas invenit Hyperboles, Ellipseos [p. 2063] et ovalium altiorum ad usum catoptricum et dioptricum, theoriae gratia egregiae sunt. In Metaphysicis argumenta Scepticorum ad bonum usum praeclare traduxit. In Physicis agnovit materiae partes aliquas actu subdividi sine fine, item motum seu loci mutationem esse aliquid in se relativum. Debetur ipsi vorticum a veteribus coeptorum distinctior explicatio, et ad Philosophiam Gilberti magneticam applicatio; Tentamentum praeclarum circa aestum maris; Explicatio iridis aliorumque Emphaticorum, et specimen elegans ratiocinandi circa genesin salis. Et in multis aliis etiam ubi non assentior, ipsum philosophandi filum mirifice placet: et sane vix pagina apud ipsum occurrit, unde non utile aliquid et novum disci possit, itaque in his referendis sum parcior.
+
+::: editorial
+
+(zu S. 2062) 3 canendam erg. L 3 tritam (1) ab aliis (2) alteri erg. L 4 insistit, (1) raro (2) non aeque in nova incidit quam qui per semotos calles (a) aditum 〈 – 〉 (b) nullis vestigiis signatos incedit (3) raro erg. L 4 qui (1) unum autorem (2) unius autoris cogitatis assuefece, (3) uni autori (a) assuevere (b) insuevere erg. (aa) praeter opinionem mancipia sunt doctoris (bb) doctoris sui mancipia fiunt, (cc) mancipia L 6 magis (1) profecisse (2) incrementum (a) cepisse (b) accepisse L 6 f. in . . . investiganda erg. L 7 f. iniere. Utinam viri docti mallent proferre pomoeria scientiarum, quam eadem revolvendo actum agere. erg. Subjiciam nonnulla, erg. L 8 f. mihi (1) ex cogitatis Cartesio ipsi debitis (a) im (b) inprimis (aa) aestimanda (bb) laudanda (2) inter . . . laude digna videntur L 9 f. Geometricis recte (1) admonuisse (2) docuit (post Soverum tamen obiter hoc perstringentem erg. ), L 9 f. tamen obiter l1, l2 10 f. aequatione explicabilium erg. l2 11–14 et (1) has illas (2) non has in Geometriam (3) illas non has problematibus construendis recte adhiberi. (4) male a veteribus (a) has lineas altiores l1(b) lineas . . . aequationum l2excludi. Primus etiam animadvertit radices non negativas tantum sed . . . aequationis erg. L 14 aequationum etsi nonnihil ab aliis usurpata L 16–S. 2063.1 Proprietates (1) dioptricae et catoptricae (2) quas invenit Ellipseos erg. . . . altiorum (a) egregiae (b) in usu catoptrico et dioptrico egregiae L
+
+8–S. 2063.9 Leibniz ändert die ursprüngliche Reihenfolge seiner Bemerkungen zu den Disziplinen In Metaphysicis, In Physicis, In Geometricis im Konzept L durch entsprechende Kustoden zunächst in die Reihenfolge In Metaphysicis, In Geometricis, In Physicis. In l1, l2 und im Druck erscheint dann die obige Reihenfolge In Geometricis, In Metaphysicis, In Physicis.
+
+:::
+
+Denique addam aliqua, quae nonnihil offendunt. Jactavit sub initium Geometriae suae, universa problemata ad radices aequationum certi cujusdam gradus a se reducta esse, adeoque in potestate haberi. Negavit possibilitatem dimensionis curvarum, quae tamen postea deprehensa. Lineas transcendentes (ut voco) exclusit a Geometria. Linearum problematibus solvendis idonearum gradus male constituit notante Fermatio. Refractionum naturam perverse explicuit similitudine globuli in tapete vim perdentis, ut defenderet plus aërem resistere quam aquam. Quantitatem motus male pro quantitate potentiae motricis accepit et ideo servandam putavit. Materiam cum extensione confudit; Unionem [p. 2064] seu firmitatem a quiete derivavit, quae a motu est; elementa sua, globulos inprimis, quos vocant, secundi elementi et particulas striatas aliaque similia gratis et frustra confinxit. Vortices cievit immensa celeritate distantiis proportionali. Porro brutis sensum negat; fictorum potius quam verorum animalium genesin explicat. Et ut ad graviora veniam, rejecit argumentum divinitatis a providentia et dignis sapiente finibus rerum, et pro rationibus captu facilioribus metaphysica sola substituit. Dubitationem ad ipsas primas assertiones maxime manifestas, nescio quo consilio produxit, quasi nihil certo sciri possit, nisi supposita Dei existentia, quod ipsum credidisse nemo credet; aut quasi veritas ipsa pendeat ab arbitrio Dei, ita ut voluntate ejus constitutum sit, trianguli tres angulos esse duobus rectis aequales. Insinuasse videtur, unum in rebus actorem esse Deum, quo abusus Spinosa unam tantum substantiam in rebus esse voluit, ipsum scilicet Deum hoc est (ipsi) naturam universi, cujus caeterae res sint modi [ut figurae sunt modi] materiae. Statuit etiam Cartesius, materiam omnes successive formas accipere; ita ut nihil tam absonum fingi possit, quin tandem aliquando aut alicubi in universo contingat, quod est haud dubie per consequentiam omnem sapientiae et pulchritudinis rationem (ne dicam providentiam) tollere; quanquam ipsi hanc consequentiam non imputem, nec ab ipso animadversam sperem. Aliaque hujusmodi, quae puto, defendi non posse, et nonnihil Spinosae praelusisse.
+
+::: editorial
+
+(zu S. 2063) 2 Metaphysicis (1) agnovisse, quod Actio animae in (a) corpus (b) materiam aut contra intelligi non possit (2) argumenta . . . praeclare (a) traduxisse (b) traduxit L 2 f. Physicis agnovisse erg. : (1) materiam (2) materiae (a) partem (b) aliquas partes actu L 3 f. fine, item erg. Motum seu loci mutationem. erg. in se esse aliquid relativum; Vorticum a veteribus (1) positorum (2) coeptorum l1 distinctior L 5 f. applicatio, tentamenta circa L 6 f. Emphaticorum. (1) In mul (2) Tentamentum (a) praeclarum erg. (b) elegans l1(3) specimen elegans ratiocinandi l2 circa (a) explicationem (b) genesin L 8 f. philosophandi (1) specimen (2) filum l2 mirifice placet. Et . . . possit, unde in . . . parcior erg. L 10–S. 2064.6 Denique adjiciam aliqua erg. quae me aliosque gestr. nonnihil offendunt: jactasse sub . . . Geometriae omnia problemata a se ad radices aequationum certi gestr. cujusdam gradus reducta . . . haberi. Negasse possibilitatem . . . transcendentes (1) et problema (2) (ut voco) exclusisse a Geometria; . . . male constituisse, ut ostendit Fermatius; refractionum (a) Hypothesin male (b) naturam perverse explicuisse, similitudine . . . quam vitrum. (aa) Negasse sensum brutis (bb) Quantitatem motus pro . . . motricis accepisse, et ideo servandam putasse (quod erroneum (aaa) Quietem (bbb) esse a me ostensum est). Materiam cum extensione confudisse. erg. Unionem a quiete derivasse, quae a motu est, (ut exemplo fusi alabastrini pulveris intelligi potest,) Materiam primum in partes solidas aequales divisisse, (aaaa) et ex harum ramentis (bbbb) has deinde in motum concitasse et hinc partim ramenta subtilis materiae, partim globulos secundi elementi fabricasse, et vortices civisse celeritate immensa distantiis proportionali. Brutis sensum negasse, fictorum . . . animalium structuram 〈et〉 genesin explicuisse et a vero motu cordis (aaaaa) recessisse (bbbbb) deflexisse. Et ut ad majora veniam, erg. rejecisse argumentum divinitatis erg. a providentia et dignis sapiente erg. finibus rerum, rationibus erg. metaphysicis solis erg. substitutis; dubitationem L 11 certi erg. l2 13 tamen erg. L
+
+:::
+
+Sed ista tamen omnia minime impediunt, quin Cartesium inter maximos viros censeamus, qui generis humani opes auxere atque etiam inter errandum prosunt. Itaque Pythagoram, Democritum, Platonem, Aristotelem, Copernicum, Galilaeum, Baconum et [p. 2065] Cartesium (quibus Joachimum Jungium adderem, si scripta ejus extarent,) aliosque, qui sibi homines immortalibus meritis obstrinxere, tamdiu colet posteritas, quamdiu memoria historiis, et virtuti veneratio erit.
+
+::: editorial
+
+(zu S. 2064) 4 Genesin et structuram explicat, et l1, l2 6–8 ipsas (1) veritates (2) assertiones primas et maxime manifestas nescio quo consilio erg. produxisse quasi (a) veritates (b) Deus etiam (c) nihil . . . existentia aut quasi erg. L 9 pendeat a Deo voluntate, ita ut arbitrio ejus L 10 Insinuasse unum L 11 f. Deum (1) seu Naturam (2) hoc est (a) Na (b) (ipsi) L 12 universi erg. l2 12 f. cujus (1) caetera (2) creaturae (3) caeterae res erg. sint tantum modi ut figurae sunt modi materiae erg. (a) Sustuli (b) Negasse sensum brutis, materiam cum extensione confudisse. Materiam primum ut erg. Globulos illos secundi elementi fabricasse; (aa) et (bb) item erg. vorticem cievisse celeritate immensa distantiis a centro erg. proportionali. (c) Velle (d) Statuit etiam Cartesius L 12 ut . . . modi erg. Hrsg. nach L, l1, l2 13 f. tam (1) mirum (2) absonum erg. L 15 per consequentiam erg. l2 15 f. (ne dicam providentiam) erg. l2 16 f. tollere Quantitatem motus pro quantitate potentiae motricis accepisse, et ideo servandam putasse (quod erroneum esse a me ostensum est) gestr. aliaque hujusmodi quae (1) non puto (a) pro (b) defendi posse (2) puto . . . posse. erg. L 16 f. quanquam . . . sperem; erg. l2 17 hujusmodi habet, quae l2 17 f. et Spinosae praelusisse erg. l2 19 Sed (1) haec (2) ista L 19 f. omnia non impediunt, quin ego Cartesium . . . viros censeam, qui (1) junx (2) lucem attulere (3) generis . . . etiam (a) errando prof (b) inter . . . prosunt. (aa) Scilicet (bb) Itaque L 21–S. 2065.3 Aristotelem, Archimedem, Copernicum erg. Galilaeum (1) et Cart (2) Baconum . . . (quibus Jungium . . . extarent,) (a) perpetua omnium seculorum veneratione (b) aliosque qui nescii erg. u. gestr. (aa) sibi (bb) ses (cc) sibi . . . et virtuti erg. veneratio (aaa) supererit (bbb) constabit (ccc) erit. L
+
+:::

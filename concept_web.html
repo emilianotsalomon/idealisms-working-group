@@ -1,0 +1,378 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Concept web · Idealisms Working Group</title><style>
+:root{--paper:#f6f3ec;--card:#fffdf8;--ink:#1f1c17;--muted:#6e675b;--accent:#7a2a22;--line:#e3dccd;--orig:#f0ebdf;--shadow:0 1px 2px rgba(60,40,10,.06)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#161511;--card:#1e1c17;--ink:#e8e2d6;--muted:#9c9484;--accent:#d49287;--line:#2c2922;--orig:#242119;--shadow:none;color-scheme:dark}}
+:root[data-theme=dark]{--paper:#161511;--card:#1e1c17;--ink:#e8e2d6;--muted:#9c9484;--accent:#d49287;--line:#2c2922;--orig:#242119;--shadow:none;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;font-size:17px;line-height:1.55}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.top .in{margin:0 auto;max-width:1100px;padding:.6rem 1rem;display:flex;gap:1rem;align-items:baseline}
+.top h1{font-size:1.1rem;font-weight:normal;margin:0}
+.top .back{font-size:.85rem;letter-spacing:.03em;text-transform:uppercase}
+.th{margin-left:auto;font:inherit;font-size:.95rem;line-height:1;width:2rem;height:1.75rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--muted);cursor:pointer}
+.wrap{margin:0 auto;padding:1rem 1rem 5rem;max-width:1100px}
+.hero h2{font-size:1.8rem;font-weight:normal;margin:.8rem 0 .3rem}.hero p{margin:0 0 .5rem;color:var(--muted);max-width:68ch}
+details.how{color:var(--muted);font-size:.9rem;max-width:72ch;margin:.2rem 0 .6rem}details.how summary{cursor:pointer;color:var(--accent)}details.how p{margin:.4rem 0}
+/* controls */
+.controls{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:.8rem 0 .4rem}
+input,select,button{font:inherit}
+#q{font-size:1rem;padding:.5rem .75rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);flex:1 1 18rem;min-width:0}
+select,.yr input{font-size:.85rem;padding:.35rem .45rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);max-width:100%}
+.yr{display:flex;align-items:center;gap:.3rem;font-size:.85rem;color:var(--muted)}.yr input{width:4.6rem}
+label.ck{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:.3rem;cursor:pointer}
+.status{color:var(--muted);font-size:.9rem;margin:.3rem 0 .2rem;min-height:1.4em}
+.status b{color:var(--ink);font-weight:normal}
+.cpick{display:inline-block;border:1px solid var(--accent);color:var(--accent);border-radius:999px;padding:0 .5rem;margin:0 .2rem .2rem 0;font-size:.85rem}
+/* tabs */
+.tabs{display:flex;gap:1.6rem;border-bottom:1px solid var(--line);margin:.6rem 0 .8rem}
+.tabs button{font-size:1rem;border:0;background:transparent;color:var(--muted);padding:.5rem 0;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}.tabs button[aria-selected=true]{color:var(--ink);border-bottom-color:var(--accent)}
+/* list */
+.row{display:grid;grid-template-columns:1fr auto;gap:.2rem 1.2rem;padding:.55rem .4rem;border-bottom:1px solid var(--line);align-items:baseline;cursor:pointer;border-radius:6px}
+.row:hover,.row.sel{background:var(--orig)}
+.row .t{font-size:1.02rem;min-width:0}.row .m{color:var(--muted);font-size:.82rem;white-space:nowrap;text-align:right}
+.row .uses{color:var(--ink);font-variant-numeric:tabular-nums;margin-right:.5rem}
+.chip{display:inline-block;font-size:.7rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:0 .5rem;margin-left:.35rem;vertical-align:middle;white-space:nowrap}
+.nb .s.weak{opacity:.5}
+.chip.link{color:var(--accent);border-color:var(--accent)}
+.dot{display:inline-block;width:.6rem;height:.6rem;border-radius:50%;margin-right:.3rem;vertical-align:baseline}
+.empty{color:var(--muted);padding:1rem .4rem}
+.more{color:var(--muted);padding:.6rem .4rem;font-size:.9rem}
+/* detail */
+.detail{scroll-margin-top:4rem;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:1rem 1.2rem;margin:0 0 1.2rem}
+.detail h3{outline:none;font-size:1.2rem;font-weight:normal;margin:0 2rem .2rem 0;line-height:1.3}
+.detail .meta{color:var(--muted);font-size:.88rem;margin:0 0 .5rem}
+.detail .close{float:right;font-size:1.3rem;line-height:1;border:0;background:transparent;color:var(--muted);cursor:pointer;padding:0 .2rem}
+.detail h4{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:normal;margin:1rem 0 .2rem}
+.detail .hint{font-size:.8rem;color:var(--muted);margin:0 0 .3rem}
+.term{display:inline-block;font-size:.8rem;border:1px solid var(--line);border-radius:999px;padding:0 .5rem;margin:.12rem .2rem .12rem 0;color:var(--ink);background:transparent;cursor:pointer}
+.term:hover{border-color:var(--accent);color:var(--accent)}.term small{color:var(--muted)}
+.nb{list-style:none;margin:0;padding:0}
+.nb li{display:grid;grid-template-columns:1fr 4.5rem;gap:.1rem .8rem;padding:.4rem .3rem;border-bottom:1px solid var(--line);cursor:pointer;border-radius:4px}
+.nb li:hover{background:var(--orig)}.nb li:last-child{border-bottom:0}
+.nb .who{min-width:0}.nb .who i{color:var(--muted)}
+.nb .s{font-size:.82rem;color:var(--accent);font-variant-numeric:tabular-nums;text-align:right}
+.nb .bar{display:block;height:3px;background:var(--accent);opacity:.55;border-radius:2px;margin:.25rem 0 0 auto}
+.nb .terms{grid-column:1/-1}
+.nb.cross{border-left:3px solid var(--accent);padding-left:.5rem}
+/* timeline */
+#chart{border:1px solid var(--line);border-radius:10px;background:var(--card);position:relative;margin:0 0 1rem}
+#chart svg{display:block;width:100%}
+#chart .axis text{font-family:system-ui,sans-serif;font-size:11px;fill:var(--muted)}
+#chart .axis line,#chart .axis path{stroke:var(--line)}
+#chart .lab{font-family:system-ui,sans-serif;font-size:11px;fill:var(--muted)}
+#chart circle{cursor:pointer}
+.legend{display:flex;flex-wrap:wrap;gap:.3rem .8rem;padding:.5rem .8rem;border-top:1px solid var(--line);font-size:.8rem}
+.legend button{border:0;background:transparent;color:var(--muted);cursor:pointer;padding:.1rem .2rem;border-radius:4px;display:flex;align-items:center}
+.legend button[aria-pressed=true]{color:var(--ink);background:var(--orig)}
+.cap{font-size:.82rem;color:var(--muted);padding:.4rem .8rem 0}
+#tip{position:absolute;pointer-events:none;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:.3rem .55rem;font-size:.82rem;z-index:6;max-width:20rem;box-shadow:var(--shadow);display:none}
+.hidden{display:none!important}
+@media(max-width:600px){body{font-size:16px}.row{grid-template-columns:1fr}.row .m{text-align:left}.hero h2{font-size:1.5rem}}
+</style>
+<script>try{var d=document.documentElement,t=localStorage.getItem('iwg-theme');if(t)d.dataset.theme=t}catch(e){}</script>
+</head><body>
+<div class="top"><div class="in"><a class="back" href="index.html">← Library</a><h1>Concept web</h1>
+<button id="theme" class="th" title="Light or dark" aria-label="switch between light and dark">☾</button></div></div>
+<main class="wrap">
+<div class="hero"><h2>Concept web</h2>
+<p>Which works use a concept, and which works are closest to one another by the concepts they share, within a tradition and across traditions and languages.</p>
+<details class="how"><summary>How to read it</summary>
+<p><b>Concepts</b> are the significant words of each text (originals and their English translations). Old spellings count as one (<i>Theil</i>, <i>Teil</i>), and a word a glossary renders in English counts as that English concept (<i>Schauung</i> → beholding). Words about the edition (printed, page, translation) are left out.</p>
+<p><b>Similarity</b> runs from 0 to 1: how far two works give weight to the same concepts, distinctive ones counting more than common ones (the cosine of their TF-IDF vectors). Works by the same author are usually closest; the lists of closest works <i>in another tradition</i> and <i>in another language</i> show the links that cross. Under 0.1 a likeness is faint (greyed under 0.08); a work must share at least three concepts to be listed, and a short text (a notice, a preface) counts for less.</p>
+<p>A <b>cross-tradition link</b> marks a work whose closest work in another tradition is at <span id="linkv">—</span> or more (the top sixth of the library). <b>Year</b> is the year of the edition in the library, which is not always the first publication.</p>
+<p>The figures come from word use, not from reading: a link says two works share vocabulary, which is a lead to follow, not a finding.</p>
+</details></div>
+
+<div class="controls" role="search">
+<input id="q" type="search" placeholder="A concept: Potenz, Vernunft, intuición, beholding…" aria-label="concept" autocomplete="off" spellcheck="false">
+<select id="ftrad" aria-label="tradition"><option value="">All traditions</option></select>
+<select id="flang" aria-label="language"><option value="">All languages</option></select>
+<span class="yr"><label for="y0">from</label><input id="y0" type="number" inputmode="numeric"><label for="y1">to</label><input id="y1" type="number" inputmode="numeric"></span>
+<label class="ck"><input type="checkbox" id="flink"> cross-tradition links only</label>
+</div>
+<div class="status" id="status" aria-live="polite">Loading the library…</div>
+
+<div class="tabs" role="tablist">
+<button role="tab" id="t-list" aria-selected="true" aria-controls="v-list">List</button>
+<button role="tab" id="t-time" aria-selected="false" aria-controls="v-time">Timeline</button>
+</div>
+<div id="detail" class="detail hidden" aria-live="polite"></div>
+<section id="v-list" role="tabpanel" aria-labelledby="t-list"><div id="res"></div></section>
+<section id="v-time" role="tabpanel" aria-labelledby="t-time" class="hidden">
+<div id="chart"><p class="cap" id="cap"></p><div id="svg"></div><div class="legend" id="legend" aria-label="traditions: choose one to show only it"></div><div id="tip"></div></div>
+</section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script>
+(function(){
+'use strict';
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fold=s=>String(s).normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/ß/g,'ss');
+const LANGN={de:'German',es:'Spanish',fr:'French',it:'Italian',la:'Latin',hu:'Hungarian',en:'English',el:'Greek',pt:'Portuguese'};
+// Okabe–Ito: told apart with the common colour-vision deficiencies
+const PAL=['#0072B2','#56B4E9','#E69F00','#009E73','#CC79A7','#D55E00','#332288','#A89200'];
+const doc=document.documentElement;
+$('theme').onclick=()=>{const d=(doc.dataset.theme?doc.dataset.theme==='dark':matchMedia('(prefers-color-scheme:dark)').matches)?'light':'dark';doc.dataset.theme=d;try{localStorage.setItem('iwg-theme',d)}catch(e){}};
+
+let D,W,C,N,KEYS,KEY,COL,ALIAS,THINK,TPOST,TERMS=null,sel=null,view='list',hits=null,picks=[],others=true;
+
+// the members' copy (whole library) in members' mode, else the public one; after 'load', since publish.py adds members.js at the end
+const get=p=>(window.membersGet?window.membersGet(p).then(r=>r.ok?r.json():Promise.reject()):Promise.reject()).catch(()=>fetch(p).then(r=>{if(!r.ok)throw r.status;return r.json()}));
+addEventListener('load',()=>get('concept_web.json').then(init).catch(()=>{$('status').textContent='The concept web could not be loaded. Reload the page; if it stays, the library build has no concept_web.json.'}));
+
+function init(d){
+  D=d;W=d.works;C=d.concepts;N=d.n;
+  KEY=new Map();
+  const put=(f,c)=>{const k=fold(f),o=KEY.get(k);if(o===undefined||d.post[c].length>d.post[o].length)KEY.set(k,c)};   // a form two concepts share goes to the one more works use
+  C.forEach((f,c)=>put(f,c));
+  ALIAS=new Map(d.alias);
+  for(const [c,fs] of d.alias)for(const f of fs)put(f,c);
+  KEYS=[...KEY.keys()].sort();
+  // thinkers, by surname or full name: the works that name them (the map's mentions)
+  THINK=new Map();TPOST=d.thinkers.map(()=>[]);
+  d.thinkers.forEach((t,k)=>{THINK.set(fold(t),k);const last=t.split(/\s+/).pop();if(last.length>2&&!THINK.has(fold(last)))THINK.set(fold(last),k)});
+  W.forEach((w,i)=>{for(const [t,n] of w.mentions)TPOST[t].push(i,n)});
+  const tk=Object.keys(d.traditions);
+  COL=new Map(tk.map((k,i)=>[k,PAL[i%PAL.length]]));
+  for(const k of tk)$('ftrad').insertAdjacentHTML('beforeend',`<option value="${esc(k)}">${esc(d.traditions[k])}</option>`);
+  for(const l of [...new Set(W.map(w=>w.language).filter(Boolean))].sort((a,b)=>(LANGN[a]||a).localeCompare(LANGN[b]||b)))
+    $('flang').insertAdjacentHTML('beforeend',`<option value="${esc(l)}">${esc(LANGN[l]||l)}</option>`);
+  const ys=W.map(w=>w.year).filter(Boolean);
+  const ymin=Math.min(...ys),ymax=Math.max(...ys);
+  for(const [id,v] of [['y0',ymin],['y1',ymax]]){$(id).value=v;$(id).min=ymin;$(id).max=ymax;$(id).placeholder=v}
+  $('linkv').textContent=d.link.toFixed(2);
+  // state from the address (#q=potenz&w=slug), so a search or a work can be shared as a link
+  const h=new URLSearchParams(location.hash.slice(1));
+  if(h.get('q'))$('q').value=h.get('q');
+  let t;const later=()=>{clearTimeout(t);t=setTimeout(update,150)};
+  $('q').addEventListener('input',later);
+  for(const id of ['ftrad','flang','y0','y1','flink'])$(id).addEventListener('change',update);
+  $('t-list').onclick=()=>setView('list');$('t-time').onclick=()=>setView('time');
+  addEventListener('resize',()=>{if(view==='time'){clearTimeout(t);t=setTimeout(drawChart,150)}});
+  document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT/.test(document.activeElement.tagName)){e.preventDefault();$('q').focus()}});
+  update();
+  const ws=h.get('w');if(ws){const i=W.findIndex(w=>w.slug===ws);if(i>=0)show(i)}
+  if(h.get('v')==='time')setView('time');
+}
+function setHash(){
+  const p=new URLSearchParams();
+  if($('q').value.trim())p.set('q',$('q').value.trim());
+  if(sel!==null)p.set('w',W[sel].slug);
+  if(view==='time')p.set('v','time');
+  history.replaceState(null,'',p.toString()?'#'+p:location.pathname+location.search);
+}
+
+// ---- concepts for a typed word: the word itself (or a form of it), and the commonest that begin with it ----
+function conceptsFor(tok){
+  const star=tok.endsWith('*');tok=tok.replace(/\*+$/,'');
+  const out=[],c0=KEY.get(tok);
+  if(c0!==undefined)out.push(c0);
+  if(c0!==undefined&&!star)return out;          // the word itself; words that begin with it only with a *
+  let lo=0,hi=KEYS.length;while(lo<hi){const m=(lo+hi)>>1;if(KEYS[m]<tok)lo=m+1;else hi=m}
+  const pre=new Set();
+  for(let i=lo;i<KEYS.length&&KEYS[i].startsWith(tok)&&pre.size<200;i++)pre.add(KEY.get(KEYS[i]));
+  pre.delete(c0);
+  const more=[...pre].sort((a,b)=>D.post[b].length-D.post[a].length).slice(0,star?8:5);
+  return out.concat(more);
+}
+// what a typed word stands for, and the works it finds ({work: uses}):
+//   "Potenz"  that printed form only (from terms.json, loaded the first time)
+//   potenz    the concept, in all its forms and languages;  potenz*  and the concepts that begin with it
+//   hegel     a thinker (before any concept): the works that name them
+//   ser       no concept (too common, or a function word): the concepts that begin with it
+function pick(tok,quoted){
+  const posts=(p,m)=>{for(let k=0;k<p.length;k+=2)m.set(p[k],(m.get(p[k])||0)+p[k+1]);return m};
+  if(quoted){
+    if(!TERMS)return {kind:'wait'};
+    const key=tok.toLowerCase().replace(/ß/g,'ss'),t=TERMS.get(key);
+    return {kind:'form',label:tok,works:t?posts(t.flat(),new Map()):new Map(),df:t?t.length:0};
+  }
+  const star=tok.endsWith('*');tok=fold(tok.replace(/\*+$/,''));
+  if(!star&&!THINK.has(tok)&&THINK.has(tok.replace(/([aou])e/g,'$1')))tok=tok.replace(/([aou])e/g,'$1');   // boehme = böhme
+  if(!star&&THINK.has(tok)){
+    // a thinker: the works that name them, and their own works first
+    const t=THINK.get(tok),m=posts(TPOST[t],new Map()),sur=fold(D.thinkers[t].split(' ').pop()).replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),re=new RegExp('(^|[^a-z])'+sur+'($|[^a-z])');
+    const own=new Set();
+    W.forEach((w,i)=>{if(re.test(fold(w.author))){own.add(i);if(!m.has(i))m.set(i,0)}});
+    return {kind:'thinker',label:D.thinkers[t],own:own.size,mine:own,works:m}}
+  const c0=KEY.get(tok);
+  if(c0!==undefined&&!star)return {kind:'concept',cs:[c0],works:posts(D.post[c0],new Map())};
+  let lo=0,hi=KEYS.length;while(lo<hi){const m=(lo+hi)>>1;if(KEYS[m]<tok)lo=m+1;else hi=m}
+  const pre=new Set();
+  for(let i=lo;i<KEYS.length&&KEYS[i].startsWith(tok)&&pre.size<200;i++)pre.add(KEY.get(KEYS[i]));
+  pre.delete(c0);
+  const cs=(c0!==undefined?[c0]:[]).concat([...pre].sort((a,b)=>D.post[b].length-D.post[a].length).slice(0,8));
+  const m=new Map();for(const c of cs)posts(D.post[c],m);
+  return {kind:c0===undefined?'prefix':'concept',word:tok,cs,works:m};
+}
+function match(q){
+  const toks=[...q.matchAll(/"([^"]+)"|(\S+)/g)].map(x=>x[1]?[x[1],true]:[x[2].replace(/"/g,''),false]).filter(([t])=>t.replace(/\*/g,'').length>1);
+  picks=[];
+  if(!toks.length)return null;
+  if(toks.some(t=>t[1])&&!TERMS){loadTerms();return null}
+  let res=null;
+  for(const [tok,quoted] of toks){
+    const p=pick(tok,quoted);picks.push(p);
+    // weight: the uses (×n), and how rare the thing is in the library
+    const df=p.works.size||1,idf=Math.log(N/df)+.1,m=new Map();
+    for(const [i,n] of p.works)m.set(i,{s:(1+Math.log(Math.max(n,1)))*idf+(p.mine&&p.mine.has(i)?100:0),n});   // a thinker's own works first
+    if(!res)res=m;else for(const [i,e] of res){const o=m.get(i);if(!o)res.delete(i);else{e.s+=o.s;e.n+=o.n}}
+  }
+  return res;
+}
+let loading=false;
+function loadTerms(){
+  if(loading)return;loading=true;$('status').textContent='Loading the printed forms…';
+  get('terms.json').then(t=>{TERMS=new Map(t.terms.map(x=>[x[0],x[3]]));update()})
+    .catch(()=>{$('status').textContent='The printed forms (terms.json) could not be loaded; search without quotes.'});
+}
+const link=w=>w.cross.length&&w.cross[0][1]>=D.link;
+function passes(i){
+  const w=W[i],tr=$('ftrad').value,l=$('flang').value,y0=+$('y0').value,y1=+$('y1').value;
+  if(tr&&w.tradition!==tr)return false;
+  if(l&&w.language!==l)return false;
+  if(w.year&&((y0&&w.year<y0)||(y1&&w.year>y1)))return false;
+  if($('flink').checked&&!link(w))return false;
+  return true;
+}
+function update(){
+  const q=$('q').value.trim();
+  hits=match(q);
+  let ids=W.map((_,i)=>i).filter(passes);
+  if(hits){ids=ids.filter(i=>hits.has(i));ids.sort((a,b)=>hits.get(b).s-hits.get(a).s||(W[a].year||9e9)-(W[b].year||9e9))}
+  else ids.sort((a,b)=>(W[a].year||9e9)-(W[b].year||9e9)||W[a].author.localeCompare(W[b].author));
+  const filt=ids.length;
+  const st=$('status');
+  const chip=c=>`<span class="cpick" title="${D.post[c].length/2} works in the library${ALIAS.has(c)?'; also as '+esc(ALIAS.get(c).join(', ')):''}">${esc(C[c])}${ALIAS.has(c)?` <small>(${esc(ALIAS.get(c).slice(0,4).join(', '))}${ALIAS.get(c).length>4?'…':''})</small>`:''}</span>`;
+  const say=p=>p.kind==='form'?`<span class="cpick">exactly “${esc(p.label)}”</span>${p.df?'':' <small>(no text prints this form)</small>'}`
+    :p.kind==='thinker'?`<span class="cpick">by or naming ${esc(p.label)}</span>${p.own?` <small>(${p.own} of their own works first)</small>`:''}`
+    :p.kind==='prefix'?(p.cs.length?`<small>“${esc(p.word)}” is not one of the library’s concepts (too common, or a function word); concepts that begin with it:</small> `+p.cs.map(chip).join(' '):`<small>no concept is or begins with “${esc(p.word)}”</small>`)
+    :p.cs.map(chip).join(' ');
+  if(!q)st.innerHTML=`<b>${filt}</b> of ${N} works, by year. Search a concept, or choose a work to see its closest works.`;
+  else if(!hits&&!TERMS&&/"[^"]+"/.test(q))st.textContent='Loading the printed forms…';
+  else if(!hits)st.innerHTML='Type at least two letters.';
+  else if(!hits.size)st.innerHTML=`No work matches: ${picks.map(say).join(' · ')}. Try another spelling, the English word, or the word in the text’s language (<i>Vernunft</i>, <i>razón</i>).`;
+  else st.innerHTML=`<b>${filt}</b> work${filt===1?' matches':'s match'}: `+picks.map(say).join(' <small>and</small> ')
+    +(filt<hits.size?` <span>(${hits.size-filt} more outside the filters)</span>`:'')
+    +'<br><span style="font-size:.82rem">Ranked by uses (×n). A concept counts all its forms and languages; <i>"Potenz"</i> in quotes finds that printed form only; <i>potenz*</i> adds the words that begin with it; a thinker’s name finds the works that name them.</span>';
+  renderList(ids);
+  if(view==='time')drawChart();
+  setHash();
+}
+const title=w=>w.title||w.slug;
+const tdot=w=>w.tradition?`<span class="dot" style="background:${COL.get(w.tradition)}" aria-hidden="true"></span>`:'';
+function renderList(ids){
+  const MAX=300,el=$('res');
+  if(!ids.length){el.innerHTML='<p class="empty">No work matches. Widen the filters or the years.</p>';return}
+  el.innerHTML=ids.slice(0,MAX).map(i=>{const w=W[i],h=hits&&hits.get(i);
+    return `<div class="row${i===sel?' sel':''}" role="button" tabindex="0" data-i="${i}" aria-label="${esc(w.author+', '+title(w))}">
+    <div class="t">${tdot(w)}${esc(w.author)}, <i>${esc(title(w))}</i>${link(w)?'<span class="chip link" title="its closest work in another tradition is at '+D.link.toFixed(2)+' or more">cross-tradition link</span>':''}</div>
+    <div class="m">${h&&h.n?`<span class="uses" title="uses of the concept in this work">×${h.n}</span>`:''}${w.year||'n.d.'} · ${esc(LANGN[w.language]||w.language||'?')}${w.tradition?' · '+esc(D.traditions[w.tradition]):''}</div></div>`}).join('')
+    +(ids.length>MAX?`<p class="more">${ids.length-MAX} more. Narrow the search or the filters to see them.</p>`:'');
+}
+const act=(el,fn)=>{el.addEventListener('click',fn);el.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();fn(e)}})};
+act($('res'),e=>{const r=e.target.closest('.row');if(r)show(+r.dataset.i)});
+
+// ---- one work ----
+function nbList(list,cls){
+  const top=list.length?list[0][1]:1;
+  return `<ul class="nb ${cls||''}">`+list.map(([j,s,sh])=>{const w=W[j];
+    return `<li tabindex="0" role="button" data-i="${j}"><span class="who">${tdot(w)}${esc(w.author)}, <i>${esc(title(w))}</i> <span class="chip">${w.year||'n.d.'}</span></span>
+    <span class="s${s<.08?' weak':''}"${s<.08?' title="faint: below 0.08"':''}>${s.toFixed(2)}<span class="bar" style="width:${Math.max(8,100*s/top)}%"></span></span>
+    <span class="terms">${sh.map(c=>`<button class="term" data-c="${c}" title="search this concept">${esc(C[c])}</button>`).join('')}</span></li>`}).join('')+'</ul>';
+}
+function show(i){
+  sel=i;const w=W[i],p=$('detail');
+  const sec=(h,hint,body)=>body?`<h4>${h}</h4>${hint?`<p class="hint">${hint}</p>`:''}${body}`:'';
+  p.innerHTML=`<button class="close" aria-label="close">×</button>
+  <h3 tabindex="-1">${esc(w.author)}, <a href="${esc(w.slug)}.html"><i>${esc(title(w))}</i></a></h3>
+  <p class="meta">${w.year||'n.d.'} (edition) · ${esc(LANGN[w.language]||w.language||'?')}${w.tradition?' · '+tdot(w)+esc(D.traditions[w.tradition]):''}${w.movement?' · '+esc(w.movement):''} · <a href="${esc(w.slug)}.html">open the text →</a></p>`
+  +sec('Its characteristic concepts','Weighed against the whole library; choose one to search it.',w.terms.map(c=>`<button class="term" data-c="${c}">${esc(C[c])}</button>`).join(''))
+  +sec('Concepts it shares with three or more traditions','Among its characteristic concepts, those used by works of three or more traditions (how many in small figures).',w.bridges.map(([c,n])=>`<button class="term" data-c="${c}">${esc(C[c])} <small>${n}</small></button>`).join(''))
+  +sec('Closest works in other traditions','Similarity 0–1, and the concepts that weigh most in both.',w.cross.length?nbList(w.cross,'cross'):(w.tradition?'<p class="hint">None reaches '+D.min_sim.toFixed(2)+' with three shared concepts.</p>':'<p class="hint">This work has no tradition in the library’s list.</p>'))
+  +sec('Closest works in other languages','By other authors; most links across languages run through English translations and the core concepts.',w.xlang.length?nbList(w.xlang,'cross'):'<p class="hint">None reaches '+D.min_sim.toFixed(2)+'.</p>')
+  +sec('Closest works overall','Other volumes by the same author are usually closest. <button class="term" id="others" aria-pressed="'+others+'">'+(others?'show all':'other authors only')+'</button>',w.neighbors.length?nbList(others?w.neighbors.filter(([j])=>W[j].author!==w.author):w.neighbors):'<p class="hint">No work shares three or more of its concepts at '+D.min_sim.toFixed(2)+' or above.</p>')
+  +sec('Thinkers it names','How often, in the original and the English together.',w.mentions.slice(0,12).map(([t,n])=>`<button class="term" data-t="${t}" title="the works that name ${esc(D.thinkers[t])}">${esc(D.thinkers[t])} <small>${n}</small></button>`).join(''));
+  p.classList.remove('hidden');
+  place();
+  const from=document.activeElement;
+  p.querySelector('.close').onclick=()=>{sel=null;p.classList.add('hidden');if(from&&from.isConnected)from.focus();document.querySelectorAll('.row.sel').forEach(r=>r.classList.remove('sel'));if(view==='time')drawChart();setHash()};
+  document.querySelectorAll('.row').forEach(r=>r.classList.toggle('sel',+r.dataset.i===i));
+  if(view==='time')drawChart();
+  setHash();
+  p.scrollIntoView({behavior:'smooth',block:'start'});
+  p.querySelector('h3').focus({preventScroll:true});
+}
+act($('detail'),e=>{
+  if(e.target.id==='others'){others=!others;show(sel);return}
+  const th=e.target.closest('.term[data-t]');
+  if(th){e.stopPropagation();const t=D.thinkers[+th.dataset.t],l=t.split(/\s+/).pop();$('q').value=THINK.get(fold(l))===+th.dataset.t?l:t.split(/\s+/).length>1?l:t;update();$('q').scrollIntoView({behavior:'smooth',block:'center'});return}
+  const t=e.target.closest('.term[data-c]');
+  if(t){e.stopPropagation();$('q').value=C[+t.dataset.c];update();$('q').scrollIntoView({behavior:'smooth',block:'center'});return}
+  const li=e.target.closest('li[data-i]');if(li&&!e.target.closest('a'))show(+li.dataset.i);
+});
+function place(){const p=$('detail');if(view==='time')$('v-time').after(p);else $('v-list').before(p)}
+
+// ---- timeline: works by edition year and tradition ----
+function setView(v){
+  view=v;$('t-list').setAttribute('aria-selected',v==='list');$('t-time').setAttribute('aria-selected',v==='time');
+  $('v-list').classList.toggle('hidden',v!=='list');$('v-time').classList.toggle('hidden',v!=='time');
+  place();if(v==='time')drawChart();setHash();
+}
+function drawChart(){
+  const box=$('svg');box.innerHTML='';
+  const tk=Object.keys(D.traditions),narrow=box.clientWidth<640;
+  const Wd=box.clientWidth||900,band=narrow?34:42,m={t:14,r:16,b:30,l:narrow?36:190},H=m.t+m.b+band*tk.length;
+  const pts=W.map((w,i)=>({w,i})).filter(d=>d.w.year&&d.w.tradition&&passes(d.i));
+  const ys=W.map(w=>w.year).filter(Boolean);
+  const x=d3.scaleLinear().domain([Math.min(...ys)-5,Math.max(...ys)+5]).range([m.l,Wd-m.r]);
+  const yb=k=>m.t+band*(tk.indexOf(k)+.5);
+  const jit=i=>(((i*2654435761)>>>0)/4294967296-.5)*band*.72;
+  const svg=d3.select(box).append('svg').attr('viewBox',`0 0 ${Wd} ${H}`).attr('role','img')
+    .attr('aria-label',`${pts.length} works placed by edition year and tradition`);
+  svg.append('g').attr('class','axis').attr('transform',`translate(0,${H-m.b})`).call(d3.axisBottom(x).ticks(narrow?5:10).tickFormat(d3.format('d')));
+  tk.forEach((k,n)=>{
+    svg.append('line').attr('x1',m.l).attr('x2',Wd-m.r).attr('y1',yb(k)).attr('y2',yb(k)).attr('stroke','var(--line)').attr('stroke-dasharray','2,3');
+    const name=D.traditions[k];
+    svg.append('text').attr('class','lab').attr('x',m.l-8).attr('y',yb(k)).attr('dy','.35em').attr('text-anchor','end')
+      .text(narrow?k:(name.length>30?name.slice(0,29)+'…':name)).append('title').text(name);
+  });
+  const pos=new Map(pts.map(d=>[d.i,[x(d.w.year),yb(d.w.tradition)+jit(d.i)]]));
+  const r=d=>hits?2.5+Math.min(4,Math.log1p(hits.get(d.i).n)/1.5):3;
+  const shown=hits?pts.filter(d=>hits.has(d.i)):pts;
+  if(hits)svg.append('g').selectAll('circle').data(pts.filter(d=>!hits.has(d.i))).join('circle')
+    .attr('cx',d=>pos.get(d.i)[0]).attr('cy',d=>pos.get(d.i)[1]).attr('r',2).attr('fill','var(--muted)').attr('opacity',.18);
+  // the chosen work's closest works: solid lines overall, dashed across traditions
+  if(sel!==null&&pos.has(sel)){
+    const [sx,sy]=pos.get(sel),g=svg.append('g');
+    for(const [list,dash] of [[W[sel].neighbors,null],[W[sel].cross,'4,3']])for(const [j,s] of list)if(pos.has(j)&&W[j].author!==W[sel].author)
+      g.append('line').attr('x1',sx).attr('y1',sy).attr('x2',pos.get(j)[0]).attr('y2',pos.get(j)[1])
+       .attr('stroke','var(--accent)').attr('stroke-width',.6+2.4*s).attr('stroke-dasharray',dash).attr('opacity',.6);
+  }
+  const dots=svg.append('g').selectAll('circle').data(shown).join('circle')
+    .attr('cx',d=>pos.get(d.i)[0]).attr('cy',d=>pos.get(d.i)[1]).attr('r',r)
+    .attr('fill',d=>COL.get(d.w.tradition)).attr('fill-opacity',hits?.9:.65)
+    .attr('stroke',d=>d.i===sel?'var(--ink)':'none').attr('stroke-width',2).attr('tabindex',0)
+    .attr('aria-label',d=>`${d.w.author}, ${title(d.w)}, ${d.w.year}`);
+  dots.filter(d=>d.i===sel).raise();
+  const tip=$('tip'),chart=$('chart');
+  dots.on('mouseenter focus',function(ev,d){const h=hits&&hits.get(d.i);
+      tip.innerHTML=`<b>${esc(d.w.author)}</b><br><i>${esc(title(d.w))}</i><br>${d.w.year} · ${esc(D.traditions[d.w.tradition])}${h&&h.n?` · ×${h.n}`:''}`;
+      tip.style.display='block';const b=chart.getBoundingClientRect(),c=this.getBoundingClientRect();
+      tip.style.left=Math.min(c.left-b.left+12,b.width-tip.offsetWidth-8)+'px';tip.style.top=(c.top-b.top-tip.offsetHeight-6)+'px'})
+    .on('mouseleave blur',()=>{tip.style.display='none'})
+    .on('click',(ev,d)=>show(d.i)).on('keydown',(ev,d)=>{if(ev.key==='Enter')show(d.i)});
+  const noyear=(hits?[...hits.keys()].filter(passes):W.map((_,i)=>i).filter(passes)).filter(i=>!W[i].year||!W[i].tradition).length;
+  $('cap').innerHTML=(hits?`Coloured: the ${shown.length} works the search finds, larger for more uses; faded: the others. `:`${pts.length} works. `)
+    +(noyear?`${noyear} without a year or tradition are not shown. `:'')
+    +'Year of the edition in the library. Choose a work to draw lines to its closest works by other authors (dashed: in other traditions).';
+  const cur=$('ftrad').value;
+  $('legend').innerHTML=tk.map(k=>`<button data-k="${esc(k)}" aria-pressed="${cur===k}"><span class="dot" style="background:${COL.get(k)}"></span>${esc(D.traditions[k])}</button>`).join('');
+  $('legend').onclick=e=>{const b=e.target.closest('button');if(!b)return;$('ftrad').value=$('ftrad').value===b.dataset.k?'':b.dataset.k;update()};
+}
+})();
+</script>
+<script>window.MEMBERS={"repo": "idealisms-wg/idealisms-working-group-private", "branch": "members-site", "base": "/idealisms-working-group/"}</script><script src="members.js"></script></body></html>

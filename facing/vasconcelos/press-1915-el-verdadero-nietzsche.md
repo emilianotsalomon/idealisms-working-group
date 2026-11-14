@@ -1,0 +1,100 @@
+---
+title: El verdadero Nietzsche
+title_en: The true Nietzsche
+author: José Vasconcelos
+id: 8129
+markers: [para, pdf]
+pairs_by: para
+year: 1915
+original_language: es
+translation_language: en
+edition_layout: clean text (both columns typeset)
+paragraphs: printed
+source: José Vasconcelos, *El verdadero Nietzsche*, Novedades, August 19 1915; scan ‘JV (1915) El verdadero Nietzsche--Novedades_August_19_1915.pdf’ (LatAm Philosophy / José Vasconcelos/José Vasconcelos_s Articles-Newspaper Publications)
+rights: public domain in the US (published 1915, pre-1931); Vasconcelos died in 1959, so in Mexico the text stays protected to 2059.
+pages: 1
+genre: Latin American philosophy
+section: Newspaper articles and minor writings › La Prensa and other papers
+collection: José Vasconcelos, newspaper pieces 1915–1957 (Vision OCR 2026)
+order: 1
+generated: 2026-10-26 by import_editions.py (claude-folder/_ocr-vision, issue #37)
+public: true
+---
+
+# José Vasconcelos, *El verdadero Nietzsche* (1915)
+
+Conventions: `[p. N]` marks where a printed page begins, numbered as the folio was read; `[PDF N]` a page of the scan that carries no folio; paragraphs are whole across page turns, as printed; `## ` a centred line (a heading, or a title page's line); `[^id]` a small-type line at the foot of the page, set under the paragraph that ends there; `⟦…⟧` a word or line the damaged print leaves in doubt. Read from the scan by eye (#94): the scan is the authority. This folder is the source: corrections go into its original.md.
+
+<!-- block -->
+
+> [¶ 1] [PDF 1]
+
+[PDF 1]
+
+<!-- /block -->
+
+## El verdadero Nietzsche — The True Nietzsche
+
+> [¶ 2] El reciente libro de la señora Foerster-Nietzsche, hermana y confidente amada del filósofo poeta, es una refutación innegable y tierna para todos los que han pretendido torcer la doctrina del gran cantor de *Zaratustra*. Nos confirma la existencia de un Nietzsche que ya habíamos descubierto muchos de sus lectores. En las tempestades grandiosas de su estilo relampagueante y su voz magnífica de trueno luminoso, habíamos percibido la frescura purificante de una lluvia que apacigua y fecunda la naturaleza entera. Pero ahora en el nuevo libro se nos da la pura esencia del corazón generoso, sin los truenos y relámpagos del estilo, sin la pompa y espléndida apariencia con que gustaba de vestir sus ideas.
+
+[¶ 2] The recent book by Frau Foerster-Nietzsche, sister and beloved confidante of the poet-philosopher, is an undeniable and tender refutation for all those who have tried to twist the doctrine of the great singer of *Zarathustra*. It confirms for us the existence of a Nietzsche whom many of his readers had already discovered. In the grandiose tempests of his flashing style and his magnificent voice of luminous thunder, we had perceived the purifying freshness of a rain that appeases and fertilises all of nature. But now in the new book we are given the pure essence of the generous heart, without the thunder and lightning of the style, without the pomp and splendid appearance with which he liked to clothe his ideas.
+
+> [¶ 3] El Nietzsche familiar es un personaje dulce, y sólo de tarde en tarde agrio de genio; laborioso, enfermizo, solitario, melancólico, fuerte. "Uno de los espíritus más nobles y puros que han andado por el mundo," dice su amigo Peter Gast en el entierro del poeta, y agrega: "aunque esto lo saben amigos y enemigos, no creo superfluo declararlo al borde de su tumba; porque conocemos el mundo y tenemos presente su injusticia con Spinosa. Aun la memoria de Nietzsche podrá ser ensombrecida por la posteridad. Por eso concluyo con estas palabras: Paz a tus despojos. Sea tu nombre santo para todas las generaciones futuras."
+
+[¶ 3] The familiar Nietzsche is a gentle personage, and only now and then sour of temper; industrious, sickly, solitary, melancholy, strong. "One of the noblest and purest spirits that have walked the world," says his friend Peter Gast at the poet's burial, and adds: "although friends and enemies know this, I do not think it superfluous to declare it at the edge of his grave; for we know the world and bear in mind its injustice to Spinoza. Even the memory of Nietzsche may be overshadowed by posterity. Therefore I conclude with these words: Peace to your remains. May your name be holy to all future generations."
+
+> [¶ 4] Un santo con careta de demonio, lo define la hermana predilecta, y luego nos cuenta, en largas y amorosas páginas, toda la noble vida del revolucionario de la ética. Y me figuro que la mayoría de los lectores de Nietzsche sentirán sorpresa al no encontrar, en toda esta historia amable, una sola discrepancia del ideal, un detalle que revele aspereza o crueldad en los sentimientos o en la conducta del mal comprendido reformador de los valores morales. Bondad de las más auténticas, y una devoción al ideal, de las más puras, brotan del libro, que es un volumen más en la colección de las vidas de esos santos que la humanidad entera canoniza y reverencia.
+
+[¶ 4] A saint with a demon's mask, his favourite sister defines him, and then she tells us, in long and loving pages, the whole noble life of the revolutionary of ethics. And I imagine that the majority of Nietzsche's readers will feel surprise at finding, in all this amiable history, not a single discrepancy from the ideal, not one detail that reveals harshness or cruelty in the feelings or the conduct of the misunderstood reformer of moral values. Goodness of the most authentic kind, and a devotion to the ideal of the purest, spring from the book, which is one more volume in the collection of the lives of those saints whom all humanity canonises and reveres.
+
+> [¶ 5] La escuela de los discípulos indignos, tan numerosa en nuestros días, comenzó a formarse durante la vida del maestro. Con frecuencia se le citaba y se le cita para justificar las más extravagantes actitudes éticas. Espíritus mezquinos lo han tomado como apóstol de cierto escepticismo cruel, de cierta actitud despectiva hacia los humildes, y han hecho repugnante para muchas gentes de buena fe el nombre mismo del pensador genial, a quien atribuyen cierta tesis fría de la superioridad de la fuerza sobre toda desinteresada tendencia. A los que con sus máximas se escudan para dar suelta a las tendencias bajas de la naturaleza, Nietzsche les dice alguna vez, según nos cuenta la autora: "Para despreciar la moral común, como yo lo hago, es preciso ser superior a ella; es necesario ser mejor que el más bueno de los hombres."
+
+[¶ 5] The school of unworthy disciples, so numerous in our days, began to form during the master's lifetime. He was and is frequently cited to justify the most extravagant ethical attitudes. Petty spirits have taken him as the apostle of a certain cruel scepticism, of a certain contemptuous attitude toward the humble, and have made repugnant to many people of good faith the very name of the thinker of genius, to whom they attribute a certain cold thesis of the superiority of force over every disinterested tendency. To those who shield themselves with his maxims to give free rein to the low tendencies of nature, Nietzsche says at one time, as the author tells us: "To despise common morality, as I do, one must be superior to it; one must be better than the best of men."
+
+> [¶ 6] Para los que creen que es distinguido y aristocrático manifestar cierta indiferencia por el dolor humano, la señora Foerster relata esta anécdota, que no estaría fuera de lugar en los evangelios cristianos:
+
+[¶ 6] For those who believe that it is distinguished and aristocratic to show a certain indifference to human pain, Frau Foerster relates this anecdote, which would not be out of place in the Christian gospels:
+
+> [¶ 7] "La ternura de mi hermano hacia las mujeres inválidas puede comprenderse por el dicho de la piadosa y distinguida dama inglesa que con frecuencia trataba en Sils María. Ella me ha referido, con emoción, las pequeñas atenciones que el filósofo empleaba para evitar que la conversación recayese en las tesis de su filosofía. Al retirarse, siempre me recomendaba que no leyese sus libros, porque—sabe usted,—añadía la dama,—después de oír su filosofía explicada con alguna rudeza, y, sin duda, equivocadamente, por una de sus discípulas, resultaba que una criatura débil y enfermiza como yo no tenía derecho de vivir."
+
+[¶ 7] "My brother's tenderness toward invalid women can be understood from the remark of the pious and distinguished English lady whom he often met in Sils Maria. She has related to me, with emotion, the small attentions the philosopher employed to prevent the conversation from falling upon the theses of his philosophy. On taking leave, he always urged me not to read his books, because—you know,—added the lady,—after hearing his philosophy explained with some roughness, and, no doubt, mistakenly, by one of his women disciples, it turned out that a weak and sickly creature like me had no right to live."
+
+> [¶ 8] Que Nietzsche tenía un corazón sensible y humano, es cosa que comprende todo el que penetra su vigorosa emotividad. La exaltación de su temperamento es afín de la sublime ternura de San Francisco de Asís, el hermano de quien él se ríe a veces sin dejar de amarlo. Sólo en la forma son antitéticos; coinciden en la profundidad y en el propósito: la felicidad de los hombres. Uno la busca fuera, en el reino de Dios, y el otro dentro del corazón, en el reino de la tierra. De allí viene la aparente enemistad de sus doctrinas, la cual desaparece si pensamos, con verdad, que todos los reinos, inclusive el del mundo, son de Dios. La piedad de San Francisco es correr de agua mansa y penetrante, purificador de faltas y defectos por la gracia del disimulo y el perdón. Nietzsche vive inundado de igual simpatía piadosa por el dolor de los hombres, pero su emotividad es rebelde y se alza con los gestos y las voces del Prometeo inconforme, que, hallando a la naturaleza imperfecta, se pone a reformarla por el ejercicio de la fuerza impetuosa e indestructible de la vida.
+
+[¶ 8] That Nietzsche had a sensitive and human heart is something that everyone understands who penetrates his vigorous emotivity. The exaltation of his temperament is akin to the sublime tenderness of Saint Francis of Assisi, the brother at whom he sometimes laughs without ceasing to love him. Only in form are they antithetical; they coincide in depth and in purpose: the happiness of men. The one seeks it outside, in the kingdom of God, and the other within the heart, in the kingdom of the earth. Hence the apparent enmity of their doctrines, which disappears if we think, in truth, that all kingdoms, including that of the world, are God's. The piety of Saint Francis is the running of gentle and penetrating water, a purifier of faults and defects by the grace of dissimulation and forgiveness. Nietzsche lives inundated with the same pious sympathy for the pain of men, but his emotivity is rebellious and rises with the gestures and voices of the nonconforming Prometheus, who, finding nature imperfect, sets about reforming it by the exercise of the impetuous and indestructible force of life.
+
+> [¶ 9] Nietzsche siente las penas del mundo, pero aconseja que la regeneración sea obra individual y personal. Condena los sistemas que buscan fuera de nosotros mismos la fe que da el triunfo, pues piensa que el poder salvador radica primariamente en nosotros. Odia la caridad vulgar, porque es un altivo generoso, el más pródigo de los moralistas, el primero que lleva su generosidad hasta sufrir cuando ve que en la dádiva goza el dador, pero padece en todo caso cierta leve humillación el que recibe. Cosa que califica, y con razón, de inmoral; pues no existe verdadero bien cuando un ser se halla sumiso ante el otro por debilidad o impotencia. El mundo de los desiguales es desagradable como ideal, y donde hay superior e inferior no existe belleza ni superioridad verdadera. Es tan amargo ser esclavo como tenerlos, pero esta amargura del amo no la comprenden los mediocres, porque está, como diría Nietzsche, "más allá del bien." Pero obsérvese que el mundo ideal no supone la identidad insufrible de las personas, no es democratización de todas las aptitudes, sino un equilibrio y prodigalidad de la fuerza para que todos desarrollen el máximun de sus propias y distintas individualidades.
+
+[¶ 9] Nietzsche feels the sorrows of the world, but advises that regeneration be an individual and personal work. He condemns the systems that seek outside ourselves the faith that gives triumph, for he thinks that the saving power lies primarily in us. He hates vulgar charity, because he is a proud, generous man, the most lavish of moralists, the first to carry his generosity to the point of suffering when he sees that in the gift the giver takes enjoyment, but the receiver in every case suffers a certain slight humiliation. Which he qualifies, and rightly, as immoral; for there is no true good when one being is submissive before another through weakness or impotence. The world of the unequal is disagreeable as an ideal, and where there is superior and inferior there is neither beauty nor true superiority. It is as bitter to be a slave as to have them, but this bitterness of the master the mediocre do not understand, because it lies, as Nietzsche would say, "beyond good." But let it be observed that the ideal world does not suppose the insufferable identity of persons, it is not a democratisation of all aptitudes, but a balance and prodigality of force so that all may develop the maximum of their own and different individualities.
+
+> [¶ 10] Nietzsche quiere que la naturaleza extreme su poder con el objeto de rendir productos máximos. Truena contra la piedad que disimula defectos y da consuelos que retardan el esfuerzo del progreso y hacen imposible la regeneración de los débiles. El mundo caritativo le parece degradante, pero no por dureza de corazón, sino por excesiva y noble sensibilidad que repugna la humillación del prójimo. Su piedad va más lejos, quiere una raza de hombres libres, y labora por el advenimiento de los fuertes y valerosos que saben bastarse a sí mismos y aún en medio de los dolores inevitables conservan ánimo para reír y bailar y cantar las victorias del corazón libre.
+
+[¶ 10] Nietzsche wants nature to carry its power to the extreme in order to yield maximal products. He thunders against the pity that dissembles defects and gives consolations that delay the effort of progress and make the regeneration of the weak impossible. The charitable world seems to him degrading, but not through hardness of heart, but through an excessive and noble sensitivity that is repelled by the humiliation of one's neighbour. His pity goes further, it wants a race of free men, and he labours for the advent of the strong and valiant who know how to suffice for themselves and even amid inevitable sorrows keep the spirit to laugh and dance and sing the victories of the free heart.
+
+> [¶ 11] Suponer que esto implica crueldad para con los débiles, indiferencia por sus penas, es desnaturalizar por completo su doctrina; concepto digno de los estériles ególatras que buscan dondequiera excusas para la vaciedad petulante que llena sus almas. Una generosidad que no espera recompensas, hija del vigor y la sobra del poder, es el nervio del credo de Nietzsche. Por eso su moral no es una síntesis, sino una depuración y ennoblecimiento de la moral común, una disciplina mucho más rígida y elevada, una ley para naturalezas de selección.
+
+[¶ 11] To suppose that this implies cruelty toward the weak, indifference to their sorrows, is to denature his doctrine completely; a conception worthy of the sterile egotists who seek everywhere excuses for the petulant emptiness that fills their souls. A generosity that expects no recompense, daughter of vigour and of the surplus of power, is the nerve of Nietzsche's creed. Therefore his morality is not a synthesis, but a purification and ennoblement of common morality, a far more rigid and elevated discipline, a law for natures of selection.
+
+> [¶ 12] Nada de compasiones que cultivan el dolor y lo santifican: una reforma audaz y enérgica de cada conciencia, de cada individuo, es la única salvación.
+
+[¶ 12] Away with compassions that cultivate pain and sanctify it: a bold and energetic reform of each conscience, of each individual, is the only salvation.
+
+> [¶ 13] Que nuestros dolores sirven para lavar nuestras culpas y asegurarnos los goces de la otra vida, es no sólo tesis errónea, sino inmoral creencia que corrompe el temple de la raza. La voluntad de poder combate esa conformidad enemiga de la vida, nos arranca de la sumisión y el tétrico desaliento, y nos obliga a reformarnos haciendo uso de todo nuestro poder, en vez de abandonarnos a la fatalidad de nuestra miseria.
+
+[¶ 13] That our sufferings serve to wash away our guilt and assure us the enjoyments of the other life is not only an erroneous thesis, but an immoral belief that corrupts the temper of the race. The will to power combats that resignation, an enemy of life, tears us from submission and gloomy discouragement, and obliges us to reform ourselves by making use of all our power, instead of abandoning ourselves to the fatality of our misery.
+
+> [¶ 14] ¿Y acaso esta voluntad salvadora, esta energía que redime, no es, como la compasión y la misericordia, de origen divino?...
+
+[¶ 14] And is this saving will, this energy that redeems, not perhaps, like compassion and mercy, of divine origin?...
+
+> [¶ 15] Difícil problema: resolver quiénes han sido más fieles a su origen celestial, si los ángeles buenos que cantan imperturbables y felices las alabanzas de su señor, o los caídos y rebeldes que bregan y padecen porque nada les conforma ni basta, y todo lo hallan inferior a su ardiente visión de una realidad más alta, que sin descanso los hace volar y querer y triunfar y ansiar y ascender... Y Nietzsche era uno de los últimos, sublime ángel magnánimo de alas audaces.
+
+[¶ 15] A difficult problem: to resolve who have been more faithful to their celestial origin, the good angels who sing imperturbable and happy the praises of their lord, or the fallen and rebellious ones who struggle and suffer because nothing satisfies or suffices them, and who find everything inferior to their ardent vision of a higher reality, which restlessly makes them fly and will and triumph and long and ascend... And Nietzsche was one of the latter, a sublime, magnanimous angel of bold wings.
+
+> [¶ 16] JOSE VASCONCELOS.
+
+[¶ 16] JOSE VASCONCELOS.
+
+> [¶ 17] Nueva York, 1915.
+
+[¶ 17] New York, 1915.

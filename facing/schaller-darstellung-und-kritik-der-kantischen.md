@@ -1,0 +1,3106 @@
+---
+title: Darstellung und Kritik der Kantischen Naturphilosophie
+author: Julius Schaller
+id: 2429
+markers: [print]
+pairs_by: print
+year: 1846
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1846 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: "[p. N] marks where printed page N begins (the 1846 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Darstellung und Kritik der Kantischen Naturphilosophie was written by an author who died in 1885, so before 1931; Julius Schaller (d. 1885) is long out of protection and the edition (1846, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 2429)
+---
+
+# J. Schaller, *Darstellung und Kritik der Kantischen Naturphilosophie* (1846)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Darstellung und Kritik der a n tif ch e n
+
+Naturphilosophie von
+
+Dr. Julius Schaller , Boilerbi außerordentlichem Professor der Philosophie an der Universität Halle.
+
+Halle ,
+
+C. A. Schwetschke und Sohn
+
+1846 .
+
+F e f th i th te Der
+
+Naturphilosophie von
+
+Baco von Verulam bis auf unsere Zeit von
+
+Dr. Julius Schaller , außerordentlichem Professor der Philosophie an der Universität Halle,
+
+3 weiter. I h e il.
+
+Halle ,
+
+C. A. Schwetschke und Sohn
+
+1846 .
+
+## Vorrede.
+
+Durch mannichfache Umstände wurde das Erscheinen des zweiten Theils meiner Geschichte der Naturphilosophie verspätet. Auch bis jetzt hat es meine Zeit nicht erlaubt, dieselbe bis zur Gegenwart fortzuführen. Jedoch ist die Kantische Naturphilosophie von so überwiegendem Interesse , auch bildet die Darstellung derselben so sehr ein in sich abgeschlossenes Ganze , daß ich nicht anstehen mochte , sie für sich dem Publicum zu übergeben. Bereits in der Vorrede zum ersten Theile habe ich die Principien ausgesprochen , welche mich bei der Bearbeitung der Geschichte der Naturphilosophie leiteten. Ich hätte hier nichts Wesentliches hinzuzuseßen.
+
+Nur wenige Worte über die weite Bedeutung , welche ich der mechanischen Naturbetrachtung gegeben habe und an welcher man verschiedentlich Anstoß genommen hat. Die Gliederung der ersten Periode der neueren Philosophie von Cartesius bis Kant glaube ich in ihrer ganzen historischen Wirklichkeit getroffen zu haben. Daß eine solche Gliederung und Periodisirung nichts Gleichgültiges ist, versteht sich von selbst. Sie ist vielmehr der Begriff, das erkannte Wesen der historischen Erscheinung. Sobald ich es wirklich vermag , die Facta der Geschichte nicht bloß nach beliebigen äußerlichen Ge [p. vi] sichtspunkten zu rangiren und zu einem künstlichen Systeme zu ordnen , sondern nach den Unterschieden einzutheilen , die Einschnitte zu machen , in welchen die geistige Entwickelung an und für sich ihren Verlauf genommen , so bin ich durch diese wirkliche Vertiefung in das Object eben so weit entfernt von dem einseitigen
+
+Empirismus , welcher nur das Einzelne kennt ohne es zu erkennen, als von der abstracten Construction a priori, welche das Einzelne nicht seinem eigenen Begriffe sondern subjectiven Kategorien unterordnet.
+
+Im Ver:
+
+hältniß zu dieser Periodisirung ist die Aufgabe, für die verschiedenen Perioden der Geschichte eine allgemeine Bezeichnung zu finden , offenbar von sehr untergeordneter Bedeutung . Die Cartesische Naturphilosophie verdient im eminenten Sinne als eine mechanische bezeichnet zu werden. Unmittelbar pflegt man derselben die
+
+Kantische Naturphilosophie als die dynamische gegenüber zu stellen. Für die weiteren Gestaltungen der Natur:
+
+philosophie , welche zwischen der Cartesischen und Kantischen liegen , erscheint die Bezeichnung: mechanisch, schon nicht mehr schlechthin passend; allein offenbar eben so wenig die Bezeichnung : dynamisch ), sobald man dieses in dem Kantischen Sinne versteht. Reflectirt man aber auf die Principien , aus welchen die mechanische Betrachtungsweise zuletzt ausfließt , so wird man , der Kantischen
+
+Dynamik gegenüber , nicht anstehen , die Naturphilosophie von Cartesius bis Kant im Allgemeinen eine mechanische zu nennen , obwohl es in der Natur der
+
+Sache liegt , daß sie sich von Stufe zu Stufe von dem entschiedensten Ausdruck des Mechanismus entfernt und der Kantischen Dynamik annähert.
+
+[p. vii] Obwohl nun aber ferner Kant selbst seiner naturphilosophischen Ansicht ausdrücklich den Namen der dynamischen giebt , so ist doch hiermit der specifische, subjectiv idealistische Charakter der Kantischen Philosophie offenbar nicht ausgedrückt, und sobald man diesen Charakter zu seiner weiteren Consequenz bringt und in die Deduction der Materie einführt, so wird auch die Bezeichnung des Dynamischen als unzureichend erscheinen . Der Ausdruck : dynamische Naturbetrachtung, hat nur zu oft dazu verführt, ein Stück aus der Kantischen Philosophie herauszuschneiden und von den Principien derselben in einer Weise loszutrennen , daß die eigenthümliche Bedeutung der Kantischen Philosophie ganz darüber übersehen wurde.
+
+Je vollständiger unsere Darstellung dieser oberflächlichen Auffassung der Kantischen Naturphilosophie entgegenarbeitet , desto getroster konnten wir den gebräuchlichen Terminus des Dynamischen festhalten und über diejenigen philosophischen Systeme ausdehnen , welche ihren Principien nach der Periode der Kantischen Philosophie zugehören.
+
+Halle , im September 1815 .
+
+[p. 1] Erste Periode. Von Baco von Verulam und Cartesius bis Kant. Die mechanische Auffassung der Natur.
+
+Dritter Abschnitt. Dritte Stufe der mechanischen Naturbetrachtung. Einleitung.
+
+Rückblick.
+
+für die erste Periode der neueren Philosophie, für den Zeitraum von Cartesius bis Kant war es nach unserer früheren Entwickelung wesentlich , daß die philosophische Betrachtung der Natur sich in mechanischen Principien bewegte.
+
+Der letzte Grund , die Nothwendigkeit dieser Erscheinung lag in der unmittelbarkeit , in welcher das freie Denken seine Entwickelung begann . Die moderne Philosophie macht die unendliche Gewißheit des Denkens ausdrücklich zum Princip alles Erkennens.
+
+Das Denken zweifelt an Allem , sondert alles andere , alles unklare vorausgeseßte
+
+Fürwahrhalten von sich ab , und fordert , nur das als wahr gelten zu lassen , was bewiesen ist, was also selbst vom Sitz aller. JI.
+
+[p. 2] . Denken durchdrungen , was nur die Erfüllung der unendlichen Selbstgewißheit ist.
+
+Schon mit diesem Zweifel, mit dieser Selbstgewißheit des Denkens ist der Gegensatz gesetzt von Denken und Sein . Indem aber das Denken zunächst die Einheit von Subject und Object voraussetzt , indem es voraussetzt , daß das klar Gedachte und Begriffene auch objective Wahrheit ist, so hat jener vom Denken gesetzte
+
+Gegensatz nicht die Gestalt von Subject und Object ; vielmehr bleiben alle Gestaltungen , Vermittelungen und Lösungen dieses Gegensatzes innerhalb der seienden indifferenten Einheit von Subject und Object oder innerhalb des Begriffs der Substanz. Der bestimmte Gegensatz , den das Denken aus sich producirt , charakterisirt dasselbe. Mit dem Denken des Ge:
+
+gensatzes ist aber nothwendig auch die Forderung gegeben, denselben zu lösen ; denn das Setzen des Gegensatzes ist unmittelbar auch ein Beziehen der entgegengesetten Seiten auf einander ; ja die Production des bestimmten Gegensatzes ist implicite auch schon die bestimmte Lösung , mit dem Einen ist auch das Andere gelegt, beides sind nur die wesentlichen unzertrennlichen Momente eines Actes.
+
+Eben dies Setzen und Lösen , eben dies Begreifen des Gegensatzes ist die wesentliche Thätigkeit des Denkens, ist das Denken selbst. Wie die besonderen Gestalten der Wirklichkeit sich wesentlich durch die Bestimmtheit des Gegensatzes unterscheiden , welchen sie zu lösen die Energie haben , ebenso schreitet auch das Denken durch die Production immer höherer concreterer Gegensätze von Stufe zu Stufe fort. Je abstracter der Gegensatz ist, den das Denken als den wesentlichen betrachtet, und auf den es alle Erscheinungen und alle Gedanken zurückführt, desto weniger begreift es die Wirklichkeit, desto entfernter bleibt der Gedanke von dem wahren Wesen an [p. 3] und für sich .
+
+Desto mehr bleibt auch das Denken mit
+
+Vorstellungen und Voraussetzungen behaftet , von denen es sich eben dadurch befreit, daß es den abstracten Gegensatz als abstracten erkennt , also nicht auf ihn die concreteren
+
+Erscheinungen , die es nicht aus jenem Gegensatz selbst er:
+
+zeugen , sondern nur aus der Vorstellung aufnehmen kann , zurückführt, sondern diese vielmehr in ihrer wesentlichen concreten Bestimmtheit als nothwendige aus dem Begriffe deducirt. So gewinnt in der neueren Philosophie bis zu Kant hin der Gegensatz von Subject und Object keine philosophische Gestalt ; das Denken stellt ihn wohl vor , aber erkennt ihn nicht, producirt ihn nicht als einen wesentlichen aus sich selbst; das Denken verhält sich also in Beziehung auf diesen Gegensatz nicht denkend , sondern gedankenlos, und nothwendig muß diese Beschränktheit und Einseitigkeit des Denkens in allen seinen Productionen zur Erscheinung kommen. So lag denn in der vorausgesetzten Einheit von Subject und Object sogleich auch der Grund , daß in der
+
+Entwickelung der Philosophie bis zu Kant hin Idealismus und Empirismus mit gleichem Rechte einander gegenübertraten. Wenn das Erkennen nicht selbst zum wesentlichen Object des Denkens gemacht und eben dadurch die verschiedenen Weisen des Erkennens durch den Begriff desselben zusammengefaßt und vereinigt werden , so fallen die Richtungen , welche im Begriffe des Erkennens wesentlich liegen , nothwendig unmittelbar aus einander. Der Em: pirismus hat nicht nur ein gleiches Recht mit dem Idealis:
+
+mus , sondern der denkende Geist überhaupt kommt auf dieser Stufe eben darum , weil er die an und für sich nothwendige , im Begriff des Erkennens liegende Einheit von Speculation und Empirie noch nicht begriffen , noch nicht als solche gelegt hat , nur in dem Gegensatze zwischen 1.
+
+[p. 4] beiden vollständig zur Erscheinung.
+
+Was Empirismus und
+
+Idealismus mit einander gemein haben , ist also eben jene Unmittelbarkeit , jene vorausgelegte Einheit von Subject und Object , und damit auch die Begriffe , der wesentliche In :
+
+halt , welcher in jener Einheit nothwendig liegt.
+
+So ist denn auch die mechanische Naturbetrachtung dem Empirismus und Idealismus gemeinsam , weil diese eine nothwendige
+
+Consequenz jener Voraussetzung ist. Es tritt diese Consequenz am einfachsten hervor Zu: gleich auf der ersten Stufe der mechanischen Naturbe:
+
+trachtung.
+
+Das Wesen der Natur wird hier im Allgemeinen gefaßt als die räumliche Ausdehnung , und wie in dieser nur die Möglichkeit einer verschiedenen quantitativen Theilung, Gestaltung und äußeren Bewegung liegt , so sind alle Erscheinungen der Natur auf diese Modificationen der Ausdehnung zurückzuführen. Alle specifischen qualitativen Unterschiede sind nur subjectiver Schein ; nirgends in der Natur ist die Energie der Selbstbewegung und Selbstgestaltung anzunehmen ; vielmehr ist die Materie wesentlich ein träges Sein , welches seine Bestimmtheit von außen bekommt.
+
+Die Gesetze der endlichen Mechanik, der äußeren durch Stoß bewirkten Bewegung sind die Fundamentalgesetze für die Erkenntniß der Natur. * )
+
+Cartesius knüpft sogleich an den Anfang seiner Philosophie , an den Proceß des Zweifelns und die Gewißheit des Denkens den Gegensatz von Geist und Natur. Dieser Gegensatz ist substanziell, weil der Geist ohne die Natur , die Natur ohne den Geist gedacht werden kann . Schon mit diesem substanziellen Gegensatz ist über den Be:
+
+*) S. 1, Theil S. 256 f.
+
+[p. 5] griff der Natur entschieden.
+
+Die Natur ist von aller Idealität , von allem freien immanenten Proceß verlassen ; ihr Wesen ist dem sich unterscheidenden Geiste gegenüber das träge todte Sein , welches nur von außen seine Bestimmtheit empfängt. In der ganzen Natur giebt es keine productive Thätigkeit , kein Streben ; auch ist die Natur in ihrem Ausgedehntsein selbständig, beruhend in sich , wie das
+
+Denken , also ohne den Trieb , sich durch ihre eigene Negation zur Idealität aufzuheben. *) Der substanzielle Unterschied scheint am allerentfern: testen von der Einheit; denn die Substanzen fallen schlechthin beziehungslos aus einander. Allein bei genauerer Untersuchung liegt eben in diesem beziehungslosen Unterschiede auch unmittelbar schon die Einheit. Der substanzielle Unterschied nämlich ist derjenige , in welchem die unterschiedenen Gestalten sich nicht selbst von einander unterscheiden ; er fällt also außer den Substanzen in einen äußeren subjectiven Verstand, während die Substanzen selbst vielmehr eine und dieselbe Sache sind, eine Substanz , welche ohne von diesem Unterschiede berührt zu werden , als denkend oder als ausgedehnt gefaßt werden kann.
+
+Wenn Cartesius Denken und
+
+Ausdehnung als Substanzen betrachtet, weil sie als selbständig gedacht werden können , so sind diese nach Spinoza eben aus demselben Grunde nur Attribute einer und derselben
+
+Substanz; denn gerade durch ihre Selbständigkeit drücken sie das Wesen der Substanz aus , welche nichts weiter ist als das schlechthin Selbständige. Eben die Selbständigkeit ist es , was Denken und Ausdehnung mit einander gemein haben , worin sie nicht von einander verschieden sind ; also
+
+* ) 1. Th. S. 283.
+
+[p. 6] gerade dasjenige , was ihren substanziellen Unterschied begründen soll, begründet ihre wesentliche Einheit. Die Substanz als solche ist daher ohne allen Unterschied , nur die einfache unbestimmte Gleichheit mit sich.
+
+Damit ist freilich die Bestimmtheit des Attributs als solche nicht erkannt, vielmehr nur empirisch aufgenommen und vorgestellt. Ein weiteres Begreifen dieser Bestimmtheit ist aber auch auf diesem Standpunkte nicht möglich , weil in der substanziellen Einheit , welche eben die Wahrheit , der Begriff des Unterschiedes ist , der Unterschied schlechthin verschwindet ;
+
+aus:
+
+fällt der Unterschied der Attribute nach Spinoza nur in den endlichen Verstand ; allein auch hier ist er nicht als nothwendig zu deduciren , sondern wir bedürfen immer eines empirischen Ausgangs , einer ähnlichen Reflexion , wie sie Cartesius an den Anfang der Philosophie stellt. Die substanzielle Einheit von Natur und Geist hat im Wesentlichen keine andere Naturbetrachtung zur Folge , als wie sie Cartesius bereits entwickelt hatte. Spinoza giebt überhaupt den Cartesischen Principien nur ihre gemäße philosophische Gestalt ; erläutert die Cartesische Philosophie von den zufälligen Vorstellungen und Halbheiten und bringt damit diese Stufe des Denkens zu ihrer reinen entsprechenden Darstellung.
+
+Wie das Absolute nur die reine Gleichheit mit sich ist, so giebt es auch in der ganzen Wirklichkeit keinen freien immanenten Proceß ; die allgegenwart der Substanz läßt keinen anderen Proceß , keine andere Bewegung zu , als die äußere Negation der endlichen Bestimmtheiten durch einander. Das Wesen der Trägheit ist das Grundgeset in der Natur , ist der Begriff des Körpers , ist die aller Körperlichkeit immanente Substanz , ist die Substanz selbst unter dem Attribute der Ausdehnung. Die Bestimmtheit des Denkens kann dem Principe gemäß in dieser Beziehung [p. 7] nichts vor dem Körper voraus haben , es ist eben so unfrei und schlechthin von außen bestimmt wie der Körper ; nur das philosophische Begreifen der Substanz befreit sich von der endlichen Aeußerlichkeit , steht aber darum auch mit dem Begriffe der Substanz in offenbarem Widerspruch. Der substanzielle Gegensatz von Natur und Geist oder deren abstracte substanzielle Einheit muß also nothwendig zur mechanischen Betrachtung der Natur hinführen ; beides sind unzertrennliche Momente eines Begriffs. Indem die Ausdehnung als selbständig gefaßt wird , so wird sie nicht in ihrer eigenthümlichen Endlichkeit erkannt ; denn diese Endlichkeit ist wesentliche Beziehung auf ein Anderes, unaufgelöster Widerspruch in sich. Die Ausdehnung ist in
+
+Wahrheit nichts weniger als eine Abgeschlossenheit, ein Beruhen in sich ; vielmehr hat sie an dem ihr immanenten Widerspruch das Streben über sich hinaus in sich selbst, und nur als Moment , als Erscheinung eines Anderen kommt sie zur Existenz. In der Exposition , welche Spinoza von dem Begriffe der Ausdehnung giebt , tritt es ganz augenscheinlich hervor , daß eben durch die unterschiedslose Selbständigkeit und durch die Beziehungslosigkeit nach außen die Ausdehnung aufhört , Ausdehnung zu sein und in das reine unbestimmte Sein verflüchtigt wird . * ) Die Ausdehnung ist nach Spinoza ein bestimmter Ausdruck für die Realität des Absoluten , ist eine unendliche Bestimmtheit d. h.
+
+eine solche, welche ohne wesentliche Beziehung auf ein Anderes ist , von der also nicht gesagt werden kann : determinatio est negatio. Damit ist aber auch schon die Bestimmtheit schlechthin aufgehoben und zersprengt; sie ist nichts weiter
+
+* ) 1. Th. S. 339 f .
+
+[p. 8] als ein bloß subjectiver Schein , ein bloßes Wort ; ihr Wesen ist die reine Gleichheit in sich , die abstracte Unbestimmtheit, das Sein . Von diesem Begriffe der Ausdehnung kann daher auch nicht anders als in äußerlicher empirischer Weise zu der unmittelbar wirklichen Ausdehnung übergegangen werden ; denn die gedachte Ausdehnung hat die wirkliche nicht in sich, ist nicht wirklich der Begriff derselben . Die einzelnen Körper oder die Modi der allgemeinen Ausdehnung ergeben sich nicht nothwendig aus dem Begriffe der Ausdehnung selbst ; auch ist die Ausdehnung wesentlich einfach, untheilbar in sich, so daß die Vorstellung des Cartesius, nach welcher Gott selbst die Ausdehnung theilt und die Theile in Bewegung setzt, schon darum verworfen werden muß. Von den einzelnen Körpern muß vielmehr ausgegangen werden , um zum Begriffe der Ausdehnung zu gelangen ; die einzelnen Körper sind eben die Wahrnehmung , die Vorstellung der Ausdehnung , oder die Ausdehnung in ihrer Bestimmtheit, welche durch den Gedanken der allgemeinen Ausdehnung begriffen werden soll, aber nicht wirklich begriffen wird. Es sind diese Mängel von der ersten abstractesten Stufe der mechanischen Naturbetrachtung unzertrennlich. Auch ist es eine bloße Täuschung, wenn man meint , es könnten von diesen mechanischen Principien aus , wenn auch nicht die concreteren Gestaltungen des Lebens , doch wenigstens die sogenannten mechanischen Erscheinungen wirklich begriffen werden. Wie sich in der Natur selbst keine einzelne Gestalt von der Totalität losreißen kann , wie vielmehr die mechanischen
+
+Erscheinungen schon von der Idee des Ganzen durchdrungen und bestimmt sind , so wird auch jede besondere Erscheinung nur als Moment der Totalität wirklich erkannt. *) *) 1. Theil S. 303.
+
+[p. 9] Sogleich auf der zweiten Stufe der mechanischen Naturbetrachtung, welche in der idealistischen Richtung Leibnitz und Wolf repräsentiren , wird gegen die Cartesische Naturphilosophie geltend gemacht , daß auch die Erscheinungen der Stoßbewegung , also gerade diejenigen, welche das Princip aller natürlichen Processe umfaßten , unerklärlich bleiben müßten , so lange man die bloße Ausdehnung als das Wesen der Körper ansähe ; man müsse nothwendig im Körper eine eigne Thätigkeit und Kraft annehmen , ohne damit aber die mechanischen Principien schlechthin zu verwerfen . *) Eben dies ist im Allgemeinen das Wesentliche dieser zweiten Stufe der mechanischen Naturbetrachtung: es wird dem Körper ein Ideelles , eine Kraft , eine Thätigkeit zugestanden , allein von der anderen Seite der äußerliche mechanische Proceß mit derselben Strenge festgehalten. ** ) Es ist vorzugsweise dieser Widerspruch , wodurch die Leibnitzische Naturphilosophie eine so schwankende, unklare , schwer verständliche Gestalt bekommt. Gehen wir auf die metaphysischen Principien der Leibnitzischen Philosophie zurück, so sucht Leibnitz die Substanz als das was sie ihrem Begriffe nach sein soll, als wirkliche allgemeinheit zu setzen. Schon bei Spinoza sollte die Substanz alle Wirklichkeit in sich fassen , sollte das einzig wahrhaft Wirkliche und Selbständige sein. Allein indem die Substanz nur die abstracte Gleichheit mit sich ist, so faßt sie in Wahrheit das Besondere und Endliche nicht in sich, sie ist nicht die über das Endliche hinübergreifende, dies als Endliches setzende Allgemeinheit , sie ist nicht wirkliche Idealität , nicht wirkliche Selbständigkeit, sondern im Gegentheil
+
+* ) 1. Th. S. 419. ** ) 1. Th. S. 487.
+
+[p. 10] setzende Allgemeinheit , sie ist nicht wirkliche Idealität , nicht wirkliche Selbständigkeit, sondern im Gegentheil , alle besondere Bestimmtheit bleibt außer ihr liegen und nur im endlichen Denken kommt sie als abstracte Allgemeinheit zur Existenz. Nach Leibnitz dagegen ist die Substanz, das wahrhaft Wirkliche wesentlich Kraft, Thätigkeit , Proceß. Das allgemeine Princip , die allgemeine Form dieser Kraft ist die Vorstellung ; wie diese wesentlich das Viele zur Einheit zusammenfaßt, nichts weiter ist als dieser Act , das Viele zu verbinden , so schließt also die Substanz den Unterschied in sich ; sie ist nicht Sein , Gleichheit mit sich , sondern
+
+Energie , Verwirklichung ihrer selbst durch die Negation des Anderen , Unmittelbaren , Außersichseienden .
+
+Indem Leibnitz von den zusammengesetzten Dingen auf die Existenz der einfachen Substanzen schließt, so erscheint die Substanz unmittelbar als unendliche Vielheit ; die Substanz ist allgegenwärtiges
+
+Princip ; überall, an allen Punkten der zusammengesetzten und theilbaren Körperlichkeit existirt nicht bloß träge ausgedehnte Materie , sondern Thätigkeit , Proceß des Vorstellens, Idealität , Monade , und zwar stellt jede Monade das ganze Universum vor , wenn auch nicht mit demselben Grade der Deutlichkeit. Hiernach erscheint also die Substanz als wirkliche Idealität begriffen ; sie ist wirkliche Idealität , weil sie der Proceß des Idealisirens in sich ist ; sie läßt das Viele , Außereinanderseiende nicht außer sich liegen , sondern umfaßt es , ist eben der Act des Vereinigens
+
+, also die wirkliche sich durch die Negation des Seienden mit sich vermittelnden Einheit.
+
+Bei weiterer Untersuchung aber zeigt es sich , daß die Idealität der Monaden in Wahrheit doch eine unwirkliche ist. Die Monaden nämlich fallen in abstracter Selbständigkeit aus einander , es findet zwischen ihnen schlechthin kein [p. 11] connexus, sondern nur ein consensus Statt ; jede unmittelbare äußerliche Beziehung ist schon durch ihre Immaterialität ausgeschlossen . Allein eben hierin liegt die Unwahrheit ihrer Idealität . Die Immaterialität der Monaden ist nicht der Proceß , die Materie zu negiren und zu überwinden
+
+, nicht die sich selbst regende und durchführende Immaterialität, sondern von dieser ganzen Sphäre des Seins, der Aeußerlichkeit und Unmittelbarkeit sind die Monaden von vorn herein und ohne ihr Zuthun befreit. Das Viele und Unterschiedene, welches die Monaden in ihrer Innerlichkeit umfassen , wird von der umfassenden Monas nicht als Moment gelegt, sondern bleibt für sich seiende selbständige
+
+Substanz ; die Energie der Monas ist also rein theoretischer , nicht praktischer Natur , ist eben nichts weiter als ein Vorstellen , nicht der Proceß des concreten Lebens.
+
+Diese Unwirklichkeit, dieser bloße Schein der monadischen Thätigkeit tritt denn weiter ganz offenbar hervor in der Beziehung der Monaden zum Absoluten . Jede einzelne bestimmte Substanz wird freilich nicht äußerlich durch eine andere bestimmt, allein die Bestimmtheit jeder Einzelnen ist unmittelbar durch Gott gesetzt ; sämmtliche Monaden sind in ideeller Weise ursprünglich an einander gepaßt , so daß nothwendig der Schein entsteht, als wären die Monaden durch einander bedingt , wie die Modi der Substanz bei Spinoza. Somit liegt es also schon in dem Begriffe der Monas, in der abstracten Natur ihrer Idealität, daß die Ueberwindung des Mechanismus wesentlich eine einseitige ist. Der abstract ideelle Zusammenhang der Monaden ist eben darum , weil er nicht durch sie selbst gesetzt ist , ein von außen in sie gesetzter, ein ideell mechanischer. Indem die Monaden nicht wie die Atome Theile der Materie sind, so können [p. 12] auch die Verhältnisse der Monaden nicht unmittelbar auf die Körper ihre Anwendung finden . Der Körper ist vielmehr
+
+Phänomen , und wenn daher Leibnitz behauptet , Alles in der Natur gehe mechanisch zu und müsse mechanisch erklärt werden , so ist dies nur ein Ausdruck der Vorstellung, welcher allerdings in den metaphysischen Principien seine Berechtigung hat ; der wirkliche Stoß würde eine äußerliche unmittelbare Realität der Körper voraussetzen, welche ihnen als Phänomen abgesprochen wird. Eben so wenig kann etwa den Körpern als solchen eine monadische Selbständigkeit zugeschrieben und sonach behauptet werden , der Zusammenhang der Körper mit einander sei nur ein ideeller , jeder handle für sich , und der äußerliche Zusammen :
+
+bang sei in Wahrheit nur ein durch die prästabilirte Harmonie gesetzter Consensus. Aus dem Begriffe der Monas folgt vielmehr , daß die körperliche Ausdehnung nichts weniger als selbständige Substanz ist; sie kann nur Phänomen sein , weil die ideelle Selbständigkeit der Monaden alle unmittelbare Continuität ausschließt sche Auffassung der Materie ist nothwendig gesetzt durch die abstracte Natur der monadischen Idealität. Denn diese Idealität ist nicht wirklich Negation des Seins , sondern unmittelbar gesetztes, der Aeußerlichkeit schlechthin entzogenes Fürsichsein ; die Ausdehnung und Körperlichkeit kann daher nicht die erste unmittelbare Basis der Wirklichkeit sein, sondern muß nothwendig als bloße Vorstellung der Monaden, d. h. eben als Phänomen gefaßt werden. Dies Phänomen ist , wie Leibnitz besonders hervorhebt , bene fundatum , weil die Monaden wesentlich im ideellen Zusammenhange stehen , somit jede alle anderen vorstellt ; eben die beschränkte dunkle
+
+Vorstellung des aus hat die Erscheinung der Materie zur Folge , und diese ist also nicht eine grundlose, nicht eine [p. 13] willkührlich ohne vernünftige Vermittelung von Gott in die Monaden gesetzte Vorstellung. Indem aber die Idealität der Monaden abstract und nicht wirklich als die Negation der Materie gesetzt ist, so muß nothwendig behauptet werden , daß die Monaden selbst noch mit der Materie behaftet sind. Daß die Substanzen immateriell gedacht werden sollen , ist freilich leicht gesagt; allein nicht so leicht ist es , die reale Möglichkeit einer Immaterialität zu begreifen . Wirklich immateriell sind die Substanzen nur durch die reale Negation , durch die reale Ueberwindung der Materie , nur dann wenn sie die Energie, der Proceß des Immaterialisirens selbst sind ; so lange sie nicht in dieser concreten Idealität begriffen werden , mag man immerhin behaupten , sie seien immateriell, sie sind es doch nur in unserer Meinung , nicht an und für sich. Die Monaden sollen Seelen sein , allein sie sind es nicht, weil sie keine wirkliche Macht über den Körper haben , weil sie nicht wahrhaft den Körper zu einem untheilbaren Ganzen gliedern und organisiren ; erst wenn die Seele als diese Energie des Körpers gefaßt wird , ist sie wirklich immateriell ; denn eben durch die Organisirung und Gliederung wird der Körper zu einem harmonischen Ganzen in sich , er wird untheilbar , immateriell, und die Seele ist so der reale Proceß , die Materie zur Idealität aufzuheben. Da die
+
+Monaden schlechthin ohne einen solchen Proceß sind , sind sie im Grunde
+
+- was sie nicht sein sollen nur mathematische Punkte , von denen es nicht zu begreifen ist , wie sie sich vorstellend verhalten können , und indem sie ohne ihre Vermittelung als unmittelbar verschieden gesetzt sind , fallen sie räumlich aus einander. Sobald der Punkt zur realen Eristenz kommt , z. B. als Centrum des Planeten , der Sonne, so beginnt er auch die Aeußerlichkeit [p. 14] der Materie zu umfassen und zu negiren , und nur so ist er wirkliche Immaterialität. Es ist für den Begriff der
+
+Monas nicht ohne Bedeutung , daß Leibnitz durchgängig von dem Zusammengesetzten ausgeht und von diesem auf die Eristenz des Einfachen schließt; so erscheint die Theilung des Zusammengesetzten immer als eine Annäherung an das Einfache , und die Monaden werden ähnlich wie die Atome, nicht durch die reale Negation des Zusammengesetzten gewonnen .
+
+In der Wolffchen Philosophie treten die Widersprüche der Leibnißischen in verständiger Weise unverdeckt hervor. Es wird nicht nur im Augemeinen von dem Zusammengesetzten auf das Einfache geschlossen , sondern auch die weiteren empirisch aufgenommenen Eigenschaften des
+
+Zusammengesetzten werden unmittelbar auf das Einfache übergetragen . Vor allem ist das Zusammengesetzte, der materielle Körper passiv , indem er von außen bewegt wird , und nichts in der materiellen Erscheinung ohne diese Vermittelung der äußeren Bewegung geschieht also verhalten sich auch die einfachen Substanzen , in welchen der Grund für die Erscheinung liegt , in der Beziehung auf einander passiv. Der Körper ist aber auch thätig , indem er , gestoßen von einem anderen , Widerstand leistet - also müssen auch die einfachen Wesen das Princip der Thätigkeit, eine Kraft in sich fassen , obwohl sie als einfache ohne Bewegung in sich und ohne inneren Unterschied gedacht werden müssen .*)
+
+Die einfachen Substanzen sind schlechthin von den zusammengesetzten Körpern verschieden , sie sind immateriell, unausgedehnt , und darum auch nicht die Theile des Körpers,
+
+*) 1. S. 626 f.
+
+[p. 15] allein das Ausgedehnte , Materielle entsteht doch schon darum aus den einfachen Elementen , weil diese als verschieden von einander ihren besonderen Punkt einnehmen ; dabei ist aber die Materie doch wesentlich Phänomen , indem wir nicht im Stande sind, die Elemente als solche in ihrem bestimmten Unterschiede von einander mit unserem Gedanken zu erfassen . ) A.
+
+Der Idealismus Berkley's.
+
+$. 1 .
+
+So sehr es auch in der Eigenthümlichkeit des Berkleyschen Idealismus liegt , daß er nicht auf eine specielle Betrachtung der Natur eingeht , so ist er doch im allgemeinen für die Entwicelung der Philosophie überhaupt und nicht minder der Naturphilosophie von Wichtigkeit; er ist ein nothwendiges Glied in der Kette der idealistischen Systeme der vorkantischen Philosophie. Berkley sucht vor allem die Annahme , daß körperliche
+
+Dinge selbständig außer unserm Denken eristiren , und daß von ihnen die Bestimmtheit unserer Empfindungen und unserer sinnlichen Ideen herrühre , als eine durchaus irrige, als den Grundirrthum sowohl des unmittelbaren als des philosophischen Bewußtseins aufzuweisen . Unter Idee versteht Berkley ganz ähnlich wie Locke das unmittelbare Object des Geistes. Die Ideen entstehen nach der gewöhnlichen Meinung theils durch sinnliche Eindrücke
+
+, theils werden sie durch die freie Thätigkeit des Geistes erzeugt.
+
+Daß die Produkte unserer Phantasie, daß die inneren Gemüthszustände und Gedanken eben in uns
+
+*) 1. Th. S. 529 .
+
+[p. 16] und nirgends anders existiren , giebt Jedermann zu ; allein von den Ideen , welche durch die sinnliche Empfindung in uns entstehen , meint man durchgängig , daß sie sich wesentlich und nothwendig auf äußere Dinge bezogen , daß ihnen nicht bloß eine Realität im Geiste , sondern eine Realität
+
+außer unserem Denken , eine körperliche Realität zuzusprechen sei. Durch die Empfindung meint man ein Anderes zu percipiren als sich selbst, und auf die Empfindung vor Allem , nicht auf das Denken beruft man sich, wenn man die äußere Realität der Körper beweisen will.
+
+Berk :
+
+ley wendet sich daher vor allem zur Betrachtung der sinnlichen Ideen , um zu zeigen , wie sie ebenso wie die Bilder der Phantasie nirgends anders eristiren können als im Geiste. Was wir von den Dingen , welche wir zu percipiren meinen , auszusagen pflegen , nämlich Farbe , Figur, Bewegung, Geruch , Geschmack, sind Wahrnehmungen, Vorstellungen
+
+, Ideen ; es ist daher durchaus widersprechend, ( diese einem nicht vorstellenden Wesen beizulegen , sich also das körperliche, nicht denkende Ding als das Substrat zu denken , dem diese verschiedenen Ideen anhafteten.
+
+Man pflegt zwischen primären und secundären Qualitäten zu unterscheiden .
+
+Die secundären , wie z. B. die Farbe, der Geschmack , sollen nur in einem wahrnehmenden Wesen eristiren können , dagegen die primären , wie Ausdehnung, Bewegung , Ruhe , Solidität , sollen wirkliche Beschaffenheiten des Körpers sein . Bei näherer Untersuchung aber zeigt es sich, daß auch diese primären Qualitäten nichts weiter sind als subjective Ideen.
+
+Die Ausdehnung ist nothwendig von einer bestimmten Größe , diese aber ist ganz relativ und das Maaß derselben durchaus von der Eigenthümlichkeit unserer Sinnesorgane abhängig.
+
+Damit fällt aber auch die objective Bedeutung der Ruhe und Bewe [p. 17] gung fort. Eben so ist auch die Solidität nichts weiter als die subjective Empfindung des Widerstandes , und diese hat sogleich wieder die nähere Bestimmung der Härte , Weiche u. s. w. an sich , ohne welche die Empfindung des Widerstandes ganz undenkbar wäre. Wenn wir aber durch unsere
+
+Empfindung nur unsere eigenen Ideen percipiren , so wird man noch viel weniger durch Raisonnement genöthigt werden , selbständige Dinge außer uns anzunehmen ; denn dieses stützt sich ja doch nothwendig auf die Empfindung. Vor Allem ist es die Erfahrung, daß die sinnlichen Ideen ohne unseren Willen in uns entstehen , welche zu dem Glauben an körperliche Dinge zu nöthigen scheint. Wenn die Annahme solcher körperlichen Dinge hilft zu nichts und erklärt nicht das, was sie erklären soll. Hervorbringen können die Dinge unsere Ideen schon darum nicht, weil sie dann geistige Wesen sein müßten ; denn die Thätigkeit, welche dies Hervorbringen verursacht , kann nicht gedacht werden ohne Willen , Geist. Die Dinge können unmöglich das in uns hervorbringen , was sie selbst nicht haben. Anzunehmen , daß unsere Ideen Bilder oder Copien der
+
+Dinge seien , ist ebenfalls unmöglich , denn eine Idee kann nur von einer Idee Copie sein ; und eben so in sich widersprechend wäre es , die Dinge etwa nur als die Veranlassung oder als die Gelegenheit für unsere Ideen zu betrachten , ohne aber damit die Dinge selbst irgendwie erkennen zu wollen ; denn so wären die Dinge , indem eben nichts von ihnen in unsere Perception eintreten soll , auch wirklich für uns nur Nichts.
+
+Wenn nun aber auch die Annahme der körperlichen
+
+Dinge durch nichts gerechtfertigt werden kann , so sind wir doch genöthigt , den Grund unserer Ideen nicht bloß in uns und in unserer Thätigkeit , sondern außer uns zu su: staller. II.
+
+[p. 18] chen , einmal , weil gewisse Ideen entschieden nicht durch unsere Wilführ und Phantasie erzeugt werden , sondern ohne unser Zuthun in uns entstehen , und dann , weil wir eine constante Verbindung zwischen den Ideen bemerken , welche wir ebenfalls nicht durch unsere Willführ hervorbringen. Nur ein thätiges , über uns selbst unendlich erhabenes Wesen , also nur ein Geist kann die Ideen und die constante Ordnung derselben in uns produciren. Dieser Geist ist Gott. Jede sinnliche Idee also , die ohne unser Zuthun in uns entsteht, und die sich schon durch Kräftigkeit und Lebendigkeit von den bloßen Bildern unser Phantasie unterscheidet , ist ein Werk Gottes ; er hat , als absoluter Geist, alle Ideen in sich, und zwar sind diese seine eigene freie Production , und eben so verbindet er vermöge seiner Weisheit bestimmte Ideen in uns fortwährend mit einander.
+
+Eben diesen Complex bestimmter Ideen pflegen wir Ding zu nennen ; und die festen Regeln und Methoden , nach welcher Gott die Ideen in uns erzeugt , nennen wir Gesetze der Natur. Gewissermaßen wird daher die selbständige und von uns unabhängige Realität der Dinge außer uns nicht geleugnet; es wird immer nur geleugnet, daß sie wo anders als in einem Verstande eristiren können. Obwohl wir daher von Gott keine Idee haben , weil diese nur ein Passives , ein Percipirtes ist , der Geist aber we:
+
+sentlich ein thätiges wollendes Wesen , so ist uns Gott doch durchaus nicht unbekannt; das Entstehen der Ideen in uns führt uns nothwendig auf die Anerkennung Gottes hin, und eben in diesen Ideen und ihrer constanten Ordnung wird uns das Wesen Gottes offenbar. ES existirt also nichts weiter als Geister und Ideen.
+
+Der Geist ist ein einfaches untheilbares thätiges Wesen ; in sofern er Ideen wahrnimmt, heißt er Berstand , in sofern er Ideen produ:
+
+[p. 19] Die endlichen Geister empfangen die Idee zum Theil durch Gott , zum Theil produciren sie diesel:
+
+cirt , heißt er Wille.
+
+den auch aus sich , der absolute Geist aber ist schlechthin thätig ohne alle Passivität. In der Schrift : Essay towards a new theory of vision , welche schon vor den Principien erschien , sucht Berkley zu zeigen , daß die Perceptionen der verschiedenen Sinne keine wesentliche Beziehung zu einander haben , sondern vielmehr schlechthin verschiedene für sich bestehende Ideen sind , welche wir nur durch Erfahrung mit einander verknüpfen. Was wir sehen , ist nichts weiter als eine Mannigfaltigkeit von
+
+Licht und Farbe.
+
+Es ist daher eine bloße Täuschung, wenn wir die Entfernung durch das Auge wahrzunehmen meinen ; diese wird vielmehr erst aus dem Grade der Klarheit oder Berworrenheit erschlossen , in welcher uns das Gesehene erscheint; und zwar soll nach Berkley die größere Klarheit auf eine weitere Entfernung deuten , die Verworrenheit aber auf eine größere Nähe des Gegenstandes. (Je näher uns nämlich der Gegenstand rückt, desto weniger sind wir im Stande , ihn als ganzen zu übersehen .) Um aber von dem Grade der Berworrenheit auf die Entfernung schließen zu können , müssen wir nothwendig erst das Gefühl zu Hilfe genommen haben , wir müssen uns dem gesehenen Gegenstand genähert , ihn betastet haben , um die bestimmte Entfernung mit dem Grade der Deutlichkeit in Beziehung zu regen . Die Bilder des Auges für sich können wohl größer , kleiner , verworrener , klarer werden , aber sich nä:
+
+hern oder entfernen können sie sich unmöglich.) Was im Allgemeinen die Größe des Gesehenen betrifft, so ist von der einen Seite das minimum visibile für alle Wesen gleich groß , und es ist unmöglich, daß dasselbe durch eine besondere Bildung des Auges oder durch eine besondere Schärfe 2 * [p. 20] des Gesichts für ein Wesen kleiner als für das andere würde .
+
+Denn das minimum visibile ist nicht weiter in
+
+Theile zerlegbar , ist Punkt und eben darum für alle sehende Wesen gleich . Von der anderen Seite sehen wir von den sichtbaren Punkten zu jeder Zeit immer eine gleiche an :
+
+zahl ; unsere Aussicht also ist immer gleich groß , denn es ist unmöglich , daß ein minimum visibile mehr als ein anderes verdecken könnte . Das Sehvermögen ist desto vollkommener , je größer der Gesichtskreis oder je bedeutender die Zahl der gesehenen Punkte , und ferner je größer die Fläche ist, welche mit einem Male , also ohne das Auge hin und her zu wenden , mit Klarheit übersehen wird. Es folgt hieraus , daß unser Sehvermögen durch den Gebrauch der Mikroskope nicht vervollkommnet wird. Das Mikroskop versetzt uns aber in eine ganz neue Welt , in welcher auch unsere früheren Erfahrungen ihre Geltung verlieren , indem wir das durch das Mikroskop Gesehene gar nicht mehr mit dem Gefühlten in Beziehung setzen können. Weiter fragt es sich , ob die Lage der Gegenstände durch das Auge wahrgenommen werden könne.
+
+Besonders findet hier die bekannte Schwierigkeit statt , daß während die Objecte sich auf der unteren Fläche des Auges verkehrt abbilden , wir sie doch in aufrechter Stellung erblicken . Es ist zur Lösung dieser Schwierigkeit vor Allem wieder zwischen den Ideen des Gesichts und des Gefühls zu unter: Die Ideen von Oben und Unten erhält man scheiden . hst durch das Gefühl , durch das Betasten des Gegen : zunäc standes mit den Händen ; den Theil des Körpers , durch welchen man den anderen getragen fühlt , wird man den unteren nennen , und diesen Ausdruck auch auf andere Ge:
+
+genstände anwenden ; ähnlich ist höher das der Erde entfernte , niedriger das der Erde nähere. Wenn ein Blind :
+
+[p. 21] geborener , welcher diese Ideen bereits durch sein Gefühl gewonnen , plötzlich sein Gesicht bekäme , so würde er bei dem ersten Blicke keinen Gegenstand für hoch oder niedrig, für gerade oder für verkehrt halten ; denn er würde das
+
+Gesehene gar nicht auf die Ideen des Gefühls beziehen. Wenn er nun aber seine Augen auf und nieder , hin und her wendet , so wird er bemerken , daß die sichtbaren Gegenstände sich verändern , und so kommt er dazu (was der nicht blind Geborene immer zu thun pflegt) , auf diese Gegenstände ähnliche Ausdrücke anzuwenden , welche er früher nur für berührbare Dinge brauchte; er wird die Gegenstände obere nennen , die er erblickt, wenn er die Augen in die Höhe richtet, und diejenigen untere , welche er sieht, wenn er die Augen niederwärts richtet. Hierin liegt nun auch der Grund , warum man diejenigen Objecte für die oberen hält , die auf dem unteren Theile des Auges abgebildet sind ; denn wenn man das Auge in die Höhe richtet , so sieht man diese am deutlichsten , dagegen die auf dem oberen Theile des Auges abgebildeten am deutlichsten gesehen werden , wenn man das Auge niederwärts richtet. Ist einmal durch die Erfahrung die Beziehung zwischen den Ideen des Gesichts und Gefühls bekannt geworden , dann wird freilich der Geist im Stande sein , von der
+
+Art und Weise, wie er die sichtbaren Dinge percipirt , auch auf die correspondirende äußere Lage der fühlbaren Dinge zu schließen.
+
+An sich aber haben die Ideen des Gesichts gar nichts mit den Ideen des Gefühls gemein ; das Gesehene ist nur ein Gefärbtes ; was man fühlt , ist hart oder weich , warm oder kalt , rauh oder glatt ; man sieht also nicht dasselbe, als was man fühlt, wenn man auch durch die Gewohnheit einer bestimmten Correspondenz zwischen dem Gesehenen und Gefühlten sogar beides mit denselben
+
+[p. 22] Worten bezeichnet. Die sichtbare Größe ist ganz etwas Anderes als die berührbare Größe , und eben so die
+
+sichtbare und berührbare Figur. Nur wenn man von der Ausdehnung , Figur und Bewegung die Bestimmtheit abstrahirt, also alle diese Ideen ganz abstract und unbestimmt zu fassen versucht, wird man auf die Ansicht geführt, es könnten diese Ideen eben so sehr durch das Gesicht als durch das Gefühl gewonnen werden. Allein eine solche abstracte Idee ist eben etwas durchaus Unbegreifliches und Unvorstellbares, und es ist eine bloße Täuschung, wenn man meint , abstracte Ideen denken zu können . Eine Linie oder Fläche, die weder schwarz noch weiß , noch blau noch gelb u. s. w. , weder lang noch kurz , noch rauh noch glatt u. s. w. ist, ist schlechthin unvorstellbar ; jede Idee ist viel:
+
+mehr wesentlich eine einzelne , bestimmte. Besonders durch die Reflexion auf die Sprache wird man verführt , dem
+
+Menschen die Fähigkeit zuzugestehen , Allgemeinbegriffe bilden zu können ; denn die Worte scheinen vorzugsweise nicht einen einzelnen Gegenstand, sondern eine allgemeine Idee zu bezeichnen . Allein in der Sprache gilt nur ein Einzelbegriff statt aller gleichen , ähnlich wie in der Mathematik ein bestimmter Triangel als Repräsentant oder Symbol aller anderen gebraucht wird.
+
+§. 2 .
+
+Berkley's Naturansicht in ihrem Verhältniß zu den früheren Stufen des Idealismus .
+
+Gegen Berkley's Ansicht von der Materie und der weiteren materiellen Bestimmtheit würde Leibnitz vor allem einwenden , daß das Phänomen der Materie nicht bene fundatum sei; denn es fällt bei Berkley der ideelle Zusammenhang der denkenden Substanzen fort , wodurch Leibnitz [p. 23] die dunkle Vorstellung des Unendlichen in jeder einzelnen
+
+Monas vermittelte. Die einzelnen Geister Berkley's haben weder äußerlich noch innerlich irgend einen Zusammenhang, stehen in keiner Harmonie , bilden kein geordnetes gegliederte3 Ganzes, sondern fallen wie Atome ganz beziehungslos aus einander ; die sinnlichen Ideen werden daher den Geistern ohne alle weitere Vermittelung von Gott eingegeben. Ferner fällt bei Berkley der quantitative · Unterschied fort, welchen Leibnitz zwischen den Monaden statuirte ; die Geister Berkley's sind bewußte denkende Wesen , haben also den höchsten Grad der monadischen Vorstellung , welchen
+
+Leibnitz nur einem Theil der Substanzen zugestand. Dieser graduelle Unterschied der Perception ist noch ein Rest des unmittelbaren Unterschiedes zwischen Geist und Natur ; die Vorstellung wird darin so degradirt , daß sie nur dem Namen nach Vorstellung bleibt , wie denn auch Leibnitz sehr geneigt dazu ist, besonders aus den schlafenden Monaden unmittelbar den Körper bestehen zu lassen . Berkley befreit die Substanzen von diesem Reste des Natürlichen, indem er sie als denkende sich wissende Wesen faßt ; und indem auch bei Leibnitz die Monaden nicht wirklich das
+
+Sein negiren und in sich zusammenfassen , so stellen sich die Geister der Berkley'schen Philosophie als die zu ihrer ES existiren in Wirklichkeit nur denkende Wesen und Pro :
+
+Wahrheit erhobenen Monaden dar.
+
+ducte des Denkens , Ideen ; die Idealität ist nur die reine Bewegung in sich selbst, und alles unmittelbar Seiende , Aeußerliche ist Schein .
+
+Die Nothwendigkeit , über die endlichen Geister zum absoluten Geiste hinauszugehen , liegt in der Berkley'schen Philosophie eben darin , daß die endlichen Geister nur als abstract denkende gefaßt werden , ohne alle Unmittelbarkeit, [p. 24] ohne allen realen , das Sein negirenden Proceß. Dies Denken nämlich ist das schlechthin willkührliche Erzeugen von Ideen , ohne Gesetz , ohne Ordnung ; diesem willkührlichen Erzeugen widerspricht thatsächlich das unwillkührliche Entstehen der Ideen in uns , und der constante Zusammenhang derselben , welcher eben so wenig durch unser Denken gelegt ist. Diese Sphäre des Unwillkührlichen ist die Sphäre der Empfindung, der Sinnlichkeit ; indem die Geister ohne alle Sinnlichkeit sind , indem es in der ganzen Wirklichkeit nichts giebt als Geister und Ideen , so kann das Unwillkührliche in uns nur die Production eines anderen Geistes sein , der eben dadurch , durch diese Macht, die Ideen in den endlichen Geistern hervorzubringen , der höhere , der absolute Geist ist. Die Endlichkeit also ist Unfreiheit, ist Schranke in der Production der Ideen , Passivität; der absolute
+
+Geist allein ist das schlechthin ungehinderte Erzeugen der Ideen aus sich , die schlechthin willkührliche Production. Daß der absolute Geist in constanter Weise in uns bestimmte Ideen mit einander verbindet , ist daher selbst wie der Product der göttlichen Willkühr ; die Ideen an sich entbehren aller wesentlichen Beziehung , und könnten also in ganz entgegengesetzter Weise mit einander verknüpft werden . Wenn diese constante Verbindung als eine That , als ein Beweis der göttlichen Weisheit bezeichnet wird , so läge diese Weisheit zunächst nicht in der Bestimmtheit jener Verbindung , sondern nur in dem Constanten derselben ; eine andere Verbindung wäre eben so weise. Die Weisheit dieses
+
+Constanten soll aber besonders darin bestehen , daß nur unter der Voraussetzung einer solchen Regelmäßigkeit der Ideenverbindung es dem Menschen möglich ist, sein Thun zweckmäßig und vernünftig einzurichten. Der Mensch würde also z. B. ohne Weiteres ins Feuer laufen , wenn er nicht [p. 25] durch die Erfahrung wußte , daß auf die Wahrnehmung des Feuers durch die Augen das schmerzhafte Gefühl der Verbrennung folgt , wenn er sich dem Feuer zu sehr nähert ; wie sollte aber diese Erfahrung gemacht werden können, wenn die Verbindung zwischen der Idee als gesehenen und gefühlten Feuers nicht constant wäre ? Freilich ist das Thun , jenes Laufen ins Feuer oder das sich Entfernen von ihm ebenfalls wieder keine wirkliche äußerliche Bewegung ; sondern vielmehr Idee ; diese Idee muß aber zum Theil wenigstens vom Menschen selbst producirt sein , indem er hier die Wahl zwischen entgegengesetzten Ideen hat ; hat sich jedoch der Mensch einmal zu einer bestimmten Idee entschieden, so tritt diese erst dann in Wirklichkeit, d. h. sie erscheint erst dann als ein wirkliches Thun , wenn sie zugleich durch Gott in den Menschen gesetzt ist.
+
+Der Mensch würde sonach durch seine Wahl den absoluten Geist veranlassen, eine bestimmte Idee in ihm zu sehen , und eben hierin würde das sogenannte freie Handeln bestehen . Um die Unwahrheit der gewöhnlichen Ansicht von den natürlichen Dingen zu beweisen , wendet sich Berkley vor
+
+Allem an die Empfindung.
+
+Denn durch die Empfin :
+
+dung percipiren wir das Einzelne, und auf die Empfindung beruft man sich , wenn die Eristenz der äußerlichen Dinge in Zweifel gezogen wird ; auch das Denken , wenn es die Eristenz der einzelnen Dinge beweisen will , geht von der Empfindung aus , und eben diese scheint dem Denken undenkbar , unbegreiflich ohne die Eristenz empfindbarer Objecte. Jede Empfindung setzt nun aber ein empfindendes thätiges Wesen voraus , und sonach kann keine Bestimmtheit der Empfindung unmittelbar dem Dinge zukommen ; was wir von einem Dinge aussagen mögen , ist immer so be :
+
+schaffen , daß es nur einem Geiste angehören kann. Hier:
+
+[p. 26] mit wird also von den Empfindungen nur gezeigt, daß sie selbst wesentlich Gedanken , Ideen sind. Ferner aber zeigt Berkley wie die Empfindungen oder die sinnlichen Ideen ohne alle gegenseitige Beziehung aus einander fallen . Hierin liegt ein neuer Beweis für die Nichteristenz der finnlichen Dinge. Denn gerade der wesentliche Zusammenhang der Empfindungen scheint nirgends anders herrühren zu können , als von einem Dinge , welches für die verschiedenen Empfindungen die einfache identische Basis und Ursache ist, so daß also das Individuum eben dasselbe Ding sieht, als fühlt, als schmeckt u. f. w. Sind aber die Empfindungen ihrem Inhalte , ihrer ganzen Bestimmtheit nach von einander verschieden , lassen sie keine wesentliche substanzielle Vereinigung zu , so fällt damit nothwendig auch die Annahme fort, nach welcher der Gegenstand Ursach der verschiedenen Empfindun:
+
+} gen sein soll , welche sich scheinbar auf ein und dasselbe Object beziehen. Eine Vereinigung verschiedener sinnlicher Ideen durch ein Object wäre eine substanzielle Vereinigung , oder eine solche , welche die Selbständigkeit der Ideen , ihr abstractes Fürsichsein aufhebt ; wenn dagegen Gott die Ideen vereinigt , so respectirt er deren selbständige Verschiedenheit, er fügt sie nur äußerlich an einander , läßt nur neben der einen auch die andere entstehen .
+
+Unmittelbar hiermit hängt die Polemik Berkley's gegen die allgemeinen Be :
+
+griffe zusammen.
+
+Unter diesen nämlich pflegt man Producte des Denkens zu verstehen , durch welche viele gegebene
+
+Objecte zusammengefaßt, vereinigt werden ; in diesem Sinne kann es nach Berkley keine allgemeinen Begriffe geben
+
+, weil damit nothwendig die äußerliche Eristenz der einzelnen Dinge zugegeben wäre ; indem es nur Ideen giebt, so können diese unmöglich die äußerliche Vielheit des Eristirenden in sich aufheben und umfassen. Die Art und Weise,
+
+!
+
+[p. 27] wie Berkley die Möglichkeit allgemeiner Begriffe zu widerlegen sucht, ist freilich von seinem eigenen Standpunkte aus betrachtet sehr einseitig und mangelhaft. Wenn er nämlich behauptet , er selbst habe entschieden die Fähigkeit nicht, allgemeine Begriffe zu denken , so scheint er hier unter Denken
+
+immer nur das sinnliche Vorstellen zu verstehen ; man könne also den Begriff des Triangels , den allgemeinen Triangel nicht hinzeichnen. Ferner aber muß Berkley seinen eigenen Principien gemäß , wenn auch in einem anderen Sinne, die Eristenz allgemeiner Begriffe festhalten . Die sinnlichen Ideen sondern sich nicht nur in bestimmte allgemeine Arten ab , in die Ideen des Gesichts , Gefühls u. f. w. , sondern es giebt auch einen constanten Zusammenhang der Ideen , und dieses Constante wird erfahren , zum Bewußtsein gebracht, gedacht; was ist es anderes als ein allgemeiner Begriff, nur mit dem Unterschiede, daß er nicht Dinge, sondern Ideen zusammenfaßt? So wenig aber das subjective
+
+Denken die Dinge durch allgemeine Begriffe zusammenfassen kann , weil es keine Dinge giebt , eben so wenig kann es , aus demselben Grunde , Begriffe , Ideen geben, welche im objectiven Sinne die Dinge umfaßten , welche also die Substanz, das allgemeine Wesen der Dinge wä Wäre so z. B. die Ausdehnung als das Wesen der Dinge gefaßt, so macht Berkley zunächst dagegen geltend, daß die Ausdehnung nur eristiren kann als bestimmte Größe und diese wieder nur in einer weiter bestimmten Qualität ; damit wird dieser allgemeine Begriff wieder auf die sinn ren.
+
+liche Empfindung zurückgeführt und verliert seine objective Geltung.
+
+Es könnte scheinen , als wäre in der Berkley'schen Auffassung der Natur der Mechanismus wesentlich überwunden .
+
+Allein dies ist so wenig der Fall , daß vielmehr [p. 28] der Berkley'sche Idealismus als die nothwendige Entwickelung , als die letzte Vollendung der mechanischen Naturbetrachtung begriffen werden muß. Freilich fällt , indem die Natur nur der Compler der sinnlichen Ideen ist, alle äußere Bewegung, aller Stoß der Körper gegen einander fort ; jedoch gerade in der Erscheinung des Stoßes und den Gesetzen desselben mußte den Körpern eine Selbständigkeit zugestanden werden , welche mit den Principien der mechanischen Naturbetrachtung in Widerspruch stand. Der Körper soll wesentlich ohne alle thätige Kraft , er soll schlechthin passiv sein ; diese totale Trägheit und Passivität wird aber nur erreicht, wenn der Körper ohne alles Fürsichsein als verschwindendes Moment des Denkens gelegt wird ; sobald dagegen die Körper als unterschiedene, sich äußerlich auf einander beziehende aus dem Denken heraustreten , so ist ihnen damit auch der Proceß des Sichsetzens, also eine bestimmte Activität zugestanden . Von den abstract idealistischen Principien Berkley's aus ist nun ein weiteres Eingehen auf die concreten Gestalten der Natur ohne wesentliches Interesse, auch in gar keiner anderen als in rein empirischer Weise möglich. ' Denn da alle constante Verbindung der Ideen nur ein Product der göttlichen Willkühr ist, so wird die Natur im Besondern , ihre Gesetze und Kräfte nur dadurch erkannt, daß man sich alles Denkens entschlägt, sich den sogenannten äußeren Eindrücken der Empfindung hingiebt , und an diesen einzelnen Erscheinungen das Gleichbleibende aufsucht. Der Philosoph muß thun , als wüßte er gar nichts von der Idealität der sinnlichen Dinge ; denn eben durch diese Gedankenlosigkeit öffnet sich das Subject der göttlichen Offenbarung , welcher sich diejenigen am meisten zu rühmen haben , welche sich nach der gewöhnlichen Ausdrucksweise nur [p. 29] wahrnehmend verhalten. Das Denken hat im Grunde nichts weiter zu thun , als jede falsche oder eigentlich alle Theorie abzuhalten ; denn die Theorie des subjectiven Idealismus besteht ja eben darin , daß die Dinge nur Wahrnehmungen des Subjects sind, also in dem Festhalten einer Sphäre, in welcher überhaupt noch keine Theorie aufgestellt wird, in welcher das Subject sich damit begnügt , die Augen zu öffnen und Erfahrungen zu machen . Die Philosophie ist nur dies kahle Umsehen der Wahrnehmung in die von Gott producirte Idee.
+
+Von den Principien der früheren idealistischen Systeme dieser Periode ist es unmöglich , den Idealismus Berkley's zu widerlegen ; vielmehr zeigt sich der letztere gerade in dem Kampfe mit jenen als die Wahrheit , als die nothwendige Consequenz der vorangehenden Principien.
+
+Am weitesten von Berkley entfernt und am sichersten vor dem Uebergang in den subjectiven Idealismus scheint Cartesius zu sein, indem er die Natur substanziell vom Geiste unterscheidet, also als ein selbständiges Reich dem subjectiven Denken gegenüberstellt. Den Uebergang aus dem allgemeinen Wesen der Natur , nämlich der Ausdehnung in die einzelnen Körper, macht sich Cartesius sehr leicht; er läßt diese allgemeine Ausdehnung durch Gott theilen , und dann diese Theile sich an einander reiben und stoßen , sich trennen , wieder verbinden u. f. w. Damit erscheint aber offenbar die allgemeine Ausdehnung schon als ein quantitativ bestimmter Körper, und Cartesius bringt es sich sonach nicht zum Bewußtsein , daß die Ausdehnung in ihrer Allgemeinheit , als Wesen der
+
+Natur , Gedanke, Idee ist.
+
+Schon für Malebranche, indem er die Ausdehnung in ihrer Allgemeinheit als Idee faßt , entsteht die Schwierigkeit , aus dieser Idee die reale Körperwelt herzuleiten ; die allgemeine Ausdehnung soll als
+
+[p. 30] Idee in Gott sein , die einzelnen ausgedehnten Körper aber sollen nicht nothwendig mit dieser Idee gesetzt sein , sondern deren Existenz soll vielmehr von dem Willen Gottes abhän: Malebranche hebt daher ausdrücklich hervor , daß es gen :
+
+sehr schwierig sei , die Eristenz der einzelnen Dinge zu beweisen ; man könnte sich hierin nur im Vertrauen auf die
+
+Wahrhaftigkeit Gottes auf die Empfindung berufen.
+
+In:
+
+aber von der anderen Seite nur das Denken , die klare Einsicht als das Princip des Erkennens gilt , so ist die Empfindung wesentlich die Möglichkeit der Täuschung, und diese wird auch von Gott nicht aufgehoben , so lange man sich nicht zum reinen Denken erhebt.
+
+In denselben
+
+Widerspruch verfällt auch Cartesius. Er nimmt die Eristenz des Körpers und der ganzen sinnlichen Welt empirisch auf ; freilich beginnt er mit dem Zweifel an deren Eristenz, allein durch die Wahrhaftigkeit Gottes soll dieser Zweifel kein Recht verloren haben , und doch gelangt das Denken, eben diejenige Form , in welcher allein das Wesen erkannt wird , nie durch sich selbst zur Gewißheit der sinnlichen
+
+Welt. Vielmehr bestimmt das Denken das Wesen des Geistes und der Natur in der Weise , daß es durch sich selbst von der Natur unmöglich Etwas wissen kann , und doch ist wieder die Empfindung , von welcher das Denken in der Erkenntniß der Natur nothwendig ausgehen muß , eben durch den substanziellen Gegensatz von Geist und Natur unmöglich und unbegreiflich geworden . Gegen Berkley's Beweis von der Nichteristenz der äußeren Dinge könnte sich daher Car:
+
+tesius nur auf die Empfindung berufen , und müßte seinen
+
+' eigenen Principien gemäß zugleich zugeben , daß die Empfindung wesentlich die Möglichkeit der Täuschung sei. Um die Eristenz der äußeren Natur zu beweisen , wäre einmal die Ausdehnung als das allgemeine Wesen der Natur in [p. 31] ihrer Nothwendigkeit zu begreifen ; es wäre zu zeigen , wie die allgemeine Ausdehnung nothwendig die Besonderung in ausgedehnte Körper in sich schließt; und ferner müßte die
+
+Empfindung in ihrer Nothwendigkeit als der Proceß deducirt werden , in welchem die subjective Idealität der Seele die Unmittelbarkeit und Äußerlichkeit in sich faßt, aber zugleich aufhebt. So lange das Wesen der Natur - die Ausdehnung - nur durch einen empirischen Ausgangspunkt für das Denken genommen wird , dieser aber zugleich für das Denken selbst unbegreiflich ist, so ist entschieden die Objectivität der Ausdehnung und der ausgedehnten Körper nur behauptet , nicht bewiesen .
+
+Von Spinoza gilt im Wesentlichen dasselbe. Die Ausdehnung als solche wird nicht nur durch die empirische Reflexion auf die gegebene menschliche Natur gefunden , sondern in ihrer Bestimmtheit ist sie auch nur eine besondere Anschauungsweise des endlichen Verstandes vom Absoluten ; im Absoluten selbst verschwindet sie zur unterschiedslosen
+
+Einheit mit dem Denken. Aus der Substanz oder aus der allgemeinen Ausdehnung vermag nun aber Spinoza ebenfalls nicht die Eristenz des Motus als eine nothwendige zu deduciren ; er bedarf auch hier wieder eines empi
+
+Einbeit mit dem Denken.
+
+rischen Ausgangs .
+
+Allein den Modis wird weiter alle und jede Selbständigkeit abgesprochen ; als selbständig faßt sie nur die endliche unwahre Imagination. Somit treten die Moti gar nicht aus der Substanz heraus , sie bleiben verschwindende Momente der allgemeinheit, d. h. sie bleiben wie die Allgemeinheit selbst Gedanken , und sind gar nicht was sie sein sollen , ein reales Außereinandersein , in welchem die einzelnen Bestimmtheiten sich äußerlich bedingen, sondern nur der abstracte mit sich identische Raum . Von
+
+[p. 32] Spinoza's Principien aus ist daher eben so wenig eine Widerlegung des Berkley'schen Idealismus möglich). Fassen wir die Entwickelungsstufen des Idealismus in dieser Periode kurz zusammen , so ist zunächst im Allgemeinen der Idealismus dieser ganzen Periode abstract, weil er innerhalb der unmittelbaren Einheit von Subject und Object , also innerhalb des Begriffs der Substanz sich bewegend , die Idee nicht als den concreten Proceß begreift, nicht als die Energie , das Sein und die Unmittelbarkeit zu negiren , und so sich selbst als unendliche Realität zu denken. Auf der ersten unmittelbaren Stufe faßt der Idealismus die Idee als die unterschiedslose Gleichheit mit sich , als das Sein ; die in sich proceßlose Substanz ist alle Wirklichkeit, und alle bestimmte Eristenz ist nur verschwindendes Moment des Seins. Hier ist der Idealismus am weitesten von seinem Begriffe entfernt ; das freie, sich selbst wissende Denken macht das Gegentheil seiner selbst, das Sein zum Absoluten. Freilich ist das Sein , als allgemeines , Gedanke ; auch soll die Substanz sowohl als denkend
+
+als auch als ausgedehnt begriffen werden ; allein indem die Substanz von diesem Unterschiede schlechthin unberührt bleibt , indem sie nur als reine Realität gedacht werden soll, ist sie an sich immer nur das Sein . Dies unterschiedslose proceßlose Sein existirt aber als solches in seiner reinen Allgemeinheit nur im subjectiven Denken ; es wird gedacht.
+
+Abstrahiren wir von dieser Beziehung des Seins zum subjectiven Denken , und wir müssen davon abstrahiren , weil die Substanz an und für sich , beziehungslos gefaßt werden soll, so muß nothwendig behauptet werden : die proceßlose Substanz ist als Sein wesentlich außersich Rein , Ausdehnung; dies ist nicht eins ihrer Attribute, überhaupt nicht Attribut, sondern vielmehr die wahrhafte
+
+[p. 33] Realität der Substanz, die Substanz selbst in ihrer Wirk: Das Sein faßt sich nicht in sich selbst zusammen, ist ohne allen Proceß der Vermittelung, ist die reine Trägheit , der Verlust seiner selbst, und mögen wir immerhin versichern , die Substanz sei nicht bloß Raum , Ausdehnung, lichkeit.
+
+Materie , so helfen alle diese Versicherungen nichts: die pro:
+
+ceßlose Allgemeinheit des Seins , losgelöst von unserem Denken , an sich eristirend , ist doch nichts weiter als das reine passive Außersichsein.
+
+Die Entwickelung des Idealismus besteht nun einfach darin , daß sich derselbe seinem Begriffe gemäß von dem Sein , von der Nichtidealität befreit , daß er die Idealität als solche, als Subjectivität zum Princip alles Seins erhebt.
+
+So ist auf der dritten Stufe des Idealismus alle
+
+Wirklichkeit nur Geist, subjectives Denken , und Idee , Product des Denkens. Die Substanz ist also hier nicht mehr proceßlos , sondern im Gegentheil der reine Proceß in sich ; allein eben in dieser Reinheit liegt wieder die Abstraction .
+
+Das Denken denkt nicht ein Sein , sondern nur den
+
+Gedanken , so daß also in diesem Proceß der Unterschied nicht als solcher gesetzt und negirt , sondern vielmehr seiner realen Eristenz nach geleugnet wird. Auf der ersten Stufe ist alles Eristirende verschwindendes Moment des Seins, auf der letzten verschwindendes Moment des Denkens ; dort proceßlos , hier der reine Proceß ; das eine ist so abstract als das andere.
+
+Es kommt also auch auf dieser höchsten
+
+Stufe des Idealismus nicht zum Gegensatz von Subject und Object , sondern der Proceß des Denkens ist unmittelbar alles Sein. Zwischen diesen abstracten Extremen in der Mitte liegt die für diese Periode concretefte Gestalt des Idealismus , die Leibnizische Philosophie. Das wahrhaft Wirkliche ist das S daller. II .
+
+[p. 34] Denken ; dies umfaßt aber nicht bloß den Gedanken , sondern das objective Sein ; die Idealität soll concreter Proceß sein , lebendige Seele , dominirendes Denken . Allein dieser concrete Proceß ist hier wesentlich Widerspruch in sich selbst; die Monaden fallen zugleich selbständig aus einander, und ihre Einheit ist nur eine von außen in sie gesetzte © prästabilirte Harmonie. Auch in der Berkley'schen Philosophie ist der Zusammenhang zwischen den endlichen Geistern und dem absoluten Geiste schlechthin unbegriffen ; er ist ein ganz kahles Wun Das Wunderbare und Unbegreifliche fängt aber nicht der. etwa erst hier an , es liegt schon in der Annahme von einzelnen individuellen Geistern , die unmittelbar verschieden , aber doch ohne reale unmittelbarkeit gedacht werden sollen ; als unmittelbar verschieden fallen sie nothwendig räumlich aus einander. Also das Unbegreifliche liegt einfach in der schlechthin abstracten Natur der Idealität , die ihrem Begriffe nach unwahr und unwirklich , nicht das ist, was sie sein soll. B.
+
+Hume's Empirismus. $. 1 .
+
+Wir haben in der Entwickelung des Empirismus zwei Stufen nachgewiesen , welche ihrem wesentlichen Gehalte nach den Stufen des Idealismus entsprechen. Der Empirismus läßt das allgemeine aus der Beobachtung des Einzelnen resultiren , ohne dasselbe als Vermittelung mit sich, als in sich selbst concrete freie Allgemeinheit zu setzen. Dies als gemeine bleibt daher wesentlich ein durch den Ausgangspunkt selbst Bedingtes , es bleibt ein seiendes allgemeines. Eben dies ist der Grund , warum der Empirismus noth):
+
+[p. 35] wendig auf mechanische materialistische Principien getrieben wird. *) Auf der ersten Stufe des Empirismus wurde im Wesentlichen alle Erscheinung und Gestaltung der Natur
+
+auf Modificationen der Ausdehnung und der äußeren Bewegung zurückgeführt; auf der zweiten dagegen wurde der Materie eine Kraft der Anziehung , auch wohl der Abstoßung zugestanden , obwohl man demungeachtet das Gesetz der Trägheit doch als das Fundamentalgesetz der Natur festhielt: also es wurde ganz ähnlich wie im Idealismus in einseitiger sich widersprechender Weise über die abstract mechanische
+
+Auffassung der Natur hinausgegangen .**)
+
+Auf der ersten
+
+Stufe ist der Empirismus am weitesten von seinem Begriffe entfernt, indem er ganz unbefangen ohne weitere Reflexion das Allgemeine von dem Besonderen abstrahirt, ohne Bewußtsein , daß dies Allgemeine als solches nicht empirisch gewonnen , sondern wesentlich Product des Denkens ist. Der Empirismus ist sonach unmittelbar mit dem Idealismus behaftet. Auf der zweiten Stufe kommt der Empirismus zur Reflexion über sich selbst. Er sucht ausdrücklich nachzuweisen , aus welchen besonderen Erfahrungen die allgemeinen Begriffe und Ideen entspringen Allein auch diese Reflexion ist hier wesentlich noch eine halbe , unvollendete , indem der Empirismus einmal auch die Beobachtung der inneren Zustände des Geistes gelten läßt und damit seiner Annahme , der Geist schöpfe uues aus der Erfahrung, unmittelbar widerspricht, und ferner indem er gewissen Ideen , obwohl sie nur aus der äußeren Erfahrung gewonnen werden sollen , doch den Werth objectiver Allgemeinheit und Nothwendigkeit zugesteht. Der Materialismus hebt nur *) S. 1. Th. S. 59. S. 401.
+
+**) 1. Th. S. 363 ff. S. 416. 3*
+
+[p. 36] Erst im Skepticismus Hume's gelangt der Empirismus zu seiner Vollendung, indem er innerhalb seiner eignen Sphäre zum Theil diese Widersprüche auf.
+
+zum Begriffe über sich selbst fortgeht.
+
+Wir haben hier nur kurz die Momente hervorzuheben , welche für die Entwickelung der Naturphilosophie von Bedeutung sind. Hume unterscheidet zwischen
+
+Eindrücken und
+
+Ideen . Die Eindrücke sind die nothwendige Voraussetzung für die Ideen ; sie geben dem Denken das Material , und dieses ist nur im Stande , die Eindrücke zu reproduciren und zu combiniren.
+
+Alle unsere Begriffe also oder schwä.
+
+cheren Vorstellungen sind Copien unserer
+
+Impressionen oder unserer lebhafteren Vorstellungen.
+
+Haben wir da:
+
+her den Verdacht, daß ein philosophischer Ausdruck ohne be stimmten Sinn gebraucht werde , so ist nur die Frage auf: zuwerfen : von welcher Impression stammt die Idee her, welche mit jenem Ausdrucke bezeichnet wird ? Ist diese Frage nicht genügend zu beantworten , so ist damit jener
+
+Verdacht vollkommen gerechtfertigt.* ) Alle Erkenntniß, die nicht bloß auf das Verhältniß der Ideen zu einander , sondern auf wirkliche Thatsachen ausgeht, stützt sich vor Allem auf das Verhältniß von Ursach und Wirkung.
+
+kung.
+
+Durch dies Verhältniß allein geht unsere Erkenntniß über die unmittelbar sinnliche Empfindung hinaus zu einem Object fort , welches nicht unmittelbar den Sinnen gegenwärtig ist; auf einen solchen Gegenstand wird also geschlossen , und zwar mit dem Scheine einer objectiven
+
+Nothwendigkeit.**) A priori kann nun unmöglich das Cau: *) David Hume über die menschliche Natur , aus dem Englischen von L. H. Jacob. 1. Bd. Halle 1790. 1. Th. 1. Abschn. S. 29. **) Ebend. 3. Th. 2. Abschn. S. 154.
+
+[p. 37] salitätsverhältniß gewiß sein oder bewiesen werden , da Ursach und Wirkung verschiedene und somit trennbare Begriffe sind ; wir können daher eine Wirkung in dem einen Au: genblicke als nichteristirend, und in dem folgenden als eristirend denken , ohne sie mit dem völlig verschiedenen Begriffe einer Ursach oder eines productiven Vermögens zu verbin:
+
+den. Indem diese Trennung nichts Absurdes und Widersprechendes in sich enthält, so ist die nothwendige Vereinigung von Ursach und Wirkung durch Räsonnement aus blo:
+
+Den Begriffen unmöglich zu beweisen. *) Wie alle Begriffe, so kann auch das Causalitätsverhältniß nur aus der Erfahrung stammen ; es sind daher die Impressionen und Reflexionen zu suchen , durch welche der Geist zu diesem Begriffe von Ursach und Wirkung gelangt. Wir machen die Erfahrung , daß gewisse Erscheinungen beständig sich begleiten und auf einander folgen ; dadurch gewöhnen wir uns an die Verbindung bestimmter Erscheinungen , und eben diese Gewohnheit bringt in uns die Neigung hervor, von einem Dinge zu dem Begriffe desjenigen Dinges überzu:
+
+gehen , welches jenes gewöhnlich begleitet .
+
+Eben diese von der Gewohnheit bedingte Neigung ist es , welche in uns den Begriff einer nothwendigen Verbindung zwischen jenen
+
+Erscheinungen erweckt , 0. h. eben den Begriff von Ursach und Wirkung.
+
+Eine Ursach ist also ein Ding, das vor und neben einem anderen ist (in Zeit und Raum an dara selbe grenzt ) und das mit dem anderen so vereinigt ist, daß der Begriff des einen das Gemüth bestimmt, den Begriff des anderen zu denken , und daß der Begriff des einen einen lebhaften Begriff des anderen hervorbringt. Nothwendigkeit ist also Etwas , das bloß in dem Subjecte, * ) Erind. 3. Abschn . S. 169.
+
+[p. 38] gar nicht in den Dingen oder Objecten eristirt ; und es ist uns auch gar nicht möglich , uns nur den entferntesten Begriff davon zu machen , wenn wir sie als eine Eigenschaft in den Körpern ansehen.
+
+Wir haben also entweder gar keinen Begriff von Nothwendigkeit , oder sie ist nichts als die Bestimmung der Gedanken von Ursachen zu Wirkungen und von Wirkungen zu Ursachen , nach ihrer durch
+
+Erfahrung erlernten Vereinigung überzugehen . *)
+
+Wirksamkeit, Thätigkeit , Macht, Kraft, Gewalt, Nothwendigkeit , Verknüpfung , hervorbringende Eigenschaft sind im Wesentlichen gleichbedeutende Ausdrücke; man kann daher auch nicht den einen durch den anderen erklären.
+
+Von den neuen Erzeugungen in der Materie , von den Bewegungen und Veränderungen der Körper pflegt man auf eine Kraft zu schließen , welche diese Veränderungen hervorbringt. Die Meinungen der Philosophen über die Wirksamkeit dieser Kraft waren früher sehr verschieden. Nach Einigen sollten die Körper durch ihre substanzielle Form wirken , nach Anderen durch ihre Accidenzen oder Qualitäten, nach Anderen wieder durch ihre Materie und Form , oder durch ganz besondere Fähigkeiten . Der Grund dieser verschiedenen Ansichten liegt vor allem darin , daß überhaupt keine Erfahrung aufgewiesen werden kann , in welcher die Art und Weise der Wirksamkeit jener angenommenen Kraft hervortrate ; eben darum giebt man sich , um eine solche Wirksamkeit zu erklären , ganz willkührlichen Fictionen hin. Jetzt stimmen die meisten Philosophen darin überein , daß die letzte Kraft und Wirksamkeit der Natur uns gänzlich unbekannt sei; allein sie ziehen hieraus verschiedene Folge
+
+*) Ebend. S. 330. 337.
+
+[p. 39] rungen .
+
+So behaupten die Cartesianer , indem nach ihrer Ansicht uns das Wesen der Materie volkommen bekannt sein soll, daß die Materie überhaupt gar keine Kraft, kein Vermögen , Wirkungen hervorzubringen , besitze; das
+
+Wesen der Materie bestehe nur in der Ausdehnung , und hierin liege nur die Möglichkeit der Bewegung , aber nicht das Hervorbringen derselben . Sie verlangen daher die Kraft der Bewegung in Gott, und behaupten , Gott habe der Welt den ersten Stoß ertheilt und erhalte auch vermöge seiner Almacht diese Bewegung in continuirlicher Wirklichkeit. Den Begriff von Gott aber betrachten die Cartesianer als einen angeborenen. Auch gegen diese Ansicht ist vor allem das schon vorher Bemerkte festzuhalten , nämlich daß jeder Begriff erst Bedeutung gewinnt , wenn man die Impression nachweisen kann , aus welcher er gebildet wird. Es ist hierbei ganz indifferent, ob die Kraft der Materie oder der Gottheit zuertheilt wird ; ohne die Nachweisung der ihr entsprechenden Impression bleibt dieser Begriff schlechthin unverständlich.
+
+Die Kraft schließt auch die
+
+Nothwendigkeit des Wirkens in sich ; sie ist die Ursach ihrer Aeußerung , und so gilt denn von dem Begriff der Kraft ganz dasselbe, als was von dem Causalitätsverhältniß bemerkt wurde. *)
+
+Aus der Art und Weise, wie wir zu dem Begriffe der nothwendigen Verknüpfung von Ursach und Wirkung gelangen , folgt von selbst , daß alles Wissen des Wirklichen auf den Glauben einzuschränken ist. Dieser Glaube stützt sich auf Gewohnheit und Impression , und ist also nicht das Product eines Schlusses oder eines Beweises.
+
+* ) Ebend. 3. 31. 14. Abschn . S. 312 .
+
+Eben [p. 40] darin liegt auch der Grund , daß dieser Glaube nicht durch Räsonnement umgestoßen werden kann. Er kann nur momentan schwächer werden , indem während des Räsonnements selbst der Eindruck seine Lebendigkeit verliert; allein sobald jenes aufhört , tritt auch der Glaube wieder in sein Recht, in welchem mit einer bestimmten Impression durch die Gewohnheit sich eine andere verbindet , und zwar mit einer Lebendigkeit , welche dem extremen Skepticismus gegenüber hinreichende Gewißheit giebt. *) Auch die Wirklichkeit der körperlichen Welt kann nur geglaubt, nicht aber philosophisch bewiesen werden . Man kann daher wohl fragen : welche Ursachen bestimmen uns, an die Wirklichkeit der Dinge zu glauben ? aber umsonst wird man die Frage aufwerfen : ob es Körper gebe oder nicht? Um den Glauben an die Existenz der Körper zu erklären , müssen wir einmal nachweisen , warum wir den
+
+Dingen eine continuirliche Existenz, selbst alsdann beilegen , wenn sie unseren Sinnen nicht gegenwärtig sind, und dann , warum wir annehmen , daß sie eine von unserer
+
+Seele und unseren Vorstellungen verschiedene Wirklichkeit haben.
+
+Die Sinne für sich können uns weder von dem Einen noch von dem Anderen überzeugen. Sie geben uns keinen Begriff von der continuirlichen Existenz der Körper , weil sie nicht über den Kreis hinaus wirken können , in welchem sie in der That wirken. Eben so wenig bringen sie die Meinung von einer von uns verschiedenen Existenz der Körper hervor ; denn dann müßten sie fähig sein , das Object mit uns selbst zu vergleichen , was sie entschieden
+
+*) 4. 85. 1. 26[ch. ©. 366 | [p. 41] nicht thun. *)
+
+Auch die Vernunft kann es nicht sein, durch welche der Glaube an die Existenz der Körper entsteht; denn einmal findet sich dieser Glaube eben so sehr auch bei denjenigen , welche gar nicht philosophiren ; und ferner führt uns gerade die Vernunft zu der Ansicht, daß die körperlichen Dinge nicht existiren .
+
+Die neuere Philosophie unterscheidet zwischen primären und secundären Eigenschaften der Körper , und nur die ersteren sollen wirklich den Körpern selbst zugehören , die letzteren dagegen sollen nur Vorstellungen des Subjects sein. Es ist aber bald zu zeigen, daß diese Primären Eigenschaften , Ausdehnung und Solidität , mit ihren verschiedenen Modificationen nichts vor den secundären Eigenschaften voraus haben , daß sie ebenfalls nur bestimmte Impressionen sind , durch welche wir nicht auf die selbständige Existenz der Körper schließen können. **) ES bleibt uns daher nur übrig , aus der Einbildungskraft den Glauben an die Existenz der Körper herzuleiten. Da alle Impressionen innerliche und verschwindende wirkliche Dinge sind, und als solche erscheinen , so muß der Begriff ihrer verschiedenen und continuirlichen Existenz von der Concurrenz einiger Eigenschaften derselben mit den Eigenschaften der Einbildungskraft entstehen ; und da sich dieser Begriff nicht auf alle erstreckt, so muß er von gewissen Eigenschaften entstehen , die einigen Impressionen eigenthümlich zugehören . Das Unwillkührliche oder die Stärke der Impression kann uns nicht dazu bewegen , ihnen eine Realität außer uns zuzugestehen ; denn wir wissen , daß Schmerz und Vergnügen , Leidenschaften und Begierden , denen wir nie eine Existenz außer unserer Vorstellung beilegen , mit weit * ) 4. Th. 2. Abschn. S. 376. S. 384 .
+
+**) Ebend . S. 386. 4. Th. 4. Absch. S. 450 ff.
+
+[p. 42] größerer Heftigkeit und unwillkührlich in uns wirken. Zunächst ist es die Beständigkeit und der Zusammenhang gewisser Impressionen , was die Meinung der continuirlichen Existenz der Körper herbeiführt, also wieder die Gewohnheit , denn diese allein ist es , in welcher die Idee des Zusammenhangs ihren Grund hat.
+
+Die Gewohnheit allein reicht aber auch zur Erklärung jener Meinung nicht hin.
+
+Denn einmal können wir immer nur einer bestimmten
+
+Verbindung zwischen Vorstellungen gewohnt sein , da unmittelbar nur Vorstellungen dem Gemüthe gegenwärtig sind, und ferner kann sich die Gewohnheit doch nie auf eine beständige Verbindung der Vorstellungen erstrecken , also auch unmöglich der Grund sein , eine continuirliche Existenz der Dinge anzunehmen.
+
+Es muß hier nothwendig noch ein Moment hinzutreten. Unser Gedächtniß bietet uns eine große Menge Beispiele von Vorstellungen , die sich vollkommen einander ähnlich sind, die in verschiedenen Zeiträumen und oft nach langen Unterbrechungen wiederkommen . Diese Aehnlichkeit bringt in uns eine Neigung hervor, diese unterbrochenen Vorstellungen als dieselben zu betrachten , und daher auch eine Neigung , sie durch eine continuirliche Existenz zu verknüpfen , um diese Identität zu rechtfertigen, und den Widerspruch zu vermeiden , in welchen uns die unterbrochene Erscheinung dieser Vorstellungen nothwendig zu verwickeln scheint. Hier bekommen wir also eine Neigung, die continuirliche Existenz aller sinnlichen Objecte zu erdichten , und weil diese Neigung von gewissen lebhaften Impressionen des Gedächtnisses entsteht, so giebt sie auch dieser Erdichtung eine Lebhaftigkeit , d. h. sie macht, daß wir die continuirliche Existenz der Körper glauben .
+
+wir bisweilen auch den Dingen , die uns vollkommen neu sind , und von deren Beständigkeit und Zusammenhang wir [p. 43] noch keine Erfahrung haben , eine continuirliche Existenz zuschreiben , so geschieht es , weil die Art und Weise, in welchen sie sich unseren Sinnen darstellen , derjenigen ähnlich ist, in der sich beständige und zusammenhängende Objecte zeigen ; und diese Aehnlichkeit ist dann eine Quelle analogischer Schlüsse , und bestimmt uns, ähnlichen Dingen dieselben Eigenschaften beizulegen. *) Wie jene Neigung durch philosophisches Nachdenken zurücktreten kann , so kann damit auch die Lebendigkeit der Impression und somit der Glaube an die Existenz der körperlichen Dinge schwächer werden ; allein dieser Glaube wird immer wieder zurückkehren , sobald das philosophische Nachdenken aufhört. **) Zur philosophischen Gewißheit kann dieser Glaube nicht erhoben werden , so wenig wie es möglich ist, die Ursach der Impressionen , welche von den Sinnen entstehen , hinreichend zu erklären ; es bleibt völlig unentschieden , ob sie unmittelbar von den Objecten selbst, oder von der eigenen schaffenden Kraft des Gemüths , oder von dem Urheber unseres Wesens herrühren. ***) N. 2.
+
+Hume nimmt entschieden denselben Standpunkt im
+
+Empirismus ein , als Berkley im Idealismus. Nach Hume kann zu keiner wirklichen Erkenntniß d. i. zu keiner solchen
+
+Erkenntniß fortgegangen werden , welche wesentliche Allgemeinheit und Nothwendigkeit in sich schließt, und zwar darum nicht, weil sich in der Erfahrung keine Allgemeinheit und Nothwendigkeit findet. *) Ebend. S. 388 f. S. 414. **) Ebend.
+
+S. 423 .
+
+***) Ebend. 3. Th. 5. Abschn. S. 173.
+
+Auch Berkley verwirft [p. 44] die Nothwendigkeit, allein aus dem Grunde, weil sie sich nicht in den Ideen findet; die Ideen haben keine wesentliche nothwendige Beziehung zu einander, keine Unzertrennlichkeit, und alles was man als Gesetz der Natur zu betrachten pflegt, ist nur eine willkührlich durch Gott gelegte constante Verbindung der Ideen. · Eben so fallen nach Hume die Erfahrungen aus einander.
+
+Von den Gegenständen der
+
+Erfahrung können wir zunächst nur sagen , daß sie sind , aber nicht, daß sie sein müssen , nicht, daß sie durch die Nothwendigkeit ihres Wesens gesellt sind. Eben so wenig zeigen die einzelnen Erfahrungen irgend eine wesentliche Beziehung zu einander, keine ist durch die andere nothwendig gesetzt, mit der anderen wesentlich vermittelt , sondern alle treten nur neben und nach einander auf , und das Höchste, was von ihnen gesagt werden kann , ist, daß sich bestimmte Erscheinungen immer , d. h. so oft man die Erfahrung gemacht hat , zusammen finden . Hierauf wäre denn auch alle Erkenntniß der Natur einzuschränken. Die Beobachtung geht vom Einzelnen zum Allgemeinen fort , allein alle sogenannten Kräfte , Gesetze der Natur dürfen nicht als ein
+
+Nothwendiges, sondern nur als ein Gewöhnliches gefaßt werden.
+
+Natürlich macht hiervon kein Gesetz eine
+
+Ausnahme ; die Gesetze der Trägheit , des Stoßes , der himmlischen Bewegung, so sehr sie auch die Physik als Fundamentalgesetze betrachtet, ja mathematisch meint beweisen zu können , sie sind nur der gewöhnliche Lauf der Natur ; und nur die Gewohnheit ist es , welche in uns den Gedanken der Nothwendigkeit erwedt. Ein mathematischer Beweis der Naturgesetze ist von Hume's Principien aus schon darum unmöglich , weil der rein mathematische Beweis nie wirkliche Thatsachen umfaßt, sondern immer nur eine Beziehung zwischen bestimmten abstracten Ideen nach [p. 45] dem Gesetze des Widerspruchs ; keine Thatsache des Wirklichen kann daher mathematisch bewiesen werden . Der mathematische Beweis behandelt die wirklichen Erscheinungen wie Zahlen , was sie als Objecte der Erfahrung wesentlich nicht sind; eben dasjenige , worin sich diese Erscheinungen von den Zahlen unterscheiden , wodurch sie eben concrete Gestalten des Wirklichen sind , fällt also ganz aus dem Beweise heraus. Es ist daher auch nicht zu verwundern , daß die Gesetze der Natur durchaus nicht die Genauigkeit zeigen , welche die mathematische Behandlung ihnen zu geben versucht ; der mathematische Beweis hat einen ganz andern Inhalt, er beweist gar nicht das , was er beweisen will. Schon der Geometrie will Hume nicht den höchsten Grad der Genauigkeit zugestehen , obwohl sie darin das schwankende Urtheil der Sinne weit übertrifft. 2„ Die ersten Principien der Geometrie sind doch nur von der allgemeinen Erscheinung der Gegenstände abgezogen , und diese Erscheinung kann uns niemals die gehörige Sicherheit geben, wenn wir die erstaunliche Kleinheit erwägen , deren die Natur fähig ist. Unsere Begriffe scheinen uns die vollkommene Versicherung zu geben , daß zwei gerade Linien kein gemeinschaftliches Segment haben können ; aber wenn wir diese Begriffe genau erwägen , so werden wir finden , daß sie immer eine merkliche Neigung der beiden Linien gegen einander voraussetzen , und daß wir , so bald sie einen zu kleinen Winkel formiren , keinen so accuraten Maßstab für eine gerade Linie haben , durch den wir uns von der Wahrheit dieser Sachen vollkommen überzeugen könnten. Und dies ist der Fall mit den meisten Grundsätzen der Mathematiker. Algebra und Arithmetik bleiben noch als die einzigen Wissenschaften übrig , in welchen wir eine Kette von Schlüssen bis zu dem höchsten Grade der Feinheit fort:
+
+[p. 46] führen , und doch eine vollkommene Genauigkeit und Gewißheit behalten können.
+
+Wir sind im Besite eines sehr genauen Maßstabes , nach welchem wir über die Gleichheit und Proportion der Zahlen urtheilen können ; und je nach dem sie mit diesem Maße übereinstimmen oder nicht, darnach bestimmen wir ihre Verhältnisse, ohne irgend eine Möglichkeit zu irren. Wenn zwei Zahlen sich so verhalten , daß alle Einheiten der einen mit allen Einheiten der anderen übereinstimmen , so sagen wir , daß sie einander gleich sind , und bloß der Mangel eines solchen Maßstabes der Gleichheit in der Ausdehnung ist Schuld daran , daß die Geometrie kaum für eine vollkommene und untrügliche Wissenschaft gehalten werden kann. Daß die Geometrie doch eine größere Gewißheit und Genauigkeit besitzt, als die Urtheile der Sinne und der Einbildungskraft , hat darin seinen Grund , daß ihre Fundamentalsätze von den leichtesten, der Täuschung am wenigsten unterworfenen Erfahrungen abhängen . ”*)
+
+Schon indem den körperlichen Erscheinungen die Nothwendigkeit abgesprochen wird , werden sie als schlechthin unselbständig betrachtet. Denn die Nothwendigkeit ist die ihnen immanente Allgemeinheit und Idealität , ihre Kraft und Energie , durch welche sie ihre eigene Aeußerlichkeit durch ihr Wesen beherrschen , sich also auch dem subjectiven Denken als ein selbständiges Reich gegenüber stellen. Ohne diese immanente Allgemeinheit sind daher die Körper im Grunde nur Modification des denkenden Subjects , nur Ideen des endlichen Geistes , wie sie Berkley faßt.
+
+Hume nicht zu diesem subjectiven Idealismus fortgeht, so
+
+*) Ebend . S. 149.
+
+[p. 47] hat er demselben doch nichts weiter entgegenzusetzen , als nur die unmittelbare , das weitere Nachdenken von sich weisende Erfahrung , den subjectiven Glauben , in welchem das Ungewisse , Schwankende , Resultatlose , der wesentliche
+
+Widerspruch , der schon darin liegt , die , Erfahrung zum Princip zu machen , ganz offen hervortritt. Das Denken, welches alle Begriffe von sinnlichen Impressionen ableitet, ist ohne Weiteres dem Berkley'schen Idealismus verfallen, und kann sich gegen diese Consequenz nur dadurch schützen , daß es sich selbst zu vergessen und bei der gedankenlosen Erfahrung stehen zu bleiben versucht, also, die Erfahrung aufhört , sich zum Princip zu machen und Philosophie sein zu wollen . Die Gründe, durch welche Berkley die subjective Idealität der körperlichen Erscheinungen beweist, kann Hume, wie er ausdrücklich zugiebt , nicht widerlegen ; Berkley dagegen kann den unmittelbaren Glauben an die Existenz der Körper auch nicht anders fortbringen , als durch Philosophie, und Hume thut dem Berkley gegenüber eben nichts anderes, als er sucht sich aus der Philosophie in die Meinung des Glaubens zurück zu versetzen. Dabei ist Hume in der Erklärung dieses Glaubens entschieden scharfsinniger , vollständiger , als Berkley ; allein durch die Art und Weise, wie ihn Hume erklärt , ist dieser Glaube so wenig als wahr bewiesen , daß er vielmehr im Gegentheil als eine subjective Täuschung erscheint, das Festhalten dieses Glaubens also als eine absichtliche Täuschung , als eine denkende Gedankenlosigkeit, als der ganz offenbare Widerspruch in sich , durch die Vermittelung des Denkens die Unmittelbarkeit als unmittelbar zu firiren .
+
+Hume und Berkley bilden den Uebergang in die folgende Periode , indem in ihnen der Dogmatismus dazu fortgeht, sein wesentliches Fundament in Frage zu stellen, [p. 48] nämlich die vorausgesetzte Einheit von Subject und Object.
+
+Nach Hume gelangt man durch das Nachdenken eben nur zu der Einsicht, daß alle Nothwendigkeit des Erkennens, d. h. alles wirkliche objective Erkennen , nur eine subjective
+
+Meinung ist. Nach Berkley hat alles Denken nur sich selbst zum Inhalte , und zwar entbehrt dieser Inhalt aller inneren wesentlichen Nothwendigkeit ; er ist willkührlich erzeugt durch das Denken , sei es durch das menschliche oder durch das göttliche. Somit giebt auch hier die Philosophie eben nur die Einsicht, daß die Nothwendigkeit des Erkennens auf einer subjectiven Täuschung beruht.
+
+Das Denken zieht
+
+sich also aus der Einheit mit dem Object in seine Subjectivität zurück , und eben dieser Gegensatz von Subject und Object bildet den allgemeinen Charakter der zweiten Periode der modernen Philosophie.
+
+## [p. 49] Zweite Periode. Die dynamische Auffassung der Natur.
+
+Wenn innerhalb der ersten Periode der neueren Philosophie das Denken voraussetzte, die Wahrheit erkennen zu können , so ist jetzt das Denken vor allem darauf bedacht, eben diese Voraussetzung aufzuheben. Die Frage nach der Möglichkeit des Erkennens wird nicht bloß unter anderen auch aufgeworfen , sondern sie ist die wichtigste , wesentlichste von allen .
+
+Gerade durch diese Reflexion auf das Er:
+
+kennen , durch dieses Erkennen des Erkennens selbst soll erst das Denken zum wahrhaft philosophischen , wissenschaftlichen Denken werden.
+
+Ferner aber ist es charakteristisch für diese zweite Periode der neueren Philosophie, daß in ihr das Denken durch sein kritisches Bewußtsein über das
+
+Erkennen den Gegensatz von Subject und object nicht bloß mit philosophischer Bestimmtheit erfaßt , sondern ihn zugleich festhält , firirt, die Lösung desselben also zu einem unerreichbaren Postulate macht.
+
+War daher in der vorigen Periode der Begriff der Substanz der höchste Begriff, so bewegt sich jetzt das Denken innerhalb des Begriffs der Subjectivität. Das Ich , das Selbstbewußtsein , ist der höchste Begriff, und zwar das Ich, welches das Object nicht wesentlich in sich umfaßt, sondern ausschließt , welches in der Energie dieses Ausschließens endlich und unendlich zugleich ist. S d aller. II.
+
+[p. 50] Für den Standpunkt der Naturphilosophie ergiebt sich hieraus im Allgemeinen Folgendes. Die Natur ist wie alles Wirkliche in den Gegensatz von Subject und Object verwickelt . Was die Natur an sich ist, das reine Wesen der Natur kann so wenig erkannt werden wie das Wesen überhaupt. Nur die Erscheinung wird erkannt. Ihren letzten Grund hat die Erscheinung freilich in dem Wesen an und für sich , allein sie ist zugleich die Beziehung, der Reflex des Wesens an den bestimmten Formen der Subjectivität. Eben diese Formen der Subjectivität sind die allgemeinen Gesetze aller Erscheinung ; durch sie wird auch der Complex der sinnlichen Empfindungen zu einem gesetzmäßigen, oder zur Natur.
+
+Die Natur ist also hiernach nicht eine selbständige, eine schlechthin außer dem Subject fallende Welt ; vielmehr in allen ihren besonderen Erscheinungen zugleich ein Product der sich selbst wissenden Subjectivität, von dem Proceß des Ichs durchdrungen , nichts Träges , in sich Ruhendes , sondern Bewegtes , innerlich Unterschiedenes . Wir nennen diese Auffassung der Natur im Allgemeinen nach einem gebräuchlichen Terminus die dynamische.
+
+### Erster Abschnitt. Kant.
+
+Die naturphilosophischen Schriften , welche Kant vor der Ausbildung seiner kritischen Methode verfaßte , sind für die Entwickelung der Naturphilosophie ohne wesentliche Bedeutung * ). Sie zeugen von Kants regem Interesse an *) Es sind diese Schriften folgende : Gedanken von der wahren Schätzung der lebendigen Kräfte und Beurtheilung der Beweise, deren sich verr sou Leibniß und andere Mechaniker in dieser Streitsache bedient haben, [p. 51] der Naturwissenschaft , von seiner weitgreifenden Kenntniß, von seinem durchdringenden Scharfsinn , von seiner philosophischen Bedachtsamkeit; auch haben sie manche Begriffe der empirischen Physik wie der mechanischen Naturphilosophie näher bestimmt und zur Klarheit verholfen ; allein wir können in ihnen nichts entdecken , wodurch sie auch nur als Vorläufer für Kant's dynamische Naturphilosophie an: nebst einigen vorhergehenden Betrachtungen , welche die Kraft der Dergl. Gesch. der Naturwiss. Körper überhaupt betreffen . 1747. 1. Th. S. 490 ff. Kant läßt für die todte Kraft , d. h. für diejenige , welche nicht sich selbst erhält , sondern nur auf der Gegenwart äußerlicher Ursachen beruht , das Cartesische Kräftemaß gelten lassen , dagegen soll für die lebendige Kraft , d. h. für eine solche, welche sich fortwährend selbst erhält , die Leibnißische Schätzung der Kraft eintreten.
+
+Untersuchung über die Frage : ob die Erde in ihrer Umdrehung um die Ure einige Veränderung seit den ersten Die Frage , ob die allgemeine Naturs
+
+Zeiten ihres Ursprungs erlitten habe. 1754. Erde veralte , physikalisch erwogen. 1754.
+
+geschichte und Theorie des Himmels , oder Versuch von der Verfassung und dem mechanischen Ursprunge des ganzen Weltgebäudes nach Meditationum de Newtonischen Grundsätzen abgehandelt. 1755. igne succincta delineatio. 1755.
+
+Geschichte und Naturbes
+
+schreibung der merkwürdigsten Vorfälle des Erdbebens , welches am Ende des 1755sten Jahres einen großen Theil der Erde erschüttert hat. 1756. Fortgesetzte Betrachtungen der seit einiger Zeit wahra Metaphysicae cum geo genommenen Erschütterungen . 1756.
+
+metria iunctae usus in philosophia naturali , cujus specimen primum continet monadologiam physicam . 1756. Einige Una Entwurf merkungen zur Erläuterung der Theorie der Winde. 1756. und Ankündigung eines Collegii der physischen Geographie nebst dem
+
+Anhange einer kurzen Betrachtung über die Frage : ob die Westwinde in unseren Gegenden darum feucht seien , weil sie über ein großes Meer streichen . 1757. - Neuer Lehrbegriff der Bewegung und Ruhe und der damit verknüpften Folgerungen in den ersten Gründen der Naturwissenschaft. 1758. Von den verschiedenen Racen der Menschen . 1775. Daran schließen sich aus späterer Zeit : Bestimmung des Begriffs von einer Menschenrace. 1785. – Ueber den Gebrauch teleologischer Principien in der Philosophie. 1788 .
+
+Ueber die Vulkane im
+
+Monde .
+
+1785.
+
+den Einfluß des Mondes auf die Witterung. 1794. 4*
+
+Etwas über [p. 52] gesehen werden könnten .
+
+Wenn man wohl solche dynamische
+
+Anklänge in ihnen zu finden meinte , so hatte man vorzugsweise die Cartesische Naturphilosophie vor Augen , aber nicht die Newtonische, Leibnißische , Wolfische; letztere nähern sich bereits principiel der Dynamik.
+
+Eben die Principien der Newtonischen , Leibnißischen , Wolfischen Naturphilosophie sind es , in welchen sich Kant in diesen früheren Schriften bewegt.
+
+Zum
+
+Theil behandelt er eine
+
+specielle Erscheinung der Natur , und begnügt sich die Thatsachen zu sammeln und in der Weise der empirischen Physik über die äußeren Ursachen zu reflectiren . Nähert er sich den philosophischen Principien , so kommen die Wolfischen Monaden und Kräfte zum Vorschein , und seine Polemik bezieht sich nicht auf jene Principien , sondern auf die besondere Formirung und Anwendung derselben . Daß jedoch die Wolfische Philosophie seine Gedanken nicht vollständig in Besitz genommen , zeigt Kant besonders in der
+
+1755 erschienenen Schrift: Algemeine Naturgeschichte oder Theorie des Himmels , welche ausdrücklich auf Newtonische Principien sich stützen . foli.
+
+Noch im Jahre 1791 ließ
+
+Kant einer Uebersetzung von W. Herschels Abhandlungen über den Bau des Himmels einen Auszug aus jener Schrift hinzufügen *) , und wir werden später sehen , wie die Kantische Dynamik trotz ihres principiellen Unterschiedes von der Newtonischen Betrachtungsweise doch mit dieser entschieden sympathisirt , so daß Kant auch von seinem späteren Standpunkte aus auf diese Schrift sehr wohl zurückweisen konnte. Um Kants Naturphilosophie kennen zu lernen , haben wir uns nicht etwa sogleich und nur an die metaphysischen Anfangsgründe der Naturwissenschaft zu wenden , sondern *) S. Rosenkranz Gesch. d. Kant. Phil. S. 132.
+
+[p. 53] vielmehr vor allem an die Kritik der reinen Vernunft und der Urtheilskraft; ohne diese Werke gründlich inne zu haben, muß man sich nicht einbilden , Kants Naturphilosophie zu verstehen , denn sie enthalten die allgemeinen Principien der Naturphilosophie , die reine transcendentale Naturwissenschaft
+
+1. Darstellung der Kantischen Naturphilosophie. $.
+
+1.
+
+Die Kritik der reinen Vernunft .
+
+Wie sind synthetische Urtheile a priori möglich ? ist die wesentliche Frage der Kritik der reinen Vernunft.
+
+Synthetische Urtheile sind diejenigen , in welchen das Prädikat nicht in dem Begriffe des Subjects enthalten ist , analytische dagegen solche, in welchen das Prädikat zum Begriffe selbst gehört. So ist z. B. das Urtheil : alle Körper sind ausgedehnt , ein analytisches Urtheil , weil ich nicht über den Begriff , den ich mit dem Körper verbinde, hinauszugehen nöthig habe, um die Ausdehnung als ein wesentliches Prädikat des Körpers zu finden ; ich brauche diesen Begriff vielmehr nur zu zergliedern , zu analysiren , brauche mir nur des Mannigfaltigen bewußt zu werden , welches ich durch den Begriff des
+
+Körpers umfasse , um auf das Prädikat der Ausdehnung zu kommen
+
+Dagegen ist das Urtheil : alle Körper sind schwer , ein synthetisches ; denn es ist hier das Prädikat etwas ganz anderes , als das , was ich in dem bloßen Begriffe eines Körpers überhaupt denke. Erfahrungsurtheile sind insgesammt synthetisch ; denn es wäre ungereimt , ein analytisches Urtheil auf Erfahrung zu gründen , da man zur Aufstellung desselben der Erfahrung gar [p. 54] nicht bedarf. Wie synthetische Urtheile der Erfahrung möglich sind, ist leicht einzusehen , indem ich eben durch die Erfahrung verschiedene Bestimmungen als in einem und demselben Gegenstande vereinigt anzuschauen vermag. Solche Erfahrungsurtheile haben in sich keine wesentliche Allgemeinheit und Nothwendigkeit , wie die synthetischen Urtheile a priori ; bei diesen erst tritt nothwendig die Frage ein : worauf stütze ich mich , wenn ich zwei verschiedene, nicht unmittelbar durch den Begriff zusammengehörende Bestimmungen zur wesentlichen Einheit zusammenfasse ? Behaupte ich z. B. den Sat : Alles , was geschieht, hat eine Ursach. In dem Begriffe von Etwas , das geschieht, denke ich zwar ein Dasein , vor welchem eine Zeit vorherge ht
+
+, und daraus lassen sich analytische Urtheile ziehen. Aber der Begriff einer Ursach liegt ganz außer jenem Begriff, und zeigt etwas von dem , was geschieht, Verschiedenes an , ist also in dieser letzteren Vorstellung gar nicht mit enthalten.
+
+Wie komme ich denn dazu , von dem , was überhaupt geschieht, etwas davon ganz Verschiedenes zu sagen , und den Begriff der Ursach , obzwar in jenem nicht enthalten , dennoch , als dazu und sogar nothwendig gehörig , zu erkennen ? *) Gerade in solchen synthetischen Urtheilen a priori aber besteht die wissenschaftliche Erkenntniß , und alle theoretische Wissenschaften sind unleugbar im Besitz solcher Urtheile. So sind die mathematischen
+
+Urtheile durchweg synthetisch , und zwar , indem Allgemein : heit und Nothwendigkeit in ihnen enthalten ist, a priori synthetisch. Zwar könnte man anfänglich denken , daß der Satz 7+ 5 = 12 ein blos analytischer Satz sei , der aus dem Bez * ) Kritik der reinen Bernunft. 3. Aufl. Riga 1790. Einleitung S. 10 - 13 , [p. 55] griffe einer Summe von Sieben und fünf nach dem Sate Ulein bei näherer Betrachtung des Widerspruchs erfolge.
+
+findet man , daß der Begriff der Summe von 7 und 5 nichts weiter enthalte , als die Vereinigung beider Zahlen in eine einzige , wodurch ganz und gar nicht gedacht wird, welches diese einzige Zahl sei, die beide zusammenfaßt. Der Begriff von Zwölf ist keineswegs dadurch schon gedacht, daß ich mir bloß jene Vereinigung von Sieben und Fünf denke , und ich mag meinen Begriff von einer solchen möglichen Summe noch so lange zergliedern , so werde ich doch darin die Zwölf nicht antreffen. Man muß über diese Begriffe hinausgehen , indem man die Anschauung zu Hülfe nimmt , die einem von beiden correspondirt , etwa seine fünf Finger oder fünf Punkte , und so nach und nach die Einheiten der in der Anschauung gegebenen Fünf zu dem Begriffe der Sieben hinzuthut. Der arithmetische Sat ist also immer synthetisch ; und besonders wenn man größere Zahlen nimmt , so erhellt um so deutlicher , daß , wir mögen unsere Begriffe drehen und wenden wie wir wollen , wir ohne die Hülfe der Anschauung , vermittelst der bloßen Zergliederung unserer Begriffe die Summe niemals finden könnten . Eben so wenig ist irgend ein Grundsatz der reinen Geometrie analytisch. Daß die gerade Linie zwischen zwei Punkten die kürzeste sei, ist ein synthetischer Satz. Denn mein Begriff vom Geraden enthält nichts von Größe, sondern nur eine Qualität.
+
+Der Begriff des Kürzesten kommt also gänzlich hinzu , und kann durch keine Zergliederung aus dem Begriffe der geraden Linie gezogen werden , Anschauung muß also hier zu Hülfe genommen werden, durch welche allein die Synthesis möglich ist. * )
+
+*) Ebend. S. 14 – 17.
+
+[p. 56] Auch die Naturwissenschaft enthält synthetische Urtheile a priori als Principien in sich. z. B. die Sätze : daß in allen Veränderungen der körperlichen Welt die Quantität der Materie unverändert bleibe , oder daß in aller Mittheilung der Bewegung Wirkung und Gegenwirkung jederzeit einander gleich sein müssen. Daß dies synthetische Säte a priori sind , ist offenbar. Denn in dem Begriffe der Materie denke ich mir nicht die Beharrlichkeit, sondern bloß die Gegenwart im Raume durch die Erfüllung der selben. Also gehe ich wirklich über den Begriff von der Materie hinaus , um etwas a priori zu ihm hinzuzudenken , was ich in ihm nicht dachte. Der Sak ist also nicht analytisch , sondern synthetisch , und dennoch a priori gedacht, und ebenso die übrigen Sätze des reinen Theils der Naturwissenschaft.*) Die Kritik der reinen Vernunft hat also im Allgemeinen die Möglichkeit des Wissens zum Gegenstande der Untersuchung ; die Art und Weise aber , wie Kant die Frage stellt, kann in ihrer Bestimmtheit erst in dem Verlaufe und durch das Resultat der Kritik gefaßt werden , indem erst hier der Gegensatz in seiner Bestimmtheit hervortritt , welcher jene Frage : wie sind synthetische
+
+Urtheile a priori möglich ? schon in sich faßt.
+
+Nach den
+
+Beispielen , durch welche Kant diese Frage erläutert , wäre der Unterschied zwischen analytischen und synthetischen Urtheilen ein sehr schwankender und subjectiver. Allerdings, wenn ich mit dem Begriffe des Körpers nur die Ausdehnung verbinde , so liegt die Schwere nicht in dem Begriffe des Körpers ; allein sollte ich bei weiterer Untersuchung zu der Einsicht kommen , daß die Schwere zum Wesen des * ) Ebend . S. 18.
+
+[p. 57] Körpers gehöre , so würde das Prädikat nicht außer dem Begriffe des Körpers liegen , sondern vielmehr von ihm umfaßt sein . Begriff heißt hier nichts weiter als Vorstellung ; die Schwere liegt nicht in meiner Vorstellung vom Körper ; diese Vorstellung aber hat als solche noch nicht den Werth , irgend ein Prädikat mit Bestimmtheit von dem Subjecte auszuschließen . Sobald sie dies thut, und eben dadurch sich den Werth des Begriffs beilegt , so hört auch das Recht ihrer unmittelbaren Geltung auf , und sie müßte selbst schon als ein synthetisches Urtheil a priori betrachtet werden ; dies kann auch ohne weitere Schwierigkeit geschehen , da unterschiedene Momente in jeder Vorstellung leicht nachzuweisen sind. Nach Kant scheint jeder beliebige , noch so äußerliche , oberflächliche Unterschied, jeder Unterschied der Vorstellung schon hinzureichen , die
+
+Verbindung von Subject und Prädikat als eine synthetische zu bezeichnen ; und dann hätte man freilich vollkommen Recht, auch die angeführten arithmetischen und geometrischen Sätze als synthetische Urtheile a priori zu betrachten . Offenbar stellt ein rein synthetisches Urtheil , d. h. ein sol:
+
+ches , welches nur synthetisch und nicht zugleich und in keiner Beziehung analytisch ist, einen ursprünglichen abstracten Gegensatz voraus ; und zwar ist im Allgemeinen das eine Glied dieses Gegensages das Sein , das Objective, das andere Glied dagegen der Begriff, das subjective Eben dieser Gegensatz also liegt sogleich in dem Denken . Begriffe des synthetischen Urtheils , und nach der Möglichkeit, diesen Gegensatz aufzulösen , wird gefragt. 6 nicht so schon in der Frage selbst die Antwort vorausgesetzt ist, wird die weitere Untersuchung lehren. Um die wesentlichen und allgemeinen Formen der Subjectivität zu finden , durch welche eine wissenschaftliche Erkenntniß [p. 58] kenntniß möglich wird , isolirt Kant zunächst in der transcendentalen Uesthetik die Sinnlichkeit; es fragt sich : was liefert die Sinnlichkeit a priori in dem Acte des Erfennens ? Die Sinnlichkeit giebt uns anschauun :
+
+gen ; wenn uns aber auch die Materie aller Erscheinung a posteriori gegeben wird , so muß doch nothwendig eine reine Form der Anschauung a priori im Subjecte bereit liegen , weil nur durch den Besitz dieser Form das gegebene Mannigfaltige in gewisse Verhältnisse geordnet wer: Diese reine Form der Anschauung ist zunächst Soll ich gewisse Empfindungen auf etwas außer mir beziehen , soll ich die Dinge außer und neben einander anschauen , so regt dies die Vorstellung des Raumes schon voraus ; diese kann also unmöglich aus der Anschauung der äußeren Erscheinung abstrahirt sein. Ferner aber zeigt sich der Raum als eine nothwendige Vorstellung , da es mir unmöglich ist, den Raum schlechthin fortzudenken ; er bleibt vielmehr , auch wenn ich von allen sinnlichen Erscheinungen abstrahire, immer als die Bedingung aller sinnlichen Anschauung zurück. Auch ist der Raum überhaupt kein Begriff, und etwa aus dem Zusammenfassen verschiedener räumlicher Verhältnisse entstanden ; denn der Raum ist identisch in sich ; die vielen Räume sind nur Theile, Einschränkungen eines und desselben Raumes, welcher als continuirliche Einheit allen besonderen Einschränkungen den kann.
+
+der Raum .
+
+vorausgeht und zu Grunde liegt , und diese als eine un:
+
+endliche Menge von Räumen in sich faßt. Der Raum ist daher wesentlich reine Anschauung a priori . Dasselbe muß auch von der Zeit behauptet werden . Sie ist die Form des inneren Sinnes d. h. des Anschauens unserer selbst und unseres inneren Zustandes , indem wir durch dieselbe unsere Empfindungen als nach einander vorstellen . Da aber auch [p. 59] die Vorstellungen , die sich zunächst auf äußere Gegenstände beziehen , als Bestimmungen des Gemüths zugleich zum inneren Zustande gehören , so ist die Zeit die formale Bedingung a priori für alle Erscheinungen überhaupt. Raum und Zeit sind also nicht Bestimmungen , welche sich auf die Dinge an und für sich beziehen , welche an den Dingen selbst hafteten , welche eine reale Bedeutung behielten , wenn wir die Dinge ganz außer dem Verhältniß zu unserer Sinnlichkeit betrachten ; sondern nur in sofern sind die Dinge im Raume und in der Zeit , als sie uns erscheinen. Wir können also nicht sagen : alle Dinge sind im Raume und in der Zeit , aber wohl : alle Dinge als Erscheinungen (als Gegenstände der sinnlichen Anschauung ) sind im Raume und in der Zeit.
+
+Alles was irgendwie unsere Sinnlichkeit afficirt, tritt dadurch nothwendig in die wesentlichen Formen unserer Sinnlichkeit ein, welche so unzertrennlich mit uns verwachsen sind , daß wir unmöglich aus ihnen heraustreten und zur Anschauung der
+
+Dinge an sich selbst uns erheben können ; was diese also sein mögen , bleibt uns zunächst gänzlich unbekannt *). Aus dieser Theorie von Raum und Zeit erhellt die Möglichkeit der reinen Mathematik von selbst.
+
+Raum und Zeit sind diejenigen Anschauungen , welche die reine Mathematik allen ihren Erkenntnissen und Urtheilen, die zugleich als apodiktisch und nothwendig auftreten , zu Grunde legt ; denn Mathematik muß alle ihre Begriffe zuerst in der Anschauung, und reine Mathematik in der reinen Anschauung darstellen d. i. sie construiren , ohne welche ( weil sie nicht analytisch , nämlich durch Zergliederung der Begriffe, sondern synthetisch verfahren kann) eß ihr uns *) Ebend. S. 34 ff.
+
+[p. 60] möglich ist, einen Schritt zu thun , so lange ihr nämlich reine Anschauung fehlt, in der allein der Stoff zu synthetischen Urtheilen a priori gegeben werden kann. Geometrie legt die reine Anschauung des Raumes zu Grunde ; Arithmetik bringt selbst ihre Zahlbegriffe durch successive Hinzusetzung der Einheiten in der Zeit zu Stande , besonders aber reine Mechanik kann ihre Begriffe von Bewegung nur vermittelst
+
+der Vorstellung der Zeit zu Stande bringen.
+
+Reine
+
+Mathematik ist aber dadurch möglich , daß sie auf keine anderen als bloße Gegenstände der Sinne geht , deren empirische Anschauung eine reine Anschauung (des Raumes und der Zeit) und zwar a priori zu Grunde liegt , und darum zu Grunde liegen kann , weil diese nichts anderes als die bloße Form der Sinnlichkeit ist , welche vor der wirklichen Erscheinung der Gegenstände vorhergeht, indem sie dieselbe in der That erst möglich macht. *) In der transcendentalen Logik wird der Verstand isolirt , um die Momente der Erkenntniß zu finden , welche rein dem Verstande als solchem a priori angehören. Die transcendentale Logik ist also die Wissenschaft der reinen Verstandeserkenntniß , wodurch wir Gegenstände völlig a priori denken.
+
+Kant giebt in den Prolegomenis diesem
+
+Theile der Kritik ausdrücklich die Ueberschrift : wie ist reine Naturwissenschaft möglich ? und die Beantwortung dieser Frage , wie sie in der Kritik der reinen Vernunft vorliegt , faßt zugleich diese reine Naturwissenschaft selbst in sich . ** )
+
+Der erste Theil der transcendentalen Logik , die transcendentale
+
+Analytik hat die reinen Begriffe oder Katego * ) Prolegomena zu einer jeden künftigen Metaphysik. §. 10. § . 11 . ** ) Ebend. §. 14. , [p. 61] rien systematisch zu entwickeln , und zugleich die Grundsätze, die synthetischen Urtheile a priori darzustellen , welche durch Hülfe jener Kategorien gewonnen werden. Der Verstand ist wesentlich das Vermögen , durch Begriffe zu erkennen.
+
+Während alle Anschauung als sinnlich auf Affectionen beruht , so beruhen die Begriffe auf Functionen ; Function nämlich ist die Einheit der Handlung , verschiedene Vorstellungen unter einer gemeinschaftlichen zu ordnen ; Begriffe gründen sich also auf der Spontaneität des Denkens , wie sinnliche Anschauungen auf der Receptivität der Eindrücke. Von den Begriffen kann aber der Verstand keinen anderen Gebrauch machen , als daß er dadurch urtheilt , oder sie als Prädikate auf eine Vorstellung von einem noch unbestimmten Gegenstande bezieht und diesen dadurch bestimmt. Urtheilen ist so die eigenthümliche Thätigkeit des Verstandes , und die verschiedenen Functionen desselben können dadurch vollständig gefunden werden , daß man die Functionen der Einheit in den verschiedenen Ur: Synthesis ist im Allgemeinen theilen aufsucht. " )
+
+die Handlung , verschiedene Vorstellungen zu einander hinzuzuthun und ihre Mannigfaltigkeit zu einer Erkenntniß zusammenzufassen ; sie sammelt also die Elemente der Erkenntniß , und bereitet die wirkliche Erkenntniß vor. Die Synthesis als solche ist die bloße Wirkung der Einbildungskraft ; diese Synthesis auf Begriffe zu bringen , ist die Function des Verstandes. Rein ist die Synthesis , wenn das Mannigfaltige der Anschauung a priori gegeben ist; die reine Synthesis , allgemein vorgestellt, oder diejenige reine Synthesis , welche auf der synthetischen Einheit a priori beruht, ist der reine Verstandesbegriff; er giebt also der reinen
+
+*) Kritik d. r. V. S. 92 f.
+
+[p. 62] Synthesis Einheit und besteht nur in der Vorstellung dieser nothwendigen synthetischen Einheit. Dieselbe Function, welche den verschiedenen Vorstellungen in einem Urtheile Einheit giebt , giebt auch der bloßen Synthesis verschiedener Vorstellungen
+
+in einer Anschauung Einheit ; und so entspringen gerade so viele reine Verstandesbegriffe, welche a priori auf
+
+Gegenstände der Anschauung überhaupt gehen, als es logische Functionen in allen möglichen Urtheilen giebt. *) Die Kategorien der Quantität sind : Einheit , Vielheit , Allheit ; die der Qualität : Realität , Negation , Limitation ; die der
+
+Relation : Substanz und Accidenz , Ursach und Wirkung, Wechselwirkung ; die der Modalität : Möglichkeit, Wirklichkeit , Nothwendigkeit.
+
+Es entsteht nun vor Allem die Frage : mit welchem Rechte können diese Kategorien auf Gegenstände der Erfahrung angewendet werden ? Die Nothwendigkeit, diese Frage zu beantworten und die eigenthümliche Schwierigkeit derselben , leuchtet ein. Die Kategorien gehören dem Verstande a priori an , und sie können nicht aus der Erfahrung hergeleitet werden , weil in ihnen entschieden Nothwendigkeit und Allgemeinheit liegt ; die Nachweisung aber, durch welche Erfahrungen veranlaßt und in Bewegung gefetzt der Verstand sie sich zum Bewußtsein bringt , kann unmöglich hinreichen , die Anwendung selbst zu rechtfertigen , da gerade in ihr und durch sie der Verstand über die Erfahrung hinausgeht.
+
+Wenn Raum und Zeit , obwohl sie reine Anschauungen a priori sind , sich doch auf Gegenstände der Erfahrung nothwendig beziehen , so lag der Grund hiervon einfach darin , daß nur durch diese reinen Formen irgend ein Gegenstand für die empirische An: *) Ebend. S. 102 ff.
+
+[p. 63] schauung erscheinen kann ; die Kategorien aber stellen uns gar nicht die Bedingungen vor, unter denen Gegenstände in der Anschauung gegeben werden , mithin können uns allerdings Gegenstände erscheinen , ohne daß sie sich nothwendig auf Functionen des Verstandes beziehen müssen, und dieser also die Bedingungen derselben a priori ent. Daher zeigt sich hier die eigenthümliche Schwierig. hielte. keit , welche in der Anwendung von Raum und Zeit nicht
+
+Statt fand , wie nämlich subjective Bedingungen des Denkens sollten objective Gültigkeit haben , d. h. Bedingungen für die Möglichkeit aller Erkenntniß der Gegenstände abgeben ; denn allerdings können ohne Functionen des Verstandes Erscheinungen in der Anschauung gegeben werden. Warum sollten also die Gegenstände den Bedingungen gemäß sein , deren der Verstand zur synthetischen Einheit des Denkens bedarf? Könnten nicht etwa
+
+Erscheinungen so beschaffen sein , daß der Verstand sie den Bedingungen seiner Einheit gar nicht gemäß fände , daß Alles so in Verwirrung läge , daß z. B. in der Reihenfolge der Erscheinungen sich nichts darböte , was eine Regel der Synthesis an die Hand gäbe , und also dem Begriffe der Ursach und Wirkung entspräche , so daß dieser Begriff also ganz leer , nichtig und ohne Bedeutung wäre ? Erscheinungen würden nichts desto weniger unserer Anschauung Gegenstände darbieten , denn die Anschauung bedarf der Functionen des Denkens auf keine Weise .) Die transcendentale Deduction der Kategorien gorien sucht diese Schwierigkeiten zu heben , indem sie nachweist : daß nur durch die Kategorien irgend ein Gegen: *) Ebend. S. 116 ff.
+
+[p. 64] 6+
+
+der Erfahrung gedacht werden kann , und daß sie sich eben darum nothwendig und a priori auf Gegenstände der Erfahrung beziehen.
+
+Die wesentlichen Momente dieser
+
+Deduction sind folgende: Wenn auch das Mannigfaltige der Vorstellungen in der Anschauung gegeben werden mag, so kann doch die Verbindung des Mannigfaltigen unmöglich durch die Sinne in uns kommen , auch nicht in der reinen Form der sinnlichen Anschauung schon enthalten sein ; die Verbindung ist vielmehr ein freier Act des Verstandes , so daß wir uns nichts im Object als verbunden vorstellen können , ohne es vorher selbst verbunden zu haben. Der Begriff der Verbindung schließt aber den Begriff der Einheit in sich ; denn Verbindung ist Vorstellung der synthetischen Einheit des Mannigfaltigen ; die Vorstellung dieser Einheit kann also nicht aus der Verbindung entstehen , denn sie selbst macht erst den Begriff der Verbindung möglich. Auch ist diese Einheit nicht etwa die Kategorie der Einheit ; denn die Kategorien setzen ebenfalls schon die Einheit voraus , indem sie sich auf die logischen Functionen in den Urtheilen gründen , in welchen durchgängig die Einheit bestimmter Begriffe gedacht wird. Diese Einheit ist also tiefer zu suchen. Sie ist die ursprüngliche synthetische Einheit der Apperception , die transcendentale Einheit des Bewußtseins , aus welcher alle Erkenntniß als aus ihrem letzten Fundamente hergeleitet werden muß. Sie ist die allgemeine Identität aller meiner Vorstellungen , die Identität , welcher sich alle meine Vorstellungen unterordnen müssen , um eben mir anzugehören ; sie ist die reine , aller Erfahrung vorausgehende Einheit , oder die ursprüngliche Thätigkeit des Verbindens, ohne welche keine besondere bestimmte Verbindung denkbar wäre .
+
+Ein Verstand , in welchem durch das Selbstbewußtsein [p. 65] zugleich alles Mannigfaltige gegeben würde, würde anschauen ; der unsere kann nur denken und muß in den
+
+Sinnen die Anschauung suchen . Ich bin mir aber in allen diesen gegebenen mannigfaltigen Vorstellungen meines identischen Selbst bewußt , d . h. ich bin mir einer nothwendigen Synthesis derselben a priori bewußt. Eben dies ist das oberste Princip alles Verstandesgebrauchs: Alles
+
+Mannigfaltige der Anschauung steht unter den Bedingungen der ursprünglichen synthetischen Einheit der Apperception. Ohne sich dieser synthetischen Einheit und ihren Bedingungen unterzuordnen , kann nichts gedacht und erkannt werden, denn das Denken , Erkennen ist wesentlich ein solches Unterordnen .
+
+Nur durch diese synthetische Einheit wird uns irgend Etwas zum Object , denn Object ist dasjenige, in dessen Begriff das
+
+Mannigfaltige einer gegebenen Anschauung vereinigt ist ; wie ist aber eine solche Vereinigung denkbar , ohne die allgemeine ursprüngliche Synthesis des mit sich identischen Selbstbewußtseins ? Diese Einheit des Selbstbewußtseins kann darum die objective Einheit genannt werden . Ein urtheil ist nun wesentlich nichts anderes , als die Art, gegebene Erkenntnisse zur objectiven Einheit der Apperception zu bringen. Denn ein wirkliches Urtheil ist nicht bloß eine subjective Verbindung zweier Vorstellungen , sondern ein Verhältniß , das objective Gültigkeit hat ; in ihm wird behauptet , daß bestimmte Vorstellungen ohne Unterschied des Zustandes des Subjects , also nicht bloß in der Wahrnehmung sondern in Objecte verbunden sind. Die Kategorien sind nun aber eben die Begriffe , wodurch eine Anschauung in Ansehung einer der logischen Functionen zu urtheilen bestimmt, wodurch sie also der synthetischen Einheit der Apperception untergeordnet wird. Noth Staller. JI.
+
+[p. 66] wendig müssen daher alle sinnlichen Anschauungen unter den Kategorien stehen. Aus dieser Deduction der Kategorien folgt nun schon unmittelbar , daß ihre Anwendung die sinnliche Anschauung wesentlich voraussetzt , und daß sie ohne einen sinnlich gegebenen Gegenstand ohne Werth und Bedeutung sind. Zur Erkenntniß gehören nothwendig zwei Stücke : erstlich der
+
+Begriff durch welchen der Gegenstand gedacht wird , und zweitens die Anschauung , durch welche er gegeben wird ; ohne die Anschauung und zwar ohne die sinnliche Anschauung (denn eine andere kennen wir gar nicht) wäre der Begriff ein bloß formeller gegenstandsloser Gedanke.
+
+In jeder Anwendung
+
+der Kategorien wird also das gegebene Mannigfaltige zur synthetischen Einheit verbunden ; jede wesentliche Einheit ist also als Product der Kategorien anzusehen , und sobald in der sinnlichen Anschauung eine solche Einheit gesetzt ist, ist sie schon durch den Verstand bestimmt. Also auch die Synthesen der sinnlichen Wahrnehmung , der Einbildungskraft
+
+, sind wesentlich der in diesen Regionen schon wirksame Verstand , welcher die Sinnlichkeit seinen wesentlichen Gesetzen
+
+, den Kategorien , gemäß bestimmt. * ) Die weitere Anwendung der Kategorien ist die Sache der Urtheilskraft , als des Vermögens , das Besondere un: Es tritt in die ter die allgemeine Regel zu subsumiren .
+
+ser Anwendung besonders die Schwierigkeit ein , daß in allen Subsumtionen eines Gegenstandes unter einen Begriff die Vorstellung des ersteren mit der letzteren gleichartig sein muß , die reinen Verstandesbegriffe aber mit den empirischen Anschauungen durchaus ungleichartig sind.
+
+Es muß nothwendig ein Drittes geben , welches Kategorie und Anschauung *) Ebend. S. 129 ff.
+
+[p. 67] mit einander vermittelt, und so eine Subsumtion möglich macht.
+
+Dieses Dritte , das transcendentale
+
+Schema, ist die Zeit.
+
+Sie ist mit der Kategorie infofern gleichartig , als sie allgemein ist und auf einer Regel a priori beruht , aber zugleich auch mit der Erscheinung gleichartig, insofern sie in jeder empirischen Vorstellung des Mannigfaltigen enthalten ist. Das Schema ist ein Product der Einbildungskraft ; die Synthesis derselben hat keine einzelne anschauung, sondern die Einheit in der Bestimmung der Sinnlichkeit zum Zwecke , und eben dadurch ist das Schema vom Bilde verschieden . Wenn ich fünf Punkte hinter einander sehe , so ist dieses ein Bild von der Zahl fünf ; dagegen wenn ich eine Zahl überhaupt mir denke , die nun fünf oder Hundert sein kann , so ist dieses Denken mehr die Vorstellung einer Methode , einem gewissen Begriffe gemäß eine Menge (z. B. Tausend) in einem Bilde vorzustellen , als dieses Bild selbst, welches man in diesem Falle schwerlich würde übersehen können. Eben diese Vorstellung von einem allgemeinen Verfahren der Einbildungskraft , einem Begriffe sein Bild zu verschaffen , ist das Schema zu diesem Begriffe. Das Schema der Quantität ist die Zahl , die Erzeugung der Zeit selbst in der successiven Apprehension eines Gegenstandes ; das Schema der Qualität die Synthesis der Empfindung mit der Vorstellung der Zeit oder die Erfüllung der Zeit ; das Schema der Relation ist das Verhältniß der Wahrnehmungen unter einander zu aller Zeit; endlich das Schema der Modalität die Zeit selbst, als das Correlatum der
+
+Bestimmung eines Gegenstandes, ob und wie er zur Zeit Die Schemate sind, aber nichts als Zeitbestimmungen a priori nach Regeln , und diese gehen nach der gehöre.
+
+Ordnung der Kategorien auf die Zeitreihe , den Zeitinhalt, 5* [p. 68] die Zeitordnung und endlich den Zeitinbegriff in Ansehung aller möglichen Gegenstände. Es erhellt hieraus , daß der Schematismus des Verstandes durch die transcendentale
+
+Synthesis der Einbildungskraft auf nichts anderes hinauslaufe, als auf die Einheit alles Mannigfaltigen der Anschauung in dem inneren Sinn , und so indirect auf die Einheit der Apperception , als Function , welche dem inneren
+
+Sinn (einer Receptivität) correspondirt. Die Schemate der reinen Verstandesbegriffe Sind also die wahren und einzigen Bedingungen, diesen eine Beziehung auf Objecte, mithin Bedeutung zu verschaffen , und die Kategorien selbst sind daher von keinem anderen als einem möglichen empirischen Gebrauche, indem sie bloß dazu dienen , durch Gründe einer a priori nothwendigen Einheit die Erscheinungen allgemeinen
+
+Regeln der Synthesis zu unterwerfen , und sie dadurch zur durchgängigen Verknüpfung in einer Erfahrung schicklich zu machen . )
+
+213 das oberste Princip aller synthetischen Urtheile ergiebt sich also : ein jeder Gegenstand steht unter den nothwendigen Bedingungen der synthetischen Einheit des Mannigfaltigen der Anschauung in einer möglichen Erfahrung. Synthetische Urtheile a priori sind möglich , wenn wir die formalen Bedingungen der Anschauung a priori, die Synthesis der Einbildungskraft , und die nothwendige Einheit derselben in einer transcendentalen Apperception , auf eine mögliche Erfahrungserkenntniß überhaupt beziehen , und sagen : die Bedingungen der Möglichkeit der Erfahrung überhaupt sind zugleich Bedingungen der Gegenstände der Erfahrung und haben * ) Ebend. S. 171, [p. 69] darum objective Gültigkeit in einem synthetischen Urtheile a priori. Nach der Tafel der Kategorien können die Grundsätze des reinen Verstandes systematisch dargestellt werden .
+
+Es ergeben sich 1. Axiome der Anschauung ; 2. Anticipationen der Wahrnehmung ; 3. Analogien der Erfahrung ; 4. Postulate des empirischen Denkens. Die Grundsätze, welche den Kategorien der Quantität und Qualität angehören , sollen die mathematischen heißen , dagegen die der Relation und Modalität die dynamischen , indem die ersteren einer intuitiven , die zweiten einer bloß discursiven, obwohl ebenfalls vollkommenen , Gewißheit fähig sind. 1. Die Axiome der Anschauung haben zum Princip :
+
+Alle Erscheinungen sind der Anschauung nach Alle Erscheinungen nämlich enthalten der Form nach eine Anschauung in Raum und Zeit, welche ihnen a priori zu Grunde liegt. Sie können also nicht anders ins empirische Bewußtsein aufgenommen werden als durch die Synthesis des Mannigfaltigen , wodurch extensive Größen.
+
+die Vorstellungen eines bestimmten Raumes oder einer bestimmten
+
+Zeit erzeugt werden , d. h. durch die Zusammenstellung des Gleichartigen und das Bewußtsein der synthetischen Einheit dieses Mannigfaltigen. Nun ist das Bewußtsein des mannigfaltigen Gleichartigen in der Anschauung überhaupt, sofern dadurch die Vorstellung eines Objects zuerst möglich wird , . der Begriff einer Größe. Also ist selbst die Wahrnehmung eines Objects , als Erscheinung, nur durch dieselbe synthetische Einheit des Mannigfaltigen der gegebenen sinnlichen Anschauung möglich , wodurch die Einheit der Zusammensetzung des mannigfaltigen Gleichartigen im Begriffe einer Größe gedacht wird. Eine extensive Größe ist diejenige, in welcher die Vorstellung der Theile [p. 70] die Vorstellung des Ganzen möglich macht und also nothwendig vor dieser vorhergeht. Ich kann mir keine Linie, so klein sie auch sei, vorstellen , ohne sie in Gedanken zu ziehen , also von einem Punkte aus alle Theile nach und nach zu erzeugen.
+
+Dasselbe gilt auch von der Zeit.
+
+Da die bloße Anschauung an allen Erscheinungen entweder der Raum oder die Zeit ist , so ist jede Erscheinung als Anschauung eine extensive Größe , indem sie nur durch successive Synthesis in der Apprehension erkannt werden kann . Alle Erscheinungen werden demnach schon als Aggregate angeschaut, welches nicht bei jeder Art Größen der Fall ist, sondern nur bei denjenigen , welche als extensiv vorgestellt werden.
+
+Auf diese successive Synthesis der productiven Einbildungskraft in der Erzeugung der Gestalten gründet sich die Geometrie mit ihren Axiomen ; diese drücken die Bedingungen der sinnlichen Anschauung a priori aus , unter denen allein das Schema eines reinen Begriffs der äußeren
+
+Erscheinung zu Stande kommen kann ; z. B. zwischen zwei Punkten ist nur eine gerade linie möglich ; zwei gerade Linien schließen keinen Raum ein. Das Axiom der Anschauung giebt unserer Erkenntniß a priori große Erweiterung ; denn aus demselben erhellt, daß die reine Mathematik in ihrer ganzen Präcision auf Gegenstände der Erfahrung anwendbar ist.
+
+Die empirische
+
+Anschauung ist nur durch die reine möglich ; was also die Geometrie von dieser sagt, gilt auch ohne Widerrede von jener , und die Ausflüchte , als wenn Gegenstände der Sinne nicht den Regeln der Construction im Raume (z. B. der unendlichen Theilbarkeit der Linie oder Winkel) gemäß sein könnten , müssen wegfallen. Denn dadurch spricht man dem Raume und mit ihn zugleich aller Mathematik objective
+
+[p. 71] Gültigkeit ab , und weiß nicht mehr , warum und wie weit sie auf Erscheinungen anzuwenden sei. Die Synthesis der Räume und Zeiten , als der wesentlichen Formen aller Anschauung , ist das , was zugleich die Apprehension der Erscheinung
+
+, mithin jede äußere Erfahrung, folglich auch alle Erkenntniß der Gegenstände derselben , möglich macht, und was die Mathematik im reinen Gebrauch von jener beweist, das gilt auch nothwendig von dieser. * )
+
+2. Anticipationen der Wahrnehmung. Das Princip derselben ist: In allen Erscheinungen hat das Reale , was ein Gegenstand der Empfindung ist, intensive Größe , d. h. einen Grad. Die Apprehension , bloß vermittelst der Empfindung , erfüllt nur einen Augenblick , (wenn ich nämlich nicht die Succession vieler Empfindungen in Betracht ziehe).
+
+U13 etwas in der Erscheinung, dessen Apprehension keine successive Synthesis ist , die von den Theilen zur Vorstellung des Ganzen fortgeht , hat sie also keine extensive Größe ; der Mangel der Empfindung in demselben Augenblick würde diesen als leer vorstellen , mithin = 0. Was nun in der empirischen Anschauung der Empfindung correspondirt, ist Realität ; was dem Mangel derselben entspricht, Negation. Nun ist aber jede Empfindung einer Verringerung fähig , so daß sie allmählig verschwinden kann . Daher ist zwischen Realität in der Erscheinung und Negation ein continuirlicher Zusammenhang vieler möglichen Zwischenempfindungen , deren Unterschied von einander immer kleiner ist, als der Unterschied zwischen der gegebenen und der gänzlichen Eben darum hat jede Realität in der Erschei: Negation. nung eine intensive Größe oder einen Grad ; denn dies *) Ebend . S. 202.
+
+[p. 72] ist diejenige Größe , die nur als Einheit apprehendirt wird, und in welcher die Vielheit nur durch Annäherung zur Negation = 0 vorgestellt werden kann. -
+
+Wir nennen diesen Grundsatz die Anticipation der Wahrnehmung , weil in ihm der Erfahrung , selbst in der Weise der Empfindung , welche alles Material aus der unmittelbaren Erfahrung schöpft, durch eine allgemeine Bestimmung a priori vorgegriffen wird . Die Nothwendigkeit des Grades ist aber auch das Einzige , was von der Qualität (dem Realen der
+
+Erscheinung) a priori erkannt werden kann ; alles Uebrige bleibt der Erfahrung überlassen . Wenn alle Realität in der Wahrnehmung einen Grad hat , zwischen dem und der Negation eine unendliche Stufenfolge immer minderer Grade Statt findet, und gleichwohl ein jeder Sinn einen bestimmten Grad der Receptivität der Empfindungen haben muß , so ist keine Wahrnehmung , mithin auch keine Erfahrung möglich , die einen gänzlichen Mangel alles Realen in der Erscheinung, es sei unmittelbar oder mittelbar (d. h. durch welchen Umschweif im
+
+Schließen man immer wolle) bewiese , d. h. es kann aus der Erfahrung niemals ein Beweis vom leeren Raume oder einer leeren Zeit gezogen werden. Beinahe alle Naturlehrer schließen daraus , daß die Quantität der Materie bei gleichem Volumen doch verschieden sein kann , auf die Eristenz leerer Zwischenräume. Wer hätte aber von diesen größtentheils mathematischen und mechanischen Naturforschern sich wohl jemals einfallen lassen , daß sie diesen ihren Schluß nur auf eine metaphysische Voraussetzung , welche sie doch so sehr zu vermeiden vorgeben , gründeten ? indem sie nämlich annehmen , daß das Reale im Raume durchgängig einerlei sei und sich nur der extensiven Größe d. i. der Menge nach unterscheiden könne. Dieser metaphysischen
+
+[p. 73] Voraussetzung setzen wir einen transcendentalen Beweis entgegen , der zwar den Unterschied in der Erfüllung der Räume nicht erklären soll , aber doch die vermeinte Nothwendigkeit
+
+jener Voraussetzung völlig aufhebt, und das Verdienst hat , den Verstand wenigstens in Freiheit zu versetzen , sich diese Verschiedenheit auch auf andere Art zu denken , wenn die Naturerklärung hierzu irgend eine Hypothese nothwendig machen sollte. Es kann jede Ausspannung, die einen Raum erfüllt , z. B. Wärme , und auf gleiche Weise jede andere Realität, ohne im mindesten den kleinsten Theil dieses Raumes leer zu lassen , in ihren Graden ins Unendliche abnehmen , und nichts desto weniger den Raum mit diesen kleineren Graden eben so wohl erfüllen , als eine andere Erscheinung mit größeren. *) 3. Analogien der Erfahrung . Das Princip derselben ist: Erfahrung ist nur durch die Vorstellung einer nothwendigen Verknüpfung der Wahrnehmungen möglich. Unter Erfahrung nämlich verstehen wir hier empirische Erkenntniß. Empirische Urtheile, sofern sie objective
+
+Gültigkeit haben , sind Erfahrungsurtheile ; dagegen sind diejenigen , welche nur subjective Gültigkeit haben , nur Wahrnehmungsurtheile. Objective Gültigkeit wird aber nur erreicht durch die allgemeinen Verstandesbegriffe , welche das für die Wahrnehmung gegebene Mannigfaltige unter nothwendige Regeln bringen. Indem die Zeit die Form aller Erscheinungen ist, so ist die nothwendige Verknüpfung der Erscheinungen ein objectives Verhältniß derselben in der Zeit ; und wie die drei Modi der Zeit Beharrlichkeit, Folge und Zugleichsein sind , so werden die verschiedenen Analogien der Erfahrung eben diese verschiedenen Zeitverhältnisse *) Ebend. S. 207 ff.
+
+[p. 74] als Regeln fassen. Die ersten zwei Grundsätze gingen auf die Erscheinungen ihrer bloßen Möglichkeit nach , und lehrten , wie sie sowohl ihrer Anschauung als dem Realen ihrer Wahrnehmung nach , nach Regeln einer mathematischen Synthesis erzeugt, also construirt werden können ; sie können daher auch constitutive heißen. Die Analogien der
+
+Erfahrung sollen das Dasein der Erscheinungen a priori unter Regeln bringen ; da aber das Dasein sich nicht construiren läßt , so werden die Analogien nur auf das Verhältniß des Daseins geben und keine anderen als bloß regulative Principien abgeben können. analogie bedeutet in der Philosophie die Gleichheit zweier qualitativen Verhältnisse, wo ich aus drei gegebenen Gliedern nur das Verhältniß zu einem vierten , nicht aber das vierte Glied selbst erkennen kann , wohl aber eine Regel habe, dieses
+
+Glied in der Erfahrung zu suchen , und ein Merkmal , es in derselben aufzufinden . Erste Analogie. Bei allem Wechsel der Erscheinungen beharrt die Substanz , und das Quantum derselben wird in der Natur weder
+
+Alle Erscheinungen sind in der Zeit , in welcher als ihrem Substrat das Zugleichsein sowohl als die Folge allein vorgestellt werden kann.
+
+vermehrt noch vermindert.
+
+Die Zeit selbst also , in welcher aller Wechsel der Erscheinungen gedacht werden soll, wechselt nicht. Nun kann aber die Zeit für sich nicht wahrgenommen werden ; folglich muß in den Gegenständen der Wahrnehmung, d. i. den
+
+Erscheinungen, etwas Beharrliches vorgestellt werden , an welchem die Folge wahrgenommen werden kann , d . i. Sub ,
+
+* ) Ebend. S. 218 f.
+
+[p. 75] stanz sein ; eben so muß in allen Erscheinungen etwas sein, was in der Zeit wechselt , d. h. die Accidenzen. Unsere Apprehension des Mannigfaltigen in der Erscheinung ist stets successiv , also immer wechselnd. Diese allein kann uns also niemals lehren , ob dieses Mannigfaltige zugleich sei , oder nach einander folge, wenn nicht in ihr etwas zu Grunde liegt , was jederzeit ist, d. i. etwas Bleibendes und Beharrliches , von welchem Wechsel und Zugleichsein nur Modi sind. Nur in dem Beharrlichen sind also Zeitverhältnisse möglich , d. i. das Beharrliche ist das Substrat der empirischen Vorstellung der Zeit selbst, an welchem alle Zeitbestimmung allein möglich ist. Es folgt hieraus von selbst , daß die Substanz weder vermehrt noch vermindert werden kann , das aus Nichts nie Etwas und Etwas nie zu Nichts werden kann ; (es versteht sich von selbst, daß immer nur von Erscheinungen , nicht von Dingen an sich die Rede ist ). Hierauf gründet sich nun auch der richtige Begriff der Veränderung gehen sind nicht Veränderungen desjenigen , was entsteht oder vergeht. Veränderung ist eine Art zu eristiren , welche auf eine andere Art zu eristiren eben desselben Gegenstandes folgt. Daher ist alles , was sich verändert , bleibend, und nur sein Zustand wechselt. Da dieser Wechsel also nur die Bestimmungen trifft, die aufhören oder auch anfangen können , so können wir sagen : nur das Beharrliche (die Substanz) wird verändert, das Wandelbare erleidet keine Veränderung , sondern einen Wechsel, da einige Bestimmungen aufhören , andere anfangen. Veränderung kann daher nur an Substanzen wahrgenommen werden, und das Entstehen oder Vergehen schlechthin , ohne daß es eine Bestimmung des Beharrlichen betreffe , kann gar keine mögliche Wahrnehmung sein , weil eben dies Beharrliche [p. 76] die Vorstellung von dem Uebergange aus einem Zustande in den andern , und vom Nichtsein zum Sein möglich macht, die also nur als wechselnde Bestimmungen dessen was bleibt empirisch erkannt werden können.
+
+Das Ent:
+
+und Vergehen der Substanzen würde selbst die einzige Bedingung der empirischen Einheit der Zeit aufheben , und die Erscheinungen würden sich dann auf zweierlei Zeiten beziehen , in denen neben einander das Dasein verflösse, was ungereimt ist; denn es ist nur eine Zeit , in welcher alle verschiedene Zeiten nicht zugleich sondern nach einander gelegt werden müssen. So ist demnach die Beharrlichkeit eine nothwendige
+
+Bedingung, unter welcher allein Erscheinungen , als Dinge oder Gegenstände , in einer möglichen Erfahrung bestimmbar sind *).
+
+Zweite Analogie. Alle Veränderungen geschehen nach dem Gesetze der Verknüpfung Der Ursach und Wirkung.
+
+Wie überhaupt jede objective
+
+Verbindung nur durch einen Verstandesbegriff geschehen kann , so hat auch die Verbindung zweier auf einander folgenden Erscheinungen in der Zeit nur durch einen Verstandesbegriff objectiven Werth ; dieser Verstandesbegriff kann aber hier kein anderer sein als Ursach und Wirkung.
+
+Gesetzt, es gehe vor einer Begebenheit nichts vorher , worauf dieselbe nach einer Regel folgen müßte, so wäre alle Folge der Wahrnehmung nur in der Apprehension , d. h. es wäre bloß subjectiv , aber gar nicht objectiv bestimmt, welches eigentlich das Vorhergehende und welches das Nachfolgende der Wahrnehmungen sein müßte. Wir würden also auf solche Weise nur ein Spiel der Vorstellungen * ) Ebend. S. 224 ff.
+
+[p. 77] haben , das sich auf gar kein Object bezöge , d. i. es würde durch unsere Wahrnehmung eine Erscheinung von jeder anderen , dem Zeitverhältnisse nach , gar nicht unterschieden werden .
+
+Ich würde also nicht sagen : daß in der Erscheinung zwei Zustände auf einander folgen ; sondern nur : daß eine Apprehension auf die andere folgt , welches etwas bloß Subjectives ist , somit gar nicht als Erkenntniß irgend eines Gegenstandes gelten kann. Soll also von der objectiven Erscheinung behauptet werden , daß irgend Etwas dem Anderen folge, oder überhaupt geschehe, in die Zeit eintrete, so muß dasselbe mit dem
+
+Vorangehenden in nothwendige Beziehung gebracht, es muß im objectiven Sinne als die Folge, als die Wirkung des Früheren betrachtet werden . Wie es ein nothwendiges Gesetz unserer Sinnlichkeit, also eine formale Bedingung aller Wahrnehmungen ist, daß die vorige Zeit die folgende nothwendig bestimmt (indem ich zur folgenden nicht anders gelangen kann als durch die vorhergehende), so ist es auch ein unentbehrliches Gesetz der empirischen Vorstellung der
+
+Zeitreihe, daß die Erscheinungen der vergangenen Zeit jedes Dasein in der folgenden bestimmen , und daß diese als
+
+Begebenheiten nur als durch jene bestimmt in die Zeit eintreten . Das Verhältniß der Ursach zur Wirkung ist somit die Bedingung der objectiven Gültigkeit unserer empirischen
+
+Urtheile in Ansehung der Reihe der Wahrnehmungen , mithin der empirischen Wahrheit derselben , also der
+
+Erfahrung. Eben darum hat der Grundsatz des Causalverhältnisses auf alle Gegenstände der Erfahrung seine nothwendige Anwendung, weil er selbst der Grund der Möglichkeiten einer solchen Erfahrung ist. *) * ) Ebend. S. 232 ff.
+
+[p. 78] Der größte Theil der wirkenden Ursachen in der Natur ist mit ihren Wirkungen zugleich , und die Zeitfolge der letzteren wird nur dadurch veranlaßt , daß die Ursach ihre ganze Wirkung nicht in einem Augenblicke verrichten kann . Allein es kommt hier auf die Ordnung der Zeit an , nicht auf den Ablauf derselben.
+
+Die Zeit zwischen der Ursach und deren unmittelbaren Wirkung kann verschwindend sein , aber das Verhältniß der einen zur anderen bleibt doch immer der Zeit nach bestimmbar.
+
+Wenn ich eine Kugel , die auf einem ausgestopften Kissen liegt und ein Grübchen eindrückt, als Ursach betrachte , so ist sie mit der Wirkung zugleich. Allein ich unterscheide doch beide durch das Zeitverhältniß der dynamischen Verknüpfung bei:
+
+Denn wenn ich die Kugel auf das Kissen lege , so folgt auf die vorige glatte Gestalt desselben das Grübchen ; hat aber das Kissen ( ich weiß nicht woher) ein Grübchen , so folgt darauf nicht eine bleierne Kugel. Demnach ist der.
+
+die Zeitfolge allerdings das einzige empirische Kriterium der Wirkung in Beziehung auf die Causalität der Ursach, die vorhergeht. Wie überhaupt etwas verändert werden könne, wie es möglich sei , daß auf einen Zustand in einem Zeitpunkte ein entgegengesetzter im anderen folgen könne , davon haben wir a priori nicht den mindesten Begriff.
+
+Hierzu wird die Kenntniß wirklicher Kräfte erfordert, welche nur empirisch gegeben werden kann. Aber die Form einer jeden Veränderung , die Bedingung , unter welcher allein sie als ein Entstehen eines anderen Zustandes vorangehen kann , mithin die Succession der Zustände selbst kann doch nach dem Gesetze der Causalität und den Bedingungen der Zeit a priori erwogen werden.
+
+Es fragt sich also :
+
+[p. 79] wie ein Ding aus einem Zustande a in einen anderen
+
+= b übergehe. Zwischen zwei Augenblicken ist immer eine Zeit , und zwischen zwei Zuständen in denselben immer ein Unterschied , der eine Größe hat. Also geschieht jeder Uebergang aus einem Zustande in den anderen in einer Zeit, die zwischen zwei Augenblicken enthalten ist, deren der erste den Zustand bestimmt, aus welchem das Ding herausgeht, der zweite den , in welchen es gelangt. Beide also sind
+
+Grenzen der Zeit einer Veränderung , mithin des Zwischenzustandes zwischen beiden Zuständen , und gehören als solche mit zu der ganzen Veränderung. Nun hat jede Veränderung eine Ursach , welche in der ganzen Zeit , in welcher jene vorgeht , ihre Causalität beweist. Also bringt diese Ursach ihre Veränderung nicht plötzlich hervor , sondern in einer Zeit , so daß , wie die Zeit vom Anfangsaugenblicke a bis zu ihrer Bollendung in b wächst , auch die Größe der Realität durch alle kleinere Grade , die zwischen dem ersten und letzten enthalten sind , erzeugt wird. Alle Veränderung :
+
+rung ist also nur durch eine continuirliche Handlung der Causalität möglich, welche, sofern sie gleichförmig ist, ein Moment heißt .
+
+Aus diesen Momenten besteht nicht die
+
+Veränderung, sondern wird dadurch erzeugt als ihre Wirkung. Dies ist nun das Gesetz der Continuität aller Veränderung , dessen Grund dieser ist : daß weder die Zeit noch auch die Erscheinung in der Zeit aus Theilen besteht, die die kleinsten sind , und daß doch der Zustand des Dinges bei seiner Veränderung durch alle diese Theile , als Elemente , in seinen zweiten Zustand übergehe. Es ist kein Unterschied des Realen in der Erscheinung, so wie kein Unterschied in der Größe der Zeiten , der kleinste , und so erwächst der neue Zustand der Realität von dem ersten an, darin diese nicht war , durch alle unendliche Grade dersel [p. 80] ben , deren Unterschiede von einander insgesammt kleiner sind , als der zwischen Null und a. *) Dritte Analogie. Alle Substanzen , sofern sie im Raume als zugleich wahrgenommen wer :
+
+den können , sind in durchgängiger Wechselwirkung . Nur unter der Voraussetzung einer Wechselwirkung der Substanzen kann das Zugleichsein derselben in Dinge sind zugleich , so: der Erfahrung erkannt werden. fern sie in einer und derselben Zeit existiren. Man er : kennt aber dieses Zugleichsein nur daran , daß die Ord:nung in der Synthesis der Apprehension dieses Mannig :
+
+faltigen gleichgültig ist, daß man von a durch b, c, d nach e , oder auch umgekehrt von e nach a gehen kann. Wäre nun in einer Mannigfaltigkeit von Substanzen jede derselben völlig isolirt , d. h. wenn sie nicht auf einander wirkten
+
+, so würden sie nur nach einander wahrgenommen , ohne daß ein objectives Zugleichsein derselben in der Erfahrung gesetzt wäre . **) 4.
+
+Postulate des empirischen
+
+Denkens.
+
+1. Was mit den formalen Bedingungen der Erfahrung (der Anschauung und den Begriffen nach) übereinkommt, ist möglich. 2. Was mit den materialen Bedingungen der Erfahrung ( der Empfindung ) zusammenhängt , ist 3. Dessen Zusammenhang mit dem Wirklichen nach allgemeinen Bedingungen der Erfahrung bestimmt ist, ist nothwendig. Die Kategorien der Modalität haben das Besondere an sich , daß sie den Begriff, dem sie als Prädikate beigefügt werden , nicht wirklich im mindesten vermehren , sondern nur das Verhältniß zum
+
+*) Ebend. S. 248 ff.
+
+**) Ebend. S. 256 ff.
+
+[p. 81] Erkenntnißvermögen ausdrücken .
+
+Wenn der Begriff eines
+
+Dinges schon ganz vollständig ist, so kann ich doch noch die Frage aufwerfen , ob dieses Ding bloß möglich oder wirklich oder zugleich nothwendig sei. Hierdurch werden keine Bestimmungen mehr zum Objecte hinzu gedacht, sondern es fragt sich nur , wie dieses sich zum Verstande und dessen empirischen Gebrauche, zur empirischen Urtheilskraft und zur Vernunft (in ihrer Anwendung auf Erfahrung) verhalte. Eben deßwegen sind auch die Grundsätze der Modalität nichts weiter als Erklärungen der Begriffe der
+
+Möglichkeit, Wirklichkeit und Nothwendigkeit in ihrem empirischen Gebrauche, und hiemit zugleich Restrictionen aller Kategorien auf den bloß empirischen Gebrauch , ohne den transcendentalen zuzulassen und zu erlauben . *)
+
+Die transcendentale Analytik hat demnach dieses wichtige Resultat : daß der Verstand a priori niemals mehr leisten könne , als die Form einer möglichen Erfahrung überhaupt zu anticipiren , und da dasjenige was nicht Erscheinung ist, kein Gegenstand der Erfahrung sein kann , daß er die Schranken der Sinnlichkeit , innerhalb deren uns allein Gegenstände gegeben werden , niemals überschreiten könne. Seine Grundsätze sind bloß Principien der Exposition der Erscheinungen , und der stolze Name einer Ontologie , welche sich anmaßt , vom Wesen der Dinge synthetische
+
+Erkenntnisse a priori in einer systematischen Doctrin zu geben , muß dem bescheidenen Namen einer bloßen Analytik des reinen Verstandes Platz machen .
+
+Die Täuschung, daß durch die Kategorien über die sinnliche Erscheinung schlechthin könne hinausgegangen werden , stützt sich darauf , daß die Kategorien allerdings nicht in der Sinnlichkeit, sondern *) Ebend . S. 265 ff. S. atler. II .
+
+[p. 82] nur im reinen Verstande ihren Ursprung haben. allein sie sind ihrerseits wieder nichts als Gedankenformen , die bloß das logische Vermögen enthalten , das mannigfaltige in der Anschauung Gegebene in ein Bewußtsein a priori zu vereinigen , und daher müssen sie , wenn man ihnen die uns allein mögliche, nämlich sinnliche Anschauung wegnimmt, allen Werth und alle Bedeutung verlieren. Schon dadurch , daß alle Erkenntniß nur auf die Erscheinung eingeschränkt werden muß , ist der Begriff eines Noumenon , des Dinges an sich gegeben ; der Begriff dieses Noumenon kann aber nur in negativer , nicht in positiver Bedeutung zugelassen werden. Wir können nämlich nicht die Kategorien auf dieses Noumenon anwenden , eben weil es nicht Gegenstand der sinnlichen Erfahrung ist; vielmehr ist das Ding an sich nur ein nothwendiger Grenzbegriff, und wir können von ihm nichts weiter aussagen , als eben dies , daß es ein durch die Einschränkung aller Erkenntniß auf Gegenstände der sinnlichen Erfahrung nothwendig gesetztes Noumenon sei. *) Durch die transcendentale Analytik ist nun die Frage :
+
+wie ist reine Naturwissenschaft, oder , was auf dasselbe hinausläuft, wie ist Natur selbst möglich ? vollständig beantwortet.
+
+Natur in materialer Bedeutung ist der Inbegriff aller Gegenstände der Erfahrung, in formaler
+
+Bedeutung ist Natur die Gesetzmäßigkeit aller Gegenstände der Erfahrung , und , sofern diese a priori erkannt wird , die nothwendige Gesetzmäßigkeit derselben Bedeutung ist möglich durch die Beschaffenheit unserer Sinnlichkeit, nach welcher sie auf die ihr eigenthümliche Art von Gegenständen , die ihr an sich selbst unbekannt und von den Er scheinungen ganz verschieden sind , berührt wird. Natur in * ) Ebend . S. 504, 511 .
+
+[p. 83] formaler Bedeutung ist möglich durch die Beschaffenheit unseres Verstandes, nach welcher alle Vorstellungen der Sinnlichkeit auf die transcendentale Einheit der Apperception bezogen und den Kategorien untergeordnet werden. Wie aber diese eigenthümliche Eigenschaft unserer Sinnlichkeit selbst und unseres Verstandes möglich sei, läßt sich unmöglich weiter beantworten , weil wir zu einer solchen Beantwortung immer wieder derselben Sinnlichkeit und desselben Verstandes bedürfen. Es sind viele Gesetze der Natur , die wir nur vermittelst der Erfahrung wissen können , aber die Gesetzmäßigkeit in der Verknüpfung der Erscheinungen, d. i. die Natur überhaupt , können wir durch keine Erfahrung kennen lernen , weil Erfahrung selbst solcher Gesetze bedarf, die ihrer Möglichkeit a priori zu Grunde liegen. Die Möglichkeit der Erfahrung überhaupt ist also zugleich das allgemeine Gesetz der Natur , und die Grundsätze der ersteren
+
+sind selbst die Gesetze der letzteren ; denn wir kennen die Natur nur als den Inbegriff der Erscheinungen , d. i. der Vorstellungen in uns , und somit können wir auch das Gesetz ihrer Verknüpfung nirgend anders hernehmen als von den Grundsätzen der Verknüpfung derselben in uns , d. i. von den Bedingungen der nothwendigen Vereinigung in einem Bewußtsein , welche die Möglichkeit der Erfahrung ausmacht. Selbst der Hauptsatz , daß allgemeine Naturgesetze a priori erkannt werden können , führt schon von selbst darauf, daß die oberste Gesetzgebung der Natur in uns selbst d. i. in unserm Verstande liegen müsse , und daß wir die allgemeinen Gesetze derselben nicht aus der
+
+Natur vermittelst der Erfahrung , sondern umgekehrt die Natur, ihrer allgemeinen Gesetzmäßigkeit nach , bloß aus den in unserer Sinnlichkeit und dem Verstande liegenden Bedingungen der Möglichkeit der Erfahrung suchen müssen ; 6* [p. 84] denn wie wäre es sonst möglich , diese Gesetze , da sie nicht etwa Regeln der analytischen Erkenntniß , sondern wahrhafte synthetische Erweiterungen derselben sind , a priori zu feninen ?
+
+Wir müssen aber empirische Gesetze der Natur, die jederzeit besondere Wahrnehmungen voraussetzen , von den reinen oder allgemeinen Naturgesetzen , welche, ohne daß besondere Wahrnehmungen zu Grunde liegen , bloß die Bedingungen ihrer nothwendigen Vereinigung in einer Erfahrung enthalten , unterscheiden , und in Ansehung der letzteren ist Natur und mögliche Erfahrung ganz und gar einerlei, und da in dieser die Gesetzmäßigkeit auf der nothwendigen Verknüpfung der Erscheinungen in einer Erfahrung , mithin auf den ursprünglichen Gesetzen des Verstan :
+
+des beruht , so klingt es zwar anfangs befremdlich , ist aber nichts desto weniger gewiß , daß der Verstand seine Gesetze ( a priori ) nicht aus der Natur schöpfe, sondern sie dieser vielmehr vorschreibe. Gehen wir z. B. von den geometrischen Gesetzen des Cirkels , der Kegelschnitte aus , zu den Grundlehren der physischen Astronomie fort , so zeigt sich ein über die ganze materielle Natur verbreitetes physisches Gesetz der wechselseitigen Attraction, deren Regel ist, daß sie umgekehrt mit dem Quadrat der Entfernungen von jedem anziehenden Punkte eben so abnehme, wie die Kugelflächen , in die sich diese Kraft verbreitet , zunehmen , welches als nothwendig in der Natur der Dinge selbst zu liegen scheint, und daher auch als a priori erkennbar vorgetragen zu werden pflegt. So einfach nun auch die Quellen dieses Gesetzes sind , indem sie bloß auf dem Verhältnisse der Kugelfläche von verschiedenen Halbmessern beruhen , so ist doch die Folge davon so vortrefflich in Anschung der Mannigfaltigkeit ihrer Zusammen :
+
+[p. 85] mensetzung und Regelmäßigkeit derselben , daß nicht allein alle mögliche Bahnen der Himmelskörper in Kegelschnitten , sondern auch ein solches Verhältniß derselben unter einander erfolgt , daß kein anderes Gesetz der Attraction , als das des umgekehrten Quadratverhältnisses der Entfernungen zu einem Weltsystem als schicklich erdacht werden kann. Hier ist also Natur, die auf Gesetzen beruht, welche der CE
+
+Berstand a priori erkennt, und zwar besonders aus seinen
+
+Principien der Bestimmung des Raumes. Nun frage ich: liegen diese Naturgesetze im Raume und lernt sie der Verstand , indem er den reichhaltigen Sinn , der in jenem liegt , bloß zu erforschen sucht ? oder liegen sie im Berstande und in der Art, wie dieser den Raum nach den
+
+Bedingungen der synthetischen Einheit , darauf seine Begriffe insgesammt auslaufen , bestimmt ? Der Raum ist etwas so Gleichförmiges und in Ansehung aller besonderen Eigenschaften so Unbestimmtes , daß man in ihm gewiß kei: nen Schatz von Naturgesetzen suchen wird.
+
+Dagegen ist das , was den Raum zur Cirkelgestalt, der figur des Kegels und der Kugel bestimmt , der Verstand , sofern er den Grund der Einheit der Construction derselben enthält.
+
+Die bloße allgemeine Form der Anschauung, die Raum heißt , ist also wohl das Substrat aller auf besondere Ob: jecte bestimmbaren Anschauungen , und in jenem liegt frei-.
+
+lich die Bedingung der Möglichkeit und Mannigfaltigkeit der letzteren ; aber die Einheit der Objecte wird doch ledig lich durch den Verstand bestimmt, und zwar nach Bedin .
+
+gungen , die in seiner eigenen Natur liegen , und so ist der Verstand der Ursprung der allgemeinen Ordnung der Natur , indem er alle Erscheinungen unter seine eigenen Gesetze faßt , und dadurch erst Erfahrung ihrer Form nach )
+
+a priori zu Stande bringt, vermöge deren Alles , was uns [p. 86] durch Erfahrung erkannt werden soll , seinen Gesetzen noth: wendig unterworfen wird.
+
+Denn wir haben es nicht mit der Natur der Dinge an sich selbst zu thun , die ist so: wohl von Bedingungen unserer Sinnlichkeit als des Ver standes unabhängig , sondern mit der Natur als einem Gegenstande möglicher Erfahrung , und da macht es der Ver: stand , indem er diese möglich macht , zugleich , daß Sin:
+
+nenwelt entweder gar kein Gegenstand der Erfahrung oder Natur ist. * )
+
+Die folgenden Abschnitte der Kritik der reinen Ver: nunft sind für uns nur im Allgemeinen von Wichtigkeit. Alle unsere Erkenntniß hebt von den Sinnen an, geht von da zum Verstande fort, und endigt bei der Ver : nunft. Sie ist das Vermögen der Principien schlechthin, oder der synthetischen Erkenntnisse aus Ideen ; sie geht daher nicht unmittelbar auf die Erfahrung oder auf irgend einen Gegenstand, sondern vielmehr auf den Verstand , um den mannigfaltigen Erkenntnissen desselben Einheit a priori durch Begriffe zu geben. Der eigenthümliche Grundsatz der Vernunft ist daher : zu der bedingten Erkenntniß des Verstandes das Unbedingte zu finden. Diese logische Maxi: me kann aber nur dann ein Princip der reinen Vernunft sein , wenn man annimmt , daß, wenn das Bedingte gege: ben ist, auch die ganze Reihe seiner einander untergeordne: ten Bedingungen , die mithin selbst unbedingt ist, gegeben sei.
+
+Dieser Grundsatz ist offenbar synthetisch, und aus dem selben entspringen andere synthetische Säße , die sich von den Grundsätzen des Verstandes sogleich dadurch unterscheiden , daß sie transcendent sind.
+
+Die kritische Untersuchung dieser synthetischen Erkenntniß der Vernunft, die Nachwei: *) Prolegomena S. 37. S 38.
+
+[p. 87] sung , daß dieselbe ohne wahrhaften Gehalt nur ein Schein ist, ist die Aufgabe der transcendentalen Dialektik.
+
+Aus den verschiedenen Arten des Vernunftschlusses ergeben sich die drei wesentlichen Vernunftbegriffe oder Ideen ; die
+
+Seele das Unbedingte der kategorischen Synthesis , die Welt als Totalität das Unbedingte der hypothetischen Syn: thesis , und Gott das Unbedingte der disjunctiven Syn thesis. In Bezug auf die Seele wird gezeigt , wie die rationale Psychologie des Dogmatismus auf Paralogismen beruht , indem sie die Einheit des Bewußtseins für die Einheit des denkenden Subjects nimmt , und dieses wie ein Object der Anschauung behandelt.
+
+In der Erkenntniß der Welt geräth die Vernunft auf Antinomien ; als solche ergeben sich nach der Tafel der Kategorien vier. In der ersten wird einmal die räumliche und zeitliche Begrenztheit, und dann die räumliche und zeitliche Unbegrenztheit der Welt behauptet. In der zweiten stehen die Säße einander gegenüber : eine jede zusammengesetzte Substanz in der Welt besteht aus einfachen Theilen , und es existirt überall nichts als das Einfache, oder das , was aus diesem zusam mengesetzt ist; und ferner : kein zusammengesetztes Ding in der Welt besteht aus einfachen Theilen, und es existirt überall nichts Einfaches in derselben. Die dritte Antinomie hat zu ihrem Inhalt den Gegensatz der Freiheit und des Ge: setzes der Causalität oder der Naturnothwendigkeit ; und endlich die vierte behauptet und leugnet die Existenz eines schlechthin nothwendigen Wesens. Der Schlüssel für die Auflösung dieser Antinomien soll der transcendentale Idealismus sein , die Einsicht, daß alles was im Raume und in der Zeit angeschaut wird , nur Erscheinungen sind, nicht Dinge an sich. Die ganze Antinomie der reinen Ver: nunft beruht auf dem dialektischen Argumente : wenn das
+
+[p. 88] Bedingte gegeben ist, so ist auch die ganze Reihe aller Be: dingungen gegeben ; nun ist das Bedingte gegeben u. s. w. Bei Dingen an sich selbst hat dies wohl seine Richtigkeit, aber bei Erscheinungen ist mit dem Bedingten die ganze Reihe der Bedingungen nicht gegeben , sondern nur auf : gegeben. Im Obersatze jenes Schlusses ist das Bedingte . in transcendentaler Bedeutung einer reinen Kategorie , im
+
+Untersatze aber in empirischer Bedeutung eines auf bloße
+
+Erscheinungen angewandten Verstandesbegriffs genommen . Die entgegengesetzten Behauptungen , welche aus diesem Argumente hervorgehen , sind ein indirecter Beweis für die Wahrheit des Resultats der transcendentalen Aesthetik. So bald ich die Welt nicht als ein Ding an sich betrachte, so verwandelt sich der contradictorische Widerstreit in einen bloß dialektischen , und weil die Welt gar nicht an sich (un:
+
+abhängig von der regressiven Reihe meiner Vorstellungen ) existirt, so existirt sie weder als ein an sich unendliches, noch als ein an sich endliches Ganzes. Sie ist nur im em: pirischen Regreß der Reihe der Erscheinungen für sich selbst gar nicht anzutreffen. In Bezug auf die ersten bei den Antinomien , welche die mathematischen heißen können, muß die Thesis so sehr wie die Antithesis verworfen werden ; bei den beiden letzten , den dynamischen Antinomien , ist eine Vereinigung der entgegengesetzten Behauptungen we: nigstens denkbar , wenn sie auch theoretisch nicht als noth wendig erwiesen werden kann ; es ist nämlich möglich , daß das freie Handeln , welches von einem intelligibeln Grunde ausgeht , doch seiner Erscheinung nach unter dem Gesetze der Causalität stehen kann , und eben so ist es möglich, daß die ganze Reihe der empirisch bedingten Erscheinungen ein unbedingt nothwendiges Wesen zu seinem Grunde hat , welches als schlechthin intelligibel außer der Sinnenwelt liegt. –
+
+[p. 89] So wenig wie über das Wesen der Seele und der Welt, eben so wenig kann über das Wesen Gottes irgend etwas Bestimmtes gewußt werden. Gott ist das Ideal des voll:
+
+kommensten Wesens , dessen Existenz aus dem bloßen Be:
+
+griffe unmöglich als nothwendig bewiesen werden kann ; eben so unmöglich ist es aber auch , die Nichtexistenz Got: tes zu beweisen , vielmehr ist die Idee Gottes ein an sich möglicher , für die Theorie aber immer problematisch blei bender Begriff. Die transcendentale Dialektik zeigt nicht nur , daß die Erkenntniß über die mögliche Erfahrung nicht hinaus: gehen kann , sondern sie zeigt auch , daß die menschliche Vernunft einen natürlichen Hang habe , die bestimmten Grenzen ihres Wissens zu überschreiten. Dieser Hang muß, wie Alles was in der Natur unserer Kräfte liegt , zweck: mäßig und vernünftig sein ; und er ist daher nicht als toll ther schlechthin zu verwerfen , sondern nur in seine vernünftigen Grenzen einzuschränken. *)
+
+Die Vernunft und die
+
+Ideen derselben haben freilich keinen constitutiven Ge: brauch , aber wohl einen regulativen , und ohne diesen wäre auch die Erkenntniß des Verstandes wesentlich in sich unvollendet und unabgeschlossen. Die Vernunft bezieht sich nicht unmittelbar auf einen Gegenstand, sondern viel: mehr zunächst auf den Verstand , und der regulative Ge: brauch der Ideen besteht nun eben darin , daß sie den
+
+Verstand zu einem bestimmten Ziele hinrichten und so die Verstandeserkenntniß zu einer systematischen , durch ein Princip in sich selbst zusammenhängenden machen. Diese systematische Einheit ist freilich als bloße Idee nur eine
+
+* ) Kritik d. r . B. S. 670.
+
+[p. 90] projectirte Einheit , die man an sich nicht als gegeben sondern nur als Problem ansehen muß ; sie dient aber dazu , zu dem mannigfaltigen und besondern Verstandes: gebrauche ein Princip zu finden , und diesen dadurch auch über die Fälle, die nicht gegeben sind, zu leiten und zusammenhängend zu machen. *) Die systematische oder vernünftige Einheit der mannigfaltigen Verstandeserkennt: nisse ist zunächst nur ein logisches Princip. Unter die verschiedenen Arten der Einheit nach Begriffen des Ver standes gehört z. B. auch die der Causalität einer Sub stanz, welche Kraft genannt wird.
+
+Die verschiedenen Erscheinungen eben derselben Substanz zeigen beim ersten Anblick soviel Ungleichartigkeit , daß man anfänglich bei: nahe so vielerlei Kräfte meint annehmen zu müssen , als Wirkungen sich zeigen. Eine logische Maxime gebietet aber, diese anscheinende Verschiedenheit so viel als möglich da durch zu verringern , daß man durch Vergleichung die ver: steckte Identität jener verschiedenen Kräfte aufsucht. Die Idee einer Grundkraft, von welcher aber die Logik gar nicht ausmittelt, ob es dergleichen gebe , ist wenigstens das Problem einer systematischen Vorstellung der Mannigfaltigkeit von Kräften.
+
+Das logische Vernunftprincip erfordert, diese
+
+Einheit so viel als möglich zu Stande zu bringen , und je mehr die Erscheinungen der einen und andern Kraft unter sich identisch gefunden werden , desto wahrscheinlicher wird es , daß sie nichts als verschiedene Äußerungen einer und derselben sind , welche comparativ ihre Grundkraft heißen kann.
+
+Auch die comparativen Grundkräfte müssen wieder unter einander verglichen werden ,
+
+*) Ebend. S. 672. 675 .
+
+um
+
+sie dadurch , daß [p. 91] man ihre Einhelligkeit entdeckt, einer einzigen radicalen d. i. absoluten Grundkraft nahe zu bringen
+
+Diese Vernunft:
+
+einheit ist aber bloß hypothetisch. Man behauptet nicht, daß eine solche in der That angetroffen werden müsse, sondern daß man sie zu Gunsten der Vernunft , nämlich zur Durchführung gewisser Principien , für die mancherlei Regeln , welche die Erfahrung an die Hand geben mag, suchen , und , wo es sich thun läßt, auf solche Weise syste matische Einheit in die Erkenntniß bringen müsse. Aus diesem Beispiele erhellt aber zugleich , daß die Vernunft: einheit nicht blos ein logisches Princip sein kann. Ein solches logisches Princip kann gar nicht Statt finden , wenn man nicht ein transcendentales voraussetzt, durch welches eine solche systematische Einheit , als den Objecten selbst anhängend , a priori als nothwendig angenommen wird. Denn mit welchem Rechte kann die Vernunft im logischen Gebrauche verlangen , die Mannigfaltigkeit der Kräfte , welche uns die Natur zu erkennen giebt , als eine bloß versteckte Einheit zu behandeln , und sie aus irgend einer Grund kraft, so viel an ihr ist, abzuleiten , wenn es ihr frei stände zuzugeben , daß es eben so wohl möglich sei , alle Kräfte wären ungleichartig, und die systematische Einheit ihrer Ableitung der Natur nicht gemäß ? Denn alsdann würde sie gerade wider ihre Bestimmung verfahren , indem sie sich eine Idee zum Ziele setzte, die der Natureinrichtung ganz widerspräche. Auch kann man nicht sagen , sie habe zuvor von der zufälligen Beschaffenheit der Natur die Ein:
+
+heit nach Principien der Vernunft abstrahirt. Denn das Gesetz der Vernunft , sie zu suchen , ist nothwendig, weil wir ohne dasselbe gar keine Vernunft , ohne diese aber keinen zusammenhängenden Verstandesgebrauch , und in dessen Ermangelung kein zureichendes Merkmal empirischer
+
+[p. 92] Wahrheit haben würden , und wir also in Ansehung des letzteren die systematische Einheit der Natur durchaus als objectiv gültig und nothwendig voraussetzen müssen. * ) Man ist auch dieser Einheit , obgleich sie eine bloße Idee ist, in allen Zeiten so eifrig nachgegangen, daß man eher Ursach gefunden , die Begierde nach ihr zu mäßigen als sie aufzumuntern .
+
+Es war schon viel ,
+
+D.
+
+die Scheide:
+
+künstler alle Salze auf zwei Hauptgattungen , saure und laugenhafte, zurückführen konnten , sie versuchen sogar auch diesen Unterschied bloß als eine Varietät oder verschiedene Leußerung eines und desselben Grundstoffes anzusehen . Die mancherlei Arten von Erden (den Stoff der Steine und sogar der Metalle) hat man nach und nach auf drei, endlich auf zwei zu bringen gesucht; allein damit noch nicht zufrieden , können sie sich des Gedankens nicht entschlagen , hinter diesen Varietäten dennoch eine einzige Gattung
+
+, ja wohl gar zu diesen und den Salzen ein gemeinschaftliches Princip zu vermuthen . Man möchte vielleicht glauben , dies sei ein bloß ökonomischer Handgriff der Vernunft
+
+, um sich so viel als möglich Mühe zu ersparen , und ein hypothetischer Versuch , der , wenn er gelingt , dem vorausgesetzten Erklärungsgrunde eben durch diese Einheit Wahrscheinlichkeit giebt. Allein eine solche selbstsüchtige
+
+Absicht ist sehr leicht von der Idee zu unterscheiden , nach welcher Jedermann voraussett, diese Vernunfteinheit sei der Natur selbst angemessen , und daß die Vernunft hier nicht bettele , sondern gebiete , ohne die Grenzen dieser Einheit bestimmen zu können . **)
+
+* ) Ebend. S. 678 ff. ** ) Ebend. S. 681 .
+
+[p. 93] Dem logischen Gesetz der Gattungen , welches Identität postulirt, sieht ein anderes , nämlich das der Arten entgegen , welches dem Verstande vorschreibt, nicht minder auch auf die Mannigfaltigkeit und Verschiedenheit der Dinge aufmerksam zu sein.
+
+Die Vernunft zeigt hier ein doppeltes , sich widersprechendes Interesse, einerseits das Interesse des Umfangs (der Allgemeinheit) in Ansehung der Gattungen , anderseits des Inhalts (der Bestimmtheit)
+
+in Absicht auf die Mannigfaltigkeit der Arten . Dies doppelte Interesse der Vernunft zeigt sich auch in der sehr verschiedenen Denkungsart der Naturforscher , deren einige (die vorzüglich speculativ sind), der Ungleichartigkeit gleichsam seind , immer auf die Einheit der Gattung hinaussehen, die , anderen (vorzüglich empirische Köpfe ) die Natur unaufhörlich in soviel Mannigfaltigkeit zu spalten suchen , daß man beinahe die Hoffnung aufgeben müßte , ihre Erscheinungen nach allgemeinen Principien zu beurtheilen. Dieser letzteren Denkungsart liegt offenbar auch ein logisches Princip zu Grunde , welches aber ebenfalls ohne das transcendentale Gesetz der Specification ohne Bedeutung wäre.
+
+Dieses fordert also vom Verstande, unter jeder Art, die uns vorkommt , Unterarten , und zu jeder Verschiedenheit kleinere Verschiedenheiten zu suchen . Ohne niedere Begriffe gäbe es auch keine höheren ; nun erkennt der Verstand
+
+Alles nur durch Begriffe; folglich soweit er in der Eintheilung reicht, niemals durch bloße Anschauung, sondern immer wieder durch niedere Begriffe. Die Erkenntniß der Erscheinungen in ihrer durchgängigen Bestimmung (welche nur durch Verstand möglich ist) fordert eine unaufhörlich fortzusetzende Specification der Begriffe und einen Fortgang zu immer noch bleibenden Verschiedenheiten , wovon in dem Begriff der Gattung abstrahirt worden. Und [p. 94] dieses Gesetz der Specification kann nicht aus der Erfahrung entlehnt sein ; denn diese kann keine so weit gebenden Eröffnungen geben.
+
+Die empirische Specification bleibt in der Unterscheidung des Mannigfaltigen bald stehen , wenn sie nicht durch das schon vorhergehende transcendentale Gesetz der Specification , als ein Princip der Vernunft , geleitet worden , solche zu suchen , und sie noch immer zu vermuthen , wenn sie sich gleich nicht den Sinnen offen:
+
+Wir haben eben sowohl nur unter der Vorausstellung der Verschiedenheiten in der Natur Verstand , als unter der Bedingung , daß ihre Objecte Gleichartigkeit an sich haben , weil eben die Mannigfaltigkeit desjenigen , was unter einen Begriff zusammengefaßt werden kann , den Gebrauch dieses Begriffs und die Beschäftigung des Ver: bart .
+
+standes ausmacht.
+
+Die Vernunft bereitet also dem Verstande sein Feld
+
+1. durch ein Princip der Gleichartigkeit des Mannigfaltigen unter höheren Gattungen , 2. durch einen Grundsatz der Varietät des Gleichartigen unter niederen Arten ; und um die systematische Einheit. zu vollenden , fügt sie 3. noch ein Gesetz der Affinität aller Begriffe hinzu, welches einen continuirlichen Uebergang von einer jeden Art zu jeder anderen durch stufenartiges Wachsthum der Verschiedenheit gebietet.
+
+Wir können sie die Principien der
+
+Homogenität , der Specification und der Continuität der Formen nennen.
+
+Das letztere entspringt dadurch
+
+, daß man die zwei ersteren vereinigt , nachdem man, sowohl im Aufsteigen zu höheren Gattungen , als im Herabsteigen zu niederen Arten , den systematischen Zusammenhang in der Idee vollendet hat ; denn alsdann sind alle Mannigfaltigkeiten unter einander verwandt , weil sie insgesammt [p. 95] durch alle Grade der erweiterten Bestimmung von einer einzigen obersten Gattung abstammen. *) $. 2. Kritik der Urtheilskraft.
+
+Die Philosophie wird mit Recht eingetheilt in theoretische und praktische.
+
+In der theoretischen Philosophie ist der Verstand constitutiv , allein diese Gesetze , welche der Verstand giebt , umfassen nur das sinnlich Gegebene, d. h. diese Gesetze sind Naturgesetze. In der praktischen Philosophie dagegen ist die Vernunft constitutiv. Unmittelbar mit der praktischen Vernunft nämlich ist die Gewißheit der Freiheit gegeben , welche theoretisch nicht erkannt werden kann.
+
+Die praktische Vernunft ist selbst die Freiheit ; denn sie ist die Energie, sich selbst allgemeine Principien zu geben und ihnen gemäß zu handeln ; die praktische Philosophie giebt daher wesentlich Moralgesetze. Die theoretische Philosophie kann somit auch Naturphilosophie , die praktische dagegen
+
+Moralphilosophie heißen. Verstand und Vernunft haben also zwei verschiedene Gesetzgebungen , ohne daß eine der anderen Eintrag thun darf. Denn so wenig der Naturbegriff auf die Gesetzgebung durch den Freiheitsbegriff Einfluß hat , eben so wenig stört dieser die Gesetzgebung der Natur. Die Möglichkeit , das Zusammenbestehen beider Gesetzgebungen zu denken , hat die Kritik der reinen Vernunft nachgewiesen . Ob nun zwar eine unübersehbare Natur.
+
+Kluft zwischen dem Gebiete des Naturbegriffs als dem
+
+* ) Ebend. S. 683
+
+[p. 96] Sinnlichen , und dem Gebiete des Freiheitsbegriffs als dem Uebersinnlichen befestigt ist, so daß von dem ersteren zum anderen (vermittelst des theoretischen Gebrauchs der Vernunft)
+
+kein Uebergang möglich ist, gleich als ob es so viel verschiedene Welten wären , deren erste auf die zweite keinen Einfluß haben kann , so soll doch diese auf jene einen Einfluß haben , nämlich der Freiheitsbegriff soll den durch seine Gesetze aufgegebenen Zweck in der Sinnenwelt wirklich machen ; und die Natur muß folglich auch so gedacht werden können , daß die Gesetzmäßigkeit ihrer Form wenigstens zur Möglichkeit der in ihr zu bewirkenden Zwecke nach Freiheitsgesetzen zusammenstimme. Also muß es doch einen Grund der Einheit des Uebersinnlichen , welches der Natur zu Grunde liegt , mit dem was der Freiheitsbegriff praktisch enthält , geben. *) Ein Mittelglied zwischen Verstand und Vernunft ist die Urtheilskraft , und es ist daher sogleich zu vermuthen , daß sie es ist, welche die Welt des Sinnlichen und Uebersinnlichen mit einander verbindet. Urtheilskraft überhaupt ist das Vermögen , das Besondere als enthalten unter dem Allgemeinen zu denken . Ist das allgemeine gegeben , so ist die Urtheilskraft, wenn sie das Besondere darunter subsumirt , bestimmend;
+
+ist aber nur das
+
+Besondere gegeben , wozu sie das allgemeine finden soll, so ist die Urtheilskraft reflectirend. Der bestimmenden Urtheilskraft ist das Gesetz a priori vorgezeichnet, und sie hat also nicht nöthig , für sich selbst auf ein Gesetz zu denken, um das Besondere in der Natur dem Allgemeinen unterordnen zu können. Allein es sind so mannigfaltige Formen
+
+* ) Kritik der Urtheilskraft. 2. Auflage. Berlin. 1792. S. XI, XVIII.
+
+[p. 97] der Natur , gleichsam so viele Modificationen der allgemeinen transcendentalen Naturbegriffe, die durch jene Gesetze , welche der reine Verstand a priori giebt , unbestimmt gelassen werden , daß dafür doch auch Gesetze sein müssen , die zwar als empirische nach unserer Verstandesansicht zufällig sein mögen , die aber doch , wenn sie Gesetze heißen sollen , aus einem wenn gleich uns unbekannten Princip der Einheit des Mannigfaltigen als nothwendig angesehen werden müssen . Die reflectirende Urtheilskraft , die von dem Besondern in der Natur zum Allgemeinen aufzusteigen hat , bedarf also eines Princips , welches sie nicht von der Erfahrung entlehnen kann , weil es eben die Einheit aller empirischen Principien unter gleichfalls empirischen aber höheren Principien , und also die Möglichkeit der systematischen Unterordnung derselben unter einander begründen soll. Dies Princip kann kein anderes sein , als : daß , da allgemeine Naturgesetze ihren Grund in unserem Verstande haben , der sie der Natur ( obzwar nur nach dem allgemeinen Begriffe von ihr als Natur ) vorschreibt, die besonderen empirischen Gesetze in Ansehung dessen , was in ihnen durch jene unbestimmt gelassen ist, nach einer solchen Einheit betrachtet werden müssen , als ob gleichfalls ein Verstand ( wenn gleich nicht der unsrige ) sie zum Behuf unserer Erkenntnißvermögen , um ein System der Erfahrung nach besonderen Naturgesetzen möglich zu machen , gegeben hätte. Wenn nun der Begriff von einem Object , sofern er zugleich den Grund der Wirklichkeit dieses Objects enthält, der Zweck , und die Uebereinstimmung eines Dinges mit derjenigen Beschaffenheit der Dinge , die nur nach Zwecken möglich ist, die Zweckmäßigkeit der Form derselben Smaller. II .
+
+[p. 98] heißt : so ist das Princip der Urtheilskraft die Zweckmäßigkeit der Natur in ihrer Mannigfaltigkeit ; d. i. die Natur wird durch diesen Begriff so vorgestellt, als ob ein Verstand den Grund der Einheit des Mannigfaltigen ihrer empirischen Gesetze enthalte. Die Zweckmäßigkeit der Natur ist also ein besonderer Begriff a priori, der lediglich in der reflectirenden Urtheilskraft seinen Ursprung hat. Denn den Naturproducten kann man so etwas , als Beziehung der Natur an ihnen auf Zwecke, nicht beilegen ,1 sondern diesen Begriff nur brauchen , um über sie in Ansehung der Verknüpfung der Erscheinungen in ihr , die nach empirischen Gesetzen gegeben ist, zu reflectiren. Das Princip der formalen Zweckmäßigkeit der Natur ist ein transcendentales Princip der Urtheilskraft, d. h.
+
+ein solches , durch welches eine allgemeine Bedingung a priori vorgestellt wird , unter der allein Dinge Objecte unserer Erkenntniß werden können. Man sieht dies sehr leicht aus den Maximen der Urtheilskraft , welche der Nachforschung der Natur a priori zu Grunde gelegt werden , und die dennoch auf nichts gehen als auf die Möglichkeit der Erfahrung. Solche Maximen kommen als Sentenzen der metaphysischen Weisheit , bei Gelegenheit mancher Regeln, deren Nothwendigkeit man nicht aus Begriffen darthun kann , im Laufe dieser Wissenschaft oft genug aber nur zerstreut vor. „ Die Natur nimmt den kürzesten Weg (lex parsimoniae ); sie thut gleichwohl keinen Sprung , weder in der Folge ihrer Veränderungen , noch der Zusammenstellung specifisch verschiedener Formen (lex continui) ; ihre große Mannigfaltigkeit in empirischen Gesetzen ist gleichwohl Einheit unter wenigen Principien ( principia praeter necessitatem non sunt multiplicanda ) ; " u. s. w. Den Ursprung dieser Grundsätze auf psychologischem Wege anzugeben , ist [p. 99] ihrem Sinne durchaus zuwider ; denn sie sagen nicht wie geurtheilt wird , sondern wie geurtheilt werden soll; das Princip der Zweckmäßigkeit der Natur bedarf vielmehr einer Wir finden nämlich in den transcendentalen Deduction .
+
+Gründen der Möglichkeit einer Erfahrung zuerst freilich etwas Nothwendiges , nämlich die allgemeinen Gesetze , ohne welche Natur überhaupt (als Gegenstand der Sinne ) nicht gedacht werden kann ; und diese beruhen auf den Kategorien, angewandt auf die formalen Bedingungen aller uns möglichen Anschauung , sofern diese gleichfalls a priori gegeben Unter diesen Gesetzen nun ist die Urtheilskraft bestimmend; denn sie hat nichts zu thun , als unter gegebenen Gesetzen zu subsumiren. z. B. der Verstand sagt: alle Veränderung hat ihre Ursach ; die transcendentale Urtheilskraft hat nun nichts weiter zu thun , als die Bedingung der Subsumtion unter dem vorgelegten Verstandsbegriff a priori anzugeben ; und dies ist die Succession der Bestimmungen eines und desselben Dinges . Für die Natur nun überhaupt (als Gegenstand möglicher Erfahrung) wird jenes Gesetz als schlechthin nothwendig erkannt.
+
+Nun
+
+sind aber die Gegenstände der empirischen Erkenntniß außer jener formalen Zeitbedingung noch auf mancherlei Art bestimmt, oder soviel man a priori urtheilen kann , bestimmbar , so daß specifisch verschiedene Naturen , außerdem was sie als zur Natur überhaupt gehörig gemein haben , noch auf unendlich mannigfaltige Weise Ursachen sein können ; und eine jede dieser Arten muß (nach dem Begriff einer Ursach überhaupt) ihre Regel haben , die Gesetz. ist, mithin
+
+Nothwendigkeit bei sich führt, obgleich wir nach der Beschaffenheit und den Schranken unseres Erkenntnißvermögens diese Nothwendigkeit gar nicht einsehen.
+
+Also müssen wir in der Natur , in Ansehung ihrer bloß empirischen Gesetze, 7# [p. 100] eine Möglichkeit unendlich mannigfaltiger empirischer Gesetze denken , die für unsere Einsicht dennoch zufällig sind (a priori nicht erkannt werden) ; und in deren Ansehung beurtheilen wir die Natureinheit nach empirischen Gesetzen , und die Möglichkeit der Einheit der Erfahrung (als Systems nach empirischen Gesetzen ) als zufällig. Weil aber doch eine solche Einheit nothwendig vorausgesetzt und angenommen werden muß, da sonst kein durchgängiger Zusammenhang empirischer Erkenntnisse zu einem Ganzen der Erfahrung Statt finden würde , indem die allgemeinen Naturgesetze zwar einen solchen Zusammenhang unter den Dingen ihrer Gattung nach , als Naturdinge überhaupt , aber nicht specifisch , als solche besondere Naturwesen , an die Hand geben ; so muß die Urtheilskraft für ihren eigenen Gebrauch es als Princip a priori annehmen , daß das für die menschliche Einsicht Zufällige in den besonderen ( empirischen ) Naturgesetzen dennoch eine für uns zwar nicht zu ergründende aber doch denkbare gesetzliche Einheit in sich enthalte. Indem aber eine solche gesetzliche Einheit , die wir zwar einer nothwendigen Absicht (einem Bedürfniß des Verstandes) gemäß , aber doch zugleich als an sich zufällig erkennen, als Zweckmäßigkeit der Objecte vorgestellt wird , so muß die reflectirende Urtheilskraft die Natur in Ansehung der empirischen Gesetze nach einem Princip der Zweckmäßigkeit für unser Erkenntnißvermögen betrachten . Dieser transcendentale Begriff einer Zweckmäßigkeit der Natur ist nun weder ein Naturbegriff noch ein Freiheitsbegriff; denn er legt dem Objecte (der Natur) gar nichts bei , sondern stellt nur die einzige Art dar, wie wir in der Reflexion über die Gegenstände der Natur in Absicht auf eine durchgängig zusammenhängende Erfahrung verfahren müssen ; er ist folglich ein subjectives Princip , eine Maxime der Ur:
+
+[p. 101] theilskraft ; daher wir auch gleich ob es ein glücklicher unsre Absicht begünstigender Zufall wäre , erfreut ( eigentlich eines Bedürfnisses entledigt) werden , wenn wir eine solche systematische Einheit unter bloß empirischen Gesetzen antreffen, ob wir gleich nothwendig annehmen mußten , es sei eine solche Einheit , ohne daß wir sie doch einzusehen und zu beweisen vermochten ,
+
+Um sich von der Richtigkeit dieser Deduction des vorliegenden Begriffs und der Nothwendigkeit ihn als transcendentales Erkenntnißprincip anzunehmen , zu überzeugen , bedenke man nur die Größe der Aufgabe, welche a priori in unserem Verstande liegt : aus gegebenen Wahrnehmungen einer unendlichen Mannigfaltigkeit empirischer Gesetze eine zusammenhängende Erfahrung zu machen. Der Verstand kann diese Aufgabe unmöglich lösen , wenn er seiner Reflexion über die empirischen Gesetze nicht eben jenes Princip a priori zu Grunde legt , daß nach ihnen eine erkennbare
+
+Ordnung der Natur möglich sei. Diesem Princip gemäß nimmt denn auch der Naturforscher an : daß es in der Natur eine für uns faßliche Unterordnung von Gattung und Arten gebe ; daß jene wiederum sich einem gemeinschaftlichem Princip nähere , damit ein Uebergang von einer zu der anderen und dadurch zu einer höheren Gattung möglich sei; daß , da für die specifische Verschiedenheit der Naturwirkungen eben so viel verschiedene Arten der Causalität annehmen zu müssen , unserem Verstande anfänglich unvermeidlich scheint, sie dennoch unter einer geringen Zahl von Principien stehen mögen , mit deren Aufsuchung wir uns zu beschäftigen haben, u. f. w. Der Naturforscher hat zu diesen Annahmen vollkommenes Recht; jedoch ist festzuhalten , daß die Urtheilskraft durch jenes Princip nicht der Natur sondern sich selbst für die Reflexion über jene ein Gesetz vorschreibt. Wenn man [p. 102] also sagt: die Natur specificirt ihre allgemeinen Gesetze nach dem Princip der Zweckmäßigkeit für unser Erkenntnißvermögen , d. i. zur Angemessenheit mit dem menschlichen Ver:
+
+stande in seinem nothwendigen Geschäft: zum Besonderen, welches ihm die Wahrnehmung darbietet , das Allgemeine, und zum Verschiedenen (für jede Species zwar Allgemeinen) wiederum Verknüpfung in der Einheit des Princips zu finden ; so schreibt man dadurch weder der Natur ein Ge setz vor , noch lernt man eines von ihr durch Beobachtung (ob zwar jenes Princip durch diese bestätigt werden kann). Denn es ist nicht ein Princip der bestimmenden , sondern bloß der reflectirenden Urtheilskraft ; man will nur , daß man , die Natur mag ihren allgemeinen Gesetzen nach eingerichtet sein wie sie wolle , durchaus nach jenem Princip und der sich darauf gründenden Maximen ihren empirischen Gesetzen nachspüren müsse, weil wir nur soweit als jenes Statt findet mit dem Gebrauche unseres Verstandes in der
+
+Erfahrung fortkommen und Erkenntniß erwerben können .* ) Die Kritik der Urtheilskraft ist einzutheilen in die Kritik der ästhetischen und die der teleologischen Urtheilskraft.
+
+Die ästhetische Urtheilskraft nämlich bezieht die Zweckmäßigkeit auf das Gefühl der Luft, welches durch das Anschauen derselben in dem Subject hervorgerufen wird, Die teleologische Urtheilskraft abstrahirt von diesem subjectiven
+
+Gefühle, und faßt die Zweckmäßigkeit als eine objective , d. h. beurtheilt sich nach Begriffen des Verstandes und der Vernunft , und handelt also von der objectiven Zweckmäßigkeit der Natur. ** ) *) Ebend. S. V. S. XXIX ff. **) Ebend. S. XLIII, L ,
+
+[p. 103] I. Analytik der teleologischen Urtheilskraft. Die objective Zweckmäßigkeit ist entweder formal oder material. Die erstere stellt sich dar in den geometrischen Figuren.
+
+Diese nämlich zeigen eine Tauglichkeit zur Auflösung vieler Probleme nach einem einzigen Princip, eine angemessenheit der Figur zur Erzeugung vieler abgezweckten Gestalten ; jedoch läßt sich diese Zweckmäßigkeit im Allgemeinen begreifen , ohne wirklich einen Zweck zu Grunde zu legen , d. h. eben sie ist formal. Die Cirkelfigur z. B. ist eine Anschauung , die Durch den Verstand nach einem Princip bestimmt worden ; die Einheit dieses Princips, welches ich willkührlich annehmen und als Begriff zu Grunde lege , angewandt auf eine Form der Anschauung (Raum), die gleichfalls bloß als Vorstellung und zwar a priori. in mir angetroffen wird , macht die Einheit vieler sich aus der Construction jenes Begriffs ergebenden Regeln , die in mancherlei möglicher Absicht zweckmäßig sind, begreiflich, ohne dieser Zweckmäßigkeit einen Zweck oder irgend einen anderen Grund unterlegen zu dürfen . Sind dagegen die Objecte , an denen ich Zweckmäßigkeit finde, empirische Dinge , also nicht bloß eine nach einem Princip a priori bestimmte Vorstellung in mir , so ist diese Zweckmäßigkeit als von dem Begriffe eines Zwecks abhängig eine materiale. *)
+
+Diese materiale Zweckmäßigkeit ist selbst wieder zu unterscheiden in relative und innere.
+
+Die relative
+
+Zweckmäßigkeit ist die Brauchbarkeit eines Dinges in Bezug auf ein anderes. So ist z. B. der Sandboden vorzugsweise den Fichten gedeihlich ; nun hat aber das alte Meer , ehe
+
+*) Ebend. S. 62. S. 271 ff.
+
+[p. 104] es sich vom Lande zurückzog , so viele Sandstriche in unseren nördlichen Gegenden zurückgelassen , daß auf diesem für alle Cultur sonst so unbrauchbaren Boden weitläuftige Fichtenwälder haben aufschlagen können. Ist nun diese uralte Absetzung der Sandschichten als ein Zweck der Natur zum Behuf der darauf möglichen Fichtenwälder anzusehen ? Faßt man die Fichten als Zweck , so wird es auch der Sand
+
+sein müssen , wenn auch nur in relativem Sinne , und für diesen bildet wieder der Meeresstrand und dessen Zurückziehen das Mittel. In der Reihe der einander subordinirten Glieder einer Zweckverbindung muß also jedes Mittelglied als Zweck obgleich eben nicht als Endzweck ) betrachtet werden , wozu seine nächste Ursach das Mittel ist. Jedoch ist diese äußere Zuträglichkeit keine objective Zweckmäßigkeit der Dinge an sich selbst, als ob etwa der Sand für sich als Wirkung aus seiner Ursach , dem Meere, nicht begriffen werden könnte , ohne dem letzteren einen Zweck unterzulegen , und ohne die Wirkung , nämlich den Sand , als Kunstwerk zu betrachten ; sie ist eine bloß relative, dem Dinge selbst, dem sie beigelegt wird , zufällige Zweckmäßigkeit. Auch kann diese äußere Zweckmäßigkeit offenbar nur unter der Bedingung für einen Naturzweck angesehen werden , daß die Existenz desjenigen , dem etwas zunächst oder auf entfernte Weise zuträglich ist, für sich selbst Zweck der Natur sei. Da nun aber dieses durch bloße Naturbetrachtung nicht ausgemacht werden kann , so berechtigt die relative Zweckmäßigkeit zu keinem absolut teleologischen Urtheile. *) Die innere Zweckmäßigkeit dagegen betrachtet ein
+
+Ding als Zweck an sich selbst.
+
+*) Ebend. S. 63 S. 283.
+
+Um einzusehen , daß ein
+
+[p. 105] Ding nur als Zweck möglich sei, d. h. daß die Causalität seines Ursprungs nicht im Mechanismus der Natur , sondern in einer Ursach , deren Vermögen zu wirken durch Begriffe bestimmt wird , gelegt werden müsse, dazu wird erfordert : daß seine Form nicht nach bloßen Naturgesetzen möglich sei, d. i. nach solchen , welche von uns durch den Verstand allein erkannt werden können sondern daß selbst ihre empirische
+
+Erkenntniß der Ursach und Wirkung nach Begriffe der Vernunft voraussetze. Soll nun dabei dieser Gegenstand nicht Product der Kunst, sondern Naturproduct sein, so wird erfordert, daß derselbe von sich selbst Ursach und Wirkung sei. So erzeugt ein Baum erstlich einen andern Baum nach einem bekannten Naturgesetze: Der Baum aber , den er erzeugt, ist von derselben Gattung ; so erzeugt er sich selbst der Gattung nach , in der er einerseits als Wirkung andererseits als Ursach unaufhörlich von sich selbst hervorgebracht und sich selbst hervorbringend sich als Gattung beständig selbst erhält. Zweitens , erzeugt ein Baum sich auch selbst als Individuum. Diese Art von Wirkung nennen wir zwar nur das Wachsthum ; aber dieses ist in einem solchen Sinne zu nehmen , daß es von jeder andern Größenzunahme nach mechanischen Gesetzen gänzlich unterschieden , und einer Zeugung, wiewohl unter einem andern Namen , gleich zu achten ist. Die Materie , die er zu sich selbst hinzusetzt, verarbeitet der Baum vorher zu specifisch eigenthümlicher Qualität , welche der Naturmechanismus außer ihm nicht liefern kann , und bildet sich selbst weiter aus vermittelst eines Stoffes , der seiner Mischung nach sein eigenes Product ist. Denn ob er zwar , was die Bestandtheile betrifft , die er von der Natur außer ihm erhält , nur als Educt angesehen werden muß , so ist doch in der Scheidung und neuen Zusammen:
+
+[p. 106] Tellung dieses rohen Stoffes eine solche Originalität des Scheidungs- und Bildungsvermögens bei dieser Art Natur wesen anzutreffen , daß alle Kunst davon unendlich weit entfernt bleibt , wenn sie es versucht, aus den Elementen, die sie durch Zergliederung derselben erhält , oder auch aus dem Stoff, die die Natur zur Nahrung derselben liefert, jene Producte des Gewächsreiches wieder herzustellen. Drit : tens findet im Baume auch in sofern eine Selbsterzeu :
+
+gung Statt, als die einzelnen Theile desselben in der Er: haltung wechselsweise von einander abhängen. So sind die Blätter zwar Producte des Baums , aber sie erhalten diesen auch ; denn die wiederholte Entblätterung würde ihn tödten , und sein Wachsthum hängt von ihrer Wirkung auf den Stamm ab. *)
+
+Daß ein Ding Ursach und Wirkung von sich selbst ist, ist ein etwas uneigentlicher und unbestimmter Ausdruck , der einer Ableitung von einem bestimmten Begriffe bedarf. Die Causalverbindung, sofern sie bloß durch den Verstand gedacht wird , erscheint als eine Reihe von Ursachen und Wirkungen , welche immer abwärts geht , und die Dinge selbst, welche als Wirkungen andere als Ursachen voraus setzen , können von diesen nicht gegenseitig zugleich Ursach sein. Im Unterschiede von diesen wirkenden Ursachen kann auch eine Causalverbindung nach einem Vernunft begriffe gedacht werden , welche, wenn man sie als Reihe betrachtete , sowohl abwärts als aufwärts Abhängigkeit bei sich führen würde , in der aber doch das Ding , welches einmal als Wirkung bezeichnet ist, aufwärts den Namen der Ursach eben desjenigen Dinges verdient , von dem es die Wirkung ist. Solche Causalverknüpfung nach End : * ) Evend. §. 64. S. 284 f .
+
+[p. 107] ursachen findet man vor allem im Praktischen . Zu einem Dinge als Naturzwecke wird nun erstlich er: fordert, daß die Theile ihrem Dasein und ihrer Form nach nur durch ihre Beziehung auf das Ganze möglich sind. Denn das Ding muß als Zweck unter einem Begriffe oder einer Idee befaßt sein , die alles darin Enthaltene a priori bestimmen muß. Hierdurch allein aber wäre das
+
+Ding möglicher Weise nur Kunstproduct , d, i. ein Pro: duct einer von der Materie (den Theilen ) desselben ver: schiedenen vernünftigen Ursache, deren Causalität in Her: beischaffung und Verbindung der Theile , durch ihre Idee von einem dadurch möglichen Ganzen , mithin nicht durch die Natur außer ihm , bestimmt wird. Soll das Ding zu: gleich Naturproduct sein , so wird zweitens dazu erfor: dert , daß die Theile desselben sich dadurch zur Einheit eines Ganzen verbinden , daß sie von einander wechselseitig Ursach und Wirkung ihrer Form sind. Denn auf solche Weise ist es allein möglich , daß die Idee des Ganzen die Form und Verbindung aller Theile bestimme, nicht als Ursache denn da wäre es ein Kunstproduct sondern als Erkenntnißgrund der systematischen Einheit der Form und Ver: bindung alles Mannigfaltigen , was in der gegebenen Ma: terie enthalten ist, für den der es beurtheilt. Indem in diesem Ganzen die Theile sowohl ihrer Form als ihrer Ver:
+
+bindung nach sich gegenseitig hervorbringen , so kann die Verknüpfung der wirkenden Ursachen zugleich als Wirkung der Endursachen betrachtet werden . In einem solchen Pro: ducte der Natur wird ein jeder Theil nicht nur als durch alle übrige und um der anderen und des Ganzen Willen eristi: rend gedacht, sondern auch was nur in der Natur , nicht in der Kunst möglich ist , als ein die anderen Theile hervorbringendes Werkzeug (Organ) ; nur dann und darum wird ein solches
+
+[p. 108] Product ein organisirtes und sich selbst organisi : rendes Wesen , ein Naturzweck genannt werden kön: nen . Ein organisiertes Wesen ist also nicht bloß Ma : schine; diese hat nur bewegende Kraft , jenes dagegen besitzt in sich eine bildende Kraft , und zwar ist diese zugleich eine fortpflanzende , indem sie sich den Materien mittheilt , welche sie nicht haben.
+
+Dieses Bilden und
+
+Organisiren kann durch Mechanismus allein nicht erklärt werden . *)
+
+Ein organisirtes Product der Natur ist also dasjenige , in welchem alles Zweck und wechselseitig auch Mittel ist. Dieser Begriff eines organischen Wesens ist zugleich das Princip , aus welchem dasselbe nach allen einzelnen Erscheinungen betrachtet werden muß ; es ist also in einem solchen Wesen kein Theil von einem bloßen
+
+Mechanismus abhängig.
+
+Wenn daher auch z. B. an einem thierischen Körper manche Theile als Concretionen nach bloß mechanischen Gesetzen begriffen werden könnten ( als Häute , Knochen , Haare) , so muß die Ursach, welche die dazu schickliche Materie herbeischafft, diese so modificirt, formt und an ihren gehörigen Stellen absetzt, doch immer **). Durch das Beispiel, welches die Natur an ihren organischen Producten giebt, ist man berechtigt, ja berufen , die teleologische Betrachtung auch über die ganze Natur auszudehnen , ohne aber damit zu behaupten , daß irgend etwas absichtlich Zweck der Natur sei. Es ist gut , selbst die uns unangenehmen und in beson: deren Beziehungen zweckwidrigen Dinge auch von dieser Seite zu betrachten. So könnte man z. B. sagen : das Ungeziefer,
+
+*) Ebend . §. 65. S. 289 ff. **) Ebend . §. 66. S. 298.
+
+[p. 109] welches den Menschen in seinen Kleidern , Haaren oder Bett: stellen plagt , sei nach einer weisen Naturanstalt ein Antrieb zur Reinlichkeit , die für sich schon ein wichtiges Mittel der Erhaltung der Gesundheit ist. Oder die Moskitomücken und andere stechende Insecten , welche die Wüsten von Amerika den Wilden so beschwerlich machen , seien so viel Stacheln der Thätigkeit für diese angehenden Menschen , um die
+
+Moräste abzuleiten , die dichten den Luftzug abhalten :
+
+Wälder zu lichten , und dadurch , so wie durch den
+
+Anbau des Bodens , der zu machen.
+
+ihren Aufenthalt zugleich gesund
+
+Selbst was dem Menschen in seiner inneren Organisation widernatürlich zu sein scheint, wenn es auf diese Weise behandelt wird, giebt eine unterhaltende, bisweilen auch belehrende Aussicht in eine teleologische Ordnung der Dinge , auf die uns die bloß physische Betrachtung allein nicht führen würde. So wie Einige den Band: wurm dem Menschen oder Thiere , dem er beiwohnt , gleich: sam zum Ersatz eines gewissen Mangels seiner Lebensorgane beigegeben zu sein urtheilen , so würde ich fragen , ob nicht die Träume (ohne welche niemals der Schlaf ist) eine zweck:
+
+mäßige Anordnung der Natur sein mögen , indem sie nämlich bei dem Abspannen aller körperlichen bewegenden Kräfte dazu dienen , mittelst der Einbildungskraft die Lebensorgane innerlich zu bewegen ; so wie denn diese auch bei überfülltem Magen , wo diese Bewegung um desto nöthiger ist, im Nacht: schlafe gewöhnlich mit desto mehr Lebhaftigkeit spielt; daß folglich ohne diese örtlich bewegende Kraft und ermüdende Ursach , worüber wir die Träume anklagen , der Schlaf, selbst im gesunden Zustande, wohl gar ein völliges Erlöschen des Lebens sein würde. *)
+
+*) Ebend . S. 300 ff.
+
+[p. 110] Damit die Physik nicht in ein fremdes Gebiet abirre, hat sie von der Frage , ob die Naturzwecke dies a bricht: lich oder unabsichtlich seien , gänzlich zu abstrahiren . Man spricht zwar in der Teleologie von der Natur als ob die Zweckmäßigkeit in ihr absichtlich sei, aber doch zugleich so , daß man der Natur d. i. der Materie diese Absicht beilegt ; wodurch man (weil hierüber kein Mißverstand Statt finden kann , indem von selbst schon keiner einem leblosen Stoffe Absicht in eigentlicher Bedeutung des Wortes beilegen wird ) anzeigen will, daß dies Wort hier nur ein Princip der reflectirenden , nicht der bestimmenden Urtheils: kraft bedeute , also daß hiermit keine besondere Causalität eingeführt werden solle , sondern nur zum Gebrauche der
+
+Vernunft eine andere Art der Nachforschung zu der mecha nischen Betrachtungskraft hinzugefügt , um die Unzulänglichkeit der letzteren selbst zur empirischen Aufsuchung aller besondere Gesetze der Natur zu ergänzen. *). Schon da: durch hält sich die Naturwissenschaft rein von der theologi: schen Betrachtungsweise , welche die Zwecke der Natur un mittelbar von Gott ableitet , indem sie dieselben als Ab:
+
+sichten Gottes darstellt. **) II . Dialektik der teleologischen Urtheils:
+
+kraft.
+
+Der Verstand schreibt der materiellen Natur theils selbst Gesetze a priori vor , und da ist die Urtheitskraft be: stimmend ; theils erweitert er jene Gesetze ins Unabsehliche durch die in der Erfahrung vorkommenden empirischen Be stimmungen , und da muß die Urtheilskraft nach einem
+
+* ) Ebend. S. 68. S. 307 ff. **) Ebend. S. 305.
+
+[p. 111] Princip der Einheit der Natur nach empirischen Gesetzen forschen. Hier kann nun eine Dialektik entstehen , weil die Urtheilskraft von zwei Marimen ausgehen kann , die sich widersprechen , deren eine ihr der Verstand a priori an die Hand giebt, die andere durch besondere Erfahrungen ver: anlaßt wird , welche die Vernunft in Bewegung setzen. Die erste Marime derselben ist der Saz : Alle Erzeu : gung materieller Dinge und ihrer Formen muß als nach bloß mechanischen Gesetzen möglich be : urtheilt werden. Die zweite Marime enthält den Ge gensaz : Einige Erzeugungen materieller Dinge und ihrer Formen können nicht als nach bloß mechanischen Gesetzen möglich beurtheilt wer : den ; ihre Beurtheilung erfordert ein ganz anderes Gesetz der Causalität , nämlich das der Endursachen .
+
+Wenn man nun diese regulativen Grunds sätze für die Nachforschung in constitutive verwandelt , so würde einmal behauptet werden :
+
+Alle Erzeugung materieller Dinge ist nach bloß mechanischen Ge : setzen möglich ; und dann das Entgegengesetzte: Einige Erzeugung materieller Dinge ist nach bloß me : chanischen Gesetzen nicht möglich. * ) Bleibt man bei der ersten Form der regulativen Marimen stehen , so ist noch kein wirklicher Widerspruch vorhanden ;
+
+denn beide
+
+Marimen schließen einander nicht absolut aus.
+
+Eine An :
+
+tinomie entsteht daher erst dann , wenn man eine Marime der reflectirenden Urtheilskraft für einen Grundsatz der be: stimmenden Urtheilskraft ansieht. Für die reflectirende Ur: theilskraft ist es vollkommen richtig , daß für die so offen: bare Verknüpfung der Dinge nach Endursachen eine vom *) Ebend. S. 70. S, 313 ff.
+
+[p. 112] Mechanismus unterschiedene Causalität gedacht werden müsse, so übereilt und unerweislich dies auch für die bestimmende sein würde. Im ersteren Falle nämlich ist der Begriff des Zwecks nur Leitfaden für die Reflexion , die dabei für alle mechanische Erklärungsgründe immer offen bleibt ; im zwei: ten Falle wäre der Zweck ein objectives Princip , welches die Vernunft vorschriebe , und dem die Urtheilskraft sich be
+
+stimmend unterwerfen müßte , wobei sie aber über die Sinnenwelt hinaus sich ins Ueberschwengliche verliert und irre geführt wird. Wollten wir den Begriff von einem Dinge als einem Naturzwecke dogmatisch für die bestim: mende Urtheilskraft gebrauchen , so müßten wir der objectiven Realität dieses Begriffs zuvor versichert sein.
+
+Dieser Begriff ist aber zwar ein empirisch bedingter, d. i. nur unter gewissen in der Erfahrung gegebenen Bedingungen möglicher, aber doch von derselben nicht zu abstrahirender , sondern nur nach einem Vernunftprincip in der Be: handlung des Gegenstandes möglicher Begriff. Er kann also als ein solches Princip seiner objectiven Realität nach (d. i. daß ihm gemäß ein Object möglich sei) gar nicht ein: gesehen und dogmatisch begründet werden , und wir wissen nicht, ob er ein bloß vernünftelnder , objectiv leerer , oder ein Vernunftbegriff, ein Erkenntniß begründender , von der Ver: nunft bestätigter sei.
+
+Wir dürfen also nur sagen : 11nach der bestimmten Beschaffenheit unsere $ Erkenntnißvermögens können wir über bestimmte Dinge und ihre Erzeugung nicht anders urtheilen , als wenn wir zu dieser eine Ursach , die nach Absichten wirft , mithin ein
+
+Wesen denken , welches nach der Analogie mit der Caufalität eines Verstandes productiv ist. Wir dürfen aber nimmermehr dogmatisch behaupten : . die Erzeugung gewisser Dinge der Natur oder auch der gesammten Natur ist nur [p. 113] durch eine Ursach, die sich nach Absichten zum Handeln bestimmt, möglich. * ) Die Idee des Naturzwecks hat darin etwas von allen anderen Ideen Unterscheidendes, daß die ihr gemäße Folge (das Product selbst) in der Natur gegeben ist ; eben hierdurch könnte diese Idee den Schein eines constitutiven Princips annehmen. Es rührt dieses Unterscheidende daher, daß jene Idee nicht ein Vernunftprincip für den Verstand, sondern für die Urtheilsfraft und zwar für die reflectirende Urtheilskraft ist. Der Gegenstand ist daher freilich gegeben, allein nur als Gegenstand der Reflexion . Ganz ähnlich wie wir in der Kritik der reinen Vernunft eine andere mögliche Anschauung in Gedanken haben mußten , um die unsere als eine besondere Art darstellen zu können , so müssen wir uns jetzt einen anderen möglichen Verstand vorstellen , damit wir sagen können : gewisse Naturproducte müssen , nach der besonderen Beschaffenheit unseres Verstandes , von uns ihrer Möglichkeit nach absichtlich und als Zwecke erzeugt betrachtet werden , ohne doch darum zu verlangen , daß es wirklich eine besondere Ursach gebe, welche die Vorstellung eines Zwecks zu ihrem Bestimmungsgrunde hat , mithin ohne in Abrede zu stellen , daß nicht ein anderer (höherer) Verstand als der menschliche auch im Mechanismus der Natur d. i. einer Causalverbindung , zu der nicht ausschließlich ein Verstand als Ursach angenommen wird , den Grund der Möglichkeit solcher Producte der Natur antreffen könne .
+
+Es kommt also auf das Verhalten unseres Verstandes zur Urtheilskraft an ; hierin müssen wir eine gewisse Zufälligkeit aufsuchen , die unserem Verstande eigenthümlich *) Ebend. S. 71. S. 317 ff. S. 74. S. 331. S. 75. S. 333, Schaller. II.
+
+[p. 114] Diese Zufälligkeit findet sich ganz natürlich in dem Besonderen , welches die Urtheilskraft unter das All : zukommt .
+
+gemeine der Verstandesbegriffe bringen soll ; denn durch das Allgemeine unseres Verstandes ist das Besondere nicht bestimmt.
+
+Ein Vermögen einer völligen Spontaneität der Anschauung würde ein intuitiver Verstand sein, welcher nicht vom Allgemeinen zum Besonderen gehen würde, wie unser discursiver Verstand , und für welchen jene Zufälligkeit der Zusammenstimmung der Natur in ihren Producten nach besonderen Gesetzen zum Verstande nicht angetroffen werden würde, welche dem unsrigen es so schwer macht, das Mannigfaltige derselben zur Einheit der Erkenntniß zu bringen.
+
+Unser Verstand hat also das Eigene für die Urtheilskraft , daß in seiner Erkenntniß durch das Allgemeine das Besondere nicht bestimmt wird , dieses also aus jenem allein auch nicht abgeleitet werden kann ; gleichwohl aber soll dies Besondere mit dem Allgemeinen zusammenstimmen , um darunter subsumirt werden zu können . Eben um die Möglichkeit einer solchen Zusammenstimmung der Dinge der Natur zur Urtheilskraft wenigstens denken zu können , müssen wir uns einen anderen Verstand vorstellen , für welchen jene Zusammenstimmung , die für unseren Verstand nur durch das Verbindungsmittel der Zwecke denkbar ist, eine nothwendige sein würde. Unser Verstand nämlich muß in seiner Erkenntniß vom Analytisch -Allgemeinen (von Begriffen ) zum Besonderen (der gegebenen empirischen Anschauung) fortgehen ; hierbei verhält er sich in Bezug auf das Besondere nicht bestimmend , sondern er muß diese Bestimmung von der Urtheilskraft erwarten , welche die empirische Anschauung unter den Begriff subsumirt. Nun können wir uns auch einen Verstand denken , welcher nicht wie der unsrige dis:
+
+[p. 115] cursiv, sondern intuitiv, vom Synthetisch - Allgemeinen (der Anschauung eines Ganzen als eines solchen ) zum Besonderen fortgeht, d. i. vom Ganzen zu den Theilen ; der also und dessen Vorstellung des Ganzen die Zufälligkeit der Verbindung der Theile nicht in sich enthielte. Wollen wir uns nun nicht die Möglichkeit des Ganzen als von den Theilen , wie es unserem discursiven Verstande gemäß ist,
+
+sondern nach Maaßgabe des intuitiven (urbildlichen) Verstandes die Möglichkeit der Theile ( ihrer Beschaffenheit und Verbindung nach ) als vom Ganzen abhängend vorstellen ; so kann dieses , nach eben derselben Eigenthümlichkeit unseres Verstandes , nicht so geschehen , daß das Ganze den Grund der Möglichkeit der Verknüpfung der Theile ( welches in der discursiven Erkenntnißart ein Widerspruch sein würde ), sondern nur daß die Vorstellung eines Ganzen den Grund der Möglichkeit der Form desselben und der dazu gehörigen Verknüpfung der Theile enthalte. Da das Ganze aber alsdann eine Wirkung ( Product) sein würde , dessen Vorstellung als die Ursach seiner Wirklichkeit angesehen wird , das Product aber einer Ursach , deren Bestimmungsgrund bloß die Vorstellung seiner Wirkung ist, ein Zweck heißt : so folgt daraus , daß es bloß eine Folge aus der besonderen Beschaffenheit unseres Verstandes sei , wenn wir Producte der Natur nach einer anderen Art der Causalität als der der Naturgeseke der Materie , nämlich nach der der
+
+Zwecke und Endursachen uns als möglich vorstellen , und daß mit diesem Princip durchaus nicht die Möglichkeit solcher Dinge selbst behauptet werde.
+
+Wenn es also auch für den menschlichen Verstand widersprechend ist, sich eine mechanische Erzeugung des Organismus vorzustellen , d. h. als eine solche, in welcher das Ganze der Materie seiner Form nach ein Product der Theile 8# [p. 116] und ihrer Kräfte sich von selbst zu verbinden ist, so folgt doch daraus durchaus nicht, daß dies für jeden Verstand widersprechend oder unmöglich sei.
+
+Dies würde aber in der
+
+That folgen , wenn wir materielle Wesen als Dinge an sich selbst anzusehen berechtigt wären. Denn alsdann würde die Einheit , welche den Grund der Möglichkeit der Naturbildungen ausmacht, lediglich die Einheit des Raumes sein , welche aber kein Realgrund der Erzeugungen , sondern nur die formale Bedingung derselben ist. Da es aber doch wenigstens möglich ist, die materielle Welt als bloße Erscheinung zu betrachten , und etwas als Ding an sich , welches nicht Erscheinung ist, als Substrat zu denken , diesem aber eine correspondirende intellectuelle Anschauung, wenn sie gleich nicht die unsrige ist, unterzulegen ; so würde ein obzwar für uns unerkennbarer übersinnlicher Realgrund für die Natur Statt finden , zu der wir selbst mitgehören , in welcher wir also das , was in ihr als Gegenstand der Sinne nothwendig ist, nach mechanischen Gesetzen , die Zusammenstimmung und Einheit aber der besonderen Geseke und Formen zugleich nach teleologischen Gesetzen betrachten würden , ohne daß sich beide Betrachtungsweisen einander widersprächen und ausschlössen. Das Princip einer mechanischen Ableitung zweckmäßiger Naturproducte kann also wohl neben dem teleologischen bestehen , dieses letztere aber keineswegs entbehrlich machen , d. h. man kann zwar an einem Dinge , welches wir als Naturzweck beurtheilen müssen , also an einem organischen Wesen alle bekannten und noch zu entdeckenden Gesetze der mechanischen Erzeugung versuchen , und auch hoffen , damit guten Fortgang zu haben , niemals aber der Berufung auf einen davon ganz unterschiedenen Erzeugungsgrund , nämlich der Causalität durch Zwecke , für die Möglichkeit eines solchen Products überhoben sein ; und schlechterdings [p. 117] dings kann keine menschliche Vernunft (auch keine endliche, die der Qualität nach der unsrigen ähnlich wäre, sie aber dem Grade nach noch so sehr überstiege ) die Erzeugung auch nur eines Gräschens aus bloß mechanischen Ursachen zu verstehen hoffen .*) Mechanische und teleologische Betrachtungsweise sind also gleich berechtigt. Das einseitige Festhalten des Me:
+
+muß die Vernunft eben so phantastisch und unter Hirngespinsten von Naturvermögen , die sich gar nicht denken lassen , herumschweifend machen , als eine bloß teleologische Erklärungsart , die gar keine Rücksicht auf den Naturmechanismus nimmt , sie schwärmerisch macht. Natürlich lassen sich beide Erklärungsarten an einem und demselben Dinge nicht in der Weise geltend machen , daß sie schlechthin zusammenfielen , die mechanische Erzeugungsart also unmittelbar auch die teleologische wäre und umgekehrt. Vielmehr muß das Princip, welches die Vereinbarkeit jener beiden Principien möglich machen soll, in dem was außerhalb beider (also auch außer der möglichen empirischen Naturvorstellung) liegt , von der Natur aber doch den Grund enthält , d. h. im Uebersinnlichen gesetzt, und beide Erklärungsarten hierauf bezogen werden. Von diesem Uebersinnlichen können wir uns aber theoretisch durchaus keinen bestimmten Begriff machen ; ein solcher bestimmter Begriff wäre aber doch die nothwendige Voraussetzung einer wirklichen Erklärung , d. h . einer Herleitung aus einem Princip . Wie also nach jenem transcendenten Princip die Natur für uns ein System ausmacht, wel:
+
+* ) Ebend. $. 77. S. 344 ff.
+
+[p. 118] ches sowohl nach dem Princip der mechanischen als der teleologischen Erzeugungsart erkannt werden könne , läßt sich keineswegs erklären ; sondern nur wenn es sich zuträgt, daß Gegenstände der Natur vorkommen , die nach dem bloßen
+
+Princip des Mechanismus ohne teleologische Grundsätze ihrer Möglichkeit nach nicht gedacht werden können , hat man das Recht, beide Erklärungsweisen in Anwendung zu bringen, ohne sich an den scheinbaren Widerstreit derselben zu stoßen , weil wenigstens die Möglichkeit , daß beide auch objectiv in einem Princip vereinbar sein möchten , gesichert ist. Die Vereinigung beider Principien ist also nicht der Art , daß das eine ganz oder in gewissen Stücken an die Stelle des anderen gelegt werden könnte.
+
+Denn an die Stelle dessen , was (von uns wenigstens) nur als durch Absicht möglich gedacht wird , läßt sich kein Mechanismus, und an die Stelle dessen , was nach diesem als nothwendig erkannt wird , läßt sich keine Zufälligkeit, die eines Zwecks zum Bestimmungsgrunde bedürfe , annehmen ; sondern es läßt sich nur der Mechanismus dem absichtlichen Technicismus unterordnen , welches nach dem transcendentalen Princip der Zweckmäßigkeit der Natur ganz wohl geschehen darf. Denn wo Zwecke als Gründe der Möglichkeit gewisser Dinge gedacht werden , da muß man auch Mittel annehmen , deren
+
+Wirkungsgesetz für sich nichts einen Zweck Voraussetzendes bedarf , mithin mechanisch ist, dabei aber doch eine untergeordnete
+
+Ursach absichtlicher Wirkungen sein kann.
+
+Daher läßt sich selbst in organischen Producten der Natur , noch mehr aber , wenn wir, durch die unendliche Menge derselben veranlaßt , das Absichtliche in der Verbindung der Naturursachen nach besonderen Gesetzen nun auch (wenigstens durch erlaubte Hypothese) zum allgemeinen Princip der reflectirenden Urtheilsfraft für das Naturganze (die Welt)
+
+[p. 119] annehmen , eine große und sogar allgemeine Verbindung der mechanischen Gesetze mit den teleologischen in den Erzeugungen der Natur denken , ohne die Principien der Beurtheilung derselben zu verwechseln und eines an die Stelle der anderen zu sehen. Wir haben also die Befugniß , und wegen der Wichtigkeit, welche das Naturstudium nach dem Princip des Mechanismus für unseren theoretischen Vernunftgebrauch hat , auch den Beruf : alle Producte der Natur , selbst die zweckmäßigsten , so weit mechanisch zu erklären , als es immer in unserem Vermögen steht, weil ohne mechanische Causalität organisirte Wesen nicht Naturproducte sein würden , dabei aber niemals aus den Augen zu verlieren , daß wir der wesentlichen Beschaffenheit unserer Vernunft gemäß jene mechanischen Ursachen doch zuletzt der Causalität nach Zwecken unterordnen müssen. *)
+
+Die Teleologie als solche gehört nicht zur eigentlich sogenannten Naturwissenschaft. Denn diese bedarf bestimmenden, nicht bloß reflectirender Principien, um von Naturwirkungen objective Gründe anzugeben. In der That ist auch für die Theorie der Natur, oder für die mechanische
+
+Erklärung der Phänomene derselben dadurch nichts gewonnen, daß man sie nach dem Verhältniß der Zwecke zu einander betrachtet. Die Aufstellung der Zwecke der Natur an ihren Producten, sofern sie ein System nach teleologischen Begriffen ausmachen, ist eigentlich nur zur Naturbeschreibung gehörig, welche nach einem besonderen Leitfaden abgefaßt ist, wo die Vernunft zwar ein herrliches, unterrichtendes und praktisch in mancherlei Absicht zweckmäßiges Geschäft verrichtet, aber über das Entstehen und die innere Möglichkeit
+
+* ) Grund. S. 78. S. 356 f.
+
+[p. 120] keit dieser Formen gar keinen Aufschluß giebt, warum es jedoch der theoretischen Naturwissenschaft eigentlich zu thun ist. Die Teleologie als Wissenschaft gehört zu gar keiner Doctrin, sondern nur zur Kritik und zwar der Urtheilskraft; in sofern sie aber Principien a priori enthält, muß sie die Methode, wie über die Natur nach dem Princip der Endursachen geurtheilt werden müsse, angeben. *) Damit der Naturforscher nicht auf reinen Verlust arbeite, muß er in der Beurtheilung der Dinge, deren Begriff als Naturzwecke unbezweifelt gegründet ist, also in den organisirten Wesen, immer irgend eine ursprüngliche Organisation zum Grunde legen, welches den Mechanismus selbst benutzt, um andere organische Formen hervorzubringen, oder die seinige zu neuen Gestalten (die doch nur aus jenem Zwecke und ihm gemäß erfolgen) zu entwickeln.
+
+ist rühmlich, vermittelst einer comparativen Anatomie die große Schöpfung organisirter Wesen durchzugehen 1, um zu sehen, ob sich daran nicht etwas einem Systeme Lehnliches, und zwar dem Erzeugungsprincip nach, vorfinde, ohne daß wir nöthig haben, beim bloßen Beurtheilungsprincip stehen zu bleiben und muthlos allen Anspruch auf Natureinrichtung in diesem Felde aufzugeben. Die Uebereinkunft so vieler Thiergattungen in einem gewissen gemeinsamen Schema, das nicht allein in ihrem Knochenbau, sondern auch in der Unordnung der übrigen Theile zum Grunde zu liegen scheint, wo bewunderungswürdige Einfalt des
+
+Grundrisses durch Verkürzung einer und Verlängerung anderer, durch Einwickelung dieser und Auswickelung jener Theile, eine so große Mannigfaltigkeit von Species hat hervorbringen können, läßt einen obgleich schwachen
+
+*) Ebend. S. 79. S. 364 ff.
+
+[p. 121] Strahl von Hoffnung in das Gemüth fallen, daß hier wohl etwas mit dem Princip des Mechanismus der Natur, ohne welches es überhaupt keine Naturwissenschaft geben kann, auszurichten sein möchte. Diese Analogie der Formen, sofern sie bei aller Verschiedenheit einem gemeinschaftlichen Urbilde gemäß zu sein scheinen, verstärkt die Vermuthung einer wirklichen Verwandtschaft derselben in der
+
+Erzeugung von einer gemeinschaftlichen Urmutter, durch die stufenartige Annäherung einer Thiergattung zur andern, von derjenigen an, in welcher das Princip der Zwecke am meisten bewährt zu sein scheint, nämlich dem Menschen, bis zum Polyp, von diesem sogar bis zu Moosen und Flechten, und endlich zu der niedrigsten unmerklichen Stufe der Natur, zur rohen Materie, aus welcher und ihren
+
+Kräften nach mechanischen Gesetzen (gleich denen, wonach sie in Krystallerzeugungen wirkt) die ganze Technik der Natur, die uns in organischen Wesen so unbegreiflich ist, daß wir uns ein anderes Princip zu denken genöthigt glauben, abzustammen scheint.
+
+Hier steht es nun dem Archäologen der Natur frei, aus den übrig gebliebenen Spuren ihrer ältesten Revolu:
+
+tionen, nach allem ihn bekannten oder gemuthmaßten Mechanismus derselben, jene große Familie von Geschöpfen entspringen zu lassen. Er kann den Mutterschooß der Erde, die eben aus ihrem chaotischen Zustande herausging (gleichsam als ein großes Thier), anfänglich Geschöpfe von minder zweckmäßiger Form, diese wiederum andere, welche angemessener ihrem Zeugungsplaße und ihrem Verhältnisse unter einander sich ausbildeten, gebähren lassen; bis diese
+
+Gebährmutter selbst erstarrt, sich verknöchert, ihre Geburten auf bestimmte, fernerhin nicht ausartende Species eingeschränkt hätte, geschränkt hätte , und die Mannigfaltigkeit so bliebe , wie [p. 122] sie am Ende der Operation jener fruchtbaren Bildungskraft ausgefallen war. Allein er muß gleichwohl zu dem Ende dieser allgemeinen Mutter eine auf alle diese Geschöpfe zweckmäßig gestellte Organisation beilegen, widrigenfalls die Zweckform der Producte des Thier- und Pflanzenreichs ihrer Möglichkeit nach gar nicht zu denken ist. Alsdann aber hat er den Erklärungsgrund nur weiter aufgeschoben, und kann sich nicht anmaßen, die Erzeugung jener zwei Reiche von der Bedingung der Endursachen unabhängig gemacht zu haben. *)
+
+Was die Erzeugung der organischen Wesen anbetrifft, so verdient unter den verschiedenen Versuchen ihrer Erklärung das System der Epigenesis entschieden den Vorzug. Dasselbe kann auch das System der generischen Präformation heißen, weil es nämlich das erzeugte Wesen nicht bloß als Educt, wie die Evolutionstheorie, sondern als Product betrachtet, das productive Vermögen der Zeugenden aber doch nach den inneren zweckmäßigen Anlagen, die ihrem Stamme zu Theil wurden, also die specifische Form virtualiter präformirt sein läßt.
+
+In Ansehung dieser Theorie hat Niemand mehr so wohl zum Beweise derselben als auch zur Gründung der ächten Principien ihrer Anwendung, zum Theil durch die
+
+Beschränkung eines zu vermessenen Gebrauchs derselben, geleistet als Blumenbach er alle physische Erklärungsart dieser Bildungen an.
+
+Denn daß rohe Materie sich nach mechanischen Grundsätzen ursprünglich selbst gebildet habe, daß aus der Natur des Leblosen Leben habe entspringen und Materie in der Form einer sich selbst erhaltenden Zweckmäßigkeit sich von selbst * ) Ebend. S. 80. S. 367 ff.
+
+[p. 123] habe fügen können, erklärt er mit Recht für vernunftwidrig; läßt aber zugleich dem Naturmechanismus unter diesem uns unerforschlichen Princip einer ursprünglichen Organisation einen unbestimmbaren, zugleich doch auch unverkennbaren Antheil, wozu das Vermögen der Materie (zum Unterschiede von der, ihr allgemein beiwohnenden, bloß mechanischen Bildungskraft) von ihm in einem organisirten Körper ein (gleichsam unter der höheren Leitung und Anweisung der ersteren stehender) Bildungstrieb genannt wird. *) Wenn man fragt: Wozu ein Ding da ist, so ist die Antwort entweder: sein Dasein und seine Erzeugung hat gar keine Beziehung auf eine nach Absichten wirkende Ursache, es entsteht also aus dem Mechanismus der Natur; oder: es ist irgend ein absichtlicher Grund seines Daseins, und diesen Gedanken kann man schwerlich von dem Begriffe eines organisirten Dinges trennen, weil, da wir einmal seiner inneren Möglichkeit eine Causalität der Endursachen
+
+unterlegen müssen, wir auch die Existenz dieses Products nicht anders denn als Zweck denken können. Denn die vorgestellte Wirkung, deren Vorstellung zugleich der Bestimmungsgrund der verständigen wirkenden Ursache zu ihrer Hervorbringung ist, heißt ein Zweck.
+
+In diesem
+
+Falle also kann man entweder sagen : der Zweck der Eri stenz eines solchen Naturwesens ist in ihm selbst, 0. i. es ist nicht bloß Zweck sondern auch End & w e c ; oder dieser ist außer ihm in anderen Naturwesen , d. i. es eri :
+
+zweckmäßig nicht als Endzweck sondern nothwendig zugleich als Mittel.
+
+* ) Grund. S. 81. S. 378 ff.
+
+[p. 124] Wenn wir aber die ganze Natur durchgehen, so finden wir in ihr als Natur kein Wesen, welches auf den Vorzug, Endzweck der Schöpfung zu sein, Anspruch machen könnte; und man kann sogar a priori beweisen, daß das jenige was etwa noch für die Natur ein letzter Zweck sein könnte, nach allen erdenklichen Bestimmungen und Eigenschaften, womit man es ausrüsten möchte, doch als Naturding niemals ein Endzweck sein könne. *) Der Endzweck nämlich ist unbedingt; in der Natur aber als einem Sinnenwesen ist nichts, wozu der in ihr selbst befindliche Bestimmungsgrund nicht immer wiederum bedingt wäre. Ein Ding aber was nothwendig seiner objectiven Beschaffenheit wegen als Endzweck einer verständigen Ursache existiren soll, muß von der Art sein, daß es in der Ordnung der Zwecke von keiner anderweitigen Bedingung als bloß von seiner Idee abhängig ist.
+
+Dies gilt nun allein von dem Menschen, und zwar in sofern wir ihn als Noumenon, als freies Wesen betrachten. Von dem Menschen als einem moralischen
+
+Wesen also kann nicht weiter gefragt werden, wozu er eristire.
+
+Sein Dasein hat den höchsten Zweck selbst in sich, und diesem hat er, so viel er vermag, die ganze Natur zu unterwerfen, wenigstens darf er diesem Zwecke zuwider sich seinem Einflusse der Natur für unterworfen halten.
+
+Wenn nun die Dinge der Welt, als ihrer Existenz nach abhängige Wesen, einer nach Zwecken handelnden obersten Ursache bedürfen, so ist der Mensch der Schöpfung Endzweck; ohne diesen wäre die Kette der einander untergeordneten
+
+Zwecke nicht vollständig gegründet; und nur im Menschen, aber auch in diesem nur als Subject der Moralität, ist die unbedingte Gesetzgebung in Ansehung der *) Ebend. S. 82. S. 379 ff.
+
+[p. 125] Zwecke anzutreffen, welche ihn allein fähig macht, ein Endzweck zu sein, dem die ganze Natur teleologisch untergeordnet ist.
+
+)
+
+Der Begriff des Endzwecks erhält seine weitere Entwickelung und Realität in der praktischen Vernunft. Die praktische Vernunft allein enthält auch die einzig möglichen Principien des religiösen Glaubens in sich, nicht aber die teleologische Urtheilskraft. Bei aller möglichen Erweiterung der physischen Teleologie können wir wohl sagen, daß wir nach der Beschaffenheit und den Principien unseres Erkenntnißvermögens die Natur in ihren uns bekannt gewordenen zweckmäßigen Anordnungen nicht anders als das Product eines Verstandes, dem sie unterworfen ist, denken können. Ob aber dieser Verstand mit dem Ganzen derselben und dessen
+
+Hervorbringung noch eine Endabsicht gehabt haben möge (die alsdann nicht in der Natur und Sinnenwelt liegen würde), das kann uns die theoretische Naturforschung nie eröffnen; sondern es bleibt bei aller Kenntniß derselben unausgemacht, ob jene oberste Ursache überall nach einem Endzwecke, oder nicht vielmehr durch einen von der bloßen Nothwendigkeit seiner Natur zur Hervorbringung gewisser Formen bestimmten Verstand (nach der Analogie mit dem was wir bei den Thieren den Kunstinstinct nennen) Urgrund derselben sei; ohne daß es nöthig wäre, ihr darum Weisheit, viel weniger höchste und mit allen anderen zur Vollkommenheit ihres Products erforderlichen Eigenschaften verbundene Weisheit, beizulegen. **)
+
+*) Ebend. S. 84 S. 397 ff. **) Ebend. S. 85. S. 407.
+
+[p. 126] . 3.
+
+Metaphysische Anfangsgründe der Naturwissenschaft. Natur in formaler Bedeutung ist das innere
+
+Princip alles dessen, was zum Dasein eines Dinges gehört; in materieller Bedeutung ist Natur der Inbegriff aller Dinge, sofern sie Gegenstände unserer Sinne, mithin auch der Erfahrung sein können. Die Natur in dieser Bedeutung genommen hat nach der Hauptbeschaffenheit unserer Sinne zwei Haupttheile, deren der die Gegenstände äußerer, der andere den Gegenstand des inneren Sinnes enthält, mithin ist von ihr eine zweifache Naturlehre, die Körperlehre und die Seelenlehre möglich, wovon die erste die ausgedehnte, die zweite die denkende Natur in Erwägung zieht. Die Naturlehre kann eingetheilt werden in historische Na :
+
+turlehre und Naturwissenschaft ; die erste enthält nur die systematisch geordneten Facta der Naturdinge , die leßtere behandelt ihren Gegenstand entweder durchaus nach Principien a priori , und ist dann eigentliche Naturwissenschaft, oder nach Erfahrungsgeseßen , in welchem Falle sie nur uneigentlich Naturwissenschaft genannt werden kann.
+
+Eigentliche Wissenschaft kann nur diejenige genannt werden , deren Gewißheit apodistisch ist; Erkenntniß , die bloß empirische Gewißheit enthalten kann , ist ein nur uneigentlich sogenanntes Wissen . Eine rationale Naturlehre verdient also den Namen einer Naturwissenschaft erst dann, wenn die Naturgeseße , die in ihr zum Grunde liegen, a priori erkannt werden und nicht bloße Erfahrungsgeseße sind ; man nennt eine Naturerkenntniß von der ersteren
+
+[p. 127] Art rein , die von der zweiten Art dagegen wird angewandte Vernunfterkenntniß genannt. Indem schon in dem Begriffe der Natur das Geseß wesentlich liegt , dies aber den Begriff der Nothwendigkeit in sich schließt, so kann die Naturwissenschaft die Rechtmäßigkeit dieser Benennung nur von einem reinen Theile ableiten , welcher die Principien a priori aller übrigen Naturerklärungen enthält ; nur durch diesen reinen Theil ist sie im eigentlichen Sinne Wissenschaft, und nothwendig muß jede Naturlehre den Forderungen der Vernunft gemäß zuletzt auf Naturwissenschaft hinausgehen und in ihr sich endigen. Die Trennung der reinen Naturwissenschaft von der angewandten ist für die Erkenntniß von wesentlicher Wichtigkeit ; erst indem jene in ihrer ganzen Vollständigkeit vorgetragen wird , kann man genau bestimmen , was die Ver:
+
+nunft für sich zu leisten vermag , und wo sie anfängt , der Erfahrungsprincipien zu bedürfen .
+
+Reine Vernunfterkenntniß aus bloßen Begriffen heißt reine Philosophie oder Metaphysik; dagegen wird die, welche nur auf die Construction der Begriffe , vermittelst
+
+Darstellung des Gegenstandes in einer Anschauung a priori , ihre Erkenntniß gründet, Mathematik genannt. Eigentliche Naturwissenschaft setzt daher zuerst Metaphysik der Natur voraus ; denn Geseße d. i. Principien der Nothwendigkeit dessen , was zum Dasein eines Dinges gehört, beschäftigen sich mit einem Begriffe, der sich nicht construiren läßt , weil das Dasein in keiner Anschauung a priori dargestellt werden kann. Die Metaphysik muß nun zwar lauter Principien enthalten , die nicht empirisch sind , aber sie kann doch entweder ohne alle Beziehung auf irgend ein bestimmtes Erfahrungsobject von den Gesetzen , die den Begriff einer Natur überhaupt möglich machen , handeln , und dann [p. 128] ist sie transcendental , oder sie beschäftigt sich mit einer besonderen Natur dieser oder jener Art Dinge , von denen ein empirischer Begriff gegeben ist, doch so , daß außer dem, was in diesem Begriffe liegt , kein anderes Princip zur Erkenntniß derselben gebraucht wird , und eine solche Wissenschaft ist immer noch eine Metaphysik der Natur, nämlich entweder der körperlichen oder denkenden Natur , aber es ist keine allgemeine sondern besondere metaphysische Naturwissenschaft. In jeder besonderen Naturlehre ist nur soviel eigentliche Wissenschaft enthalten , als Mathematik darin enthalten ist. Denn Etwas a priori erkennen , heißt, es aus seiner bloßen Möglichkeit erkennen . Die Möglichkeit bestimmter Naturdinge kann aber nicht aus ihren bloßen Begriffen erkannt werden ; denn aus diesen kann zwar die Möglichkeit des Gedankens (daß er sich selbst nicht widerspreche), aber nicht des objects als Naturdinges erkannt werden , welches außer dem Gedanken (als eristirend) gegeben werden kann . Also wird , um die Möglichkeit bestimmter Naturdinge , mithin um diese a priori zu erkennen , noch erfordert , daß die dem Begriffe correspondirende anschauung a priori gegeben werde , d. i. daß der Begriff construirt werde. Nun ist die Vernunfterkenntniß durch Construction der Begriffe mathematisch. Also mag zwar eine reine Philosophie der Natur überhaupt , d. i. diejenige, die nur das was den Begriff einer Natur im 20:
+
+gemeinen ausmacht, untersucht, auch ohne Mathematik möglich sein , aber eine reine Naturlehre über bestimmte Naturdinge ( Körper und Seelenlehre) ist nur vermittelst der Mathematik möglich. Daher ist denn auch die Chemie nur eine systematische
+
+Kunst oder Experimentallehre , nicht eigentliche Wissenschaft [p. 129] senschaft, so lange noch für die chemischen Wirkungen der Materien auf einander kein Begriff gefunden wird , der sich construiren läßt, d. i . kein Gesetz der Annäherung oder Entfernung der Theile angeben läßt , nach 'welchem etwa die Proportion ihrer Dichtigkeiten oder ihre Bewegungen sammt ihren Folgen sich im Raume a priori anschaulich machen und darstellen lassen.
+
+Noch weiter aber als selbst Chemie muß empirische Seelenlehre jederzeit von dem Range einer eigentlichen Naturwissenschaft entfernt bleiben , weil Mathematik auf die Phänomene des inneren Sinnes und ihre Gesetze nicht anwendbar ist, man müßte denn allein das Gesetz der Stätigkeit in dem Abflusse der inneren Veränderungen desselben in Anschlag bringen wollen. Auch als systematische Zergliederungskunst oder Experimentallehre kann die Seelenlehre der Chemie nie nahe kommen , weil sich in ihr das Mannigfaltige der inneren Beobachtung nur durch bloße Gedankentheilung von einander absondern , nicht aber abgesondert aufbehalten und beliebig wiederum verknüpfen , noch weniger aber ein anderes denkendes Subject sich unseren Versuchen der Absicht angemessen von uns unterwerfen läßt , und selbst die Beobachtung an sich schon den Zustand des beobachteten Gegenstandes alterirt und verstellt. Die Körperlehre kann daher allein wirkliche Naturwissenschaft werden. · Damit aber die Anwendung der Mathematik auf die Körperlehre möglich werde , müssen Principien der Construction der Begriffe , welche zur Möglichkeit der Materie überhaupt gehören , vorangeschickt werden ; also eine voll ständige Zergliederung des Begriffs der Materie überhaupt muß zu Grunde gelegt werden , welches ein Geschäft der reinen Philosophie ist, die zu dieser Absicht sich keiner besonderen Erfahrungen , sondern nur dessen , was Sd aller.
+
+II.
+
+[p. 130] sie im abgesonderten ( obschon an sich empirischen) Begriffe selbst antrifft, in Beziehung auf die reinen Anschauungen im Raum und in der Zeit ( nach Gesetzen , welche schon dem
+
+Begriffe der Natur überhaupt wesentlich anhängen ) bedient, mithin eine wirkliche Metaphysik der körperlichen Natur ist. Die Naturphilosophen , welche mathematisch verfahren wollen , haben sich daher auch durchgängig (wenn auch unbewußt) metaphysischer Principien bedient und bedienen müssen , wenn sie sich gleich sonst wider allen Anspruch der Metaphysik auf ihre Wissenschaft feierlich verwahrten
+
+; unter Metaphysik verstanden sie dann irriger Weise nur den Wahn , sich Möglichkeiten nach Belieben auszudenken und mit Begriffen zu spielen , die nur sich selbst nicht widersprechend in der Anschauung sich vielleicht gar nicht darstellen lassen .
+
+Der Begriff der Materie wird vollständig betrachtet, wenn er durch sämmtliche Kategorien oder reine Verstandesbegriffe durchgeführt wird. Die Metaphysik der Natur zerfällt daher nach dem Schema der Kategorien in vier Hauptstücke. Die Grundbestimmung eines Etwas aber , das ein Gegenstand äußerer Sinne sein soll, muß die Bewegung sein ; denn dadurch allein können diese Sinne afficirt werden . Auf diese führt auch der Verstand alle übrigen Prädikate der Materie , die zu ihrer Natur gehören , zurück, und so ist die Naturwissenschaft durchgängig eine entweder reine oder angewandte Bewegungslehre . *)
+
+*) Metaphysische Anfangsgründe der Naturwissenschaft. Kants sämmtliche Werke von Schubert und Rosenkranz; V. Th. Vorrede S. 305 -- 319.
+
+[p. 131] I.
+
+Phoronomie .
+
+Die Phoronomie betrachtet die Bewegung als ein reines Quantum nach seiner Zusammensetzung , ohne alle Qualität des Beweglichen. Die Materie selbst ist also hier nur das Bewegliche im Raume ; von aller inneren Beschaffenheit der Materie , auch von der Größe des Beweglichen wird abstrahirt ; man hat es nur zu thun mit der Bewegung und dem , was in dieser als Größe betrachtet werden kann , mit Geschwindigkeit und Richtung. Die Materie selbst kann daher hiernach als Punkt betrachtet werden.
+
+Der Raum , der selbst beweglich ist , heißt der materielle oder auch der relative Raum ; der , in welchem alle Bewegung zuletzt gedacht werden muß (der mithin selbst schlechthin unbeweglich ist), heißt der reine oder absolute Raum. Bestimme ich die Materie nicht durch ein Prädikat , daß ihr selbst als Object zukommt, sondern nur durch das Verhältniß zum Erkenntnißvermögen , so ist Materie ein jeder Gegenstand äußerer Sinne ; dies wäre die bloß metaphysische Erklärung derselben .
+
+Der
+
+Raum wäre bloß die Form aller äußeren sinnlichen Anschauung
+
+, die Materie im Gegensatze der Form das , was in der äußeren Anschauung ein Gegenstand der Empfindung ist , folglich das eigentlich Empirische der äußeren
+
+Anschauung, weil es gar nicht a priori gegeben werden kann. In aller Erfahrung muß etwas empfunden werden , und das ist das Reale der sinnlichen Anschauung , folglich muß auch der Raum , in welchem wir über die Bewegun :
+
+gen Erfahrungen anstellen sollen , empfindbar , d. i. durch das , was empfunden werden kann , bezeichnet sein , und dieser, als der Inbegriff aller Gegenstände der Erfahrung und selbst ein Object derselben , heißt der empirische 9*
+
+[p. 132] Raum ; dieser aber als materiell ist selbst beweglich. Ein beweglicher Raum aber , wenn seine Bewegung so wahrgenommen werden können , legt wieder einen anderen erweiterten materiellen Raum voraus , in welchem er beweglich ist, dieser ebenfalls einen anderen und sofort ins Un: Alle Bewegung ist also als Gegenstand der Erfahrung bloß relativ . Der absolute Raum aber ist an sich nichts und gar kein Object , sondern bedeutet nur einen jeden anderen relativen Raum , den ich mir außer dem ge endliche.
+
+gebenen jederzeit denken kann , und den ich nur über jeden gegebenen ins Unendliche hinausrücke , als einen solchen , der diesen einschließt und in welchem ich den ersteren als bewegt annehmen kann. Den absoluten Raum zu einem wirklichen Dinge zu machen , heißt die logische Allgemein heit irgend eines Raumes , mit dem ich jeden empirischen als darin eingeschlossen vergleichen kann , in eine physische Allgemeinheit des wirklichen Umfanges verwechseln und die Vernunft in ihrer Idee mißverstehen . Die Beweglichkeit eines Gegenstandes im Raume kann nicht a priori und ohne Belehrung durch die Erfahrung erkannt werden ; sie durfte darum auch in der Kritik der reinen Vernunft nicht unter die reinen Verstandesbegriffe gezählt werden. Bewegung eines Dinges ist die Veränderung der äußeren Verhältnisse desselben zu einem gegebenen Raum ; Ruhe ist die beharrliche Gegenwart an demselben
+
+Orte ; beharrlich aber ist das , was eine Zeit hindurch eristirt d. i. dauert.
+
+Die Ruhe ist also nicht als der Mangel an Bewegung zu erklären , als welche sie gar nicht construirt werden könnte ; die Dauer aber kann vorgestellt werden als Bewegung mit unendlich kleiner Geschwindigkeit eine endliche Zeit hindurch , und so läßt sich die Ruhe zur Anwendung in der Mathematik construiren.
+
+[p. 133] Um den Begriff einer zusammengesetzten Be:
+
+wegung zu construiren , d. h. eine Bewegung , sofern sie aus zwei oder mehreren gegebenen in einem Beweglichen vereinigt entspringt, a priori in der Anschauung dar:
+
+zustellen , ist festzuhalten , daß jede Bewegung als Gegenstand einer möglichen Erfahrung , nach Belieben , als Bewegung des Körpers in einem ruhigen Raume, oder als Ruhe des Körpers und dagegen Bewegung des Raumes in entgegengesetzter Richtung mit gleicher Geschwindigkeit angesehen werden kann. Ferner betrachtet die Phoronomie die Bewegungen nicht nach ihrem Causalzusammenhange, also nicht die eine als Ursach der anderen ; daher ist die Zusammensetzung der Bewegung nur die Vorstellung einer einzigen Bewegung als einer solchen , welche zwei oder mehrere Bewegungen in sich enthält , oder zweier Bewegungen eben desselben Punktes zugleich , sofern sie zusammen Eine ausmachen d. h. mit dieser einerlei sind. Um die Bewegung zu finden , die aus der Zusammensetzung von mehreren entspringt, darf man nur , wie bei aller Größenerzeugung , zuerst diejenige suchen , die unter gegebenen Bedingungen aus zweien zusammengesetzt ist; darauf diese mit einer dritten verbinden u. s. w. Folglich läßt die Lehre der Zusammensetzung aller Bewegungen sich auf die von zweien zurückführen .
+
+Es sind hierin aber drei Fälle möglich : 1. da zwei Bewegungen in einem Körper in derselben Richtung verbunden eine daraus zusammengesetzte
+
+Bewegung ausmachen sollen ; 2. da zwei Bewegungen desselben Punktes in entgegengesetzter Richtung verbunden durch ihre Zusammensetzung eine dritte Bewegung in derselben Linie ausmachen sollen ; 3. da zwei Bewegungen eines Punktes in verschiedenen Linien , die einen Winkel einschließen , als zusammengesetzt betrachtet [p. 134] werden .
+
+Die mathematische Construction dieser drei Weisen der zusammengesetzten Bewegung , welche zugleich den drei wesentlichen Begriffen der Quantität , der Einheit , Vielheit , Allheit entsprechen , hat durchaus nicht auf die Kräfte der Bewegung , auf die Möglichkeit ihrer Vereinigung oder Einschränkung in Bezug auf Richtung und Geschwindigkeit , zu reflectiren , sondern hat nur anschaulich zu machen , was das Object (als Quantum ) sei , nicht wie es durch Natur oder Kunst, vermittelst gewisser Werkzeuge und Kräfte hervorgebracht werden könne. ES ist diese rein mathematische Construction gegeben in dem
+
+Lehrsatz : Die Zusammensetzung zweier Bewegungen eines und desselben Punktes kann nur dadurch gedacht werden , daß die eine derselben im absoluten Raume , statt der anderen aber eine mit der gleichen Geschwindigkeit in entgegengesetzter
+
+Richtung geschehende Bewegung des relativen Raumes , als mit derselben einerlei , vorgestellt wird.
+
+Indem die Phoronomie nicht nach den Ursachen der Veränderung fragt, hat sie es nur mit der geradlinigen Bewegung zu thun ; denn da die krummlinige in jedem Momente ihre Richtung verändert , muß nothwendig auf die Ursach , welche nun nicht der bloße Raum sein kann , reflectirt werden , durch welche jene Veränderung bewirkt wird. *) II .
+
+Die Dynamik.
+
+Die Dynamik betrachtet die Bewegung als zur Qualität der Materie gehörend . Die Materie ist hiernach das Bewegliche, sofern es einen Raum erfüllt, Einen Raum erfüllen heißt allem Beweglichen widerstehen , das durch seine Bewegung in einen gewissen Raum ein: *) Ebend. S. 320 - 341 .
+
+[p. 135] zubringen bestrebt ist.
+
+Die Materie erfüllt aber einen
+
+Raum nicht durch ihre bloße Existenz, sondern durch eine besondere bewegende Kraft.
+
+Denn das Eindringen in einen Raum ist eine Bewegung; der Widerstand aber gegen Bewegung ist die Ursach der Verminderung oder auch Veränderung derselben in Ruhe.
+
+Nun kann aber mit seiner Bewegung etwas verbunden werden, was sie verändert oder aufhebt als eine andere Bewegung eben desselben Beweglichen in entgegengesetzter Richtung. Also ist der Widerstand, den eine Materie in dem Raume, den sie erfüllt , allem Eindringen anderer leistet, eine Ursach der Bewegung der letzteren in entgegengesetzter Richtung ; die Ursach einer Bewegung heißt aber bewegende Kraft .
+
+Nur dann , wenn das den Raum Einnehmende eine Kraft besitzt, alles von außen Eindringende zurückzutreiben , ist es wirklich ein Widerspruch , daß in den Raum, den ein Ding einnimmt , noch ein anderes von derselben
+
+Art eindringen könne. *)
+
+Anziehungskraft ist diejenige bewegende Kraft, durch welche eine Materie die Ursach der Annäherung anderer zu ihr sein kann , oder durch welche sie der Entfernung anderer von ihr widersteht. · Zurückstoßungskraft ist diejenige , durch welche eine Materie Ursach sein kann, andere von sich zu entfernen , oder durch welche sie der Annäherung anderer zu ihr widersteht. Nur diese zwei bewegenden Kräfte lassen sich in der Materie denken. Denn alle Bewegung , die eine Materie einer anderen eindrücken kann ( da in dieser Rücksicht jede derselben nur wie ein
+
+Punkt betrachtet wird) , muß jederzeit als in der geraden Linie zwischen zwei Punkten ertheilt angesehen werden ; in *) Ebend. S. 342 - 344 .
+
+[p. 136] dieser geraden Linie sind aber nur zweierlei Bewegungen möglich : die eine , dadurch sich jene Punkte von einander entfernen , die zweite , dadurch sie sich einander nähern.
+
+Die Materie erfüllt ihre Räume durch repulsive Kräfte aller ihrer Theile , d. i. durch eine ihr eigene Ausdehnungskraft , die einen bestimmten Grad hat , über den kleinere oder größere bis ins Unendliche können gedacht werden. Jeder Theil , welcher ohne repulsive Kraft wäre , würde auch den Raum nicht wahrhaft erfüllen , sondern nur einschließen. Daß aber diese repulsive Kraft graduell bestimmt ist, folgt daraus , daß durch eine absolut größte Kraft in einer endlichen Zeit ein unendlicher Raum zurückgelegt werden würde , eine absolut kleinste aber diejenige sein würde , durch deren unendliche Hinzuthuung zu sich selbst eine jede gegebene Zeit hindurch keine endliche
+
+Geschwindigkeit erzeugt werden könnte , was beides unmöglich ist. Indem die expansive Kraft einer Materie Elasticität genannt wird , so folgt aus dem Vorigen , daß die
+
+Elasticität eine ursprüngliche, von seiner anderen Eigenschaft herzuleitende Kraft der Materie ist. Auch folgt aus der graduellen Bestimmtheit der expansiven Kraft , daß für jede Materie eine zusammendrückende Kraft gefunden werden kann , die sie von einem jeden Raume, den sie erfüllt , in einen engeren Raum zu treiben vermag. Wenn aber auch diese Zusammendrückbarkeit ins Unendliche geht, so kann doch eine Materie eine andere nicht schlechthin durchdringen d. h. durch ihre Zusammendrückung den Raum ihrer Ausdehnung völlig aufheben . Denn je kleiner der Raum ist, in welchem die ursprüngliche Expansivkraft eingeschlossen wird , desto größer wird sie ; in einen unendlich kleinen Raum zusammengepreßt würde sie unendlich [p. 137] sein ; hierzu aber würde eine unendlich zusammendrückende Kraft erfordert , welche unmöglich ist. Die absolute oder mathematische Undurchdringlichkeit, nach welcher die Materie als solche schlechthin unzusammendrückbar ist , also nur in sofern sie leere Zwischenräume enthält zusammengedrückt werden kann , ist wesentlich eine qualitas occulta , und muß in die relative oder dynamische Undurchdringlichkeit verwandelt werden .
+
+Materielle Substanz ist dasjenige im Raume, was für sich d. i. abgesondert von allem Anderen , was außer ihm im Raume existirt, beweglich ist. Die Bewegung eines Theils der Materie , dadurch sie aufhört ein Theil zu sein , ist die Trennung.
+
+Die
+
+Eren der Theile einer Materie ist die physische Die Materie ist ins unendliche theilbar , und zwar in Theile , deren jeder wieder Materie ist. Zum Beweise dieses Sabes reicht es nicht hin , auf die nung
+
+Theilung.
+
+mathematische Theilbarkeit des Raumes sich zu berufen, sondern es ist außerdem zu zeigen , daß in jedem Theile des Raumes materielle Substanz sei, d. h. für sich bewegliche materielle Theile ; die mathematische Theilbarkeit des Raumes enthält nicht zugleich die Möglichkeit, die Theile des Raumes wirklich von einander zu trennen , weil sie nicht materielle Substanz , somit nicht für sich beweglich sind. Aus der dynamischen Undurchdringlichkeit der Materie folgt aber wesentlich , daß in einem mit Materie erfüllten Raume jeder Theil desselben repulsive Kraft enthält, d. i. die Kraft , allen übrigen Theilen nach allen Seiten entgegenzuwirken , mithin sie zurückzutreiben und von ihnen eben sowohl zurückgetrieben d. h. zur Entfernung von denselben bewegt zu werden. Der Widerspruch aber, welcher in der unendlichen Theilbarkeit der Materie liegt, [p. 138] kann nur dadurch gelöst werden , daß der Raum wie die
+
+Materie nicht als Ding an sich , sondern als Erscheinung gefaßt wird.
+
+Denn nämlich die Materie ins Unendliche theilbar ist, so ( schließt der dogmatische Physiker) besteht sie aus einer unendlichen Menge von Theilen ; denn ein Ganzes muß doch alle Theile zum voraus insgesammt schon in sich enthalten , in die es getheilt werden kann. Der lettere Satz ist auch von einem jeden Ganzen , als
+
+Dinge an sich selbst, unbezweifelt gewiß , mithin , da man doch nicht einräumen kann , die Materie , ja selbst nicht einmal der Raum ,1 bestehe aus unendlich vielen Theilen (weil es ein Widerspruch ist, eine unendliche Menge , deren Begriff es schon mit sich führt , daß sie niemals vollendet vorgestellt werden könne , sich als ganz vollendet zu denken ) , so muß man sich zu Einem entschließen
+
+, entweder dem Geometer zum Troß sagen :. der Raum ist nicht ins unendliche theilbar , oder dem Metaphysiker zum Aergerniß : der Raum ist keine
+
+Eigenschaft eines Dinges an sich , und also die Materie kein Ding an sich, sondern bloße Erscheinung unserer äußeren Sinne überhaupt , so wie der Raum die wesentliche Form derselben .
+
+Das Erstere zu behaupten , ist aber ein leeres Unterfangen , denn die Mathematik läßt sich nicht wegvernünfteln ; es bleibt also nur das Zweite übrig. Dies hilft aber auch wirklich aus jener Schwierigkeit wegen der unendlichen Theilbarkeit der Materie, wobei sie doch nicht aus unendlich vielen Theilen bestehe, heraus. Dieses Lektere nämlich läßt sich ganz wohl durch die Vernunft denken , obgleich unmöglich anschaulich machen und construiren . Denn was nur dadurch wirklich ist, daß es in der Vorstellung gegeben ist , davon ist auch nicht mehr gegeben , als so viel in der Vorstellung ange [p. 139] troffen wird , d. i. so weit der Progreß der Vorstellungen reicht.
+
+Also von Erscheinungen , deren Theilung ins Unendliche geht, kann man nur sagen , daß der Theile der Erscheinung so viele sind , als wir deren nur geben , d. i.
+
+so weit wir nur immer theilen mögen .
+
+Denn die Theile, als zur Existenz einer Erscheinung gehörig , existiren nur in Gedanken , nämlich in der Theilung selbst. Nun geht zwar die Theilung ins Unendliche , aber sie ist doch niemals als unendlich gegeben ; es folgt also nicht , daß das Theilbare eine unendliche Menge Theile an sich selbst und außer unserer Vorstellung in sich enthalte .
+
+Es ist nicht das Ding , sondern nur diese Vorstellung desselben , deren
+
+Theilung , obgleich sie ins Unendliche fortgeregt werden kann , und im Objecte (das an sich unbekannt ist) dazu auch ein Grund ist, dennoch niemals vollendet , folglich ganz gegeben werden kann ; eine wirkliche unendliche Menge im Objecte (die ein ausdrücklicher Widerspruch sein würde ) ist damit nicht bewiesen . *)
+
+Die zweite wesentliche Grundkraft der Materie ist die Anziehungskraft. Durch die repulsive Kraft allein würde sich die Materie ins Unendliche zerstreuen , also in keinem Raume würde irgend eine bestimmte Quantität Materie anzutreffen sein , d . h. alle Räume wären leer und es eristirte gar keine Materie. Die Eristenz der Materie setzt also eine Beschränkung der repulsiven Kraft voraus ; diese aber kann sich unmöglich selbst beschränken , weil vermöge derselben die Materie vielmehr bestrebt ist , den Raum, den sie erfüllt , continuirlich zu erweitern ; eben so wenig kann sie etwa durch den Raum allein auf eine gewisse Grenze der Ausdehnung gesetzt werden ; denn dieser kann *) Ebend . S. 342 - 357.
+
+[p. 140] zwar den Grund davon enthalten , daß bei Erweiterung des Volumens einer sich ausdehnenden Materie die ausdehnende Kraft im umgekehrten Verhältnisse schwächer werde , aber , weil von einer jeden bewegenden Kraft ins Unendliche kleinere Grade möglich sind, niemals den Grund enthalten , daß sie irgendwo aufhöre.
+
+Es geht daher die
+
+Beschränkung der repulsiven Kraft nothwendig von einer anderen entgegengesetzten , eben so ursprünglichen Kraft aus, und zwar ist diese, indem sie unmöglich in einer anderen Materie gesucht werden kann , da ja diese , um Materie zu sein , selbst der zusammendrückenden Kraft bedarf , eine Anziehungskraft , also eine solche, welche in entgegengesetzter Direction als die repulsive Kraft , mithin zur Annäherung, wirkt. Die Anziehung gehört also eben sowohl zu den Grundkräften der Materie als die Zurückstoßung, obwohl es in unserer subjectiven Wahrnehmung der Materie liegt , daß wir die Substanz im Raume nach der repulsiven Kraft und nicht nach der Anziehungskraft bestimmen. Denn die Anziehung , wenn wir sie auch noch so gut empfänden , würde uns doch niemals eine Materie von bestimmtem Volumen und bestimmter Gestalt offenbaren , sondern nichts als die Bestrebung unseres Organis , sich einem Raume außer uns (dem Mittelpunkt des anziehenden Körpers) zu nähern ; dadurch aber bekommen wir keinen bestimmten Begriff von irgend einem Objecte im Raume; diesen erhalten wir vielmehr durch die Zurückstoßungskraft der Materie.
+
+Durch die Anziehungskraft allein ist aber eben so wenig Materie möglich als durch bloße Zurückstoßungskraft; denn ohne die lettere würden alle Theile der Materie sich ohne
+
+Hinderniß einander nähern und den Raum , den diese einnimmt, verringern , also sie würden sich so lange zu einander hinbewegen , bis gar keine Entfernung mehr zwischen [p. 141] ihnen wäre , d. i. sie würden in einen mathematischen Punkt zusammenfließen , und der Raum würde leer , mithin ohne
+
+Beide Kräfte also , Anziehungs- und Zurückstoßungskraft , gehören , weil ohne sie die Materie alle Materie sein .
+
+nicht eristiren kann , zum Wesen der Materie. *) Berührung im physischen Sinne ist die unmittelbare Wirkung und Gegenwirkung der Undurchdringlichkeit, also die Wechselwirkung der repulsiven Kräfte in der gemeinschaftlichen Grenze zweier Materien. Die Wirkung einer Materie auf die andere außer der Berührung ist die Wirkung in die Ferne (actio in distans). Diese Wirkung in die Ferne , die auch ohne Vermittelung zwischen inne liegender Materie möglich ist, -heißt die unmittelbare Wirkung in die Ferne , oder auch die Wirkung der Materien auf einander durch den leeren Raum .
+
+Eine
+
+solche unmittelbare Wirkung ist die aller Materie wesentliche Anziehung. Indem nämlich die ursprüngliche Anziehungskraft als zum Wesen der Materie gehörig den Grund der Möglichkeit derselben enthält , also auch den
+
+Grund von der Möglichkeit einer physischen Berührung derselben , so muß sie vor dieser vorhergehen , und ihre Wirkung muß folglich von der Bedingung der Berührung un: Nun ist die Wirkung einer bewegenden abhängig sein. Kraft, die von aller Berührung unabhängig ist, auch von der Erfüllung des Raumes zwischen dem Bewegenden und Bewegten unabhängig , d. i. sie muß auch , ohne daß der Raum zwischen beiden erfüllt ist , Statt finden , mit:
+
+Daß man hin als Wirkung durch den leeren Raum. die Möglichkeit der Grundkräfte begreiflich machen sollte, ist eine ganz unmögliche Forderung ; denn sie heißen eben *) Ebend. S. 358 - 363.
+
+[p. 142] darum Grundkräfte , weil sie von keiner anderen abgeleitet d. i. gar nicht begriffen werden können. Jedoch ist die ursprüngliche Anziehungskraft durchaus nicht unbegreiflicher als die ursprüngliche Zurückstoßung; sie bietet sich nur nicht so unmittelbar den Sinnen dar als die Undurchdringlichkeit, um uns Begriffe von bestimmten Objecten im Raume zu liefern. Gegen die unmittelbare Wirkung in die Ferne wendet man gewöhnlich ein , daß eine Materie doch nicht da , wo sie nicht ist , unmittelbar wirken könne. Allein dies ist im Grunde bei jeder Wirkung eines Dinges auf ein anderes der Fall. Denn sollte es an demselben Orte , wo es selbst ist, wirken , so würde das Ding , worauf es wirkt , gar nicht außer ihm sein ; denn dies Außerhalb bedeutet die Gegenwart in einem Orte , worin das andere nicht ist. Daß also Materien in der Entfernung nicht unmittelbar auf einander wirken , würde so viel sagen , als , sie können nicht ohne Vermittelung der Kräfte der Undurchdringlichkeit auf einander wirken. Damit aber würde die Anziehungskraft von der Repulsionskraft abhängig gemacht. Beide Kräfte sind aber von ganz verschiedener Art , und es ist nicht der mindeste Grund dazu , eine von der anderen abhängig zu machen , und ihr ohne Vermittelung der anderen die Möglichkeit abzustreiten. Aus der Anziehung in der Berührung kann gar keine
+
+Bewegung entspringen , es muß also doch irgend eine unmittelbare Anziehung außer der Berührung geben , weil sonst auch die drückenden und stoßenden Kräfte , welche das
+
+Bestreben zur Annäherung hervorbringen sollen , da sie in entgegengesetzter Richtung mit der repulsiven Kraft der
+
+Materie wirken , keine wenigstens nicht in der Natur der Materie ursprünglich liegende Ursach haben. Man kann die Anziehung , die ohne Vermittelung der repulsiven Kräfte geschieht, [p. 143] die wahre Anziehung , diejenige, welche bloß durch die Vermittelung der Repulsion geschieht, die scheinbare nennen ; denn eigentlich übt der Körper , dem ein anderer sich bloß darum zu nähern bestrebt ist, weil dieser anderweitig durch Stoß zu ihm getrieben worden , gar keine Anziehungskraft auf diesen aus. Aber selbst diese scheinbaren Anziehungen müssen doch zuletzt eine wahre zum Grunde haben , weil Materie . deren Druck und Stoß als Anziehung dienen soll, ohne anziehende Kräfte nicht einmal Materie sein werde , und folglich die Erklärung aller Phänomene der
+
+Annäherung durch bloß scheinbare Anziehung sich im Cirkel herumdreht.
+
+Man meint gewöhnlich , Newton habe keine unmittelbare Anziehung der Materie angenommen , sondern vielmehr mit der strengsten Enthaltsamkeit der reinen Mathematik hierin den Physikern volle Freiheit gelassen , die Möglichkeit derselben zu erklären , wie sie es gut finden möchten , ohne seine Sätze mit ihrem Hypothesenspiel zu bemengen. Allein wie konnte er den Satz gründen , daß die allgemeine Anziehung der Körper , die sie in gleichen Entfernungen um sich ausüben , der Quantität ihrer Materie proportionirt sei, wenn er nicht annahm , daß alle Materie, mithin bloß als Materie und durch ihre wesentliche Eigenschaft
+
+, diese Bewegungskraft ausübe ? Wenn daher Newton sagt: ne quis gravitatem inter essentiales corporum proprietates ine habere exstimet , quaestionem unam de ejus causa investigauda subjeci , so sieht man wohl , daß der Anstoß , den seine Zeitgenossen , und vielleicht er selbst , am Begriffe einer ursprünglichen Anziehung nahmen , ihn ' mit sich selbst uneinig machte. *)
+
+*) Ebend. S. 363 — 369.
+
+[p. 144] Nennen wir diejenige Kraft, durch welche Materien nur in der gemeinschaftlichen Fläche der Berührung unmittelbar
+
+auf einander wirken können , eine Flächenkraft, diejenige aber , durch welche eine Materie auf die Theile der anderen auch über die Fläche der Berührung hinaus unmittelbar wirken kann , eine durchdringende Kraft , so ist die Zurückstoßungskraft eine Flächenkraft, die Anziehungskraft aber eine durchdringende Kraft , welche sich im Weltraume von jedem Theile der Materie auf jeden anderen Die repulsive unmittelbar ins Unendliche hin erstreckt. Kraft kann keinen entfernteren Theil der Materie bewegen, ohne vermittelst der dazwischen liegenden ; der Wirkung der
+
+Anziehungskraft aber , durch welche eine Materie einen Raum einnimmt , ohne ihn zu erfüllen , wodurch sie also auf andere entfernte wirkt durch den leeren Raum , hebt keine dazwischenliegende Materie Grenzen .
+
+Eben so wenig auch der Raum selbst oder die Entfernung; denn weil jede
+
+Anziehung eine bewegende Kraft ist, die einen Grad hat, unter dem ins Unendliche noch immer kleinere gedacht werden können , so würde in der größeren Entfernung zwar ein Grund liegen , den Grad der Attraction , nach dem Maaße der Ausbreitung der Kraft , in umgekehrtem Verhältnisse zu vermindern , niemals aber sie völlig aufzuheben . Aus dieser ursprünglichen Anziehungskraft, welche von aller Materie , mithin in Proportion der Quantität derselben , ausgeübt wird , müßte nun , in Verbindung mit der ihr entgegenwirkenden , nämlich zurücktreibenden Kraft , die Einschränkung der letzteren , mithin die Möglichkeit eines in einem bestimmten Grade erfüllten Raumes , abgeleitet werden können , und so würde der dynamische Begriff der Materie, als des Beweglichen, das seinen Raum (in bestimmtem Grade) erfüllt , construirt werden. Aber hierzu bedarf man eines
+
+[p. 145] Gesetzes des Verhältnisses sowohl der ursprünglichen Anziehung als Zurückstoßung, in verschiedenen Entfernungen der Materie und ihrer Theile von einander , welches , da es nun allein auf dem Unterschiede der Richtung dieser beiden Kräfte und auf der Größe des Raumes beruht , in der sich jede dieser Kräfte in verschiedenen Weiten verbreitet, eine rein mathematische Aufgabe ist, die nicht mehr für die Metaphysik gehört , selbst nicht was die Verantwortung betrifft, wenn es etwa nicht gelingen sollte , den Begriff der Materie auf diese Art zu construiren.
+
+Denn sie verantwortet bloß die Richtigkeit der unserer Vernunfterkenntniß vergönnten Elemente der Construction , die Unzulänglichkeit und die Schranken unserer Vernunft in der Ausführung verantwortet sie nicht. Da alle gegebene Materie mit einem bestimmten Grade der repulsiven Kraft ihren Raum erfüllen muß , um ein bestimmtes materielles Ding auszumachen, so kann nur eine ursprüngliche Anziehung im Conflict mit der ursprünglichen Zurückstoßung einen bestimmten Grad der Erfüllung des Raumes , mithin Materie möglich machen ; es mag nun sein , daß der erstere von der eigenen Anziehung der Theile der zusammengedrückten Materie unter einander, oder von der Vereinigung derselben mit der Anziehung aller Weltmaterie herrühre. — Die ursprüngliche Anziehung ist der Quantität der Materie proportional und erstreckt sich ins Unendliche.
+
+Also kann die dem Maaße nach bestimmte
+
+Erfüllung eines Raumes durch Materie am Ende nur von der ins Unendliche sich erstreckenden Anziehung bewirkt und jeder Materie nach dem Maaße ihrer Zurückstoßungskraft ertheilt werden.
+
+Die Wirkung von der allgemeinen Anziehung , die alle Materie auf alle und in allen Entfernungen unmittelbar ausübt, heißt Gravitation ; das Bestreben , in der Richtung Spaller. II .
+
+[p. 146] der größeren Gravitation sich zu bewegen , ist die Schwere; die Wirkung von der durchgängigen repulsiven Kraft der Theile jeder gegebenen Materie heißt deren ursprüngliche Elasticität. Diese also und die Schwere machen die ein:
+
+zigen a priori einzusehenden allgemeinen Bestimmungen der Materie aus.
+
+Wie die Dynamik überhaupt die Materie der Qualität nach betrachtet , so treten auch die eigenthümlichen Kategorien , der Qualität , Realität , Negation und Limitation in dieser Betrachtung hervor und verbürgen die vollständigkeit ders
+
+selben.
+
+Zuerst nämlich wurde die Raumerfüllung durch die
+
+Zurückstoßungskraft betrachtet, also das Reelle im Raume; zweitens das , was im Verhältniß zum ersteren , als dem eigentlichen Object der äußeren Wahrnehmung , negativ ist, nämlich die Anziehungskraft , durch welche allein aller Raum durchdrungen , das Solide also gänzlich aufgehoben werden würde ; drittens die Einschränkung der ersteren
+
+Kraft durch die zweite und die daher rührende Bestimmung des Grades der Raumerfüllung.*) Durch das allgemeine Princip der Dynamik ist also vor Allem das sogenannte Solide oder die absolute Undurchdringlichkeit als ein leerer Begriff aus der Naturwissenschaft verwiesen ; damit hat auch der leere Raum seine wesentliche Nothwendigkeit verloren ; denn auch ohne leere Zwischenräume ist durch das verschiedene Verhältniß der ursprünglichen Kräfte zu einander eine graduell verschiedene Erfüllung des Raumes denkbar.
+
+Man hüte sich aber über das , was den allgemeinen Begriff der Materie überhaupt möglich macht, hinauszugehen , und die besondere oder sogar specifische
+
+*) Ebend .
+
+S. 369 – 379 .
+
+[p. 147] Bestimmung und Verschiedenheit derselben a priori erklären zu wollen ; höchstens kann man a priori bestimmen , welche verschiedenen Verhältnisse der ursprünglichen Kräfte möglicher Weise denkbar sind , darf sich aber darum noch nicht anmaßen , irgend eine specifische Raumerfüllung als wirklich anzunehmen.
+
+Die mathematisch - mechanische Erklärungsart hat in dieser Beziehung über die metaphysisch - dynamische einen Vortheil. Sie kann nämlich aus einem durchgehends gleichartigen Stoffe, durch die mannigfaltige Gestalt der Theile vermittelst eingestreuter leerer Zwischenräume, eine große specifische Mannigfaltigkeit der Materien , sowohl ihrer Dichtigkeit als Wirkungsart nach (wenn fremde Kräfte hin zukommen) , zu Stande bringen ; denn die Möglichkeit der Gestalten sowohl als der leeren Zwischenräume läßt sich mit mathematischer Evidenz darthun. Dagegen wenn der Stoff selbst in Grundkräfte verwandelt wird , uns alle Mittel abgehen , diesen Begriff der Materie als solchen in der An schauung als möglich darzustellen. Diesen Vortheil büßt aber die bloß mathematische Physik doppelt wieder ein , indem sie erstlich den leeren Begriff der absoluten Undurchdringlichkeit zu Grunde legen, ferner alle der Materie eigene Kräfte aufgeben muß, und überdies noch mit ihren ursprünglichen Configurationen des Grundstoffs und der Einstreuung der leeren Zwischenräume, je nachdem es das Bedürfniß zu erklären erfordert, der Einbildungskraft im Felde der Philosophie mehr Freiheit , ja gar rechtmäßigen Anspruch verstatten muß , als sich mit der Behutsamkeit der letzteren zusammenreimen läßt.*) I Die Momente , worauf die specifische Verschiedenheit der Materie sich a priori bringen ( obgleich nicht eben so ihrer Möglichkeit nach begreifen ) lassen muß , sind folgende: *) S. 379-381.
+
+10 %
+
+[p. 148] 1. Ein Körper in physischer Bedeutung ist eine Materie zwischen bestimmten Grenzen (die also eine Figur hat).
+
+Der Raum zwischen diesen Grenzen , seiner Größe nach betrachtet , ist der Rauminhalt
+
+Erfüllung eines Raumes von bestimmtem Inhalt heißt Dichtigkeit. Nach dem mathematischen Begriff der Materie ist eine Materie dichter als die andere , wenn sie we:
+
+niger leere Zwischenräume enthält , bis endlich die , in der kein Theil des Raumes leer ist, absolut dicht heißt.
+
+Im dynamischen System einer bloß relativen Undurchdringlichkeit giebt es kein Maximum oder Minimum der Dichtigkeit, obwohl auch jede noch so dünne Materie in sofern schlechthin dicht heißen kann , als sie ihren Raum ohne leere Zwischenräume ganz erfüllt; allein sie ist im Vergleich mit einer anderen doch weniger dicht, wenn sie ihren Raum in einem geringeren Grade erfüllt. Allein auch im dynamischen Sy:
+
+steme ist es unschicklich , sich ein Verhältniß der Materien ihrer Dichtigkeit nach zu denken , wenn man sie sich nicht unter einander als specifisch gleichartig vorstellt, so daß eine aus der anderen durch bloße Zusammendrückung erzeugt werden kann . Da nun das Letztere nicht eben nothwendig zur Natur aller Materie an sich erforderlich zu sein scheint, so kann zwischen ungleichartigen Materien keine Vergleichung in Ansehung der Dichtigkeit füglich Statt finden , z. B. zwischen Wasser und Quecksilber, obzwar es im Gebrauch ist. 2. Anziehung , sofern sie bloß in der Berührung wirksam gedacht wird, heißt Zusammenhang. Indem diese Anziehung nur Flächenkraft ist, sich auch als solche nicht nach der Dichtigkeit des Körpers richtet, so kann sie nicht als eine allgemeine Eigenschaft der Materie betrachtet werden . Eine Materie , deren Theile , ungeachtet ihres noch so starken Zusammenhanges unter einander , dennoch von jeder [p. 149] noch so kleinen bewegenden Kraft an einander können ver, schoben werden, ist flüssig.
+
+Dies Verschieben geschieht, wenn die Theile , ohne das Quantum der Berührung zu vermindern , nur genöthigt werden , diese unter einander zu verwechseln. Ein fester Körper ist der , dessen Theile nicht durch jede Kraft: an einander verschoben werden können.
+
+Das Hinderniß des Verschiebens der Materien an einander ist Reibung. Hiernach ist es also unrichtig, wenn man den Unterschied der festen und flüssigen Materien in den verschiedenen Grad des Zusammenhanges ihrer Theile setzt. Um eine Materie flüssig zu nennen , kommt es nicht auf den Grad des Widerstandes an , den sie dem Zerreißen, sondern nur dem Verschieben ihrer Theile an einander entgegensetzt ; jenes kann so groß sein als man will , so ist dieses doch immer in einer flüssigen Materie gleich Null. Das Flüssige hängt in seinen Theilen weit stärker zusammen , als man gewöhnlich denkt, wenn man sich auf den Versuch einer von der Oberfläche des Wassers losgeriffenen metallenen Platte verläßt , welches nichts entscheidet, weil hier das Wasser nicht in der ganzen Fläche der ersten Berührung , sondern in einer viel kleineren reißt , zu welcher es nämlich durch das Verschieben seiner Theile endlich gelangt ist. Flüssige Materien können auch als solche erklärt werden, deren jeder Punkt nach allen Directionen mit eben derselben
+
+Kraft sich zu bewegen betrachtet, mit welcher er nach irgend einer gedrückt wird : eine. Eigenschaft , auf der das erste Gesetz der Hydrodynamik beruht , die aber einer Anhäufung von glatten und dabei festen Körperchen , wie eine ganz leichte Auflösung ihres Drucks nach Gelegenheit der zusammengesetzten Bewegung zeigen kann , niemals beigelegt werden kann. Nur den starren Materien kann man also Reibung beilegen. Warum aber gewisse Materien , ob sie gleich [p. 150] vielleicht nicht größere , vielleicht wohl gar kleinere Kraft des Zusammenhangs haben , als andere flüssige, dennoch dem Verschieben der Theile so mächtig widerstehen , und daher nicht anders als durch Aufhebung des Zusammenhangs aller Theile einer gewissen Fläche zugleich sich trennen lassen , welches dann den Schein eines vorzüglichen Zusammenhanges giebt ; wie also starre Körper möglich seien , das ist immer noch ein unaufgelöstes Problem , so leicht als auch die gemeine Naturlehre damit fertig zu werden glaubt.
+
+3. Elasticität ist das Vermögen einer Materie, ihre durch eine andere bewegende Kraft veränderte Größe oder Gestalt bei Nachlassung derselben wiederum anzunehmen . Sie ist entweder expansive oder attractive Elasticität ; durch jene nimmt die Materie nach der Zusammendrückung das vorige größere , durch diese nach der Ausdehnung das vorige kleinere Volumen wieder an .
+
+Die attractive Elasticität ist offenbar abgeleitet , die expansive kann eine ursprüngliche, aber auch eine abgeleitete sein.
+
+So hat die Luft eine ab:
+
+geleitete Elasticität vermittelst der Materie der Wärme, welche mit ihr innigst vereinigt , und deren Elasticität vielleicht ursprünglich ist.
+
+Jedoch auch dem Grundstoff des
+
+Flüssigen , welches wir Luft nennen , muß als Materie überhaupt eine ursprüngliche Elasticität zukommen . Von welcher Art eine wahrgenommene Elasticität sei, ist in vorkommenden Fällen nicht möglich mit Gewißheit zu entscheiden . 4. Die Wirkung bewegter Körper auf einander durch Mittheilung ihrer Bewegung heißt mechanisch ; die der Materien aber , sofern sie auch in Ruhe durch eigene Kräfte wechselseitig die Verbindung ihrer Theile verändern , heißt chemisch. Dieser chemische Einfluß heißt Auflösung , sofern er die Trennung der Theile einer Materie zur Wirkung hat ; derjenige aber , der die Absonderung zweier durch ein:
+
+[p. 151] ander aufgelöster Materien zur Wirkung hat , ist die Schei:
+
+dung. Die Auflösung specifisch verschiedener Materien durch einander , darin kein Theil der einen angetroffen wird , der nicht mit einem Theile der anderen von ihr specifisch unter:
+
+schiedenen in derselben Proportion , wie die Ganzen , der einigt wäre , ist die absolute Auflösung und kann auch die chemische Durchdringung genannt werden.
+
+In ihr erfüllen also zwei Materien, und zwar jede derselben ganz, einen und denselben Raum . Diese chemische Durchdringung ist von der mechanischen gänzlich verschieden ; denn bei dieser denkt man sich , daß bei der größeren Annäherung bewegter Materien die repulsive Kraft des einen die der anderen gänzlich über:
+
+wiegen , und eine oder beide ihre Ausdehnung auf nichts bringen können ; in der chemischen Durchdringung dagegen bleibt die Ausdehnung , nur daß die Materien nicht außer einander , sondern in einander d. i. durch Intussusception zusammen einen der Summe ihrer Dichtigkeit gemäßen
+
+Raum einnehmen. Gegen die Möglichkeit dieser chemischen Durchdringung ist schwerlich etwas einzuwenden , obgleich sie eine vollendete Theilung ins Unendliche enthält, die in diesem Falle doch keinen Widerspruch in sich faßt, weil die Auflösung eine Zeit hindurch continuirlich , mithin gleichfalls durch eine unendliche Reihe Augenblicke mit Acceleration geschieht, überdies durch die Theilung die Summe. der Oberflächen der noch zu theilenden Materien wachsen , und da die auflösende Kraft continuirlich wirkt , die gänzliche Auflösung in einer anzugebenden Zeit vollendet werden kann. Die Unbegreiflichkeit einer solchen chemischen Durchdringung zweier Materien ist auf Rechnung der Unbegreiflichkeit der Theilbarkeit eines jeden Continuums überhaupt ins Unendliche zu schreiben. Geht man von dieser vollständigen Auflösung ab, so muß man annehmen , sie [p. 152] ginge nur bis zu gewissen kleinen Klumpen der aufzuløsenden Materie , die in dem Auflösungsmittel in gesetzten Zeiten von einander schwimmen , ohne daß man den mindesten Grund angeben kann , warum diese Klümpchen , da sie doch immer theilbare Materie sind , nicht gleichfalls aufgelöst werden. Was nun das Verfahren in der Naturwissenschaft in Ansehung der vornehmsten aller ihrer Aufgaben , nämlich der Erklärung einer ins Unendliche möglichen specifischen Verschiedenheit der Materie betrifft, so kann man dabei nur zwei Wege einschlagen : den mechanischen , durch die Verbindung des Absolutvollen mit dem Absolutleeren , oder einen ihm entgegengelegten dynamischen Weg, durch die bloße Verschiedenheit in der Verbindung der ursprünglichen Kräfte der Zurückstoßung und Anziehung alle Verschiedenheiten der Materien zu erklären. Indem die Materie nicht durch absolute Undurchdringlichkeit ihren Raum erfüllt, sondern durch repulsive Kraft , die ihren Grad hat, der in verschiedenen Materien verschieden sein kann , und da dieser Grad für sich nichts mit der Anziehungskraft, welche der Quantität der Materie gemäß ist, gemein hat, die repulsive Kraft daher bei einerlei Anziehungskraft in verschiedenen Materien dem Grade nach ursprünglich verschieden sein kann : so kann auch der Grad der Ausdehnung dieser Materien bei derselben Quantität der Materie und umgekehrt die Quantität der Materie unter demselben
+
+Volumen 8. i. die Dichtigkeit derselben ursprünglich gar große specifische Verschiedenheiten zulassen.
+
+Außerdem aber darf weder irgend ein Geseke der anziehenden noch zurückstoßenden
+
+Kraft auf Muthmaßungen a priori gewagt , sondern Alles, selbst die allgemeine Attraction muß sammt ihrem Geseke aus Datis der Erfahrung geschlossen werden .
+
+Noch weniger wird dergleichen bei den chemischen Verwandtschaften anders [p. 153] als durch den Weg des Erperiments versucht werden dürfen .
+
+Denn es ist überhaupt über dem Gesichtskreis unserer Vernunft gelegen , ursprüngliche Kräfte a priori ihrer Möglichkeit nach einzusehen , vielmehr besteht alle Naturphilosophie in der Zurückführung gegebener , dem Unscheine nach verschiedener Kräfte auf eine geringe Zahl Kräfte und Vermögen , die zur Erklärung der Wirkungen der ersten zulangen , welche Reduction aber nur zu Grundkräften fortgeht , über die unsere Vernunft nicht hinaus kann,
+
+Was die Möglichkeit des leeren Raumes betrifft, So kann diese allerdings nicht geleugnet werden. Denn zu allen Kräften der Materie wird Raum erfordert , und, da dieser auch die Bedingungen der Geseke der Verbreitung jener enthält , nothwendig vor aller Materie vorausgesetzt. So wird der Materie Attractionskraft beigelegt , sofern sie einen Raum um sich durch Anziehung einnimmt , ohne ihn zu erfüllen, der also selbst da , wo Materie wirksam ist, als leer gedacht werden kann , weil sie da nicht durch
+
+Zurückstoßungskräfte wirksam ist und ihn also nicht erfüllt. Allein leere Räume als wirklich anzunehmen , dazu kann uns keine Erfahrung, auch kein Schluß aus derselben , auch keine nothwendige Hypothese, jene zu erklären , berechtigen. Denn alle Erfahrung giebt uns nur comparative leere Räume zu erkennen , welche, nach allen beliebigen Graden aus der Eigenschaft der Materie , ihren Raum mit größerer oder bis ins Unendliche immer kleinerer Ausspannungskraft zu erfüllen , vollkommen erklärt werden können , ohne leere
+
+Räume zu bedürfen. *)
+
+*) Ebend. S. 382 – 396 .
+
+[p. 154] III.
+
+Die Nedanit.
+
+Die Mechanik betrachtet die Materie nach der Kategorie der Relation. In der Mechanik ist daher die Materie das Bewegliche, in sofern es , als ein solches, bewegende Kraft hat. Der bloß dynamische Begriff konnte die Materie auch als in Ruhe betrachten ; die bewegende Kraft , die da in Erwägung gezogen wurde , betraf bloß die Erfüllung eines bestimmten Raumes , ohne daß die Materie , die ihn erfüllte , als bewegt angesehen werden durfte. Die Zurückstoßung war daher eine ursprünglich bewegende Kraft , um Bewegung zuertheilen ; dagegen wird in der Mechanik die Kraft einer in Bewegung geseßten Materie betrachtet, um diese Bewegung einer anderen mitzutheilen. Es ist aber klar , daß das Bewegliche durch seine Bewegung keine bewegende Kraft haben würde, wenn es nicht ursprüngliche bewegende Kräfte befäße, wodurch es vor aller eigenen Bewegung in jedem Orte , da es sich befindet, wirksam ist, und daß keine Materie eine andere , die ihrer Bewegung in der geraden Linie vor ihr im Wege liegt , gleichmäßige Bewegung eindrücken würde , wenn beide nicht ursprüngliche Kräfte der Zurückstoßung befäßen ; auch daß sie eine andere durch ihre
+
+Bewegung nöthigen könne, in der geraden Linie ihr zu folgen , wenn beide nicht Anziehungskräfte besäßen. Also setzen alle mechanischen Geseke die dynamischen voraus, und eine Materie als bewegt kann keine bewegende Kraft haben , als nur vermittelst ihrer Zurückstoßung oder Anziehung , auf welche und mit welchen sie in ihrer Bewegung unmittelbar wirkt und wodurch sie ihre eigene Bewegung einer anderen mittheilt.
+
+Die Quantität der Materie ist die Menge des Beweglichen in einem bestimmten Raume. Dieselbe sofern [p. 155] alle ihre Theile in ihrer Bewegung als zugleich wirkend (bewegend ) betrachtet werden , heißt die Masse , und man sagt , eine Materie wirke in Masse , wenn alle ihre Theile in einerlei Richtung bewegt außer sich zugleich ihre bewegende Kraft ausüben.
+
+Eine Masse von bestimmter
+
+Gestalt heißt ein Körper (in mechanischer Bedeutung).
+
+Die Größe der Bewegung (mechanisch geschätzt ) ist diejenige , die durch die Quantität der bewegten Materie und ihre Geschwindigkeit zugleich geschätzt wird ; phoronomisch besteht sie bloß in dem Grade der Geschwindigkeit.
+
+Daß die Quantität der Materie nur als die Menge des Beweglichen könne gedacht werden , ist ein wichtiger Fall der allgemeinen Mechanik.
+
+Denn es liegt darin, daß Materie keine andere Größe habe , als die , welche in der Menge des Mannigfaltigen außerhalb einander besteht, folglich auch keinen Grad der bewegenden Kraft mit gegebener Geschwindigkeit , der von dieser Menge unabhängig wäre und bloß als intensive Größe betrachtet werden könnte , welches allerdings Statt finden würde , wenn die Materie aus Monaden bestände , deren Realität in aller
+
+Beziehung einen Grad haben muß , welcher größer oder kleiner sein muß , ohne von einer Menge der Theile außer einander abzuhängen . Erstes Gesetz der Mechanik.
+
+Bei allen Der:
+
+der körperlichen Natur bleibt die Quantität der
+
+Materie im Ganzen dieselbe, unvermehrt und unvermindert. Zum Beweise dieses Gesetzes steht aus der allgemeinen Metaphysik fest, daß bei allen Veränderungen der Natur keine Substanz weder entsteht noch vergeht , und es ist hier nur zu zeigen , was in der Natur die Substanz sei. In jeder Materie ist aber das Bewegliche im Raume das letzte Subject aller der Materie inhärirenden Accidenzen, [p. 156] und die Menge dieses Beweglichen außerhalb einander die Quantität der Substanz. Also ist die Größe der Materie, der Substanz nach , nichts anderes als die Menge der Substanzen , daraus sie besteht. Die Quantität der Materie könnte also nur durch Entstehen oder Vergehen der Substanzen vermehrt oder vermindert werden , wenn dies nicht der Fall ist, so bleibt auch die Quantität der Materie dieselbe , und zwar im Ganzen , d. i. so , daß sie in der
+
+Welt im Allgemeinen in derselben Quantität fortdauert, obgleich diese oder jene Materie durch Hinzutreten oder Absondern der Theile vermehrt oder vermindert werden kann.
+
+Zweites Gesetz der Mechanik.
+
+Alle Veränderung
+
+der Materie hat eine äußere Ursach. Also ein jeder Körper beharrt in seinem Zustande der Ruhe oder Bewegung , in derselben Richtung und mit derselben Geschwindigkeit, wenn er nicht durch eine äußere Ursach genöthigt wird , diesen Zustand zu verlassen .
+
+Nach der allgemeinen
+
+Metaphysik hat jede Veränderung eine Ursach.
+
+Die Materie aber als bloßer Gegenstand äußerer Sinne hat keine andere Bestimmungen als die der äußeren Verhältnisse im Raume , und erleidet also auch keine Veränderungen als durch Bewegung. Der Wechsel in der Bewegung aber oder die Veränderung der Bewegung in Ruhe muß eine äußere Ursach haben , weil die Materie keine schlechthin inneren Bestimmungen und Bestimmungsgründe hat. Dies ist das Gesetz der Trägheit. Die Trägheit der Materie ist und bedeutet nichts Anderes als ihre Leblosigkeit. Leben heißt das Vermögen einer Substanz, sich aus einem inneren Princip zum Handeln , einer endlichen Substanz sich zur Veränderung , und einer materiellen Substanz sich zur Bewegung oder Ruhe , als Veränderung ihres Zustandes zu bestimmen.
+
+Wir kennen aber kein anderes inneres
+
+[p. 157] Princip einer Substanz, ihren Zustand zu verändern , als das Begehren , und überhaupt keine andere innere Thätigkeit als Denken , mit dem was davon abhängt , Gefühl der Lust oder Unlust, und Begierde oder Willen . Diese
+
+Bestimmungsgründe aber und Handlungen gehören gar nicht zu den Vorstellungen äußerer Sinne und also auch nicht zu den Bestimmungen der Materie als Materie. Also ist alle Materie als solche leblos. Aus diesem Begriffe der
+
+Trägheit als bloßer Leblosigkeit folgt von selbst, daß sie nicht ein positives Bestreben der Materie bedeute , ihren
+
+Zustand zu erhalten . Drittes Gesetz der Bewegung. In aller Mittheilung der Bewegung sind Wirkung und Gegenwirkung einander jederzeit gleich. Zum Beweise für dies Gesetz ist zunächst aus der allgemeinen Metaphysik der Saß zu entlehnen , daß alle äußere Wirkung in der Welt Wechselwirkung sei. Es kann somit auch keine Bewegung eines Körpers in Beziehung auf einen absolut ruhigen , der dadurch in Bewegung gesetzt werden soll, gedacht werden, vielmehr muß dieser nur als relativ ruhig in Ansehung des Raumes , auf den man ihn bezieht, sammt diesem
+
+Raume aber in entgegengesetzter Richtung als mit eben derselben Quantität der Bewegung im absoluten Raume bewegt vorgestellt werden , als der bewegte in eben demselben gegen ihn hat. Denn die Veränderung des Verhältnisses (mithin der Bewegung) ist zwischen beiden durchaus wechselseitig ; soviel der eine Körper jedem Theile des anderen näher kommt , soviel nähert sich der andere jedem
+
+Theile des ersteren , und weil es nicht auf den empirischen Raum , der beide Körper umgiebt , sondern nur auf die Linie , die zwischen ihnen liegt , ankommt , so wird ihre Bewegung als bloß im absoluten Raume bestimmbar [p. 158] betrachtet , in welchem jeder der beiden Körper an der Bewegung , die dem einen im relativen Raume beigelegt wird, gleichen Untheil haben muß , indem kein Grund da ist, einem von beiden mehr als dem anderen beizulegen. Es muß daher die Geschwindigkeit , die im relativen Raume bloß dem Körper A beigelegt wird , unter A und B im umgekehrten Verhältnisse der Massen , dem A allein die feinige im absoluten Raume , dem B dagegen zusammt dem relativen Raume , worin er ruht , in entgegengesetzter
+
+Richtung ausgetheilt werden. Wenn nun die Bewegung des Körpers B durch den Stoß aufgehoben wird, so: wird darum doch die Bewegung des relativen Raumes nicht aufgehoben . Es bewegt sich also nach dem Stoße der relative Raum in Unsehung beider Körper A und B (die nunmehr im absoluten Raume ruhen) , oder , was dasselbe ist, beide Körper bewegen sich nach dem Stoße mit der Geschwindigkeit, welche in der Vertheilung der Bewegung dem ruhenden B zukam , und zwar in der Richtung des Stoßes.
+
+Diese Wirkung des Stoßes ist aber wesentlich sowohl der Handlung des A als auch der Gegenwirkung
+
+, mit welcher B reagirend gedacht werden mußte, gleich. Da aber dasselbe Sefek keine Abänderung erleidet , wenn, anstatt des Stoßes auf einen ruhigen , ein Stoß desselben Körpers auf einen gleichfalls bewegten Körper angenommen wird , ingleichen die Mittheilung der Bewegung durch den Stoß von der durch den Zug nur in der Richtung, nach welcher die Materien einander in ihren Bewegungen widerstehen , unterschieden ist: so folgt , daß in aller Mittheilung der Bewegung Wirkung und Gegenwirkung einander jederzeit gleich sind (daß jeder Stoß nur vermittelst eines gleichen Gegenstoßes , jeder Druck nur vermittelst eines gleichen Gegendrucks , jeder Zug nur durch einen gleichen
+
+[p. 159] Gegenzug die Bewegung eines Körpers dem anderen mittheilen kann ) .
+
+Dies ist also die Construction der Mittheilung der Bewegung , welche zugleich das Gesetz der Gleichheit der
+
+Wirkung und Gegenwirkung als nothwendige Bedingung derselben bei sich führt , welches Newton sich gar nicht getraute a priori zu beweisen , sondern sich deßhalb auf Erfahrung berief , welchem zu Gefallen Andere eine besondere Kraft, unter dem von Kepler zuerst angeführten
+
+Namen der Trägheitskraft , in die Naturwissenschaft einführten , und also im Grunde es auch von der Erfah : rung ableiteten , endlich noch andere in den Begriff einer bloße Mittheilung der Bewegung repten , welche sie wie einen allmähligen Uebergang der Bewegung des einen Kör: pers in den anderen ansahen , wobei der Bewegende gerade so viel einbüßen müsse, als er dem Bewegten ertheilt , bis er dem letzten keine weiter eindrückt (wenn es nämlich bis zur Gleichheit der Geschwindigkeit in derselben Richtung ge : kommen ist) ; wodurch sie im Grunde alle Gegenwirkung auf: hoben und außerdem die Mittheilung der Bewegung selbst ihrer Möglichkeit nach gar nicht erklärten . Man kann sich gar nicht denken , wie die Bewegung eines Körpers A mit der Bewegung eines anderen B nothwendig verbunden sein müsse , als so , daß man sich Kräfte an beiden denkt, die ihnen (dynamisch) vor aller Bewegung zukommen, f. B. Zurückstoßung , und nun beweisen kann , daß die Bewegung des Körpers A durch Unnäherung.gegen B , mit der An: näherung von B gegen A , und wenn B als ruhig ange: sehen wird , mit der Bewegung desselben , zusammt sei : nem Raume gegen A nothwendig verbunden sei , sofern die Körper mit ihren (ursprünglich) bewegenden Kräften bloß relativ auf einander in Bewegung betrachtet werden.
+
+[p. 160] Dies letztere kann völlig a priori dadurch eingesehen wer: den , daß , es mag nun der Körper B in Ansehung des empirisch kennbaren Raumes ruhig oder bewegt sein , er doch in Ansehung des Körpers A nothwendig als bewegt angesehen werden müsse; weil sonst kein Einfluß desselben auf die repulsive Kraft beider Stattfinden würde , ohne welchen hier ganz und gar keine mechanische Wirkung der Materien auf einander , d. i. Mittheilung der Bewegung durch den Stoß , möglich ist.
+
+Es giebt aber noch ein anderes , nämlich ein dyna : misches Gesetz der Gleichheit der Wirkung und Gegen: wirkung der Materien , nicht sofern eine der anderen ihre Bewegung mittheilt , sondern dieser ursprünglich er : theilt und durch deren Widerstreben zugleich in sich her: vorbringt. Dies läßt sich auf ähnliche Weise leicht dar: thun. Denn wenn die Materie A die Materie B zieht, so nöthigt sie diese, sich ihr zu nähern , oder , was einerlei ist , jene widersteht der Kraft, womit diese sich zu entfernen trachten möchte. Weil es aber einerlei ist, ob B sich von A , oder A von B sich entferne, so ist dieser Widerstand zugleich ein Widerstand, den der Körper B gegen A ausübt , sofern er sich von ihm zu entfernen trachten möchte , mithin sind Zug und Gegenzug einander gleich. Eben so, wenn A die Materie B zurückstößt , so widersteht A der Unnäherung von B. Da es aber einer: lei ist, ob sich B dem A , oder A dem B nähere , so widersteht B auch eben so viel der Unnäherung von A ; Druck und Gegendruck sind also auch immer einander gleich. *) >
+
+*) Ebend . S. 397-414.
+
+[p. 161] IV. Die Phänomenologie. Die Phänomenologie betrachtet die Bewegung oder Ruhe unter der Kategorie 'Der Modalität, also in Beziehung auf die Vorstellungsart, als Erscheinung der äußeren Sinne. Hiernach ist die Materie das Bewegliche,
+
+sofern es , als ein solches , ein Gegenstand der Erfahrung sein kann . Bewegung ist, so wie alles was durch die Sinne vorgestellt wird , nur als Erscheinung gegeben. Da: mit ihre Vorstellung Erfahrung werde , dazu wird noch er: fordert , daß Etwas durch den Verstand gedacht werde, nämlich zu der Art, wie die Vorstellung dem Subjecte inhärirt, noch die Bestimmung eines Objects durch die: Also wird das Bewegliche, als ein solches , ein selbe. Gegenstand der Erfahrung, wenn ein gewisses Object ( hier also ein materielles Ding) in Ansehung des Prädikats der Bewegung als bestimmt gedacht wird. Nun ist aber Bewegung Beränderung der Relation im Raume. Es sind also hier immer zwei Correlate , deren einem in der Erscheinung erstlich eben so gut wie dem anderen die Veränderung beigelegt, oder zweitens deren eines in der Erfahrung mit Ausschließung. des anderen als bewegt gedacht werden muß ; oder drittens , deren beide nothwendig durch Vernunft als zugleich bewegt vorgestellt werden müssen. In der Erscheinung , die nichts als die Relation in der Bewegung (ihrer Veränderung nach ) ents hält , ist nichts von diesen Bestimmungen enthalten ; wenn aber das Bewegliche, als ein solches, nämlich seiner Bewegung nach , bestimmt gedacht werden soll , -0. i. zum Behuf einer möglichen Erfahrung, so ist es nöthig , die Des dingungen anzuzeigen , unter welchen der Gegenstand auf eine oder andere Art durch das Prädikat der Bewegung bestimmt werden müsse. Smaller. ' II.
+
+[p. 162] 1. Die geradlinige Bewegung einer Materie in Ansehung eines empirischen Raumes ist , zum Unterschiede von der entgegengesetzten Bewegung des Raumes , ein bloß mögliches Prädikat. Eben dasselbe in gar keiner Rela: tion auf eine Materie außer ihr , d. i. als absolute Bewegung gedacht , ist unmöglich. Ob nämlich ein Kör: per im relativen Raume bewegt, dieser aber ruhig genannt werde , oder umgekehrt dieser in entgegengesetzter Richtung gleich geschwind bewegt, dagegen jener ruhig genannt wer: den solle, ist kein Streit über das was dem Gegenstande, sondern nur seinem Verhältnisse zum Subject , mithin der Er: scheinung und nicht der Erfahrung zukommt. Also ist in der
+
+Erfahrung (einer Erkenntniß, die das Object für alle Erschei: nungen gültig bestimmt) gar kein Unterschied zwischen der Be: wegung des Körpers im relativen Raume , oder der Ruhe des
+
+Körpers im absoluten und der entgegengesetzten gleichen Bewegung des relativen Raumes. Diese Unbestimmtheit und gleiche Geltung zweier entgegengesetzten Prädikate ist aber wesentlich Möglichkeit. Da aber ferner eine Relation , mithin auch eine Veränderung derselben wie die Bewegung nur in sofern ein Gegenstand der Erfahrung sein kann , als beide Correlate Gegenstände der Erfahrung sind , der reine Raum aber, den man auch im Gegensaße gegen den relativen ( empiri: schen den absoluten Raum nennt , kein Gegenstand der Erfahrung und überall nichts ist; so ist die geradlinige Be: wegung ohne Beziehung auf irgend etwas Empirisches , d. i.
+
+die absolute Bewegung , schlechterdings unmöglich. * ) 2. Die Kreisbewegung einer Materie ist, zum
+
+Unterschiede von der entgegengesetzten Bewegung des Raumes , ein wirkliches Prädikat derselben ; dagegen ist die *) Ebend . S. 422 ff.
+
+[p. 163] entgegengesetzte Bewegung eines relativen Raumes , statt der Bewegung des Körpers genommen , keine wirkliche Be: wegung des letzteren , sondern , wenn sie dafür gehalten wird , ein bloßer Schein . Die Kreisbewegung nämlich ist ein continuirliches Entstehen neuer Bewegungen.
+
+Weil nun nach dem Gesetze der Trägheit eine Bewegung, sofern sie entsteht, eine äußere Ursach haben muß , gleichwohl aber der Körper in jedem Punkte dieses Kreises (nach eben demselben Gesetze) für sich in der den Kreis berührenden geraden Linie fortzugehen bestrebt ist, welche Bewegung jener äußeren Ursach entgegenwirkt, so beweist jeder Kör: per in der Kreisbewegung durch seine Bewegung eine be: wegende Kraft. Die Bewegung des Raumes aber ist zum
+
+Unterschiede von der Bewegung des Körpers bloß phorono: misch und hat keine bewegende Kraft ; folglich ist das Ur:
+
+theil, daß hier entweder der Körper oder der Raum in entgegengesetzter Richtung bewegt sei, ein disjunctives Urtheil, durch welches , wenn das eine Glied , nämlich die Bewegung des Körpers, gesetzt ist, das andere , nämlich die des
+
+Raumes - ausgeschlossen wird ; die Kreisbewegung des Körpers, also , zum Unterschiede von der Bewegung des Rau: mes , ist wirkliche Bewegung. *) 3. In jeder Bewegung eines Körpers , wodurch er in Ansehung eines anderen bewegend ist, ist eine entgegengesetzte gleiche Bewegung des letzteren nothwendig.
+
+Nach dem dritten Gesetze der Mechanik nämlich ist die Mittheilung der Bewegung der Körper nur durch die Gemein schaft ihrer ursprünglich bewegenden Kräfte, und diese nur durch beiderseitige entgegengesetzte und gleiche Bewegung möglich. Die Bewegung beider ist also wirklich. Da aber * ) Ebend. S. 424 ff. 11 * [p. 164] die Wirklichkeit dieser Bewegung nicht auf dem Einflusse äuße: rer Kräfte beruht, sondern aus dem Begriffe der Relation des Bewegten im Raume zu jedem anderen dadurch Beweg :
+
+lichen unmittelbar und unvermeidlich folgt, so ist die Be: " wegung des letzteren nothwendig . *) Auf die verschiedenen Begriffe der Bewegung und bewegenden Kräfte haben auch die verschiedenen Begriffe {vom leeren Raume ihre Beziehung. Der leere Raum in phoronomischer Rücksicht, der auch der absolute Raum heißt, sollte billig nicht ein leerer Raum genannt werden ; denn er ist nur die Idee von einem Raume , in welchem ich von aller besonderen Materie , die ihn zum Gegenstande der Erfahrung macht, abstrahire , um in ihm den materiel: len oder empirischen Raum noch als beweglich , und da: durch die Bewegung nicht bloß einseitig als absolutes , sondern jederzeit wechselseitig als bloß relatives Prädikat zu denken. Er ist also gar nichts , was zur Eristenz der Dinge, sondern bloß zur Bestimmung der Begriffe gehört, und sofern eristirt , kein leerer Raum. Der leere Raum in dynamischer Rücksicht ist der , der nicht erfüllt ist, d. i. worin dem Eindringen des Beweglichen nichts ande: res Bewegliches widersteht, folglich keine repulsive. Kraft wirkt. Daß ein leerer Raum in der Welt nicht noth:
+
+wendig anzunehmen sei , ist schon früher gezeigt; daß er aber unmöglich sei , kann aus seinem Begriffe allein , nach dem Falle des Widerspruchs , keineswegs bewiesen werden. Jedoch könnte ein physischer Grund die Verwerfung des leeren Raumes fordern. Wenn nämlich die Anziehung, die man zur Erklärung des Zusammenhangs der Materie annimmt, nur scheinbare, nicht wahre Anziehung , vielmehr * ) Ebend. S. 426 ff.
+
+[p. 165] etwa bloß die Wirkung einer Zusammendrückung durch : äußere im Weltraume überall verbreitete Materie ( den $
+
+Æther ) , welche selbst nur durch eine allgemeine ur :
+
+sprüngliche Anziehung , nämlich die Gravitation ;' zu diesem Drucke gebracht wird , sein sollte , welche Meinung manche Gründe für sich hat ; so würde der leere Raum innerhalb der Materien , wenngleich nicht logisch , doch dynamisch und also physisch unmöglich sein , weil jede Materie: sich in die leeren Räume , die man innerhalb derselben annähme (da ? ihrer expansiven Kraft hier nichts widersteht ), von selbst ausbreiten und sie jederzeit erfüllt erhalten würde.
+
+Ein leerer Raum außer der Welt würde , wenn man unter dieser den Inbegriff aller vorzüglich attractiven Materie (der großen Weltkörper) versteht, aus eben demselben Grundei: unmöglich sein , weil nach dem Maaße , als die Entfernung von diesen zunimmt , auch die Anziehungsfraft auf den ? Æther in umgekehrtem Verhältnisse abnimmt , dieser also selbst nur ins Unendliche an Dichtigkeit abnehmen , nirgend : aber den Raum ganz leer lassen würde . Daß es indessen mit dieser Wegschaffung des leeren Raumes ganz hypothetisch zugeht , darf Niemanden befremden ; geht es doch mit der
+
+Behauptung desselben nicht besser zu. Was endlich den gehäuften leeren Raum innerhalb des Weltganzen betrifft, welcher angenommen wird , um den Weltkörpern freie Bewegung zu verschaffen , so beruht die Möglichkeit oder Unmöglichkeit desselben nicht auf metaphysischen Gründen , sondern auf dem schwer aufzuschließenden Naturgeheimnisse, auf welche Art die Materie ihrer eigenen ausdehnenden Kraft Schranken setze.
+
+Jedoch wenn das früher über die Möglichkeit einer ins Unendliche gehenden Ausdehnung der specifisch verschiedenen Stoffe Gesagte zugegeben . wird , so möchte es wohl unnöthig sein , um der freien
+
+> [p. 166] und dauernden Bewegung der Weltkörper willen einen leeren Raum anzunehmen , weil der Widerstand selbst bei gänzlich erfüllten Räumen alsdann doch so klein als man will gedacht werden kann.
+
+Und so endigt die metaphysische Körperlehre mit dem Leeren und eben darum Unbegreiflichen , worin sie einerlei Schicksal mit allen übrigen Versuchen der Vernunft hat, wenn sie im Zurückgehen zu Principien den ersten Gründen der Dinge nachstrebt, da , weil es ihre Natur so mit sich bringt , niemals etwas anders, als sofern es unter gegebenen Bedingungen bestimmt ist, zu begreifen , folglich sie weder beim Bedingten stehen bleiben , noch sich das Unbedingte faßlich machen kann , ihr , wenn Wißbegierde sie auffordert das absolute Ganze aller Bedingungen zu fassen , nichts übrig bleibt , als von den Gegenständen auf sich selbst zurückzukehren , um , anstatt der legten Grenze der Dinge , die letzte Grenze ihres eigenen sich selbst überlassenen Vermögens zu erforschen und zu bestimmen . *).
+
+2.
+
+Erläuterung und Kritik der Kantischen Naturphilosophie. §. 1 . Standpunkt der Kantischen Philosophie im allgemeinen .
+
+Schon in der Fundamentalfrage der Kantischen Kritik ist der Gegensatz von Subject und object als ein wesentlicher , ursprünglicher vorausgesetzt. Wie sind synthetische Urtheile a priori möglich ? d. i. wie kann ich verschiedene , begrifflich nicht zusammengehörende Begriffe auf. objective Weise, in der Form der Nothwendigkeit und All
+
+*) Ebent. S. 433 gemeinheit [p. 167] mit einander verbinden ? Wie kann ich z. B. mit dem Begriffe . des Körpers a priori den Begriff der Schwere verbinden , da doch diese Begriffe als wesentlich verschiedene : auch ohne einander gedacht werden können ?
+
+Wenn vor Quem : nach der Verbindung der Begriffe im Urtheile gefragt wird , so werden damit die Begriffe selbst, vor der Verbindung , empirisch aufgenommen ; So aber haben die Begriffe nur den Werth der Vorstellungen , und erst indem nach ihrer Einheit a priori gefragt wird , handelt es sich darum , die Vorstellungen in Begriffe zu verwandeln.
+
+Ich könnte daher jene Frage auch einfacher so ausdrücken :
+
+Wie komme ich zu wirklichen Begriffen ? d. h. zu objectiven Gedanken , zu Gedanken , welche das Sein in sich fassen , das Wesen des Seins begreifen. Eben dieser Gegensatz ist es , welcher hier von dem Denken als der Fundamentalgegensatz gesetzt wird , und auf dessen Auflösung es wesentlich ankommt. Das Denken fragt nach der Möglichkeit des Wissens. Damit zieht es sich also von aller unmittelbaren Vereinigung mit dem Sein in sich selbst zurück, es trennt sich von allem Sein los , reinigt sich von allem Fremdartigen , ist zunächst nichts weiter als der reine Act des Denkens, ' die reine Subjectivität, welcher das
+
+Sein als Object gegenüber steht. Sein , Object, ist also nicht etwa bloß die Natur ; so wenig wie der Act des Denkens unmittelbar als das Wesen des Geistes gefaßt wird, sondern alles Gedachte , also auch das geistige Sein, schlägt sich zum Object.
+
+Wie ist nun eine Einheit von
+
+Subject und Object d. h. eben ein Wissen möglich ? Wenn ich Subject und Object als synthetisch verschiedene fasse, so behaupte ich damit unmittelbar ihre begrifflliche Unvereinbarkeit d. h. die Unmöglichkeit des Wissens. Denn Subject und Object verhalten sich als synthetisch [p. 168] verschiedene , ' ausschließend zu einander ; sie gehören nicht nothwendig und a priori zusammen , sind nicht Momente einer wesentlichen Einheit. Es ist also unmöglich , aus dem Begriffe des Subjects den Begriff des Objects zu entwickeln und umgekehrt ; vielmehr kann ich nicht nur das Subject ohne das Object denken , sondern eben diese Getrenntheit, diese Selb ständigkeit ist ihr Begriff. Kann ich Subject und Object nicht durch den Begriff, durch das Denken vereinigen , so ist überhaupt eine allgemeine wesentliche Vereinigung unmöglich ; denn diese wird einzig und allein durch das Denken , durch den Begriff gesetzt. Es bleibt daher keine andere als die von Kant behauptete Einheit möglich.
+
+Unmittelbar in der Selbständigkeit der Subjectivität liegt es , daß dieselbe einen ursprünglichen eigenthümlichen Gehalt hat , einen Gehalt , welchen sie nicht von irgend einem Anderen entnimmt, sondern welcher ihr a priori immanent ist. Dieser Gehalt sind die wesentlichen allgemeinen Formen der Subjectivität. In diese Formen wird das Object aufgenommen , indem es gedacht wird ; allein unmittelbar durch diese Formirung hört es auf, reines Object zu sein ; also nicht das Object als ' solches , das Wesen selbst , das
+
+Ding an sich wird gewußt , sondern nur die Beziehung des Objects zum Subject , die Erscheinung.
+
+Die wesentliche Aufgabe der Philosophie kann daher nur darin bestehen , jene wesentlichen und allgemeinen Formen der Subjectivität zu finden ; sie allein begründen das Wissen , und nur durch die Einsicht in diese Formen wird das Denken von der Täuschung befreit, in welcher es früher das Wesen an und für sich zu erfassen sich einbildete . Wie jeder figirte Gegensatz unmittelbar sich selbst widerspricht, so auch der Gegensatz zwischen Subject und Object.
+
++
+
+[p. 169] Das Ding an sich ist das reine Object, welches von keiner Form des subjectiven Geistes gefaßt * werden kann, welches also schlechthin außer dem subjectiven Denken fallen soll ; es kann von ihm nichts weiter gesagt werden , als . eben dies , daß es das vom Subject schlechthin Verschiedene ist. Wenn das Object wird gedacht, und in sofern hat es schon aufgehört , schlechthin an sich zu sein ; in demselben Momente , in welchem das Subject das Object aus sich herauswirft, nimmt es dasselbe auch schon wieder in sich zurück. Von der anderen Seite tritt sich auch das Subject als endliches und unendliches gegenüber ; denn es faßt die Formen seines Wissens als endliche , subjective Formen ; damit sondert es seine eigene Endlichkeit von sich ab , setzt sich selbst als reines , von der Schranke der Endlichkeit freies , also objectives Subject. Allein diese Objectivität und Unendlichkeit ist nicht minder eine ganz abstracte, inhaltslose , welche eben darum in der endlichen Subjectivität immer wieder verloren geht. ?;; Der Gegensatz zwischen subjectivem Denken und objectivem Sein hat in der Kantischen Philosophie die Gestalt der Unmittelbarkeit und Voraussetzung. Natürlich kann ein endliches Princip überhaupt nicht in absoluter Weise bewiesen werden ; die absolute Form des Beweises wird vielmehr jedes endliche Princip zersprengen und als endliches zum Bewußtsein bringen , somit überwinden und als Moment setzen . Der Beweis , welchen ein endliches Princip von sich selbst führt, ist daher wesentlich selbst ein endlicher, d. h. ein solcher, welcher: Voraussetzungen macht, und zwar lebt der endliche Beweis , wenn auch nicht ausdrücklich , doch implicite immer das voraus , was er beweisen will. In der Kantischen Philosophie bildet nun ' der Gegensatz von Subject und Object die unmittelbare Basis [p. 170] der Untersuchung , ohne daß derselbe als nothwendig aus dem Princip deducirt wäre. Die transcendentale Einheit des Selbstbewußtseins soll Princip alles Wissens sein ; allein nicht aus diesem Princip entwickelt Kant den Organismus des Geistes ; er zeigt nicht , wie das Ich nothwendig Vernunft , Verstand , Urtheilskraft, Sinnlichkeit ist, wie alle diese Thätigkeiten aus dem Wesen des Ich hervorgehen und nur die verschiedenen Weisen einer und derselben Thätigkeit sind ; vielmehr fängt Kant von dem Besonderen an , er isolirt die Sinnlichkeit , den Verstand, u. s. w. , und wenn er auch im Verlaufe der Untersuchung dieses äußerliche empirische Verfahren dadurch aufzuheben sucht , daß er die verschiedenen Formen der Subjectivität auf einander bezieht, so entbehrt doch diese Beziehung der principiellen Nothwendigkeit und Allgemeinheit schiedenen Formen der Subjectivität äußerlich neben einan:
+
+der treten , so findet sich auch das Ding an sich, das reine Object neben dem Subject ein , und so Sehr dasselbe auch nach Kants eigener Auffassung nur ein nothwendiger Grenzbegriff sein soll , so bleibt es doch als ein festes Jenseits außer dem ich unmittelbar liegen , so lange es nicht in dem Processe der Subjectivität als wesentliches Moment aufgewiesen ist. Es ist hier nicht der Ort , den angegebenen allgemeinen Charakter der Kantischen Philosophie im Einzelnen zu verfolgen; nur wenige Bemerkungen scheinen für das Verständniß des Folgenden nothwendig. In der isolirten Sinnlichkeit findet. Kant zunächst die allgemeinen Formen von Raum und Zeit.
+
+Wenn nun von dies
+
+sen Formen gesagt wird , daß sie keine Begriffe sondern Anschauungen seien , daß sie unzertrennlich mit unserer Vorstellungsweise verknüpft , daß sie endlich nicht aus der
+
+[p. 171] Erfahrung entnommen sondern a priori in unserer Sinnlichkeit gegeben seien , so kann hieraus doch unmöglich die Folgerung gezogen werden , daß Raum und Zeit nur der subjectiven Sinnlichkeit angehören. Will ich irgend Etwas, als außer mir wahrnehmen , so muß ich dasselbe erst aus meiner Empfindung herauswerfen , ich muß es mir räumlich objectiviren ; Raum ist also ein wesentliches Moment in dem Processe meines Bewußtseins ; allein daß eben darum der Raum nur eine subjective Form sei, kann man nur behaupten , wenn man den Gegensatz von Subject und Object schon im Gedanken hat.
+
+Eben dies ist nun bei
+
+Kant entschieden der Fall. Die Selbständigkeit der Subjectivität , die Befreiung derselben von der Nothwendigkeit der Substanz wird unmittelbar als abstracter Gegensatz zur Objectivität gefaßt, und diese allgemeine Voraussetzung ist es , welche in der transcendentalen Aesthetik zuerst hervorbricht ; nur auf der Basis dieser Voraussetzung, wird aus der Subjectivität von Raum und Zeit auf die bloße Subjectivität derselben geschlossen. Durch die subjective Idealität von Raum und Zeit soll nun freilich nicht behauptet werden , daß die Dinge außer uns nur Schein sind , sondern vielmehr nur , daß sie Erscheinung sind ; es liegt also den Dingen ein objectives Unsich zu Grunde , auf welches wir aber die Formen von Raum und Zeit nicht anzuwenden berechtigt sind. Offenbar wird aber schon hierdurch die Erscheinung vom Ding an sich losgerissen , und nicht als eine Offenbarung , sondern im Gegentheil als eine Verhüllung des Dinges an sich betrachtet.
+
+In der transcendentalen Logik wird der Verstand isolirt, Der Verstand findet sich also auch empirisch vor, und scheint eben so ohne Sinnlichkeit existiren zu können wie die Sinnlichkeit ohne den Verstand. In diesem reinen
+
+[p. 172] Berftande entdeckt nun Kant die Kategorien , diese auf eine offenbar “: unwissenschaftliche Weise : aus den Urtheits: formen herleitend. Die Nothwendigkeit und Schwierigkeit einer sogenannten Deduction dieser Kategorien erwächst aber daraus , daß dieselben einerseits der Sinnlichkeit und anders'
+
+seits dem Processe der Subjectivität selbst gegenüber stehen ; denn da sie nur aus den Urtheilsformen abstrahirt wur:: den , welche selbst nicht als nothwendig begriffen sind , so : haben " sie keinen wesentlichen inneren Zusammenhang , fiet entbehren der wesentlichen Einheit , der wesentlichen Bezie- !
+
+hung zum Ucte des Denkens.
+
+Die Deduction der Kate :
+
+gorien bringt diese isolirten Momente wieder zusammen : die Sinnlichkeit , die Kategorien und das Ich. Nun erst tritt der Begriff der Kategorien in seiner Wahraí heit hervor; es sind die verschiedenen allgemeinen Formen , in welchen das Ich das Sinnliche a priori denkt. ' Offen :: bar ist so das Ich das allgemeine Princip der Kategorien, i ihre wesentliche Einheit , aus welcher allein sie hergeleitet werden mußten. Daß nun die Begriffe für sich , ohne Anschauung , leer sind , darin bat Kant eben darum , weil sie dem isolirten Berstande angehören Tollen , vollkommen recht. Freilich haben die Begriffe, als bestimmte, auch ei: nen Inhalt ; allein sie haben nur sich selbst zum Inhalt, d. b. es sind Gedanken , durch welche nichts in Wahrheit gedacht , begriffen wird , es sind bloße, das Sein aus: schließende , Gedanken .
+
+Oder vielmehr: e$ sind eben darum keine Gedanken , nicht das wahrhafte, concrete , begreizs fende Denken ist in ihnen thätig , sondern das unwahre, abftrabirende Denken , das Vorstellen.
+
+zu wirklichen Be:
+
+griffen werden die Kategorien erst durch die Verbindung mit dem Sinnlichen ; denn nun umfassen , begreifen sie das Sein in sich ; und da sie nicht als reine Begriffe das [p. 173] allgemeine Befen des sinnlichen Seins ausbrüden foliten , so muß die allgemeine Form des Sinnlichen mit ihnen verbunden werden , um ihnen a priori Bedeutung zu ver: schaffen . Hieraus entstehen nun synthetische Urtheile a priori. Daß diese nicht auf das Ding an sich gehen , kann nun schon aus der transcendentalen Aesthetit gefolgert werden ; denn die Schranke der subjectiven Sinnlichkeit geht mit auf Allein im Grunde liegt schon in dem die Begriffe über.
+
+abstracten Isoliren des Verstandes eben dieselbe Voraus : sfellung seiner endlichen Subjectivität , und die Zuthat von Raum und Zeit kann den Berstand nicht von dieser ends lichen Subjectivität befreien , weil jene allgemeinen Formen selbst schon das in der Sinnlichkeit thätige Ich sind ; eben diese Thätigkeit, diese Idealität ist es , was diese Formen zu bloß subjectiven nach der Kantischen Voraussetzung stempelt. Der eigenthümliche Gehalt der Vernunft sind die Ideen. Diese Ideen fassen nicht bloß die sinnliche Er: scheinung zusammen , sondern geben schlechthin darüber hin : aus ; sie sind daher wesentlich die Gedanken des Unbedingten , des absolut Realen , welches in keiner Erfahrung an : getroffen werden kann. In den Ideen zeigt sich also der Geist in seiner höchsten Thätigkeit , in der ganzen Kraft seiner Production ; aber eben darum tritt auch hier die Endlichkeit des subjectiven Wissens in ihrer ganzen Nackt: beit bervor.
+
+Ideen sind bloße Gedanken , deren objective
+
+Realität theoretisch unbeweisbar ist. Kant gewinnt durch die verschiedenen Formen des Vernunftschlusses verschie: dene Ideen ; indem aber die Ideen das schlechthin Unbedingte zum Inhalte haben sollen , so sind sie im Grunde nichts Underes als das Ding an sich *) , und wie genau es (
+
+*) Dgl. Prolegomena S. 57. S. 124.
+
+.174 [p. 174] genommen nicht von mehreren Dingen an sich die Rede sein kann , so auch nicht, im theoretischen Sinne , von mehreren Ideen. Also gerade den Gedanken des reinen Objects producirt die vernünftige Subjectivität; die Vertiefung des Subjects in sich , das Setzen der reinen freien Sub :
+
+jectivität besteht eben darin , den Gedanken des schlechthin Entgegengesetzten , des objectiven Wesens zu fassen ; allein gerade der Gedanke , in dessen Begriffe eben nur dies liegt , nicht bloß Gedanke , sondern objective Realität zu sein , ist in einem Systeme, welches den Gegensatz von Subject und Object festhält , nothwendig der allersubjectivste ; denn in der höchsten Thätigkeit des Subjects , in der Rei: nigung des Subjects von allem Unmittelbaren muß auch die theoretische Endlichkeit desselben am offenbarsten hervor: treten . Die reine Thätigkeit des Ichs und der Gedanke des Dinges an sich sind also die unzertrennlichen Bestimmun : gen , welche die Basis der ganzen kritischen Untersuchung bilden und in der isolirten Bernunft nur zu ihrer Vollen dung gelangen . Der theoretischen Vernunft tritt wieder unmit: telbar die praktische Bernunft gegenüber. Praktisch ist die Vernunft nicht nur regulativ sondern constitutiv, und damit gewinnen die Ideen , die theoretisch uner weisbar waren , eine unmittelbare praktische Realität . Die Bernunft ist das Ich , welches in seiner unendlichen Augemeinheit sich selbst sept; eben diese Thätigkeit, wodurch das Subject sich dem Object entgegenseßt, also theoretisch end lich ist, macht seine praktische Unendlichkeit aus. In der Santischen Philosophie wird auch die praktische Vernunft von der theoretischen isolirt ; es wird in der Endlichkeit der Theorie nicht der nothwendige Uebergang zur Praris nachgewiesen , sondern einfach daran festgehalten , daß die
+
+[p. 175] Freiheit theoretisch unbegreiflich , aber praktisch unmittelbar gewiß sei ; die praktische Bernunft ist also wesentlich un theoretisch , alogisch. Das Unbegreifliche in der Freiheit ist leben , die ihr immanente Einheit von Subject und Object, die unmittelbare Gegenwart und Wirklichkeit der Idealität, also die Unvereinbarkeit derselben mit den Gesetzen des ifo lirenden Verstandes.
+
+Iheoretische und praktische Vernunft sollen nun auch wieder verbunden werden . Die praktische Bernunft soli ihre Gesetze und Zwede in die Welt der Erscheinung ein: führen ; erst hierin besteht das wirkliche Thun ; damit macht sich aber auch in der praktischen Vernunft die Entlichkeit der Subjectivität geltend ; denn das handelnde Subject fin tet wenn auch nicht in sich , doch außer sich , einen un: überwindlichen Gegensatz; die Realität der praktischen Un: endlichkeit wird also durch die theoretische Einsicht in Frage gestellt. Hieran knüpft sich zunächst der religiöse Glaube, dessen wesentlicher Gehalt die moralische Gewißheit ist, die Welt werde sich den Zwecken der Freiheit immer mehr und mehr unterwerfen . Ferner aber ist es die Urtheitskraft, welche die Principien der theoretischen und praktischen Der: nunft dadurch vereinigt, daß sie die Erscheinungen nicht nach Kategorien des Verstandes sondern nach Ideen der
+
+Bernunft auffaßt, oder daß sie die freie Wgemeinheit des Ich, welche als praktische Bernunft unmittelbare Realität hat, aud als die der Erscheinung immanente Energie betrachtet. Dffenbar scheint hiermit der Gegensatz von Subject und Object aufgehoben . Das der Erscheinung zu Grunde liegende Nou menon , das Ding an sich ist eben die sich selbst und die Erscheinung rekende Allgemeinheit, der Proceß der Subjectia vität also das in Wahrheit Objective , das die Erscheinung umfassende Wesen ; allein die Kantische Philosophie betrachtet [p. 176] diesen Gedanken wieder nur als ein regulatives Princip , d. h. sie faßt die Einheit von Subject'und Object selbst wieder als eine subjective, als ein Postulat, als ein subjectives Be: dürfniß , und hält . ihre erste Voraussetzung auch in ihrem letten , speculativsten Gedanken fest.
+
+9. 2.
+
+Die reine Naturphilosophie.
+
+Die reine Philosophie der Naturist umfaßt in den synthetischen Grundsägen des reinen Verstandes.
+
+Diese
+
+Grundsätze werden rein a priori gewonnen ohne alle Bei: hülfe der Erfahrung; sie umfassen daher , wenn auch nur subjective , doch innerhalb der Erkenntniß der Erscheinung, absolute Allgemeinheit und Nothwendigkeit . Daß der Der: stand seine Gesetze nicht aus der Natur schöpfe
+
+sondern
+
+sie dieser vielmehr vorschreibe: diese Behauptung kann , so lange wir uns in dieser. Sphäre des rein Apriorischen be: finden , nur auffallen , indem man gewohnt ist, unter Na: tur die selbständige Körperwelt zu verstehen , nicht den Re: fler eines unbekannten Grundes an der menschlichen Sub: jectivität. - Faßt man aber die Natur im Rantischen Sinne als Erscheinung, gesteht man dem subjectiven Geiste, die allgemeinen Formen des Verstandes und der Sinnlichkeit zu , so folgt ganz von selbst , daß die Natur sich diesen subjectiven Principien unterordnen muß , daß die Grund : sätze des Verstandes auch die Grundsätze der Natur sein müssen ; dem Dbject als solchem soldadurch nichts vor geschrieben werden , sondern nur die Art und Weise a priori bestimmt, in welcher das Object erscheinen muß ; auf diese Art und Weise erzeugt sich der Verstand. selbst , er ist ura sprüngliche gesetzgebende Thätigkeit.
+
+[p. 177] In der Entwickelung dieser reinen Naturgesetze ist zu nächst der Mangel in die Augen fallend, daß Kant die
+
+Kategorien , indem er sie aus den Urtheilsformen abstrahirt, nicht an und für sich , nicht ihrem wesentlichen Gehalte nach in Betracht zieht. Die Kategorien haben daher vorerst nur den Werth von allgemeinen Vorstellungen ; sie sind nicht als Begriffe entwickelt, ihre behauptete systematische
+
+Vollständigkeit ist daher etwas ganz Unbewiesenes, die Kategorientafel . ein bloßes Namenregister, mit dem die philosophische Einsicht in den Begriff der Quantität , Qua: lität u. f. w . nicht im Entferntesten gewonnen ist. Erst in der Darstellung der synthetischrn Grundsätze kommt der bestimmte Gehalt der einzelnen Kategorien , aber auch nur Sehr aphoristisch und unvollständig, zur Sprache ; die subjectiv idealistische Tendenz , die Kategorien als Voraussetzung aller Erfahrung nachzuweisen , überwiegt so sehr, daß es fast den Unschein hat , als wenn es sich um weiter nichts handelte, als das früher als objective Wahrheit , als Wesen der Natur
+
+Behauptete in die subjective Erkenntniß der Erscheinung, ohne weitere Reform , umzusetzen . Die reinen Naturgeseke bleiben daher mit Vorstellungen untermischt und erhalten keine absolute philosophische Bestimmtheit. Worauf es in diesen Grundsätzen vor allem ankam , war die Verbindung der Kategorie mit der reinen Form der Sinnlichkeit ; allein so lange nicht in den eigenthümlichen Gehalt der Kategorien und eben so der reinen Anschauungen eingegangen wird , so erscheint die bestimmte Weise einer Verbindung als will: kührlich ; es ist kein concretes , das Besondere producirendes Princip vorhanden , und es ist daher nicht zu verwundern, wenn sich in einzelne Grundsäte ganz ungehörige Bestimmungen einmischen. Wichtig für die folgende Untersuchung ist hier besonders der zweite Grundsatz , die von Kant sogenannte Antici : Schaller. II .
+
+[p. 178] pation der Wahrnehmung ; in ihr nämlich ist das dynamische Princip der Naturbetrachtung enthalten. Das Qualitative , Reale wird hier als der bestimmte Inhalt der
+
+Empfindung gefaßt und den reinen Formen der Anschauung gegenübergestellt.
+
+Daß aber die Empfindung und alles
+
+Reale mit ihr einen Grad haben muß , diese Einsicht wird durch ein sehr äußerliches Combiniren gewonnen , welches wir nimmermehr als einen wirklichen philosophischen Beweis gelten lassen fönnen. Vor allem war hier zunächst das Verhältniß der reinen Anschauung zur Empfindung über:
+
+haupt zu untersuchen ; es fragte sich : kann es reine Anschauung geben ohne Empfindung ? oder ist nicht vielmehr der Grund: faß, aufzustellen : jede reine Anschauung ist zugleich Empfin: dung, jede extensive Größe ist zugleich qualitativ bestimmt ? Sehen wir ab von dem methodischen Mangel , so ist der wesentliche Gehalt der reinen Naturphilosophie schon ta: durch bestimmt, daß in ihr der Serftand constitutiv , ist, nicht die Vernunft; die Erscheinungen werden nur durch die Kategorien gefaßt , nicht durch die Ideen. Im Augemeinen ist der Begriff der Subjectivität , des concreten, productiven Sichfelbftleşeus das Moment , welches den Ideen eigenthümlich zukommt. Diesen Begriff der Subjectivität entwidelt fant nicht in seiner logischen Abstraction , sondern an die Stelle desselben tritt immer der concrete Proceß des
+
+Denkens , das Ich , das Selbstbewußtsein ; der Grund hier: voll liegt einfach darin , daß eben dieser Begriff der Sub: jectivität von Kant nur in seiner unmittelbaren vorausgese sekten Realität gefaßt, aber nicht in seiner Nothwendigkeit begriffen wird. Die Kategorien sind nach Kant allgemeine Synthesen , welche freilich a priori vom Verstande erzeugt werden , aber doch nur durch die Beziehung auf ein unmittelbar Gegebenes Bedeutung gewinnen ; es liegt daher, [p. 179] ganz abgesehen von dem Processe des subjectiven Erkennens, in der Bestimmtheit der Kategorien die Bedingtheit von einem Anderen ; die kategorische Allgemeinheit hat die Un : mittelbarkeit , die äußerliche Vielheit immer zu ihrer Vor: aussetzung , ist nicht freie Vermittelung mit sich , Selbstän : digkeit. Es wird daher auch durch die Anwendung der Kategorien in der natürlichen Erscheinung nichts Unbedingtes gesetzt, keine lebendige Kraft der Production ; denn die na: tur a priori ist zunächst nichts weiter als angeschaute Ka: tegorie , oder durch die Kategorien gedachte Anschauung. Schon in dem zweiten Theile der transcendentalen Logik, in der transcendentalen Dialektik tritt dem Verstande die Vernunft gegenüber, und nothwendig müssen in diesem Gegensatze des Vers standes und der Vernunft alle wesentlichen Momente der Kritik der praktischen Vernunft und der Kritik der Urtheilskraft mehr oder weniger zur Sprache kommen ; es ist auch nur Schuld der Darstellung, wenn hier der Zusammenhang zwischen den verschiedenen kritischen Aufgaben nicht schon offenbarer her: vortritt. Kosmologische Ideen sind nach Kant ins Unbedingte erweiterte Kategorien . Schon hiermit sind die Ideen an das Bedingte gebunden , sind eine ungehörige Transcendenz des subjectiven Denkens, und die Antinomien , welche aus diesem Uebermuthe. der Vernunft hervorgehen, sind nur der Beweis der subjectiven Beschränktheit und
+
+Schwäche. Daß die Kategorien nicht ihrem inneren Gehalte nach zur Kritik gezogen sind , ist es auch hier vor Allem, was die philosophische Bestimmtheit der ganzen Untersuchung hemmt. Die Tafel der Kategorien gilt als in sich abge: schlossene systematische Totalität , und so meint denn Kant auch die kosmologischen Ideen vollständig zu besitzen , wenn er jede Kategorie darauf angesehen , ob aus ihr ein Progreß formirt werden könne. Die Unvollständigkeit und Zusam :
+
+12 * [p. 180] menhangslosigkeit der Kategorien geht so unmittelbar in die kosmologische Dialektik über. Außerdem treten eine Menge von Gedankenbestimmungen willkührlich und sporadisch hinzu, die theils aus den Kategorien selbst deducirt werden konnten, theils aber viel concreteren Sphären angehören , deren Ab stand aber von der logischen Allgemeinheit der Kategorie nicht zum Bewußtsein kommt. Ohne speculative Einsicht in die Bestimmtheit der Kategorien scheint die Antinomie nicht nothwendig aus den Begriffen selbst hervorzugehen , während es doch rein die Natur des Begriffs selbst ist, einmal einen Gegensatz aufgelöst in sich fassen , und dann als endlicher Begriff durch seine eigne Einseitigkeit über sich hinaus zu weisen. Kant wird in der Aufstellung der Anti: nomien und dem Versuche , sie zu lösen , wiederholt eben auf diese dialektische Einsicht und somit auf den bestimmten inneren Gehalt der Begriffe hingeführt, allein der transcendentale Idealismus , welcher die Auflösung der Antinomien durch den Unterschied zwischen Erscheinung und Ding an sich schon in Bereitschaft hat , läßt die objective Dialektik nie frei heraustreten. Eine specielle Betrachtung der Kantischen Antinomien , welche außer unserem Zweck liegt , hätte vor allem die Momente zu sichten , welche in den antinomischen Säten zusammenlaufen , ohne daß die Nothwendigkeit ihrer Einheit be: griffen wäre. So wird z. B. in der ersten Antinomie die Kategorie der Quantität sogleich in der Form von Raum und Zeit ge faßt; so sehr nun auch der Begriff der Quantität in diesen reinen Formen der Anschauung ein wesentliches Moment bildet , und so sehr daher auch die Dialektik der Quantität auf dieselben ihre Anwendung findet, so ist doch der eigenthümliche, den Begriff von Raum und Zeit constituirende Gegensatz noch ein ganz anderer als der dialektische Gegen satz der Quantität.
+
+Der Kantische Beweis der ersten Anti [p. 181] nomie bewegt sich nur in Momenten der Quantität , ohne den wesentlichen dialektischen Gegensatz von Raum und Zeit auch nur zu berühren.
+
+Vor allem ist die zweite Antinomie eine sehr unklare unkritische Vermischung verschiedener Elemente. Der Begriff der Qualität , und zwar besonders die Realität , bildet die Basis dieser Antinomie. Realität im Raume soll Materie sein ; diese aber sei ein Bedingtes, dessen innere Bedingungen die Theile, und weiter die Theile dieser Theile u s. f. sind , so daß hier eine regressive Syn thesis eintrete , deren absolute Totalität die Vernunft fordere, welche aber nicht anders gesetzt werden könne , als durch eine vollendete Theilung , durch welche die Realität der Materie entweder in Nichts oder doch in das , was nicht mehr
+
+Materie ist, nämlich in das Einfache , verschwinde. Somit wird denn einmal behauptet : Eine jede zusammengesetzte Substanz in der Welt besteht aus einfachen Theilen ; und dann mit demselben Rechte : Kein zusammengesetztes Ding in der Welt besteht aus einfachen Theilen. Die willkührliche Bildung dieser Antinomie leuchtet ohne Weiteres ein , besonders wenn man den Inhalt derselben mit dem reinen synthetischen Grundsatz vergleicht, welcher sich auf dieselbe Kategorie der Qualität bezog. Dort war das Reale der bestimmte Inhalt der Empfindung , jetzt ist es die Materie überhaupt ; und da hiermit eigentlich schon von dem Momente , auf das es hier vorzugsweise anfam , nämlich der Qualität, abstrahirt ist, so bleibt wieder nur der abstracte quantitative Proceß der Theilung übrig , in welchem freilich das Einfache vergebens gesucht wird.
+
+Die Theile sollen nun aber zugleich die Bedingungen des Ganzen sein , und hierzu tritt nun noch der der Relation untergeordnete Be griff der Substanz, welcher zunächst freilich ohne kategorische Bestimmtheit gebraucht scheint, in den Beweisen der Anti[p. 182] nomie aber in der Bedeutung des Beharrlichen , Selbständigen urgirt wird.
+
+Eben dies Schwankende und Unbestimmte ist es, wodurch diese Antinomie, welche principielle Momente der Natur: philosophie berührt, alles weitere speculative Interesse verliert.
+
+§. 3. Die teleologische Betrachtung der Natur.
+
+Eine andere Betrachtungsweise der Natur eröffnet uns die Kritik der Urtheilskraft.
+
+Schon die Kritik der reinen Vernunft ließ die Ideen als regulative Principien der Naturbetrachtung gelten ; die Kritik der Urtheilskraft hebt aber sogleich in der Deduction ihres Prin : cips ein Moment hervor , welches für die philosophische Er: kenntniß der Natur von großer Wichtigkeit ist. Nach der Kritik der reinen Vernunft nämlich ist es die eigenthüm :
+
+liche Tendenz und Aufgabe der Vernunft , die Verstan : deserkenntniß zur systematischen Totalität zu vollenden ; die Vernunft soll sich daher nicht unmittelbar auf Gegenstände der sinnlichen Erfahrung beziehen , sondern zunächst auf den Verstand und dessen Begriffe. Die Kritik der Urtheilskraft dagegen urgirt vor allem , daß die allgemeinen Ge : setze des Verstandes das Besondere der Erschei : nung unbestimmt lassen , und daß eben hieraus das Bedürfniß und die Nothwendigkeit eines neuen Princips erwachse.
+
+Der Verstand ist in der Naturbetrachtung con:
+
+stitutiv ; er schreibt der Natur die Gesetze vor , und diese umfassen , als schlechthin a priori gewonnen , absolute All: gemeinheit und Nothwendigkeit in sich. Diese kategorischen Gesetze sind nun aber nur die abstracteste Basis der Natur: erkenntniß ; wie verhält sich das Denken zu der concreten Bestimmtheit der Erscheinung ? in wie weit vermag es auch diese sich zu unterwerfen ? Indem kein Denken ohne Un[p. 183] wendung der Kategorie möglich ist , so kann sich freilich auch die besondere Bestimmtheit den Kategorien nicht ent: ziehen ; allein die Bestimmtheit als solche wird dadurch nicht erkannt , das Wissen also durch diese Anwendung der
+
+Kategorien nicht erweitert ; denn es wird kein neuer Ge danke gewonnen , keine Concretion und Besonderung der Allgemeinheit an und für sich , vielmehr nur Beispiele für die abstracte Allgemeinheit der Kategorie. Gelangt das Denken nur durch die Kategorien und in ihnen zur Er:
+
+kenntniß der Erscheinung, so scheint ihm in Bezug auf die besondere Bestimmtheit nichts übrig zu bleiben , als sich rein empirisch zu verhalten , also die besonderen Ge : setze aus der Erfahrung zu abstrahiren . Hier machen sich aber nothwendig alle die Schwierigkeiten geltend , welche den Empirismus drücken , eben die Schwierigkeiten , welche vorzugsweise die Kritik der reinen Vernunft zu lösen sich vorseßt. Soll das Gesetz Nothwendigkeit und Allgemeinheit umfassen , so hat man überhaupt kein Recht von besonderen empirischen Gesetzen zu reden ; denn Nothwendigkeit und Allgemeinheit bleiben ein für alle Mal die Kriterien der Erkenntniß a priori.
+
+Wie der Empirismus überhaupt in dem Skepticismus seine nothwendige Conse: quenz hat , so müßte auch in Bezug auf jene besonderen empirischen Gesetze diese Consequenz gezogen werden ; ihre Allgemeinheit hätte also nur den Werth der Wahrscheinlichkeit , und ihre Nothwendigkeit wäre nur der Reflex der subjectiven Gewohnheit. Dieser Zufälligkeit des Besonderen tritt nun von Neuem das Denken entgegen.
+
+Dem Denken ist es uner:
+
+träglich, bei der unmittelbaren Bestimmtheit des gegebenen Factums stehen zu bleiben ; seinem Begriffe gemäß sucht es zu dem Besonderen das allgemeine, zu der Vielheit die
+
+[p. 184] Einheit, Ordnung und Harmonie.
+
+Eben diese Erkenn :
+
+barkeit des Besonderen ist es , welche die reflectirende
+
+Urtheilskraft als ihr Princip ausspricht; das Besondere soll zweckmäßig sein zum Erkennen , dem Erkenntnißvermögen entsprechend. Dieser allgemeine Gedanke erhält aber dadurch seine nähere Bestimmung, daß das Besondere schon durch die Kategorie hindurchgegangen , somit durch dieselbe bestimmt und dennoch unbestimmt geblieben ist ; es sind also allerdings , wie die Kritik der reinen Vernunft die Aufgabe darstellt , schon Verstandesbegriffe, welche geordnet und erkannt werden sollen , allein Begriffe , welche noch nicht in ihrer besonderen Bestimmtheit erfaßt, also noch nicht vollkommen begriffen sind; es sind unreine , mit der Empirie behaftete Begriffe, welche von Neuem gereinigt und abgeklärt werden müssen , um dem Denken zu entsprechen .
+
+Die Zweckmäßigkeit , welche das Besondere für das Erkennen haben soll, bezieht sich also nicht auf den Verstand ; in Bezug auf diesen ist das Besondere vielmehr unzweck: mäßig , eben darum weil es nicht in die Kategorien aufgeht, weil es also allen den Mitteln , welche der Verstand zum Erkennen aufzuwenden hat, trotzt. Dem Verstande kommt aber die Vernunft zu Hülfe. Ohne die Ideen der Vernunft würden die empirischen Bestimmtheiten der allgemeinen kategorischen Gesetze in eine maßlose Vielheit aus einander gehen ; nur Facta würden neben einander gestellt und auf einander gehäuft ; die Vernunft regulirt dies rohe Bedürfniß des Wissens , unterscheidet und verbindet, vergleicht das Entfernteliegende und trennt das nahe Ver: wandte , und faßt so das Besondere , ohne es , wie der Verstand seine Gesetze , aus sich zu produciren und der
+
+Natur vorzuschreiben ;" zu zusammen .
+
+einer systematischen Totalität zusammen.
+
+[p. 185] Die besonderen empirischen Gesetze sollen also betrachtet
+
+werden , als wenn sie ein Verstand geordnet hätte, um ein System der Erfahrung möglich zu machen . Hiermit wird einmal der Empirie ein weiter Spielraum gelassen . A priori deducirbar sind zunächst nur die allgemeinen Gesetze des Verstandes ; diese sind wesentlich. Naturgesetze, Gesetze der sinnlichen Erscheinung , und bilden als solche die reine Wissenschaft der Natur. Ohne Erkenntniß dieser allgemeinen Basis ist die Empirie ohne Bewußtsein über sich selbst und ohne wissenschaftlichen Nutzen . Die weitere Concretion und Erfüllung des Wissens aber ist Sache der Erfahrung. Diese allein giebt den allgemeinen Gesetzen den
+
+$ bestimmten Gehalt , und es ist durchaus ein verfehltes unternehmen
+
+, auch die besonderen Erscheinungen der Natur a priori deduciren zu wollen .
+
+Von der anderen Seite ist aber auch nicht zu vergessen , daß das bloße Sammeln von Facten noch kein Wissen ist , sondern die bloße Bedingung und Voraussetzung desselben , daß also das empirische Material erst von der Idee geordnet und durchdrungen werden muß , soll es zur Erkenntniß und Wissenschaft werden . Dieses Princip der Ordnung selbst ist aber wiederum schlechthin allgemeiner Natur und kann daher als solches unmöglich aus der Erfahrung entnommen werden ; es ist viel: mehr das Wesen der Vernunft selbst, und ohne diese in mir zu besitzen , also ohne mit dem ordnenden Denken an die Erscheinung heranzutreten , würden auch die Erfahrungen ein wüstes Chaos bleiben .
+
+Ordnung , Harmonie ist nun freilich zunächst i noch etwas sehr Unbestimmtes , und sonach auch die Forderung : man solle aus den besonderen Gesetzen der Erfahrung ein geordnetes Ganzes bilden , noch eine sehr abstracte unbestimmte Forderung. Allerdings ist die Vernunft von jeher [p. 186] darauf ausgegangen , Ordnung und Harmonie d. h. sich selbst in der Natur zu finden ; durch die ganze Geschichte des Denkens hindurch kann man die allgemeinen Momente dieser Ordnung, Einheit , Unterschied und Zusammenhang, oder die Principien der Homogenität , der Specification und Continuität leicht aufweisen ; allein muß sich die Philosophie damit begnügen , nur ganz im Abstracten eine solche Ordnung zu verlangen , so ist sie selbst noch zu tief in der Aeußerlichkeit der Erfahrung verwickelt, als daß sie diese zu beherrschen und in Wahrheit der Vernunft gemäß zu ordnen vermöchte. Die Kritik der Urtheilskraft geht aber zu weiteren Bestimmungen fort. Vor Allem von Wichtigkeit ist der Unterschied der äußeren und inneren Ordnung ; auch Kant stellt die äußere und innere Zweckmäßigkeit einander gegenüber ; erst die letztere ist die wahre vollendete Ord :
+
+Zu diesen beiden Begriffen steht die Verstandeserkenntniß im wesentlichen Gegensatz ; diese entbehrt nung.
+
+also jener Ordnung ; sie faßt die Natur nicht von der Idee des Zweckes aus , sondern mechanisch. Es kann auffallen , wenn Kant im Allgemeinen dem Verstande die mechanische Fassung der Natur zuschreibt ; denn in dem Sinne, wie die Cartesische Naturphilosophie , welche Kant am meisten vor Augen hat , sind die Naturgesetze , welche die Kritik der reinen Vernunft aus den Kategorien entwickelt , nicht mechanisch. Abgesehen von dem subjectiven Idealismus, welcher den wesentlichen Unterschied bildet , so findet sich in jenen Gesetzen auch die Grundlage für die von Kant so benannte Dynamische Deduction der Materie. Beide Momente des Unterschiedes bleiben also zunächst bei Seite liegen. Unter mechanischer Betrachtung der Natur ist hier im Allgemeinen diejenige zu verstehen , welche alle Naturerscheinungen aus äußerlichen Ursachen zu erklären [p. 187] versucht; ihr gemäß giebt es also keine Gestalt der Natur, welche ein Ganzes für sich wäre , welcher somit eine innere Unbedingtheit zugeschrieben werden könnte ; das Ganze erscheint immer als Product der Theile, während die Vernunft in der Idee des Zweckes die Theile durch das Ganze gelegt sein läßt. *) Um die specifische Bestimmtheit , in welcher bei Kant die Idee des Zweckes erscheint, uns zur Einsicht zu bringen , gehen wir zurück auf das Hauptmoment, an welches die Deduction anknüpft. Die Verstandesgesetze sollen das Besondere unbestimmt lassen.
+
+„ Wenn Jemand , sagt Kant, in einem ihm unbewohnt scheinenden Lande eine geometrische Figur , allenfalls ein reguläres Sechseck , im Sande wahrnähme, so würde seine Reflexion , indem sie an einem Begriffe derselben arbeitet , der Einheit eines Princips der Erzeugung desselben , wenn gleich dunkel , vermittelst der Vernunft inne werden , und so, dieser gemäß , den Sand, das benachbarte Meer , die Winde , oder auch auch Thiere mit ihren Fußtritten , die er kennt , oder jede andere vernunftlose
+
+Ursach nicht als einen Grund der Möglichkeit einer solchen Gestalt beurtheilen , weil ihm die Zufälligkeit, mit einem solchen Begriffe , der nur in der Vernunft möglich ist, zusammenzutreffen , so unendlich groß scheinen würde , daß es eben so gut wäre , als ob es dazu gar kein Naturgesetz gebe , daß folglich auch keine Ursach in der bloß mechanisch wirkenden Natur , sondern nur der Begriff von einem solchen Object , als Begriff , den nur Vernunft geben und mit demselben den Gegenstand vergleichen kann , auch die Causalität zu einer solchen Wirkung enthalten , folglich diese durchaus als Zweck , aber nicht *) S. Kritik d. Urth . S. 357.
+
+[p. 188] Naturwerk , d. i. als Product der Kunst angesehen werden könne.” * ) Nach dieser Erläuterung würde also zunächst nicht behauptet, daß das Besondere unmöglich auf mechanische Weise entstehen könne. Die Möglichkeit ist viel mehr immer da , daß jene Figur im Sande durch den Wind oder den Flug eines Vogels erzeugt wurde ; allein die vielen Bedingungen , die hier zusammentreffen müßten , gehören nicht wesentlich und nothwendig zusammen ; jene Figur wäre daher ein ganz zufälliges Product äußerer Ursachen. Eben „ die Gesetzlichkeit des Zufälligen heißt Zweckmäßigkeit . ” **) . Daß wir dies Zufällige auch mechanisch müssen erklären können , folgt schon aus der Anwendbarkeit
+
+der Kategorien auf alles sinnlich Gegebene.
+
+Offenbar liegt es aber hier sehr nahe , jene Zufälligkeit bis zur Unmöglichkeit zu steigern , wie denn Kant selbst bisweilen ausdrücklich sagt: die Form des Zweckmäßigen muß nach bloßen Verstandesgesetzen unmöglich sein. *** ) Dieser Ausdruck ist entschieden übereilt , indem er der späteren lösung der Antinomie zwischen der teleologischen und mechanischen Betrachtungsweise ganz offenbar widerspricht. Von der anderen Seite leuchtet aber auch ein , daß , sobald wir uns mit der bloßen Zufälligkeit begnügen , die teleologische Betrachtung nicht als schlechthin nothwendig bewiesen ist. Versetzen wir uns auf den Standpunkt der mechanischen
+
+Naturanschauung , so nahm diese an jenem Zufälligen durch Sie wird es vollkommen zugeben, aus keinen Anstoß. daß viele äußere Bedingungen zusammentreffen müssen , um die sogenannten organischen Gestaltungen der Natur ent: * ) Ebend. S. 283. , ** ) Ebend. S. 344.
+
+***) Ebend. S. 284.
+
+[p. 189] stehen zu lassen ; ja sie muß consequenter Weise weiter gehen, und behaupten , diese organischen Gestalten könnten wie sie zufällig entstehen , auch zufällig vergehen , und für eine unbestimmte Zeit gänzlich aus der Natur verschwinden ; dieser Zufall liegt also wesentlich in der Natur selbst, denn diese ist ihrem Begriffe nach nur die ausgedehnte energielose Körperlichkeit. Mag daher immerhin das Besondere durch die mechanischen Gesetze zum Theil unbestimmt bleiben
+
+, es erhält doch alle wesentliche , allgemeine , gesetzliche Bestimmtheit, und man hat begrifflich trotz alles Zufälligen sein Recht, nach einer anderen gesetzlichen Nothwendigkeit zu fragen .
+
+Eben so wird nach Kantischen Principien der Verstand als solcher an jenem Zufälligen unmöglich Anstoß nehmen können ; denn er ist seinem Begriffe nach die mechanische Denkweise ; der Verstand kennt keine anderen Gesetze als die in den Kategorien enthaltenen , und wer daher nach anderen Gesetzen fragt, ist unverständig. Eben diesen Unverstand begeht die Vernunft ; diese ist es , welche jenes Zufällige als das wesentlich Unbestimmte betrachtet, und nach einer anderen wesentlichen Allgemeinheit , nach einem anderen Gesetz verlangt. Wenn daher die Aufgabe so gestellt wird : es soll zu dem Besonderen , empirisch Gegebenen und in den allgemeinen Naturgesetzen unbestimmt Gebliebenen ein Allgemeines gefunden werden , so ist diese Ausdruck schon darum schief, weil das Besondere nicht früher gegeben ist als das Allgemeine , sondern erst mit diesem und durch dieses. Ohne das Allgemeine des Zweckes ist das Besondere nur das Zufällige , aber dabei doch , eben darum weil die allgemeinheit des Zweckes noch nicht gefunden ist, wesentlich Bestimmte ; als ein in seiner Zufälligkeit Unbestimmtes kann ich es nur betrachten , wenn ich eine andere Allgemeinheit als die durch die Kategorie gefundene [p. 190] in Gedanken habe , und mit dieser an das Besondere herantrete. Vollends unpassend und dem Begriffe zuwider ist es aber , wenn von empirisch gegebenen Gereken die Rede ist, welche geordnet und zur systematischen Einheit vereinigt werden sollen. Das Gesetz des Zufälligen soll vielmehr erst gefunden und die Nothwendigkeit einer anderen als mechanischen Allgemeinheit aufgezeigt werden. Wie wenig Kant dieser Forderung Genüge thut , erhellt aus dem Vorigen von selbst von ihm selbst gestellten. Die Verstandesgesetze werden nicht in ihrer Allgemeinheit als unzureichend erkannt , nicht an ihrem eigenen Gehalte das Einseitige, Endliche nachgewiesen , sondern ihnen unmittelbar eine andere Allgemeinheit gegenüber gestellt. Freilich verbirgt sich diese Allgemeinheit zunächst unter dem Besonderen ; dies soll aus den Verstandes gelegen als zufällig , unbestimmt herausfallen ; eben hiermit aber wird im Grunde gerade das behauptet , was deducirt werden sollte. Auch kann man sich unmöglich in jener
+
+Behauptung auf die Erfahrung berufen , wenigstens nicht auf die sinnliche und auch nicht auf die verständige ; fondern nur auf die von den Ideen der Vernunft durchdrungene,
+
+d. h. eben auf die , deren Recht bewiesen werden sollte. Auch hier tritt also der allgemeine Charakter der Kantischen Philosophie , wie wir ihn früher entwickelt haben, offen genug hervor. Indem nun die Verstandesgesetze nicht ihrem wesentlichen allgemeinen Gehalte nach als endlich erkannt und somit als Momente einer höheren Anschauungsweise gesetzt werden , so muß sich der Unterschied der verständigen und vernünftigen Naturbetrachtung nothwendig antinomisch gestalten. Von der anderen Seite ist aber auch die Lösung dieser Antinomie schon vorbereitet.
+
+Indem nämlich das [p. 191] Besondere einmal der Allgemeinheit der Kategorie untergeordnet werden muß , dann aber zugleich in dieser Bestimmung doch theilweise unbestimmt bleibt , so setzen sich dadurch die Verstandesgesetzen in Bezug auf das Besondere zu einer Maxime herab ; sie sind nicht mehr schlechthin constitutiv , ausnahmslos alle Erscheinung sich unterordnend , sondern erfassen das Bestimmte nur von einer Seite. So nothwendig daher gefordert werden muß , alle Naturerscheinung mechanisch zu betrachten d. h. den Kategorien unterzuordnen , mit demselben
+
+Rechte muß auch die Freiheit des Besonderen von den Verstandesgesetzen behauptet und somit dasselbe nach teleologischen Principien untersucht werden . Eben in dieser Herabsetzung der constitutiven Grundsätze in regulative soll zunächst die Lösung der Antinomie zwischen der mechanischen und teleologischen Naturbetrachtung bestehen, Mit dieser Lösung scheint nun aber wenig geholfen. Auch die constitutiven Grundsätze beziehen sich nicht etwa auf das Ding an sich, sondern nur auf die Erscheinung; und von der anderen Seite sollen auch die regulativen Maximen nicht etwa ein Schwankendes , Ungewisses an sich tragen , sondern eben so sehr a priori und mit Nothwendigkeit in dem Begriffe des Subjects liegen . Es steht daher auch durchaus nicht etwa nur in meinem subjectiven Be:
+
+lieben , die Naturerscheinungen auch teleologisch zu untersuchen ; vielmehr ist die teleologische Betrachtung so nothwendig als die mechanische , und die eine für sich so einseitig wie die andere. Die constitutiven Grundsätze unterscheiden sich aber dadurch von den regulativen , daß die ersteren die allgemeine wenn auch nur subjective Möglichkeit der Erscheinung in sich enthalten , die zweiten dagegen auf einen gegebenen Stoff der Erfahrung sich beziehen, [p. 192] ohne die allgemeinen Bedingungen desselben bestimmen zu wollen. Fasse ich daher den Mechanismus und die Teleologie nur als regulative Grundsätze, so ist wenigstens so viel gewonnen , daß beide im Allgemeinen sich nicht mehr ausschließen , weil sie das Allgemeine nicht zu bestimmen versuchen . Gelöst ist aber offenbar der Gegensat nicht. Indem vielmehr beide Maximen im Besonderen doch wieder ein gleiches Recht haben , so vertheilen sie sich nicht etwa an verschiedene Erscheinungen , so daß diese Erscheinung nur mechanisch , jene nur teleologisch betrachtet wers wie stant aus: den müßte , sondern alles Besondere ausdrücklich verlangt soll nach beiden Maximen in Untersuchung
+
+gezogen werden.
+
+Daher versucht denn Kant selbst noch eine weitere Auflösung jener Antinomie. *** ES stützt sich diese Auflösung im Allgemeinen auf den Unterschied des Wesens und der Erscheinung. Weder durch die mechanische noch durch die teleologische Betrachtung von irgend Etwas über das Wesen , über das Ding an sich ausgesagt werden ; eben dieses Wesen , dieses aller Erscheinung zu Grunde liegende übersinnliche Substrat kann , indem es selbst weder mechanisch noch teleologisch ist, doch den Grund beider Erscheinungsweisen in sich enthalten. Offenbar ist diese Auflösung keine wirklich vollführte , sondern nur geforderte.
+
+Das Ding an sich ist nicht die begriffene, gesetzte Einheit jenes Gegensatzes, in welcher die entgegengelegten Momente wirklich vermittelt und als vermittelte zu erkennen wären , sondern die bloß seiende , unbegriffene und begriffslose Einheit , d. h. eben keine wirkliche Einheit , sondern das ganz abstracte Postulat einer solchen , von welchem daher auch unmöglich der reflectirenden Betrachtung irgend eine Verständigung über ihre entgegengesetzten Principien ausfließen kann. - Kant selbst bemerkt [p. 193] denn auch ausdrücklich , daß durch die Zurückführung des in Rede stehenden Gegensatzes auf das übersinnliche Substrat im Grunde nichts erklärt werde , weil wir uns eben von jenem Substrat durchaus keinen bestimmten Begriff machen könnten . Somit wäre also durch diese Reflexionen der
+
+Gegensatz der verständigen und vernünftigen Naturbetrachtung nicht gelöst, sondern im Gegentheil vom übersinnlichen Substrate aus bestätigt und sanctionirt. Der unaufgelöste Gegensatz zwischen mechanischer und teleologischer Betrachtungsweise läßt es nun unmöglich zu dem wirklichen Begriffe des inneren Zweckes kommen.
+
+Wie Kant selbst diesen Begriff bestimmt, so ist in dem Organismus , der wesentlichen Gestaltung des inneren Zweckes , die mechanische und teleologische Thätigkeit nicht mehr bloß äußerlich verbunden , sondern als wesentlich identisch gesetzt. Eben dies bildet den specifischen Unterschied des inneren Zweckes von dem äußeren ; in dem letzteren fällt die Zweckthätigkeit als eine dem Objecte äußere Absicht ganz außerhalb der mechanischen Wirksamkeit, in dem organischen Wesen dagegen ist die Zweckthätigkeit zugleich der natürliche Mechanismus, durch welchen es sich erzeugt, Ursach und Wirkung seiner selbst ist. Offenbar muß der mit der Zweckthätigkeit in dieser Weise identisch gelegte Mechanismus anderer Natur sein als der isolirte , für sich bestehende, und man hätte sonach gar kein Recht, diesen Mechanismus, welcher zu einem unselbständigen Momente eines höheren Processes geworden ist, noch als Mechanismus zu bezeichnen.
+
+Für Kant ist aber gerade diese wesentliche
+
+Vereinigung des Mechanismus mit dem teleologischen Processe unbegreiflich , und sonach stellt sich denn nothwendig das im inneren Zwecke enthaltene Moment der mechanischen Causalität immer wieder in der Gestalt, des isolirten Mechanismus daller. II .
+
+[p. 194] nismus dar , d. h. der innere Zweck geht immer wieder in dem unaufgelösten Gegensat seiner Momente zu Grunde. Die Darstellung , welche Kant von dem Begriffe des inneren Zweckes giebt , ist daher entschieden nur der Ausdruck des unaufgelösten Widerspruchs , oder der innere Zweck ist ein Postulat , welches begrifflich nicht vollzogen wird. Sollte der Mechanismus in seiner nothwendigen Vereinigung mit dem Zwecke erkannt werden , so müßte an jenem selbst seine
+
+Einseitigkeit und Endlichkeit , sein unaufgelöster Widerspruch in sich nachgewiesen werden ; eben dies aber thut Kant nicht ; vielmehr macht sich nur unmittelbar neben der mechanischen Betrachtung die teleologische geltend und beide treten sogleich als in ihrem Gegensat doch gleich berechtigte auf. Der Begriff oder vielmehr die Vorstellung des inneren Zwecks ist daher dem Dinge an sich , dem übersinnlichen Substrate parallel zu stellen ; denn auch in diesem sollte mechanische und teleologische Wirksamkeit als identisch gefaßt werden , und doch war diese Einheit nicht wirklich vollzogen sondern nur gefordert.
+
+Die Borstellung des in:
+
+hat freilich noch den Scheint der Concretion und Lebendigkeit an sich , denn es werden die darin enthaltenen Unterschiede als solche ausgesprochen ; bedenken wir aber , daß der wesentliche Unterschied eben nur ausgesprochen wird , aber keine Geltung mehr haben soll , die Auflösung dieses Unterschiedes zur Einheit aber auch nur gefordert wird , so verbleicht jener Schein der Lebendigkeit zur Nacht des Dinges an sich , in welchem als der seienden
+
+Einheit nichts Bestimmtes zu sehen ist.
+
+Wenn wir das was in jenem übersinnlichen Substrate verlangt wird nämlich die Einheit des Mechanischen und Teleologischen wirklich erreichten , so hätten wir damit den Begriff des inneren Zweckes gewonnen , und sobald wir in der Darstellung [p. 195] des inneren Zweckes auf das achten , was uns nicht bloß geboten sondern wirklich gereicht wird , so ist nicht zu verkennen , daß wir hiermit doch wieder nur das Ding an sich in die Hände bekommen. Wenn Kant die geforderte Vereinigung des Mechanismus mit dem Zwecke auch als eine Unterordnung des ersteren unter den zweiten faßt , so liegt hierin genau genommen schon mehr , als aus den Principien deducirt werden kann. Da aber der Mechanismus nicht an und für sich in seiner Einseitigkeit und Unvollständigkeit erkannt ist, so kann jene Unterordnung unmöglich eine andere sein als eine schlechthin äußerliche. Der Zweck , die Idee des Ganzen soll den Mechanismus benutzen , um sich auszuführen ; dabei soll aber der Mechanismus, doch kein anderer werden , als er vor und außer dieser Benutzung war ; in dieser Gestalt ist er aber wesentlich selbständig und die Unterordnung daher eine nur gemeinte , dem Begriffe nach unmögliche. Kant hält daher von der anderen Seite fest , daß wir nach unserer eigenthümlichen Beschaffenheit den Zweck nur in der Weise denken könnten , daß nicht das
+
+Ganze sondern die Vorstellung des Ganzen der Grund für die Verbindung der Theile Tei; d. h. offenbar : wir können uns den Zweck nur als äußerlichen denken .
+
+Wenn nun dieser unserer menschlichen Denkweise gegenüber die Möglichkeit eines anderen , nämlich intuitiven Verstandes geltend gemacht wird , so haben wir in dieser Vorstellung nochmals die Elemente vereinigt, welche für unsere Auffassungsweise unvereinbar aus einander fallen sollen . " Unser Verstand ist wesentlich nicht intuitiv , sondern discursiv ; er geht vom
+
+Allgemeinen auf das Besondere , und findet dieses außer sich vor ; um es sich trotz dieser Zufälligkeit doch unterzuordnen , weiß er sich nicht anders zu helfen , als er betrachtet [p. 196] es als zweckmäßig geordnet. Also aus der Endlichkeit unseres Verstandes wird das Princip des Zweckes hergeleitet, eben daraus daß unser Verstand nicht intuitiv ist, d. h. es wird sogleich in der Deduction des Zweckbegriffs der Gegensatz firirt und in den Begriff des Zweckes auf: natürlich vergebens genommen , nach dessen Lösung später gesucht wird. Daher ist es denn auch nicht zu verwundern , wenn Kant, indem er den innern Zweck auf die ganze Natur anzuwenden verlangt , die Idee des Organismus nicht festzuhalten im Stande ist, sondern immer wieder in die Vorstellung der äußeren Zweckmäßigkeit zurückfällt und sich in dem Aufsuchen solcher äußerlichen Zweckbeziehungen mit Behaglichkeit ergeht. Hierbei ist offenbar durch das Verbot Kants , wir sollten den Ausdruck: Absicht, nicht eigentlich nehmen und nicht etwa unmittelbar alle zweckmäßigen Beziehungen auf Absichten Gottes zurückführen, gar nichts gewonnen ; denn es wird an die Stelle jenes uneigentlichen Ausdrucks kein eigentlicher gesetzt; vielmehr soll ja dem menschlichen Verstande die Vorstellung der Absicht in dem Zweckbegriffe ganz unentbehrlich sein . Nach diesen Prämissen ist denn auch der intuitive Verstand nichts weiter als eine sich in sich widersprechende Vorstellung; denn nach unseren , nicht willkührlichen sondern in unserem Wesen begründeten , Begriffen ist der intuitive
+
+Verstand gar kein Verstand, so wenig wie der innere Zweck nach unseren Begriffen noch wirklich Zweck ist.
+
+Der Begriff des inneren Zweckes hebt eben den Gegensatz auf , an welchem die Existenz der reflectirenden Urtheilskraft wesentlich hängt , nämlich des Allgemeinen a priori im Verstand Enthaltenen und des Besonderen , empirisch Gegebenen . Denn in dem Processe des inneren Zwecks producirt das
+
+Allgemeine nicht bloß sich selbst, sondern diese Vermittelung [p. 197] mit sich ist zugleich auch das Setzen und Formiren des Besonderen , also eine concrete den Unterschied beherrschende und in sich fassende Allgemeinheit ; also keine bloße Idee mehr , aus deren Begriffe die Existenz nicht deducirt werden könnte , sondern die sich selbst in Existenz setzende , mitten in die sinnliche Erscheinung eintretende , für die Anschauung gegenwärtige Idealität. Wodurch Kant auf die Vorstellung dieser concreten Idealität geführt wird , ist zuletzt nichts Anderes als der Gegensatz selbst, welcher nothwendig auf seine Lösung hinweist. Kant bleibt aber seinen Principien getreu , indem er auch diese concrete Idealität wieder in das subjective
+
+Denken zurücknimmt und dem Dinge an sich gegenüber stellt; offenbar aber ist dies die höchste Steigerung des subjectiven Idealismus, indem hier die Einheit von Subject und Object selbst wieder als subjectiv gelegt wird.
+
+Zunächst tritt der mechanischen Betrachtungsweise nur der Begriff des äußeren Zwecks gegenüber ; beide Elemente werden dann verbunden in der Vorstellung des inneren Zweckes ; diese
+
+Einheit des Mechanischen und Teleologischen stellt sich aber kann von Neuem in den Gegensatz zum Mechanismus, und das übersinnliche Substrat, welches auch diesen Gegensatz zu lösen hat , soll noch etwas anderes sein , als der Proceß des inneren Zwecks selbst. Es ist auch noch etwas anderes als der innere Zweck der Kantischen Philosophie , nämlich nicht die vorgestellte, nur geforderte , sondern wirklich gesetzte Einheit von Subject und Object , und in diesem Sinne hätte Kant vollkommen Recht, den inneren Zweck und den intuitiven Verstand nicht mit dem Dinge an sich zusammenfallen zu lassen. Allein da auch die vom Dinge an sich geforderte Lösung des Gegensatzes eben nur gefordert und als eine bloß mögliche hingestellt wird , so bleibt auch [p. 198] das Ding an sich , welches über den Gegensatz hinaus liegen soll, doch in dem Gegensaße selbst verwickelt. §. 4. Die Deduction der Materie und ihrer besonderen Erscheinungen.
+
+Von besonderer Wichtigkeit ist nun vor allem die Frage, wie sich zu den bisher entwickelten Principien der Naturphilosophie die metaphysischen Anfangsgründe der Naturwissenschaft und insbesondere die dynamische Deduction der Materie verhalte. Die Kritik der reinen Vernunft soll nach Kant nur den reinen Begriff der Natur umfassen, die allgemeine Möglichkeit desselben, ohne irgend eine empirische Bestimmung aufzunehmen; sie umfaßt also das was rein a priori von der natürlichen Erscheinung gewußt werden kann. Die Metaphysik der Natur dagegen ist in diesem strengen Sinne nicht mehr reine Wissenschaft; denn sie handelt von einer besonderen, nämlich körperlichen Natur; von dieser ist, nach Kants Ausdruck, ein empirischer Begriff gegeben, und eben diesen Begriff, den Begriff der Materie hat die Metaphysik zu entwickeln, ohne sich aber in dieser Entwickelung einer weiteren besonderen Erfahrung zu bedienen. Um die Kategorien an den Begriff der Materie anzulegen, wird weiter die Materie im Allgemeinen als der Gegenstand der äußeren Sinne aufgefaßt, und dadurch ergiebt sich denn als die Grundbestimmung derselben die Bewegung, weil nur durch sie eine Affection der Sinne möglich sein soll. Die Metaphysik der Natur würde hiernach das Mittelglied zwischen der Kritik der reinen Vernunft oder der Transcendentalphilosophie und der empirischen Naturwissenschaft bilden, welche letztere von bestimmten besonderen Erfahrungen ausgeht, und diese auf [p. 199] der Basis der allgemeinen Principien in ihrer Gesetzmäßigkeit zu erkennen strebt. Kant fordert wiederholt zur Vorsicht auf, die Grenze des Apriori schen nicht zu überschreiten, und bricht die Untersuchung mehrfach mit dem Bemerken ab, daß hier das reine Denken nicht weiter zu gehen vermöge, sich also an die Erfahrung wenden müsse.
+
+Wirklich war nach Kants Erklärung dasjenige, was mit den materialen Bedingungen der Erfahrung oder mit der Empfindung zusammenhängt. Also nicht aus sich selbst kann das Denken das Wirkliche schöpfen, nicht durch seine eigene Energie vermag es sich von dem Unwirklichen, dem bloß subjectiven Gedanken zu befreien, sondern nur, dadurch, daß es sich an die Sinne wendet, daß es hört, sieht, riecht, schmeckt, fühlt. Die innere Vernünftigkeit, eines Gedankens, seine Freiheit von inneren Widersprüchen ist immer nur seine Möglichkeit, nicht seine Nothwendigkeit, giebt mir also nie die Gewißheit, daß derselbe auch, nothwendig in der unmittelbaren Wirklichkeit zur Erscheinung kommen muß. Wenn nun auch die Empfindung als solche eine unmittelbar bestimmte ist, so ist doch der allgemeine Charakter der Empfindungen eben dies, daß sie mir das
+
+Reale der Erscheinung liefern, das Material für die allgemeinen Formen des Anschauens und Denkens. Die Materie ist nun nichts weiter als der empfindbare Gegenstand überhaupt, das Reale im Allgemeinen, dasjenige was die äußeren Sinne afficirt.
+
+Die Kritik der reinen Vernunft hat daher den Begriff der Materie nicht zu entwickeln; denn sie hat es nur mit den allgemeinen Formen des subjectiven Erkennens zu thun; durch diese Formen wird das in der
+
+Empfindung Gegebene formirt, angeschaut, gedacht, zum allgemeinen Objecte gemacht, allein es wird nichts Wirkliches, kein wirklicher Inhalt dadurch gegeben. Eben diesen
+
+[p. 200] Inhalt, diesen empirisch gegebenen Gegenstand schließt die Kritik der reinen Vernunft aus ihrer Betrachtung aus, und damit auch den Begriff der Materie, den Begriff des Inhalts, des Gegebenen, des Empfindbaren im Allgemeinen. Realität, Empfindung, Materie sind in der Kritik der reinen Vernunft durchgängig correspondirende Begriffe; die Kategorie der Realität weist immer auf die Empfindung und diese auf die Materie hin. Daß das Denken das Reale außer sich suchen muß, liegt nothwendig in dem Gegensatze von Subject und Object. Denn nur wenn das Denken das Wesen an und für sich erfaßt, ist der Gedanke auch der wahre Grund aller Erscheinung, das wahrhaft Wirkliche; das Denken dagegen, welches sich durch das Bewußtsein seiner Subjectivität dem
+
+Wesen entgegenstellt, ist nur eine allgemeine Form für einen irgendwo gegebenen Inhalt. Nur wenn das Denken als Form thätig ist, also wenn es ein unmittelbar Gegebenes aufnimmt, sich damit erfüllt, haben die allgemeinen Bestimmungen des Denkens eine Geltung im Reiche des Wirklichen.
+
+Dem Menschen kann aber in keiner anderen
+
+Weise etwas gegeben werden, als durch die sinnliche Wahrnehmung; auf diese muß also nothwendig recurrirt werden, wenn ein Gedanke als wirklich nachgewiesen werden soll.
+
+Eben darum ist es nach Kant unmöglich , die Eristen ; Gottes zu beweisen , weil Gott uns nicht sinnlich entgegen: treten , nicht in die sinnliche Empfindung aufgenommen werden kann .
+
+Aus dem Gedanken Gottes seine Existenz herzuleiten, ist eben so unmöglich, als aus dem Gedanken von hundert Thaler die wirkliche Existenz derselben; denn so verschieden auch Gott von hundert Thalern sein mag, unser Denken bleibt bei allen Unterschieden des Inhalts dem Wesen nach ein und dasselbe, es bleibt subjectiv.
+
+[p. 201] Die Opposition Kants gegen den ontologischen Beweis hat also für seine Philosophie eine ganz allgemeine Bedeutung, ist durch seinen wesentlichen Standpunkt nothwendig geregt. An dem Gedanken des Absoluten ist das Denken am meisten geneigt, kritiklos die Schranken seiner Subjectivität zu durchbrechen; denn das Absolute, welches ich bloß als meinen Gedanken fasse, ist nicht wirklich absolut; der Gedanke des Absoluten also eben der Gedanke, in dessen Begriffe es liegt, an und für sich zu existiren. Wenn aber an diesem Punkte die Subjectivität überwunden ist, so ist sie überhaupt überwunden, und von Gott aus erstreckt sich dann der ontologische Beweis auf alle wesentlichen vernünftigen Gedanken. Ist nun hiernach das Reale zuletzt immer nur aus der sinnlichen Erfahrung zu schöpfen, so ist die Materie, in sofern sie das der Erfahrung Gegebene überhaupt bedeuten soll, der erste empirische Begriff; denn es wird keine besondere specielle Erfahrung in diesem Begriffe aufgenommen und durch den Gedanken verarbeitet, sondern nur der allgemeine Erfahrungsgegenstand, die allgemeine sinnliche Realität. Fragen wir weiter nach dem Begriffe der Empfindung, so bleibt Kant im Allgemeinen dabei stehen, die Empfindung als das Afficirtwerden von außen zu erklären. „Die Wirkung eines Gegenstandes auf die Vorstellungsfähigkeit, in sofern wir von demselben afficirt werden, ist Empfindung. Diejenige Anschauung, welche sich auf den Gegenstand der
+
+Empfindung bezieht, heißt empirisch.
+
+Der unbestimmte
+
+Gegenstand einer empirischen Anschauung heißt Erscheinung. In der Erscheinung nenne ich das, was der Empfindung correspondirt, die Materie derselben; dasjenige aber, welches macht, daß das Mannigfaltige der Erscheinung in gewissen Verhältnissen geordnet werden kann, nenne ich die Form [p. 202] der Erscheinung. Außer Raum und Zeit soll es nach Kant keine allgemeinen Formen der sinnlichen Anschauung geben. Er sagt ausdrücklich: „Es giebt außer dem Raum keine andere subjective und auf etwas Äußeres bezogene
+
+Vorstellung, die a priori objectiv heißen könnte. Denn man kann von keiner derselben synthetische Sätze a priori, wie von der Anschauung im Raume herleiten. Daher ihnen, genau zu reden, gar keine Idealität zukommt, ob sie gleich darin mit der Vorstellung des Raumes übereinkommen, daß sie bloß zur subjectiven Beschaffenheit der Sinnesart gehören, z. B. des Gesichts, Gehörs, Gefühls, durch die Empfindungen der Farben, Töne und Wärme, die aber, weil sie bloß Empfindungen und nicht anschauungen sind, an sich kein Object, am wenigsten a priori, erkennen lassen. Man darf sich daher nicht einfallen lassen, die behauptete Idealität des Raumes durch bei weitem unzulängliche Beispiele zu erläutern, da nämlich Farben, Geschmack u. s. w. mit Recht nicht als Beschaffenheit der Dinge, sondern bloß als Veränderungen unseres Subjects, die sogar bei verschiedenen Menschen verschieden sein können, betrachtet werden.“ * ) Von der einen Seite sind wir also an die sinnliche
+
+Wahrnehmung und Empfindung gewiesen, um die apriorischen Formen des Wissens mit wirklichem Material zu erfüllen; von der anderen Seite ist aber das Empfundene schon als solches doch wieder nur Erscheinung. Hiernach scheint also das Subject sich schlechthin nur mit sich selbst zu erfüllen; es erscheint als absolute selbständige Totalität, in welche nichts von außen eindringt, welche Inhalt und Form zugleich und eben darum absolut ist.
+
+In der Em:
+
+soll aber das Subject doch von außen afficirt * *) Kritik d. r. P. S. 44.
+
+[p. 203] werden, von einem andern, nicht von sich selbst; nicht das Subject selbst erzeugt die Empfindung, sondern sie wird in ihm gelegt. Hiernach wäre das Empfinden doch der einzige Zustand des Subjects, in welchem dasselbe unmittelbar mit dem Dinge an sich in Berührung käme; denn so lange ich dem Gegenstande, welcher mich afficirt, noch eine sinnliche, oder auch räumliche, zeitliche Bestimmung beilege, fasse ich ihn nicht als das mich afficirende, sondern schon als meine Affection, und ich werde somit nothwendig, um die Empfindung zu erklären, zuletzt auf ein ganz außer dem Subject Liegendes hingetrieben, d. h. auf das Ding an sich afficirt, so ist hiermit offenbar nichts weiter gewonnen, als ein allgemeiner Ausdruck für das unbestimmte Object, nach welchem eben gefragt wird; Materie nenne ich eben das, von welchem die Affection ausgeht. Fällt die Materie schlechthin außer das Subject, so ist sie schon darum nichts anderes als das Ding an sich; fällt sie nach irgend einer Seite in das Subject, oder ist sie Erscheinung, so ist sie nach dieser Seite auch nicht das Etwas, welches mich in der Empfindung afficirt, sondern schon das Empfundene, welches doch wieder ein schlechthin Objectives voraussetzt, soll nicht anders das Subject sich nur durch sich selbst erfüllen. Wird unter
+
+Erfahrung das Aufnehmen des Gegebenen verstanden, so mag freilich für das Denken schon das Empfundene ein gegebener Inhalt sein; für das Subject überhaupt aber ist nur das Ding an sich ein Gegebenes.
+
+Wollten wir nun aber das Ding an sich ohne Weiteres als dasjenige betrachten, von welchem das Subject in der Empfindung afficirt wird, so wäre damit natürlich der Proceß des Empfindens noch nicht begriffen; vielmehr würde unmittelbar die Frage entstehen, wie diese Passivität des Ichs, diese
+
+[p. 204] Affection des Subjects von einem schlechthin anderen, Objectiven möglich sei, d. h. es handelte sich um die Möglichkeit der Empfindung, und somit auch um die Möglichkeit der Materie, in sofern diese als der empfundene Gegenstand erst mit der Empfindung selbst gesetzt wird. Eben diese Frage nach der Möglichkeit der Empfindung wirft Kant nicht auf. So wenig er Raum und Zeit, die Kategorien, die Ideen aus dem Ich deducirt, eben so wenig die Empfindung; er nimmt vielmehr auch diese empirisch auf, er isolirt sie, ohne in ihr selbst die Nothwendigkeit des Fortgangs zu einem Höheren nachzuweisen, und ohne die Formen der Anschauung und des Denkens mit Nothwendigkeit
+
+digkeit auf die Empfindung zu beziehen.
+
+Kant sagt daher in den synthetischen Grundsätzen des reinen Verstandes nur :
+
+jede Empfindung hat einen Grad ; er behauptet aber nicht: die reine Anschauung ist nothwendig auch Empfindung. Indem mit der Empfindung auch ein Object der äußeren Sinne, also Materie gegeben ist, so wäre hiermit die Nothwendigkeit der Materie aus der Form deducirt, was ausdrücklich unmöglich sein soll. * ) Auch folgert die transcendentale Aesthetik die Nothwendigkeit der reinen Anschauung eben daraus , daß wir wohl alle Gegenstände im Raume , aber nicht den Raum selbst sollen fortdenken können. Dies Isoliren der Empfindung , so gewaltsam und anstößig es auch erscheinen mag , ist eine nothwendige Consequenz aus dem unmittelbar vorausgesetzten Gegensatze von Subject und Object.
+
+Wird demnach die Materie zunächst gefaßt als der Gegenstand der äußeren Sinne , so haftet dieser sogenannten metaphysischen Bestimmung die ganze Unklarheit und
+
+Unbegreiflichkeit der sinnlichen Empfindung an. *) Metaphys. Anfangsgründe. S. 321 ,
+
+Es liegt [p. 205] diese Unbegreiflichkeit der Empfindung einfach darin , daß in ihr das Subject mit einem Andern in unmittelbaren Connex tritt , welches als solches nur das reine Object, das Ding an sich sein kann , welches aber unmittelbar in der Empfindung selbst wieder verschwindet , ohne daß diese unmittelbare Berührung des Subjects mit dem Object, diese Affection der reinen Form durch ein anderes , irgend wie vermittelt und begriffen wäre. Kant bleibt nun auch hierbei nicht stehen , sondern setzt sich in den metaphysischen
+
+Anfangsgründen eben die Aufgabe , den Begriff der Materie vollständig zu entwickeln. Hier bilden nun die Kategorien die Principien der Untersuchung , und diese soll nur dadurch eine philosophische Gestalt erhalten , daß der
+
+Begriff der Materie durch alle Kategorien durchgeführt Die Kategorien sind die wesentlichen Formen des wird. Verstandes; nur durch und in den Kategorien denkt der Verstand , und es versteht sich daher innerhalb der Kantischen
+
+Principien ganz von selbst, daß außerhalb der Kategorien und ohne dieselben kein bestimmter Begriff der Materie zu gewinnen ist.
+
+Die Materie denken heißt nichts anderes, als die Kategorien auf die Materie anwenden.
+
+Auch hat
+
+Kant in der Kritik der reinen Vernunft bewiesen , daß die
+
+Kategorien gerade auf Gegenstände der sinnlichen Erfahrung ihre Anwendung finden ; eben dies ist ihr Begriff und ihr wesentlicher Zweck.
+
+Weiter aber fragt es sich , ob durch die Anwendung der Kategorien auf einen sogenannten empirischen Begriff eine wirkliche Erweiterung des Wissens über die synthetischen Grundsätze des reinen Verstandes hinaus erlangt werden kann. Hiergegen erheben sich freilich sehr wesentliche Bedenken . Wenn ich nämlich in dem Begriffe der Materie das Quantitative , Qualitative u . . w. nachweise , so habe ich hiermit noch keine Be:
+
+[p. 206] stimmung gewonnen , welche die Materie von jenen reinen
+
+Gedanken unterscheidet; ich habe also noch nicht die specifische Bestimmtheit des Begriffs der Materie. · Will ich die eigenthümliche Weise erkennen , in welcher die Kategorie der Materie immanent ist, so kann ich dies nur durch den anderweitig, nicht durch die Kategorie, erlangten Begriff der Materie. Der wesentliche Gehalt der Erkenntniß, welcher in den Kategorien liegt , ist in den synthetischen Grundsätzen des reinen Verstandes niedergelegt ; diese Grundsätze beweisen in aller Erfahrung ihre wesentliche Allgemeinheit, allein wenn auch ein bestimmter Gegenstand von außen in sie hinein gelegt würde , so ist in ihnen durchaus sein Princip der Besonderung und Erweiterung enthalten , durch welches dieser empirische Gegenstand seiner eigenen Bestimmtheit entsprechend auch nur als Erscheinung erkannt werden könnte.
+
+Es tritt dies in der Entwickelung des Begriffs der Materie ganz unverkennbar hervor. Noch vor der Anwendung der Kategorien wird die Bewegung für die Grundbestimmung der Materie erklärt , weil ohne Bewegung die Sinne diese für die ganze folgende Untersuchung entscheidende Einsicht scheint also der Hülfe der Kategorien noch nicht zu bedürfen. Wird nun die Materie oder vielmehr die Bewegung zunächst durch nicht afficirt werden könnten -die Kategorie der Quantität gefaßt , d. h. wird in der Bewegung das hervorgehoben , „ was in ihr als Größe betrachtet werden kann " , so hat offenbar diese ganze Betrachtung
+
+, weil die Bewegung nicht bloße Quantität ist, den Begriff der Bewegung zur nothwendigen Voraussetzung.
+
+Kant schickt auch einige Definitionen voran , welche zwar nur formellen Werth haben , weil sie nicht auf die wesentlichen Momente des Begriffs der Bewegung , Raum und Zeit , und deren innere nothwendige Beziehung ein [p. 207] gehen , in welchen aber doch sogleich wieder offenbar wird, daß die eigentliche Sache , um die es sich handelt , außer den abstracten Kategorien liegt. Der wesentliche Gehalt der Phoronomie soll die Lehre von der Zusammensetzung der Bewegung sein ; denn der Begriff der Größe ist die Erzeugung der Vorstellung eines Gegenstandes durch die Zusammensetzung des Gleichartigen ; der Bewegung selbst aber ist nichts gleichartig als wiederum Bewegung , und so führt also die Kategorie der Quantität auf die Frage , wie zwei oder mehrere Bewegungen zugleich eine ausmachen können. * ) Dieser Reflexion liegt offenbar die. Einsicht sehr nahe , daß die Bewegung nur in sofern Quantität ist, als wir von ihren inneren Unterschieden d. h. von ihrem wesentlichen Begriffe, von ihrer Wirklichkeit abstrahiren ; denn die
+
+Gleichartigkeit, welche hier geltend gemacht wird , ist offenbar eine solche Abstraction.
+
+In der Lehre von der Zusammensetzung der Bewegung treten die wesentlichen Momente derselben , also das , wovon zunächst abstrahirt war , nothwendig wieder hervor ; denn sonst wäre diese Zusammensetzung schlechterdings nichts anderes als eine Addition von
+
+Zahlen ; d. h. der bestimmte Gehalt der Untersuchung wird nicht durch die Anwendung der Kategorie der Quantität auf die Bewegung gewonnen , sondern im Gegentheil dadurch , daß auf den Unterschied der Bewegung von der, Quantität reflectirt wird.
+
+Nicht minder einleuchtend ist diese bloß formelle Bedeutung der Kategorien auch in 216 das Qualitative , Reale gilt in der Kritik der reinen Vernunft die unmittelbare Bestimmtheit der Dynamik.
+
+der Empfindung , und indem von dieser der Begriff der Materie als des äußeren Gegenstandes der Sinne abstrahirt *) Metaphys. Anfangsgründe. S. 332.
+
+[p. 208] wird , so erscheint damit die Materie überhaupt zunächst als die allgemeine Realität.
+
+Nun soll eben dieser Begriff der Materie wieder der Kategorie der Qualität untergeordnet werden . Es wird also nach der Bewegung gefragt , welche zur Qualität der Materie gehört. Indem die Frage in dieser Weise gestellt wird , so kommt die entscheidende Wichtigkeit jener ersten Voraussetzung zum Vorschein , daß nämlich die Grundbestimmung der Materie die Bewegung sei. Ferner aber weist nach Kants Untersuchung die Kategorie der Qualität nicht im Entferntesten auf eine ursprünglich bewegende Kraft hin , vielmehr erträgt dieselbe eben so sehr auch die Behauptung : es giebt keine der Materie immanente Kraft , sondern die träge Ausdehnung ist die Qualität der Materie.
+
+Der bestimmte Gehalt der
+
+Dynamik , der Gegensatz zweier Kräfte und die nähere Bestimmung dieser Kräfte , bleibt so wieder ganz außerhalb der angewandten Kategorien liegen. Die Kategorien sind also in der Entwickelung des
+
+Begriffs der Materie entschieden nur formelle äußerliche Gesichtspunkte, welche allerdings die subjective Reflexion nach verschiedenen Seiten hin aufmerksam machen mögen , welche aber durchaus nicht dazu dienen , den Begriff der Sache an und für sich zu erzeugen und in wissenschaftlicher Nothwendigkeit zu formiren.
+
+§. 5. Fortsetzung.
+
+Sehen wir ab von diesem Formalismus , so ist vor Allem der zweite Abschnitt der Anfangsgründe, die Dynamik , von hervorstechender Wichtigkeit. Kant stellt sich hier ausdrücklich der mechanischen Auffassung der Natur gegenüber. Sogleich auffallend in dieser Opposition [p. 209] aber , daß Kant nicht an seine Principien anknüpft, daß er nicht zurückgeht auf die kritische Methode und auf die wesentlichen Resultate, welche in der Kritik der reinen Vernunft bereits vorliegen. Kant macht vielmehr sogleich geltend : die Materie erfülle den Raum nicht durch ihre bloße Existenz sondern durch eine besondere bewegende Kraft; und die Gründe , durch welche er diese Behauptung zu beweisen sucht, lassen von seinen metaphysischen Principien nichts hindurchblicken , ja sind auch innerhalb der mechanischen Naturbetrachtung nichts weniger als fremd und unerhört. Wenn nun aber weiter die Kräfte der Repulsion und Attraction als die wesentlichen Bedingungen für die Existenz der Materie gefaßt werden , wie sollen wir diese Deduction der Materie verstehen ?
+
+Die Materie ist er :
+
+aber wessen ? eben jener Grundkräfte ? Indem diese nicht in die Subjectivität des Wissens zurückgenommen werden , was bleibt Anderes übrig , als sie für das Wesen der Materie zu halten ? Hiermit wären also mit einem Male die Schranken der Subjectivität durchbrochen und das Ding an sich wenigstens in Bezug auf die Materie offenbar geworden. Kant schärft freilich gelegentlich ein, daß die Grundkräfte der Materie unmöglich begreiflich gemacht werden könnten ; denn sie seien eben darum Grundkräfte , weil sie von keiner anderen abgeleitet d. i. gar nicht begriffen werden könnten. Allein eben durch diese Unbegreiflichkeit werden die Grundkräfte mit dem Dinge an sich wesentlich identificirt; und ihr Unterschied von diesem bestände nur darin , daß sie nicht das Wesen überhaupt, sondern das bestimmte Wesen , das Wesen der Materie ausmachten ; diese
+
+Bestimmung des Wesens ist aber unmittelbar ein Begreifen desselben , und die Grundkräfte der Materie wären somit das theilweise definitirte, begriffene Ding an sich. Staller. II.
+
+[p. 210] Wollen wir nicht kant ohne Weiteres einer offenbaren Untreue gegen die wesentlichen Resultate seiner Kritik beschuldigen , so stellt sich ganz von selbst die Frage : wodurch entsteht der Schein dieser Untreue ? ist nicht etwa dieser Schein selbst ein nothwendiger , in den Principien begründeter ? und nicht schon eben darum mehr als ein bloßer Schein , eine principielle Unklarheit ?
+
+Zum Theil haben wir diese Frage schon im Vorigen beantwortet .
+
+Kant läßt das Ding an sich als das reine Object unmittelbar dem Subject gegenübertreten , ohne dasselbe als wesentliches Moment in dem Processe des Sichwissens zu setzen . Indem nun dem Ich die reinen Formen der Anschauung, die Kategorien und Ideen vindicirt werden , so bleibt für die Erfüllung dieser Formen nur die sinnliche Erfahrung oder Empfindung übrig ; durch diese allein als die Passivität des Subjects scheint das Wesen in die Sphäre des Selbstbewußtseins bewußtseins einzudringen .
+
+Soll daher das reine Object nicht nothwendig verwickelt sein in dem Processe des Selbstbewußtseins, so muß auch die Empfindung von den reinen
+
+Formen des Ichs isolirt werden ; es darf nicht behauptet werden : die Anschauung ist nothwendig Empfindung , denn damit wäre das Ding an sich ein wesentliches Moment im Ich selbst.
+
+Eben diesen Zusammenhang des Ichs mit dem Nichtich erhebt Kant nicht zur Bestimmtheit des philosophischen Problems. Wenn nun aber die Empfindung diese unbegreifliche Einheit von Subject und Object ist, dieses Berührtwerden des Subjects durch ein schlechthin Anderes , so hat nothwendig auch der Gegenstand der Empfindung diese Zweideutigkeit an sich ; er ist einmal ein schlechthin Anderes , für das Subject Gegebenes , nicht durch dasselbe Producirtes - damit wäre er das Ding an sich ; zugleich aber hat er als empfundener die Sinnlichkeit an [p. 211] sich selbst, oder er ist nicht das reine Object , sondern das die Empfindung bewirkende , somit das sinnlich kräftige Object ; diese sinnliche Kräftigkeit ist also keine subjective Form , keine Bestimmung , welche das Object durch das Subject erst erhielte , wie es erst in der subjectiven Anschauung zu einem räumlichen , zeitlichen wird ,. sondern der außer dem . Subject existirende, äußerlich an dasselbe herantretende Gegenstand ist an und für sich ein durch seine Kräftigkeit die Sinnlichkeit unmittelbar afficirender. Damit gewinnt der Raum , welcher zunächst nur die reine Form der subjectiven Anschauung war , ganz entschieden eine andere Bedeutung.
+
+Die Materie erfüllt den Raum durch repulsive Kräfte. Die Repulsion ist wesentlich das Setzen der räumlichen Entfernung oder des räumlichen Auseinanderseins überhaupt , also der sich selbst behauptende , an und für sich seiende Raum.
+
+Die Attraction dagegen ist die Negation der räumlichen Entfernung, und zwar ebenfalls die thätige , kräftige, sich selbst setzende Negation. Daß die Attraction im Grunde nur die sich selbst dem Raume gegenüber behauptende Zeit ist , geht aus der Kantischen Darstellung nicht so unmittelbar hervor, ist auch für jetzt außerwesentlich ; genug , die Materie ist durch die ihr immanente Repulsion und Attraction das sich selbst setzende Auseinander , und eben wegen dieser activen Räumlichkeit nicht mehr nur in der Beziehung zum Subject sondern an und für sich räumlich. Wir können es daher unmöglich zugeben , wenn Kant diese objective
+
+Räumlichkeit gelegentlich wieder in die Subjectivität zurücknimmt. So sucht er z. B. den Widerspruch, der unend: lichen Theilbarkeit der Materie dadurch zu lösen , daß er urgirt, der Raum sei nur Form der sinnlichen Anschauung und die Materie die bloße Erscheinung unserer äußeren 14 *
+
+[p. 212] Sinne . *) Hiermit ist nun freilich zur wirklichen Lösung der Schwierigkeit im Grunde nichts gewonnen ; denn wenn nun auch die Materie immer nur so viele Theile hat , als wir ihr in unserer Vorstellung zuertheilen , so geht doch diese Theilung in der Vorstellung ebenfalls ins Unendliche, und zwar stellen wir das ins Unendliche Theilbare zugleich als ein Ganzes vor , so daß die Vorstellung eben die Momente , aus welchen der Widerspruch entstehen soll , ganz Allein abgesehen hiervon , unvermittelt in sich enthält . Kant selbst urgirt, daß die Theilbarkeit der Materie nur dann eine wirkliche , nicht bloß mathematische sei, wenn die Materie den Raum durch repulsive Kräfte erfülle ; dann nämlich sei jeder Theil auch wirklich von den anderen zu trennen und als materielle Substanz für sich zu setzen . Ist dem nun dieser durch repulsive Kräfte erfüllte Raum d. h. dieser sich selbst setzende kräftige Raum oder die Materie sammt ihren Kräften doch nur unsere subjective Anschauung eines an sich unerkennbaren Inneren ? Entschieden ist dies die nothwendige Consequenz der Kantischen Principien . Indem wir nicht das Wesen sondern nur Erscheinung erkennen , so ist das Wesen von allem Schein einer weiteren Bestimmtheit zu reinigen und als reines Object zu setzen ; und eben so ist von der anderen
+
+Seite alles Erkennen als ein Erkennen der Erscheinung zu sehen und somit ausdrücklich auf das Wissen des Subjects von sich selbst zurückzuführen . Dadurch würde unmittelbar auch der Schein fortfallen , welcher auf der Kritik der reinen Vernunft schwer genug lastet , als wenn nämlich das Ding an sich unmittelbar und äußerlich die Bestimmtheit der Empfindung bewirke ; aber freilich würde damit auch sogleich die Frage: wie überhaupt eine Bestimmtheit in das reine Ich eindringen könne, *) Siehe oben S. 138.
+
+[p. 213] in den Vordergrund treten , und sobald nur diese Frage in ihrer ganzen Wichtigkeit erkannt wird , so ist es auch um das Ding an sich in dem Kantischen Sinne geschehen . Jene Consequenz, welche wir fordern , erfaßt also den innersten Kern der Kantischen Philosophie, und ist im Grunde keine andere 'als diejenige , auf welche unsere kritische Untersuchung uns immer schon hingeführt hat : das Ich ist als das zu sehen , was es in der Kantischen Philosophie sein soll, nämlich als Princip alles Wissens. Die Fichtische Philosophie ist es , welche diese Consequenz einseitig zog und so die Kantische Philosophie nicht an einzelnen Punkten verbesserte, sondern von ihrem Princip aus über sich selbst hinausführte. Die Nothwendigkeit dieser
+
+Consequenz dringt sich am meisten auf in der Kantischen Lehre von der Empfindung. Hierüber erhoben sich denn auch die ersten wesentlichen Bedenklichkeiten. Einige Kantianer ließen ohne Weiteres das empfindende Subject von dem Ding an sich afficirt werden.
+
+Fichte sagt unter Anderem hierüber : „ So lange Kant nicht ausdrücklich mit denselben Worten erklärt , er leite die Empfindungen ab von einem Eindrucke des Dinges -an : sich , oder , daß ich seiner Terminologie mich bediene , die Empfindung sei in der Philosophie aus einem an sich außer uns vorhandenen transcendentalen Gegenstande zu erklären , so lange werde ich nicht glauben , was jene Ausleger uns von Kant berichten . Thut er aber diese Erklärung , so werde ich die Kritik der reinen Vernunft eher für ein Werk des Zufalls halten , als für das eines Kopfes .” *) Offenbar würde das Ding an sich , wenn es unmittelbar unsere Sinnlichkeit afficiren soll, eben dadurch selbst zu einem sinnlichen , *) Philos. Journal von Niethhammer und Fichte, Jahrg. 1797. Heft 4. S. 370 .
+
+[p. 214] materiellen ; oder , von der anderen Seite gefaßt, die Materie wäre , wenn wir die ihr immanenten Kräfte als das reine objective Wesen derselben betrachten , eben jener unmittelbar die Empfindung berührende und dabei doch transcendentale Gegenstand. So entfernt nun auch sicherlich Kant selbst davon war , diese Kräfte unmittelbar mit dem
+
+Ding an sich zusammenfallen zu lassen , und so entschieden er auf unsere Anfragen darüber erklärt haben würde , das
+
+Ding an sich , das reine Wesen bleibe auch in Bezug auf die Materie dem menschlichen Denken unerkennbar , so ist es doch durchaus nicht zu verwundern , wenn Kant bei diesem entschiedenen Festhalten des subjectiven Idealismus doch der Fichtischen Philosophie d. h. den wirklich gezogenen Consequenzen gegenüber sich abwehrend aussprach. Ohne diese partielle Unklarheit des subjectiven Denkens gäbe es nie und nimmermehr eine Geschichte.
+
+Auch Schelling fordert in seinen Ideen zu einer
+
+Philosophie der Natur zur letzten Vervollständigung der Kantischen Deduction der Materie die Zurückführung der
+
+Kräfte auf die Thätigkeiten des Geistes. * ) Im Wesentlichen ist diese Untersuchung den Fichtischen Principien entsprechend , jedoch mischen sich , wie in allen diesen ersten
+
+Schriften Schellings , Momente ein , welche über die Fichtische Philosophie hinausliegen. Schelling unterscheidet in der Deduction der Materie das analytische und synthetische Verfahren. Das analytische Verfahren zeigt durch eine Analysis des Begriffes der Materie , daß sie überhaupt gedacht werden muß als ein Raum Erfülendes, und daß wir daher als Bedingung ihrer Möglichkeit ent: *) Schellings Ideen zu einer Philosophie der Natur. Landshut 1805. S. 299 ff.
+
+2te Zurg.
+
+[p. 215] gegengesetzte Kräfte voraussetzen müssen. Bei diesem analytischen Verfahren soll aber die Nothwendigkeit des Begriffes gar leicht unter der Hand verschwinden ; auch soll man durch die Leichtigkeit, ihn in seine Bestandtheile zu zerlegen , dazu verführt werden , ihn als einen willkührlichen selbstgemachten Begriff zu betrachten.
+
+Sicherer
+
+sei daher das synthetische Verfahren , in welchem man den
+
+Begriff vor seinen Augen entstehen läßt, und so in seinem Ursprunge zugleich den Grund seiner Nothwendigkeit findet. Worin liegt nun , fragt Schelling , der letzte Grund der attractiven und repulsiven Kraft der Materie ? Die Materie soll außer uns wirklich sein ; nichts aber ist wirklich für uns , als was uns ohne alle Vermittelung durch Begriffe , ohne alles Bewußtsein unserer Freiheit, unmittelbar gegeben ist.
+
+Nichts aber gelangt unmittelbar zu uns anders als durch die anschauung, und deßwegen ist Anschauung das Höchste in unserer Erkenntniß. „ In der Anschauung selbst also müßte der Grund liegen , warum der Materie jene Kräfte nothwendig zukommen. Es müßte sich aus der Beschaffenheit unserer äußeren Anschauung darthun lassen , daß , was
+
+Object dieser Anschauung ist, als Materie D. h. als Product anziehender und zurückstoßender Kräfte angeschaut werden muß. Sie wären also Bedingungen der Möglichkeit äußerer Anschauung, und daher stammte eigentlich die Nothwendigkeit , mit der wir sie denken . " Allem Vorstellen und Denken geht nothwendig voran eine ursprüngliche und damit unbestimmte und unbeschränkte Thätigkeit.
+
+Auf diese ursprüngliche Thätigkeit wirkt eine ihr entgegengesetzte , gleichfalls unbestimmte Thätigkeit. Woher diese entgegengesetzte Thätigkeit stamme, ist ein Problem , welches wir ins Unendliche aufzulösen stre [p. 216]ben müssen , aber nie real auflösen werden. Durch jene Einwirkung aber kann die ursprüngliche Thätigkeit nicht vernichtet sondern nur beschränkt oder reflectirt werden , und somit sind also im Gemüthe vereinigt Thätigkeit und Leiden , eine ursprünglich freie und in sofern unbeschränkte Thätigkeit nach außen , und eine andere , dem Gemüthe aufgedrungene Thätigkeit auf sich selbst. Die letztere kann man betrachten als die Schranke der ersteren ; diese erstere ist rein positiv und geht ins Unendliche , jene dagegen ist negativer Art und giebt der unendlichen Thätigkeit Ziel , Grenze , Bestimmtheit. Soll aber das Gemüth sich beschränkt fühlen , so muß es diese zwei entgegengesetzten Thätigkeiten frei zusammenfassen ; das Product dieser Handlung wird nothwendig , wie jedes Product entgegengesetzter Thätigkeiten , ein endliches sein ; und zwar wird es , da es gemeinschaftliches Product unbeschränkter und beschränkender Thätigkeit sein soll , beide Thätigkeiten als Momente in sich fassen. Auch ist festzuhalten , daß diese beiden Thätigkeiten nothwendig auf einander hinweisen , und jede nur in der Beziehung zu der anderen wirklich ist. Diese Handlung des Geistes nun , in welcher er aus Thätigkeit und Leiden , aus unbeschränkter und beschränkender Thätigkeit in sich selbst ein gemeinschaftliches Product schafft, heißt Anschauung.
+
+Aus diesem ursprünglichen Streite entgegengesetzter Thätigkeiten im Geiste geht erst eine wirkliche Welt hervor.
+
+Mit dem unendlichen Geiste erst ist auch eine
+
+Welt (der Spiegel seiner Unendlichkeit) da , und die ganze Wirklichkeit ist doch nichts Anderes als jener ursprüngliche Streit in unendlichen Productionen und Reproductionen . Kein objectives Dasein ist möglich , ohne daß es ein Geist erkenne, und umgekehrt : kein Geist ist möglich , ohne daß eine Welt für ihn da sei.” Indem aber der Geist den steten Wech [p. 217] sel der entgegengesetzten Thätigkeiten dadurch endet , daß er frei zu sich selbst zurückkehrt , sich als freies , selbständiges Wesen fühlt, so kann er dies nicht, ohne zugleich dem Producte , das ihn gefesselt hält , Selbstdasein und
+
+Unabhängigkeit zu geben . Jetzt zuerst stellt er sich, als freies betrachtendes Wesen , dem Wirklichen gegenüber, und jetzt zuerst steht es , als Object , vor dem Richterstuhle des Verstandes ; subjective und objective Welt scheiden sich ; die Anschauung wird Vorstellung. In diesem Objecte sind nun aber jene entgegengesetzten Thätigkeiten permanent geworden . Der geistige Ursprung des Objects liegt jenseits des Bewußtseins ; denn mit ihm erst entstand das Bewußtsein . Es erscheint daher als Etwas , das völlig unabhängig von unserer Freiheit da ist, und jene entgegengesetzten Thätigkeiten , die die Anschauung in ihm vereinigt hat , erscheinen als Kräfte , die dem Objecte an sich selbst, ohne alle Beziehung auf die Erkenntniß , zukommen . Kraft überhaupt ist ein bloßer Begriff des Verstandes , also Etwas, was unmittelbar gar kein Gegenstand der Anschauung sein kann.
+
+Aus dem Verstande entsprungen, läßt er völlig unbestimmt, was ursprünglich auf uns gewirkt hat; denn er gilt nur von dem Producte der Anschauung, in sofern ihm der Berstand Substantialität (Selbstdasein) gegeben hat. Das Product ist aber nichts Ursprüngliches, sondern das gemeinschaftliche Product entgegengesetzter Thätigkeit. Die Grundkräfte der Materie sind also nichts weiter als der Ausdruck jener ursprünglichen Thätigkeiten für den Berstand, die Reflexion, nicht das wahre Unsich, welches nur in der Anschauung ist. Nachdem nun Schelling im Allgemeinen nachgewiesen, wie der unbeschränkten Thätigkeit die repulsive Kraft, der beschränkenden dagegen die attractive Kraft [p. 218] entspreche, fährt er fort: „Nun sind 'wir mit unseren Untersuchungen bei dem Punkte angekommen, wo der Begriff von Materie einer analytischen Behandlung fähig wird und die Grundsätze der Dynamik aus diesem Begriffe allein mit Fug und Recht abgeleitet werden können. Dieses Geschäft aber ist in Kants metaphysischen Anfangsgründen der Naturwissenschaft mit einer solchen Evidenz und Wolständigkeit geschehen, daß hier nichts weiter zu leisten übrig ist.“ Hiermit gewinnt es den Anschein, als könnte man dem analytischen Verfahren Kants die von Schelling so genannte synthetische Deduction der Materie ohne Weiteres vorausstellen, ohne damit etwas anderes gethan zu haben als die Kantische Untersuchung supplirt und zwar ganz innerhalb ihrer eigenen Gedankensphäre. Dagegen müssen wir uns aber entschieden opponiren. Den Kantischen Principien gemäß giebt es gar keine andere Deduction der Materie, als die von Kant gegebene analytische, und diese allein ist die der Kritik der reinen Vernunft entsprechende. Unsere kritischen Betrachtungen haben dies hinlänglich erwiesen. Auch zeigt die angeführte Schellingsche Untersuchung unmittelbar, welche wesentliche Umgestaltung die Kritik der reinen Vernunft erfahren muß, soll die analytische Deduction der Materie zum absoluten
+
+Begreifen ihrer Nothwendigkeit fortgehen. Hiermit entsteht nun aber sogleich eine weitere Schwierigkeit. Führen wir in ähnlicher Weise als Schelling die Kräfte der Materie auf den Proceß des Selbstbewußtseins zurück, so ist damit die Annahme dieser entgegengesetzten Kräfte in der Materie von dem Princip aus als nothwendige erwiesen. Wird aber der Begriff der Materie nur analysirt, so erscheinen die Reflexionen, durch welche jene
+
+Kräfte gefunden werden, von dem Princip aus als zufällige; die Dynamik wäre sonach ein glücklicher Fund, [p. 219] welchen Kant nicht Kraft seiner Principien gethan hätte, sondern durch eine ganz besondere außer seinem wissenschaftlichen Denken fallende Genialität, Gewissermaßen und mit bestimmter Beschränkung ist dies allerdings vollkommen richtig. Die principielle Nothwendigkeit der Dynamik hat sich Kant nicht zum Bewußtsein gebracht; denn dies wäre ganz entschieden eine Zurückführung der entgegengesetzten Kräfte auf das Ich. Trotz dem aber bewegt sich seine Reflexion im wesentlichen Zusammenhange mit seinen Princi:
+
+pien. Das Denken, welches hier den Begriff der Materie analysirt, ist nicht das Cartesische sondern das Kantische Denken, d. h. dasjenige welches in der empirisch gegebenen objectiven Welt nicht ein dem Geiste wesentlich Entgegengesetztes findet, gegengesetztes findet , sondern die Erscheinung eines unbe: tannten Grundes für das Ich.
+
+Wie in der Kritik der reinen Vernunft das Ich eine ursprüngliche Synthesis ist, so findet Kant auch in der Materie eine ursprüngliche Synthesis von Kräften, welche nichts anderes sind als die objective Erfüllung der wesentlichen Formen der subjectiven Anschauung. Somit ist in dieser Analysis der Materie an sich schon enthalten, was die weitere Entwickelung der Kantischen Principien als wirklich zu leben und zum klaren Bewußtsein zu erheben hat. §. 6. Fortsetzung.
+
+Mit dieser principiellen Unklarheit der Kantischen Dynamik hängen die weiteren Mängel derselben nothwendig zusammen.
+
+Vor allem das äußerliche undialektische Verhalten der entgegengesetzten Kräfte zu einander. *) *) Vergl. Hegels Logik; erster Theil S. 201 ff.
+
+Kant [p. 220] zeigt nur, daß die Repulsion allein keine Materie zur Folge haben könne, und eben so wenig die bloße attraction; zur Materie sind also beide Kräfte gleich nothwendig. Allein
+
+Kant zeigt nicht, daß die Repulsion für sich nicht existiren könne ohne Attraction, und umgekehrt die Attraction nicht ohne Repulsion, daß also jede einzelne
+
+Kraft erst zur eigenen Wirklichkeit komme in der Einheit mit der anderen, und somit in ihrem Getrenntsein von der anderen nicht bloß die Existenz der Materie aufhebe, sondern wesentlich sich selbst. Die Repulsion für sich ist das Setzen der räumlichen Entfernung, und ihr Product soll daher der leere Raum sein. In diesem Resultate ist Alles vollbracht, was die Repulsion für sich leisten könnte; damit hat sie aber auch wesentlich aufgehört, denn der leere Raum ist die reine Entfernung, in welchem nichts mehr zu entfernen ist. Denken wir uns aber die Repulsion allein, so ist ihr Resultat auch nicht einmal ein werdendes; denn dies Werden setzt schon eine Beschränkung der Repulsion voraus; vielmehr ist sie von Anfang und unmittelbar der leere Raum selbst d. h. keine Repulsion.
+
+Die Attraction dagegen ist die Negation der räumlichen Entfernung und ihr Resultat daher der Punkt.
+
+In dem
+
+Punkt ist aber auch mit der räumlichen Entfernung die Möglichkeit der Attraction aufgehoben, und auch hier können wir dies Resultat unmöglich als ein werdendes fassen, so lange wir uns die Attraction allein ohne alle Repulsion als wirksam denken.
+
+In der Kantischen Dynamik ist eben diese wesentliche Einheit der entgegengesetzten Kräfte nicht gesetzt; die Analyse findet vielmehr beide Kräfte in der Materie vor, und läßt sie sich äußerlich durch einander beschränken. Durch die wesentliche Einheit werden die Kräfte zu Momenten; daher ist diese Einheit selbst auch nothwendig [p. 221] noch ein anderes als die Erscheinung der sich unmittelbar beschränkenden Kräfte; sie ist die nicht durch die Kräfte bedingte, deren gegenseitige Beziehung regende und begründende Einheit.
+
+Sogleich in der nächsten wesentlichen
+
+Consequenz der Kantischen Principien tritt diese Einheit als Ich auf. Mit der Zurückführung der Kräfte auf das Ich hört das unmittelbare Auseinanderfallen derselben, ihre Selbständigkeit gegen einander nothwendig auf. So sehen wir denn auch, wie Schelling in der angeführten Untersuchung aus den Ideen zur Philosophie der Natur, obwohl er die Kantische Analysis der Materie als eine durchaus vollständige bezeichnet, doch in der Relation derselben an diesem Punkte ganz entschieden der Kantischen Ansicht ungetreu wird. Die dem analytischen Verfahren vorangestellte synthetische Deduction der Materie kann es unmöglich vergessen, daß Repulsion und Attraction sich gegenseitig voraussetzen; eben diesen inneren nothwendigen Zusammenhang der entgegengesetzten Kräfte urgirt denn auch Schelling ausdrücklich. *) Dies äußerliche Verhalten der Kräfte zu einander zeigt sich in der Kantischen Dynamik noch in anderer Weise.
+
+Zunächst haben die Kräfte nur die Bedeutung, die Bedingungen für die Existenz der Materie zu sein; die Materie ist. nur durch deren gegenseitige Beschränkung. Weiter aber werden die Kräfte auch gefaßt als thätig und wirksam in der Beziehung eines schon existirenden Körpers auf einen anderen. Kant läßt diese beiden verschiedenen Wirkungsweisen der Kräfte unmittelbar in einander übergeben, ohne den
+
+Unterschied derselben mit Bestimmtheit hervorzuheben und ohne die Nothwendigkeit ihres Zusammenhanges aufzuweisen, *) Schellings Ideen u. P. W. S. 328 ff.
+
+[p. 222] Der Unterschied der Kräfte selbst erhält aber hierbei eine nähere Bestimmung. Die Repulsion soll als Flächenkraft nur in der unmittelbaren Berührung wirken, die Attraction dagegen als durchdringende Kraft in die Ferne.
+
+Es scheint dieser Unterschied unmittelbar aus der Natur jener Kräfte hervorzugehen. Indem nämlich die Repulsion das Setzen der räumlichen Entfernung ist, so ist ihr Ausgang das Nichtsein der Entfernung, also der Punkt, d. h. sie wirkt nur von der Berührung aus. Die Attraction dagegen hebt die räumliche Entfernung auf, beginnt also von der Existenz derselben, und ist so nothwendig Wirkung in die Ferne. Schränken wir aber die Repulsion nur auf die Berührung ein, so kommt sie offenbar gar nicht zur Realität. Denn in der Berührung selbst ist sie nicht; hört sie mit jeder kleinsten Entfernung auf, so verschwindet sie unmittelbar in ihrem Entstehen, und kommt so nie zur Existenz. Der Begriff der Repulsion widerspricht aber dieser Einschränkung. Denn die Repulsion ist das Setzen der Entfernung überhaupt, und somit ist jede bestimmte Entfernung schon eine Negation derselben, gegen welche sie ankämpft, schon eine Nähe, eine graduelle. Berührung. Wollten wir der Attraction eine analoge Beschränkung zuertheilen, so würden wir behaupten müssen: die Attraction wirkt nur in der absoluten Ferne, in jeder beschränkten Entfernung hört sie auf; dann aber käme die Attraction offenbar auch nicht zur Existenz. Auch hier also zeigt sich wieder, wie durch eine abstracte Trennung der Kräfte von einander ihre Wirksamkeit wesentlich vernichtet wird.
+
+Indem nun Kant die Repulsion als eine Flächenkraft faßt, so stellt er sich sogleich zwei verschiedene sich einander berührende Körper vor.
+
+Diese Körper drücken einander und reagiren gegen diesen Druck, und eben dies ist die Thätigkeit [p. 223] der Repulsion. Diese setzt also keine Entfernung zwischen den Körpern, sondern verhindert nur ihr Zusammengedrücktwerden auf einen Punkt. Wenn nun aber weiter die repulsive Kraft keinen entfernteren Theil in Bewegung setzen soll ohne vermittelst der dazwischen liegenden, so ist dies ein durchaus schiefer und unklarer Ausdruck; er verdeckt deckt nur die Schwierigkeiten , auf die hier wesentlich ein: gegangen werden mußte.
+
+Wenn auch die Repulsion nur die sich berührenden Theile des Körpers in Bewegung setzt, so ist dies doch ein allseitiges Ausdehnen, d. h. Theile treten aus einander, die vorher nicht aus einander waren; die unmittelbare Berührung dieser Theile d. h. ihr Negirtsein zum Punkte wird also aufgehoben. Eben dies Moment wird in der Kantischen Fassung der sogenannten Flächenkraft ganz übersehen, damit geht aber auch alle Wirksamkeit derselben verloren. Auch wenn wir zunächst ganz absehen von der Elasticität, so ist eine kräftige Räumlichkeit, welche ganz innerhalb der Fläche beharrt, der einfache Widerspruch mit sich, nämlich ein Raum, welcher nicht Raum sondern nur Fläche ist. Durch eine solche Repulsion erhielten wir also entschieden keine Raumerfüllung.
+
+Wenn Kant dabei doch die ursprüngliche Elasticität als die wesentliche Wirkung der Repulsion bezeichnet, so bleibt diese doch eben darum ganz unbegriffen, weil die darin enthaltene Wirkung in die Ferne ganz übersehen wird. Oder: es wird der innerlich nothwendige
+
+Zusammenhang der Repulsion mit der Attraction übersehen und eben dadurch die Repulsion zerstört.
+
+Die Attraction soll dagegen wesentlich in die Ferne wirken. In dem Beweise, welchen Kant hierfür führt, kommt die Trennung der Kräfte zum entschiedenen Ausdruck.
+
+!
+
+[p. 224] Wollte man nämlich, behauptet Kant, diese Wirkung in die Ferne leugnen, so würde damit die Attractionskraft abhängig gemacht von der Repulsionskraft; „beide Kräfte sind aber ganz verschiedener Art, und es ist nicht der mindeste Grund dazu, eine von der anderen abhängig zu machen, oder ihr ohne Vermittelung der anderen die Möglichkeit abzustreiten.“ *) Im nächsten liegt es hiergegen eben das geltend zu machen, was Kant sogleich darauf gegen den Versuch, alle Attraction auf Repulsion zurückzuführen, geltend macht. Wie die Materie ohne Attraction nicht einmal Materie sein würde, so ist sie auch ohne Repulsion nicht Materie; schon darum kann also die Materie unmöglich bloß attrahirend wirken; jede Wirkung der Materie ist vielmehr immer beides zugleich, attrahirend und repellirend. Kant selbst unterscheidet aber die Anziehung, wodurch die Materie zur Materie wird, von derjenigen, in welcher materielle Theile oder verschiedene Körper sich gegen
+
+seitig anziehen ; jedoch hebt er diesen Unterschied eben so unmittelbar auch wieder auf, und identificirt beide Weisen der Anziehung schlechthin mit einander. So soll denn die Gravitation die ursprüngliche Erscheinung der Anziehung sein. In der Deduction der Materie hatte die Attraction die wesentliche Bedeutung , die Repulsion zu beschränken . So wenig aber wie diese Repulsion schon ein abstoßen materieller Theile ist, ebenso wenig kann auch die sie beschränkende Attraction schon als Anziehung der Körper gegen einander vorgestellt Indem das wesentliche Resultat der entgegengesetzten Kräfte Materie ist, so folgt unmittelbar , daß durch werden .
+
+diese Kräfte selbst kein leerer Raum gesetzt werden kann ;
+
+*) Siehe oben S. 142, [p. 225] denken wir uns aber die Materie durch irgend welche Gewalt unterbrochen , also materielle Theile durch den leeren Raum von einander getrennt , so kann das Bestreben , diese Trennung wieder aufzuheben , unmöglich als eine Wirkung der Körper auf einander angesehen werden . Höchstens kann man zugeben , daß die Materie , in sofern das gegenseitige Verhältniß ihrer Kräfte noch ein unbestimmtes ist, in den leeren Raum sich hinein verbreiten wird ; allein weiter als bis zu dieser Raumerfüllung reichen die angenommenen Kräfte der Materie nicht; eine wesentliche Beziehung der Körper zu einander ist darin noch nicht gesetzt, und die Attraction in die Ferne daher , wie sie Kant faßt, als Gravitation ist entschieden eine Erschleichung. Die Sache verwickelt sich aber noch weiter. Einmal soll nach Kant die Attraction der Quantität der Materie proportional sein. *) Hiermit wird die Attraction wieder gefaßt als eine Anziehung der Körper gegen einander. Die Quantität der Materie ist aber selbst erst gesetzt durch die Attraction , diese also ein besonderes Moment in der
+
+Materie ; wird dies festgehalten , so stellt sich die Attraction zunächst nicht mit der Materie überhaupt , sondern mit der Repulsion in Verhältniß. **) Je größer die Repulsion , desto geringer die Attraction , und umgekehrt ; der bestimmte Grad der Repulsion ist also unmittelbar auch ein bestimmter Grad der Attraction , und beide Kräfte sind also nicht nur über:
+
+haupt sondern auch in quantitativer Bestimmtheit durch einander bedingt. Ferner aber verwirft Kant auch von dynamischen Principien auf eine Vergleichung der specifisch *) S. oben S. 144. **) S. oben S. 145. daller . II .
+
+[p. 226] ungleichartigen Materien in Betreff ihrer Dichtigkeit *) ; indem nun aber aus dem verschiedenen Verhältniß der
+
+Kräfte zu einander nichts anderes folgen soll, als eben ein verschiedener Grad der Raumerfüllung, so scheint damit die anderweitige specifische Bestimmtheit der Materie ganz außer:
+
+halb alles Begreifens zu liegen. Später **) jedoch will Kant auch diese specifische Verschiedenheit der Materie auf dyna:
+
+mische Principien zurückgeführt wissen , bringt es hier aber auch nicht weiter als bis zu ursprünglich oder specifisch ver: schiedenen Dichtigkeiten. Vor Allem wird hier urgirt, daß der Grad der Repulsionskraft nichts mit der Anziehungskraft, welche der Quantität der Materie gemäß sei, gemein habe, daß daher die Repulsion bei einerlei Anziehungskraft in verschiedenen Materien dem Grade nach ursprünglich verschieden sein könne. Offenbar ist hier wieder die Anziehungskraft gefaßt als Kraft der Körper gegen einander ; ein kleiner Körper wird dieselbe Anziehungskraft ausüben als ein größerer , wenn er nur in demselben Verhältniß dichter ist als dieser. Allein diese größere Dichtigkeit ist als bestimmter Grad der Repulsion doch nothwendig zugleich ein bestimmter Grad der inneren Attraction , und so könnten wir mit demselben Rechte sagen : die innere Anziehung, durch welche der Körper erst zum Körper wird, hat durchaus nichts gemein mit der äußeren Anziehung der Körper gegen einander.
+
+Kant thut hier wirklich nichts
+
+Anderes , als was er in Bezug auf die Unterschiede des Flüssigen , Festen thut , nämlich er beschreibt die specifische Dichtigkeit; daß aber die Möglichkeit derselben aus seinen Principien begreiflich werde, können wir durchaus
+
+*) S, oben S. 148 .
+
+**) S. oben S. 152.
+
+[p. 227] nicht zugestehen. Wollten wir uns auch die Dichtigkeit überhaupt als in den dynamischen Principien begründet einmal gefallen lassen , so erhalten wir doch immer nur die Bestimmung : jeder Körper hat als solcher eine bestimmte Dichtigkeit d. h. einen bestimmten Grad der Repulsion und Attraction ; die Möglichkeit verschiedener Grade ist aber für alle Körper wesentlich dieselbe, so daß zwei Körper unter denselben äußerlichen Bedingungen auch denselben Grad der Dichtigkeit zeigen müssen. Ja , noch mehr ; die Deduction der Materie identificirt die ursprüngliche Attraction mit der Gravitation ; halten wir diese Identität fest , so folgt hieraus unmittelbar die Unmöglichkeit einer ursprünglichen specifischen Dichtigkeit. Es geht hieraus von selbst hervor , was von der chemischen Durchdringlichkeit zu halten ist, welche Kant der mechanischen Undurchdringlichkeit gegenüber stellt. Herbart macht vor allem auf diesen Widerspruch in der Kantischen Naturphilosophie aufmerksam . *) Die Hauptsache jedoch ist, daß die dynamischen Principien bis zur chemischen Bestimmtheit und dem chemischen Pro:
+
+cesse gar nicht hinaufreichen. Das Ineinandertreten verschiedener Dichtigkeiten ist durchaus noch nicht chemischer Proceß.
+
+Im Grunde ist in der von Kant behaupteten chemischen Durchdringung nicht mehr enthalten als in der
+
+Erscheinung der Elasticität. Denn indem der Körper durch die Zusammendrückung dichter wird , so werden neben oder außer einander eristirende materielle Theile in einan:
+
+der gesetzt; oder es findet gerade das Statt , was in der chemischen Durchdringung Statt finden soll: „ zwei Mate
+
+*) Herbarts Metaphysik Bd. 1. S. 54. 15 * [p. 228] rien erfüllen ein und denselben Raum . "
+
+Daß es in der chemischen Durchdringung verschiedene Materien sind , welche zur Einheit zusammentreten , macht keinen wesentlichen Un:
+
+terschied , weil diese Verschiedenheit immer nur in dem
+
+Grade der Dichtigkeit besteht und der Proceß der Vereinigung für die verschiedenen Materien immer nur ein Verdichten oder Verdünnen ist. *)
+
+Auch wenn die verschiedenen Dichtigkeiten als ursprüngliche oder specifische gefaßt werden , so würde sich hieraus für die chemische Vereinigung kein weiteres Moment ergeben , als daß dem Product derselben ebenfalls wieder eine specifische Dichtigkeit Wenn Kant dieser chemischen Durchdringung zukomme .
+
+gegenüber doch die mechanische Undurchdringlichkeit festhält , so soll in dieser nur die Unmöglichkeit behauptet werden , die materielle Ausdehnung durch äußeren Druck schlechthin bis auf den mathematischen Punkt zu negiren ; **) die repulsive Kraft wird eben darum die Kraft der Undurchdringlichkeit genannt , weil vermöge derselben der Körper seine Ausdehnung aller äußeren Gewalt gegenüber festhält , und nur weil der Körper eben durch diese Kraft einen Raum erfüllt, sou es ein Widerspruch sein , daß in den Raum , den ein Ding einnimmt , noch ein anderes eindringen könne. ***) Jedenfalls müßte , wenn wir auf die chemische Durchdringlichkeit reflectiren , die mechanische Undurchdringlichkeit noch anders gefaßt werden , als es hier von Kant geschieht. Die ganze Schwierigkeit drängt sich hier wieder zusammen auf die in der Elasticität gelegte Verdichtung ; diese nämlich soll auch durch die mechanische Undurchdringlichkeit nicht geleugnet werden , und von der *) S. oben S. 151 . **) S. oben S. 136. ***) S. oben S. 136 .
+
+[p. 229] anderen Seite wird die chemische Durchdringlichkeit nur durch den Proceß der Verdichtung erklärlich ; der Proceß der Verdichtung also ist es , in welchem die mechanische Undurchdringlichkeit und die chemische Durchdringlichkeit ver: Was nun aber in dieser Verdichtung eigentlich geschieht, bringt sich Kant durchaus nicht zum klaren Bewußtsein , und so bleiben denn die mechanische Undurch einigt sind.
+
+dringlichkeit und die chemische Durchdringlichkeit unvermittelt außer einander liegen. Eine weitere Schwierigkeit , welche auch für den Begriff der mechanischen Undurchdringlichkeit von wesentlicher Bedeutung ist, entsteht daraus , daß , wie Kant selbst hervorhebt , aus den Grundkräften sich die Starrheit der
+
+Materie nicht erklären läßt.
+
+Wir erhalten vielmehr eine
+
+Materie , deren Theile schlechthin verschiebbar sind , also eine flüssige Materie ; ob wir uns diese luftartig oder tropfbarflüssig denken sollen , bleibt ebenfalls unentschieden . Die von Kant beiläufig hingeworfene Ansicht, es könne die Cohäsion möglicher Weise von dem Drucke des Aethers herrühren , hilft uns offenbar über die Schwierigkeit nicht hinüber. Denn es ist durchaus nicht einzusehen , wie der Aether , welcher vorläufig ebenfaus als flüssig betrachtet werden muß , eine andere flüssige Materie äußerlich drücken kann , ohne sich unmittelbar mit dieser zu vermengen.
+
+Offenbar hat Kant in seiner dynamischen Untersuchung sogleich die Newtonische Entdeckung der Gravitation vor Augen ; diese dem Wesen der Materie zu vindiciren , darum ist es ihm besonders zu thun.
+
+der Annahme einer allgemeinen. Anziehung vor allem die Schwierigkeit entgegensteht , daß eine actio in distans schlechthin unmöglich zu sein scheint, so zeigt Kant , daß im Grunde alle Wirkung eines Körpers auf einen anderen eine Wirk[p. 230]ung in die Ferne ist.
+
+Die Anziehung ist nun aber vorzugsweise und durch und durch eine Wirkung in die Ferne ; ohne Anziehung und Repulsion aber ist die Materie selbst undenkbar , und so ist denn mit der Verwerfung der mechanischen Elemente , der Atome und des Leeren , aus dem dynamischen Begriffe der Materie auch die Erklärung der Gravitation gewonnen. Je mehr nun Kant die Anziehung zu einer äußerlichen Anziehung der Körper werden läßt, und als in die Ferne wirkend der Repulsion als einer bloßen Flächenkraft entgegensetzt, desto mehr droht die letztere zum bloßen Stoße herabzusinken , und desto mehr nähern sich die dynamischen Principien der Newtonischen Naturanschauung. So sehen wir denn Kant im dritten Abschnitt der Anfangsgründe drei Gesetze der Mechanik aufstellen , welche bereits die mechanische Naturbetrachtung in derselben Weise als Grundgesetze anerkannte. Die wesentliche Forderung , diese Gesetze als Gesetze der Erscheinung zu sehen , liegt hier noch ferner als in der Dynamik , und es fragt sich hier nur , in wieweit denn die dynamischen Principien für die bestimmte
+
+Fassung jener Gesetze der Mechanik von Bedeutung sind. In dem Beweise des ersten Gesetzes , daß nämlich die Quantität der Materie im Ganzen dieselbe bleibe , wird als die Substanz in der Materie nur das „Bewegliche im Raume ” betrachtet ; daß diese bewegliche Substanz eine Einheit von Kräften sei und somit einen Grad habe , bleibt ganz außerhalb der Betrachtung liegen. Noch auffallender ist dies in dem zweiten Gesetze, dem Gesetze der Trägheit. Der Beweis dieses Gesetzes stützt sich darauf, daß die Materie, als bloßer Gegenstand äußerer Sinne , keine anderen Bestimmungen habe , als die der äußeren Verhältnisse im Raume. Hiermit ist entschieden nur das Sein im
+
+[p. 231] Raume ausgedrückt , aber nicht die dynamische Raumerfüllung.
+
+Fassen wir die Kräfte der Materie nur als Bedingungen ihrer Existenz, so erscheint die Materie allerdings als aufgehobene Bewegung ; sie bewegt sich also nicht durch sich selbst. Soll aber die Attraction eine Anziehung der Körper gegen einander sein , mit welchem Rechte können .
+
+wir dann noch behaupten , daß der Körper nur durch äußere Ursachen in Bewegung gesetzt werde ? Nothwendig müssen wir dann auch die Attraction unter jene äußeren Ursachen rechnen ; jeder der anziehenden Körper hat ja auch den an:
+
+deren außer sich , und ist so für den anderen eine äußere Ursach. Allein diese Anziehung der Körper gegen einander wird ja aus dem Wesen der Materie . hergeleitet und mit der Anziehung identificirt, welche aller Materie als solcher immanent ist.
+
+Die von einander entfernten Körper regen sich also doch nicht durch eine äußere Ursach in Bewegung , sondern vielmehr durch ihre eigene Innerlichkeit. Hier entsteht aber dadurch eine weitere Aushilfe, daß die Körper sich wenigstens nicht durch sich selbst von einander entfernen sollen ; die der Materie immanente Repulsionskraft vermag als bloße Flächenkraft nicht die Körper aus einander zu werfen und gleichviel ob durch einen leeren Raum oder durch ein sehr dünnes ätherisches Medium von einander zu trennen.
+
+Indem wir aber diese Entfernung durch äußerliche Ursachen bewirkt sein lassen , so kommt diese Äußerlichkeit auch der Attraction zu Gute ; denn diese legt sich immer nur an eine nicht durch die wesentlichen Kräfte der Materie gesetzte Entfernung an , und ist so zulezt doch durch äußerliche Ursachen bewirkt. Wir lassen es dahin :
+
+gestellt sein , ob Kant diesen Reflexionen seine Zustimmung geben würde.
+
+Sicherlich aber bekommt von den dynami schen Principien aus die Trägheit der Materie , zumal [p. 232] wenn wir die Attraction sogleich als Gravitation fassen , einen anderen Sinn , als sie in der mechanischen Natur:
+
+betrachtung hatte.
+
+Die Trägheit der Materie soll nach
+
+Kant nichts anderes bedeuten als ihre Leblosigkeit. Wenn nun aber weiter gesagt wird , daß wir kein anderes inneres Princip einer Substanz, ihren Zustand zu verändern, kennen , als Denken und was davon abhängt, Gefühl und
+
+Begierde , so können wir eben dies nach dem dynamischen Begriff der Materie ro ohne Weiteres gar nicht zugestehen.
+
+Den reinen Gegensatz gegen die innerliche Thätigkeit des Denkens faßt Cartesius ganz richtig als Ausdehnung ; ist die Materie nur dies , so kommt allerdings alle Bewegung von außen d. h. durch äußeren Stoß ; hat dagegen die Materie ursprünglich bewegende Kräfte in sich , so ist damit außer dem Denken noch eine andere Form der inneren Thätigkeit gewonnen , und es bleiben uns , wollen wir die
+
+Kantische Definition von der Trägheit rechtfertigen , keine anderen Reflexionen übrig als die so eben angeführten. Erst zum Beweise des dritten mechanischen Gesetzes, daß nämlich in aller Mittheilung der Bewegung Wirkung und Gegenwirkung einander gleich seien , macht Kant ausdrücklich die dynamischen Principien geltend. Schon im Eingange zur Mechanik hatte Kant behauptet , daß das · Bewegliche durch seine Bewegung keine bewegende Kraft haben würde , wenn es nicht ursprünglich bewegende Kräfte befäße. Dies ist nun offenbar der Hauptpunkt , auf den es hier ankommt : das mechanische Wirken ist nur begreiflich aus dynamischen Principien. Vor Allem ist also die Mittheilung der Bewegung nicht als ein träges Uebergehen eines bestimmten Bewegungsquantums aus einem Körper in einen anderen zu fassen , sondern vielmehr auf eine durch dynamische Principien vermit:
+
+[p. 233] telte Gegenwirkung zurückzuführen ; keine Mittheilung der Bewegung ohne Reaction , keine Reaction ohne innere bewegende Kräfte. Auch von hier aus erscheint das Gesetz der Trägheit sogleich als ein einseitiger Ausdruck ; denn es wird in ihm nur gesagt, daß alle Bewegung durch äußere Ursachen bewirkt werde , dabei aber verschwiegen , daß der in dieser Weise in Bewegung gesetzte Körper bei dieser Passivität zugleich innerlich activ ist. So wichtig es nun auch wäre, diese Abhängigkeit des mechanischen Wirkens von dynamischen Principien zur bestimmtesten Einsicht zu bringen , so läßt doch Kant in der weiteren Untersuchung gerade diesen Hauptpunkt sehr bei Seite liegen ; fast nur in Zusätzen , Anmerkungen wird darauf reflectirt, während eine höchst formelle geometrische Construction in den Vordergrund gestellt wird. Die vorher hervorgehobenen Unklarheiten der Dynamik ziehen sich auch hier durch die ganze Untersuchung hindurch. Zunächst hält Kant fest: die Wirkung des äußeren Stoßes ist bedingt durch ursprüngliche Zurückstoßungskraft. * ) Die Dynamik schloß auf diese ursprüngliche Repulsion vor Allem aus dem Widerstande, welchen ein Körper dem Eindringen eines anderen in seinen Raum entgegensetzt. Hier wird jedoch von der wirklichen mechanischen Bewegung noch gänzlich abstrahirt. Der stoßende oder drückende Körper strebt den anderen auf einen Punkt zu comprimiren ; gegen diese Compression reagirt der Körper, und eben dies ist die Erscheinung seiner ursprünglichen Repulsion. Nun scheint es freilich sehr einfach , daß auch ein sich bewegender Körper ohne diese ursprüngliche Repulsion keinen Stoß auf einen anderen würde ausüben können , und daß eben so sehr dieser andere Körper nur zu reagiren vermöge durch dieselbe ursprüngliche Ausdehnungskraft ‒ hiermit bleibt aber der Hauptpunkt, auf den es jezt ankommt , noch ganz bei Seite liegen. *) S. oben S. 154.
+
+[p. 234] nen , und daß eben so sehr dieser andere Körper nur zu reagiren vermöge durch dieselbe ursprüngliche Ausdehnungskraft ‒ hiermit bleibt aber der Hauptpunkt, auf den es jezt ankommt , noch ganz bei Seite liegen.
+
+Jetzt handelt es sich nämlich nicht bloß darum , daß ein Körper der Compression widerstehe, sondern der mechanischen Ortsveränderung , dem Versetztwerden nicht in einen kleineren sondern in einen anderen Raum. Dieser mechanische Widerstand bleibt durchaus unbegriffen ; denn trotz aller raumerfüllenden Kraft verhält sich der Körper in dem Behaupten eines bestimmten Raumes doch ganz kraftlos , schlechthin träge. Kant selbst aber rühmt sogar von seiner Darstellung dieses dritten mechanischen Gesetzes ausdrücklich , daß „ es in ihr ganz einerlei sei, ob man die Körper , die einander stoßen , allein es absolut-hart oder nicht denken will." * ) Es handelt sich ja gerade um die Einsicht, daß ohne ursprüngliche Repulsion d. i. ohne Elasticität keine mechanische Wirkung und Gegenwirkung möglich sei. Gerade das also, worin Kant die Vortrefflichkeit seines Beweises liegt, ist dessen wesentlicher Mangel. Allerdings ist dieser Beweis kein anderer , als welchen Kant schon in der im J. 1758 ge:
+
+schriebenen Abhandlung : Neuer Lehrbegriff der Bewegung und Ruhe , mittheilt.
+
+Kant widersetzt sich vor
+
+Allem der Trägheitskraft, und zwar eliminirt er diese dadurch , daß er die Ruhe des gestoßenen Körpers in der Stoßbewegung selbst als eine bloß scheinbare faßt.
+
+Mag der gestoßene Körper in Bezug auf andere auch ruhen, in Bezug auf den sich ihm nähernden und ihn im Stoße treffenden ist er eben so sehr in Bewegung als der stoßende Körper; denn die Annäherung , die Negation des Raumes *) Metaphys. Anfangsgr. S. 415. Anm.
+
+[p. 235] d. i. eben die Bewegung ist eine durchaus gegenseitige. Der stoßende Körper trifft also nie einen ruhenden sondern immer einen sich bewegenden , und eben daraus entsteht die Gegenwirkung. Soll aber die Construction der Erscheinung entsprechen , so ist noch ein anderes Moment hinzuzunehmen . Der ruhende Körper muß nämlich sammt seinem Raum in Bewegung gedacht werden , soll nicht das Resultat
+
+des Stoßes immer die sich gegenseitig aufhebende Bewegung oder die Ruhe sein . Wenn es sich bloß um eine formale Construction der Erscheinung handelt , mögen wir uns diese Vorstellung immerhin gefallen lassen ; allein eine begriffliche Rechtfertigung dieser Construction , um die es hier wesentlich zu thun ist, ist hiermit nicht gewonnen. Vielmehr versteckt sich hinter jener Vorstellung doch wieder die alte Trägheitskraft; denn es wird darin dem ruhenden Körper, eben darum weil er im Raume ist, eine besondere .
+
+Gegenwirkung , eine Kraft zugestanden ; und wenn wir nun auch hier die innere Kräftigkeit des Körpers geltend machen wollten , so wäre dadurch das kräftige Beharren in diesem bestimmten Raume doch nimmermehr begriffen.
+
+Dem äußeren Stoß tritt die äußere Anziehung gegenüber , und es wird analog festgehalten : die Wirkung der äußeren Anziehung ist bedingt durch ursprüngliche Un ziehungskraft. Wir haben schon vorher nachgewiesen , daß diese ursprüngliche Anziehungskraft der Materie mit Unrecht von Kant sogleich als Gravitation gefaßt wird.
+
+ES findet also in diesem Sate eine ganz ähnliche Erschleichung Statt als im ersteren. Wenn in diesem ersteren der äußere Stoß auf die innere Repulsionskraft zurückgeführt, aber damit die mechanische Wirkung und Gegenwirkung nur scheinbar begriffen wurde , so wird ähnlich die äußere , somit mechanische Anziehung auf die innere Anziehung zu:
+
+[p. 236] rückgeführt, ohne daß dadurch das , was in jener mehr ist als in dieser, wirklich erklärt wäre. Der durch Anziehungskräfte bewirkten Bewegung will Kant in der Mechanik weiter keiner Erwähnung thun , weil das Gesetz derselben im Wesen dasselbe sei als das Gesetz des Stoßes und sich nur durch die Richtungslinie von diesem unterscheide. *) Dies werden wir Kant ohne Weiteres zugeben , wenn wir uns einmal die äußere mechanische Anziehung gefallen lassen . Reflectiren wir aber darauf, daß es sich in der Mechanik um eine Mittheilung der Bewegung , nicht aber um eine ursprüngliche Ertheilung derselben handelt , so macht sich sogleich der wesentliche Unterschied geltend , daß nur der sich bewegende Körper die Kraft des wirklichen Stoßes hat , dagegen auch der ruhende den außer ihm existirenden anzieht. Ganz gleichgültig ist dieser Unterschied nur in sofern , als nach den Kantischen Principien im Grunde das Eine eben so unbegreiflich ist als das Andere. Kant selbst aber spricht beiläufig „von einem dynamischen Gesetze der Gleichheit der Wirkung und Gegenwirkung der Materien , nicht in sofern eine der anderen ihre Bewegung mittheilt , sondern dieser ursprünglich ertheilt. ” **) Eben durch an:
+
+ziehung soll dies möglich sein. Es ist aber nicht einzusehen, wie es irgend eine Mittheilung der Bewegung durch Anziehungskräfte geben sollte, welche nicht wesentlich eine solche ursprüngliche Ertheilung der Bewegung wäre. §. 7.
+
+Fassen wir die Resultate unserer Untersuchungen über die Naturphilosophie Kants kurz zusammen . *) Metaphys. Anfangsgr. S. 378. **) S. oben S. 160 .
+
+[p. 237] Das objective Wesen der Natur kann so wenig erkannt werden , wie das Wesen überhaupt. Daher dürfen wir denn auch von einer Natur im rein objectiven Sinne im Grunde gar nicht reden ; denn diese wäre nur das reine Object im Allgemeinen , das Ding an sich , der unbekannte Grund aller Erscheinung. Von der Subjectivität unseres Erkennens aus ist daher die Natur zunächst der Complex
+
+der sinnlichen Erscheinungen.
+
+Indem aber ferner das Subject bestimmte allgemeine Formen a priori in Besitz hat , so machen sich diese in dem Erfassen der sinnlichen
+
+Erscheinungen nothwendig geltend , und die Natur wird so zur geordneten gesetzmäßigen Erscheinung. Der Gegensatz von Subject und Object hat ferner in der Kantischen Philosophie die Gestalt der Unmittelbarkeit ; das Ich ist nicht wirklich als Princip alles Wissens gesetzt. Daher stellen sich die besonderen Formen der Subjectivität äußerlich einander gegenüber , ohne daß ihr wesentlicher innerer Zusammenhang an ihnen selbst gesetzt wäre. Dadurch wird die antinomie zu einer charakteristischen Form für die Kantische Philosophie. Auch die Naturphilosophie gestaltet sich wesentlich antinomisch . Vor allem tritt die verständige Fassung der Natur der vernünftigen gegenüber ; in der ersten — der mechanischen werden die sinnlichen Erscheinungen durch die Kategorien , durch die der teleologischen in der zweiten Ideen gefaßt. Innerhalb der mechanischen Betrachtungsweise selbst könnten wir sehr wohl aus den verschiedenen
+
+Reihen der Kategorien eben so viele Antinomien formiren ; vor allem aber sondert sich hier eine dynamische Auffassung von einer im specielleren Sinne mechanischen ab ; dort wird die intensive Raumerfüllung behauptet , hier dagegen die kraftlose Trägheit des Ausgedehnten festge:
+
+[p. 238] halten. Die Lösung dieser Gegensätze wird postulirt , aber nicht wirklich vollzogen ; die nächste , wirkliche Lösung könnte nur dadurch gewonnen werden , daß das Ich als das allgemeine, alle verschiedenen Formen des Wissens als Momente in sich fassendes Princip gelegt würde. Der reinen Erkenntniß a priori tritt nun wieder die
+
+Erfahrung antinomisch gegenüber , und zwar ist diese im abstracten Gegensatz zu den allgemeinen Formen der Complex der Empfindungen . Die Empfindung ist nicht nur subjectiv sondern individuell , d. h. sie ist ohne allgemeine Form , ohne wesentliches durchgreifendes Gesetz. Indem nun aber auf diese a posteriori gegebenen sinnlichen Affectionen die apriorischen Formen angewandt werden , so ist dadurch eine Erweiterung des Wissens über diese Formen hinaus entschieden nicht gewonnen. Vielmehr haben diese Formen an und für sich schon die Bedeutung , nur durch die Anwendung auf das sinnlich Gegebene eine Erkenntniß zu liefern ; erst hierdurch werden sie das was sie sein sollen
+
+, wirkliche Formen des Erkennens. Eine Erweiterung des Wissens wäre wesentlich auch der Gewinn einer neuen Form . Jedoch soll schon nach der Kritik der reinen Vernunft : alle Empfindung einen Grad haben ; dies ist also schon ein identisches in allen Empfindungen . Auch faßt sich die Empfindung schon dadurch , daß sie den allgemeinen Formen gegenüber gestellt wird , zur Allgemeinheit in sich zusammen ; sie ist nicht Moment eines Anderen , sondern für sich. Damit wird aber auch der Gegenstand der Empfindung trotz aller weiteren Besonderheit ein allgemeiner , identischer, er ist die Materie überhaupt, und so wäre denn innerhalb der Erfahrung selbst eine Allgemeinheit und somit ein Wissen gefunden .
+
+schen . Anfangsgründe
+
+Die metaphysi .
+
+der Naturwissenschaft
+
+[p. 239] sind es , welche diesen Begriff des empirisch Gegebenen a priori zu entwickeln haben , und sich also als ein Mittelglied zwischen das rein apriorische Erkennen und die Erfahrung einschieben. Nothwendig müssen sich in dieser Entwickelung sämmtliche allgemeine Antinomien . wieder geltend machen ; die Untersuchung in den Anfangsgründen ist daher auch wesentlich unvollständig , weil sie die
+
+Materie nicht zugleich von teleologischen Principien aus in Betracht zieht.
+
+Vor Allem ist nun aber damit der Gegensat zwischen Erfahrung und Wissen a priori nichts weniger als wirklich gelöst. Für die nähere Bestimmung des allgemeinen Begriffs der Materie muß wieder zurückgegangen werden auf die allgemeinen Formen a priori ; indem aber die Materie im allgemeinen nicht ein sinnlich Gegebenes sondern ein „ empirischer Begriff” ist, so werden die Kategorien zu äußerlichen Gesichtspunkten , und die sich an sie anlegenden Reflexionen resultiren weder aus einer durchgearbeiteten Erfahrung, noch sind sie wirklich philosophisch begründet. Die Forderung der Anfangsgründe, die Begriffe zugleich mathematisch zu construiren , löst diese Schwierigkeit nicht. Es soll ein empirisch gegebener Gegenstand begriffen werden ; dies kann , wie alles Begreifen , nur a priori geschehen ; das Begreifen a priori ist aber wieder nur eine Einsicht in die Möglichkeit des Gedankens , nicht aber des Wirklichen ; es muß also die Anschauung hinzutreten , und zwar , da es sich um eine Erkenntniß a priori handelt , die Anschauung a priori d. h. die mathematische Anschauung. *) Der in der sinnlichen Anschauung gegebene Gegenstand soll also durch das Erkennen nicht bloß in den reinen Begriff sondern auch in ** S. Anfang gr. S. 309.
+
+[p. 240] die reine Anschauung erhoben werden ; durch die Kategorie streife ich das Sinnliche von ihm ab , durch die Construction versetze ich ihn wieder in die Sinnlichkeit hinein , die aber nun eine ideelle allgemeine, somit unsinnliche geworden ist. Erst diese auf die Kategorie sich stützende mathematische Construction ist der wirkliche Begriff des sinnlich Gegebenen.
+
+Schon darum aber , weil sich die Con struction auf den Begriff stützt, haftet ihr dieselbe Schwierigkeit an als dem Begreifen ; auch ist sie nichts anderes als die Ausführung der im Begriffe enthaltenen quantitativen Bestimmung , also eines einzelnen Moments , welches, da es nicht den ganzen Gehalt des Begriffs ausmacht, seine bestimmte Bedeutung immer nur erhält durch die
+
+Beziehung auf die der Construction vorangehende begriffliche Untersuchung.
+
+Man hat der Behauptung Kants :
+
+in jeder besonderen Naturlehre sei nur soviel eigentliche Wissenschaft enthalten als Mathematik darin enthalten sei, von Seiten der empirischen Physik oft mit großer Haft
+
+2 Aci seine vollkommenste Zustimmung gegeben , dabei aber jenen Ausspruch in einem Sinne genommen, den er bei Kant gar nicht hat. So sehr auch Kant seinen Principien gemäß auf eine mathematische Construction dringt, so soll doch dieser immer eine begriffliche Untersuchung vorausgehen , und es . fällt Kant nicht im Entferntesten ein, die Physik als Wissenschaft in die Mathematik aufgehen zu lassen. Auch die metaphysischen Anfangsgründe bescheiden sich nur die abstracte Basis der Natur a priori zu erfassen, und weisen so ebenfalls wieder in die Erfahrung hinüber, von dieser die concretere Erfüllung des Wissens erwartend. Auch wegen dieser Enthaltsamkeit in dem Construiren a priori und dieser Anerkennung der Erfahrung wird Kant von den [p. 241] empirischen Physikern bisweilen in einer Weise gerühmt, als wäre er der eifrigste Anhänger Locke's und Newton's. Jedoch ist nicht zu übersehen , daß der durch die Kategorien bestimmte Begriff der Materie die allgemeine Basis für alle weitere Erfahrungen bildet , daß diese sich also immer nur innerhalb jenes Begriffs bewegen , nur eine Erfüllung dieses Begriffs sind , aber keine Erweiterung des Wissens über ihn hinaus. Wenn Kant , um die wesentlichen Bestimmungen der Materie auf die Bewegung zurückzuführen , sich darauf beruft, daß nur durch Bewegung die Materie auf die Empfindung wirken könne , so hat er hier vor
+
+Allem die Empfindung des Druckes , der Schwere im Sinne. Gehen wir dagegen z. B. von der Empfindung des Sehens aus , so ist weder jene Behauptung noch die dynamische Construction der Materie so einfach daraus abzuleiten. Wie in diesen Reflexionen alles Empfinden als ein Fühlen er scheint, so lösen sich analog alle Bestimmtheiten der Materie in verschiedene Grade der intensiven Raumerfüllung auf. Eben diese dynamische Qualität der Materie ist das allgemeine Princip für alle besondere Qualitäten , und die
+
+Erfahrung kann nie Qualitäten entdecken , nie Gesetze für deren Verbindung finden , welche nicht auf dies allgemeine Princip zurückgeführt werden müßten. Daß diese Principien selbst durch Thatsachen der Erfahrung widerlegt werden könnten , wird Kant nimmermehr zugeben.
+
+Im Be :
+
+sondern ist dieser Unterschied zwischen dem a priori Wißbaren und dem a posteriori zu findenden bei Kant steht schwankend. * ) Mögen sich die Gesetze der Natur zuerst der Erfahrung darbieten , so entziehen sie sich doch dadurch noch durchaus nicht nothwendig einer Construction a priori, *) S. bef. unten S. 83. 145. 152. Schaller. II.
+
+[p. 242] Vielmehr sind sie durchgängig mit dem Begriffe der Materie zusammen zu halten , um über ihre Stellung zum subjectiven Wissen zu entscheiden. Als nothwendig kann ein Gesetz erst betrachtet werden , wenn es a priori con:
+
+struirt ist; unmittelbar hierdurch aber wird dasselbe auch zu einer wesentlichen Form der Subjectivität ; ein wirkliches in sich nothwendiges Gesetz der Natur ist es eben dadurch, daß es in dem Begriffe des subjectiven Denkens begründet , nicht bloß der Zufälligkeit der Individualität angehört , sondern der allgemeinen Beziehung des Subjects zum Object. Der Verstand giebt der Natur die Gesetze. Was ist nun aber mit den Thatsachen anzufangen , welche nicht in ihrer Nothwendigkeit erkannt , also nicht a priori deducirt werden können ? Fürs Erste sind diese Thatsachen auch von teleologischen Principien aus zu betrachten. Gelingt es , in ihnen die innere Zweckmäßigkeit , also den Proceß des Lebens aufzufinden , so sind sie dadurch von ihrer Zufälligkeit befreit , und ebenfalls den allgemeinen wesentlichen Formen der Subjectivität untergeordnet. Die Idee des Lebens ist kein zufälliger , sondern nothwendiger , d. h. im Begriff des subjectiven Erkennens begründeter Gedanke. Ist jedoch die innere Zweckmäßigkeit nicht an den empirischen
+
+Thatsachen zu entdecken , so bleibt nichts übrig , als dieselben nach den allgemeinen Principien der Homogenität , Specification und Continuität zu combiniren , zu unterscheiden und systematisch zu ordnen. *) *) Wie sehr Kant selbst diesem unbefangenen Interesse an den empirischen Erscheinungen , verbunden mit der Tendenz , dieselben winni auch nur äußerlich systematisch zu ordnen , durch sein ganzes Leben hindurch sich hingab 1, sehen wir besonders aus seinen Vorlesungen über physische Geographie , welche Kant schon seit dem Jahre 1765 vor einem gemischten Publicum hielt und bis in
+
+[p. 243] Begnügen" wir uns hiermit noch nicht, sondern stellen weiter die Frage : worin hat die specifische Bestimmtheit jener Thatsachen , welche wir nur äußerlich zu ordnen vermögen und welche daher ihrem wesentlichen Gehalte nach außer den allgemeinen Formen der Subjectivität liegen bleiben , ihren wesentlichen Grund , so werden die Kantischen Principien auf diese Frage uns keine bestimmte und entsprechende sein höchstes Alter fortsetzte. Treffend sagt Rosenkranz über dieselben : Mit rastloser Wißbegier suchte Kant seine Kenntniß auf diesem Gebiet zu vermehren und mit unermüdlichem Fleiß zu ordnen. Zwar hat er keine Revolution auf demselben hervorgebracht.
+
+Geschichten desselben von Fachkundigen erwähnen seiner nicht einmal , aber gewiß hat er zur verständigen Organisation des von
+
+Jahr zu Jahr schnell wachsenden Materials und zur Erhöhung der Empfänglichkeit des Publicums für diesen Stoff außerordentlich viel beigetragen. Referirend ließ er sich hier auch auf die organische Natur ein und vergaß nicht, im Geschmack der Zeit den Nutzen der Naturproducte und ihre Verarbeitung zu Fabrikaten zu vermerfen . Am meisten flocht er Ethnographisches hinein und verhielt sich dabei oft ganz herodoteisch . Er erzählt von gar seltsamen Dingen, nicht gerade gläubig , aber auch nicht vornweg ungläubig. Er hat es in den Reisebeschreibungen so gelesen .
+
+Da im Leben der Natur und der Völker wirklich so viel Wunderbares vorkommt, so will er mit weltmännischer Toleranz dem zwar Wunderlichen und Bedenklichen , allein doch nicht geradezu Unmöglichen , nicht voreilig das Dasein absprechen. Sehe der Hörer zu , wie er's verdaut ! Man könnte von der Natur und den Nationen sagen , daß Kant in ihrer Betrachtung seine Poesie gehabt habe . Seine Phantasie hat hierin , wenn man seine Virtuosität im abstracten Denken erwägt, eine außerordentliche Kraft bewiesen. Die ganze Erde mit ihren Höhen und Tiefen , Flüssen und Wasserbecken , Steinen 1, Pflanzen und Thieren , lag vor seinem Zuge in der größten Klarheit , das Bild mancher Städte bis in die Verwickelung ihrer Gassen hinein vor ihm aufgerollt. Und wie waren die Naturwissenschaften noch zurück ! Man versteht Kants Philosophie von Seiten der Oekonomie seines Geistes nur halb , wenn man in ihm diesen Durst nach dem Realismus der thatsächlichsten Wirklichkeit übersieht, der in ihm den Gegensatz zu seinem Idealismus , namentlich zu dem seiner praktischen Philosophie, ausmacht. (S. Rosenkranz ; Gesch . D. Kant. Phil . S. 137 f. ) 16 *
+
+[p. 244] schiedene Antwort geben können. Müssen wir nicht von demjenigen was sich den allgemeinen nothwendigen Formen entgegenstellt, auch behaupten , es sei an und für sich kein Nothwendiges ?
+
+Wenn z. B. aus dem Begriffe der Materie nicht die Festigkeit derselben hergeleitet werden kann, auch nicht das gefeßmäßige Verhältniß der specifischen Bestimmtheiten der Materie , wie es die Erfahrung unmittelbar bietet , sind diese Erscheinungen nicht eben darum nicht bloß ein a priori Unbegreifliches , sondern an und für sich auch Zufälliges ? Allein wodurch ist dies Zufällige gesetzt? Alle diese a priori unbegreiflichen Thatsachen unmittelbar durch Gott selbst bewirkt sein lassen , wird Kant als eine transcendentale Hypothese von sich weisen. Eben so wenig dürfen wir meinen , eben darum weil die allgemeinen subjectiven
+
+Formen hier nicht ausreichen , durch das bloße empirische Kennen jener Thatsachen von der Subjectivität unseres Wissens frei zu werden und in ihnen die objective Wirklichkeit an sich zu schauen ; das Ding an sich bleibt immer außerhalb unseres Denkens liegen , und somit mögen auch jene empirischen Erscheinungen im Allgemeinen ihren Grund im Ding an sich haben , ihre specifische Bestimmtheit müssen wir nothwendig auf die Beschaffenheit unserer
+
+Subjectivität zurückführen.
+
+Hier bleibt uns aber nur die
+
+Empfindung übrig. Jene empirischen Thatsachen wären also ein Compler von Empfindungen , und eben darum kein Augeineines , schlechthin Nothwendiges. Begriffen aber wäre hiermit offenbar nichts , vielmehr nur die allgemeine Unbegreiflichkeit der Empfindung zu Hülfe gerufen.
+
+[p. 245] 3. Die Kantische Schule. Fries. Aus der Kantischen Schule ist für die Geschichte der
+
+Naturphilosophie nur Fries von Bedeutung.
+
+Fries will die wesentlichen Principien und Resultate der Kantischen
+
+Philosophie festhalten , zugleich aber die kritische Aufgabe der Form wie dem Inhalte nach in vollkommnerer Weise lösen als Kant selbst es gethan hat.
+
+Es enthält diese Friesische Umgestaltung der kritischen
+
+Philosophie , mögen wir derselben im Einzelnen auch manche scharfsinnige treffende Untersuchungen zugestehen, doch im Ganzen entschieden keinen speculativen Werth ; sie bildet kein wesentliches Moment in der historischen Entwickelung.
+
+Vielmehr besteht diese Umgestaltung im Allgemeinen gerade darin , daß die speculativen Spitzen der Kantischen Philosophie abgestumpft, eben die Momente , durch welche die kantische Philosophie über sich hinaustreibt , verflacht, die Widersprüche nicht gelöst sondern beigelegt werden. Wenn die Kantische Philosophie den Gegensatz von Subject und Object sogleich in der transcendentalen Aesthetik ohne Beweis hervortreten läßt , so zeigt Fries hierin einen ganz richtigen Blick , daß er sich dieser Voraussetzung widersetzt. Daß Raum und Zeit nicht Bestimmungen des Dinges an sich sein können , soll nach Fries erst aus der inneren Unvollständigkeit jener Formen erhellen , aus der
+
+Unmöglichkeit, den Proceß ins. Unendliche im Raume und in der Zeit selbst zu einem Abschluß zu bringen. Eben in diesem Widerspruch , in dieser wesentlichen Endlichkeit des Räumlichen und Zeitlichen liegt die Nothwendigkeit, ihnen das Ideale entgegenzusehen. * ) Ja , Fries geht noch weiter.
+
+Kant sou nach ihm den Gegensatz zwischen
+
+Erscheinung und Ding an sich , obwohl im Widerspruch * ) Fries neue Kritik 1. Th, S. 38 [p. 246] mit seinen eigenen Principien , oft in einer abstract idealistischen Weise firiren , so daß die Erscheinung dadurch zum
+
+Scheine herabsinke. „ Kant sprach zwar immer von einem transcendentalen Gegenstand der Erscheinung; aber auf die Frage : erkennen wir die Dinge an sich ? blieb er die Antwort schuldig." Fries hält dagegen fest , nicht nur daß der Erscheinung ein Sein der Dinge an sich zu Grunde liegt, sondern auch , daß die Sinnenwelt die Erscheinung der Welt der Dinge an sich ist. *) Ist damit nicht der Gegensatz zwischen Erscheinung und Ding an sich, und weiter zwischen Subject und Object glücklich gelöst? mit welchem Recht kann man also dieser kritischen Philosophie noch vorwerfen , sie sei dualistisch ? Allein mit dieser allgemeinen Anerkennung , die Sinnenwelt sei die Erscheinung der Dinge an sich , ist in Wahrheit auch gar nichts gewonnen. Wirklich gelöst ist dieser Dualismus erst dann , wenn die sinnliche Aeußerlichkeit als ein nothwendiges
+
+Moment des Wesens erkannt , in jener Aeußerlichkeit selbst die Energie und der Proceß der Idealität nachgewiesen ist.
+
+Davon ist nun aber bei Fries nicht weiter die
+
+Rede. Raum und Zeit bleiben immer subjective Formen , welche freilich mit der Idee zusammenhängen sollen , aber nie wirklich in Zusammenhang gebracht werden . Fries kann daher auch eben so sehr sagen : > Wir wissen , daß der Verstand in den Abstractionen der reinen Mathematik das klarste, gleichsam durchsichtigste Werkzeug der Selbstbeobachtung besitze; wissen aber auch , daß darin gar kein Geheimniß der ewigen Wahrheit verborgen liegen kann, indem ja die mathematischen Formen eben nur Erscheinung der Dinge für den beschränkten Menschengeist und nicht zu *) Fries neue Kritik. 2. Th. S. 131 , vergl. Fries Geschichte d. Philos. 2. Bd . S. 582 .
+
+[p. 247] der Dinge wahrem Wesen gehören , vielmehr die Ideen von ewiger Wahrheit gerade in der Entgegenseßung gegen die mathematischen Formen und deren Wahrheit gebildet werden müssen
+
+. ” *) Indem trotz dieses Gegensatzes der Ideen gegen die sinnlichen Formen doch urgirt wird , die sinnliche Welt sei Erscheinung der Dinge an sich , so haben wir damit Alles was man nur verlangen kann , nämlich Einheit und Unterschied des Wesens und der Erscheinung ; aber erkannt ist damit doch nichts , vielmehr das Verlangen des Unterschiedes nach einer wahrhaften Einheit nur abgeschwächt, so daß nun der speculativste Versuch Kants , die Freiheit der Idee als Zweck in den Mechanismus der Natur einzuführen , als unnütz verworfen wird.
+
+Auch auf den für die Kantische Philosophie charakteristischen Mangel der Form wendet Fries seine Reform.
+
+Nicht bloß die drei Kritiken Kants fallen aus einander , sondern auch in Bezug auf die einzelnen Formen des Erkennens ist der innere Zusammenhang nicht mit Bestimmtheit und Vollständigkeit durchgeführt. * ) Was aber Fries an die Stelle der Kantischen Kritiken setzt, hebt diesen Mangel so wenig , daß vielmehr gerade der Hauptpunkt , auf den es ankommt , ausdrücklich abgewiesen wird. Die Kritik soll zur philosophischen Anthropologie werden ; aus der Selbstbeobachtung sollen die allgemeinen
+
+Formen gefunden werden , welche in jedem gesunden geistigen Subjecte als nothwendige Gesetze des Erkennens und Wollens enthalten sind.
+
+Kant irrt , wenn er noch den
+
+Versuch macht , diese allgemeinen Gesetze als nothwendige zu beweisen ; nur deducirt , durch die innere Selbstbeobachtung gefunden können sie werden ; das Selbstver:. * ) Fries Naturphil. S. 54 .
+
+** ) Fries neue Krit. Vorr. XIII . 1. Th. Einleit. u . a .
+
+[p. 248] trauen der Vernunft ist das letzte Fundament aller Gewißheit.*). Es ist schlechthin unmöglich , durch eine solche anthropologische Untersuchung den inneren wesentlichen Zusammenhang der verschiedenen Formen des subjectiven Geistes
+
+zu entdecken ; denn dieser innere Zusammenhang ist in seiner Nothwendigkeit nichts Factisches , sondern durch den Proceß des Geistes a priori Gesetztes. So lange wir nicht im Stande sind, wie es die Fichtische Wissenschaftslehre versucht, die wesentlichen Formen des Wissens und
+
+Wollens a priori aus dem allgemeinen Princip des Geistes zu reproduciren , so bleiben auch jene Formen antinomisch neben einander liegen ; weisen wir aber diese Aufgabe überhaupt von uns , und begnügen uns mit einer anthropologischen Untersuchung, so firiren wir damit die Schwäche der Kantischen Philosophie, und es ist nicht zu verwundern , wenn wir in der Philosophie nach Kant nichts weiter erblicken als „ große Rückschritte. **)
+
+Auf Fries's anthropologische Kritik weiter einzugehen, liegt außer unserer Aufgabe.
+
+Wir wenden uns sogleich zur Betrachtung der Friesischen Naturphilosophie . ***) Zur Bearbeitung der Naturphilosophie war Fries vorzugsweise befähigt durch seine vollständigen mathematischen und physikalischen Kenntnisse ; auch ist anzuerkennen , daß es vor allem darauf ankam , die dynamischen Fundamente über ihre abstracte Gestalt hinauszuführen und auf die concreten Erscheinungen anzuwenden ; allein die mathematische Naturphilosophie von Fries kann nur theilweise als eine solche Durchführung der dynamischen Principien angesehen
+
+**) S. Frics Geschichte d. Phil. 2. Ih. S. 633. ***) Die mathematische Naturphilosophie nach philosophischer Methode bearbeitet. Ein Bersuch von J. F. Fries. Heidelb. 1822.
+
+[p. 249] werden ; denn gerade der speculative Stern der Kantischen
+
+Dynamik, das Bedeutsame , historisch Epochenmachende derselben wird auch hier wieder ganz entschieden verflacht. Eine wirkliche Erklärung oder Theorie der Naturerscheinungen ist nach Fries nur möglich durch die Anwendung der Mathematik.
+
+Zu einer wirklichen Theorie müssen wesentlich die drei Momente, nämlich das historische Wissen der Thatsache , dann die mathematische und endlich die philosophische Erkenntniß zusammentreten . Die Grundregel für alle Theorie ist : ,, In unserer Erkenntniß kann das historisch gegebene individuelle Dasein niemals aus der philosophischen Einheit begriffen werden , sondern beide kommen nur durch Mathematik in Verbindung durch ein hypothetisches System von Grund und Folge ; wir können nur da von Erklärungen sprechen , wo sich bloße Unterschiede der mathematischen Zusammensetzung aus dem Gleichartigen , bloße Größenunterschiede zeigen .” *) Die Naturphilosophie ist daher wesentlich angewandte Mathematik ; sie abstrahirt von den unmittelbaren sinnlichen Qualitäten und macht sich einzig und allein die Beschaffenheiten und Zustände der Gestaltung und Bewegung zum Gegenstande. Eben der Raum , die mathematische Anschauung ist das allgemeine in allen sinnlichen Unterschieden , zu welchem das Denken die Sinnlichkeit reinigen muß , um eine Erkenntniß möglich zu machen . Die Empfindung zeigt uns die Körper immer nur in ihrem Verhältniß zu unserem Geiste ; die mathematische Physik dagegen betrachtet die Körper im Verhältniß zu einander ; sie vergißt also z. B. in der
+
+Akustik die Töne über den Schwingungen , in der Optik die Farben über den Lichtstrahlen. **) * ) Neue Kritik. S. 72 .
+
+**) Ebend. S. 19. Naturphil. S. 10, 18 .
+
+[p. 250] Die reine Bewegungslehre ist zuerst von Newton als selbständige Theorie entwickelt; jetzt käme es darauf an, die Mathematik des Newton mit der Philosophie Kants glücklich zu vereinigen. Newton nämlich wie die Empiriker überhaupt wollten auch die allgemeinen Gesetze der Natur aus der Erfahrung herleiten ; dies ist aber unmöglich ; so wesentlich auch die Erfahrung und Beobachtung in der Erkenntniß der Natur ist , die allgemeinen Gesetze sind in ihrer Nothwendigkeit aus der reinen Theorie zu deduciren . Allgemeine Eigenschaften der Körper sind nicht nur die , welche bei allen Körpern , mit denen wir Versuche anstellen können , angetroffen werden , sondern vor allen Dingen diejenigen , welcher alle Materie nach den a priori bestimmten Gesetzen der mathematischen
+
+Anschauung zukommen müssen. Auch die Geschichte der Naturwissenschaft zeigt , daß die Beobachtung nur durch Hülfe der mathematischen Theorie die allgemeinen Gesetze der Natur gefunden hat. So hat nicht die Erfahrung sondern die Geometrie für die Hypothesen des Kopernikus und Kepler entschieden . Alle Beobachtung giebt nur annäherungsweise Resultate ; wir können aus der Beobachtung obachtung nie mit völliger Schärfe der mathematischen Be:
+
+stimmung ein Naturgesetz herleiten. Ob z. B. die allgemeine Anziehung im umgekehrten Verhältniß der Quadrate der Entfernung erfolge oder nach einem andern diesem sehr nahe kommenden Gesetz figurirter Zahlen , das läßt sich nicht beobachten.
+
+Wir entscheiden uns aus rein mathematischen
+
+Gründen für die einfachere Voraussetzung. Gewiß ist, daß das ganze Gelingen der Erperimentalphysik von der Erfindung derjenigen Methode abhing , nach welcher wir die Natur durch Beobachtung und Versuch regelmäßig um ihre Gesetze befragen lernten. Allein wodurch wurde die Erfin-:
+
+[p. 251] dung dieser Methoden möglich ? nur durch die Fortbildung der Mathematik. Die Völker waren lange Zeit reich an To manchen Kenntnissen der Gewerbe , wie Metallschmelzen, Färben , Salzsieden u. s. w. , ja sogar in Beobachtung des
+
+Himmels , und wir können das doch nicht eigentlich einen Anfang der Naturwissenschaft nennen , denn dafür kommt es auf besonnene selbständige Frage nach der Wahrheit , auf die Frage nach den Gesetzen an , unter welchen die Erscheinungen von ihren Ursachen bestimmt werden ; und hier hat immer die Mathematik fortgeführt. Die eigentliche Wissenschaft in der Naturlehre hat die zwei Anfänge der Naturphilosophie und der angewandten Mathematik. Beide finden wir bei den Griechen so ziemlich in ihrer ersten Entwickelung. Aber die Philosophie hat hier nur das Interesse der Forschung belebt , ohne aus ihren
+
+Mitteln der Wissenschaft wahren Gewinn zu bringen. Diesen Gewinn haben wir erst von der Zukunft zu erwarten , wenn die Mathematiker sich in die Kantische Dynamik werden finden lernen. Warum aber die Mathematik in der Erkenntniß der Natur To Großes leisten kann , folgt unmittelbar aus ihrem Begriffe. Sie giebt feststehende und klare Einsichten in Gesetze, welche sich mit zwingender Gewalt zum Systeme ordnen. Die sich selbst überlassene Beobachtung zeigt hingegen eine allzu große Mannigfaltigkeit zerstreuter, Einzelnheiten , welche ohne Beihülfe der Mathematik den Verstand nicht sicher zur Gruppirung nach allgemeinen Ansichten führen. Ja selbst für die Naturgeschichte gehörte schon im Ganzen eine große mathematische Ausbildung der Naturwissenschaft und Erweckung der Wißbegierde durch diese hinzu , um der Aufgabe ihrer Klassensysteme ein hinlänglich lebhaftes Interesse zu verschaffen. *) *) Naturphil. S. 398. S. 23 ff.
+
+[p. 252] Für die Aufgabe der mathematischen Physik müssen wir also geltend machen , daß die ganze wissenschaftliche Naturerkenntniß auf einer Vorstellungsweise a priori und nicht auf einer durch sinnliche Wahrnehmung bestimmten beruht. Wir nehmen wohl nur durch die Empfindung den Druck des schweren Körpers auf die Hand , so wie seine Wärme, seine Farbe , seinen Klang wahr , aber dies sind ja gerade die Beschaffenheiten , über welche wir uns in der
+
+Naturwissenschaft weiter hinausführen lassen , zur Gestalt und Bewegung des Körpers. Und diese Vorstellungen von dem einen Raum einnehmenden und erfüllenden Körper, von seiner Gestalt und Bewegung , von Anziehung und Abstoßung sind Vorstellungen , welche in reiner Anschauung nach einem Princip a priori und nicht aus der Empfindung bestimmt werden . Unserer ganzen Erkenntniß der Körperwelt liegt eine solche mathematisch -philosophische Erkenntniß a priori zu Grunde , und deren wissenschaftliche Entwickelung soll in der mathematischen Naturphilosophie versucht werden. *)
+
+In der weiteren Anwendung der rein theoretisch deducirten Gesetze auf die gegebenen Erscheinungen bildet die Hypothese das nothwendige Mittelglied. Die reine Theorie giebt uns die nothwendigen allgemeinen Gesetze der Bewegung und der bewegenden Kräfte ; sie zeigt uns die Arten möglicher Bewegungen und bewegender Kräfte ; sie bestimmt, welche Bewegungsarten und welche Kräfte die einfachsten , welche dagegen die daraus zusammengesetzten seien.
+
+Die reine Theorie schreibt uns also nicht einen bestimmten Er:
+
+klärungsgrund bestimmter Erscheinungen vor , sondern sie leitet uns nur im Suchen und zeigt uns , wenn wir in * ) Ebend. S. 29.
+
+[p. 253] irgend einem Gebiete das Ziel einfachster Erklärungen erreicht haben. Die mathematische Naturphilosophie soll uns also nur die Geselle möglicher Hypothesen über die Natur der Körper angeben ; soll bestimmen , welche Voraussetzungen zulässig seien , welche als die einfachsten von allen anzusehen seien und welche mathematisch bestimmbaren Folgen jede einzelne solche Hypothese mit sich führe. Um nun die Erscheinungen , welche wir durch Beobachtung kennen , mit der mathematischen Physik in Beziehung zu setzen , muß eine hypothese gewagt werden.
+
+Die reine Theorie ent-
+
+scheidet nur über die Tauglichkeit der Hypothesen überhaupt, überläßt es aber der erfahrungsmäßigen Vergleichung , zu entscheiden , welche unter diesen Voraussetzungen für den einzelnen Fall passe. z. B. eine den Mittelpunkt fliehende Bewegung kann durch eine unmittelbare Zurückstoßung in die Ferne , aber auch durch den Schwung und auf andere Art erklärt werden ; welche Erklärung nun für den einzelnen
+
+Fall passe , wird nur durch eine genaue Vergleichung der Beobachtungen mit der mathematischen Theorie einer jeden von diesen Wirkungsarten entschieden werden können. Die Theorie der Schwere ist jetzt die gelungenste constitutive Theorie , welche wir besitzen . Sie wurde aber gewonnen durch die Hypothese des Kopernikus, welche die Sonne als ruhenden Mittelpunkt des Planetensystems voraussetzt, durch die Hypothese des Kepler , welche die Elipse bei den Planetenbahnen an die Stelle der ercentrischen Kreise und
+
+Epicyklen brachte , endlich durch die Hypothesen des Galilei und Newton .)
+
+Fries theilt die Naturphilosophie in zwei Haupttheile. Er giebt zuerst eine Philosophie der reinen Mathematik, Ebend. S. 11. 30. 400 .
+
+[p. 254] und dann die reine Bewegungslehre. Die letztere , die eigentliche Naturphilosophie , legt sich an die allgemeinen metaphysischen Gesetze an , welche die Kritik der reinen
+
+Vernunft aus den Kategorien entwickelt. Fries faßt diese Gesetze ganz ähnlich wie Kant ; es sind die Axiome der Anschauung , die Anticipation der Wahrnehmung , die Analogien der Erfahrung und die Postulate des empirischen Denkens. Diese allgemeinen Gesetze sind nun auf die im Raume bewegte Materie anzuwenden. Dadurch ergeben sich sogleich die vier Untersuchungen : die Phoronomie, die Dynamik , die Mechanik und die Phänomenologie . In der Phoronomie schließt sich Fries genau an Kant an ; die Zusäte sind rein mathematischer Natur. Dagegen .
+
+in der Dynamik weicht Fries sehr wesentlich von Kant ab. Die Materie wird bestimmt als dasjenige , was einen Raum einnimmt, d. h. im Raume vorhanden , gegenwärtig ist. Das Wesen ( die Substanz) der Materie ist daher das unmittelbar im Raum Vorhandene ; die Quantität dieser Substanz in einem Körper heißt die Masse desselben . Unmittelbar aus dieser Räumlichkeit der Materie wird auf ihre Theilbarkeit ins unendliche geschlossen ; wie der Raum mathematisch theilbar ist, so auch die Materie in ihm . Der Raum , der eine Masse mit Stetigkeit einnimmt, heißt ihr Volumen , und das Verhältniß der Masse zur Größe dieses Volumens ihre Dichtigkeit. Weiter heißt es nun : Die Zustände der Materie , welche hier in Frage kommen , sind Zustände ihrer Bewegung . Die Veränderungen , welche hier beobachtet werden , sind die Veränderungen der Bewegung . Jede Veränderung einer Bewegung muß aber eine Ursach haben , welche durch die Gesetze der Wechsel:
+
+wirkung der Körper bestimmt wird 1, d. h. welche in den bewegenden Kräften besteht, die mehreren Massen [p. 255] gegenseitig gegen einander zukommen. Alle Eigenschaften, welche wir hier den Massen beilegen können , sind ihre bewegenden Kräfte , und zwar die Grundkräfte , welche aus keiner anderen wieder abgeleitet werden können .
+
+Aus gegebener Lage und Bewegung der Massen in einem bestimmten Zeitpunkt und aus diesen ihren Grundkräften müssen sich alle Veränderungen ihrer Bewegung , Lage und Gestalt erklären lassen. Ich verstehe aber hier unter Kraft nur den Begriff, nach welchem eine Masse unter einem bestimmten Gesetz der Wechselwirkung mit anderen Massen als Ursach der Vermehrung oder Verminderung der Bewegung gedacht wird. — So wird jetzt unsere Aufgabe sein , die Gesetze dieser Grundkräfte abzuleiten. Dafür haben wir folgende mathematische Principien : 1. In mathematischer Erkenntniß müssen sich alle zusammengesetzten Verhältnisse aus den einfachsten . Verhältnissen einer gewissen Art Größen ableiten lassen .
+
+Nun ist im Raum das einfachste Verhältniß das zweier Punkte durch die gerade Linie zwischen ihnen . Jedes räumliche Verhältniß ist eine stetige Zusammensetzung aus diesen einfachsten und muß also mit
+
+Hülfe der höheren Analysis daraus erklärt werden .
+
+Folglich ist jede Grundkraft in der Materie eine Ursach der Veränderung dieser geraden Linie zwischen zwei Punkten. Also giebt es zwei Grundformen für die Grundkräfte. Diese sind nämlich entweder Ursachen der Verkleinerung dieser
+
+Entfernung zweier Punkte , Anziehungskräfte , oder Ursachen der Vergrößerung dieser Entfernung , Abstoßungskräfte . 2. Jede Grundkraft oder ursprüngliche Kraft ist eine unmittelbare unveränderliche Eigenschaft ihrer Masse. 3. Durch das Gesetzes Grades ist bestimmt: die Grade der Kraft , mit denen je zwei Massen in einander wirken , können ins Unendliche verschieden sein und welcher Grad [p. 256] der Kraft zwei gegebenen Massen gehört , kann nur durch die Erfahrung bestimmt werden . *) Kant untersuchte in der Dynamik die Bewegung welche zur Existenz der Materie gehört ; schon die existirende Materie sollte eine kräftige sein und nur durch entgegengesetzte Kräfte den Raum erfüllen. Fries läßt die Materie zuerst im Raume sein , und fragt sogleich nach den Ursachen , durch welche eine Veränderung der Bewegung bewirkt wird ; es stehen also sogleich mehrere Massen wechselwirkend einander gegenüber. So heißt es denn auch später ausdrücklich : „ Schelling beging den Fehler , aus der Kantischen Construction die materielle Substanz, die Masse als Grundbegriff wegzulassen und nur durch entgegengesetzte Kräfte die Construction vollenden zu wollen. Dieses Anziehen und abstoßen ohne etwas , das angezogen und abgestoßen wird , giebt aber keinen bestimmten Begriff und ist ein mathematisch unbrauchbarer Gedanke."**) Und ferner in der Geschichte der Philosophie: „Diese dynamische Lehre im Gegensatz der alten Atomistik wurde bald von vielen deutschen Physikern anerkannt und in der Physik anzuwenden versucht. Aber wir haben in zweierlei Weise wenig Glück damit gemacht. Erstens nämlich haben nur wenige Mathematiker die Kantische Lehre verstanden , die meisten Dynamiker hingegen sind nur bei Kants Dynamik stehen geblieben und haben die Lehre von der Masse in seiner Mechanik misverstanden ; diese machten sich die mathematisch widersinnige Vorstellung, Kant habe das Wesen der Materie aus der Verbindung von anziehenden und abstoßenden Kräften construiren wollen , so daß die Masse ein Product
+
+* ) Ebend. S. 447 7. ** ) Ebend. S. 508 .
+
+[p. 257] dieser Kräfte sei, da er doch , wie es auch mathematisch allein denkbar ist, die Substanz der Materie nur als die Masse voraussetzt , der die Kräfte erst als ihre Qualitäten zukommen. Dies ist der eine große Fehler , der die Naturphilosophie in der Kantischen Philosophie so sehr verdorben . hat." *)
+
+Daß mit dieser Auffassung der Kantischen Dynamik wesentliche Kern derselben zerstört ist, bedarf nach unserer früheren Untersuchung keines weiteren Beweises. Auch sahen wir bereits , in wiefern dieser Abweg der Verflachung in der Kantischen Dynamik vorbereitet ist.
+
+Zuerst eine räumlich seiende Materie ; und dann die Kraft als eine besondere Qualität derselben . Wie kommt das an sich Kraftlose zu diesem Prädikate der Kraft ? Ist die Materie nur das im Raume Vorhandene , so hat sie keine Kraft ; und es ist schlechthin widersprechend , ihr äußerlich eine Kraft anzuheften , und so das Ideelle , Immaterielle zu einer Eigenschaft des Materiellen zu machen . Die Construction der Materie aus entgegengesetzten Kräften soll eine mathematisch widersinnige Vorstellung sein . Allein die Mathematik als solche hat es überhaupt nicht mit Kräften der Materie zu thun . Eine rein mathematische Auffassung der Materie könnte nur diejenige sein , welche, wie es die Cartesische Naturphilosophie thut , die Materie schlechthin mit dem Raume identificirt; eine solche muß aber nothwendig alle Kräfte der Materie verwerfen , die Kantischen so sehr wie die Friesischen . Soll die Materie die Kraft nur als eine Qualität an sich haben , so würde Dynamisches und Mechanisches nur äußerlich und eben darum in sich widersprechend mit einander verbunden. Besonders bei *) Gesch . D. Phil. II. Th. S. 551. Sih aller . II.
+
+[p. 258] Newton fanden wir diese äußerliche Composition des Dyna:
+
+mischen und Mechanischen. Auch ist es hier im Wesentlichen gleichgültig , ob wir die Materie , welche die Kraft haben soll , wie Newton als fest fassen , oder ob wie Fries als ein unbestimmtes Substrat. Was dieses materielle Substrat abgesehen von den Kräften sein soll, kann freilich nicht näher bestimmt werden ; denn diese nähere Bestimmung soll erst durch die Kräfte hinzukommen ; allein sicher ist doch, daß es nicht erst durch die Kräfte ist ; und eben dieses materielle Sein vor den Kräften ist das träge , kraftlose, mechanische Sein. Lassen wir uns nun die Kräfte der Materie gefallen, und bestimmen diese als bewegende Kräfte , so ist es freilich eine leichte Sache, mathematisch die beiden Formen zu finden , nämlich der entfernenden und der anziehenden Kräfte allein auch hiermit ist wieder philosophisch
+
+durchaus nichts erkannt.
+
+Wie die Materie dazu kommt , diese Kräfte an sich zu haben , die we:
+
+sentliche Frage , welche zu beantworten wäre – bleibt ganz außerhalb der Betrachtung liegen. Fries selbst sagt hier : Die Bestimmung der Formen der Grundkräfte ist so zu sagen eine rein geometrische Aufgabe.” Also doch nur : so zu sagen ! Geometrisch bieten sich hier nur die beiden Momente : die räumliche Entfernung und die Negation der räumlichen Entfernung ; daß diese Formen des Raumes durch bewegende Kräfte gesetzt werden , und daß weiter die Materie diese Kräfte an sich hat , ist durch die rein mathematische
+
+Construction entschieden nicht gesetzt. Ganz dasselbe gilt nun von den weiteren mathematischen
+
+Operationen. Wenn also durch das mathematische Gesetz der Stetigkeit gefunden wird , daß sowohl die An:
+
+[p. 259] ziehungs- als Abstoßungskräfte sowohl in der Berührung als in der Ferne wirken können , daß also vier verschiedene Kräfte denkbar seien , so ist das unmittelbare Uebertragen dieser formellen Möglichkeit auf die Materie nichts weniger als eine philosophische Erkenntniß. Indem Kant nur zwei Formen jener Kräfte gelten läßt, beschuldigt ihn Fries , daß er die mathematische Natur dieser Untersuchungen verkannt habe , daß er nicht bedacht, daß die Construction a priori hier eigentlich der reinen Mathematik gehöre und nach deren Recht beurtheilt werden müsse. Kants Metaphysik maße sich zu viel an , indem sie jeder möglichen Materie jene beiden Kräfte zuschreibe, und sogar den Grad der Anziehung a priori bestimme, indem sie nämlich behaupte, die Anziehungskraft stehe mit der Masse in gleichem Verhältniß. *) Allerdings fällt es Kant nicht ein , die Materie nur mathematisch construiren zu wollen . Er geht vielmehr auf den wirklichen Begriff der Materie los. Dieser Begriff der Materie ist für Kant eben die Einheit der Attraction und Repulsion , und an diesem Begriff besitzt er das Princip , von welchem aus er der abstract mathematischen Möglichkeit nur eine formelle Bedeutung zuerkennen och kann . Definiren wir die Materie nur als das im Raume Vorhandene , so haben wir eben an dieser inneren Kraft:
+
+losigkeit für das beliebige Beilegen von Kräften ganz freie Hand ; die Materie muß es sich ruhig gefallen lassen , wenn wir die ganze Fundgrube der mathematischen Möglichkeiten über sie ausschütten. Dadurch entsteht zugleich ein Reichthum des Wissens , welcher aber bei Lichte besehen nur mathematischer Natur ist, keine philosophische Erkenntniß. Die Behauptung Kants , daß in der Physik nur soviel * ) Ebend. S. 460. 17 * [p. 260] eigentliche Wissenschaft enthalten sei, als Mathematik sich darin vorfinde , wird daher von Fries in höchst einseitiger Weise gefaßt , in einem Sinne , den sie bei Kant entschieden nicht hat. Kant läßt der mathematischen Construction immer .
+
+die philosophische vorangehen ; er hat die Einsicht, daß alles was in der Physik nur mathematisch construirt ist, dadurch allein noch nicht physikalisch erkannt ist ; Fries dagegen giebt zuerst eine mathematische Construction und trägt diese dann unmittelbar auf die Materie über , ohne das Bewußtsein , daß schon durch die Bestimmung der Kraft ein nicht mathematisches Moment zugelassen ist, welches sich der rein mathematischen Behandlung widersetzt und in aller Rechnung als unbegriffen zurückbleibt. So haben denn auch die weiteren Rechnungen , welche Fries in der Dynamik mittheilt über das verschiedene quantitative Verhältniß der Kräfte zu einander , zunächst keinen andern als rein mathematischen Werth. Es sind mathematische Möglichkeiten ,
+
+Beispiele, und zwar eine sehr geringe Anzahl von Möglichkeiten , nur die nächstliegenden ; physikalische Hypothesen sind damit noch nicht gewonnen. Auch der dritte Abschnitt der Friesischen Naturphilosophie , die Mechanik , bietet im Vergleich zu der Kantischen Mechanik eine Menge mathematischer Zusätze und Erweiterungen ; der philosophische Gehalt dagegen ist bis auf ein Minimum zusammengeschrumpft. Die Fragen , welche Kant mit Recht in den Vordergrund stellte, mit denen er sich herumschlug , werden von Fries nicht einmal aufgeworfen , viel weniger gelöst. . Zwischen die Mechanik und Phänomenologie schiebt Fries noch zwei Abschnitte ein , welche die Anfangsgründe
+
+Kants nicht kennen , nämlich die Stöchiologie und
+
+[p. 261] Morphologie. Fries bringt diese beiden Zugaben mit keinem Worte mit der Kategorientafel in Verbindung. Sind etwa neue Kategorien damit gefunden ? Oder wollen die alten nicht ausreichen , den empirisch andringenden Stoff
+
+systematisch zu formiren ? Wir können diesen Leichtsinn gegen die Kategorien unmöglich für gleichgültig ansehen . Verliert nicht die vielgepriesene Kategorientafel alle Bedeutung , wenn es selbst demjenigen , welcher sie als vollständiges System der allgemeinen Begriffen anerkennt, welcher ausdrücklich auch die naturphilosophischen Untersuchungen nach dem Schema der Kategorien ordnet , hinter, der doch erlaubt ist , derselben ohne Weiteres den Rücken zuzukehren ?
+
+Die Stöchiologie handelt von den Arten und der Zusammensetzung der Massen. Kant vermochte aus dem Begriff der Materie nur sehr abstracte Unterschiede herzuleiten. Fries dagegen besitzt vier Grundkräfte, und diese können , wie die Mathematik es lehrt , in ein quantitativ verschiedenes Verhältniß treten ; dadurch scheint es möglich , den concreteren Unterschieden der Körperwelt mit dem Gedanken beizukommen .
+
+Auch hat Fries allen möglichen Scharfsinn aufgewandt , aus den Grundkräften soviel zu deduciren und hypothetisch herzuleiten als möglich. Dennoch können wir auch diese Versuche unmöglich als das gelten lassen , wofür sie sich ausgeben , nämlich als eine weitere Entwickelung der dynamischen Principien. Daß die Grundkräfte mathematisch construirt sind, giebt ihnen ein für alle Mal noch keinen philosophischen Werth ; so lange wir daher die möglichen Unterschiede der Materie nur aus der mathematischen Combination erhalten , haben wir uns über die Region der empirischen Hypothesen nur scheinbar erhoben.
+
+[p. 262] Die Arten der Massen sollen dynamisch nach den verschiedenen Verhältnissen ihrer Grundkräfte unterschieden werden , und eben eine solche Art soll ein Stoff in chemischer Bedeutung des Wortes sein . Der Unterschied der chemischen Stoffe ist aber nicht zusammenzuwerfen mit den verschiedenen Formen der Aggregation , den früher sogenannten Elementen. *)
+
+Unmittelbar
+
+aus den Grundkräften ergeben sich zunächst folgende einfache Unterschiede: Wenn die nebengeordneten Theile einer Masse sich in der Berührung abstoßen , so entsteht in ihr eine ursprüngliche Ausdehnungskraft , absolute Elasticität genannt ; die Masse bestrebt sich ihren Raum immer mehr zu erweitern , und wird sich immer weiter ausdehnen , wenn ihr nicht durch Gegenwirkung. Schranken gesetzt werden. Durch eine solche Gegenwirkung kann aber die elastische Masse nie schlechthin aus dem Raume verdrängt werden in dieser Beharrlichkeit besteht die mechanische Undurchdringlichkeit der Materie. Eine Anziehung in der Berührung soll bei einer gleichartigen Masse unmöglich sein. „ Denn eine solche Masse würde , wenn in ihr nur anziehende Kräfte wirkten , von jeder noch so kleinen zusammenpressenden Kraft ganz aus dem Raume verdrängt werden. ”
+
+Aus den durchdrin:
+
+genden oder in die Ferne wirkenden Kräften ergiebt sich der Unterschied der schweren , wägbaren Stoffe von den strahlenden Flüssigkeiten oder Lichtstoffen. In schweren Stoffen ist mit der Ausdehnungskraft eine durchdringende Anziehungskraft verbunden. Wenn das gegen die gleichartigen Theile einer Masse sich in die Ferne abstoßen , so werden ihre Theile mit einer Beschleunigung, * ) Ebend. S. 540 ff.
+
+[p. 263] die im umgekehrten Verhältniß des Quadrats ihrer Ausbreitung steht, aus ihrem Mittelpunkte in kugelförmigen Wellen auseinander getrieben , so daß jeder Theil der Masse aus dieser Entwickelung eine geradlinige Wurfbewegung erhält. Diese Theile bewegen sich wie lichtstrahlen und strahlende Wärme. Die größte Mannigfaltigkeit specifischer Verschiedenheiten unter den Stoffen soll sich möglicher Weise aus den Linienkräften construiren
+
+lassen , d. h . aus denjenigen , welche nur in einer Richtung wirksam sind. Auf die Annahme solcher Kräfte führt die mathematische Theorie , indem sie nämlich neben den im umgekehrten Verhältniß der Quadrate der Entfer:
+
+nung wirkenden Grundkräften auch solche als möglich zeigt, die im umgekehrten Verhältniß der Entfernung wirken. * ) Auffallend in dieser Construction ist vor Allem wieder die abstract mathematische Haltung. Wenn die Kantische Deduction der Materie gerade dies als die Hauptsache geltend machte , daß durch die Repulsion allein so wenig eine Materie gebildet werden könne als durch die bloße attraction , so stellt der mathematische Calcul jede Kraft für sich und bringt sie sämmtlich nur in eine äußerliche zufällige Beziehung. So giebt es denn Materien , in welchen die einzelnen Theile sich nur abstoßen ! Wie Fries die bloße Anziehung in der Berührung als für die Materie als unzureichend betrachtet, so ist dieser Anflug einer wirklichen Dynamik eine ganz offenbare Inconsequenz. Auch ist leicht zu sehen , daß , wollen wir dergleichen Reflerionen einmal Gehör schenken , Kant sicherlich Medit behält , wenn er die Materie , deren Theile sich nur abstoßen, für eine physische Unmöglichkeit betrachtet. * ) Ebend. S. 544 ff. S. 493. -
+
+[p. 264] Wenn bisher nur die gleichartigen Theile einer Masse betrachtet wurden , so sollen weiter verschieden :
+
+artige Massen in Verhältniß zu ' einander gestellt werden. Die mathematische Combination liefert wieder die möglichen Fälle. Zunächst können ungleichartige Theile sich in der Berührung entweder abstoßen oder anziehen. Die Ab: stoßung giebt das mechanische Verhältniß der Berüh rungsflächen . Treffen zwei Massen , die sich in entgegen: gesekter Richtung bewegen und in der Berührung abstoßen, zusammen , so erfolgt die Gegenwirkung im Stoße. Das
+
+Verhältniß zweier Massen dagegen , deren ungleichartige Theile sich in der Berührung anziehen , ist das chemi: sche Verhältniß ; die sich anziehenden Massen durchdringen sich gegenseitig und es entsteht kein Gemenge , in welchem die ungleichartigen Theile , so klein sie auch sein mögen , neben einander liegen , sondern Auflösung oder Mischung , in welcher die nebengeordneten Theile ganz gleichartig sind.*) Also Anziehung in der Berührung , das ist das Zauberwort , welches alle Fragen mit einem Male beant: wortet , alle Schwierigkeiten auf das schlagendste löst! Und dazu wird uns noch zugemuthet , bei gleichartigen Massen dieselbe Anziehung in der Berührung für unmög: lich zu betrachten ! Mit Recht sagt hierüber Herbart : „ Hier hört in der That alle Kritik auf ; es ist nicht mehr möglich , einer solchen Inconsequenz irgend einen festen Boden abzugewinnen , auf dem man noch stehen könnte.” **) Was ungleichartige Massen eigentlich sind, wie weit sich diese Ungleichartigkeit erstreckt, was in der chemischen Durch:
+
+dringung mit dieser Ungleichartigkeit geschieht, ob mehr und *) Ebend. S. 547 ff. ** ) S berbarts Metaphysik 1. Ib. S. 562.
+
+[p. 265] in wiefern mehr als eine Berdichtung und Verdünnung vor sich geht alle diese Fragen , welche sich hier noth:
+
+wendig aufdringen und zu welchen die Stantischen Reflerionen unmittelbar auffordern , bleiben ganz bei Seite liegen. Natürlich ist aber die mathematische Möglichkeit, daß ein Stoff einen zweiten mehr als einen dritten an: ziehen könne , sogleich bei der Hand. In Bezug auf die durchdringenden Kräfte sollen sich zunächst verschiedene schwere Massen aus der Ferne entweder anziehen oder abstoßen . Im ersten Falle werden sie sich nach dem Gesetz der Schwere oder allgemei: nen Gravitation gegen einander verhalten , im andern Falle aber die Erscheinung der negativen Schwere zeigen. (Ueber die lettere erhalten wir von Fries keinen näheren Auf schluß ). Den wägbaren Stoffen stehen ferner nicht nur die strahlenden Flüssigkeiten sondern alle Stoffe mit sehr überwiegenden Zurückstoßungskräften gegenüber. Solche Feuerstoffe , wie man sie nennen mag , werden theils als strahlende Flüssigkeiten , oder Lichtstoffe, deren Theile sich in die Ferne abstoßen , theils als Wärmestoffe, deren
+
+Theile einen sehr hohen Grad von Abstoßung in der Ber rührung d. h. von ursprünglicher Ausdehnungskraft zeigen, vorkommen können . Zugleich aber werden diese Stoffe durch Flächenkräfte , vielleicht auch durch Linienkräfte , mannigfaltig auf wägbare Stoffe einwirken , sich unter einander und mit wägbaren Stoffen mischen können , und so die Erklärungsgründe für große Kreise von Erfahrungen wer: den .
+
+Das elektrische Verhältniß wird bestimmt durch strahlende Flüssigkeiten , welche von den schweren. Massen in verschiedenen Graden in der Berührung angezogen werden. Massen , von denen sie nur angezogen werden , sind ihre Leiter. Sie bewegen sich , ihrer Zurückstoßung in [p. 266] die Ferne überlassen , frei in einer solchen Masse und drängen sich an ihre Oberfläche, wo sie, wenn abstoßende oder minder anziehende Flächen in Berührung sind, elektrische Spannungen bilden , welche durch gewölbte Oberflächen sich selbst im Gleichgewicht halten , an Spitzen aber aus: strömen .
+
+Massen , an denen sie nur adhäriren , ohne einzudringen und ohne sich frei an ihrer Oberfläche hin be: wegen zu können , sind ihre Isolatoren.
+
+Gesetzt , ver:
+
+schiedene Arten solcher strahlenden Flüssigkeiten , deren jede im umgekehrten Verhältniß der Quadrate der Entfernung sich abstoßende Theile hat , ziehen sich gegenseitig aus der Ferne nach demselben Gesetz an , so entsteht hier ein Gesetz der elektrischen Entgegensetzung und Ausglei: chung, wenn diese sich mischen.
+
+Gleichartige elektrische
+
+Spannungen stoßen einander ab , ungleichartige ziehen sich an und werden sich mischen , wo kein Hinderniß ist. Wirken aber hier von demselben Mittelpunkt aus die gleichartigen Theile abgestoßen und die ungleichartigen angezogen werden, so werden diese Kräfte sich einander auf Null reduciren, wenn die beiden verschiedenartigen Elektricitäten sich in einem gewissen Verhältniß verbunden haben.
+
+Diese Ver:
+
+bindung wird ein unsperrbares elastisches Flüssig: ges , indifferente Elektricität als ein Wärmestoff sein. Die Starrheit der Materie und die Kräfte der Reibung sieht Fries als das große Räthsel der mathe: matischen Naturphilosophie an ; zugleich aber stellt er zwei Hypothesen auf , welche, so complicirt sie auch sein mögen , im Wesentlichen keinen größeren und seinen geringeren Werth haben als alle früheren. *)
+
+*) Naturphilos. S. 555 ff.
+
+[p. 267] Die Morphologie handelt von den Formen der Wechselwirkung in der Körperwelt oder von den physischen Processen und den Naturtrie: ben. Fries eröffnet die Untersuchung mit der mathema: tischen Betrachtung der Centralbewegung , um nachzuwei:
+
+sen , daß die Formen der Wechselwirkung in der Körperwelt von den Gesetzen der Gegenwirkung durch
+
+Grundkräfte allein nicht vollständig bestimmt werden.
+
+Wenn wir nur metaphysisch aus dem Gesetz , nach welchem die ursprüngliche Anziehung wirkt , den Erfolg der fortgesetzten Anziehung zwischen zwei Körpern beurtheilen wollten , so würde sich ergeben , daß sie nach einer bestimmten Zeit in ihrem Schwerpunkt zusammentreffen.
+
+Allein dies erfolgt nur , wenn sie zu Anfang der Einwirkung gegen einander in Ruhe oder in einer Bewegung waren , deren Richtun:
+
+gen in derselben geraden Linie liegen.
+
+Hat hingegen die eine gegen die andere eine Wurfbewegung in einer schrä: gen Richtung gegen sie, so bewegen sich die Körper in Kegelschnitten und ihre Schwerpunkte treffen nicht zusam men . Wir müssen also für die Formen der Wechselwir kung immer noch neben dem metaphysischen Verhältnisse der Grundkräfte rein geometrisch das Verhältniß der bewegten Massen zum Raume beachten und durch Verbindung von beiden das Gesetz der Wechselwir: kung bestimmen . Ist nun ein physischer Proceß ein Complex von Erscheinungen , welche sich aus einem Gesetz der Wechselwirkung erklären lassen , so wird das Gesetz eines bestimmten physischen Processes nicht aus den Grund kräften allein sondern nur auf die angegebene zusammen: gesetzte Weise zu erklären sein. Eine bestimmte Form der Wechselwirkung , d. h. das ursächliche Moment eines be stimmten physischen Processes , kann im Unterschiede von den
+
+[p. 268] Grundkräften Naturtrieb genannt werden .
+
+Die physi:
+
+schen Processe und die ihnen entsprechenden Naturtriebe müssen sich unterscheiden theils nach den stöchiologischen Un: terschieden der in Gegenwirkung begriffenen Stoffe , theils nach der Verschiedenheit der die Gegenwirkung bestimmen: den Grundkräfte. So ergeben sich folgende allgemeine Arten : 1. Gravitationsprocesse , in welchen schwere Massen durch ursprüngliche Anziehung aus der Ferne in Gegenwirkung sind. 2. Chemische Processe , welche durch die Gegenwirkung schwerer Massen in Mischungen und Ausscheidungen durch ihre Flächenkräfte bestimmt wer: den . 3. Phlogistische Processe , in welchen das Ge: setz der Gegenwirkung durch Feuerstoffe bestimmt wird. 4. Morphotische Processe der Erstarrung und Schmel zung, Processe der Gestaltung und Umgestaltung , deren Naturtriebe Bildungstriebe genannt werden , in wel: chen die Gegenwirkung vorherrschend durch die die Starr heit bedingenden Kräfte bewirkt wird. Die reine Theorie hat bis jetzt nur die Gravitationsprocesse nach dem Newtonischen Princip vollständig in ihrer Gewalt ; die übrigen hat sie nur theilweise durchdrungen ; am wenigsten hat die Theorie bisher geleistet in der Erkenntniß der morphotischen Processe .*) Durch die verschiedenen Formen der physischen Processe zieht sich ein allgemeiner Unterschied hindurch , nämlich der Unterschied zwischen den Trieben des Mechanismus und des Orga: nismus .
+
+Der mechanische Trieb enthält durch das Gesetz der
+
+Gegenwirkung bei aufgeregter Bewegung ein Streben zur Ruhe im Gleichgewicht in sich; der organische Trieb dage: gen enthält ein Streben nach der Reproduction , nach *) Ebend . S. 572 , 581 f.
+
+[p. 269] der periodischen Wiederholung einer Reihenfolge von Be: wegungen , so daß die Erscheinungen eines organischen Processes gleichsam einen Kreislauf darstellen , in welchem das Ende wieder in den Anfang zurückkehrt. Alle frei durch
+
+stetig beschleunigende anziehende Kräfte bestimmten Processe gehören organisirenden Naturtrieben ; dagegen die durch Anziehung in der Berührung ohne Beschleunigung bestimm: ten gehören mechanischen Naturtrieben an.
+
+Vor allem
+
+sind daher die eliptischen Bewegungen der Planeten den organisirenden Naturtrieben zuzurechnen ; ferner gehört dahin das Gesetz aller freien oscillirenden Bewegung , die Schwingung des aus dem Gleichgewicht gehobenen Pendels , die Bewegung des Wassers im Wellenspiel, die Bewegung der schwingenden Schallwellen in der Luft. In der Reibung entsteht eine mechanische Gegenwirkung gegen diese organi schen Processe. *) Im Ganzen der Naturverwandlun: gen ist der organische Trieb entschieden der herr: schende. Nehmen wir das Streben nach dem Gleichgewicht als den herrschenden Trieb , so müssen wir die Ge schichte der Welt mit einem Chaos anfangen , in welchem alle Stoffe in der höchsten Gährung begriffen waren , und der Ablauf der Begebenheiten wird eine allmählige Be: sänftigung dieses Ungestüms bringen bis zur gänzlichen Erstarrung im Gleichgewicht, wo mit der Aufhebung aller Bewegung auch die Welt für die Erscheinung vernichtet wäre. Dies gäbe eine unserer Auffassung von Zeit und Raum nicht entsprechende endliche Geschichte der Welt. Nehmen wir dagegen die organisirenden Triebe als die herrschenden an , so giebt es nur relativen Anfang oder Ende und keine absoluten Anfänge , die Geschichte der *) Ebend. S. 585 ff.
+
+[p. 270] Welt wird unendlich und die Größe der Bewegung in ihr erhält sich im Ganzen immer in gleicher Höhe. * ) Ein dauerndes körperliches Gebilde , welches durch einen mechanischen Trieb , also nach einem Gesetz des Gleichge:
+
+wichts gestaltet ist, können wir ein maschinenmäßiges oder einen todten Körper nennen ; dagegen ein solches, welches durch einen organischen Trieb , also nach einem Ge setz der Selbsterhaltung seiner Bewegungen gestaltet ist, heißt ein organisirtes oder ein belebter , beseelter Kör: per. Unter Seele verstehen wir dann weder einen Geist, noch auch eine Grundkraft oder einen Grundstoff der Materie, sondern nur die Form der Wechselwirkung körper: licher Theile , welche einem solchen Gebilde unter dem Gesetz eines organisirenden Triebes zukommt. Und unter Leben verstehen wir dann nicht wie beim Geiste das innere Vermögen seine Zustände zu verändern , sondern nur ein Analogon desselben , indem sich zwar in dem or: ganisirten Körper , in Pflanze und Thier als einem Gan: zen ein solches inneres Princip der Selbsterhaltung und Selbstentwickelung zeigt , dieses aber bei genauerer Beobachtung doch nur als der Erfolg äußerer Gegenwirkungen zwischen den Theilen des organisirten Körpers erscheint. Das Wort Organismus wird also hier in viel weiterer Bedeutung genommen als es sonst zu geschehen pflegt; aber nur in dieser weiten Bedeutung ist es ein bestimmter philosophischer Begriff. In jeder Organisation sind alle wesentlichen Theile durch ihre Wechselwirkung zugleich Wirkung und Ursach. Wirkung , indem sie durch die Gegenwirkungen im Ganzen erst gebildet werden, und Ursach , indem ohne ihr Eingreifen in die Gegenwir *) Ebend. S 690 .
+
+[p. 271] kungen das Ganze nicht bestehen kann. Von einem solchen Ganzen kann man denn auch sagen , in ihm sei kein wesentlicher Theil umsonst.
+
+Faßt man den Begriff des
+
+Organismus in dieser Allgemeinheit , so ist er auf den Kreislauf der Tageszeiten und Jahreszeiten bei der Bewegung der Erde, ja auf das Steigen und Fallen der Meeres : wellen eben so sehr anzuwenden als auf die Lebensbewe: gungen des Thieres und der Pflanze. Auf die letzteren freilich vorzugsweise , indem der Körper der Pflanze und , des Thieres den organischen Kreislauf länger fortsetzt als sonst eine organische Erscheinung auf der Oberfläche der Wenn man aber von einem organischen Körper sagt, er sei so geordnet als ob in ihm alle Theile zu : gleich Mittel und auch Zweck seien , so ist dies im mer nur bildlich gesprochen ; der besonnene Naturfor: Erde.
+
+scher weiß sehr wohl, daß eigentlich hier nur von Ursach und Wirkung die Rede sein kann , indem es von keiner
+
+Bedeutung ist, die körperlichen Naturumwandlungen nach einem Princip von geistigem Ursprung , wie das des Willens, welcher Mittel nach Zwecken ordnet , wissenschaftlich deuten zu wollen. *)
+
+Was Fries hier Organismus, Leben nennt , verdient so wenig diese Benennung , daß es mit viel größerem Rechte , besonders im Unterschied von den bewegenden Kräften , als das Todte , bezeichnet werden könnte. Die
+
+Grundkräfte allein führen die Planeten nicht nothwen :
+
+dig in elliptischen Bahnen um die Sonne ; es müssen be: stimmte geometrische Verhältnisse hinzutreten , welche durch die Grundkräfte nicht gesetzt , diesen also äußerlich , zufällig sind. Nach dem möglichen Grunde dieser zu:
+
+*) Ebend. S. 593 ff.
+
+[p. 272] fälligen Verhältnisse wird nicht weiter gefragt; genug sie müssen factisch da sein , sollen nicht die Grundkräfte möglicher Weise das Unheil anrichten , Sonne und Planeten in einen
+
+Klumpen zusammenzuwerfen . Indem hiermit ganz offen: bar die Grundkräfte den factischen Zustand der Erscheinung nicht erklären , könnte der Zweifel entstehen , ob sie über:
+
+haupt in Wirklichkeit die bewegenden Kräfte seien ; allein die Grundkräfte sind mathematisch construirt; damit ist nicht bloß ihre Nothwendigkeit gesetzt, sondern auch die Unmöglichkeit , etwa noch andere hinzuzudenken . Es bleibt also nichts übrig als jene äußerlichen Verhältnisse zu den Grund: kräften hinzuzunehmen , um die Theorie mit der Wirklich: keit in Einverständniß zu setzen. Offenbar ist aber hiermit in die Theorie selbst ein empirisches Moment eingetreten, : und diese hat aufgehört das zu sein was sie sein soll, nämlich reine constitutive Theorie. Wenn nun aber das ursächliche Moment eines physischen Processes Natur : trieb genannt wird , so wäre dieser also zusammengesetzt aus den Grundkräften und jenen factischen geometrischen Dieses beides zusammen treibt die Planeten um die Sonne. Naturtrieb wäre also nichts weni
+
+Verhältnissen.
+
+ger als das Getriebenwerden der Materie von innen , durch ihr Wesen , durch ihre Kräfte, sondern im Gegen theil das Getriebenwerden durch äußerliche, durch die Grund kräfte nicht gesetzte Verhältnisse.
+
+Oder soll etwa das
+
+Wort Naturtrieb gerade den Gegensatz ausdrücken zur rei nen Theorie ? Die reine Theorie ließe die Planeten allen falls in die Sonne laufen , die Natur aber thut es nicht; sie besitzt also noch andere d. h. eben natürliche Triebe, von denen die Theorie nichts weiß. Die Naturtriebe können nun mechanische oder orga nische sein . Wie die letzteren eigentlich beschaffen sind, [p. 273] erhellt wieder vorzugsweise aus der organischen Bewegung Diese haben den Trieb , die Bewegung der Planeten.
+
+ewig , fortzusetzen . „ In allen Fällen , wo ein Gleichgewicht >
+
+stetig beschleunigender Kräfte aufgehoben ist, wird ein Proceß eingeleitet werden , der sich selbst erhält und also einem organischen Triebe gehört.
+
+Die Kräfte werden nämlich hier mit stetiger Beschleunigung zur Herstellung des Gleich gewichts wirken und so jeden Theil des Systems in die
+
+Stellung des Gleichgewichts zurückführen.
+
+Allein in dieser
+
+Stellung kommt nun jeder Theil mit einer bestimmten
+
+Geschwindigkeit an , welche ihn nach entgegengesetzter Richtung wieder darüber hinausführt; und da auf jener Seite die Kraft gleichförmig entgegenwirkt , so wird die Bewe: gung aufhören , wenn hier die Abweichung vom Gleichge: wicht eben so groß als anfangs geworden ist, so daß · nun der Proceß von dieser Seite wieder von vorn be: Hiernach ist offenbar der Lebenstrieb gar ginnt. ” *)
+
+nichts anderes als was Newton und Fries selbst anderweitig als die Trägheit fassen , nämlich die Unmöglichkeit des Körpers , sich selbst aus eigner Kraft aus der Bewe:
+
+gung in die Ruhe oder aus der Ruhe in die Bewegung zu versetzen . Das Einzige was hier zur Trägheit noch hinzukommt , um sie in einen organischen Trieb umzuwandeln , ist die periodische Wiederkehr der Bewegung.
+
+Diese ist aber gesetzt durch bestimmte äußere Verhältnisse zwischen den Körpern und ihren bewegenden Grundkräften ; das Princip aber , wodurch der Körper in dieser zusammenge: setzten Bewegung sich erhält, ist doch wieder die Trägheit, so daß also dasselbe Princip die Körper zu lebendigen und zu todten macht.
+
+Hänge ich ein Pendel auf und setze es
+
+*) Naturphilos. S. 588. Müller. II .
+
+[p. 274] vermöge seiner Trägheit in Bewegung , so ist es beseelt; werfe ich es herab, so ist es todt -- vermöge seiner Trägheit. Und der vegetabilische, thierische Organismus ? Ist sein Leben nicht ein specifisch anderes als das Leben eines Pendels ? schon darum ein anderes , weil der vegetabilische und thierische Organismus in seiner periodischen Bewegung doch nie derselbe bleibt , sondern in jedem Mo: mente zugleich ein anderer wird , und in dieser Verände:
+
+rung wie er anfing zu sein so auch dem Tode entgegen geht ? hört die thierische Bewegung auch zulegt auf wegen müssen wir von den der äußeren Reibung ? Freilich Principien der mathematischen Naturphilosophie aus ant worten – wird der thierische Organismus noch mancherlei an sich haben , wodurch er sich vom Pendel unterscheidet ; was ihn aber zum lebendigen macht, ist im Wesentlichen doch dasselbe.
+
+Wie kommt aber Fries dazu , diesen Proceß , welcher mit dem Leben offenbar nichts zu thun hat , als Lebens: proceß zu bezeichnen , zumal nach dem Vorgange Kants ? Gerade die Erinnerung an Kants Auffassung vom Leben kann uns hierüber die nöthige Auskunft geben. Kant knüpfte die Deduction des Princips der teleologischen Ur theilskraft an den Überschuß der empirisch gegebenen Ge:
+
+setze über die a priori deducirbaren an ; er fragte: wie sind die Erscheinungen zu fassen , welche durch die reinen Ge setze des Verstandes nicht bestimmt werden ?
+
+Ähnlich geht
+
+Fries zu dem Begriffe des Naturtriebes fort, weil nicht die ganze Erscheinung z. B. der elliptischen Bewegung durch die Grundkräfte gesetzt ist. Wenn nun aber weiter Kant die Idee des Lebens dem Mechanismus antinomisch gegenüber stellte , zugleich aber die Lösung dieses Gegen: satzes postulirte , ohne jedoch eine wirkliche Lösung begreifen [p. 275] zu können , so wirft Fries in der Naturphilosophie das Te: leologische fort, nennt aber das Mechanische und Dynamische, was er nun allein in den Händen behält , doch noch Leben , ohne in den Proceß desselben irgend eine Energie aufzunehmen , welche nicht rein mechanischer und dynamischer Natur wäre ; denn was außer dem Mechanismus der Grundkräfte noch in dem Lebensproceß ist, sind nur jene zufälligen äußerlichen Verhältnisse , welche dem mechanischen Processe die
+
+Gestalt eines periodischen Verlaufes geben können. Der letzte Abschnitt der Friesischen Naturphilosophie, die Phänomenologie enthält außer den Kantischen Sätzen besonders eine Untersuchung über das Verhältnis der reinen Theorie zu den Inductionen aus der Erfahrung . Fries nimmt hier die wichtigsten empirischen Hypothesen durch , um zu zeigen , welche Fragen zunächst von der Naturphilosophie zu lösen sein möchten. Als Hauptgedanke wird durch die ganze Untersuchung hindurch festgehalten : daß so nothwendiges in einzelnen Zweigen der Naturwissenschaft für jetzt auch sein möge, nur die Thatsachen zu sammeln und durch Combination und In: duction die allgemeinen Gesetze zu finden , doch als das letzte Ziel die Ausbildung der constitutiven Theorien durch die Hülfe der Mathematik angestrebt werden müsse;. denn so unvollkommen auch im Besonderen die Ausführung der Naturphilosophie noch sei, so sei doch im Allgemeinen unwiderruflich bewiesen , daß sich alle physikalischen Theorien auf rein mathematisch bestimmbare Erklärungsgründe zurück: führen lassen müßten.
+
+[p. 276] 4. Verhältniß der Kantischen Naturphilosophie zur empirischen Naturwissenschaft. §. 1 . Je höher man den inneren Werth und das histo :
+
+rische Recht der Kantischen Philosophie schätzt, desto mehr wird man geneigt sein , über ihren Einfluß auf die empi: rische Naturwissenschaft eine günstige Prognose zu stellen . Jedoch werden wir sicherlich noch nicht zufrieden sein , wenn hie und da die beliebte Kantische Kategorientafel von den Physikern benutzt wird , um ein Mate:
+
+rial äußerlich zu systematisiren , während sich in den ander: weitigen Reflexionen von der Kantischen Philosophie keine Spur findet. Eben so wenig ist es Kantische Philosophie, wenn manche Physiker sich der Kantischen Behauptung an schließen , in der Naturwissenschaft sei nur so viel Wissen schaft, als Mathematik darin anzutreffen sei, dabei aber von allen den Deductionen nichts wissen , durch welche Kant diese Anwendung der Mathematik begründet. Bis-: weilen findet man auch wohl unter der Firma Kants alle Erkenntniß a priori verworfen ; die kritische Methode wird mit der inductorischen für Eins geachtet, und der Em:
+
+piriker meint, am meisten dem Kant anhängen zu können, weil dieser wenigstens nicht a priori construirt habe ; die Kantische Naturphilosophie ist so nur eine neue Ausgabe von Baco's Organon.
+
+Am seltsamsten aber sieht es aus, wenn man mit der Versicherung, das Wesen der Dinge sei nicht zu erkennen , sogleich der Kantischen Philosophie die
+
+Hand reicht, ohne zu wissen , daß Kant außerdem die allgemeinen Gesetze der Erscheinung mit unumstößlicher Gewißheit erkannt zu haben behauptet.
+
+[p. 277] Wie steht es aber mit dem Kern der Kantischen Na :
+
+turphilosophie ? ist die Dynamik in ihrer bestimmten Be : deutung , die sie bei Kant hat , mit ihrer allgemeinen Basis des subjectiven Idealismus und ihrem letzten Ausläufer, der Idee des Lebens , in der empirischen Naturwissenschaft zur Geltung gekommen ? hat die Empirie dieselbe als das allgemeine Fundament aller Naturwissenschaft anerkannt ? und hat sie auf diesem Fundamente weiter gebaut ?
+
+Entschieden die meisten Empiriker haben sich grundwenig um die Kantische Philosophie gekümmert; vielmehr sind sie mit der Beobachtung des Einzelnen beschäftigt, und suchen auf dem Wege der Induction die Bedingungen und Ge: setze der Erscheinungen zu entdecken. Besonders in den Lehrbüchern der Physik giebt die Aufgabe , das Ganze der Naturwissenschaft darzustellen , die Veranlassung , auch über die ersten Bedingungen der Natur zu reden ; und hier vor Allem treffen wir denn vielfach nicht bloß auf einzelne Lehr: sätze aus der Kantischen Dynamik , sondern auch wohl auf weitläuftige Excerpte und auf die entschiedenste Anerken: nung der Kantischen Naturphilosophie.
+
+Sind wir aber über diese Abschnitte der Physik hinaus , so kommt uns die Kantische Philosophie in dem weiteren Verlauf der
+
+Untersuchung nicht wieder zu Gesichte ; höchstens wird einmal unter anderen unhaltbaren Hypothesen auch eine Kantische Reflexion aufgeführt. *) * ) Siehe z . B. Gren6 Grundriß der Naturlehre. 3. Aufl. Halle 1797. S. 231. In der Vorrede heißt es : „ Im ersten Hauptstücke trage ich die metaphysische Naturlehre vor , die mit Recht den übrigen Theilen der Physik vorausgehen muß. Es ist in der That unverzeihlich , die aufklärungen , welche die kritische
+
+Philosophie hier verschafft hat , zu ignoriren. Die Gründe derselben für das dynamische und gegen das atomische Systeme bestimmen meine Ueberzeugung für das erstere; doch trage ich auch das lockere zugleich vor.”
+
+[p. 278] Zu den Physikern , welche sich mit Ernst der Kanti
+
+schen Philosophie annehmen , gehört vor allem I. C. Fischer, Verfasser der Geschichte der Physik und des physikalischen Wörterbuchs. Jedoch auch er unternimmt es nicht, die Kantische Dynamik durch die besonderen Erschei: Am vollständigsten versucht dies Hildebrandt. Es wird von Interesse sein , in Hildebrandts Anfangsgründen der dynamischen Naturlehre einen Blick zu thun. *) Sogleich die ersten Abschnitte, besonders das erste Kapitel: von der Möglichkeit einer Natur , sind nicht geeignet , ein günsti nungen durchzuführen.
+
+ges Urtheil über Hildebrandts Philosophie zu erwecken . Denn sie enthalten eine Menge disparater Elemente , Reminiscenzen aus verschiedenen philosophischen Systemen, welche jedoch zulett glücklich in Kantische Resultate auslaufen.
+
+Offenbar hat es sich Hildebrandt so bequem wie möglich mit der Philosophie gemacht.
+
+Er hat sich mit
+
+Kants weitläuftigen kritischen Werken nicht lange aufgehalten , sondern sich sogleich an die Anfangsgründe der Naturwissenschaft gewandt. In dem vierten Kapitel der Naturlehre : von der Bildung der Materie , wird die Frage aufgeworfen , wie Materie überhaupt möglich sei. Die Atomistik giebt hierauf keine Antwort , sie erklärt nicht die Materie , sondern setzt dieselbe voraus ;
+
+„, diese Erklärung gewährt aber die von dem großen Kant gestiftete Dynamik , eine Lehre , welche in der ganzen
+
+Naturlehre Epoche gemacht, und über so viele Erscheinungen bisher unbekannt und unmöglich gewesene Aufschlüsse geliefert hat.
+
+Der Dualismus in der Natur , ein stetes
+
+* ) Hildebrandt Anfangsgründe der dynamischen Naturlehre. Erlangen 1807.
+
+2. Th.
+
+[p. 279] Entgegenstreben zweier einander entgegengesetzten Kräfte, spricht nicht allein in der ganzen Kette von Erscheinungen , welche dem Auge sich darstellen , sondern selbst in der moralischen Sphäre sich so deutlich aus , daß er einem eindringenden Blicke nicht entgehen kann. Daher finden wir ( von Ormuzd und Ariman bei Zoroaster, bis auf Winterls Säure : und Baseprincip u. s. w. ) diesen Dualismus in einer großen Zahl verschiedener Ansichten und verschiedener Namen aufgefaßt. Über keiner hat ihn in der materiellen Sphäre so klar erkannt , und seine Kenntniß so fest begründet , als der unsterbliche Stifter des dynamischen Systems,
+
+in welchem nicht die Materie vorausgesetzt, sondern die Materie selbst aus der Vereinigung zweier Grundkräfte gebildet wird. ” *) Das Verhältniß der abstoßenden und anziehenden Kraft zu einander bietet nach Hildebrandts Einmal Auffassung sogleich verschiedene Modificationen . müssen jene beiden Kräfte , da durch ihre Vereinigung die
+
+Materie eristirt , ein Bestreben haben , sich zu vereinigen, Dies Bestreben muß durchaus von derjenigen Anziehung unterschieden werden , welche die also Materie zu werden .
+
+anziehende Kraft allein bewirkt. Diese selbst aber wirkt wieder zwiefach auf jeden Körper : erstlich in sofern sie in ihm selbst der Grund seines Zusammenhanges ist, und zweitens in sofern sie ihn gegen andere , außer ihm liegende, Körper treibt ; jenes ist die innere , dieses die äußere Anziehung.
+
+,, Unter gewissen Umständen fann jene durch ihr
+
+Berhältniß zu der sie schwächenden Dehnkraft ( in flüffigen Körpern ) im Stande sein , von äußerer Anziehung zu einem anderen Körper überwunden zu werden , so daß Theile des
+
+Körpers sich vom Ganzen trennen und an dem anderen *) Ebend. S. 116. 117.
+
+[p. 280] Körper haften.
+
+Wo auch die Wirkung der äußeren Anziehung nicht so weit geht , wird die innere doch durch die äußere vermindert , und die Gestalt des Körpers durch den Zustand bestimmt, in welchem die innere Anziehung mit der äußeren im Gleichgewicht steht.
+
+Oft wirken mehrere äußere Anziehungen auf einen Körper zugleich , und seine Gestalt hängt von dem Zustande ab , in welchem alle diese äußeren Anziehungen mit der inneren im Gleichgewicht stehen. Was wir bei solchen Erscheinungen äußere Anziehung nennen , ist sehr oft jenes Bestreben einer Grundkraft in einem Körper gegen die entgegengesetzte in dem anderen. Auch dieses Bestreben kann jener Anziehung , der inneren , oft auch der äußeren , entgegenwirken , oft durch eine äußere unterstützt werden.
+
+Alle diese Bestrebungen wirken aus größeren und kleineren Sphären der Körperwelt wechselseitig gegen einander , kleinere werden durch größere überwunden , und es entstehen in den einzelnen Körpern innere Bewegungen , welche den Zustand verändern , bis die Bestrebungen mit einander im Gleichgewicht sind. Aber nach dem Gesetze der Trägheit gehen diese Bewegungen über den Zustand des Gleichgewichts hinaus und veranlassen dadurch neue Bewegungen , welche sie hemmen. Auf diese Weise wird der fortdauernde Wechsel der Materie unterhalten ." *)
+
+Durch diese Annahme hat sich Hildebrandt zu den besonderen Erscheinungen einen sehr weiten bequemen Weg gebahnt. Sogleich die Erklärung der Cohäsionsunterschiede machte bei Kant wesentliche Schwierigkeiten ; Hildebrandt kennt diese Schwierigkeiten nicht. Die Cohäsion wird unmittelbar zurückgeführt auf die innere Anziehungs * ) Ebend. S. 120 ff.
+
+[p. 281] kraft, welche zur Eristenz der Materie nothwendig gehört ; der Unterschied des Festen und Flüssigen entsteht somit aus der verschiedenen Stärke jener inneren Anziehung . Eben daraus hatte aber Hildebrandt vorher schon die verschiedene Dichtigkeit der Materie erklärt , wie sich beide Erschei:
+
+nungen zu einander stellen , bleibt ganz im Dunkeln. Wenden wir uns sogleich zu den Erscheinungen , auf deren Erklärung Kant sich gar nicht einläßt , so widerspricht Hildebrandt in Bezug auf das Licht sowohl der Emanations- als der Vibrationshypothese, obwohl er der ersteren den relativen Vorzug giebt.
+
+„ Es scheint überhaupt nicht allein unnöthig , einen Stoff des Lichts anzunehmen , sondern auch unstatthaft , sich das Licht als etwas materielles zu denken . Es ist das erhabenste in der ganzen sichtba:
+
+ren Natur ; nicht, wie die Stoffe unserer Erde , auf diese kleine Sphäre beschränkt; ein belebendes Gemeingut nicht nur unseres Sonnensystems, sondern auch anderer Sonnen systeme, deren Sonnen wir , vermöge ihres Lichts , in weiter Entfernung erblicken : selbst noch nicht Materie , sondern die noch freie Dehnkraft selbst , die den Raum zu erfüllen strebt, und noch nicht durch anziehende Kraft zur Materie beschränkt ist.
+
+Das Licht verbreitet sich im Raum , aber es erfüllt ihn nicht. Wir können so viele Sterne , die über unserem Horizonte liegen , zugleich sehen , ohne daß die von einem zu unserem Auge gehenden Lichtstrahlen die von einem andern kommenden hindern , zu demselben zu gelangen.
+
+Wir können durch eine sehr kleine Deffnung eine Menge Gegen stände zugleich sehen . Ein kleines Linsenglas giebt uns die Abbildung einer weiten Gegend.
+
+Dieses alles wäre wohl nicht möglich , wenn das Licht Materie , also undurchdring:
+
+lich wäre. Auch zeigt uns das Licht selbst gar nichts, als
+
+[p. 282] + das Bestreben , sich im Raume zu verbreiten ; Aenderungen , die es in Materien macht oder erleidet , lassen sich aus dem Bestreben der Dehnkraft erklären , mit der anziehenden vereinigt zu werden . " *) leuchtende Körper sind hiernach solche , welche. ein Uebermaß von Dehnkraft d. h. mehr
+
+Dehnkraft haben , als durch ihre anziehende Kraft gebunden werden kann.
+
+Vermöge des Bestrebens nach Gleichgewicht verbreitet sich diese freie Dehnkraft nach allen Seiten in den umgebenden Raum , und erscheint, wenn sie daselbst das Auge trifft , als Licht.
+
+Fällt das Licht auf
+
+Körper , so wird die in ihnen liegende Dehnkraft der freien Dehnkraft des Lichts widerstreben , und so Zurückstrahlung entstehen ; dagegen wird die anziehende Kraft des Körpers das Licht mit sich zu vereinigen streben. Von dem Verhältnisse und der Modification dieser Kräfte wird es abhängen , ob eines oder das andere, oder beides und in welchem Verhältnisse es geschieht. **) Auch die Brechung des Lichts findet hierin ihre Erklärung. Je dichter die Körper sind ., je stärker also in ihnen die anziehende Kraft wirkt , desto mehr Anziehung haben sie zum Lichte , vermöge des Bestrebens der beiden Grundkräfte , sich mit ein:
+
+ander zu vereinigen und sich ins Gleichgewicht zu legen.
+
+Diese Anziehung wirkt aus den Körpern selbst in einiger Entfernung auf den umgebenden Raum , und lenkt das Licht sowohl beim Eingange aus einem lockeren Körper in einen dichteren , als bei dem Ausgange aus einem dichteren in einen lockeren von seinem Wege gerade so ab , wie es das Gesetz der Brechung bestimmt. *** ) Troß der
+
+* ) Ebend. S. 511 ff. ** ) Ebend. S. 513. 515.
+
+***) Ebend. S. 584.
+
+[p. 283] Leichtigkeit, mit welcher hier die Erklärungen vom Stapel laufen , gehen Angesichts der unendlichen Mannigfaltigkeit der Lichterscheinungen unserem Dynamiker zuletzt doch die Gedanken aus ; er begnügt sich mit dem „ vielleicht” , und muß sogar einige Erscheinungen als bis jetzt schlechthin unerklärlich stehen lassen . Auch die Wärme ist nichts anderes als Dehnkraft.
+
+„ Die Dehnkraft , welche in ihrem freien Zustande uns als
+
+Licht erscheint, kann , in der Sphäre ihrer Verbreitung Körper antreffend , von der Materie aufgehalten und angenommen werden , mit ihr sich verbinden und an ihr haften. In diesem Zustande bewirkt sie das , welches wir Wärme nennen . Die Wärme ist demnach die an der Materie schon haftende Dehnkraft ; in ihrem Ursprunge mit dem Lichte identisch , aber in ihrem Zustande von dem Lichte wesentlich verschieden. Jede Materie hat eine gewisse Quantität von Dehnkraft , welche mit ihrer anziehenden Kraft innig vereinigt ist. Vermöge dieses ist sie Materie ; diese kann sie nicht verlieren , ohne aufzuhören Materie zu sein .
+
+Aber außerdem kann ein Körper eine größere oder geringere Quantität von Dehnkraft haben, die nur an seiner Materie haftet, und dadurch diese mehr oder weniger ausdehnt ; diese ist die Wärme.” *) Zur Erklärung der magnetischen Erscheinung nimmt Hildebrandt eine im Körper entstandene Entzweiung seiner Grundkräfte an .
+
+Ein Magnet unterscheidet sich von unmagnetischem Eisen durch eine in ihm entstandene Entzwei:
+
+ung . ( oder wie sie gewöhnlich heißt : Vertheilung ) beider Grundkräfte. Eine gewisse Quantität seiner Grundkraft ist in ihm dermaßen frei geworden , daß diese zwar noch an * ) Ebend. S. 694. 695.
+
+[p. 284] der Materie des Eisens haftet , aber doch über die Grenze derselben hinaus wirken kann ; die frei gewordene Dehn:
+
+kraft ( + m) wirkt aus dem einen , die frei gewordene anziehende Kraft ( m ) aus dem anderen Pole hinaus.
+
+Da aber das Freiwerden jeder dieser Kräfte dem allgemeinen Bestreben derselben , sich zur Materie zu vereinigen , entgegen ist , so entsteht daraus , daß das an einem Pole eines
+
+Magneten wirkende + m das an dem gleichnamigen Pole eines anderen Magneten wirkende + m in seiner Nähe nicht duldet ; daher das Abstoßen der gleichnamigen Pole. Hingegen aus dem Bestreben der Grundkräfte , sich mit einander zu vereinigen , entsteht das Anziehen der ungleichnamigen Pole ; doch kann es nicht zur Vereinigung beider Kräfte kommen , weil jede an ihrer Eisenmasse haftet.
+
+Daß das Eisen zum Magnetismus vorzüglich fähig sei , läßt sich einigermaßen aus seiner eigenthümlichen Beschaffenheit begreifen , indem es als ein Stoff von vorzüglicher Dichte und noch vorzüglicherer Cohäsion , zugleich aber als ein brennbarer Stoff beide Grundkräfte auf besondere Weise mit einander verbindet . ” *)
+
+Auch die elektrischen Erscheinungen sind unmittelbar auf die Grundkräfte zurückzuführen. Schwierigkeit machen hier besonders die Erscheinungen , in welchen im Unterschiede von den magnetischen eine besondere elektrische Materie hervorzutreten scheint; so die Zurückhaltung der Mittheilung der Elektricität durch die Luft und die viel leichter erfolgende Mittheilung in verdünnter Luft ; dann das sichtbare Ausströmen eines leuchtenden Etwas aus Spitzen elektrisirter Körper , welches doch nicht bloßes Licht sein kann , weil es (als elektrisches Agens) nicht durch * ) Ebend . S. 900 f .
+
+[p. 285] Glas wirkt ; ist es nicht bloßes Licht d . i. bloße Dehnkraft, so muß es schon mit anziehender Kraft verbunden , also Materie sein ; ferner das Gefühl eines solchen Ausströmens u. s. w. u. f. w. Jedoch ,. auch diese Erscheinungen möchten sich meist aus bloßer dynamischer Bewegung , theils in den elektrisirten Körpern , theils in der zwischen zweien elektrisirten Leitern befindlichen Luft oder Feuchtigkeit erklären lassen , ohne daß man besondere von der Materie dieser
+
+Körper selbst verschiedene elektrische Materien anzunehmen nöthig hätte. ” *)
+
+Die meiste Schwierigkeit bieten die Erscheinungen des chemischen Processes.
+
+Jede besondere Art der Materie betrachtet die Dynamik als ein besonderes Verhältniß der beiden Grundkräfte, und die Mischung als eine Zusammensetzung zweier solcher Verhältnisse. ,, Ein Gemisch ist demnach ein Verhältniß beider Grundkräfte , das aus den beiden
+
+Verhältnissen seiner Grundstoffe zusammengesetzt ist, und die wechselseitige Durchdringung zweier Stoffe besteht nach diesem Begriffe eben darin , daß in den Raumtheilen des Raums , welchen ein Gemisch ausfüllt, nirgend mehr das einzelne Verhältniß eines Grundstoffs , sondern in allen das zusammengesetzte Verhältniß des Ganzen herrscht.” **) In der eigentlichen dynamischen Mischung erscheint daher das Gemisch als ein von den Grundstoffen ganz . verschiedener Stoff, in welchem die eigenthümlichen Beschaffenheiten jener nicht mehr wahrzunehmen sind. Es entsteht diese Mischung aus dem allgemeinen Bestreben nach Gleichgewicht. ,, Zwei durch Dehnkraft und anziehende Kraft erfüllte Räume, in denen ungleiche Verhältnisse beider Kräfte Statt finden, * ) Ebend. S. 1013. 1017 . **) Ebend. S. 1030 .
+
+[p. 286] wirken so lange auf einander , bis in beiden ein gleiches Verhältniß bewirkt ist und beide einen Raum ausmachen , in welchem durchaus dieses gleiche Verhältniß herrscht.” *)
+
+Hieraus ergiebt sich zugleich der dynamische Begriff der Sättigung. Um die specifische Verwandtschaft der einzelnen Stoffe zu einander zu erklären , muß außer der allgemeinen eine specifische Anziehung angenommen werden. **)
+
+Indem aber ferner aus jeder chemischen Mischung die einzelnen Grundstoffe durch sehr verschiedene Scheidungsmittel als dieselben wieder ausgeschieden werden können , so scheint es , daß die einfachen Verhältnisse der beiden Grundkräfte auch in der Zusammensetzung noch eine gewisse Selbständigkeit beibehalten. ***)
+
+Ist denn nun aber wirklich das verschiedene Verhältniß der Grundkräfte zu einander ausreichend , die Verschiedenheit der besonderen chemischen Elemente zu erklären ? „ Obwohl unendlich viele verschiedene Verhältnisse dieser beiden Kräfte sich denken lassen , so ist doch aus der bloßen Verschiedenheit dieser Verhältnisse nur die verschiedene Dichtigkeit der Stoffe , höchstens die verschiedene Stärke und Härte , die verschiedene Schmelzbarkeit, Flüchtigkeit, begreiflich , wenn man nicht noch gewisse Bestimmungen zu Hülfe nimmt. Wie sollen wir daraus die unabsehliche Menge anderer Verschiedenheiten und ihre vielfachen Durchkreuzungen begreifen , in denen die einzelnen Beschaffenheiten gar nicht mit einander im Verhältnisse stehen ? Wie begreifen , daß selbst jene Beschaffenheiten : Dichtigkeit, Stärke, Härte, Schmelzbarkeit, Flüchtigkeit, - in den verschiedenen Stoffen * ) Ebend . S. 1033. **) Ebend. S. 1024. 1035. ***) Ebend. S. 2078 .
+
+[p. 287] nicht mit einander im Verhältnisse stehen ? ” .*) Nach einem sehr unklaren Versuch , Winterls Gegensatz zwischen zwei begeistenden Principien zu den dynamischen Principien hinzuzunehmen , schließt Hildebrandt die Naturlehre mit den Worten : „ Wenn wir es nicht ganz aufgeben wollen , die Verschiedenheit der Materie zu erklären , so können wir kaum vermeiden , uns in die Atomistik zu verirren . ” Schon in einem früheren Aufsatz über die Modification
+
+der Materie ** ) hatte Hildebrandt es versucht diese Schwierigkeiten zu lösen , ohne jedoch zu einem einigermaßen befriedigenden Resultate gekommen zu sein ; vielmehr neigt er hier entschieden zum Atomismus hinüber. Um zu begreifen , behauptet er , wie die einfachen Materien sich in der mannigfachsten Weise mit einander vermischen und diese Gemische selbst wieder so unendlich verschieden sind , oder um die Modification der Materie zu begreifen, soll man der atomistischen oder eigentlich mechanischen Ansicht nicht entbehren können. „Ich sehe in dieser Ansicht gar nichts ungereimtes , wenn man nur nicht das Nebeneinandersein sich auf eine zu krasse Weise vorstellt. Sind ja doch in jedem Körper die Dehnkraft (R) und anziehende
+
+Kraft (A) neben einander , um das auszumachen was Materie heißt.
+
+Die Materie ist nun selbst eine aus diesen beiden zusammengesetzte Kraft ; jene zeigt sich bei der Undurchdringlichkeit, diese bei der Cohäsion ; warum soll nicht eine Materie (eine zusammengesetzte Kraft) neben einer anderen Materie (einer anderen , in einem anderen Verhältnisse von R und A zusammengesetzten Kraft) da sein und wirken können ?”
+
+Hildebrandt erläutert diese
+
+*) Ebend. S. 2072. ** ) S. Gehlens Neues allgemeines Journal der Chemie. Berl. 1805. S. 605 f.
+
+5. Bd .
+
+[p. 288] Ansicht folgender Maßen : Die Wärme ist nichts anderes als die R selbst; sie ist aber theils gebundene Wärme, vermöge deren ein Körper Gas , Dampf , liquid oder fest ist , theils freie , vermöge deren er mehr oder weniger warm ist , d. h. einem anderen Körper , der weniger freie Wärme hat , von seiner freien Wärme etwas mittheilen
+
+theilen kann.
+
+Es giebt gewisse Materien , welche ursprünglich A , nur in verschiedenem Verhältnisse sind: man könnte R auch diese Urstoffe nennen .
+
+Ein solcher ist das Licht, welches mit seinem R nur ein Minimum von A , nur soviel
+
+A verbindet , als ihm eben nöthig ist, um gleichsam die erste Stufe der Materie auszumachen ; es heiße L. Dieses Licht kann mit gröberen Materien sich verbinden, so daß es , nach Maaßgabe des A derselben , in einem viel kleineren Raum begränzt wird , als der ist, in welchem es sich im freien Zustande verbreitet. Die brennbaren Materien sind solche , welche außer ihrem A , von welchem ihre Dichtigkeit abhängt , noch gebundenes Licht enthalten. Wie dem R das A entgegengesetzt ist, so giebt es auch einen Urstoff, der dem Licht entgegengesetzt , nämlich ein solches
+
+R ist , in welchem das A nur mit einem Minimum von R verbunden ist; wir bezeichnen ihn als F. Die beiden Kräfte, welche bei der Elektricität und dem Galvanismus wirken, bestehen aus L und F. Das + E besteht aus L mit einem
+
+Minimum von F , das — E aus F mit einem Minimum von L.
+
+Die elektrischen Materien sind nicht bloßes Licht, denn sie gehen nicht durch Glas , nicht durch trockene Luft. Sie sind nicht bloß Wärme, denn Kohle leitet sie gut, aber die Wärme schlecht; und sie sind ja einander entgegengesetzt. Wasser ist auch ein Urstoff, bloß A ohne L oder F. Mit + E wird es zu Hydrogen , mit — E zu Orygen ; aber wenn es sich in Orygen oder Hydrogen [p. 289] scheidet , so theilen sein eigenes A und R sich so, daß das Orygen , welches -E bekommt , dagegen so viel R vom
+
+R des Wassers erhält , als ihm nöthig ist, Gas zu sein . Geschähe dies nicht , so müßten , weil das - E aus F mit einem Minimum von L besteht, das Orygen eine Materie werden , die viel dichter wäre als Wasser. Die große Ausdehnung des Hydrogen rührt von dem großen R des in Hildebrandt regt ausdrücklich ihm enthaltenen L her. hinzu : „Ich bitte nicht zu vergessen , daß alle diese letzteren Säße nur hypothetisch hingeworfene Ideen sind , die ich vor der Hand bloß deßwegen hingeworfen , um zu zeigen, wie jene Vorstellungen von Modification mit dem dynamischen Systeme vereinbar sind und wie man genöthigt sei, eine gewissermaßen atomistische Darstellung (die jedoch der Verstand rectificiren muß) zu Hülfe zu nehmen , um die Modification begreiflich zu machen. Unsere Begriffe von der Natur der Dinge werden immer armselig bleiben , so lange unser Auge sich am Kleid der Dinge stößt.” Nur zum Zeichen der Genügsamkeit und Leichtfertigkeit der Dynamiker erwähnen wir einer Abhandlung von I. R. Deimann ( med . doct. zu Amsterdam ): Ueber die idender
+
+Grundkräfte , nach den Vorstellungen des I.
+
+Aus dem Holländ. übersetzt von I. A. Schmidt. *) . Der Verf. zeigt sich als ein sehr eifriger Anhänger der Kantischen Philosophie. Er referirt zunächst die Kantische itant.
+
+Deduction der Materie , und fragt dann , ob die Grundkräfte
+
+, Anziehung und Abstoßung , auch mit Recht diesen Namen verdienten , d. i. ob man im Stande sei, alle anderen
+
+Kräfte aus ihnen herzuleiten.
+
+Eben dies behauptet
+
+*) Reils Archiv für die Physiologie. 6. Band. 3. Heft. S. 491 ff. Halle.
+
+1805 .
+
+Schaller. II.
+
+[p. 290] Deimann
+
+Um jedoch nicht das Ansehen zu haben , als ob ich eine oberflächliche Betrachtung an die Stelle der Beweise sehen wollte , will ich wenigstens noch der bekanntesten allgemeinen Naturerscheinungen erwähnen . ” Diese Erwähnung ist nun aber auch alles , was der Verf. thut ; von Reflexionen , die auch nur im Entferntesten als Beweis angesehen werden könnten , finden wir keine Spur. Zunächst werden erwähnt die Erscheinungen der Schwere. „ Da nun Newton bei der Materie eine solche Anziehung angenommen , und als die einzige Ursache dieser allgemeinen Naturerscheinung angesehen hat , und wir so eben bewiesen haben , daß die Materie eine anziehende und zurückstoßende Kraft , als wesentliche Grundkraft , besitzt, so erhellt aufs Deutlichste , daß die allgemeine Anziehungskraft der natür:
+
+(ichen Körper eine modificirte Wirkung der Grundkräfte der Materie selbst ist .”
+
+Eben so verfährt der Verf. mit der gegenseitigen Verwandtschaft der chemischen Stoffe , mit dem Magnetismus und der Elektricität. Auch hier zeigt sich ein abstoßen und Anziehen folglich haben wir überall nichts weiter als Modificationen der Grundkräfte ; auf den specifischen Unterschied dieser Erscheinungen wird nicht weiter reflectirt.
+
+In einer folgenden Abhandlung *) wirft Deimann die Frage auf : Ist die Lebenskraft im Thier : und Pflanzenreiche der allgemeinen Grundkraft der Materie untergeordnet , oder ist sie eine eigne Grundkraft ? Die Abhandlung erschien schon im Jahre 1801 , und offenbar hat der Verf. Kants Kritik der Urtheilskraft noch nicht gekannt. Nach vielem müßigen Hin- und Herreden wird auf jene Frage Folgendes geantwortet : Ma *) Ebond. S. 518 1.
+
+[p. 291] terie und Kraft sind gar nicht zwei verschiedene metaphysische Begriffe. Ist aber Materie nichts Anderes als Kraft, be: trachtet aus einem objectiven Gesichtspunkte, und Kraft nichts anderes als Materie unter einem subjectiven Ge:
+
+sichtspunkte ; sind ferner Anziehung und Abstoßung die einzigen Erscheinungen, wodurch wir die Materie als Object der Erfahrung kennen , und sind alle übrigen Erscheinungen, die wir an der zusammengesetzten Materie wahrnehmen, besondere Modificationen dieser allgemeinen Grundkräfte ; dann muß gleichfalls die bildende Kraft , als Eigenschaft der organischen Materie , entweder eine Modification der allgemeinen Grundkräfte sein , oder die organische Materie kann nicht unter den allgemeinen Begriff der Materie ge: bracht werden , d. h. die Materie , woraus die Organe zu: sammengesetzt sind, ist dann wesentlich von der übrigen Materie in der Natur unterschieden , und besitzt, außer der allgemeinen wesentlichen Grundkraft , noch eine andere Grund kraft , nämlich die bildende.
+
+Da nun diese Vorstellung in sich selbst den größten Widerspruch enthält , und die organisirten Wesen den genauesten Zergliederungen zu Folge die nämlichen Grundstoffe liefern , die wir in der nicht organischen Natur antreffen , so bleibt uns nichts übrig als anzunehmen : die ursprüngliche Verschiedenheit und Mischung der organischen Materie , und die davon abhängende Organisation der lebenden Wesen , ist eine Wirkung der Verwandtschafts kräfte der chemischen Grundstoffe, die bei jeder besonderen Art von organischen Wesen auf eine besondere Weise modificirt ist. *)
+
+*) Ebond. S. 537
+
+19 *
+
+[p. 292] Reils Archiv bietet uns noch eine Untersuchung nach Kantischen Grundsätzen : Prüfung der neuesten Be : mühungen und Untersuchungen in der Bestim : mung der organischen Kräfte , nach Grundsätzen der Kritischen Philosophie , von I. Röllner. * ) Auch dieser Verf. hat sich um Kants Kritik der Urtheils : kraft noch nicht bekümmert , wenigstens bezieht er sich nie auf dieselbe, so sehr auch die ganze Untersuchung unmittelbar dazu aufforderte ; auch würde diese sicherlich eine ganz andere Gestalt angenommen haben , wenn der Verf. Kants hierher gehörige Entdeckungen vor Augen gehabt hätte. Was
+
+Kölner aus der Kantischen Philosophie entnimmt , bezieht sich besonders auf den Begriff der Kraft , dann auf den Unterschied der regulativen von den constitutiven Principien ; für den eigentlichen Gehalt der Untersuchung aber bleiben diese kritischen Reflexionen ohne wesentlichen Einfluß. Nach unseren bisherigen Untersuchungen wäre es überflüssig , diese Versuche einer specielleren Anwendung der Kantischen Naturphilosophie noch einer weiteren Kritik zu unterwerfen. Ihre Leichtfertigkeit und Uebereiltheit liegt besonders der Vorsicht und Enthaltsamkeit Kants gegenüber zu sehr auf der Hand. Jedoch ist auf der anderen Seite nicht zu übersehen , daß , so hoch wir auch diese Vorsicht Kants schätzen mögen , mit welcher er aus seinen allgemeinen Prinzipien sich nicht in das Besondere hinüber wagt , doch die Empirie vollkommen im Rechte ist, wenn sie fordert , daß sich diese allgemeinen Principien auch als solche bewähren sollen , daß also von ihnen aus und durch sie die besonderen Erscheinungen zu beweisen , sein müssen. Wahrhaft allgemein sind sicherlich erst diejenigen Principien , welche das
+
+}
+
+*) Reils Archiv . Zweiter BD. 2. u . 3. Dist S. 240 ff. 1797.
+
+[p. 293] Besondere nicht ausschließen , sondern umfassen . Es ist daher ganz in der Ordnung, wenn die Empirie die Kantische Naturphilosophie aus ihrer sicheren Sphäre der Augemeinheit heraustreibt, die concreten Erscheinungen des Lichts, der Wärme, des Magnetismus u. s. w . ihr entgegenhält, und sie nun darauf ansieht, was sie aus diesen zu machen im Stande ist. Wenn die Kantische Philosophie diese Probe schlecht besteht, so hat dies seinen wesentlichen Grund in der abstracten Gestalt ihrer Principien. Abstracte Principien sind eben diejenigen , welche in ihrer Allgemeinheit nicht den Puls der concreten Besonderung in sich fassen , welche daher das Besondere nicht in seiner ganzen vollen Bestimmtheit sondern nur nach irgend einer Seite hin treffen , welche somit in das Besondere gar nicht anders eingeführt werden können , als durch äußerliche Hinzunahme fremder , in ihnen selbst nicht enthaltener Momente , also durch Hülfe von Hypothesen , welche , wenn auch zu schwach um die Principien zu stürzen , doch die Unselbständigkeit derselben offen genug hervortreten lassen. Kant kennt für die physikalischen Erscheinungen keine andere Idealität als die Einheit der repulsiven und attractiven Kraft; alle weiteren Unterschiede der Materie müssen also auf die verschiedenen quantitativen Verhältnisse zwischen jenen Kräften zurückgeführt werden. Eben hierin liegt die Abstraction. Gehen wir bis auf den letzten Grund , so müssen wir freilich behaupten , daß durch diese Principien eigentlich auch die Erscheinung nicht begriffen ist, auf welche die Dynamik von Anfang hinweist , nämlich die verschiedene Dichtigkeit; wirklich , durch und durch , ohne allen Rückstand können abstracte Principien an keinem Punkte die Wirklichkeit ergründen , allein ihre Dürftigkeit wird doch viel offenbarer und entschiedener hervortreten , wenn [p. 294] es sich um die Erkenntniß solcher Erscheinungen handelt, die in sich concreterer Natur sind. Hier ist es denn wohl erklär:
+
+lich , wenn das Bedürfniß nach weiteren Bestimmungen und Unterschieden auf den Versuch führt, aus bloßer Repulsion einen Stoff zu gewinnen , wie Fries es that , oder die reine Repulsivkraft für sich festzuhalten als Licht oder Wärme , wie Hildebrandt dies behauptete ; beides läuft ohne alles Bedenken gleich
+
+sehr wider die Kantische
+
+Dynamik.
+
+§. 2. In der abstracten Gestalt der Kantischen Principien also ist es begründet , wenn von ihnen aus die Betrachtung der besonderen Erscheinungen der Natur sehr unbefriedigend ausfallen mußte:
+
+Das Verhältniß der Kantischen Natur:
+
+philosophie zu den empirischen Naturwissenschaften hat aber noch eine andere Seite.
+
+In der vorangehenden Periode wandte sich die Beob:
+
+achtung überwiegend an die Erscheinungen der Bewegung. Es gelang der Empirie , die allgemeinen Gesetze der irdischen und himmlischen Bewegung so vollständig zu entdecken , daß der Zeit nach Newton nur die weitere mathematische Formirung derselben übrig blieb. In der Zeit der dynamischen Naturphilosophie nehmen dagegen die magnetischen , elektrischen und chemischen Erscheinungen entschieden das wesentliche Interesse der Empirie in Anspruch ; diese vor Allem sind es , welche man durch die ganze Mannigfaltigkeit ihrer Formen in den scharfsinnigsten Versuchen und mit unverwüstlicher Ausdauer verfolgt, und es ist die Ehre und der Stolz der Empirie , auch hier das Constante , die wesentlichen Bedingungen , die allgemeinen Geseße gefunden zu haben.
+
+Und zwar beziehen
+
+[p. 295] sich diese gefundenen Gesetze fürerst auf jene Erscheinungen in ihrem Unterschiede , in ihrer Trennung von einander ;
+
+die Combination derselben , die Beobachtung ihres mannichfachen Ineinandergreifens , und der Versuch , sie trotz ihres Unterschiedes auf einen identischen Grund zurückzuführen , gehört dem wesentlichen Gehalte nach der neuesten Zeit an. Den Uebergang in diese bezeichnet die Entdeckung der Voltaischen Säule ; denn an dieser vor Allem kommt es an den Tag , wie der magnetische, elektrische und chemische Proceß unzertrennlich in einander greifen. Der specifische Charakter jener genannten Erscheinungen besteht nun im Allgemeinen in dem principiellen Hervortreten der Polarität. Die polare Erscheinung tritt nur als innerer wesentlicher Gegensatz in die Wirklichkeit, als eine unzertrennliche Beziehung zweier Seiten, Extreme auf einander.
+
+Wie aber diese Extreme trotz ihres
+
+Unterschiedes doch wesentlich zu einem Ganzen zusammengehören , so zeigt sich diese ihre innere Einheit als eine kräftige , energische, als eine Ueberwindung der räumlichen Entfernung, als ein Anziehen. Ähnlich ist aber auch die Beziehungslosigkeit der nicht im wesentlichen Gegensatz zu einander stehenden , also der identischen Extreme eine energische, sie erscheint als ein Abstoßen.
+
+Daß sich entgegengesetzte
+
+Pole anziehen , gleichnamige aber abstoßen , ist das allgemeine Gesetz der Polarität.
+
+Das Resultat aber des An ziehens erscheint als eine neutrale indifferente Einheit, welche aus sich selbst nicht im Stande ist, den Unterschied zu produciren und so zur neuen Thätigkeit durch eigene Energie zu erwachen. In Bezug auf die magnetische Polarität mußte es sogleich auffallen , daß sie einerseits , gebunden an ein Metall , als ein Isolirtes auftritt , von der andern Seite [p. 296] aber im unmittelbarsten Zusammenhange mit dem allgemeinen Processe der Erde steht. Ferner aber scheint der magnetische Proceß in die weitere Qualität des Körpers, an welchem er haftet , schlechthin nicht einzugreifen ; das Eisen zeigt keine weitere Veränderung , wenn es zum Magnet wird , oder die magnetische Polarität wieder verliert ; nur das räumliche Anziehen und Abstoßen , diese einfachste abstracteste Form der Polarität ist es , in welcher der Magnetismus zur Erscheinung kommt. In dem elektrischen Processe dagegen treten andere Momente hinzu ; so ist das Aufheben der elektrischen Polarität mit einer Erschütterung des Körpers und einem Leuchten verbunden .
+
+Ferner aber vermag sich dem elektrischen Processe kein Körper schlechthin zu entziehen , wenn auch die Rolle , welche er in diesem spielt ,, vielfach von zufälligen Äußerlichkeiten abhängt, und seine specifische Bestimmtheit unberührt läßt. Erst der chemische Proceß erfaßt den ganzen Körper , seine ganze specifische Qualität , verändert ihn durch und durch und läßt keinen Theil unangetastet stehen . Die allgemeine Form der Polarität tritt daher hier zunächst in den Hintergrund. Es handelt sich um die einzelnen specifischen Qualitäten selbst und deren bestimmte Beziehung zu einander ; ob und unter welchen Bedingungen , in welchem quantitativen Verhältniß sie sich chemisch neutralisiren , und wie kräftig diese Verbindung ist in Beziehung zu anderen . Die allgemeine Materie scheint zerfallen in eine Menge von specifisch bestimmten Materien , und jede derselben hat ihre specifische Polarität, ihr constantes Verhältniß zu jeder anderen . Diese Erscheinungen der Polarität bilden nun den unmittelbaren Gegensatz zur äußerlichen mechanischen Bewegung. In dieser weist kein Körper wesentlich auf einen anderen hin und über sich hinaus ; jeder ist nur die ruhige
+
+[p. 297] Beziehung auf sich , die träge Ausdehnung , welche zufälliger Weise von außen bewegt und eben so äußerlich wieder zur Ruhe gebracht werden kann.
+
+In der Schwere erkennt freilich die Empirie schon eine allgemeine Anziehung aller Körper gegen einander an , sucht diese aber auch sogleich als eine äußerliche zu fassen und vom Wesen des Körpers abzuhalten. Vor Allem soll die Anziehung keine physikalische sondern nur mathematische Bedeutung haben , soll ein Wort sein ohne physikalischen Sinn ; möglicher Weise ist sie doch nur die Erscheinung eines verborgenen Stoßes ; wenigstens soll die Trägheit , die Indifferenz des Körpers gegen die Bewegung in keiner Weise durch die Annahme der Anziehung angegriffen werden . Der in der Polarität verwickelte Körper hat dagegen entschieden aufgehört , die ruhige Gleichheit mit sich zu sein.
+
+Vielmehr strebt er durch den wesent:
+
+lichen Gegensatz nothwendig über sich hinaus , ist ein in sich selbst unvollständiges , mit einem anderen Zusammen gehöriges , und wird eben durch diesen Mangel, also nicht äußerlich sondern durch seinen inneren Widerspruch zur Bewegung fortgerissen. In den verschiedenen Formen der Polarität dringt diese Unruhe in immer tieferer Weise in den Körper ein. In dem magnetischen Proceß erscheint sie als ein Vereinzeltes , Absonderliches , in dem elektrischen Proceß wohl als ein Allgemeines, aber nur oberflächlich den Körper Afficirendes , dagegen im chemischen Proceß ist der Körper seiner ganzen Natur nach von inneren Gegensätzen durchdrungen. Die Materie ist nicht die eine , in sich selbst gleiche Ausdehnung , sondern vielmehr eine Vielheit von specifischen Bestimmtheiten ; und zwar stehen diese nicht als selbständig einander gegenüber , sind nicht beziehungslose Atome , sondern haben ein inneres wesentliches Verhältniß zu einander , in welchem sie durch ihre Bestimmtheit auf Schaller. II.
+
+[p. 298] einander hinweisen und sich gegenseitig durchdringen. Die Ruhe , Trägheit der Materie ist sonach nur das neu-trale Product aufgehobener innerer Gegensäße. 215 neutral ist dieses Product freilich auch träge , allein diese Trägheit ist keine urprüngliche, sie stellt nicht das
+
+Wesen der Materie dar , ist nicht die erste und höchste Def-inition der Materie.
+
+Wie viel Kant in seinen allgemeinen Reflexionen über die Materie durch die empirische Kenntniß dieser pola:
+
+ren Erscheinungen angeregt wurde, ist nicht zu bestimmen ; ebenso wenig, wie viel die experimentirenden Physiker durch Kants Gedanken bewußt oder unbewußt in ihrer Arbeit gefördert sind ; entschieden aber bildet die empirische Physik durch den Besitz der besonderen Gesetze der Polarität denselben Gegensatz gegen die empirischen Anschauungen der nächst vorangehenden Zeit , wie Kants Dynamik gegen die mechanische Naturphilosophie. Kant nimmt die Polarität sogleich in den Begriff der Materie auf ; diese ist wesentlich die neutrale Einheit entgegengesetzter Kräfte. Damit sind jedoch die besonderen Erscheinungen der bestimmten Polarität noch durchaus nicht begriffen . Ja , diese bleiben auch unbegriffen , weil Kant keine andere Idealität kennt als jene allgemeine Polarität , in dieser aber kein Princip der concreten Besonderung umfaßt ist. Die empirische Physik dagegen entbehrt in dieser Zeit entschieden der An-schauung der natürlichen Processe, in welchen alle besonderen polaren Erscheinungen in einander greifen und zu einem Gan:
+
+zen zusammentreten.
+
+Hat To Kant die Polarität nur im
+
+Allgemeinen , so hat die empirische Anschauung nur die be-sondere Polarität; Beides ist dieselbe Einseitigkeit, dort in der Sphäre des Denkens , hier in der Sphäre der empirischen Beobachtung.
+
+[p. 299] Der mechanischen und dynamischen Auffassung der Natur stellt Kant das Princip des Zwecks gegenüber.
+
+Fassen wir dies Princip , wie Kant es verlangt , zunächst streng nicht als constitutives sondern regulatives Princip , also als ein solches, in welchem die Erscheinungen nicht in ihrer allgemeinen nothwendigen Beziehung zum subjectiven Denken a priori erkannt, sondern vielmehr aus der Erfahrung auf-genommen und durch die Ideen der Homogenität , Specification und Continuität systematisch geordnet werden , so dringt es sich hier ganz von selbst auf , diesem Princip der teleologischen Urtheilskraft das künstliche System der organischen Gestaltungen parallel zu stellen , welches zur Zeit Kants noch in seiner vollen Blüthe und Anerkennung stand. Dies künstliche System resignirt ebenfalls darauf , die Erscheinungen des Lebens in ihrer objectiven Gesetzmäßigkeit und Nothwendigkeit zu erkennen , der Natur die Ordnung zu geben , welche a priori in ihrem Begriffe liegt ; es begnügt sich damit , nach subjectiven Gesichtspunkten zu ordnen , um die unendliche Mannigfaltigkeit der organischen
+
+Gestalten wenn nicht zu begreifen doch in der Vollständigkeit ihrer constanten Formen zu übersehen. Jedoch auch in die tendenz , den künstlichen Systemen ein natürliches entgegenzustellen , enthält die Kritik der Urtheilskraft den principiellen Uebergang. Kant fordert die Vereinigung des Zwecks und des Mechanismus, und knüpft selbst an diese
+
+Forderung die Hoffnung an , es möchte besonders mit Hülfe der comparativen Anatomie gelingen , wenigstens theilweise über die regulativen Principien hinaus auch in dieser Sphäre der Natur zur wirklichen Einsicht fortzugehen. Ist der Zweck zugleich Mechanismus , so tritt er damit aus der Subjectivität in die objective Erscheinung selbst hinüber ; auch die systematische Ordnung wird zu einer der Natur selbst im-20 * [p. 300] manenten , zum Proceß der sich selbst ordnenden Natur.
+
+An die Einheit des Zwecks und des Mechanismus schließt sich dann weiter die Idee des organischen Ganzen , in welcher der eine allgemeine Zweck die einzelnen Theile durchdringt eine und ihnen die bestimmte zweckmäßige Form giebt Idee , welche für die Entwickelung des natürlichen Systems der Zoologie von so fundamentaler Wichtigkeit war.
+
+Auf die Hypothesen pflegt die empirische Physik selbst keinen großen Werth zu legen ; wenigstens soll durch sie nicht das Wesen der Erscheinung erkannt sein ; es sind allgemeine Ausdrücke für eine bestimmte Reihe von Erscheinungen , durch welche diese vorläufig zusammengefaßt und besonders der mathematischen Rechnung unterworfen werden,
+
+Was die Hypothesen anbetrifft, welche zur Zeit
+
+Kants über die . polaren Erscheinungen aufgestellt wurden , so mischen sich in ihnen auf eine sehr unvermittelte Weise mechanische und dynamische Elemente. Schon in dem Festhalten der empirischen Methode im Gegensatz zur Speculation liegt als nothwendige Consequenz der Materialismus und die mechanische Auffassung der Natur *) ; zu dieser wird daher die reflectirende Empirie immer hinneigen. **) Von der anderen Seite machen sich aber mit demselben Rechte auch die dynamischen Elemente geltend , welche in der Anschauung der polaren Erscheinungen unmittelbar enthalten sind. So nahm * ) S. oben 1. Theil S. 60 ff.
+
+**) Zu derselben Zeit , als Kant die Anfangegründe der Naturwissenschaft schrieb, erschienen die Werke von le Sage und seinen Schülern.
+
+Man hat die Ansichten des le Sage als durchgeführtes mechanisches System der Kantischen Dynamik gegenübergestellt. Damit thut man jenen Ansichten entschieden zu viel Ehre an ; denn sie sind nicht mehr als eine besondere mechanische Hypothese , welche außerdem mit einer Menge willführlicher und fremdartiger Elemente untermischt ist.
+
+[p. 301] die Physik zur Erklärung der magnetischen und elektrischen | Erscheinungen eine besondere Materie an ; in diese verlegt sie vor allem den Grund des Anziehens und Abstoßens; die einzelnen Theilchen oder Atome derselben sind daher so beschaffen , daß sie sich theilweise gegenseitig abstoßen , theil-weise anziehen. Offenbar hat diese besondere Materie am meisten Aehnlichkeit mit der Kantischen allgemeinen Materie ; denn sie ist durch und durch polar , ihre Ruhe ist nur die Erscheinung des ausgeglichenen Gegensatzes. Ihr Unterschied von der Kantischen Materie besteht aber vor allem darin , daß die abstoßenden und anziehenden Kräfte den festen materiellen Theilen nur äußerlich anhaften ; die einzelnen Atome haben diese Kraft. Das Widersprechende dieser Verbindung pflegt die empirische Reflexion wohl einzugestehen , demungeachtet aber daran Festzuhalten , weil das endliche Denken doch unfähig sei, den wahren Grund der Erscheinung zu durchdringen. In der Chemie mußte vor dem das Bedürfniß entstehen , das Gesetze hypothetisch zu erklären , welches den Mittelpunkt der chemischen Entdeckungen bildet , nämlich das Gesetz der constanten Mischungsverhältnisse. Man hat von empirischer Seite wiederholt darauf hingewiesen , daß die Dynamik gerade dieses Gesetz aus ihrem Begriffe der Materie nicht zu deduciren im Stande sei. Im Wesentlichen hat dieser Einwand seine vollkommene Richtigkeit. Die Anhänger der Dynamik waren daher auch bemüht , jenes Gesetz wenn nicht zu leugnen , doch so viel wie möglich einzuschränken , und schlossen sich daher mehr an Berthollet Fries , welcher seine Naturphilosophie zu einer Zeit
+
+schrieb , in welcher das Gesetzes der constanten Mischungsgewichte als schlechthin unleugbar constatirt war , hofft eine Erklärung desselben von dem Verhältniß des elektrischen
+
+[p. 302] Processes zum chemischen , welches bisher noch durchaus nicht hinlänglich erkannt sei. *) Die Atomistik scheint hier viel einfacher, und sicherer zum Ziele zu führen . Dalton war bekanntlich der Erste , welcher der Atomistik diese chemische
+
+Wendung gab , und was seine Hypothese besonders empfahl und warum sie noch immer wenn auch mannichfach modificirt, von dem größten Theil der Chemiker festgehalten. wird , ist ihre unmittelbare Beziehung zu dem constanten
+
+Mischungsgewichten der chemischen Elemente und dem sich hieran schließenden Gesetz der Multiplen.
+
+Daß eben diese
+
+Gesetze aus Daltons Hypothese erklärt werden können , ist freilich nicht zu leugnen ; allein es ist mit dieser Erklärung ganz ähnlich wie mit diesen hypothetischen Erklärungen überhaupt : im Grunde ist sie nur eine Tautologie. Alles was erklärt werden soll , ist in die Atome verlegt ; die ganze Bestimmtheit derselben geht in das ursprüngliche quantitative Verhältniß auf , sie sind im Kleinen schon ganz dasselbe, was die zu erklärenden Erscheinungen im Großen sind. Abgesehen aber von dem Tautologischen der Erklärung, abgesehen davon daß Daltons Atomistik an denselben Widersprüchen leidet wie alle andere Atomistik , so hebt sie auch nur einzelne Momente an dem chemischen Proceß hervor, und erklärt eben nur diese , durchaus nicht den ganzen chemischen Proceß. Sollen die Atome dies leisten , so muß man ihnen , wie es die Chemiker zu thun pflegen , außer der Untheilbarkeit und dem bestimmten Gewicht, noch andere, nämlich dynamische Bestimmungen zuertheilen , wodurch die Atome eine ganz ähnliche widersprechende Gestalt annehmen als die magnetische und elektrische Materie. . *) Fries Naturphil. S. 657 ff.
+
+D r u fehle r.
+
+Siite 25. Zvile 5 v. oben statt a l 6 lies des.
+
+5 ' v. unten st. mußte I. müßte . 7 v. oben st. verlangen 1. verlegen .
+
+ft. welchen 1. welcher.
+
+st. also die l. allo dadurch daß die .
+
+ft. Sittlich keit 1. Sinnlichkeit.
+
+v. 0 .
+
+--
+
+st. des 1. der. ft. II, 1. IV.
+
+0. u. ft. auf I. eben.
+
+ft. willenschaftlichen Nutzen I. wifi senschaftliche Stütze.
+
+st. deni l. donn .
+
+Halle , Gebauer . Sometidlerdhe Buddruckerei
+
+GITAL

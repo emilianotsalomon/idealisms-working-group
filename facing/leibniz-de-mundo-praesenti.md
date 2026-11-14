@@ -1,0 +1,150 @@
+---
+title: De mundo praesenti
+author: Gottfried Wilhelm Leibniz
+id: 10157
+markers: [a, print]
+pairs_by: a
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The De mundo praesenti was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10157)
+---
+
+# G. W. Leibniz, *De mundo praesenti* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## 301. DE MUNDO PRAESENTI [Frühjahr 1684 bis Winter 1685/86 (?)]
+
+Überlieferung: L Konzept: LH IV 7C Bl. 111–114. 2 Bog. 4o. 9 Sp.
+
+Die Datierung stützt sich auf das zwischen Juli 1683 und März 1686 häufig belegte Wasserzeichen. Dieser Zeitraum kann aufgrund des Hinweises auf die von Cassini im März 1684 entdeckten Saturnmonde weiter eingeschränkt werden. Inhaltlich wird diese Datierung bestätigt durch die in dieser Zeit gewonnene, reife Darstellung der im Mittelpunkt stehenden Substanzproblematik.
+
+1 inest. (1) In quem locum D. Thomas ita commentatur: Haec ab Aristotele recte dicuntur sed (2) Haec L 2 habere (1) natura (2) aliquid (3) aliquod L 3 contingunt (1) consequuntur (2) naturaliter L 7 f. commentatus (1) gravitatem (2) inquirensque L 9 haec omnia gestr. recte L 11 involvit, (1) itaque (2) sed L 11 autor (1) est (2) seu L 13 veram erg. L
+
+7–9 THOMAS VON AQUIN, Expositio in octo libros physicorum, lib. II, lect. I, 144.
+
+[p. 1506] Omne Cogitabile est vel Ens vel Non Ens.
+
+Ens est de quo aliquid affirmari potest.
+
+Non ens cujus nulla sunt attributa nisi negativa. Scilicet si A neque est B neque C neque D, et ita porro in infinitum, erit Nihil.
+
+Omne Ens vel est Reale vel Imaginarium. Ens reale, quod est citra mentis operationem ut sol de quo judicamus ex consensu plurium perceptionum. Ens imaginarium quod secundum unum percipiendi modum percipitur ad instar Entis realis, ut iris, parhelius, Somnium, sed secundum alios modos non percipitur neque examina sustinet, quod tamen fieri deberet, si esset Ens reale, unde sequitur a dispositione nostri et medii fieri quod percipitur, ipsum autem perceptionis causam non esse. Et saepe intellecta origine phaenomeni etiam causa deceptionis cognoscitur.
+
+Omne Ens Reale est unum per se aut Ens per Accidens. Ens[^1506-1] per se ut Homo, Ens[^1506-2] per accidens, ut strues lignorum, machina, quod scilicet non est unum nisi per aggregationem, nec alia in eo realis unio est, quam connexio vel contactus aut etiam concursus ad idem vel saltem convenientia a mente in unum colligente animadversa. At in Ente per se, realis quaedam unio requiritur consistens non in partium situ et motu ut in catena, domo, navi sed in unico quodam individuo principio et subjecto attributorum et operationum, quod in nobis dicitur anima, in omni corpore forma substantialis modo id sit unum per se.
+
+Omne Ens est vel Substantia vel Accidens seu Modus. Substantia ut Mens, corpus. Modus ut calor, motus. Nimirum ex Accidente vel modo formari potest concretum, quod de substantia praedicatur vel etiam de alio accidente. Substantiae autem jam tum concretus est conceptus, nec praedicari potest nisi de substantia, et substantia [p. 1507] singularis nulli alii rei singulari inest, cum tamen Accidens singulare substantiae singulari insit, plura accidentia substantiae uni. Et quidem substantiae singularis conceptus est quiddam completum, qui omnia jam virtute continet, quaecunque de ipso possunt intelligi. Ita ut Deus eo ipso dum hujus Petri substantiam concipit, omnia concipiat quae ei contigere aut contingent. Quod de accidente singulari dici non potest, nisi quatenus substantiae singulari inesse concipitur. Ex Alphonsi regia potestate non concipio ejus Astronomiam, nisi redeam ad ipsius Alphonsi naturam singularem. Porro substantia universalis nihil aliud est quam omnis substantia singularis talis. Cum autem substantia singularis involvat relationes ad totum universum patet eam semper esse infinitam.
+
+[^1506-1]: Über Ens: unum
+
+[^1506-2]: Über Ens: unum
+
+::: editorial
+
+(zu S. 1506) 2 est (1) quod (2) de L 6 de . . . perceptionum erg. L 7 secundum . . . modum erg. L 8 Somnium, (1) sed aliunde cognoscitur ideo id percipi a nobis, quia certo modo dispositi sumus (2) sed L 8 alios percipiendi gestr. modos L 8 f. neque . . . sustinet erg. L 11 esse. (1) Imo (2) Et cognoscitur. erg. L 12 est (1) Ens (2) unum erg. L 12 Ens per se (1) dicitur quod a parte rei ita gestr. unitum est, ut ei una 〈mentis〉 gestr. operatio attribui possit ut (a) an (b) homo animal (2) ut (a) homo (b) animal (3) ut Homo L 13–19 quod . . . se. erg. L 14 quam (1) contactus vel (2) connexio L 15 in unum colligente erg. L 16 quaedam (1) parti (2) unio L 16 situ (1) ad (2) et L 17 attributorum et erg. L 20 seu Modus erg. L 21 corpus. (1) Accidens (2) Modus L 23 est (1) termi (2) conceptus L 23–S. 1507.1 substantia, (1) substantia autem (2) et substantia erg. singularis (a) de nulla alia re singulari praedicatur, (b) nulli . . . inest, L
+
+:::
+
+Substantia est vel perfecta seu absoluta nempe Deus, vel limitata quae dicitur creatura. Necesse est autem limitatam dependere ab absoluta, alioqui haec ipsa limitata esset. Est etiam unica, eo ipso quia conceptus ejus est completus, ex vi essentiae ipsius. Conceptus autem completus est nota substantiae singularis.
+
+Substantia omnis habet intra se operationem quandam, eaque vel est ejusdem in se ipsum, quae dicitur Reflexio sive Cogitatio, et talis substantia est spiritualis, sive Mens, vel est diversarum partium, et talis Substantia dicitur Corporea.
+
+Cum Deus sit Mens et se ipsum intelligat atque amet, hinc oritur mira quaedam diversitas ejusdem a se ipso, sive compositio rei indivisibilis, quam in Sacrosanctae Trinitatis personis agnoscimus; et cujus in mente nostra semet cogitante aliquod indicium habemus.
+
+Mens est, aut secreta aut corpori unita. Secreta ut Deus; unita, ut anima nostra. Sunt et aliae mentes, quae Angelicae dicuntur, nostris perfectiores, quas tamen corporibus quibusdam sed longe subtilioribus unitas esse veteres credidere, quod si verum esset, videri posset anima quoque nostra licet in se incorporea tamen non nisi crassum corpus morte deponere. Nec ulla esset creatura corporis adjuncti expers.
+
+Substantia corporea habet partes et species. Partes sunt Materia et Forma. Materia est principium passionis, seu vis resistendi primitiva, quam vulgo vocant molem seu [p. 1508] αÆ ντιτυπιÂαν, ex qua fluit corporis impenetrabilitas. Forma substantialis est principium actionis seu vis agendi primitiva. Est autem in omni forma substantiali quaedam cognitio hoc est expressio seu repraesentatio externorum in re quadam individua, secundum quam corpus est unum per se, nempe in ipsa forma substantiali, quae repraesentatio conjuncta est cum reactione seu conatu sive appetitu secundum hanc cognitionem agendi.
+
+::: editorial
+
+(zu S. 1507) 2 plura . . . uni erg. L 3 f. quaecunque (1) de ipsa possunt praedicari. (2) de . . . intelligi L 6 quatenus (1) substantiam singularem involvit eique (2) substantiae singulari L 7–10 Porro . . . infinitam. erg. L 13 completus, (1) quae est nota (2) ex L 13 vi (1) su (2) essentiae (a) generalis (b) ipsius L 16 sive Cogitatio erg. L 19 diversitas (1) 〈uni〉 (2) ejusdem L 19 sive . . . indivisibilis, erg. L 22 est, aut (1) corp (2) secreta L 25 licet . . . tamen erg. L 26 adjuncti erg. L
+
+6 f. Ex . . . singularem: Alfons X, genannt der Weise, König von Kastilien, gilt als Verfasser der astronomischen sog. Tabulae Alphonsinae.
+
+:::
+
+Hanc formam substantialem necesse est reperiri in omnibus substantiis corporeis, quae sunt unum per se. Itaque si bestiae non sunt purae machinae, necesse est formas substantiales habere quae dicuntur animae. Caetera autem corpora quae forma substantiali carent sunt tantum aggregata corporum ut strues lignorum, congeries lapidum, neque proinde cognitionem aut appetitum habent. Omnis substantia quae unum per se est, sua natura perpetua est, et quomodo Mens, Anima, forma substantialis, seu principium unitatis in Entibus per se, aliter quam creatione et annihilatione produci aut extingui possit, non apparet, cum determinatae partes materiae ad essentiam ejus non pertineant. Itaque credibile est saepe animal oriri ex jam praeexistente in semine animalculo quodam invisibili in ovarium delato et ibi crescente; et vicissim saepe non extinctionem sed transformationem contingere, ut erucae in papilionem eadem utrobique anima manente, licet vetus aut novum animal plerumque non aeque ut eruca aut papilio sensibus nostris pateat. Et somniorum indicio discimus ad percipiendum non semper opus esse sensibus, nec in summa refert major an minor fiat materiae mutatio, nisi ad hoc ut perceptiones priores a posterioribus plus minusve differant. Mentes autem omnes, quia cum Deo rempublicam constituunt prioris vitae memoriam conservant.
+
+Quantum ad Species corporis, negligamus nunc considerationem formae substantialis, et an corpus sit unum per se, tantumque Materiae differentias consideremus, quoniam plerumque dubitari potest an corpus sit Machina tantum et partium congeries, an vero sit forma substantiali vel anima praeditum. Hoc de ipsis animalibus controvertitur, multo magis adhuc de plantis et lapidibus et metallis, maxime autem de sideribus ac de Mundo universo.
+
+::: editorial
+
+(zu S. 1508) 1 substantialis erg. L 3–5 externorum (1) conjunc (2) in re quadam individua, conjuncta cum conatu agendi seu (3) in . . . sive L 5 f. hanc (1) percepti (2) cognitionem L 8 si (1) corpora non (2) bestiae L 11–22 habent. (1) Quomodo autem (2) Omnis substantia (a) sua (b) quae . . . quomodo erg. conservant. erg. L 13 f. annihilatione per extraordinariam Dei operationem gestr. produci aut (1) desinere (2) extingui L 14 f. cum determinatae erg. . . . pertineant erg. L 15 f. animal . . . ex (1) animali (2) jam praeexistente (a) animalculo quodam invisibili cum semine (b) in . . . invisibili erg. . . . saepe erg. L 18 licet (1) saepe (2) vetus aut L 18 eruca aut erg. L 25 tantum (1) aut (2) et erg. L 27 animalibus de str. Hrsg. controvertitur, L
+
+:::
+
+[p. 1509] Corporum omnium Aggregatum dicitur Mundus, qui si infinitus est ne unum quidem Ens est non magis quam linea recta infinita aut numerus maximus. Itaque Deus non potest intelligi anima Mundi, non finiti, quia ipse Deus infinitus est, non infiniti quia corpus infinitum non potest unum Ens intelligi, quod autem non est unum per se id nec formam substantialem adeoque nec animam habet. Itaque recte Deus a Martiano Capella appellatur intelligentia extramundana.
+
+Nullum datur in Mundo Vacuum neque in materia neque in forma hoc est neque plura corpora in hoc mundano spatio creari possent, neque perfectiora. Possunt in rebus distingui receptacula a receptis. Receptacula sunt Tempus et Locus seu spatium. Recepta sunt corpora quae in his existunt.
+
+Mundus praesens respectu nostri et loci in duas partes dividi potest in Mundum Trans-Sidereum de quo nihil a nobis percipitur, et in Mundum Sidereum seu aspectabilem, cujus quicquid extra Tellurem est dicitur coelum, et corpus sive sidus rotundum quod incolimus dicitur terra seu Tellus.
+
+Mundus aspectabilis constat ex corporibus magnis solidis aut saltem cohaerentibus, ex longinquo nobis lucentibus, quae Sidera vocamus, et ex fluidis motum quendam periodicum habentibus, cum quibus aliqua sidera deferuntur, unde haec fluida quidam non inepte vortices appellant.
+
+Sidera sunt vel per se lucentia, quae dicuntur Soles, vel sunt illustrata quae dici possent Terrae.
+
+Sunt et sidera vel fixa vel libera. Et fixa quidem unum locum servant aut certe hactenus non mutant satis notabiliter, libera vel periodos absolvunt quae dicuntur Planetae, vel nondum cognita lege et propemodum recta linea per mundana spatia trajiciunt quae Cometas dicimus.
+
+::: editorial
+
+(zu S. 1509) 2 Ens (1) intelligi potest (2) est erg. L 2 quam possibilis est gestr. linea L 4–10 quod habet erg. . Itaque . . . existunt. erg. L 6 intelligentia (1) transmundana (2) extramundana erg. L 8 in . . . spatio erg. L 11 praesens erg. L 11 et loci erg. L 13 aspectabilem, (1) qui et dicitur coelum. (2) cujus L 13 est (1) quam incolim (2) dicitur L 15 Mundus (1) Sidereus (2) aspectabilis L 15 constat (1) Sideribus seu (2) ex erg. L 15 f. corporibus (1) solidis (a) magnis, et (b) et 〈vocat〉 (c) quae e (d) magnis (2) magnis . . . saltem (a) firm (b) cohaerentibus, erg. ex L 16 longinquo (1) nobis apparentibus (2) nobis L 16 quae Sidera vocamus erg. , et ex erg. fluidis interlabentibus gestr. motum L 17 aliqua erg. L 21 f. aut certe hactenus erg. . . . notabiliter erg. L 23 cognita (1) ratione (2) lege erg. L
+
+5 f. Deus . . . extramundana: MARTIANUS CAPELLA, De nuptiis Philologiae et Mercurii libri IX, IX, § 910; vgl. VI, 3 S. 201. 17 Wohl gemeint die Cartesianer. Vgl. R. DESCARTES, Principia philosophiae, III, 30.
+
+:::
+
+[p. 1510] Et quidem hactenus observatum est Fixas esse soles, planetas vero esse terras et moveri circa suum solem, itaque fixa aliqua cum suis planetis dicitur componere orbem Magnum, et creditur tot esse forsan orbes magnos seu systemata planetaria quot sunt fixae. Interim nihil prohibet et erraticos soles dari et fixas Tellures.
+
+Sunt et planetae qui circa alios planetas majores feruntur, qui dicuntur Satellites. Ita Galilaeus quatuor deprehendit satellites circa Jovem, Hugenius unum circa Saturnum, cui postea plures addidit Cassinus. Ipsa Luna est satelles Telluris nostrae. Tellus autem nostra intra planetas circa solem nobis lucentem motos computatur, quae omnia veteribus parum cognita nostro demum seculo in clara luce collocata sunt.
+
+Cometas notabile est radios longe emittere interdum instar crinis sed plerumque instar caudae, quae in partem a sole aversam porrigitur.
+
+Sed antequam longius progrediamur explicandum est discrimen inter Corpora Fluida et inter firma vel saltem connexionem habentia, seu quorum partes cohaerent. Et quidem sciendum est, revera omne corpus habere aliquem gradum firmitatis, nec quicquam tam fluidum esse, quin vi aliqua opus sit ad partes flectendas vel omnino divellendas, et omne corpus habere aliquem gradum fluiditatis, ut non tantum satis magna vi partes ejus separari, sed et quacunque minima vi nonnihil inflecti possint. Nulla autem flexio sine aliquorum se prius contingentium divulsione est. Itaque nullae sunt Atomi in rebus, quae scilicet infinitae sint duritiei. Horum autem causa est, quod Creator nihil sterile reliquit, sed in qualibet particula materiae utcunque exigua innumerabilem creaturarum velut mundum condidit. Nam quoniam continuum in infinitum divisibile est, relictum esset Vacuum formarum, si in aliqua parte materiae nulla actualis facta esset subdivisio, quod cum perfectione Dei pugnat. Itaque nulli dantur in mundo globi perfecti quos Cartesius longo temporis tractu tornatos credidit, neque ulla sunt in Mundo Elementa seu corpora prima ex quibus caetera componantur, itaque nec datur materia subtilis [p. 1511] summae fluiditatis, neque Globuli secundi Elementi, et tam absurdum est corpus summe fluidum, quam summe durum. Et corpora quae nostrorum respectu Elementaria censeri possunt, possunt aliorum minorum respectu tam magna rursus intelligi ac sol est respectu scintillae. Dicendum est ergo in Mundo nullum posse assignari punctum, quod non diverso nonnihil ab alio quovis utcunque vicino puncto motu cieatur, sed rursus nullum posse assignari punctum, quod non cum alio dato mundi puncto communem quendam motum habeat, ex priori capite omnia sunt fluida, ex posteriori omnia sunt cohaerentia. Sed prout motus communis aut proprius plus minusve notabilis est, corpus unum solidum, aut separatum, vel etiam fluidum dicitur.
+
+::: editorial
+
+(zu S. 1510) 1 f. planetas (1) esse solis satelli (2) vero . . . et erg. moveri L 2 solem, (1) et (2) itaque erg. L 2 componere (1) vorticem (2) orbem erg. L 3 esse (1) interdum pla (2) orb (3) forsan L 4 Interim . . . Tellures. erg. L 10 longe erg. emittere (1) interim (2) interdum erg. L 13 inter erg. L 15 f. flectendas vel (1) et (2) omnino erg. divellendas, (a) nec (b) et L 18 Nulla . . . est. erg. L 19 scilicet erg. L 19 f. quod (1) in omni corpor (2) omne corpus peculiares quosdam motus habet a motibus circumjacentium. (3) Creator L 24 perfecti (1) aliunde (2) quos L 25 in Mundo erg. L 25 f. componantur, (1) quoniam (2) itaque L 26–S. 1511.1 subtilis Cartesiana gestr. summae L
+
+6 Am 17. Januar 1610. Vgl. Sidereus Nuncius, Venedig 1610. 6 1655 entdeckte Huyghens den größten der acht Saturn-Satelliten. 7 Im März 1684 entdeckte Cassini den dritten und den vierten Satelliten des Saturn, nachdem er 1671 und 1672 bereits zwei andere entdeckt hatte. 23–S. 1511.2 Itaque . . . durum: vgl. R. DESCARTES, Principia philosophiae, III, 48–54.
+
+:::
+
+Notatur autem hoc ex resistentia quam sentimus, vel non sentimus in separando. Cujus ratio est, quod magnam mutationem in rebus procurare sine magna vi non licet. Itaque quae secundum praesentem rerum statum motumque universi et fluidorum in eo decurrentium sive visibilium sive invisibilium, partes habent quae ad se invicem compelluntur, et ab ambientibus comprimuntur, ea sine vi separari non possunt, ut grave a fundamento cui innititur, apprehensum corpus a forcipe quo tenetur, quin et si non comprimantur, attamen secundum aliquem divellendi modum sine turbatione notabili circumjacentium separari non possunt, ad ea divellenda vi opus est, ut experimento duarum tabularum politarum discimus. Contra vero quae neque comprimuntur, neque cum aliqua circumjacentium turbatione dimoventur, in his nulla notatur cohaerentia. Et credibile est, quae constant particulis planas superficies aut congruas multas et majusculas habentibus, non facile divelli, quia plurimus in ipsis est contactus, unde divulsio non fit sine ambientium turbatione. In quibus autem exiguus contactus est, in iis divellendis parum resistentiae sentiri. Et in universum dicendum est nullam esse in Mundo quietem perfectam, nec absolute, nec respectu corporum vicinorum, minorem tamen motum pro quiete habendum esse. Et quae prope se invicem quiescunt hoc est quae communi motu cientur aut ad se invicem propius accedere conantur, hoc ipso sine aliqua vi, hoc est sine ambientium mutatione, non posse separari. Quatenus autem corpora varios motus exercent, et jam a se invicem discedere conantur, eo facilius separari. Est ergo firmitatis origo, pressio ambientium, seu motus, qui separatione turbatur; quies ipsa [p. 1512] per se neque ulla est, neque si esset, causa firmitatis intelligi posset. Firmitate autem semel constituta, jam ex firmorum corporum implicatione in se invicem rursus nova corpora cohaerentia formari possunt.
+
+::: editorial
+
+(zu S. 1511) 4 scintillae. (1) Veram quidem (2) Dicendum L 9 aut (1) in diversas (2) separatum L 10 sentimus, (1) 〈cui〉 (2) vel L 12 quae (1) simul (2) per (3) secundum L 13 invisibilium, (1) simul (2) partes habent (a) simul collocatas (b) quae L 14 f. ut . . . tenetur, erg. L 17 circumjacentium (1) di (2) separari L 18 vero erg. L 20 constant (1) partibus (2) particulis L 20 f. superficies (1) habentibus (2) aut (a) ca (b) mu (c) congruas multas et majusculas erg. habentibus, (aa) qu (bb) non L 24 vicinorum, (1) quae tamen (2) minorem L 25 f. hoc . . . conantur erg. L
+
+:::
+
+Interdum corpus cedens ubi sibi relictum est se restituit, quale corpus dicitur Elasticum, restituit autem sese eandem ob causam, ob quam initio flectenti restitit, quod scilicet hoc modo ambientium fluidorum invisibilium motus minus turbatur, sed quando tamen alius inter divellendum ipsis exitus aeque commodus datus est, cessat restitutio. Unde raro fit ut partes avulsae se reconjungant toti, fieri tamen aliquando discimus exemplo Magnetis. Sciendum est autem in omnibus esse aliquem et Elastri gradum. Exempli causa quid vitro durius et fragilius, et tamen tenuissima vitri fila elastica sunt, contra, quid mollius atque flexilius tenuissimo filo, et tamen si aliquoties filum filo addatur, fiatque filum paulo crassius non tantum resistit nonnihil sed et flexum se restituit. Hinc etiam nihil tam molle est quin percussum aliquem edat sonum, quem a restitutione aliqua tremula elastici corporis oriri constat.
+
+Haec ideo afferre placuit ut attollere animum a sensibus et universi oeconomiam admirabilem, et in summa varietate summam connexionem considerare assuescamus; et terminos Creatori non tantum in extensione, sed et in subdivisione rerum nullos praescribamus, omniaque motu, vita creaturis plena esse intelligamus; et ineptam spem deponamus universum Mundi Systema animo concipiendi, et analysin ad usque prima corporum velut stamina atque Elementa, sive principia quae nulla sunt, producendi. Sed quemadmodum Magister scientiae muniendi, cum de terris disserit, satis habet de arenis, lapillis, calce, argilla dicere, at vero de minoribus corporibus, in terra latentibus, tanquam ad institutum suum non pertinentibus solicitus non est, ita nos satis felices erimus, si ea corpora insensibilia explicare possimus, quorum effectus notabiliter ad nos usque pervenit, cum ultra progredi nec possibile mortalibus, nec utile sit.
+
+::: editorial
+
+(zu S. 1512) 4 Interdum (1) sepa (2) corpus L 4 f. restituit, (1) ead (2) eandem scilicet (3) quale Elasticum, (a) quod (b) quod contingit (c) restituit . . . eandem L 5 initio flectenti erg. L 6 sed erg. L 7 tamen (1) aliunde (2) alius L 8 f. avulsae (1) sponte se reconjungant, cum omnino cessat cohaesio. (2) se . . . toti erg. . . . Magnetis. L 11 atque flexilius erg. (1) tenui filo (2) tenuissimo filo L 14 aliqua (1) Elastici corporis (2) tremula L 15 afferre (1) aliquid (2) placuit L 16 assuescamus; (1) neque (2) et L 17 sed (1) nec (2) et L 19 Mundi (1) systemata (2) systema L 19 analysin ad usque erg. L 20 Elementa, (1) quae (2) sive L 20 principia (1) int (2) quae L 20 sunt, (1) in (2) explicandi (3) producendi. L 21 Magister (1) fortifi (2) scientiae L 22 calce, (1) limo (2) argilla (a) pr〈o〉 (b) prae (c) dicere, L 22 corporibus, ut salibus, gestr. in L 23 si (1) causas (2) ea L
+
+:::
+
+[p. 1513] Porro cum tanta sit varietas in Mundo, mirum non est Deo sapientissima voluntate sua omnia in motus aptissimos concitante alicubi factum esse aliquid simile coagulo in lacte moto, ut scilicet ingens aliqua respectu nostri massa abiret partim in partes caeteris firmiores, partim in alias notabiliter tenuiores, hoc est in sidera et vortices, sidere motum vicinae fluidi partis servante. An alia sit Mundi portio, ubi nec sidera sint nec vortices, sed major consistentiae aequabilitas, qualis est lactis ante coagulum, dicere non habemus. Rotunda autem sidera esse mirum non est, cum instar guttarum initio fuerint.
+
+An vero planetae prodierint ex solibus seu fixis crusta paulatim obductis, an contra soles ex planetis inflammatis, et an in his ipsis aliqua sit vicissitudo, an vero ab initio statim vel exiguo tempore in praesentem formam omnia abierint, ex solo rationis iudicio dicere non habemus. Illud tamen multis argumentis agnoscere mihi videor, totam globi nostrae telluris superficiem aliquando inflammatam fuisse, quod nec a Scriptura Sacra abhorret, initio enim Deus dixit ut lux fieret, quam cum a tenebris separaret, hoc est lucida ab opacis secreverit, prius commixta fuisse, et ignem omnia pervasisse consentaneum est.
+
+Post discrimen fluidi et firmi quod tactu percipimus, proximum est lucidi et opaci quod visu. Et quidem necesse est inter nos et rem lucentem commeare fluidum aliquod, quod motum ab illo ad nos deferat. Simplex tamen conatus ad motum sufficere non videtur. Videntur in lucente fieri innumerabiles ictus validi seu subitae explosiones, sive a crasso ad tenue transitus, ut fit in sclopeto ventaneo vel pyrio exploso, unde pressio valida rectilinea in omnes partes exercetur perspicuum est, quod satis aequabiliter porosum est, ad pressionem sensibilem ubique recta transmittendam.
+
+::: editorial
+
+(zu S. 1513) 1 sit Motuum gestr. varietas L 1 f. Deo . . . concitante erg. L 2 esse (1) velut coagulum (2) aliquid . . . coagulo L 3 respectu nostri erg. L 3 abiret (1) in partes caeteris firmior (2) partim L 4 f. vortices, abiret gestr. sidere motum (1) ambient (2) vicinae L 7 cum (1) omne (2) ex gutti (3) instar L 8 vero (1) fixae ali (2) planetae L 9 f. ab initio erg. statim (1) ut (a) 〈 – 〉 (b) nunc apparent extiterint, aut exiguo tempore in hanc forma (2) vel . . . tempore L 10 ex . . . iudicio erg. L 14 prius (1) commixtis latuisse, 〈hoc〉 (2) commixta L 17 visu. (1) Videtur autem non conti (2) Et L 18 tamen pressio seu gestr. conatus L 19 in lucente erg. L 20 a (1) densitate ad tenuitatem tra (2) crasso L
+
+13 Gen. 1, 2.
+
+:::

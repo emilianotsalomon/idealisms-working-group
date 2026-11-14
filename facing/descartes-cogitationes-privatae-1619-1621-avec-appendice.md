@@ -1,0 +1,1137 @@
+---
+title: Cogitationes privatae (1619-1621), avec Appendice
+author: René Descartes
+id: 9315
+markers: [at, print]
+pairs_by: at
+year: 1897
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Œuvres de Descartes, publiées par Charles Adam et Paul Tannery, t. X (Paris, Cerf, 1897-1913); converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: AT X:205-256
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Cogitationes privatae (1619-1621), avec Appendice was written by an author who died in 1650, so before 1931; René Descartes (d. 1650) is long out of protection and the edition (1897) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 9315)
+---
+
+# R. Descartes, *Cogitationes privatae (1619-1621), avec Appendice* (1897)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. 205] OPUSCULES
+
+��DE
+
+��I6I9-I62I
+
+��MS. DE LEIBNIZ (Edit. Foucher de Careil)
+
+�� �
+
+## [p. 207] AVERTISSEMENT
+
+��Les papiers de Descartes, remis par Chanut à son beau- frère Clerselier, et qui n'ont pas été retrouvés, ne nous sont pas connus seulement par les extraits qu'en a donnés Baillet, dans sa Vie du philosophe (voir ci-avant, p. 173-177). Le même Baillet prévient le lecteur que, pour l'aider dans sa tâche, l'abbé Nicaise a pris la peine « d'écrire à Rome, d'où M, Au- » zout, qui a vu M. Descartes à Paris, & M. Leibnitz, qui a » eu communication des originaux chez M. Clerselier, ont » envoyé ce que la mémoire a pu leur suggérer sur ce sujet ». {Vie de Monsieur Des-Cartes, 1691, Préface, p. xxvi.) Leibniz fut, en effet, à Paris en 1675 et 1676; curieux de tout ce qui se rapportait au philosophe français, non seulement il obtint communication des papiers qui restaient de lui, mais il en fit copier et en copia lui-même au moins une bonne partie. Ses copies, qui portent des dates en plusieurs endroits (24 février et 1" juin 1676), furent déposées après sa mort, avec bien d'autres manuscrits, à la Bibliothèque Royale de Hanovre, et y demeurèrent longtemps ignorées. Ce fut seulement vers le milieu du xix° siècle, que le comte Foucher de Careil, mis sur cette piste par l'indication de Baillet rappelée ci-dessus, et par quelques déclarations de Leibniz lui-même dans sa correspondance, réussit à les découvrir enfin. Il les publia aussitôt, avec quelques autres documents (lettres à Wilhem, Huygens, La Thuillerie, etc.), en deux volumes d'Œuvres inédites de Descartes (Paris, Auguste Durand, in-8, cxvii-i58 et xxii- 238 pages, 1859-1860).
+
+En même temps que le texte, qui est en latin, Foucher de
+
+�� �
+
+[p. 208] 2o8 Opuscules de 1619-1621.
+
+Careil donnait, pour la plupart des fragments, une traduction française. Mais le texte latin n'a pas toujours été, tant s'en faut, imprimé correctement, et ce n'est pas la traduction française qui pouvait le redresser. Une revision sérieuse des manuscrits s'imposait donc. Elle fut entreprise, en août et septembre 1894, par l'un des nouveaux éditeurs de Descartes, Ch. Adam, et par son frère, professeur agrégé de mathématiques, Henri Adam. Ce premier travail de revision permit déjà de corriger bien des fautes. En outre, profitant du séjour en Allemagne d'un étudiant de l'Université de Dijon, A. Meillereux, le même éditeur le pria de reviser encore ces textes à loisir, aux vacances de 1897 : de là de nouvelles corrections. Enfin, tout récemment, en février 1906, un étudiant de l'Université de Nancy, Jules Sire, occupé depuis plus de deux ans à classer et à cataloguer, à Hanovre même, des manuscrits de Leibniz, voulut bien collationner une dernière fois les textes de Descartes. Il fit même, à cette occasion, une intéressante découverte, qui avait échappé aux recherches précédentes, et qui devient la préface naturelle de ces Inédits. C'est une note manuscrite, de la propre main de Leibniz, qui donne, après une visite à Clerselier en compagnie de Tschirnhaus, l'indication des papiers de Descartes qui leur furent communiqués à tous deux. Voici cette note, publiée pour la première fois :
+
+« J'ay esté aujourdhuy avec Mons. de Tschirnhaus, pour luy » donner la connoissance de Mons. Clerselier, & pour luy faire voir » les reliques de Mons. des Cartes.
+
+» Il nous montra un discours de Mons. des Cartes de la recherche » de la vérité; il y avoit environ 22 règles expliquées & illustrées. » En latin.
+
+» Il y avoit un petit dialogue françois entre Epistemon & » Polyandre, qui n'estoit pas achevé.
+
+« Item, une comédie, en françois, poussée jusque au quatrième » acte... » (Suit une brève analyse de cette comédie, que nous retrouverons en son lieu.)
+
+« Mons. Clerselier a encor deux volumes de miscellanea, reliés » l'un en 4", l'autre en 8°, où il.y a beaucoup de choses physiques, » des expériences & observations anatomiques de Mons. des Cartes,
+
+�� �
+
+[p. 209] Avertissement. 209
+
+» quelques expériences sur les métaux, & en fait de médecine » [lacu7ie]. Je m'étonne pourtant, qu'il n'y a rien davantage de cette » nature. »
+
+» Il y a encor un traité de la lumière. Voila son titre. Mais le » traité même est ce que Mons. des Cartes appelle son Monde, ou » Méditations physiques, faites, comme les Metaphysiques , d'un style » familier, quoyque elle(s) ne disent en substance que ce qui est dans » ses Principes philosophiques.
+
+» In miscellaneis, il y avoit quelques pensées, comme par exemple » de faire paroistre la muraille, verte, jaune, &c., par le moyen » d'une lampe dont le ver(rc) vert, le coton vert, & dans l'huyle du » ver de gris broyé. Item proposition pour faire paroistre des » chiffres & autres figures, par le moyen des rayons du soleil, & des » miroirs. » (Ecrit de la main de Leibniz, 20 lignes in-4 MS. — Bibliothèque Royale de Hannover. Tschirnhaus, n° 159.)
+
+Le même J. Sire, non content d'avoir découvert cette pièce, reconnut aussi, en dépouillant la correspondance de Leibniz et de Brosseau, que Leibniz avait chargé Tschirnhaus de copier à Paris les manuscrits de Descartes ; Tschirnhaus en fut empêché par ses voyages, et nous n'avons de lui que la copie d'une moitié du Dialogue de la Recherche de la Vérité, comme nous le verrons plus loin.
+
+Mais, et ce fut bien la plus singulière aventure et la plus grosse déception que nous ayons eue au cours de ces douze années déjà de longues recherches sur les papiers de Descartes, nous n'avons pu retrouver à la Bibliothèque Royale de Hanovre tout ce que Foucher de Careil en avait rapporté et qui fait la matière de ses deux volumes à' Inédits (1859- 1860). En août- septembre 1894, nous avons collationné avec soin, sur les manuscrits de Leibniz, les textes publiés au t. I, p. 59-1 56, et au t. II, p. 66-210 et p. 214-234. Ils remplissent à Hanovre un fascicule de quinze feuillets, que le D^ Eduard Bodemann a catalogué ainsi, dans son ouvrage. Die Leibtu'i-Handschrif- ten der Koniglichen Oeffentlichen Bibliolhek ^u Hannover (Hannover und Leipzig, Hahn' sche Buchhandlung, 1895) : « IV. Vol. I. 4, b. Excerpta ex Cartesio. ly Bl. fol. » (Page 52.)
+
+Œuvres. V. . ij
+
+�� �
+
+[p. 210] 2IO Opuscules de 1619-1621.
+
+Ces textes se rapportent surtout à l'anatomie ; nous les donnerons à leur place, c'est-à-dire entre les années 1630 et 1640 ; il y en a même un de 1648. Mais nous avons vainement cher- ché, en août-septembre 1894, deux séries assez étendues, que Foucher de Careil a publiées, l'une au t. I, p. 2-58, sous le titre de Cogitationes privatæ (copiées par Leibniz à Paris, le i'^'" juin 1676), l'autre au t. II, p. 2 10-21 3, sous le titre de Remedia et vires medicamentorum (copié le 24 février 1676). Depuis lors, cette seconde série a été retrouvée, et le D"" Ed. Bodemann l'indique et la complète même en ces termes, dans son Catalogue : it III. Vol. iv. 3, a. (von Leibn. "s Hand;. Remedia » et vires medicamentorum . Excerptum ex autographo Carte- >) fii, mit der Bemerkung : Descripsi 24 Febr. 16-6. \ Bl. » (p. 44', et plus loin : « Bl. 49. Excerptum ex Cartesii autogra- » pho de purgantibus et aliis. » (Page 48.) Nous ne donnerons aussi ces textes que plus tard. Mais la première série de notes, que Foucher de Careil intitule Cogitationes privatæ, est restée jusqu'à présent introuvable. Dès 1894, nous avons signalé le fait, dans l'Archiv für Geschichte der Philosophie, Band VIII, Heft 3, s. 387-395. Ce fut en vain. Remarquons simplement que le manuscrit qui donne les autres fragments publiés par Foucher de Careil, devrait avoir dix-sept feuillets (77 Bl.), selon le catalogue, et qu'il n'en a, comme nous l'avons constaté, que quinze. En faut-il conclure que deux feuillets auraient disparu, et précisément les deux qui contenaient ces Cogitationes pri- vatœ ?
+
+Cependant le moment est venu, que nous avons retardé le plus possible, de publier cette série de notes. Car elles re- montent aux années 1619 et 1620. Quelques-unes appartiennent aux Olympica, comme le prouvent certains passages corres- pondants de Baillet, que nous avons imprimés ci-avant, p. 179- 188. D'autres correspondent à maint passage du Journal de Beeckman récemment découvert, ce qui en confirmerait au besoin l'authenticité. D'autres notes enfin, et ce ne sont pas les moins curieuses, se rapportent à des constructions géomé-
+
+�� �
+
+## [p. 211] Avertissement. ^ 1 1
+
+triques à l'aide de compas, dont Descartes parle à Beeckman dans une lettre du 26 mars 1619, p. 154 ci-avant.
+
+Le texte de ces dernières notes surtout, tel que l'a donné Foucher de Careil, est des plus défectueux. Et comme le manuscrit manque, pour contrôler ce texte et y faire les corrections nécessaires, grand a été notre embarras. Le regretté Paul Tannery eût sans aucun doute réussi à déchiffrer ces énigmes ; mais nous l'avons perdu trop tôt, et avant qu'il eût pris la peine d'y regarder de près. Nous avons dû nous adresser ailleurs. Par bonheur, une des lettres à Beeckman, qui viennent d'être retrouvées, nous fournissait la preuve que Descartes s'était encore servi, en ces premières années, de caractères cossiques (voir ci-avant, p. 155-156). Ce fut pour nous un trait de lumière. Le même fait, d'une si grande importance, se trouvait confirmé par deux autres manuscrits : l'un de la Bibliothèque Royale de Hanovre, De solidorum elementis, que nous publierons ci-après ; l'autre de la Bibliothèque de l'Université de Leyde, qui complète certains fragments mathématiques imprimés en 1701 dans les Opuscula posthuma de Descartes. Tous deux font un fréquent usage des caractères cossiques. Foucher de Careil, à qui ces caractères étaient inconnus a pris pour des lettres, comme le |3 grec, par exemple, ou pour des chiffres, comme 4 et J, les signes de la racine et de la seconde puissance ou du carré, Q^ et J. De là des équations tout à fait inintelligibles. Mais, une fois en possession de la clef, il suffi- sait à des mathématiciens de rétablir les signes à leur place, pour tout corriger : travail délicat, cependant, où plus d'un n'osa pas se risquer, et pour lequel nous avons dû recourir à de hautes collaborations. Gustav Eneström, directeur de la Bibliotheca Mathematica, à Stockholm, possède en pareille matière la plus incontestable autorité. Fort obligeamment, il voulut bien se mettre à l'œuvre, et travailler pour Descartes : comme on pouvait s'y attendre, il remit tout en ordre et expli- qua fort bien les passages déclarés ailleurs inexplicables. Nous le désignerons, à la fin des notes qu'il a rédigées pour cette édi-
+
+�� � [p. 212] tion, par les initiales de son nom G. E. Deux autres mathématiciens nous sont aussi venus en aide : MM. Henri Vogt, professeur de mécanique appliquée à l’Université de Nancy, et Henri Adam, professeur de mathématiques au Lycée Janson de Sailly à Paris ; leurs noms sont aussi désignés par les initiales H. V. et H. A. On verra, en comparant les corrections nouvelles aux leçons de Foucher de Careil, reproduites comme variantes à l’Appendice, quelles difficultés ces savants ont heureusement surmontées. Grâce à leur précieux concours, nous pouvons offrir, pour les Cogitationes privatæ, un texte convenable, et regretter un peu moins la mystérieuse disparition de cette partie de la copie manuscrite de Leibniz à la Bibliothèque Royale de Hanovre.
+
+Ch. Adam.
+
+Nancy, 30 mai 1906.
+
+[p. 213] COGITATIONES
+ PRIVATÆ
+
+1619. Calendis Ianuarii.
+
+|Vt comœdi, moniti ne in fronte appareat pudor, 5 personam induunt : sic ego, hoc mundi theatrum con- scensurus, in quo hactenus spectator exstiti, larvatus prodeo.
+
+a. CoGiTATioNES Privatae est le titre que Foucher de Careil met en tête de ces fragments. L’avait-il trouvé dans le MS. de Leibniz, ou bien est-ce un titre de son invention ? Cette dernière hypothèse est la plus vraisemblable. — Le même éditeur ajoute en note : « Leibniz, qui a copié ce manuscrit, nous avertit en marge qu’il l’a découvert et qu’il en a pris copie le 1er juin 1676, c’est-à-dire pendant son séjour à Paris. » — Nous reproduisons, en haut des pages, la pagination de Foucher de Careil : comme il donne en regard du latin une traduction française, les pages du latin n’ont que des numéros pairs, et les autres des numéros impairs.
+
+b. On lit dans Baillet, à la suite du passage rapporté ci-avant, p. 179 (I) : « Mais le principal de ces Fragmens, & le premier de ceux qui se trouvoient dans le Registre, étoit un Recueil de Considérations mathématiques, sous le titre de Parnassus, dont il ne restoit que trente six » pages. Le sieur Borel a crû {en marge : Post compend. vit. Carte/. » pag. ly) que c’étoit un livre composé l’an 1619, sur une datte du prémier jour de Janvier, que M. Descartes avoit mise à la tète du Registre. » Mais il se peut faire que la datte n’ait été que pour le Registre en blanc, » & qu’elle n’ait voulu dire autre chose, sinon que M. Descartes aura commencé à user de ce Registre le premier de Janvier 1619, pour con
+
+[p. 214] 214 Opuscules de 1619-162 i. 2-4.
+
+iuvenis, oblatis ingeniosis inventis, quaerebam ipse per me possemne invenire, etiam non lecto auctore : vndè paulatim animadverti me certis regulis vti,
+
+I Scientia est velut mulier : quæ, si pudica apud virum maneat, colitur; si communis fiat, vilescit. 5
+
+Plerique libri , paucis lineis lectis figurisque in- spectis, toti innotescunt; reliqua chartæ implendæ adiecta sunt.
+
+POLYBIJ COSMOPOLITANI THESAVRUS MATHEMATICUS, in quo traduntur vera media ad omnes hujus Scientiæ diffi- 10 cultates resolvendas, demonstraturque circa illas ab hu- mano ingenio nihil ultra posse præstari : ad quorumdam, qui nova miracula in scientiis omnibus exhibere pollicentur vel cunctationem provocandam & temeritatem exploden- dam; tum ad multorum cruciabiles labores sublevandos, i5 qui a, in quibusdam hujus scientiæ nodis Gordiis noctes diesque irretiti, oleum ingenij inutiliter absumunt : totius orbis eruditis & specialiter celeberrimis in G. (Germania) F. R. C. denuo oblatus.
+
+y> tinuer de s'en servir dans la suite des téms selon ses vues & sa volonté. 1) L'opinion du sieur Borel n'en est pourtant pas moins probable, puisque » M. Chanut a remarqué, dans l'Inventaire de M. Desc. que tous les » Ecrits renfermez dans ce registre en marge : cotté C de l'Inv.'i parois- » sent avoir esté composez en sa jeunesse.» {La Vie de Monsieur Descartes, ib(/i, t. I, p. 5i.) Voir ci-avant, p. 7-8. Baillet ajoute, à la marge, en regard du titre Parnassu? ; « Il y est parlé de Pierre Roten, que M. Des- » cartes n'a connu que l'année suivante en Allemagne ; mais c'est peut-être 1) une addition postérieure. >^ Voir, en effet, ci-après p. 46 de F. de C.
+
+a. Le texte de Foucher de Careil donne ensuite : (F. Ros. Crue), sans qu'on sache si cette parenthèse est de lui, ou bien si elle existait dans le manuscrit de Hanovre. De même ci-après, 1. 18-19.
+
+�� �
+
+[p. 215] 4-0-7- COGITATIONES PrIVAT.*:. 2 I ^
+
+Larvatse nunc scientiæ sunt : quæ, larvis sublatis, pulcherrimæ apparerent. Catenam scientiarum pervidenti, non difficilius videbitur, eas animo retinere, quam seriem numerorum.
+
+5 I Præscripti omnium ingenijs certi limites, quos transcendere non possunt. Si qui principijs ad inveniendum vti non possint ob ingenij defectum, poterunt tamen verum scientiarum pretium agnoscere, quod sufficit illis ad vera de rerum æstimatione judicia
+
+10 perferenda.
+
+Vitia appello morbos animi, qui non tam facile dignoscuntur vt morbi corporis, quòd sæpiùs rectam corporis valetudinem experti sumus, mentis nunquam.
+
+Adverto me, si tristis sim, aut in periculo verser, i5 & tristia occupent negotia^ altum dormire & comedere avidissimè; si verò laetitiâ distendar, nec edo nec dormio ^.
+
+|On peut faire en vn iardin des ombres qui representent diverses figures, telles que des arbres & les 2o autres :
+
+Item, tailler des palissades, de sorte que de cer-
+
+a. Phrase donnée aussi par Baillet, Vie de Mon/ieiir Descartes, t. II, p. 449 en marge, avec ces mots : Fragm. MSS. On la trouve encore, écrite à la main, en marge de la p. 46, t. I des Lettres de Descartes, Exemplaire de l'Institut. L'écriture est de J.-B. Legrand, qui ajoute, en * regard du texte (t. IV de la présente édition, p. 409, note a) : « Cecy eil » conforme à ce que nous lisons dans ses fragmens dont uoicy les paroles : » aduerto me, si triltis lim, aui in periculo uerl'er, & tristia occupent ne- » gotia. . , » Le texte de Foucher de Careil donne : 1. 14, in trijlibus (pro tristis) ; 1. 1 5, aut (pro &)^ occupem (pro occupent) ; I. 16, non (pro nec).
+
+�� �
+
+[p. 216] 2i6 Opuscules de 1619-1621. 7-9-8-
+
+taine perspective elles representent certaines figures : Item, dans vne chambre, faire <que> les rayons du soleil, passant par certaines ouvertures, representent divers chiffres ou figures :
+
+Item, faire | paroître, dans vne chambre, des langues 5 de feu, des chariots de feu & autres figures en l'air; le tout par de certains miroirs qui rassemblent les rayons en ces points-là :
+
+Item, on peut faire que le soleil, reluisant dans vne chambre, semble tousiours venir du mesme costé, ou 10 bien qu'il semble aller de l'Occident à l'Orient, le tout par miroirs paraboliques; & fault que le soleil donne au-dessus du toit, dans vn miroir ardent, duquel le point de la reflexion soit au droit d'vn petit trou & donne dans vn autre miroir ardent, lequel a le mesme i5 point de reflexion aussi au droit de ce petit trou, & reiettera ses rayons en lignes paralleles dedans la chambre \
+
+|Anno 1620, intelligere cœpi fundamentum inventi mirabilis. _En marge : Olympica, x nov. cœpi intel- 20 ligere fundamentum inventi mirabilis.]
+
+Somnium 16 19 nov., in quo carmen 7 cujus initium :
+
+Quod vitæ sectabor iter ?. . .
+
+AusoN*=. 2 5
+
+"a. Note de Foucher de Careil, p. 9 : « Ces lignes sont en français dans le texte latin, et telles que nous les reproduisons ici. » — Voir aussi la fin de la note de Leibniz, reproduite ci-avant, p. 209, 1. 12-14.
+
+b. Voir ci-avant, p. 175 et p. 181. Suivant Baillet aussi, ce passage appar- tenait aux Olympica.
+
+c. Voir ci-avant, p. i83.
+
+�� � [p. 217] lo-u. COGITATIONES PrIVAT/K. 2 1/
+
+|Ab amicis reprehendi tam vtile, quàm ab inimicis laudari gloriosum ; & ab extraneis laudem, ab amicis veritatem exoptamus.
+
+Sunt quædam partes in omnium ingenijs, quæ, vel 5 leviter tactæ, fortes affectus excitant : ita puer forti animo, objurgatus, non flebit, sed irascetur; alius flebit. Si dicatur infortunia multa & magna accidisse, tristabimur; si quem malum in causâ fuisse addatur, irascemur. Transitus à passione in passionem, per vi- 'o cinas; sæpe tamen à contrarijs validior transitus, vt si in convivio hilari tristis casus repente nuntietur.
+
+Vt imaginatio vtitur figuris ad corpora concipienda, ita intellectus vtitur quibusdam corporibus sensibilibus ad spiritualia figuranda, vt vento, lumine :
+
+'5 vndè altiùs philosophantes mentem cognitione possumus in sublime tollere.
+
+Mirum | videri possit, quare graves sententiæ in scriptis poetarum, magis quàm philosophorum. Ratio est quod poetæ per enthusiasmum & vim imaginationis
+
+2o scripsêre : sunt in nobis semina scientiæ, vt in silice, quæ per rationem à philosophis educuntur, per imaginationem à poetis excutiuntur magisque elucent*.
+
+Dicta sapientum ad paucissimas quasdam regulas generales possunt reduci.
+
+»5 Ante finem Novembris Lauretum petam, idque
+
+a. Phrase traduite presque mot pour mot par Baillet, dans un passage qu'il déclare tiré des Olympica. (La Vie de Monsteur Descartes, t. I, p. 84.) Voir ci-avant, p. 184, 1. 19-28.
+
+Œuvres. V. 28
+
+�� �
+
+[p. 218] 2i8 Opuscules de 1619-1621. >2-i4
+
+pedes è Venetijs, si commode & moris id sit; sin minus, saltem quàm devotissime ab vllo fieri consuevit ^.
+
+Omninò autem ante Pascha absolvam tractatum meum, & si librariorum mihi sit copia dignusque videatur, emittam, vt hodie promisi, 1620, die 2^ Febr. . 5
+
+|Vna est in rebus activa vis, amor, charitas, harmonia.
+
+Sensibilia apta concipiendis Olympicis : ventus spiritum significat, motus cum tempore vitam, lumen cognitionem, calor amorem, adivitasinftantaneacrea- 10 tionem, Omnis forma corporea agit per harmoniam. Plura humida quàm sicca, & frigida quàm calida, quia alioqui activa nimis cito victoriam reportassent , & mundus non diù durasset.
+
+Deum separasse lucem à tenebris, Genesi est sepa- ,5 rasse bonos angelos à malis, quia non potest separari privatio ab habitu : quare non potest litteraliter intelligi. Intelligentia pura est Deus.
+
+Tria mirabilia fecit Dominus : res ex nihilo, liberum arbitrium, & Hominem Deum. ao
+
+Cognitio hominis de rebus naturalibus, tantùm per similitudinem eorum quæ sub sensum cadunt : & quia. Même remarque que note a de la page précédente. Voir ci-avant, p. 186-187. Ce passage, comme le suivant, serait encore emprunté aux Olympica.
+
+b. Baillet imprime : « die 23 Febr. » (Voir ci-avant, p. 187, 1. 17.) Le texte de Foucher de Careil donne : « 23 l'eptembris. » iPage 12.) — Nous avons aussi corrigé, d'après la traduction de Baillet, librariorum, au lieu de librorum (F. de C).
+
+�� � [p. 219] i4-i8.
+
+��COGITATIONES PrIVAT^.
+
+��219
+
+��10
+
+��dem eum veriùs philosophatum arbitramur, | qui res quæsitas feliciùs assimilare poterit sensu cognitis.
+
+Ex animalium quibusdam actionibus valde perfectis, suspicamur ea liberum arbitrium non habere.
+
+Contigit mihi ante paucos dies familiaritate vti ingeniosissimi viri, qui talem mihi quæstionem propo-
+
+fuit" :
+
+Lapis, aiebat, descendit ab A ad B vnâ hora; attrahitur autem a terra perpetuâ eâdem vî, nec quid deperdit ab illâ celeritate quæ illi impressa est priori attractione.
+
+Quod enim in vacuo movetur,semper moveri existimabat.
+
+Quæritur : quo tempore tale spatium percurrat.
+
+Solvi quæstionem. In triangulo isoscelo rectangulo,
+
+ABC spatium <motum> x '5 repræsentat; inæquali-
+
+tas spatij à puncto A ad
+
+basim BC, motûs inæ-
+
+qualitatem. Igitur AD
+
+percurritur tempore, 20 quod A DE repræsentat; DB verò tempore,
+
+quod DEBC repræsen-
+
+tat : vbi est notandum
+
+minus spatium tardio- B 25 rem motum repræsentare. Est autem AED tertia pars
+
+DEBC : ergò triplo tardiùs percurret AD quàm DB.
+
+a. C.cnc question aurait été posée à Descartes en nov. ou déc. 1618 et le vir uigeniojijfimus ne serait autre qu'Isaac Beeckmann. Voir ci-avant, p. 75 et p. 58.
+
+b. .Note de Leibniz: « Si A Ddimidia ipfitis DB. » [UireAB, et non DB.)
+
+��� �
+
+[p. 220] 220
+
+��18.
+
+��Opuscules de 1619-1621.
+
+Aliter autem proponi potest hæc quæstio, ita vt semper vis attractiva terræ æqualis sit illi quæ primo momento fuit: nova producitur, priori remanente. Tunc quæstio solvetur in pyramide*.
+
+Vt autem hujus scientiæ fundamenta jaciam, motus vbique æqualis lineâ repræsentabitur , vel superficie rectangulâ, vel parallelogrammo, vel parallelipipedo; quod augetur ab vnâ causâ, triangulo ; à duabus, pyramide, vt supra; à tribus, alijs figuris.
+
+Ex his infinitæ quæstiones solventur. Verbi gratiâ, lapis in aere descendit viresque acquirit eundo : quan- donam incipiet æquali celeritate moveri ? Quod sol- vetur. Hæc linea repræsentet gravitatem lapidis in
+
+��10
+
+��B
+
+��E
+
+G
+
+��H
+
+primo instanti : curvatura linearum AEG& CST inæqualitates motûs : à puncto enim E, F, æqualiter moveri incipiet, quia AEG non est curva nisi ab A ad E* ab E ad G est recta ".
+
+a. Note de Leibniz : « Obscurè. » Voir cependant p. 77, L 21, à p. 78, L 16, ci-avant.
+
+b. ViRGiL., y£"n., IV, 175.
+
+c. A la suite de l'article sur l'accroissement de la vitesse d'un corps qui tombe dans le vide (article publié ci-avant, p. 49, n» 11 et \ibis), Beeck-
+
+��iS
+
+�� �
+
+[p. 221] 20. COGITATIONES PRIVATÆ. 221
+
+\Item, si fax accensa in aere descendat, vt etiam ignis magna levitas de gravitate aliquid tollat, cùm levitatis quantitas sit nota.
+
+Item, etiam gravitatis totius facis & aeris impedimentum, si quæratur quo instanti celerrime descendat & quo instanti non descendat ; vbi etiam notum esse oportet, quid de face singulis momentis comburatur.
+
+tnan, sans doute pour la symétrie, donne, dans son Journal, un autre article sur la chute d'un corps dans le plein (soit l'air, soit l'eau); il conclut à un punctum æqualitatis, auquel il tenait beaucoup (voir ci-avant, p. 3/, note a, et au t. I de cette édition, p. 90 et p. 94).
+
+Voici cet autre article, dont Descartes a certainement eu connaissance, soit dans un entretien particulier, soit parce qu'il lui fut communiqué :
+
+« Punctum æqualitatis, id est ubi lapidis casus non amplius movetur, » quœjitus (sic) in aere. — Eodem modo quo spatium multiplicatur, » etiam impedimentum multiplicatur, si intelligas in aère vel aquâ, id est » in pleno, quicquam cadere. Res enim cadens describit figuram oblon- » gam, lineis omnibus parallelam ; cùm res secundâ horâ velocius cadit, » plusque spacij percurrat, ea est proportio figura quam prima horâ des- » cribit ad eam quam describit secundâ horâ, ut spacium prima horâ pera- » gratum ad secundâ horâ peragratum. Si igitur res cadens ab impe- » dimento non impediretur, tanto pluri aeri secundâ horâ occurreret, » quanto majus est fecundae horas paralelipipedum, quàm primas horæ. » At cùm certum sit impediri rem cadentem ab aère (res enim unaquæque u cadens experimento probatur non semper celeritate augeri : sed est ali- » quis locus, ad quem cùm pervenerit, movetur per reliquum spacium » æqualiter), videndum quo modo id fiât. » {Fol. 106 recto, col. 2, l. 33-59.)
+
+« Placuit quidem antem (lege antea) nobis triangularis hæc proportio, » non quòd revera non forêt aliquod nimirum [lege minimum) phyficum » mathematice divifibile fpacium, per quod minima phyfica vis attraftiva » rem movet (vis enim haec non eft rêvera continua, fed difcreta, & ut » belgice loquar,_/î/ treâ met cleijne hurtkens, ac propterea conftant aug- » menta prxdida, ex verà arithmeticâ progreflione) ; fed placuit, inquam, » quia hoc < minimum > eft tam parvum & infenfibile, ut propier multi- » tudinem terminorum progreftionis, proportio numerorum non fenfibi- » liter différât à proportione triangulari continua. Hae [sic] cùm ita se » habeant, sequitur, si res cadens uno minimo momento temporis physico » (quo viz. minimum physicum spacium res conficit), tanto aeris occurrat » quanto ipsa corporis constat non amplius celerius moveri, sed in hoc » motu permanere, id est, si paralelopipedum quod tali momento descri-
+
+�� �
+
+[p. 222] 222
+
+��Opuscules de 1619-1621,
+
+��Aliæque innumeræ quæstiones sunt ex geometricâ pariter l^ mathematicà progressione.
+
+Ad talia pertinet quæstio de reditu redituum. G. v., mutuo accepi AB; post tempus AC, debeo CD; post
+
+��tempus AE, debebam tantùm EF, si BFD ducta sit 5 linea proportionum. Linea proportionum cum qua-
+
+��bitur, tantùm corporeitatis contineat, quantum res ipsa continet, non poterit attraLtrix vis terræ motiii rei quicquam addere, quia gravitas corporis in quo verl'atur, id est ^ris, asqualis ei\ gravitat! rei ; nam æque grave exiltens quàm aqua in aquà non movebitur deorsum. Semper igitur rei cadeniis motus augetur quidem ; at ita ut, qui debcret augeri secundum proportionem ade ad decb, propter impedimentum crelcens, perpetuo de proportione hac aliquid detrahat, donec tandem motus non amplius augetur, antiquatà ab impedimento attraclrice vi, & dumtaxat retento motu, quem hoc ultimo moniento habebat. Hic enim non jam etiam minuitur, quia sola attractrix vis potest aboleri; quà ablatà, res pergit moveri, ut li in vacuo semel mota movetur; cùm enim nulla ratio lit cur motus augereiiir, nulla etiam ratio est cur pluri acri occurreret, & parallelopipedum [sic] longiiis del'criheretur l'equentibus nio- mentis, quàm eo momento describebatur, quo primum taiitum aeris continebat quantum res corporeitatis.
+
+» Hinc l'ciri potest punctus, in quo res cadens non amplius celerius cadit. Nota enim locum à qun res incipit cadere, & nota locum ad quem cadat. Fac, lecundo,.,ut per spacium centum pedibus longius cadat, & vide quantum temporis cont'eccrit hos centum pedes percurrendo. Tertio, cadat per l'patium adhuc centum pedibus longius, & vide iterum quantum temporis confumptum lit hic (Icgc his) centum pedibus. Si tempus ht (a.æquale, jam Icis te ultra id pun(cHum proceirili'e, a quo deinde (ajequaliter deorsum res movetur. Proinde statuito spatium per quod res pnmo movebatur minus, atque iterum secundo & tertio res per centum pedes ut ante moyeatur; atque id toties facito, donec per
+
+�� �
+
+[p. 223] »o. COGITATIONES PrIVAT^. 22 J
+
+dratrice conjungenda : oritur enim [quadratrix] ex duobus motibus sibi non subordinatis, circulari & recto^ Petijt à me Isaacus Middelburgensis^' an funis ACB
+
+���affixus clavis a, b, sectionis conicæ partem describat. 5 Quod non licet per otium nunc disquirere ".
+
+» ultimos centum pedes rei mota; motus au£tus quidem fit, sed vix sensi- » biliter ; tum enim hic erit punctus, à quo rei motus deorsum spectans » non amplius augetur. » [Fol. io6 recto, col. 2, /. 60. — 76., verso, col. 2, l. 29.)
+
+« Punctum æquitatis (sic) in cadendo in aquâ habctur manifestius. — » In aquà etiam hic punctus eodem modo invenietur; ultimo enim phy- »• fico momento lapis immersus descendens tantum aquæ excurrendo » contingit, quantus est excessus ponderis lapidis à pondere aquæ, quæ » idem spacium occuparet, quod lapis occupat. » {Fol. loy recto, col. /, /. 1.9.)
+
+a. Note de Leibniz : «/rf est ex numero non analyticarum . » Voir ci- avant, p. 78, 1. 17.
+
+b. Peut-être ce passage est-il emprunté au Parnassus de Descartes? (Voir ci-avant, p. 174, 1. 3). On lit, en effet, dans Baillet : « M. Des- » cartes [en marge : Parnass. Cartesii M S.) pratiqua encore des connois- » sances avec d'autres Mathématiciens des Pro\inces-Unies, & sur tout » avec un Isaac de Middelbourg, qui luy proposa diverses questions de « Mathématiques & de Physique pendant son premier séjour en Hol- )i lande. » {La Vie de Mnn/sieur Des-Cartes, 1691, t. I, p. 44.) D'ailleurs Baillet distingue à tort ici Isaac de Middelbourg d'Isaac Beeckman, qui était, en effet, de cette ville.
+
+c. Problème d\x de la chaînette. On le trouve, à deux reprises, dans le Journal d'Isaac Beeckman : la première fois, à la date suivante, Verice decimo ■K.ali'jZ. Maij 161 g {Fol. i iga, verso, et fol. lioa, recto), 22 avril 1619, lorsque Descartes allait quitter la Hollande (voir ci^avant, p. i65- 166); et la seconde fois, à la date du 20 avril (1620 ?), sous ce titre -.Chorda ex duobus tabulati lucis dependens quant lineam describat quæsitum. {Fol. j5g a, verso, ei/ol. 160 a, recto.)
+
+�� �
+
+[p. 224] �2 24 Opuscules de 1619-1621. a».
+
+|Idem suspicatur nervos in testudine eô celeriùs moveri quo acutiores sunt, ita vt duos motus edat octava acutior, dum vnum gravior ; item quinta acutior
+
+I,-, &c.^
+
+Idem advertit quare, in motu projectorum, quæ è 5 manu exeunt per vim circularem, statim ad motum rectum deflectant. Quòd scilicet pars a a majorem des- cribat circulum quàm bb, ideòque celeriùs movetur : 10 vndè fit vt, dum è manu exit, partem b præcedat & eam post se trahat. Vnde sequitur aliquid projici posse circulariter hoc modo : à puncto e pendeat pondus a, agite- 15 turque libere per circulum abcd; quia omnes partes ponderis æqualiter moventur, ideo si funis ea franga- ~êL^ tur, perget moveri circulari- 20
+
+ter. Id licebit experiri, si in aquam decidat.
+
+a. Cf. ci-avant, p. 52 et p. 53.
+
+b. Ibid. (cet article fait suite immédiatement à celui que nous avons publié ci-avant, p. 54-56, n" viii) :
+
+n Motus terra: annuus etiam in aère Me exemplo demonstratur. — « Demonstratum est paulo ante, motum circularem hîc in aère fieri non B posse eo modo ut una rei motæ pars perpetuo minorem circulum de- » scribat quàm altera, sed si omnes partes æquales circulos describant, eo B modo quo dixi, motum annuum terræ fieri ; quin possit talis motus circu- B laris hic fieri? Præcedit in motu re£lo gravior pars, at hic omnes partes » vicissim debent præcedere
+
+B Exemplum habes in candelabris æneis, quæ in templis funi longo s appendent : hæc enim hoc modo moventur circulariter, si quis ijs talis
+
+��� �
+
+[p. 225] 25 COGITATIONES pRIVAT^. 225
+
+Idem me monet aquam congelatam plus loci occupare quàm solutam^; idem expertus est glaciem in
+
+» motûs iniiium dederit, ut omnes partes vicissim præcedant. Sic si globum » ligneum ex fune suspendas, & in aquam demittas, moveasque per funem « circulariter, ablato fune, globus perget moveri, eo modo quo candelabra » funi appensa ; imò si di£lus ligneus globus funi appensus in aère circu- » lariter moveatur, subitoque abscisso fune aquæ incidat, non dubitem » quin in eâ circulariter motus futurus sit. Cur enim candelabra in tem- » plis non mutant motum circularem in rectum? Si dicas, quia funi » adhærent, eveleens de Slingers en den Jleen daer in aen de touwe han- » ghen ; maer de Slingers fijn altijt Jo aen de Slingers gejlreckt, dat het » een deel van de Jleen altijt naejl de hant is en eenen kleijnen circel » beschrijft dan het uijterjle deel van de Jleen, dat tverji van de hant » blijjt, cùm candelabra appendeant longo funi, eaque parvo circulo » moveantur, funis, non sit semidiameter circularis motus eorum, ita ut si » candelabra rectum motum appeterent, nullo negotio extra suum circu- » lum procurrerent. At, cùm id non fiat, manifestum est, cùm candelabra » longissimo funi appendeant, fere nuUam esse rationem cur motum circu- » larem non servent, ita ut hîc eo modo quo in recto motu valeat hoc » theorema : quod Semel movetur, Semper eo modo movetur, dum ab » extrinseco impediatur. In vacuo verò nulla talis consideratio habenda; » magnum enim corpus, parvum, grave, leve, magnâ aut parvâ superficie, » hac sive ilià figura, &c., semper eo modo quo semel motum est, pergit » moveri, his accidentibus nihil impedimenti afferentibus. Præterea cùm » candelabra eo modo moventur quo dico annuum motum terræ fieri, » û abscisso fune fieri posset, ut candelabra in aere elevata manerent neque » deciderent, sed ut astra in cælo, sic hæc in aere vagarentur, nulla ratio » videtur esse cur non pergerent circulariter moveri, usque dum sæpius » aeri occursando impedita tandem. Cùm autem in hoc motu omnes » partes rei motæ vicissim antecedant, cùmque graviores partes rei in » aère motas naturâ suâ, ut antediximus, nitantur antecedere, præstat rem » motam globum esse & æquabilis ubique materiæ : attamen etsi res mota » talis omnino non sit, tanta tamen est vis motionis semel factæ, ut non » subito motus hic circularis propter id impediatur, sed citius dumtaxat » quiescit & inconcinnius movetur. »
+
+[Fol. 104, recto, col. 2, l. 10, à verso, col. t , l. i5.)
+
+a. Journal de Beeckman, année 161 8 (peut-être août-septembre, à Caen) :
+
+« Glacies plus loci requirit quàm aqua. — Kekermannus, lib. ullimo
+
+» Physicæ in tractatu de Vacuo, dicit aquam conglaciatam multo minus
+
+» spacium complere, quàm liquidam; sed fallitur. Experientia enim
+
+» testatur poculum plenum aquà liquida conglaciatum protuberare, &
+
+» supra margines erigi ita ut glacies altior sit ipsis marginibus; quod ipse
+
+» sæpissime sum expertus. Præterea miror eum, glaciem aquæ supernatare,
+
+Œuvres. V. 29
+
+[p. 226] medio vasis rariorem esse quàm in extremitatibus. Quod fit, inquit, quia spiritus ignei qui locum occupant, initio à frigore ad medium vasis delrahuntuî-;\nàè tandem cùm exeunt etiam frigore impellente, locum in medio vacuum relinquunt. | Imò etiam glaciem sublevant, 5 cùm exeunt; vndè fit vt majorem locum occupet glacies quàm aqua.
+
+Idem quoque dixit acus in his regionibus fieri tam acutas, vt monetam argenteam perforent ; & tam tenues, vt aquæ supernatent. Quod fieri posse existimo ; 10 parvæ enim res ejusdem materiæ non tam facile aquam dividunt quàm magnæ, quòd sola superficies aquam premit, quæ major est proportione in exiguo corpore quàm in magno*".
+
+» nec scire ea quae supernatant aquas majus spacium necessario complere » aquà liquida. » (Fol. Sg recto, col.^ 2, l. 25-2g.) Dans l'alinéa qui vient ensuite, Beeckman mentionne sa promotion au grade de docteur, le 6 septembre 1618, à Caen, (Voir ci-avant, p. 23.) Notre citation se trouve ainsi datée approximativement.
+
+a. Journal de Beeckman :
+
+« Glacies in vase cur per plicas congelatus (sic pro congelatur). — Den » 26'^" Janu. 1622. In vase cylindriaco (tonnam aut cuvam dicimus) super- » ficies aquEE erat congelata; at velut plicas quædam altiores reliquâ glacie » à circumfereniiâ ad centrum videbantur extendi, in hune modum ut » vides ad latus. Ratio hujus rei est quod vas fuerit » circulare; cùm enim glacies plus loci occupet quàm » aqua, oportuit superficiem glaciatam majorem effi- » cere circulum superficie aqueâ, quod cùm terminus » vasis ligneus non permitteret, necesse fuit abundan- » tem glaciem in sese reduplicari, id ibi maxime ubi » plus erat materiæ, quod est circa circumferentiam: » unde fit plicas fuisse triangulares, quarum angulus » acutus vergebat ad centrum. « {Fol. 1 63 recto, l. 32-40.)
+
+b. Ibid., fol. g6 verso, col. i, l. 2- : Sen-ece acus exiguce cur aquæ interdum supernatant {Aamand). A la ligne précédente, on trouve la date : 1618, den 28'" octob. Un peu plus loin encore, fol. 100 recto, col . 2, /. 22 : Perforare cutem acicula non est mirum (Hamand).
+
+[p. 227] 25-27. COGITATIONES PRIVATÆ:. 2? 7
+
+Instrument de musique fait auec vne precision mathématique^.
+
+Pour toucher vne mandoline exactement, selon mes règles de Musique, il faut diuiser L'espace depuis le 5 fillet iusqu'au cheualet en 192 parties égales pour le A ; en oster 12 & mettre le B, puis 18 pour le C, 2 pour le D, 16 pour le E, & 9 pour le F; puis accorder les cordes alternatiuement à la quinte & à la quarte, comme on fait ordinairement. Le C & le D seruiront 10 pour le ré mobile, & toute musique se pourra iouer sur cette mandoline, pouruu qu'il n'y ait point de diezes irreguliers aux cordes non destinées aux muances^
+
+i Si, partant de Bucolia, on veut aller droit en Chem- i5 nis ou quelque autre port de l'Egypte que ce soit, il faut remarquer exactement, auant que de partir, en quel endroit Pythius & Pythias sont opposés l'vn à l'autre à l'embouchure du Nil' ; puis après, en quelque lieu que ce soit, si l'on veut trouuer son chemin, il faut ao regarder seulement où est Pythias, & de quelles seruantes de Psyché elle est accompagnée ; car par ce moyen, connoissant combien elle est éloignée du lieu où elle estoit à Bucolia, on trouve son chemin '^.
+
+a. « Ces deux paragraphes sont en français dans le texte ; nous les re- " produisons sans aucun changement. » (Note de Foucher de Careil.)
+
+b. Voir ci-avant le tableau de la p. i2 5, où l'on retrouve les mêmes chiffres : 192, 180 (192-12), 162 (180-18), 160 (162-2), 144 (160-1G) et i33 (144-9). — Muances. Foucher de Careil imprime nuances.
+
+c. Note de Leibniz-; « c'est à dire au départ ».
+
+d. Note de Leibniz : « Bucolia, lieu de départ ; Egypte, globe de la » terre ; embouchure du Nil, lieu de départ ; Pythius & Pythias, et 3 ;
+
+�� �
+
+[p. 228] 228
+
+��Opuscules de 1619-1621.
+
+��36-28
+
+��I Petijt è Stevino" Isaacus Middelburgensis^ quomodo aqua gravitet in fundo vasis b æque ac in fundo vasis c (& a ; item, totum vas c non magis gravitet, quàm a cujus pondus medium affixum est & immobile.
+
+��^
+
+��Z^
+
+��Respondi aquam æqualiter pellere omnia circumquaque corpora, quibus sublatis æque descendit, si aliqua pars fundi aperiatur, atque fiet in vase c; ergo æque premit fundum.
+
+Obijcitur, si pars inferiorvafis^&c aperiatur simul, aquam in c magis descensuram quàm in b, quoniam est naturalis modus celeritatis in descensu aquæ, qui deberet excedi | ab aquâ existente in tubo vasis b, vt repleret locum relictum ab inferiore aquâ.
+
+Vbi respondeo inde sequi in motu semper minus celeriter descendere aquam vasis b quàm c; atqui gra- vitatio non è motu sumitur, sed ab inclinatione ad descensum in vltimo instanti ante motum, vbi nulla est ratio celeritatis.
+
+��10
+
+��i5
+
+��» les fer uan tes de Psyché, les fixes. » (Foucher de Careil, p. 27.) — Voir ci-avant p. iSg, 1. i5, et p. i63, I. 6, sur la détermination des longitudes.
+
+a. « E Stevino », d'après Stevin. Et non pas : « à Stevino ». On a parfois traduit à tort « il demanda à Stevin ». Comme si Beeckman eût posé la question à Stevin personnellement.
+
+b. Voir ci-avant, p. 6.
+
+c. Voir ci-avant p. 67-74.
+
+�� � [p. 229] a»-3o. COGITATIONES PrIVATvE. 229
+
+Quæstio in gnomonicâ. — Sit sub lineâ æquinoctiali horizontali horologium faciendum, cujus linea æquinoctialis est data, ac prætereà tria puncta ad quæ vmbræ extremitas debeat pertingere, dum Sol est in 5 tropico Capricorni, quomodocumque data sint, modo ne in rectam lineam incidant : centrum Solis horologij reperire est & longitudinem styli.
+
+Hoc reducitur ad circulum tres alios inæquales tangentem, quorum centra in rectam lineam incidant. 10 Nulla figura est, in totâ extensione, in quâ & circa quam circulus duci possit, quomodocumque figura fiat, præter triangularem, quæ Divinitatis hierogly- phicon.
+
+I In omni quadrato quadrati semper vltima nota est i5 1,6, 5.
+
+In omni quæstione debet dari aliquod medium inter duo extrema, per quod conjungantur vel explicite vel implicite; vt circulus t^ parabola, ope coni. Item per duos motus compossibiles describentur. Vt motus ad 20 [fpiralem] dicendus non est cum circulari compossibilis.
+
+Si funis mathematicus admittatur, is erit communis mensura recti & obliqui. Verùm dicimus admitti hanc lineam posse, sed à Mechanicis tantum : eâ scilicet ra- 25 tione quâ vti possumus staterâ ad æquandam cum pondere, vel nervo ad eamdem comparandam cum sono ; item spatio in facie horologii contento ad metien-
+
+a. Voir Correspondance, t. I, pp. i?9 01439, et t. III, p. 707.
+
+�� �
+
+[p. 230] 2JO Opuscules de 1619-1621. 30-34.
+
+dum tempus, & similibus in quibus duo genera con- feruntur.
+
+Perlegens Lamberti Schenkelii lucrosas nugas (lib. De arte memoriæ) cogitavi facile me omnia quæ detexi imaginatione complecti : quod fit per reductionem 5 rerum ad causas ; quæ omnes cùm ad vnam tandem reducantur, patet nullâ opus esse memoriâ ad scien- tias omnes. Qui enim intelliget causas, elapsa omnino phantasmata causæ impressione rursùs facile in cerebro formabit. Quæ vera est ars memoriæ, illius nebu- 10 ionis arti planè contraria : non quod illa effectu careat, sed quod chartam melioribus occupandam totam requirat & in ordine non recto consistat : qui ordo in eo est, vt imagines ab invicem dependentes efformentur. Hoc ille omittit, nescio an consultò, quod 1 5 est clavis totius mysterij.
+
+Ipse excogitavi alium modum : si ex imaginibus rerum non inconnexarum addiscantur novæ imagines omnibus communes, vel saltem si ex omnibus simul vna fiat vna imago, nec solùm habeatur respectus ad 20 proximam, sed etiam ad alias, vt quinta respiciat 1° per hastam humi projectam, medium verò, per scalam ex quâ descendent, & secunda per telum quod ad illam projiciat, & tertia simili aliquà ratione in rationem significationis vel veræ vel fictitiæ. 25
+
+|Aiunt pisces capi faciliùs cum tædulâ in rete de- missâ. Quidni candelâ in vitro conclusâ ?
+
+Si esset corpus quod pro ætate ]]) mutaret pondus, daret motum perpetuum. Fiat talis rota(^ vbi nigrum [p. 231] sit alterius formæ ) non subditæ ex totâ rotâ, ita in axe librata vt vtraque forma in naturali statu æqualis sit ponderis : haud dubie perpetuo movebitur juxta motum )"-
+
+5 Ponatur statua, aliquid ferri habens in capite & pedibus ; ponatur super funem vel virgam ferream exi- guam , sed vi magneticâ tinctam ; item suprà caput ejus alia sit, vi etiam magneticà tincta, quæ altior sit & quibusdam in locis majori vi distincta. Statua autem
+
+10 habeat in manibus baculum oblongum ad modum fu- nambuli, qui sit excavatus & in eo nervo contentus, cui intereà principium motûs automati intùs inclusi : quo levissime tacto, statua omnis pedem promoveat, quoties tangitur & in locis | majore vi magnetis in i5 summo tactis, sponte, scilicet cùm pulsabuntur instru- menta*".
+
+a. Le premier éditeur, Foucher de Careil, se contente de dire, p. i58, note (14), que « ce passage est altéré dans le texte ». Mais E. Prouhet, Revue de l’Instruction publique, 5 janvier 1860, p. 632, col. i,note i, interprétant le mot forma avec la signification qui lui est attribuée dans la philosophie du moyen âge, et remplaçant les trois figures du texte par le mot lunæ, propose la traduction suivante :
+
+<i S’il y avait un corps dont le poids changerait suivant l’âge de la lune, on aurait le mouvement perpétuel. Supposons une roue dont une moitié soit d’une autre substance non soumise à l’action de la lune, comme le reste de la roue, et de telle sorte que dans l’état naturel ces parties se fassent équilibre. Sans aucun doute, cette roue se mouvrait perpétuellement, suivant le mouvement de la lune. »
+
+b. Observation du P. Poisson sur un passage du Discours de la Méthode : I’ Ce qui ne semblera nullement estrange &c. » (Tome VI de cette édition, p. 53, 1. 29.)
+
+« ... Les hommes, tout grossiers qu’ils sont, n’ont pas laissé de faire des machines de bois qui faisoient cent tours & détours, & estoient si delicatement travaillées, que les plus fins y ont souvent esté attrapez, avoiiant » qu’ils les avoient prises pour de véritables bestes. M. Desc. & M. Schuyl » en fournissent un bon nombre d’exemples. J’ay rencontré, entre autres, [p. 232] p
+
+Opuscules de 1619-1621. 
+ 36- 
+ Columba Architae molas vento versatiles inter alas 
+ habebit, vt motum rectum deflectat.
+
+Si tria trianguli latera ducuntur in se invicem & 
+ productum per areæ quadruplum dividatur, habebitur semidiameter circuli, quarto triangulo circum- scripti.
+
+Sunt latera a, b, c, area e : semidiameter erit — . Vt fiant latera 13, 14, i^, & area 84 : semidiameter est^.
+
+Describi potest sectio conica tali circino : sit AD C ^ perpendicularis, superficies obliqua AB. Sit pes circini
+
+» dans les manuscripts de celuy-là, » que voulant vérifier par expérience » ce qu'il pensoit de l'ame des bestes, » il avoit inventé une petite machine » qui representoit un homme dansant >> sur la corde, & par cent petites ad- » dresses imitoit assez naturellement » les tours que font ceux qui voltigent » en l'air. Il donne aussi l'invention )> de faire une colombe qui vole en » Tair. Mais la plus ingenieuse de ces » machines est une perdrix artificielle » qu'un epagneul fait lever. le ne sçay » s'il a fait mettre en œuvre le dessein » que j'en ay veu ; mais la description qu'il fait de ce petit automate, ne » paroist pas quelque chose de si difficile qu'il ne l'ait pu, s'il en a voulu » faire la depense ou s'en donner la peine. Strada enchérit encore sur » M. Desc. dans les récits qu'il fait d'une armée de petits automates, à » qui la Torrez faisoit faire l'exercice pour divertir Charles-Quint dans sa » retraite. » (Commentaire ou Remarques sur la Methode de René Descartes, par L. P. N. I. P. P. D. L. [le Père N. I. Poisson, prêtre de l'Oratoire] ; Vendôme, 1670, r<= édit., Partie V, 3"^ Observation, p. i56, ou Paris, 1671, id.).
+
+a. Foucher de Careil imprime arditea ! Lire peut-être : Architæ. Sur cette colombe artificielle d'Architas de Tarente, voir Aulu-Gelle, Noct. Att., X, XII, 9 et 10. Voir aussi H.-C. Agrippa, De Occulta Philosophiâ,
+
+10
+
+[p. 233] 36. 
+ ��COGITATIONES PRIVATÆ.
+
+��•}}
+
+��immobilis, volvatur BC supra planum obliquum, ita tamen vt CB possit brevior fieri, si imaginetur per C ascendere^.
+
+Sectio cylindri, eodem pacto, circina duci potest 5 ita : sit A C DE circinus , cujus pes immobilis est;
+
+��linea DE descendet vel ascendet libere per punctum D prout à piano distabit .
+
+lib. II, cap. I : « ...& columba Architae quæ lignea volabat. » (Opéra Omnia, 1600, t. I, p. 1 18.)
+
+a. Descartes indique un procédé pour décrire une section conique.lequel équivaut à la construction ordinaire par l'intersection d'un cône et d'un plan. Il remplace le cône par la génératrice CB, et le point B décrit sur le plan AB précisément la courbe qu'on obtient par l'intersection du plan AB et du cône engendré par CB. (G. E.)
+
+b. Ce procédé donne lieu à une remarque semblable à la précédente. La ligne D E est la génératrice du cylindre, et le point E décrit sur le plan AB précisément la courbe qui est l'intersection du cylindre et du plan AB. [G. E.) — La droite DE est maintenue à une distance constante de CA, de façon à décrire un cylindre d'axe CA; en même temps, DE doit pouvoir monter ou descendre, de façon que E repose toujours sur le plan A B. Nous avons donc modifié la figure de Foucher de Careil (dans laquelle CD était parallèle à AE, et ED s'arrêtait à D), en faisant CD perpendiculaire à ED, et en prolongeant ED au delà de D. [H. V.)
+
+Œuvres. V. 3o
+
+�� �
+
+[p. 234] 2H
+
+Opuscules de 1619-1621.
+
+Inveni aequationes^ inter talia : i (^ & 7 9£ + 14, & simile hoc. Reduco ad i Q^, + 2 sequ. y f^, & quaero 1 f^, quem postea multiplicabo per 7 [primi circini]"'.
+
+Deinde alium circinum " habere oportet, quorum duæ partes sunt tales. Prima habet lineam bc firmiter annexam ad angulos rectos lineæ as, lineam autem
+
+a. Descartes parle de l'équation
+
+qu'il réduit à la forme
+
+x'= 7X i- 14, x+ 2=:' x\
+
+Après avoir trouvé la valeur du second membre, dit-il, on obtient x^ en multipliant par 7. Dans le passage suivant, il enseigne le moyen de trouver, à l'aide des circini, la valeur de x\ si x' = j; + 2 ; et il semble croire, mais à tort, qu'on puisse trouver par le même procédé la valeur de - x^, SI - x' =: X -- 2. Voir les remarques ci-dessous sur deux erreurs seinblables' (G. E.)
+
+•b. « Erat circinus qualis est mesolabi in Geom. Cart., scilicet pars ex
+
+» mesolabi duabus proportionalibus. » [Note de Leibni^.) L'addition de primi circini est obscure, et la note de Leibniz ne l'éclaircit guère. Ces deux mots peuvent être rayés sans inconvénient. (G. E,)
+
+c. Outre la figure ici reproduite, l'édition de Foucher de Careil en donne deux autres, qui sont les deux compas figurés d'abord séparément : le premier, formé de abc rigide à angle droit, et de de mobile ; le second, de dcegh rigide, avec ce donné et fixe. On ouvre le premier, jusqu'à ce que cd du second, en glissant, et poussant </. fasse en sorte que de du premier passe par e du second. (//. V.)
+
+/
+
+[p. 235] 38-^0. COGITATIONES PrIVAT^E. ZJ^
+
+de ad angulos quidem rectos, sed mobilem per lineam fb. Linea fb habet præterea in puncto d stylum fixum, quo lineam describit; in puncto/etiam vnum, sed mobilem, quo aliam lineam describit hoc pacto. 5 Secunda pars dcegh, constans lineis firme invicem annexis, fluat supra lineam ap, vbi affixa est prima pars in puncto a immobili : punctum c impellit lineam de, & ita efficiet vt tota secunda pars descendat, linea autem cd trahit lineam de per spatium/Z> juxta varie-
+
+10 tatem intersectionum, & tum stylus d lineam primi circini describet^ Linea autem ^A interfecabit etiam lineam de, aliamque lineam curvam stylo c mobili describet, quæ vltima linea secabit ap, in quo ae est cubus inveniendus, si ab primæ partis sit vnitas, ce
+
+15 verò secundæ numerus absolutus, qui in exemplo est binarius .
+
+a. « Illam mesolabi seu pro duabus mediis de quâ in Geometrid Car- » lEsii. » [IdA Sur la courbe décrite par d, voir la Géométrie de Descartes (t. VI de cette édition, p. 391).
+
+b. Dans cet exposé de Descartes, il y a des passages obscurs, par exemple, en ce qui concerne le point c; mais ils sont d'importance secondaire, et le procédé, en ce qu'il a d'essentiel, est indiqué nettement. Il s'agit de résoudre l'équation
+
+At' = AT -f- 2.
+
+A cet effet. Descartes se sert de l'instrument qu'il a décrit deux fois dans sa Géométrie (t. VI, p. 391 et p. 443). Evidemment on a :
+
+a^ = -il, ae = il' = is,, ce = ae — ac = -^i - ac.
+
+Posons maintenant ab = i, ac ^ x ;\\ s'ensuit que ce =:z x^ — X, ou jr' = X -s ce..
+
+Par conséquent, si ce est égal à 2, a:' est égal a ae, ex. x égal a ac, cest-a- dire qu'on a résolu l'équation x^ = x -\- 2. Mais si ce ^ 2, il est toujours possible d'ouvrir ou de fermer l'angle bac, de sorte que, dans la nouvelle hypothèse, la distance entre c et e devienne précisément égale à 2, et alors X est égal à la distance entre a et c. G. F.)
+
+�� �
+
+[p. 236] 2j6 Opuscules de i6i 9-162 i. 40.
+
+Sit præterea æquatio inter talia, ^, ^, 7^, dum- modo quot sint ^ tot '2£, & hoc modo :
+
+I C^ aequ. 6 §" - 6 9£ + 56
+
+Reduco ad numerum radicum ternarium, habeboque
+
+7 et «qu- 5 S' - ? '2€ + 28.
+
+Deinde ex N tollo vnitatem, ex residuo cubum formo, cujus radici vnitatem addo, & quod cubice producitur ex illà radice est j (^g ; quod si multiplicetur per 2, producet cubum quæsitum ".
+
+Sed si non sunt tot ^ quot '2£, reducemus ad fractiones, ita vt horum numeri superiores sint æquales hoc pacto : \t -^ô + j ^ — 6 ^ aequ. i (^i^ reducam ad
+
+a. Descartes veut résoudre l'équation
+
+ûjjf' = kx' — hx -- a„,
+
+et prend comme exemple
+
+AT^ ^ 6 a:' — 6 :«:+ 56, qu'il ramène à
+
+'- x' = 3 x' — 3 X + 2i.
+
+Il opère comme si le premier membre de cette dernière équation était égal à x' ; dans ce cas, en effet, on a bien
+
+(AT— i)'= 28— I, Ar' = (p^28 — I + l)\
+
+Mais il écrit
+
+'-X'^(^2%— 1 + is .
+
+Sa solution est donc fautive. Du reste, chaque équation a.x' = a,x' + a,x + a^ peut être réduite à la forme
+
+b^x'=^ hx' — hx+ è„
+
+par une substitution linéaire ; et si la solution de Descartes avait été exacte, il en résulterait qu'on pouvait résoudre l'cquation générale du troisième degré par la formule simple qu'il a indiquée. (G. E.)
+
+[p. 237] 40. COGITATIONES PrIVAT^E. 2^7
+
+9 + -J^ 3^ — 7 *2C aequ. -J si^; quo facto, si ex N tollatur I, ex eodem residuo radix cubica extrahatur & vnitas addatur & productum cubice multiplicetur , fiet ^ (^Ç æqualis 27, sive ^ erit 108*.
+
+Item sit I C^ aequ. 26 — j ^ — j 9£. Addo vnitatem numero absoluto ; deinde ex radice producti vnitatem demo, & producitur ex radice cubus quaesitus .
+
+a. Il s'agit de l'équation x'= 3^:" — 6x + 36. Descartes la réduit à et indique comme solution c'est-à-dire qu'il se sert d'abord d'un procédé valable pour l'équation x' ^ 3** — 3 X + 9, et après avoir déduit ainsi la valeur de x', il remplace tout simplement x' par '-x^ ! (G. E.)
+
+b. L'équation dont il s'agit est x' = — 3x' — 3x + 26. Et parce que cette équation peut être réduite à
+
+(x+iy = 27,
+
+la solution en est évidemment
+
+x= 1^26+ I — I, d'où
+
+x' = {]^'26 + i-iy,
+
+comme l'indique Descartes.
+
+�� �
+
+[p. 238] 2^8
+
+��Opuscules de 1619-1621.
+
+��40.
+
+��Alius circinus ad æquationes cubicas i CC& O^ ON".
+
+Si inveniendus sit cubus æqualis ON dg &. quadrato vni incognito, talis circinus fabricetur : dce fluit supra ap, fluendo pellit bc in puncto c adigitque vt descendat simulque as, cui affixa est bc ad angulos rectos, describitque intersectione c2/& c^ lineam cir-
+
+��a. Descartes se propose de résoudre l'équation
+
+��x'
+
+��<'.x' + a„,
+
+��et il se sert du même instrument qu'il a employé pour l'équation x' = x-\-2. A cet effet, il réduit l'équation proposée à la forme
+
+x' = x' + b.
+
+Sans doute il savait que cette réduction peut s'effectuer par la substitution
+
+X = a.jr,. Puis il prend la partie abcde de son circinus, fait dg égal à b,
+
+X et tire la perpendiculaire gh, dont l'intersection
+
+' avec de est m. Il ne lui reste ensuite qu'à ouvrir ou à fermer l'angle,^ sia c, jusqu'à ce que le point m tombe sur ap. Alors on a
+
+���ac 1 ^à am
+
+��ai
+
+��ad
+
+��a c
+
+��Posons ac =^ X, ab ^= i ; il s'ensuit que ad = AT*, ag =z x^ \ et, parce que ag-=- ad -\- dg, x^ ^= x -\- d g =^ x -\- b . Descartes s'est donc trompé en avançant qu'on peut résoudre par son procédé l'équation at' = jc" -|- b. D'autre part, cependant, l'instrument peut être utilisé à cet effet, si on y ajoute les deux règles qu'on trouve dans la figure de la Géométrie, t. VI, p. 391. En effet, posons ab ^= i, ac = |/jr,
+
+//i = b. On a
+
+��"/"' — - X ï
+
+���Donc, parce que ah = as + sh, il s'ensuit que x' — x' +/h; et par conséquent, si on ouvre ou ferme l'angle bac, jusqu'à ce que/h devienne égal à b, on a résolu l'équation j:' =:: x' + b. {G. E.) b. ON dg signifie : « b (égal adg) ». (G. E.)
+
+�� �
+
+[p. 239] 40-42
+
+��COGITATIONES PrIVAT^.
+
+��239
+
+��cini mesolabi ^. Præterea trahit secum lineam^m | quæ impacta est lineæ as, ita tamen vt moveatur, trahit etiam dg quæ est numerus absolutus^, & fluit supra
+
+���/
+
+��as; item dg trahit dm. [c^d impactum est lineæ ak 5 ad angulos rectos, ita vt sine illâ moveri non possit, adeoque retrocedit rursus^".] Intersectio autem linearum gm & dm describit aliam lineam, quæ intersecat ap in puncto quaesito... a^ est s^*^. Inveniendus sit enim, verbi gratiâ, ^^ON"... quia intersectio de & 10 ge cadit in ap, dico cubum ag esse æqualem quadrato ad &L ONdg. [Nam triangulus gae est isosceles propter lineam ak, quae impacta est ad angulos rectos lineæ gc ex constructione ^] ab autem est vnitas etiam ex constructione, ac verò radix cubi inventis.
+
+0. La locution « linea circini mesolabi » se rapporte à la courbe décrite par le point correspondant à d de l'instrument de la Géométrie, t. VI, p. 391.
+
+b. C'est-à-dire : dg est égal à O N ou à è. (G. £".)
+
+c. Après qd : « Non video q in figura. » {Note de Leibni\.) — Ce passage entre crochets semble appartenir à une autre construction. [G. E.)
+
+d. " Obscure. » [Note de Leibni\.)
+
+e. " Id est absolutus. » [Id.)
+
+t . Même remarque e^ue note c.{G. E.)
+
+g. Après inventi : « Puto inveniri primum cubum quœdtum, inde ejus radicem. » (Note de Leibni^.)
+
+�� �
+
+[p. 240] 240 Opuscules de 1619-1621. 4*-m-
+
+Ex his inveniri possunt aequationes* inter i p^ & O^ — ON, item ON — O^, vt ex præcedenti inveniri potest inter i Ç^ & O Q^ — ON, item ON — OQ£; sed viam aperuisse sufficiat.
+
+Circinus ad angulum in quotlibet partes dividendum^ .
+
+Sit talis circinus : ab, ac, ad, ae sunt æquales la- minæ divisæ pariter in punctis / i, k, l; item sg
+
+L
+
+���æqualis as, &c. Vnde fit vt anguli, bac, cad & dae sint semper æquales, nec vnus possit augeri vel mi- nui, quin alij etiam muten|tur. Sit igitur angulus bcLX 10 dividendus : applico lineam ae supra o.x; quâ ibi ma-
+
+a. Les équations signalées par Descartes sont x" — a,x' — <i„, x' = a„ — a,x\ x' = a,x — <i„, x* — a„ — a,*.
+
+[G. E.)
+
+b. Voir ci-avant, p. i54, 1. 7, à p. i55, 1, t, lettre du 26 mars 1619.
+
+�� �
+
+[p. 241] 44 COGITATIONES PRIVATÆ. 24 1
+
+nente immobili, elevo lineam ba in partem b, quæ secum trahit ac & ad, lineaque describetur à puncto g
+
+���talis' yoe. Deinde sumatur na æqualis as, & ex puncto n ducatur pars circuli 6So, ita vt «ô sit etiam æqualis 5 sg: dico lineam ao dividere angulum in tres partes æquales. Ita potest dividi angulus in plures, si circinus constet pluribus laminis.
+
+Si subtrahatur numeri triangularis quadratus ex quadrato sequentis triangularis, restat cubus. Vt lo, '0 ip toile 100 ex 22^, restat 125.
+
+Ex progressione i|2 || 4|8 j) i6\j2 \\ habentur numeri perfecti 6, 28, 496.
+
+Vidi commodum instrumentum ad picturas omnes transferendas : constat in pede cum circino bicipiti.
+
+a. L'équation de la courbe eB^ est en coordonnées polaires p = a a CCS - . La courbe appartient à un groupe de lignes qu'on a appelées plus tard Rhodonées. Voir G. Loria, Spe\ieHe algebraische und transcendente Kurven, Leipzig, 1902, p. 3o5. (G. E.)
+
+b. Descartes veut dire que la ligne aS divise l'angle en deux parties, dont l'une est le double de l'autre. (G. E.)
+
+Œuvres, V. 3t
+
+�� �
+
+[p. 242] Aliud quoque ad omnia horologia depingenda, quod per me possum invenire. Tertium ad angulos solidos jmetiendos. Quartum argenteum ad plana & picturas metiendas. Pulcherrimum aliud ad picturas transferendas. Aliud affixum oratoris tibiæ ad momenta 5 metienda. Aliud ad tormenta bellica noctu dirigenda. — Petri Rothen Arithmetica philosophica^. — Benjamin Bramerus*"
+
+Lux quia non nisi in materiâ potest generari, vbi plus est materiæ, ibi faciliùs generatur, cæteris pari- 10 bus; ergo faciliùs penetrat per medium densius quàm
+
+a. Peter Roth (sic), mathématicien de Nuremberg, mourut en 1617. Titre complet de son ouvrage : Arithmetica Philosophica, ober Siinft(ti^e Sîed^tiung ber 6oes obet SUgetroe. (Nurnb., in-4o, 1607.) Voir, sur ce savant, Historische Nachricht Von den Nürnbergischen Mathematicis und Kiinjl- lern..., von Johann Gabriel Doppelmayr. (Nûrnberg, ijSo.) Descartes connut sans doute le nom et l'ouvrage de Peter Roth à Ulm, par l'inter- médiaire de Johann Faulhaber. (Voir ci-après, Appendice III.)
+
+h. Benjamin Bramer, mathématicien allemand, né à Felsberg, dans la Hesse, vécut de i588 à 1649 o^ i65o. Descartes le connut sans doute aussi par Faulhaber. A cette date de 16 19 ou 1620, les deux ouvrages suivants pouvaient intéresser notre philosophe :
+
+IScfc^rcibuitge vnd SJnberrli^t Siited ){eutten Uid)t bnb se^r 6equemen dfnftru meute jum @runbt(ecen bnb î^ttjlung ber Gircîel fituteit. Erfunden vnd den Liebhabern dieser Kunjle \u gefallen an Tag ^egeben. Von Benjamin Bramero, Der Mathematischen vnd Mechanischen Kiinjîen besonderen Liebhaber. (Gedruckt zu Marpurg, bey Paul Egenolff der Löblichen Vniverfitet Buchdrucker. Im Ja. M.DC.XVI.) In-4, pp. 32. Dédicace au Comte Guillaume de Solms, datée de Marpurg (sic), 9 mars 1616. Avec un portrait gravé, et cette inscription : /Et.fiice 2y. Anna 16 1 5. Beniamin Bramerus, Felsbergensis Cattis.
+
+!Seri(^t vnd @c6rau(si @tned i^rojiorttonal Siniafô : 9îe6en ^urt^em ISnberri^t ®incS ^^ara((el ^nftrui'tfnt^- Beschrieben vnd an Tag gegeben von Benjamin Bramero, Phitomathematico , vnd Fürstlichen Bawmeyjier \u Marpurg, (Gedruckt zu Marpurg. Durch Paul Egenolff, Im Jahr CID.ID.CXVII.) In-4, pp. 58. Dédicace au Landgrave de Hesse, datée de Marpurg (sic), 20 mars 16 17. Petit portrait, avec cette inscription : Benjamin Bramerus. ^ta.S. XX VIII. A" 1616.
+
+�� �
+
+[p. 243] 46-48.
+
+COGITATIONES PrIVAT.î:. 
+ 24Î 
+ per rarius. Vndè fit vt refractio fiât in hoc a perpendiculari, in alio ad perpendicularem; omnium autem maxima refractio esset in ipsà perpendiculari, si medium esset densissimum ; a quo iterum exiens radius 5 egrederetur per eumdem angulum. Sit abcd medium
+
+10 
+ 20 
+ densissimus, radius ef per fg perpendiculariter transibit in gh. ita vt bfe & cgh sint æquales anguli.
+
+Reflexio autem nihil est aliud quàm productio lucis à superficie opacâ in partem inversam, quoniam in rectum non potest. V. g., superficies afb producit radium reflexum si, quem in rectum gh produxisset superficies cgd.
+
+Locus imaginis est in lineâ rectâ ab oculo ad primum reflexionis vel refractionis punctum productâ In quo autem | illius puncto sit, hoc non apparet nisi ex situ aliorum punctorum, quia distantia objecti non aliter advertitur. Vel dici potest esse in perpendiculari ab objecto ; id enim vnum fit per accidens in qui- busdam, & non ex eo quòd sit concursus perpendicularis.
+
+[p. 244] Dantur adb & aeb, invenire ac & cb. Differentiam inter ad ductum per ae & db ductum per be divido per differentiam inter quadrata ex ac
+
+t
+
+���& db; & productum si ducatur per ae, facit ac; si per db, facit bc. Est enim vt ae ad db, ita ce ad de; atque 5 vt db ad ae, ita c^ ad ca.
+
+Nuper cùm aliquas chartas comburerem , & ignis in quo comburebantur, esset acrior, animadverti characteres integros manere & tam lectu faciles quàm anteà : è contrario scripta vidi cum atrajmento sulfure 10 mixto intra viginti quatuor horas evanescere.
+
+Regula generalis ad æquationes quatuor terminorum completas.
+
+Reducatur numerus quadratorum ad ternarium per divisionem. Deinde si illis addita sit nota -s, toUan- «5 tur 3s & loco illorum reponantur j T^y & tollatur vnitas ex toto numero ; ac præterea addantur tot vnitates quot sunt T^&^j deinde procedatur ad æquationem inter OCC&OQ^ + ON. Quâ inventa, addatur vnitas radici inventæ, & illa radix erit quæ quærebatur. Si 10 verò quadratis addita sit nota — , tollantur ^ & loco
+
+�� �
+
+[p. 245] 5o. COGITATIONES PrIVAT^. 245
+
+illorum addantur j 9£ & vnitas; deinde tollantur adhuc tot vnitates quot sunt Q^ & 3^, ac postea si extrahatur radix ex invento nostro & ex illâ extrahatur vnitas, habebitur radix quæsita 'initio \
+
+a. Ce texte, fautif et défectueux dans l'édition de Foucher de Careil (t. I, p. 5o), a été d'abord reconstitué, puis interprété, par G. Eneström. On jugera de la reconstitution, en comparant les conjectures adoptées ici aux leçons primitives, Appendice I. Quant à l'interprétation, la voici, en langage moderne :
+
+Règle générale pour résoudre l'équation
+
+On réduit l'équation à une forme telle, que le coefficient du carré devienne le nombre 3, par division :
+
+On suppose d'abord que ce nombre 3 ait le signe +• O" supprime le carré, et on met à la place 3 fois l'inconnue.
+
+Ainsi, dans x' = 3x' + b,x -\- b^, on supprime 3x' et on le remplace par 3j:. Les premiers termes du second membre deviennent x'=3x-\-b^x
+
+OU{b,+ 3) AT.
+
+Alors on enlève i, et on ajoute autant d'unités qu'il y en avait dans le coefficient de l'inconnue et de son carré.
+
+On a ainsi, après b^ qui existait, — i -- b ei -\- 3 ; ce qui donne le coefficient b^ — i -\- b, -\- 3.
+
+On a alors une équation entre le cube, l'inconnue et un nombre. Celle- ci résolue, on ajoute l'unité à la racine trouvée, et on a la racine cherchée : X =y -s- I {y étant la racine de la seconde équation).
+
+Si le nombre 3, coefficient du carré, a le signe — , on supprime le carré, on le remplace par 3x ; puis on ajoute l'unité, et on retranche autant d'unités qu'il y en a dans les coefficients de x' et de x. On obtient ainsi b„-\- i — è, — 3. Alors, quand on a trouvé la racine de la nouvelle équation, on en retranche l'unité : x =y — i , et on a la racine cherchée.
+
+La méthode de Descartes a peu de valeur ; elle équivaut à la substitution x =_j' :t i . Mais déjà Cardano, dans son Ars magna (i5i5), avait enseigné la réduction directe de l'équation
+
+à la forme
+
+^' = c.r+c„.
+
+Dans le texte latin, (X: Ji '^i N, sont les signes cossiques pour x\ x%
+
+[p. 246] Ij\6 Opuscules de 1619-1621. soî^j. /n* tetraedro rectangulo, basis potentia æqualis est potentijs trium facierum simul .
+
+V. g,, sint basis tria latera, y 8, \/20, sjio] tria verò latera supra basin, 4, 2, 2 : area basis erit 6; trium facierum, 2, 4, 4; quorum quadrata sunt, j6, <&> 4, 5 16, 16, quæ tria æquipollent priori. v
+
+Item, sint latera basis y/i^, y 20, ^ ; & supra basin, 2, 5,4: area basis erit y/61 ; facierum | verò, ^, 4, 6, quorum quadrata sunt 61, & 9, 16, ^6, æqualia priori.
+
+Hinc plurimæ quæstiones ignotæ solvi possunt circa 10 tetraedra rectangula & non rectangula per relationem ad rectangula.
+
+Hæc demonstratio ex Pythagoricâ procedit, & ad quantitatem quoque quatuor dimensionum potest am- pliari; in quâ quadratum solidi angulo recto oppositi i5 æquale est quadratis ex 4 alijs solidis simul. Sit ad
+
+X, 1 ; et signifie une quantité connue en général. Parfois J et Q£ représentent aussi les coefficients de x' et x.
+
+Quant à la locution : reducere per divisionem (p. 244,1. 14-15), elle paraît d'abord se rapporter à une transformation par la substitution :{=zil x. En effet, on obtient, par cette substitution, l'équation ,3 «1
+
+��ou
+
+��-j x'z=^ x-\--^' x-\-a„
+
+>7 9 ^
+
+�� ��c'est-à-dire que le coefficient du carré de l'inconnue est 3. Toutefois on peut croire aussi que Descartes a réduit l'équation \^ = a^:{ + .î + o' au moyen d'une division directe, à la forme
+
+i. .3 3 . , 3£, , 3£„
+
+et qu'il a appliqué, mais à tort, à cette équation le procédé valable seulement pour une équation de cette forme où le coefficient de ;j est i.
+
+a. La reconstitution du texte, depuis cette ligne i, jusqu'à la fin des Cogitationes privat<e, p. 248 ci-après, 1. 25, a été faite par le professeur Henri Adam.
+
+�� �
+
+[p. 247] 5J-.S4. COGITATIONES PRIVATÆ. 247
+
+hoc paradigma progressionum in numeris i, 2, j, 4; in figuris, 9£, ^,CC^;iT^ angulis rectis duarum linearum, trium, quatuor.
+
+Data basi pyramidis rectangulæ, facile inveniuntur la- 5 tera super basin^ .
+
+Sint% V. g., latera basis, y/ij, y/20 & ^. Pro primo latere supra basin ponatur i 9£ ; pro altero, y/- 1 5 — 1 3'- ; & pro tertio, \J-20 — i^s- ; quorum duorum potentia, quia æqualis potentiæ lateris, est æqualis ^ j — 2^', vel ro I g- geq. 4. Ergo nota basi & angulo | opposito, totam pyramidem possumus agnoscere, vt de triangulo Euclides demonstrat.
+
+Tetraedri rectanguli latera ad basin a (3 y supra basin erunt :
+
+a. « Latus, potentia, cubus quoque. » [Note de Leibni\.)
+
+b. On remarquera, dans tout ce qui suit, non seulement les caractères cossiques, Q^, J et C^, mais une autre notation indiquée aussi par Clavius, au chap. ii de son Algebra (voir ci-avant, p. i 54, note c) :
+
+« J. Zensus, siue Quadratus. Alij Quadratum exprimunt hoc charactere, » q, \\ 1 g, 3oq, 8q, &.C. . . »
+
+« JJ- Zenzizensus, siue Quadratiquadratus. Nonnulli ita signant, qq, vt » 3 qq, loqq, &c. . . »
+
+Quant aux lettres grecques o, p, y, que Ton trouve aussi, n'oublions pçs que Foucher de Careil n'a eu sous les yeux qu'une copie de Leibniz. Peut- être Descartes avait-il écrit simplement a, b, c.
+
+c. Dans tout ce qui va suivre, le signe de la racine, l/, vaut pour toutes les valeurs comprises entre deux points, J/. 20 — i J., ces deux points tenant lieu de parenthèses, ou encore de la barre hori^^ontale que l'on trace maintenant au-dessus, ^/2o — x'. Voir à ce sujet t. III de la présente édition, p. 196-197.
+
+�� �
+
+[p. 248] 248 Opuscules de 1619-1621. -H-se.
+
+areae facierum :
+
+\J' 1^ T^^ + ¥ ^q^^-T6 Ml - 17, !'?s- ;
+
+area basis : 5
+
+\/-iUqyq -TeUiq S
+
+{i^qyq \yqq
+
+totum corpus tetraedri est :
+
+I Invenitur corpus pyramidis ex tribus lateribus ad basin 1 5 Solis cognitis, si assumatur media pars summæ ex tribus illorum Quadratis aggregatæ, & rectangula radix trium quantitatum in se ductarum, quibus illa media summa excedit quadrata singulorum laterum, separatimque continet sexies totum corpus hexaedri. . 20
+
+Sint, V. g., tria latera ad basin, \/i^, y'20, 5. Media pars summæ ex tribus quadratis est 29, excedens t^, 20 & 25, numeris 16, 9, 4; quæ per se ducta faciunt «^jG, cujus radix est 24; & hujus sexta pars est 4. Ergo corpus pyramidis est 4. 25
+
+��� �
+
+## [p. 249] APPENDICE
+
+��I
+
+��Le texte imprimé par Foucher de Careil, en plus d'un endroit, fourmille d'erreurs, dont la plupart s'expliquent par les causes suivantes : ignorance des caractères cossiques, Q^ et J, pris pour le chiffre 4 ou la lettre •{ ; la lettre grecque a lue comme le signe oc retourné, c'est-à-dire ^o, et interprétée par le signe actuel d'égalité = ; la lettre y lue et interprétée comme le signe de la racine, >/; enfin la lettre g lue et interprétée parfois comme le chiffre 3 ou mênie (3. On en jugera d'ailleurs, en comparant au texte rectifié (et complété), que nous donnons ci-avant, les passages suivants de Foucher de Careil.
+
+��Page 232,
+
+» Page 233,
+
+��Page 234, »
+
+Page 235,
+
+��Page 236,
+
+��Œuvres
+
+��10 : perpendicularis, (uperficies] point de virgule. n : AB]CD.
+
+1 : immobilis] immobiliter.
+
+2 : fieri, si] fieri. Si.
+
+3-4 : ascendere. Sectio] ascendere sectio. 5 ; ACDE] AC, DE. — cujus] hujus.
+
+i: ire]i5.-7ae]74-
+
+2 : avant Reduco] 1°. — i Q^] 12. — 2-3 : aequ. ^ Ct, &.
+
+quaîro 1 (X,i quem] -\- c \el i c quam.
+
+3 : puncto/j letti-e {rejetée une ligne plus bas, après
+
+describat. — vnum] unam.
+
+4 : après pacto] signe de renvoi. 8 : de] bc. — secunda] prima. i3 : ae] ad.
+
+14 : inveniendus, si] inveniendus. Si. — ce] ae. ce, h OC] 5, 3, 4. J quot Q£j 3 tôt 4.
+
+I Ctœqu. ej — 6Q^-s 56] i5+63 +64-s 56. -; ce æqu. 3 J - 3 Qe + 28] 'A ^ 3î + 24 + 28. vnitatem] unitates.
+
+32
+
+��I 2
+
+3 : 5 : 6;
+
+V,
+
+�� �
+
+[p. 250] Page 236, l. 7 : *après* cubice] extra (*écrit d'abord comme le commencement de* extrahitur, *tandis qu'il fallait* producitur).
+
+» l. 8 : ½ ℂ] ½ c.
+
+» l. 10 : ℨ quot ℨ] 3 quot 4.
+
+» l. 12 : 36 + 3 ℨ — 6 ℨ æqu. 1 ℂ] 36 + 3ʒ + 64 + 1 g.
+
+Page 237, l. 1 : 9 + ¾ ℨ — ³⁄₂ ℨ æqu. ¼ ℂ] 9 ¾ ʒ — ³⁄₂ 4.
+
+» l. 2 : eodem residuo] eadem hujus residui. — radix cubica] radici cubicae.
+
+» l. 2-3 : extrahatur & vnitas, *omis.*
+
+» l. 4 : ℂ (*premier*)] *g.* — ℂ (*second*)] *c.* — 108] 216.
+
+» l. 5 : 1 ℂ æqu. 26 — 3 ℨ — 3 ℨ] 1 *g et* 26 — 3ʒ — 34.
+
+Page 238, l. 1 : 1 ℂ & O ℨ] 1 *c et* Oʒ.
+
+» l. 5 : *bc*] *vc.*
+
+Page 239, l. 4 : *dm.* [*qd*] *gmqd.*
+
+» l. 5 : illâ] ullâ.
+
+» l. 8 : *après* quaesito] « *ab* illo in » *mots sans doute mal transcrits, et qui peuvent être rayés sans inconvénient* (G. E.). — *ag*] *ada.* — ℂ] C.
+
+» l. 9 : *dg*] *dy.* — *Après* ON] loco *dy* (pro *dg?*), *même remarque que l. 8.* — intersectio] intersecto.
+
+» l. 10 : *ge*] *ye.* — *ag*] *ac.*
+
+» l. 11 : *dg*] *dy.*
+
+» l. 11-13 : *Point de crochets.*
+
+» l. 11 : *gae*] *yae.*
+
+Page 240, l. 1-2 : 1 ℂ & O ℨ] 1 *g* et Oʒ.
+
+» l. 2 : O ℨ] — Oʒ.
+
+» l. 3 : ℂ] *g.* — O ℨ] O4.
+
+» l. 4 : O ℨ] O4.
+
+» l. 7 : *f, i, k, l*] *feki.*
+
+» l. 10 : *bax*] *ax.*
+
+Page 241, l. 7 : pluribus] plurimis.
+
+Page 244, l. 16 : ℨ] (√). — 3 ℨ] 34.
+
+» l. 17 : ex toto numero] *après* (√), *ligne 16 ci-avant.*
+
+» l. 18 : ℨ & ℨ] 4.
+
+» l. 19 : O ℂ & O ℨ + ON] O6 et O4ON.
+
+» l. 20 : radici inventæ] radici, inventa. — quæ] quæ quæ (bis), *sic.*
+
+» l. 21 : ℨ] *omis.*
+
+Page 245, l. 1 : 3 ℨ] 34. — tollantur] addantur.
+
+» l. 2 : ℨ & ℨ, ac] 4, ac (bis), *sic.*
+
+[p. 251] Page 247, l. 7 : 1 ℨ] 14. — √. 13 — 1 ℨ.] 13 — 1 ʒ.
+
+» l. 8 : √. 20 — 1 ℨ.] √20 — 1 ʒ.
+
+» l. 9 : 2 ℨ] 22.
+
+» l. 10 : 1 ℨ] 1 ʒ.
+
+» l. 13 : αβγ] *aβv.*
+
+» l. 15, 16 et 17 :
+
+√½ = + ½ √q — ½ (3q √½ = + ½ βq
+√½ √q ; √½ βq + ½ √q0 — ½ aq.
+
+Page 248, l. 2, 3 et 4 :
+
+√(1/16) aqq + ⅛ (3q √ — (1/16) βqq — (1/16) √qq — √(1/16) βqq + ⅛ = ;
+√q — (1/16) aqq — (1/16) √qq. √(1/16) √qq + ⅛ = βq — (1/16) = qq — ⅙ βqq.
+
+*Ibid.*, l. 6, 7 et 8 :
+
+√aq βq — (1/16) aqq
+⅛ aq √q βqq
+βq √q √qq
+
+*Ibid.*, l. 10, 11, 12, 13 et 14 :
+
+√(1/288) aqq βq + (1/288) aqq √q + (1/288) βqqaq + (1/288) √qqaq + (1/288)
+√qq βq — (1/144) aqBq √9 (1/288) aq — (1/288) βqc — (1/288) βvqc.
+
+II
+
+PAGE 230, LIGNE 3.
+
+DE MEMORIA *liber secundus : in quo est* ARS MEMORIÆ, *ex ipso D. Thoma Aquinate, Doctore Angelico, Aristotele, M. T. Cicerone, F. Quinctiliano, Philosophorum & Oratorum Principibus, ac hujus etiam artis fontibus, aliisque, compendiose absoluteque & collecta, & latiore explicatione explicata : per L. S. D.* Ad Sereniss. ac Reverendiss. ERNESTUM Archiepiscopum Colonien. Principem Elect. &c. (Leodii, excudebat Leonardus Stræle Typog. jurat. 1595. Petit in-12, pp. 178.) L'auteur, désigné ici par les initiales de son nom : *L. S. D.*, est nommé en toutes lettres à la fin de la dédicace, p. 4 : LAMBERTUS SCHENCKELIUS DUSILVIUS, et plus loin, dans le permis d'imprimer, p. 109.
+
+[p. 252] ��III
+
+Page 242, ligne 7, note a.
+
+Sur les relations de Descartes et de Faulhaber, à Ulm, en 1619 ou 1620, voici l'unique document, tiré de Lipstorp, Specimina -Philosophiæ Cartesianæ, i653 (suite immédiate du passage rapporté ci- avant, p. 47-48) :
+
+« .. .Sed ne huic Bredensi civitati diutius immoremur, pergendum » nobis est ad illa, quæ alibi ab eo præclarè designata sunt. Actum » eo tempore erat inter Batavos & Hispanos milites de depositione » armorum, quam ad præscriptum temporis intervallum utraque » pars approbaverat, ut eo elapso vel pacis consilia locum invenirent, » vel novis viribus dubia Martis alea redintegraretur. Quocirca » noster Cartesius, otii militaris impatiens, Arausiensium Principi » renunciavit, & in Germaniam concessit ad Inaugurationem Impe- » ratoris Ferdinandi II, anno hujus seculi xix Francofurti ad Mœ- » num celebratam. Ab hac ad castra reversus, se ad Bavariae ducem » Maximilianum contulit, qui tum temporis militum manum co«»e- » bat contra Fridericum Comitem Palatinum, & Bohemiæ Regem, » uti tristis nos eventus docuit. Apud ipsum verò nomen rursus » professus est militis voluntarii, hostem licet ignorans, adversus » quem copias forent educendae. Tandem movit in Suevo's, castrisque » ad Ulmam positis tormentis majoribus ibi trepidari cœptum est. » Sed interventu Oratorum Regis Christianissimi fuerunt pacis con- » filia admissa, Deoque bene juvante inter Maximilianum & Confœ- » deratos Evangelicos Ulma.' pax sancita est, anno hujus seculi xx, » sicque miles in hyberna dimissus. Interim noster Cartesius, Ulmam » ingressus, celebrem ejus loci Mathematicum, Dn. Johannem Faul- » haberum, salutavit. Hic novum hospitem humaniter excepit, si- » mulque Mathematicarum cultorem esse cognoscens, ex eo quæst- » vit, num in analysi Geometricà vulgari exercitatus esset, adeoque » aliquod problema solvere posset. Nostro annuente & cujusvis pro- » blematis solutionem ipsi pollicente, vix à risu & bile sibi cavere » potuit, facile notans militum morem, isti glorioso Propolinici » Plautino Mavortem in linguâ gerenti^ non absimilium. Nostro » tamen instante, ut periculum in se faceret, primo levioribus, » postea arduis eum tentavit, cumque ipsum planè ex|spectationi » suæ dissimilem deprehendisset, vehementer ipsum rogavit, ut » secum per horam unam atque alteram conferret; ipsoque prompte
+
+�� �
+
+[p. 253] Appendice. i^j
+
+•» hanc conditionem acceptante, ulterius eum exercuit, accersitis » novis Algebraicis quæstionibus ex libello, quem paulo ante pu- » blici juris fecerat, cui hæc inscriptio est : QuMi {sic) Svffigrr finp» » garttn tian aUer^anbt sc^Snen Slgebroiftcn tjçtmptiu. Continebat autem iste libellus nudas saltem quæstiones, omKTà studio earum solu- » tione, ut haberent Germani Mathematici & Logistæ, in quibus » vires suas periclitarentur. Noster Cartesius ea, quâ ipsi sub ma- » num veniebant, promptitudine ipsas solvebat, additis insuper re- » galis & Theorematibus universalibus, quæ & harum & aliarum » ejus generis solutioni inservirent. Ea res nova planè & inusitata » visa est Johanni Faulhabero, ipsumque ad ingenuam ignorantiæ » suæ in multis confessionem impulit, ejusque amorem & affectum » valde propensum adversus nostrum Renatum excitavit. Huc insu- » per spectat, quod eo tempore Dn. Petrus Roten, Noribergensis » Mathematicus, quæstiones in libello jam recitato propositas com- » modum solvisset, solutas cum appendice novarum aliquot selectio- » rum quæstionum evulgasset ; cumque pro communi Mathemati- » corum tesserâ earundem solutionem à Johanne Faulhabero expos- » ceret, factum, ut earum enodationi ipse jam intentus esset. Quia » tamen non parum difficultatis in se continebant, opportune ipsi- » visum fuit harum curarum participem facere nostrum Cartesium, » ut tanto felicius tædioso labore defungeretur. Quâ verò dexteri- » tate noster idipsum exsequutus sit, non attinet hîc dicere : nam » & ipse Faulhaberus optimè ejus sibi conscius est. Mira autem & » insolita omnino fuit eruditio, quam noster Cartesius, insuperabilis » ingenii juvenis, tam maturâ adhuc ætate ostentavit, quâ jam » modum generalem construendi omnia problemata solida, reducta » ad Æquationem trium quatuorve dimensionum, ope unius para- » bolæ invenerat, quem lib. III | Geometr., pag. gb seqq. (/. VI de » cette édition, p. 464) postea ostendit. » (Danielis Lipstorpii Lube- censis, Specimina Philosophiæ Cartesianæ, Lugduni Batavorum, Joh. & Dan. Elzevier, CI3 lOC LUI. Pag, 78-80,)
+
+Johann Faulhaber naquit à Ulm, le 5 mai 1 58o, et y mourut vers le milieu de i635. Dans un ouvrage de lui, daté de 1617, on trouve, au-dessous de son portrait gravé, une liste de toutes ses publica- tions jusqu'alors, traduites d'allemand en latin, dans l'ordre et avec le numérotage suivant :
+
+1. Arithmeticus Cubicossicus Hortus &c. Tubingae, A. 1604.
+
+2. Vsus de nouo inventus Instrumenti alicuius Belgœ. Augustæ, Anne
+
+1610.
+
+�� �
+
+[p. 254] 2^4 Opuscules DE 1619-1621.
+
+3. Nouœ GeometriccE & Opticce 'Inventiones, aliquot peculiarium lit'
+
+Jlrumentorum. Francofurti, Anno 161 o.
+
+4. Spéculum Mathematicum Polytechnum novum, tribus visionibus
+
+illustre. Vlmaî, 1612.
+
+5. Ansa inauditæ nouæ & admirandæ artis, quam Spiritus Dei aliquot Propheticis & Biblicis Numéris ad ultima usque tempora obsignare & occultare voluit. Norimbergae, Anno 161 3.
+
+6. Cœlestis Arcana Magia, siue Cabalisticus, novus, artificiosus &
+
+admirandus computus de Gag & Magog. Norimbergae, Anno i6i3.
+
+7. Manuduâio Arithmetica noua. Vlmas, Anno 161 5.
+
+8. Epistolium publicum omnibus Philosophis, Mathematicis, & cumprimis Arithmeticis & artistis Europæ &c. transmissum. Augustæ, 161 5.
+
+>L'ouvrage, où se trouve cette liste, est lui-même intitulé : Ein Mathemati/che Newe Invention Einer sehr nut\lichen vnd geschmei- digen Hauss oder Handmiihlin. Durch Johann Faulhabern bestell- ten Rechenmeiltern vnd Modisten in Vlm, 16 17.
+
+Faulhaber publia, en outre, les années suivantes, plusieurs ouvrages, dont Descartes put avoir connaissance :
+
+Solution, ipie man die Frijien, welche ohne Interesse quj^ getvijfe Ziel lu be\ahlèn verfallen, wenn mans auff einmal vorher mit Ab^ug eines geivijfen per cento-anticipirt-^^recAj/M foU. Ulm, 1618.
+
+Fama Syderea Nova. 161 8.
+
+Continuatio dess newen Mathematischen Kunstspiegel... luDingen, 1620.
+
+Ztvey vnd Vier^ig Secreta, welche er in dess H. Reichs Statt Augspurg offentlich ^u Affigiren. Augspurg, 162 1.
+
+Appendix oder Anhang der Continuation des Newen Mathematischen Kunstspiegel. Ibid., 1621. — Ouvrage auquel se rapporte le suivant : Benjamin Brameri {Architekt in Marburg) Beschreibung eines sehr leichten Perspective.
+
+Miracula Arithmetica ^u der Continuation des Arithmetischen Weg- tveifers. Augspurg, 1622.
+
+Faulhaber ne publia rien ensuite avant les années i63o et i63i : Ingenieurs-Schul etc.
+
+On peut consulter, sur ce mathématicien d'Ulm, un ouvrage déjà ancien d'ALBRECHT Weyermann : Nachrichten von Gelehrten,
+
+�� �
+
+[p. 255] Appendice. 25 ç
+
+Künstlern undandern merkwûrdigen Personen aus Ulm (Ulm, 1798, gedruckt by Chr. Ulr. Wagner), p, 206-21 5.
+
+��IV
+
+Observation du P. Poisson Sur la troisiesme règle de la Logique de M. Descartes : Conduire par ordre mes pensées &c. (t. VI de cette édition, p. 18, 1. 27) :
+
+« ... Il règne je ne sçay quelle liaison, qui fait qu'une vérité fait » découvrir l'autre, & qu'il ne faut que trouver le bon bout du fil, » pour aller jusqu'à l'autre sans interruption. Ce sont à peu-prés les » paroles de M. Desc. que j'ay leües dans un de ses fragment manus- » crits :
+
+Quippe sunt concatenatae ° omnes scientiæ, nec una perfecta haberi potest, quin aliæ sponte sequantur, & tota simul encyclopedia apprehendatur.
+
+(Commentaire ou remarques sur la Méthode de René Descartes, par L. p. N. I. p. p. D. L., Vandosme, MDCLXX. Partie II, 6* Observation, p. 73.)
+
+��Observation du P. Poisson sur ce passage du Discours de la Méthode : « Ny l'honneur ny le gain qu'elles promettent &c, >> (t. VI de cette édition, p. 9, 1. 2-3.) :
+
+«... Plusieurs qui n'ont rien compris d'abord dans les Essais » qu'il donna, & d'autres aussi qui les ont admirez, écoutant un » peu trop les mouvements de leur envie, ont dit souvent, & fait » imprimer en quelques ouvrages, qu'on ne doit pas beaucoup » attendre d'un homme, qui comme M. Desc. a passé une partie de » son temps à l'armée. Il n'est point vray qu'il y ait fait un si long » sejour, & deux ou trois années qu'il a porté les armes, n'ont pas » retardé beaucoup ses estudes. Il luy estoit plus aisé de conserver
+
+a. Voir ci-avant, p. 215, 1. 3-4.
+
+�� �
+
+[p. 256] » la tranquillité d'un Philosophe, sous la qualité de soldat volontaire, » qu'à Cesar ou à Ciceron, sous celle de chef & de commandant. » Messieurs d'Igby, Boyle, de Pagan, & plusieurs autres sçavans » de ce siecle, n'ont rien perdu de l'estime qu'ils méritent dans les » lettres, pour s'en estre acquis beaucoup par les armes, dont leur » naissance les obligeoit de faire profession. I'ay des mémoires entre » les mains que M. Desc. a faits à la guerre, où l'on peut voir com- » bien cet exercice est utile à un homme qui sçait faire usage de ,» toutes choses, & qu'un esprit bien fait trouve dans le milieu d'un » Camp, de quoy servir d'entretien à ceux qui fréquentent aussi le » Lycée. » [Ibid., Partie I, 10e Observation, p. 24.)
+
+�� �

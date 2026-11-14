@@ -1,0 +1,5721 @@
+---
+title: Opera philosophica quae latine scripsit omnia, I. I (Elementorum philosophiae sectio prima De corpore)
+author: Thomas Hobbes
+id: 10444
+markers: [print]
+pairs_by: print
+year: 1839
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1839 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: "Natural philosophy: force and motion, 17th-18th century"
+public: true
+rights: The Opera philosophica quae latine scripsit omnia, I was written by an author who died in 1679, so before 1931; Thomas Hobbes (d. 1679) is long out of protection and the edition (1839) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-06 by _normalize_work/wg_export.py (library id 10444)
+---
+
+# T. Hobbes, *Opera philosophica quae latine scripsit omnia, I* (1839)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Google
+
+^. Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purpos:
+
+* Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the use of public domain materials for these purposes and may be able to help.
+
+* Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find additional materials through Google Book Search. Please do not remove it.
+
+^ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner anywhere in the world. Copyright infringement liability can be quite severe.
+
+THi£ 2045,10
+
+HARVARD COLLEGE LIBRARY y
+
+THOM/E HOBBES
+
+OPERA PHILOSOPHICA.
+
+VOL. I.
+
+Los: TrPI c. xicIaRDS, 100, s7. MAXTDKS LANE.
+
+THOME HOBBES
+
+OPERA PHILOSOPHICA QU/E LATINE SCRIPSIT
+
+OMNIA
+
+IN UNUM CORPUS NUNC PRIMUM COLLECTA
+
+STUDIO ET LABORE
+
+GULIELMI MOLESWORTH.
+
+VOL. I.
+
+v "LONDINI: APUD JOANNEM BOHN, 17, HENRIETTA STREET, COVENT GARDEN.
+
+MDCCCXXXIX.
+
+Uou&gé Libeai $i * tho Librarj e . A. P. Toabody:
+
+16 Oct. 1893.
+
+AMICO - CARISSIMO GEORGIO : GROTE VIRO INGENII - DOTIBUS : EXIMIIS ORNATISSIMO LITERARUM : AC - PHILOSOPHLE * STUDIIS INSIGNITER : ERUDITO ET - QUOD - PRJECIPUE : LAUDI - EST PRO : JEQUALI : UNIVERSORUM : CIVIUM : LIBERTATE ADVERSUS : OPTIMATIUM : DOMINATUM PROPUGNATORI ACERRIMO : ET : CONSTANTISSIMO PRIMAM : HANC - OPERUM THOMUE : HOBBES * MALMESBURIENSIS EDITIONEM VOVENS *: OMNIA * FAUSTISSIMA D:D-D
+
+GULIELMUS : MOLESWORTH
+
+CONTINENTUR HOC VOLUMINE
+
+IL THOME HOBBES MALMESBURIENSIS VITA, AUTHORE SEIPSO.
+
+n
+
+VITE HOBBIANJE AUCTARIUM, AUTHORE H. BLACKBOURNE,
+
+M.A. TRIN. COL. CAM. M.D.
+
+II. THO. HOBBES MALMESBURIENSIS VITA, CARMINE EXPRESSA,
+
+AUTHORE SEIPSO.
+
+IV. ELEMENTORUM PHILOSOPHIE SECTIO PRIMA DE CORPORE.
+
+[p. i] ANGLI
+
+MALMESBURIENSIS PHILOSOPHI
+
+VITA.
+
+— Qui nos damnant, histriones sunt maximi, Nam carios simulant, vivant bacchanalia, Hi sunt precipue quidam clamosi, leves, Cucallati, lignipedes, cincti fanibus, Superciliosuro, incurri-cervicum pecus. Qui, quod ab aliis babitu et cultu dissentiunt, Teistesque volto vendunt sanctimonias, Censuram sibi quandam et tyrannidem occupant, Pavidamque plebem territant minaclia.
+
+ANOELUS PoLrTIANUS,
+
+Prol. in. Pleuti Menechmos cusoLoroLi:
+
+APUD KLEUTHERIUM AXOLICUM, SUB SIONO VERITATIS.
+
+pcuxxxt.
+
+"EOD b
+
+[p. ii] ILLUSTRISSIMO DOMINO
+
+GULIELMO, DEVONIE COMITI,
+
+NOBILISSIMAQUE FAMILLE CANDISIANJE, SUMMIS HOBBII MECENATIBUS,
+
+MALMESBURIENSIS PHILOSOPHI
+
+VITAM
+
+HUMILLIME DICAT CONSECRATQUE
+
+EDITOR.
+
+[p. iii] TO MR. HOBBES.
+
+Ll
+
+Vas bodies of philosophy Ioft have seen and read ; But all are bodies dead, Or bodies by art fashioned. I never yet the living soul could see, Butin thy books and thee. "Tis onely God can know Whether the fair idea thou dost show Agree entirely with his own or no. This I dare boldly tell, "Tis so like truth, 'bvill serve our turn as well Just, as in Nature, thy proportions be, As full of concord their varietie, As firm the paris upon their center rest, And all so solid are, that they at least As much as Nature emptiness detest.
+
+[p. iv] TO MR. HOBBES.
+
+IL.
+
+Long did the mighty Stagirite retain The universal intellectual reign, Saw his own countries short-liv'd leopard alain; The stronger Roman eagle did out-fly, Oftener renew'd his age, and saw that dy. Mecha it self, in spight of Mahumet, possest, And chas'd by a wild deluge from the east, His monarchy new planted in the west. But as in time each great imperial race Degenerates, and gives some new one place: So did this noble empire wast, Sunk by degrees from glories past, And in the schoolmens bands it perisht quite at last. Then nought but words it grew, And those all barb'rous too. It perisht, and it vanisht there: The life and soul breath'd out became but empty air.
+
+Ii.
+
+The fields, which answer'd well the ancients plow, Spent and outworn, return no harvest now, In barren age wild and unglorious lie, And boast of past fertility, The poor relief of present poverty. Food and fruit we now must want, Unless new lands we plant. We break up tombs with sacrilegious bands ; Old rubbish we remove; To walk in in ghosts, we love. And with fond divining wands We search among tho dead For treasures buried, "Whilst still the liberal earth does hold So many virgin-mines of undiscover'd gold.
+
+uines, like
+
+[p. v] TO MR. HOBIsss« M
+
+JV. 372 « The Baltick, Euxine, and the Caspi And slender-limb'd Mediterranean, Seem narrow creeks to thee, and onely fit For the poor wretched fisher-boats of vit. Thy nobler vessel the vast ocean tries, And nothing sees but seas and skies, Till unknown regions it descries ; "Thou great Columbus of the golden lands of new philosophies. Thy task was harder much than his, For thy learn'd America is Not onely found out first by thee, And rudely left to fatare industrie ; But thy eloquence and thy vit Hae planted, peopled, built, and civilizd it.
+
+v.
+
+I lite thought before, (Nor being my own self so poor, Could comprehend so vast a store) That all the wardrobe of rich eloquence Could have afforded half enuff, Of bright, of new, and lasting stuff, "To cloath the mighty limbs of thy gigantic sense. Thy solid reason, like the ehield from heaven To the Trojan heroe given, "Too strong to take a mark from any mortal dart, Yet shines with gold and gems in every part, And wonders on it grav'd by the learn'd hand of art; A shield that gives delight Even to the enemies sight, Then when they're sure to lose the combat by't.
+
+[p. vi] o mR. HOBBES.
+
+"
+
+rM VI.
+
+Nor ean thé snow which now cold age does shed Upon thy reverend head, Quench or allay the noble fires within ; But all which thou hast bin, And all that youth can be, thou'rt yet ; o fully still dost thou Enjoy the manhood and the bloom of wit, And all the natural heat, but nof the fever too. So contraries on Etna's top conspire; Here hoary frosts, and by them breaks out fire, A. secure peace the faithful neighbours keep ; "Th emboldened snow next to the flame does sleep. And if we weigh, like thee, Nature, and causes, we shall see "That thus it needs must be ; To things immortal time can do no wrong; And that, which never is to die, for ever must be young.
+
+ABRAHAM COWLEY.
+
+IN THO. HOBBES.
+
+ForiLIs exornet barbatos pompa magistros, Et schola discipulos cogat inepta le Affulsit nova lux tenebroso Hobbesius orbi. Quanta est laus hominem restituisse sibi?
+
+Jo. AwsnEx, Jrm. E. Soc. Reg.
+
+[p. vii] E]
+
+LIBELLUM PRXESTANTISSIMI
+
+THOME HOBBES,
+
+VIRI VERE PHILOSOPHI,
+
+DE NATURA HOMINIS.
+
+Quis magna celi menia, et tractus maris, Terreque fines, siquid aut ultra est, capit, Mene ipsa tandem capitur: omnia hactenus Quse nosse potuit, nota jam primum est sibi.
+
+Accede, Lector, disce quis demum sies; Et inquilinam jecoris agnoscas tui,
+
+Qua propius heret nil tibi, et nil tam procul.
+
+Non hie scholarum frivola, aut casi logi, Quales per annos forte plus septem legit,
+
+Ut folle pleno prodeat, rixee artifex ; Vanasque merces futili lingua crepet:
+
+Sed sancta rerum pondera, et sensus graves, Quales parari decuit, ipsa cum fuit Pingenda ratio, et vindici suo adstitit.
+
+Panduntur omnes machine gyri tue,
+
+Animmque vectes, trochle, cunei, rot,
+
+Qua concitetur arte, quo sufllamine
+
+Sistatur illa rursus, et constet sibi: Nec si fenestram pectori humano suam Aptasset ipse Momus, inspiceret magis, Hie cerno levia affectuum vestigia, Gracilesque sensus lineas ; video quibus. Vehantur alis blanduli cupidines, [p. viii] vit
+
+Quibusque stimulis urgeant ire graves; Hic et dolores, et voluptates suos Produnt recessus; ipse nec timor latet.
+
+Has norit artes quisquis in foro velit Animorum habenas flectere, et populos cupit. Aptis ligatos nexibus jungi sibi.
+
+Hic Archimedes publicus figat pedem, Siquando regna machinis politicis
+
+Urgere satagit, et feras gentes ciet, Imisque motum sedibus mundum quatit : Facile domabit cuncta, qui menti imperat.
+
+Consultor audax, et Promethei potens Facinoris anime! quis tibi dedit Deus Heec intueri seculis longe abdita, Oculosque luce tinxit ambrosia tuoe ?
+
+Tu mentis omnis, at tur nulla est capax. Hac laude solus fruere: divinum est opus Animam creare ; proximum huic, ostendere.
+
+Kap. BArHUnsT, A.M. Col. Trin, Oxon. Soc.
+
+[p. ix] AD LECTOREM
+
+PRZELOQUIUM.
+
+ViRomUM, virtute doctrinaque illustrium, institutam vite rationem posteris innotescere, rei literarim atque publics plurimum interest Quare optime de humano genere meruisse censendi sunt, qui antiquorum vitas scriptis tradiderunt ; quam quidem provinciam obiisse veteres illi, majori cum veritatis studio et fide meliore, quam in contexendis divorum historiis scriptores ecclesinstici, haud iniquis rerum arbitris jure videantur. Multifaria porro scriptorum turba (inter quos nonnulli satis feliciter) recentioris svi literatorum. memoriam posteritati commendavit.
+
+Inter summa autem scientiarum lumina et ornamenta, que seculum hoc magnorum ingeniorum feracissimum in lucem. protulit, clarissimum emicuit ingenium 'THowx Honsrs Malmesburiensis, viri supra communem mortalium sortem longissime evecti, in quo natura parens nondum effcta eximii cujusdam nixus specimen ostentare decrevit.
+
+[p. x] Ingens illi mentis robur et vastus animus, gravissima cogitationum pondera, judicium acre, ratiocinium incredibili sagacitate admirandum. Hinc illi in scientiis arduum et inaccessum nihil; moralis et civilis prudentie culmen et fastigium assecutus est; rerum naturam penitissime indagavit, mathematicas artes subtilissimeexcoluit. Magnam linguarum Grece Latineque peritiam, et in hodiernis exercitationem. haud mediocrem tanto viro adstruere supervacaneum facile censeatur; certe Anglicani sermonis genium adeo feliciter expressit, ut cum preestantissimis gentis nostre scriptoribus conferendus veniat. Exemplo sit gravissimus historicus "Thucydides, quem, vel ipsist veteribus subobscurum, adeo perspicue, adeo venuste et eleganter transtulit, ut nihil supra. Quid de po?si dicam ? in qua divitem naturam ita studio et preceptis artis expolivit, ut poétam ageret non infelicem et simul posseus judicem summum.  Cogitatis polluit adeo claris et perspicuis, ut dogma, dum proponitur, in mentem cuiquam incidere potuisse, dum probatur, non omnibus cognitum fuisse, mireris; tantum potuit elocutio ipsi propria. Hoe quidem de illo vere przdicari potest, sive soluta seu numeris astricta oratione vteretur, quamcunque sibi materiam tractandam suscepit, illam insigniter exornare et miro quodam spiritu animare videbatur. Quid recenseam multiplicem in omni pene materia scriptorum copiam, paradoxam opinionum veritatem, summam apud principes et magnates gratiam, inter eruditos famam late diffusam, licet partium studiis in contraria discissis ; his mirantibus, laudantibus, et
+
+1t Ciceroni, Dionysio Halicarnassenai, Hermogeri, Photio.
+
+[p. xi] omnia bona dicentibus; illis interim, ecclesiasticis presertim eujuscunque generis, gravia crimina ne dicam convicia passim intentantibus ; magnum denique discipulorum numerum, qui tantum hominem tanquam nove alicujus philosophorum familie principem et authorem consectantur ?
+
+Cum itaque pararia opera J. A. viri optimi, in manus meas incidisset libellus de vita et moribus Hobbii, a docto quodam, summo ejus amico conscriptus oratione sane gravi, prudenti ac modesta, mei officii esse duxi, publici ipsum juris facere. Quod quidem prestiti, his permotus rationibus; tum ut memorie Hobbiane consuleretur, ob allatas philosophiae secundum libertatem vindicias; quod hercle facinus summe gloriosum, post Verulamium, Cartesium, Gassendum, quantos viros! egregie perpetravit magnus ille Malmesburiensis ; tum ut amicis pariter ac inimicis de ipso satisfieret, Quin et nonnulli hoc ipsum ad laudem atque decus gentis nostre haud mediocriter attinere existimarent.
+
+Nollem autem hallucinetur aliquis, quasi me in illius disciplinam tanquam in servitutem addixerim, in illius verba juratum, opinionum vadem et sponsorem futurum ; aut cum. quoquam qui ob materiam aliquam bellum ipsi literarium indixerit, contentionis serram ducturum. Non enim de seriptis ejus aliorumve contrariis mihi arbitrium sumere animus est, cui negotio quam impar sim, facile sentio, sed nudam veri et facti historiam proponere, nihilque intem- pestivo prajudicio onerare. Quare neminem mihi jure [p. xii] suecensurum spero. TT interim, benevole lector, rogo obtestorque, ut mihi lingua animoque faveas, tenui hac opella manibus Hobbianis parentare conanti.
+
+R. B.
+
+## [p. xiii] T. HOBBES MALMESBURIENSIS
+
+VITA.
+
+Tnowas Honnzs, natus Aprilis ó, 1588, Malmesburize, agri Wiltoniensis. — Literis Latinis et Grecis initiatus, annum. agens decimum quartum, missus est Oxonium, ubi per quinquennium mansit, operam impendens studio logicee et physicee Aristotelicei, Cum annum ageret vicesimum, commendatus ab amicis, Oxonio relicto, recepit se in domum Domini Gulielmi Cavendish, Baronis de Hardwick, et (paulo post) Comitis Devoniz; ubi filio ejus primogenito, adolescentis ibi fere cosetaneo, servivit; placuitque tum filio tum patri, temperans, sedulus, hilaris. Anno sequente, cum domino suo in urbe perpetuo fere degens, quod didicerat lingue Grae et Latin, magna ex parte amiserat Deinde per Galliam et Ttaliam peregrinantem dominum sequutus, gentium illarum linguas eousque didicit, ut intelligere eas mediocriter potuerit. Interea Grzcam et Latinam linguam paulatim perire sibi sentiens, philosophiam autem logicamque (in quibus preeclare profecisse se arbitrabatur) viris prudentibus derisui esse videns, abjecta logica et philosophia illa vana, quantum temporis habebat vacui, impendere decrevit linguis Grecs et. Latine.
+
+Itaque cum in Angliam reversus esset, historicos et poetas
+
+4 Vide Aut. & Wood, Hist, Antiq, Oxon. lib. ii. p. 376.
+
+[p. xiv] (adhibitis grammaticorum celebrium commentariis) versavit diligenter; non ut floride, sed ut Latine posset scribere, et vim verborum cogitatis congruentem invenire; itaque verba disponere, ut lectio perspicua et facilis esset. — Inter historicos Grecos Thucydidem pre eceteris dilexit, et vacuis horis in sermonem Anglicum paulatim conversum cum nonnulla laude, circa annum Christi 1628, in publicum edidit; eo fine, ut ineptis Democraticorum Atheniensium concivibus suis pateferent Eo anno Comes Devonim, cui jam servierat viginti annos, diem obiit, patre ejus biennio ante defuncto. Anno sequente, qui erat Christi 1629, cum attigisset annum quadragesimum, rogatus a nobilissimo viro Domino Gervasio Clifton, ut vellet ilium suum adolescentem comitari in Galliam, accepit conditionem. In peregrinatione illa inspicere coepit in Elementa Euclidis; et delectatus methodo illius, non tam ob theoremata illa, quam ob artem ratiocinandi, diligentissime peregit. Anno Christi 1681, revocatus est in familiam Comitisse Devonim, ut filium suum Comitem Devonim, natum annos 13, in literis instrueret, quem etiam, circiter triennium post, comitatus est in Galliam et Italiam, studiorum ejus et itinerum rector. Dum moraretur Parisiis, principia scientise naturalis investigare coepit. Quee cum in natura et varietate motuum contineri sciret, quaesivit inprimis, qualis motus is esse posset, qui efficit sensionem, intellectum, phantasmata, aliasque proprietates animalium ; cogitatis suis cum Reverendo Patre Marino Mersenno, ordinis Minimorum, in omni genere philosophize versatissimo viroque optimo, quotidie communicatis. Anno Christi 1687 cum patrono suo in Angliam rediit, et apud illum mansit; unde de rebus naturalibus commercia
+
+[p. xv] cum Mersenno per literas continuavit. Interea Scoti, depulsis Episcopis, sumpserunt arma contra regem, faventibus etiam ministris Anglis, illis, qui vocari solent Presbyteriani, Itaque eonvocatum est in Anglia Parliamentum illud notissimum, quod inceptum est Nov. 3, 1640. Ex iis, que in illo Parliamento tribus quatuorve diebus primis consulta viderat, bellum. civile ingruere, et tantum non adesse sentiens, retulit se rursus in Galliam, scientiarum studio Parisiis tutius vacaturus cum. Mersenno, Gassendo, aliisque viris, propter eruditionem, et vim in ratiocinando, celeberrimis (non enim dico philosophis, quia nomen illud a plurimis nebuionibus jamdiu gestatum, tritum, inquinatum, nunc infame est). Cum jam Parisiis ageret, libellum scripsit De Cive, quem edidit anno 1646; quo tempore, preevalentibus Parliamentariis, multi eorum, qui partes regias sequuti erant, et in illis Princeps Wallis (qui mune est rex Anglis) Parisios confluxerunt. Statuerat cirta idem tempus, hortatu amici cujusdam nobilis Languedociani, migrare in Languedociam, et preemiserat jam, quee sibi necessaria erant; sed commendatus Principi, ut elementa mathematicz illi preelegeret, substitit Parisiis. Quod ab hoc munere temporis habuit vacui, consumpsit in scribendo librum, qui nunc non solum in Anglia, sed in vicinis gentibus, notissimus est nomine Leviathan; quem etiam in Anglia edendum euravit, ipse manens adhuc Parisiis, anno 1651, annum agens 68. In eo opere Jus Regium, tum spirituale tum temporale, ita demonstravit, tum rationibus tum authoritate Scripture Sacri, ut perspicuum fecerit, pacem in orbe Christiano nusquam diuturnam esse posse, nisi vel doctrina illa sua recepta fuerit, vel satis magnus exercitus cives ad concordiam compu- [p. xvi] xvi : VITA THO, HOBBES.
+
+lerit; opus, ut ille sperabat, concivibus suis, preesertim vero illis qui ab Episcopis steterant, non ingratum. Quanquam enim unicuique illo tempore scribere et edere theologica, que vellet, liberum erat; quia regimen Ecclesim (potestate declarandi, quie doctrine essent hsereses, ipsius regis authoritate sublats, episcopis exutis, rege ipso trucidato) tunc nullum erat; diligenter tamen cavit, ne quid scriberet, non modo contra sensum Scripture Sacre, sed etiam contra doctrinam Ecclesim Anglicang, qualis ante bellum ortum authoritate regia constituta fuerat. Nam et ipse regimen Ecclesie per episcopos prz ceteris formis omnibus semper approbaverat; atque hoc duobus signis manifestum fecit Primo, cum in oppido Sancti Germani prope Parisios, morbo gravissimo, lecto affixus esset, venit ad eum Mersennus, rogatus a quodam amico communi, ne amicum suum extra Ecclesiam Romanam mri pateretur. Is lecto assidens (post exordium consolatorium) de potestate Ecclesie Romans peccata remittendi aliquantisper disseruit; cui ille, * Mi Pater," inquit, * hrec omnia jamdudum mecum disputavi, Eadem disputare nunc molestum erit. Habes, quee dicas, amceniora. Quando vidisti Gassendum ?' Quibus auditis, Mersennus sermonem ad alia transtulit. Paucis post diebus accessit ad illum Dr. Johannes Cosinus, Episcopus (post) Dunelmensis, obtulitque se ilii comprecatorem ad Deum. Cui ille, cum gratis reddidisset, ** Tta," inquit, **si precibus praiveris juxta ritum Ecclesie nostr," Magnum hoc erga disciplinam episcopalem signum. erat reverentim.  Ànno 1651 exemplaria aliquot illius libri, Londini recens editi, in Galliam transmissa sunt; ubi theologi quidam Angli doctrinas quasdam in illo libro contentas, tum.
+
+hw
+
+[p. xvii] VITA THO. HOBBES. xvii
+
+"ut hereticas, tum ut partibus regiis adversas, criminati sunt ; et valuere quidem aliquandiu calumnig ille, in tantum, ut domo regia prohibitus fuerit. Quo factum est, ut protectione regia destitutus, metuensque ne a clericis Romanis, quos precipue leserat, male tractaretur, in Angliam coactus sit refugere. Rediens in Angliam, concionantes quidem invenit in ecclesiis, sed seditiosos; etiam preces extemporarias, et illas audaces, et nonnunquam blasphemas, symbolum autem fidei nullum, decalogum nullum ; adeo, ut per tres primos menses non invenerit quibuscum in sacris communicare potuerit. Tandem ab amico ductus ad ecclesiam, a suo hospitio plusquam mille passus distantem, ubi pastor erat vir bonus et doctus, qui et Cenam Domini ritu ecclesiastico administravit, cum illo in sacris communicavit. Alterum hoc aignum erat non modo hominis partium episcopalium, sed etiam Christiani sinceri; nam illo tempore ad ecclesiam quamcunque legibus aut metu cogebatur nemo. Quse igitur episcopo cuiquam in illum causa ira» esse potuit, nisi ei, qui neminem a se dissentire pati, per superbiam, posset? Interea doctrinam ejus academici et ecclesiastici condemnabant fere omnes; laudabant nobiles et viri docti ex laicis. —Refellebat nemo; conat, refellere, confirmabant. Scripsit enim, non ex auditione et lectione nt scholaris, sed ex judicio proprio, cognita et pensitata omnia, sermone puro et perspicuo, nec rhetorico. Stantem inter amicos et inimicos, quasi in equilibrio, fecerunt illi ne ob doctrinam opprimeretur; hi, ne augeretur. ltaque fortuna tenui, fama doctrine ingenti, in patroni sui Comitis Devonise hospitio per caeterum vitse tempus perpetuo delituit, studio vacans geometrise et philosophis naturalis; ediditque [p. xviii] jam senex librum quendam, quem inscripsit De Corpore, continentem logic, geometrise, physicz (tum sublunaris, tum coclestis) fundamenta ; deducens logicam quidem a significatione nominum; geometriam autem, et physicam, ex figurarum, et effectuum naturalium generationibus.
+
+Hominis ergo, neque genere, neque opibus, neque negotiis belli aut pacis assueti, vitam scribo, et in publicum emitto; sed in omni genere scienti excellentis, et fere singularis. Cujus ingenium ut cognoscerent (partim etiam ut sua ostentarent) convenerunt eum viri innumeri, tum nostrates, tum. exteri ; et inter illos nonnulli legati principum, alique viri nobilissimi. Adeo, ut conjectura inde facta de voluntate hominum eruditorum, qui posthac erunt, non ingratum fore posteritati existimavi, si quem vidisse voluerunt, illius vitam literis posteritati traderem; precipue quidem, ut quie scientiis ille primus addidit, deinde etiam cetera vite ejus, que a lectoribus desiderari posse videbuntur, cognoscerent.
+
+Quee scripsit De Jure naturali, De Constitutione Civitatum, De Jure eorum, qui summam habent Potestatem ; De Officiis Civium, in libris Leviathan et De Cive (quia domi forisque nota, et maxime celebrata sunt) preetereunda censeo.
+
+In physicis causam sensuum, precipue visus, una cum doctrina omni optica, et natura lucis, refractionis reflection isque causas naturales, ignotas ante, primus demonstravit, in libro De Homine: item causas qualitatum | sensibilium, nimirum colorum, soni, caloris, et frigoris. Somnia autem et phantasmata, quee antea pro spiritibus et mortuorum animis habebantur, et rudi vulgo terriculamenta erant, omnia profligavit Causam autem sstuum marinorum et descensionia gravium a motu quodam telluris perspicue derivavit Nam
+
+[p. xix] phenomena ille omnia ad motum refert, non ad rerum ipsarum potentias intrinsicas, neque ad qualitates occultas; ut ante illum omnes physici. De motu autem, in libro De Corpore, satis fuse scripsit, et profundissime.
+
+In Ethicis ante illum nihil scriptum est, przter sententias vulgares. At ille mores hominum ab humana natura, virtutes et vitia a lege naturali, et bonitatem | maliciamque actionum a legibus civitatum, derivavit In mathematicis, principia geometrim nonnulla correxit, Problemata aliquod diffcillima a summis geometris (ab ipsis geometris cunabulis) sumro studio frustra quaesita, invenit; nimirum haec:
+
+l. Arcui circuli lineam rectam, aree circuli quadratum. sequale exhibere, idque variis methodis. In diversis libris.
+
+2. Datum Angulum dividere in data ratione.
+
+3. Cubi ad sphaeram rationem invenire, In Problematibus
+
+4. Inter duas rectas datas, medias continue proportionales invenire quotcunque. In Problematibus Geometricis.
+
+5. Polygonum regulare describere quotcunque laterum. In Roseto.
+
+6. Centrum gravitatis invenire quadrantis circuli, et bilinei, quod continetur arcu quadrantis et subtensa ejus. In Roseto.
+
+7. Centra gravitatis invenire paraboliformium omnium. In libro De Corpore.
+
+Heec omnia primus construxit et demonstravit, et przeterea. alia multa; quz (quia legentibus occurrent, et minoris sunt) preetereo.
+
+Facient (opinor) hzc, ut vita ejus non indigna videatur, qua tum ad exteros tum ad posteros scientiarum studiosos c2 [p. xx] transmittatur; preesertim hoc tempore, cum scribuntur vulgo vite obscurorum hominum, nulla virtute insignium, desiderante nemine.
+
+Scripsit praeterea, circa annum setatis sus octogesimum, Historiam Belli Civilis. Anglicani, inter Regem Carolum primum et Parliamentum ejus Anglice; item ortum et incrementa potestatis Pontificie, carmine Latino, versuum circiter duum millium. Sed non sinebant tempora ut publicarentur.
+
+Silentibus tandem adversariis, annum agens octogesimum septimum, Homeri Odysseam edidit, a se conversam in versus Anglicanos, anno deinde proximo etiam Iliada: denique Cyclometriam, annum agens nonagessimum primum, integram nondum editam.
+
+Quod ad formam attinet, vultu erat non specioso, sed, cum loqueretur, non ingrato. Eflgies ejus ad vivum a pictore excellente descripta, qualis erat setatis suse septuagesimo, in conclavi Regis Caroli Secundi conservatur. Extant etiam ejusdem imagines ab aliis pictoribus, diversis temporibus facte rogatu amicorum, in Anglia non paucz, et in Gallia aliquot.
+
+Natura sua, et primis annis, ferebatur ad lectionem historiarum et poetarum ; et ipse quoque carmen tentavit, nec (ut plurimi judicabunt) infeliciter. Postea autem cum in congressu quodam virorum doctorum, mentione facta de causa sensionis, quzerentem unum, quasi per contemptum, Quid esset sensus, nec quemquam audisset respondentem, mirabatur, qui fieri potuerit, ut qui sapientise titulo homines ceteros tanto fastu despicerent, suos ipsorum sensus, quid essent, ignorarent. Ex eo tempore de causa sentiendi siepe cogitanti, forte fortuna.
+
+[p. xxi] mentem subiit, quod si res corporez et earum partes omnes conquiescerent, aut motu simili semper moverentur, sublatum iri rerum omnium discrimen, et (per consequens) omnem sensionem ; et propterea Causam omnium rerum querendam esse in diversitate motuum. Atque hoc principio usus est primo. Deinde ut cognosceret varietates et rationes motuum, ad geometriam cogebatur; eta principiis suis, ingenio suo, theoremata illa qua supra commemoravi, feliciter demonstravit. Tantum interest inter illos, qui proprio genio, et illos, qui in archivis veterum, aut ad quaestum docentium, scientiarum veritatem querunt.
+
+In colloquiis familiaribus jucundus erat, prasterquam illorum, qui ad illum venerunt disputandi causa contra ea, que jam ediderat (nec revocari poterant) De Jure summarum potestatum civili aut ecclesiastico. Nam cum his vehementius aliquando disputabat, quam erat necessarium.
+
+Naturaliter apertus erat, et inter adversarios (qui multi potentesque erant) innocentia magis, quam consilio tutus.
+
+Justitig erat cum scientissimus, tum tenacissimus. Nec mirum, cum esset pecunise negligentissimus, et pro tenuitate fortunarum suarum, ultra modum beneficus; sed, beneficio patronorum suorum et regis optimi duleissimique Caroli Secundi, satis copiose senex vixit.
+
+[p. xxii] VITE HOBBIANJE
+
+AUCTARIUM.
+
+Quop geometris usu venit, idem objectum pro re nata mutatis linearum quantitatibus, servatis autem proportionibus, pari cum veritate describere, id mihi in animo est; eorum nempe, quz superiori scripto pressore stylo delineantur, vestigia relegere et solutiore filo retexere; non ut cramben bis coctam reponam, sed ea tradam que argumento lucem aliquam afferre possint, aut majoris momenti visa sint, quam ut oblivioni tradantur.
+
+"Thomas Hobbes natus est Malmesburise, agri Wiltoniensis, nonis Aprilis, anno a partu Virginis millesimo quingentesimo octuagesimo octavo; cujus mater Hispanse classis metu percula que tanquam portubus nostris imminens fama passim differebatur, ipsum, puellum tamen, quod eventu patuit, satis vivacem prematuro partu enixa est. Patrem nactus est concionatorem, qualem tunc ferebant tempora, qui leviori doctrine armatura instructus, orationes publicas, et quas vocant homilias, satis apte populo pralegere poterat.
+
+Quadriennis factus vernaculis literarum elementis operam dedit: octennis doctiorum linguarum tyrocinium posuit sub Roberto Latimero, Oxoniense, Malmesburise literas docente ;
+
+[p. xxiii] VIT HOBBIANAE AUCTARIUM. xxiii qui, quod in puero docilitas tanta, quanta in nullo alio ostenderetur, et simul acris animi et prestantis ingenii illustria signa perspieue cernerentur, illum praxipue in sinu fovit, et supra sequales excolere et incitare solitus est. Tantos autem, jam adhuc in ludo literario degens, in literatura tam Latina quam Grzca progressus fecit, ut Euripidis Medeam simili metro Latinis versibus eleganter expresserit.
+
+Anno 1608, ad percipiendum uberiorem ingenii cultum, Oxonium missus est, in aulam Beate Marise Magdalene, sub Praefecto tunc temporis Jacobo Hussee, Legum Doctore, postea equite aurato, et Cancellario Sarisburiensi, bonorum. ingeniorum fautore summo. Eum ibi morantem Franciscus Hobbius, avunculus, Malmesburige Aldermanus, (qui summus est ejus loci magistratus) suis impensis aluit, qui et, postea moriens, modicum illi fundum testamento legavit. Post quadriennium autem, usitato philosophie cursu jam emenso, gradu academico, quem Baccalaureatum appellant, ornatus est.
+
+1608. Interea Gulielmus Cavendish, Baro de Hardwick, ac (non multo post) Devonis Comes, aliquem qui filii natu maximi studia et mores regeret, diligenter conquisivit; qua. in re virum annis pene equalem, adeoque ob morum similitudinem gratiorem futurum, quam setate et moribus gravem, preoptavit Hobbius itaque jam vicennis, literis commendaticiis Jo. Wilkinsoni, Aule B. Magdalenz tune prmsidis, adjutus, huic muneri obeundo in illustrem illam familiam adscitus est. Eo loci nobilissimi juvenis latus assiduo texit, atque artibus tanto genere dignis, quibusque ingenia ad magne fortung cultum excitantur, instituit; nec solum in studiis gravioribus, sed etiam in venatione, aucupio, ceeterisque mon
+
+[p. xxiv] "eme xxiv VITE HOBBIANJE AUCTARIUM.
+
+innocuis exercitiorum voluptatibus individuus comes perpetuo adfuit Quare summa morum comitate, ingenii elegantia, animi prudentia, tantum sibi tum patris tum filii favorem conciliavit, ut juveni Galliam ltaliamque peregre adituro (1610) dignus visus est qui inserviret.
+
+Versatus autem aliquamdiu illis in regionibus doctissimorum hominum copia florentissimis, luculentis. nature muneribus, venerandis antiquitatis monumentis et ipsa populorum indole celeberrimis, solidam demum sapientiam (qui verus est peregrinandi finis) secum domum retulit,
+
+Reversus itaque, cum jam Candisiang gentis munificentia. tempus atque otium ipsi suppeteret priora studia respiciendi, magno literature, Academicz fastidio affici ccepit; utpote quam affectata ambitione efformatam ac veluti personatam judicavit; nec apud prudentes adeo in pretio habitam, nec ad vitm civilis usus, ut specie pre se ferret, comparatam vidit. Non placuerunt illi logiem ille metaphysiezque argutim, tanquam parum in se bonee frugis habentes, et fovendis solum Clamosis sophistarum contentionibus natz; ethicam autem tanquam vulgi potius opinionibus et imaginarise virtutis medioeritati, quam veritati, innixam ; et physicam, quse in scholis docetur, queque sola pene Aristotelica est, tanquam nimis umbraticam, et potius super ingeniorum technis, quam experimentis nature fundatam, contempsit. Aliam itaque philosophandi rationem sibi ineundam ratus, lectioni veterum. philosophorum, po&tarum, historicorum, tum e Grecis tum Latinis, diligenter incubuit, et ex eorum thesauris, quid in suos usus faceret, accurate deprompsit. Non autem, quod plerisque in more positum est, aut veterum placitis ingenium
+
+[p. xxv] VITAE HOBBIAN X AUCTARIUM. Xxv suum mancipavit, aut intra scholasticorum terminos circumscripsit, aut seipsum quasi unicum humans rationis exemplar proponens, ex reconditis quibusdam notionibus proprio de cerebello erutis, licet rerum nature et experientize prorsus contrariis scenicam quandam conflavit philosophiam, aut triobolaribus experimentis tempus dicavit (vitium hujus evi literatis nimium familiare) Sed ex universo scientiarum. orbe ampli:
+
+imas opes in serarium suum comportavit, et fidee rationis auspiciis sapientissime digessit. Illis temporibus in amicitiam receptus est Francisci Baconi, Verulamii Baronis et Vicecomitis Sancti Albani, magni Anglie Cancellarii et philosophie Atlantis, qui illius consuetudine magnopere delectatus est; et ab ipso in nonnullis scriptis suis Latine vertendis adjutus, qui neminem cogitata sua tanta facilitate concipere atque Thomam Hobbium passim predicare solitus est. Carus etiam fuit Edoardo Herbert, Baroni de Cherbury, philosopho et historico summo et scriptis claro. Coluit quoque Ben. Johnsonum, poétam laureatum, Anglicani dramatis facile principem ; et Thucydidem suum antequam prelo committeretur, ejus examini et judicio subjecit Ad ejusdem quoque operis censuram in partes vocavit amicum. summum Robertum Ayton, Equitem auratum, Scoto-Britannum, Annz Regine e Secretis, virum potsi celebrem et styli arbitrum elegantem.
+
+Duobus interea nobilissimis funeribus lugubris facta est Candisiana domus. Anno 1626 Gulielmus, Devonise Comes, ad superos migravit; quem biennio post, morte nimis immatura, insecutus est filius, cujus obitus ut bonis omnibus luctuosus, ita Hobbio tristissimum reliquit desiderium magnifici studio
+
+[p. xxvi] "ond xxvi VITE HOBBIAN£ AUCTARIUM.
+
+rum patroni ac Mzcenatis. Tanto itaque dolori cum solatium inveniri vix posset, diverticulum saltem quaesivit Hobbius; quare relicta patria in Galliam profectus est, conditionem ferente nobilissimo viro Gervasio Clifton,* (antiqua est et summe generosa eo nomine in agro Nottinghamiensi familia) ut filio, peregre ituro, adesset itineris simul dux et studiorum informator. Illo tempore annum jam quadragesimum preetervectus, Euclidi operam dare coepit, non tam demonstrationum materia alleetus, quam perspicuitate, certitudine, et indivisa rationum serie delectatus. Non enim mathematicas artes admiratus est vir perspicacissimus, ob laterum et angulorum affectiones, aut numerorum, linearum, superficierum, corporumve mutuas inter se proportiones (de homogeneis intelligo quantitatibus) subtiliter indicatas : quippe istiusmodi omnia a. communi vita remotiora facile animadvertit; licet ad praxin relate, usus non adeo contemnendi: sed quod methodo ipsis propria intellectus ad rerum cognitionem optime duceretur, atque difficilia inveniendi, vera asserendi, falsa redarguendi certissima ratione imbueretur. Quare illi vise ad scientias in posterum promovendas insistere decrevit; pertzesus philosophie vulgaris, quz infidis principiis male compaginatas notiones ita. superstruxerat, ut tota sdificii moles ruinam factura palam videretur; cum interim artes ille mathematicee certis, et in experientia communi fundatis principiis innixa, multa in lucem inventa protulissent, humano generi utilia, sibi ipsis gloriosa. Dolendum tamen nobile hoc ingenium, eodem quo et magnum. Scaligerum infortunio laborasse, quod mathematicis studiis, quee nisi in teneris animis altas radices vix agunt, serius paulo
+
+* Vide Thoroton Antiquitates Nottinghamicas.
+
+[p. xxvii] VITX HOBBIANJE AUCTARIUM. xxvii animum adjecit, aliter proculdubio ob przeclara inventa Musis et Apollini hecatombas immolasse potuisset; aut certe, quod summe optandum foret, adversariis minorem ipsum vellicandi ansam prebuisset.
+
+Anno 1681 in Devonie Comitum familiam revocatus est a Comitissa vidua, ad filium jam tredecennem in literis instituendum. Hujus itaque curam pro grato erga paternos manes affectu libentissime suscepit, et singulari eum judicio per amcna studiorum ad rerum cognitionem perduxit; quem hodie in viridi senecta constitutum illustris familie prudentissimum patrem setas nostra merito veneratur.
+
+Circa hec tempora in lucem prodiit primus Hobbiani ingenii partus, nobilissima illa Thucydidis e Greco in. Anglicanum sermonem versio, cseteris omnibus, quie gens nostra unquam vidit, antiquorum interpretationibus jure anteferenda ; quam domino suo Devonis Comiti dicavit, licet patri defuncto destinatam, Historiam illam charta chorographica Greecize propria manu descripta ornavit, adjecto etiam indice geographico, et dissertatione de vita et scriptis Thucydidis, non tam ex Marcellino vita» Thucydides scriptore sumpta, quam proprio judicio conseripta.
+
+Tunc etiam prodiit elegans illud poema De Mirabilibus Pecci, quo nomine venit Derbiensis agri pars occidentalior, regio montosa atque aspera, sed nonnullis, que rariora habentur, celeberrima; ubi, ut mittam sdificia antiqua et nova, magna artis opera, Pecci castrum, et Chatsworthum nobilem Devoniensium Comitum sedem, inter naturalia eminent thermi corpori humano saluberrima, metallifoding plumbo
+
+4 Vide Camdeni Britanniam.
+
+[p. xxviii] xxi VITJE HOBBIANE AUCTARIUM.
+
+et antimonio fctz, et subterranei specus, quorum unus (honorem prefabor) Diaboli podex nominatur, de quo, sive veri ignorantia, sive mentiendi libidine, multa fabulosa circumferuntur.
+
+Anno 1684 cum domino in Galliam transiit, ubi Parisiis degens, praecipuam naturali philosophis promovenda: operam impendit Quum autem ex iis quse longo rerum usu, atque acri mentis studio compererat, animo alte defixa insedisset sententia, in natura omnia mechanice fieri, et ex una materia, variis motuum generibus et mensuris agitata, universa rerum. phenomena exurgere, tam quoad animalium sensationes, quam ceterorum corporum affectiones; ideo nature motus indagande ante omnia incubuit, communicatis assiduo cogitatis cum Marino Mersenno, ex Minimorum ordine, viro eximie bono, docto, curioso; et in illustrandis scientiis parario et proxeneta indefesso; qui etsi propriis scriptis inventisque non exiguam sibi laudem comparaverit, tamen in acuendis aliorum ingeniis, et faciliori reddendo commercio philosophico, eseteros hujus seculi omnes superavit.
+
+Posthec Hobbius in Italiam profectus, Pisis quotidiana. consuetudine usus est Galilei Galilei Lyncei, Mediceorum syderum et solarium macularum inventione clari; qui etai pre alis ad res astronomicas impetu quodam ferebatur, in philosophia tamen naturali magna cum laude versatus est, et in naturam motus (cui fidem faciunt scripta cedro dignissima) supra antiquos longissime penetravit. Amicitiam inter ipsos conciliavit idem studiorum cursus, et summa morum ac temperature similitudo ; qua» fortasse communis infortunii causa, ut uterque acerrimis Ecclesiasticorum censuris vexaretur; quo jure, quave injuria, non est meum pronunciare.
+
+[p. xxix] VITX HOBBIANJE AUCTARIUM. xxix
+
+Anno 1687 cum patrono in patriam reversus, efflagraturi paulo post belli intestini scinrillas animadvertere sibi visus est. Nempe Scoti, depulsis episcopis, in regiam majestatem involabant, faventibus interim quibusdam, quos vocant Ministros Presbyterianos, Anglis; turpissimis seditionum labellis, Quare huic malo, quantum in se erat, occurrendum ratus, tum pro suo in regem officio atque obsequio, tum pro decumano, quo semper in democraticos odio laboravit, libellum scripsit juris regii asserendi gratia, qui postea in librum De Cie, et tandem in Leviathamem excrevit. Ejus autem summa hzc fuit, sine pace impossibilem esse incolumitatem, sine imperio pacem, sine armis imperium, sine opibus in unam manum collatis nihil valere arma, neque metu armorum quicquam ad pacem profici posse in illi quos ad pugnandum concitat malum morte magis formidandum ; nempe, dum consensum non sit de iis rebus, que ad salutem zeternam necessarie creduntur, pacem inter cives non posse esse diuturnam.
+
+Interea, colo criminibus nostris infenso, et fatali gentis nostre infortunio, gliscebant indies infelicia animorum dissidia. "Tertio nonas Novembris anni 1640, indictum est generale ordinum regni concilium, quod apud nos Parliamentum vocatur, ubi in ipsis initiis ex ingenti partium sestu, ne dicam furore quodam, civilis belli miserias imminere prasentiens; aliosque, qui jus regium propugnassent, libertate mulctatos videns, patriam sibi intutam ratus, Parisios se in quietum studiorum secessum recepit.
+
+Florebat tunc temporis urbs illa ingenti doctissimorum hominum frequentia, qui immortali eminentissimi Cardinalis Richelii munificentia permoti, ad artes ac scientias, et unumquodque [p. xxx] politioris literature genus illustrandum strenue contenderunt. Cum illis solitus est quotidianos sermones conferre, atque arduis in Philosophia et Mathesi problematis ingenium exercitare, naturam variis experimentis torquere, rerum principia indagare, inventa ratiociniis stabilire. Pre cseteris autem arcta necessitudine junctus est Marino Mersenno O. M. et Petro Gassendo, Mathematum Professore Regio, viro insigni doctrina et suavissimis moribus exculto, et quod honoris causa pronunciare licet, philosophis Epicurese instauratore.
+
+Anno 1641, Mersenno procurante, cum nobilissimo Renato Cartesio commercium instituit epistolicum, in quo, de natura ac legibus motus, tam directi, quam refexi, aliisque ad Dioptricen spectantibus argumentis, utrinque subtiliter disputatum. est: quae omnia tomo tertio epistolarum Cartesii plene exhibentur. Circa idem tempus Cartesius (premisso jam antea anno 1687 nove Philosophis specimine) publicavit suas De Prima Philosophia Meditationes, in quibus Dei essentiam atque existentiam, animz humans naturam, eamque ab omni corporeo prorsus distinctam, ipsius materie rationem et modos maxime proprios, omnis denique scienti fundamenta, ex' innatis quibusdam ideis demonstrare contendit. lllos tanti viri conatus digna cum laude exceperunt omnes; at nihilominus tantam rerum molem tam imbecillibus fuleris inniti non passi sunt sagaciores philosophi, scriptisque contrariis rationum ejus incertitudinem ostenderunt; inter quos precipue nominandi veniunt, Petrus Gassendus, Antonius Arnaldus, celebris € Sorbona Theologicus, et Thomas Hobbius.
+
+Anno 1644 Marinus Mersennus cogitata sua Physico-
+
+Mathematica in luce memisit, ubi inter alia doctorum virorum
+
+Áo 0
+
+[p. xxxi] VITU HOBBIANJE AUCTARIUM. * xxxi collectanee, nonnullis ingenii Hobbiani monumentis opus suum insignire placuit.
+
+Anno 1645 exarsit celebris illa controversia inter Christianum Severini Longomontanum Cimbrum, superiorum mathematum in regia Danorum Academia Hauniensi professorem. publicum, et Joannem Pellium, Anglum, tunc temporis mathesees in illustri Amstelodamensium Gymnasio professorem itidem publicum.  Longomontanus nempe Uraniburgi sub Tychone astronomicis studiis initiatus Astronomia Danica anno 1622* edita nonnullam sibi nominis celebritatem comparaverat, quam in geometricis etiam affectans, ad infelicem illum quadraturze circularis scopulum, cui tot prieclara ingenia allisa sunt, impegit. Doctissimus autem Pellius Longomontani paralogismos aperte deprehendens, cum in uno theoremate probando totius controversie cardinem verti facile cerneret, hoc ipsum tum proprio marte demonstravit, tum adhibitis celebriorum totius Europee mathematicorum calculis sententiam suam munire conatus est. Illi autem ne aut gratie causa suffragari, aut de rebus parum perspectis pronunciare viderentur, suas singuli demonstrationes illi miserunt;t eorum nomina mihi historie literarise causa repetenti condonabitur spero. Erant autem, JEgidius Personerius de Roberval, Parisiis in Collegio Regio Francie, mathematum professo; Thomas Hobbes philosophus Anglus; Carolus Cavendishius, Anglus, eques auratus, illustrissimi Novi Castri Marchionis frater unicus; D. Pallieur, nobilis Parisinus; Petrus Careavius, in supremo Galli Consistorio senator;
+
+* 4to. Amat. 1622, et folio, ib. 1640. * Vid. Controv. de Vera Circuli Mensura, 4to. Amat. 1647.
+
+[p. xxxii] Marinus Mersennus Minimus; Jo. Adolph. Tassius, mathematicus Hamburgensis; Jo. Lud. Wolzogen, liber Baro Austriacus, S.R.M. Polonie et Suecie Aulicus cubicularis ; Renatus Des Cartes; Bonaventura Cavalierius, Bononizm mathematices professor publicus; quibus postea accesserunt Claudius Mydorgius, patricius Parisinus et Picardie quastor ; et Jacobus Golius, mathematum et linguse Arabice in Academia Lugduno-Batava professor peritissimus. De Hobbiano autem ratiocinio ne pro affectu aliquid immodica laude efferre videar, hoc solum adjicere libet, illud aut eleganti brevitate, aut evidenti perspicuitate ceterorum nulli concedere.
+
+Grassante interim per Angliam civili bello, Hobbius pro summo in patriam amore, quod bonum civem et fidelem subditum maxime decuit, populares suos sanioribus quam quse hactenus obtinuerant principiis imbuere, exacerbatos hominum. animos ad pacis et concordis rationes revocare, et in summe potestatis obsequium addictiores praestare, annisusest. Quare reliquis posthabitis studiis, quantum ipsi suppetiit temporis politica. scientie impendens, librum De Cive (cujus pauca duntaxat exemplaria Parisiis 1642 evulgaverat) revisit, et notis utilibus adauxit; in quo subditorum contra summum imperatorem conjurationes rebellionesque, et immanes illas de principe regnis vitaque exuendo opiniones penitus damnavit: potestati civili jura ab ecclesiasticis caliginosorum temporum beneficio prerepta restituit, et diram sectariorum hydram, effrenem nempe conscientim libertatem, heroico ausu perdomuit.
+
+Eodem anno, fortuna belli regiis partibus infensa, magnus honoratorum exulum numerus Parisios confluxerat, interque
+
+[p. xxxiii] VITE HOBBIANE AUCTARIUM. xxxiii illos Princeps Wallis, nunc Rex optimus, Carolus Secundus. Hobbius itaque magna fame celebritate tum apud suos tum. exteros forentissimus, a magnatibus quibusdam Principi commendatus est, ut mathematicam ipsi prelegeret Quo munere magno cum judicio perfunctus, eam mathesews cognitionem impressit, quam hodie in tanto Principe admirantur omnes, adeoque placuit, ut apud ipsum regnis hereditariis restitutum maxima semper floruerit gratia, annuo etiam honorario ornatus. Illo tempore Samuel Sorbierius, M.D. doctissimi Samuelis Petiti nepos, in Hollandiam profecturus, exemplar libri De Cive ultima authoris manu limatum impetraverat, quem ideo Gasseudus et Mersennus missis duobus epistoliis "laudabant, et boni publici causa ut typis optimis committeret, incitabant; quz hic loci interserere non abe re alienum judico.
+
+GASSENDI EPISTOLA, *PER-ERUDITO AC PER-AMICO VIRO BAMUELI SORBERIO PETRUS GASSENDUS 8."
+
+** Quod epistolium ad me, Caleto vela mox facturus, dedisti, accepi. Nihil opus fuit excusare, quod vale coram non dixeris; nam praeclarus noster Martellus sat declaravit, quam. improvisa discedendi occasio fuerit, et quam requisieris me tamen, utcunque non adfuerim domi. Quod addis tamen, potuisse te ante discessum extorquere ab eximio illo Hobbio jd exemplum libri De Cie, cui ipse manu propria marginales notas apposuit, ut cum istuc, ubi te voveo incolumem, perveneris, edi iterato procures, id summopere delectavit. Videlicet, tam pauca fuere excusa libri exemplaris, ut illa sui sitim potius fecerint, quam expleverint ; siquidem innumeros
+
+VOL. I. d [p. xxxiv] video, qui librum ardenter, sed frustra requirant. Et liber certe est non vulgaris dignusque, qui omnium, qui altiora sapiunt, manibus teratur; neque (si illa seposuero, quee religionem, in qua sumus éror, adtinent) scriptorem agnosco, qui argumentum serutetur, quam ille, profundius. Utinam vero, cetera etiam, quz ille versavit, perinde extorsisses ! quippe ex ipsis in lucem prolatis summe beasses nationem totam philosophantium solide; cum ego quidem neminem norim, qui sit inter philosophandum magis a prajudicio liber, quique penitius quicquid rerum  edisseruit, introspiciat. Enimvero tu virum satis nosti; frustraque foret si quid preeterea in commendationem ejus adderetur. Vale, et amicos optimos saluta, imprimisque Curcellium, HeereDoordium, Bornium, et alios. Parisiis, iv Calend. Maii, cio 10c xrvi."
+
+EPISTOLA MERSENNI,  ERUDITISSIMO VIRO SAM. SORBERIO DOCTORI MEDICO 8.D. MARINUS MERSENNUS M.
+
+^ En audio, doctissime Sorberi, tecum illud egregium opus JDe Cive incomparabilis viri D. Hobbii te Hagam Comitis, hoc est ingentem thesaurum literarium tulisse, novis auctum cogitationibus, qua singulis difficultatibus satisfacientes planum iter exhibeant. Vide igitur ut quis egregius typographus librum illum aureum, gemmis auctum et ornatum, in lucem edat, neque diutius patiaris eum a nobis desiderari. Sed et authorem pro viribus urgeas, ne totum corpus philosophicum, quod mente premit, et calamo explicat, deinceps arca (nobis fatali) concludat, ne tandem nos ad authoritatem regiam provocare cogat, qua ipsius arcam invidam effringamus. Quanta autem voluptate a nobis affücieris, quando videris nobilem
+
+[p. xxxv] VIT HOBBIANAE AUCTARIUM. xxxv illam philosophiam non minus quam Euclidis elementa demonstrari? Quam libenter illi tum "Eroyj et scepticis neniis renunciaturus es, cum dogmatica firmissimis innixam faleris fateri cogeris! Vale. Ubi vero D. Rivetum, ubi Hugenium mirabilem virum videris, millies eos meo nomine salutes velim, meque tui credas memorem et obsequentem. Aureliz xxv April. cio1oxzvi." Prodiit autem liber De Cive typis Elsevirianis anno 1647, annoque insequente dicti Sorbierii opera Gallice verus, ex eadem officina prodiit anno 1649,t Cornificio Ulefeldio, magno Danicee militis magistro, dicatus, addito etiam preeloquio, in quo et laus authoris et libri dignitas exponuntur. Interea indefessum Philosophi nostri studiorum cursum infelix casus interrupit; ex improviso febre correptus est acutis ima, quie in tantum invaluit, ut remediis frustra adhibitis natura morbi violentie succumbente, extremum pene spiritum acturus videretur. Tunc autem cum non amplius cuiquam relictus est fücum faciendi locus, eo momento se religioni patriis legibus stabilite addictissimum ostendit, et precibus juxta Ecclesie Anglicance ritus praxmissis, supremum viaticum recepit, Nihilominus preter omnium spem fausto numine convaluit.
+
+Ineunte anno 1650 Gulielmus Davenantius, Eques 8uratus, Poeta Laureatus, poematis heroici Gondibertiadis nomine insigniti anno proximo Londini prodituri, pra-fationem Parisiis edidit ; in qua de poesevs, heroica» praxertim, natura ingeniosissime disseruit, et totum opus Hobbiani judicii censurze 4 Vide Lottres et Discours de Sorbitre, a p. 212 ad 282.
+
+d?
+
+[p. xxxvi] submisit Hobbius autem amici postulatis responso satisfecit, et, quid de nobili illo poemate sentiret, exposuit, nec non ulterius de poematis ratione in genere, et specialius de heroico, ratiocinatus est, supra vulgares literatorum notiones.
+
+Eodem anno publicatum est opus ejus, sermone patrio, De Natura Humana, prefante (uti fama. accepi) summi ingenii ac judieii viro Setho Wardo, tune Astronomie Professore Saviliano, nunc Episcopo Sarisburiensi, et elegantissimis iambicis adornante Radulpho Bathurst, tunc magistro artium Collegii Trinitatis Oxon. nunc decano Bathoniensi. Sicut etiam, anno vertente, liber De Corpore Politico Londini impressus est.
+
+Anno 1651 prodiit scriptum nomine Leviathan (per stupendum illud animal designatur corpus politicum), liber per Europam celeberrimus; scriptis interim contrariis vexatissimus; quem nonnulli quasi insolitum politices miraculum venerantur ; alii interim quasi monstrum horrendum, informe, omni rationis lumine destitutum, fugiunt et detestantur. Fruatur quisque suo per me sensu licet; mihi, nec alienam philosophandi libertatem circumscribere, neque propriam prodere, animus est.
+
+Missis autem in Galliam nonnullis Leviathamis exemplaribus, theologi Anglicani qui circa regem erant, ob quedam eo in opere paradoxa, Hobbium tamquam partibus regiis minus addictum, tum ut novarum impiarumque in religione opinionum authorem criminabantur. Valuerunt apud regem pientissimum calumnis religionis specie larvatz, et prevaentibus adversariis, ne ad regem aut domum regiam accederet mandato cautum est.
+
+[p. xxxvii] spiritualis monarchise, satellitum metu correptus est, quorum? odium implacabile sese merito incurrisse senserat, ob detectas im Leviathane ecclesiasticorum technas, regni tenebrarum dolos, et pontificis Romani potestatem malis artibus occupatam, qua in civilis potestatis jura involando, qua simplici ac imperita» plebeculee sanctis prasstigiis illudendo; quare Parisiis se minus tutum judicans, media hyemis tempestate aufugiens, in patriam se contulit; cujus itineris molestiis fatigatus jam senex plus quam sexagenarius, diuturnam stomachi egritudinem contraxit; adhibitis nihilominus debitis medicine auxiliis, pristinam tandem valetudinem recuperavit.
+
+Annum 1652 Londini insumpsit, urbe celebri et copiosa, liberalissimis studiis eruditissimisque hominibus affluente, quorum assidua consuetudine et quotidianis colloquiis fruebatur. Inter quos eminebant Gulielmus Harveus, M.D., Caroli primi medicus primarius, circularis sanguinis motus inventor, qui et postea moriens, anno 1657, (stat. 80) in amicitise testimonium, aliquot librarum Anglicarum summam ipsi testamento legavit: Joannes Seldenus, J. C., polyhistor, antiquitatis, histor et linguarum orientalium cognitione celeberrimus: Jo. Vaughan, J.C., postea in Banco Communium Placitorum supremus Anglie justitiarius: Abrahamus Cowleius, vir omnibus numeris poeticis, quod veterum nulli contigit, perfectissimus, qui etiam Hobbium immortali carmine Pindarico celebravit: nec omittere fas est Carolum Scarburgium, M.D., mathematics cognitione et medicine praxi clarrissimum.
+
+Anno 1658 in Devoniensium Comitum familiam, securum
+
+[p. xxxviii] VITE HOBBIANX AUCTARIUM.
+
+subj asylum, revocatus, animum penitus applicuit absol-
+
+Cndm philosophim de corpore, in qua physices elementa exponuntur. Illam philosophiz partern primam animo designaverat; sed ob civile bellum intervenientes, de imperii ef debita civium obedientia, questiones, politices, partis alioquin ultime, cseteris dilatis, prius maturande absolvendsque, in causa fuerunt.
+
+Tandem autem ad umbilicum perductus liber De Corpore prodit Latine 1655, et proximo anno vernacule, una cum sex Lectionibus ad professores mathematicae Savilianos.
+
+lllo tempore clarissimus Wallisius in academia Oxoniensi geometrim professor Savilianus, edito Elencho Geometrie Hobbianze, diuturni illius belli mathematici classicum cecinit, quod acerrimo Marte, adbibi quadra et circino, intervolantibus nonnunquam acutissimis convitiorum telis, utrinque gestum, vicennium et amplius perduravit, nec nisi tandem Hobbiana morte conquievit.
+
+Cirea idem tempus Hobbius cum Jo. Bramballo, tunc episcopo Derriensi, postea Archiepiscopo Armacano, et totius Hibernise Primate, certamen exercuit literarium, De Libertate et Necessitate actionum humanarum; libelli utrinque conscripti sunt varii, de quibus alibi plenius.
+
+Anno 1658, in lucem emissus est liber De Homine, qui est philosophise ejus pars secunda, quee circa facultates affectusque humanos, imaginationem, memoriam, intellectum, ratiocinationem, appetitum, voluntatem, bonum, malum, honestum, turpe, aliaque ejus generis occupatur.
+
+Anno illo mirabili 1660, Summo Numine Britannice gentis infortunia miserante, depulsis rebellionum furiis, et profligata.
+
+[p. xxxix] VITE HOBBIANJE AUCTARIUM. xxxix sevissima illa tyrannide, qua sub religionis et boni publici larva, in vitas fortunasque omnium impune grassabatur; post complurium annorum exilium, regnis suis restitutus est Serenissimus Princeps, Carolus Secundus; quod sieut bonis omnibus summam attulit latitig materiam, ita Hobbium, qui regias partes pro virili semper sustinuerat, incredibili gaudio affecit lngenti itaque desiderio optimi Principis aspectu fruendi excitatus, relicto rure, ubi tunc temporis degit, Londinum advolavit, ubi quam votis tantopere expetiit felicitatem, casus inopinatus ipsi ultro detulit — Rex enim sedes Sarisburienses, in quibus tunc cum patrono moratus est Hobbius, curru pretervectus, illum forte conspicatus ad se accersi jussit; manum oscolandam prebuit, de valetudine ac rebus suis sciscitari dignatus est ; ipso interim favorem regium, quo par est cultu et obsequio excipiente. Non multo post, Samuele Coopero pictore excellentissimo regem admirandi penieilli ductu ad vivum exprimente, ejus opera ad secretiorem cum rege congressum admissus est; qui colloquio ipsius non minus prudenti, quam faceto plurimum oblectatus, de pristina apud se gratia securum reddidit, et facillimos semper in posterum aditus pro summa benignitate concessit. Sub illud tempus, Caroli Secundi auspiciis, fundata est Societas Regia Londinensis, promovendse philosophiee naturalis causa; de cujus instituto honorifice sensit Hobbius, ita ut veram philosophiam relictis Academiis Londinum transmigrasse affirmaret ; illud tamen improbare visus est, quod de generali motus doctrina excolenda minus soliciti, Proletariis Experimentorum Minutiis se addicerint nimis; sepenumero dicere solitus, si ex multáfaria experimentorum farragine congesta [p. xl] philosophi titulus exurgeret, nihil obstare, quo minus mulierculee, olitores7pharmacoposi et ciniflones chymici in philosophorum album referrentur,
+
+Tunc etiam Hobbius mathematiem ulterius provehendee studium impense intendit; geometriam ab ipsis fundamentis restituere aggressus ; in qua naturam quantitatis, linez, anguli, rationis seu proportionis, se primum detexise in animum induxit; preterea admiranda illa problemata, ad quee frustra hactenus geometree aspiraverant, (fastigium totius geometrise altissimum) circulo sequale exhibere quadratum ; cubum cubi duplum constituere; datum circuli arcum juxta datam rationem dispertiri; rectam lineam parabolic squalem invenire ; sese praestitisse, et maxima cum evidentia demonatrasse refragantibus licet universis mathematicorum calculis, sibi obfirmate persuasit.
+
+Ab aritbmetica autem speciosa tanquam blanda ingeniorum seductrice prorsus abhorruit; veritus ne illius opera, ab antiqua construendi et demonstrandi elegantia, cujus auxiliis Euclides, Apollonius, Archimedes, Pappus, aliique e veteribus summi artifices matheseus pomaria tam feliciter protulerant, doctorum animi paulatim avocarentur.
+
+Anno 1664 ab amico quodam, qui rolruraroy ejus ingenium expoliendis reipublicae legibus summe accommodatum judicavit, ad legum nostrarum studium impulsus est ; causatus licet statem jam grandiorem, et materige tam incultee tantisque difücultatibus implexe vix suffecturam. Usque adeo tamen perspicacissime» mentis acies rerum interiora penetravit, ut de legibus Anglicanis commentarium scriberet doctissimis Jurisconsultis in pretio habitum, qui adhuc manuseriptus asservatur.
+
+[p. xli] VITE HOBBIANA AUCTARIUM. xli
+
+Jam vero eum in infinita pene materiarum sylva sese hactenus versatum fuisse perpendisset, veritus ne, que olim seorsum prodierant opera, velut Sibylle: folia, passim dispersa. volitarent; scripta sua in unum compingendi disiderio ferebatur. Quare versis in Latinum que sibi commoda videbantur; presertim famigerato Leviathane, quem adjecta appendice auctiorem fecit ; universa simul prelo committere animo destinavit. Cum autem ab illis qui tunc prelo imperabat, apud Londinenses, Oxonienses, aut Cantabrigienses, typorum licentia impetrari non poterat, destinato nihilominus proposito obnixe intentus, opera sua Amstelodami imprimenda tradidit Joanni Blauvio, viro optimo, et rei literariz promovends studiosissimo ; cujus industria factum, ut anno 1668 puleherrimis typis expressa in publicum prodierint Quee etiam non multo post in bibliothecam aule Magdalensis, eujus olim alumnus fuerat, in grati animi testimonium, submisit.
+
+Interea, Hobbius magna ingenii gloria celebris, ab universis summo honore afficiebatur, atque illum non solum colebant, qui aliquid in philosophia percipere atque audire studebant, verum etiam si qui forte simulabant. Omnes passim aut genere aut literatura nobiles, qui aliquid de ingeniis poterant judicare, illum cognitione atque amicitia sua dignum existimabant Exterorum doctissimus quisque qui Angliam nostram inviseret, ad ipsum quasi philosophis quoddam oraculum proficiscebatur: quin etiam legati atque principes tanquam ad singulare gentis nostre ornamentum confluebant.
+
+Anno 1669 Cosmus Mediceus, Ferdinandi secundi filius, Etrurie princeps, tanti philosophi fama permotus, illum [p. xlii] seepius convenire dignatus est; et insignem scientiam quam plurimum admiratus, iconem ejus et libros universos, inter rarissima Bibliothece Medicee Keipfjua reponendos, domum secum deportavit.
+
+Tunc etiam in academiis aliquantum obtinere coypit philosophia Hobbiana, et juventus academica in publicis scholarum velitationibus, opiniones Hobbianas haud raro defendere solita est. Inter alios Daniel Scargil, artium baccalaureus, et collegii Corporis Christi in academia Cantabrigiensi socius, vir fervidi et provocis ingenii, et vitm paulo solutioris, theses quasdam incautius forsan, et nimia cum acrimonia propugmavit. llle autem, prout typis academism publicis expresse habentur, hujusmodi erant:—* Jus dominii fundatur im potentia." —'* Justitia moralis pendet a civilibus institutis." — ** Scriptura Sacra in legem sancitur solummodo ez authoritate nagistraius"—" Supremi magistratus. jussis, etsi legibus divinis, qua de moribus lass sunt, contrariis, obtemperare
+
+Quibus aliam, (quod suspicari licet) invidi augendz gratia attexuerunt boni censores, quam pro thesi philosophica sumat, qui volet, si quis adeo czcus est: ** Quod gloriosum erat, atheus esse et censeri." sta autem positio ex consequentia dicti cujusdam trahi dicitur, quod gloriaretur, se Hobbii discipulum atque atheum esse: vocabulis a censoribus ita odiose dispositis, tanquam idem sonarent Hobbianus atque atheus.
+
+"Theologi autem, qui in academiis semper regnant, quique in rem suam aut commoda peccantibus haud facile ignoscunt, illum pro senatu academico, qui etiam ex ipsis precipue
+
+[p. xliii] VITE HOBBIANJE AUCTARIUM. xlii eonflatur, gravissimorum criminum postulant. Quare summa. cum vehementia increpitus, magistratus academici authoritate arceri inclusus est; postea gradu privatus, sodalitate exutus, academia expulsus, prius tamen samma cum ignominia et dedecore coactus est, pro concione in templo publico, theses suas tanquam sibi a Plutone submissas, ad Stygem damnare; easque erga Summum Numen impias, omnique humanse societati perniciosissimas, pronunciare.
+
+Sic acta est isthec tragediola; Hobbius autem nominis sui existimationem injustis calumniis lesam facile sentiens, dogmatis suis tum in sequiorem sensum detortis, tum etiam turpiter et cum opprobrio damnatis, ipsoque tanquam atheorum. antesignano publice descripto, per literas ad amicos de injuria graviter conquestus est, sed incassum, cum id temporis vindicias suas publico dare ipsi liberum non esset.
+
+Anno 1670 Antonius a Wood, collegii Mertonensis socius, vir doctissimus, Historiam et Antiquitates Oxoniensis Academim, in quibus, per decennium et amplius, admiranda cum. industria laboraverat, tandem absolvit. Opus illud Anglice conscriptum duobus voluminibus complexum est, quorum prius res in academia gestas, ab ipso ortu ad nostra usque tempora, recenset; in altero collegiorum fundatores Msecenatesque et illustrium virorum elogia continentur. Placuit autem summis in academia viris ut exterorum in gratiam Latio donaretur, studiosis nonnullis ad hanc operam delectis qui tamen in cogitatis suis vertendis authori non fecerunt satis. Multo autem minus alia in re ipsi satisfactum eat; cujus historia licet. prolixior paulo, veritatis tamen historica curiosis, fortasse non injucunda.
+
+[p. xliv] xliv VITJE HOBBIAN.£ AUCTARIUM.
+
+Edis Christi decanus, nunc Episcopus Oxoniensis, (quem honoris causa nomino) quum et operis vertendi et typorum sumptus maximam partem propriis impensis sustentaret, eam. sibi licentiam adseruit, ut que suo adliberent animo, etsi ab. authoris mente aliena, passim intersereret; multa autem, quee ipsi pro affectu suo et partium studio displicerent, expurgaret. Ob isthoc factum incredibili dolore affectus est author, et contaminatam historic fidem gravissime conquestus, nihil interim remedii impetravit.
+
+Pre aliis autem maculis, quibus a censoria manu deturpata. est celebris illa doctorum virorum historia literaria, pessime deformatum est elogium Hobbianum, detractis quee ab authore adscripts sunt laudibus, earumque in locum vituperiis substitutis Rem ipsam vero simpliciter exponere constitui, tum ut Hobbio debitus constet honos, tum autbori, quoad fieri poterit, jus suum in integrum restituatur.
+
+Ex Hisronia er ANTiQUrrATIBUS UnivEnsrTATIS Oxoxi- EN8I. Edit. Oxon. 1674, lib. 2, p. 376 et 877.
+
+Thomas Hobbius, vulgo Hobbes, Westporte in Malmesburia oppido mercatorio Wiltonienses inter, natus quinto Aprilis anno 1588. Literis Latinis et Greecis initiatus, in hancft aulam admissus est anno 1608, ubi operam impendens studiis philosophicis, admissus fuit ad lectionem cujuslibet libri logices 5 Feb. 1607. Post quem gradum quadragesimalibus determinationibus completum, in clientelam simul et familiam D. Gulielmi Cavendish, Baronis de Hardwick, t Aulam Magüalensem.
+
+[p. xlv] VITE HOBBIANX AUCTARIUM. xlv
+
+Comitis postea. Devoniensis, ex commendatione aulz principalis vocatus est. Apud hunc virum nobilem, cum ingenio acrit et industrio, nec tamen injucundo, non levem gratiam iniisset, ab eodem habitus est dignus, ut filio natu maximo in exteras regiones proficiscenti latus tegeret. In Galliam ergo, et inde in Italiam transiens, non mediocrem istarum regionum, sive linguas, sive homines moresque respicias, cognitionem reportavit Non immemor interim Greece et Latine lingug, quas juvenis hauserat, peritiam horis successivis renovandi et augendi, logices et philosophie peripateticm haud usque adeo curiosus, quas negligi passim, et praeteriri tanquam scholarum frivola a viris cordatis] pre se ferebat; in patriam reversus, poetas et historicos Latinos diligenter relegit, adhibitis etiam grammaticorum celebrium commentariis, non ut floride, sed ut Latine posset scribere, et vim verborum cogitatis congruentem invenire, Inter historicos Graecos Thucydidem pre cseteris dilexit, et vacuis horis in sermonem Anglicum paulatim conversum, cum multa laude anno 1628 in publicum edidit, eo fine ut ineptie democraticorum Atheniensium nostris hominibus patefierent. — Eodem anno cum Comes Devoniensis diem suum obiisset, cui per viginti annos cliens familiaris adhaserat, in Galliam iterum abit, filii D. Gervasii Clifon Equitis curam peragens. In qua peregrinatione, Euclidem primum inspexit, methodo ejus, non tam ob Theoremata, quam ob artem ratiocinandi, delectatus. Anno 1681, a Comitissa Devonim revocatus est, ut filio ejus, qui tredecennis erat, preceptoris munere fungeretur: quod f. Quod pro sobrio supposuit Decanus. 1 Haec ab eodem deleta, [p. xlvi] cum post triennium perfecisset, cum eodem in Galliam et Italiam et vig et vitee dux peregrinatus est, Dum moraretur Parisiis, principia scientis naturalis investigare coepit. Cum vero hec in natura et varietate motuum contineantur, quesivit imprimis qualis motus is esse posset, qui efficit sensionem, intellectum, phantasmata, aliasque proprietates animalium ; cogitatis suis, cum Marino Mersenno, ordinis Minimorum, in omni genere philosophise versatissimo, viroque optimof quotidie communicat An. Dom. 1638, cum pupillo suo (nunc patrono) in Angliam reversus, in ejus familia convixit, instituto interim cum Mersenno predicto, de rebus naturalibus, epistolari commercio. Interea Scoti, depulsis episcopis, sumserunt arma contra regem, faventibus etiam ministris illis, qui vocari solent Presbyteriani. Itaque convocatum est in Anglia. Parliamentum illud notissimum, quod inchoabatur $ Nov. 1640. Exiis que in Parliamento tribus quatuorve diebus primis consulta viderat, bellum civile ingruere et tantum non adesse sentiens, retulit se rursus in Galliam, scientiarum studio Parisiis tutius vacaturus, cum Mersenno, Gassendo, aliisque viris egregiis, propter eruditionem, et vim. in ratiocinando celeberrimis. Cum jam Parisiis ageret, libellum scripsit rebus permiscendis natum] De Cive, quem postea. revisit et auxit; quo quasi tempore, preevalentibus Parliamentariis, multi eorum qui partes regias sequuti erant, et in illis Princeps Wallie (qui nune regnat), Parisios confluxerunt. Statuerat circa idem tempus, hortatu amici cujusdam nobilis Occitani migrare in Occitaniam, et preemiserat jam quae aibi
+
+4. Hoc ab eodem etiam deletum. 1 Hec ab eodem interposita.
+
+[p. xlvii] VITA HOBBIAN/E AUCTARIUM. xlvi necessaria erant; sed commendatus principi ut elementa mathematica illi pralegeret, substitit Parisis. — Quod ab hoc munere temporis habuit vacuum, consumpsit in scribendo librum sonztrosissimum, qui nunc. non. solum in Anglia, sed in vicinis gentibus publico damno notissimus estt. nomine Leviathan, quem etiam in Anglia edendum curavit, ipse manens adhuc Parisiis, annum agens 6$. Aliquanto post, in patriam, inibique in eedes discipuli quondam sui, nune Comitis honoratissimi Devoniensis invitatus, ibi absolvit libros duos, De Corpore et De Homine, quos publicavit. Publicati et alii, in re presertim mathematica, cui, musis reclamantibus, paralogismorum perpetuus artifer operam infelicisimam addiait.t
+
+Vir sane de quo (inter tot prospers» et adverse fame, que de eo sparguntur, hominum sermone) hoc verissime pronuntiare fas est ; animum ipsi obtigisse, uti omnis scienti capacitsimum et infertum, ita divitiarum, seuli et invidim negligentissitmum; erga cognatos et alios pium et bencficum. Inter eos, quibuscum vizit, hilarem et apertum, et sermone libero. Apud exteros in summa semper veneratione habitum, etc.
+
+Haec pro imperio agente decano, Antonius a Wood rem segre ferens veniam solummodo obtinere potuit, Hobbium de eo quod factum erat certiorem faciendi, ne in libro sub nomine suo prodeunte Hobbius se notatum sentiens, in ipsum postea durius animadverteret,
+
+Hobbius vero tanquam indigna affectus injuria, (quod magnis semper animis a natura insitum fuit, ut optimus f Hecab eodem interposita. 1 Heec ab eodem inserta, $ Have et alia permulta ex authoris MS, expunzit Decanus.
+
+[p. xlviii] VITE HOBBIANJE AUCTARIUM- quisque maxime glorie studio duceretur) sese debito laudis praconio, unica virtutis mercede, spoliatum, et per summam injustitiam, nomini suo insignem ad posteros inustam contumeliam, non dissimulavit Ad regiam etiam majestatem suam detulit querimoniam, quee ipsi liberam contra adversariorum calumnias sui defensionem, pro solita clementia, indulsit Quare epistolam apologeticam ad Antonium a Wood datam, cirea comitia Oxoniensia anni 1674 publicavit, que in hunc modum se habuit.
+
+EPISTOLA THOMJE HOBBES, MALMESBURIENSIS, AD ANTONIUM A woop, Authorem Historie et Antiquitatum Universitatis Oxon. inserenda ad p. 876, lib. ii. ejusdem historise.
+
+** Eruditissime Domine, mihique amicissime, indicavit mihi amicus noster communis J. À. ea que in libro tuo de Antiquitatibus Ácademis Oxoniensis addidit et delevit Doctor Johannes Fell, Decanus ZEdis-Christi, in ea parte, que est de Vite mea. Nimirum, ubi mihi tu ingenium attribuis sobrium, ille, deleto sobrio, substituit acri. Quod quidem ille animo malevolo pro convicio posuit. Convicium tamen non est, et facile ferri potest.
+
+^ Rursus, ubi tu. Marinum Mersennum appellas virum optimum ; ille, nescio qua invidia, verba illa delevit. Sed contumelia ista non ad me pertinet.
+
+* Tertio, ubi tu scripseras, libellum scripsit de Cive, interposuit ille inter libellum et de Cice, rebus permiscendis natum ; ut esset, libellum scripsit, rebus permiscendis natum, de Cive ; quod ita manifeste falsum est, ut eorum qui temporis illius notitiam quantulameunque habuerint, nemo illum aut igno-
+
+[p. xlix] VITE HOBBIANE AUCTARIUM. xlix rantiz aut malitie non sit condemnaturus. Liber enim ille editus est Anno Domini 1642, quo tempore bellum civile per Angliam gereretur, ita ut res, tunc permistze, permisceri ab illo libro non potuerint.
+
+* Quarto, ubi tu de libro meo Leviathan scripsisti, primo, quod esset vicinis gentibus notissimus, interposuit ille, publico damno, ut esset. vicinis gentibus. publico damno notissimus Deinde ubi tu seripseras, scripsit librum, interposuit ille, monstrosissimum. Magna quidem fuisset heec injuria, si ille aut doctrinarum judex idoneus, aut insigni aliqua eruditione domi vel foris notus esset.
+
+* Quinto, quae tu de moribus meis, de fama apud exteros, de beneficiis in me regiis, &c, tum vere, tum honorifice scripseras, delevit omnia, Et hmc quidem magna tibi facta est injuria; quae tamen alioqui. nocitura mihi non est, (fama enim mea, qualiscunque est, jamdudum pennata evolavit irrevocabilis), sed sibi, academise, etiam generi humano. Sibi, propterturpitudinem. Fstenim etiam in inimicitiis exercendis aliud alio inhonestius. Itaque inimicitie quidem injurias aliquando extenuant. Nam injurim aperte authorem suum ostendunt, sed furtive quemlibet potius alium, etiam amicum, discrimini objiciunt. Academie, propter eam quam inimicus habet in academia authoritatem. Generi denique humano, eo quod cum cognitum sit, tantum esse hominibus in alienas historias potestatis, nulla non historia suspecta erit. Postremo, quod preeter sententiam tuam de operibus meis geometricis addidit aut delevit (cum qui hominem norint, non a sua ipsius cognitione, sed fide aliena locutum esse sciunt; et qui non norint, nomen ejus inter mathematicos aliosve eruditos
+
+VOL. 1. e
+
+[p. l] 1 YITE HOBBIANJE AUCTARIUM.
+
+nunquam audiverunt) movebit neminem. Nulla ergo causa est ut publice cum eolitigem. Neque si esset, facerem. — Scio apud omnes gentes, ex ipsa civitatum natura, civibus singulis datam esse actionem injuriarum, Anglice, ** an action of the case?" Dic ergo quis actor, quis reus, quis judex, que erit injurim compensatio? Si actor ego sum, reus tu solus eris, qui libri hujus author es. Potes quidem actor esse tu, reus ergo erit Decanus /Edis-Christi, cujus arbitrio, propter sumptus, editionem nimia bonitate tua permisisti. Fac autem actorem esse me, et illum reum, etiam injurie damnatum; quis erit damni estimator? Nonne duodecim viri, jurati quidem et legales, adde etiam, boni? Attamen inter damna, nisi quee pecunia estimari solent, verba non numerant. Nam scholarium jurgia inter res serias raro habent. Itaque scripto publico ulterius non contendam. — Testimonia quidem amicorum amo. Convicia inimicorum parvipendo. Ex Antiquitatibus Ozoniensibus nomen meum, si libet, omnino expungant; laudabor tamen a maxima parte academicorum qui nunc sunt, magisque opinor ab iis qui erunt Preterea homini seni offensarum venia utilior est, quam ultio. Tibi vero, si tanti est, existimationem tuam et veritatem historie vindicare, non tantum licet, sed etiam laudibile est. Et siquidem ita tibi expedire visum fuerit, poteris epistolam hanc meam quibuscum volueris communicare. Si quod aliud consilium in hanc rem invenero, antequam hee litere tabellario tibi perferendz committantur, inclusum habebis ipsis literis. — Vale. Londini, April 20,1674. —— Tuus,— TuowAs Honszs."
+
+[p. li] VITE HOBBIANA AUCTARIUM. li
+
+Decanus autem. Hobbii factum stomachatus, anteactorum interim immemor, Antonium a Wood acribus compellat verbis, tanquam mala fide secum agentem, qui ipso inscio clanculam rerum notitiam Hobbio suggesserat: quin et acerbiori sermone in Hobbium invectus est; non decere scilicet senem, jam capularem atque alterum in Charontis cymba pedem habentem, de doctrine fama et controversiis literariis solicitum esse; anime potius saluti consuleret, et de iis, quee ad faciliorem in beatorum sedes ingressum conferrent, cogitaret. Quum porro ad colophonem Oxoniensis historis vacaret folium, ut publica etiam reprehensione Hobbium corriperet, sequentem adjecit epistolam.
+
+Enprron Lzcroni.
+
+*: Prodiit nuper charta famosa, que epistola Thoma Hobbes Malmesburiensis ad authorem  Hisforim et Antiquitatum Universitatis Oxoniensis esse dicitur, et inserenda ad p. 376, inlib.ii Ne autem incauto lectori fucus exinde fiat, paucis monendum eum duximus, convieiorum sarcinam hanc ad librum predictum minime pertinere ; porro nullam idoneam subesse causam, cur irritabile illud et vanissimum Malmesburiense animal adversus historic predicte editorem inveheretur. Restota sicse habet. Magnificum Hobbesio elogium. adornavit, aut, quod vero propius, ab Hobbesio ipsi sibi adornatum, huc transmisit quidam dominus J. A. eum in finem, ut operi huic inseri possit: at vero cum ibidem multa occurrerent ab instituto satis aliena et veritati minime consona, pro jure suo illa recognovit editor ; ita tamen ut viro pessime e2
+
+[p. lii] Jü VITE HOBBIANAE AUCTARIUM.
+
+de Deo, hominibus, literisque merito, locum inter literatos relinqueret.
+
+** Stomachatur nibilominus Hobbesius, acre solummodo ingenium, non vero sobrium ipsi ab editore attributum. In facti excusationem non opponit editor illorum, qui aut cum ipso seriptisve ejus familiariter versantur, sententiam; sed Hobbesii ipsius appellat fidem, qui, in libello de Principiis et Ratiocinatione Geometrarum, heec habet: In magno quidem periculo versari video ezistimationem meam, qui a geometris fere omnibus dissentio. Eorum enim, qui de iisdem rebus mecum aliquid ediderunt, aut solus insanio ego, aut solus non insanio ; tertium non est, nisi quod. dicet. forte aliquis, insaniamus omnes. Si insanire eum contingat, non ab editore injuria facta est ; si alii omnes eruditi mente sua moti insanire illum censeant, non est quod furiosorum sententia illum moveat, nec queratur reperiri hominem unum, qui demens pariter cum fuerit, communi omnium suffragio calculum adjecerit.
+
+Secundo in loco male habet Hobbesium, quod cum Historiae scriptor Mersennum. virum. optimum. appellaverit, editor malignus verba illa delevit. Agnoscimus Hobbesium, aut saltem J. A. sic eum vocasse ; sed quando quidem nec historie seriptor nec editor novere, albus an ater homo fuerit Mersennus, certe absque illius injuria verba illa in impressis defuere.
+
+"Tertio, probat librum De Cive rebus permiscendis minime natum, quia anno 1642 prodiit: quasi Miltoni, Aschami, Goodwini, seditiosa scripta rebus permiscendis apta nata non. sint, quia post annum predictum edita.
+
+[p. liii] VITA HOBBIAN & AUCTARIUM. lii
+
+** Quarto, pariter ostendit Jibrum suum Leviathan. publico dammo non fuisse notum, nec monstrosissimum esse, quia editor nec doctrinarum judex idoneus, aut insigni aliqua eruditione domi aut foris notus. Belle quidem heec coheerent. Historie editor Hobbesio indoctus videtur; proinde Leviathan nec publico damno est notus, nec est monstrosissimus.
+
+*Quinto, queritur Hobbesius ea, que author de moribus ejus, de fama apud ezteros, c. scripserat, delevisse omnia editorem. Aio hec omnia D^ J. A., aut forte Hobbesium ipsum, pro eximia, qua pollet, modestia, scripsisse, qus authori prorsus incomperta, pleraque vero omnino falsa fuisse noverat. editor ; qui etiam illa, que ad partes Cromwellianas fovendas egerit Hobbesius, ut et alia ejus flagitia silentio pressit. Iterum ergo subducat rationes suas vir bonus, et consideret, an non pro conviciis gratiae editori debeantur.
+
+** Ultimo in loco bilem Hobbesio movet, quod editor prater sententiam authoris de operibus geometricis addidit aut delevit; cum qui hominem norint, non a sua ipsius cognitione, sed fide aliena locutum esse sciunt; et qui tion norint, nomen ejus inter mathematicos aliosve eruditos nunquam audiverunt. Sed quid lucrabitur Hobbesius, siejus rapopápara adeo sint immania, ut vel a Tyronibus deprehendi possint : agnoscentem superius audivimus, egregias suas demonstrationes tam conspicuse esse evidenti, uf. omnibus, qui de iisdem rebus secum aliquid ediderunt, hoc est geometris universis, insanire videatur. Sed ab homine, qui reverendissimum Sarisburiensem Episcopum, Clariss. Wallisium Professorem Savilianum, aliosque eruditissimos viros pro indoctissimis habuerit, contu melia conjungi, in elogium cedet: sobriis rerum aestimatoribus [p. liv] liv VITJ HOBBIAN/E AUCTARIUM.
+
+admodum bonus videbitur, qui Hobbesio displicuerit; satis eruditus, quem ille mortalium àpaSézraro: literarum imperitum affirmaverit.
+
+* Hec proinde non eum in finem dicta sunt, ut furioso homini satisfiat, sed ut intelligat lector nullam Hobbesio, nec historie, nec academis, nec generi humano, quicquid ex adverso inclamet chartm famose scriptor, injuriam factam, quod dictata viri pestifera notaverit, et obnoxias, ut nihil gravius dicam, sibi blandientis Hobbesii, aut domini J. A. laudes Universitatis Oxoniensis annalibus inseri, nisi prius castigatas, non permiserit editor."— Hactenus ille.
+
+Hobbius autem tum conscientia propria, tum doctorum testimoniis satis fretus, cum decano contentionis funem ducere recusavit, ulteriore responso dedignatus. Suspicandi tamen ansam arripuerunt nonnulli, Hobbium a decano tam duriter habitum, eo minus in libro De Bello Civili Anglicano suam de doctrina et regimine academico sententiam dissimulasse.
+
+[Obiter autem ut moneam, de censorio in authores jure, videantur R. P. Jacobus Gretserus e Soc. Jes. libro de jure, modo, et more prohibendi, expurgandi et abolendi libros noxios et hereticos: R. P. Theophili Raynaudi S. J. Erotemata de malis ac bonis libris, deque justa aut injusta eorundem confixione: R. P. Antonius Possevinus S. J. in bibliotheca, et. libro de cultura ingeniorum, nec non varii pontificiorum. Indices prohibitorii et expurgatori, Hispanicus, Romanus, Tridentinus.]
+
+Eodem anno 1674, etiam seni pene nonagenario, faventibus Musis, libros aliquot ex Homeri Odyssea, specimen integri operis Homerici mox prodituri, vernaculo sermone evulgovit;
+
+NENNEN
+
+[p. lv] VITE HOBBIAN AUCTARIUM. lv wbi, si quis juveniles sstus et furores poeticos desideret, Msonii tamen senis spiritum & Malmesburiensi nostro sermone maxime accommodato expressum, necesse est fateatur.
+
+Mense Julio ejusdem anni Londinum reliquit, cum animo nunquam revertendi, quibus hactenus se oblectaverat studiis, quoad vita suppeteret, vacaturus. Quod autem inter rara felicitatis exempla numerandum est; summo ingenii vigore et sensibus integris ad obitum usque in philosophia et mathesi se assiduo exercitavit, et quod magis mirum, poesin exercuit, qua propriis animi conceptibus exprimendis, qua aliorum transferendis.
+
+Anno 1675, cum Homericum tentamen non exiguo literatorum plausu exceptum constaret; Homeri /Jiada et Odysseam. conjunctim Anglicano carmine evulgavit, Dissertatione de Heroici Poematis Virtutibus premissa.
+
+Anno 1676, edidit Controversiam de Libertate et Necessitate Humanarum Actionum, cum Benjamino Laney Episcopo Eliensi olim agitatam.
+
+Anno 1678, prodiit Decameron Physiologicum, sive de Naturali Philosophia libri decem, una cum linece recte ratione ad arcum quadrantis dimidium: quo tempore etiam opus ejus de Bello Civili Anglicano, ipso minime conscio, in lucem emersit, eujus occasione epistolam sequentem ad librarium G. C. transmisit.
+
+*« Dialogum de Bello Civili Anglicano diu est quod publici juris factum voluissem; quem in finem Regi obtuli, cui, paucos post dies cum libellum perlegisse mihi visus esset, supplicavi, utimprimendi facultatem concederet. Rex autem, solita me excipiens gratia, postulatum prorsus abnegavit Quare libri [p. lvi] li VITÀ HOBBIANJE AUCTARIUM.
+
+apographum tibi concessi, authenticum autem dedi amico nobili et docto, anno abhinc defuncto. Sua Majestas, ad quam maxime spectat qui libri in publicum prodeant, me longe melius novit, quid facto opus sit — Nollem itaque hac in Te in ipsius offensionem incurrere; neque te huic negotio immisceas, rogo. Ne vel minimas in libro publicando sustinerem partes, quovis pretio redimerem.
+
+Jun. 19, 1679. Tuus— T. Honnrzs."
+
+Cirea medium Octobris, anni 1679, urina: suppressione correptus est; medici autem ob grandem statem, de morbo quovis remediorum apparatu penitus amovendo, ipsoque in integrum restituendo, desperabant. Vicesimo Novembris Devoniz Comite cum universa familia a Cattiswortho Hardovicum transmigrante, Hobbius patronum comitandi animo obstinatus, lectis impositus vize committitur, ex itinere nihil quicquam molestie pati visus. Nihilominus sex septemve diebus preeterlapsis, dextri lateris consummata paralysi affectus, et loquela usu privatus est. Posthzc pauculos dies supervixit, parum sumens alimenti, dormiens plurimum, per intervalla loqui conatus, sed frustra: toto morbi decursu, vix febrile aliquod symptoma comparuit; ita ut ob extremam senectutem, extincto biolychnio et deficiente vite fomite, quam zgritudinis violentia e vivis excedere videretur. Obiit autem quarto Decembris 1679.
+
+Elatus est ex edibus patroni sui, pompa non magna, sed officio funeris satis decoro. Sepultus est in ecclesia vicina de Hault Hucknall, sacerdote secundum Ecclesie Anglicane formulas exequiarum justa celebrante — Conditus est juxta
+
+[p. lvii] VITE HOBBIANJE AUCTARIUM. lii tumulum Comitisse Devonis (Gulielmi, qui nunc Comes est, avi) sub nigro marmore, cujus inscriptio solummodo locum ejus natalem, tempus etiam natale et emortuale pre se fert.
+
+Nunc autem opere pretium videtur, nonnulla paulo specialius describere, que ad corporis habitum, animi mores, et ingenii studia attinent; cognitu forsan haud ingrata, etiamsi superius aliquantum delibata.
+
+Ttaque ut inde incipiam, statura illi procerior fuit, habitus gracilis, cutis tenerrima, qua de causa, ne frigidior aer poros subiret, crassioribus indutus vestibus quovis anni tempore incessit. Faciem habuit satis decoram ; frontem amplam, et in rugas proniorem; oculos vividos, et quasi scintillantes; visum acutissimum, et ad obitum usque satis firmum; nasum oblongiorem, genas rubore temperatos ; capillitium, antequam incanuit, nigrum; barbam autem subflavam; cujus mystacem labro superiore natura intortam gessit, sub inferiore pilos aluit, sed paucos; ne, quod multis in more est, barbam philosophis indicem constitueret. Effigies ejus a Sam. Coopero, celeberrimo pictore, delineata, inter Kaya regia asservatur; quee et multoties celo sculptorio adumbrata publice habetur. Temperamento praditus est sanguineo-melancholico, ad virtutis et sapientie excellentiam maxime proprio; quali nature habitui non philosophi modo et poet, sed et futurorum conscii vates, si veterum placitis stare fas est, plurimum debuerunt.
+
+Primis annis invaletudinarius fuit, et in icteritiam admoduin propensus; progressu tamen setatis, et circa annum quadragesimum, valetudine usus est satis confirmata. Toto autem vite decursu raro decubuit, aut pharmacum sumpsit. Circa annum [p. lviii] lviii VIT HOBBIAN/E AUCTARIUM.
+
+sexagesimum manuum tremore, paralyseus precursore, affectus est.
+
+In vietu non admodum curiosus, nullum cibi genus fugit, quo populus utitur: state magis provecta, statam semper prandii horam observavit; postea, paucis tabaci haustulis contentus, a ccena prorsus abstinuit.
+
+JEtate adhuc intra juventutis terminos constante, (liceat verum fàteri) nec abstemius fuit, nec Muséyvrac-
+
+** Hec omnía mediocriter. Homo fuit, humoni nihil a se alienum putavit."
+
+Celibatum nihilominus tenuit, tanquam philosophize studiis maxime commodum.
+
+Exercitio corporis multo utebatur, pila palmaria szpe lusit, quamdiu pra senectute licuit, etiam ultra annum septuagesimum, Ejus in locum, quum opus erat, fortiores deambulationes substituit; post quas, adhibitis frictionibus, in lecto se ad quietem componere solitus est; ultima setate, cum deambulare amplius vix poterat, cubiculo ex arte calidiore facto, frictiones solum, ad motum sanguini alias forte stagnaturo conciliandum, usurpavit.
+
+Quoad mores; oportet primum de religione testimonium. dicere. Deum autem agnovit, eumque rerum omnium originem, intra angustos tamen humane rationis cancellos nullatenus circumscribendum. Quare fortiter calumniati sunt, qui ipsum atheismi reum detulerunt ; quod inde forsitan profectum, quia scholasticorum aliorumque isto de grege morem rejecerat, qui otiosi in museeis suis sedentes, juxta imbecillem ingenioli sui captum, nature diving incomperta affingunt attributa. Nec minus falso a nonnullis insimulatus est, tanquam solitu-
+
+[p. lix] VITA HOBBIANJE AUCTARIUM. lix dinem fugeret, spectra metuens et phantasmata, vana stultorum terriculamenta, qua philosophie sum lumine dissipaverat; non injuria tamen forte subveritus est ne ab illis ad Plures mitteretur, quorum commodis adversatus, ipsorum artificia ac versutias publico aperte conspiciendas preebuisset, Religionem Christianam quatenus in ecclesia Anglicana, resectis superstitionis ineptiis, regni legibus stabilitur, ex animo amplexus est ; quam etiam, contra pontificiorum simul et sectariorum insultus, strenue propugnavit. Controversias quidem theologicas maxime aversatus est: quicquid autem ad pietatis exercitia aut bonos mores conferret, plurimi fecit. Sanctius illi et reverentius visum, De Deo credere, quam scire. — Sacerdotes interim ineulpare solitus est, qui Christianam religionem absolutam ac simplicem, vel superstitione macularent, velt inanibus, interdum profanis speculationibus implicarent. Optime autem populo consultum fore censuit, si scholasticorum dogmatum vice, mqui rectique praecepta, et cujusque imperii leges civiles publice recitarentur, quibus homines ad suum erga magistratus obsequium mutuaque vitse civilis officia formarentur. Ipse etiam conatus est maxime, ut post. rectos de summo numine conceptus, dictis vite officiis tam. publicis, quam privatis, ad virtutis et prudentim dictamen rite fungeretur. Itaque patrie commodis impense studuit; et Regi, patrie patri, fidelissime inservivit; in amicis colendis religiosus fuit, in cognatos summe munificus ; cui fidem faciat fundus hareditarius, pretii non contemnendi, multis ab hinc annis fratri dono datus; quod etiam nepotem ex fratre bonorum decoctorem ducentis libris. Anglicanis sublevavit ;
+
+Aid Bic, etvopuvíac, pupác, xal daidtórec Unrfjeuc.
+
+[p. lx] dax VIT/E HOBBIANJE AUCTARIUM.
+
+ut taceam quse in suos in fortuna non adeo lauta constitutos testamento prudentissime dispensavit. Erga pauperes etiam admodum liberalis, erga universos ad omnem justitie et bumanitatis rationem accommodatus.
+
+Quantam itaque in republica literaria tyrannidem affectant, qui talem tantumque virum, ut humani generis pestem et capitalem religionis omnisque civilis consortii inimicum proscribunt, ejusque philosophiam tanquam pessime moratam, impietate, injustiti, nequitia, discordia denique fotam e manibus hominum excutere contendunt? quum interim terentur passim Philostrati, Porphyrii, Iamblic, Luciani, Eunapii, Rutilii Zosimi, aliorumque Christiani nominis hostium scripta, doctorum insuper vindiciis ornata; neque Aleorenum inspicere nefüs esse, emisse pro sua Alcorani editione apologia, ostendit Theodorus Bibliander, vir ut incomparabilis doctring, eloquentim, ac tribus in linguis preestantig, sic pietate, moribus et vita exemplar omnium, si Gesnero Varroni Tigurinot fides adhibenda.
+
+Justum igitur examen subeant Hobbiana, prudentes, equos, affectibus liberos experiantur judices: quod verum atque bonum in humanos usus transferatur; quod secius, quo minus damnetur,nonreeusamus. Vis illa codlestis, quz cuncta regit ac moderatur, univerea bonis malisque variegata sustinet: nos interim, ob quedam quse arrideant minus, optima quaque de medio tollere, equum non est. — Frustra veritati ignorantise clypeus prefertur: diuque nimis in communem literature perniciem, grassatus est importunus quorundam mos, qui, opinionum suis adversarum gratia, doctis authoribus bellum f In Bibliotheca.
+
+[p. lxi] VITX HOBBIANJE AUCTARIUM. lxi indixerunt; scriptaque sepenumero flammis prosequentes, tot praxclara senioris evi monumenta latrocinio quodam posteris. surripuerunt. Sed provectus ultra quam par est, ad institutum redeo.
+
+Consuetudo ejus ut prodesset, conjuncta rerum ponderi sermonis gravitas, ut delectaret, facetim effecerunt. In responsis natura mire promptus, alioquin ex judicio ad deliberandum, sive, ut ipse maluit dicere, computandum, propensior fuit Animo apertus ac simplex, alios instruendi cupidus, ad conceptus animi impertiendos facillimus. Omnibus comis et mansuetus, nisi forsan novitii aliqui, ingenii ostentandi gratia, frivolis ipsum quaestionibus et cavillis torquerent. In neminem invectus est, nisi qui laesit prius. Suarum quidem opinionum fuit tenacior paulo.
+
+Ingenium nactus est ad omnia natum, atque institutum, quicquid occurreret, perspicaci judicio animadvertit: animus illi indefesse cogitabundus : cuicunque se addixit materie, in ea pertinacissime versatus est. Illorum ignaviam detestatus est, qui, cxca credulitate solis partium suarum principiis astricti, non lubenter ferunt alios ultra carceres, quibus ipsi continentur, prodire, et arcana rerum mysteria penetrando, philosophiz limites propagare.
+
+Lectio ejus pro tanto etatis decursu non magna; authores verssbat paucos, sed tamen optimos Homerus, Virgilius, Thucydides, Euclides, illi in deliciis erant. Ingentem librorum supellectilem, qua superbiunt bibliotheez, non magni fecit, cum mortales plerumque pecorum ritu antecedentium insistentes vestigiis, vix extra tritas calles et semitas ab ipsis, quorum tutele et regimini subsunt, prestitutas evagari [p. lxii] lxi VITA HOBBIANJE AUCTARIUM.
+
+audeant; cum etiam qui omnem illam scriptorum varietatem, qua artes et scientie exultant, diligentius introspiciat, ubique inveniet ejusdem rei repetitiones infinitas, tractandi modis diversas, inventione preoceupatas; ut omnia primo intuitu numerosa, facto examine pauca reperiantur. Quin et illud sepe dicere solitus est, quod si tantum libris incubuisset, quantum alii e literatis vulgo faciunt, eadem cum illis ignorantia laborasset.
+
+Quoniam autem optimorum amicitia et consuetudo non leve probitatis argumentum ducitur, vixque malus esse possit qui aut bonos colit, aut a bonis colitur; amicorum ejus indicem proponere animus est. Ante omnes vero, debito cum. honore meritisque gratiis, (post Majestatem Regiam fautorem ejus benignissimum) memorandi veniunt illustrissimi Devonise Comites, haereditario quasi jure Meecenates Hobbiani. Quod sane non solum ingenii ac literarum, sed etiam nature atque virtutis, ut domus, quee ejus adolescentis prima fuerit, eadem. euet familiarissima senectuti.
+
+AMICORUM ELENCHUS.
+
+Franciscus Baconus Verulamius, Magnus Anglie Cancellarius. Obiit 1626. Vita ejus sepius edita est: opera satis nota sunt.
+
+EA. Herbert, Baro de Cherbury. De eo et scriptis, vide Guil. Dugdele de Baron. Anglis. Obiit 1648.
+
+Hon. Carolus Cavendish, Eques Auratus, illustris. Guil. Marchionis, postea Ducis Novi Castri, frater unicus, mathematicus summus. Obiit 1653.
+
+4| Verulam pref. in Nor. Organ. 1 Cic. pro Arch. Poet,
+
+[p. lxiii] VITA HOBBIANJE AUCTARIUM. dxiii
+
+Benj. Jonsonus, Poeta Laureatus. Obiit1687. Vide Ant. 2 Wood, Hist. et Antiq. Oxon. vol. ii. p. 278.
+
+Robertus Aytonus, Eq. Aurat. Nobilis Scoto-Britennus, Anne et Marie Anglie Reginis ab Epistolis, nec non a Consiliis et Libellis Supplicibus. Obiit 1688; vide Delicias Poetarum Scotor. l2mo. Amst. 1687, a pag. 86 ad 76; et epitaphium ejus in templo Westmonasteriensi,
+
+Galileus Galilei, mathematicorum sui svi fücile princeps. Obiit 1641. Vide Elogii d'Uomini leiterati, di Lorenzo Crasso.
+
+Franciscus Niceronus, O. M. Thaumaturgo Optico celebris. Obiit 1646.
+
+Marinus Mersennus, O.M. scriptis clarus. Obiit 1648.
+
+Petrus Gassendus, Parisiis Matheseas Profesor Regius. Obiit 1655. Vide Sorbierii Pref. in Op. Gassendi,
+
+Renatus Cartesius, Mathesi admirandus, et Philosophie columen. Obiit Holmis Suecorum 1650, Etat. 64. Vitam ejus scripsit Petr. Borellus M.D. Vide etiam Jo. Tepelii Historiam Philosophire Cartesiang.
+
+Hieronymus Verdusius, nobilis Aquitanus, cui sex Dialogos de Examine et Emendatione Matheseós hodierna inscripsit, nec non Poema de Vita propri. De eo vide Sorbierii Profat. in Op. Gassendi.
+
+Kenelmus Digbeus, Eq. Aurat. nobili genere, seriptisque illustris, Regin Marie Cancellarius. Obiit 1665. Vide Ant. à Wood, Hist. et Antiq. Oxon. vol. ii. pag. 888.
+
+Jo. Seldenus, honos Britannie quo elogio illum Grotius celebrat in Annot. ad lib, ii. de Jure Belli et. Pacis, cap. ii. num. 2. Vide etiam Ant. a Wood, ibid. p. 849. Obiit 1654.
+
+[p. lxiv] lxiv VITJE HOBBIANJE AUCTARIUM,
+
+Guil. Harveius, MD. Libris de Sanguinis Circulatione et Animalium Generatione clarus Obiit 1657.
+
+Guil Chilligworth, Ecclesim Anglicane Hyperaspistes. Obiit 1643. Vide Ant. a Wood, ibid. pag. 273.
+
+Abrahamus Cowleius Musarum Delicim. Obiit 1667. Vitam ejus eleganter descripsit Tho. Sprat, S.T.D.
+
+Edmundus Wallerus, inter Poeseas Anglicang Principes numerandus. Obiit 1687.
+
+Sidneius Godolphinus, amicus ejus intimus, qui pro jure regio fortiter pugnans occubuit; qui etiam. Hobbio ducentas libras Anglicanas testamento legavit, cujus memoriam recolit in Prafatione ad Leviathanem Franc. Godolphino, fratri ejus germano, inscriptum.
+
+Jo. Vaughan, Summus Anglic Justitiarius in Banco Placitorum Communium, vir doctissimus. Vita ejus habetur praefixa relationibus Casuum Forensium ab ipso collectis. Obiit 1674.
+
+Carolus Searburgh, Medicus Regius, Eques Auratus. Obiit 1696.
+
+Richardus White, sive Albius, Hemisphzerii Dissecti author. Obiit circa 1650.
+
+Jaspar Mayne, /Edis Christi Oxon. Canonicus. Obiit 1672. Vide Ant. a Wood, Ant. Oxon. lib. ii.
+
+Guil, Davenant, Eq. Aurat. Poeta Laureatus, Obiit 1668. Vide Ant. Wood. — Antiq. Oxon. lib. ii. p. 168.
+
+Franc. Osborn, scriptis vernacule editis celebris. Obiit 1659.
+
+Rad. Bathurst, S.T.D. Decanus Bathoniensis, Obiit 1704.
+
+Ed. Hide, Clarendonie Comes, summus Anglie Cancel. larius, qui quamvis ab Hobbio dissenserit, in praloquio tamen
+
+[p. lxv] VITJE HOBBIANJE AUCTARIUM. lxv libri contra ipsum scripti, veteris inter illos amicitim, nec non probitatis et doctrine Hobbiange testimonium posuit. Ob. 1675.
+
+Gualt, Charlton, MD. scriptis et praxi clarus, Vide Ant. a Wood, Antiq. Oxon. pag. $77, lib. ii. Obiit 1707.
+
+Sam. Butlerus, author satyra ingeniosissimm cui nomen Hudibras. Obiit 1680.
+
+Ant. a Wood, Historie et Antiquitatum. Oxoniensium author celeberrimus. Obiit 1695.
+
+Hen. Blunt, Eq. Aurat. vir summi ingeni Obiit 1682.
+
+Jo. Albericus, vulgo Aubry, e Soc. Reg. Armig. amicus ejus in primis, ex vicinia Malmesburiensi oriundus, et sub communi praxceptore institutus, vir publico bono magis quam suo natus; qui princeps mihi scribendi ansam prebuit, et materiam humaniter suppeditavit. Obiit circa 1700.
+
+LIBRORUM QUOS SCRIPSIT HOBBIUS TITULI SEQUUNTUR.
+
+(Ex Ant. a Wood, Hit. et Antiq. Ozon. lib.ii. p. 376.]
+
+Elementa Philosophica de Cive, 4to. Paris, 1642, et Amstel. 1647, 1650, 1660, et 1669, 12mo. ; et 4to. ibid. 1668, Latine ; et 8vo. 1651, Anglice; et 8vo. 1649, Gallice.
+
+De Mirabilibus Pecci, 8vo. Lond. 1686; et 4to. ibid. 1666, ibid. 1675, Lat.
+
+De Natura Hominis, Lond. 1650, et 1651, 12mo. Angl.
+
+De Corpore Politico, sive Elementa Juris l2mo. Lond. 1650, Anglice; et 12mo. Amstel. 1658, Gallice.
+
+Leviathan, sive de Republica, fol. Lond. 1651, 1680, Angl et 4to. Amstel. 1668, Lat.; 8vo. ibid. 1667; et 4to. ibid. 1678, Belgice.
+
+VOL. I. f£ [p. lxvi] Appendix ad Leviathanem, 4to. Amst. 1668, Latine.
+
+Elem. Philosophim Sectio prima de Corpore, 8vo. Lond. 1655, Lat. et 4to. ibid. 1656, Angl. et 4to. Amst. 1668; Lat.
+
+Praelectiones Sex ad Professores Savilianos, 4to. Lond. 1656.
+
+Characteres sive Indieia absurda Geometric &c. Doctoris Wallis, 8vo. Lond. 1657 ; Angl.
+
+De Homine, sive Elementorum Philosophie Sectio Secunda, 4to. Lond. 1657, et 4to. Amstel. 1668; Lat.
+
+Quaestiones de Libertate, Necessitate et Casu, contra Doctorem Bramhallum, Episc. Derriensem, 4to. Lond. 1656; Angl.
+
+De Principiis et Ratiocinatione Geometrarum, 4to. Lond. 1606, et Amst. 1668; Lat.
+
+Dialogus Physicus, sive de Natura Aeris, 4to. Lond. 1061, et 4to, Amst. 1668; Lat.
+
+De Duplicatione Cubi, 4to. Lond. 1661, et Amst. 1668, Lat.
+
+Problemate Physica, una cum Magnitudine Circuli, 4to. Lond. 1662, et 4to. Amst. 1668; Lat.
+
+Examinatio et Emendatio Mathematice Hodierne, sex Dialogis, 4to. Lond. 1660, et 4to. Amst. 1668; Lat.
+
+Quadratura Circuli, Cubatio Sphere, Duplicatio Cubi ; una cum Responsione ad Objectiones Geometrig Professoris Saviliani, Oxoniz editas, anno 1669, 4to. Lond. 1669; Lat. Omnia Magno Principi Etrurie Cosmo Mediceo dicata.
+
+Rosetum Geometricum, sive Propositiones aliquot frustra antebac tentate, cum Censura brevi Doctrine Wallisiang de Motu, 4to. Lond. 1671; Lat.
+
+Rescripta tria ad Regiam Societatem contra Doctorem Wallis, 4to. Lond. 1671; Angl.
+
+Principia et Problemata aliquot geometrica ante desperata, nunc breviter explicataet demonstrata, 4to. Lond. 1672et 1674.
+
+[p. lxvii] VITE HOBBIANX AUCTARIUM. lxvi
+
+EJUSDEM CATALOGI SUPPLEMENTUM.
+
+Thucydides e Grieco Anglice versus, fol. Lond. 1628, 1684, et 1676, et ssepius.
+
+Objectiones in Certesii de prima Philosophia Meditationes (vulgo audiunt objectiones tertig) cum iisdem Cartesii Meditationibus, Parisiis et Amstelodami sepius edite.
+
+Tractatus Opticus, in quo ex propriis hypothesibus Refractiones prosequitur, quem Cogitatis suis Physicomathematicis (4to. Paris, 1644 editis) in Optic sum. Complementum inseruit M. Mersennus; qui ipsum ibi Virum Nobilem et Subtilissimum Philosophum appellat.
+
+Epistolae ad Cartesium nonnulle, quas tom. iii. Epistolarum Cartesii videre est.
+
+Responsum ad Epistolam Gul. Davenant, Eq. Aurat. de Poeseae, Heroice presertim, Natura, 12mo. Paris, 1650, Anglice, et sepius cum Gondibertiade.
+
+De Libertate et Necessitate, 12mo. Lond. 1654; Angl.
+
+Lux Mathematica, 4to. Lond. 1672; Lat.
+
+Ulyssis Itinera, sive Odyssesr Homerica: libri x—xrt. versibus Anglicanis, 8vo. Lond. 1674.
+
+Epistola ad Ant: a Wood, 1674; Lat. folio unico.
+
+Homeri Ilias et Odyssea Anglicano Carmine express, una cum Praefatione de Virtutibus Heroici Poematis, 8vo. Lond. 1675, et 1677, et 1686.
+
+Litera ad Gulielmum | Novi-Castri Ducem de Controversia eirca Libertatem et Necessitatem habita cum Benj. Laney, Epistopo Eliensi, 12mo. Lond. 1676.
+
+De Mirabilibus Pecci liber, Angl. et Lat. 8vo. Lond. 1678.
+
+Decameron Physiologicum, sive Dialogi decem de Philo-
+
+£2
+
+[p. lxviii] Ixviii VITA HOBBIANX. AUCTARIUM.
+
+sophia Naturali ; cui adjecta est Ratio Linee Recte ad arcum Quadrantis dimidium, 8vo. Lond. 1678; Angl.
+
+Considerationes de Fama, de Fidelitate in Regem, Moribus et Religione T. Hobbes Malmesburiensis, 4to. Lond. 1662, et vo. ib. 1672 et 1680 ; Angl.
+
+De Bello Civili Anglicano, ab anno 1640 ad 1660, Dialogus, Svo. 1679. Qui ipso inconsulto prodiit. In MSS. emendatior habetur.
+
+Vita Ejus Latino Cormine, 4to. Lond. 1679, 8vo. ibid. 1681, et 4to. Amst. 1682. Eadem, Angl. fol. Lond. 1680.
+
+Narratio Historica de Hseresi, ejusque Poena, fol. 1680; et vo. 1682, Angl.
+
+Epistola prefixa Principi Anglicane Hon. Ed. Howard, Edit. 8vo. 1669; Angl.
+
+Dicitur etiam edidisse Compendium Rhetoricze Aristotelicz, et Logicm Rame, circa annum 1662; nomine suo non apposito. [Editum 12mo. Lond. s. a. et 8vo. ibid. 1681.]
+
+Problemata Philosophica Septem, et Propositiones Geometrice Duee, 8vo. Lond, 1682, Angl.
+
+IN SCHEDIS MSS. ASSERVANTUR.
+
+Dislogus inter Philosophum et Juris Anglicani studiosum ; Angl [Edit. 8vo. Lond. 1681.]
+
+Historia Ecclesiastica Romana, Poema supra bis mille Versibus constans, ubi de Superstitionis Origine, progressu &c. [Post Mortem Auctoris edita est 8vo. Aug. Trin. (Lond.) 1688, Latine: Versio Anglicana, 8vo. ibid. 1799.]
+
+Defensio Leviathanis adversus Librum D. Bramhalli cui Titulus Captura Leviathanis. [Edit. 8vo. Lond. 1682, Angl.
+
+Et alia nonnulla.
+
+P
+
+[p. lxix] VIT HOBBIANAE AUCTARIUM. lxix
+
+TRACTATUUM CONTRA HOBBIUM EDITORUM SYLLABUS.
+
+Jo. Wallisii S. T. P. in Academia Oxoniensi Geometriz Professoris Saviliani Elenchus Geometrie Hobbians, 8vo. Oxon. 1655; Lat.
+
+Ejusdem, debita Correctio Tho. Hobbes, Responsi vice ad Lectiones ejus in Matheseas Professores directas, 8vo. Oxon. 1656; Angl.
+
+Ejusdem, Hobbiani Puncti Dispunctio, ubi respondetur Libro ejus dicto ZTITMAI, 8vo. Oxon. 1657 ; Angl.
+
+Ejusdem, Hobbius Heautontimorumenos, sive contra Dialogos ejus Physicos Dissertatio, 8vo. Oxon. 1662 ; Angl.
+
+Ejusd. Hobbiane Quadraturz Circuli, Cubationis Sphserz, et Duplicationis Cubi, confutatio, 4to. Oxon. 1669; Lat.
+
+Ejusdem, T. Hobbii Quadratura Circuli, Cubatio Sphere, Duplicatio Cubi (secundo edita) denuo refutata, 4to. Oxon. 1669; Lat.
+
+Alexandri Rosszi Abredonensis Animadversiones in Hobbii -Leviathanem, 8vo. 1658; Angl.
+
+Gulielmi Morani Animadversiones in Elementorum Philosophis Sectionem primam quz est de Corpore, editam a T. Hobbes Anglo Malmesburiensi, 8vo. Bruxellis, 1655. Huic Tractatui etiam inserte sunt Andres Tacquet, S. J. Animadversiones in Libri ejus partem que» Mathematica est.
+
+Sethi Wardi, S. T. D. in Academia Oxon. Astronomie Professoris Saviliani, in "Tho. Hobbii Philosophiam Exercitatio Epistolica, cum Appendicula Responsoria ad Calumnias Hobbii in Authorem congestas, 8vo. Oxon. 1656; Lat.
+
+Jo. Bramhalli, S. T. D. Episcopi Derriensis, Defensio vere [p. lxx] Libertatis Actionum Humanarum ab antecedenti et extrinseca Necessitate, responsi loco ad Librum T. Hobbes Malmesburiensis super eodem Argumento, 8vo. Lond. 1665; Angl. et fol. Dublin, 1677.
+
+Ejusdem, Castigationes ultimarum Hobbii Animadversionum de Libertate et Necessitate, cum Appendice cui Titulus Captura Leviathanis, 8vo. Lond. 1658, et fol. Dublin, 1677; Angl.
+
+Idem etiam scripsit Sexaginta Objectiones in Librum Hobbii De Cive, in materia partim Theologica, partim Philosophica, quas Hobbio transmisit, quee tamen editae non sunt.
+
+Gul. Pike, Christophili, Observationes in duo priora capita Leviathanis T. Hobbii, 8vo. Lond. 1658; Angl. Verus author est Gul. Lucy, S. T. D., postea Episcopus Menevensis.
+
+Ejusdem Confutatio Errorum in Cap. xii. xiii, xiv. Leviathanis, 12mo. Lond. 1657, Angl.
+
+Ejusdem, Observationes, Censuree, Confutationes variorum. Errorum in Zeviathane, 4to.'Lond. 1668 ; Angl.
+
+Ejusdem, Observationum pars altera, 4to. Lond. 1678; Angl.
+
+Hon. Rob. Boyle, Examen Dialogi Physici Tho. Hobbes, quatenus respicit Librum ejus de Novis Experimentis circa
+
+- Aerem, cum Appendice de Doctrina Hobbiana de Fluiditate et Firmitate, 4to. Lond. 1662; Angl.
+
+Ejusdem, Dissertatio de Vacuo contra Hobbium, 8vo. Lond. 1674, Angl, et 12mo. Oxon. 1676, Lat. inter alia opuscula.
+
+Rob. Filmer, Eq. Aurat. Observationes de Origine Dominii, contra Hobbium, Miltonum, Grotium, etc. 4to. Lond. 1652; 8vo. ib. 1653, et 8vo. ib. 1679; Angl.
+
+[p. lxxi] c^
+
+VITA HOBBIANAX AUCTARIUM. lxxi
+
+Georgii Lawson, Parochi de More in Comit. Salop. Examen Pertis Politice Leviathanis Hobbiani, 8vo. Lond. 1657; Angl.
+
+Rob. Sharrock Nov. Colleg. Oxon. Soc. LL.D. De Finibus et Officiis secundum Nature Jus, unde Casus omnes Conscientis, quatenus notiones a Natura suppetunt, judicari posint; Ethnicorum simul et Jure, praxertim, Civili, Consultorum consensus ostenditur, principia item et rationes Hobbesi Malmesburiensis ad Ethicam et Politicam spectantes, quatenus huic Hypothesi contradicere videantur, in examen veniunt, 8vo. Oxon. 1660; et ibid. 1682, Lat.
+
+Gisberti Cocquii, A. et Pbil. Doct. Vindiciae pro Lege et Imperio, sive Dissertationes dus, quarum una est de Lege in communi, altera de exemptione Principis a Lege, institutee potissimum contra Tractatum Hobbii de Cive; accessit Gisb. Voetii Disquisitio Textualis ad 1 Sam. viii. De Jure Regio Hebrsorum, 12mo. Ultrajecti, 1661.
+
+Ejusdem, Hobbes EAETXOMENOZ, sive Vindicie pro Lege, Imperio, et Religione, contra Tractatus Thome Hobesii, quibus Tit. De Cive et Leviathan, 12mo. Ultraj. 1068.
+
+Ejusdem, Vindicim pro Religione in Regno Dei Naturali, contra Hobbes De Cive, cap. 15; Leviathan, cap. 81. Ibid. 1668, 12mo.
+
+Ejusdem, Hobbesianismi Anatome, qua innumeris Assertionibus ex Tractatibus De Homine, Cive, et Leviathan, juxta seriem locorum Theologie Christiane, Philosophi illius a Religione Christiana Apostasia demonstratur et refutatur, 8vo, Ultrajecti, 1680 et 1688.
+
+"Tho. Tenison, Cantabrig. S. T D. Symbolum Fidei Hobbianze
+
+[p. lxxii] Ixxii VITE HOBBIANA AUCTARIUM.
+
+examinatum, ficto inter ipsum et Theologis studiosum Colloquio, 8vo. Lond. 1670, et 1671; Angl.
+
+Rich. Cumberland, Cantabrig. S. T. D. de Legibus Nature Disquisitio Philosophica, contra Hobbium instituta, 4to. Lond. 1672 ; et Francof. 1683, Lat.
+
+Jo. Templer, S. T. D. Cantabrig. Idea Theologie Leviathanis, in qua proponuntur, 1. Leviathanis Dogmata ; 2. Dogmatum defensio ab authore; 8. Defensionis examen; 8vo. Cantab. 1678; Lat.
+
+Jo. Eachard, Cantabrig. S. T. D. Dialogus inter Timotheum et Philautum, in quo Dogmata Hobbiana sugillat, 8vo. Lond. 1672 ; et ibid. 1696, Angl.
+
+Ejusdem Dialogus secündus inter easdem personas, 8vo. Lond. 1673; Angl.
+
+Ed. Hide, Clarendonie Comitis, Brevis Conspectus Errorum Ecclesim et Civili Regimini perniciosorum, qui continentur in Leviathane (T. Hobbii, 8vo. Lond. 1674, et 4to. Oxon. 1676; Angl.
+
+J. Shafto, Magna Nature Lex sui ipsius conservandi examinata, asserta et vindicata contra Abusus illi suppositos a T. Hobbes Malmesburiensi, 8vo. Lond. 1678; Angl.
+
+Gul. Howell, Parochi de Fittleworth in Comitat. Sussex, Spiritus Prophetis, contra Hobbii Leviathanem, et Tractatum Anonymum de Humana Ratione, 8vo. Lond. 1679 ; Angl.
+
+Behemoth Arraniatus, sive Vindicie Juris Privati contra Libellum Fanaticum cui titulus Behemoth, sive Historia Belli Civilis Anglicani, ab anno 1640 ad 1660, sub nomine T. Hobbes Malmesburiensis, in lucem edita, Authore J. Whitehall, de Interiori Templo, J. C., 8vo. 1679. Lond. Angl.
+
+[p. lxxiii] VITE HOBBIANX AUCTARIUM: Ixxiii
+
+EORUM QUI IN SCRIPTIS SUIS HOBBIO CONTRA. DIXERUNT INDICULUS.
+
+Sethus Wardus, S. T.D. Praefat. ad Tentamen de Dei Ezistentia et Animes Immortalitate demonstranda, 12mo. Oxon. 1659, et sepius; Angl.
+
+Idem, in indiciis Academiarum contra Websteri Academiarum Examen Institutis (4to. Oxon. 1664; Angl.) adversus Hobbium insurgit, et inter alia. plagii dicam ipei impingit, ac si suam de sensatione hypothesin ex Werneri, celebris mathematici nostratis, schedis suppilasset.
+
+Jo. Franc. Le Grand in Dissertationibus Philosophicis et Criticis, 4to. Paris. 1657, p. 27, ubi eum, Illustrem hujus ei scriptorem vocat.
+
+Rob. Sharrock, LL. D. Libro de Finibus Virtutis Christianz, 4to. Lond. 1678, p. 111, 117, 118; Angl.
+
+Hen. Morus, S. T. D. Cantab. Libro de Immortalitate Anima, folio, Lond. 1662, et 8vo. ib. Angl. Et inter Op. Philosoph. Lat. fol. Lond. 1679, tom. ii p.$11. Lib. l,cap. x, x. opinionem ejus de Substantüis incorporeis impugnat. Item lib. ii. cap 1. et 11. p. 227, hypothesin ejus de Sensatione, quam ponit in reaction unius partis materis contra alteram, aut saltem in ejus motus continuatione. Ft lib. ii. cap. 1t. p. 387, 838, 839, dogma ejus de Actionum Humanarum Necessitate, Item in Enchiridio Metaphysico, 4to. Cant. 1671, et tom. i. Operum Philos. fol. Lond. 1679, cap. u. sect. 9, 10, 11, sententiam ejus, de Gravitate; et cap. xxv. sect. 2, de Sensatione, Passim tamen Ingenium ipsi non vulgare adscribit.
+
+Samuel Rachelius, JCtus, et in Holsatorum Academia,
+
+[p. lxxiv] Ixxiv VITA HOBBIANJE AUCTARIUM.
+
+quie Kiloni est, Antecessor, libro de Jure Nature et Gentium, 4to. Kiloni, 1676, a p. 102 ad p. 117 in Hobbium acriter animadvertit. Item a p. 806 ad 811 adversus ipsum disputat.
+
+Jacobus Harrington in Oceana, fol. Lond. 1656; Angl. in Politicam Hobbianam sepius insurgit.
+
+Rad. Cudworth, S. T. D. Cantab. in Systemate Universi Intellectuali, folio, Lond. 1678, Ang. philosophiam Hobbianam refutare conatur, licet Hobbii (quod sciam) expresse non meminerit.
+
+Jo. Vesey, Lymericensis Episcopus, in Fita Bramhalli, operibus ejus prafixa, Hobbium vehementius perstringit.
+
+Jo. Adamus Osiander, theologus Tubingensis Tractatu de Typo Legis Nature», 4to. Tubing. 1660, et 1669, in Hobbium acerbius invehitur.
+
+Regner a Mansvelt, Philos. Profess. in Acad. Ultraject. Tractatu adversus Anonymum Theologo-Politicum (B. Spinosam) 4to. Ultreject. 1674, per adversarii latus Hobbium petit.
+
+R. Baxterus, theologus, in scriptis suis Hobbio contradicit.
+
+Sam. Parkerus, S. T. D. Archidiaconus Cantuariensis, &c. libro cui titulus, Disputationes de Deo et Providentia Divina, 4to. Lond. 1678, acrem admodum adversus Hobbium censuram exercet.
+
+Idem, in Praefat. p. 12 et 18, eum, tanquam cum Vanino et Epicuro, impietatis socium insimulat.
+
+ldem, libri p. 86, sect. 27, adstruere contendit, quod eadem est Hobbii qua Epicuri impietas, qui cum sua axiomata. in religionis ruinam invenerat, inanibus distinctiunculis eorum impietatem excusare putat; et primum eo quod nihil se mo- vere possit, nullum esse numen.
+
+[p. lxxv] *
+
+YITE HOBBIANJE AUCTARIUM. lxxv
+
+Idem, sect, 28. Hobbium nihil demonstrare, sed quicquid demonstrare jactat, inepte et impudenter arripuisse, cumque nullam esse religionem velit, nisi qua jusserit civitas, omnem sustulit.
+
+ldem, sect. 29. Hobbius Deum esse aperte negat, cum eum nec corporeum nec incorporeum esse demonstrat.
+
+Idem, sect, 80. Philosophia civili omnes leges divinas aperte tollit, quod cum fecerit, quam male sententiam suam de naturee statu probet, quamque obtuse illius impietatem excuset,
+
+Idem, sect. 81. Ab iisdem principiis contraria demonstrat ; nihil novi in philosophia civili attulit, nisi quod impium sit et absurdum,
+
+Sic pontificio quasi fulmine percussus occumbit Hobbius: fati tamen solatium invenit, ab eadem manu hec passus, cui Aristoteles aliique veteris philosophise principes indignis modis vapulant, nec seuticam effugit Cartesius, qui ipsi (p. 847) e ludo et pueritize disciplina noviter ad philosophiam profectus videtur.
+
+Idem Author, Prefat. ad Politeiam Ecclesiasticam, 8vo. Lond. 1669, et 1670, Angl. in Hobbium ejusque sequaces invehitur, tanquam omnis impietatis et flagitiorum reos: licet interim nonnullis, ipse super principiis Hobbianis politeias su: fundamenta posuisse videatur.
+
+Jo. Wallisius nonnulla contra Hobbium scripta Actis Philosophicis H. Oldenburgii inseruit.
+
+Robervallius, Math. Prof. Parisiis, et Fr. Schotenius, Math. Prof. Leydm, scriptis Epistolis Mathematicam Hobbianam improbasse dicuntur.
+
+Rob. quidam Parsonus, Capellanus (ut vocant) &c. in concione
+
+[p. lxxvi] Ixxvi VITE HOBBIAN X AUCTARIUM.
+
+funebri ad exequias Joannis Comitis Roffensis, quam. emisit Theatrum Oxoniense, anno 1680, hec refert: Comitem in extremis dixisse, * Stultam illam et absurdam Philosophiam, quam tantopere admiratur mundus, authoribus Hobbio aliisque, se aliosque optime indolis de gente nostra pessum dedisse." 4n mali mores genuina sint Philosophizs Hobliane corollaria, statuat sequue rerum judez.
+
+Jos. Glanvil, Parochus Bathoniensis, in Scepsi Scientifica, 4to. Lond. 1665, Angl.; et Philosophia Pia, 8vo. Lond. 1671, Anglice, in Philosophiam Hobbianam animadvertit.
+
+QUI HOBBII MEMINERUNT, SEU IN BONAM SEU IN SEQUIOREM PARTEM.
+
+Sam. Sorberius, MD. Praefat. in Opera Gassendi, folio, Lugd. 1657. '* Tho. Hobbius vir emunctze naris."
+
+ldem, ibid. * Thomas Hobbius Gassendo carissimus, cujus libellum De Corpore, manibus Pratei nostri, paucis ante obitum mensibus accipiens, osculatus est; subjungens, mole quidem parvus est iste liber, verum totus, ut opinor, medulla scatet."
+
+Idem, Lettres et Discours sur diverses matiéres. curieuses, 4to. Paris, 1660, de Hobbio, a pag. 212 ad 232, et p. 842, et a p. 396 ad 899, et p. 556, et p. 681, Epistola ad Hobbium.
+
+Idem. Feyage d'Angleterre, Colon. 12mo. 1666, (antea Paris. 1664,) p.5, Londinum adveniens, Hobbium veterem amicum honoris gratia primum invisit; p. 79, 80, 81, 82, de Hobbio, ubi Regem in Conclavi suo Iconem Hobbianam ipsi ostendisse narrat, Regem etiam facetiis Hobbianis delectari solitum. Quedam tamen ibi minus quam pro reverentia
+
+[p. lxxvii] VITE HOBBIANJE AUCTARIUM. lxxvii veteri amicitig debita effutire videtur ; (reprehensus a T. Sprat in Observat. in illud iter, 8vo. Lond. 1665; Angl) Miseretur etiam ejus heresi laborantis, et vere hierarchis ignari, nihilominus dogmata sua ad sectarios restringendos, et pacem publicam procurandam utilissima profitetur, ldem, p. 90. Leodii degens controversiam suscitavit inter Hobbium et Renatum Franciscum Slusium, Sancti Lamberti apud Leodienses Canonicum, Mathematieum celebrem, de Cubi duplicatura, quam ex suis principiis demonstratam Hobbius pre se tulit: Slusius autem primo intuitu Paralogismum deprehendisse visus est. — Seripta illa àpofaía se aliquando in lucem editurum pollicetur, una cum Fermatii et. Carcavii de eodem argumento cogitatis. Idem. p. 186, 187, 188, nova Hobbii Principia Geometrise exponit.
+
+Sam. Puffendorf, in Elementis Jurisprudentise Universalis, 8vo. Hagze Comitis, 1660, Pre»fat. sic: ** Nec parum debere nos profitemur Thome: Hobbes, cujus hypothesis in libro De Cive, etsi quid profani sapiat, tamen csetera satis arguta et. sana."
+
+Idem, Lib. de Jure Nature et Gentium, 4to. Londini. Scanorum, 1672, sententiam Hobbianam in multis sectatur.
+
+Renatus Rapinus, Soc. Jes. Philosophus et Criticus summus, libro Gallico, cui titulus, Reffezions sur la Philosophie Ancienne et Moderne, (12mo. Paris, 1676) Hobbii sepe meminit; eujus verba judicii et acuminis sale condita proprio sermone exponere non pigebit. P. 54: * De tous les Philosophes modernes, ceux qui ont fait plus de bruit, sont Galilée, Italien; Bacon, Hobbes, Boyle, Anglois; Des Cartes, Franqois; Van Helmont, Flamand? P. 55: * Hobbes est obscure
+
+[p. lxxviii] Ixxvii VITE HOBBIANX AUCTARIUM.
+
+sans agrément, singulier en ses idées; savant, mais peu solide, inconstant dans sa doctrine : car il est tantót Epicurien, tantót Peripaticien." P. 56: * Enfin, Galilée est le plus agréable des modernes, Bacon le plus subtil, Gassendi le plus savant, Hobbes le plus réveur, Boyle le plus curieux, Des Cartes le plus ingénieux, Van Helmont le plus naturaliste ; mais trop attaché à Paracelse" P.194: * Thomas Hobbes a fait paroitre un grand profondeur d'esprit, comme il est un des plus hardis Epicuriens des derniéres siàcles, et qu'il suit en tout les principes d'Epicure, sans rien menager: il a mal raisonné en tout ce que regarde l'entendement et ses opérations principales, dont il attribue le principe aux phantómes, et à l'imagination." P. 228: * Henricus Morus, dans sa Métaphysique, déclame contre la Physique de Des Cartes, qu'il vent faire passer pour libertine aussi bien que celle de Hobbes."
+
+Jo. Wallisius, Preefat. in Mathesin Universalem, et Pra-fat. in Tractatum. Elencticum adversus. Meibomii Dialogum de Proportionibus, (4to. Oxon. 1657,) de Hobbio castigando loquitur.
+
+Idem, in Tractatibus de Cycloide et Cissoide (4to. Oxon. 1659) demonstrationis Hobbians circa zqualitatem. linee parabolicee et spiralis meminit, p. 81, quam ut insufficientem improbaverat; quamvis propositio ipsa vera esset. Idem, p.106, ibid. de illius inventionis laude inter Hobbium et Robervallium controversa itidem meminit.
+
+Matth. Wren, Celsitudini Sus Regim, Eboracensi Duci aliquando e Secretis, in Monarchia asserta adversus Harringtoni Oceanam, 8vo. Ox. 1660 ; Angl. p. 16, Hobbii meminit.
+
+[p. lxxix] VITA HOBBIANJE AUCTARIUM. lxxix
+
+IN HOBBII DEFENSIONEM.
+
+Unicum solummodo reperio seriptum, idque anonymum, hune pre se ferens titulum: Dissertatio de Principiis Justi et Decori, continens Apologiam pro Tractatu Clarissimi Hobbii De Cive, 12mo. Amstel. 1651.
+
+Tanto itaque adversariorum agmini ex opposito solus sistitur Hobbius, ^ Parque novum Fortuna videt concurrere bellum Atque virum." LucANUs.
+
+Quod sane alicui novum et insolitum merito videri possit ; presertim cum inter literatos vix quicquam tam absurdi fuerit, quin suos invenerit assertores. Hoc tamen, si conjecture locus sit, exinde forsan provenire potuit ; quia, ut philosophia Hobbiana tanquam paulum quid paradoxa multos nacta sit oppugmatores, ita, nativa veritate defensa, paucis opus habuerit vindiciis; an vix repertus est quisquam suis adeo confisus viribus, qui seipsum suppetiis tanto homini ferendis habilem senserit; aut discipuli, de doctrina ejus certitudine persuasi, magnum O«wzasieráre senis ingenium religioso cum silentio venerantes, ipso in vivis agente nullum alium philosophi Hobbianee vindicem esse oportere judicarint.
+
+Exorientur olim, qui preclaram illam philosophiam justis commentariis illustrare contendent, quie in scholis et academiis recepta, quod haud vanis auguriis sibi promisit author, debitis honoribus potietur. Deprecamur interim Aristotelis infortunium, tanto interpretum exercitu oppressi, ut philosophiam suam frivolis commentis obscuratam vix agnosceret.
+
+[p. lxxx] Mibi autem dabitur, spero, venia, qui quod suscepi argumentum ingenii simul et eloquii tenuitate deterere haud injuria videar; quum mihi solummodo destinatum sit publico inservire, ne vel tantilla Hobbiang memorie monumenta, immenso temporis oceano absorpta, posteris subducerentur.
+
+De testamento autem Hobbiano monendum censui, ut de tanti philosophi opibus constaret, ipsum circa trecenti libras Anglicanas cognatis et ami s legasse ; quibos centum librarum mantissa accessit ex munificentia Gulielmi, illustrissimi Devonim Comitis.
+
+Epitaphium porro Hobbianum, ad me serius transmissum apponere volui.
+
+CONDITA HIC SUNT 088A THOMJ HOBBES MALMESBURIENSIS, QUI PER MULTOS ANNOS SERVIVIT DUOBUS DEVONLE COMITIBUS, PATRI ET FILIO;
+
+VIR PROBUS, ET FAMA ERUDITIONIS DOMI FORISQUE BENE COGNITUS.
+
+OBIIT ANNO DOMINI MDCLXXIX. MENSIS DECEMBRIS DIE IV.
+
+ETATIS SUE XCI.
+
+[p. lxxxi] VITA
+
+CARMINE EXPRESSA.
+
+AUTHORE SEIPSO.
+
+Felix qui potuit rerum cogaoscere causas,
+
+Atque metus orones et inexorabile Fatum.
+
+Subjecit pedibus, strepitumque Acherontis avari. VinorLit Georgica.
+
+ANNO MDCLXXXI.
+
+VOL. I.
+
+[p. lxxxii] [p. lxxxiii] LECTORI $.
+
+SxeQuxNs Poemation, ab Authore tantum animi relaxandi gratia confectum, nullo in publicum emittendi consilio, post excessum ejus in librarii manus incidit ; qui lucro suo addictior, (affectus iste inter hoc genus hominum grassatur vulgo) prout erat imperfectum, et mendis insuper deformatum, prelo subjecit. Quamvis autem ad Hobbiani ingenii laudem vix assurgat; quia tamen in publicum erupit jam irrevocabile, et multis etiam quicquid micam habet salis Hobbiani pergratum sit; idcirco, gravioribus quibus antea plurimum scatebat sphalmatis repurgatum, iterato damus.
+
+VALE.
+
+## [p. lxxxiv] [p. lxxxv] T. HOBBES
+
+VITA,
+
+SCRIPTA ANNO MDCLXXIL.
+
+Narus erat noster servator Homo-Deus annos Mille et quingentos, octo quoque undecies.
+
+Stabat et Hispanis in portubus inclyta classis Hostilis, nostro mox peritura mari :
+
+Primo vere; dies et quintus inibat Aprilis: Illo vermiculus tempore nascor ego,
+
+Int Malmesburia; baptisma a patre ministro Accepi, et nomen mi dedit ille suum.
+
+Oppidulum parvum est, habuit sed multa relatu Digna, atque imprimis ccenobium celebre,
+
+'Et castrum, melius nisi sint duo castra vocanda, Colle sita, et bino flumine cincta fere.
+
+Concilium regni binis burgensibus auget ; Nunc quoque priscus honor permanet ille loci.
+
+Hic et$ Athelstani conduntur nobilis ossa, Atque super tumulum saxeus ipse jacet.
+
+* Vide Camdeni Britawmiam. 1 Vide G. Dugdale Monast, Angl. vol. i. p. 49. 4. Vide e eo Guil. Malmesburienaem, et Mattb. Westrnonasteriensem,
+
+[p. lxxxvi] Ixxxvi VITA THO. HOBBES.
+
+Premia virtutis populo dedit ille, propinquos Sanguine Danorum qui madefecit agros :
+
+Huc et ab Aldhelmot deducta est musa Latina, Hic habuit primam lingua Latina scholam.
+
+Non est ut patrize pudeat; sed tempus iniquum Conqueror, et mecum tot quoque nata mala.
+
+Fama ferebat enim diffusa per oppida nostra, Extremum genti classe venire diem.
+
+———7» Atque metum tantum concepit tunc mea mater,
+
+Ut pareret geminos, meque metumque simul.
+
+Hinc est, ut credo, patrios quod abominor hostes, Pacem amo cum musis, et faciles socios.
+
+Disco loqui quatuor, totidem legere, et numerare, Non bene praeterea fingere literulas.
+
+Sex annis ad verba steti Grece atque Latine, Et decimo quarto mittor ad Oxonium.
+
+Huc Megdalenz veniens admittor in aulam, Inque ima logicae classe locatus eram.
+
+Et praelectori cum primis sedulus adsum ; Is licet imberbis cum gravitate legit,
+
+Barbara, celarent, darii, ferio, baralypton, Hos, dicebat, habet prima figura modos.
+
+Caare, camestres, festino, baroco, darapti, Hac etiam totidem stat variata modis.
+
+Felapton, disamis, datisi, bocardo, ferison, Sunt rursus totidem legitimique modi.
+
+f Vide deipso Bedm Hist. Ecclesiasticam ; Gul. Malmesburiensem ; Matth. Westmonasterienser; Baronii Ammales; Dalmum ot Piuum de Script. Anglicis; Fr. Godwin de Presul. mgl. ei alios cmitiam. Obiit anno 709, nonnulla ejus opuscula habentur in Bibliotheca Pairum et apud. Henr, Caniaium in Anlig. Lect tom. v.
+
+[p. lxxxvii] VITA THO. HOBBES. Ixxxvii Quos tarde disco, disco tamen, abjicioque, Admittorque meo quique probare modo, Admoveor physice, conflataque cuncta magister Materia et forma, ut partibus, esse. docet; Et species rerum, volitando per aera, formas Donare hinc oculis, auribus inde sonos, Multos effectus tribuit ays et astipathie, Et supra captum talia multa meum. Ergo ad amamna magis me verto, librosque revolvo, Queis prius instructus, non bene doctus eram. Pascebamque animum chartis imitantibus orbem, Telluris faciem, et sydera picta videns : Gaudebam soli comes ire, et cernere cunctis Terricolis justos qua facit arte dies. Quoque Dracus filo Neptunum, Candisiusque Cinxerunt medium ; queque adiere loca : Atque hominum exiguos, si possem, cernere nidos, Et picta ignotis monstra videre locis. "Tempore sed justo cum Baccalaureus Artis Essem (namque hic est primus in arte gradus) Oxonium linquo, servitum me fero in amplam Gentis Candisise conspicuamque domum ; Rectorisque aule commendat Epistola nostre : Accipior, placita conditione steti : Atque adolescenti mox applicor ipse adolescens : Tunc patris imperio subditus ille fuit. Huic ego servivi bis denos gnaviter annos ; Non Dominus tantum, verum et amicus erat.
+
+[p. lxxxviii] Ixxxviii VITA THO. HOBBES.
+
+Pars erat illa meo rhulto dulcissima vitze, Et nunc sepe mihi somnia grata facit.
+
+Ille per hoc tempus mihi praebuit otia, libros Omnimodos studiis prebuit ille meis.
+
+Vertor ego ad nostras, ad Greecas, átque Latinas Historias ; etiam carmina sepe lego.
+
+Flaccus, Virgilius, fuit et mihi notus Homerus, Euripides, Sophocles, Plautus, Aristophanes,
+
+Pluresque; et multi Scriptores Historiarum : Sed mihi pra» reliquis Thucydides placuit.
+
+Is Democratia ostendit mihi quam sit inepta, Et quantum coetu plus.sapit unus homo.
+
+Hunc ego scriptorem verti, qui diceret Anglis, Consultaturi rhetoras ut fugerent.
+
+Urbes externas eadem per tempora vidi, Germanas, Francas, Ausoniasque adii.
+
+Mox Dominum morbo devictum vita reliquit, Extremo (ut credas) sed reditura die.
+
+Ante tamen fecit mibi ne servire necesse Eeset, qui modice vivere suetus eram.
+
+Deinde domo placita nimium neglectus abivi, Parisiisque moror mensibus octodecim.
+
+Inde mei Domini revocor preceptor ut essem Nato; Devonie tunc Comes ille fuit.
+
+Hunc Romanarum sensus cognoscere vocum ; Jungere quoque decet verba Latina modo ;
+
+Fallere quaque solent indoctos rhetores arte ; Quid facit orator, quidque poeta facit ;
+
+[p. lxxxix] VITA THO. HOBBES. lxxxix.
+
+Et demonstrandi docui precepta, globique Mundani faciem, multiplicesque gyros.
+
+Litibus et finem, faciunt quas plus, minus, et par, Qua posset justa ponere lege dedi.
+
+Hoe illum docui per septem sedulus annos ; Ille celer didicit, retinuitque memor.
+
+Nec tamen hoe tempus libris consumpsimus omne, Ni mundum libri dixeris esse loco.
+
+Ttalize multas, Gallorum et vidimus urbes ; Secessus dulces vidimus Allobrogum.
+
+Ast ego perpetuo naturam cogito rerum, Seu rate, seu curru, sive ferebar equo.
+
+Et mibi visa quidem est toto res unica mundo Vera, licet multis falsificata modis:
+
+Unica vera quidem, sed quz sit basis earum Rerum, quas falso dicimus esse aliquid ;
+
+Qualia somnus habet fugitiva, et qualia vitris Arbitrio possum multiplicare meo ;
+
+Phantasie, nostri soboles cerebri, nihil extra ; Partibus internis nil nisi motus inest.
+
+Hinc est quod, physicam quisquis vult discere, motus Quid possit, debet perdidicisse prius.
+
+Ergo materie motusque arcana recludo ; Sic tempus vacuum fallo per Italiam.
+
+Scribo nihil, facio adversaria nulla, magistra Quae docuit, presens nam mihi semper erat.
+
+Linquimus Italiam, rursusque redimus ad alta Mania Lutetise, tectaque magnifica.
+
+[p. xc] Hic ego Mersennum novi, communico et illi De rerum motu qua meditatus eram. Is probat, et multis commendat ; tempore ab illo Inter philosophos et numerabar ego. In patriam rursus post menses octo reversus, De connectendis cogito notitiis. Motibus a variis feror ad rerum variarum. Dissimiles species, materissque dolos ; Motusque internos hominum, cordisque latebras : Denique ad imperii justitieque bona. His ego me mersi studiis, Nam philosophandi Corpus, Homo, Civis continet omne genus. "Tres super his rebus statuo conscribere libros ; Materiemque mihi congero quoque die. Nascitur interea scelus execrabile belli, Et veniunt studiis tempora iniqua meis. Sexcentesimus et jam quadragesimus annus Post millesimum erat virginis a puero, Cum patriam invasit morbus mirabilis, unde Innumeri e doctis post periere viri. Quo quicunque fuit tactus, divina putabat Atque humana uni cognita jura sibi. Jamque in procinctu bellum stetit. Horreo spectans; Meque ad dilectam confero Lutetiam. Postque duos annos edo De Cive libellum, Qui placuit doctis, et novus omnis erat ; Versus et in varias linguas cum laude legebar, Gentibus et late nomine notus eram.
+
+[p. xci] Laudabet mediis in Erynnibus Anglia, et illi Quorum consiliis cognitus hostis eram
+
+Sed quod consiliis presentibus utile non est, Quantwmvis justum, quis putat esse bonum *
+
+Inde annis quatuor libri De Corpore formam, Qua sit scribendus, nocte dieque puto.
+
+Comparo corporeas moles; et cogito rerum Visarum formas quid variare potest.
+
+Quero quibus possim rationis Protea vinalis Stringere, fassurum qua tegit arte dolos.
+
+Adfuit e Minimis Mersennus, fidus amicus ; Vir doctus, sapiens, eximieque bonus.
+
+Cujus cella scholis erat omnibus anteferenda ; Professorum omnes ambitione tument,
+
+Illi portabat, si dignum forte porisma Reppererat quisquam, prineipiumve novum.
+
+Perspicuo et proprio sermone, carente figuris Rhetoricis, gnomis, ambitione, dolo,
+
+Ille dedit doctis, qui vellent, rursus ut illud Vel statim possent, vel trutinare domi.
+
+Edidit e multisque inventis optima quaeque ; Signans authoris nomine quidque sui.
+
+Circa Mersennum convertebatur ut axem. Unumquodque artis sidus in orbe suo.
+
+Sevierat bellum quatuor civile per annos, Anglos, Hibernos triverat atque Scotos.
+
+Perfidaque in castris mansit Fortuna scelestis : Diffugere via qua potuere probi.
+
+[p. xcii] Ipse heeres regni Carolus, comitante caterva Armis clarorum et nobilitate virum,
+
+Lutetiam venit, expectans dum tempora iniqua TTransirent, populf desineretque furor.
+
+Tunc ego decreram De Corpore scribere librum, Cujus materies tota parata fuit.
+
+Sed cogor differre; pati tot tantaque feda Apponi jussis crimina, nolo, Dei.
+
+Divinas statuo quam primum absolvere leges; Idque ago paulatim, sollicitusque diu.
+
+Namque mathematice studiis dum Principi adessem, Non potui studiis semper adesse meis.
+
+Dein per sex menses morbo decumbo, propinquae Accinctus morti ; nec fugio, illa fugit.
+
+Perfeci librum patrio sermone; ut ab Anglis Posset seepe meis, utiliterque legi :
+
+Londinoque typis celer evolat in regiones Vicinas, notus nomine Leviathan.
+
+Militat ille liber nunc regibus omnibus, et qui Nomine sub quovis regia jura tenent.
+
+Interea regem vendit Scotus, et necat Anglus; Jus regni Carolus jamque Secundus habet,
+
+Lutetim residens, — Vim regni turba rebellis Occupat, et populum jam sine lege regit,
+
+Et nomen (quamvis pauci) sibi Parliamenti Sumens, se satiat sanguine nobilium ;
+
+Dejiciunt mitras, nec firmant Presbyteratum ; Clerica nil illie profuit ambitio.
+
+[p. xciii] VITA THO. HORBBES. xcii
+
+Lutetiam ad regem multus venit inde scholaris Expulsus patria, tristis, egenus, onus.
+
+Huc fuit usque meis studiis pax, multiplicata. Dum facerent annos octo per octo meos :
+
+Sed meus ille liber, simul atque scholaribus illis Lectus erat, Jani dissiluere fores.
+
+Nam Regi accusor falso, quasi facta probarem Impia Cromwelli, jus scelerique darem.
+
+Creditur ; adversis in partibus esse videbar ; Perpetuo jubeor Regis abesse domo.
+
+"Tunc venit in mentem mihi Dorislaus,] et Ascham ;t "Tanquam proscripto terror ubique aderat.
+
+Nec de rege queri licuit. Nam func adolescens Credidit ille, quibus credidit ante pater.
+
+In patriam redeo tutele non bene certus, Sed nullo potui tutior esse loco :
+
+Frigus erat, nix alta, senex ego, ventus acerbus ; Vexat equus sternax et salebrosa via.
+
+Londinum veniens, ne clam venisse viderer, Concilio Status conciliandus eram.
+
+Quo facto, statim summa cum pace recedo, Et sic me studiis applico, ut ante, meis.
+
+Solum regnabat tunc nomine Parliamentum ; Prexul erat nullus, Presbyterusque nihil.
+
+Omnia miles erat, committier omnia et uni Poscebat ; tacite Cromwell is unus erat.
+
+t Regicide infames; quorum hic apud Hispanos, ille apud Foxleratos Belges
+
+2 Parliamentariis legatus, a regiis confossi perierunt.
+
+[p. xciv] Regia conanti calamo defendere jura, Quis vitio vertat regia jura petens ?
+
+Seribere cuique fuit libertas, quod sibi visum Esset, contento vivere more loci.
+
+Leviathan clerum at totum mihi fecerat hostem ; Hostis Theologum nidus uterque fuit.
+
+Nam dum Papalis Regni contrecto tumorem, Hos, licet abecissos, ledere visus eram.
+
+Contra Leviathan, primo, convicia scribunt, Et causa, ut tanto plus legeretur, erant.
+
+Firmius inde stetit, spero stabitque per omne JEvum, defensus viribus ipse suis.
+
+Justitise mensura, atque ambitionis elenchus, Regum arx, pax populo, si doceatur, erit.
+
+Ante duos minima preemisi mole libellos ; Sed nec inest parvis gratia parva libris.
+
+Tllet docet motus animi et phantasmata sensus, Nec sanos patitur spectra timere viros:
+
+Alter t at Imperii sanctissima jura repandit, Qusque rudes populos vincula sacra tenent.
+
+Tandem etiam absolvo librum De Corpore, cujus Materies simul et forma geometrica est.
+
+Tunc venit in lucem, tota plaudente caterva Algebristarum, Wallisii algebrica,
+
+Illa Geometrie pestis, qua» cosperat ante Annos plus centum, nunc et ubique furit.
+
+4 Liber de Natura Humana, 1 Lib. de Corpore Politico.
+
+[p. xcv] VITA THO. HOBBES. xev
+
+Ars fuerat numeros queesitos inveniendi, Quam docuit Gbeber,t et quam Diophantust habet.
+
+Deinde per hanc artem solam problemata solvi Posse geometrise cuncta Vieta $ docet.
+
+Addidit Oxonis Preelector Savilianus. Wallisius multo nobile dogma magis:
+
+Nempe infinite molis finem esse, et habere Finitum partes et sine fine datas :
+
+Quse duo fecerunt insanos dogmata, quotquot Festinaverunt esse geornetrici.
+
+Hsec mihi causa satis ecribendi est justa libelli, (Annos natus eram septuaginta duos)
+
+In quo, Colloquiis ego Sex non molliter istos "Tengo geometras, ut meruere, novos;
+
+Sed nil profeci, magnis authoribus error Fultus erat; cessit sic medicina malo.
+
+Tune quoque scribo duos patrio sermone libellos Contra Bramhallum. | Qusestio sola fuit,
+
+Cujus ad arbitrium volumus, nostrumne, Deine : Tlle scholam sequitur, sed mihi dux ratio est.
+
+Sex quoque post paulo scripsi Problemata, librum Exiguum, at purs fonticulum physice.
+
+f De illo vide Josephi Blancani Chronologiam Mathematicam et J. Ger. Vossium De Scientiis Mathematicis.
+
+1 De illo vide eosdem. Oper» ejus Latine edidit Guil. Xylander, postes Claud, Gasp. Bachetus Grec. et Lat. Commentariis ornata, folio, Paris, 1621, Postea Tolosm prodierunt 1670. Omittam qua» a Raph. Bombellio, Sim. Stevino, Alb. Girardo, Gail. Oughtredo procnrata sunt.
+
+4 Deipso vide eosdem. Opera ejus junctim emisit Fr. Schotenius Math. Prof. Leyds, 1646, folio, ubi habetur ejus Vita. Vide etiam Thuani Historiam.
+
+[p. xcvi] Nam doceo natura locis qua dejicit arte Sublimes lapides, res aliasque graves ;
+
+Qua situla sol haurit aquas ; ut frigora ventus Efficit; et venti qua ratione volant :
+
+Quo pendent steriles, volitantque per aera nubes, Quo fulero gravidee destituente ruunt ;
+
+Et quo consistunt durorum glutine partes, Duraque quee rursus mollia causa faeit ;
+
+Unde. fragor coelo, qua nix glaciesque fit arte ; Excussusque altis emicat ignis aquis ;
+
+Quid res exiguas conjungit in aere sparsas, Et calidum Phoebus qua ratione facit ;
+
+Herculeusque lapis ferrum. quibus attrahit uncis, Observatque sug matris utrumque polum ;
+
+Cur mare non equis ad littora volvitur. undis ; Anno, mense, die quoque, bis auget aquas ;
+
+Et quare, vento duce, navis it obvia vento ; Hsec habet et monstrat parvulus ille liber.
+
+Et valitura puto cum tempore; quandoquidem nunc Inter tot Momos irreprehensa manent.
+
+Aeris et parvo naturam scribo libello Adversus quandam machinam inanificem,
+
+Tunc physicam linquens, ad amata mathemata vertor ; Namque meo tandem cesserat hostis agro.
+
+Tantum non lapidem potuissem vera docere, Clamosas speret nemo docere scholas.
+
+At De Principiis alium tamen edo libellum, Fecique ut posset clarius esse nihil.
+
+[p. xcvii] VITA THO. HOBBES. xcvii
+
+In quo naturam rationis ita explico, ut illam. Nemo non claram diceret atque probam.
+
+Hac mihi parte fuit victoria cognita cunctis, Dissimulant aliis vulnera magna locis;
+
+Deficiunt animis, sed deficientibus insto, Culminaque inscendo summa. gfeometrise,
+
+Namque parem cyelum quadrato publico; necnon Jactatum Pythii monstro porisma Dei ;
+
+Demonstrata prius, sed non rationibus iisdem, Sperabam methodo vincere posse nova.
+
+Sed nil profeci, densis umbonibus obstant, Cedere quos puduit, semi-mathematici.
+
+Ergo meam statuo non vltra perdere opellam, Indocile expectans discere posse pecus.
+
+Deinde librum scribo, quem nomine dico Rosetum, Pracipuo densum flore geometrime.
+
+Wallisius contra pugnat ; victusque videbar Algebristarum Theologumque scholis,
+
+Et simul eductus castris exercitus omnis Pugnse securus Wallisianus ovat ;
+
+Quem cum vidissem salebroso insistere campo, Stabat ubi radix densa, molesta, tenax,
+
+Pugna placet, vertor; numerum licet infinitum Temporis in puncto dissipo, sterno, fago.
+
+Bella mea audisti. Quid vis tibi dicier ultra? An quam dives, id est, quam sapiens fuerim ?
+
+Anne refert quot agros habui, quot millia nummum ? Si percontator forte rogabit et hoc,
+
+VOL. 1. Li [p. xcviii] Exiguus mibi fundus erat propriusque relictus, Quem fratri dono, ductus amore, dedi.
+
+Parva superficies, sed millia multa ferebat Granorum tritici, nam bona terra fuit.
+
+Longa satis votis regum ; et nisi tota deorsum Tensa foret, Rex nunc magnus haberer ego.
+
+Ut primum belli sensi civilis odorem, Et populum ventos vidi agitasse levem :
+
+Quiero locum studiis, et vite commodiorem, Hinc me Parisios transfero remque meam.
+
+Quingentz mihi erat numerata pecunia libre, Cum fugiens patris littora linquo mese :
+
+His alije paulo post accessere ducentas, Et simul immensus perpetuusque dolor.
+
+(Godolphine jaces ; purae rationis amator, Justitize et Veri miles amande, vale;)
+
+Venit et e patria mihi pensio certa quotannis, Bist quadragintis constitit illa libris.
+
+Deinde redux mihi Rex concessit habere quotannis Centum alias libras ipsius ex loculis,
+
+Dulce mihi donum. — Convicia sperno aliorum, Quando teste ipso judicor esse probus.
+
+His ego contentus vivo, nec praefero plura ; Quis vellet sanus re minor esse sua?
+
+Rer, si quando lubet, per vestros supputo Sousot, Ut fiat major: si neque sic satis est,
+
+Ex Legato Syd. Godolphini. 1Ex munere Conitis Devonim,
+
+[p. xcix] VITA THO. HOBBES. xcix
+
+Per Maracedisios numero, videorque beatus Croesos et Crassos vincere divitiis. Ipse meos nosti, Verdusi candide, mores, Et tecum cuncti qui mea scripta legunt. Nam mea vita meis non est incongrua scriptis : Justitiam doceo, justitiamque colo. Improbus esse potest nemo qui non sit avarus, Nec pulchrum quisquam fecit avarus opus. Octoginta ego jam complevi et quatuor annos : Pene acta est vitee fabula longa meg.
+
+FINIS.
+
+A?
+
+[p. c] [p. ci] OPERA PHILOSOPHICA,
+
+QUJE LATINE SCRIPSIT,
+
+OMNIA.
+
+OPERA PHILOSOPHICA,
+
+QUJE LATINE SCRIPSIT,
+
+OMNIA.
+
+ELEMENTORUM PHILOSOPHLE
+
+SECTIO PRIMA
+
+DE CORPORE.
+
+EXCELLENTISSIMO VIRO,
+
+GULIELMO, COMITI DEVONIE,
+
+DOMINO MEO COLENDISSIMO.
+
+ELEMENTORUM philosophis, obsequii mei, tueque erga me benignitatis futurum monumentum, sectionem primam, post editam tertiam, diu dilatam, tandem tibi, excellentissime Domine, absolutam offero dedicoque; libellum mole exiguum, plenum tamen, et siquidem valeret pro magno rectum, satis magnum. Eundem invenies lectori attento et in demonstrationibus mathematicorum bene exercitato, id est tibi, intellectu facilem et perspicuum ; novum etiam fere totum, nec tamen novitate sua cuiquam offensam prebiturum. Scio philosophie partem illam, quz versatur circa lineas et figuras, traditam nobis esse bene cultam a veteribus, simulque verz logice, per quam tam preclara theoremata sua invenire et demonstrare potuerunt, exemplar optimum. Scio etiam hypothesin diurni telluris motus excogitatam esse primo a veteribus, sed et ipsam nascentemque ab ipsa astronomiam, id est, physicam coelestem a succedentibus philosophis verborum laqueis strangulatam esse. Itaque astronomise initium, preter observata, non ultra referendum esse puto quam ad Nicolaum Copernicum, placita Pythagore, Aristarchi, Philolai proxime superiore seculo referentem. — Post hunc, agnito jam telluris motu, ortaque inde difficili questione de descensu gravium, eum difficultate illa certans nostris temporibus Ga- Jilzeus primus aperuit nobis physicae universe portam primam, naturam motus. Adeo ut neque ultra hunc computanda videatur esse ztas physicz. Postremo, scientiam humani corporis, physice partem utilissimam, in libris suis de motu sanguinis et de generatione animalium, mirabili sagacitate detexit et demonstravit Gulielmus Harveus, Regum Jacobi Carolique medicus primarius; solus, quod sciam, qui doctrinam novam superata invidia vivens stabilivit. Ante hos nihil certi in physica erat preter experimenta unicuique sua et histories naturales, si tamen et hz dicende certz sint, qum civilibus historiis certiores non sunt. At post hos astronomiam et physicam quidem universalem Joannes Keplerus, Petrus Gassendus, Marinus Mersennus, physicam vero humani corporis specialem ingenia et'industria medicorum, id est, vero physicorum, presertim vero nostrorum e Collegio Londinensi doctissimorum hominum, pro tam exiguo tempore egregie promoverunt. Physica ergo res novitia est. Sed philosophia civilis multo adhuc magis; ut que antiquior non sit (dico lacessitus, utque sciant se parum profecisse obtrectatores mei)libró quem De Cive ipse scripsi. Quid autem? — Nulline erant philosophi apud Grecos antiquos, neque physici neque civiles? Fuere certe qui sic appellabantur, teste Luciano, a quo irrisi; testibus nonnullis civitatibus, unde edictis publicis sepius sunt expulsi. Sed non ob eam rem necesse est fuisse philosophiam. "Versabatur in antiqua Grecia phantasma quoddam, propter superficiem gravitatis (nam intus plenum erat fraude 'et sordibus) philosophi: aliquatenus Simile, quam incauti homines philosophiam esse arbitrati, professoribus ejus, etsi intér se discordibus, alii aliis adhzerescebant, iisque ad sapientiam magistris tradebant liberos suos magnis mercedibus nihil docendos preterquam disputare, neglectisque legibus de omni qusestione suo quemque arbitrio constituere: Nati illis temporibus Ecclesie post Apostolos doctores primi, dum fidem Christianam contra gentes ràtione naturali defendere ' conabantur, ceperunt. philosophari etiam ipsi, et placita nonnulla ex philosophorum ethnicorum scriptis Scripture Sacre placitis admiscere. Et primo quidem dogmata admiserunt nonnulla ex Platone minus noxia. Deinde vero etiam ex libris Physicze Auscultationis et Metaphysicorum Aristotelis multa inepta et falsa assumentes, fidei Christiane quasi introductis hostibus arcem prodiderunt Ex eo tempore pro Seostéda habuimus scholasticam dictam SeAoyíav, pede incedentem altero quidem, qus est Scriptura Sacra, firmo; altero autem putrido, que est philosophia illa quam Apostolus Paulus appellavit vanam, potuit perniciosam ; innumerabiles enim illa in orbe Christiano de religione controversias, et ex controversiis bella excitavit. Similis existens Empuse apud comicum Atheniensem. Ea enim Athenis demonium habebatur, mutabili specie, pedibus altero sneo, altero asinino, missa, ut credebatur, ab Hecate, imminentis Atheniensibus infortuni preenuntia. Contra hane Empusam exorcismus, credo, melior excogitari non potest, quam ut religionis, id est, Dei honorandi colendique regule a legibus petendz, a philosophise regulis, id est, a privatorum hominum dogmatibus distinguantur, quzeque religionis sunt Scripturz Sacre, quz philosophis sunt rationi naturali tribuantur. Quod certe factum erit si philosophie elementa seorsim vere et lucide, ut conor facere, tractavero. Itaque cum in sectione tertia, quam tibi jamdudum editam dedicavi, regimen omne, tam ecclesiasticum quam civile, ad unum idemque imperium summum
+
+' firmissimis rationibus, Verbo Divino non repugnante, revocaverim ; aggredior nunc, fundamentis physice veris clareque ordinatis, Empusam istam metaphy- Sicam, non pugnando, sed diem inferendo exterrere atque abigere.  Confido enim, si quam fiduciam scripti scribentis timor, respectatio, diffidentia prestare potest, in tribus libelli hujus partibus prioribus ex definitionibus; in quarta ex hypothesibus non absurdis omnia esse legitime demonstrata. Quod si qua tibi demonstratio minus plena videbitur, quam ut possit omnibus satisfacere, causa erat quod non omnia omnibus, sed aliqua geometris solis scribere profiterer. Quin autem tibi omnia satisfactura sint dubitare non possum.
+
+Restat jam sectio secunda De Homine, cujus partem eam, qua tractatur Optica, octo capitibus scriptam figurarumque singulis capitibus adjungendarum tabulas ante sex annos sculptas paratasque habeo. Cetera, favente Deo, ut potero, adjiciam ; etsi de natura hominis apud homines vera loquuturo, quanto minor mihi habebitur.quam debebitur gratia, ex nonnullorum imperitorum contumeliosis verbis pudendisque injuriolis jam expertus sciam. Attamen susceptum onus perferam, nec invidiam deprecabor, sed potius augendo ulciscar. Sufficit enim mihi gratia tua, quam quidem, quantam tu postulas, habeo; Deum autem Optimum Maximum pro tua incolumitate comprecando, quantam ego possum semper referam.
+
+Excellentise tuse humillimus servus,
+
+THO. HOBBES.
+
+Londini, Die 29 Aprilis, 1655.
+
+AD LECTOREM.
+
+PniLOsOPHIAM, cujus elementa hic aggredior ordinare, noli credere eam esse, amice lector, per quam funt lapides philosophici, neque illam quam ostentant codices metaphysici ; sed rationem humanam naturalem per omnes res creatas sedulo volitantem, et de earum ordine, causis et effectibus ea quee vera sunt renuntiantem. Mentis ergo tum et totius mundi filia Philosophia in te ipso est; nondum fortasse figurata, sed genitori mundo qualis erat in principio informi similis. —Faciendum ergo tibi est, quod faciunt statuarii qui materiam exculpentes supervacaneam, imaginem non faciunt, sed inveniunt. Vel imitare creationem. Super abyssum cogitationum experimentorumque tuorum confusam (si philosophie operam seriam daturus sis) superferatur ratio tua. —Confusa discutienda, distinguenda, et suis quasque signata nominibus ordinanda sunt, id est, methodo opus est ipsarum rerum creationi congrua. Creandi autem ordo erat, luz, noctis ei diei distinctio, expansum, luminaria, sensibilia, homo. Deinde post. creationem, mandatum. — Contemplandi ergo ordo erit ratio, definitio, spatium, astra, qualitas sensibilis, homo. Deinde adulto homine, civis. In prima ergo sectionis hujus parte quie Logica inscribitur, accendo lucem rationi; In secunda,
+
+AD LECTOREM.
+
+quie est Philosophia Prima, rerum communissimarum ideas ad sublationem ambigui et obscuri, definitionibus accuratis inter se distinguo. "Tertia pars versatur in expansione spatiorum, id est, in Geometria. Quarta habet motum astrorum, et preterea qualitatem sensibilem. — In sectione secunda considerabitur, volente deo, Natura Hominis. In tertia Civis jam ante consideratus est. Hanc ego methodum sequutus sum, qua et tu, si arriserit, uti poteris; non enim commendo tibi mea, sed propono. Quacunque autem methodo usurus sis, philosophiam tamen, id est, studium sapientis, ob cujus defectum multa nuper mala passi omnes sumus, commendatum tibi valde velim. Nam illi etiam qui divitiis studént, sapientiam amant; thesauri enim sui non aliter ipsis placent, quam ut speculum in quo intueri et contemplari possint sapientiam. suam. Nec qui ad negotii publica adhiberi amant, aliud quam locum querunt, in quo sapientiam quam habent explicare possint. Ne voluptuosi quidem philosophiam ob aliam causam negligunt, nisi quod nesciunt quantam perpetuus valentisimusque pulcherrimi mundi cum anima congressus voluptatem sit allaturus. Postremo, etsi ob nihil aliud, tamen (quoniam animus humanus non minus temporis vacui, quam matura vaeui loci impatiens est) ne hominibus occupatis importunus, vel male feriatis cum .damno tuo accedere a nimio otio coectus sis, qua otium tuum jucunde implere possis, commendo tibi philosophiam. — Vale.
+
+Tuo. Hosnzs.
+
+LEMMATA CAPITUM.
+
+PARS PRIMA,
+
+SIVE LOGICA. eum
+
+1 DePhioopha . . . -. 2. De Vocabulis *DoShumllll
+
+5. De Erratione, Falsitate, et Captionibus .
+
+6 DeMeho ^. . .
+
+PARS SECUNDA, SIVE PHILOSOFRIA PRIMA.
+
+T.DelooetTempre . 0. 0. $. DeCorporeet Accidente 9.DeCauaetEfectu .— . 0.
+
+10.DePoteniaetAcu .  .  .
+
+1.DeEodemetDivmo
+
+12. De Quantitate —
+
+15. De Analogismo sive eadem Ratione —.
+
+14. De Recto, Curvo, Angulo, et Figura
+
+D
+
+?$5885--
+
+LEMMATA CAPITUM.
+
+PARS TERTIA, DE RATIONIBUS MOTUUM, ET MAGNITUDINUM.
+
+JP DNE PotddbE e tub Cocina 1
+
+Motus et Conatus. . . . . . . M5 16. De Motu accelerato, et uniformi, et de Motu per con- curum I 7Debeee Deed Q0 50 0 D QN 18. De Rectarum et Paraboliformium Linearom JEquatione . 997 19. De Angulis Incidentis et Refectonis JÉqualibus .  . 981 90. De Dimensione Circuli et Arcum sive Angulorum eoe . 0. 20.0.0. 0. s. 2 21. De Motu circulari . . . n . . - 958 92. De cetera Motuum Varieate — . 2. .;1 29. DeCentroEquilibri .— .— .— .— . 0. . 286 24. De Refractione et Reflexione - . . B . 905
+
+PARS QUARTA, PHYSICA, SIVE DE NATURJE PHJENOMENI&.
+
+25. De Sensione et Motu Animali . . . . * $15 26. De Universo et Syderibus . . . H . $94 97. Deluce Cao, etCobribus .
+
+28. De Frigore, Vento, Duro, Glacie, Flexorum restitatione,
+
+Diaphano, Fulgure, et Tonitra, et Origine Fluviorum . 379 29. De Sono, Odore, Sapore et Tecili —. —.  .  . 395 30.DeGrviae —. 0. 0. 0. 0. s . MS
+
+[p. 1] COMPUTATIO SIVE LOGICA.
+
+CAPUT I. DE PHILOSOPHIA.
+
+1. Introductio.—2. Philosophie definitio explicata.—S. Animi ratiocinatio.—4. Proprietas quid.—5. Quomodo proprietas * generatione derivatur et contra.—6. Philosophis Fi 7. Utilitas.—8. Subjectum.—9. Partes.—10. Epilogus.
+
+## l. VrRsARI mihi inter homines videtur hodie
+
+Philosophia, quemadmodum frumentum et vinum fuisse in rerum natura narratur priscis temporibus. Erant enim ab initio rerum vites et spicze sparsim. per agros, sed satio nulla. Itaque glande vivebatur, aut si quis ignotas dubiasve baccas tentare ausus esset, cum detrimento id fecit sanitatis suze. Similiter, philosophia, id est, ratio naturalis, in omni homine innata est; unusquisque enim aliquo usque ratiocinatur, et in rebus aliquibus ; verum ubi longa rationum serie opus est, propter recte methodi, quasi sationis defectum deviant plerique et evagantur. Ex quo contingit sanioris judicii vulgo haberi et esse eos, qui quotidiana experientia tanquam glande contenti philosophiam aut abjiciunt, aut non expetunt, quam ii qui opinionibus minime vulgaribus, sed dubiis leviterque VOL. I. HI
+
+Introductio.
+
+[p. 2] 1l
+
+Philosophie definitio explicat,
+
+2 COMPUTATIO SIVE LOGICA.
+
+arreptis imbuti, tanquam parum sani perpetuo disputant, et rixantur. Fateor quidem partem philosophiz eam, in qua magnitudinum, figurarumque rationes supputantur, egregie cultam esse. Caeterum quia in reliquis partibus similem operam positam nondum vidi, consilium ineo, quoad potero, philosophie universe pauca et prima elementa, tanquam semina qusedam ex quibus pura et vera philosophia paulatim enasci posse videtur explicare.
+
+Quam difficile sit inveteratas, eloquentissimorumque scriptorum authoritate confirmatas opiniones mentibus hominum excutere, non ignoro. Praesertim cum philosophia vera (id est accurata) orationis non modo fucum, sed etiam omnia fere ornamenta ex professo rejiciat; cumque scientiz omnis fundamenta prima, non modo speciosa non sint, sed etiam humilia, arida, et pene deformia videantur.
+
+Attamen cum: sint aliqui certe, quanquam pauci, quos in omni re veritas et rationum firmitudo ipsa per se delectat, paucis illis operam hanc navandam esse censui. Itaque ad institutum venio. Incipiam autem ab ipsa philosophie definitione.
+
+2. Philosophia est Effectuum sive Phenomenon ez conceptis eorum Causis seu Generationibus, et rursus Generationum qua esse possunt, ex cognitis effectibus per rectam ratiocinationem acquisita cognitio.
+
+Ad quam definitionem intelligendam, considerare oportet primo, Sensionem atque Memoriam rerum, qui communes homini sunt cum omnibus animantibus, etsi cognitiones sint, tamen quia datze sunt Statim a natura, non ratiocinando acquisite, non esse philosophiam.
+
+[p. 3] DE PHILOSOPHIA. E]
+
+Secundo cum Experientia nihil aliud sit quam — pns. memoria; Prudentia autem sive prospectus in futurum, aliud non sit quam expectatio rerum similium iis rebus quas jam experti sumus; nec prudentiam quidem philosophiam esse censendum est.
+
+Per ratiocinationem autem intelligo computationem.  Computare vero est plurium rerum simul additarum summam colligere, vel una re ab alia detracta, cognoscere residuum. Ratiocinari igitur idem est quod addere et subtrahere, vel si quis adjungat his multiplicare et dividere, non abnuam, cum multiplicatio idem sit quod eequalium additio, divisio quod squslium quoties fieri potest substractio.  Recidit itaque ratiocinatio omnis ad duas operationes animi, additionem et substractionem.
+
+8. Quomodo autem animo, sine verbis tacita Animi cogitatione ratiocinando addere et substrahere P4ecimiosolemus uno aut altero exemplo ostendendum est.
+
+Si quis ergo e longinquo aliquid obscure videat, etsi nulla sint imposita vocabula, habet tamen ejus rei ideam eandem propter quam impositis nunc vocabulis dicit eam rem esse corpus. Postquam autem propius accesserit, videritque eandem. rem certo quodam modo nunc uno, nunc alio in loco esse, habebit ejusdem ideam novam, propter quam nunc talem rem animafam vocat. Postremo cum stans in proximo figuram ejus videat, vocera audiat, aliasque res quze signa sunt animi rationalis perspiciat, habet quoque ideam tertiam, etiamsi nomen ejus nullum adhuc fuerit; eandem scilicet propter quam dicimus aliquid esse rationale. Denique quando totam rem ut unam plene jam et B2
+
+[p. 4] PARSL
+
+Animi Ratiocinatio,
+
+4 ,COMPUTATIO SIVE LOGICA.
+
+distincte visam concipit, illa idea composita est ex praecedentibus, atque hoc modo componit animus ideas przedictas, eodem ordine quo in oratione componuntur hzc nomina singula corpus, amnimatum, rationale, in unum nomen corpus animatum rationale, sive hominem. Similiter ex conceptibus quadrilateri, equilateri, rectanguli, componitur conceptus quadrati. Potest enim animus concipere quadrilaterum sine conceptu zequilateri, et equilateri sine conceptu rectanguli, et concepta hzc singula potest conjungere in conceptum unum, sive ideam unam quadrati. Patet ergo quo modo animus concepta componit. Rursus si quis hominem astantem videat, concipit totam ejus ideam, si vero recedentem sequatur oculis tantum, amittet ideam earum rerum quz signa erant rationis, attamen idea animati oculis inherebit, itaque ex tota idea hominis, id est, corporis animati rationalis subducitur idea rationalis, residua est corporis animati ; deinde paulo post in distantia majore amittetur idea animati, residebit idea corporis tantüm, tandemque cum pre distantia amplius conspici non potest, tota idea ab oculis evanescit. Atque his exemplis qualis res sit animi ratiocinatiointerna sine vocibus, satis exemplificatum esse puto.
+
+Non ergo putandum est computationi, id est, ratiocinationi in numeris tantum locum esse, tanquam homo a czeteris animantibus (quod censuisse narratur Py/hsgoras) sola numerandi facultate distinctus esset, nam et magnitudo magnitudini, corpus corpori, motus motui, tempus tempori, gradus qualitatis gradui, actio actioni, conceptus conceptui, proportio proportioni, oratio orationi,
+
+[p. 5] DE PHILOSOPHIA. 5 nomen nomini (in quibus omne philosophize genus PARS1. continetur) adjici adimique potest. ——
+
+Rem autem quamcumque addimus vel adimimus, id est, in rationes referimus, eam dicimur considerare, Grace Xoyi/:s9at, sicut ipsum computare eive ratiocinari evAAoyiZecSac nominant.
+
+4. Effectus autem et pheenomena sunt, corporum Propricts facultates sive potentie quibus alia ab aliis dis- 3 tinguimus, id est, unum alteri aequale aut inzequale, simile vel dissimile esse concipimus ; ut in superiore exemplo, postquam ad corpus aliquod satis appropinquatum est, ad percipiendum motum et incessum ejus, distinguimus ipsum ab arbore, a columna et ab aliis certis corporibus defixis, unde incessus ille, proprietas ejus est, quippe animalium proprius, quo a ceeteris corporibus distinguitur.
+
+5. Quomodo autem effectus cognitio ex cognita Quomodo generatione acquiri potest, circuli exemplo facile 1 ;5,.rione intelligetur. — Proposita enim figura plana, adiemeur figuram circuli proxime accedente, sensu quidem circulus necne sit cognosci nullo modo potest ; at ex cognita figure proposite generatione, facillime; facta enim sit figura ea, ex cujuspiam corporis circumductione, cujus alter terminus maneat immotus; sic ratiocinabimur, corpus circumductum eadem semper longitudine applicat sese primo ad unum radium, deinde ad alium, et ad tertium, quartum, et successive ad omnes ; itaque ab eodem puncto, attingit circumferentiam eadem longitudo undequaque, id est omnes radii sunt zquales. Cognoscitur itaque a tali generatione procedere figuram a cujus puncto uno medio ad omnia extrema sequalibus radiis attingitur.
+
+Similiter a cognita figura perveniemus ratio- [p. 6] l
+
+Finis Philosophie,
+
+"Utilitas.
+
+6 COMPUTATIO SIVE LOGICA.
+
+cinando ad generationem aliquam, et si forte non eam quz fuit, tamen eam quse esse potuit; nam cognita proprietate circuli quam modo diximus, scire, si corpus aliquod ita ut diximus circumducatur circulum generari facile est.
+
+6. Finis autem seu scopus philosophie est, ut previsis effectibus uti possimus ad commoda nostra, vel ut effectibus animo conceptis per corporum ad corpora applicationem, effectus similes, quatenus humana vis et rerum materia patietur, ad vitee humanee usus industria hominum producantur.
+
+Nam ut quis de rerum dubiarum difficultate superata, vel de abditissimarum veritatum detectione, apud se tacitus gaudeat et triumphet, tante opere quanta philosophisre impendendaest, pretium esse non judico; neque vero cuiquam, ut se scire sciat alter, si modo nihil inde aliud consequuturum se putet, magnopere studendum esse censeo. Scientia propter potentiam; 'Theorema (quod apud Geometras proprietatis investigatio est) propter problemata, id est propter artem construendi; omnis denique speculatio, actionis vel operis alicujus gratia instituta est.
+
+7. Quanta autem sit philosophis utilitas imprimis vero Physicze et Geometricze tum optime intelligemus, cum przcipua humani generis, que nunc sunt commoda, enumeraverimus, et institutiones eorum qui eis fruantur cum eorum institutionibus qui eis carent contulerimus; commoda autem humani generis maxima sunt Ártes, nimirum mensurandi tam corpora quam eorum motus; movendi gravissima pondera; zedificandi; navigandi ; instrumenta ad omnem usum fabricandi ;
+
+[p. 7] »—
+
+DE PHILOSOPHIA. 7 motus coelestes, syderum aspectus, temporis mo- PARSI. menta, caleulandi ; orbis terrarum faciem depin- — gendi; quibus quanta bona hominibus acquisita  Utilitassunt facilius intelligitur quam dicitur. His fruuntur gentes Europzsze fere omnes, Asians plereque, Africang aliquot, Americane vero, et quse gentes propinqua sunt utrique polo, omnino carent. Cureutem? an ille hisacutiores sunt? an non sunt omnibus hominibus ejusdem generis animz, ezedem. anims facultates? quid ergo alteris adest, alteris deest, nisi philosophia. Harum ergo omnium utilitatum causa est philosophia. Moralis vero et civilis philosophiz utilitas non tam ex commodis quie ab ea cognita quam ex calamitatibus quas ab ejus ignoratione habemus, :stimanda est. Calamitates autem omnes quse humana industria evitari possunt a bello oriuntur, prsecipue vero a bello civili; hinc enim ezdes, solitudo, inopiaque rerum omnium derivatur. Causa autem horum non est quod homines ea velint, voluntas enim nisi boni saltem apparentis nulla est; neque quod mala hzc esse nesciant; quis enim est qui ceedes et paupertatem mala et molesta sibi esse non sentit? Causa igitur belli civilis est, quod bellorum et pacis caus ignorantur; et quod paucissimi sunt qui officia sua quibus pax coalescit et conservatur, id est veram vivendi regulam didicerunt. Estautem hujus regule cognitio moralis philosophia. Quare autem eam non didicerunt, nisi quod a nemine clara et recta methodo hactenus tradita Sit? Quid enim? multitudini hominum imperitorum, doctores olim Greci, /Egyptii, Romani, slique innumera dogmata de naturis deorum suorum, quz ipsi an vera essent necne nesciebant,
+
+[p. 8] Utilitas,
+
+8 COMPUTATIO SIVE LOGICA.
+
+queque manifestissime falsa atque absurda erant, persuadere potuerunt, officia sua eidem multitudini, . 8i ea ipsi cognovissent persuadere non potuerunt ? vel pauca illa que extant geometrarum scripta, ad controversiam omnem in iis rebus quas tractant tollendam valebunt; innumera illa et ingentia volumina ethicorum, si certa et demonstrata continerent nil valebunt? Quid denique cause excogitari potest, cur scripta illorum scientifica, horum, ut ita dicam, verbifica tantum sint, nisi quod illa a scientibus, haec ab hominibus doctrinam quam tractant ignorantibus, eloquentiz, vel ingenii sui ostentandi causa prodierunt? Quin tamen talium librorum aliquorum lectio jucundissima sit, non negaverim : sunt enim eloquentissimi, sententiasque multas continent luculentas et salubres, minimeque vulgares, sed que pronuntiatee ab illis universaliter, non tamen plerumque universaliter vere sunt ; unde fit ut mutatis temporum, locorum, personarum circumstantiis non minus s;pe ad sceleratorum consiliorum confirmationem, quam ad precepta officiorum — percipienda — adhibeantur. Quod autem maxime in illis desideratur, est regula actionum certa unde sciri possit justum an injustum sit quod facturi sumus. Quod enim in unaquaque re facere jubent id quod rectum est; antequam recti regula aliqua et mensura certa constituta sit (quam hactenus nemo constituit) inutile est. Quoniam igitur officiorum, id est, moralis scientie ignorationem bella civilia atque inde calamitates maximz consequuntur, ejusdem cognitioni, commoda his contraria merito attribuemus. Videmus itaque universe philosophi (ut laudem,
+
+[p. 9] DE PHILOSOPHIA. 9 esteramque jucunditatem inde provenientem taceamus) quanta sit utilitas.
+
+PARAT,
+
+8. Subjectum Philosophig, sive materia circa Sabjectsm.
+
+quam versatur, est corpus omne cujus generatio aliqua concipi, et cujus comparatio secundum ullam ejus considerationem institui potest. Sive in quibus compositio et resolutio locum habet ; id est omne corpus quod generari, vel aliquam habere proprietatem intelligi potest.
+
+* Deducitur autem hoc ex ipsa philosophis definitione, cujus munus est vel proprietates ex generatione, vel generationem ex proprietatibus investigare; ubi ergo generatio nulla, aut nulla proprietas, ibi nulla philosophia intelligitur. Itaque excludit a se philosophia, Theologiam, doctrinam dico de natura et attributis Dei, zterni, ingenerabilis, incomprehensibilis, et in quo nulla compositio nulla divisio institui, nulla generatio intelligi potest.
+
+Excludit doctrinam de angelis et rebus illis omnibus qua nec corpora, nec corporum affectus existimantur; quia in illis locus non est compositioni, nec divisioni, ut in quibus non est magis nec minus, id est, nullus locus ratiocinationi.
+
+Excludit historiam tam naturalem quam politicam, etsi philosophie utilissimas, (imo necessarias, ) quia cognitio talis aut experientia est, aut authoritas, non autem ratiocinatio.
+
+Excludit scientiam omnem quse oritur ex divina inspiratione, vel revelatione, quippe quae non est acquisita ratione, sed gratia divina et actu instantaneo (quasi sensio quedam supernaturalis) dono data.
+
+Excludit doctrinam omnem non modo falsam,
+
+[p. 10] I
+
+Epilogus.
+
+10 COMPUTATIO SIVE LOGICA.
+
+sed etiam non bene fundatam ; nam quz recta ratiocinatione cognoscuntur, ea falsa, aut dubia esse non possunt; itaque excluditur astrologia qualis hodie ostentatur, et cetere hujusmodi divinationes potius quam scientig& ; postremo excluditur a philosophia, doctrina de cultu Dei qui non a ratione naturali, sed ab authoritate Ecclesize cognoscendus est, neque ad scientiam sed ad fidem pertinet.
+
+9. Philosophie partes principales duz sunt; corporum enim generationes, proprietatesque quaerentibus, duo corporum quasi summa genera maximeque inter se distincta sese offerunt ; unum, quod a natura rerum compaginatum, appellatur naturale ; alterum, quod a voluntsate humana conventionibus pactionibusque hominum constitutum civitas nominatur. Hinc itaque oriuntur primo dus partes philosophie, maturalis et civilis. Deinde vero quia ad cognoscendas civitatis proprietates, necessarium est ut hominum ingenia, affectus, mores, ante cognoscantur, philo- Sophia civilis rursus in duas partes scindi solet, quarum ea quz de ingeniis moribusque tractat, ethica, altera que de officiis civium cognoscit, politica, sive civilis simpliciter nominatur. Dicemus itaque (postquam ea quse ad philosophie ipsius naturam pertinent premiserimus) primo loco de corporibus naturalibus ; secundo de ingenio et moribus hominis; tertio, de officiis eium.
+
+10. Postremo cum sint fortasse nonnulli, cui definitio philosophize supra tradita non placet, quique libertate ad arbitrium definiendi concessa, quidlibet ex quolibet concludi posse dictitant
+
+[p. 11] DE VOCABULIS. n (quamquam hanc ipsam definitionem convenire eum sensu omnium hominum non difficulter ostendi posse putem) tamen ne ea de re disputandi aut mihi aut illis causa sit, profiteor me hac opera traditurum esse elementa scientie ejus qua ex cognita rei generatione investigantur effectus, vel contra ex cognito effectu generatio ejus, ut illi qui philosophiam aliam querunt, eam aliunde petere admoneantur.
+
+CAPUT II.
+
+DE VOCABULIS.
+
+1. Monimentorum sensibilium sive Nofarum ad memoriam necessitas. Notm definitio.—2. Eorundem necessitas ad significandos animi conceptus.— $. Utrumque horum prestant Nomina.—4. Nominis definitio.—ó. Nomina signa sunt non rerum sed cogitationum.—6. Nomina quarum rerum sinL.— 7. Nomine Positiva et Negativa.—8. Nomina Contradictoria. —9. Nomen commune.—10. Nomina prime et secundee intentionis.—11. Universale, Particulare, Individuum, Indefinitum. —12. Nomen Univocum, et JEquivocum.—19. Nomen Absolutum et Relativum.—14. Nomen simplex et compositum.— 15. Preedicamenti descriptio.—16. Notanda quedam circa praedicamenta.
+
+caducz, quamque fortuita earum repetitio, nemini deesse possunt certissima in semetipso experimenta. Neque enim quantitatum sine sensibilibus et presentibus mensuris, neque colorum sine sensibilibus et presentibus exemplaribus, neque
+
+Tum ae lium si Notarum ad memoriam necessitas.
+
+[p. 12] PARS I,
+
+Note Definitio.
+
+Eorundem
+
+Decetsitas ad
+
+12 COMPUTATIO SIVE LOGICA.
+
+numerorum sine nominibus numeralibus (ordine dispositis, memoriterque recitatis) meminisse quisquam potest. Itaque absque aliquo tali adjumento, quicquid homo apud animum suum ratiocinando collectum habuerit, statim elabitur, nec potest nisi iterato opere revocari. Ex quo sequitur, ad philosophie acquisitionem, necessaria esse monimenta aliqua sensibilia, quibus et reduci cogitationes preeterite, et suo queque ordine tanquam registrari possint. Hujusmodi monimenta sunt quas vocamus zofas; nimirum, res sensibiles arbitrio nostro adhibitas, ut illarum sensu cogitationes in animum revocari possunt similes iis cogitationibus quarum gratia sunt adhibita.
+
+2. Rursus etsi unus aliquis homo quamquam signifcandos excellentis ingenii, partim ratiocinando, partim animi conceptus.
+
+notas ad memoriam adjuvandam inveniendo atque ediscendo tempus suum omne contereret, quis illum non videt neque sibi multum, et aliis nihil profuturum ? nisi enim monimenta quz invenerit Sibi, communia quoque aliis sint, scientia ejus cum ipso peribit. Quod si communia sint multis eadem monimenta, sive no/c, et qua ab uno inveniuntur aliis tradita fuerint, cum universi generis humani utilitate scientie augeri possunt. Itaque ad philosophie acquisitionem necessarium est ut sint signa aliqua quibus, quee ab aliis excogitata sunt, aliis patefieri et demonstrari possint. Signa autem vocari solent antecedentia consequentium, et consequentia antecedentium, quoties plerumque ea simili modo praecedere et consequi experti sumus. Exempli gratia, nubes densa signum est.
+
+.consequuture pluvie, et pluvia signum antece- dentis nubis, ob eam causam, quod raro nubem
+
+[p. 13] €—
+
+DE VOCABULIS. 18 densam sine sequente pluvia, pluviam autem sine antecedente nube numquam experti sumus. Signorum autem alia naturalia sunt quorum exemplum est quod modo dixeramus; alia arbitraria, nimirum quse nostra voluntate adhibentur ; qualia sunt, suspensa hedera, ad significandum vinum venale; lapis, ad significandum agri terminum; et voces humans certo modo connexs, ad significandas animi cogitationes et motus. Note ergo et signi differentia est, quod illa nostri, hoc aliorum gratia institutum sit.
+
+PARS.
+
+3. Voces humans, sic, ut cogitationum signa Utrumque sint, connexe, Oratio, partes vero singulee nomina appellantur. Cum autem philosophie ut di et mote et signa (note ut recordari, signa ut demonstrare cogitationes nostras valeamus) necessaria sint; nomina utramque rem prestant. Sed motarum prius quam cignorum officio funguntur. Nam homini, etsi unicus in mundo existeret, inservirent quidem ad memoriam, cum tamen ad demonstrationem, nisi alius sit cui demonstret, inservire non possent. Preterea, nomina per se singula note sunt, nam cogitata revocant etiam sola, signa vero non sunt, nisi quatenus in oratione disponuntur et partes ejus sunt. Verbi gratia, vox Aomo excitat quidem in audiente ideam hominis, non tamen (nisi quis addat, est animal, vel aliud aliquid zequivalens) significat aliquam ideam fuisse in animo loquentis, sed voluisse eum aliquid dicere, quod potuit quidem incipere a voce homo, potuit vero etiam a voce Aomogeneum. Natura itaque mominis consistit primario in eo quod sit sofa, adhibita memoriz causa; accidit autem ut serviat quoque significandis, demonstrandisque iis rebus horam prastant.
+
+jmus Nomina.
+
+[p. 14] PARSL 2.
+
+Nominis. Definitio.
+
+14 COMPUTATIO 8IVE LOGICA.
+
+quas memoria tenemus. Definiemus igitur nomen hoc modo.
+
+4. Nomen est coz humana arbitratu hominis adhibita, ut sit nota qua cogitationi preterite cogitatio similis in animo excitari possit, queque in oratione disposita, et ad alios prolata signum dis sit qualis cogitatio in ipso proferente precessit vel non precessit. Quod autem nomina ab arbitrio hominum orta esse supposuerim, rem minime dubiam brevitatis causa assumi posse judicavi; cui enim, qui verba quotidie nova nasci, vetera aboleri, diversa diversis gentibus in usu esse, denique qui inter res et verba neque similitudinem esse, neque comparationem ullam institui posse videt, in animum venire potest naturas rerum sibimetipsis nomina sua prebuisse? Quamquam enim nomina quzdam animalium, aliarumque rerum quibus parentes nostri primi uterentur docuerit Deus, ea tamen arbitrio suo posuit, et postea tum ad turrim Babel, tum etiam procedente tempore pas- 8im in desuetudinem et oblivionem abierunt, aliaque in eorum locum, arbitrio hominum inventa et recepta successerunt.
+
+Porro quicumque vulgo vocabulorum usus sit, philosophis tamen qui scientiam suam aliis tradi- turi sunt, nomina ad sensus suos significandos quae"
+
+voluerint, modo se intelligi faciant adhibendi potestas semper, etiam necessitas quandoque fuit, atque erit. Nam mathematicis, ut figuras a se inventas parabolas, hyperbolas, cissoeides, quadratrices, óc. appellarent, vel ut magnitudines nominarent aliam A, aliam B, non erat à quoquam impetrandum nisi a se ipsis.
+
+[p. 15] DE VOCABULIS. 15
+
+5. Quoniam autem Nomina, ut definitum est, PARS disposita in oratione, signa sunt conceptuum ; ma —L. nifestum est ea non esse signa ipsarum rerum; bei quo sensu enim intelligi potest sonum hujus VOCiS non rerum sed lapis esse signum lapidis, alio quam ut is qui ecennis vocem eam audisset colligeret loquentem de lapide cogitasse? taque disputatio illa an nomina significent materiam, an formam, an compositum, alizque ejusmodi metaphysicorum, errantium sunt, nec intelligentium verba de quibus disputant.
+
+6. Neque vero ut omne nomen, alicujus Tel DO- Nomine men sit, necessarium est. Sicut enim voces homo, Seres. arbor, lapis, ipsarum rerum nomina sunt, ita quoque imagines hominis, arboris, lapidis, quz occurrunt somniantibus, sua sibi habent nomina, quamvis res non sint, sed rerum figmenta tantum et phantasmata. Datur enim ipsarum meminisse, ideoque nominibus eas non minus quam res ipsas notari et significari oportet. Etiam vox hsc .,futurum nomen est, sed res futura nondum ulla est, neque scimus quod futurum vocamus, an futurum unquam sit; attamen quia cogitatione, preeterita presentibus subnectere soliti sumus, nomine Jfuturi talem subnexionem significamus. Porro quod neque est, neque fuit, neque erit, neque esse potest, nomen tamen habebit, hoc ipsum scilicet, quod neque est, neque fuit, 4c. vel brevius hoc, impossibile.. Denique vox hsc nihil nomen est, rei tamen nomen esse non potest. Nam si (exempli gratia) subducentes binarium et ternarium ex quinario, non videmus ullum residuum, si illius subduetionis meminisse velimus, oratio hsc mihil residuum est, et in illa nomen nihil inutile non est. Propter eandem rationem etiam minus quam
+
+[p. 16] Nomina. Positiva et Negativa,
+
+16 COMPUTATIO SIVE LOGICA.
+
+nihil dicetur recte de residuo, ubi majus detrahitur a minore. Hujusmodi enim residua doctrinm causa fingit sibi animus, cupitque, quoties opus est, in memoriam revocare. . Quoniam autem momen omne ad aliquod nominatum relationem habeat, et si nominatum non semper res sit, existens in rerum natura, licebit tamen doctrine causa pro mominato rem dicere, tanquam idem essent, sive res illa vere existat, sive ficta sit.
+
+7. Nominum distinctio prima erit, quod alia sint. positiva sive affirmativa, alia negativa, quse et privativa, et infinita appellari solent. Positiva sunt, quz propter similitudinem, :qualitatem, vel identitatem ; negativa qus propter diversitatem vel dissimilitudinem, vel inzqualitatem rerum cogitatarum imponuntur. Illorum exempla sint, homo, philosophus, nam homo quemlibet e multis hominibus, philosophus quemlibet e multis philosophis denotat propter omnium similitudinem ; item Socrates positivum nomen est, propterea quod unum semper atque eundem denotat. Negativorum exempla sunt, que fiunt ex adjecta ad positivum particula negativa 20n; ut non homo, non philosophus. Sunt autem positica negativis priora, neque enim nisi przexistentibus illis usus horum esse potuit; nam cum nomen aJbi certis rebus impositum est, deinceps vero aliis rebus nomina migri, cerulei, diaphani, $c. non potuerunt horum omnium cum a/bo dissimilitudines quz numero infinitze sunt, uno nomine praeterquam albi negatione, hoc est, nomine non-aibi, vel huic sequipollenti in quo vox albi repetitur (quale est albo dissimile) contineri. Atque his negativis
+
+[p. 17] DE VOCABULIS. . u revocamus in animum, et significamus quid non PARsI.
+
+cogitavimus. —— Dh : fm 8. Nomen autem positivum et negativum con- omm tradictoria inter se sunt, ita ut ejusdem rei nomina ambo esse non possint. Preterea contradictoriorum nominum, alterum quidem cujuslibet rei nomen est. Quicquid enim est, vel Homo est, vel Non- Homo, Album vel'non Album, et sic de cseteris. Quod quidem manifestius est quam ut. probari aut. explicari amplius debeat. Nam qui hoc sic enuntiant Idem non potest esse, et non esse, obscure : qui vero sic, Quicquid est, vel est, vel non est, etiam absurde et ridicule loquuntur. Hujus axiomatis certitudo nimirum (duorum nominum contradictoriorum, alterum cujuslibet rei nomen esse, alterum non esse) principium est et fundamentum omnis ratiocinationis, id est omnisphilosophise; itaque accurate enuntiari debuit, ut omnibus per se clara et perspicua esset, sicut revera est, nisi iis qui longos de hac re sermones apud metaphysicos legentes, ubi nihil vulgare dici putant, id quod intelligunt, intelligere se nesciunt.
+
+9. Deinde, nominum alia sunt pluribus rebus Nomen communia, ut homo, arbor; alia singulis rebus mme propria, ut Is qui scripsit Iliadem, Homerus, Hic, Ille. Nomen autem commune, cum sit plurium rerum sigillatim sumptarum nomen, non autem collective omnium simul (ut Aomo, non est generis humani nomen, sed uniuscujusque, ut Petri, Johannis et ceterorum hominum seorsim) vocatur ob eam rem wunicersale. Est ergo nomen hoc universale, non rei alicujus existentis in rerum natura, neque idez, sive phantasmatis alicujus in c
+
+[p. 18] Nomina. prime et secunde Jutentionis.
+
+18 COMPUTATIO SIVE LOGICA.
+
+animo formati, sed alicujus semper vocis sive nominis nomen. Ita ut cum dicatur animal, vel saxum, vel spectrum, vel aliud quicquam esse universale, non intelligendum sit ullum hominem, saxum, &c. fuisse, esse, aut esse posse universale, Sed tantum voces eas animal, sazum, óc. esse nomina universalia, id est, nomina pluribus rebus communia, et respondentes ipsis in animo conceptus sunt singularium animalium vel aliarum rerum imagines et phantasmata. Ideoque non est opus &d vim universalis intelligendam alia facultate quam imaginativa, qua recordamur voces ejusmodi modo unam rem modo aliam in animo excitasse. Communium etiam nominum, alia sunt magis, alia minus communia; magiscommune est quod plurium, minus quod pauciorum rerum nomen est. Ut animal magis commune est quam Aomo, vel quam equus, aut leo, quia illud hec omnia complectitur; itaque nomen magis commune, respectu minus communis, quod sub ipso continetur, genus vel generale dici solet, hoc vero illius species vel epeciale dicitur.
+
+10. Atque hinc distinctio nominum tertia existit, videlicet ut alia prime, alia secunda intentionis dicta sint. Primze intentionis sunt nomina rerum, ut homo, lapis, secunde sunt nomina nominum et orationum, ut universale, particulare, genus, epecies, syllogismus et similia. Quare autem illa primz, hzc secunds intentionis dicta sunt, difficile est pronuntiare ; nisi forte iis rebus nomina imponere quee ad vitam quotidianam conducebant, intentio prima, deinde vero iis rebus quie pertinebant ad scientiam, id est nominibus dare nomina, posterior et secunda cura fuerit. Sed quacunque
+
+[p. 19] de causa hoc factum sit, manifestum tamen est genus, species, definitionem non esse nomina aliarum rerum preterquam vocum et nominum ; et propterea non recte poni in metaphysicis genus et speciem pro rebus, et definitionem pro rei natura, cum sint tantum cogitationum nostrarum de natura rerum significationes.
+
+11. Quarto, nominum alia sunt significationis certe sive determinate, alia indeterminatz, sive hà indefinite. Determinate et certe significationis est primo nomen quod unius tantum rei est, et vocatur individuum, ut Homerus, hec arbor, illud animal. ^ Secundo quod habet adjectam vocem, omne, quodlibet, utrumque, utrumvis, vel aliam zquipollentem. Vocatur autem wniversale quia nomen est uniuscujusque in illis pluribus quibus commune est. Sunt autem significationis certze propterea quod is qui audit concipit animo rem quam loquens conceptam vellet. Zndefinite significationis nomen est, primo cui adjicitur vox aliqua, quedam, vel alia his zequipollens, et vocatur particulare. Deinde nomen commune nude positum sine nota ulla aut universalitatis aut particularitatis, ut omo, lapis, vocaturque indefinitum, utrumque autem particulare et indefinifum ideo incertz sunt significationis, quia is qui audit, nescit de qua re is qui loquitur sese intelligi velit. Itaque in oratione nomen indefinitum et. particulare pro :quivalentibus censeri debent.
+
+Sunt autem voces ille universalitatis et particularitatis omne, quodlibet, aliquod, c. non nomina sed nominum partes, ut idem sit omnis homo, et homo ille quem audiens animo concipiet, et qui- c2
+
+TARSL |
+
+[p. 20] 20 COMPUTATIO 8IVE LOGICA.
+
+PARSI dam homo, idem quod Aomo ille quem loquens
+
+—Ài L2 animo jam concepit. Ex quo intelligi etiam potest, hujusmodi signorum usum esse homini non propter se, sive ad scientiam propria meditatione acquirendam (habet enim unusquisque cogitationem suam sine his determinatam) sed propter alios, id est, ad docendum, et ad conceptus suos aliis significandos; nec fuisse ea memorim, sed colloquii causa excogitata.
+
+Nmees 12. Solent etiam distingui nomina in univoca,
+
+"quon. et couivoca, ut univoca sint que in eadem serie ratiocinationis idem semper significant, equivoca vero que nunc uno nunc alio modo intelligenda sunt.  Utsi quis nomen trianguli univocum esse diceret quod in eodem sensu semper accipiatur, parabolam vero :quivocum quia quandoque allegoriam aut similitudinem, quandoque figuram quandam geometricam denotat. Etiam omnis metaphora ex professo zquivoca est; sed distinctio hec non est ipsorum nominum, sed iis utentium, quorum alii, vocibus (ad eliciendam veritatem) proprie et accurate utuntur, alii ad ornatum vel ad fallaciam abutuntur.
+
+berg 13. Quinto, nominum alia Absolute, alia Relativa et relativum. appellantur. Relativa sunt quz imponuntur propter comparationem ; ut pater, filius, causa, effectus, simile, dissimile, quale, inequale, dominus, servus, 4c. Qus vero non ad significandam comparationem imponuntur, ea vocantur -Absoluta. Sicut autem de universalitate dictum est, eam vocibus, non rebus attribui oportere, sic etiam de ceteris nominum distinctionibus dicendum est; nimirum, nullam rem wmirocam, aut
+
+[p. 21] equivocam, relativam aut absolutam esse. Est PARSI. quoque alia nominum distinctio in comereta et -—— abstracta, sed quoniam nomina abstracta, orta sunt a propositione, nec potuere constitui sine supposita affirmatione, de iis dicemus* suo loco.
+
+14. Sexto nomina alia simp/icia, alia compo- Nomen sita sive conjunctasunt. Imprimis autem monen- oeipositam. dum est, nomen non ita in philosophia sumi, sicut in grammatica, ut unum nomen sit, quod una constat voce, sed quod simul sumptum nomen sit unius rei. Nam philosophis totum hoc, corpus animatum sentiens unum nomen est, quia unius rei, nimirum uniuscujuscunque animalis, quz tamen grammaticis tria sunt nomina.  Simplez & composito non distinguitur ut in grammatica per prepositionem. | Simplex nomen hic appello, quod in unoquoque genere communissimum sive wniversalissimum est. — Compositum vero quod per adjunctum aliud nomen fit minus universale, icatque plures conceptus extitisse in animo propter quos nomina illa posteriora addita sunt. Exempli causa, in conceptu hominis (sicut in superiore capite indicatum est) primus conceptus est, eum aliquid esse extensum, cui rei notande adhibitum est nomen corpus; itaque corpus est nomen simplex positum scilicet pro unico illo primo conceptu, deinde cum video illam moveri tali modo, alius nascitur conceptus, propter quem nominatur corpus animatum, quod nomen hic compositum appello, sicut etiam nomen animal quod corpori animato zquivalet. Eodem modo corpus animatum rationale ipsique zquivalens
+
+* Cap. , art. 4.
+
+[p. 22] PARS L
+
+"-— prelicament
+
+22 COMPUTATIO SIVE LOGICA.
+
+Àomo, magis adhuc compositum est. Atque sic videmus compositionem conceptuum in animo respondere compositioni nominum; mam ut in animo una idea sive phantasma alteri supervenit, et huic aliud, ita nomini uni aliud atque aliud superadditur, et fit ex omnibus unum nomen compositum. Cavendum tamen est ne putemus eodem modo componi ipsa corpora extra animum, nimirum, esse in rerum natura corpus sive existens aliquid imaginabile, quod primo nullam omnino habeat magnitudinem, deinde addita magnitudine fiat quantum, et pro magna vel parva quantitate apposita densum aut rarum, et rursus adjuncta figura fiat figuratum ; et postea injecto lumine vel colore, lucidum, et coloratum, quamquam sint nonnulli qui sic philosophati sunt.
+
+15. Scriptores logici nomina (per omnia rerum genera) minus communia magis communibus subordinando in quasdam scalas sive gradus digerere conati sunt; velut in genere corporum, primo et summo loco corpus simpliciter ponere, deinde sub eo nomina minus communia quibus limitetur et determinatius fiat, nimirum animatum. et inanimatum, et sic deinceps donec perveniatur ad individua ; similiter in genere quantitatum, primo et summo loco ponunt quantum, deinde, lineam, superficiem, et solidum, nomina minus lata; atque hos ordines nominum sive scalas appellare solent predicamenta, et categorias. Ordinantur autem nomina non modo positiva sed etiam negativa. Exempla autem sive formule predicamentorum hujusmodi esse possunt.
+
+[p. 23] FonMULA PREDICAMENTI CORPORUM. Ln Non Corpus I sive Accidens. Non Animatum, Corpus Non Animal. Animatum Non Homo. Animal Non Petrus. Homo Petrus. Quantitas; tantum. Consideratur autem tu ( A solute ot (Gooitas; talo. Accidens tum Corpus vel Comparate, et dicitur Relatio.
+
+FoRMULA PRÀDICAMENTI QUANTITATUM.
+
+Non continua ut numerus. linea. Quantitas perseut  Jsuperficies. solidum. Continua. propter lineam, vut Tempus propter lineam et tempus, ut Motus. pter motum et solidum, ut Vis.
+
+per accid
+
+Ubi notandum est Jineam, superficiem, et solidum tanta dici, id est, qualitatis et inzequalitatis capacia esse primario et natura sua; /empus autem nisi propter /ineam et motum ; velocitatem nisi propter /ineam et tempus ; postremo vim nisi propter solidum et velocitatem alia aliis majora minora vel zqualia, aut omnino quantitatis dici non posse.
+
+[p. 24] 24 COMPUTATIO SIVE LOGICA.
+
+erp FoRMULA PREDICAMENTI QUALITATIS.
+
+Formule. Visus. Auditus. Primaria  - Odoratus. Gustus.
+
+ensio Tactus. [ Imaginatio.
+
+(jucunda.
+
+Affectio been
+
+Secundaria Qualitas.
+
+'per Visum, Lux et Color. per Auditum, Sonus,
+
+Sensibilis-| per Odoratum, Odor. per Gustum, Sapor. per Tactum, Durities, Calor, Frigus, &c.
+
+FonMULA PnapiCAMENTI RELATIONIS.
+
+'Magnitudinum, ut equalitas, et insqualitss. Qualitatum, ut similitudo, et dissimilitudo. Relatio " Loco. ass opere : Ordinum Loco (re posterius. anon Simul | prius. Tempore [io circa " " N s 5 s predicament. mis est, quod sicut in primo factum est, ita fieri posse in ezteris, ut divisio semper sit in nomina contradictoria; nam ut ibi corpus dividitur in animatum et non animatum, ita in predicamento secundo potest quantitas continua dividi in lineam et non-lineam, et rursus non-linea in superficiem, et non superficiem, et sic in cseteris, sed non fuit necesse. Secundo observandum est, quod nominum posiiivorum inferius semper continetur a superiore, negativorum vero superius ab inferiore. Nam sina. 16. Circa que predicamenta notandum impri-
+
+[p. 25] exempli gratia, animal nomen est uniuscujusque hominis, et ideo continet in se nomen Aomo, cum contra non-homo nomen sit uniuscujusque rei quod non est animal, ideoque nomen monanimal quod ponitur superius continetur ab inferiore nomine non-homo.
+
+Tertio, cavendum est ne putemus, sicut nomina, ita etiam rerum ipsarum diversitates hujuscemodi distinctionibus per contradictoria exhauriri aut numero limitari posse; aut argumentum inde sumi (ut ridicule quidam fecerunt) ad probandum rerum ipsarum species non esse infinitas.
+
+Quarto, nolo quemquam arbitrari, predictas has formulas pro certa et vera nominum ordinatione a me exhiberi; nam hujusmodi ordinatio nisi & philosophia perfecta sfabiliri non potest; neque si ego, exempli causa, lucem in przdicamento qualitatum, alter in praedicamento corporum collocet, ob eam rem aut ego illum, aut ille me ullo modo dimovebit a sententia; hoc enim argumentis et ratiocinando, non dispositione vocularum faciendum est.
+
+Postremo fateor me predicamentorum usum in philosophia hactenus non magnum perspexisse. Cepitopinor Aristotelem libido quzdam pro authoritate sua, cum rerum non posset, verborum tamen censum peragendi ; ego autem idem hic feci, sed eo fine, ut qualis res sit intelligatur, non ut pro vero vocum ordine, nisi postquam ratione comprobabitur, habendum sit.
+
+2.
+
+[p. 26] PARS.
+
+diverse. Orationum,
+
+26 COMPUTATIO SIVE LOGICA.
+
+CAPUT III. DE PROPOSITIONE.
+
+1. Orationum species diversm.—2. Propowitionis definitio.—$. Quid sint Subjectum, Preedicatum, et Copuls, et quid Abetractum, et Concretum.—4. Usus et abusus nominum Abstractorum.—5. Propositio Universalis et Partieularis.—6. Affirmativa et Negativa.—7. Vera et Falsa.—8. Verum et Falsum in oratione, non in rebus esse.—9. Propositio Prima et Non-Prima. Definitio, Axioma, Petitio.—10. Propositio Necessaria, et Contingens.—11. Categorica et Hypothetica.—12. Propositio eadem. multis modis profertur.— 13. Quee ad eandem Categoricam. reduci possunt JEquipollentes esse,—14. Universales conversas per nomina contradictoria ZEquipollentes esse.—15. Negativas easdem esse, sive Negatio ante sive post Copulam ponatur.— 16. Particulares simpliciter conversas /Equipollentes esse.— 1T. Que sint Subalternee, Contrarie, Subooutrarite, Contradictorig.—18. Quid sit Consequentia.—19. Falsum ex Veris non sequi.—20. Quomodo propositio propositionis sit causa.
+
+l. Ex connexione sive contextu nominum, orationis diverse oriuntur species ; quarum alie de- Sideria et affectus hominum significant, quales sunt interrogationes; quse desiderium significant. cognoscendi, ut Fir bonus est quis? ubi nomen unum ponitur, alterum desideratur, atque ab eo quem interrogamus expectatur. Precationes, quse desiderium significant aliquid habendi; promissiones, comminationes, optiones, jussiones, lamentationes, aliaque aliorum affectuum indicia. Potest etiam esse oratio omnino absurda, et insignificans, nimirum ubi nominum seriei, nulla in animo respondet series conceptuum ; quemadmodum szpe accidit hominibus qui de rebus valde subtilibus cum nihil intelligant, intelligere tamen videri volunt, ut verba proferant incohzrentia; nam
+
+[p. 27] verborum etiam incohsrentium connexio, etsi PARSI orationis fine (id est significatione) careat, oratio . 7 tamen est; occurritque apud scriptores Metaphy-
+
+Sicos non multo minus sepe quam oratio signifi- cativa. Philosophie unica orationis species est, quam vocant alii quidem dic/um, alii enuntiatum, et pronuntiatum, plerique autem propositionem ; videlicet orationem affirmantium, vel negantium, notamque veritatis et falsitatis.
+
+2. Est autem Propositio oratio constans ez Dems duobus nominibus copulatis qua significat is qui loquitur, concipere se nomen posterius ejusdem rei nomen esse, cujus est nomen prius; sive (quod idem est) nomen prius a posteriore contineri, exempli causa, oratio hec Aomo est animal, in qua duo nomina copulantur per verbum Es/, propositio est; propterea quod qui sic dicit, significat. putare se nomen posterius anima] nomen esse rei ejusdem cujus nomen est Aomo, sive nomen prius homo contineri in nomine posteriore animal.
+
+Solet autem Nomen prius subjectum vel antecedens, vel contentum, posterius predicatum, consequens, vel continens appellari; signum connexionis in plerisque gentibus, vel est vox aliqua, ut illa Est, ut in propositione homo est animal, vel vocis casus sive terminatio aliqua, ut in hac propositione &omo ambulat (quz idem valet quod homo est ambulans) terminatio illa qua dicitur ambulat potius quam ambulans, signum est ea nomina concipi ut copulata, sive ut nomina ejusdem rei. Sunt autem gentes nonnulle, vel certe esse possunt, quz vocem respondentem verbo nostro Est nullam omnino habeant, formant tamen propositiones sola nominis unius post aliud posi-
+
+[p. 28] 5.
+
+Quid sint. subjectum, predicatum, toy et quid
+
+'et concretum,
+
+28 COMPUTATIO SIVE LOGICA.
+
+tione tanquam pro Aomo est animal diceremus tantum Aomo animal, nam et ille ipse ordo nominum, connexionem suam satis indicare potest; neque ob eam rem quod careaut voce Es/, minus ad Philosophandum idonei sunt.
+
+3. Itaque in omni propositione tria consideranda occurrunt; videlicet duo nomina subjectum et praedicatum, et copulatio. Et nomina quidem in animo excitant cogitationem unius et ejusdem. rei. Copulatio &utem cogitationem inducit cause propter quam ea nomina illi rei imponuntur ; ut cum dicimus exempli gratia, corpus est mobile, quamquam rem ipsam cogitamus utroque nomine designatam, non tamen ibi acquiescit animus, sed quserit ulterius, quid sit illud esse corpus vel esse mobile, id est, quz sint in ea re diversitates ab aliis rebus, quare illa sic vocetur, aliz non vocentur; quszrentes itaque quid est esse aliquid, ut. esse mobile, esse calidum, 4c. querunt in rebus nominum suorum causas.
+
+Atque hinc nascitur nominum illa (quam przecedente capite tetigimus) distinctio in concreta et abstracta. Concretum autem est quod rei alicujus quse existere supponitur nomen est, ideoque quandoque suppositum, quandoque subjectum Grece Vmoxdurvov appellatur; ut corpus, mobile, motum, Jiguratum, cubitale, calidum, frigidum, simile, equale, Appius, Lentulus, et similia. Abstractum est, quod in re supposita existentem nominis concreti causam denotat, ut esse corpus, esse mobile, esse motum, esse figuratum, esse tantum, esse calidum, esse frigidum, esse simile, esse equale, esse Appium vel Lentulum, et similia ; vel nomina his squivalentia, que communiter
+
+[p. 29] Abstracta dici solent, ut corporeitas, mobilitas, PAns t. motus, quantitas, calor, frigus, similitudo, equa- ——— litas (et quibus vocibus Cicero usus est) Appietas, Lentulitas. Ejusdem generis etiam sunt infini- tiva, nam vivere, moveri, idem sunt quod vifa, ef motus, vel esse vivens, et esse motum. Nomina autem abstracta causam nominis concreti denotant, non ipsam rem. Exempli gratia cum aliquid videamus, vel visibile aliquid animo concipiamus, apparet illa res, vel concipitur non in uno puncto, sed ut habens partes a partibus distantes, id est, ut extensa per spacium aliquod; quoniam igitur rem ita conceptam voluimus appellari corpus, causa ejus nominis est, esse eam rem eztensam sive extensio vel corporeitas ; sic cum videntes aliquid modo hinc modo inde apparere, vocamus illud, motum, vel translatum, causa nominis ejus est, moveri eam rem, sive motus ejus.
+
+Cause autem nominum esdem sunt que nostrorum conceptuum, nimirum potentia alique vel actio, vel affectio rei conceptze, vel ut aliqui loquuntur sodi ejus, plerumque autem vocantur Accidentia; Accidentia dico non eo sensu quo Accidens opponitur necessario, sed quia non sunt. res ipse, nec rerum partes, ita tamen res ipsas comitantur ut (excepta extensione) perire et destrui possint, abstrahi non possint.
+
+4. Inter nomina concreta et abstracta hoc Nominum quoque interest, quod illa, propositione ex illis ew et ebese. conflata, priora sint, hzc vero (quia nisi esset propositio, a cujus copula oriuntur, esse non possent) posteriora. Est autem nominum abstractorum tum in omni vita, tum precipue in philosophia, magnus et usus et abusus ; usus in eo quod
+
+[p. 30] 30 COMPUTATIO SIVE LOGICA.
+
+sine his ratiocinari, id est, computare .corporum proprietates plerumque non possumus ; cum enim colorem, lucem, velocitatem, multiplicare, dividere, addere, vel adimere vellemus; si duplicaremus, vel adderemus ea per nomina concreta, dicendo (verbi gratia) calidum calidi, lucidum lucidi, motum moti duplum esse, non proprietates duplicaremus, sed ipsa corpora calida, lucida, mota, &c. quod non volebamus. Abusus autem in eo consistit, quod cum videant aliqui considerari posse, id est, ut diximus inferri in rationes quantitatis, caloris, et aliorum accidentium incrementa et decrementa sine consideratione corporum sive subjectorum suorum, (id quod appellatur abstrahere sive seorsim ab illis existere) loquuntur de accidentibus tanquam possent ab omni corpore separari. Hine enim originemtrahunt quorundam metaphysicorum crassi errores ; nam ex eo quod considerari potest. cogitatio sine consideratione corporis, inferre volunt, non esse opus corporis cogitantis; et ex eo quod quantitas considerari potest, non considerato corpore, existere etiam putant quantitatem sine corpore, et corpus sine quantitate, ita ut addita ad corpus quantitate tum demum fiat quantum. Ab eodem fonte nascuntur illze voces insignificantes, substantie abstracte, essentia separata, aliaque similia. Etiam confusio illa vocum a verbo Est derivatarum, ut essentia, essentialitas, entitas, entitativum, et. realitas, aliquidditas, quidditas, quz apud gentes quibus copulatio non sit per verbum est, sed per verba adjectiva ut currit, legit, rc. vel per meram nominum collocationem audiri non potuissent, quibus tamen gentibus, cum philosophari ut czeterg possunt, non sunt necessarise
+
+[p. 31] DE PROPOSITIONE. EJ ez voces, essentia, entitas omnisque illa barbaries PARS I.
+
+ad philosophiam. — 5. Propositionum distinctiones multe sunt qua- Propositio rum prima sit, quod alia universalis sit, alia par- et particularis ticularis, slia indefinita, alia singularis, que distinctio quantitatis appellari solet. Universalis est, cujus subjectum affectum est signo universalis nominis; ut omnis homo est amimal. — Particularis cujus subjectum affectum est signo nominis particularis ; ut quidam homo est doctus. Inde- Jíinita cujus subjectum et commune nomen est, et sine signo ; ut omo est animal, homo est doctus. Singularis est, cujus subjectum est nomen singulare; ut Socrates est Philosophus. Hic homo est niger.
+
+6. Secunda distinctio, quie qualitatis dicitur, A&imtirs est in affirmativam et negativam. — Affirmativa trnepuivi, est, cujus praedicatum est momen positivum, ut Àomo est animal. Negativa cujus predicatum est nomen negativum, ut homo est non lapis.
+
+7. Tertia distinctio est, quod alia vera est, alia Vera et alas. Jalsa. Vera est cujus predicatum continet in se subjectum; sive cujus predicatum nomen est uniuscujusque rei, cujus nomen est subjectum ; ut homo est animal, vera propositio est, propterea quod quicquid vocatur Homo, idem vocatur quoque Animal Et quidam homo est egrotus vera est, cum sit cujusdam hominis nomen /Egrotus. Quz autem vera non est, sive cujus praedicatum non continet subjectum, ea Falsa appellatur, ut homo est saxum.
+
+Voces autem he verum, veritas, vera propositio, idem valent. Veritas enim in dicto, non in re consistit: nam etsi verum opponatur aliquando
+
+[p. 32] PaRsI apparenti, vel ficto, id tamen ad veritatem pro- —À. .. positionis referendum est ; nam ideo simulachrum hominis in speculo, vel spectrum, negatur esse verus homo, propterea quod hzc propositio, spectrum est homo, vera non est ; nam ut spectrum non sit verum spectrum, negari non potest. Neque ergo veritas, rei affectio est, sed propositionis. Quod autem a metaphysicis dici solet ens unum et verum idem sunt, nugatorium et puerile est; quis enim nescit, hominem, et unum hominem et vere hominem idem sonare. Mat 8. Intelligitur hinc veritati et falsitati locum non ipie a. esse, nisi in iis animantibus qui oratione utuntur. Etsi enim animalia orationis expertia, hominis simulachrum in speculo aspicientia similiter affecta esse possint, ac si ipsum hominem vidissent, et ob eam causam frustra eum metuerent, vel abblandirentur, rem tamen non apprehendunt tanquam * veram aut falsam, sed tantum ut similem, neque in eo falluntur. Quemadmodum igitur orationi bene intellectee debent homines, quicquid recte ratiocinantur; ita eidem quoque male intellectee debent errores suos ; et ut philosophi; decus, ita etiam. absurdorum dogmatum turpitudo solis competit hominibus. Habet enim oratio (quod dictum olim est de Solonis legibus) simile aliquid tele aranearum; nam hsrent in verbis et illaqueantur ingenia tenera et fastidiosa, fortia autem perrumpunt. Deduci hinc quoque potest, veritates omnium primas, ortas esse ab arbitrio eorum qui nomina rebus primi imposuerunt, vel ab aliis posita acceperunt. Nam exempli causa verum est Aominem esse animal, ideo quia eidem rei duo illa nomina imponi placuit.
+
+[p. 33] DE PROPOSITION. 83
+
+9. Quarto, distinguitur propositio in primam  pAnsI. et non primam. Prima est cujus Predicatum est . * . nomen, quod per plura nomina subjectum explicat, Propoitio ut Àomo est corpus animatum rationale; idem wo. m enim quod comprehenditur in nomine Aomo, fusius Peu" dicitur nominibus conjunctis corpus, animatum, Petit. rationale; dicitur autem prima quia prima est in ratiocinatione ; nam nisi nomine rei de qua quzritur prius intellecto, nihil probari potest. Sunt prime autem nihil aliud preter definitiones, vel definitionis partes, et hae solze principia demonstrationis sunt, nimirum veritates arbitrio loquentium audientiumque facte, et propterea indemonstrabiles; sunt qui his addunt alias quasdam propositiones quas appellant primas et principia, nempe aziomata sive communes notiones ; quze quia (etsi probatione non egent propter evidentiam) probari possunt, non sunt vere principia ; ideoque minus recipienda pro principiis, quod sub nomine principiorum multa ignota et quandoque falsa clamore hominum qui omnia, quz ipsi vera esse putant, pro claris obtrudunt. Solent quoque petitiones quzedam in numerum recipi principiorum, ut verbi gratia, posse inter duo puncta duci lineam rectam, cmtereque petitiones geometrarum. Et principia quidem illa sunt artis, sive constructionis, non autem scientie et demonstrationi:
+
+10. Quinto, distinguitur Propositio in neces- Propuitio sariam (id est necessario veram) et veram quidem Sr eondigena, sed non necessario, quam vocant contingentem. Necessaria est, quando nulla res concipi potest sive fingi ullo tempore, cujus nomen si? subjectum, quin ejusdem nomen sit etiam predicatum. Ut homo est animal necessaria propositio est, quia
+
+VOL. I. D
+
+[p. 34] $3.
+
+Categorios et.
+
+Hypothetica,
+
+84 COMPUTATIO SIVE LOGICA.
+
+quocunque tempore supponimus rei alicui convenire nomen Aomo, eidem rei conveniet quoque nomen animal. Contingens vero est que modo vera, modo falsa esse potest, ut omnis coreus est niger; hodie quidem contingere potest ut sit vera, alio tempore ut sitfalsa. Rursus in omni propositione necessaria, predicatum vel equivalet subjecto, ut in hac homo est animal rationale, vel pars zquivalentis est, ut in hac &omo est animal. Componitur enim nomen hoc animal rationale, sive homo, ex duobus, animal et rationale. At in contingente hoc non fit, nam etsi vera esset omnis homo est mendaz, quoniam tamen vox mendaz, non est pars nominis compositi, cui zequivalet nomen Aomo, non dicetur illa propositio necessaria sed contingens, etiamsi semper ita contingeret. Necessariz itaque propositiones illee sunt que sempiterne veritatis sunt.
+
+Hinc quoque manifestum est veritatem non rebus sed orationibus adherere, veritates enim alique seterne sunt; semper enim verum erit si Aomo, tum animal; ut autem homo, aut animal in eternum existat necesse non est.
+
+11. Sexta distinctio propositionum est in caegoricam et hypotheticam. Categorica est que simpliciter sive absolute pronuntiata est; ut omnis Aomo est animal: nullus homo est arbor.  Hypothetica, qui conditionaliter; ut si quis homo est, is etiam animal est ; si quis homo est, is lapis non est. Categorica, et hypothetica ipsi respondens in propositionibus necessariis idem significant, in contingentibus non idem ; exempli causa, si hzc omnis homo est animal vera sit, vera quoque erit, ei quis homo est, is etiam animal est ; sed in contingentibus [p. 35] etsi vera sit ommis coreus niger est, pamsI. falsa tamen erit si quid corvus sit, id nigrum est. . 9. Propositionem autem Aypotheticam tum veram esse recte dicunt quando consequentia est vera, ut veram esse omnis homo est animal, quando si vera sit, sllud est homo, non potest non esse vera, idem illud est animal. Ytaque quoties hypothetica vera est, categorica ei respondens non modo vera, sed etiam necessaria est; id quod adnotandum putavi, pro argumento ut tutius plerumque fit philosophis per propositiones hypotheticas quam per categori- cas ratiocinari.
+
+12. Quoniam autem propositio quzelibet pluribus Propositio modis et proferri, et scribi possit et soleat, etsi bs modis loquendum semper sit sicut plurimi loquuntur, ab "fe iis tamen qui philosophiam a doctoribus ediscunt, cavendum est ne varietate illa loquutionis decipiantur. Itaque si quando obscuritas aliqua occurrat, reducenda est propositio ad formam suam simplicissimam, et categoricam, in qua sit expressa copulativa vox est, et subjectum aperte separetur et distinguatur a predicato, neutrumque ullo modo cum copula misceatur. Exempli gratia, propositio heec, homo potest non peccare, collata cum hac, homo non potest peccare, quomodo differant tum cognoscitur, si reducantur ad has, lomo est potens mon peccare, homo est non potens peccare, ubi predicata aperte diversa sunt ; sed hoc tacite apud se, vel ad solum praeceptorem faciendum ; nam sic loqui in congressu hominum, absurdum et ridiculum est. Dicturus igitur de propositionibus zquipollentibus primo loco pono propositiones omnes quz ad unam et eandem pure categoricam reduci possunt, esse equipollentes.
+
+[p. 36] 36 COMPUTATIO SIVE LOGICA.
+
+PARSI 13. Secundo, categorica necessaria sus hypo- —ÓÍ.L thetiem equipollens est; quales sunt categorica, ier euepy triangulum rectilineum habet tres angulos equales cm rdui duobus rectis; et hypothetica, si quid triangulum Doleneseue, 5i£, iud tres kabet angulos equales duobus rectis. "Universales. 14. Tertio duz quzlibet universales, quarum Peas, Unius termini (id est subjectum et predicatum) peser i sunt alterius terminis contradictorii et positi eae. ordine converso; ut he, omnis homo est animal, et omne non animal est non homo ; quoniam enim. vera est omnis homo est animal nomen animal continet nomen Aomo, est autem utrumque nomen positivum, itaque per articulum ultimum precedentis nomen negativum 0n omo continet nomen negativum non animal, vera ergo est omne mon animal est non homo; vel he, nullus homo est arbor, nulla arbor est homo. Nam si verum sit arbor non esse nomen ullius hominis, nulli rei conveniet utrumque nomen Aomo et arbor, est ergo vera nulla arbor est homo. ltem propositioni cujus uterque terminus est negativus, ut huic omne non animal est non homo, squipollet hzc solum animal est homo. pie nip 15. Quarto, propositiones negatiee, sive parsivenegaio ticula negationis ponatur post copulam, ut faciunt potemuam gentes nonnulle, sive ante ut fit Latine et Grece, P""^  sitermini iidem sint, equipollent. Exempli gratia, homo non est arbor, et homo est non arbor squipollnt, quamquam hoc neget 4fristoteles ; item hz, omnis homo est non arbor, et nullus homo est arbor sequipollent ; idque ita aperte ut non egeat demonstratione. Paticwares — 16. Postremo, particulares omnes, conversis simpler Qr ninis squipollent, ut he, quidam homo est
+
+[p. 37] cecus, et quoddam cacum est homo , num nomen utrumque alicujus unius et ejusdem hominis nomen est, ideoque eandem veritatem significant connexg utrovis ordine.
+
+17. Earum qus terminos eosdem et eodem ordine positos, sed varia quantitate, vel qualitate Todificatos habent, ali: dicantur subalterne, alise contrarie, alie subcontraric, alise contradictorie.
+
+Subalterne sunt, universalis et particularis ejusdem qualitatis, ut omnis homo est animal; quidam homo est animal; vel nullus homo est sapiens; quidam homo non est sapiens. Harum si universalis vera est, etiam particularis vera erit.
+
+Contrarie sunt universales diverse qualitatis, ut omnis homo est beatus ; nullus homo est beatus. Harum si una vera est, altera est falsa, possunt quoque esse ambze falsze ut in exemplo proposito.
+
+Subcontrarie sunt particulares diverse qualitatis, ut quidam homo est doctus, quidam homo on est doctus ; quz non possunt esse ambse false, sed possunt ambze esse verz.
+
+Contradictorie sunt quz differunt et quantitate et qualitate, ut omnis homo est animal, quidam Aomo non est animal; que neque ambe verg, neque amb: false esse possunt.
+
+18. Propositio ex duabus aliis propositionibus sequi dicitur, quando si hz vere esse supponantur illam non esse veram supponi non potest. Exempli causa, sint duz propositiones omnis homo est animal, et omne animal est corpus, quz intelligantur esse verz, et propterea corpus esse nomen uniuscujusque animalis et animal uniuscujusque hominis; quoniam his intellectis, intelligi non potest corpus non esse nomen uniuscujusque
+
+PARSI 3. converaas fequipollentes ene. Qus sint. subalterne, contrarie, ubcontrarig,
+
+Quid sit. consequentia.
+
+[p. 38] PARSL hominis, id est propositionem hanc omnis homo est
+
+Sí L corpus esse falsam, dicetur hec ex illis duabus sequi, sive inferri necessario.
+
+ed 19. Verum ex falsis sequi aliquando potest, nonse. falsum ex veris nunquam ; sienim hz, omnis homo est lapis, et omnis lapis est. animal (que falsse sunt) concedantur esse vere, conceditur animal esse nomen uniuscujusque lapidis, et Japidem uniuscujusque hominis, id est, animal esse nomen uniuscujusquehominis, hoc est, propositionem hanc omnis homo est animal esse veram, sicut vera est ; itaque sequetur aliquando vera ex falsis ; sed sint. ambz verz, quaecunque ez sint, falsa non sequetur ; cum enim vera ex falsis sequatur, ob eam causam quia etsi falsee sint concedantur tamen esse vere, vera etiam ex veris concessis sequitur eodem. modo.
+
+Quomodo 20. Quoniam autem ex veris non sequetur nisi poaiionn vera, ideoque intellectio verarum causa est. intel-
+
+59" lectionis alterius vere ex illis derivate ; solent propositiones du: antecedentes propositionis illatze, sive consequentis, cause appellari; dicunt ergo Logici premissas esse causas conclusionis ; et ferri quidem potest hoc, etsi locutio ea propria non sit ; cum intellectionis intellectio, non oratio orationis causa sit. Quod vero iidem rem ipsam sus proprietatis causam esse dicant, ineptum est. Exempli causa, cum figura quzdam sit triangulum, habeatque omne triangulum angulos suos simul sumptos sequales duobus rectis, unde sequitur figuram illam habere angulos suos omnes sequales duobus rectis, propter eam rem dicunt figuram illam causam esse iliius squalitatis, ceterum quoniam figura suos angulos non ipsa facit, neque ergo causa efficiens
+
+[p. 39] dici potest, vocant eam causam formalem cum revera causa omnino non sit; neque figuram oi nino sequitur proprietas ejus, sed simul cum ipsa existit; sed solummodo cognitio figure antecedit. cognitionem proprietatis ; una autem cognitio alterius cognitionis vere causa est, nimirum causa efficiens.
+
+Et de propositione, que progressionis philosophíee quasi uno tantum pede promoto primus passus est, tantum esto; cui si debito modo addatur alter fiet syllogismus, tanquam gressus integer, de quo in capite sequenti dicturus sum,
+
+CAPUT IV. DE SYLLOGISMO.
+
+1. Definitio Syllogismi.—2. In Syllogismo tres tantum sunt termini.—3. Major, Minor, et Medius terminus, item Major et Minor propositio quid sint.—4. Medius terminus in omni Syllogismo debet esse in utraque propositione determinatus ad rem unam et eandem.—5. Ex duabus particularibus nihil infertur.—6. Syllogismum esse collectionem duarum propositionum in unam summam.—7. Syllogismi figura quid.—8. Quid sit in animo Syllogismo respondens.— 9. Figura indirecta prima quomodo fit.—10. Figura indirecta secunda quomodo fiL—11. Figura indirecta tertia quomodo fi.—12. Modi in unaquaque figura multi, sed plerique inutiles ad Philosophiam. 18. Categorico Syllogismo, eequipollet Hypotheticus.
+
+PARSI pea
+
+1. OnarTIO que constat tribus propositionibus ex pauio quarum duabus sequitur tertia, vocatur syU/ogis- 5yllogiami.
+
+mus. Et ea quidem quse sequitur conclusio, reliquz pramisse appellantur. Exempli gratia, oratio hme, omnis homo est animal, omne animal est
+
+[p. 40] 4.
+
+To syllogismo tres tantum sunt termini, propositio quid sint.
+
+Medius. terminus dn omni syllogiamo debet esse.
+
+40 COMPUTATIO SIVE LOGICA.
+
+corpus, ergo, omnis homo est corpus, syllogismus est; quoniam tertia ex precedentibus sequitur, id est, si illae vere esse concedantur, concedi necesse est hanc quoque veram esse.
+
+2. Ex duabus autem propositionibus quz terminum communem non habent conclusio nulla sequitur, neque ergo fit syllogismus; sint enim qualibet due prsemisse Aomo est animal, arbor est planta, ambz vere; quoniam tamen ex his non colligitur plantam nomen esse aut hominis aut hominem plantz, non necesse est ut vera sit homo est planta. Corollarium. Itaque in syllogismi premissis tres tantum termini esse possunt.
+
+Preterea in conclusione terminus nullus esse potest qui non fuerit in premissis; sint enim due premisse quzlibet homo est animal, animal est corpus, si tamen in conclusione ponatur alius quilibet terminus, ut Aomo est bipes, etsi vera sit, non tamen ex preemissis sequitur; cum exiis non colligitur nomen óipes convenire homini ; quare rursus in unoquoque syllogismo termini tres tantum sunt.
+
+3. Horum terminorum major dici solet is qui est in conclusione predicatum ; minor, is qui est. in conclusione subjectum, reliquus medius vocatur, ut in hoc sy/logismo, homo est animal, animal est corpus, ergo, liomo est corpus, corpus est terminus major, homo terminus minor, et animal medius. ltem premissarum ea in qua reperitur terminus major, major propositio, ea quie habet terminum minorem, minor propositio dicitur.
+
+4. Si medius terminus non sit in utraque premissa determinatus ad unam eandemque rem singularem, conclusio ex preemissis non sequetur,
+
+[p. 41] neque fiet sy/logismus; sit enim minor terminus pansr, homo, medius animal, major leo, et sint premisse . * omnis lomo est animal, quoddam animal est leo, is umque non sequetur tamen, omnem aut aliquem hominem Yrtoritone.
+
+esse leonem. Ex quo intelligitur in omni syllo- s rem unam. " 2 "n 9 et eandem, gismo, illam propositionem que habet medium terminum pro subjecto, debere esse aut wniver- salem, aut singularem, non autem particularem neque indefinitam. Exempli causa, syllogismus hic omnis homo est animal, quoddam animal est quadrupes, ergo quidam homo est quadrupes, ideo vitiosus est, quia medius terminus animal in priore praemissa ad hominem solum determinatur, dicimus enim hoc tantum animal esse nomen hominis, in posteriore vero de aliquo alio animale preter hominem intelligi potest. At si posterior fuisset universalis, ut hic, omnis omo est. animal, omne animal est corpus, ergo, omnis homo est corpus, syllogismus fuisset legitimus, sequutum.
+
+enim esset corpus esse omnis animalis, id est, etiam hominis nomen, id est, veram fuisse conclu- sionem omnis komo est corpus. Similiter si medius terminus sit singulare nomen, fiet syllo- gismus, inutilis quidem ad Philosophiam, sed tamen syllogismus, ut hie, quidam homo est
+
+Socrates, Socrates est philosophus, ergo, quidam homo est philosophus ; nam concessis preemissis, negari conclusio non potest.
+
+5. Ex duabus ergo premissis in quibus ambabus Ex à«bus medius terminus est particularis, non fit syllo- Primis gismus; nam sive medius terminus sit in utraque premissa subjectum, sive in utraque preedicatum, sive in altera subjectum in altera praedicatum, non
+
+[p. 42] 42 COMPUTATIO SIVE LOGICA.
+
+PARSI. necesse est, ut ad eandem rem determinetur; sint —À 2 enim premisse, Quidam komo est cecus | ubi medius terminus Quidam homo est doctus est subjectum,
+
+Non sequetur neque cecum alicujus docti, neque doctum slicujus czci nomen esse, cum nomen doctum non contineat nomen cecum, nec hoc illud, non est ergo necesse ut ambo sint nomina ejusdem hominis, sic ex preemissis his in quibus ambabus medius terminus est
+
+Omnis homo est animal ] praedicatum,
+
+Omnis equus est animal.
+
+Nihil sequetur, nam cum animal utrobique indefinitum sit, ideoque squivaleat particulari, possitque homo esse quoddam animal, et equus aliud quoddam animal, non necesse est ut Aomo Sit nomen equi, aut equus hominis. Vel si praemisse sint
+
+Quoddam animal est; terminius est subjectum. quadrupes in altera przdicatum,
+
+Non sequetur conclusio, propterea quod cum nomen animal non sit determinatum, potest in altera de homine, in altera de non homine intelligi.
+
+Sülgaum — 6. Manifestum autem est ex precedentibus, esae collectio. " mg " "
+
+nem darem syllogismum nihil aliud esse preter collectionem.
+
+"am Summz quz fit ex duabus propositionibus (per
+
+USD'"- terminum communem quem medium appellant)
+
+inter se conjunctis ; et ita sy/J/ogismum esse addi- tionem trium nominum, sicut propositio duorum.
+
+Omnishomoest. " in quarum altera medius
+
+[p. 43] 7. Distingui solent syllogismi diversitate figu- — PAnsT. rarum, hoc est diversa positione medii termini ; et. in figura rursus distinguuntur quidam modi, hoc Sylegimi est differenti quzdam in propositionum quan. 6s vit. titate et qualitate. Prima figura numeratur ea in qua termini ordinantur secundum latitudinem significationum, ut minor terminus primus ordine fiat, deinde medius, tertius major ; ut si ponamus pro minore termino Aomo, pro medio animal, pro majore corpus; syllogismus in prima figura erit.
+
+Homo est animal, animal est corpus.
+
+In qua minor propositio est, homo est animal, major, animal est corpus, conclusio sive summa collecta Aomo est corpus. Appellatur autem hrec figura directa, quia termini ejus directum ordinem observant, variatur autem per quantitatem et qualitatem quatuor modis, siquidem enim omnes termini sint positivi, et minor terminus universalis, ut omnis homo est animal, omne animal est corpus, fit modus primus ; in quo omnes propositiones sunt affirmative universales ; sin major sit nomen negativum, et minor universalis, fit secundus modus; ut omnis homo est animal, omne animal est non arbor, in quo major propositio et. conclusio sunt universales negative. His duobus addi solent alii duo, faciendo minorem terminum partieularem. Potest quoque fieri ut tam major quam medius terminus nomen sit negativum ; quod cum fit, oritur alius modus in quo omnes propositiones negative sunt, et tamen legitimus fiet syllogismus, ut si termini sint minor Àomo, medius son lapis, major non silez, syllogismus,
+
+[p. 44] *.
+
+44 COMPUTATIO SIVE LOGICA.
+
+nullus homo est lapis, quicquid non est lapis non
+
+V est silez, ergo nullus homo est silez, etsi ex
+
+Quid uit.
+
+in animo tribus constet negativis, est tamen legitimus. Sed quoniam in philosophia cujus est de proprietatibus rerum regulas statuere universales, et negativa non differat ab affirmativa, nisi quod in hac nomen positivum, in illa negativum de subjecto affirmatur, superfluum est alium modum considerare in figura directa, preter eum in quo omnes propositiones sunt et universales et affirmative.
+
+8. Syllogismo directo cogitatio in animo res- syllogismo pondens est hujusmodi; primo concipitur phan- responde
+
+"^tasma rei nominate cum accidente sive affectu ejus propter quem appellatur eo nomine quod est in minore propositione subjectum ; deinde animo occurrit phantasma ejusdem rei cum accidente sive affectu propter quem eo nomine appellatur quod est in eadem propositione predicatum. Tertio redit cogitatio rursus ad rem nominatam, cum affectu propter quem eo nomine appellatur quod est in praedicato propositionis majoris. Postremo cum meminerit eos affectus esse omnes unius et. ejusdem rei, concludit tria illa nomina ejusdem quoque rei esse nomina; hoc est conclusionem esse veram. Exempli causa, quando fit syllogismus hie, homo est animal, animal est corpus, ergo, homo est corpus, occurrit animo imago hominis loquentis vel disserentis, meminitque id quod sic apparet vocari hominem. Deinde occurrit eadem imago ejusdem hominis sese moventis, meminitque id quod sic apparet vocari animal. Tertio recurrit. eadem imago hominis locum aliquem sive spatium occupantis, meminitque id quod sic apparet vocari corpus. Postremo cum meminerit rem illam quz
+
+[p. 45] et extendebatur secundum locum, et loco movebatur, et oratione utebatur unam et eandem fuisse, concludit etiam nomina illa tria Aomo, animal, eorpus, ejusdem rei esse nomina, et proinde lomo est corpus, esse propositionem veram. Manifestum hine est conceptum sive cogitationem quze respondens syllogismo ex propositionibus universalibus in animo existit, nullam esse in iis animalibus quibus deest usus nominum, cum inter syllogizandum oporteat non modo de re sed etiam alternis vicibus de diversis rei nominibus, que propter diversas de re cogitationes adhibita sunt, cogitare.
+
+9. Relique figure a prime sive directze fi; inflexione, vel inversione, quod fit per majoris, vel y;;
+
+PARS, ie velia minoris, vel utriusque mutationem in conversam Somodo ft.
+
+ipsi equipollentem, oriuntur; ex quo sequuntur tres alie figure, quarum duse inflexee sunt, tertia inversa. Harum trium prima fit ex conversione majoris hoc modo ; sint termini indirectum positi, minor, medius, major, hoc ordine Aomo est animal, est non lapis, fit figura directa qua retorquetur per conversionem majoris hoc modo,
+
+Homo est animal, Lapis est non animal, et fiet figura secunda sive indirectarum prima; eujus conclusio erit, omo est non lapis.
+
+Nam cum ostensum sitcapite przecedente articulo 14, conversas universales per terminorum contradictionem esse zequipollentes, uterque syllogismus idem concludet ; nam si legamus majorem ordine contrario (more Hebraeorum) animal est non lapis, eadem omnino erit ratio quz fuerat prius directa.
+
+[p. 46] 46 COMPUTATIO SIVE LOGICA.
+
+PARSI. Similiter directus est homo non est arbor, non
+
+—5 es pyrus.
+
+Conversa autem majore in suam squipollentem per terminorum contradictionem stabit indirecte 8ic;
+
+Homo non est arbor, Pyrus est arbor.
+
+Ex quibus rursus fit conclusio eadem homo non est pyrus.
+
+Oportet autem in convertendo figuram directam in figuram indirectarum primam ut major termimus in figura directa sit negativus, nam etsi ex directa hac, homo est animal, est corpus, fiat indirectus per majoris conversionem :
+
+Homo est animal, Non corpus non est animal, Ergo, omnis homo est corpus ;
+
+tamen conversio apparet adeo obscura ut. modus ille prorsus inutilis sit. Per conversionem majoris patet medium terminum in hac figura semper esse in utraque premissa predicatum.
+
+lose 10. Indirectarum secunda fit ex conversione mi- scwda — Doris, ita ut medius terminus utrobique sit subjec- qumoift m. Sed nunquam concludit universaliter, neque itaque in philosophia utilis est, exemplum tamen ejus ponemus. Sit ergo directus, omnis homo est animal, omne animal est. corpus, conversa minore stabit sic:
+
+Quoddam animal est homo, Omne animal est corpus, Ergo, Quidam homo est corpus.
+
+[p. 47] Nam omnis homo est animal, converti non potest in hanc, omne animal est homo, et proinde si syllogismo huic restituatur sua forma directa, fiet minor quidam homo est animal, et per consequens conclusio erit quidam homo est corpus, cum minor terminus, homo, qui subjectum est conclusionis, sit nomen particulare.
+
+11. Figura inversa, sive indirecta tertia fit per
+
+PARS.
+
+Figura indirecta.
+
+conversionem utriusque premisse. Exempli causa, tertia quo-
+
+8i directus sit :
+
+Omnis homo est animal, Omne animal est non lapis, Ergo, Omnis homo est non lapis.
+
+Fiet en lapis est non animal,
+
+E Omne non animal est non homo, Ergo, inversus
+
+Omnis lapis est non homo.
+
+Quz conclusio conversa, et sequipollens est conclusionis directze.
+
+Figure itaque, si earum numerus solius medii termini situs varietate definiatur, tres tantum sunt ; in quarum prima, medius terminus medium locum, in secunda ultimum, in tertia primum locum obtinet; at si figure numerentur secundum situm terminorum simpliciter, quatuor erunt, nam prima rursus in duas distinguetur, nimirum in directum et inversum. Ex quo patet controversiam quz est inter Logicos de quarta figura non tam esse quam videri, nam de re patet, propter terminorum situm (nula quantitate neque qualitste, quibus distinguuntur modi, considerata) quatuor esse syllogismorum differentias quas quilibet vel figuras, vel alio nomine, pro arbitrio suo appellare potest.
+
+modo fit.
+
+[p. 48] 48 COMPUTATIO 8IVE LOGICA.
+
+PARS I. 12. In singulis his figuris, si prwemissas, per — eas quz possunt esse a quantitate et qualitate pedet differentias variare velimus, multi in unaquaque Sopiielene earum orientur modi; nimirum in figura directa [ 6, in figurarum indirectarum prima 4, in secunda "2714, in tertia 18. Sed quoniam a figura directa rejecimus omnes zodos, ut superfluos, przeter eum. qui constat ex universalibus ; et cujus minor affirmativa est, rejicimus una eos sodos czterarum. figurarum, que oriuntur ex przemissarum directze figurz conversionibus. Cutegnrioo 18. Sieut autem in propositionibus necessariis Zauporr ante ostensum est categoricam et hypotheticam 3ygotbeieus. s euipollentes esse, ita quoque syllogismum categoricum et hypotheticum equivalere manifestum est. Syllogismus enim categoricus quilibet, hic Omnis homo est animal, Omne animal est corpus, Ergo, Omnis homo est corpus.
+
+Eandem habet vim quam hypotheticus hic,
+
+Si quid est homo, illud est animal, Si quidest animal, illud est corpus, Ergo, Si quid est homo, illud est corpus.
+
+Similiter in figura indirecta categoricus hic, Nullus lapis est animal, Omnis homo est animal, Ergo,
+
+Nullus homo est lapis, vel Nullus lapis est homo.
+
+ZEquivalet hypothetico huic, Si quid homo est, animal est, Si quid lapis est, animal non est, Ergo, Si quid lapis est, homo non est, vel $i quid homo est, lapis non est.
+
+[p. 49] Et videntur quidem quze dicta sunt sufficere ad cognitionem naturz syllogismorum ; nam et quze de modis et figuris fuse ab aliis utiliter tractata sunt, in illis clare continentur; neque tam preceptis ad legitimam ratiocinationem, quam praxi opus est; citiusque multo veram logicam discent qui mathematicorum demonstrationibus, quam qui logicorum syllogizandi preceptis legendis tempus conterunt : haud aliter quam parvuli pueri, gressum formare discunt non preceptis sed sepe gradiendo. Itaque de gressu philosophie qualis esse debet, tantum dictum esto. Dicemus proximo loco de vitiorum sive errorum in quos incaute ratiocinantes incidere solent, speciebus et. causis.
+
+CAPUT V.
+
+DE ERRATIONE, FALSITATE ET CAPTIONIBUS.
+
+1l. Erratio et falsitas quomodo diSjerunt; Error animi citra vocabulorum usum, quomodo contingiL—2. Septem modi incoberentie nominum, in quibus propositio semper falsa est. $. Exemplum primi.—4. Secundi. — 5. Tertii.—6. Quarti. 7. Quinti. — 8. Sexti. — 9. Septimi.— 10. Falsitatem propositionum detegi per terminorum resolutionem per continuas definitiones usque ad nomina simplicia sive summa genera. 11. Vitium syllogismi ex implicatione terminorum cum copula. 19. Vitium syllogismi ex squivocatione.— 1. Captiones sophisticas peccare sepius in materia quam in forma syllogismi.
+
+1. EnRARE non modo affirmando et negando, sed Errtio et falsitas etiam sentiendo, et in tacita hominum cogitatione quomodo contingit. Afüirmando et negando, quando rei /7""*
+
+VOL. I. E
+
+[p. 50] Error aimi citra vocabulorum usum, quomodo contingit.
+
+50 COMPUTATIO SIVE LOGICA.
+
+alicui nomen attribuunt quod nomen ejus rei non est. Ut si simulachro solis viso, tum per reflexionem in flumine, tum directe in ccelo, utrique nomen Solis attribuendo, diceremus duos esse soles; id quod nisi hominibus accidere non potest; nam aliis animalibus usus nominum nullus est. Falsitatis nomen, solum hoc genus erroris meretur, ut quod non a sensu, aut a rebus ipsis, sed a temeritete oritur pronuntiandi. Nomina enim non a rerum speciebus, sed a voluntate hominum constituta sunt; quo fit ut qui a pactis rerum appellationibus discedit, non a rebus neque a sensu fallitur (nam illam rem quam videt, appellari solem non videt, sed voluit) sed negligentia sua sententiam falsam dicit. Sensu et cogitatione erratur, quando ex presenti imaginatione aliud imaginamur; vel quando preterita que non preecessere, vel futura quz sequutura non sunt, tamen tanquam preeterita. vel futura fingimus; ut quando ex viso solis in flumine simulachro, rem aliquam cujus illud simulachrum est eo loci esse imaginamur ; vel quando ex conspectis gladiis pugnam fuisse vel fore ex eo quod plerumque ita fieri consuevit; vel ex promissis, promittentis animum, vel denique ex quocunque signo, rem significatam frustra fingimus. Atque hujusmodi errores omnibus rebus sensu preditis communes sunt; neque sic tamen aut a sensibus, aut a rebus quas sentimus, sed a nobis ipsis ea, quee non sunt fingentibus et que simulachra tantum sunt, plus quam simulachra esse prasumentibus falimur. False autem neque res, neque imaginationes dici possunt cum et vere sunt. id quod sunt, neque promittunt, ut signa, quicquam quod non przestant; non enim ille promittunt,
+
+[p. 51] sed ex illis nos; neque nubes, sed nos ex visa nube s pluviam promittimus. Erroribus itaque qui con-. — — tingunt ex signis naturalibus occurretur, primo et ante ratiocinationem, si ad hujusmodi conjecturalia. comparemus nos tanquam ignorantes; deinde per ratiocinationem. Proveniunt enim a defectu ratiocinationis. Ceteri errores qui in affirmationibus et negationibus consistunt (id est falsitas propositionum) pravze ratiocinationis vitia sunt. De his igitur ut qui philosophie contraria sunt precipue dicendum est. Septem modi
+
+2. Errores qui contingunt inter ratiocinandum, tomum, m idest, inter syllogizandum ; vel in alicujus prs- 2s eer misse falsitate, vel in illatione consistunt. In fee. primo casu, syllogismum peccare dicunt materia ; in secundo, forma. Considerabimus primo materiam, quibus scilicet modis propositio aliqua falsa esse possit, deinde formam, et quibus modis contingit, quando preemissee sunt verze, illationem esse non veram.
+
+Quoniam omnis propositio vera est per cap. 3, art. 7, in qua copulantur duo nomina ejusdem rei, falsa autem in qua nomina copulata diversarum rerum sunt, quot modis contingit nomina copulata non esse ejusdem rei, totidem modis falsa fiet propositio.
+
+Rerum autem nominatarum genera quatuor sunt, nimirum corpora, accidentia, phantasmata, et momina ipsa. taque in omni vera propositione, necesse est. nomina copulata vel ambo esse corporum, vel ambo accidentium, vel ambo phantasmatum, vel ambo nominum. Nomina aliter conjuucta incohzrentia esse et constituere propositionem falsam. Potest etiam contingere ut nomen rei
+
+E2
+
+[p. 52] 5.
+
+Exemplum
+
+52 COMPUTATIO SIVE LOGICA.
+
+cum nomine orationis copuletur. Septem ergo modis copulata nomina non cohserent.
+
+1. Si nomen Corporis eum nomine Accidentis.
+
+2. i nomen Corporis eum nomine Phantasmatis. 3. Si nomen Corporis cum nomine Nominis.
+
+4. Si nomen Accidentis — :copuletur4 cum nomine Phantasmatis. 5. Si nomen Accidentis cum nomine Nomini
+
+6. Si nomen Phantasmatis cum nomine Nominis.
+
+T. Si nomen Rei 'eum nomine Orationis.
+
+Quorum omnium exempla subjungemus.
+
+3. Juxta modum primum fals: sunt ubi nomina abstracta copulantur cum concretis, ut esse est ene, essentia est ens, có ri jv uvai, (i) quidditas est ens, et multa istiusmodi quz reperiuntur in metaphysicis Aristotelis ; item intellectus agit, intellectus intelligit, visus videt, corpus est magnitudo, corpus est quantitas, corpus est extensio, esse hominem est homo, albedo est alba; simile enim est ac si quis diceret cursor est cursus, vel ambulatio ambulat, item, essentia est. separata, substantia est abstracta, atque harum similes, vel ab hisderivatz (quarum philosophia communis est plenissima) cum enim nullum subjectum accidentis, id est, nullum corpus est accidens, nullum nomen accidentis, corpori, neque corporis accidenti tribuetur.
+
+4. Secundo modo peccant propositiones hujusmodi, spectrum est corpus, vel spiritus, id est, corpus tenue. Species sensibiles volitant. per aerem, huc, illuc moventur, quod proprium est corporum. Item umbra movetur, vel est corpus. Lumen movetur, vel est corpus. — Color est objectum visionis, sonus auditionis ; spatium vel locus est res extensa, alieque hujusmodi innumere ; cum enim spectra, species visibiles, soni, umbra, lux, color, spatium, &c. somniantibus non minus
+
+[p. 53] adsunt quam vigilantibus, non sunt ez res externg, sed animi imaginantis phantasmata; nomina itaque eorum cum nominibus corporum copulari in veram propositionem non possunt.
+
+5. Tertii modi propositiones false sunt tales, genus est ens. — Universale est ens. Ens de ente predicatur. Genus enim et universaie et pradicare, nominum, non rerum nomina sunt. Item, mumerus est infinitus, falsus est, nam. numerus nullus est infinitus, sed nomen tantum sive vox hec, numerus, cui cum in animo nullus certus numerus substernitur, nomen quidem appellatur indefinitum, non tamen numerus aliquis est infinitus.
+
+6. In quartum modum incidunt false tales, o5- Jecti magnitudo vel figura, ea que est, epectantibus apparet ; color, lumen, sonus, est in objecto, et harum similes; apparet enim objectum idem quandoque majus, quandoque minus, quandoque quadratum, quandoque rotundum, pro diversitate distantiarum et mediorum; una autem et eadem semper est vera rei visze magnitudo et figura, adeo ut ez que apparent magnitudines et figure eorundem objectorum magnitudines et figure esse non possint; sunt igitur phantasmata, conjunguntur itaque in hujusmodi propositionibus nomina accidentium cum nominibus phantasmatum.
+
+7. Quinto modo peccant qui dicunt, definitiomem esse rei essentiam ; albedinem vel aliud accidens esse genus vel universale. Definitio enim non est rei essentia, sed oratio conceptus nostros de rei essentia significans; similiter non albedo ipsa, sed vox albedo genus est, et universale.
+
+8. Sexto modo errant qui dicunt ideum alicujus rei esse universalem, tanquam esset in animo imago
+
+PARSI
+
+Exemplum tertii,
+
+Quarti
+
+Quinti.
+
+Sexti.
+
+[p. 54] Exemplum. septimi,
+
+Falaitatem. propositionum. detegi per terminorum. resolutionem. per continuas.
+
+54 COMPUTATIO SIVE LOGICA.
+
+quzdam hominis quz nullius unius hominis esset, sed hominis simpliciter, quod est impossibile, nam idea omnis, et una est, et unius rei; decipiuntur autem in eo quod nomen rei pro idea ejus ponunt.
+
+9. Septimo modo errant qui distinguentes entia, dixerunt, en£ium aliud esse ens per se, aliud per accidens; nimirum quia hzc Socrates est homo, propositio necessaria est, et Socrates est musicus, propositio contingens, ob eam causam faciunt entia alia necessaria sive per se, alia contingentia sive per accidens; itaque cum mecessarium, contingens, per se, per accidens, nomina sint non rerum sed propositionum, dicentes ens aliquod esse ens per se, copulant cum nomine rei nomen propositionis. Eundem errorem errant, qui ideas alias in intellectu, alias in phantasia ponunt; quasi alia esset idea sive imago hominis qui orta a sensu in memoria retinetur, alia quse in intelleetu est, quando intelligimus Aominem esse animal; id, quod imposuit, est quod uomini unam, propositioni aliam respondere rei ideam putaverint, quod est falsum ; nam propositio significat ordinem tantum eorum qua in eadem idea hominis observantur unum post aliud, ut ad orationem hane Aomo est animal, unicam habemus ideam etsi in ea idea prius id consideretur propter quod vocatur homo, posterius vero id propter quod vocatur animal ^ Harum omnium, per omnes modos, falsitates ex nominum copulatorum definitionibus detegendz sunt.
+
+10. Quando vero nomina corporum cum nominibus corporum, nomina accidentium cum nominibus accidentium, nomina nominum cum nominibus nominum, et nomina phantasmatum cum nominibus
+
+[p. 55] phantaesmatum copulantur, non statim cognosci- ru mus propterea an propositiones ille vere sunt, ———— sed oportet prius cognoscere utriusque nominis eene definitionem, et rursus nominum quz in definitione meret illa ponuntur definitiones, donec continuata reso- sive somma lutione perveniatur ad nomen simplicissimum ; id "^ est in eo genere rerum summum, sive universalissimum, quod si neque tunc veritas aut falsitas. apparet, philosophis res est, et ratiocinatione a definitionibus incipiente, investiganda ; omnis enim propositio universaliter vera, aut definitio est, aut pars definitionis, aut ex definitionibus demonstranda.
+
+ll. Syllogismi vitium, quod in forma latere Viium . potest, reperietur semper, vel in implicatione onlbainne eopule cum altero terminorum, vel in aliqua oor. vocum sequivocatione; utroque autem modo quatuor fient termini, quod ostensum est in legitimo syllogismo fieri non posse.  Implicatio autem copule'cum utrovis termino, reductis propositionibus ad puram et nudam preedicationem, statim. detegitur, ut. si quis sic argutetur,
+
+Manus tangit calamum,
+
+Calamus tangit chartam, Ergo, Manus tangit chartam.
+
+Tneptia per reductionem statim manifesta est, nam Si sic enuncietur,
+
+Manus est tangens calamum, Calamus est tangens chartam, Ergo, Manus est tangens chartam, manifesti sunt quatuor termini, manus, tangens calamum, calamus, et tangens chartam.
+
+[p. 56] 56 COMPUTATIO SIVE LOGICA.
+
+FARSL — Sed non videtur sb hoc genere sophismatum —— tantum periculi esse, ut ulterius ea prosequi operze pretium sit. ors ex 12. In squivocis autem fallacia aliqua esse squivocatione. potest, non tamen in iis quie per se manifesta sunt; neque in metaphoris, nam vox metaphora, translationem nominis ab una re ad aliud ipsa przdicit. Sunt autem squivoca, nec ea perobscura quz tamen fallunt aliquando, ut in hac argumentatione, pertinet ad philosophiam primam, tractatio principiorum, sed primum omnium principium est, idem non simul esse, et non esse; pertinet ergo ad philosophiam primam, tractare an idem possit. simul esse et non esse.  /Equivocatio in voce principio fallaciam habet, nam initio metaphysicorum ubi dicitur tractationem principiorum pertinere ad scientiam primam, per principia intelligit Aristoteles causas rerum, et entia quedam quse vocat prima. Sed ubi propositionem illam primam dicit esse principium, intelligit principium et causam cognitionis, id est, verborum intellectum, quo si quis careat ne doceri quidem quidquam potest. Captiones. 18. Captiones autem sophistarüm, atque scepedd ticorum, quibus deridere aut oppugnare veritatem epa olim soliti sunt, vitium plerumque habebant, non qma in forma, sed in materia syllogismi ; et decepti silii. sepius fuerunt quam deceperunt; nam illud Zemonis celebre argumentum contra motum, innitebatur huic propositioni, quicquid dividi potest in partes numero infinitas est infinitum, quam ille procul dubio censuit esse veram, tamen falsa est ; nam dividi posse in partes infinitas nihil aliud est quam dividi posse in partes quotcunque quis velit.
+
+[p. 57] Necesse autem non est, ut linea, etsi possem ipsam — PARS I. dividere et subdividere quoties voluero, propter -— eam causam dicatur habere partes numero infinitas, riroses, sive infinita esse; nam quotcunque partes fecero semper tamen earum numerus finitus erit, sed quia qui dicit partes, simpliciter, non adjiciendo quot, non ipse numerum przefinit, sed auditori determinandum relinquit, ideo dici solet lineam posse dividi in infinitum, quod nullo alio sensu verum esse potest. Atque hsc sufficiunt de syllogismo, qui est tanquam gressus Philosophie ; nam et quantum necesse est ad cognoscendum unde vim suam habeat omnis argumentatio legitima, tantum diximus; et omnia accumulare quz dici possunt, zeque superfluum esset, ac si quis ut dixi puerulo ad gradiendum precepta dare velit; acquiritur nim ratiocinandi ars, non przceptis, sed usu, et lectione eorum librorum in quibus omnia severis demonstrationibus transiguntur.  Transeo jam ad viam philosophim, id est, ad philosophandi methodum.
+
+[p. 58] CAPUT VI.
+
+DE METHODO.
+
+1. Methodi, et scientige definitiones.—2. Notius de singularibus quam de universalibus, quod sunt; contra notius de universalibus quam de singularibus, cur sunt, sive queam sint eorum causg.—$. Philosophantes quid scire quserunt.—4. Pars prima qua principia inveniuntur, est pure analytica.—5. Cause maxime in unoquoque genere universales sunt per se cognitie. 6. Methodus a principiis inventis ad scientiam tendens simpliciter queenam sit.—7. Methodus scientise civilis, ut et naturalis a sensu ad principia scientie. Analytics, a principiie rursum synthetica est.—8. Methodus querendi an res proposita sit materia an accidens.—9. Methodus querendi an accidens propositum sit in hoc vel illo subjecto.—10. Methodus quaerendi effectus propositi eausam.—11. Vocabula inventioni serviunt ut note, demonstrationi ut verba significantia. —12. Demonstrandi methodus synthetica est.—13. Definitiones solas esse propositiones primas universales.—14. Definitionis natura et definitio.—15. Definitionis proprietates.—16. Demonstrationis natura.—17. Proprietates demonstrationis et demonstrandorum ordo.—18. Demonstrationis vitia.—19. Analytica geometrarum quare hoc loco tractari non potest.
+
+PaRsr 1l. ÀD cognitionem methodi, revocahda in memo- -——* . riam est philosophie definitio. Ea vero tradita Mebod — est supra, Cap. 1, art. 2, in hunc modum ; Philoedoitionca. sophia est phenomenon sive effectuum apparentium, ex concepta productione sive generatione aliqua possibili; et productionis quse fuit, vel esse potuit, ex concepto effectu apparente, per rectam rationem acquisita cognitio. Est ergo methodus philosophandi, effectuum per causas cognitas, vel causarum per cognitos effectus brevissima investigatio. [p. 59] Scire autem aliquem effectum tunc PARSI. dicimur, cwm ef causas ejus, quod sunt ; et inquo. —.— subjecto insunt, et. in quod subjectum effectum introducunt, et quomodo id faciunt cognoscimus.
+
+Itaque, scientia rov &ór: sive causarum est; alia cognitio ommis quse rov ór«-dicitur, sensio est vel a sensione remanens imaginatio sive memoria.
+
+Principia itaque scientie omnium prima, sunt phantasmata sensus et imaginationis, quee quidem cognoscimus naturaliter quod sunt; quare autem. sunt, seu a quibus proficiscuntur causis cognoscere ratiocinatione opus est, quz consistit (ut dictum est, supra Cap. 1, art. secundo) in compositione et divisione sive resolutione. Itaque omnis methodus per quam causas rerum investigamus, vel compositiva est, vel resolutiva, vel partim compositiva, partim resolutiva. Et resolutiva quidem analytica ; compositiva autem synthetica appellari solet.
+
+2. Omni methodo commune est hoc, ut proce- Notius de datur a cognitis ad incognita; id quod manifestum Fr est ex allata philosophie definitione. In cogni- rna tione autem sensuum, totum phzenomenon notius est quam quelibet pars ejus; ut cum videmus hominem, prius notus, seu notior est conceptus, sive idea illa tota hominis, quam particulares ides Jigurati, animati, rationalis, hoc est, prius videmus hominem totum, cognoscimusque quod est, quam animum ad particuleria illa advertimus.
+
+Itaque in cognitione rov ór: sive quod est, initium cona.
+
+quzrendi est a tota idea. Contra in cognitione 2ofurde, ToU Xr sive in cognitione causarum, id est, in rarus, scientiis, notiores sunt partium causze quam totius. cur sunt, sive
+
+Componitur enim causa totius ex causis partium, eom cause.
+
+[p. 60] componenda autem prius cognosci necesse est quam compositum. Per partes autem hoc loco intelligo non partes ipsius rei, sed partes naturse ejus, ut per partes hominis non intelligo caput, humeros, brachia, &c. sed figuram, quantitatem, motum, sensionem, ratiocinationem et similia, quae sunt accidentia quse composita simul constituunt totam hominis, non molem, sed naturam. Atque in hoc consistit id quod vulgo dicitur, alia esse nobis, alia esse nature notiora ; non enim arbitror eos qui sic distinguunt, notum quicquam esse existimare quod etsi homini nemini, nature tamen notum sit; notiora igitur nobis de notitia sensuum, notiora zafurz de notitia ratione acquisita intelligi debent, et sic tota partibus, id est, eee res quie nomina habent minus universalia (quas brevitatis causa singulares) quam quie nomina habent magis universalia (quas universales dicemus) notiores mobis; partium autem cause, quam causa totius, hoc est, universalia singularibus notiora mafure dici solent.
+
+Phiosphaes 3. Philosophantes quzrunt vel simpliciter sive quid scire petunt, indefinite scientiam, hoc est, nulla certa questione proposita, tantum scire quantum possunt; vel certi alicujus phaenomeni causam, vel aliquid saltem. certum invenire, ut quzenam sit causa Juminis, caloris, gravitatis, figure proposite, et similia ; vel in quo subjecto accidens aliquod propositum inhereat, vel ad effectum aliquem qui proponitur generandum, ex multis accidentibus, quse potissimum conducant; vel quo modo ad certum effectum producendum, cause particulares propositze conjungi debeant. Propter varietatem hanc rerum
+
+[p. 61] quzesitarum, modo methodus analytica, modo syn- PARS IL thetica, modo utraque adhibenda est. ELO 4. Quoniam autem qui scientiam simpliciter mma quzrunt, que consistit in cognitione causarum inveniuntur, quantum fieri potest omnium rerum ; cause autem slyiaa.
+
+singularium omnium componuntur ex causis uni- versalium sive simplicium, necesse illis est ut prius cognoscant causas universalium sive accidentium eorum quz sunt omnibus corporibus, hoc est omni materie communes, quam singularium, hoc est accidentium quibus una res ab alia distinguitur.
+
+Rursus antequam sciri illorum cause possunt, cognoscere oportet quee sunt. illa ipsa universalia.
+
+Universalia autem cum contineantur in natura singularium, ratione eruenda sunt, id est, per resolutionem. Exempli gratia, proposito quolibet conceptu sive idea rei singularis, puta quadrati.
+
+Quadratum ergo resolvetur in planum, terminatum lineis, et angulis rectis, certo numero, et equa- libus. Itaque habemus universalia hzc, sive ma- teriz omni convenientia, Jineam, planum, (in quo continetur superficies) terminatum, angulum, rec- titudinem, equalitatem, quorum causas sive gene- rationes si quis invenerit, in causam quadrati eas componet. Rursus, si proponat sibi conceptum.
+
+auri, venient inde resolvendo ideze solidi, visibilis, gravis, (id est conantis ad centrum terre sive motus deorsum) aliaque multa magis universalia quam est ipsum aurum, quz rursus resolvi possunt, donec perveniatur ad universalissima. — Atque eodem modo alia atque alia resolvendo, cognitum erit quenam ea sunt, quorum causis sigillatim.
+
+cognitis et compositis, cognoscuntur cause rerum singularium. Concludemus itaque methodum investigandi
+
+[p. 62] Conse mazime in 'anoquoque genere universalessunt. per secognite.
+
+62 COMPUTATIO SIVE LOGICA.
+
+notiones rerum universales, esse pure analyticam.
+
+5. Cause autem universalium (eorum quorum causz aliquze omnino sunt) manifeste sunt per se sive nature (ut dicunt) nota; ita ut nulla omnino methodo indigeant; causa enim eorum omnium universalis una, est motus; nam et figurarum omnium varietas ex varietate oritur motuum quibus construuntur, nec motus aliam causam habere intelligi potest przeter alium motum, neque varietates rerum sensu perceptarum, ut colorum, sonorum, saporum, &c. aliam habent causam preter motum, partim in objectis agentibus, partim in ipsis sentientibus delitescentem ; ita tamen, ut quamquam qualis ille motus sit sine ratiocinatione cognosci non possit, esse tamen motum aliquem manifestum sit. Etsi enim plerisque ut mutationem in motu consistere intelligant monstratione aliqua opus sit, id tamen non accidit propter rei obscuritatem, (nam ut aliquid vel de statu vel de motu suo decedat, nisi per motum intelligi non potest) sed vel propter naturalem discursum, preejudiciis magistrorum corruptum, vel propterea quod ad veritatem inquirendam nullam -omnino cogitationem adhibent.
+
+6. Cognitis igitur universalibus et eorum causis, (quz sunt cognitionis rov Xór: principia prima) habemus primo eorum definitiones (quz nihil aliud sunt quam conceptuum nostrorum simplicissimorum explicationes) nam qui Zoeum (exempli causa) recte concipit, definitionem hanc, locus est spatium quod a corpore adequate impletur vel occupatur, ignorare non potest; et qui mofum concipit, nescire non potest quod motus est loci
+
+[p. 63] unius privatio et alterius acquisitio. Deinde ha- PARSI bemus eorum generationes, sive descriptiones, ut Maca quod linea verbi gratia fiat ex motu puncti, super a principiis ficies ex motu linez, motus unus ex motu alio, &c. 24 scientiam. restat inquirendum, qualis motus quales effectus rnplilter generet; ut qualis motus lineam rectam, qualis quznam sit. circularem, faciet, qualis motus pellat, qualis trahat, et qua via; qualis rem visam, auditam, &c. aliter, atque aliter videri, audiri, &c. faciat. Atque hujus inquisitionis methodus compositiva est, primo enim videndum, corpus motum, si nihil aliud consideretur in eo preter motum quid efficiat; apparet autem statim effici lineam sive longitudinem; deinde quid faciat corpus longum si moveatur, constabitque fieri superficiem, atque ita porro quid fiat ex motu simpliciter; deinde simili modo, ex hujusmodi motibus additis, multiplicatis, subtractis, divisisque, qui effectus , quales figurze, et quales earum existent proprietates, contem. plandum est; atque ex hac contemplatione orta est philosophiz pars ea quz appellatur geometria.
+
+Post considerationem eorum quze fiunt ex motu simpliciter, sequitur consideratio eorum, quz motus unius corporis efficit in corpus aliud, et quoniam motus esse potest in partibus corporis singulis, ita tamen ut totum suo loco non decedat, inquirendum est primo loco quis motus quem motum efficit in toto; hoc est, incurrente aliquo corpore in aliud corpus quod quiescit, vel quod motu aliquo jam movetur, qua via et qua velocitate movebitur illud post incursum, et rursus quem motum motus ille secundus generabit in tertio, et sic deinceps, ex qua contemplatione existet philosophia pars illa quz de motu est.
+
+[p. 64] 64 COMPUTATIO SIVE LOGICA.
+
+PARSL — Tertio loco ad eorum inquisitionem devenietur
+
+—— quz fiunt ex motu partium, ut in quo consistit
+
+Muhdn, quod ezdem res, sensui tamen edem non videan- pepe tur sed mutatz; itaque investigantur hoc loco, tewe» ^ qualitates sensibiles, quales sunt, Juz, color, dia- pm phaneitas, opacitas, sonus, odor, sapor, calor, frigus, et similia, que quia sine cognitione cause ipsius sensionis cognosci non possunt, consideratio causarum visionis, auditus, olfactus, gustus, et tactus, tertium locum obtinebit, qualitates autem ille przdicte, mutationesque omnes in locum quartum differendz sunt, quse duze considerationes eam partem philosophie continent que vocatur physica. In his quatuor partibus continetur quicquid in philosophia naturali, demonstratione proprie dicta explicari potest. Nam si phenomenon naturalium speciatim causa reddenda sit, puta quales sint motus, et virtutes corporum ccelestium, et partium ipsorum, ea ratio ex dictis scientize partibus petenda est, aut omnino ratio non erit, sed conjectura incerta.
+
+Post physicam ad moralia veniendum est, in qua considerantur motus animorum, nempe, appetitus, aversio, amor, benevolentia, spes, metus, ira, emulatio, invidia, jc. quas causas habent, et quarum rerum ipsz cause sint; quz ideo post physicam consideranda sunt, quia causas habent in sensu et imaginatione, quz sunt subjectum contemplationi: physice. Hc autem omnia eo ordine quem. investiganda esse, ex eo constat quod physica intelligi non possunt nisi cognito motu qui est in partibus corporum minutissimis, neque talem motum partium nisi cognito quid sit quod motum efficit in alio, neque hoc nisi cognito
+
+[p. 65] motus simpliciter quid efficiat. Et ex eo quod Pans. omnis rerum ad sensus apparitio determinatur, Lue talisque et tantus fit, per motus compositos, quorum unusquisque certum gradum velocitatis, certamque viam obtinet; primo loco, vite motuum simpliciter (in quo consistit geometria) deinde vie motuum generatorum et manifestorum, pos- tremo vie motuum internorum et invisibilium (quas quaerunt physici) investigandi sunt. Itaque qui philosophiam naturalem quzrunt nisi a geo- metria principium quzrendi sumant, frustra quze- runt ; et qui de ea scribunt disseruntve, geometrize ignari, lectoribus auditoribusque suis abutuntur.
+
+7. Philosophia civilis morali ita adheret ut Metod tamen distrahi ab ea possit; cognoscuntur enim civilis ut. cause motuum animorum non modo ratiocinatione, sre sed etiam uniuscujusque suos ipsius motus proprios Poepe observantis experientia. Atque ob eam rem, ila non solum ii qui methodo synthetica a primis rum philosophis principiis ad scientiam cupiditatum, "^ei e perturbationumque animorum semel pervenerit, progrediendo eadem via incident in causas et necessitatem constituendarum civitatum, scientiamque acquirent juris naturalis, officiorumque civilium, et in omni genere civitatis, quod juris ipsi debetur civitati, et cetera quee philosophize civilis propria sunt, propterea quod principia politicae constant ex cognitione motuum animorum, cognitio autem motuum animorum, ex scientia sensuum et cogitationum, sed etiam illi qui priorem partem philo-
+
+Sophie nimirum geometriam et physicam non didicere, ad principia tamen philosophis civilis methodo analytica pervenire possunt. Nam proposita quzestione qualibet, u£, an actio talis justa an VOL. 1. F
+
+[p. 66] Methodus.
+
+querendi an.
+
+66 COMPUTATIO SIVE LOGICA.
+
+injusta sit, resolvendo illud injustum in, factum et. contra leges, et notionem illam Zegis, in mandatum ejus qui coercere potest, et. potentiam illam in voluntatem hominum pacis causa talem potentiam constituentium, pervenietur tandem ad hoc quod tales sunt hominum appetitus et motus animorum ut nisi sint a potentia aliqua coerciti, bello se invicem persecuturi sint, id quod per uniuscujusque proprium animum examinantis experientiam, cognosci potest. Itaque ab hoc loco progredi potest componendo, ad determinandam cujuslibet actionis propositz justitiam vel injustitiam. Jam. ex iis que diximus manifestum est methodum philosophandi iis quisimpliciterscientiam quzrunt, nulla certa questione proposita, partim analyticam partim syntheticam esse, nimirum a sensibus ad inventionem principiorum, analyticam esse, csetera. syntheticam.
+
+8. Qusrentibus pheenomeni vel effectus alicujus re propo certi et propositi causam aliquando accidit, ut sit materia.
+
+an aides, Utrum ea res cujus causam quzrimus, materia sit,
+
+Sive corpus, an corporis accidens aliquod, ignoretur. Nam etsi in geometria ubi quzritur causa magnitudinis, vel proportionis vel figure, certo sciamus, eas res nempe magnitudinem, proportionem et figuram esse accidentia. In physica tamen ubi de phantasmatum sensibilium causis agitur, quee pro ipsis rebus quorum sunt phantasmata sese offerunt plerisque imponunt, non ita facilis est dijudicatio. Praesertim vero in phantasmatis visionis; exempli causa, qui solem intuetur existit illi idea quzedam splendida magnitudinis quasi (per diametrum) unius pedis ; atque id ipsum appellat ille solem, etiam si solem revera
+
+[p. 67] multo majorem esse sciat, similiter phantasma UL videtur aliquando a longinquo quidem rotundum, —— in proximo vero quadratum. Itaque dubitari merito potest, utrum phantasma illud materia sive eorpus aliquod naturale sit, an vero corporis accidens aliquod. Hujus qussstionis examinandze methodus talis est. Materie et accidentis proprietates, quas a definitionibus eorum, methodo synthetica, prius invenimus, comparandse sunt, cum ipsa idea; et siquidem ide conveniant cor- poris sive materie proprietates, ipsa corpus est, si non conveniunt accidens est, siquidem ergo materia neque fieri, neque perire, neque augeri aut minui, neque loco moveri nostra opera possit ;
+
+idea autem illa oriatur, destruatur, augeatur, minuatur, moveatur nostro arbitrio, certum est materiam non esse, sed accidens. Est ergo me- thodus ista synthetica.
+
+9. Quod si de accidentis cogniti subjecto quses- Methodus. tio sit, id quod dubitari sliquando potest, ut in 3»accien precedente exemplo, splendor ille et magnitudo Iz Post apparens solis in quo subjecto sit dubitari potest, losubjete. —— inquisitio erit hujusmodi ; primo dividetur materia universa in partes, utpote in objectum, medium, et. ipsum sentiens, vel aliqua divisione quz ad rem propositam maximevidebitur accommodata; deinde singule partes excutiendee sunt secundum subjecti definitionem ; ea autem, que accidentis illius capacia non sunt, rejicienda sunt, verbi gratia, si sol ratiocinatione aliqua vera, inveniatur major quam. magnitudo apparens, magnitudo illa in sole non est, si sol est in una certa linea recta, et in una distantia certa, magnitudo autem et splendor visus sit in pluribus distantiis et lineis, ut fit per reflec- r2
+
+[p. 68] Methodus quaerendi effectus. propositi causam.
+
+68 COMPUTATIO SIVE LOGICA.
+
+tionem aut refractionem, non erit splendor ille neque apparens illa magnitudo in ipso sole. Itaque corpus solare non erit splendoris et magnitudinis illius subjectum ; et propter easdem rationes rejicietur quoque aér, aliaque, donec relinquatur nihil, quod splendoris, aut magnitudinis illius subjectum esse possit preeter ipsum sentiens. Quee methodus quatenus subjectum in partes dividitur, analytica ; quatenus subjecti et accidentis proprietates cum. ipso accidente cujus subjectum quirimus comparantur, synthetica est.
+
+10. Quando vero effectus alicujus propositi causa. investiganda est, ante omnia, cogitanda et comprehendenda animo est ejus rei que causa appellatur notio sive idea perfecta ; nimirum quod causa est, summa sive aggregatum accidentium omnium tam in agentibus, quam in patiente, ad propositum effectum. concurrentium, quibus omnibus ezistentibus effectum non ezistere, vel quolibet eorum uno absente existere, intelligi non potest.
+
+Cognito autem, quid causa sit, unumquodque accidens effectum concomitans, vel precedens quatenus, videbitur ad effectum aliquo modo pertinere sigillatim examinandum est, videndumque, utrum illo non existente propositus effectus existere intelligi possit necne ; atque hoc modo ea quze ad effectum producendum concurrunt, ab iis segregabuntur quz non concurrunt. Quo facto ea que concurrunt congreganda sunt, et consideratio habenda, an iis omnibus simul existentibus, possibile tamen sit intelligere quod propositus effectus non existat. Quod si id concipere non possumus, aggregatum illud causa ejus integra est, aliter non est, sed alia adhuc queerenda et accumulanda sunt.
+
+[p. 69] Exempli gratia, si causa luminis quzrenda sit, ES examinamus primo externa, reperimus autem quo- —— tiescunque lumen apparet, esse objectum quoddam prend precipuum tanquam fons ipsius luminis, sine quo effectus lumen intelligi non potest, itaque ad generationem [oi luminis concurrit primo objectum aliquod. Deinde consideramus medium, invenimusque quod nisi certo modo dispositum sit, nempe ut sit diaphanum, etsi objectum maneat idem, tolli tamen effectum ; concurrit itaque ad luminis generationem medii diaphaneitas. Tertio observo corpus videntis, reperioque a prava oculorum, cerebri, nervorum, cordis dispositione, id est &b obstructionibus, a stupore, a debilitate, tolli lumen, confert itaque ad causam luminis organorum ad recipiendas externorum impressiones apta dispositio. Rursus ex omnibus iis rebus quz inhzerentia in objecto efficere lumen possunt, sola actio est, (id est, motus aliquis,) quz manente effectu deesse intelligi non potest; nam ut lucere aliquid possit, non requiritur ut sit tantze magnitudinis vel talis figurze, neque etiam ut toto corpore e loco suo egrediatur (nisi forte dicatur id quod in sole vel alio corpore existens causa est luminis, esse lucem; quod quia per lucem nihil aliud intelligitur preter causam luminis inepta exceptio esset tanquam diceretur causam luminis esse, id quod in sole existens lumen efficit) restat
+
+"ut actio qua lumen generatur sit motus tantum partium ejus; ex quo facile intelligitur quid medium conferat, nempe motus illius continuationem ad oculum, et postremo quid oculus et reliqua organa sentientis contribuant nempe, ejusdem motus continuationem usque ad cor sive sensionis organum ultimum, atque hocmodo conflata erit causa luminis
+
+[p. 70] PARS 1.
+
+mote, demonstrationi ut verba significantia.
+
+7e COMPUTATIO SIVE LOGICA.
+
+ex motu continuo ab origine ejus ad originem motus vitalis, cujus quidem motus vitalis a motu illo adveniente mutatio est ipsum lumen. Sed hec dicta sint pro exemplo tantum, nam de ipso lumine unde et quomodo generetur, alias magisque suo loco dicendum est. Interea manifestum est quod in causarum investigatione partim methodo analytica partim synthetica opus est. Analytica, ad effectus circumstantias sigillatim concipiendas, synthetica ad ea quz singule per se efficiunt in unum componenda. "radita jam inveniendi methodo, dicendum restat de methodo docendi, hoc est, de demonstratione, et demonstrandi mediis. 11. In inethodo inveniendi, usus vocabulorum consistit in eo, ut sint »o/c, quibus quee adinventa sunt revocari in memoriam possint; nam misi id fiat, quiequid invenimus perit; neque progredi a principiis uno aut altero syllogismo longius propter imbecillitatem memorim possibile est. — Exempli gratia, 8i quis contemplando positum ante oculos ejus aliquod triangulum, inveniret quod anguli ejus omnes simul sumpti, zequales essent duobus angulis rectis, idque rem ipsam tacite cogitando sine omni verborum tam conceptorum quam prolatorum usu, contingeret illi ut in oblato triangulo altero, priori dissimili, vel etiam in eodem, sed secundum alium situm conspecto, utrum ea proprietas inesset ei necne, ignoraret ; et proinde ad singula triangula proposita, qua multitudine infinita sunt, contemplatio denuo instituenda esset. Id quod per vocabulorum usum (quorum unumquodque universale singularium rerum conceptus denotat infinitarum) necesse non est. inserviunt tamen inventioni, ut jam dixi tanquam s»o/e ad memoriam, non ut
+
+[p. 71] DE METHODO. ZA verba ad significandum : itaque homo solitarius PARS I philosophus fieri sine magistro potest. Adamus uu potuit. Sed docere, hoc est demonstrare, supponit duos, orationemque syllogisticam.
+
+12. Quoniam autem docere aliud non est prs- Demonstrandi methodus eyn- terquam per proprie inventionis vestigia animum thetica es. illius qui docendus est ad inventorum cognitionem perducere, eadem erit methodus demonstrandi quz fuerat investigandi, nisi quod pars methodi prior nempe quz procedebat a sensu rerum ad principia universalia omittenda sit. llla enim, cum sint principia, demonstrari non possunt, et cum sint nota natura, (ut dictum est supra articulo quinto) explicatione quidem egent, demon- . stratione non item. Tota igitur demonstrandi methodus synthetica est, consistens in orationis ordine incipientis a propositionibus primis sive universalissimis per se intellectis, et per propositionum in syllogismos perpetuam compositionem procedentis, donec a discente intellecta sit conclusionis quzsitze veritas.
+
+13. Principia autem illa, sol definitiones Sunt, Defoitiones quarum duo sunt genera, alia enim sunt eorum Feopocitonee vocabulorum, qui res significant quarum causa Pm" aliqua intelligi potest; alia eorum qus res significant quarum causa intelligi non potest. Prioris generis sunt corpus sive materia, quantitas sive extensio, motus simpliciter, denique quz omni materie insunt. Secundi generis sunt corpus tale, motus talis et tantus, magnitudo tanta, talis figura, aliaque omnia quibus unum corpus ab alio distingui potest. Prioris generis nomina satis definiuntur si oratione quantum
+
+[p. 72] [!
+
+Definitiones 'tolas esse. propositiones primas uni
+
+72 COMPUTATIO 8IVE LOGICA.
+
+fieri potest brevissima, earum rerum quarum illa nomina sunt, clare et perfecte idez, sive conceptus in animo audientis excitentur. Veluti si motum definiamus esse loci unius derelictionem, et alterius acquisitionem continuam. Nam etsi neque movens ullum neque causa motus in definitione illa reperiatur, tamen ex audita oratione illa, idea motus animo satis clare obversabitur. Nomina autem rerum quse causam habere posse intelliguntur, in definitione habere debent ipsam causam sive modum generationis, veluti cum circulum definimus esse figuram natam ex circumlatione lineg rectz in plano, &c. — Preeter definitiones, alia propositio nulla dicenda prima est, neque ergo si paulo severius agere volumus in numerum principiorum ascribenda est; nam axiomata quz habentur apud Euclidem, quia demonstrari possunt, principia demonstrandi non sunt, quamquam quia demonstratione non egent, omnium consensu principiorum authoritatem assequuta sunt. Deinde ea quz postulata et petitiones appellantur, principia quidem revera sunt, non tamen demonstrationis, sed constructionis, id est, non scientie, sed potentie; sive quod idem est, non theorematum, quz sunt speculationes, sed problematum, que ad praxim et opus aliquod faciendum pertinent. Illa vero recepta vulgo dogmata, qualia sunt, Natura abhorret vacuum, Natura nihil frustra facit, et similia, neque per se cognita, neque aliunde demonstrabilia, et szpius falsa quam vera multo minus pro principiis habenda sunt.
+
+Sed ut revertar ad definitiones, ratio quare illa.
+
+[p. 73] quee causam et generationem habent per causam PARS. et generationem definienda esse dico, hec est; ——— finis demonstrandi est causarum et generationis rerum scientia, quz si non habetur in definitioni- bus, haberi non potest in conclusione syllogismi illius qui ex definitionibus existit primus; et siquidem in conclusione prima, non reperiatur, neque in ulla conclusione reperietur ulteriore, itaque nulla unquam existet scientia, id quod est contra demonstratoris scopum et consilium.
+
+14. Definitiones autem ut quas principia sive Detuitionis propositiones primas esse modo diximus, orationes jeje. sunt, et quia adhibite sunt ad excitandam in animo discentis alicujus rei ideam, si quod ei rei nomen aliquod impositum sit, non potest definitio aliud esse quam illius nominis per orationem explicatio. Siquidem autem nomen impositum sit propter conceptum compositum, non aliud est definitio quam nominis illius in partes suas universaliores resolutio, ut quando definimus hominem, dicendo Aomo est corpus animatum sentiens rationale. Nomina illa corpus animatum, &c. partes sunt totius hujus nominis omo; unde fit ut hujusmodi definitiones semper constent ex genere et differentia, ita ut priora nomina omnia preter ultimum pro genere, ultimum autem pro differentia sit. Quod si nomen aliquod universalissimum in suo genere sit, definitio ejus constare ex genere et differentia non potest; sed fieri debet per circumloquutionem quamlibet; modo ea ad vim nominis explicandam maxime sit idonea. Rursus fieri potest, et sepe evenit, ut conjuncta sint genus et differentia, ita tamen ut definitionem
+
+[p. 74] 74 COMPUTATIO SIVE LOGICA.
+
+d L mon faciant, ut hee voces linea recta continet genus
+
+—— et differentiam, non tamen est definitio, nisi putemus lineam rectam ita definiri, linea. recta est linea recta; attamen si esset una aliqua vox ab ambabus illis diversa quz idem significaret quod ille ambz, tunc hujus unius vocis, essent ille duz voces definitio. Ex iis quz dicta sunt definitio ipsa quomodo definienda sit intelligi potest, nempe quod sit propositio, cujus predicatum est. subjecti resolutivum, ubi fieri potest, ubi non potest, exemplicativum.
+
+Deüwtons — 15. Proprietates definitionis sunt :
+
+## I. Quod tollit zquivocum, adeoque omnem
+
+illam distinctionum multitudinem quibus utuntur ii qui philosophiam acquiri posse putant disputationibus. Nam natura definitionis est ut definiat, id est, determinet nominis definiti significationem, eamque abscindat ab omni alia significatione quam quz in definitione continetur; et propterea distinctionum quotquot esse possunt circa definitum una definitio omnium locum obtinet.
+
+1I. Quod exhibet definiti notionem universalem, adeo ut pictura quzdam sit universalis, non ad oculum, sed ad animum. Nam ut qui hominem pingit imaginem efficit hominis hujus, sic qui nomen Aomo definit imaginem efficit hominis alicujus.
+
+11i. Quod, de definitionibus an sint admittendze necne, non sit necesse disputare. Quoniam enim inter docentem et discipulum sola res agitur, si discipulus intelligit definiti partes omnes in definitione resolutas, et tamen definitionem admittere nolit, controversia jam tunc finitur, idem enim est
+
+[p. 75] ac si doceri nollet. Quod si non intelligit, de- US finitio sine controversia inepta est, propterea quod "— definitionis natura in eo consistit ut ideam rei clare D»$eo exhibeat; principia enim per se nota sunt, aut nrncm principia non sunt.
+
+1v. Quod definitiones in philosophia priores sunt. nominibus definitis, philosophie enim docende initium est a definitionibus, et progressus ejus ad scientiam compositi compositivus est, cum itaque definitio sit nominis compositi per resolutionem explicatio, et processus sit a resolutis ad composita, prius intelligendze sunt. definitiones quam nomina composita, imo nominibus partium in oratione explicatis, non est necesse ut sit nomen ex iis compositum. Exempli gratia, cognitis nominibus his, equilaterum, quadrilaterum, rectangulun, non erat geometrie necessarium, ut omnino esset nomen hoc quadratum; nomina enim definita in philosophia brevitatis causa tantum adhibentur.
+
+### v. Quod nomina composita quz in philosophis
+
+una aliqua parte definiuntur, possint in alia parte aliter definiri; sicut parabole et hyperbole, alia est in geometria, alia in rhetorica definitio ; institute enim sunt et inserviunt definitiones certe alicui doctrine; siquidem ergo definitio, in una philosophiz parte, nomen aliquod quod videbitur ad geometrica brevius tradenda idoneum inducat, potest quoque in aliis philosophi partibus idem eodem jure facere; nominum enim usus privatus, atque (etiam inter plures consentientes) arbitrarius est.
+
+vi. Quod nomen nullum per unum vocabulum definitur. Propterea quod unum vocabulum, unius
+
+[p. 76] Demonatrationis natura.
+
+76 COMPUTATIO SIVE LOGICA.
+
+aut plurium vocabulorum resolutivum esse non potest.
+
+vir. Quod nomen definitum repeti in definitione non debet; nam definitum est totum compositum, definitio vero compositi, in partes resolutio, totum. autem sui ipsius pars esse non potest.
+
+16. Definitiones due quselibet, qua componi possunt in syllogismum, producunt conclusionem, quie quia a principiis, id est a definitionibus, derivatur demonstrate, et ipsa derivatio sive compositio demonstratio dicitur. Similiter si ex duabus propositionibus, quarum una est definitio, altera conclusio demonstrata, syllogismus fiat, vel quarum neutra est definitio, sed utraque prius demonstrata, ille syllogismus quoque demonstratio dicitur, et sic deinceps.  Demonstrationis igitur definitio hujusmodi erit. —.Demonstratio est syllogismus vel syllogismorum series a nominum definitionibus usque ad conclusionem ultimam derivata. Ex quo intelligitur omnem ratiocinationem legitimam, quze initium habet in principiis veris, esse scientificam et veram demonstrationem. Nam quod ad originem nominis attinet, etsi Grzci ámoàsk», quam Latini ad verbum vertentes demonstrationem appellaverunt pro ea ratiocinatione sola usurparunt, in qua descriptis certis lineis et figuris rem probandam quasi ante oculos posuere, quod proprie est ámo&exvó«v, sive monstrare, tamen ita fecisse ob eam causam videntur, quia preterquam in geometria (in qua fere sola hujusmodi figuris locus est) circa alias res ratiocinationem certam et sScientificam nullam, sed omnia controversiis clamoribusque plena esse animadvertissent; idque
+
+[p. 77] non propterea quod sine figuris veritas quam E przetendebant apparere non poterat, sed quia nulla. ——— posuerant ratiocinationis sus legitima principia, quapropter nulla est ratio quin prepositis definitionibus in quocunque doctrine genere, vere possint esse demonstrationes.
+
+17. Proprium ergo demonstrationis methodicze Proprieates.
+
+demonstra.
+
+est. tionis et.
+
+1. Ut omnis rationis series sit legitima, hoc est emos secundum syllogismorum leges supra traditas.
+
+ri. Utsingulorum syllogismorum przemissse prius demonstrates sint usque a definitionibus primis.
+
+ri. Ut procedatur post definitiones eadem methodo qua qui docet, ipsa quzeque invenerat ; nempe ut primo demonstrentur ea quz sunt definitionibus maxime universalibus proxima (in quo continetur pars philosophie illa quz philosophia prima dicitur) deinde ea quze demonstrari possunt. per motum simpliciter (in quo consistit geometria) post geometriam, ea quz doceri possunt per actionem manifestam, id est, per impulsionem et. tractionem. Inde ad motum partium invisibilium, sive mutationem, et ad doctrinam sensuum imaginationisque descendendum est, et ad animalium passiones internas, presertim vero hominis, in quibus continentur fundamenta prima officiorum sive doctrinze civilis quee locum tenet ultimum. Quod autem doctrinz universe ordo is quem dixi esse debeat, ex eo cognosci potest; quod quz posteriore loco docenda esse dicimus, nisi iis cognitis quz priore loco tractanda proponuntur, demonstrari non possunt ; eujus methodi exemplum. aliud afferri nequit preter ipsam elementorum
+
+[p. 78] 6. Demonstraionis vitia,
+
+78 COMPUTATIO SIVE LOGICA.
+
+philosophie, quam proximo capite aggredimur, et per totum librum persequimur tractationem.
+
+18. Preter paralogismos qui contingunt propter falsitatem preemissarum, vel vitium compositionis, de quibus dictum est capite precedente, duo przeterea sunt et ii proprii demonstrationum petitio principii, et causa falsa quz non modo discipulum rudem, sed etiam magistrum aliquando falunt, faciuntque ut quod demonstratum esse putant, demonstratum non sit. Principium autem petere dicuntur qui conclusionem probandam, aliis verbis enuntiatam pro definitione ponunt, id eat, pro principio demonstrandi; itaque ponentes pro causa rei quzesite, ipsam rem, sive effectum, faciunt in demonstrando circulum ; ut qui demonstrare vellet (exempli causa) quod terra stet immobilis in centro universi, et causam ejus rei supponat gravitatem, eamque definiat qualitatem esse qua corpus grave tendit ad centrum universi, frustra laborabit ; queritur enim queenam sit causa. quod qualitas illa terre insit; et propterea qui gravitatem causatur ipsam rem pro sui ipsius causa. ponit.
+
+Cause false exemplum in tractatu quodam hujusmodi invenio. Demonstrandum erat terram moveri. Incipit ergo ab hoc, quod cum terrá et Sol situm inter se eundem non servent, necesse sit. alterutrum moveri localiter; quod est verum; deinde quod vapores quos sol e terra marique elevat, propter motum hunc necessario moventur, quod verum est quoque; inde infert nasci ventos, etiam hoc concedi debet; ab his ventis moveri inquit aquas marinas, illarum autem motu fundum
+
+[p. 79] maris quasi flagellatum se convertere. Demus PARSI etiam hoc, concludet ergo necessario terram mo- ———veri. Paralogismus tamen est; nam si ventus ille causa fuit quare terra ab initio cireumageretur, et motus vel solis, vel terrz fuerit causa illius venti, erat motas vel solis vel terrze ante ipsum ventum ;
+
+8i ante ventum natum terra mota esset, tum ventus ille revolutionis terre causa esse non potuit; sin stante terra, motus erat sol, manifestum est vento illo existente terram potuisse non moveri ; non est ergo motus illius causa illa quam proposuit. Sed hujus generis in scriptoribus physicis paralogismi passim occurrunt permulti, quamquam hoc ipso quem adduxi in exemplum elaboratior esse nullus potest.
+
+19. Videri alicui potest ad hunc locum de me- pec thodo pertinere artem illam geometrarum quam pero vocant logisticam, id est, per quam a suppositione 2 sen idiinid quzsiti tanquam veri, ratiocinando incidunt vel in cognita ex quibus quzsiti veritatem demonstrare possunt, vel in impossibilia ex quibus intelligi potest id quod supponitur esse falsum. Verum ea ars hoc loco explicari non potest. Cujus rei causa est, quod methodus illa nisi ab iis qui in geometria versati sunt, neque exerceri, neque intelligi potest ; ipsis autem geometris quanto quisque plura preesentioraque habet theoremata, tanto magis logistica uti potest, adeo ut ab ipsa geometria realiter distincta non sit; habet enim ea methodus tres partes, quarum prima est inter incognita et cognita inventio squalitatis, quam vocant equationem ; sequatio autem illa inveniri non potest nisi ab iis qui proportionis naturam proprietates et transpo-
+
+[p. 80] 80 COMPUTATIO SIVE LOGICA.
+
+sitiones, linearum et superficierum additionem, substractionem, multiplicationem, divisionem, radieumque extractionem in promptu habent, id quod jam geometrz non mediocris est. Secunda est, ut ex szequatione inventa judicare possint, an ex ea, quzstionis veritas vel falsitas erui possit necne; id quod majoris adhuc scientiz est. Tertia, ut eequatione inventa quz: ad quzestionis solutionem sit idonea, eam ita resolvere ut veritas vel falsitas ejus fiat manifesta, id quod in quzestionibus difficilioribus sine cognitione nature figurarum curvilinearum fieri non potest.  Curvilinearum autem naturam et proprietates in promptu habere, geometria summa est. Accidit preterea quod in equationibus inveniendis nulla est methodus, sed tantum quisque valet quantum solertia prestat naturali.
+
+[p. 81] PHILOSOPHIA PRIMA.
+
+CAPUT VII. DE LOCO ET TEMPORE.
+
+1. Res non existentes nominibus suis intelligibiles et compu- tabiles esse.—2. Quid sit Spatium.—S. Tempus.—4. Pars—
+
+5. Dividere.—6. Unum.— 7. Numerus.—8. Componere.—
+
+9. Totum.—10. Spatia et tempora contigua, et continua.—
+
+11. Principium, finis, vis, finitum, infinitum.—12. Potentia infinitum, quid; nullum infinitum, aut totum, aut unum dici posse; nec spatia aut tempora infinita plura.—19. Non dari minimum divisibile. l. DocrRINA naturalis exordium, optime (ut PART supra ostensum est) a privatione, id est, a ficta. ———^ wuniversi sublatione, capiemus. Supposita autem Moo, tali rerum annihilatione, queret fortasse aliquis, Pii quid reliquum esset, de quo homo aliquis (quem Babies eme. ab hoc universo rerum interitu unicum excipimus) " philosophari, vel omnino ratiocinari, vel cui rei nomen aliquod ratiocinandi causa imponere posset.
+
+Dico igitur, remansuras illi homini, mundi et corporum omnium, quz, ante sublationem eorum, oculis aspexerat, vel aliis sensibus perceperat, ideas, id est memoriam imaginationemque magni-
+
+VOL. I. [1
+
+[p. 82] Quid sit Spatium,
+
+
+tudinum, motuum, sonorum, colorum, &c. atque etiam eorum ordinis et partium ; quz omnia etsi idez tantum et phantasmata sint, ipsi imaginanti interne accidentia, nihilominus tanquam externa, et a virtute animi minime dependentia, apparitura esse. His itaque nomina imponeret, hac subtraheret et componeret. Cum enim cseteris rebus destructis manere tamen hominem illum, nimirum cogitare, imaginari, et meminisse supposuerimus, aliud quod cogitet praeterquam quse preeterita sunt, nihil est; imo vero si ad ea, quz ratiocinando facimus animum, diligenter adverterimus, ne stantibus quidem rebus aliud computamus, quam phantasmata nostra ; non enim si coli aut terre magnitudines motusque computamus, in codlum ascendimus, ut ipsum in partes dividamus, aut motus ejus mensuremus, sed quieti in musco, vel intenebris, id facimus. Possunt autem considerari, id est in rationes venire duplici nomine, nimirum ut accidentia animi interna, quemadmodum consSiderantur quando agitur de facultatibus animi, vel ut species rerum externarum, id est, tanquam non existentes, sed existere sive extra stare apparentes, quo modo nunc consideranda sunt.
+
+2. Jam si meminerimus, seu phantasma habuerimus alicujus rei, quz extiterat ante suppositam rerum externarum sublationem, nec considerare velimus, qualis ea res erat, sed simpliciter quod erat extra animum, habemus id, quod appellamus spatium, imaginarium quidem, quia merum phantasma, sed tamen illud ipsum, quod ab omnibus sic appellatur. Nemo enim spatium ideo esse dicit, quod occupatum jam sit, sed quod occupari possit; aut corpora loca sua secum absportare putant, sed in eodem spatio modo unum, modo aliud, contineri; [p. 83] id quod fieri non posset, si spatium corpus quod in eo semel est semper comitaretur. Est autem adeo hoc manifestum, ut ne explicatu quidem. dignum existimarem, nisi viderem philosophos, ex falsa spatii definitione, alium quidem inferre statim, mundum esse infinitum ; dum enim spatium, ipsorum corporum extensionem concipit semper esse, posse ulteriorem, corpora ipsa infinite extendi vult: alium autem rursus ex eadem definitione, plures uno mundo creare etiam Deo impossSibile esse, temere concludere; nam si creandus inquit esset alius mundus, cum extra hunc mundum nihil sit, neque ergo (ex ejus definitione) ullum spatium, ponendus esset mundus in nihilo; in nihilo autem nihil, inquit, poni potest; quare autem aliquid poni in nihilo non possit, non docet. Imo vero, ubi aliquid jam est, nihil amplius poni potest, tanto vacuum pleno ad nova corpora recipienda accommodatius est. Horum igitur, et eorum qui his assentiunt, gratia dicta hec sint. Reversus itaque ad institutum, spatii definitionem hanc esse dico, spatium est. phantasma rei ezistentis, quatenus existentis, id est, nullo alio ejus rei accidente considerato przeterquam quod apparet extra imaginantem.
+
+T Quia sit Spatium.
+
+3. Sicut corpus sug magnitudinis ita quoque Tempu.
+
+corpus motum motus sui phantasma in animo relinquit, nimirum ideam corporis, nunc per hoc, nunc per aliud spatium continua successione transeuntis. Est autem talis idea sive phantasma, id quod neque a communi hominum sermone, neque multum a definitione discedens Aristotelis, appello tempus. Nam quum confiteantur annum, esse tempus, et tamen annum alicujus corporis accidens aut affectum, aut modum esse non putent, necesse G2
+
+[p. 84] s TI. est ut confiteantur esse eum, non in ipsis rebus,
+
+7——— sed in animi cogitatione, reperiendum ; quumque
+
+T^ de majorum suorum temporibus loquuntur, an existimant, extinctis majoribus suis, tempora eorum alibi esse posse, quam in memoria recordantium ? Qui vero dies, annos, menses, dicunt esse ipsos solis lunzeque motus, cum quod ad motum attinet, preteriisse idem sit quod perire, et fore idem quod nondum esse, dicunt id, quod non volunt, nullum tempus omnino esse, nec fuisse, nec fore : de quo enim dici potest fuit, vel eri, dici quoque aut olim potuit aut mox poterit, est. Ubi igitur est dies, mensis, vel annus, nisi sint hec nomina computationum in animo factarum? Est igitur tempus phantasma; sed phantasma motus; cum enim, quibus momentis tempus labatur, cognoscere volumus, adhibemus motum aliquem, ut solis, vel automati, aut clepsydrz, vel lineam signamus, super quam aliquid ferri imaginabimur; alio autem modo tempus nullum apparet. Nec tamen 8i dicamus, Zempus esse phantasma motus, sufficiet. hoc ad definitionem ; nam hac voce fempus, notamus prius et posterius, sive successionem corporis moti, quatenus existentis primo Aie, deinde i//ie. Tota ergo definitio temporis talis est, tempus est phantasma motus, quatenus in motu imaginamur prius et posterius, sive successionem; quise convenit cum definitione Aristotelica, tempus est numerus motus secundum prius et. posterius. Est enim ea numeratio actus animi, ideoque idem. est dicere, tempus est numerus motus secundum prius et posterius, et tempus est phantasma motus numerati, illud autem tempus est mensura. motus nori ita recte dicitur, nam tempus per motum, non autem motum per tempus, mensuramus.
+
+[p. 85] 4. Spatium spatii et tempus temporis pars PARS I. vocatur, quando illud in hoc, et preterea aliud Rep continetur. Ex quo colligitur partem non recte ?*quicquam appellari, nisi comparatum cum alio, in quo ipsum continetur.
+
+5. Partes ergo facere, seu partiri, seu dividere Diver. spatium aut tempus, nihil aliud est, quam in ipso aliud atque aliud considerare. Itaque si quis dividat spatium, aut tempus, tot habet diversos conceptus, quot partes facit, et adhuc unum amplius ; nam primus conceptus erit ipsius dividendi, deinde partis ejus, et deinde partis alterius, et sie perpetuo quoad dividere ulterius perget.
+
+Notandum autem est, per divisionem hoc loco non intelligi unius spatii, vel temporis, ab altero distractionem, sive divulsionem (quis enim spatiorum vel temporum partes, puta hemispherium ab hemisphzrio, vel horam primam a secunda dirimi posse putat) sed diversam considerationem, ut sit divisio non manuum, sed mentis opus.
+
+6. Spatium, vel tempus, quando consideratur usus. inter spatia sive tempora alia, unum dicitur; videlicet, unum ez illis; nisi enim spatium spatio, tempus tempori, aliud alii, adjici vel adimi possit, sufficeret dicere spatium, vel tempus simpliciter, essetque superfluum dicere spatium unum, aut tempus «nu, si aliud esse intelligi non posset. Quod vulgo definiunt umwm esse quod est indivisum, obnoxium est absurde cuidam consequentie, inferetur enim id, quod divisum est, esse plura, id est, omne divisum esse divisa, quod ineptum est.
+
+7. Numerus est unum et unum, vel unum unum Numerus. et unum, et sic deinceps ; nimirum unum et unum, numerus binarius, unum unum et unum ternarius,
+
+[p. 86] 7.
+
+Componere.
+
+Totum.
+
+
+et similiter de czeteris numeris; quod idem est ac 5i diceremus numerus est unitates.
+
+8. Componere spatium ex spatiis, vel tempus ex temporibus, est primo unum post aliud, deinde omnia simul, ut unum, considerare; ut si quis numeret primo seorsim caput, pedes, brachia, bustum, deinde pro omnibus simul in rationes ponat hominem. Quod autem pro omnibus ex quibus constat, sic ponitur, vocatur ofum, et illa singula, quando ex totius divisione rursus seorsim considerantur, partes ejus sunt. taque fofum et omnes partes, simul sumptz, idem omnino sunt ; ut autem in divisione monuimus non opus esse, ut. partes divellantur, ita in compositione intelligendum est, non necesse esse ad faciendum totum, ut partes sibi invicem admoveantur, et se mutuo contingant, sed ut mente tantum in unam summam colligantur. Sunt enim omnes homines, simul considerati, totum genus humanum etsi et temporibus et locis dispersi sint; et duodecim hore componuntur in unum numerum duodenarium, etsi sint diversorum dierum horz.
+
+9. His intellectis manifestum est, totum nihil recte appellari, quod non intelligatur ex partibus componi, et in partes dividi posse ; ideoque si quid negaverimus dividi posse, et habere partes, negamus idem esse totum ; exempli gratia, si animam negamus habere posse partes, negamus quoque animam ullam esse totam. Manifestum etiam est nihil habere partem antequam dividatur, et cum divisa sit, tot solummodo ejus partes esse, quoties sit divisum ; item partem partis, esse partem totius; nam et pars quaternarii puta binarius, pars est octonarii. Nam quaternarius ex binario, et binario,
+
+[p. 87] octonarius autem ex binario binario, et quaternario PARS It componitur; et proinde binarius, qui pars erat — partis, scilicet quaternarii, pars rursus est totius octonarii.
+
+10. Duo spatia, inter se contigua dicuntur, inter fosadid quz aliud spatium nullum est. A B c conigos, Duo autem tempora, inter qui nullum intercedit *! "tinus. tempus, inter se izmediata appellantur ut A B. BC. Continua autem inter se tum spatia, tum tempora duo dicuntur, quorum est aliqua pars communis.
+
+A B C D ut AC, BD, quorum est pars communis BC. Plura autem pluribus continua sunt, quorum duo quelibet proxima sunt continua.
+
+11. Partium ea, quz inter duas partes alias inter- Trincipium, cipitur, Media, quie vero non est posita inter duas pos slias partes, ezírema appellatur. Extremarum infaiti, autem, que prior numeratur, principium, quee posterior, finis ; medig vero, omnes simul sumptze, via est. Extreme autem partes, et termini idem sunt. Constatex his principium et finem a nostre numerationis ordine dependere; et spatium vel tempus finire, sive ferminare idem esse, quod imaginari principium ejus et finem; atque unumquodque finitum vel infinitum prout nos illius terminos undiquaque imaginati sumus. Numeri autem termini, unitates sunt, illa scilicet, unde numerare incipimus, principium, illa vero, in qua desinimus, finis. Numerus autem infinitus dicitur, qui quis sit non sit dictus; nam si dictus sit binarius, ternarius, millenarius, &c. semper finitus est; sed cum nihil sit dictum preterquam numerus est infinitus, intelligendum est idem dictum esse acsi diceretur nomen hoc numerus esse nomen indefinitum.
+
+[p. 88] 88 PHILOSOPHIA PRIMA.
+
+acid Potentia autem finitum, id est, terminabile "—'— dicitur spatium, vel tempus, quando numerus spa- Rasen tiorum vel temporum finitorum, puta passuum vel gHairU" horarum, assignari potest, quo major numerus mrs eorundem in eo spatio vel tempore esse non potest. didipose; Potentia autem infinitum est, in quo major numemuttmpon IUS dictorum passuum vel horarum dari potest, infoi P^ quam quilibet numerus quisit datus. Notandum autem est, etsi in eo spatio vel tempore, quod potentia infinitum est, numerari possunt plures passus vel horz quocunque numero qui assignari potest, numerum tamen illum semper finitum fore, omnis enim numerus finitus est. Non ergo recte ratiocinatus est is, qui, mundum finitum esse probare volens, hoc modo ratiocinatus est; sí mundus sit infinitus, tum potest in eo sumi aliqua pare, que a nobis distat infinito numero passuum, sed hujusmodi pars nulla sumi potest, ergo mundus mon est infinitus; nam consequentia illa majoris propositionis falsa est; quiequid enim in spatio licet infinito sumimus, sive animo designamus, id finito spatio a nobis distabit, nam eo ipso quod designamus locum ejus, facimus ibi spatii finem cujus principium ipsi sumus, et quicquid ab infinito utrinque animo abscindimus finimus, id est finitum facimus.
+
+De spatio et tempore interminabili, dici non potest qnod sit fofum aut unum; non totum, quia ex nullis partibus componi potest; partes enim quotcunque, cum singule sint finitze, etiam simul sumptze facient totum finitum. Non wmum, quia wnum non dicitur nisi ut comparatum ad aliud ; duo autem infinita spatia, vel duo tempora infinita esse, intelligi non potest. Denique cum quzritur
+
+[p. 89] an mundus sit finitus an infinitus, nihil in animo eri m est sub voce mundua, quicquid enim imaginamur, -— eo ipso finitum est, sive ad stellas fixas sive ad sphaeram nonam, decimam, vel denique millesimam computemus. Quseritur hoc solum, an quantum.
+
+nos spatium spatio addere possumus, tantum Deus corpus corpori actu adjunxerit.
+
+18. Itaque quod dici solet spatium et tempus Non dai «vidi posse in infinitum, non ita accipiendum est, poor ac si fieret aliqua infinita sive eterna divisio, sensus ejus dicti, melius explicatur hoc modo, quicquid dividitur, dividitur in partes rursus divisibiles ; vel sic, non datur minimum divisibile, vel, ut geometrz plerique enuntiant, quavis quantitate data sumi posse minorem, id quod facile demonstrari potest sic. Nam divisum sit datum spatium vel tempus quodlibet (quod putabatur esse minimum divisibile) in duas partes zequales A. et B, dico utramvis partem puta A posse rursus dividi; supponatur enim partem A contiguam esse hinc quidem parti B, illinc vero alteri spatio quod sit ipsi B zequale, totum ergo hoc spatium (quod dato majus est) divisibile quoque est. Eo ergo diviso in duo squalia, etiam A quod in medio est in duo zqualia dividetur, erat ergo A divisibile.
+
+[p. 90] CAPUT VIII.
+
+DE CORPORE ET ACCIDENTE.
+
+l. Definitio corporis.—2. Definitio accidentis. — 3. Quomodo intelligatur accidens inesse in subjecto suo—4. Magnitudo, quid.—45. Quid sit locus, et locum esse immobilem.—6. Quid plenum et vacuum. — 7. Hie, illic, alicubi, quid significant. 8. Neque plura corporá in uno loco, neque unum corpus in pluribus locis esse posse.—9. Quid sint contiguum et continuum.—10. Motus definitio, et motum nisi in tempore non
+
+——11. Quid sit quiescere, et motum fuisse, et motum fore; in omni motu concipi necessario preteritum et futurum.—12. Quid sint punctum, linea, superficies et solidum. 18. Quid sit in corporibus et magnitudinibus, sequale, majus et minus.—14. Unius et ejusdem eorporis eandem semper esse magnitudinem.—15. Velocitas quid.—16. Quid sit in temporibus equale, majus et minus. — 17. Quid sint in velocitate sequale, majus et minus.—18. Quid sit in motu equale, majus et minus.—19. Quod quiescit, nisi moveatur ab externo, semper quiescet, et quod movetur, nisi ab externo impediatur, semper movebitur.—90. Generari et perire accidenti, corpus non item.—92]. Accidens non migrare e subjecto.— 22. Neque moveri.—99. Essentia, forma, et materia, quid.—24. Materia prima, quid.—25. Totum est majus sua parte; cur demonstratum,
+
+PARS IL ]l. INTELLECTO jam quid sit spatium imaginarium, — L in quo nihil esse externum supposuimus, sed
+
+Definitio corporis, meram eorum, quz olim existentia imagines suas in animo reliquerant, privationem ; supponamus deinceps aliquid eorum rursus reponi, sive creari denuo; necesse ergo est ut creatum illud sive repositum, non modo occupet aliquam dicti spatii partem, sive cum ea coincidat et coextendatur, sed etiam esse aliquid, quod ab imaginatione nostra non dependet. Hoc autem ipsum est quod
+
+[p. 91] appellari solet, propter extensionem quidem, PARS IL corpus; propter independentiam autem a nostra ———— cogitatione subsistens per se; et propterea quod extra nos subsistit, eziszens; denique quia sub spatio imaginario substerni et supponi videtur, ut non sensibus sed ratione tantum aliquid ibi esse intelligatur, suppositum et subjectum. Itaque definitio corporis hujusmodi est, corpus est quicquid non dependens a mostra cogitatione cum spatii parte aliqua coincidit vel coeztenditur.
+
+2. Quid autem sit accidens non tam facile Defui. definitione quam exemplis explicari potest. Cogitemus igitur corpus spatium aliquod occupare, Sive cum eo coextendi, coextensio illa non est ipsum corpus coextensum; similiter cogitemus corpus idem transferri, illa translatio non est ipsum corpus translatum ; vel cogitemus corpus illud non transferri, illa non translatio, seu quies, non est corpus ipsum quiescens. Quid ergo sunt? sunt corporis accidentia, sed hoc ipsum quserimus quid sit accidens ?. in quo quidem quod intelligimus quaerimus, quod querendum erat non quierimus. Quis enim est, qui, dicentem aliquid extendi vel moveri, vel non moveri, non semper et eodem modo intelligit? Volunt tamen plerique dici sibi accidens esse aliquid, scilicet. partem aliquam rerum naturalium, cum revera pars earum nonsit. His ut satisfiat, optime, quantum fieri potest, respondent illi qui accidens definiunt esse modum corporis, juxta quem concipitur ; quod est. idem ac si dicerent, accidens esse facultatem corporis qua sui conceptum nobis imprimit ; qua definitione etsi non respondeatur ad id quod quzritur, respondetur tamen ad id quod [p. 92] intelligator. accidens. inesse in. subjecto suo,
+
+92 PHILOSOPHIA PRIMA.
+
+querendum erat; nimirum wade accidit quod corporis una pars hinc, altera illinc appareat 8 sic enim recte respondebitur propter extensionem ; vel unde accidit quod totum corpus continuo, modo hinc, modo illinc conspicitur ? et respondebitur, propter motum; vel denique wnde accidit ut idem spatiumtempore aliquo occupari videatur 2 ut respondeatur, propterea quod non est motum. Nam si de nomine corporis, id est, de nomine conereto interrogatur, quid est ? per definitionem respondendum est, quizritur enim vocis significatio tantum ; verum si de nomine abstracto quzratur quid est? qusritur causa quare aliquid hoc vel illo modo apparet. ^ Ut si queratur quid sit durum, respondebitur durum est cujus pars non cedit nisi cedente toto ; at si quieratur, durities quid sit? Ostendenda est causa, quare nisi cedente toto, pars non cedit. Definiemus igitur accidens esse concipiendi corporis modum.
+
+8. Quod autem accidens in corpore inesse dicatur, id non ita accipiendum est, ac si aliquid in corpore contentum esset, tanquam exempli gratia ita rubor inesset sanguini, sicut sanguis in cruentata veste, id est, ut pars in toto; nam sic accidens esset quoque corpus; sed sicut magnitudo, vel quies, vel motus est in eo quod magnum est, quod quiescit, vel quod movetur (quod quo modo intelligendum est unusquisque intelligit) ita etiam omne aliud accidens inesse subjecto suo intelligi debet. Id quod etiam ab Aristotele explicatum est, non aliter, quam negative, videlicet accidens inesse. subjecto non tanquam pars, sic tamen, ut sine subjecti interitu abesse possit. Et recte quidem, nisi quod quzdam accidentia
+
+[p. 93] abesse a corpore sine interitu ejus non possunt, PARS. nam corpus sine extensione aut sine figura omnino —.— concipi non potest. Cetera autem accidentia, que non omnium corporum communis, sed aliquorum propria sunt, ut quiescere, moveri, color, durities, et similia, succedentibus aliis continuo intereunt, ut tamen corpus intereat nunquam.
+
+Quod autem alicui videri possit, non omnia acci- dentia suis corporibus ita inesse, sicut inest eztensio, motus, quies, aut figura; exempli causa colorem, calorem, odorem, virtutem, vitium, et similia, aliter inesse et (ut dicunt) inhzrere;
+
+velim eum in presentia judicium suum de ea re suspendere, et parumper expectare, donec ratioeinatione investigatum sit, an hzc i| ipsa accidentia non sint etiam motus quidam, aut animi imagi- mantis, aut corporum ipsorum que sentiuntur ;
+
+nam illud explorare, magna pars est Philosophize naturalis.
+
+4. Extensio corporis idem est quod magnitudo En ge ejus, sive id quod aliqui vocant spatium reale ; magnitudo autem illa non dependet a cogitatione nostra, sicut spatium imaginarium, hoc enim illius effectus est, magnitudo causa; hoc animi, illa corporis extra animum existentis accidens est.
+
+5. Spatium autem (qua voce semper intelligo Quà sit locus, imaginarium) quod cum corporis cujuscunque immobilem, magnitudine coincidit, illius corporis vocatur locus; tunc autem corpus ipsum Jocatum dicitur.
+
+Locus autem a magnitudine locati differt, primum in eo quod corpus idem eandem magnitudinem semper retineat, et dum quiescit, et dum movetur, sed dum movetur eundem /ocum non retinet; secundo in eo quod locus corporis cujuscunque,
+
+[p. 94] 94 PHILOSOPHIA PRIMA:
+
+rur tanti et sic figurati phantasma est, magnitudo —À autem cujusque corporis est accidens ejus pecu- Quia it ocv, liare ; nam unius locati plures esse diversis immobilem temporibus loci possunt, plures magnitudines esse non possunt. Tertio in eo quod locus nihil est extra animum, magnitudo nihil intra; denique locus est extensio ficta, magnitudo extensio vera, et corpus locatum, non est extensio, sed extensum. Preterea Jocus immobilis est, cum enim quod movetur, a loco ad locum ferri intelligitur, si locus movetur locus etiam a loco ad locum transferretur, unde necesse esset ut loci locus esset, et rursus ejus loci in quo locus est, alius locus, et sic infinitum, quod est perridiculum. Dum autem loci immobilitatem sustinent illi, qui naturam ejus in spatio reali collocant, faciunt et ipsi locum esse phantasma, etsi se id facere non animadvertant. Dicit enim alius locum ideo immobilem dici, quia consideratur ibi spetium in genere. Sed si meminisset, nihil esse genericum neque universale preter nomina; facile vidisset spatium illud, quod considerari in genere dicit, nihil aliud esse preter cujuslibet corporis, tantze magnitudinis et talis figurze, insidens animo phantasma, sive memoriam. Alius vero spatium reale immobile fieri dicit, per intellectum ; ut si superficiei aque currentis cogitemus succedentem aquam semper supponi, illa superficies qu: ita per intellectum sistitur, erit fluminis Jocus immobilis; quid autem est hoc aliud quam locum facere, ut est, phantasticum, obscure licet et verbis perplexis ? Postremo, loci natura non in superficie ambientis, sed in solido spatio consistit ; locatum enim totum.
+
+[p. 95] cum loco toto, et pars cum parte coextenditur; ry n. corpus autem locatum cum solidum sit, cum super- —— ficie coextendi non est intelligibile; preterea quomodo moveri potest totum aliquod corpus, nisi et singulee partes simul moveantur? aut quomodo partes interiores moveri nisi locum relinquant ? relinquere autem pars corporis interior super- ficiem exterioris sibi contigus non potest; unde sequitur, si locus sit superficies ambientis, partes ejus quod movetur, id est, id quod movetur, non moveri.
+
+6. Spatium (sive locus) quod a corpore occu- Quia patur plenum, quod non occupatur eacuum Deed pellatur.
+
+7. Hic, illic, in agro, in urbe, et similia nomina, fonde quibus respondetur ad questionem wbi esf, non rigsiücant. ipsiusloci nomina sunt, nec per se revocant in animum locum ipsum qui queritur, nam Aic et illic nisi res digito aliave re simul indicetur, nihil significant; quando vero digito vel alio indice oculus querentis versus rem quszsitam dirigitur, non definitur locus a respondente, sed a querente invenitur. Monstrationum autem quz per solas voces fiunt, ut quando dicitur, iu agro vel in urbe alie aliis latiores sunt, ut in agro, in urbe, in regione urbis, in domo, in cubiculo, in lecto; que quidem propius semper ad locum proprium quzrentem paulatim dirigunt, locum tamen non determinant, sed tantum ad spatium arctius restringunt, significantque locum rei esse intra spatium. quoddam illis verbis designatum, ut partem in toto. Atque hujusmodi nomina (quibus respondetur ad qusestionem ubi) habent omnia pro summo genere vocem hanc alicubi. Ex quo intelligitur quicquid
+
+[p. 96] Neque. lura cot Em
+
+Quid sint contiguum. et continuum.
+
+
+est alicubi, esse in aliquo loco proprie dicto, qui scilicet locus pars est spatii illius majoris quod aliqua vocum illarum in agro, in urbe, vel similium significatur.
+
+8. Corpus, et magnitudo, et locus ejus, uno et eodem actu animi dividitur; nam dividere corpus extensum, et extensionem ejus, et ideam extensionis, nempe locum, idem est quod dividere quodlibet eorum, cum sint coincidentia, nec nisi animo, id est per divisionem spatii fieri possit. Ex quo manifestum est neque duo simul corpora in eodem loco, neque unum corpus in duobus simul locis esse posse; non duo corpora in eodem loco, quoniam cum corpus quod totum spatium occupat dividitur in duo, etiam spatium ipsum in duo dividitur, sunt ergo duo loca. Non unum corpus in duobus locis, propterea quod spatio quod a corpore occupatur, id est, loco ejus in duo diviso etiam ipsum locatum in duo dividitur (nam, ut diximus, locus et corpus quod in eo est una dividuntur) duo ergo sunt corpora.
+
+9. Corpora etiam duo, contigua inter se, et continua dicuntur eadem ratione qua duo spatia ; nimirum contigua sunt, inter que nullum est spatium. Per spatium autem intelligimus, ut supra, corporis ideam sive phantasma. taque etsi inter duo corpora nullum aliud corpus interpositum sit, et per consequens, nulla magnitudo, Sive, ut vocant, spatium reale, si tamen inter ea Corpus esse possit, id est, si intercedat spatium. corporis recipiendi capax, non sunt ea corpora contigua; quod ita facile agnosci potest; ut mirarer homines quandoque subtiliter philosophantes, aliter censere, nisi exploratum haberem
+
+[p. 97] plerosque, qui subtilitatem quandam metaphysicam PARSIL affectant, verborum specie tanquam igne fatuo ——— . deviare. Quis enim sensu naturali utens, ideo duo corpora necessario se mutuo tangere putat, quod inter ipsa aliud corpus nullum sit; aut ideo vacuum non dari, quia vacuum est nihil, vel non ens? tanquam quis pueriliter argueret, neminem jejunare posse, quia jejunare est nihil comedere, nihil autem comedi non potest.
+
+Continua autem inter se duo corpora sunt quorum est pars communis, et plura quorum quelibet duo proxima sunt continua ; eodem prorsus modo quo spatia continua supra definivimus.
+
+10. Motus est continua unius loci relictio et Mous.
+
+: $85 -oopfiprapra po einito et alterius acquisitio ; locus autem, qui relinquitur, motum wii terminus a quo, qui acquiritur, terminus ad. quem jr ielig. dici solet ; continuam dico, propterea quod corpus quantulumcumque sit, non potest totum simul a toto loco priore ita excedere, ut pars ejus non sit in parte quse sit utrique loco, nimirum relicto et acquisito, communis. Exempli causa, sit corpus quodcunque in loco A B C D, non potest illud pervenire ad loeum BDEE, ^GB LE quin prius sit in-G H I K, cujus pars i M GH BD sit communis utrique loco H K F ABCD, et GHIK, et pars BDIK communis utrique loco GHIK et BDEF.
+
+Moveri autem aliquid nisi in tempore concipi non potest. Est enim tempus, ex definitione, phantasma, id est, conceptus motus; itaque concipere moveri aliquid non in tempore esset concipere motum non concepto motu, quod est impossibile.
+
+VOL. I. H
+
+[p. 98] 98 PHILOSOPHIA PRIMA.
+
+PARSILO— 1]. Quiescere dicitur quod, per aliquod tempus, —À— in eodem est loco, motum autem esse vel fuisse en dicitur, quod sive nunc quiescat sive moveatur, fuit ft motum fec grius in loco alio quam nunc est. Ex quibus fore; in oma; definitionibus, infertur primo quicquid movetur, mom ^"! motum esse, nam quod movetur si in eodem sit pmernm loco quo prius, quiescit, id est, non movetur, per definitionem quietis; si in alio loco est, motum est per definitionem smo£i. Secundo, quod movetur, motum iri adhuc, nam quod movetur locum, ubi est, relinquit, itaque alium acquiret, ergo movebitur adhuc. Tertio, quod movetur non esse in uno loco, per ullum tempus quantumvis exiguum ; nam per definitionem quietis, quod est in uno loco per aliquod tempus, quiescit.
+
+Est sophisma quoddam contra motum quod nasci videtur ex hujus propositionis ignoratione. Dicunt enim si corpus aliquod movetur, movetur in loco ubi est, vel in loco ubi non est, quorum utrumque falsum est; ergo nihil movetur. Sed falsa est major, quod enim movetur neque in loco ubi est, neque in loco, ubi non est, movetur, sed a loco ubi est ad locum ubi non est. Negari non potest quin quicquid movetur alicubi, id est, intra spatium. aliquod moveatur; at locus corporis non est illud spatium totum sed pars ejus, ut dictum supra est, articulo 7. Ex eo quod quicquid movetur non modo motum esse, sed etiam motum fore demonstravimus, hoc quoque colligendum est, motum non concipi sine conceptu tum preteriti tum futuri. Qui. S 12. Si corporis quod movetur magnitudo (etsi ime spe Semper aliqua sit) nulla consideretur, via per fau — Quam transit, Jinea, sive dimensio una et simplex,
+
+[p. 99] dicitur, spatium autem quod transit Jongitudo, PARS ipsumque corpus punctum appellatur; eo sensu ——— quo terra punctum, et via ejus annua linea ecclip- tica vocari solet. Quod si corpus, quod movetur, consideretur jam ut /ongum, atque ita moveri supponatur, ut singule ejus partes singulas lineas conficere intelligantur, via uniuscujusque partis ejus corporis Jatitudo, spatium quod conficitur superficies vocatur, constans ex duplici dimen- sione Jatitudine et longitudine, quarum altera tota.
+
+ad alterius partes singulas sit applicata.
+
+Rursus si corpus consideretur ut habens jam superficiem, et ita intelligatur moveri, ut singulze ejus partes singulas conficiant lineas, uniuscujusque partis via corporis illius crassities seu profunditas, spatium quod conficitur solidum vocatur, conflatum ex dimensionibus tribus, quarum quelibet. du tote applicantur ad singulas partes tertise.
+
+Quod si adhuc corpus aliquod consideretur ut. solidum, fieri non potest ut singule ejus partes singulas describant lineas. Nam quacunque movebitur, partis posterioris via incidet in viam anterioris, factumque erit solidum idem, quod fecisset per se superficies anterior. Alia itaque dimensio corporis quidem ut corpus, preter predictas tres, nulla esse potest; etsi ut post dicetur, velocitas, quze est motus per longitudinem, applicatus ad solidi omnes partes, faciat motus magnitudinem ex quatuor constantem dimensionibus, sicut et bonitas auri in singulis partibus computata facit prom ejus.
+
+autem corpus aliquod locum oceupare eundem, nisrentier. H2
+
+[p. 100] PARSTL quem aliud corpus occupat, quamvis non sit ejus- —-— dem figure, si modo, flexione et transpositione partium, in eandem figuram redigi intelligatur. Majus autem est corpus corpore quando pars illius huic toti est equalis. Minus autem, quando illud totum parti hujus est quale. Eadem ratione magnitudo magnitudini squalis, vel major vel minor dicitur; videlicet quando corpora quorum ille sunt magnitudines majora szqualia vel minora sunt.
+
+Uniwetejw-  ]4, Unius autem et ejusdem corporis una et pie eadem semper est magnitudo. Cum enim corpus, et Bindnem." magnitudo, et locus ejus, animo comprehendi non possint, nisi ut coincidentia, si corpus aliquod quiescere, id est, in eodem loco pro tempore remanere intelligatur, sitque magnitudo ejus in una parte temporis illius major, in alia minor, locus qui idem est, coincidet modo cum majore, modo cum minore magnitudine, id est idem locus et major et minor erit seipso, quod est impossibile. Sed rem ita per se manifestam demonstrare opus non esset, nisi viderem aliquos ita de corpore et magnitudine ejus sentire, tanquam idem corpus divulsum a sua magnitudine existere et majore mox vel minore donari posset, et ad rari et densi naturam explicandam hoc uti principio. Velocitus, 15. Motus, quatenus eo, longitudo certa, tem- "ii —— pore certo, transmitti potest, appellatur velocitas ; nam etsi veloz sepissime dicatur cum relatione ad tardius sive minus veloz, sicut magnum respectu minoris, tamen ut magnitudo apud philosophos sumitur absolute pro extensione, ita quoque velo- Citas poni pro motu secundum longitudinem potest absolute.
+
+[p. 101] 16. Motus plures temporibus zqualibus absolvi PARS 1r. dicimus, quando unusquisque eorum cum motu —— aliquo alio simul incipit et simul desinit, vel si posso simul incipisset simul etiam desiisset. Tempus squle mojos enim quod est phantasma motus non nisi per ] expositum motum sstimatur. Ut fit in horologiis per motum solis, vel indicis; ubi si duo vel plures motus, cum eo motu simul incipiunt et desinunt, squalibus temporibus facti censentur ; ex quo etiam quid sit majore tempore, sive diutius, et minore, sive minus diu, moveri facile intelligitur; diuturniorem nempe esse, qui si una incepisset posterior desiisset, vel si una desiisset prior incepisset.
+
+17. ZEque veloces dicuntur motus, quibus trans- Quia sint mittuntur longitudines zquales zequalibus tempo- us majus ribus, velocitas autem major est qua longitudo *' "v. major zquali tempore, vel longitudo zequalis minore tempore conficitur. Atque ea velocitas, qua zequalibus temporis partibus equales transeuntur longitudines, velocitas sive motus unjformis dicitur; et motuum aon unjformiwm ili, qui squalibus temporis partibus accelerantur, vel retardantur zqualibus semper incrementis vel decrementis, dicuntur uniformiter accelerati, vel uniformiter retardati.
+
+18. Motus autem major et minor et equalis non Quia sit in dicitur propter solam longitudinem, que certo ajoeetninds. tempore conficitur, id est, propter solam velocitatem, sed propter velocitatem applicatam ad unamquamque magnitudiuis particulam ; nam quando corpus aliquod movetur, movetur quoque quotalibet pars ejus, puta dimidium; unde motibus dimidiorum existentibus inter se, et motui totius
+
+[p. 102] PARS IL eque velocibus; motus totius erit equalis duobus ——-— motibus, quorum uterque est eque ac ipse velox ; itaque aliud est motus duos equales inter se esse; aliud sque veloces; ut manifestum est in bigis, ubi motus quidem amborum simul equorum, utriusvis motui sque velox est, major autem amborum quam unius motus est, scilicet ille hujus duplus est, equales itaque mofus simpliciter esse dicimus, cum unius velocitas per omnem ejus magnitudinem. computata, equalis est alterius velocitati, per omnem item magnitudinem ejus computate. Major autem motus motu est quando velocitas illius sic, ut dictum est, computata, hujus velocitate similiter computata, major est. Minor vero quando minor; preterea motus magnitudo eo quo jam diximus modo computata, id ipsum est. quod appellamus vulgo vim.
+
+Qood adiecit . 19. Quod quiescit, semper quiescere intelligitur, ab exero isi sit aliud aliquod corpus preter ipsum, quo Med e qui Supposito, quiescere amplius non possit; suppomero namus enim corpus aliquod finitum existere, et pediatvr sem- quiescere, ita ut reliquum omne spatium intelliper movebitur EN : 5 ; gatur vacuum ; si jam corpus illud czeperit moveri, movebitur sane per aliquam viam, quoniam igitur quicquid in ipso corpore erat disponebat ipsum ad quietem, ratio quare movetur per hanc viam est extra ipsum, similiter si per aliam viam quamcunque motum esset, ratio quoque motus, per illam viam,'esset extra ipsum. Cum autem suppositum sit, extra ipsum nihil esse, ratio motus per unam viam eadem esset que ratio motus per omnem aliam viam ; ergo eeque motum esset per omnes vias simul, quod est impossibile. Similiter quod movetur, semper moveri intelligitur, [p. 103] nisi aliud sit extra ipsum propter qnod PARS m. quiescit; nam si supponamus nihil extra esse, —— nulla ratio erit quare nunc quiescere debeat potius quam alio tempore; itaque motus ejus in omni simul temporis puncto desineret, quod non est intelligibile.
+
+20. Quando generari,vel perire animal, arborem, c -— aliudve corpus nominatim dicimus, etsi ea corpora zs sint, non tamen intelligendum est, ex non corpore rin. corpus, vel ex corpore fieri non corpus, sed ex animale non animal, ex arbore non arborem, etc.
+
+id est, accidentia quidem ea propter quse aliam rem animal, aliam arborem, aliam aliter nominamus generari et interire, et proinde nomina illa non amplius ipsis convenire, quz prius conveniebant ; non autem generari aut perire magnitudinem propter quam nominamus aliquid corpus. Etsi enim fingere animo possumus punctum aliquod in molem ingentem intumescere, quse rursus in punctum se contrahat, hoc est imaginari ex nihilo aliquid, et ex aliquo nihil fieri; quomodo tamen id fieri in rerum natura possit animo comprehendi non potest. Philosophi igitur, quibus a ratione naturali discedere non licet, supponunt corpus generari aut interire non posse; sed tantum sub diversis speciebus aliter atque aliter nobis apparere, et proinde aliter atque aliter nominari, ut quod modo homo, mox non-homo, non autem quod modo corpus, mox non-corpus vocandum sit. Accidentia autem catera przter magnitudinem sive extensionem omnia generari et interire posse manifestum est, ut quando ex albo fit nigrum, albedo, quz erat amplius, non est, et nigredo, quee non erat, oritur. Corpora itaque et accidentia,
+
+[p. 104] PU sub quibus varie apparent, ita differunt, ut corpora
+
+—— quidem sint res non genitze, accidentia vero genita sed non res.
+
+Accidena 21. Quum igitur aliquid aliter atque aliter twnjen. apparet propter alia atque alia accidentia, non censendum est accidens ex uno subjecto in aliud migrare, (non sunt enim, ut diximus supra, in subjectis suis ut pars in toto sive contentum in continente, aut ut paterfamilias in domo) sed unum interire aliud generari. Exempli gratia, quando manus mota movet calamum, non migrat motus manus in calamum, sic enim currente scriptura manus cessaret, sed motum in calamo generari novum et suum.
+
+Neq mover. 22, Neque ergo moveri dicetur accidens, nisi improprie, ut si pro figura est accidens corporis absportati, diceremus corpus absportat figuram suam.
+
+Puente, 23. Accidens autem propter. quod corpori alicui
+
+E certum nomen imponimus, sive accidens, quod subjectum suum denominat, essentia dici solet, ut. rationalitas, hominis ; albedo, albi; extensio, corporis dicitur essentia. Eadem essentia quatenus generata, forma dicitur.
+
+Corpus rursus, respectu cujuslibet accidentis sui, vocatur subjectum.  Respectu forme, materia nominatur.
+
+Item productio vel interitus cujuslibet accidentis facit ut subjectum ejus mu£ari dicatur, solius vero formse, ut dicatur generari, vel interire. In omni autem generatione et mutatione nomen materiz semper manet; nam facta ex ligno mensa, non modo lignea, sed lignum; et statua ex sere tum zmnea tum ss dicitur. Etsi Aristoteles in metaphysicis [p. 105] illud, quod factum est, non éxs»ó sed PATE &kebvivov, et, ex ligno factum non £Xov sed £Auvoy, —— id est, non lignum sed ligneum appellandum esse censeat.
+
+24. Materia autem communis omnium rerum, Materia quam philosophi, Aristotelem sequuti, vocare "9^ fei solent maferiam primam, non est aliquod corpus distinctum a reliquis corporibus, neque vero unum ex illis, quid ergo est? merum nomen ; non tamen frustra usurpatum ; significat enim, corpus considerari sine consideratione cujuscunque forme et cujuscunque accidentis, excepta solummodo magnitudine, sive extensione, et aptitudine ad formam et accidentia recipienda; ita ut si quoties opus est uti hac voce, corpus generaliter sumptum, utamur hac materia prima recte fecerimus. Nam Sicut si quis utra prior extiterit aqua an glacies nesciens, quaereret utra esset ambarum materia, tertiam aliquam materiam, quz illarum neutraesset, supponere cogeretur, sic qui materiam quserit omnium rerum, talem supponere debet, quz earum rerum quz sunt nulla sit; non est igitur materia prima res aliqua; ideoque solent attribuere ipsi, neque formam ullam, neque aliud accidens preter quantitatem. Cum tamen omnes res singulares suis formis et certis accidentibus preditz sint, est ergo materia prima corpus universale, id est, corpus consideratum universaliter, cujus non est. forma nulla, aut accidens nullum, sed in quo forma et accidentia, preter quantitatem, nulla considerantur, id est, in argumentationem non adhibentur.
+
+25. Ex ante dictis demonstrari possunt axio- Totom est mamata ea qui assumuntur ab Euclide, in principio s. à. demon. primi elementi circa qualitatem et inqualitatem ""*""*
+
+[p. 106] 8.
+
+Quid sit. agere et pati
+
+
+magnitudinum ; quorum (czteris prztermissis) unum tantum, fotum esse majus sua parte hic demonstrabimus, ut sciat lector ea axiomata non esse indemonstrabilia, neque ergo principia demonstrandi prima, atque ob eam rem, caveat ne quicquam pro principio admittat, quod non sit que clarum, atque hec sunt. Definitur majws esse cujus pars est equalis alteri toti; si jam ponatur totum aliquod A et pars ejus B, quoniam totum B est zquale sibi ipsi, et pars totius A est ipsum B, erit pars ipsius A equalis toti B; quare per definitionem majoris, A est majus quam B ; quod erat probandum.
+
+CAPUT IX.
+
+DE CAUSA ET EFFECTU.
+
+1. Quid sit agere et pati,.—2. Actio et passio mediata et immeliata.—9. Causa simpliciter, causa sine qua non, sive necessarium per hypothesin, quid.—4. Causa efficiens, et materialis, quid.—5. Causa integra ad effectum producendum semper est sufficiens,  Effectum productum esse eodem instante quo causa sit integra, et effectum omnem habere causam necessariam.—6. Generationem effectuum continuam ess. Principium in causatione, quid sit.-—7. Causam motus non esse, nisi in corpore contiguo et moto.—8. Agentia et patientia eadem, diversis temporibus sed similiter disposita, similes effectus producunt.—9. Mutationem omnem esse motum.— 10. Contingentia, quid sint. 1. ComPus agere dicitur in illud corpus, in quo aut generat accidens aliquod, aut destruit. Et pati ab eo, a quo in ipso accidens aliquod generatur vel destruitur; ut, corpus quod propellendo aliud corpus efficit in eo motum, «genes vocatur, id vero
+
+[p. 107] DE CAUSA ET EFPECTU. 107 in quo pulso generatur motus, patiens; utignis, PARSIL calefaciens manum, agens, manus, quz calefit, —-— patiens dicitur. ^ Accidens, quod in patiente generatur, appellatur effectus.
+
+2. Quando agens et patiens contigua inter se Aci» sper sunt, actio et passio immediate dicuntur, alioqui iumeiiau. mediate. Corpus autem quod inter agens et patiens medium interjacet, utrique contiguum, et agens est et patiens ; agens respectu sequentis in quod agit; patiens respectu antecedentis a quo patitur. Item si plura corpora ita ordinentur, ut proxima quzque duo sint contigua, media omnia inter primum et postremum sunt et agentia et patientia; primum solummodo agit, postremum solummodo patitur.
+
+3. Agens autem in patiente effectum suum Causdmpi certum producere intelligitur, pro certo modo seu size qua nou, certo accidente vel certis accidentibus quibus et i m, per | [a ipsum et patiens przdita sunt, id est, non prop- Pber»qsiterea quod sunt corpora, sed quod talia, vel taliter mota; nam alioqui omnia agentia in omnibus patientibus similes effectus producerent, cum sint omnia zque corpora. [taque verbi causa, ignis non ideo calefacit quia corpus est, sed quia calidum, nec corpus unum aliud pellit, quia corpus est, sed quia movetur in ejus locum. — Causa itaque effectuum omnium in certis consistit agentium et patientis accidentibus, quz cum adsint omnia, effectus producitur,si aliquod eorum desit, non producitur. Accidens autem, sive agentis sive patientis sine quo effectus mom potest produci, vocatur causa sine qua mom et necessarium per hypothesin; et requisitum ad effectum producendum. Causa autem simpliciter sive causa integra
+
+[p. 108] 108 PHILOSOPHIA PRIMA.
+
+PARSIL est aggregatum omnium accidentium tum agen- ——— tium quotquod sunt, tum patientis, quibus omnibus euppoeitis, intelligi non potest. quin effectus una eit productus, et supposito quod unum eorum desit intelligi non potest quin effectus non sit productus. Cue — 4. Accidentium autem. requisitorum ad effectum, Hals quii. eorum quse in agente, vel agentibus sunt aggregatum, producto effectu, vocatur causa ejus efficiens. Eorum vero que in patiente sunt aggregatum, producto effectu, appellari solet causa materialis; producto inquam, effectu; ubi enim effectus nullus est, neque causa ulla est, nam eausa vocari nihil potest, ubi nihil est quod vocetur effectus; sunt autem cause efficiens et materialis causes partiales, sive partes causee illius quam proxime supra appellavimus infegram. Est autem ex his statim hoc manifestum, effectum. quem expectamus, cum agentia sint idonea, tamen propter defectum idonei patientis, et cum patiens sit idoneum, tamen propter defectum agentium idoneorum, frustrari posse. Cau inegn — 5. Causa integra ad producendum effectum 2 sufüicit, modo sit effectus omnino prducendum SUUm semper fene "tear possibilis; nam cuicunque effectus producendus tm piv proponatur, si producatur manifestum est, causam Um eme e- " E z : dem "imtstequg eum produxit sufficientem fuisse; sin non Seg et e producatur, et tamen possibilis fuerit, palam est festum om^ defuisse aliquid vel in agente aliquo, vel in patiente, neam. gine quo produci non potuit, id est, defuisse aliquod accidens quod erat ad productionem ejus requisitum. taque causa ea non erat integra, contra id quod supponebatur. Ex quo et hoc sequitur, quo instante causa fit
+
+[p. 109] DE CAUSA ET EFFECTU. 109 integra, eodem quoque effectum esse productum; PARSIL nam si non sit productus deest adhuc aliquod ad —— productionem requisitum, non erat ergo, ut supponebatur, causa integra.
+
+Et siquidem causa necessaria ea esse definiatur, qua supposita effectus non potest non sequi, hoc quoque colligetur, quicunque unquam effectus productus sit, productum esse a causa necessaria. Nam quod productum est eo ipso, quod productum est, causam habuit integram, hoc est, omnia ea quibus suppositis effectum non sequi intelligi non possit, ea vero causa necessaria est. Eadem ratione ostendi potest quicunque unquam effectus futuri sunt, causam necessariam habituros esse, atque hoc modo quzcunque producta vel erunt vel fuerunt, necessitatem suam in rebus antecedentibus habuisse.
+
+6. Ex eo autem quod quo instante causa fit — integra, eodem effectus productus est, manifestum tinuam ese.
+
+etiam est, causationem atque productionem effec- mons, ^ tuum in continua quadam progressione consistere, 21i sit ita ut pro mutatione continua agentis vel agentium, quse fit ab aliis in ipsa agentibus, continuo mutetur quoque patiens in quod ipsa agunt; exempli causa, magis magisquecalescenteigne, continuo augmento, effectus quoque ejus, nempe proximorum corporum, et rursus his proximorum calor (magno jam argumento, mutationem in solo motu consistere, quod tamen alias verum esse ostendetur) magis magisque una crescit. In hac autem causationis, id est, actionis et passionis progressione si quis partem aliquam imaginatione comprehenderit, eamque divisetit in partes, prima pars, sive principium ejus considerari non potest nisi ut actio,
+
+[p. 110] 9.
+
+Causm motus non ese, mii in corpore contiguo et moto,
+
+
+sive causa; nam si consideraretur etiam ut effectus vel passio necesse est ut ante eam aliquod aliud consideraretur ut actio et causa ejus, quod fieri non potest; nam ante principum nihil est; similiter pars ultima, tantum ut effectus consideratur, causa enim dici non potest nisi respectu sequentis ; sed post ultimum nihil sequitur. Atque hinc est quod in actione principium et causa pro eodem habeantur. Partium autem intermediarum unaquizque et actio et passio, et causa et effectus est, prout cum parte antecedente vel subsequente comparatur.
+
+7. Causa motus, nulla esse potest in corpore nisi contiguo et moto. Sint enim duo corpora quilibet non contigua, inter qui» aut spatium, quod interjacet, vacuum sit, aut si plenum, plenum tamen corpore quiescente, propositorum autem corporum "unum quiescere supponatur. Dico quieturum semper; nam si movebitur ; causa ejus motus per caput 8, articulum 19, erit in corpore externo; si igitur, inter ipsum et externum illud, vacuum spatium sit, possumus concipere, utcunque se habeant corpora externa vel ipsum patiens (modo supponatur nunc quiescere) quieturum esse quamdiu ab iis non contingitur ; cum autem causa (per definitionem) sit aggregatum accidentium omnium quibus suppositis effectum non sequi concipi non potest, accidentia quz sunt vel in externis vel in ipso patiente, causa futuri motus non erit, similiter quia concipi potest id quod jam quiescit quieturum adhuc, etiamsi ab alio corpore contingatur modo corpus illud non moveatur, non erit causa motus in contiguo corpore quiescente.
+
+[p. 111] DE CAUSA ET EFFECTU. 1n
+
+Itaque causa motus in corpore nulla est, nisi in PARS D. contiguo et moto. ——
+
+Eadem ratione probari potest quicquid movetur, eadem via et, velocitate semper processurum, nisi ab alio contiguo, et moto corpore impediatur, et proinde neque quiescentia neque interposito vacuo ulla corpora motum in alio corpore aut generare, aut extinguere, aut minuere posse. Est qui quieta. Totis magis resistere scripsit, quam ex adverso motu, eo quod quietem quam motum motui magis contrarium esse existimaret ; deceptus voce, quod nomina quies et motus contradictoria sunt; cum tamen quod ad rem attinet, pugnat cum motu motus adversus, quies non pugnat.
+
+8. Quod si corpus unum in aliud agat uno Agents tempore, et deinde idem corpus, in idem corpus les  dveralio tempore agat, modo agens vel quiescat totum ris temporiboe et pars ejus unaquzeque ; vel (si moveatur) eodem dieposite, c modo moveatur et totum, et unaquseque ejus pars tus producunt. sicut ante; et quod de agente dictum est, idem de pátiente intelligatur, ita ut nulla sit differentia nisi in temporibus, id est nisi ut actio una prior tempore, alia posterior sit; manifestum per se est, effectus fore equales, similesque; solo tempore diversos. Et sicut ipsi effectus a causis suis oriuntur, ita diversitatem quoque eorum a diver-
+
+Sitate causarum dependere.
+
+9. Hoc posito, necesse est ut mutatio aliud non Omnem sit preter partium corporis mutati motum. Primo roe motum. enim mutari nihil dicimus preterquam quod sensibus nostris aliter apparet quam ante apparuit.
+
+Secundo, ille apparenti& sunt ambe effectus produeti in sentiente ; itaque si diversi sunt, necesse est. per praecedentem, ut vel agentis pars
+
+[p. 112] 9.
+
+Contingentia. quid sint.
+
+112 PHILOSOPH]A PRIMA.
+
+aliqua ante quiescens jam moveatur, et sic mutatio consistit in eo motu; vel ante mota, nunc aliter moveatur, et sic quoque consistit mutatio in novo motu, vel ante mota nunc quiescat, quod fieri nisi per motum non posse supra demonstravimus, et ita rursus mutatio motus est, vel denique aliquid horum contingit patienti vel parti ejus, atque ita omni modo mutatio consistet in motu partium ejus corporis quod sentitur, vel ipsius sentientis, velutriusque. Ttaque mutatio mofus est (nimirum partium agentis vel patientis) quod erat propositum demonstrare. Huic autem consequens est, quietem nullius rei causam esse, neque omnino per eam quicquam agi, ut quie neque motus neque mutationis ullius causa sit.
+
+10. Accidentia respectu accidentium, quz antecedunt sive tempore priora sunt, si ab illis non dependent, ut a causis, contingentia appellantur ; respectu, inquam, eorum a quibus non generantur; nam respectu causarum suarum, omnia sque necessario eveniunt ; siquidem enim non necessario evenirent, causas non haberent, quod de rebus generatis intelligi non potest.
+
+[p. 113] DE POTENTIA ET ACTU. 113
+
+CAPUT X. DE POTENTIA ET ACTU.
+
+1. Potentiam, et causam idem esse.—2. Quo instante potentia sit plena, eodem produci actum.—3. Potentiam activam et passivam partes tantum esse potentis pleuz.—4. Actus possi- bilis, quando dicitur.—5. Actus necessarius et contingens, quid.
+
+6. Potentiam activam consistere in motu.—7. Causie formalis et finalis, quid. l. CaUsA atque effectui respondent pofentia ef PARSTL actus. lmo vero he et illee ezedem sunt res, licet. ass propter diversas considerationes diversis nomi. Poenum, nibus appellentur. Quando enim in agente idem «e. quopiam omnia insunt accidentia, quee ad effectum aliquem in patiente quopiam producendum necessario ex parte agentis requiruntur, tum dicimus agens illud producere illum effectum posse; si modo ad patiens applicatum fuerit. Sed eadem accidentia capite precedente causam constituere efficientem indicavimus, eadem igitur accidentia sunt quz causam efficientem, et quz potentiam agentis, constituunt. Itaque pofentia agentis, et causa efficiens idem sunt re, differunt autem consideratione. Causa enim dicitur respectu effectus jam producti, potentia vero respectu ejusdem effectus producendi; ita ut causa preteritum, potentia futurum respiciat: potentia autem agentis activa dici solet.
+
+Similiter quoties patienti cuipiam omnia insunt accidentia, quz ex parte ipsius requiruntur ut effectus aliquis ab agente quopiam in ipso producatur, dicimus in patiente illo effectum illum
+
+VOL. I. H
+
+[p. 114] 114 PHILOSOPHIA PRIMA.
+
+erri produci posse, si modo ad agens idoneum appli- ——— catum fuerit. Sed eadem accidentia, ut capite precedente definitum est, constituunt causam materialem. ldem igitur est potentia patientis (qua et potentia passiva vulgo dicitur) et causa materialis. Consideratio tamen diversa est, quia in causa preteritum, in potentia futurum respicitur. ' Itaque potentia tum agentis tum patientis simul sumpta, quam potentiam inéegram vel plenam appellare licet, idem est quod causa integra, nam: utraque consistit in aggregato omnium simu] accidentium, quz ad effectum producendum, tum in agente tum in patiente, requiruntur. Denique sicut accidens quod productum est, respectu cause, effectus ; ita respectu potentige, actus appellatur. Quoi — 2. Quemadmodum igitur quo instante causa Toss, solem est integra, eodem «effectus productus est; sic peiiwim quoque quo instante potentia plena fit, eodem. quoque actus, qui ab ea produci potuit, productus est. Et ut nullus effectus oriri potest qui non a causa sufficiente et necessaria productus sit, ita neque actus ullus produci, qui non productus sit a potentia sufficiente, et a qua non potuit non produci. Macri 3. Quemadmodum, causam efficientem, et matepuimm — rialem per se ipsas ostendimus esse partes tantum m emepe- Cause integre, nec nisi conjunctas effectum protmr; ducere! sic quoque potentia activa et passiea partes tantum sunt potentie] plensm, et integre, nec poterit ex iis acus educi, nisi conjunctis; ideoque potentize ille, ut diximus articulo primo, dieuntur potentie cum hac conditione, posse Scilicet agens, si modo patienti applicetur, et
+
+[p. 115] DE POTENTIA ET ACTU. 115 posse patiens, si modo agenti applicetur; aliter PARS Ur. neutrum quicquam posse, neque ergo accidentia, —— quz in illis sunt, potenti proprie loquendo dici possunt; neque actus aliquis possibilis dici propter potentiam solius agentis aut solius patientis.
+
+4. Actus enim impossibilis est ad quem produ- Pért cendum nulla unquam erit. potentia plena; nam Rosndo dicitar cum potentia plena ea sit in qua concurrunt omnia, quz ad actum producendum requiruntur, si potentia plena numquam erit, semper deerit aliquod eorum sine quibus produci actus non potest; actus ergo ille nunquam produci poterit, id est, actus ille impossibilis est. Actus autem, qui impossibilis non est, ille possibilis est; ideoque actus omnis possibilis aliquando producetur, nam si nunquam producetur nunquam concurrent omnia, que ad productionem ejus requiruntur ; est itaque actus ille impossibilis, (per definitionem) quod est contra suppositum.
+
+5. Quem autem actum impossibile est non esse, Actus necesille actus necessarius est; itaque quicunque actus bc; futurus est, necessario futurus est ; nam ut futurus non sit impossibile est; propterea quod, ut modo demonstratum est, omnis actus possibilis aliquando producetur. Imo vero non minus necessaria propositio est futurum est futurum, quam homo est homo.
+
+Qusret autem hoc loco aliquis utrum futura, que appellari solent contingentia, necessaria sint ? Dicimusigitur in universum omnia, quz contingunt, contingere a causis necessariis, ut, ostensum est capite precedente, vocari autem contingentia, respectu aliorum eventuuma quibus non dependent;
+
+"ut pluvia qus erit cras, necessario (id est a necessariis causis) producetur; contingere autem fortuito
+
+[p. 116] PARS IL. 10.
+
+
+eam pluviam putamus et dicimus, quoniam causas ejus, que nunc sunt, nondum videmus ; nam fortuitum sive contingens vulgo vocant, cujus causam. necessariam non perspiciunt, quemadmodum etiam de preeteritis loqui solent, cum dicunt possibile esse ut non sit factum, si factum esse nesciant.
+
+Propositio itaque omnis de futuro contingente, vel non contingente, qualis est hzc, cras pluet, vel haec, cras sol orietur, necessario vera est, vel necessario falsa; sed quoniam utrum vera an falsa sit, nondum scimus, ideo vocamus eam contingentem; cum tamen veritas ejus non a nostra Scientia, sed ab anteitione causarum dependeat. Sunt autem, qui etsi totam hanc, cras pluet vel non pluet, necessariam esse fateantur, neutram tamen seorsim, velut, cras pluet, vel cras non pluet veram esse volunt; quoniam, inquiunt, nec hec, nec illa determinate vera est. Sed quid est hoc determinate vera, nisi cognite, id est, evidenter vera? Itaque eandem rem dicunt, nimirum, nondum sciri, an sit vera necne, obscurius tamen, dum quibus verbis inscitiam suam tegere conantur, iisdem rei evidentiam simul opprimunt.
+
+6. Ostensum est capite precedente, articulo 9, motus et mutationis omnis causam efficientem consistere in motu agentis vel agentium; articulo autem hujus capitis primo, potentiam agentis eandem rem esse cum causa efficiente. Ex quibus intelligitur potentiam omnem activam consistere item in motu; neque esse potentiam accidens aliquod ab omni actu diversum, sed actum aliquem, nempe motum, qui ideo potentia vocatur, quia alius actus ab eo post producetur. Exempli causa, si trium corporum primum propellat secun-
+
+[p. 117] DE POTENTIA ET ACTU. n7 dum, et hoc tertium, motus secundi respectu mE m primi a quo producitur est secundi corporis actus, —— respectu tertii, est ejusdem secundi corporis potentia activa.
+
+7. Preter causam efücientem et materialem, Cem. duas causas numerant metaphysici, nimirum essen- pim quid. iiam (quam appellant aliqui. causam formalem) et finem, sive causam finalem ; sunt tamen ambe cause efficientes ; dicitur enim eesentia rei, causa. ejus, tanquam esse rationale esset causa hominis; quod intelligi non potest; idem enim est, ac si esse hominem diceremus esse hominis causam, quod non recte dicitur. Attamen cognitio essentiae est causa cognitionis rei, si enim prius cognoverim aliquid esse rationale, cognosco inde idem esse hominem ; sed ita causa est, ut alia non sit quam efficiens.  Finalis causa locum non habet nisi in lis rebus quz habent sensum et voluntatem, quam efficientem quoque esse suo loco ostendemus.
+
+CAPUT XI. DE EODEM ET DIVERSO.
+
+1. Diflerre unum ab alio, quid sit.—2. Differre numero, magnitudine, specie, et genere, quid.—3. Quid sit relatio, ratio, relata.—4. Proportionalia, quid.—5. In quo consistat magnitudinum ratio inter se.— 6. Relationem non esse novum accidens, sed aliquod eorum, qure inerant ante relationem, sive comparationem factam. Item causas accidentium in utroque relato esse causam relationis.—7. De principio individuationis.
+
+1. DicTUM hactenus est de corpore simpliciter, Diferre et accidentibus communibus, magnitudine, motu, Mo qud dit.
+
+quiete, actione, passione, potentia, possibili, &c.
+
+[p. 118] PARSII. 1.
+
+Difere numero, magnitadine,specie, et genere quid
+
+Quid ait. relatio, ratio, relata.
+
+
+Descendendum jam esset ad accidentia illa, quibus unum corpus ab alio distinguitur, nisi prius declarandum esset, quid sit ipsum distingui, et non distingui, nimirum quid sit idem et diversum ; nam etiam hoc omnibus corporibus commune est, ut unum ab alio distingui, sive diversum esse possit. Differre autem inter se duo corpora dicuntur, cum de uno eorum dicitur aliquid quod de altero dici non potest eodem tempore.
+
+2. Imprimis autem, duo corpora idem non esse manifestum est; siquidem enim duo sint, in duobus locis sunt eodem tempore, quod autem idem est, eodem tempore in eodem loco est. Omnia ergo corpora differunt inter se numero, nimirum ut unum et alterum; ita ut idem, et numero differentia, sint nomina contradictorie opposita.
+
+Differunt autem magnitudine, quorum alterum altero majus est, ut cubitale et bicubitale, bilibre et trilibre. His opponuntur equalia.
+
+Que vero plus quam magnitudine differunt, dissimilia; quie plus quam magnitudine non differunt, similia dici solent. Dissimilium autem alia specie, alia genere differre dicuntur. Specie quidem, si differentia eorum eodem sensu percipiatur, ut album et nigrum. Genere vero si differentia non percipiatur nisi sensibus diversis, ut album et calidum.
+
+3. Corporis autem cujuscunque cum alio quocunque corpore similitudo, vel dissimilitudo, vel «qualitas, vel inequalitas, relatio ejus dicitur ; atque ipsa corpora propterea inter se re/afa sive correlata appellantur. Aristoteles vocat rà wpóc Tt, quorum primum antecedens, secundum com-
+
+[p. 119] DE EODEM ET DIVERSO. 119 sequens nominari solet. Relatio autem antece- PARSII. dentis ad consequens secundum magnitudinem, —— nimirum zqualitas, vel excessus, vel defectus ejus, ratio et proportio autecedentis ad consequens dicitur; ut ratio nihil aliud sit quam sequalitas vel inzqualitas antecedentis comparati ad conse- quens secundum magnitudinem. Exempli causa, ratio ternarii ad binarium aliud non est, quam ternarium superare binarium unitate; et ratio binarii ad quinarium aliud non est, quam binarium.
+
+a quinario deficere ternario. Itaque in ratione insqualium, ratio minoris ad majus defectus;
+
+ratio majoris ad minus ezcessus, dicitur.
+
+4. Porro, inzqualium alia sunt magis, alia proportio. minus, alia sque insqualia. Itaque non modo "** su4 magnitudinum, sed etiam rationum ratio datur, nempe cum duo inzqualia ad duo alia inzqualia relationem habeant; ut quando inzqualitas, quz est inter 2 et 3, comparatur cum inzqualitate, quee est inter 4 et 5, in qua comparatione semper sunt quatuor magnitudines ; vel si tres tantum sint, media illarum (quod tantundem valet) bis numeratur. Et siquidem ratio primi ad secundum sequalis sit rationi tertii ad quartum, dicuntur illa quatuor esse proportionalia, vel esse wt primum ad secundum ita tertium ad quartum ; alioqui proportionalia non dicuntur.
+
+5. Consistit autem ratio antecedentis ad con- In que sequens in differentia, hoc est in ea parte majoris, zug: qua minus ab eo superatur, sive in majoris!" iners (dempto minore) residuo ; non autem simpliciter, sed ut comparato cum alterutro relatorum ; ut ratio binari ad quinarium est ternarius quo quinarius binarium superat, non simpliciter, sed
+
+[p. 120] 120 PHILOSOPHIA PRIMA;
+
+PARSIL quatenus cum binario, vel quinario comparatus. — — Etsi enim eadem differentia sit inter binarium et quinarium quz est inter novenarium et duodenarium, nempe idem ternarius, non tamen eadem est ingqualitas, ideoque neque eadem ratio binarii ad quinarium, et novenarii ad duodenarium. elationem. 6. De relatione autem non ita censendum est, vomaeidem, t&nquam ea esset accidens aliquod diversum ab m duein- aliis relati accidentibus, sed unum ex illis, nempe tust re illud ipsum secundum quod fit comparatio. Ex- compeaüo. empli causa, similitudo a/bi cum alio ajbo, vel aem dear" dissimilitudo cum nigro, est idem accidens quod eese albedo ejus; et squalitas vel ingqualitas idem lato gu» cv. accidens quod rei comparate magnitudo, sub n mi" diversis nominibus; nam quod album vel tantum vocatur, quando non comparatur cum alio, idem comparatum dicitur simile, dissimile, equale, vel inequale. Ex quo etiam sequitur causas accidentium, que sunt in relatis, causas quoque esse similitudinis, dissimilitudinis, equalitatis et in- «qualitatis, nimirum, eum qui duo corpora ingqualia fecerit, eundem quoque facere ipsorum ingqualitatem, et qui facit regulam et actionem, eundem si actio sit regule congrua, congruitatis, si incongrua, incongruitatis causam esse. Atque hzc de comparatione corporis unius cum alio dicta sint. Depündpo — 7. Comparari autem idem potest cum seipso, idw" sed alio atque alio tempore; unde nata est apud philosophos magna controversia de principio individuationis ; quo sensu scilicet, corpus aliquod quandoque idem esse, quandoque aliud ab eo quod prius fuerat censendum sit, velut exempli causa, an senex idem sit homo qui erat juvenis,
+
+[p. 121] DE EODEM ET DIVERSO. 121 en ab eo diversus; an diversis seculis eadem. T an alia fuerit civitas. Sunt qui individuitatem ——-— ponunt in unitate materie; sunt qui eandem in D*?rineirio unitate formze collocant; est etiam qui consistere tionis eam dicit in unitate aggregati ex omnibus simul aecidentibus. Pro materia militat, quod cere massa, sive spherica sit, sive cubica, eadem tamen est cera, quia eadem materia. Pro forma, quod homo ab infantia usque ad senectutem, quanquam materia eadem non sit, idem tamen numero homo est; identitas enim illa cum materie non possit, forms videtur attribui debere. Pro aggregato accidentium nulla instantia adduci potest; sed quoniam generato quolibet accidente novo, aliud rei nomen imponi solet, putavit is qui hanc individuitatis causam assignavit, ideo rem quoque aliam esse. Juxta sententiam primam non esset idem homo qui peccat, et qui plectitur, propter perpetuum corporis humani fluxum; nec eadem civitas quz leges sancit, et alio seculo abrogat; quod est jura omnia humana confundere. Juxta sententiam secundam, duo corpora etiam simul existentia unum et idem numero essent; nam si navis, exempli causa, illa Thesei (de cujus, paulatim. exemptis veteribus tabulis et in earum locum novis suppositis, continuo refectz differentia sophiste Athenienses olim disputarunt) eadem numero esset post mutatas omnes tabulas, quee fuerat ab initio.
+
+Et si aliquis veteres tabulas, prout eximebantur, conservasset, atque ex conservatis et eodem postea ordine compactis, navim denuo fabricasset, dubium non est quin hec eadem fuisset numero cum ea navi, quz fuit a principio; et habuissemus duas naves easdem numero; quod est absurdissimum.
+
+[p. 122] PARS f.
+
+De principio Bote z tionis,
+
+
+Juxta tertiam autem sententiam, nihil omnino idem esse quod fuerat, ita ut ne stans quidem idem homo esset qui sederat, nec eadem aqua quz in vase est et quz mox effunditur. Principium itaque individuationis nec semper a materia sola, nec semper a forma sola, sestimandum est.
+
+Sed considerandum est quo nomine dicatur res queque, quando de identitste ejus qusritur ; multum enim interest quszrere de Socrate, an sit idem homo, an idem sit corpus. Idem enim corpus, infans et senex, propter diversam magnitudinem esse non potest ; unius enim corporis eadem semper est magnitudo; idem tamen homo esse potest. Quoties itaque nomen, sub quo quzritur an aliquid idem sit quod erat, impositum est propter materiam solam, si eadem sit materia, idem est individuum ; ut aqua, dum in mari erat, eadem est, quz postea in nube est, et idem semper corpus est, sive compactum, sive disjectum, sive congelatum, sive liquefactum. — Quod si propter formam talem, quz sit principium motus, nomen inditum sit, manente eo principio, idem erit individuum; ut idem homo erit, cujus actiones et cogitationes omnes ab uno et eodem principio (scilicet eo quod fuit in generatione) derivantur ; et idem flumen, quod fluit ex uno et eodem fonte, sive eadem aqua, sive alia, sive aliud quam aqua inde fluat; et una civitas, cujus acta ab una et eadem institutione continuo derivantur, sive iidem sint in ea homines, sive alii. Denique si nomen inditum sit propter accidens aliquod, quoniam materia abeunte et accedente, accidentia pereunt et nova generantur, que non sunt eadem numero, identitas rei pendebit a materia; ut navis, qua
+
+[p. 123] DE QUANTITATE. 123 significatur materia sic figurata, eadem erit si tota materia eadem sit; sin nulla pars materiz eadem sit, penitus diversa numero est navis; si vero pars materie maneat, pars abierit, erit navis partim eadem, partim diversa.
+
+CAPUT XII.
+
+DE QUANTITATE.
+
+1. Quantitatis definitio.—9. Expositio quantitatis, quid sit.— 3. Quibus modis exponuntur linea, superficies, et solidum,— 4. Quomodo exponitur tempus.—5. Quomodo exponitur numerus.—6. Quomodo exponitur velocitas.—7. Quomodo exponitur pondus.—8. Quomodo exponitur ratio magnitudinum. 9. Quomodo exponitur ratio temporum et velocitatum
+
+1. D& dimensione quid sit, et quotuplex, dictum supra est capite 8, nimirum tres esse, lineam (sive longitudinem) superficiem, et solidum. Harum unaquzeque, si sit determinata, id est, si fines seu termini ejus cogniti fiant, quantitas appellari solet.
+
+Per quantitatem enim intelligunt omnes id quod significatur ea voce, qua apte respondetur ad quaestionem quantum est. ^ Cum ergo quoties quzritur, exempli gratia, quantum est iter, non respondetur indefinite /ongifudo ; nec querenti quantus est ager, indefinite superficies; nec si quzerat quis quanta est moles, indefinite solidum ; sed determinate respondetur, iter centum millium passuum, ager centum jugerum, vel moles centum. pedum cubicorum, vel aliquo saltem modo, quo possit rei quesitee magnitudo sub certis terminis animo comprehendi.  Definiri igitur quantitas alio modo non potest, quam ut sit dimensio deter- n.
+
+Quantitatis definitio.
+
+[p. 124] 12.
+
+Expositio quantitatis quid sit,
+
+
+minata, vel dimensio cujus termini sunt aut loco aut comparatione aliqua cogniti.
+
+2. Determinatur autem quantitas duobus modis, altero ad sensum, quod fit per objectum sensibile, ut quando linea, superficies, vel solidum, pedale vel cubitale in materia aliqua signatum oculis objicitur, qui determinandi modus ezpositionis, et quantitas sic cognita exposita dicitur. Altero, 2d memoriam, quod fit per comparationem cum exposita. Et primo quidem modo querenti quanta res est, respondetur, quantam expositam vides. Secundo modo non satisfit nisi per comparationem cum exposita; nam quierenti quanta est vize longitudo, respondetur tot millia passuum, (scilicet comparando viam cum uno passu, vel alia mensura expositione determinata, et cognita) vel ita se habere quantitatem ejus ad aliam cognitam expositione, ut diameter quadrati ad latus, vel alio aliquo simili modo ; oportet autem expositam esse vel permanentem, ut que in materia consistente designatur, vel revocabilem ad sensum; alioqui enim comparatio cum ea institui non potest. Cum autem comparatio magnitudinis cum magnitudine per ea quse dicta sunt capite preecedente, id ipsum. sit quod vocatur ratio, manifestum est quantitatem secundo modo determinatam nihil aliud esse quam dimensionis non expositze ad expositam ratio, hoc est, sequalitatem vel inzqualitatem ejus cum exposita comparat.
+
+3. Exponuntur autem linee, superficies, et solida, primo per motum, eo modo quo capite octavo generari ea diximus, sed ut talis motus vestigia maneant ; ut quando signantur in materia, "ut linea super chartam, vel incisa in materia con-
+
+[p. 125] DE QUANTITATE. .125
+
+Sistente: secundo per appositionem, ut quando linea linez, id est, longitudo longitudini, latitudo latitudini, crassities crassitiei adjungitur, quod est lineam per puncta, superficiem per lineas, solidum per superficies describere; nisi quod per puncta, hoc loco linez valde breves, per superficies, solida tenuia inteligenda sint: tertio exponi possunt linez et superficies per sectiones, nimirum secando superficiem expositam fit linea, et secando solidum fit superficies.
+
+4. Exponitur tempus, quando non solum exponitur linea quzlibet, sed etiam mobile quod super eam moveatur uniformiter, vel ita moveri supponatur; nam cum tempus sit imago motus, quatenus in eo consideratur prius et posterius, hoc est, successio, non sufficit ad expositionem temporis, ut linea describatur, sed etiam ut sit in animo imaginatio alicujus mobilis per illam lineam transeuntis, idque motu uniformi, ut tempus possit dividi et componi quoties opus est. Itaque cum philosophi in demonstrationibus suis lineam designant, dicuntque esto illa linea tempus, ita intelligendi sunt ac si dicerent conceptio motus uniformis per illam lineam, esto tempus. Nam horologiorum circumferentie sole, quamquam lineze sint, tamen ad notanda tempora, nisi motus etiam umbrz vel indicis vel sit, vel supponatur, inepte sunt.
+
+5. Exponitur numerus per expositionem punctorum, vel etiam nominum numeralium, unum, duo, tria, óc. et puncta illa quidem non debent ita sibi invicem esse contigua, ut nullis notis distinguantur, sed ita posita ut discerni possint. Inde enim est quod numerus vocetur quantitas discrefa, cum exponitur. tempus.
+
+exponitur numerus.
+
+[p. 126] PARSII.
+
+itur velocitas.
+
+exponitur pondus, itur io magnitudinum,
+
+
+quantitas omnis, quee motu designatur, continua dieatur. Nomina autem numeralia, ut numerum exponant, ordine et memoriter recitari debent, ut unum, duo, trig, &c. nam etsi quis dicat sic, unum, unum, unum, &c. numerum tamen nescit, nisi forte binarium aut ternarium, cujus meminisse quidem potest, sed ut figure cujusdam, non ut numeri.
+
+6. Ad expositionem autem velocitatis, (quze, per definitionem, est motus quo certum spatium certo tempore percurritur,) requiritur tum ut tempus exponatur, tum etiam ut illud spatium, quod a mobili, cujus velocitatem determinare volumus, transmittendum est expositum sit, et in eo mobile moveriintelligatur. Dus itaque linez exponendze sunt, altera super quam intelligatur fieri motus uniformis, ut tempus certum sit ; altera super quam velocitas sstimetur: ut si velocitatem velimus exponere mobilis A, ducemus duas A B lineas A B, et CD, et mobilein C quo- —— — — que statuemus; tum vero dicemus C D velocitatem mobilis À tantam esse, ut. percurrat lineam A B eodem tempore quo mobile C percurret lineam CD motu uniformi.
+
+7. Pondus autem exponitur per quodcunque corpus grave, cujuscunque materie, modo sit ejusdem semper gravitatis.
+
+8. Ratio autem duarum magnitudinum tum exponitur quando ipse exponuntur magnitudines ; nimirum ratio equalium quando exposite magnitudines sunt squales; ratio inequalium. quando expositze magnitudines suntinzquales. Cum enim ratio intequalium per cap. precedens, articulum 5, consistat in differentia ipsarum comparata cum
+
+[p. 127] DE QUANTITATE. 127 utravis magnitudine, expositis autem ineequalibus, DIL differentia quoque exposita sit, necesse est, expositis —-— rationem habentibus, exponi quoque ipsam rationem. Similiter ratio zequalium (quz consistit in eo, quod nulla est inter ipsas magnitudines differentia) ipsis equalibus expositis una exponitur, exempli gratia, si linee» expositee A B et CD sint. squales, ratio szqualitatis exponitur, et. expositis ingqualibus E F, E G, ratio exponitur A B tum ea quam habet E F ad E G, tum. —— — — ea quam habet EG ad EF; nam et. C D ipse expositee sunt et earum differentia E G F quz estG F. Ratio inequalium quan- ^ titas est; consistit enim in differentia G F quse est quantitas. Ratio vero squalitatis, quantitas non est, cum differentia ipsarum mulla sit, neque sequalitas zequalitate (sicut inequalitasinzequalitate)
+
+una major est quam alia.
+
+9. Ratio autem duorum temporum, vel duarum qscmoio velocitatum uniformium, tum exponitur, cum dum ^ua linee exponuntur, per quas duo mobilia intelli- br» «t. guntur uniformiter transire. Itaque eedem duz linee exhibent rationem et suam, et temporum, et velocitatum, prout considerantur pro ipsis magnitudinibus, vel pro temporibus, vel pro velocitatibus exponi; sint enim duse lineze A exposite A et B, exposita ergo est, per precedentem, ipsarum ratio; deinde si B considerentur ducts :equali et uniformi ^ velocitate, quoniam tempora majora, zqualia, aut minora sunt prout eadem spatia majori vel equali vel minore tempore transeuntur, exhibebunt linee A et B squalitatem vel inzqualitatem, id est, rationem temporum. Denique si linez eedem A
+
+[p. 128] 128 PHILOSOPHIA PRIMA.
+
+PARSIL et B considerentur ductze eodem tempore, quoniam
+
+——-— velocitates majores, squales, vel minores sunt, prout eodem tempore majores, zquales, vel minores lineas percurrunt, exhibebunt ille lineze sequalitatem vel inzqualitatem (id est, rationem) suarum velocitatum.
+
+CAPUT XIII.
+
+DE ANALOGISMO SIVE EADEM RATIONE.
+
+1, 9, 3, 4. Rationis arithmeticee et geometricee natura et definitiones.—5. Rationis ejusdem arithmeticee definitio et proprietates aliquot.—6, 7. Analogismi seu rationis ejusdem geometricze definitio et metamorphoses.—8, 9. Hyperlogismi, et hypologismi, id est. rationis majoris et minoris, definitio et metamorphoses. 10, 11,12. Analogarum quantitatum comparationes secundum magnitudinem.—19, 14, 15. Hationum compositiones.—16, 17, 18, 19, 20, 21, 22, 95, 24, 25. Rationis continuse definitio et proprietates.—96, 27, 28, 99. Comparatio rationis arithmetice et geometries.
+
+[In presenti capite nota: signum -- significare quantitates inter quas. interponitur, esse compositas, Signum autem — residuum detracta posteriore a priore. Itaque A-HB smquale est ambabus A et B simul; et ubi vides A—B ibi A est totum B ablatum, A—B residuum, duas autem. literas conjuncta sine signo significare (nisi aliqua sit figura) unam quantitatem ductam sive multiplicatam peralteram, ut A B significat factura ex À ductain B.]
+
+Rios 1. MAGNUM et parvum intelligi nullo modo pos-
+
+Foros sunt nisi per comparationem. Illud autem cui dam comparantur expositum vocavimus, hoc est, magnitudinem aliquam sensibus perceptam, vel verbis ita definitam ut comprehendi animo possit. Comparatur autem unaqueque magnitudo vel ad majorem, vel ad minorem, vel ad zequalem. Ratio
+
+[p. 129] iteque (quam in precedentibus nihil aliud esse TARSIL docuimus quam szstimationem sive comprehen- -— sionem magnitudinis per comparationem) triplex Bii est, qualitatis, quee est sequalis ad equale; veletgemesi excessus, quae est majoris ad minus ; vel defectus, detuitionci. quie est minoris ad majus.
+
+Rursus rationum harum unaquszeque duplex est.
+
+Nam si quzratur de magnitudine data, quanta est, responderi potest comparando dupliciter. Primo si dicatur major vel minor esse alia, tanto ut 7 minor est 10, tribus unitatibus. Atque hzc ratio dicitur arithmetica. Secundo, si dicatur major vel minor alia, tanta ejus parte vel partibus, ut 7 minor est 10, tribus ipsius denarii partibus decimis. Quamquam autem ratio hzc non semper numeris explicari potest, est tamen ratio certa et generis a priore diversi, diciturque ratio geometrica, et plerumque simpliciter, ratio.
+
+2. Ratio, sive ea arithmetica sit sive geometrica, exponi non potest nisi in duabus magnitudinibus, quarum prior antecedens, posterior consequens rationis nominari solet, ut ostensum est cap. prec. art. 8.
+
+Quare si du: rationes inter se comparandz sint, quatuor erunt expositee magnitudines, nempe due antecedentes, et dus consequentes: nam etsi accidat quandoque ut consequens rationis prioris eadem sit cum antecedente posterioris, tamen in duplici comparatione necesse est ut bis numeretur. Itaque semper termini quatuor erunt.
+
+3. Duerum rationum sive arithmeticarum sive geometrícarum, quando utrobique magnitudines comparate (quse ab Euclide def. v. lib. 6, rationum quantitates appellantur) sunt zquales, una ratio
+
+VOL. I. K
+
+[p. 130] PARSIL altera nec major nec minor esse potest. Non ——-— enim una zqualitas major aut minor est alia beriepipn squalitate. At duarum rationum insqualitatis, metiem nito sive eze rationes sint excessus sive defectus, una alia potest esse vel major vel minor, vel ambae zquales. Nam etsi sint. proposite, dug magnitudines inter se inzequales, possunt tamen esse alice duz magis, alize dus :eque, alis dug minus inter se inzquales quam ipse proposite. Ex quo intelligitur rationem tam excessus, quam defectus esse quantitatem, quippe quz suscipit magis et minus; rationem autem eequalitatis, quia non suscipit magis nec minus, quantitatem non esse. Itaque rationes inzqualitatis posse simul addi, vel unam ab alio adimi, vel inter se et per numerum multiplicari et dividi, rationes zequa- litatis non item.
+
+4. Dus rationes zquales dicuntur communiter ratio eadem ; dicuntque eandem esse rationem primi antecedentis ad primum consequens, que secundi antecedentis ad consequens secundum. Et quatuor magnitudines ita se habentes in ratione geometrica dicuntur proportionales, et a quibusdam brevius, analogismus.
+
+Major autem ratio est ratio majoris antecedentis ad idem consequens, vel ejusdem antecedentis ad consequens minus; et quando major est ratio primi antecedentis ad primum consequens quam secundi antecedentis ad secundum consequens, quatuor magnitudines ita se habentes dici possunt Ayperlogismus.
+
+Minor ratio est ratio minoris antecedentis ad idem consequens, vel ejusdem antecedentis ad consequens majus. Quando autem minor est
+
+[p. 131] ratio primi antecedentis ad primum consequens s quam secundi ad secundum, quatuor magnitudines —— ita is habentes vocari possunt Aypologismus. . Ratio arithmetica rationi arithmeticze eadem Tationie jo dem arithme- E quando unum antecedens consequens suum tice deánitio tanto superat, vel ab eo superatur, quanto ante- "P'Preter cedens alterum superat, vel superatur a consequente suo. Itaque in quatuor arithmetice proportionalibus summa extremorum sequalis est summ: mediorum. Nam si sint A. B:: C. D arithmetice proportionalia, sitque differentia utrobique idem excessus vel idem defectus E, erit B-C (si modo A majus sit quam B) sequale A—E-C. At A«D erit equale A-C—E. Sed A—E-C et A-C—E sunt equalia.— Sin A quam B minus sit, erit B--C quale A-E-C, at A- D squale erit A--C-E. Sunt autem A--E4C, et ACE squalia. Item si sint quotcunque arithmetice continue proportionalia, summa omnium est zqualis facto ex dimidiato numero terminorum multiplicato in summam extremorum. Sint enim A. B :: C. D::
+
+### E. F arithmetice continue proportionalia, bina
+
+AF, BE, C^ D, sunt inter se zequalia, quorum summa fit ex ductu A--F in numerum combinationum, hoc est, in semissem numeri terminorum. Si sint quatuor magnitudines inzquales, sint autem dus simul duabus reliquis simul zquales, maxima et minima erunt n eadem combinatione. Sint magnitudines inzquales A, B, C, D, sintque A-B equales C - D, maxima autem omnium sit A, dico B esse omnium minimam. Sit enim, si fieri potest, utravis reliquarum, puta D, minima ; quo- K2
+
+[p. 132] PARSIL niam ergo A est major quam C, et B quam D, erit: —-—  A-B major quam C 4D, contra hypothesin.
+
+Si sint quatuor magnitudines quaecunque, composita ex maxima et minima, composita ex mediis, differentia maximarum, differentia minimarum, sunt arithmetice proportionales. Sint enim quatuor magnitudines, À maxima, D minima, B et C medize ; dico A*D. B-C:: A—B. C—D esse arithmetice proportionales. Est enim differentia inter primum antecedens et suum consequens hzc, A 4. D—B— C, at differentia inter antecedens secundum et consequens ejus est A—B—C 4D. Sed he due differentize sunt equales ; sunt ergo (per 5) AD. B4C:: A—B. C—D arithmetice proportionales.
+
+Sisint quatuor magnitudines, bins binis :equales, erunt ille reciproce arithmetice proportionales. Sint enim A-- B, CD squales. Dico A4, C:: D, B esse arithmetice proportionales. Nam si non sint, sint A. C: : D. E (sumendo E majorem vel minorem, quam B) proportionales, sunt ergo À * E, C^ D zquales ; non sunt ergo A B, C D equales, quod est contra suppositum.
+
+Ambogimi ^ 6, Ratio geometrica rationi geometricee eadem
+
+Sjusdem ges- est, quando causa aliqua equalibus temporibus metrice defi- : d 5 : sitioe mers. fequalia faciens, utramque rationem determinans mT"** eodem assignari potest.
+
+Si punctum uniformiter motum duas describat lineas, sive eadem sive diversa velocitate, earum partes omnes contemporanes, hoc est, eodem tempore descriptze, erunt binze binis proportionales. Idque sive antecedentes sumantur in eadem, sive in diversa linea.
+
+Sint enim (fig. 10 ad finem cap. 14) a puncto
+
+[p. 133] A, moto uniformiter, descriptze dute linez A D, AG, pns ur. sumanturque duz partes À B, A E, et rursus alig . !* . duse partes A C, A F, ita ut A B, A E sint contem- Amorem] poranezm, atque etiam A C, A F contemporaneee, ejuxiem [o dico primum (sumendo antecedentes A B, A C in sc cruealinea A D, et consequentes A E, A F in linea A G) "rios A B. AC::A E. A F esse proportionales.
+
+Quoniam enim (cap. 8. artic. 15) velocitas est motus, quo certo tempore certa percurritur longitudo sive linea, erit quantitas linez A B determinata avelocitate et tempore, quibus ipsa A B describitur ; propter eandem causam erit quantitas linee A C determinata a velocitate et tempore, quibus ipsa A C describitur. Determinatur ergo ratio A B ad A C, sive illa sit ratio zqualitatis sive excessus sive defectus, a velocitatibus et temporibus, quibus ipse linee A B, A C describuntur. Cum autem motus puncti À per A B et A C sit uniformis, describuntur ambz velocitate zequali ; itaque si altera ad alteram habeat rationem majoritatis vel minoritatis, causa sola ejus rationis est differentia temporum. Eodem argumento patet quoque rationem À E ad A F determinatam esse a sola differentia temporum. Quoniam jam A B, A E, item A C, A F sunt contemporanez, differentia temporum in quibus describuntur A B et A C, eadem est cum differentia temporum in quibus describuntur A E et A F. Eadem ergo est causa, quz determinat rationem A B ad A C et que determinat rationem A E ad A F. Sed et causa, quz rationem utriusque sic determinat, zqualia efüicit temporibus zqualibus; est enim motus uniformis. ltaque per definitionem proxime praecedentem, ratio A B ad A C, et A E ad A F est
+
+[p. 134] 134 PHÍLOSOPHIA PRIMA.
+
+PARSIL eadem, et proinde A B. A C :: A E. A F sunt pro-
+
+——  portionales, quod est primum.
+
+AmlGsmi ^ Secundo (sumendo antecedentes in diversis juin ge lineis) dico A B. A E :: A C. A F esse propor- nitioetmeta- tionales ; cum enim A B, A E describuntur eodem
+
+7"TP** tempore, rationis quam habent inter se causa sola. est differentia velocitatum quibus sunt descriptee. Idem dicendum est de ratione A C ad A F. Sed cum utraque linea A D, A G uniformiter percurratur, eadem erit velocitatum differentia quibus describuntur A B, A E, que est differentia velocitatum quibus describuntur A C, A F. Eadem ergo est causa determinans rationem A B ad A E, que determinat rationem A Cad A F. Sunt ergo A B. A E:: A C. A F proportionales, quod restabat probandum.
+
+Coroll. 1. Sisint quatuor proportionalia, erunt quoque permutando (hoc est transponendo terminos medios) proportionalia. Est enim ostensum non modo À B.A C :: AE. AF, sed etiam (permutando ) AB, A E:: AC, A F esse proportionalia.
+
+Coroll.2. Si sint quatuor proportionalia, erunt. quoque invertendo sive convertendo (id est, si fiant. ex antecedentibus consequentia) proportionalia. Nam si in precedente demonstratione pro A B, AC posuissemus inversim À C, A B, et pro A E, A F dixissemus quoque inversim A F, A E, eadem tamen mansisset demonstratio. Sunt enim tam sque veloces A C, A B, quam A B, A C, et tam contemporanez À C, A F, quam A F, A C.
+
+Coroll 3. Si proportionalia proportionalibus addantur, vel adimantur, erunt aggregata vel residua proportionalia. Contemporanea enim contemporaneis addita vel ablata faciunt aggregata
+
+[p. 135] DE ANALOOGISMO. 135 vel residua contemporanea, sive omnibus terminis, PARS II. sive antecedentibus tantum, sive consequentibus -— solis addantur adimanturve.  Analogismi
+
+Coroll. 4. Si quatuor proportionalium antecedens ejusdem geoutrumque, vel consequens utrumque, vel omnes "rsen et termini per eundem numerum vel quantitatem morphoes. multiplicentur vel dividantur, que fiunt, erunt proportionalia. Nam proportionalium multiplicatio et divisio nihil aliud est quam additio et ablatio proportionalium.
+
+Coroll.5. Si sint quatuor proportionalia, etiam componendo, (id est sumendo pro antecedente compositum ex antecedente et consequente, et pro consequente ipsum consequens vel antecedens) erunt proportionalia. Est enim compositio hec, additio proportionalium, nempe consequentium ad sua antecedentia, que sunt ex suppositione proportionalia.
+
+Coroll6. Etiam si pro antecedente sit ipsum antecedens vel consequens, et pro consequente compositum ex ambobus, erunt et hzc proportionalia. Est enim rationis per compositionem inversio.
+
+Coroll.7. Si sint quatuor proportionalia, erunt quoque divisim, id est, sumendo reliquum detracto consequente ex antecedente, sive differentiam inter antecedens et consequens, pro antecedente, et vel totum vel ablatum pro consequente, proportionalia. Ut si sint proportionalia A. B : : C. D, divisim erunt A—B. B:: C—D. D, et A—B. A:: C—D. C, et quando consequens antecedente majus est B—4A. A :: D—C. C, et B—A. B :: D—C. D: nam in his divisionibus omnibus auferuntur ab A et B, eta Cet D ipsis (per ipsam analogismi A. B::C.D suppositionem) proportionalia.
+
+[p. 136] 136 PHILOSOPHIA PRIMA.
+
+ni Coroll. 8. Si fuerint quatuor proportionalia,
+
+——— etiam per conversam rationis (id est invertendo
+
+Amlegismi. rationem divisam, sive sumendo totum pro ante-
+
+Sudemge" cedente et differentiam sive reliquum pro con- aitioetmeta- sequente) erunt proportionalia; utsi A. B::C. D sunt proportionalia, erunt quoque À. A—B :: C. C—D, et B. A—B:: D. C—D proportionalia. Cum enim horum inversa sint proportionalia, etiam ipsa proportionalia erunt.
+
+Coroll. 9. Si fuerint duo analogismi, quorum quantitates secunda secunde, et quarta quartz sunt zquales, erit sive summa sive differentia primarum ad secundam, ut summa vel differentia tertiarum ad quartam. Sint duo analogismi
+
+### A. B:: C. D, et E. B:: F.D,dicoA*E. B:: CEF.D
+
+esse proportionalia. Nam propositi analogismi, permutando, fiunt A. C :: B. D et E. F:: B. D; sunt ergo A. C:: E. F proportionalia, (habent enim communem rationem B ad D,) quare si ad A et C primi analogismi permutati, addantur E et F, ipsis A et C proportionalia, erunt (per Coroll. 3.)) A«E. B :: C«*F. D proportionalia ; quod erat probandum.
+
+Eodem modo ostendi potest etiam A—E. B :: C—F. D esse proportionalia.
+
+7. Si sint duo analogismi, quorum quatuor antecedentia faciunt analogismum, eorum etiam consequentia faciunt analogismum. Etiam summse antecedentium summis consequentium erunt proportionales.
+
+Sint enim duo analogismi A. B :: C. D, et E. F :: G. H, sint autem et A. E :: C. G proportionalia, erunt ergo permutando A. C :: E. G et E.G :: F. H, et A. C:: B. D proportionalia; quare
+
+[p. 137] DE ANALOGISMO. 137
+
+B. D:: E. G, hoc est, B. D::F. H et permu- PARS tI. tando B. F :: D. H, sunt proportionalia; quod est. —-— primum.
+
+Secundo, dico A--E. B^ F :: C4 G. DH esse proportionalia. Quoniam enim A. E :: C. Gsunt proportionalia, erunt quoque componendo A4E. E :: C*G. G proportionalia, et permutando AE. C«*G :: E. G proportionalia, quare etiam AE. C*G::F. H sunt proportionalia. Rursus quoniam ostensum modo est B. F :: D. H esse proportionalia, erunt quoque componendo B-F. F :: D«*H. H proportionalia, et permutando B-«F. DH :: F.H proportionalia; quare AE. CG :: B4F. DH erunt proportionalia. Quod restabat probandum.
+
+Coroll. Eodem argumento, si fuerint quotcunque analogismi, fuerintque antecedentia antecedentibus proportionalia, ostendi potest consequentia consequentibus, et summas antecedentium. summis consequentium esse proportionalia.
+
+8. In hyperlogismo, id est, ubi major est ratio rper, primi antecedentis ad suum consequens, quam ri, Wet secundi ad suum, etiam permutando, et addendo 55» mae vel auferendo & proportionalibus proportionalia, fiio et metaitem multiplicando vel dividendo per eundem ""?""* numerum, item composite, et divisim, fiet semper hyperlogismus. Supponamus enim A. B:: C. D esse analogismum ; item A. E. F esse analogismum ; eritque A--E. B :: C«-F. Danalogismus.
+
+Sed A*E. B :: C. D erit hyperlogismus.  Permutando itaque A--E, C :: B, D est hyperlogismus, propter A. B ::C. D analogismum. Secundo, hyperlogismo A--E. B :: C. D addantur proportiondia G. H: erit A-E*G. B :: C4H. D
+
+[p. 138] PARSIL hyperlogismus, propter analogismum A-KE-G. —-—— B::C-*F-*H.D; item auferendo G et H, erit Ei dae AEG. B:: C—H. D hyperlogismus, propter mi dec n analogismum A--E—G. B :: C-F—H.D. Tertio, etminoris.de- componendo fit A--E-B. B *D. D hyperem " logismus, propter A--E-- B. B *F-« D. D analogismum; et sic in omni specie compositionis. Quarto, divisim A-E—B. B :: C—D. D est hyperlogismus, propter A-FE—B. B :: C-- F—D. Danalogismum. Item A--E—B. A--E::C-D. C est hyperlogismus, propter A--E—B. A t E:: C F-D. C4- F analogismum. Quinto, multiplicando, 4 A*E. B::4 C. D est hyperlogismus, propter analogismum 4 A. B ::4 C. D, et dividendo, 1 A--t E. B::£C. D est hyperlogismus, propter analogismum 4 A. B:: $C. D. 9. Sed si fuerit hyperlogismus A -- E. B :: C. D. fiet invertendo hypologismus, B. AE :: D. C, propterea quod, existent eanalogismo B. A :: D. C, consequens primum majus justo est. ltem per conversam rationis A --E. A--E—B::
+
+## C. C—D hypologismus est, propterea quod inversa
+
+hujus, nempe À--E—B. A--E:: C—D. C, ut modo ostensum est, est hyperlogismus. Sic quoque
+
+### B. A*E—B :: D. C—D est hypologismus, quia
+
+inversam ejus A--E—B. B :: C—D. D, ostendimus modo esse hyperlogismum. Notandum est hypologismum hunc A--E. A«E —B :: C. C—D enuntiari hoc modo: si major fuerit ratio totius (A.-E) ad ablatum (B) quam totius (C,) ad ablatum D, erit ratio totius A--E ad reliquum A--E—B, minor quam totius C, ad reliquum C—D. 10. Si fuerint quatuor proportionalia, differentia [p. 139] primorum ad differentiam secundorum est PABS TL ut antecedens primum ad antecedens secundum, —:— vel ut consequens primum ad consequens secun- peres dum; sint enim proportionalia A, B :: C, D, erunt conpsndonee dividendo A—B. B :: C—D. D proportionalia, et mgoitudinem. permutando A—B. C—D :: B. D, hoc est differentiz consequentibus sunt proportionales, ideoque et antecedentibus.
+
+1l. Si quatuor proportionalium primum sit majus secundo, etiam tertium quarto majus erit. Quoniam enim primum majus est secundo, ratio primi ad secundum est ratio excessus, sed ratio tertii ad quartum eadem est que primi ad secundum; est igitur ratio tertii ad quartum ratio excessus; majus ergo est tertium quarto. Eodem modo probatur, quoties primum secundo minus est, toties tertium quarto minus esse, et quoties sequalia sunt prima, zequalia esse secunda.
+
+12. Si sint quatuor proportionalia quecunque
+
+### A. B :: C. D, fuerintque primum et tertium per
+
+quemlibet unum numerum multiplicata, puta per 2, et rursus secundum et quartum per quemlibet unum numerum multiplicata, puta per 3, sitque multiplex primum 2 À majus multiplici secundo 3 B, erit quoque multiplex tertium 2 C majus multiplici quarto 3 D. Sin multiplex primum minus sit multiplici secundo, erit quoque multiplex tertinm minus multiplici quarto. $i denique multiplicia primum et secundum sint inter se squalia, etiam multiplicia tertium et quartum inter se eequalia erunt. Est autem theorema hoc idem quod ejusdem rationis apud Euclidem definitio. Demonstratur autem sic.
+
+Quoniam A. B :: C. D sunt proportionalia, erunt quoque permutando (per art. 6. cor. 1) A.C:: B.D
+
+[p. 140] PANSIL proportionalia. Itaque (per coroll. 4. ejusdem ——— art. 6.) 24.20::3 B. 3D erunt proportionalia ; rursusque permutando erunt 2A.3B:: 2C. 3D proportionalia. Quare (per precedentem) si 2 A sit majus quam 3 B, etiam 2 C erit majus quam 3D; si minus, minus; si quale, quale; quod erat demonstrandum. Rationum. 13. Si fuerint tres magnitudines quzcunque, vel tria quecunque habentia inter se rationem aliquam, ut tres numeri, tria tempora, tres gradus, etc. rationes primi ad secundum, et secundi ad tertium simul sumptee, sunt zequales rationi primi ad tertium.
+
+Sint tres linez, (nam ratio quevis ad rationem linearum reduci potest) AB, AC, AD; et primum, sit ratio tam prima A B ad secundam A C, quam secunde A C ad tertiam A D, ratio defectus, sive ARSEDIMECINIDI minoris ad majorem. Dico rationes ambas simul AB ad AC, et AC ad AD, equales esse rationi AB ad AD.
+
+Supponatur punctum A moveri per totum A D uniformiter. Itaque rationes tam A B ad AC, quam AC ad AD, determinantur a differentia temporum quibus describuntur; id est, habet A B ad A C rationem illam quam diversa descriptionis tempora determinant, et AC ad AD rationem quam determinant tempora sua. Sed et ratio AB ad A D illa est, quam determinat differentia temporum quibus ipse AB et AD describuntur ; differentia autem temporum quibus describuntur A B, A C, una cum differentia temporum quibus describuntur AC et AD, eadem est cum differentia temporum quibus describuntur AB et AD. Eadem. ergo causa est, quz determinat ambas simul
+
+[p. 141] rationes AB ad AC, et AC ad AD, et quie deter. PARS II. minat rationem AB ad AD. Quare (per def. —— ejusdem rationis traditam artic.6,) ratio A B ad orones, A C, una cum ratione À C ad A D, eadem est cum ratione A B ad AD.
+
+Secundo, sit A D prima, A C secunda, A B tertia, wut sit ratio excessus sive majoris ad minorem. Erunt, ut prius, rationes A D ad A C, et A Cad A B, et A Dad A B determinate a differentia temporum ; quz hic quoque tanta est in descriptione A D et A C, et in descriptione A C et A B, simul sumpta, quanta est in descriptione A D et A B: est ergo ratio A D ad A B equalis rationibus ambabus A D ad AC et AC ad A B.
+
+Postremo si una rationum, nempe A D ad A B, sit ratio excessus, altera A B ad A C ratio defectus, sic quoque ratio À D ad A C zqualis erit rationibus ambabus simul A D ad A B, et A Bad AC. Nam differentia temporum quibus describuntur A D, A B, est temporis excessus; nam plus temporis ponitur in describenda A D, quam A B; differentia vero temporis in describendis A B, A C est defectus, nam minus ponitur temporis in describenda A B quam A C. Sed excessus hic et defectus simul sumpti facient D B—B C, cui zqualis est D C excessus primi A D supra tertium A C; eadem ergo est causa determinans rationem primi A D ad secundum A B, cum ratione secundi A B ad tertium. A C, que determinat rationem A D primi ad A C tertium. Quare si fuerint, &c.
+
+Coroll. 1. Si sint quotcunque rationem habentia, ratio primi ad ultimum componitur ex rationibus primi ad secundum, secundi ad tertium, et sic deinceps, usque ad ultimum ; sive eadem est ratio primi ad ultimum, que est summa rationum omnium
+
+[p. 142] 15.
+
+Rationum. compositiones
+
+
+intermediarum ; nam si sint quotcunque rationem habentia A, B, C, D, E, ratio A ad E componitur ex rationibus A ad D et D ad E, et rursus ratio A ad D, ex rationibus A ad C, et C ad D, et denique ratio A ad C, ex rationibus A ad B, et B ad C, ut modo ostensum est.
+
+Coroll. 2. Intelligitur hinc quomodo dus rationes sunt componendz ; nam si dentur rationes A ad B et Cad D simul addende. Si fiat ut C ad D ita B ad aliud, puta E, ponanturque ordine A, B, E, erit ratio A ad E summa ambarum rationum A ad B et B ad E, hoc est C ad D, vel si fiat ut D ad C, ita A ad aliud, E, ponanturque ordine E, A, B, erit. ratio E ad B, composita ex ratione E ad A (hoc est. Cad D) et A ad B.  Intelligitur item quo modo ratio a ratione auferri potest ; nam si a ratione A ad B, tollenda sit ratio C ad D, fiat ut C ad D ita A ad aliud, E, positis jam ordine A, E, B, ablataque ratione A ad E, id est C ad D, residua ratio est E ad B.
+
+Coroll. 3. Si sint duo ordines habentium rationem aliquam, sintque singulze rationes primi ordinis egdem totidemque cum rationibus secundi ordinis, sive respondeant singulz singulis, id quod vocant rationem ordinatam, sive non respondeant, ubi Scilicet ratio dicitur perturbata, erünt prima ultimis proportionalia. Nam primum et ultimum rationem habent qualem omnibus rationibus interjectis, in utroque ordine : quz cum sint ezedem et totidem, earumsummxze sunt zequales : summis autem zequales sunt rationes primorum ad ultima. Eadem itaque ratio est primi ad ultimum in uno ordine quz est. ratio primi ad ultimum in altero ordine ; sunt ergo prima ultimis proportionalia.
+
+14. Si fuerint duo qualibet facta ex multiplica-
+
+[p. 143] tione sive ductu in se invicem plurium quantitatum, habentium inter se aliquam rationem, totidemque numero utrobique; habebunt facta inter se rationem compositam ex singulis multiplicatis ad singula. multiplicata.
+
+Sint primo facta A in B, et C in D, utrumque ex duobus multiplicatis, sive efficientibus, alterum ex A ducto in B, alterum ex C ducto in D. Dico rationem A in B ad C in D compositam esse ex rationibus efficientis A ad efficiens C, et efficientis Bad efficiens D. Ponantur enim ordine A in B, Cin B, Cin D. Deinde fiat ut B ad D ita C ad aliud, E, ponantur etiam ordine A, C, E, eritque (per Coroll. 4, art. 6) ut A in B primum, ad C in B secundum in ordine primo; i ita A ad C in ordine RE et E - E:
+
+: : irs in B. C. rursus ut C in B, ad Cin D primi Ci D. E ordinis, ita B ad D, hoc est, per constructionem C ad E ordinis secundi. Sunt ergo, per Coroll. proxime przcedens, A in B. CinD: : A. E proportionalia. Componitur autem ratio À ad E ex rationibus A ad C, et B ad D, ergo etiam ratio A in B, ad C in D componitur ex iisdem.
+
+Secundo sint duo facta A in B in F, CinD inG utrumque ex tribus efficientibus, alterum ex A, B, et F, alterum ex C, D, et G. Dico rationem A in Bin F, ad C in D in G compositam esse ex rationibus A ad C, B ad D, et F ad G. Fiat enim quod ante, ut B ad D ita C ad E, et preterea ut F ad G ita E ad aliud H, ponanturque in ordine primo A inBinF,CinBinF,Cin D in F, CinDin G, deinde "T a H m " in ordine secundo A,C, E, H, CinDinF eritque ratio A in Bin F, ad CiDinG CinBinF primorum, ut quM
+
+A Rationum. compositiones,
+
+[p. 144] 144 PHILOSOPHIA PRIMA.
+
+PARSIL A ad C, seenndorum ; et C in B in F, ad Cin D 5 dnF primorum, ut B ad D, hoc est (per construcprece tionem) ut C ad Esecundorum ; et ratio C in D in F, ad C in D in G primorum, ut F ad G, hoc est (per constructionem) ut E ad H secundorum. Sunt ergo prima À in B in F, Cin Din G, secundis A, H proportionalia; componitur autem ratio A ad H ex rationibus A ad C, B ad D, F ad G, quare ratio factorum A in Bin F, C in D in G componitur exiisdem. Eodem modo procedetur si facta fuerit. ex efficientibus quotcunque. Hinc componendi rationes plures in unam alius modus nascitur, nempe, ille qui supponitur in definitione 5, lib. 6. Euclidis, multiplicando scilicet vel ducendo omnium rationum antecedentia in se invicem, et omnia similiterconsequentia. Exquoapparet (primoloco) causa propter quam parallelogramma, quippe qus fiunt. ductu duarum rectarum in se invicem, et solida omnia quze sic factis sunt zequalia, habere rationem. compositam ex rationibus facientium. — Deinde causa quare multiplicatio in se duarum vel plurium fractionum, idem sit que compositio rationum quas habent singuli numeratores ad singulos denominatores. Exempli causa, si he fractiones 4 3 3 mulüplicandze sint in se, multiplicandi sunt primum 1, 2, 3, in se, qui faciunt 6, deinde 2, 3, 4, in se, qui faciunt 24 ; oriturque fractio £;. Item si sint componende rationes 1 ad 2,2 ad 3, 3 ad 4, faciendo ut in precédente demonstratione docuimus, orietur ratio 6 ad 24. 15. Si ratio componatur cum sui ipsius inversa, composita est ratio zequalitatis. Sit enim ratio quecumque A ad B, ratio autem alia C ad D sit illius inversa. Componentur autem.
+
+[p. 145] DE ANALOGISMO. 145 (per Coroll. 2. artic. 13) si fiat ut C ad D, ita B torri IL 2d aliud. Sed quia ratio C ad D est inversa —— rationis A ad B, fiet ut C ad D ita B ad A, itaque si ponantur ordine A. B. A, ratio composita ex rationibus A ad B et C ad D erit ratio A ad A, hoc est, squalitatis. Patet hinc causa, propter quam duo facta squalia habent efficientes reci- proce proportionales. Nam ut facta sint zequalia, rationes ex quibus componantur debent esse tales, ut faciant compositz rationem cequalitatis, quod, nisi altera alterius inversa sit, fieri non potest ;
+
+nam inter A et A interponatur quodcunque, C, ordinenturque A. C. A: semper ratio posterior C ad
+
+À erit prioris A ad C inversa.
+
+16. Ratio majoris ad minus per numerum metis con. multiplicari dicitur, quando ipsi aliquot rationes purs sequales sive ezedem sibi adduntur; nam multiplicatio nihil aliud est quam zqualium repetita additio.
+
+Itaque sirationi alia ratio addatur ipsi equalis, fient tres quantitates, quarum ratio primz ad ultimam dupla est primz ad secundam ; sin prime rationi duse equales ipsi addantur, erunt. quatuor quantitates, in quibus ratio prime ad ultimam tripla erit prim; ad secundam, et sic deinceps. Sed ad evitandam confusionem qus oriri ex eo potest, quod ratio 2 ad 1 vocatur dupla, et 3 ad 1 tripla, &c., solent plerique pro ratione dupla, tripla, &c., dicere duplicatam, triplicatam, et sic deinceps. Quod si ratio detur minoris ad majus, rationesque aliquot addantur ipsi zquales, non multiplicari proprie, sed submultiplicari dicitur ; nam cum sit ratio defectus, defectus autem multiplicati faciant semper minorem rationem, tanto minor erit ratio quanto pluries multiplicatur; itaque quando additur VOL. I. L
+
+[p. 146] ud IL prime rationi altera, ratio primz quantitatis ad —.L. tertiam semissis est rationis prime ad secundam ; Muesau, quando rursus additur his tertia, ratio prime stproprieuter. quantitatis ad quartam triens est rationis prime ad secundam, &c. Sed pro semisse, triente, &c., vulgo dicitur ratio subduplicata, subtriplicata, &c.
+
+Ubi vero hujusmodi fiunt rationum equalium additiones, dicuntur earum quantitates esse in ratione continua vel continue proportionales.
+
+Dividitur autem ratio per numerum, quando inter rationis quantitates interponuntur medie in ratione continua, nempe dividitur per 2, quando una media interjicitur, per 3, quando interjiciuntur medize duse, et sic in infinitum.
+
+17. Si sint quantitates quotcunque, quarum numerus est impar, incipiendo autem a media omnes ab ea utrinque sint in ratione continua, ratio duarum, quz medizproximeutrinque adstant, rationis duarum, iliis rursus utrinque astantium, est subduplicata, et rationis duarum uno rursus loco remotiorum subtriplicata, &c. Sint enim magnitudines, C, B, A, D, E, sintque tam A, B, C, quam À, D, E continue proportionales, dico rationem D ad B subduplicatam esse rationis E ad C. Componitur enim ratio D ad B ex rationibus D ad A et À ad B semel sumptis ; at ratio E ad C componitur ex iisdem bis sumptis; est ergo ratio D ad B rationis E ad C subduplicata. Eodem prorsus modo, si tres essent utrinque termini, ostenderetur ratio D ad B rationis extremorum esse subtriplicata, &c.
+
+18. Si sint quoteunique continue proportionalia, primum, secundum, tertium, &c., erunt illa suis differentiis proportionalia ; nam secundum, tertium
+
+[p. 147] et sequentium unumquodque est prioris rationis EMIL consequens, idemque posterioris antecedens: sed ——-— (per artic. 10,) differentia primi antecedentis et P4 ieri em: consequentis est ad differentiam secundi antece- *! Proprieates. dentis et consequentis ut primum antecedens ad secundum antecedens, hoc est, in contitiue proportionalibus ut primus terminus ad secundum, sive ut secundus ad tertium, &c.
+
+19. Si sint tria continue proportionalia, summa extremorum una cum medio bis, summa medli et utriusvis extremi, et idem illud extremum, erurit. continue proportionalia.
+
+Sint enim A. B. C continue proportionalia ; quoniam ergo A. B :: B. C sunt proportionalia, eruht coiponehdo A.B. B :: B--C. C proportiohalia, et permutando A- B. B--C:: B. C, proportionalia, et rursus componendo A2 B4C. B4C:: B4C. C; quod erat probandum.
+
+20. In quatuor contirue proportionalibus, maximur et xínimum simul majus est quam duz relique simul. Sint continue proportionalia A. B: : C. D. quorum maximum sit A, minimum D, dico Á*D majus esse quam B--C. Sunt enim À—B. C—D :: A. C proportionalia (per art. 10) ; liaque A—B majus est (per art. 11) quam CD; adde utrobique B, eritque A majus quam C B-D, furshs adde titrinque D, eritque A--D majus quam C-cB; quod erat probandum.
+
+21. Si sint quatuor proportionalia, erit factum ab extremis in se, equale facto ex mediis ín se.
+
+Sint enim A, B:: C, D proportionalia. Dico À in
+
+D zquale esse facto ex Bin C. Componitur enim ratiu A in D, ad B in C, ex rationibus (per art. 14)
+
+A ad B et D ad C, hoc est, B ad A et ipsius inversa ;
+
+[p. 148] PARS IL 14.
+
+Rationis continuz definitio etproprietates,
+
+148 PHILOSOPHJA PRIMA.
+
+est ergo ratio composita (per artic. 15,) ratio zequalitatis; quare ratio A in D ad B in C est ratio sequalitatis: sunt ergo eequalia.
+
+22. Si sint quatuor quantitates, sitque ratio prime ad secundam duplicata rationis, quam habet. tertia ad quartam, erit factum ab extremis ad factum ex mediis ut tertia ad quartam.
+
+Sint enim quatuor quantitates A. B. C. D. Sitque ratio A ad B duplicata rationis C ad D; dico A D, id est factum ex A in D, esse ad B C, seu factum ex mediis, ut C ad D.
+
+Quoniam enim ratio A ad B duplicata est rationis C ad D, si fiat ut C ad D ita D adaliud, E, erunt A. B :: C. E proportionalia ; nam ratio A ad B est. (per hypothesin) duplicata rationis C ad D, et C ad E duplicata est ejusdem C ad D, per definitionem (artic. 16), quare (per praecedentem) A E sive A in E, zquale est B C sive B in C, sed A D est ad A E (per coroll. 4, artic. 6) ut D ad E, sive ut C ad D, est ergo A D ad B C (quod ostensum est ipsi A E :quale) ut C ad D; quod erat probandum.
+
+Porro si ratio primze A ad secundam B triplicata sit rationis quam habet tertia C ad quartam D, erit factum ab extremis ad factum ex mediis in duplicata ratione tertie ad quartam ; nam si fiat ut CadD, ita Dad E, et rursus ut D ad E, ita E ad F, erit ratio C ad F triplicata rationis C ad D, et proinde A. B : : C. F erunt proportionalia, et A F erit quale B C; sed ut A D ad AF ita D ad F, quare etiam ut A D ad BC, ita D ad F, hoc est ita Cad E; sed ratio C ad E est duplicata rationis C ad D, quare etiam ratio A D ad B C est duplicata rationis C ad D, quod erat propositum.
+
+[p. 149] 23. Si sint quatuor proportionalia, interponan- PARS IL tur autem tam inter primum et secundum, quam -— inter tertium et quartum medium proportionale, Patoniscnerit medium ad medium ut primum ad tertium, sive etproprietates. "utsecundum ad quartum. Sint enim A. B :: C.D proportionalia, interponanturque inter A et B medium E, et inter C et D medium F. Dico
+
+### A. C::E. F esse proportionalia. Ratio enim A
+
+ad E subduplicata est rationis A ad B sive C ad D. Etiam C ad F subduplicata est rationis C ad D. Sunt ergo A. E :: C. F proportionalia, et permutando A. C :: E. F sunt. proportionalia, quod erat probandum.
+
+24. Dividi dicitur aliquid in extremam et mediam. rationem, quando totum et partes sunt in ratione continugs. Exempli causa, quando A-4B. A.B. sunt continue proportionales, vel recta A C ita divisasit in B, ut AC, AB, BC sint A BC inratione continua. Quod si eadem — ,——i——
+
+A C divisa rursus fuerit in D, ut sint
+
+AC, CD, A D continue proportionales, erunt A C, A B, A D continue proportionales, et recurrendo, CA,CD, CB; quod in linea aliter secta fieri non potest.
+
+25. Sisinttria continue proportionalia, et rursus alia tria continue proportionalia, habentia medium terminum eundem, erunt extrema reciproce proportionalia.
+
+Sint enim A, B, C, et rursus D, B, E continue proportionalia, erunt quoque A. D :: E. C proportionalia; nam ratio A ad D componitur ex rationibus À ad B et B ad D, et ratio E ad C componitur ex rationibus E ad B, hoc est B ad D, et B ad C,
+
+[p. 150] 150 PHILOSOPHIA PRIMA.
+
+PABSIL hoc est À ad B; quare ex zquo per rationem — perturbatam erunt A. D : : E. C prpportionalia.
+
+Rationis, 26. Si fuerint inter eadem extrema, sed inter se arithmetica. " n " " ; etgeometrice ingequalia, interposita quotcunque media, tam in e'uemü geometrica quam in arithmetica ratione, totidem. "utrobique, singula media rationis geometrica erunt singulis mediis rationis arithmetice minora. Sint enim inter A minimum et E maximum interposita in ratione geometrica, verhi gratia, tria media B, C, D ; et in ratione arithmetica totidem F, G, H; dieo B quam F, C quam G, D quam Hminusesse. Est enim, primum, differentia inter A et F eadem que inter F et G sive G et H (propter rationem arithmeticam) ; idenque uifferentia inter singula proxima proportionalig est differenti extremorum, ubi unicum est medium, semissis ; ubi duo, triens; ubi tria, quadrans, &c. in hoc exemplo ergo est quadrans, At differentia inter D et E (per art. 17) est plus quam quadrans differentiz extremorum, propter rationem geometricam, differentia ergo inter À et D minor est quam tres quadrantes ejusdem differentie extremorum. — Similiter si intelligatur differentia inter A et D divisa in tres partes equales, ostendetur differentiam inter À et C minorem esse quam duos quadrantes differentisze extremorum A et E, et denique, divi- ^ dendo differentiam inter A et C biferiam, inter A et B minorem esse quadrante differentiz extre- morum À et E.
+
+His consideratis, erit B (hoc est, A, una cum alio quodam, quod minus est quadrante differenti s|e|etsre e|z|oluim
+
+[p. 151] extremorum A et E) minus quam F, hoc est, quam PARS ITidem A una cum alio quod equale est quadranti ——— praedicto. Item C, hoc est, À una cum minore Mh. quam sunt duo quadrantes dicte differentie minus edo" erit quam G, hoc est, quam A una cum dictis duobus quadrantibus integris. Denique D, quod superat À minus quam tribus quadrantibus dicte differentie, erit minus quam H quod superat À tribus quadrantibus dictm differentie integris. Eodem modo procederetur si essent quatuor media, nisi quod pro differentiz extremorum quadrantibus ' sumende essent partes quinte, et sic deinceps.
+
+27. LEMMA. Si eidem quantitati quantitas aliqua tum dematur tum addatur, et rursus alia; major erit ratio residui ad compositum, ubi demitur etadditur minus quam ubi majus. Quantitati A dematur et addatur B ut sit A—B residuum, AB compositum, rursus sumpto C majore quam B, et sit A—C residuum, A--C compositum ; dico A—B. A4B:: A—C. AC esse hyperlogismum; nam A-B. A:: A—C. A est hyperlogismus majoris antecedentis ad idem consequens; itaque A—B. A4B:: A-C. A*C multo major hyperlogismus est, majoris scilicet. antecedentis ad consequens minus.
+
+28. Si fuerint dus quantitates equales, a quibus ablatze sunt partes inzequales, inter totum autem et. partem utrobique interponantur mediz, una in ratione geometrica, altera in arithmetica; differentia inter duas medias major erit, ubi major est differentia totius et partis.
+
+Sint enim due quantitates equales A B et A B, a quibus ablate sint partes ingquales A E minor,
+
+[p. 152] TARSIL AF major, interponatur nad autem inter A B, AE, aihmeüs Inedia geometrice A G, m et media arithmetice
+
+PHILOSOPHIA PRIMA.
+
+B
+
+B
+
+AH. Etinter A B, A F, ponatur media geometrice
+
+AT, arithmetice A K. Dico H G majorem esse quam KI. Habemus enim primum analgismmhun . . . . AB. AG::BG. GE per artic. 18. Deinde fit componendo secundu... .. s AB-tAG.AB::BE. BG. Et sumendo antecedentium dimidia tertius o TABHEAG. AB: BH BG. Etconvertendo quartus... AB.4AB-H AG:: BG. BH. Et dividendo quintus . . . 4AB—£AG. 4AB4AG :HG.BH. Et duplicando primum antecedensetprimum consequens AB—AG. AB-FAGs HG. Sed eadem methodo ostendi BH. potest analogismus hic. . AB—AL AB-AI:KI BK.
+
+Quoniam jam major est ratio A B ad A E, quam A B ad A F, ratio A B ad A G, semissis rationis majoris, major est quam ratio A B ad A I, semissis rationis minoris; et propterea major est AI quam AG; quare ratio AB—AG ad AB * AG (per lemma pracedens) major erit quam ratio A B— Alad AB- AIL Itaque et ratio HG ad BH major erit quam ratio KI ad BK, multo autem major quam ratio K I ad B H majorem quam B K, (nam B H semissis est BE, cum BK sit semissis B F, per suppositionem, minoris quam B E) ; major ergo est H G quam K I, quod erat probandum.
+
+Coroll. Manifestum hinc est quod si quantitas aliqua divisa supponatur in partes zequales, numero infinitas, differentiam intermediam arithmeticam et geometricam fore infinite parvam, id est nullam.
+
+[p. 153] Atque ex hoc precipue fundamento videtur orta esse ars construendi numeros illos quos vocant Logarithbmos.
+
+29. Si fuerint quantitates quotcunque et utcunque inzquales vel zquales inter se, fueritque alia quaedam quantitas, quze, toties sumpta quot sunt ille quantitetes propositz, omnibus illis fuerit sequalis, quantitas illa propositarum omnium simul media dicitur Arithmetica.
+
+CAPUT XIV. DE RECTO, CURVO, ANGULO, ET FIGURA.
+
+## 1 Recte lineg definitio et proprietates
+
+2. Superficiei plane definitio et proprietates. — 3. Curvarum linearum species. — 4. Cireularis lines definitio et proprietates. — 5. Recte linege ut in plano proprietates. — 6. Linearum contingentium definitio.— 7. Anguli definitio et species.—8. Anguli ejusdem arcus. in circulis concentricis sunt ut circulorum perimetri.— 9. Quantitus anguli in quo consistit.— 10. Anguli simpliciter dieti divisio. — 11. De reetis a centro circuli ad contingentem. — 12. Parallelarum vniversalis definitio, et parallelarum rectarum proprietates, — 18. Cireulorum perimetri inter se eunt ut. diametri.— 14. In triangulis, rectas bases parallelas esse ut laterum partes a vertice abeciuse.— 15. Quali recte linege fractione fit circuli eireumferentia.— 16. Angulum contingentim quantitatem esse, sed angulo simpliciter dicto helerogeneam, nec ei quicquam addere aut adimere posse. — 17. Planorum inclinationem esse angulum simpliciter dictum.—18. Angulus solidus, quid.— 19. Natura asymptotün que sit.— 20. Situs quibus rebus determinetur. — 21. Situs similis quis, figura quid, et figura similes, que sint.
+
+1. LINEA inter duo puncta minima est, cujus puncta extrema, salva quantitate, id est, salva ratione ejus ad aliam quamlibet datam, diduci non pos-
+
+1$. Rationis. arithmetic. et geometric, comparatio,
+
+Rectm lines definitio et proprietates,
+
+[p. 154] 154 PHILOSOPHIA PRIMA.
+
+PARAL gunt. Magnitudo enim linez ex maxima que esse
+
+-—f— potest terminorum distantja sestimgtur. Ita ut iamawe ejusdem lineg, sive ea extensa, sive incnrvpta sit, pmpretate.  egdem semper sit longitudo, quia distantia terminorum maxima est semper eadem.
+
+Et quoniam actio, qua lineam ex recta curvam, vel contra ex curya rectam facimus, alia non est quam adductio vel diductjo terminorum ejus, recte definiemus lineam curvam esse eam, cujus terminos diduci posse intelligimus, rectam autem cujus termini diduci intelligi uon possunt ; et comparate, magis curvam esse (modo longitudo sit e&qualis) eam cujus termini magis diduci possunt. In omni autem linearum curvatione fit sinus quidam Sive cavitas, que quandoque ad unam partem, quandoque ad aliam spectat, adeo ut eadem curva possit habere cavitatem suam omnem ad easdem partes, vel partim ad unam, partim ad contrarias spectantem.
+
+Quibus rebus intellectis, intelliguntur simul rectze et curvee comparationes qua sequuntur.
+
+1. Si recte et curve termini ambo sint communes, curvam recta majorem esse. Diduotis enim. curve extremis quantum fieri potest, flet ex curva. recta, cujus pars erit ea quse a principio recta erat ; ideoque minor erat recta quam curya ipsi contermina. Propter eandem causam, curvarum etiam terminos ambos habentium communes (si cavitas utriusque omnis easdem partes spectet) major erit ea quae exterior est.
+
+1I. Rectam et curvam in nulla omnino, ne minima quidem parte, congruere posse; quia si congruerent, haberent recta et gurva aliqua, amho extrema puncta communis, simulque propter
+
+[p. 155] congruentiam zquales inter se essent; quod jam ostensum est fieri non posse.
+
+rr. Inter duó punctadata, rectam unicam intelligi posse. Quiainter eadem puncta intelligi non possunt duz longitudines sive interyalla minima. Nam Si una earum minima sit, altera cum ea vel coincidit, et fient una recta, vel si nan coincidat, per extensionem ad rectam applicata eosdem terminos non habebit, sed diductiores, et proinde a principio curva erat.
+
+1v. Quod duz rectz superficiem non includunt sequitur ex 3. Nam si utrumque terminum communem habent, coincidunt ; si unum tantum, vel neutrum, superficiem non claudunt, sed eam relinquunt ex parte disjunctorum terminorum apertam et interminatam.
+
+### v. Quod omnis pars rectz est recta, quia eum
+
+unaquceque pars rectz minima est, qug inter suos terminos duci potest, nisi omnes partes oonstituerent unam rectam, essent omnes simu| fota majores.
+
+2. Planum sive superficies plaua ea est, que describitur a linea recta ita mota ut singula ejus uncta singulas describant lineas rectas. Itaque recta linea necessario tota jacet in eo plano quod ab ipsadescribitur. Etiam rectz omnes, quas singula puncta recte planum describentis faciunt, in eodem plano sunt. Preterea si linea quecunque in plano moveatur, omnes linez, quie ah ipsa describuntur, in eodem planp erunt. Superficies p:eter que plan; non sunt, curpg vel gibbe dici solent.
+
+Sunt autem superficierum plane ef curve comparationes
+
+Superficie plane defnitio et proprietates,
+
+[p. 156] [9
+
+Curraram. Jinearum. species;
+
+
+eedem quz linearum recte et curvze. Nam
+
+1. Si planum et gibbum iisdem terminentur lineis, gibbum plano majus est. Quia si linez, ex quibus constant, extendi intelligantur, intelligetureas, quee in gibbo sunt, longiores esse quam ille, quz sunt in plano, que propter rectitudinem extendi non possunt.
+
+1r. Planum et continuo gibbum ne in minima quidemparte congruere. Essent enim, si congruerent, zequales, imo eadem superficies plana et curva esset, quod est impossibile.
+
+ru. Inter eosdem undiquaque terminos unica esse potest superficies plana; nam unica potest esse minima.
+
+1y. Duie superficies planz solidum non includunt, nam si eosdem ubique terminos habeant, unica fit superficies, si non habent relinquitur hiatus.
+
+### v. Omnis pars plani est plana, nam cum tota
+
+superficies plana minima est superficierum omnium eosdem undiquaque habentium terminos, et unaqueque etiam pars minima omnium superficierum. habentium eosdem undiquaque terminos cum illa parte, nisi omnis pars plana esset, non essent omnes plani partes, simul sumptee, toti szequales.
+
+3. Rectitudinis sive in lineis sive in superficiebus, una est species, curvitatis autem plures; nam curvarum, alis congrue sunt, id est, quee mutuo sibi applicatze coincidunt; alim incongrue. Rursus alis ópotopespric Sive uniformes sunt, id est, quarum. partes zquales utcunque sumptse sunt congrue; alise ávouorouspeic, sive pluri-formes. Preterea curvarum alie sunt continuo curve, alie partes habent mon curvas.
+
+[p. 157] » DE RECTO, CURVO, ETC. 157
+
+4. Si recta linea in plano existens ita inoveatur, ut, manente uno termino, tota simul circumferatur, donec redeat in locum unde moveri ceperat, descripta erit superficies plana undiquaque terminata 2 linea curva, ea scilicet quam describit terminus circumlatus. Vocatur autem ea superficies circulus ; et punctum immotum circuli illius centrum ; linea autem curva, circulum terminans, circuli perimeter ; et pars ejus quelibet, circumferentia et. arcus. Recta generans semidiameter, et radius ; recta per centrum, terminata utrinque in circumferentia, diameter appellatur. Preterea radii describentis cireulum unumquodque punctum perimetrum eodem tempore describit propriam, terminantem circulum proprium, qui ceteris omnibus (quoniam commune cum illis habet centrum) dicitur concentricus.
+
+1. Itaque in circulo omnes recte a centro ad circumferentiam sunt zequales; nam singule coincidunt cum eodem radio generante.
+
+### T. Et diameter dividit tum. perimetrum, tum
+
+circulum ipsum in duas partes equales. Si enim dum ille partes sibi mutuo applicentur, cum habeant diametrum communem, si semiperimeter altera alteri congruit, equales sunt, tum ipse, tum etiam semicirculi, quia congruent et illi ; si semiperimetri non congruent, recta aliqua eadem a centro (quod in diametro est) ab iis secabitur in duobus punctis, itaque, quum a centro ad circumferentiam recte omnes sint squales, erit ejusdem rectz pars zequalis toti ; quod est impossibile.
+
+IH. Propter eandem causam erit perimeter circuli uniformis, id est, pars ejus qualibet cuilibet parti sibi equali congruet.
+
+1.
+
+Circularis
+
+Iinem definitio et proprietates,
+
+[p. 158] 158 PHILOSOPHIA PRIMA.
+
+PARSIL — 5. Preterea colligitur hinc linee recte pro-
+
+——— prietas hec; nempe, si termini ejus in aliquo
+
+Reueiar* existant plano, etiam totam in eodem plano esse.
+
+prpreute. Nam. cum duo ejus termini in plano sint, recta, quz planum ipsum describit, transibit per utrumque terminüt; sumpto sütem tütrovis puncto pro centro, intervallo dictorum terminorum descripta circumferentia, cujus radius est recta quee planum describit, per alterum terminum transibit. Est ergo inter duos terminos propositos recta una (ex definitione circuli) tota in plano proposito. Si ergo alia recta inter eosdem terminos duci posset, quz in eo plano noii esset, possent inter eadem. puncta duci duz linez recte; quod ostensum est esse impossibile.
+
+Colligitur etiam, si duo plana se mutüo secuerint, communem sectionem esse lineam rectam. Nam duo sectionis termini sunt in utroque plano secante,
+
+* etinter ipsos duci potest linea recta; sedrecta inter duo puncta in eodem est plano cum ipsis punctis, que cum sint ín utroque plano, etiam recta illa in ütroqué erit, et propterea est eorum communis sectio.  Ommis autem alia linea inter eadem puncta, cum ea coincidet, id &st, eadem erit, vel hon tolncidet et proinde extra alterum vel utrumque planum ibit.
+
+Intelligi facile potest, ut sicut recta circa punctum immoturh ut centrum, ita planum circa immotami lineam rectam ut axem, circumduci posse. Ex quo mianifestum est, quilibet tria puncta in eodeni esse aliquo plano. Nam duo puncta quzlibet, si recta conhectantur, sunt in eodem plano in quo est ipsa recta. Si igitur planum illud super illam rectam circumducatur, excipiet revolvendo
+
+[p. 159] punctum quodlibet tertium ubicunque positum; PAR? II. itaque erunt omnia in eodem plano, et proinde — etiam tres rectze quee ipsa connectunt.
+
+6. Due linee contingere se mutuo dicuntur, D« qua cum ad idem punctum. ducantur, quantumvis msiogiotium, tamen produce (productae dico eodem modo quo eunt generate ) altera alterum non secabit. Itaque dus recte, si se mutuo contingant, per totam ipsarum longitudinem contigue erunt. idem facient dus linee continue curve, si et congrue sint, et prout congrus sunt ita üna alteti admoveatur; alioqui, sicut et curvee omnes incongrus, non contingent se mutuo, nisi in ino tatum. puncto; id quod ex eo manifestum est, quod continue curva cum tecta congruere non potest ; nam si posset, eadem linea et recta esset et curva. Preeterea recta quz curvam contingit, si tantilluti super puncto contactus circumferatur, curvam 8ecabit; nam in uno tantum puncto contingens, si inclinet ad utramvis partem, plus quam tanget, hoc est, congruet vel secabit ; at prius non potest, ergo secabit.
+
+7. Angulus generalissime dictus est, quando A»gui due linee, vel plures supetficies in uno solo puncto tice. concurrentes, cetera divergentes sunt, divergentic illius quantitas. Species autem anguli primum duz sunt: vel enim a concurrentibus fit lineis, tunc angulus. superficialis est, vel ex concurtentibus superficiebus, qui vocatur angulus solidus.
+
+Rursus superficialium angulorum pro duobus modis, quibus divergentia duarum linearum fieri potest, dug sunt species. Nam applicatis sibi mutuo duabus rectis ut per totam longitudinem contigue sint, potest una ab alia, manente cori-
+
+[p. 160] PARSIL cursu in uno puncto, distrahi vel motu circulari,
+
+—— cujus centrum est ipsum concursus punctum, ita ut maneat earum rectitudo ; et hujus distractionis Sive divergentie quantitas vocari solet simpliciter angulus: vel potest distrahi per continuam flexionem sive curvationem in omni ejus puncto imaginabili ; distractionis autem hujus quantitas vocatur angulus contingentie.
+
+Preterea angulorum superficialium simpliciter dictorum, qui in plana superficie sunt, plani sunt ; qui in alia superficie sunt, ab illa denominantur.
+
+Postremo qui rectis continentur lineis, rectilinei ; qui curvis, anguli curvilinei sunt; qui recta et curva continentur, mixti.
+
+dw des — 8. Duorum circulorum concentricorum arcus sirewis con- duo, inter duos radios intercepti, habent inter se nena eandem rationem, quam habent perimetri tote. perimetri, Sint enim (fig. 1) centro A descripti duo circuii B CD, EFG. Inter radios autem À E B, A F C, intercepti sint arcus B C, et E F; dico rationem B C arcus ad E F arcum eandem esse, quam habet C B D perimeter ad E F G perimetrum. Intelligatur enim radius A F C moveri motu circulari super centro A uniformi, id est, velocitate ubique eadem ; describet punctum C in certo tempore perimetrum C B D, et in parte ejus temporis arcum C B, et quoniam velocitates sunt equales quibus et arcus et perimeter tota describuntur, ratio magnitudinis perimetri C B D ad magnitudinem arcus C B determinatur a sola differentia temporum; similiter probabitur quod ratio magnitudinis perimetri F E G ad magnitudinem arcus F E determinatur & sola temporum differentia, quibus perimeter et arcus ille describuntur. At
+
+[p. 161] eodem tempore describuntur ambz perimetri, et PARS V. eodem tempore ambo arcus; est ergo ratio peri- 2 metri C B D ad arcum C B, et perimetri F E G ad arcum F E determinata ab eadem causa; sunt ergo
+
+CBD. CB :: FEG. F E proportionales (per artic. 6, cap. praecedentis) et permutando C B D. FEG::CB.F Esunt proportionale. Quoderat demonstrandum.
+
+9. Ad quantitatem anguli neque longitudo neque bord sequalitas aut insqualitas linearum, quz angulum quo consistit. comprehendunt, quicquam faciunt; idem enim angulus est, qui comprehenditur inter A B et A C, cum eo qui comprehenditur inter A E et A F, vel inter À B et A F. Neque quantitas absoluta arcus, cui angulus subtenditur, angulum auget aut diminuit, quia eidem angulo subtenditur tum arcus B C major, tum etiam arcus E F minor; quantitas enim anguli ex quantitatis arcus cum perimetri totius quantitate comparatione zestimatur. Itaque quantitatem anguli simpliciter dicti sic definiemus :
+
+Quantitas anguli est quantitas arcus sive circumferentie circuli, determinata per rationem ejus ad totam perimetrum. "Tantus itaque est angulus, quanta portio est totius perimetri arcus inter duas rectas e centro interceptus. Ex quo intelligitur, dum linee angulum continentes sunt ambe rectz, quantitatem anguli in qualibet distantia a centro sumi posse; quod si altera linearum angulum continentium, vel utraque curva sit, anguli quantitas in minima a centro sive a concursu distantia estimanda est; nam minima distantia (quia linea curva intelligi nulla potest, qua recta non sit minor) tanquam recta linea conside-
+
+VOL. I. M
+
+[p. 162] PARSIL.
+
+Au
+
+Apguli simpliciter. dict divisio,
+
+De à centro Sali ad. con- tingentem.
+
+
+randa est. Quamquam autem minima recta dari non potest, sed semper dividi, pervenietur tamen ad partem non considerandam, id quod vocamus punctum; quod punctum jacere intelligiturin recta, que curvam contingit, propterea quod angulus genitus est per motum circularem, rectam ab alia recta ipsam contingente (ut supra Articulo 7, diximus) distrahentem. Angulus igitur, quem. faciunt due lineg curvae, idem est cum eo quem. faciunt earum recti contingentes.
+
+Unde sequitur angulos verticales (fig. 2) esse inter se sequales, quales sunt A B C, DB F. Nam ex duabus semiperimetris DA C, FDA inter se sequalibus auferatur communis arcus D A, restabunt arcus À C, D F equales.
+
+10. Angulus autem alius rectus, alius obliquus dicitur. Rectus quidem cujus quantitas est quarta. pars perimetri : lineeque, quz angulum rectum faciunt, dicuntur sibi invicem perpendiculares. Obliquorum, qui recto major est, obfusus; qui minor, acutus appellatur. Ex quo intelligitur omnes angulos possibiles ad idem punctum constitutos, simul sumptos, equales esse quatuor rectis ; quia quantitas eorum simul sumptorum est perimeter tota: etiam, omnes angulos ad idem punctum. et ad easdem partes rectze, in qua punctum illud positum est, esse zequales duobus angulis rectis ; quia recta illa diameter erit circuli, a cujus cireumferentia quantitas anguli determinatur, diameter autem perimetrum in duas partes dividit sequales.
+
+11. Si contingens fiat diameter circuli cujus . centrum sit. punctum contactus, recta e centro circuli prioris ad centrum posterioris ducta faciet. duosangulos cum contingente (hoc est cum diametro [p. 163] circuli posterioris) duobus rectis (per art. 10) PAST. szquales. Et quoniam contingens eequaliter(art.6) ——^ utrinque ad circulum inclinatur, utervis angulus rectus est, et semidiameter ad contingentem sui circuli perpendicularis.
+
+Eadem semidiameter rectarum omnium, quz a centro ad contingentem duci possunt, minima est. Estenim ea semidiameter; sed alia omnis, ut ad contingentem pertrahi possit, circulo egredietur, et proinde semidiametro major est. Similiter rectarum a centro usque ad contingentem euntium ea, que cum perpendiculari majorem facit angulum, major est: quod quidem, descripto alio circulo, centro quidem eodem, semidiametro vero quanta est longitudo recte perpendiculari propioris, ductaque ad ipsam perpendiculari (id est, contingente), fiet manifestum.
+
+Quapropter manifestum etiam est, que eequalibus angulis a perpendiculari utrinque discedunt recte, eas ad contingentem usque productas sequales esse.
+
+12. Parallelarum rectarum definitionem aliquam Peniteum. habemus apud Euclidem, sed parallelarum in uni- rod versum definitionem nusquam invenio. ltaquePmieirm earum definitio universalis esto hmc: duse Jine prieates. quecunque (sive rectse sive curve) atque etiam duee superficies, parallele sunt,in quas due linee recte ubicunque incidentes, facientesque cum utravis ipsarum ad easdem partes angulos equales, sunt inter secequales; cujus definitionisconsectaria sunt:
+
+I. Duas rectas, in duas alias rectas sed parallelas incidentes intercipientesque in utraque partes sequales, ipsas quoque esse zequales, et parallelas; ut si (in fig. 3) A B, C D. incidant in
+
+M2
+
+[p. 164] 164 PHILOSOPHIA PRIMA.
+
+PARSIL parallelas A C, B D, sintque A C, B D «quales, — —— erunt quoque A B, CD squales et parallelz. Pane Ductis enim perpendicularibus B E. D F, erunt bourse anguli E B D, FDH recti zquales; quare, cum Teummpr.E F, B D sint parallele, erunt anguli EBA, PS RDO equales; jam recta D C recte B A non sit equalis; ducatur & puncto D qusecunque alia quz ipsi B A equalis sit; ea vero non cadet in punctum C, cadat ergo in G, major ergo vel minor est À G quam BD; non erunt ergo anguli EB A, FDC equales, ut erat suppositum. Sunt ergo AB, CD equales; quod est primum.  Etfaciunt (per art. 11) angulos cum perpendicularibus E B, D F zquales, quare angulus C D H equalis est angulo A B D; et per allatam parallelarum definitionem, erunt B A, CD parallele; quod est secundum. Planum autem, quod duabus utrinque parallelis inclusum est, parallelogrammum vocatur. Coroll. Ostensum est jam angulos A B D, CDH esse zquales, id est, rectam (ut BH) incidentem in duas parallelas (ut A B, C D) facere angulum internum À B D squalem externo et opposito C D H. 1r. Atque hinc rursus sequitur angulos alternos quos efficit recta incidens in duas perallelas, sequales esse, hoc est, (in fig. 4) angulum AG F sequalem esse angulo G F D. Cum enim GF D sequalis sit externo opposito E G B, squalis quoque erit verticali ejus A G F, qui est ipsi G F D alternus. 1n. Angulos internos ad easdem partes incidentis F G equales esse duobus rectis: Nam anguli ad F, nempe G F C, G F D zquales sunt duobus rectis, sed angulo G F D squalis est
+
+[p. 165] DE RECTO, CURVO, ETC. 165 alternus AG F, quare ambo G F C, A G F, qui ?ABSIr.
+
+sunt interni ad easdem partes incidentis F G, —— duobus rectis zequales erunt. M een 1V. Trianguli plani rectilinei tres anguli simul 4e xe sumpti duobus rectis equales sunt, et, producto Rerum pro- quolibet latere, angulus externus duobus internis "^^^ oppositis erit zqualis. Nam lateri cuivis AB (fig. 5) per trianguli plani A B C verticem ducatur parallela, anguli A et B erunt alternis suis F, E szequales, et angulus C est communis. Sed tres anguli E, C, F (per art. 10) equales sunt duobus rectis; quare et tres anguli trianguli sequales sunt iisdem; quod est primum. Deinde duo anguli
+
+B, D zequales sunt duobus rectis (art. 10) ; ablata ergo B, restabunt anguli A, C, equales angulo D ;
+
+quod est secundum.
+
+v. Si anguli A et B sunt inter se equales, etiam latera A C, C B &qualia erunt, quia AB, EF sunt parallele. ^ Et contra, si A C, C B latera sunt :equalia, erunt, anguli A, B zequales; nam si non sunt quales, sint anguli B, G sequales; quoniam ergo G B, E F sunt parallele, et anguli G, B equales, erunt G C, C B recte sequales, et quia ponuntur equales C B, AC, erunt C G, CA rectze sequales, quod fieri non potest (per art. 11).
+
+vi. Ex quo intelligitur duos circuli radios recta connexos facere cum connectente angulos utrinque sequales, adjectoque segmento circuli cujus subtensa sit eadem recta radiorum terminos connectens, etiam duos angulos, quos radii illi cum circumferentia faciunt, equales esse; nam recta, arcum quemlibet subtendens, angulos cum ipso zquales efficit, quia divisis bifariam arcu et subtensa ejus, dus medietates segmenti propter uniformitatem
+
+[p. 166] FANS II. tum circuli cireumferentise, tum lineze rectse, sibi.
+
+—À— invicem congruent.
+
+Cimwomm ^ 13. Circulorum perimetri sunt inter se ut
+
+Tuersemaceorundem semidiametri. Sint (in fig. 1) duo mts (ienli quicunque B CD major, E FG minor, habentes centrum commune À; eorum semidiametri sint A C, A E; dico, quam rationem habet. perimeter B CD ad perimetrum EF G, eandem habere C A ad A E. Nam magnitudo semidiametrorum C A, A E determinatur a distantiis punctorum C et E a centro A, quz distantiz acquiruntur motu uniformi puncti ab A ad C; ita ut temporibus squalibus distante acquisite sint squales. Sed et perimeti BC D, EF G determinantur ab iisdem distantiis punctorum C et. E ab eodem centro À ; habent igitur tam perimetri BCD, EFG quam semidiametri CA, AE eandem causam suas magnitudines determinantem, eamque talem quie temporibus zequalibus zequalia faciat spatia. Sunt itaque (per cap. 13, art. 6) circulorum perimetri et semidiametri proportionales; quod erat probandum.
+
+Io trinqulie, 14. Si dus recte angulum constituentes rectis
+
+Terelldlas ewe SECODLUF parallelis, erunt intercept: parallele ut.
+
+ELE partes abscisse a vertice. Sint (in fig. 6) recte ticesbeiss. A B, A C, constituentes angulum ad A, secte duabus rectis parallelis B C; D E; quse abscindant. & vertice in utravis recta, puta in A B, partes AB, AD; dico interceptas B C, D E esse inter se ut A B, AD. Secetur A B in quotvis partes squales A F, F D, D B, ducanturque per F et D, FG, D E parallele basi B C, secantes AC in G et E; et rursus per puncta G, E ducantur alise recte» parallele ipsi A B, secantes BC in H et L — Si jam punctum A intelligatur moveri
+
+[p. 167] DE RECTO, CURVO, ETC. 167.
+
+uniformiter per A B, et eodem tempore punetum PARSIL B moveri ad C, et omnia puncta F, D, B moveri — uniformiter et quali inter se velocitate per F G, DE, B C, punctum B percurret BH (zqualem F G) eodem tempore quo punctum A percurrit A F; et erit ratio A F ad F G ut illius velocitas ad hujus velocitatem. Et quando A est in F, erit D in K; et quando A est in D, erit Din E. Etut punctum A transit per F, D, B, ita B transit per H,LC. Et reteFG,DK,K E BH,HLIC sunt (propter parallelismum) zquales. Quare ut velocitas per A B est ad velocitatem per B C, ita est A Bad BC. Idest, singulee parallelie erunt ad partes a vertice abscissas ut AF ad FG. Itaque AF. FG::AD.DE:: AB. BC sunt proportionales.
+
+Subtensz angulorum sequalium in diversis circulis, ut rectze B C, F E (in fig. 1), sunt inter se ut arcus quibus subtenduntur. Nam angulorum equalium arcus sunt ut perimetri (articul. 8), perimetri autem ut semidiametri (art. 13). Sed et subtensz BC, FE, propter angulorum quos faciunt cum semidiametris eequalitatem, erunt parallele inter 3e, ergo et illi (per praecedentem) erunt semidiametris, hoc est, perimetris, hoc est, arcubus quos subtendunt, proportionales.
+
+15. Si in circulo ponantur deinceps subtensz Quili recte quotlibet inter se sequales, ducanturque a termino yrs subtense primse ad terminos omnium cseterarum cemferentia. recte linee; producta prima subtensa faciet cum secunda externum angulum duplum ejus, quem facit contingens circulum in termino primze cum ipsa prima; et subtensa duorum arcuum producta faciet cum tertia angulum externum triplum ejusdem, et sic deinceps.
+
+Sit enim circulus (in fig. 7) descriptus radio A B,
+
+[p. 168] 168 PHILOSOPHIA PRIMA.
+
+in quo ponantur quotlibet subtensz eequales, B C, CD, DE, ducanturque a termino B subtense B C inem fractione &d terminos subtensarum C D, DE rectzelinee BD,
+
+BE, quiz, sicut et ipsa BC, products utcunque in G,H,I, faciant angulos cum subtensis succedentibus, nempe angulos GCD,H DE. Ductaetiam sit contingens K B, faciens cum prima subtensa angulum K B C. Dico angulum G C D duplum esse anguli K B C, et angulum H D E ejusdem KB Ctripum. Nam si ducatur A C, secans BD in M, et ad punctum C ponatur L C ipsi perpendicularis, erunt L C, M D, propter angulos rectos ad C et M, parallele.  Anguli ergo L C D BDC alterni sunt zquales; item proper squalitatem. rectarum B C, C D, anguli B D C, C B D sunt zquales. — Anguli ergo C B D vel C D B duplus est angulus G C D. Est ergo angulus G C D duplus anguli L C D, hoc est, anguli K B C. Rursus C D est parallela B E, propter angulorum. C B E, D E B, et rectarum C B, D E zqualitatem, quare anguli G C D, G B E sunt zequales, et per consequens tam G B E, quam D E B, duplus est anguli K B C. Sed angulus externus H D E squalis est utrique interno D E B, D B E; est ergo angulus H D E anguli K B C triplus, etc. quod erat probandum.
+
+Coroll. r. Constat hinc angulos K B C, C B D, et denique omnes comprehensos a duabus rectis in circuli circumferentia concurrentibus, insistentibusque sequalibus arcubus, esse inter se zequales.
+
+Coroll. 11. Si contingens B K centro B semper moveatur uniformiter secundum circumferentiam, zqualibus temporibus zquales abscindet arcus; totamque perimetrum transibit eodem tempore quo ipsa super centro B describit semiperimetrum.
+
+[p. 169] DE RECTO, CURVO, ETC. 169
+
+Coroll. imr. Intelligitur etiam hinc, qua ratione PARS IL determinatur recurvatio recte in circumferentiam —.— circuli, nempe per fractionem semper crescentem beedeedim secundum rationem numerorum deinceps ab uni- &eirslicrtate. Nam fracta recta indefinita K B, in B, juxta angulum quemcunque K B C, et rursus in C secundum angulum duplum ejus, et in D secundum angulum triplum, et in E secundum angulum quadruplum, et sic deinceps, erit descripta figura quidem rectilinea ; quod si partes fractze intelligantur esse minimse, hoc est, totidem puncta, erit descripta non figura rectilinea, sed circuli circumferentia.
+
+Corollirv. Ex iis quz dicta sunt in presente articulo ostendi et hoc potest, anguium in centro duplum esse. anguli in. circumferentia. ejusdem circuli, modo arcus intercepti sint equales. Cum enim recta, quz angulum motu suo determinat, sequalibus temporibus equales arcus transit tam e centro quam e circumferentia, ea autem, quz e circumferentia est, decurrens per semiperimetrum, transit eodem tempore per totam ejus quee € centro est perimetrum, arcus, quos abscindet in perimetro aliena, dupli erunt eorum quos iisdem temporibus describit in semiperimetro propria.
+
+Sed ut arcus ita anguli in circulis zequalibus.
+
+Ostendi item potest, quod angulus externus, & producta subtensa et proxima subtensa sibi equali contentus, squalis sit angulo centri insistenti eidem arcui, ut in diagrammate proxime precedente, angulus G C D zqualis est angulo CAD; nam angulus G C D externus est duplus anguli C B D, et angulus C A D, insistens eidem arcui CD, duplus quoque est ejusdem C B D vel K B C.
+
+16. Angulus contingentiz, si conferatur cum
+
+[p. 170] D its angulo quantulocunque simpliciter dicto, rationem t 2d ipsum habet eam quam punctum ad lineam, Wmüngeüe hoc est, neque rationem neque quantitatem ullam.
+
+o musute Primo enim, angulus contingentiz fit flexione con- esae, sed an- filo simplici tinus, ita ut in generatione ejus nullus omnino
+
+Tem nec fiat. motus circularis, in quo consistit natura anguli
+
+Sidoietuem y, simpliciter ; ; itaque cum illo comparari secundum
+
+7*"P"*. quantitatem non potest. Secundo, quia angulus externus subtense products et subtensce proxima sequalis est angulo centri super eundem arcum (ut in figura precedente angulus G C D equalis est angulo C A D) ; erit angulus contingentize zequalis angulo ex centro qui continetur inter A B, et eandem A B; quia contingentis pars nulla subtendere arcum potest, sed ut ipsum punctum contactus pro subtensa, ita angulus contingentizm pro angulo externo habendus sit, et equalis angulo cujus arcus sit idem punctum B.
+
+Quoniam autem angulus in genere definitur, ut. sit apertio sive divergentia duarum linearum in uno puncto concurrentium ; est autem una apertio major quam alia, etiam per generationem anguli contingentim ; negari non potest quin angulus ille quantitas sit; ubicunque enim est majus et minus, ibi quoque est quantitas. Sed quantitas hec consistit in majore et minore flectione. Nam quo major est circuli circumferentia, eo magis accedit ad naturam lines recte; siquidem tota curvatio (quie fit dum e recta fit circuli peripheria) major est applicata ad minorem rectam. Ideoque quando plures circuli contingunt eandem rectam, major est angulus contingentiz qui fit cum minore circulo, quam qui fit cum majore.
+
+Nihil ergo addunt neque adimunt angulo simpliciter dicto additi vel adempti quotcunque anguli
+
+[p. 171] contingentiz ; et sicut alter alteri zequalis non est, PARS I. sic neque major nec minor est. ——
+
+Ex quo sequitur angulum segmenti, id est, quem facit recta quaelibet cum arcu quolibet, zqualem esse angulo qui fit ab eadem recta et linea que contingit circulum in eodem cum ipso puncto, ut in precedente figura, angulus qui fit inter GB et BK, sequalis est angulo qui fit inter GB et arcum BC.
+
+17. Angulus, quem faciunt duo plana, planorum Tlarumde illorum imc/imatio appellari solet. Et quoniam seasgulumsim. plana ubique aequaliter inclinantur, pro inclinatione Pier dietas. sumitur angulus qui comprehenditur & duabus rectis, altera in uno, altera in altero plano, sed ambabus ad communem sectionem perpendicularibus.
+
+18. Angulus solidus duobus modis intelligi Ang potest. Primo, pro aggregato omnium angulorum qui fiunt per motum recte linez quie, uno extremo quiescente, circumfertur circa figuram aliquam planam, in qua punctum quiescens non est. Átque in hoc sensu accipi videtur ab Euclide. Manifestum autem est quantitatem anguli solidi ita accepti, aliam non esse quam omnium angulorum in superficie sic descripta, id est, in superficie solidi pyramidalis, aggregatum. Secundo modo intelligi potest pro ratione superficiei sphsricm, subtendentis pyramidis vel coni verticem in sphmre centro positam, ad totam superficiem sphzerz. In qua acceptione, anguli solidi ita erunt inter se, ut solidorum, verticem habentium in sphzrz centro, bases in sphere superficie comprehensse.
+
+19. Omnis duarum linearum ad se invicem re- Natur asympspectus sive positionis varietas contineri videtur "7^ tes quatuor generibus ; nam dus linee quzelibet, aut. parallele sunt ; aut angulum (si opus est, producta) faciunt; aut contingunt se invicem (modo satis solis, quid.
+
+[p. 172] PARSIL sint magnes); aut denique asymptote sunt. De
+
+—— parallelis, angulis, et contingentibus, qusenam sit earum natura jam diximus. Declarabimus ergo breviter naturam etiam usymptosiee.
+
+Asymptosia dependet ab eo, quod quantitas divisibilis est in infinitum ; ex quo sequitur, data quacumque linea a cujus termino mobile aliquod versus alterum terminum moveatur, possibile esse (nempe sumendo gradus velocitatis semper minores, in ea ratione qua sumuntur semper minores partes linee perpetuo sectz) ut mobile illud super lineam illam procedat semper, ad finem vero perveniat nunquam. [taque manifestum est, si recta aliqua ut A F (in fig. 8) secetur utcunque in B, et rursus BF in C, et C F in D, et DF in E, atque ita ternum, et a puncto F ducatur recta F F in angulo A FF quocunque, ordinenturque in eadem ratione, qua secta est linea A F, spatia A F, B F, CF,D F, E F, etc. ad rectam A F parallelós, fore ut curva À B C D E sit recte F F asymptota, hoc est, ut proprius ad eam semper accedens nunquam tamen attingat. Quoniam autem linea quelibet secari potest in perpetuum secundum rationes segmentorum ad se invicem alias atque alias, varietate infinita, idcirco etiam asymptotan diverss species numero infinite sunt, de quibus hoc loco dicendum non est.
+
+Sitas qui- 20. Situs est relatio loci ad locum. — Determi- bus reos d** natur autem plurium locorum situs quatuor rebus ; distantiis inter se ; distantiis singulorum a. loco dato ; ordine rectarum a dato ad cetera ductarum ; et angulis quos sic ducte comprehendunt. Nam si distantim, et ordo, et anguli dati, id est, certi sunt, etiam loca singula certa sunt, ut alia ease non possint.
+
+[p. 173] DE RECTO, CURVO, ETC. 178
+
+21. Puncta autem quotlibet similem inter se DL Situm habent ac puncta alia numero totidem, ———— quando rectze omnes ab uno aliquo puncto ad hic S» "seis omnia ductse, ad rectas omnes ab uno item puncto Kerl E ad illa omnia ductas, sub squalibus deinceps siat. angulis, eandem habent rationem. Sint enim puncta quotlibet A, B, C, (in fig. 9) ad quz ab uno aliquo puncto, ut D, ducts sint recte D A,
+
+DB, DC. Sint et alia totidem puncta E, F, G, ad quz ab uno etiam puncto, H, ducte sint recte HE, HF, HG, ita ut anguli ADB, BDC equales sint angulis deinceps E H F, FH G; et recte DA, DB, DC retis HE HE, HG proportionales ; dico tria puncta A, B, C tribus punctis E, F, G similem inter se situm obtinere sive similiter posita esse. Nam si intelligatur H E super imposita esse D A, ut punctum H sit in D, cadet punctum F in recta D B, propter sequalitatem angulorum A D B, E H F; et punctum G in recta D C, propter equalitatem angulorum B D C, F H G; recte autem A B, E F erunt parallele, sicut et B C, F G, propterea quod A D. EH::BD. FH::C D. GH ponuntur proportionales; erunt ergo distanti& punctorum A, B et punctorum B, C proportionales distantiis punctorum E, F et punctorum F, G. In situ ergo punctorum A, B, C et situ punctorum E, F, G sequales sunt anguli, eodem ordine ; differunt ergo sola distantiarum inter se, et distantiarum a punctis D et H inequalitate; sunt autem inzqualitates ille utrobique zquales, propterea quod tum A B. B C::EF.F G, distantis punctorum utrobique inter se, tum etiam DA. DB: : HE. HF, DB.DC :: HF. HG, distantie earumdem ab assumptis punctis D et H, sunt inter se proportionales; sola ergo
+
+[p. 174] PARS II. differentia est in distantiarum magnitudine, Sed susanu, Per similium definitionem quee tradita est capite qua gua — Il. Art. 2, quse sola magnitudine differunt similia uie" sunt. Habent ergo puncta A, B, C situm inter se sint. similem ejus quem habent puncta E, F, G ; id est, similiter posita sunt ; quod erat probandum.
+
+22. Figura est quantitas, punctorum suorum extremorum omnium situ sive positione determinata. Extrema autem voco puncta illa, quee externo loco sunt contigua. Itaque in linea et superficie puncta omnia extrema sunt, in solido vero puncta superficiei, intra quam solidum includitur, omnia.
+
+Et similes figure sunt, quarum puncta omnia extrema unius similiter sunt posita ac puncta omnia extrema alterius. Differunt enim figure tales sola magnitudine.
+
+Similes autem figure similiter positee sunt, cum utriusque figure rectee homologe, id est, rectm, quse connectunt puncta comparata, parallele sunt.
+
+Et quoniam recta omnis omni rectze, et planities planitiei, dum planities tantum consideretur, similis est; cognitis linearum, quse plana, vel superficierum quee solida includunt, proportionibus, cognoscere an figura propositee figure similis sit an dissimilis, non est difficile.
+
+Hactenus in philosophia prima versati sumus : proximus locus geometrim est, in qua figurarum quantitates ex linearum proportionibus et angulis investigantur. Est itaque geometriam aggressuro quz sit quantitatis, proportionis, angulorum, et figure natura, precognoscendum: et propterea eapitibus tribus proxime precedentibus eorum naturas explicatas Philosophie prime, quam hic dimitto, adjungendas esse judicavi.
+
+[p. 175] DE RATIONIBUS MOTUUM, ET MAGNITUDINUM.
+
+CAPUT XY.
+
+DE NATURA, PROPRIETATIBUS, ET VARIIS CON- SIDERATIONIBUS MOTUS ET CONATUS.
+
+1. Prineipiorum doctrine de motu superius traditorum repetitio.
+
+2. Alia ipsis addita.— 3. Theoremata quedam de natura motus.— 4. Diverse motus considerationes,— 5. Via per quam tendit conatus mobilium primus.— 6. In motu ex con- cursu, deficiente uno moventium, conatum fleri secundum viam alterius. — 7. Conatus omnis propagatur in infinitum.
+
+8. Movens quo majorem habet vel velocitatem vel magnitu- dinem, eo majoris efficacise est in corpus in quod impingit. 1. PnoxiMA ordine tractatio est de mo/w et PABSIIL magnitudine, corporum accidentibus maxime com- Rm munibus. taque locum hune sibi vindicant Priscpiorem magna ex parte proprium sibi elementa geome- mots superius. trie. Quoniam autem pars ista philosophis, ab repetitio. excellentissimis omnium temporum ingeniis exculta, "uberiorem tulit segetem, quam ut in angustias propositi operis nostri contrudi possit; lectorem. ad hune locum accedentem admonendum esse censui, ut Euclidis, Archimedis, Apollonii, aliorumque, tum antiquorum tum recentiorum, scripta in
+
+[p. 176] Merian
+
+
+manus sumat. Quorsum enim actum agere? Ego
+
+—JXB.— vero de rebus geometricis pauca tantum et nova,
+
+Picipiorom doctrinm de et ea presertim quz physice inserviunt, proximis motu superius aliquot capitibus dicturus sum.
+
+traditorum repetitio.
+
+Principiorum autem doctrinz hujus partem aliquam, in cap. 8 et 9 jam explicatam, ut magis ex propinquo progressuris lucem prebeat, in bunc locum conferemus.
+
+Primo igitur (cap. 8, art. 10) definitur motus in hunc modum, mofus est unius loci privatio, et alterius acquisitio continua.
+
+Secundo, ostensum est ibidem, quicquid movetur, in tempore moveri.
+
+Tertio (cap. eodem, art. 11) definivimus, quietem ease, quando corpus in eodem loco est per aliquod tempus.
+
+Quarto ostensum ibidem est, quod movetur, nusquam esse in loco certo, idemque et motum esse, et moveri, et motum iri. Ita ut in ommi parte spatii, per quod fit motus, tria tempora considerari possint, preteritum, presens, et futurum.
+
+Quinto (capite eodem, artic. 15), definivimus velocitatem esse motum consideratum ut potentiam, qua mobile tempore certo certam potest transmittere longitudinem. Quod et brevius enunciari potest sie, eelocitas est quantitas motus per tempus et lineam determinata.
+
+Sexto (capite eodem, art. 16) ostensum est motum esse mensuram temporis.
+
+Septimo (cap. eodem, art. 17,) definivimus motus equiveloces esse, quibus qualibus temporibus equales transmittuntur longitudines.
+
+Octavo (cap. eodem, art. 18,) definivimus motus equales esse quando velocitas unius mobilis per
+
+[p. 177] omnem ejus magnitudinem computata equalis est alterius. mobilis velocitati etiam per omnem ejus magnitudinem computate. Notandum itaque est motus equales et motus cquiveloces non sigmificare eandem rem. Nam duorum equorum ad currum junctorum motus major est quam unius eorum utriusvis, quum tamen velocitas amborum simul velocitati unius sit zequalis.
+
+Nono (cap. eodem, art. 19) ostensum est, quod quiescit semper quieturum esse, nisi existat aliud extra ipsum, quo supposito, quiescere amplius non possit ; et quod movetur motum iri semper, nisi existat aliud extra ipsum quod motum ejus impediat.
+
+Decimo (cap. 1X. art. 7) ostensum est, motus omnis (ez quiete antecedente) causam immediate efficientem esse in aliquo corpore moto et contiguo.
+
+Undecimo, ostensum est ibidem, quidquid movetur, eadem celeritate et per eandem viam semper progressurum esse, nisi a corpore moto et contiguo impediatur.
+
+2. Quibus principiis adjiciemus, hoc loco, ea que sequuntur. Primo, definiemus conatum esse motum per spatium et tempus minus quam quod. datur, id est, determinatur, eive expositione vel numero assignatur, id est, per punctum. Ad cujus definitionis explicationem meminisse oportet, per punctum non intelligi id, quod quantitatem nullam habet, sive quod nulla ratione potest dividi (nihil enim est ejusmodi in rerum natura); sed id cujus quantitas non consideratur, hoc est, cujus neque quantitas neque pars ulla inter demonstrandum computatur; itg ut punctum non habeatur pro indivisibili, sed pro indiviso. Sicut etiam instans
+
+VOL. I. N
+
+PARS IlI. 15. Cut.
+
+[p. 178] 1. Alia ip- sia addita.
+
+
+sumendum est pro tempore indiviso, non pro indivisibili.
+
+Similiter conatus ita intelligendus est, ut sit quidem motus, sed ita ut neque temporis in quo fit, neque linez per quam fit quantitas, ullam comparationem habeat in demonstratione cum quantitate temporis vel linez cujus ipsa est pars; quamquam. Sicut punctum cum puncto, ita conatus cum conatu comparari potest, et unus altero major vel minor reperiri. Nam si duorum angulorum puncta verticalia comparentur inter se, erunt in ratione ipsorum angulorum sequalia vel inzequalia ; vel si linea recta secet plures circulorum concentricorum circumferentias, puncta sectionum erunt inzqualia in ratione ipsarum perimetrorum. Eodem modo si sint duo motus simul incipientes et simul desinentes, conatus eorum erunt zequales vel inzequales in ratione velocitatum; quemadmodum videmus majore conatu descendere pilam plumbeam, quam laneam.
+
+Secundo, definiemus impetum esse ipsam velocitatem, sed consideratam in puncto quolibet temporis in quo fit transitus. Adeo ut impetus nihil aliud sit quam quantitas sive velocitas ipsius conatus.
+
+Tertio, definiemus resistentiam esse, ín contactu duorum mobilium, conatum conatui, vel omnino vel ez aliqua parte, contrarium. | Contrarium (dico) quando duo illa mobilia conantur per eandem rectam a terminis ejus diversis. Contrarium ex parte, quando conantur ambo per lineas concurrentes extra rectam a cujus terminis proficiscuntur.
+
+Quarto, ut definiamus quid sit premere ; duorum mobilium alterumalterum premere dicimus, quando.
+
+[p. 179] conatu suo unum eorum facit ut alterum vel pars. ARS TIL ejus loco cedat. ——
+
+Quinto, restituere se corpus pressum nec dimotum dicimus, quando, sublato premente, partes ejus mote propter ipsam corporis internam conslitutionem in suum queque locum redeunt; id quod fieri videmus in elateriis, in vesicis inflatis, et in multis aliis corporibus, quorum partes conatui corporis prementis primo quidem appulsu plus vel minus cedunt, postea vero (remoto premente) vi aliqua interna se restituunt, et toti corpori figuram suam priorem reddunt.
+
+Sexto, vim definiemus esse impetum multiplicatum sive in se, sive in magnitudinem moventis, qua movens plus vel minus agit in corpus quod resistit.
+
+3. His positis, demonstrabimus primo: quod Theoremata. punctum quiescens, cui aliud punctum. quantulo- rs motu. cunque impetu usque ad contactum admovetur, ab eo impetu movebitur. Nam si ab eo impetu a loco suo nihil omnino removeatur, neque ab eo impetu duplicato removebitur, quia duplum nihil, nihil est; et per eandem rationem, neque ab eo impetu quantumvis multiplicato removebitur, quia nihil, utcunque multiplicatum, semper est nihil; quare punctum quiescens, si non cedat impetui quantulocunque, nulli cedet, et per consequens impossibile est ut quod quiescit unquam moveretur.
+
+Secundo, quod si punctum motum quantulocunque impetu incidat in punctum corporis quiescentis cujuscunque, etiam durissimi, ipsum appulsu primo cedere aliquatenus coget. Nam si impetui dato, quantuluscunque is sit, nihil omnino cedat, neque impetui cedet punctorum quotcunque volueris, quze habent singula impetus singulos ipsi
+
+N2
+
+[p. 180] 15.
+
+3notus con« iderationes.
+
+
+zquales; nam cum omnia illa puncta zqualiter agant, unum autem eorum nullum habeat effectum, etiam aggregatum omnium simul habebit toties nullum effectum, quot sunt accumulata puncta, id est, nullum. Et per consequens essent aliqua corpora ita dura ut nulla vi frangi possent, id est, durities finita, id est, vis finita infinite non cederet ; quod est absurdum.
+
+Coroll. Manifestum ergo est, quietem inertem atque effcacie omnis expertem esse; motum autem solum esse qui motum et quiescentibus dat et motis adimit.
+
+Tertio, quod cessatio moventis non cogit cessare id quod ab ipso motum est. Nam (per numerum 11. art. 1. hujus capitis) quiequid movetur perseverat eadem celeritate et via, quamdiu a moto in contrarium non impeditur; manifestum autem est quod cessatio moventis non est motus in contrarium ; sequitur ergo cessante motore non necesse esse ut cesset mobile.
+
+Coroll. Falluntur ergo qui remotionem impedimenti sive resistenti; inter causas motus numerare solent.
+
+4. In rationes autem infertur motus variis nominibus :
+
+1. Ut in corpore indiviso (id est, considerato tanquam punctum) vel in diviso ; ut in indiviso, quando supponimus viam per quam fit motus esse lineam : ut in diviso, quando computamus motum singularium corporis partium, ut partium.
+
+Ti. A diversitate regule : motus corporis, ut indivisi, alius est anjformis alius pluriformis.  Uni- formis est, quo iisdem temporibus equales semper pereurruntur linee; plurjformis, quando uno
+
+[p. 181] tempore plus,.alio minus spatii transmittitur. Et PARS V. pluriformium motuum, alii sunt in quibus accele- —— rationis vel retardationis gradus procedunt perDme easdem rationes, quas habent transmissa spatia, sidertiones. vel duplicatas, vel triplicatas, vel per quemcunque numerum multiplicatas : alii in quibus aliter.
+
+rrr. À numero moventium : motus alius est qui ab uno movente, alius qui a concursu plurium efficitur.
+
+1v. À positione linee in qua fertur mobile, respectu linee cujuspiam alterius. Unde motus alius perpendicularis, alius obliquus, alius parallelus dici potest.
+
+### v. À positione moventis respectu moti: unde
+
+motus alius pulsio, alius fractio est; pulsio ubi movens facit ut mobile antecedat; íractio ubi facit ut mobile subsequatur. Rursus pulsionis, alia species est, quando moventis et moti motus simul incipit, quz /rusio, et veciio dici potest; alia, quando movens prius movetur, mobile autem posterius, qui motus percussio appellatur.
+
+vr. Consideratur motus aliquando in solo effectu quem habet movens in mobile, et tunc vocari momentum solet. Est autem momentum, excessus motus corporis moventis super motum vel conatum corporis resistentis.
+
+vir. Considerari potest pro diversitate medii, ut alius in vacuo, alius in fluido, alius in consistente, id est, in medio cujus partes vi aliqua ita consistunt seu cohzrent, ut nulla ejus pars, nisi cedente toto, moventi cedat.
+
+vin. Quando mobile consideratur ut habens partes, nascitur motus distinctio alia: alius enim simplex est, alius compositus : simplex quando partes ejus singule singulas describunt lineas squales: compositus quando inzequales.
+
+[p. 182] 182 DE RATIONIBUS MOTUUM.
+
+PARSHL — 5. Conatus autem ommis tendit eo versum, id —F— est,per eam viam, quam determinat motus moventis, Visperaum si movens unum sit, vel (si plura sint moventia) moblirm — quam motus determinat, qui fit ex eorum moven- P"* (jum concursu. Exempli causa; si mobile motu feratur recto, primus conatus ejus erit in linea recta; si feratur motu circulari, etiam conatus ejus primus erit in circumferentia circuli. adr 6. Et si quidem dum fertur mobile in linea fcieneuno qualibet motu qui fit & concursu duorum momowasse Ventium, in eo puncto, ubi primum destituitur fuonium, 2 Vi unius moventis, mutabitur conatus ejus in conatum per lineam moventis alterius. Itaque si mobile aliquod feratur & concursu duorum ventorum, cessante vento altero, conabitur et movebitur mobile in linea qua ferretur a vento qui perseverat solo. Et in circulo, ubi motus determinatur a movente per tangentem et a radio retinente mobile in certa a centro distantia, conatus ejus qui prius erat in circuli circumferentia, si auferatur retentio radii, erit postea in tangente sole, id est, in linea recta. Cum enim conatus iestimatur in parte circumferentie minore quam quze dari possit, id est, in puncto, erit via mobilis per circumferentiam composita ex lineis rectis, quarum unà queque minor est quam quse dici possit, numero infinitis, et quz ob eam rem appellantur puncta. Procedet itaque mobile, postquam 8 retentione radii liberatum est, secundum eandem rectam, id est, secundum tangentem. c: 7. Conatus autem omnis, sive fortis sive debilis, panis propegatur in infinitum. Est enim motus; si ibm. Quidem ergo in vacuo fiat, procedet mobile eadem semper velocitate; quia supposito vacuo supponitur
+
+[p. 183] nullum motui ejus adhiberi resistentiam ; itaque PARS UT, (per cap. IX. art. 7) per eandem viam eademque —-—— celeritate semper progredietur; et siquidem in pleno fiat, tamen cum conatus sit motus, id quod in via ejus proxime obstat removebitur. et conabitur ulterius, et hujus conatus removebit rursus id, quod sibi proxime obstat, et sic in infimtum. Generatio ergo conatus a parte in partem pleni procedit in infinitum.  Pertingit etiam ad distantiam quantamcunque in instante; nam eodem instante, quo prima pars medii pleni removet partem sibi proximam, pars secunda partem rursus sibi proximam obstantem removet. Procedit ergo omnis conatus, sive in vacuo sive in pleno, non tantum ad distantiam quantamvis, sed etiam in tempore quantulocunque, id est, in instanti. Neque refert. quod conatus procedendo debilior fiat, ita ut tandem sensum omnem fugiat; motus enim fieri potest ita exiguus ut sensum excitare non possit. Nos autem non de sensu et experientia, sed de ratione rerum hoc loco agimus.
+
+8. In corpus, quod motui resistit, major est Morens quo moventis vis (pari magnitudine) ejus quod velocius s, veloci má quam ejus quod tardius movetur: item moventis t9 mend nem,eomajoris. majoris (pari velocitate) quam minoris. Nam quod [cere (pari magnitudine) majore velocitate impingit in impingit. mobile, majorem ipsi imprimit motum. Et quod (pari velocitate) majore mole impingit in idem punctum, vel eandem partem mobilis, minus deperdit velocitatis; propterea quod corpus resistens agit in eam partem moventis solam quam contingit: ejus ergo partis solius impetum retundit, cum interea partes non tactz procedant et vires suas integras conservent, quoad et ille ad contactum
+
+[p. 184] PARS IIL veniant, ubi vires earum effectum suum obtinent.
+
+m aliquem. Itaque, exempli causa, arietando, lignum longius quam brevius eadem crassitudine et velocitate, et crassius quam exilius eadem longitudine et velocitate plus operatur in parietem.
+
+CAPUT XVI.
+
+DE MOTU ACCELERATO ET UNIFORMI, ET DE MOTU PER CONCURSUM.
+
+1. Velocitas mobilis, per quodlibet tempus computata, est id quod. fit ex ductu impetus in tempus.—2, &c. In omni motu longitudines percurse» sunt inter se, ut facta ex impetu in tempus. 6. Si duo mobilis, uniformiter lata, percurrant duas longitudines, erunt longitudines percurse in ratione composita ex rationibus temporis ad tempus et impetus ad impetum directe sumptis. T. Si duo mobilia uniformiter lata percurrant duas longitudines, erunt tempora inter se in ratione composita ex rationibus longitudinis ad longitudinem et impetus ad impetum reciproce sumptis. [tem impetus inter se erunt in ratione composita ex rationibus longitudinis ad longitudinem et temporis ad tempus reciproce sumptis Si mobile feratur a duobus simul moventibus uniformiter, que in quolibet angulo concurrunt, erit linea, que percurritur, recta aubtendens angulum complementi ad duos rectos.—9, &c. Si mobile feratur a duobus simul moventibus, quorum alterum movet uniformiter, alterum accelerate, invenire lineam quam describit mobile, modo ratio longitudinum percursarum ad tempora in quibus percurruntur numeris explicari possit.
+
+Yelciusmo.]. VELOCITAS cujuscunque corporis per aliquod Nüsmswk tempus moti tante est, quantum est quod fit Si quod fit ex ex impetu (quem habet in puncto temporis) ducto duc impetus in tempus ipsius motus.
+
+P Cum enim velocitas (per def. cap. virr. art. 15)
+
+[p. 185] sit potentia qua mobile certo tempore certam potest percurrere longitudinem ; impetus autem (per cap. xv. art. 2, numero 2) sit velocitas in uno tantum puncto temporis sumpto: erunt impetus omnes simul sumpti eadem res cum velocitate per singula puncta temporis computata; hoc est,cum impetu in totum tempus ducto, sive cum ipsa totius motus velocitate.
+
+Coroll. Si impetus ubique idem sit et sumatur recta quilibet pro mensura temporis, impetus ad illam rectam ordinatim applicati, designabunt parallelogrammum, quod representabit velocitatem totius motus. Sin impetus a quiete incipiens crescat uniformiter, id est, in eadem semper ratione cum temporibus consumptis, tota velocitas motus erit representata per triangulum, cujus unum latus est totum tempus, alterum impetus maximus eo tempore acquisitus ; vel etiam per parallelogrammum, cujus unum latus est totum tempus lationis, alterum vero impetus maximi dimidium; vel denique per parallelogrammum, cujus unum latus est medium proportionale inter impetum maximum (sive ultimo acquisitum) et impetus ejusdem maximi semissem, alterum  semissis impetus maximi. Nam duo hzc parallelogramma et inter se, et triangulo, quod fit ex tempore toto et impetu crescente, sunt zequalia, ut in elementis geometrize est demonstratum.
+
+2. In omni motu uniformi longitudines tr&ng- In omni motu.
+
+curse sunt inter se, ut factum ab impetu in tempus unius, ad factum ex impetu in tempus alterius.
+
+longitudines. percurse sunt. inter se, ut. facta ex impe-
+
+Sit enim (in figura prima) A B tempus, A C ia tempu.
+
+impetus, quibus mobile percurrit longitudinem DE. Sitque temporis A B pars quecunque A F,
+
+[p. 186] PARS IIL
+
+In omni motu longitudines rcureeo sunt inter se, ot facta ex impetuin tempus.
+
+186 DE RATIONIBUS MOTUUM.
+
+qua parte temporis supponatur percurri longitudinem D G; ducanturque F H, B I parallel et squales recte AC. Dico esse DE ad DG ut parallelogrammum A I, hoc est, ut factum ex impetu A C ducto in tempus A B, adAH factum ex eodem impetu A C in tempus A F. Est enim ut velocitas per tempus A B ad velocitatem per tempus A F, ita longitudo percursa tempore A B ad longitudinem percursam tempore A F (propterea quod cum impetus supponatur ubique idem, longitudines percurse sunt in ratione temporum). Sedut tempus A B ad tempus A F ita est. parallelogrammum A I ad parallelogrammum A H, hoc est factum ab impetu A C in tempus A B, ad factum ex impetu eodem A C in tempus A F. Est autem tempore A B, impetu A C percursa longitudo D E: quare longitudo percursa tempore A F impetu A C erit D G, ad quam (per constructionem) D E habet eandem rationem, quam habet parallelogrammum A I ad parallelogrammum A H, sive factum ex impetu A C in tempus A B ad factum ex eodem impetu A C in tempus A F: quod erat; demonstrandum.
+
+Coroll. Quoniam ostensum est in motu uniformi longitudines percursas esse ut parallelogramma ex impetu ducto in tempora, id est (propter zquales impetus) ut ipsa tempora, erit quoque, permutando, ut tempus ad longitudinem ita tempus ad longitudinem, et in universum habent hic locum omnes analogismorum proprietates et metamorphoses quas capite decimo tertio enumeratas demonstravimus.
+
+3. In motu uniformiter a quiete accelerato (hoc est, ubi impetus continuo crescunt in ratione temporum) [p. 187] erit quoque longitudo percursa uno tempore ad longitudinem percursam alio tempore, ut factum ex impetu in tempus ad factum ex impetu in tempus.
+
+Sit (in eadem figura 1) tempus A B, in cujus temporis initio À, impetus sit ut ipsum punctum A, sed procedente tempore crescat impetus uniformiter, donec in ultimo puncto temporis B, acquisitus sit impetus quicunque BI. Rursus sit tempus aliud A F, in cujus temporis initio A, impetus sit ut ipsum punctum A, sed procedente tempore crescat impetus uniformiter donec in temporis A F ultimo puncto F, acquisitus sit impetus F K. Longitudo autem percursa tempore A B, impetu uniformiter crescente, sit D E. Dico longitudinem D E esse ad longitudinem percursam tempore A F, ut tempus A B ductum in impetum B I ad tempus A F ductum in impetum F K.
+
+Quoniam enim triangulum A BI est. velocitas tota moti tempore A B, donec acquiritur impetus B I, et triangulum A F K velocitas tota moti tempore A F, impetu crescente donec acquiritur impetus F K, erit longitudo D E ad longitudinem percursam tempore À F, impetu crescente a quiete in A donec acquisitus sit impetus F K, ut triangulum A BI, ad triangulum A F K, hoc est, in ratione temporis A B ad A F duplicata. Fiat ergo ut AB ad A F ita D E ad D G, et rursus, ut DEad DG ita D G ad D P, eritque longitudo percursa tempore A B, impetu crescente usque ad BI, ad longitudinem percursam tempore A F, impetu crescente usque ad F K, ut triangulum A B I ad triangulum A F K ; est autem triangulum A BI
+
+PARA III.
+
+u- In omni mota. longitudines 'orwe sunt ter se, ut. facia eximpetu in tempus.
+
+[p. 188] 188 DE RATIONIBUS MOTUUM.
+
+PARS HL factum ex tempore À B ducto in impetum cres- —— centem usque ad B I, et triangulum A F K factum inemare" ex tempore A F ducto in impetum crescentem Püuest usque ad F K; quare longitudo D E percursa nter se, ut. : facta ex impe- tempore A B, impetu crescente usque ad B I, est. P" ad longitudinem D P percursam tempore A F, impetu crescente usque. ad F K, ut factum ex tempore A B in impetum suum ad factum ex tempore
+
+A F in impetum suum. Quod erat probandum.
+
+Coroll. 1. In motu uniformiter accelerato, longitudines percursz sunt in ratione temporum duplicata. Nam ut longitudo D E ad D P, ita triangulum A B I ad triangulum A FK; sed A BIad A F K duplicatam habet rationem temporis A B ad tempus A F; ergo D E ad D P habet etiam duplicatam rationem temporis A B ad tempus A F.
+
+Coroll ir. Longitudines percurse qualibus temporibus deinceps ab initio motus sumptis, in motu uniformiter accelerato, sunt ut differentim numerorum quadratorum incipientium ab unitate, nimirum, ut 3, 5, 7, etc. Nam si primo tempore percurratur longitudo ut 1, in duobus temporibus percurretur longitudo ut 4, quod est quadratum binarii, in tribus longitudo ut 9, quadratum ternarii, et sic deinceps; quorum quadratorum differenti sunt 3, 5, 7, etc.
+
+Coroll 111. In motu uniformiter accelerato, longitudo percursa est ad longitudinem eodem tempore, impetu autem (quantus est ultimo tempore acquisitus) uniformi percursam, ut triangulum ad parallelogrammum, quorum altitudo et basis est communis. Cum enim (in eadem figura prima) velocitate ut triangulum A B I percurratur longitudo [p. 189] D E, necesse est ut velocitate, ut parallelo- PARS nt. grammum AÀ I, percurratur longitudo dupla ipsius -— D E, propterea quod perallelogrammum A I du- jnsroipe plum est trianguli A B I. [oi
+
+4. In motu a quiete ita accelerato, ut impetus fct ex impecontinuo crescant in ratione temporum consump. "^ emp torum duplicata, erit quoque longitudo percursa "uno tempore ad longitudinem alio tempore percursam, ut factum ex impetu in tempus unius motus, ad factum ex impetu in tempus alterius motus.
+
+Sit enim (in figura secunda) tempus A B, in cujus temporis initio A impetus sit ut ipsum punctum À, sed procedente tempore crescat impetus continuo in ratione temporum duplicata, donec in ultimo puncto temporis B acquisitus sit impetus B I; et in A B tempore sumpto ubicunque puncto F, ordinatim applicetur impetus eo tempore acquisitus F K. Quoniam ergo F K ad BlIsupponitur habere rationem duplicatam ejus quam habet A F ad A B, habebit A F ad A B rationem subduplicatam ejus quam habet F K ad BI, et AB ad A F subduplicatam ejus quam habet Bad F K, et proinde erit punctum K in linea parabolica, cujus diameter est A B et basis B I. Et simili ratione, in quocunque puncto temporis AB applicetur impetus eo tempore acquisitus, erit recta eum impetum designans in eadem parabolica A K IL. Quare impetus ductus in totum tempus Á B erit parabola A K I B, que sequalis est parallelogrammo À M, cujus unum quidem latus est A B tempus, alterum autem impetus A L, dus tertie impetus B I. Est enim omnis parabola zqualis duabus tertiis parallelogrammi, altitudinem et basim habentis eandem. "Tota ergo
+
+[p. 190] PARS II. velocitas per A B, ut quse fit ab impetu A L in
+
+—-— tempus A B, erit parallelogrammum A M. Simili- iaemme" ter si sumatur F N, quie sit $ impetus F K, com»
+
+rien ieel pleaturque parallelogrammum F O, erit F O tota facta eximpe- Velocitas per tempus À F, ut que fit ab impetu inU"P*. A Q sive F N uniformi ducto in tempus A F.. Sit autem longitudo percursa tempore A B, velocitate
+
+A M, recta D E. Postremo supponatur longitudo percursa tempore À F, velocitate A N, esse D P.
+
+Dico, esse ut A M ad A N, sive ut parabola
+
+AKLB ad parabolam A K F, ita D E ad D P.
+
+Fiat ut A M ad F L, hoc est, ut A B ad A F, ita
+
+DEsadDG. Jamratio A M ad A N componitur ex rationibus A M ad F L, etF L ad A N. Sed ut A M ad F L, ita est (per constructionem) D E ad D G: et ut F L ad A N (quia tempus utrobique idem est, nempe À F) ita longitudo D G ad longi- tudinem D P. Nam eodem tempore percurse longitudines sunt ut velocitates. Quare ex sequo ut À M ad A N, hoc est, ut impetus A L ductus in tempus suum A B, ad impetum A O ductum in tempus suum À F, ita D E ad DP, Quod erat probandum.
+
+Coroll. r. Longitudines percursz motu ita accelerato, ut impetus continuo crescant in ratione temporum duplicata, sunt in ratione suorum temporum triplicata. Nam ut longitudo D E ad D P, ita est parallelogrammum A M ad parallelogrammum A N, et ita parabola A B I K, ad parabolam A K F. Sed parabola A B I K est ad parabolam A K F, in ratione triplicata ejus rationis, quam habet A B. tempus ad A F tempus. Quare etiam ratio DE ad D P est triplicata rationis A B ad A F.
+
+Coroll:1r. Longitudines percurse qualibus
+
+[p. 191] temporibus deinceps ab initio sumptis, in motu PARS m. ita accelerato ut impetus sint in duplicata ratione ——— temporum (sive in motu bis accelerato), sunt ut iens differenti numerorum cuborum incipientium ab pecie tunt unitate, hoc est, ut 7, 19, 37, &c. Nam si primo fict ex impetempore longitudo ponatur 1, in fine secundi tem- pia poris erit longitudo 8, in fine tertii 27, in fine quarti 64, &c., qui sunt numeri cubi, quorum diffe- rentiz sunt 7, 19, 37, &c.
+
+Coroll. r1. In motu ita accelerato, ut impetus crescant in ratione temporum duplicata, longitudo quilibet percursa ad longitudinem eodem quidem tempore percursam sed impetu ubique quantus est ultimo acquisitus, est ut parabola ad parallelogrammum ejusdem altitudinis et basis, id est, ut 22d3. Nam parabola A BIK est impetus crescens ductus in A B tempus, et parallelogrammum AIest impetus maximus et uniformis ductus in idem tempus A B; et proinde longitudines percurse erunt ut parabola ad parallelogrammum, hoc est, ut 2 ad 3.
+
+5. Si vellemus caeteros motus persequi, ubi impetus crescunt in ratione temporum triplicata, quadruplicata, quintuplicata, &c., exiret labor in infinitum non necessarius. Nam qua methodo longitudines percursas impetu simpliciter et dupliciter crescente computavimus, poterit quis eadem methodo longitudines percursas impetu crescente tripliciter, quadrupliciter, et quotupliciter velit, computare.
+
+Inveniet autem, ubi impetus crescunt in ratione temporum triplicata, totam velocitatem designari per parabolastrum primum (de quo capite sequente) et longitudines percursas esse in ratione
+
+[p. 192] PARS III. temporum quadruplicata : et ubi impetus crescunt. ——-— inratione temporum quadruplicata, totam velocitatem designari per parabolastrum secundum, et longitudines percursas esse in ratione temporum quintuplicata ; et sic in infinitum. Side neis 6. Si duo mobilia uniformiter lata percurrunt Eee duas longitudines, utrumque suo impetu et temneseruntlongi- pore, erunt longitudines percurse in ratione com- Slines per'tr- posita ex rationibus temporis ad tempus, et impetus € ] ad impetum, directe sumptis. poris sd tem- — Sint enim (in figura tertia) duo mobilia, quorum Mi inpetun di alterum moveatur tempore À B impetu A C, alte- TU US- rum tempore A D impetu AE. Dico longitudines percursas esse inter se in ratione composita ex rationibus A B ad AD, et AC ad AE.  Percurrat enim mobile, tempore A B impetu A C, longitudinem quamcunque, Z. Mobile vero aliud, tempore AD impetu A E, longitudinem X. Et compleantur parallelogramma A F, A G. Quoniam ergo (per art. 2) Z ad X est ut impetus A C ductus in tempus À B, ad impetum A E ductum in tempus A D, hoc est, ut A F ad A G, componetur ratio Z ad X ex iisdem rationibus, ex quibus componitur ratio A F ad A G. Sed ratio À F ad A G componitur ex rationibus A B lateris ad A D latus, et A C lateris ad A E latus, (ut. constat in Elementis Euclidis,) hoc est, rationibus A. B temporis ad A D tempus, et À C impetus ad A E impetum. Quare et ratio Z ad X componitur ex rationibus A B temporis ad A D tempus, et A C impetus ad AE impetum. Quod erat demonstrandum. Coroll. r. In motu uniformi duorum mobilium, si tempora et impetus sint reciproce proportionalia, erunt longitudines percurse szquales. Siquidem
+
+[p. 193] enim (in eadem figura tertia) esset ut A B ad AD ita reciproce À E ad A C, componeretur ratio A F ad A G ex rationibus A B ad À D et AC ad AE, hoc est, ex rationibus A B ad A D et A D ad AB. Essent ergo A F ad A G ut A B ad A B, hoc est, szequalia ; et proinde factum utrobique ex impetu in tempus, zquale; et, per consequens, Z et X essent zequales.
+
+Coroll. ri. Si duo mobilia ferantur eodem tempore diverso impetu, erunt longitudines percurse
+
+"^ut impetus ad impetum. Nam si tempus utrobique sit A D, impetus autem diversi A E, A C, erit ratio A G ad D C composita ex rationibus A E ad A C et A D ad A D, hoc est, ex rationibus A Ead AC et AC ad AC ; et proinde erit ratio A G ad D C, id est, longitudinis percursz ad longitudinem percursam, ut A E ad A C, hoc est, ut impetus ad impetum. Similiter, si duo mobilia ferantur uniformiter utrumque eodem impetu, sed in temporibus diversis, erit ratio longitudinum percurserum, ut tempora. Nam si impetus utrobique sit A C, tempora diversa A B, A D, componetur ratio A F ad D C, ex rationibus A B ad A D et A C ad A C, hoc est, ex rationibus A B ad AD et AD ad AD ; ideoque ratio A F ad D C, hoc est, longitudinis percurse ad longitudinem percursam, erit eadem quze A B ad A D, hoc est, temporis ad tempus.
+
+7. Si duo mobilia motu uniformi percurrant duas longitudines, tempora lationum erunt inter se in ratione composita ex rationibus longitudinis ad longitudinem et impetus ad impetum, reciproce sumptis.
+
+Sint enim (in eadem figura tertia) duz longitu-
+
+VOL. I. o
+
+Si duo mobilia uniformiter lata percurrant.
+
+duas longitudines, erunt tempora inter se in Tatione composita ex rationibus longitudinis ad lopgitu-
+
+[p. 194] 194 DE RATIONIBUB MOTUUM.
+
+PARS UD. dines date Z et X, quarum altera percursa sit —— impetu A C, altera impetu A E. Dico tempora dinem etimpetus ad impi- lationum esse in ratione composita ex ratione Z mm reipnes ad X, et ex ratiohe A E, quo impetu fit X, ad AC, [d ier qui est impetus quo percursa est. Z. DET quo p mmainn Quoniam enim A F est productum ex ductu Ve longitud impetus A C in tempus A B, erit tempus lationis nis ad longitv- per Z longitudo, quee oritur ex applicatione inem ette. P gi q pP!
+
+porisad tempus. lelogrammi A F ad rectam A C; est autem ea
+
+-  reciprocesump- diu longitudo A B. Quare ipsa À B est tempus lationis per Z. Similiter, quia A G est productum ex ductu impetus A E in tempus À D, erit tempus lationis per X longitudo, quz oritur ex applicatione A G ad rectam A D; ea vero longitudo est AD. Quare A D est tempus lationis per X. Sed A B est ad A D in ratione composita ex rationibus A F parallelogrammi ad A G parallelogrammum, et A E impetus ad A C impetum. Quod sic ostenditur. Ponantur ordine A F, A G, DC parallelogramma ; eritque manifestum rationem À F ad D C compositam esse ex rationibus A F ad A G, et A G ad D C, sed A F est ad D C ut A Bad A D; quare etiam ratio A B ad A D componitur ex rationibus A F ad A G et A G ad D C. Et quia ut A F ad A G ita est Zad X, et ut AG ad D C ita impetus A E ad impetum A C, erit ratio A B ad A D composita ex rationibus longitudinis Z ad longitudinem X, et impetus A E ad impetum A C: quod erat ostendendum.
+
+Eadem ratione probari potest, quod in duabus lationibus uniformibus impetus sunt in ratione composita ex rationibus longitudinis percurse ad longitudinem percursam, et temporis ad tempus, reciproce sumptis.
+
+[p. 195] Nam si (in eadem fig. tertia) supponamus ACesse PARS Ut. tempus et A B impetum, quibus percurritur Z, et —-—— AE esse tempus et AD impetum, quibus percurritur X, procedet demonstratio ut in articulo precedente.
+
+8. Si mobile feratur a duobus simul moventibus Si mobile fe-
+
+" " duobus.
+
+(quorum utrumque movetur motu recto uniformi) Pune in dato quolibet angulo concurrentibus, linea, quam 2». Pos mobile percurrit, erit recta. Pese Sit enim (in fig. quarta) movens recta unifor- runteritlines, miter A B, quod moveatur donec veniat ad locum ts ieu subtendens angu-
+
+C D; sit autem et aliud movens recta item etj; gi uniformiter A C, faciens cum movente A B angu- mexiad duo lum datum quemcunque C A B, intelligaturque moveri eodem tempore ad DB. Sit autem mobile positum in puncto concursus À. Dico lineam, que describitur a mobili, esse rectam. Compleatur enim parallelogrammum À B D C, cujus diagonalis sit A D recta ; et in recta A B sumatur quodlibet punctum, E, a quo ducatur E F, rectis A C, BD parallela, secans A D in G; et per G ducatur H I, rectis A B, C D parallela; sitque mensura temporis sumpta A C. Quoniam ergo uterque motus eodem fit tempore, quando A B est in C D, erit quoque mobilein C D. Etiam, quando A C est in B D, erit mobile in B D. Sed A B estin C D eodem tempore quo A C est in B D; est ergo mobile eodem tempore in CD et BD; est ergo in communi puncto
+
+### D. Rursus quoniam motus ab A C ad B D est
+
+uniformis, hoc est, spatia percursa sunt in ratione temporum, in quibus sunt percursa; quando A C est in E F, ratio A B ad A E erit eadem quz E F ad E G, id est, temporis A C ad tempus A H. Quo tempore igitur A C est in E F, eodem tempore erit A B in HI, erit ergo mobile eodem tempore o2
+
+[p. 196] 196 DE RATIONIBUS MOTUUM.
+
+PARSI. in EF et H I, et, proinde in puncto G. Eodem ——— modo fiet, ubicunque inter À et B ponatur punctum E. Itaque mobile semper invenietur in diagonali A D. Quod erat demonstrandum. Coroll. Manifestum hinc est eandem rectam A D percurri, quanquam motus non sit uniformis, modo uterque motus similiter acceleratus sit; semper enim erit ratio AB ad AE, eadem quie A C ad A H. Simesilem. — 9. Si mobile feratur a duobus simul moventibus, tur & duobus. " 2 sims] move in dato quolibet angulo concurrentibus, quorum Se UU alterum movetur uniformiter, alterum motu & guitormiten&- quiete uniformiter accelerato (hoc est, ut impetus cum sint in ratione temporum ; id est, ut ratio longidewribit mo- tudinum sit rationis temporum duplicata) donec LSU impetum acquisierit acceleratione impetui motus m pru uniformis equalem, linea in qua fertur mobile perain quibu erit linea curva semiparabole, cujus basis est Peers erii. impetus ultimo acquisitus, ari ponit Sit enim (in fig. quinta) recta A. B, quee moveri intelligatur motu uniformi ad C D ; sit autem et aliud movens recta, nempe A C, quod moveri intelligatur eodem tempore ad B D, sed motu uniformiter accelerato, id est, ut spatia transcursa sint perpetuo in ratione temporum duplicata, donec impetus acquisitus sit B D zequalis rectse A C; fiatque semiparabola A D. Dico per concursum amborum simul moventium fieri, ut mobile percurrat curvam semiparabolicam A D. Compleatur parallelogrammum ABD C; et in recta A B sumatur quodlibet punctum E, & quo puncto ducatur E F secans curvam in G ; et per punctum G ducatur H I rectis 4 B, C D parallela. Quoniam ergo ratio A B ad A E, per hypothesin, duplicata est rationis EF ad E G, hoc est, temporis
+
+[p. 197] A C ad tempus A H ; quando A C est in E F, erit Pans nir. A B in H I; ideoque mobile erit in communi . '* . puncto G. Similiter accidet, ubicunque fuerit Forse punctum E sumptum inter A et B. Et proinde áuu, ««. mobile invenietur semper in paraboliea AG D; quod erat demonstrandum.
+
+10. Si mobile feratur a duobus simul moventibus in dato quolibet angulo concurrentibus, quorum alterum movetur uniformiter, alterum a quiete, donec impetum acquisierit impetui motus uniformis :qualem, ita acceleratur, ut ratio longitudinum percursarum sit ubique rationis temporum, in quibus percurruntur, triplicata ; linea, in qua fertur mobile, erit curva semiparabolastri ex mediis duabus primi, cujus basis est impetus ultimo acquisitus.
+
+Sit enim (in fig. sexta) recta A B, quie moveatur uniformiter ad C D; sit autem et aliud movens A C, quod eodem tempore moveatur ad B D motu ita accelerato, ut longitudinum percursarum ratio rationis temporum sit ubique triplicata, impetus autem ultimo acquisitus sit B D equalis recte AC. Fiatque curva semiparabolastri ex duabus mediis primi A D. Dico per consursum amborum simul moventium fieri, ut mobile percurrat curvam illam A D. Compleatur parallelogrammum A B D C, et in recta A B sumatur punctum quodlibet E, a quo puncto ducatur E F secans curvam in G; per punctum G ducatur H I rectis A B, CD parallela. Quoniam igitur ratio A B ad A E (per hypothesin) est triplicata rationis E F ad EG, hoc est, temporis A C ad tempus A H ; quando A C est in E F, erit A B in H I; quare mobile erit in communi puncto G. Atque idem demonstratur
+
+[p. 198] Si mobile feratur a duobos simul, etc.
+
+
+ubicunque inter À et B sumatur punctum E. Et per consequens semper erit mobile in curva A G D. Quod erat demonstrandum.
+
+11. Eadem methodo ostendi potest, quz linea. sit quam percurrat mobile actum a duobus moventibus per concursum quibuscunque, quorum quidem unum moveatur uniformiter, alterum autem accelerate, sed secundum rationes spatiorum et temporum numeris explicabiles, quales sunt rationes duplicata, triplicata, et sic deinceps, vel quales sunt que quocunque numero fracto designari possunt. Regula autem est hujusmodi. Numeri duo longitudinis et temporis simul addantur; horum summa sit fractionis denominator, cujus numerator sit numerus longitudinis. Fractionem hanc quzre in tabella articuli tertii Cap. 17 ; eritque linea quzsita ea, quz pertinet ad trilineum a sinistra ascriptum, et species ejus quz supra ipsam fractionem numeratur. Exempli causa. Sit concursus duorum moventium, quorum alterum movetur uniformiter, alterum motu ita. accelerato, ut spatia sint ad tempora in ratione 5 ad 3. Fiat fractio, cujus denominator est summa ex 5 et 3, numerator autem 5. Est igitur fractio illa í. Adi tabellam, invenies $ in ordine cui ascribitur trilineum ex mediis quatuor, et in eo ordine tertium. Itaque linea, quse percurritur ab hujusmodi moventium consursu, erit linea curva parabolastri ex médiis quatuor tertii.
+
+12. Si motus fiat per concursum moventis uniformiter, et moventis motu utcunque accelerato ; movens uniformiter minus promovebit mobile in singulis spatiis parallelis, quam si uterque motus esset uniformis, et éo minus quo motus magis est accelératus.
+
+[p. 199] DRE MOTU. 199
+
+Sit enim (in fig. 7.) mobile positum in A, quod PARS moveatur a duobus moventibus, altero quidem —-— uniformiter moto ab A B recta ad C D rectam sibi Si motle enparallelam, altero autem utcunque accelerate moto simul, etc. a recta AC ad DB rectam sibi parallelam ; et sumatur in parallelogrammo A B D C spatium inter duas quaslibet parallelas E F, G H. Dico, quod dum movens A C permeat latitudinem que est inter E F, G H, minus promovetur mobile ab A B versus C D, quam si motus ab AC ad BD fuisset uniformis.
+
+Supponamus enim quod, quo tempore mobile virtute moventis ab A C versus BD descendit ad parallelam E F, eodem tempore idem mobile, virtute moventis ab A B ad C D, perveniat ad punctum in E F quodcunque, F; ducatur recta A F, et producatur indeterminate, secans G H in H. Quoniam ergo est ut AE ad AG ita EF ad GH ; si modo AC descenderet versus BD uniformiter, mobile in tempore GH (facimus enim AC et parallelas ejus mensuram temporis) inveniretur in puncto H. Sed quoniam A C supponitur moveri versus BD motu semper accelerato, id est, in ratione spatii ad spatium majore quam temporis ad tempus, erit mobile tempore GH in parallela aliqua ulteriore, puta, inter GH et BD; sit ergo mobile ad finem temporis GH in parallela TK, sumaturque in IK recta IL ipsi GH squalis; ergo mobile, cum est in parallela TK, erit in puncto L. Quare mobile, cum erat in parallela GH, erat in puncto aliquo inter G et H, puta in M; erat autem, quando uterque motus erat uniformis, in ipso puncto H. Itaque dum movens A C percurrit latitudinem quz est inter EF, G H,
+
+[p. 200] ———
+
+
+minus promovetur mobile ab A B versus C D, quam. si uterque motus esset uniformis. Quod erat
+
+Si nose '*- demonstrandum.
+
+fura duobus simul, etc.
+
+13. Data longitudine percursa dato tempore motu uniformi, longitudinem invenire que percurretur eodem tempore motu uniformiter accelerato, id est, ita ut longitudines percurse sint ubique in ratione temporum duplicata, et impetus ultimo acquisitus equalis sit tempori.
+
+Sit (in figura 8) longitudo A B percursa motu uniformi, tempore A C; oportet longitudinem aliam invenire, quz percurratur motu uniformiter accelerato, eodem tempore, ita ut impetus ultimo acquisitus zequalis sit rectze A C.
+
+Compleatur parallelogrammum A B D C, et dividatur B D bifariam in E, et inter B E, BD sumatur media proportionalis BF, ductaque AF producatur ad occursum CD product in G, compleaturque parallelogrammum A CGH. Dico AH esse longitudinem quaesitam.
+
+Fiat enim ut ratio duplicata ad rationem simplicem, ita A H ad aliam, AI; eritque AT semissis AH ; ducaturque I K parallela recte A C, secans diagonalem AD in K et rectam AG in L.. Quoniam ergo AI est semissis A H, erit quoque IL semissis B D, id est, equalis BE, et I K equalis BF. Cum enim BD, id est GH, BF, BE, id est IL, sint continue proportionales, erunt quoque AH, AB, AI continue proportionales. Sed ut A B ad AT, hoc est, ut AH ad AB, ita BD ad IK, et ita etiam G H, id est BD, ad BF ; sunt ergo BF, IK zquales. Jam ratio AH ad AI duplicata est rationis A B ad A I, hoc est, rationis B D ad I K, sive GH ad I K; erit ergo punctum
+
+[p. 201] DE MOTU. 201
+
+K in parabola, cujus diameter est A H, basis autem PARS m. GH sequalis AC. Quare mobile procedens a uquiete in A, motu uniformiter accelerato, tempore Simobilete A C, longitudine percursa A H acquiret impetum simul, etc. GH «qualem tempori A C, id est, impetum quo mobile percurret tempore A C ipsam longitudi- nem AC. Data ergo longitudine, etc. quod erat propositum.
+
+14. Data longitudine dato tempore motu uniformi percursa, longitudinem invenire que percurretur eodem tempore, motu ita accelerato, ut longitudines percursz ubique sint in ratione temporum triplicata, utque impetus ultimo acquisitus sequalis sit dato tempori.
+
+Sit (in fig. 9) data longitudo A B percursa motu uniformi tempore A C.  Invenienda autem est longitudo que eodem tempore percurratur, sed motu ita accelerato, ut longitudines percurse ubique sint in ratione temporum, in quibus percurruntur, triplicata, et impetus ultimo acquisitus sit tempori, quod datum est, zequalis.
+
+Compleatur parallelogrammum A B D C, et dividatur B D in E, ita ut B E sit pars tertia totius BD, et inter B D, B E sumatur media proportionalis B F; ducta autem A F producatur ad occursum recte C D in G ; et compleatur parallelogrammum A C GH. Dico A H esse longitudinem quzsitam.
+
+Fiat enim ut ratio triplicata ad rationem simplicem, ita A H ad aliam, A I, eritque A I tertia pars totius A H; ducatur I K parallela recte A C, secans diagonalem A D in K, et rectam A G in L; fiat deinde ut A B ad A I, ita A I ad aliam, A N.
+
+Et a puncto N ducatur N Q parallela A C, secans
+
+[p. 202] PARS Ul.
+
+B Si mobile feratar a duobus simul, ete.
+
+
+A G, A D et productam F K in P, M, O.  Postremo dueantur F O, L M zequales et parallele rectis B N, I N. His constructis, erunt A H, AB, AL A N longitudines percurse continue proportionales. Similiter, tempora GH, BF, IL et NP, hoc est, NQ, NO, NM, NP erunt continue proportionalia, in eadem ratione in qua suntÀH, AB, AL AN. Est ergo ratio AH ad AN eadem qus ratio B D, id est N Q, ad N P et ratio N Q. ad N P triplicata rationis N Q ad N O, hoc est, triplicata rationis BD ad I K; quare ratio longitudinis A H ad longitudinem A N triplicata est rationis temporis BD ad tempus IK; quare curva trilinei ex duabus mediis primi, cujus diameter est A H et basis GH squalis A C, transibit per punctum O, et proinde percurretur AH tempore AC, habebitque impetum ultimo acquisitum G H, zqualem A C, et rationem longitudinum, quibuslibet temporibus percursarum, rationis ipsorum temporum triplicatam. Erit ergo AH longitudo quam oportebat invenire.
+
+Eadem methodo, si detur longitudo quolibet dato tempore motu uniformi percursa, inveniri potest longitudo eodem tempore percursa motu accelerato secundum rationem longitudinum rationis temporum quadruplicatam, quintuplicatam, et sic deinceps in infinitum. Namsi BD dividatur in E, ita ut B D sit ad B E ut 4 ad 1, et inter BD, B E sumatur media F B, et fiat ut A H ad AB ita A B ad tertiam, et rursus ita tertia illa ad quartam, et quarta ad quintam A N, ita ut ratio AH ad A N sit quadruplicata rationis A H ad A B, et completo parallelogrammo N B F O, transibit per O curva trilinei ex mediis tribus primi, et proinde
+
+[p. 203] mobile acquiret impetum GH qualem AC, in P ABS ipso tempore A C, et sic de czeteris. —— 15. Etiam, si ratio longitudinum percursarum ad Si "eic enrationem temporum sit ut numerus quilibet ad simuLetc. numerum quemlibet, longitudo eo motu et tempore percursa eadem methodo invenietur. Sit enim (in figura 10) tempus AC, in quo mobile À perveniat motu uniformi ad B, et completo parallelogrammo A BD C, invenienda est longitudo quam mobile ab A, eodem tempore A C, pereurrat motu ita accelerato, ut longitudines percursz ubique sint in ratione temporum sesquialtera, hoc est, ut 3 ad 2. Dividatur B D in E, ita ut BD sit ad BE ut 3 ad 2, et inter BD, BE sumatur media BF, ducetaque A F producatur ad occursum CD in G, et sumpta inter A H, A B media A M, fiat ut AM ad AB, ita A B ad AI, eritque ratio AH ad AT sesquialtera rationis AH ad AB (nam quarum rationum A H ad AM est una, ratio AH ad AB est duz, et ratio AH ad AI tres); et proinde etiam sesquialtera rationis G H ad B F, et (ducta FK parallela BI, secante AD in K) sesquialtera rationis GH seu BD ad IK. Sunt ergo longitudines A H, ALin ratione, quz est ad rationem temporum BD, IK, ut 3 ad 2; et proinde, si mobile tempore A C, ita ut propositum est, acce leretur donec acquisierit impetum H G zequalem A C, erit longitudo eodem tempore percursa À H. 16. Quod si ratio longitudinum rationi temporum fuisset ut 4 ad 3, sumende essent inter A H, AB duse medie proportionales, et earum ratio continuanda esset una vice ulterius, ita ut A H ad AB haberet tres rationes, quarum AH ad AI
+
+[p. 204] 204 DE RATIONIBUS MOTUUM.
+
+TARSIL haberet quatuor; cetera autem peragenda essent ——-— ut ante. Modus autem medias quaslibet inter Siml f"-datas lineas interponendi nondum traditus est. sim4:. — Hoc tamen in universum pronunciari potest : Si detur tempus, et longitudo eo tempore motu uniformi percursa, verbi gratia, AC tempus, AB longitudo; recta AG, determinans longitudinem CG vel AH percursam eodem tempore A C motu accelerato quocunque, secabit BD ita in F,ut BF sit media proportionalis inter BD et partem ejus BE ita sumptam, ut ratio longitudinis ad longitudinem sit ubique ad rationem temporis ad tempus, ut BD tota ad BE partem.
+
+17. Si tempore dato mobile percurrat duas longitudines, alteram motu uniformi, alteram motu accelerato, in quacunque ratione longitudinum ad tempora ; et rursus in parte illius temporis iisdem motibus percurrat partes earundem longitudinum ; erit excessus longitudinis totius supra totam in eadem ratione cum excessu partis supra partem.
+
+Sit, exempli causa, (in fig. 8) longitudo A B percursa tempore A C motu uniformi, et eodem tempore A H percursa motu uniformiter accelerato, ita ut impetus ultimo acquisitus sit G H. :equalis AC; sumatur autem inAH pars quslibet A I, quz percurratur in parte temporis AC motu uniformi; rursus intelligatur AB percurrii in eadem parte temporis AC motu uniformiter accelerato. Dico esse ut A H ad AB, ita AB &d AL. Ducatur IK parallela A C secans AD in K, compleaturque parallelogrammum AIKM; divisa autem IK bifariam in N, inter IN, IK sumatur media proportionalis I L, eritque recta AL in ipsa recta A G (dividuntur enim IK, BF
+
+[p. 205] in punctis E, F et N, L in easdem rationes). PARS III. Quare producta A L ad occursum M K productee —— incidet in eam ad punctum F, et divisa A B bifa- 2 riam in O, erit ut IK ad IN, ita AB ad AQ.s Quoniam ergo IL media est inter IK, I N, erit quoque À I media inter A B et AO ejus semissem. Est autem A B media inter A H et ejus semissem AL Quareut A H ad A B mediam inter A H, AT, ita est A B ad AI mediam inter AB, AO; et proinde ita excessus À H supra A B (qui est BH) ad BI excessum A B supra AI; quod erat, etc. Simili demonstratione probari potest idem hoc theorema in quacunque alia accelerationum  ratione, numeris quidem explicabili. . 18. In quolibet parallelogrammo si duo latera angulum continentia eodem tempore moveantur ad latera sibi opposita, alterum quidem motu uniformi, alterum autem motu uniformiter accelerato ; latus quod movetur motu uniformi, concursu suo per totam longitudinem suam tantumdem efficit, quantum efficeret, si alter etiam motus esset uniformis, longitudo vero, eodem tempore percursa, media proportionalis inter totam et dimidiam. Sit (in fig. 11) parallelogramnum ABDC; intelligatur autem latus A B moveri motu uni- : formi, donec jaceat in CD; sitque tempus illius motus A C sive BD. Eodem etiam tempore intelligatur moveri AC motu uniformiter accelerato, donec jaceat in B D. Deinde divisa A B bifariam in E, sumatur inter A B et A E media proportionalis A F, et ducta F G parallela ipsi A C, intelligatur idem latus A C, et eodem tempore, moveri motu uniformi donec jaceat in FG. Dico AB totam tantum conferre ad velocitatem mobilis
+
+[p. 206] PARSUIL positi in A, quando motus AC est uniformiter
+
+—PÉ.— acceleratus usque ad BD, quantum confert pars Simotil: ^- A F, quando motus lateris A C est uniformis eodem mde — tempore usque ad F G.
+
+Quoniam enim AF est media proportionalis inter totam A B et semissem AE, erit impetus motus ab AC ad B D, acceleratione uniformi ultimo acquisitus, (per art. 13) ipsa BD; et proinde recta F B est excessus, quo longitudo, ab A C percursa motu uniformiter accelerato, superat longitudinem percursam ab eadem A C, eodem tempore, motu uniformi, cum impetu ubique ipsi B D zquali. Quare si tota A B moveatur uniformiter ad C D, eodem tempore quo AC movetur uniformiter ad FG, pars FB, cum non concurrat cum motu lateris A C, quod supponitur consistere in F G, motui ejus nihil conferet. Rursus supposito quod latus A C moveatur ad B D motu uniformiter accelerato, latus A B motu suo uniformi ad C D minus promovet mobile in singulis parallelis acceleratum. quam non acceleratum, et tanto minus quanto major est acceleratio (ut ostensum est art. 12). Itaque quando A C est in F G, per motum acceleratum, mobile non erit in latere C D ad punctum G, sed ad punctum D ; ita ut GD sit excessus, quo longitudo, facta motu accelerato ad B D, superat longitudinem factam motu uniformi ad F G. Effugit ergo mobile acceleratione sua actionem partis A F, ita ut perveniat ad latus C D tempore quidem A C, sed in longitudine CD, qus est. longitudini AB equalis. Quaretempore À C motus uniformis ab AB ad CD, in longitudine tota A B, non plus agit in mobile uniformiter acceleratum ab A C ad D B, quam si esset A C mota eodem tempore motu
+
+[p. 207] uniformi ad FG. Differentia in eo solo consistit, IL quod cum A B agit in mobile uniformiter motum —— ab A C ad F G, id, quo motus acceleratus superat Si mete fenuniformem, totum simul est in F B vel G D ; sed simu) etc. quando eadem A B agit in mobile acceleratum, id, quo motus acceleratus superat uniformem, dispergitur per totam longitudinem A B sive CD; sed tamen ut totum collectum sequale sit eidem F B sive GD. Itaque in quolibet parallelogrammo, etc. Quod erat demonstrandum.
+
+19. Eadem methodo, si longitudines percurse habeant aliam quamcunque ad tempora sua rationem, numeris explicabilem, et latus AB divisum sit in E, ita ut A B sit ad A E, ut ratio longitudinum ubique percursarum ad rationem temporum quibus percurruntur, sumaturque inter A B et AE media proportionalis A F, ostendi potest, latus, quod movetur motu uniformi, concursu suo per totam longitudinem A B tantundem efficere, quantum efficeret si alter etiam motus uniformis esset, longitudo vero, eodem tempore A C percursa esset media illa A F.
+
+Atque hactenus de motu per concursum.
+
+[p. 208] CAPUT XVII. DE FIGURIS DEFICIENTIBUS.
+
+1. Figure deficientis, completee, complementi, rationum proportionalium et commensurabilium definitiones.--2. Figure deficientis ad complementum suum ratio.—$. Figurarum deficientium in parsllelogrammo descriptarum ad complementa sua rationes, in tabella expositm.—4. Earundem figurarum descriptio et productio.—5. Earundem tactio.—6. In qua ratione esdem figure excedunt triangulum rectilineum ejusdem altitudinis et basis. — 7. Figurarum deficientium solidarum in eylindro descriptarum tabella.— 8. In qua ratione esdem figure excedunt conum ejusdem altitudinis et basis. — 9. Figura plana deficiens in parallelogrammo, quomodo ita describatur, ut wit ad triangulum ejusdem basis et altitudinis, ut alia deficiens (sive plana sive solida) bis sumpta, ad eam. ipsam deficientem una cum figura completa in qua describitur.— 10. Translatio proprietatum quarundam, quas habent dicm fgure descripte in parallelogrammo, ad rationes spatiorum variis gradibus velocitatis transmissorum.—11. De figuris deficientibus descriptis in circulo. — 19. Propositionis. demonstrate art. 2, confirmatio quedam ex philosophia prima. 13. De equalitate inter superficiem portionis sphere et cireulum.—14. Quomodo ex descriptis figuris deficientibus in parallelogrammo, interjici possunt inter duas lineas rectas quotlibet medise proportionales.
+
+PARSIL — 1. Figuras deficientes eas appello, quas gene- —PF— rari posse intelligimus a. quantitate aliqua uni- Fire de- formifer mota, simulque decrescente donec tota cientis, com- plem, com- evanescat.
+
+ps Figuram completam deficienti respondentem porioaliom peg appello, que, ab eadem quantitate semper t commenfondam, integra, eodem tempore generatur, quo generatur deficiens.
+
+Figure deficientis complementum illa figura est, que deficienti addita ipsam completam facit.
+
+[p. 209] DE FIGURIS DEFICIENTIBUS. 209
+
+Rationes proportionales sunt quatuor rationes, PARS III. quarum prima est ad secundam, wt tertia ad —— quartam.
+
+Exempli gratia, si prima ratio sit rationis secundz duplicata, et rursus ratio tertia rationis quartz duplicata, dicentur ille rationes proportionales.
+
+Rationes autem. commensurabiles sunt, que habent inter se rationem quam habet numerus ad. mumerum; ut si rationis datze ratio una quidem duplicata sit, alia vero triplicata, erit duplicata ad triplicatam ut 2 ad 3, ad datam vero ut 2 ad 1; et propterea tres illas rationes appello commensurabiles.
+
+2. Figura deficiens, facta a quantitate continuo Figs àetcidecrescente donec evanescat, secundum rationes Namen ubique proportionales et commensurabiles, est ad """» nti complementum suum, ut ratio totius altitudinis ad altitudinem quolibet tempore diminutam, ad rationem quantitatis integrae, quze figuram describit, ad eandem tempore eodem diminutam.
+
+Describatur parallelogrammum A B CD (fig. 1), intelligaturque basis A B moveri parallela ad CD, ita ut, dum movetur, perpetuo decrescat donec evanescat in puncto C; sitque ratio diminute A B ad ipsam A B integram ubique eadem quse ratio AC ad AG, vel ubique duplicata, vel triplicata, vel in alia quacunque ratione rationis ad rationem. Dum A B eo modo decrescit, punctum B describat lineam aliquam, pata BEF C. Dico jam, si ratio A C ad A G sit eadem quie ratio AB 2d G E, spatium A BEF C esse ad spatium DCFEB ut 1 ad 1; si vero ratio A C ad A G sit duplicata rationis A B ad GE, spatium ABEFC esse ad
+
+VOL. I. P
+
+[p. 210] 210 DE RATIONIBUS MOTUUM:
+
+PARS UL spatium D BEF C ut 2 ad 1; si triplicata, ut 5ad
+
+—— 1; et sic deinceps. Pawedds"  LrMMA1i. Qua ratione velocitas puncti moti pemew?- augetur, eadem ratione augentur quoque spatia &b eo iisdem vel zequalibus temporibus percursa.
+
+LEMMA rr. Si inter duas rectas interponantur mediz tum arithmetic tum geometrice numero infinitz, hie et ille magnitudine non different.
+
+Tn parallelogrammo A BCD (fig. 1) concipiatur latus A B moveri ad latus CD parallelos et movendodecrescere donec tandem evanescat in puncto C; et per talem motum descripta sit figura ABEFC, relicto complemento D CF E B, cujus linea B E F C describitur à termino B decrescentis AB. Eodem autem tempore moveri intelligatur latus A C ad latus B D, uniformiter. Potest igitur haberi C D pro mensura temporis. Rectz autem, ipsi CD parallele, terminate ab una parte in linea BEF C, ab altera parte in recta A C, erunt mensure partium temporis, in quo A B movetur ad CD et AC ad BD.
+
+Sumatur jam in recta C D arbitrarie punctum O, ducaturque O S parallela lateri B D, secans lineam. BEFCinEetrectam A Bin S. Rursus, a puncto Q sumpto in CD ad libitum, ducatur eidem lateri BD parallela Q R, secans BEF C in F et AB in R. Ducantur etiam EG, FH parallele CD, secantes A C in G et H. Postremo idem supponatur factum esse per omnia puncta linee BEFC.
+
+Dico jam esse ut aggregatum omnium velocitatum, quibus describuntur recte QF, OE, DB eztereque omnes eadem methodo genite, ad aggregatum temporum designatorum per rectas H F, G E, AB et caeteras, ita planum DCFEB
+
+[p. 211] ad planum ABEFC. Sicut enim A B, decres- pn cendo per lineam B E F C, in tempore C D evanescit. — in punctum C, ita CD, ipsi A B equalis, decres- iore dii cendo per eandem lineam C F E B, eodem tempore Plenestun evanescit in punctum B, descripta recta D B sequali AC. Sunt ergo velocitates quibus describuntur AC et DB, inter se :quales. Rursus quoniam tempore, quo punctum O describit rectam O E, eodem tempore punctum S describit rectam S E, erit O E ad S E ut velocitas qua describitur O E, ad velocitatem qua describitur S E. Et propter eandem causam Q F erit ad RF ut velocitas qua describitur Q F, ad velocitatem qua describitur RF;et sic de ceteris omnibus parallelis. Ut ergo rectze, quz sunt parallelze lateri AB terminanturque in linea B E F C, sunt mensurz temporum, ita recte que sunt parallele lateri B D terminatzeque in eadem linea B EFC, sunt mensure velocitatum. Nam (per lemma 1) in qua ratione augentur velocitates, in eadem augentur recte eodem tempore percursz, nempe Q F, O E, B D, &c.
+
+Jam linez ille omnes Q F, O E, B D, &c. con- Stituunt planum DBEF C; et linee omnes H F, GE, AB, &c. id est omnes ES, FR, CA, &c. constituunt planum A CFEB. Quarum ille sunt. aggregatum velocitatum, hz aggregatum temporum. Ut igitur aggregatum velocitatum ad aggregatum temporum, ita complementum D BEFC ad figuram A BEF C. Siquidem ergo rationes DB ad OE, et OE ad QF fuerint ubique rationum A B ad GE, et GE ad HF (exempli causa) triplicate, erunt vice versa rationes OE ad DB, et QF ad OE, rationum GE ad AB et HF ad GE subtriplicate. Quare aggregatum
+
+P2
+
+[p. 212] [ul
+
+T deficientium n parallelogramuo descriptarum ad complementa sua rationes, in tabella exposite.
+
+
+omnium QF, OE, BD, &c. aggregati omnium H F, G E, A B, &c. erit (per lemma r1) subtriplum. Ut ergo aggregatum velocitatum ad aggregatum temporum, quibus describuntur figura deficiens et complementum, ita erit ipsum complementum ad figuram deficientem, nimirum complementum DBEFC ad figgram ABEFC. Quod erat demonstrandum.
+
+3. Per hanc propositionem, comparari possunt figure omnes deficientes (quarum rationes, quibus continuo decrescunt bases, sunt proportionales rationibus, quibus decrescunt altitudines) cum. magnitudinibus suorum complementorum, et per consequens, cum magnitudinibus figurarum completarum. Invenientur autem ita se habere ut in tabulis sequentibus; ubi primo, cum parallelogrammo comparuntur trilinea, quorum primum est. triangulum rectilineum, quod fit ex base linea recta decrescente, ita ut altitudines sint semper in eadem ratione qua bases; ideoque squale est triangulum rectilineum suo complemento, sive rationes altitudinum et basium sunt ut 1 ad 1, unde fit ut triangulum illud sit parallelogrammi dimidium. Secundum est trilineum, quod fit à decrescente base in ratione altitudinum ubique subduplicata, et proinde erit figura deficiens sui complementi dupla, parallelogrammi autem subsesquialtera. — Deinde ratio altitudinum rationis basium potest esse triplicata, et tunc figura deficiens erit complementi sui tripla, parallelogrammi vero subsequitertia. Potest etiam ratio altitudinum rationis basium esse sesquialtera, et tunc figura deficiens erit complementi sui sesquialtera, parallelogrammi vero supertripartiens quintas sivet;
+
+[p. 213] et sic ulterius, ut in tabula proxime sequente, prout plures medie sumuntur proportionales, id est, prout rationes multiplicantur. Exempli causa, si bases decrescant ita ut ratio altitudinum ubique sit ad rationem basium ut 5 ad 2, queritur queenam fit ratio figure facte ad paralleJogrammum, quod ponitur esse unum ; quoniam, ubi ratio quinquies sumitur, quatuor sunt media, vide trilinea ex mediis quatuor; deinde (propter numerum 2) vide in parte superna ordinem secundum; in concursu habetur 4 quod indicat figuram deficientem esse ad parallelogrammum ut £ ad 1, sive ut 5 ad 7. Paralleogrammum . . :ororororo: Triangulum rectilineum. . .
+
+Trilineum ex media una. .
+
+"Trilineum ex duabus mediis .
+
+-
+
+Trilineum ex mediis tribus je [s | e [9 | [9 |] 7 - - FI
+
+"Trilineum ex mediis quatuor . £15|4| : Trilineum ex mediis quinque |$ | |$ js] Trilineum ex mediis sex . 5 [xs |n rn "Trilineum ex mediis septem . '& [&& sh ebd aT.
+
+4. Ut autem natura dictorum trilineorum melius Bardem intelligatur, ostendemus quomodo per puncta de- ame; o scribi possunt ; et primo de iis quz sunt in tabellge *' Preductio columna prima. Descripto (in fig. 2) parallelogrammo quocunque A BCD, ducatur diagonalis BD, et habemus triangulum rectilineum BCD, parallelogrammi dimidium. Deinde ducantur lateri BC parallelze plures E F, secantes diagonalem BD in G; fiatque ubique ut EF ad EG, ita EG
+
+[p. 214] MN. Earundem figurarum descriptio «t productio,
+
+
+ad aliam, E H ; et per omnia puncta H ducatur linea DH H B; habebimusque trilineum BHHDC, quod voco ex media una; quia in tribus proportionalibus, ut EF, EG, EH, unica est media, nempe EG; estque trilineum hoc parallelogrammi 1, nempe parabola. Rursus fiat ut EG ad EH, ita EH ad aliam, EI; ducaturque linea BIID, habebiturque trilineum B I 1D C quod est parallelogrammi tres quarte, vocaturque a nonnullis parabola cubica. Eodem modo si rationes in EF sumptm ulterius continuentur, emergent trilinea czxtera columns primz. Quod verum esse ostendemus hoc modo. Ducantur rectz basi D C parallele, ut HK, GL; quoniam ergo EF est ad EH in duplicata ratione EF ad EG sive BC ad BL, hoc est, CD ad LG, sive KM ad KH, erit BC ad BK in duplicata ratione KM ad KH ; sed ut BC ad BK, ita DC sive KM ad K N; est ergo K M ad KN in duplicata ratione K M ad KH ; idque, ubicunque ponatur recta parallla K M; est ergo figura BHDC dupla complementi sui B H D A, et proinde totius parallelogrammi $. Eodem modo si ducatur OPIQ, ostendi potest rationem O Q. ad O P, id est, BC ad BO, triplicatam esse rationis OQ ad OI, et proinde figuram B I D C esse triplam complementi sui BIDA, et per consequens totius parallelogrammi tres quartas, etc.
+
+Secundo, ut describantur trilinea quse sunt in quolibet ordinum transversorum, faciendum est hoc modo. Sit parallelogrammum (in fig. 3) A BCD, cujus diagonalis B D ; volo in eo describere trilinea, quz in tabella precedente appello trilinea ex mediis tribus. Duco igitur E F paral-
+
+[p. 215] DE FIGURIS DEFICIENTIBUS. 215 lelem D C, toties quoties opus erit, secantem B D PARS Itt:
+
+in G, et sumo inter EF, EG tres medias propor- —— tionales EH, EI, EK. Itaque ductis lineis per jeneum. omnia puncta H, fiet figura B H D C, ex istis tri- e rridustio, lineis primum ; et per omnia puncta I fiet BID, ex iisdem trilineis secundum ; et per omnia puncta
+
+K, fiet trilineum tertium B K D C. Horum primum (quia ratio EF ad EG quadruplicata est rationis
+
+E F ad EH) erit ad complementum suum ut 4 ad 1, et ad parallelogrammum ut 4 ad 5. Secundum (quia ratio E F ad E G ad rationem E F ad EI est ut 4 ad 2) erit complementi sui duplum, et parallelogrammi $ sive subsesquialterum. — Tertium (quia ratio EF ad E G ad rationem EF ad EK est ut 4 ad 3) erit complementi sui sesquitertium,
+
+Sive ut 4 ad 3; parallelogrammi vero quatuor septimze, sive ut 4 ad 7.
+
+Descripta harum figurarum quselibet produci po test quantum quis voluerit, hoc modo. SitABCD (in fig. 4) parallelogrammum, in quo descripta sit figura B K D C, eadem quz in figura proxime praecedente, nempe ex mediis tribus tertium.  Producatur B D utcunque in E, et fiat E F parallela basi D C, secans A D productam in G; sumatur jam in GE punctum H, ita ut ratio FE ad FG sit quadruplicata rationis F E ad FH ; quod fiet si FH sit trium. proportionalium, inter FE et FG interjectarum, maxima; transibit linea curva BKD producta, per punctum H.  Ducta enim B H recta secante CD in I, et H L parallela recte: GD, que occurrat CD producte in L, erit CL ad CI ut FEad FG, hoc est, in ratione FE ad FH sive CD ad CI quadruplicata. Quare punctum H est
+
+[p. 216] PARS Il. MN.
+
+Earundem actio.
+
+
+inlinea BKD producta secundum generationem ipsius BKD.
+
+5. Tangitur autem dictarum figurarum quselibet in quolibet puncto, hoc modo. Sit linea (in fig. 4) BKDH tangenda in puncto D. Jungantur puncta B, D, ducaturque D A zqualis et parallela BC; et quia figura hec ponitur exempli causa ex tribus mediis tertia, sumantur in A B tria puncta quibus ipsa AB dividitur in quatuor partes equales, ex quibus partibus sumantur tres nempe À M, ut AB sit ad A M, ut figura BKDO ad suum complementum; ducta recta MD tanget figuram in puncto D. Dueatur enim parallela R Q utcunque inter A B et DC, secans B D rectam, BKD curvam, M D rectam, et A D rectam in punctis P, K, O0, Q; erit ergo R K, per constructionem, trium geometrice mediarum inter RQ et RP minima. Itaque (per coroll. art. 28, cap. xir) minor est RK. quam RO; cadit ergo MD extra figuram.  Continuetur jam MD in N, et erit F N trium mediarum inter F E et F G maxima in ratione arithmetica, et F H trium mediarum maxima quoque inter easdem FE, FG, in ratione geometrica ; quare (per dictum corollarium, art. 28, cap. x11) minor erit FH quam FN; cadet ergo DN extra figuram, tangetque figuram recta M N in unico puncto D.
+
+Inqumüoe — 6. Cognita ratione deficientis figurze ad comple- emdem.
+
+eiui - mentum suum, cognoscitur quoque ratio trianguli angulum rec- ilineum ej dem alttodi- nis et basis.
+
+rectilinei ad excessum, quo ipsum figura deficiens superat. Harum itaque tabellam adjunximus, in qua, si queas, exempli causa, quantum trilineum ex mediis quinque quartum superat triangulum ejusdem altitudinis et basis, invenies, in concursu
+
+[p. 217] DB FIGURIS DEFICIENTIBUS. 217 columns quartz cum trilineis ex mediis quinque, PARS HL s, quo significatur trilineum illud superare trian- IÉ— gulum duabus decimis sive quinta parte ipsius trianguli.
+
+1232542585206 7
+
+Triangulum aogoroororog y Trilinei ex media unica HE Trilinei ex mediis duabus . || 4
+
+; [Tac ni E ZEnnmnae
+
+8 1 Trilinei ex mediis quatuor. [$ ||| $
+
+&À | Trilinei ex mediis quinque. [| & is Ina eiexmedissex . .|$ BA AAA: L Trilinei ex mediis septem... | $ |o see c el
+
+7. Conus autem et conoeides trilineorum dic- rigurarum torum sic se habent ut in tabella proxima, scilicet fenum. comparata cum cylindro. Exempli gratia, in con- parem cursu columnz secundz cum trilineis ex mediis ubells. quatuor, invenitur $; ex quo intelligendum est conoeides ex trilineo ex mediis quatuor secundo, esse ad cylindrum ut $ ad unitatem, sive ut 5 ad 9.
+
+Cylindrus . roro Conus ( Trilinei ex media unica Trilinei ex mediis duabus . "Trilinei ex mediis tribus 4 Trilinei ex mediis quatuor Trilinei ex mediis quinque TTrilinei ex mediis sex LUTrilinei ex mediis septem.
+
+Conoeides.
+
+[p. 218] 218 DE RATIONIBUS MOTUUM.
+
+PARSUL — 8. Denique excessus conoeidum ex trilineis dictis ———— supra conum ejusdem cum illis altitudinis et basis, Ini mem habentur in tabula quz sequitur.
+
+m figure Som cjusdem disini ur Cms ss [drs ro poa a B (Conceidis triinem ex media unica A]: $| "005 mediüsdosbos [Hs i| * — *  medistribus . 38/41) i! * — *  mediüsquatuor |H14g dE uo o S mm T "o 0* medissx . UH HI] mc AU 0 0*5 mediisseptem. [$8188 11H BE Hel p. peii 9. Si figura deficiens (ut in fig. 5), quzelibet pilleogrunmo earum de quibus proxime supra dictum est, ABCD, describatur, ut inscripta sit in figura completa B E, habens comuda" plementum A D C E; fiat autem triangulum ABI, Weeds" compleaturque parallelogrammum BK; ducteque dre Give sint rectze CI parallel innumerz MF, quarum lida) bis somp- unaquaeque secet figurz deficientis curvam in D, Eudsni" rectas vero A C, AB, AL, in H, GL; fiatque ut imaunm GFadGD,ita G L adaliam, GN ; perque omnia Peainqa puncta N ducatur linea AN I; orietur figura defi- - ciens AN IB, cujus complementum erit ANIK.
+
+Dico esse figuram A N I B ad triangulum A B I, ut dupla figurze deficientis ABCD, ad eandem defici- entem una cum completa BE. Nam ut ratio A B ad
+
+AG, hoc est, ut ratio GM ad GL est ad rationem
+
+G M ad GN, ita est magnitudo figure ANIB ad complementum suum ANIK (per articulum 2, hujus capitis). Sed per eundem articulum ; ut ratio
+
+AB ad AG, hoc est, GM ad GL estad rationem GF ad GD, hoc est, per constructionem, GL ad GN, ita
+
+[p. 219] est figura A B CD ad complementum ejus ADCE. PARS nt. Et componendo: ut ratio GM ad GL una cum —— ratione GL ad GN est ad rationem GM ad GL, ita est completa BE ad figuram ABCD. Et convertendo: ut ratio GM ad GL ad rationes ambas GM ad GL et GL ad GN; hoc est, ad rationem ex utraque compositam G M ad G N, ita est figura A BC D ad completam BE. Eratautem, ut ratio GM ad GL ad rationem G M ad GN, ita figura ANIB ad complementum suum ANIK. Sunt ergo ABCD. BE::ANIB. ANIK proportionales. Et componendo: ABCD-« BE. ABCD : BK. ANIB sunt proportionales. Et duplando consequentia, ABCD4BE. 2ABCD:: BK.2ANIB sunt proportionales. Et sumendo tertiz et quartz dimidia, ABCD.-BE. 2ABCD :ABIL ANIB sunt proportionales. Quod erat. probandum.
+
+10. Ex iis quze de figuris deficientibus in paral- Treeslatio prolelogrammo descriptis dicta sunt, inveniri possunt petit spatiorum, que determinatis temporibus motu Peer figure descripaccelerato percurruntur, ad ipsa tempora rationes, 9i» Lene prout uno vel pluribus gradibus velocitas mobilis tones spatiosingulis augetur temporibus. dos velo Sit enim (in fig. 6) parallelogrammum A B C D, sis tree in qua descriptum sit trilineum D E B C; ductaque basi parallela ubicunque FG secet BD diagonalem in H, curvam BED in E; sitque ratio BC ad BF rationis FG ad FE, exempli causa, triplicata ; erit ergo figura DE BC complementi sui BEDA tripla. Similiter ducta IE parallela ipsi B C, figura trilinei E K B F erit tripla complementi sui BKEI. Erunt igitur inter se figure deficientis partes, a vertice abscissee a rectis basi parallelis, nempe
+
+[p. 220] Amin. DEBC, EKBF, ut parallelogramma A C, IF, id mU. est, in ratione composita altitudinum et basium ; eidem Quoniam ergo altitudo BC ad altitudinem BF Qquarandaz, ete ponitur esse in ratione basium D C, F E triplicata, erit figura DE B C ad figuram E K BF in ratione D Cad FE quadruplicata. Eadem methodo inveniri potest ratio cujuslibet ex trilineis predictis ad partem ejusdem quamcunque abscissam a vertice recta basi parallela.
+
+Jam sicut figure dicte descripte intelliguntur ex base, puta CD, decrescente donec desinat in puncto, ut in B, ita etiam descriptz eedem intelligi possunt a puncto, ut B, crescente donec acquirat magnitudinem quamlibet, ut C D.
+
+Intelligatur igitur a puncto B crescente in magnitudinem C D, descripta BED. Quoniam ergo BC est ad BF in ratione CD ad FE triplicata, erit invertendo, ut mox ostendemus, F E ad CD in ratione BF ad BC triplicata. Siquidem ergo recta B C sumatur pro mensura temporis in quo movetur punctum B, repreesentabit figura E K B F summam omnium velocitatum crescentium tempore BF, et figura DEB C representabit summam omnium velocitatum crescentium tempore BC. Quoniam igitur figura EKBF est ad figuram DEBC in ratione altitudinum et basium composita, estque ratio FE ad CD triplicata rationis BF ad BC; erit figura EKBF ad figuram DEB in ratione BF ad BC quadruplicata, hoc est, summa velocitatum qua itur tempore BF, est ad summam velocitatum qua itur tempore BC, in ratione BF ad BC quadruplicata. taque si mobile in B moveatur velocitate ita crescente, ut velocitas tempore BF acquisita sit ad velocitatem tempore
+
+[p. 221] BC acquisitam, in ratione ipsorum temporum B F, Lon BC triplicata, atque ipsum tempus, quo mobile ——— B fertur ad F, sit BF, feretur idem mobile, tempore 7ortesrn BC, per lineam quse erit in ratione continua B F qurendam,et ad BC quinta. Eadem ratione spatia transcursa juxta velocitatis in cseteris rationibus incrementa determinari possunt.
+
+Restat ut ostendamus rationem F E ad CD esse rationis BF ad BC triplicatam. Si sint due quantitates, una triplo major quam altera, illa, quz est tripla, reliqua major est. Sed ratio duarum quantitatum inzqualium est quantitas.
+
+Ergo si sint duse rationes, quarum una est alterius tripla, illa major est quz est tripla alterius.
+
+Duarum rationum, nempe, recte FE ad rectam CD,et recte BF ad rectam BC, altera est alterius tripla. Ergo illa est relique tripla, quz est illarum major.
+
+Sed ut BF ad BC, ita est FH ad CD. Ergo duarum rationum FE ad CD, et FH ad CD, illa, quz major est, est relique tripla. Sed ratio FE ad CD major est quam ratio FH ad CD (per Eucl. Elem. 5, prop. 8). Ergo ratio FE ad CD est tripla rationis FH ad CD, hoc est BF ad BC.
+
+Quod restabat demonstrandum.
+
+Scio multiplicatas rationes significari plerumque 2 geometris per duplicatam, triplicatam, quadruplicatam, &c., vix unquam per duplam, triplam, quadruplam, &c.
+
+Sed in caleulo rationum, alia sepe res est additio, alia, multiplicatio eequalium.
+
+Cujus rei causa est, quod ratio majoris ad minus, qua est ratio excessus, multiplicando augetur;
+
+[p. 222] PARS. sed ratio minoris ad majus, quee est ratio defectus, —-— multiplicando minuitur.
+
+dE Itaque quo pacto utraque duplicata vel triplicata
+
+Suarondat: dici potest omnes facile intelligunt. Sed in dupli- cata vel triplicata ratione minoris ad majus, ubi quantitatis primse ad secundam ratio duplo vel triplo major est quam ejusdem prim: ad tertiam, quid dicendum sit pauci cogitaverunt. Itaque quod dixeram in rationibus 1 ad 2 et 2 ad 4, rationem 1 ad 2 duplam esse rationis | ad 4, geometrizm professores nostri (quanquam scirent, ex Eucl. Elem. 5, prop. 8, majorem esse rationem.
+
+1 ad 2 quam 1 ad 4) neque ferre potuerunt, neque quanto major esset explicare. Quod tamen satis a me explicatum est suo loco, cap. X111. art.16. Unde discant, si volunt, quod, quanto major est defec- tus, tanto minor est ratio; et contra, quanto major est excessus, tanto major est ratio. Nec quaerant veritatem in vocibus non Latinis, subduplicatum, subtriplicatum, &c. Nec aliud esse putent duplum, aliud duplicatum ; nec aliud dimidium, aliud sub- duplum aut subduplicatum ; meminerintque vocem
+
+Graecam 3rAaciov apud Euclid. Elem. 3, prop. 20, positam esse, non pro duplicato, sed pro duplo.
+
+Colligi potest ex iis que jam ostensa sunt, ubi velocitas alicujus mobilis crescit in eadem ratione cum temporibus, gradus velocitatis augeri ut nu- meri deinceps ab unitate, 1,2, 3, 4, &c. Ubi vero augetur velocitas in ratione temporum duplicata, ibi augeri ut numeri ab unitate, omissis alteris, ut
+
+1,3,5,7, &c. Denique ubi rationes velocitatum sunt in ratione temporum triplicata, ibi graduum progressionem esse ut numeri ab unitate, omissis
+
+[p. 223] *duobus intermediis, ut 1, 4, 7, 10, &c., et sic dein- mE Tu. ceps. Nam ubi proportionales geometrice in omni -— puncto sumptz sunt, eedem sunt cum proportionalibus arithmetice.
+
+11. Notandum preeterea est, quod sicut in quan- De few titatibus, quee fiunt a decrescente magnitudine, dee rationes figurarum sunt inter se ut rationes altitudinum ad rationes basium, ita quoque esse in iis, quse fiunt a decrescente motu, qui motus nihil aliud est, quam potentia qua figurz ille majores minoresve describuntur. Itaque in describenda helice Archimedea per diminutionem continuam semidiametri circuli eadem ratione, qua diminuitur circumferentia, fiet spatium, a semidiametro et helice circumscriptum, tertia pars totius circuli; propterea quod semidiametri circulorum, quatenus ex iis aggregatis circulus ipse fieri seu compleri intelligitur, totidem sunt sectores; unde fit ut sector, qui helicem describit, diminuatur in ratione circumferentise circuli, in quo inscribitur, duplicata ; ideoque complementum helices, hoc est, spatium. illud quod in circulo est extra helicem, duplum sit spatii ipsius helices. Eodem modo, si sumatur media proportionalis ubique inter semidiametrum circuli helicem continentis et partem ejusdem semidiametri illam quz est intra helicem, orietur figura, quz totius circuli semissis erit. Denique quecunque spatia describi possunt a linea vel superficie decrescente sive magnitudine sive potentia, eandem subeunt regulam; ita ut si rationes, quibus decrescunt, commensurabiles sint rationibus temporum, in quibus decrescunt, cognite erunt figurarum quas describunt magnitudines.
+
+[p. 224] PARSUL — 12. Propositionis jam articulo 2, demonstrate —-— veritas (queque est eorum, quz diximus de figuris etes deficientibus, fundamentum) originem habere vide- Nue ui tur in philosophia. prima, nempe in eo, quod dam ex philo- OImnem inter duos effectus sequalitatem et inequa- "Pha pmi stem, id est, ommem rationem, proficisci et determinari ab eorundem effectuum causis zqualibus et inzequalibus, sive a ratione quam habent causz, concurrentes ad unum effectum, ad causas quz concurrunt ad effectum alterum; ideoque quantitatum quoque rationes easdem esse rationibus causarum suarum. Quoniam ergo in duabus figuris deficientibus, quarum altera est alterius complementum, altera fit per motum certo tempore et ratione decrescentem, altera per motus jacturam iisdem temporibus factam, causs, quse quantitates sive rationes utriusque figurz faciunt determinantque ut alie quam sunt esse non possint, non differunt inter se, nisi in eo, quod rationes, juxta quas quantitas generans procedendo ipsam figuram describit, id est, rationes temporum sive altitudinum ubique residuarum, alie esse possunt quam rationes, juxta quas eadem quantitas generans decrescendo facit complementum, id est, quam rationes quantitatis generantis ubique diminutee. Itaque ut ratio temporum, in quibus fit jactura motus, est ad rationem quantitatum decrescentium, quibus generatur figura deficiens; ita erit defectus, sive complementum, ad ipsam figuram factam. ein 13. Sunt etiam alie quantitates ex cognitione ciem portionis CaUSarum suarum, nimirum ex comparatione moqum" tuuma quibus fiunt, determinabiles, facilius etiam quam ex communibus geometris elementis. Exempli [p. 225] gratia, (in fig. 7) quod superficies cujuslibet. PARS UIT, portionis spheerze sequalis sit circulo, cujus radius ——" est ducta a polo portionis ad basis cireumferentiam inier "port linea recta, probabimus hoc modo. Sit portio diem portienia sphaerae BAC, eujus axis AE, basis BC; demissa a dien polo A ad basem in B sit A B, cui zequalis ponatur AD tangens circulum maximum B A C in polo A; probandum est circulum a radio A D zequalem esse superficiei portionis BA C. Super axem A E revolvi intelligatur planum A E BD; describet recta AD circulum ; sed A B arcus, superficiem portionis sphere; denique subtensa, superficiem coni recti. Quoniam jam eadem est conversio A B recte, et A B arcus, habeantque amba eosdem terminos A et B, causa quare superficies sphzerica, quam facit arcus, major est quam superficies conica quam facit. subtensa, est quod A B arcus major est quam AB recta; causa autem quare major est, in eo consistit, quod, etsi ducantur amba ab A ad B, recta tamen recte ducitur, arcus vero secundum angulum, quem facit ipse arcus cum subtensa; qui angulus angulo D A B est zqualis (nam angulus contactus angulo segmenti nihil addit, ut ostensum est cap. x1v. art. 16). Quare anguli D A B magnitudo causa est quare superficies portionis, quam. describit A B arcus, major est quam superficies coni recti, quam describit A B subtensa.
+
+Rursus, causa quare circulus, quem describit tangens A D, major est quam superficies coni recti, quam describit chorda A B, (cum ipsa tamen tangens ipsi subtensz sit equalis, et tempus lationum idem), est, quod AD ad axem recta est, sed A B est obliqua; obliquitas autem illa consistit in eodem angulo DAB. Cum ergo quantitas
+
+VOL. I. Q
+
+[p. 226] I anguli D A B faciat excessum tum superficiei por- ——— tionis, tum etiam circuli a radio A D, super superficiem coni recti, quam describit subtensa A B; tantum superabit circulus a radio A D superficiem conicam, quantum eandem superabit superficies spherica ab arcu AB. Sunt igitur circulus ab A D sive A B, et superficies sphzerica ab arcu A B, inter se equales. Quod erat probandum.
+
+Quomodbex 14. Si figurz deficientes, quas descripsimus in deetpidt" parallelogrammo, exquisite describi possent, pos- Pwinplle-sent inde, inter duas rectas datas, tot interponi qiie posmnt. mediz proportionales, quot quis voluerit. Exempli ier sn ^ gratia, in parallelogrammo A B CDD sit descriptum quotibet m (ut in fig. 8) trilineum ex mediis duabus BEDC, pu (quod vocatur a nonnullis parabola cubica) sintque date due recte R et S, oporteatque invenire inter R et S duas medias proportionales; hoc modo fiet. Fiat ut R ad S, ita BC ad aliam, BF; tum ducatur F E parallela B A, secans lineam curvam in E; deinde per E ducatur G H parallela et zqualis recte A D, secans diagonalem BD in I; eritque inter GH et GE duarum mediarum maxima GI, ex descriptione figurz tradita artic. 4. Si fiat igitur ut GH ad GI, ita R ad aliam, T, erit T duarum mediarum inter R et S maxima. Itaque 8j rursus fiat ut R ad T, ita T ad aliam, X, factum erit quod propositum fuit.
+
+Eodem modo si trilineum ex quatuor mediis descriptum sit, inveniri possunt medie proportionales quatuor ; et sic de ceeteris.
+
+[p. 227] DE RECTARUM LINEARUM XQUATIONE. 227
+
+CAPUT XVIII.
+
+DE RECTARUM ET PARABOLIFORMIUM LINEARUM JEQUATIONE. 1. Data lineg parabolicae equalem. exhibere rectam.—2. Date linee curve parabolastri primi, sive parabole cubiformis, rectam invenire equalem.—$. De rectis inveniendis caeteris ex genere parabolico curvis lineis equalibus methodus generalis, l. DAT linez parabolice vqualem exhibere PARS I. 18. Sitlinea parabolica data ABC (fig. 1) et in- Diis liem
+
+Tabolics equaventa diameter A D. Ducatur basis D C, et com- lem exhibere pleatur perellelogrammum ADCE, jungsturque AC, et divisa AD bifariam in F, ducatur FH sequalis et parallela recte D C, secans A C in K, et lineam parabolicam in O. Deinde inter FH et FO sumatur media proportionalis FP, ducanturque recte AO, AP et PC. Dico duas rectas AP et PC, simul sumptas, zquales esse lines parabolice A BO C.
+
+Nam linea A B O C, cum sit parabolica, generata est a concursu duorum motuum, altero uniformi ab A ad E, altero eodem tempore uniformiter accelerato a quiete in A ad D. Cum autem motus ab A ad E sit uniformis, potest A E repraesentare tempora utriusque motus; sit ergo À E tempus. Quare rectze in semiparabola ordinatz singule quzeque designabunt partem temporis in qua corpus, quod describit. lineam A BO C, est in unoquogue ipsius puncto ; ita ut quemadmodum, in fine temporis AE vel DOC, corpus illud est in C, ita in fine temporis FO, erit in O. Et quoniam velocitas in AD crescit uniformiter, id est in ratione temporum, esdem
+
+[p. 228] 18.
+
+Date linem. sibollcn mqua- lem exhibere Tectam,
+
+
+ordinate in semiparabola designabunt perpetua incrementa impetus, donec fiat maximus: qui maximus impetus designatur a base DC. Itaque supposito quod motus sit uniformis, corpus quod est in A, tempore F K, propter concursum duorum motuum uniformium in AF et FK, movebitur uniformiter in AK. Et KO erit incrementum impetus vel velocitatis acquisiti tempore FK ; et AO describetur uniformiter a concursu duorum motuum uniformium per A F et FO, in tempore FO. A puncto O ducatur OL parallela rectze EC, secans AC inL; et L N parallela D C, secans EC in N, et lineam parabolicam in M, et produeatur ex altera parte ad AD in I; eruntque IN, IM, et LL, per constructionem parabolsze, in ratione continua, et zequales tribus rectis F H, F P, et FO, singule singulis; et recta, quz sit recte E C parallela transiens per M, incidet in P, et proinde OP erit incrementum impetus acquisiti tempore FO vel IL. Postremo producatur PM ad CD in Q, eritque QC vel MN vel PH incrementum impetus proportionale tempori FP vel IM vel D Q. Supponitur jam motus uniformis ab H ad C, in tempore P H. Quoniam ergo in tempore FP, motu uniformi, et impetu crescente in ratione temporum, describitur recta A P, et reliquo tempore et. impetu, nimirum tempore et impetu P H, describitur CP uniformiter, sequitur totam lineam APC descriptam esse impetu toto, et tempore eodem in quo describitur linea parabolica AB C. Quare linea A P C, composita ex duabus rectis A P et PC, equalis est linee parabolice A BC. Inventa est ergo recta zqualis curve linee semiparabole. Quod erat faciendum.
+
+[p. 229] DE RECTARUM LINEARUM EQUATIONE. 229
+
+2. Linez curve parabolastri primi, sive para- PARS HI bole cubicz, invenire zequalem rectam. —— Sit ABC (fig. 2) linea curva semiparabolastri Dm teh primi; AD diameter; D C basis; compleaturque dre ehe parallelogrammum ADCE, cujus diagonalis sit cubiformis reo- AC. Secetur diameter bifariam in F, ducaturque rana ire FH sequalis et parallela D C, secans A C in K, et curvam in O, et rectam EC in H. Deinde ducatur OL parallela E C, secans.A C in L; ducaturque LN parallela basi D C, secans curvam in M, et EC in N, producaturque ex altera parte ad A D in I. Postremo, per punctum M ducatur PM Q  parallela et zequalis H C, secans F H in P, junganturque CP, AP, et AO. Dico duas rectas AP et PC, simul sumptas, zquales esse curve ABO C. Nam linea A B O C, cum sit linea curva semiparabolastri, generata est a concursu duorum motuum, altero uniformi ab A ad E, altero eodem tempore accelerato a quiete in A ad D, ita ut impetus crescat in ratione duplicata ejus secundum quam crescunt tempora, sive, quod idem est, longitudines transcurse sunt in ratione triplicata temporum quibus transcurruntur. Nam ut impetus sive velocitates crescunt, ita crescunt etiam transcurse longitudines. Et quoniam motus ab À ad E est uniformis, recta A E potest representare tempus, et, per consequens, recte ordinatim applicatze in semiparabolastro designabunt partes temporis, in quo corpus, incipiens a quiete in A, motu suo describit lineam ABO C. Et quia DC, que representat impetum acquisitum maximum, zequalis est ipsi A E, eedem ordinate representabunt singula incrementa impetus crescentis a quiete in A. Itaque si supponatur motus uniformis ab A ad F, in tempore F K describetur, a concursu duorum
+
+[p. 230] 18.
+
+Derectis inveniendis cm-
+
+
+motuum uniformium per AF et FK, linea AK uniformiter ; et K O erit incrementum impetus pro tempore; et per concursum duorum motuum uniformium per AF et FO, describetur lines AO uniformiter. Per punctum L ducatur recta LMN parallela D C, secans rectam AD in I, curvam A B Cin M, etrectam E C in N ; et per punctum M rectam PMQ parallelam et equalem A C, secans DCinQetFH in P. Itaque a concursu duorum motuum uniformium per AF et FP, in tempore FP describetur uniformiter recta AP. Et LM vel O P erit incrementum impetus addendum pro tempore FO. Et quia ratio IN ad IL triplicata est rationis I N ad I M, ratio F H ad FO erit etiam triplicata rationis FH ad FP; et impetus acquisitus tempore FP est PH; itsque cum FH sit sequalis D C, quee designabat impetum totum acceleratione acquisitum, nullum amplius impetus incrementum computandum est. Jam in tempore PH, si supponatur motus uniformis ab H ad C, describetur a duobus motibus per CH et HP uniformibus recta linea PC uniformiter. Cum ergo duz recte» A P et P C descripte sint tempore AE cum eodem incremento impetus, quo curva linea A BOC describitur eodem tempore A E, id est, cum linea composita a rectis A P, P C et linea ABO C transcursa sit ab eodem corpore eodem tempore et squali velocitate, ipse lineg erunt squales. Quod erat demonstrandum.
+
+3. Eadem methodo recta linea inveniri potest bei amp sequalis lines curve enjuscunque semiparabolastri, furis linis eorum quze disponuntur in tabella art. 3, cap. Xv11.;
+
+qualibus me-
+
+Seius ge nempe, secando diametrum bifariam, et procedendo ut ante.
+
+[p. 231] DE ANGULIS INCIDENTLE, ETC. 231
+
+CAPUT XIX.
+
+DE ANGULIS INCIDENTLE ET REFLEXIONIS JEQUALIBUS.
+
+1. Si dum recte incidentes in rectam sint parallele, etiam. relexz parallele erunt.— 2. Si ab eodem puneto exeuntes due recte incidant in rectam, reflexe earum producte in alteram partem concurrent in angulo, qui sit equalis angulo facto ab incidentibus. — 3. Si dus rectz parallele incidant in cireuli cireumferentiam, earum refexe producte introrsum facient angulum duplum ejus, qui fita rectis a centro ductis ad punota incidenti. — 4. Si ab eodem puncto dus rectz incidant in circumferentiam, earum reflexe productz introrsum facient angulum eequalem duplo angulo, qui ft a duabus rectis a centro ad puncta incidente, una cum angulo incidentium. 5. Si ab uno puncto incidant dus recte in concavam ireuli circumferentiam facientes angulum minorem duplo angulo ad centrum, earum reflexa: facient angulum, qui additus angulo incidentium, equalis flet duplo angulo ad centrum. —6. Si per unum aliquod punctum dum chorde ingquales ducantur mutuo se secantes, centrum autem circuli inter eas positum non sit; et earum reflexie concurrant ubicunque, non ducetur a puncto, unde priores duz ductee sunt, alia recta, cujus reflexa. transeat per duarum priorum reflexarum punctum commune. T. Idem in chordis equalibus non est verum. — 8. Datis in eireuli eireumferentia duobus punctis, ad ea puncta duas rectas ita ducere, ut earum reflexe datum contineant angulum. 9. Si recta incidens in circuli circumferentiam. producatur ad semidiametrum, sitque pars ejus intercepta inter circumferentiam et semidiametrum equalis parti semidiametri quee est a concursu ad centrum, erit reflexa semidiametro parallela. 10. Si a puncto intra circulum ducantur duce recte incidentes in eirculi cireumferentiam, quarum reflexz coeunt in ipsius circuli circumferentia angulus quem continent reflex erit tertia pars anguli quem continent incidentes.
+
+UrRuM corpus, incidens in corporis alterius superficiem et ab ea reflexum, angulos ad illam superficiem zequales efficiat, non est hujus loci
+
+[S
+
+[p. 232] 282 DE RATIONIBUS MOTUUM.
+
+PARSL disputare; cum dependeat cognitio illa a causis —-— reflexionis naturalibus, de quibus hactenus nihil dictum, sed postea dicendum est.
+
+Itaque hoc loco supponamus angulum incidentize angulo reflexionis esse zequalem, ut ejus rei non causas, sed consequentia aliqua investigemus.
+
+Angulum incidentie appellamus, quem facit recta incidens cum linea, sive recta sive curva, in quam incidit; angulum autem reflexionis, angulum ipsi zqualem ad idem punctum constitutum, et contentum sub recta reflexa et reflectente.
+
+Bdmune  l. Si due recte incidentes in eandem rectam eer sint parallele, etiam reflexe illarum parallele amríexe eTUht.
+
+piede Sint (in figura 1) parallelze incidentes in rectam. EF ad puncta B et D duz rectze AB, CD, quarum reflexe sint BG, DH. Dico BG, DH esse parallelas.
+
+Sunt enim anguli AB E, C D E zquales, propter parallelismum. His autem zquales sunt G B F, HDF, ex suppositione, cum sint incidentium reflexe, Sunt ergo B G, D H, parallelz.
+
+ELS 2. Si ab eodem puncto exeuntes duse rectm indae cidant in aliam rectam, reflexe earum productee in inrectam, re- alteram. partem concurrent in angulo, qui sit anchri gulo facto ab incidentibus zqualis. Ab eodem NenmpP puncto A (in fig. 2) exeant due recte A B, AD, rati» angi incidantque in rectam EK ad puncta B et D, Siiehes quarum reflex sint BI, DG. Dico IB, GD di- Wadi" vergere, easdemque ex altera parte productas concurrere, puta in F, atque angulum BF D equalem esse angulo BAD. Nam angulo incidente ABE sequalis est angulus reflexionis IBK, et huic squalis est angulus verticalis EBF. Est ergo
+
+[p. 233] engulus A B E qualis angulo E BF. Rursus an- PARSIUL gulus ADE «equalis est angulo reflexionis GDK, —-— hoc est, verticali ejus EDF. Itaque trianguli
+
+ABD duo anguli ABD, AD B sunt equales duobus angulis FB D, FDB trianguli FBD ; quare etiam angulus tertius BA D zequalis est angulo tertio BF D. Quod erat probandum.
+
+Coroll. r. Ducta AF erit recte EK perpendicularis. Nam propter zqualitatem angulorum ABE, FBE, et laterum A B, F B, erunt anguli ad E utrinque zequales.
+
+Coroll. rr. Si inter B et D cadat utcunque recta AC, cujus reflexa sit CH, illa quoque producta ex parte C cadet in F: eadem enim est demon-
+
+Stratio quz supra.
+
+3. Si in circuli cireumferentiam, a duobus punctis M Ehre extra circulum sumptis, incidant ab iisdem partibus ciàxtin cirevdus rectz parallele, earum reflex productte in- nes emen trorsum facient angulum duplum ejus, qui fit a relexeprduerectis a centro ductis ad puncta incidentim. Sint fient sgoenim (in fig. 3) duz rectze parallele A B, D C, quie du, qui 8t a incidant in circumferentiam BC ad puncta B etGemapac C. Centrum autem circuli sit E, reflectanturque '* 'ncidentie. AB per BF et DC per CG.  Producantur jam introrsum F B, GC, donec concurrant in H. Ducantur EB, EC. Dico angulum FH G duplum esse anguli BEC. Quoniam A B, D C sunt parallele et E B secat A B in B, eadem producta secabit DC alicubi; secet eam in D, et producatur DC utcunquein I. Angulus ergo I C H, triangulo CKH externus, erit equalis duobus angulis C K H,
+
+CHK; rursus ICE, triangulo CDE externus, zequalis est duobus angulis D et E; quare angulus ICH, qui duplus est anguli IC E, equalis est an-
+
+[p. 234] PARS gulis D et E bis sumptis. Sunt ergo duo anguli —-— CKH, CH K squales duobus angulis D et E bis sumptis. Sed angulus CK H zqualis est angulis D et A B D, id est, angulo D bis sumpto : nam cum AB, DC sint paralelle, anguli D et A B D sunt alterni, ideoque zquales. Quare C H K, hoc est, angulus FH G zqualis quoque est angulo E bis sumpto. Quod erat probandum.
+
+Coroll. Si dus recte paralelle incidant in circumferentiam a duobus punctis intra circulum sumptis, earum reflexee concurrent in angulo duplo ejus, qui fit a rectis ductis a centro ad puncta incidentis. Nam AB, IC parallele incidentes in puncta B et C, reflectuntur per BH et CH facientes angulum H, quem duplum esse anguli E jamjam (in fig. 3) ostensum est.
+
+Meterden 4. Si ab eodem puncto extra circulum duct Fetmincilant duse. recte incidant in circuli circumferentiam, Tentiam, e- earum reflexsze productze introrsum facient angulum 2 squalem duplo angulo, qui fit a duabus rectis buen ductis a centro ad puncta incidentie, una cum fgdem du. angulo quem faciunt ipsg incidentes. A puncto Word" A (in fig. 4) ad circumferentiam circuli, cujus Meri centrum est D, sint duct dum recte A B, AC, prefer quarum reflexee sint BE, CG, quz product: inimideniwm. trorsum faciant angulum H. Sint etiam ductze a centro D ad puncta incidentie B et C, dus recte DB,DC. Dico angulum H zqualem esse duplo angulo ad D, una cum angulo ad A. Producatur enim A C utcunque in I; erit angulus ICH, qui est externus triangulo C K H, equalis duobus angulis CKH, CHK. Rursus angulus ICD, qui est externus triangulo CL D, erit equalis duobus anguis CLD, CDL; sed angulus ICH duplus
+
+[p. 235] est anguli ICD, ergo erit zqualis angulis CLD, PABS Bt. CDL bissumptis. Sunt ergo anguli CK HL CHK — quales angulis CLD, CDL bis sumptis. Sed angulus CLD, externus triangulo A L B, qualis est duobus angulis LA B, LBA et proinde CLD bis sumptus zqualis LA B et LBA bis sumptis; quare CKH, CH K sequales sunt angulo CDL una cum LAB et LBA, bis sumptis. Angulus autem CKH zqualis est angulo LAB semel sumpto una cum ABK, hoc est, una cum LBA bis sumpto; quare angulus C H K squalis est reliquo CDL, hoc est, angulo ad D bis sumpto et angulo L A B, hoc est, angulo ad A semel sumpto. Quod erat probandum. Coroll. Si duze rectze convergentes, ut IC, MB incidant in circuli cireumferentiam ex parte concava, earum reflexe ut CH, BH concurrent in angulo H, qui sit equalis duplo angulo D una cum angulo A, quem faciunt incidentes producte. — Vel si incidentes sint H B, IC, quarum reflexe CH, BM concurrunt in N, erit angulus CN B zequalis angulo D bis sumpto una cum angulo incidentium. CKH. Nam angulus CNB zqualis est angulo H, hoc est, angulo D bis sumpto, una cum duobus angulis A, et NBH, hoc est, KBA; sed anguli KBA et À equales sunt angulo CKH ; est ergo angulus CN B szqualis angulo D bis sumpto una cum angulo CK H, quem faciunt incidentes I C, H B productze ad K. 5. Si ab uno puncto incidant duse recte in con- Sisb unopuncenvam cireuli cireumferentiam, facientes angulum i messer minorem duplo angulo ad centrum, earum reflex 7*2 irli cir-
+
+Miam, concurrentes facient angulum, qui additus angulo facientes angu- lum minorem ineidentium, zqualis fiet duplo angulo ad centrum. àoplo angulo,
+
+[p. 236] UE Nam a puncto A (in fig. 5) incidant duze recte —-— AB, AC in concavam circuli circumferentiam, ien, Cujus centrum est D ; sintque earum reflexee BE, m E, concurrentes in E; sitque angulus A minor [21-3 duplo angulo D. Dico angulos A et E simul squüs $e Sumptos cequales esse duplo angulo D. Secet enim diplo t^^ A B recta rectam DC in G; et recta EC rectam DB in H. Est ergo angulus B H C squalis duobus angulis EB H et E; idemque angulus BHC est sequalis duobus angulis Det D CH. — Similiter, angulus B G C equalis est duobus angulis A C D et. A ; idemque angulus B G C zqualis est angulis duobus DBG et D. Quare quatuor anguli EBH, E, ACD, A sunt equales quatuor angulis D, DCH, DBG, D. Jam auferantur utrinque :equalia, inde quidem. anguli EB H et ACD, hinc autem DCH, DBG (nam angulus E B H equalis est angulo D BG, et angulus À CD zqualis angulo D C H) ; restabunt utrinque eequalia, nempe, inde anguli A et E, hinc angulus D bis sumptus; sunt ergo anguli À et E. simul sumpti sequales duplo angulo D.
+
+Coroll. Siangulus A sit major duplo angulo D, earum reflexe divergent. Nam (per coroll. propos. 3) si angulus A sequalis sit duplo angulo D, reflex BE, CE erunt parallele ; sin minor, concurrent, ut jam ostensum est. Si ergo major, reflexee B E, C E divergent, et per consequens ex altera parte productz concurrent, facientes angulum tantum, quanto angulus A superat duplum:
+
+angulum D, ut constat ex articulo quarto. Sdanem 6. Si per unum aliquod punctum duz quzlibet Pee desie chorde inzquales ducantur, mutuo se secantes quales docan- Vel intra vel (productz) extra circulum, centrum.
+
+eant ee. Bütem circuli inter eas positum non sit; et earum
+
+[p. 237] DE ANGULIS INCIDENTI, ETC. 237 reflexee concurrant ubicunque, non ducetur & PARéIII. puncto, unde priores ille dus ducts sunt, alia M recta cujus reflexa transeat per duarum priorum reat "iar reflexarum concursum. E ers Per punctum A (in fig. 6) ducantur duse chordze rm. tere quelibet BK, CH inzquales, in circulo B C. ubicunque, Sintque earum reflexe B D, CE, concurrentes (rgeniraqunn
+
+F. Circuli autem centrum non sit inter A B etre, due cte suut, A C. Ducatur autem ab A puncto alia recta qui- E mp» cunque incidens in circumferentiam inter B et C, rear per lusrum prio- quie sit AG. Dico G N, que transit per F, con- ram redercursum reflexarum BD, CE, non esse reflexam Po Pertam incidentis recte A G.  Sumatur arcus B L zqualis arcui BG, et recta B M equalis rectee A B, duc- taque LM producatur ad peripheriam in O.
+
+Quoniam jam B A, B M sunt zquales, et arcus BL areui BG zqualis, et angulus M BL angulo A BG zqualis, erunt quoque A G, M L equales, et producta G.A ad circumferentiam in I, tota LO toti GI zqualis. Sed LO major est quam GF N, (ut mox demonstrabitur), quare etiam GI major est quam GN. Itaque anguli N GC, IGB non sunt zquales, non est ergo GF N reflexa incidentis AG; et proinde recta nulla, preter A B, AO, ducta per punctum A, incidensque in peripheriam B C, reflectetur ad punctum F ; quod erat. ostendendum.
+
+Restat ut probemus L O majorem esse quam GN. Quod sic faciemus: LO, GN secant se mutuo in P, et PL major est quam P G. Quoniam ergo LP. PG:: P N, PO sunt proportionales, erunt due extreme LP, PO simul, id est, LO, majores quam PG, PN simul, id est, quam GN ; quod probandum restabat.
+
+[p. 238] PARSIIL — 7. Quod si per idem punctum intra circulum UE ducte sint dug chord: squales, quarum reflexze Fedele concurrunt in alio puncto, duci potest inter eas non est verum. glia recta per punctum prius, cujus reflexa transi- bit per punctum posterius. In circulo CD sit punctum A (in fig. 7) per quod sint ducte duz chordze zquales, BC, ED, quarum reflexe concurrentes in F sint CH, DI. Diviso deinde arcu C D bifariam in G, ducantur chorde, per A et F, GK, GL. Dico chorde KG reflexam esse GL. Nam quatuor chorde BC, CH, ED, DI sunt omnes, per hypothesin, inter se sequales, quare arcus BCH squalis est. arcai EDI; et angulus B C H angulo EDI ; et angulus A MG verticali suo FMD; et recta DM recte GM ; et propterea etiam recta AG recte FD; ducte etiam chorde CG, GD sunt equales ; et. anguli FD G, ACG qui sunt in segmentis GD I, BCG sunt equales; quare recte F G, AG sunt sequales; ergo angulus F G D szqualis est. angulo AGC, id est, angulus incidentie angulo reflexionis; est ergo recte incidentis K G reflexa GL: quod erat probandum. Coroll Manifestum est ex ipsa figure inspectione, quod si G non sit punctum medium inter C et D, reflexam G L non esse transituram per F. Disiémd 8. Datis in circuli circumferentia duobus puncücboa nct, tis, ita ad ea puncta duas rectas ducere, ut earum. MoSIUSAreflexw sint parallele, vel ut contineant datum ducere, st e- gngulum. datumceonine- Detur (in fig. 8) circulus cujus centrum A, et * in cujus circumferentia sint duo puncta B et C, sitque imperatum duas incidentes ad puncta B et
+
+[p. 239] DE ANGULIS INCIDENTLE, ETC. 239
+
+C ita ducere a punctis extra circulum sumptis, ut PARSUL earum reflexe primo sint parallele. —— Ducantur A B, A C, et incidens utcunque D C, Dséris cii cujus reflexa sit C F. Tum fiat angulus E C D duobus, etc. duplus anguli A. Parallela autem recte E C ducatur H B, qui producatur ad occursum D C producte in I. Postremo producta A B utcunque in K, ducatur G B, ita ut angulus G B K equalis sit. angulo H B K, eritque G B reflexa incidentis H B. Dico jam D C, H B esse incidentes, quarum reflexze CF, BG sunt inter se parallelz. Quoniam enim E C D angulus anguli BA C est. duplus, angulus HIC ejusdem anguli BAC, propter parallelas EC, H'B, duplus erit; quare FC, GB, reflexe incidentium D C, HB, sunt parallele. Factum igitur est quod erat imperatum primum. Secundo, imperatum sit duas rectas ita ad puncta B et C incidentes ducere, ut reflex:e earum contineant datum angulum Z. Angulo E CD addatur hinc D CL equalis semissi anguli Z, illinc angulus ECM zqualis angulo D C L, et rectee C M ducatur recta BN parallela; anguloque N BK «equalis fiat angulis KBO; eritque BO incidents NB reflexa. Postremo, incidentis L C ducatur reflexa CO, secans BO in O, faciensque angulum CO B. Dico angulum CO B squalem esse angulo Z. Producatur N B donec occurrat producte L C in
+
+### P. Quoniam ergo angulus L C M zqualis est, per
+
+constructionem, duplo angulo A una cum angulo Z, angulus N PL, qui angulo L C M propter M C, NP parallelas :equalis est, zqualis quoque erit duplo angulo À una cum angulo Z. Cumque due rectz O C, O B ductz ab O, incidant in B et C, et
+
+[p. 240] PARS HII. reflexee earum LC, N B concurrant in P, angulus
+
+—-—— NPLzqualis erit duplo angulo A una cum angulo COB. Sed ostensum modo est angulum NPL sequalem esse duplo angulo A una cum angulo Z. Quareangulus COB angulo Z zqualis est. Datis ergo in circumferentia circuli duobus punctis, etc. Quod erat faciendum.
+
+Quod si incidentes ita ducendzsunt a puncto intra circulum, ut reflexee earum contineant angulum datum Z, eadem utemur methodo, nisi quod angulus Z non jam angulo duplo anguli A addendus sit, sed ab eo auferendus.
+
+Si reta ini- — 9. Si recta incidens in circuli circumferentiam poto producatur ad semidiametrum, sitque pars ejus Ham pede" intercepta inter circumferentiam et semidiametrum metum, éitqve equalis parti semidiametri quse est a puncto conpars ejos inter- : : Á cepta inter cir- cursus ad centrum, erit reflexa ejus semidiametro eumferentiam. parallela. peü tua.  Sitcireulus cujus centrum A (in fig. 9) semimesi qw» et diameter quiecunque A B, incidatque in circumsenrum, erit. ferentiam BD recta CD, quz protracta secet A B iue mul in E, ita ut ED, EA sint quales; incidentis Iris. autem CD reflexa sit DF. Dico A B, DF esse parallelas.
+
+Ducatur AG per punctum D. Quoniam jam ED, E A sunt sequales, erunt anguli EDA, EAD sequales; sunt autem anguli FDG, EDA zquales ; uterque enim dimidium est anguli EDH vel FDC; sunt ergo anguli FDG, EAD zquales, et proinde DF et AB sunt parallele. Quod erat probandum.
+
+Coroll. Si E A major sit quam ED, tunc DF, AB protracte concurrent; sin EA minor sit quam E D, tunc B A, D H protracte concurrent.
+
+[p. 241] DE ANGULIS INCIDENTL&, ETC. 2a1
+
+10. Si & puncto intra circulum ducantur dum Were recte incidentes in circuli cireumferentiam, qua- ——-— rum reflexze coeunt in ipsa circuli circumferentia, Sis puneioin- angulus, quem continent reflexz, erit tertia pars dacantur dum " * "me" rectm incidenanguli quem continent incidentes. tes in circuli
+
+In circulo cujus centrum A, (fig. 10) sit punc- io qoum tum B, a quo ducantur dus rect: B C, B D ad refexe coeunt.
+
+circumferentiam, quarum reflex C E, D E coeunt irent in circumferentia ad punctum E. Dico angulum PES
+
+CEED esseanguli C B D partem tertiam. s.
+
+Ducantur AC, AD. Quoniam jam anguli C E D, ssemcontinent incidentes,
+
+CBD simul sumpti, equales sunt duplo C A D, "ut ostentum est (art. 5) ; duplus autem angulus CA D quadruplus est anguli C ED ; erunt anguli CED, CBD simul sumpti quales angulo CED quater sumpto. Dempto igitur utrinque angulo CED, restabunt equales anguli C B D, et CED ter sumptus; est ergo angulus CBD anguli CED triplus, id est, CED est tertia pars anguli CBD; quod erat demonstrandum.
+
+Coroll. Dato ergo puncto in plano circuli, duse rectm ab eo ita duci possunt ad circumferentiam ejus, ut earum reflex: concurrant etiam in circumferentia. Fit enim hoc, anguli C BD trisectione. Quomodo autem datus angulus trisecatur, demonstrabitur capite proxime sequente.
+
+vOL tk R
+
+[p. 242] Propositio 1.
+
+
+CAPUT XX.
+
+DE DIMENSIONE CIRCULI; ET ARCUUM SIVE ANGULORUM SECTIONE.
+
+Pnorosrri0 L—Quarum partium squalium radius circuli continet 10,000,000, earundem tangens arcus 30 graduum continet 5,811,704 proxime. Sit radius circuli AB; quadratum ejus ABCD; cujus latera B C, AD sint divisa bifariam in O et
+
+### P. Describatur semicirculus B DG, quem juncta
+
+O P secet in S, et producta, iterum in V ; est ergo areus BS 30 graduum. A puncto À in B A producta sumatur AX recte SV zqualis. Est ergo AX sequalis duplo sinui recto 60 graduum. — Ergo ducta X V est equalis radio A B; eademque producta incidet in D; et X D est zqualis duplo radio AB; et angulus A X D est tertia pars recti. Producatur X D donec occurrat rect: B C product inF. Erit ergo angulus CD F tertia pars recti; et recta CF tangens arcus 30 graduum. — Ergo juncta AS et producta ad B C in E, erit B E equalis C F, et EF squalis radio BC. Dico BE sive CF continere partes 5,811,704 proxime, quarum AB continet 10,000,000. Quoniam X D est dupla A D, erit XF dupla BF. Et quadratum ab X F quadruplum quadrati a BF. Et proinde quadratum ab XB triplum quadrati & BF.  Quadratum a sinu recto 60 graduum triplum est quadrati a semiradio AP vel BO. Ergo quadratum a duplo sinu recto 60 graduum, id est, quadratum ab X A duodecuplum. est quadrati a BO. — Quadratum autem ab AB
+
+[p. 243] quadruplum est quadrati ab eadem BO. Ergo ambo illa quadrata ab X A et A B simul sumpta sunt equalia 16 quadratis a BO. Medium autem proportionale inter duodecim quadrata (qus est potestas rectee X A) et quatuor quadrata ejusdem BO (quz est potestas radii A B) est radix numeri producti à 12 in 4, id est / 48; idemque zquale uni complementorum quadrati descripti a tota X A -* AB. Ergo ambo complementa simul sumpta sunt, 192. Radix autem numeri 192 est 13 $$ proxime. Ergo 12 -- 4 -- 13 45, id est 30 fere, (per Eucl. El. 2, prop. 4) est zquale quadrato ab X B. Nam si pro 192 habuissemus 196, fuissent duo complementa 14; et sic quadratum ab X B fuisset zequale 30 quadratis a BO; et quadratum a BF zquale 10 quadratis a BO precise. Est ergo quadratum a BF (id est a radio et tangente 30 graduum, ut ab una linea) zquale decem quadratis a BO proxime. Sed A B est 10,000,000; ergo BO est 5,000,000; quadratum & BO est 25,000,000,000,000 ; decem quadrata a BO sunt 250,000,000,000,000 ; cujus radix est 15,811,704 proxime. Sed B C sive F E est 10,000,000 ; ergo CF sive tangens arcus 30 graduum, est 5,811,704 proxime. Quod erat demonstrandum. Manifestum hinc est quod numerus 5,773,503, qui ponitur in tabulis tangentium pro tangente arcus 30 graduum, est falsus, nimirum justo minor partibus 38,201,quarum radius continet 10,000,000. Causa erroris est, non quod numeros non recte supputaverint, sed quod numerus in lineas multiplicatus nunquam producit idem, quod linea in totidem lineas ducta; quodque radix numeri quadrati nunquam latus est quadrete figurz, R2
+
+PARS HI.
+
+Propositio 1,
+
+[p. 244] Propositio 1.
+
+
+quantuseunque fiat numerus partium. Nam si diviseris lineam rectam, exempli causa, in tres partes squales, et eandem  maultiplicaveris per numerum 3, factum non erit quadratum, sed novem linee. Aut si diviseris illam in partes 10,000,000, productus ex illis partibus in 10,000,000 erit totidem linez, non totidem ex illis quadrata. Nam ut fiat rectangulum ex linea in numerum, oportet numerum esse infinitum.
+
+Item si numeri quadrati radicem extraxeris, debet radix illa multiplicata in se zequalis esse suo quadrato. Siergo a quadrato 9 extraxeris radicem, quz est 3, faciet 3 multiplicatus in se numerum 9 ; eritque radix tertia pars sui quadrati. Etsimiliter in omni extractione radicis e numero, radix erit quadrati sui pars aliquota ; sed latus sui quadrati nullo modo potest esse pars. Ceterum si latitudinem lateri attribuas, ut sit non proprie linea, sed exiguum rectangulum ; tunc potest numerus laterum, quanquam finitus, facere quadratum ; sed quanto major est numerus, tento quadrata ex partibus numeratis erunt minora. Radix autem est numerus quadratorum.
+
+Jam tangentem arcus 30 graduum, qui est B S, et cujus sinus rectus est eS, zqualis semiradio BO, sic investigant. Quoniam, aiunt, ut A e ad AB, ita est eS ad tangentem BE; et est Ae 8,660,254 et A B 10,000,000 et eS 5,000,000; multiplicatis 10,000,000 per 5,000,000, et producto 50,000,000,000,000 diviso per 8,660,254, quotiens 5,773,503 erittangensarcus B E. Nec animadvertunt quod, cum 50,000,000,000,000, qui numerus dividitur, sit tot lineolze, divisor tamen 8,660,254 sit totidem ex illis lineolis quadrata, et quod proinde
+
+[p. 245] DE DIMENSIONE CIRCULI. 245 necessarium sit ut numerus partium 5,773,503 sit. PARS III.
+
+minor justo. Quod siex quadratis ab X A et AB. —— geometrice cognitis quzrantur quadrata totius Peeio 1.
+
+X B et BF, que duo quadrata habent rationem 3 ad 1, unica extractione radicis innotuisset numerus debitus recte CF sive B E, absque regula trium, et proinde absque divisione numeri linearum per numerum ab iisdem lineis quadratorum. Atque hinc est, quod numerus rect: B E hoc modo in- ventus, nempe 5,811,704 major sit quam quem illi invenerunt 5,773,503, et propior veritati, quanquam et ipse sit paulo adhuc justo minor. Itaque etiam
+
+Archimedis dimensio circuli, que dependet a priore illo calculo, justo minor est; neque valere debet ad confutandum calculum geometricum, quo perimeter circuli major forte invenietur quam ab illo statuitur. PnorosrrIO IL—Recta B F, composita a radio Propositio 2.
+
+circuli et tangente arcus 30 graduum, est zequalis quarte parti perimetri ejusdem circuli. Si eS producatur donec occurrat recte X F in , erit ef tripla eS. Ducta ergo X S abscindit ab e tertiam ejus partem, nempe e$; eademque pro- ducta ad BC in i abscindit B i, propter ef, BF parallelas, tertiam partem recte BF.  Secetur recta e S bifariam in a, et arcus BS bifariam in p ;
+
+ducaturque sinus arcus B p, qui sinus sit g p; erit- que g p semissis chordg arcus dupli, id est, arcus
+
+BS. Producatur g p in y, ita ut q y sit dupla gp, secetque SO in r. Ducatur quoque «» parallela etzqualis eg. Si jam producta X « incidat in p, erit qy equalis chordz arcus BS; eademque pro- ducta, donec incidat in X F ad s, erit gs tripla 9 y, et sextupla gp. Sed Xa producta incidit in p.
+
+Quodsic ostendo. Nisi incidat in p, incidet saltem
+
+[p. 246] 246 DE RATIONIBUS MOTUUM.
+
+PARSIL in arcum BS inter B et p, vel inter p et 8; et —ÓS sinus arcus, quem abscindet, minor vel major erit Prpeiie? quam dimidia chorda arcus BS; idemque sinus productus, donec secet rectam X i, major vel minor erit quam chorda arcus BS sive quam recta g y. Ergo Xi non potest abscindere parallelam recte eS squalem chorde arcus BS, nisi parallela illa transeat per p. Est ergo punctum y in recta X i. Et X a incidit in p; et ry dupla est » p. Item qx est sextupla g p, minor tamen quam arcus BL D, qui est sextuplus arcus Bp. Similiter, si secetur £a bifariam in g, et arcus B p bifariam in o, ostendi potest ductam X g et productam incidere ino; et co sinum arcus Bo duplicatum terminari in producta X p; idemque contingere perpetuo bisecando tum arcus tum sinus ex bisectione ortos; et producta c o ad X f in £, esse c / duodecuplam co, minorem tamen quam est arcus BL D, qui est duodecuplus arcus Bo. — Similiter ostendi potest quod, bisecando perpetuo tum arcus tum Sinus abscissos, recte quse transeunt per puncta bisectionum arcuum terminanturque in rectis X B, XF, erunt ad arcum BLD, uttot sinus ad totidem arcus. Non potest ergo recta BF major esse quam arcus BL D, qui arcus est quarta pars perimetri. Quod si minor sit recta BF quam arcus B D, erit illa recta, quz arcui B D est zequalis, parallela quidem ipsi B F et intercepta a rectis X B, X F, sed productis: Unde sequetur, quod arcu B D diviso in partes aliquotas quot fieri possunt, id est, numero infinitas, chordz ille in unam rectam composite minores semper erunt arcu ipso BD. Quod verum non est; quia per divisionem perpetuam differentia inter arcus et chordas omnis
+
+[p. 247] evanescit. Ergo BF neque major neque minor est PARS!IL arcu BD, sed ipsi zqualis Quod erat demon- -— Strandum.
+
+Pnorosrrio IIL.—Ducta XP et producta in- Propoitio 3. Cidet in L, ubi arcus BD divisus est bifariam. A puncto X, in recta X F, sumatur X & :equalis duple diagonali AC ; et & puncto À ducatur hb parallela BF, secans AB, AS, CD in 5, & I Erit ergo X À dupla 5 À; et proinde 54 zqualis diagonali A C. Quadratum autem ab X & ad quadratum a bÀ erit ut 4 ad 1, et ad quadratum ab X 5 ut 4 ad 3. Sed quadratum ab AC squale est S quadratis a semiradio. Ergo quadratum ab X 4, dupla A C, zquale est 32 quadratis a semiradio. Et quadratum a bÀ szquale 8 quadratis a semiradio; et quadratum ab X 5 squale 24 quadratis a semiradio. Et b secabitur bifariam ab XP producta. Itaquesi 5 À transit per L, quee 5 L est. semidiagonalis, etiam X P transibit per L. Sin b h non transit per L, quia tamen 57 est :qualis AL et b À zqualis AC, erit 2& squalis LC. A puncto L ducatur L» perpendicularis ad BC. Quoniam ergo quadratum ab L C sequale est duobus quadratis ab Lm, etiam 7h, quz est sequalis LC, potest duo quadrata ab eadem Lm. Rursus, ducta Ld perpendiculari ad CD, et. propterea sequali L s sive C d, quadratum ab 4 C sequale erit. tribus quadratis a Cd. Ergo angulus hd C erit rectus. Sed AIC est rectus. Ergo / et d sunt idem punctum. "Transit ergo 57 per punctum L. Quare producta XP transit per L. Quod erat demonstrandum. Sequitur hinc quadratum ab Xb swquale esse 24 quadratis a semiradio. Sequitur secundo L£ zqualem esse L4 sive Lm.
+
+[p. 248] Propositio $.
+
+
+Nam AE, DF sunt parallelz et equales; quare et EF,khsuntzquales. Sed EF est:equalis radio ; ergo etiam & ^ est sequalis radio, et per consequens bk :equalis / À, et Lk zqualis L7. Sequitur tertio
+
+.e88e ut radius A B ad tangentem 30 graduum,
+
+Propoitio 4.
+
+nempe BE, ita esse semidiagonalem A5 ad tangentem graduum 221; nam 5k, /À, L C singule sunt zquales tangenti arcus graduum 224. Si ducantur alie recte terminate in X B et X F, et parallele BF, inter b À et AD, recta ducta ab X secabit illas omnes in easdem rationes, sed non et arcum LD; quia sicut latus B C respondet. arcui BL, ita latus DC respondet arcui DL. Itaque ut arcus D L secetur in easdem rationes cum parte lateris D C sibi equali, producendum est. D A donec zquale sit ipsi B X ; et recte ductee a termino lateris DA sic producti secabunt arcum DL et partem lateris DC ipsi qualem in rationes easdem.
+
+PnoPosrTi0 IV.—Ex eo autem quod modo ostensum est, quod quadratum a recta X 5 quale est 24 quadratis a semiradio, demonstrari potest calculum arithmeticum producere quantitatem justo minorem. Cum enim quadratum ab X A sequale sit 12 quadratis semiradii, et quadratum ab Ab swquale 2 quadratis a semiradio, erunt ambo quadrata illa simu] sumpta zqualia 14 quadratis a semiradio. Sed medium proportionale inter 12 quadrata et 2 quadrata est ^24, idemque sequale uni complementorum ad quadratum totius X A -- Ab. Ergo ^96 est sequale complemento duplo. Quadratum autem ab X A plus quadratum ab A 5 plus duplum complementum est zquale quadrato a tota X 5, per Euclid. Elem. ri. Prop. 4. Jam ^ 96, dupla existens ^/ 24, est 9 4 proxime. Ergo
+
+[p. 249] 12-2 * 9 y :quatur 23 y, quod minus est quam bora n. 24; et per consequens producit caleulus arithme- —:— ticus quantitatem justo minorem. Quod erat demonstrandum. Constat hinc quod calculus arithmeticus ab examinatione problematum geometricorum arceri debeat.
+
+Pnorosrrio V.—Radius circuli est media pro- Propoeitio 5. portionalis inter arcum quadrantis et ejusdem arcus duas quintas. Jungatur AF secans latus CDinH. Quoniam ergo triangula A BF, ADH sunt similia, erit ut B F ad A B, sive AD, ita AD ad DH. Itaque cum BF sit zqualis arcui quadrantis BD, erit AD media proportionalis inter arcum BD et rectam DH.  Probandum ergo est DH zquari 4 recte BF. Secentur latera A B, DC bifariam in M et N, et ducta MN producatur ad T, ita ut MT sit zqualis tribus semiradiis. Ducatur BT secans BD arcum in R, et G R secans MN in Q. Potest ergo TB 10 semiradios, et proinde zqualis est recte BF. Et est angulus GRB, in semicirculo, rectus. "Triangulis autem rectangulis GR B, TM B angulus ad B est communis; quare triangula illa sunt similia; et quia TM, GM sunt zquales, triangula TM B, GMQ sunt similia et zqualia. Ergo BM, QM sunt squales, e£ QT squalis radio. lisdem autem triangulis similibus simile est triangulum TR Q. Et quia MB est tertia pars MT, etiam RQ est tertia pars R T, et BR tertia pars GR; et ut TQ ad GB, ita est QR ad BR. Est ergo BR dupla RQ. Quoniam ergo TR est tripla R Q, erit tota TBadBRut5ad2. Est ergo B R dus quintze totius TB. Quoniam autem est ut TB ad MB semiradium, ita radius T Q ad QR dimidiam B R,
+
+[p. 250] Propositio 6.
+
+
+erit ut TB ad duplam M B sive radium, ita TQ. radius ad duplam RQ, id est, ad BR. Est ergo radius TQ. media proportionalis inter arcum quadrantis et B R, et proinde B R, D H sunt equales, et DH squalis duabus quintis arcus. BD. Quod erat demonstrandum.
+
+Pnorosrrio VI.—Manifestum est ex modo demonstratis, quo pacto date rectz arcus squalis, et dato arcui recta sequalis inveniri potest ; et per consequens, quomodo arcus datus in ratione data potest dividi. Nam a puncto B, sumpta recta in BC non majore quam dimidia B F, si a termino ejus ducatur linea recta ad X, illa abscindet a BL partem ejus recte qus. sumitur in B C zqualem. Item a puncto B, si in arcu BL sumatur arcus aliquis, et per terminum ejus ducatur recta ab X et producatur ad latus B C, illa abscindet in BC rectam arcui illi &qualem; id quod, bisecando arcum et sinum bisegmenti cujusque duplicando, eadem methodo, qua tota B F ostensa est esse toti arcui BC squalis, ostendi potest. Quare arcus non major quam B L dividi potest, eo modo quo diximus, in ratione data. Quod si arcus major sit quam arcus 45 graduum, poterit tamen eadem methodo dividi pars ejus aliquota, in ratione data, id quod tantundem valet. Inventa est ergo methodus dividendi arcum vel angulum datum in ratione data.
+
+MaaNiTUDO ARCUS BD ALITER DEMONSTRATA.
+
+Recta composita a radio circuli et tangente arcus 30 graduum, est equalis quarte parti perimetri ejusdem circuli. Sit ABCD quadratum; AC diagonalis; arcus B LD quadrans, sectus bifariam inL. Sintlatera BC, A D divisa bifariam in O et
+
+[p. 251] P, et OP ducta et producta secet arcum B D in S, PARS TIT. et arcum DG quadrantem reliquum in V. Est —— ergo arcus BS tertia pars quadrantis BL D. Et Presto 6. ducta DV equalis radio A B, eademque producta ad BA productam in X, erit equalis diametro BG. Et producta X D ad B C productam in F, erit BF composita ex B C radio et CF tangente arcus 30 graduum. Dico BF squalem esse arcui BD. Jungatur A S et producatur ad BC in E. Erunt ergo A E, DF parallelz et equales, et E F equalis radio BC; et AX equalis SV sive duple PS. Per punctum S ducatur recta ef secans A B ín e, et DF inf; eritque ef tripla semiradii e S. Est autem A X dupla Ae. Jungatur XS. Ergo XS dividit ef. in ratione 1 ad 2. Ergo eadem XS producta ad BF in i secat BF ad i in ratione lad 2. Jam si BF non sit zqualis arcui BD, erit illo vel major vel minor. Sit primo major. Ducatur ergo a & parallela B F secans A B in a et XFinw. Sitque a v :qualis, si fieri potest, arcui BD; secetque arcum BD in n. Deinde bisecetur arcus BD toties, ut bisegmentum ultimum Bo minus sit quam semissis arcus B»; cujus sinus rectus est co.  Producatur c o ad X F in /, jungaturque X o, secans ef'in g. Quoties ergo e g est in ef, toties est co, sinus arcus Bo, in recta c£; ettoties ipse arcus Bo in arcu BD. Sed co est minor arcu Bo, ergo tota c£ minor est arcu BD, id est, minor recta av. Quod est absurdum. Non est ergo BF major quam arcus BD. Minorem autem esse non potest, ut ante ostensum est. Sunt ergo recta B F et arcus B D qualis.
+
+Capite sexto disserens de methodo, id quod Amipi e de analytica geometrarum illo loco dicendum erat, "^edsesit.
+
+[p. 252] 252 DE RATIONIBUS MOTUUM.
+
+PARA UT. quia, cum ibi essem, de lineis, superficiebus, solidis,
+
+EL sequali, ineequali nondum mentionem feceram nec
+
+Anisasnia, proinde intelligi poteram, visum est aliquantisper differre; itaque id quod de ea sentio dicam hoc loco. Analysis ergo est, ex terminorum alicujus dicti, quod pro vero supponimus, definitionibus, et rursus ex terminorum illarum definitionum defi- mitionibus ratiocinatio perpetua, donec ad nota aliqua ventum sit, quorum compositio est veritatis vel falsitatis dicti suppositi demonstratio. Atque ea ipsa compositio sive demonstratio id ipsum est, quod appellatur synthesis. nalytica itaque est, ars ratiocinandi a supposito ad principia, id est, ad propositiones primas vel ex primis demonstratas, quot sufficiunt ad suppositi veritatem vel falsitatem demonstrandam : synthetica autem, ars ipsa demonstrandi.
+
+Synthesis ergo et analysis aliter quam ut prorsum et retrorsum non differunt; utramque autem comprehendit logistica. Itaque in quzestionis seu problematis cujuscunque analysi et synthesi, terminos oportet omnium propositionum esse convertibiles, vel si hypothetice enuncietur, non modo ex veritate antecedentis veritatem consequentis, sed et contra ex veritate consequentis antecedentis veritatem inferri necesse est. Alioqui, quando resolvendo ventum est ad principia, nullus componendo recursus fiet ad quesitum. Nam qui in analysi priores, in synthesi termini posteriores erunt. Ut quando dicimus resolvendo, rectangula hec squalia sunt, ergo eorum latera reciproce proportionalia sunt: componendo, dicere necessarium erit, latera hiec reciproce sunt proportionalia, ergo et rectangula ipsa inter se zequalia; id quod
+
+[p. 253] dici non posset, nisi habere latera reciproce pro- PADSTIL ortionalia et rectangula esse cqualia termini — essent convertibiles. iin quid. In omni autem analysi duarum quantitatum, ratio queritur per quam quesita quantitas ad sensum, descripta figura, exponi potest. Nam expositio illa finis est et solutio qusstionis sive problematis constructio. Et quoniam analysis est. ratiocinatio a supposito ad principia, id est, ad definitiones vel ad theoremata prius nota, eademque ratiocinatio tendat ultimo ad aliquam sequationem, finis resolvendi nullus est, donec ad ipsas zqualitatis et inzqualitatis causas vel ad theoremata ex ilis causis ante demonstrata, eaque ad qusesiti demonstrationem satis multa, deveniatur. : Quoniam autem finis analyticee constructio est problematis possibilis vel detectio impossibilitatis, oportet analystam, si problema sit possibile, non ante consistere quam pervenerit ad ea in quibus continetur causa efficiens ejus quod construendum est. Consistere autem in propositionibus primis necessarium est; ez autem definitiones sunt. In iis ergo definitionibus contineri debet causa efficiens constructionis ; constructionis, inquam, non conclusionis demonstrate. Nam conclusionis quidem causa continetur in premissis propositionibus, id est, veritas dicti probati inest in dictis que probant. Cause autem constructionis est in ipsis rebus, et consistit in motu vel concursu motuum. Propositiones ergo, in quibus desinit analysis, definitiones sunt, sed tales quibus significatur modus, quo res ipsa construitur sive generatur Nam alioqui, revertendo per synthesin ad problema probandum, nulla erit demonstratio. Demonstra-
+
+[p. 254] red tio enim non est, qui non est scientifica. Scien- —— tifica autem non est, nisi quz ex cognitione procedit miis nii Causarum quibus constructio problematis efficitur. Itaque ut colligamus quze dicta sunt in brevissimum compendium, analysis est ratiocinatio a supposito constructo vel facto ad facti sive constructi causam efficientem vel multas coefficientes. Ut et. synthesis ratiocinatio est a causis primis constructionis per media ad ipsum factum perpetua. Sed quoniam multi modi sunt quibus eadem res generari sive problema construi possit, non omnes geometre, nec idem geometra semper, eadem methodo usi sunt. Nam si imperetur date cuidam quantitati aliam construere sequalem, quseret aliquis 'an id fieri possit fingendo motum aliquem. Nam ex motu et tempore argui potest squalitas et insequalitas quarundam quantitatum, non minus quam per congruentiam: et potest aliquo motu fieri, ut duse quantitates sive linese sive superficies, etsi altera recta altera curva sit, per extensionem congruant et coincidant; qua methodo usus est Archimedesinspiralibus. Etiam ex consideratione ponderum, sequalitas insqualitasve inveniri et demonstrari potest; ut fecit idem Archimedes in quadratura parabole. Preterea sequalitas et insequalitas invenitur seepenumero ex sectione utriusque quantitatis in partes quas considerant ut indivisibiles, ut fecit nostris temporibus Cavalerius Bonaventura, et idem Archimedes in multis locis. Idem denique fit considerando linearum potestates vel potestatum latera, per multiplicationem, divisionem, additionem, subtractionem, et laterum e potestatibus extractionem, vel inveniendo ubi terminantur recte ejusdem rationis. Exempli causa,
+
+[p. 255] termini omnium rectarum, quotquot esse poasunt, PABP TU. ab aliqua linea recta ductarum et transeuntium -—— per idem punctum, si partes earum ab illo puncto pam arp sint in eadem ratione, desinent quoque in una linea recta; idemque accidit, puncto sumpto inter duos circulos; ita ut omnium istorum punctorum loci sunt vel recte line vel circumferentise circuli, et vocantur Joci plani; ut termini rectarum parallelarum ad eandem rectam applicatarum, cujus rectz, ad quam applicatze sunt, partes duplicatam habent rationem ejus, quam habent inter se contigue applicate, omnes eorum termini erunt in sectione conica, ea sectio ipsa eorum terminorum locus est, et dicitur solidus, quia servit ad eliciendam quantitatem zequationis constantis ex dimensionibus tribus. Itaque tres sunt modi quserendi causam sequalitatis vel inzquelitatis inter duas datas quantitates, nimirum, per computationem motuum, quia motu et tempore sequalibus zequalia describuntur spatia; ponderatio autem est motus : per indivisibilia, quia omnes simul partes zequantur toti: et per potestates, quia latera squalia sunt, quorum potestates sunt equales, et contra, potestates squales sunt quarum latera sunt squalia. Sed in nullo horum modorum certa statui regula potest, in quzstione aliquanto complicatiore, a quo potissimum ex ignotis supposito ordienda sit analysis; neque ex variis squationibus que ab initio sese produnt, quaenam potissimum sit eligenda; sed ingenio, scientie prius acquisitze, et partim etiam fortuns successus tribuendus est. Nam tantus quisque post est analysta, quantus erat ante geometra; neque regule analyseos faciunt [p. 256] ecd
+
+
+L geometram, sed synthesis incipiens ab i ipsis ele-
+
+—— mentis, et ad elementa accedens logicus ipsorum
+
+Analysis et.
+
+synthesis quid,
+
+, usus. Vera enim traditio geometrige est per synthesin, methodo quam docuit Euclides. Et qui Euclidem magistrum habet, geometra fieri potest sine Vieta (etsi Vieta erat geometra plane admirabilis); sed qui Vietam magistrum habet, sine Euclide non item.
+
+Analytice aütem ea pars, quee est per potestates, etsi quibusdam geometris, non illis ex prima classe, ad problemata omnia, quzcunque illa fuerint, solvenda idonea visa est, angusta tamen res est. Nam continetur omnis in doctrina rectangulorum et rectangulis contentorum solidorum; adeo ut etsi venerintadsquationem, quse quantitatem quzesitam determinat, in plano tamen eam quantitatem aliquando exhibere per artem non possunt, sed in sectione aliqua conica, id est, ut geometrze dicunt, non geometrice sed mechanice. Hujusmodi autem problemata solida appellant, et quando neque ope sectionis conicz exhibere eam possunt, problema appellant lineare. Itaque in quantitatibus angulorum et arcuum circuli, usus analyticee per potestates nullus est. Antiqui igitur sectiones angulorum, ultra bisectionem et bisegmentorum bisectiones, in plano nisi mechanice exhibere impossibile esse pronuntiarunt. Nam Pappus (ante propositionem 31, libri 1v.) distinguens et definiens genera problematum, alia quidem plama, alia solida, alia linearia appellari inquit. Que igitur ger rectas lineas et circuli circumferentiam solei possunt (id est, quse regula et circino, absque alio instrumento, describi possunt) merito dicuntur
+
+[p. 257] DE DIMENSIONE CIRCULI, ETC. 257 plana; lineg enim, per quas talia problemata inveniuntur, in plano ortum habent.  Quecunque vero solvuntur, assumpta in constructionem aliqua «oni sectione vel etiam pluribus, solida appellata eunt; quoniam ad constructionem, solidarum Jigurarum superficiebus videlicet conicis uti necessarium est. Relinquitur tertium genus quod lineare appellatur : linee enim alie preter jam dictas in constructionem assumuntur, c. Et paulo post, ex hoc genere sunt linec helices, et quadratrices, et conchoeides, et cissoeides. — Videtur autem non parvum peccatum esse apud geometras, cum problema planum per conica vel linearia ab aliquo invenitur. Ponit autem anguli trisectionem inter solida, et quinquisectionem inter linearia. Quid ergo? geometrez antiqui qui ad rectam inveniendam arcui circuli equalem, per quadraticem, et ipse Pappus, qui per hyperbolem invenit anguli datitrisectionem, an peccaverunt? minime. Nam utebantur antiqui analysi hac, per potestates; et quz per proximas fieri potuere, peccatum erat si facerent per remotiores; argumentum enim illud erat, quod rei naturam non satis intelligerent. Analytics per potestates virtus consistit in commutandis, versandis, vexandisque rectangulis et analogismis; et peritia analystarum logica est, qua quiequid in conclusionis quzsitee subjecto et predicato latitat, methodice inveniri possit. At symbolica, qua permulti hodie utuntur putantes esse analyticam, nec analytica est nec synthetica, sed calculationum arithmeticarum quidem vera, geometricarum autem falsa brachygraphia, ars quidem non docendi neque discendi geometriam, sed inventa geometrarum celeriter et compendio VOL. I. s
+
+PARS f.
+
+Analysia et. sytthesis quid.
+
+[p. 258] 258 . DE RATIONIBUS MOTUUM.
+
+PARSII. jn commentarios redigendi. Nam etsi inter pro-
+
+—— positiones longe dissitas, facilis sit per symbola discursus, an tamen is discursus, cum fiat sine ipsarum rerum ideis, valde utilis existimandus sit, certe nescio.
+
+CAPUT XXI. DE MOTU CIRCULARI.
+
+1. In motu simplice, quelibet recta linea in motu sumpta ita fertur ut vestigiis suis semper sit parallela. — 2. Si motus sit circularis circa centrum manens, et in circulo sit epicyclus, qui revolvitur in partes contrarias, ita ut equalibus temporibus quales fiant anguli, quelibet recta sumpta in epicyclo ita feretur ut vestigiis suis semper sit parallela. — 3. Motus simplicis proprietates. — 4. Si liquidum moveatur motu simplice circulari, puncta quilibet in eo sumpta describent circulos suos in temporibus, qui eunt in ratione distantiarum a centro. — 5. Motus simplex dissipat heterogenea, congregat homogenea.— 6. Si circulus & movente motu simplice moto deseriptus, circulo, quem describit punctum ab ipso circumactum, eset commensurabilis, redirent aliquando utriusque cireuli puncta ad eundem situm.— 7. Si sphera habeat motum simplicem, motus ejus ruagis dissipabit heterogenea, quanto remotior est a polis, — 8. Motui liquidi circulari simplici si obetat corpus non liquidum, flet motus expansionis per superfüciem, — 9. Motus ciroularis, circa centrum manens, imposita cireumferentie nec adherentia projicit per tangentem.— 10. Mota motu circulari simplice motum generant cireularem simplicem. — 11. Si id quod ita motum est, habeat. alteram partem duram, alteram fluidam, non erit motus ejus
+
+In motn dim. ]. MoruM circularem simplicem eum esse delice, qu Pix ines in finivimus, in quo singula puncta singulis tempori- morer 4^ bus zequalibus singulos arcus describunt zequales.
+
+[p. 259] DE MOTU CIRCULARI. 259
+
+Itaque in motu circulari simplice, necesse est ut PARS UT. quz in moto sumatur linea recta, ea feratur sibi —— semper parallela. Quod sic ostendo. Sit primo ;; E (in fig. 1) recta quilibet A B sumpta in quolibet *it perallela. corpore solido; et centro quolibet C, radio C A, ducatur arcus quilibet A D. Punctum autem B intelligatur describere ad easdem partes arcum BE, ipsi A D similem et zqualem. Quo tempore igitur punctum A percurrit arcum AD, eodem tempore punctum B percurret arcum B E, suppo- Sito nempe puncta A et B eadem moveri celeritate. Itaque in fine ejusdem temporis erit tota A B in DE. Sunt ergo A D, B E zquales. Cumque arcus AD, BE zquales sint, etiam subtense AD, BE recte zquales erunt. Est ergo quadrilaterum ABDE paralllogrammum. Fertur ergo AB sibimetipsi parallela. Idem probari potest eadem. methodo de quavis alia recta in eodem moto sumpta. Omnino igitur rectz linee sumptz in corpore, motu circulari et simplice circumlato, feruntur omnes sibimet ipsis parallelz.
+
+Coroll. 1. Manifestum etiam est contingere idem in quolibet simpliciter moto, etiamsi motus cireularis non sit. Nam lineze recte cujuslibet puncta singula describent lineas etsi non circulares, attamen zquales. Adeo ut si AD, BE curva, non essent arcus circulorum, sed parabolarum, ellipsium, aliarumve figurarum, nihilo minus tum illze, tum subtense earum, tum etiam quz ipsas conjungunt rectze, sequales essent et parallele.
+
+Coroll. rr. Manifestum etiam est, circulorum zequalium A D, B E radios, vel in spheeris axes, ita ferri, ut sint semper vestigiis suis parallele. Ducta s2
+
+[p. 260] 260 DE RATIONIBUS MOTUUM.
+
+PARS DL. enim ad centrum arcus B E recta B F, quz radio —— ACsit equalis, ea et juncte F E vel C D equalis erit; etangulus B F E equalis angulo A CD. Sit jam intersectio rectarum C A, BE ad G. Angulus ergo CGE, propter BE, AD parallelas, qualis est angulo DA C. Sed et angulus E BF equalis est eidem D A C. /Equales ergo sunt anguli CGE etEBF. Quare A C, B F parallele sunt. Quod erat ostendendum. Si mow st 2. Sit datus circulus (in fig. 2) cujus centrum A, zw" radius A B. Et centro B, radio quolibet BC, Mic ouey. descriptus sit. epicyelus CDE. Intelligatur autem. dus qui i centrum B'circumagi circa centrum A, unaque contrarias, ita totus epicyclus C D E, donec coincidat cum circulo wortee FGH, habente centrum I. Sitque angulus BAT qute Quilibet datus. Interea vero revolvatur epicyclus ma CDE super centrum proprium B, nimirum ab E vei. ad C per D, dum. centrum B promovetur ad 1; dea idque secundum easdem rationes, id est, ita ut in utroque motu, temporibus sequalibus zequales fiant. anguli. Dico axem epicycli, qui sit E C, ferri sibi semper paralldlum. Fiat angulus FIG equalis angulo BAI. Erunt ergo IF, AB parallele. Quantumque axes A G discessit a loco suo priore A C, quem discessum metimur per angulum ipsum CA G, sive C B D, quem ipsi supponimus squalem, tantum discessit eodem tempore axis IG, idem qui B C, a situ suo. Quo tempore ergo BC venit ad IG per motum a B ad I, super centrum À, eodem tempore veniet G ad F per motum in epicyclo contrarium ; id est, revolvetur G ad F, jacebitque IG in IF. Sed anguli FIG,GAC sunt equales. Parallele ergo sunt
+
+[p. 261] A C, id est, B C et IF, id est, axis sibimet ipsi in locis diversis. Fertur ergo axis epicycli E D C sibi semper parallelus. Quod erat probandum.
+
+Coroll Constat hinc, duos illos motus, quos ascribit telluri Nicolaus Copernicus, annuos recidere ambos ad hunc unum motum circularem simplicem, nimirum, per quem fit ut puncta moti zquali semper ferantur velocitate; id est, ut sequalibus temporibus equales absolvant circulos uniformiter.
+
+Sed et motuum circularium idem ut simplicissimus, ita et frequentissimus est; talis nimirum, quali utuntur, qui aliquid brachiis circumagunt, veluti qui molunt vel eribant. Nam per hunc motum, singula moti puncta describunt semper lineas sequales et similes; adeo ut qui regulam haberet, e qua zqualiter extarent multorum calamorum cuspides, is uno hoc motu multos posset versus simul exarare.
+
+2l
+
+3. Explicato, qualis sit motus simplex, explica- Motu bimus quoque aliquot ejus proprietates.
+
+Primo, corpus si feratur motu simplice in medio fluido et pleno, mutat situm partium omnium ambientis fluidi motui suo obstantium, etiam minimarum, ita ut in unumquemque locum novz continuo subintrent fluidi particule.
+
+Sit enim (in eadem fig. 2) corpus quodlibet KLM N, quod intelligatur moveri motu simplice circulari; et circulus, quem unumquodque ejus punctum describit, sit quantuscunque, puta, quantus est ipse KLMN ; itaque et ipsum centrum A et quodlibet aliud punctum ejus, adeoque ipsum motum accedet modo ad partes K modo ad partes
+
+### M. Aeccedente autem moto ad K, retrocedent
+
+simplicis proprietates,
+
+[p. 262] PARSIL partesliquidiad loca posteriora. Itaque cum spa- ——— tium omne supponatur plenum, necesse est ut alise succedant. Similiter fit versus L et M et N, et quaqua versum. Retrocedentibus autem partibus liquidi undequaque proximis, necesse etiam est regredi etiam partes illas quz proximis sunt proxime, et, supposito pleno, alias partes in earum. loca subintrare; et sic deinceps in infinitum. Partes ergo omnes liquidi etiam. minim: locum mutant. Quod erat, etc. Manifestum hinc est motum simplicem, sive circularem, sive alium eorum, que mota loca sua perpetuo repetunt, pro velocitate sua et linearum, quas describunt majore vel minore magnitudine, vim habere majorem vel minorem partes obstantium corporum dissipandi, Potest autem et velocitas maxima in circuitu minimo, et minima in maximo.intelligi, et si opus fuerit, supponi. Si liquidum. 4. Secundo, supposito motu hoc simplice in aere, Sioplice inea: aqua, aliove liquido, partes ejus liquidi, quz corpi agua pori moventi proxime adhzrescunt, cireumferentur Tunps decri- eodem motu eademque velocitate ; ita ut quo tembent. circulos " " " suos in tempo- pore punctum quodlibet moventis suum absolverit mentem circulum, eodem tempore quelibet pars liquidi 235^7* proxime moventi adhrens circuli sui describet partem circulo moventis integro sequalem. Describet, inquam, partem circuli, non circulum integrum; propterea quod omnes ille partes motum suum habent a movente in circulo interiore concentrico, et sunt circulorum concentricorum exteriores interioribus semper majores ; nec potest esse motus impressus à movente ullo, velocior quam est motus imprimentis. Ex quo intelligitur quod partes ambientis liquidi, a superficie moventis
+
+[p. 263] remotiores, suos circulos absolvant in temporibus PARS n. quse sunt in ea inter se ratione, quam habent inter ——— se ipsarum a movente distantie. Punctum enim ambientis quodlibet, dum corpus a quo circumfertur contingit, una cum ipso circumducitur, et, nisi quantum propter excessum circuli exterioris super interiorem a turgo relinquitur, eundem faceret circulum. Ita ut si supponatur in eo liquido, quod moventi proximum est, fluctuare aliquid non liquidum, circumferetur illud una cum. circumferente. Liquidum autem quod non est proximum, sed, ut ita loquar, pene proximum, motum suum accipit a proximo, qui major esse non potest, quam qui est in dante. Faciet ergo eodem tempore lineam, circularem quidem, sed non perimetrum integram, sed zqualem integre perimetro moventis intimi. Itaque quo tempore movens describit suum circulum, id quod ipsum non contingit, non describet suum, sed arcum sui, toti illius perimetro equalem. Eadem ratione cetera puncta remotiora describent eodem tempore suorum circulorum partes singulas, circulo moventis integro zquales, et per consequens cireulos suos integros in temporibus quee sunt distantiis suis a movente proportionales : quod erat ostendendum.
+
+5. "Tertio, idem motus simplex corporis positi in Freire medio liquido, ea quz in eodem liquido naturaliter genes, congrefluctuant, siquidem homogenea sint, congregat "" "ortae sive in unum locum cogit; sin heterogenea sint, separat et dissipat. Quod si heterogenea non fluctuent sed sedeant, idem motus ea commovebit et confundet.
+
+Cum enim corpora inter se dissimilia, id est,
+
+[p. 264] PABS II.
+
+-— Motus simplex dissipat heterogenes, cougregat homogenes.
+
+
+heterogenea, non sunt dissimilia quatenus corpora, (nam ut corpora non differunt) sed per aliquam. causam specialem, id est, per motus quosdam partium suarum minimarum, sive motum internum (ostensum enim est cap.IX. art. 9, omnem mutationem esse motum internum), habebunt heterogenea differentes inter se motus internos sive specificos. Quz autem sic differunt, motum ab externo communem dissimiliter patiuntur. Quapropter non ferentur una, hoc est, dissipabuntur. Dissipata autem incident aliquando in corpora sibi similia, unaque cum ipsis et similiter movebuntur, et hec quoque in alia similia incidentia unienturet fient majora. Quare homogenea quidem in medio, ubi naturaliter fluctuant, a motu simplice congregantur; heterogenea vero dissipantur. Rursus, quz in eodem liquido non fluctuant sed subsidunt, si in ea motus liquidi incurrat satis magnus ad ea suscitanda, suscitabuntur atque agentur ad motum ipsius liquidi; et proinde impedientur ne locum repetant, ubi naturaliter subsidunt et in quo solo uniuntur et extra quem promiscue feruntur, id est, confunduntur.
+
+Motus autem hic quo homogenea congregantur et heterogenea disperguntur, is est, quem vulgo vocant fermentationem, & .fervendo, ut et Greci Qum» & Le. Nam et aqua fervescens facit ut partes sug singulee situm mutent, utque ejus rei, quz in ipsam motam injicitur, particulze pro diversis ipsarum naturis in diversa discurrant. Neque tamen fervor omnis ab igne est; nam et mustum alieque res innumerz suam quoque habent fermentationem et fervorem, nec tamen ab igne
+
+[p. 265] omnem. Sed calorem, si quem in fermentatione m sentimus, ipsa efficit fermentatio. I: 6. Quarto, quo tempore movens cujus (in eadem si circulus ] fig. 2) centrum est A, motum per KLN, ali-i apice quoties convertendo (id est, quando perimetri B I, ote derip- » tus, circulo KLN sunt commensurabiles) lineam descripserit q quem descrisequalem perimetro per BI, eodem tempore rever- Mid ciem. tentur omnia puncta corporis fluctuantis, cujus tonaremerscentrum est B, ad eundem situm respectu moventis ie pe unde digressa erant. Quoniam enim est ut dis- triumwe cir. tantia B A, id est, radius circuli per BI, ad salem rin. perimetrum ipsam BI, ita radius circuli KLN, ad ipsam KLN; et velocitates utriusque puncti
+
+B et K sunt zquales; erit quoque tempus revo- lutionis in BI ad tempus unius revolutionis in
+
+KLN, ut perimeter BI ad perimetrum K L N, et proinde tot revolutiones in KL N, quot simul sumpti exzequant circulum BI, absolventur eodem tempore in quo absolvitur tota perimeter BI.
+
+Quare eo tempore revertentur L, N, F, H et puncta estera ad eundem situm a quo discesserant. Idem ostendi potest, quecunque ea puncta sint quz considerabuntur. Revertentur ergo omnia puncta ad eundem situm. Quod erat probandum.
+
+Sequitur hine, si perimetri BI, K LN non sint commensurabiles, non fore ut omnia puncta ad eundem inter se situm sive configurationem unquam revertantur.
+
+7. In motu simplice si corpus quod movetur $i eher hahabeat figuram spharicam, minorem habebit vim simplicem, lheterogenea dissipandi sive cogendi homogenea 2o du versus polos sui motus quam versus medium. Sit Pebitheero-
+
+[p. 266] 266 DE RATIONIBUS MOTUUM.
+
+TL (in fig. 3) sphaera cujus centrum A, diameter BC ;
+
+T que sphzra intelligatur moveri motu simplice goes quan cireulari; et ejus motus axis sit recta D E, secans polis. diametrum B C ad angulos rectos in A. Circulus autem quem describit quodlibet spheerze punctum, puta B, habeat diametrum B F. Sumptaque FG rectze B C cquali et divisa bifariam in H, erit A post dimidiam revolutionem in H. Et quoniam
+
+HF, AB sunt equales, circulus descriptus centro
+
+H, radio H F vel H G, zqualis erit circulo cen- tro A, radio A B descripto. Et continuato eodem motu, post alteram dimidiam revolutionem redibit.
+
+punctum B ad locum unde moveri ccpit. "Trans- fertur igitur post dimidiam revolutionem punctum
+
+B ad F, et totum hemispherium D BE in hemi- spharium in quo sunt puncta L, K, F. Retrocedit ergo liquidum, quod puncto F contiguum erat, tantum quanta est recta BF, idque eodem tempore.
+
+Et in reditu puncti F ad B, id est, puncti G ad C, tantundem recedit liquidum a puncto C in linea directa. Atque hzc ita se habent in medio sphzeree, ubi distantia a polis est maxima.
+
+Sumatur jam in eadem sphera punctum I propius polo, per quod ducatur recta I K parallela rectze BF secans arcum FL in K, et axem HL inM. Deinde juncta H K, ducatur super HF perpendicularis K N. — Venient ergo simul B ad F, et I1 ad K; sunt enim B F, I K, equales, et eadem descripte velocitate. Motus autem per IK ad liquidum in quod agit, nimirum ad partem liquidi qui contigua est puncto K, obliquus est. Quod si motus ille factus esset per rectam H K, perpen- dicularis esset. Minus autem movet motus veniens
+
+[p. 267] per LK, quam per H K velocitate eadem. Sed PARS Ur. motus pr HK sequaliter summovet liquidum ac —— motus per H F; minus ergo movet liquidum pars sphzrze circa K, quam circa F, nempe quanto KN minor est quam H F. Minus ergo etiam disper- git heterogenea, et minus congregat homogenea, propius quam longius a polis. Quod oportebat demonstrare.
+
+Coroll. Necesse etiam est in planis axi perpendicularibus, magisque a medio spheerze distantibus quam distat ipse polus, motum hunc simplicem nihil agere. Nam axis D E describit motu simplice superficiem cylindri; in quo motu versus cylindri bases nullus omnino est conatus.
+
+8. Si in medio liquido moto ut dictum est cir- Moti Tiasidi culariter, natare intelligatur aliud mobile sphaeri- pic 5i obra eum non liquidum, partes liquidi in ipsum impin- liquidum, et gentes conatum habebunt sese undequaque, per, pias superficiem ipsius corporis non liquidi, expandendi. pertciem. Et hoc quidem experientia satis manifestum reddit, nempe in effusz aquee expansione super pavimentum. Ratio autem hujusmodi est. Quoniam (in fig. 3) sphera A movetur ad partes B, liquidum quoque, in quo illa movetur, motum habebit eundem. Sed quoniam motu hoc incurrit liquidum in corpus non liquidum ut G, ita ut progredi non possit, neque possit tamen contra vim moventem regredi, restat ut particule ejus expassee superficiem obstantis corporis G quaquaversum radant, ut ad OP. Quod erat probandum.
+
+9. Motus circularis compositus, id est, per Motus cir. quem singulz moti partes perimetros Simul descri- cemere. bunt alis majores, alis minores pro ratione dis- enpon"
+
+circumferentantiarum a centro communi, corpora non liquida "ie nec sdhe-
+
+[p. 268] PABS HL
+
+I renta projicit pertangentem.
+
+Mota motu. circulari sim- lice, motum
+
+
+corpori ita moto adherentia circumfert ; eadem autem a contactu abrupta per tangentem puncti abruptionis projicit.
+
+Sit enim circulus (in fig. 4) cujus radius A B, et corpus aliquod positum in circumferentia ad B ; quod quidem si fixum sit in B, una circumferetur, ut satis per se manifestum est. Inter movendum autem, adhzsio illa supponatur quomodocunque toli, tunc cum est in puncto B. Dico fore ut mobile a B procedat per tangentem B C.  Intelligatur tam radius AB quam ipsum corpus B, consistere ex materia dura. Et supponamus radium A B percussum esse in puncto B a corpore incidente secundum D B tangentem.  Orietur ergo motus circularis ex concursu duarum rerum, quarum altera est conatus per DB productam versus C (nam procederet corpus a B, per ipsum B C, nisi esset retentum ad A B radium), altera est. retentio ipsa. Sed retentio illa nullum dat corpori in B conatum versus centrum. Sublata igitur retentione, id quod fit in abruptione, restat unicus in B abrupto conatus, et is per tangentem. BC. Ergo per tangentem B C movebitur punctum B abruptum: quod erat demonstrandum. Ex hac demonstratione apparet motum circularem circa axem immotum excutere et longius summovere a centro sui motus quicquid superficiei contiguum existens ipsi non firmiter adhzret: idque tanto magis quanto longius receditur a polis; tantoque etiam magis quanto ea, que excutiuntur, minus a fluido ambiente propter alias causas versus centrum repelluntur.
+
+10. Si corpus sphzricum moveatur in medio liquido motu circulari simplice ; sitque in eodem.
+
+[p. 269] medio natans alia sphzra ex materia non liquida, PARI ea quoque movebitur motu circulari simplice. —— Sit enim (in figura 5) circulus BCD, cujus er.
+
+centrum A. In cujus circumferentia moveatur simplicem.
+
+sphzra, ita ut describat motu simplice ipsam peri- metrum BCD. Sit autem sphzra alia EFG ex materia consistente, cujus semidiameter E H, cen- trum H. Et radio A H describatur circulus H I.
+
+Dico spheram E FG motam fore in circumferentia
+
+HI, a motu corporis in BCD, motu simplice.
+
+Quoniam enim motus in BCD (per art. 4 hujus capitis) facit ut singula puncta medii liquidi de- scribant eodem tempore lineas circulares inter se sequales, puncta E, H, G, recte E H G describent.
+
+eodem tempore circulos zequales radiis sequalibus.
+
+Ducatur EB parallela et zequalis rectze A H, junga- turque AB; erit ergo AB «equalis et parallela
+
+EH. Centro ergo B, radio B E, describatur arcus
+
+EK arcui HI szqualis, ducanturque rect AI,
+
+BK,IK; eruntque B K, AI equales. Et quo- niam duo arcus EK, HI, id est, anguli K B E,
+
+IAH, sunt zquales, erunt BK, ATI parallelz ;
+
+quare et recte A B, KI, quz ipsas connectunt, sequales sunt et parallele. Sunt ergo et K I, EH parallele. Cum ergo eodem tempore E, H trans- lata sunt ad K et I, erit tota recta I K reote EH, unde discessit, parallela. Necesse ergo est, quia sphzra EFG supponitur consistens ita ut omnia puncta ejus eundem semper situm servent, ut quelibet alia recta, in ea spheera sumpta, feratur propriis ipsius vestigiis semper parallela. Movetur ergo sphaera E F G motu circulari simplice. Quod erat demonstrandum.
+
+[p. 270] 2.
+
+Si id quod ita motum est, habeat alteram partem duram, alteram fiajdam, non. erit motus. fecta
+
+
+11. Si in medio undequaque fluido, quod a corpore commovetur circumacto motu simplice, sive is motus perfecte circuJaris sit sive ellipticus, sive secundum lineam in se reductam quamcunque, ponatur aliud corpus fluidum et ipsum tenacius tamen quam est medium; dico primo, partes aliquas minutissimas, propter illam medii concitationem, avulsas a csetera mole medium Subingressuras esse, easque, quz. primo moventi Obvertuntur, propius ad ipsum accessuras esse: secundo, quod reliqua moles intumescet : tertio, quod eadem moles magis ad eas partes accedet, in quibus maxima est fluiditas. Supponamus enim corpus aliquod in medio fluido, puta aere, collocatum, motu simplice in se redeunte aerem commovere; in eodem autem aere collocatum esse fluidum aliud, sed aere tenacius, ut aquam. Dico partes aqua aliquas minutas necessario aerem subingressuras esse. Quoniam enim ostensum est articulo quinto, medium, id est aerem, ita commoveri ut singulee partes ejus, usque ad minutissimas, loca sua cum particulis proximis perpetuo commutent, necesse est ut partes aquz aeri contigua, cum partibus aeris, loca commutent. Partes ergo aque aerem subingrediuntur alique: quod est primum. Secundo, quoniam aqus partes ille, quie in aerem sunt ingresse, avuls; sunt a csetera mole aquz, habeatque aqua, per hypothesin, tenacitatem aliquam, fiet necessario ut aqua summa, unde ille particule egresse sunt, aliquousque egressas sequatur, id est, ut aqua aliquanto intumescat : quod est secundum. Tertio, quoniam corporis una pars supponitur magis esse fluida quam alia, facilius intumescent partes
+
+[p. 271] fluidiores quam minus fluide ; qua autem intumescunt, ea etiam tota inoles conabitur magis; quare propter tenacitetem partium, pars ea, quae minus conatur in via contraria, illam sequetur, id est, tota moles ea movebitur: quod restabat demonstrandum.
+
+CAPUT XXII. DE CJETERA MOTUUM VARIETATE.
+
+1. Conatus et nixus, quo modo differunt.—9. Duo genera mediorum, in quibus fit motus.—3. Motus propagatio a corpore in eorpus, quid.—4. Motus a comprimentibus, quis.—5. Fluida compress se mutuo penetrant.—6. Corpus in aliud corpus impingens nec penetrans agit in perpendiculari, quie ducitur ad superficiem corporis in quod impingitur.—7. Corpus durum, in aliud si impingens penetret, non penetrabit per perpendicularem nisi perpendiculariter incidat.—8. Motum aliquando in oppositum moventi.—9. In medio pleno motus propagatur ad distantiam quamlibet. — 10. Dilstatio et contractio, quid.— 11. Dilatatio et contractio supponit partium minutarum mutationem quoad situm.—12. Tractio omnia est pulsio.—13. Qusecunque pressa aut tensa se restituunt, motum habent in partibus internis.—14. Si vehens impingat, vectum tamen procedet. 15, 16. Percussionis et ponderis effectus comparari inter se non videntur posse.—17, 18. In partibus corporis internis motus incipere non potest.—19. Actio et reactio per eandem procedunt lineam.—20. Habitus quid.
+
+1. CowaTUM definivimus supra, cap. xv. art. 2,
+
+Conatus. et nixus esse motum per longitudinem quidem aliquam, quo modo consideratam autem non ut longitudinem, sed ut. punctum. [taque sive quid conanti resistit, sive nil resistit, conatus tamen idem est. Nam conari simpliciter idem est quod ire. Quod si quando nt.
+
+[p. 272] 272 DE RATIONIBUS MOTUUM.
+
+ub duo corpora, in partes contrarias conantia, mutuo —ÀR se premant, conatus ille utriusvis nixus appellari solet, estque conatus, cui aliud insistens conatur in contrarium sive resistit. Duogeerm — 2. Tam autem ipsa corpora mota, quam media mediorum, . inqubm ^ in quibus moventur, duorum sunt generum; vel 5*7" enim talia sunt, ut eorum partes inter se cohzreant, ut moventi nulla pars moti facile cedat, nisi cedente toto; qualia sunt que vocantur dwra; vel partes eorum, immoto toto, facile tamen cedunt moventi, ut quz fluida dicuntur et mollia. Nam Jluidum, molle, legtum, et durum, sicut magnum et parvum, dicuntur tantum comparative, nec sunt diversa genera, sed diversi gradus qualitatis. Lodes 3. Agere autem et pati est movere et moveri; &crprein et quicquid movetur, a moto et contiguo movetur, *"P^3. ut ostensum est in precedentibus. Etin distantia quantalibet dicimus primum movens ultimum movere mobile, sed mediate, ita nempe ut primum moveat secundum, secundum moveat tertium, et sic deinceps, donec ventum sit ad contactum cum ultimo. — Quando ergo corpus aliquod, corpus contra conans, illud movet, et hoc motum movet itidem tertium, et sic deinceps, illam actionem motus propagationem appellabimus. Motus a 4. Si duo corpora fluida in loco libero se mutuo omprimen- : tbu,qu, premant,partes eorum movebuntur sive conabuntur ad latera; neque ez solum partes, quee sunt ibi ubi fit contactus, sed omnes. Nam in contactu primo, partes ab utroque conante presse alium locum non habent, in quo moveri possunt, neque anteriorem neque posteriorem; exprimuntur ergo versus latera, idque, si vires sint zquales, in linea quz sit ad corpora, unde exprimuntur, perpendicularis. Cum
+
+[p. 273] DE CETERA MOTUUM VARIETATE. — 273 autem, pressis partibus utriusque corporis anterio- PAUL ribus, premantur etiam posteriores (nam motus —-— partium posteriorum a repulsu partium anteriorum non sistitur in instante, sed aliquantisper durat)
+
+his quoque locus, ubi moveri possint, aliquis dandus est ; sed locus motui in anteriora non datur ; necesse ergo est ut moveantur in loca, que circumquaque sunt ad latera. Atque hoc contingit necessario, non modo in fluidis, sed etiam in consistentibus et.
+
+duris : etsi id minus aliquando sensibus manifestum sit. Nam etsi, ex compressione duorum lapidum, nullam oriri ad latera extumescentiam oculis (id quod fit in duobus corporibus cereis) cernimus, necessarium tamen esse, ut aliquis ibi tumor sit quamvis exiguus, satis intelligitur ratione.
+
+5. In loco autem clauso si utrumque corpus Fluids comsit, alterum ab altero, si comprimantur, penetrabi- 5, pesetrant. tur, diverse tamen pro varietate quam habent conatuum. Supponamus enim ex materia dura vas cylindraceum concavum, utrinque bene obturatum, sed repletum prius, inferne quidem aere vel aqua, superne vero liquido aliquo graviore, ut argento vivo. Inverso ergo cylindro, necesse est, magis conantibus ad fundum iis, que magis sunt gravia, et facultate excurrendi ad latera propter duritiem. vasis sublata, quod grave et superius erat, a leviore recipi et subsidere. Illud enim, quod facilius partium suarum patitur diremptionem, prius dividitur; quo diviso, ut partes alterius dirimantur non est necessarium. Neque ergo quando duo liquores clausi in eodem vase locum commutant, mecesse est, ut eorum partes usque ad minimas permisceantur. Opus enim non est, uno eorum hiscente, ut alterius quoque partes dirimantur.
+
+VOL. I. T
+
+[p. 274] PARS HL — Quodsi liquidum in loco non clauso innitatur
+
+— —— vel impingat in corpus durum, fiet quidem conatus versus duri corporis partes internas: movebuntur autem partes liquidi, propter duri resistentiam excluse, undiquaque secundum ejus superficiem, idque, si nixus perpendicularis sit, sequaliter.
+
+Nam cum omnia, quz in causa sunt, eequalia sint, etiam effectus equales erunt. Quod si nixus non sit perpendicularis, anguli incidentim inzquales erunt, ideoque expansio quoque inzqualis erit, et major ex parte anguli majoris, propterea quod directior est motus per directiorem lineam.
+
+Corpus in. 6. Si corpus in corpus impingat vel innitatur, apigem nec ipsum penetret, dabit tamen parti, in quam
+
+Ap pe. impingit vel innititur, conatum recedendi per pii rectam, quie sit superficiei ejus in puneto impactus
+
+Sispericiem perpendicularis. Sitenim (in fig. 1) corpus durum
+
+Wwdimpe. ÀBCD, cui corpus aliud motum per rectam EA giu. utcunque inclinatam vel non inclinatam, impingat velinnitatur in A. Dico corpus hoc, ita motum vel innitens nec penetrans, daturum parti À cona- tum recedendi per rectam recte AD perpendi- cularem. Nam sit A B ipsi AD perpendicularis, et producatur B A ad F. Manifestum ergo per se est, si AF coincidat cum AE, motum per EA effecturum ut À conetur per A B. Sit ergo EA ad AD obliqua; et a puncto E demittatur recta
+
+EC secans AD ad angulos rectos in D, com- pleanturque rectangula AB CD et ADEF.  Os- tensum est (cap. xvt. art. 8) conduci mobile ab
+
+Ead Aa concursu duorum motuum uniformium, quorum alter est per EF et ipsi parallelas, alter per ED et parallelas ejus. Motus autem per EF et parallelas ejus, quarum una est D A, nihil con-
+
+[p. 275] DE CATERA MOTUUM VARIETATE. 275 tribuit quo mobile unquam niti vel conari possit ES E ab A versus B. Totus ergo conatus, quem habet —-— mobile in inclinata E A transeundi vel premendi rectam A D, totus, inquam, est a motu vel conatu perpendiculari in FA.  Habebit ergo E, postquam est in A, conatum illum solum, qui oritur a motu per F A perpendicularem, id est, per AB: quod erat demonstrandum.
+
+7. Si corpus durum in aliud corpus impingens Corpus àuvel innitens ipsum penetret, conatus ejus post Mrpinge. initium penetrationis non erit in producta incli- Penetez non
+
+; ] : IDC'2- penetrabit per.
+
+nata, neque in perpendiculari; sed modo inter pereendicul- Tem nisi per- utrasque, modo extra.  pendiculariter
+
+Sit (in eadem figura 1) producta inclinata E A G, "^t et sit transitus per medium in quo est E A, primo, facilior quam transitus per medium in quo est AG. Quam primum ergo mobile A immersum est in medio, in quo est A G, fiet major resistentia contra motum per D A et ejus parallelas, infra AD quam supra.  Tardior ergo fit motus per parallelas ipsius D A infra D A quam supra: quare motus qui fit ex concursu motuum per EF, ED est tardior, infra D A quam supra: quare conatus mobilis A non procedet per E A productam, sed citra eam. Quoniam autem conatus per FA gignit conatum per A B, si conatui per F A addetur conatus per D A, qui post immersionem jam puncti A aliquis certe est ; non procedet conatus ab A amplius in perpendiculari A B, sed ultra eam ; conabitur ergo A per rectam aliquam inter A B et A G, puta, per AH.
+
+Seeundo, sit transitus per EA quam per AG difficilior. Erit itaque motus, qui fit ex concursu .per EF, FB, supra A D tardior quam infra eandem ;
+
+T2
+
+[p. 276] 22.
+
+Motum este aliquando iu oppositum. morenti.
+
+
+et per consequens conatus ab À non erit per EA. productam, sed ultra eam, ut in AT. Quare si corpus durum, &c. quod erat probandum. Atque hzc quidem a recta A G divergentia recte A H, appellari solet ab opticis refractio: quz quidem fit, quando transitus est primo facilior, deinde difficilior, vergendo ab inclinata ad perpendicularem; contra vero, quando transitus primus difficilior est, longius a perpendiculari abeundo.
+
+8. Manifestum est (per theorema 6) in tali situ collocari posse vim moventem, ut ab ea agatur mobile per viam vie moventis fere contrariam, quemadmodum fieri videmus in motu navium.
+
+Sit enim (in fig. 2) mobile A B, puta navem, eujus longitudo a prora ad puppim sit AB. Ventus autem ipsi incumbat secundum rectas parallelas CB, D E, FG; et a puncto B ducta ad rectam A B perpendicularis secet DE, FG in E et G. Sintque BE, EG inter se zquales, et angulus AB C quantuluscunque. Deinde inter B C, BA ducatur recta BI, secundum quam concipiatur expandi velum, in quod velum impingat ventus in punctis L, M, B, a quibus punctis ducantur perpendiculariter recte BK, MQ, LP. Denique super rectam BG ducantur perpendiculares EN, GO secantes BK in H et K, fiantque HN, KO tum rectze BA, tum inter se equales. Dico fore ut navis BA, 2 vento spirante per C B, DE, FG, alissque ipsis parallelas, provehatur, fere in oppositum venti, id est, per viam viz moventis fere contrariam.
+
+Ventus enim, qui flat secundum CB, dabit conatum puncto B procedendi (ut art. 6 ostensum est) per rectam recte B I perpendicularem, id est, per B K, et punctis M et L procedendi per rectas
+
+[p. 277] DE CATERA MOTUUM VARIRTATE. 277
+
+MQ, LP ipsi BK parallelas. Temporis autem. PARS. mensura sit BG, que dividitur bifariam in E. —— Tempore ergo B E promoveatur punctum B ad H : Miquando n quare eodem tempore a vento flante per D M et vppoitum FL et ceeteras quas libuerit ducere ipsis parallelas, tota navis applicabitur recte; H N. Item in fine temporis secundi EG, eadem navis applicabitur recte; KO. Semper ergo procedet navis versus anteriora, faciens angulum ad ventum, squalem angulo ABC quantulocunque, et singulis temporibus tantum quanta est recta EH. Atque sic quidem se res habet, supposito quod navis eadem celeritate moveri possit lateraliter a. B A versus K O, qua celeritate movetur antrorsum in BA. Sed fieri hoc non potest, propter molis aque lateri innitentis resistentiam, quz quidem prz resistentia tantille aquse pror innitentis magna est, adeo ut navis progrediatur versus latera vix sensibiliter. Procedet ergo punctum B fere in ipsa recta BA faciente cum vento angulum ABC quantulumcunque; id est, fere in recta B C; id est, per viam vie moventis fere contrariam: quod erat demonstrandum. Oportet autem velum in BI ita tensum esse, ut nullus in eo relinquatur sinus ; alioqui enim recte LP, MQ, BK non erunt veli plano perpendiculares, sed cadentes infra P, Q, K navem retrorsum agent. Sed pro velo usus appensa tabula, pro navi plaustello rotis exiguis fulto, pro mari pavimento, ita verum hoc expertus sum, ut vix potuerim tabulam vento in quantulacunque obliquitate apponere, quin ab eo plaustellum abriperetur.
+
+Ex eodem theoremate 6 inveniri potest, quanto ictus obliquus ictu perpendiculari, ceteris paribus,
+
+[p. 278] PARS liL. 22.
+
+Tn medio pleno motus. propagatur ad distantiam.
+
+quamlibet.
+
+
+sit debilior. Sit enim (in fig. 3) incidens, verbi gratia, in oppositum murum A B ictus obliquus per CA. Ducatur C E ipsi A B parallela; et DA eidem A B perpendicularis, et equalis recte C A ; sitque velocitas et tempus motus per CA zquales velocitati et tempori motus per D A. Dico debiliorem esse ictum per C À quam per D A, in ratione EA ad DA. Nam producta DA utcunque in F, erit conatus utriusque ictus per perpendicularem AF, per art.6. Sed ictus per C A fit ex concursu duorum motuum per CE et EA, quorum motuum is qui fit per C E ictui in A nil contribuit; propterea quod CE, BA sunt parallele. Quare ictus per C A fit a motu qui est in sola E A. Velocitas autem sive vis ictus perpendicularis in C A est ad velocitatem sive vim ietus in DA, ut EA ad DA.  Debilior est ergo ictus obliquus in C A, quam ictus perpendicularis in D A, in ratione E A ad DA sive ad CA: quod erat probandum.
+
+9. In medio pleno eo usque procedit conatus omnis,quousque pertinet ipsum medium ; id est, 8i medium sit infinitum, in infinitum.
+
+Quicquid enim conatur movetur, ideoque cedere facit quiequid ei obstat, saltem aliquantulum, nimirum quantum quod movet promovetur. Quod autem cedit movetur quoque, et proinde cedere facit id quod ipsi obviam est; et sic deinceps, quousque existit medium aliquod plenum, id est, si medium infinitum sit, in infinitum : quod erat probandum.
+
+Quanquam autem hujusmodi conatus, perpetuo propagatus, non semper ita appareat sensibus tanquam esset motus aliquis ; apparet tamen ut actio,
+
+[p. 279] DE CAETERA MOTUUM VARIETATE. 279 sive mutationis alicujus efficiens cause. Nam si statuatur, exempli causa, ante oculos objectum aliquod valde exiguum, ut una arenula, quee quidem. ad certam quandam distantiam sit visibilis ; manifestum est eam removeri longius tanto posse ut sensum fugiat, nec tamen desinere agere in videndi organum, ut jam ostensum est, ex eo quod conatus omnis procedit in infinitum.  Intelligatur ab oculo removeri ad distantiam quamvis maximam, et alias arenulas singulas ejusdem magnitudinis satis multas remotz apponi; apparebit tandem id, quod ex appositis fit aggregatum ; et quamvis nulla istarum arenularum videatur a caeteris distincta, acervus tamen earum vel mons totus videbitur manifeste; id quod fieri non posset, si partes nihil omnino singulz agerent.
+
+10. Inter gradus mollis et duri ea sunt qum lenta appellantur. Lentum autem est, quod idem menens flecti potest. Et flexio in linea quidem est, manente eadem linea, adductio extremorum punctorum vel diductio, id est, motus a rectitudine ad curvitatem vel contra: (nam terminis linee quantum potest diductis, fit recta, que alioqui curva est); in superficie autem, diductio vel adductio extremarum linearum, id est, dilatatio et contractio.
+
+11. Dilatatio autem et contractio, ut et omnis lectio, supponit necessario accessionem partium internarum corporis flexi versus externa, vel ab externis recessionem. — Nam etsi in sola corporis longitudine consideretur, orietur in flexo ex una parte convexa, ex alia concava linea, quarum hzc, quia interior, nisi ab ea adimatur et convexe addatur aliquid, curvior erit, id est, major; sunt autem
+
+PARS UI.
+
+I
+
+Dilatatio et. contractio, quid.
+
+Dilatatio et. ontractio 'opponit parium minuta- Tum mutati-
+
+[p. 280] 280 DE RATIONIBUS MOTUUM.
+
+eun quales. Fit ergo a partibus flexi interioribus —— accessio ad exteriores; et contra, in tensione, ab exterioribus ad interiores.
+
+Ea autem, quz transpositionem partium talem minus facile patiuntur, fragilia appellantur; et, non nisi magna vi flectenda, subitaneo motu dissiliunt.
+
+Tmeio om. — 12. Distinguitur item motus in pulsiomem et mies puli troetionom, Et pulsio quidem, ut ante eam definivimus, est quando id, quod movetur, antecedit id quod movet. ractio vero contra, quando movens antecedit motum. Veruntamen attentius considerantibus videtur esse pu/sio. Nam duarum partium corporis duri, dum anterior pellit ante se medium in quo fit motus, id quod pellitur pellit aliud, et hoc rursus aliud, et sic deinceps. In qua actione, supposito quod locus nullus corpore vacuus sit, necesse est, continua pulsione, scilicet facta actionis circumitione, ut id quod movet parti illi, que ab initio non pelli sed trahi videbatur, a tergo sit, adeo ut tractum antecedat jam corpus illud a quo movetur, et proinde pulsum non tractum est.
+
+err 13. Que dimota a locis suis per compressionem
+
+-— Ten vel tensionem vi factam, et ea Vi amota, statim ad habent in par. Situ priorem redeunt et se restituunt, principium
+
+Hbwiemi restitutionis suz in se habent, nempe motum quendam in partibus internis, qui tunc inerat cum ante vim amotam erant tensa vel compressa. Est enim restitutio illa motus; moveri autem quod quiescit, sine movente moto et contiguo non potest. Ablata autem vi sive comprimente sive tendente, causa tamen nulla existit restitutionis ex ipsa comprimentis vel tendentis ablatione.
+
+[p. 281] DE CETERA MOTUUM VARIETATE. 281
+
+Nam ablatio impedimenti cause efficaciam non PARS IL habet, ut ostensum est in fine art. 3, capitis Xv. ——— Causa ergo restitutionis est in motu aliquo partium corporis compressum vel tensum ambientis, vel partium ipsius compressi vel tensi. Sed partes ambientis nullum habent conatum, qui faciat neque ad compressionem vel tensionem, neque liberationem et restitutionem ; restat ergo ut a tempore ipsius compressionis vel tensionis relictus sit conatus sive motus aliquis, per quem amoto impedimento unaquseque pars locum suum priorem capessit, id est, totum restituitur.
+
+14. In vectione, si vehens impingat vel quomodo- Si veheus. cunque subito sistatur, vectum autem non impingat. tu r^ vectum procedet donec ab externo aliquo motus P" ejus extinguatur. Ostensum enim est, (cap. virt. articulo 19) motum, nisi ab externo aliquo resistente motus ejus impediatur, zternum et eadem moveri celeritate. Item, (cap. 1x. artic. 7) sine contactu actionem externi nullam esse. Impactus ergo vehentis non tollit motum vecti. Procedet ergo id quod vehitur, donec et illius motus paulatim ab externo aliquo resistente extinguatur : quod erat probandum; etsi ad hujus rei probationem ipsa suffecisset experientia. Similiter, si Sit vehens et vectum, vehens autem a quiete subito moveatur, vectum non feretur una, sed relinquetur.
+
+Nam pars vecti quie vehenti contigua est, eundem quidem motum fere habet cum vehente; partes autem remote unaquzque pro diversis a vehente distantiis, velocitates concipiunt diversas, nimirum remotiores gradus velocitatis minores. Necesse est ergo vectum a vehente plus vel minus relinqui;
+
+[p. 282] PARSII. ut manifestum experientia fit, quando prosiliens
+
+——-—— equus sessorem resupinat,
+
+Pens — 15. Ttaque in percussione, ubi corpus durum
+
+Silos com- magna vi percutitur ab alio duro in parte aliqua peii exigua, non est necesse ut ob eam rem totum dexerpowe. corpus eadem cedat celeritate, qua cedit pars percussa. Nam cstere partes motum, quem habent, a motu partis percussz et cedentis habent, qui motus ad latera undequaque minus propagatur, quam antrorsum; unde fieri videmus aliquando, "ut corpora durissima et erecta, vix tamen stantia, violento ictu facilius perfringantur quam dejiciantur; cum tamen si partes eorum quovis levissimo motu omnes simul protruderentur, dejicerentur.
+
+16. Differentia inter frusionem et percussionem, etsi in nulla alia re consistat, nisi quod intrusione quidem motus moventis et moti simul in ipso contactu incipiant, in percussione vero percutiens ante moveatur quam percussum, effectus tamen eorum adeo diversi inter se sunt, ut comparari inter se earum vires non videantur posse. Dato, inquam, percussionis effectu aliquo, exempli causa, ictu fistucze dati ponderis, quo palus in terram date tenacitatis, data mensura infigitur, definire quanto pondere, sine ictu, et quanto tempore idem palus in eandem terram tantundem infigatur, mihi quidem si non impossibile, tamen difficillimum esse videtur. Difficultatis autem causa est, quod velocitas percutientis cum ponderantis magnitudine comparanda esse videatur. Velocitas autem, que ex longitudine spatiorum zstimatur, pro unica dimensione habenda est; pondus autem,
+
+[p. 283] DE CATERA MOTUUM VARIETATE. 288 quod dimensione totius corporis metimur, est PARSII. instar solidi. Solidi autem et longitudinis, id est, —-—— linez, comparatio nulla est.
+
+17. Si corporis cujuslibet partes interne quies- In partibus cant, vel situm inter'se ad tempus quantulum-;; mo cunque eundem conservent, nullus in illis partibus pos ^" oriri potest neque motus neque conatus, cujus causa efficiens non sit extra corpus cujus ille partes sunt. Siquidem enim in corpore aliquo particulam aliquam intra totius superficiem comprehensam nunc quiescere, mox moveri supponeremus, necesse erit partem illam a moto moveri, etacontiguo. Tale autem motum et contiguum intra totum corpus, per hypothesin, nullum est. Oritur ergo, si quis oritur, conatus, motus, vel situs mutatio, a causa aliqua efficiente extra corpus, cujus ille sunt partes interne: quod erat probandum.
+
+18. Itaque in corporibus duris, que compressa vel extensa fuerint, si sublato premente vel tendente in locum situmve suum priorem se restituunt, necesse est partium suarum internarum conatum, id est, motum, quo loca et situs suos priores potuerint recuperare, aliquem fuisse etiam ante quam premens tendensve amoveretur. Itaque etiam balistze lamina chalybea tensa, quz permissa sibi se restituit, etsi, sensu judice, et ipsa et omnes partes ipsius quiescere videantur, tamen partes ejus, judice ratione, quae nec sublationem (impedimenti inter causas efficientes numerat, neque quicquam a quiete ad motum sine causa efficiente transire concipit, ante motz erant quam ille se restituere inciperent.
+
+[p. 284] 7.
+
+Actio et reactio per ean- dunt lineam.
+
+Habitus quid.
+
+
+19. Actio et reactio per eandem fiunt lineam, sed a terminis oppositis. Cum enim reactio nihil aliud sit, quam corporis patientis sese in eundem Situm, unde a conatu agentis deturbatur, restituendi conatus, conatus sive motus utriusque, nempe agentis et reagentis, propagatur inter eosdem terminos, ita tamen ut quod in actione est terminus a quo, in reactione sit terminus ad quem: cumque ita se res habeat non modo inter terminos oppositos totius linee per quam actio propagatur, sed etiam per ommes ejus partes, termini a quo et im quem tam actionis quam reactionis in eadem erunt linea. Fit ergo actio et reactio in eadem linea.
+
+20. Cum his, quz dicta sunt de motu, conjungemus etiam aliquid de Aabitu. Est enim habitus motus quzdam generatio, non quidem motus simpliciter, sed moti per certam et designatam viam conductio facilis. Quod cum fiat per conatuum, qui motum divertunt, debilitstionem, debilitandi sunt paulatim tales conatus. Id quod fieri non potest sine actione diu manente, vel actionibus repetitis; et propterea ex consuetudine oritur facilitas, quam vulgo et recte habitum dicunt. Definiri autem hoc modo potest: Habitus est motus consuetudine, id est, perpetuo conatu vel conatibus iteratis contra conatus resistentes, per certam viam diversam ab ea in qua a. principio captum est moveri, factus ezpeditior. Quod ut exemplo aliquo magis perspicuum fiat, animadvertamus quod cum manum lyrz admovet pulsandi imperitus, post primum ictum non feretur manus ad locum, quem ille vult pulsandi secundum esse,
+
+[p. 285] DE CATERA MOTUUM VARIETATE. 285 nisi eam conatu novo revocet, et quasi denuo Esqui incipiens a primo transeat ad secundum: neque uu ab hoc conatu novo movebitur manus ad locum Hebe aui. tertium, sed opus erit rursus manum retrahere ;
+
+et sic deinceps, conatu ad omnem pulsum mutato, donec szpius id faciendo, manus tandem, multis motibus sive conatibus interruptis in unum cona- tum zquabilem compositis, viam ab initio desti- natam expedite permeat. Neque in animalibus tantum, sed et in corporibus inanimatis animadverti habitus possunt. Videmus enim balistze laminam vi multa tensam, quzque sublato impedimento magna vi reditura esset, postquam longo tempore tensa manserit, habitum acquirere talem, ut per- missa suo proprio ingenio non modo se non restituat, sed etiam ut non minori vi reducenda sit, quam qua ante tensa fuerat.
+
+[p. 286] 286 DE RATIONIBUS MOTUUM.
+
+CAPUT XXIII.
+
+DE CENTRO JEQUILIBRII EORUM QUAE PREMUNT SECUNDUM RECTAS PARALLELAS.
+
+1. Definitiones et hypotheses.— 2. Duo plana szquilibrii non sunt parallela.—9. Centrum equilibrii est in quolibet seq " bri plano.—4. Ponderantium squalium momenta supt in ratione distantiarum a centro libre. —5, 6. Ponderantium inequalium momenta sunt in ratione composita ex ratione ponderum et distantiarum a centro libre reciproca.—7. duo ponderantia habent momenta et distantias a centro librae in ratione reciproca, fit equilibrium ; et conversim. — 8. Si ponderantis partes equaliter ubique radium libre premunt, habebunt partes singule. abscisse, sumptm a centro librae, momenta in eadem inter se ratione, in qua sunt partes trianguli abecissm a vertice per rectas basi parallela. — 9. Diameter zmquilibrii figurarum deficientium secundum rationes altitudinum et basium commensurabiles, dividit axem ita ut pars ad verticem sit ad reliquam, ut figura completa ad deficientem. 10. Diameter sequilibrii complementi semissis cujuslibet dictarum figurarum deficientium, dividit eam, qua per verticem ducitur basi parallela, ita ut pars ad verticem sit ad reliquam. ut figura completa ad complementum.—11. Centrum aquilibrii semiseis cujuslibet figurarum primi ordinis in tabella art. $, cap. xvir. invenitur per numeros ordinis secundi.— 12. Centrum sequilibrii semiseis cujuslibet figura secundi ordinis ejusdem. tabelle, invenitur per numeros ordinis quarti. — 13. Cognito centro mquilibrii semissis cujuslibet figure tabelle ejusdem, cognoscitur et centrum excessus, quo ea superat triangulum ejusdem basis et altitudinis.—14. Centrum equilibrii sectoris. solidi est in axe, ita diviso, ut pars a vertice sit ad totum axem, dempto dimidio axis portionis sphere, ut $ ad 4. DEFINITIONES. PARE TIL ]. LiBRA est linea recta, cujus medium punctum Deiiose tenetur immobile, caetera omnia puncta libera "" sunt. Utraque autem pars librz, sumpta a centro ad appensum pondus, vocatur radius.
+
+[p. 287] DE CENTRO XQUILIBRII. 287
+
+Xt. ZEquilibrium dicitur, quando conatus corporis prementis alterum radium, conatui prementis
+
+PARS TIT.
+
+HEN radium alterum ita resistit, ut neuter moveatur. Defaitiones
+
+Corpora autem, que stant in equilibrio, :equilibrata appello.
+
+1i. Pondus est aggregatum omnium conatuum, quibus singula puncta corporis, quod radium pre- Tit, in rectis sibi invicem parallelis conantur ; ipsum autem corpus premens ponderans nominatur.
+
+1v. Momentum est ponderantis, pro certo situ, certa ad movendum radium potentia.
+
+v. Planum equilibrii est quo ponderans dividitur, ita ut momenta utrinque sint squalia.
+
+vt. Diameter &quilibrii est duorum zquilibrii planorum sectio communis.
+
+vir. Centrum cquilibrii est duarum squilibrii diametrorum commune punctum.
+
+HYPOTHESES.
+
+1. Si pondus ad alterutrum szquilibratorum. accesserit, ad alterum vero non accesserit, tollitur equilibrium.
+
+1r. ZEqualium magnitudine et ejusdem speciei ponderantium equalia sunt momenta, quando radium premunt hinc et inde a distantiis a centro libre squalibus. Item quz conantur in distantiis a centro libre zequalibus, si zequalia sint magnitudine et ejusdem speciei, momenta habent equalia.
+
+2. Duo plana zquilibrii non sunt parallela. Sit enim (in figura 1) ponderans quodcunque A BCD, et sit in eo planum zquilibrii EF; pa-
+
+Hypotheses.
+
+Duo plana. tequilibrii non. sunt parallela.
+
+[p. 288] PARS IL rallelum autem plano per EF ducatur aliud planum ——— quodeunque, puta per GH. Dico GH non esse planum zsquilibri. Quoniam partes AEFD, EBCF ponderantis A BCD zequilibratze sunt, et ad partem A E F D accessit pondus E G H F, parti autem EBCF nihil accessit, sed sublatum est pondus EG HF, non erunt (per hypothesin 1) partes AGHD, GBCH «equilibrate. Non est ergo GH planum squilibrii. Itaque duo plana sequilibrii non sunt parallela. Quod erat probandum. o 3. In quolibet plano zquilibrii est squilibrii etinqu- centrum: nam si aliud sumatur planum zquilibrii, iti non erit illud priori (per artic. 2) parallelum, itaque utrumque se secabit mutuo; illa sectio est (per definitionem 6) diameter sequilibrii ; rursus, si sumatur alia quzevis diameter zquilibrii, illa priorem secabit, et est in illa sectione, per defin. 7, centrum zquilibrii; est ergo centrum zquilibrii in diametro, quz jacet in plano zquilibrii proposito.
+
+Ponderniwm — 4. Ponderantis ad unum radii punctum applicati Fra momentum, ad momentum ejusdem vel equalis in mien i bonderantis applicati ad aliud quodvis punctum emmolire radii ejusdem, est ut distantia illius puncti a centro libre, ad distantiam hujus puncti a centro eodem ; sive ut arcus circulorum super centro libre per puncta illa radii eodem tempore descriptorum ; Sive denique ut bases parallele duorum triangulorum, quorum angulus ad centrum libre est communis. Sit enim (in fig. 2) centrum librz A, radius A B, quem premant ponderantia D et E squalia in punctis B et C ; recte autem BD, CE sint diametri
+
+[p. 289] sequilibrii, et centra zequilibrii ipsorum D et E sint PARAL puncta D et E: ducatur utcunque A G F, secans —— D B productam in F, et EC in G; denique communi centro A describantur duo arcus BH, CI, secantes AGF in H et I. Dico momentum ponderantis D esse ad momentum ponderantis E, ut AB ad AC, vel BH ad CI, vel BF ad CG.. Est enim effectus ponderantis D, in puncto B, motus circularis per arcum B H, et ponderantis E, motus circularis per arcum CI ; qui motus, propter zequalitatem ponderantium D et E, sunt ut impetus sive velocitates punctorum B et C, per ipsos arcus BH, CI; hoc est, sicut arcus ipsi BH, CI; sive ut recte parallele BF, CG; sive radii partes A B, AC. Nam A B. AC:: BF. CG:: BH. CI sunt proportionales; sunt igitur effectus séqualium ponderantium, hoc est, (per definit. 4) momenta ipsorum applicatorum ad diversa radii puncta, ut A B ad AC; sive ut distantiz illorum punctorum a centro libre, sive ut. bases parallelz triangulorum habentium angulum ad A communem; sive ut arcus concentrici BH, CI; id quod erat demonstrandum.
+
+5. Ponderantia inzqualia, diversis radii punctis Ponderantium applicata, momenta habent in ratione composita x PR ex rationibus distantiarum a centro libre, et pon- rper deris ad pondus. 2e ponderum
+
+Sit enim (in fig. 3) librz centrum A, radius AB tennis libre. cui applicata sint duo ponderantia C, D, in punctis Bet E. Dico rationem momenti ponderantis C, ad momentum ponderantis D, compositam esse ex rationibus AB ad AE, et ponderis C ad pondus D, vel, si C et D sint homogenea, magnitudinis C ad magnitudinem D.
+
+Ponatur utrum libet, C, majus altero D ; si ergo
+
+VOL. I. v
+
+[p. 290] PARS nt
+
+EAT
+
+Si duo ponderantia. nt pondera et distantias a. centro librae in ratione reciproca, fit squilibrium ; e. convenim,
+
+290 DE RÁTIONIBUS MOTUUM.
+
+adjecto F, fiat utrumque F et D simul, ut unum corpus, squale ipsi C, erit, per precedentem, momentum C ad momentum FD, ut BG ad EH. Fiat jam ut F--D ad D, ita EH ad aliam, EI; et erit momentum F-FD, hoc est, ipsius C, ad momentum D, ut BG ad EI. Sed ratio BG ad EI, componitur ex rationibus BG ad EH, hoc est, A B ad AE, et E H ad EI, hoc est, ponderis C ad pondus D; quare ponderantia magnitudine insqualia, habent momenta, &c. Quod erat probandum.
+
+6. lisdem stantibus, si ducatur IK radio AB parallela, secans AG in K, et KL recte BG parallela, secans A B in L, erunt distantize a centro AB, AL momentis ipsorum C et D proportionales. Nam momentum C est BG, et momentum D est. EI, cui equalis est KL; sed ut A B distantia a centro ad AL distantiam a centro, ita est BG momentum ponderantis C, ad LK sive EI momentum ponderantis D.
+
+7. Si duorum ponderantium pondera et distantim a centro sint in ratione reciproca, sitque centrum libre inter puncta quibus ipse ponderantia applicantur, fiet sequilibrium ; et contra, si equilibrium fiat, erunt ponderum et distantiarum a centro librz ratio reciproca.
+
+Sit (in eadem fig. 3) centrum libre A, radius A B et applicatum in B ponderans quodlibet C, cujus momentum sit BG; sit autem et aliud ponderans quodlibet D, cujus momentum sit EI: ducatur per I recta I K parallela radio A B secans AG in K, et KL parallela BG; erit itaque KL momentum ponderantis D; eritque per precedentem, ut B G momentum ponderantüs C in
+
+[p. 291] puncto B, ad LK momentum ponderantis D in puncto E, ita A B ad AL. Sumatur ex altera parte centri libre, recta A N recte AL equalis, et puncto N sit applicatum ponderans O, quod sit. &d ponderans C ut A B ad A N. Dico ponderantia in B et N facere squilibrium. Nam ratio momenti ponderantis O in puncto N ad momentum ponderantis C in puncto B, (per art. 5) componitur ex rationibus ponderis O ad pondus C, et distantice a centro libre AN sive AL, ad distantiam a centro libre AB. Sed quoniam supponimus esse ut pondus O ad pondus C, ita reciproce distantiam A B ad distantiam A N, erit ratio momenti ponderantis O in puncto N ad momentum ponderantis C in puncto B composita ex rationibus A B ad AN et ANadAB. Positis itaque ordine A B, AN, AB, momentum O erit ad momentum C, ut primum ad ultimum, hoc est, ut AB ad AB; sunt ergo eorum momenta sequalia, et propterea planum per A erit (per defin. 5) planum zequilibrii; fiet ergo zquilibrium: id quod erat probandum. Conversa autem manifesta est. Nam si sit equilibrium, nec sit ratio ponderum et distantiarum reciproca, eadem pondera, etsi alterum eorum pondere augeatur mutetve distantiam, eadem tamen servabunt momenta.
+
+Coroll. Quando ponderantia sunt homogenea, ponderantium, qua habent momenta zqualia, magnitudines et distantize a centro libre sunt reciproce proportionales. Nam in homogeneis est ut pondus ad pondus, ita magnitudo ad magnitudinem.
+
+PARS TIL. 23.
+
+8. Si radio secundum longitudinem suam ap- Siponderantin squali- plicetur parallelogrammum vel parallelipipedum Eretique me vel prisma vel cylindrus vel superficies cylindri, odit
+
+Sphzrze, vel portionis sphzeree, vel prismatis, partes bebunt parte v2
+
+[p. 292] 292 DE RATIONIBUS MOTUUM.
+
+rds ejus abscissz planis basi parallelis habebunt mo-
+
+—— menta in ea ratione, in qua sunt partes trianguli ar emp- (Cujus vertex est centrum libre, et unum latus ipse Wb smeme,, adius) abscisse planis basi parallelis. iue ailes, Sit (in fig. 4) parallelogrammum primo rectangux" lum ABCD, applicatum radio A B secundum totam longitudinem ipsius A B ; et producta C B utcunque in E, fiat triangulum A BE. Abscindatur jam. parallelogrammi pars quzlibet A F plano per FG parallelam basi C B, producaturque F G ad A E in puncto H. Dico momentum totius A BCD esse ad momentum partis À F, ut triangulum A B E ad triangulum A GH, hoc est, in duplicata ratione distantiarum a centro librze.
+
+Diviso parallelogrammo A BCD in partes zequales numero infinitas per rectas basi parallelas, positoque quod momentum recte CB sit BE, momentum recte F G (per art. 7) erit G H ; et momenta singularum rectarum parallelogrammi erunt totidem recte ducte in triangulo ABE, parallele basi BE; quz parallelz simul omnes sunt momentum totius parallelogrammi A B C D; ezdemque simul omnes constituunt superficiem trianguli A B E. Momentum ergo parallelogrammi A BCD est triangulum ABE; et ob eandem rationem momentum parallelogrammi AF est triangulum AGH. — Est ergo momentum parallelogrammi totius ad momentum parallelogrammi partis, ut triangulum ABE ad triangulum AGH, sive in duplicata ratione radiorum quibus applicantur. Quod autem de parallelogramo ostensum est, idem intelligi debet de cylindro, prismate et eorum superficiebus: item de superficiebus sphieree, vel hemispheerii, vel portionis sphserze (sunt enim partes superficiei sphzerse in eadem ratione, [p. 293] in qua sunt partes axis abscissee iisdem paral- PARS IIT. lelis, quibus abscinduntur ipse partes superficiei, ut ——— demonstratum est ab Archimede) ; ideoque squa- lium partium et zequaliter a centro libre distantium, ubique in his omnibus figuris zequalia sunt momenta, eodem modo quo in parallelogrammis.
+
+Secundo, sit parallelogrammum AKIB non rectangulum ; premetur punctum B a recta IB perpendiculariter, id est, secundum rectam B E; et G a recta L G secundum rectam GH, et sic de ceeteris rectis quee sunt rectee I B parallele. Itaque quodcunque momentum tribuamus recte I B, exemplicausa, ponamus B E ; si ducatur AE, momentum totius parallelogrammi A I, erit triangulum A B E; et momentum partis A L, erit triangulum AGH. Itaque momentum ponderantis, habentis latera in radio squaliter applicata, sive perpendiculariter sive oblique applicentur, semper erit ad momentum partis in eadem ratione, quze est totius trianguli ad partem trianguli plano basi parallelo abscissam.
+
+9. Centrum equilibrii cujuslibet figurze deficientis Diameter. secundum rationes diminutee altitudinis et diminutze pd basis commensurabiles, cujus completa est paralle- deácientiam ogrammum vel cylindrus vel parallelipipedum, toos ida axem figure ita dividit, ut pars ad verticem sit ad sium commeopartem reliquam, ut figura completa ad ipsam "bie di. deficientem. utpars ad ver-
+
+Sit enim (in fig. 5) figura deficiens CI A P E, reiques et cujus axis est A B, figura completa CD F E; divi- puzeddedatur autem axis A B in Z, ita ut AZ sit ad Z B, 5eientenut CDFE,ad CIAPE. Dico centrum szquilibrii figure CIA PE, essein puncto Z. Primo, centrum zquilibrii figure. C 1A P E est alicubi in axe A B, id quod manifestum est per se, et proinde A B est
+
+[p. 294] PARS IL. sequalibrii diameter. Ducatur AE, ponaturque DURADE pro momento recte CE; erit igitur (per bee artic. 8) triangulum A B E momentum figurze comfgurarom,&e. plete CD F E. Dividatur axis A B bifariam in L, ducaturque GL H parallela et :qualis recte CE, secans curvam CI AP E in I et P, et rectas A C,
+
+AE in K et M. Preterea ducatur ZO eidem
+
+CE parallela, et fiat ut LG ad LI, ita LM ad aliam, LN. Similiterque fiat in omnibus rectis, quze basi C E parallele duci possunt; et per puncta omnia N ducatur linea A N E, eritque trilineum ANEB momentum figure CI APE. Est autem triangulum A BE ad trilineum ANEB (per cap.x vit.
+
+art. 9) ut ABCD -- AICB, ad AICB bis sumptum, hoc est, ut CDFE -- CIAPE ad CIAPE bis sumptum. Estautem ut CIA PE ad CD F E, hoc est, ut pondus deficientis ad pondus completze, ita CIAPE bis ad CDFE bis. Itaque positis ordine CDFE * CIAPE. CIAPE bis, CDFE bis, ratio CDFE -- CIAPEad CDF E bis componitur ex ratione CDFE -- CIAPE ad CIAPE bis, id est, ex ratione trianguli A B E ad trilineum A N E B, hoc est, ex momento complets;e ad momentum deficientis, et ex ratione CIA PE bis ad C D F E bis, hoc est, ex ratione reciproce sumpta ponderis figure defi- cientis ad pondus figure completze.
+
+Rursus, quoniam ponuntur A Z. ZB :: CDFE.
+
+CIAPE proportionalia, erunt componendo A B.
+
+AZ:: CDFE * CIAPE. CDFE proportionalia.
+
+Et quoniam AL est semissis A B, erunt AL.
+
+AZ: CDFE-*CIAPE.2CDFE proportion- alia. Sed ratio CDFE - CIAPEad2CDFE componitur, ut jam ostensum est, ex ratione momenti ad momentum, &c. Est ergo ratio AL
+
+[p. 295] ad AZ, composita ex ratione momenti figure pr nr complet: C D F E ad momentum figure deficientis —— CIAPE et ex ratione ponderis figure deficientis sme squilibri CIAPE ad pondus figure complete CDFE. [m Sed ratio AL red AZ componitur ex rationibus ALadBZetBZad AZ. Jamratio BZ ad AZ est ratio ponderum reciproca, id est, ponderis CIAPE ad pondus CD FE. Itaque ratio reliqua
+
+AL ad BZ, id est, LB ad BZ est ratio momenti ponderis C D F E ad momentum ponderis CIA P E.
+
+Sed ratio AL ad BZ componitur ex rationibus
+
+AL ad AZ et AZ ad BZ; quarum rationum ea, quz est A Z ad BZ, est ratio ponderis CD F E ad pondus CIA P E. Quare (per articulum 5) reliqua ratio AL ad AZ est ratio distantiarum Z etL a centro libre, quod est A. Quare (per art. 6) pondus CIA PE equilibratum erit super rectam
+
+OZ. Est ergo OZ altera diameter squilibrii ponderis CIA PE. Sed altera ejusdem ponderis diameter szquilibrii est recta A B. — Quare (per def. 7) punctum Z est centrum gravitatis ponderis CIAPE. Quod punctum, per constructionem, dividit axem ita ut pars A Z, quze est ad verticem,
+
+Sit ad partem reliquam BZ, ut figura completa CDFE ad figuram deficientem CIA PE. Quod erat demonstrandum.
+
+Coroll. i. Cujuslibet trilinei plani eorum, que comparantur cum completis suis, in tabella articuli 3, capitis xvii, centrum sequilibrii per ipsam eandem tabulam habetur, sumendo fractionis denominatorem pro parte axis ad verticem, numeratorem vero pro parte ad basim. Exempli causa, quzrens centrum sequilibrii trilinei ex mediis quatuor secundi; invenio in concursu
+
+[p. 296] PARS HL i
+
+Diameter. squilibr complementi semiasis cujutlibet dic- enti, divi dit em qum perrerücem pedes |ualis.
+
+
+columns secunde cum ordine trilineorum ex mediis quatuor, fractionem £, quze significat figuram illam esse ad parallelogrammum suum seu figuram completam, ut £ ad unitatem, hoc est, ut * ad t sive ut 5 ad 7: quare centrum squilibrii ejus axem ita dividet, ut pars ad verticem ad reliquam sit ut 7 ad 5.
+
+Coroll. rr. Cujuslibet conoeidis solidi eorum, quz continentur in tabella articuli 8 ejusdem capitis xvir, similiter in eadem tabella centrum sequilibrii exhibetur. Exempli gratia, si quaero centrum squilibrii coni, invenio conum esse j cylindri, ideoque centrum :equilibrii ejus ita dividere axem, ut pars ad verticem sit 3, pars ad basim 1. Item conoeidem trilinei ex medio unico, id est, conoeidem parabolicam, quia est cylindri 2, id est, 3, habebit centrum zequilibrii in eo puncto, quod axem ita dividit, ut pars ad verticem dupla sit partis ad basim.
+
+10. Diameter szquilibrii complementi semissis figurz cujuslibet earum, quz habentur in tabella articuli 3, capitis xvir, dividit eam, que per verticem figurae ducitur basi parallela et zqualis, ita ut pars ad verticem sit ad reliquam, ut figura completa ad complementum.
+
+Sit enim (in fig. eadem 5) AI CB semissis sive parabole sive alterius trilinei cujuscunque, tabelle articuli 3, capitis xvi, habentis axem A B, basim. BC, cui per verticem zqualis et parallela sit A D; et figura completa parallelogrammum A B CD. Ducatur I Q. utcunque, sed lateri CD parallela ; complementique A I CD altitudo intelligatur esse AD, et ordinatim applicata QI. Itaque altitudo AL, in figura deficiente AIC B, equalis est QI
+
+[p. 297] ordinatim applicate, in complemento ejus; et contra LI, ordinatim applicata in figura AICB, zequalis est altitudini A Q in complemento ejus; et sic, per omnes ceeteras ordinatim applicatas et altitudines, sit mutatio talis, ut quae in figura est ordinatim applicata, eadem in complemento sit altitudo. Itaque ratio altitudinum decrescentium ad rationem ordinatarum decrescentium, quz multiplex est secundum quemvis numerum in figura deficiente, est in complemento secundum eundem numerum submultiplex. Exempli causa, si AICB sit parabola, quia ratio A B ad AL est dupla rationis BC ad LI, erit in complemento AICD ratio AD ad AQ, que eadem est cum ratione B C ad LI, subdupla rationis C D ad QI, que eadem est cum ratione A B ad AL, et proinde complementum est ad parallelogrammum in parabola, ut | ad 3; in trilineo ex mediis duabus, ut 1 ad 4 ; in trilineo ex mediis tribus 1 ad 5,&c. Sunt autem omnes simul applicat in AICD momentum ejus, et omnes applicate in AICB momentum ipsius A IC B: quare momenta complementorum semissium figurarum deficientium in tabella artic. 3, cap. XVII, comparatarum, sunt ut ipse figure deficientes; et propterea recta A D dividitur a diametro squilibrii in ea ratione, ut pars ad verticem sit ad reliquam, ut figura completa A B CD ad complementum AIC D. Coroll. Diameter equilibrii harum semissium reperitur in tabella art. 3, cap. xvit, hoc modo: sit proposita figura deficiens trilineum ex duabus mediis secundum, ea figura est ad completam ut $ad 1, hoc est, ut 3 ad 5. Quare complementum ejus est ad eandem completam ut 2 ad 5. Itaque
+
+25. Diameter equilibrii complementi semissis, &c.
+
+[p. 298] 298 DE RATIONIBUS MOTUUM.
+
+PARSIIL illius complementi diameter zquilibrii secabit ——— rectam per verticem basi parallelam ita ut pars ad verticem sit ad reliquam, ut 5 ad 2. Simili modo, 8i sumatur quilibet alia dictarum figurarum, si a denominatore fractionis ejus in tabella inventz auferatur numerator, dividetur recta per verticem. ita ut pars ad verticem sit ad reliquam, ut denominator ad residuum quod ea subtractione relinquitur. kc He Centrum. sequilibrii semissis figurae curvisemiwisco- lineze cujuslibet earum, quee sunt in primo ordine pesapis det tabelle articuli 3, capitis xvir, est in recta axi idrara" parallela, quz basin dividit secundum numeros EIL. Íractionis in secundo ordine proxime inferiore, numemeor. ita ut numerator respondeat parti quie est ad axem. dxsaeü.  Sumatur (in fig. 6), exempli causa, ex mediis tribus primum, cujus semissis sit ABC D, et compleatur rectangulum A BE D; quare complementum eri BCDE; et quoniam, per tabellam, ABED est ad figuram ABCD ut 5 ad 4, erit eadem ABED ad complementum BCDE vt 5 ad 1. Quare si ducatur FG basi D A parallela, secans axem ita ut AG sit ad G B ut 4 ad 5, erit centrum szquilibrii figure A BCD, per precedentem, in ipsa FG alicubi. Rursus, per precedentem, quoniam figura completa A BED est ad complementum B C D E ut 5 ad 1, divisis BE, AD in H et I in ratione 5 ad 1, erit centrum zquilibrii complementi BC D E alicubi in ducta HT. Ducatur jam per centrum figure complete M recta L K basi parallela, 'et altera ipsi per idem. centrum M perpendicularis NO; recte autem LK, FG secent rectam H Lin Pet Q. Sumatur PR quadrupla recte PQ; ductaque R M producatur [p. 299] donec occurrat recte FG in 8. Est ergo RM ad MS ut 4 ad 1, id est, ut figura ABCD ad complementum suum BCDE. Totius autem ABED centrum est M. Jam quia distantie R et S a centro M sunt in reciproca ratione ponderis complementi BCDE ad pondus figure ABCD, erunt R et S ipsa centra squilibrii figurarum suarum, vel erunt centra illa in aliis punctis diametrorum zquilibii HI, FG. Sed posterius est impossibile. Nam per punctum M alia recta terminata in rectis H I, FG duci non potest in ratione M R ad MSS, hoc est, in ratione figure A BCD ad suum complementum BCDE. Centrum ergo zquilibrii figure A BCD est in puncto S. Quoniam autem est, ut RP ad RQ ita PM ad QS, erit QS partium 5, quarum PM est 4, id est, quarum IN est 4. Quarum autem partium EB sive FG est 6, earum I N sive PM est2. Si igitur fiat ut 4 ad 5, ita 2 ad quartam, erit illa quarta 21. Itaque quarum partium FG est 6, earum QS est 21. Sed FQ est una, ergo FS est 3j. Reliqua igitur G S est partium 2j. Dividitur ergo FG in S, ita ut pars ad axem sit ad partem reliquam, ut 21 ad 33, id est, ut 5 ad 7, id quod respondet numero * in ordine secundo proxime inferiorequam est primi ordinis numerus $; ductaque ST axi parallela, similiter dividitur basis.
+
+Eadem methodo invenitur basin semi-parabole dividi in 3 et 5. Et trilinei ex binis mediis primi in 4 et 6, et trilinei ex quatuor mediis primi in 6 et8. Itaque fractiones ordinis secundi notant rationes, in quas bases figurarum ordinis primi & diametris equilibrii dividuntur, sed ordo primus incipit uno loco altius quam secundus.
+
+PARS TIL. 2» Centrum sequilibri semmiasis, ke.
+
+[p. 300] PARSUL — 12. Centrum sequilibrii semissis cujuslibet figure ——— earum, quse sunt in secundo ordine ejusdem tabellae Gui ee artic. 3, cap. XvIL. est recta axi parallela: quee erede. basin dividit secundum numeros fractionis quz est. [Er in quarto ordine, inferior duobus locis, ita ut Tels ive. numerator respondeat parti ad axem. Mewleds — Sumatur (in fig. 7) semissis trilinei ex duobus »^quL mediis secundi; sit ea ABCD ; complementum ejus BCDE; rectangulum completum ABE D, quod dividatur per centrum M a duabus rectis ad se invicem orthogonaliter ductis LK, NO; et quoniam AB ED est ad ABCD, ut 5 ad 3, dividatur A B in G, ut AG sit ad BG ut 3 ad 5, et ducatur parallela basi FG. Item quoniam ABED est ad BCD E ut 5 ad 2, dividatur BE in puncto I, ita ut BI sit ad IE-ut 5 ad 2; ducaturque I H parallela axi, secans L K, FG in Pet Q. Sumatur jam P R, quz sit ad PQ ut 3 ad 2, ductaque R M producatur ad FG in S. Quoniam ergo, ut RP ad PQ, hoc est, RM ad MS ita est ABCD ad complementum ejus BCDE, et centra equilibri A BC D, BCDE sunt in rectis FG et HI, et centrum zquilibrii utriusque simul in M; erit R centrum complementi BC DE, et S centrum zquilibrii figure A BCD. Et quoniam est ut RP ad RQ ita PM, id es, IN adQS; qualium autem partium BE, id est, FG, est 14, talium IN vel PM est 3, earundum partium QS est 5, et EI, id est, FQ 4, et FS 9, et G8 5; dividit ergo recta-S T, parallela axi, basin A D in 5 et 9. Fractio autem 4 invenitur in tabelle ordine quarto, duobus locis inferior quam est fractio ? in ordine secundo. Juxta eandem methodum si sumatur, in eodem.
+
+[p. 301] ordine secundo, trilineum ex mediis tribus se- PARSIIL eundum, centrum zquilibrii semissis ejus eritin —:— recta axi parallela, quze dividit basin juxta numeros fractionis 4, in quarto ordine duobus locis inferioris ; et sic de cseteris trilineis ordine secundi. Simili methodo, trilinei ex tribus mediis tertii, invenietur centrum szequilibrii esse in recta axi parallela, quz secat basin ita ut pars ad axem sit ad reliquam ut 7 ad 13, &c.
+
+Corollarium. Centra equilibrii semissium dictarum figurarum cognita sunt, cum sint in intersectione rectarum S'T et F G cognitarum.
+
+18. Cognito centro szquilibrii semissis figure cu- Cognito cenjuslibet earum, quse in tabella art. 8, cap. x v1. com- Bio parentur cum parallelogrammo suo, cognoscitur *etágure
+
+MN ] tabella ejusquoque centrum zquilibrii excessus ejusdem supra iE triangulum suum. trüm excessus,
+
+Sumatur, exempli causa, (in fig. 8) semipara-gaoguum bola A BCD, cujus axis A B, completa A B E D, dsiem beris excessus supra triangulum suum BCDB. Ejus centrum sic invenietur. Ducatur FG parallela basi, ita ut A F sittertia parsaxis; et H I parallela axi,ita ut A H sit tertia pars basis. Erit ergo I centrum zequilibrii trianguli A B D. Rursus ducatur K L parallela basi, ita ut A K sit ad A B ut 2 ad 5, et MN parallela axi, ita ut A M sit ad AD ut32d8. Terminetur autem MN in recta K L. Erit ergo N centrum sequilibrii parabole A B C D. Habemus ergo centra :equilibrii: semiparabolse ABCD, et partis ejus, nempe trianguli ABD. Ut inveniamus centrum squilibrii partis relique BCD B, ducatur I N et producatur ad O; in producta autem sumatur N O tripla ipsius I N, eritque O centrum quisitum.
+
+[p. 302] PARS IIL
+
+Centrum.
+
+equilibrii seo-
+
+
+Quoniam enim est ut pondus ABD ad pondus BCD B, ita reciproce recta NO ad rectam IN, et est N centrum totius, et I centrum trianguli ABD, erit O centrum relique partis, nempe, figure B D C B, quod erat inveniendum.
+
+Coroll. Centrum squilibrii figure BD CB est in concursu duarum rectarum, quarum altera est basi parallela, dividens axem ita ut pars ad basin Sit totius axis ? sive yy, altera est axi parallela, ita dividens basin ut pars ad axem sit totius semissis sive M. Nam ducta O P parallela basi, erit ut IN. 8d NO ita FK ad KP, id est, ita 1 ad 3 sive 5 ad 15. Sed AF est totius AB ys, sive, et AK fx sive $, et FK 35, et K P 5, et proinde AP s. Deinde A H est totius basis $ sive yx, AM £ sive *«; ducta ergo OQ. axi parallela, erit M Q, quee tripla est HM, 4. Quare AQ est 1 sive semissis basis A D.
+
+Excessus ceterorum trilineorum ordinis primi, tabelle art. 3, cap. xvri. habent centra eequilibrii in duabus rectis, quz dividunt axem et basin secundum fractiones, quse fractionum in parabola Yr et i numeratoribus addunt 4, denominatoribus autem 6, hoc modo :
+
+In parabola, Axis d basis it. In trilineo primo, Axis B basis i. In trilineo secundo, Axis lj basis, &c.-
+
+Eadem methodo ceterarum figurarum ordinis secundi, tertii, &c. centra squilibrii excessuum. supra triangula sua quilibet, si tanti sit, invenire potest.
+
+14. Centrum zquilibrii sectoris sphseree, id est, toris selidiest figurze composite ex cono recto cujus vertex est in aze, itadi- wis,upena Sphzre centrum, et ex portione sphere com-
+
+[p. 303] DE CENTRO JEQUILIBRII. 308 munem habente cum cono basin, ita dividit rectam, PARS TII.
+
+quze fit ex axe coni et semisse axis portionis simul —— vertice sit ad. totom axem, I1 dimi- sumptis, ut pars ad verticem relique sit tripla, sive ad totam illam rectam, ut 3 ad 4.
+
+Sit enim (in fig. 9) sector sphieree ABC, cujus vertex, centrum sphzrs, sit A, axis AD ; coni et portionis basis, communis circulus super diametrum BC; axis portionis ED ; semissis ejus FD; axis coni AE. Sit denique AG tres quarte rectse AF. Dico G esse sectoris A B C centrum equilibrii.
+
+Ducatur recta FH quantevis longitudinis, faciens cum A F angulum rectum in F, ductaque recta A H, fiat AFH triangulum.  Ducatur deinde eodem centro À arcus quicunque IK, secans AD in L, et chorda ejus secans A D in M ; divisaque ML biferiam in N, ducatur N O parallela rectze FH et occurrens recte AH in O. Quoniam jam BDC est superficies spherica portionis sphserze sbscissm plano recto ad axem ducto per B C, dividitque F H axem portionis ED bifariam in F; erit centrum squilibrii superficiei B D C (per art. 8) in F; et propter eandem rationem centrum zquilibrii superficiei IL K erit in N; et eodem modo si inter A, centrum sphierg, et BDC, extimam sectoris superficiem, ducerentur arcus numero infiniti, superficierum sphzricarum, in quibus illi arcus insunt, centra zquilibrii invenirentur in axis parte intercepta inter ipsam superficiem et planam per chordam arcus axi perpendicularem, ad punctum medium.
+
+Ponatur jam quod momentum sphericz superficiei extime BDC sit FH. Quoniam ergo superficies B D C est ad superficiem IL K in duplicata
+
+[s Te,ub
+
+Fn
+
+[p. 304] 304 DE RATIONIBUS MOTUUM.
+
+PARI. ratione areus BD C. ad arcum ILK, id est, in ——-— duplicata ratione B E ad I M, hoc est, in duplicata
+
+Centrum exuilibrii ratione F H ad N O, fiat ut F H ad NO ita NO ad setoris, &. aliam, N P; et rursus, ut NO ad N P, ita N P ad aliam, N Q: similiterque fiat in omnibus parallelis basi F H, inter ipsam basin et A verticem trianguli AFH, possibilibus. Et per omnia puncta Q. ducatur curva AQH; erit ergo figura AFHQA complementum trilinei ex mediis duabus primi, eademque momentum omnium superficierum sphzericarum, ex quibus sector solidus A BCD componitur; et proinde momentum ipsius sectoris. Intelligatur jam FH esse semidiametrum basis coni recti, cujus latus est A H, axis AF. Quoniam ergo bases conorum per F et N et cetera axis puncta in ratione duplicata sunt reotarum F H, N O, &c. momentum basium omnium simul, id est, totius coni, erit eadem figura AFH QA. Itaque centrum zquilibrii coni idem est quod sectoris solidi. Quoniam ergo AG est tres quartz axis AF, centrum zquilibri coni AF H est in G; quare centrum etiam sectoris solidi est in G, et dividit axis partem A F, ita ut AG sit tripla GF, id est, ut. ita sit AG.ad AF, ut 3ad 4. Quod erat probandum.
+
+Notandum, quod quando sector est hemisphzerium, axis coni evanescit in ipsum punctum, quod est sphierze centrum ; et proinde semissi axis portionis nihil addit. Quare sumptis a centro, in axe hmmispherii, tribus quartis semissis axis, id est, 3 semidiametri sphere, ibi erit centrum sequilibrii hemisphsrii.
+
+[p. 305] DE REFRACTIONE ET REFLEXIONE. 305
+
+CAPUT XXIV.
+
+DE REFRACTIONE ET REFLEXIONE.
+
+1. Definitiones.—2. In motu perpendiculari nulla fit refractio. 5. Projecta e medio raro in densum ita refringuntur, ut angulus refractus angulo inclinationis sit major.—4. Conatus ab uno puncto quaqua versum refringitur ita nt sinus anguli refracti it ad sinum anguli inclinetionis ut densitas medii primi ad densitatem medii secundi reciproce sumptam.—5. Sinus anguli refracti in una inclinatione est ad sinum anguli refracti in alia inclinatione ut sinus anguli inclinationis illius ad sinum anguli inclinationie hujus.—6. Si dus incidentes equaliter inelinatee sint, altera in medio raro, altera in denso, erit sinus anguli inclinationis media proportionalis inter duos sinus angulorum refractorum.—7. Si angulus inclinationis sit semirectus, et recfa inclinata in medio densiore, et sit ratio densitatom ut diagonium quadrati ad latus, et superficies separatrix plana, linea refracta erit in ipsa superficie separatrioe.—8. Si corpusin aliud corpus feratur per lineam rectam, nec ipsum penetret sed reflectatur, erit angulus refexionis angulo incidenti equalis. 9. Idem contingit in motus per incidentem generatione.
+
+DEFINITIONES.
+
+1. RerRacrIO est linez, secundum quam proce- PABS Ut. deret corpus motum vel actio ejus in uno et eodem — medio, in duas lineas rectas propter duorum medi- Defeitiones orum naturam diversam fractio.
+
+it Harum prior incidens, posterior refracta
+
+Tr. Puscíam rcfractionis punctum. commune est incidentis et refractse.
+
+1v. Superficies refringens, quie et mediorum separatriz, ea est in qua est punctum refractionis.
+
+v. Angulus refractue is est, quem facit refracta in puncto refractionis cum ea, que ab eodem
+
+VOL. I. x
+
+[p. 308] PARS IIl. feretur altius alicubi, ut per BF facientem angulum ——— HBF angulo H B C majorem.
+
+Hinc ergo petenda videtur esse causa, quare corpora in magna obliquitate projecta, si vel latiuscula sint vel vi projecta valde magna, incidentia in aquam, ab aqua in aerem rursum rejiciuntur.
+
+Namsi (in fig. 2) aquie superficies sit A B, in quam a puncto C per rectam CA sit projectus lapis, faciens cum BA producta angulum satis minutum C A D; ductaque sit CD perpendicularis ad BA productam ubicunque in D, ipsique CD parallela A E. Movebitur ergo lapis per CA a concursu duorum motuum per D A, C D, quorum. erunt velocitates ut ipse recte D A, CD. A motu autem per CD et omnes ejus parallelas post impactum in A, existet reactio sursum, propterea quod aqua se restituit. Jam si obliquitas jactus satis magna sit, id est, si recta C D satis parva sit, id est, si conatus, quo tendit lapis deorsum, minor Sit quam quo aqua reagit, id est, quam quem a propria habet gravitate, (nam fieri id potest) lapis resurget, propter excessum conatus aqus se restituentis supra conatum lapidis deorsum, ultra superficiem A B, et feretur altius reflexa, per lineam aliam superiorem, qualis est A G.
+
+— 4. Si in medio quolibet supponatur ab uno "udare- alquo puncto conatum in omnes simul partes Wess quaqua versum propagari; oppositumque oblique isnt ej conatui sit medium nature diverse, id est, [Soon rarius vel densius ; ita refringetur conatus ille, ut tina medi pi sinus anguli refracti sit ad sinum anguli inclinatewmedis. tionis, ut densitas primi medii ad densitatem semaus. cundi reciproce sumptam.
+
+In fig. 3 sit, primo, corpus aliquod in A medii
+
+[p. 309] rarioris; intelligaturque conari quaqua versum, PARSlIhabeatque proinde conatum per AB et A b, quibus ——— oblique opponatur medii densioris superficies B b ono pencto in B et b, ita ut A B, A b sint sequales; extenda- 2919s &cturque utrinque recta B). Per puncta autem B, 5 ducantur perpendiculares B C et 5 c; centrisque B, 5 radiis B A, 5 A sequalibus describantur circuli AO, Ac, secantes BC, bc in C et c, et easdem productas in D et d, et productas A B, A b in E et €. Deinde a puncto A ad rectas B C, b c ducantur perpendiculares AF, Af. Est ergo AF sinus anguli inclinationis rectz A B, et A f sinus anguli inclinationis rectz A b, quze duse inclinationes facte sunt per constructionem zequales. Dico, ut densitas medii in quo est BC et 5c ad densitatem medii in quo est B D et 5 d, ita esse sinum anguli refracti ad sinum anguli inclinationis.
+
+Ducatur recta F G parallela rectze A B, occurrens. recte bB product in G. Quoniam ergo parallelz quoque sunt A F, B G, erunt B G, A F zequales, et proinde quo tempore propagatur conatus per A F, eodem tempore propagaretur conatus per BG, si medium esset ejusdem densitatis. Sed quia medium. per BG densius est, id est, resistit conatui magis quam medium in quo est A F, propagabitur conatus in BG minus quam in A F, in ratione densitatis medii ubi A F, ad densitatem medii ubi est B G: sit. ergo ut BGad BH ita densitas medii, in quo est. BG, ad densitatem medii, in quo est AF : sitque temporis mensura radius circuli. Ducatur HI parallela B D occurrens circumferentiz in I; et a puncto I demittatur ad B D perpendicularis IK ; eruntque B H, I K zquales, et erit IK ad AF ut densitas medii in quo A F ad densitatem medii in
+
+[p. 310] PARSIIL quo est IK. Cum ergo tempore AB, qui est —3 radius circuli, conatus propagatur in medio rariore Dern per AF, eodem tempore, id est, tempore BI pro- 9:4: kc pagabitur in medio densiore a K ad I; erit igitur BlIrectme A B refracta. Est autem I K sinus anguli refracti, et A F sinus anguli inclinationis. Quoniam ergo IK est ad A F, ut densitas medii in quo est AF, ad densitatem medii in quo est IK, erit ut densitas medii in quo est AF vel BC ad densitatem medii in quo est I K vel B D, ita sinus anguli refracti ad sinum anguli inclinationis. Eadem ratione ostendi potest, esse ut densitas medii rarioris ad densitatem medii densioris, ita KI sinum anguli refracti ad A F sinum anguli inclinationis.
+
+Secundo, sit corpus, quod quaqua versum conetur in medio densiore, ad I. Siquidem ergo medium utrumque idem esset, conatus ejus per I B tenderet recta ad L, essetque sinus anguli inclinationis L M, zqualis IK, sive BH. Sed quoniam densitas medii in quo est IK, est ad densitatem medii in quo est LM, ut BH ad BG, id est, ad A F, propegabitur conatus magis in medio ubi est LM, quam in medio ubi est I K, in ratione densitatis ad densitatem, id est, in ratione AF ad ML. Ducta ergo BA, erit angulus refractus C B A, et sinus ejus AF. Est autem LM sinus anguli inclinationis. Est ergo rursus ut densitas medii ad densitatem medii diversi, ita reciproce sinus anguli refracti ad sinum anguli inclinationis. Quod erat demonstrandum.
+
+In hac quidem demonstratione, superficiem separatricem B b planam construximus: quanquam autem concava aut convexa esset, theorema verum erit. Nam eum refractio fiat in puncto B super-
+
+[p. 311] DE REFRACTIONE ET REFLEXIONE.  3ll ficiei planze separatricis; si ducatur linea curva ut^ PARS III P Q. quz a separatrice in puncto B tangatur, non —— mutabitur neque linea refracta BI, neque perpendicularis BD; angulusque refractus K BI et sinus ejus K I iidem manebunt qui prius.
+
+5. Sinus anguli refracti in una inclinatione est Sims «ami. ad sinum anguli refracti in alia inclinatione, ut incinatione est. sinus anguli illius inclinationis ad sinum anguli jremeetinils hujus inclinationis.
+
+Quoniam enim sinus anguli refracti est ad sinum.
+
+ad sinum anguli inclinationis (quecunque ea inclinatio sit) angoli inclina- ut densitas medii ad densitatem medii diversi, "*^* hidu- componitur ratio sinus anguli refracti ad sinum anguli inclinationis, ex rationibus densitatis ad densitatem, et sinus anguli inclinationis ad sinum anguli inclinationis diverse; sed rationes densitetum in eodem corpore homogeneo supponuntur ezdem: sunt igitur anguli refracti in diversis inclinationibus, ut sinus ipsorum angulorum inclinationis. Quod erat ostendendum. 6. Si due incidentes equaliter inclinate sint, Side inciàen- altera in medio raro, altera in denso, erit sinus te "int, anguli inclinationis media proportionalis inter duos zuo, sten im sinus angulorum refractorum. pedi
+
+Sit enim (in fig. 3) A B inclinata in medio raro, sonia: quz refracta sit in medio denso per Bl: sitque «lis inter duos
+
+EB tantundem inclinata in medio denso, que penderet refracta sit per BS in medio raro. Ducatur sinus ""* anguli refracti, qui sit RS. Dico rectas RS, AF, IK, esse continue proportionales. Est enim ut densitas medii densioris ad densitatem medii rarioris,ita RSad AF.  Densitas autem eadem medii densioris ad densitatem eandem medii rarioris, ut AFadIK. Suntergo RS. AF:: AF. IK propor-
+
+[p. 312] 312 DB RATIONIBUS MOTUUM.
+
+PC TII. tionales, id est, RS, A F,IK continue proportionales, ——-—— quarum media est À F. Quod erat probandum. Si angulus L3 7. Si angulus inclinationis sit semirectus, et : rectainclinatain medio densiore, et ratio densitatum. mmelodemar Ut diagonium quadrati ad latus, et superficies ae siet 5^ separatrix plana, linea refracta erit in ipsa super- utdigonum ficie separatrice. qudnti adl Co T. e a en tu» etsperi- Sit enim (in fig. 4) angulus inclinationis A BC, Seardner. graduum 45 in cireulo AC.  Producatur CB ad [CS cireumferentiam in D ; ducaturque C E sinus anguli pua  EBO, cuicequalis in B G separatrice sumatur B F: erit ergo BCEF parallelogrammum, et F E, BC, idest, FE, BG zquales. Ducatur A G diagonium. quadrati, cujus BG est latus, eritque ut AG ad EF ita BG ad BF, et ita, per hypothesin, densitas medii in quo C ad densitatem medii in quo D, et ita quoque sinus anguli refracti ad sinum anguli inclinationis. Ducta ergo FD, et ad AB, productam in H, perpendiculari D H, erit D H sinus anguli inclinationis; et quoniam sinus anguli refracti est ad sinum anguli inclinationis ut densitas medii in quo C ad densitatem medii in quo D, id est, per hypothesin, ut AG ad FE, hoc est, BG ad DH, et DH est sinus anguli inclinationis, erit BG sinus anguli refracti. Erit ergo BG linea refracta, eademque in ipsa superficie plana separatrice. Quod erat demonstrandum. Cor. Manifestum est ergo, majore inclinatione quam graduum 45, vel etiam minore inclinatione, modo major sit densitas, fieri posse ut refractio e medio denso in rarum nunquam exeat. Hupwe 8 Si corpus in aliud corpus feratur per lineam. feratur per i.rectam, nec ipsum penetret, sed reflectatur ; erit nem 027» engulus reflectionis angulo incidentis cequalis.
+
+[p. 313] DE REFRACTIONE ET REFLEXIONE. 313
+
+Sit (in fig. 5) mobile in A, quod motu recto per PABS HL. A C incidat in aliud corpus ad C, nec progrediatur, —— sed reflectatur; sit autem angulus incidentize qui- e Pra Pe cunque ACD. Ducatur recta C E faciens cum feme DC producta angulum ECF squalem angulo ionesoguloin- ACD; et ad rectam D F ducatur perpendicularis 1," ^^ "tt AD. In DF sumatur recta CG squalis CD; ducaturque perpendicularis G E secans C E in E.
+
+Erunt ergo triangula. ACD, ECG sequalia et similia. Recte AD ducatur parallela et squalis
+
+CH, quz producatur a parte C utcunque in I. Ducaturque E A quee transibit per H, et erit rectae
+
+GD parallela et zequalis.
+
+Dico motum, qui fit ab A ad C per rectam ineidentem A C, reflecti per CE. Motus enim ab A ad C fit ex duobus motibus coefficientibus sive concurrentibus, altero per A H recte DG parallelam, altero per A D eidem D G perpendicularem ; quorum, qui est per A H, nihil agit in mobile A tunc quando motum est usque ad C, propterea quod supponitur quod non transit rectam DG; motus autem per A D vel H C conatur ulterius ad partes versus 1; sed cum premat tantum, nec penetret, reactio fiet in I C; unde oritur motus a C versus H. Interea vero motus durat per H E, idem qui erat per AH. Agitur ergo mobile a duobus motibus per C H et H E, motibus ex altera parte per AH, H C, zqualibus. —Feretur ergo mobile per C E. Est ergo ECG angulus reflectionis, idemque, per constructionem, sequalis angulo ACD. Quod erat demonstrandum.
+
+Utrum autem superficies vel linea, in qua fit reflectio, recta an curva sit, nihil refert, quando mobile consideratur ut punctum. Nam punctum
+
+[p. 314] PARS III
+
+314 DE RATIONIBUS MOTUUM.
+
+incidentisz et reflectionis C tam curvze, quz rectam DG tangit in C, quam ipsius;D G commune erit.
+
+9. Quod si in puncto À non supponamus mobile aliquod, sed conatum aliquem propagatum ab A ad C, demonstratio tamen eadem erit. Conatus enim omnis est motus, et premit partem obstantis solidi in C, ita ut conatus procedat post incidentiam per CI; itaque et reactio procedet per CH ; et generabitur, a conatu per C H concurrente cum conatu per HE, conatus per CE, ut in repercussione corporum motorum.
+
+Itaque si conatus a puncto quolibet propagetur ad concavam superficiem corporis sphaerice excavati, linea reflexa faciet cum circumferentia maximi in sphzra circuli angulum angulo incidentigz:qualem ; si enim (in fig. 6) conatus propagetur ab A ad circumferentiam in B, sitque C sphreree centrum, et ducta sit C B tangensque D B E, et fiat denique angulus F B D angulo A BE zqualis, fiet reflectio per B F ut modo ostensum est; quare anguli etiam, quos cum circumferentia faciunt recte A B, F B, sequales erunt.
+
+Notandum autem est, quod producta C B utcunque in G, conatus in G B C a sola. est reactione perpendiculari in GB; et propterea in puncto B, nullum alium omnino conatum esse ad partes intra sphzeram, praeterquam qui est per spheeree centrum.
+
+Et tractatus hujus parti quidem tertiz, in qua motum et magnitudinem per se et abstracte consideravimus, terminum hicstatuo. Sequitur pars quarta et ultima de Phaenomenis Natur, id est de motu et magnitudine corporum mundanorum sive quse re ipsa existunt.
+
+[p. 315] PHYSICA, SIVE DE NATUR/E PHJENOMENIS.
+
+CAPUT XXV.
+
+DE SENSIONE ET MOTU ANIMALI.
+
+1. Dicendorum cum dictis connexio.—2. Nature» sentientis investigatio, et sensionis definitio. — 3. Sensionis subjectum et objectum.—4. Sentiendi organum.—5. Non omnia corpora sensu predita esse.—6. Uno tempore unicum phantasma.—7. Preeteritze sensionis reliquie imaginatio ; quee et memoria : item. de somno.—8. Phantasmatum successio, qualis.—9. Somnium, unde fit.—10. Sensum genera, organa, phantasmata propria et communia.—11. Magnitudo phantasmatum, unde determinata.—12. Voluptas, dolor, appetitus, fuga, quid sint.—13. Deliberatio et voluntas, quid.
+
+l. PuiLosoPHiAM definivimus (cap. primo) esse PARSIV. Effectuum ex. cognita generatione, et generationis. alicujus, que esse possit, ex cognitis effectibus n—— sive phanomenis, per rectam ratiocinationem cog- connexio. nitionem acquisitam.
+
+Itaque duzm sunt philosophandi methodi, altera & generatione ad effectus possibiles, altera. ab effectibus $awoufvoc ad possibilem generationem.
+
+[p. 316] Dicendorum eom dictis connexio,
+
+316 PHYSICA.
+
+In quarum priore, ratiocinationis principia prima, nempe definitiones, vera esse facimus nosmet ipsi, per consensionem circa rerum appellationes. Et hanc quidem partem priorem executus sum in precedentibus; in quibus, nj fallor, nihil affirmavi, preter definitiones, quod cum definitionibus ipsis non bene cohzreat, id est, quod illis, qui de usu vocabulorum mecum consentiunt et quibuscum mihi solis res est, non sit satis demonstratum. Aggredior jam partem alteram, a pheenomenis sive effectibus nature nobis per sensum cognitis ad modum investigandum aliquem, juxta quem, non dico generata sunt, sed generari potuerunt. Principia igitur, unde pendent quz sequuntur, non facimus nos, nec pronunciamus universaliter, ut definitiones, sed a nature conditore in ipsis rebus posita observamus ; nec universaliter prolatis, sed singulis utimur. Neque necessitatem hsec faciunt theorematis, sed tantum, non absque propositionibus universalibus supra demonstratis, generationis alicujus ostendunt possibilitatem. — Atque huic parti, quia cognitio, quze hic traditur, principia habet in nature phanomenis et desinit in aliqua scientia causarum naturalium, inscripsi PRYSICAM sive de nature phenomenis. Phenomena autem appellantur quzcunque apparent sive a natura nobis sunt ostensa.
+
+Phaenomenón autem omnium, quz prope nos existunt, id ipsum rà $aívecSa: est admirabilissimum, nimirum, in corporibus naturalibus alia omnium. fere rerum, alia nullarum in seipsis exemplaria habere; adeo ut si pheenomena principia sint cognoscendi cetera, sensionem cognoscendi ipsa principia principium esse, scientiamque omnem ab ea
+
+[p. 317] DE 8ENSIONE ET MOTU ANIMALI. 37 derivari dicendum est, et ad causarum ejus investigationem ab alio pheenomeno, preeter eam ipsam, initium sumi non posse. Sed quo, inquies, sensu contemplabimur sensionem ? Eodem ipso, scilicet, aliorum sensibilium etsi przetereuntium, ad aliquod tamen tempus manente memoria. Nam senmfire se sensisse, meminisse est.
+
+Inquirendz ergo ante omnia sunt seméionis, id est, earum, quas sentientibus nobis innasci perpetuo experimur, idearum sive phantasmatum cause, et modus quo procedit generatio. Ad hanc autem inquisitionem conducit primo loco observare, phantasmata nostra non esse semper eadem, sed nova subinde oriri et vetera evanescere, prout sensionis organa modo in unum, modo in aliud objectum convertuntur. Generantur ergo et pereunt, ex quo intelligitur esse ea corporis sentientis mutationem aliquam.
+
+2. Mutationem autem omnem motum esse aliquem vel conatum, qui conatus etiam motus est, in partibus mutati internis, ostensum est (cap. vi11. art. 9) ex eo, quod quousque cujuscunque corporis partes etiam minimz eundem inter se situm servant, nihil illi novi contingit, (nisi forte ut totum simul moveri possit), quin ut et sit et videatur idem esse, quod ante erat et videbatur. Sensio igitur in sentiente nihil aliud esse potest, preter motum partium aliquarum intus in sentiente existentium, quz partes motze organorum quibus sentimus partes sunt. Nam partes corporis, per quas perficitur sensio, ez ipse sunt quas vulgo organa sensoria appellamus. Habemus ergo jam sensionis subjectum, nimirum, illud in quo insunt phantasmata;
+
+PARA IY.
+
+EU nix definitio.
+
+[p. 318] PABSIY. mur
+
+Nature senti- entis inveati- gatio, et senaionis definitio
+
+318 PHYSICA.
+
+et partim etiam naturam ejus, nempe, quod sit motus aliquis internus in sentiente.
+
+Ostensum est preterea, (cap. vi1I. art. 7) motum. nisi a moto et contiguo generari non posse. Ex | quo intelligitur sensionis immediatam causam esse in eo, quod sensionis organum primum et tangit et premit. Si enim organi pars extima prematur, illa cedente premetur quoque pars, quz versus interiora illi proxima est, et ita propagabitur pressio sive motus ille per partes organi omnes usque ad intimam. Quemadmodum et pressio extimz procedit ab aliqua pressione corporis remotioris; et Sic perpetuo, donec veniatur ad id a quo phantasma ipsum, quod a sensione fit, tanquam a primo fontederivarijudicamus. Illud autem, quodcunque rei sit, objectum vocari solet. Est ergo sensio motus in sentiente aliquis internus, generatus a motu aliquo partium objecti internarum, et propagatus per media ad organi partem intimam. Quibus verbis, quid sensio sit, fere definivimus.
+
+Ostensum item est (cap. xv. art. 2) resistentiam omnem esse conatui conatum contrarium, id est, reactionem. Quoniam igitur motui, ab objecto per media ad organi partem intimam propagato, fit aliqua totius organi resistentia sive reactio per motum ipsius organi internum naturalem, fit propterea conatui ab objecto conatus ab organo contrarius; ut cum conatus ille ad intima ultimus actus sit eorum qui fiunt in actu sensionis, tum demum ex ea reactione aliquandiu durante ipsum existit phantasma ; quod propter conatum versus externa, semper videtur ($aíverar) tanquam aliquid situm extra organum. Definitionem ergo sensionis, eamque ex causarum ejus explicatione et
+
+[p. 319] generationis ordine constantem sic totam propo- He nemus: 4ensio est ab organi sensorii conatu ad —— extra, qui generatur a. conatu ab objecto versus interna, eoque. aliquandiu manente per reactio- nem factum phantasma.
+
+3. Subjectum autem sensionis ipsum est sentiens, Sensionis nimirum animal; et animal videre quam oculum s Ajecen. rectius dicimus. Objectum est id quod sentitur ; itaque videre nos solem accuratius dicimus, quam lucem; lux enim et color, et calor, et sonus, et ceterm qualitates, quse sensibiles vocari solent, objecta non sunt, sed sentientium phantasmata. Phantasma enim est sentiendi actus ; neque differt 8 sensione aliter quam fieri differt a factum esse ; quae differentia in instantaneis nulla est.  Fitautem phantasma in instante. In omni enim motu per corpus perpetuum propagato, pars prima mota movet secundam, secunda tertiam, et sic deinceps usque ad ultimam ; idque ad distantiam quantamcunque. Et in quo puncto temporis pars prima sive anterior processit ad locum secunde, quam ipsa pepulit, eodem puncto temporis pars penultima in locum successit recedentis ultime, quz eodem instante reagens, si reactio satis fortis sit, efficit phantasma; facto autem phantasmate, sensio simul facta est.
+
+4. Organa sentiendi, que quidem in sentiente sextienii sunt, partes ejus ille sunt, quibus lesis, tollitur "P^^phantasmatis generatio, etsi alia pars lesa nulla sit.
+
+Es autem in plerisque animalibus inveniuntur esse spiritus, et membransz qus orte a meninge tenera cerebrum et nervos omnes vestiunt ; ipsum item cerebrum, et arteriz quze in cerebro sunt, et quibus commotis commovetur quoque sensionis
+
+[p. 320] 320 PHYSICA.
+
+PABSIV. omnis origo, cor. Nam ubicunque actio objecti —— attingit corpus sentientis, propagatur actio per aliquem nervum ad cerebrum, et siquidem nervus eo ducens ita ledatur vel obstruatur ut motus propagari ultra non possit, sensio nulla sequitur. Item si motus idem inter cerebrum et cor, defectu organi alicujus deferentis, interceptus sit, objecti nulle erit sensio. Non omnia. 5. Etsi autem sensio, uti diximus, omnis fiat per peii eue. reagtionem, ut tamen quicquid reagit sensiat necessarium non est. Scio fuisse philosophos quosdam, eosdemque viros doctos, qui corpora omnia sensu predita esse sustinuerunt; nec video, si nstura sensionis in reactione sola collocaretur, quo modo refuteri possint. Sed etsi ex reactione etiam corporum aliorum phantasma aliquod nasceretur, illud tamen remoto objecto statim cessaret; nam nisi ad retinendum motum impressum, etiam remoto objecto, apta habeant organa, ut habent animalia, ita tantum sentient, ut nunquam sensisse se recordentur; id quod ad sensionem, de qua nunc sermo institutus est, nihil attinet. Nam per sensionem vulgo intelligimus aliquam de rebus objectis per phantasmata judicationem ; phantas- Tmosta scilicet. comparando, et distinguendo; id quod, nisi motus in organo ille & quo phantasma ortum est, aliquandiu maneat, ipsumque phantasma quandoque redeat, fieri non potest. Sensioni ergo, de qua hic agitur, quseque vulgo ita aj ? necessario adhsret memoria aliqua, qua priora cum posterioribus comparari et alterum ab altero distingui possit. Itaque et sensioni adhzret proprie dicte, ut ei aliqua insita sit perpetuo phantasmatum varietas,
+
+[p. 321] ita ut aliud ab alio discerni possit. Si supponere- PAR?IY. mus enim esse hominem, oculis quidem claris —— ezterisque videndi organis recte se habentibus compositum, nullo autem alio sensu praeditum, eumque ad eandem rem eodem semper colore et specie sine ulla vel minima varietate apparentem Obversum esse, mihi certe, quicquid dicant alii, non magis videre videretur, quam ego videor mihi per tactus organa sentire lacertorum meorum ossa.
+
+Ea tamen perpetuo et undiquaque sensibilissima membrana continguntur. Attonitum esse et for- tasse aspectare eum, sed stupentem dicerem, videre non dicerem; adeo sentire semper idem, et non sentire, ad idem recidunt.
+
+6. Neque vero permittit natura sensionis, ut Unotempore plures res simul sentiantur; cum enim natura petama. sensionis consistat in motu, dum organa sentiendi ab uno aliquo objecto occupantur, ab alio ita moveri non possunt, ut ab utroque motu unum phantasma syncerum oriatur utriusque. Non fient ergo duo phantasmata duorum objectorum, sed unum ex amborum actione conflatum.
+
+Preterea sicut corporis et loci una fit divisio, adeo ut si plura numeres corpora, plura quoque necessario loca numerabis, et contra, ut capite VII. declaratum est; ita quoque fit in divisione motus et temporis, ut quoties plures dicantur motus, toties plura quoque tempora, et quoties plura dicantur tempora, toties plures motus intelligantur.
+
+Nam etsi objectum variegatum videamus, unum tamen est objectum variegatum, non objecta varia.
+
+Accedit quoque, quod dum illa organa, que omnium sensuum sunt communia, quales sunt a radicibus nervorum in hominibus usque ad cor
+
+VOL. I. Y
+
+[p. 322] PARS UV. organi partes omnes, ab unius alicujus objecti
+
+—ÉL.. sensione vehementi commoventur, ad aliorum objectorum omnium, ad quemcunque attinent sensum, actionem recipiendam, per contumaciam. quam mota habent ad motum recipiendum novum, minus sunt utilia. Et inde est quod unius objecti studium aliorum objectorum sensum, presentem quidem, nullum esse patitur. Studium enim aliud non est preter animi occupationem, id est, organorum sentiendi motum ab uno aliquo objecto factum vehementem, quo durante ad cetera stupent; juxta id quod dictum est a Terentio, Populus studio stupidus in funambulo animum occuparat. Stupor autem quid est preeter ávaisSyoíav, id est, sentiendi alia cessationem? — Unicum ergo est objectum, quod uno et eodem tempore sensione percipitur. Adeo ut legentes literas successive non omnes videmus simul, tametsi tota pagina illustretur, et spectantes uno intuitu in paginam, quamvis distinctissime litere singulee scripte sint, legimus tamen nihil.
+
+Intelligi hinc potest conatum organi ad exteriora. non omnem dicendum esse sensionem, sed illum tantum qui cseteris, pro singulis temporibus, vehementia prestat et predominatur; ceterarumque rerum phantasmata, ut lux solis ceterorum astrorum lucem, non actionem impediendo, sed per fulgorem nimium offuscando et abscondendo tollit.
+
+Preterite. 7. Solet autem motus organi, ex quo oritur probed phantesma, non nisi presente objecto, sensio Boiguest n*: appellari: remoto autem sive preetervecto objecto, 4ewm». — manente tamen phantasmate, phantasia, et Latinis imaginatio ; quze vox, quoniam non omnia phantasmata imagines sunt, phantasise generaliter sumptte
+
+[p. 323] adzquate non congruit. Ea tamen, jam satis in- PARS IV. tellecta pro phantasia Grecorum, satis tuto usuri ———. Preterite sumus. sensionis.
+
+Imaginatio ergo nihil aliud est revera quam rasie &c propter objecti remotionem languescens vel debilitata sensio. Causa autem debilitationis quzeenam esse potest? an motus remoto objecto debilior est? si esset, etiam phantasmata imaginantis minus essent clara quam in sensione, idque semper et necessario; quod non est verum. In somniis enim (ez autem dormientium sunt imaginationes) non minus clara sunt quai in sentiente. Vigilantium autem phantasmata rerum preeteritarum quam presentium ideo obscuriora sunt, quia organa a presentibus objectis simul commota faciunt ut minus preedominentur. In somno autem, precluso aditu, externa actio interno motui nihil officit.
+
+Quod si verum sit, considerandum est deinceps an causa aliqua inveniri possit, qua supposita, objectis sensuum externis ad interiora organi aditus necessario precludatur.  Suppone ergo diuturna objectorum actione, quam necessario sequitur organi, et precipue spirituum reactio, organum lassari, id est, partes ejus a spiritibus non sine dolore aliquo commoveri; et proinde desertis et laxatis nervis ad fontem suum, sive in cerebri sive in cordis cavitate positum, se retrahere, unde actio, que per nervos derivabatur, necessario intercipitur. Nam actio in patiens quod ante se fugit, primo minus agit, deinde solutis paulatim nervis nihil: cessat ergo reactio, id est sensio, quoad, organo per quietem refecto spirituque aucto, evigilatur. Atque hoc ita sane se habere semper videtur, nisi alia aliqua preter
+
+Y2
+
+[p. 324] PARSIY. naturz animalis ordinem causa superveniat, ut a 25. SES Seupun : ———— lassitudine vel a morbo aliquo internus ardor, qui spiritus et organi partes czeteras preeter solitum concutiat.
+
+Phasamatum.— 8. Qiuod autem in varietate hac phantasmatum successio, qualis, alia ex aliis nascantur, et ex iisdem modo similia, modo dissimillima in mentem veniant, non sine causa nec tam fortuito fit, ut multi fortasse arbitrantur. Nam in motu partium corporis continui, pars partem sequitur per cohzsionem. Dum igitur oculos aliorumque sensuum organa ad plura objecta successive obvertimus, manente qui ab unoquoque *eorum factus erat motus, renascuntur phantasmata quoties quilibet eorum motuum ceteris preedominatur; predominantur autem eodem ordine, quo in aliquo tempore jam preterito per sensionem generata erant. lta ut postquam valde multa per etatem senserimus, quzlibet cogitatio ex qualibet fere oriri possit, et propterea, quie quam sequutura sit, fortuitum videri potest. Minus autem plerumque vigilantibus incertum est hoc. Quoniam cogitatio sive phantasma cupiti finis inducit phantasmata reediorum ad illum finem conducentium, idque ordine analytico à mediorum ultimo ad primum, et rursus a principio ad finem. Sed hoc supponit et appetitum, et mediorum ad finem judicationem, quos fert experientia. Experientia autem est phantasmatum copia orta ex multarum rerum sensionibus.
+
+Non enim differunt inter se $avrázesda: et meminisse, nisi quod meminisse supponit tempus przeteritum, $avrálesfa: autem minime. In memoria phantasmata tanquam tempore attrita considerantur ; in phantasia ut sunt. Quse quidem distinctio non
+
+[p. 325] rerum est, sed considerationum sentientis. Con- PARsIY. tingit enim in memoria simile quid ei, quod con- X tingit in prospectu ad res longinquas. Nam ut hic corporum partes minutiores pre nimia distantia non cernuntur, ita illic multa accidentia et loca et. partes rerum, sensibus olim percepta, vetustate abolentur. Ortus perpetuus tum sentientibus tum cogitantibus phantasmatum, id ipsum est, quod appellari solet animi discursus; et communis est hominibus cum brutis; nam is, qui cogitat, transeuntia phantasmata comparat, id est, similitudinem vel dissimilitudinem inter ea animadvertit. Et similitudines quidem inter res diversarum naturarum vel longe inter se dissitas celeriter observare, Phantasie ; dissimilitudines autem inter res similes invenire, Judicii plerumque laus existimatur. Differentiarum autem observatio non est a sensione proprie dicta sensio aliqua, per sensorium aliquod commune, distincta, sed manentibus aliquantisper phantasmatis particularibus, differentiarum memoria ; ut calidi et lucidi distinctio nihil aliud sit preeter objecti calefacientis et illuminantis memoriam.
+
+9. Phantasmata dormientium somnia sunt. Circa Somnium, quz, ab experientia docemur quinque. Primo, "**** quod sunt pleraque inordinata et incohzrentia. Secundo, quod nihil somniamus nisi quz a phantesmatis sensionis preteriti sunt composita et , ficta. Tertio, quod nascuntur aliquando quidem ex phantasmatum in dormiturientibus paulatim a somnolentia corruptorum  interruptione; quandoque vero in medio oriuntur somno. Quarto, quod vigilantium imaginationibus, prseter sensiones, fortiora, sed ipsis sensionibus claritate squalia sunt. Quinto, quod neque loca neque aspectus
+
+[p. 326] 25.
+
+Somnium, unde fit
+
+326 PHYSICA.
+
+rerum somniantes admiramur. Quorum $atvoutvwv qua cause esse possunt, non est difficile ex przecedentibus indicare. Quod ad primum attinet, quia ordo et cohzrentia omnis a frequenti ad finem respectatione, id est, a consilio oritur, necesse est, amissa per somnum cogitatione finis, ut phantasmata alia aliis succedant non amplius eo ordine, qui ad finem tendit, sed ut contingit, utque objecta visus, quo tempore indifferenter se habet aliquis ad visibilia omnia, a vidente non quia vult, sed quia non clausit oculos, nullo ordine aspiciuntur. Secundum autem ex eo nascitur, quod cessante sensione, motus novus ab objectis nullus est. Itaque nec novum phantasma ullum, nisi novum dixerimus quod compositum est ex veteribus, ut Chimzra, mons aureus et similia. Ad tertium, quare somnium aliquando quasi cum sensione continüatum corruptis fiat phantasmatis ut in egrotantibus, ratio manifesta est, quod sensio per organa quidem alia manet, per alia deficit. Quomodo autem, sopitis omnibus organis exterioribus, phantasmata tamen quzedam resuscitata sunt, difficilius dictu est. Nihilominus id quoque in iisdem precedentibus causam habet. Quscunque enim meningem teneram concutiunt, phantasmata excitant aliqua ex iis, quorum motus in cerebro adhuc durant; et qui motus cseteris preedominatur, ab eo motu oritur phantasma, si modo ab interno motu cordis membrana illa concutiatur. Qui quidem motus cordis sunt appetitus et aversiones, de quibus mox dicendum est. Sicut autem appetitus et fuga. 2 phantasmatis, ita et phantasmata ex appetitu et fuga vicissim generantur. Exempli causa, ex ira et pugna nascitur in corde calor; et rursus ex
+
+[p. 327] DE SENSIONE ET MOTU ANIMALI . 327 calore in corde, etsi aliunde orto, ira et hostis PARA V. species in somno excitatur. Utque amor et forms —— species calorem quibusdam ingenerat organis, ita foror" et calor in iisdem organis, etsi adventitius, cupidinem aliquando excitat, et forms speciem non repugnantis. Eodem denique modo, dormientium algor somniantibus spectrum aliquod horridum vel periculi phantasma ostentat, metumque efficit; ut metus algoris causa est in vigilantibus; adeo inter se motus cordis et cerebri sunt reciproci. Quod ad quartum attinet, quare ea, qu: in somnis videmur videre vel sentire, tam clara sunt quam in ipsa sensione, causa ejus rei in duabus consistit rebus; quarum altera quidem est, quod cessante sensu exteriore, motus, a quo phantasma oritur, ut presens dominatur ; altera vero quod phantasmatum partes tempore detrite aliis partibus fictis resarciuntur. Denique loca et species rerum ante incognitas, ideo somniantes non admiramur, quia admiratio postulat ut res nova et insolita videatur, id quod nisi recordantibus speciem priorem contingere non potest. In somnis autem videntur omnia ut przesentia.
+
+Observandum autem est somnia quedam, presertim ex iis quz semisopitis accidunt, et ea quae contingunt hominibus naturz somniorum imperitis, iisdemque superstitiosis, non fuisse olim, nec esse nunc pro somniishabita. Putabantur enim spectra, vocesque in somnis audiri visse, non phantasmata, Sed ipsa per se fuisse in rebus extra somniantes subsistentia objecta. Nam in aliquibus metus ipse,non modo dormientibus, sed etiam vigilantibus, presertim vero sceleris consciis, et noctu, et in locis consecratis, et adjutus aliquantulum talium
+
+[p. 328] 25.
+
+Sensuum genere, organa, phantasmata. propria et commuoia.
+
+828 . PHYSICA.
+
+apparitionum historiis, phantasmata horribilia in animo excitavit, quz spectrorum et substantiarum incorporearum nomina pro veris rebus imposuere et imponunt.
+
+10. Sensuum observata sunt in plerisque animalibus genera quinque, tum organis tum etiam phantasmatum genere distincta. Visus, auditus, Olfactus, gustus, et tactus; organa habentes partim sibi propria, partim omnibus communia. Visus organum partim animatum, partim inanimatumest. Inanimatum sunt tres liquores, aqueus, qui, interposita membrana uvea in medio perforata, quod foramen pupilla dicitur, continetur ex una parte, prima oculi superficie concava; ex altera parte, processibus ciliaribus et tegumento humoris cristallini ; cristallinus, qui, inter processus ciliares medius pendens, figura ad sphzricam accedente, consistentia crassiore, propria cuticula pellucida undiquaque determinatur ; et vitreus, qui reliquam oculi implet cavitatem, aqueo quidem crassior, sed cristallino subtilior. Pars organi animata occurrit, primo, membrana choroeides pars meningis tenerse, nisi quod obducta ei sit derivata a medulla nervi optici tunica, quz appellatur retina; et quz choroeides, cum sit pars meningis tenere, continua est usque ad initium quod intra cranium est spinalis medulle; ubi omnium nervorum intra cranium sunt radices. Quicquid ergo spirituum. animalium in nervos inspiratur ibi intrat, nec ut aliunde intret cogitabile est. Quoniam ergo sensio aliud non est preter objectorum actionem ad ultima. organi propagatam, nec spiritus animales quam spiritus vitales a corde per arterias delati et redditi puriores, necesse est ut ad radices nervorum, qui in
+
+[p. 329] eapite sunt, actio per arterias aliquas a corde deri- PABSIV.
+
+vetur, sive arteriz ille sint plexus retiformis, sive ——-—— ali, quze in substantiam cerebri inseruntur. Ille gei igitur arteries complementum sunt, sive reliquum eet totius organi visori. — Hec autem pars ultima communia.
+
+sensuum omnium organum est commune ; cum illud quod ab oculo ad nervorum radices pertinet visionis proprium est.  Auditus organum proprium est tympanum auris, et inde nervus proprius ; caetera usque ad cor communia sunt. Olfactus et gustus organa propria sunt, hujus quidem cutis et nervus intra in palato et lingua; illius vero in naribus ;
+
+2b horum nervorum oftu cetera deinceps sunt communia. Tactus denique organum sunt nervi et membran: per totum corpus distribute, ortze et ille ab origine nervorum. Cetera inde omnium sensuum communia non videntur per nervos sed Phantasma a visu proprium est lumen. Sub nomine luminis continetur etiam (quod lumen per- turbatum est) color. Itaque corporis lucidi, lumen;
+
+colorati color phantasma est. Et visus objectum.
+
+proprie dictum non est lumen nec color, sed ipsum corpus lucidum, vel illustratum, vel coloratum.
+
+Tlla enim, cum sint phantasmata, sentientis sunt, non ejus quod sentitur accidentia. Hoc autem ex eo manifestum satis est, quod res visibiles in iis sspe apparent locis, in quibus eas non esse certo scimus ; quodque diversis diverso apparent colore, et pluribus simul locis apparere possunt. Motus,
+
+Quies, Magnitudo, Figura cum visu tactui commu- niasunt. Sed nec lumen, nec color sine figura esse potest. Totum autem illud, figura cum lumine vel colore, a Grecis eidoc, et «iwAov, et ia; a Latinis
+
+[p. 330] 330 PHYSICA.
+
+PARSIV. species et imago, (que voces omnes idem signifi- —B cant quod aspectus) appellari solet. Phantasma ab auditu, sonus; ab olfactu, odor ; a gustu, sapor est: a tactu autem sunt durities et. mollities, calor et frigus; aqueositas, oleositas, et multa alia quz sensu bene, verbis non satis distinguuntur. Levitas, asperitas, raritas, densitas ad figuram referuntur, et propterea tactui cum visu communia sunt. Objecta item auditus, olfactus, gustus, tactus, non sunt sonus, odor, sapor, durities, &c.; sed ea corpora qui sonum, odorem, saporem, duritiem, &c. efficiunt; de quorum causis et quo modo producuntur, infra dicturi sumus. Phantasmata autem hzc etsi objectorum in or- gana agentium effectus sint, producti in subjecto sentiente ; sunt tamen in iisdem organis, ab iisdem objectis producti preterea effectus aliij nempe motus quidam a sensione orti, qui sofus appellantur animales. Quoniam enim in Qmni sensione rerum externarum actio fit et reactio mutua, id est, oppositi sibi invicem conatus duo, manifestum est motum ab utroque simul factum ad latera undiquaque continuari, przcipue vero ad utriusque corporis confinia. Hoc cum fit in organo interiore, conatus fit ad exteriora per angulum solidum majorem quam si impressio fuisset levior, atque inde major fit idea.
+
+Mani — 11. Apparet hinc causa physica, primo, quare e end wa majora videntur, ceteris paribus, que sub majore
+
+3eemin". videntur angulo. Secundo, quare in nocte serena, illuni, frigida, plures apparent stelle fixz, quam inalio tempore. Namque illarum actio per serenum aerem minus impeditur, et per silentium lunz minus absconditur, seu offuscatur; frigus
+
+[p. 331] DE 8ENSIONE ET MOTU ANIMALI. 331
+
+&utem, aerem serenans, stellarum in oculum ac- Herrn tionem adjuvat sive corroborat, ita ut stelle, non —-— aliter vise, sic videri possint. Atque hec sufficiant de sensione, quze fit per organi reactionem, dicta generaliter. Nam de loco imaginis, de fallaciis visus, et aliis rebus, quas sentiendo in nobismet.
+
+ipsis experimur, quia magna ex parte ab oculi humani fabrica propria dependent, dicendum tunc est cum de homine disseremus.
+
+12. Est autem aliud sensionis genus, de quo voluptas, ào- dicturi aliqua nune sumus, nimirum sensio eolup- o, rani. tatis et doloris, eaque orta non a reactione cordis versus exteriora, sed ab organi parte extima per continuam actionem versus cor. Cum enim vitz principium in corde sit, necesse est ut motus a sentiente ad cor propagatus motum vitalem aliquo modo mutet sive divertat, nimirum faciliorem reddens vel difficiliorem, juvans vel impediens. Si juvet, voluptas, si impediat, dolor, molestia, «egritudo nascitur. Et sicut phantasmata, a conatu ad externa extra existere, ita voluptas et dolor in sensione, propter conatum organi ad interiora videntur intus esse, ibi nempe ubi est prima voluptatis sive doloris causa, ut in dolore a vulnere, ubi est vulnus ipsum ibi videtur esse dolor.
+
+Motus autem vitalis sanguinis motus est, per venas arteriasque, ut a primo ejus rei observatore nostrate Harveo multis certissimisque signis ostensum est, perpetuo circumeuntis. Qui motus, si a motu facto per objectorum sensibilium actionem impediatur, rursus per partium corporis flexionem directionemve  restituetur, spiritibus scilicet modo in hos modo in illos nervos impulsis, donec quantum fieri potest molestia omnis tollatur.
+
+[p. 332] 332 ] PHYSICA.
+
+PARSIY. Sin a motu per sensionem vitalis motus adjuvetur, ied disponentur partes organi ad spiritus ita regendos, la Preis, Ut is motus quantum fieri potest nervorum ope fogs, quid sin. conservetur et, adaugeatur. Atque hic quidem in motu animali est conatus primus, inveniturque etiam in embryone, qui molestiam, si quando est, fugiens vel placida sequutus in utero matris artus suos motu movet voluntario. Conatus autem iste primus, quatenus ad placida experiendo cognita dirigitur, appetitus, id est, aditio, quatenus molesta evitantur, aversio et fuga dicitur.
+
+Initio autem et illico ac nascuntur fcetus parvuli, pauca appetunt, pauca fugiunt destituti experientia et memoria; et propterea tantam motus animalis varietatem non habent quantam videmus esse in adultis. Nam objecta an placitura an nocitura sint, sine multarum rerum cognitione sensitiva, id est, sine experientia et memoria sciri non potest; conjectandi tamen ex aspectu rerum locus est aliquis, et proinde quz bona an mala ipsis futura sint nesciunt, ad ea tamen accedunt et ab lisdem recedunt dubitantes. Postea vero tum in lis quee appetenda et fugienda sunt, tum in usu nervorum ceterorumque organorum ad fugienda aliqua et adeunda alie, paulatim prompti fiunt assuescendo. Sunt ergo appetitus et fuga sive animi aversio motus animalis conatus primi.
+
+Conatum autem primum sequitur spirituum animalium, quorum aliquod necesse est esse prope ad nervorum originem receptaculum sive locum, in nervos impulsio et rursum retractio ; quem motum Sive conatum sequitur necessario turgescentia et relaxatio musculorum ; quas denique artuum contractio sequitur et extensio, qui est motus animalis.
+
+[p. 333] DE SENSIONE ET MOTU ANIMALI. 338
+
+13. Appetitus autem ut et fugze considerationes diverse sunt. Cum enim animalia modo appetant. modo fugiant eandem rem, prout placituram vel nocituram sibi putant, manente illa appetitus et fugz alternatione, fit series cogitationum illa, quae dicitur deliberatio; que tam diu durat quam diu in eorum potestate est vel obtinere quod placet, vel quod displicet effugere. Appetitus ergo et fuga, nisi preeexistente deliberatione, simpliciter vocantur appetitus et fuga. Sed si precesserit deliberatio, tunc ultimus in ea actus appellatur, si umppetitus sit, velle sive volifio; si fuga, nolle; ita ut eadem res voluntas vocetur et appetitus, sed consideratio, nempe an ante an post deliberationem, diversa sit. Neque id, quod intus in homine fit, dum vult aliquid, dissimile ei est quod fit in aliis animalibus dum, habita prius deliberatione, appetunt.
+
+Neque libertas volendi vel nolendi major est in homine quam in aliis animalibus. Nam in appetente appetendi causa prwcesserat integra, et proinde ipsa appetitio, ut cap. IX. art. 5 ostensum est, non sequi non poterat, id est, secuta est necessario. Libertas igitur talis, ut a necessitate libera sit, neque hominum neque brutorum voluntati convenit. Quod si per Jibertatem intelligamus facultatem, non quidem volendi, sed quz volunt faciendi, ea certe libertas utrique concedi potest ; et cum adest, :que utrique adest.
+
+Rursus, appetitus et fuga dum celeriter sibi mutuo succedunt, nomen habet tota ex iis facta series modo ab una, modo ab altera. Nam ab appetitu spes, & fuga metus dicitur, eadem nutans modo ad alteram, modo ad alteram partem, deli-
+
+PARS TY.
+
+Deliberatio et voluntas, quid.
+
+[p. 334] 334 PHYSICA.
+
+PABSIV. beratio. Nam sine spe metus non dicendus est, —ÀX. sedodium; necsine metu spes sedcupido. Omnes preregderl denique animi quz dicuntur passiones, appetitu et fuga constant (preter voluptatem et molestiam puram, quz boni malive est certa /fruitio), ut ira fuga est imminentis mali, sed quz cum appetitu mali illius per vim effugiendi conjuncta est. Sed quoniam passiones perturbationesque animi innu- merze sunt, et earum multe preterquam in homi- nibus inconspicus, dicemus de illis fusius in ea sectione qui est De Homine. Objecta autem ea, que animum, si qua sunt, omnino non commo- vent, illa contemni dicimur. Hactenus de sensu generatim. "Transeundum nunc est ad sensibilia.
+
+CAPUT XXVI. DE UNIVERSO ET SYDERIBUS.
+
+1. Magnitudo et duratio universi inscrutabiles.—2. Locum in wniverso vacuum nullum esse.—9. Argumenta Lucretii pro vacuo esse invalida.—4. Alis quedam argumenta ad vacuum ponendum invalida.— 5. Ad salvanda nature phenomena hypotheses sex.—6. Cause redduntur possibiles motus annui et diurni, et apparentis directionis, stationis, et retrogradationis. planetarum.—7. Suppositio motus simplicis unde fit verisimilis. 8. Causa excentricitatis motus terre» annui—9. Causa quare lungo facies terree semper obvertitur eadem.—10. Causa extuur oceani.—11. Causa precessionis eequinoxiorum.
+
+Magituo 1. CONTEMPLATIONEM sensionis sequitur contem- Winmi  platio corporum, quz sentiendi cause eficientes inxruables give objecta sunt. Objectum autem omne universi mundi vel pars est, vel partium aggregatum.
+
+Corporum sive objectorum sensibilium, maximum
+
+[p. 335] DB UNIVERSO ET SYDERIBUS. 335 omnium est ipse mundus, qui nobis super hoc punctum ejus, quam vocamus terram, circumspicientibus undiquaque perceptibilis est. De [o ut uno multarum partium aggregato, que quseri possunt paucissima sunt, que determinari nulla. Quasi quidem potest, totus mundus quantus, quam diuturnus, et quotus sit, sed aliud nihil. Nam locus quidem et tempus, id est, magnitudo et duratio, corporis simpliciter dicti, id est, indefinite sumpti, sunt phantasmata, (ut cap. vII. ostensum est), ceetera autem phantasmata omnia sunt corporum sive objectorum suorum inter se distinctorum; ut color coloratorum, sonus auditorum, &c. De magnitudine mundi quzestiones sunt, an finitus an infinitus; plenus an non plenus? De duratione, an inceperit, an sternus? de numero, an unus an plures? etsi de numero, si mundus magnitudine infinitus fuerit, controversia nulla esse potest. Item si inceperit, & qua causa et qua materia factus fuerit? rursusque de illa causa et materia, unde extiterint, nove erunt qusestiones donec perveniatur ad causam aliquam sternam, unam vel plures. Atque hec omnia ab eo, qui philosophiam complecti profiteretur universam, determinanda essent, si quantum quseri, tantum. sciri posset. — Est autem infiniti scientia finito quzesitori inaccessibilis. Quicquid homines scimus a phantasmatis nostris didicimus; phantasma autem infiniti, sive magnitudine sive tempore, nullum est ; neque enim homo neque ulla alia res, preterquam quie ipsa infinita sit, infiniti conceptionem ullam habere potest ; neque si quis ab effectu quocunque ad causam ejus immediatam, atque inde ad remotiorem et sic perpetuo, ratiocinatione rectissima
+
+PARSTY.
+
+mem Magnitudo et duratio universi inscrutabiles.
+
+[p. 336] PARS UY. ascenderit, non tamen in eternum procedere po- —— — terit, sed defatigatus aliquando deficiet, et qui- Mp5 dem an ulterius progredi potuerit, necne, nescius. uremiuia, Neque absurdi sequetur quicquam, sive finitus sive infinitus mundus statuatur; cum utrumvis statuisset mundi opifex, quz nunc videntur eadem omnia videri potuissent. Preterea etsi ex eo, quod nihil potest movere seipsum, satis recte infertur primum aliquod esse moyens quod fuerit sternum, non tamen inferetur id, quod inferre solent, nempe seternum immobile, sed contra zternum motum ; siquidem, ut verum est. nihil moveri a seipso, ita etiam verum est, nihil moveri nisi a moto. Qusestiones ergo de magnitudine et origine mundi, non a philosophis, sed ab iis, qui ordinando Dei cultu legitime presunt, determinandse sunt. Nam ut Deus Optimus Mazimus,cum populum suum in Judzam induxisset, primitias fructuum sibi reservatas concessit sacerdotibus, ita quoque, cum mundum a se factum disputationibus hominum tradidisset, opiniones tamen de natura infiniti et seterni sibi soli cognita tanquam primitias sapientis judicari ab iis voluit, quorum in religione ordinanda ministerio uti voluit. Illosigitur, qui mundi originem aliquam fuisse rationibus suis a rebus naturalibus demonstrasse se jactitant, laudare non possum. Ab idiotis, quia quid dicant non intelligunt; ab eruditis, quia intelligunt, ab utrovis merito contemnuntur. Quis enim hoc modo demonstrantem laudet? Si mundus ab seterno erat, tunc numerus dierum sive alius cujusvis temporum mensure infinitus natalem Abrahami antecessit; sed nativitas Abrahami antecessit nativitatem Isaaci ; infinitum ergo infinito, sive seternum seterno majus: [p. 337] quod, inquit, absurdum est. Similis demon- PARS TY. stratio est ac si quis ex eo, quod numerorum parium —.— — numerus fit infinitus, totidem esse concluderet M*fritsio mumeros pares quot sunt simpliciter numeri, idimiemi. est, pares et impares simul sumpti. Nonne qui seternitatem mundi sic tollunt, eadem opera etiam mundi conditori eternitatem tollunt? Itaque ab hoc absurdo in aliud incidunt, coacti szternitatem nunc stans, et numerorum infinitum numerum waitatem dicere, quod multo est absurdius. Cur enim seternitas dicenda est nunc stans potius quam. tunc stans? Erunt ergo vel multe szeternitates, vel nunc et func idem significabunt. Cum hujusmodi demonstratoribus dAAoeyAóssor nobis nulla iniri potest disputatio. Sunt autem ii, qui tam absurde ratiocinantur, non idiotz, sed, quibus id minime ignoscendum est, geometrz, et qui aliorum hominum demonstrationum judices esse volunt, inepti quidem, sed severi. Causa est, quod simul ac vocibus imfiniti et eterni, quibus rei nullius Substernitur in animo, preter ipsius comprehensionis proprie defectum, idea, irretiti sunt, aut absurdi aliquid dicendum est, aut, quod molestius est, tacendum. — Habet enim geometria nescio quid vino simile, recens inflat; cum deferbuerit, minus dulce est, sed juvat. Quicquid ergo verum est, idem demonstrare se posse putat geometria recens ; sedatior facta, non item. Qusestiones igitur de infinito et eterno sciens prwtereo, contentus ea doctrina circa mundi magnitudinem et originem, quam suaserint Scripture Sacre, et, quz illas confirmat, miraculorum fama, et mos patrius et legum reverentia debita; transeoque ad alia, quae disputare nefas non est.
+
+VOL. I. z
+
+[p. 338] PARSIV. 2. De mundo preterea quoi solet, an partes —— ejus ita sibi invicem contiguz sint, ut ne minimum Lownis wit quidem admittant interstitium. vacuum? Et dismulumewe putatur in utramque partem satis probabiliter. Ad tollendum vacuum unicum adducam experimentum, satis tritum, attamen, ut mihi videtur, validissi- mum. Sit ergo (in fig. 1) hydria A B, quali uti solent ad rigandos hortos hortulani; cujus fundus
+
+B pluribus pertusus sit foraminulis; habeatque osculum, quod digito, cum opus fuerit, obturari possit, in A. Si jam hydria illa, obturato prius foramine ad A, aqua impleatur invertaturque, ea, occluso osculo, per nullum eorum foraminum effluet quz sunt in fundo B ; amoto autem digito,
+
+"ut aer superne ingrediatur, per omnia; rursusque applicito digito, simul et subito omnis sistetur.
+
+Cujus rei causa alia non videtur esse, quam quod aqua conatu suo ad descensum naturali subjectum aerem pellere ante se non potest; propterea quod.
+
+locus nullus sit quo pulsus se recipiat, nisi vel pellendo aerem vicinum fiat conatus continuus usque ad foramen A, ibique aer in hydriam intret atque aquse succedat defluenti, vel aquse deorsum conanti resistendo per ipsam aquam transeat. Sed primum, foramine A obstructo, impossibile est.
+
+Neque autem secundum fieri potest, nisi foramina ita magna sint ut pondere effluentis aque per eadem foramina et eodem tempore aer in hydriam compellatur; eo modo, quo fit quando vasculum ali- quod, cui os aliquanto laxius est, effundendze aquse causa subito invertimus; tunc enim aer coactus aquse pondere, per orificii circumferentiam, tes- tante ipsa sigultiente et restitante aqua, in vascu- lum penetrabit. Signum ergo mihi plenitudinis
+
+[p. 339] universe est, quod, nisi ea concessa, motus natu- dae ralis aquse, nimirum corporis gravis, non impedi- —— retur.
+
+3. E contra, ad vacuum astruendum argumenta Argumenta. experimentaque multa et satis speciosa. afferuntur. Lern In quibus tamen singulis ad conclusionis firmita- iaralidatem semper videtur aliquid desiderari. Pro vacuo autem argumenta sunt partim eorum, qui sequuti sunt doctrinam Epicuri. Ille autem constare universum docuit ex locis minimis nullo corpore occupatis, et minimis corporibus nullum vacuum locum comprehendentibus, queque ob duritiem appellat atomos, interspersis. Epicureorum argumenta a Lucretio exposita sunt hzec.
+
+Dicit itaque primo, ni ita esset, nullum potuisse esse motum. Corporis enim inquit officium est motui obstare et officere. Si quidem ergo omnia corpore essent plena, obstaculum motui ubique esset. Motus ergo initium nullum esse potuit, neque ergo motum ullum esse.
+
+In pleno quidem et secundum omnes suas partes quiescente, initium motus fieri impossibile est ; sed nihil inde trahitur ad probationem vacui. Nam etsi vacuum esse concederetur, corpora autem illi intermista semel et simul omnia quiescerent, nunquam ea rursus moverentur. Est enim supra demonstratum (cap. IX. artic. 7,) nihil moveri posse nisi a moto et contiguo. Cum igitur omnia simul quieta esse supponantur, nullum erit contiguum motum, neque ergo motus unquam ullius initium. Negatio autem initii motus, motum presentem non tollit, nisi tollat etiam initium corporis.
+
+Potuit enim motus fuisse corpori vel costernus vel concreatus. Non enim ut corpora fuerint primo
+
+[p. 340] Los quieta, post mota, magis videtur necessarium, quam. —— wt primo mota, deinde quieta, si unquam quieta,
+
+Argumenta. Lucretii pro. Yacuo esse invalida.
+
+fuerint. Neque causa apparet major, quare materia. mundana interpuncta debeat esse, ad admittendum. motum, spatiis vacuis quam spatiis plenis, plenis inquam, sed fluidis. Neque denique sciri potest, quare non potuerint atomi ille dura congregari et cogi in corporum compositorum moles quas videmus, a motu alicujus intermisti liquidi. Nihil ergo hoc argumento concludi potest, nisi fuisse motum mobili coseeternum vel coevum ; quorum neutrum consistit cum doctrina Epicuri, qui et mundo et motui initium abstulit. Nondum ergo vacui necessitas demonstratur. Causa autem, quantum ego ex eorum sermonibus, qui mecum de vacuo disseruerunt, intelligo, est quod dum naturam fluidi contemplantur, constare illud imaginantur tanquam ex duri granulis, quomodo farina fluida fit e frumento molito ; cum tamen fluidum concipere possibile sit tanquam natura sua zque homogeneum, ac est ipsa atomus vel ipsum vacuum.
+
+Argumentum secundum, sumptum est a pondere, et continetur in his Lucretii versibus :
+
+** Corporis officium est quoniam premere omnia deorsum :
+
+Contra autem natura manet sine pondere inanis : Ergo, quod magnum est eeque, leviusque videtur, Nimirum plus esse sibi declarat inanis." —I. 363-66.
+
+Ut preteream, quod assumit de conatu corporum deorsum, non recte sumi, propterea quod deorsum nihil negotii habet cum natura rerum, sed est figmentum nostrum; et quod, si omnia ad unum infimum tenderent, aut nihil coalesceret, aut. omnia in eundem locum cogerentur: vis argumenti hujus ex eo tollitur, quod tantundem in hac
+
+[p. 341] DE UNIVERSO ET SYDERIBUS. 341 re efficeret atomis ejus intermistus aer, quantum FARPIY.
+
+efficere existimat ille intermistum vacuum. -— Argumentum tertium ab eo ducitur, quod fulmen, ipee sonus, calor, frigus, corpora, exceptis ipsis atomis, raus sue alid, etiam solidissima penetrare visa sint. Sed hmc" ratio, nisi quis prius demonstrarit ea omnia non fieri posse, excluso vacuo, per motus perpetuam generationem, invalida est. Posse autem, suis locis demonstrabitur. Postremo, argumentum quartum ab eodem Lucretio proponitur his versiculis: — " Duo de concursu corpora lata, Si cita dissiliant, nempe aer omne necesse est, Inter corpora quod fiat, possidat inane. Is porro quamvis circum celerantibus auris Confuat, haud poterit tamen uno tempore totum Compleri spatium ; nam primum quemque necease est. Oceupet ille locum, deinde omnia possideantur." 1. 985-91.
+
+Quod tamen cum sententia ipsius Epicuri aliquanto plus pugnat, quam éorum qui vacuum esse negant. Nam quanquam verum sit, quod si duo corpora essent infinite dura, et secundum superficies exactissime planas componerentur, impossibile esset ut divellerentur, cum fieri id non posset Sine motu instantaneo ; si tamen, ut in magnitudinibus non datur maxima nec in motibus velocis- Simus, sic neque in duris durissimum ; poterit fieri vi aliqua magna, ut ingressus aeri detur successivus, nempe ut partes corporum conjunctorum extimsm prius dirimantur quam interiores. Debuerat ergo prius ostendere aliqua esse durissima, non modo relative ad molliora, sed absolute, id est infinite dura; quod non est verum. Sed si supponamus
+
+[p. 342] Alis qusdam argumenta ad
+
+342 PHYSICA.
+
+atomos, ut Epicurus, insecabiles, habentes tamen suas superficieculas, si componerentur duo corpora secundum plures vel unam tantum utriusque superficieculam, argumentum hoc Lucretii firmissima demonstratio erit, corpora nulla, quz ex atomis, ut ille supponit, concreta sunt, ulla unquam vi diffringi posse; id quod quotidiane repugnat experientise.
+
+4. Hactenus argumenta Lucretii. Videamus jam queso pose. argumenta sumpta ab experimentis recentiorum.
+
+dum invalida,
+
+1. Experimentum primum est, quod si vas concavum inverso fundo in aquam immergatur, fore ut aqua in ipsum ascendat; quod fieri non posse inquiunt, nisi aer intus in arctiorem locum contrudatur; fieri autem hoc non posse, nisi sunt in aere loculi vacui ; compressum autem aerem ad certum gradum comprimi amplius non posse; nimirum particulis aeris in locum arctiorem compelli negantibus. Ratio hzc, siquidem aer ab aqua intra vas surgente pressus ipsam permeare non posset, videri posset non infirma. Sed quod, adhibita vi, nec ea majore quam est ipsa aquse gravitas, aer aquam penetrat, satis cognitum est. Quare si vis, qua vas deprimitur, major sit conatu, quo aqua naturaliter tendit deorsum, vel ei equalis, aer in vase inclusus, qua via resistit, nempe versus vasis labra, ea per aquam exibit: neque tamen totus; oportet enim, quo major aquse profunditas penetranda sit, eo major sit vis deprimentis ; sed deprimentis, id est, aquse assurgentis vis, postquam. totum vas immersum est, non amplius augetur. Venitur ergo ad equilibrium tale, ut conatus aquze deorsum naturalis cequalis sit-conatui ad aquam in aucta jam profunditate penetrandam.
+
+[p. 343] DE UNIVERSO ET SYDERIBUS. 348
+
+11. Experimentum secundum est, quod si cylindrus concavus, videndi experimenti causa vitreus, satis longus, ex altera parte apertus, ex altera clausus, impleatur argento vivo, deinde parte unde apertus erat digito obturata in vas quodlibet, in quo item sit argentum vivum, una cum digito immergatur erectusque statuatur, videbimus, sublato digito ut liber argento vivo fiat descensus, descendere ipsum in subjectum vas, eo usque ut pars, que in cylindro restat, occupet circa 26 pedis uncias; quicunque is sit cylindrus, modo dictis unciis 26 non sit minor. Spatium ergo aiunt cylindri reliquum vacuum esse. Ego vero in hac re necessitatem vacui nullam video. Cum enim descendit argentum vivum quod in cylindro est, necessarium est ut vas subjectum altius impleatur, et summoveat tantum aeris ambientis, quanta est moles argenti vivi quod descenderit. Si queratur quo abiit ille aer summotus, quid aliud dicendum est quam aerem illum tantundem abigere e loco proximo, et hunc alium, et sic deinceps, donec redeatur unde propulsio prima incepit? Ibi autem, qua vi aer primus pulsus est, eadem vi aer ultimo pulsus premet argentum vivum quod est in vase; et siquidem vis, qua argentum vivum descendit deorsum, satis magma sit, (major autem est quando ab altiore loco descendit, minor quando ab humiliore), faciet ut aer ipsum argentum vivum, quod in vase est, penetret, adeoque ascendat ad implendum locum, quem illi vacuum arbitrabantur. Sed quoniam vis argenti vivi non in ommi altitudine satis fortis est ad cogendam talem penetrationem, necesse est ut descendens subsistat alicubi, ibi nimirum ubi squilibrium fit.
+
+pAnsTY.
+
+-- Alia quzdam.
+
+argumenta ad. vacuum ponendum invalida,
+
+[p. 344] 344 PHYSICA.
+
+PARS IV. inter conatum ipsius deorsum et resistentiam ejus-
+
+—— dem contra aeris penetrationem ; quod quidem irnsma Squilibrium esse in altitudine 26 unciarum aut unum ponen- circiter, vel ex hoc experimento manifestum fit.
+
+1n. Experimentum tertium est, quod in vas solo aere, quantum aeris natura patitur, repletum, tantum tamen impelli potest aqui, quantum capit ejusdem vasis ciroiter dodrans. Experimentum autem hoc modo factum est. Phiale vitree, quae representetur (in fig. 2) per sphaeram FG, cujus centrum est A, immittatur fistula B A C, ita aptata foramini per quod transit, ut ipsum adzquate impleat; sitque terminus ejus B in fundo vasis, nisi quod spatii tanturh intersit, ut aqua superne immissa libere exire possit per B. Sit fistule operculum in D, quod aqux in ipsum ascendenti exitum przbeat per E. Epistomium autem H C, intra fistulam perforatum, transitum aque a B ad
+
+D claudat vel aperiat, prout opus fuerit. Detracto operculo D E impellatur aqua per fistulam, ope sSiphonis, quantam sipho capit, in concavitatem vasis; deinde clauso epistomii foramine, ne quid aeris per eam viam egrediatur, sipho rursus aqua impleatur, et rursus aperto epistomii foramine, ea aqua in vasis concavitatem per B, ut ante, injiciatur.
+
+Atque eadem operatio repetatur quoties libet, assur- gatque aqua, verbi gratia, usque ad GF. Postremo imposito operculo et aperto foramine in H C, vide- bimus aquam velociter erumpere per E, et subsidere paulatim ab FG, usque ad B. Itaque ab hoc phanomeno ad necessitatem vacui sic arguunt:
+
+vas erat ab initio aere plenum : injectam per fistulam aquam non potuit aer per totam fistulee longitudinem penetrando exire, neque exitus ullus
+
+[p. 345] alius datur: necesse ergo est tum omnem aquam PARS m. usque ad FG, tum etiam omnem aerem, qui in uvase ante immissionem aque continebatur, in A rd eodem esse loco, in quo ante solus inerat aer; id "uum ponen-
+
+; ; s E dum invalida, quod fieri non posset, si tota vasis amplitudo aere fuisset adzquate, id est, sine vacuo, plenus: preterea vero si quis forte dubitet, an non possit &er, corpus tenue, penetrare ipsum aquse in fistula. contents corpus, accedit pheenomenum illud alterum, nimirum quod eadem aqua, quz est in spatio BFG, omnis rursum ejicitur per foramen EH, cujus causa nulla videtur assignari posse, preter aeris seipsum a compressione liberantis impetum ; ex quo sequitur aut fuisse aliquid spatii vacui, aut plura corpora in eodem esse posse loco; quorum posterius est absurdum, prius ergo, nimirum dari vacuum, verum est.
+
+Argumentum hoc duobus in locis infirmum est ; in quorum altero assumitur id quod non est concedendum ; in altero adducitur experimentum, quod mihi quidem videtur vacuo repugnare. Assumitur autem aerem per fistulam exire non posse; attamen videmus quotidie aerem facile ascendere a fundo ad superficiem fluminis; indicant ita fieri assurgentes bulle ; nec motore indiget alio, quam ipso aque conatu deorsum naturali Quare ergo non possit aquz per injectionem acquisitus conatus sursum, qui conatus sursum major est quam conatus aque deorsum naturalis, efficere ut aer, qui est in vase, obstantem aquam similiter penetret? presertim cum aqua, prout in vase assurgit, aerem superpositum ita "urgeat, ut conatum ipsi ingeneret ex ommi parte versus fistulee superficiem exteriorem, et proinde
+
+[p. 346] Alia quedam argumenta ad vacuum ponen- dum invalida,
+
+346 PHYSICA.
+
+conatum omnium inclusi aeris partium, per viam brevissimam, versus foramen quod estin B. Hzc inquam tam manifesta sunt, quam quod aer, a fundo fluminis eructatus, per aquam penetret cujuscunque altitudinis: — Nondum ergo video causam ullam, quare quo tempore aqua injicitur, non possit aer eodem tempore et eadem via, ab ea. vi injiciente ejici.
+
+Quod autem vacui necessitatem a rejectione aquse arguere volunt; quero primo, posito vacuo, quo principio motus ejectio illa fiat? Motus quidem ille ab intra ad extra fieri non potest nisi ab agente intra vas, id est, ab ipso aere. Aeris autem illius motus, quem habet ab insurgente aqua, & fundo incipit, ad summum tendit; motus autem, quo aquam ejicit, a summo incipere debet et tendere ad fundum. Unde igitur in aere incluso oritur conatus versus fundum ? Quid hic dici possit, nisi quis aerem ad expellendam aquam descendere ultro dicat, non intelligo: quod quia absurdum est, habeatque aer post infusam aquam tantum loci, quantum ejus postulat magnitudo, nulla omnino causa erit quare ejiceretur aqua. Pugnat ergo vacui assertio cum ipso, quod ad asserendum vacuum adducitur, experimento.
+
+Multa alia ad probandum vacuum phenomena afferri solent, ut thermometra, seolipyle, sclopeti ventanei; quz quidem, si aeri pervie aqua non esset, sine loci inanis admissione difficillime salvari possent. Nunc autem, cum aer nec magno conatu, non modo per aquam, sed etiam per quodvis aliud contumacissimum liquidum, qualis est hydrargyrus, permeare possit, nihil probant. Veruntamen rationis est, ut is, qui vacuum sublaturus est, praedic-
+
+[p. 347] torum phenomenon alies si non probabiliores PARSIY. saltem sque probabiles, absque vacuo, ostendat —— nobis causas. [d vero fiet in sequentibus, suo edema ad quidque loco; sed prius totius physicee statuendse riewumperensunt hypotheses generalissimze.
+
+Quoniam autem hypotheses sunt posite pro veris effectuum apparentium causis, necesse est, nisi absurda sit hypothesis, ut ea consistat in aliquo supposito motu possibili. Quies enim nullius rei causa efficiens esse potest. Motus autem supponit corpora mobilia, quorum tria sunt genera: fluida, consistentia, et ex his mista. Et fluida sunt, quorum partes separari a se invicem levissimo conatu possunt; consistentia vero, ad quorum partium diremptionem vis adhibenda major est. Sunt itaque consistentie gradus, qui gradus, prout comparantur cum magis minusve consistentibus, modo mollities modo durities nominantur. Fluidum ergo est semper divisibile in zque fluida, ut quantitas semper in quantitates, et mollia, in quocunque gradu, in mollia ejusdem gradus. Multi tamen fluoris nullam intelligere videntur differentiam, nisi quz oritur ex differentia magnitudinis partium, quemadmodum, ut videtur, pulvis. adamantinus fluidus dici possit. Ego vero fluorem intelligo a natura factum in omni simul fluidi parte, non ut fluit pulvis, (sic enim ruitura domus fluida appellaretur), sed ita ut videtur difluuere aqua in partes perpetuo fluidas. Hoc intellecto, venio ad hypotheses.
+
+5. Suppono ergo primo loco spatium immen- Aà uinada sum, quem vocamus mundum, aggregatum esse ex senem bypocorporibus, consistentibus quidem et visibilibus, 36* *erterra et astris; invisibilibus autem, minutissimis
+
+[p. 348] 348 PHYSICA.
+
+PARS TY. atomis, quse per terrm et astrorum intervalla dis-
+
+2B
+
+Ad salvanda.
+
+seminantur; et denique ex fluidissimo zthere, matre phes. lOcum omnem, quicunque est in universo, reli- mena hypotheses sex.
+
+quum ita occupante, ut locus nullus relinquatur vacuus.
+
+Secundo suppono cum Copernico, corpora mundi majora et consistentia, eademque permanentia suum habere inter se ordinem, ut sit primus Sol, secundus Mercurius, tertia Venus, quarta cum ipsam circumeunte luna Tellus, quintus Mars, sextus cum satellitio suo Jupiter, septimus Saturnus, deinde, in diversis & sole distantiis, stellee fixe.
+
+Tertio suppono non modo soli, sed etiam terrze, et planetis singulis inesse et semper infuisse motum circularem simplicem, ipsorum naturis cosevum.
+
+Quarto suppono corpora aliqua esse interspersa corpori sthereo, non fluida, sed adeo parva ut sentiri non possint, et ea quoque mota motu proprio simplice, et esse alia minus, alia magis dura sive consistentia.
+
+Quinto suppono cum Keplero, esse ut distantia solis a terra ad distantiam lunze a terra, ita distantiam lunz a terra ad terrz: semidiametrum.
+
+Quod autem ad magnitudinem circulorum, et tempora in quibus a corporibus, qus in ipsis sunt, describuntur, ea supponam quz ipsis pheenomenis, de quibus erit questio, maxime videbuntur convenire.
+
+CamereMun. — 6. Causas diversarum anni tempestatum, omnis- tur possibles motus annui et.
+
+que, dierum noctiumque varietatis per totam tel- eder 25.45. luris superficiem, ex supposita. diurna terrg revo- Vorissuions lutione circa axem proprium, una cum ejusdem
+
+[p. 349] DE UNIVERSO ET 8SYDERIBUS. 349 motu annuo per eclipticem in signorum conse- PARSY. quentia circa solem, et tertio ejusdem telluris —— annua super centrum proprium revolutione in an- v ii tecedentia, demonstravit post Copernicum, Kep- planetarum. lerus, Galileus, aliique. Supponimus nos cum Copernico revolutionem diurnam a motu terre esse quo describitur circa terram circulus squinoctialis. Motus autem duo ceteri, uterque annuus, efficiunt ut terra in ecliptica ita circumferatur, ut axis terree semper sibi teneatur parallelus ; qui parallelismus ob eam rem introductus est, ne ex telluris revolutione annua, etiam poli ejus necessario, contra experientiam, circa solem circumferri viderentur. Nos autem ex supposito motu solis circulari simplice, fore demonstravimus, cap. xxt. art. 10, ut terra ita moveatur circa solem, ut axis ejus semper sibi teneatur parallelus. Ex duobus igitur suppositis in sole motibus, altero circulari simplice, altero circulari circa centrum proprium, demonstrari possunt ezdem anni dierumque et noctium varietates, quie a Copernico demonstrate sunt. Etenim si (in fig. 3) circulus a bcd sit ecliptica, cujus centrum e, diameter aec, terra in a; sol autem moveatur in circello f^ g À i, nempe perf, g, h, i: demonstratum est quod corpus positum in ag, movebitur eodem ordine per puncta eclipticze a, b, c, d, axemque suum semper sibi tenebit parallelum.
+
+Quod si, ut supposuimus, etiam terra moveretur motu circulari simplice in plano per a, secante planum ecliptice, ita ut communis sectio utriusque pleni sit in ac; etiam sic telluris axis tenebitur semper sibi parallelus. Movestur enim terrz centrum in circumferentia epicycli, cujus diameter
+
+[p. 350] PARS IV. Jak, parsrectm Jac. Ejus ergo epicycli diameter
+
+—F— ak, transiens per centrum terre, erit in plano ecliptice. Quoniam ergo tum in motu telluris simplice per eclipticam, tum per epicyclum ; recta Zak semper tenetur sibi parallela; etiam quselibet. alia recta in corpore telluris sumpta, et proinde axis ejus semper tenebitur sibi parallelus. Itaque inqua parte cunque eclipticze reperietur centrum epicycli, et in quacunque parte epicycli eodem. tempore reperiatur centrum terrz, axis terre parallelus erit loco, ubi idem axis fuisset, si terrse centrum nunquam eclipticam deseruisset.
+
+Sicut autem ex supposito motu solis simplice demonstravimus motum annuum terre simplicem, ita ex supposito motu simplice terre demonstrari potest motus menstruus lung simplex. Erit enim, mutatis nominibus, eadem omnino, ideoque non repetenda demonstratio.
+
+Sume, 7. Suppositionem hanc lationis solaris (in epi- d» unde &t cyclo fg À i) simplicis, verisimilem in primis facit.
+
+Vemm quod planetarum omnium periodi non modo circa solem, sed etiam ita circa solem describantur, ut contineantur omnes intra zodiacum, id est, intra latitudinem graduum circiter 16; nam hoc ut fiat in causa videtur virtus aliqua in ipso sole, et potissimum in ea qus zodiacum spectat solis parte: secundo, quod in toto colorum ambitu, quod talis pheenomeni probabiliter accusari potest, aliud corpus nullum appareat; deinde quod tot et tam varii motus planetarum nullam haberent alius ab alio derivationem, in animum inducere non poteram. Posita autem in sole virtute motrice, ponitur et motus ; nam virtus motrix prater motum nulla est.
+
+[p. 351] DE UNIVERSO ET SYDERIBUS. 351
+
+Supposui ergo tam in sole ad regendos planetas  PARSIY. primarios, quam in tellure ad regendam lunam, — talem motum quslem planete primarii et luna pim dmpirecipientes, ita ut apparent apparere debeant ne- zs sede fi cessario. Huic autem rei motus ille circularis circa axem manentem, que conversio dicitur, et qui totius corporis motus non est, sed partium, idoneus non est. Cum enim quod sic movetur, nullum ad partes extra circulum positas conatum habeat, nullo modo ad corpora extra circulum. posita conatum propagabunt. Illi vero, qui fieri hoc supponunt per vim magneticam, vel per species incorporeas, seu immateriatas, causam phy-
+
+Sicam non supponunt, immo vero nil supponunt, quia movens incorporeum nullum est ; et vis magnetica quze sit ignoratur, et quando erit cognita, invenietur esse motus corporis. Restat ergo ut planete primarii, si a sole cireumferantur, et luna, sia terra, circumlationis causas habeant solis et terre motus circulares simplices. Sin non a sole et terra circumferantur, sed planeta suum quisque corpori cozevum motum habeat, causa eorum motuum physica nulla erit. Nam vel corporibus suis concreati sunt, itaque causam habent supernaturalem : vel coseterni, et sic omnino causam habent nullam ; eterni enim generatio nulla est. Accedit preterea ad motus hujus simplicis probabilitatem confirmandam, quod cum ormnes fere docti opinioni Copernicanz circa parallelismos axis telluris hodie suffragentur, verisimilius, aut saltem concinnius id fieri videbatur per motum circularem simplicem quam per duos motus, alterum in ecliptica, alterum. circa axem terre proprium priori contrarium, neutrum autem simplicem, neutrum
+
+[p. 352] Causa excen- tricitatis rootas.
+
+352 PHYSICA.
+
+talem ut à motu ullo solis produci posset. Hanc igitur motus simplicis hypothesin visum est retinere; et quorum phanomenon causas ab illo derivare possem, eas derivare; cetera que inde deducere non possem, non attingere.
+
+Objicietur fortasse, quod etsi, per hypothesin talem, parallelismi axis terrze aliarumque multarum rerum apparentium ratio reddi possit, cum tamen id fiat per collocationem corporis solaris in centro orbis, quem describit terra motu annuo, ipsa hypothesis falsa est, cum orbis annuus soli sit excentricus. Videamus ergo primo loco quz sit et unde oriatur illa excentricitas.
+
+8. Sit ergo (in eadem fig. 3) circulus terre temeamui annuus ab cd divisus quadrifariam a rectis ac, b d, secantibus se mutuo in centro e: sitque a initium libre, 5 capricorni, c arietis, d cancri : intelligaturque cum Copernico totum orbem abcd tantum distare undequaque a signifero fixarum, ut sit totus respectu distantig tante instar puncti. Supponatur jam terram esse in initio libre ad a, videbitur ergo sol in initio arietis ad c. Mota ergo terra ab a ad b, videbitur sol moveri a c ad initium cancri in d, et promota terra a 5 ad c, videbitur 80l promotus esse ad initium libre in a. Est ergo cda arcus mstivus, a b c hybernus. Dum autem videtur sol morari in arcu sestivo, fiunt dies 1862 ; totidem ergo conversiones diurnz fiunt a terra in arcu abc; quare eadem terra, dum percurrit arcus c da, faciet diurnas conversiones tantum 178i. Major ergo debet esse arcus ab c arcu cda diebus 81, id est, gradibus fere totidem: sit ar arcus graduum 2yy, et arcus c s totidem. Major ergo est arcus r bs semicirculo ab c gradibus 45 ;
+
+[p. 353] idemque major arcu sdr gradibus 81; quare in PARSIv. punctis r et & contingunt sequinoctia. Quando —— ergo terra est in r, videbitur sol in 4; erit ergo Cim arem solis locus verus in £, id est, extra centrum orbitee terre annui. telluris tantum, quantus est sinus arcus a r, id est, sinus graduum 2, min. 16. Is autem sinus, posito radio 100,000, erit earum partium 3,580 prope; tanta ergo est orbite telluris excentricitas, si modo terrz orbita sit circulus; et puncta sequinoctiorum. sunt s etr; etrectze sr, ca, protracte utrinque usque ad signiferum fixarum, incident in easdem fixas, propterea quod totus orbis a bcd, respectu distantise fixarum, nullam supponitur habere magnitudinem.
+
+Restat jam ut, supposito sole in /, ostendam. causam quare terra, quando motu annuo invenitur in d, proprior soli est quam quando est in 5; quam causam arbitror esse hanc.  Existente terra in initio capricorni ad 5, apparet sol in initio cancriad d. Est ergo eo tempore media zstas ; at media zstate soli obvertitur telluris pars borealis, in qua maxima pars est arida continens Europam totam et multo maximam partem Asise et Americe. Quando vero terra est in initio cancri ad d, fit media hyems, et obvertitur soli terre pars ea, quz continet magna maria Australe et Indicum, quz multo majora sunt quam qui sunt. in eodem hemisphzerio tractus terree aridze. Quare (per cap. xxr. artic. ult.) terra in d accedet ad primum movens, id est, ad solem, qui est in £. Proprior ergo est terra soli, existens in d, id est, media hyeme, quam existens in 5, id est, tempore sestivo. Est igitur sol tempore hyberno perigzus, tempore sstivo apogeeus. Ostendimus ergo excen-
+
+VOL. I. AA
+
+[p. 354] PARS Iv.
+
+Cause quare Jung facies torre aemper. obverütar exdem,
+
+354 PHYSICA.
+
+tricitatis terre causam possibilem. Quod erat faciendum.
+
+Consentio ergo Keplero, in eo quod ille excentricitatem terre alicui ipsius terre partium differentie attribuit; quarum partium alteram soli amicam, alteram supponit inimicam. In eo autem dissentio, quod hoc fieri ille putat per virtutem magneticam. "Virtutem autem magneticam illam sive attractionem et abactionem terrz fieri arbitretur per species immateriatas. Hoc autem fieri non potest, propterea quod nihil movet nisi corpus motum et contiguum. Nam si corpori quiescenti contigua corpora non moveantur, ipsum desinere quiescere incogitabile est: quod et demonstratum est, cap. IX. art. 7, et alias supra sepius inculcatum, eo fine, ut. velint tandem philosophi connexione hujusmodi vocabulorum aS»ónre uti desinere. In eo etiam ab illo dissentio, quod corporum mutuse attractionis causam esse dicat ipsorum corporum cognationem : nam si hoc esset, non video quare ovum ab ovo non attraheretur. Si qua ergo inter solem et partem terre unam quam aliam. major intercedat amicitia, consistet ea in eo, quod altera pars aquea, altera arida sit ; ex quo contingit, ut modo demonstratum est, magis accedere terram ad solem quando a sole illuminatur pars aquea, quam quando arida.
+
+9. Facit hzc telluris excentricitas, ut orbita ejus annua perfectus circulus non sit, sed linea vel elliptica vel certe fere elliptica ; neque axem terree teneri semper sibi exacte parallelum, sed in punctis tantum eequinoctialibus.
+
+Quoniam autem ut terram a sole, ita lunam a terra cireumferri dicimus, terra antem ita circuit
+
+[p. 355] solem, ut modo unum, modo alterum sui hemi- ps spheerium soli ostendat, quserenda causa est quare ————
+
+Junz facies terre obvertitur semper eadem. peer iid Sit ergo (in fig. 4) circellus, in quo movetur sol terre temper motu simplice f'gAi, cujus centrum 4, sitque exem. terre orbita annua w e 2 v, et a initium libra. Circa punctum a describatur circellus 7k, in quo intelligatur moveri centrum terre motu simplice, et utrumque solem et terram moveri secundum signorum ordinem. Centro a describatur orbita lune mn0p; sitque qr diameter circuli secantis globum lune in duo hemisphzria, quorum alterum 2 nobis conspicitur in plenilunio, alterum a nobis avertitur ; erit igitur diameter lune gor, rectze £a. perpendicularis. Fertur ergo luna, propter motum terre, ab o versus p, sed eodem tempore si esset in p ferretur, propter motum solis, a p versus o. Itaque a duobus in contraria moventibus rotabitur recta q r, et in quadranta quidem circuli sz0 p, tantum quanta est rotationis integree pars quarta ; existente ergo luna in p, erit qr parallela rectze mo. Secundo, propter motum terrz, quando luna est in m, erit 9 r inipsa z0; accedente ergo motu solis agente per quadrantem p, conversa erit qr, tantum quanta est alia quarta pars conversionis totius. Existente ergo luna in m, erit q r recte om perpendicularis. Eadem ratione luna existente in n, erit qr rectae o parallela; et redeunte luna ad o redibit gr ad locum primo sumptum, et corpus lung in una periodo faciet unam quoque conversionem super axem proprium ; quo facto manifestum est eandem semper lunzg faciem obverti terre. Quod si q m esset diameter circelli, in quo ferretur luna. motu simplice, idem tamen AA2
+
+[p. 356] 356 PHYSICA.
+
+PARSIV. sequeretur; nam Sine actione solis diameter quze- —— libet lune ferretur semper sibi parallela. Reddidimus ergo causam possibilem quare telluri eadem semper obvertitur lunz facies.
+
+Notandum autem est quod non eandem precise faciem semper videmus, tunc quando luna est extra eclipticam ; propterea quod nil videmus nisi illuminatum ; sed pars illuminata et pars nobis obversa extra eclipticam nunquam est exacte eadem.
+
+foede 10. Ad tres motus simplices, unum solis, alterum lunsze, tertium terre in circellis propriis fg À$, Ik, et qr, una cum conversione terrz diurna, qua conversione necessario circumferuntur omnia ea quz superficiei ejus innituntur, referri possunt phenomena circa oceani sestus tria. Quorum primum est, elevationis et depressionis aquarum ad litora alternationes dus in spatio quatuor viginti horarum et minutorum fere quinquaginta duorum; ezque per omne zvum constantes: secundum, quod in noviluniis et pleniluniis elevationes aque fiunt quam intermedio tempore majores: tertium, quod, existente sole in zquinoctiali, augeantur adhuc amplius. Ad qu» phenomena salvanda habemus jam quatuor motus ante memoratos. Assumendum autem est, quod pars terrz, quam dicunt Americam, aquis exerta, et a septentrione in austrum per totum fere semicirculum extensa, aquarum motui objiciatur.
+
+His datis, sit in eadem fig. 4, ubi 7b kc supponitur esse in plano orbitee motus lunaris menstrui, descriptus eodem centro a circellus / d&e in plano sequinoctialis. Is ergo circellus declinabit a circello Zó kc in angulo graduum fere 281, nam declinatio maxima eclipticee est graduum 231, cui
+
+[p. 357] additi gradus quinque, pro maxima ab ecliptica PARS1Y. declinatione lunz, fiunt gradus 28j. Quoniam i jam moventur aque, que sunt subter orbitam Cm s». lung, una cum terra, id est, cum fundo aquarum, propter motum terrg simplicem in plano orbitze luneris motum fundi neque antevertentes neque &b eo prmventz; accedente motu diurno, quo aque alie, que sunt subter zquinoctialem, moventur eodem ordine, et secantibus se mutuo orbita lunari et squinoctiali; aque ambe tam quz sunt sub orbitam lune, quam que sunt sub sequinoctialem, concurrent sub zquinoctialem, et proinde non modo motus eorum motum fundi antevertet, sed et ipse aquse elevatiores erunt, quoties terra est in squinoctiali —Quzcunque ergo rstuum causa alia sit, tamen ab hac causa iidem tunc temporis augebuntur.
+
+Rursus, quoniam supposuimus lunam circumferri 2 motu terrz simplice in circello 75 & c, et demon- Stratum est cap. XXI. art. 4, ea, qure moventur a re motu simplice mota, moveri omnia eadem velocitate, centrum terrie eadem feretur velocitate in circumferentia 75 kc, qua fertur luna in circumferentia mno p. Tempus ergo circumlationis lung in mn op, est ad tempus circumlationis terre in 1bkce, ut ipsa circumferentia mn op ad circumferentiam Z5 kc, id est, ut ao ad a. Sed ao Observata est esse ad semidiametrum corporis terre, ut 59 ad 1.  Faciet ergo terra, si semidiameter terre statuatur a b, circuitus 59 in Ibkc, dum luna facit circuitum unum, nempe menstruum, in zno0p. Facit autem luna circuitum menstruum in diebus 29, paulo amplius. Quare terra faciet circuitum per circumferentiam [p. 358] iud. Causa ma- tuum oceani.
+
+Causa. preceuionis quinoxiorum,
+
+358 PHYSICA.
+
+lbkc in horis 12 paulo amplius, nempe min. fere 26, id est, circuitus faciet duos in horis 24, minutis fere 52. Tantum autem observatum est esse ab zstu summo ad swstum summum diei sequentis. Objecta ergo aquarum cursui pars Americz Australis faciet interrumpi earum motum ad litora Americz Australis, et, per consequens, in illis locis elevari aquas, et rursus propria gravitate residere, bis in spatio 24 horarum et minutorum 52. Reddidimus ergo causam possibilem reciprocationis oceani diurne. A tumore oceani in illis terre partibus, nascuntur maris Atlantici, Hispanici, Britannici, et Germanici accessus et recessus, maris stati quidem, sed pro varietate litorum in diversis diei horis ; et aliquanto etiam aucti, propter objecta litora Simensium et Tartarorum, ubi surgentis aque pars divertitur per fretum Anian in mare Septentrionale redundatque in mare Germanicum a parte boreali.
+
+Causa autem quare maxime tumescit mare in noviluniis et in pleniluniis, est motus ille, quem sibi proprium et simplicem etiam lunz ab initio ex hypothesi attribuimus. Cujus motus in sole et luna poli sunt iidem cum polis sequinoctialis. Quo supposito, sequitur, quoniam sol, luna et terra in omnibus noviluniis et pleniluniis sunt in eadem. fere recta linea, ut motus hic terre velocior fiat in noviluniis et pleniluniis quam in quadrantibus. Nam motus hic solis et lune communicatus terre mot illius similem necessario auget, maxime tamen cum sunt in eadem linea recta; id quod contingit in noviluniis et pleniluniis solis.
+
+11. Ad causam explicandam preecessionis annuz punctorum sequinoctialium, meminisse oportet.
+
+[p. 359] DE UNIVERSO ET SYDERIBUS. 359 ostensum esse telluris orbitam annuam non esse PARSIV.
+
+circumferentiam circuli, sed ellipseos, vel ab ellipsi ——— insensibiliter differentis; ea igitur imprimis deli- Preccudonin neanda est. ssquinoxiorom. Itaque (in figura quinta) descripta ecliptica
+
+^v?vo a duabus rectis ab, v? & sese mutuo se- cantibus in centro c, secta quadrifariam : sumpto- que arcu bd graduum 2, minutorum 16, ducatur recta d e ipsi a b parallela secans v? o in f, eritque terre excentricitas c.f. Quoniam ergo telluris orbita est circumferentia ellipseos, et v? e axis ejus major, non erit a b axis minor, cum ab, we sint inter se zquales. Aut ergo terra transiens per a et b, transibit supra v5, ut in g, aut transiens per vj, cadet inter c et a. Utrumvis autem statu- atur nihil refert. "Transeat ergo terra per g, et sumatur g/ equalis recte w e, divisaque g/ bifariam in i, erit gi equalis V$ f, et i7 &qualis
+
+Jf €, et proinde punctum i secabit excentricitatem cf bifariam. Et sumpta c À zquali i f, erit tota.
+
+excentricitas Ai.  Ducatur per i recta qus sit rectis a b, ed parallela, nempe ^ i «, eritque via.
+
+solis estiva ^ g « major itinere hyberno gradibus
+
+8i; vera ergo squinoctia sunt in recta ^ i w.
+
+Ellipsis ergo motus annui non transit per a, g, 5, , sed per ^, g, v, i. Ea ergo est telluris orbita annga, nec, salva excentricitate, ulla alia. Atque hec forte ratio est, quare Keplerus contra senten- tiam omnium ante se astronomorum excentrici- tatem telluris, sive, secundum veteres, solis, bise- eandam esse existimavit; non tamen diminuta quantitate excentricitatis, quse tanta habenda est, quantam eam prodit esse arcuum sestivi et hyberni differentia ; sed sumendo centrum eclipticee magni
+
+[p. 360] 360 PHYSICA.
+
+PANSIV. orbis c propius ad f, atque adeo totum orbem
+
+——-—- magnum propiorem faciendo ad eclipticam fixarum retta versus e tanto, quanta est recta ci. Nam cum
+
+*uiinoxiorum. totus orbis magnus sit instar puncti ad immanem distantiam fixarum, tam recta ^ v quam recta a b in eadem puncta incident sphere fixarum, nimirum.
+
+productz hinc ad initium Arietis, inde ad initium
+
+Libre. His positis, sit terre diameter mn in plano sus orbitm. Ea, si terra moveretur in circulo ecliptice a motu solis simplice circa centrum £, teneretur sibique et recte g Z semper parallela ;
+
+quare nunc, cum feratur per circumferentiam ellipseos extra eclipticam, punctum z in toto itinere per ^ v? wv procedet in minore circulo, quam punc- tum m, et proinde parallelismum cum recta Ww e»
+
+statim ut incipit moveri, amittet, ita ut m n pro- ducta rectam g / productam tandem secatura sit.
+
+Et vice versa, statim ac m» preeterierit ^, eadem.
+
+mn, ambulante terra in elliptica linea interna
+
+«o 1e, producta ad partem m rectam Zg productam secatura sit. Cumque terra totam fere orbitam transierit, faciet rursus m» cum recta a centro $ angulum rectum, paulo citra locum unde moveri ccpit. Ibi ergo proximo anno erit & punctum sequinoctiale unum, nimirum prope finem wm, alte- rum ex adverso erit sub finem x. Atque ita quotannis relabuntur puncta, in quibus dies noc- tesque fiunt equales. Est autem motus ille tardus, quippe quod anno integro relapsus sit solummodo minutorum primorum 51: qui relapsus, cum fiat contra ordinem signorum, appellari solet przecessio
+
+.gquinoctiorum ; cujus causam ex ante suppositis reddidimus possibilem : quod erat faciendum.
+
+Juxta ea que diximus supra de causa excentrieitatis [p. 361] terre, item juxta Keplerum, qui pro PARS Iv. causa excentricitatis supponit partem terre alte. ——— ram soli amicam, alteram inimicam, oporteret ves sni, apogreum et perigeeum solis eodem ordine et eadem *ssinosiorum. velocitate quotannis moveri, quo moventur puncta sequinoctialia, et ab iis distare semper quadrante circuli. Hoc autem fieri non videtur, cum dicant astronomi zquinoctia recessisse jam, alterum 28 gradus a prima stella arietis, alterum tantundem ab initio libre ; quare apogeeum solis, sive terree aphelium deberet esse in gradu 28 cancri. Putatur tamen esse in gradu 7. Cujus rei causa esse potest, quod sol cum longissime distat a terra, id est, cum est in apogeo, terram minus fortiter movet, unde fit ut dies naturales longiores sint state quam hieme. Quoniam ergo astronomi solis apogeum investigant per numerum dierum et horarum quasi per totum annum squalium, falli potuerunt, et apsides putare plus distare a punctis sequinoctialibus quam quadrante circuli ; quanquam fieri id videtur non posse, cum motus absidum sequatur necessario puncta zequinoctialia. Similiter, excentricitatum Saturni, Jovis, Martis, Mercurii, causas non attingo. Cum tamen excentricitas terre oriri possit, ut ostendimus, a dissimili natura facierum terre soli alternatim obversarum, credibile est dissimiles quoque esse illis facies, quibus similes in ipsis effectus prodücantur. Atque hzc dicta sint de physica syderea; quorum phenomena etsi non oriantur a causis quas supposui, eas tamen suppositas ad talia phenomena producenda idoneas esse demonstravimus, ut erat ab initio propositum.
+
+[p. 362] LA De immensa. mugnitudine quorundam
+
+362 PHYSICA.
+
+CAPUT XXVII. DE LUCE, CALORE, ET COLORIBUS.
+
+1. De immensa magnitudine, quorundam corporum, et aliorum ineffabili parvitate.—2. De causa lucis solaris.—3. Quo modo lux calefacit.—4. Generatio ignis a sole.—5. Generatio iguis a collisione.—6. Causa lucis in cicindelis, in ligno putri, im calce Bononiensi,—7. Causa lucis in concussione aquae marinee. 8. Causa flammse, scintille, colliquationis.—9. Causa quare fenum madidum aliquando sua sponte accenditur; i fulguris.— 10. Causa virium pulveris tormentari carboni, quid sulphuri, quid nitro tribuendum sit —11. Calor quomodo fit ex affrictu.—12. Distinctio lucis in primam, secundam, &c.—1$. Colorum rubri, flavi, czrulei, violacei per prisma spectatorum causee.—14. Quare luna et stelle apparent in horizonte rubicundiores et majores quam in medio celo. 15. Causa albedinis.—16. Cause nigredinis.
+
+1. PRATER astra, de quorum motu modo dictum est, quecunque in universo corpora reliqua sunt uno nomine infersideralium comprehendi possunt. Sunt autem ea, ex hypothesi, vel ether fluidissimus vel corpora quorum pertes cohssionem habent aliquam. Ea autem inter se differunt consistentiis, magnitudinibus, motibus, et figuris. Et consistentis quidem suppono alia duriora, alia molliora *sse per omnes tenacitatis gradus: magnitudine item alia majora, alia minora, pleraque autem ineffabiliter exigua. .Meminerimus enim quantitatem intellectu quidem divisibilem esse in semper divisibilia; ideoque si homo quantum intellectu, tantum et manu posset, eundem a qualibet data magnitudine partem qualibet magnitudine data minorem auferre valiturum esse. At vero universi
+
+[p. 363] conditor omnipotens, in quantum nos rem quam- 1s libet divisibilem esse intelligimus, in tantum partem —-—— ejus a parte actu avellere potest. Nulla ergoDemete corporis exiguitas impossibilis est. — Quid autem awranm est quod impedit ne idem sit etiam verisimile? "^^" Esse enim animalcula qusedam scimus adeo exigua,
+
+"t cerni vix possint tota; habere tamen et ipsa suos embryones, suas venulas aliaque vascula, suosque ocellos nullo microscopio perceptibiles ;
+
+adeo ut nullam magnitudinem supponere tam exiguam valeamus, quin a natura ipsa suppositio nostra superetur. Accedit quod microscopia hodie vulgo fiunt talia, ut res per ea spectatz plus quam centies millies majores appareant, quam oculo inermi viderentur. Neque dubitari potest, quin aucta potentia microscopii (nam augeri potest quousque non deficit materia manusque artificum) quelibet illarum partium centummillesimarum major adhuc quam ante appareret cen- ties millies. Neque magis est mirabilis aliquo- rum corporum exiguitas, quam aliorum ingens magnitudo. Ejusdem enim infinite potentie est infinite augere et infinite minuere. Facere ut orbis magnus, nempe cujus radius extenditur a terra ad solem, sit instar puncti ad distantiam solis ad stellas fixas; et contra, facere corpus tam exiguum, ut eadem proportione minutius sit quam. quodlibet visibile, ejusdem est Nature Authoris.
+
+Tllud autem de immensa fixarum distantia, quod longo tempore pro incredibili habebatur, nunc credunt docti fere omnes. Quid ni ergo illud alterum, de quorundam corporum parvitate, credi- bile futurum est aliquando? Etenim in parvis et magnis Majestas Divina eadem est; utque' in
+
+[p. 364] LÀ De immensa. magnitudine quorondam. corporum, &c.
+
+De causa.
+
+Tucis solaris.
+
+364 PHYSICA.
+
+magnitudine universi, ita in exilitate partium ejus sensus humanos eque superat. Siquidem in compositionibus elementa prima, in actionibus primse aggressiones, in temporibus prima momenta, non minus credibilia sunt quam ea que nunc creduntur de distantia fixarum. Agnoscunt mortales magna esse quzedam, etsi finita, ut quee vident ita esse; agnoscunt item infinitam esse posse magnitudinem eorum quz non vident; medium vero esse inter infinitum, et eorum quz vident cogitantve maximum, non statim nec nisi multa eruditione persuadentur. Sed cum post meditationem et contemplationem multa hujusmodi dictu mirabilia familiariora fiunt, tunc credentes admirationem transferimus ab operibus ad Opificem. Sed quantulacunque corpora aliqua esse possint, nos eorum quantitatem non minorem supponemus, quam phenomena ipsa postulabunt. Similiter statuemus de eorum motu, velocitate inquam et tarditate, et de varietate figurarum, nimirum, tantas eas supponemus quantas exiget causarum naturalium explieatio. Denique in partibus puri ztheris, tanquam in materia prima, motum preter illum, quem habet ab innatantibus sibi corporibus non liquidis, suppono esse nullum.
+
+2. His suppositis, accedamus ad causarum dictiones; et inquiramus primo loco causam lucis solaris. Quoniam ergo corpus solare motu simplice circulari circumstantem zetheream substantiam modo ud unam, modo ad aliam partem a se rejicit, ita ut, quz partes proximse soli sunt, mote ab ipso sole, proxime remotiores rursus urgeant, necesse est. ut in quacunque distantia positi oculi prematur tandem pars anterior, et ea parte pressa propagetur
+
+[p. 365] motus ad intimam organi visorii partem: cor. A PARSIV. motu autem cordis reagentis oritur, per eandem. —-— retro viam, conatus desinens in conatu, versus exteriora, tunicee que vocaturretina. Sedconatus iste ad exteriora (ut supra, cap. xxv. definitum est) illud ipsum est quod vocatur lumen sive phantasma lucidi; nam propter hoc phantasma est, quod objectum vocatur lucidum. Habemus ergo lucis solaris causam possibilem ; quam suscepimus invenire. 3. Lucis solaris generationem comitatur gene- Quo modo, " " n n d lux calefacit. ratio caloris. Calorem autem in se ipso quidem unusquisque, dum calescit, sentiendo cognoscit ; in aliis autem rebus per ratiocinationem. Aliud enim est calescere, aliud calefacere. Itaque ignem vel solem calefacere deprehendimus ; quod caleat non deprehendimus. Quod quidem animalia, dum calefaciunt, calent, ex similitudine nostri ratiocinando inferimus, sed non necessario. Nam etsi recte dicatur animal calefacit, ergo calet, non ideo recte infertur ignis calefacit, ergo calet. Qui magis enim, quam ignis dolere facit, ergo dolet?  Calidum ergo id proprie et solum dicendum est, quod sentientes nos calescimus, et necessario. Calescentes autem comperimus spiritus, sanguinem et quicquid in corporibus nostris fluidum est, ab interioribus partibus ad exteriora pro gradu caloris magis minusve evocari cutemque intumescere. Itaque si quis evocationis tumescentieque hujus causam possibilem reddiderit, ceterisque caloris phaenomenis consentaneam, is caloris solaris causam reddidisse censendus est. Ostensum est, (cap. Xx1. art. 5) ita commoveri
+
+[p. 366] PABSIY. Quo modo lnx calefacit,
+
+Generatio dguis s sole,
+
+366 . PHYSICA.
+
+& motu solis circulari simplice medium fluidum, quem vocamus aerem, ut omnes ejus partes, usque ad minimas, loca sua inter se perpetuo commutent; quam locorum mutationem nominavimus fermentationem. Ex ea fermentatione aeris fieri posse elevationem aque in nubes, demonstravimus. Simili modo, e corporibus nostris partes fluidas eb internis ad externa educi posse ab eadem fermentatione, ostendemus nunc. Quoniam enim, ubi medium liquidum corpori cujuslibet animalis contiguum est, ibi partes ejus medii, mutatis locis, perpetuo a se invicem avelluntur, necesse est ut partes animalis medio contigue in diremptarum partium intervalla conentur ingredi. Alioqui, diremptis, cum suppositum sit non dari locum vacuum, locus esset nullus. Id ergo, quod in partibus animalis medio contiguis est maxime fluidum et. separabile, egredietur primo ; deinde egressi locum subeunt partes ille, quie per cutis poros maxime sunt transpirabiles. Ceteras ergo partes, quee non divelluntur, necessarium est ita tota moveri mole, ut loca omnia compleantur. Id quia fieri a tota simul mole, nisi partes circumstantis discessurientisque aeris comprimente, non potest, aer a tota mole comprimitur; moles ergo corporis, tota simul ea via conans, intumeseit. Cause ergo caloris a sole reddita est possibilis: quod erat faciendum.
+
+4. Vidimus jam quomodo lux, et quomodo calor generatur: calor quidem ex eo, quod in motu medii simplice partes cum partibus loca commutent: lux autem ex eo, quod in eodem motu simplice propagetur actio per lineam rectam. Quando vero subjectum aliquod talem in se motum partium.
+
+[p. 367] labet, ut sensibiliter calefaciat et simul luceat, Lors tunc est quod generari ignem dicimus. Per ignem — autem intelligimus non corpus aliquod a materia Diesel combustibili vel candescente, puta ligno, ferrove distinctum ; sed ipsam materiam, non quidem sim- pliciter et semper, sed tunc quando et splendet et calefacit. Quisquis ergo causam reddiderit possibi- lem ezterisque pheenomenis consentaneam, cur et qua actione utrumque simul fiat, splendere et cale- facere, is generationem ignis possibilem explicasse censeri debet.
+
+Sit ergo (in fig. 1) sphzira vel portio sphzrz ABO, cujus centrum D: sitque ea pellucida et homogenea, ut crystallina, vitrea, aquea, soli objecta. Pars ergo anterior A BC, a radiis solaribus, id est, & motu solis simplice, quo medium ante se propellit, urgebitur in rectis E A, FB, G C, que rect, respectu magnse a solis distantim, haberi possunt pro parallelis. Quoniam autem densius est medium intra sph:eram quam extra, refringentur versus perpendiculares. Producantur recte EA, GC donec secent sphzeram in H et I, ductisque perpendicularibus A D, CD necesse est radios EA, GC refractos cadere, alterum quidem inter A H, A D, alterum vero inter CI, CD. Sint illi radii refracti AK, CL. Rursus, ductis ad spheram perpendicularibus D K M, DLN, et productis AK, C L ad occursum recte B D producte in O, quoniam medium intra sphzeram densius est quam extra, A K refracta longius recedet a perpendiculari K M quam ab eadem recedet KO ; cadet ergo KO inter refractam et perpendicularem. Sit ergo refracta KP, secans FO in P. Erit autem propter
+
+[p. 368] 368 PHYSICA.
+
+PARSIY. eandem causam refracta recte CL, recta LP.
+
+— Qum ergo radii nihil aliud sunt quam vie motuum eere. propagatorum, tanto vehementior erit motus circa P quam circa A B C, quanto basis portionis A BC m&jor est base similis portionis in sphzra, cujus centrum est P, magnitudo tanta, quantam habet circellus circa P, comprehendens omnes radios ab | ipsa ABC propagatos; quz quidem sphera multo minor est quam sphaera A B C. Multoergo cele- | rius partes medii, id est, aeris circa P loca inter se commutabunt quam circa A BC.  Posita ergo in P materia combustibili, id est, dissipabili; partes ejus, si modo satis magnam faciamus rationem AC ad similem portionem circelli circa P, liberabuntur 2 cohzsione mutua, motumque suum simplicem recipient dissilientes. Sed motus simplex vehemens generat in aspiciente phantasma lucidi et calidi, ut modo demonstratum est de motu solis simplice. Erit ergo materia combustibilis, posita in P, facta lucida et calida, id est, ignis. Exhibuimus ergo causam ignis possibilem ; quod erat faciendum.
+
+Genraiigi! 5. A modo quo sol ignem generat, facile est & collisione. " " enl explicare modum quo generari potest ignis a collisione duorum silicum. Nam ab ipsa collisione lapidis particule aliquze ex iis, quee ipsum coactze constituunt, violentia magna effringuntur ; ez autem, vertigine concepta, exilientes oculum movent, ut in generatione lucis a sole. Collucent ergo, et in materiam jam ante semidissipstam, qualis est fomes ex combusto linteo, partes illius dissipant et excutiunt cum vertigine; inde autem, ut ante est ostensum, lux et calor, id est, ignis generatur.
+
+[p. 369] 6. Quod luceant cicindela, ligna quedam putria, E
+
+*et calcis quedam species Bononiz temperata, com- — mhUnis causa esse potest expositio ad ferventem pese solem. De calce illa, experientia constat quod in figno putri non lucet nisi ita exposita; exposita autem lucet Benoniensi. parvo tempore, id est, donec satis calet. Causa esse potest, quod partes, ex quibus concreverat, facile suscipiant una eum calore motum simplicem 2 sole impressum. Quo facto, necesse est ut translata in tenebras adhue calescens, quamdiu calor durat idoneus, tam diu luceat; post, extinguatur. Experimento item in cicindela compertum est, inesse humorem quendam lentum, similem humori oculi erystallino; hunc etiam exemptum 5i quis digitis prehensum ferat satis longo tempore, *t postea transferat in tenebras, lucebit tamen propter receptum a digitis teporem; sin refrixerit, non lucebit. Unde, nisi quod animalia illa cstatis tempore ferventissimo toto die apricentur? Eodem modo, ligna putrida nisi putruerint ad solem, vel jam putrida satis longo tempore ad solem exposita fuerint, non lucebunt. Quod autem non omni vermiculo, nec cuilibet ligno, nec omni calci contingit idem, in causa esse potest diversitas in motu et figura particularum, ex quibus illa corpora concreverant, a particulis corporum specie ab illis differentium.
+
+7. Lucet quoque mare salsum remis percussum, Ceus lucis vel navigio fortiter suleatum ; magis tamen mi- muse nusve pro ventorum diversis plagis. — Possibile enim est particulas salis, etsi a sole in salinis lente admodum evocatz non luceant, confertas tamen et. magna vi ex assurgentibus undis in aerem excussas, concepta vertigine, splendescere posse ali-
+
+VOL. I. BB
+
+[p. 370] [A
+
+[d famme, teintillao, colliquationis.
+
+370 PHYSICA.
+
+quantum. Causa ergo hujus phenomeni reddita est possibilis.
+
+8. Materia composita ex corpusculis duris si lgnescat, necesse est, ut ex singulis confertim evolantibus oriatur major minorve flamma. Nam si una evolat pars eetherea vel fluida, motus exeuntium fiet velocior, ut fit in lignis ceterisque inflammabilibus exeunte una vento. Exeuntes ergo partieule duriores vehementius oculum moventes fortius lucebunt, et confertz cum sint collucebunt. Cum ergo flamma nihil aliud sit quam collucentium corpusculorum aggregatum, orietur flamma manifesta. Ostensa est ergo flammze causa possibilis. Atque inde etiam manifesta apparet causa, quare vitrum quod, absque flatu, non sine vehementissimo igne, a flamma tenui candele flatu oris adjuta, colliquat r.
+
+Quod si ab eadem materia pars aliqua majuscula, nimirum quz ex pluribus particulis minutis sit composita, abrumpatur, fit scintilla., Habet enim. &b effractione vertiginem violentam, unde lucet. Verum si a materia combustibili neque flamma exeat, neque scintille, possunt tamen particule ejus alique ad superficiem evehi, ut cinis, cujus partes ita sunt minute, ut quousque natura dividendo progreditur dubitari ulterius non possit.
+
+Postremo, ignescente materia, si parum aut nihil evolat, fiet tamen conatus partium aliquis ad motum. simplicem, quo fiet totius corporis vel colliquatio, vel, qui colliquationis gradus est, emollitio. Habet. enim omnis motus in omnem materiam, (ut ostensum est, cap. Xv. art. 3) effectum aliquem.  Siquidem autem adeo emolliantur corpora, ut contumacia eorum a propria gravitate superetur, tum
+
+[p. 371] DE LUCE, CALORE, ET COLORIBUS.  $7l plane colliqiata ; sin. minus, ermollita et sequacia ijs et ductilia esse dicimus. ——
+
+Rursus, si materia ignita habeat intus, inter partieulas duras, particulas alias inclusas sethereas aqueasve, fiet ut his per commutationem locorum evocatis, ille ad contactum pleniorem sese accommodent, et proinde habeant se ad divulsionem contumacius, id est, totum fiat durius. Quz causa esse potest, cur eodem igne alia liquefiunt, alia indurescunt.
+
+9. Expertum est, si fonum madidum acervetur, Causa quare fore ut post tempus aliquod, primo fumum tanquam s aineatdo avropárec emittat, et deinde incendatur. — Causa gone er cujus rei potest esse hec. Insunt in concluso aere causa fulguris corpuscula illa mota, ut supposuimus, motu simplice, motum suum .habentia liberum, sed que descendente humore aqueo paulatim cohibentur, oppletisque aqua interstitiis, pars quidem ectherea penetrando aquam egreditur; at corpuscula illa non fluida contruduntur, ita ut sese mutuo contingentia motum acquirant vehementiorem, donec, aucto valde motu, pellitur ad externa primo pars aquea, unde apparet vapor ; mox, continuato motu ipsius fomi arefacti evolant particule ille minutissime, receptaque vertigine naturali lucent. calefaciuntque, id est, ignescunt.
+
+Eadem et fulgurum causa esse potest. Accidunt enim tempore anni ferventissimo, quo tempore et plurimum aquse et altissime elevatur. Post nubes primas elevatas, elevatze alise alizeque et congelatze veniunt interdum, aliis descendentibus aliis surgentibus, ad congressum talem, ut in aliquibus locis coeant in unum, in aliis relinquant spatia cava, in quie spatia, ex concursu nubium partibus sethereis transpirantibus, corpuscula non fluida
+
+BB
+
+[p. 372] 372 PHYSICA.
+
+tre plura coguntur, quam pro ratione etheris in quo — . motum suum libere exercere possunt taque vehementius moventur, et modo hic modo illic nubes cum fragore diffringentia exeuntiaque et megna vi aerem commoventia et oculos ferientia lumen generant, id est, lucent; est autem lux ea fulgur. Cmm — 10. Pheenomenon ab i; igne eognitissimum, idemii quid- que admirabilissimum est vis incensi pulveris toriphwi, mentarii. Qui pulvis, cum a nitro, sulphure, et iuam ri carbone tritis sit compositus, habet a carbone accensionem primam ; a sulphure fomitem et flammulam, id est, lucem et motum; quod deinde vehementissime splendeat erumpatque, a nitro habet. Nitrum autem nondum contusum, si vivo imponatur carboni, primo liquescit, carbonemque ea parte, qua insidet, móme aquze extinguit. Mox egrediens a confiniis nitri et carbonis vapor vel aer veloci motu carbonem undequaque et vehementer difflat. Inde fit per duos motus, alterum egredientium ex ignito carbone, alterum inclusse setherece simul et aquosse substantie: particularum, inter se contrarios, ut sequatur motus et inflammatio vehementissima. Deinde, postquam nitrum agere ulterius cessat, id est, quando id quod in nitro volatile est evolaverit, invenitur ad latera substantia quzedam alba, quee in ignem rursus injecta rursus candescet, sed non amplius, nisi aucto igne, dissipabitur. Si ergo causa hujus rei possibilis reperiatur, ea possibilis causa quoque erit, quare granum pulveris tormentarii incensi tam vehementerexpandatur, luceat, et moveatur. Causa autem ea hujusmodi esse potest. Particule ille, quee constituunt nitrum, suppo-.
+
+[p. 373] nantur esse partim durz, partim aquez, partim ier setherez. Et durz quidem figuras habeant sphe- ——— rice cavas, sicut bullule, ita ut multe simul par- ticulee concrete massam constituant cavernosam plenamque substantia aquea vel aerea, vel partim una, partim altera. Discussis ergo particulis duris, partes aquez et. aeree necessario evolabunt ; evo- lantes autem necessario carbonem ignitum mixtumque sulphur fortiter sufflabunt ; quo facto, valde expandi lucem, flammam vehementer candescere, particulasque nitri sulphuris et carbonis violentis- sime dissipari est necessarium. Virium ergo pul- veris tormentarii incensi causam reddidimus possibilem.
+
+Apparet autem hinc non necesse esse, ad reddendam causam quare globulus plumbeus vel ferreus tam velociter ex canone bombardz extrudatur, ut advocemus rarefactionem talem, qualem vulgo definiunt, nempe quantitatem in eadem materia modo majorem modo minorem, quod est incogitabile. Dicimus enim majorem vel minorem unamquamque rem, prout majorem minoremve habet quantitatem. Violentia, qua extruditur e tormento globus, procedit a velocitate particularum minutissimarum inflammaeti pulveris, vel certe procedere ab ea causa potest, nec tamen ut ullus s ponatur locus vacuus.
+
+1l. Preterea ex attritu duorum corporum, ut fetoranemodo ligni contra lignum, non modo caloris gradum . aliquem generari experimur, sed et ignem. Est enim motus ille, pressionis modo in hanc, modo in illam partem reciprocatio ; ex quo motu necessario fit, ut quod in utroque ligno includitur fluidi, modo huc, modo illuc distrahatur; et, per conseuj [p. 374] 1v. quens, conetur erumpere ; et aliquanto post erum- —-— pens fiat ignis, Dementr 12. Lux autem alia est prima, alia secunda, alia cwm, ke tertia, et sic deinceps in infinitum. Primam lucem dicimus, que est in lucente primo, ut sole vel igne: secundam, que est in corpore non diaphano a sole illustrato, ut in luna, vel pariete: tertiam, quz est in corpore non diaphano a luce secunda illustrato, etc. Pertidini 13. Color autem lux est, sed perturbata, nimivilae per ^ rum, a motu perturbato generata; ut in coloribus Torumcawe, rubro, flavo, ceeruleo, et purpureo, qui generantur per interpositionem inter lucidum et. illustratum prismatis diaphani, habentis bases oppositas triangulares, manifestum fiet.
+
+Sit enim prisma (in figura secunda) ex vitro aliave materia pellucida, qus sit aere densior, eujus basis sit triangulum A BC: sitque recta DE diameter disci solaris posita oblique ad rectam AB; radietque sol per DA et EBC; producanturque recte DA, EC uteunque in F et G. Quoniam jam recta D A propter densitatem vitri refringitur versus perpendicularem, sit linea refracta ad punctum A, recta A H. Rursus, quia medium infra A C rarius est quam supra, fiet alia refractio eaque divergens a perpendiculari ; sit ergo linea iterum refracta AI. Atque idem fiat ad punctum C, ut linea primum refracta sit C K, et iterum refracta CL. Cum autem refractionis in puncto A, quod punctum est in recta A B, causa sit resistentize medii in A B excessus supra resistentiam aeris, necesse est ut fuerit reactio a puncto A versus punctum B, ideoque motus medii ad A intra triangulum A B C turbabitur; id est, mixtus
+
+[p. 375] — 375 erit ex motu recto per AF et AH, et ex motu PanS Y. transverso inter easdem A F et A H, quem motum —€— signavimus lineolis transversis in triangulo A F H. pesi Rursus, quoniam refractio fitad punctum A rectze violacei per AC per rectam AI, turbabitur rursus motus m estem medii propter reactionem transversam ab A versus
+
+C, quam reactionem similiter representamus per transversas lineolas in triangulo AH — Atque eadem ratione duplicem turbationem delineavimus in trianguis CGK et CK L. Ceterum, inter rectas A I, C G lux non turbatur, propterea quod,
+
+8i quod factum est ad A et C, idem fieret in omni puncto rectarum A B et A C, contingeret in omni loco planum trianguli C GK incidere in planum trianguli A F H, atque inde fieri ut omnia inter A et C essent similia. Preterea observandum est, omnem reactionem factam ad A tendere in par- tem, quze est. inter A et. C, illustratam, et proinde turbare lucem primam ; contra autem, reactionem in C tendere omnem in partem extra triangulum sive extra prisma A BC, ubi lux secunda est; et triangulum quidem A FH ostendere turbationem lucis quee fit in ipso vitro, triangulum autem AH I turbationem lucis que fit infra vitrum : similiter,
+
+CGK turbationem lucis in vitro, et CK L infra vitrum. Diversi inde sunt motus, sive diverse illustrationes, sive colores quatuor, quorum differentis manifestissime in prismate, cujus basis est triangulum zquilaterum, quando per ipsum trajecti
+
+80lis radii super chartam albam excipiuntur, sensui apparent. Sensui autem triangulum A F H apparet rubrum; triangulum AHI flavum; triangulum
+
+CGK viride accedens aliquantum ad ccruleum ; triangulum denique C KL purpureum apparet.
+
+[p. 376] 21.
+
+Quare luna et stellee apparent jn horisonteru.
+
+bicundiores et. majores quam. in mnedio clo.
+
+376 PHYSICA.
+
+Constat ergo ex luce debili, sed prima, qualis est dum transit diaphanum magis resistens, ut vitrum, incidentes radios transversos facere ruborem; ex luce prima fortiore, qualis est in medio rariore infra rectam AC, incidentes radios transversos facere flavedinem ; ex luce secunda fortiore, ut in triangulo C G K, quod proximum est luci primz, a transversis radiis fieri virorem ; ex luce denique secunda imbecilliore, ut in triangulo C K L, fieri colorem purpureum.
+
+14. Per ea qui modo ostensa sunt, causa explicari potest, quare luna et stella: prope horizontem conspecte, tum rubriores, tum majores videntur quam in medio celo. Inter oculum enim et horizontem apparentem multo plus intercedit aeris impuri et corpusculis aqueis terreisque misti, quam inter eundem oculum et coli medium. Visus autem fit per radios in conum dispositos, cujus basis quidem discus lunaris, vertex autem in oculo est. Necesse ergo est ut plurimi radii & luna incidant in corpuscula ea, que sunt extra conum visualem, et ab illis ad oculum reflectantur. At radii illi reflexi ad conum visualem transversim tendunt, et ad oculum faciunt angulum angulo conico majorem. Major ergo videtur luna in horizonte quam in medio ccelo. Et quoniam radii reflexi transversim eunt, fit (per articulum przcedentem) rubor. Ostensa ergo est causa possibilis quare luna,.ut et stelle, in horizonte quam in medio ccelo et rubicundiores apparent et majores.
+
+Eadem causa esse potest, cur sol in horizonte quam in medio coelo et major apparet, et colore a candore degenerante in flavedinem. Eadem enim est reflexio ab interpositis corpusculis, idemque
+
+[p. 377] — 377 motus medii transversus, qui ante, sed lux solis b5o-] wv. multo fortior est quam lung. Quare (per arti- ——— culum precedentem) necesse est ut candor ejus aliquantulum turbatus degeneret in flavedinem.
+
+Neque necesse est ad generationem horum quatuor colorum, ut vitri figura sit prisma. Nam eorpus sphzricum idem efficit, cum etiam in sphzera radii solares bis refringantur et bis reflectantur. Quod cum observasset Cartesius, neque apparere iridem nisi tunc cum actu pluit, item cadentes guttulas essefere sphzericas,ex eo causam colorumin iride explicavit; quam repetere non est necessarium.
+
+15. Albedo quidem lux est, sed ex multorum C«« simul lucidi radiorum ad oculum, intra exiguum "i spatium, reflexionibus conturbata. Siquidem enim vitrum vel quodlibet diaphanum in minutissimas partes per contusionem concussionemve redigatur, unaqueeque illarum partium, si modo radios lucidi ab uno aliquo puncto ad oculum reflectat, faciet in vidente totius lucidi ideam sive imaginem, id est, phantasma albi ; nam lux fortissima etiam candidissima est. Itaque et multe tales partes multas imagines ejusdem facient. Quare si' eedem partes confertissimze sint, multze ille imagines apparebunt confuse, unumque a confusa luce exhibebunt colorem album. Hinc ergo elici causa potest possibilis, quare vitrum contusum, id est, redactum in pulverem, colorem album induit. Item quare aqua et nix albze sunt ; sunt enim corporum diaphanorum minutissimorum congeries, nimirum bullulz, ex quarum singularum superficiebus convexis singula per reflexionem fiunt lucidi totius phantasmata confusa, id est, albedo. Propter eandem causam sal et nitrum alba sunt. Consistunt enim.
+
+[p. 378] 2r.
+
+Causa.
+
+nigredinis,
+
+378 PHYSICA.
+
+ex bullulis aquam aeremque continentibus, ut manifestum est in nitro, ex eo quod ignem, cui imponitur, violentissime sufflat ; idem autem facit et sal, sed minore impetu. Quod si album ad lucem, non illam quidem diurnam candidamque, sed ad lucem ignis vel candele exponatur, utrum album an flavum sitnon facile aspectu judicabitur. Cujus rei causa esse potest, quod ignitorum lux et flamma inter albedinem et flavedinem fere media est.
+
+16. Ut albedo lux, ita nigredo lucis privatio est, sive tenebre. — Unde fit, primo, ut foramina, unde lux ad oculum reflecti non potest, nigra appareant. Secundo, ut superficies, e qua particule corporis erecte emineant, adeo ut radii lucis ipsis incidentes in ipsum corpus, non ad oculum reflectantur, nigra appareat; quemadmodum migrescit mare a vento crispatum. Tertio, ut materia combustibilis prius ab igne nigrescat quam lucescat. Ignis enim, dum partes corporis injecti minutissimas conatur discutere, prius erigit quam discutit. Itaque si extinguatur ignis antequam fiat totalis partium dissipatio, carbo apparebit nigerrimus ; erectis enim partibus, lucis radii incidentes non ad oculum, sed in ipsum carbonem reflectentur. Quarto, ut a speculis ardentibus facilius accendatur materia nigra, quam alba. In superficie enim alba partes extantes gibbosse sunt, ut bullule; et propterea radii lucis in eas incidentes reflectuntur, ita ut a corpore reflectente undequaque recedant; sed in superficie nigra, ubi extantes particule. erectiores sunt, necesse est ut lucis radii, in eas incidentes, in ipsum corpus reflectantur omnes; facilius ergo a radiis solaribus nigra quam alba accenduntur. Quinto, ut colores
+
+[p. 379] omnes, qui fiunt ab albi et nigri mixtione, oriantur PARS UY. a differentiis positionum particularum e superficie —— extantium, pro diversis asperitatis formis; a quibus eeinis. fit, ut ab aliis corporibus plures radii lucis, ab aliis pauciores ad oculum reflectantur. Sed cum differentim ille innumerabiles sint, et. corpuscula illa percipi oculis non possint, causas singulorum colorum precise determinare et explicare difficilius est, quam ut earum explicationem aggredi audeam.
+
+CAPUT XXVIII.
+
+DE FRIGORE, VENTO, DURO, GLACIE, FLEXORUM RESTITUTIONE, DIAPHANO, FULGURE ET TONITRU, ORIGINE FLUVIORUM.
+
+1. Cur modo calefacit, modo refrigerat ab eodem ore halitus. 2. Ventus, et ventorum inconstantia, unde.—$. Cur ventus ab oriente ad occidentem non magnus, sed constans, prope sequatorem.—4. Aeris in nubibus inclusi effectus quis.—5. Durum ex molli, nisi per motum, non fiL.—6. Causa frigoris circa polos, qua.—7. Causa glacie; eur mitiora frigora dum pluit quam dum serenat; cur non tam gelantur aque in profundis puteis, quam prope terra superficiem ; cur glacies aqua levior est; et cur vinum quam aqua difficilius gelatur.—8. Causa duritiei &ltera a. pleniore contactu atomorum ; item quomodo
+
+* durum frangitur.—9. Causa tertia duritiei ab evocatis particulis fluidis.—10. Causa quarta duritiei a mota atomorum in spatio angusto.—11. Causa duritiei & calore; dura quomodo emolliuntur.—12. Flexorum spontanea restitutio, unde.—13. Diaphanum et opaeum, quid et unde.—14. Causa fulguris et tonitrus.—15. Unde fit ut nubes glaciates, semel elevate, post ^ decidant.—16. Quomodo fieri potuit ut luna eclipsin pateretur, . nec videretur tamen soli diametraliter opposita.—17. Quomodo simul potuerint apparere plures soles.—18. Origo fuviorum.
+
+]. QUEMADMODUM ex eo, quod spiritus et COT- Car modo cale poris nostri partes fluide a motu ambientis sub- friget ab so- stantis stheres evocantur, agnoscimus calorem ; j*orehalitus
+
+[p. 380] 380 PHYSICA.
+
+PARS IV. ita ex eorundem spirituum et humorum conatu ad ——^— interna sentimus frigus.  Frigerare ergo facere iesu, 6t ut partes corporis externe» conentur ad interna, motu nempe contrario ejus, qui fit in calefactione, ubi partes intern evocantur ad externa. Itaque ad cognoscendam causam frigoris, invenire oportet quo motu vel quibus motibus fieri potest, ut partes corporis extern; conentur se recipere ad interiora. Initio ergo sumpto a phienomenis maxime familiribus, nemo fere nescit quod halitus oris cum violentia efflatus, id est, ore non nimium aperto emissus, manum objectam refrigerat, quodque idem halitus ore hiante, id est, molliter emissus, eandem calefacit. Cujus phsenomeni causa esse potest hujusmodi. Exeuns enim halitus duos habet motus, alterum totius directum, quo motu partes anteriores objectee manus ante se, id est, ad interna adigit; alterum perticularum halitus simplicem, quem (capite precedente art. 3) ostendimus esse calorificum. Prout ergo horum motuum alteruter praedominatur, ita sentitur modo frigus modo calor. Dum ergo hiante ore halitus molliter emittitur, praevalet motus ille siraplex calorificus, et proinde sentitur calor. Sed quando ore compresso halitus efflatur, prevalet motus directus, itaque sentimus frigus. Motus enim, sive halitus sive aeris directus, ventus est; ventus autem omnis aut frigefacit, aut calorem, qui ante erat, minuit. Yemuee*a- 2. Quoniam autem frigefacit ventus omnis non santa unde. modo magnus, sed etiam ventilatio sive motitatio neris fere qualibet, multorum circa frigus experimientorum non ante reddi ratio poterit, quam reperte fuerint cause ventorum. Ventus autem aliud non est quam pulsi aeris motus rectus; qui
+
+[p. 381] DE FRIGORE, VENTO, ETC. 38r tamen, si plures ventí simul spirent, potest esse TAnS IY. eircularis vel quomodocunque curvus, ut in tur- ———binibus. Inquirende ergo proximo loco sunt ven- Mire torum cause. Motus autem aeris, sive ventus, entis, unde. alius est multi simul aeris fluctus sive undatio, alius progressio recta.
+
+Supposita pro quantulocunque tempore aeris serenitate simul er eranquillitate, corporibus tamen mundanis ita ut ante dictum est dispositis, necesse erit ut statim alicubi oriaturventus. Cum enim a motu partium aeris, quem motum sol efficit motu simplice in epicyclo proprio, maria et humida omnia particulas suorum corporum exhalent, ex quibus fiunt nubes, necessarium est ut totidem particule aeris, dum particule aquee sunt in transitu, propterea quod locus vacuus nullus datur, ad latera undequaque digrediantur, urgeantque partes sibi proximas, et hz rursus alias; donec tandem circuitione facta, tantundem aeris accedit. ad terram a tergo, quantum &quz ab ea abscessit & fronte. Movetur ergo aer, initio facto ab ascendentibus vaporibus, ad latera undequaque; sed &er motus est ventus. Fit ergo ventus. Quod si ventus ille, surgentibus in aliis locis vaporibus, rursus et stepius occurrat, manifestum est et vim illius auctam, et viam sive plagam mutatam fore. Etiam, ut terra, motu suo diurno, modo aridiorem modo humidiorem sui partem ad solem convertit, ita modo major modo minor vaporum copia elevabitur, id est, modo minor modo major factus erit ventus. Ventorum ergo eorum, qui ex vaporibus generantur, simulque eorum inconstantie causam reddidimus possibilem.
+
+Sequitur hinc nasci ventos illos in loco eleva-
+
+[p. 382] Lords tiore non posse, quam ad quem vapores possunt —vF— elevari; nec incredibile esse id, quod de montibus altissimis narratur Pico Teneriffa et Andibus Peruvize, nimirum, quod ventis hisce inconstantibus non turbentur; siquidem autem pro certo compertum esset nunquam in summis illorum montium cacuminibus visam fuisse neque pluviam neque nivem, dubitari non posset quin altiores sint illi montes, quam quo pertingere vapores solent. Gen c: 3. Potest tamen illic sentiri ventus, nom: ille cidentem non quidem ab ascensu vaporum ortus, sed alius minor m et constantior, similisque uni et perpetuo flatui peer follieuli, spirans a plaga orientali; idque propter causam duplicem. Quarum altera est motus terrz diurnus, altera simplex in epicyclo proprio. Nam montes hi propter altitudinem supra omnem aliam terre partem extantes, aerem propellunt motu utroque ab occidente ad orientem, diurno quidem aliquantulum. Sed cum motum terre simplicem in epicyclo proprio bis peragi supposuerimus eo tempore, quo motus diurnus peragitur semel, et semidiametrum epicycli esse semidiametri conversionis diurnze duplam ; erit motus cujuslibet puncti terre in epicylo suo quadruplo velocior quam motus diurnus. Utroque ergo motu simul satis sensibiliter in aerem incurritur; sentietur ergo ventus. Nam motus perceptio eadem est, sive aer in sentientem, sive sentiensin aerem impingat. At ventus hie, quia nom oritur ab ascensu vaporum, necessario erit constantissimus. Aer.inas- — 4, Si elevata in aerem nube, nubes ascendat alia; 'bibus inclusi, : . efecusquis, pars setherea inter utramque nubem intercepta necessario undequaque exprimetur. Item quando amb:e, altera ascendens, altera manens vel descendens, [p. 383] itá conjunguntur, ut substantia setherea undequaque ab iis sit conclusa, etiam sic compressa, aquam pertransiens, exibit. Interea vero particule dure setheri intermistze, et motu, ut supposuimus, simplice agitate, per aquam nubis non transibunt, sed in cavitatibus nubium arctius comprimentur. Et hsec quidem demonstrata sunt, cap. xxi. art. 4,5. Preterea, quoniam globus telluris zetheri, à solis motu pulso, innatat, partes stheris telluri impingentes undequaque per ipsius telluris superficiem expandentur, ut cap. xxI. art. 8, demonstratum est.
+
+5. Durum ex eo cognoscimus, quod, cum corporis alicujus partem quam tangimus ulterius volumus propellere, nisi toto simul propulso frustra volumus. Aeris quidem vel aque particulam tactam vel percussam facile et sensibiliter protrudimus, partibus tamen ceteris, quoad sensum, immotis: lapidis partem non item. Definimus ergo durum esse corpus illud, cujus pars moveri sensibiliter nulla potest, nisi moto toto. Quod ergo molle vel fluidum est, fieri durum ab alia causa non potest, nisi a motu tali, ut partes plures motum partis unius cujuslibet, simul omnes ipsi resistentes, impediant.
+
+6. His premissis, possibilem causam ostendemus quare frigus circa terre polos majus est, quam a polis remotius. Aer, a versante inter tropicos sole ad terre superficiem sibi perpendiculariter subjectam propulsus, undequaque expanditur; et velocius quidem, quo superficies terre actior est, id est, ubi circuli equatori paralleli sunt minores. Motus ergo aeris se expandentis partes obvias versus polos semper ante se pellit, magis autem
+
+PARS 1v.
+
+uu
+
+Doram ex 3rolli, nisi per. motum, non ft,
+
+Causa. Tigoris circa. polos qum.
+
+[p. 384] DN fortiter quo magis vis ejus unitur, id est, ubi circuli —-—. paralleli sunt minores, id est, tanto magis quanto ad polos terre magis acceditur. In locis ergo propius ad polos, majus nascitur frigus, quam in locis remotioribus.
+
+In expansione autem aeris super terre superficiem ab oriente ad occidentem, propter solis ad loca subjecta perpetuam accessionem, frigus quidem nascitur oriente et occidente sole; sed accedente semper sole ad looa frigefacta in situ magis magisque perpendiculari, a calore, qui fit a motu solis simplice circulari superveniente, frigus illud rursus remittitur, quod nisi a diuturna actione non fit magnum.  Reddidimus ergo frigoris in locis prope polos sive in magna solis obliquitate causam possibilem.
+
+7. Quomodo autem fieri potest ut aquse a frigore Ep congelascant, explicari potest hoc modo. Sit (in dum fig. 1) A, sol; terra B. Multo ergo major est A r non
+
+E B. Sit autem EF in plano zquinoctialis ;
+
+aque in fündis puteis, Cui parallele sint GH, IK, LC; sint denique C, po ee D teluris poli. Actio ergo aeris in terram per
+
+Siem; ^ £^" parallelas illas efficiet, ut aer moveatur per super- ior teet evi fieiem terre, eamque fortiter radat; tantoque nom quam squa dificiia IDagis, quanto parallele versus polos sunt, minores.
+
+Dd Fit ergo ventus, qui aquas summas compellit, simulque aliquantum elevat, earum conatum ad centrum terre impediens. A conatu autem ad centrum terre, conjuncto cum conatu venti modo dicti, fit particularum aquaze summarum compressio, et conglobatio in grumos; unde summa aqua cutescit, durescitque. Eodem modo paulo post durescit aqua summse proxima, donec fiat tandem glacies crassa. Quee tamen propter compactionem
+
+[p. 385] ex grumis, etiam aeris particulas in se receptas PAnSIY. continet non paucas. ——
+
+Quemadmodum autem flumina et maria, ita C^" scie quoque et nubes congelari possunt. Cum enim nubes, alter: ascendentes, alter: descendentes, zetherem interceptum compressione efflant, utrasque nubes efflatus radit et paulatim compingit. Et siquidem guttule, ex quibus nubes componi solent, nondum coaluerint, tamen flatus idem efficietur, ab eoque flatu, ut aqua. in glaciem, ita vapores in nivem congelascent. Ab eadem causa est, quod fieri glacies arte potest, etiam prope ignem. Nam qui hoc faciunt, salem nive mistum in vas conjiciunt; in ea materia vasculum aquse plenum fere sepeliunt. Colliquescentibus autem sale et nive, inquibus magna copia inest aeris, expressus aer vasculum aque undequaque ut ventus radit; et quo motu vasculum a flatu, eodem motu conclusa aqua ab actione vasculi paulatim congelatur.
+
+Experimur autem frigora in iis locis remissiora semper esse, ceteris paribus, ubi pluit vel tempus nubilum est, quam ubi serenat. Et hoc quidem jam dictis consentaneum est. Quando enim serenum est, cursus venti, quem radere superficiem terre modo memoravimus, ut liberrimus, ita et fortissimus est. Sed cadentibus surgentibusve aquz guttulis ventus ille retunditur, frangitur, et dissipatur. Consentaneum autem est debiliorem factum flatum minus frigefacere.
+
+Experimur item, in puteis profundioribus quam in superficie terre aquam congelari minus. Flatus enim a quo fit glacies, terram, propter partium ejus laxitatem, aliquousque subingrediens virium suarum jacturam facit non magnam ; itaque
+
+VOL. I. cc
+
+[p. 386] PARS IY. 28.
+
+Causa duritiei altera a pleniore contactu atomorum ; item quomodo durum frangitur.
+
+386 PHYSICA.
+
+in puteo non profundo aqua gelascit; cum in profundo puteo, quo aura illa frigefica penetrare non possit, non gelascit.
+
+Experimur preterea, glaciem aqua leviorem esse; eujus causa ex eo patet, quod supra ostensum est, congelascenti aqui particulas aeris in ipsa congelatione intermistas esse.
+
+Postremo, vinum quam aqua difficilius congelascit, quia in vino particule, qu: fluide non sunt, moventur velocissime; unde primo tardatur inerustatio propter illarum motum, quem si frigus vicerit, gelascit vinum, primo exterius, postremo interius; signum hujus rei est, vinum, quod in medio relinquitur non gelatum, fortissimum fieri.
+
+8. Vidimus modum unum efficiendi durum, nempe per congelationem. Alius autem est hujusmodi. Cum substantie setheree innumeras atomos alias aliis duriores, suosque sibi habentes motus simplices, intermistas esse jam ante suppo- Suerimus; necesse inde est, ut propter totius setheris fermentationem, de qua dictum est, cap.
+
+## XXI. alise in alias incidentes, et prout eorum motus
+
+et contactus mutuus postulant, una ad aliam applicatm, inter se cohzreant; et, quoniam non datur vacuum, ut divelli nisi tanti vi; quanta ad earum duritiem superandam opus est, non possint.
+
+Gradus autem duritiei innumerabiles sunt; etenim aliquis aquze inest ; id quod ex eo manifestum est, quod super planum existens huc, illuc, digitum sequens trahitur quo volumus. Gradus adhuc in liquoribuslentis majorest. Atillicum effunduntur descendentes, in unum quasi filamentum se disponunt, et illud filamentum, ante quam rumpitur, diminuta paulatim crassitudine extenuatur, ita ut
+
+[p. 387] diruptio in puncto solum fieri videatur, et partes FAI separantur a se invicem, primo quidem exteriores ———' in circuitu, post autem successive interiores. Post illa, gradum duritiei majorem adhuc habet cera; "^ *— hanc etiam, quando partem ejus a parte divellere volumus, prius extenuamus totam, quam partes dirimimus. Quanto autem durius est quod rumpendum est, tanto vis major est adhibenda. Procedendo ergo ad duriora ut funes, ligna, metalla, lapides, idem, etsi non semper sensibiliter, necessario tamen contingere suadet ratiocinatio. Eodem ergo modo rumpuntur etiam durissima, nimirum solutione continui facta, primo, in ambitu superficiei extimse, et deinde in partibus interioribus successive. Similiter, si corporum partes non divul- Sione sed diffractione dirimendz sint, necesse est partes prius dissilire, quz sunt ad superficiem convexam flexi corporis, quam ad superficiem concavam. Nam in omni flexione, est in superficie convexa partium conatus ad discessionem ; at in superficie concava, ad mutuam penetrationem.
+
+His intellectis, reddi ratio potest, quare duo corpora, qui secundum superficiem communem se mutuo contingunt, possint tamen vi adhibita, etiam nullo dato vacuo, dissilire. Quod Lucretio non videbatur ita esse, cum ab ea dissilitione videtur sibi vacuum stabilivisse. Nam si columna marmorea ab altera base pendens exhibeatur, ea, si satis longa sit, sui ipsius pondere diffringetur. Non tamen dari vacuum necessario inde sequitur, quando ab ambitu ad meditullium solutio continuitatis fieri potest successive.
+
+9. Duritiei in rebus aliquibus alia causa esse eus tert potest hujusmodi. Nam si corpus molle ex multis cc2
+
+[p. 388] 388 PHYSICA.
+
+AB particulis duris sit concretum, quie tamen parti- end cule laxius ante inter se cohzerebant, intermistis fieulis fuii. Scilicet multis particulis fluidis; partes fluidm, (ut ostensum est cap. xxr. art. ultimo), evocabuntur. Quare ille particule duree, alterz ad alteras secundum majores superficies sese applicabunt, et proinde arctius inter se cohserebunt; id est, fiet totum durius.
+
+Qus qr 10. Rursus, in quibusdam rebus oriri duritiei iomonm i gradus aliquis etiam hoc modo potest. Quando spitio sg. humori alieui interspersa sunt corpuscula quzedam minima, eademque mota motu proprio simplice; (unde et partes ipsius humoris motu moventur simili); idque in spatio arcto fiat, ut in globi vel arctissimi tubuli cavo, sitque motus vehementissimus, et corpuscula inclusa satis multa, duo contingent; alterum, ut liquidum inclusum conatum concipiat versus omnes simul partes sese dilatandi; alterum, ut negato excurau, propter motus reflexionem motus partium liquidi inclusi, fortis ante, multo nunc sit fortior. Quare, si ab aliquo motore externo una aliqua ejus fluidi particula. tangi et premi posset, ea particula cedere non posset nisi vis adhiberetur satis sensibilis. Gradum ergo habet inclusum et sic commotum fluidum duritiei aliquem. Major autem minorve gradus duritiei a copia et velocitate corpusculorum et ab angustia loci dependet conjunctim.
+
+Cause dari- 11. Qui a calore subito indurescunt nt. cocta, dam qomolo in formam priorem emollescunt plerumque a ma- tx: ceratione, — Cocta enim pleraque per evaporationem indurantur ; restituto ergo eodem humore, restituitur etiam natura pristina. Quse frigore congelata sunt, mutata in contrariam plagam aura
+
+[p. 389] qua concreverant, regelantur ; nisi forte tam longo tempore induruerint, ut motus sive conatus novi habitum acquisiverint : neque satis est ad regelationem, ut gelans aura cesset ; nam sublatio cause effectum non destruit; sed causam oportet fuisse regelationis propriam, nempe auram contrariam vel saltem aliquatenus oppositam ; id quod etiam fieri experimur. Nam si glacies in locum bene clausum inferatur, ubi motus aeris minime penetrare possit, frigus ibi minus sentietur ; glacies tamen conservabitur.
+
+12. Durorum alia manifeste flecti possunt ; alia non item, sed in primo flexionis momento statim diffringuntur. Et eorum quz manifeste flecti possunt, alia quidem flexa, rursus sibi permissa statim se restituunt, alia manent flexa.  Quieritur ergo restitutionis causa, quam dico esse posse hujusmodi; nempe, quia particule corporis flexi moventur etiam tunc cum tenetur flexum, motu suo, amotz vi flectente, flexum restituent. Perspicuum enim est, si quid flectatur, ut chalybea lamina, eademque, amota vi flectente, subito se restituat, causam restitutionis ad ambientem aerem referri non posse. Perspicuum quoque est, restitutionis causam non esse, quod vis flectens sit amota, Nam in iis, quz quiescunt, remotio impedimenti futuri motus sufficiens causa non est. Causa enim motus alia non est preter motum. Causa ergo restitutionis est in partibus, ex quibus ipsa lamina constituitur.
+
+Dum ergo flexa manet lamina, motus tamen in partibus ejus inest aliquis, quanquam invisibilis, id est, conatus saltem, et ea quidem via qua ipsa -lamina est restituenda. Conatus ergo hic partium.
+
+Flexorum spontanea restitutio, unde.
+
+[p. 390] Diaphanum quid et unde.
+
+390 PHYSICA.
+
+simul omnium est restitutionis principium. Remoto ergo impedimento, id est, vi qua flexa tenebatur, restituetur. Motus autem partium, quo hoc fit, ille est, quem supposuimus simplicem esse, sive inse redeuntem. Quando ergo in flectione laminse capita ejus adducuntur, fit, ex una quidem parte, compressio particularum mutua, qui conatus est conatui contrarius; ex altera parte, fit particularum divulsio. Conatus ergo particularum, ab una parte, tendit ad laminze restitutionem a medio versus capita, cujus effectus est ut, ex altera parte, particule conentur a capitibus ad medium; is igitur conatus, cum sit restitutionis perfectze principium, remoto impedimento laminam restituet. Causa ergo explicata est possibilis, quare flexa quzdam se restituunt ; quee erat explicanda.
+
+Lapides autem cum ex multis durissimis particulis sub terram fiant per accretionem, quz particule minus arcte, id est, secundum minores supetficies inter se cohsrent, et proinde admittunt particulas aeris: necesse est, dum flectuntur, ut difficilius interne comprimantur ob duritiem. Et quoniam laxius inter se cohzrent, laxatis externe particulis duris, partes aereze necessario erumpunt ; unde totum subito diffringitur.
+
+13. Diaphana appellantur ea corpora, in quz cum agunt radii corporis lucidi, actio singulorum. radiorum ita per ea propagatur, ut eundem servent inter se ordinem, vel ejus inversum. Ideoque necesse est, ut corpora perfecte diaphana sint etiam perfecte homogenea. Contra, opacum est, in quod radii incidentes, propter naturam heterogeneam, innumeris reflexionibus refractionibusque in particulis diversimode figuratis insqualiterve
+
+[p. 391] DE FRIGORE, VENTO, ETC. 391 duris, prius quam ad oculum pertingant debilitantur.
+
+Diaphana autem alia quidem a natura ab initio facta sunt, ut substantia stherea et aquea; et fortasse ea etiam quie invenitur in lapidibus, nisi et ea sit aqua a longo tempore congelata. Alia vero a vi caloris homogenea congregantis : sed quz sic fiunt diaphana, id ante erant secundum partes.
+
+28.
+
+14. Quomodo a motu solis elevantur e mari et C«os.
+
+locis humidis particule aquez, unde fiunt nubes, explicatum est cap. XXI. Item, nubes quomodo glaciantur, dictum est supra art. 7. Jam ex eo, quod ex occursu ascendentium descendentiumque nubium concludi et coarctari paulatim possunt partes aeris tanquam in cavernis, derivari potest causa possibilis tonitrus et fulguris. Cum enim in aere sint duz partes; altera :etherea, quae motum sibi proprium nullum habet, utpote res usque ad minima divisibilis; altera dura, nimirum multe atomi dure, singuleque in aere suo ac velocissimo gaudentes motu simplice; dum nubes magis magisque cavernas interceptas congredientes angustiores reddunt, partes sthereze per ipsam substantiam nubis aqueam transfugiunt, partes autem dure tanto magis comprimuntur, altereque in alteras impingunt; proinde etiam propter uniuscujusque particule vehementem motum conantur a se invicem resilire.
+
+Quando igitur compressio satis magna est, et nubium partes concave, ea de causa quam supra explicavimus, in glaciem sunt concretze, necesse est ut rumpatur nubes; fit ergo a fracta glacie fregor primus; deinde erumpente aere qui in- falguris et tonitrus.
+
+[p. 392] 28.
+
+Unde fit ut nuben glaciate, semel elevate, post decidant,
+
+392. PHYSICA.
+
+elusus erat, fit concussio etiam aeris liberi; hinc fremitus ille et murmur aeris qui fragorem sequitur: sed ex fragore primo et sequente murmure fit sonus qui vocatur tonitrus. Ex eodem autem aere e nube erumpente aeremque reliquum usque ad oculum concutiente, fit illa actio in oculum qua sentimus lucem eam, quam vocamus fulgur. Causas ergo tonitrus et fulguris reddidimus possibiles.
+
+15. At si vapores in nubes elevati coaluerint in aquam continuam, vel compacte in glaciem fuerint, unde est quod, graves cum sint tam glacies quam aqua, tam diu possint ab aere sustineri? Vel potius, elevatee cum sint, quam ob causam rursus recidunt? Dubium enim esse non potest, quin vis ea, quz aquam potuit attollere, eandem etiam sustinere potuit. Cur ergo sublata recidit? Dico ergo ab eodem oriri motu solis simplice, tum quod attolluntur vapores, tum quod aquz in nubes coalite dejiciuntur.
+
+Ostensum enim est (cap. XX1. art. 11) quomodo vapores elevantur. Sed et ostensum est (cap. eodem, art. 5) quomodo ab eodem motu congregantur homogenea, et heterogenea disperguntur, hoc est, quomodo quse ad naturam telluris accedunt ad terram pelluntur, hoc est, quze sit. causa descensus gravium. Quando ergo solis actio in elevandis vaporibus impeditur, in iisdem dejiciendis non impeditur, descendet aqua. Sed actio solis in terrenis ad terram dejiciendis a nube impediri non potest, in elevandis vaporibus potest. Nam spisse nubis pars inferior a parte superiore ita tegitur, ut recipere eam actionem solis non potest, qua vapores elevantur; propterea quod causa vaporum elevandorum est perpetua aeris fermentatio, [p. 393] sive partium minutissimarum aliarum ab aliis PARs rv. diremptio, que multo debilior est interposita nube —-— spissa, quam quando coelum serenum est. Itaque, quando nubes satis densa facta est, aque, nisi & vento agitentur, recident; prius non recident.
+
+Causam ergo attulimus, quare nubes et in aere sustineri et rursus in terram recidere possunt, possibilem. Quod erat propositum.
+
+16. Concesso quod nubes glaciari possunt, mi- Quomodo randum non est si visa aliquando fuerit luna eo mitt tempore eclipsin passa, quo sol apparuit in hori- rrrieson zonte, luna autem supra horizontem duobus fere reden gradibus; talis enim eclipsis lunze observata est a : Mosstlino, Tubingz, anno 1590. Potest enim esse ut inter solem et observatoris oculum interposita fuerit nubes glaciata; quod si factum est, erat sol, quando in horizonte videbatur, duobus fere gradibus inferior, propter radios solares per glaciem transeuntes. Notandum autem est, quod qui hujusmodi refractionem atmosphseree attribuunt, non tamen attribuunt tam grandem; oportuit igitur refractionis illius causam fuisse non atmosphzram, sed aquam continuam vel glaciem.
+
+17. Rursus, concessa in sublimi glacie, minime Quomodo simirandum est, si plures aliquando soles visi fuerint. ki ees Disponi enim specula ita possunt, ut pluribus locis ""** 'elee idem appareat objectum per reflectiones. Totidem autem nubes glaciatze nonne speculorum officia prestare poterunt? aut in eam rem apte disponi non poterunt? Preterea, augeri apparitionum. numerus a refractionibus possunt. taque, si nunquam contingerent talia phenomena, mihi id magis mirabile videretur.
+
+Crederem sane eodem modo fieri cometas; ni-
+
+[p. 394] 394 PHYSICA.
+
+dus mirum ab elicitis non modo e terra, sed etiam e
+
+— planetis czeteris vaporibus, et postea in unum corpus continuum congelatis, nisi unum obstaret stellee nove in Cassiopea vise phenomenon. Nam caudz comzeve rationes probe explicare possem, et przeterea motuum. Sed cum illa stella per sedecim. totos menses in eodem loco inter fixas constanter perduraverit, materiam ejus glaciem fuisse credere non possum. Disquisitionem ergo de causa cometarum intactam posteris relinquo. Nam quod. de illis, prater historias nudas, hactenus scriptum. extat, consideratione dignum non est.
+
+up s... 19. Fhuviorum origines ab aqua pluviali vel liquescentibus nivibus facillime, aliunde vel difficillime vel non omnino deduci possunt. Decurrunt enim per declivia montium aquse pluviz et colliquate nives; quse si per extimam superficiem montis deferantur, ipsi imbres vel nives pro fonte censebuntur. Sin terram subeuntes descendant tectze, tunc ubi primum erumpunt, ibi fontes sunt ; ex quibus rivuli, ex rivulis confluentibus fiunt fluvii. Fons autem, qui magis vel eque a centro terrae remotus est ac fuit aqua quz ad ipsum fluxerit, repertus nusquam est. Nam quod magni nominis philosophus quidam objecit, in Monte Cenisio summo, qui Mons Sabaudiam a Pedemontio disterminat, nascatur fluvius qui per Susam decurrit, non est verum. Nam fluvio illi utrinque astant. montes magni, idque per duo millia passuum, qui montes nivibus perpetuo fere tecti sunt; unde decurrentes rivuli innumerabiles fluvio aquas manifeste, et pro magnitudine ejus abunde przebent.
+
+[p. 395] DE 80NO, ODORE, SAPORE, ETC. 395
+
+CAPUT XXIX.
+
+DE SONO, ODORE, SAPORE, ET TACTILI.
+
+1. Soni definitio, et sonorum distinctiones. — 2. Graduum in sonis causa.—$. Sonorum gravis et acuti differentia, —4. Soni clari et rauci differentia, unde.—5. Sonus a tonitru et a bombarda, unde.—6. Unde, tibiis inflatis, sonus clarus.—7. Sonus reflexus.--8. Sonus zquabilis et diuturnus, unde. — 9. Quomodo sonus juvari et impediri a vento potest.—10. Non solus aer, sed quantumlibet dura corpora sonum deferunt.—1l. Gravis et acuti et concentus causa.—12. Phenomena ad olfactionem. — 1$. Organum olfactionis primum, et olfactionis generatio.—14. Quomodo a calore et a vento adjuvatur.— 15. Cur corpora minime odorata sunt, que minimum habent intermisti setheris.—16. Quare odorata contrita magis olent. lT. Organum gustandi. Et cur sapores quidam nauseam faciunt.—18. Tactus organum primum, et quomodo cognoscuntur objecta tactui cum eeeteris sensibus communia.
+
+1l. SoNUs est sensio generata & medii moti in PARSIY.
+
+aurem reliquumque audiendi sensorium actione. ——
+
+Motus autem medii ipse sonus non est, sed causa Soa defnitio ejus; nam phantasma, id est, reactio sensorii, pro- distinctiones.
+
+prie dicendus sonus est. ] Sonorum distinctiones precipuz sunt hee: prima, quod alius fortior est, alius debilior : secunda, quod alius gravior, alius acutior: tertia, quod alius cla- rus, alius raucus est: quarta, quod alius primus, alius derivatus est: quinta, quod alius eequabilis, alius non sequabilis: sexta, quod alius multum, alius parum perseverat. Quarum omnium distinc- tionum membra subdistingui in rursus distinguibilia possunt, fere in infinitum : quippe, quod varietas so- norum non videtur multo minor esse, quam colorum.
+
+[p. 396] PARSIV. — Sicut visio, ita et auditio a motu generatur
+
+——-— medii, sed dissimiliter. Visio enim a pressione est, id est, a conatu, in quo conatu non fit partis medii ullius progressio perceptibilis; sed pars alia 2liam urgens sive trudens actionem tandem ad quamlibet distantiam successive propagat. At medii motus, ex quo creatur sonus, percussio est; suris enim tympanum, quod organum audiendi primum est, in auditione percutitur. Concusso tympano concutitur etiam meninx tenera, et in ipsam inserte arteriz, et sic propagata actione ad ipsum cor, a reactione cordis fit phantasma, quem sonum dicimus, et propterea quod reactio extrorsum tendit, putamus esse extra.
+
+Gmáwmin 2. Quoniam autem non modo motus motu majorem producit effectum magis velox minus veloci, sed etiam eadem velocitate majus corpus minore corpore, utroque modo major efficietur sonus. Et quia neque in magnitudine neque in velocitate datur minimum aut maximum, fieri potest tum ut motus ita exiguus sit, vel tam exigui corporis, ut nullum efficiat sonum, tum ut ita magnus sit ut sensorium lzdens sentiendi facultatem tollat.
+
+Apparent inde circa sonorum fortitudinem et debilitatem cause possibiles phaenomenan sequentium. Quorum primum est, quod si quis per tubum loquatur, cujus una extremitas ori suo, altera audientis auri applicetur, fortior accedet sonus quam per apertum aerem. Cujus causa non modo possibilis, sed etiam certa et manifesta est, quod aer ab efflato halitu primo commotus et per tubum delatus non diffunditur, ut in aperto aere, et per consequens ad aurem appellit eadem fere velocitate, qua exspirabatur. At in aere aperto aliter fit, ubi
+
+[p. 397] motus primus diffunditur in orbes, eo modo quo PARs Iv. videmus fieri in stagnante aqua, cui injectus sit —-—— lapis. Itaque velocitas, procedente undulatione, eo minor semper fit, quo longius proceditur a motus principio. Secundum est, quod si quis tubo utatur breviore, sed cujus os loquenti obversum magis pateat, quam. quod ad aurem applicatur, sic etiam receptus sonus fortior erit, quam per aerem apertum. Et causa eadem est, nempe, quod tanto minus diffunditur, quanto tubi os patulum a soni origine minus abest. Tertium est, quod facilius est stanti intus in cubiculo ea exaudire, que dicuntur foris, quam. foris stanti ea quz intus; sunt enim fenestre vel alii quilibet moti aeris aditus, pro tubi ore patulo: Et videri potest etiam ab ea causa auditui quorundam animalium non mediocriter prodesse, quod a natura patulis et capacibus auribus donata sint. Quartum est, quod in litore maris existenti collisio duorum fluctuum ne e proximo quidem exaudiri potest, cum tamen totius maris sentitur ingens fremitus. Causa cujus rei videtur esse, quod collisiones singule, etsi sensorium moveant, non sunt tamen satis magnz ad faciendam sensionem ; quin autem cuncte simul faciant sonum, nihil impedit. | 3. Quod corporum percussorum aliud graviorem, Sonorum gnaliud acutiorem sonum efficit, in causa. esse potest. posed differentia temporum, in quibus temporibus partes percusse locisque suis pulsze ad eadem loca rursus redeunt. Nam partium motarum in corporibus aliis quidem cita, in aliis tarda est restitutio. Unde etiam fit, ut partes organi a medio mote modo citius, modo tardius conquiescant. Quanto autem.
+
+[p. 398] PARSIV. frequentiores sunt percussiones sive itus et reditus
+
+———— partium, tanto tempore eodem sonus totus ab
+
+Sor £"- unico pulsu genitus ex pluribus et proinde minu- dfe» tioribus constat partibus. Quod enim in sono acutum, id in materia subtile est; utpote quse ambo, sonus acutus, inquam, et materia subtilis ex partibus minutissimis, hic temporis, illa materize constituuntur.
+
+Sonorum distinctio tertia neque nominibus, quibus usus sum, c/ari et rauci, neque ullis quod sciam aliis satis clare intelligi potest; itaque exemplis opus est. Quum raucum dico, sibilum intelligo, susurrum, stridorem, et que sunt, quocunque nomine, horum similia. Videntur autem hujusmodi soni facti a vi venti alicujus robustioris, opposita corpora duriora radentis potius quam percutientis. Contra autem, cum clarum dico, non intelligo sonum facile et distincte audibilem ; nam et sibili sic clari sunt; sed talem, qualis est fragor, clamor, tinnitus, clangor, et fortasse uno verbo satis significanter, strepitus. Et quoniam Sonus non fit nisi ex duorum ad minimum corporum concursu, in quo concursu necesse est, ut et actio fiat et reactio, id est, motus motui contrarius ; fieri non potest quin, pro diversa proportione inter illos duos motus contrarios, alius atque alius oriatur sonus; et siquidem proportio illa tam magna sit, ut motus corporis unius ad motum alterius comparatus sit insensibilis, non erit eadem soni species ; ut quando ventus fortis incidit obliquissime in corpus durum, vel corpus durum velociter fertur per aerem ; tunc enim fit «ópryuoc, sive sonus ille quem vocavi raucum.
+
+Spiritus ergo ex ore cum violentia efflatus sibilum [p. 399] facit, quia superficiem labrorum exiens radit, -PARS IY. quorum reactio contra vim halitus non est sensi- -———— bilis. Eadem autem causa est quare sibilant venti.
+
+Item si duo corpora quantumvis dura cum pres- sione mediocri confricentur, sonus quem faciunt sibilus est; sibilus autem quando fit ab aere ra- dente, ut diximus, corporis alicujus duri super- ficiem, non videtur aliud esse, quam aeris in exiles et innumeras partes secundum longitudinem dis- sectio. Asperitas enim superficiei per innumerarum partium eminentias aerem incurrentem dissecat sive discindit.
+
+4. Strepitus autem, sive sonus quem vocavi Soi dari clarum, fit uno modo ex oppositis sibilis, altero era ade. modo quando duorum corporum collisione aut divulsione subita particule. eorum subito commoventur, vel commotze subito se restituunt ; motusque is particularum medio impressus ad audiendi organum usque propagatus est; cumque, in ea collisione vel divulsione, conatus inest in particulis unius corporis conatui, qui est in particulis alterius, contrarius, fiet etiam similis conatuum, id est, motuum oppositio in organo audiendi. Unde et sonus inde genitus a duobus fiet motibus oppositis, id est, a duobus sibilis contrariis in una et eadem. parte organi. Sibilus enim, ut modo diximus, motum unius tantum corporis supponit sensibilem. Est autem ab hoc motuum in organo occursu, quod corpora subito collisa vel diffracta videntur strepere.
+
+5. Quibus concessis, fragoris a tonitru causa foneidad esse potest, siquidem tonitrus non fit nisi a vehe- bee, unde, mente aeris e congelatarum nubium cavernis eruptione, ipsius glaciei subita diffractio. Necesse enim est in ea actione, non modo ut particule [p. 400] tibiis infatis, sonus clarus,
+
+400 PHYSICA.
+
+minute diffractarum partium longe lateque concutiantur, sed etiam ut concussio illa aeri communicata. ad organum audiendi deferatur, atque in ipsum imprimatur. Deinde a reactione organi prima fit. ille sonus primus et fortissimus, quem partes, dum. se restituunt, efficiunt per collisionem, et qui vocaturfragor. Quoniam autem in omni concussione fit reciprocatio ituum et redituum partium concus- Sarum ; nam motus contrarii extinguere se mutuo, nisi interveniente tempore, non possunt, ut ostensum est (capite vii. artic. 11); necesse est, ut sonus perseveret simul et paulatim debilitetur, donec actio reciprocantis aeris tam debilis fiat, ut non amplius sentiatur. Patet ergo soni a tonitru, tum primi illius fragoris, tum ejus qui sequitur fremitus causa possibilis.
+
+6. Causa item, quare sonus tibiarum, etsi ab inflatione generetur, clarus tamen est, eadem est cum causa soni qui fit per collisionem. Nam si spiritus in tibiam inflatus superficiem ejus concavam tantummodo radat, vel in eam incidens faciat angulum incidentie valde acutum, sonus fiet non clarus, sed sibilus. Quod si faciat angulum majorem, fiet percussio contra fistule concavum ad unam partem, et inde repercussio ad partem adversam, et deinde repercussiones plures eodem. modo, donec tandem tota tibiz superficies et percutietur et concutietur, fietque itaum et redituum reciprocatio ut in collisione; que reciprocatio cum ad organum propagabitur, a reactione organi orietur sonus clarus, sicut in collisione vel diffractione.
+
+Ad eundem modum fit in voce humana. Nam spiritu libere emisso, et cavitates per quas transmittitur [p. 401] leviter stringente, fit sonus raucus. Sin ru Spiritus in laryngem fortiter impingat, fit sonus ——— clarus, ut in tibia; idem autem spiritus a vario appulsu ad palatum, linguam, labra, dentes, aliaque loquendi organa, varie in voces articulatur.
+
+7. Sonum, qui generatur per motum a sonante, Soous in linea recta, non reflexa, appello primarium; ^. illum vero qui generatur per reflexionem, sive per unam sive per plures, reffezum, eundem qui et echo nominatur, et toties iteratur quot ad aurem fiunt reflectiones. Fiunt autem reflectiones propter montes, muros, aliaque corpora resistentia, ita collocata, ut motum reflectant pro numero magis vel minus sepe, et pro intervallis magis minusve confertim. Causa utriusque rei in situ reflectentium quzrenda est, quemadmodum etiam fieri Solet in visione. — Ezdem enim utrobique sunt reflectionum leges, nimirum, ut anguli incidentize et reflectionis sint inter se zequales.
+
+Itaque, si in spheeroide cava ex materia solida et interne polita, vel in duabus conoidibus parabolicis rectis conjunctisque ad basem communem, ad unum umbilicorum statuatur s0nan2, ad alterum. auris, sonus audietur multis gradibus major quam in loco aperto ; idque ob causam eandem, propter quam in iisdem locis res combustibiles a radiis solaribus comburuntur. Sed ut objectum visibile, in uno umbilico positum, non videtur in altero distincte, propterea quod in ommi linea, que a concava superficie ad oculum reflectitur, videtur omnis pars objecti, unde oritur visio confusa; sic neque sonus, qui per easdem defertur lineas reflexas, articulatim aut distincte audietur. Atque inde fieri potest ut vox, quee in cameratis templis
+
+VOL. I. DD
+
+[p. 402] 402 PHYSICA.
+
+PARS TY. e cathedra profertur, etsi cameratio neque elliptica A neque parabolica sit, tamen quia a tali figura
+
+Sonus equabilis et diaturnus, unde.
+
+non longe abest, non tam articulatim quam absque cameratione sentietur.
+
+8. Circa sonorum zquabilitatem et durationem, quarum causa communis est, observare possumus, quod corpora illa, quze percussa sonum inzquabilem seu asperum reddunt, sunt valde heterogenea, id est, ex particulis constantia tum figura, tum duritie dissimilibus ; qualia sunt ligna, saxa, aliaque non pauca. Itaque, quando sunt percussa, eorum particule interne concutiuntur quidem et rursus se restituunt; motum autem non similiter recipiunt, neque in se invicem eodem modo agunt ; sed dum aliz ab ictu resiliunt, alie, que jam ante resiluerant, redeunt, et proinde se mutuo aliz alias aliter sistunt. Contingit hinc non modo ut motus fiat ingquabilis sive asper, sed etiam ut reciprocatio illa itionum et reditionum cito extinguatur. Quando ergo motus iste ad aurem propagatur, sonus etiam, inde generatus, et brevis erit et inzequabilis. Contra, si corpus percussum non modo satis durum sit, sed etiam particule ex quibus constat tum duritie, tum figura inter se sint similes, ut fit in vitro et metallis quse post liquefactionem induruere, sonus fiet, propter itiones et reditiones similes et uniformes, zequabilis et amoenus; idemque pro magnitudine corporis percussi magis minusve diuturnus. Quare soni zquabilis et asperi, brevis et diutini causa possibilis "na eademque esse potest, corporis sonum reddentis partium internarum tum quoad figuram tum quoad duritiem similitudo et dissimilitudo.
+
+Prseterea, si fuerint duo corpora plana ex eadem
+
+[p. 403] DE 80NO, ODORE, SAPORE, ETC. 403 materia zque crassa, sonum reddentia sequabilem, PARS IV. diutius audietur sonus ejus, quod in majorem ——— extenditur longitudinem. — Motus enim, qui in utroque incipit a puncto percussionis, per majus spatium in majore corpore propagandus est, et per consequens, in majore tempore. Itaque in majore tempore partes mote rursus redeunt. Quare itiones et reditiones singule in majore tempore absolvuntur, et delate ad aures sonum efficiunt diuturniorem. Manifestum autem hinc est, equabiliter sonantium, diutius sonare, cxteris paribus, corpora dura in orbem concavum conflata, quam in planum. Nam in lineis circularibus, actio a quolibet puncto incipiens nullum habet propagationis finem a figura prestitutum, quia linea, in qua propagatur, redit rursus ad principium, ita ut per figuram non stet, quin motus progressio fiat infinita. At in plano, progredi actio longius non potest, quam est linee rectz finita magnitudo. Existente ergo corporis percussi eadem materia, motus partium orbis cavi diuturnior erit, quam.
+
+Item, si chorda tensa ab utroque termino corpori cavo affixa sit et percussa, diutius sonabit. quam non affixa. Propterea quod tremor sive reciprocatio illa percusse chorde, mediante connexione, etiam ipsi cavo corpori communicatur.
+
+Is autem tremor corpori cavo et magno impressus, diutius durabit propter magnitudinem ; quare, per modo ostensa, diutius sonabit.
+
+9. Contingit autem in auditu, aliter quam in Quomodo visu, ut actio medii a vento secundo quidem Fest fortior, ab adverso debilior fiat. Cujus rei causa "ento potes. non videtur aliunde esse posse, quam a soni et
+
+DD2
+
+[p. 404] PARS IY, sonus juvari et impediri a vento potest.
+
+404 ' PHYSICA.
+
+luminis diversa generatione. Nam in generatione luminis, singule partes medii, ab objecto ad oculum, non moventur e locis suis ad loca alia sensibiliter dissita, sed propagatur actio in spatiis imperceptibilibus; ita ut neque ventus adversus minuere, neque secundus augere lumen possit, nisi ipsum objectum una auferat, vel una admoveat oculo. Nihil enim venti, id est, aeris moti inter objectum et oculum interpositio diversum agit ab eo, quod ageret aer tranquillus. In perpetua enim pressione, una parte aeris avecta, pars alia succedens eandem suscipit impressionem quam ante susceperat pars avecta. At in generatione soni, in prima collisione vel diffractione, aeris pars eadem per spatium notabile, et quidem notabili velocitate excutitur et loco pellitur; et mox, propter remotiorum partium laxiores orbes dissipatus, languescit motus ejus. Itaque excussum aerem, qui sonum efficit, excipiens ventus totum movet, secundus quidem propius ad aurem, adversus vero ab aure longius; et proinde fit, ut vento flante ab objecto, audiatur sonus tanquam e loco propinquiore; flante in contrarium, tanquam e loco remotiore; existente nimirum actione hinc debiliore, illinc fortiore, propter distantias inzquales.
+
+Intelligitur hinc qua ratione fieri potest, ut ventriloqui, vocem e propinquo proferentes, audiantur tamen a non animadvertentibus tanquam loquuti elonginquo. Nulla enim de loco, unde vox emittitur, preeexistente opinione, de eo judicant audientes per soni claritatem, debilem ut longinquam, fortem ut propinquam sestimantes. —Ventriloqui ergo formantes vocem, non ut alii, per spirituum
+
+[p. 405] DE SONO, ODORE, SAPORE, ETC. 405.
+
+explosionem, sed per attractionem in pulmones, PARSIY. exilem reddunt, qua iis, qui neque artificium sus- -———— picantur neque loquentis conatum animadvertunt, debilitate sua imponit, pro debili apparens lon- ginqua. 10. Quod attinet ad audiendi medium, non est Nee «ls se» medium aer tantum, nam et aqua, et quodlibet be du - aliud corpus etiam durissimum, audiendi medium fnt esse potest. In quolibet enim corpore continuo, motus propagatur in perpetuum ; sed propter difficultatem movendi partes corporum durorum, fit ut in exitu e materia dura, motus imprimatur aeri debilissimus. Attamen, si alicujus trabis longissime, simul et durissime, alter terminus percutiatur, et ad oppositum terminum applicata sit auris, ita ut quicquid aeris ab actione trabis in exitu concutiatur, id totum exceptum ab aure ad tympanum feratur, sonus satis vividus audietur.
+
+Similiter noctu, id est, omni alio strepitu, qui sonum impedire possit, cessante, si quis aurem terre applicet, audibit sonitum pedum hominum pratergredientium, idque ad distantiam satis magnam, quia motus, quem pedes terrz imprimunt eam caleando, ad aurem propagatur per terre pedibus percussg partes summas.
+
+11. Gravis et acuti differentiam in eo consistere Gmreet.supra ostendimus, quod quanto brevius est tempus centus cusa. itionis et reditionis partium percussarum, tanto sonus est acutior. Quanto autem materia percussa vel gravior est (magnitudine eadem) vel minus tensa, tanto etiam itus reditusque tardius absolvuntur, Itaque, ceteris paribus, graviora corpora etlaxius tensa, quam leviora et magis tensa graviorem reddunt sonum.
+
+[p. 406] Gravis et.
+
+acuti et. concentus cansa,
+
+406 PHYSICA.
+
+Circa sonorum concentum, considerandum est quod reciprocatio sive vibratio aeris, ex quo effi- Citur sonus, postquam ad tympanum auris appulerit, aeri, qui in ipso est inclusus ipsique congenitus, imprimit vibrationem similem, ex qua fit ut. latera tympani interne percutiantur alternatim. Concentus autem duorum sonorum est, quando tympanum spatiis temporum sequalibus et crebris ictum ab utroque sonante simul accipit. Itaque, si due chordz vibrationes suas inter se tempore sequales habent, (isoxpóvec vocant), fiet concentus exquisitissimus ; nam latera tympani, id est, organi auditorii, hinc et inde pulsabuntur simul. Exempli causa, si chordz A B, C D equales simul pulsentur, vibrationisque latitudines equales habeant, EF, GH, et sit puncta E, G, F, H in ipsa tympani concava superficie, ab utraque autem chorda simul pulsetur tympanum in E et G, et rursus simul in F et H: adeo erit ab utriusque A B chorde vibratione sonus similis, TEE ut possit haberi pro eodem ; qui G E D est concentus maximus, et unisonus appelletur. Rursus, re- K tenta chordz A B vibratione per E F, eadem quie prius erat, ten- I daturque chorda CD donec vi- L bratio ejus duplo velocior sit "E quam ante, et dividatur EF bifariam in I. Quo tempore ergo chorde CD fit vibrationis pars una & G ad H, eodem tempore fit una pars vibrationis chordee A B ab E ad I. Et quo tempore chorde C D fit altera pars vibrationis retrorsum ab H ad G, eodem tempore confecta erit vibrationis chordz A B pars altera ab I ad F.
+
+[p. 407] Sed puncta F et G sunt in organi lateribus ; ferient. ergo organum simul, non quidem temporibus singulis sed alternis; qui concentus exquisitissimo est proximus, et sonus octavee. Rursus, vibratione chordz A B manente eadem, tendatur CD, donec vibratio ejus velocior sit vibratione chordz A B in ratione 3 ad 2. Dividaturque EF trifariam in K et L. Quotempore ergo vibrationis chorde CD conficitur pars tertia a G ad H, conficitur vibrationis chordz A B pars tertia, id est, $ recte EF, nempe EL, et quo tempore vibrationis chorde C D pars altera conficitur, nempe H G, vibrationis chorde A B conficietur pars secunda, nempe ab L ad F et rursus ab F ad L. Denique chorde CD confecta vibratione postrema a G ad H, conficietur chorde A B vibrationis pars ultima, ab L ad E. Sunt autem puncta E et H ambo in lateribus organi; quare singulis temporibus tertiis ferietur organum ab utriusque vibratione simul, et fiet concentus quintze.
+
+12. Ad odorum causam cognoscendam, testibus utemur phzenomenis quze sequuntur. Primo, olfactionem a frigore impediri, a calore adjuvari. Secundo, spirante vento ab odorato, olfactionem fortiorem, et contra, spirante vento ab olfaciente versus odoratum, debiliorem fieri ; quorum utrumque verum esse in canibus vestigia ferarum olfactu persequentibus, experientia satis manifestum est. Tertio, corpora, quz fluido minus sunt pervia, minus etiam olfici posse, quam ea quz sunt magis pervia; ut videre est in lapidibus et metallis, quee comparata cum plantarum animaliumque partibus, fructibus et excretionibus, odorem minimum aut. nullum habent. Quarto, ea qua suapte natura
+
+Phenomena ad olfactionem.,
+
+[p. 408] 408 PHYSICA.
+
+MA odorem faciunt, contrita fortiorem facere. Quinto, ——-—  inhibita respiratione, saltem in hominibus, olfactionem tolli. Sexto, obstructis naribus, hiante ore non fieri olfactum. Popurreed 13. Ex quinto et sexto pheenomeno, manifestum et ofetions est organum olfactionis primum et immediatum $UUU* — esse cuticulam narium intimam, illamque ejus partem quse est citra meatum narium et palati communem. Cum enim spiritum per nares ducimus, ad pulmones ducimus. Est ergo spiritus odorem vehens in ea via, qua spiritus fertur ad pulmones, id est, in ea parte narium, quz est citra meatus per quos transit spiritus ; nam odor non sentitur neque ultra quam fertur spiritus, neque antequam in nares recipiatur.
+
+Quoniam autem aliter atque aliter sentientibus necesse est fieri in organo aliquam mutationem, et est mutatio omnis motus, necesse etiam est in olfactione partes organi, id est, cuticule illius intern: pro varietate odorum varie commoveri ; et proinde nervos etiam, qui cuticule inseruntur.
+
+Cumque ostensum sit, moveri posse nihil, nisi a moto et contiguo corpore, neque est inter olfaciendum ullum aliud corpus narium membrane interna contiguum preeter spiritum, id est, przter attractum aerem, et ea, si qua sunt, corpuscula solida invisibilia, quee sunt aeri intermista, necessario sequitur causam olfactionis esse motum illius aeris puri sive substantie zetherez, vel motum illorum corpusculorum. Sed motus ille effectus est ab objecto odorato ; necessario ergo movetur, vel objectum ipsum totum, vel partes ejus singule. Odorata autem odorem facere scimus, etsi non tota moveantur. Est ergo causa odoris
+
+[p. 409] DE SONO, ODORE, 8APORE, ETC. 400 motus partium rei odoratz invisibilium. — Partes PARSIY. autem hz invisibiles vel exeunt ab objecto, vel —— retinentes situm, quem ante cum cseteris partibus Eerporend habebant, una cum illis moventur, hoc est, motum Meere habent simplicem et invisibilem. Qui exire e corpore odorato aliquid dicunt, effluvia appellant ; suntque vel substantie stherez effluvia, vel corpusculorum illi interspersorum.
+
+Quod autem varietas odorum ab effluviis nascatur corpusculorum substantie stherez interspersorum, incredibile faciunt, primo, quod unguenta quedam, eaque mole exigua, odorem emittant fortem, non modo per spatia loci, sed etiam per spatia temporum longissima, queque in omni puncto spatii illius sentiri possunt ; adeo ut partes efflux spatium complere debeant, plusquam decies milles majus quam est ipsum totum; quod est impossibile. Secundo, quod sive effluxus ille fiat. motu recto, sive motu curvo, si totidem effluxerint ex alio quolibet odorato eodem motu, sequeretur omnia odorata similem habere odorem. Tertio, quod effluviis illis motum habentibus valde celerem, ut manifestum est ex eo, quod ad distantiam satis magnam emissus e caverna odor tetrus subito sentitur; oporteret eo solo motu fieri olfactionem, quandoquidem effluviis ad organum accessus non occluditur. Id vero non fit; nam nisi halitum nostrum per nares attrahamus, olfactio non sequetur. Non fit ergo olfactio per effluvium atomorum. Neque vero fit, propter eandem rationem, per effluvium substantie ztherez. Olfaceremus enim et sic, sine animse retractione. Preterea, cum in omnibus corporibus odoratis similis sit. inclusa substantia eetherea, similiter etiam organum affi-
+
+[p. 410] 410 : PHYSICA.
+
+PARSIV. cerent, et proinde odores omnium rerum essent ——— similes.
+
+Restat ergo, ut olfactionis causa sit motus partium odorati simplex, absque ulla e toto suo effluctione; quo motu propagatur per medium aerem usque ad organum motus similis, sed per se non satis vehemens ad excitandam sensionem sine aeris per respirationem attractione. Quz quidem causa olfactionis est possibilis.
+
+Quomodo 14. Quare autem olfactio a frigore impeditur, a a calore "
+
+eaveuto — Calore adjuvatur, causa esse potest, quod calor (ut
+
+"Au. — supra ostensum est, cap. xxr.) generat motum simplicem; quare etiam preexistentem auget; aucta autem odoris causa, odor ipse augebitur.
+
+Ventus autem ab odorato odorem fortiorem reddit eandem ob causam, propter quam idem facit attractio aeris in respiratione. Nam qui proximum aerem attrahit, facit ut remotior, etiam ubi est objectum odoratum, attrahatur; qui motus aeris ventus est, et a vento, qui spirans ab objecto illi secundus est, augetur.
+
+zu qme 15. Quod corpora, in quibus etheris minimum t» aunt, que COntinetur, ut lapides et metalla, minus oleant unte quam plante et animalia, causa esse potest, quod "eit motus odorificus fluidarum partium solarum motus est, quze partes, si quem motum habent a partibus duris in quibus continentur, eundem aperto aeri communicant et ad organum propagant. Ubi ergo nullum inclusum est fluidum, ut in metallis, vel ubi fluidum nullum a partibus duris motum accipiunt, ut in lapidibus qui duri sunt per accretionem, nullus erit odor. Itaque et aqua, quz nullum aut minimum habet partium motum, odorem nullum habet. Eadem autem aqua, si a semine et calore
+
+[p. 411] DE SONO, ODORE, 8APORE, ETC. 4l1 solis elevetur simul cum particulis terre in plantam, exudans postea erit odorata, ut e vite vinum. Ut autem ex aqua per plantas transeunte fit liquor odoratus a motu partium plante, ita etiam ex aere per easdem plantas, dum generantur, pervadente, fiunt odoratz aurz. Similiterque contingit succis spiritibusque animalium congenitis.
+
+16. Odorata a contritu odoratiora fieri possunt, ab eo quod, cum in partes multas odoratas conterantur, fit ut aer, qui ab objecto versus organum trahitur per respirationem, transit per eas partes, singulas lambens, et earum motum recipit ; quando vero nondum contritum est, lambit aer integre quidem molis superficiem, sed ea multo minor est superficiebus simul omnibus partium, quse fiebant. a contritu; et proinde idem odoratum debiliorem odorem facit integrum, quam comminutum. Et de odore quidem tantum esto.
+
+17. Sequitur gustus, cujus generatio a generatione visus, auditus, et olfactus, in eo differt, quod in illis objecti remoti sensio est; in gustu, nisi contigui, non est, neque gustamus quicquam quod non vel linguam vel palatum, vel utrumque, immediate tangat. Ex quo intelligitur, linguz et palati cuticulas ipsisque insertos nervos organum esse gustandi primum; et quia, partibus horum concussis, necessario etiam concutitur meninx tenera, actionem ad cerebrum atque inde ad organum ultimum, nempe ad cor ipsum, propagari, in cujus reactione consistit natura sensionis.
+
+Quod autem sapores, quemadmodum et, odores, non modo cerebrum movent, sed etiam ventriculum, ut videre est in nauseantibus ; qui organum utriusque sensionis considerant, minime mirabuntur,
+
+Quare odorata contrita. magis olent.
+
+Organum gusandi. Et Cur sapores quidam nauseam. faciunt.
+
+[p. 412] 412 PHYSICA.
+
+PARSIV. cum lingues, palati, et narium una eademque sit —-— cuticula continua, a meninge dura derivata.
+
+Ex eo vero quod gustus non fiat, nisi ubi contigua sunt organum et objectum, manifestum est in sensu gustandi effluvia quod agant nihil esse.
+
+Qua motuum diversitate diversa saporum genera, quz sunt innumerabilia, distinguantur nescio. Possem cum aliis, a diversitate figurarum atomorum, ex quibus unumquodque sapidum constituitur, vel a diversis motibus, quos illis atomis, per modum suppositionis, attribuere possem, non sine verisimilitudine aliqua conjectari: dulcibus, motum circularem lentum et figuras sphaericas esse, quibus mulceetur organum: amaris, motum circularem vehementem et figuras angulosas, quibus atteritur organum: acidis, motum rectum et reciprocum figurasque oblongas, latitudine minima, quibus vulneratur organum : et similiter caeteris saporibus, aliquid vel in motu vel in figuris atomorum excogitare, quod videri posset verisimile, si transfugere statuissem a philosophia ad divinationem.
+
+Poner 18. Tactu sentiuntur calida quidem et frigida et quomodo etiam remota; cztera, ut durum, molle, asperum, ena aenileve, non misi contigua. Organum tactus est bae. IDembrana quelibet meningi tenere continua, quae moria, per totum corpus ita diffusa est, ut nulla pars corporis premi possit, quin prematur etiam ipsa. Sentiuntur itaque quz premunt, ut durum vel molle, id est, magis vel minus durum. Sensio autem asperi nihil aliud est, quam innumerse sensiones duri et duri sibi invicem et brevissimis temporis et loci intervallis succedentium. Itaque asperum et lzeve, sicut et magnitudo et figura, non solo tactu sed memoria cognoscuntur. "Tactus
+
+[p. 413] enim in puncto fit aliquando, sed asperum, leve, PARS IV. quantitas et figura non sentiuntur sine fluxu puncti, —-— id est, sine tempore; tempus autem sentire, me- moriz opus est.
+
+CAPUT XXX.
+
+DE GRAVITATE.
+
+l. Densum plus materim non continet loco pari, quam rarum. 2. Descensum gravium non esse ab ipsorum appetitu, sed a. vi sliqua telluris.— 9. Differentia gravitatom oritur a differentia impetuum, quibus gravium elementa impingunt in terram.—4. Descensionis gravium causa.—5. In qua ratione descensus gravium acceleratur.—6. Cur urinatores aque, cui se immergunt, non sentiunt pondus.—7. Corpus in aqua natans sequiponderat aquee tante, quante» capax est spatium a parte immersa occupatum.— 8. Quantalibet moles corporis aqua levioris natabit in quantitate aque quantumlibet exigua. 9. Quomodo fiat ut e vase aqua in altum sublata ab aere expellatur.—10. Cur vesica infata gravior est quam flaccida. 11. Causa ejectionis gravium in altum e canone sclopeti pneumatici.— 12. Causa ascensionis aque in thermometro. 13. Causa motus sursum in animalibus. — 14. Esse in natura Corporis genus aere gravius, nec tamen sensu ab aere distinguendum. — 15. De causa virtutis magnetic».
+
+l. CaPrTE vicesimo quarto, densum et rarum, Demum prout locus ille postulabat, ita definivi, ut perB uses. densum magis resistens, per rarum minus resis- m tens, significaretur, consuetudinem eorem sequutus, qui de refractione ante me disseruerunt. Ceterum,
+
+8i eorundem vocabulorum significationem veram et vulgarem consideraverimus, inveniemus ea nomina.
+
+esse collectiva, id est, nomina multitudinis ; densum quidem, quod dati spatii multas partes occupat, rarum, quod ejusdem vel equalis spatii partes
+
+[p. 414] PARS TY. ejusdem magnitudinis continet pauciores. Densum
+
+—— ergo idem est quod frequens, ut densa caterva ; rarum idem quod infrequens, ut rara acies, rara tecta: non ut sit in loco quolibet plus materiz quam in alio loco quali, sed plus certi alicujus corporis nominati. Nam in solitudine quam. in urbe, si spatium idem sit, non est minus materig, sive corporis indefinite sumpti, sed minus tectorum, minus hominum. Neque in acie densa, plus corporis, sed plus militum quam in rara. Partium itaque intra idem spatium contentarum multitudo, et paucitas, sive illae partes vacuo separentur sive aere, densitatem facit et raritatem, quarum consideratio ad philosophiam non magni est momenti. Ea ergo missa faciemus, transibimusque ad inqui- Sitionem causarum gravitatis.
+
+Decmum — 2. Gravia autem dicimus corpora illa, quie, nisi fusabpe- Yi aliqua impediantur, feruntur versus telluris
+
+D SPU centrum, idque, quantum sensu percipere possu- qu llis mus, sponte sua. Itaque in ea opinione fuerunt philosophi; alii quidem, ut descensum gravium appetitum aliquem esse putarent internum, quo projecta sursum rursus descendant, mota a seipsis, &d locum nature suse convenientem ; alii autem, ea a terra attrahi. Prioribus illis assentiri non possum, quoniam in superioribus videor mihi satis clare demonstrasse, initium motus, nisi ab externo et moto, nullum esse posse; et proinde ea, quie semel in quamcunque plagam motum aut conatum habent, in eandem plagam itura semper, nisi ab externo aliquo reagente impediantur. Quare et gravia sursum mota, nisi per motum externum, dejici non possunt. Przeterea, corpora inanimata appetitu suo insito, cum appetitum nullum habeant,
+
+[p. 415] conservationis suz causa, quam causam non intel- Ld w ligunt, locum, ubi sunt, deserere et in alium se —-— transferre, cum homo, qui et appetitum babet et intellectum, ne conservande quidem vite causa ultra tres quatuorve pedes se attollere saltu potest, perridieulum est. Denique corpori ereato attri- buere potentiam seipsum movendi, quid aliud est, quam creaturas esse dicere quz a Creatore non dependeant?  Posterioribus, qui descensum gra- vium telluris attribuunt attractioni, assentior qui- dem; sed quo id modo fiat, a nemine explicatum est. De modo igitur et via actionis terre in attra- hendis gravibus, aliquid hoc loco dicendum est.
+
+3. Ex supposito motu solis simplice congregari Messen homogenea, dissipari heterogenea, demonstratum 6ris est, cap. XXI. art. 5. Supposuimus etiam inter- o», E tuom, spersa esse stheri corpuscula. quidam, sive, ut Fem se vocant alii, atomos, pre nimia exiguitate invisi- gont in terrm. biles, easdemque consistentia, figura, motu, et magnitudine differentes ; ex quo fit ut earum ali;e ad terram, alie ad planetas alios congregentur; alie vero in spatiis mediis circumferantur. Quoniam autem atomi, quz ad tellurem deferuntur, figura, motu, et magnitudine inter se differunt, incident in terram cum impetu alie majore, aliz minore: cumque gravitatis gradus non aliter sstimemus, quam per earum in terram cadentium majorem minoremve impetum, magis gravia dicenda ea sunt, quorum impetus est major, et minus gravia, quorum impetus est minor. Inquirendum ergo est, quo modo fieri potest, ut corporum e sublimi in terram descendentium, alia majore alia minore ferantur impetu; id est, ut alia aliis sint graviora. Videndum est etiam, quo modo corpus
+
+[p. 416] Descensionia gravium causa,
+
+416 PHYSICA.
+
+quodlibet terre insidens a terra ipsa in sublime efferri possunt.
+
+4. Rit jam (in fig. 2) centro C circulus in superficie terre. maximus transiens per A et B; sit autem et grave quodlibet, puta saxum AD, in plano sequatoris ubicunque; concipiaturque saxum ab AD emissum perpendiculariter, vel quomodocunque evectum usque ad E, ibi quiescere. Quantum ergo spatii saxum occupaverat in AD, tantundem occupat nune in E. Cum ergo non concedatur locus vacuus, replebitur spatium AD a confluente aere, facto initio a locis terre proximis, et deinde a remotioribus successive. Centro C intelligatur ductus circulus per E, et spatium planum inter superficiem terre et circumferentiam, quz transit per E, divisum esse in orbes planos szequales et concentricos; quorum primus sit is, qui continetur a duabus perimetris per A et D.
+
+Dum ergo aer, qui est in orbe primo, replet locum A D, fit ipse orbis tanto minor, et proinde latitudo ejus minor quam recta AD; quare tantundem aeris necessario descendet ab orbe proxime superiore. Similiter propter eandem causam fiet rursus descensus aeris ab orbe proxime adhuc superiore, atque ita demum ab eo ipso orbe, in quo quiescit saxum ad E; vel ergo ipsum saxum descendet, vel tantundem aeris: cumque facilius 2 revolutione telluris diurna excutiatur aer, quam saxum, aer, qui est in orbe ipsum saxum amplectente, altius excutietur quam ipsum saxum. Hoc autem fieri non potest sine admisso vacuo, nisi tantundem aeris descendat ad E, a loco proxime altiore; quo facto saxum deorsum trudetur. Habet ergo jam saxum descensus sui initium, id est,
+
+[p. 417] DE GRAVITATE. Du gravitationem. — Ceterum quod semel movetur, movebitur (ut ostensum est, capite vir. art. 19) eadem semper vie et eadem celeritate, nisi ab externo motore reterdetur vel acceleretur. Aer autem, quod solum corpus interponitur inter terram A et sublime saxum E, per totam rectam E A idem facit quod in E; sed in E depressit saxum ; deprimet ergo idem etiam in omni puncto recte EA, et :equaliter; saxum ergo descendit ab E ad A motuaccelerato. Causa ergo descensus gravium. sub zequatore possibilis est motus telluris aliquis. Eadem autem erit demonstratio, si statuatur saxum. in plano cujusvis circuli zequatori paralleli. Motus autem, quo aer a terra rejici potest, nullus in terra concipi potest preter illum, quem explicui motum. circularem simplicem, quo movetur etiam terrae centrum. Nam motus corporis super centrum sui ipsius figura non conatur ad ullum locum extra seipsum.
+
+5. Posita, quam diximus, descensionis gravium causa, sequetur eorum motum eo modo accelerari, ut spatia, que temporibus singulis percurruntur, in ratione sint eadem in qua sunt numeri deinceps ab unitate impares. Nam divisa recta EA in partes quotcunque szquales, grave descendens, propter motum huno terre nunquam cessantem, singulis temporibus in singulis punctis recte E A, singulos patitur novos impulsus ab aere equales. Novos ergo singulis temporibus acquirit celeritatis gradus zquales. Sequitur inde, ex demonstratis a Galileo in dialogis de motu, descendere gravia iis spatiorum singulis temporibus percursorum differentiis, quze sunt differentie incipientium ab unitate numerorum quadratorum. Quadrata autem deinceps ab unitate sunt 1, 4,9, 16, &c.; eorum
+
+VOL. I. EE
+
+30.
+
+In qua ratione descensus gravium acceleratur.
+
+[p. 418] PARS IY.
+
+—€—
+
+Cur vri- matores sque, eui se immergunt, non sen- Sunt pondus.
+
+418 PHYSICA.
+
+differenti sunt 1, 3, 5, 7, &c. id est, numeri ab unitate deinceps impares.
+
+Contra gravitatis causam allatam, nempe aeris superioris impulsum, objicietur fortasse, quod grave etiam in fundo collocatum alicujus tubi coneavi ferrei vel adamantini, inverso fundo descensurum esse; fieri tamen non posse ut aer superior ipsum depellat, multoque minus ut motum ejus acceleret. Considerandum autem est, hujusmodi tubum vel cavernam esse non posse, que non ipsi terre innitatur, innixumque una cum terra motu hoc aerem rejiciente circumferatur. Quo facto, fundus tubi pro superficie erit terrm, aeremque imum excutiens faciet ut aer summus grave in summo tubo positum, eo modo qui supra explicatus est, depellat.
+
+6. Cum tanta sit quantam experimur aquse gravitas, quzesitum est a nonnullis, qui fieri potest, ut urinatores in quantamcunque profunditatem aquse se immergant, incumbentis tamen sibi aque molis pondus nunquam sentiant? Cujus rei causa videtur esse hec: quod unumquodque corpus quo gravius est, tanto deorsum tendit conatu majore. Sed corpus humanum mole aque, quse ipsum magnitudine zequat, gravius est. Est ergo corporis humani, quam aquse, conatus deorsum major. Rt quia omnis conatus motus est, feretur etiam versus fundum motu velociore corpus humanum, quam tantundem aque. Major ergo est reactio fundi; et conatus sursum par conatui deorsum, sive prematur aqua ab aqua, sive a corpore, quod sit aqua gravius. taque a paribus oppositis conatibus, conatus aquz uterque tollitur, et proinde premere urinatorem non potest.
+
+[p. 419] DE GRAVITATE. 419
+
+Coroll Manifestum etiam est, aquam in aqua non — PARSIY. gravitare, propterea quod partes aquz zequali —— conatu ad fundum una conantur omnes, et per easdem rectas superiores et inferiores.
+
+7. Si corpus quodlibet aquz innatet, pondus Corp in ejus ponderi eequale est molis aquee tantze, quantam eqsiponderet capit locus, quem occupat natantis corporis pars qois apex aqui; immersa. fechas
+
+Sit enim (in figura terti) ABCD aqua, cui ecwpitam. innatet corpus E F. Et pers quidem aliqua E supra aquam emineat, reliqua autem pars F sit submersa. Dico pondus totius corporis E F zquale esse ponderi tantse aquse, quantam capit spatium F. Quoniam enim fit à pondere corporis EF, ut aqua exiens e spatio F collocetur super aquam summam in AB, atque ibi collocata deorsum premat, ex quo sequitur per resistentiam fundi conatus sursum; et quia rursus, ab aque conatu sursum, elevatur corpus EF, si conatus corporis EF deorsum et conatus aque sursum non sint equales, corpus EF aut descendet ad fundum, vel totum erit extra aquam ; propterea quod conatus eorum, id est, momenta non sunt :equalia. Sed supponitur stare E F, ita ut neque ascendat, neque descendat. Stant ergo in equilibrio, id est, pondus corporis EF szequale est ponderi aque, quam capit spatium F: quod erat probandum. 8. Sequitur hinc fieri posse, ut corpus quanteevis Quentalibet moles cor- magnitudinis, modo ex materia constet minus poris aqua gravi quam est aqua, aqu tamen innatet quan- giri quo. tulecunque. fite qum
+
+Sit enim (in figura quarta) vas A BCD, et in Miet exige eo corpus EFGH, ex materia minus gravi quam estaqua. Spatium autem A G CF aqua impleatur.
+
+EE2
+
+[p. 420] 420 PHYSICA.
+
+PAnSIY. Dico corpus E FG H descensurum non esse ad —— fundum DC. Cum enim materia corporis EFGH Que de minus gravis sit quam aqua, si totum spatium pus extra A BC esset plenum aquae, pars corporis EFGH aliqua, puta E F I K, extaret supra aquam ; et pondus aqui, quam caperet spatium IGH K, sequale esset ponderi totius corporis E FGH ; et. proinde GH non tangeret fundum DC. Utrum autem latera vasis dura sint an fluida, nihil refert ; inserviunt enim solummodo ad aquam terminandam, quod seque fit ab aqua et ab alia qualibet. materia quantumvis dura; nam et aqua, quse est extra vas, determinatur alicubi, ut ulterius diffluere non possit. Extabit ergo pars EFIK supra aquam, etiam in vase AD CB conclusam. Innatabit ergo corpus EFGH in aqua AGCF quantulacunque : quod erat demonstrandum. bod 9. Capite vicesimo sexto, articulo quarto, allainalumsub- tum est ad probandum vacuum, experimentum a." aque vasi incluse, quse, dato superne exitu, sursum ejicitur pulsa ab aere. Quzritur ergo, quoniam aqua aere gravior est, quomodo id fieri potest. Consideretur dicti capitis xxvi. figura secunda, ubi aqua in spatium F G B magna vi injecta erat per syphonem. [In ea injectione, per injectam aquam aer inter syphonis latera et embolum eadem vi penetrans e vase exivit, sed purus: corpuscula enim illa que aeri interspersa esse et motu simplici moveri ante supposuimus, una cum aere puro penetrare aquam non potuerunt. Manentia autem necessario compulsa sunt in locum arctiorem, nimirum in spatium quod est supra F G. Motus ergo corpusculorum minus minusque liberi erunt, prout major aquz copia est quz injicitur. — Continget
+
+[p. 421] ergo ea corpuscula motibus suis mutuo in se Mora invicem impingentia, se mutuo comprimere, cona- ——-—— tumque habere perpetuum sese liberandi, et aquam obstantem deprimendi. Dato ergo superne exitu, aqua prope exitum existens conatum habebit ascendendi. Necessario ergo exibit; exire autem non potest, nisi una tantundem intret aeris. Exibit ergo aqua et intrabit aer, donec corpuscula illa, que intra vas relicta erant, libertatem motus pristinam recuperaverint, id est, donec vas rursum aere repletum sit, nec relinquatur aqua ad obturandum foramen B satis alta. Ostensa est ergo hujus pheenomeni causa possibilis, nimirum, eadem que tonitrus. Nam ut in generatione tonitrus corpuscula in nubibus conclusa, simulatque nimium comprimuntur, rumpunt suo motu nubes, et sese in libertatem naturalem vindicant, ita hic corpuscula conclusa in spatio supra rectam F G, motu proprio per datum superne exitum expellunt aquam ; negato autem exitu, iisdemque corpusculis ab injectione aquz perpetua vehementius compressis, vas ipsum tandem cum fragore rumperetur.
+
+10. Si tubo vel vesicze aer sit inflatus, pondus pur resi ir-
+
+: 2 graviorest.
+
+ejus aliquantulum augebitur ; ut data accuratissima quam faccida. opera & nonnullis expertum est. Neque hoc mirandum est, siquidem in aere communi corpuscula non fluida multa, ut supposuimus, sunt intermista. Ea enim corpuscula aere puro sunt graviora. Nam substantia zetherea, cum undequaque a motu solis sequaliter agitetur, ad omnes universi partes sequaliter conatur, neque ergo omnino gravitat.
+
+11. Videmus etiam globulum plumbeum, a vi i € aeris inclusi in seneo canone, quem appellant uu iu atur e aclopeto
+
+Sclopetum pneumaticum, sursum ejici. — Habetis.
+
+[p. 422] PSI autem canon iste duo foramina, valvulis interne —-— clausa; alterum per quod aer admittendus, alterum Sega. Per quod emittendus est. Deinde ope tubi cawminalumepmonem arcte complectentis et emboli, similis fis- mad, tuem, perforati et valvulam habentis interne, ut facile possit retrahi, aerem externum multis validisque ictibus in canonem incutiunt, donec percutiendi difficultate victi multo plus aeris inesse canoni arbitrentur quam ante, etsi pleno, inerat. Aeri autem incusso, quantuscunque is sit, ne rursus exeat, obstant valvulee ante memorate, quas exituriens aer necessario ambas claudit. Ateo foramine, quod ad aerem emittendum factum erat, aperto, Statim vi magna et subito erumpens aer globulum una velocissime abigit. Hujus rei causam esse cum multis crederem, quod idem aer in canone initio rarus, deinde incutiendo aerem externum densatus, rursus dato exitu rarefieret, si modo cogitabile esset eundem locum semper plenum, modo plus modo minus materie continere, id est, pleno pleniorem esse, vel si concipere possem plenitudinem ipsam causam motus efficientem esse posse. Sedutrumque impossibile est. Et proinde alia phrenomeni causa querenda est possibilis. Dum ergo ictu primo aperitur tubi valvula prima, i lienti aeri externo resistit aer internus equali vi. Fit ergo inter internum et externum aerem pugna quidem, et alterius ingredientis alterius egredientis duo motus contrarii, nulla autem in canone aeris augmentatio ; nimirum, tanto exeunte Bere, propter percussionem, inter tubi latera et embolum, eoque puro a corpusculis duris, quantus ab ictu ineutiebatur non purus. A multis ergo validisque ictibus augebitur intus in canone quantitas [p. 423] corpusculorum durorum, simulque motus PAES TV. eorum intendentur, quantum ferre potest canonis — materia; ante vero quam frangatur canon, latera ejus undequaque ab exituriente aere fortissime ten- tantur. Necesse ergo est, dato exitu, ut corpuscula illa velocissimo motu in locum liberum exeuntia obstantem globum secum auferant. Reddidimus ergo hujus phzenomeni causàm possibilem.
+
+12. Etiam, contra quam solent gravia, ascen- rc in dit aqua in thermometro, sed aere frigido; nam thermometro. Calescente rursus descendit. Inde thermometro et thermoscopio organi nomen impositum est, in quo- caloris et frigoris mensurantur et signantur gradus. Ejus fabrica talis est: sit vasculum (in figura 5) ABCD, aque plenum; cylindrusque cavus vitreus EFG, clausus ad E, apertus ad G; qui calefactus immittatur erectus in aquam ad F, pertineatque ad G. — Quo facto, refrigescente paulatim aere, aqua in tubum paulatim ascendet ab F versus E, donec tandem utroque aere tum externo, tum interno gqualiter temperato, neque ascendit amplius, neque, nisi aeris mutata temperie, descendet. Subsistatergo ubicunque ad H. Si jam calor aeris augeatur, aqua ab H descendet; si minuatur, elevabitur. Cujus rei certissima est experientia, causa tamen adhuc quzritur.
+
+Ostensum est, cap. Xxvi11. art. 6 et 7, ubi causa. frigoris queesita est, corpora liquida frigidiora fieri propter aerem ipsis incumbentem, id est, propter constantem ventum ipsa comprimentem. Eadem de causa premitur aquz totius superficies ad F.
+
+Sed quo pressa recedat, locus nullus est, nisi in cavo tubi inter H et E. Eo ergo necessario cogitur a frigore, et proinde ascendit aqua magis minusve,
+
+[p. 424] TARSIY. prout frigus magis minusve intenditur. Et rursus,
+
+——-— facto calore intensiore, vel frigore remissiore, eadem aqua propter gravitatem propriam, id est, a causa, quam supra explicuimus, gravitatis, deprimetur.
+
+Cwwmow — 13. Etiam animalia etsi gravia sint, elevari tamen sursum in. ^ animalibus, Saltu, natatu, volatu, aliquousque possunt. Sed non fit hoc, nisi corpori alicui innitendo, ut terrze, aque vel aeri resistenti. Initium enim eorum motuum est a corporis animati, ope musculorum, contractione. Hanc enim contractionem sequitur corporis totius distensio, qua terra vel aqua vel aer cui innituntur, comprimitur; inde per pressorum reactionem acquiritur animali conatus sursum, sed qui per gravitatem corporis cito amittitur. Itaque conatu illo elevatur quidem animal aliquantulum in saltu, sed parum proficit; natatu autem et volatu plurimum ; propterea quod nisus ante renovatur quam effectus ejus, a sui corporis gravitate, penitus extinguatur.
+
+Quod a vi animz, sine musculorum contractione antecedente, aut sine fuleimento, aliquis unquam corpus suum elevaverit, cogitatio puerilis est. Nam si ita esset, elevare se posset homo quousque vellet.
+
+Ewei»miss — 14, Diaphanum, quod oculo circumfusum est, eorporis genus ,— , ,. ., M n ser gnviu, invisibile est; neque in aere aer, neque in aqua mabame da.&qua, aut quicquam, quod non sit opacius, videri
+
+"r*ni. potest Atin confinio duorum corporum diaphanorum alterum ab altero distingui potest. Itaque rustici qui spatium in quo aerem esse dicimus, inane esse credunt, non sunt perridiculi. Ut putemus aerem esse aliquid, ratione opusest. Quis enim est ex sensibus nostris per quem judicamus esse aerem, quem neque videmus, neque audimus,
+
+[p. 425] neque gustamus, neque olfacimus, neque tangentes. PARSIVquidem cognoscimus esse aliquid?  Sentientes ca-———— lorem non aeri imputamus, sed igni: et frigus non opor gente. aeris, sed nostrum est; et sentientes ventum, ad. er^ gnrius, venire aliquid putamus, sed non adfuisse. Pondus pene item ne aque quidem in aqua, et multo minus omues aeris in aere sentire possumus. Ratione autem corpus esse aliquod quod aerem Gicimus, cog- nosci potest, sed unica, nimirum, quia sine medio corpore, corpora procul posita in sensoria nostra agere non possint, neque omnino sentiremus nisi contigua. Nature ergo corporezm, absque ratiocinatione ab effectu, soli sensus idonei testes non sunt.
+
+Est enim in visceribus terre, in locis ubi effodiuntur carbones terrei, natura quzdam, quz propter effectus quosdam videri potest inter aquam et aerem fere media; que quidem sensuum opera distingui ab aere non potest; cum diaphanum sit seque atque aer purissimus, eademque penetrationi quoad sensum zeque pervia. At si effectum spectes, similis aque. est. Puteum enim, unde carbones illi effodiuntur, efffuens e terra materia illa implet aut totum aut saltem aliquousque, et demissum vel hominem vel ignem non multo minore tempore extinguit, quam ipsa aqua. Sed ut phenomenon hoc melius concipiatur, describemus figuram sextam. In que sit fodine carbonarim puteus A B, supponaturque pars ejus C B tali materia repleta. Si demittatur accensa candela usque infra C, subito extinguitur non aliter atque in aqua. Item si demittantur carbones in craticula ferrea accensi, "ut fiat ignis quantumvis validus, statim ut immerguntur infra C, pallescere incipiunt, nec multo
+
+[p. 426] PARSIV. post videri, extincta luce, desinunt, similiter ac in — — aqua. Ceterum si craticula extrahatur carbonibus Serpens genes adhuc valde caleritibus, paulatim accenduntur et Ee ied relucent. In hoc quidem a similitudine aque non- FELIS e di nihil disceditur; nam materia hzc non humectat, mersisque adhserescit, sicut aqua, qua reaccen- sionem humectando impedit.
+
+Item si ad eundem locum C demittatur homo, respirandi quidem difficultatem statim, mox autem. et deliquium patitur, et nisi cito extrahatur, moritur. Moris ergo est iis, qui descendunt, simulatque egritudinem primam sentiant, funem quo demittuntur motitare, signum segritudinis, ut extrahantur. Serius quam opportuit extracti, et ob eam causam sensu motuque carentis os pronum in terram, execto cespite, recentem immittunt ; inde paulatim, nisi plane mortuus fuerit, sensum et motum recipit; et tanquam per os egrediente materia noxia, quam sub terram inbiberat, reviviscit, eodem. fere modo quo in aqua suffocati, si aquam revomant. Accidit autem hoc non in omnibus puteis, sed in multis, nec in iisdem semper, sed sepe. Quando accidit, remedium adhibent hujusmodi. Fodiunt in propinquo puteum alium seque altum DE, et conjungunt utrumque cuniculo EB. Deinde ab accenso igne in fundo, E, aer, qui est in tubo D E, evehitur in altum foras per D; hunc sequitur aer contentus in cuniculo EB; quem sequitur materia noxia contenta in C B, et redit puteo, pro ea vice, solita salubritas. Ex historiola hac, quam lis solis scribo, qui veritatem ejus ipsi experti sunt, (nam philosophiam historiis dubizm fidei fulcire, non est meum) phznomeni causa possibilis intelligi potest hec: materiam esse quandam fluidam,
+
+[p. 427] DR GRAVITATE. 497 transparentissimam, que» erumpens e terra puteum implet usque ad C; in qua materia, tanquam in aqua, et ignis et animalia extinguuntur. Possibile autem est, ut materia illa alia non sit quam aer, sive ventus fortissimus, qui et ignem et vitam extinguat, hanc receptus in pulmones, ubi sistit sanguinis ab uno cordis ventriculo ad alterum transitum, illum vehementia motus in se conversi suffocans.
+
+30.
+
+15. Cirea naturam gravium, difficultas maxim De causa virtutis oritur a contemplatione earum rerum, quse gravia magaetice.
+
+ad se in sublime tollunt, ut gagates, succina, magmes. Presertim vero turbat magnes, qui et lapis Herculeus appellatur; lapis alioqui despicabilis, sed tantis viribus, ut e telluris gremio ereptum etiam ferrum a se suspensum teneat, velut Anteeum Hercules. Quod tamen aliquanto minus mirandum est, quia et lapis gagates paleas, minus quidem quam ferrum graves, graves tamen attrahit. Ceterum ut hoc faciat gagates, prius frictu excitandus est, id est, motu reciproco. Magnetis autem excitatio a natura est ipsius lapidis, id est, a principio sive motu ejus aliquo interno. Quicquid movetur, a moto et contiguo moveri, in superius demonstratis est; et proinde ferri ad lapidem conatum primum oriri, certum est, a motu aeris ferro contigui; item, aeris illius motum a motu gigni aeris deinceps proximi sine fine, donec inveniamus aeris totius motum originem ducere ab aliquo motu in magnete ipso, qui motus, quoniam videtur magnes conquiescere, est invisibilis. Certum ergo est, vim magnetis tractricem aliam non esse, quam partium minutissimarum magnetis motum aliquem. Supposito ergo corpuscula minima, ex quibus in ipsis
+
+[p. 428] PABSIY. terre visceribus concrevit magnes, motum sive
+
+LI—-—— conatum a natura sua, per lineam pre brevitate
+
+Des invisibilem, habere, ut modo dictum est de gagate, megneee. reciprooum, una erit in utroque lapide attractionis causa. Ea jam causa quo modo et ordine operandi attractionem efficit, quserendum est. Scimus per vibrationem, id est, per motum super eandem rectam reciprocum, fieri ut una lyre chorda pulsa, alia moveatur vibratione simili, modo similem habeat tensionem. Scimus etiam fzeces arenulasque in fundo vasis subsidentes, motu summse aquae baculive agitatione forti et reciproco a fundo, excitari. Quid ni igitur et motus reciprocus partium magnetis, simile quippiam faciat in movendo ferro ? Siquidem enim in magnete motus reciprocus sive itus reditusque partium supponatur, sequetur inde similem motum propagari per aerem usque ad ferrum, ideoque ipsi ferro et singulis ejus partibus ituum redituumque easdem inessevices. Sequetur autem hinc aerem, qui erat inter lapidem et ferrum intermedius, paulatim exterminari. Exterminato autem aere, corpora magnetis et ferri necessario conjunguntur. Causa ergo possibilis quare et magnes ferrum, et gagates paleas ad se attrahunt, est motus partium corporis trahentis super eandem rectam vel per lineam ellipticam reciprocus, quando in tracti natura motui tali nulla est repugnantia.
+
+Quare autem magnes, si subere fultus aqu: libere supernatet, in quocunque situ positus collocabit se ita in plano meridiani, ut quz quiescentis ipsius puncta polos terre spectant uno tempore, eadem eosdem polos quovis alio tempore respicient, causa esse potest, quod motus, quem diximus partium [p. 429] lapidis reciprocum, in linea fiat axi terre parallela, idemque ingenitus iis sit usque & generatione ipsius lapidis. Itaque cum lapis in fodina existens, et a motu diurno una cum terra circumlatus, lationis secundum lineam linee motus reciproci perpendicularem longo tempore habitum acquisierit, etsi axis ejus a parallelismo terrze dimoveatur, retinebit tamen conatum redeundi in eundemsitum. Est autem conatus motus principium, quo dato, nulloque intercedente impedimento, redibit magnes ad situm priorem. Quodlibet enim ferrum, si longo tempore in plano meridiani collocatum requieverit, etiam inde dimotum, modo libere moveri possit, ad meridianum revertetur, nimirum, a conatu, quem a motu terrz acquisierat in circulis parallelis, qui sunt meridianis perpendiculares.
+
+Quod si ferro magnes affricetur, ductu scilicet recto ab uno polo ad alterum, contingent duo; alterum, quod ferrum virtutem acquiret directionis eandem cum magnete, id est, ut quiescat in meridiano, axemque et polos habeat eosdem quos lapis; alterum, ut poli lapidis et ferri se mutuo similes abigant, dissimiles appetant. Causa primi esse potest, quod per affrictum, ductu factum non reciproco, sed via semper eadem a polo ad polum, etiam ferro imprimitur conatus ab eodem polo ad eundem. Cum enim magnes a ferro non differat, nisi ut ferrum crudum a cocto, ferrum coctum ad motum, qui in lapide est, recipiendum, nullam habet repugnantiam. Ex quo sequitur, ut in motum terrz eque consentientes, ad situm sub meridianum, si inde deturbentur, eque redeant. Causa secundi esse potest, quod in affrictu lapidis ad
+
+30.
+
+De canta virtutis magnetics.
+
+[p. 430] De cuna Yirtotin magnetien,
+
+430 PHYSICA.
+
+ferrum, sicut magnes agens in ferrum, conatum ei imprimit ad unum polorum, puta borealem, ita vicissim ferrum agens in magnetem imprimit ei conatum ad alterum, id est, australem. Continget ergo in reciprocationibus, sive in itu et reditu particularum lapidis et ferri inter boream et austrum, ut dum in altero itur a borea versus austrum et reditur ab austro ad boream, fiet in altero itus ab austro ad boream, et reditus a borea versus austrum. Atqui ex his motibus inter se contrariis et aeri communicatis, fit ut polus ferri borealis, interea dum fit attractio, deprimatur versus magnetis polum australem ; aut contra ut polus magnetis borealis deprimatur ad polum ferri australem ; utque utriusque, tam lapidis dico quam ferri axis in eadem recta collocetur; id ipsum quod fieri docent experimenta.
+
+Quod autem virtus magnetica propagetur non modo per aerem, sed etiam per corpora quelibet durissima mirandum non est; cum nullus motus tam debilis esse possit, quin per spatium corpore quantumvis duro plenum propagetur in infinitum. In medio enim pleno motus existere nullus potest, quin cedat pars medii proxima, et deinceps proxima sine fine; adeo ut ad quemcunque effectum conferant necessario aliquid etiam singularum rerum motus singuli.
+
+Atque de natura corporis in genere hactenus dictum sit: que elementorum philosophis sectio prima est. In cujus partibus prima, secundg, et tertia, ubi principia ratiocinandi consistunt in intellectu nostro, id est, in vocabulorum legitimo usu, quem ipsi facimus, theoremata ni fallor omnia legitime demonstrata sunt. Pars quarta dependet
+
+[p. 431] sb hypothesibus; et propterea, ignorata illarum. PARSIV. veritate, causas rerum eas revera esse quas explica- ——-—— vimus, demonstrari non potest. Quoniam tamen C*"essehypothesin nullam sumpsi, quse non et possibilis et comprehensu facilis sit, et ab assumptis legitime ratiocinatus sum, potuisse esse demonstravi, qui finis est contemplationis physice. Quod si eadem. vel his ampliora, sumptis aliis hypothesibus, quispiam alius demonstraverit, majores illi gratias debebimus, quam ego mihi deberi postulo; si tamen hypotheses, quibus utitur, sint cogitabiles. Nam quod quis quicquam a seipso, a speciebus, a potentia, a forma substantiali, a substantia incorporea, ab instinctu, ab antiperistasi, ab antipathia, & sympathia, occulta qualitate, ceterisque verbis scholasticorum inanibus moveri aut produci dixerit, nequicquam dictum erit.
+
+Transeo nunc ad phenomena corporis humani ; "ubi opticz, item ingeniorum, affectuum, morumque humanorum, Deo vitam tantisper largiente, causas ostendemus.
+
+FINIS VOLUMINIS PRIMI.
+
+menps, 00, sr maxrIN S taxE. Tenis c. e
+
+|J
+
+—— MUNIRI
+
+THE BORROWER WILL»
+
+: | THE COST OF OVERDUE NÜSTIFICATION T
+
+| | IF THIS BOOK IS NOT 'REXURNED TO
+
+THE LIBRARY ON OR BEFORE THE LAST a
+
+B0UK BERMERP. BELOW.
+
+WIBENER

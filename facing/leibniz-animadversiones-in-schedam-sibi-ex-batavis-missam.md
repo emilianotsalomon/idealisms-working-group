@@ -1,0 +1,168 @@
+---
+title: Animadversiones in schedam sibi ex Batavis missam
+author: Gottfried Wilhelm Leibniz
+id: 10176
+markers: [a, print]
+pairs_by: a
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Animadversiones in schedam sibi ex Batavis missam was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10176)
+---
+
+# G. W. Leibniz, *Animadversiones in schedam sibi ex Batavis missam* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## 395. ANIMADVERSIONES IN SCHEDAM EX BATAVIS MISSAM [Herbst 1677 bis Sommer 1680 (?)]
+
+Überlieferung: L Bemerkungen in eigenhändiger Abschrift: LH I 3, 7e Bl. 1–2. 1 Bog. 2o. 6 Sp. auf Bl. 1 ro, vo u. Bl. 2 ro. Die Datierung erfolgt aufgrund des häufig für diesen Zeitraum belegten Wasserzeichens. Überschrift und Propositionen der hier eingezogen wiedergegebenen Scheda hat Leibniz hervorgehoben. Animadversiones in Schedam sibi ex Batavis missam Methodus Facilis Veram Ecclesiam lumine rationis inveniendi Acatholicis proposita a quodam Calvinista seu reformato per Dei misericordiam infinitam in gremium sanctae matris Ecclesiae Catholicae Apostolicae Romanae nuper reducto. Non est volentis, neque currentis sed miserentis Dei.
+
+## Propositio I
+
+Quod mihi secundum ipsorum Calvinistarum seu Reformatorum Principium ex Ecclesia Reformata egredi liceat. (1)
+
+Demonstratio
+
+::: editorial
+
+(zu S. 2204) 3 f. rotunditatis. (1) Et hoc nos substanti (2) Demonstratum L 13 (1) Scheda ex Batavis missa (a) Annotationes (b) Animadversiones (2) Animadversiones in . . . missam L
+
+:::
+
+[p. 2205] Reformati dicunt se soli scripturae, (2) nullis traditionibus (3) aut hominum institutis (4) fidem adhibere.
+
+Ideo Reformator Calvinus aut quisquis ille fuerit S. Scripturam coepit examinare nulla (5) traditionum (6) aut consuetudinum Ecclesiae Romanae habita ratione, et ita ex Scriptura Sacra (7) determinavit dogmata fidei. (8)
+
+Jam quaero utrum ista dogmata fidei ita sint credenda unicuique Reformato prout a Reformatore aut Reformatoribus determinata proponuntur, an vero ulteriori examine sit opus, ut illa quis amplectatur?
+
+Si primum dicatur, Ergo Reformatoris, qui homo fuit institutis, ab ejusdem successoribus traditis fides adhibenda est; quod repugnat Reformatorum positioni. (9)
+
+Si alterum asseritur, infero mihi liberum esse dogmatibus fidei a Reformatore propositis, assensum denegare, si eadem meae Sacrae Scripturae interpretationi non convenerit (alias enim ulterius istud examen inutile prorsus foret) et consequenter me ex Reformata Ecclesia posse exire. (10) (1) Fatentur Reformati posse aliquem suorum salva salute Augustanam Confessionem amplecti modo id se facere debere in conscientia sit persuasus. Aliud vero sentiunt de Romana in qua majus salutis periculum esse arbitrantur. (2) Imo Reformati fatentur adhibendam esse fidem etiam bonis consequentiis in quo cum Romana pariter et Augustana Ecclesia consentiunt. (3) Parati sunt etiam credere Verbo Dei non scripto, sed per manus tradito, modo talis aliqua traditio doceatur. Libenter credunt traditionibus historicis probe stabilitis, exempli causa Mariam fuisse semper virginem, scripturam quam habemus ab Apostolis et Evangelistis esse, et hos fuisse miraculorum editores ac θεοπνευÂ σους. (4) Aliud est hominum institutum, aliud traditio: nam divinum institutum potest per hominum manus tradi. (5) Imo habenda fuit traditionum et consuetudinum Romanae Ecclesiae ratio, saltem eatenus, ut sine ratione non rejicerentur. (6) Imo si nulla extitisset scriptura sacra, aut (si quod absit) periisse fingeretur, potuisset tamen Ecclesia Reformari per traditiones historicas, et scripturas humanas, [p. 2206] scilicet per antiquitatem Ecclesiasticam et SS. Patres, ostendendo quantum hodie in maximi momenti rebus a primitiva Ecclesia discessum sit.
+
+::: editorial
+
+(zu S. 2205) 4 examinare (1) nullarum (2) nulla L 16 suorum erg. salva (1) conscien (2) salute L 19 etiam (1) bonis consequentiis atque (a) fundamentis (b) principiis a Deo menti nostrae insertis, ac (2) principiis a Deo menti nostrae insertis, ac bonis consequentiis inde deductis (3) bonis consequentiis L 21 credere (1) tra (2) Verbo L 25 aliud (1) 〈 – 〉 (2) traditionem: et (3) traditio: nam L 27 traditionum (1) et Ecclesi (2) 〈 – 〉 (3) et L 29 (6) (1) Si (2) Imo L 29 absit) (1) periisset, potuisset (2) periisse, fingeretur, L
+
+:::
+
+(7) adhibitis consequentiis (8) Proprie loquendo Reformator nulla nova determinavit dogmata fidei, sed quicquid ab ipso creditur ut articulus fidei, id creditur etiam a Romana Ecclesia; tantum aliqua quae cum Scriptura pugnare sibi comperisse videbatur, rejecit.
+
+(9) Reformatus non credit reformatori propter ipsius autoritatem, sed quia putat doctrinam Reformatoris consentire cum Scriptura sacra a se saepe lecta vel audita. Quod si incipiat dubitare an ea consentiat, et gravibus difficultatibus se urgeri aut a Deo ad examen hoc vocatum arbitretur, debet ipsemet inquirere assumto tamen in consilium viro pio modesto et perito. Et tunc inveniet in omnibus articulis positivis qui a Reformatore credendi proponuntur, consentire Romanam Augustanam et Genevensem Ecclesias, eoque minus dubitabit de interpretatione; vel si adhuc dissentiat, tunc nec Romanam poterit sequi. In articulis autem negativis, id est potius in rejectionibus articulorum Romanae Ecclesiae ipsemet agnoscet in dubio standum esse potius pro negante, seu affirmanti incumbere probationem.
+
+10) Si post omnem diligentiam adhibitam cogaris in conscientia a quadam Reformatorum explicatione sive sententia dissentire; et dissensus talis sit, ut te salva conscientia cum ipsis communicare non posse arbitreris, non dubium est, quin possis imo debeas ex eorum Ecclesia exire. Sed idem de Romana, et Augustana, et qualibet alia Ecclesia verum est. Potest nihilominus ista conscientia erronea et mutatio periculosa esse, an vero, qui omni adhibita diligentia errat, damnabiliter errare possit Deo dijudicandum relinquo: saltem periculum subesse sufficit.
+
+## Propositio II
+
+Quod ex Reformata Ecclesia exire debeam
+
+::: editorial
+
+(zu S. 2206) 4 loquendo (1) Calvinus (2) Reformator L 5 Romana et Augustana gestr. Ecclesia; L 7 f. putat (1) explicat〈–〉 (2) doctrinam L 9 incipiat (1) grave (2) dubitare L 9 f. aut . . . vocatum erg. L 16 f. probationem (1) . Itaque concludo: nemo nisi (a) ob (b) gravibus difficultatibus urgeri se aut a Deo vocatum singulariter erg. arbitretur, receptam suae Ecclesiae (qualiscunque ea) sit doctrinam in dubium vocare debet. (aa) Oblatis autem (bb) Quodsi in conscientia se obligatum putet (aaa) tunc (bbb) ad examen de integro suscipiendum, tunc (2) , nec proinde Ecclesiae Romanae interpretationi accedet, (3) . (10) Si L 18 explicatione (1) , sive dissen (2) sive sententia L 23 subesse posse gestr. sufficit L
+
+:::
+
+[p. 2207] Demonstratio
+
+Cum probatum sit me secundum ipsorum Reformatorum principium ex Ecclesia Reformata egredi posse: (1)
+
+Et tamen praetendant Reformati Ecclesiam suam veram Ecclesiam esse, (2) omnesque alias plenas esse erroribus operationem salutis impedientibus; (3)
+
+dico illas non recte sentire.
+
+Consequentia enim ex illorum principio rite deducta contradicit directe opinioni, quam iidem de veritate suae Ecclesiae fovent. (4)
+
+Et quia in nulla doctrina contradictio vel minima admitti potest,
+
+Sequitur aut Principium Reformatorum esse falsum aut Ecclesiam eorum veram non esse. (5)
+
+Adeoque Reformatorum doctrinam, ipsamque Calvini Reformationem non esse a Deo. (6)
+
+Cumque non sint a Deo clarum est me post cognitam hanc veritatem amplius illis assentiri non debere, seu (quod idem est), me ex Ecclesia reformata debere egredi.
+
+(1) Non absolute hoc probatum est, sed conditionaliter, quando scilicet conscientia (sive vera sive erronea) te ad egrediendum cogit; quo casu non tantum potes egredi, sed et debes. Atque ita non opus erat nova propositione.
+
+(2) Id est in ea viventem esse in via salutis, sive qui ejus dogmatis obtemperet, salvatum iri.
+
+(3) Hoc est aliquid amplius: potest enim reformata Ecclesia esse vera, seu salutis particeps, etsi aliae, v.g. Augustana etiam ad salutem ducere possit. Quamvis eam Reformati erroribus, sed condonabilibus infectam arbitrentur.
+
+(4) Hic consistit totius ratiocinationis cardo, sed qui introspiciet mirabitur autorem tam levi negotio tantam rem conficere sperasse, et perfunctorie adeo sub specie mathematicae demonstrationis fuisse ratiocinatum. Probare vult Reformatorum Ecclesiam non esse a Deo, ob contradictionem in eorum principiis, ut putat, repertam. Contradictio talis est: Reformati docent suam Ecclesiam esse veram, seu neminem ex ea salva salute posse exire. Ego vero ex eorum principio (quod unusquisque scripturam examinare debeat) ostendo aliquem ex ipsorum Ecclesia posse exire; ergo principia eorum sibi contradicunt. [p. 2208] Ergo Ecclesia eorum non est a Deo, ideo non possum modo sed et debeo ex ea exire. Responsio est facillima: eo modo quo tu probasti ex Ecclesia Reformatorum aliquem exire posse, si scilicet conscientia eum post omnem diligentiam adhibitam cogat; eo modo id ipsi concedunt, neque pugnat cum eorum opinione, quod sua Ecclesia vera. Idem enim in qualibet, imo etiam in ipsissima vera Ecclesia locum habebit, ut aliquis ex conscientia erronea hypothesi ex ea exire cogatur.
+
+::: editorial
+
+(zu S. 2207) 15 non (1) posse, (2) debere, L 25 totius (1) dem (2) ratiocinationis L 26 et (1) negligenter (2) perfunctorie L 27 vult (1) veram (2) Reformatorum L 28 ut (1) pate (2) putat, L
+
+:::
+
+(5) Posset eorum Ecclesia esse vera, etiamsi eorum principium seu modus dogmata sua probandi esset falsus. Putarem enim, si quis infirmis argumentis ad fidem amplectendam fuisset persuasus, nihilominus fidem veram vere habere posse.
+
+(6) Etiamsi ostensum fuisset talem in ratiocinando errorem admisisse reformatos, non ideo sequeretur eorum Ecclesiam non esse a Deo, seu eos non esse in via salutis. Nam puto si alicui Ecclesiae nihil aliud objici posset quam falsa quaedam et secum pugnans circa principia ratiocinatio, facile ferri posset, modo conclusiones essent bonae. Ideo nulla esset ab ea exeundi necessitas. Quemadmodum in Romana Ecclesia quidam Circulum admisere in Analysi fidei; ipsismet eorum doctoribus hoc sibi invicem aliquando exprobrantibus, nec tamen illi qui talem circulum admittebant, ideo ob principia male probata, salutis via exciderant, aut a caeteris damnabantur.
+
+## Propositio III
+
+Quod nequeam transire ad Ecclesiam Lutheranam vel
+
+Arminianam, vel ad Socinianam, Anabaptistarum aliarumve similium ullam
+
+Demonstratio
+
+Omnia haec variarum societatum Christi nomen profitentium, sed inter se invicem circa articulos fidei discrepantium capita, uti Lutherus, Arminius,
+
+Socinus, Menno, reliquique quorum unusquisque aut verus reformator Ec- clesiae Catholicae Romanae, aut alicujus jam ex eadem reformatae Ecclesiae vult haberi eodem principio quo et Calvinus usus est, utuntur; scilicet soli
+
+Scripturae, nullis traditionibus aut hominum institutis fidem adhibendam esse.
+
+Et sic eodem modo (1) eadem quae de Calvino ejus reformatione et Ecclesia [p. 2209] reformata probavimus applicanda sunt Luthero et unicuique Reformatorum, eorundem Reformationi et Ecclesiis quas singuli formarunt. Patet igitur me ad nullam harum Ecclesiarum posse transire. (1) Idem qui ante Paralogismus. Non debes nec potes ad earum ullam transire, nisi post sufficientem inquirendi diligentiam adhibitam id in conscientia facere cogaris.
+
+::: editorial
+
+(zu S. 2208) 1 Ergo (1) etiam (2) Ecclesia L 5 qualibet, (1) etiam (2) imo . . . ipsissima L 5 f. aliquis (1) per conscientiam erroneam (2) ex . . . hypothesi L 12 si (1) alicujus (2) alicui L 15 hoc (1) admittentib (2) sibi L
+
+:::
+
+## Propositio IV
+
+Quod ego novam reformationem facere non possim
+
+Demonstratio
+
+Clarissimum est ex praecedentibus. Nam de me in numero reliquorum jam dictorum reformatorum constituto, et eodem quo illi usi sunt principio utente, idem prorsus quod de illis dictum est, asserendum est. (1) (1) Eadem semper manet responsio; nemo ad Reformandum accedere debet nisi quem conscientia sua divinae vocationis convincit.
+
+## Propositio V
+
+Quod extra omnes Ecclesias visibiles manere nequeam, velut membrum alicujus Ecclesiae invisibilis; sed membrum fieri debeam alicujus Ecclesiae visibilis.
+
+Demonstratio
+
+Probatum est nullam cujusvis Reformationem esse a Deo, et me novam reformationem incipere non posse. Si aliquis jam forte mihi dicat, me posse meam salutem operari extra quamcunque societatem vel Ecclesiam Christi nomen profitentem constitutum, modo Christianus sim, ipsum rogo qua autoritate hoc affirmet. (1) Respondebit se id ex Scriptura probare. (2) At ego regero me ipsius opinioni assentiri non posse nec debere, quia mea interpretatio ipsius interpretationi contraria est. (3) (1) Eodem jure te rogabit, qua autoritate affirmes contrarium. (2) Imo etiam ex ratione; quia dicet praesumtionem esse pro libertate, donec obligatio probetur.
+
+[p. 2210] (3) Nihil unquam audivi frigidius. Eodem modo quidvis refutabo. Negando conclusionem nec respondendo ad argumenta hoc praetextu quod meae opinioni pugnent, et non sit cur alteri potius, quam mihi credam.
+
+Prop. VI, sive Conclusio
+
+Quod reverti debeam ad Ecclesiam Catholicam Romanam, scilicet illam ex qua omnes reformatores mediate vel immediate prodierunt.
+
+Demonstratio
+
+Clarissime ducitur ex eo, quod neque reformatio Calvini, neque illa
+
+Lutheri, neque Arminii neque Socini, neque Mennonis neque reliquorum ullius sit a Deo, neque ego novam reformationem facere possim, et tamen debeam fieri membrum alicujus Ecclesiae visibilis, me reverti debere ad illam
+
+Ecclesiam, (1) ex qua omnes dicti Reformatores vel mediate vel immediate exierunt, quae quidem Ecclesia est omnium consensu Romana. (2)
+
+(1) Nihil praecedentium probatum est, et si qua vis fuisset in probationibus, valuissent etiam contra Ecclesiam Romanam. Nam ipsa quoque asserit se Verbo Divino scripto vel tradito niti; et membra hujus Ecclesiae non humanae sed divinae autoritati credere tenentur, et Papae vel Ecclesiae autoritatem ex Verbo atque institutione Dei derivare coguntur. Quare nemo eam credere tenetur, antequam examinando deprehenderit interpretationem quam ipsi asserunt, sibi quoque veram videri, seu suae congruere.
+
+(2) Non habet Romana Ecclesia quod sibi magnopere arroget prae Graeca. Deinde ipsa Romana Ecclesia exiit e primitiva; ad hanc ergo redeundum est.
+
+::: editorial
+
+(zu S. 2210) 3 cur (1) ipsi poti (2) alteri L 12 f. immediate (1) prodierunt (2) exierunt L 16 et (1) alios (2) membra L 16 non (1) homini (2) humanae L 17 et (1) 〈 – 〉 (2) Papae L 18 nemo (1) ipsis (2) eam L 21 (2) Imo gestr. non L
+
+:::

@@ -1,0 +1,108 @@
+---
+title: Dialogus
+author: Gottfried Wilhelm Leibniz
+id: 10138
+markers: [a, print]
+pairs_by: a
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Dialogus was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10138)
+---
+
+# G. W. Leibniz, *Dialogus* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## [p. 20] 8. DIALOGUS
+
+August 1677
+
+Überlieferung:
+
+L Konzept: LH IV 5, 3 Bl. 1–2. 1 Bog. 4o. 4 S. (Unsere Druckvorlage).
+
+A Abschrift Raspe: LH IV 5, 3 Bl. 5–7. 2 1/2 Bog. 2o. 3 S.
+
+E1 RASPE, Oeuvres philosophiques, 1765, S. 507–512.
+
+E2 GERHARDT, Philos. Schr. 7, 1890, S. 190–193 (nach L).
+
+Weitere Drucke: 1. ULRICH, Philos. Werke, II, 1780, S. 615–620 (nach E1). 2. ERDMANN, 1840,
+
+S. 76–78 (nach E1 ). 3. HERRING, Schr. zur Logik, 1992, S. 26–36 (nach E2 ).
+
+Übersetzungen (alle nach E2 ): 1. A. BUCHENAU in BUCHENAU-CASSIRER, Hauptschriften, 1,
+
+1904, S. 15–21, Neuausg. 2 Bde, 1996, S. 3–8. 2. WIENER, Selections, 1951, S. 6–11. 3.
+
+BARONE, Scritti, 1968, S. 172–177. 4. CICHOWICZ, Wyznanie, 1969, S. 77–83. 5.
+
+BADARAU-FLORU, Leibniz, Op. filos., I, 1972, S. 11–16. 6. RIZZO, Scritti di Logica, 1972,
+
+S. 103–108 (Teilübersetzung). 7. OLASO, Escritos, 1982, S. 173–177. 8. ARIEW-GARBER,
+
+1989, S. 268–272. 9. YOSHIAKI SASAKI, in KOUSAKUSHA, Jap. ed., 1990, Bd 8, S. 9–18.
+
+10. HERRING, Schr. zur Logik, 1992, S. 27–37.
+
+Dialogus
+
+August. 1677
+
+A. Si filum tibi daretur, quod ita flectere debeas, ut in se redeat, et quantum plurimum potest spatii comprehendat, quomodo id flecteres. B. In orbem. Ostendunt enim Geometrae circulum esse capacissimam figurarum ejusdem ambitus: et si duae sint insulae, una orbicularis, altera quadrata, quae aequali tempore circumiri possint, orbicularem plus agri continere. A. Hoccine verum esse putas, etiamsi a te non cogitetur. B. Imo antequam vel Geometrae id demonstrassent, vel homines observassent. A. Ergo in rebus, non in cogitationibus veritatem ac falsitatem esse putas. B. Ita sane. A. An res aliqua falsa est. [p. 21] B. Non res puto, sed cogitatio vel propositio de re. A. Itaque falsitas est cogitationum non rerum. B. Cogor fateri. A. Nonne ergo et veritas. B. Videtur, subdubito tamen an valeat consequentia. A. Nonne proposita quaestione antequam sententiae certus sis dubitas verumne aliquid vel falsum sit. B. Certe. A. Agnoscis ergo idem esse subjectum veritatis et falsitatis capax, donec alterutrum ex particulari quaestionis natura constet. B. Agnosco et fateor, si falsitas sit cogitationum, etiam veritatem esse cogitationum, non rerum. A. Sed hoc illi contradicit, quod supra dixisti, verum esse etiam quod a nemine cogitetur. B. Perplexum me reddidisti. A. Tentanda tamen conciliatio est. Putasne omnes cogitationes quae fieri possent, reapse formari, vel ut clarius dicam putasne omnes propositiones cogitari. B. Non puto. A. Vides ergo veritatem esse propositionum seu cogitationum, sed possibilium, ita ut illud saltem certum sit si quis hoc aut contrario modo cogitet, cogitationem ejus veram aut falsam fore. B. Recte nos expediisse videris ex lubrico loco. A. Sed quoniam causam esse necesse est cur cogitatio aliqua vera aut falsa futura sit, hanc ubi quaeso quaeremus? [p. 22] B. In natura rerum puto. A. Quid si ea oriatur ex natura tua. B. Certe non ex sola. Nam necesse est et meam et rerum de quibus cogito, naturam talem esse, ut quando methodo legitima procedo propositionem de qua agitur concludam seu veram reperiam. A. Pulchre respondes. Sunt tamen difficultates. B. Quaenam obsecro. A. Quidam viri docti putant veritatem oriri ab arbitrio humano, et ex nominibus seu characteribus. B. Valde paradoxa haec sententia est. A Sed eam ita probant. Nonne definitio est principium demonstrationis. B. Fateor, nam ex solis definitionibus inter se junctis propositiones aliquae demonstrari possunt. A. Talium ergo propositionum veritas pendet ex definitionibus. B. Concedo. A. At definitiones pendent ab arbitrio nostro. B. Quid ita. A. Nonne vides in arbitrio esse mathematicorum uti voce Ellipseos, ut significet figuram quandam. Et in arbitrio Latinorum fuit voci Circulus imponere significationem quam exprimit definitio. B. Quid tum? Cogitationes fieri possunt sine vocabulis. A. At non sine aliis signis. Tenta quaeso an Arithmeticum calculum instituere possis sine signis numeralibus.[^22-1] B. Valde me perturbas, neque enim putabam characteres vel signa ad ratiocinandum tam necessaria esse. A. Ergo veritates Arithmeticae aliqua signa seu characteres supponunt? [p. 23] B. Fatendum est. A. Ergo pendent ab hominum arbitrio. B. Videris me quasi praestigiis quibusdam circumvenire. A. Non mea haec sunt, sed ingeniosi admodum scriptoris. B. Adeone quisquam a bona mente discedere potest, ut sibi persuadeat veritatem esse arbitrariam, et a nominibus pendere, cum tamen constet eandem esse Graecorum, Latinorum, Germanorum Geometriam. A. Recte ais, interea difficultati satisfaciendum est. B. Hoc unum me male habet, quod nunquam a me ullam veritatem cognosci, inveniri, probari, animadverto nisi vocabulis vel aliis signis in animo adhibitis. A. Imo si characteres abessent nunquam quicquam distincte cogitaremus, neque ratiocinaremur. B. At quando figuras Geometriae inspicimus saepe ex accurata earum meditatione veritates eruimus. A. Ita est, sed sciendum etiam has figuras habendas pro characteribus, neque enim circulus in charta descriptus verus est circulus, neque id opus est, sed sufficit eum a nobis pro circulo haberi. B. Habet tamen similitudinem quandam cum circulo; eaque certe arbitraria non est. A. Fateor, ideoque utilissimi characterum sunt figurae. Sed quam similitudinem esse putas inter denarium et characterem 10. B. Est aliqua relatio sive ordo in characteribus qui in rebus; inprimis si characteres sint bene inventi. A. Esto, sed quam similitudinem cum rebus habent ipsa prima Elementa, verbi gratia, 0 cum nihilo, vel a cum linea. Cogeris ergo admittere saltem in his elementis nulla opus esse similitudine. Exempli causa, in lucis aut ferendi vocabulo, tametsi compositum lucifer relationem ad lucis et ferendi vocabula habeat ei respondentem quam habet res lucifero significata ad rem vocabulis lucis et ferendi significatam.
+
+::: editorial
+
+(zu S. 20) 18 Dialogus inter gestr. L 22 una (1) rotunda, (2) orbicularis, L 24 a (1) nemine co (2) te L 26 A. (1) Sed veritas non videtur esse nisi propositionum vel saltem cogitationum. (2) Putasne in rebus, ne 〈an〉 (3) Ergo L 26 veritatem ac erg. L 27 B. (1) In cogitationibus (2) Dubito quid respondeam (3) Ita sane L
+
+:::
+
+::: editorial
+
+(zu S. 21) 2 A. (1) Nonne (2) Itaque L 3 f. fateri. (1) A. Nonne quorum est falsitas eorum etiam est veritas. B. Non capio tuam quaestionem, quomodo enim idem simul verum et falsum. A. Non hoc volo, sed an non (a) idem sit genus rerum s (b) ejusdem generis sint subjecta veritatis et f (2) A. Nonne L 16 cogitationes (1) revera (2) quae L 19 cogitationum, (1) poss (2) sed L 24–S. 22.1 quaeremus? (1) An in cogitantis, an in cogitati natura, an in utraque. B. In natura veritatis et cogitationis. A. Recte. Quidnam ergo verum esse putas, vel potius unde cognoscis aliquid esse verum. B. Ex eo, quod mihi probatur argumento legitimo. A. Sed si probandum est, ex aliis etiam veris probandum est. Unde ergo haec scis vera esse. Si eodem rursus modo respondes, eodem rursus modo interrogaberis. B. Video ad quaedam veniri vera quae probari non possunt. Sed ea hoc loco explicare paulo difficilius esse censeo. A. Recte censes neque id hoc loco agimus, sed positis jam primis veritatibus unde reliqua derivantur. B. Tum ex natura cogitationis nostrae, quae certa quaedam forma procedit, et ex natura materiae, quae tractatur. (2) B. L
+
+:::
+
+[^22-1]: Cum Deus calculat et cogitationem exercet fit mundus.
+
+::: editorial
+
+(zu S. 22) 3 de quibus cogito, erg. L 4 quando (1) certa (2) methodo L 4 procedo (1) aliquid verum falsumve necessario reperiam (2) propositionem L 4 f. agitur (1) veram falsamve (2) concludam seu veram L 13 f. possunt. (1) C (2) A. (a) At definitio est ex arbitrio humano, Mathem (b) Talium L 18 voce (1) circuli (2) Ellipseos L 19 arbitrio (1) non (2) hominum (3) Latinorum erg. L 22 an (1) ullam propositionem (2) ullum Arithmeticum calculum L 24 characteres aliquos gestr. vel L 26 aliqua erg. L 26 supponunt? (1) A. Sed inde sequeretur ea pendere ab arbitrio humano. Quod absurdum videtur. (2) B. L
+
+:::
+
+::: editorial
+
+(zu S. 23) 2 A erg. L 3 quibusdam (1) incantasse (2) circumvenire L 8 f. est. Nec video quomodo characteres sint necessarii ad veritatem gestr. B. L 12 f. ratiocinaremur. (1) Quis enim unquam in animo suo (2) B. L 19 ideoque (1) utilissimae sunt figurae ad excitan (2) utilissimi L 20 inter (1) binarium (2) denarium L 22 bene (1) facti. A (2) inventi L 24 linea. (1) B. Coget (2) cogeris ergo erg. admittere L 25 causa, (1) ut lux significet quod (2) in L 26 lucifer aliquam gestr. relationem L
+
+4 scriptor: d. i. Thomas Hobbes. Vgl. VI, 2 S. 428 f.
+
+:::
+
+[p. 24] B. At Graecum ϕωÂ σϕορος eandem habet relationem ad ϕωÄ ς et ϕεÂρω.
+
+A. Poterant Graeci non hac sed alia voce uti.
+
+B. Ita est, sed hoc tamen animadverto si characteres ad ratiocinandum adhiberi possint, in illis aliquem esse situm complexum, ordinem, qui rebus convenit, si non in singulis vocibus (quanquam et hoc melius foret) saltem in earum conjunctione et flexu. Et hunc ordinem variatum quidem in omnibus linguis quodammodo respondere. Atque hoc mihi spem facit exeundi e difficultate. Nam etsi characteres sint arbitrarii, eorum tamen usus et connexio habet quiddam quod non est arbitrarium, scilicet proportionem quandam inter characteres et res; et diversorum characterum easdem res exprimentium relationes inter se. Et haec proportio sive relatio est fundamentum veritatis. Efficit enim, ut sive hos sive alios characteres adhibeamus, idem semper sive aequivalens seu proportione respondens prodeat. Tametsi forte aliquos semper characteres adhiberi necesse sit ad cogitandum.
+
+A. Euge: praeclare admodum te expediisti. Idque confirmat calculus analyticus arithmeticusve. Nam in numeris eodem semper modo res succedet, sive denaria sive ut quidam fecere, duodenaria progressione utaris, et postea quod diversimode calculis explicasti in granulis aliave materia numerabili exequaris, semper enim idem proveniet. Et in analysi, etsi diversis characteribus diversae appareant facilius rerum habitudines. Semper tamen basis veritatis est in ipsa connexione atque collocatione characterum, ut si quadratum ab a dicas a2, pro a ponendo b + c, habebis quadratum + b2 + c2 + 2bc, vel pro a ponendo d − e, quadratum habebis + d2 + e2 − 2de. Priore modo exprimitur relatio totius a ad suas partes b, c, posteriore modo partis a, ad totum d, ejusque supra partem a, excessum e. Rem autem semper eodem redire apparet substituendo. Nam in formula d2 + e2 − 2de (quae aequivalet ipsi a2 ) in locum ipsius d, substituamus ejus valorem a + e, tunc pro d2 habebitur a2 + e2 + 2ae, et pro − 2de, habebitur − 2ae − 2e2. Ergo in unum addendo: + d2 aequal. a2 + e2 + 2ae
+
++ e2 aequal. + e2
+
+− 2de aequal. − 2e2 − 2ae prodibit summa bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb0 a 2. [p. 25] Vides utcunque pro arbitrio sumantur characteres, modo tamen in eorum usu certus ordo et modus servetur, semper omnia consentire. Quanquam ergo veritates necessario supponant aliquos characteres, imo aliquando de ipsis characteribus loquantur (ut theoremata de abjectione novenarii agentia) non tamen in eo quod in iis est arbitrarium, sed in eo quod est perpetuum, relatione nempe ad res consistunt semperque verum est sine ullo arbitrio nostro, quod positis talibus characteribus talis ratiocinatio sit proventura, et positis aliis, quorum nota ad priores relatio sit, alia quidem; sed etiam relationem servans ad priores ex characterum relatione resultantem, quae substituendo vel comparando apparet.
+
+::: editorial
+
+(zu S. 24) 3 f. adhiberi (1) debeant; (2) possint L 4 f. si . . . earum (a) compositione (b) conjunctione . . . flexu erg. L 8 scilicet (1) rationem quandam char (2) proportionem L 14 A. (1) praeclare ad (2) Euge: L 16 duodenaria (1) arithm (2) progressione L 16 f. et postea . . . proveniet erg. L 18 diversis (1) modis (2) characteribus L 19 atque (1) ordi (2) collocatione L 23 Nam (1) in aequatione d2(2) in formula L 24 (quae . . . a2) erg. L 26 + d2(1) 0 (2) aequal. L 27 + e2(1) 0 (2) aequal. L 28 − 2de (1) 0 (2) aequal. L 29–S. 25.1 a2. ut ante. gestr. Vides L
+
+:::
+
+Finis.

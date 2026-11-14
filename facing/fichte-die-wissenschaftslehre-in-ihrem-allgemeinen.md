@@ -1,0 +1,287 @@
+---
+title: Die Wissenschaftslehre, in ihrem allgemeinen Umrisse dargestellt
+author: Johann Gottlieb Fichte
+id: 1802
+markers: [sw, print]
+pairs_by: sw
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Die Wissenschaftslehre, in ihrem allgemeinen Umrisse dargestellt was written by an author who died in 1814, so before 1931; Johann Gottlieb Fichte (d. 1814) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 1802)
+---
+
+# J. G. Fichte, *Die Wissenschaftslehre, in ihrem allgemeinen Umrisse dargestellt*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. i] Über dieses Buch
+
+[p. ii] Ph.Sp.
+
+g
+
+[p. iii] Fichte
+
+Sh San g
+
+XXE
+
+[p. iv] < 36601885070011
+
+< 36601885070011
+
+S
+
+Bayer. Staatsbibliothek
+
+[p. vi] Ph. Sp.
+
+[p. vii] تر
+
+listarlit. i54.
+
+ic
+
+[p. 1] Die
+
+Wissenschaftslehre, in ihrem allgemeinen Umrisse dargestellt Von J.
+
+G. S ich t ė.
+
+Berlin bei
+
+3.
+
+Ei B i g: I 8 IO
+
+[p. 2] BIBLIOTHECA REGIA
+
+MONACENSIS.
+
+## [p. 3] Vorrede.
+
+[SW II:695] Ich habe diese Abhandlung, mit welcher ich meine in diesem Halbjahre gehaltene Vorlesungen beschloß, zunächst für meine Zuhörer abdrucken lassen, um denselben die Uebersicht des Ganzen bei der Wiederholung zu erleichtern. Sollte dies
+
+[p. 4] IV
+
+selbe noch in Andrer Hände fallen, und etwa unter andern auch in die Hände solcher, die über Philosophie mitzusprechen sich berechtigt halten; so könnte diesen bei einiger Erwägung hier ein Licht aufgehen, welch einen verkehrten Begriff sie sich bisher von der Wissenschaftslehre gemacht, und durch welche ungeheure Irrthümer sie Selbst dem philosophirenden Verstande auf den rechten
+
+[p. 5] V
+
+Weg haben helfen wollen. Das werden sie freilich nicht einsehen, daß man, um zu philosophiren, sich zu dem wirklich freien, und schöpferischen Denken erheben müsse; keinesweges befangen bleiben dürfe in der Anschauung irgend eines durch das
+
+Ohngefähr in uns gebildeten Denkens; welches letztere allein sie bisher vermocht, und dadurch alle ihre Ungereimtheiten zu Stande gebracht haben.
+
+[p. 6] VI bracht haben.
+
+Und so werden sie denn, was allein man ihnen anmuthen könnte, niemals aufhören, sich in eine Sphäre zu drängen, zu denen sich ihnen ihr Vermögen versagt, Berlin, im März, 1810,
+
+[p. 7] $.
+
+1.
+
+[SW II:696] Die Wissenschaftslehre, fallen lassend, alles besondere und bestimmte Wissen, geht aus von dem Wissen schlechtweg, in seiner Einheit, das ihr als seyend erscheint; und giebt sich zuförderst die Frage auf: wie dasselbe zu seyn vermöge, und was es dann in seinem innern und einfachen Wesen sey. Es kann sich ihr nicht verbergen folgendes. Nur Eines ist schlechthin durch sich selbst: Gott, und Gott ist nicht der todte Begriff, den wir so eben [p. 8] aussprachen, sondern er ist in sich selbst lauter Leben. Auch kann dieser nicht in sich selbst sich verändern und bestimmen, und zu einem andern Seyn machen; denn durch sein Seyn ist alles sein
+
+Seyn, und alles mögliche Seyn gegeben, und es kann weder in ihm noch außer ihm ein neues Seyn entstehen. Soll nun das Wissen dennoch seyn, und nicht Gott selbst seyn, so kann es, da nichts ist denn Gott, doch nur Gott selbst seyn, aber außer ihm selber; Gottes Seyn außer seinem Seyn; seine Aeußerung, in der er ganz seyn, wie er ist, und doch in ihm selbst auch ganz
+
+Bleibe, wie er ist. Aber eine solche Aeußerung ist ein Bild oder Schema. Ist ein solches Schema, - wie denn dieß nur durch das unmittelbare Seyn [p. 9] desselben klar werden kann, da es nur unmittelbar ist, so ist dasselbe schlechthin dadurch, daß Gott ist, und es kann, so gewiß er ist, nicht nicht seyn. Keinesweges aber ist es zu denken als eine Wirkung Gottes, durch einen besondern Akt desselben, wodurch derselbe in sich selbst sich verwandeln würde; sondern es ist als eine unmittelbare Folge seines Seyns zu denken. Es ist, der Form seines Seyns nach, schlechtweg, so wie er selbst schlechtweg ist, ohnerachtet es nicht er selbst ist, sondern sein Schema. Wiederum kann außer Gott schlechthin nichts seyn, denn dieses; kein inneres auf sich beruhendes Seyn, denn das ist er allein; nur sein Schema kann seyn außer ihm, und ein Seyn außer [p. 10] ihm heißt eben sein Schema, und beide Ausdrücke sagen dasselbe. S.
+
+2.
+
+[SW II:697] Indem nun ferner der Wissenschaftslehre nicht entgehen kann, daß dennoch das wirkliche Wissen keinesweges als Eins, wie sie dasselbe gedacht hat, sondern als ein mannigfaltiges erscheine, so entsteht ihr die zweite Aufgabe, den Grund dieser erscheinenden Mannigfaltigkeit anzugeben. Es versteht sich, daß sie diesen Grund nicht wo anders her entlehnen, sondern das ihr wohl bekannte Wesen des Wissens als solchen darlegen muß; daß daher die Aufgabe, bei ihrer anscheinenden Zweifachheit, dennoch die Eine und selbige bleibe, die: das innere Wesen des Wissens darzustellen.
+
+6.
+
+[p. 11] Nemlich dieses Seyn schlechtweg außer Gott kann keinesweges ein in sich gebundenes, fertiges, und todtes Seyn seyn, wie denn auch Gott kein solches todtes Seyn ist, vielmehr Leben; sondern es muß seyn ein bloßes reines
+
+Vermögen, indem gerade ein Vermögen das formale Schema des Lebens ist. Und zwar kann es sein Vermögen zur Verwirklichung nur dessen, was in ihm liegt, eines Schema. Da dieses Vermögen ein bestimmtes Seyn ausdrückt, das Schema des göttlichen Lebens, so ist es freilich bestimmt, aber nur auf die Weise, wie ein absolutes Vermögen bestimmt seyn kann, durch Gesetze, und zwar durch bedingte Gesetze. Soll das und das wirklich werden, so muß unter [p. 12] dieser Bedingung das Vermögen so und so wirken,
+
+§. 4.
+
+Zuförderst also: zu einem wirklichen Seyn außer Gott kommt es nur durch die Sich - Vollziehung des absoluten
+
+Vermögens; dieses aber kann vollziehen nur Schemen, die durch ein zusammengesetztes Verfahren mit ihnen zu einem wirklichen Wissen werden. Was daher außer Gott da ist, ist da nur durch das absolut freie Vermögen, als Wissen dieses Vermögens, und in seinem Wissen; und ein anderes Seyn außer dem wirklich in Gott verborgenen Seyn ist schlechthin unmöglich. §. 5.
+
+[SW II:698] Sodann, was die Bestimmung [p. 13] dieses Vermögens durch Gesetze betrifft; es ist dasselbe bestimmt zuförderst durch sich selbst, als Vermögen eines wirklichen Wissens. Zu einem wirklichen Wissen aber gehört, daß durch das Vermögen schlechtweg irgend ein Schema vollzogen werde, sodann, daß durch dasselbe Eine Vermögen in demselben Einem Zustande, dieses Schema als Schema, ein Schema überhaupt aber als unselbstständig, und zu seinem Daseyn eines Seyns außer sich bedürftig, erkannt werde. Der unmittelbare und konkrete Ausdruck dieser Erkenntniß, die, in dem wirklichen Wissen keinesweges zum Bewußtseyn kommt, sondern die bloß durch die Wissenschaftslehre zum Bewußtseyn erhoben wird, ist nun das wirkliche Wissen selbst in seiner Form; [p. 14] und zufolge der letztern Erkenntniß wird, mit gänzlicher Uebergehung des Schema, ein objektiv, und unabhängig vom Wissen seyn sollendes, hinausgesetzt. Da in diesem Wissen von dem Objekte sogar? bleibt um so mehr das Vermögen, als das erschaffende desselben, verdeckt und ungesehen. Dies ist das Grundgesetz der Form des Wissens. So gewiß das Vermögen zu einem solchen sich entwickelt, entwickelt es sich, wie wir beschrieben, nicht bloß schematisirend, sondern auch schematisirend das Schema als solches, und es erkennend in seinem unselbstständigem Wesen; nicht daß es unbedingt müßte, sondern daß es nur durch diese Weise des Verfahrens zu einem Wissen kommt.
+
+[p. 15] Es bleibt diesem zufolge in einem wirklichen Wissen manches unsichtbar, das denn doch wirklich als Aeußerung dieses Vermögens ist. Sollte nun etwa dieses, und sollte etwa alle Aeußerung des Vermögens, in das Wissen eingeführt werden, so könnte das letztere geschehen, nur in einem andern Wissen, als in dem erst erwähnten; und das gesammte Wissen würde durch den Widerstreit des Gesetzes der Form der Sichtbarkeit, und dem, daß es sich in seiner Ganzheit sehe, in verschiedene Stücke nothwendig zerfallen. $.
+
+6.
+
+[SW II:699] Ferner ist innerhalb dieses seines formalen Seyns das Vermögen bestimmt durch ein unbedingtes Soll. Es [p. 16] soll sich sehen, als Schema des göttlichen Lebens, was es ursprünglich ist, und durch welches Seyn allein es Das Seyn hat: somit ist dies seine absolute
+
+Bestimmung, durch die es selbst als Vermögen, vollendet erschöpft ist. soll sich sehen, als Schema des göttlichen Lebens; nun aber ist es ursprünglich nichts mehr denn ein Vermögen, wiewohl ganz sicher dieses bestimmte Vermögen des Schema von Gott; sollte es sich nun als solches Schema sehen in der Wirklichkeit, so mußte es selbst durch Vollziehung des Vermögens sich wirklich dazu machen. §. 7.
+
+Das sich sehen als sollendes und könnendes Vermögen, und die wirkliche [p. 17] Vollziehung dieses Vermögens, falls auch die letztere gesehen werden soll, fallen auseinander, und die faktische Möglichkeit des letzteren, ist durch die geschehene Vollziehung des erstern bedingt. ES soll sich ja sehen als göttliches
+
+Schema, nicht durch sein bloßes ihm gegebenes Seyn, wie es denn kein solches gegebenes Seyn ist, sondern durch Vollziehung des Vermögens. So muß ihm, daß es ein solches Vermögen sey, und woran es in der Vollziehung desselben sich erkenne, schon vorher bekannt seyn, damit es hierauf seinen Blick richten, und nach jenen Kennzeichen die Vollziehung beurtheilen könne. Oder sehe man es so an: durch die Vollziehung des Vermögens wird ihm ein Schema entstehen, und ein Be [ 2 ]
+
+[p. 18] wußtseyn desjenigen, was im Schema liegt, und mehr durchaus nicht. (§. 5.) Der über den unmittelbaren Inhalt des Schema hinausgehende formale Beisatz, daß es Schema Gottes sey, liegt darin nicht, und konnte nur zu Folge eines an der unmittelbaren Vollziehung wahrgenommenen Kennzeichens darauf übertragen werden.
+
+Dieses Kennzeichen aber ist gerade das, daß das Vermögen mit absoluter Freiheit, zu Folge des erkannten allgemeinen Soll, sich vollziehe. 8.
+
+8.
+
+[SW II:700] Soll es sich sehen, als sollend, so muß es vor diesem bestimmten Sehen seiner als Princip voraus schon überhaupt stehen; und da es nur durch seine
+
+[p. 19] Sich - Entwicklung steht, es muß sich entwickeln, ohne als Princip in dieser Entwicklung unmittelbar sich sehen zu können. Das ausgesprochene Muß liegt in der Absicht, daß das Soll ihm sichtbar werde; man kann es darum nennen ein Sollen des Soll, nemlich ein Soll seiner Sichtbarkeit: mithin liegt dieses
+
+Soll in der ursprünglichen Bestimmung des Vermögens durch sein Seyn aus Gott. Daß wenn es sich überhaupt nicht sieht als Princip, es in demselben Einen Zustande sich nicht zugleich als solches sehen kann, so ist klar, daß diese beiden Weisen des Wissens auseinander fallen. Wir nennen das Wissen durch das unmittelbar unsichtbare Princip Anschauung.
+
+$. 9. [p. 20] Da in der Anschauung weder das
+
+Vermögen schlechtweg als solches, noch auch das göttliche Leben schematisirt wird, indem die Anschauung erst die faktische Möglichkeit eines solchen Schematisirens herbeiführt, so ist klar, daß derselben nichts übrig bleibe, denn die bloße Gestalt des Vermögens in seiner
+
+Gegebenheit. Es ist (§. 5.) ein Vermögen des Hinschauens, und zwar ohne die Richtung auf das Eine göttliche Leben, die auf diesem Standpunkte verborgen bleibt, ein unbestimmtes und durchaus ungebundenes, jedoch absolutes Vermögen, also ein unendliches. Es schematisirt sich darum als hinschauend ein Unendliches in einem Blicke;
+
+(den Raum) so schematisirt es also, [p. 21] demnach als in derselben ungetheilten
+
+Anschauung sich zusammennehmend und zusammenziehend auf ein in der ersten Unendlichkeit begränztes, in sich selber gleichfalls unendlich theilbares, einen verdichteten unendlichen Raum, in einem andern einfachen unendlichen Raume, oder Materie; — auch hier als ein unendliches Vermögen, sich zusammen zu ziehen, und so eine unbegränzte materielle Welt im Raume: welches alles nun zu Folge des angeführten Grundgesetzes des [SW II:701] Wissens (§. 5.) ihm als ein wirklich und an sich daseyendes Seyn erscheinen muß. Ferner, es ist eben durch sein blos
+
+Das formale Seyn, Vermögen, absolut anfangendes Princip. Um sich als solches zu schematisiren für die Anschauung, muß es, vor seiner Wirksamkeit [p. 22] voraus, ein mögliches. Wirken erblicken, das es, so nemlich müßte es ihm erscheinen, vollziehen könnte, oder auch nicht. Dieses mögliche Wirken kann es nicht erblicken an dem absoluten Soll, das in diesem Standpunkte unsichtbar ist: sonach nur an einer gleichfalls. blind schematisirten Kausalität, die doch nicht unmittelbar Kausalität ist, die aber schlechtweg durch die erscheinende Vollziehung des Vermögens, es zu werden, erscheine. Eine solche Kausalität aber ist ein Trieb.
+
+Es müßte sich fühlen getrieben zu diesem oder jenem Wirken; ohne daß jedoch die Wirksamkeit dadurch unmittelbar gegeben seyn, indem eine solche unmittelbarkeit ihm die Erscheinung seiner Freiheit, auf die es ja hier ankommt, verdecken würde.
+
+[p. 23] Diese durch den Trieb geforderte
+
+Wirksamkeit kann nur eine Wirksamkeit auf die Körperwelt seyn. Der Trieb zur Wirksamkeit wird daher angeschaut in einer unmittelbaren Beziehung auf die Körper; diese werden dem zu Folge in dieser unmittelbaren Beziehung gefühlt, und erhalten, durch diese Beziehung, ihre innere, mehr als raumfüllende Qualität; und es wird durch diese Bemerkung die oben unvollendet gebliebene Bestimmung der Körper vollendet. Sollte zu Folge dieses Triebes, und der Erscheinung der Selbstbestimmung, das Vermögen sich als in der That wirkend erblicken, so würde es in dem Erblicken dieser Wirksamkeit mit der Körperwelt in dieselbige Eine Form der Anschauung zusammenfallen: es [p. 24] würde darum in dieser mit der Körperwelt vermittelnden Anschauung sich selbst als einen Körper erblicken; in seiner doppelten Beziehung zur Körperwelt, theils als Sinn, um die Beziehung derselben auf seinen Trieb zu fühlen, theils als Organ, um seine Wirksamkeit darauf anzuschauen.
+
+In dieser Wirksamkeit ist es sich nun gegeben als das Eine und selbige Vermögen in der Selbstbestimmung, aber [SW II:702] durch kein Wirken zu erschöpfen, und so Vermögen bleibend ins Unendliche. Es entsteht ihm in dieser Anschauung seines Einen unendlichen Vermögens eine Unendlichkeit, nicht wie die ersterwähnte, in Einem Blicke, sondern eine solche, in der es sein unendliches Wirken anschauen könne; eine [p. 25] unendliche
+
+Reihe auf einander folgender Glieder; die Zeit.
+
+Da ins unendliche fort diese. Wirksamkeit nur auf die Körperwelt gehen kann, so wird in der Einheit der Anschauung auch auf diese die Zeit übertragen, ohnerachtet diese Welt ihren eigenthümlichen Unendlichkeitsausdruck schon hat an der unendlichen Theilbarkeit des Raumes, und aller seiner
+
+Theile. Es ist klar, daß der Zustand, da das Vermögen sich lediglich der Anschauung der Körperwelt hingiebt, und in derselben aufgeht, mit demjenigen, da es auf seinen Trieb auf die schon erkannte zu wirken aufmerkt, auseinander fällt; daß jedoch auch in dem letzten Zustande ein Schema der vorhanden seyn sollenden Dinge bleibt, [p. 26] damit der Trieb auf sie bezogen werden könne:
+
+und dies bildet den Zusammenhang zwischen diesen beiden auseinander fallenden Zuständen der Anschauung. Dieses ganze Gebiet der Anschauung ist, wie gesagt, Ausdruck und Schema des bloßen Vermögens. Da das Vermögen, ohne Schema des göttlichen Lebens, nichts ist, hier aber dasselbe in dieser seiner Nichtigkeit schematisirt wird, so ist dieses ganze Gebiet nichts, und nur in seiner Beziehung auf das wirkliche Seyn, indem dessen faktische Möglichkeit dadurch bedingt ist, erhält es eine Bedeutung. §. 10.
+
+Es liegt im Vermögen ferner die
+
+Bestimmung, sich zu erheben zum [p. 27] Ersehen des Soll, dessen faktische Vollziehung nun, nachdem das gesammte Gebiet der Anschauung da ist, unmittelbar und schlechtweg möglich ist. Wie aber und auf welche Weise wird diese Erhebung geschehen? Was in der Anschauung fest hält, und die eigentliche
+
+Wurzel derselben ist, ist der Trieb; diesem zufolge hängt das Vermögen am Anschauen, und bleibt in demselben gefangen.
+
+Die Bedingung und der eigentliche Akt des nun vollziehbaren Vermögens wäre daher das Sich-Losreißen [SW II:703] vom Triebe, die Vernichtung desselben, als unsichtbaren und blinden
+
+Triebes des Schematisirens; und so würde, da das Princip wegfällt, auch die Folge, das Gehaltenseyn in der Anschauung, wegfallen. Das Wissen stände [p. 28] nun da, als Eins, so wie die Wissenschaftslehre fichaftslehre bei ihrem Beginnen es ers blidt; es würde in dieser seiner Des
+
+Einheit eingesehen, als unselbstständig, und bedürftig. eines Trägers, des Einen, das da ist schlechtweg durch sich. Ein Wissen in dieser Form ist kein Anschauen mehr, sondern ein Denken, und zwar das reine, oder das Intelligiren. §.
+
+11.
+
+Ehe wir dies weiter verfolgen, müssen wir von diesem Mittelpunkte aus der erst dargelegten Sphäre der Anschauung eine ihr noch ermangelnde Bestimmung hinzufügen. Lediglich durch den blinden Trieb, der der einzig möglichen Richtung des Soll [p. 29] ermangelt, wird das Vermögen in der Anschauung zu einem unbestimmten; wo es als absolut schematisirt wird, unendlichem, wo es als bestimmtes, wie als Princip, gegeben wird, wenigstens zu einem Mannigfaltigen. Von diesem Triebe reißt nun durch den eben angegebenen Akt des Intelligirens das Vermögen sich los, um sich zu richten auf Eins. So gewiß es nun zur Hervorbringung dieser Einheit, und zwar zuförderst innerlich und unmittelbar im Vermögen selbst, weil nur unter dieser Bedingung sie auch äußerlich im Schema erblickt werden konnte, eines besondern Akts bedurfte, so gewiß war in der
+
+Sphäre der Anschauung das Vermögen nicht als Eins angeschaut, sondern als ein Mannigfaltiges; dieses [p. 30] Vermögen, das nun durch die Selbstanschauung zum Ich geworden ist, war in dieser Sphäre nicht Ein Ich, sondern es zerfiel nothwendig in eine Welt von Ichen. Dies zwar nicht in der Form der Anschauung selbst.
+
+Das ursprünglich
+
+und das dieses Schema unmittelbar und in der That seines
+
+Werdens als Schema erkennende Princip sind nothwendig numerisch Eins, nicht zwei; und so ist denn auch auf dem Gebiete der anschauung das unmittelbar sein Anschauen anschauende nur ein einziges, in sich verschlossenes, [SW II:704] gesondertes, in dieser Rücksicht jedem andern unzugängliches; das Individuum eines jedweden, deren aus diesem Grunde jedweder nur Eins haben kann.
+
+[p. 31] Wohl aber muß diese Trennung der Iche einfallen in derjenigen Form, in welcher allein auch die Einheit hervorgebracht wird, in der des Denkens:
+
+daß daher das beschriebene Individuum, so einzeln es auch in der unmittelbaren Selbstanschauung bleibt, wenn es sich im Denken auffaßt, in diesem Denken sich finden würde als ein Einzelnes, in einer Welt ihm gleicher Individuen ' ; welche letztere, da es dieselbe nicht als freie Principe, so wie sich selbst, unmittelbar anschauen könnte, es als solche nur durch einen Schluß aus ihrer Wirkungsweise auf die Sinnenwelt erkennen konnte.
+
+Aus dieser weitern Bestimmung der Sphäre der Anschauung, daß in ihr das durch rein Seyn aus Gott [p. 32] einige Princip in mehrere zerfalle, folgt noch eine andere. Dieses Zerfallen selbst in dem Einen Denken, und die dabei dennoch stattfinden müssende gegenseitige Anerkennung wäre nicht möglich, wenn nicht das Objekt der Anschauung und des Wirkens aller
+
+Eine und dieselbige, ihnen allen gleiche, Welt wäre. Die Anschauung einer Sinnenwelt war nur dazu da, daß an dieser Welt das Ich, als absolut sollendes, sich sichtbar würde. Dazu bedarf es nicht mehr, als daß eben die Anschauung einer solchen Welt nur schlechtweg sey; wie sie sey, darauf kommt durchaus nichts an, indem zu jenem Zwecke jede Gestalt derselben gut ist. Aber, das Ich soll noch überdies sich als Eines in einer gegebnen Vielheit [p. 33] von Ichen erkennen, und dazu gehört, außer den schon angegebenen allgemeinen Bestimmungen der Sinnenwelt, auch noch diese, daß sie für jedes anschauende Individuum dieselbe sey. Derselbe Raum, und dieselbe Erfüllung desselben für alle; ohnerachtet es der individuellen Freiheit überlassen bleibt, diese gemeinsame Erfüllung in einer eigenthümlichen Zeitfolge aufzufassen! Dieselbige Zeit, und ihre Ausfüllung durch Sinnliche Begebenheiten für alle, ohnerachtet in seinem eignen Denken und Wirken es jedem frei steht, sie auf seine eigne Weise auszufüllen. Das Soll der Sichtbarkeit des Soll (§. 8.) wie es aus Gott ausgeht, [SW II:705] ist ja an das Eine Princip gestellt, wie denn aus Gott nur Ein Princip ausgeht; [ 3 ] [p. 34] und so ist es denn, zufolge der Einheit des Vermögens, jedem Individuum schlechthin möglich, zu schematisiren, und es muß jedes, unter der Bedingung, daß es auf dem Wege der
+
+Erblickung des. Soll befindlich sey, schematisiren seine Sinnenwelt nach dem Gesetze jener ursprünglichen Uebereinstimmung.
+
+Ich könnte sagen; es kann schlechtweg, und es muß, unter der angegebnen Bedingung construiren die wahre Sinnenwelt; diese nemlich hat, außer den oben abgeleiteten allgemeinen und formalen Gesetzen gar keine andre Wahrheit und Realität, als diese allgemeine Uebereinstimmbarkeit. §.
+
+12.
+
+Kehren wir zurück zum reinen
+
+[p. 37] . 55 Denken.
+
+Das Wissen ist durch bars als seyn könnend allein Schema des göttlichen Lebens. In diesem Denken habe ich das Wissen nicht unmittelbar, sondern nur in einem Schema; noch weniger unmittelbar das göttliche Leben, sondern dieses nur in einem Schema des Schema, in einem doppelt ertödteten Begriffe. Besinne ich mich, und ein solches Vermögen unmittelbar mich zu besinnen, muß um des sogleich anzugebenden Grundes willen, im allgemeinen Vermögen liegen besinne ich mich, daß ich das so eben gesagte einsehe, daß ich es daher einsehen kann, daß, da laut der zu Stande gebrachten Einsicht das Wissen Ausdruck Gottes ist, auch dieses Vermögen selbst sein Ausdruck [p. 38] ist, daß das Vermögen da ist, um vollzogen zu werden, daß ich demnach, zufolge meines Seyns aus Gott, es einsehen soll. Nur auf dem Wege dieser Besinnung komme ich zur Einsicht, daß ich schlechtweg sey; aber ich soll zu dieser Einsicht kommen; es muß daher, wie erwiesen werden sollte, ein absolutes Vermögen dieser Besinnung, gleichfalls zufolge meines Seyns aus Gott, im allgemeinen Vermögen liegen. Diese gesammte jetzt beschriebene Sphäre offenbart sich demnach als ein Soll des Erstrebens: daß ich, das in der Sphäre der Anschauung schon ersehene Princip, daß ich sey. In ihr ist das durch die bloße [SW II:706] Besinnung unmittelbar als Princip Sichtbar zu machende ich
+
+Princip des Schema, wie sich dies an der hervorgebrachten Einsicht vom Wissen in seiner Einheit, und vom göttlichen Leben, als dem Träger desselben, zeigt, wo ich, nach unmittelbarer Besinnung, hinzuzusetzen vermag: ich denke das, ich bringe hervor diese Einsicht. Dieses Wissen durch das unmittelbar als Princip sichtbare Princip heißt, wie gesagt, reines Denken, zum Unterschiede von dem durch das unmittelbar unsichtbare Princip, dem Anschauen. Beide, das reine Denken, und das Anschauen, fallen also auseinander, daß das letztere durch das erstere bis in sein Princip aufgehoben und vernichtet wird. Ihr Zusammenhang aber wird dadurch gebildet, daß das letztere die faktische Möglichkeit des ersten bedingt; auch daß das in dem letztern erscheinende Ich in seinem bloßen Schema (denn in seiner Wirklichkeit ist es zugleich mit dem Triebe vernichtet) auch im erstern bleibt, und darauf sich besinnen wird. §.
+
+13.
+
+In diesem beschriebenen Denken denke ich bloß das Wissen, als Schema des göttlichen Lebens seyn könnend, und da dieses Können der Ausdruck Gottes ist, der auf das Seyn geht, als dasselbe seyn sollend; keinesweges aber bin ich es. Es wirklich zu seyn, kann keine Gewalt mich nöthigen; wie denn auch früher keine mich nöthigen konnte, auch nur die Anschauung der wahren sinnlichen Welt zu vollziehen, oder zum reinen Denken, [p. 39] und dadurch zur wirklichen aber leeren
+
+• Einsicht des absolut-formalen Soll, mich zu erheben. Dies steht in meinem Vermögen; aber nun, da alle faktische Bedingungen schon vollzogen sind, steht es auch unmittelbar in meinem Vermögen.
+
+Wenn ich nun, von einer Seite fallen lassend das nichtige Anschauen, von der andern das leere Intelligiren, mit absoluter Freiheit und Unabhängigkeit davon, mein Vermögen vollziehe, was wird erfolgen? Ein Schema; ein Wissen demnach, das durch das Intelligiren ich schon kenne, als das Schema Gottes, das aber in dem jetzt vollzogenen Wissen unmittelbar [SW II:707] mir erscheint als das, was ich schlechtweg soll. Ein Wissen, dessen Inhalt weder [p. 40] hervorgeht aus der Sinnenwelt, denn diese ist vernichtet, noch aus der Betrachtung der leeren Form des Wissens, denn auch diese habe ich fallen lassen; sondern das da ist durch sich selbst * schlechtweg wie es ist, so wie das göttliche Leben, dessen Schema es ist, schlechtweg durch sich selbst ist, wie es ist. Ich weiß nun, was ich soll. Aber alles wirkliche Wissen führt durch sein formales Wesen seinen schematischen Beifaß mit sich; ohnerachtet: ich also nun weiß von dem Schema Gottes, so bin ich dennoch noch nicht unmittelbar dieses Schema, sondern ich bin nur Schema des Schema. Das geforderte Seyn ist noch immer nicht vollzogen.
+
+Ich soll seyn? Wer ist dieser Ich?
+
+[p. 41] mm
+
+Offenbar der seyende, der in der Anschauung gegebne ich, das Individuum. Dieser soll seyn.
+
+Was bedeutet mein Seyn? Als Princip in der Sinnenwelt ist er gegeben. Der blinde Trieb zwar ist vernichtet, und statt dessen steht nun da das hellersehene Soll. Aber die Kraft, die erst den Trieb in Bewegung setzte, bleibt, daß nun das Soll sie in Bewegung setze, und ihr höheres bestimmendes Princip werde. Durch diese Kraft soll ich daher darstellen in der Sphäre dieser Kraft, der Sinnenwelt, und in ihr anschaubar machen, was ich, als mein wahres
+
+Wesen anschaue in der übersinnlichen Welt.
+
+Die Kraft ist gegeben als ein unendliches; was daher in der Einen Welt [p. 44] - [p. 42] deß Gedankens schlechthin Eins, ist, wird in der Welt der Anschauung für meine Kraft eine unendliche Aufgabe, an der ich zu Idrent habe in alle Ewigkeit. Nur in der Anschauung kann diese Unendlichkeit, die eigentlich eine Unbestimmtheit ist, statt finden, keinesweges in meinem wahren einfachen Seyn, das, als Schema Gottes, so einfach, und so unwandelbar ist, wie er selbst. Wie kann, innerhalb der doch fortdaurenden, und durch das absolute Soll, als gerichtet an mich Individuum, ausdrücklich geheiligten Unendlichkeit, diese Einfachheit hervorgebracht werden? [SW II:708] Wenn in den Ablaufe der Zeit in jedem neueintretenden Momente das ich durch den Begriff dessen, was es soll, [p. 43] in einem besondern Akte sich bestimmen müßte, so wäre es in seiner ursprünglichen Einheit allerdings unbestimmt, und lediglich in der unendlichen Zeit immerfort bestimmbar. Es könnte aber ein solcher bestimmender Akt in der Zeit möglich werden nur im Gegensaße mit einem Widerstande. Dieses Widerstehende aber, und durch den Akt der Bestimmung zu bezwingende, könnte nichts anders seyn, denn der sinnliche Trieb; es wäre drum die Nothwendigkeit einer solchen fortzuseßenden Selbstbestimmung in der Zeit der sichere Beweis, daß der Trieb nicht durchaus ertödtet worden, wie wir dies doch bei der Erhebung zum Leben in Gott vorausgesetzt haben. Durch die wirkliche und gänzliche
+
+Ertödtung des Triebes ist jene unendliche Bestimmbarkeit selbst vernichtet, und in eine einzige absolute Bestimmung aufgenommen.
+
+Diese Bestimmung ist der absolut einfache Wille, der das eben so einfache Soll zum treibenden Princip der Kraft erhebt. Laßt diese Kraft nun ablaufen ins unendliche, wie sie muß; der Wandel ist nur in ihren Produkten, keinesweges in ihr selbst, sie ist einfach, und ihre Richtung ist Eine, und diese ist mit einemmale vollendet.
+
+Und so ist denn der wille derjenige Punkt, in welchem Intelligiren und Anschauen, oder Realitåt, sich innig durchdringen. Er ist ein reales Princip, denn er ist absolut, und unwiderstehlich bestimmend die Kraft, haltend aber und tragend sich selbst; er ist ein intelligirendes Princip, er [p. 45] durchschaut sich, und er schaut an das Soll.
+
+In ihm ist das Vermögen vollständig erschöpft, und das Schema des göttlichen Lebens zur Wirklichkeit erhoben. Das unendliche Wirken der Kraft selbst ist nicht um seiner selbst willen, und als Zweck; sondern es ist nur, um das Seyn des Willens in der Anschauung zu dokumentiren. $. 14.
+
+So endet denn die Wissenschaftslehre, welche in ihrem [SW II:709] Inhalte die Vollziehung des so eben ausgemeßenen absoluten Vermögens zu 'intelligiren ist, mit der Erkenntniß ihrer selbst, als eines bloßen Schema, jedoch als eines nothwendigen und unentbehrlichen Mittels, in eine Weisheitslehre, das ist [p. 46] in den Rath, nach der in ihr erlangten Erkenntniß, durch welche ein sich selbst klarer, und auf sich selbst ohne Verwirrung und Wanken ruhender Wille allein möglich ist, sich wieder hinzugeben dem wirklichen Leben; nicht dem in seiner Nichtigkeit dargestellten Leben des blinden und unverständigen Triebes, sondern dem an uns sichtbar werden sollenden göttlichem Leben.
+
+[p. 49] In der Ostermesse 1810 sind im Verlage von Julius Eduard Hitzig in Berlin erschienen.
+
+Biollocher der Romane von und füt Demen. Lieferung, El.8. broch. Enthaltend.: Erste
+
+Die Frau des faitenftein 6. Ein Roman in zwei Theilen von der Verfasserin des Xodrid).
+
+Camoëns, Luis de, Os Lusiadas. Edição de J. E. Hitzig. 16. Fichte, J. G. Die Wissenschaftslehre, in ihrem ganzen Umrisse dargestellt. kl. 8. broch. Formey, Dr. L. Königl. Preuss. Geheimer Rath und Leibarzt. 'Ueber die Wassersucht der Gehirnhölen. gr. 8. broch. Fouqué, Friedrich Baron de la Motte, der Held des Nordens. Drei Theile. Mit drei Zueignungen an Fichte. kl. 8. Herrmann, J. F.
+
+Calendarium, seu
+
+## Index
+
+Plantarum in Marchia media circa Berolinum sponte totum per annum nascentium in ce.
+
+leberrimi Prof; Willdenovii Prodromo Florae
+
+Berolinensis descriptarum. 16. Kriming, J. F. W. Erörterung der neueren Lage der Pestalozischen Methode überhaupt, und des in derselben sich entwickelnden Planes einer absoluten Elementarbildung insbesondere. Nebst einigen Abhandlungen über verwandte Gegenstände. Aus Herrn pädagogischen Mittheilungen besonders abgedruckt. gr. 8. broch. Horns, Dr. E. Archiv für medizinische Erfahrung. Jahrgang, 1810. ister Band, Januar bis April. gr. 8. broch. Langhans, Königl. Preuss. Ober - Hof Bau. Inspector. Ueber Theater, oder Bemerkungen über Katakustik in Beziehung, auf Theater. Mit 6 Kupfert. 4. (In Commission.) Der Nibelungen Lied. Kritische Ausgabe des Urtextes, durch F. H. von der Hagen. Zu Vorlesungen bestimmt. gr. 8.
+
+[p. 50] Shakspeare's von Schlegel noch unübersetzte Dramatische Werke, übersetzt von mehreren Verfassern. Zweiter Band. 8. Enthaltend: Viel Lärmens um Nichts
+
+Von G. W.
+
+Seßler, und, Ein Wintermärchen von f. Krause. (Der erste Band enthält Cymbeline und Ende gut, alles gut, von G. W. Seßler).
+
+Stosch, Dr. A. Anatomisch - Physiologische Monographie der Fischgattung Cobitis, nebst einem Versuch einer kurzen Darstellung der organischen Bedingungen des Respirations-Geschäfts in dem ganzen Thierreiche. broch. Mit Kupfern. gr. 8. Wilmsen, F. P. Lehr- und Lesebuch für Törtas? fchillen. 8.
+
+Wolfart, Dr. Karl, Indra's Verheißung. Allegorisches Festspiel zum 23sten December 1809. kl. 8. broch. (In Commision.)
+
+Nach der Messe erscheinen. Büsching, Dr. J. G. und v. d. Hagen, Dr. F. H. Handbuch der altdeutschen Sprache und Literatur. Mit einer Grammatik und einem Glossar über die darin vorkommenden Stücke. (Nach Art der Jos's franz. engl. ital. und span. Sprache eingerichtet.)
+
+Teriden 1. Du ch holiisoen Banobücher der 3 wei Bände gr. 8. Platonis Dialogi selecti.
+
+Cura L. F. Heindorf.
+
+Vol. IV. Pars 2. Protagoras. Sophista. gr. 8. Platonis Phädon. Scholarum in usum edid.
+
+L. F. Heindorf gr. 8. Shakspeare's von Schlegel noch unübersetzte dramatische Werke.
+
+Dritter Band. 8.
+
+Wagener, S. E., Naturwunder und Länder-
+
+Merkwürdigkeiten. Fünfter und letzter Band. Mit einem Sachregister über alle vorigen 6 Bände und einem Titelkupfer. 8.
+
+i
+
+[p. 53] Karn

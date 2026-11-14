@@ -1,0 +1,1226 @@
+---
+title: De libertate, contingentia et necessitate
+author: Gottfried Wilhelm Leibniz
+id: 10152
+markers: [a, print]
+pairs_by: a
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The De libertate, contingentia et necessitate was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10152)
+---
+
+# G. W. Leibniz, *De libertate, contingentia et necessitate* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## [p. 1375] 262. CONVERSATIO CUM DOMINO EPISCOPO STENONIO DE LIBERTATE
+
+27. November (7. Dezember) 1677
+
+Überlieferung:
+
+L Konzept: LH IV 4, 3 Bl. 12–14. 1 Bl. u. 1 Bog. 2o. 5 S.
+
+E1 COUTURAT, Opusc. et fragm., S. 25 (Teildruck).
+
+E2 GRUA, Textes, S. 268–276 (Teildruck).
+
+E3 STENSEN, Epistolae, 1952, Bd 2, S. 941–946.
+
+Die auf Stensen zurückzuführenden Gesprächsbeiträge geben wir in Kursivdruck wieder.
+
+Conversatio cum Domino Episcopo Stenonio de Libertate
+
+27. Novembr. 1677
+
+Ajo Dei existentiam non posse demonstrari, sine hoc principio,nihil esse sine ratione. Id principium non locum habet tantum in mechanicis, quando scilicet agitur, utrum ex data magnitudine figura et motu sequatur alia magnitudo, figura, motus, sed etiam in rationibus, quas necesse est mechanicas non esse, quod sic ostendo. Series rerum potuit aliter esse, absolute loquendo, seu non implicat contradictionem ipsam esse aliter, hinc etsi causa una in aliam resolvatur in infinitum, v.g. ego sum talis, ob talem causam, quae rursus talis ob talem, etc., et ita in infinitum, tamen, semper utcunque progrediamur nova manet quaestio, nec uspiam in serie reperitur ratio sufficiens. Ergo ea debet esse extra seriem. Haec ratio non est corporea, alioqui intra corpora ista seu in serie fuisset jam comprehensa. Ergo necessarius est usus hujus principii etiam extra mechanica.
+
+Nihil est sine ratione, intelligitur de causa efficiente, materiali, formali, finali. Causa formalis est ipsa rei essentia, seu si ratio cur res aliqua sit, vel talis sit, sit intra rem ipsam. Causa materialis et efficiens, ut in motu movetur quid semper eodem modo, nisi ratio sit mutationis, vel in re, vel in alio in rem agente. In finali, ut ratio debet esse eligendi ex duobus hoc, vera vel apparens.
+
+Voluntas nunquam agit nisi ob finem. Finis autem est bonum apparens. Movetur semper ab apparentia boni. Ergo Electio ex duobus non potest fieri nisi appareat bonum esse sic eligi.
+
+::: editorial
+
+(zu S. 1375) 11 Ajo erg. L 15 implicat (1) rati (2) contradictionem L 23 si +erg. L 25 sit (1) , cur cesset (2) mutationis, (a) in efficiente, vel in objecto vel (b) vel L 26 duobus (1) unum (2) hoc L 26 apparens. (1) Finis movet (2) Voluntas L
+
+:::
+
+[p. 1376] Perfectius est agere ob rationem, quam sine ratione.
+
+Nihil agit quin ratio sit ex qua posita sequatur hoc potius fieri quam oppositum.
+
+Non est humilitas tam fidenter supponere se rectam habere sententiam et alios erroneam, et ipsis dicere se Deum precari ut eos mutet. Aut si hoc cum humilitate stare potest cur aliis exprobratur?
+
+Voluntatis sunt gradus, unum enim magis volumus quam alterum. Et magis volumus quod melius apparet, ergo quanto major aequalitas tanto minus aliud prae aliquo volumus, et cum summa, nihil. Nemo mortalium de talibus dubitaret, aut haesitaret. Nisi jam praenosset contra suas praeconceptas opiniones adhibitum iri. Ponamus differentiam esse data qualibet minorem, erit et excessus volendi. Id est nullus.
+
+Certum est tunc cum eligimus optimum apparens nos velle propter cognitionem, et tamen libere. Eodem modo et Deus, tametsi ergo sic ageret, seu etsi casus aequalium perfectionum nunquam eveniret tamen ageret libere.
+
+Si omnes series possibiles aeque essent perfectae, sequeretur etiam illam esse aeque perfectam, qua salvarentur omnes impii, et damnarentur omnes pii.
+
+Respondes: est impossibilis.
+
+Quaero cur?
+
+Ais quia contra justitiam.
+
+Optime, id est quia contra perfectionem, id est non omnes series aeque perfectae. In se est possibilis, sed executio ejus fit impossibilis, quia cum Dei perfectione pugnat, et hoc est quod volebam, inde patet, redire tandem omnia ad mea. Et quia aliud sibi dicere videntur, 〈tum〉 premuntur nonnihil, ad idem confugere non sentientes.
+
+Difficultas major in invenienda sententia Augustini, quam in invenienda veritate. Jansenius tricies legit Augustinum, et tamen dicunt eum in legendo Augustino errasse. At ajunt glaucoma ante oculos habuit.
+
+Respondeo, unde sciam postea nec me habere, ubi Augustinum etiam tricies legero, itaque sub finem aeque ero incertus ac ab initio.
+
+Ait Deum introduci mechanicum.
+
+Est odiosa expressio, et metaphorica, loquamur proprie. Sensus est, Deum aeque certo agere, ac horologium, imo contra potius quod horologium certo agit ratio referenda est ad certum modum quo Deus operatur nempe perfectissimum.
+
+::: editorial
+
+(zu S. 1376) 2 agit (1) sine ratione (2) quin ratio sit L 2 potius (1) quam illud (2) fieri L 12 ergo (1) casus aequalitatis (2) sic L 15 omnes (1) pii, (2) impii, L 15 omnes (1) impii. (2) pii. L 17 f. cur? (1) Quia contra justitiam, (2) Ais L 20 sed actu gestr. executio L 29 Deum (1) certo (2) aeque L 31–S. 1377.1 perfectissimum. (1) Mo (2) Creatio Mundi (3) Objicit L
+
+:::
+
+[p. 1377] Objicit si nihil sine ratione, Mundus erit aeternus, quia nulla ratio cur Deus non ante coeperit.
+
+Respondeo primum, omnia creantur ex nihilo non ex praeexistente materia quovis momento, nam et materia ipsa creatur, nec refert, quod antea jam aliqua alia fuerint, nam postea sunt annihilata. Itaque etiamsi semper aliquae fuissent creaturae, seu etiamsi fuisset Mundus alius ante hunc mundum, ut erit alius post hunc mundum, quid tum? quod inde malum? Respondeo secundo, non tamen id tam facile hinc concludi, quia in se tempus nihil est, nisi rerum ipsarum jam existentium tractus. Atque ita si Mundus incepit, otiosa est quaestio cur nunc inceperit non ante, quia nullum est tempus ante ipsum. Sed si quaeras potuisset durare diutius, v.g. si mundus est natus sex mille annos, cur non potius decem mille annos, tunc respondeo tertio etiam aliquam subesse posse rationem proportionemque harmoniae, nobis incognitam.
+
+Necessitas peccati Judae futuri, fuit antequam existeret Judas, ergo non est orta a Judae voluntate. Deus praevidit Judam peccaturum esse. Ergo certum, infallibile, inevitabile, necessarium erat Judam esse peccaturum, antequam existeret Judas. Judas non fuit in intellectu divino, sed Judae peccaturi idea. Judae peccaturi idea non orta est a Juda, quia Judas nondum erat. Judae peccaturi idea non erat tantum in intellectu divino ut idea rerum possibilium, sed ut idea rerum actu futurarum. Idea haec ita affecta non orta est a Juda, sed potius Judam peccaturum esse, necessario secutum est ex hac idea. Tunc cum deliberaret Judas utrum Christum traditurus esset an non, jam necessarium erat Judam eligere traditionem, alioqui falsa fuisset scriptura etc. Necessitate scilicet ex hypothesi non ex ipsa re.
+
+Qualis necessitas est etiam quae a me inducitur ex electione boni.
+
+Necessitas absoluta est, cum res [aliter] ne intelligi quidem potest, sed in terminis contradictionem implicat, v.g. ter tria esse decem.
+
+Necessitas hypothetica est cum res quidem aliter esse intelligi potest per se, sed per accidens ob alias res extra ipsam jam praesuppositas, talis necessario est, v.g. necesse erat Judam esse peccaturum, supponendo quod Deus id praeviderit. Vel supponendo quod id Judas putaverit esse optimum.
+
+Series rerum non est necessaria necessitate absoluta. Sunt enim plures aliae series possibiles, id est intelligibiles, etsi actu non sequatur earum executio.
+
+::: editorial
+
+(zu S. 1377) 10 ipsum. (1) Respondeo tertio etiam in ipso te (2) Sed L 12 f. incognitam. (1) Judas non est causa peccati (2) Necessitas peccati (a) futuri, fuit ant (b) Judae L 15 esse (1) traditurum (2) peccaturum L 20 f. jam (1) certum (2) necessarium L 21 Judam peccare, seu gestr. eligere L 29 Judas erg. L 31–S. 1378.1 executio. (1) Fingi pot (2) Intelligi L
+
+:::
+
+[p. 1378] Intelligi potest series rerum impossibilis, hypothetica necessitate, v.g. series Mundi talis, ut in ea eveniat omnes pios damnari, et omnes impios salvari.
+
+Ista quidem series intelligi seu concipi potest, sed ejus existentia actualis est impossibilis impossibilitate Hypothetica, non quidem quod id in terminis implicet contradictionem, sed, quod id sit incompatibile, cum praesupposita Dei existentia, cujus perfectio (ex qua justitia sequitur) tale quid pati non potest.
+
+Tripliciter rem videmus, per experientiam, per ratiocinationem et per speculum. Deus vidit ab aeterno Judam esse peccaturum; non per experientiam, quia experientia non est nisi praesentium; non per ratiocinationem, quia ea Deus non indiget, ergo per speculum, id est in idea quae est in intellectu Divino, et futuritionem includit.
+
+Causa peccati immediata est homo prout scilicet tunc intellectu ac voluntate constitutus est ex positis externis. At causa peccati praecedens seu mediata est status hominis et objectorum praecedens praesentem; et catena harum causarum mediatarum est series rerum. Sed causa ejus prima est eadem quae seriei, nempe idearum in intellectu divino constitutarum et rerum possibilium naturam exprimentium constitutio talis, ut optimum sit in summa hanc potius quam illam seriem eligi.
+
+Quemadmodum Musicus non vult dissonantias per se, sed per accidens tantum, quando ipsis, postea correctis, melodia perfectior redditur quam sine ipsis fuisset; ita Deus non vult peccata nisi sub conditione poenae corrigentis, et per accidens tantum, ut requisita ad complendam seriei perfectionem.
+
+Quisquis habet pravam voluntatem, is jure punitur. Prava voluntas nihil aliud est quam pravae circa res morales sententiae vel opiniones. Quicunque pravas circa res practicas habet opiniones, easque exequitur, is jure punitur, ob hanc solam causam, quia scelus ejus non ex errore facti, sed ex errore juris, id est ex pessimis opinionibus deliberatisque rationibus ortum est. Unde patet nihil aliud requiri ad puniendum scelus, quam ut quis admittat scelus, et sciat tamen esse scelus. Nulla ergo alia opus est libertate. Nec refert, quod ille putat, scelus sibi esse bonum, seu utile; et ideo ipsum elegit, quia impune se laturum, vel poenam longe minorem fructu inde sperato, credebat. Nam nihilo minus punietur, tametsi ratio eligendi fuerit haec opinio.
+
+::: editorial
+
+(zu S. 1378) 1 rerum erg. L 4 actualis (1) nullo modo est possibil (2) est L 12 est (1) peccans (2) homo erg. L 13 ex positis externis erg. L 13 peccati (1) mediata est (2) prima seu gestr. mediata est eadem quae (3) mediata (4) praecedens . . . est L 14 hominis (1) praecedens praesentem (2) et L 15 ejus erg. L 15 f. nempe (1) ideae rerum in intellectu divino constitutae earum naturam exprimentes (2) idearum et L 16 possibilium erg. L 17 optimum (1) esset (2) sit L 18 dissonantias (1) , sed (2) per L 19 ipsis (1) melodia (2) , postea L 22 jure erg. L 24 solam (1) rationem (2) causam L 27 scelus, (1) etsi sciat esse scelus (2) et L
+
+:::
+
+[p. 1379] Nec poterit peccator aliquando in extremo judicio dicere, non fuisse in sua potestate opinionem suam mutare. Nam et in rebus humanis juste faciunt judices cum puniunt sceleratos, etsi scelerati illi postea poenitentes, queri possint, se ad pessimas istas opiniones quas cum peccarent, habebant quadam adversitate devenisse.
+
+Damnandorum autem querelis adhuc aliud obstat, quod scilicet ne tunc quidem sunt poenitentes, cum damnantur, adeoque nunquam queri possunt.
+
+Nemo se volens malum fecit, alioqui antequam fieret, esset.
+
+Si peccatores tempore judicii adhuc revera poenitentes essent non damnarentur aeternum, sed casus iste non evenit unquam.
+
+Puto fuisse tempus quo homines non minus vage de Geometricis loquebantur, quam nunc de Metaphysicis. Itaque mirum non est quod hodie Geometria ita bene constituta est, Metaphysica vero tam incerta vagatur. Credo enim fortasse tempus venturum, quo non minus bene constituta erit Metaphysica ac Geometria. Quod a tot seculis nondum constituta est Metaphysica, ex eo non debet de successu desperari. Nam fortasse in quadam adhuc Mundi infantia sumus. Et quemadmodum Pythagoram (si ille primus est) a Geometria rigidis demonstrationibus constituenda non absteruit antecessorum balbuties, ita nec nos praesens confusio a Metaphysica constituenda deterrere debet.
+
+Objectio: Si omnia certa praevisa inevitabilia sunt, frustra preces adhibentur, sive ut ille ait: Desine fata Deum flecti sperare precando.
+
+Respondeo, imo preces utiles sunt ad id quod desideramus obtinendum, ut aqua vel ventus ad molendinum circumagendum. Ut enim Deus cum praevidit molendinum circumactum iri, id vidit futurum per ventum vel aquam. Ita cum praevidit Te gratiam aliquam assecuturum, vidit id futurum per preces.
+
+Principium omnis ratiocinationis primarium est, nihil esse aut fieri, quin ratio reddi possit, saltem ab omniscio, cur sit potius quam non sit, aut cur sic sit potius quam aliter, paucis Omnium rationem reddi posse.
+
+::: editorial
+
+(zu S. 1379) 1 poterit (1) sceleratus postea cum puniendus erit, (2) peccator (a) damnandus (b) aliquando judicio L 4 quas . . . habebant erg. L 8 peccatores (1) post mortem (2) tempore L 14 Metaphysica, (1) mirum non est 〈 – 〉 (2) ex eo (a) colligi (b) non L 18 Objectio: erg. L 18 praevisa (1) infa (2) inevitabilia L 20 Respondeo, (1) certum est molendin (2) imo L 22 vel aquam erg. L 24 aut erg. L
+
+19 VERGIL, Aeneis, VI, 376.
+
+:::
+
+[p. 1380] Definitio libertatis, quod sit potestas agendi aut non agendi positis omnibus ad agendum requisitis, omnibusque tam in objecto quam in agente, existentibus paribus est chimaera impossibilis, quae contra primum principium quod dixi pugnat.
+
+Haec notio libertatis ignota fuit antiquitati; nulla ejus in Aristotele vestigia reperiuntur, Augustini systema plane evertit, a Magistro Sententiarum, Thoma, Scoto, ac plerisque Scholasticis veteribus aliena est; celebrata primum a Scholasticis posterioribus, eludendis potius quam tollendis difficultatibus apta.
+
+Apud Veteres liberum a spontaneo differt, ut species a genere, nimirum libertas est spontaneitas rationalis. Spontaneum est cujus agendi principium in agente est, idque et in libertate contingit. Nam positis omnibus ad agendum requisitis externis, mens libera agere potest aut non agere, prout scilicet ipsamet disposita est.
+
+Voluntatis objectum esse bonum apparens, et nihil a nobis appeti nisi sub ratione boni apparentis, dogma est vetustissimum communissimumque.
+
+Quicquid est, aut per se est, aut per aliud. Si per se est, tunc ejus ratio existendi ex ipsius natura sumitur, seu essentia ejus continet existentiam, quod in omnibus illis veritatibus locum habet, quae ex terminis demonstrantur, seu quarum contrarium implicat contradictionem. Si vero aliquid per aliud est, tunc existendi rationem habet extra se, id est habet causam. Omnia ergo rationem habent, vel in se et ex terminis, ut per se necessaria, vel aliunde, ut libera et contingentia, seu ut ita dicam per accidens sive ex hypothesi necessaria.
+
+Cum dicitur exempli gratia, potuisse Judam non peccare, seu non fuisse necesse eum peccare, hoc intelligitur de necessitate prioris generis seu absoluta sive per se, nihil enim involvit haec propositio quod repugnet. Tametsi id ex hypothesi, id est aliunde, necessarium esset, ut scriptura impleretur.[^1380-1] Cum dicitur oportet, id est necesse est scandala esse (scandala autem utique peccata sunt sive in accipiente, sive in dante), utique dicitur necessaria esse peccata, sed hoc intelligitur haud dubie de necessitate non per se, seu in terminis; sed per accidens, seu in externis circumstantiis posita.[^1380-2]
+
+[^1380-1]: Quo major necessitas, eo major perfectio. Scaligerus lib. 11 de caus. l. l. c. 166.
+
+[^1380-2]: De necessario per accidens. Quod non est per se necessarium est per accidens necessarium. Scal. exerc. 39.
+
+::: editorial
+
+(zu S. 1380) 2 in (1) vol (2) agente L 5 reperiuntur, (1) ac ne in veteribus (2) Augustini L 6 a (1) Molinistis (2) Scholasticis posterioribus L 8 spontaneo (1) agebat (2) differt erg. L 9 et erg. L 11 scilicet erg. L 12 objectum (1) nullum esse objectu (2) esse L 16 veritatibus erg. L 16 terminis verae gestr. demonstrantur erg. L 19 per se erg. L 19 accidens (1) necessaria, nempe (2) sive L 21 non (1) damnari, intelligendum est hoc de eo quod ex natura rei nece (2) peccare L 22 eum (1) damnari (2) peccare L 22 necessitate (1) priori (2) prioris generis L
+
+28 J. C. SCALIGER, De causis linguae latinae libri XIII, Lyon 1540. 30 J. C. SCALIGER, Exotericarum exercitationum liber quintus decimus de subtilitate, ad Hieronymum Cardanum, Paris 1557.
+
+:::
+
+[p. 1381] Omne futurum non minus certo ac necessario futurum est, quam praeteritum necessario praeteritum est. Non quod per se id sit necessarium, sed quod ex positis circumstantiis praesentibus (exempli causa praescientia Dei, item serie rerum) id consequatur. Quicquid futurum est utique verum est fore, quicquid verum est (scienti) certo verum est. Ergo quicquid futurum est certum est fore. Quicquid certum est inevitabile est. Quicquid inevitabile est, necessarium est. Ergo omne futurum necessarium est. Sed necessitate per accidens seu hypothetica qualem dixi, quae certe contingentiam seu libertatem non tollit.
+
+Argumentum de praescientia eodem redit. Quicquid est futurum id Deus praescit, quod Deus praescit id Deus infallibiliter praescit, quod Deus infallibiliter praescit infallibile est. Quod infallibile est inevitabile est, quod inevitabile est, necessarium est. Ergo omne futurum necessarium est. Necessitate tamen, quae libertatem ac contingentiam non tollit. Nam quamvis omnia futura sint necessaria, non tamen sunt per se et absolute necessaria, seu ex terminis, sed per accidens, seu secundum quid.
+
+Nullam aliam concedo necessitatem in actionibus liberis, quam eam quam illi qui Divinam praescientiam admittunt, concedere coguntur in omnibus futuris contingentibus.
+
+Ex complexis omnes veritates, Metaphysicae, Geometricae, et aliae quaecunque, quae ex terminis demonstrari possunt, per se necessariae sunt, omnes vero veritates historicae, seu ut ita dicam facti, quae non demonstratione, sed experientia a nobis sciri possunt, sunt per se contingentes per accidens tantum necessariae.
+
+Ex terminis incomplexis solus Deus est Ens per se seu absolute necessarium, cujus [essentia] scilicet involvit existentiam. Caetera omnia sunt per accidens necessaria ex voluntate scilicet Dei si bona sunt, ex permissione autem, si mala sunt, ut postea dicam.
+
+Si non datur praedeterminatio physica actuum liberorum, si Deus non influit in substantiam actus liberi, seu si non cooperatur omni actui libero sequitur Deum non esse omnium creaturarum causam primam. Quod est revera Deum tollere a rebus. Actus liber cum sit aliqua creatura, debet suam existentiam a Deo accipere.
+
+Non potest dici Deum auxilia dare, seu influere in actum ex praeviso quid homo esset electurus, quia homo ne electurus quidem est sine alio auxilio ad ipsam electionem necessario.
+
+::: editorial
+
+(zu S. 1381) 3 praesentibus . . . rerum) erg. L 5 fore. (1) Quicquid certum est id (a) quodammodo (b) est per a (c) vel per se, vel saltem per accidens ex positis necessarium est. (2) Quicquid L 9 redit. (1) Deus praescit futurum. Quia (2) Quicquid L 16 omnibus actionibus gestr. futuris L 17 complexis (1) solus (2) omnes L 18 vero (1) proposi (2) veritates L 21 se (1) necess (2) seu (3) seu L 22 existentia L ändert Hrsg. 23 Dei erg. L 25 actus (1) peccati (2) liberi erg. L 25 seu (1) cooperatur actui peccantis (2) si . . . libero L 26 f. liber (1) haud dubi (2) cum L 29 esset (1) facturus, (2) electurus, L 29 quia (1) etiam (2) homo L
+
+:::
+
+[p. 1382] Proprie et accurate loquendo non tam dicendum est Deum concurrere actui quam potius Deum producere actum. Ponamus enim Deum concurrere actui cuilibet, sed ita ut non solum producatur a Deo, sed partim etiam ab homine, hinc sequeretur saltem istum concursum hominis non indigere cooperatione Dei, quod est contra hypothesin, nam concursus iste est etiam actus, sequitur ergo tandem omnes actus in solidum a Deo produci, uti creaturas in universum omnes. Qui bis rem dimidiam producit, integram producit; vel clarius qui rem dimidiam producit, et residuae dimidiae rursus dimidiam, et residuae dimidiae a dimidia rursus dimidiam, in infinitum, is producit integram. Id autem contingit in actu quolibet ratione Dei. Nam ponamus Deum et hominem concurrere ad actum, necesse est Deum rursus concurrere ad ipsum concursum hominis, et ita vel ibitur in infinitum (nec eo minus tamen res eodem redibit); vel statim ab initio sufficiet dicere Deum revera producere actum, etsi homo sit qui agat.
+
+Peccatum est creatura, omnis creatura a Deo continue creatur, ergo et peccatum. Scilicet quoad substantiam actus; seu secundum id quod in eo est positivum. Deus in nobis operatur tam ipsum velle, quam ipsum facere.
+
+Posito quod conservatio idem sit quod continua creatio, sequitur idem. Nam cum quolibet momento Deus hominem quasi de novo creet, ideo hoc momento quo peccat, creat hominem peccantem, seu peccatum producit cum homine.
+
+Nihil absolute loquendo malum, seu Deo ingratum contingere potest, alioqui Deus non esset omnipotens.
+
+Cum Deus peccata nolle seu ipsis irasci dicitur, sensus est Deum permittere peccata sed non nisi sub conditione poenae.
+
+Dici quodammodo potest Deum esse autorem peccati per accidens, seu Deum velle peccatum per accidens, quemadmodum Musicus dissonantiam. Ponamus enim casum, quo ipsa perfectio Melodiae exposcat dissonantias immisceri, rursusque compensari, sive ponamus longe gratiorem fieri harmoniam incidentibus dissonantiis, insperatoque in consonantiam redactis, quam si non nisi consonantiae fuissent. Eo casu arbitror dici posse Musicum esse autorem dissonantiarum per accidens, seu velle eas per accidens, id est permittere potius quam velle. Nam ipsas per se dissonantias non vult, sed si commode id pateretur perfectio melodiae declinaret. Permittit autem, et quidem non invitus, sed [p. 1383] volens, per accidens tamen, id est non ob ipsarum naturam, sed quia earum interventu deprehenditur in summa majorem existere perfectionem. Ita Deus peccata, tolerat, permittit, et non invitus quidem, per accidens tamen vult, quia intelligit, seriem universi ipsis intercurrentibus et mirifica ratione compensatis fore perfectiorem. Peccatorum ergo ratio ultima est non voluntas Dei ipsa diligentis, sed natura perfectionis rerum universalis exigentis ut pictura umbris distinguatur, et melodia dissonantiis ipsa compensatione voluptatem augentibus, animetur.
+
+::: editorial
+
+(zu S. 1382) 3 non (1) totus (2) solum erg. u. gestr. (3) solum erg. L 4 est (1) absurdum. Hinc (2) contra L 11 infinitum, (1) vel statim ab initio (2) (nec L 14 ; seu . . . positivum erg. L 17 quolibet (1) homin (2) momento L 21 Deum (1) velle peccata sub conditi (2) permittere L 23 esse (1) causam (2) autorem erg. L 27 casu (1) dico (2) arbitror L 28 autorem (1) consonantiarum (2) dissonantiarum L 30 autem (1) per accidens, (2) , et (a) libenter (b) quidem L
+
+:::
+
+Si necessitas eligendi optimum tolleret libertatem, sequeretur Deum, angelos, beatos, nos ipsos libere non agere, cum a majore bonitate, vera vel apparente, ad agendum determinamur.
+
+Cum Deus necessario et tamen libere eligat perfectissimum, quandocunque unum alio perfectius est, sequitur salvam ejus libertatem fore, si id semper contingeret seu etiamsi nunquam existeret, aut existere posset casus sine ratione eligendi unum ex duobus aeque perfectis.
+
+Si Deus aliquid vult sine ratione, sequitur eum agere et velle imperfecte quia omnis substantia intelligens in quantum non ex intellectu agit, imperfecte agit.
+
+Eligere est proprie ex pluribus legere sive capere quod optimum videtur. Proponitur casus duorum oppositorum A et B, quae scilicet non possunt stare simul. Ponitur porro necesse esse ut alterutrum eligatur, ac tertio nullam esse rationem alterutrum eligendi: ajo hunc casum ex his tribus hypothesibus compositum implicare.
+
+At inquies, ipsa ratio quae facit ut alterutrum eligendum sit, facit etiam ut alterutrum eligatur.
+
+Respondeo communis illa ratio non est plena seu sufficiens, nam facit quidem ut eligatur vel A vel B, sed non facit eligi A non B, nec etiam facit eligi B non A.
+
+::: editorial
+
+(zu S. 1383) 3 f. universi (1) hoc modo esse perfectiorem (2) ipsis L 5 natura (1) rerum (2) perfectionis L 5 rerum (1) ipsa (2) universalis erg. L 8 f. angelos, (1) nos (2) beatos, L 9 a (1) judicio q (2) majore L 11 Deus salva sua libertate, gestr. necessario L 11 et tamen libere erg. L 12 si . . . seu erg. L 13 casus (1) eligendi (2) sine L 15 imperfecte (1) seu omnis substantia (a) rationalis (b) intellectum (2) quia L 20 ex . . . compositum erg. L 21 ipsa (1) nece (2) ratio L
+
+:::
+
+## 268. DU FRANC ARBITRE [Sommer 1678 bis Winter 1680/81 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 3, 5 Bl. 23–24. 1 Bog. 2o. 4 Sp., Korrekturspalte von Bl. 23 unregelmäßig beschnitten unter wohl beabsichtigtem Wegfall von korrigierenden Ergänzungen.
+
+E A. BECK, Der philosophische Verkehr Leibniz’ mit A. Arnauld, Diss. Wien 1911, Anhang S.
+
+28–29.
+
+Übersetzung: ROLDÁN, Escritos, 1990, S. 109–113.
+
+Die Datierung beruht auf dem Wasserzeichen. Wir vermuten aber, daß diese kleine Abhandlung, die noch nicht den Gedanken der Kontingenz ins Spiel bringt, eher im früheren Bereich des Belegzeitraumes abgefaßt wurde.
+
+1 ob (1) med (2) diaphanum L 7 egredientem (1) non (2) cognitione . . . esse (a) ac non (b) nec L 9 punctum, (1) quod 〈 – – 〉 (2) ad L 10 leges (1) refringi, s (2) repercuti. L 11 opticarum (1) autorem (2) fundatricem L 12 et commodissimum erg. L
+
+6–10 Vgl. R. DESCARTES, La dioptrique, disc. 2 (A.T. VI, S. 93–96).
+
+[p. 1406] Du Franc Arbitre
+
+La Question si nous avons un franc arbitre, et quelle est son étendue est une des plus anciennes et des plus agitées dans le monde.Des nations entieres, et des sectes aussi bien des anciens philosophes, que des chrestiens modernes ont pris parti là dessus. Elle est de grande importance pour la conduite de la vie; on se condamne pour ce sujet; et après cela, il paroistroit temeraire de dire qu’elle est aisée à resoudre. J’avoue qu’on ne la vuidera jamais, tandis que les hommes se plaisent dans les doutes et cherchent à les entretenir plus tost par des discours en l’air mais agréables, qu’à les finir par des raisonnemens plus solides, mais plus severes.
+
+La cause de la pluspart des disputes sans fin, vient en partie, de ce qu’on veut avoir la liberté de jouer des notions, et qu’on croit que ce seroit une espece d’esclavage de s’obliger à des pensées fermes, et à des idées fixes et bien arrestées. Quoyqu’il en soit tachons de découvrir, la vraye notion du franc arbitre, et puis nous verrons si c’est quelque chose dont les hommes sont capables.
+
+Je suppose premierement que les hommes prennent le franc arbitre pour une perfection, car ils l’attribuent à Dieu, et aux anges, et le refusent aux bestes.
+
+Secondement je suppose que le franc arbitre est contraire à la contrainte, c’est pourquoy si quelcun est tiré par force dans une maison, on ne dira pas qu’il y est allé librement. Mais quand ceux qui se trouvent sur mer dans une tempeste, jettent leur marchandises pour rendre le vaisseau plus leger, et pour se sauver; on peut douter s’ils agissent librement. Et je réponds qu’ouy, car on ne les force pas de se sauver s’ils ne le veuillent.
+
+Je suppose en troisieme lieu que le franc arbitre est contraire non seulement à la contrainte mais encor à l’ignorance ou erreur par exemple lors que les Curateurs ne [p. 1407] veuillent pas donner à un jeune homme la connoissance de ses affaires, il peut dire qu’on luy refuse l’administration libre de ses biens quoyqu’on les luy ait mis entre les mains.
+
+::: editorial
+
+(zu S. 1406) 8 les (1) reso (2) finir L 14 chose (1) qu’on puisse attribuer aux hommes (2) dont L 19 qui (1) sont (2) se . . . mer L 21–23 qu’ouy (1) . Car quand on parle d’une deliberation il faut prendre les choses dans l’estat où elles sont, non pas dans celuy où on les souhaiteroit; ainsi on delibere (a) s’il faut (b) sur ce qu’on (aa) a affaire, (bb) doit erg. et on choisit suivant la raison, le moindre mal ou le plus grand bien (aaa) po (bbb) qu’on juge possible dans l’estat present des affaires. Celuy qui jette sa marchandise pou se sauver, ne le fait pas sans le vouloir faire; (aaaa) quoyque (bbbb) mais il ne voudroit pas s’il voyoit un autre moyen pour se tirer du peril (2) Car il faut toujours (3) (a) et (b) car erg. . . . veuillent bien gestr. . Je L 23 f. non encor erg. L
+
+19–22 Mais . . . veuillent: vgl. TH. HOBBES, Leviathan, lat. Ausgabe Amsterdam 1668, II, 21 (Molesworth, Opera philosophica, Bd 3, S. 160).
+
+:::
+
+De là je tire ces conclusions: plus un homme est puissant, pour n’estre pas entraisné aisement par quelque force exterieure d’autant plus est il libre. Si quelque homme pouvoit estre assez puissant pour s’arrester dans l’air au milieu de la cheute sans aucun soûtien, non obstant la pesanteur qui porte les corps vers la terre, il seroit sans doute plus libre, que les hommes ordinaires. C’est pourquoy quant à ce point les oiseaux sont plus libres que les hommes, ou au moins les hommes seroient plus libres, qu’il[s] ne sont s’ils avoient encor les avantages des oiseaux.
+
+Plus un homme a de connoissance d’autant plus est il libre, car l’erreur et la contrainte sont egalement contraires à la liberté de l’action; par les suppositions susdites.
+
+La Volonté est un effort qu’on fait pour agir, parce qu’on l’a trouvé bon. D’où il s’en suit, qu’on ne manque jamais d’agir, lorsqu’on veut et lors qu’on peut à la fois. Car quand on fait effort l’action s’en suit necessairement quand il n’y a point d’empechement c’est à dire quand on peut. C’est donc un axiome des plus constans et des plus asseurés, que de la volonté et de la faculté l’action ne manque pas de suivre.
+
+D’où il s’en suit que nous sommes les maistres de nos actions, c’est à dire que nous faisons tout ce que nous voulons, pourveu que cela ne surpasse point nos forces. Et par consequent nous avons une liberté tout entiere en ces matieres, d’agir comme bon nous semble.
+
+C’est pourquoy il n’y auroit pas lieu de douter de nostre liberté à proportion de nos forces et de nos connoissances; si nous nous [p. 1408] contentions de ce qui est raisonnable, en considerant que Dieu nous a donné la raison pour examiner le bien et le mal, et pour en faire le choix, et ensuite le pouvoir d’agir suivant ce choix.
+
+::: editorial
+
+(zu S. 1407) 1 veuillent darüber mit Bleistift veulent L 2 f. quoyqu’on . . . mains. erg. Et il n’y a point d’homme raisonnable, qui ne demande d’estre informé des choses, à l’egard des quelles on veut qu’il agisse gestr. De L 4 exterieure (1) et (2) d’autant erg. L 5 libre (1) Supposons quelqu’un d’un corps erg. si ferme et si robuste, qu’on ne le puisse jamais pousser; il sera sans doute plus libre que (2) comme erg. cet ancien, qui estoit si leger qu’il luy falloit des souliers plombés pour ne pas estre emporté par le moindre vent malgré luy. (3) . Si L 6 sans . . . soûtien erg. L 9 oiseaux. (1) Plus un homme a de connoissance, d’autant plus est il libre, c’est par la même raison, car l’erreur est contraire à la liberté aussi bien que la force. (2) Mais en parlant du franc arbitre, il semble qu’on n’a pas égard (3) Plus L 10 f. libre . C’est par la même raison que la conclusion precedente erg. gestr. , car l’erreur (1) est aussi bien contraire à la liberté, que (2) et L 13 agir, (1) après l’avoir (2) parce qu’on l’a L 15 fait quelque gestr. effort L 16 peut. (1) Or c’est la nature de (2) L’unique raison de la volonté est, 〈 -r〉 bon erg. l’opinion qu’on a que ce qu’on veut est le meilleur autant qu’on peut juger (3) alors (4) C’est L 23 n’y (1) a (2) auroit erg. L 24 et . . . connoissances erg. L
+
+:::
+
+Mais nous demandons quelque chose au delà; nous ne nous contentons pas de la liberté d’agir, mais nous pretendons encor une liberté de vouloir ce que nous voudrions vouloir; qui est une chose contradictoire et qui seroit nuisible, si elle estoit possible. Il sera aisé demonstrer l’un et l’autre.
+
+Je dis donc que la liberté de vouloir tout ce qu’on voudroit est une chose impossible. Car si elle estoit possible cela iroit à l’infini; par exemple si on me disoit pourquoy je veux, et si je repondois parceque je veux vouloir; on auroit le même droit de me demander la raison de cette seconde volonté; et si je recourois tousjours à une nouvelle volonté de vouloir; la chose n’auroit point de fin, et il faudroit des volontés de vouloir infinies en nombre precedentes à la volonté d’agir ou bien il faudroit venir enfin à une raison de vouloir, qui ne soit pas prise de la volonté mais de l’entendement; car nous ne voulons pas parce que nous voulons vouloir, mais parceque nostre naturel est de vouloir ce que nous croyons le meilleur. Et cette croyance ne vient pas de nostre volonté, mais de la nature des choses ou de l’assiette de nostre esprit. Tout ce que nous pouvons faire là dessus, c’est de nous servir de tous les moyens convenables pour bien penser, afin que les choses nous paroissent suivant leur nature plustost que suivant nos prejugés.
+
+Il n’y a donc point de liberté d’indifference, comme on l’appelle dans les é coles. Car la liberté de vouloir, que plusieurs pretendent, et qu’il[s] disent consister dans l’indifference; en sorte qu’on puisse suspendre l’action et la volonté sans aucune raison qui nous y meuve, est une chose non seulement impossible, car tout estre creé a quelque cause, mais encor inutile et qui seroit même nuisible; de sorte que nous n’aurions pas sujet de remercier la nature si elle nous avoit donné une faculté si déraisonnable.
+
+::: editorial
+
+(zu S. 1408) 5 nous (1) demandons (2) sou (3) pretendons erg. L 5 f. ce . . . vouloir erg. L 6 chose (1) qui est impossible, (2) contradictoire erg. L 8 tout . . . voudroit erg. L 11 volonté; (1) et il y auroit une volonté de vouloir (a) une vol (b) la derniere volonté (c) le vouloir, voluntas volendi voluntatem (2) et L 13 nombre (1) avant que de venir (2) precedentes erg. L 13 bien erg. L 14 volonté seule gestr. mais L 17 esprit. Ainsi nous n’avons pas la liberté de vouloir, mais nous voulons naturellement erg. ce qui paroist bon erg. u. gestr. Tout L 19 que (1) nous compren (2) les L 20–22 prejugés. (1) Mais (2) Il . . . Car L 22 liberté (1) d’agir (2) de L 23 l’action (1) et même la volonté, quoyque toutes les raisons pour agir (2) et la volonté L 26 remercier (1) Dieu, s’il (2) la nature si elle L 27 déraisonnable. (1) Aussi Dieu meme ne l’a p (2) Elle L
+
+:::
+
+[p. 1409] Elle est encor contraire aux suppositions faites au commencement, et conformes au bon sens, car la liberté doit estre une perfection, cependant cette indifference, ou cette faculté de rejetter le meilleur sans aucune raison vraye ou apparente, est plustost marque d’une grande imperfection; et ne se trouve ny dans Dieu ny dans les anges confirmés dans le bien, donc vraye liberté de l’esprit consiste à reconnoistre et à choisir le meilleur; et comme nous avons établi cy dessus, qu’on est plus libre, à mesure qu’on a plus de connoissance, c’est tout le contraire à l’egard de l’indifference, qui est plus tost une suite de l’ignorance, car plus on est instruit, moins sera-t-on indifferent ou embarrassé[^1409-1] sur le choix qu’on doit faire; et plus, on est accoutumé à suivre la raison, plus sera-t-on determiné à d’executer ce qu’on jugera le plus raisonnable.
+
+Ainsi je conclus, que la vraye liberté consiste dans le pouvoir que nous avons de raisonner meurement sur les choses et d’agir suivant ce que nous aurons jugé le meilleur. Et autant que nous nous servons de la raison dans les choses qui ne sont pas au dessus de nos forces, autant avons nous de franc arbitre, mais comme nos raisonnemens ont de la connexion avec les mouvemens du corps, qui se changent suivant les impressions exterieures; il arrive souvent que des rencontres subites, des grandes passions, des prejugés et coutumes inveterées et tracées dans le cerveau, et enfin les maladies, nous font vouloir et agir, avant que nous ayons raisonné. Et par consequent nostre libre arbitre est méslé de quelque servitude. Mais plus un homme se sera accoustumé à ne se pas precipiter dans les occasions ce qui est appellé la fermeté de l’esprit d’autant plus sera-t-il libre.
+
+[^1409-1]: embarrassé darüber: incertain
+
+::: editorial
+
+(zu S. 1409) 2 estre (1) d’autant plus grande, que nous (2) une L 4 dans (1) le (2) Dieu L 4–6 anges, (1) donc vraye liberté consiste à reconnoistre et à choisir toujours le meilleur (2) confirmés meilleur erg. L 13 choses (1) sans (2) de ne erg. nous precipiter sans connoissance de cause (3) et L 14 f. nous (1) usons de ce pouvoir (2) nous . . . forces L 16 mais (1) autant que nous nous precipito (2) il n’est pas (3) comme L 16 raisonnemens (1) sont join (2) ont L 19 ayons (1) pris le temps qu’il falloit pour raisonner. (2) raisonné. erg. L 20 quelque (1) esclavage (2) servitude erg. L 21 f. ce (1) qu’on appelle proprement la presence d’esprit (2) qui . . . l’esprit L
+
+:::
+
+## [p. 1444] 271. DE LIBERTATE ET NECESSITATE [Sommer 1680 bis Sommer 1684 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 20 Bl. 344. 1 Bl. 2o. 2 S.
+
+E GRUA, Textes, 1948, S. 287–291.
+
+Übersetzungen: 1. ARIEW-GARBER, 1989, S. 19–23. 2. ROLDÁN, Escritos, 1990, S. 5–12. Die Datierung für unser und die drei folgenden, inhaltlich eng verwandten Stücke muß sich an dem weiten Belegzeitraum des Wasserzeichens von N. 273 orientieren, da die anderen Stücke keine äußeren Merkmale aufweisen. Die Behandlung des Freiheitsproblems, so verschieden die Akzente auch gesetzt und Begründungen versucht sowie in N. 274 auch scholastische Formulierungen und Problemstellungen miteinbezogen werden, wirkt insgesamt noch nicht so reif und abgeschlossen wie analoge Schriften von 1685/86 und später (N. 303, 308, 309 und 325), sondern erweckt eher einen noch problematisierend-suchenden Eindruck. Der Gedanke der unendlichen Analyse kontingenter Sätze ist noch nicht ausgesprochen. Unter Inanspruchnahme des Prinzips vom zureichenden Grund wird einerseits die Beweisbarkeit auch kontingenter Sätze behauptet (in unserem Stück), andererseits deren Unbeweisbarkeit aufgrund der identischen Sätzen ähnlichen Struktur des Prinzips kontingenter Sätze Deus vult perfectissimum (N. 272 und 273). Einerseits wird die unendliche Reihe reflexiv aufeinander bezogener göttlicher Willensentschlüsse für die Begründung der Freiheit Gottes in Anspruch genommen (N. 273), andererseits abgelehnt (in unserem Stück). Die Frage der Indifferenz wird nicht eindeutig und entschieden beantwortet (in unserem Stück, in N. 273 und 274). Dabei zeigen sich die letzteren drei Stücke insbesondere bei der Diskussion der Indifferenz bis in Formulierungen untereinander und teilweise auch mit N. 272 verwandt. All diese inhaltlichen Merkmale bestätigen eine Datierung vor 1686, allerdings wohl nicht so früh wie N. 268 von Sommer 1678 bis Winter 1680/81, weil nun der dort noch nicht auftretende Gedanke der libertas a necessitate ins Spiel kommt. Omnia[^1444-1] in Deo spontanea sunt. Haud dubie in omni homine est libertas agendi quae volet. Voluntas est conatus agendi cujus conscii sumus. Ex voluntate et facultate necessario sequitur factum. Nulla datur voluntas, ubi omnia requisita ad volendum vel nolendum aequalia sunt. Datur tamen indifferentia, seu positis omnibus ad agendum requisitis potest tamen [p. 1445] impediri actio, existentibus contrariis requisitis. Homo rationibus resistit sola oblivione; seu animi ab illis aversione. Itaque rationibus utique resistere potest.
+
+[^1444-1]: Am oberen Rande: Herice Scholasticus apud Bonartem Concordia scientiae cum fide statuit Deum esse indifferentem non ad agendum, sed ad volendum.
+
+::: editorial
+
+(zu S. 1444) 24 (1) Spontaneum (2) Omnia L 25 volet (1) , seu quae judicabit optima. Quaeritur an et sit in homine libertas volendi seu libertas (2) . Voluntas L
+
+30 f. TH. BONARTES, Concordia scientiae cum fide, Köln 1664, S. 164, vielmehr: Deus igitur non est indifferens ad volendum, sed tantum ad agendum. Die von Bonartes zu diesem Text gegebene Marginalie Herice. hat Leibniz in seinem Handexemplar unterstrichen. Vgl. N. 440.
+
+:::
+
+Nisi haec propositio admittitur nihil esse sine ratione, seu nullam esse propositionem, in qua non sit aliqua connexio praedicati cum subjecto, seu quae non probari possit a priori.
+
+Duae sunt primae propositiones, una[^1445-2] quod contradictionem implicat esse falsum, altera[^1445-3] quod perfectius est, seu majorem rationem habet, id esse verum. Priore nituntur omnes veritates metaphysice seu absolute necessariae, quales sunt Logicae, Arithmeticae, Geometricae, et similes, neganti enim eas, semper ostendi potest contrarium implicare contradictionem. Posteriore vero nituntur omnes veritates sua natura contingentes, ex sola vero hypothesi divinae vel alterius voluntatis necessariae.
+
+Omnes itaque veritates circa possibilia seu essentias reique impossibilitatem et necessitatem seu contrarii impossibilitatem, nituntur principio contradictionis; omnes vero veritates circa contingentia seu rerum existentias nituntur principio perfectionis. Omnes Existentiae excepta solius Dei existentia sunt contingentes. Causa autem cur res aliqua contingens prae alia existat, non petitur ex sola ipsius definitione, sed comparatione cum aliis rebus, cum enim infinita sint possibilia, quae tamen non existunt; ideo cur haec potius quam illa existant, ratio peti debet non ex definitione, alioqui non-existere implicaret contradictionem, et alia non essent possibilia, contra hypothesin; sed ex principio extrinseco, quod scilicet ista sunt aliis perfectiora.
+
+Ante omnia enim talem Possibilitatis et Necessitatis notionem assumo, ut aliqua sint Possibilia, quae tamen non sint necessaria, et quae reapse non existant. Unde sequitur [p. 1446] rationem quae facit ut res una prae alia existat, non inducere necessitatem, et proinde rationem quae facit semper ut mens libera unum prae alio eligat, sive a rei perfectione, ut in Deo, sive a nostra imperfectione oriatur; non tollere nostram libertatem.
+
+[^1445-2]: Darüber: principium necessariorum
+
+[^1445-3]: Darüber: principium contingentium
+
+::: editorial
+
+(zu S. 1445) 3 admittitur (1) nullam (2) nihil L 6 primae (1) veritates (2) propositiones L 8 omnes (1) de (2) veritates (a) Ge (b) metaphysice seu absolute erg. necessariae L 8 f. sunt (1) Ge (2) Logicae, (a) Geome (b) Arithmeticae L 12 f. circa (1) rerum essentias seu possibilitatem et impossibilitatem, et contrarii impossibilitatem seu necessitatem (2) possibilia . . . impossibilitatem L 14 circa (1) rerum existentiam, (2) contingentia L 16 prae alia erg. L 16 ex (1) ejus definitione, sed ex sola aliqua rati (2) sola L 16 f. sed (1) praeterea ex aliqua ratione. Quia scilicet (a) ratio a (b) aliqua perfectionis ratio fuit eam existere potius quam non existere (2) sed str. Hrsg. comparatione L 18 existant, (1) non q (2) ratio peti (a) potes (b) debet L 18 f. alioqui (1) non-existentia (2) non-existere L 19 contradictionem, (1) sed et contraria (2) et L 21 enim (1) puto (2) talem L
+
+:::
+
+Hinc etiam apparet in quo actiones Dei liberae a necessariis distinguantur. Ita ut Deus se ipsum amet necessarium est, demonstrabile enim est ex definitione Dei. Sed ut Deus faciat quod perfectissimum est, non potest demonstrari, contrarium enim non implicat contradictionem; alioqui contrarium non esset possibile contra Hypothesin. Hoc autem oritur ex notione Existentiae; nam perfectissimum tantum existit.[^1446-4]
+
+Sint duo possibilia A et B quorum alterutrum existere debere necesse est, et ponamus plus perfectionis in A esse quam in B, tunc utique ratio reddi potest cur A existat prae B, et praevideri potest, quodnam eorum sit extiturum, quin imo demonstrari id potest, seu certum reddi ex natura rei. Et si certum idem quod necessarium est, fatebor etiam necessarium esse ut A existat. Sed talis necessitas a me dicitur hypothetica; nam si absolute necessarium esset A existere, tunc B implicaret contradictionem contra Hypothesin. Itaque tenendum est id omne possibile esse quod aliquem includit gradum perfectionis, contingere autem illud possibile, quod opposito est perfectius, idque non ob suam naturam, sed ob decretum Dei generale producendi perfectiora. Perfectio seu essentia est exigentia existentiae, ex qua quidem per se sequitur existentia, sed non necessario, verum negando aliud perfectius impedire. Et tales sunt omnes veritates [p. 1447] physicae, ut cum dicimus corpus aliquod ea celeritate pergere qua cepit; intellige, si nihil impediat.
+
+[^1446-4]: Am Rande: Si requiritur omnimoda indifferentia ad libertatem, vix unquam datur actus liber. Puto enim casum illum ut omnia sint utrobique aequalia vix unquam dari. Etsi enim forte aequales sint rationes, non tamen aequales erunt passiones. Quid ergo disputamus de re quae non datur. Nec puto exemplum dari quo voluntas eligat quin ratio aliqua sit cur eligat alterutrum. Thomistae statuunt libertatem in potentia voluntatis, qua super omne bonum finitum eminet, ut possit ei resistere. Item ad indifferentiam voluntatis praerequirunt indifferentiam intellectus. Necessitatem in Deo non pugnare cum libertate; talis est libertas se amandi; sed de creaturis eum non statuere necessario. Negat Baronius Deum perfectissima creasse.
+
+::: editorial
+
+(zu S. 1446) 4 apparet (1) cur Dei 〈dec〉 (2) in L 6 Deus (1) eligat (2) faciat erg. L 6 enim fieri gestr. non L 13 dicitur (1) per accidens (2) hypothetica L 16 quod (1) co (2) opposito L 16 perfectius (1) . Absolute autem ne (2) , idque L 17 Perfectio (1) est (2) seu L 19 verum (1) ex hypothesi Dei producentis (2) ab extrinseco, seu (3) negando L 23 eligat (1) contra id quod videtur melius (2) quin L 25 qua (1) pot (2) super L
+
+28 f. Vgl. V. BARON, Manuductio ad novum theologiae scholasticae controversiae et ethicae studium et usum, Paris 1666, Bd 3, disp. 1, sect. 3.
+
+:::
+
+Deus facit optima non necessario, sed quia vult. Si quis vero a me quaerat an Deus necessario velit, postulo explicari necessitatem adjecto opposito seu quaestionem plene formari, v.g. utrum Deus necessario velit, an libere; seu ob suam naturam, vel ob suam voluntatem. Respondeo utique Deum non posse velle voluntarie alioqui daretur voluntas volendi in infinitum. Sed dicendum est Deum velle optimum per suam naturam. Ergo necessario vult inquies. Dicam cum S. Augustino illam necessitatem esse beatam. At vero inde sequitur res necessario existere. Quid ita? quia implicat contradictionem non existere quod Deus vult existere? Nego hanc propositionem absolute veram esse. Alioqui ea quae Deus non vult non essent possibilia. Manent enim possibilia, etsi a Deo non eligantur. Possibile est quidem existere, etiam illud quod Deus non vult existere, quia posset existere sua natura, si Deus id existere vellet. At Deus non potest velle ut existat. Fateor, manet tamen possibile sua natura, etsi non sit possibile respectu divinae voluntatis. Quia sua natura possibile definivimus, quod in se non implicat contradictionem, etsi ejus coexistentia cum Deo aliquo modo dici possit implicare contradictionem. Sed opus erit constantes adhibere vocabulorum significationes ut species omnis absurdae locutionis evitetur.
+
+Dico igitur possibile est, cujus aliqua est essentia seu realitas seu quod distincte intelligi potest. Ex.g. si fingeremus nullum accuratum pentagonum unquam in natura fuisse aut futurum esse; tamen pentagonum maneret possibile. Ratio tamen reddi debet aliqua cur nullum unquam extiterit pentagonum nec extiturum sit. Hujus rei ratio nulla alia est, quam quod pentagonum incompatibile est cum aliis rebus majorem includentibus perfectionem, seu plus realitatis involventibus; quae prae ipso existere certum est. At inferes ergo necessarium est ipsum non existere, concedo, si sensus est [:] haec propositio pentagonum non existet, nec extitit, necessaria est, falsum vero, si sensus est: propositio haec: nullum p[enta]gonum existit (quae a tempore abstrahit), necessaria est; Nego enim [p. 1448] istam propositionem demonstrari posse, neque enim absolute impossibile est pentagonum, neque enim implicat contradictionem, etsi ex harmonia rerum sequatur ipsum nullum posse in rebus invenire locum, quod optime illustrari potest similitudine radicum imaginariarum in Algebra, nam -–1 aliquam notionem involvit, licet ea non possit exhiberi, et si quis eam circulo exhibere volet, inveniet circulum illum a recta quae ad hoc requiritur non attingi. Multum tamen interest inter quaestiones quae insolubiles sunt ob radices imaginarias, et quae [in]solubiles sunt ob absurditatem. Ut si quis quaerat numerum, qui in se ductus faciat 9: et ad 5 additus faciat etiam 9; talis numerus implicat contradictionem, debet enim simul esse 3 et 4, seu 3 et 4 debent esse aequales pars toti. Verum si quis numerum quaerat talem cujus quadratum additum ad 9, faciat idem quod numeri triplum.[^1448-5] Is quidem nunquam ostendet totum esse majus sua parte, tali numero admisso, sed tamen et illud ostendet, talem numerum non posse designari. Si Deus decrevisset, nullam debere realem lineam reperiri, quae esset incommensurabilis aliis realibus lineis (Realem voco quae reapse corpus aliquod terminat), non ideo sequeretur incommensurabilem aliquam existere implicare contradictionem. Etsi Deus ex principio perfectionis non potuerit non ita statuere.
+
+::: editorial
+
+(zu S. 1447) 1 aliquod (1) in eo (2) in (3) ea (a) vi quam (b) celeritate L 4 quaestionem (1) ali (2) plene L 5 seu (1) ex n (2) 〈 – 〉 (3) ex sua (4) ob L 6 voluntatem. (1) Dico (2) Respondeo L 16 ejus (1) existentia (2) coexistentia cum Deo L 19 est (1) ex (2) essentia L 19 seu (1) quod (2) realitas L 23 quod (1) polygonum (2) pentagonum L 25 ergo (1) impos (2) necessarium L 25 concedo, (1) si necessarium est, idem quod certo verum, seu verum quod (a) cer (b) demonstrari potest. Nego si necessarium est idem quod im (2) si L 26 propositio (1) De (2) pentagonum L 27 polygonum L ändert Hrsg.
+
+8 Vgl. AUGUSTINUS, Contra secundam Juliani Responsionem, lib. I, n. 100 (PL 45, Sp. 1116).
+
+:::
+
+Ex his tolluntur difficultates de praescientia futurorum contingentium. Deus enim praevidens rationes futuras cur prae aliis alia existant praevidet eas certa scientia in suis causis. Et profecto certam de iis scientiam habet, et necessarias format propositiones, ex posito scilicet semel statu mundi seu harmonia rerum, non absolute, uti necessaria sunt mathematica.
+
+Sola propositio Deus [bricht ab]
+
+Si pentagonum existit, sequitur quod sit perfectius aliis, sed non est. Ergo p[enta]gonum non existit. Sed hinc non sequitur [:] impossibile est ut existat. Haec optima responsio est, dicendum igitur, possibile esse ut existant imperfecta prae perfectioribus. Dices: impossibile est ut id quod Deus non vult existere existat. Nego id ideo sua natura [p. 1449] esse impossibile, etsi non sit extiturum. Itaque sic dicendum quod Deus non vult existere, id non existet. Sed neganda ideo necessitas.
+
+[^1448-5]: Am Rande: xx −bx aequ. −b2 xx aequ. bx −bb
+
+::: editorial
+
+(zu S. 1448) 1 posse, (1) nam ista propositio intelligitur de veri possibilitate absoluta (2) neque L 2 rerum (1) contra (2) sequatur L 7 solubiles L ändert Hrsg. 8 qui (1) sibi additus (2) in L 10 9, quadratum ipsius 3, gestr. faciat L 13 decrevisset, (1) numerum entium (2) nullam L 22 Sola propositio Deus erg. L 24 polygonum L ändert Hrsg. 26 perfectioribus. (1) Possib (2) Sed non esse futurum (3) Dices L 26 Nego (1) etsi (2) id L 28 bx (1) + (2) aequ. L
+
+:::
+
+## 273. DE LIBERTATE A NECESSITATE IN ELIGENDO [Sommer 1680 bis Sommer 1684 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 20 Bl. 284–287. 2 Bog. 8o. 8 S. auf Bl. 284, 287, 285, 286.
+
+E GRUA, Textes, 1948, S. 298–302.
+
+Übersetzung: ROLDÁN, Escritos, 1990, S. 191–198.
+
+Zur Datierung vgl. N. 271.
+
+Videtur dici posse: certum et infallibile esse, ut Mens se determinet ad maximum bonum apparens; neque ullum exemplum contrarium unquam fuisse datum, ubi non[^1450-1] error peccatum praecesserit, vel saltem incogitantia, ut in peccato primi hominis apparet, qui credebat se usu pomi fore Deo similem.
+
+[^1450-1]: Darüber: vide Bellarminum hic p. 598.
+
+::: editorial
+
+(zu S. 1450) 1 possit (1) movere (2) determinare L 2 enim (1) aliquid prius m (2) motum (3) alicujus L 13 ullum (1) causar (2) exemplum L
+
+1 f. Vgl. R. DESCARTES, Meditationes, Quartae Responsiones (A.T. VII, S. 229). 16 Vgl. R. BELLARMINO, Opera omnia . . . nunc postremo ab ipso authore recognita, et in septem tomos distributa, 7 Tle in 4 Bdn, Köln 1617–1620, Tl IV: Disputationum . . . tomus quartus: De controversiis christianae fidei adversus hujus temporis haereticos, Köln 1619, Controv. gener. III, princip. I, lib. III, cap. IX, arg. 8, conf. 1, Sp. 597: Saepe enim homines ex rebus non necessariis eligunt minus bonum, remoto etiam omni errore, et Deus ipse, in quem error cadere non potest, eligit, ac facit minus bonum, cum majus aliquid eligere, et facere posset; resp., Sp. 598: Respondeo, Minus bonum absolute posse eligi remoto errore, si in particulari propter aliquam circumstantiam ratio indicet illud hoc tempore esse optimum. Quo modo Deus cum aliquid agit, non ideo illud agit, quia nesciat se posse facere aliquid melius, sed quia indicat, tunc illud maxime expedire.
+
+:::
+
+[p. 1451] Interim dicendum etiam est, etsi id sit certum tamen non esse necessarium, sed liberum, quia Mens non ab externo determinatur, sed a seipso.
+
+Optime enim D. Thomas constituit libertatem in potentia se determinandi seu agendi in seipsum. Unde patet etiam quomodo Deus praesciat quae sint futura contingentia libera, quia praescit quodnam Menti maxime bonum sit appariturum.
+
+Ex variis itaque possibilibus creaturis liberis illam elegit Deus, quae se determinaret per rationes boni, quia hoc conforme fuit primario Dei decreto libero de perfectissimis eligendis.
+
+Sciendum est eam esse Mentis naturam, ut actura sit aliquid etsi omnia extra ipsam Entia (praeter Deum) cessarent, quia contemplatura esset Deum, et seipsam, et ideas rerum possibilium. Quod de corpore dici non potest, impellendum enim est ab aliquo ut in motu constituatur. Et in hac potentia seipsam determinandi ad agendum consistit natura libertatis.
+
+Deus praevidebat Adamum esse peccaturum, si in tentationem pomi incideret, cur ergo non mutavit rerum seriem. Respondeo quia Deus sciebat hanc rerum seriem alia fore perfectiorem, ideo non mutavit. At dicis voluit ergo ut Adam peccaret. Respondeo negando consequentiam. At voluit ea ex quibus sequi sciebat Adamum esse peccaturum. Nego, non enim sequebatur Adamum peccaturum, quia libere peccavit. Illud tamen verum est, voluisse ea quibus positis certum erat Adamum esse peccaturum. Hoc negari non potest. Ergo voluit Adamum peccare? Non sequitur. Nam permisit tantum. Nemo autem, qui Dei omniscientiam concedit, negare potest, quin Deus certo sciverit, quod Adam esset peccaturus, si a se crearetur, seu quod esset casurus oblata pomi tentatione. Deus non vult peccatum, id est vult ipsum impedire, quantum per rerum harmoniam fieri potest. Ille abyssus Pauli, est rerum Harmonia, quae excedit captum mentis humanae, etsi mens nostra sciat eam esse.
+
+::: editorial
+
+(zu S. 1451) 4 sint (1) futura, (2) futura L 5 quia (1) praescit (2) habet (3) qu (4) re (5) praescit (a) quod Mens (b) quodnam L 6 itaque (1) liberis (2) possibilibus L 10 f. ideas (1) possi (2) rerum L 14 in (1) 〈cert- – 〉 (2) tentationem (a) incideret (b) pomi L 16 Adam (1) peccavit. (2) peccaret. L 17 quibus (1) sequebatur (2) sequi L 18 Adamum (1) electu (2) peccaturum, L 20 sequitur. (1) Sed permisit (2) Nam . . . tantum L 21 certo erg. L 22 casurus (1) sublata (2) oblata L 23 per (1) alia sua sapientissima decreta fieri potest (2) rerum L 25 sciat (1) aliquam (2) eam L
+
+3 f. Vgl. THOMAS VON AQUIN, Summa theologiae, I, 83 1–3; II 1, 13; De veritate, qu. 24; Commentarius in quatuor libros sententiarum, lib. II, dist. 24, qu. 1. 24 Röm. 11, 33.
+
+:::
+
+[p. 1452] Optimum est dicere Libertatem esse in Mentibus non tantum a coactione sed et a necessitate, et licet certum sit atque inevitabile Deum eligere semper perfectissimum seu revera optimum seu ad gloriam suam conducibilissimum, et homines eligere semper optimum apparens, non ideo tamen id esse necessarium, alioqui sequeretur nihil esse possibile nisi quod reapse creatur, cum tamen infinita sint possibilia, nempe quaecunque non implicant contradictionem, quae a Deo non eliguntur. Unde patet Deum libere eligere perfectissimum. Primum decretorum Dei liberorum est quod velit semper agere ad gloriam suam seu perfectissimo modo; ex quo alia decreta omnia sequuntur. Cum ergo Deus sit liber a necessitate in eligendo bono vero, etiam homo erit liber a necessitate in eligendo bono apparente, creatus scilicet ad imaginem Dei, licet semper certo eligat id quod videtur optimum. Sed haec nihil officiunt certitudini.
+
+Occurrendum ergo sententiae Hobbii et Wiclefi, dicentium nihil esse possibile, nisi quod actu fiat seu omnia esse necessaria. Si dixissent omnia esse certa et infallibilia, recte dixissent. Nam infinita sunt possibilia quae non fiunt.
+
+Radix libertatis humanae est in imagine Dei, uti enim Deus etsi semper optimum eligat, et, si alius fingeretur omniscius is praedicere posset quid Deus sit electurus, tamen libere eligit, quia id quod non eligit manet sua natura possibile, itaque oppositum ejus non est necessarium. Eodem modo homo liber est, ut licet semper id ex duobus eligat quod optimum apparet, tamen non eligat necessario. Aliud enim est semper rationem reddi posse cur eligat, aliud est necessariam esse electionem; inclinant rationes non necessitant; licet certo sequatur id ad quod inclinant. At cum in bestiis non sit reflexio seu actio in se ipsum adeoque nec decretum liberum de actionibus suis. Dici potest res omnes hypotheticam quandam necessitatem habere, non essentiae sed existentiae seu actus secundi, sive non ex essentia earum sed ex voluntate Dei oriri rerum necessitatem, nam ex posito decreto Dei omnia necessaria sunt.
+
+::: editorial
+
+(zu S. 1452) 1 dicere (1) Liberum opponi necessario, quia (2) Libertatem L 1 tantum a (1) necessitate sed (2) coactione L 2 necessitate, (1) quia ex eo probatur (2) idque primum nos (3) et L 2 atque inevitabile erg. L 2 f. semper erg. perfectissimum (1) rerum seu re (2) seu revera L 6 eliguntur. (1) Liber (2) Unde L 9 eligendo (1) optimo (2) bono L 17 quia (1) po (2) id L 18 modo (1) Deus 〈condid〉 (2) homo L 18 licet (1) eligat id ex du (2) semper L 19 necessario (1) , status autem indifferen (2) . Aliud L 23 omnes (1) ne (2) hypotheticam L
+
+12 f. Vgl. TH. HOBBES, Elementorum philosophiae sectio prima de corpore, 1655, II, 10, art. 4–5; vgl. JOHANNES WICLIF, Dialogorum libri quattuor, Basel 1525, lib. III, cap. 8.
+
+:::
+
+[p. 1453] Omnia Deo possibilia, praeter ea quae includunt imperfectionem.
+
+Imperfectionem includit peccare, verbi gratia damnare innocentem.
+
+Damnatio innocentis est quidem in se possibilis seu non implicans contradictionem, sed non est possibilis Deo. Imo videtur aeterna damnatio innocentis ex eorum numero esse, quorum non quidem essentia, quia perfecte intelligi possunt, sed tamen existentia implicat contradictionem. Neque enim opus est examinare totam rerum harmoniam ut sciamus an Deus sit aeterne damnaturus innocentem.
+
+Ut ex pluribus perfectis Deus eligat, minus perfectum non implicat imperfectionem in Deo, nec potentiae ejus contrarium est, sed voluntati seu primo ejus decreto. Nec implicat contradictionem eum aliter statuere.
+
+Statuit Deus creando suam Gloriam procurare, ut sapientia ejus etiam aliis agnosceretur, creare creaturas ad imaginem sui, omniaque ita constituere ut perfectissima sint respectu creaturarum rationalium seu ut tanto magis sint ipsis placitura, quanto magis in intima rerum penetrabunt. Hoc primum est decretorum Dei, quo posito caetera omnia per necessariam consequentiam sequuntur. Hoc Decretum Dei, de creandis rebus, non est propositio cujus contrarium implicet contradictionem. Seu res alias praeter Deum existere non necessarium, sed liberum est.
+
+Deus cur perfectissimum eligat, nulla potest reddi ratio, quam quia vult, seu quia haec est prima voluntas divina, perfectissimum eligere. Id est non ex rebus ipsis hoc sequitur, sed pure ex eo quod Deus vult. Et libere utique vult, quia extra voluntatem ejus nulla reddi potest ratio cur velit. Liberum enim definio cujus nulla ratio reddi potest alia quam voluntas, non igitur datur aliquid sine ratione; sed ratio illa voluntati intrinseca est. Et in hoc consistit vera natura spontanei, ut ipsum sit principium, non externum. In omni itaque mente est libertas aliqua, et [concurrit] Deus ad mentis actionem, non ad primum actum mentis constituendum, alioqui non Mens ageret sed ipse solus.
+
+Mens nostra habet indifferentiam, respectu rationum; seu nulla est ratio tam valida in hac vita, quae mentem satis penetret, ut non facile ab ea consideranda averti possit, [p. 1454] eaque aversione posita semper poterit dubitare, quia non perfecte meminit demonstrationis. At impetrata visione beatifica non potest ab ea avelli, aut de his quae videt dubitare.
+
+::: editorial
+
+(zu S. 1453) 2 peccare, (1) seu (2) verbi gratia L 5 esse, (1) quae in se imp (2) quorum L 7 aeterne erg. L 7 f. innocentem (1) Si in re (2) Ut L 8 eligat, (1) perfectius, (2) , minus L 9 f. decreto (1) quod secus est (2) . Nec (a) implic〈 – – 〉 sta (b) implicat contradictionem (aa) si aliter sta (bb) eum L 11 Deus (1) creaturas aliquas (2) creare ad suam imag (3) creare omnia (4) creando L 12 agnosceretur (1) seu (2) creare L 14 Dei, (1) ex quo (2) quod solum liberum est, caetera ab (3) quo L 16 non (1) erat (2) est L 16 contradictionem. (1) Itaque (2) Seu L 18 cur (1) op (2) perfectissimum L 18 nulla (1) pos (2) potest L 19 est (1) natura voluntatis divinae, (2) prima . . . divina, L 19 eligere. (1) S (2) Id L 22 ratione; (1) 〈ita〉 (2) sed L 24 concurritque L ändert Hrsg. 25 f. solus. (1) Cur mens eligat (2) Mens L
+
+:::
+
+Potestne demonstrari haec propositio ex natura Dei, quod Deus eligit perfectissimum. Dico posse demonstrari cognita ejus voluntate, sed potestne demonstrari quod talem habeat voluntatem, nego esse demonstrabile a priori, sed esse propositionem primam seu identicam.
+
+Qui recte considerat fatebitur mihi ut principium contradictionis est origo omnium quae sciri possunt circa essentias; ita debere aliquod esse principium primum circa existentias supposito non omnia possibilia existere.
+
+Principium primum circa Existentias est propositio haec: Deus vult eligere perfectissimum. Haec propositio demonstrari non potest, est omnium propositionum facti prima, seu origo omnis existentiae contingentis. Idem omnino est dicere Deum esse liberum, et dicere hanc propositionem esse principium indemonstrabile. Nam si ratio reddi potest hujus primi divini decreti, eo ipso Deus hoc non libere decrevisset. Dico ergo hanc propositionem comparari posse identicis. Ut enim ista A est A, seu res sibi ipsi aequalis est demonstrari non potest, ita ista: Deus vult perfectissimum. Haec propositio est origo transitus a possibilitate ad existentiam creaturarum. Sed quaeres an contrarium implicet contradictionem, nempe quod Deus eligit non perfectissimum. Dico non implicare contradictionem, nisi posita jam Dei voluntate. Deus enim vult velle eligere perfectissimum, et vult voluntatem vellendi. Et ita in infinitum, quia infinitae istae reflexiones cadunt in Deum, non vero cadunt in creaturam. In eo igitur consistit totum arcanum, quod Deus non tantum decrevit facere perfectissimum, sed et decrevit decernere. Et proinde nullum signum fingi potest, quo non detur aliud signum natura prius in quo jam sit decretum. Generaliter enim statuendum est, nullum esse decretum quod non Deus alio decreto natura priore decreverit. Ex natura perfectae libertatis, extra quam ratio non est. Et hinc perfecte respondetur omnibus libertatem divinam infringentibus; et loco circuli Vasquesiani (credidit enim Vasquez velle Deum rem quia futura est, et rem [p. 1455] futuram esse quia Deus vult), habetur processus in infinitum. Si quis enim a me quaerat, Cur Deus decrevit creare Adamum. Dico, quia decrevit facere perfectissimum. Si jam quaeris a me cur decrevit facere perfectissimum, seu cur vult perfectissimum (quid enim est aliud velle quam decernere facere) respondeo id voluisse libere, seu quia voluit. Itaque voluit quia voluit velle, et ita in infinitum. Unde patet voluntatem Dei excludere aliquid ipsa prius, nec demonstrari posse hanc esse voluntatem divinam decernendi circa perfectissimum nisi supposita alia voluntate. At quia [creatura] infinitos actus simul elicere non potest; ideo libertas ejus consistit in potentia avertendi mentem ad alias cogitationes. Sed cur avertit? ob molestiam aliquam in ipso cogitando, et voluptatem in alio cogitando. Ergone mens determinatur a molestia et voluptate? Non utique. Etsi semper inclinet in partem ubi majus bonum impraesens apparet, inclinat tamen libere, ita ut posset aliud eligere; quia sponte agit.
+
+::: editorial
+
+(zu S. 1454) 1 non (1) meminit (2) perfecte L 15 decrevisset. (1) Non tamen per accidens haec voluntas Deo inest, (2) Dico L 17 ista: (1) voluntas Dei eligit (2) Deus vult L 19 eligit (1) quod non est (2) non L 20 implicare (1) in se contr (2) contradictionem, L 21 vellendi (1) , in infinitum. (2) . Et L 23 facere (1) potissimu (2) perfectissimum, L 24 detur (1) voluntas Dei natura prior (2) aliud L 25 decretum. (1) Nimi (2) Generaliter L 25 est, (1) Deum (2) nullum L 26 f. Ex . . . est. erg. L 28 Vasquesiani, (1) (voluit (2) (credidit L
+
+28–S. 1455.1 Vgl. G. VASQUEZ, Commentariorum, ac disputationum in primam partem S. Thomae tomus primus. Complectens viginti sex quaestiones priores, Alcala 1598; Ingolstadt 1609, qu. XIV, art. XIII, disp. LXV, cap. II, n. 11 f.; qu. XIX, art. III, disp. LXXX, cap. II, n. 12 f. – Vgl. N. 4412, aus p. 112.
+
+:::
+
+## 274. DE LIBERTATE ET GRATIA [Sommer 1680 bis Sommer 1684 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 7, 5 Bl. 68. 1 Bog. 2o. 2 S.
+
+A Abschrift: LH I 14 Bl. 358–361. 2 Bog. 4o. 6 S.
+
+E GRUA, Textes, 1948, S. 384–388.
+
+Übersetzung: ROLDÁN, Escritos, 1990, S. 119–122.
+
+Zur Datierung vgl. N. 271.
+
+Libertas ita explicanda est ut radicem suam habeat in natura mentis quia solae mentes sunt liberae. Itaque non collocanda est formalis ejus ratio in absoluta indifferentia, quae nihil commune habet cum mente, neque enim apparet cur absoluta indifferentia si [p. 1456] quidem possibilis est menti magis quam alteri rei competere possit. Radix ergo libertatis in eo est, quod Mens eligit non per rationes necessitatis, sed per rationes veras vel apparentes bonitatis, quibus inclinatur.
+
+::: editorial
+
+(zu S. 1455) 4 respondeo (1) quia de (2) non posse (3) libere (4) id L 5 velle, (1) etsi (2) nam (3) alioqui ibi (4) et L 7 quia (1) creaturae volunt (2) libertas non est perfecta, nec ipsa (3) creaturae L ändert Hrsg. infinitos L 8 in (1) sola (2) pos (3) potentia L 10 alio cogitando (1) A (2) Ergo (3) Ergone L 11 ubi (1) aliqu (2) majus L 23 indifferentia, (1) hoc enim posito (2) Nam illa vel possibilis est vel non (3) quae L
+
+:::
+
+Revera omnes creaturarum actus sunt contingentes, neque enim necessario sequuntur ex rei statu praecedente, sed propter decretum divinae voluntatis. Actus autem a ratione profecti liberi sunt; sive a divina sive ab humana voluntate proficiscantur. Itaque minime putandum est lapidem necessario descendere, aut corpus semel in motu positum continuare motum. Id enim tantum oritur ex libero Dei decreto.[^1456-1]
+
+Indifferentia absoluta est, cum voluntas eodem modo se habet ad utrumque oppositorum, neque ad unum magis quam ad alterum inclinatur. Quid opus est pugnare pro his quae vix unquam dantur. Talem indifferentiam non puto unquam dari, aut si daretur, quamdiu manet, non sequi actum.
+
+Indifferentia respectiva seu limitata est, cum voluntas magis quidem inclinatur ad alterutrum sed potest tamen adhuc agere vel non agere; etsi fortasse certo sit actura. Et haec est de essentia libertatis. Nulla enim datur in mente libere agente tanta inclinatio ex qua necessario sequatur actus.
+
+In omni agente immediate ante actionem ponendum est aliquid ex quo certo sequitur actio, in praesentibus circumstantiis suppositoque divino aliquo decreto observando. Nam actio habet radicem aliquam immediatam in agente, ita ut aliter affectum sit agens acturum actione a, quam acturum actione b.
+
+Mens habet facultatem non tantum alterutrum eligendi, sed et suspendendi judicium; nulla potest esse tam evidens apparentia boni (praeterquam summi) quin mens possit si velit suspendere judicium ante ultimam decisionem, idque fit dum alia cogitanda menti offeruntur, atque ipsa vel ad ea abripitur sine deliberatione, vel deliberans concludit de aliis rebus potius cogitare. Si mens non divertatur a deliberatione, certo sciri potest quid sit electura, certo enim electura est quod melius illi apparet. Neque ullum dabitur [p. 1457] exemplum in contrarium. Sed rursus unde scietur an sit divertenda an non? Inde nimirum quod ex ipsius pariter ac externorum statu sciri potest an sit interrumpenda an non. Deinde posito quod interrumpenda sit sciri potest an divertenda sit sine deliberatione, an cum deliberatione. Id enim omne non pendet a voluntate sed a serie actuum intellectus. Quod si sine deliberatione divertenda est, habemus intentum, scitur enim mentem nihil esse electuram. Quod si deliberatio secutura de prosequenda an mutanda cogitandi materia, hinc de nova ista deliberatione eadem rursus ratiocinatio institui potest et proinde tandem vel venietur ad diversionem sine deliberatione, quae praevideri potest ex natura intellectus, vel conclusionem sine diversione, quae qualis futura sit praevideri potest ex natura voluntatis. Voluntas enim nisi ad alias cogitationes divertatur certo eliget quod melius apparet. Atque hac obliqua arte nos intellectui nostro ac conscientiae opponimus, dum mutamus cogitandi objectum sive deliberato consilio, sive consuetudine ad grata delabendi. Gratia duobus modis nos juvat, uno dum intellectum illustrat, altero dum attentionem dat figitque Mentem ne objectum mutet. Nulla creatura praevidere potest quid homo sit electurus infallibiliter.
+
+[^1456-1]: Am Rande: An dici potest decreta Dei esse contingentia? Certe non sunt necessaria .
+
+::: editorial
+
+(zu S. 1456) 2 Mens (1) agit (a) se (b) alt (2) eligit L 5 voluntatis. (1) Cont (2) Actus L 5 f. autem contingentes gestr. a L 10 f. Quid . . . dantur erg. L 13 seu limitata erg. L 14 fortasse (1) non (2) certo erg. L 16 f. actus. Mens habet facultatem non tantum alterutrum eligendi, sed et suspendendi judicium gestr. In L 17 quo (1) necessario (2) certo erg. L 23 velit (1) et occasio deliberandi de muta (2) suspendere L 24 ipsa (1) menti (2) vel L 25 concludit (1) hoc potius (2) de L 26 enim (1) ap (2) electura L 26–S. 1457.1 Neque . . . contrarium. erg. L
+
+:::
+
+Inepte passim in scholis de Libertate humana disseritur nullo respectu habito ad ea quae fieri solent. Nunquam datur perfecta indifferentia, semper potuisset ratio reddi electionis, si quis accurate observasset per quas vias mens ad eam pervenit.
+
+Necessitas consequentiae est quae fundatur in principio contradictionis, seu in Hypothesi, quae id ipsum de quo quaeritur jam involvit.[^1457-2] Hinc sequitur in rebus facti nullam dari posse necessitatem consequentis, seu ut ipsae jam involvant necessitatem sine ulla Hypothesi, nam necessitas non potest demonstrari nisi per principium contradictionis, id est ex eo quod res jam supponitur. At in propositionibus aeternae veritatis res secus habet, quia ibi non agitur de existentia, sed tantum de Hypotheticis propositionibus. [p. 1458] Hinc dicendum est nullam propositionem absolutam (praeterquam eam quae sequitur ex natura Dei) esse necessariam, et sane nullum Ens per suam essentiam seu necessario existit praeter Deum.
+
+[^1457-2]: Am Rande: NB.
+
+::: editorial
+
+(zu S. 1457) 1 unde (1) sciemus eam non esse di (2) scietur L 2 ipsius (1) praeter (2) pariter L 5 intentum, (1) scimus (2) scitur L 6 secutura (1) est eodem (2) de L 7 hinc (1) rursus sciri potest utrum novae (2) de L 8 deliberatione, (1) vel ad conclusionem sine di (2) quae L 11 f. conscientiae nos str. Hrsg. opponimus L 12 sive sponte, sive gestr. deliberato L 14 dum (1) anim (2) intenti (3) attentionem L 14 figitque (1) voluntatem (2) Mentem L 14 ne (1) materiam (2) objectum erg. L 14 f. Nulla infallibiliter. erg. L 17 indifferentia, (1) nunquam (2) non (3) si quis acc (4) semper non gestr. potuisset L 17 f. reddi (1) conclusionis sive resolutionis (2) electionis, L 18 quas (1) ambages (2) vias L 19 f. in (1) principio (2) Hypothesi L 20 quo (1) ponitur (2) quaeritur L 23 f. aeternae (1) necessitatis (2) veritatis L
+
+:::
+
+In quaestione illa magna: utrum causa secunda determinet primam, an prima secundam, respondendum est, primam determinari a secunda sumta idealiter, seu ideam secundae deprehensam in intellectu divino determinare primae voluntatem. At secundam sumtam actualiter determinari a prima, seu omnem ab ea entitatem suam accipere.
+
+Nulla substantia capax est Actionis transeuntis, sed tantum immanentis, excepto solo Deo a quo substantiae caeterae dependent.
+
+Non sufficit dicere Notionem plenam creaturae involvere etiam omnem seriem gratiarum. Nam cum gratiae divinae sint liberae et a decreto proficiscantur, involvet etiam decreta divina, eorumque rationes. Itaque rursus quaeritur quae sit ratio decreti dandae gratiae. Ea igitur sumenda rursus est a consideratione reliqui quod in possibili illa notione est, praeciso gratiae decreto. Imo verum possibile est gratiae decreta innumeris copulari modis secundum certos rerum ordines, verum Deus non eligit nisi unum. Ratio igitur decretorum gratiae aut concursus sumenda est ex unoquoque ordine possibili totius universi.
+
+Quaeritur quid sit illud in voluntate humana quod attendens Deus eligit potius concurrere uni actui quam alteri. Non est actio voluntatis, quia ea concursum Dei essentialiter jam involvit. Eritne ergo simpliciter et praecise ipsa futuritas actionis, sed ista futuritas actionis estne denominatio intrinseca seu realis aliqua affectio in voluntate. Si est, voluntas non est indifferens, quippe affecta hac naturaliter praedeterminante qualitate ex qua infallibiliter sequitur actio; si ista futuritas est denominatio extrinseca, quaeritur in quanam intrinseca denominatione habeat suum fundamentum, eaque ubinam debet esse vel in Deo vel in ipsa voluntate, alia enim nihil ad rem pertinent. Si in Deo redimus ad praedeterminationem a Deo, si in voluntate redimus ad praedeterminationem idealem a creatura.
+
+::: editorial
+
+(zu S. 1458) 2 Ens (1) agit per (2) per L 5 est (1) Ideam causae (2) , primam L 6 determinare (1) primam (2) primae L 7 sumtam actualiter erg. L 10 dicere (1) Actionem (2) Notionem L 10 plenam (1) secun (2) rei (3) creaturae L 10 involvere (1) omnem (2) etiam L 12 sit (1) caus (2) ratio L 14 Imo (1) potius cum possibile sit (2) verum . . . est L 16 decretorum (1) connex (2) gratiae L 16 ordine (1) rerum (2) possibili L 19 uni (1) concursui (2) actui L 19 alteri. (1) Aut enim (2) Non L 19 ea (1) potius (2) concursum (a) prae (b) Dei L 20 involvit. (1) Nec est (2) Eritne L 23 qualitate (1) ; si est tantum (2) ex L 26 praedeterminationem (1) physicam, si in (a) voluntate redimus (b) volu (2) a L
+
+:::
+
+[p. 1459] Si considerassent homines ideam seu notionem creaturae (involventem decreta divina possibilia generalia) priorem esse decreto divinae voluntatis (actuali speciali de ipsa), quippe fundatam in ejus intellectu, utique difficultates omnes facile evitassent, atque vidissent quomodo Deus producat omnem realitatem in malis actionibus nec tamen sit causa mali, et quomodo justus sit, nec homines indifferentes determinet, alios ad miseriam alios ad felicitatem, quia ideae eorum nunquam sunt indifferentes.
+
+Quaestio celebratissima, utrum entitas illa creata seu realitas in qua consistit natura gratiae efficacis, habeat infallibilem connexionem cum consensu hominis ex vi propriae entitatis, seu an sit efficax per seipsam, an vero illa certitudo petenda sit ex conditionata scientia Dei qui praeviderat Mentem consensuram si talis gratia ei daretur. Sed re recte expensa ponamus certitudinem Dei oriri ex eo quod praevidit mentem assensuram. Quaeritur unde praeviderit hanc connexionem? Omnino tam ex consideratione mentis [quam] gratiae, scit enim tum qualis sit futurus status mentis, tum quid ei gratia sit superadditura, perinde est ac si quaeratur. Illud tamen certum est, gratiam esse primum principium activum circa pias actiones. # Quaeri[^1459-3] potest an non gratia efficax et inefficax aliquando in se ipsis sint similes.
+
+Differant vero tantum subjecto recipiente. Fieri enim potest, ut quod in uno sit efficax, in alio sit inefficax. Et in hac quaestione revera consistit totus controversiae de auxiliis nervus. An scilicet in omnibus quibus datur efficax gratia talis detur gratiae gradus, ut sua natura in quodcunque subjectum incidisset, conversionem producturus fuisset. # Utique fatendum videtur etiam ab his qui negant concursum Dei proximum immediatumque ad omnes actus, Deum alio modo concurrere ad actum amoris quam ad actum odii. Et tamen hoc videtur oblique negare P. Ludovicus de Dola pag. 107.
+
+[^1459-3]: Hujusmodi quaestiones quales sub # signis reperiuntur; a Scholasticis terminis rem reducunt ad populares.
+
+::: editorial
+
+(zu S. 1459) 1 f. (involventem . . . generalia) erg. L 2 esse (1) omni decreto (2) decreto L 2 f. (actuali ipsa) erg. L 4 atque (1) scivisse (2) vidissent L 5 nec (1) judi (2) volu (3) homines L 6 eorum (1) semper (2) nunquam L 6 f. indifferentes. (1) Non est necessaria connexio inter actiones et mentium status nam secundum certas ordinis leges (2) Quaestio L 10 praeviderat (1) ex natura Mentis secuta (2) Mentem L 13 tam L ändert Hrsg. 17 tantum (1) in objecto (2) subjecto L 18 totus (1) negotii nervus (2) controversiae L 19 scilicet (1) talis aliquis detur gr (2) in L 21 f. fuisset. (1) Deus (2) Utique L
+
+25 Vgl. LUDOVICUS A DOLA, De modo conjunctionis concursuum Dei et creaturarum, Lyon 1634.
+
+:::
+
+[p. 1460] Quia impossibilis est conditio ut creatura operetur sine concursu Dei, impossibile est Deum praevidere quid creatura per se vi solius liberi arbitrii esset factura. Itaque tantum Deus praevidere potest ad quod Creatura sit magis inclinata. Itaque res redit tandem ad doctrinam de inclinationibus non necessitantibus.
+
+Anne dici potest etiam in ideis possibilibus contineri voluntates divinas, et concursus ad existendum tanquam possibiles, seu ipsum formale existentiae habeat essentiam quandam, sed inde sequeretur nova opus esse existentia. Formalis ratio existentiae rerum contingentium videtur esse Enti necessario placere. At nonne possibile est et ea quae non existunt Enti necessario placere? utique possibile est, sed non est possibile ea magis placere. Ergo nec possibile est ea existere. Difficultas solvenda.
+
+## 303. DE NATURA VERITATIS, CONTINGENTIAE ET INDIFFERENTIAE ATQUE DE LIBERTATE ET PRAEDETERMINATIONE [Ende 1685 bis Mitte 1686 (?)]
+
+Überlieferung:
+
+L Konzept: LH IV 4, 3 Bl. 1–4. 2 Bog. 4o. 6 1/4 S.
+
+E COUTURAT, Opusc. et fragm., 1903, S. 16–24.
+
+Übersetzungen: 1. SCHMIDT, Fragmente, 1960, S. 426–438. 2. PARKINSON, Philosophical
+
+Writings, 1973, S. 96–105.
+
+13 rendoit (1) les choses bonnes encor pour (2) rendoit str. Hrsg. tout L
+
+[p. 1515] Nach N. 271 bis 274 ist dies wohl die erste Schrift, in der Leibniz zu einem gewissen Abschluß bzw. Durchbruch bei der Behandlung der Freiheitsproblematik gelangt ist. Wohl zum erstenmal wird hier klar der Zusammenhang zwischen Freiheit und unendlicher Analyse der kontingenten Wahrheiten über freie, singuläre Substanzen aufgestellt, was nach Leibniz’ eigenem späteren Bekunden (in N. 326 vom Sommer 1689) sein entscheidender Ansatz für die Lösung des Freiheitsproblems war. Auch die Stellungnahme zur Indifferenz wirkt nun abgeschlossen, wenn auch nicht ganz widerspruchsfrei. Einerseits wird ein gewisser Raum für die Indifferenz (als Nicht-Notwendigkeit weder im metaphysischen noch physischen Sinn) gelassen, andererseits bleibt die Wahl der singulären Substanz aus der Perspektive Gottes physisch determiniert, weil im Begriff der singulären Substanz alle Determinanten analytisch enthalten sind. Insgesamt macht die Schrift gegenüber den früheren, eher problematisierenden Aufzeichnungen zu diesem Thema einen abgerundeten und wohlformulierten Eindruck. Grundlage für unsere von inhaltlichen Erwägungen her naheliegende Datierung ist das wenn auch selten belegte bzw. erschlossene Wasserzeichen.
+
+Verum est affirmatum, cujus praedicatum inest subjecto. Itaque in omni Propositione vera affirmativa, necessaria vel contingenti, universali vel singulari Notio praedicati aliquo modo continetur in notione subjecti; ita ut qui perfecte intelligeret notionem utramque, quemadmodum eam intelligit Deus, is eo ipso perspiceret praedicatum subjecto inesse. Hinc sequitur omnem scientiam propositionum quae in Deo est, sive illa sit simplicis intelligentiae, circa rerum Essentias; sive visionis circa rerum existentias, sive media circa existentias conditionatas, statim resultare ex perfecta intellectione cujusque termini, qui ullius propositionis subjectum aut praedicatum esse potest; seu scientiam a priori complexorum oriri ex intelligentia incomplexorum.
+
+Absolute Necessaria propositio est, quae resolvi potest in identicas, seu cujus oppositum implicat contradictionem. Exemplo rem ostendam in numeris: Binarium vocabo omnem Numerum qui exacte dividi potest per 2 et Ternarium vel Quaternarium, qui exacte dividi potest per 3 vel 4, et ita porro. Omnem autem numerum intelligamus resolvi in eos qui eum exacte dividunt. Dico igitur hanc propositionem Duodenarius est quaternarius esse absolute necessariam quia resolvi potest in identicas hoc modo: Duodenarius est binarius senarius (ex definitione), senarius est binarius ternarius (ex definitione). Ergo Duodenarius est binarius binarius ternarius. Porro Binarius Binarius est [p. 1516] quaternarius (ex definitione). Ergo Duodenarius est quaternarius ternarius. Ergo duodenarius est quaternarius. Qu. E. Dem. Quod si aliae definitiones fuissent datae, semper tamen ostendi potuisset rem tandem eodem redire. Hanc ergo Necessitatem appello Metaphysicam vel Geometricam. Quod tali necessitate caret, voco contingens, quod vero implicat contradictionem, seu cujus oppositum est necessarium, id impossibile appellatur. Caetera possibilia dicuntur.
+
+::: editorial
+
+(zu S. 1515) 16 notionem (1) subjecti (2) utramque erg. L 16 is (1) perspiceret a (2) eo L 17 scientiam (1) vel (2) propositionum erg. quae L 18 sit (1) visionis (2) simplicis L 19 f. perfecta (1) cognitione cujusque (2) Notionis (3) subject (4) intellectione L 20 cujusque (1) subjecti et (2) termini (a) praedicati (b) subjecti scilice (c) qui L 21 ; seu . . . ex (1) sci (2) intelligentia incomplexorum erg. L 22 Absolute erg. L 22 in (1) identicam, (2) identicas, L 22 f. cujus (1) contrarium (2) oppositum erg. L 25 porro. (1) Esto jam propositi (2) Definitio (3) Omnem L 28 (ex definitione) erg. L 28 f. (ex definitione) erg. L
+
+:::
+
+In Contingenti Veritate, etsi praedicatum revera insit subjecto, tamen resolutione utriusque licet termini indefinite continuata, nunquam pervenitur ad demonstrationem seu identitatem, soliusque Dei est infinitum semel comprehendentis perspicere quomodo unum alteri insit, perfectamque a priori intelligere contingentiae rationem quod in creaturis suppletur experimento a posteriori. Itaque Veritates contingentes ad necessarias quodammodo se habent ut rationes surdae, numerorum scilicet incommensurabilium, ad rationes effabiles numerorum commensurabilium. Ut enim ostendi potest Numerum minorem alteri majori inesse, resolvendo utrumque usque ad maximam communem mensuram, ita et propositiones essentiales seu veritates demonstrantur, resolutione instituta donec perveniatur ad terminos quos utrique termino communes esse, ex definitionibus constat. At quemadmodum Numerus major alterum incommensurabilem continet quidem, licet resolutione utcunque in infinitum continuata, nunquam ad communem mensuram perveniatur, ita in contingente veritate, nunquam pervenitur ad demonstrationem quantumcunque notiones resolvas. Hoc solum interest, quod in rationibus surdis nihilominus demonstrationes instituere possumus, ostendendo errorem esse minorem quovis assignabili, at in Veritatibus contingentibus ne hoc quidem concessum est menti creatae. Atque ita arcanum aliquod a me evolutum puto, quod me ipsum diu perplexum habuit; non intelligentem, quomodo praedicatum subjecto inesse posset, nec tamen propositio fieret necessaria. Sed cognitio rerum Geometricarum atque analysis infinitorum hanc mihi lucem accendere, ut intelligerem, etiam notiones in infinitum resolubiles esse.
+
+::: editorial
+
+(zu S. 1516) 1 (ex definitione) erg. L 2 quaternarius. (1) Quodcunque autem (2) Qu. E. Dem. erg. Quod L 4 Geometricam. (1) Necessario autem opp (2) Quod L 6 f. dicuntur. Et propositiones quibus discimus quid necessarium impossibileve sit vel non sit possis appellare essentiales quae scilicet ad rerum essentias pertinent, suntque aeternae veritatis erg. u. gestr. In L 8 termini (1) in infinitum (2) indefinite erg. L 10 rationem (1) Ita (2) quod L 12 ut (1) numeri incom (2) rationes L 12 scilicet erg. L 13 enim (1) Numerus (a) ef (b) alium (2) ostendi L 14 minorem (1) comm (2) alteri L 14 ad (1) communem (2) maximam L 15 mensuram, (1) quo facto res (2) ita L 16 terminos (1) qui utrique insunt, tam praedicato quam subjecto (2) quos L 17 major (1) effa (2) alterum L 20 f. in (1) commensurabil (2) irrationali (3) rationibus L 23 est (1) humanae menti (2) menti creatae L
+
+:::
+
+[p. 1517] Hinc jam discimus alias esse propositiones quae pertinent ad Essentias, alias vero quae ad Existentias rerum; Essentiales nimirum sunt quae ex resolutione Terminorum possunt demonstrari; quae scilicet sunt necessariae, sive virtualiter identicae; quarumque adeo oppositum est impossibile sive virtualiter contradictorium. Et hae sunt aeternae veritatis, nec tantum obtinebunt, dum stabit Mundus, sed etiam obtinuissent, si Deus alia ratione Mundum creasset. Ab his vero toto genere differunt Existentiales sive contingentes, quarum veritas a sola Mente infinita a priori intelligitur, nec ulla resolutione demonstrari potest; talesque sunt, quae certo tempore sunt verae, nec tantum exprimunt quae ad rerum possibilitatem pertinent, sed et quid actu existat, aut certis positis esset contingenter extiturum, exempli causa, me nunc vivere, solem lucere, etsi enim dicam solem lucere in nostro hemisphaerio hac hora, quia talis hactenus ejus motus fuit, ut posita ejus continuatione id certo consequatur, tamen (ut de continuandi obligatione non necessaria taceam) et prius talem ejus fuisse motum similiter est veritas contingens, cujus iterum quaerenda esset ratio, nec reddi plene posset, nisi ex perfecta cognitione omnium partium universi, quae tamen omnes vires creatas superat, quia nulla est portio materiae, quae non actu in alias sit subdivisa, unde cujuslibet corporis partes sunt actu infinitae; quare nec sol nec aliud corpus perfecte a creatura cognosci potest; multo minus ad finem analyseos perveniri potest si moti cujusque corporis motorem et hujus rursus motorem quaeramus, pervenitur enim semper ad minora corpora sine fine. Deus autem non indiget illo transitu ab uno contingente ad aliud contingens prius aut simplicius qui exitum habere non potest (ut etiam revera unum contingens non est causa alterius, etsi nobis ita videatur), sed in qualibet singulari substantia ex ipsa ejus notione omnium ejus accidentium veritatem perspicit, nullis extrinsecis advocatis, quia una quaeque alias omnes totumque universum suo modo involvit. Hinc omnes propositiones quas ingreditur existentia et tempus, eas ingreditur eo ipso tota series rerum; neque enim τοÁ nunc vel hic nisi relatione ad caetera intelligi potest. Unde tales propositiones demonstrationem sive [p. 1518] resolutionem terminabilem qua appareat earum veritas non patiuntur. Idemque est de omnibus accidentibus substantiarum singularium creatarum. Imo etsi quis cognoscere posset totam seriem universi necdum ejus rationem reddere posset, nisi ejus cum aliis omnibus possibilibus comparatione instituta. Unde patet cur nullius propositionis contingentis demonstratio inveniri possit, utcunque resolutio notionum continuetur.
+
+::: editorial
+
+(zu S. 1517) 1 f. Essentias, (1) et sunt aeternae veritatis; ea nimirum (2) alias vero (a) pertinere (b) quae erg. sunt L 3 demonstrari; (1) alias vero (2) quae L 3 necessariae, (1) aut quae (2) sive L 3 identicae; (1) et qua (2) seu (3) quarumque L 7 contingentes, (1) quae (2) quarum L 10 esset (1) extiturum (2) contingenter L 12 id (1) conse (2) certo L 12 f. (ut . . . non necessaria erg. taceam) erg. L 14 plene erg. L 14 f. perfecta (1) reso (2) cognitione L 16 cujuslibet (1) continui (2) corporis L 18 minus (1) in (a) ratio (b) quaerendo (2) ad L 18 analyseos erg. L 19 corpora erg. L 20 autem (1) sine (2) non indiget L 21 f. qui . . . contingens erg. non est (1) ratio (2) causa . . . videatur) erg. , (a) in quolibet contingente ex ipsa ejus notione veritatem acc (b) sed erg. in L 23 perspicit, (1) dum (2) nullis . . . quia L 25 eas erg. L 25 f. enim (1) istud hic et (2) τοÁ L 27–S. 1518.1 sive (1) finitam (2) resolutionem (a) finitam (b) terminabilem L
+
+:::
+
+Non tamen putandum est solas Propositiones singulares esse contingentes; dantur enim et inductione colligi possunt propositiones quaedam plerumque verae; dantur et fere semper verae saltem naturaliter, ita ut exceptio miraculo ascribatur; quin puto dari propositiones quasdam in hac serie rerum universalissime veras, nec unquam ne miraculo quidem violandas, non quod violari non possint a Deo, sed quod ipse cum hanc seriem rerum eligeret, eo ipso eas observare decrevit (tanquam specificas hujus ipsius electae seriei proprietates). Et per has semel positas ex vi decreti divini reddi potest ratio aliarum propositionum universalium vel etiam plerumque contingentium quae in hoc universo notari possunt. Nam ex primis Legibus seriei essentialibus sine exceptione veris, quae totum scopum Dei in eligendo universo continent, atque adeo etiam miracula includunt; derivari possunt subalternae Leges naturae, quae Physicam tantum habent necessitatem, quibus non nisi miraculo ob intuitum alicujus causae finalis potioris, derogatur; et ex his denique aliae colliguntur quarum adhuc minor est universalitas, easque demonstrationes hujusmodi universalium intermediorum ex se invicem (quarum pars Physicam scientiam facit) etiam creaturis revelare potest Deus. Sed nunquam ad universalissimas leges neque ad singularium perfectas rationes analysi ulla deveniri posset, ea enim cognitio necessario soli Deo propria est. Nec vero turbare debet, quod dixi Esse Leges quasdam huic Seriei Rerum essentiales, cum tamen has ipsas Leges non necessarias atque essentiales, sed contingentes atque existentiales supra dixerimus. Nam cum ipsam seriem existere sit contingens, et a libero Dei decreto pendeat, etiam Leges ejus erunt absolute quidem contingentes; hypothetice tamen necessariae atque tantum essentiales posita serie.
+
+::: editorial
+
+(zu S. 1518) 2 omnibus (1) pro (2) accidentibus L 2–6 Imo . . . seriem (1) universam (2) universi . . . continuetur. erg. (a) Si quae autem propositiones reperientur (b) U (c) Sunt (d) Porro sunt etiam quaedam propositiones contingentes quae tamen perpetuo verae sunt, (e) Sunt tamen proposit (f) Non L 11 eo ipso erg. L 12 semel positas (1) d (2) ex . . . divini erg. L 13 etiam erg. L 14 seriei (1) essentia (2) sine exceptione veris consequuntur aliae (3) essentialibus erg. sine L 16 subalternae erg. L 17 f. necessitatem, (1) nec nisi miraculo ob intuitum alicujus causae finalis potioris, violantur, (2) quibus . . . derogatur; L 19 demonstrationes (1) univ (2) hujusmodi L 19 f. intermediorum erg. ex se invicem erg. (quarum facit) erg. L 21 universalissimas . . . ad erg. L 22 posset, (1) quae (2) ea enim cognitio L 26 hypothetice (1) tantum (2) tamen erg. L 26 f. tantum erg. L 27 posita (1) seriei existentia. (2) serie. L
+
+:::
+
+[p. 1519] Haec jam proderunt nobis ad Substantias Liberas ab aliis discernendas. Omnis substantiae singularis accidentia si de ipsa praedicentur faciunt propositionem contingentem quae Metaphysicam necessitatem non habet. Et quod lapis hic deorsum tendit sublato fulcimento, non necessaria sed contingens propositio est, nec potest talis eventus ex hujus lapidis notione ope universalium notionum, quae ipsam ingrediuntur demonstrari, itaque solus Deus hoc perfecte perspicit. Solus enim novit, an non ipse per miraculum suspensurus sit legem illam naturae subalternam, qua gravia deorsum aguntur, neque enim alii intelligunt universalissimas leges, nec infinitam analysin pertransire possunt, qua opus est ad notionem hujus lapidis cum notione totius universi seu legibus universalissimis connectendam. Attamen illud saltem praesciri potest ex Legibus naturae subalternis, nisi miraculo suspendatur lex gravium consequi descensum. At vero Substantiae Liberae sive intelligentes majus aliquid habent, atque mirabilius ad quandam Dei imitationem; ut nullis certis Legibus universi subalternis alligentur, sed quasi privato quodam miraculo, ex sola propriae potentiae sponte agant, et finalis cujusdam causae intuitu efficientium in suam voluntatem causarum nexum atque cursum interrumpant. Idque adeo verum est, ut nulla creatura sit καρδιογνωÂ στης quae certo praedicere possit, quid Mens aliqua secundum naturae leges sit electura, quemadmodum alias praedici potest saltem ab angelo quid acturum sit aliquod corpus si naturae cursus non interrumpatur. Quoniam quemadmodum libera voluntate Dei cursus universi, ita libera voluntate mentis cursus cogitationum ejus mutatur, sic ut nullae quemadmodum in corporibus possunt, ita et in mentibus leges subalternae universales ad praedicendam mentis electionem sufficientes constitui queant. Quod tamen nihil prohibet, quin Deo quemadmodum de futuris suis actionibus, ita de futuris mentis actionibus constet, dum et seriei rerum quam elegit, suique adeo decreti vim perfecte novit simulque etiam intelligit quid Mentis hujus quam ipse in numerum rerum extiturarum admisit, notio contineat; quippe [p. 1520] quae hanc ipsam seriem rerum ejusque universalissimas leges involvit. Et quanquam illud unum sit verissimum, mentem nunquam eligere quod impraesentiarum apparet deterius; attamen non semper eligit, quod impraesentiarum apparet melius; quia ampliare, et judicium usque ad ulteriorem deliberationem suspendere atque animum ad alia cogitanda avertere potest. Quod utrum factura sit nullo satis indicio ac lege praefinita astringitur; in his certe Mentibus, quae non satis in bono aut malo sunt confirmatae. Nam in Beatis aliud dicendum est.
+
+::: editorial
+
+(zu S. 1519) 2 substantiae (1) acciden (2) singularis L 2 f. praedicentur (1) fit propositio contingens (2) faciunt . . . quae . . . habet erg. L 4 f. talis eventus erg. L 7 naturae (1) quae f (2) subalternam, L 8 alii (1) nota (2) intelligunt L 10 seu (1) seriebus (2) legibus erg. L 11 miraculo (1) suspendantur (2) suspendatur lex gravium L 13 Legibus (1) universis, (2) universi L 14 et solo gestr. finalis L 15 causarum erg. L 16 f. καρδιογνωÂ στης (1) sive (2) ut erg. (a) accurate (b) certo producere (3) quae . . . praedicere L 17 quid sine miraculo gestr. Mens L 17 sit (1) actura, (2) electura, L 17 f. quemadmodum (1) praedicere possumus, o (2) alias (a) pote (b) praedici L 18 saltem ab angelo erg. L 18 naturae erg. L 20 mutatur, (1) nat (2) nece (3) ita (4) sic L 21 possunt erg. L 21 leges naturae gestr. subalternae L 21 f. ad (1) praedicendum fat (2) praedicendam . . . sufficientes erg. L 23 f. et (1) seriem (2) seriei L 24 quam (1) admisit (2) elegit, (a) et (b) suique L 24 vim (1) et 〈 – 〉 (2) perfecte (a) 〈co〉 (b) intelligit (c) novit erg. L 25 in (1) seriem rerum (2) numerum rerum extiturarum L
+
+:::
+
+Hinc etiam intelligi potest, quaenam sit illa indifferentia quae libertatem comitatur. Nimirum uti contingentia opponitur necessitati metaphysicae, ita indifferentia non tantum Metaphysicam, sed et physicam necessitatem excludit. Physicae quodammodo necessitatis est, ut Deus omnia agat quam optime (quanquam in nullius creaturae potestate sit hanc universalem applicare singularibus, ullasque hinc consequentias certas ducere, de actionibus divinis liberis). Physicae etiam necessitatis est, ut confirmati in bono angeli aut beati ex virtute agant (ita quidem ut in quibusdam etiam a creatura certo praedici possit, quid sint acturi), physicae necessitatis est, ut grave deorsum conetur, ut anguli incidentiae et reflexionis sint aequales, aliaque id genus. Sed physicae necessitatis non est ut Homines in hac vita aliquid eligant, utcunque speciosum et apparens bonum particulare; quanquam id interdum vehementis sit praesumtionis. Tametsi enim nunquam sit possibile, dari omnimodam illam metaphysicam indifferentiam ut mens eodem plane modo se habeat ad utrumque contradictoriorum et prorsus aliquid sit in aequilibrio cum tota ut ita dicam natura (jam tum enim admonuimus praedicatum etiam futurum vere inesse notioni subjecti, nec proinde mentem Metaphysice loquendo esse indifferentem, cum Deus ex perfecta quam habet ejus notione jam omnia futura ejus accidentia perspiciat nec Mens nunc ad suam perpetuam Notionem sit indifferens), tanta tamen Mentis indifferentia [p. 1521] physica est, ut ne physicae quidem necessitati (nedum Metaphysicae ) subsit, hoc est, ut nulla sit ratio universalis vel lex naturae assignabilis ex qua ulla Creatura quantumcunque perfecta, et de statu mentis hujus edocta certo colligere possit, quid mens saltem naturaliter (sine extraordinario Dei concursu) sit electura.
+
+::: editorial
+
+(zu S. 1520) 2 nunquam (1) scienter agere quod (2) eligere (a) det (b) quod impraesentiarum erg. L 4 ad (1) propi (2) maj (3) ulteriorem L 4 f. atque . . . avertere erg. L 5 sit (1) praedici non potest (2) nullo L 5 indicio (1) regu (2) ac lege (a) praesciri potest, cum (b) praefinita L 7 f. est in quibus minuta est indifferentia erg. u. gestr. . Hinc L 8 f. quae (1) in lib (2) libertatem (a) comitari solet (b) comitatur. (aa) Equidem (bb) Nimirum (aaa) libertatem (bbb) uti L 9 necessitati (1) physica (2) metaphysicae, L 10 f. quodammodo erg. L 11 optime (1) , ut angeli (2) (quanquam L 14 f. ut (1) praedici in quibusdam possit, (2) in . . . possit, L 15 est, ut corpus aliquod magnum solidum fluidis circumdatum, nec ullis quae impediri possint satis vicinum continuet, motum gestr. ut L 18 particulare erg. L 18 id erg. L 18 praesumtionis. (1) Tanta enim indifferentia est nostra, ut ex levissima causa dubitatio aliqua nobis injiciatur, vel libertatis exercendae libido veniat, quod ex solis naturae legibus nemo potuisset praevidere. Atque in hoc nostra consi (2) Si (3) Tametsi L 19 ut (1) omnia pro (2) mens L 19 f. plane erg. L 20 f. et . . . aliquid erg. . . . natura erg. L 22 loquendo non erg. u. gestr. esse L 23 jam tum gestr. omnia L 25–S. 1521.1 indifferentia (1) ph (2) physica erg. est, L
+
+:::
+
+Hactenus natura Veritatis, contingentiae, et indifferentiae, libertasque inprimis humanae Mentis quantum ferebat institutum exposita est. Nunc vero examinandum est, quomodo res contingentes inprimis autem substantiae liberae in eligendo atque operando a divina Voluntate atque praedeterminatione dependeant. Et quidem pro certo habendum arbitror tantam esse rerum dependentiam a Deo, quanta justitia divina salva esse maxima potest. Et inprimis ajo quicquid in rebus perfectionis sive realitatis est a Deo continuo produci, limitationem autem seu imperfectionem esse a creaturis, uti vis corpori alicui ab agente impressa limitationem accipit a corporis materia sive mole, ac naturali corporum tarditate, et majore existente corpore minor caeteris paribus oriatur motus. Itaque etiam id quod in ultima aliqua Liberae Substantiae determinatione reale existit, a Deo produci necesse est inque hoc puto consistere quicquid de physica praedeterminatione dici cum ratione potest. Intelligo autem Determinationem fieri cum Res in eum statum venit, ut quid sit factura physica necessitate consequatur, nam Metaphysica necessitas in mutabilibus nunquam est cum ne illud quidem metaphysicae necessitatis sit, ut corpus nullo alio corpore impediente in motu perseveret. Ita ut proinde tum demum aliquid contingens metaphysica necessitate determinatum sit, cum reapse actu existit. Sufficit ergo determinatio qua actus aliquis fit physice necessarius. Intelligo determinationem quae indifferentiae obstat, nempe ad aliquam necessitatem metaphysicam vel physicam seu consequentiam demonstrabilem ex resolutione terminorum, legibusve naturae: nam [p. 1522] determinatio quae non necessitatem quidem imponit contingentibus, sed certitudinem atque infallibilitatem tribuit (quo sensu dici solet, futurorum contingentium esse determinatam veritatem), ea nunquam coepit, sed semper fuit, cum in ipsa subjecti notione perfecte intellecta ab aeterno contineatur, sitque ipsissimum scientiae cujusdam divinae, sive visionis, sive Mediae, objectum.
+
+::: editorial
+
+(zu S. 1521) 2 universalis erg. (1) assigna (2) vel L 2 ulla (1) Mens (2) Creatura L 3 perfecta, (1) colligere certo (2) et . . . colligere (a) (supposito div (b) possit, L 4 mens saltem erg. L 4 naturaliter ( etiam erg. u. gestr. sine L 4 sit (1) factura (2) electura. L 10 ajo erg. L 10 quicquid (1) reale est in rebus o (2) in L 11 vis (1) acc (2) corpori L 12 mole, (1) ut tardita (2) ac L 12 f. corporum (1) tem (2) tarditate, L 13 et (1) quanto majus sit cor (2) majore L 13 f. etiam (1) ad actum ultim (2) id L 14 aliqua (1) contingentis aut etiam Liberi (2) Liberae Substantiae L 15 f. inque . . . potest erg. L 16 Determinationem (1) cum (a) Mens (b) aliquid (2) fieri cum Res L 17 sit (1) facturum (2) factura L 17 Metaphysica (1) nunquam est Mutationis 〈et talis〉 (2) necessitas L 19 perseveret. (1) Sufficit igitur physica necessi (2) Nisi tum demum aliquid metaphysice necessarium dicamus cum reapse a (3) Ita L 19 proinde erg. L 20 contingens (1) metaphysice (2) metaphysica L 20 determinatum (1) existat, (2) sit, L 21 qua (1) res (2) actus L 22 quae (1) contingentiae (2) indifferentiae erg. obstat, (a) nam infalli (b) nempe L 22 necessitatem (1) ex universalibus rationibus pendentem (2) metaphysicam vel physicam L 23 ex (1) universalibus (2) resolutione L
+
+:::
+
+Hinc jam videtur cum Divina Praedeterminatione conciliari posse Decretum Dei actuale conditionatum vel saltem ex quibusdam praevisis pendens, quo Deus decernit largiri praedeterminationem. Nam Deus ex ipsa hujus substantiae singularis liberae consideratae ut possibilis notione perfecte intellecta praevidet, quaenam ejus electio sit futura, illi igitur in tempore praedeterminationem accommodare decernit posito quod eam decernat admittere inter existentia. Verum intimas rationes rimanti nova nascitur difficultas, cum enim electio creaturae sit actus essentialiter involvens divinam praedeterminationem, sine quo ipsam exerceri impossibile est, et conditionem impossibilem poni divino decreto non sit ferendum, consequens est, ut Deus eo ipso dum praevidet electionem creaturae futuram, praevideat etiam suam praedeterminationem adeoque suam etiam praedeterminationem futuram, ac proinde videt suum etiam decretum quemadmodum certe omnia contingentia essentialiter divina decreta involvunt. Ergo decerneret quia se jam decrevisse, videt, quod est absurdum.
+
+Huic difficultati, quae sane in hoc argumento maxima est ita puto satisfaciendum. Concedo sane Deum dum decernit praedeterminare Mentem ad certam aliquam electionem ideo quia electuram praevidit si ad existendum admitteretur praevidere etiam suam praedeterminationem, suumque praedeterminandi decretum videre (sed ut possibile); nec tamen decernere quia decrevit. Quia scilicet primum Mentem aliquam considerat ut possibilem, antequam decernat ipsam debere actu existere. Possibilitas enim seu Notio mentis creatae existentiam non involvit. Dum autem eam considerat ut possibilem, perfecteque cognoscit, in ea omnia ejus futura eventa ut possibilia, sed cum ipsa ( [p. 1523] quanquam contingenter, infallibiliter tamen) connexa jam nunc intelligit, hoc est perfecte scit omnia quae sint ipsius existentiam consecutura. Porro eo ipso dum Notionem Substantiae hujus singularis consideratae adhuc ut possibilis perfecte intelligit, etiam decreta sua, sed itidem considerata ut possibilia intelligit, quia ut veritates necessariae solum intellectum divinum involvunt, ita contingentes voluntatis decreta. Nimirum Deus videt sese infinitis modis posse Res creare, aliamque atque aliam prodituram seriem rerum, prout alias Leges Seriei seu alia decreta sua primitiva eliget. Itaque eo ipso dum considerat hanc Mentem, quae hanc rerum seriem secum involvit, etiam considerat decretum, quod haec Mens atque haec series involvit. Utrumque ut possibile, nondum enim decernere statuit; seu nondum decrevit quaenam specialia serierum decreta tam generalia quam ipsis connexa specialia, sit electurus. Tandem ubi Deus eligit unam serierum eique involutam hanc Mentem his eventibus vestitam futuram, eo ipso etiam de aliquibus suis decretis seu rerum legibus, quae in rerum eligendarum notionibus involvuntur decernit. Et quia Deus eo ipso dum seriem hanc eligere decernit, infinita etiam decreta facit, de omnibus quae in ea involvuntur, adeoque et decretis suis possibilibus seu Legibus a possibilitate ad actualitatem transferendis, hinc patet aliud esse decretum quod Deus in decernendo respicit, aliud esse decretum quo Deus decernit illud reddere actuale nempe id quo hanc rerum seriem et hanc in ea Mentem ad existentiam et in ea illud decretum eligit; sive aliud esse decretum possibile in seriei ac rerum seriem ingredientium notione involutum, quod decernit reddere actuale; aliud esse decretum quo decretum illud possibile decernit reddere actuale. Quam reflexionem Decreti unius super alterum eo minus debemus mirari quia utique Voluntatis quoque divinae decreta libera intellectui divino objici oportet priusquam facta intelligantur. Neque enim facit Deus, quod non se facere jam sciat. Hinc jam intelligimus quomodo divinae praedeterminationis physicae necessitas cum decreto [p. 1524] praedeterminandi ex actibus praevisis stare possit, tantumque abesse ut Deus Judam proditorem fieri debere, absolute decernat, ut potius ex notione Judae independenter a suo decreto actuali videat eum fore proditorem. Nec proinde decernit Deus Judam debere esse proditorem, sed tantum Judam quem praevidet fore proditorem nihilominus debere existere, quoniam infinita sua sapientia videt, hoc malum immenso lucro, majoribus bonis pensari nec aliter res melius sibi constare. Quod ipsum non velle, sed permittere est. Decreto jam Judam peccatorem extiturum consequenter etiam decernitur et cum prodendi tempus veniet concursum praedeterminationis actualis esse accommodandum. Quae tamen tantum ad id quod in pravo hoc actu perfectionis inest terminatur, ipsa creaturae notione, in quantum limitationem involvit, quod unum a Deo non habet actum ad pravitatem contrahente. Itaque in eo sum ut credam modo haec duo teneantur perfectionem omnem in creaturis a Deo esse, imperfectionem ab earum limitatione; caeteras sententias attente consideratas in ultima analysi conciliari universas.
+
+::: editorial
+
+(zu S. 1522) 3 ea (1) contingentiae (2) nunquam L 4 intellecta (1) contineatur (2) ab L 4 sitque (1) ipsum (2) ipsissimum L 5 divinae erg. L 7 conditionatum (1) ex fide praevisa in (2) ex quibusdam praevisis (3) vel L 7 pendens, (1) de danda physica quam (2) quo L 8 hujus erg. L 9 consideratae ut possibilis erg. L 10 f. posito . . . existentia erg. L 11 f. Verum (1) haec intimas rationes rimanti nondum penitus satisfaciunt. (2) intimas . . . difficultas, L 15 futuram erg. L 16 adeoque (1) suum jam decretum praedeterminandi futurum (2) suam L 16 futuram, (1) adeoque su (2) ac proinde (a) suum etiam d (b) videt L 17 quemadmodum . . . involvunt erg. L 20 Deum (1) decernentem (2) dum decernit L 21–23 electionem (1) , d (2) praevisam (3) praevisam praevidere etiam (a) suumque (b) decretum suum, (4) ideo . . . admitteretur erg. . . . videre (a) , ut possibile; (b) (sed ut possibile); L 24 existere. (1) Et in hac Mentis co (2) Est autem eadem Mentis hujus consideratae ut possibilis notio, et cons (3) Possibilitas L 26 cognoscit, (1) omnia in ea ut possibilia intelligit, (2) in L 26 ejus futura eventa erg. L
+
+:::
+
+::: editorial
+
+(zu S. 1523) 3 Substantiae (1) singular (2) hujus L 3 singularis (1) ejusque 〈e〉 (2) consideratae L 4 quia (1) omnia co (2) ut (a) necessaria (b) veritates necessariae L 6 posse (1) Mundum (2) Res L 7 alia erg. L 7 sua erg. L 7 f. dum (1) Deus eli (2) considerat L 9 atque haec series erg. L 10 decreta (1) sit praelaturus (2) aut (3) universi (4) quas tam generales quam ipsis connexas (5) tam L 12 eique futuram L 17–19 decretum (1) quo Deus decernit actualem praedeterminationem, (a) aliud quod (b) vel potius electionem decreti nempe id quo hanc rerum seriem eligit; aliud esse decretum quod (aa) Deus in eligendo (bb) decernendo respicit, nempe decretum possibile essentialiter in seriei ac rerum seriem ingredientem notione involutum (aaa) Decreta enim Dei de seriebus diversis eligendis non sunt eadem cum decretis (bbb) Decretum enim Dei (2) quod . . . et . . . Mentem erg. ad existentiam erg. et . . . decretum erg. . . . actuale. L 21 quo (1) ipsum (2) decretum illud possibile L 23 libera erg. (1) in intellectui divino esse intelliguntur, (2) intellectui . . . objici (a) debeant, (b) oportet, L 23 facta (1) intelliguntur. (2) intelligantur. L 24 f. quomodo (1) Deus eo ipso (2) divinae L 25 praedeterminationis (1) necessita (2) physicae L 25 decreto (1) ex actibus (2) praedeterminandi L
+
+:::
+
+## [p. 1590] 308. DE LIBERTATE CREATURAE RATIONALIS [Frühjahr bis Sommer 1686 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 7, 5 Bl. 66–67. 1 Bog. 2o. 4 Sp.
+
+E GRUA, Textes, 1948, S. 380–384.
+
+Übersetzung: ROLDÁN, Escritos, 1990, S. 199–205. Zur Datierung vgl. N. 309. Sunt quaedam Principia quae Theologi et philosophi in negotio Divinae voluntatis atque operationis circa Status et Actus creaturarum ante omnia ponunt, nec tam in iis probandis quam explicandis et contra objectiones salvandis occupantur. Eaque sunt haec potissimum Deus est omniscius. Deus est justus. Creaturae earumque operationes a Deo dependent. Substantia rationalis agit libere. Gratia hominem ad bonum opus quodcunque movet et in eo perficiendo adjuvat. Quia Deus est omniscius, hinc praescit futura contingentia absoluta, item futura contingentia conditionata. Quia Deus est justus hinc non est causa mali. Item ratio esse debet cur Deus uni largiatur quae ad salutem requiruntur, alteri vero non praebeat, eaque ratione permittat ut damnetur.
+
+::: editorial
+
+(zu S. 1590) 8 (1) Duo (2) Tria erg. sunt (a) quae (b) principia (c) summa capita Doctrinae totius de fato erg. Libero Arbitrio, gratia, praescientia, praedestinatione; primo Deum esse justum, secundo Hominem esse liberum, tertio (aa) DE (bb) hominem nullum bonum opus peragere sine auxilio gratiae (cc) omne bonum opus auxilio gratiae incipi et peragi. (3) In Doctrina de divina justitia (4) Sunt L 9 Status et erg. L 9 f. creaturarum (1) maxime liberarum, non tam probant, quam contra objectiones salvare contendunt, haec ante omnia ponunt, atque ab objectionibus defendunt, quae huc fere redire mihi videntur. (2) ante occupantur. L 14 f. dependent. (1) Homo est liber (2) Homo (3) Creatura (4) Substantia rationalis erg. agit libere. L 18 f. conditionata. Item Deus scit omnia possibilia gestr. Quia L 19 mali. (1) Item Deus non sine causa alios quidem ad salutem (2) Item hinc erg. u. wieder gestr. ratio L 19 f. uni potius quam alteri gestr. largiatur (1) salutem (2) quae L 20 requiruntur (1) aliis vero ea neget (2) alteri praebeat, L
+
+:::
+
+[p. 1591] Quia creaturae et creaturarum operationes a Deo dependent, hinc nulla est realitas in rebus, quae non continue a Deo sit sive producatur. Idem ergo dicendum est de realitate quae est in operatione libera bona vel mala.
+
+Quia creatura rationalis agit libere, ideo actus ejus sunt contingentes seu non necessarii.
+
+OBJECTIONES
+
+[1.] Nulla potest ratio reddi, cur Deus uni det salutem alteri neget. Nam si dicas Deum dare salutem ei qui bonos actus exercet; quaeritur porro cur Deus det uni ut exerceat bonos actus, alteri non det. Si dicas Deum uni dare gratiam exercendi bonos actus aut resistendi pravis, quia ei placuit ut in aliis justitiam in aliis misericordiam suam [exerceret]; rationem non reddis cur in Petro potius quam in Juda gratiam an vero misericordiam exercere voluerit. Quod si nulla omnino a parte rei talis ratio est Deus est injustus. Sin datur ea ratio, debet ea consistere in re quae non data est a Deo, alioqui redimus ad priora. Ergo debet in creaturis rationalibus discrimen aliquod intelligi ante omne decretum Dei de illis.
+
+[2.] Non potest explicari quomodo Deus non sit causa peccati, si producit omnem realitatem quae est in actu peccaminoso.
+
+[3.] Si Deus praescit quid creatura sit electura[,] creatura non habet libertatem eligendi.
+
+[4.] Si nullus est actus qui non habeat rationem cur sit potius quam non sit, nullus erit actus contingens sive liber. Semper enim ratio reddi poterit cur elegerit Voluntas, ergo posita illa ratione non potuit non eligere.
+
+[5.] Non potest explicari quomodo creatura sit libera, si ille ipse actus voluntatis, qua se determinat in eligendo a Deo producitur. Adam deliberat utrum debeat pomum edere [p. 1592] vel non. Si est indifferens per omnia ad utrumque oppositorum, quaeritur transitus ab indifferentia ad alterutrum inclinans unde oriatur? Si ab ipso homine, quaeritur quid homo ad eum contribuat. Nam si ad ipsum contribuit, jam eo ipso transiit ex statu indifferentiae, ergo nihil ad eum contribuit. Itaque a Deo solo producitur. Sequeretur ergo non hominem revera eligere nisi quia prius eligit Deus, quod in peccaminosis actibus est absurdum. Certe Deus producit quicquid reale est in hoc transitu, imo Deus prius agit in hoc transitu quam homo, pone enim hominem prius agere, utique illius actus realitas rursus ab homine producitur. Dicendum ergo est hominem cum eligit peccare, non esse indifferentem immediate ante electionem, alioqui transitus ad malum non ipsi esset ascribendus sed Deo. Quotiescumque ergo homo peccat, majorem inclinationem habet ad peccandum quam non peccandum, sed hinc videtur non esse liber.
+
+::: editorial
+
+(zu S. 1591) 1 creaturae (1) a Deo ut est (2) et creaturarum L 2 Deo (1) produca (2) promanet (3) producatur (4) sit sive producatur. (a) Ponamus enim realitatem quae est in aliqua actione a Deo non produci, erit aliquo (b) Idem L 5 f. necessarii. (1) Objectiones: Si Deus omnia infallibiliter praescit, (a) hom (b) creatura rationalis non est libera in agendo. Si dantur contingentia, ex quorum consideratione sciri non potest (2) OBJECTIONES: Si dantur effectus contingentes, ita ut ex consideratione causarum sciri non possit, utrum sint futuri vel non, (a) omnino sciri non potest (b) illi praesciri non possunt. Ratio nulla (3) OBJECTIONES L 7 f. dicas (1) hoc fieri quia (2) Deum L 8 exercet; (1) respondetur (2) quaeritur L 9 gratiam (1) bonorum actuum aut (2) exercendi L 11 exerceres L ändert Hrsg. 11 in (1) Titio potius (2) Petro L 17 f. peccaminoso. (1) Non potest explicari quomodo (2) Si L 21 elegerit (1) Mens (2) Voluntas, L 22 f. eligere. (1) Si Deus (2) Non L 23 ipse (1) transitus (2) actus erg. L 24 producitur. (1) Judas deliberat an debeat Christum prodere an non. Ponamus (a) Judam esse penitus in (b) Judas vel penitus eodem modo se h (2) Adam L
+
+:::
+
+Actus liber est actus contingens seu non necessarius creaturae rationalis.
+
+Necessarium est cujus contrarium implicat contradictionem. Itaque tota rerum Series non est necessaria sed contingens et libere a Deo electa, possibile enim erat alio modo mundum creari sed Deus elegit quod melius visum est.
+
+Potest aliquid esse certum licet non sit necessarium. Ita si ratio sit major eligendi quam non eligendi, certum est non tamen necessarium electionem esse secuturam.
+
+Decretum creandi est natura sua posterius praevisione qualis res sit futura. Rispolis.
+
+Accurate loquendo Deus non decernit dare aut negare gratiam aut salutem; vel praedeterminare ad certos actus; sed tantum creare Personam illam cujus plena Notio talem seriem actuum liberorum et gratiarum involvit, sive in qua sub possibilitatis ratione considerata Deus hujusmodi eventuum seriem concipit.
+
+::: editorial
+
+(zu S. 1592) 1 non. (1) Si est prorsus erg. indifferens ante electionem, et tamen transit ad electionem, et is transitus producitur a Deo, nihil ad id contribuente Adamo (nam id quod contribuit vel est actus adhuc indifferens, qui nihil contribuit, vel ad alterum inclinans, et de hoc similiter quaeritur, ut detra (2) Si L 2 inclinans (1) utrum sit ab (2) an non produca (3) unde L 5 eligere (1) sed Deum (2) nisi L 8 f. peccare, (1) nunquam esse indifferentem (2) non . . . immediate L 11 f. liber (1) Liberum est (2) Liberum est quod est (3) Actus L 14 electa, (1) quia infiniti alii mun (2) possibile L 17 non tamen necessarium erg. L 17 f. secuturam , non tamen necessarium gestr. . Decretum L 18 Rispolis. erg. L 19 decernit (1) , dare (2) praedeterminare voluntatem (3) dare aut negare erg. L 19 gratiam (1) dare salutem (2) aut L 19 salutem; (1) determinare (2) vel praedeterminare L 20 creare (1) Ens (2) Personam illam erg. L 21 f. sive . . . concipit erg. L
+
+18 Wohl gemeint J. M. DE RISPOLIS, Status controversiae praedefinitionum et praedeterminationum cum libero arbitrio, Paris 1609.
+
+:::
+
+[p. 1593] Distinguendum est inter ea quae sunt de cujusque rei Essentia, et quae sunt de ejus notione. De rei essentia sunt quae ei necessario ac perpetuo competunt, de rei vero singularis notione sunt, etiam quae ei contingenter seu per accidens competunt, seu quae Deus in ipsa perfecte intellecta videt.
+
+Revera quaecunque rebus non competunt perpetuo, ea ne tunc quidem cum competunt necessario competunt, sed accedente decreto divino vel humano.
+
+Status rei unus ex alio non sequitur necessario, licet semper sequatur certo seu semper ratio sit cur potius sequatur quam non. Ratio inquam inclinans non necessitans. Posset enim non sequi sine ulla implicatione, etsi sequatur. Et ratio illa sumenda est vel a Divina voluntate, vel a creata.
+
+Ex his intellectis non difficulter respondetur ad objectiones.
+
+Ad obj. 1: Omnino verum est discrimen intelligi in creaturis ante Decretum Dei de ipsis. Scilicet ante decretum creandi. Nullo autem alio opus est decreto quam hoc uno, quia caetera in eo continentur. Nam persona creabilis, antequam creatio ejus decernatur, jam in notione sua plena possibili continet omnia quae de ea si crearetur dici possent et inter alia certam gratiarum et actionum liberarum seriem. Itaque Deus non decernit illi dare gratiam vel alia quoad essentiam sed quoad existentiam; seu Deus decernit creare creaturam cujus plena notio talem seriem gratiarum et liberarum actionum involvit, quanquam non necessario sed connexione qualem rei natura postulat.
+
+Ad obj. 2. Deus producit realitatem quae in peccato est, quia status creaturae hunc a Deo concursum exigit vi Divini Decreti, quod sapientiae Dei fuit conforme. Status autem creaturae sive ante lapsum, sive post lapsum, fuit inclinatio ad peccandum ex ipsa natura creaturae; si divina gratia non sustineretur, per lapsum autem ea inclinatio [p. 1594] ordinaria et perpetua facta est. Status autem ille voluntarius est; et licet inclinatus ad peccandum, tamen nondum peccaminosus. Datur tamen aliquis primus status non voluntarius, saltem initio cum creatura primum esse incipit.
+
+::: editorial
+
+(zu S. 1593) 1 cujusque (1) rei (2) individui (3) rei erg. L 2 f. de (1) ejus notione vero (2) rei . . . notione L 3 f. , seu . . . videt erg. L 5 perpetuo (1) ea ipsis tantum competunt (a) per accidens (b) libere aut per accidens (2) ea L 6 f. humano. (1) Unus status rei ex alio non sequitur necessario (a) sed semper accedente (b) sed tamen ob (2) Status L 7 rei mutabilis gestr. unus L 8 f. Ratio . . . enim non (1) oriri (2) sequi . . . sequatur. erg. L 12 discrimen (1) esse (2) intelligi L 14–16 continentur. (1) Et creatura (a) una (b) possibilis erg. jam in notione sua plena continet (aa) certam gratiarum divinarum erg. et liberarum actionum seriem. Itaque Deus non concernit eas illi dare, quoad earum essentiam, sed quoad earum existentiam, quatenus decernit talem creaturam creare. (bb) certam gratiarum et actionum liberarum serierum. (2) Nam persona (a) creanda (b) creabilis . . . plena possibili erg. continet . . . seriem. L 18 et liberarum actionum erg. L 20 producit (1) id quod in peccato reale est, (2) realitatem L 20 status (1) hominis (2) creaturae erg. (a) vi decretorum Dei hoc postulat. Status autem hominis semper talis est (b) hunc L 22 autem hominis sive gestr. creaturae L 23 divina (1) virtute (2) gratia erg. L 23 sustineretur (1) post (2) per erg. L
+
+:::
+
+Ad obj. 3. Praescientia non tollit liberum arbitrium, imo nec praeordinatio. Nam utraque praesupponit liberam actionem jam in rei notione involvi et tantum decernit rem tali notione praeditam creare. Et in hoc consistit praeordinatio.
+
+Ad obj. 4. Ratio cur actus aliquis potius sit quam non sit, non necessitat, alioqui cum certo eligitur quod optimum vel est vel apparet, destructa esset libertas.
+
+Ad obj. 5. Jam responsum est in obj. 2. Conceditur scilicet hominem non esse absolute indifferentem, sed habere majorem inclinationem ad peccandum, immediate antequam eligit peccare. Non ideo tamen minus libere peccat, ut dictum est ad obj. 4.
+
+Notandum est eos qui hominem jam lapsum et sub massa corrupta comprehensum constituunt objectum electionis et reprobationis recte quidem facere, sed non ideo impedire quin creatura aliqua ut Adamus, aut Angelus ante lapsum objectum electionis et reprobationis intelligatur. Ubi distinguendum est inter essentiam et existentiam actus sive status. Angelus a bono desciturus non erat objectum reprobationis, nisi quoad existentiam hujus status, nam quoad essentiam status jam hanc dispositionem involvebat, ut si crearetur certum esset damnatum iri, non aliter ergo eum Deus reprobavit, quam quod reprobationis certum creare decrevit.
+
+::: editorial
+
+(zu S. 1594) 1 est; (1) licet nondum peccaminosus. (2) et L 10 absolute erg. L 15 f. intelligatur. (1) Sed revera (2) Angel (3) Adamus distin (4) Ubi . . . status. erg. Angelus (a) malus (b) a L 16 objectum (1) praedest (2) electionis seu gestr. reprobationis, L 17 existentiam (1) quoad essentiam (a) actus (b) status erg. vero jam erat hanc dispositionem invol (2) hujus . . . involvebat L 18 crearetur (1) foret damnandus. (2) certum . . . iri, L 19 quod (1) reprobandum (2) reprobationis certum L
+
+:::
+
+## [p. 1595] 309. DE LIBERTATE, FATO, GRATIA DEI [Frühjahr bis Winter 1686/87 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 6, 2 Bl. 3–6. 2 Bog. 2o. 8 S. auf Bl. 3 ro – vo oben, 4 ro, 3 vo unten, 4 vo – 6.
+
+E GRUA, Textes, 1948, S. 306–322.
+
+Übersetzungen: 1. ROLDÁN, Escritos, 1990, S. 77–96. 2. E. CATTIN in J.-B. RAUZY, Discours de métaphysique, Paris 1993, S. 113–134.
+
+Dieses und das vorangehende Stück widmen sich erneut (wie schon N. 303) dem Problem von Freiheit, Vorherbestimmung und göttlicher Gnade, wobei hier vorwiegend das theologische Bedürfnis im Vordergrund steht, auf der Grundlage der anerkannten, die christliche Gottesvorstellung betreffenden Prinzipien Gottes Güte und Gerechtigkeit zu beweisen. Während N. 308 die vorauszusetzenden Prinzipien, dann mögliche Einwände und Erwiderungen skizziert, bietet unser Stück, ähnlich vorgehend, die ausgeführte und zusammenhängend durchformulierte Version, die ausblickend den Pyrrha-Deukalion-Mythos aufgreift, um das Dilemma und seine Auflösung zu veranschaulichen. Die Datierung kann sich auf die Wasserzeichen der beiden Stücke stützen, wobei der Belegzeitraum für das vorhergehende Stück etwas später anfängt und etwas früher aufhört als der für unser Stück. Da jenes aber als Vorarbeit zu unserer Abhandlung aufzufassen ist, kann sie nicht früher angesetzt werden.
+
+Inter omnes Quaestiones quae post stabilitam providentiam agitantur, nulla latius per religiones nationesque diffusa est, aut plus in humana vita potest, quam quae de Libertate, Fato, Gratia Dei, et connexis, non sine animorum motibus virtutisque ac pietatis praejudicio passim ultro citroque disputatur. Tractari autem dupliciter potest, vel inchoando rem a primis principiis, atque inde ducendo conclusiones utcunque se dabunt, vel proponendo sibi conclusiones quas religio et philosophia practica teneri jubent, easque inter se et cum principiis philosophiae speculativae conciliare; quarum methodorum, etsi eodem ducant, illa sublimior haec facilior ac pro imbecillitate nostra tutior est.
+
+Has ergo positiones quae sequuntur quoad ejus fieri potest, tenendas atque tuendas viri pii ac prudentes censent.
+
+Deus est omniscius, nullaque adeo formari potest enuntiatio intelligibilis, de qua illi non certo constet, utrum vera an falsa sit. Itaque non praeterita tantum et praesentia, sed futura quoque contingentia, eaque non tantum absoluta, sed et [p. 1596] conditionata ipsi sunt nota. Ut mirari subeat, Christianos, et philosophos circa futura conditionata contrarium defendere aut vel suspicari potuisse.
+
+::: editorial
+
+(zu S. 1595) 23 et (1) moralis do (2) morum disciplina (3) philosophia practica L 24 easque (1) ex (2) inter se et cum L 25 , etsi eodem ducant erg. L 25 pro imbecillitate nostra erg. L 27 quae sequuntur erg. L 28 f. censent. (1) Deum esse omniscium, nullamque formari posse quaestionem vel propositionem, (2) Deus . . . intelligibilis, L
+
+:::
+
+Deus omnia praeordinat. Neque enim otiosa ejus scientia est neque quicquam intellectui ejus objicitur, quin sit objectum voluntatis, neque judicium ille suspendere potest, quoniam suspensio judicii non nisi ex ignorantia proficisci potest.
+
+Deus est creator omnium rerum. Hoc est nullum datur Ens reale quod non sit a Deo, sive id ex nihilo sive ex alio praecedente producatur. Itaque quotiescunque nova aliqua realitas existere incipit in natura, sive sit substantia sive accidens, modo sit ab aliis realiter distincta, eam a Deo produci tenendum est.
+
+Deus est conservator omnium rerum. Hoc est non tantum res cum existere incipiunt a Deo producuntur, sed etiam non continuarent existere, nisi continua quaedam Dei actio ad ipsas terminaretur, qua cessante ipsae quoque cessarent. Ita ut revera creatio nihil aliud sit quam hujus actionis initium. Scio quosdam viros doctos hanc propositionem in dubium vocare, quoniam putant ea admissa justitiam et sanctitatem divinam in periculo esse, verum ipsi, opinor fatebuntur, si removeri possit hoc periculum Deo dignius esse, ut creaturae non initio tantum suae existentiae, sed continue a divina operatione dependeant. Itaque merito hanc positionem inter eas colloco, quae tuendae sunt, si fieri potest.
+
+Deus est summe justus. Hoc ita intelligo, non quemadmodum illi qui dicunt justum esse quod potentiori placet, et omnipotentiam jus dare in omnia; sed ita ut si fingeremus Deum deposita potestate sua sapientissimorum judicium subire velle (quemadmodum fabulantur de Marte qui in Areopago causam dixit), si quidem possibile esset alios praeter Deum esse summe sapientes; omnium sententia pronuntiandum foret, justum esse dominum, et justa judicia ejus. Vel ut possibiliora dicam, si nos intelligeremus satis divinam gubernationem, non tantum agnituri essemus in Dei potestate esse alio vase uti [p. 1597] ad honorem, alio ad contumeliam, sed etiam ipsum unoquoque aptissime et sapientissime usum esse, ita ut nulli qui totam rerum harmoniam intelligeret, locus conquerendi futurus esset, nisi forte de seipso.
+
+::: editorial
+
+(zu S. 1596) 1 f. futura erg. L 2–5 potuisse. (1) Deum esse omnipotens. (2) Deus est omnipotens. Hoc est Deus (a) quicquid (b) quidvis facere potest, quod non implicat contradictionem, in hoc enim fere notio possibilis impossibilisque consistit. Itaque potentia Dei non tantum se ad ea extendit quae fuerunt aut erunt, sed et quae saltem (aa) concipi (bb) distincte atque adaequate concipi possunt. Atque hoc sensu scriptura sacra dicit, non esse apud Deum impossibile ullum verbum, verbum scilicet quod intelligi (aaa) potest (bbb) perfecte potest. (3) Deus omnia praeordinat. (a) Hoc est (b) Non oti (c) Neq (4) Deus . . . potest. L 7 id erg. streicht Hrsg. id L 11 f. quaedam (1) esse (2) Dei L 14 vocare, (1) vi (2) quoniam (a) verent (b) putant L 15 fatebuntur, (1) ces (2) si L 22 dixit) (1) hoc est si consideremus Deum ipsum non tant (2) tunc (3) si L 24 ut (1) magis ad (2) possibiliora L
+
+22 Vgl. OVID, Metamorphoses, VI, 70; JUVENAL, Satirae, 9, 101. 26–S. 1597.1 alio contumeliam: vgl. Röm. 11, 21.
+
+:::
+
+Deus non est causa mali sive peccati. Hoc ita intelligendum est, ut malum divinae voluntati nullo modo imputari possit, etiamsi realitas physica in malo non posset non, ut alia Entia omnia, a Deo dependere. Sed hoc postea explicandum est distinctius.
+
+Deus vult omnes homines salvos fieri, omnibusque gratiam tribuit sufficientem. Hanc propositionem scio a quibusdam Christianis negari, quoniam putant eam cum divina illa supereminentia atque efficacia stare non posse. Sed ipsi opinor negare non poterunt suam sententiam duram admodum videri ac multos offendere, itaque si nostra positio defendi potest, salva divina magnitudine, utique potius tuenda est. Danda enim opera est, ut Deum non minus Optimum, quam Maximum esse intelligamus.
+
+Homines habent libertatem in agendo non tantum a coactione, sed etiam a necessitate. Itaque nulla unquam praecepta Dei sunt homini impossibilia servatu, neque unquam deest gratia qua possibilia reddantur.
+
+Hae sunt positiones potissimae, quas inter se et cum recta ratione conciliari pietatis et virtutis plurimum interest. Si ergo inspiciantur propius ante omnia videtur incompatibile Deum esse omniscium et actiones dari liberas. Nam si Deus infallibiliter praescivit Petrum esse abnegaturum, infallibile id erat Petrum esse abnegaturum. Quodsi infallibile, utique erat necessarium. Ad hoc respondetur, infallibilitatem non facere necessitatem. Petrum enim non fuisse abnegaturum, quia Deus praesciverat, sed Deum praescivisse quia Petrus erat abnegaturus. Et cum omissa etiam praescientia Dei futurorum contingentium in se sit determinata veritas, adeoque ab aeterno verum fuerit Petrum esse abnegaturum; utique praescientiam debere veritatem relinquere qualis erat nempe contingentem.
+
+::: editorial
+
+(zu S. 1597) 1 ad (1) iram (2) honorem erg. L 9 eam (1) quam (2) cum (a) efficacia ac supere (b) divina L 9 supereminentia (1) stare non posse. Sed cum contraria sint dura admodum et plerosque homines pios offendant, (a) impios vel (b) malos vel (2) et (3) atque L 10 poterunt (1) contrariam (2) suam erg. L 11 nostra (1) sententia (2) positio erg. L 11 potest, (1) salvis divinis perfectionibus (2) salva L 16 possibilia (1) reddi possint (2) reddantur L 18 Si (1) porro (2) ergo erg. L 18 f. inspiciantur (1) accuratius videntur (2) propius (a) videntur pugnare inter se. Nam si Deus omnia praescit, (aa) sequitur (bb) praescivit ab aeterno quod Petrus erat abnegaturus. Et quidem Deum esse erg. omniscium et actiones dari liberas videtur (aaa) cons (bbb) esse incompatibile. (b) ante . . . liberas. L 21 f. respondetur, (1) aliud esse infallibile (a) aliu (b) seu certum, aliud necessarium, et (2) infallibilitatem necessitatem (a) et (b) Petrum enim L 22 enim erg. L 23 abnegaturus. (1) Sed regeritur (2) Et idem futurum (3) Et cum (a) ab (b) omissa L 25 debere erg. L
+
+7 vult . . . fieri: 1. Tim. 2, 4.
+
+:::
+
+[p. 1598] Verum regeret aliquis, rem futuram seu nondum existentem, quae aeternae praeexistenti infallibiliter conformis esse debet, non debere causam dici aeternae illius, sed potius effectum, et ex hoc ipso quod ab aeterno jam determinata erat haec veritas utique eam non posse esse contingentem. Et posita ejus certitudine cum initio nullus adhuc existat Petrus, adeoque nec abnegatio, utique in rebus extra Petrum positis jam ante existere aliquid, unde ea abnegatio infallibiliter consequitur, sive id sit praescientia Dei sive ejus realitas objectiva nempe illa ipsa aeterna veritas; quae certe reale est quicquam, ubicunque demum subsistat, sive in causis, sive in divino intellectu, sive in divina voluntate. Quodcunque autem ex his quae longe ante existunt, infallibiliter sequitur, id utique necessarium esse.
+
+::: editorial
+
+(zu S. 1598) Der folgende Absatz wurde von Leibniz zwar nicht gestrichen, jedoch am Rande durch die beiden nachfolgenden Absätze – wohl erst nach Abschluß der Schrift – inhaltlich ersetzt. Daher geben wir ihn im Kleindruck wieder:
+
+Sed respondendum est, concedi quidem existere aliqua ante existentiam Petri, ex quibus infallibiliter sequatur Petrum esse abnegaturum, nempe ejus ideam vel notionem perfectam possibilem ex omnium de Petro veritatum realitatibus objectivis constantem, sive sint necessariae et ex Petri essentia fluentes, sive sint contingentes, eamque possibilis de Petro notionis realitatem in Deo subsistere ab aeterno: at non ideo concedi necessariam esse Petri abnegationem; necessarium enim definimus cujus oppositum implicat contradictionem. Jam vero diversissima sunt, ex positis aliquid sequi infallibiliter, ac proinde esse hypothetice necessarium, et aliquid sine ulla suppositione existentium, ex sola necessitate essentiarum sive ex terminis vel ideis demonstrari, adeoque contrarium contradictionem implicare. At instabis, Petri abnegationem vel aliud tale sequi ex essentia Divina, Deus enim vi essentiae suae futura omnia praevidet scientiaque sive visionis sive media dicatur, non in genere tantum, sed et cujuscunque veritatis praevisae in specie, videtur esse Deo essentialis. Respondeo essentiale quidem esse Deo, ut praevideat quamlibet veritatem, seu ut possit resolvere omnem
+
+1–3 aliquis, (1) potius (2) rem futuram (a) et non (b) seu . . . et erg. L 3 f. utique erg. L 4 contingentem. (1) Et si quis dicat ab aeterno (2) Et cum nihil existat de Petro, praeexistat ejusque abnegatione (3) Et (a) cum (b) posita . . . initio erg. L 5 jam ante erg. L 6 unde ea abnegatio erg. infallibiliter consequitur erg. L 6 f. praescientia (1) sive (2) Dei . . . nempe L 9 voluntate. (1) Id autem utique necessarium esse, nulloque modo liberum, (a) ex quo (b) si longe ante existant aliqua, unde ipsum infallibiliter consequatur. (2) Quodcunque L 14 est, (1) non concedendo (2) concedi L 14 ante (1) consequentia (2) existentiam L 15–17 abnegaturum, (1) sed non ideo (2) nempe ejus (a) essentiam (b) ideam . . . perfectam erg. . . . constantem (aa) ex omni (bb) sive (aaa) est (bbb) sint . . . contingentes (aaaa) cujus (bbbb) possibil〈is〉 Petri (cccc) eamque . . . Petro erg. . . . concedi L 20 suppositione (1) ex ipsis existentiarum (2) existentium L 20 necessitate (1) essentiae demonstrari (2) essentiarum L 20 vel ideis erg. L 21 instabis, (1) futura contingentia erg. sequi ex (2) Petrum esse abnegaturum (3) Petri tale L 22 praevidet (1) , videtur (2) tam enim scientia visionis, quam scientia media, cum omnibus suis objectis, est ipsi essentialis. (3) Seu (4) scientiaque L 23 dicatur, (1) videtur Deo esse (2) non L 23 veritatis (1) in specie, videtur esse Deo (2) praevisae L
+
+:::
+
+[p. 1599] quaestionem; sed non esse ipsi essentiale, ut resolvat ipsam affirmando vel negando; esse quidem essentiale ipsi, ut resolvat eam vere, sed cum ipsa veritas hic non sit essentialis, ideo nec essentialis ipsi erit Resolutio. Sed porro instabis, unde oriatur tandem illa resolutio quaestionis, si non ex essentia divina, quandoquidem veritas illa objectiva cui conformis est resolutio, nullam aliam sedem suae realitatis habere potest, quam ipsum Deum, quando ab aeterno nulla alia praeter Deum substantia existit. Hic plurimis viris doctis et piis videtur confugiendum necessario esse ad id unum, quod in Deo non est essentiale, sed liberum nempe decretum voluntatis, a quo solo principium contingentiae in rebus peti possit.
+
+Hic alterutrum dicendum est, vel realitatem objectivam scientiae divinae aut veritatis futurorum contingentium sive absolutorum sive conditionatorum esse Deo essentialem vel pendere ab aliquo libero decreto Dei. Cum enim ea realitas non alibi sit quam in Deo tertium opinor, dari nequit. Exempli causa realitas objectiva aeterna hujus veritatis, quod Ciclagitae obsessi Davidem Sauli essent tradituri, vel pendet vel non pendet ab hypothesi seu conditionali itidem veritate, antecedentis alicujus aut in ea realitate impliciti decreti divini de concurrendo propinque aut remote, seu de aliis ad hanc Ciclagitarum electionem praesupponendis; si non ab eo pendet, aut si ab eo pendet quidem, sed decretum istud supponit tandem aliud futurum conditionale contingens a nullo amplius decreto dependens, dicendum est essentialem quidem esse Deo hujus veritatis realitatem, objectum tamen ipsum contingens liberum manere, seu contingentiam alicujus veritatis posse esse Deo essentialem. Nisi quis malit uti processu in infinitum, alia semper decreta in aliis conditionalibus veritatibus, et haec rursus in decretis fundando. Quodsi talia dici non possunt, et processus in infinitum in istis suppositionibus videtur absurdus, nec defendi [p. 1600] potest contingentiam esse essentialem, et non videtur aliquid positivum vel hypothetice in creaturis statui posse, quod non implicet aliquam divinae voluntatis actionisque liberae suppositionem, itaque ex mente ista rejicientium superest ut confugiatur ad id unum quod in Deo non est essentiale, sed liberum, nempe decretum voluntatis, a quo solo principium contingentiae in rebus peti possit. Atque ita dicendum foret, veritates contingentes ex combinatione quadam, potentiae, intellectus, et voluntatis divinae, resultare, nec proinde necessarias reddi, licet omnino ab aeterno consistant, nec aliam praeter Deum sedem habeant suae realitatis.
+
+::: editorial
+
+(zu S. 1599) 1 ut (1) non (2) resolvat L 2 hic erg. L 2 ideo erg. L 4 quandoquidem (1) nihil aliud ab aeterno existit (2) veritas L 4 objectiva (1) nullam (2) cui L 5 f. Hic (1) ver (2) mihi videtur salvo aliorum judicio tantum (3) plurimis . . . videtur L 7 f. voluntatis, . . . peti (1) potest (2) possit. erg. (a) Itaque dico a divinis decretis liberis (aa) oriri (bb) seu a dispositione providentiae omnia gubernantis (b) Neque enim video quid aliud in Deo sit ad rem pertinens, quam intellectum et voluntatem, quodsi ex intellectu solo divino sequeretur haec veritas Petrum esse abnegaturum, objecta autem divini intellectus non sint res non existen (c) Itaque dicendum est veritates contingentes ex combinatione quadam intellectus ac voluntatis Dei resultare, nec proinde necessarias reddi; licet omnino erg. ab aeterno consistant, neque adeo gestr. aliam praeter Deum sedem habeant suae realitatis. (d) Hic (aa) duplex occurit responsio, una est (bb) alterutrum vel erg. L 8 realitatem (1) qu (2) objectivam L 8 f. divinae (1) adeoque futurorum contingentium veritatem (2) aut . . . contingentium L 12 quod (1) Deus (2) habitantes (3) Ciclagitae (a) David (b) obsessi (aa) Saulem (bb) Davidem L 12–15 pendet (1) ab hypothesi seu conditionali veritate, antecedentis alicujus decreti divini vel non. (2) vel . . . aut in ea realitate erg. . . . praesupponendis; L 13 itidem erg. L 16 aliud (1) decretum (2) futurum L 18 realitatem (1) quia tamen ipsa veritas est de contingente libero (2) objectum L 21 f. in (1) de (2) istis (a) depen (b) suppositionibus L
+
+12 Ciclagitae . . . tradituri: vgl. 1. Kön. 23, 7–14.
+
+:::
+
+Hic vero videre mihi videor subtilem aliquem philosophum sic porro urgentem: Deus qui sine exacta cognitione nil decernit, perfectissime novit, etiam antequam decernat Petrum hunc (qui postea abnegavit) existere debere, quid de Petro sit futurum si existat sive quod idem est, habet in suo intellectu notionem vel ideam Petri ut possibilis perfectissimam omnes veritates circa Petrum continentem, quarum realitas objectiva totam Petri naturam sive essentiam constituit, ac proinde essentiale Petro est abnegare Deoque id praenoscere. Respondendum est in hac completa Petri possibilis notione quam Deo obversari concedo contineri non tantum essentialia, seu necessaria, quae scilicet ex notionibus incompletis sive specificis fluunt, adeoque ex terminis demonstrantur, ita ut contrarium implicet contradictionem, sed et contineri, existentialia ut ita dicam sive contingentia, quia de natura substantiae individualis est, ut notio ejus sit perfecta atque completa, omnesque circumstantias individuales etiam contingentes ad minima usque contineat, alioqui non ultimata esset, nec a quavis alia distingueretur, nam quae vel in minimo differrent, diversa forent individua, et notio vel in minima circumstantia adhuc indeterminata, non foret ultimata, sed duobus individuis diversis communis esse posset. Haec tamen individualia non ideo sunt necessaria, neque ex solo intellectu divino pendent, sed et ex decretis divinae voluntatis quatenus ipsa decreta ut possibilia ab intellectu [p. 1601] divino considerantur. Nam diversa individua possibilia, diversis ordinibus sive seriebus rerum possibilibus insunt, et quaelibet series possibilium individuorum non tantum a notionibus specificis quae eas ingrediuntur, sed et a quibusdam decretis liberis pendet, quibus illius seriei ordo fundamentalis et ut ita dicam leges constituuntur. Itaque manet quod dixi secundum hanc explicationem contingentia non tantum ab essentiis sed et liberis Dei decretis pendere, adeoque nullam in illis esse, nisi certo modo hypotheticam necessitatem.
+
+::: editorial
+
+(zu S. 1600) 1 videtur (1) ulla (2) aliquid (a) vel hypothetice (b) positivum L 2 statui (1) , quod (2) posse, L 3 suppositionem, (1) his inquam (2) constit (3) secundum hanc sequentiam (4) haec inquant qui sentiunt (5) itaque . . . rejicientium L 6 quadam, (1) intellectus (2) potentiae, L 10 qui . . . decernit, erg. L 11 hunc . . . abnegavit) erg. L 12 vel ideam erg. L 12 ut erg. L 13 perfectissimam sive ideam gestr. omnes L 13 quarum (1) ver (2) realitas L 14 proinde (1) naturale est (2) essentiale L 15 Deoque id praenoscere erg. L 16 obversari (1) non nego (2) concedo erg. L 16 contineri quo erg. u. gestr. non L 16 essentialia, (1) sed (2) seu L 16 necessaria, (1) sed et ut ita dicam Existentialia sive contingentia; (2) quae L 16 f. scilicet (1) non (2) ex (a) solis (b) notionibus L 19 natura (1) individui est, ut notio (2) substantiae L 20–23 completa, (1) alioqui non ultimata esset, nec a quavis alia distingueretur. (2) omnesque . . . distingueretur, (a) quae in ali (b) nam (aa) si vel in minimo (bb) quae posset L 24 ideo (1) fiunt (2) sunt erg. L 24 necessaria, (1) quia ne (2) sed habent aliquam dependentiam (3) neque L 25 ipsa decreta erg. L
+
+:::
+
+Verum hic eo ipso dum res in voluntatem divinam refunditur in aliam induimur difficultatem de divina Praeordinatione sive Fato. Et defensa libertate humana videtur prodi sanctitas divina. Utique enim Deus omnes quaestiones determinat, et eas quidem quae absolute necessariae sunt, tantum intelligendo, seu ideas sui intellectus contemplando circa contingentes autem videtur semper exercere suam voluntatem contribuendo ad hoc ipsum ut alterutrum oppositorum contingentium praevalere possit, neque unquam sese habere otiose. Itaque nullus actus contingens ei offertur circa quem non decernat Deus utrum existere an non existere debeat. Quare et peccatum existere debere decernet, certe talia facit decreta, ex quibus si cum essentiis rerum copulentur actus infallibiliter sequitur.
+
+::: editorial
+
+(zu S. 1601) Der in Kleindruck folgende Text wurde von Leibniz gestrichen und durch den nächsten Absatz ersetzt:
+
+Eritque adeo, quod merito horremus, autor peccati Deus, non homo, qui nondum existit, et decretum Dei aeternum non potest aliquando non exequi. Haec sunt fateor difficilia, quae tamen Deo juvante superare non desperamus. Fatendum est igitur veritatem aeternam alicujus contingentiae non aliam posse habere realitatem, quam quae partim ab intellectu partim a voluntate divina fluit; item Deum de omnibus futuris contingentibus, etiam peccaminosis decreta facere; non tamen eum velle vel decernere, ut peccatum existat, sed decernere ut peccatum permittatur, adeoque autorem peccati non esse. Verum inquies cum tota rerum futurarum series a divinis decretis promanet, nec homo adhuc ullus existat, et tamen ex his quae nunc decernit Deus infallibili
+
+2 rerum (1) insunt (2) possibilibus L 3 a (1) Divinis decretis liberis (2) quibusdam L 4 seriei (1) harmonia sive (2) ordo (a) contineretur (b) universalis consti (c) fundamentalis L 5 secundum hanc explicationem erg. L 8 eo . . . refunditur erg. L 8 aliam (1) nos videmur induere (2) majorem nos induimur (3) induimur L 9 f. Fato. (1) Inde (2) Ita enim consequi videtur peccata etiamsi libera manerent, tamen (3) Et erg. defensa . . . humana (a) prodetur dignitas (b) videtur . . . divina. erg. (aa) Videtur enim Deus (bb) Utique L 10 Deus (1) omnia (2) omnes (a) ver (b) quaestiones L 11 quae (1) ex sua (2) absolute L 11 sunt, (1) sine interventu (2) tantum L 12 contemplando (1) , eas vero quae contingentes censentur, (2) circa L 12 videtur (1) non posse non exercere volu (2) necessario (3) semper erg. L 12 f. voluntatem (1) non tantum ap (2) contribuendo ad hoc ipsum ut alterutrum oppositorum eligatur (3) contribuendo . . . possit, erg. L 14 Itaque (1) nihil unquam vid (2) nullus L 16 f. certe sequitur erg. L 19 Deus erg. L 20 aeternum erg. L 21 posse erg. L 24 f. futurarum (1) realitas (2) series L 25 f. Deus (1) necessaria (2) infallibiliter (3) infallibili L
+
+:::
+
+[p. 1602] consequentia hominem prava electurum sequatur, cur homini potius quam Deo actum imputamus? Responderi potest primum ex concessis et paulo ante definitis, quod libertas humana non tollitur praescientia, ergo nec decreto; sed instabis, etsi libertas humana non tolleretur, tamen justitiam divinam tolli, quae efficiat ut libertate nostra male utamur. Varia respondent autores. Plerique contenti sunt dicere Deum se habere pure permissive circa actum peccati. Recte, sed hoc non videtur sufficere adversariis, quoniam ex Dei permissione infallibiliter sequitur actus, unde perinde videtur esse in rei veritate utrum Deus dicatur permittere peccatum an velle. Respondeo quantum ad certitudinem futuri peccati rem eodem redire, sed non quoad inculpationem Dei. Instabis: cur ergo permittit, quod impedire potest. Hic non video quid melius responderi possit, quam quod a S. Augustino dictum est, non permitteret Deus malum, nisi bonum faceret etiam de malo. Ergo, inquies, Deus vult meum peccatum, ut inde majus bonum elicere possit. Respondeo, hoc ipsum est non velle sed permittere, aut si mavis permittere velle. Non enim Deus vult peccare, non vult producere peccatum, sed vult existere te, id est eum quem scit peccaturum, quia peccatum tuum in melius convertere novit. Dicendum est igitur quod jam praeclare notavit Hugo a S. Victore, Deum non decernere proprie loquendo
+
+Ex quo duo videntur posse elici, scilicet homines non esse liberos quibus omnes actus alterius vel essentia vel voluntate sunt praedefiniti, vel saltem Deum velle mala, et esse peccati autorem. Ad primum facilis responsio est ex superioribus, nam non magis decreto quam praescientia tollitur libertas, ut enim praevidetur ita et cum voluntate aliqua praevidetur vel decernitur hominem esse libere electurum id est ita ut salva sit indifferentia seu ut nulla absoluta necessitas imponatur. Et licet rursus praevisio in essentia Dei vel voluntate fundetur, tamen quomodo dicendum sit manere contingentiam, seu possibilitatem contrarii in praecedentibus explicatum est, ita ut nulla hic sit difficultas nova. Altera consequentia est difficilior. Etsi enim homo esset liber, et proinde culpandus, tamen Deus non minus esset culpandus imo magis, qui efficeret, ut libertate nostra male utamur adeoque causa mali esset voluntaria. Saltem videtur hypothetica illa [p. 1603] necessitas sufficere ad hominem excusandum, sive enim ex decretis divinis sive ex praeexistentibus ab aeterno contingentiarum futurarum realitatibus sive etiam ex essentia hominis cujusque aut Dei vel universi (quemadmodum ex natura circuli ejus proprietates sequuntur), sequi ponatur quid homo sit facturus, nihil referre videtur in praxi et aeque constricti videntur mortales ad peccandum. Verum huic posteriori difficultati respondendum erit infra, cum Sophismati occurremus, quod veteres otiosum dicebant. Nunc quod ad causalitatem Dei, dicendum est Deum mala, non efficere nec velle, sed permittere tantum, quod ex sequentibus intelligetur clarius, nunc operae pretium erit tenere Deum non decernere ut Petrus peccet, sed hoc potius, ut ex infinitis possibilibus creaturis ob abditas sapientiae causas eligatur et Petrus, in cujus notione possibili seu cognitione perfectissima quam Deus de ipso habet, antequam existentiam ejus decernat continetur quod si existet est libere peccaturus vel ex infinitis modis creandi mundum, seu ex infinitis suis decretis possibilibus Deus ea elegit, cum quibus connexa est series illa rerum possibilium in qua Petrus libere peccaturus continetur. Itaque Deus actuali decreto revera Petro possibili peccaturo existentiam tantum largitur; adeoque non decernit Petrum peccare, sed tantum Petrum possibilem ad existentiam admitti licet sit peccaturus. Qui si peccaturus (libere licet) non esset, ne quidem hic Petrus esset quemadmodum Hugo a S. Victore quaerenti, cur Deus Jacobum dilexerit, Esavum odio habuerit, respondit non aliam ejus rei rationem reddi posse, quam cur Jacob non sit Esau, quod verissimum est.
+
+::: editorial
+
+(zu S. 1602) 1 hominem (1) mala (2) prava L 1 f. imputamus? (1) Respondeo eandem fore difficultatem (2) Ut enim concedamus e (3) Responderi L 2 primum (1) actum (2) ex concessis (a) si ex eo quod Deus videt (b) et L 3 nec (1) prae (2) decreto L 3 quae (1) liber (2) efficiat L 5 quoniam (1) Dei permissio multum differt a (2) ex L 6 Deus (1) dicat se (2) dicatur L 7 Respondeo igitur erg. u. gestr. quantum L 8 permittit, (1) aut potius quidni velle eum dicemus (2) quod L 8 quid (1) aliud (2) melius L 10 inde (1) magis manum (2) majus L 10 Respondeo (1) vult (2) hoc L 14 elici, (1) unum (2) scilicet erg. L 14 f. quibus . . . vel essentia vel erg. . . . praedefiniti erg. (1) aut si lib (2) vel L 15 f. Deum (1) non esse justum, sed (2) velle . . . esse L 16 superioribus (1) ut enim praescientia Dei ita (2) nam (a) ut (b) non L 19 absoluta erg. L 19–22 Et . . . nova. erg. L 19 f. rursus erg. praevisio (1) vel essentiam Dei vel voluntatem praesupponat, (2) in . . . fundetur, L 20 sit (1) hominem solvi (2) manere L 22 liber, (1) tamen (2) et L 24–S. 1603.9 utamur (1) decernendo ut peccamus. (2) adeoque . . . voluntaria. (a) Respondendum est igitur Deum hoc non efficere sed permittere tantum, (aa) Deum scilicet proprie loquendo non decernere (bb) quod ut melius intelligatur, quia vulgo non satis explicatum (aaa) est (bbb) video, sciendum est: Deum proprie loquendo non decernere (b) Saltem . . . decernere L
+
+9 AUGUSTINUS, Enchiridion ad Laurentium sive de fide, spe et caritate liber unus, cap. 11 (PL 40, Sp. 236).
+
+:::
+
+Verum hic porro insurgit difficultas tertia. Licet enim concedamus ex praescientia vel etiam determinata veritate contingentium non tolli libertatem, item ex eo quod Deus decernit eam seriem rerum existere, in qua intercurrit peccatum, non sequi eum directe velle aut decernere peccatum, tamen posito concursu Dei cum creaturis ad omnes eorum actus, sequitur Deum in peccato non minus imo magis agere quam [p. 1604] hominem peccantem; ac proinde non minus peccatum Deo quam homini esse imputandum. Scio viros quosdam doctos gravissime invehi in doctrinam de concursu Dei proximo et immediato ad omnes actus creaturarum, tanquam perniciosissimam, et sanctitati divinae adversissimam. Sed vicissim premuntur fortissimis argumentis a dependentia creaturarum sumtis, nam in actu, motu, cogitatione, non est simplex modalitas, sive relatio, sed superadditur nova realitas, est enim reale discrimen inter agentem et non agentem. Haec realitas nova quaeritur unde sit, certe antea non aderat, ideo utique producta est, at nova entia realia sine Dei concursu produci non videtur aut creaturis conveniens aut dignum Deo, et quis credat substantias quidem non posse nisi a Deo produci, accidentia autem posse produci sine Dei concursu adeoque magis esse independentia; et dicere accidens hoc novum produci ex praecedenti, nihil est, revera enim prius accidens non amplius existit, et ejus loco existit aliud novum, reliqua tantum verba sunt; quemadmodum eductio formarum a potentia materiae. Et pari jure diceret aliquis etiam substantias novas produci ex aliis substantiis sine concursu Dei, tandemque eo devenietur, ut dici possit Deum omnino nunc nihil agere (nisi forte cum miracula facit) postquam semel creaturis facultates agendi concessit. Et apud eos qui ponunt non implicare mundum esse ab aeterno, sequetur non implicare nullum esse Deum, itaque vereor ne haec sententia cum natura Entis primi pugnet. Cum inde saltem eliciatur per quotlibet annorum millia mundum imposterum subsistere posse Dei non amplius indigentem. Unde etiam pleraque argumenta solidiora pro existentia Dei corruent. Nam si Mundus nunc nullam realem dependentiam a Deo habet, non potest demonstrari Mundum in Deo esse, nisi demonstretur prius Mundum incepisse, quod demonstrari posse ex lumine rationis multi etiam Christiani philosophi dubitant. Ex sola autem pulchritudine rerum probabile quidem valde fit Mundum a sapientissimo Architecto esse conditum, necessario autem non colligitur, metaphysice enim loquendo possibile esset infinitos esse Mundos seu systemata rerum in tempore et spatio infinito, et mirum non foret si inter infinitos temere [p. 1605] collectos aliqui evasissent pulchri et bene ordinati, quorum unus nobis sorte obtigerit. Quo sane effugio jam dudum usi sunt Epicurei. At vero argumentum sumtum a natura Entis primitivi, unde Entia derivativa continue pendent, neque rejectione progressus in infinitum indiget (quem multi possibilem putant), neque pulchritudine rerum, quae moralem magis fidem, quam certam Scientiam parit.
+
+::: editorial
+
+(zu S. 1603) 1 f. ex (1) aeternis (2) praeexistentibus L 2 futurarum erg. L 2 realitatibus (1) sequitur infallibiliter quid sit facturus; saltem nihil ad praxin (2) sive L 2 etiam (1) sequi ponatur (2) ex L 3 hominis (1) quid sit (2) cujusque L 3 universi (1) sequi ponatur (2) (quemadmodum L 4 facturus, (1) aeque in praxi (2) nihil L 7 efficere (1) sed (2) nec L 8 intelligetur (1) uber (2) clarius, L 9 infinitis (1) creaturis possibilibus (a) exi (b) quas Petro praeferre poterat, existat Petrus, de cujus idea sive conceptu est, (2) possibilibus L 10 f. possibili erg. seu cognitione perfectissima erg. quam . . . decernat erg. L 12 quod (1) est libere (2) si L 12 vel (1) ut accuratius adhuc rem exprimam, (2) ex L 14 libere erg. L 16 f. sed (1) Deum (2) Petrum peccaturum existere, tantum permittit. (3) tantum Petrum (a) 〈vero〉 (b) possibilem erg. . . . peccaturus. L 19 rationem (1) esse, (2) reddi posse, L 23 f. directe erg. L 25 Deum (1) peccatum (2) coo (3) compeccare (4) in L
+
+18 f. HUGO VON ST. VICTOR, Quaestiones et decisiones in epistolas D. Pauli, I, qu. 237 (PL 175, Sp. 490).
+
+:::
+
+::: editorial
+
+(zu S. 1604) 2 Scio (1) virum doctum (2) viros L 4 adversissimam. (1) Sed haerent satis meo judicio quando ab ipsis quaeritur unde (a) tantum (b) tandem sit nova illa (aa) Entitas (bb) realitas. (2) Sed non videt (3) Sed L 4 argumentis (1) ab inde (2) a L 5 in (1) actu, non est simplex modalitas, ut in mod (2) actu, L 8 concursu (1) speciali ad eorum et (2) immediato ad eorum productionem (3) produci (a) posse (b) non (aa) di (bb) videtur L 10 sine (1) ullo (2) Dei L 10 f. adeoque . . . independentia erg. L 12 f. , reliqua . . . materiae; erg. L 14 aliquis (1) et substantias produci (2) etiam . . . produci L 15 f. agere (1) nisi cum extra ordinem agit, sal (2) (nisi . . . facit) L 17 f. itaque (1) haec sententia penitus cum natura Entis primi pugnat. (2) vereor . . . pugnet. L 18 f. inde (1) sequatur (a) elic (b) in omnem aete (c) in o (2) saltem eliciatur per (a) multa (b) quotlibet erg. L 19 imposterum erg. L 20 solidiora erg. L 22 esse creatum gestr. , nisi L 24 a (1) Deo (2) sapientissimo L 26 tempore et erg. L 26 et (1) ex iis (2) unum (3) mirum L 26 f. non (1) esse (2) foret erg. si (a) ex infinitis alibi (b) inter L 27 infinitos (1) male ordi (2) temere L
+
+:::
+
+Sed quid dicemus ad difficultatem illam magnam, quod Deus utique concausa peccati est, si ad illud omne quod in peccato reale est, non minus imo magis quam homo concurrit? Illusorium enim videtur dicere, Deum concurrere ad materiale peccati, non vero, ad formale, quod est privatio seu αÆ νοµιÂα. Verum sciendum est responsionem hanc solidiorem esse quam prima specie videatur, nam omnis pravitas est in imperfectione, imperfectio in limitatione, cum igitur Deo et homine coagentibus, in Deo sit actio perfecta, in homine limitata seu imperfecta, quae imperfectio aliquando tanta est, ut peccati rationem constituat, manifestum est, cur a sola hominis actione formale peccati attingatur. Exemplo rem declarare poterimus. Si magna vi plumulam ego percutiam etiamsi valde perfecta sit actio mea, plumulae tamen actio orta ex percussione erit valde imperfecta et debilis, quoniam ex ipsius natura, quae magni impetus capax non est, limitatio procedit. Eodem igitur modo essentialis creaturarum limitatio effectum divini concursus ad perfectionem actus tendentem contrahit, fructumque ejus aliquando corrumpit Deo tamen nihilominus pro sapientia sua summa ex partibus imperfectis, perfectionem totius obtinente. Unde jam peccatum nasci nulla Dei culpa mirum non est. Cujus praeclarae meditationis fundamenta jam a D. Augustino jacta reperiuntur. Denique considerandum est apud Deum qui omnium rerum consequentias videt, perinde esse ad rem moralem utrum remoto an proximo concursu peccatum juvet, dum facultates largitur circumstantiasque omnes ita coordinat, ut peccatum infallibiliter sit secuturum. Negato [p. 1606] igitur Dei concursu immediato, nihil lucramus magisque imaginationi vulgi quam rationi interiori consulimus. Semper enim manet difficultas ut vel absolute necessaria sint peccata, vel ut saltem necessario sequantur, sive ex realitatibus quibusdam aeternis a divina voluntate independentibus si quidem in talibus contingentiam locum habere possibile est, sive ex divinae voluntatis decretis ad necessarias veritates accedentibus quorum utrumque homines a culpa liberare, posterius etiam Deum videtur accusare.
+
+::: editorial
+
+(zu S. 1605) 2 argumentum (1) a dependentia re (2) sumtum L 3 Entis (1) per se unde Entia (2) a se, unde (3) primitivi, L 3 f. neque (1) progressu in infinitum indiget, (2) progressus in infinitum rejectione indiget, (3) rejectione . . . indiget, (a) neque in pul (b) quem multi (c) (quem L 6 difficultatem (1) , quod Deus si (2) illam L 6 utique (1) ad peccatum (2) concausa L 7 imo magis erg. L 8 ad (1) formale (2) materiale L 9 f. est (1) solidius (2) responsionem hanc erg. solidiorem L 11 limitatione, (1) limitatio autem perfectionis quae est in actione, (2) cum igitur (a) actio Dei sit illimitata (b) Deo L 12 imperfectio (1) aliquando (2) in (3) peccatum con (4) aliquando L 12 f. ut (1) simul (2) peccati L 14 f. percutiam (1) 〈erigi〉 (2) etiamsi L 17 limitatio (1) vim (2) effectum L 18 tendentem (1) limitat, (2) contrahit, erg. L 18 f. aliquando erg. L 19 f. Deo . . . summa (1) 〈etiam〉 (2) ex erg. . . . obtinente erg. L 21–S. 1606.6 Denique . . . enim erg. . . . absolute erg. . . . ut erg. saltem (1) pendeant sive ab aete (2) necessario . . . independentibus si . . . in (a) illis (b) talibus erg. . . . est erg. . . . ex (aa) accedentibus (bb) divinae . . . videtur (aaa) inculpare. (bbb) accusare. erg. L
+
+:::
+
+Praecedentes igitur difficultates fuere Metaphysicae, sequitur Moralis ad quam tandem perveniendum est. Ex eo enim quod Deus praeordinat, vel saltem praescit peccata, et eorum executionem remoto vel propinquo concursu juvat sequi videtur hominem sive liber sit sive non liber, aut non esse culpandum, aut si culpandus est certe a Deo non esse puniendum, qui ipse culpandus sit multo magis. Fingamus dari posse aliquod venenum talis naturae, ut homini propinatum voluntatem depravet, eamque (liberam licet manentem) inclinet ad malum, sic ut praevideri possit homine liberrime consultante, tamen plerumque secuturam esse electionem mali; concedamus hunc hominem nihilo minus poenam mereri, sed quid dicemus mereri illum, qui tale venenum miscuit, et propinavit? praesertim si ipse sit legislator, eoque tyrannidis veniat, ut miserum illum ob malam voluntatem crudelissime torquere velit, tanquam sibi inobedientem. Videtur autem species illa habere locum in humana natura, nam prava illa dispositio quam peccatum originis appellamus, cui alii rei melius quam tali veneno comparari potest, et cum animae ubi primum existere incipiunt revera a Deo producantur, sive quis creationem id vocet, sive traductionem, quis non videt, Deum vel animam cum prava dispositione producere, vel in pravae dispositionis barathrum velut immergere, quorum utrum dicamus, parum refert. Et de Adamo ipso non minor est difficultas, quicquid enim de justitia originali jactetur, videtur pravam in eo dispositionem creatam fuisse, quae effectura erat, ut certae tentationi esset objiciendus, et in ea succubiturus atque ad pejus inclinaturus. Jam fingamus eundem qui venenum propinavit, remedium (tanquam gratiam sufficientem) [p. 1607] projicere in medium sed quo ex ipsa veneni dispositione sciat neminem vel conaturum esse uti nisi cui ipse prius dormienti aliquot guttas efficacis cujusdam liquoris (seu boni motus) infuderit, quo animus praeparetur; et ex his qui usuri sint neminem esse ad sanitatem perventurum, nisi in quo certa quaedam sit naturalis constitutio, vel cui sufficiens quantitas cujusdam tertiae omnium efficacissimae infallibiliterque si superveniat sanaturae compositionis (seu gratiae efficacis) instillata sit. Denique sanatos recidivam plerumque pati, et iisdem caeremoniis ut denuo sanentur indigere; paucosque admodum novissima sanatione (gratia perseverationis) dignos haberi; inque delectu hominum rationem haberi, vel absoluti cujusdam beneplaciti vel distinctionum admodum exoticarum, ut verbi gratia illis potius fiat gratia qui videntur suapte natura plurimum si semel excitentur cooperaturi tanquam ad parcendum remedio expensaeque quantum licet vel aliquando contra illis potius qui per se sunt debilissimi tanquam in ostentandam remedii efficaciam aliisque modis, ita ut vel regula nulla certa servetur, vel si qua est parum aequitati consentanea videatur; cum deceat potius ab eo qui omnibus malum dedit omnes quando quidem id fieri potest restitui, vel certe eos qui a pravitate animi non liberantur, saltem nec puniri; certe crudelissimis tortoribus non per omnem aeternitatem objici quo nihil gravius cogitari potest. Quid igitur de tali propinatore, Medico, legislatore dicemus?
+
+::: editorial
+
+(zu S. 1606) 7 igitur erg. L 7 f. ad . . . est erg. L 8 Deus (1) non tantum praescit, (a) et (b) praeordinatque (2) praeordinat, . . . praescit L 11 esse (1) pro pecca (2) puniendum, L 12 propinatum (1) non rationem obumbret, (a) non (b) sed (2) voluntatem L 12 depravet, (1) ita (a) ut libera licet, tamen (b) ut quanquam libera maneret, tamen ad malum (2) eamque L 13 possit (1) utcunque deliberante (2) ipsa (3) homine L 14 esse (1) con (2) electionem L 14 mali; (1) ille homo certe ab illo (2) concedamus L 16 praesertim (1) si eo iniquitatis veniat, ut ipsemet hominem illum miserum quasi (a) legum (b) sibi legislatori (2) si L 16 eoque (1) iniquitatis veni (2) tyrannidis L 17 ob . . . voluntatem erg. L 22 dispositione (1) creare (2) producere erg. L 24 videtur (1) sequi (2) pravam L 26 ea (1) no (2) ad pejus inclinaturus (3) succubiturus L 27 (tanquam . . . sufficientem) erg. L
+
+:::
+
+Mihi hanc similitudinem attentius consideranti, statim ipsum ejus initium negandum videtur, quasi scilicet Legislator ille venenum dari curaverit quo animi corrumperentur, prima enim imperfectionis origo non a voluntate Dei est, sed a limitatione essentiali creaturarum ante omne peccatum, negandum etiam est Medicum eundemque Legislatorem ob exoticas tantum rationes distinguere sanandos a non sanandis, sed ita se gerere dicendum est ut salva sapientia sua melius non possit. Itaque cogitavi de similitudine aliqua aptiore, qua simul et Legislatoris justitia et Medici sapientia, et aegrorum culpa [p. 1608] appareret. Fingamus igitur Apologum hujusmodi: cum Deucalion et Pyrrha jussu oraculi lapides post tergum jactassent, inde non statim orti sunt homines, ut poetae volunt, sed statuae hominiformes. Et cum Deucalion oraculum denuo consuluisset, responsum est datam illi a Diis potestatem animandi quas ex statuis vellet, modo eas simul eligeret quas idem modus canendi afficeret. Itaque apud ipsum esse, quem vellet chorum statuarum humana vita donari. Deucalion Lydium modum cani jussit. Statimque aliquot statuae moverunt sese, et silente rursus Deucalionis lyra secundum propriam quandam Musicam saltitarunt atque canentes narraverunt, quicquid gesturi essent, si contingeret ipsas homines fieri ut Deucalionem ad sese eligendas invitarent. Inde secutus est Phrygius modus saltaruntque aliae statuae, ac vitam suam futuram si vivere daretur similiter exposuerunt. Mox tertius chorus excepit, et quartus et alii complures, donec saltassent statuae omnes, nulla enim ex pluribus choris erat.
+
+::: editorial
+
+(zu S. 1607) 1 veneni (1) natura (2) dispositione L 2 guttas (1) efficacioris (2) efficacis erg. L 2 f. cujusdam (1) remedii (2) liquoris (seu boni motus) infuderit, (a) et ex his etiam (b) quo L 4 f. cui (1) aliquot (2) sufficiens quantitas L 5 f. si superveniat erg. L 6 (seu . . . efficacis) erg. L 8 (gratia perseverationis) erg. L 8–10 inque (1) ea re non (2) delectu (a) bonae voluntatis hominum, sed sive beneplaciti cujusdam hominum erg. (b) vel absoluti cujusdam beneplaciti vel (aa) rationum (bb) distinctionum erg. admodum exoticarum, (aaa) vel mirabilis cujusdam (aaaa) definitionis (bbbb) divinationis rationem haberi, dicente 〈l〉 (bbb) ut rationem haberi, (c) hominum . . . exoticarum erg. (aa) ut scilic illis tantum videtur (bb) ut L 10 illis (1) detur tantum (2) potius L 10 fiat haec gestr. gratia L 11 excitentur (1) coop〈erari〉, (2) cooperaturi . . . licet L 12 potius (1) quam (2) qui L 12 f. tanquam . . . efficaciam erg. L 13 aliisque (1) regu (2) modis L 14 parum (1) instituto (2) aequitati erg. L 15 id fieri erg. L 20 ille erg. L 21–24 prima . . . peccatum (1) denique (2) negandum etiam erg. dicendum est erg. . . . possit erg. L 25 simul (1) Dei justitia et (2) et . . . Medici L 25 f. sapientia, (1) hominumque (2) et aegrorum L
+
+:::
+
+Der in Kleindruck folgende Text wurde von Leibniz eingefügt und später wieder gestrichen:
+
+Illud autem memorabile est, unoquoque choro saltante apparuisse Deucalioni Tabulam quandam Musicam (mutato choro aliam semper atque aliam), chori sui moderatricem, quae partim adamantinis notis Parcarum manu, partim aureis ipso Jovis digito inscripta erat. Et a Parcis quidem erant necessariae atque incommutabiles quaedam proprietates numerorum harmonicorum, at Jupiter clavem aliaque arbitraria sed pauca cantus principia elegisse videbatur. Ex auro autem Jovis liberali, et indomitis fatorum gemmis emicabat fulgor mirabilis, in quo velut speculo repraesentabantur futura illius chori totaque rerum humanarum proditura facies, si ille eligeretur. Deucalionem cum conjuge, haec visa atque audita non minus terrebant quam perplexum reddebant in eligendo, ob eventuum mire dispensatam varietatem.
+
+Alius chorus innocentissimum seculum, sed simplicitate languidum promittebat, alii fortitudinis, alii ingenii, alii aliarum virtutum magna documenta daturi erant. Sed semper [p. 1609] erat quod desiderares, in quolibet choro, et ex aliis choris supplere velles, si per oraculum licuisset. Erat ex his choris unus, in quo gravia mala praedicebantur, infectio totius hujus hominum generis a cibo quodam venenato, inde Thyesteae coenae, Oedipodei concubitus, Ixionis et Tantali supplicia apud inferos. Sed haec multo majoribus bonis pensabantur, ipsius summi Jovis humanarum rerum miserti descensus in terras et sub humana specie conversatio, crimina omnia mortalium ab hoc expiata, inde aureum seculum et pax aeterna, et tanta beatorum cum Diis assimilatio, quanta maxima potest.
+
+::: editorial
+
+(zu S. 1608) 1 jussu oraculi erg. L 2 poetae (1) canunt (2) volunt erg. L 3 Deucalion (1) Euro (2) oraculum L 4 potestatem (1) animas (2) animandi L 4 vellet, (1) sed (a) ead (b) eas tantum quas tamen idem modus canendi afficeret ea lege, (2) sed erg. quas tamen (3) modo eas (a) quas (b) simul quas L 5 Itaque (1) electionem ipsi (2) apud L 5 chorum (1) in vitam (2) statuarum L 6 Deucalion (1) primo (2) Lydium (a) et phrygium (b) modum L 7 f. sese, (1) et saltitarunt, et (2) et canentes L 8 essent, (1) si deligerentur ipsi (2) inde (3) si L 9 ut . . . invitarent erg. L 10 modus (1) surg (2) surrexeruntque (3) saltaruntque erg. L 10 daretur (1) narr (2) similiter erg. L 11 complures (1) . Deucalioni ea res electionem difficilem reddit (2) , donec L 12 omnes, (1) neque enim una nisi unius chori (2) nulla . . . choris L 12 f. erat. Deucalioni et Pyrrhae ea varietas eventuum electionem difficilem reddit. gestr. L 15 (mutato . . . sui erg. L 17 numerorum (1) Musicorum (2) harmonicorum, L 17 f. sed pauca erg. L 18 Jovis (1) et (2) liberali, L 22 Alius 〈aureum〉 erg. u. gestr. chorus (1) aureum seculum promitt (2) innocentissimum L
+
+2 Deucalion et Pyrrha . . . jactassent: vgl. OVID, Metamorphoses, I, 347–415, bes. 369–415.
+
+:::
+
+Hunc ergo chorum, qui talia promittebat, post multam deliberationem unanimes elegere conjuges duo quod ea ratione maxime Deorum consortio fruituri mortales viderentur. Subito reliquae omnes statuae quasi indignantibus similes in prioris iterum formae saxa dissilierunt. At delectae ex omni numero quae isto suffragio vicerant humanam prorsus naturam habuere. Unde genus mortalium toto orbe propagatum est, ac diluvii damna expleta. Et Deucalion quidem restaurator nostri generis officio suo praeclare sibi functus videbatur, laetamque in terras vitam agitabat, donec annis fessos conjuges eadem ambos suprema dies exolvit. Jamque in Charontis cymba inexorabilem styga transmiserant, rectaque gressus converterant ad Elysios illos hortos, in quibus foelices animae coelestia bona praegustant, cum magnus tota inferorum regia tumultus exurgit. Crederes Enceladi jactationibus tellurem rimas agere, atque inimicum admittere inferis diem; vel iterum adesse qui Proserpinam Ditis thalamo deducat, qui Cerberum abstrahat catenis oneratum. Cessat Tityi vultur; et Ixionis rota aliquantisper requiescit. Tandem silentio facto, intellectum est infelices animas de Pyrrha ac Deucalione tanquam omnium suorum malorum autoribus queri atque expetere poenas. Ab his sese jactabant a saxea natura in humanam translatos crudeli beneficio, ut perpetuo torquerentur, nec nisi supplicio eorum quieturi videbantur. Pluto tantam quaestionem a se ad rerum capitalium triumviros, Aeacum Minoa ac Rhadamantum rejecit. Conjuges tanto tamque inopinato periculo perculsi, lachrymis se tuebantur, atque autores oraculi testabantur Deos, sanctamque [p. 1610] inprimis Themidem, cujus jussa secuti essent cui rei Ovidium et nescio quem Graecum Metamorphoseon scriptorem testem citabant. Vix pauca haec dictitans audiri poterat Deucalion, cum statim confusis omnium clamoribus obruebatur, quasi in Deos rejiceret scelus suum, a quibus potestas quidem data ipsi fuisset eligendi, non vero electio praescripta esset.
+
+::: editorial
+
+(zu S. 1609) 1 desiderares, (1) et ex uno ch (2) in L 2 f. praedicebantur, (1) ut (2) infectio (a) futurorum (b) totius . . . a (aa) pomi cujusdam esu, inde (bb) cibo . . . inde L 5 descensus (1) ad mortales (2) in terras L 6 mortalium (1) hujus sanctitate et voluntaria patientia expiata (2) ab hoc expiata, L 7 et (1) maxima hominum (2) tanta (a) hominum cum Diis assimilatio quanta maxima potest (b) beatorum L 7 f. potest. (1) Beati autem futuri erant quos ju (2) Beati (3) Hunc L 11 quae . . . vicerant erg. L 13 Deucalion (1) humani ge (2) quidem erg. L 16 gressus (1) dire (2) converterant L 17 praegustant, (1) gressus (2) magnus L 18 exurgit. (1) Credas (2) Crederes Enceladi (a) agitationibus (b) jactationibus L 19 Ditis erg. L 19 deducat, (1) quia (2) qui L 20 rota (1) nonnihil (2) aliquantisper erg. L 21 silentio Plutonis autoritate gestr. facto, L 22 poenas. (1) Cur enim se non maluerint saxa (2) Ab L 23 crudeli beneficio erg. L
+
+:::
+
+Haerentibus judicibus, ac si liceret, comperendinantibus, ab Elysii animabus legati alter justitia, alter sapientia inclyti Lycurgus ac Solon advenere. Nuntio enim judicii ob beatos perlato, indignum videbatur, acriorem malorum memoriam esse quam gratitudinem bonorum. Hic novum ac mirabile certamen piorum atque impiorum, scelerum virtutumque surrexit, cujus partem aliquam nescio unde acceptam Prudentius noster descripsit in Psychomachia; tota autem quaestio apud judices quidem in eo vertebatur, utrum praestet non existere improbos et miseros, an vero existere beatos, et plurisne esset mala vitari an bona procurari. Quam multa ab hominibus eloquentissimis prudentissimisque dicta sint pro utraque causa paucis comprehendi non potest, idque alii fortasse felicius explicabunt, tandem a Plutone rogatus Jupiter per Mercurium stellatam ex ipso Zodiaco Themidis libram misit, cui partis utriusque fata imponerentur, nam ipsi judices qui in beatos inclinabant pronuntiare verebantur, ne sibi ipsis favisse viderentur. Est autem mirabilis natura hujus librae, qua non corporea pondera, sed causarum momenta aestimantur, ut pro materia sint verba, et pronuntiatis tantum rationibus, pro cujusque vi lances inclinentur. Incredibili autem omnes expectatione suspensi erant, et Actuario utriusque partis argumenta recitante, nunc huc nunc illud libra quasi trepida titubabat. Ab una parte dicebatur, si aequalis voluptas dolori sit, satius esse non dolere, quam gaudere; ab altera reponebatur praestare in re Musica correctas compensatasque ex arte [p. 1611] dissonantias, quam insipidam soni aequabilitatem. Replicatum est excusari posse mixturam perturbationis et restitutionis in eadem persona, non ut bona in unos, mala in alios spargerentur. Duplicabatur misceri in eodem non potuisse et miseriam et felicitatem. At Triplicatum est satis varietatum haberi potuisse,[^1611-1] etiamsi non ad haec extrema bonorum malorumque itum fuisset. Atque ita multipliciter reciprocabatur serra, donec postremo allegatum est felicitatem electam fuisse non quamlibet sed qua Dii mortalibus unirentur, prae qua cujuscunque miseria[e] aestimatio nullius sit momenti. Eoque motum Deucaliona hanc seriem humani generis praetulisse. Vix haec pronuntiata erant cum subito libra velut magno pondere lanci injecto in hanc partem ruere coepit, nec ullis porro dictis vel minimum commovebatur. Ita Themidis suffragio indubitabili absoluti Deucalion et Pyrrha Dis vota solvebant. At murmur toto inferno ingens ortum est infelicium animarum, quasi nunc primum damnarentur, nec obscurae in Deos blasphemiae audiebantur quorum magnitudini ac voluptati sive Gloriae litandum fuisset aeterna calamitate miserorum, quo illis scilicet sua beatitudo conspectior emineret acriusque ab opposito sentiretur. Fuisse enim in potestate Deorum, praeter illas hominum series, unde fatendum erat optimam a Deucalione electam fuisse, alias ei offerre, ubi non minus mortales felices redderentur, imo magis, neminis miseria beatorum gaudia funestante. Querelis igitur in Deos versis, impiorum quidem rabies magis accendebatur, sed in Elysio deliciantibus bonis et magnitudine quaestionis attonitis admirandum atque inauditum spectaculum sese aperuit. Rediere omnium statuarum species quae coram Deucalione saltaverant. Sed super unoquoque choro pendebat Tabula aurea qua leges aeterno adamante Parcarum scriptae continebantur, quae paucae numero ubi clavem auream manu sua appinxisset [p. 1612] summus Deorum, omnes futuros chori quoque sui motus actusque praefiniebant; eaque vis mirabilis nexus et consequentiae tam multorum cantus eventuum cum notis Musicis tam paucis, in quibus tota latebat, impenetrabilis mortalibus dum in terris degunt, purificatis illis Animabus manifeste apparebat. Postremo raptis mentibus in profundum Divinitatis, ipsum Aeternae Rationis Archivum obtulit sese ubi admissis, et numerus Tabularum sive chororum omnium, qui cogitari possent, hoc est Mundorum possibilium, infinitus licet totus apparuit tandemque inaccessae habitationis lumen ultramundanum superilluxit; quo non eorum tantum quae facta et futura sunt, sed et omnium quae fieri poterant inenarrabilis harmonia ita intellecta est, ut jam demum cognosceretur expensis quasi in statera infinitis Mundis, ab ipsa aeterna atque infinita sapientia nihil melius reperiri potuisse, quam quod factum est. Neque ideo malos et miseros decretos, sed posita optima atque eligenda rerum serie admissos esse, quod ex ejus legibus sequerentur; nec rei quaesitum esse in Consilio providentiae, an Busiris hospites mactaturus esset, sed an non haec possibilium series praeferenda esset, licet in ea homicida Busiris, contineretur. Felices autem animae in haec arcana admissae, intellectis rerum fastigiis, et agnita cominus pulchritudine et justitia autoris sui, nunc demum sese liquido beatas, confitebantur. Nobis autem satis egregium est e longinquo in hac vita agnoscere quod illic coram intueri, inter summa aeternitatis beneficia videbatur.
+
+::: editorial
+
+(zu S. 1610) 1 cujus (1) Se (2) jussa (a) secutos vociferabantur (b) secuti essent (aa) ejusque res (bb) cujus (cc) cui rei L 2 haec erg. L 3 obruebatur, (1) qui (2) quasi erg. L 6 f. legati (1) eloq (2) alter L 7 alter (1) eloquentia inclyti (2) sapientia L 7 enim (1) controversiae (2) judicii erg. L 8 beatos (1) translato (2) perlato, L 8 videbatur, (1) acriorum (2) acriorem malorum (a) vindictam (b) memoriam erg. L 9 piorum atque impiorum, erg. L 10 unde (1) intellectam (2) acceptam L 12 f. beatos (1) participesque Deorum, (2) et erg. plurisne esset erg. L 14 paucis (1) explicari (2) comprehendi erg. L 18 sed (1) rationum (2) causarum erg. L 19 ut erg. L 19 materia (1) essent (2) sint L 20 f. et (1) pronuntiante utrinque argumenta Actuario (2) recitante Actuario utriusque partis argumenta (3) Actuario recitante, L 22 dicebatur, (1) do (2) potius esse dolores (3) si L 22 sit, (1) praestare (2) satius esse L 23 correctas (1) dissonantias quam (2) compensatasque L
+
+1 Ovidium: OVID, Metamorphoses, I, 315–415. 2 Graecum Metamorphoseon scriptorem: das möglicherweise fiktive Vorbild Ovids ist nicht nachzuweisen. 11 PRUDENTIUS, Psychomachia.
+
+:::
+
+[^1611-1]: Am Rande: (ridiculum poterasse)
+
+::: editorial
+
+(zu S. 1611) 1 insipidam (1) vel (2) grati (3) soni L 1 f. posse (1) restitutam perturba (2) mixtam (3) mixturam L 3 Duplicabatur (1) id nec fieri potuisse, (2) misceri L 5 f. serra, (1) cum tandem pronuntiatum est (a) a Lectore (b) non aliter summum Deorum beneficium (2) donec (a) 〈cui unisset〉 (b) id denique po (c) postremo L 6 est (1) non aliam rationem fuisse, qua Dii mortalibus unirentur (2) felicitatem L 7 unirentur, (1) pro divinae autem, (2) Divina (3) prae qua (a) nulla cujusquam a (b) cujuscunque L 8 hanc (1) rationem (2) seriem L 11 f. ortum est erg. L 12 nec (1) absph (2) obscurae L 13 audiebantur erg. (1) qui (a) soli (b) suae voluptati so (c) magnitudini ac (d) magnitudini (2) quorum L 14 f. conspectior (1) ac (2) emineret (a) extantiusque (b) acriusque L 15 Deorum ut str. Hrsg. (1) inter alias hominum ser (2) praeter L 17 redderentur, (1) nulla (2) imo L 17 magis, (1) nulla miseria (2) neminis L 19 sed (1) piis (2) in L 19 bonis erg. L 21 choro (1) apparuit (2) pendebat erg. L 21 f. qua (1) Mus (2) leges (a) chori sui (b) aeterno erg. L 22–S. 1612.1 ubi clavem auream erg. appinxisset (1) notis (2) summus Deorum, erg. L
+
+:::
+
+::: editorial
+
+(zu S. 1612) 1–3 praefiniebant; (1) idque (2) eaque . . . notis (a) Harmoniae (b) Musicis . . . paucis (aa) impenetrabilis mortalibus (bb) in . . . degunt, L 4 apparebat. (1) 〈Cum〉 (2) Postremo cum Tabulas ipsas contenderent inter se (3) Postremo ipsum aeternum Jovis sese (a) Tabularium (b) Archivum erg. dedit in conspectum, ubi suus cuique Tabulae locus, et (4) Postremo (a) rept (b) raptis L 6 hoc . . . possibilium, erg. L 7 apparuit (1) ; et uno admirabilis intelligentiae ictu (2) et (a) denique (b) postremo novissimum ultimae rerum rationis (3) tandemque . . . habitationis L 7 f. lumen (1) immenso fulgure illuxit; (2) cujus immenso fulgore i (3) ultramundanum (a) attonitis (b) superilluxit; (aa) unde causa (bb) quo denuo intellecto (cc) Un (dd) quo erg. L 9 harmonia (1) intellecta est, (2) per summa rerum fastigia intellecta est, (3) 〈aucta〉 (4) jam demum intellecta (5) ita L 9 f. demum (1) appareret (2) cognosceretur erg. expensis Mundis, erg. L 11 est. (1) Felices autem animae nunc demum se vere beatis (2) Neque L 11 malos (1) 〈ed〉 (2) et L 11 f. sed (1) in (2) posita L 12 optima (1) admissos esse, quod (2) atque L 12 f. esse, (1) nec constitutum esse (2) quod . . . rei L 13 esse (1) an 〈istos〉 (2) in (a) arcano Di (b) Consilio L 14 f. ea (1) et (2) mactator Busiris (3) homicida L 15 Busiris, (1) et adulter Paris, et (2) contineretur. L 15 animae (1) tam (2) intel (3) in (a) divina (b) haec L 16 et (1) visa (2) agnita L 17 est (1) eminus (2) e longinquo L 18 beneficia (1) 〈aut〉 (2) videbatur L
+
+14 Busiris: vgl. u. a. OVID, Metamorphoses, IX, 183; Ars amatoria, I, 649 f.; HYGINUS, Fabulae, 31 u. 56.
+
+:::
+
+## 325. DE CONTINGENTIA [Frühjahr bis Herbst 1689 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 4, 1 Bl. 1–2. 1 Bog. 2o. 4 S.
+
+E1 I. JAGODINSKI, Filosofija Lejbnica. Process obrazovanija sistemy. Pervyi period
+
+1659–1672, Kazan 1914, S. 422–426.
+
+E2 GRUA, Textes, 1947, S. 302–306 (Teildruck).
+
+Weiterer Druck: HOLZ, Kleine Schriften, 1965, S. 178–187 (Teildruck mit Übers.).
+
+Übersetzung: ARIEW-GARBER, 1989, S. 28–30.
+
+Die Datierung dieser Aufzeichnung, die sich der Kontingenz, den Prinzipien der Kontingenz und der Begründbarkeit kontingenter Wahrheiten widmet, beruht auf dem Wasserzeichen.
+
+In Deo existentia non differt ab Essentia, vel quod idem est Deo essentiale est existere.Unde Deus est Ens necessarium.
+
+Creaturae sunt contingentes, hoc est existentia non sequitur ex ipsarum Essentia.
+
+Veritates necessariae sunt, quae possunt demonstrari per Analysin Terminorum, ita ut tandem evadant in identicas quemadmodum in Algebra substitutis valoribus aequatio tandem identica prodit. Seu veritates necessariae pendent ex principio contradictionis.
+
+Veritates contingentes non possunt reduci ad principium contradictionis, alioqui omnia forent necessaria, nec alia essent possibilia, quam quae actu ad existentiam perveniunt.
+
+::: editorial
+
+(zu S. 1649) 17 Deo (1) essentia no (2) existentia L 18 f. Unde . . . necessarium. erg. (1) In creaturis contingentia est (2) Creaturae . . . contingentes L 20 demonstrari (1) ex termi (2) per L 24 actu (1) existunt (2) ad L
+
+:::
+
+[p. 1650] Nihilominus, quia tam Deum quam Creaturas existere dicimus, et necessarias non minus quam contingentes propositiones dicimus esse veras, necesse est ut communis aliqua sit existentiae contingentis notio et veritatis essentialis.
+
+Commune omni veritati mea sententia est, ut semper propositionis (non identicae) reddi possit ratio, in necessariis necessitans, in contingentibus inclinans. Et existentibus tam necessariis quam contingentibus hoc commune esse videtur, ut plus habeant rationis, quam alia quae ipsorum loco ponerentur.
+
+Omnis propositio vera Universalis affirmativa sive necessaria sive contingens, hoc habet, ut praedicati et subjecti aliqua sit connexio. Et quidem quae identicae sunt earum connexio per se patet. In caeteris debet apparere per analysin terminorum.
+
+Et hic arcanum detegitur discrimen inter Veritates Necessarias et Contingentes, quod non facile intelliget, nisi qui aliquam tincturam Matheseos habet. Nempe in propositionibus necessariis analysi aliquousque continuata devenitur ad aequationem identicam; et hoc ipsum est in geometrico rigore demonstrare veritatem; in contingentibus vero progressus est analyseos in infinitum, per rationes rationum, ita ut nunquam quidem habeatur plena demonstratio, ratio tamen veritatis semper subsit, etsi a solo Deo perfecte intelligatur, qui unus seriem infinitam uno mentis ictu pervadit.
+
+Exemplo apposito ex Geometria et numeris res illustrari potest; uti in propositionibus necesariis per continuam analysin praedicati et subjecti res eo tandem reduci potest, ut appareat notionem praedicati inesse subjecto, ita in numeris per continuam analysin (alternarum divisionum), tandem perveniri potest ad communem mensuram, sed quemadmodum in ipsis incommensurabilibus quoque datur proportio sive comparatio, etsi resolutio procedat in infinitum, nec unquam terminetur, uti ab Euclide est demonstratum, ita in contingentibus datur connexio terminorum sive veritas, etsi ea ad principium contradictionis sive necessitatis per analysin in identicas reduci nequeat.
+
+Quaeri potest, an haec ipsa propositio: Deus eligit optimum necessaria sit, an vero potius unum et primarium ex liberis ejus decretis.
+
+::: editorial
+
+(zu S. 1650) 3 f. existentiae (1) notio et veritatis. (a) Communis notio Veritatis in eo consistere videtur, (b) Commune omni veritati esse videtur, (2) contingentis . . . est, L 4 (non identicae) erg. L 5 inclinans. (1) Et cum Existentia Essentiae non addat novam formam, alioqui Essentia (2) Et ideo conti (3) Et L 6 f. rationis, (1) seu ut ratio (a) reddi possit cur potius (b) eorum reddi possit. erg. (2) quam . . . ponerentur. L 10 patet (1) , quae vero sunt (2) In L 16 habeatur (1) demonstratio, perfecta subsi (2) plena demonstratio L 16 semper erg. L 17 unus (1) tota (2) seriem L 18 potest; (1) cum Ratio inter duas quantita (2) uti L 20 potest, (1) ut appareat (a) totam praedicati notionem (b) totum numerum minorem (2) ut L 22 ipsis erg. L 22 quoque erg. L 23 terminetur (1) saltem enim ipsa (2) quemadmodum, (3) uti L 24 connexio inclusioque gestr. terminorum L 26 Quaeri potest, an erg. L 26 optimum (1) non libera an n (2) necessaria L
+
+:::
+
+[p. 1651] Item quaeri potest similiter, utrum haec propositio necessaria sit: nihil existit sine majore existendi quam non existendi ratione.
+
+Illud certum est, in omni veritate esse connexionem praedicati et subjecti. Ideo, cum dicitur Adam peccans, existit, necesse est, ut sit aliquid in hac notione possibili Adamus peccans, propter quod existere dicatur.
+
+Concedendum videtur, Deum nunquam agere nisi sapienter, seu ita, ut is qui cognosceret ejus rationes, summam ejus justitiam, bonitatem et sapientiam esset agniturus et adoraturus. Itaque non videtur unquam in Deo dari casus puri placiti; quod scilicet simul beneplacitum non sit.
+
+Quia non possumus cognoscere veram rationem formalem existentiae, in ullo casu speciali, involvit enim progressum in infinitum; ideo sufficit nobis veritatem contingentium nosse a posteriori, nempe per experimenta; et tamen illud simul tenere in universum, et generatim, quod et ratione et experientia ipsa (quantum nos in res penetrare datum est) firmatur, insitum Divinitus menti nostrae principium: nihil fieri sine ratione, et ex oppositis semper illud fieri quod plus rationis habet.
+
+Et quemadmodum Deus ipse decrevit nunquam agere, nisi secundum sapientiae rationes veras, ita sic creavit creaturas rationales, ut nunquam agant nisi secundum rationes praevalentes seu inclinantes, veras vel apparentes.
+
+Nisi daretur tale principium, vicarium rationis, nullum daretur principium veritatis in rebus contingentibus, quia principium contradictionis utique in illis locum non habet.
+
+Pro certo habendum est non omnia possibilia ad existentiam pervenire; alioqui nullus fingi posset Romaniscus qui non alicubi aut aliquando existeret. Imo non videtur fieri posse, ut omnia possibilia existant, quia se mutuo impediunt. Et dantur infinitae series possibilium, una autem series in alia utique esse non potest, cum unaquaeque sit universalis.
+
+Ex his duobus sequuntur reliqua:
+
+1o) Deus semper agit cum charactere perfectionis seu sapientiae.
+
+2o) Non omne possibile ad existentiam pervenit.
+
+::: editorial
+
+(zu S. 1651) 2 f. ratione. (1) Illud certum est, quod existit non accipere novam formam existendi. (2) Illud L 4 in (1) Adamo peccante (2) hac notione (a) Adami peccantis, (b) possibili Adamus peccans, L 8 f. puri bene gestr. placiti (1) ; sed semper est beneplacitum (2) ; quod . . . sit. erg. L 10–14 existentiae, (1) vicarium nobis Deus concessit, et experimentis perpetuis stabilivit insitum (2) in . . . Divinitus erg. L 12 simul (1) discere (2) tenere L 17 veras erg. L 18 , veras vel apparentes erg. L 19 vicarium rationis. erg. L 21 possibilia (1) existere; aut ex (2) ad L 24 series (1) impossibilium (2) possibilium L 24 f. sit (1) infinita (2) universalis erg. L
+
+:::
+
+[p. 1652] Quibus addi potest:
+
+3o) In omni propositione universali affirmativa vera praedicatum inest subjecto, seu datur connexio praedicati et subjecti.
+
+Videndum est an posito necessariam hanc esse propositionem: propositio existit cujus major existendi ratio est; sequatur propositionem cujus major existendi ratio est esse necessariam. Sed merito negatur haec consequentia. Nam si necessariae propositionis definitio est, posse veritatem ejus geometrico rigore demonstrari, tunc fieri quidem potest, ut haec propositio possit demonstrari: omnis et sola veritas habet majorem rationem, vel haec: Deus semper agit sapientissime; sed ideo non poterit demonstrari haec propositio: propositio contingens A habet majorem rationem, seu propositio contingens A est conformis Divinae sapientiae. Et ideo etiam non sequitur propositionem contingentem A esse necessariam. Et ideo licet hoc concederetur necessarium esse ut Deus eligat optimum, seu optimum esse necessarium; non tamen sequitur id quod eligitur esse necessarium, quia nulla datur demonstratio quod sit optimum. Et hic locum habet aliquo modo distinctio inter necessitatem consequentiae et consequentis. Ita ut id demum necessarium sit necessitate consequentiae, non consequentis, quod eo ipso quia optimum esse supponitur ex illa hypothesi admissa infallibili electione optimi necessarium est.
+
+Videtur tutius esse quam perfectissimum operandi modum Deo tribuere. In creaturis non est adeo certum acturas secundum rationem maxime apparentem, quando haec ipsa propositio in ipsis demonstrari non potest.
+
+::: editorial
+
+(zu S. 1652) 6 necessariam. (1) Et negari potest consequentia. (a) Nam etsi in genere (b) Nam posito necessariam esse propositionem, quae ex terminis necessitate (2) Sed . . . consequentia. Nam L 8 et sola erg. L 9 majorem erg. L 9 semper erg. L 10 propositio: (1) Ista propositio est (2) propositio L 11 sapientiae (1) , sed vera (2) Et L 11 f. sequitur (1) propositio contingens A est necessaria. (2) propositionem . . . necessariam. L 12 f. licet (1) Deus necessario eligeret optimum, non ideo tamen optimum foret necessarium. (2) verum esset necessarium est ut Deus eligat optimum (3) hoc: concederetur esse necessarium; L 14 sequitur (1) necessaria esse (2) optima esse necessaria, ali (3) optimum esse necessarium erg. (4) id L 18 f. est. (1) Etsi necessarium sit Deus eligit optimum verum, non tamen sequitur Deus (2) Videtur L 20 adeo erg. L 20 apparentem, (1) nam ratio agendi in ipsis qua (2) quando L
+
+:::
+
+## [p. 1653] 326. DE LIBERTATE, CONTINGENTIA ET SERIE CAUSARUM, PROVIDENTIA [Sommer 1689 (?)]
+
+Überlieferung:
+
+L Konzept: LH I 6, 2 Bl. 1–2. 1 Bog. 2o. 1 S.
+
+E FOUCHER DE CAREIL, Nouvelles lettres et opusc., 1857, S. 178–185.
+
+Übersetzungen: 1. A. BUCHENAU in BUCHENAU-CASSIRER, Hauptschriften 2, 1906, S. 497–503,
+
+Neuausg. 2 Bde, 1996, S. 654–660. 2. L. PRENANT, Oeuvres choisies de Leibniz, [Paris
+
+1940], S. 285–291; 2. Aufl. Paris 1972, S. 379–383. 3. LOEMKER, Philosophical Papers,
+
+1. Aufl. 1956, S. 404–410. 2. Aufl. 1969, S. 263–266. 4. PARKINSON, Philosophical
+
+Writings, 1973, S. 106–111. 5. ARIEW-GARBER, 1989, S. 94–98. 6. ROLDÁN, Escritos,
+
+1990, S. 97–105.
+
+Unsere kleine Schrift, die biographisch-entwicklungsgeschichtlich beschreibt, auf welchem Wege Leibniz zur Auflösung des Notwendigkeit-Freiheit-Dilemmas gelangte und dabei die zumindest 1686 (N. 303) abgeschlossene Argumentation zugrundelegt, die auf dem Zusammenhang zwischen Freiheit, Kontingenz und unendlicher Analyse kontingenter Wahrheiten beruht, läßt sich aufgrund ihres Wasserzeichens datieren.
+
+Vetustissima generis humani dubitatio est, quomodo libertas et contingentia, cum serie causarum, et providentia stare possint. Et aucta est rei difficultas, Christianorum disquisitionibus de justitia Dei in procuranda hominum salute.
+
+Ego cum considerarem nihil casu fieri, aut per accidens nisi respectu ad substantias quasdam particulares habito, et fortunam a fato separatam inane nomen esse, et nihil existere nisi positis singulis requisitis, ex his autem omnibus simul vicissim consequi ut res existat; parum aberam ab eorum sententia, qui omnia absolute necessaria arbitrantur, et libertati sufficere judicant, ut a coactione tuta sit, etsi necessitati submittatur; neque infallibile seu verum certo cognitum, a necessario discernunt.
+
+Sed ab hoc praecipitio retraxit me consideratio eorum possibilium, quae nec sunt, nec erunt, nec fuerunt nam si quaedam possibilia nunquam existunt, utique existentia non semper sunt necessaria, alioqui pro ipsis alia existere impossibile foret, adeoque omnia nunquam existentia forent impossibilia, neque vero negari potest fabulas complures [p. 1654] quales Romaniscorum nomine censentur esse possibiles; etsi non inveniant locum in hac serie Universi, quam Deus delegit, nisi quis sibi fingat in tanta magnitudine spatii et temporis aliquas esse regiones poetarum, ubi et Regem Artum Magnae Britanniae, et Amadisum Galliae, et incrustatum figmentis Germanorum Theodericum Veronensem per orbem errantes videre possis; a qua opinione insignis quidam nostri seculi philosophus non multum abfuisse videtur, qui alicubi expresse affirmat materiam omnes successive formas suscipere quarum est capax. (Princip. philos. parte 3 artic. 47). Quod minime defendi potest, ita enim omnis pulchritudo universi et rerum delectus tolletur, ut alia nunc taceam, quibus contrarium evinci potest.
+
+::: editorial
+
+(zu S. 1653) 17 et (1) 〈ante re〉 (2) providentia L 17 rei erg. L 19 f. aut . . . ad (1) Entia (2) substantias habito, erg. L 21 f. nisi (1) existentibus (2) existe (3) positis (a) omnibus requisitis, ex his autem omnibus positis consequi ut ipsum existat; probe (b) singulis . . . parum L 23 et (1) idem esse judicant possibile quod actu aliquando existens, (2) libertati L 25 quae (1) nunquam, (2) nec L 26–28 nam . . . semper erg. . . . foret (1) contra hypothesin (2) adeoque . . . impossibilia erg. L 28 potest (1) fabulam aliquam bene excogitatam erg. , ex earum inprimis numero quas Romaniscas (2) fabulas (a) quales sunt plurimae (b) complures L
+
+:::
+
+Agnita igitur rerum contingentia porro considerabam quaenam esset Notio liquida Veritatis, inde enim non absurde aliquod huic argumento lumen sperabam; ut veritates necessariae a contingentibus discerni possent. Videbam autem commune esse omni propositioni verae affirmativae, universali vel singulari, necessariae vel contingenti, ut praedicatum insit subjecto, seu ut praedicati notio in notione subjecti aliqua ratione involvatur; idque esse principium infallibilitatis in omni veritatum genere, apud eum qui omnia a priori cognoscit. Sed hoc ipsum difficultatem augere videbatur, nam si praedicati notio pro dato tempore in subjecti notione inest, quomodo sine contradictione atque impossibilitate praedicatum a subjecto tunc abesse potest salva ejus notione?
+
+Tandem nova quaedam atque inexpectata lux oborta est unde minime sperabam; ex considerationibus scilicet Mathematicis de natura infiniti. Duo sunt nimirum Labyrinthi Humanae Mentis, unus circa compositionem continui, alter circa naturam libertatis, qui ex eodem infiniti fonte oriuntur. Et ambos sane nodos idem ille insignis philosophus, quem paulo ante citavi, cum solvere non posset, aut sententiam suam aperire nollet, gladio scindere maluit, nam Princip. part. 1. artic. 40 et 41 ait facile nos magnis [p. 1655] difficultatibus intricari si Dei praeordinationem cum libertate arbitrii conciliare conemur; sed ab illis discutiendis abstinendum esse, quod a nobis Dei natura comprehendi non possit. Et idem parte 2. artic. 35. de materiae divisione in infinitum ait dubitari non debere, etsi a nobis capi non possit. Sed hoc non sufficit, aliud enim est nos rem non comprehendere, aliud est nos comprehendere [eam esse] contradictoriam; itaque saltem necesse est responderi posse illis argumentis quae inferre videntur libertatem aut divisionem materiae implicare contradictionem.
+
+::: editorial
+
+(zu S. 1654) 1 non omnes gestr. inveniant L 2 quam Deus delegit erg. (1) et manifestum est (2) nisi L 4 incrustatum (1) fabulis (2) figmentis erg. L 5–10 a . . . potest. erg. (1) Deinde (2) Agnita . . . porro L 8 omnis (1) rerum (2) pulchritudo L 10 esset (1) vera (2) Notio L 11 sperabam (1) . Et quidem omnibus veritatibus ut necessariis (2) ; ut L 12 possent. (1) Agnoscebam (2) Videbam L 13 propositioni (1) universali (2) verae L 13 f. ut (1) notio (2) praedicatum L 16 f. videbatur, (1) ut (2) cum enim nihil aliud sit demonstratio apud Geometras (3) nam si (a) ita (b) praedicatum omne erg. subjecto (c) praedicati notio (aa) in (bb) pro . . . notione erg. L 19 est (1) ex (2) unde L 22 infiniti erg. L 22 ambos (1) idem (2) sane L 23 ante (1) nominavi (2) citavi, L 23 solvere (1) aut (2) non L 24 nam (1) de (2) Princip. L 24 part. 1. (1) artic. 41 de libertate nostra ita (2) artic. 40 et 41 L
+
+6 Vgl. das kurze Stück, wohl aus den 90er Jahren, LH IV 4, 13 c Bl. 5; N. 3272, nach Tafel Abs. 2 und II, 1 N. 222, S. 505. 24–S. 1655.3 Vgl. VI, 3 N. 15, S. 214.
+
+:::
+
+Sciendum igitur est omnes creaturas characterem quendam impressum habere divinae infinitatis, atque hunc esse multorum mirabilium fontem; quibus humana mens in stuporem datur. Nimirum nulla est portio materiae tam exigua, in qua non sit quidam infinitarum numero creaturarum Mundus; neque ulla est substantia individualis creata tam imperfecta, quin in omnes alias agat, et ab omnibus aliis patiatur, et notione sua completa (qualis in divina Mente est) complectatur totum universum et quicquid est, fuit eritve, neque ulla est veritas facti seu rerum individualium quin ab infinitarum rationum serie dependeat, cui seriei quicquid inest a Deo solo pervideri potest, quae etiam causa est, quod solus Deus veritates contingentes a priori cognoscit, earumque infallibilitatem aliter quam experimento videt.
+
+His attentius consideratis, patuit intimum inter Veritates necessarias contingentesque discrimen. Nempe omnis veritas vel originaria est, vel derivativa. Veritates originariae sunt, quarum ratio reddi non potest, et tales sunt identicae sive immediatae, idem de se ipso affirmantes, aut contradictorium de contradictorio negantes. Veritates derivativae rursus duorum sunt generum, aliae enim resolvuntur in originarias, aliae progressum resolvendi in infinitum admittunt; illae sunt necessariae, hae contingentes. Nimirum Necessaria propositio est, cujus contrarium implicat contradictionem; qualis est omnis identica, aut derivativa in identicas resolubilis, et tales sunt veritates quae dicuntur metaphysicae vel geometricae necessitatis. Nam demonstrare nihil aliud est, quam [p. 1656] resolvendo terminos propositionis, et pro definito definitionem aut ejus partem substituendo, ostendere aequationem quandam seu coincidentiam, praedicati cum subjecto in propositione reciproca; in aliis vero saltem inclusionem, ita ut quod in propositione latebat, et virtute quadam continebatur, per demonstrationem evidens et expressum reddatur. Exempli causa, si numerum, ternarium, vel senarium, vel duodenarium etc. intelligamus, qui dividi potest per 3, 6, 12, potest haec demonstrari propositio: omnis duodenarius est senarius. Nam omnis duodenarius est binario-binarius ternarius (quae est resolutio duodenarii in suos primitivos 12 = 2 · 2 · 3 seu duodenarii definitio). Et omnis binario-binarius ternarius est binarius ternarius (quae est propositio identica) et omnis binarius ternarius est senarius (quae est definitio senarii 6 = 2 · 3). Ergo omnis duodenarius est senarius. (12 est idem quod 2 · 2 · 3, et 2 · 2 · 3 divisibilis est per 2 · 3. Et 2 · 3 est idem quod 6. Ergo 12 est divisibilis per 6.)
+
+::: editorial
+
+(zu S. 1655) 3 parte 2. (1) artic. 34 (2) artic. 35. L 5 comprehendere ejus ändert Hrsg, (1) contradictorium; (2) contradictoriam; itaque (a) ne (b) saltem L 6 illis (1) , qui (2) argumentis L 7 f. contradictionem (1) S (2) Verum qu (3) Sciendum L 9 esse (1) mirabilium fontem, qua (2) multorum L 9 fontem; (1) omnem nimirum p (2) nullam esse partem materiae tam exiguam, in qua non contineatur (3) quibus L 11 Mundus; (1) nullus (2) neque L 12 tam (1) abjecta et (2) imperfecta, L 12 notione (1) sua (2) perfecta totum involv (3) sua L 14 f. eritve (1) . Veritates autem (2) , et veritates rerum individualium ita comparatae sunt, ut (a) ab infinitis aliis rat (b) a (c) ab infinitarum aliarum rationum serie dependeant (3) , neque . . . dependeat L 15 f. quae (1) ratio est, ut (2) etiam . . . quod L 16 priori (1) cognoscat (2) cognoscit L 18 patuit (1) veru (2) intimum L 19 vel (1) primitiva (2) originaria L 20 sunt, (1) quae ratio (2) quarum L 21 de (1) ipso (2) contradictorio L 26 quae dicuntur erg. L
+
+:::
+
+Sed in veritatibus contingentibus, etsi praedicatum insit subjecto, nunquam tamen de eo potest demonstrari, neque unquam ad aequationem seu identitatem revocari potest propositio, sed resolutio procedit in infinitum; Deo solo vidente non quidem finem resolutionis, qui nullus est, sed tamen connexionem terminorum, seu involutionem praedicati in subjecto, quia ipse videt quicquid seriei inest; imo ipsa haec veritas ex ipsius partim intellectu, partim voluntate, nata est; et infinitam ejus perfectionem, atque totius rerum seriei harmoniam suo quodam modo exprimit.
+
+Nobis autem duae sunt viae relictae veritates contingentes cognoscendi, una experientiae, altera rationis. Experientiae quidem, quando sensibus rem satis distincte percepimus; Rationis autem ex hoc ipso principio generali, quod nihil fit sine ratione; seu quod semper praedicatum aliqua ratione subjecto inest. Itaque pro certo habere possumus, omnia a Deo fieri perfectissimo modo, neque quicquam ab eo praeter rationem agi; neque [p. 1657] unquam evenire aliquid quin ab eo, qui intelligit, ejus ratio intelligatur, cur nempe sic potius quam aliter sese habeat rerum status. Itaque rationum redditio non minus in mentium quam corporum actionibus locum habet, quamvis necessitas a mentium electionibus absit. Peccata oriuntur ex originali rerum limitatione. Deus autem non tam peccata decernit, quam certarum substantiarum possibilium, futurum peccatum liberum in notione sua completa sub ratione possibilitatis jam involventium, totamque adeo rerum seriem cui inerunt connotantium, admissionem ad existendum. Neque dubium etiam esse debet quin rationes sint arcanae, omnem creaturae captum transcendentes, cur una rerum series (licet peccatum includens) alteri a Deo praeferatur. Caeterum a Deo decernitur non nisi perfectio seu quod positivum est, limitatio autem et nascens ex ea peccatum, eo ipso permittitur, quia decretis quibusdam positivis stantibus rejectio ejus absoluta locum non habet, neque aliud ex sapientiae rationibus superest, quam ut majori bono alioqui non obtinendo redimatur. Verum ista hujus loci non sunt.
+
+::: editorial
+
+(zu S. 1656) 1 resolvendo (1) subje (2) terminos L 2 coincidentiam, (1) ita ut praedicatum (2) praedicati L 3 saltem (1) manifestam (2) eo (3) inclusionem, L 4 quadam (1) confir (2) continebatur, L 5 vel erg. senarium, vel erg. L 6 etc. (1) divid (2) definiamus, (3) intelligamus, L 7 est (1) ternarius, (2) senarius. L 7 est (1) binarius (2) binario-binarius L 8 f. suos (1) primitivos) Et Omnis binariobinarius ternarius est binarius (2) primitivos (a) 12 = 2 · 2 · 3) (b) 12 = 2 · 2 · 3 (aa) (se (bb) seu duodenarii (aaa) propositio (bbb) definitio) L 11 duodenarius (1) est (2) binarius ternarius, (3) seu omnis (4) est senarius, (a) (12 = 2 · 2 · 3 (b) 12 continet (c) (12 divisib. per 2 · 2 · 3 et 2 · 2 · 3 divisib. per 2 · 3 (d) (12 L 13 etsi (1) verum (2) subjectum (3) praedicatum L 16 terminorum erg. L 17 quicquid (1) conti (2) seriei L 17 ipsa haec erg. L 20 f. Nobis (1) tamen duo sunt (2) autem (a) duo sunt principia relicta veritates contingentes cognoscendi, unum experientiae, alterum (b) duae . . . altera erg. (aa) v (bb) rationis. L 21 sensibus (1) distinctis rem (2) rem L 22 ipso erg. L 22 f. ratione (1) . Unde pro certo affirm (2) ; seu quod erg. L 23 praedicatum (1) su (2) aliqua L 24 possumus, (1) nihil unquam fi (2) omnia L
+
+:::
+
+Sed quo magis figatur animi attentio, ne per vagas difficultates exultet, venit in mentem Analogia quaedam veritatum cum proportionibus, quae rem omnem mirifice illustrare et in clara luce ponere videtur. Scilicet quemadmodum in omni proportione numerus minor inest majori, vel aequalis aequali; ita in omni veritate praedicatum inest subjecto. Et uti in omni proportione (quae est inter homogeneas quantitates) analysis quaedam aequalium vel congruentium institui potest, detrahique minus a majore tollendo scilicet a majore partem minori aequalem; et similiter a detracto detrahi potest residuum, et ita porro, vel aliquousque, vel in infinitum; ita in analysi veritatum quoque semper pro termino substituitur aequivalens, ut praedicatum in ea resolvatur quae subjecto continentur.
+
+::: editorial
+
+(zu S. 1657) 1 nempe erg. L 2–4 Itaque . . . absit erg. (1) Et (2) Peccata L 4 limitatione (1) ; at (2) ; ante (a) omnia (b) omne peccatum, (3) . Deus L 5–7 decernit (1) permittere, quam (a) certas (b) existentiam certarum substantiarum possibilium, futurum peccatum sub ratione possibilitatis jam involventium, totamque adeo seriem rerum (2) , quam . . . liberum . . . completa erg. . . . existendum L 8 debet (1) cur una rerum series alteri a Deo praeferatur (2) quin L 9 una (1) ratio (2) rerum series (a) alteri (b) (licet L 9–13 praeferatur. (1) Et (2) Caeterum . . . stantibus erg. . . . bono (a) ejus permissione (b) 〈ingenti〉 (c) alioqui . . . sunt. erg. L 14 Sed ut ad contingentiae explicationem redeamus erg. u. gestr. quo L 16 Scilicet (1) in omni (2) quemadmodum (a) omnis proportio est vel (aa) rationalis (bb) commensurabilium (b) in L 16 f. proportione (1) quantitas minor inest (2) numerus L 17 vel (1) saltem (2) aequalis (a) aequali, (b) sibi; (c) aequali; L 18–20 quantitates) (1) detrahi potest minus a majore, et residuum a detracto, (2) analysis . . . aequalium vel erg. . . . minus a (a) parte (b) majore (aa) sibi aequali (bb) tollendo (aaa) a (bbb) scilicet . . . residuum, L 21 porro, vel (1) in (2) aliquousque, L 21 ita in (1) omni veritate analysis (2) analysi L 22 f. ut (1) sub (2) praedicatum (a) in subjecto contineri seu ab eo detrahi posse appareat. (b) in . . . continentur. L
+
+:::
+
+[p. 1658] Sed quemadmodum in proportionibus aliquando quidem exhauritur analysis et pervenitur ad communem mensuram, quae scilicet repetitione sui perfecte utrumque proportionis terminum metitur, interdum vero analysis in infinitum continuari potest, ut fit in comparatione numeri rationalis et surdi, velut lateris et diagonii in quadrato; ita similiter veritates interdum demonstrabiles sunt seu necessariae, interdum liberae vel contingentes, quae nulla analysi ad identicitatem tanquam ad communem mensuram reduci possunt; atque hoc est discrimen essentiale tam proportionum quam veritatum.
+
+Interim quemadmodum proportiones incommensurabiles subjiciuntur scientiae Geometrae, et de seriebus quoque infinitis demonstrationes habemus, ita multo magis veritates contingentes seu infinitae subeunt scientiam Dei, et ab eo non quidem demonstratione (quod implicat contradictionem), sed tamen infallibili visione cognoscuntur. Dei autem visio minime concipi debet ut scientia quaedam experimentalis, quasi ille in rebus a se distinctis videat aliquid, sed ut cognitio a priori per veritatum rationes, quatenus res videt ex se ipso, possibiles quidem consideratione suae naturae, existentes autem accedente consideratione suae voluntatis liberae decretorumque, quorum primum est omnia agere optimo modo, et summa cum ratione. Scientia autem media quam vocant nihil aliud est quam scientia possibilium contingentium.
+
+His autem probe consideratis non puto difficultatem in hoc argumento nasci posse, cujus non solutio ex dictis derivari queat. Admissa enim hac notione Necessitatis, quam admittunt omnes, quod scilicet ea demum necessaria sint, quorum contrarium implicat contradictionem, facile apparet naturam demonstrationis atque analyseos consideranti dari posse imo debere veritates, quae nulla analysi ad veritates identicas vel contradictionis principium reducantur, sed infinitam rationum seriem suppeditent uni Deo perspectam. Atque eam esse naturam omnium quae libera et contingentia appellantur, sed [p. 1659] maxime eorum quae locum et tempus involvunt, ex ipsa infinitate partium universi, rerumque mutua permeatione ac nexu satis supra ostensum est.
+
+::: editorial
+
+(zu S. 1658) 4 comparatione (1) numeris (2) numeri L 4 surdi, (1) vel (2) velut L 7 possunt (1) . Interim quemadmodum Geo (2) ; atque L 9 infinitis (1) verit (2) demonstrationes L 10 infinitae, (1) effugiunt (2) subeunt erg. L 10 eo (quod implicat contradictionem) erg. u. gestr. non L 11 (quod contradictionem) erg. L 11 tamen (1) indivi (2) infallibili L 12 cognoscuntur. (1) It (2) Visio autem (3) Divisi (4) Divina (5) Dei L 12 concipi (1) potest (2) debet L 13 quasi (1) in rebus ille (2) ille distinctis L 13 f. per . . . rationes erg. L 14 ipso, (1) tanquam possibiles (2) possibiles quidem (a) in (aa) suae (bb) cogitatione (b) consideratione L 15 autem (1) in (2) accedente erg. L 15 liberae erg. L 16 f. Scientia . . . contingentium erg. L 18 difficultatem (1) facile (2) temere erg. u. gestr. in hoc argumento temere erg. u. gestr. (a) nasci, (b) nasci posse, L 19 enim semel gestr. hac L 20 scilicet erg. L 22 posse (1) veritates (2) imo L 22 nulla (1) unquam (2) analysi ad (a) identicas, sive ad contradictio (b) veritates L 23 sed (1) analysin (2) abeant in seriem rationum infinitam (3) infinitam L 25–S. 1659.1 appellantur, (1) locumque et tempus (2) sed maxime (a) ea (b) eorum . . . involvunt erg. L
+
+:::
+
+## 327. ORIGO VERITATUM CONTINGENTIUM [Sommer 1689 (?)]
+
+Die auf dem Wasserzeichen beruhende Datierung läßt sich auch inhaltlich stützen. Die hier aufgezeigte Analogie der Begründung notwendiger bzw. kontingenter Wahrheiten zu der kommensurabler bzw. inkommensurabler Zahlen hat Leibniz zumindest seit 1686 (N. 303) benutzt, um das Freiheitsdilemma aufzulösen. Erneut geschieht dies in den in Italien geschriebenen Aufzeichnungen N. 325 und 326. Da sich bis in einzelne Wendungen hinein Parallelen feststellen lassen (in allen drei Stücken wird z.B. das Romanargument als Beispiel für die Kontingenz angeführt), liegt es auch von hier aus nahe, dieselbe Entstehungszeit anzunehmen. 3271. RADIX CONTINGENTIAE EST INFINITUM IN RATIONIBUS
+
+Überlieferung:
+
+L Konzept: LH I 6, 2 Bl. 12. 1 Bl. 4o. 1 S.
+
+E COUTURAT, Opusc. et fragm., 1903, S. 3 (Teildruck).
+
+VERITAS PROPORTIO 1) est praedicatum inesse subjecto
+
+1) est quantitatem minorem certo modo inesse majori
+
+2) ostenditur reddendo rationem 2) ostenditur explicando habitudinem 3) quod fit per quandam analysin 3) quod fit per quandam analysin terminorum terminorum 4) in notiones communes utrique. 4) in quantitates communes utrique. [p. 1660] 5) Haec Analysis vel finita est, 5) Haec Analysis vel finita est
+
+::: editorial
+
+(zu S. 1659) 1 partium (1) ac substa (2) universi, L 17–20 subjecto (1) ratio ejus redd (2) ostenditur L 20 explicando (1) per qu (2) habitudinem L 23 in (1) terminos (2) notiones L 23 in (1) notionem (2) mensuram communem (3) partes communes (4) quantitates communes L
+
+:::
+
+vel infinita. vel infinita. 6) Si finita sit dicitur 6) Si finita sit, dicitur
+
+Demonstratio Inventio maximae communis mensurae,
+
+7) et veritas dicitur 7) et proportio dicitur necessaria, commensurabilium 8) reducitur enim ad veritates 8) reducitur enim ad congruentiam identicas, cum mensura eadem repetita 9) seu principium contradictionis. 9) seu principium aequalitatis eorum quae sibi congruunt.
+
+10) Sin nunquam perveniatur 10) Sin nunquam perveniatur ad exhaustionem ad exhaustionem 11) et analysis procedat in infinitum 11) et analysis procedat in infinitum 12) veritas dicitur contingens 12) proportio est incommensurabilitatis
+
+13) quae infinitas involvit rationes 13) quae infinitos habet quotientes 14) ita tamen ut semper aliquod 14) ita tamen ut semper aliquod sit residuum sit residuum 15) cujus iterum quaerenda est ratio 15) novum praebens quotientem 16) continuata autem analysi 16) continuata autem analysi prodit series infinita prodit series infinita 17) quae tamen a Deo 17) circa quam Geometra perfecte cognoscitur. utique multa cognoscit. 18) Et haec est scientia visionis 18) Et haec est doctrina de numeris surdis, decimo Elementorum contenta 19) distincta a scientia simplicis 19) distincta ab Arithmetica communi intelligentiae 20) utraque tamen non experimentalis 20) utraque non experimentis sensuum, [p. 1661] sed a priori habens infallibilitatem sed demonstrationibus innixa 21) neque inter has media datur. 21) neque inter has media datur. Quam vero vocant Scientiam Mediam est scientia visionis contingentium possibilium. 22) Ex his apparet radicem 22) Ex his apparet radicem contingentiae esse incommensurabilitatis esse infinitum in rationibus. infinitum in materiae partibus. 3272. ORIGO VERITATUM CONTINGENTIUM EX PROCESSU IN INFINITUM
+
+::: editorial
+
+(zu S. 1660) 6 dicitur (1) commensurabilis (2) commensurabilium L 8 ad (1) congruentias (2) congruentiam L 10 seu (1) pendet ex principio (2) principium contradictionis, L 10 seu (1) pendet ex principio (2) principium L 20 15) (1) cujus ope (2) novum L 23 17) (1) de qua (2) quae L
+
+25–27 EUKLID, Elementa, lib. X.
+
+:::
+
+Überlieferung:
+
+L1 Konzept: LH I 6, 2 Bl. 13. 1 Bl. 4o. 2 S.
+
+L2 Reinschrift: LH I 6, 2 Bl. 11. 1 Bl. 4o. 2 S. (Unsere Druckvorlage.)
+
+E1 COUTURAT, Opusc. et fragm., 1903, S. 1 f. (Teildruck nach L2 ).
+
+E2 GRUA, Textes, 1948, S. 325 f. (Teildruck).
+
+Übersetzungen: 1. SCHMIDT, Fragmente, 1960, S. 420–422 (Teilübersetzung nach E1 ). 2.
+
+ARIEW-GARBER, 1989, S. 98–101.
+
+Origo veritatum contingentium ex processu in infinitum ad exemplum proportionum inter quantitates incommensurabiles
+
+VERITAS PROPORTIO est, inesse praedicatum subjecto, quantitatem minorem majori vel aequalem aequali, ostenditur reddendo rationem explicando habitudinem per analysin terminorum in communes utrique notiones. quantitates.
+
+::: editorial
+
+(zu S. 1661) 1 f. innixa neque inter has (1) proportiones (2) media L 4 visionis erg. L 5 possibilium nunquam existentium gestr. . L 7 f. incommensurabilitatis esse (1) infinitam (2) infinitum L 17 Origo contingentium veritatum ex L1 18 inter (1) numeros (2) quantitates L1 22 f. majori certo modo erg. u. gestr. L1 vel . . . aequali erg. L2
+
+:::
+
+[p. 1662] Haec Analysis vel finita est, vel infinita.
+
+Si finita sit, dicitur
+
+Demonstratio. Inventio communis mensurae seu commensuratio.
+
+Et veritas est necessaria. Et proportio est effabilis.
+
+Reducitur enim ad veritates identicas congruentiam cum mensura eadem repetita seu ad principium primum contradictionis sive identitatis. aequalitatis eorum quae congruunt.
+
+Sin Analysis procedat in infinitum nec unquam perveniatur ad exhaustionem veritas est contingens proportio est ineffabilis quae infinitas involvit rationes quae infinitos habet quotientes ita tamen ut semper aliquod sit residuum cujus iterum reddenda sit ratio novum praebens quotientem continuata autem analysi prodit series infinita quae tamen a Deo perfecte cognoscitur. circa quam Geometra multa cognoscit.
+
+Et haec est scientia visionis Doctrina de numeris surdis qualis est Decimo Elementorum contenta distincta a scientia simplicis intelligentiae ab Arithmetica communi utraque tamen non experimentalis, sed a priori habens infallibilitatem, et secundum quidem genus per rationes certas, per demonstrationes necessarias [p. 1663] uni Deo infinitum comprehendenti Geometrae cognitas, numeris tamen perspectas, non necessarias tamen effabilibus non comprehendendas
+
+::: editorial
+
+(zu S. 1662) 1 Analysis finita L1 2 f. dicitur (1) Demonstratio per (2) Demonstratio L1 3 f. seu commensuratio erg. L1 5 veritas (1) necessaria dicitur (2) est necessaria L1 5 Et erg. proportio (1) effabilis appellatur (2) est effabilis L1 8 primum erg. L1 10–12 Sin nunquam perveniatur ad exhaustionem, et Analysis procedat in infinitum veritas (1) dicitur (2) est L1 12 f. ineffabilis seu inter incommensurabiles quantitates quae infinitos L1 19 f. surdis decimo Elementorum L1 24 et (1) posterior quidem (2) secundum quidem genus L2 25–S. 1663.5 certas (1) nam (a) im (b) demonstrationes (aa) hic (bb) contingentium dari impossibile est (2) uni Deo infinitum comprehendenti perspectas (3) uni perspectas, (a) nam demonstrationes hic dari impossibile est (b) non . . . tamen erg. . . . contingentium (aa) dari impossibile est (bb) dari L1 25–S. 1663.1 necessarias (1) non (a) vero per experimenta numerorum (b) tamen per (aa) numeros (bb) arithmeticas quas in surdis dari impossibile est (2) Geometrae L1
+
+19 f. EUKLID, Elementa, lib. X.
+
+:::
+
+nam demonstrationes veritatum proportiones surdas arithmetice cognosci contingentium dari seu per mensurae repetitionem explicari impossibile est.
+
+Veritates contingentes dari, in quarum rationibus reddendis processus in infinitum fiat, vel hinc intelligitur, quod infinitae sunt actu creaturae in qualibet parte universi; et unaquaeque substantia individualis in notione sua completa totam seriem rerum involvit, et cum aliis omnibus consentit adeoque aliquid infiniti continet. Quod non intellectum fecit etiam ut Unio animae et corporis inexplicabilis haberetur; neque enim in se invicem influunt in Metaphysico rigore, imo nec Deus unius occasione aliud movet et a suo proprio cursu deturbat; sed unumquodque suas leges prosequens ex primaevae institutionis admiranda sed infallibili directione tam exacte alteri consentit, ac si verus esset influxus. Estque aliquid simile in omnibus substantiis etiam a se invicem remotissimis. Etsi in illis consensus non ita distincte appareat.
+
+Si omne quod fit, necessarium esset sequeretur sola quae aliquando existunt esse possibilia (ut volunt Hobbes et Spinosa) et materiam omnes formas possibiles suscipere (quod volebat Cartesius). Ita nullus fingi posset Romaniscus, qui non aliquando aut [p. 1664] alicubi existeret. Quod absurdum est. Itaque potius dicemus ex infinitis seriebus possibilibus unam elegisse Deum, propter rationes captum creaturarum superantes.
+
+::: editorial
+
+(zu S. 1663) 2 effabilibus non (1) comprehendendas L1 (2) comprehendentes (3) comprehensas (4) comprehendendas L2 4 f. cognosci (1) impossibile est (2) seu (a) effabiles reddi impossibile est (b) per explicari L1 7 f. contingentes (1) necesse est infinitas rationes (a) involvere (b) continere (2) esse (3) dari erg. (a) quae infinitas rationes contineant Quia L1 (b) in . . . reddendis (aa) detur (bb) processus . . . quod L2 9 completa (1) totum universum; et (2) totam L1 9 seriem (1) universi (2) rerum L2 10 , et consentit erg. L1 adeoque . . . continet erg. L2 11 etiam erg. L2 11 Unio animae et corporis L1 11 enim (1) aut (2) corpus in animam phy (3) in L1 11–13 invicem (in metaphysico rigore) erg. influunt, nec . . . a (1) legibus (2) suo (a) ordine (b) proprio cursu deturbat erg. L1 14 f. directione alteri consentit (1) perinde (2) tam exacte ac si (a) mutuo influxu a se invicem paterentur (b) verus esset influxus erg. ; (aa) denique (bb) estque L1 14 exacte (1) ac si (2) alteri L2 15 a se invicem erg. L1 16 consensus (1) sit minus distinctus (2) non L2 16 f. appareat. (1) Non omne existens esse necessa (2) Si omne (a) contingens L1 (b) fi (c) quod L2 17 quae (1) exis (2) aliquando L1 18 (ut . . . Spinosa) erg. L1 19 Ita (1) aliquando (2) nullus L1 19 aliquando (1) alicubi (2) aut L1
+
+17 f. Vgl. TH. HOBBES, Elementorum philosophiae sectio prima de corpore, 1655, II, 10, art. 4–5; B. DE SPINOZA, Ethica, pars I, prop. 29, u. pars II, prop. 44. – Vgl. II, 1 N. 222, S. 505 f. 17–19 Vgl. R. DESCARTES, Principia philosophiae, III, 47. – Vgl. II, 1 N. 222, S. 505; N. 326, Abs. 3.
+
+:::
+
+Causa mali est a limitatione originali creaturarum ante omne peccatum; nec a Deo decernitur, nisi id solummodo quod pure positivum est, seu in perfectione consistit, et ideo malum permittitur tantum a Deo; quod secus est in hominibus qui per se ad majus bonum generale non tendunt.
+
+Omnis veritas quae identica non est, probationem recipit; necessaria ostendendo contrarium implicare contradictionem; contingens ostendendo plus rationis esse pro eo quod factum est quam pro opposito. Nam ut sapientis ita et Dei primum decretum sive propositum est omnia agere cum summa ratione. Ita si fingeremus casum, in quo constaret existere debere triangulum dati ambitus, nihil vero esse in datis unde erui queat species Trianguli, dicendum erit a Deo triangulum aequilaterum, libere quidem, haud dubie tamen, productum iri. Nihil enim in datis est, quod impediat quodvis aliud existere triangulum, itaque aequilaterum non est necessarium. Interim ut nullum aliud eligatur sufficit in nullo alio praeterquam in hoc rationem esse cur caeteris praeferatur: idemque est si datum sit lineam a dato puncto ad punctum datum duci debere, nec quicquam datum quo lineae species aut magnitudo determinetur, fiet recta certo, sed libere, nam quemadmodum nihil est quod curvam impediat, ita et nihil quod eam suadeat.
+
+::: editorial
+
+(zu S. 1664) 1 f. existeret. Itaque potius (1) erit (2) dicendum est erg. ex . . . possibilibus (a) eam (b) unam (aa) pr (bb) eligit Deus propter . . . superantes erg. L1 2 unam (1) eligere (2) elegisse L2 4 id (1) quod (2) solummodo quod pure L1 4–8 seu (1) perfectionem involvit (2) in . . . consistit (a) , limitatio et malitas tantum (b) . Malum ideo permittitur (aa) quia (bb) tantum, hoc est ideo evenit, quia (aaa) stantibus positivis (aaaa) non magis evitar (bbbb) non a (cccc) rejectio ei (bbb) positivis quam optime stantibus rejectio ejus absoluta (aaaa) locum non habet ex (bbbb) ex sapientiae rationibus (aaaaa) locum non habet (bbbbb) non imperatur (ccccc) constructis (ddddd) nec (eeeee) non (fffff) nec unquam dividi (c) , et ideo . . . Deo, secus est in hominibus ad majus bonum non tendentibus. (aa) Commune est omnibus veritatibu (bb) Omnis veritatis (quae identica non est) ratio reddi potest, et necessariarum ostendendo contrarium implicare contradictionem, contingentium ostendendo (cc) Omnis . . . et necessaria . . . ostendendo (aaa) id quod factum est (bbb) plus L1 9 opposito. (1) Etsi in individualibus rationum perfectarum redditio potius sit (2) Nam L1 10 si (1) poneremus (2) dari (3) fingeremus L1 11 constaret (1) dari (2) existere L1 11 ambitus, (1) nullum ve (2) nihil vero (a) ex datis (b) sit (c) esse L1 12 erit (1) exist (2) a Deo (a) factum esse (b) triangulum L1 13 productum esse (1) . Triangulum (2) , nihil L1 13 f. aliud (1) existere; sed cur (2) existere aequilaterum (a) prae aliis eligi (b) non . . . ut L1 14 f. aliud (1) ab eo (2) eligatur sufficit (a) nullam esse rationem eligendi aliud quodcunque in alio quocunque, cur caeteris praeferatur (b) in L1 16 si (1) 〈 – 〉 (2) datum L2 16 a puncto ad punctum duci L1 17 f. certo, . . . quod (1) etiam suadeat determinatione unam prae alia. (2) eam suadeat. erg. L2
+
+:::

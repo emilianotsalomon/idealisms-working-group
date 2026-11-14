@@ -1,0 +1,5124 @@
+---
+title: Entwurf einer vollständigen Theorie der Anschauungsphilosophie
+author: Hermann Wilhelm Ernst von Keyserlingk
+id: 5792
+markers: [print]
+pairs_by: print
+year: 1822
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1822 edition (Heidelberg: Joseph Engelmann, 1822; year from the title page); converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: "[p. N] marks where printed page N begins (the 1822 edition (Heidelberg: Joseph Engelmann, 1822; year from the title page)); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: "The Entwurf einer vollständigen Theorie der Anschauungsphilosophie was printed in 1822; Hermann Wilhelm Ernst von Keyserlingk (in print in 1822, so dead long before 1955) is long out of protection and the edition (1822) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish."
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 5792)
+---
+
+# H. von Keyserlingk, *Entwurf einer vollständigen Theorie der Anschauungsphilosophie* (1822)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Entwurf vollständigen
+
+Theorie
+
+Anschauungsphilo
+
+sophie.
+
+Von Herrmann Wilhelm Ernst v. Keyserling ?, Doctor der Philosophie.
+
+Heidelberg , E n g elmann. J oseph bei 1 8 2 2.
+
+(
+
+## Vorwort.
+
+Hiermit übergebe ich dem Publico die Ausführung iermit dessen , was in meiner Metaphysik skizzenartig und fragmentarisch enthalten ist : ob eine weitere Fortführung folgen kann , oder nicht , muß mich die Aufnahme lehren , die gegenwärtiges Buch findet.
+
+darin versucht worden ,
+
+Es ist die große Aufgabe zu lösen , die überhaupt Problem der Philosophie ist , nämlich das Verhältniß des Daseyenden zum absoluten Seyn zu erklären.
+
+Es ist nur ein Versuch, aber weiter kann ein Philosophem überhaupt nichts seyn.
+
+Ob ein solcher einen Platz in der Geschichte der Philosopheme verdient , bestimmt sich darnach , ob und in wie weit [p. iv] es die Lösung der Aufgabe selbst gefördert habe , oder nicht.
+
+Schon in frühster Zeit hat diese Lösung Weise und Denker beschäftigt , und es sind aus diesen Versuchen verschiedene Formen entstanden.
+
+Im Orient , unter Indern , Persern und Aegyptern haben sie das Gewand von unmittelbaren Anschauungen , Offenba. rungen und Weissagungen angenommen ; die Griechen haben mehr dialectisch und sceptisch die einzelnen Mo, mente der Aufgabe zu entwickeln versucht, zwischen beiden Endpuncten hat die neuere und die neueste Philosophie geschwankt.
+
+Anfangs findet man unter den
+
+/ Griechen blos die Fortsetzung und Fortleitung der orientalischen Philosophie, die aus Aegypten und KleinAften herüber kam : erst unter den Eleaten und durch sie wird ein selbstständiges , eigenthümlich griechisches
+
+Element entwickelt , und der eingewanderte Fremdling wird zum Eingebornen.
+
+Viele behaupten zwar , dieß lasse sich historisch nicht erweisen : aber diese verweilen offenbar mit zu beschränkt empirischem Sinn an das diplomatisch und actenmäßig , unverwerflich Erweißliche, oder mit einseitiger Vorliebe an die Griechheit. Es entsteht nichts einzeln , noch abgerissen , sondern
+
+Alles steht in einem nothwendigen und unmittelbaren Zusammenhang, so , daß jedes nur in dem Andern und aus dem Andern ist.
+
+Es verräth daher die Behauptung , die griechische Philosophie sey ganz unab, hängig von der orientalischen , allein durch die Griechen erzeugt, nicht blos einen gänzlichen Mangel an philosophischem Sinne , sondern auch eine völlige Unbekanntschaft mit der griechischen Philosophie :
+
+denn eine Kenntniß der äußern Momente und Thatsachen in der Philosophie , d. i. die Kenntniß von dem , was dieser jener Philosoph eigentlich behauptet hat , gesagt oder nicht, kann man , dem wahren
+
+Begriff gemäß, so wenig eigentliche Bekanntschaft mit derselben nennen , als es wahre Bekanntschaft mit einem Menschen ist , wenn man nur seine Handlungen und Aeußerungen kennt.
+
+Die wahre Bekanntschaft mit der Philosophie besteht in der richtigen Würdigung ihres Characters und Geistes , und da bedarf es nur eines oberflächlichen Blickes auf die ältesten und ersten Erzeugnisse der Griechen , um zu erkennen , daß sie nur eine Fortseßung und Fortbildung orientalischer Philosopheme seyen .
+
+Welche Bewandtniß es mit der Be.
+
+[p. vi] hauptung von dem langen Aufenthalte griechischer Philosophen in Aegypten habe , darauf kommt nichts wesentliches an ; aber der Geist , der in ihren Philosophemen weht , beurkundet deutlich genug den orientalischen Ursprung , der auch, davon abgesehen , nothwendig vorausgesetzt werden muß : denn vom Orient aus ist die Erde bevölkert worden , und von da aus hat sich alle menschliche Bildung verbreitet und ergossen.
+
+Die neuere Philosophie ist lange nichts anders als Fortsetzung und Fortbildung der griechischen , nur durch das Christenthum modificirt gewesen , und die erste eigenthümliche und selbstständige Entwickelung in ihr ist von Spinoza und Kant ausgegangen.
+
+Nicht leicht hat ein Philosoph in jeder Beziehung eine so flarke und allgemeine Anregung veranlaßt , als eben Kant : es gehörte zum guten Tone , Kantisch zu seyn. Man kann gewissermaßen Kant als den Anfang jener Periode betrachten, die wir nicht besser als durch :
+
+„Zeit des Autoritätsglaubens " zu bezeichnen wissen.
+
+Das Entstehen und Vollenden dieser Zeit hångt unstreitig mit der Abnahme von Energie , und damit mit dem zunehmenden Mangel an selbstthätiger Kraft [p. vii] zusammen : die immer allgemeiner werdende Schlaffheit liebte sich die Bequemlichkeit , und dieser sagte es ungemein zu , ja es entsprach ihr vollkommen , sich in aller Hinsicht an gewisse hervorragende Erscheinungen anlehnen zu können , ohne nöthig zu haben, sich selbst anzustrengen.
+
+So ward für die angehenden Philosophen ein bequemes Ruhebett Hegel : für die jungen Dichter und Kunstrichter ein guter Ruhesiß Göthe, und es ward Mode den Einen , wie den Andern bet Lebzeiten zu apothcosiren .
+
+Es fehlt ihnen zum Apollonius von Thyema , oder Pythagoras , nichts weiter , als der Ruf der Kräfte.
+
+Geisterscherei und übernatürlicher
+
+Sie selbst , als Männer von wahrhaft gro.
+
+Dem und originellem Geist , können gewiß einen solchen blinden Köhlerglauben nicht wünschen , und er kann ihnen nicht zugerechnet werden ; er liegt in der eigen thümlichen Richtung des Zeitgeistes , und es ist nicht zu hoffen , noch zu erwarten , daß es einzelnen Bestrebungen gelingen werde , diese zu verändern , oder aufzuheben : aber nach besten Kräften eine solche Ver. ånderung , oder Umwandlung, mit vorzubereiten , oder einleiten zu helfen , sollte jeder versuchen , der erkennt, [p. viii] daß in der Geistesstagnation , die in der Zeit herrscht, nothwendig der Untergang , oder vielmehr die Vers nichtung aller eigenthümlichen und selbstständigen Gelfresentwickelung liegt , gerade wie das unverstandne und unbegriffne Geschrei nach Verfassungen , die auf Menschen ohne Leidenschaften und Sinnlichkeit , also etwa auf Mondbewohner , berechnet sind , eine Er.
+
+tödtung aller energischen und eigenthümlichen Bewegung und Entwickelung im Volksleben wåre , wenn es realisirt würde, -- Eine Kritik seines Buchs wünscht der Verfasser mit aufrichtigem Ernst ; jedoch macht er / den Anspruch, und wie es ihn dünkt , mit Recht, nach seinem Standpuncte , nicht von dem Standpuncte die ses oder jenes andern Systems beurtheilt zu werden : denn wie man Menschen nur von ihrem Standpuncte aus beurtheilen kann , und muß , und nicht von dem feinen , so auch Geisteswerke.
+
+In sofern man sich nie von seiner Subjectivitåt ganz loszusagen vermag , ist man auch nie im Stande in seinem Urtheilen vol. lig objectiv zu werden , was doch nöthig wäre, wenn man einen Andern seiner Subjectivitåt völlig angemessen beurtheilen will.
+
+Aber vermag man auch nicht , [p. ix] dem Begriff vollkommen zu entsprechen , so sollte man wenigstens ihm möglichst entsprechen wollen.
+
+in den meisten Recensionen unserer Zeit erkennt man auch nicht eine Spur von diesem åcht kritischen Bestreben.
+
+Einigen sieht man es an Ton und Inhalt an , daß sie nicht weiter , als bis zum Titel , gekommen sind , der sie schon bestochen hat , oder an dem sie im Voraus einen Anstoß gefunden haben : Andere haben nur flüchtig die ersten Blätter durchblåttert , oder auch wohl nur den Inhalt angesehen , und urtheilen flüchtig , obenhin , leidenschaftlich , befangen.
+
+Dadurch ist es geschehen , daß Recensionen allen Werth verloren haben , und im Grunde nichts weiter mehr sind , als etwas gewöhnlich .
+
+ausführlichere Buchhändleranzeigen ,
+
+Solche kann und wird der Verfasser , sie mögen nun tadeln , wie und was sie , und auf welche Art sie wollen , nicht beachten , und für die, die der gleichen beachten , ist sein Buch auch nicht geschrieben : nur die, die in Geist , Sinn und Zusammenhang des Ganzen eingegangen sind , und in diesem die Mångel , die gewiß vorhanden sind , nachweisen , können ihm wünschenswerth, erfreulich und beachtungswerth schei ,
+
+[p. x] Von vielen Schriftstellern ist oft die Anforderung gemacht worden , daß die Recensenten sich nennen möchten ; allein dieß ist offenbar eine Verkennung der Kritik, ihrem Begriff nach , die eben , wie oben angedeutet wurde , rein objectiv seyn soll, folglich mit der Person nichts gemein haben kann , sondern nur mit der Sache, und wie sie das fremde Subject nicht beachten darf, so muß sie das eigene bei Seite sehen. Gelånge, das Subject ganz aufzuheben , so würde dem
+
+Begriff erst völlig entsprochen seyn.
+
+So wie das
+
+Subject entscheidend vortritt , verwandelt sich die Kritif in ein leeres Nichts , das weder schmeicheln , noch beleidigen
+
+Bei einem schlechten und nichts fagenden Werke kann nichts auf den Namen des Urhe. bers ankommen .
+
+Der Verfasser , nach seinem Ge fühle, würde Recensionen , deren Urheber sich nam, haft machten , nicht als solche anerkennen , selbst wenn sie in acht kritischem Geiste verfaßt wären. scheidende Vortreten des Subjects ,
+
+Das ent oder Egoismus ,
+
+scheint überhaupt Character unserer Zeit :
+
+so schreiben unsere Gelehrten keine Geschichte , d. i. Darstellung der Begebenheiten und Thatsachen und Perso-
+
+[p. 1] XI nen, wie sie waren , und unter den gegebenen Umständen und Bedingungen nur seyn konnten , mußten , sondern sich selbst in einer und seyn fortgehenden
+
+Reihe von ganz subjectiven Ansichten , und engherzig kleinlichen , moralischen Betrachtungen :
+
+es sind Subjecte von der Gattung , von der Schiller so bezeichnend sagt : „ fte greinen über die Siege eines Hanni1 bals und Scipio. "
+
+So viel von dem , was der Verfasser in Ansehung einer Kritik vorausseßt und ver langt , wenn er sie beachten soll : Was Geist, Zusammenhang und Tendenz des Ganzen anlangt , so muß dieser am besten unmittelbar aus dem Buche selbst er. hellen , und der Verfasser berührt dieß also nicht wel, ter.
+
+Er wünscht bei seinem Buche beherzigt , was er bei jedem erfüllt zu sehen wünschte : Prüfet Alles , und behaltet das Beste , aber das „ autos &pa“ der He, gelianer , oder welcher Janer sonst, weißt er schlechter. dings von sich. i
+
+Berbesserungen.
+
+Seite 5 8.1 und 2 statt : . Daß lies : ― fönhen 5 v. u. fönne
+
+60. 2 v. u.
+
+v. u.
+
+172 · 3 V. 0. -
+
+11 b . u.
+
+315. 5 v. u.
+
+-
+
+-
+
+**§ 56**
+
+haben (§ 56) heben transcendent transcent bestehende bestehenden
+
+-zu Erkennen und zu Begreifen lies: zu erkennen und zu begreifen zukommen lies: zukomme
+
+## Erster Haupttheil. Theoretif.
+
+### Erstes
+
+### Buch.
+
+### Reine Transscendental : Philosophie , oder Metaphysik.
+
+### Einleitende Untersuchungen.
+
+#### Erste Abtheilung. Allgemeine Begriffsbestimmungen.
+
+§.
+
+1.
+
+Die Wahrheit an sich in den höchsten und wichtigstea menschlichen Angelegenheiten zu finden , ist die Aufgabe, welche die Philosophie zwar mit allen Wissenschaften und menschlichen Erkenntnißsystemen gemein hat , die sie aber allein lösen kann , und wenn also die Wahrheit an sich das verschleierte Bildniß zu Sais war, ist sie [p. 2] es , die den wißbegierigen Wahrheitsjüngern den geheimnisvollen Schleier lüpfen lehrt.
+
+In dem eben Angedeuteten sind die zwei Begriffe : "Wahrheit an sich" und : „höchste und wichtigste menschliche Angelegenheiten" einer nähern Bestimmung bedürf tig.
+
+Wahrheit an sich ist nicht sowohl Begriff, d. i .
+
+eine zwar deutliche und bestimmte , aber doch immer nur mittelbare Erkenntniß , als vielmehr Idee , d. i. unmittelbares Erfassen und Wissen von dem objectiv wahren Zustande der Dinge , von ihrer Wesenheit sammt Grund und Zweck , die sie rein , unbezüglich , unbedingt haben. Daher wird auch nur eine in ihrem Erkennen selbst schlechthin unbezügliche und unbedingte Vernunft dieser Erkenntniß in ihrer vollen Klarheit fähig seyn , während eine in ihrem Erkennen bezügliche und bedingte Vernunft dieser Erkenntniß bloß unvollständig theilhaftig ist, also hat jene lediglich die Idee , diese das Abbild. Solcher Abbilder sind inzwischen unendlich viele möglich, die als solche mit dem Urbilde eine gewisse Aehnlichkeit haben, folglich nie schlechthin falsch seyn , obschon sie anderseits demselben nie ganz gleichen , also nie schlechthin wahr seyn können , und erst , wenn sie alle dargestellt sind , werden sie dem Urbilde selbst vollkommen gleichen.
+
+Demnach kann weder ein einzelnes Subject, noch eine bestimmt gegebene Zeit die Idee selbst darstelIcn. Gleichwohl ist sie darstellbar, aber nur in unend licher Zeit.
+
+Einem Subjecte also, wiefern es die Idee selbst möglicher Weise soll darstellen , und somit den leßten Zweck alles Philosophirens soll erreichen können, müßte die Zeit zu nichts , oder zur unendlichen gewor den seyn , wodurch es eben aufhören würde , Subject, [p. 3] und somit bedingt und beschränkt zu seyn , und dies Subject ist offenbar die Menschheit an sich , die , selbst kein bezügliches , noch bedingtes Weltwesen , sondern ein rein unbedingtes und unbezügliches Ideenwesen, das schlechthin Unbedingte und Unbezügliche , wird darstellen können.
+
+wie die Idee selbst,
+
+Aber das Handeln , was dies
+
+Ideenwesen vornimmt , und das man auch um deswillen ein objectives Handeln nennen könnte , erscheint nicht im Bewußtseyn des einzelnen Menschen , der nicht der Menschheit angehört , wiefern sie als Ideenwesen keiner Zeit untergeben seyn kann , sondern Glied der Menschheit ist, die als Weltwesen der Zeit nothwendig / angehört : dieser fühlt und begreift sich nur als Einzelwesen Handeln , und nicht als das Gesammtwesen selbst, dessen nothwendiges Glied er ist.
+
+Daher macht er unverzneidlich das auch in ihm erscheinende Handeln jenes Gesammtwesens , oder das objective Handeln , durch seine Art, dies Handeln in sich zu fühlen und zu begreifen, zw einem Handeln eines Einzelnwesens , und somit zu einem subjectiven , beschränkten und bedingten.
+
+jedem einzelnen Menschen ,
+
+Doch ist in oder jedem Subjecte , das
+
+Bedürfniß, jene Schranke seiner Subjectivität zu überschreiten, oder gar zu vernichten , mithin , da sie eine offenbare Mangelhaftigkeit in und an seinem Wesen ist, sich selbst zu vollenden.
+
+Ist dies Bedürfniß nicht bloß eine Folge des in Allem befindlichen unersättlichen Lebens , oder Entwicklungstriebes , sondern beruht es auf der richtigen Erkenntniß des Subjects von sich selbst, seinen Umgebungen und dem , worin die Mangelhaftig.
+
+keit seines Wesens eigentlich besteht , verbindet sich noch außerdem die bestimmt bewußte Absicht damit , diese [p. 4] zweck- und naturgemäß zu beseitigen , so wird daraus ein zweckmäßiges
+
+Streben hervorgehen ,
+
+Philosophiren ist , ein und dessen Endergebniß
+
+Philosophie seyn wird. §.
+
+2.
+
+Aus §. 1. erhellt also : 1 ) Das Philosophiren ist ein nothwendiges Handeln geistiger Art ;
+
+2) dies Handeln ist nothwendig auf die innere Vollendung unseres Selbsts gerichtet ; 3) es kann in bestimmt gegebener Zeit seinen Zweck eben so wenig vollständig erreichen , als ihn gänzlich verfehlen , führt also nicht zur Philosophie selbst, sondern nur zu einer Philosophie ; aber nur 4) die Philosophie selbst zu erreichen , muß man zuvor nothwendig eine Philosophie aufgestellt haben.
+
+Dennoch ist es keinesweges gleichgültig , wie es zunächst scheinen könnte, was für eine man aufstelle. Denn keine Philosophie kann zwar schlechthin falsch oder unwahr seyn , da in ieder ein Handeln erscheint , dessen lezter Zweck , wenn auch nicht bewußt , doch bewußtlos , die innere Selbstvollendung , also Findung der Wahrheit an sich ist , das mithin der Natur seiner Ursache einigermaßen angemessen seyn muß seine Ursache ist aber die nothwendige und einzig unter Vorausseßung der ausgemittelten Wahrheit an sich mögliche innere Selbstvollendung.
+
+Desgleichen kann keine schlechthin wahr seyn , da jede nothwendig das Erzeugniß einer individuellen , also subjectiven, und somit zugleich bedingten und bezüglichen Vernunft ist , die das rein Unbezügliche und Unbedingte , wie die Idee der Wahrheit, weder vollständig erfassen , noch darstellen kann. Aber daraus folgt nicht , daß Wahrheit [p. 5] und Irrthum in allen gleichmäßig enthalten seyn müßten. Daß es folglich gleichgültig sey , von welcher man sich Dies könnte nur zur Idee selbst leiten lassen wolle. folgen , wiefern alle einzelne Vernunftnaturen gleich sehr bedingt wären.
+
+Nun sind sie aber , dem Grade von Bedingtheit nach, unendlich verschieden von einander , der vollständigen Erkenntniß mehr oder weniger fähig , und folglich wird auch das , was aus ihnen hervorgegangen ist , der Natur seiner Ursache angemessen , oder dem Grade der Bedingtbeit nach , in sich unendlich verschieden seyn müssen.
+
+Da nun alle einzelnen Philosophieen die Erzeugnisse der einzelnen Vernunftnaturen sind , so können auch nicht alle gleich wahr und gleich irrig , sondern müssen mehr oder weniger wahr, mehr oder weniger irrig
+
+Welche nun die wahrste , und somit am wenigsten irrige sey , bleibt billig dem Gefühle und der Prüfung des Beurtheilenden zu entscheiden allein überlassen , von dem der Philosoph Selbstthätigkeit zu fordern berechtigt
+
+Den pythagorischen Spruch : avtos ěpa , verwirft die Philosophie, ihrer Natur nach, gänzlich. es auch nicht immer möglich ist , losophem zu schaffen ,
+
+Also, wenn sich ein eigenes Phimithin nothwendig wird , im Gränzenlosen unterzugehen , einem fremden zu folgen, muß es doch Jeder sich zum Zwecke machen, das Fremde frei und selbstthätig in sich nachzuerzeugen , und es sich dadurch als sein wahrhaftes Eigenthum anzueignen. §.
+
+3.
+
+Jedes Handeln schließt , seiner Natur nach , die Begriffe "2 Entstehen , Entwickeln oder Werden“ nothwendig in sich denn Handeln überhaupt ist die Nothwendigkeit [p. 6] , sich zu offenbaren , muß.
+
+die sich mithin befriedigen
+
+Hat es sich befriedigt, wird es zur Handlung.
+
+Jene Nothwendigkeit , oder das Handeln überhaupt , ist jedoch unendlich , unersättlich, kann sich mithin in keiner einzelnen Handlung , sondern nur in einer unendlichen Reihe von Handlungen vollständig und genüglich darstellen.
+
+Nun ist jene unbegrenzte und unendliche Nothwendigkeit , sich zu offenbaren und zu entwickeln , oder das unerschöpfbare Leben , das Handeln überhaupt auch im Menschen.
+
+Wiefern es sich nun in ihm vollständig und genüglich soll befriedigen können , müßte es sich zur unendlichen Reihe der Handlungen entfalten ;
+
+Philosophie folglich , sofern sie das vollständige und genügliche Abbild des auch in ihr erscheinenden Handelns seyn soll , wird jene unendliche Reihe von Handlungen ebenfalls in sich darstellen müssen.
+
+Allein das Handeln überhaupt kann sich zu der unendlichen Reihe von Handlungen nur in einem solchen entfalten, was diese in sich aufzunehmen vermag , oder das unendliche Leben kann sich einzig da genüglich und vollständig darstellen , was selbst ein unendliches ist, wie die Alheit , und folglich ist nur die Allheit der Philosophie selbst fähig , sofern sie das unendliche und allumfassende Handeln genüglich und vollständig in sich darstellen kann.
+
+Das Einzelne im All mithin müßte , wollte es die Philosophie überhaupt erlangen , das Begreifen und Erkennen des Aus selbst haben , was es unmöglich in sich haben kann , eben weil es nur ein Einzelnes ist. nach nichts weiter , streben,
+
+Das Einzelne kann demals mit Absicht und Bewußtseyn die Bedingtheit in sich möglichst aufzuheben, oder sich innerlich zu vollenden , was es selbst muß, wenn [p. 7] es seine Vernünftigkeit recht gebrauchen will.
+
+Nothwendigkeit findet für alle vernunftfähige Einzelne schlechthin unbedingt Statt : in wie weit und wie sie von jedem soll verwirklicht werden , bestimmt sich nothwendig nach dem verschiedenen Grade von Vernunftfähigkeit unter den vernunftfähigen Einzelnen überhaupt. §.
+
+4.
+
+Obschon nun das Handeln überhaupt , wie das gei ftige Handeln insbesondere , schlechthin eins und einerleiig ist , kann es doch verschiedene Richtungen haben, je nachdem entweder verschiedene Gegenstände sein Object sind , oder der eine , der es ist, verschiedene Gesichtspunkte hat , die sich unter einem allgemeinen Gesichtspunkte zusammenfassen und vereinen lassen.
+
+Richtungen, die nur Offenbarungsweisen ein und eben desselben Handelns sind , und keinesweges ein anderes und verschiedenes Handeln vorausseßen , sind also lediglich formal von einander verschieden , obzwar sie dies in subjectiver , oder in objectiver Hinsicht seyn können.
+
+Sie sind es in subjectiver Hinsicht , wenn sie aus der Eigenthümlichkeit des philosophirenden vernunftfähigen Einzelnen hervorgehen : sie sind es in objectiver, wenn sie unmittelbar und nothwendig aus der Natur des Gegenstandes , auf den sich das Philosophiren be, zieht , entspringen.
+
+Außerdem ist noch als dritter Fall möglich, daß sich die objectiv - formale Verschiedenheit der Richtungen theils nothwendig aus der Natur des Gegenstandes , welchen das Philosophiren zu seiném Objecte hat, theils nur aus der eigenthümlichen Auffaffungsart des einzelnen , bestimmten , vernunftfähigen, [p. 8] philosophirenden Subjects bestimmt , die man zum Unterschiede von jener , die allein in der Natur des Gegenstandes unmittelbar und nothwendig begründet , und daher die rein objective ist , die mittelbar objective nennen könnte.
+
+Entstehen die formal verschiedenen Richtungen im einigen und einerleiigen Handeln des Philosophirens unmittelbar und nothwendig rein aus der Natur des Gegenstandes , sind sie also in rein objectiver
+
+Hinsicht von einander verschieden , so gliedert sich das organische Ganze der Philosophie überhaupt zu einer Reihe von einzelnen in sich bestehenden und begründeten organischen Ganzen , oder Systemen , die das große und gemeinsame organische Ganze zu ihrem Bestehen eben so nothwendig und wesentlich vorausseßen , als jenes sie zu seinem Bestehen schlechthin nothwendig und wesentlich vorausseßt.
+
+Diese einzelne in sich bestehende und begründete organische Ganze, oder Systeme, sind die einzelnen philosophischen Disciplinen , während das große und gemeinsame organische Ganze , das sie zu ihrem
+
+Bestehen nothwendig vorausseßen , die Philosophie überhaupt ist.
+
+Die Philosophie überhaupt mit ihren einzelnen Disciplinen bildet ein in sich nothwendig geschlossenes Ganze , das alle seine Einzelntheile insgesammt und jeden seiner Einzelntheile insbesondere zu seinem Bestehen nothwendig in sich hat , während umgekehrt all die Einzelntheile insgesammt , und jeder Einzelntheil insbesondere das Eine und Ganze zu ihrem Bestehen nothwendig in sich schließen , und ein solches nothwendig in sich geschlossene Ganze nenne ich Totalität : die Philosophie überhaupt also ist mit ihren Disciplinen zur Totalität verbunden.
+
+Wiefern dagegen die Verschiedenheit zum Theil aus der eigenthümlichen Auffassungsart des bestimmten einzelnen philosophirenden Subjects hervorgeht , entwickelt sich ein eigenes und besonderes Philosophem. Obschon uun jedes Einzelne einer eigenen Auffassungsart von einem bestimmt gegebenen Gegenstande fähig ist, so kann doch nicht jedes Einzelne ein eigenes und besonderes Philosophem begründen , theils , weil nicht jeder Gegenstand ein Object der Philosophie seyn , theils weil nicht jedes auf das eigentliche Object der
+
+Philosophie gerichtete
+
+Streben ein Philosophiren genannt werden kann .
+
+selbst das richtige Erkennen dessen , was eigentlich Object des Philosophirens seyn muß , und ein zweckgemäßes der Natur der Sache ganz angemessenes Streben , reichen zur Begründung eines eigenen und besondern Philosophems nicht hin : nur durch Auffindung einer ganz neuen Hauptbeziehung in der Philosophie kann ein solcher begründet werden. Eine Hauptbeziehung in der Philosophie ist aber die , auf welche sich viele andere von den unendlichen vielen in ihr als mögliche gegebenen Nebenbeziehungen zurückbringen lassen : eine solche aufzufinden sezt jedoch offenbar einen besondern Grad von Vernunftfähigkeit oder Erfindergeist wesentlich voraus , den nicht alle vernunftfähige Einzelne besißen.
+
+§.
+
+5.
+
+Genau erwogen kann es in der Philosophie nur zwei Hauptbeziehungen geben , die unmittelbar nothwendig und rein in der Sache selbst begründet liegen, nämlich die des Seyns und Lebens , und die des Wirkens und Handelns : jene ist Physik , diese Ethik ; beide
+
+[p. 10] Kunstausdrücke sind im Sinne des griechischen Alterthums genommen. thümlichen
+
+Sofern sie dagegen von der eigen-
+
+Auffassungsart bestimmter vernunftfähigen
+
+Einzelnen ausgeht, sind nur drei Hauptbeziehungen in ihr als möglich gegeben , die sich nach den drei Hauptformen im geistigen Leben ,
+
+Gemüth , Vernunft ,
+
+Einbildungskraft, bestimmen , so , daß die Philosophie beschaulich, oder contemplativ ist , wenn die bestimmte vernunftfähige Einzelnheit im Erfassen derselben vom Gemüthe ausgeht, prosaisch, wenn sie dieselbe hauptsächlich nach dem Typus der Vernunft bestimmt,, poetisch , wenn sie von der Einbildungskraft , als Regulativ der Philosophie, vorzugsweise sich bestimmen läßt. Zwischen diesen drei Hauptformen , die sich übrigens auf keine Weise scharf und schroff von einander scheiden, sondern sich mehr oder weniger in einander verlieren, gibt es noch eine Menge von Neben- und ZwischenforDas Gesagte reicht zwar hin , einen ganz allge meinen , keinesweges aber einen bestimmten und deutlichen Begriff vom Wesen der Philosophie zu geben : diesen , dessen wir nothwendig bedürfen , zu gewinnen , eri wägen wir bestimmter folgende drei Punkte : 1) Ist sie eine Wissenschaft? 2) Was ist ihr Inhalt ? 3) Wie ist ihre Methode ? §. 6.
+
+Ist sie eine Wissenschaft ?
+
+Ehe diese Frage beantwortet werden kann , muß zu/ vor nothwendig beantwortet werden : Was ist Wissenschaft überhaupt ? Erklärt man sie für eine Offenbarungsform [p. 11] , mittelst welcher sich menschliche Erkenntnisse darstellen, so wäre die Frage ganz allgemein beantwortet. Die menschlichen Erkenntnisse sind Beziehungen , in welchen sich der Mensch , seiner Wesenheit nach, d . i. als bedingtes Vernunftleben ausspricht , folglich Offenbarungsarten , die , obschon unendlich viele, nur einem Einigen und Einerleiigen angehören , zunächst aber auf gewisse Haupt- und Grundformen zurückgebracht werden · können und müssen.
+
+Da nun im Wesen des Menschen, sofern es vorzugsweise erkennend , oder Vernünftigkeit ist , nur die drei Hauptformen des Gemüths , der Vernunft und der Einbildungskraft als möglich gegeben sind , so wird auch die ganze unendliche Masse seiner Erkenntnisse sich nur durch diese drei Hauptformen darstellen können , und so wird , wiefern man jene Gesammtmasse als System überhaupt betrachten will , im Systeme überhaupt ein dreifaches System sich ergeben , das Gemüths ,
+
+Vernunft- und Phantasie . System.
+
+Für das System überhaupt ist das einzig genügliche Object die unendliche Menge der Dinge , als unendliche Menge. Da inzwischen das System überhaupt sich als dreifaches gestaltet, so wird sich auch das Erkennbare , welches einzig in seiner Unendlichkeit fein genügliches Object ist, als dreifaches gestalten , und so gleichsam zu einem endlichen Objecte werden , und wirklich läßt sich auch das unendliche Object des Erkennbaren , als endliches
+
+Object im Sinnlich - Wahrnehmbaren , GeistigErkennbaren , und bloß Ahnbaren betrachten . Die Vernünftigkeit also wird sich in ihrem Erkennen und Begreifen mit ihrem unendlichen Objecte vorzugsweise stets in einer dieser Hauptbeziehungen beschäftigen.
+
+[p. 12] Sofern sie sich unmittelbar mit ihrem wahren Objecte, dem Unendlichen selbst, beschäftigte , und so die unendliche Menge ihrer Erkenntnisse zu einem in sich begründeten und geschlossenen Ganzen erheben könnte, würde sie das System überhaupt erhalten.
+
+Da sie sich aber mit dem Unendlichen stets nur mittelbar in einem bestimmt gegebenen beschäftigen kann , erhält sie , statt des Systems selbst, nur ein Einzelnsystem.
+
+In wiefern sie sich nun mit ihrem unendlichen Objecte mittelbar in dem bestimmt gegebenen des bloß Ahnbaren beschäftigt, erhält sie ein Einzelnsystem , welches das Ideensystem ist, da das bloß Ahnbare Siß und Quelle der Idee ist: wiefern sie ihr unendliches Object mittelbar in dem bestimmt gegebenen des Sinnlich - Wahrnehmbaren zum Gegenstande hat , erhält sie ein Einzelnsystem , welches das Begriffssystem ist , da der Begriff seinen Siz und Ursprung im Sinnlich- Wahrnehmbaren hat , und ist endlich das Unendliche mittelbar ihr Object in dem bestimmt gegebenen des Geistig - Erkennbaren , erhält sie ein Einzelnsystem, welches das Gedankensystem ist, denn der Gedanke hat seinen Siz und Ursprung im Geistig - Erkennbaren.
+
+Wie sich das Erkennen und Begreifen , sofern es das Unendliche selbst zu seinem unmittelbaren Objecte hat, also System überhaupt ist, mit dem allgemein logischen Begriff Vernünftigkeit bezeichnen läßt , so läßt es sich auch , wiefern dies nur mittelbar sein Object ist , es sich selbst folglich lediglich als Einzelnsystem darstellt , mit einem allgemeinen logischen Begriff bezeichnen , und zwar, in wiefern es Ideensystem ist, oder das unendliche Object des Erkennbaren . mittelbar in dem bestimmt gegebenen des bloß Ahnbaren [p. 13] zum Gegenstande hat , mit dem allgemein logischen Begriff Gemüth ; in wiefern es Begriffssystem ist, das Unendliche also mittelbar sein Object in dem bestimmt gegebenen des Sinnlich - Wahrnehmbaren , mit dem allgemein logischen Begriff Vernunft , und in wiefern es Gedankensystem ist , folglich das Unendliche in dem bestimmt gegebenen des Geistig - Erkennbaren mittelbar zum Objecte hat , mit dem allgemein logischen Begriff Phantasie.
+
+Die drei Hauptformen , in welchen sich die unendliche Masse aller menschlichen Erkenntnisse vollkommen genüglich darstellt , sind also das Ideen-, oder Gemüths- , das Begriffs- , oder Vernunft- , das Gedanken , oder Phantasie - System , von welchen jede ihr oberstes leitendes Princip , ihren MitGegenstand hat :
+
+eigenthümlichen telpunkt und ihren oberstes , leitendes Princip ist im
+
+Gemüthssystem die
+
+Idee, im Vernunftsystem der Begriff, im Phantasiesystem der Gedanke ;
+
+Mittelpunkt und
+
+Gegenstand des Gemüthssystems ist das bloß Ahnbare , des Vernunftsystems das Sinnlich - Wahrnehmbare, und des Phantasiesystems
+
+Geistig
+
+Immer aber muß erinnerlich bleiben,
+
+Erkennbare. daß diese verschiedene Formen nicht der Sache und ihrer Natur nach, oder real in sich verschieden sind , sondern, daß ihre Verschiedenheit nur um der deutlichern Uebersicht im Ganzen willen gesetzt, also lediglich formal ist.
+
+Die bloß ahnbare Erkenntniß , welche das Gemüthssystem zu seinem Objecte hat , ist aber die, die der Mensch unmittelbar , ohne sich ihres Ursprungs bewußt zu seyn, oder zu werden , also zeitlos, in sich erfaßt, während sie erkennbar und begreiflich ist , wenn sie von ihm mittel-
+
+` 14 bar und im Bewußtseyn ihres nächsten Ursprungs , mithin zeitlich , erfaßt wird , die er , da er sie in ihrer ursprünglich rohen und formlosen Gestalt nicht gebrauchen kann , entweder mit seiner Ahnung , selbst in Zusammenhang bringen will.
+
+oder in sich
+
+Aber der Mensch hat unmittelbar und uranfänglich von Allem ein Erkennen, also ein unendliches Wissen , und dies unendliche Wissen zu einem in sich begründeten , geschlossenen , organisch zusammenhängenden Ganzen entwickelt , würde Wissenschaft überhaupt seyn :
+
+Wissenschaft überhaupt also ist das aus der unendlichen Masse unmittelbar und uranfänglich gegebener Urerkenntnisse zweckmäßig gebildete Ganze , oder System.
+
+§.
+
+7.
+
+Das unmittelbar und uranfänglich gegebene allum fassende Urerkennen entwickelt sich jedoch in dem vernunftfähigen Einzelnen nicht durchaus als solches vollkommen deutlich und klar : in so weit es dunkel und unentwickelt bleibt , ist es im eigentlichen Sinne ein
+
+Ahnen, in so weit es aber als solches deutlich und Das eigentliche flar erkannt wird , Anschauung. Ahnen ist der Keim, aus dem alles Anschauen , Erfennen und Begreifen hervorgeht :
+
+Ideen ,
+
+Begriffe und
+
+Gedanken haben also ihren wahren Ursprung im Ahnen. Dies kann inzwischen nur erkannt und eingesehen werden, wiefern die Urerkenntniß als solche deutlich und klar von dem vernunftfähigen Einzelnen erkannt , also das Ahnen zur Anschauung geworden ist.
+
+Die Anschauung also kann nur im eigentlichen , oder engern Sinne ein und folglich werden auch
+
+Wissen genannt werden , [p. 15] bloß die zu einem organisch in sich zusammenhängenden Ganzen zweckmäßig verbundenen Erkenntnisse , die sich unmittelbar und nothwendig aus der Anschauung entwickeln, im eigentlichen oder engern Sinne Wissen . Nun kann die Philoschaft genannt werden können.
+
+sophie ohne Anschauung gar nicht gedacht werden , und ist einzig und allein das aus Erkenntnissen , die sich unmittelbar und nothwendig aus der Anschauung entwickeln,. organisch und zweckmäßig verbundene Ganze, folglich ist die Philosophie im engern oder eigentlichen Sinne allein Wissenschaft.
+
+Sie ist aber ohne Anschauung ganz ungedenkbar , weil das , was nothwendig ihr Object ist, und einzig es seyn kann , die höchsten und wichtigsten menschlichen Angelegenheiten , was dies für welche sind , wird sich bald zeigen , - bloß in der Anschauung erkennbar ist.
+
+Zwar sind die beiden menschlichen Erkenntnißsysteme, welche oben ganz allgemein durch Vernunft- und Phantasiesystem bezeichnet wurden , gleichder Philosophie in der Ahnung begründet , können jedoch nicht unmittelbar aus ihr hergeleitet werden , lassen sich bloß mittelbar auf sie zurückbringen , was entweder nothwendig , oder wenigstens naturgemäß ist.
+
+Nothwendig auf die Ahnung muß das Phantasiesystem zurückgebracht werden , daß seinen mittelbaren Ursprung im Geistig Erkennbaren hat , und dessen lezter Zweck die Idealisirung des Lebens ist.
+
+Diesen Zweck hat aber die Kunst , und kann ihn allein haben : das Phantasiesystem ist folglich die Kunst. Vernunftsystem geschehen ,
+
+Naturgemäß sollte es im das seinen mittelbaren Ursprung im Sinnlich - Wahrnehmbaren hat , was es zugleich als Object bearbeitet , also seiner Natur nach rein [p. 16] empirisch ist.
+
+Dies seiner Natur nach rein empirische
+
+Erkenntnißsystem ist Disciplin : das Vernunftsystem ist demnach die Disciplin.
+
+§.
+
+8.
+
+Von selbst dringt sich inzwischen die Bemerkung auf, daß, da ja auch die Anschauung geistig erkennbar seyn, also dem Geistig - Erkennbaren angehören muß , zwischen dem Geistig - Erkennbaren , das Siß der Anschauung ist, und dem , aus dem sich die Kunst entwickelt, die unserer Bestimmung nach nicht die Anschauung , sondern das
+
+Geistig - Erkennbare zum Mittelpunkte und Gegenstande hat , wenigstens ein formaler Unterschied statt finden muß, der allerdings darin gegeben ist , daß Anschauung die unmittelbar als solche deutlich und klar erfaßte urerkenntniß , geistig - erkennbar aber alle Erkenntniß ist, die ihrem mittelbaren Ursprunge nach deutlich und bestimmt erkannt wird , so , daß ihr Zusammenhang mit jener unmittelbaren allumfassenden Urerkenntniß nicht gleich anfänglich , sondern erst in der Folge sich bemerkEben so muß ferner ein Unterschied forlich macht. maler oder dialectischer Art zwischen dem Geistig - Erkennbaren , wiefern es Gegenstand und Mittelpunkt der Kunst ist , und dem , aus dem sich die Disciplin bestimmt, die das Sinnlich - Wahrnehmbare zum Mittelpunkte und Gegenstande hat , also gleichfalls ein System von Erkenntnissen ist , die nur ihrem mittelbaren Ursprunge nach deutlich , bestimmt und klar erkannt wer den , und gleichwohl nicht Inhalt der Kunst seyn können , seyn , der auch wirklich darin gegeben ist , daß die Art von mittelbar , oder geistig - erkennbaren Erkenntnissen, [p. 17] die Inhalt der Kunst sind , ihren unmittelbaren Ursprung in allen Formen des geistigen Lebens , rein als solchen , die Anschauung ausgenommen , hat ; die aber, welche der Disciplin zum Inhält dient , ihrem unmittelbaren Ursprunge nach nur bedingt in gewissen Richtungen dieser Formen gegeben sind.
+
+Denn wenn jene Art von mittelbaren , oder geistig - erkennbaren Erkenntnissen , die nothwendig und einzig Inhalt der Kunst sind , in einer Vernünftigkeit´rein als solcher möglich wäre, ist diese , die nothwendig und allein Inhalt der Disciplin seyn kann , in einer Vernünftigkeit nur möglich, sofern ein Einwirken des Sinnlich - Wahrnehmbaren möglicher Weise auf sie Statt finden kann und muß. Diese Art mittelbarer , oder geistig- erkennbarer Erkennt nisse, kann also nur eine vernünftige undz ugleich sinnliche Natur haben. Außerdem unterscheidet sich diese Art mittelbarer , oder geistig - erkennbarer Erkenntnisse von den unbedingt geistig - erkennbaren auf eine characteristische Weise noch darin, daß ihr das Sinnlich-Wahrnehmbare unmittelbarer und leßter Zweck ist, diesen höchstens als Mittel zum Zwecke dienen kann. §.
+
+9.
+
+Wenngleich nun die Philosophie im Allgemeinen auf den Begriff : "Wissenschaft im engern , oder eigentlichen Sinne" , allein Anspruch machen kann , muß ihr doch noch ein wesentliches Merkmal, das nothwendig zur Vollständigkeit des Begriffs gehört , fehlen , da der Zweifel, ob sie auch eine Wissenschaft sey, noch lange nicht bei Allen gänzlich verschwunden ist.
+
+Ein System nämlich , das in vollster und engster Bedeutung Wissen"2 [p. 18] schaft heißen will , muß nicht bloß ein System , oder ein Ganzes seyn , sondern muß auch ein Ganzes bilden, das sowohl in Hinsicht seiner wesentlichsten Hauptgrundfäße, als auch als Ganzes in sich geschlossen , innerlich vollendet , und allgemein als unzweifelhaft gewiß anerkannt ist, und in dieser Hinsicht ist einzig die Mathematik Wissenschaft, während die Philosophie keinesweges als solche betrachtet werden kann.
+
+Ob sie es aber in dieser engsten und vollsten Bedeutung jemals werden könne , steht näher zu erwägen.
+
+Die Auffindung der
+
+Wahrheit an sich ist ihr Zweck , und da diese Idee ist, und als solche weder von einer vernunftfähigen Einzeln heit, noch in bestimmt gegebener Zeit, sondern nur vom All und in unendlicher Zeit darstellbar , so erklärt sich, warum jener Zweck bis jezt noch nicht erreicht , warum sie noch nicht in dieser engsten, vollsten Bedeutung Wif senschaft geworden ist.
+
+Denn was sind 3000 Jahre, seit welchen sie lebt, gegen die unendliche Zeit ? Allein dies muß noch außerdem in einem andern und eigenen Um stand feinen Grund haben , oder die beiden Wissenschaften Philosophie und Mathematik haben ganz von einander verschiedene Zwecke, was aber unmöglich ist , da die Wahrheit an sich aufzufinden gleichmäßig beabsichtigen müssen : an sich Idee , alle Erkenntnißsysteme nun ist die Wahrheit und kann als solche erst in unendlicher
+
+Zeit erreicht werden , kein Erkenntnißsystem kann sich · folglich in bestimmt gegebener Zeit zur Wissenschaft in engster und vollster Bedeutung erheben , und doch hat sich die Mathematik dazu erhoben.
+
+Entweder gibt es also Bedingungen , unter deren Vorausseßung die Idee der Wahrheit darstellbar ist, und die die Mathematik [p. 19] allein in sich enthält , die sie mithin zu einem ganz eigenthümlichen , von allen andern characteristisch verschiedenen Erkenntnißsystem machen , oder ein Erkenntnißsystem kann in engster und vollster Bedeutung Wissenschaft wer den, ohne nöthig zu haben , bis zur Idee der Wahrheit selbst vorzudringen', obschon es Wahrheit in sich darstellen muß, und ein solches Erkenntnißsystem ist nun allerdings die Mathematik , wogegen die Philosophie bis zur Idee der Wahrheit selbst vordringen muß.
+
+Dies liegt in den ganz von einander verschiedenen Aufgaben und Grundlagen der beiden Wissenschaften.
+
+Denn die Philosophie beruht auf der Anschauung des bloß Ahnbaren, und hat die Verhältnisse und Beziehungen unter den höchsten und wichtigsten menschlichen Angelegenheiten zu bestimmen ; die Mathematik dagegen beruht auf der Anschauung des Sinnlich - Wahrnehmbaren , und hat lediglich Bestimmung der räumlichen und zeitlichen Verhältnisse unter den Dingen zu ihrem Zwecke , braucht also .
+
+das schon Gegebene nur zu ordnen , während jene finden muß.
+
+Zudem liegt es in der eigenthümlichen Natur der beiden Begriffe Raum und Zeit , die ja ausschließlich Object der Mathematik sind , daß es , das Unendliche zu finden , und durchgehends als nothwendig zu bestimmen , nicht nöthig ist , es in all seinen unendlich vielen Einzelntheilen zu durchgehen , sondern , daß es vollkommen hinreicht , die wesentlichsten Haupt- und
+
+Grundbegriffe richtig bestimmt zu haben , wodurch sich nämlich das Ganze in all seinen unendlich vielen Einzelntheilen durchgehends als schlechthin nothwendig be stimmt findet.
+
+Nicht so bei der Philosophie , die ihr unendliches Object nicht durch Auffindung und Bestim [p. 20] mung von einigen Haupt- und Grundbegriffen durchgehends als nothwendig bestimmen kann , sondern es zu dem Ende in all feinen unendlich vielen Einzelntheilen einzeln durchgehen , und als nothwendig bestimmen muß. Dazu kömmt noch, daß es in der Mathematik nur einen Standpunkt gibt , mithin auch nur einer gewählt werden kann, folglich bloß ein Endergebniß in ihr möglich ist, dagegen sind in der Philosophie unendlich viele Standpuncte als möglich gegeben , die • alle gewählt werden können , und also sind auch unendlich viele Endergebnisse in ihr möglich, besonders wenn sie, wie die Geistesphilosophie, gar keine positive Grundlage hat, wo sie aber diese hat, wie in der Naturphilosophie , weniger.
+
+Jede von diesen beiden Richtungen ist an und für sich unvollständig und einseitig ; nur in ihrem nothwendigen Zusammenhange mit einander , und in ihrer gegenseitigen Wechselwirkung durch einander können sie zum Wahren führen. §. 10.
+
+Was ist ihr Inhalt ?
+
+Die Philosophie bezweckt , wie bekannt, Auffindung der Wahrheit an sich , in Ansehung der höchsten und wichtigsten menschlichen Angelegenheiten ; die höchsten und wichtigsten menschlichen Angelegenheiten werden folglich ihren Inhalt ausmachen , und es fragt sich also , dies für welche seyn werden.
+
+Offenbar die unter deren
+
+Vorausseßung alle übrigen erst Sinn und Bedeutung erhalten können , die also von allen gleich sehr erkannt seyn sollten und müßten.
+
+So stellt die gesammte Erscheinungswelt, so weit wir sie erkennen und begreifen, alle ihre Erscheinungen als in sich so unvollständig und mangelhaft dar, daß sie gar nicht rein aus und durch [p. 21] sich selbst erklärt werden können.
+
+Ihre absolut erste
+
+Ursache , deren wir gleichwohl schlechthin nothwendig bedürfen , können wir unter ihnen nicht finden , da alle, besonders durch Raum und Zeit , züglich dastehen.
+
+als bedingt und be-
+
+Diese unendliche Menge von Erscheinungen muß erklärt werden , läßt sich aber weder aus sich, noch aus einer einzelnen ihrer Erscheinungen erklären , weil jede selbst in der Reihe als bezüglich und bedingt dasteht , mithin zwar als relativer Anfang einer bestimmt gegebenen Reihe von Erscheinungen , jedoch nicht als absolut erster Anfang der ganzen unendlichen Reihe, als solcher , betrachtet werden kann , sezt mithin, wiefern sie Sinn und Bedeutung erhalten soll , ein absolut erstes , rein Unbedingtes , unbezügliches in ihr nicht erscheinendes Wesen , als Ursache schlechthin nothwendig voraus , und dies absolut erste , schlechthin unbedingte und unbedingbare Wesen , was als Grundursache von der unendlichen Reihe der Erscheinungen nothwen dig vorausgesezt werden muß , wiefern sie erklärlich und begreiflich seyn soll , ist Gott.
+
+Demnach wird , da die ganze unendliche Reihe der Erscheinungen , und mithin auch wir , die Philosophirenden selbst , lediglich unter
+
+Vorausseßung seiner als dåseyend erklärlich und begreiflich sind , die Erkenntniß Gottes die höchste und wichtigste menschliche Angelegenheit , und somit zugleich Inhalt der Philosophie seyn .
+
+Diese Erkenntniß ist , ihr Gegenstand , ihrer Natur nach , eins , einerleiig und unendlich ; um deswillen kann sie also nicht verschiedene Theile und Glieder haben , aber doch, der Deutlichkeit wegen, von verschiedenen Seiten aus betrachtet werden, wodurch man , statt des Einen , nicht ein Vielfaches, [p. 22] sondern nur von dem Einen eine vielfache Ansicht erhält. So läßt sich Gott einerseits hauptsächlich als Begründer alles Vernünftigen , anderseits vorzugsweise als Begründer alles bloß Lebendigen betrachten.
+
+In wiefern´er nun vorzugsweise unter jenem Gesichtspunkte ein Object der Erkenntniß wird , die sich überhaupt mit ihm , ihrem Objecte , beschäftigt , wird diese enger nur eine Erkenntniß von ihm als Urgrund alles Vernünftigen in seinem weitesten Umfange , d . i. Ethik ; in wiefern er dagegen hauptsächlich unter diesem Gesichtspunkte ein Object jener Erkenntniß wird , wird sie enger nur eine Erkenntnis von ihm , als Urgrund alles bloß Lebendigen, d. i. Physik , eine Eintheilung , die schon sehr früh zeitig von den Weisen des griechischen Alterthums ge macht ward , weil sie sich von selbst als die einfachste und natürlichste aufdringt.
+
+Erst in der Folge hat die
+
+Physik die engere Bedeutung bekommen , die sie jezt hat, der gemäß sie die Disciplin ist , welche bloß die Erforschung der materialen oder physischen Natur und Beschaffenheit der Dingesammt deren Verhältnisse , Beziehungen und Wirkungen zu ihrem unmittelbaren Objecte hat.
+
+Aus der Physik in jener höhern und allgemeinen Bedeutung des Alterthums , die Erforschung der Natur und Wesenheit Gottes und dessen Verhältnisses zur Erscheinungswelt unmittelbar zu ihrem Objecte hatte, ist durch Aristoteles die Metaphysik geworden , die man auch Transscendental- Philosophie nennen kann , da ihr Object außer dem Kreise aller möglichen empirischen Erfahrung liegt. Die Transscendental - Philosophie zerfällt, ihrer Natur nach, in zwei Hauptabschnitte , in die reine, die sich [p. 23] mit Natur und Wesenheit Gottes und dessen Verhältniß zur Welt im Allgemeinen , und in die angewandte , die sich mit diesem Verhältnisse in seiner Besonderheit beschäftigt.
+
+Dies weicht von der alten Art , sie in Ontologie , Psychologie und
+
+Teleologie einzutheilen , ab :
+
+aber einleuchtend ist , daß durch unmittelbare Ausmittelung und Bestimmung des Verhältnisses der göttlichen Wesenheit zur Welt, in seiner Allgemeinheit, mittelbar nothwendig alles ausgemittelt und bestimmt ist , überhaupt in Hinsicht auf die Wesen , auf die Natur ihres vernünftigen Erkennens , und auf das zweckmäßig eingerichtete Weltganze ausgemittelt und bestimmt wer den kann , folglich keiner eigenen und besondern Darstellung bedarf.
+
+Die Lehren von der Freiheit und Unsterblichkeit, die nach Kant der Transscendental - Philosophie angehören sollen , werden billig zur Ethik verwiesen, da die Erkenntniß von der Möglichkeit einer freien Selbstbestimmung des Willens , und der Fortdauer des geistigen Lebens, als eines vernünftigen , und zugleich sich seiner selbst bewußten, sich offenbar eher in der Erkenntniß von Gott , wiefern sie eine Erkenntniß von ihm , einem unendlich vernünftigen , vollkommenen , und somit guten , also Ethik ist , als in der Erkenntniß von Gott, wiefern sie von ihm, als dem bloß lebendigen und nothwendigen , oder als Physik handelt , begründen läßt
+
+Aus dem Gesagten erhellt übrigens , wie Religion, deren Object gleichfalls die Erkenntniß Gottes ist , und Philosophie im Grunde nur einen gemeinschaftlichen Text mit einander bearbeiten , und lediglich darin von einander verschieden sind , daß jene diese Erkenntniß lediglich als erfaßbar durch das Gefühl , und als genüglich dadurch [p. 24] erfaßt betrachtet, diese aber sie auch als erkennbar im Begriff, und durch den Begriff erst als genüglich erkannt ansieht. §. 11.
+
+Wie ist ihre Methode ?
+
+Die Philosophie bedarf nothwendig , wie jedes Erkenntnißsystem , der Methode , d. i. eines ihrer Natur angemessenen , und daraus abgeleiteten Gesetzes , nach welchem sich der Gang , den sie mit ihren Untersuchungen in Anfang, Fortgang und Ende zu nehmen hat, mit unbedingter Nothwendigkeit bestimmt, und es fragt sich also , was dies für eins seyn werde , und wie man es finden müsse.
+
+Der zwei großen Hauptseiten , welche die Philosophie in der Geistes - Philosophie und in der Natur Philosophie , in sich hat , ist schon oben erwähnt worden :
+
+von diesen beruht jene auf der Geistes - Anschauung , diese auf Natur- Anschauung.
+
+Bei jener be zweckt man , von irgend einer geistigen Thatsache ausgehend , Erklärung der Sinnenwelt , oder der Erscheinungen im geistigen Leben , oder des Urgrundes von beiden ; in dieser die Erkenntniß der Natur sammt Grund und Zweck.
+
+Hier also ist der Standpunkt ein allgemeiner , dort ein individueller. zugleich gleichmäßig ,
+
+Nun ist das Allgemeine das Individuelle aber nicht bloß verschiedenartig , sondern selbst unendlich verschiedenartig, folglich hat das Allgemeine und Gleichmäßige bloß einen Standpunkt und somit nur eine Methode, während das Individuelle und unendlich Verschiedene unvermeidlich unendlich viele verschiedene Standpunkte, und somit auch Metho den haben muß. Aber auch die Natur-Philosophie geht als ein Philosophiren nothwendig von bestimmten Einzelnen aus , die als solche ihren eigenthümlichen und besondern
+
+[p. 25] Character oder Individualität haben müssen , und gleichwohl kann sie nur einen Standpunkt und eine Methode haben , folglich muß die Individualität in ihr entweder gar nicht, oder wenigstens anders, wie in der Geistesphilosophie, mitwirken. Sie kann inzwischen nicht gar nicht mitwirken, da die Einzelnen, von denen auch dies Philosophiren unvermeidlich ausgehen muß, einer besondern Art des Bedingtseyns, oder der Individualität schlechthin nothwendig unterworfen sind, von der sie sich mithin nirgends und nie losmachen können, die mithin auf Alles , was von ihnen als Wirkung ausgeht, unbedingt mitwirken muß, und folglich muß die Individualität der Einzelnen in der Natur - Philosophie, die ihren Grundcharacter , ungeachtet ihres nothwendigen Mitwirkens unverändert beibehält , anders, wie in der Geistes- Philosophie, mitwirken. Eigentlich aber hat der Umstand, daß die Natur- Philosophie, ungeachtet des nothwendigen Mitwirkens, der Individualität der Einzel`nen, von denen sie ausgeht , ihren allgemeinen und gleichmäßigen Grundcharacter unverändert beibehält , die Geistes- Philosophie aber dadurch einen rein individuellen und verschiedenartigen Character annimmt, seinen Grund darin, da das Sinnlich - Wahrnehmbare, welches Object der Natur- Philosophie ist , allen sinnlich empfindenden Einzelnen nothwendig gleichmäßig gegeben ist , und also nicht gefunden , sondern nur gedeutet zu werden braucht , das Geistig - Erkennbare dagegen , das Object der GeistesPhilosophie , läßt sich keinesweges als unbedingt gegeben, und noch weniger als allgemein gegeben , ansehen , muß mithin noch erst gefunden werden , wobei also verschiedene Ausgangspunkte möglich sind , bei und Zwecke deren Auswahl , da sie sich nicht mit Nothwendigkeit aus [p. 26] der Natur der Sache ergeben , rein die Individualität des philosophirenden Subjects entscheidet , wogegen in der Natur- Philosophie Ausgangspunkt und Zweck sich mit unbedingter Nothwendigkeit aus der Natur der Sache ergeben, und nicht auf einer von der Individualität aus bestimmbaren, Wahl beruhen.
+
+Dessen ungeachtet ist die
+
+Geistes - Philosophie kein rein willkührliches , sondern ebenfalls ein regelmäßiges , in dem Gewißheit, ja Unumstößlichkeit als möglich gegeben sind :
+
+das Gegentheil von diesen ist Ungewißheit und völlige Zweifelhaftigkeit. In wiefern man von jenen , als den Grundlagen des Philosophirens , ausgeht , wird es , seiner Natur nach, axiomatisch oder dogmatisch , d . i. ein solches, welches alles Beweisen und Erweisen gänzlich als unmöglich verwirft , und nur ein Erörtern ,
+
+Erläutern,
+
+Erklären , Verdeutlichen bedingter Art zuläßt : geht man dagegen von diesen als Grundlagen des Philosophirens aus , wird es , seinem Wesen nach , sophistisch , d. i. ein solches , das , indem es das Erweisen und Beweisen bis ins Unendliche und Grenzenlose fortseßen will, alles Erkennen wankend macht , und sich zulezt eben dadurch selbst zerstört.
+
+Zwischen diesen beiden äußersten Endpunkten gibt es eine Menge von Zwischen- und Mittelpunkten , die wir , vor Entscheidung der Frage, welche von jenen beiden entgegengeseßten Methoden die richtige sen, aufsuchen, und näher bestimmen wollen.
+
+§.
+
+12.
+
+Früher noch ist aber ein Widerspruch zu heben, der scheinbar darin liegt, daß die Geistes- Philosophie, welche rein durch das unendlich verschiedenartige selbst als ein [p. 27] solches bestimmt ist , dogmatisch soll seyn können , was, unserer Bestimmung nach, allgemein gültig und gleich. förmig seyn muß.
+
+Die Geistes- Philosophie mithin , sofern sie sollte dogmatisch werden können , müßte irgend ein Gegebenes in sich haben , was mit Nothwendigkeit von allen Einzelnen als allgemein , unzweifelhaft gewiß und gleichmäßig gegeben anerkannt werden könnte , was folglich möglicher Weise nur einen Ausgangspunkt, einen Zweck , und somit bloß eine Methode in sich zuließe.
+
+Nun aber ist die Geistes - Philosophie , ihrer Natur nach, so unendlich vieler verschiedener Ausgangspunkte, Zwecke, und also Methoden fähig , als die Individualitäten der Subjecte , von denen sie sich unvermeidlich bestimmt fin det, unendlich vielfach und verschieden sind , und folglich muß eine dogmatische Geistes- Philosophie für eine reine Unmöglichkeit erklärt werden.
+
+Allerdings kann die Geistes . Philosophie , als Ganzes betrachtet , in feiner be stimmt gegebenen Zeit rein dogmatisch werden , sondern nur in unendlicher Zeit , wie umgekehrt die Natur-Philosophie, als Ganzes genommen , nie durchweg wird so. phistisch werden können.
+
+Daraus folgt jedoch noch nicht, daß in der Geistes - Philosophie alles dogmatische überhaupt , oder in der Natur - Philosophie alles sophistische überhaupt unmöglich seyn sollte.
+
+Denn alle vernunftfähige Einzelne haben jenes unmittelbare und ursprüngliche Urerkennen von allen Dingen , oder das Ahnen in sich, was sich auch in allen als solches irgend einmal zur deutlichen und klaren Erkenntniß , oder zur Anschauung entwickeln , und somit zugleich zu einer allgemein und gleichmäßig, als unzweifelhaft gewiß gegebenen Grundlage einer, ihrem Ganzen nach, dogmatischen Geißes-
+
+[p. 28] Philosophie werden wird.
+
+In wiefern sie sich jedoch nicht in Allen zur Anschauung , oder unmittelbar gewif sen Thatsache entwickelt hat , ist es natürlich , ja nothwendig , daß diese von solchen Erscheinungen ihres geistigen Lebens ausgehen , die sie nicht umhin können, als unmittelbare, und unzweifelhaft gewisse Thatsache in sich zu erfassen , und als solche wird von der bestimmt gegebenen Classe von vernunftfähigen Einzelnen, Menschen genannt , das Bewußtseyn allgemein und gleichmäßig erfaßt ; das Bewußtseyn also wird man als die , einer, ihrem Ganzen nach , einzig dogmatischen Geistes - Philosophie angemessene Grundlage anzusehen geneigt seyn, und das wäre es auch , wiefern sich das Philosophiren allein zum Zwecke machte Algemeingültigkeit , Gewißheit und Unumstößlichkeit in der Erkenntniß darzustellen. Allein der Hauptzweck des Philosophirens ist bekanntlich eine Erkenntniß von dem für uns unbedingt höchsten und wichtigsten Gegenstand , d. i. von Gott zu erlangen, wovon das Bewußtseyn keine Erkenntniß in sich zu er fassen vermag , folglich kann das Bewußtseyn nicht die Grundlage einer, ihrem Ganzen nach, dogmatischen Geistes - Philosophie seyn , und würde überhaupt von keiner Art des Philosophirens die Grundlage seyn können, wenn es nicht Grundlage, und somit Standpunkt einer gewissen Art des menschlichen Erkennens und Begreifens wäre, die eine Menge von Fragen unvermeidlich herbeiführt, die nothwendig zuvor beantwortet`seyn müssen , ehe die höhern beantwortet werden können , was nur möglich ist, in wiefern unsere Erkenntnisse und Begriffe zweckmäßig entwickelt , und gehörig zu einem in sich zusam. menhängenden Ganzen verbunden werden.
+
+Jene zweckmäßige [p. 29] Entwickelung einer gewissen Art von Erkennt. nissen und Begriffen ist offenbar ein Philosophiren , und das aus ihnen gehörig zu einem Ganzen verbundene eine Philosophie, und mithin ist auch das Bewußtseyn , wie fern es ein solches Philosophiren ganz natürlich und unvermeidlich veranlaßt ,
+
+Grundlage einer Philosophie :
+
+aber so wenig man ihre Grundlage , das Bewußtseyn, als das einzige oder höchste in der Vernünftigkeit ausehen darf, eben so wenig kann sie als die einzige oder höchste betrachtet werden ; sie ist ein Stadium , bei dem man vorübergehen muß, bei dem man aber nicht stehen bleiben darf, noch kann. Denn das vom Bewußtseyn ausgehende Philosophiren ist im Wesentlichen sophistisch, d.i. in innerlicher Ungewißheit und grenzenloser Zweifelhaftigkeit befangen, wozu vom Bewußtseyn aus die Richtung gegeben ist ; das Bewußtseyn also, wiefern es der Ausgangspunkt eines solchen sophistischen Philosophirens ist, ist im Gegensaß zur Anschauung , welche , da von ihr die
+
+Richtung zur Gewißheit und Unumstößlichkeit sich zeigt, als Grundlage und Ausgangspunkt einer im Wesentlichen dogmatischen Geistes- Philosophie , folglich als der axiomatische Standpunkt betrachtet werden kann, der sophistische Standpunkt. seyn ausgehenden,
+
+Gegenstand des vom Bewußtoder sophistischen Philosophirens ist nun entweder das Sinnlich
+
+Wahrnehmbare , oder das
+
+Geistig- Erkennbare , von dem der also Philosophirende Natur und Wesenheit zu erkennen bezweckt.
+
+Ist das Sinnlich - Wahrnehmbare fein Object, dessen Natur und Wesenheit er erkennen will , so stüßt er sich entweder , diesen Zweck zu erreichen, ganz unbefangen auf die Erfahrung , wie sie ihm zunächst unmittelbar [p. 30] gegeben ist , oder er geht über sie hinaus : stüßt er sich ganz unbefangen auf die Erfahrung , wie sie ihm zunächst unmittelbar gegeben ist, nimmt er den empirischen
+
+Standpunkt : geht er über sie hinaus, objectiv - reale Natur , so seßt er die .
+
+deren Erkenntniß er eigentlich sich zum lezten Zwecke macht , entweder schlechthin unmittelbar in dem Erkannten an und für sich voraus, und erhält so den realistischen , oder er Täugnet im Voraus die Möglichkeit schlechthin eine solche in irgend einem Erkannten , auf irgend eine Weise zu erfassen, und erhält so den sceptischen Standpunkt.
+
+Ist das Geistig Erkennbare das Object des sophistischen Philosophirens , so ist zwar die Erkenntniß von dessen Natur und Wesenheit , und dessen Erscheinungen sein unmittelbares Object , allein mittelbar bleibt immer sein lezter Hauptzweck : Erkenntniß der Natur und Wesenheit : des Sinnlich - Wahrnehmbaren, ihrer Möglichkeit nach, durch jene vorzubereiten , und daraus abzuleiten , wobei es dies entweder rein als Schein seßt, der als real lediglich durch das Erkennende gesezt wird , was der idealistische Standpunkt ist , oder die Erkenntnisse und
+
+Begriffe der Vernünftigkeit , wiefern sie sich auf ein
+
+Sinnlich - Wahrnehmbares beziehen, als wirklich erzeugt durch die in sich reale Außenwelt erklärt , was den sensualistischen , oder diese Erkenntniß als ein Erzeugniß vom
+
+Zusammenwirken eines absolut nothwendigen
+
+Entwicklungstriebes in der Vernünftigkeit mit dem Einwirken der realen Außenwelt ansieht, was den rationalistischen, oder endlich , indem es die Befugniß der Vernünftigkeit zu dieser Art von Erkenntniß , den Grad und Umfang ihrer Fähigkeit dazu untersucht , was den [p. 31] kritischen Standpunkt ergibt.
+
+Dies sind nun die Unter- und Nebenarten von der Haupt- und Stammart des Sophistischen überhaupt ; ist also die Verwerflichkeit und Untauglichkeit dieser Haupt- und Stammart als eines philosophischen Standpunktes nachgewiesen , so ist mittelbar dadurch zugleich nicht bloß die Verwerflichkeit und Untauglichkeit jener seiner Unter- und Nebenarten, als philosophischer Standpunkte, sondern auch die Nothwendigkeit gezeigt , den dogmatischen , als den allein ge nüglichen, gelten zu lassen, und folglich im Philosophiren nur von ihm aus ausgehen zu können.
+
+.§ S.
+
+13.
+
+Die sophistische Methode überhaupt aber ist um deswillen ungenüglich und verwerflich , weil , da sie Ungewißheit
+
+Zweifelhaftigkeit in sich schließt, ja sich von diesen gar nicht losmachen kann, weder die Wahrheit an sich, noch überhaupt Wahrheit ausgemittelt werden können , deren Auffindung einzig unter Vorausseßung einer völligen Beseitigung aller Ungewißheit und Zweifelhaftigkeit möglich ist.
+
+Daß jedes
+
+Erkenntnißsystem es sich zum leßten Zwecke machen müsse, die Wahrheit an sich zu finden , läßt sich als ein allgemein anerkannter Grundsaß betrachten.
+
+Zweifelhafter aber wird schon seyn, ob sie auch von irgend einem erreicht werden könne : aber es ist schon gezeigt worden, daß und wie sie von dem Erkenntnißsystem der Philoso. phie sich erreichen lasse.
+
+Nun ist die Wahrheit eben die klarste Erkenntniß von der objectiv E wahren Natur der Dinge, hebt also alles zweifelhafte und ungewisse als unmöglich in sich auf, und sezt folglich die Beseiti [p. 32] gung von Zweifelhaftigkeit und Ungewißheit, ihrer Möglichkeit nach , wesentlich voraus , die vom Standpunkte des Bewußtseyns rein unzertrennlich sind , und sich erst im Standpunkte der Anschauung aufheben und beseitigen lassen , der folglich allein passend und genüglich ist. Denn vom Bewußtseyn aus érfaßt man nur den subjectiv - wahren Zustand der Dinge , d. i . denjenigen , den sie lediglich in Bezug zu einer gewissen Art unsers Erkennens , die vom Bewußtseyn ausgeht, haben, der ihnen aber an und für sich gar nicht zukommt , und eben um deswillen erhält man bloß das bezügliche , und bedingt wahre von ihnen , was Ungewißheit und Zweifelhaftigkeit unvermeidlich zur Folge hat.
+
+Das Unbezügliche und
+
+Unbedingte ließe sich gar nicht erfassen , wofern es nicht ein Erkennen gäbe , was unmittelbar , unbezüglich und unbedingt erfaßte , und das ist eben die Anschauung, øder das ursprüngliche , allumfassende Urerkennen , was als solches zur deutlichen Erkenntniß gelangt ist.
+
+wiefern es als allumfassend selbst zur deutlichen Erkenntniß gelangt , ist es ein eigentliches . Durchschauen, dessen jedoch nur das unendliche allumfassende Erkennen fähig ist ; das begränzte und bedingte Erkennen ist nur der Anschauung fähig , d. i. der deutlichen Erkenntniß von seiner ursprünglichen Urerkenntniß , gränzten.
+
+als einer be- ´
+
+Das Vorhandenseyn dieser Erkenntniß ist als unzweifelhaft gewiß in einem unmittelbar gewissen Gefühle gegeben , braucht folglich nicht erwiesen zu werden. Was also durch sie erkannt wird , bedarf ebenfalls keines Beweises , und mithin schließt das Erkenntnißsystem, was sich unmittelbar und nothwendig aus ihr entwickelt, d. i. die Philosophie, alles Beweisen als unnöthig und [p. 33] zugleich unmöglich schlechthin von sich aus , und läßt nur ein Erörtern zu.
+
+Denn das Beweisen bezweckt die
+
+Erzeugung einer absolut neuen , gar noch nicht vorhan den gewesenen Erkenntniß , seßt folglich ein Nichtwissen voraus , an dessen Stelle es ein Wissen sezen will. Aber ein wahres Nichtwissen , ein absolutes Nichtvorhandenseyn von Erkenntnissen , gibt es nicht , da , gäbe es ein solches , sich ein Wissen, ein Erzeugen von absolut neuen Erkenntnissen gar nicht gedenken ließe , indem sich dem Gedanken , als ob sich wirklich etwas von Außen her in das Erkennende hineinbringen ließe , gar kein Sinn ab gewinnen läßt.
+
+Also Alles muß seiner Uranlage , oder seinem Keime nach , in dem Erkennenden selbst liegen, braucht folglich nicht erzeugt , sondern nur entwickelt, verdeutlicht , klar gemacht, d . i. eben nicht bewiesen , sondern nur erörtert zu werden , was auch nicht einmal unbedingt Anwendung findet. Denn einige Erkenntnisse sind als solche ursprünglich und unmittelbar gewiß , und daher auch nicht der
+
+Erörterung weder fähig , noch bedürftig , also Urthatfachen des Erkennens , oder Axiome.
+
+Die eine dieser
+
+Urthatsachen des Erkennens ist das Vorhandenseyn des Ahnens , oder des ursprünglich und unmittelbar gegebe nen , allumfassenden , nur nicht durchweg klar und deutlich entwickelten Urerkennens ; die andere die Erkenntniß, die Daseyn und Wesenheit Gottes zu ihrem Objecte hat, und die wir , zum Unterschiede von der Anschauung überhaupt, Intellectual - Anschauung nennen, weil sie die höchste geistige Erkenntniß unmittelbar und mittelbar zum Objecte hat , die in der Anschauung überhaupt nur das mittelbare Object ist : denn wie jene [p. 34] gleich anfänglich sich mit dem Wesen aller Wesen beschäftigt , beschäftigt sich diese anfänglich unmittelbar . mit dem Wesen der Bedingten.
+
+Die Erkenntniß vom
+
+Vorhandenseyn der Ahnung ist aber um deswillen der Erörterung weder fähig , noch bedürftig , weil sie, theils ihrem Inhalte nach, nicht im mindesten undeutlich, noch unklar ist , theils das Erörtern von einem Punkte anheben muß , der , wiefern es möglich seyn soll , an sich klar seyn , oder außer den Gränzen des Erörterns wird liegen müssen , und es gibt keinen an sich klarern und deutlichern Punkt , von dem das Erörtern anheben könnte, als gerade diesen. Dasselbe gilt von der IntellectualAnschauung , sofern sie Erkenntniß vom Daseyn Gottes ist, das in sich nichts unklares , noch undeutliches hat, und , hätte es dies auch , von keinem Standpunkte aus verdeutlicht, und klar gemacht werden könnte ; sofern sie dagegen Erkenntniß von der Wesenheit Gottes ist , bedarf sie allerdings der Verdeutlichung , Erläuterung oder Er. örterung , das also von hier aus anhebt , da die Anschauung in dieser Hinsicht nicht vollständig , sondern nur theilweise Anschauung ist , indem sie , ihrem Inbalte nach , nicht unbedingt als klar und deutlich betrachtet werden kann. In wiefern nun das Philosophiren seinem Wesen nach in der dialektischen Bewegung der Erörterung besteht , ist also die Intellectual - Anschauung , in wiefern sie Erkenntniß vom Wesen Gottes ist , eigentlich erst Anfangs- und Ausgangspunkt des wahren . Philo fophirens.
+
+Diese allgemeinen Untersuchungen über die Methode reichen eigentlich schon hin , die eigentlichen unmittelbaren Untersuchungen der Transscendental - Philosophie darauf zu begründen ; allein der Vollständigkeit [p. 35] wegen ist es nöthig , sie noch mehr im Einzelnen zu zerlegen , zu beleuchten , um so die Erkenntniß von der Art und Weise zu erhalten , wie philosophische Begriffe, Un-` tersuchungen und Probleme , ihrer Natur gemäß, zu zerlegen , zu verdeutlichen , zu behandeln , zu verknüpfen sind, damit man aus ihnen ein innerlich fest begründetes , zweck- und regelmäßig geordnetes Ganze , also ein Philosophem erhalte.
+
+Dies ist jedoch offenbar nur ein formelles Geschäft , und folglich wird die Methode , sofern sie, in ihrer Besonderheit betrachtet, die Anweisung zur regelmäßigen Führung dieses bloß formellen Geschäfts gibt , den formellen Theil der Philosophie , d. i. die Logik ausmachen , die inzwischen zugleich noch den vorbereitenden Untersuchungen angehört , und daher mit Recht die zweite Abtheilung von diesen bildet.
+
+#### Zweite Abtheilung.
+
+[p. 36]
+
+#### Formeller Theil der Philosophie oder Logik.
+
+§.
+
+14.
+
+Die bedingte und individuelle menschliche Vernunftnatur offenbart sich als denkend und erkennend durch Vorstellungen ,
+
+Gedanken,
+
+Begriffe und als anschauend durch Ideen , die sich entweder absichtslos unter einander verbunden finden, oder absichtlich von ihr mit einander verbunden werden ; jenes ist die psycho . logische, dieses die logische Verknüpfung , und nur von lezterer kann hier die Rede seyn. Die absichtliche Verknüpfung macht aus den Gedanken und Begriffen Urtheile und Schlüsse , in welchen ein erweitertes Erkennen sich ausspricht, während die Gedanken und Begriffe nur Offenbarungsformen für das ursprünglich einfache Erkennen sind.
+
+Daher ist es natürlich von ihnen , als dem Einfachen , anzufangen, ehe man zu dem Zusammengesetzten übergeht.
+
+[p. 37] §.
+
+15.
+
+Das Erkennen ist nach §. 6. Gedanke , sofern sein Object das Geistig - Erkennbare ist , Begriff, sofern es sich auf das Sinnlich - Wahrnehmbare als sein Object bezieht, Idee , wiefern es auf das Ahnbare als Object geht.
+
+Jedes dieser Objecte ist seiner Natur nach unendlich , und kann also im Grunde nur für das unendliche Object seyn.
+
+Dies Unendliche ist aber offenbar nicht der einzelne Gedanke als solcher , sondern nur die ganze unendliche Reihe von Gedanken.
+
+Gleichwohl wird jeder einzelne Gedanke eine bestimmte Stelle in diesem Unendlichen einnehmen , er wird Begränzung des Unendlichen seyn , also einen bestimmten Inhalt haben.
+
+selbe gilt sowohl vom Begriff, als von der Idee.
+
+§. $.
+
+16.
+
+Dieser Inhalt ist entweder von einer allgemei nen, oder nur von einer individuellen Geltung, je nachdem er sich mit Nothwendigkeit aus der Natur des Gedachten , oder nur aus der Willkühr des Denkenden bestimmt. Kann diese Willkühr schlechthin nicht mitwirken , so wird der Inhalt eines Gedankens oder
+
+Begriffs von absolut nothwendiger allgemei ner Geltung, während er , so lange sie , wenn auch in noch so geringer, Wirksamkeit bleibt, nur von bedingter allgemeiner Geltung ist. zelnheit kann jemals
+
+Kein Gedanke einer Einabsolut nothwendige allgemeine
+
+Geltung erhalten , sondern wird stets unvermeidlich bloß von bedingter allgemeiner Geltung bleiben. - Denn die Einzelnheit, als solche, ist wesentlich bedingt , und diese
+
+[p. 38] Bedingtheit besteht hauptsächlich darin , daß sie sich nie gänzlich von ihrer eigenthümlichen Natur oder Individualität losmachen kann , daß also diese überall unvermeidlich mitwirken muß , wodurch folglich Alles von ihr ausgehende eine individuelle Beimischung erhalten , und dadurch in etwas willkührlich werden wird , indem die
+
+Willkührlichkeit die unvermeidliche Folge von jenem unabwendlichen Mitwirken der Individualität ist. §. $
+
+17.
+
+Die individuelle Geltung des Inhalts eines Gedan kens ist inzwischen von doppelter Art : entweder subjec tiv - individuell , oder objectiv - individuell, je nachdem der Gedanke nur in Bezug zu einem ganz bestimmten Subjecte , oder doch auch in Beziehung zu andern Subjecten derselben Art gültig ist , wenngleich das einzelne Subject seine allgemeine Gültigkeit nicht darthun kann . §.
+
+18.
+
+Man kann auch die Gedanken und Begriffe in nothwendige , unvermeidliche und willkührliche theilen.
+
+Nothwendig sind sie , wenn sie gerade in ihrer bestimmten Gestaltung in der Natur des durch sie gedachten Objects wesentlich gegeben sind ; unvermeidlich, wenn sie aus dem Erkennen , an welches die Einzelnheit ihrer Natur und Lage nach im Erfassen ihrer selbst und ihrer Umgebungen gebunden ist , entspringen ; willkührlich endlich , wenn sie von der Einzelnheit ohne Rücksicht auf das durch sie gedachte Object bestimmt werden.
+
+[p. 39] Diese Eintheilung gilt jedoch nicht, wenn man die Gedanken und Begriffe , ihrem Ursprünge nach , betrachtet, wo nämlich alle gleich sehr nothwendig sind.
+
+§.
+
+19.
+
+Die, ihrem Inhalte nach , nothwendigen Gedanken und Begriffe sind von bedingter allgemeiner Geltung ; die, ihrem Inhalte nach , unvermeidlichen Gedanken und Begriffe sind objectiv - individuell , und die, ihrem Inhalte nach, willkührlichen subjectiv - individuell . Da nach §. 17. die subjectiv - individuellen Gedanken und Begriffe nur in Bezug zu dem ganz bestimmten Subject gelten, so kann dies sie auch nicht klar wiedergeben, oder be schreiben , also kann man sie auch unbeschreibbare nennen, während die objectiv- individuellen, obschon auch nur in Bezug zu einem bestimmten Subject besonders gültig , doch von einer gewissen allgemeinen Geltung sind , also wiedergegeben , oder beschrieben , und mithin beschreibbare genannt werden können. §.
+
+20.
+
+Wie kann aber das Geistig- Erkennbare den Stoff zu einem , seinem Inhalte nach , nothwendigen Gedanken hergeben ?
+
+Denn nothwendige Gedanken sind nach
+
+§. 18. solche , die gerade in ihrer bestimmten Gestaltung in der Natur des durch sie Gedachten wesentlich gegeben sind.
+
+Das durch die Gedanken Gedachte ist aber das
+
+Geistig - Erkennbare ; sind nun nicht alle Gedanken in dessen Natur wesentlich gegeben , also alle nothwendig, oder sind nicht alle in der besondern eigenthümlichen Auffassungsart der Einzelnheit , oder in ihrer Willkührlichkeit [p. 40] begründet, folglich nur unvermeidliche, oder willkührliche ?
+
+Alles kömmt bei Beantwortung dieser Frage auf die nähere Bestimmung des „wesentlich gegebenen " an. §.
+
+21.
+
+Die individuelle , und in sofern bedingte Vernunftnatur des Menschen , kann sich in ihrem Gedankenkreise bestimmen , oder findet sich hinsichtlich desselben bestimmt. Die Gedanken nun , hinsichtlich welcher sie sich bestimmt findet, sind ihr gegeben , die sie inzwischen entweder, unbeschadet ihrer innern Wahrheit , ihrerseits von neuem bestimmen kann , oder die sie, eben ihrer innern Wahrheit wegen , gerade in der Gestaltung , in welcher sie ihr Kann sie die ursprünglich gegeben waren , lassen muß.
+
+ihr gegebenen Gedanken weiter bestimmen , so sind sie ihr nur im Allgemeinen gegeben ; kann sie aber solche nicht weiter bestimmen, so sind sie ihr wesentlich gegeben.
+
+Ob sie nun gegebene Gedanken weiter bestimmen könne , oder nicht, muß sich natürlich aus der Natur des Gedachten ergeben , das entweder Wahrheit, abgesehen von allem individuellen Denken und Erkennen, in sich trägt , oder dem Wahrheit nur in Bezug auf ein solches zukömmt ; jenes kann eine objective, dies eine subjective Wahrheit genannt werden. §.
+
+22.
+
+Diese subjective Wahrheit ist nun wieder von doppelter Art , entweder sie beruht auf der bestimmten und an welche besondern Art des Denkens und Erkennens , die Einzelnheit gewöhnlich gebunden ist , und von der.
+
+sie sich nur mittelst einer ungewöhnlichen und außerordentlichen [p. 41]
+
+Anstrengung losmachen kann , oder sie beruht auf Meinung , Glaube , Ansicht ; im ersteren Fall führt sie eine bedingte innere Nothwendigkeit mit sich, die ihr im leztern gänzlich fehlt, während das objectiv Wahre absolut nothwendig ist.
+
+Wo nun das subjectiv
+
+Wahre ohne innere Nothwendigkeit ist, da kann es offenbar , unbeschadet seiner innern Wahrhaftigkeit , anders bestimmt werden ; ist es dagegen von einer bedingten innern Nothwendigkeit , so läßt es sich nicht unbeschadet seiner innern Wahrhaftigkeit anders bestimmen , und das objectiv Wahre , welches absolut nothwendig ist , vollends nicht anders bestimmbar. §.
+
+23.
+
+Das Subjectiv - Wahre, sofern es ohne innere Nothwendigkeit ist, wollen wir schlechtweg subjectiv . wahr nennen ; sofern es dagegen eine bedingte innere Nothwendigkeit hat, wollen wir es subjectiv - real heißen. Das Subjectiv - Reale ist die Stammwurzel so der noth wendigen , wie der unvermeidlichen Gedanken , wie das Subjectiv - Wahre die Stammwurzel der willkührlichen
+
+Sofern nun Gedanken noch in Bezug zu dem denkenden Subiect , das durch sie sein Geistig - Erkennbares, als in bestimmter Form gegeben , erkennt , gedacht sind, fällt allerdings der Unterschied zwischen dem Nothwendigen und Unvermeidlichen weg , indem in dieser Beziehung alle Gedanken entweder nur unvermeidlich, oder willkührlich seyn können.
+
+Allein Gedanken können auch, abgesehen von ihrem sie denkenden Subiecte , betrachtet werden , und können alsdann nur nothwendige , oder willkührliche seyn.
+
+[p. 42] §.
+
+24.
+
+Wenn Gedanken , abgesehen von ihrem sie denkenden Subjecte , gedacht werden , so kann zweierlei Statt finden : entweder sie werden ohne Inhalt, also inhaltLeer, oder mit einem Inhalte , folglich inhaltvoll gedacht.
+
+Die inhaltleeren Gedanken sind offenbar bloße leere Zeichen, während die inhaltvollen einzig Bedeutung haben können.
+
+Dieser Inhalt kann bei Gedanken nur aus dem Gebiete des Geistig- Erkennbaren genom men seyn , welches , unserer Bestimmung nach , das einsig mögliche Object der
+
+Gedanken ist.
+
+Nach diesem ihrem Inhalte wird sich ihre Geltung sowohl dem Grade, ' als dem Umfange nach , bestimmen.
+
+§.
+
+25.
+
+Es findet zwischen dem Gedanken und dem durch ihn Gedachten eine gegenseitige Wechselwirkung Statt, so , daß entweder der Gedanke den Inhalt , oder dieser jenen nach sich zieht ; hat der Gedanke den Inhalt nach sich gezogen , so ist er ein willkührlicher , also nur ein subjectiv wahrer , folglich von einer höchst bedingten Geltung, seinem Grade , wie seinem Umfange nach ; hat da gegen der Inhalt den Gedanken nach sich gezogen , ist er mithin in der Natur des durch ihn Gedachten wesentlich gegeben, so ist er ein nothwendiger , mithin ein subjectiv realer , und somit von bedingter allgemeiner Geltung , seinem Grade, wie seinem Umfange nach.
+
+Man könnte daher auch die Gedanken , sofern sie den Inhalt bestimmen , besondere , sofern sie dagegen vom Inhalte bestimmt werden , allgemeine nennen.
+
+[p. 43] §.
+
+26.
+
+Daß der Inhalt den Gedanken , das Zeichen die Sache bestimme , wird natürlich scheinen , und keiner Bedenklichkeit unterworfen seyn ; daß aber der Gedanke den Inhalt , das Zeichen die Sache bestimme , wird eher einer genaueren Bestimmung þedürfen. Jeder Gedanke hat , wenn auch keinen Inhalt, doch wenigstens eine Bedeutung, die oft die Art von Geltung , welche ein Gedanke seinem Inhalte nach erhalten soll , bestimmt, und diese Bedeutung ist entweder eine allgemeine, oder eine besondere , je nachdem sie auf der Anschauung eines einzelnen bestimmten Subjects , als solchem, oder auf der Anschauung eines ganzen Inbegriffs von Subjecten beruht, und man könnte jene die indi . viduelle, diese die historische nennen.
+
+§.
+
+27.
+
+Allein die Bedeutung kann doch eigentlich auch nicht dem leeren Zeichen als solchem, sondern nur seinem Inhalte , zukommen.
+
+In der That sind auch in der Wirklichkeit rein inhaltleere Gedanken ungedenkbar ; dies ist nur eine philosophische Abstraction.
+
+Ist also nicht auch der zwischen Bedeutung und Geltung gemachte Unterschied eine bloße philosophische Abstraction , und kann folglich von einer Bestimmung des Inhalts durch den Gedanken geredet werden ? Keinesweges.
+
+Der gemachte
+
+Unterschied nämlich hängt nothwendig mit den §§. 21 . und 22. gemachten Unterschieden in Ansehung der Wahr heit zusammen , indem die, ihrem Inhalte nach, objectiv [p. 44] wahren , und subjectiv realen Geltung , die bloß subjectiv wahren dagegen nur Bedeutung haben. §.
+
+28.
+
+Von jedem Gedanken findet offenbar eine Anwendung Statt, die entweder gemacht werden muß , · oder gemacht werden kann ; wo sie gemacht werden muß , bestimmt offenbar der Inhalt den Gedanken , wo sie dagegen gemacht werden kann , wird der Inhalt durch den Gedanken bestimmt.
+
+Sie muß bei den objectiv wahren und subjectiv realen , also bei denen , die eine Geltung haben , wo mithin der Inhalt den Gedanken bestimmt, gemacht werden ; sie kann gemacht werden bei den bloß subjectiv wahren , folglich bei denen , die nur eine Bedeutung haben.
+
+Demnach läßt sich sagen , daß hier die
+
+Bedeutung den Inhalt bestimme.
+
+§.
+
+29.
+
+Es gibt Gedanken , die ihrem Inhalt nach gemischt sind , indem das durch sie Gedachte theils geistig erkenn bar , theils sinnlich ist.
+
+Mit Absicht sage ich nur sinnlich, wodurch angedeutet wird , daß der Gedanke seinen Juhalt, wenngleich er ihn nicht rein aus dem Geistigen, sondern auch aus dem Materialen bestimmt erhalten hat, keinesweges aus dem Sinnlich - Wahrnehmbaren genommen hat. Diese Art von Gedanken heißt Empfindung, Gefühl, Begierde , je nachdem sie, ihrem Inhalte nach , durch die Möglichkeit , die im Menschen ist , von Außen her ergriffen und berührt zu werden , oder durch die in der physischen Natur des Menschen begründeten
+
+[p. 45] Natur - Bedürfnisse bestimmt worden sind.
+
+Es muß einleuchten , daß diese Art von Gedanken , ihrem Inhalte nach, subjectiv real , aber auch zugleich nur subjectivindividuell (f. §. 17.) , also unbeschreibbar ist. Aus dem Gesagten erhellt , daß sich die Gedanken hinsichtlich ihres Inhalts in einfache und zusammengesezte theilen lassen. §.
+
+30.
+
+Obschon nach §. 27. rein inhaltleere Gedanken eine bloße philosophische Abstraction sind , so kann sie doch gemacht werden , und das reicht hin , einen Gebrauch davon zu machen.
+
+Demgemäß können der Gedanke und sein Inhalt in dem Verhältniß, rein Subject und Prädicat zu einander , betrachtet werden.
+
+Wie zur Vollständigkeit des Subjects das Prädicat stets wesentlich gehört, so gehört auch zur Vollständigkeit des Gedankens
+
+Inhalt stets wesentlich , und also findet zwischen allen Gedanken und ihrem Inhalt eine Beziehung Statt , die entweder nur bedingungsweise , oder unbedingt , absolut ist, welche leztere Beziehung, zum Unterschiede von der Beziehung überhaupt, eine nothwendige genannt wer den kann .
+
+§.
+
+31 .
+
+Eigentlich ist jeder Gedanke der Anfang eines Urtheils , das entweder unvollendet gelassen werden kann, oder schlechterdings vollendet werden muß, und von einem solchen Urtheile ist der nothwendige Beziehungsgedanke der Anfang.
+
+Urtheile überhaupt sind Gedanken , oder
+
+Begriffs - Urtheile, je nachdem sie sich durch
+
+[p. 46] Gedanken , oder Begriffe aussprechen, da durch die Ideen nicht Urtheile, sondern nur Anschauungen sich offenbaren.
+
+§.
+
+32.
+
+Fast dasselbe , was von den Gedanken gesagt ist, gilt von den Begriffen , oder den geistigen Erkenntnissen, sofern ihr Object das Sinnlich - Wahrnehmbare ist, das entweder nur im Allgemeinen und ganz unbestimmt, øder schon im Einzelnen klar , deutlich, bestimmt und genau erkannt und unterschieden wird ; wird es nur im Augemeinen, und ganz unbestimmt erkannt , so sind die Begriffe dunkel und verworren ; wird es dagegen im Einzelnen genau , bestimmt , deutlich und klar erkannt, so sind die Begriffe deutlich und klar. §.
+
+33.
+
+Ferner bietet das Sinnlich- Wahrnehmbare Erscheinungen und Dinge , von denen man entweder die innere Wesenheit selbst , oder nur die sie von andern unterscheidenden Merkmale und Eigenschaften durch Begriffe be zeichnen will.
+
+Sollen Begriffe zur Bezeichnung der eigentlichen Wesenheit selbst in und an den Dingen dienen , so sind es Real - Begriffe ; sollen sie hingegen nur die, das einzelne bestimmte Ding von andern einzelnen bestimmten Dingen unterscheidenden Merkmale und Eigenschaften beschreiben , so sind es Formal - Begriffe.
+
+Uebrigens sind alle Begriffe gegeben. §.
+
+34.
+
+Einige Begriffe sind mit dem Bewußtseyn zugleich, andere erst für das Bewußtseyn gegeben.
+
+Beide haben [p. 47] also einen Anfang in der Zeit , nur daß dieser Anfang bei den Einen plöglich, bei den Andern dagegen successiv gegeben ist.
+
+Der plößliche Anfang ist zugleich ein unmittelbarer, während der successive ein mittelbarer ist, welcher zum Unterschiede von jenem Ursprung genannt werden kann , und so sind also auch die Begriffe anfängliche und ursprüngliche , telbare und mittelbare. §.
+
+oder unmit-
+
+35.
+
+Ein Begriff kann viele andere in sich schließen, und ist in sofern ein Inbegriff, welche dasselbe , oder das Aehnliche mit ihm zugleich bezeichnen , oder aus ihm, feiner innern Natur wegen , unvermeidlich hervorgehen ; bezeichnen sie dasselbe mit ihm , so sind es gleichlautende oder identische ; bezeichnen sie Aehnliches mit ihm , so sind es verwandtschaftliche Begriffe, und entwickeln sich endlich viele andere Begriffe aus der innern Natur eines Begriffs unvermeidlich, so ist dieser eine ein Stamm- und Wurzelbegriff, den man auch einen allgemeinen oder obersten , während man die aus ihm entsprungenen Begriffe besondere , untergeordnete nennen kann , und gäbe es einen Begriff, der die ganze unendliche Reihe von Begriffen in sich faßte, so wäre dies ein unendlicher , fender.
+
+allumf as-
+
+Allein einen solchen kann es nicht geben , da im Objecte der Begriffe , dem Sinnlich - Wahrnehmbaren, nichts unendlich , noch allumfassend seyn kann.
+
+§.
+
+36.
+
+Umgekehrt sind Begriffe einander entgegengefeßte, oder einander widersprechende , je nachdem [p. 48] sie bloß von einander verschiedene, oder einander entgegengefeßte Gegenstände bezeichnen.
+
+Die einander entgegengefeßte Begriffe können nur nicht zusammengedacht werden, und schließen also einander aus , während die einander widersprechenden Begriffe gar nicht neben einander gedacht werden können , sondern einander gegenseitig aufheben. §.
+
+37.
+
+Die Verknüpfung der Begriffe im Inbegriff kann auf verschiedene Weise Statt finden.
+
+Erstlich, sofern die
+
+Verknüpfung nur erst noch als möglich gedacht wird, kann einBegriff auf vielfach verschiedene Weise mit andern verknüpft werden , und ist sodann ein vielseitiger, oder auf eine einzig mögliche , und ist sodann ein einseitiger.
+
+Zweitens, die Verknüpfung ist als wirklich vorhanden gedacht , wo dann zweierlei gedenkbar entweder einer von zweien ist :
+
+mit einander verbundenen
+
+Begriffen kann ohne den andern , oder beide können nür in ihrer Verbindung mit einander gedacht werden. Findet das erstere Statt , so kann ihre Verbindung unter einander eine gegenseitige , ist lezteres der Fall, eine wechselseitige heißen , und diejenigen Begriffe, deren Verbindung nur gegenseitig ist , sind bloß Beziehungsbegriffe schlechtweg , dagegen , diejenigen deren
+
+Verbindung wechselseitig ist, nothwendige Bezichungsbegriffe. §.
+
+38.
+
+Da die Erfahrung die Quelle der Gedanken und Begriffe ist , so läßt sich sagen , daß sie , ihrem Inhalte [p. 49] nach, empirisch bestimmbar sind .
+
+Anders ist es dagegen mit den Ideen, deren Object das blos Ahnbare ist. Sie sind , ihrer Natur nach , eins, einfach , einerleiig. Zwar können sie von unendlich vielen Seiten her betrachtet werden, aber dies ändert nichts an der Einheit, Einfachheit, Einerleiigkeit ihrer Natur.
+
+Ja im Grunde
+
+• gibt es nur eine Idee , welche die ganze unendliche Masse möglicher Erkenntnisse in sich faßt, also recht eigentlich unendlich und allumfassend ist.
+
+Sie ist als
+
+Idee gar nicht beschreibbar .
+
+Was von ihr wiedergegeben wird , sind entweder nur Gedanken , oder Begriffe, also. unvollkommene Abbilder. §.
+
+39.
+
+Mehrere Gedanken oder Begriffe mit einander verbunden , ergeben ein volles Urtheil , während , wie bereits oben . 31. ) bemerkt wurde , jeder einzelne Gedanke oder Begriff der Anfang eines Urtheils ist.
+
+Urtheilen spricht die individuelle und bedingte Vernunftnatur ihre Ansichten über bestimmte Gegenstände aus, die sie entweder absichtslos und ganz unbefangen , absichtlich und mit Besonnenheit gebildet hat ; man könnte jene Natur - Urtheile , theile nennen.
+
+diese dagegen Kunst - Ur-
+
+Aber alle Urtheile , sie seyen das eine oder andere , bestehen nothwendig aus Anfang , Mitte, Ende.
+
+§.
+
+40.
+
+Die Urtheile beziehen sich ferner entweder auf das Allgemeine , als ihr Object , und sind sodann unbestimmte, oder auf ein ganz bestimmt gegebenes einzelnes
+
+[p. 50] Object, und sind sodann bestimmte.
+
+Beziehen sie sich auf ein ganz allgemeines Obfect , so ist zweierlei gedenkbar : entweder sie können die Bestätigung ihres Inhalts möglicher Weise in der wirklichen Erfahrung , oder sie können diese Bestätigung möglicher Weise nur in einer möglichen Erfahrung finden.
+
+Ist das erstere , so sind es wahrscheinliche , ist das letztere , wahrscheinliche Urtheile.
+
+so sind es un-
+
+Beziehen sie sich auf ein einzelnes ganz bestimmt gegebenes Object, so kann ebenfalls zweierlei Statt finden :
+
+entweder sie können die
+
+Bestätigung ihres Inhalts erst noch in der wirklichen Erfahrung finden, oder es ist im Voraus gewiß , sie diese Bestätigung in ihr finden müssen.
+
+In jenem
+
+Falle sind es ungewisse und zweifelhafte, in diesem gewisse und unanstreitbare. §.
+
+41 .
+
+Urtheile haben weiter eine innere Nothwendigkeit in sich, oder diese fehlt ihnen gänzlich.
+
+Diese innere Nothwendigkeit ist entweder nur in ihrem Inhalte , lediglich in ihrer Form , oder in beiden zugleich.
+
+Eben so fehlt sie entweder nur der Form , oder dem Inhalte, oder beiden zugleich.
+
+Jener Mangel an innerer Nothwendigkeit kann aus Unkunde , Uebercilung, oder Absicht entspringen.
+
+Aus denselben Quellen entspringt ihre innere Nothwendigkeit.
+
+§. Urtheile,
+
+42.
+
+die jene innere Nothwendigkeit befißen, sind gültige, die aber , denen sie fehlt , ungültige. Die gültigen sind , sofern sie ihre innere Nothwendigkeit
+
+[p. 51] ´der Absicht zu danken haben , wahre, die ungültigen/ sofern sie den Mangel an innerer Nothwendigkeit der Absicht zuschreiben müssen , unwahre , oder sophisti . sche.
+
+Haben dagegen die gültigen ihre innere Nothwendigkeit der Absichtslosigkeit, sey es nun der Unkunde, oder der Uebereilung , zu danken , so sind es bloß rich. tige.
+
+Umgekehrt sind die ungültigen , sofern der Mangel an innerer Nothwendigkeit aus Uebereilung herrührt, irrige ; rührt er dagegen aus Unkunde her, falsche.
+
+§.
+
+43.
+
+Ist in den gültigen und zugleich wahren Urtheilen die innere Nothwendigkeit in Inhalt und Form zugleich, so sind es vollständige, ist sie nur in dem einen, oder. andern , so sind es mangelhafte. von den bloß richtigen.
+
+Dasselbe gilt auch
+
+Die sophistischen , irrigen und falschen Urtheile aber werden vollends durch einen Mangel hinsichtlich des Inhalts , oder der Form , nichtige. Oft können Urtheile , obwohl sie ihrem Inhalte , wie ihrer Form nach, ganz vollständig sind, dennoch mangel haft fenn, sofern sie nämlich aus dunkeln oder unklaren Begriffen oder Gedanken ( s. §. 32.) zusammengefeßt sind, in welchem Falle sie verworrene heißen können.
+
+S.
+
+44.
+
+Urtheile sind unmittelbare und mittelbare , je nachdem sie sich aus und durch Erfahrung , oder ab gesehen von aller möglichen Erfahrung, bestimmen ; jene sind , diese werden.
+
+Da nun die einen, ihrer innern Zusammensetzung nach , schon sind , die andern aber sich erst bilden , so kann man auch jene synthetische, [p. 52] und diese analytische nennen.
+
+Urtheile können auch gemischte , oder reine , einfache , oder zusam . mengeseßte seyn , je nachdem sie nur aus Gedanken, oder nur aus Begriffen , oder theils aus Gedanken, theils aus Begriffen bestehen.
+
+§.
+
+45.
+
+Nur was mit einander in Verwandtschaft steht, kann mit einander verbunden werden , nicht was mit einander im Gegensaße steht.
+
+Daher können Urtheile aus einander entgegengesezten , oder widersprechenden Gedanken und Begriffen nicht gebildet werden ; nur aus gleichlautenden , oder verwandtschaftlichen Gedanken und Begriffen lassen sich Urtheile bilden. mannichfach verschiedene ,
+
+Urtheile lassen sich auf oder nur auf eine Weise betrachten , und sind in jenem Falle vielseitige , in diesem einseitige.
+
+§. Ein wissenschaftliches
+
+46. System besteht aus
+
+Reihe von Folgerungen ; jede Folgerung aus Schlüssen. jeder Schluß aus Urtheilen.
+
+Man führt in den gewöhnlichen Logiken eine Menge von Künsteleien in Ansehung der Schlüsse an , die ihren Ursprung noch in den Zeiten der Scholastik genommen haben, allein nicht nothwendig, ja nicht einmal zweckdienlich , oder irgend nüßlich sind, also füglich weggelassen werden können.
+
+Wir wollen demnach versuchen , den Gegenstand in seiner natürlichen Gestaltung und Einfachheit darzustellen.
+
+[p. 53] §.
+
+47.
+
+Zuvörderst ist noch zu bemerken , daß die Reihe möglicher Urtheile unendlich ist , daß jedoch in dieser unendlichen Reihe keines absolut, sondern jedes bezüglich dasteht , also immer wieder auf ein anderes zurück. gebracht werden kann ; die nun , auf welche andere zurückgebracht werden können , sind die obern , während jene die untern sind .
+
+Schlüsse, wie Urtheile ( f. §. 39.)
+
+bestehen aus Anfang , Mitte und Ende. Sie beruhen, ihrer innern Wahrheit oder Nothwendigkeit nach , ent weder auf Anschauung oder Erfahrung , und können in jenem Falle ideale, in diesem genannt werden.
+
+§.
+
+empirische Schlüsse
+
+46.
+
+Durch Schlüsse sollen Ansichten und Erkenntnisse auf eine für Andere überzeugende Weise dargethan werden , wobei eine die anderen stüßt , oder vernichtet , da alle aus einer hergeleitet sind.
+
+Es ist dabei nicht hinreichend , daß der Träger , auf dem die übrigen ruhen, innerlich wahr , oder nothwendig sey, um das von ihm Abgeleitete ebenfalls als solches zu begründen , oder daß er innerlich unwahr , mithin ohne alle Nothwendigkeit sey , um das von ihm Hergeleitete gleichfalls innerlich unwahr , folglich nichtig zu machen ; sondern es muß noch , das eine , oder andere zu bewirken, die Art der Ableitung oder Folgerung hinzukommen.
+
+Absicht , Frrthum , Unkunde und Uebereitung kommen dabei gar sehr in Betracht.
+
+[p. 54] §.
+
+49.
+
+Erwägt man näher , worin eigentlich bei Schlüssen die überzeugende Kraft liegt , so kann man sie nicht in den einzelnen Urtheilen an und für sich , sondern in ihrer Verknüpfung mit einander suchen.
+
+Denn jedes einzelne Urtheil an und für sich bedarf gewöhnlich einer nähern Bestätigung und Begründung. gewissen
+
+Grad von allgemein
+
+Freilich einen anerkannter
+
+Wahrheit müssen sie haben, weil sie diese sonst auf keine Art noch Weise von der bloßen Form , wie ihre Verbindung ist, erhalten könnten.
+
+Aber diese Wahrheit soll auf eine besondere Art für eins geltend gemacht werden , und dies kann nur durch die Verbindung geschehen.
+
+Ist diese wahr und richtig , so wird jenes bewirkt , ist sie unwahr , falsch und irrig , so wird es verfehlt seyn.
+
+§. In allen Schlüssen
+
+50. ist es der Endsaß , den man durch Anfang und Mitte überzeugend begründen will, und der Mittelsaß ist es , durch den die in allen einzelnen Urtheilen enthaltene allgemeine Wahrheit auf den Endsaß auf eine besondere Weise angewendet werden soll , --- oder der Endsah soll aus dem Anfang hergeleitet werden, kann es aber nur durch Vermittlung des Mittelsaßes. Es fragt sich bei allen Schlüssen zweierlei : erstlich, ob die in ihnen mit einander verbundenen Urtheile überhaupt mit einander verbunden werden können ? und zweitens [p. 55] , ob sie so , wie sie verbunden sind , verbunden seyn können? §.
+
+51.
+
+Urtheile beziehen sich nothwendig auf Gegenstände der sinnlich wahrnehmbaren , oder geistig - erkennbaren
+
+Welt, die etwas in sich haben , daß sie entweder eint, oder trennt, also einen gemeinschaftlichen, oder verschiedenen Charakter befizen. Die von gemeinschaftlichem Character bilden Arten , oder Gattungen . ― Ferner beziehen sie sich auf diese
+
+Gegenstände entweder nur ganz im Allgemeinen , oder ganz im Einzelnen.
+
+Nun kann wohl das Einzelne durch das Algemeine , nicht aber dies durch jenes begründet werden.
+
+Desgleichen läßt sich wohl das Gemeinschaftliche , jedoch nicht das, was von einander verschieden , oder einander fremd ist, mit einander verbinden . Aber diese Verbindung muß so seyn, daß dadurch wirklich etwas begründet wird. Denn es gibt zwischen Urtheilen zweierlei Arten von Verbindung ; die eine dient dazu, eine Reihe aus ihnen zu bilden , und ist daher nur rein verknüpfend , oder copu lativ, die andere soll inzwischen mehr einen innerlichen Zusammenhang unter ihnen begründen, und ist also mehr wesentlich oder reell.
+
+Einleuchten muß, daß nur durch die zweite Art der Verbindung von Urtheilen eines besonders begründet werden kann , während durch die erste keines besonders begründet wird.
+
+§.
+
+52.
+
+Im Grunde kann es weder eine reine reelle , noch eine rein copulative Verknüpfung unter Urtheilen geben, [p. 56] sondern jede Verknüpfung, die unter ihnen Statt findet, muß eine gemischte seyn , indem mehrere Urtheile gar können , unter einander verbunden gedacht werden wofern sie nicht einerseits eine Reihe bilden, anderseits im innerlichen Zusammenhange mit einander stehen.
+
+Dieser Zusammenhang kann nun sehr wesentlich, oder sehr unwesentlich seyn , und entweder ist der äußere Zusammenhang sehr unwesentlich und der innere sehr wesentlich , oder umgekehrt dieser sehr unwesentlich und jener sehr wesentlich.
+
+In solchen Zusammensetzungen , durch welche nichts besonders begründet werden soll, ist offenbar der innere Zusammenhang höchst univefentlich , der äußere dagegen sehr wesentlich ; umgekehrt ist in solchen, mittelst welcher etwas besonders begründet werden soll, der innere Zusammenhang höchst wesentlich, während es der äußere nicht ist.
+
+Durch Schlüsse soll aber Etwas besonders begründet werden , folglich wird in ihnen der innere Zusammenhang höchst wesentlich und der äußere sehr unwesentlich seyn.
+
+§.
+
+53.
+
+gibt nun bestimmte Formeln , welche zu Verknüpfung von Urtheilen dienen, wovon einige hauptsächlich zur Bewirkung der copulativen, andere zur Bewirkung der reellen Verknüpfung besonders anwendbar sind, und sofern das rein Copulative , oder Formelle recht eigentlich in die Sphäre der Logik hineingehört , das Reelle dagegen schon mehr der Metaphysik anheimfält, könnten jene logische , diese metaphysische Verbindungsformeln genannt werden ; auch könnten jene førmelle, [p. 57] diese reelle heißen.
+
+In Schlüssen also wird die Verbindungsformel eine metaphysische , oder reelle seyn müssen. Die formellen Verbindungsformeln bestehen mehr aus einzelnen Gedanken , oder Begriffen , während die reellen durch vollständige Urtheile oder Säße gebildet werden.
+
+Sie heben den innern Zusammenhang zwischen gewissen Urtheilen, der sonst unbemerkt geblieben wäre, deutlich hervor.
+
+§.
+
+54.
+
+Natürlich können diese Verbindungsformeln nur da einen innern Zusammenhang hervorheben, wo einer ist. Daß nun Urtheile, die ihrem Inhalte nach sich auf ein ander fremdartige Gegenstände beziehen , keinen innern Zusammenhang unter einander haben , muß von selbst einleuchten. Solche können mithin auf keine Weise mit einander verbunden werden. ihrem Inhalte nach
+
+Aber selbst solche, die sich auf mit einander verwandte , oder gleichartige Gegenstände beziehen , lassen sich nur auf eine ganz bestimmt gegebene Art mit einander verbinden. Wird diese verfehlt, so werden die aus ihnen gezogenen Schlüsse falsch, irrig , übereilt. Oft kann man sie auch absichtlich umgehen, oder verdecken wollen, woraus sich sodann Trugschlüsse , oder Sophismen ergeben. Zuweilen wird sie auf + eine übertriebene Weise bervorgehoben , wodurch Paradoxen entstehen. $
+
+55.
+
+Nämlich selbst gleichartige Gegenstände sind nicht in allen möglichen Beziehungen, sondern nur in gewissen [p. 58] bestimmt gegebenen
+
+Beziehungen oder von einer Gattung.
+
+einander gleichartig,
+
+Sofern sie nun in Urtheilen zu Schlüssen miteinander richtig verbunden werden sollen, muß die Verbindungsformel von der Art seyn, daß sie die Beziehungen, in welchen jene mit einander gleichartig sind , oder einen innerlichen Zusammenhang unter einander haben , bemerklich hervorhebt. Diese Beziehungen sind es gleichsam , welche es möglich machen , daß zwei verschiedene Urtheile sich im dritten zu einem verschmelzen , und man könnte sie daher Uebergangs-, Vermittlungs- , Incidenzpunkte nennen. Diese muß das die Verbindungsformel ausmachende Urtheil andeuten und bemerklich machen.
+
+§.
+
+56.
+
+Schlüsse können, wie Urtheile, aus denen sie bestehen, in ideelle und empirisch bestimmbare , oder in ge mischte, ferner in allgemein getheilt werden.
+
+individuell gültige
+
+Aus den empirisch bestimmbaren können die ideellen nicht gefolgert werden , wohl aber die empirisch bestimmbaren aus den ideellen zum Theile, und das sind die gemischten. Eben so läßt sich aus dem bloß individuell gültigen nicht das allgemein gültige , wohl aber jenes aus diesem folgern. Es sind hier inzwischen noch mehrere Nebenbestimmungen und genauere Unterscheidungen nöthig.
+
+§.
+
+57.
+
+Nämlich man muß unterscheiden zwischen nothwendigen, unvermeidlichen , wahrscheinli .
+
+[p. 59] chen und blos möglichen Folgerungen .
+
+Offenbar kann nur das, was von absoluter , unbedingter, allgemei ner Geltung ist , die streng nothwendigen Folgerungen begründen , während das, was nur eine bedingte allge meine Geltung, oder gar eine blos individuelle Geltung bat, höchstens die unvermeidlichen, wahrscheinlichen und blos möglichen zu begründen vermag.
+
+Von absolut`unbedingter allgemeiner Geltung ist nur das objectiv - Wahre, oder , was, abgesehen von aller Bedingung und Beziehung , Wahrheit in sich hat , während das subjectivWahre, oder , was nur in Bezug zu bestimmten Bedingungen und Beziehungen wahr ist , nur von bedingter allgemeiner , oder gar nur von individueller Gattung seyn kann , je nachdem es entweder nur subjectiv - wahr im Allgemeinen , oder insbesondere subjectiv - real ist.
+
+Also die nothwendigen Folgerungen sind nur durch das objectiv - Wahre als möglich gegeben , während in dem subjectiv - Wahren , sofern es auch zugleich subjectiv-real ist, die unvermeidlichen , sofern es dagegen nur subjec tiv - wahr im Allgemeinen ist, die wahrscheinlichen , oder blos möglichen gegeben sind.
+
+§.
+
+58.
+
+Das objectiv- Wahre ist nur in der Idee erfaßbar ; diese ist Grund und Mittelpunkt der ideellen Schlüsse . Nothwendige Folgerungen sind also nur in diesen möglich. Das empirisch - Bestimmbare ist nur subjectiv -wahr, und Grund und Mittelpunkt der empirisch-bestimmbaren Schlüsse , worin mithin unvermeidliche , wahrscheinliche [p. 60] und mögliche Folgerungen werden gezogen werden kön
+
+Das empirisch - Bestimmbare ist subjectiv - wahr, wenn die individuelle und bedingte Vernunftnatur im Menschen in dessen Erfassen nicht von der Form in sich, von der sie zunächst und natürlicher Weise ganz unvermeidlich ausgehen muß , nämlich vom Bewußtseyn , sondern von einer andern beliebig ergriffnen ausgeht ; ` es ist subjectiv - real, wenn sie in dessen Erfassen von ihrem Bewußtseyn , wie es ihr zunächst natürlich ist , ausgeht. Ist jenes, so ist das Empirisch-Bestimmbare die Quelle der blos wahrscheinlichen , oder möglichen , ist dieses , so ist es die Quelle der unvermeidlichen Folgerungen. Bei den gemischten Schlüssen finden aber eigene Rücksichten Statt.
+
+§.
+
+59.
+
+Bei den gemischten Schlüssen nämlich ist zwar die Erfahrung der Hintergrund , die Idee dagegen die eigentliche Stüße , indem die darin dargelegte Wahrheit allerdings in der Erfahrung eine gewisse Bestätigung findet, jedoch nur durch Hinweisung auf die Idee in ihrer Allgemeinheit begriffen werden kann.
+
+Diese Schlüsse würden, gäbe es nichts empirisch- bestimmbares, nicht ent stehen, und, wiese man nicht auf die Idee, als ihr eigentliches wahres Princip zurück , nicht gelten könne .
+
+wird in ihnen mit einer an Nothwendigkeit gränzenden Unvermeidlichkeit gefolgert. §.
+
+60.
+
+Obwohl nun das Allgemeine nach ( §. 56. ) nicht aus dem Besondern , sondern nur dies aus jenem hergeleitet [p. 61] werden kann , so läßt sich doch das Allgemeine aus dem Besondern mit Wahrscheinlichkeit herleiten.
+
+Sofern man nun das Allgemeine aus dem Besondern herleitet, also von dem Untergeordneteren zu dem Höheren emporsteigt, könnte man diese Schlüsse ; Schlüsse in aufsteigender Linie nennen ; sofern man dagegen das Besondere aus dem Allgemeinen folgert, also vom Höheren zum Niedern hinabsteigt, könnten diese Schlüsse, Schlüsse in absteigender Linie genannt werden.
+
+Oft werden
+
+› mehrere Schlüsse in einander geschoben und mit einander verwebt, und bilden sodann Schlußketten. Jeder Schluß drückt sich durch eine bestimmte, ihm eigenthümlich zukommende Formel aus , die für alle derselben Art gilt, und daher Schlußform , Schlußfigur heifsen kann.
+
+§.
+
+61.
+
+Man hat in dieser Hinsicht allerlei Künsteleien, die aus den Zeiten der Scholastik herstammen, und die man allerdings historisch nennen muß, allein im Grunde ganz unnüße und leere Spielereien sind.
+
+Uns dünkt der
+
+Gegenstand durch das Gesagte auf das einfachste und vollständigste erschöpft zu seyn.
+
+Der deutlichern Anschauung wegen wollen wir es in nachstehender Tafel in seinen wesentlichen Umrissen darlegen.
+
+[p. 62] Schlüsse sind:
+
+A. Sdeelle,
+
+B.
+
+Empirische,
+
+C. Gemischte
+
+Character: die empirischen sind: von unbedingter a. subjectiv - wahr im von unbedingter allgemeiner GelAlgemeinen, oder allgemeiner Geltung mit innerer rein individuelle, tung fedoch nur mit einer an MothNothwendigkeit. b. subjectiv - reale. Character der empiri wendigkeit grän schen, sofern sie bloß jender Unvermeidsubjectiv-wahr sind : lichkeit. von bloß individueller Geltung innerlich nur möglich, oder höchstens wahrscheinlich : . sofern sie subiectiv real sind : von bedingter allge meiner Geltung mit innererUnvermeidlichkeit. Character:
+
+Sie sind , sofern gefolgert wird : Schlüsse in absteigender Linie :
+
+und wird abgeleitet : Schlüsse in aufsteigender Linie.
+
+§.
+
+62.
+
+Was nun die diesen Schlüssen eigenthümliche zukom. mende Formel anlangt, so muß einleuchten, daß die Formel für unbedingt allgemein gültige ebenfalls von unbe-
+
+1 dingt allgemeiner Geltung seyn muß , während die für bedingt allgemein gültige nur von bedingter allgemeiner Geltung zu seyn braucht , und die für bloß individuell gültige bedingt individuell gültig seyn kann.
+
+Das individuell gültige ist willkürlich , oder beliebig ; die selbiges beziehende Formel wird also auch willkürlich, oder beliebig [p. 63] seyn können. Das Individuelle ist zugleich unendlich mannichfach , die selbiges bezeichnenden Formeln werden mithin gleichfalls unendlich mannichfach seyn. Dagegen ist das Algemeine einförmig , und kann nur durch ge wisse bestimmt gegebene Formeln bezeichnet werden, und für das unbedingt Allgemeine ist nun vollends nur eine Formel möglich, die, wie ihr Inhalt selbst, Allumfassend seyn muß.
+
+63.
+
+§.
+
+Schlußketten (§. 60) können nicht beliebig, sondern nur nach einer bestimmten Regel , die sich theils nach der Natur der Schlüsse , theils nach der Natur des zu behandelnden Problems bestimmt , gebildet werden.
+
+ideellen Schlüsse können mit allen andern verbunden werden, weil sie allumfassend sind ; die empirischen , sie seyen nun rein individuelle, oder subjectiv - reelle , lassen sich immer mit jenen verbinden, weil sie von ihnen umfaßt sind , und in den gemischten ist von selbst eine Verschmelzung vorgegangen.
+
+Sollen Schlüsse , die aus dem Besondern gezogen sind, mit den aus dem Allgemeinen gezogenen in Verbindung gesezt werden , so kann dies nur auf bedingte Weise geschehen, während es umVerbindet man gekehrt unbedingt geschehen kann. Schlüsse aus dem Besondern gezogen mit Schlüssen aus dem Allgemeinen gefolgert, so schließt man durch Induction , indem man etwas dazwischen schiebt , was eigentlich weder in dem einen, noch in dem Andern gegeben ist.
+
+Man bringt es daber hier nie weiter , als bis zur Wahrscheinlichkeit , gränzt.
+
+die höchstens an
+
+Gewißheit
+
+[p. 64] §.
+
+64.
+
+Was nun die innere Natur der Probleme betrifft/ die dabei ebenfalls in Betracht kömmt, so bestimmt sich diese wieder nach der innern Natur der Wissenschaft, Kunst oder Disciplin , zu deren Sphäre sie gehören. Jede Wissenschaft, Kunst und Disciplin hat nämlich eine Hauptaufgabe zu lösen, mit der viele Nebenaufgaben nothwendig , unvermeidlich , willkürlich zusammenhängen, und diese Nebenaufgaben sind Probleme. Es gehört auf jeden Fall eine genaue Einsicht in das innere Wesen einer bestimmten Wissenschaft , Kunst , Disciplin dazu, um zu bestimmen, was sich als Problem aus ihr entwickeln und wie es seiner Natur gemäß behandelt werden müsse.
+
+Es gibt aber auch gewisse allgemeine
+
+Formen der Erörterung, nach der sie sich , auch abgefeben von dem eben erwähnten Umstande , bestimmen läßt.
+
+§.
+
+65.
+
+Es giebt nämlich nach unserer Anschauung kein Beweisen (f. §. 13.), sondern nur ein Erörtern.
+
+auch dies kann verschiedene Weisen haben , die sich im Allgemeinen bestimmen lassen. Entweder man geht gleich vom Obersten und Allgemeinsten aus, um so zu dem Untern und Besondern zu gelangen , oder man fängt von dem Untersten und Besondersten an, um so das Allgemeinste und Oberste zu erhalten.
+
+Man geht ferner un mittelbar von dem zu erörternden Gegenstande aus, oder beginnt bei einem andern scheinbar gar nicht mit ihm verwandten, um so auf einem Umwege zum eigentlichen Gegenstande selbst mittelbar zu gelangen.
+
+Endlich ´ist [p. 65] für die Erörterung Aufgabe: Verdeutlichung eines Gegenstandes, und Zweck : Verdeutlichung für unser, oder eines Andern Erkennen, welche Ordnung man entweder beibehält, oder so verändert, daß was Zweck war, Aufgabe, und was Aufgabe war, Zweck wird , indem man nämlich Aufhellung der eigenen, oder einer fremden Erkenntniß, und dadurch die richtige Erkenntniß eines bestimmt gegebenen Gegenstandes anstrebt. Sofern man aus dem Allgemeinsten und Obersten zum Untersten und Besondersten übergeht ,
+
+Deduction, umgekehrt Induction.
+
+hat man
+
+Geht man unmittelbar von dem zu erörternden Gegenstande aus , hat man die Demonstration ; geht man unmittelbar von einem andern, jenem scheinbar gar nicht verwandten, aus, um so mittelbar zu ihm zu gelangen , hat man die apagogische Weise.
+
+Wenn man in der Demonstration die Ordnung umkehrt , d . i. den Zweck zur Aufgabe und die Aufgabe zum Zwecke macht , so wird sie das Argumentum ad hominem.
+
+§.
+
+66.
+
+Welche Probleme hat nun die Wissenschaft der Philosophie nothwendig und unvermeidlich ? Welche will, kürlich ? Die Beantwortung wird sich aus Bestimmung ihrer Hauptaufgaben ergeben , die §. 1. dahin bestimmt wurde : die Wahrheit an sich , in Hinsicht der höchsten und wichtigsten menschlichen Angelegenheiten, zu finden, und diese sind nach §. 10. die Erkenntniß Gottes, in Beziehung zu uns und der Welt.
+
+In dieser Hauptaufgabe liegen verschiedene Nebenaufgaben, oder Probleme. Einleuchtend ist: Erstlich , daß , che Gott in seiner Bezie»
+
+[p. 66] hung zu uns und zu der Welt betrachtet werden kann, er erst an und für sich betrachtet werden müsse. Zweitens , daß er zunächst in seiner Beziehung zu uns und sodann erst in seiner Beziehung zur Welt zu betrachten sey. Hieraus ergeben sich also drei Probleme als nothwendig. Betrachtet man ihn dann wieder in seiner besondern Beziehung zu uns , oder zur Welt , so ergeben sich daraus eine Menge von Problemen, als unvermeidlich; viele andere lassen sich noch willkürlich damit in Verbindung feßen.
+
+Allein es wäre offenbar zu weitläuftig sie alle darzulegen, und wir begnügen uns daher, blos die wesentlichsten anzudeuten.
+
+§.
+
+67.
+
+Gott, in Beziehung zu uns gedacht, begründet in uns einerseits die geistige , anderseits die physische Natur.
+
+In der geistigen Natur , oder in der Vernunftnatur, kommen in Betracht ihre verschiedenen Offenbarungsweisen , die ihrem Seyn, Wesen, besondern Gestaltungen und Bewegungen nach erklärt und gedeutet werden müssen.
+
+Dies also wird ein unvermeidliches Problem seyn , und seine Lösung muß die Psychologie bezwecken.
+
+Zweitens kömmt sie als handelnd in Bezug zu andern Wesen ihres Gleichen in Betracht, wo es nicht gleich viel ist , wie sie handelt und denkt , sondern wo sie auf eine ganz bestimmt. gegebene Weise handeln und denken muß, um ihrer eigenen und Anderer Anschauung von der Idee zu genügen.
+
+Zu bestimmen , auf welche
+
+Weise sie zu dem Ende werden handeln und denken müssen , wird ein zweites unvermeidliches Problem seyn, `dessen Lösung die Aufgabe der Ethik ist.
+
+Drittens, die
+
+[p. 67] Vernunftnatur, réin sich selbst überlassen, würde meist jener Aufgabe nicht genügen , aber eine Zeitlang gehörig von Andern geleitet, vermag sie selbige unendlich leichter und sicherer zu lösen.
+
+Zu bestimmen , wie sie zu dem Ende, unbeschadet ihrer Eigenthümlichkeit, gehörig geleitet werden müsse , wird mithin das dritte unvermeidliche Problem seyn , welches die Pädagogik zu Lösen hat. Es leuchtet ein , daß jedes der genannten Probleme wieder eine Menge von andern theils nothwendigen, theils unvermeidlichen, theils willkürlichen in sich schließen wird , die wir aber hier , zur Vermeidung aller unnüßen Weitläuftigkeit , mit Stillschweigen übergehen.
+
+§.
+
+68.
+
+Gott, in Beziehung zur Welt gedacht , begründet
+
+Daseyn, Wesenheit und Zweck derselben.
+
+Sie bietet eine unendliche Menge von Erscheinungen , Dingen und Wesen dar , die entweder Vernunftwesen , oder scheinbar vernunftlose Wesen sind .
+
+Bei jenen ist zu erwägen ihr Daseyn, Wesen und ihr Zweck im Allgemeinen, wie im Einzelnen.
+
+Diese Erwägung dringt sich als erstes unvermeidliches Problem auf, dessen Lösung der Teleologie obliegt.
+
+Bei den scheinbar bloß vernunftlosen Wesen kömmt in Betracht ihr Daseyn , ihr Wesen , ihr Zweck im Allgemeinen , und im Einzelnen.
+
+Diese Erkenntniß zu erwirken , wird das zweite unvermeidliche Problem seyn, dessen Lösung im Allgemeinen Aufgabe für die Kosmologie, im Einzelnen dagegen Aufgabe für die Natur - Philosophie ist. Obschon es nun hier nur zwei ynvermeidliche Probleme giebt , so gilt doch von ihnen, [p. 68] was im vorigen §. zuleht gesagt wurde , in einem nochumfassenderen Grade, und also auch hier dürfen wir uns nicht verlieren. Noch weniger passend kann es seyn, die Behandlung jedes dieser Probleme ausführlich nachzuweisen , wodurch wir alle Gränzen einer Logik überschreiten würden.
+
+Einen Begriff von der Art, wie sich
+
+Probleme behandeln lassen , zu geben , ist die geschichtliche Entwickelung jedes Philosophems , seinem Innern nach, vorzüglich geeignet. Eine solche Entwickelung mag unsere Logik beschließen.
+
+Wir nehmen dazu ein solches
+
+System , welches einen Moment in der Geschichte der Philosophie bildet, und uns am nächsten liegt , nämlich das Spinozistische, und vergleichen es , nicht einseitig zu erscheinen , mit einem andern , das nicht minder ein solches Moment ist, dem Kantischen nämlich. Zuerst die historische Darstellung des Spinozißtischen Systems.
+
+§.
+
+69.
+
+Spinoza lehrte: Gott in Allem , Alles in und aus Gott.
+
+Gott ist die, aus unendlich vielen bestehende, Substanz, die sich in der Welt offenbart, und zwar in zwei von einander verschiedene Hauptoffenbarungsweisen, oder Attributen, nämlich als das denkende und als das ausgedehnte Ding. Diese sind keineswegs wesentlich und wirklich von einander verschieden.
+
+Denn die göttliche Wesenheit ist schlechthin eins und einfach.
+
+Daher sind jene beiden Attribute nur verschiedene Gesichtspunkte, unter denen sich die eine, einfache, unendliche und ewig göttliche Substanz in ihrer Offenbarung betrachten läßt, eine Betrachtungsart, die an der wahren Einheit und Einfachheit der göttlichen
+
+[p. 69] Substanz nichts ändert.
+
+Was jezt unter dem Gesichtspunkte der Ausdehnung betrachtet wird, ist auch zugleich das Denken , wie umgekehrt , was jezt als Denken aufgefaßt wird, auch zugleich das Ausgedehnte ist ; es wird dasselbe jezt in dieser Beziehung , jezt in jener vorzugsweise betrachtet , weil es in seinem Geoffenbarten , der Welt , in zwei Richtungen erscheint , die zunächst in ihrer Einheit nicht erfaßt werden können, zu deren Erklärung mithin es nöthig ist, die göttliche in ihnen erscheinende Substanz von zwei Seiten her zu betrachten, und erst in einer höhern Reflexion vermag man ihre Einheit zu begreifen.
+
+Die Verschiedenheit zwischen jenen beiden Attributen ist nur formell , aber gleichwohl nichts desto weniger nothwendig. Daher können die Dinge und Erscheinungen in der Welt nicht ohne weiteres mit der göttlichen Substanz , sondern nur Bedingungsweise mit ihr in Verbindung gesezt werden, indem sie sich, sofern sie entweder denkende, oder ausgedehnte sind, nicht überhaupt mit der göttlichen Substanz, wiefern sie die ewige, einfache und unendliche ist , sondern nur mit ihr , wie, fern sie jest in ihrer Offenbarung mittelst dieser Dinge und Erscheinungen vorzugsweise, entweder als denkend, oder als ausgedehnt erscheint , verbinden lassen.
+
+Dinge und Erscheinungen sind mithin , wiefern sie den kend sind, als untergeordnete Offenbarungsarten der göttlichen Substanz in ihrer Hauptoffenbarungsart des Denkens , oder als Modificationen zur göttlichen Substanz, als dem denkenden Dinge zu betrachten ; dagegen sie, wofern sie ausgedehnt sind , als untergeordnete Offenbarungsarten der göttlichen
+
+Substanz in ihrer Hauptoffenbarungsart der Ausdehnung , oder als Modificatio-
+
+.70 nen zur göttlichen
+
+Substanz ,
+
+Dinge, erfaßt werden müssen.
+
+als dem ausgedehnten Beide Attribute, als Be zeichnungen für ein und eben dasselbe, können nicht so wohl verschiedene, als vielmehr parallele Richtungen genannt werden , denn das Denken begleitet die Ausdehnung , und diese jenes.
+
+Denken kann nicht ohne Ausdehnung und Ausdehnung nicht ohne Denken seyn.
+
+göttliche Substanz hat eine Anschauung , oder unmittelbare und klare Erkenntniß von sich als Ausdehnung, nicht nur im Allgemeinen , sondern auch im Einzelnen , und diese ihre Anschauung begleitet ihre Offenbarung in dem Ausgedehnten, sey es nun, allgemein genommen, Materie, oder einzeln betrachtet, Körper, nothwendig.
+
+Da nun Alles aus und durch Gott ist, Gott aber rein aus und durch sich selbst , so folgt von selbst, daß Alles be dingt, bedingbar und mithin nothwendig , Gott dagegen schlechthin unbedingt , unbedingbar und also frei ist.
+
+Gott also ist das einzige freie Ding, während alle übrigenzin ihrem Daseyn , wie in ihrem Handeln nothwendig sind. Jedoch ist Gott um deswillen , weil er frei ist, keinesweges als in Willkürlichkeit begriffen zu denken, die vielmehr seiner innersten Natur so entgegenge sezt ist, daß sie selbst den Begriff zerstören würde.
+
+göttliche Substanz ist durch die eigene Vollkommenheit ihrer Natur in ihrem Wollen und Handeln gebunden, so, daß sie auf eine bestimmt gegebene Weise handeln muß.
+
+Aber dies sieht sie auch uranfänglich ein , und will daher nie anders handeln , als sie , ihrer innern J Natureinrichtung gemäß, muß, und so ist sie nicht nothwendig, sondern frei.
+
+Denn nothwendig ist , was ver möge feiner innern Natureinrichtung auf eine bestimmt [p. 71] gegebene Weise handeln muß , jedoch , dies nicht erfennend, nicht wollen kann , was es muß.
+
+Dies ist der
+
+Hauptinhalt der Spinozistischen Lehre.
+
+§.
+
+70.
+
+Welche Aufgabe zu lösen Spinoza sich gesteckt hatte, geht aus dem Gesagten klar hervor , nämlich Daseyn und Wesenheit der Welt , was er aus ihr selbst unmittelbar nicht vermochte, zu erklären , dennoch fühlte er die Nothwendigkeit davon, und wer sie näher betrachtet, wird sie nicht minder fühlen .
+
+Wenn nun die Welt selbst keine Möglichkeit in sich darbietet, jener Nothwendigkeit zu genügen, so bleibt nichts übrig, als Skepsis, øder Idealismus, oder die Richtung, die Spinoza genommen Denn das Gefühl von der innern Ungenüglichkeit der Welt und der Unmöglichkeit, jene in ihr selbst zu heben, ist im Grunde unerträglich , und führt auf uns die Zweifeln. den und Unbefriedigten unvermeidlich zurück , wodurch wir uns entweder befriedigt , oder unbefriedigt finden. Allein diese Befriedigung kann, ihrer Natur nach, keine natürliche, sondern nur eine erkünftelte seyn.
+
+Wir müssen uns , ungeachtet des Zeugnisses unserer Sinne, überredet haben , daß die Welt nichts in sich und also auch keine Erkenntniß von ihr möglich sey, ehe wir uns überzeugen können , daß nur die Erkenntniß von uns selbst Bedeutung haben könne , und eben das Anstellen dieses Versuchs ist die Skepsis.
+
+Finden wir uns dagegen, selbst nach der Rückkehr zu uns selbst , dennoch nicht befriedigt, fühlen wir die Nothwendigkeit, die Erkenntniß von der Welt , als eine gegebene , zu retten, und suchen die Basis dazu, da wir sie nicht in der Welt [p. 72] zu finden vermögen , in uns selbst , so ergibt das Anstellen dieses Versuchs den Idealismus.
+
+Aber wenn nun beide nicht ausreichen , wie sie denn in der That nicht ausreichen , was bleibt dann noch übrig ? Wir wollen sehen.
+
+Es bieten sich hier der kritische , den
+
+Kant einschlug, der realistische, der empirische, der sen sualistische, der rationalistische , der deistische Weg, wie wir den von Spinoza , Schelling und uns in gegenwär tigem Buche gegangenen nennen möchten. Welcher wird der beste seyn ?
+
+Wir wollen das Charakteristische eines jeden herausheben , und es dann der reißlichen Prüfung eines jeden überlassen , welchen er wählen wolle. . §.
+
+71.
+
+Ob man ausreichen werde, ist die Frage, welche der kritische Weg als Problem zu lösen hat.
+
+Diese zu ent scheiden, kann man sich an das Erkannte , oder an das Erkennen selbst wenden. Aber da das Erkannte doch eigentlich ein noch unbekanntes Land ist, so , daß man auf mancherlei Frrwege zu gerathen nicht vermeiden kann, so wird es zweckmäßiger seyn, erst das zu mustern, was näher liegt , und was die Entdeckungsreise unternehmen will , also das Erkennen , oder Denken selbst.
+
+Dies zu bestimmen , wird das eigenthümliche Streben des kritischen Weges seyn , wodurch im voraus sich wird bestimmen lassen , ob , in wie weit und als was sich wird die Welt, noch mehr , was sich überhaupt wird erkennen lassen , was nicht.
+
+Den Umfang des Erkennens also auszumitteln ist es , was der kritische Weg versucht.
+
+Seine Endergebniß ist mithin nur negativer Art, indem es eigentlich Bedingtheit des Erkennens vorausseßt, also [p. 73] immer nur zur Einsicht von der Unvollständigkeit des menschlichen Wissens und Erkennens und von der Noth wendigkeit sich damit zu begnügen führt. Der empirische Weg seht die sinnlich wahrnehmbare Welt unbefangen als objectiv - real in sich voraus ; der realistische thut dies auch , jedoch vom Standpunkt der Reflexion aus. Der sensualistische erklärt den Ursprung der Vorstellungen und Begriffe aus dem unmittelbaren Einwirken der sinnlich - wahrnehmbaren und in sich realen Welt , während der rationalistische ihn aus dieser Einwirkung in Zusammenwirkung mit einer absolut wirkenden innern Entwickelungsnothwendigkeit der denkenden Natur herzuleiten sucht, also ein Vorhandenseyn der Vorstellungen und Begriffe in dem Denkenden ihrer Uranlage, ihrem Keime nach als nothwendig vorausseßt. uun endlich den deistischen betrifft, alle mögliche
+
+Was so geht er über empirische Erfahrung hinaus , indem er
+
+Erklärung des Daseyns und Wesens des All aus einem unsichtbaren Urgrunde der Dinge bezweckt , erkennend, daß jene nicht im All, oder sonst wo gewonnen, noch auch entbehrt werden könne. Aber da der Urgrund in keiner einzigen Erfahrung erscheint , also nicht empirisch erkannt werden kann, so muß er eben , über alle Erfahrung hinausgehend, rein transcendental werden, und eine unmittelbare Uranschauung , die weder des Beweises, noch der Erörterung bedürftig , oder fähig ist , setzen.
+
+So überhebt er sich überhaupt über die Sphäre des Beweises , und nur von Rede seyn.
+
+Erörterung plativ , oder axiomatisch. gabe lösen ?
+
+kann bei ihm die
+
+Daher ist er , seinem Wesen nach , contemWie nun wird er seine Auf-
+
+Dies muß bestimmt werden , damit sich [p. 74] entscheiden lasse, ob und wie Spinoza , die seinige gelöst habe. §.
+
+72.
+
+Daseyn und Wesen des All , sammt Zweck und Grund will er erkennen und erklären durch einen Urgrund.
+
+Einleuchtend ist , daß dazu die Erkenntniß vom
+
+Daseyn eines solchen nicht hinreicht, sondern die Erkennt niß von seiner Wesenheit noch hinzukommen muß. Denn aus dem Umstande , daß das eine ist, kann nicht folgen, daß das andere in seiner bestimmt gegebenen Wesenheit nothwendig aus ihm seyn muß , weil das Daseyn des einen an und für sich keine Beziehung zum Daseyn des Andern hat.
+
+Umgekehrt kann aus dem , was das eine ist, entweder mit Nothwendigkeit , oder doch mit Wahrscheinlichkeit erkannt werden, daß das Andere , was sein Was , oder seine Wesenheit betrifft, aus ihm seyn müsse, da hinsichtlich der Wesenheit eine Bezüglichkeit unter den Dingen gedenkbar ist.
+
+Warum nun aber ein All, und zwar gerade ein so gestaltetes AU, wie es von uns erkannt und begriffen wird , aus dem Urgrunde seyn könne und müsse , das läßt sich nun vollends nicht aus der bloßen Erkenntniß von seinem Daseyn , sondern nur aus der Erkenntniß von seiner Wesenheit erkennen , und diese Erkenntniß ist nicht mittelbar zu construiren, sondern muß als unmittelbar gegeben betrachtet werden. Denn es reicht nicht hin, Daseyn und Wesen des All zu erklären, daß einigermaßen wahrscheinlich gemacht werde, wie die Wesenheit des Urgrundes etwa beschaffen seyn möge , sondern es muß dies unzweifelhaft gewiß seyn, weil sonst der Aufgabe nicht genügt wird.
+
+[p. 75] Denn würde die Erkenntniß vom Wesen des Urgrun» des mittelbar aus dem, was im AU erkannt und begriffen wird , construirt , so würde erstlich das All als schon erkannt und begriffen vorausgefeßt , da aus ihm etwas gar nicht in ihm erscheinendes erkannt und begriffen werden soll , zweitens würde höchst wahrscheinlich , aber nie mit Nothwendigkeit und unzweifelhaft gewiß nachgewiesen werden können , daß des Urgrundes Wesenheit nothwendig die so erkannte und begriffne sey.
+
+Aber eben das All ist nicht genugsam erkannt und begriffen , und diese ungenügliche Erkenntniß soll ergänzt werden , und weil dazu weder das Sinnlich - Wahrnehmbare , noch das Geistig - Erkennbare , also überhaupt nicht die Erfahrung hinreicht, so treibt dies über alle Erfahrung hinaus zu einem in keiner erscheinenden Urgrunde.
+
+Dieser
+
+Urgrund wird mithin sowohl seinem Daseyn , als seinem Wesen nach als unmittelbar erkannt und begriffen gefeßt, so daß also die Erkenntniß von seinem Daseyn und Wesen unzweifelhaft gewiß ist.
+
+Es ist jedoch nicht genug , daß der Philosophirende selbst die Erkenntniß habe ; er soll sie auch Andern wiedergeben.
+
+Dazu ist eine Auseinanfehung , Entwickelung nöthig , die nur in Worten und
+
+Begriffen gegeben werden kann.
+
+Er muß also feine reine unmittelbare Uranschauung mittelbar machen, und gleichsam in Begriffe und Gedanken überseßen , das ist eben erörtern.
+
+Wo fängt nun das Erörtern an, und was soll es leisten ? §.
+
+73.
+
+Da, wie bereits bemerkt ist , und auch von selbst erhellt , durch die bloße Erkenntniß vom Daseyn nichts [p. 76] erkannt und begriffen wird , außer , daß Etwas ist , so kann von dieser Erkenntniß nicht die Erörterung anfangen , da sie auch in sich selbst derselben nicht bedarf, indem sie so einfach und klar ist, daß sie , blos ausgesprochen , Jedem verständlich seyn muß. Sie ist eine reine unmittelbare Urthatsache des Erkennens , und kann als solche ausgesprochen werden. Dagegen soll und kann das Aul, seinem Daseyn und seiner bestimmt gegebenen Wesenheit nach , aus der Wesenheit des Urgrundes erkannt und begriffen werden , und mithin wird die Erörterung von der Erkenntniß dieser Wesenheit anfangen müssen , und diese Erkenntniß selbst ist keinesweges so einfach und klar , daß sie , blos ausgesprochen , schon verständlich wäre , sondern bedarf einer mannichfachen nähern Bestimmung , folglich wird sie selbst in den Kreis der Erörterungen hineingehören, obschon sie, ihrem wesentlichsten Inhalte nach , ebenfalls eine reine und unmittelbare Urthatsache des Erkennens' ist.
+
+Was nun die Aufgabe. anlangt , welche die Erörterung zu lösen hat, so wird sie darin bestehen , aus der Natur der von der göttlichen Wesenheit aufgestellten Erkenntniß · mit Nothwendigkeit nachzuweisen , daß ein All , und zwar gerade ein solches All, wie wir es geistig und sinnlich aus ihr hervorgehen müsse , und diese Aufgabe wird sie nur lösen können , wenn sie die Urerkennt niß in einem richtigen Begriff wiederzugeben vermag. Aber sie kann nicht vermeiden , die Uranschauung , oder Idee in Begriffe zu übersehen , und also , da die Idee Erkenntniß vom Objectiv - Realen , der Begriff Erkennt niß vom Subjectiv- Realen ist , Objectiv aus dem Gebiete des
+
+Realen in das Gebiet des Subjectiv - Reale n [p. 77] hineinzuschreiten , daß jenem zwar ähnlich , aber nie. gleich seyn wird, also in sich nicht vollständig ist , sondern zu seiner Vervollständigung jenes wesentlich bedarf. Wird die Erörterung ganz weggelassen , so fehlt die Methode , und die Aufgabe , seine Anschauung auch zur deutlichen Anschauung eines Andern zu machen , ist nicht gelöst, noch kann sie je gelöst werden. der Fall mit Spinoza.
+
+Dies ist nun
+
+Er hat nirgends , selbst da, wo es nothwendig ist, erörtert, sondern seine Anschauungen rein dogmatisch, oder axiomatisch, als reine unmittelbare Urthatsachen des Erkennens ausgesprochen ; es fehlt ihm mithin alle Methode , und die kurz zuvor erwähnte Aufgabe ist nicht gelöst , noch konnte sie gelöst
+
+Dies wäre inzwischen nur ein formeller Mangel, da die Methode selbst nur etwas Formelles ist. Aber das System hat auch einen reellen Mangel , der aus dem unvollständig und unrichtig aufgestellten Begriff von der Wesenheit der göttlichen Substanz entspringt.
+
+§.
+
+74.
+
+Der von Spinoza aufgestellte Begriff erkennt zwar die göttliche Substanz als eins , einig , einfach und unendlich , die sich im All offenbart , und auch eins, einig und einfach bleibt , ungeachtet sie sich als das Denkende und als das Ausgedehnte offenbart , welche zwei Hauptoffenbarungsarten nur Bezeichnungen für ein und eben dasselbe, nur von verschiedenen Seiten aus und unter verschiedenen Gesichtspuncten gesehen sind , und sich daher überall , wie zwei Parallellinien , nothwendig einander begleiten , so , daß das Denken nothwendig zur Ausdehnung , und diese zu jenem gehört.
+
+Gleichwohl
+
+[p. 78] 1.
+
+können die Dinge und Wesen nicht unbedingt aus und durch Gott , sondern nur bedingt aus und durch ihn begründet werden , indem sie, wiefern sie denkend sind, nicht aus Gott dem Ausgedehnten, und wiefern sie ausgedehnt sind , nicht aus Gott dem Denken hergeleitet, sondern in diesem Falle nur aus der göttlichen Substanz, wiefern sie Ausdehnung ist, in jenem nur aus ihr , wiefern sie Denken ist , erklärt werden können.
+
+Begriff ist nun theils unvollständig ,
+
+Dieser theils unrichtig.
+
+Unvollständig , wiefern nicht genugsam erklärt und begreiflich gemacht wird , wie die eine , einige und einfache göttliche Substanz , unbeschadet ihrer Einheit und Einfachheit, wenn auch nur in formeller Hinsicht, als geschieden in zwei Hauptoffenbarungsarten erfaßt werden könne ; unrichtig, wiefern die göttliche Substanz nur als eins , einig und einfach dargestellt wird.
+
+Denn wenngleich die beiden Attribute des Denkens und der Ausdehnung im Standpuncte der höheren Reflexion in Eins zusammenfallen , so erscheint doch diese Einheit in ihrer Offenbarung nicht , sondern stets als Zweiheit, die zwar wesentlich und nothwendig zusammengehören , also Eins ausmachen, aber darum noch keine Einheit sind.
+
+Denken gehört zwar in der Wesenheit der Dinge und Wesen nothwendig zur Ausdehnung , wie diese in ihrer Wesenheit nothwendig zu jenem gehört, allein ihr Denken ist nicht zugleich Ausdehnung , oder Materie , noch ist ihre Ausdehnung zugleich Denken.
+
+Sie sind also, ihrem Wesen nach , keine reine Einheit , oder vielmehr Einerleiigkeit, sondern nur eine aus zweien, in sich von einander verschiedenen, wo nicht Wesen, doch zum wenigsten Merkmalen , oder Eigenschaften, die nur nothwendig [p. 79] zusammengehören , zusammengesezte Einheit.
+
+Ist nun die göttliche Substanz reine Einheit, oder Einerleiigkeit, so kann sie solche nur zur Einheit verbundene Wesen nicht aus sich , ohne sich selbst aufzuheben , was doch unmöglich ist, begründen :
+
+ist sie aber selbst ein solches
+
+Wesen, in welchem zwei verschiedene nur zur Einheit verbunden sind , so ist sie nicht mehr allein der Urgrund, sondern zwei in ihr sind der Urgrund , wovon das eine gleichsam das denkende All , das andere das ausgedehnte begründet , welches inzwischen ungereimt ist.
+
+Denn die beiden Merkmale sollen sich einander nothwendig begleiten, also bedingen , und in Beziehung zu einander stehen. Sie müssen sich also auch in der göttlichen Substanz einander nothwendig begleiten , mithin bedingen, und in Beziehung zu einander stehen. einander nicht,
+
+Denn begleiteten sie bedingten sie also nicht einander , und bezögen sich nicht aufeinander, so könnte ja keines Etwas aus sich darstellen und begründen , zu dessen Wesenheit eine Eigenschaft, die es nicht in sich hat , nothwendig gehörte, sondern jedes könnte nur das seiner Natur Gemäße , also das Denken , nur das Denken und die
+
+Ausdehnung lediglich das Ausgedehnte , sich begründen.
+
+aus und durch
+
+Somit wäre also das Denkende Grundursache des Denkens , oder die Ausdehnung Grundursache des Ausgedehnten , also gäbe es in Einem zwei von einander unbedingte und unbedingbare Grundursachen, was unmöglich ist.
+
+Denn abgesehen von allen übrigen Gründen , die sich in der Folge entwickeln werden , geht es schon an und für sich aus dem Begriff des Unbedingten und Unbedingbaren als unmöglich hervor, daß zwei rein Unbedingte und Unbedingbare in Einem [p. 80] zusammen bestehen , welches wesentlich Bezüglichkeit, und somit Bedingtheit und Bedingbarkeit vorausseßt.
+
+Sie können also nur außer und neben einander bestehen, was aber einerseits den Spinozistischen Begriff zerstört , anderseits noch größere Ungereimtheiten mit sich führt, deren vollständige
+
+Entwickelung nicht hierher gehört.
+
+Nur das wollen wir bemerken , daß sodann jede ihre eigene Alheit für sich begründen , und mithin zwei
+
+Auheiten neben einander bestehen würden , welches eben so unmöglich , als ungereimt ist , da schon eine Alheit, wie das Wort allein zeigt , alles nur irgend mögliche
+
+Daseyn in sich darstellen muß , neben welcher also unmöglich eine zweite , ebenfalls alles nur irgend mögliche Daseyn in sich Darstellende bestehen kann.
+
+Sollen sich nun die beiden Eigenschaften des Denkens und der Ausdehnung gegenseitig bedingen , so reicht nicht hin, sie bloß zusammen , oder eins sind , sondern sie müssen ineinander, oder einerleiig seyn.
+
+Denn sind sie blos eins , oder zusammen, so bleiben sie immer zwei von einander verschiedene , und es ist nicht einzusehen , wie sie einander bedingen sollen. Wenngleich das Ineinander , die Einerleiigkeit von
+
+Spinoza eigentlich mag gemeint gewesen seyn, so ist es doch keinesweges in dem von ihm aufgestellten Begriff enthalten , und dieser ist mithin unvollständig und irrig , und also ist auch die Hauptaufgabe, Daseyn und Wesen des AU aus der Natur des Urgrundes genüglich zu erklären , keinesweges befriedigend gelöst, noch konnte sie so gelöst werden.
+
+Es muß mithin ein anderer Begriff von der göttlichen Wesenheit aufgestellt werden , in dem jedoch die Andeutung von der Möglichkeit, die beiden im
+
+[p. 81] All thatfachlich erscheinenden Merkmale des Denkens und der Ausdehnung genüglich zu begründen , ein wesentlicher Bestandtheil bleiben muß. §.
+
+75.
+
+Ein anderer wesentlicher Fehlgriff , den Spinoza selbst von seinem Standpunkte aus beging, war die Aufstellung des absoluten Fatalismus , indem die göttliche Substanz allein für frei , alles andere für nothwendig, erklärt ward.
+
+Denn Denken und Ausdehnung begleiten fa überall einander , bedingen sich also gegenseitig . Das durch wird das Denken , wie die Ausdehnung mit dem, was aus ihnen hervorgeht, modificirt.
+
+Aus dem Denken schlechthin geht die absolute Freiheit , aus der bloßen
+
+Ausdehnung die absolute Nothwendigkeit hervor. aber jenes mit seiner Dependenz von dieser , und diese mit ihrer Dependenz von jenem modificirt wird , doch nothwendig ist, wenn sich beide überall nothwendig einander begleiten , also bedingen, so kann offenbar allerdings die absolute Freiheit nicht bleiben , sondern muß nothwendig eine Beimischung von Nothwendigkeit annehmen , wie umgekehrt die absolute Nothwendigkeit gleich. ' falls nirgends fortbestehen kann, sondern eine Beimischung von Freiheit annehmen muß.
+
+Indem´also alle Dinge, mit Ausnahme der göttlichen Substanz , als rein nothwendig gesezt werden , wird stillschweigend in dieser eine Nicht- Modification des Denkens von Seiten der Ausdehnung , in jener eine Nicht- Modification der Ausdehnung von Seiten des Denkens angenommen , und dadurch die Anschauung , daß sich beide Merkmale überall nothwendig einander begleiten , also bedingen , vernichtet, [p. 82] wodurch zugleich die Ungereimtheit von zweien absolut von einander unbedingten und unbedingbaren Grundursachen der Dinge entstehen muß.
+
+Soll diese vermieden werden , so ist die Anschauung , daß sich beide Merkmale überall nothwendig einander begleiten , also bedingen , nothwendig unvermeidlich.
+
+Begleiten und bedingen sich aber beide gegenseitig , so muß sich auch das , was aus ihnen hervorgeht , einander gegenseitig begleiten und bedingen.
+
+Also kann nirgends , selbst in der göttlichen Substanz nicht, absolute Freiheit, aber auch nirgends absolute
+
+Nothwendigkeit
+
+Statt finden, und somit fällt die darauf gegründete Anschauung vom Endlich ist Fatalismus als falsch und verfehlt weg. noch zu bemerken , daß Spinoza seine Anschauung vom Wesen der göttlichen Substanz als nothwendig vollkommen , gleich ihrem Inhalte seßt , während man sie eigentlich demselben nur als ähnlich setzen kann , welches auch vollkommen zur Lösung der
+
+Aufgabe hinreicht.
+
+Denn die Aufgabe ist nicht zu erkennen und zu erklären, wie die Begründung des Daseyns und Wesens des All durch den Urgrund für die Anschauung des Urgrundes selbst sich verhalten möge, was doch unmöglich ist , zu erkennen und zu begreifen , sondern wie Daseyn und
+
+Wesenheit des All aus einem Urgrunde für uns , als thatfachlich Bedingte, erklärlich und begreiflich sey. Dazu bedarf es einer Erkenntniß von der Wesenheit Gottes ; aber es ist theils unmöglich , theils unnöthig , zur Erkenntniß vorzudringen , ob jene Wesenheit Gottes unserer Anschauung davon in der Wirklichkeit ganz gleiche, wogegen es nicht blos nothwendig , sondern möglich ist, die Erkenntniß zu fassen , daß sie in der Wirklichkeit [p. 83] einigermaßen mit unserer Anschauung von ihr übereinstimmen werde , daß also unsere Anschauung zwar sie 'nicht selbst , aber doch ein Abbild von ihr wiedergeben
+
+Spinoza traf also zwar im Allgemeinen die zu lösende Aufgabe , und den Weg , auf dem sie gelöst werden kann , jedoch im Wesentlichen verfehlte er diese Lösung , und mußte sie verfehlen.
+
+Sehen wir nun, wie es Kant mit der seinigen gelungen ist.
+
+§.
+
+76.
+
+Kant lehrte : Das menschliche Erkenntnißvermögen ist in seinem Erkennen nothwendig an zwei Urformen gebunden , wovon die eine , wiefern es nach Außen geht, der Raum , die andere , wiefern es selbst Object seines
+
+Erkennens ist, die Zeit ist , und es kann gar nicht abgesehen davon, sondern nur in ihnen und durch sie erkennen und begreifen , ist also dadurch wesentlich bedingt. Das Sinnlich - Wahrnehmbare kann es nur räumlich und sich selbst nebst allen Erscheinungen blos zeitlich, erfassen. Es sind aber Raum und Zeit nicht bloße Grundbedingungen des menschlichen Erkennens , sondern Urformen desselben , d. i. als Anschauungen , ihrem Keime , ihrer Uranlage nach , im Erkenntnißvermögen , in dem sie sogleich bei Erscheinung der auf sie Bezug habenden Gegenstände hervortreten , und so gleichsam die Behälter werden, in welchen sich jene zu einem für uns erkennbaren Ganzen ordnen.
+
+So würde das Erkenntnißvermögen das Sinnlich - Wahrnehmbare gar nicht erkennen können , wofern es nicht in sich in seiner Uranschauung des Raumes das Gesetz und die Regel hätte , nach welchem sich jenes als Reihe , als außer und neben einander [p. 84] bestimmen müßte.
+
+Anderseits würde es sich selbst zu erkennen , nicht im Stande seyn , wofern es nicht in sich, in seiner Uranschauung der Zeit das Gesez und die Regel befäße, nach welchem sein eigentlicher wahrer Kern sich als Reihe von Hinter- und Nebeneinander nothwendig bestimmt fände , wiewohl auch umgekehrt das Erscheinen jener Gegenstände das Hervortreten der Urformen , in welchen ein Erkennen als möglich gegeben ist, allererst möglich und nothwendig macht.
+
+Also die
+
+Urformen im Erkennen bestimmen die unabhängig von ihnen seyenden Dinge als erkennbare Gegenstände , während diese jene Urformen hinsichtlich ihres. Anfangs bedingen.
+
+Sofern nun die Dinge unabhängig von jenen
+
+Urformen für sich sind , haben sie ein blos intelligibles
+
+Substrat, d. i. eine Beschaffenheit , oder Wesenheit , die gar nicht vom menschlichen Erkenntnißvermögen erfaßt werden kann , von der es also nichts auszusagen vermag, eben so wenig , wie es davon etwas negiren kann , weil es ganz außer der Sphäre seines Wissens und Erkennens fällt ; sofern sie dagegen in Beziehungen zu jenen
+
+Urformen , und durch diese etwas sind , hat das menschliche Erkenntnißvermögen offenbar nicht Wesen , sondern nur Erscheinungen.
+
+Denn Wesen sind rein beziehungslos und abgesehen von aller Bedingung ; was dagegen bezüglich und bedingungsweise erfaßt wird , ist nur Erscheinung.
+
+Nun erfaßt das menschliche Erkenntnißvermögen Alles nothwendig bezüglich und bedingt , somit hat es nur Erscheinungen.
+
+Was diese an und für sich seyn mögen , kann es weder erkennen , noch bestimmen, so wenig , wie es in Abrede stellen kann , daß sie etwas für sich seyn mögen.
+
+Denn da dieß ganz außer [p. 85] dem Kreise eines ihr möglichen Erkennens liegt, so kann sie darüber weder etwas behaupten , noch verneinen. Ja, es mag auch Wesen geben , die diese unbedingte und unbedingbare Wesenheit der Dinge als solche erfassen mögen , nur kann sich das menschliche Erkenntnißvermögen nicht den mindesten Begriff von ihnen machen. Uebrigens leuchtet ein , daß diese Wesen , sofern eine solche Erkenntniß für sie möglich seyn soll , nicht an die beiden Urformen von Zeit und Naum können , gebunden seyn also außerräumlich und außerzeitlich erkennen
+
+Wiefern nun die Dinge Wesen seyn mögen, sind sie noumena , wiefern sie können sie phaenomena heißen.
+
+Erscheinungen sind, Das menschliche Erkenntnißvermögen kann also weder im Sinnlich - Wahrnehmbaren , noch im Geistig - Erkennbaren das Noumen, sondern nur das Phänomen erkennen , damit bescheiden. stehlichen Drang und muß sich
+
+Gleichwohl hat es einen unwiderin sich , über diese Sphäre hinauszuschreiten , den es zu befriedigen hofft , und von dem es sich daher fortreißen läßt in ein Gebiet, das jenseits aller Möglichkeit einer Erkenntniß von feiner Seite liegt, wo es schlechthin weder wissen, oder erkennen , noch begreifen , sondern höchstens vermuthen und ahnen kann. So lange es dies erkennt , bleibt der Versuch , den es macht, in das Transscendentale zu dringen , unschädlich ; sobald es aber die Gränze verkennt , geräth es in das Gebiet der Sophismen , und wiefern jener Drang zur Verkennung seiner natürlichen Gränzen führt , wird er ein dialectischer Schein.
+
+Selbst das Daseyn
+
+Gottes ist für den theoretischen Gebrauch des Erfenutnißvermögens , oder der Vernunft nur problematisch, [p. 86] und feinesweges erkennbar , und also nicht zu erweisen, noch zu läugnen ; es gehört in das Feld des
+
+Möglichen und Gedenkbaren.
+
+Für blos ihren practischen
+
+Gebrauch dagegen bleibt das Daseyn eines absolut Ersten und unendlich Vollkommenen ein schlechthin nothwendiges Bedürfniß, so, daß das System ihrer Erkenntnisse nur unter Voraussetzung eines solchen vollständig zu nennen ist.
+
+§.
+
+77.
+
+Daß Kant auf dem kritischen Wege ging , ist schon bemerkt worden , der , wie gleichfalls bereits erinnert ist, die Aufgabe zu lösen hat , den Umfang des menschlichen Erkennens zu bestimmen.
+
+Es dringt sich daher von selbst die Frage auf, ob und wie diese Aufgabe gelöst werden könne , und was dabei der Gewinn seyn wird , wornach sich von selbst die andere beantworten wird : ob und wie Kant sie gelöst , und was er auf diesem Wege erreicht habe ?
+
+Zunächst ist zu bemerken , daß die Skepsis die
+
+Mutter , und der Idealismus die Tochter der kritischen Methode ist.
+
+Denn zur Entstehung des Gedankens, den Umfang des Erkennens - bestimmen zu wollen , kann ja nur der Zweifel an die Fähigkeit desselben, Alles unbedingt zu erkennen , also Skepsis im weitesten Sinne, führen.
+
+Aber dieser Zweifel erstreckt sich nicht blos auf die Fähigkeit des Object, das
+
+Erkennens , sondern auch auf ihr
+
+Geistig - Erkennbare ,
+
+Wahrnehmbare.
+
+wie das Sinnlich -
+
+Denn dem ganzen Versuche liegt offen bar die Frage zum Grunde : ist auch das , was erkannt wird , das , was es zu seyn scheint ? und : kann in dem Erkannten das , was es an und für sich seyn mag, erkannt werden ? Kann es also eigentlich Geltung für [p. 87] uns haben ?
+
+Es kann nicht fehlen , die nähere Erörterung des Gegenstandes führt zunächst zu einer verneinenden Antwort , und da diese dem innersten Gefühle unerträglich ist, so wird doch eine Möglichkeit aufgesucht, für jene eine bedingte Gültigkeit , für uns und durch uns , zu gewinnen , wodurch eben dieser Weg unvermeidlich idealistisch wird.
+
+Jedoch kann er , seiner
+
+Natur nach , weder rein skeptisch , noch rein idealistisch werden, die beide etwas Positives sind , während er rein negativ ist ; und schon um deswillen ist er in sich unvollständig .
+
+Aber , auch abgesehen davon , kann er seine
+
+Aufgabe auf keine Weise befriedigend lösen. Denn eigentlich ist die Kritik des Erkenntnißvermögens nicht unmittelbar Zweck , zum Zweck.
+
+sondern nur Mittel
+
+Der eigentliche Zweck ist : die Welt und sich selbst zu erkennen.
+
+Um jedoch hierbei nicht aufs
+
+Geradewohl hin zu verfahren , soll im Voraus bestimmt werden , was als nicht erkennbar außer der Sphäre der Untersuchung bleiben muß , und was dagegen als erkenn bar in den Kreis der Untersuchung hineingezogen werden.
+
+Natürlich läßt sich dies nicht bestimmen , bevor nicht die Erkenntnißfähigkeit ausgemessen ist , welche
+
+Ausmessung als Regulativ bei Unterscheidung zwischen Erkennbar und Nicht- Erkennbar dienen.
+
+Hierbei wird also von Anfang an die menschliche Erkenntnißfähigkeit als bedingt und als begränzt gefeßt ,
+
+Gränze noch nicht genau bekannt ist, und genau bestimmt werden muß.
+
+nur daß diese also aufgefunden
+
+Die Auffindung dieser
+
+Gränze muß vom Erkennen selbst vorgenommen werden, und es muß zur Anschauung gelangen können , daß die gefundene Gränze nicht blos eine relative , sondern eine rein absolute sey , so daß sie auf keine Weise erweitert, oder überschritten werden könne , und eine solche ist nicht zu finden .
+
+Denn absolute Gränze wäre nur die , die selbst im Standpuncte der höchsten Anschauung , oder Idee nicht verschwände , noch beseitigt werden könnte ; allein es muß einleuchten , daß es keine Beschränkung geben kann , die nicht von jenem Standpuncte aus verschwindet , oder zu beseitigen ist.
+
+Dadurch wird die
+
+Sphäre des Wissens und Erkennens über das Unendliche ausgedehnt.
+
+Alles , was der kritische Weg zu erreichen vermag, ist Nachweisung der thatsächlich in uns vorhandenen relativen Gränze ; aber ist damit seine Hauptaufgabe gelöst ? Keinesweges , denn nun fällt der Unterschied zwischen Erkennbar und Nicht - Erkennbar, zwischen Noumen und Phänomen , von dem er einen so wichtigen Gebrauch zu machen gedachte , weg , und es tritt dagegen der Unterschied zwischen objectiv und sujectivreal an die Stelle , welches kein bloßer Wort-, sondern ein wichtiger Sachenunterschied ist. unendlich viel darauf,
+
+Denn es beruht worin man die Beschränktheit der menschlichen Erkenntnißfähigkeit setzt , ob man sie als absolut , oder nur als relativ betrachtet.
+
+gezeigt worden ,
+
+Es ist daß der kritische Weg , seine Aufgabe zu lösen , eine absolute Gränze , also eine im Wesen der Vernunftnatur, als solcher, begründete nachweisen müßte, welches er inzwischen nicht vermag , auch wenn wir ihm zugeben , was jedoch nicht der Fall ist , daß die beiden.
+
+Anschauungsweisen von Raum und Zeit , an welche die Vernunftnatur in ihrem Erfassen der Dinge allerdings unvermeidlich gebunden ist , Urformen in der Vernunftnatur seyen.
+
+Denn im Staudpuncte der Idee werden [p. 89] sich diese immer , wo nicht als aufgehoben , doch als beseitigt denken lassen , welches , sofern sie eine absolute Gränze bilden sollten , unmöglich seyn müßte.
+
+Kann er also nur eine relative Gränze nachweisen , so fällt der Unterschied zwischen Dingen an sich, oder Wesen und
+
+Erscheinungen , den er zugeben muß , obschon ihn weder der reine Skeptiker , noch der Idealist zugeben kann, noch wird , weg , und es tritt dagegen blos ein Unterschied zwischen dem , was sich vom
+
+Standpunkte der
+
+Anschauung, und dem, was sich vom gewöhnlichen Standpunkte des Erkennens erfassen läßt, an die Stelle, wodurch Wesen nicht blos als ein möglicher, jedoch keinesweges erkennbarer Gegenstand, wie dort, sondern als ein unzweifelhaft gewisser, und zugleich erkennbarer gesezt werden, nur daß sie zu erkennen nöthig ist, den gewöhnlichen Standpunkt des Erkennens mittelst einer besondern Anstrengung zu verlassen , und zum Standpunkte der
+
+Anschauung überzugehen ; wiefern jedoch jener unvermeid. lich ist , hat das in ihm Erkannte eine bedingte Gültigkeit, während das in diesem Erkannte von unbedingter Gültigkeit ist, und diesen Unterschied anzudeuten, dienen die Kunstausdrücke subjectiv - real , objectiv - real. Man sieht , dies gewährt eine ganz andere Ansicht, wie die auf dem kritischen Wege gewonnen ist , bei der man sich auf keine Weise beruhigen kann, sondern von wo aus man schlechterdings entweder zur Skepsis, oder zum Jdealismus, oder zur Anschauungsphilosophie übergehen muß.
+
+§.
+
+78.
+
+Was nun Kant insbesondere betrifft , so hat er durch Sehung des dialectischen Scheins schon stillschweigend [p. 90] die im Erkenntnißvermögen gezogene Gränze als eine blos relative, die Vernunftnatur keinesweges schlechthin bedingende, anerkannt.
+
+Denn wäre die Gränze eine absolute, so würde die Vernunftnatur sie auf keine Weise überschreiten dürfen , noch können , selbst wenn sie den
+
+Drang dazu in sich fühlte.
+
+Aber der Kantischen Anschauung gemäß kann sie dieselbe nicht nur überschreiten, sondern darf sie auch überschreiten , wofern sie nur nicht vergißt, daß sie sie überschritten hat , und das Gebiet, was jenseits liegt , ist, seinem Umfange nach, unendlich. Hier ist also zwar der Umfang des Erkennens und Wissens , nicht aber der des Ahnens und Vermuthens , welches doch auch eine Art von Erkennen und Wissen ist, bestimmt , und doch ist dies nothwendig , wofern die menschliche Erkenntnißfähigkeit ausgemessen werden soll. Zweitens ist nicht einzusehen , wie die Urformen von
+
+Raum und Zeit , als ein rein Geistiges, die Kraft besißen sollen, das rein Aeußerliche des Sinnlich - Wahrnehmbaren, als ein erkennbares Ding , zu bestimmen und zu ordnen , und umgekehrt , wie dies rein Aeußerliche, jenes rein Innerliche, hinsichtlich seines Hervortretens, zu be stimmen vermag , was gleichwohl nach Kants Ansicht der Fall ist, es müßte denn dieses, wie jenes, eine transscente Kraft befizen , was unmöglich ist.
+
+Den eigentlichen Todeskeim trägt das System in der Anschauung von den beiden Anschauungsweisen von Raum und Zeit, als Urformen des menschlichen Erkenntnißvermögens, in sich, wodurch der von ihm gemachte Unterschied, zwischen Noumenen und Phänomenen eine reine Folgewidrigkeit, und zugleich unmöglich wird , obschon das System Es kann ihn als kritisch ihn nicht vermeiden fann.
+
+[p. 91] nicht vermeiden , da das Daseyn von unbedingten und unbedingbaren Wesen, als in das Gebiet des blos Möglichen und Denkbaren gehörig , weder behauptet , noch geläugnet werden kann , indem es ganz außer der Sphäre eines für uns möglichen Erkennens ,
+
+Begreifens liegt.
+
+Aus demselben Grunde kann nicht in Abrede gestellt werden , daß es auch Wesen geben mag , die rein unbedingt und unbedingbar , also außerräumlich und außerzeitlich erkennen.
+
+Was noch mehr ist , das Daseyn von solchen unbedingten und unbedingbaren Wesen muß nicht blos als möglich., sondern selbst als nothwendig zugegeben werden.
+
+Denn die beiden Urformen von Raum und Zeit würden gar nicht erschienen seyn , wofern nicht Etwas , abgesehen von ihnen , existirte, das sie zur Erscheinung bringen könnte , ' und gebracht hätte.
+
+nichts desto weniger ist es auch zugleich eine Folgewidrigkeit.
+
+Denn sind Naum und Zeit Urformen des menschlichen Erkenntnißvermögens , also in dessen Natur begründet , so kann es nicht blos nicht selbst nicht außerzeitlich und außerräumlich noch begreifen, sondern es wird sich auch nichts als außerzeitlich und außerräumlich seyend , oder erkennend und begreifend sich gedenken können , weil es seiner ganzen Natur nach in Raum und Zeit befangen ist , also beide Begriffe nicht einmal einstweilig beseitigen kann.
+
+Hat es gleichwohl den Begriff von einem außerzeitlichen und außerräumlichen Daseyn ,
+
+Erkennen und Begreifen , auch nur als möglich , so zeigt sich, daß es jene beiden Begriffe einstweilen beseitigen kann , daß sie es also nicht schlechthin nothwendig bedingen, folglich nicht an und für sich in seinem Wesen begründet, oder nicht Urformen desselben, [p. 92] mithin auch nicht absolute Gränze für dasselbe seyn konnten.
+
+Also jene beiden Begriffe von Naum und Zeit waren entweder Urformen des Denkens , nicht.
+
+Waren sie es , wie Kant es seßte , so konnte kein Unterschied zwischen Noumen und Phänomen gemacht werden , indem von diesem Gesichtspunkte aus Alles nothwendig ein bloßes Phänomen wird.
+
+Dadurch fällt jedoch der Unterschied zwischen Erkennbar und Nicht-
+
+1 Erkennbar, Wirklich und blos Möglich, weg , und der Kriticismus , der diese seiner Natur nach setzen muß, wird reiner Idealismus .
+
+Waren sie es nicht , so kann jener Unterschied wieder nicht gelten , und Alles wird als Erkennbar, oder Nicht- Erkennbar gefeßt , wodurch in jenem Falle der Kriticismus Nealismus , in diesem
+
+Skepsis wird.
+
+Indem also Kant die Beschränktheit des menschlichen
+
+Erkenntnißvermögens in die beiden
+
+Anschauungsweisen von Raum und Zeit seßte , mußte er nothwendig nicht nur seine Hauptaufgabe verfehlen, sondern auch selbst sein System von Anfang herein zer knicken , so daß ein unvermeidlicher Fortschritt von ihm aus gegeben war. §.
+
+79.
+
+Wenn wir daher Kant mit Spinoza vergleichen, so muß einleuchten , daß dieser sich wenigstens auf einem Wege befand , wo sich die große Hauptaufgabe der Philosophie , Gott und die Welt zu erkennen , zu lösen hoffen läßt , und daß er die Lösung derselben im Augemeinen traf, wenngleich er sie im Wesentlichen verfehlte ; jener dagegen auf einem Wege war , wo sich die Lösung gar nicht erwarten läßt , und selbst das zu Lösende nicht [p. 93] einmal im Allgemeinen traf.
+
+Daher ist auch nicht zu verwundern, daß Spinoza unendlich folgerechter und innerlich fester dasteht, wie Kant,´weshalb auch bei jenem nur eine Ergänzung , bei diesem aber eine völlige Umbildung nöthig ist.
+
+Gleichwohl war Kants Versuch ein nothwendiges Moment in der Philosophie ; denn die Lösung der Hauptaufgabe muß auf alle mögliche Weise versucht seyn , und diese war früher noch nicht versucht , mußte also versucht werden , und ist nun durch Kants Versuch erschöpft worden.
+
+Denn er kann auf keine andere
+
+Weise, als auf die von Kant gemachte , versucht werDagegen ist die Weise , welche Spinoza verden.
+
+sucht hat , noch keinesweges durch seinen Versuch erschöpft , sondern es sind da noch unendlich viele Weisen möglich.Das Gesagte kann hinreichen , einen Begriff zu geben , von philosophischen Problemen und deren Behand lungsart , und somit können wir , unsere vorbereitenden Untersuchungen beendigend , zur Hauptsache selbst über. gehen.
+
+§.
+
+80.
+
+Urgrund anschauung des geistigen Erkennens ist der Sat : Gott ist. Zu zeigen ist , daß dieser Saß, als eine Urthatsache des Erkennens unmittelbar gegeben, unzweifelhaft gewiß ist, folglich schlechthin keiner Erörterung weder fähig, noch bedürftig ist.
+
+Dies wird unmittelbar gezeigt seyn, [p. 94] wenn dargethan ist , daß ohne die von uns vorausgesetzte ursprüngliche und unmittelbare Urerkenntniß, ein Philosophiren ganz unmöglich wird , und daß sich diese als deutliche Erkenntniß unmittelbar zugleich auf das Daseyn Gottes nothwendig bezieht.
+
+Obschon nun der. Um stand, daß die meisten und ausgezeichnetesten Denker das
+
+" Vorhandenseyn eines solchen ursprünglichen und unmittelbar gegebenen , nur nicht durchweg entwickelten Urerkennens , oder Ahnens , ausdrücklich , oder stillschweigend als unzweifelhaft gewiß vorausseßen , nichts entscheidet , so spricht er doch sehr günstig für diese Vorausseßung.
+
+Dies wäre jedoch offenbar nur ein äußer licher Rechtfertigungsgrund , bei dem man sich unmöglich befriedigen kann , und es muß folglich noch einen andern innerlichen Rechtfertigungsgrund für sie geben , durch den ihre innerliche Nothwendigkeit in der Natur der Wissenschaft nachgewiesen wird.
+
+Nun ergibt sich aus der Natur der Wissenschaft der Philosophie mit Nothwendigkeit der Zweck , die Wahrheit an sich, in Hinsicht der höchsten und wichtigsten menschlichen Angelegenheiten, aufzufinden , deutliche Erkenntniß von der objectiv realen Natur Gottes und seines Verhältnisses zur Welt , und zu den Menschen zu erlangen , und dieser Zweck ist entweder erreichbar , oder ist es nicht.
+
+Ist er es nicht, so fällt die ganze Wissenschaft , da sie, ihrer Natur nach , keinen andern Zweck haben kann , unmöglich in sich zusammen , und wäre 'sodann als bloße Gymnastik des Geistes zu betrachten. welche die Transscendental
+
+Empiriker , für
+
+Philosophie ihre Untersuchungen überhaupt nicht anstellt , mögen sie so ansehen : der Philosoph wird sie nie in diesem Lichte betrachten, [p. 95] und daher im Voraus unbedingt zugeben , daß sie ihren Zweck irgend einmal erreichen könne.
+
+Kann sie ihn erreichen , so muß das Erkennen , wiefern es keine ursprünglich und unmittelbar gegebene Urerkenntniß vom Daseyn Gottes befäße , diese Erkenntniß mittelbar erlangen können , sey es vermögë seiner eigenthümlichen innern Entwickelungsnothwendigkeit , oder in Gemäßheit dessen, was es in dem Sinnlich - Wahrnehmbaren und dessen Natur erfassen muß.
+
+In wiefern nun die Begriffe und
+
+Erkenntnisse vom Daseyn Gottes , von dessen Natur und Wesenheit und deren Verhältniß zur Welt und zur Menschheit , nicht ursprünglich und unmittelbar ihrem Keime , ihrer Uranlage nach , im Erkennen selbst begründet wären , könnten sie sich auch in demselben , ungeachtet seiner Entwicklungsnothwendigkeit , nicht entwickeln, müßten also in demselben durch Einwirkung des Sinnlich- Wahrnehmbaren erzeugt worden seyn.
+
+Ohne uns hier auf Entscheidung der weitläufigen Frage einzulassen, ob das Sinnlich - Wahrnehmbare Begriffe und Erkenntnisse in dem Erkennen eigentlich. erzeugen kann , die wir verneinend beantworten müssen , zeigen wir nur , daß die auf solche Weise erlangte Erkenntniß nicht einmal die Erkenntniß von der objectiv - realen Natur des Erkannten, geschweige denn vom Daseyn seines absolut ersten Urgrundes , und dessen Natur und Wesenheit seyn kann. Denn in dem Sinnlich - Wahrnehmbaren unmittelbar erfassen wir zunächst nicht Wesen , sondern nur Dinge, d. i. nicht das Etwas in dem Erkannten , was es , abgesehen von unserm Vorstellen und Erkennen , in sich ist, und was also die absolute Ursache unsers Vorstellens und Erkennens seyn könnte , sondern blos das Etwas, [p. 96] was es in Bezug zu unserm Vorstellen und Erkennen ist, was folglich lediglich als Wirkung unsers Vorstellens und Erkennens angesehen werden kann , und mithin er fassen wir in dem Sinnlich - Wahrnehmbaren keinen einzigen unbedingten und unbezüglichen Gegenstand , wie es der absolut erste Urgrund der Dinge seyn muß.
+
+Gleichwohl treibt uns ein innerer unwiderstehlicher Trieb aus diesem Kreis des Bezüglichen und Bedingten hinaus , zu einem absolut Ersten , schlechthin unbedingten und unbezüglichen fort , der weder vom Daseyn , noch vom zweckmäßig Geordneten der Erscheinungen veranlaßt seyn kann . Diese sind nämlich entweder Dinge, oder Wesen, je nachdem sie eine Wesenheit und einen Zusammenhang unter sich, in Bezug zu unserm Vorstellen, und Erkennen, oder abgesehen davon, unmittelbar in sich selbst haben, und das zweckmäßig Geordnete , was allerdings einen höchsten Weltenordner wesentlich vorausseßt, liegt entweder in den Erscheinungen , sofern sie Dinge sind , oder es liegt in ihnen , so ferne sie Wesen sind.
+
+Liegt es in ihnen als Dingen, so wäre es die Wirkung unsers Vorstellens und Erkennens , also uns gemacht, und nicht von ihnen erzeugt , und folglich wären sie nicht der Anlaß zu der Sehnsucht, den Begriff von einem absolut ersten, höchsten Weltenordner zu finden, die uns über den Kreis des Bezüglichen und Bedingten hinaustreiben könnte und müßte ; liegt es in ihnen als Wesen , so könnte es noch weniger Anlaß zu einer solchen Sehnsucht werden, da wir von dem, was sie als Wesen sind, nicht den mindesten Begriff erhalten könnten.
+
+als Wesen sind sie ja ganz abgesehen von unserm Vor-
+
+[p. 97] A stellen und Erkennen , liegen folglich ganz außer der
+
+Sphäre eines für uns möglichen Begriffs.
+
+Aber gefeßt auch, wir wären eines Begriffs davon fähig , so würde dieser nicht hinreichen, das Daseyn eines absolut Ersten, höchsten Weltenordners mit unbedingter Nothwendigkeit zu begründen ; höchstens könnte von ihm aus die practische Forderung vom
+
+Daseyn eines solchen gemacht werden , deren Ungenüglichkeit hier Feder fühlt.
+
+sollte der Begriff des zweckmäßig Geordneten in den Erscheinungen als Wesen hinreichen, den Begriff vom Daseyn eines absolut Ersten , höchsten Weltenordners mit unbedingter Nothwendigkeit zu nachgewiesen werden , begründen , so müßte daß das zweckmäßig . Geordnete eine nothwendige Ingredienz von der Wesenheit der
+
+Wesen wäre, so , daß der Begriff Wesen seiner Natur nach den Begriff des zweckmäßig Geordneten nothwendig in sich vorausseßte.
+
+Müssen nämlich die Wesen ihrer
+
+Wesenheit gemäß schlechthin nothwendig zweckmäßig in sich geordnet seyn , so würde dies den Begriff eines absolut Ersten , höchsten Weltenordners allerdings mit unbedingter Nothwendigkeit herbeiführen , da das Zweckmäßig - Geordnete lediglich solchen erklärlich ist.
+
+unter Vorausseßung eines
+
+Aber der Begriff Wesenheit seßt den des zweckmäßig Geordneten gar nicht weder nothwendig, noch wesentlich voraus ; durch den Begriff Wesenheit ist weiter nichts bezeichnet , als ein Etwas , das in sich die Möglichkeit und Nothwendigkeit hat , selbstständig und unabhängig in sich zu bestehen.
+
+Das Zweckmäßige in den Wesen also wäre nichts Nothwendiges, noch Unvermeidliches in ihnen , sondern blos ein Zufälliges, was die Nothwendigkeit ein absolut Erstes und
+
+[p. 98] Höchßtes anzunehmen gar nicht begründen könnte, und folglich kann die sinnlich - wahrnehmbare Erscheinung, selbst wenn man sie zunächst und unmittelbar als Wesen betrachtet, was man doch im Grunde nicht kann , durch ihr zweckmäßig Geordnetes jene unabtreibliche Sehnsucht nach dem absolut Ersten weder veranlassen , und noch viel weniger befriedigen.
+
+Eben so wenig kann es ihr
+
+Daseyn, das , wiefern sie Ding ist, seinen Grund in unserm Vorstellen und Erkennen hat, und, wiefern sie Wesen ist, von uns nicht erkannt werden kann, ja, könnte es auch erkannt werden, uns zu nichts führen würde, da ein Daseyn den Begriff von einem absolut ersten Urgrund nur in sofern mit unbedingter Nothwendigkeit be gründen würde , wiefern es selbst ungenügsam, bedingt und bedingbar ist ; nun aber sind dies Bestimmungen, die dem Begriff Daseyn , der weiter nichts bezeichnet. als Möglichkeit des selbstständigen und unabhängigen Bestehens , an und für sich gar nicht zukommen , følge lich kann aus dem Daseyn von Etwas das Daseyn eines Urgrundes gar nicht gefolgert werden.
+
+Wenn demnach iene Sehnsucht nach dem absolut Ersten , die thatsach lich in jedem Gemüthe vorhanden ist, durch das Sinn lich- Wahrnehmbare, als Object des Erkennens, weder veranlaßt, noch befriedigt werden kann , muß es unmittelbar in dem Erkennen selbst begründet seyn , und darin befriedigt werden können , oder das Philosophiren kann seinen uns bekannten Zweck nicht erreichen.
+
+Da nun die Erfahrung überhaupt keinen Gegenstand in sich hat , der jene Sehnsucht befriedigen kann , indem die Gegenstände aller Erfahrung sich als bezüglich und bedingt zeigen , und die Philosophie ihren Zweck muß erreichen [p. 99] können , so muß das Erkennen selbst, wiefern es kein Gegenstand einer mittelbaren Erfahrung , sondern ursprünglich in einem unmittelbar gewissen Gefühle gegeben ist, diesen Gegenstand in sich enthalten , also ein ursprüngliches , unmittelbar gewisses Urerkennen , das eben als solches schlechthin keiner Erörterung weder fähig , noch bedürftig ist , vom Daseyn eines absolut Ersten seyn , und dies um so weniger , da weder der Begriff „Daseyn" noch der Begriff „absolut Erstes, schlecht» hin unbedingtes und unbedingbares " undeutlich , noch unklar ist , also der Verdeutlichung , oder Erörterung auch in dieser Hinsicht nicht bedarf,7 und wenn gleich. wohl diese Erkenntniß nicht unbedingt allgemein als unzweifelhaft gewiß erscheint , so hat dies nicht seinen Grund in der Natur dieser an sich ganz einfachen, klaren Urerkenntniß , die keinem Zweifel und keiner Ungewißheit unterworfen seyn kann, sondern in der Verworrenheit des Erkennenden, der absichtlich das an sich Klare dunkel und unklar machen will, weil er zu wenig wahr haft speculative Kraft besißt, um sich von dem ihm gewöhnlichen natürlichen , vom
+
+Bewußtseyn aus bestimmten Standpunkte des Erkennens, d . i . vom sophi stischen, loszumachen , und sich zum Standpunkte der Reflexion , d. i. zur Anschauung , noch mehr , ohne Vorausseßung zu erheben.
+
+eines ursprünglichen, unmittelbar gegebenen , unzweifelhaft gewissen Urerkennens , würde nicht blos das Philosophiren sefnen Zweck nicht erreichen, sondern ganz unmöglich seyn : denn es muß doch von irgend einem Punkte aus anfangen , der, wiefern es sich nicht in einem ewigen Zirkel von Beweisen und Erörtern bewegen , und eben dadurch , selbst [p. 100] feiner Möglichkeit nach , völlig zerstören will , nothwendig absoluter Anfangspunkt seyn, d. i. schlechthin außerhalb der Sphäre alles möglichen Beweisens und Erörterns liegen, folglich unmittelbar gegeben und unzweifelhaft gewiß seyn muß , und jener absoluter Anfangspunkt alles Philosophirens , seiner Möglichkeit nach , ist eben jenes ursprünglich gegebene und unmittelbar gewisse, nur nicht durchweg als klare Erkenntniß entwik kelte Urerkennen , das unmittelbar zugleich und nothwendig unmittelbar gegebene unzweifelhaft gewisse klare Urerkenntniß vom Daseyn Gottes ist , das sich sonst auf keine Weise erkennen ließe , und doch erfannt werden muß. §. Nicht durchweg kenntniß
+
+81.
+
+unmittelbar klare Urerder
+
+Saz : ** Gott ist unendliche Vernunftleben. Eines absolut Ersten Urgrundes der Dinge bedürfen wir schlechthin nothwendig : um aber Daseyn und Wesenheit des Au, sammt Grund und Zweck mit Nothwendigkeit aus jenem absolut Ersten zu erklären, reicht nicht hin, daß wir die ur sprünglich und unmittelbar gegebene, unzweifelhaft gewisse Urerkenntniß vom Daseyn eines absolut Ersten haben, da aus demUmstande, daß das Eine ist, keineswegs folgt, daß das Andere in seiner besondern Wesenheit aus ihm seyn muß, sondern es muß noch die Erkenntniß von der Wesenheit dieses absolut Ersten hinzukommen , indem nur aus dieser mit Nothwendigkeit ' wird begriffen werden können, wie das All in seiner bestimmten und besondern Wesenheit durch ihn begründet werden konnte , und mußte.
+
+Obschon nun auch diese Erkenntniß eine ur-
+
+101.
+
+sprünglich und unmittelbär gegebene seyn muß , weil sie sonst gar nicht erlangt werden könnte , so ist sie doch nicht eine unmittelbar gegebene , durchweg klare Urerkenntniß , bedarf also zwar nicht des Beweises , aber doch der Erörterung , ist folglich erst wahrer Ausgangspunkt des Philosophirens in seiner dialectischen Bewegung. Zuerst liegt uns ob, näher zu bestimmen, in welchem Sinn man sage, das ursprünglich und unmittelbar gegebene Urerkennen , also das Ahnen , seye als ursprünglich und unmittelbar gegebene Urerkenntniß , oder als
+
+Anschauung, unmittelbar durchweg, oder nicht durchweg, als klar entwickelt gegeben, bedürfe also in jenem Falle keiner Erörterung , der es in diesem wesentlich bedürfe. Schon ist bemerkt , daß das , seiner Natur nach , Allumfassende Urerkennen in dem bedingten einzelnen Vernunftwesen in keiner bestimmt gegebenen Zeit durchweg als Allumfassend zur klaren Erkenntniß kommen , oder zum Durchschauen werden kann , wie in der unendlichen Vernunft , sondern stets nur ein theilweis klares Erkennen , oder Anschauung wird : die Anschauung der unendlichen Vernunft wäre also eine totale , und die des Vernunftfähigen Einzelnen eine partiale.
+
+die Anschauung theilt sich noch in einem andern Sinne in eine totale und partiale , nämlich sofern sie in Bezug zu ihrem Objecte gedacht wird , während sie im vorigen Sinne in Bezug zu ihrem Subjecte , dem Anschauenden , gedacht war.
+
+Was aber Object des An-
+
+schauens ist, ist entweder ursprünglich und unmittelbar als deutlicher , bestimmter und vollendeter Begriff, oder nur als undeutliche, verworrene, unvollendete und schwankende Erkenntniß gegeben , die sich zum deutlichen , bestimmten, [p. 102] und klaren Begriff, zur vollendeten Erkennt niß für das Bewußtseyn erst noch mittelbar bestimmen. und entwickeln muß, also unmittelbar im Erkennen selbst nur ihrem Keime, ihrer Uranlage nach vorhanden ist, und mithin ist jene eine totale , diese eine partiale Anschauung: der wesentliche Unterschied zwischen beiden besteht also darin , daß jene vom Erkennen uranfänglich mit dem eintretenden Bewußtseyn zugleich als vorhanden erfaßt wird , während es diese erst nach eingetretenem Bewußtseyn , als sich erzeugend und entwickelnd, scheinbar , folglich als unmittelbar erzeugt und gegeben, auffaßt, und erst in der Folge erkennt , daß auch sie unmittelbar und ursprünglich vorhanden , mittelbar gegeben war
+
+Die totale
+
+Anschauung im engeren Sinne ;
+
+mithin nur
+
+Anschauung die partiale Anschauung im weitern, oder Idee. Die Idee wird wieder im engeren
+
+Sinne
+
+Vorstellung ,
+
+Gedanke,
+
+Begriff, Erkenntniß , je nachdem der objectivwahre Ursprung einer mittelbar gegebenen Erkenntniß mehr , oder weniger deutlich erfaßt wird. Alle Erkenntnisse, die vom Vorhandenseyn des Ahnens und vom Dan seyn Gottes ausgenommen, sind nur partiale Anschauungen, oder Ideen, bedürfen also der Deduction und Erläuterung , um so mehr , wenn ihre Nothwendigkeit in der Natur des Gegenstandes , oder unmittelbar in der Natur unsers Denkens begründet liegt.
+
+Die Erkenntniß von der Wesenheit Gottes aber zu deduciren und zu erläutern , oder zu erörtern , ergibt sich mit gleich groser Nothwendigkeit aus der Natur des Gegenstandes, wie aus der Natur unsers Denkens . Es ergibt sich mit Nothwendigkeit aus der Natur des Gegenstandes : denn [p. 103] die Philosophie hat unmittelbar zu ihrem Zweck Daseyn und Wesenheit des All , sammt Zweck und Grund , aus einem absolut Ersten , mit Nothwendigkeit zu erklären, wozu die Erkenntniß vom Daseyn eines solchen nicht hinreicht , da aus dem Umstande des bloßen Daseyns von Einem das Daseyn des Andern in seiner besondern und bestimmten Wesenheit nicht erklärt , noch begriffen werden kann , um so weniger, da dies ein Verhältniß, eine Beziehung zwischen den beiden , nothwendig und wesentlich vorausseßt , deren Möglichkeit der einfache
+
+Saz : ein absolut Erstes , oder Gott ist , gar nicht zuläßt, noch begreiflich machen kann.
+
+Also muß nothwendig, da Daseyn und Wesenheit des All nicht unmittelbar aus dem AU selbst erklärt und begriffen werden kann , dies folglich auf einen Urgrund zurückgebracht werden muß, von dem absolut Ersten, welches eben jener nothwendige Urgrund ist , nicht blos das Daseyn, sondern auch die Wesenheit erkannt und begriffen werden, in welcher allein ein Verhältniß , eine Beziehung zwischen ihm und dem Áll als möglich begründet liegen
+
+Aber es liegt auch zweitens unmittelbar in der
+
+Natur unseres Denkens selbst, vermöge der wir die bloße Idee zur eigentlichen Anschauung zu erweitern uns unwiderstehlich angetrieben finden , das bloße Ahnen zum wabren Wissen erheben wollen , was unbedingt von aller Idee, mithin auch von der gilt , deren Inhalt die Erkenntniß von der Wesenheit Gottes ist. Dieser Zweck wird unstreitig erreicht werden können, nur fragt sich, ob das also erlangte Wissen , ein so reines und unver mitteltes sey, wie das vom Daseyn Gottes , oder ob es nur ein bedingtes und vermitteltes Wissen seyn werde, [p. 104] und , wofern es ein solches ist, ob die Aufgabe, Daseyn' und Wesenheit des All aus der Wesenheit Gottes , mit Nothwendigkeit zu erklären, vollständig werde gelöst werden können.
+
+Unsere Erkenntniß von der göttlichen Wesenheit aber , sofern sie als wissenschaftliche soll gelten können , kann nie eine völlig reine und unmittelbare, oder unvermittelte werden , sondern muß stets eine mit telbare und vermittelte bleiben , eben weil sie als deutlich klare Erkenntniß erst werden muß.
+
+Gleichwohl läßt sich die kurz zuvor erwähnte Aufgabe befriedigend lösen, die nämlich nicht dahin geht , das Verhältniß Gottes zur Welt zu durchschauen , d. i. vollkommen klar zu was und wie das All in und durch die göttliche Wesenheit für die Anschauung der unendlichen Vernunfterkenntniß Gottes begründet sey , was selbst , da unsere Vernunfterkenntniß thatfachlich bedingt ist , unmöglich zu lösen wäre , sondern dahin gerichtet seyn kann , es für unsere thatsächlich bedingte Vernunfterkenntniß deutlich und mit unbedingter Nothwendigkeit zu erklären , wie das All , wie wir es in seiner besondern und bestimmten Wesenheit , geistig und sinnlich , unvermeidlich auffassen , aus einem absolut begriffen werden könne , und bar vollständig ersten Urgrunde diese Aufgabe wird offengelöst seyn, sobald mit unbedingter Nothwendigkeit, und folglich als allgemein gültig nachgewiesen ist, wie dies All , was wir wahrnehmen und erkennen , aus dem absolut Ersten , als seinem nothwendigen Urgrunde , lediglich begriffen werden kann , in wiefern mit Grund, in ihm , eine Wesenheit vorausgesetzt werden darf, die dem von uns, in unserer gegebenen Erklärung angedeuteten Begriff einigermaßen ähnlich [p. 105] läßt sich inzwischen mit Gewißheit vorausseßen , da die, sem Begriff eine Idee, also eine ursprünglich und unmittelbar , dunkel und unvollendet gegebene Urerkennt niß zum Grunde liegt , die als solche , hinsichtlich ihres Inhalts, unzweifelhaft gewiß ist, die gleichsam eine Abspiegelung des objectiv-Wahren ist, obwohl nie mit unbedingter Nothwendigkeit sich nachweisen läßt , was auch ganz unnöthig ist , daß das objectiv - Wahre seinem Abbilde vollkommen gleiche. Das Wissen von der Wesenheit Gottes ist aber um so mehr ein blos mittelbares und vermitteltes zu nennen, als es seine Bestätigung , deren es bedarf, zum Theil aus den Andeutungen der empirisch - bestimmbaren Welt entnehmen kann.
+
+Eigentlich schließt der Begriff » Seyn “ den Begriff der Wesenheit in sich, die jedoch nicht im Seyn besteht :
+
+das Seyn macht von keinem
+
+Dinge die Wesenheit aus ; es ist ein ganz lecrer Begriff, der einen allgemeinen , höchst dunklen und schwänkenden Gedanken, nur unvollständig und seinem ersten Theile nach, ausdrückt, bei dem man nicht stehen bleiben kann, sondern von wo aus man nothwendig zum zweiten fortschreiten muß , der also nicht nur ein Beziehungsbegriff, sondern der selbst ein nothwendiger Beziehungsbegriff ist, der mithin eine Ergänzung entweder nothwendig vorausseßt , oder nach sich zieht.
+
+Also keine
+
+Wesenheit, mithin auch nicht die göttliche, besteht im Seyn, sondern in etwas anderm , das jener Begriff , ganz allgemein und anbestimmt andeutet ; von diesem andern aber ist , wiefern es wahrhaft Wesenheit seyn soll , das Seyn ein nothwendiger und wesentlicher Bestandtheil, und der Begriff „ Wesenheit “ schließt folglich , seiner
+
+[p. 106] Vollständigkeit nach, den Begriff des Seyns , nothwendig in sich. Läßt man diesen nothwendigen Bestandtheil weg, so könnte unter Wesenheit nur verstanden werden : eine Eigenschaft, oder Beschaffenheit, die nothwendig vorausgesezt werden muß , wenn eine Einzelnheit, oder ein Ding überhaupt , und wenn ein bestimmt gegebenes Ding, als solches, soll gedenkbar seyn.
+
+Das Unvollständige dieses Begriffs leuchtet von selbst ein. Denn wäre der Begriff , Wesenheit " durch die eben gegebene Er klärung vollständig erschöpft , so würde jeder Begriff, jeder Gedanke , jedes Phantasiegebilde , die eine Eigenschaft , oder Beschaffenheit ausdrücken , eine Wesenheit ausmachen : nun aber unterscheiden wir ganz bestimmt zwischen unsern Phantasiegebilden und den wirklichen Dingen , und schreiben nur den leztern eine Wesenheit zu, folglich müssen sie irgend etwas in sich haben , das diese Unterscheidung möglich macht, und dies wird dem Begriff Wesenheit als wesentliches Merkmal zukommen Dies ist offenbar der Umstand , daß uns das wirkliche Ding als gefordert von uns , und selbstständig in sich erscheint, oder sich in der Reihe der sinnlich-wahrnehm baren Erscheinungen sinnlich wahrnehmbare
+
+Erscheinung neben und außer uns befindet, mithin lebt, und zwar nicht in, durch, aus uns, sondern zunächst in, durch und aus sich selbst, da es, lebte es nicht in, durch und aus sich selbst , nicht eine sinnlich wahrnehmbare Erscheinung seyn , folglich auch nicht von uns wahrgenommen werden würde.
+
+Das Erscheinen' feßt also, sei-
+
+- ner Möglichkeit nach, ein selbstständiges und eigenthümliches Leben in dem Erscheinenden nothwendig voraus, und folglich is Leben eine nothwendige Ingredienz von [p. 107] aller wirklichen Wesenheit , die man mit dem Ausdruck Seyn “ bezeichnet :
+
+Seyn und Leben sind also gleichlautende, identische Begriffe, die eine die Wesenheit eines wirklichen Dinges nothwendig mitausmachende Ei*genschaft_bezeichnen.
+
+Den Erscheinungen kommen aber ihre Eigenschaften nur in Bezug auf die besondere Art unseres Vorstellens und Begreifens , also lediglich subjectiv - real, oder ganz abgesehen davon, folglich objectiv - real zu , und sie sind in jenem Falle Dinge , in diesem Wesen.
+
+Die Eigenschaften nun , welche die
+
+Dinge allein in Bezug auf die beiden bezüglichen Bedingungen von Raum und Zeit haben, sind offenbar nur subjectiv - real, wogegen diejenige , die nothwendig vorausgesetzt werden muß, wiefern jene beiden bezüglichen Bedingungen auf sie überhaupt nur anwendbar seyn, oder sie möglicher. Weise erkennbare Erscheinungen für uns werden sollen , nothwendig objectiv - real ist, und folglich ihnen als Wesen zukömmt , und diese Eigenschaft ist eben das Leben , welches , in wiefern es in den Wesen nicht schlechthin innerlich selbstgenügsam ist, ein innerlich selbstgenügsames, als seinen Urgrund, nothwendig vorausseßt.
+
+Also der Urgrund der Dinge , oder
+
+Gott, hat ein schlechthin innerlich selbstgenügsames Leben in sich seine Wesenheit ist aber nicht allein unendliches
+
+1sondern Den unter Vorausset Leben , nur unendliches zungis Vernunftleben. einer solchen Wesenheit läßt sich das All in der bestimmten und besondern Wesenheit, wie wir sie erkennen , aus dem absolut- Ersten genüglich erklären , was sich zum Theil sogar in dem Empirisch - Bestimmbaren bestätigt.
+
+§.
+
+82.
+
+In dem Empirisch-Bestimmbaren, der uns bedingenden sinnlich - wahrnehmbaren Welt und unseres eigenen innern Selbsts, sind die beiden im Bewußtseyn thatsach lich getrennten Merkmale, oder Eigenschaften des Den-* kens , und der Materie , oder allgemeiner der Vernunft und des Lebens gegeben.
+
+Ob sie der Sache nach und wesentlich in sich von einander verschieden sind , wissen wir zur Zeit noch nicht : gewiß aber ist, daß sie, da sie im
+
+Bewußtseyn von einander getrennt sind , zunächst nicht auf Eins zurückgebracht , noch aus Einem hergeleitet werden können, indem sie wenigstens zwei verschiedene Nichtungen , oder Seiten in dem Einen voraussezen.
+
+Sind diese zwei verschiedene Richtungen , oder
+
+Seiten, unmittelbar in unserer Wesenheit an sich begründet, so ist die dadurch gegebene Verschiedenheit eine reale: Geht sie dagegen nur aus der besondern Art unsers vom Bewußtseyn aus bestimmten Erkennens hervor, so ist sie nur eine formale.
+
+Aber hängt nicht unser Bewußtseyn und mithin auch unsere besondere dadurch bedingte Art des Erkennens mit unserer Wesenheit an sich zusammen , ist folglich nicht der dadurch begründete Unterschied zwischen Denken eine reale?
+
+und Materie
+
+Diese Frage zu beantworten , bestimmen wir die Bedeutung des Begriffs " 'realer und formaler Unterschied überhaupt " genauer, wodurch nämlich mittelbar zugleich bestimmt seyn wird , was realer , oder formaler Unterschied zwischen Geist und Materie bedeute, folglich auch jene Frage mittelbar beantwortet seyn wird.
+
+Gegenstände sind von einander real überhaupt verschieden, [p. 109] wiefern ihnen ein wirkliches selbstständiges , eigenthümliches und von einander wahrhaft und wesentlich gesondertes Leben , oder Daseyn unbedingt zuerkannt werden muß; formal überhaupt dagegen, wiefern sich das selbstständige , eigenthümliche und von einander gesonderte Leben , oder Daseyn , was sie haben , nur bedingt und lediglich unter bestimmten Voraussetzungen als solches anerkennen läßt.
+
+Geist und Materie werden also real von einander verschieden seyn , wenn das selbstständige, eigenthümliche und gesonderte Leben oder Daseyn, was sie in sich besigen , ein wahrhaft und wesentlich in sich gesondertes ist, wenn sie also zwei verschiedene Wesen ausmachen , die nur mit einander verbunden sind ; formal dagegen , wenn sie dies gesonderte Leben , oder Daseyn nur bedingt , und lediglich unter bestimmten Voraussetzungen haben , mithin nicht zwei wirklich von einander verschiedene, nur miteinander verbundene, Wesen sind, sondern wenn es nur ein und eben dasselbe Wesen ist, das sich blos in Gemäßheit der besondern Beziehun hungen, unter denen es sich ohne sein Zuthun verseßt findet , unter diesen verschiedenen Gesichtspunkten erfassen muß, die an * und für sich dem Wesen selbst nichts gelten , das als solches unbedingt eine Einerleiigkeit von Vernunft und Leben, oder ein Vernunftleben ist. Solcher Vernunftleben gibt es unendlich viele : keines , das Unendliche, Albegründete ausgenommen, ist schlechthin innerlich selbst genügsam , oder rein unbedingt und unbedingbar.
+
+Bedingtheit und Bedingbarkeit ist also eine
+
+Bedingung , die schlechthin vorausgesezt werden muß , wiefern Wesen als durch Gott begründet gedenkbar seyn sollen : die unvermeidliche Folge von dieser [p. 110] Grundbedingung sind wieder verschiedene andere Bedingungen , die vorausgesezt werden müssen , wenn Wesen zu erkennbaren Gegenständen , oder Dingen für einander sollen werden können.
+
+Aber das alles sind offenbar keine objectiv - reale Eigenschaften in der Wesenheit der Wesen als solcher : denn es gibt nur für sie in Bezug auf die besondere Art des Erkennens und Begreifens eines bestimmt gegebenen , auf besondere Weise bedingten Wesens, Mensch genannt , das sie mit sich, oder unter einander, oder mit einem absolut- Ersten vergleicht. Dies Wesen nun geht in Gemäßheit der besondern Art, wie es bedingt ist, oder sich von all den andern, unendlich vielen bestimmt unterscheidet, in seinem Erkennen und Begreifen zunächst unvermeidlich von seinem Bewußtseyn aus , das ihm seine Wesenheit als bewußte, also ats erkennende und denkende, und als nicht-bewußte, folglich als nicht erkennende und denkende abspiegelt, unterscheidet demnach in sich zwischen Denken , und NichtDenken, die zusammen seine Wesenheit ausmachen : denn sv wenig es das Denkende von dem Nicht-Denkenden in sich zu trennen vermag , eben so wenig kann es dies von je nem in sich scheiden. So also erhält es eine gedoppelte Natur in sich die nun entweder eine wirklich doppelte, oder nur eine scheinbar und bedingt doppelte , also real, oder lediglich formal in sich verschieden ist.
+
+Sie ist eine wahrhaft doppelte, oder real in sich verschiedene, wenn das menschliche Bewußtseyn jenen Unterschied zwischen Denken und Nicht- Denken, Geist und Materie machen muß, wiefern es überhaupt Bewußtseyn ist, d. i. wiefern es als nothwendige Folge von der Wesenheit des Menschen , wiefern er nur überhaupt Wesen [p. 111] und als solches Vernunftleben ist, sich betrachten läßt : sie ist nur eine scheinbar und bedingt doppelté, oder blos for- . mal in sich verschiedene, wenn das menschliche Bewußtseyn jenen Unterschied bedinglich macht, in wiefern es Bezie . hungsweise Bewußtseyn ist , d . i. in wiefern es als die unvermeidliche Folge von der besondern Art , wie dies Vernunftleben als ein bestimmt gegebenes bedingt ist, angesehen werden muß.
+
+Wiefern es als Wesen überhaupt Vernunftleben ist , hat es die Möglichkeit in sich zum Innewerden seiner selbst, oder zum Bewußtseyn zu gelangen , die also eine objectiv - real in seiner Wesenheit begründete Eigenschaft ist : ist es nun wirklich seiner selbst inne, oder bewußt geworden , so ist es zum Bewußtseyn überhaupt gelangt , und fände sich unmittelbar darin der mehr erwähnte Unterschied zwischen Geist und Materie nothwendig begründet , so wäre er unzweifelhaft ein realer , da nun die Wesenheit des Menschen an sich aus zweien wirklich und wesentlich in sich verschiedenen, nur mit einander verbundenen Wesen bestände. Wiefern es dagegen als Mensch ein bestimmt gegebenes und besonders bedingtes Vernunftleben ist, kann es nicht blos sich seiner selbst inne , oder bewußt werden , oder zum Bewußtseyn überhaupt gelangen , sondern wird sich auch wirklich auf eine bestimmt gegebene und besondere Weise seiner selbst inne , oder bewußt , gelangt mithin Beziehungsweise zu einem Bewußtseyn, das ihm eben so wenig nothwendig ist, wie die besondere Art von Bedingtseyn , die es zum Menschen macht : es kann noch , unbeschadet seiner Wesenheit an sich , auf unendlich mannichfache Weise anders bedingt werden , folglich noch auf unendlich verschiedene Weise anders zum Innwerden [p. 112] feiner selbst, oder zum Bewußtseyn gelangen.
+
+If dem-
+
+- nach der Unterschied , den es zwischen Geist und Materie sezt, blos die unvermeidliche Folge von der beson dern Art, wie sich der Mensch in Gemäßheit der besondern Weise , wie er jetzt bedingt ist , seiner selbst inne, oder bewußt werden muß , so ist er offenbar lediglich formal, da er mit der Zeit anders aufgefaßt, oder ganz beseitigt werden kann : denn es ist ein Bewußtseyn gedenkbar , das die Einerleiigkeit zwischen Vernunft und Leben, oder seine eigene Wesenheit als Vernunftleben erfassen kann , was ganz unmöglich wäre , wenn in ihr die zwei ihrer Wesenheit nach ganz von einander verschiedene Wesen , Seele und Leib , blos mit einander verbunden wären .
+
+Wie dem aber auch immer sey , der
+
+Unterschied zwischen denkender und nicht- denkender Natur, Geißt und Materie, ist eine unwidersprechliche Thatsache des Bewußtseyns , und vom Bewußtseyn aus kann man diese nicht unmittelbar aus jenem , noch jenen unmittelbar aus dieser erklären. Daraus folgt nun nicht , daß zwei Grundursachen der Dinge , eine deykende, oder geistige, und eine nichtdenkende, oder materiale gesezt werden müßten , wohl aber, daß die eine Grundursäche, die nur gefeßt werden kann , wie bald gefeigt werden wird , jene zwei verschiedene Richtungen in dem Empirisch - Bestimmbaren nothwendig in ihrer Wesenheit vereinigen müsse, wiefern das All genüglich aus ihr soll erklärlich seyn. Offenbar aber ist der Begriff „ vereinigen " viel zu allgemein und unbestimmt, als das er eine richtige £!r schauung von der wahren Beschaffenheit der Sache geben könnte: denn dieser Begriff läßt noch immer, die falsche Ansicht zu, [p. 113] als ob in der göttlichen Natur die zwei in sich von einander ganz verschiedene Wesen, Geist und Materie, blos mit einander verbunden wären , und nur nothwendig in gegenseitiger Wechselwirkung mit einander ständen , wodurch denn der Unterschied zwischen Geist und Materie ein realer werden würde, der gleichwohl nur ein formaler ist.
+
+Denn wäre er ein realer , so würde dadurch der von uns aufgestellte Begriff der absoluten Einerleiigkeit von Vernunft und Leben, oder des Vernunftlebens, ein bloßes nichtiges Gedankenspiel :
+
+aber ein inneres, unabtreibliches , unmittelbar gewisses Gefühl begründet ihn seiner unbedingten Nothwendigkeit nach, so , daß ihm ein Objectiv-Reales unbedingt entsprechen muß, und folglich ist der mehr gedachte Unterschied ein bloß formaler , mithin muß , hierüber keinen Zweifel eintreten zu lassen, Statt des allgemeinen, unbestimmten und schwankenden Ausdrucks „ vereinigen " der bestimmte und unzweideutige einerleiig gebraucht werden.
+
+Vernunft und Leben , oder Denken und Materie , sind also in der göttlichen Wesenheit nicht blos vereinigt, sind in ihr schlechthin einerleiig ;
+
+Gott ist demnach weder blos Vernunft, noch rein Leben , sondern ist ein Vernunftleben.
+
+Suchen wir diesem Begriff im
+
+Voraus . ein allgemeines Verständniß abzugewinnen , sø kann sein Sinn offenbar nur der seyn :
+
+das absolut
+
+Erste, oder Gott , der als Urgrund der Dinge nothwendig vorausgesezt werden muß, kann, da die Dinge ihrer Wesenheit nach , auf jeden Fall wenigstens ein Zusammen von Vernunft und Leben sind, weder als reine Vernunft , noch als bloßes Leben das All in seiner besondern Wesenheit vollständig und genüglich begründen , sondern [p. 114] muß in seiner Wesenheit, wiefern das All aus ihr genüglich soll erklärlich seyn , wofern sie wesentlich Leben ist , eine Beimischung von Leben , und , ist sie hauptsächlich Vernunft , eine Beimischung von Vernunft haben, damit sie in jenem Falle das Leben, und in diesem die Vernunft im All begründen könne.
+
+Diese Wahrheit ist schon in uralter Zeit, sowohl von den orientalischen Philosophen, als auch von den ersten und ältesten Weisen der Jonischen Naturphilosophen - Schule, anerkannt worden.
+
+Denn obschon Thales das Wasser , Anagimenes das Feuer , Anaximander das Unendliche als Urgrund der Dinge seßte , folglich die zwei ersten einzelne Formen der Materie, und der lettere die ganze unendliche Materie selbst für die Wesenheit des Urgrundes ansahen , so haben sie doch nicht blos die göttliche Wesenheit, wiefern sie Wasser , oder Feuer , oder die unendliche Materie war , für verschieden von dem Wasser , und dem Feuer, und der Materie , wie sie in der sinnlichen Wahrnehmung erfaßt wurden , gehalten , sondern sie sich auch zugleich, als ein sich selbst bewegendes und erkennendes , oder geistiges gedacht und beschrieben,, wofür sie nur noch keinen eigenen Kunstausdruck hatten, und eben so dachte sich Anaxagoras , wenn er das Denken , vous , als den Urgrund der Dinge seßte , das Denken nicht als ein eigenes , rein geistiges , von allem , Materialen gänzlich gesondertes und verschiedenes Princip , sondern ebenfalls wie die Andern , als rein material und als seiner Natur nach schlechthin einerleiig mit dem Materialen. Wenn aber die Andern sich begnügt hatten , das sich selbst bewegende und erkennende der Materie blos zu beschreiben , bezeichnete er es durch [p. 115] einen eigenen Kunstausdruck , machte mithin allerdings einen dialectischen Fortschritt : man würde aber gänzlich irren , wenn man diesen Denker , wie oft geschieht, um deswillen rühmen wollte , weil er zuerst in der Philosophie den Fortschritt aus dem absoluten Materialismus zu dem höhern Spiritualismus gemacht habe ; dieser
+
+Fortschritt , oder vielmehr Seitenschritt wurde erst viel später durch Sokrates und Platon gemacht.
+
+§.
+
+83.
+
+Auch wir müssen uns hüten, obschon wir nicht umhin können, auch in der göttlichen Wesenheit die beiden Eigenschaften des Denkens und Lebens anzuerkennen, uns unter dem göttlichen Denken ein menschliches, wenn auch noch so erweitertes und erhöhtes, oder unter gött lichem Leben ein Leben , wie wir es in der sinnlichen Wahrnehmung erfassen , zu denken , obschon die beiden Begriffe, in sofern sie auf die göttliche Wesenheit angewendet werden, keine von ihrer gewöhnlichen Bedeutung ganz abweichende und verschiedene haben können , weil sie sonst für uns überhaupt alle Bedeutung verlieren würden.
+
+Das göttliche Denken wird also dem unsern nicht völlig gleichen , wohl aber ihm einigermaßen ähn. lich seyn; eben so wird das göttliche Leben dem im Sinnlich -Wahrnehmbaren erscheinenden nicht durchaus gleichen, aber wohl mit ihm sich vergleichen lassen.
+
+Sö begreifen wir auch , daß diese beiden Eigenschaften unmittelbar in Gott schlechthin untrennbar einerleiig sind, und es auch für sein Anschauen unbedingt bleiben , un geachtet fte dem Begreifen und Erkennen seiner Offenbarungsarten, als in sich geschieden und verschieden, [p. 116] erscheinen müssen, und sich diesen nur alsdann, ihrer objectiv-realen Beschaffenheit nach, d. i. als in sich schlechthin untrennbar einerleiig, zeigen, wenn sie sich zur Anschauung erheben ; wenigstens gilt dies vom Menschen, der nämlich im Erkennen und Begreifen seiner selbst, wie aller andern Dingen von zwei verschiedenen Standpunkten , nämlich vom Standpunkte des Bewußtseyns und vom Standpunkte der Anschauung , ausgehen kann. Fener ist ihm ganz natürlich und gewöhnlich ; diesen kann er nur Ausnahmsweise im philosophirenden Nachdenken sich aneignen , und wenn er in jenem nur Gedanken und Begriffe erhält , erhält er in diesem die Idee; in jenem also erkennt er außer der Idee, nur mittelst der Gedanken und Begriffe , in diesem dagegen in der
+
+Idee und zugleich im Zusammenhange mit jenen , also auf jeden Fall vollständiger und richtiger.
+
+Zugleich erhält er im Standpunkte des Bewußtseyns das blos Subjectiv-Reale in und an den Dingen, im Standpunkte der Anschauung aber das Objectiv-Reale.
+
+Jenes kömmt ihnen nicht unbedingt , noch nothwendig und wesentlich an und für sich , sondern blos bedingt und beziehungsweise , unter Voraussetzung einer solchen besondern Art des Erkennens und Begreifens einer bestimmt gegebenen, besonders bedingten vernunftfähigen Einzelnheit, unvermeidlich zu : was diese also so von ihnen erkennt, ist nur bedingt wahr und lediglich von bedingt allgemeiner Gültigkeit, weshalb man den Standpunkt des Bewußtseyns , als den Standpunkt des blos bedingt Wahren und bedingt allgemein Gültigen, den formellen, oder logischen, nennen kann.
+
+Das Objectiv-Reale dagegen kömmt ihnen unbedingt , und abgesehen von allem Erkennen [p. 117] und Begreifen , an und für sich nothwendig und wesentlich zu, ist also unbedingt wahr und von unbedingt allgemeiner Geltung , und man kann daher den Standpunkt der Anschauung , als den Standtpunkt des unbedingt Wahren und unbedingt allgemein Gültigen, den realen , oder transscendentalen nennen. End lich gibt der formelle Standpunkt , in welchem die Geistesform vorherrscht , die ihrer Natur nach , wesentlich zerreißend , unter zerlegend , und höchstens zusammenstellend, und nebenordnend ist, d. i. der Verstand , das
+
+Erkannte nur als successives Ganze , d . i.
+
+als Inbegriff; der reale aber ,
+
+Geißtesform in welchem die vorherrscht, welche wesentlich zusammenfassend und einigend ist , d. i. das Gemüth , das Erkannte als fimultanes Ganze, d. i. als Einerleiigkeit, oder Totalität. Demnach wird die göttliche Wesenheit im realen Standpunkte als Einerleiigkeit , oder Totalität erscheinen, - was Totalität sey , ist bereits oben §. 4. erörtert/ - im formellen dagegen als ein bloßes Zusammen, oder als Inbegriff: der Fortschritt vom Inbegriff aus zur Totalität ist mit unendlicher Nothwendigkeit gegeben.
+
+Denn Inbegriff ist eine Gesammtheit , ´ oder Einheit, die weder all ihre Einzeln - Theile nothwendig, oder wesentlich vorausseßt , noch von all ihren EinzeluTheilen zusammen , oder von jedem insbesondere nothwendig und wesentlich vorausgesezt wird . In der gött- . lichen Wesenheit also, als Inbegriff gedacht, würde das Denken nicht das Leben , noch dieses jenes , weder nothwendig, noch wesentlich vorausseßen, sondern beide könnten ohne einander , allein und an und für sich bestehen : die göttliche Wesenheit zerfiele demnach , diesem
+
+118 . Gesichtspunkte aus, in zwei wesentlich von einander verschiedene Stücke. Wie wenig nun diese Ansicht genügen kann , wie vielmehr von ihr aus der Fortschritt zum Begriff der schlechthin in sich untrennbaren Einerleiigkeit , oder Totalität , mit unendlicher
+
+Nothwendigkeit gegeben ist , wird sich sogleich zeigen , wenn wir die göttliche Wesenheit so beleuchten, wie sie sich , vom for mellen Standpunkte aus , dem Gedanken und Begriffe nach zusammenseßt, d. i. theils als reine Vernunft, theils als bloßes Leben.
+
+§.
+
+Gott als Denken.
+
+84. 84.
+
+Nicht vom Denken in einer einzelnen Beziehung, oder Offenbarungsweise, sondern vom Denken überhaupt und im Allgemeinen ist hier die Rede.
+
+Das göttliche
+
+Denken überhaupt , ist nun nothwendig rein schrankenlos , schlechthin unbedingt und unbedingbar, und es ist dies nicht blos als Denken überhaupt , sondern durchweg in allen seinen einzelnen Offenbarungsformen dere : denn der
+
+Urgrund
+
+Dinge insbesonist nothwendig durchweg vollkommen an sich , schlechthin schrankenlos, unbedingt , und unbedingbar , und Gott ist die einzig mögliche Grundursache der Dinge. Dies führt von selbst auf eine nähere Erörterung folgender dreier Punkte :
+
+1) Die Natur des schrankenlosen, unbedingten, unbedingbaren
+
+Denkens im
+
+Allgemeinen , wie im Einzelnen ;
+
+2) die Unmöglichkeit , es , außer dem Urgrunde , noch
+
+Einem zuzuschreiben ; 3) die Unmöglichkeit, außer dem Einen noch Einen als Urgrund zu sehen. des rein Schrankenlosen ,
+
+Der Begriff oder Unbedingten und Unbe [p. 119] dingbaren, wird aber mittelbar nothwendig aus der un mittelbaren Bestimmung seines Gegenfäßes , d . i. des
+
+Beschränkten, oder Bedingten und Bedingbaren, sich ergeben. Gehen wir dabei von unserm Denken aus, welches thatsächlich ein beschränktes ist , so zeigt sich in diesem, wiefern es Denken überhaupt ist , die Beschränktheit besonders darin , es sich nicht und erkennt , was es feiner eigentlich wahren , objectiv - realen Natur nach ist , d. i.
+
+das erfaßt.
+
+als Totalität, sondern sich seiner stets nur in einer seiner Hauptformen, mit Ausschließung aller andern, folglich blos als Inbegriff, oder seiner subjectiv-realen Natur nach, bewußt ist : das schrankenlose göttliche Denken überhaupt also wird sich ununterbrochen und rein zeitlos seiner objectiv-realen Natur nach, d. i. als Totalität erfassen und erkennen. Eben so spricht sich in unserm Denken, in seiner Besonderheit, øder in seinen einzelnen Offenbarungsformen, und zwar in jeder einzelnen derselben, insbesondere jene Beschränktheit, aus.
+
+Unter allen möglichen einzelnen Offenba rungsformen des menschlichen Denkens in seiner Besondernheit, sind aber die Hauptformen : Gemüth, Bernunft, Bewußtseyn , Wille.
+
+Das Denken überhaupt ist Gemüth , sofern es sich hauptsächlich als in der Anschauung befindlich erfaßt ;. Vernunft , wenn es sich seiner selbst vorzugsweise als erkennend und begreifend bewußt ist ; Bewußtseyn, wiefern es ein sich seiner selbst inne gewordenes Denken ist, und sich ein des Innewerdens seiner selbst , ja des Denkens überhaupt unfähiges entgegenseßt ; Wille endlich , wiefern es sich als klar und entschieden bestimmte Absicht, sich irgend ein Object als Zweck zu sehen deutlich erkennt.
+
+Nun ist das mensch [p. 120] liche Denken im Gemüthe beschränkt , weil es das ihm ursprünglich und unmittelbar gegebene, allumfassende Urerkennen , oder Ahnen , nicht als solches durchweg klar in sich zu erkennen vermag , oder keiner totalen Anschauung , keines Durchschauens fähig ist ; in der Vernunft, weil es nicht blos nicht Alles, sondern selbst nicht einmal das Meiste, erkennt und begreift ; im Bewußtseyn, weil es kein unmittelbares , rein zeitloses Inneseyn feiner selbst, sammt Grund und Zweck , sondern nur ein mittelbares , bedingtes und zeitliches Innewerden seiner selbst ist , und im Willen endlich , weil es in Setzung eines Objects als Zweck nicht schlechthin von der reinen Vernunft in sich, sondern auch von Leidenschaften , Begierden, Frrthümern und Schein aller Art bestimmt und bedingt wird .
+
+Wenn also das göttliche Denken auch in diesen vier Hauptformen sich ausspricht, so wird seine Schrankenlosigkeit als Gemüth darin gegeben seyn , daß es die totale Anschauung hat, oder durchschaut ; als Vernunft darin , daß es Alles erkennt und begreift ;
+
+Bewußtseyn darin , daß es ein unmittelbares, ursprüngliches , unbedingtes und rein zeitloses Inpeseyn seiner selbst und damit zugleich des Alls , sammt Grund und Zweck ist ; als Wille endlich darin , daß es in Setzung eines Objects , als Zweck , blos von der reinen Vernunft in sich bedingt und bestimmt wird.
+
+Dies schrankenlose
+
+Denken im Allgemeinen , wie im Besondern , kann nur dem Urgrunde der Dinge zukommen , der nämlich , seiner Natur nach, nothwendig durchweg schlechthin unbedingt und unbedingbar, oder vollkommen an sich ist, der ferner, als Urgrund , nicht blos in sich , sondern nothwendig schlechthin in sich selbst genügsam seyn muß, der [p. 121] schlechthin keines Andern in keiner Hinsicht , weder zur Begründung seines Daseyns und Wirkens , noch zu sein ner Vervollständigung , Ergänzung , oder Entwickelung bedürftig seyn kann , weil er sonst nicht das All in aller Hinsicht vollständig und genüglich begründen könnte, was Einer nothwendig begründen muß , und nur Einer begründen kann. Dinge.
+
+Es gibt also nur Einen Urgrund der
+
+Gesetzt es gäbe deren mehrere , so könnten entweder alle Wesen gleichsam Urgründe , oder nur Einige könnten es seyn, d. i. jedes könnte ohne Ausnahme rein in, aus und durch sich in seinem Daseyn und Wirken begründet seyn, oder alle übrigen wären in ihrem Daseyn und Wirken durch, aus und in Einigen begründet. In jenem Falle würden also unendlich viele Götter seyn, und eben um deswillen, weil jeder schlechthin innerlich selbst genügsam wäre , folglich keines Andern in keiner Hinsicht bedürfte, keiner mehr nöthig haben, Urgrund der Dinge zu seyn , noch auch es seyn können : in diesem würde es viele Götter , und viele Grundursachen der Dinge geben. Wären alle Wesen ohne Ausnahme Götter, wäre mithin jedes schlechthin inuerlich selbstgenügsam, oder schrankenlos, so müßte auch jedes nicht blos schrankenloses Denken , sonst auch schrankenloses Leben in sich haben, weil es nur unter dieser Vorausseßung rein innerlich selbstgenügsam , oder keines Andern in keiner Hinsicht bedürftig ist : ist nun eine nothwendige , objectiv reale Eigenschaft von der Wesenheit eines jeden schlechthin innerlich
+
+Selbstgenügsamen , oder Schrankenlosen, schrankenloses Leben , so muß es auch diesem vollständig genügen , oder sich in einem Unendlichen , Allebendigen offenbaren , in dem nothwendig alles mögliche. Daseyn [p. 122] enthalten seyn muß, folglich auch das Daseyn aller übrigen, die mithin von jenem Einem in ihrem Daseyn begründet, also innerlich selbst ungenügsam , oder bedingt wären , was aber unmöglich ist , da sie , nach dieser Vorausseßung, ebenfalls schlechthin innerlich selbstgenüg fam , oder absolut unbedingt unbedingbar seyn sollen. Da nun gleichwohl das Bedingtwerden Aller , und eines jeden insbesondere , eine nothwendige Folge vom schrankenlosen Leben ist, aus dem nothwendig eines jeden Wesenheit mitbesteht, und die Begriffe der Bedingt werdens , oder der
+
+Bedingbarkeit , und des absoluten
+
+Unmöglichkeit des Bedingtwerdens , oder der Unbedingbarkeit , contradictorisch einander entgegengesezte sind, also nicht neben und mit einander bestehen können, sondern einander gegenseitig nothwendig aufheben und vernichten , so können unmöglich alle zugleich und ohne Ausnahme schlechthin innerlich selbstgenügsam , oder absolut unbedingt und unbedingbar seyn.
+
+Dasselbe gilt, auch wenn wir die Eigenschaft des Lebens nicht berücksichtigen , sondern blos das Denken : denn ein Denken, völlig losgetrennt von allem Darstellungs- und Entwikkelungstriebe , oder Leben , ist ein leerer , nichtiger , ungedenkbarer Begriff; jedes Denken hat nothwendig Leben in sich. Das schrankenlose Denken muß mithin auch Leben in sich haben , und zwar schrankenloses.
+
+Denn ist es schrankenloses Denken , so muß es seiner Natur vollständig genügen , folglich sich als schrankenloses darstellen und offenbaren können , wozu es mithin die Fähigkeit, d. i. eben schrankenloses Leben, in sich haben muß, und hat es dies in sich , so muß es , seiner Natur vollständig [p. 123] zu genügen , das Unendliche, Allebendige in und aus sich darstellen , worin alles mögliche Daseyn nothwendig sich gegeben und dargestellt findet.
+
+Hat demnach jedes Wesen ohne Ausnahme schrankenloses Denken und unmittelbar in diesem schrankenloses Leben , so muß es alles Daseyn nothwendig in und aus sich darstellen , was aber unmöglich ist , wenn jedes ein schrankenloses, und somit undarstellbares in sich selbst ist , und folglich können nicht Alle ohne Ausnahme schlechthin schrankenlos, oder unbedingt und unbedingbar seyn.
+
+Aus denselben
+
+Gründen können es aber auch nicht Einige seyn.
+
+· Da nun auch nicht Alle beschränkt , bedingt und bedingbar seyn können , weil sie sonst gar nicht bestehen könnten, und gleichwohl ein beschränktes , bedingtes und bedingbares All besteht , schrankenloses , so muß nothwendig ein schlechthin unbedingtes und unbedingbares Wesen seyn , in und aus dem es besteht , aber auch nur eins.
+
+§. 85.
+
+Gott als Leben.
+
+Leben, ganz allgemein genommen , ist die Nothwendigkeit , aus sich herauszugehen , Etwas als außer sich darzustellen :
+
+Leben ist also auch Offenbarungs-,
+
+Entwicklungs- , Darstellungstrieb.
+
+Dieser ist unendlich , oder schrankenlos , in wiefern er in der Zeit gar nicht vollständig befriedigt werden kann :
+
+er ist schlechthin unbedingt und unbedingbar , in wiefern er überhaupt nicht erst noch befriedigt zu werden braucht, sondern vielmehr schon als völlig befriedigt, und einer Befriedigung gar nicht mehr fähig , noch bedürftig , gedacht ist, folglich nicht mehr Nothwendigkeit zur Befriedigung , oder Trieb ist , sondern in sich vollendete und [p. 124] ruhende Eigenschaft : jener seht noch Nicht- Vorhandenseyn , also Entstehen', Anfang , (Bezüglichkeit , diese absolutes Vorhandenseyn , folglich Unbezüglichkeit wesentlich voraus.
+
+Das Leben , als absolutes Vorhandenseyn, folglich als Vollendung , als Handlung schlechthin, oder als Eigenschaft gedacht , ist im eigentlichen Sinne Leben ; das Leben hingegen , sofern es ein noch NichtVorhandenseyn , also als im Entstehen , oder in der
+
+Vollendung erst begriffen , als ein Handeln , oder als
+
+Trieb betrachtet wird , ist im engern Sinne Materie, Ausdehnung , und wenn es in einer einzelnen , be stimmt gegebenen
+
+Körper.
+
+abgegränzten
+
+Form erscheint,
+
+Materie, Ausdehnung, Körper sind nur etwas
+
+Subjectiv- Reales, da in ihnen das Bedingte unvermeidlich ein bloßes zunächst vernunftloses Thätigseyn erfaßt, das scheinbar anfängt endet , aber nie und nirgends schlechthin aufhört und vollendet ist, mithin unaufhörlich und ununterbrochen in der Vollendung, oder im Handeln und Thätigseyn, also im Werden begriffen bleibt. Aber auch diese hat nur eine bedingte und bezügliche, obgleich unvermeidliche Geltung für ein bedingtes, in einem mittelbar sich seiner selbst inne werdenden oder bewußten Denken ; befangenes Erkennen ist mithin lediglich sub. jectiv - real :
+
+denn für das unendliche , unmittelbar und zeitlos sich seiner selbst und aller Dinge , sammt Zweck und Grund, inneseyende Denken Gottes, kann nichts mehr noch erst in der Vollendung , oder im Handeln und
+
+Werden begriffen seyn, sondern Alles wird unmittelbar vollendet und begründet , oder schlechthin seyend gegeben seyn müssen :
+
+das Werden also hat für die Wesen, als solche, keine Bedeutung , noch Geltung, ist folglich nichts
+
+[p. 125] Objectiv- Reales .
+
+Nur in Bezug zu der besondern Art des Erkennens und Begreifens in dem bestimmt gegebenen , besonders bedingten Wesen , Mensch genannt, hat es eine bedingte Geltung und Nothwendigkeit.
+
+Dieser wird nämlich nicht umhin können, zu unterscheiden zwischen Leben, in wiefern es von der Wesenheit der Wesen mit eine Eigenschaft ausmacht , oder die Fähigkeit und Möglichkeit in dieser ist sich als etwas in sich selbstständig und unabhängig bestehendes darzustellen und zu behaupten , und Leben , in wiefern es in den Dingen des Sinnlich - Wahrnehmbaren, sofern sie sichtlich keine Fähigkeit zum Erkennen zeigen , die Möglichkeit ,
+
+Fähigkeit zum Thätigseyn , oder Handeln , zu jenem Entwickeln und Vollenden ist , in welchem sie sich begriffen zeigen , welches jedoch offenbar nur ein blos formaler Unterschied ist.
+
+In wiefern nun Gott der Urgrund all der unendlich vielen Wesen , ihrem Daseyn nach , ist, muß seine Wesenheit ein rein unbedingtes und unbedingbares Leben als Eigenschaft nothwendig in sich haben, und inwiefern dies die Summe alles Thätigseyns und Handelns in all diesen unendlich vielen Wesen genüglich und vollständig soll begründen können , muß es nothwendig unendlich , unerschöpflich und unersättlich seyn , und ist es das , begründet es nothwendig in , durch und aus sich das Unendliche, alles Daseyende in sich befassende, Aulebendige : nichts ist , was außer ihm seyn könnte, und alles, was in ihm ist, ist nothwendig innerlich selbst ungenügsam , bedingt und bedingbar , kann mithin nicht Urgrund der Dinge seyn , und folglich kann es nur in Einem ein allgenugsames , allbegründendes Leben geben , dies Eine kann möglicher Weise und nur
+
+Urgrund der Dinge [p. 126] seyn , und ist es nothwendig allein.
+
+Auch kann nur
+
+Eines Alles leisten , und muß es zugleich , Darstellung , Ergänzung , was zur
+
+Vervollständigung und Entwickelung des einen einzig möglichen Alls nothwendig
+
+Denn könnten es Mehrere , so sind zweierlei Fälle gedenkbar :
+
+entweder Alle könnten auf gleiche Weise dasselbe thun , und wollten es, oder könnten und wollten es nicht.
+
+In diesem Falle wären mithin diejenigen , die nicht Alles , was zur Darstellung , Ergänzung , Vervollständigung ,
+
+Entwickelung des einen Alls nothwendig wäre, thun könnten , oder wollten , in Bezug zu denen, die Alles dazu nöthige thun könnten oder wollten , unvollkommner , folglich selbst der Ergänzung und Vervollständigung bedürftig , mithin nicht mehr schlechthin innerlich selbst genügsam , oder unbedingt und unbedingbar , und somit auch nicht mehr absolut Erstes , Urgrund der Dinge :
+
+wären aber auch Alle gleich vollkommen , könnten und wollten also alle Alles dazu nöthige thun , so sezt dies , da nur eine Alheit gedenkbar ist, seiner Möglichkeit nach ein gemeinsames Zusammenwirken , folglich eine wechselseitige Verbindung der Vielen unter einander wesentlich voraus :
+
+Viele können aber nicht in Verbindung unter einander stehen , wenn keine Beziehung unter ihnen Statt finden kann : Beziehung , ihrer Möglichkeit nach , nun sezt
+
+Bedingtheit und
+
+Bedingbarkeit voraus ; die schlechthin Vollkommenen sind jedoch absolut unbedingt und unbedingbar , können folglich nicht in Beziehung zu einander stehen , also auch nichts Gemeinschaftliches mit einander ausführen , und mithin können auch nicht Alle gleichmäßig vollkommen an sich seyn, und sind somit auch nicht fähig , Alles zur
+
+[p. 127] Darstellung,
+
+Ergänzung ,
+
+Vervollständigung und Entwickelung des Als nöthige thun zu wollen und zu können , und ein All ist nur möglich , folglich kann nur
+
+Eins das Vollkommene an sich seyn , oder Alles zu seiner Darstellung und Begründung nöthige zu thun, den Willen und die Fähigkeit haben.
+
+Auf diesem Wege sind wir nun dahin gekommen , einen deutlichen und vollständigen Begriff vom schrankenlosen Denken , wie vom schrankenlosen Leben Gottes , und von allem, was damit nothwendig zusammenhängt , zu erhalten : aber eine vollständige und deutliche Anschauung von der göttlichen Wesenheit, ihrer objectiv F reellen Beschaffenheit nach , haben wir noch immer nicht.
+
+Eine solche erhalten wir inzwischen auch nicht auf dem formellen Wege , der sie uns immer als Stückwerk , als ein bloßes , loses Zusammen gibt, und da wir gleichwohl einer solchen nothwendig bedürfen, müssen wir zum Reellen übergehen, indem wir nur in der Anschauung die göttliche Wesenheit als das erfassen können , was sie ihrer objectiv reellen Natur nach ist, d. i. als Einerleiigkeit oder Totalität. §.
+
+86.
+
+Gott als Einerleiigkeit oder Totalität. In der Anschauung erhält man die unmittelbar als vollendet gegebene deutliche Erkenntniß von der objectiv reellen Beschaffenheit einer Sache , d. i. derjenigen , die ihr an und für sich, abgesehen von allem Erkennen und Begreifen , zukömmt ; im Bewußtseyn lediglich die sich mittelbar vollendende deutliche Erkenntniß von dem sub jectiv reellen Zustande einer Sache, d. i . von demjenigen, den sie lediglich beziehungsweise , und unter Vorausseßung [p. 128] einer besondern Art des Erkennens einer bestimmt gegebenen vernunftfähigen Einzelnheishat.
+
+Fu föfern nun diese bestimmt gegebene vernunftfähige Einzelnheit , oder der Mensch , naturgemäß der desøndern Art des Erkennens , die ihm gewöhnlich ist, folgt, erhält er in den Gedanken und Begriffen die erst mittelbar sich vollendenden Erkenntnisse , in wiefern er sich dagegen ausnahmsweise mittelst einer außerordentlichen Anstrengung zum Standpunkte der Reflexion , oder der Anschauung erhebt , hat er in der Idee die unmittelbar als vollendet gegebene Erkenntniß.
+
+Daß nun die göttliche Wesenheit, in wiefern sie das All genüglich und vollständig in und aus sich darstellen und begründen soll, aus Vernunft und Leben bestehen müsse , daß beide der im Empirisch -Bestimmbaren erscheinenden Vernunft, und dem darin sich zeigenden Leben einigermaßen ähnlich seyn müssen , läßt sich bereits mit Nothwendigkeit erkennen, auch wenn man die göttliche Wesenheit nur in Gedanken und Begriff erfaßt ; wie sie aber in ihr enthalten sind , läßt sich so keinesweges bestimmen , was gleichwohl nothwendig `bestimmt werden muß :
+
+dies läßt sich nur in der ursprünglich und unmittelbar als vollendet gegebenen Erkenntniß bestimmen , welches die Idee ist, und folglich muß man aus der Sphäre des bloßen Gedankens und Begriffs zur Idee fortschreiten. Denn bleibt man in der Sphäre des bloßen Gedankens und Begriffs, so könnte man in der göttlichen Wesenheit Vernunft und Leben als blos zusammen , neben und miteinander erfassen , so , daß die göttliche Wesenheit gleichsam aus zwei verschiedenen Theilen bestände , die blos mit einander verbunden , und durch einander bedingt eine Zweiheit [p. 129] ergäben , was unmöglich ist :
+
+denn das wären zwei
+
+Grundursachen , die gemeinsam ein und eben dasselbe All in und aus sich darstellten und begründeten.
+
+Nun kann es aber weder zwei Grundursachen geben , noch könnten sie aus schon bekannten Gründen in Gemeinschaft mit einander wirken , sondern nur eine ist gedenkbar , in deren Wesenheit folglich die beiden Eigenschaften von Vernunft und Leben seyn müssen , weil sie thatsächlich im All sind , aber nicht zusammen , oder nur neben und mit einander , sondern schlechthin untrennbar. einerleiig.
+
+Aber die mittelbar sich vollendende , zeitliche und successive Erkenntniß im Gedankenfund Be griff gibt immer nur ein bloßes Zusammen , Mit- und Nebeneinander, folglich ein Verschiedenes und Zweifaches ; das Einige, Einerleiige, das Totale, oder Ineinander wird sich nur in einer ursprünglich und unmittelbar als vollendet gegebenen , mithin zeitlosen und simultanen Erkenntniß erfassen lassen , d . i. in der Idee.
+
+Demnach muß man, die objectiv - reale Beschaffenheit der göttlichen Wesenheit zu erfassen , aus der Sphäre des Mittelbaren im Gedanken und Begriff zur Sphäre des Unmittelbaren in der Idee mit unendlicher Nothwendigkeit fortschreiten : dazu gehört aber eine außerordentliche
+
+Anstrengung und Thätigkeit , unserer Bedingtheit , die wir , in Gemäßheit weder anhaltend und ununterbrochen fortseßen , noch aushalten können , vielmehr müssen wir immer wieder von neuem aus dem ungewöhnlichen Standpunkte der Reflexion , oder des Unmittelbaren , zu dem uns gewöhnlichen und natürlichen des Mittelbaren zurückkehren , also die Idee in Gedanken und Begriffe überseßen. Die Gedanken und Begriffe sind also gleichsam [p. 130] die unvollständigen
+
+Abbilder von der Idee und dem in ihr allein erkennbaren Objectiv - Realen.
+
+Aber die
+
+Idee läßt sich nicht unmittelbar als solche , sondern blos durch Vermittlung der Gedanken und Begriffe wiedergeben , und muß dadurch wiedergegeben werden.
+
+unsere Erkenntniß von der göttlichen Wesenheit , ihrer objectiv - realen Beschaffenheit nach, ist zwar ursprünglich und unmittelbar als vollendet und unzweifelhaft gewiß gegeben , so daß sie eines Beweises nicht fähig, noch bedürftig ist , und ist um eben deswillen Idee , oder Anschauung im weitern Sinne , aber sie ist nicht zugleich anmittelbar als deutliche , bestimmte und klare Erkennt niß , oder als Anschauung im engern Sinne , als eigentliches Wissen gegeben, sondern muß dazu erst mittelbar erhoben, folglich erörtert , also beschrieben werden , was einzig durch Anwendung der Gedanken und Begriffe möglich ist.
+
+Zwar erfassen wir in der Idee die göttliche
+
+Wesenheit als eine solche, die alles Begreifen und alles Daseyn im Al zugleich in und aus sich begründen kann : aber schon hierin machen wir unvermeidlich und unwillkührlich einen Unterschied zwischen Begreifen und Daseyn , den wir durch bestimmte anerzogene und angewöhnte Redeformeln zu bezeichnen nicht umhin können, und wollten wir auch diesen zu machen vermeiden, wird es ganz unmöglich das undeutlich und schwankend in der Idee erfaßte in einer deutlichen , bestimmten und klaren Anschauung wiederzugeben , die doch Noth thut, wofern wir unsere Aufgabe lösen , d. i. das AU in der bestimmten und besondern Wesenheit , wie wir sie in und an ihm erkennen , aus der Wesenheit eines absolut Ersten, oder Gottes, mit Nothwendigkeit erklären wollen :
+
+[p. 131] dazu reicht offenbar eine höchst unbestimmte , allge.
+
+meine und schwankende Erklärung, etwa in der Art, nicht hin : Gott ist ein rein beziehungsloses Etwas , welches das , was die Einzelnheit von ihrem Standpunkte aus in sich, wie im All, mit Nothwendigkeit erkennen und unterscheiden muß , in sich auch nothwendig enthält, aber so , daß es für seinen Standpunkt des Erkennens nichts verschiedenes , noch geschiedenes , .sondern ein und eben dasselbe, also einerleiig ist. Den zur Lösung unserer Aufgabe nöthigen , deutlichen und klaren bestimmten ,
+
+Begriff finden wir nun in der von uns gegebenen Erklärung : Gott ist das unendliche Vernunftleben. Einmal nämlich schließt die Bezeichnung „ unendlich" alle Bezüg lichkeit, und somit Bedingtheit und Bedingbarkeit, als in der göttlichen Wesenheit völlig unmöglich, aus , und zweitens deutet die Bezeichnung „ Vernunftleben “ das Enthaltenseyn der zwei Seiten, oder Richtungen, von
+
+Vernunft und Leben in der göttlichen Wesenheit an, A jedoch nicht als zwei verschiedene, und geschiedene , wie wir sie, von unserm Standpunkte des Erkennens aus, in uns , wie im A¤ , zunächst erkennen und unterscheiden müssen , sondern als schlechthin eins , einig , einerleiig, bezeichnet mithin die göttliche Wesenheit als das , was sie , ihrer objectiv - reellen Beschaffenheit nach , ist, d. i. als Totalität , und nicht als das , was sie zunächst unvermeidlich blos für uns auf eine subjectiv - reelle Weise ist , d. i. als Inbegriff.
+
+Einleuchtend ist zugleich, daß sie nur unter dieser Vorausseßung ein AU in aller Hinsicht genüglich in und aus sich begründen kann, was thatfachlich Vernunft und Leben zugleich in sich enthält. Ferner ist durch diese Anschauung auch der Unterschied [p. 132] awischen Freiheit und Nothwendigkeit , den wir , von unserm gewöhnlichen Standpunkte des Erkennens aus . gehend, zunächst unvermeidlich machen müssen , aufgehoben, und Freiheit und Nothwendigkeit zu einer Einerleiigkeit verschmolzen , die wir Gefeßmäßigkeit nennen , und von der in der Folge weitläuftiger gehandelt werden wird : hier bemerken wir davon vorläufig , daß, in wiefern wir von unserm gewöhnlichen Standpunkte des Erkennens aus zunächst unvermeidlich zwischen Vernunft und Leben , oder Denken und Materie , unterscheiden müssen , Freiheit , Character des Vernünftigen, oder Denkenden , Nothwendigkeit , Character des Lebens, oder der Materie ist , da es im Begriff der Vernunft liegt, daß sie , als eine Fähigkeit des Begreifens , sich zum Handeln freithätig entschließen kann , im Begriff des Lebens , oder der Materie dagegen , daß sie , als eine Unfähigkeit des Begreifens , durch einen innern , unwiderstehlichen Trieb zu einem blinden Wirken mit unendDemnach muß, licher Nothwendigkeit bestimmt wird. in wiefern
+
+Vernunft und Leben im ungewöhnlichen
+
+Standpunkte der Reflexion ein Ineinander , oder eine
+
+Einerleiigkeit sind , die Freiheit von der Nothwendigkeit, und diese von jener modificirt seyn , so , daß die Vernunft unmittelbar in ihrem Beschließen und Wollen auf das in ihrer Wesenheit enthaltene Leben durchweg Nückficht nimmt , ohne sich davon bestimmen zu lassen , und dieses unmittelbar in seinem Wirken durchweg durch das Beschließen und Wollen von jener bestimmt wird .
+
+Obschon wir nun zu einer deutlichen und klaren Erkenntniß von der göttlichen Wesenheit, ihrer objectiv - reellen Beschaffenheit nach , gekommen sind , so bleibt doch , für [p. 133] noch ein Hauptpunkt zu die Lösung unserer Aufgabe , bestimmen übrig ; nämlich zu erkennen , wie Gott im All sich darstellen kann , ohne bedingt und bezüglich zu wer den : denn da das All, und noch mehr dessen einzelne Glieder, unzweifelhaft bezüglich und bedingt sind , und sich Gott in ihnen darstellt , so scheint es unvermeidlich, daß Gott selbst bezüglich , und somit bedingt werden Diese Schwierigkeit zu müsse, was doch unmöglich ist.
+
+lösen , müssen wir eine Reihe von schwierigen Untersuchungen anstellen , die nun folgen.
+
+Uebrigens bedarf es nur eines Vergleichs zwischen dem , was] über Spinoza in §. 69. bis 75. von uns angedeutet ist , und dem eben Auseinandergeseßten , um die Verschiedenheit beider Anschauungen , einem flüchtigen die nur bei
+
+Anblick
+
+Aehnlichkeit mit einander zu haben scheinen können, deut lich und bestimmt zu erkennen.
+
+§. 87.
+
+Lehre vom Seyn.
+
+Durch den Ausdruck „ Seyn " wird theils ein anderer Gedanke und Begriff bezeichnet , theils wird er selbst als Begriff gebraucht , und ist in jenem Falle von realer, oder metaphysischer Geltung , da er sich auf eine Eigenschaft der Dinge bezieht , die wir entweder willkührlich, oder nothwendig in und an ihnen vorausseßen , in diesem von formeller , oder logischer Bedeutung , da der Begriff blos als solcher ein formeller ist , und somit der Disciplin des Formellen , oder des bloßen Begriffs , d. i. der Logik, wesentlich angehört.
+
+Wir müssen den Begriff zunächst blos als solchen , mithin lediglich formell , oder Logisch erörtern. + Der Begriff Seyn , blos als solcher [p. 134] gedacht, kann , wie alle Begriffe, von blos formeller, oder logischer Geltung , seinem Ursprunge , seinem Umfange , seinem Inhalte und seiner Bedeutung nach, erwogen werden.
+
+Ihrem Ursprunge nach sind alle logische Begriffe unmittelbare und mittelbare , und diese sind wieder entweder willkürliche , oder gegebene ; ihrem Umfange nach sind sie unendliche und endliche; ihrem Inhalte nach mögliche, wahr. scheinliche, gewisse , unvermeidliche , noth wendige, und ihrer Bedeutung nach zusammenge. feßte , einfache, inhaltvolle, leere.
+
+Der Begriff Seyn nun , in wiefern die eben angegebene Ordnung und Eintheilung auch für ihn gültig ist , ist seinem Ursprunge nach ein mittelbar gegebener, seinem Umfange nach , ein unendlicher , seinem Inhalte nach', ein unvermeidlicher , und seiner Bedeutung nach , ein und zugleich leerer.
+
+einfacher
+
+Begriffe srrechen ferner theils ein unvollständiges Urtheil aus , theils bezeichnen sie ein bloßes Gefühl, eine bloße Empfindung , die entweder eine rein individuelle und subjective , oder eine objectiv. individuelle ist , d. i. die entweder nur in Bezug zu einer bestimmt gegebenen Einzelnheit und deren Eigenthümlichkeit, oder Individualität gilt , also, ihrer Bedeutung nach, schlechthin unbeschreibbar ist, oder die in Bezug auf eine gewisse allgemein gültige Empfindungsweise eines ganzen Inbegriffs von bestimmt gegebenen Individuen, oder einer ganzen Wesengattung , Geltung hat, folglich beschreibbar ist.
+
+Im Begriff Seyn spricht sich nun eine solche rein individuelle und subjective , mithin schlechthin unbeschreibbare Empfindung aus. Im Grunde sind wir uns des Anfangs dieses Begriffs nicht recht [p. 135] deutlich bewußt : denn er ist uns nicht sowohl deutlicher · und bestimmter Begriff, als vielmehr die unbestimmte und schwankende Bezeichnung für eine gewisse Empfindungsweise, die in uns das Sinnlich - Wahrnehmbare veranlaßt, und die wir unbekümmert und unbefangen aussprechen, ohne uns zunächst um deren wahre Bedeutung , oder deren eigentlichen Ursprung weiter zu bekümmern.
+
+Dies scheint aber im Widerspruch mit dem oben
+
+Gesagten zu stehen , dem gemäß dieser Begriff ein mittelbar gegebener, seinem Ursprunge nach, ist , ein Saz, der in dieser Unbedingtheit ausgesprochen , nothwendig vorausseßt, daß wir uns des Entstehens desselben deutlich bewußt worden sind , dem der zweite , eben so unbedingt ausgesprochene Sak , dem gemäß wir uns seines Anfangs nicht deutlich bewußt sind , contradictorisch entgegen zu stehen scheint, aber auch nur scheint.
+
+es muß in dialectischer Hinsicht zwischen Ursprung und Anfang unterschieden werden.
+
+Anfang ist das bezügliche
+
+Vorhandenseyn oder Erscheinen eines Dinges in Bezug auf Raum und Zeit für unser Wahrnehmen : Ursprung Das absolute Entstehen Raum und Zeit , eines Dinges , abgesehen von und unserm Erkennen und Wahrnehmen, durch einen Urgrund , zu erkennen , daß die Wesen als Erscheinungen , oder Dinge , einen Anfang haben, oder als vorhanden in Zeit und Raum von uns erfaßt werden, worin wir sie zuvor nicht erfaßten , dazu reicht das bloße Fühlen und Empfinden hin : Erkenntniß zu gelangen , aber um zur daß die Wesen rein , solche, einen Ursprung haben , d. i. innerlich selbst ungenügsam ihrem Daseyn nach durch einen innerlich schlechthin selbstgenügsamen Urgrund der Dinge nothwendig [p. 136] gegeben sind , seßt Reflexion , und somit deutliches Bewußtseyn wesentlich voraus .
+
+Also widersprechen die beiden von uns auf gleich unbedingte Weise ausgesprochene Säße : „ Der Begriff Seyu ist seinem Ursprunge nach ein mittelbar gegebener" , und unser Erkennen ist sich des Anfangs dieses Begriffs nicht recht deutlich bewußt, einander nicht : denn erst in der Reflexion, also unter Vorausseßung des deutlichen Bewußtseyns , läßt sich die Art und Weise seines Entstehens , d . i. sein Ursprung ausmitteln , während sein erstes Vorhandenseyn für unser inneres Wahrnehmen , also sein Anfang , in einem dunkeln Gefühle , in einer bloßen Empfindung, und nicht in einem deutlichen Bewußtseyn gegeben ist. Der Begriff Seyn ist ferner seinem Ursprunge , wie seinem Anfange nach, in einer Empfindungsweise, einer ganzen Wesengattung als allgemein gültig gegeben, und dennoch zugleich blos individuell, oder subjectiv , sorglich nicht beschreibbar.
+
+Denn obschon die Empfindungsweise.
+
+aus der er entspringt, für alle Individuen eiher bestimmten Wesengattung eine allgemeine Geltung hat , er selbst also ein objectiv - individueller , und somit beschreibbarer scheint , so ist doch diese Empfindungsweise eben so unendlich mannichfach und verschieden , als die Individuen, die ihrer fähig sind , selbstzunendlich mannichfach und verschieden sind , und folglich ist dieser Begriff, der sich seiner eigentlichen Bedeutung nach , nach der Art, wie jedes Individuum der Gattung , jene der Gattung eigene allgemeine Empfindungsweise, auf ihre eigene und individuelle Weise , in sich hat , nothwendig bestimmen muß , ein blos subjectiv - individueller , oder rein unbe schreibbar.
+
+Der Begriff Seyn läßt sich demnach nicht [p. 137] erörtern , sondern nur einfach aussprechen , wobei es also dem Andern überlassen bleibt , welche Bedeutung er ihm , und ob er überhaupt ihm eine Bedeutung geben: wolle , und folglich ist dieser Begriff darin den , die einfach sinnlichen Empfindungen des Schmeckens , Sehens, Riechens ,
+
+Hörens , Fühlens bezeichnenden ,
+
+Begriffen vergleichbar : auch diese haben für alle Individuen einer gewissen bestimmt gegebenen Gattung sinnlich empfinden. der Wesen einen allgemein gültigen Sinn , und dennoch auch wieder für jedes Individuum , insbesondere ihre eigene , besondere und verschiedene Bedeutung , die keins dem andern verdeutlichen und genau wiedergeben kann, obschon alle ungefähr und im Augemeinen dieselbe damit verknüpfen.
+
+Endlich ist der Begriff Seyn seiner Bedeutung nach ein leerer , der an und für sich gar nicht gebraucht werden kann , sondern einen andern zu seiner Ergänzung nothwendig vorausseßt, oder nach sich zieht, ist mithin ein nothwendiger Beziehungsbe griff, was sich schon im bloßen Sprachgebrauch zu erkennen gibt , wo er nie absolut , sondern stets bezüglich gebraucht wird., hungsbegriffe,
+
+Im Grunde sind alle Begriffe Bezieindem sie einerseits ein Denken , dessen
+
+Aeußerungen sie sind, vorausseßen , anderseits ein Object haben, das durch sie gedacht wird , also das Gedachte ist, und der Begriff ist gleichsam das Zeichen , ihn Gedachte die Sache.
+
+das durch
+
+Bei den meisten nun können
+
+Zeichen und Sache, Begriff und Begriffenes ,
+
+Subject und Object, mit einander zur Einheit verschmolzen bleiben , und zusammen das Prädicat ausmachen , zu dem das Denken das Subject ist , und sind in diesem Falle nur bloße Beziehungsbegriffe : bei einigen dagegen, muß, [p. 138] ihrer Natur wegen , die Verschmelzung zwischen Zeichen und Sache ,
+
+Begriff und Begriffenem ,
+
+Subject und
+
+Object aufgehoben , und beide als verschieden von einander gesezt werden , ohne daß sie um deswillen ohne einander bestehen könnten , sondern zu einander gehören, so, daß der Begriff zum Begriffenen , oder dies zu jenem in das Verhältniß des Subjects zum Prädicat tritt, und sind alsdann nothwendige Beziehungsbegriffe.
+
+Daß nun der Begriff Seyn zu diesen nothwendigen Beziehungsbegriffen gehört , geht aus der Art und Weise seines Entstehend , oder seinem Ursprunge, am deutlichsten hervor. Denn er entsteht nothwendig aus einer gewissen , für alle Individuen einer bestimmten Wesengattung allgemein gültigen Empfindungsweise, die eine unvermeidliche Folge von dem Einwirken des Sinnlich - Wahrnehmbaren auf sie ist, welche alle Individuen dieser bestimmten sinnlich empfindenden , und mit eigenen Sinnenwerkzeugen begabten, Wesengattung nothwendig auf gleiche Weise haben und theilen müssen , also für alle von unbedingt allge meiner Geltung ist.
+
+Dennoch hängt die Art und Weise des sinnlichen Empfindens , oder des Eindrucks , den das Sinnlich - Wahrnehmbare auf jedes Individuum dieser Gattung machen kann , von der Organisation der Gefühls- und Empfindungswerkzeuge und der Sinnenwerkzeuge dieses Individuums ab :
+
+da nun diese eben so unendlich mannichfach und verschieden modificirt ist, als es die unendlich vielen Individuen der Gattung selbst, ihrer Natur und Wesenheit nach , sind , so wird jene für die Gattung allgemein gültige Empfindungsweise, welche die nothwendige Folge vom Eindruck des Sinnlich. Wahrnehmbaren auf sie ist , wieder eben so verschieden [p. 139] und mannichfach seyn, als die die Gattung ausmachenden Individuen hinsichtlich ihrer Fähigkeit vom Eindruck des Sinnlich- Wahrnehmbaren berührt zu werden , d. i. der Empfindsamkeit , mannichfach und verschieden orga nifirt sind , und folglich wird jene für die gesammte
+
+Gattung sinnlich - empfindender Wesen allgemein gültige Empfindungsweise auch zugleich eine blos subjective und individuelle , und somit unbeschreibbare seyn : denn da jedes Individuum jenen Eindruck , den das Sinnlich Wahrnehmbare auf ihn als ein sinnlich - empftudendes nothwendig machen muß , anders und verschieden , eigen und eigenthümlich auffaßt , so kann auch keines von feiner Empfindungsweise auf die Empfindungsweise des andern schließen , also auch nicht das , was und wie es empfunden hat , dem Andern genau und deutlich wiedergeben, obschon es weiß , daß für das andere ihm ähnlich organisirte Individuum die ähnliche Ursache eine ähnliche Erscheinung nothwendig zur Folge haben muß, oder daß das Sinnlich - Wahrnehmbare , in seiner noth wendigen Einwirkung auf dasselbe, in demselben eine der seinen ähnliche Empfindungsweise wird erregen müssen, die der Ausdruck Seyn bezeichnet, aber nur allgemein, unbestimmt und unvollständig , so daß noch ein anderer Gedanke , dessen leztes Glied gleichsam der Ausdruck Seyn ist, nothwendig hinzukommen muß, diese Empfin dungsweise bestimmt , vollständig und deutlich zu bezeich
+
+Diesen aufzufinden , müssen wir die Empfindungsweise, welche die nothwendige Folge vom Eindruck des Sinnlich - Wahrnehmbaren auf alle sinnlich - empfindende Individuen einer bestimmten Wesengattung ist, näher bezeichnen, und indem wir dies thun , gehen wir aus [p. 140] der blos formellen , oder logischen Erörterung des Begriffs Seyn zu seiner reellen , oder metaphysischen über, da nicht mehr unmittelbar der Begriff Seyn selbst, sondern der , den er mitttelbar nothwendig bezeichnet und nach sich zieht, gefunden und bestimmt werden soll. 88.
+
+§.
+
+Das Daseyn des Sinnlich - Wahrnehmbaren, welches bei allen sinnlich - empfindenden Individuen einer bestimmten Wesengattung eine gewisse Empfindungsweise nothwendig zur Folge hat , unzweifelhaft gewisse
+
+Thatsache , und bedarf als solche weder des Beweises, noch der Erörterung.
+
+Denn wir fühlen , daß Etwas außer uns sey, und feßen es demgemäß unbefangen, als außer uns , ohne daß es uns zunächst kümmerte , ob es Schein, Erscheinung , oder ein objectiv.reales Etwas in sich ist.
+
+Eine innerliche Nothwendigkeit treibt uns also dies Etwas nicht blos von uns zu trennen, sondern auch es als selbstständig und gesondert von uns, uns gegenüber zu stellen , diese Nothwendigkeit ist in einem innerlichen, unabweislichen Gefühle gegeben, dem zu entsprechen wir uns gedrungen fühlen , und das wir als wirklich befriedigt durch den Ausdruck Seyn bezeichnen.
+
+Dies Gefühl muß also feinen Grund in einem ganz eigenen Umstand in und an dem äußerlichen Schein haben , den wir unbestimmt und undeutlich fühlen , und mit jenem allgemeinen , höchst schwankenden und dunklen Begriff unbestimmt bezeichnen. Dieser Umstand ist offenbar, daß ein Sinnlich-Wahrnehmbares überhaupt erscheint, oder zu unserer Wahrnehmung und Erkenntniß gelangt, oder die Art und Weise, wie ein Sinnlich-Wahrnehmbares durch Raum und Zeit bedingt [p. 141] für uns zur Wahrnehmung , oder Erkenntniß gelangt. Da aber Raum und Zeit, wenn ein Sinnlich-Wahrnehmbares überhaupt für ein Bedingtes soll erscheinen , oder zur Wahrnehmung und Erkenntniß gelangen können, eben so wesentliche und nothwendige Grundbedingungen sind, als wenn ein bestimmtes und einzelnes Sinnlich - Wahrnehmbares für daselbe Erscheinung , oder wahrnehmbar und erkennbar werden soll, so könnte es gleichbedeutend scheinen, ob man den Ausdruck Seyn zur Bezeichnung jenes oder dieses Umstandes gebrauchen will , was jedoch keinesweges der Fall ist.
+
+Das Etwas, was sich einem bedingten, bestimmt gegebenen Wahrnehmenden, als äußerlich, oder verschieden und gesondert von ihm sich darstellen , ihm also erscheinen , oder von ihm wahrgenommen und erkannt werden soll , muß von ihm , in Gemäßheit seiner Bedingtheit, nothwendig unter die Bedingung des irgendwo und irgendwenn , d . i. von Raum und Zeit überhaupt gestellt werden , obschon es seinem in sich vom Wahrnehmenden und dessen Bedingtheit unabhängigen und selbstständigen Vorhandenseyn nach, nicht von diesen Bedingungen abhängt, die nur Bedingungen für dasselbe sind , in wiefern es möglicher Weise ein bezüg liches Vorhandenseyn für das Wahrnehmen oder Erkennen eines bedingten, bestimmt gegebenen Wahrnehmenden erhalten soll.
+
+Allein das äußerliche Etwas ist nicht blos unter die Bedingung des irgendwo und irgendwenn überhaupt durch unser Wahrnehmen gestellt , oder blos ein Sinnlich-Wahrnehmbares und Erkennbares, sondern ist auch für unser Wahrnehmen eine Reihe von vielen und verschiedenen äußerlichen Etwas, oder Erscheinungen und Dingen, die auch unter die Bedingungen des irgendwo [p. 142] und irgendwenn , oder von Raum und Zeit stehen, aber so, daß sie nicht blos davon abhängen , sondern selbstdadurch wesentlich bestimmt sind. Denn daß eine äußer liche , aus unendlich vielen bestehende Ganzheit, vorhanden ist, hängt von keinem Wahrnehmen und Erkennen ab, eben so wenig wie das Vorhandenseyn eines jeden einzelnen von diesen unendlich vielen Aeußerlichen davon abhängt. In wiefern aber diese äußerliche Ganzheit , als solche, ihrem Vorhandenseyn nach von einem bedingten, bestimmt gegebenen, vernunftfähigen Einzelnen soll erfaßt , oder wahrgenommen und erkannt werden können , hängt es nothwendig von den Bedingungen ab, an welche dieses in Gemäßheit seiner Bedingtheit , in seinem Erfassen und Erkennen unvermeidlich geknüpft ist : das bedingte und bestimmt gegebene vernunftfähige Einzelne, Mensch genannt ist , in seinem Erfassen und Erkennen zunächst unvermeidlich, in Gemäßheit seiner Bedingtheit, an Raum und Zeit gebunden, oder muß Alles irgendwo und irgendwenn erfassen , und folglich stellt es auch das Etwas, was ihm sein Gefühl als äußerlich und ihm gegenüber stehend seßt , unvermeidlich unter diese Bedingungen, und also ist das , was als Aeußerliches der besondern Art des Wahrnehmens von diesem bestimmt gegebenen Vernunftfähigen überhaupt gegenüber steht, in wiefern es für dies wahrnehmbar und somit erkennbar seyn soll, von diesen beiden Bedingungen abhängig, Denn dem Wahrnehmenden wird aber nicht bestimmt.
+
+es nun allerdings möglich, ein Aeußerliches als vorhanden zu erkennen, aber keinesweges bestimmt und deutlich zu erfassen , oder zu beschreiben ; vom äußerlichen Vorhandenseyn also, in wiefern es nur unter die beiden Bedingungen [p. 143] von Raum und Zeit überhaupt steht, läßt sich weiter nichts aussagen , als daß es vorhanden sey .
+
+wiefern sich dagegen das äußerliche Vorhandenseyn, als eine Reihe von vielen und verschiedenen äußerlich Vorhandenen und einem Wahrnehmenden gegenüber stehenden gliedern soll , sofern also von dem Wahrnehmenden viele einzelne und verschiedene äußerlich Vorhandene sollen erkannt werden können , müssen auch diese unter die Bedingungen , an die er in seinem Erfassen und Erkennen unvermeidlich geknüpft ist , stehen , d . i. unter Raum und Zeit ; offenbar aber können sie nicht blos unter diesen Bedingungen überhaupt stehen , oder nnr davon abhängig seyn , da sie in diesem Falle zwar erkennbar , aber nicht bestimmbar, noch beschreibbar wären, was sie nothwendig seyn müssen, wenn sie als einzelne von All der unendlich vielen andern verschiedene äußerlich Vorhandene , oder als Dinge erkannt sind, sondern sie müssen auf eine eigene und besondere Weise unter diesen Bedingungen stehen , oder dadurch sich be. stimmt finden, oder nicht nur in dem Frgendwo und Frgendwenn überhaupt, in einem bestimmten
+
+Irgendwo und Frgendwenn auf eine bestimmte Weise, oder irgendwie seyn : denn wenn es in jenem Falle nur möglich ist, zu bestimmen , daß ein Aeußerliches vorhanden sey , wird es in diesem möglich zu erkennen , wie und als was es vorhanden sey, und sich von andern äußerlich
+
+Borhandenen unterscheide.
+
+äußerlich
+
+Vorhandene, in wiefern es von einem Wahrnehmenden, als solches überhaupt erkannt, oder im Algemeinen unter die Bedingung des Irgendwo und Frgendwenn, oder von Raum und Zeit gestellt wird , das es mithin blos [p. 144] erkennen , oder von dem es lediglich das Vorhandenseyn prädiciren kann, ist das Erscheinende , oder Sinnlich-
+
+Wahrnehmbare überhaupt, und als solches schlechthin unbeschreibbar , obwohl erkennbar : das äußerlich Vorhandene , in wiefern es dagegen von einem Wahrneh menden, als solches, insbesondere erkannt, oder unter die Bedingungen des Irgendwo und Irgendwenn, d. i . von Raum und Zeit in ihrer Besonderheit , unter Ort und Moment gestellt wird , das es folglich nicht blos´erkennen , sondern auch bestimmen , von dem es mithin nicht nur sein Vorhandenseyn , auch die dasselbe characteresirende Eigenschaften und Merkmale , von de nen sich theils zeigen läßt , daß sie dem objectiv - realen Dinge nicht zukommen können , und von denen theils nicht nachgewiesen werden kann , ob und in wie weit sie ihm der Wirklichkeit nach zukommen mögen , prädiciren kann, ist Ding , und als solches beschreibbar.
+
+Soll nun der
+
+Ausdruck Seyn dazu dienen, das äußerlich Vorhandene als ein bestimmbares und beschreibbares , oder als Ding zu bezeichnen , folglich die Aufzählung jener Summe von ihm bezüglich und bedingt i zukommenden Eigenschaften und Merkmalen möglich zu machen , also eine Reihe von Gedanken und Begriffen zu Urtheilen zusammenzureihen , so vertritt er offenbar eine blos logische Function , und ist also ein rein for meller , oder logischer : soll er dagegen dazu dienen , ein äußerlich Vorhandenes nur als erkennbar und wahrnehmbar , mithin als Erscheinung zu bezeichnen , mithin nicht die Aufzählung der ihm bezüglich und bedingt zukommenden Eigenschaften und Merkmale möglich zu machen, oder eine Reihe von Gedanken und Begriffen in
+
+[p. 145] Urtheilen zusammenzureihen , sondern den thatfachlichen Umstand anzudeuten , daß für unser Wahrnehmen und Erkennen ein Aeußerliches vorhanden sey , so erscheint er unzweifelhaft in einer reellen , oder metaphysischen
+
+Function , da der Umstand , zu dessen Bezeichnung er jezt dienen soll, nicht blos ein bezüglicher und beding. ter , oder formeller seyn kann , wie das Vorhandenseyn der vielen verschiedenen Eigenschaften und Merkmale an den Dingen, sondern ein unbezüglicher und unbedingter, øder reeller, der in dem Erscheinenden als objectiv-reale Eigenschaft nothwendig vorausgesetzt werden muß, wenn es überhaupt, abgesehen von allem bedingten Wahrnehmen, möglicher Weise als ein selbstständiges und in sich begründetes Etwas soll vorhanden seyn können , und so leuchtet ein , daß es nicht gleich bedeutend sey , wie es Anfangs schien, in welchem Sinne man den Ausdruck Seyn , ob im blos formellen , oder im reelleu , gebrauchen wolle.
+
+Denn wenn er in jenem Sinne nur einen cinzelnen dem Umstand , daß wir ein Etwas als äußerliches , in sich selbstständig begründetes und von uns unabhängiges erkannt und wahrgenommen haben, bezeichnenden Gedanken und Begriff andeutet, so hat sich in diesem in ihm gleichsam ein ganzer Schluß concentrirt, den wir unbewußt und unwillkürlich von dem Erscheinen eines solchen äußerlichen Etwas aus auf das machen, was dies Erscheinen seiner Möglichkeit nach, nothwendig in sich vorausseßt ; ja , dieser einfache Eindruck enthält blos einen Schluß , sondern selbst eine ganze
+
+Schlußkette , etwa in folgender Art in sich : Etwas erscheint als außer uns.
+
+Was als außer uns erscheint, muß sich außer uns befinden ; was sich außer uns befin [p. 146] det, muß auch verschieden von uns seyn, und was verschieden von uns ist, muß selbstständig und begründet in sich selbst seyn ; was also als außer uns erscheint , muß sich auch außer uns befinden , mithin von uns verschieden und folglich zugleich in sich selbstständig begründet seyn, das Erscheinen eines äußerlichen Etwas deutet also auf ein selbstständiges und unabhängiges Befinden desselben in der Reihe der Erscheinungen , oder Dinge. sich nun Etwas als ein
+
+Sofern äußerliches Etwas , oder als
+
+Erscheinung dem Wahrnehmenden gegenüber darstellt, kömmt ihm eine Wesenheit zu , von der die Möglichkeit, oder Fähigkeit , sich also darzustellen und zu behaupten, einen nothwendigen und wesentlichen Bestandtheil, oder eine objectiv - reale Eigenschaft nothwendig mit ausmachen muß diese Möglichkeit , oder Fähigkeit , ist nun offenbar das Leben , das von uns in dem Erscheinenden seiner Wirkung nach erfaßt wird , und dies Erfaffen des Lebens seiner Wirkung nach in den erscheinenden äußerlich Vorhandenen , oder Lebenden , bezeichnen wir mit dem Ausdruck Seyn , und nehmen folglich bewußtlos den Begriff Seyn für gleichbedeutend , oder identisch mit dem Begriff Leben , als der Fähigkeit zum selbstständigen , unabhängigen und gesonderten Vorhandenseyn in der Reihe der selbstständig , unabhängig und gesondert von einander Vorhandenen, oder Dinge. • Mit dem Saße also : es ist, ist der Sah : es lebt, seiner Bedeutung nach ganz gleichbedeutend , oder identisch.
+
+Inzwischen das Leben selbst lebt nicht, sondern belebt, d. i. die Fähigkeit zum selbstständigen , unabhängigen und gesonderten Vorhandenseyn und Bestehen in der Reihe der selbstständigen , unabhängigen und gesønderten [p. 147] Vorhandenen und Besichenden , wäre an und für sich nur eine bloße Fähigkeit , oder Möglichkeit , also nichts Reelles, noch Wirkliches, sezt mithin, in wiefern sie etwas Wirkliches und Reelles seyn soll , ein Etwas, eine Beschaffenheit, oder Wesenheit nothwendig voraus, von der sie eine Eigenschaft mit ist , so daß sie ohne diese ein bloßes Gedankending , wie sie ohne diese zu einem inhaltleeren logischen Gedanken wird.
+
+Das Leben also, inwiefern ihm eine reelle Bedeutung als Begriff zukommen soll, muß nothwendig die Eigenschaft von einem wirklichen Etwas , oder einer Wesenheit mit ausmachen, wie umgekehrt jedes Etwas , oder jede Wesenheit erst dadurch zu einer objectiv-reellen, oder zu einem wirklichen Wesen wird, daß sie das Leben als objectiv-reale Eigenschaft in sich schließt.
+
+Jedes wirkliche Wesen hat also
+
+Leben, oder Seyn, als objectiv-reale Eigenschaft in sich, und das Leben , oder Seyn , befindet sich als objectivreale Eigenschaft in jeder objectiv- reellen Wesenheit, in jedem wirklichen Wesen , oder Etwas , nothwendig , und macht mit diesem eine schlechthin untrennbare Einerleiigkeit , oder Totalität : also das wirkliche Etwas ist, oder lebt , und das wirkliche Leben , oder Seyn befindet sich einem Etwas, und macht davon eine Eigenschaft mit aus : das Leben , oder Seyn , als objectiv - reale Eigenschaft von der Wesenheit eines objectiv - reellen Wesens, ist die Nothwendigkeit, selbstständig und in sich begründet, sich unter den andern darzustellen und zu behaupten, die sich in Darstellung eines wirklichen Etwas befriedigt hat. schlechthin
+
+Das Leben nur , oder Seyn , ist entweder unbedingt und unbedingbar , oder bedingt und, bedingbar, je nachdem es entweder die objectiv-reale
+
+[p. 148] Eigenschaft von der Wesenheit des Urgrundes, oder von der Wesenheit seiner Offenbarungsarten, der Wesen, ist : denn diese sind eben als solche nothwendig ihrer ganzen Wesenheit nach bedingt und bedingbar. punkte dieser Bedingten
+
+Vom Standund Bedingbaren aus , sind
+
+Raum und Zeit unvermeidlich als Bedingungen des Erkennens und Wahrnehmens gegeben .
+
+Indem sie nun alles Erkenn- und Wahrnehmbare zunächst unvermeidlich unter diese beiden Bedingungen stellen, es also räum lich und zeitlich auffassen, erhalten sie unvermeidlich ein Nacheinander und Hintereinander , Neben- und Untereinander , d. i. im Werden , die Erscheinungen werden also für sie.
+
+Im Standpunkte des Unbedingten und
+
+Unbedingbaren, oder Gottes, dagegen fallen für das Erkennen alle Bedingungen , und folglich auch die von Raum und Zeit weg , und er erfaßt also außerräumlich und außerzeitlich und somit kein Werden ; demnach werden für ihn die Dinge nicht , sondern sind schlechthin. Hier also wird der Begriff Seyn gebraucht , einen Gegensatz vom Begriff Werden zu bilden : nun schließt der Begriff Werden die Begriffe des Anhebens, Fortgehens, Endens , Wirkens und Schaffens , also des Thätigseyns in sich, folglich wird der Begriff Seyn als sein Gegensaß die Begriffe des Nicht- Anhebens , Nicht-Fortgehens, Nicht - Endens, Nicht - Schaffens und Wirkens, oder der Ruhe in sich schließen , was jedoch damit im Widerspruche zu stehen scheint , daß der Begriff Seyn seiner
+
+Bedeutung nach für gleichbedeutend , oder identisch, mit dem Begriff Leben gesezt würde. Aber der Begriff „Ruhe" bildet keinen Gegensaß vom Begriff Thätigseyn, sondern der Begriff des Nicht-Thätigseyns bildet diesen Gegensaß.
+
+[p. 149] Wenn also auch der Begriff Seyn und Werden ihrer Bedeutung nach von einander verschieden sind , so daß jener Ruhe , Vollendung , dieser Thätigseyn und NichtVollendung bezeichnet , so sind sie doch keineswegs contradidactisch einander entgegengeseßte , da jener nicht die absolute Unmöglichkeit, thätig zu seyn, und dieser nicht die absolute Nothwendigkeit, ununterbrochen thätig bleiben zu müssen, andeutet.
+
+Die Verschiedenheit , welche zwischen beiden Begriffen besteht , liegt eigentlich darin , daß der
+
+Begriff Seyn , seiner wahren Bedeutung nach nur von der göttlichen Vernunft klar erkannt wird , während die bedingte Vernunft der Einzelnheit nur eine höchst allgemeine, dunkle und schwankende Vorstellung davon hat, wodurch es eben geschieht, daß für jene alles Werden, seiner Möglichkeit nach , völlig aufgehoben ist , währead für, diese das Werden eine subjectiv - reale und bedingt nothwendige Bedeutung erhält.
+
+Will die bedingt vernunftfähige Einzelnheit ihre allgemeine und schwankende Vorstellung vom Begriff Seyn zur deutlichen Erkennt niß erheben, muß sie ihre Anschauung in Begriffe überseßen, die sie nie ganz von allen Vorstellungsarten räumlicher und zeitlicher Art rein erhalten kann .
+
+Daß nun die göttliche Vernunft den Begriff Seyn in seiner wahren Bedeutung klar erkennt, kann offenbar nur darin liegen, daß Gott seine Wesenheit , sammt Grund und Zweck , nebst Allem , was damit zusammenhängt , flar durchschaut , während die bedingte Einzelnheit blos eine Ahnung davon hat , die sich zum Erkennen und Wissen erst entwickeln muß : Gott also seßt mit seinem Durchschauen unmittelbar das Unendliche zugleich , und kann eben um deswillen, weil er durchschaut, nichts erst mittelbar [p. 150] sezen.
+
+Das Bedingte dagegen , welches sich seiner selbst nicht unmittelbar , noch ursprünglich bewußt ist, sondern sich seiner erst mittelbar bewußt wird , kann nicht alles unmittelbar , sondern muß das Meiste erst mittelbar, von dem Momente seines beginnenden Bewußtseyns au, sezen.
+
+Zwar kömmt dadurch nichts Neues in seine Vernunft hinein , indem Alles unmittelbar und ursprünglich gegeben ist , allein nicht als Erkenntniß, oder als Anschauung im engern Sinne , was wesentlich vorausseßt, daß sie als solche vom Bewußtseyn klar und deutlich erfaßt wird .
+
+In wiefern, nun ein Bewußtseyn, als ursprünglich und unmittelbar , schlechthin allumfassend, vollendet und vorhanden gedacht werden müß, und folglich als beginnend und sich vollendend gar nicht gedacht werden kann , ist auch die allumfassende Urerkenntniß unmittelbar durchweg allumfassende Urerkenntniß , so , daß nichts mehr erst noch zur Erkenntniß wer den kann , wodurch es auch zugleich geschieht , daß das ganze unendliche Object des Erkennens ursprünglich und unmittelbar durchweg und in seiner Vollendung und objectiv - realen Beschaffenheit, deutlich erkannt und erfaßt wird , also nichts als noch in der Vollendung , oder im Werden begriffen , mithin in seiner subjectiv - realen Beschaffenheit, erkannt und erfaßt werden kann.
+
+Wenu sich dagegen ein Bewußtseyn nicht als ursprünglich und unmittelbar als alldurchschauend und umfassend schlechthin vorhanden , sondern als beginnend und sich- vollendend, folglich als mittelbar, sich zeigt, so kann sich auch die allumfassende Urerkenntniß nicht unmittelbar als solche zeigen, sondern wird sich als Erkenntniß, als klare Einsicht, nothwendig größtentheils erst mittelbar, und mithin [p. 151] wird sich das Object des Erkennens ebenfalls nur mittelbar entwickeln , oder klar und deutlich ein erkennund unterscheidbares Object werden, also sich überhaupt zum Theil als sich vollendend und werdend zeigen.
+
+Bezug auf unser Erkennen also erhält der Begriff Seytt, sofern er zur Bezeichnung des Gegensaßes vom Begriff Werden dienen soll, noch eine ganz andere Geltung, als die ist , die er hat , wenn wir unser Erkennen mit dem göttlichen vergleichen. Denn in jener Beziehung bezeichnet er das unmittelbar Gegebene also Vollendete , während jener das mittelbar Gegebene oder in der Vollendung Begriffne bezeichnet, da unser Erkennen unvermeidlich zwischen unmittelbar und mittelbar gegeben unterscheidet: in fener deutet er die Unmöglichkeit eines mittelbaren Erfaffens von Gegenständen für die göttliche Vernunft an, die nothwendig Alles unmittelbar , oder als schlechthin vollendet erfaßt, und die Unmöglichkeit des schlechthin unbedingt unmittelbaren Erfaffens aller Gegenstände für eine bedingte Vernunft, die das Meiste unvermeidlich mittelbar, oder als sich vollendend erfaßt. Aber durch jenes schlechthin unbedingt unmittelbare Erfassen des All, ist inzwischen in der göttlichen Wesenheit die Nothwendigkeit , sich und das AU , als ein in sich begründetes und selbstständiges darzustellen , und zu behaupten, oder das Leben , nicht aufgehoben , noch kann es aufgehoben werden , da die göttliche Wesenheit ohne dasselbe ganz ungedenkbar wäre.
+
+Denn sie ist ein wirkliches Etwas , muß folglich die Fähigkeit in sich haben, ein solches zu seyn, d. i. Leben. Aber dies kann im Unendlichen und für das Unendliche selbst nicht einmal scheinbar beginnen ; es beginnt aber für jedes von einem [p. 152] mittelbar gegebenen Bewußtseyn aus bestimmtes Erkennen unvermeidlich , ist mithin blos bedingt gültig , oder subjectiv-real. Erkennen
+
+Weil nun das Werden für das bedingte bedingt vernunftfähigen Einzelnheit eine bedingt nothwendige Geltung hat , fq muß es auch zwischen Ursache und Wirkung unterscheiden , und das schrankenlose Leben offenbar als Ursache ansehen , von der alles bedingte Leben die Wirkung ist. ´ Die bedingten Leben haben , wie das unbedingte, die Fähigkeit zum selbstständigen Bestehen in sich; sie haben sie aber nicht schlechthin unbedingt und beziehungslos, sondern bedingt und bezüglich, oder sind nicht schlechthin in sich selbst genügsam.
+
+Dagegen ist der Urgrund, der sie rein unbedingt und beziehungslos in sich hat , schlechthin in sich selbstgenügsam, und von ihm kann mithin ganz unbedingt gesagt werden : er ist , oder lebt. Von den Offenbarungsarten läßt sich nicht eigentlich sagen : sie sind , oder leben, sondern nur, sie haben Theil an einem Seyn, oder Leben. Das allumfassende, schrankenlose Leben ist einzig in, durch und aus sich erklärlich ; die bedingten Leben können nur unter Vorausseßung eines solchen erklärt werden.
+
+Aber die Einzelnheiten sind nicht blos aus einem Leben , sondern aus einem unendlichen Vernunftleben , also aus einem Vollkommnen an sich, das als solches sich in all seinen Offenbarungsarten nur als das darstellen kann und will , was es wirklich ist: da es nun nicht blos reine Vernunft , noch allein Leben , sondern Vernunftleben ist, so wird eben um deswillen Vernunftleben die objectivreale Wesenheit aller wirklichen Wesen seyn , wenngleich sie nicht allen so erscheint. Diese als schlechthin einerleiig schließt [p. 153] alle Bezüglichkeit, und somit alles Verhältniß als rein unmöglich aus. Dennoch muß ein Verhältniß, eine Beziehung zwischen Gott und den durch ihn begründeten Wesen Statt finden , wiefern er als Urgrund sie soll begründen, und sie als Offenbarungsarten von ihm sollen begründet werden können , und dennoch ist dies unmöglich, in wiefern die objectiv - reale Wesenheit des Urgrundes , wie der Offenbarungsarten Einerleiigkeit, Totalität ist.
+
+Diesen Widerspruch zu beseitigen , bestimmen wir den Begriff „ Bezichung " seiner wahren Bedeutung und Geltung nach,
+
+§. 89.
+
+Lehre von den Beziehungen.
+
+Der Begriff „Beziehung“ ist seiner Bedeutung nach entweder subjectiv , oder objectiv ; er ist subjectiv, sofern er die uns eigenthümliche Art des Erkennens bezeichnet, vermöge welcher wir das äußerliche Vorhandene , oder Sinnlich - Wahrnehmbare, wiefern es erkenn- und unterscheidbar für uns seyn soll, unter die Bedingung des Irgendwo, oder des Raumes , und das innerlich Vorhandene, oder Geistige, soll es geistig - erkennbar für uns werden , unter die Bedingung des Irgendwenn , oder der Zeit stellen müssen ; objectiv dagegen ist er , sofern er das zwischen zweien Gegenständen entweder blos als möglich und unvermeidlich, oder als wesentlich, und nothwendig bestehende Verhältniß andeutet.
+
+Auf jeden
+
+Fall sezt er aber in seiner Anwendbarkeit Bedingtheit und Bedingbarkeit stillschweigend voraus , kann folglich für das Unbedingte und Unbedingbare von keiner Geltung seyn : das Unbedingte und Unbedingbare wird also [p. 154] auch nicht Urgrund der Dinge seyn können , da der Urgrund nothwendig in einem Verhältniß zu seinem Begründeten steht , was nicht blos einseitig , sondern selbst gegenseitig ist. Denn begründet Gott als Urgrund das All in, aus und durch sich , so ist nicht blos Er im Al, sondern das All ist auch in ihm , da der Sah, Gott ist im All, das zwischen Gott und All nothwendig beste hende Verhältniß stillschweigend schon im Voraus noth wendig als gegenseitig bezeichnet.
+
+Die beiden Begriffe
+
+Seyn und Leben sind nämlich, wie bekannt, gleichlautende, oder identische, und folglich kann der Säß : Gott ist im All, mit dem ihm dem Sinne nach ganz gleichbedeutenden :
+
+Gott lebt , oder befindet sich im All , vertauscht werden. Dieser Saß ist inzwischen einer doppelten Auslegung fähig , indem er sich theils so verstehen läßt, als ob das All zwar die Fähigkeit, als ein in sich begründetes selbstständiges Ganze zu bestehen, oder Leben in sich habe, aber ein unvollständiges , ungenügliches, so daß es eines fremden zu seiner
+
+Ergänzung und Vervollständigung nothwendig bedürfe , folglich in diesem Fremden nur in soweit bestehe und lebe , als es dessen Beihülfe zu seiner eigenen Selbsterhaltung bedürftig sey, theils so, als ob das All gar kein, einigermaßen selbstgenügsames, Leben in sich habe , sondern durchweg nur durch eines Fremden Beihülfe lebe und bestehe , mithin cin innerlich schlechthin selbstungenügsames ganz sich in diesem Fremden Tebe.
+
+Leben befize, also befinde , oder in ihm
+
+Unter jener Vorausseßung hätte es demnach ein einigermaßen in sich selbstgenügsames Leben , und wäre also, in so weit es ein solches hätte, seinem Vorhandenseyn nach, nicht von Gott begründet, müßte mithin entweder [p. 155] aus Nichts entstanden, oder mit Gott gleich ewig, also mit Gott gleich sehr schlechthin unbedingt und unbedingbar , oder Gott gewesen seyn.
+
+Aber aus Nichts wird nichts, und mithin fällt die erste dieser beiden Annahmen als in sich unmöglichJund ungereimt weg.
+
+zweite ist inzwischen gleich sehr ungereimt und somit unmöglich , da ein Etwas unmöglich in sich zugleich Selbstgenügsam und selbstungenügsam seyn , oder keines Andern in keiner Hinsicht bedürfen , und doch eines
+
+Andern in irgend einer Hinsicht nöthig haben kann : beides sind contradictorisch einander entgegengesezte Begriffe, und heben, als solche, nothwendig einander gegenseitig auf.
+
+Also das All muß entweder schlechthin in-
+
+-nerlich selbstgenügsam , oder rein innerlich selbstungenügsam seyn , d. i . keines Andern in keiner Hinsicht, oder eines Andern in aller Hinsicht bedürfen .
+
+zwei schlechthin innerlich Selbstungenügsame , oder Unbedingte und unbedingbare, nicht neben einander bestehen können , und das All thatfachlich ein innerlich selbstungenügsames , oder bedingtes und bedingbares ist , so ist es nothwendig ein schlechthin innerlich selbstungenügsames, und bedarf also eines innerlich schlechthin selbstungenügsamen in aller Hinsicht, während dies seiner in keiner Hinsicht bedürftig ist, befindet sich mithin ganz in dem Andern, oder lebt nur durch, in und aus dem Andern, hat also dessen Leben.
+
+Lebt es aber, oder ist in Gott, und befindet sich in ihm , so leuchter ein , daß auch Gott in ihm seyn , oder leben, und sich in ihm befinden muß, was also ein gegenseitiges Verhältniß und eine wechselseitige Beziehung zwischen Gott und dem All nothwendig vorausseßt, da doch für Gott , den rein unbezüglichen, [p. 156] keine Beziehung Statt finden kann, scheinbar ein unauflöslicher Widerspruch. Aber schon von Anfang an unterschieden wir im
+
+Erkennen verschiedene Standpunkte , unterschieden den
+
+Standpunkt Gottes in der Anschauung, von dem Standpunkte des Göttlichen in der einzelnen Offenbarungsart in der Anschauung , und in dieser zwischen Anschauung und bloßem Erkennen.
+
+Von dem Standpunkte Gottes in der Anschauung sind wir höchstens der Ahnung , nie aber einer eigentlichen Erkenntniß, eines Wissens, eines deutlichen und vollständigen Begriffs fähig , da er ganz außer der Sphäre eines für uns möglichen Begreifens und Erkennens liegt.
+
+Auch bedürfen wir eines solchen für unsern Zweck nicht, der nämlich nicht ist, den eigentlich wahren Hergang
+
+Dinge in Gott , für dessen
+
+Durchschauen , zu erkennen , sondern nur den muthmaß lichen Hergang der Dinge in Gott, für unser Anschauen, zu erklären , also Daseyn und Wirken eines Als in der bestimmten und besondern Wesenheit , wie wir sie wahr nehmen und erkennen, für uns, unter Vorausseßung eines absolut Ersten und schlechthin Schrankenlosen, begreiflich zu machen. Den Hergang der Dinge in Gott aber, den wir so ausmitteln, nennen wir einen muthmaßlichen, nicht als ob er von uns auf's Geradewohl und blos aus leeren Wahrscheinlichkeitsgründen gefolgert worden wäre, sondern um deswillen , weil wir vermuthen , ja mit Gewißheit schließen können, daß der eigentlich wahre Hergang der Dinge in Gott dem von uns erschlossenen, sofern wir in der Erörterung den Andeutungen, die uns das Sinnlich - Wahrnehmbare, wie das Geistig - Erkennbare geben, genau und streng folgen, und sie mit Nothwendigkeit [p. 157] aus der Natur unsers Denkens abgeleitet haben, zwar nicht durchweg gleich, aber doch ähnlich seyn werde und müsse.
+
+Diesen muthmaßlichen Hergang der
+
+Dinge in Gott zu erfassen , müssen wir uns zur Anschauung erheben, d. i. nicht von dem durch das mittelbar gegebene Bewußtseyn bestimmten , sondern von unserm uns absolut inwohnenden Urerkennen ausgehen, wodurch alsdann der Saß : All ist in Gott und Gott im Au , einen ganz andern Sinn erhält.
+
+Denn wenn das vom mittelbar gegebenen Bewußtseyn aus bestimmte Erkennen nothwendig mittelbar , also sich vollendend und werdend , oder zeitlich ist , so erfaßt es eben um deswillen sein Object auf eine mittelbare , also successive und zeitliche Weise , d. i. als bloßen Inbegriff : wenn es dagegen das unmittelbar als schlechthin vorhandene, oder simultan und zeitlos gegebene Urerkennen ist, erfaßt es auch sein Object unmittelbar als ein schlechthin vollendetes , oder simultanes und zeitloses , d. i. als Tota, lität , und wenn dort verschiedene Seiten , Nichtungen, Theile und Beziehungen , aus denen sich das Ganze und Eine zusammenseßt, unvermeidlich sind , so sind sie hier unmöglich , indem das
+
+Ganze und und unmittelbar gleich als solches gegeben ist.
+
+Eine ursprünglich Also, wenn die göttliche Wesenheit und deren wahres Verhältniß im Standpunkte des bloßen Erkennens, oder des Mittelbaren und Successiven, also Zeitlichen, erfaßt wird, wird es selbst lediglich ein Mittelbares, Successives, oder Zeitliches , werden Gott Außer und Nebeneinander ,
+
+All eine Zweiheit, ein und höchstens ein bloßes
+
+Zusammen , eine Einheit und Ganzheit , die sich aus zwei Theilen und Stücken zusammenseßt : wird sie dagegen [p. 158] im Standpunkte der Anschauung , oder des Unmittelbaren, Simultanen , oder Zeitlosen aufgefaßt, so wird sie selbst als ein Unmittelbares, Simultanes , øder Zeitloses erkannt, werden Gott und All als in einander und einerleiig , als Einheit und Ganzheit begriffen , die unmittelbar als schlechthin vorhanden und vollendet gegeben ist, so daß keins ohne das Andere und außer dem Andern bestehen kann, folglich sich das Ganze und Eine gar nicht in zwei verschiedene Seiten und Richtungen scheiden läßt. Unter diesem Gesichtspunkte ist also weder Gott im All , noch All in Gott , sondern Gott ist All und All ist Gott : denn Gott ist nun stets nothwendig als Mittelpunkt von unendlich vielen gedacht, wie diese ihrerseits stets nothwendig durch und um ihn, als ihrem nothwendigen Mittelpunkte, gedacht sind, und folglich sind Gott und All schlechthin untrennbar einerleiig .
+
+ist das objectiv - reelle , jenes nur das subjectiv - reelle Verhältniß, indem das bloße Erkennen nur etwas Bezügliches, mithin blos bedingt Gültiges und somit Subjec tiv-Reelles ist, das Anschauen dagegen etwas Absolutes, also unbedingt Gültiges , und somit Objectiv - Recules. §.
+
+90.
+
+Aber das absolut Einerleiige, welches alle Bezüglichkeit und mithin auch Raum und Zeit, ebenfalls Beziehungen, als schlechthin unmöglich ausschließt, kann vollkommen klar und deutlich nur von einem schlechthin unbezüglichen, oder unbedingten und unbedingbaren Denken erkannt werden, d. i. von einem solchen, welches in seinem Erfassen der Dinge nicht von einer einzelnen vorherrschenden und das Ganze bestimmenden Hauptform in sich [p. 159] ausgeht , sondern von sich als Denken , daß überhaupt nicht den einzelnen Formen bestimmt wird , sondern sich stets ununterbrochen klar als Denken an sich erfaßt, also nichts einzeln , vereinzelt und bedingungsweise , sondern Alles in seinem nothwendigen Zusammenhange und unbedingt in der Totalilät aller seiner Bedingungen zusammen , sammt Grund und Zweck klar erkennt , folglich sich in seinem unmittelbar gegebenen Bewußtseyn Einerleiigkeit , Totalität ist.
+
+Unser Denken aber ist zunächst thatsächlich kein solches Denken : denn es erfaßt sich als bestimmt und bedingt in seinem Erkennen durch einzelne vorherrschende Hauptformen , namentlich aber durch die in ihm wesentlich vorherrschende mittelbar gegebene Hauptform des Bewußtseyns , und ist sich demnach Inbegriff, gegliederte Einheit und Ganzheit , die sich nach und nach entwickelt , und zusammenseßt, und mithin wird es auch sein Obiect als ein gegliedertes , sich zusammenziehendes, oder mittelbares, unvermeidlich erfassen, also ein blos bezügliches , bedingtes können.
+
+und bedingbares erhalten
+
+Wäre sie demnach im menschlichen Denken die alleinige Form , durch die es in seinem Erkennen der Dinge bestimmt würde, so würde es nur das mittelbare, bezügliche , bedingte und bedingbare , aber gar nicht das eigentlich Wahre, absolut Nothwendige von ihnen zu erkennen im Stande seyn :
+
+nun aber hat es außer dem mittelbar gegebenen Bewußtseyn noch die unmittelbar gegebene Urerkenntniß, vermöge welcher es ihm möglich wird, das Unmittelbare , Absolute , Beziehungslose , Unbedingte und Unbedingbare , also das eigentlich Wahre in und an den Dingen zu erfassen.
+
+Inzwischen bedarf es für dasselbe, um zu dieser unmittelbar gegebenen
+
+[p. 160] Urerkenntniß zu gelangen , und sich darin zu behaupten, außerordentlichen
+
+Anstrengung
+
+Thätigkeit, während es, in seinem mittelbaren Erkennen zu bleiben, nichts zu thun braucht , als nur sich unbefangen gehen zu lassen.
+
+Der Mensch aber ist zu einer außerordentlichen und ungewöhnlichen Anstrengung und Thätigkeit geneigt , noch ist er solchen anhaltend fähig , sondern muß vielmehr immer wieder von neuem zu dem Gewöhnlichen und Alltäglichen , was für ihn, da es keinen besondern Grad von Anstrengung in Thätigkeit in Anspruch nimmt, das Naturgemäße ist, zurückkehren, und also ist das Naturgemäße für ihn von bedingt nothwendiger Geltung , oder subjectiv - real , während das eigentlich Wahre , was von unbedingt nothwendiger Geltung ist , d . i . objectiv - real , sich nur in dem ungewöhnlichen
+
+Standpunkte des unbezüglichen unmittelbaren Erkennens , oder der Anschauung erfassen läßt.
+
+Selbst seine Anschauung kann es nicht unmittelbar, als solche, wiedergeben, sondern nurmittelbar durch Hülfe der Gedanken und Begriffe , die sie beschreiben, verdeutlichen , erörtern , eigentlich aber nur unvollständig und ungenüglich das Urbild wiedergeben können, ja gänzlich falsch und irrig werden , wenn man das durch den Gedanken und Begriff Erkannte , für ein in der Idee erkanntes und umgekehrt das blos in der Idee Erkennbare für erkennbar durch den Gedanken und Begriff hält : nun läßt sich im Gedanken , wie im Begriff nur das Subjectiv- Reale erkennen , und das Objectiv Reale ist blos in der Idee erkennbar , und folglich ist nur das in der Idee erkannte Object von unbedingt nothwendiger Geltung , wogegen seine durch Vermitte [p. 161] lung der Gedanken und Begriffe bewirkte Verdeutlichung und Anschaulichkeit lediglich von bedingt nothwendiger Geltung, also blos formal ist : aber ohne diese formelle Entwickelung könnte die Idee gar nicht zur Anschaulichkeit-gebracht werden , womit zugleich alles Philosophiren als unmöglich aufgehoben wäre .
+
+So haben wir gesehen, wie die göttliche Wesenheit in der Idee, oder ihrer objectiv - realen Beschaffenheit nach , Einerleiigkeit von Vernunft und Leben , oder Vernunftleben ist , wie es aber uns nicht blos erlaubt , sondern selbst unvermeidlich war, diese im Gedanken und Begriff zu betrachten, oder zu verdeutlichen, und eben dadurch das schlechthin Einerleiige auf eine subjectiv - reale, oder formale Weise, unter zwei verschiedenen Gesichtspunkten, bald wie reiné Vernunft, bald als bloßes Leben , ohne daß es dadurch der Wirklichkeit nach, zu einer wahren Zweiheit , zu einem bloßen Zusammen von Vernunft und Leben gewor den wäre, sondern es blieb unbedingt und unverändert, was es war , d. i. Vernunftleben : auch waren wir nie versucht, es anders , dénn és als ein Vernunftleben an. zusehen , und gaben mithin dem Gedanken und Begriff, in dem wir zwei Seiten , oder Richtungen in der göttlichen Wesenheit anzuerkennen nicht vermeiden konnten, keine andere Geltung , blos formale.
+
+als ihnen zukömmt , d. i. eine
+
+Wollten wir dagegen die göttliche Wesenheit wirklich für zusammengeseßt und bestehend aus reiner Vernunft und bloßem Leben halten, weil wir im Gedanken und Begriff nicht umhin können , diese zwei verschiedene Richtungen und Seiten in und an ihr zü erkennen , so würden wir ihnen eine Bedeutsamkeit bei legen , die ihnen nicht zukömmt, d. i. eine reale , il [p. 162] somit eine ganz irrige und falsche Erkenntniß von dem Objectiv - Realen erhalten.
+
+Eben so sind Gott und All ihrem objectiv - realen Verhältnisse zu einander nach schlechthin einerleiig, oder Gott ist All und All ist Gott; und diese Einerleiigkeit läßt sich in der Idee erkennen, in welcher wir begreifen , wie Gott sich stets ununterbrochen vollkommen klar als Mittelpunkt von unendlich Vielen überhaupt und von jedem der unendlich vielen insbesondere erkennt, oder seine schrankenlose Wesenheit nicht blos im All , sondern auch in jedem einzelnen Gliede derselben vollständig und genüglich ausgedrückt erfaßt ; aber auch hier ist es nicht allein erlaubt , sondern selbst unvermeidlich, dies Verhältniß auf eine for male Weise zu behandeln , und - eben dadurch die Idee zur Anschaulichkeit und Deutlichkeit zu erheben , ohne ihr eine reale Bedeutsamkeit beizulegen , also es im Ge danken und Begriff aufzufassen, die auch hier zwei Seiten und Nichtungen in und an dem Einerleiigen unterscheiden , ohne daß dadurch aus dem schlechthin Einerleiigen wirklich zwei Seiten und Richtungen würden ; unbedingt bleibt es , was es ist , nämlich Einerleiigkeit, von der der Gedanke und Begriff gleichsam die wissen. schaftlich entworfene Beschreibung ist , deren die Philosophie schlechterdings bedarf. Wie nun im Gedanken und Begriff auf eine formate Weise sich unterscheiden läßt zwischen Urgrund und All , ohne daß dadurch zwischen beiden ein reeller Unterschied entstünde, eben so läßt sich auf gleiche Weise und mit gleicher Bedeutung zwischen All und Einzelnheit unterscheiden, obschon um deswillen All und Einzelnheit nichts wirklich von einander Geschie. denes und Verschiedenes, sondern ein schlechthin Untrenn»
+
+[p. 163] bares einerleiiges Ganze sind, was im Standpunkte der Anschauung erkannt werden kann.
+
+Für diesen Standpunkt also verliert der Begriff „Beziehung“ nebst allem; was nothwendig , oder wesentlich damit verknüpft ist, seine ganze Bedeutung, und wird mithin zu einem völlig Inhaltleeren, wogegen er in jenem unvermeidlich ist; folglich einen reellen Inhalt erhält , indem er , seiner Geltung nach , nothwendig auf einem Erkenntnißgrundé beruht, und nicht mit absoluter Willkürlichkeit gebildet
+
+Ist er aber nicht mit absoluter Willkürlichkeit, sondern mit Nothwendigkeit , in Cemäßheit der besondern Natur unsers Denkens, gebildet ; wie kann er rein Inhaltleer werden , oder alle Geltung verlieren, wenn wir nur zu einem andern Standpunkte des Erkennens übergehen ? Hat er aber einen unbedingt reellen Inhalt, sỏ muß ihm auch das Object - Reale einigermaßen entsprechen, also die göttliche Wesenheit etwas von der Art, was der Begriff „ Beziehung “ bezeichnet , in sich ent halten , was in einem rein unbedingten und unbeding baren, wie in der göttlichen Wesenheit , unmöglich ist.
+
+schlechthin
+
+Ein rein logischer Begriff, öhne allen realen Inhalt, kann der Begriff auch nicht seyn , weil er sonst überhaupt von keiner Bedeutung , noch Geltung seyn könnte, und doch sollte er dies für den Standpunkt der Anschauung werden.
+
+Ueberhaupt sind alle Begriffé einigermaßen eines reellen Inhalts, weil alle wenigstens unvermeidlich auf irgend einem Erkenntnißgrunde beruhen.
+
+Den Knoten zu lösen , müssen wir vor allem den
+
+Begriff
+
+Erkenntnißgrand « bestimmen:
+
+[p. 164] $.
+
+91.
+
+Auch der Begriff „ Erkenntnißgrund " kann in subjectiver Bedeutung, und zwar im Allgemeinen, wie insbesondere , und in objectiver genommen
+
+Er wird in subjectiver genommen , wenn er die unmittelbare Ursache des Erkennens und Begreifens bezeichnet, und in objectiver , sofern er die mittelbare andeutet. Unmittelbare Ursache des Erkennens und Begreifens ist die Möglichkeit zum Erkennen und Begreifen überhaupt, d. i. das Denken , welches als solches subjectiver - Erkenntnißgrund im Allgemeinen , feinen einzelnen Hauptformen nach dagegen subjectiver Erkenntnißgrund in seiner Besonderheit ist :
+
+mittelbare Ursache des Erkennens und Begreifens ist der nächste Anlaß zu einer be stimmten Art des Erkennens und Begreifens , wie das Sinnlich - Wahrnehmbare ; das Sinnlich-Wahrnehmbare ist also ein objectiver Erkenntnißgrund.
+
+Das Denken, oder die Möglichkeit zum Erkennen und Begreifen überhaupt , macht unsere Wesenheit nothwendig mit aus, und ist also von ihr eine objectivreale Eigenschaft. Dagegen macht die bestimmt gegebene´Art des Erkennens und Begreifens , zu der etwa das Sinnlich-Wahrnehmbare der nächste Anlaß ward , unsere Wesenheit nicht nothwendig mit aus, oder ist nicht in ihr objectivreal, da sie nicht auf dem Denken überhaupt , sondern blos auf einer besondern Hauptform des Denkens beruht, die nur unter gewissen Voraussetzungen sich in • dieser Art wirksam zeigen kann , also lediglich etwas bedingtes und bezügliches und somit ein blos subjectiv - reelles ist. Diese Form hängt mithin nicht mit unserer Wesenheit [p. 165] an sich, sondern mit unserer bezüglichen Wesenheit zusammen.
+
+Es besteht demnach ein Unterschied zwischen unserer Wesenheit´an sich , und unserer bezüglichen Wesenheit , der darin gegeben ist , daß unsere Wesenheit an sich, die wir mit Gott und all seinen Offenbarungsarten unbedingt gemein haben , eine Einerleiigkeit von Vernunft und Leben , oder ein Vernunftleben ist , mit welcher folglich nichts weiter nothwendig zusammenhängt, als die Fähigkeit , sich seiner selbst , wie seiner Umgebungen , inne zu werden , die zugleich die Fähigkeit ist, sich als ein in sich begründetes Selbstständiges unter den unendlich vielen in sich begründeten Selbstständigen darzustellen und zu behaupten , die also in ihr objectivreal ist ; unsere bezügliche Wesenheit dagegen , die wir nur mit einigen Offenbarungsarten Gottes gemein haben, mit denen wir also in sofern eine besondere Wesengattung ausmachen , ist in der besondern Art , wie wir uns und die übrigen als Vernunftleben erfassen und begreifen , gegeben , mit der unsere ganze Art des Erkennens und Begreifens überhaupt unvermeidlich zusammenhängt.
+
+Alle Wesen sind schlechthin unbedingt gleich sehr und in gleichem Maaße Einerleiigkeit von Vernunft und Leben , oder Vernunftleben , und in dieser Hinsicht ist keine Unter- noch Nebenordnung , keine Um- noch Begränzung , also keine Bezichung , noch Bedingbarkeit möglich, weil Gott selbst , seiner eigentlich wahren Wesenheit nach, unendliches Vernunftleben ist , und seine Wesenheit weder aufheben , noch umwandeln kann , was er nothwendig müßte, wiefern er in seinen Geoffenbarten , den Wesen, anders erscheine, oder erscheinen wollte und könnte, als er seiner objectiv- realen Wesenheit nach [p. 166] ist: nun ist er, seiner objectiv - realen Wesenheit nach, Vernunftleben , und folglich müssen alle seine Geoffenbarten , oder die Wesen , gleichfalls Vernunftleben seyn. Wenn es in dieser ihrer objectio - realen Wesenbeit unmittelbar läge , und nothwendig daraus hervorginge, daß sie Alles bezüglich und beziehungsweise erfassen müßten , so beruhte der Begriff „Beziehung“ seiner Geltung nach auf ihrer Wesenheit an sich , wäre folglich seinem Inhalte nach ein objectiv - realer , und also müßte ihm in der Wirklichkeit ein Objectiv - reales entsprechen , d . i. es gäbe keine Einerleiigkeit , sondern wirklich eine Zwei-heit , die sich zusammenseßte , und höchstens eine Einheit bildete, und somit wären zwei Wesen, Geist und Materie, Seele und Leib , was inzwischen aus schon bekannten Gründen unmöglich ist. Diese Verschiedenheit kann dem ´nach nur eine scheinbare , eine blos bedingte und bezügliche seyn , die lediglich darin ihren Grund hat , daß sich die Vernunftleben nicht als solche erfassen und erkennen, daß sie mithin sich in ihrem Erfassen nicht Vernunftleben sind , sondern etwas anderes , sey es reine Vernunft, oder bloßes Leben , was folglich für ihr Erfassen, ihre Wesenheit ist, jedoch offenbar nur ihre bezügliche : denn um deswillen , daß sie ihre Wesenheit anders erfassen,, als sie der Wirklichkeit nach ist , wird sie nichts anders,, sondern bleibt , was sie ist.
+
+Daß nun die unendlich vielen Wesen sich nicht ursprünglich und unmittelbar ihrer objectiv - reellen Wesenheit nach, d. i . als Vernunftleben erkennen, noch alle sich auf gleiche Weise , sondern auf unendlich mannichfache und verschiedene Art erfassen, ist nun nicht in der göttlichen Wesenheit nothwendig begründet, wiefern sie Vernunftleben ist, und als solches [p. 167] ihre Wesenheit weder aufheben , noch umwandeln kann und will , sondern ist in Gott gegeben , wiefern er das Vollkommene und Gute an sich ist , und als solches theils mit seinem Geoffenbartenseinen}' unendlich vernunftgemäßen Weltenzweck verbindet, theils überhaupt das unendlich Verschiedene und Mannichfache bezweckt. Gemäßheit dieses unendlich vernunftgemäßen
+
+Welten-
+
+-. zwecks hat jedes einzelne Vernunftleben seine eigene dem Ganzen angemessene Stellung , und seinen eigenen ihm zuträglichen Wirkungskreis, nach denen sich die besondere und eigenthümliche , oder individuelle und subjective Art in seinem Leben , Handeln , Wirken und Denken unvermeidlich bestimmt , die in ihrer Art besonders und von dem aller übrigen Vernunftleben verschieden ist.
+
+mit eben diesem unendlich guten und vollkommenen Willen Gottes hängt es wieder wesentlich zusammen , daß kein Vernunftleben diese individuelle und subjective Art seines Seyns und Wesens schlechthin unbedingt beibehält , sondern nur auf eine bedingte Weise hat , so , daß sie die selbe immer wieder mit einer andern und neuen vertau schen kann und muß , in Gemäßheit welcher sie alsdann eine ganz andere Ansicht von ihrer Wesenheit , wie von der Wesenheit der Welt erhalten wird.
+
+Also muß jedes
+
+Vernunftleben sich und die Welt unvermeidlich so auffassen, wie es der ihm besonders eigenen, in Gemäßheit des unendlich vernunftgemäßen Weltzwecks angewiesenen Weltstellung und der damit zusammenhängenden ihm kur eigenthümlichen Denk- und Lebensart jetzt angemessen ist, also hat diese Auffassungsweise eine bedingt nothwendige Geltung für dasselbe, oder ist subjectiv - real; aber da das Jest nicht schlechthin unbedingt ist, sondern unaufhörlich [p. 168] und ununterbrochen anders werden kann und muß, so ist sie offenbar eine blog bedingte und bezügliche, dem das Wirkliche und eigentlich Wahre, oder Objectiv - Reale, auf keine Weise entsprechen wird , noch kann. Wenn es nun in der subjectiven und individuellen Auffassungsart des bestimmt gegebenen und besonders bedingten Vernunftlebens , Mensch genannt , liegt, daß es zunächst Alles unvermeidlich beziehungsweise erfassen muß, so wird dies ebenfalls eine subjectiv - reale, und zugleich eine blos bedingte und bezügliche Geltung haben , was also theils an der wirklichen Beschaffenheit des also Er. faßten nichts ändert , indem dies , ungeachtet alles individuellen Erfassens und Begreifens , schlechthin unde dingt bleibt, was es ist , theils alle Bedeutung verlieren kann , sobald der Mensch zu einer ganz andern Art des Auffassens und Erkennens der Dinge übergeht, die ent weder nicht an dieselben Bedingtheiten , oder auch an gar keine Bedingtheiten geknüpft ist, und mithin auch inhaltleer, oder rein logisch werden , obschon er es jezt weder ist , noch wird , da das menschliche Auffassen und Erkennen stets unvermeidlich , so lange es ein menschliches ist und bleibt , an einen gewissen Grad von Bedingtheit gebunden bleibt.
+
+Inzwischen hat der Mensch eine Art des Auffassens und Erkennens in sich , die wenigstens frei ist von dem mittelbaren , bedingten und bezüglichen Erfassen , und unmittelbar , unbedingt und beziehungslos erfaßt , d. i. eben die Anschauung : in wiefern sich also der Mensch zur Anschauung erhebt , folglich von seinem gewöhnlichen naturgemäßen, und in sofern subjectiv - realen Standpunct abgeht, verliert auch der Begriff »Beziehung“ seinen realen Inhalt , und behält bløs eine [p. 169] subjective, bedingte , bezügliche, oder logische Bedeutsamkeit.
+
+Dieser Begriffberuht demnach aufeinem subiectiven
+
+Erkenntnißgrunde insbesondere , der Hauptform des Bewußtseyns nämlich, und ist mithin unvermeidlich, be ruht aber nicht auf dem subjectiven Erkenntnißgrunde im Allgemeinen , oder dem Denken überhaupt , als einer objectiv - realen Eigenschaft von der menschlichen Wesenheit , und ist folglich nicht nothwendig ; denn er hängt nicht mit der menschlichen Wesenheit an sich, sondern nur mit der bezüglichen menschlichen Wesenheit zusammen d. i . nicht mit der Wesenheit , die der Mensch als Wesen hat , und die er mit allen übrigen Wesen zusammen , ohne Ausnahme , auf gleiche Weise besißt, und in der als objectiv - reale Eigenschaft die Fähigkeit ist, sich und Andere zu erkennen und zu begreifen , d . i. das Denken , oder die Vernunft überhaupt , sondern mit dieser Wesenheit , wie er sie in Gemäßheit der besondern, durch den höchsten Weltenzweck ihm angewiesenen Weltlage und Weststellung , und der dadurch bedingten Auffassungsart von sich und der Welt zunächst unvermeidlich erfassen muß , und in der ein mittelbar gegebenes Bewußtseyn die vorherrschende und bedingende Hauptform ist ; aber es ist dies offenbar weder allein, noch nothwendig , noch schlechthin unbedingt ; auch seßt zwar das Bewußtwerden , seiner Möglichkeit nach , die Fähigkeit dazu , d. i. eben die
+
+Vernunft überhaupt, nothwendig voraus , ist folglich in der menschlichen Wesenheit als Vernunftleben , begründet, oder als Wesenheit an sich wogegen die bestimmte und besondere Art des Bewußtwerdens , die der Mensch als Thatsache in sich erfaßt , und die blog unter Vorausseßung der Bedingungen unvermeidlich war , die das Vernunftleben überhaupt zu diesem bestimmt gegebenen und besonders. bedingten machen , nicht auf der Fähigkeit , sich überhaupt seiner selbst inne zu werden , oder auf der Vernunft im Allgemeinen , so fern sie von der Wesenheit des Menschen , als einem Vernunftleben, eine objectivreale Eigenschaft ist , mit Nothwendigkeit beruht , folg. lich nicht in der menschlichen Wesenheit an sich begründet ist , sondern seinen Grund in der Art und Weise hat, wie sich die Fähigkeit in dem Vernunftleben , was jetzt auf eine bestimmte , besondere , eigene und eigenthümliche Weise bedingt ist , entwickelt und äußert , be gründet sich in dem Vernunftleben , wiefern es das bestimmt gegebene und besonders bedingte, aber nicht schlechthin unbedingbareşim Menschen ist, oder in dessen bezüglichen Wesenheit.
+
+Somit beruht nicht auf seiner Wesenheit an sich, bedingten , bezüglichen und bedingbaren Weltstellung.
+
+also diese sondern auf seiner Weltlage und
+
+Den Weltplan und Weltzweck seßt nun
+
+Gott, nicht weil er muß, sondern weil er will : er könnte ihn , fenheit, unbeschadet seiner objectiv - realen We oder seiner Einerleiigkeit , als Vernunftleben,.
+
+auch nicht setzen.
+
+Aber nachdem er ihn einmal gefeßt hat, kann er ihn auch nicht mehr umändern , weil er das schlechthin Vollkommne ist , und folglich uranfänglich auch das schlechthin Vollkommne unbedingt überalk wird sehen müssen und wollen.
+
+Diesem Weltenplan gemäß haben alle Vernunftleben ihre besondere Bestimmung und innere Einrichtung , der gemäß sie wirken und sich entwickeln müssen , und was also aus dieser nothwendig und unvermeidlich für sie folgt , ist von [p. 171] nothwendiger Geltung , oder real für fic : da inzwischen jene besondere Bestimmung und innere Einrichtung nicht schlechthin unbedingt und unbedingbar , sondern nur be * dingt und bedingbar für sie gilt , so ist auch das , was daraus für sie nothwendig , oder unvermeidlich folgt, nicht von absolut nothwendiger , sondern nur von be dingt nothwendiger Geltung für sie , also nicht objectiv, sondern lediglich subjectiv - real.
+
+So ist es auch mit dem Begriff ‫ גי‬Beziehung " , den der Mensch in Gemäßheit seiner durch den Weltplan ihm zu Theil gewordenen eigenen und eigenthümlichen Art des Bédingtseyns , die er jetzt, aber nicht für alle Zeit hat , in Bezug auf
+
+Gott, auf Welt und sich selbst unvermeidlich denken muß ,
+
+$
+
+9.2.
+
+Um nicht aus dem Gesagten zu folgern , was gewissermaßen stillschweigend darin zu liegen scheint, daß Gott sich in dem bestimmt gegebenen und besonders bedingten Vernunftleben nicht als Gott , sondern nur als ein göttliches erfassen könne , fölglich gleichwohl seiner innersten Natur nach bezüglich sey , muß man die beiden Elemente, aus welchen sich zusammen seßt, weder in Gedanken , der Begriff „ Gott “ noch im Begriff von einander trennen , da sie in nothwendiger Wechselverbindung zu einander Hetzen. Denn Gott iß nicht blos Vernunftleben , sondern ist unendliches Vernunftleben, d. i. er hat nicht blos, die Fähigkeit sich seiner selbst inne zu werden und zugleich sich als ein in sich begründetes selbstständiges Ganze darzustellen und zu behaupten , sondern seine Fähigkeit, sich zu erkennen und als ein in sich begründetes selbstßändiges
+
+[p. 172] Etwas darzustellen und zu behaupten , ist zugleich Fähigkeit, sich als Mittelpunkt zu dem aus unendlich Vielen nothwendig bestehende Ganzen und Einen , d. i, zur Allheit, ununterbrochen vollkommen klar zu erfassen , und diese als ein in sich begründetes Selbstständiges in , aus und durch sich darzustellen und zu behaupten , und nicht nur durchschaut er sich als Mittelpunkt vom Al, als solchem , sondern auch als Mittelpunkt von jedem und in jedem seiner Einzeln - Theile.
+
+Als Vernunftleben ist er in
+
+Allem auf gleiche Weise, ohne Unterschied und Ausnahme, und der Begriff „ Beziehung “, der ein Außer- und Nebeneinander wesentlich vorausseßt , kann fölglich hier, nicht einmal in formeller Hinsicht , angewendet werden. Als unendliches Vernunftleben kann er inzwischen in dem Einzelnen nur seyn , wiefern dies nothwendig integrirendes Glied in der Totalität des Aus ist , in wiefern es aus die unendlich vielen Einzelnen zu seinem Bestehen eben so nothwendig vorausseßt , als es diesen allen zusammen und von jedem Einzelnen insbesondere zu ihrem Bestehen nothwendig vorausge seht wird.
+
+Nun ist jedes Einzelne ein nothwendig integrirender
+
+Einzeln Theil von der Totalität des All und kann gar nicht ohne und außer All bestehen , noch leben, folglich nehmen alle unbedingt an eben demselben unendlichen einem und
+
+Vernunftleben ohne Ausnahme Theil , so daß unter ihnen in dieser Hinsicht Verschiedenheit , Abstufung , Beziehung schlechthin nicht Statt findet.
+
+Aber das unendliche Vernunftleben geht nicht blos durch jedes Einzelne hindurch , sondern geht auch gleichsam in jedes Einzelne hinein , indem jedes nicht nur ein Etwas , sondern ein in sich begründetes [p. 173] von allen andern Etwas verschiedenes und gesondertes Etwas ist , also seinen eigenen und eigenthümlichen
+
+Standpunkt im AU hat , und nicht darin verschwimmt. Inzwischen kann das Einzelne seinen eigenen Standpunkt , der es zu einem eigenen , wirklichen und besondern Etwas , oder Einzeln- Wesen macht , stets nur unter Voraussetzung eines Allumfassenden und Allgenug. samen , oder unendlichen Vernunftlebens haben , und behaupten , in welchem sie mit unendlich vielen zugleich ist , oder lebt, das also auch in ihr , wie in all den andern unendlich Vielen zugleich ist und lebt : je- , des Einzelne ist mithin das Unendliche , endliche jedes Einzelne ist , wie das Unaber auch jedes Einzelne ist ein Einzelnes in und von dem Unendlichen. fern es das Unendliche ist , des Unendlichen ;
+
+In wie hat es auch das Schauen in wiefern es dagegen zugleich ein
+
+Einzelnes in und von dem Unendlichen ist , hat es sein eigen
+
+Einzeln
+
+Schauen ,
+
+Schauen nur eine Art ist.
+
+von des
+
+Unendlichen
+
+Wenn also der Unendliche sich in seinem Schauen als Allumfassend und Augenugsam érfaßt , kann sich das Einzelne in seinem EinzelnSchauen nicht also erfassen , sondern wird sich nothwen dig als umfaßt und innerlich selbst ungenügsam erkennen: aber nicht das Unendliche erfaßt sich als innerlich selbst ungenügsam , in wiefern es sich durch Einzeln - Wesen geoffenbart hat , sondern das einzelne Einzeln - Wesen erschaut sich unvermeidlich so , in wiefern es sich als das einzelne und besondere in sich abgeschlossene, von allen andern verschiedene , in sich seyende Einzeln-
+
+Wesen anschaut , was es aber nicht eigentlich ist : Denn eigentlich ist es kein in sich begründetes und selbstständig [p. 174] bestehendes Etwas , sondern nur ein Etwas , das als bestehend , oder seyend lediglich gedenkbar ist, in wiefern das Unendliche als seine nothwendige Ergänzung hinzu ' gedacht wird , während das Unendliche, das sich in unendlich vielen Etwas ausdrückt , als bestehend, oder seyend ; rein in , aus und durch sich gedenkbar ist.
+
+Wenn also das Etwas sich als ein in sich begründetes und selbstständig bestehendes Etwas erfaßt , so ist dies offenbar eine blos individuelle und subjective Erfassungsart, die nur in Bezug zu diesem Einzeln - Wesen eine bedingte Geltung hat , also lediglich subjectiv - real ist, während sie an und für sich in Bezug auf die Sache nichts gilt , ja nicht einmal eine unbedingte Geltung für alles individuelle Erkennen überhaupt hat , folglich nicht objectiv real ist.
+
+Mensch genannt ,
+
+Das Einzeln Wesen , geht in seinem individuellen und subjectiven
+
+Erfassen von einem mittelbar gegebenen Bewußtseyn aus, wird also dadurch bestimmt und bedingt. scheinbar anfängt ,
+
+Da nun dies und sich nach und nach vollendet, oder eben mittelbar gegeben ist , so wird auch das Object des Erkennens ein mittelbar gegebenes , oder wer dendes seyn , oder es wird sich nach und nach aus Einzein Theilen bilden und zusammen setzen.
+
+Das mensch liche von einem mittelbar gegebenen Bewußtseyn aus be stimmte und bedingte Erkennen wird also das Ganze; und Eine Theil und Stückweise erhalten , und , was es schon unmittelbar als ganz und eins erhielt , erst wieder mittelbar aus Theilen und Stücken ordnen und zu sammenseßen , also macht es das unmittelbar und urë sprünglich Ganze und Eire , zu einer Reihe von Nacheinander und hintereinander , Außer · Neben- und Uns [p. 175] tereinander, wodurch es zugleich Um- und Abgränzungen erhält, welches die unvermeidlichen
+
+Folgen von seinem, das Ganze und Eine , ödèr vielmehr Einérléiige, zerstückenden und zertheilenden Erkennen , und anderseits wieder die nothwendigen Bedingungen , oder Beziehungen sind, wenn das Ganze und Eine, als ein aus Stücken und Theilen bestehendes , soll erkannt werden kön
+
+Diese Bedingungen , oder Beziehungen, mit einem allgemein logischen
+
+Begriff bezeichnet, sind offenbar
+
+Raum und Zeit :
+
+Raum und Zeit sind fölglich Inbegriffe von Beziehungen , und zwar sind die Beziehungen des Inbegriffs
+
+Raum - Beziehungen in extensiver, und die des Inbegriffs Zeit - Beziehungen in intensiver Hinsicht.
+
+Beide sind Beziehungen in und an Dingen , denen diese entweder nur in Bezug zu dem bezüglichen Auffassen eines subjectiven Erkennens unterworfen sind , oder auch in Bezug zu dem zwischen ihnen und jenem Auffässen nothwendig Stätt findenden Verhältniß.
+
+Wie dem aber auch sey ,
+
+Einzeln - Wesen beide sind für déssen subjectives Auffassen
+
+Thatsache , und bedürfen als solche der Erklärung , der, da sie eine vielfach verwickelte und mit dialectischen Schwierigkeiten behafteté ist, mit Recht ein besonderer
+
+Abschnitt gewidmet wird.
+
+**§ 93**
+
+.
+
+Lehre von
+
+Raum und Zeit.
+
+Die Erörterung der Begriffe „ Raum und Zeit " bietet eine dreifache Seite , nämlich eine psychologi . sche , metaphysische und logische.
+
+Die psychologische erörtert die Frage : ob und wie die Vernünftigkeit, rein als solche gedacht , und abgesehen von allen andern
+
+[p. 176] Bedingungen , zu räumlichen und zeitlichen Vorstellungsarten komme ? Was diese als solche seyen? Wie sie die Vernünftigkeit bedingen , und in welchem Verhältnisse sie zu dem gesammten Systeme ihrer übrigen Vorstellungs- und Erkenntnißarten stehen ? Die metaphysische muß nachweisen , wie die Vernünftigkeit dazu komme, ihre räumlichen und zeitlichen Vorstellungsarten auf das Sinnlich - Wahrnehmbare räumlich und zeitlich zu überzutragen , erfasseu , oder es welche Geltung diesen Begriffen in ihrer Anwendung auf das Sinnlich. Wahrnehmbare zukömmt ?
+
+Die logische endlich erörtert die Begriffe blos als solche.
+
+Uns kann für jezt , und in diesem Zusammenhange , nur die metaphysische und logische Seite in der Untersuchung beschäftigen ; wo von dem Erkennen der Vernünftigkeit insbesondere gehandelt werden wird , da wird auch die psychologische
+
+Seite berührt werden.
+
+**§ 94**
+
+.
+
+Metaphysische Seitė.
+
+Raum und Zeit sind , wie bereits bemerkt ist, Sitz begriffe von Beziehungen , denen die Dinge nur in so weit unterworfen seyn können , wie weit sie der Beziehungen fähig sind : nun sind im Inbegriff des Raumes die Beziehungen , des Außer- Neben- und Untereinander, im Inbegriff der Zeit die Beziehungen des Nacheinander und Hintereinander , folglich können die Dinge unter dem Inbegriff des Raumes lediglich in sofern stehen, in wiefern sie der Beziehungen des Außer - Nebenund untereinander fähig sind , und unter dem Inbegriff der Zeit blos , in wiefern sie den Beziehungen des Nacheinander und Hintereinander unterworfen seyn können.
+
+[p. 177] Bei den Beziehungen können inzwischen die Wesen nicht als Wesen, sondern nur als Erscheinungen für einander unterworfen seyn . weiter nichts ,
+
+Denn die
+
+Wesen als Wesen sind als Einerleiigkeit von
+
+Vernunft und
+
+Leben , oder Vernunftleben ; als Einzelnheiten dagegen, als selbstständige und abgesonderte Erscheinungen können sie sich zunächst nicht als schlechthin einerleiig fühlen und selbst begreifen, sondern fühlen sich bald nur als bloße Einheit , bald als ein Zusammen , je nachdem sie in der Alheit , dem höchsten Weltenzwecke gemäß , höher , oder tiefer gestellt sind, oder sich sammt Zweck und Grund mehr , oder weniger vollständig begreifen können.
+
+Wie sich aber auch immer das einzelne Wesen, als solches, von seinem Standpunkte aus fühlen und begreifen mag, unbedingt bleibt es dessen ungeachtet Einerleiigkeit von Vernunft und Leben , oder Vernunftleben , und keines kann reine Vernunft, noch bloßes Leben allein werden, wenn gleich sich die Einzelnheit in ihrem Standpunkte entweder nur als reine Vernunft, oder als bloßes Leben erfaßte.
+
+Obwohl keine Einzelnheit außer dem Au und ohne das All ist, so ist doch jede verschieden von dem Au , indem sie einen bestimmten Standpunkt in ihm einnimmt, dem gemäß sie denken und leben muß, und Alles, was für sie in dieser ihrer bestimmten Denk- und Lebensart , als nothwendig gegeben ist, hat mithin für sie Nothwendigkeit und Gültigkeit , aber nur von bedingter, oder subjectiver Art , Lebensart, da jene bestimmte Denk- und nicht für das Wesen als solches , sondern nur beziehungsweise für das Wesen nothwendig war, d. i. nicht durch die Wesenheit Gottes , unendliches Vernunftleben , wiefern sie als solches Urgrund [p. 178] der Dinge ist, sondern durch den göttlichen Willen, wiefern er, als der Wille eines unendlich Guten und Vollkommnen, mit der Auheit im Ganzen, wie im Einzelnen, einen höchsten und unendlich vernunftgemäßen Zweck verband , begründet .
+
+Diesem höchsten Weltenzwecke gemäß hat jedes Wesen seine bestimmte Stellung, oder seinen besondern Standpunkt in und zu dem Al erhalten , den es jedoch , aus demselben Grunde , schlechthin unbedingt beibehalten , sondern mit höhern vertauschen soll, dergestalt, daß es sich , wie die AÜheit, vollständiger sammt Grund und Zweck zu begreifen vermag. Dieser Standpunkt , den ein Wesen einnimmt , und seine dadurch bedingte Art sich und das All zu begreifen , ist demnach für dies Wesen bloß etwas bezügliches , während seine eigentlich wahre Wesenheit , die es, abgesehen von allen möglichen Standpunkten , die es im All , einnehmen kann , und den dadurch bedingten . Arten , sich. und das
+
+All zu begreifen , besitzt, das unbezügliche , schlechthin unbedingte und unbedingbare ist. nunftleben nun ,
+
+Das bestimmte Ver-
+
+Mensch genannt , muß in Gemäßheit des ihm im All , vermöge des Weltzwecks , angewiesenen Standpunkts , und seiner dadurch bedingten bezüglichen Art, sich und das AU zu begreifen , Alle Dinge, so weit sie zu seiner Erkenntniß kommen , unter die Beziehungen , von Raum und Zeit stellen , ja, muß sogar die
+
+Erkenntniß aller Wesen, sofern sie bestimmte Standpunkte im All einnehmen , und dadurch in ihrer Art, sich und das All zu begreifen, bedingt sind , an dieselben Bedingungen knüpfen .
+
+Inzwischen vermag dies Vernunftleben auch einzusehen , daß jene Beziehungen ,
+
+Wesenheit der Wesen unbeschadet, der wahren wegfallen können, [p. 179] folglich nicht objectiv - real sind.
+
+Könnte es diese Einsicht rein unmittelbar haben und behalten, so würden jene
+
+Beziehungen selbst ihre bedingt nothwendige Geltung verlieren , oder nicht einmal subjectiv - real seyn.
+
+so kann diese Einsicht nur in dem Wesen seyn , das sich unmittelbar und mittelbar vollkommen klar als Mittelpunkt von unendlich Vielen , die zu ihm als Kreis gegeben sind , erfaßt, oder nur in Gott selbst. Art von Einsicht , dies Wissen ,
+
+Zwar kann diese oder Durchschauen, keinem Gliede des All seiner Möglichkeit nach abgespro. chen werden , da alle in , aus und durch Gott sind, aber aus demselben Grunde kann es in, keinem in seiner Vollendung, oder als Wissen und Schauen seyn, sondern nur ein dunkles Fühlen , oder Ahnen, das zum Erkennen und Wissen erst erweitert werden muß , das also nur ein mittelbares
+
+Entwickelung des Ahnens zum Erkennen , Begreifen und Wissen geht im Menschen. vom Bewußtseyn aus , das ihm die eigene Wesenheit nicht als Einerleiigkeit von alldurchschauendem Denfen und allumfassenden Leben , oder als unendliches Vernunftleben , sondern nur als ein Glied von dieser EinerLeiigkeit, oder als bestimmt gegebenes Vernunftleben, folglich als umfaßt und enthalten , oder als bedingt und bedingbar abspiegelt.
+
+Wenn gleich nun abgesehen , von dieser besondern Auffassungsart die menschliche Wesenheit, gleich der Wesenheit aller Dinge, die unbedingte Fä. higkeit ist, Alles ununterbrochen vollkommen klar , samt Grund und Zweck, nebst allen möglichen Beziehungen, unmittelbar zu erfassen , und zugleich, unendlich viele, in, durch und aus sich, als in sich begründete , selbst. ständige Erscheinungen darzustellen , und zu behaupten, [p. 180] so vermag sie doch der Mensch, obschon er sie in seiner Wesenheit dunkel fühlt , also anschaut, nicht in seinem Bewußtseyn deutlich und klar zu erfassen , oder zu be greifen , sondern er begreift sie als eine in seiner Wesenheit bedingt vorhandene.
+
+Aber jenes
+
+Fühlen ist unmittelbar vorhanden , und nicht durch das Bewußseyn' bedingt ; in diesem Fühlen erscheint er sich nicht als ein bestimmt gegebenes Vernunftleben , oder als Einzelnheit , sondern als Vernunftleben , oder Wesen überhaupt , das allen andern gleich ist; in seinem Bewußtseyn dagegen søndert er sich von ällen Andern zusammen, und jedem insbesondere ab , und unterscheidet sich von ihnen , begreift sich mithin als ein einzelnes , bestimmt gegebenes Vernunftleben , oder begreift sich nicht als die unbedingte Fähigkeit zu erkennen , und Lebendige in , aus und durch sich darzustellen , und zu behaupten, sondern nur als die bedingte Fähigkeit.
+
+In wie weit also jede Einzelnheit ihre eigentliche Wesenheit sammt Grund und Zweck begreifen soll , das bestimmt sich nach dem Umfange ihres Bewußtseyns , aber nicht das Enthaltenseyn der eigentlichen wahren Wesenheit selbst, die in einem unmittelbar gegebenen Urgefühl als unzwei1 gegeben ist. Das Vorhandenseyu von felhaft gewiß dieser in ihm als Wesen überhaupt, ist schlechthin nothwendig gegeben , und wird folglich , abgesehen von allen Umständen , Verhältnissen und Bedingungen , unter die das Wesen, als bestimmt gegebenes Einzeln - Wesen, gestellt ist, ihrer Natur genügen müssen.
+
+die Fähigkeit , darzustellen zu begreifen , zu
+
+Diese ist nun eben und zugleich Lebendige behaupten , der vollständig nur genügt wäre , in wiefern das Einzeln - Wesen AU wird.
+
+[p. 181] Aber im All braucht der Fähigkeit , Leben darzustellen, nicht erst noch genügt zu werden, denn sie ist in ihm ursprünglich und digt gegeben.
+
+unmittelbar schlechthin befrie-
+
+Nun ist zwar jede Einzelnheit nothwendig in und mit dem Aul , aber sie ist doch nicht für ihr
+
+Erkennen und Begreifen AU selbst, sondern nur ein integrirendes Glied des All, und folglich wird zwar in ihr , wie im All , die Fähigkeit , zu begreifen, und Leben darzustellen, erscheinen, aber sich für ihr Begreifen und Erkennen nicht so in ihrer Wesenheit darstellen können, als sie sich im All darstellen konnte , und dar gestellt hat, und mithin hat sie sich in ihrer Wesenheit nur ungenüglich für sie dargestellt , so, daß sie der Ergänzung und Vervollständigung bedarf, wózu die Möglichkeit in ihrer Wesenheit gegeben ist.
+
+In wie weit nun die mehrgedachte Fähigkeit zu begreifen , und Leben darzustellen , für das Begreifen des Einzeln - Wesens, als wirklich vorhanden in seiner Wesenheit, obschon nur als ungenüglich vorhanden , erscheint , ist sie Eigenschaft von seiner Wesenheit : in wiefern sie aber als die darin vorhandene Möglichkeit gedacht wird , dereinstigen Vervollständigung und genüglichen Befriedigung dieser Fähigkeit , in dem Einzeln - Wesen, ist sie eben nur Fähigkeit , Möglichkeit. Das Einzeln - Wesen muß also von seinem Standpunkte aus in sich zwischen Eigenschaft und Fähigkeit unterscheiden , und wenn sie jene unbedingt in sich hat, hat sie diese nur beziehungsweise.
+
+Das Einzeln - Wesen also, wiefern es nothwendig integrirendes Glied des All ist, kann aldurchschauend und allerhaltend werden , ja, ist es Selbst in gewissem Sinne, in wiefern es sich aber blos [p. 182] als Einzeïn - Wesen und außer seinem nothwendigen
+
+Zusammenhange mit dem Au betrachtet und begreift, ist jene Möglichkeit nicht vollständig erfüllt , und auch nicht vollständig erfüllbar , ist es also ein in sich selbst ungenügsames , das der Ergänzung und Vervollständigung abseiten Eines innerlich schlechthin Selbstgenügsamen wesentlich bedarf.
+
+Betrachtet sich nun das Einzeln -Wesen in seinem nothwendigen Zusammenhange mit dem All, fällt das Gefühl des innerlich Ungenüg- A samen sammt Allem, was nothwendig und wesentlich damit verknüpft ist , zwar weg , wird aber dadurch noch keines weges vernichtet , und folglich kann 1 sich das EinzelnWesen wohl über dasselbe erheben, demselben losmachen ; jedoch nicht von es ist vielmehr das Gewöhnliche und Natürliche, zu dem das Einzeln - Wesen stets von neuem zurückkehrt, während es sich zu jenen nur ausnahmsweise und mittelst, einer außerordentlichen Anstrengung zu erheben vermag.
+
+Was also unvermeidlich aus diesem Gefühle hervorgeht , hat für das Einzeln eine bedingt nothwendige Geltung , oder ist subjectiv - real. Dies Gefühl des innerlich Ungenügsamen hat in dem bestimmt gegebenen Vernunftleben , Mensch genannt, seinen Grund in seinem mittelbar gegebenen Bewußtseyn,' in ihm die
+
+Erkenntnißform , vorherrschende bedingende aber nicht die einzige , noch die ausschließliche ist, und das sich nicht als vollendet, und in sich geschlossen, zu erfassen vermag . Wollte mithin der Mensch diese seine individuelle Art des Erkennens , und damit zugleich jenes Gefühl des innerlich Ungenüglichen, ganz in sich aufheben , so müßte er seine Fähigkeit zu begreifen, øder sein Denken überhaupt , nicht durch einzelne Hauptformen [p. 183] bestimmt, sondern ununterbrochen stets als To i. sich seiner selbst in allen möglichen 7talität erfassen, d. Formen zugleich inne seyn. Eine solche Anschauungsart zu begründen , ist nun in der That ein Hauptzweck alles Philosophirens ; könnte er mithin nie erreicht werden, so wäre die Philosophie , aufgehoben, selbst ihrer Möglichkeit nach, als wenn er in einer bestimmt eben so , gegebenen Zeit erreicht werden könnte.
+
+Aber diese Aufgabe ist offenbar , ihrem Umfange nach , unendlich , und das Einzeln - Wesen kann ihrer Anforderung genügen , außer , wenn es nicht bloß in der Idee , sondern selbst der Sache nach , All geworden ist , wenn es sich also nicht mehr blos als in sich , sondern als schlechthin in sich selbst genügsam erfaßte , folglich alle Bedin · gungen aufgehoben sind , machen.
+
+dieses zum Einzeln - Wesen
+
+Daß nun eine solche Anschauungsart in jedem
+
+Einzeln Wesen ihrer Möglichkeit nach gegeben ist, ist schon bemerkt worden , und zwar um deswillen , weit alle unbedingt , und ohne Ausnahme, die Wesenheit ihres Urgrundes , d. 1. Vernunftleben , in sich haben : aber sie ist in ihnen als Einzeln - Wesen , die in Gemäßheit des höchsten Weltzwecks im All ihren besondern und individuellen Standpunkt haben , nicht wirklich ihrer Vollendung nach vorhanden , und von diesem Standpunkte aus, können sie sich , so lange sie sich in demselben befinden, nicht anhaltend losmachen , sondern sind unvermeidlich in demselben befangen.
+
+können die Einzeln
+
+Wesen ihren Standpunkt nicht aufgeben , obwohl sie ihit einstweilig beseitigen können.
+
+Auch können sie ihn verlieren , oder mit einem andern nach Öben , oder Unten zu vertauschen , da ihre Wesenheit keinesweges an dem
+
+[p. 184] Besize dieses Standpunkts nothwendig gebunden
+
+Dem Menschen ist im All, als einem bestimmt gegebenen Vernunftleben , vermöge des böchsten Weltzwecks ein hoher Standpunkt angewiesen, dem gemäß er in seinem Erkennen und Begreifen nicht schlechthin unbedingt von seinem mittelbar gegebenen Bewußtseyn auszugehen , und sich darnach zu bestimmen braucht, sondern auch von einem unmittelbar gegebenen Urerkennen ausgehen kann, zu dem überzugehen , ihn ohnehin ein inneres unwiderstehliches Gefühl treibt.
+
+Dennoch erhält dieses Gefühl, wie jenes unmittelbar gegebene Urerkennen , das sein
+
+Object gleichfalls als unmittelbar gegeben erfaßt , für ihn nur unter Vorausseßung, des Bewußtseyns , Bedeutung und Geltung : denn das Bewußtseyn , obschon nicht die einzige , noch alleinige geistige Hauptform , ist die wesentliche
+
+Bedingung zum oder zum Vernunftwesen , selbst inne worden ist , eigentlich
+
+Vernünftigen, d . i. dessen , das sich seiner und dadurch von allem Andern überhaupt und jedem Andern insbesondere unterscheidet, da die Vernünftigkeit , oder Vernunft überhaupt , d. i.
+
+Fähigkeit , zu Erkennen und zu Begreifen , Allen ohne Ausnahme gemeinsam ist. Vernunftwesen ,
+
+Auch der sein selbst
+
+Mensch ist ein als ein erkennendes, begreifendes und von Andern verschiedenes , seinen innern, wie äußern Beziehungen nach inne geworden ist ; allein dies Innegewordenseyn , oder Bewußtseyn , ist in ihm mittelbar und successiv , beginnt , entwickelt und vollendet sich.
+
+das Begreifen feines innern und der dasselbe , ständiges
+
+Selbsts, als ein in sich begründetes , selbst-
+
+Einzeln - Wesen umgebenden gungen nur möglich ist,
+
+Außen - Bedinin wiefern er ein vollendetes
+
+[p. 185] Innegewordenseyn seiner selbst in sich hat , so wird auch jenes Begreifen ein mittelbares und successives seyn, oder anfangen, sich entwickeln und vollenden , und zwar wird es mit dem anfangenden beginnen ,
+
+Bewußtseyn zugleich da es seine unmittelbare und nothwendige
+
+Folge ist , und so wird der Mensch für sein Erkennen unvermeidlich noch vor seinem vollendeten vollen Inne gewordenseyn seiner selbst, eine Reihe von scheinbar wirklichen Hintereinander und Nacheinander , oder Zeit erhalten : denn die Zeit ist nichts weiter , als die Reihe von scheinbar wirklichem Hinter · und Nacheinander. Eben so verhält es sich , sofern der Mensch sein Begreifen und Erkennen in Bezug zu dem Sinnlich - Wahrnehm baren auffaßt.
+
+Zwar besteht dies vor seinem Erkennen und Begreifen, und unabhängig davon selbstständig in sich; allein für ihn besteht es doch nur , inwiefern er des Begreifens uns Erkennens davon fähig ist, und also hat das Sinnlich- Wahrnehmbare gleichsam ein doppeltes Bestehen , jenes von allem
+
+Erkennen unabhängige und sich begründete ,
+
+Begreifen welches das objec tive ist, und dieses für ein bestimmt gegebenes Einzeln Erkennen gegebenes , und dadurch bedingtes , das subjective ist.
+
+Des
+
+Menschen
+
+Erkennen und
+
+Begreifen fängt inzwischen nicht von dem Sinnlich Wahrnehmbaren an , obschon dies zuerst auf ihn einwirkt, sondern von seinem innern Selbst. des Sinnlich
+
+Wahrnehmbaren , mittelbar Gefühle,
+
+Denn die Einwirkung entwickelt allerdings
+
+Empfindungen und dunkle Vorstellungen in dem Erkennenden , 1 was man jedoch kein
+
+Erkennen und Begreifen nennen kann.
+
+Denn Erkennen und Begreifen , d. i. deutliches und bestimmtes Innewerden [p. 186] und Unterscheiden der Dinge, feßt, seiner Mög das deutliche und bestimmte Innegewors lichkeit nach, denseyn unserer selbst , als eines Vernünftigen , und das genaue Unterscheiden unserer selbst , als eines Selbstständigen und Gesonderten , von Andern , oder vollendetes Bewußtseyn wesentlich voraus.
+
+Aus dem Gesagten folgt, daß ersteres dem letzteren vorangehen , oder zu dem leg teren als Ursache nothwendig hinzu gedacht werden muß : ferner, daß das menschlich Vernünftige , da es sich nicht als Alvernünftiges , sondern nur als ein Glied von, demselben zu erfassen vermag : sich von den Andern als außer und neben sich unterscheiden wird , und zwar wird es zuerst von sich ein Anderes überhaupt, als außer und neben sich , unterscheiden , dann ein Anderes insbesondere , und endlich das Andere überhaupt, als ein aus vielen Andern bestehendes , gegliedertes , oder als ein getheiltes und und so erhält es den Raum, der weiter nichts ist, als die Reihe des scheinbar wirklichen Außer-, Neben- und untereinander.
+
+Raum und Zeit sind also nicht, wie Kant meinte,
+
+Urformen des menschlichen
+
+Denkens , sondern nur die unvermeidlichen Folgen von einer Urform , dem Bewußtseyn nämlich.
+
+Unterschied nicht so unwesentlich ist ,
+
+Daß dieser als es auf den ersten Blick scheinen könnte, ist bereits oben § 78. dar gethan.
+
+Auch sind diese Begriffe nicht Wirkungen von jener Urform , wiefern sie Eigenschaft von der menschlichen Wesenheit an sich ist , sonderu sind es nur von thr , in wiefern sie als Eigenschaft von der menschlichen Wesenheit beziehungsweise betrachtet werden muß. Begriff, Raum, aber seßt, seiner Möglichkeit nach; theils ein sich seiner selbst bedingt bewußtes Erkennen, [p. 187] theils ein Sinnlich - Währnehmbares voraus , das nicht blos außer und neben dem Menschen erscheint , sondern auch wirklich sich außer und neben dem Menschen befindet, und folglich scheint der Begriff, Raum , dennoch eine objective Bedeutsamkeit zu haben , da es im Begriff » sinnlich- wahrnehmbar “ liegt, daß das Sinnlich - Wahrnehmbare irgend eine Eigenschaft , oder Fähigkeit in und an sich haben muß , vermöge der es auf die Fähigkeit des Menschen, einem
+
+Gegenstande physisch berührt und ergriffen zu werden, einwirken kann , und diese Eigenschaft ist offenbar das Licht : denn nur unter Vorauseßung von Licht in einem Gegenstande , ist eine Erkenntniß von ihm, als einem äußerlichen, oder sinnlich wahrnehmbaren möglich.
+
+Das Licht also ist objectiv reale Eigenschaft der Dinge, sofern sie bloß befriedigtes Leben, bloß Lebendige, Materie, Körper sind. Der Naum aber , in dem die Körper erscheinen , bat gleichwohl keine objective Bedeutsamkeit, ist nichts Objectiv - Reales. Objectiv - real nämlich wäre er, wenn die Wesen, abge. sehen von dem bedingten Erkennen und Begreifen eines besonders bedingten Einzeln - Wesens , irgendwo befinden müßten , nothwendig sich das Irgendwo also ,
+
+Grund- und Elementar- Begriff vom Raume , eine objec tiv - reale Eigenschaft von der Wesenheit der Wesen, als solcher wäre aber das Irgendwo hat mit der Möglichkeit, oder Fähigkeit der Wesen, als selbstständig in sich begründete, zu bestehen , nichts gemein , da diese eine objectiv-reale Eigenschaft von ihrer Wesenbelt an sich ist, der sie schlechthin unbedingt genügen müssen, während das Irgendwo offenbar eine bloße Bedingung ist, die nur in Bezug zu einem Bezüglichen und Bedingten [p. 188] eine bedingte Geltung haben kann.
+
+Die Wesen bestehen nämlich nicht überhaupt , sondern bestehen im nothwendigen Zusammenhange mit unendlich vielen Andern , von denen sie im Allgemeinen , wie im Einzelnen, gesondert und verschieden sind , in Bezug , zu denen sie also ihren besondern, eigenen und eigenthümlichen Standpunkt einnehmen ; die Wesen sind folglich nicht blos
+
+Einzeln Wesen , sondern auch bestimmt gegebene, besonders bedingte Einzeln - Wesen.
+
+Als Einzeln - Wesen überhaupt bestehen sie auch schlechthin unbedingt ; bestimmt gegebene und besonders bedingte Einzeln - Wesen haben sie nur ein bedingtes , bezügliches , subjectives, individuelles Bestehen , wornach sich die Art und Weise, ihres Erkennens und Begreifens unvermeidlich bestimmt, wo von es also auch abhängt, ob und in wie weit sich dies Einzeln- Wesen seiner objectiv- realen Wesenheit nach begreifen soll , oder nicht.
+
+Niemals aber kann es für irgend ein Einzeln - Wesen schlechthin unmöglich seyn, sich irgend einmal seiner objectiv - realen Wesenheit nach, vollkommen klar zu erfassen , da ja in Allen unbedingt, und ohne Ausnahme, die Wesenheit Gottes ist ; d. i . die Fähigkeit , Mittelpunkt eines All zu seyn , und sich als solchen vollkommen klar zu erschauen. Sollte also irgend ein Einzeln Wesen sich schlechthin unbedingt nicht also erfassen können , so müßte Gott. feine eigene Wesenheit entweder aufheben , oder umwandeln , welches aber, da er das Vollkommene an sich ist, unmöglich ist, und folglich muß sich seine Wesenheit in allen einzelnen Punkten des unendlichen Kreises , dessen Mittelpunkt er ist , vollem Umfange nach, befinden.
+
+ihrem
+
+Auch erschaut sich Gott so, und ist sich daher in seinem Schauen weder Mittelpunkt [p. 189] noch Kreis , nerleiigkeit , Kreis , sondern schlechthin untrennbare Ei-
+
+Totalität , so, daß der Mittelpunkt stets und der Kreis stets Mittelpunkt ist.
+
+Von dieser
+
+Anschauungsart kann der einzelne Punkt im Kreise, als solcher, einen Begriff haben , aber unmittelbar in sich, so fern er sich als Einzeln - Punkt erfaßt, vermag er sie nicht zu erfassen , obschon er die Möglichkeit in sich fühlt, sein Anschauen , wenn auch nicht jetzt , doch irgend einmal, welches der Grund- und Elementar - Begriff von der Zeit ist, zum göttlichen
+
+Schauen zu erweitern.
+
+Daher ist Alles , was für ihn aus seiner Anschauungsart, als der Anschauungsart eines bestimmt gegebenen, besonders bedingten Einzeln - Wesens , oder eben aus seiner jeßigen, unvermeidlich folgt , nur bedingt gültig, lediglich subjectiv und individųell , keinesweges unbedingt allgemein gültig , oder objectiv - reell.
+
+Jener Inbegriff nun von scheinbar wirklichem Außer- , Neben- und Untereinander , oder der Raum , jenem individuellen , erzeugt sich lediglich aus oder subjectiven Anschauen, ist folglich selbst nur ein bedingt gültiger , oder subjectiver Begriff, der in sich besteht , während die Möglichkeit sinnlich wahrzunehmen , oder wahrgenommen zu werden, ebenfalls eine in sich bestehende , von jener auf keine Weise bedingte ist , die auf dem Vorhandenseyn von Licht in dem Wahrgenommenen , als objectiv - realer Eigenschaft, beruht.
+
+Licht in sich hat , nen, von
+
+In wiefern also ein Gegenstand wird er wahrgenommen werden köneinem sinnlich empfindenden Wesen:
+
+Wesen wird mithin den Gegenstand erfassen , aber wie und als was es ihn erfassen soll , bängt unvermeidlich von der individuellen Art und Beschaffenheit seines Erfaffens [p. 190] ab.
+
+Könnte irgend ein Einzeln - Wesen das All unmittelbar als solches , oder als Totalität erfassen , so würde der Raum für dasselbe selbst seine bedingte, oder subjective Geltung verlieren.
+
+Aber dies seht ein un mittelbar gegebenes , allumfassendes Bewußtseyn: voraus : nun ist das Bewußtseyn des Einzeln - Wesens ein mite telbar gegebenes und zugleich nur Glied des Allumfassenden, folglich kann es unmittelbar das All als solches, oder als Totalität nicht auffassen , sondern seht das Ganze und Eine unvermeidlich erst allmählich , nach und nach, oder successiv aus Einzln - Theilen zusammen, construirt, mithin einen Inbegriff, zu erkennen , daß das, Ganze und Eine seiner eigentlich wirklichen, oder objectiv-reellen Beschaffenheit nach , kein Inbegriff, sondern Totalität sey, d. i. ursprünglich und unmittelbar als.
+
+ein aus unendlich Bielen bestehendes Ganze und Eine gegeben , muß es sich vermittelst einer außerordentlichen Anstrengung zu seinem unmittelbar gegebenen Urerkennen, oder zur Anschauung , zur Idee erheben.
+
+In der Idee also verlieren Raum und Zeit ihre bedingte, oder subjective Geltung, die sie im Begriff haben.
+
+So erhellt hoffentlich, wie die individuelle Vernünftigkeit des Menschen dazu kömmt , ` ihre räumlichen und zeitlichen Vorstellungsarten auf das
+
+Sinnlich - Wahrnehmbare und
+
+Geistig Erkennbare zu übertragen, und welche Geltung dies Uebertragen hat, und somit ist zugleich die, metaphysische Seite der Untersuchung erschöpft, und wir können uns nun zur logischen wenden.
+
+[p. 191] 95.
+
+§. Logische
+
+Erörterung des
+
+Begriffs,
+
+Zeit.
+
+Die Zeit, als Begriff gedacht, ist Reihe , die hinsichtlich ihres Inhalts bestimmt und bestimmbar , hin sichtlich ihres Umfangs aber unbestimmt und unbestimmbar
+
+Sie sezt sich nämlich aus einer Anzahl von Nacheinander und Hintereinander oder Irgendwenn , zusammen, welche die einzelnen Punkte , Reihe ausmachen.
+
+Solcher Punkte sind in der Reihe unendlich viele möglich , ausgenommen.
+
+oder Momente der aber nicht nothwendig , zwei
+
+Denn aus einem einzigen kann die Zeit nicht bestehen ; vielmehr deutet der Ausdruck „ Nacheinander und Hintereinander " schon im Voraus die Nothwendigkeit an, daß , den Begriff Zeit zu erhalten, wenigstens zwei solcher Momente gesezt werden müssen, inzwischen nicht neben einander bestehen können, sondern einander gegenseitig aufheben und vernichten.
+
+Die Zeit ist als Symbol des scheinbar wirklichen Geschehens und Werdens zu betrachten , und daher fließend und möglicher Weise nur von einer Richtung. Das Geschehen und Werden , als Folge des unendlichen , und in sofern unersättlichen und unerschöpflichen Lebens , kann nie enden , sondern muß stets seinen ununterbrochenen Fortgang haben.
+
+In gewissem Sinne läßt es sich inzwischen allerdings als unterbrochen , vollendet, ersättigt ansehen.
+
+Denn das Geschehen und Werden feßt , in wiefern es für ein bedingtes und individuelles Erkennen ein erkennbarer Gegenstand werden soll, einen Punkt voraus , von wo aus es anhebt , also einen Anfangspunkt , der freilich kein absoluter , aber doch ein bezüglicher, oder relativer Aufangspunkt ist, d. i. fein [p. 192] solcher , der schlechthin beziehungslos dastehend , die Reihe der Erscheinungen und Begebenheiten rein in, durch und´aus sich in aller Beziehung vollständig begründete , folglich der Urgrund der Dinge wäre , sondern nur ein solcher , bei dem man einstweilig, und vorläufig eine Reihe von Erscheinungen und Begebenheiten beginnen , oder enden kann , der inzwischen wieder in sich selbst ungenügsam, also der Ergänzung, Vervollständigung abseiten eines Andern nothwendig bedarf, von dem aus man folglich weiter fortgehen muß , entweder nach Oben, oder nach Unten zu : in wiefern man von ihm aus nach Oben zu fortgeht, Wirkung, wird er wieder Mittelpunkt oder in wiefern man dagegen von ihm aus nach
+
+Unten zu fort geht , wird er von neuem Ursache zu einer Reihe von Wirkungen , neuen Reihe von oder Anfangspunkt von einer
+
+Erscheinungen und Begebenheiten.
+
+Also jede Erscheinung kann der Anfangs- oder Endpunkt von einer Reihe werden ; aber keine in und von der Reihe selbst kann sie schlechthin begründen , oder abfolnt anfangen und enden zugleich.
+
+In wiefern nun irgend eine Erscheinung als relativer Anfangs- oder Endpunkt von einer Reihe gedacht wird , ist auch das unerschöpfliche Leben in ihm, als einstweilig ruhend , oder als unterbrochen , vollendet , ersättigt gedacht; in wiefern dagegen jede wieder unbedingt und ohne Ausnahme nur als relativer Anfangs- oder Endpunkt gedacht werden kann, ia gedacht werden muß , ist auch das unendliche Leben in jeder eben als unendlich , oder unerschöpflich, unersättlich , ununterbrochen fortquellend gedacht.
+
+Demnach bilden die sämmtlichen Erscheinungen zusammen nothwendig eine unendliche Reihe, in welcher es hervorragende [p. 193] Punkte gibt , durch die in ihr ein einstweiliger Anfang und einstweiliges Ende als möglich gegeben ist, und wenn die Erscheinungen überhaupt in dieser unendlichen Reihe , sofern sie Offenbarungsarten des unendlichen Lebens , folglich im Entwickeln und Vollenden begriffen sind , in Bezug zu einander als Ursache · und Wirkung betrachtet werden müssen , werden jene hervorragenden Punkte, bei denen man einstweilig beginnen und enden kann , eine bestimmte Summe von Ursache und Wirkung , oder ein gewisses Quantum des Geschehens und Werdens , in sich begränzen , oder einschließen. Solcher Summen können immer neue, oder unendlich viele, gebildet und aneinander gereiht werden , und nur, in wiefern all die möglichen unendlich vielen Summen zu einem Ganzen , oder einer
+
+Reihe verbunden sind, können sie als genügliches und vollständiges Abbild vom unendlichen Werden betrachtet werden : die Reihe also, welche all die möglichen unendlich vielen Summen in sich vereint, wird ihrem Umfange nach unendlich , jede einzelne Svmme aber wird , da sie aus einer bestimmten Anzahl von Ursache und Wirkung besteht, ihrem Umfang nach endlich seyn.
+
+Die ihrem Umfange nach unendliche
+
+Reihe kann niemals als schlechthin vollendet , sondern muß stets nothwendig, als noch in der Vollendung begriffen gedacht werden , wogegen allerdings die ihrem Umfange nach endliche Reihe einigermaßen als vollendet gedacht
+
+Die ihrem Umfange nach unendliche Reihe ist die
+
+Zeit , welche sich aus den,kihrem Umfange nach endlichen Reihen, oder einzelnen Symmen, unaufhörlich zusammen sezt, aber nicht vollendet : Diese einzelnen Summen sind gleichsam der Inhalt der unendlichen Zeitlinie, und folglich [p. 194] ist die Zeitlinie ihrem Umfange nach, unbestimmt, und unbestimmbar, ihrem Inhalte dagegen bestimmt, und bestimm bar. Wird irgend eine Erscheinung, oder Begebenheit, als Ursache gedacht, so ist die Wirkung zugleich nothwendig mitgedacht, wenn gleich als noch enthalten in ihrer Ursa• che, oder noch als erst hervorbrechend aus ihr ; wie sie dagegen als schon hervorgebrochen aus ihr, oder geschieden von ihr , als Wirkung gedacht ist, wird dadurch zugleich ihre Ursache als vernichtet , oder aufgehoben gedacht :
+
+denn die Ursache muß der Wirkung vorangehen , und die Wirkung der Ursache folgen , die Wirkung ist also erst hinter und nach der Ursache möglich.
+
+In jedem Wesen ist die unbedingte Fähigkeit ein Alleben in, aus, und durch sich darzustellen , also ist jedes seiner Wesenheit nach, nothwendig Ursache, aber nicht jedes kann dieser unbegränzten Fähigkeit unbedingt, sondern nur bedingt, dem Stardpunkte gemäß , den es im und zum Aɑ einnimmt, genügen. Um deswillen nimmt inzwischen seine Fähigkeit, Leben darzustellen , nicht ab , sondern bleibt dieselbe, wird mithin stets von neuem zur Befriedigung antreiben. Wie viel Leben also auch immer das Einzeln - Wesen in , durch und aus sich dargestellt hat , immer hat es noch zur Darstellung von neuem Leben die Möglichkeit in sich, und kann folglich unaufhörlich Ursache zu stets neuen und neuen Summen von Wirkungen werden. von ihm ausgegangenen Wirkungen wird es von sich, als ihrer Ursache , trennen ; eben so wird es die einzelnen Wirkungen in sich einander scheiden. Sofern ein Einzeln - Wesen überhaupt , und $ als solches Vernunftleben ist , und von ist die Fähigkeit Alleben in, durch und aus sich darzustellen , unbedingt eine objectivreale [p. 195] Eigenschaft von seiner Wesenheit; sofern es dage. gen ein einzelnes, bestimmt gegebenes, besonders bedingtes Vernunftleben ist , also seine eigene , besondere und eigenthümliche Stellung , in und zu dem All hat , behält es jene Eigenschaft zwar als eine objectivreale , nur auf eine bedingte Weise , indem es als Einzeln. Wesen derselben nicht vollständig genügen kann ; nur zum Theil kann sich jene Fähigkeit in ihm als Einzeln Wesen befriedigen , diese Befriedigung ist nicht unmittelbar als vollendet gegeden , sondern vollendet sich erst mittelbar , beginnt, und endet daher.
+
+In wiefern
+
+sie beginnt, wird das Einzeln - Wesen als Ursache gedacht ; in wiefern sie endet , wird es Wirkung seyn.
+
+Dies vorläufige Beginnen und Enden ist ein Geschehen ,
+
+Werden, das seiner Algemeinheit nach, oder in seiner Besonderheit betrachtet werden kann; meinheit betrachtet , in seiner Allge ist es das unaufhörlich , ununterbrochen und gleichförmig fortquellende , im All wogende Leben , das nirgends und nie weder anfängt, noch endet; in seiner Besonderheit dagegen der unabtreibliche Trieb im Einzeln - Wesen so unaufhörlich , ununterbrochen und , gleichförmig sich zu entwickeln , wie im All , der sich im Zeugen und Schaffen offenbaren muß ; sein Erschaffnes und Gezeugtes ist die Wirkung.
+
+Diese ist also, in wiefern der Trieb als ein Handeln betrachtet wird , das Vollendete,
+
+Geschlossene , oder Handlung ,
+
+That , die in
+
+Bezug zu ihren Wirkungen , von neuem ein Handeln wird.
+
+Jedes Handeln bedingt nothwendig eine Hand-
+
+Jung, und umgekehrt jede Handlung ein Handeln , aber nicht das Handeln überhaupt , sondern nur ein bestimmt gegebenes Handeln.
+
+Denn die Handlung ist nichts Allgemeines, [p. 196] sondern nur ein Einzelnes, bestimmt Gegebenes. Demnach kann zu ihr , als Wirkung , nicht das Allgemeine, sondern lediglich das Besondere als Ursache hinzu gedacht werden :
+
+nun ist das Allgemeine das Handeln überhaupt , das Besondere dagegen ein bestimmtes Handeln, und folglich ist keine einzelne Handlung , Wirkung vom Handeln überhaupt , noch das Handeln überhaupt Ursache zu einer einzelnen Handlung , sondern eine einzelne Handlung seßt ein einzelnes Handeln als Ursache nothwendig voraus , und nur ein einzelnes Handeln kann eine einzelne Handlung als Wirkung bedingen.
+
+Keine einzelne Handlung kann in ihrer bestimmten Gestaltung zweimal wiederholt werden : denn das einzelne Handeln, die bestimmte Möglichkeit , vollbringen , wird , ein bestimmt Gegebenes zu so bald bracht , oder Handlung , dies eine wirklich voll-
+
+That geworden ist, als völlig aufgehoben und erschöpft gedacht, während die Möglichkeit , Erscheinungen und Begebenheiten , sprunge nach, zu begründen, ihrem Uroder das Handeln überhaupt, schlechthin unbedingt fortdauert, und nie erschöpft, noch erschöpfbar ist.
+
+Demnach können eine unendliche
+
+Menge von Handlungen vorgenommen werden , wovon jedoch jede eine andere , neue , und von der vorigen ganz verschiedene ist, also auch eine andere und neue Ursache vorausseßt, da dieselbe Ursache nothwendig dieselbe Wirkung haben müßte , und folglich vernichtet jede Wirkung die sie als solche bedingende Ursache.
+
+Das Handeln, überhaupt wird mithin mit all feinen unendlich vielen Handlungen eine unendliche Linie bilden , jedes einzelne Handeln mit seinen gehörigen Handlungen , in welcher einzelnen zu ihm ein bestimmtes Quantum von
+
+[p. 197] Handeln,
+
+Geschehen ausmacht.
+
+Jedes Handeln erzeugt, seiner Natur nach , nothwendig eine Handlung, jede Handlung hebt ein Handeln auf , also muß man nothwendig vom Handeln zur Handlung fortgehen , und kann von dieser aus den betrachten.
+
+jenes gar nicht mehr als vorhan-
+
+Demnach ist die Zeit eigentlich nur ein Punkt , und ohne alle Richtung , da der Punkt, áls das Nichts im Ganzen , eigentlich keine Richtung seyn kann ; jedoch läßt sich von dem Punkte aus eine Richtung bestimmen.
+
+Von dem Punkte aus , welcher die
+
+Zeit ist, läßt sich möglicher Weise nur eine einzige Richtung bestimmen.
+
+Bestimmt man sie nach Unten zu, indem man von der Ursache zur Wirkung fortgeht , ist die Richtung nach Oben hin unmöglich , da jede Wirkung ihre
+
+Ursache aufhebt und vernichtet :
+
+bestimmt man sie nach
+
+Oben zu, geht man also von der Wirkung zur Ursache fort, ist die Richtung nach Unten hin unmöglich , da jede Ursache nur als solche gedacht werden kann , mit
+
+Sehung einer andern und frühern Ursache ,
+
+Ursache aufgehoben , oder selbst zur Wirkung geworden
+
+Eigentlich aber läßt sich in der Zeitlinie gar nicht von Oben und Unten reden , da Ursache und Wirkung stets nothwendig wechselseitig durch sind , einander bedingt folglich gleichsam ein Paar ausmachen , in der Zeitlinie gegebenen und die
+
+Summen feßen sich mithin aus Paaren zusammen , und sind intensiver Art , d. i.
+
+können zwar viele solcher Einheiten , oder vielmehr , da jede aus zweien schlechthin untrennbar mit verbundenen Gliedern besteht , darstellen , einander
+
+Einerleiigkeiten in sich aber jedesmal nur eine mit Ausschließung aller andern.
+
+Das Geschehen kann also viele solcher
+
+[p. 198] Einheiten durchlaufen ;
+
+allein wie viele deren es auch
+
+Durchläuft , was ganz unbestimmt und unbestimmbar ist, immer kann es nur eine nach der andern durchlaufen, und nicht alle zugleich ; ja , es kann nicht blos jede, sondern muß sogar jede durchlaufen, indem es sich in keiner bleibend verweilen kann.
+
+Denn ist es in einer dieser
+
+Einheiten, so ist der Fortschritt zur nächstfolgenden mit unendlicher Nothwendigkeit für dasselbe gegeben , und ist es zur nächßfolgenden gelangt , so ist dadurch die vorangehende als völlig vernichtet und aufgehoben gedacht. Also ist die Zeit auch eigentlich nicht Linie, noch Summe, sondern nur eine Einheit, die unzähligmale von neuem gesezt werden kann , §. Logische
+
+96.
+
+Erörterung des
+
+Begriffs Naum,
+
+Der Raum ist Reihe von Außer- , Neben- und Untereinander. Das Außer- , Neben- und Untereinander seht auch wenigstens zwei voraus , die jedoch nicht noth wendig wechselseitig durch einander bedingt sind , kein Paar ausmachen , vorausseßt, punkte , indem keins das andere weder noch aufhebt.
+
+Denn die einzelnen Raumoder Orte , sind nicht , wie die Zeitmomente,
+
+Bezeichnung von Ursache und Wirkung , Umgränzung und Begränzung. des Werdens , sondern nur
+
+Wie die Zeit, Symbol oder des in Thätigkeit gesezten Lebens ist , so ist der Raum , der die Möglichkeit des Nebeneinander - Bestehens von Einzeluheiten , als solchen, bezeichnet, Symbol des Gewordenen, oder des rubenden und theilweise ersättigten Lebend. haupt ,
+
+Denn das Leben überoder die unbedingte Möglichkeit , Mittelpunkt [p. 199] eines All zu werden , ist in jedem Einzelnen nur in gewissem Grade realisirt , oder befriedigt und ersättigt, folglich in keinem vollständig und genüglich befriedigt, und also bleibt in jedem die unbedingte Nothwendigkeit zur vollständigen und genüglichen Befriedigung des in ihm erschienenen , unersättlichen Lebens.
+
+Demnach ist zwar jedes Einzelne in sich begründet und vollendet, sofern sich das unendliche Leben in jedem zum Theil dargestellt hat, aber keines ist in sich selbst genügsam, da das unendliche Leben sich vollständig und genüglich darstellen muß, und sich in dem Einzelnen, als solchem, nicht vollständig , noch genüglich darstellen kann .
+
+Jedes bildet also ein von den unendlich vielen Andern gesondertes. und in sich geschlossenes Ganze, oder nimmt seine eigene, besondere und eigenthümliche Stellung in und zu dem unendlichen Ganzen ein.
+
+Da nun das unendliche Ganze eben aus unendlich vielen Einzelnen besteht , so werden in ihm unendlich viele gesonderte , eigene und eigenthümliche Stellungen, als möglich gegeben seyn.
+
+Denn keine
+
+Einzelnheit kann die andere ausschließen , weil keine in sich selbst genügsam ist ; jede steht vielmehr nothwendig und wesentlich mit unendlich Viclen im Zusammenhange, und macht so mit ihnen eine Einerleiigkeit , oder Totafität aus , für welche der Raum seine Geltung ganz verliert , da in dieser kein Einzelnes außer dem Einen und Ganzen , und ohne das Eine und Ganze, noch die ses ohne jedes Einzelne erfaßt und begriffen werden
+
+Allein diese Art des Erfassens und Begreifens, ist nur in dem ungewöhnlichen Standpunkte der Anschauung , oder Idee `möglich , in dem gewöhnlichen, natürlichen und regelmäßigen Standpunkte des Begriffs [p. 200] läßt sich nur ein Ganzes erfassen , das sich aus EinzelnTheilen zusammen sezt , und in Einzel - Theile auflößt, wo also der Einzel - Theil zwar zu einem Ganzen und Einen gehört , jedoch auch abgesehen davon , an und für sich betrachtet werden kann , folglich , obschon es nicht außer dem Ganzen ist , Ganzen da steht , dennoch abgesondert von dem und mithin sich nicht blos in einem
+
+Ganzen und Einen überhaupt , sondern sich irgend wo und irgend wie in dem Ganzen und Einen befindet, d.i. eine bestimmte Stellung , einen eigenen Standpunkt in dem Ganzen einnimmt.
+
+Von dem Standpunkte des Begriffs aus müssen also alle Einzelnheiten sich unvermeidlich irgend wo und irgend wie in dem Ganzen und Einen befinden darin oder bestimmte Stellungen und Standpunkte einnehmen , welches eine bedingt
+
+Geltung hat , oder subjectiv - reell ist.
+
+nothwendige
+
+Keine Einzelnheit kann sich nun mit einer andern zugleich auf dieselbe Weise in dem unendlichen Ganzen und Einen befinden : ferner ist durch die bestimmte Art , wie sich die eine Einzelnheit in dem unendlichen Ganzen und Einen befindet , die bestimmte Art, wie sich jede andere noch darin befinden kann , keinesweges unmöglich gemacht, oder aufgehoben worden , vielmehr muß sich jede Einzelnheit aufihre eigene und eigenthümliche Weise in dem unendlichen Ganzen und Einen befinden. Aber die eine Einzelnheit ist nicht um deswillen in einer bestimmten Stellung, weil eine andere , die mit ihr und unendlich vielen andern zugleich zu einem Ganzen und Einen verbunden ist, ebenfalls in einer bestimmten Stellung ist, da das Einnehmen einer bestimmten Stellung im Ganzen durch eine Einzelnheit mit dem Einnehmen anderer bestimmter Stellungen, [p. 201] in demselben durch andere Einzelnheiten nichts gemein hat.
+
+Die wechselseitige Verknüpfung der Einzelnheiten unter einander in dieser Hinsicht , besteht lediglich darin , daß unbedingt alle ohne Ausnahme gar nicht ohne, und außer einem gemeinsamen allumfassenden und allgenügsamen Mittelpunkt bestehen können.
+
+Raum ist demnach eine unbewegliche Linie , in welcher verschiedene Nichtungen als möglich gegeben sind, jedoch nicht mehr , als drei.
+
+Versuchen wir aus der Natur des Begriffs mit Nothwendigkeit nachzuweisen , daß nur drei Richtungen , oder Dimensionen , im Raume gesetzt werden können , und nicht mehr. §.
+
+97.
+
+Der Raum hat nur drei Dimensionen , und hat diese nothwendig. Der Natur des Begriffs „ Raum “ nach, ist jeder einzelne Punkt , oder Ort, Bezeichnung für die Möglichkeit des Vorhandenseyns eines bestimmt gegebenen Einzelnen , und als solcher leer.
+
+Diese bloße Bezeichnung erhält Bedeutung , wenn ein bestimmt gegebenes Einzelnes wirklich in ihr , Irgendwas , als einem der unendlich vielen vorhanden ist , also sie verwirklicht, den
+
+Punkt oder Ort erfüllt , was von jedem Einzelnen geschehen kann , wozu also das bestimmte Einzelne, was jezt gerade in ihm ist , keinesweges nothwendig ist.
+
+eine Einzelne aber , was in ihm vorhanden ist , nimmt in Bezug zu allen andern bestimmten Einzelnen eine bestimmte Lage und Stellung ein, die kein anderes mit Wiefern nun viele bestimmte Einzelne wirklich neben einander sind , ihm zugleich einnehmen jedes [p. 202] von ihnen ein Frgendwo allein für sich einnimmt , und davon jedes andere schlechthin unbedingt ausschließt, entsteht eine Summe , ein Inbegriff von Vielen wirklich neben und außereinander , und unäbhängig von einander
+
+Bestehenden , also Neihe, in der es zwar keinen absoluten Anfangspunkt gibt, aber irgend einen bezüglichen Anfangspunkt geben muß , da wir das Unendliche nicht als solches erfassen können , sondern es nur aus seinen Ein-´ zeln - Theilen nach und nach zusammen zu sehen vermögeud sind , also , um es zu erhalten , doch von Einem , mithin von einem der vielen Frgendwas , oder Orte , anheben, und bei einem einstweilig endigen müssen.
+
+Für
+
+Darstellung eines Unendlichen , als solchen, seiner Möglichkeit nach , ist nun der Raum überhaupt Symbol, Bezeichnung, der aus unendlich vielen Irgendwo bestehen kann , jedoch nicht gleich uranfänglich aus ihnen schlechthin nothwendig bestehen muß.
+
+Dieser Inbegriff von unendlich vielen Frgendwo ist also nicht simultan , sondern successiv , d. i. nicht urplößlich als vollendet und fertig , sondern erst nach und nach als sich vollendend und fertig werdend gegeben , seßt sich mithin zusammen , gliedert sich folglich zu einer unendlichen' Reihe von Summen , von denen jede eine bestimmte Menge von Irgendwas in sich enthält , und innerhalb zweier worläufig und einstweilig eingeschlossen , oder begränzt wird : man muß , den gesammten Inbegriff der unendlich vielen Irgendwas , d. i. den Raum überhaupt zu erhalten , zunächst bei einem Frgendwo anfangen , und bei einem vorläufig endigen , wodurch man das Unendliche in seinem ersten Momente erhält.
+
+Das Anfangen bei dem einen Frgendwo ist nicht absolut nothwendig in [p. 203] ihm Gegebenes : es kann eben so gut der Ausgangspunkt, Mittelpunkt, Zwischenpunkt seyn , als es jezt Anfangspunkt ist , und dasselbe gilt von dem Endpunkte.
+
+Das Frgendwo, was jezt Anfangspunkt ist , und das, was jezt Endpunkt ist , schließen ein bestimmtes Naumquantum ein , das sich gleichsam ausdehnen , und verengen kann , denn jenseits des
+
+Anfangspunkts sowohl , des Endpunkts , findet sich die unbegränzte Möglichkeit der Vergrößerung ins Unendliche hinein, sind noch eine unendliche Menge leerer Bezeichnungen für das Vorhan. denseyn von wirklichen Etwas, oder Frgendwo's möglich, die, da sie die Möglichkeit bezeichnen , auch verwirklicht werden können , alsö erfüllbar sind , ja in gewisser Hin. ficht wirklich erfüllt werden müssen , da die Menge von wirklichen Etwas unendlich ist.
+
+Das bestimmte Raumquantum nun , was von zwei bestimmten Frgendwo's eingeschlossen wird , hat in sich eine bestimmte Menge von
+
+Frgendwo's , die als wirklich erfüllt gedacht sind : in ihm befindet sich eine bestimmt gegebene Menge von wirklich außer einander , neben einander und unabhängig von einander bestehenden wirklichen Etwas , unendlichen Menge der übrigen die neben der eben so unabhängig einander bestehenden wirklichen
+
+Etwas noch fast gleich nichts ist , also sie nicht von sich ausschließen kann, sondern ihrer zu ihrer Vervollständigung wesentlich bedarf. Also die bestimmt |gegebene endliche Menge . oder Summe, kann und muß zur unendlichen , allumfassenden erweitert werden, und folglich wird das bestimmte wirkliche Etwas, bei dem man zunächst im Unendlichen anfing , oder stehen bleibt , nicht alle andere schlechthin aufheben und auss schließen, weil es nicht schlechthin innerlich selbst genügsam [p. 204] , oder Urgrund der Dinge ist , und kein wirkliches, innerlich selbst ungenügsames kann demnach absoluter
+
+Anfangspunkt , oder Endpunkt seyn : es ist nur relativer Anfangs- oder Endpunkt , und das kann jedes andere wirkliche Etwas im Unendlichen mit gleichem Grunde seyn , gutem wodurch mithin die bestimmt gegebene
+
+Menge, und somit das bestimmt gegebene Raumquantum, als Bezeichnung für das mögliche Vorhandenseyn einer bestimmt gegebenen Menge von wirklichen Etwas , vergrößert und erweitert wird , wodurch inzwischen immer wieder nur eine bestimmt gegebene Menge entsteht , die wieder vermehrt werden kann , und so ins Unendliche fort.
+
+Klar aber ist , daß schon zwei wirkliche Etwas, und also auch zwei leere Bezeichnungen für das mögliche Vorhandenseyn von wirklichen Etwas , øder Frgendwo’s, vollständig hinreichen , eine bestimmt gegebene Menge zu bilden , also ein bestimmtes Naumquantum einzuschließen ; weniger aber , als zwei , können schlechthin nicht seyn, und Eins kann • also wohl in einem Raume , aber nicht der Raum selbst seyn , kann wohl , sofern der Begriff
+
+Raum construirt werden soll , abgeben, das erste Moment dazu jedoch auf keine Art, noch Weise zur Vollendung des Begriffs dienen : denn dieser Begriff seßt seiner Natur nach allemal Summe , Reihe , wesentlich 2 voraus. Begriff aus der also wenigstens
+
+Diese beiden werden einstweilig im unendlichen Menge heraus gehoben, um so von ihnen aus , zum deutlichen Erkennen und Unterscheiden der unendlich Vielen nach und nach zu gelangen : sie dienen also gleichsam zu Richt- und Merkpunkten ; zunächst inzwischen muß ein bestimmt gegebe nes wirkliches Etwas aus den unendlich vielen heraus [p. 205] gehoben werden , wenn die übrigen sollen heraus gehoben, also deutlich erkannt und begriffen werden.
+
+Ist dies
+
+Eine herausgehoben , also deutlich erkannt und begriffen, werden zwar nicht die unendlich vielen Andern sogleich und mit einmal herausgehoben, und begriffen werden können , also deutlich erkannt aber Viele , oder Einige werden sich darnach bestimmen lassen , je nachdem das Eine mehr oder weniger heraus gehoben , also´mehr, oder minder deutlich erkannt und begriffen worden ist. Eben davon hängt es ab , welche andere heraus gehoben, oder deutlich begriffen werden sollen , bestimmt sich mithin die Art und Weise , wie die Gliederung im Unendlichen vorgenommen werden soll , d. i. eben Richtung , Dimension.
+
+Da nun jedes einzelne bestimmt gegebene
+
+Etwas , und mithin jede leere Bezeichnung für das blos mögliche Vorhandenseyn eines wirklichen Etwas, also jedes Irgendwo, herausgehoben, oder deutlich erkannt und begriffen werden kann , so kann auch jedes zur Norm dienen , nach welcher die Gliederung des Unendlichen auf bestimmte Art und Weise vorgenommen wer den kann :
+
+jedes also kann zu einem Moment dienen, nach welchem sich eine Richtung, oder Dimension bestimmen läßt, und folglich kann jedes Ausgangs- und Anfangspunkt seyn ausgehoben , und werden , nämlich so fern es heroder deutlich erkannt und begriffen wird.
+
+Dadurch an und für sich ist aber noch keine Richtung wirklich bestimmt, sondern die Möglichkeit, eine solche zu bestimmen , ist nur erst vorhanden .
+
+Denn indem man
+
+Eines aus dem Unendlichen heraus hebt , wird es möglich , dies , das als solches für das Erkennen eines Bedingten , und für ein solches gilt ja nur unsere ganze
+
+?
+
+[p. 206] Untersuchung , eine trübe, chaotische , formlose Masse ist, zu sichten , zu ordnen , zu gestalten , deutlich zu erkennen :
+
+und eben damit zuvor bildet es nur das Eine, was im Begriff, oder im Erkennen bereits heraus geho den, oder deutlich erkannt und begriffen worden ist, gleichsam einen Kreis zu dem das Eine der Mittelpunkt ist , das man, da von ihm aus die andern gesichtet und bestimmt werden sollen, gleichsam den SichtungsBestimmungs-, Richtungspunkt nennen könnte.
+
+a
+
+Sezer als solchen wirkliche Etwas a , so wird sich rund um dasselbe die bestimmt gegebene einzelelne unbegränzte Möglichkeit eines Fortschreitens ins Unendliche befinden , so wird also überall die Nothwendigkeit seyn , das Unendliche zu sichten, zu bestimmen, zu ordnen, øder deutlich und bestimmt zu erkennen und zu begreifen. Da dies aber unmöglich von allen Seiten zugleich geschehen kann , so muß es zunächst nach irgend einer Seite hin vorzugsweise , und dann nach der andern, dann nach der dritten ic. also auf bestimmte Art und Weise geschehen , es muß mithin von a aus eine Richtung, oder Dimension bestimmt werden , wobei es gleichgültig ist , nach welcher Seite hin dies zuerst geschieht, oder welche Richtung zuerst genommen wird : gewiß aber ist , daß dadurch , daß a aus den unendlich vielen andern herausgehoben, oder deutlich erkannt und begriffen wurde, [p. 207] es möglich geworden ist , die Sichtung und das Ordnen nach allen Seiten hin, vorzunehmen , daß mithin von a aus alle Richtungen , oder Dimensionen ihrer Möglichkeit nach gegeben und erschöpft sind , daß also keine Seite, oder Nichtung im Unendlichen seyn kann , nicht von a aus gesichtet , oder genommen werden könnte.
+
+a b
+
+Da es nun gleichgültig ist, nach welcher Seite hin ihr von a aus das Unendliche vorzugsweise sichten , welche Nichtung ihr zunächst von a aus hauptsächlich nehmen wollt, so nehmt sie zunächst nach b hin ; dadurch erhaltet Ihr die gerade Nichtung , øder Dimension ; Ihr erhaltet die nebeneinander und außereinander Befindlichen, also Neihe im eigentlichen Sinne.
+
+Das könnt Ihr nun ins Unendliche fortseßen, ohne jemals den absoluten Endpunkt zu erreichen.
+
+So geht Ihr also von einem zum andern ins Unendliche fort, und erhaltet unaufhörlich eines neben dem andern , Fortgehen ins und eben dies ziellose
+
+Unendliche , eines neben dem andern hinstellend , kann man einen Fortgang ins Weite, d. i . eben Länge nennen. Wenn also von a aus das Unendliche zunächst hauptsächlich auf die Weise gesichtet und geordnet wird , daß man eines neben dem andern hinstellt , erhält man eigentlich nur eine Sichtung und Nebenordnung der unendlich Vielen zur neben einander [p. 208] gereihten Einheit , und in wiefern eine solche Sichtung durch Hervorhebung von a , als möglich gegeben ist/ erhält man durch a die Möglichkeit eines Fortschritts in einem unbegränzbaren, als in einem Nebeneinandergereihten, d. i. die Nichtung , oder Dimension ins Weite, also die Dimension der Länge,
+
+Sichtet jetzt das Unendn & aa p b liche von a aus vorzugsweise nach der Seite von c hin, so wird , da diese Art der Sichtung des Unendlichen durch die Hervorhebung von a ihrer Möglichkeit nach gegeben ist , mit a die Möglichkeit , das Unendliche nach c hin zu sichten , also eine Richtung , oder Dimension nach c zu nehmen , unmittelbar zugleich mit gegeben
+
+Auch hier könnt Ihr nirgends einen absoluten
+
+Endpunkt finden , schreitet also auch von einem zum andern ins Unendliche ziellos fort, und so erhaltet Ihr auch Viele wirklich neben und außer einander befindliche, mithin gleichfalls Reihe , in welcher ihr jedoch nicht, wie in der vorigen , oder in der geraden, ohne weiteres durch die unendlich Vielen von einem zum andern hindurch gehen könnt , oder wo es nicht hinreicht, daß
+
+[p. 209] Ihr blos neben einander reiht , mithin aus dem Unendlichen ein Nebengeordnetes macht, oder Nebenordnung feßt , sondern wo Ihr auch die unendlich Vielen einander unterordnen , also eine Unterordnung feßen müßt, denn c und die dazwischen liegenden m n ; sind nicht blos , wie b und die dazwischen liegenden q p , neben a, sondern übera: man schreitet nicht ins Weite, sondern man schreitet ins Tiefe : man muß , um von a durch m n zu c zu gelangen , nicht blos von a ju m, von m ju n, von n zu c gehen , wie man , will man n m a q p b g h d von a durch q p nach b gehen , aus a nach q , von da nach p und von da nach b fortgehen kann , sondern man muß , um von a dutch m n zu czu gelangen, von a zu m. emporsteigen , und von da noch weiter zu n und von da noch höher nach c hinaufsteigen.
+
+Unterordnung in aufsteigender Linie ,
+
+Tiefe im allgemeinen Sinne , ´nannt werden könnte.
+
+Dies ist oder Höhe ge.
+
+Dies ziellose Fortschreiten ins [p. 210] unbegränzte Tiefe , in aufsteigender Linie, ist es eben die Richtung nach Oben , die Dimension der
+
+Breite, des unbegränzten über einander.
+
+Sezer dagegen die Sichtung des Unendlichen von a aus nach d gehend , so ist von a aus ebenfalls ein zeitloser Fortschritt in das unendlich Tiefe, seiner Möglichkeit nach, also eine Richtung , eine Dimension von a aus ange geben , aber in absteigender Linie , denn man muß, um yon a durch g h nach d zu kommen , von a ¡ u g, von da zu h und von da zu d hinabsteigen.
+
+Hier ist also auch eine Unterordnung, jedoch eine Unterordnung im eigentlichen Sinne , d. i. Tiefe in engster Bedeutung.
+
+Dies ziellose Fortschreiten ins unendlich
+
+Tiefe in absteigender Linie, also ins eigentlich Tiefe , oder nach unten , ist eben die Richtung des Untereinander, oder die Dimension der Tiefe, und keine andere kann es mehr geben . Denn Ihr könnt das Unendliche von a aus nach feiner Seite hin mehr sichten und ordnen , die sich nicht bereits durch Sichtung desselben ins Weite und ins Tiefe, so wohl nach oben, als nach unten , im voraus nothwendig gesichtet und geordnet fände : Alles also, was hinsichtlich der Sichtung und Ordnung des Unendlichen geschehen kann , ist durch diese drei Arten und. Wesen der Sichtung schlechthin vollständig erschöpft. a nach n hin sichten und ordnen ,
+
+Wollt Ihr von also die Richtung nach ŉ nehmen , leuchtet ein , daß diese Nichtung , wie auch die Richtung nach e, entweder durch die Richtung nach b , oder die nach d , vollständig und genüglich dargestellt ist ; die nach s , r , h, sind es durch eben dieselbe ; die nach q, m, 0 , sind es durch die von a nach b, end-
+
+. f, sind es durch die von a nach c, lich die von g, t, [p. 211] und so ist keine Richtung im unendlichen Kreise möglich, die nicht durch eine von den drei Hauptrichtungen , sey es von ab, oder a d, oder a c, im voraus nothwendiğ d h m g bestimmt , oder erschöpft wäre , und folglich sind im Naume überhaupt nur drei wirklich von einander verschiedene Richtungen , oder Dimensionen möglich.
+
+§.
+
+98.
+
+Aus dem Gesagten folgt auch , daß der Raum nicht aus Einem Punkte bestehen kann , aus zweien bestehen muß , sondern wenigstens also Summe in extensiver
+
+Hinsicht ist, d. i. ein Ganzes , das nicht entsteht , indem ein und eben derselbe Begriff unzähligmale wiederholt wird , sondern das sich wirklich aus vielen verschiedenen zusammenseßt, die nicht mehr als in der Entwickelung begriffen , sondern bereits fertig vollendet [p. 212] gedacht sind.
+
+Auch im Raume muß man einstweilig von irgend Einem anheben , und einstweilig bei irgend Einem enden.
+
+Obschon auch hier zwei vollständig hinreichen, den Begriff Raum darzustellen , stehen die beiden keinesweges in nothwendiger Wechselbeziehung zu einander ; es sind zwei verschiedene , die , eben weil sie selbstständig und eigenthümlich in sich begründete sind, außer , neben und untereinander bestehen können, ohne sich gegenseitig weder nothwendig , bedingen.
+
+noch wesentlich zu
+
+Keine Einzelnheit kann ihre Selbstständigkeit und Eigenthümlichkeit, so lange sie diese bestimmte Einzelnheit ist , verlieren , oder aufgeben.
+
+Die bestimmte
+
+Stellung nun, welche sie in dem unendlichen Ganzen und Einen einnimmt , hängt mit dieser ihrer Selbstständigkeit und
+
+Eigenthümlichkeit nothwendig zusammen, folglich kann die Einzelnheit auch diese bestimmte Stel
+
+. lung , so lange sie in ihrer Selbstständigkeit und Eigenthümlichkeit beharrt , weder aufgeben , noch verlieren, also auch nicht mit einer andern zugleich einnehmen. Denn sollte eine andere Einzelnheit die Stellung , sie hat , mit ihr zugleich einnehmen , oder theilen , so müßte jene von ihrer Selbstständigkeit und Eigenthümlichkeit in so weit verlieren , in wie weit sie die einer fremden Eigenthümlichkeit angemessene Stellung theilte, während sie anderseits ihre Eigenthümlichkeit und Selbstständigkeit in so weit behielte, in wie weit sie in ihrer eigenen und eigenthümlichen Stellung bliebe. Inzwischen kann eine Einzelnheit ihre Eigenthümlichkeit und Selbstständigkeit nicht einigermaßen aufgeben , und zugleich einigermaßen behaupten : sie muß sie entweder ganz verfieren , oder durchweg behaupten.
+
+Denn eine Einzeln [p. 213] heit ist nur in so weit in sich selbstständig und eigen thümlich begründet , oder Einzelnheit, in wie weit sie gesondert von den unendlich vielen andern ist , also ihre besondere und eigene Stellung einnimmt.
+
+Wollte mit hin eine Einzelnheit die besondere und eigene Stellung einer andern einnehmen , und auch ihre eigene zugleich " mit behaupten folglich aufhören , in sich selbstständig und eigenthümlich begründet , oder Einzelnheit zu seyn, und doch auch selbstständig und eigenthümlich in sich be gründet, oder Einzelnheit bleiben , so würde sie in jenem Falle aufhören , gesondert von den Andern überhaupt und der Andern insbesondere zu seyn , in diesem dagegen fortfahren , gesondert von den Andern überhaupt , der Andern insbesondere zu bleiben.
+
+In wiefern sie nicht gesondert und verschieden von den Andern ist; ist sie in ihnen enthalten : in wiefern sie dagegen gesondert und verschieden von den Andern ist , ist sie nicht in. . ihnen enthalten.
+
+Ist sie in den Andern enthalten , so ist sie auch eins mit denselben ; ist sie nicht in ihnen enthalten, so ist sie auch verschieden von ihnen , und hat ihre eigene und besondere Stellung : nun kann ein Etwas als Einzelnheit nur gedacht werden , wiefern es von den unendlich vielen Andern überhaupt , und von jedem einzelnen Andern insbesondere gesondert und verschieden, umgränzt ist , oder ihre besondere , eigene und eigenthümliche Stellung hat, folglich ist es , in wiefern es in den Andern enthalten , oder eins mit ihnen , also mehr umgränzt, in seiner besondern und eigenen Stellung ist , gar nicht mehr Einzelnheit, und also kann eine Einzelnheit nicht zugleich mit einer an dern ein und eben dieselbe Stellung einnehmen , sondern [p. 214] jede muß ihre eigene und besondere haben und behaupten.
+
+Denn jede ist ein besonderes , eigenes und eigen.
+
+thümliches. Das Eigenthümliche schließt aber alles Fremdartige, als schlechthin unmöglich , von sich aus, und muß also entweder . schlechthin das eigenthümlich in sich Begründete bleiben , oder ganz ein Anderes und Fremdes werden. Wird es ein Anderes und Fremdes, so vertauscht es eben seine eigene und eigenthümliche Stellung mit einer fremden , oder verliert sie vielmehr ganz :
+
+bleibt es ein eigenthümlich in sich Begründetes , so behält es eben seine eigene und eigenthümliche Stellung, von der es jedes Andere und Fremde , eben um deswillen , weil es ein Anderes und Fremdes ist, schlechthin nothwendig und unbedingt ausschließt.
+
+Obschon nun jede Einzeln heit ihren eigenen Raumpunkt, oder Ort einnimmt, den keine andere zugleich mit ihr einnehmen kann , so können doch entweder
+
+Alle ,
+
+Summe neben , wenigstens eine bestimmte mit und untereinander bestehen , jedes an seinem eigenen und eigenthümlichen Ort.
+
+Denn die
+
+Orte stehen nicht in nothwendiger Wechselwirkung zu einander , sondern nur in logischer Verknüpfung unter einander ; da sie nämlich alle unter dem obersten und allgemeinen Begriff des innerlich Ungenügsamen , Natur dieses Begriffs gemäß , subsumirt sind , indem wir , selbst vom gewöhnlichen Standpunkte unsers Erkennens aus , einsehen können , daß all die unendlich vielen Einzelnheiten, und jede Einzelnheit insbesondere , nur unter Vorausseķung eines allumfassenden und allgenügsamen Urgrundes der Dinge genüglich erklärlich und begreiflich sind , und allein unter dieser Vorausschung bestehen können , umgekehrt unter Voraussetzung [p. 215] eines solchen nothwendig unendlich viele Einzelnheiten gegeben sind , dazu bestimmt , sich gegenseitig zu unterstüßen und zu vervollständigen.
+
+Die Verknüpfung der einzelnen Zeitmomente unter einander ist dagegen eine subjectiv - reale, da sie sich in ihrer wechselseitigen Verknüpfung unvermeidlich aus einem subjectiv- realen Umstande entwickeln , dem nämlich , daß zwar in unserer
+
+Wesenheit der unersättliche, unerschöpfliche und unendliche Lebenstrieb erscheint , als solcher aber nicht unmittelbar von uns erkannt und begriffen werden soudern von uns mittelbar als ein erschöpfbarer , kann, ein im Entwickeln und Vollenden begriffner erfaßt wird. Aus demselben Grunde sind wir nicht vermögend, ihn als ein ununterbrochenes Wirken , Schaffen und Handeln zu begreifen , sondern können nicht umhin , ihn als ein unterbrochenes Wirken , Schaffen und Handeln, oder als Gewirktes und Gewordenes , als Handlung, zu erfas fen.
+
+Aus dem Handeln , also geht die Handlung mit unendlicher Nothwendigkeit hervor , und umgekehrt seßt die Handlung das Handeln mit unendlicher Nothwendigkeit voraus ; Handeln und Handlung , øder Ursache und Wirkung, stehen mithin in schlechthin nothwendiger Wechselbeziehung zu einander , und bilden mit einander ein Paar , und also sind die Zeitmomente nicht blos durch Subsumtion unter einem obersten und allemeinen Begriff mit einander verknüpft , welches eben eine blos logische Verknüpfung wäre , sondern sind , der Natur der Sache gemäß , schlechthin nothwendig in dieser wechselseitigen Verknüpfung zu einander , gegeben, so , daß sie weder aufgelös't , noch anders gegeben werden kann, also subjectiv - real ist.
+
+[p. 216] §.
+
+99.
+
+Raum und Zeit, als Begriffe mit einander verglichen. Die Begriffe , Raum und Zeit , sind demnach ihrer Geltung nach, wesentlich von einander verschieden, und feßen einander gleichwohl nothwendig voraus , só , daß jedes Etwas, welches im Raume ist , zugleich nothwendig mit in der Zeit ist , und jedes , das sich in der Zeit befindet , sich nothwendig zugleich mit im Raume befindet.
+
+Beide sind ja nur Symbole für das Erscheinen der Dinge in Bezug zu der besondern und eigenthümlichen Erfassungsart eines bestimmt gegebenen , besonders bedingten Vernunftwesens , nur aus verschiedenen Gesichtspunkten , indem sich die Dinge als Gewordene und als Werdende betrachten lassen :
+
+jenes set innerliche
+
+Vollendung und Abgeschlossenheit voraus , die an und für sich bestehen kann , dieses innerliche Ungenügsamkeit, bei der kein Stillstand möglich ist.
+
+Wir aber können offenbar nur von dem Gewordenen aus , auf ein Werdendes schließen , und aus dem Werdenden müssen wir nothwendig ein Gewordenes folgern , und folglich ` finder zwischen dem Werdenden und Gewordenen nothwendig eine gegenseitige Wechselbeziehung statt.
+
+In wiefern also die Zeit das Symbol des Werdenden , oder die
+
+Bedingung zur Erkenntniß des Werdenden , der Raum dagegen das Symbol des Gewordenen , oder die Bedingung zum Erkennen des Gewordenen ist , stehen Zeit und Naum nothwendig in gegenseitiger Wechselbeziehung zu einander, indem der Raum , seiner Vollständigkeit wegen , die Zeit zu seiner Ergänzung als nothwendig [p. 217] stillschweigend vorausseßt, und die Zeit den Raum gleichsam ganz in sich verschlingt.
+
+Denn im Raume befinden sich die Gewordenen, in der Zeit die Werdenden.
+
+Gewordenen sehen zwar die Werdenden, aus denen und durch die sie geworden sind , wesentlich voraus , ihrer Möglichkeit nach können jedoch auch ohne diese an und für sich bestehen , die Werdenden dagegen setzen nicht blos die Gewordenen voraus , sondern können ohne Gewordene gar nicht als Werdende gedacht werden, sind folglich, ihrer Natur nach, nothwendig zugleich mit Gewordene.
+
+Als Werdende sind sie , ihrer Natur nach, Ursachen zu denen , die Gewordenen als
+
+Wirkungen schlechthin nothwendig gehören. die Wirkungen , oder die Gewordenen ,
+
+Zwar setzen ihre Ursachen, die Werdenden , auch nothwendig voraus , allein sie können, auch abgesehen von ihren Ursachen , als blos in sich bestehende betrachtet werden , da sie nicht blos Wir kungen , sondern auch Gewirkte sind , d. i. nicht einzig unter Vorausseßung eines Andern , sondern auch einiger. maßen als selbstständig und unabhängig in sich selbstbegründete.
+
+Daher können sie, obschon sie nicht schlechthin in sich selbst genügsam sind , folglich nothwendig auf eine allgenügsame Ursache zurück geführt werden müssen , bedingungsweise , abgesehen von ihrer allgenügsamen Grundursache , an und für sich betrachtet werden ; sie stehen folglich lediglich im Zusammenhange mit einander, und bilden blos eine Einheit : die Ursache dagegen läßt sich , selbst nicht bedingungsweise , von ihrer Wirkung , nicht abgesehen und blos als solche betrachten, sie läßt sich nur mit ihrer Wirkung zugleich erfassen, ist also mit derselben schlechthin einerleiig.
+
+[p. 218] §.
+
+100.
+
+Von der Materie.
+
+Die unbedingte Fähigkeit, unendlich Viele als Gesonderte, oder selbstständig in sich Begründete , mithin als Einzelheiten , als Wesen , in, durch und aus sich darzustellen und zu behaupten, ist das Leben überhaupt, und dies ist die ideale Grundwurzel der Materie , oder der Erscheinung , welche von uns in der sinnlichen Wahrnehmung als ausgedehnt , dicht und vernunftlos erfaßt wird , da wir diese Fähigkeit zunächst nicht sogleich als dieselbe erfassen können , welche zugleich denkt , erkennt und begreift, was wir nur in der Anschauung vermögend sind .
+
+In uns erfassen wir diese Fähigkeit als bedingt, und verschieden von der Fähigkeit, vermöge welcher wir und begreifen, und dies Erfassen bestimmt bedingend unser Urtheilen.
+
+denken ,
+
+Die Anschauung, daß diese zwei scheinbar verschiedenen Fähigkeiten im Grunde schlechthin untrennbar einerleiig sind , wir uns nur mittelbar aneignen .
+
+können
+
+Was nun schlechthin einerleiig, oder Vernunftleben in der Idee ist , erscheint im Begriff als außer und neben einander , als Zweiheit, die höchstens zu Einem wesentlich verbunden ist, und die sich als Denkendes und Nichtdenkendes , als Seele und Leib ,
+
+Dieser Un als Geist und Materie gestaltet.
+
+terschied hat für uns , sofern jene Erfassungsart , die ihn unvermeidlich macht, natürliche ist, wir also uns nicht anhaltend von ihr die uns losmachen können , folglich an sie gebunden sind , bedingt nothwendige Geltung , und er wäre objectiv - reell , gewöhnliche oder ist subjectiv - reell, in wiefern wir uns gar nicht über diese Erfassungsart erheben könnten .
+
+Alsdann [p. 219] vermöchten wir inzwischen auch nicht den Begriff „Einerkein Wesen zu gedenken , . das
+
+Leiigkeit" und somit
+
+Einerleiigkeit von Vernunft und Leben , oder VernunftLeben ist , und folglich müßten wir, das All genüglich zu erklären , das beide Eigenschaften thatfachlich in sich hat, zwei Grundursachen der Dinge , oder die Materie, mit Gott gleich ewig setzen, oder endlich annehmen, daß Gott die Materie aus Nichts erschaffen habe.
+
+alle diese Voraussetzungen sind nichtig und unhaltbar : aus Nichts wird Nichts ; zwei Grundursachen der Dinge können aus schon bekannten Gründen nicht gefeßt werden , und eben so wenig ist die Materie mit Gott als } gleich ewig gedenkbar. Da gleichwohl das All nicht in, durch, und aus sich begriffen werden kann , und dennoch begriffen werden muß , müssen wir nothwendig einen
+
+Urgrund der Dinge sehen , dessen Wesenheit Einerleiigkeit von Vernunft und Leben , oder Vernunftleben ist, und ein inneres unmittelbar gegebenes , unzweifelhaft gewisses Urgefühl spricht für das schlechthin nothwenige Vorhandenseyn einer solchen
+
+Wesenheit, oder deren objective Realität, und folglich ist jene subjective Erfafsungsart keinesweges die einzige , noch die allein vor. herrschende und ausschließlich bedingende :
+
+immer aber bleibt sie für das Erkennen und Begreifen des Subjects, als solchen, eine bedingt bestimmende , oder von bedingt nothwendiger Geltung .
+
+Wenn also auch an und für sich kein Unterschied statt findet , so tit er doch beziehungsweise unvermeidlich gegeben , folglich bedingt nothwendig . Von dem scheinbar Nichtdenkenden , oder bloßen Leben, ist das scheinbar blos Lebendige und Vernunftlose die Wirkung :
+
+dies ist als Ganzes und Eines und [p. 220] als Vieles und Verschiedenes gegeben ,
+
+Summe, die sich aus Einzelnheiten zusammen seßt , oder als Inbegriff, und unmittelbar als Ganzheit und Einheit , die unendlich viele Einzelnheiten alle zugleich nothwendig vorausseßt, und ihrerseits wieder von allen den unendlich vielen Einzelnheiten zusammen , und von jeder einzelnen insbesondere, nothwendig vorausgesetzt wird , oder als Totalität.
+
+Das vernunftlose , scheinbar blos Lebendige , als Inbegriff, ist Ausdehnung , als Totalität Materie.
+
+Ausdehnung feßt Umgränzung und Begränzung , folglich Naum voraus ; die Materie dagegen ist außerräumlich.
+
+Die Ausdehnung ist entweder Inbegriff, also Summe, oder Einzeln -Theil, blos Glied einer
+
+Summe. In wiefern sie Inbegriff, Summe selbst ist, folglich aus unendlich vielen Einzely -Theilen bestehen kann, ist sie als Ganzes ´unbestimmt und unbestimmbar , nirgends schlechthin begränzt, und mithin nur im unendlichen Raume :
+
+in wiefern sie dagegen Einzeln - Theil,
+
+Glied einer Summe ist , wird sie auch bestimmt und bestimmbar , oder auf relative Weise begränzt und somit in einem bestimmten Raumtheil, oder Ort seyn , dies bestimmte, bestimmbare, begränzte, einen Raumtheil oder Ort erfüllende Ausgedehnte, ist Körper.
+
+Von dem Ausgedehnten kann nicht auf das Materiale , noch vom Materiale auf das Ausgedehnte geschlossen werden, da das Lebendige überhaupt zunächst nicht als solches, sondern immer nur als ein bestimmt gegebenes und gesondertes Lebendige in der sinnlichen Wahrnehmung erscheinen , und von uns erkannt werden kann : denn unsere sinnliche Wahrnehmung ist bedingt , indem sie das Unendliche als solches nicht unmittelbar zu erfassen, [p. 221] sondern erst mittelbar aus seinen Einzeln - Theilen zusamErst wenn wir in jedem Einzelnen menzusehen vermag.
+
+der Vielen in der sinnlichen Wahrnehmung nach und nach, oder successiv erfaßten , etwas Gemeinsames und Gemeinschaftliches erkennen müssen , werden wir von selbst auf ein Gemeinsames und Allgemeines geleitet,
+
+AUbefassende ist , unter
+
+Einzelne und Besondere untergeordnet , oder subsumirt werden kann und muß , und bilden also so einen allge meinen und obersten , logischen Begriff.
+
+Einzelne und Besondere , was in der empirisch - bestimmbaren Erfahrung aufgefaßt ist, ist Begriff im Einzelnen , Begriff in concreto ; das Gemeinschaftliche, Albefassende, daraus Abgeleitete, ist Begriff im Allgemeinen , oder Begriff in abstracto.
+
+Ein solcher Begriff in concreto ist nun der Begriff „ Körper ; " das allen Körpern Gemeinsame ist das Körperliche, Materiale, und folglich ist Materie der albefassende Begriff, allgemeine, oder Begriff in abstracto.
+
+Körper ist inzwischen nicht blos ein Begränztes , oder Ausgedehntes, sondern auch ein Dichtes, die Umgränzung Erfüllendes.
+
+Allein die Dichtigkeit gehört nicht zur
+
+Wesenheit eines Gegenstandes , in wiefern er Körper ist, d. i. ein bestimmt Gegebenes , scheinbar vernunftloses blos Lebendiges , sondern gehört zu dessen Wesenheit, in wiefern er Einzeln - Wesen , also bestimmt gegebenes Vernunftleben ist.
+
+Denn die in der sinnlichen Wahrnehmung von uns erfaßte nicht Dichtigkeit , sich, bestimmte Erscheinung bat d . i. ist nicht wahrhaft in und an in wiefern sie diese bestimmt gegebene sinnlich.
+
+wahrnehmbare Erscheinung ist, sondern hat Dichtigkeit, [p. 222] d. i. ist wahrhaft in und an sich, in wiefern sie , abge sehen von diesem bezüglichen Umstande , ein gesondertes, selbstständig und eigenthümlich in sich begründetes Etwas, oder Wesen , unter den unendlich vielen andern Wesen ist, folglich Wesenheit hat.
+
+Was wir also Dichtigkeit nennen , sollte im Grunde Wesenheit heißen.
+
+Selbst wenn wir bei dem zwar allgemein angenommenen , nichts desto weniger aber höchst allgemeinen und schwankenden Begriff
+
+Dichtigkeit " bleiben , läßt sich gleichwohl zeigen, daß wir eigentlich das , was wir unter Dichtigkeit ver stehen , in der sinnlich wahrgenommenen Erscheinung weder unmittelbar, noch mittelbar erfassen , sondern ihr, uns des wahren Grundes unbewußt , unbefangen unterschieben, und dieser wahre Grund ist ein dunkles , unmittelbar gegebenes Gefühl , der leeren , oder dem das den Gedanken von gehaltlosen Nichtigkeit der Erscheinungen, Vorhandenseyn des bloßen
+
+Scheins nicht ertragen kann , sondern vermöge einer unmittelbar, nur nicht deutlich und bestimmt gegebenen , Urerkenntniß in allen Dingen und Erscheinungen , das Vorhandenseyn von Etwas ahut, daß sie schlechthin beziehungslos wahrhaft ausmacht, real ist.
+
+und folglich in und an ihnen objectiv
+
+Dies wird freilich von der Art ihres Erscheinens angedeutet , jedoch nicht genüglich, noch passend, fann mithin nicht erkannt und begriffen, sondern blos angeschaut werden .
+
+In der Anschauung aber fällt der
+
+Unterschied zwischen Vernunft und Leben , selbst in formaler Hinsicht , weg , und folglich verlieren auch die Begriffe " Materie , Ausdehnung , Körper , Raum, Zeit " ihre bedingt nothwendige Geltung gänzlich , können also für ein allumfassendes und allgenügsames Anschauen, [p. 223] das ununterbrochen anschaut, in keinerlei Hinsicht Bedeutung haben.
+
+Obschon nun ein solches Anschauen für alle Einzeln - Wesen als Vernunftleben seiner Möglichkeit nach gegeben ist , so kann es in seiner Vollendung nur in dem allumfassenden und allgenügsamen Urgrunde der Dinge seyn, und folglich haben die oben erwähnten Begriffe unbedingt für alle Einzeln - Wesen ohne Ausnahme ihre bedingt nothwendige Geltung , * subjectiv - reell : für ein Einzeln - Wesen , oder sind das des Anschauens schlechthin nicht fähig wäre , würden sie selbst objectiv - reell werden.
+
+Aber da alle unbedingt und ohne
+
+Ausnahme Vernunftleben sind , so werden Aue des Anschauens entweder schon fähig seyn , oder es wenigstens noch werden , nur nicht auf gleiche, sondern auf unendlich mannichfache Weise , und offenbar hängt von der
+
+Art und dem Umfange ihres Anschauens, von dem Grade von Fähigkeit , den sie , zum Anschauen zu gelangen, besißen , der Grad von Nothwendigkeit ab , den diese
+
+Begriffe ihrer Gültigkeit nach , für ein bestimmtes Einzeln - Wesen haben sollen , und wenn sie für keins rein verschwinden kann, so kann sie auch für keins zur schlechthin unbedingten und nnbedingbaren werden.
+
+§.
+
+101.
+
+Lehre vom Vollkommenen an sich. Wenden wir uns nun , nachdem wir den Begriff des Bezüglichen , Bedingten , Bedingbaren , oder Mangelhaften und Unvollkommnen in all seinen Beziehungen erörtert haben , zu dessen Gegensaß , dem schlechthin
+
+Unbezüglichen , · Unbedingten und Unbedingbaren, oder
+
+[p. 224] Vollkommnen an sich.
+
+Die Bezüglichkeit oder Bedingtheit und Bedingbarkeit des Einzeln - Wesens ist hauptsächlich in drei Punkten , nämlich im Daseyn , in der
+
+Vernunft und im Leben gegeben.
+
+Im Daseyn , weil unbedingt alle Einzeln - Wesen ohne Ausnahme in, durch und mit Gott , folglich nicht schlechthin in sich selbstge. nügsam sind.
+
+In Hinsicht der Vernunft, weil sie nicht
+
+Alles unmittelbar vollkommen klar sammt Grund und Zweck erfassen , und hinsichtlich des Lebens endlich , weil es in ihnen nicht als das unersättliche , unerschöpfliche, ununterbrochen fortquellende erscheinen kann. sen also wird schlechthin beziehungslos ,
+
+Das We unbedingt und unbedingbar , oder vollkommen an sich seyn, was seinem Daseyn nach, rein in und durch sich selbst , also schlechthin innerlich selbst genügsam ist , das ferner mit seiner Vernunft Alles unmittelbar vollkommen klar sammt
+
+Grund und Zweck erfaßt, und in dessen Wesenheit endlich das unersättliche , unerschöpfliche , ununterbrochen gleichförmig fortquellende Leben erscheint , und von ihm als solches erkannt wird.
+
+Dieses Freyseyn von allre
+
+Bedingtheit und diese Unmöglichkeit aller Bedingbarfeit fömmt nur Gott zu, jedoch nicht , in sofern er in formater Hinsicht bald blos als Vernunft , bald blos als Leben betrachtet werden kann , sondern , in sofern er seiner eigentlichen und wirklichen Wesenheit nach, Einerleiigkeit von Vernunft und Leben , oder VernunftLeben ist.
+
+Denn ist die Vernunft schlechthin unbedingt und unbedingbar, so ist es das Leben nothwendig zugleich mit, und ist umgekehrt das Leben schlechthin unbedingt und unbedingbar , zugleich mit.
+
+so ist es nothwendig die Vernunft
+
+Gesetzt , das Leben wäre schlechthin unbedingt [p. 225] and unbedingbar , die Vernunft aber bedingt und bedingbar, folglich unfähig ,
+
+Alles unmittelbar vollkommen klar, sammt Grund und Zweck zu erfassen, so würde sie offenbar auch das unendliche Leben nicht als solches erfassen können , und also würde das unendliche Leben nicht für ihr Erkennen erscheinen, oder vorhanden seyn, und somit bedingt und bedingbar werden, welches inzwischen in dem schlechthin Selbstgenügsamen unmöglich ist. In dem schlechthin Selbstgenügsamen muß demnach mit dem rein unbedingten und unbedingbaren Leben die
+
+Vernunft nothwendig zugleich mit schlechthin unbedingt und unbedingbar seyn.
+
+Umgekehrt kann , ist die Vernunft schlechthin unbedingt und unbedingbar , auch das
+
+Leben nicht bedingt und bedingbar seyn.
+
+Denn gefeßt , es wäre bedingt und bedingbar , d. i. könnte sich nicht als unersättlich, unerschöpflich und ununterbrochen gleichförmig fortqueiend äußern , so könnte diese Bedingtheit entweder eine objective , oder nur eine subjective seyn, d. i. abgesehen von allem Erkennen an und für sich, oder blos in Bezug zu dem Erkennen statt) finden . Objectiv kann sie aber im Urgrunde des All nicht seyn , eben weil er sonst nicht Urgrund des All seyn könnte ; subjectiv kann sie für eine schlechthin unbedingte und unbedingbare allumfassende Vernunfterkenntniß, die Alles unmittelbar vollkommen klar sammt Grund und Zweck erfaßt , auch nicht seyn , und folglich ist das Leben unter Vorausseßung einer rein unbedingten , unbedingbaren, allumfassenden Vernunfterkenntniß , zugleich nothwendig mit schlechthin unbedingt und unbedingbar .
+
+In der
+
+Natur des Vollkommnen an sich liegt es ferner , daß sie nicht blos unendlich vieles , sondern auch unendlich
+
+[p. 226] Mannichfaches und Verschiedenes will und wollen kann, und daß sie überall unendlich gefeß- und zweckmäßig ist. Denn ihr Wollen steht nie im Widerspruch mit der Möglichkeit ; sie will nie mehr, als sie kann, und immer nur das , was sie kann.
+
+Das Vollkommne an sich ist schlechthin Einerleiigkeit von Freiheit und Nothwendigkeit, oder Gesetzmäßigkeit , und wird also Willkührlichkeit eben so sehr als unmöglich von sich ausschließen , wie absolute Nothwendigkeit.
+
+Der Begriff der unendlichen
+
+Gesetzmäßigkeit muß inzwischen näher bestimmt und genauer entwickelt werden ; diese genauere Bestimmung ist aber im Grunde nur eine weitere Ausführung von der Lehre des Vollkommnen an sich.
+
+$.
+
+102.
+
+Lehre von der unendlichen Gefeßmäßigkeit Gottes. Bekannt ist , daß sich die göttliche Wesenheit, die ihrer eigentlich wahren Beschaffenheit , oder objectiv realen Natur nach , schlechthin unbedingt Einerleiigkeit von Vernunft und Leben , oder unendliches Vernunftleben ist, in formaler Hinsicht unter zwei Gesichtspunkten, theils hauptsächlich als Vernunft , theils vorzugsweise als Leben, auffassen läßt , und daß diese Auffassungsart eine bedingt nothwendige , hat.
+
+oder subjectiv . reale Geltung
+
+Das unendliche Leben ist ein unendlicher , unersättlicher Entwickelungs- Offenbarungstrieb, folglich schlechthin unbedingte und unbedingbare , unabtreibliche Nothwendigkeit darzustellen : Die unendliche Vernunft dagegen ist schrankenloses Schauen, unmittelbar vollkommen flares
+
+[p. 227] Erfassen aller Dinge sammt Grund und Zweck, also ein rein vernünftiges , oder freies Beschließen , Wollen und Sezen.
+
+Demnach wäre Gott als reine Vernunft schlechthin frei , und als bloßes Leben schlechthin nothwendig, und mithin würde auch das durch Gott seinem Daseyn und Wirken nach begründete All , in jenem Fall schlechthin frei , und in diesem schlechthin nothwendig seyn.
+
+Nun ist aber Gott seiner eigentlich wahren , oder objec tiv - realen Wesenheit nach , weder Vernunft , noch Leben allein , sondern Vernunftleben , und folglich ist er weder schlechthin frey , noch absolut nothwendig , sondern eine Einerleiigkeit von Freiheit und Nothwendigkeit , oder Gefeßmäßigkeit , und also wird auch das durch ihn begründete All nicht blos Freiheit , oder Nothwendigkeit, sondern gleichfalls Gesetzmäßigkeit in sich darstellen. e Gott nämlich, als unendliche Vernunft, durchschaut unmittelbar vollkommen klar seine eigene Wesenheit , erkennt mithin in ihr, neben seiner unendlichen alldurch. schauenden Vernunft, zugleich die unendliche , schlechthin unbedingte Nothwendigkeit All in , aus und durch sich darzustellen und zu behaupten , oder das unendliche Leben, dem er, da es nothwendig integrirende Eigenschaft von seiner Wesenheit ist, so daß diese ohne dasselbe ganz ungedenkbar wird , durch Darstellung eines All genügen muß , das ihn folglich , wofern er sich nicht dazu entschließen wollte, zur Darstellung des All nöthigen , und gleichsam unaufhaltsam dazu mit sich fortreißen würde. Sich aber willenlos von einem blinden Triebe zu einem Handeln fortreißen lassen, das man beschließen könnte, und, nach klarer Erkenntniß seiner eigenen Wesenheit, in der es als unvermeidlich begründet liegt , eigentlich [p. 228] beschließen müßte , ist einer unendlichen alldurchschauenden Vernunft nicht angemessen ; die unendliche und alldurchschauende Vernunft Gottes wird daher schlechthin unmittelbar , oder rein zeitlos, das zu thun beschließen, was in ihrer Wesenheit als nothwendig und unvermeidlich gegeben ist, wird folglich auf das Nothwendige und Unvermeidliche in ihrer Wesenheit Rücksicht nehmen, aber sich nicht dazu von dem Nothwendigen und Unvermeidlichen , weder unmittelbar , noch mittelbar bedingend bestimmen lassen , sondern sich selbst unmittelbar rein , durch ihre Vernünftigkeit bedingend dazu bestimmen, und so wird eben das Nothwendige in ihr frei, weil es von der Vernunft schlechthin bedingend bestimmt wird, und das Freie in ihr nothwendig , weil die Vernunft sich selbst schlechthin unmittelbär, um des Nothwendigen in ihrer Wesenheit willen , bedingend bestimmt, und diese schlechthin unmittelbare bedingende Selbstbestimmung und bedingt selbstbestimmte Nothwendigkeit ist die unendliche Gefeßmäßigkeit.
+
+Durch diese nun ist das All seinem Daseyn und Wirken nach begründet, folglich wird Alles in und an dem All unendlich gesetzmäßig seyn.
+
+Gott ist schlechthin beziehungslos , unbedingt, unbedingbar , oder vollkommen an sich , also rein in sich selbstgenügsam. unmittelbar ,
+
+Dennoch hat er sich schlechthin oder rein zeitlos offenbart durch ein All, welches allein ein vollständiges und genügsames Abbild seiner Wesenheit seyn konnte , und die Alheit ist schlechthin untrennbar einerleiig mit ihrem Urgrunde, oder mit Gott dem unendlichen Vernunftleben.
+
+All also wird nothwendig , als Offenbarung des unendlichen und schlechthin gefeßmäßigen Vernunftlebens , schlechthin unbedingt [p. 229] und unbedingbar , und also unbegränzt , unendlich seyn. §.
+
+103.
+
+Das All besteht nothwendig aus unendlich vielen Einzeln Wesen, die, sofern sie nothwendig integrirende Theile des Ganzen und Einen sind , also gar nicht ohne und außer dem Ganzen und Einen gedacht werden können , wie jenes ohne sie ungedenkbar ist , die göttliche
+
+Wesenheit gerade eben so ausdrücken , und in sich enthalten , wie das Ganze und Eine selbst : das Ganze und Eine ist unter diesem Gesichtspunkte Totalität.
+
+das Einzeln - Wesen ist nicht Totalität selbst , sondern nur Glied der Totalität, enthält folglich in der Totalität die in derselben erscheinende göttliche Wesenheit, enthält sie aber immer zum Theil, oder ungenüglich und unvollständig.
+
+Wie nun jedes Einzeln - Wesen nothwendig Theil hat, an der im All erscheinenden göttlichen
+
+Wesenheit, so hat auch unbedingt und ohne Ausnahme jedes Theil an der Bestimmung und dem leßten Zweck des Au, den sie, ihrem Standpunkte gemäß , mit erfüllen helfen muß , und diese Bestimmung ist die vollständige und genügliche Darstellung der göttlichen Wesenheit, oder des Vollkommnen an sich , der schlechthin unbedingten Einerleiigkeit von Freiheit und Nothwendigkeit, oder der unendlichen Gesetzmäßigkeit. Das EinzelnWesen ist aber, als solches , nothwendig bedingt und die .
+
+bedingbar , und wird folglich diese Bestimmung , wesentlich unbedingtheit und Unbedingbarkeit vorausseßt, nicht vollständig , oder genüglich, erreichen können, die sie doch erreichen muß , in wiefern sie die göttliche
+
+[p. 230] Wesenheit, d. i. Vernunftleben , in sich hat , und diese haben unbedingt und ohne Ausnahme alle Einzeln - Wesen, als schlechthin nothwendige Glieder der ihrem Daseyn, Wesen und Wirken nach durch Gott , das unendliche Vernunftleben , begründeten Totalität , foder des All in sich.
+
+Wenn gleichwohl kein einzelnes Einzeln - Wesen seine Bestimmung vollständig und genüglich erreichen kann, so scheint es auch die göttliche Wesenheit nicht vollständig , noch genüglich erreichen zu können .
+
+Gott selbst braucht nicht mehr irgend etwas erst noch zu erreichen , sondern hat Alles rein zeitlos , als schlechthin vollendet , in sich und erkennt sich so sowohl im All, als im Einzeln - Wesen.
+
+Das Einzeln - Wesen erfaßt sich und das All zunächst nicht so, sondern erschaut sich unvermeidlich als noch in der Vollendung begriffen, und somit als derselben noch bedürftig.
+
+Es begreift das All nicht sammt Grund und Zweck, und aus diesem Grunde auch sich selber nicht.
+
+So lange es nun Einzel- Wesen und somit unvermeidlich bedingt und bedingbar ist , kann es von der ihm unvermeidlichen, subjectiv- reellen Betrachtungsart , nicht anhaltend loskommen , und folglich muß ihm Alles als unvollendet und unvollkommen erscheinen.
+
+Ein innerliches , unabtreibliches Gefühl führt es jedoch mit unendlicher Nothwendigkeit über diese Betrachtungsart hinaus , und es fühlt bald , daß seine , so wie aller Einzel - Wesen Bestimmung nicht seyn könne , schlechthin unvollkommen
+
+• zu bleiben, oder das All sammt Grund und Zweck nicht zu begretfen, sondern daß es, unter Voraussetzung eines unendlich vollkommnen Urgrundes , als lezten Zweck die Bestimmung haben müsse , das Vollkommne an sich irgend [p. 231] einmal , also nicht in bestimmt gegebener , sondern in unendlicher Zeit in sich darzustellen , oder das All sammt Grund und Zweck in aller Beziehung vollkommen klar zu erkennen , d. i. zu durchschauen.
+
+Das Einzel-
+
+Wesen wird seine Bestimmung erfüllt haben , sobald es sich seiner objectiv - realen Wesenheit nach, Vernunftleben , d. i. als
+
+Aus dem Gesagten folgt also erfaßt.
+
+mit Nothwendigkeit das ununterbrochene Fortschreiten aller Einzel- Weseu zur Vollkommenheit, ihr Uebergehen zu höhern Standpunkten.
+
+§.
+
+104.
+
+Da übrigens das All sowohl , als solches, wie im Einzelnen in, mit und durch Gott ist , also Offenbarung des Vollkommnen an sich , d. i. des schlechthin Wandellofen , oder unendlich Gefeßmäßigen , so folgt von selbst, daß Alles , was ist und geschieht, unendlich zweck - und gesetzmäßig sey und erfolge, oder gerade so und in der bestimmten Gestaltung , als es ist und erfolgt, seyn und erfolgen müsse.
+
+Denn die unendliche Vernunft hat Alles rein zeitlos erschaut und somit als nothwendig gefeßt. Um deswillen ist aber auch Alles , was ist und erfolgt, gut, indem das unendliche Vollkommne nur das unendlich Vollkommne , d. i. das Gute sehen kann.
+
+Deshalb ist jedoch weder die Freiheit des Willens , noch die Zurechnung aufgehoben , oder das Uebel und das Böse gerechtfertigt, mithin keinesweges absoluter Fatalismus gelehrt.
+
+Jedes Einzel - Wesen ist nämlich, wie bekannt,
+
+Vernunftleben, hat also die Möglichkeit und Fähigkeit zum Innewerden Seiner selbst , d . i. zum Selbstbewußtseyn und Denken und Erkennen , also auch zum Wollen [p. 232] und Beschließen zu gelangen.
+
+In dem bestimmt gegebenen, eigens bedingten Vernunftleben , Mensch genannt, ist jene Fähigkeit zur Wirklichkeit geworden , und er ist eben um deswillen nicht mehr blos Vernunftleben , sondern ein Vernunftwesen , mit dessen Natur es unvermeidlich und nothwendig zusammen hängt , zu erkennen. Was nun unvermeidlich und nothwendig mit der Wesenheit eines Wesens zusammen hängt , das kann nicht aufgehoben werden , wofern nicht das Wesen selbst seiner Wesenheit nach aufgehoben wird , was aber unmöglich
+
+• ist.
+
+Denn das Wesen kann seine subjectiv - reale Wesenheit nicht aufheben, d . i. kann sich nicht zu einem
+
+Nicht - Vernunftwesen machen , Dinge, oder Gott , und der Urgrund der kann und will es nicht , weil er das unendlich Vollkommne und Gefeßmäßige ist , und demgemäß theils überall das Vollkommne will , theils nirgends den regelmäßigen und natürlichen Lauf der Dinge hemmen kann , ohne sich selbst zu zerstören , was unmöglich ist.
+
+Also jedes Vernunftwesen muß , weil es Vernunftwesen ist , erkennen, unvermeidlich denken und und sobald es denkt und erkennt , auch beschließen und wollen , nicht, eben kann es aber nothwendig ist es daß es beschließe und wolle.
+
+Denn das Denken und Erkennen ist zwar eine nothwendige Folge vom Selbstbewußtseyn , nicht aber das Beschließen und Wollen von diesem :
+
+Dieß seht voraus , daß der Mensch auch begreift, und somit einen Gebrauch von seiner Vernünftigkeit machen lerne.
+
+Lernt er diesen nicht machen, so ist dieß bloß seine Schuld , und kann ihm mit vollem Grunde zugerechnet werden , Möglichkeit dazu gegeben ward.
+
+da ihm die
+
+[p. 233] } 105. Der Mensch lernt nun entweder gar keinen Gebrauch von seiner Vernünftigkeit machen , und lebt sodann gedankenlos, in welchem Falle er allerdings rein nothwendig ist , oder er lernt sie nicht auf die rechte Weise gebrauchen , in welchem Falle er willkührlich , oder frei wird , und nur erst dann , wenn er den rechten Gebrauch zu machen versteht , wird er gesetzmäßig , indem er sich nun nicht wider Willen vom Unvermeidlichen mit fortreißen läßt , sondern mit Freiheit sich demselben unterwirft.
+
+Denn der Urgrund der Dinge , oder Gott, setzte rein zeitlos und lediglich durch sich bestimmt den Weltenplan, der einzig darin bestehen kann , daß die Darstellung seiner eigenen Wesenheit, oder des Vollkommnen an sich , als leßter Zweck für all seine Geoffenbarten gefeßt, den sie irgend einmal erreichen werden und müssen.
+
+Diesen kann er in seiner Erfüllung nicht von dem Beschließen und Wollen bedingter Vernunftwesen abhängig machen, sondern muß und wird ihn , abgesehen davon , vollenden , nicht für sich , denn in Bezug zu seiner Anschauung ist er rein zeitlos als schlechthin vollendet gegeben, sondern für die Anschauung aller bedingten
+
+Einzel- Wesen ohne Ausnahme.
+
+Dem gemäß sind alle
+
+Handlungen mit ihren Wirkungen und Folgen so berech net, daß sie jenen lezten Zweck zur Erfüllung bringen müssen.
+
+Diese Erfüllung zu verhindern ; zu bewirken , oder anders als sie , dem Weltplan gemäß , bewirkt werden soll , liegt nicht in der Macht bedingter Wesen. Wenn sie nun dieß nicht einsehen , und statt im Sinne des Weltzwecks zu handeln , nur in ihrem eigenen handeln, [p. 234] also nicht von ihrer Vernunft, denschaften , sondern von Lei-
+
+Irrthümern und Vorurtheilen ausgehen, so erreichen sie ihren vorgesteckten Zweck nicht, sondern . werden von der Gewalt der Umstände bezwungen , vernichtet, sind also nothwendig , weil sie willkührlich und frei handeln , oder nicht den rechten Gebrauch von ihrer Vernünftigkeit machen , den sie machen könnten, wenn sie sich und das All sammt Grund und Zweck vollkommen klar begriffen.
+
+Zwar können bedingt gegebene Vernunftwesen, eben um ihrer Bedingtheit willen, nicht in irgend einer bestimmt gegebenen Zeit das All vollkommen klar begreifen , obwohl sie die Fähigkeit in sich haben , es irgend einmal zu können , und also werden sie auch nicht mit absoluter Bernünftigkeit zu be schließen und wollen im Stande seyn , mithin auch nicht die unendliche Gesetzmäßigkeit Gottes in sich darstellen , sondern stets einigermaßen nothwendig bleiben ; aber sie haben doch die Fähigkeit in sich, einen so vollkommenen Begriff von sich und dem All sammt Grund und Zweck aufzufassen, als es ihrer individuellen Weltlage nach überhaupt möglich ist, und somit mit Vernünftigkeit zu beschließen und zu wollen , und also sind sie nicht schlechthin nothwendig , sondern stets einigermaßen gesetzmäßig.
+
+Wie groß die Fähigkeit seyn soll, mit Vernünftigkeit zu beschließen und zu wollen , gesetzmäßig zu werden , das hängt von der Weltlage des Einzel - Wesens ab , die es sich nicht geben kann, sondern die ihm rein zeitlos schlechthin gegeben ist.
+
+Hierin also ist es unbedingt der Nothwendigkeit unterworfen.
+
+Aber einleuchten muß , daß jedes
+
+Einzel- Wesen, sofern es Vernunftwesen ist, stets in [p. 235] gewissem Grade die Fähigkeit haben wird , einen Gebrauch von seiner Vernünftigkeit zu machen , folglich mit Vernünftigkeit , oder gesetzmäßig, zu beschließen und zu wollen , daß es mithin eine Schuld begeht , es jene Fähigkeit nicht anwendet, die ihm als solche zugerechnet werden kann , und werden wird .
+
+Aus demselben Grunde können ihm seine Handlungen bedingt zugerechnet werden , nämlich in so weit , in wie weit es mit Bernünftigkeit beschließen und wollen konnte. Daß übrigens der Weltzweck, abgesehen von allem bedingten und subjectiven Beschließen , Wollen und Handeln, oder auch Nicht- Beschließen , Nicht - Wollen und NichtHandeln, dennoch schlechthin erfüllt werden muß, schließt nicht in sich, daß alles Handeln der Einzel- Wesen überflüßig sey , und also unterbleiben könne , vielmehr ist dieß nothwendig , unvermeidlich und keinesweges unnüz.
+
+Denn der Mensch hat , als Vernunftleben , die
+
+Nothwendigkeit, sich als selbstständiges Wesen darzustellen und zu behaupten , so wie ein Allebendiges aus sich darzustellen und zu erhalten , oder Leben als objectivreale Eigenschaft in seiner Wesenheit , muß , der er genügen welches nur unter Vorausseßung des Handelns und Thätigseyns möglich ist ;
+
+Handeln und Thätigseyn ist folglich für jedes Vernunftleben unbedingte Nothwendigkeit.
+
+Der Mensch also , als Vernunftleben , muß handeln und thätig seyn.Inzwischen ist dieß nicht blos eine in seinem Leben begründete Nothwendigkeit, fon dern auch eine Nothwendigkeit , die aus seiner Vernünftigkeit hervor geht , so bald er diese gebraucht.
+
+gebraucht er seine Vernünftigkeit , so wird er auch seine Wesenheit erkennen, also einsehen , daß darin die Nothwendigkeit [p. 236] des Thätigfeyns gegeben liegt , er mithin werde handeln müssen , wenn er sich nicht dazu entschließe. Nun aber ist es offenbar unvernünftig , sich zu dem, was nothwendig ist , und daher schlecht unbedingt erfolgen muß , von der Nothwendigkeit bestimmen und willenLos mit fortreißen zu lassen , wenn man sich dazu zu entschließen , also es zu wollen , die Fähigkeit hat.
+
+Mensch aber hat diese Fähigkeit, der er entsprechen kann und sollte, und er wird ihr entsprechen , freithätig beschließt , was er muß.
+
+wenn er das
+
+Dadurch bedingt er zugleich die Nothwendigkeit in und um sich , und erhebt sie so zu jener wahren , sich selbstbedingenden Freiheit, oder Gesetzmäßigkeit, zugleich ist aber auch das Handeln der bedingten Vernunftwesen aus zweierlei Rücksichten nicht unnüß.
+
+Denn macht es, wie es soll , den richtigen
+
+Gebrauch von seiner Vernünftigkeit, so wird es immer sich selbst, wie das All sammt Grund und Zweck einigermaßen begreifen , und so einsehen , daß nur das geschehen und vollbracht werden kann , was mit dessen Wesenheit und letztem Zweck übereinstimmt , und folglich nichts beschließen und ausführen wollen , Wesenheit und dem leßten folglich nicht erfüllbar ist , was dieser
+
+Weltzweck widerspricht, vielmehr wird Alles , es zu wollen und auszuführen beschließt, damit übereinstimmen , also ausführbar und erfüllbar seyn , indem es sich mit Bewußtseyn den leßten Zweck , d. i. Darstellung des unendlich Vollkommnen , in sich und seinen Umgebungen , nach Maaßgabe seiner Kräfte und Verhältnisse zu bewirken , seßt.
+
+Die Handlungen des einzelnen bedingten
+
+Vernunftwesens sind also unter diesem Gesichtspunkte keinesweges zwecklos , oder überflüßig, vielmehr zweckvoll.
+
+[p. 237] und fördernd.
+
+Aber zweitens sind sie dies auch um deswillen nicht , weil der Mensch das All nicht vollkommen klar, somit Grund und Zweck durchschaut.
+
+Wäre dies nämlich der Fall , begriffe er also vollkommen , wie und auf welche Weise der Weltenzweck im Ganzen, wie im Einzelnen in Erfüllung gebracht werden soll, so wären sie allerdings zwecklos und unnüß , weil , wie er auch handelte , dieser dennoch erfüllt werden muß.
+
+Nun aber durchschaut der Mensch auch nicht das All sammt Grund und Zweck , sondern erkennt es nur theilweise, weiß also nicht , wie der Weltzweck sowohl im Ganzen , als im Einzelnen verwirklicht werden wird , und obschon er erkennt, daß dieser schlechthin unbedingt , abgesehen von seinem und allem subjectiven Handeln, erreicht werden soll , so ist ihm doch unbekannt , in welcher nothwendigen , oder wesentlichen Beziehung diese Erfüllung zu seinem subjectiven Handeln steht , weil er nicht weiß, und darf daher, das Handeln nicht als gleichgültig betrachten, und somit entweder ganz unterlassen , mit Willkührlichkeit vornehmen , muß vielmehr und zwar mit Bernünftigkeit , handeln.
+
+Inzwischen entsteht hier unvermeidlich die Frage: kann die Erfüllung des Weltzwecks in nothwendiger, oder wesentlicher , Beziehung zu dem bezüglichen und bedingten Handeln des Subjects stehen ? Wir haben diese mit Bestimmtheit bereits früher verneint, und gleichwohl ward nur so eben bemerkt, daß der Mensch handeln müsse , weil er nicht wissen könne , ob nicht sein Handeln zur Erfüllung des Weltzwecks in nothwendiger , stehe, oder wesentlicher Beziehung was also im Widerspruch mit dem Vorigen zu
+
+stehen scheint.
+
+Dieser Widerspruch wird sich lösen, wenn [p. 238] wir uns erinnern , daß der Weltzweck nicht in Bezug zum göttlichen Schauen , sondern in Bezug zum subjecriven und somit bedingten Erkennen des Einzeln - Wesens erfüllt werden muß , daß also diese Erfüllung in jeder bestimmt gegebenen Zeit weiter rücken muß , wenn gleich sie sich erst in unendlicher Zeit vollenden kann. Nun wird diese Erfüllung zwar unbedingt und abgesehen von allem subjectiven Handeln der Einzel - Wesen ununterbrochen fortrücken und sich vollenden , Ende auch alle zu welchem
+
+Handlungen aller Einzel - Wesen in allen Zeiten mit allen ihren unendlich vielen Folgen von der göttlichen Vernunft , die sie rein zeitlos vor aussah, so berechnet und bedingt sind , daß sie zu jenem Zwecke nothwendig mitwirken müssen :
+
+aber darum ist nicht gerade mit Nothwendigkeit auf die Handlungen der Einzel- Wesen , und noch weniger auf bestimmt gegebene Handlung bestimmt gegebener Wesen gerechnet , so, daß der Weltzweck, wofern diese ausbleiben , gar nicht erfüll bar wäre.
+
+Das wäre eben so einseitig, als armselig, kann also dem unendlich Vollkommnen und in so fern unendlich Mannichfachen und Vielseitigen nicht beigemessen werden, der gewiß , eben weil er dieß ist, auf unendlich mannichfache Weise dafür gesorgt hat , daß der Weltzweck erreicht werden muß , und werden wird.
+
+Eine dieser unendlich mannichfachen Weisen sind die Handlungen der Einzel- Wesen :
+
+treten sie ein ,
+
+Mittel, treten sie nicht ein , Mittel wirken.
+
+so werden sie das so wird ein anderes als
+
+Hieraus geht hervor , daß kein Einzel-
+
+Wesen sich als ein besonderes Werkzeug der Vorsehung betrachten kann.
+
+Wiewohl nun nicht mit Nothwendigkeit auf die Handlungen der Einzel - Wesen gerechnet.
+
+[p. 239] ist, so leuchtet doch ein , daß ihr Handeln , oder NichtHandeln, und die Art und Weise ihres Handelns einen Einfluß auf den Entwickelungs - Gang des Weltschickfais haben , den das Subject weder zu erfassen , berechnen vermag.
+
+noch zu
+
+Denn ihr Handeln , wenn es eintritt, wird ein Mittel zur Erreichung des Weltzwecks , eben so die Art und Weise ihres Handelns.
+
+Handeln sie nicht, oder handeln sie nicht mit Vernünftigkeit , also` so, daß es, in seiner ungehemmten Folge , die Erfüllung des Weltzwecks hemmen würde , so wird im ersten Falle ein anderes Object als Mittel wirkend eintreten, indem der lezte Weltzweck schlechthin unbedingt erfüllt werden muß , und im Testern werden aus demselben
+
+Grunde die Folgen ihrer unvernünftigen Handlungen gehemmt werden.
+
+In beiden Fällen tritt also eine ganz andere Reihe von Bedingungen ein , als eingetreten seyn würden, so fern sie überhaupt gehandelt , oder mit Vernünftigkeit gehandelt hätten , und folglich steht das
+
+Handeln , und die Art und Weise im Handeln der Einzeln - Wesen , allerdings in nothwendiger und wesentlicher Beziehung zur Erfüllung des Weltzwecks , und weil sie dieß nicht überschauen können, dürfen sie eben so wenig das Handeln überhaupt unterlassen , als ein unvernünftiges Handeln vornehmen , wenn sie nicht für die Folgen, die dadurch eintreten können, wollen.
+
+§. 106.
+
+verantwortlich werden
+
+Vom Uebel.
+
+Eine andere, sehr wichtige, Untersuchung schließt sich hier von selbst an , nämlich die vom Uebel, sachlich vorhanden ist.
+
+das that
+
+Das Uebel muß als ein Ausdruck [p. 240]
+
+Unvollkommenheit betrachtet entweder nothwendig , nun ist es möglich , werden, das oder unvermeidlich war .
+
+Wie daß das Vollkommne an sich das
+
+Unvollkommne als nothwendig und unvermeidlich begründet , oder auch nur zuläßt ?
+
+Mit dieser Frage haben sich seit uralter Zeit die Weisen fast aller Völker beschäftigt , und bekannt ist , daß sie meistens , da sie diese Thatsache nicht mit der Wesenheit eines unendlich vollkommnen
+
+Urgrundes der Dinge vereinbaren konnten, ein böses Princip zu dessen Erklärung als nothwendig vorhanden seßten , entweder selbst als einen Urgrund , oder als seinem Daseyn nach begründet von einem Urgrunde, was beides gleich ungereimt ist.
+
+Denn außer, daß nicht zwei als schlechthin selbstgenügsam , d. i. eben als Urgrund , neben einander bestehen können , sind auch die Begriffe Urgrund, und absolut Böse , contradictorisch einander entgegengeseßte , die folglich einander gegen feitig nothwendig aufheben und vernichten.
+
+Denn ein
+
+Wesen kann nur in so fern Urgrund seyn , in wiefern es schlechthin vollkommen in aller! Beziehung , oder eben schlechthin innerlich selbstgenügsam ist , dagegen nur absolut böse, in wiefern es rein unvollkommen, also felbstungenügsam wäre , und folglich kann es nicht Urgrund seyn , wenn es absolut böse ist , und nicht absolut böse , wenn es Urgrund ist.
+
+Eben so ungegründet ist es aber auch , daß der absolut vollkommne Urgrund der Dinge ein absolut böses , also unvollkommnes , und was noch mehr ist, rein vernunftloses Wesen , seinem Daseyn nach , soll begründen , blos um das Uebel , herbei zu führen.
+
+oder Böse
+
+Denn was ist das absolut Böse ? Offenbar das, was schlechthin gegen alle Vernunft handelt, [p. 241] und sich auch keinen andern Zweck sezt , als gegen alle Vernunft zu handeln.
+
+Einleuchten muß, daß ein
+
+Wesen, welches sich nur des Zwecks bewußt wäre, und keines andern bewußt werden könnte, als des rein unbedingt gegen alle Vernunft zu handeln , selbst ohne Vernunft , oder vernunftlos seyn müßte , es aber weder das Gute , oder wollen könnte.
+
+in welchem Falle noch das Böse beschließen ,
+
+Denn Wille und Absicht sehen, ihrer Möglichkeit nach,
+
+Vernunft voraus .
+
+Ein Wesen also, so fern es etwas soll beschließen können , muß die Fähigkeit dazu , d. i. eben Vernunft haben.
+
+Aber außer dem haben alle Wesen , in so fern sie durch den Urgrund der Dinge ihrem Daseyn und Wesen nach begründet sind , und das sind unbedingt Alle , nothwendig Vernunft, als objectiv - reale Eigenschaft ihrer Wesenheit, in sich. Denn der Urgrund ist unendliches Vernunftleben , kann als das unendlich Vollkommne seine Wesenheit nicht anders darstellen , als sie wirklich ist, noch will er es , weil er dadurch seine eigene Wesenheit zerstören würde , was unmöglich ist, folglich sind alle Wesen
+
+Vernunftleben, haben mithin Vernunft.
+
+Demnach kann auch keins rein vernunftlos handeln , oder das absolut
+
+Böse beschließen und wollen.
+
+Das Böse muß mithin erklärlich seyn , ohne ein böses Princip , oder eine Unvollkommenheit der göttlichen Natur , d. i. eine Ungereimtheit anzunehmen.
+
+Es ist schon bemerkt worden, daß der Urgrund , als das rein Unbedingte und Unbe dingbare , oder Vollkommne , nirgends das unmittelbar hemmen und aufheben kann , noch will, was entweder unmittelbar nothwendig aus der Wesenheit der Wesen hervor geht, oder wenigstens unvermeidlich damit ver16 [p. 242] knüpft ist.
+
+Nun liegt es nothwendig und unmittelbar daß die Geoffenbarten nicht in der Natur der Sache, rein unbedingt und unbezüglich , oder schlechthin innerlich selbstgenügsam seyn können , wie ihr Urgrund , sondern bedingt, bezüglich, oder innerlich selbst ungénügsam seyn müssen , eben weil sie seine Geoffenbarten , oder die durch ihn ihrem Daseyn und Wesen nach begründeten sind. Dies mußten sie nothwendig seyn , aber nicht in Bezug zu dem schlechthin unbedingten und unbedingbaren Anschauen Gottes , das Alles rein zeitlos in seiner Vollendung erfaßt , sondern lediglich in Hinsicht auf ihre eigene bedingte und bedingbare Erkenntniß.
+
+In dieser liegt als möglich gegeben , daß sie sich bei ihrem Be schließen und Wollen nicht allein , und, nicht einmal vorzugsweise von ihrer Vernunft , sondern auch von ihren Frrthümern , Leidenschaften und Begierden , oder ihrer Sinnlichkeit, können bestimmen lassen, also unvernünftig, oder böse handeln können , aber nicht nothwendig , wie es in ihrem bedingten und bedingbaren Leben als mög-
+
+" lich gegeben, liegt , daß sie frank werden , und sterben können , jedoch nicht als nothwendig.
+
+Diese Möglichkeit konnte jedoch der Urgrund nicht aufheben , ohne das
+
+Bedingtseyn seiner Geoffenbarten auch aufzuheben , womit sie nämlich unvermeidlich verknüpft ist. hat er jedoch das Böse ,
+
+Deshalb oder Uebel noch keinesweges, seinem Vorhandenseyn nach , als nothwendig begründet, oder auch nur zugelassen , Wesen sind nicht , denn die bedingten Einzelund werden nicht um deshalb böse, weil sie bedingt sind , sondern können es nur aus diesem Grunde werden , und daß sie es aus diesem Grunde werden können , kann der Urgrund nicht unmittelbar [p. 243] verhindern , ohne die Grundordnung der Dinge zu unterbrechen , was unmöglich ist.
+
+Damit dieß nicht als eine bloße dialectische Spitzfindigkeit erscheine , begründen wir es noch ausführlicher. §.
+
+107.
+
+Das Bedingtseyn nämlich ist nichts , was in der Wesenheit der Wesen selbst liegt , oder dazu gehört : die Wesenheit der Wesen besteht einzig und allein im Vernunftleben , und in nichts anderm . sie nothwendig denken und leben ,
+
+Als solche müssen daß sie bedingt sind, d. i. nicht Alles sammt Grund und Zweck rein zeitlos vollkommen klar durchschauen , und zugleich ein Aαlebendiges in und aus sich darstellen und behaupten , hat nichts mit dieser ihrer objectiv - realen Natur gemein, mit der nur die Fähigkeit zu Erkennen und zugleich ein Lebendiges in sich und aus sich darzustellen und zu behaupten, nothwendig zusammen hängt.
+
+Aber die Wesen sind nicht blos Vernunftleben, sondern sie sind auch bestimmt gegebene Vernunftleben , d. i. sie haben ihren subjectiven und individuellen Standpunkt im und zum All , der jedoch lediglich bedingt und veränderlich für sie ist, den sie also, ihrer eigentlich wahren Wesenheit unbeschadet, d. i. ohne daß sie je aufhörten , Vernunftleben zu werden , noch je etwas anders werden könnten, weil sie dieß schlechthin unbedingt sind , ganz verlieren, oder verändern können , und wirklich verändern , wodurch. sie also alsdann anders bestimmt gegebene Wesen werden.
+
+Der Umstand nun , daß sie bestimmt gegebene
+
+Wesen sind , macht zugleich ihre Bedingtheit , oder Bezüglichkeit aus :
+
+denn blos als Wesen sind alle gleich
+
+[p. 244] " sehr , ohne alle Ausnahme und Unterschied , Vernunftleben.
+
+Hier also findet schlechterdings keine Beziehung, oder Bedingtheit statt.
+
+Die Bedingtheit der Wesen besteht nun darin , daß sie nicht Alles sammt Grund und Zweck vollkommen klar durchschauen können , und zugleich nicht vermögend sind , ein Aulebendiges in , durch sich darzustellen und aus und zu behaupten , nämlich in ihrer jezigen individuellen und subjectiven Weltlage : Dereinst jedoch muß und wird diese Bedingtheit für ihr eigenes Anschauen aufhören , und sie werden sich und das All als das auffassen , was sie beide ihrer eigenen wahren Wesenheit und Bedeutung nach sind .
+
+sie nun böse, oder unvernünftig , handeln müßten , weil sie bedingt sind , d. i. diese bestimmt gegebene Weltlage. haben , die sie vermöge des leßten Weltzwecks haben müssen , so wäre das Böse seinem Ursprunge nach, als nothwendig durch den Willen des Urgrundes der Dinge begründet, was unmöglich ist, da dieser , als Wille eines unendlichen Vollkommnen , ebenfalls nur unendlich vollkommen , d. i. lediglich durch die reine und unendliche Vernunft zugleich bedingt seyn , folglich nur das schlechthin Vernünftige , oder Gute , beschließen , wollen und begrünben kann.
+
+Der unendlich vollkommne Urgrund hat also sicher nicht seine Geoffenbarten zu bestimmt gegebenen, oder bedingten gemacht , damit sie böse seyn, oder werden , und somit das Böse selbst , veranlassen könnten .
+
+oder Uebel
+
+Die Wesen sind also nicht um deswillen böse , weil sie bedingt sind ; aber.weil sie bedingt sind , und vermöge des leßten Weltzwecks seyn sollten, also nicht Alles sammt Grund und Zweck vollkommen flar durchschauen können , so kann es geschehen , daß [p. 245] sie von ihrer Vernünftigkeit oft nicht den rechten Gebrauch machen , also unvernünftig , oder böse handeln, und mithin ist das Böse , in Ansehung seines Ursprungs, in dem Bedingtseyn der Wesen als möglich gegeben, weil es unvermeidlich war , das Wesen , die nicht Alles sammt Grund und Zweck vollkommen klar durchschauen, auch darin , was stets unbedingt Bestimmungsgrund ihres Willens seyn sollte , bewußt , oder bewußtlos fehl greifen, weil sie nicht beständig mit gleicher Wachsamkeit auf sich und ihre Umgebungen aufmerken , oder den rechten Gebrauch von ihrer Vernünftigkeit nicht machen. 'nun die Wesen unvernünftig , oder böse handeln , so werden sich daraus unvermeidlich die der Natur ihrer Ursache angemessene Folgen , also böse , entwickeln , und blos durch eine gewaltsame Störung und Unterbrechung wäre es möglich , dieß natürliche und unvermeidliche Verhältniß zu verändern.
+
+Es wäre dieß inzwischen widernatürlich und willkührlich , und in so fern unvernünftig.
+
+Nun kann die unendliche, rein schrankenlose, und einzig durch sich bestimmte und bestimmbare Vernunft, nichts Unvernünftiges beschließen , noch wollen , folglich auch den natürlichen und unvermeidlichen Dinge nicht unmittelbar ,
+
+Gang der noch gewaltsam, ändern und stören , also auch mit dem Bösen , so fern es nothwendig und unvermeidlich Folgen haben muß , zunächst unmittelbar nicht gute Folgen, oder solche verknüpfen, die mit seiner Natur im Widerspruch und Gegensaß stehen, sondern muß und will zugeben , meidlich ist , was zunächst unverd. i. die Entwickelung böser Folgen aus dem Bösen als Ursache gedacht.
+
+Das Böse zerstört jedoch seiner Natur nach, als unvernünftig und sinnlos , sich [p. 246] selbst und seine Umgebungen , und würde in feiner ungehemmten Entwickelung mit all seinen unendlich vielen Folgen zuleht die Erreichung des lezten Weltzwecks unmöglich machen , der aber schlechterdings erreicht wer den soll.
+
+Da nun die rein schrankenlose Vernunft dies uranfänglich voraus sah , so wird sie , weil sie in den natürlichen , unvermeidlichen und nothwendigen Zusammenhang von Ursache und Wirkung nicht unmittelbar störend und hemmend eingreifen kann , noch will , und dennoch dessen ungestörten Fortgang nicht zulassen darf, das Böse mit seinem Gefolge , mit so unendlich vielen andern guten Verhältnissen und Beziehungen umgeben und bedingt haben , daß es nicht mehr rein für sich da steht , sondern von seinen Umgebungen auf eine mittelbare Weise so gehemmt und bedingt wird , daß es zuleßt das Gute bewirken muß.
+
+Dadurch ist also das
+
+Böse in seinen Folgen bedingt und aufgehoben, ohne daß ein unmittelbares , unnatürliches Eingreifen nothwendig wäre.
+
+Das Böse , wie das Uebel ist sinnlos, und gelangt daher nicht zu seinem Zwecke, so wie es auch nur momentan ist.
+
+Da jedoch das Einzel- Wesen nicht an seine individuelle Weltlage nothwendig gebunden ist, vielmehr ununterbrochen fortschreiten , oder sich selbst und All sammt Grund und Zweck klarer begreifen und erkennen soll und wird , so wird es auch in Ansehung der Fähigkeit, den rechten Gebrauch von seiner Vernünftigkeit zu machen stets zunehmen , mithin die Möglich.
+
+keit unvernünftig, oder böse zu handeln, beständig abnehmen, und endlich ganz verschwinden.
+
+Auf gleiche Weise wie das Einzel - Wesen fortschreiten , und sich vervollkommnen muß , müssen auch ganze Wesengattungeu fortschreiten. [p. 247]
+
+So die Menschheit.
+
+Dieser Fortschritt ges schieht nicht immer ebenmäßig und auf eine gleichförmige Weise, sondern scheint oft einen Kreislauf zu haben. Dies scheint jedoch nur so , und ist um deswillen nothwendig , weil nicht blos diese , oder jene einzelne Theile der Menschheit , sondern die gesammte Menschheit zugleich den lezten Weltzweck , oder das Vollkommne an sich in sich darstellen soll , wozu es nothwendig ist, daß alle ihre Glieder so ausgebildet und innerlich vervollkommnet werden, daß sie ans Ziel gelangen können.
+
+Wenn daher einzelne Völker und Erdtheile, durch besondere Umstände und Verhältnisse scheinbar begünstigt , schnell vorrücken die übrigen zurück lassen , so können sie nicht in gleicher Art ununterbrochen fortrücken , weil sie sonst den Weltzweck früher erreichen würden , wie jene, sondern müssen , da alle ihn zugleich und auf gleiche Weise in sich darstellen sollen , ' in ihrem Fortschritt gehemmt, ja selbst zurück gedrückt werden , einholen können .
+
+damit die andern sie
+
+Auch ist dies kein Kreislauf, noch ein Rückschritt , sondern es sind blos nothwendige Sei1 tenschritte. Die Geschichte bietet freilich keinen befriedigenden Beleg zu dieser Ansicht ; allein einerseits erkennen wir in ihr blos viertehalb Jahrtausend , was gegen die unendliche Zeit , während welcher die Menschheit leben, und ihr Ziel erreichen soll, fast gleich nichts ist, und anderseits ist die Geschichte eine rein empirische Disciplin, und kann folglich das nicht begründen , noch bestätigen, was die Anschauungswissenschaft der Philosophie lehrt, noch bedarf diese einer solchen Begründung, da sie rein in und durch sich selbst schlechthin unzweifelhaft gewiß ist.
+
+Uebrigens läßt sich schon nach den
+
+[p. 248] Andeutungen dieser rein empirischen Disciplin mit großer Wahrscheinlichkeit ` schließen , daß die Fortbildung des Menschengeschlechts zum unendlich Vollkommnen in Europa einen solchen Standpunkt erreicht hat , daß dieser den andern weit vorangeeilte Welttheil nicht weiter vorrücken kann , sondern zum Stillstand , ja Rückschritt wird gebracht werden müssen , während Amerika sich emporschwingt , und Europa mit sammt seiner Bildung in sich aufnimmt und verschlingt.
+
+Hat Amerika einen bestimmten Scheitelpunkt der Ausbildung erreicht, so wird es ebenfalls gehemmt werden , während ein anderer sich entwickelt , und so fort , bis Alle auf gleicher
+
+Linie stehen , und ihr Ziel erreicht haben.
+
+Unter diesem
+
+Gesichtspunkte
+
+Menschheit, können die Schicksale der wie der einzelnen Menschen , einzig und allein Inhalt und Bedeutung erhalten.
+
+108.
+
+§. Lehre vom
+
+Erkennen bedingten Vernunftnatur und ihren Offenbarungsartén. Obschon der Mensch als Wesen schlechthin eine Einerleiigkeit von Vernunft und Leben , oder Vernunftleben ist , so läßt sich doch diese Einerleiigkeit der Deutlichkeit und bessern Uebersicht wegen, unter verschiedenen Gesichtspunkten , und so selbst als ein Verschiedenes betrachten , ohne deshalb in der Wirklichkeit ein Verschiedenes zu werden , wo es Einerleiigkeit ist und bleibt. So kann es Vorzugsweise bald als Vernunft , bald als Leben betrachtet werden .
+
+Betrachten wir es jetzt hauptsächlich als Vernunft und in seinen Aeußerungen als Vernunft.
+
+Vernunft ist hier nicht als ein besonderer, [p. 249] sondern als allgemeiner Begriff gedacht , der die objectiv - reale Eigenschaft in der Wesenheit des Menschen bezeichnet, vermöge der er nothwendig denken und erkennen muß.
+
+Diese , allgemein gedacht , nennen wir
+
+Vernunftnatur , deren Aeußerungen unendlich viele, und unendlich mannichfache sind, aber sich unter gewisse Hauptformen zusammen fassen lassen.
+
+In der Vernunftnatur und deren Offenbarungen äußert sich, oder erscheint, auch das Leben, weil ja Vernunft und Leben schlechthin einerleiig sind , und also in ihren Wirkungen sich nothwendig gegenseitig und wechselseitig bedingen ; gleichwohl erfaßt die Vernunftnatur
+
+Selbstbewußtseyn jene Aeußerungen des Lebens nicht in sich , ja seßt selbst das Leben als Gegensaß von sich , wie es sich als Gegensatz vom Leben seßt, welches einzig in der Bedingtheit dieses Wesens seinen Grund haben kann .
+
+Da es aber unstreitig Thatsache ist , so müssen wir sie erklären, * wie wir den Menschen überhaupt jezt vorzugsweise als Vernunftnatur auffaffen und erörtern müssen , was eine Reihe von Untersuchungen veranlassen wird, die man in einer eigenen philosophischen Disciplin ausführlich und umständlich behandeln kann , weitläuftig sind .
+
+weil sie selbst sehr
+
+Deshalb wird in diesem Zusammenhange nur das Nothwendigste davon gegeben.
+
+§.
+
+109.
+
+Die göttliche Wesenheit, welche der Mensch in sich hat, kann von zwei Seiten aus ebenfalls betrachtet wer den, nämlich das scheinbar blos Materiale in ihm, oder der Körper , und das scheinbar nur Bernünftige, oder die Vernunftnatur begründend.
+
+beiden erscheint [p. 250] jedoch ein und eben dasselbe , nur unter verschiedenen Gesichtspunkten.
+
+In wiefern es nun im Körper erscheint, ist es Lebensthätigkeit , und in wiefern es sich in der Vernunftnatur ausdrückt , geistiges Regen. Wie nun ist es erklärlich , daß das schlechthin Einerleiige sich als Verschiedenheit erscheine , indem es sich bald als bloße Lebensthätigkeit, bald als bloßes geistiges Regen er fast? Dieß muß mit unserm Bewußtseyn zusammen hängen , und die Frage kann folglich mit der ganz gleich bedeutenden vertauscht werden : Worin liegt es , daß unser Bewußtseyn zwischen Selbst und Nicht - Selbst in sich unterscheidet? Als Thatsache ergiebt sich hier , daß der
+
+Mensch im Bewußtseyn die Aeußerungen von zwei verschiedenen erfaßt, die er sich Seele und Leib zu nennen gewöhnt bat.
+
+Ob sie auch noch verschiedene seyen , wenn das Bewußtseyn hinweg gedacht wird, ist eine ganz andere Frage, die inzwischen schon verneinend beantwortet ist. Der Unterschied zwischen Selbst und Nicht- Selbst , oder Geistig und Nicht - Geistig , hat nur unter Voraussetzung des Bewußtseyns Bedeutung.
+
+Ob unter Vorausseßung von Bewußtseyn überhaupt , oder nur von dem bedingten bestimmt gegebenen menschlichen , wissen wir zur Zeit noch nicht. So viel ist inzwischen gewiß , daß , hat der mehrgedachte Unterschied unter Vorausseßung von Bewußtseyn überhaupt Bedeutung , derselbe von unbedingt nothwendiger Geltung , oder objectiv - real ist , weil er nun in der ob fectiv realen Wesenheit des Menschen begründet wäre , und somit diese selbst nicht mehr als Vernunftleben , sondern als eine aus zwei wirklich von einander verschiedenen Wesen zusammen gesezte Einheit betrachtet wer den könnte , was inzwischen unmöglich ist , und folglich [p. 251] kann der mehrgedachte Unterschied nur in dem bedingten bestimmt gegebenen Bewußtseyn des Menschen begründet liegen, oder lediglich von bedingt nothwendiger Geltung seyn.
+
+Der Mensch unterscheidet also nicht Geistig und Nicht - Geistig in sich, noch kann er so unterscheiden, sofern er Wesen, und als solches unbedingt Vernunftleben ist, sondern macht diesen Unterschied unvermeidlich, sofern er ein bedingtes , bestimmt gegebenes Vernunftleben ist , das sich, seiner objectiv - realen Wesenheit nach, nicht durchschaut.
+
+Sobald er sich in dieser Beziehung vollkommen klar erfaßte , wegfallen , würde auch jener Unterschied indem er sich als das erfassen würde , er wirklich ist , also als Vernunftleben, und wird er sich dereinst erfassen.
+
+und so kann
+
+Aber in seiner gegenwärtigen Weltlage , kann er sich nicht so erfassen , obschon er eine' Anschauung von seiner eigentlich wahren Wesenheit erhalten kann , so bald er sich vermöge einer außerordentlichen Anstrengung von seinem gewöhnlichen Standpunkte im Erkennen losmacht , und zur Anschauung erhebt ; allein der Regel nach ist er an seinen gewöhnlichen Standpunkt des Erkennens gebunden , dem gemäß er Alles bedingt und successiv unvermeidlich erfaßt, so , daß1 also das so Erfaßte eine bedingte Nothwendigkeit für sein Erkennen hat , oder subjectiv- real ist. Der Mensch also im gewöhnlichen Standpunkte seines Erkennens muß unvermeidlich zwischen Geistig und NichtGeistig unterscheiden , obwohl seine Wesenheit dadurch nicht selbst zu einem wirklich in sich Verschiedenen wird, sondern schlechthin Vernunftleben ist und bleibt.
+
+da nun jener Unterschied als unvermeidlich von bedingt nothwendiger Geltung , oder subjectiv - real ist , so reicht [p. 252] dieß hin , ihn auch wissenschaftlich gelten zu lassen, und davon einen Gebrauch zu machen.
+
+Die Untersuchungen, welche wir nun in Ansehung des Geistigen anstellen wollen, werden , der Deutlichkeit wegen, unter die nach folgenden Hauptpunkte fallen : 1. Lehre vom geistigen Empfinden und dessen ersten Erscheinungen. 2. Lehre von den niederen geistigen Funktionen der Begierden , und zwar : a. im Augemeinen , b . im Besondern. 3. Lehre von den höhern geistigen Funktionen der Leidenschaften, und zwar : a. im Algemeinen, b. im Besondern. 4. Lehre von den Hauptoffenbarungsarten der geißigen Funktionen , und zwar : a. den niedern , b. den höhern. 5. Lehre vom Selbstbewußtseyn. 6. Lehre von den abnormen und krankhaften Zuständen des geistigen Lebens.
+
+§. Lehre vom geistigen
+
+110. Empfinden und dessen.
+
+ersten Erscheinungen. Fm Geistigen ist unendliches Leben, oder unbedingte Nothwendigkeit , sich zu offenbaren , die sich befriedigen, ersättigen muß , aber jezt in dem bedingten Subject sich nicht genüglich, noch vollständig befriedigen kann.
+
+[p. 253] wird unstreitig als Ursache gedacht , Wirkungen haben, und zwar unendlich viele.
+
+Von diesen unendlich vielen
+
+Wirkungen, die das im Geistigen befindliche unendliche Leben nothwendig haben muß , wird eine nothwendig die erste seyn müssen, zwar nicht die absolut erste , doch die relativ - erste.
+
+Welche unter den unendlich vielen
+
+Offenbarungsarten im geistigen Leben des Menschen wird nun die relativ - erste seyn ? Man betrachte , dieß zu ent scheiden, die stufenweise Entwickelung des Menschen von seiner ersten Erscheinung in Raum und Zeit an.
+
+Er führt zunächst ein rein pflanzenartiges Leben in stumpfer
+
+Gleichgültigkeit
+
+Asdann erhebt gegen Alles , was ihn umgibt.
+
+er sich zur Thierheit, indem er die
+
+Außenwelt , die nun bedeutsam für ihn zu werden anfängt, in Beziehung zu sich zu sehen , oder zu begehren anfängt.
+
+Jene geistige Dumpfheit, die seinen ersten
+
+Zustand ausmacht , erhellt sich zum geistigen Empfinden, das sich eben in jener beginnenden Theilnahme für die Außenwelt zeigt.
+
+Da nun jene Theilnahme sich im Des gehren ausspricht, so scheint die Begierde die relativ - erste Erscheinung im geistigen Leben des Menschen zu seyn. Allein sie ist es nicht, und kann es auch nicht seyn. Denn ehe der Mensch einen Gegenstand begehren , oder verlangen kann , muß dieser doch zuvor so eigens und stark auf sein sinnliches Gefühl eingewirkt haben, daß jene stumpfe Gleichgültigkeit, in der er sich zunächst befindet , sich auflößt , und einem gränzenlosen Staunen Plaß macht, wodurch das bis dahin in sich versenkte Leben nach Außen zu hingetrieben wird.
+
+Dieses Stau nen, oder Aufmerken also ist die relativ - erste Begebenheit im Geistigen.
+
+Mit dieser ist nun allerdings im Kindesgemüth [p. 254] die Sehnsucht nach dem Besiße dieses Gegen standes , oder eben die Begierde, stets so eng sowohl der Zeit, als der Sache nach verbunden , daß man sie in der Wirklichkeit gar nicht von einander trennen kann, obwohl sie dem Begriff nach wesentlich von einander unterschieden sind. Mit dieser Sehnsucht , oder Begierde, verbindet inzwischen das Kind noch keine Vorstellung, weder eine deutliche , noch dunkle, und sie ist daher unbegränzt. Das Staunen , oder Aufmerken ist also ein unbestimmtes Streben nach Außen , das wächst , und sich in jener Sehnsucht nach dem Besitz äußert , die zwar
+
+-Anfangs auf einen bestimmten Gegenstand gerichtet ist, und zuleht auf Alles geht, was zur sinnlichen Wahrnehmung gelangt , da nun Alles , was den Menschen zuerst gleichgültig ließ , jezt ein Object für das einmal rege Man kann auch diese unbegewordene Staunen wird.
+
+gränzte Sehnsucht, zu besizen, die sich im Kinde äußert, nicht Habgier , sondern nur Neugierde nennen : Denn die Habgier , d. i. die bestimmt ausgesprochene Absicht , behalten zu wollen , kann erst später , nämlich dann erst sich entwickeln , wenn bereits im Menschen Vorstellungen und Begriffe vorhanden sind .
+
+Dieß führt von selbst zur Frage : wie erzeugen sich Vorstellungen und Begriffe ?
+
+§.
+
+111.
+
+In der Vernunftnatur des Menschen ist ein ursprüngliches allumfassendes Kennen von der Welt , nur nicht durchweg als vollkommen klar entwickelt und in sofern ein Ahnen enthalten , das sich vermöge des ihm innewohnenden Lebens rein in und durch sich selbst zum [p. 255] deutlichen Erkennen , oder eigentlich wahren Wissen entwickeln muß.
+
+In diesem Ahnen werden also auch alle
+
+Vorstellungen , Gedanken , Erkenntnisse und Begriffe unentwickelt, oder ihrem Keime nach enthalten seyn.
+
+dem Menschen wird dieß Ahnen in Ansehung seiner Entwickelung zum Wissen von den Einwirkungen der Dinge, von welchen er umgeben ist , bedingt seyn , da der Mensch nicht blos , wie alle übrigen Wesen , mittelst welcher Gott sich offenbart hat , in einer nothwendigen und wesentlichen Beziehung mit den unendlich Vielen steht, die mit ihm zusammen die Totalität des Als ausmachen, sondern auch eine besondere Empfänglichkeit für die Einwirkungen aller derer hat, mit denen er in Verbindung, oder Beziehung steht.
+
+Zwar werden unstreitig alle Wesen einen gewissen Grad von jener Empfänglichkeit für die Einwirkungen derjenigen haben , mit denen sie in
+
+Verbindung stehen , wornach sich folglich auch die Entwickelung der ihnen inwohnenden Ahnung bestimmen wird ; allein wir können von der Art und Beschaffenheit dieser Empfänglichkeit gar nicht urtheilen , da sie ganz außer der Sphäre einer für uns möglichen Erkenntniß liegt. Inzwischen bestimmt sich dies vermuthlich darnach , wie sehr ein Wesen mit Sinnenwerkzeugen begabt ist, d . i. auf wie mannichfache und vielfache Weise seine Lebensthätigkeit von Außen her berührt werden kann. fehlt keinem Wesen , nämlich das Gefühl ,
+
+Eins d. i. die
+
+Fähigkeit, von Außen her berührt werden zu können , in ihrer unbedingten Allgemeinheit ; alle aber hat nur das Wesen, in dem sich das Leben nicht blos organisch ausgesprochen hat , d. i. in bestimmter Form und Gestaltung erscheint, wie überall, sondern das sich auch als ein organisch [p. 256] ausgesprochenes Leben fühlt , in dessen Ahnung sich mithin das Bewußtseyn seinen ersten Anfängen nach er zeugt hat, und dieß Wesen ist das Thier.
+
+Wo nun das
+
+Bewußtseyn sich ganz vollendet hat , da hört die Thierheit auf, und Vernünftigkeit tritt ein.
+
+Das Thier kann Vorstellungen , Begierden , selbst Begriffe haben , und hat sie wirklich , aber nur das Vernunftwesen hat Erkenntnisse und Anschauungen , wodurch es jedoch nichts Neues er hält, sondern wodurch nur das ursprünglich ihm gegebene zu einem erkennbaren Gegenstand wird.
+
+Wenn sich übrigens der Mensch zum vollendeten Selbstbewußtseyn erhebt, so liegt der Grund davon nur in der ihm zu Theil gewordenen Sprachfähigkeit , oder der Fähigkeit , sich in lauten , vernehmlichen und zugleich bedeutungsvollen Tönen auszudrücken.
+
+Aber auch die Thiere befißen die Fähigkeit und das Bedürfniß , laut zu werden, und können selbst in bedeutungsvollen Tönen sich aussprechen , was man gleichwohl nicht Sprache nennen kann. Sprache nämlich ist nur da erst vorhanden , wo absichtlich mit bestimmten Tönen bestimmte Begriffe verbunden werden , was also wesentlich Bewußtseyn voraus sezt.
+
+Daher hat der Mensch in der Zeit , wo er noch nicht zum Bewußtseyn erwacht ist , noch keine Sprache, sondern nur die Fähigkeit , thierische Laute auszustoßen , womit er sein Bedürfniß laut zu werden , was er mit allen Wesen gemein hat , befriedigt , sobald ihn irgend etwas aus seiner gewöhnlichen theilnahmlosen und behaglichen Gleichgültigkeit weckt.
+
+Also scheint das Bewußtseyn nicht sowohl Folge von der Sprache , als vielmehr die Sprache Folge vom Bewußtseyn zu seyn , und es bleibt daher die Frage : wie und warum der Mensch [p. 257] zu dem Bewußtseyn gelangt, das andern Wesen fehlt, die sich jedoch ganz allgemein dahin beantworten läßt, daß der Urgrund der Dinge sich eben in dieser Wesen. gattung vollständiger habe offenbaren wollen , als in den andern.
+
+Das Gesagte scheint aber im Widerspruch mit der Behauptung zu stehen , daß der Umstand ,
+
+Mensch zum Bewußtseyn gelange , daß der nur in der ihm zu
+
+Theil gewordenen Sprachfähigkeit seinen Grund haben könne , während doch die Sprache das Bewußtseyn schon als vorhanden vorausseßt.
+
+Aber wenn auch die Sprache nur unter Vorausseßung von Bewußtseyn möglich ist, so besteht doch die Sprachfähigkeit, abgesehen davon, für sich , und der Mensch wird davon unwillkührlich und unbewußt einen Gebrauch machen , d . i. laute , vernehmli che, bedeutungsvolle Töne aussprechen.
+
+Diese Fähigkeit hat nun allerdings auch das Thier , und wird ebenfalls unwillkührlich und unbewußt sie gebrauchen , Bedürfniß es dazu antreibt; wenn das aber es hat diese Fähigkeit nicht in dem Grade, wie der Mensch , dessen Sprach. werkzeuge vollständiger organisirt sind , dergestalt , daß er gleich von Anfang an Töne ausstößt, während das Thier beständig nur Laute von sich geben kann ; d . i, das Thier verbindet nur in bestimmten Fällen einen Sinn mit seinen Lauten, oder kann sie lediglich auf bedingte
+
+Weise zu bedeutungsvollen machen , während der Mensch durchgehends einen Sinn damit verbindet , unbedingt bedeutungsvoll macht.
+
+also sie alle
+
+Dieses Sinnvolle wirkt natürlich und unvermeidlich auf Entwickelung seines Ahnens zum Bewußtseyn ein , ja dieß würde sich gar nicht erzeigen können , wenn seine Fähigkeit laut zu werden nicht zugleich Fähigkeit unbedingt auf eine sinnvolle
+
+[p. 258] Weise laut zu werden , d. i. Sprachfähigkeit wäre , also während die übrigen Thiere nur schreien , brüllen, zischen können , kann der Mensch allein sprechen.
+
+Zu nächst wird das Ahnen im Menschen durch die Einwirkung der ihn umgebenden Dinge zu Vorstellungen ent wickelt , in dem das ursprüngliche , gegebene , dunkle, allumfassende Erkennen ein bestimmtes und begränztes, wenn gleich noch kein deutlich erkennbares wird. Das Er kennen gestaltet sich zu Erkenntnissen von noch unbestimmtem Inhalt, die also noch in keiner bestimmten Beziehung zu einem bestimmten Objecte gesezt sind ; sobald sie aber einen bestimmten Inhalt erhalten , oder eben in bestimmter Beziehung zu einem bestimmten Objecte ge feßt werden, erweitern sich die bloßen Vorstellungen zu Begriffen.
+
+Vorstellungen also , wie Begriffe , sind Offenbarungsarten , durch die sich das allumfassende Urerkennen , oder Ahnen , deutlich ausspricht.
+
+Das Ahnen aber entwickelt sich theils rein aus und durch sich selbst ver. möge des ihm innewohnenden unendlichen Lebens , theils wird es mittelbar durch den Eindruck , den das SinnlichWahrnehmbare auf jedes macht, sinnlich empfindende Wesen entwickelt , oder das Sinnlich
+
+Wahrnehmbare wird ein Object , zu dem sich das Erkennen sowohl im Ganzen, wie im Einzelnen , in Beziehung feßt, das also Inhalt seiner Erkenntnisse wird .
+
+Diese Erkenntnisse sind also empirisch bestimmbar , und sind ihrem mittelbaren Ursprunge nach sinnlicher Art.
+
+Denn das Sinnlich-
+
+Wahrnehmbare kann nur in sofern ein Object der Erfenntniß werden , in wiefern es auf das , was zwischen ihm und der Vernunftnatur gleichsam den Verbindungspunkt ausmacht, d. i. den Leib , einwirkt , oder einwir [p. 259] ken kann.
+
+Diese Einwirkung hat die sinnliche Empfindung zur Folge.
+
+Da aber Vernunftnatur und Leib einerleiig sind , so kann auch keine Verschiedenheit in Ansehung der Folgen, die aus den Einwirkungen der Dinge her vorgehen müssen , statt finden , oder dasselbe , was Vorstellungen zu veranlassen im Stande ist, bewirkt auch zugleich sinnliche Empfindungen , und umgekehrt veran laßt es Vorstellungen , sobald es sinnliche Empfindungen zu erregen vermag.
+
+Demnach sind Vorstellungen und sinnliche Empfindungen der Zeit , wie der Sache nach, einerleiig , und lediglich im Standpunkte eines bedingten Bewußtseyns verschieden von einander , was also eine blos formelle Verschiedenheit ist.
+
+Inzwischen ist doch jene Empfindung eine Erscheinung in dem innern Zustand des sinnlich empfindenden Wesens , und das Sinnlich - Wahrnehmbare , welches die mittelbare Ursache von dieser Erscheinung ist , ein äüßerliches ; wie kann nun dieß Aeußere jenes Innerliche veranlassen ? Alle Wesen stehen in nothwendiger und wesentlicher Beziehung zu einander , und sind als Offenbarungsarten des unendlichen Lebens nothwendig Ursachen , die jede unvermeidlich eine unendliche Menge von Wirkungen in und aus sich be. gründen , welche natürlich und unvermeidlich eben so , wie ihre Ursachen , in nothwendiger und wesentlicher Beziehung zu einander stehen , oder sich gegenseitig und wechselseitig mit einander und durch einander bedingen. Jedes Wesen also wird nicht blos als Ursache durch seine eigenen Wirkungen in Ansehung seines Zustandes , sondern auch durch die unendlich vielen Wirkungen all der unendlich vielen Wesen , mit denen es nothwendig zur
+
+Einheit verbunden ist , bestimmt , wie es mit seinen Wirkungen [p. 260] nothwendig auf den innern Zustand eines jeden andern Wesens bestimmend einwirkt.
+
+Diese Einwirkung findet zunächst nur mittelbar statt , indem zuerst ein unmittelbares Zusammentreffen unter den Wesen statt hat, wodurch dieß seiner ganzen Beziehung nach erschüttert wird , was nichts bewirken würde , wenn nicht jedes Wesen unbedingt Leben , oder Fähigkeit hätte , von der Be. rührung anderer Wesen ergriffen zu werden , oder die
+
+Erschütterung seines ganzen Wesens , welches die Folge von jener Berührung ist , zu empfinden. welche keinem Wesen fehlt ,
+
+Diese Fähigkeit, ist Gefühl.
+
+Das Gefühl also wird in Bewegung gesezt , wenn Wesen mit einander zusammen treffen , was natürlich in jedes Zustand eine Veränderung bewirken muß , und zwar eine um so größere , je mehr Gefühl ein Wesen hat, und auf je vielfachere Weise es in Anspruch genommen werden kann. Wenn nun das Gefühl in Bewegung gesezt wird , so läßt sich dieß nicht blos als eine Affection des reinen Lebens betrachten , weil kein Wesen blos Leben , sondern jedes unbedingt Vernunftleben ist, sondern muß als Affection eines Wesens seiner ganzen Wesenheit nach be. trachtet werden, und folglich ist Aufregung des Gefühls auch zugleich Empfindung , d. i. Aufregung der Fähigkeit, die Veränderung , welche die erfolgte Berührung des Lebens nothwendig hat, zu erkennen , wenn gleich nur dunkel und unbestimmt , folglich ein allgemeines Bild damit zu verknüpfen.
+
+Auch diese Fähigkeit , welche das
+
+Denken ist , fehlt keinem Wesen.
+
+Wie also das Gefühl, oder Leben schwach, oder stark angeregt wird , wird auch das Denken , oder die Vernunft stärker angeregt:
+
+und schwächer aber wie stark sie auch immer angeregt wer [p. 261] den mag, die Möglichkeit, noch stärker angeregt zu werden, ist um deswillen weder erschöpft , noch kann sie erschöpft werden , weil sie unbedingt ist.
+
+Sobald nun die Folgen von jener Affection des Denkens , d . i. die Vorstellungen , eintreten , also das unendliche , chaotische , allumfassende ürerkennen sich theilweise als bestimmte Erkenntnisse verdeutlicht, fängt auch das Bewußtseyu als Erinnerung an.
+
+Das unendliche, allumfassende Urerkennen , was der
+
+Mensch in sich hat , befindet sich bei seinem ersten zeir lichen und räumlichen Erscheinen unter der bestimmten´ Wesengattung der Menschen , gleichsam im Hintergrunde und in Ruhe.
+
+Wenn es nun durch einen mittelbaren
+
+Anlaß plößlich angeregt wird , so stürmt die ganze Masse auf die bedingte Erkenntniß des Menschen , als trübe, gährende Menge ein , deren sich die Vernünftigkeit des Menschen zu ermächtigen sucht , wodurch in ihm geistiges Leben entsteht, das sich durch Gefühl und Empfindung ausspricht, die er mit allen Wesen gemein hat.
+
+geistige Leben ist zunächst in unendlicher Bewegung , ein zielloses und unbegränztes Streben und Wogen : soll dieß den höhern vernünftigen Character annehmen , muß es auf ein bestimmtes Object figirt werden , was nur mittels einer besondern Art von Affection möglich ist. Dazu reicht nicht hin , daß ein Gegenstand auf gleicher Linie mit allen andern steht, sondern er muß hervorra gen, also einen eigenen , auffallenden Character an sich tragen , wodurch er im Stande ist , das Gefühl, und somit auch das Denken eigens und besonders stark anzuregen , folglich besondere Gefühle zu veranlassen , dadurch auch gewisse Erkenntnisse bestimmt hervor zu heben.
+
+Dadurch nun , daß in die Sphäre jenes unbegränzten [p. 262] Thätigkeitstriebes ein Object fällt, eigens und besonders stark anzuregen , vermag , das ihn oder zu fesseln entsteht Staunen und Verwunderung : jener unbegränzte Thätigkeitstrieb beschäftigt sich vorzugsweise mit diesem bestimmten Objecte, und erhält so eine be stimmte Richtung.
+
+Aus dem bloßen Fühlen und Empfinden wird so ein Merken,
+
+Erkennen , für das die Erkenntnisse erkennbar und unterscheidbar werden, also Inhalt erhalten.
+
+Das Merken und Erkennen ist ein
+
+Innewerden seiner selbst , dessen Kennzeichen die Vorstellungen sind.
+
+§.
+
+112.
+
+Lehre von den niederen geistigen Functionen der Begierden im Allgemeinen. Wenn die geistige Bewegung noch keine bestimmte Richtung hat, nenne ich sie Leben , und hat sie eine bestimmte Richtung , geistige Function.
+
+Das getstige Leben kann also nur in sofern geistige Function werden, in wiefern ein solches Object in seine Sphäre fällt, das seine unbegränzte Thätigkeit besonders anzu regen, oder zu fesseln vermag , wobei zwei Fälle gedenkbar sind: entweder die Thätigkeit wird durch den Gegenstand , der für sie Object ist , schöpft.
+
+erschöpft , oder wird nicht er-
+
+Wird sie erschöpft , d. i. hat der Gegenstand , welcher für sie vorzugsweise Object wird , solchen Character , nur einen daß er nicht lange die Thätigkeit besonders stark anzuregen, oder zu fesseln vermag , so geht die Thätigkeit , nachdem sie sich dieses Gegenstandes ermächtigt hat , entweder zu andern fort , oder kehrt auf sich selbst zurück , wogegen, wenn sie nicht erschöpft wird , [p. 263] d. i. wenn das Obiect einen solchen Character hat , daß es die Thätigkeit fortdauernd und anhaltend, besond stark anzuregen , oder zu feffeln geeignet ist, so daß dieselbe sich seiner nicht ermächtigen kann , die Thätigkeit auch anhaltend und fortdauernd die bestimmte Richtung auf dies Object behalten , also in Beziehung auf dasselbe Function bleiben wird.
+
+Dabei ist zu bemerken , daß die
+
+Thätigkeit , oder das geistige Leben , da es , seiner Natur nach, unendlich ist , zwar eigentlich nicht erschöpft weraußer durch Darstellung eines Unendlichen, den kann , und daß mithin kein Gegenstand , der Object für seine Erkenntniß ist, es vollständig und ganz zu befriedigen vermag, außer das Unendliche selbst , welches jedoch als solches nicht Object für die Erkenntniß eines bestimmten und bedingten Subjects werden kann.
+
+Allein jene unendliche , unbegränzte Thätigkeit würde sich selbst zerstören, wofern sie nicht einigermaßen befriedigt , werden könnte.
+
+oder ersättigt
+
+Diese unendliche Thätigkeit umfaßt nun zwar Alles , was in ihren Kreis fallen kann , so daß dieß sie anzuregen , oder zu fesseln vermag , allein sie umfaßt doch nur das vorzugsweise , was sie besonders stark anzuregen und zu fesseln im Stande ist, oder was den Character des Außerordentlichen , Auffallenden an sich trägt, entweder in Vergleich mit allen andern Gegenständen des Sinnlich - Wahrnehmbaren, und alsdann in objectiver , oder in Bezug zur Natur des Wahrnehmenden , und sodann in subjectiver Hinsicht.
+
+Zwar stehen alle Gegenstände des Sinnlich - Wahrnehmbaren in Bezug zur Natur des Wahrnehmenden , und können nur unter dieser Voraussetzung Gegenstände für sein Wahrnehmen und seine darauf begründete Erkenntniß [p. 264] seyn , aber nur Einige stehen in einer solchen nothwendigen und wesentlichen Beziehung zu dieser Natur, daß sie eine eigene Art geistiger Erscheinungen unvermeidlich veranlassen.
+
+Diese Gegenstände müssen also nicht blos , wie alle åndern , auf die Fähigkeit des Menschen, sinnlich oder äußerlich berührt zu werden , also auf das Gefühl einwirken , sondern sie müssen in einem eigenen Zusammenhange mit der Einrichtung und Bestimmung des leib. lichen Systems , oder mit dem physischen Organismus des Menschen steben , so daß sie , sobald sie auf das Gefühl einwirken , auch zugleich störend , oder aufregend auf diesen einwirken , in welchem Falle die Thätigkeit nicht eher befriedigt wird , als bis jene Einwirkung auf den physischen Organismus aufgehört hat.
+
+Es giebt also bestimmte Gegenstände in der Sinnenwelt, deren der menschliche Leib zu seinem Bestehen und Gedeihen nothwendig bedarf , deren Nicht - Besiz folglich störend auf den physischen Organismus einwirkt , und mithin nothwendig ein Gefühl von Unbehaglichkeit zur Folge haben muß, während ihr Besitz natürlich und unvermeidlich das Gefühl der Behaglichkeit zur Folge hat.
+
+In diesen
+
+Gefühlen, oder Vorstellungen , vom Unbehaglichen und Behaglichen spricht sich die unmittelbar gegebene Urerkenntniß von der Nothwendigkeit des Besizes bestimmter Gegenstände der Sinnenwelt aus ; sie erhält dadurch ihre mittelbare , empirisch bestimmbare Entwickelung.
+
+Ob übrigens bestimmte Gegenstände der Sinnenwelt besessen werden müssen , oder nicht , damit der Leib bestehe, oder gedeihe, läßt sich erst nach einer Reihe wirklich gemach ter Erfahrungen bestimmen.
+
+Wenn nun ein solcher zur
+
+Wahrnehmung gelangt , so entsteht zugleich die Meinung , [p. 265] oder Vorstellung , von der Nothwendigkeit seines Besizes und daraus als unmittelbare Folge das Streben , die Sehnsucht nach seinem Besiße , d. i. Begierde , die nämlich nichts anders ist, als der unbedingte , stark erregte Trieb, einen bestimmten Gegenstand besißen , oder genießen zu wollen. §.
+
+113.
+
+Jener unbedingte Trieb , oder diese ungemessene
+
+Sehnsucht nach dem Besize bestimmter Gegenstände der Sinnenwelt, ist , seinem Ursprunge nach , in einem wahren , oder vermeintlichen Bedürfniß begründet.
+
+Wahre
+
+Bedürfnisse sind alle , welche der Mensch naturgemäß zum Bestehen und Gedeihen seines Körpers haben muß, d. i. Beischlaf, Essen und Trinken : vermeintliche solche , die aus dem erkünstelten Zustand , in welchen die Menschheit sich befindet , entweder unvermeidlich entspringen , in welchem Falle es künstliche sind , oder die von dem Menschen mit erfinderischer Absichtlichkeit noch unnüz hineingetragen werden , was folglich rein erkünftelte sind , obwohl sie , ihrem ersten Keime nach , in dem Naturgemäßen ihren Grund haben. Sofern . nun bestimmte Gegenstände der Sinnenwelt besonders dazu geeignet sind, diese Bedürfnisse zu befriedigen , werden sie , wenn sie zur Wahrnehmung gelangen , Gegenstände der Begierde , die sich erst mit ihrem Besize , Genusse befriedigt.
+
+oder nach erfolgtem
+
+Da aber in einem gesunden Leibe die naturgemäßen Bedürfnisse niemals absolut aufhören können, so kann auch jene ungemessene Sehnsucht nach dem Besize bestimmter Gegenstände der Sinnenwelt, oder die Begierde, nie gänzlich aufhören , folglich auch nicht [p. 266] vollkommen , sondern nur einigermaßen befriedigt und beseitigt werden.
+
+Wenn auch zunächst die Begierde aus der Einrichtung des menschlichen Leibes , vermöge welcher er ganz mechanisch und abgesehen von allem Denken und Vorstellen rein nothwendig wirkt , hervor geht, so verbindet sich doch bald damit unvermeidlich eine bestimmte Art von Denken und Vorstellen , · welches den Leib be dingend bestimmt, indem es bewußtlos mit dem Besize gewisser Gegenstände die Vorstellung von dem Genusse , den dieser verschaffen kann , verbindet , was einen unruhig gespannten Zustand im ganzen System des Menschen veranlaßt, und alle Lebensgeister rege macht : Das eine Object beschäftigt nun die ganze Thätigkeit des Menschen ausschließlich mit sich.
+
+Das geistige Leben hat also in den Begierden eine bestimmte Richtung genommen, die ausschließlich auf den Besitz eines bestimmten Gegenstandes der Sinnenwelt gerichtet ist, ist also zur Function geworden , deren Character das Besißen , Wollen ist; diese würde nicht entstehen , wenn der Mensch nicht vermöge der Einrichtung und Bestimmung seines Körpers , also in Gemäßheit seines leiblichen Mechanismus , nothwendig Bedürfnisse hätte, die schlechterdings befriedigt werden müssen , und nur unter Vorausseßung des Besizes bestimmter Gegenstände der Sinnenwelt befriedigt werden können.
+
+Obschon nun Begierden , wie aus dem Gesagten von selbst hervorgeht , nur unter Vorausseßung eines
+
+Körpers gedenkbar sind , so folgt doch daraus nicht, daß sie rein empirisch , oder mittelbar wären.
+
+Denn einmal sind alle Wesen unbedingt und ohye Ausnahme Vernunftleben , und zweitens , aus und durch Gott , dessen Wesenheit sie in sich tragen.
+
+Als Vernunftleben haben sie [p. 267] die Möglichkeit, ja Nothwendigkeit in sich , sich als Lebendige in bestimmt gegebener und abgegränzter Form, also als Körper darzustellen , und es kann kein Wesen geben , das die Grundbedingung zu allem Körperlichen nicht als objectivreale Eigenschaft seiner Wesenheit und damit zugleich den äußern Anlaß zu den Begierden in sich hätte , eben weil keins als rein förperlos gedenkbar ist , und als Offenbarungsarten des unendlichen Vernunfilebens , besißen sie nothwendig ursprünglich ein allumfassendes Erkennen , also auch die Erkenntniß von der Nothwendigkeit ihres Bestehens, als selbstständige Wesen, was zugleich die Kenntniß von der Nothwendigkeit des Besizes bestimmter Dinge der Sinnenwelt ist , weil jenes Bestehen unvermeidlich an dem Besize dieser Dinge geknüpft ist.
+
+Allein wie die allumfassende Urerkenntniß keine deutliche und bestimmt entwickelte Erkenntniß ist , so ist es auch jene nicht , die vielmehr erst durch das physische-Bedürfniß zur Deutlichkeit erhoben wird .
+
+Deutlichkeit hat jedoch nur einen empirischen, oder mit telbaren Character , d. i. es erzeugt sich in der Vernunftnatur , auf Veranlassung der Einwirkung der physischen Bedürfnisse, die dunkle und unbestimmte Erkenntniß, oder Vorstellung von der Nothwendigkeit des Besizes bestimmter Gegenstände , die im Vereine mit dem körperlichen Mechanismus wirkt , und selbst dadurch bestimmt wird. Hier erscheint also der Mensch nicht als bewußtes Ver-. nunftwesen, indem er noch kein vollendetes Bewußtseyn hat.
+
+Aber so wie dieß eintritt , und damit zugleich die
+
+Möglichkeit , einen Gebrauch von seiner Vernünftigkeit machen, oder zu überlegen , wird jene Deutlichkeit auch einen idealen, oder unmittelbaren Character annehmen , [p. 268] d. i . aus dem bloßen Triebe zu genießen , ein von der
+
+Bernunft aus bestimmtes Verlangen nach Genuß , oder Besitz werden können , was den Körper bedingend be stimmt , also nöthigen Falls sich auch höhern Rücksichten unterordnet.
+
+§.
+
+114.
+
+Im Einzelnen.
+
+Das Bestehen , oder Gedeihen des Leibes hängt besonders von der Befriedigung zweier Naturbedürfnisse ab , nämlich von der genüglichen Befriedigung der Noth wendigkeit, Lebendige in und aus sich darzustellen , was nur unter Vorausseßung der sinnlichen Vermischung mit dem Weibe möglich ist , also Beischlaf, und von der genüglichen Befriedigung der Nothwendigkeit sich selbst als ein selbstständiges Wesen in der Reihe der Erscheinungen zu behaupten , was nur unter Vorausseßung des Genusses bestimmter Gegenstände der Sinnenwelt sich ausführen läßt, folglich Essen und Trinken .
+
+In sofern nun diese entweder als gar nicht , oder wenigstens nicht als genüglich befriedigt gedacht sind , entsteht die Noth wendigkeit nach Befriedigung , die , wenn sie nicht von der Vernunft aus bedingt ist , Begierde wird , und zwar , wenn sie auf die sinnliche Vermischung mit dem Weibe geht, Geschlechtstrieb ; bezieht sie sich dagegen aufEssen und Trinken , Hunger und Durst.
+
+Im Naturzustande will der Mensch nichts weiter , als Befriedigung seiner Bedürfnisse , im Kunstzustande dagegen noch außer dem einen Genuß.
+
+Durch Nicht - Befriedigung der eben genannten Bedürfnisse entsteht unvermeidlich eine Störung auf den physischen Organismus und dadurch mittelbar zugleich auf die Vernunftnatur , und es entwickelt [p. 269] sich das Gefühl und die Empfindung der Unbehaglichkeit und der Nothwendigkeit , von der Beseitigung dieser Un behaglichkeit durch vollständige und genügliche Befriedigung jener Natur- Bedürfnisse.
+
+Das Zusammenwirken so vieler verschiedenartiger Vorstellungen auf Einen Punkt veranlaßt auch jenes heftige, ungemessene Streben nach dem Besize solcher Gegenstände, die zur Befriedigung der Natur - Bedürfnisse nothwendig sind .
+
+Die Nothwendigkeit der sinnlichen Vermischung mit dem Weibe ist für den Menschen in der Bedingtheit seines Lebens gegeben, so wie auch die zu essen und zu trinken. Denn der Mensch hat ja Leben , als objectiv - reale Eigenschaft feiner Wesenheit in sich , d. i . die Nothwendigkeit , sich als bestimmt gegebenes Einzel - Wesen darzustellen , und zu behaupten , und Leben in und aus sich darzustellen ; allein als bestimmt gegebenes Einzeln - Wesen hat er weder jene Nothwendigkeit rein unbedingt in sich , noch kann er sie unbedingt rein in und durch sich befriedigen , sondern bedarf dazu anderer bestimmt gegebener EinzelWesen in der Auheit, wie diese seiner bedürfen : denn er ist nicht rein in und durch sich , oder schlechthin innerlich felbstgenügsam , sondern er ist innerlich selbstungenügsam, d. i. er kann nur seyn und bestehen unter Vorausseßung eines allgenügsamen und unendlich vieler , mit ihm durch jenen zu einer schlechthin nothwendigen Einerleiigkeit , oder Totalität , in dem All Verbundenen.
+
+Bestimmt gegebene Einzel - Wesen sind also für den Menschen das Medium, durch dessen Vermittelung er allein seinen Zweck erfüllen, und seine Bestimmung erreichen kann , wogegen auch er unstreitig ein solches Medium für die Bestimmung und den Zweck anderer Wesen ist.
+
+Ein dunkles
+
+[p. 270] Gefühl zieht ihn nun zu den Wesen hin , nothwendig Medium sind , geistig ist.
+
+die für ihn was theils sinnlich, theils
+
+So verbindet sich mit dem Bedürfniß zur
+
+Nahrung gleich anfänglich die unmittelbar gegebene Urerkenntniß von der Nothwendigkeit , sich als das bestimmt gegebene Einzel - Wesen unter den unendlich Vielen zu b̀ehaupten , und dieß durch Vermittelung Anderer zu be wirken.
+
+So lange nun das leibliche Bedürfniß genüg lich befriedigt ist , der physische Organismus also in seiner ungehemmten und ungestörten Bewegung bleibt, wird auch jene Urerkenntniß nicht hervor gehoben werden, sondern auf gleicher Linie mit allen andern bleiben : sobald aber jenes Bedürfniß nicht gehörig befriedigt wird , folglich auch der physische Organismus nicht mehr in feiner ruhigen und gleichförmigen Bewegung bleibt, wird auch nothwendig zugleich im geistigen Leben eine stärkere Bewegung , wie gewöhnlich , veranlaßt werden , die sich natürlich auf einen Punkt hauptsächlich concentrirt. Nämlich die Nicht - Befriedigung veranlaßt das Gefühl und somit zugleich die Empfindung der Unbehaglichkeit, auf dessen Beseitigung sich nun das geistige Leben mit aller Kraft richtet , was nur unter Vorausseßung von
+
+Befriedigung jener Naturbedürfnisse möglich ist, wird das geistige Leben auch auf diese Befriedigung und somit auf Befiß und Genuß bestimmter Gegenstände der Sinnenwelt gerichtet seyn.
+
+Es sind nun blos bestimmte
+
+Gegenstände der Sinnenwelt , welche dem Körper zur
+
+Nahrung dienen können , und die der Leib zu sich nimmt, wobei er nur ganz mechanisch seinem Organismus folgt. Wenn nun diese zur Wahrnehmung gelangen , also das Gefühl durch den Sinn des Auges berühren , so veran [p. 271] laßt dieß natürlich die Vorstellung von dem schon einmal gehabten Gefühle und seinem Anlasse , also Wiedererinnerung, und dann auch die Vorstellung von dem Befriedigenden , was ihr Besitz , und dem Mangelnden , was ihr Nicht- Besitz gewährt hatte , wodurch das ziellos wogende Leben auf dieß Object , als ein Object seines VerLangens concentrirt wird , oder sich als Sehnsucht , Trieb äußert.
+
+Eben so ist es mit dem Geschlechtstrieb , dem die unmittelbar gegebene Urerkenntniß von der jedem Einzel- Wesen, als Vernunftleben, inne wohnenden Nothwendigkeit, sich mittelst Lebendiger zu offenbaren , zum Grunde liegt, die nur durch Vermittelung des Weibes realisirt werden kann.
+
+Die Bezeichnung Begierde also , ist eigentlich eine blos allgemein logische , wodurch eine Summe von Vorstellungen , die auf einen Punkt concentrirt ist, wie sie von einem ausgegangen war , bezeichnet wird , und worin sich das geistige Leben nicht mehr als chaotisch - gährende Masse , wie in den Vorstellungen, sondern bereits als geordnet und bestimmt äußert : allein diese Ordnung ist mechanisch , und nicht das Werk der sich selbst erkennenden und bedingenden Vernunftnatur. §.
+
+115.
+
+Lehre von den höhern geistigen Functionen der Leidenschaften im Allgemeinen. Wenn die Begierden mittelbar durch den physischen Organismus veranlaßt sind , so haben die Leidenschaften ihren mittelbaren Anlaß in der Vernunftnatur ; sie sind nur gedenkbar , in sofern Begriffe voraus gesezt werden können , und gehen aus einem gewaltsam gespannten Zustande der Vernunftnatur hervor.
+
+Die Vernunftnatur [p. 272] hat unbedingt Leben , oder die Nothwendigkeit in sich, sich zu entwickeln , aber sie kann dieser Nothwendigkeit in ihrer gegenwärtigen Lage nicht unbedingt genügen , oder befißt nicht unbegränzte . Entwickelungsfähigkeit , so , daß sie in ihrer Entwickelung nur bis zu einem gewissen Punkte gelangen , oder nicht das unendliche allumfassende Urerkennen in seiner Unendlichkeit , sondern blos auf bedingte Weise in sich darzustellen vermag.
+
+gleichwohl die Vernunftnatur die unbedingte Nothwendigkeit , das unendliche allumfassende Urerkennnen zum eigentlichen allumfassenden Durchschauen zu entwickeln , in sich hat , so wird sie auch stets ununterbrochen den Trieb zu jener vollständigen Entwickelung, oder Selbstvollendung in sich haben , wodurch nun an und für sich ein unruhig gespannter Zustand in ihr entstehen wird. Diesen zu beseitigen , oder aufzuheben, wird nun für jede subjective und somit bedingte Vernunftnatur . Bedürfniß seyn , auf dessen Befriedigung ihr Streben un willkührlich und unvermeidlich sich richten wird , folglich ein rein geistiges Bedürfniß ist.
+
+Diesem Bedürfniß kann jeder Gegenstand entsprechen , in sofern er ein Object für die Erkenntniß werden kann ; besonders aufzuregen vermag er es nur alsdann , er den Character des Neuen , Außerordentlichen an sich trägt , folglich mittelbarer Anlaß zu einer neuen Entwickelung in dem unendlichen , allumfassenden Urerkennen zu werden vermag .
+
+Wenn nun ein solcher Gegenstand zur Wahrnehmung gelangt , wird er unvermeidlich eine ungewöhnlich starke Bewegung im geistigen Leben veran lassen, oder dasselbe vorzugsweise anregen und fesseln ; er wird die Vorstellung von der Nothwendigkeit der in [p. 273] nern Selbstvollendung besonders stark hervor heben.
+
+sofern diese Vorstellung plößlich besonders stark hervor tritt, ist sie Staunen , Verwunderung , und in sofern der eine Gegenstand vorzugsweise Object für sie ist, Neugierde.
+
+Aus dieser Vorstellung wird, ihr Object von solcher Art ist , daß es zugleich als Medium für die Stillung der nothwendigen Natur- Bewenn es mithin die Sehnsucht dürfnisse dienen kann, nach seinem Besize besonders stark anregt , Begierde, dagegen sie, wenn das Object zugleich Medium für die Stillung des nothwendigen geistigen Bedürfnisses ist , Leidenschaft wird.
+
+Nämlich gezeigt worden ist schon, daß der Mensch unendliches Leben als objectiv - reale Eigenschaft seiner Wesenheit in sich hat, und daß eben darin die unbedingte Nothwendigkeit gegeben sey , einerseits , sofern er hauptsächlich als Leben bedingungsweise betrachtet werden darf, ein Alleben in und aus sich darzustellen , und anderseits , in soweit man ihn als Vernunft vorzugsweise betrachten kann , ein allumfassendes Wissen zu besißen, welcher Nothwendigkeit er jedoch bei seiner individuellen , bestimmt gegebenen Weltlage, als Einzel - Wesen nicht genüglich, noch vollständig, zu entsprechen im Stande ist, was jedoch nur etwas bedingt
+
+Nothwendiges , oder Subjectiv - reales ist, und gar nicht mit seiner Wesenheit an sich, weder nothwendig, noch wesentlich zusammen hängt , wogegen die oben erwähnte unbedingte Nothwendigkeit seine Wesenheit an sich ausmacht , oder objectiv - real in ihm ist, die ihm folglich, abgesehen von aller bezüglichen Weltlage , unbedingt bleibt , der er also wird müssen genügen können , der wirklich vollständig zu genügen , unabweisliche For
+
+[p. 274] "derung für den Menschen bleibt.
+
+Also zu jenem unendlichen, allumfassenden Wissen zu gelangen , ist wahres, nothwendiges geistiges Bedürfniß , das befriedigt werden muß , aber für das Bedingte in keiner bestimmt gegebenen Zeit befriedigt werden kann.
+
+Daraus nun , daß das
+
+Bedürfniß in keiner bestimmt gegebenen Zeit voÜständig befriedigt werden kann , und doch befriedigt werden soll, entwickelt sich mittelbar die unmittelbar gegebene Urerkenntniß , oder Vorstellung von der Nothwendigkeit einer vollständigen Befriedigung , die sich auf den einen Punct, eine solche wirklich bewirken zu wollen, concentrirt, alsø Sehnsucht , Spannung; Leiden veranlaßt , und in diesem Sinne läßt sich also sagen , daß der Mensch, und überhaupt jedes bedingte Einzel- Wesen , seiner ganzen Natur nach nothwendig in der Vorstellung von der Nothwendigkeit seiner innern Selbstvollendung , øder in Leidenschaft sey , und dieß ist in der That der Begriff in seiner Allgemeinheit.
+
+Es muß nun einleuchten , daß jenes
+
+Bedürfniß vollständig nur befriedigt werden kann, wenn die Auheit selbst Object für die Erkenntniß ist , wenn sich folglich die Vorstellung von der Nothwendigkeit der innern Selbstvollendung auf das All , als auf ihr wahres Object bezieht : wenn aber jene Vorstellung sich auf einen einzelnen Gegenstand ausschließlich concentrirt, oder die Vorstellung entsteht , daß sich jener, Nothwendigkeit durch einen einzelnen Gegenstand genügen lasse, so ist dieß Leidenschaft im engern, Sinne.
+
+oder eigentlichen
+
+So natürlich , nothwendig , und unvermeidlich die Leidenschaft, ihrer allgemeinen Bedeutung nach, ist, so verkehrt ist sie , sofern man sie in ihrer Besonderheit nimmt.
+
+In ihrer Allgemeinheit gedacht , bezeichnet sie [p. 275] den Zustand , in welchem sich die Vernunftnatur überhaupt fortdauernd befindet, wogegen sie, in ihrer Besonderheit gedacht , den Zustand bezeichnet, in welchem die Vernunftnatur bereits eine bestimmte Richtung genommen, und wo sie von einer bestimmten einzelnen Erscheinung in sich bedingend bestimmt worden ist.
+
+Um dieß zu bewirken , muß zwischen den Gegenständen der Sinnenwelt, in sofern sie Objecte für die eigentliche Leidenschaft sollen werden können , und dem Zustande des
+
+Wahrnehmenden eine besondere Beziehung statt finden , so, daß sie geeignet sind , außer der Vorstellung von der Nothwendigkeit ihres Besizes , noch die von dem besondern Genusse , oder Vergnügen , das dieser verursachen wird , zu veranlassen , und dies ist auch der Punct , worin sich die Leidenschaft von der Begierde unterscheidet , indem bei der Begierde die Spannung , welche ihre NichtBefriedigung unvermeidlich veranlaßt, sogleich verschwindet, sobald das Bedürfniß vollständig befriedigt ist, aber in der Leidenschaft bleibt jene Spannung , selbst nach Befriedigung des Bedürfnisses , noch wirksam, weit, außer der Vorstellung von der Nothwendigkeit der Befriedigung des Natur - Bedürfnisses , noch die von dem besondern Vergnügen , was der Besitz eines bestimmten
+
+Gegenstandes der Sinnenwelt veranlassen würde, fort dauernd wirksam ist und bleibt.
+
+116.
+
+Zwar gewährt die Befriedigung der Natur - Bedürfnisse auch Vergnügen , aber dieß ist ein Vergnügen ganz anderer Art, als das eben erwähnte,
+
+Nämlich die
+
+Nicht - Befriedigung der nothwendigen Naturbedürfnissé [p. 276] wirkt unvermeidlich störend auf die gleichförmige Bewegung des physischen Organismus ein, und veranlaßt so die Gefühle, oder Empfindungen der Unbehaglichkeit und Unlust, die erst nach Befriedigung der Natur - Bedürfnisse aufhören können.
+
+Allein sie hören nicht blos auf, sondern sie entwickeln auch unvermeidlich mittelbar die Vorstellung von dem Angenehmen , oder Vergnügen, was jene Befriedigung , oder Stillung der Bedürfnisse herbei führen würde : aber dieß Angenehme , oder Vergnügen , ist offenbar nur von negativer Art , da es mit der Rückkehr des schon früher gehabten , nur angenblicklich gestörten behaglichen Zustandes im Wesen des Menschen, also mit dem Nicht - Vorhandenseyn eines gewissen Zustandes , zusammen hängt.
+
+Wenn dagegen die Vorstellung vom Angenehmen , oder Vergnügen , sich auf das Vorhandenseyn eines bestimmten Zustandes bezieht, so ist es alsdann jenes positive Vergnügen , das wir meinen.
+
+Im positiven Vergnügen ist es das Vorhandenseyn bestimmter Vorstellungen , worauf sich das geistige Leben concentrirt , die nicht sowohl auf ein Object sich beziehen , als sie vielmehr selbst dieß Object sind.
+
+daher auch ein bestimmt gegebener Gegenstand der Sinnenwelt mittelbar jenes Streben , oder Sehnen, im geistigen Leben vorzugsweise anzuregen , oder zu fesseln vermag , so ist es doch nicht eigentlich sein Besitz , oder Genuß, der das geistige Leben in seiner unendlichen Bewegung figiren kann , sondern die Gattung der Vorstellungen , zu denen er mittelbar Anlaß gab, vermag dieß allein, weshalb sich auch die Vernunftnatur in Ansehung ihres Strebens , oder Sehnens, gar nicht durch den wirklichen Besiz jenes Gegenstandes , sondern durch das Da [p. 277] seyn der bestimmten, durch ihn erregten ,
+
+Vorstellungen befriedigt findet : aber eben das ausschließliche Festhalten dieser Vorstellungen , mit Hintenanfeßung aller andern, ist Leidenschaft.
+
+Denn es geht die Richtung des geistigen Lebens nun nicht mehr auf Entwickelung ,
+
+Darstellung des allumfassenden Wissens , wie sie sollte, sondern eben nur ausschließlich auf Darstellung , und Entwickelung gewisser Vorstellungen , wird also ein . feitig.
+
+Eine solche einseitige Richtung in der unendlichen Bewegung des geistigen Lebens ist nur gedenkbar, in wiefern ein Gegenstand auf dieselbe einwirkt , der sie besonders anzuregen , øder zu fesseln vermag , wozu nicht jeder Gegenstand geeignet ist , sondern nur der , der in wesentlicher und nothwendiger Beziehung zum Wesen der Vernunftnatur steht.
+
+Denn die Vernunftnatur muß , da sie ihrem Wesen nach Leben ist , nothwendig sich als le bendig durch Empfindungen ,
+
+Vorstellungen ,
+
+Gedanken und Begriffe darstellen , und genügt folglich , wenn diese nicht zur Erscheinung kommen , ihrer eigenen Wesenheit nicht, der sie gleichwohl unbedingt genügen muß , also bleibt für sie die Nothwendigkeit , oder das Bedürfnis, sich zu offenbären , was sich eben in jener Sehnsucht nach dem Daseyn jener Offenbarungsarten , Vorstellungen äußert.
+
+oder der
+
+Nun aber entwickelt sich auf Veranlassung des Einwirkens bestimmter Gegenstände , eine Sehnsucht nach dem Daseyn gewisser Vorstellungen , nicht sowohl um dieser Vorstellungen Willen , als viel mehr des Vergnügens wegen , was ihr Daseyn der Vernunftnatur gewährt.
+
+Es entsteht also von selbst die Frage :
+
+Wie entsteht diese Sehnsucht nothwendig und unvermeidlich ? Diese zu beantworten ist es nothwendig , noch genauer [p. 278] die Natur des Vergnügens zu untersuchen , da es die Vorstellung vom Angenehmen , oder Vergnügen ist, die jene Sehnsucht veranlaßt.
+
+§.
+
+117.
+
+Die Wurzel des Vergnügens , oder Genusses ist in einer eigenen Art von Gefühlen , oder Empfindungen, zu suchen , die man die materiellen nennen könnte.
+
+Der Mensch besißt, wie wir schon sahen, als Vernunftleben nothwendig die Fähigkeit von andern Wesen in Ansehung seines innern Zustandes berührt , oder modificirt zu werden , und diese Berührungen , oder Veränderungen auch zu empfinden , oder zu erkennen , Vorstellungen davon zu haben , folglich Gefühl , pfindsamkeit.
+
+Em.
+
+Wenn nun der Mensch wirklich von andern Wesen berührt , oder hinsichtlich seines Zustandes modificirt wird , so wird eben der ruhige und gleichför mige Gang seines Wesens gestört , und entweder gehindert, stark genug , oder veranlaßt , zu stark zu wirken , folglich gehemmt , oder aufgeregt ; in beiden Fällen wird das Wesen des Menschen aus der behaglichen Ruhe , in der es sich zuvor befand , aufgeschreckt, wodurch jedoch zugleich bewirkt wird , daß das Unendliche sich zu individualisiren , oder zu gestalten anfängt , wenn gleich noch in höchst allgemeinen und unbestimmten Gestaltungen , die einzig als hervorragende Puncte dienen , wornach sich das Unendliche successiv zu gestalten und zu ordnen vermag. Diese höchst allgemeinen und unbestimmten individuellen Gestaltungen , mittelst welcher die allumfassende Urerkenntniß sich zuerst ausspricht, sind die Empfindungen , von denen sich zuerst eine Summe gebildet [p. 279] haben muß, bevor sich aus ihnen das Gefühl entwickeln kann , und erst wenn sich eine Summe von Gefühlen entwickelt hat , können sich aus ihnen Vorstellungen bilden, wie diese Summen seyn müssen , wenn sich Gedanken und Begriffe sollen bilden können.
+
+Jedem körperlichen Zustande entspricht eine Empfindung ; aber so wenig ein einzelner Zustand des Körpers Schmerz , Wohlseyn ist, so wenig ist eine einzelne Empfindung ,
+
+Lust, oder Unlust.
+
+Denn überhaupt hat die Empfindung nur Umfang, nicht Inhalt , d . i. sie ist zwar im
+
+Gegensaß des Gränzenlosen, Unendlichen, das begränzte , bestimmte Etwas , aber was dieß Etwas sey , keinesweges bestimmen.
+
+läßt sich
+
+Sobald sie Inhalt erhält, also sich in dem bestimmt abgegränzten Etwas auch das einigermaßen deutlich erkennen läßt , was sich in ihm ausspricht, und wodurch es sich von allen andern einzelnen Etwas unterscheidet , wird aus ihr Gefühl , das schon als Erkenntniß betrachtet werden kann.
+
+Im Gefühle, sofern es gewissen körperlichen Zuständen entspricht , kann auch nicht die Quelle des wahren positiven , sondern nur die des negativen Vergnügens gegeben seyn, da die Erkenntniß von dem Angenehmen , oder Behaglichen , was mit dem Vorhandenseyn eines bestimmten Körperzustandes verbunden ist, erst aus der Abwesenheit des entgegengesezten Zustandes hervor geht.
+
+Aber der Begriff Gefühl hat eine doppelte Bedeutung , indem er theils die so eben erwähnte Art von Erkenntnissen , die gewissen Körperzuständen entsprechen , bezeichnet , theils die allen sittlich vernünftigen Wesen geziemende. Theilnahme für Andere ihres Gleichen andeutet.
+
+Diese Theilnahme geht im Grunde aus der allen bedingten Vernunftleben eigenen [p. 280] Sehnsucht nach Vervollkommnung , oder Selbstge nügsamkeit hervor , welches die Folge von dem Allen innewohnenden unendlichen Leben ist , das sie vollständig befriedigen sollen , aber nicht können.
+
+Diesen Drang begleitet zugleich unmittelbar die ursprünglich gegebene Urerkenntniß von der Nothwendigkeit der vollständigen Befriedigung.
+
+Diese Befriedigung gewährt der bedingten und individuellen Vernunftnatur Vermögen , wogegen die Nicht- Befriedigung ihr Schmerz verursacht : beides ist eine rein geistige Erscheinung , durchaus nicht empirisch bestimmbar, und rein positiv . Denn die Erkenntniß vom Angenehmen , oder Vergnügen entspringt hier nicht aus dem Vorhandengewefenseyn eines bestimmten , dem gegenwärtigen entgegengeseßten
+
+Zustandes, sondern aus der Vorstellung von der Uebereinstimmung des Vorhandenen mit einem nothwendig zu Erreichenden, feiner Natur Angemessenen.
+
+Wenn diese Erkenntniß entstehen soll, so muß auch die Erkenntniß von der eigentlichen Beschaffenheit jenes seiner Wesenheit erst eigentlich entsprechenden Zustandes , schon vorhanden gewesen
+
+Dieser besteht in der vollkommnen Darstellung von der Wesenheit des Urgrundes , d. i. des Vollkommnen an sich.
+
+Von dieser vermag die bedingte und individuelle
+
+Vernunftnatur eine Anschauung mittelst einer außeror´¸dentlichen Anstrengung sich zu verschaffen ; allein in ihrer gewöhnlichen Lage wird sie nur eine dunkle und unbe stimmte Erkenntniß, oder Idee , davon haben können , durch die er sich inzwischen nicht befriedigt fühlt , vielmehr wird ihn ein innerer unwiderstehlicher Trieb stets bewegen, zur eigentlichen Anschauung , d. i. zur vollkommen flaren Erkenntniß von dem Objectiv . Wahren, vorzudringen, [p. 281] und erst nach Darstellung dieser Erkenntniß würde jenem unendlichen Drange genügt seyn.
+
+der Mensch ist , vermöge seiner Bedingtheit , nicht im Stande, sich durchgehends zur Auschauung zu erheben, und bleibend darin zu verweilen: er ist der Anschauung nur momentan und als einer partialen fähig , während er immer von neuem zu seiner ihm gewöhn natürlichen bedingten und individuellen Erkenntnißart zurückkehrt, vermöge der er das blos Subjectiv - Wahre erfaßt.
+
+Gleichwohl verläßt ihn nie die unmittelbar gegebene Erkenntniß von der Nothwendigkeit zur Anschauung, oder wenigstens zur Idee vorzudringen, also die Schranke feiner Subjectivität zu überschreiten , sich selbst zu vollenden.
+
+Die Erfassungsart nun , welche er als individuelles und bedingtes Subject zunächst unvermeidlich von seinem objectiv · wahren Zustande hat, ist Begriff. Wenn nun der Begriff mit der gewöhnlichen ruhig gleichför migen Bewegung in der Vernunftnatur bestehen kann , so seßt die Anschauung sowohl , als die Idee, eine ungewöhnlich starke und heftige Bewegung in derselben voraus , woraus mithin auch ungewöhnliche Erscheinungen hervorgehen werden, und wenn zuvor alle Erkenntnisse eine trübe, chaotische Masse bilden , in welcher keine hervorragend ist , so wird sich dieselbe nunmehr ordnen und sichten, zu einem erkennbaren Gegenstande gestalten. So wird auch die Idee deutlicher und erkennbarer für das Erkennen werden, und damit unmittelbar zugleich der Abstand zwischen ihr und dem Begriff, wie auch das Streben, diesen Abßand auszugleichen , zur Wahrnehmung gelangen wird.
+
+Die Idee tritt also dem gewöhnlichen und regelmäßigen Zustande der Bernunftnatur als Ideal [p. 282] gegenüber ," wird folglich , da sie doch eigentlich Ausnahme und Abweichung ist, Gesez und Regel, oder ist nicht mehr Folge des Lebens, sondern selbst Lebensprincip, aus dem sich Erkenntnisse entwickeln , Vorstellungen , die sich von den
+
+Gefühlen und Gedanken durch Klarheit und Bestimmtheit auszeichnen , sind eben die Begriffe.
+
+und diese Erkenntnisse
+
+Wenn gleich die Idee Ausnahme ist , so ist doch der von ihr aus bestimmte Zustand vollkommner , und daher auch besser, als der gewöhnliche, durch das vom Bewußtseyn aus bedingte Erkennen bestimmte.
+
+Wenn daher die Vernunftnatur auch nur ein mal in der Idee gewesen , K oder dieselbe deutlich und bestimmt erkannt , also begriffen hat, so wird sie stets eine unendliche Sehnsucht nach Darstellung derselben haben , also sich in einem unbehaglichen , stande befinden.
+
+gespannten Zu-
+
+In sofern nun jene unendliche Sehnsucht von dem Begriff aus bedingend bestimmt wird , wird aus diesem dunklen und bewußtlosen Sehnen nach einem unerkannten Objecte, ein deutliches, bewußtes VerLangen nach einem deutlich begriffenen Objecte.
+
+Dieses
+
+Verlangen verursacht , sofern es noch nicht befriedigt ist, so gut Spannung , oder Unbehaglichkeit , als das bloße Suchen, nur mit dem Unterschiede, daß es nicht blos, wie dies, dunkel und unbestimmt erkannt, also gefühlt, sondern sammt Grund und Zweck vollkommen klar in aller Beziehung begriffen wird .
+
+Daß bloße Gefühl bedingt nur Vorstellungen und höchstens Gedanken, ihrem Ursprunge nach ; der Begriff dagegen deutliche, bestimmte Erkenntnisse.
+
+Die Befriedigung des Verlangens nun gewährt Vergnügen ,
+
+Genuß positiver Art.
+
+die Erkenntniß, oder Vorstellung vom Vergnügen, ist hier [p. 283] nicht die Folge von der Abwesenheit eines frühern unbehaglichen Zustandes , wie im negativen, sondern die
+
+Wirkung des noch Nicht- Vorhandenseyns eines noch behaglichern , auf dessen Darstellung das Verlangen gegerichtet ist, und nicht im Verlangen besteht, die Marter, das vielmehr Vergnügen gewährt , sondern darin , daß dasselbe nicht befriedigt werden kann.
+
+Das Verlangen also kann hier nicht durch Besiz , oder Erlangung eines bestimmten Gegenstandes der Sinnenwelt , wie die bloße Sehnsucht in der Begierde , sondern lediglich durch
+
+Erreichung des Ideals befriedigt werden , und folglich ist die Erkenntniß von dem Angenehmen , was damit unmittelbar verbunden seyn wird , rein geistig , während die Erkenntniß von dem Angenehmen , das der Besiz eines bestimmten Gegenstandes der Sinnenwelt zu gewähren vermag, empirisch und zugleich sinnlich ist. Diese ganze weitläuftige Auseinandersetzung ist inzwischen nicht blos dazu gemacht, Ursprung und Natur des Vergnügens zu erklären , sondern dazu Ursprung und Wesen der Leidenschaften begreiflich zu machen, was unmittelbar damit zusammen hängt. §.
+
+118.
+
+Nämlich das Verlangen nach Darstellung der Idee wird durch Einwirkung eines äußern Gegenstandes von seinem wahren Öbjecte abgelenkt , wodurch im geistigen Leben eine unregelmäßige Bewegung entsteht, von der es sich loszumachen strebt.
+
+Den Gegenstand also , der jene unregelmäßige Bewegung veranlaßt, will der Mensch. nicht befizen, sondern ihn los werden , auch wenn jene Bewegung ein angenehmes Gefühl verursachen sollte , [p. 284] was auch geschehen kann : Die Bewegung selbst inzwischen ist auf Darstellung gewisser Vorstellungen gerichtet. So lange das geistige Leben in seiner gewöhnlichen, freien und regelmäßigen Bewegung bleibt , wird es unmittelbar auf Darstellung der Idee in aller Beziehung gerichtet seyn.
+
+Da nun die Idee eine unbezügliche, allumfassende Erkenntniß ist , so wird sie auch , ihrer Natur nach, stets das Unendliche , Allumfassende zu ihrem wahren Objecte haben müssen , und das , auf Darstellung die fer Erkenntniß gerichtete, Verlangen wird folglich gleich. falls sich nur auf das Unendliche, als sein wahres Object, beziehen können ; bezieht es sich aber auf einen einzelnen bestimmt gegebenen Gegenstand , als auf sein wahres Object , so wird es in seiner Richtung verkehrt , und eben dies verkehrt bejogene Verlangen ist Leidenschaft. Das Verlangen ist ursprünglich und unmittelbar vorhanden , und wird nicht von einem Gegenstande, weder unmittelbar , noch mittelbar veranlaßt ; es wird nur figirt von diesem Gegenstande.
+
+Ein Gegenstand nun kann das
+
+Verlangen nur in sofern fixiren , in wiefern er sich von allen andern Gegenständen vorzugsweise unterscheidet, und dieß unterscheidende kann nicht sowohl an und für sich in dem Gegenstande, als solchem , sondern nur in der besondern Beziehung liegen , welche er zum eigentlich wahren Objecte des Verlangens , d.i. zur Idee, zu haben scheint , so , daß durch ihn die Idee vorzugsweise verwirklicht, oder deren Verwirklichung verhindert werden zu können scheint, da denn das Verlangen auf seinen Besitz, oder seine Beseitigung sich richten wird .
+
+Da nun aber die Idee gar nicht durch einen einzelnen Gegenstand befördert, oder gehindert werden kann , weil sie sich nicht [p. 285] auf ein Einzelnes ausschließlich , sondern auf das Unendliche selbst bezieht, so leuchtet ein , daß der Gegenstand, welcher die Vorstellung veranlaßte , daß er zur Verwirklichung der Idee beitragen , oder diese verhindern könne, wenigstens geeignet seyn müsse , falsche und verworrene Vorstellungen, in Betreff seiner, zu bewirken.
+
+Das Ent-
+
+stehen falscher verworrener Erkenntnisse , oder Vorstellungen, liegt als Möglichkeit in der Bedingtheit jeder individuellen und subjectiven Natur gegeben , und kann folg. lich zur Wirklichkeit werden , und in keiner bestimmt gegebenen Zeit ganz aufhören.
+
+Der Mensch ist also den
+
+Leidenschaften unvermeidlich ausgeseßt, weil er nicht ununterbrochen in der Anschauung verweilen kann , oder nicht Alles sammt Grund und Zweck zu durchschauen vermag.
+
+Ein Gegenstand kann nun vorzugsweise zur
+
+Verwirklichung der Idee scheinen beitragen zu können, wenn er das Medium ist , mittelst welchem das bedingte bestimmt gegebene Vernunftleben , Mensch genannt , seiner Wesenheit in der einen Hauptbeziehung des Lebens einzig genügen kann , und dieser Gegenstand ist das Weib.
+
+Wenn nun das Verlangen sich ausschließlich auf ein Weib richtet , welches nur möglich ist , sofern die Vorstellung entstanden ist, daß dieß eine Weib nur jenes nothwendige Medium seyn könne und müsse, so entsteht dadurch die Leidenschaft der Liebe.
+
+Dagegen kann er die Verwirklichung der Idee besonders zu hindern scheinen , wenn diese nur möglich ist, sofern er selbst, oder doch seine Einwirkung, aufgehoben und vernichtet ist.
+
+Daß nun ein Gegenstand die Verwirklichung der Idee unmöglich mache , oder verhindere , kann noch bloße Möglichkeit seyn ; in sofern nun ein Gegenstand
+
+[p. 286] Anlaß zu der Vorstellung werden kann , daß er möglicher Weise , die Verwirklichung der Idee verhindern wolle, oder könne , folglich das Verlangen entsteht, dieser möglichen Einwirkung zuvorzukommen, begründet dieß die Leidenschaft der Furcht und des Neides :
+
+es kann dagegen auch schon wirklich und gewiß seyn , und in diesem Falle, wenn die Vorstellung wirksam ist, daß ein Gegenstand wirklich die Verwirklichung der Idee verhindert habe, also das Verlangen entsteht , diese wirkliche Einwirkung zu vernichten , entstehen die Leidenschaften des Hasses und der Nache.
+
+Endlich, sofern der
+
+Besitz bestimmter Gegenstände zur Verwirklichung der Idee nothwendig erscheinen , stehen kann, also die Vorstellung entdaß diese nur unter Voraussetzung des wirklichen Besitzes möglich sey , und unmittelbar daraus das Verlangen nach ihrem Besize , schaft des Geizes ; entsteht die Leiden aber Spiel und Trunk sind nicht
+
+Leidenschaften, sondern angewöhnte und gesteigerte Begierden. Im
+
+Einzelnen.
+
+§. 119.
+
+}.
+
+Die Liebe.
+
+Der Mensch hat unendliches Leben , als objectivreale Eigenschaft seiner Wesenheit , oder unbedingte Nothwendigkeit, sich zu offenbaren, in sich , der er weder vollständig, noch rein durch sich genügen kann , sondern zu dessen Befriedigung er nothwendig eines Mediums bedarf, und dieß nothwendige Medium , dessen der Mensch bedarf, ist das Weib.
+
+Jene unbedingte Nothwendigkeit, sich zu offenbaren , äußert sich zunächst als Trieb , der sich auf die gesammte Gattung, als solche, bezieht, und daher Begierde [p. 287] ist.
+
+Aber da der Mensch auch zugleich die Fähigkeit, seine Wesenheit zu erkennen , oder Vernunft, äls objectiv - reale Eigenschaft seiner Wesenheit in sich besißt , indem er ja Vernunftleben ist , so wird er auch die unbedingte Nothwendigkeit, sich zu offenbaren , zu begreifen vermögend seyn , und einsehen , wie er ihr genügen müsse, folglich auch ihr genügen wollen.
+
+Dadurch also wird die reine Nothwendigkeit , von der Vernünftigkeit aus bedingend bestimmt, und aus dem bloßen Triebe wird ein Verlangen , der eigenen
+
+Wesenheit in dieser
+
+Beziehung, durch Vermittelung des Weibes, zu genügen, was sich übrigens zunächst ebenfalls auf die Gattung, als solche , bezieht; so bald es sich aber auf ein Glied der Gattung ausschließlich bezicht , wird es leidenschaftlich.
+
+Denn jener Nothwendigkeit, sich zu offenbaren , kann durch die Gattung überhaupt genügt werden.
+
+sie ist nicht unbedingt , noch allumfassend , sondern bedingt und begränzt im Menschen , weshalb nicht die gesammte Gattung , als solche, das Object seyn kann , worauf das Verlangen sich bezieht, vielmehr muß es sich, der Bedingtheit der menschlichen Natur , vermöge stets auf ein einzelnes Glied der Gattung beziehen ; aber es ist nicht nöthig , daß es sich auf ein einzelnes, bestimmt gegebenes, Glied ausschließlich beziehe , indem jedes gesunde Indi. viduum der Gattung zur Befriedigung jenes Verlangens dienen kann.
+
+Wenn also der Mensch seine eigene Wesenheit wahrhaft begriffen, also angeschaut hat , oder in der Idee gewesen ist , so wird er sich entschließen , oder das Verlangen fassen, seiner Wesenheit durch Vermittelung des Weibes zu genügen, aber, die Bedingtheit seiner Natur erkennend , wird er nicht die gesammte Gattung [p. 288] als solche, zum Objecte seines Verlangens machen, weil dieß nicht die ganze Gattung zu umfassen vermag, sondern wird sich auf ein einzelnes Glied beschränken , weil dieß zur Befriedigung des Verlangens vollkommen hinreicht, jedoch nicht um dieses Subjects willen, sondern der Beschränktheit seiner Natur wegen.
+
+So also ist das
+
+Verlangen rein von der Vernünftigkeit aus bedingend bestimmt, was sich auf jedes Subject der Gattung , das überhaupt zu seiner Wahrnehmung gelangt, beziehen , unbedingt oder jedes zu seinem Objecte machen wird , weil jedes zu seiner Befriedigung dienen kann.
+
+Sobald aber das Verlangen von einem bestimmten Subjecte der Gattung aus bedingend bestimmt wird , dieß eine also ausschließlich zu seinem Objecte macht , wird es leidenschaftlich, indem nun eine verworrene und falsche Er. kenntniß in der Vernunftnatuk vorherrschend und bedins gend geworden ist , nämlich die , daß dem Verlangen nur einzig und allein durch dieß eine Subject genügt werden könne, was folglich vorausseßt , daß dieß eine Subject, bevor noch der Mensch zu einer recht klaren Anschauung von sich und seiner Wesenheit gelangt ist , bevor er also noch dazu kommen können , sich selbst bedingend zu bestimmen, so auf das Erkennen eingewirkt hat, daß es nothwendig dadurch bedingend bestimmt wird . Das Subject also , welches das Verlangen also soll bedingend be stimmen können , muß sich ganz von allen andern seines Gleichen unterscheiden, oder solche Eigenschaften an sich tragen , daß es gewisse Vorstellungen besonders stars anzuregen vermag, und es wird dieß vermögend seyn , wenn es die in allen bedingten Wesen befindliche Sehnsucht nach dem Lichte aufzuregen, im Stande ist.
+
+Denn alle [p. 289] bedingte Wesen , mithin auch der Mensch , haben Sehnsucht nach dem Lichte , die sich , ihrer Natur nach , auf Alles beziehen wird , was in nothwendiger und wesentlicher Beziehung zum Lichte steht , und Alles meiden , was Verwandtschaft mit dessen Gegensaß, der Nacht, hat. Nun steht die Schönheit in nothwendiger und wesentlicher Beziehung zum Lichte, indem sie ohne Licht ganz ungedenkbar ist, wogegen die Häßlichkeit die unmittelbare und nothwendige Folge von der Nacht ist , folglich wird die Schönheit ein Object für die auf das Licht gerichtete Sehnsucht, und die Häßlichkeit ein Gegenstand des Abscheues seyn.
+
+Wenn also einzelne Subjecte der Gattung zur sinnlichen Wahrnehmung gelangen , so werden sie nothwendig unmittelbar zugleich ein Gegenstand des Verlangens , oder des Abscheues , je nachdem sie schön , oder häßlich sind.
+
+In diesem Verlangen nach Schönheit, und in diesem Abscheu von der Häßlichkeit, besteht das allen Menschen ursprünglich innewohnende Schönheitsgefühl , was nun mit dem Verlangen der eigenen Wesenheit zu genügen , entweder gleichzeitig wirksam wird , oder auch schon zuvor wirksam geworden war, was das natürlichere und gewöhnlichere ist.
+
+Denn das Schönheitsgefühl wird als unmittelbare Folge von dem Lichtbedürfniß des Menschen rege und wirksam werden , sobald er sich nur selbst zu fühlen und zu begreifen vermag , wogegen das VerLangen der eigenen Wesenheit in der Hauptbeziehung als Leben, durch Vermittelung des Weibes nur erst entstehen kann, sofern ein bestimmter Grad von physischer Reife vorhanden ist, also in bestimmt gegebener Zeit.
+
+wird das Schönheitsgefühl bereits eine geraume Zeit hindurch wirksam gewesen seyn , mithin bereits einen be19 [p. 290] deutenden Grad von Stärke gewonnen haben , bevor jenes Verlangen sich entwickeln kann, und also wird nicht das Verlangen das Schönheitsgefühl , sondern dieß jenes be dingend bestimmen können , oder auf den Gegenstand concentriren , der es am stärksten zu fesseln im Stande, d.i. der der schönste ist , während das bloße Verlangen rein an und für sich, sich mit jedem Subjecte begnügen würde, das überhaupt in seine Sphäre käme , weil eigentlich nicht dieß eine Subject das wahre Object , sondern die gesammte Gattung , dieß wahre Object für das Verlangen ist.
+
+Durch Einwirkung des Schönheitsgefühls auf das Erkennen geschieht es also , daß sich mittelbar die Erkenntniß , oder Ansicht , erzeugt , es könne dem Verlangen und somit der Idee nur durch den Besitz dieses einen Subjects genügt werden : aber eben das , daß nunmehr nicht mehr die Idee , sondern das mit einem Subjecte ausschließlich beschäftigte Verlangen den Gedankenkreis beherrscht , ist die Leidenschaft der Liebe.
+
+dieser Leidenschaft bezieht sich zwar auch das Verlangen auf den sinnlichen Besitz des bestimmten Subjects, wie die bloße Sehnsucht in der Begierde des Geschlechtstriebes ; allein dieser sinnliche Besitz ist gleichwohl nicht unmittelbarer Zweck für die einseitig bedingend bestimmte Vernünftigkeit , noch ist er es , von dem sie die Erkenntniß, oder Vorstellung des Angenehmen , oder des Vergnügens hat.
+
+Die Vernünftigkeit ist eigentlich auf Darstellung gewisser , Vorstellungen gerichtet , die zu bewirken ihr eigentlicher unmittelbarer Zweck ist , weil sie die Erkenntniß, oder Vorstellung hat , daß diese ihr Vergnügen , oder Genuß gewähren würden , und zwar laufen diese
+
+Vorstellungen alle in den einen Gedanken aus , sich selbst [p. 291] und zugleich noch ein anderes Wesen seiner Art , durch die möglichst engste Verbindung , die nur irgend unter
+
+Wesen bestehen kann , zu vervollkommnen , und unmittelbar dadurch zu beglücken.
+
+Die Liebe ist also der Gränznachbar der Güte , d. i. der ganz uninteressirten Absicht, Andere zu beglücken , und unterscheidet sich von dieser nur darin , daß sie begränzt , jene aber unbegränzt , allumfassend ist. Auf jeden Fall seßt sie eine tugendhafte Gesinnung voraus , und ist ohne eine solche ganz unge denkbar.
+
+Aber wenn das in der Güte erscheinende Ver-
+
+Langen, zu beglücken , rein von der Vernünftigkeit aus bedingend bestimmt wird , wird das ähnliche in der Liebe erscheinende Verlangen von einem einzelnen Gegenstand der Sinnenwelt aus bedingend bestimmt, so daß es sich nicht mehr auf die Idee bezieht , die doch stets sein wahres unmittelbares Object seyn und bleiben sollte , auf diesen Gegenstand nur wie auf ein bloßes Medium für Verwirklichung der Idee, sondern auf diesen Gegenstand , als wäre er die Idee selbst , oder als könnte nur durch ihn diese verwirklicht werden.
+
+So stark nun dadurch das Verlangen auf den einen Punkt concentrirt wird , eben so stark wird es anderseits durch sein wahres Object , die Idee , gefesselt, je mehr diese " deutlich von der Vernünftigkeit erkannt und begriffen wird , und je stärker dadurch in ihr die Erkenntniß , oder Vorstellung, von der Nothwendigkeit , sie in aller Beziehung zu ver wirklichen , hervor tritt.
+
+So entsteht also in der Bewegung des geistigen Lebens eine entgegengesezte Richtung, und unmittelbar daraus Kampf, folglich eine heftige , ungewöhnliche Spannung und Aufregung , und also läßt sich sagen , daß die Leidenschaft der Liebe eine aufregende sey.
+
+[p. 292] §.
+
+120.
+
+Furcht.
+
+Neid.
+
+Der Idee angemessen ist auch das Verlangen nach Darstellung des schlechthin Vollkommnen , also nach der Selbstvollendung, dem durch Erweiterung und Vervollständigung der unmittelbaren, wie der mittelbaren , Erkenntnisse genügt wird .
+
+Zur Befriedigung dieses Verlangens können alle Gegenstände beitragen.
+
+Haben nun
+
+Einige mittelbaren Anlaß zur Vorstellung gegeben, als ob sie die Befriedigung“ jenes` Verlangens vorzugsweise verhindern könnten , oder wollten , so wird das Verlangen ausschließlich auf sie sich beziehen , oder darauf gerichtet seyn , dieser Einwirkung zu begegnen.
+
+Einige
+
+Wesen können vermöge ihrer Natur geeignet seyn , sofern sie mit andern in Berührung gerathen , unwillkührlich zerstörend und vernichtend auf diese einzuwirken.
+
+nun diese zur sinnlichen Wahrnehmung gelangen , wird daraus unmittelbar das heftige Streben, oder Verlangen entstehen , die Berührung mit ihnen zu vermeiden, und eben dieß heftige, unbedingte, auf Veranlassung sinnlicher Einwirkung entstandene , Verlangen , die Berührung mit wahrhaft , oder vermeintlich schädlichen Wesen zu vermeiden, ist die Leidenschaft der Furcht.
+
+Denn wenn auch allerdings einige Wesen , oder Gegenstände schädlich und nachtheilig auf den Wahrnehmenden einwirken fön nen, sobald sie mit ihm zusammen treffen , so werden sie doch nur selten , oder fast nie, diese schädliche Einwirkung haben , wenn der Wahrnehmende mit Ueberlegung, also mit Besonnenheit ihrer Einwirkung begegnet, was inzwischen eine richtige Erkenntniß von der wahren Beschaffenheit dieser Wesen und ihrer Beziehung zu uns noth wendig voraus seßt.
+
+Die Erkenntniß also , daß ein
+
+[p. 293] Wesen , oder Gegenstand , unbedingt und unvermeidlich schädlich seyn werde , ist unrichtig und verkehrt , und ist nicht vom Bewußtseyn , sondern von der übereilten sinnlichen Wahrnehmung aus bedingend bestimmt worden. Eben daher kann der Mensch, insofern er sich von einer solchen Wahrnehmung fortreißen läßt , nicht mehr zu der bewußten Absicht , der Gefahr zweckmäßig zu begegnen, kommen , sondern er wird unwillkührlich und unbewußt von dem Triebe , sich ihr zu entziehen , fortgerissen. Diese Leidenschaft hängt fübrigens in Ansehung ihrer Dauer und Stärke mit der Beschaffenheit des physischen Organismus und der Sinnenwerkzeuge zusammen.
+
+Je stärker der erstere ist , und je vollständiger die letzteren gebildet sind , um so seltener wird der Mensch der Furcht ausgefeßt seyn.
+
+Denn der erste Anlaß zur Furcht liegt .
+
+in der sinnlichen Auffassung der Dinge und in dem Eindrucke , den diese auf das Gefühl und die Empfindsamkeit des Menschen zu machen im Stande ist , woraus die verworrenen Vorstellungen von der Schädlichkeit gewisser Gegenstände hervor gehen , welche der Furcht zum Grunde liegen.
+
+Andere Wesen dagegen können in Beziehung zu uns schon so vollkommen , oder innerlich selbst vollendet, entweder wirklich seyn , oder wenigstens scheinen, daß unmittelbar daraus die Erkenntniß , oder Vorstellung, von der Unmöglichkeit, sie zu erreichen, entsteht. Aber diese Unmöglichkeit findet entweder gar nicht, oder wenigstens nur bedingt statt , und in beiden Fällen soll das Vernunftwesen die bewußte Absicht , oder das Verlangen fassen, dem Vollkommnern gleich, oder wenigstens ähnlich zu werden.
+
+Wenn aber statt dieses vernünftigen
+
+Verlangens , das heftige Streben entsteht, dem Andern [p. 294] zu nehmen , und sich zu geben , oder auch nur ihm zu nehmen, was man nicht besißen damit er nicht habe , kann , so ist dieß die Leidenschaft des Neides : Denn das Verlangen ist nicht auf das Unendliche gerichtet , sondern auf einen einzelnen Punct concentrirt , und zudem von einer falschen verworrenen Erkenntniß aus bedingend bestimmt.
+
+**§ 121**
+
+.
+
+Haß.
+
+Rache.
+
+Wenn die bloße Möglichkeit Grundlage der Furcht, wie des Neides ist , so ist die Wirklichkeit die Grundlage von Haß und Nache ; sie gehen aus der wirklichen Einwirkung eines Wesens hervor , und zwar eines solchen, bei dem sich Wille und Absicht vorausseßen lassen. Die Vervollkommnung, oder innere Selbstvollendung, des einen Vernunftwesens , iß wirklich durch ein anderes gehindert worden , indem es sich im Besize der wesentlichsten Bedingungen befindet , unter deren Vorausseßung die Vollendung unseres Selbsts allein möglich ist, und es hat durch sein Handeln diesen Umstand besonders merkbar und fühlbar gemacht, oder indem es durch ein absichtliches Handeln dem Andern diese wesentlichsten Grundbedingungen zu seiner innern Selbstvollendung entzog. Im erstern Falle wird nicht blos das Verlangen entstehen, jene wesentlichsten Grundbedingungen auch zu erlangen , sondern auch das Verlangen , sie dem Andern zu entziehen , nicht damit er sie nur nicht habe , weil man sie selbst nicht hat , sondern damit er in die Unmöglichkeit verseßt werde, diese Besißthümer durch sein Handeln zu mißbrauchen , und dieß heftige , unbedingt darauf gerichtete Verlangen , dem Andern Besißthümer [p. 295] zu entziehen , damit er sie nicht mißbrauche, ist die Lei. denschaft des Hasses ; im leßtern dagegen , wird das heftige Verlangen wirksam werden , dem Andern zu vergelten , welches die Leidenschaft der Rache ist.
+
+wesentlichsten Grundbedingungen zur innern Selbstvollen. dung , für jedes bedingte Subject , sind gewisse Güter und Befihthümer , die der Idee nach, eigentlich, gleichmäßig vertheilt seyn sollten :
+
+davon hat der Mensch die unmittelbar gegebene Urerkenntniß. Aber auf diese gleich mäßige Gütervertheilung haben Alle einen gleich unbe. dingten Anspruch , so wie er sich auch unbedingt über Alle erstreckt, und eben um deswillen nicht in bestimmter gegebener Zeit , sondern nur in unendlicher , erfüllt wer den kann.
+
+Ist also jene unmittelbar gegebene Urerkennt niß zur Anschauung , oder zur deutlichen Erkenntniß geworden, so wird sie zwar die Forderung der gleichmäßigen Gütervertheilung begründen , allein diese For.
+
+derung wird sich weder auf einzelne , noch auf augenblickliche Erfüllung beziehen , eben weil sie von der Vernünftigkeit aus , bedingend bestimmt ist.
+
+Dem Verlangen also der augenblicklichen Verwirklichung , deren Object vollends nur Einer ist , liegen verworrene Erkenntnisse , øder Vorstellungen , von der Nothwendigkeit der gleichmäßigen Gütervertheilung zum Grunde , deren mittelbarer Anlaß die besondere Handlungsweise eines bestimmten Subjects ist.
+
+Diese Vorstellungen veranlassen durch ihr
+
+Daseyn , Spannung , Pein, und das Streben der Vernunftnatur ist unmittelbar auf Aufhebung jener Spannung, durch Beseitigung jener Vorstellungen , gerichtet. In sofern nun diese Spannung , unvermeidlich das Gefühl des Unangenehmen , der Unbehaglichkeit veranlassen [p. 296] muß, wird sich dieß Gefühl auch auf seinen mittelbaren Anlaß , das Subject beziehen , und folglich wird das
+
+Verlangen, das auf Beseitigung jenes Gefühls der Unbehaglichkeit gerichtet ist , auch auf Beseitigung des
+
+Subjects , das sie veranlaßte, gerichtet seyn.
+
+Aber wie höchst mittelbar dieß Subject Object für jenes Verlangen war, geht daraus hervor , daß es , nach Beseitigung des Umstandes, der es zum Gegenstande des Hasses machte, ein völlig gleichgültiger , oft selbst ein verächtlicher Gegenstand wird , wenn das Verhältniß sich umkehrt , und jenes
+
+Subject diese Veränderung nicht anzuerkennen scheint.
+
+Hat dagegen ein Subject sich der Güter und
+
+Befihthümer des Andern bemächtigt, diesem also die we fentlichsten und nothwendigsten Grundbedingungen zu seiner innerlichen Selbstvollendung entzogen, so wird das Verlangen nach Ausgleichung und Wiedervergeltung entstehen , das , seinem ersten Ursprunge nach , allerdings auf einer unmittelbar gegebenen Urerkenntniß beruht, nämlich der , von der Nothwendigkeit der Ausgleichung und Sühne aller Ungerechtigkeiten , der auch genügt werden muß , und wird , aber nicht jetzt, und an einzelne Glieder des Alls , und durch uns in Bezug auf uns, sondern dereinst im All und durch Alle.
+
+If daher jene Urerkenntniß zur Anschauung gelangt, so wird das bedingte Vernunftwesen , Mensch, auch einsehen , daß die Ausführung der Idee in dieser Beziehung weder besonders verhindert werde , wenn ein anderes bedingtes Vernunftwesen ein Unrecht an ihm verübe, noch dadurch besonders befördert , wenn er dieß Unrecht an diesem einen Subjecte vergelte , und wird daher beides , und so versöhne ,
+
+Vergeltung und Sühne , dem [p. 297] unendlich gefeßmäßigen Urgrunde der Dinge, gebühren , überlassen.
+
+dem sie
+
+Gleichwohl gewährt die Vorstellung von einer gerechten Wiedervergeltung und Sühne , Genuß, Vergnügen , und das Verlangen der Vernunftauf Darstellung dieser Vorstellungen natur ist daher gerichtet , weil sie nothwendig und wesentlich mit der Idee zusammen hängen , Objecte haben.
+
+die sie zu ihrem Inhalte und
+
+Wenn aber ein bestimmt gegebenes Subject durch sein Handeln jene Vorstellungen so stark fesselt, daß sie sich unwillkührlich auf dieß eine Subject beziehen , so werden sie dadurch falsch und verworren , indem nun die Vorstellung entsteht , der Idee der Wie. dervergeltung und Sühne könne nur genügt werden , indem an dem Einen wiedervergolten und gefühnt werde, und zwar durch den Gekränkten : Ob übrigens die Krän kung absichtlich , oder absichtslos zugefügt sey , meistens nicht unterschieden.
+
+wird
+
+Aus dem Handeln dieses
+
+Subjects ist für das andere ein Schmerz, ein Leiden entstanden, und so das ursprüngliche Gleichgewicht, was unter ihnen bestand , aufgehoben worden , was die Vorstellung von der Ausgleichung und Sühne anregt , und auf das handelnde Subject richtet , und wenn zuvor die Vorstellung von der Ausgleichung und Sühne des Unrechts ganz allgemein herrschte , Jweil sie von der Idee ausging , und von dieser bedingend bestimmt wurde, so wird nun die besondere Vorstellung von der Nothwendigkeit wirksam , jene Ausgleichung und Sühne , in Bezug auf dieß eine Subject , dadurch zu bewirken , daß ihm ein gleiches , oder ähnliches Leiden zugefügt werde, durch die die Vernünftigkeit sich besonders aufgeregt fühlt, was ihr eben Vergnügen , oder Genuß gewährt.
+
+Eigentlich [p. 298] müssen hierbei zwei Fälle von einander unterschieden werden :
+
+entweder der vermeintlichen Nothwendigkeit wieder zu vergelten , und zu fühnen , soll noch erst genügt werden , in welchem Falle die Vorstellung von alle dem , was ausgeführt werden kann und soll , Vergnügen gewährt , oder es ist ihr schon genügt worden , in welchem Falle die Erinnerung an Alle dem, was ausgeführt und vollbracht worden ist , Genuß verursacht , während die Ausführung selbst nur ein augenblickliches , schnel vorübergehendes Gefühl von Annehmlichkeit veranlaßt. Uebrigens läßt sich aus der Vereinigung so vieler , ver fchiedenartiger , verworrener Vorstellungen zu einer ein. zigen Hauptvorstellung , die Stärke und Dauer der Leidenschaft der Rache genugsam erklären.
+
+**§ 122**
+
+.
+
+Geiz.
+
+Bei allen seither genannten Leidenschaften ist es das Vorhandenseyn eines bestimmten Gegenstandes der Sinnenwelt , welcher sie mittelbar veranlaßte , wogegen der Geiz mittelbar durch das Nicht - Vorhandenseyn gewisser Gegenstände veranlaßt wird , die nothwendig vorausge feßt werden müssen , sofern der Mensch sich soll innerlich selbst vollenden können, auf deren Besitz folglich sein Verlangen gerichtet werden wird.
+
+Auch hier sind nicht diese
+
+Gegenstände das unmittelbare Object , sondern die Idee ist dieß unmittelbare Object.
+
+Der Mensch befindet sich nämlich , wie alle Wesen , in einer bestimmten Weltlage und Weltstellung , die zu behaupten , nothwendig in der, seiner Wesenheit objectiv - realen Eigenschaft des Lebens liegt , die er also , vermöge seiner Wesenheit, behaupten muß , und die er , wenn er seine Wesenheit deutlich [p. 299] erkannt und begriffen hat, auch wird behaupten wollen. Da dieß nun nur unter Vorausseßung gewisser Bedingungen möglich ist , so wird sein Wille, seine Weltlage zu behaupten , nothwendig zugleich auf Erlangung jener dazu nothwendigen Grundbedingungen gerichtet seyn , sie zu besizen , sondern durch ihren Besitz der Idee zu genügen , und also sind sie nicht unmittelbarer leßter Zweck , sondern Mittel für den Zweck , der Idee zu ge. nügen.
+
+Die wesentliche und nothwendige Grundbedingung zur Behauptung seiner Weltlage, ist für den Men schen sein gesunder und vollständiger Leib , und zur Behauptung seines gesunden und vollständigen Leibes , sind wieder die naturgemäßen Nahrungsmittel nothwendig , und , um diese zu erhalten , ist im gegenwärtigen erfünstelten Zustand der Menschheit , das Geld ein nothwendiges Medium.
+
+Das auf Erfüllung der Idee in dieser
+
+Beziehung gerichtete Verlangen , bezieht sich also mittel bar nothwendig auf Befiß der naturgemäßen Nahrungsmittel und des Geldes ; wird aber dieß sein einziger , unmittelbarer und letzter Zweck , so entsteht recht eigentlich die Leidenschaft des Geizes.
+
+Das Verlangen ist hier auf Besitz des Geldes gerichtet, nicht um es zu gebrauchen, sondern es zu haben , weil die Vernunftnatur von der übertriebenen, also falschen und verworrenen , Vorstellung von seinem Werthe bedingend bestimmt wird.
+
+Diese Vorstellung kann natürlich nur entstehen , wenn der Mensch überhaupt zur Erkenntniß vom Werthe des Geldes gelangt ist, die , da sie erst durch die Erfahrung entwickelt werden kann , zugleich eine empirisch bestimmbare ist.
+
+Also ein physisches Bedürfniß ist das erste Moment , aus dem sich diese Leidenschaft bildet ; [p. 300] allein auch ein geistiges kann dieß erste Moment seyn. Nämlich geistiges Bedürfniß ist , wie bekannt , Selbst.
+
+vollendung nach Innen und Außen , dem genügt werden muß , und nur in sofern genügt werden kann , als der
+
+Mensch von allen Beschränkungen und Bedingtheiten be freit worden, folglich schlechthin innerlich selbstgenügsam, oder vollkommen an sich ist , was in bestimmt gegebener Zeit nur auf bedingte Weise sich ausführen läßt : aber nach der Ausführung soll der Mensch gleichwohl streben. In sofern er die bewußte Absicht faßt, vollenden, sich selbst zu um den Vollendeteren ähnlich zu werden , so ist die unmittelbare Wirkung davon , der vernunftge mäße edle Wetteifer.
+
+Geht aber sein Verlangen nach Außen hin , indem in ihm die Vorstellung wirksam geworden ist , von der Nothwendigkeit , die Idee in Be1 zug auf die Außenwelt zu verwirklichen, so veranlaßt dieß unmittelbar Ruhmbegierde , Ehrgeiz.
+
+Auch diese beruhen auf falschen verworrenen Vorstellungen , vom Wesen der Idee und vom Verhältnisse einzelner Menschen zur Menschheit.
+
+Denn wenn gleich das Er kennen der Idee , nothwendig das Verlangen bedingt, die Idee verwirklicht zu sehen , so wird auch dies richtige Erkennen der Idee nicht das Verlangen begründen können , die Idee in bestimmt gegebener Zeit von einzelnen Subjecten verwirklicht zu sehen , weil dies mit ihrem Wesen im Widerspruch steht, folglich ungereimt , und somit unmöglich ist.
+
+Das Verlangen also jetzt, und selbst als einzelnes Subject , die Idee zu verwirklichen , kann nicht die Folge vom Erkennen , sondern von einem schnellen, augenblicklichen Fühlen der Idee seyn.
+
+Aber gleichwohl ist diese Leidenschaft nur starken , gewaltigen Sec-
+
+& [p. 301] len eigen , während der Geiz jedesmal unbedingt das
+
+Kennzeichen eines niedrigen und engen Gemüths ist.
+
+§.
+
+423.
+
+Mit der Untersuchung von den Leidenschaften hängt die von den Affecten genau zusammen , da die beiden
+
+Affecte, Zorn und Schreck, im Grunde nichts weiter , als in einem Puncte concentrirte Leidenschaften sind , oder schnell und stark veranlaßte heftige Bewegungen des geistigen Lebens , die aus einer augenblicklichen Hemmung desselben hervorgehen. Denn wenn bei den Leidenschaften sich das Verlangen erst allmählig stärker und stärker entwickelt , so wird es in den Affecten plöglich sehr stark aufgeregt , oder ganze Vorstellungsmassen , die zuvor nicht im Bewußtseyn waren , plößlich in dasselbe hinein geworfen , indem gewisse Gegenstände des Sinnlich - Wahrnehmbaren so unerwartet und überraschend auf die Auffassung des Menschen einwirkten , daß er gar nicht dazu kommen konnte , sich zu besinnen , oder die Vorstellungen , welche unvermeidlich die mittelbaren Folgen jenes Eindrucks sind , bedingend zu bestimmen . Jene Vorstellungen nun , welche plößlich auf das Bewußtseyn einstürmen, und dasselbe bedingend bestimmen, sind mittelbar gegebene Erkenntnisse, von bestimmt gegebenen Gegenständen des Sinnlich- Wahrnehmbaren, in bestimmten Beziehungen.
+
+Gewisse Gegenstände der Sinnenwelt können dem Menschen entweder erst möglicher
+
+Weise einen
+
+Schaden , ein Leid zufügen , oder haben es wirklich schon gethan : von diesen wird folglich unvermeidlich mittelbar die Vorstellung von ihrer Schädlichkeit und Gefährlichkeit, und somit zugleich die Vorstellung von der Nothwendigkeit, [p. 302] sie zu vermeiden, sich bilden, aber dieser ganze geistige Prozeß erfordert Zeit, und kann sich nur in der Zeit vollenden.
+
+Inzwischen geschieht auch gewöhnlich die sinnliche Wahrnehmung und Auffassung in der Zeit, und kann sich nur in ihr * gehörig und vollständig construiren.
+
+Da nun diese die nothwendige Grundbedingung für Vollendung jenes Processes ist , so wird sich dieser auch nur in sofern gehörig entwickeln können , wenn die dazu nothwendige Grundbedingung vollständig vorhanden, oder wenn die sinnliche Wahrnehmung gehörig und voll. ständig erfolgt ist : aber wenn diese im Nichts der Zeit, oder im Nu , im Moment gegeben wird , also sich nicht entwickeln und vollenden kann , so wird sich der aus ihr hervorgehende geistige Proceß nicht entwickeln und vollenden können , sondern plößlich als Ganzes hervorgerissen. Dieß bewirkt natürlich eine so heftige Aufregung und Bewegung, daß das Bewußtseyn betäubt, und der Mensch unwillkührlich und gewaltsam zum Handeln fortgeriffen wird.
+
+Wenn ein Gegenstand , werden kann , der erst noch schädlich unerwartet und plößlich zur Wahrnehmung kommt, so veranlaßt dieß den Schreck , d. i. im Nu das heftige Verlangen, ihm zu entgehen , und ist er wirklich schon schädlich geworden , den Zorn , d. i. im Nu das heftige Verlangen, wieder zu vergelten.
+
+Es wer den hier gewaltsam und unregelmäßig die Vorstellungen und Begriffe hervorgerissen.
+
+Aber eben um dieser heftigen und unregelmäßigen Gewaltsamkeit Willen , muß die Bewegung eben so schnell verschwinden , als sie kam. Denn außer , daß das Unregelmäßige , als solches, nicht bleiben kann , hängt seine Dauer von dem intensiven Grade seiner Stärke ab.
+
+Nämlich jede Bewegung bestimmt [p. 303] sich unvermeidlich, hinsichtlich ihrer Stärke und Dauer, nach der Größe der bewegenden Kraft.
+
+Je schwächer diese ist, desto schwächer und langsamer wird auch die Bewegung seyn , und je stärker , desto heftiger und schneller ist auch sie : ist demnach die bewegende Kraft unendlich groß, so wird auch die Bewegung unendlich stark, und unendlich schnell seyn , aber Zeit wird sie stets verbrauchen , wie schnell und stark sie auch sonst sey, da sie ohne Zeit ganz ungedenkbar ist.
+
+Die unendlich schnelle und starke Bewegung wird also im Nichts der Zeit, im Moment, vollbracht seyn.
+
+Demnach werden die Affecte , da sie die Wirkungen einer unendlich starken und schnellen Bewegung sind , eben so unendlich schnell , oder plößlich verschwinden , als sie kamen.
+
+Mit den
+
+Affecten ist natürlich und unvermeidlich eine heftige und starke Aufregung des leiblichen Lebens mittelbar verbunden , indem sie ja mittelbar aus der unerwarteten und heftigen Einwirkung eines Gegenstandes im Sinnlich. Wahrnehmbaren auf den physischen Orgànismus, hervor. gehen. Der physische Organismus wird hier , seiner ganzen Beziehung nach, erschüttert , indem die Bedingungen zum Gefühle, d. i. die Nerven heftig erschüttert wer den, welches stets die unvermeidliche Folge einer heftigen und unerwarteten Berührung mit Gegenständen der Sinnenwelt ist.
+
+[p. 304] §.
+
+124.
+
+Lehre von den Hauptoffenbarungsarten der geistigen Functionen , und zwar der nie. dern.
+
+Function ist , wie bekannt , eine bestimmte Richtung des geistigen Lebens , indem sich ganze Massen von Vorstellungen und Gedanken zu einem einzigen Hauptgedanken , oder Hauptbegriff, vereinigt haben , und nunmehr in ihrer Vereinigung natürlich mit größerer Kraft wirfen , als zuvor in ihrer Zerstreutheit , und eben diese aus vielen einzelnen Kräften zusammengesetzte Total Kraft ist durch den allgemein logischen Begriff, Func. tion, bezeichnet.
+
+Der Begriff, Function , soll also in seiner Allgemeinheit gewisse Haupterscheinungen des geistigen Lebens , oder besonders hervorragende Puncte im Unendlichen andeuten , wobei jedoch von ihrem Inhalte abstrahirt wird , dergestalt, daß sie noch ganz allgemein und unbestimmt erscheinen : in seiner Besonderheit dagegen, soll er diese Haupterscheinungen in Beziehung zu ihrem Inhalte gedacht , folglich als bestimmt gegebene, und deutlich unterscheidbare bezeichnen.
+
+Die Functionen können sich nun blos auf das Unendliche , sofern es Inbegriff ist , beziehen, folglich blos die Einzelnheit zu ihrem Inhalte, oder Objecte haben , durch die Functionen stellt sich also das Unendliche, seinen einzelnen Beziehungen nach, dar , oder offenbart sich durch sie , und also sind sie Hauptoffenbarungsarten des Unendlichen , das zugleich ihr Object ist , auf welches sie sich nothwendig beziehen. Jene Beziehung, oder Nichtung, wird nun entweder unmittelbar vom geistigen Leben aus , oder unmittelbar vom
+
+[p. 305] Objecte des Erkennens bestimmt ; in jenem Falle bestimmt sich das geistige Leben selbst , wogegen es im leztern bedingend bestimmt wird.
+
+Da es nun offenbar mehr ist , sich selbst zu bedingen , als bedingt zu werden , so werden die geistigen Functionen , sofern sie in ihrer Nichtung von der Vernünftigkeit bedingend bestimmt werden , die höhern , und werden sie von dem Objecte des Erkennens bedingend bestimmt, die niederen seyn, die wir zuerst betrachten.
+
+**§ 125**
+
+.
+
+Gedächtniß.
+
+Die Gegenstände des Sinnlich - Wahrnehmbaren ent wickeln mittelbar Erkenntnisse , Gedanken , Begriffe, und zwar entweder so , daß man sich ihrer , als ursprünglich und unmittelbar gegebener , bewußt wird , oder so, daß man sie als mittelbar und zeitlich gegebene, erfaßt. Wird man sich der mittelbar entwickelten Erkenntnisse , als ursprünglich und unmittelbar gegebener , bewußt , gelangt die unmittelbar gegebene Urerkenntniß , die der Mensch von allem hat , zur Erkennntniß, so wird offenbar das Bewußtseyn , seinem Umfange nach, erweitert , oder zum Gedächtniß im weitern Sinne , zur Wiedererinnerung.
+
+Wird man sich dagegen derselben nicht als sol cher bewußt, kömmt mithin die unmittelbar gegebene allumfassende Urerkentniß nicht als solche zum Bewust seyn , sondern erfaßt die Vernunftnatur , die scheinbar neu erzeugten Erkenntnisse , wirklich als unmittelbar von ihrem Objecte, als neu erzeugte , so ist dieß Erweiterung des Bewußtseyns , seinem Inhalte nach , und verweilt sie anhaltend und fortdauernd in Betrachtung dieser Er kenntnisse , ungeachtet ihr Anlaß nicht mehr vorhanden [p. 306] ist,1 so ist dieß im engern Sinne Gedächtniß :
+
+Gedächtniß ist also weiter nichts , als die anhaltende deutliche Erkenntniß gewisser Vorstellungen und Begriffe. Das geistige Leben muß sich selbst vorzugsweise in der bestimmten Richtung des Erfassens , mittelbarer Erkennt nisse als solcher erfassen , sofern es Gedächtniß seyn soll. Es erhält aber diese ausschließliche Richtung auf das mittelbare Erkennen, durch die anhaltende Entwickelung des mittelbaren Erkennens , das es zunächst vermöge seiner Bedingtheit unvermeidlich als unmittelbar erzeugt, erfaßt.
+
+Es bedarf erst für das bedingte Vernunftleben einer außerordentlichen Anstrengung, um den wahren Hergang der Dinge zu erfassen. §. 126.
+
+Verstand.
+
+Mehr als das bloße Verweilen , im Betrachten ge wisser Erkenntnisse , ist das Erkennen selbst , welches ein unmittelbares , oder mittelbares ist , je nachdem es sich ursprünglich und unmittelbar schon als fertig und vollendet, im geistigen Leben vorfindet , oder zeitlich und mittelbar darin entwickelt.
+
+Daher ist auch alle mittelbare
+
+Erkenntniß , wie das auf diese gerichtete Erkennen selbst, successiv.
+
+In sofern nun die Vernunftnatur sich hauptsächlich im successiven Erkennen darstellt , und in dieser Beziehung vorzugsweise wirksam ist , ist sie eben
+
+Verstand : Verstand also ist das geistige Leben , wenn es fast ausschließlich successiv , oder zeitlich , also nach einander , hintereinander, miteinander erfaßt und erkennt.
+
+§. 127.
+
+Wille.
+
+Der Keim und die Wurzel des Willens ist das VerTangen, d. i. das bewußte Streben nach dem Besite , [p. 307] øder Genusse von Dingen , welches die Wirkung von einem ganz allgemeinen , kennen der Dinge ist.
+
+dunklen und unbestimmten Er
+
+Der Wille aber , der die deutliche , bestimmt bewußte Absicht, zu besißen, ist , kann nur aus einem deutlichen , bestimmten Erkennen der Dinge , sammt Grund und Zweck , hervorgehen , sezt folglich volles Bewußtseyn nothwendig voraus.
+
+Im Willen ist sich die
+
+Vernunftnatur des Grundes und Zweckes ihres Stre bens , deutlich und bestimmt bewußt, so wie auch des Gegenstandes , der für dieses Streben Object ist , wogegen im Verlangen es sich des Grundes und Zweckes sei ner Strebungen , deren Anlaß auch meistens ein bloßes Gefühl, oder Bedürfniß ist , nicht deutlich bewußt wird . Je deutlicher und klarer es sich seines Strebens , sammt Grund und Zweck , bewußt wird , desto stärker und bestimmter wird auch der Wille seyn.
+
+Der Wille ist im geistigen Leben das bestimmende und ordnende Princip, und kann durch ein unmittelbares Erkennen , wie durch ein mittelbares , bedingend bestimmt werden , kann sich auf die Idee , oder auf ein bezügliches Object beziehen , je nachdem er die Frucht eines blos deutlichen , oder auch eines richtigen Erkennens war.
+
+Im Willen nimme das geistige Leben zuerst den Character des Vernünftigen an , und der Wille ist daher das bestimmte Merkmal , wodurch sich das Vernunftwesen von dem Nicht - Vernünftigen , oder Thiere , unterscheidet , das , da es kein Bewußtseyn hat, auch keinen Willen , sondern nur Begierden und Verlangen befizt.
+
+[p. 308] Höheren.
+
+§. 128.
+
+Bernunft.
+
+Das bedingte Vernunftleben , Mensch , hat ein unmittelbar gegebenes , Urerkennen , was sich vom mittelbar gegebenen hauptsächlich darin unterscheidet , daß es die
+
+Vorstellungen , Gedanken und Begriffe nicht als successiv, oder werdend , und somit zeitlich , sondern als ursprünglich seyend, mithin als simultan , oder rein zeitlos , erfaßt, versteht , begreift , unterscheidet.
+
+In sofern sich nun das geistige Leben seiner ursprünglichen und unmittelbaren Urerkenntniß , als solcher, deutlich und bestimmt ist, ist es Anschauung , und wenn es sich vorzugs. weise in dieser und durch diese offenbart , oder hauptsächlich unmittelbar und simultan die Dinge, sammt Grund und Zweck , erfaßt , begreift , versteht , unterscheidet, und sich ausschließlich in dieser Nichtung zum Unmittelbaren erfaßt, und als Richtung zum Unmittelbaren von seiner Richtung zum Mittelbaren deutlich und bestimmt unterscheidet, ist es Vernunft. §. 129.
+
+Einbildungskraft.
+
+Das Vernunftleben , Mensch , hat auch in seiner Vernünftigkeit Leben , d. i . Nothwendigkeit , sich zu offenbaren , deren Wirkung die gesammten geistigen Erscheinungen sind.
+
+Aber wiewohl diese Nothwendigkeit unbedingt in ihm ist , kann er ihr dennoch nicht unbedingt genügen , zwar nicht für immer , aber doch für jetzt. In sofern der Mensch dereinst jener Nothwendigkeit unbedingt genügen kann , ist dieß die Möglichkeit, die überall vorhanden ist ; in sofern er dagegen jener unbedingten Nothwendigkeit , jezt nur bedingt zu genügen [p. 309] vermag, ist dieß Eigenschaft, Fähigkeit, der er genügen muß.
+
+Ist nun der Mensch zu einer deutlichen
+
+Erkenntniß seiner eigenen Wesenheit, sammt Grund und Zweck , gelangt, so wird er auch jenen Unterschied zwłschen dem Möglichen und Nothwendigen in sich , somit das Unvollständige und Mangelhafte seiner Natur , erfassen.
+
+Aus diesem Erkennen wird sodann unvermeidlich das deutliche , bestimmte , bewußte Streben , oder der Wille , hervor gehen, sich selbst zu vollenden ,
+
+Schranke seiner Subjectivität zu vernichten , der um so stärker und bestimmter seyn wird , je klarer und bestimmter die Erkenntniß von der Nothwendigkeit des Daseyns eines solchen bildenden Willens ist.
+
+Offenbart sich nun die Vernunftnatur vorzugsweise in diesem, und durch diesen Willen, erfaßt sie sich also ausschließlich als Richtung zur innerlichen Selbstvollendung , Ausbildung , so ist sie Einbildungskraft ,
+
+Phantasie.
+
+Der Be griff, Phantasie , ist also die allgemein logische Bezeichnung für die Vernunftnatur , in ihrer ausschließlichen Richtung zur innerlichen Selbstvollendung.
+
+Hat sie diese génommen , und ist sie in ihr wirksam , so ist die natürliche und unvermeidliche Folge davon, eine ungewöhnlich starke Aufregung des geistigen Lebens , der gemäß alle geistige Erscheinungen , Thatsachen, Empfindungen, Vorstellungen , Gefühle , Gedanken , Erkenntnisse , Begriffe stärker, lebhafter , schneller und deutlicher für das Er kennen hervortreten, als gewöhnlich.
+
+Ueberläßt sich die
+
+Vernunftnatur dieser Richtung zu sehr , so wird sie durch sie am stärksten aus ihrer regelmäßigen und harmonischen Haltung herausgerissen , dergestalt , daß es seinerseits einer anhaltenden und langen Außtrengung bedarf, um > [p. 310] jene, die der Idee gemäß ist , wieder herzustellen , indem nämlich durch die zu heftige Aufregung des Lebens , welche dadurch unvermeidlich erfolgt , alle Erscheinungen verwirrt , und durch einander geworfen werden, §. 130.
+
+Gemüth.
+
+Wenn der Mensch sich seiner unmittelbaren , allumfassenden Urerkenntniß, als solcher, deutlich und bestimmt bewußt worden ist , ist er in der Anschauung , und wenn die Vernunftnatur vorzugsweise in der Anschauung und durch diese sich offenbart , folglich sich ausschließlich in der Richtung zum Anschauen erfaßt , und als solche von ihren andern Richtungen bestimmt und deutlich unterscheidet, ist sie Gemüth : Der Begriff, Gemüth , also dient als allgemein logische Bezeichnung der Vernunftnatur , in ihrer ausschließlichen Richtung zum Anschauen, øder unmittelbaren Erfassen der Dinge.
+
+Da nun ledig.
+
+lich im Anschauen die unmittelbare Erkenntniß vom objectiv - realen Zustande der Dinge, oder die Idee , möglich ist, so kann man auch das Gemüth den Siz der Ideen nennen.
+
+Das Gemüth ist folglich die oberste und vollkommenste Form der Vernünftigkeit ; die Vernünftigkeit also , in welcher sie die einzige ist, wird die voll✅ kommne selbst ser " , denn sie ist durchweg im Anschauen, øder durchschaut.
+
+Das Gemüth ist demnach gleich.
+
+fam der Maaßstab , an dem sich die unendlich vielen Der nunftnaturen , dem Grade ihrer Vollkommenheit nach, messen und bestimmen lassen , und wenn in keiner Ver nunftnatur die Function des Gemüths fehlen kann , weil alle die Wesenheit des Urgrundes haben , so kann sie auch in keiner die einzige und ausschließliche seyn , weil [p. 311] alle , mit Ausnahme der unendlichen , bedingt sind , und also sind in allen bedingten Vernunftnaturen , außer dem Gemüthe, die gesammten übrigen Functionen nothwendig in den vollkommnern bedingend bestimmt, vom Gemüthe, und in den unvollkommnern das Gemüth bedingend be stimmend.
+
+§. 131 . Lehre vom Selbstbewußtseyn. Das Selbstbewußtseyn ist der Mittelpunkt, das Centrum , gleichsam die Sonne des geistigen Lebens , in welchem sich all die einzelnen Thatsachen ,
+
+Erscheinungen , wie auch die gesammten Functionen desselben centralisiren.
+
+Das Selbstbewußtseyn ist in der bedingten Vernünftigkeit des Menschen nicht unmittelbar als vollendet gegeben , sondern entwickelt und vollendet sich darin mittelbar, also successiv.
+
+Es beginnt, seinen ersten Momenten nach, schon mit dem Anfange des Empfindens , d. i. jenes allgemeinen , unbestimmten und schwankenden Erkennens, in dem sich das Unendliche , Gränzenlose zu gestalten , zu bestimmen anfängt. sich schon im Gefühl ,
+
+Deutlicher entwickelt es d. i. in dem bestimmten Unterscheiden des Erkannten von einander.
+
+Hierin ist also schon die Deutlichkeit und Bestimmtheit der Besinnung , des Merkens und Verstehens , wogegen im Empfinden und Vorstellen , blos eine geistige Dämmerung ist , die sich nie zur Besinnung erweitern würde , wenn der Mensch nicht Sprachfähigkeit befäße, welche seine Fähigkeit , in Ansehung nes innern Zustandes, durch die Berührung mit andern Wesen modifieirt zu werden, oder sein Gefühl begleitet. Der Mensch [p. 312] also, indem er fühlt, spricht auch zugleich.
+
+Dadurch nun, daß er spricht, d . i. daß er sich die erlittene Modification seines Zustandes , durch Ausstoßung von lauten und bestimmten Tönen , zu verdeutlichen sucht , verdeutlicht er wirklich seine Empfindungen , d. i. die mittelba ren Folgen der erlittenen Modification. Denn indem sein, innerer Zustand , durch Berührung mit andern Wesen , modificirt wird , ist unvermeidlich die nächste , mittelbare Folge davon , daß sich die ihm unmittelbar gegebene, allumfassende Urerkenntniß , die er nur nicht unmittelbar durchweg , als solche zu erfassen vermag , ganz allgemein und dunkel zu unbestimmten Erkenntnissen , d. i. eben Empfindungen , zu entwickeln anfängt ; unmittelbar Damit ist zugleich das Bedürfniß, sich das Empfundene Deutlich zu machen , und die Fähigkeit , ihm durch Aus stoßung lauter und bestimmter Töne , zu genügen , verbunden. Dadurch muß natürlich die Empfindung bestimmt, erweitert , verdeutlicht werden , oder die Urerkenntniß wird bestimmter zu deutlichen und unterscheidbaren Erkenntnissen, d. i . eben Vorstellungen und Gefüh
+
+Ten, entwickelt , die nun ihrerseits wieder sowohl auf Erweiterung der Sprache , als auf Erweiterung des Erkennens einwirken : Denn alle geistige Erscheinungen sind in sich zu einer schlechthin untrennbaren Einerleiigkeit, oder Totalität verbunden , wirken folglich nicht getrennt von einander , oder nur zusammen , sondern bedingen sich, hinsichtlich ihres Wirkens , nothwendig stets wechselseitig zu einander.
+
+Wenn nun zunächst in der Vernunftnatur , unwillfi.lich und unbewußt , der Trieb ist, das zu erlangen , was angenehm , und das zu vermeiden , was unangenehm auf ihren Zustand einwirkt, so wird
+
+?
+
+[p. 313] das Gefühl, oder die deutliche und bestimmte Erfenntniß von dem Angenehmen , und Unangenehmen , nothwendig das Streben , oder Verlangen , nach Erlangung , oder Abwendung bedingen , also die Thätigkeit des geistigen Lebens , in Ansehung ihrer Richtung bestimmen , oder zur Function machen.
+
+In den Gefühlen wird also das geistige Leben noch von dem Objecte des Erkennens bedingend bestimmt, und erfaßt das mittelbar Gegebene als unmittelbar erzeugt , ist sich folglich seiner selbst noch nicht inne geworden , wiewohl alle diese Erscheinungen das Innewerden unvermeidlich mit sich führen . Die deutliche und bestimmte Erkenntniß von der gehabten Modification des eigenen Zustandes , oder das Gefühl , bleibt auch noch alsdann wirksam, wenn der mittelbare Anlaß dazu nicht mehr vorhanden ist , wenn auch nicht mehr in seiner ersten Bestimmtheit.
+
+Sobald inzwischen der selbe Anlaß wieder zur Wahrnehmung kommt, wird es von neuem in seiner vorigen Deutlichkeit hervor treten, aber offenbar als schon fertige , vollendete Erkenntniß , die sich auf einen bestimmten Gegenstand , wie auf ihr
+
+Object bezieht, also einen bestimmten Inhalt hat.
+
+also zuvor das Gefühl zwar eine deutliche und bestimmte Erkenntniß von einer Modification des innern Zustandes war, so wird sie nun eine deutliche und bestimmte Erkenntniß von einer solchen Modification , sammt Grund und Zweck , d . i. Gedanke.
+
+Hier findet also in der
+
+Vernünftigkeit schon ein Inneseyn statt : denn sie erinnert sich des gehabten Eindrucks durch Veranlassung eines bestimmt gegebenen Gegenstandes.
+
+Dieser Gegen-
+
+Aand erscheint ihr als ein äußerlicher , von ihr verschiedener und unabhängiger , was sie bald empfindet , d. i.
+
+314 * dunkel und unbestimmt erkennt.
+
+Hat sie die Empfindung zum Gefühl verdeutlicht, so wird sie auch deutlich und bestimmt erkenneu , daß das Object der Empfindung und des Gefühls ein selbstständiges Etwas , wie sie selbst, aber nicht sie selbst, noch durch sie, oder in ihr sey, und ihn folglich als unabhängig und selbstständig ne den sich , ja sich selbst gegenüber stellen.
+
+Dieses Etwas wirkt ein auf den Menschen , als auf ein VernunftLeben , aber der Mensch empfindet diese Einwirkung nicht also, sondern empfindet sie als eine successive , d. i. er erkennt nicht , daß das , was seinen innern Zustand modificirt, diesen nothwendig seiner ganzen Beziehung nach und durchweg modificire , eben weil er die Einerleiigkeit feines Wesens , oder die objectiv - reale Beschaffenheit desselben , nicht unmittelbar erfaßt , sondern erfaßt die
+
+Modification seines Wesens in zwiefacher Beziehung , wie seine Wesenheit selbst , unbestimmt, zunächst nur allgemein und alsdann aber , wenn sich diese scheinbare
+
+Verschiedenheit bestimmter ausspricht , deutlicher und bestimmter; er fängt dunkel und unbewußt , in sich , zwischen Erkennendem und Nicht - Erkennendem , terscheiden an, in und an sich erkennt , kennende ist er selbst, Nicht- Selbst.
+
+zu unindem er bestimmt und deutlich Etwas was nicht erkennt.
+
+Das Er das Nicht - Erkennende ist sein
+
+Denn wiewohl er erkennt, daß das Nicht-
+
+Erkennende so gut zu ihm gehöre, wie das
+
+Erken .
+
+nende, und mit diesem zusammen eine schlechthin untrennbare Einheit ausmache , so erkennt er doch nicht, daß das Nicht - Erkennende dasselbe sey , wie das Erkennende, oder daß Erkennendes und Nicht - Erkennendes eine Einerleigkeit sind , sondern er erfaßt ,
+
+| [p. 315] erkennt, sich zunächst mittelbar nur als Erkennendes , was mit einem Nicht- Erkennenden nothwendig und wesentlich verbunden ist.
+
+Diese Art von Erkenntniß ist noch dunkel und unbestimmt im Empfinden , Vorstellen , Fühlen; im Denken aber wird sie deutlich und bestimmt.
+
+Denn das Denken offenbart sich in den Gedanken , d. i. in den deutlichen und bestimmten Erkenntnissen von den Modificationen des innern Zustandes , sammt Grund und Zweck; der Gedanke also ist schon deutliche und bestimmte Erkenntniß von dem unvermeidlichen Unterschied, den der Mensch in sich zwischen Denken und Nicht- Denken seßt.
+
+In sofern nun der Mensch gewöhnlich und naturgemäß im mittelbaren Erkennen bleibt, das mittelbar Erkannte also für objectiv - real hält , wird er auch jenem Unterschied eine objectiv - reale Bedeutsamkeit beimessen, oder das Denkende und Nicht- Denkende in sich, als ihrem Wesen nach verschieden von einander, auffaffen, und einander entgegenseßen.
+
+Wenn er nun sich als Den kender auffaßt , und sich als ein Denkendes , Sich selbst Auffassendes , in sich bestimmt und deutlich unterscheider, so ist diese Anffassungsart der Begriff Ich, oder volles Innegewordenseyn , Selbstbewußtseyn , durch das der
+
+Mensch aus einem bloßen Vernunftleben ein Vernunftwesen wird. flexion ,
+
+Es bedarf erst der philosophischen Reum zu erkennen , daß jenem Begriff keine ob jective , sondern nur eine subjectiv reale Bedeutsamkeit zukommen.
+
+Die bestimmte und deutliche Erkenntniß von feiner vermeintlichen Wesenheit , d . i . eben der Begriff, entwickelt sich aus den Gedanken , und wenn sich die Vernünftigkeit selbst als bestimmter und deutlicher Begriff auffaßt , so ist die allgemein logische Bezeichnung für [p. 316] diese Erfassungsart eben der Begriff, oder vielmehr die Formel Ich.
+
+Das Ganze seßt sich übrigens , wie aus dem bisherigen erhellt, successiv , oder zeitlich zusammen.
+
+Erörtern wir dieß näher , so wird sich finden, daß unmittelbar in dem successiven Erfassen auch das räumliche liegt, und somit führt uns dieß zur psychologischen Erörterung der Begriffe von Zeit und Raum, die wir früher andeuteten.
+
+§. 132. Der Mensch ist , seinem Wesen nach, folglich auch in Ansehung seiner Vernunftnatur , bedingt, und vermag demgemäß das Unendliche nicht darzustellen , noch es aufzufaffen , nur bedingt vermag er es in sich darzustellen. Dadurch kommt unwillkührlich und unbewußt das schlecht hin Einerleiige , gegliederte Einheit , d . i. eben successiv , oder nach und nach , in ihm zur Erscheinung : er erkennt sich als gegliederte Einheit , und erkennt so die gesammte übrige erkennbare Welt. Alle Gegenstände in dieser sind einzelne , und als einzelne neben ein. ander gestellt ; alle Erscheinungen in ihm sind ebenfalls vereinzelt, aber als einzelne nacheinander , und folgen auf einander.
+
+Zwar folgen die Erscheinungen außer ihm auch auf einander , aber sie bleiben verschiedene, von einander gesonderte und getrennte, wogegen die Erscheinungen des Innern , als Wirkungen und Aeußerungen ein und chen desselben , erfaßt werden , folglich scheinen jene eine wirkliche Vielheit , während diese als Einheit aufgefaßt werden können , jene beharren , und diese fliessen.
+
+Der allgemein logische Begriff, mit dem sich die
+
+Eigenschaft der Beharrlichkeit von Vielen bezeichnen läßt, ist Raum , und der , mit dem sich die Eigenschaft der Beweglichkeit Vieler bezeichnen läßt , Zeit. ken also erfaßt sich in der Zeit , kende im Raume.
+
+Das Denund das Nicht - Den-
+
+6. 133. Lehre von den abnormen und krankhaften Zuständen des geistigen Lebens. Das geistige Leben weicht von seiner gewöhnlichen und regelmäßigen Bewegung , entweder blos ab , in welchem Falle ein abnormer Zustand statt findet , øder es wird durchweg in einer ungewöhnlichen und unregelmäßigen Bewegung erhalten , frankhafter Zustand.
+
+und dieß ist alsdann ein
+
+Eine Abweichung des geistigen Lebens von seiner gewöhnlichen und regelmäßigen Bewegung , muß inzwischen nicht der Natur der Dinge angemessen , sondern derselben zuwider seyn, in sofern sie eine abnorme soll seyn können.
+
+Denn in den Leidenschaften und Begierden weicht das geistige Leben von feiner gewöhnlichen und regelmäßigen Bewegung ab, ohne daß dies ein abnormer Zustand genannt werden könnte , eben weil er ganz naturgemäß ist , oder sich aus dem gewöhnlichen Gesetze , nach dem sich das geistige
+
+Leben in seiner Bewegung bestimmt , erklären läßt : muß aber zur Erklärung eines gewissen Zustandes ein neues Gesetz angenommen werden , alsdann ist er ein abnor mer.
+
+Ein solcher kann die Folge eines gewöhnlichen
+
+Ereignisses , oder eines ungewöhnlichen seyn , d. i. eines solchen , das mit Nothwendigkeit aus der Natur eines gesunden Leibes hervor geht , oder eines solchen , das nur in einem krankhaften Zustande desselben möglich ist.
+
+[p. 318] Es liegt in der Natur eines jeden bedingten Lebens , daß es nicht ununterbrochen gleichförmig fortwirken kann , sondern ungleichartig wirken , folglich abwechselnd steigen und fallen muß.
+
+Eine unmittelbare und nothwendige Folge von diesem Fallen , oder Sinken des Lebens, in der bestimmt abgegränzten Form , Schlaf:
+
+Körper , ist der der Schlaf also ist ein natürliches und gewöhnliches Ereigniß.
+
+Jenes Sinken aber bezieht sich nicht blos auf den Körper, sondern auch auf die Ver nunftnatur , in der nun zu Folge dieser Abspannung auch alle diejenigen Erscheinungen verschwinden , welche zu ihrem Bestehen das Leben in seiner vollen Wirksamkeit nothwendig vorausseßen , d. i. daß Bewußtseyn , und somit alle flare, deutliche , bestimmte Erkenntniß , jeder helle Gedanke und Begriff, und selbst die schärfer und bestimmter hervorgetretenen Vorstellungen , statt deren nun dunkle , unbestimmte und schwankende Gefühle und Empfindungen eintreten , so daß die Vernunftnatur in einen traumartigen schlummerhaften Zustand geräth, und sich selber gleichsam verliert.
+
+Wenn nun ungeachtet des
+
+Schlafes , in welchem der Mensch, seinem ganzen Wesen nach, versenkt ist, ein Bewußtseyn eintritt, und jene matten Gebilde aufregt , und zu Vorstellungen , und Begriffen entwickelt , nung der Traum ,
+
+Gedanken so ist diese abnorme Erschei der in gleichem Grade schwächer , øder stärker ist, als das Selbstbewußtseyn , welches eintrat, schwächer , oder stärker ist.
+
+deshalb ein abnormer Zustand ,
+
+Der Traum ist um weil das eingetretene
+
+Selbstbewußtseyn nicht bis zur Function, Ich , sich entwickeln kann , also ein bloßes Selbstfühlen ist.
+
+macht auch die Vernunftnatur in diesem Zustande keinen
+
+[p. 319] Unterschied in sich , zwischen Selbst und Nicht - Selbst ; vielmehr erfaßt sie blos sich selbst , und hat von ihrem Nicht - Selbst nicht nur den Begriff, sondern selbst die Vorstellung völlig verloren.
+
+Der Traum kann nun un-` mittelbar aus der Vernunftnatur, als solcher, hervorgehen, oder mittelbar in irgend einem physischen Grunde begründet liegen, nämlich in einer ungewöhnlich starken und heftigen Aufregung des physischen · Organismus, was mittelbar unvermeidlich all die materiellen Empfindungen, Vorstellungen und Gefühle von Luft und Unlust aufregt : dagegen entspringt der Traum in der Vernunft. natur, als solcher , wenn dieselbe, kurz vor Eintritt der gewöhnlichen Abspannung , ungewöhnlich stark und heftig aufgeregt ward , dergestalt , daß sich diese gewaltsame Aufregung nicht gleich zu dem Standpunkte von Ruhe, oder Gleichgewicht verlieren kann , welcher der allgemeinen Senkung der Lebensgeister angemessen ist , sondern mit seiner ganzen Kraft fortwirkt , allgemeinen Abspannung erliegt.
+
+bis sie endlich der
+
+Ungeachtet nun das
+
+Bewußtseyn noch eine Zeitlang fortwirkt , kann es doch nicht zu seiner Vollendung , zur Darstellung des Begriffs Ich, kommen , es wirkt daher nur mit halber Kraft. Daß das geistige Leben nicht zur Darstellung des Begriffs, Ich , oder des vollen Bewußtseyns gelangen kann, hat seinen Grund in dem Nicht - Wirken der bloßen Lebenskraft.
+
+Denn Leib und Seele sind , ihrem Wesen nach, einerleiig , bedingen sich folglich wechselseitig, dergestalt , daß der Leib zu seiner vollen Thätigkeit eben so sehr der Unterßtüßung von Seiten der Vernünftigkeit bedarf, als diese seiner , zu ihrer vollen Wirksamkeit, benöthigt ist.
+
+Wenn daher der eine ;
+
+oder, andere in [p. 320] seinem Wirken gehemmt ist , so wirb sogleich auch der andere unmittelbar dadurch gehemmt werden.
+
+in dem bedingten Vernunftleben , Mensch , das volle Bewußtseyn nur unter Vorausseßung der vollen Wirksamkeit seiner Gesammt Kraft statt finden kann , so wird es, wenn diese nicht mit voller Kraft zu wirken vermag, weder sich entwickeln, noch wirksam werden können. Wenn daher im wachen Zustande , d . i. bei voller Wirkung der Gesammt - Kraft , das volle Bewußtseyn eintritt, und die Vernünftigkeit bedingend bestimmt, also zu einer geordneten Einheit macht, so wird im Schlafe , d . i. bei un vollständiger Wirkung der Gesammt- Kraft , nur ein mangelhaftes Bewußtseyn eintreten können , was mithin nicht mehr im Stande ist , bestimmen , die Vernünftigkeit bedingend zu und zu ordnen , sondern das selbst den an dern Erscheinungen nur nebengeordnet , oder gar untergeordnet ist.
+
+In beiden Fällen kann die Vernünftigkeit sich nicht mehr als geordnete und zusammenhängende Einheit, sondern nur als verworrene , żerfireute , unzusam. menhängende Vielheit auffaffen, und der Zustand wird um so verworrener werden , je schwächer das mitwirkende Bewußtseyn ist , und um so lebhafter , bestimmter und deutlicher , je stärker und vorherrschender es ist. §.
+
+134.
+
+Wenn der Traum zum Theil die Folge eines natürlichen und gewöhnlichen Ereignisses ist , so sind alle
+
+Erscheinungen , welche ihren Grund in Zerrüttung und Krankheit des körperlichen Organismus , und in sofern in einem ungewöhnlichen Ereignisse haben , abnorme Zustände, die nur Folge eines unregelmäßigen Ereignisses [p. 321] sind.
+
+Ein unregelmäßiges Ereigniß ist aber die Krankheit des Körpers :
+
+denn Gesez und Regel ist die Gesundheit, und Abweichung von der Regel , die Krankheit. Wenn diese in einer zu heftigen Aufregung der Lebensthätigkeit besteht, also hauptsächlich Affection des Bluts und Nervensystems ist , so wird diese sich nicht allein auf den Leib beziehen können , sondern sich auch nothwendig auf die Vernünftigkeit beziehen müssen , also auch hier eine ungewöhnlich starke Aufregung veranlassen , der zu Folge sich diejenigen Thätigkeiten, die ohnehin eine besondere Anstrengung und Aufregung des Lebens erheischen, d . i . Bewußtseyn , Wille , Einbildungskraft, Gemüth , besonders stark entwickeln werden.
+
+Daher werden sich auch die übrigen Erscheinungen , Vorstellungen, Empfindungen , Gefühle , Gedanken , Begriffe, theils schneller und stärker , theils in ganz veränderter Ordnung , als gewöhnlich , entwickeln.
+
+Je stärker nuk die Aufregung des Lebens ist , desto vorherrschender werden auch jene Formen seyn , und um so schneller und gewaltsamer , werden die übrigen Gebilde hervortreten , oder viel» mehr hervorstürmen , dergestalt , daß sie vom Bewußtseyn gar nicht aufgefaßt, noch festgehalten werden kön
+
+Dieses heftige und gewaltsame Durcheinanderstürmen der geistigen Erscheinungen , bezeichnet man am passendsten mit dem Ausdruck :
+
+Siebérphantasieen , wodurch zugleich angedeutet wird , maaß von Kraft, daß sich das Ucberwelches im geistigen Leben wirksam geworden ist , vorzugsweise auf die Function der Phantasie geworfen, und diese, die im gewöhnlichen gesunden Zustande von Bewußtseyn und Vernunft bedingend bestimmt wird, zur herrschenden und bedingenden gemacht hat.
+
+[p. 322] §.
+
+135.
+
+Weissagungs sinn.
+
+Die Vernunftnatur hat die Fähigkeit , Blicke in die Zukunft zu thun , d . i . eben Weissagungssinn , der zwar nicht überall , und nicht immer wirksam ist. Denn jede besist unmittelbar ein allumfassendes , nur nicht durchweg als solches klar entwickeltes , Urerkennen , das folglich auch ein Erkennen von allem seyn wird , was nur irgend in der Zeit geschehen kann.
+
+Dieß Erkennen tritt oft plöglich als fertige , vollendete, ganz klar bestimmte Erkenntniß hervor , und wenn man nun diese , als solche, mit unbedingter Bestimmtheit ausspricht , ohne sich des Grundes deutlich bewußt zu seyn , so ist dies Weissagung, und wenn der Mensch anhaltend in einem fol chen Erkennen zu verweilen vermag , Weissagungsfinn.
+
+Eine Weissagung ist eigentlich weiter nichts , als die Erhellung des Ahnens zum Anschauen in gewis fer Beziehung , und folglich ist Weissagungssinn die Kraft, in gewisser Beziehung im Anschauen zu verweilen.
+
+plögliche Entwickeln des Ahnens zum Anschauen, ist entweder Folge einer großen innern Lebenskraft , oder eines außerordentlichen , äußern Ereignisses , das aufregend in das Wesen des Vernunftlebens eingreift ; in jenem Falle wird es anhaltend , in diesem nur vorübergehend seyn. Die Entwickelung des Ahnens zum Anschauen ist nichts ungewöhnliches , noch unregelmäßiges , vielmehr nothwendig und naturgemäß ; aber sie wird ungewöhnlich und unregelmäßig , also abnorm , wenn sie vorhanden ist , und doch nicht, als solche, vom Bewußtseyn erfaßt wird, folglich sich dem Erkennen , wie alle übrigen Erkenntnisse , [p. 323] darbietet, obschon sie sich auf ein Object bezieht , feine zum Inhalte hat , nämlich auf die Zukunft.
+
+findet folglich hier mehr ein augenblickliches , lebhaftes und deutliches Fühlen des unmittelbar gegebenen Urerkennens , als ein eigentliches Anschauen desselben statt. 136.
+
+Wenn in den abnormen Zuständen , eine bloße Abweichung von der Regel eintritt , so findet in den frankhaften eine völlige Umkehrung derselben statt , was oft unmittelbar in der Vernunftnatur , oft in Zerrüttung des physischen Organismus seinen Grund hat.
+
+Im regelmäßigen , also gesunden Zustande , müssen die gesammten Erscheinungen der Vernünftigkeit im Gleichgewicht, mit und unter einander, stehen , oder wenigstens bald zum Gleichgewicht zurück kehren können.
+
+Ist aber eine einzelne Erscheinung so vorherrschend geworden , daß sie alie andern nothwendig nach sich bedingend bestimmt, das Gleichgewicht aufhebt , und dessen Wiederherstellung unmöglich macht, so ist dies Umkehr des regelmäßigen Zustandes , mithin Krankheit.
+
+Eine solche Umkehr kann entweder dadurch veranlaßt seyn , daß sich die Vernünftigkeit der Betrachtung eines Gedankens , oder Begriffs , zu sehr und zu ausschließlich überläßt , oder dadurch , daß das Leben in der Wesenheit des Menschen gehindert wird , vollständig und gleichförmig zu wirken , also unvollständig und ungleichförmig wirkt , wodurch einzelne Erscheinungen besonders stark hervor gehoben
+
+Wenn nun so eine einzelne Erscheinung vorherrschend und bedingend wird und bleibt, so ist dieß fige Idee.
+
+Wenn aber keine vorherrschend und bedingend [p. 324] ist, so kann auch weder Einheit, noch Ordnung, noch Zusammenhang unter den Vielen stats finden, son. dern alle werden zerstreut , unzusammenhängend , ohne
+
+Ordnung , bunt und wild durch einander wirken , und so einen krankhaften Zustand veranlassen , Narrheit ist.
+
+welches die
+
+Die fire Idee läßt wenigstens die übrigen Erscheinungen noch wirksam werden , sofern sie nur nicht im Widerspruch mit ihr stehen , oder sich nicht auf sie beziehen , aber wenn die gesammten Erscheinungen gar nicht neben der einen ausschließlich vorherrschend gewordenen hervortreten können , sondern sich sämmtlich in diese auflösen und verlieren , folglich die ganze Vernunftnatur gleichsam nur zu einem einzigen Gedanken, oder Begriff wird , so ist dieß Wahnsinn , und ver bindet sich damit ein blinder , unwiderstehlicher Trieb zum Handeln , welcher den Menschen gewaltsam und bewußtlos mit sich fortreißt, so ist es Tobsucht, Raserei.
+
+Es bedürfen nun diese einzelnen geistigen Krant heitsformen der nähern Erörterung. §. 137.
+
+Die fire Idee. Die fire Idee ist ein ausschließlich vorherrschender und bedingender Gedanke und Begriff, was fets die
+
+Folge von einem unvollständigen und ungleichförmigen Wirken des Lebens ist. Wenn dies aus einer Störung des physischen Organismus hervorgeht , so ist die fire
+
+Idee eine Folge einer physischen Krankheit, jeder , sondern nur derjenigen , aber nicht welche die zartesten und feinsten Gefühls- und Empfindungswerkzeuge , d. i. Blutund Nervensystem , berühren , und dadurch eine
+
+[p. 325] Stockung in den wesentlichsten Lebensfunctionen veran. lassen.
+
+Eine der wesentlichsten Lebensfunctionen ist die freie und frische Blutcirculation; wird nun diese durch Verstopfung der Haupt- Blutgefäße gehemmt , so entsteht nothwendig eine allgemeine Stockung , auch in der Bewegung des geistigen Lebens , so daß dieß nicht alle Erscheinungen mit gleicher Kraft und Lebendigkeit zu entwickeln vermag, folglich einige nothwendig vorherr schend werden müssen. Hypochondrie :
+
+Dieß Uebel ist die Krankheit der aber wenn das gesammte Gefäßsystem verstopft ist, mithin das Blut fast gar nicht mehr circuliren kann , so veranlaßt dieß die Melancholie. In beiden Fällen wird das geistige Leben fast in seinem ganzen Gedankensystem unterbrochen und gehemmt ; nur einige wenige können ungehindert fortwirken.
+
+wird Einheit und Zusammenhang unter den Gedanken zerrissen , indem das Leben nur unvollständig und ungleichförmig zu wirken im Stande ist : nicht Bewußtseyn und Vernunft sind das ordnende und bestimmende Princip , sondern diejenigen Gedanken , oder Begriffe , welche vorzugsweise von dem unvollständig wirkenden Leben ent wickelt werden.
+
+Inzwischen ist doch die vollständige Wirk famkeit des Lebens in der Hypochondrie , nur in einem wesentlichen Hauptpuncte ununterbrochen und gehemmt, folglich wird es auch in der Vernunftnatur nur in einem Hauptpuncte unterbrochen und gehemmt seyn.
+
+Dem.
+
+nach werden zwar auch einzelne Gedanken , oder Begriffe, besonders stark entwickelt , oder vorherrschend gemacht werden , aber doch nur auf bedingte Weise , und in beEimmter Beziehung , dergestalt , daß die übrigen noch neben ihm erscheinen können , und von ihm zur Einheit [p. 326] geordnet und bestimmt sind : Die Hypochondrie läßt also noch Klarheit , Bestimmtheit und Deutlichkeit zu.
+
+Dagegen ist die vollständige Wirksamkeit des Lebens in der' Melancholie durchgehends unterbrochen und gehemmt, und also wird es auch in der Vernunftnatur durchgehends unterbrochen und gehemmt seyn
+
+Daher können in diesem Zustande nur einzelne Gedanken griffe vorherrschend bleiben , neben ihnen erscheinen.
+
+Be und alle andere gar nicht
+
+Klarheit , Bestimmtheit , Deutlichkeit können folglich hier nicht statt finden ; vielmehr verliert und verwirrt sich Alles zu einer einzigen trüben gestalt und formlosen Masse , und veranlaßt so einen Zustand , welcher mit Blödsinn und Wahnsinn verwandt
+
+Aber auch unmittelbar in der Vernunftnatur selbst kann der Grund der figen Idee liegen , nämlich in sofern sie sich ausschließlich mit einem Objecte beschäftigt. Denn da sie Abbild des Unendlichen ist, so soll ihr Streben im Grunde auf das Unendliche , als auf ihr Object, gehen ; aber vermöge ihrer Bedingtheit vermag sie sich nicht mit dem Unendlichen , wie mit ihrem Objecte , zu beschäftigen , sondern muß sich unvermeidlich zunächst auf das Bedingte, auf das Einzelne beziehen , jedoch offenbar nur auf bedingte Weise , indem sie beständig dahin streben muß , die Schranke ihrer Subjectivität zu überschreiten.
+
+In wiefern sich nun die bedingte Vernünftigkeit mit Absicht , ihre Bedingtheit erkennend , auf die Einzelnheit , aber nur bedingt , beschränkt , ist dies der Natur der Sache vollkommen angemessen : aber wenn sie sich mit Absicht auf ein einzelnes Object unbedingt beschränkt, wähnend , dieß sey das unendliche Object selbst, und befaffe Alles in sich , so ist dieß in der Bernünftigkeit [p. 327] eine verkehrte Richtung, und überläßt sie sich vollends unbedingt dieser Erfassungsart, so wird sie zulezt unvermeidlich zur vorherrschenden , oder figen , dergestalt, daß sie nur ihr gemäß, empfinden , fühlen , denfen kann.
+
+§.
+
+138.
+
+Die Narrheit. Die Krankheit der Narrheit unterscheidet sich von der firen Idee darin , daß in ihr kein einzelner Gedanke , oder Begriff vorherrschend und bedingend ist, sondern Alles eine einzige gestaltlose Masse bildet, und von der Melancholie darin , daß diese Masse nicht sowohl ohne
+
+Bewegung , als vielmehr zu sehr in Bewegung ist , d. i. daß alle einzelne Erscheinungen mit ungemeiner Schnelligkeit hervortreten und verschwinden , dergestalt, keine vom Bewußtseyn aufgefaßt , noch festgehalten wer den kann : Also ist hier zwar das geistige Leben stark genug , die einzelnen Erscheinungen zu entwickeln , aber nicht hinreichend stark, sie dauernd , scharf und bestimmt im Bewußtseyn zu erhalten.
+
+Der Narr also vermag keine seiner Vorstellungen und Gedanken festzuhalten , folglich kann sich seine Vernunftnatur nicht zu den Hauptfunctionen von Gedächtniß und Wille bestimmen , nur als Richtung zur Selbstentwickelung , d. i. als Phantasie, kann sie sich erfassen , die zur ausschließlich vorherr schenden und bedingenden wird.
+
+Daher kann der Narr nicht zur Besinnung über sich selbst kommen , und eben daher nichts wollen , noch ausführen, obschon er Alles [p. 328] beabsichtigt.
+
+Der Grund dieser Krankheit liegt in einer ungewöhnlichen Aufregung des Lebens , welche die Aufhebung des gewöhnlichen Gleichgewichts in der Vernünftigkeit zur Folge hat , 'jedoch nur in sofern , in wiefern eine Vernünftigkeit ursprünglich eine überwiegende und vorherrschende Phantasie , d. i. Nichtung zur Selbstentwickelung hatte , neben welcher sich schon im gewöhnli. 'chen Zustande, Bewußtseyn , Wille und Vernunft nur mühsam und schwach behaupten konnten , folglich in ihr, wenn sie noch stärker und überwiegender wird, nothwenDig ganz untergehen müssen. Grunde weiter nichts ist,
+
+Da nun Phantasie im als Offenbarungsart des Le-, bens , oder der Entwickelungsnothwendigkeit , so wird sie , wird dieses aufgeregt , ohnehin hervorragend und über wiegend werden , und ist es , im Verhältniß zum ' Ganzen, zu stark, so wird sie , wird es noch mehr aufgeregt , vollends die gewöhnliche Ordnung umkehren , und das
+
+Ganze ausschließlich nach sich bedingend bestimmen,
+
+§. 139.
+
+Wahnsinn.
+
+Wenn alle Formen und Functionen des geistigen Lebens in einem Gedanken , oder Begriff, untergegangen sind , so ist dieß Wahnsinn.
+
+In diesem Zustande laufen die Erscheinungen weder verwirrt und. bunt durch einander , wie in der Narrheit, noch bilden sie eine trübe , dumpfe form- und gestaltlose Masse , wie in der Schwermuth , vielmehr sind sie scharf, bestimmt und deutlich geordnet , aber sie zeigen sich beständig nur von Einer
+
+[p. 329] Seite aus , unter Einer Form.
+
+Das Leben in der Vernünftigkeit vermag sich nicht unendlich mannichfach zu gestalten, noch als ein unendlich Vielfaches zu erfassen, ohne jedoch dadurch zur Erkenntniß von ihrer einerLeiigen Natur zu gelangen ; sie erfaßt sich nur als einförmig , nur unter Vermittelung eines einzigen Gedan kens , oder hat von sich nur einen Gedanken .
+
+Aus dem Gesagten erhellt , daß die fire Idee die eigentliche Quelle und der wahre Siz des Wahnsinns sey.
+
+fire Idee hat schon den regelmäßigen Hergang der Dinge in der Vernünftigkeit unterbrochen und verkehrt , allein nur bedingt, und in bestimmter Beziehung.
+
+Allein sie wird diesen bald ganz unbedingt und in aller Beziehung unterbrechen und verkehren , wenn sie eine solche Kraft und ein solches Uebergewicht erhält, und dieß muß sie gewinnen , wenn sie fortdauernd in ihrer vorherrschenden Stellung bleibt , und nicht zum allgemeinen Gleichgewichtspunct zurück gedrückt wird , daß sie zu ihrem
+
+Bestehen die ganze Kraft des geistigen Lebens in Anspruch nimmt, und gleichsam aufzehrt.
+
+Sie kann sich inzwischen nicht von selbst zum Standpuncte des allgemeinen Gleichgewichts zurück senken , wenn der Umstand , welcher die ungewöhnliche Aufregung des Lebens veranlaßte, nicht bei Zeiten , und ehe sich der vorherrschende Gedanke gleichsam einzunisßten vermag , gehoben wird .
+
+Wenn ein vorherrschender Gedanke , oder Begriff bereits so stark und herrschend geworden ist, daß er sich weder selbst zum Standpuncte des allgemeinen Gleichgewichts zurück senken kann , noch dahin sich zurück drücken läßt!, so bleibt er vorherrschend und bedingend , aber nur bedingt, [p. 330] und in bestimmter Beziehung , während er im Allgemeinen im Gleichgewichte mit den übrigen bleibt, und ist alsdann fire Idee , oder er wird unbedingt und in aller Beziehung vorherrschend und bedingend , so, daß alle übrigen Gedanken und Begriffe durch ihn aufgehoben, und in ihm untergegangen sind , welches alsdann der Wahnsinn ist, oder endlich, er ist weder mit bestimmter Deutlichkeit vorherrschend , noch auch ganz zum Standpuncte des allgemeinen Gleichgewichts zurückgedrückt, sondern herrscht nur so vor , daß die Vernünf tigkeit , dadurch behindert , ihre Offenbarungsarten nicht zur Deutlichkeit zu entwickeln vermag , und dieß ist sodann Schwermuth. tur nach ,
+
+Die Vernünftigkeit kann , ihrer Na nicht anhaltend in gleich starker Spannung und Aufregung bleiben , sondern diese muß sich entweder steigern oder senken.
+
+Senkt sie sich, so wird die fixe
+
+Idee zum Standpuncte des allgemeinen Gleichgewichts zurück sinken ; steigert sie sich, so wird sie unbedingt, und in aller Beziehung vorherrschend , den.
+
+also Wahnsinn wer-
+
+Aber ihr Zurückfinken zum Standpunkte des allgemeinen Gleichgewichts , hat noch nicht unmittelbar zur Folge , die Wiederherstellung des natürlichen , oder gesunden Zustandes , d. i. eines harmonischen und vollständigen Gleichgewichts , welches nämlich nothwendig vor ausseßt, daß die Abspannung nicht zu stark sey.
+
+Abspannung wird aber unvermeidlich zu stark seyn , wenn die vorangegangene Anspannung, oder Aufregung zu stark, und zu anhaltend gewesen ist :
+
+in diesem Falle verliert sich zwar , so bald die Abspannung eintritt , der vorherrschend gewesene Gedanke , allein auch die übrigen ver [p. 331] lieren sich in eine allgemeine , und formlose Masse , trübe , dümpfe gestaltin welcher das Erkennen nichts
+
+Bestimmtes mehr aufzufassen, noch zu unterscheiden vermag.
+
+140.
+
+§. Raserei.
+
+Tobsucht.
+
+Im Wahnsinn ist schon die Vernünftigkeit völlig zerrüttet ; verbindet sich nun mit dieser totalen Zerrüttung noch ein blinder , gewaltsamer Trieb zum Handeln, so wird aus dem Wahnsinn, Naferei , wenn der Grund davon unmittelbar in der Vernunftnatur liegt ,
+
+Tobsucht , wenn sein unmittelbarer Anlaß eine Zerrüttung des physischen Organismus ist.
+
+Sie ist in beiden Fällen nur momentan und periodisch, und nur dann anhaltend und nothwendig , zugleich tödtlich , wenn ihr unmittelbarer Anlaß eine völlige Zerrüttung des physischen Organismus ist.
+
+Der Wahnsinn wird unmittelbar die Tobsucht begründen , wenn die Anspannung und Aufregung in solchem Grade steigt , daß sie in einen übermächtigen , unwiderstehlichen Trieb zum Handeln ausartet.
+
+Dieser Zustand kann aber nur vorübergehend seyn, weil der Anlaß dazu , jene gewaltsame und übermächtige Aufregung des Lebens , seyn kann .
+
+gleichfalls nur vorübergehend
+
+Wenn aber ein fortdauernder Anlaß dazu vorhanden ist , wie die völlige Zerrüttung des physischen Organismus , so wird zwar jener Zustand ebenfalls unvermeidlich dauernd seyn , aber eben deswegen eine Zerstörung der ganz bestimmt gegebenen Form, mittelst deren das Vernunftleben erschien , d. i . den Tod nothwendig [p. 332] zur Folge haben. Unterschied ,
+
+Dieß begründet allerdings einen offenbar aber nur von logischer Art, der mit den Begriffen, Raserei und Tobsucht, bezeichnet ist , indem Raserei der allgemein logische Begriff für Bezeichnung jenes Zustandes ist, sofern er anhält , und Tobsucht, der allgemein logische Begriff für Bezeichnung des Zustandes , sofern er nur vorübergehend ist :
+
+dem Wesen, der Sache nach, sind sie ein und eben dasselbe.
+
+### Zweites
+
+[p. 333]
+
+### Buch.
+
+### Kosmologie.
+
+8. 141. Nachweisung und Widerlegung des Skepsis .
+
+Die sinnlich wahrnehmbare Welt hat fast allen Denkern , die sich mit ihr beschäftigen , Anlaß zu skeptischen , oder sophistischen Ansichten gegeben , und es ist daher. nothwendig , zu zeigen, indem von ihr gehandelt werden soll , wie sie dazu unvermeidlich kommen mußten , und wo eigentlich Ausweg und Auflösung liegen.
+
+nächste Anlaß zu diesen skeptischen Ansichten liegt entweder in der Bedingtheit der Vernünftigkeit , oder in der Trüglichkeit der Sinnenwerkzeuge und der Erschei» nungen selbst, die theils blos als Erscheinungen , d. i.
+
+Gegenstände, denen Realität nur in sofern zukömmt, in wiefern sie eine erkennende Intelligenz dafür anerkennt , theils gar nur als leerer , nichtiger Schein , d. i. als etwas betrachtet werden , was schlechthin keine Realität hat , und es fragt sich daher , ob dieß nur eine
+
+Folge des grübelnden Verstandes sey , oder doch einiger [p. 334] maßen in der Natur der Sache begründet liege.
+
+Antwort wird sich finden, wenn man die Natur des Sinnlich - Wahrnehmbaren näher erwägt.
+
+Prüfen wir zuerst, wie und als was das Sinnlich - Wahrnehmbare sich unjerm Erkennen zeigt , so findet sich , daß es unserem Wahrnehmen eine Menge von Einheiten darbietet , die wir Dinge nennen , welche im Grunde nur ein loses Aggregat von vielen Eigenschaften und Merkmalen sind , die ihre wahre Wesenheit weder ausmachen , ständig andeuten können.
+
+noch voll.
+
+Denn diese vielen Merkmale und Eigenschaften sind nur an einander , mit einander, und höchstens zusammen , bilden folglich keine Einheit , sondern nur eine, aus vielen Einheiten gebildete, Gesammt. heit , indem man die vielen nicht simultan , d. i. in einer einzigen sinnlichen Erkenntniß , sondern successiv , in einer Reihe von vielen verschiedenen sinnlichen Erkenntnissen zu erfaffen vermag.
+
+Aber , zweitens , kommen einem Dinge seine Eigenschaften nur beziehungsweise zu , können folglich nicht dessen objectiv - reale , sondern nur dessen subjectiv - reale Wesenheit ausmachen.
+
+das , was einer Erscheinung schlechthin unbedingt und nothwendig , abgesehen von allen Beziehungen und Bedingungen zukommt , d. i. eben das Objectiv - Reale, kann in keiner einzigen sinnlichen Wahrnehmung und Erkenntuiß , die nur bedingungsweise auffaffen und erkennen , erkannt werden : was in einer sinnlichen Wahrnehmung und Erkenntniß von den Erscheinungen aufgefaßt wird , kann , wenn es nicht gar auf Täuschung , oder Irrthum beruht , lediglich in Bezug einer gewissen Erkenntnißform , an die der Mensch gewöhnlich gebunden ist, unvermeidlich, folglich blos subjectiv - real seyn.
+
+[p. 335] Die sinnliche Wahrnehmung und Erkenntniß ist nur beziehungsweise, denn sie ist einzig unter bestimmten Voraussetzungen möglich.
+
+Es muß nämlich , in sofern sie .
+
+möglich seyn soll , Eins vorausgesezt werden , das sinnlich wahrnehmen kann , und Eins , das sinnlich wahrgenommen werden kann . nur ein Wesen ,
+
+Sinnlich wahrnehmen kann aber das die Fähigkeit besißt ,
+
+Zusammentreffen mit andern Wesen , durch das hinsichtlich seines innern Zustandes , modificirt zu werden , und diese Modificationen zu erkennen , folglich Gefühl und Empfind. samkeit.
+
+Von dem Grade von Empfänglichkeit, den Gefühl und Empfindsamkeit in den Wesen haben , wird natürlich unvermeidlich die Art von Erkenntniß abhängen, die sie in Ansehung des Sinnlich - Wahrnehmbaren haben können ; da nun diese unendlich mannichfach und verschieden ist, so wird auch jene unendlich mannichfach und verschieden seyn , und kein Wesen kann daher von seiner individuellen Auffassungsart der Dinge, auf die Erfaffungsart eines andern von denselben schließen , weil jedes eine andere und verschiedene davon haben wird.
+
+Aus dem Gesagten erhellt , daß sich durch Vermittelung der sinnlichen Wahrnehmung von den Dingen weder eine sichere, noch eine allgemein gültige Erkenntniß gewinnen läßt , um so weniger , da auch der Umstand , ob und in wiefern ein Gegenstand soll sinnlich wahrgenommen werden können , ein bezüglicher ist.
+
+Nämlich ein
+
+Gegenstand kann nur sinnlich wahrgenommen werden , in wiefern er die Fähigkeit , oder Eigenschaft besißt , einen andern in Ansehung seines innern Zustandes zu modificiren, und diese Fähigkeit , das Licht :
+
+aber auch dieß ist unendlich mannichfach oder Eigenschaft ist [p. 336] and verschieden vertheilt, so daß sich ihre Einwirkung gar nicht im Allgemeinen , noch mit Nothwendigkeit bestimmen läßt , weil sie von dem größern , oder geringern , Grade von Licht abhängt , den das einzelne Wesen in sich hat.
+
+Das Objectiv - Reale würde folglich von den , durch Vermittelung der Sinnen- Wahrnehmung erfaßten, Erscheinungen gar nicht erkannt werden können , wenn es nicht eine unmittelbare Urerkenntniß davon gäbe.
+
+§. 142 . Folgt man inzwischen unbedingt dem Zuge von Betrachtungen , die mit dem Umstande , daß man in der sinnlichen Wahrnehmung nur Erscheinungen , und nicht Wesen, nur das Subjectiv - Reale , und nichts ObjectivReales zu erfassen vermag , unvermeidlich verknüpft sind . so wird man fast unwillkührlich zu der Ansicht geführt, daß die ganze Sinnenwelt nichts als leerer , nichtiger
+
+Schein sey, während das Geistig - Erkennbare allein Bedeutung , Wahrheit und Realität in sich besize.
+
+es zeugt von Mangel an wahrer speculativer Kraft, unbedingt diesem Zuge von Betrachtungen zu folgen, ohne den Punct aufzufassen , der sich so leicht darbietet, und von wo aus man nothwendig zur Einsicht von der Unhaltbarkeit und dem Verfehlten dieser Art des Philosophirens gelangen muß, oder von philosophischer Eitelkeit, die, sich das Ansehen von Neuheit, Sonderbarkeit und Tiefe zu geben , verdeckt.
+
+jenen Punct absichtlich umgeht, oder
+
+Zwar geben wir zu , daß diese Ansicht zum
+
+Theil unvermeidlich in der Natur des menschlichen Erfennens liegt, zum Theil in der Natur des Sinnlich. Wahrnehmbaren ; allein wir behaupten auch , daß unser
+
+[p. 337] Erkennen die Fähigkeit besiße, das ihr unmittelbar gegebene allumfassende Urerkennen zur Deutlichkeit zu entwickeln , oder sich zur Anschauung erheben könne , und so vermögend sey , das Objectiv- Reale von den Dingen zu erfassen, ja, daß selbst, abgesehen von dieser Fähigkeit, deren Nothwendigkeit und Gewißheit sich in einem
+
+, unmittelbar gewissen und unabweißlichen Gefühl zeigt , sich aus der Natur des Sinnlich - Wahrnehmbaren mit unbedingter Nothwendigkeit nachweisen lasse , daß es nicht blos Schein , oder Erscheinung , sondern ein wahrhaft Objectiv- Reales sey , was sich schon durch den Umstand allein begründen ließe , daß es aus , durch , mit , und in Gott sey , folglich als Offenbarungsart Gottes nichtblos leerer , nichtiger Schein seyn könne ; allein wir wollen nicht einmal diesen Umstand geltend machen , sondern es unmittelbar aus der Natur des Sinnlich - Wahrnehmbaren selbst nachweisen.
+
+§. 143 . Sezer, das Sinnlich - Wahrnehmbare sey nichts , als nichtiger , leerer Schein , so könnt Ihr dieß doch nur auf zweierlei Weise verstehen , indem Ihr nämlich entweder annehmt , daß Nichts außer uns sey , und das , was sich uns als äußerlich zeigt , habe nur seinen Siz in einer eigenthümlichen und besondern Bildung unserer Sinnenwerkzeuge, vermöge welcher sie Etwas als ein Aeußerliches unvermeidlich zur Erscheinung bringen müssen, oder vorausseßt , daß das , was wir als äußerlich auffassen , zwar wirklich außer uns sey , allein nicht so, wie wir es auffaffen, noch so , daß sich daraus auf das schließen ließe, was es wirklich ist.
+
+Die erste von die22 [p. 338] fen beiden Voraussetzungen ist aber grundløs , und muß folglich verworfen werden.
+
+Denn wären auch die Sinnenwerkzeuge von so wunderbarer Einrichtung , daß sie wirklich ein Aeußerliches darstellen könnten und müßten , so würde dieß dennoch keine Erkenntniß von einem äußerlichen Etwas begründen können . doch nur einen leeren , nen :
+
+Nämlich sie würden nichtigen Schein bewirken könaber der Schein selbst scheint nicht , denn er ist nichts und nichtig , sondern nur Etwas scheint , und also müßten die Sinnenwerkzeuge , ein Aeußerliches wahrzunehmen und zu erkennen , den Kern , oder Inhalt des
+
+Scheins , das, was den Schein bewirkt , und durch ihn angedeutet wird , können , aus sich darstellen , was Niemand behaupten , folglich schaffen noch zugeben wird , indem Keiner ihnen eine schaffende Kraft beimessen wird, dem sich in der That auch auf keinerlei Weise ein Sinn abgewinnen ließe.
+
+Demnach wird nur die zweite Voraussetzung gelten können , daß wirklich Etwas außer uns 'sey , allein nicht als das erkannt werden könne , was es wirklich in sich sey.
+
+Es ist inzwischen schon kurz zuvor bemerkt worden , daß nicht der Schein scheint , sondern, daß nothwendig ein Etwas vorausgesetzt werden müsse , welches gleichsam den Schein scheinen mache , hervor bringe, Scheins .
+
+oder ihn also ein objectiv - reales Substrat des
+
+Der Ausdruck , es scheint , kann folglich nichts anderes bedeuten , als : es zeigt und stellt sich Etwas unserer sinnlichen Wahrnehmung dar , aber so , daß das, was sich ihr zeigt und darstellt, oder von ihr aufgefaßt wird , nicht das ist, noch zunächst seyn kann , was die Wesenheit dieses Etwas ist, die ihm schlechthin unbedingt und abgesehen von allen Umständen , Verhältnissen [p. 339] und Beziehungen zukommt , mithin nicht das Objectiv - Reale , sondern nur die Wesenheit , oder Beschaffenheit , die ihm bedingt und beziehungsweise angehört, folglich das Subjectiv- Reale ; ja daß das Objectiv- Reale von den Erscheinungen wohl gar nicht erkennbar ist.
+
+ist gar nicht erkennbar , in sofern man die sinnliche Anschauung für die einzige , und das bedingte , mittelbar bestimmte Bewußtseyn für die höchste Erkenntnißform des menschilchen Erkennens hält , aber unter Voraussetzung einer unmittelbar gegebenen, allumfassenden Urerkenntniß wird es, zwar nicht erkannt , aber doch angeschaut werden können.
+
+Ein solches unmittelbares
+
+Erfassen von dem Objectiv- Realen wird stillschweigend anerkannt , wenn man zugiebt, was nicht zu läugnen ist, daß nicht der Schein , sondern ein Etwas scheine, und daß dieses Etwas in Ansehung seiner Wahrnehmbarkeit, d. i. eben des Scheinens , nicht von unserer Wahrnehmungsfähigkeit , sondern durch sich selbst bedingt sey.
+
+Daß jedes Wahrgenommene folglich ein Etwas in sich selbst, oder ein Objectiv - Neales sey , folgt mit Nothwendigkeit aus seiner Wahrnehmbarkeit, aber daß das Wahrgenommene nicht das Objectiv - Reale in und an ihm seyn könne, liegt in der Art unsers Wahrnehmens.
+
+Ursprünglich geht man inzwischen ganz unbefangen von der Vorausschung aus , daß das Wahrgenommene auch zugleich das Objectiv - Reale selbst sey , und es bedarf erst des philosophirenden Nachdenkens , um die Ansicht zu gewinnen, daß das Objectiv - Neale in und an den Erscheinungen nicht das zunächst Wahrgenommene sey, /noch auch in der sinnlichen Wahrnehmung und der dadurch. bestimmten mittelbaren Erkenntnißart erkannt werden [p. 340] könne , und gleichwohl vorausgesetzt werden müsse , weil wir sonst nichts wahrnehmen könnten , noch würden. Was berechtigt nun zu dieser Vorausseßung ? Das Sinnlich, Wahrgenommene , oder unser Erkennen ? Das SinnlichWahrgenommene stellt Einheiten dar , die aus einer Reihe von bezüglichen und bedingten Eigenschaften und Merkmalen zusammen gesezt sind , folglich nicht das Objectiv Reale in und an ihnen ausmachen können , und das Erkennen , an das wir gewöhnlich gebunden sind, vermöchte höchstens die Bedingtheit und Bezüglichkeit des Wahrgenommenen zu erfassen , und dem zu Folge einzusehen, daß es nicht das seyn könne , welches die Wahrnehmbarkeit möglich macht , noch daß dieß, auf diese Weise, begriffen werden könne, aber nicht das unbedingte und
+
+Unbezügliche zu erkennen .
+
+Dennoch fühlen wir in uns die Nothwendigkeit , bis zur Erkenntniß von diesem vor zudringen , der zu genügen uns möglich seyn muß , weil es sonst zwecklos wäre ; aber zwecklos kann in der durchaus gefeß- und zweckmäßigen Totalität des Alls nichts seyn , und also wird der Mensch jenem Gefühle zu genügen , oder das Objectiv - Reale von den Dingen zu erkennen im Stande seyn , aber nicht durch Vermittelung der mittelbar durch die Sinnenanschauung begründeten , sondern mittelst einer unmittelbar gegebenen allumfassenden Urerkenntniß , die, als solche deutlich erkannt , Anschauung ist. Die mittelbar bestimmte Erkenntniß erfaßt also , daß dem Sinnlich - Wahrnehmbaren ein objectiv - reales Substrat zum Grunde liege , was es nicht selbst sey , und die Anschauung erkennt das Was, oder die Wesenheit dieses ojectiv- realen Substrats , und giebt so dem Sinnlich - Wahrnehmbaren Bedeutung und
+
+[p. 341] Gehalt , und nur unter dieser Vorausseßung ist sie einer Beachtung werth.
+
+§. 144. Philosophische Ansicht von der
+
+Schöpfung der Erde und des Menschengeschlechts. Nothwendig muß man zwischen Erschaffung und Schöpfung unterscheiden.
+
+Denn Erschaffung ,
+
+Erzeugung eines schlechthin neuen , d. i .
+
+noch gar nicht vorhanden gewesenen Daseyns ist, unter Vorausseßung eines unendlich vollkommnen , und schlechthin wandellosen Urgrundes der Dinge , für dessen Anschauen nichts werden kann , sondern Alles unmittelbar schlechthin vollendet und vorhanden ist , ungedenkbar.
+
+Das All mit allen seinen
+
+Einzelnheiten ist folglich rein zeitlos vorhanden gewesen , oder eben nicht erschaffen.
+
+Dagegen ist eine Schöpfung , d. i. eine völlige und gänzliche Umgestaltung einer bereits vorhanden seyenden Form , also Vernichtung der Einen und Darstellung einer völlig neuen , nicht blos möglich , sondern selbst unvermeidlich und nothwendig. unendliche Leben , welches in Allem ist ,
+
+Denn das strebt. überall nothwendig seiner Natur zu genügen , oder sich als das Unendliche zu offenbaren , was es jedoch in der Einzelnheit , als solcher , nicht vermag : vielmehr kann es sich in der Einzelnheit als solcher nur bedingt , einem gewissen Puncte darstellen .
+
+und bis zu
+
+In wie weit es sich in einer Einzelnheit , als solcher , soll darstellen können , das bestimmt sich unvermeidlich nach der individuellen Lage und Beschaffenheit , oder nach der Form der Einzelnheit.
+
+Die Form folglich muß wie eine Schranke für das unendliche Leben betrachtet, und also zerstört werden: [p. 342] aber nicht das Wesen, sondern die Bedingungen , welche es zu einem bestimmt gegebenen Einzel - Wesen machen , müssen aufhören , oder werden zerstört.
+
+Je unvollständiger und mangelhafter die individuelle Beschaffenheit und Lage , oder Form der Einzelnheit ist , je weniger sich also das unendliche Leben in ihr genügen , oder befriedigen kann , um so eher muß sie , ihrer Form nach , zerstört und umgewandelt werden ; je vollständiger aber die Form ist , je mehr sich folglich das unendliche Leben in ihr offenbaren kann , auch bestehen.
+
+um so länger kann sie
+
+Da nun die Form einer Gesammtheit stets vollständiger seyn wird , wie die Form einer Einzelnheit, so wird auch jene länger bestehen , wie diese, deren Zerstörung leicht und unbemerkt seyn wird , während die Zerstörung und Umwandlung von jener nur unter gewaltsamen Erschütterungen herbeigeführt wer den kann.
+
+Solcher Zerstörungen und Umwandlungen, oder Schöpfungen , ist nun die Erde und die Menschheit unstreitig mehrern unterworfen gewesen ; allein nur zwei davon haben uns die uralten Sagen der Menschheit angedeutet und aufbewahrt. dichtungen ,
+
+Diese Sagen sind nicht Eroder priesterliche und philosophische Lehr- meinungen , dichterisch eingekleidet , sondern geschichtliche Thatsachen.
+
+Denn sie stammen aus Zeiten und von einem
+
+Menschengeschlechte her , dessen kindlicher , einfach treuer Character weder zu Dichtungen , oder Erdichtungen, noch zu philosophischen Abstractionen hinneigte , und wo sich auch weder Priester - Casten , noch Mysterien gebildet hatten , sondern wo man einfach und ungeschmückt wiedererzählte , was man entweder selbst gesehen und erlebt, oder was man von glaubwürdigen Männern gehört hatte .
+
+[p. 343] Erde
+
+Sagen erzählen nun von einer Schöpfung der und des Menschengeschlechts vor etwa 6000 JahDaß eine eigentliche Erschaffung nicht statt finden kann , ist schon gezeigt worden ; die Erde und das Menschengeschlecht ist folglich schlechthin zeitlos vorhanden gewesen , aber nicht ununterbrochen , in derselben Lage, Gestalt und Beschaffenheit, oder Form, was , aus ebenfalls bereits angedeuteren Gründen , unmöglich ist , vielmehr muß eine Zerstörung und Umbildung derselben statt gefunden haben , und nicht blos einer , sondern vielen wird sie schon unterworfen gewesen seyn. lige
+
+Diese völ
+
+Umgestaltungen der Form sind ; physische Epochen , die , ihrer Natur nach , nur in großen Zwischenräumen auf einander folgen können.
+
+Eine solche kann vor 6000 Jahren statt gefunden haben , in Gemäßheit , welcher die verschiedenen Elemente , Feuer , Wasser, Luft, Erde , zu einem einzigen , gährenden und glühenden Guß zusammenrannen, aus dem neues Leben überall üppig hervorschoß.
+
+Nach der Sage ist das Menschengeschlecht erst während dieser allgemeinen Umgestaltung erzeugt worden.
+
+Daß die Erde zuvor sollte ganz unbewohnt und unbewohnbar gewesen seyn , läßt sich nicht vorausseßen , obwohl es nichts Widersprechendes enthält , daß sie nicht vom Menschengeschlecht bewohnt , und nicht für dasselbe bewohnbar gewesen sey .
+
+Aber gefeßt auch , sie wäre von einem Menschengeschlechte bewohnt gewesen, so muß dieß wenigstens in dem allgemeinen Untergange gänzlich mit vertilgt worden seyn , weil auch die alten Sagen der
+
+Schöpfung eines Menschenpaares erwähnen.
+
+[p. 344] §.
+
+145.
+
+Der Mensch ist unzweifelhaft das vollkommenste der irdischen Geschöpfe , zu seiner Darstellung und Erzeugung wird folglich die höchste Schöpfer- und Zeugungskraft nöthig seyn , und da diese nur im ersten Anfange vorhanden gewesen seyn kann , so wird auch der Mensch, Uebrider Zeit nach, das erste Geschöpf gewesen seyn.
+
+gens wird er sich in jenem gährenden und glühenden Lebensmeere, wie man den aus dem allgemeinen Zusammenfluß aller Elemente entstandenen Guß nennen kann , oder in der Allmischung.nicht als Mann , noch als
+
+Weib gleich, sondern naturgemäß als Fötus , Kind und Knabe entwickelt haben , und erst als Jüngling herausgetreten seyn , was um so nothwendiger war , als er einerseits eines hinlänglichen Grades von physischer Reife und Kraft bedurfte , um sich die nöthigen Nahrungsmittel aufzusuchen , anderseits einen gewissen Grad von Stärke nöthig hatte , um sich , beym Zusammenstoß mit andern Geschöpfen , der gleich starken und minder starken zu erwehren , und den stärkern zu entziehen :
+
+als Fötus ,
+
+Kind und Knabe aber , wird er die nöthigen Nahrungsmittel in jener Allmischung an den vielen mehlichten und die sich in ihr fanden , pflanzenartigen Bestandtheilen , gefunden haben : Da übrigens jene Allmischung die höchste und glühendite Zeugungs- und
+
+Schöpferkraft in sich so wird sie auch sämmtliche Geschöpfe in der vollendetßten Form aus sich dargestellt haben. Nun ist hatte, im Menschen , wie bei allen Geschöpfen , weder die weibliche, noch die männliche , die vollendetste und schlechthin vollkommne Form , sondern die mann - weibliche ist [p. 345] es , und also wird der Mensch ursprünglich weder Weib: noch Mann allein , sondern Mannweib gewesen seyn , d. i. er wird nicht blos die Fähigkeit in sich gehabt haben , Leben aus sich darzustellen , sondern auch die Fähigkeit , dieß schlechthin allein , und nur durch sich zu bewirken.
+
+Allein er konnte diese Fähigkeit nur so lange in sich haben, als das Leben noch in seiner ganzen Fülle in ihm war , was jedoch in ihm , als einer Einzelnheit, nicht lange der Fall seyn konnte ; sobald also das Leben sich in ihm gesenkt hatte , mußte auch die Fähigkeit , ihm zu genügen , abnehmen , und wenn er folglich gleichwohl . Leben aus sich darstellen muß , weil er Leben in sich hat, so wird er dieß nicht mehr schlechthin durch sich allein bewirken können , sondern wird dazu nothwendig eines
+
+Mediums bedürfen .
+
+Seine Natur , die das unendliche
+
+Leben nicht mehr in sich zu fassen vermag , oder eine ungenügliche Offenbarungsart für dasselbe ist , wird sich in eine Zweiheit auflösen , oder zu einer gedoppelten in Mann und Weib zerseßen.
+
+Mit dieser Zersehung der
+
+`einigen menschlichen Natur , oder mit dieser Ablösung des Weibes aus dem Manne beginnen die Sagen.
+
+Den
+
+Umstand übrigens anlangend , in wiefern ein Menschenpaar das ganze Menschengeschlecht habe begründen können, ist zu erwägen , daß, sofern ein Gegenstand als Mittel zur Erfüllung eines Zweckes hinreicht, der unendliche gefeß- und zweckmäßige Urgrund nicht mehrere dazu bestimmen kann und wird , weil dies überflüßig und also unnüß und somit zwecklos wäre.
+
+Ein Menschenpaar aber reicht zur Begründung des ganzen Menschengeschlechts vollkommen hin.
+
+Denn dick dieß Urpaar lebte noch rein naturgemäß, konnte folglich unendlich länger, als irgend [p. 346] eins nachher , im vollen Besitz seiner ganzen unentweih- ten Zeugungs- und Lebenskraft bleiben , mithin eine zahlreiche Schaar von Kindern erzeugen , die mit ihren Kindern vereint, bald um ihr gemeinschaftliches Aelternvaar ein kleines Volk bildeten , das sich auf einen kleinen Be1 zirk zusammen gedrängt und beengt sah , der daher bald nicht mehr im Stande war , jene zahlreiche Menge zu ernähren , und so entstand früh die Nothwendigkeit, andere Wohnpläße aufzusuchen , oder zu wandern.
+
+Daher erklärt es sich , wie die urälteste Geschichte fast aller Völker von Wanderungen erzählt.
+
+Es kommt hinzu , daß die verschiedenen Erdtheile in jenen Urzeiten noch nicht durch Meere und Seen von einander getrennt wa ren, sondern sicher , wie sich aus mehreren Umständen mit Bestimmtheit darthun läßt, in Zusammenhang mit einander standen , so , daß man leicht und ohne Hindernisse nach allen Puncten hinkommen konnte , folglich die Bevölkerung der Erde von einem Puncte aus möglich war.
+
+Wenn man nun erwägt , mittel, wie Boden, Nahrungs-
+
+Clima nothwendig auf die Einwanderer bedin gend einwirken mußten, so ist es erklärlich , daß aus dem einen, von einem gemeinschaftlichen Stammpaare begründeten, Menschengeschlecht im Laufe der Jahrtausende, während welcher noch eine zweite allgemeine Umformung, mittelst allgemein verbreiteter Wasserfluten, statt gefunden hat, welche zugleich die Erdtheile auseinander riß, Meere dazwischen goß ,
+
+Boden und Elima veränderte , die scheinbar verschiedenen Menschenstämmme geworden sind .
+
+Nothwendig muß das Urpaar in einer Erdgegend erschienen seyn , die eine üppige Fruchtbarkeit des Bodens, und eine heiße Temperatur des Climas hatte :
+
+[p. 347] denn das Urpaar trat unbekleidet , mit schwacher , ungeübter Kraft aus der glühenden Allmischung hervor. Sollte es also bestehen , und sich gehörig entwickeln können, so mußte nothwendig einerseits das Clima eine solche Beschaffenheit, oder Temperatur haben , die nicht in auffallendem Widerspruch mit der Beschaffenheit, oder Temperatur der Allmischung , die es kurz zuvor verließ, Ateht, anderseits der Boden so fruchtreich seyn , daß er die wenigen einfachen Nahrungsmittel , deren es bedurfte, von selbst erzeugte , oder daß sie sich ihm wenigstens ohne große Mühe und Kraftanstrengung abgewinnen ließen. Da nun kein Land jene nothwendigen Bedingungen so in sich vereinigt , wie Indien , so wird auch Indien das Stamm- und Mutterland der Menschheit gewesen seyn ; dort wird es sich an den fruchtreichen Ufern des Ganges , dem Garten der Erde , entwickelt haben , bis zunehmende Kraft und vermehrte Bedürfnisse es zu Anstrengungen und Mühseligkeiten trieben , und so seiner Kindheit ein Ende machten.
+
+§. 146. Von der
+
+Mischung der Naturstoffe in der
+
+Natur des Menschen und seinem Verhältnisse in dieser Beziehung zur übrigen Natur. Da die Erde mit all ihren Geschöpfen ein Erzeugniß der , aus der Vermischung sämmtlicher Elemente entstandenen , Allmischung ist, so wird sie mit sammt ihren Geschöpfen die Natur jener Almischung nothwendig in sich tragen, d. i. ihre Natur wird eine Mischung der Hauptelemente von Licht, Luft , Feuer, Wasser und Erde
+
+[p. 348] Aber es fragt sich , ob die Elemente in jener Mischung in gleichem Verhältnisse zu einander stehen werden , oder nicht, und wie ihr Verhältniß in dieser Beziehung eigentlich sey.
+
+Die Erde bildet mit allen ihren
+
+Geschöpfen eine schlechthin nothwendig in sich verbundene Einheit , oder Totalität , Natur.
+
+und ist in sofern schlechthin
+
+Aber man kann sie auch auf bedingte Weise als einen Inbegriff betrachten , und in ihr zwischen beseelten und unbeseelten , oder höhern und niederen Geschöpfen unterscheiden , hungsweise Natur.
+
+Wenn nun die Natur überhaupt dieß ist sodann bezie .
+
+unbedingt die Allmischung , als solche, nicht blos in sich enthalten, sondern sie auch, als solche, in sich erfassen kann, so wird zwar die Natur beziehungsweise die Allmischung unbedingt ebenfalls in sich enthalten müssen , aber sie wird sie nicht als solche zu erfassen vermögen , sie nur, ihren einzelnen Hauptbeziehungen nach , erfassen können , ohne daß sie dadurch etwas anders würde , als sie wirklich ist.
+
+Denn wie das Vernunftleben überall unbedingt gleich sehr Vernunftleben ist und bleibt , ungeachtet es von vielen seiner Offenbarungsformen bald vorzugsweise als Vernunft , bald hauptsächlich als Leben erfaßt wird , und nirgends ein mehr , oder weniger in dieser Beziehung statt finden kann , eben so die Allmischung überall unbedingt gleich sehr Allmischung , wenn sie auch den einzelnen Formen bald als Licht , oder als Feuer , Luft, Wasser und Erde erscheinen sollte , und ein mehr , oder weniger ist auch hierbei nirgends gedenkbar. Aber wie wir von unserm gewöhnlichen bedingten Standpunct nicht umhin können, eine Abstufung unter den
+
+Wesen , nach Maaßgabe der Erfassungsart , welche sie [p. 349] von ihrer objectiv - realen Wesenheit , d. i. von dem Vernunftleben in sich haben , festzustellen , eben so müssen wir , von demselben Standpuncte aus , unvermeidlich unter den irdischen Geschöpfen eine Abstufung von höhe. ren und niederen, nach Maaßgabe der Art , wie sie und in welcher Hauptbeziehung sie besonders die Almischung in sich erfassen , feststellen.
+
+In sofern sich nun die Classification der irdischen Geschöpfe darnach unvermeidlich bestimmt , in welcher Hauptbeziehung sie die Almischung in sich erfassen , so werden offenbar diejenigen die höhern seyn , welche die reineren und edlerern Elemente vorzugsweise in sich erkennen , diejenigen aber , die niedrigern , welche die niederern und geringerern Elemente hauptsächlich in sich erfassen :
+
+nun sind die reinern und edlern
+
+Elemente Licht und Feuer, die niederern und geringerern aber Luft, Wasser , Erde, diejenigen Geschöpfe also , welche Licht und Feuer vorzugsweise in sich erkennen , sind die höhern, diejenigen dagegen , welche Luft , Wasser, Erde hauptsächlich in sich erkennen , die niederern. vollendetste irdische Geschöpf, der Mensch, wird also vorzüglich Licht in sich haben , oder das Licht wird sich am stärksten in ihm aussprechen , und in ihm vorherrschend seyn.
+
+§. 147. Philosophische Nachweisung des Dréyeinigkeitssystem s. Die Anschauung von drei Beziehungen ist uralt und fast allgemein verbreitet , und sie geht nicht blos auf den Urgrund der Dinge , sondern kann auch in andern Verhältnissen [p. 350] nachgewiesen werden , muß folglich wesentlich in der Natur des menschlichen Erkennens begründet liegen.
+
+So kann man die fünf Elemente , Licht , Feuer,
+
+Luft, Wasser und Erde auf drei , Licht , Wasser , Erde , zurück bringen , indem Feuer in Licht , sich verliert.
+
+Luft in Wasser-
+
+Wenn wir übrigens von Elementen reden , so verstehen wir darunter nicht, wie die neuern Chemiker und Physiker , nicht mehr zerseß- und theilbare Be sandtheile , sondern mit den Alten gewisse Hauptbeziehungen, auf die sich eine Menge von Neben- und Unterbeziehungen zurück bringen , oder unter die sie sich subsumiren lassen.
+
+Eben so können in der Ethik alle Tugenden auf die drei Haupttugenden von Liebe , Glaube, Hoffnung , und die gesammten Laster , auf die drei Hauptlaster von Lüge ,
+
+Treulosigkeit und Falschheit zurückgebracht werden.
+
+In der Psychologie sind die gesammten geistigen Thätigkeiten unter die drei Offenbarungsarten von Gemüth , Vernunft und Einbildungskraft zu subsumiren ; die Farben verschwimmen in roth , blau und gelb ; die Dinge sind Leben gebend , nehmend, fortpflanzend , oder Mann , Weib , Kind.
+
+Auch der Urgrund läßt sich vorzugsweise in dreifacher Beziehung betrachten , in sofern er sich nämlich als schrankenlose Vernunft offenbaren will , als unendliches Leben offenbaren muß, und als All wirklich geoffenbart hat; in sofern er sich offenbaren will , oder unendliche Vernunft ist, ist er Gott der heilige Geist ; in sofern er sich offenbaren muß , oder unendliches Leben ist, ist er
+
+Gott der Bater ; und in sofern er sich als All wirklich geoffenbart hat, ist er Gott der Sohn.
+
+In äßtheti-
+
+scher Hinsicht sind die Dinge plastisch , wenn sie dem
+
+[p. 351] Elemente , des Starren, d . i. der Erde , verwandt sind , dichterisch , wenn sie in Beziehung zum Elemente der Beweglichkeit , d. i. dem Wasser, stehen , und musikalisch wenn sie sich auf das Element der Harmonie , d. i . dem Lichte , beziehen , oder sind nur Plastik , Dichtkunst und Musik.
+
+Der Grund von dieser Anschauungsart liegt in der Natur des menschlichen Erkennens , was nämlich, vermöge seiner Bedingtheit , zunächst die Dinge, nicht ihrer objectiv - realen, sondern nur ihrer subjectiv - realen Beschaffenheit nach aufzufassen , oder sie nicht | simultan , d . i . als Totalität , sondern nur successiv , d. i. als Inbegriff zu erkennen vermag , also als Aggregate von Vielheiten. Bald aber erkennt es , daß diese Vielen sich unter drei Hauptbeziehungen subsumiren lassen , und hat es sich , mittelst einer außerordentlichen Anstrengung im philosophirenden Nachdenken zur Anschauung erhoben , so erfaßt es unmittelbar damit das schlechthin Einerleiige aller Erscheinungen.
+
+Da aber dies immer nur Ausnahme, jenes Regel ist , so bleibt die Erfassungsart der Dinge in dreifacher Beziehung stets eine unvermeidliche , bedingt nothwendige, folglich subjectiv - reale , in der Natur des menschlichen Erkennens begründete.
