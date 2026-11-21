@@ -1,0 +1,1898 @@
+---
+title: Anti-Sextus, oder über die absolute Erkenntniss von Schelling
+author: Johann Kaspar Götz
+id: 5979
+id_en: 248078722658
+markers: [print]
+pairs_by: print
+year: 1807
+title_en: Anti-Sextus, or On Schelling's Absolute Knowledge
+original_language: de
+translation_language: en
+edition_layout: clean text (both columns typeset)
+paragraphs: printed
+source: the 1807 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+canonical: "[p. N] marks where printed page N begins (the 1807 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Anti-Sextus appeared anonymously at Heidelberg (Pfähler) in 1807 as a reply to Franz Berg's Sextus (1804) and is attributed to Johann Kaspar Götz; "von Schelling" on the title page names the subject, not the author. Whoever wrote a book printed in 1807 died well before 1931, so the text is out of protection, and the edition (1807, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 5979)
+---
+
+# [J. K. Götz], *Anti-Sextus, oder über die absolute Erkenntniss von Schelling* (1807) — *Anti-Sextus, or On Schelling's Absolute Knowledge*
+
+Conventions: `[p. N]` marks where printed page N begins; quoted blocks (`> …`) are the original, plain paragraphs the English, paired paragraph by paragraph; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+> ANTI - SEXTUS, ODER
+
+ANTI-SEXTUS, OR
+
+> ÜBER DIE ABSOLUTE ERKENNTNISS
+
+ON ABSOLUTE KNOWLEDGE
+
+> Friedrich Wilh. Jos, vou VON SCHELLING.
+
+Friedrich Wilh. Jos. von Schelling.
+
+> Valentin;
+
+Valentin;
+
+> Was dir, Vernunft, genügt in einem Augenblicke, Wird gut auch nach Aconen seyn,
+
+What suffices you, reason, in a single moment, will be good still after aeons,
+
+> BLIOT
+
+BLIOT
+
+> BOUTERWEK,
+
+BOUTERWEK,
+
+> SI
+
+SI
+
+> C
+
+C
+
+> B
+
+B
+
+> N ER
+
+N ER
+
+> E
+
+E
+
+> HE
+
+HE
+
+> SN
+
+SN
+
+> HEIDELBERG, 1807. VERLEGT DURCH DIE PFAHLERISCHE BUCHHANDLUNG,
+
+HEIDELBERG, 1807. PUBLISHED BY THE PFÄHLER BOOKSHOP,
+
+## VORERINNERUNG. — PRELIMINARY NOTE.
+
+> Vor nicht langer Zeit kam uns Bergs; Professors der Kirchengeschichte zu Würzburg, Streitschrift: „Sextus oder über die absolute
+
+Not long ago there came before our eyes the polemic of Berg, Professor of Church History at Würzburg: "Sextus, or on the Absolute
+
+> Erkenntniss von Schelling " , zu Gesicht. Unwille ergriff uns über die Behandlung, die hier Schelling nicht nur, sondern gewissermassen auch denen, die die Lehre dieses Philosophen kennen und schätzen, widerfährt. Bis jetzt schwieg man über diese Behandlung so gänzlich stille, als wäre jenem Manne und seiner Lehre, so wie den Freunden der [p. 4] letztern recht geschehen; allein wir sind nicht gesonnen, länger zu schweigen, und wir legen das Resultat unsrer Prüfung der Bergischen Streitschrift dem unpartheiischen Publikum in diesen Bogen vor.
+
+Knowledge of Schelling". Indignation seized us at the treatment that befalls here not only Schelling but, in a certain measure, also those who know and esteem the doctrine of this philosopher. Until now this treatment has been passed over in such complete silence as if that man and his doctrine, as well as the friends of the [p. 4] latter, had been served rightly; but we are not minded to keep silent any longer, and we lay the result of our examination of Berg's polemic before the impartial public in these sheets.
+
+> Wir sagen: Das Resultat unserer Prüfung:
+
+We say: the result of our examination:
+
+> denn eine Widerlegung jener polemischen Schrift zu verfassen, fiel uns um so weniger ein, als diese sich selbst positiv widerlegt. Auch keine Vertheidigung der Lehre Schellings wollten wir schreiben: denn diese muss in und durch sich selbst, d. i. in der Vernunft des Menschen sich vertheidigen.
+
+for it occurred to us all the less to compose a refutation of that polemical writing, since it refutes itself positively. Nor did we wish to write a defence of Schelling's doctrine: for this must defend itself in and through itself, that is, in the reason of man.
+
+> Auch wollten wir nicht beweisen, es gebe ein Absolutes (denn daran zweifelt Berg - zu seiner Rechtfertigung sey es gesagt - gar nicht; aber er sucht es aufser dem Universum, und will auf der Causalitätsleiter zu demselben.
+
+Nor did we wish to prove that there is an Absolute (for Berg does not doubt this at all, be it said in his justification; but he seeks it outside the universe, and wants to climb on the ladder of causality
+
+> emporsteigen). Darthun wollten wir vielmehr [p. 5] das Absolute müsse der Ercheinungswelt immanent seyn; die Mifsgriffe aufdecken, welche Berg sich zu Schulden kommen lässt; zeigen dass dieser gar nicht befugt war, über Schelling sein Richtscheit fallen zu lassen. Hiemit wäre der Endzweck dieser Bogen deutlich angegeben. Dass, genau angesehen, unsere
+
+up to it). We wished rather to show [p. 5] that the Absolute must be immanent in the world of appearance; to uncover the blunders of which Berg makes himself guilty; to show that he was not at all entitled to let his rule fall upon Schelling. With this the final purpose of these sheets would be clearly stated. That, closely regarded, our
+
+> Gegenschrift nichts enthalte, als was jener Absicht entspricht, wird jedem, wie wir hoffen, von selbst einleuchten, wenn wir gleich gestehen müssen, dass wir weitläuftiger geworden sind, als es anfänglich unser Plan mit sich brachte.
+
+counter-writing contains nothing but what corresponds to that intention will, we hope, be evident of itself to everyone, even though we must confess that we have become more expansive than our plan at first entailed.
+
+> Wir haben mehr als einmal Reflexion durch Reflexion zurückgewiesen. Aber man bedenke, mit wem wir es zu thuu haben. Mit einem Manne, dem rein formales Denken Alles in Allem, das non plus ultra alles Philo. sophirens ist, liefs sich kaum anders sprechen. [p. 6] Bei einem andern Gegner würden wir gewiss anders zu Werke gegangen seyn. Wir konnten nicht umhin, den Gegensatz zwischen Denken und Seyn fest ins Auge zu fassen, und beständig auf ihn zurück zu kommen.
+
+More than once we have repelled reflection by reflection. But let it be considered with whom we have to deal. With a man to whom purely formal thinking is all in all, the non plus ultra of all philosophizing, it was scarcely possible to speak otherwise. [p. 6] With another opponent we should certainly have gone to work otherwise. We could not avoid fixing our eye firmly on the opposition between thinking and being, and coming back to it constantly.
+
+> Warum? Dieses wird aus dem
+
+Why? This will become clear from the
+
+> Sextus überhaupt nicht nur, sondern insbesondere auch daraus klar, dass Berg die Materie eine reelle Opposition Gottes
+
+Sextus generally, and not only so, but in particular also from the fact that Berg calls matter a real opposition of God,
+
+> Negation des Absoluten also eine nennt, Aber eben desswegen haben wir auch mit guten Vorbedachte die sämmtlichen Ansichten, welche der Reflexion vom Universum möglic sind, zwar kurz, aber doch umfassend vorau geschickt.
+
+and thus a negation of the Absolute. But for that very reason we have also, with good forethought, sent ahead all the views of the universe that are possible to reflection, briefly indeed, but nonetheless comprehensively.
+
+> Wenn Berg die Lehre Schellings auf eine gar nicht verdeckte Weise, Wahnsinn nennt, (der übrigen Invektive nicht zu gedenkeu) so erwäge er, dass er dadurch nicht blos [p. 7] diesen, sondern jeden sonst ruhigen Denker, beleidigen musste, weleher in derselben Wahrheit und Beruhigung findet. Sind wir uns daher nicht so gleich geblieben, als wir uns in der That vorgenommen hatten; so mag es Berg geduldig auf seine Rechnung hinnehmen.
+
+If Berg, in a manner not at all veiled, calls Schelling's doctrine madness (not to mention the other invective), let him consider that by this he was bound to insult not merely [p. 7] Schelling but every otherwise calm thinker who finds truth and tranquillity in it. If, therefore, we have not remained as even with ourselves as we had in fact resolved; let Berg patiently take this upon his own account.
+
+> Noch finden wir aber nicht sowohl unserer Leser, als vielmehr unseres Gegners willen nöthig, folgende Bemerkung anzufügen. Wenn wir sagen: Es gibt (ist) ein Absolutes u. s. w. , so erkennen wir gar wohl \ den Widerspruch, der für das reflectirte Denken darin ligt; ob aber auch die Vernunft einen darin finde, ist eine ganz andere Frage. L
+
+We still find it necessary, however, not so much for the sake of our readers as rather for that of our opponent, to add the following remark. When we say: there is (exists) an Absolute, etc., we recognize quite well the contradiction that lies therein for reflected thinking; but whether reason too finds one therein is quite another question.
+
+> Dieses gilt noch von vielen andern, dem Anscheine nach, widersprechenden Bestimmungen, die aber keineswegs der Vernunft, sondern [p. 8] nur unserer Sprache zugeschrieben werden dürfen.
+
+This holds also of many other determinations that are contradictory in appearance, but which may by no means be ascribed to reason, but [p. 8] only to our language.
+
+> Endlich ersuchen wir unsere Leser aufs geziemendste, ruhig bis zum Schlusse fortzulesen und Bergs Sextus dabei nicht aus den Augen zu verlieren. Der
+
+Finally we request our readers, most respectfully, to read on calmly to the end and not to lose sight of Berg's Sextus meanwhile. The
+
+> Im Jänner 1807. Verfasser.
+
+In January 1807. Author.
+
+> I.
+
+I.
+
+> [p. 9] Den Gesetzen des Reflexes zu Folge zerfällt das Universum in zwei Sphären, welche man Denken und Seyn nennt. Alles, was ist, schliefst der Verstand in die Grenzen der Körper- und Geisterwelt ein, und zwar so, dass beide keinen gemeinschaftlichen Berührungspunkt haben sollen. II.
+
+[p. 9] In accordance with the laws of the reflex the universe falls apart into two spheres, which are called thinking and being. Everything that is, the understanding encloses within the bounds of the bodily world and the spirit-world, and indeed in such a way that the two are to have no common point of contact. II.
+
+> Der Gegensatz zwischen Körperlichkeit und Geistigkeit, Subjectivität und Objectivität, Materialität und Idealität, wird aber absolut, wenn in dem, was dem Verstande ausschliefslich Körper heifst, nichts enthalten seyn soll, von dem, was sonst Geist genannt wird, und umgekehrt. III.
+
+The opposition between corporeality and spirituality, subjectivity and objectivity, materiality and ideality, becomes absolute, however, when in that which for the understanding is exclusively called body, nothing is to be contained of that which is otherwise called spirit, and conversely. III.
+
+> -Fragt man: Können absolut Entgegengesetzte miteinander in Wechselwirkung stehen? so muss die Antwort folgende seyn: a) Zwischen absolut Entgegengesetzten hört nothwendig alle Wechselwirkung auf:
+
+If it is asked: can things absolutely opposed stand in reciprocal action with one another? the answer must be the following: a) Between things absolutely opposed all reciprocal action necessarily ceases:
+
+> [p. 10] denn beide Sphären sollen ja einander fremd, es soll in keiner etwas von dem enthalten seyn, was in der andern enthalten ist. Steht A unter dem Charakter der Absolutheit B, unter demselben Charakter gedacht, entgegen, so sind sie zwei geschlossene Welten, deren keine mit der andern etwas gemein hat. b) Zwei Absolute heben einander auf: denn es wäre eines durch das andere beschränkt. Absolut und doch beschränkt seyn, ist ein Widerspruch, der sich unter keiner Bedingung denken lässt. IV.
+
+[p. 10] for the two spheres are, after all, to be foreign to one another; in neither is anything to be contained of what is contained in the other. If A, under the character of absoluteness, stands opposed to B, thought under the same character, then they are two closed worlds, neither of which has anything in common with the other. b) Two absolutes cancel one another: for the one would be limited by the other. To be absolute and yet limited is a contradiction that cannot be thought under any condition. IV.
+
+> Die gemeine Empirie kann die Frage: wie ist die Synthesis alsolut Entgegengesetzter möglich, nicht anders, als so, beantworten: Sie muss möglich seyn, weil sie wirklich ist. Hier wird die Synthesis als unerklärbar vorausgesetzt, und folglich ist die Analysis das höchste Geschäfte des gemeinen Empirikers. Allein er verfällt nothwendig in absoluten Dualismus: denn der Widerspruch, welcher sich über die Grundsphären verbreitet, erstreckt sich auf alle und jede un Geht die gemeitergeordneten Synthesen.
+
+Common empiricism cannot answer the question: how is the synthesis of things absolutely opposed possible, otherwise than thus: it must be possible, because it is actual. Here the synthesis is presupposed as inexplicable, and consequently analysis is the highest business of the common empiricist. But he necessarily falls into absolute dualism: for the contradiction that spreads over the fundamental spheres extends to each and every subordinate synthesis. If common
+
+> ne Empirie über die gegebene Synthesis und deren Analysis hinaus, so verlässt sie die ihr eigene Region und wird in gewisser Hinsicht [p. 11] transcendent:
+
+empiricism goes beyond the given synthesis and its analysis, it leaves the region proper to it and becomes in a certain respect [p. 11] transcendent:
+
+> dann heifst sie aber nicht mehr gemeine, sondern erklärende Empirie, wiewohl durch ihr Verfahren der Widerspruch keineswegs vertilgt wird. Wir werden hierüber die nöthigen Erläuterungen sogleich mittheilen. V.
+
+but then it is no longer called common, but explanatory empiricism, although its procedure by no means does away with the contradiction. We shall at once communicate the necessary elucidations on this point. V.
+
+> Setzt man die Synthesis als erklärbar; so lässt man entweder die Objectivität aus der Subjectivität oder umgekehrt, entweder nach dem Grundsatze der Causalität oder der Substanzialität hervorgehen.
+
+If the synthesis is posited as explicable; then one lets either objectivity proceed from subjectivity or conversely, either according to the principle of causality or to that of substantiality.
+
+> Auf diese Weise entsteht entweder ein gemeiner Idealismus oder Realismus, (wir würden lieber mit andern sagen Idealistik oder Realistik). Also die gegebene Synthesis wird hergeleitet entweder a) aus reiner isolirt gesetzter Subjectivität, (b) oder aus reiner isolirt gesetzter Objectivität, c) oder endlich aus beiden zugleich, jedoch in diesem Falle so, dass zwischen beiden keine wechselseitige, sondern nur einseitige Bestimmung Statt haben soll.
+
+In this way there arises either a common idealism or realism (we would rather say, with others, idealistics or realistics). Thus the given synthesis is derived either a) from pure subjectivity posited in isolation, (b) or from pure objectivity posited in isolation, c) or finally from both at once, yet in this case so that between the two there is to be no reciprocal, but only one-sided determination.
+
+> Hier wird entweder das
+
+Here either the
+
+> Subjective oder Objective als Substanz angesehen. Ist das Subjective absolute Sub [p. 12] stanz, so ist das Objective absolutes Accidens und umgekehrt. Zwischen beiden findet also ein verschiedener Rang Statt. Die Glieder der Synthesis sind unter dem Character der Absolutheit einander zwar coordinirt, aber zugleich auch subordinirt. Das Eine wird als das absolut Bestimmende, das Andere, als das absolut Bestimmtwerdende angesehen. Eines von beiden wird unter dem Character des absoluten
+
+subjective or the objective is regarded as substance. If the subjective is absolute sub[p. 12]stance, the objective is absolute accident, and conversely. Between the two, therefore, there is a difference of rank. The members of the synthesis are indeed coordinated with one another under the character of absoluteness, but at the same time also subordinated. The one is regarded as the absolutely determining, the other as the absolutely determined. One of the two is thought under the character of absolute
+
+> Todes gedacht. * ) Zu der letztern Classe der erklärenden Empiriker scheint Berg zu gehören, welches daraus erhellt, dass er den Kôrperstoff der Welt, als ewig aufser Gott vorhanden, annimmt und die Materie eine reelle Opposition Gottes nennt.
+
+death. *) To the latter class of explanatory empiricists Berg seems to belong, which is evident from the fact that he assumes the bodily stuff of the world as eternally present outside God and calls matter a real opposition of God.
+
+> VI.
+
+VI.
+
+> Diese scheinbar verschiedenen Ansichten des Universums müssen etwas näher beC leuchtet werden.
+
+These apparently different views of the universe must be illuminated somewhat more closely.
+
+> a) Der empirische Idealist setzt ursprünglich reine Subjectivität, als den Entstehungs- und Erklärungsgrund der gegebenen Synthesis. Hier gilt das Gesetz der Causalität. Das rein Subjective ist ihm die absolute Ursache aller gegebenen Subjectivität und Objectivität.
+
+a) The empirical idealist originally posits pure subjectivity as the ground of origin and explanation of the given synthesis. Here the law of causality holds. The purely subjective is for him the absolute cause of all given subjectivity and objectivity.
+
+> Soll etwas aus einem andern hervorgehen; so muss es in demselben enthalten seyn, Da nun das rein Subjective, [p. 13] als das Erste und Ursprüngliche (der Zeit nach) gesetzt wird, so fragt sich, wie aus einem rein Subjectiven ein Objectives hervorgehen könne? b) Der empirische Realist setzt ursprünglich reine Objectivität, als den Entstehungs- und Erklärungsgrund der gegebenen
+
+If something is to proceed from another; it must be contained in it. Now since the purely subjective [p. 13] is posited as the first and original (in time), the question is how from something purely subjective something objective could proceed? b) The empirical realist originally posits pure objectivity as the ground of origin and explanation of the given
+
+> Synthesis Auch hier fragt sich wieder, wie aus einem rein Objectiven ein Subjectives hervorgehen könne? c) Der gemischte Idealismus setzt ursprünglich nicht reine Subjectivität, als absoluten Entstehungs- und Erklärungsgrund der gegebenen Synthesis; sondern Subjectivität und Objectivität zugleich von Ewigkeit her coёхіstirend.
+
+synthesis. Here too the question again is how from something purely objective something subjective could proceed? c) Mixed idealism originally posits not pure subjectivity as the absolute ground of origin and explanation of the given synthesis; but subjectivity and objectivity at once, coexisting from eternity.
+
+> Das Materielle steht hier dem Substantiellen (Geistigen) als ein absolut Todtes entgegen. Würde es nicht durch die absolute Substanz bestimmt, so läge es in einem ewigen Todtesschlafe. d) Der gemischte Realismus setzt ursprünglich nicht reine Objectivität, als den Entstehungs- und Erklärungsgrund der gegebenen Synthesis; sondern Objectivität und Subjectivität zugleich von Ewigkeit her coexistirend, jedoch so, dass das Objective, als das absolut Bestimmende, das Subjective aber als das absolut Bestimmtwerdende gilt.
+
+The material here stands opposed to the substantial (spiritual) as something absolutely dead. Were it not determined by the absolute substance, it would lie in an eternal sleep of death. d) Mixed realism originally posits not pure objectivity as the ground of origin and explanation of the given synthesis; but objectivity and subjectivity at once, coexisting from eternity, yet so that the objective counts as the absolutely determining, the subjective, however, as the absolutely determined.
+
+> [p. 14] In Hinsicht auf die zwei letztern Ansichten des Universums ist zu bemerken, dass zwei
+
+[p. 14] With regard to the two last views of the universe it is to be remarked that two
+
+> Absoluta gesetzt werden, welche zwar nicht der Zeit, sondern nur dem Range nach verschieden sind.
+
+absoluta are posited, which differ indeed not in time, but only in rank.
+
+> Wir sehen über diesen Grundwiderspruch hinweg, und erinnern noch überdies soviel, dass das, was absolut todt ist, todt bleibt und durch nichts zum Leben erweckt werden kann. VII.
+
+We pass over this fundamental contradiction, and remind the reader besides only of this much, that what is absolutely dead remains dead and can be awakened to life by nothing. VII.
+
+> Ausser den so eben aufgestellten (empirischen)Ansichtendes Universums, giebt es keine. Die grosse Frage: Wie ist die gegebene Synthesis möglich wird durch keine derselben gelöst und alle bieten dem Skepticismus Blössen.
+
+Besides the (empirical) views of the universe just set out, there are none. The great question: how is the given synthesis possible, is solved by none of them, and all expose weak points to scepticism.
+
+> ww
+
+ww
+
+> Ist eine höhere Ansicht unmöglich; so thut man wohl, wenn man auf Philosophie Verzicht leistet. Dann ist alles nur Meinung, *) und unser Leben weiter nichts als ingens fabula et longum mendacium. * Socrates, Democritus, Anaxagoras, Empedocles, omnes prope veteres, nihil cognosci, nihil percipe, nihil sciri posse dixerunt; angustos sensus, imbecillos animos, brevia vitae curricula, et ut Democritus, in profundo veritatem esse demersam; opinionibus et institutis omnia teneri, rihil veritati relinqui, deinceps omnia tenebris circumfusa esse dixerunt.
+
+If a higher view is impossible; one does well to renounce philosophy. Then everything is mere opinion, *) and our life nothing more than ingens fabula et longum mendacium [a vast fable and a long lie]. * Socrates, Democritus, Anaxagoras, Empedocles, omnes prope veteres, nihil cognosci, nihil percipi, nihil sciri posse dixerunt; angustos sensus, imbecillos animos, brevia vitae curricula, et ut Democritus, in profundo veritatem esse demersam; opinionibus et institutis omnia teneri, nihil veritati relinqui, deinceps omnia tenebris circumfusa esse dixerunt. [Socrates, Democritus, Anaxagoras, Empedocles, almost all the ancients said that nothing can be cognized, nothing perceived, nothing known; that the senses are narrow, minds weak, the courses of life brief, and, as Democritus said, that truth is sunk in the deep; that everything is held by opinions and institutions, nothing is left to truth, and, in short, that everything is wrapped in darkness.]
+
+> Cic. acad. quaest.
+
+Cic. acad. quaest.
+
+> [p. 15] Und doch hängt die Ruhe und die ganze Würde der Menschheit von der Lösung des Problems ab: Giebt es absolute Wahrheit und liegt sie innerhalb der Sphäre unsers Erkennens? Oder sind wir zu einem ewigen Herumtappen verurtheilt- dazu verurtheilt, im Widerspruche mit uns selbst, eine Zeit lang zu végetiren Ein Versuch, jene Fragen auf eine die Vernunft befriedigende Art zu beantworten, verdient Achtung auch dann, wenn er nicht gelingt.
+
+[p. 15] And yet the tranquillity and the whole dignity of humanity depend on the solution of the problem: is there absolute truth, and does it lie within the sphere of our knowing? Or are we condemned to an eternal groping about, condemned to vegetate for a while in contradiction with ourselves? An attempt to answer those questions in a manner that satisfies reason deserves respect even when it does not succeed.
+
+> Aber Schelling gelang er.
+
+But in Schelling it succeeded.
+
+> Zwar fand er jene Idee, durch welche wir mit uns selbst und dem sich widersprechenden
+
+He did not, indeed, properly find that idea through which we are reconciled with ourselves and with the self-contradicting
+
+> Universum ausgesöhnt werden, nicht eigentlich: denn sie ist wirklich in jedem Menschen da; aber er zog sie, ihrem wahren Gehalte nach, wieder hervor und, gleich einem Lichtstrahl aus einer bessern Welt, fällt sie in unsern Geist herüber.
+
+universe: for it is actually there in every man; but he drew it forth again according to its true content, and, like a ray of light from a better world, it falls across into our spirit.
+
+> In den Zeiten der Vorwelt wohnte sie auch rein und ungetrübt in jenen vorzüglichern Genien, die, frei von den Banden des Sinnenlebens, in sich selbst ein wahrhaft freies Leben lebten und sich selbst
+
+In the times of the primeval world it dwelt, pure and untroubled, also in those more excellent geniuses who, free from the bonds of the life of the senses, lived in themselves a truly free life and became for themselves
+
+> Bürgen ihres ewigen Seyns wurden. Berg, Professor der Kirchengeschichte zu Würzburg, hat es nun gewagt, die Idee des Absoluten das absolute, in keinem Widerspruche [p. 16] befangene Erkennen (Denken), wie Schelling es aufstellt, für eine Chimäre zu erklären.
+
+guarantors of their eternal being. Berg, Professor of Church History at Würzburg, has now ventured to declare the idea of the Absolute, the absolute knowing (thinking) caught up in no contradiction [p. 16] as Schelling sets it up, to be a chimera.
+
+> Wie und mit welchem Rechte er das gethan habe, darüber werden die folgendsn Blätter Auskunft geben. Für's Erste haben wir uns über jene Idee zu äussern.
+
+How and with what right he has done so, the following pages will give information. For the first, we have to declare ourselves on that idea.
+
+> §.
+
+§.
+
+> [p. 17] Der Charakter der Idee des Absoluten kann nicht positiv angegeben werden; alle Beschreibungen (Definitionen) desselben können nur eine negative Bedeutung haben.
+
+[p. 17] The character of the idea of the Absolute cannot be stated positively; all descriptions (definitions) of it can have only a negative meaning.
+
+> Jedes
+
+Every
+
+> Wort in unserer Sprache bezeichnet einen Begriff, also entweder ein Subjectives oder Objectives; allein gerade dieser Gegensatz soll in jener Idee aufgehoben werden.
+
+word in our language designates a concept, thus either something subjective or something objective; but precisely this opposition is to be cancelled in that idea.
+
+> Wollte man also das Absolute an einem Begriffe nachweisen, so hiesse dás, es zu etwas Subjectiven oder Objectiven machen. Wenn daher einige Sätze in Bezug auf das, was absolut ist, aufgestellt werden; so haben sie einen nur negativen Werth.
+
+If, then, one wished to point out the Absolute in a concept, that would mean making it into something subjective or objective. If, therefore, some propositions are set up with reference to that which is absolute; they have a merely negative value.
+
+> a) Das Absolute kann nur Einheit, seyn. Wir bestimmen dieses dahin: Alle Differenzen müssen von ihm negirt werden. Würde in das Absolute eine Differenz gesetzt; so hörte es auf, wesentlich zu seyn, und würde zu einem blessen Gedankendinge (noumen [p. 18] b) Das Absolute kann also kein Gattungsbegriff seyn. Begriff und Begriffenes (Allgemeines und Besonderes) ist vielmehr in ihm Eins. Diese Einheit wäre somit keine formale, sondern eine reale.
+
+a) The Absolute can only be unity. We determine this as follows: all differences must be negated of it. Were a difference posited in the Absolute; it would cease to be essential, and would become a mere thing of thought (noumenon). [p. 18] b) The Absolute can therefore be no generic concept. Concept and what is conceived (universal and particular) are rather one in it. This unity would thus be no formal, but a real one.
+
+> c) Das Absolute ist also Totalität. Es darf nichts geben, das ihm an sich entgegen. gesetzt wäre, d) Das Absolute müsste also der Erscheinungswelt immanent seyn, d. i. ihre Realität beruhte auf dem ihr immanenten Absoluten. Denken und Seyn wären also Erschei nungsweisen desselben. e) Das Absolute kann, seinem Wesen nach, nicht anders, als ideal, in seiner Idealität aber muss es zugleich als real bestimmt werden.
+
+c) The Absolute is therefore totality. There may be nothing that would be opposed to it in itself. d) The Absolute would therefore have to be immanent in the world of appearance, that is, its reality would rest on the Absolute immanent in it. Thinking and being would therefore be modes of appearance of it. e) The Absolute can, according to its essence, be determined only as ideal, but in its ideality it must at the same time be determined as real.
+
+> Hieraus würde nothwendig folgen, dass alles Seyn ein Seyn in den Ideen, und daher der Gegensatz des Idealen und Realen im absoluten Erkennen aufgehoben sey. §.
+
+From this it would necessarily follow that all being is a being in the ideas, and hence that the opposition of the ideal and the real is cancelled in absolute knowing. §.
+
+> 2.
+
+2.
+
+> Wirklich ist es uns unmöglich, eine Realität zu denken, welche nicht als ideal bestimmt werden müsste. Die Erscheinungswelt als real und aufser dieser das Absolute als real, folglich zwei einander widersprechende Realisäten, setzen, oder, was dasselbe ist, das Abtolute objectiviren, ist ein Widerspruch, den [p. 19] die Vernunft unter keiner Bedingung verträgt. Die Verirrung, welche der Verstand durch ein solches
+
+It is indeed impossible for us to think a reality that would not have to be determined as ideal. To posit the world of appearance as real and, outside it, the Absolute as real, consequently two mutually contradictory realities, or, what is the same, to objectify the Absolute, is a contradiction that [p. 19] reason tolerates under no condition. The aberration of which the understanding makes itself guilty through such a
+
+> Verfahren zu Schulden kommen lässt, liegt offenbar darin: die Idee des Absoluten ist in jedem Menschen da; dieses ist unläugbar; aber der Verstand, als blosses Begriffsvermögen, fasst sie auf eine wider.
+
+procedure plainly lies in this: the idea of the Absolute is there in every man; this is undeniable; but the understanding, as a mere faculty of concepts, apprehends it in a contra-
+
+> sprechende Art auf. Da er nämlich jene Idee, die das Wesen der Vernunft constituirt und die er selbst nicht entbehren kann, in sich, als schon gegeben, vorfindet; so bringt er sie, vermöge seiner Natur, mit sich selbst und der von ihm sogenannten realen Welt in Gegensatz, d. h. er objectivirt das Absolute und behauptet, dass es Allem, was er real nennt, fremd sey. §. 3.
+
+dictory way. For since it finds that idea, which constitutes the essence of reason and which it cannot itself do without, present within itself as already given; it brings it, by virtue of its nature, into opposition with itself and with the world it calls real, that is, it objectifies the Absolute and asserts that it is foreign to everything it calls real. §. 3.
+
+> Wird ein so ungeheurer Widerspruch zum Princip einer vorgeblichen Philosophie gemacht; so ist klar, dass alles Wissen, dessen man sich rühmen möchte, nichts sey.
+
+If so monstrous a contradiction is made the principle of a pretended philosophy; it is clear that all knowledge one might boast of is nothing.
+
+> Das
+
+The
+
+> Universum ist absolut entzweiet und alle Harmonie, die man postulirt, ist ebenfalls nichts. Was helfen alle Postulate, wenn man mit absoluter Evidenz einsieht, dass das, was man postulirt, auf dem Standpunkte, den man gewählt hat, als eine widersprechende Realität erscheine, also nichts sey und dafs man
+
+universe is absolutely divided, and all harmony one postulates is likewise nothing. What use are all postulates, if one sees with absolute evidence that what one postulates appears, from the standpoint one has chosen, as a contradictory reality, is thus nothing, and that one
+
+> [p. 20] Unsinn postulire? Das Universum so bestimmen, heifst es vernichten, und es wird warlich aus seiner Vernichtuug nicht dadurch zur Realität hervorgerufen, wenn man postulirt, dass man den Widerspruch als nichts ansehen soil.
+
+[p. 20] postulates nonsense? To determine the universe thus is to annihilate it, and truly it is not called forth from its annihilation into reality by one's postulating that one is to regard the contradiction as nothing.
+
+> 5. 4.
+
+§. 4.
+
+> Eine solche Philosophie ist weiter nichts als Empirie: denn sie kommt nie über die widersprechenden Erscheinungen hinaus. Das an sich Wahre (Absolute) bleibt ihr ewig unzugänglich. Wir kennen hierüber die Resultate von Kants Kritik und Fichte's Wissenschaftslehre.- Kann aber gleich der Verstand, der nichts weiter, als ein Auffassungsvermö gen des Gegebenen ist, als solches, das an sich Wahre nicht erkentien; folgt denn daraus, dass es sonst auf keinem andern Wege zu finden sey? Ist denn deswegen, weil er, unser Verstand, mithin ein blos passives
+
+Such a philosophy is nothing more than empiricism: for it never gets beyond the contradictory appearances. The true in itself (the Absolute) remains eternally inaccessible to it. We know the results of Kant's critique and Fichte's Wissenschaftslehre on this point. But even if the understanding, which is nothing more than a faculty of apprehending the given, cannot as such know the true in itself; does it follow from this that it is to be found by no other way? Because the understanding, our understanding, and hence a merely passive
+
+> Vermögen, den absoluten Gegensatz, der in der höchsten Synthesis, seiner Ansicht zu Folge, liegt und liegen muss, aufzulieben nicht fähig ist, das an sich Reale, das Eine, in welchem das absolut entzweite Universum harmonisch wird, (der Reflexionsphilosophie zu Folge harmonisch seyn soll,) auch für die Vernunft, als Productionsvermögen (denn [p. 21] dass sie wirklich ein actives Vermögen sey, ist schon längst anerkannt) unerreichbar? Wenn Schelling dieses Eine, an welchem uns so viel gelegen ist, suchte und, wie wir überzeugt sind, nicht vergeblich suchte, und es uns mit einem Aufwande von Geisteskräften, der zur Bewunderung hinreisst, näher bringen will; so fragen wir; Was wollen denn unsere Reflexions- und Ergründungsphilosophen, die sich in einem ewigen Widerspruch hertumdrehen, wenn sie das Identitätssystem verketzern und verlästern? §.
+
+faculty, is not capable of cancelling the absolute opposition that, according to its view, lies and must lie in the highest synthesis, is the real in itself, the One in which the absolutely divided universe becomes harmonious (is supposed to be harmonious, according to the philosophy of reflection), therefore also unattainable for reason, as a faculty of production (for [p. 21] that it is in fact an active faculty has long been acknowledged)? If Schelling sought this One, which concerns us so much, and, as we are convinced, did not seek it in vain, and wishes to bring it nearer to us with an expenditure of the powers of spirit that sweeps one to admiration; then we ask: what do our philosophers of reflection and of fathoming want, who turn round in an eternal contradiction, when they decry the system of identity as heretical and revile it? §.
+
+> 5.
+
+5.
+
+> Das Erkennen jenes Einen und Absoluten (durch keinen Gegensatz Bedingten,) folglich in und durch sich selbst Wahren, kann, wie es sich von selbst versteht, nicht auf dem gewöhnlichen Wege, dem des Gegebenseyns (denn es soll in eben das, was gegeben ist, nämlich jene widersprechende Synthesis, harmonisch werden) vor sich gehen.
+
+The knowing of that One and Absolute (conditioned by no opposition), and consequently true in and through itself, cannot, as goes without saying, proceed on the usual way, that of being-given (for in it precisely what is given, namely that contradictory synthesis, is to become harmonious).
+
+> So lange man bei den blosen Erscheinungen (der Form, unter welcher die Dinge sich darstellen,) stehen bleibt; so lange kann auch über das, was wesentlich an ihnen ist, nichts ausgemacht werden. Aber gerade von diesem, dem We. sentlichen, allen Dingen Gemeinschaftlichen, behaupten wir, dass es weder erscheine, noch [p. 22] erscheinen könne, sondern unter entgegenge. setzten Formen, oder dein Character der Duplicität hervortreten müsse.
+
+As long as one stops at mere appearances (the form under which things present themselves), so long can nothing be settled about what is essential in them. But precisely of this, the essential, what is common to all things, we assert that it neither appears nor [p. 22] can appear, but must come forth under opposed forms, or the character of duplicity.
+
+> Diese Formen sind eben, nach unserer Behauptung, Denken und Seyn. Ob diese unsere Behauptung richtig sey, desgleichen, ob es nicht mehr als gerade diese zwei Formen geben, unter wele chen das Absolute objectiv werden, oder für die Erscheinung hervortreten kann, das wird sich späterhin noch besonders, überhaupt aber aus unserer ganzen Darstellung ergeben. §.
+
+These forms are, according to our assertion, precisely thinking and being. Whether this assertion of ours is correct, and likewise whether there may not be more than just these two forms under which the Absolute can become objective, or come forth for appearance, will emerge later in particular, but in general from our whole exposition. §.
+
+> 6.
+
+6.
+
+> Die Differenzen in der Erscheinung, welche nach uns nur Bilder jenes Einen und Identischen sind, können als solche nicht qualitativ d. i. wesentlich, sondern nur quantitativ, d. i, formal seyn. Absolute (qualitative) Differenzen kann es im Universum nicht geben. Wir könnten dieses auch so ausdrücken:
+
+The differences in appearance, which according to us are only images of that One and identical, cannot as such be qualitative, that is, essential, but only quantitative, that is, formal. Absolute (qualitative) differences there cannot be in the universe. We could also express this thus:
+
+> Es giebt weder reine Subjectivität, noch reine Objectivität; sondern in der Subjectivität ist zugleich Objectivität und umgekehrt. Wir dürfen wohl nicht erinnern: dass diese Bestimmungen einzig und allein nur für die Erscheinung gelten, das, was nicht erscheint, das An-sich des Universums, ist weder Subjectivität noch Objectivität; sondern das, was unter der Form eines Subjectiven [p. 23] und Objectiven für die Erscheinung hervor. tritt.
+
+There is neither pure subjectivity nor pure objectivity; but in subjectivity there is at the same time objectivity, and conversely. We need hardly remind the reader that these determinations hold solely and only for appearance; that which does not appear, the in-itself of the universe, is neither subjectivity nor objectivity; but that which comes forth for appearance under the form of something subjective [p. 23] and objective.
+
+> Denken und Gedachtes sind also, der
+
+Thinking and the thought are therefore, according to
+
+> Form nach undabstrahirtvom Wesen, nichts; sondern nur real in so ferne, als Ein Wesen in ihnen sich ausdrückt. Man sieht schon daraus, welche Blindheit es verrathe, wenn man sagt, das Identitätssystem sehe die Dinge für an sich nichts an oder hebe die Realität der Erscheinungswelt auf. Nicht diese, sondern der Widerspruch, den die Reflexion darein setzt, wird aufgehoben; die widersprechende Form, die etwas für sich seyn will, wird vernichtet; aber keineswegs das, was wahrhaft real an den Dingen ist. §.7.
+
+form and abstracted from essence, nothing; but real only in so far as one essence expresses itself in them. One sees already from this what blindness it betrays when it is said that the system of identity regards things as nothing in themselves or cancels the reality of the world of appearance. Not this, but the contradiction that reflection puts into it is cancelled; the contradictory form, which wants to be something for itself, is annihilated; but by no means that which is truly real in things. §. 7.
+
+> Soll das, dem Verstande zufolge, mit sich selbst im Widerspruche stehende Universum vernünftig gedacht werden können; so mufs angenommen werden, dass alles, was erscheint, entweder Subject - Object, oder Object-Subject sey. Diesem Satze gemäss gehört der menschliche Geist mit zur Erscheinungswelt, d. h. er ist eine Synthesis, mithin nicht das, als was er erscheint, reine Subjectivität.
+
+If the universe, which according to the understanding stands in contradiction with itself, is to be capable of being thought rationally; then it must be assumed that everything that appears is either subject-object or object-subject. According to this proposition the human spirit also belongs to the world of appearance, that is, it is a synthesis, and hence not what it appears as, pure subjectivity.
+
+> Aber eben so wenig ist das, was man sonst todte Materie nennt, blosse Objectivität. Die Differenz für die Erscheinung beruht lediglich darauf, dass in dem, was man sonst reine
+
+But just as little is what is otherwise called dead matter mere objectivity. The difference for appearance rests solely on this, that in what is otherwise called pure
+
+> [p. 24] Subjectivität nennt, der negative Factor für die Wahrnehmung gänzlich zurücktritt.
+
+[p. 24] subjectivity the negative factor recedes entirely for perception.
+
+> Im entgegengesetzten Falle verschwindet der positive Factor, Folgendes wird das Gesagte einleuchtender machen.
+
+In the opposite case the positive factor vanishes. The following will make what has been said more evident.
+
+> Das Absolute, als A = A, demnach als rein identische Thätigkeit gedacht, kann nur erscheinen unter der Form entgegengesetzter Thätigkeiten.
+
+The Absolute, thought as A = A, accordingly as purely identical activity, can appear only under the form of opposed activities.
+
+> Als AA kann es für die Erscheinung nicht hervortreten. So Wir genommen ist es die tiefste Ruhe. sagen: Unter der Form, entgegengesetzter Thätigkeiten: denn beide Thätigkeiten sind ja nicht realiter einander entgegengesetzt. Ihr Reales ist vielmehr das Absolute und Identische selbst.
+
+As A = A it cannot come forth for appearance. Taken so, it is the deepest rest. We say: under the form of opposed activities: for the two activities are not, after all, opposed to one another realiter. Their real is rather the Absolute and identical itself.
+
+> Will man, wie wir bereits thaten, die eine von jenen Thätigkeiten die positive, die andere die negative, oder weil die positive zu einer unendlichen. Expansion, die negative zu einer unendlichen Contraction strebt, die eine die expandirende, die andere die contrahirende oder limitirende nennen; SO kämen wir dadurch der wahren Ansicht um so näher.
+
+If one wishes, as we have already done, to call the one of those activities the positive, the other the negative, or, because the positive strives toward an infinite expansion, the negative toward an infinite contraction, to call the one the expanding, the other the contracting or limiting; we would thereby come all the nearer to the true view.
+
+> Man nenne sie aber, wie man will; uns ist dieses gleichgültig: denn nicht auf das Wort, sondern auf die Sache kommt es uns an Vielleicht sähe man es lieber, wenn wir sagten, es gebe eine subjective und ob [p. 25] jective, eine freie und eine gebundene, oder eine geistige und materielle Thätigkeit, §.
+
+But let them be called what one will; to us this is indifferent: for what matters to us is not the word but the thing. Perhaps one would prefer it if we said that there is a subjective and an ob[p. 25]jective, a free and a bound, or a spiritual and a material activity. §.
+
+> 8.
+
+8.
+
+> Abstrahirt von jenen in der Form einander entgegengesetzten Thätigkeiten ist Alles
+
+Abstracted from those activities opposed to one another in form, everything is
+
+> Einheit (reine Intelligenz *) ) . Zur Anschauung dieser Einheit, deren Realität uns bis jetzt noch problematiseh seyn mag, könnte ein absolutes Apperceptionsvermögen deswegen gefordert werden, weil sie als Erscheinung nicht gegeben werden kann. Was erscheint ist immer ein Subjectives oder Objectives, nach unserer Ansicht ein gewisses
+
+unity (pure intelligence *)). For the intuition of this unity, whose reality may still be problematic to us at this point, an absolute faculty of apperception might be required, because it cannot be given as appearance. What appears is always something subjective or objective, in our view a certain
+
+> Quantum von positiver und negativer Thätigkeit.
+
+quantum of positive and negative activity.
+
+> In allen Erscheinungen sind jene Thätigkeiten durch einander beschränkt, so dass keine von ihrer Schranke völlig frei wird, weil sonst nichts erscheinen könnte.
+
+In all appearances those activities are limited by one another, so that neither becomes wholly free of its limit, because otherwise nothing could appear.
+
+> Wird aber, wie gefordert werden darf, von der Form der Subject - Objectivität abstrahirt; so führt uns dieses auf den Satz: Die Allheit ist Einheit und die Einheit Allheit. Oder: Die allen Dingen zukommende Realität ist Einheit.
+
+But if, as may be demanded, one abstracts from the form of subject-objectivity; then this leads us to the proposition: allness is unity and unity allness. Or: the reality belonging to all things is unity.
+
+> Oder: Das Wesen aller Dinge ist Eins, *) Je tiefer man in die Natur eindringt, je mehr reduoirt sich alles auf geistige Kräfte.
+
+Or: the essence of all things is one. *) The deeper one penetrates into nature, the more everything reduces itself to spiritual forces.
+
+> [p. 26] Keine Synthesis ist denkbar ohne Thesis ✓und Antithesis. Ohne diese Triplicität der Formen ist die Erscheinungswelt überhaupt nicht möglich.
+
+[p. 26] No synthesis is thinkable without thesis and antithesis. Without this triplicity of forms the world of appearance is not possible at all.
+
+> Bei dem einzelnen Producte kommt es nur darauf an, ob in demselben mehr das Thetische, oder Antithetische, oder Synthetische zum Vorschein kommt. Aber jene Triplicität gilt, wie gesagt, nur für die Erscheinung; für die absolute Apperception ist die Synthesis jene Thesis selbst. Es bliebe daher nur eine thetische und antithetische Thätigkeit übrig. Da aber jenes Antithetische nur für die Form gelten kann, unter welcher das Absolute (das Thetische, als rein Identisches) objectiv wird (sich selbst reflectirt) ; so ist klar, dass für die Vernunft die Antithesis nichts gilt und dass es ausser dem Absoluten, dessen Bilder und Abdrücke die Erscheinungen sind, nichts geben könne. §.
+
+In the individual product it depends only on whether in it more the thetic, or the antithetic, or the synthetic comes to view. But that triplicity holds, as was said, only for appearance; for absolute apperception the synthesis is that thesis itself. There would therefore remain only a thetic and an antithetic activity. But since that antithetic can hold only for the form under which the Absolute (the thetic, as purely identical) becomes objective (reflects itself); it is clear that for reason the antithesis counts for nothing, and that there can be nothing outside the Absolute, whose images and impressions the appearances are. §.
+
+> 10.
+
+10.
+
+> Sobald daher von dem An - sich der Erscheinungen die Rede ist; so hört Antithetisches und Synthetisches auf, etwas zu bedeuten; nur die Thesis (das Absolute und rein
+
+As soon, therefore, as there is talk of the in-itself of appearances, the antithetic and the synthetic cease to mean anything; only the thesis (the Absolute and purely
+
+> Identische) bleibt übrig. Darum behaupteten wir:
+
+identical) remains. That is why we asserted:
+
+> [p. 27] 1) alle Differenz müsse von dem Absolue ten negirt werden;
+
+[p. 27] 1) all difference must be negated of the Absolute;
+
+> 2) das Absolute sey kein Gattungsbegriff, oder, Form und Wesen seyen einander nicht entgegengesetzt; sondern absolut angeschaut, Eins;
+
+2) the Absolute is no generic concept, or form and essence are not opposed to one another; but, intuited absolutely, one;
+
+> 3) das Absolute sey Totalität; 4) das Absolute sey der Erscheinungswelt immanent;
+
+3) the Absolute is totality; 4) the Absolute is immanent in the world of appearance;
+
+> 5) das Absolute sey seinem Wesen nach ideal. Die Realität, welche der Verstand aufstellt, sey nichts, ad 1) Die Differenz der Formen in der Erscheinungswelt wird keineswegs geleugnet, und das Interesse der Philosophie bringt es mit sich, auf die Form Rücksicht zu nehmen.
+
+5) the Absolute is ideal according to its essence. The reality that the understanding sets up is nothing. Ad 1) The difference of forms in the world of appearance is by no means denied, and the interest of philosophy entails taking account of form.
+
+> Die Erfahrung hat, in diesem Sinne, für uns einen grossen Werth, und würden Schellings Constructionen nicht durch die Erfahrung bestätigt, so würden sie wenig zu achten seyn. Nur ist die Erfahrung kein kaltes, todtes Formengebäude mehr, sondern Geist und Leben.
+
+Experience has, in this sense, a great value for us, and if Schelling's constructions were not confirmed by experience, they would deserve little regard. Only experience is no longer a cold, dead edifice of forms, but spirit and life.
+
+> ad 2) Man hat Schelling den Vorwurf gemacht, er habe durch seine absolute Einheit weiter nichts gethan, als das Höchste und Allgemeinste der Erfahrung ausgesprochen. Allein dieses ist offenbar falsch. Er construirt [p. 28] vielmehr die Erfahrung, d. i, er zeigt, wie sie möglich sey, und zwar so, dass Möglichkeit und Wirklichkeit absolut Eins wer!
+
+Ad 2) Schelling has been reproached with having done nothing more by his absolute unity than to express the highest and most universal of experience. But this is plainly false. He rather constructs [p. 28] experience, that is, he shows how it is possible, and indeed in such a way that possibility and actuality become absolutely
+
+> den: denn was absolut (an sich) möglich ist, das ist auch wirklich. Die Idee, nach welcher er construirt, ist ihm keineswegs in dem gewöhnlichen Sinne, sondern nur in so ferne gegeben, als sie das Product der Freithätigkeit seines, so wie des Geistes eines jeden
+
+one: for what is absolutely (in itself) possible is also actual. The idea according to which he constructs is given to him by no means in the usual sense, but only in so far as it is the product of the free activity of his spirit, as of the spirit of every
+
+> Menschen ist, der sich auf diesen Standpunkt erheben kann oder will. Schon der Umstand, dass die Idee des Absoluten auf dem gewöhnlichen Wege des Gegebenseyns nicht gefunden werden kann, aber doch in unserm Bewustseyn, das ohne dieselbe gar keinen Vereinigungspunkt hätte, vorkommt, ist der Beweis, dass die Vernunft sich über die Region der Erscheinungen erheben könne. Wir sind daher weit entfernt, sie für ein blofses Räsonnirvermögen anzusehen; sondern ihr Character ist Selbstthätigkeit und ihr ganzes Streben gehet auf Einheit. Es wird hierauf in der Folge noch besondere Rücksicht genommen werden. Einiges möchte sich hier schon aufklären, wenn wir unsere Aufmerksamkeit auf das eigentliche Geschäft des Verstandes richten. Dem Verstande ist Zweiheit nur durch
+
+man who can or will raise himself to this standpoint. The mere circumstance that the idea of the Absolute cannot be found on the usual way of being-given, and yet occurs in our consciousness, which without it would have no point of union at all, is the proof that reason can raise itself above the region of appearances. We are therefore far from regarding it as a mere faculty of ratiocination; rather its character is self-activity and its whole striving goes toward unity. Particular regard will be paid to this in what follows. Something may already be cleared up here if we direct our attention to the proper business of the understanding. For the understanding, duality is thinkable only through
+
+> Dreiheit denkbar (Form der Schlüsse).
+
+threeness (form of syllogisms).
+
+> Will [p. 29] er ein cinzelues Ding denken; so ordnet er es unter die zunächst liegende Gattung. Diese gilt ihm als ein Prius.
+
+If [p. 29] it wishes to think a single thing; it ranges it under the nearest genus. This counts for it as a prius.
+
+> Aber in der Gattung ist wieder Differenz, die in einer höhern Gattung vermittelt werden muss u. s. w.
+
+But in the genus there is again difference, which must be mediated in a higher genus, and so on.
+
+> Das
+
+The
+
+> Vermitteln geht so lange gut von statten, bis die höchsten und lezten Gegensätze, die eben Denken und Seyn sind, zum Vorschein kommen.
+
+mediating proceeds well enough until the highest and last oppositions, which are precisely thinking and being, come to view.
+
+> Da nun hier der Faden des Anknüpfens abgerissen ist, was thut der Verstand? Er setzt, um Einheit zu schaffen, das Ding überhaupt; aber er täuscht sich nur selbst. Das Ding überhaupt, genau angesehen, ist nichts weiter, als jener Gegensatz selbst, nämlich der Inbegriff aller Subjectivitäten und Objectivitäten. Die Selbsttäuschung ahnend und den Widerspruch nicht ertragend, postulirt er absolute Einheit und setzt diese ausserhalb der Erscheinungswelt.
+
+Since here the thread of linking is broken off, what does the understanding do? To create unity, it posits the thing in general; but it only deceives itself. The thing in general, closely regarded, is nothing more than that opposition itself, namely the sum of all subjectivities and objectivities. Sensing the self-deception and not bearing the contradiction, it postulates absolute unity and posits this outside the world of appearance.
+
+> Daher ist ihm das Absolute nothwendig ein ens extramundanum (ein Objectives) , das nie erkannt, sondern nur geglaubt werden kann.
+
+Hence the Absolute is for it necessarily an ens extramundanum [extramundane being] (something objective), which can never be known, but only believed.
+
+> Kaum wird hier die Erinnerung nöthig seyn, dass dieses ganze Verfahren des Verstandes blosser Formalismus sey.
+
+It will hardly be necessary here to remind the reader that this whole procedure of the understanding is mere formalism.
+
+> Noch soviel: Wäre das Absolute ein
+
+Only this much more: were the Absolute a
+
+> Gattungsbegriff; so bedürfte es einer höhern
+
+generic concept; it would need a higher
+
+> Vermittelung, was aber weder seyn kann, noch soll.
+
+mediation, which, however, neither can be nor is to be.
+
+> [p. 30] ad 3) Das Absolute ist Totalität, heisst: Das Universum ist absoluter Organismus oder ein System, inwelchem Eins Alles und Alles Eins ist. ad 4) Setzt man das Absolute ausserhalb der Erscheinungswelt; so hört es, vermög der ihm gesetzten positiven Schranken, auf, absolut zu seyn.
+
+[p. 30] Ad 3) The Absolute is totality means: the universe is an absolute organism, or a system in which one is all and all is one. Ad 4) If the Absolute is posited outside the world of appearance; it ceases, by virtue of the positive limits posited for it, to be absolute.
+
+> Die Idee des Absoluten weifst alle Beschränkung von sich ab. ad 5) Ideal und doch real seyn, ist nichts Widersprechendes. Der fixirte Begriff der Realität, welcher nur dem Verstande eigen ist, erzeugt den Irrthum. Für ihn ist nämlich nichts real, als was gegeben ist. Das Absolute kann nicht, gleich andern Erscheinungen, gegeben werden, folglich ist es nicht real, oder wenigstens lässt sich über seine Realität nichts entscheiden. Ist dieser Schluss richtig? Die Erscheinungswelt ist real, das heisst, etwas Wesentliches, und das Absolute ist auch real.
+
+The idea of the Absolute repels all limitation from itself. Ad 5) To be ideal and yet real is nothing contradictory. The fixed concept of reality, which is proper only to the understanding, produces the error. For to it nothing is real but what is given. The Absolute cannot, like other appearances, be given; consequently it is not real, or at least nothing can be decided about its reality. Is this inference correct? The world of appearance is real, that is, something essential, and the Absolute is also real.
+
+> das heisst, etwas jenem entgegengesetztes Wesentliches, was heifst das wohl? 5.
+
+that is, something essential opposed to that one — what can that mean? §.
+
+> 11.
+
+11.
+
+> Aus dem Gesagten erhellt, dass die Ansicht des rein logischen, also nur die Form der Dinge berücksichtigenden Verstandes von dem Universum unmöglich die wahre seyn könne. Ueber diese Form kommt er nie hinaus und darum stehen subjective und objective Natur [p. 31] für ihn ohne realen Indifferenzpunct da. In. dem er zwar die Urgegensätze zu vermitteln sucht; ist er doch genöthigt, immer bei dem Begriffe des Dings, welchen er auf das Abso Inte überträgt, stehen zu bleiben. Will sich der Verstand jenen Begriff aufklären; so muss er ihn entweder als ein Subjectives oder Ob.
+
+From what has been said it is evident that the view of the universe held by the purely logical understanding, which therefore regards only the form of things, cannot possibly be the true one. Beyond this form it never gets, and for that reason subjective and objective nature stand [p. 31] before it without a real point of indifference. Although it seeks to mediate the primal oppositions, it is nevertheless compelled always to stop at the concept of the thing, which it transfers to the Absolute. If the understanding wants to clarify that concept to itself, it must determine it either as something subjective or as something
+
+> jectives bestimmen, wie es denn der Begriff des Dings so mit sich bringt. Aber wir sagen: Der absolute Indifferenzpunct soll und kann kein Ding, d. i. weder ein Subjectives noch Objectives, seyn. Der Begriff der Dingheit kann und darf nicht auf das, durch welches die im Widerspruche stehende Dingheit vermittelt werden soll, übergetragen werden.
+
+objective, as indeed the concept of the thing entails. But we say: the absolute point of indifference shall not and cannot be a thing, that is, neither something subjective nor something objective. The concept of thinghood cannot and may not be transferred to that through which thinghood, standing in contradiction, is to be mediated.
+
+> Also gerade da, wo der Verstand seinen höchsten Schwung nimmt, fällt er in absolute Duplicität zurück, und zerschlägt somit sein künstliches Formengebäude selbst. Ihm gebührt keine Stimme im Gebiete der Philosophie. §.
+
+Thus precisely where the understanding takes its highest flight, it falls back into absolute duplicity, and so itself shatters its artificial edifice of forms. It has no voice in the domain of philosophy. §.
+
+> 12.
+
+12.
+
+> Man kann über das Universum, als Erscheinungswelt nicht philosophiren, wenn nicht in dasselbe der menschliche Geist, als ein integrirender Theil (ein Theilganzes) aufgenommen wird; auch lässt sich über die Ichheit nichts philosophiren, ohne dass man die
+
+One cannot philosophize about the universe as world of appearance unless the human spirit is taken up into it as an integral part (a partial whole); nor can anything be philosophized about I-hood without taking
+
+> [p. 32] 3 objective Natur berücksichtige. Beide thachen das Totalganze oder ein Universum aus. Für den Verstand zerfällt das erscheinende Totalganze in zwei absolute Gegensätze ohne
+
+[p. 32] 3 objective nature into account. Both make up the total whole, or a universe. For the understanding the appearing total whole falls apart into two absolute opposites without a
+
+> Indifferenzpunct; allein da keine Erscheinung möglich ist ohne Triplicität; so ist die Erscheinungswelt selbst ohne drei Grundformen nicht möglich. Diese sind unorganische, organische und intelligente Natur. Die indifferente Form ist die organische Natur. Die unorganische Natur stellt sich der Reflexion unter dem Character des absoluten Todes dar. Ihre Thätigkeitsäusserungen werden, als von aussen in sie gekommen, angesehen. Alle Veränderungen, die in derselben vorges hen, sollen die Folge fremder, auf sie ein wirkender Stoffe oder Kräfte seyn. Allein ist die sogenannte, unorganische Natur wirklich absolut todtes Seyn; ist sie keiner Vera änderung in und durch sich selbst, keiner Thätigkeit ihrem innern Character nach fähig, so fragt sich, wie ist z. B. der magnetische, electrische, chemische Process, wie Galvanismus, kurz die gemeinste
+
+point of indifference; but since no appearance is possible without triplicity, the world of appearance itself is not possible without three fundamental forms. These are inorganic, organic and intelligent nature. The indifferent form is organic nature. Inorganic nature presents itself to reflection under the character of absolute death. Its manifestations of activity are regarded as having come into it from outside. All changes that take place in it are supposed to be the consequence of foreign substances or forces acting upon it. But if so-called inorganic nature is really absolutely dead being, if it is capable of no change in and through itself, of no activity according to its inner character, then the question arises: how is, for example, the magnetic, electrical, chemical process, how is galvanism, in short the commonest
+
+> Veränderung in der unorganischen Natur zu erklären?
+
+change in inorganic nature to be explained?
+
+> Die organische Natur ist für die Reflexion eine Synthesis des Lebens und des Todes, [p. 33] folglich stellt sie sich selbst unter einem Widerspruche dar.
+
+Organic nature is for reflection a synthesis of life and death, [p. 33] and consequently it presents itself under a contradiction.
+
+> Hier sieht nämlich die Empirie die Thätigkeitsäusserungen der Materie, dieser nicht mehr als fremd, sondern derselben immanent und eigenthümlich an. Hier fragt sich wieder: Wie können absolut Entgegengesetzte zusammentreten und eine Syn thesis darstellen?
+
+For here empiricism regards the manifestations of activity of matter no longer as foreign to it, but as immanent in it and proper to it. Here again the question arises: how can absolute opposites come together and present a synthesis?
+
+> In der intelligenten Welt erheben sich die Widersprüche z. B. in Freiheit und Naturnothwendigkeit u. f. aufs Neue, und stellen sich in einem so grellen und schneidenden Gegensatze dar, dass alle Mühe, sie zu heben, vergeblich zu seyn scheint. Die gemeine, wie die erklärende Empirie, sie mag, wie erstere thut, die Synthesis nehmen, wie sie gegeben ist; oder etwas daran ändern, wie leztere verfährt, setzt Materie und Geist einander absolut entgegen und verfehlt so, selbst in der Erscheinung, den Indifferenzpunct, in welchem beide Eins werden. §.
+
+In the intelligent world the contradictions, for example in freedom and natural necessity, etc., arise anew, and present themselves in so glaring and cutting an opposition that all effort to cancel them seems to be in vain. Common empiricism, like explanatory empiricism, whether it takes the synthesis as it is given, as the former does, or alters something in it, as the latter proceeds, sets matter and spirit absolutely against each other and so misses, even in appearance, the point of indifference in which both become one. §.
+
+> 13.
+
+13.
+
+> Absichtlich bleiben wir noch, jedoch nur auf eine kurze Weile, bei jenen drei Grundformen stehen.
+
+We deliberately dwell a while longer, though only for a short while, on those three fundamental forms.
+
+> Die unorganische Natur ist, abgesehen vom Totalganzen, eine vollkommen in sich geschlossene Welt. In ihr ist auch, wenn gleich [p. 34] nicht der Form, doch dem Wesen nach, das nämliche, was in der organischen und intelligenten Natur ist: denn auch in ihr wird jenes Eine und Identische objectiv. Dem Auge der Vernunft stellt sich die unorganische Natur als eine Linie dar, welche aus zweien Gegensätzen und einem Indiffe.
+
+Inorganic nature is, apart from the total whole, a world completely closed in itself. In it too there is, if [p. 34] not according to form, yet according to essence, the same thing that is in organic and intelligent nature: for in it too that one and identical becomes objective. To the eye of reason inorganic nature presents itself as a line consisting of two opposites and a point
+
+> renzpuncte bestehet, also folgendermassen:
+
+of indifference, thus as follows:
+
+> B
+
+B
+
+> A und B bezeichnen jene Gegensätze. Das Licht erscheint hier als ein Subjeetives (als immateriell) Auch hat es keine Schwere. (Wenn wir sagten, das Licht erscheine als ein Subjectives, so verhält es sich doch ganz anders.
+
+A and B designate those opposites. Light appears here as something subjective (as immaterial). Nor does it have any weight. (When we said that light appears as something subjective, the case is nevertheless quite otherwise.
+
+> Selbst das reinste erscheinende Licht z. B. im Prisma das weisse, ist noch immer eine Synthesis. Es giebt schlechterdings kein ganz reines, ungetrübtes Licht. Wäre das, so gäbe es keinen Uebergang aus der unorganischen Natur in die organische. Wäre man im Stande, auf irgend einem Wege die Immaterialität des Lichtes darzuthun; so würde sich Schellings Philosophie nicht halten können). In der oben construirten Linie ist es bezeichnet als A (Subjectivität). Auf der andern Seite finden wir in der unorganischen Natur, wie sie noch immer heissen mag, ein Product, dem alle Thätigkeitsäusserung fremd zu seyn [p. 35] scheint, und dieses ist der Diamant.
+
+Even the purest appearing light, for example the white in the prism, is still always a synthesis. There is absolutely no wholly pure, untroubled light. Were there such, there would be no transition from inorganic nature into organic. If one were able in any way to demonstrate the immateriality of light, Schelling's philosophy could not hold.) In the line constructed above it is designated as A (subjectivity). On the other side we find in inorganic nature, as it may still be called, a product to which all manifestation of activity seems [p. 35] foreign, and this is the diamond.
+
+> Er ist in obiger Linie bezeichnet als B (Objectivität).
+
+In the above line it is designated as B (objectivity).
+
+> Die indifferente Form ist das Wasser, in so ferne in demselben keine Differenz bemerkbar ist.
+
+The indifferent form is water, inasmuch as no difference is noticeable in it.
+
+> Es ist, abstrahirt von den Differenzen, in welche es sich ausstralt, zu be zeichnen A = A. ziren soll,
+
+Abstracting from the differences into which it radiates, it is to be designated A = A.
+
+> Da es sich aber differenso muss es als A = B und die ganze Linie folgendermassen bezeichnet werden:
+
+But since it is to differentiate itself, it must be designated as A = B, and the whole line as follows:
+
+> A- B
+
+A- B
+
+> Brenio
+
+Brenio
+
+> A-B
+
+A-B
+
+> B erscheint als A, d. h. als reine Subjectivität, welche hier ist
+
+B appears as A, that is, as pure subjectivity, which here is
+
+> Licht.
+
+light.
+
+> B erscheint als B, d. h. als reine Objectivität, = welche ist
+
+B appears as B, that is, as pure objectivity, = which is
+
+> Diamant.
+
+diamond.
+
+> Der Diamant ist als das im höchsten Grade erstarrte, das Licht als das zu einem höhern und schönern Daseyn erhobene Wasser anzusehen.
+
+The diamond is to be regarded as water solidified in the highest degree, light as water raised to a higher and more beautiful existence.
+
+> Oder: Die Materie stellt sich im Wasser als ein Indifferentes, im Lichte als ein Ideelles (Subjectives) im Diamante als ein Reelles (Objectives) dar. §.
+
+Or: matter presents itself in water as something indifferent, in light as something ideal (subjective), in the diamond as something real (objective). §.
+
+> 14.
+
+14.
+
+> Hieraus gehen folgende Sätze hervor:
+
+From this the following propositions result:
+
+> 1) Die unorganische Natur ist, für sich betrachtet, eine völlig in sich beschlossene Welt. 3*
+
+1) Inorganic nature is, considered for itself, a world completely closed in itself. 3*
+
+> [p. 36] 2) Dieses Ganze bestehet aus zweien Gegensätzen und einem Indifferenzpuncte oder sein Character ist Triplicität.
+
+[p. 36] 2) This whole consists of two opposites and a point of indifference, or its character is triplicity.
+
+> 3) Es giebt in demselben keine absolute, sondern nur relative Gegensätze Wo A ist, mufs zugleich B seyn und umgekehrt. Oder:
+
+3) There are in it no absolute, but only relative opposites. Where A is, B must be at the same time, and conversely. Or:
+
+> Alles ist hier mit einem plus oder minus gesetzt.
+
+Everything here is posited with a plus or a minus.
+
+> Abgeleitete Sätze:
+
+Derived propositions:
+
+> a) Jeder Körper muss in Wasser übergehen können.
+
+a) Every body must be able to pass over into water.
+
+> b) Es giebt keinen absolut lichtlosen Körper. So wie das Licht von jedem Körper durchdrungen werden kann; so muss auch das Licht jeden Körper durchdringen können.
+
+b) There is no absolutely lightless body. Just as light can be penetrated by every body, so too light must be able to penetrate every body.
+
+> c) Es giebt kein Licht ohne Körperlichkeit. d) Die Verschiedenheit der Körper beruht auf dem Uebergewichte des positiven oder negativen Factors.
+
+c) There is no light without corporeality. d) The diversity of bodies rests on the preponderance of the positive or the negative factor.
+
+> e) Alle einfache Stoffe sind Erdichtungen ohne allen Gehalt. Dieses alles wird sich an einem andern Orte noch weiter bestätigen.
+
+e) All simple substances are fictions without any content. All this will be further confirmed in another place.
+
+> In der organischen Natur entspricht dem Wasser das Blut, dem Lichte der Instinct, dem Diamant der Hirnschädel, dem härtesten
+
+In organic nature blood corresponds to water, instinct to light, and to the diamond the skull, the hardest
+
+> Körper in der organischen Welt. In so ferne [p. 37] sich hier das Blut differenziren soll; so ist der Hirnschädel als die höchste Verhärtung des Blutes, der Instinct aber als die höchste Vergeistigung desselben anzusehen. §.15.
+
+body in the organic world. Inasmuch as [p. 37] the blood is here to differentiate itself, the skull is to be regarded as the highest hardening of the blood, instinct, however, as its highest spiritualization. §. 15.
+
+> Die drei Entwickelungsstufen, die wir in der unorganischen und organischen Natur wahrnehmen, reproduciren sich in der Sphäre der intelligenten; aber nur dem Grade, nicht dem Wesen nach, sind sie verschieden. Der Instinct potenzirt sich hier zur transcendentalen Einbildungskraft, welche das vorstellt, was in der unorganischen Natur das Wasser, in der organischen das Blut ist. Auf beiden Seiten liegen Verstand und Vernunft. Keines dieser Geistesvermögen ist ohne das andere; nur der Potenz nach sind sie von einander geschieden. Indem wir hier auf das Verdienst einer vollständigen Darstellung Verzicht leisten, berufen wir uns und verweisen auf Schellings Schriften selbst, in welchen das Weitere hierüber nachgelesen werden kann. Nur noch folgendes setzen wir hinzu: Betrachtet man das erscheinende Universum überhaupt, so ist es zu bezeichnen als A
+
+The three stages of development that we perceive in inorganic and organic nature reproduce themselves in the sphere of intelligent nature; but they differ only in degree, not in essence. Instinct here raises itself to the potency of the transcendental power of imagination, which represents what water is in inorganic nature, blood in organic. On either side lie understanding and reason. None of these faculties of spirit is without the other; they are separated from one another only according to potency. Renouncing here the merit of a complete exposition, we appeal and refer to Schelling's writings themselves, in which more on this may be read. We add only the following: if one considers the appearing universe in general, it is to be designated as A
+
+> B, wodurch die Fotenz überhaupt gesetzt ist.
+
+B, whereby potency in general is posited.
+
+> Aber die unorganische Natur, im Gegensatz gegen die organische, [p. 38] ist zu bezeichnen durch A - B, lez+ tere durch A = B.
+
+But inorganic nature, in opposition to organic, [p. 38] is to be designated by A - B, the latter by A = B.
+
+> Berücksichtigt man die objective Natur gegen die subjective; so ist leztere zu bezeichnen durch A
+
+If one considers objective nature as against subjective, then the latter is to be designated by A
+
+> B, erstere durch A
+
+B, the former by A
+
+> B. Es kommt nur auf das Uebergewicht des positiven oder negativen Factors an.
+
+B. It depends only on the preponderance of the positive or the negative factor.
+
+> §.
+
+§.
+
+> 16.
+
+16.
+
+> Bei dieser unserer Darstellung lag uns eigentlich nur daran, unserer Behauptung: Das erscheinende Universum könne eben so wenig, als eines seiner Theilganzen, ohne drei Grundformen gedacht werden, und der menschliche Geist müsse daher in die Construction des ersteren mit aufgenommen werden, Eingang zu verschaffen. Ist aber der menschliche Geist ein iutegrirender Theil des Universalganzen; ist. die Thätigkeit, die in uns als Denken hervortritt an sich nicht verschieden von der Thätigkeit, die sich in der unorganischen und organischen Natur äussert; so lässt sich allerdings eine Wechselwirkung als möglich denken, da im Gegentheil eine solche unmöglich wird, wenn der Gegensatz, der in der höchsten Syn-
+
+In this exposition of ours our only real concern was to win acceptance for our assertion that the appearing universe can no more be thought without three fundamental forms than any of its partial wholes, and that the human spirit must therefore be taken up into the construction of the former. But if the human spirit is an integral part of the universal whole, if the activity that emerges in us as thinking is in itself not different from the activity that manifests itself in inorganic and organic nature, then a reciprocal action can certainly be thought possible, whereas on the contrary such a reciprocal action becomes impossible if the opposition that lies in the highest
+
+> `hesis liegt, als absolut gelten soll: denn eine ynthesis absolut Entgegengesetzten ist baarer
+
+synthesis is to count as absolute: for a synthesis of absolute opposites is sheer
+
+> [p. 39] Widerspruch. - Erst durch die von Schelling aufgestellte Ansicht der Dinge erhalten die mancherlei Processe in den verschiedenen Sphären der Natur ihre wahre Bedeutung. Nichts, auch das nicht, was sich unter dem Ausdrucke des absoluten Todes, als blosse Contraction, als thätigkeitslose Materie, darstellt, ist der Veränderung unfähig. Wie wäre aber dieses möglich, wenn nicht die Bedingung zur Selbstthätigkeit in ihm läge?
+
+[p. 39] contradiction. — Only through the view of things put forward by Schelling do the manifold processes in the various spheres of nature receive their true meaning. Nothing, not even that which presents itself under the expression of absolute death, as mere contraction, as matter without activity, is incapable of change. But how would this be possible if the condition of self-activity did not lie in it?
+
+> J
+
+J
+
+> §. 17. Noch einleuchtender wird alles dieses werden, wenn wir den einzig möglichen Begriff von der Materie aufstellen.
+
+§. 17. All this will become still more evident when we set up the only possible concept of matter.
+
+> Alles, sagten wir, sey eine Synthesis, d. h. ein Setzen, Entgegensetzen und Gleichsetzen. Der äussere Ausdruck einer thetischen, antithetischen und synthetischen Thätigkeit ist die Materie. Hierinn liegt zugleich die wahre Ansicht dessen, was man Raum und Zeit nennt. Die Materie von ihrer subjektiven (dynamischen) Seite betrachtet, ist eben jenes Antithetische und Synthetische-
+
+Everything, we said, is a synthesis, that is, a positing, an opposing and an equating. The outward expression of a thetic, antithetic and synthetic activity is matter. Herein lies at the same time the true view of what is called space and time. Matter considered from its subjective (dynamic) side is precisely that antithetic and synthetic —
+
+> Thetische
+
+thetic
+
+> , selbst die unendliche Zeit.
+
+, itself infinite time.
+
+> Die Materie von ihrer objectiven Seite ist die äussere Darstellung jener Thätigkeiten - der unendliche erfüllte Raum. Thätigkeit und Seyn constituirt also das, was wir Materie nennen [p. 40] und beide sind nicht getrennt. Die einzelne bestimmte Raumerfüllung ist der Ausdruck eines gewissen Verhältnisses jener Thätigkeiten. Keine derselben ist ohne die andere; aber eine kann vor der andern überwiegend gesetzt seyn, welches gerade soviel ist, als wenn wir sagten, alles ist Subject Object oder Object Subject. §.
+
+Matter from its objective side is the outward presentation of those activities — infinite filled space. Activity and being thus constitute what we call matter, [p. 40] and the two are not separated. The single determinate filling of space is the expression of a certain relation of those activities. None of them is without the other; but one can be posited as preponderant over the other, which is just as much as if we said: everything is subject-object or object-subject. §.
+
+> 18.
+
+18.
+
+> Es ist klar, dass, nach dieser Ansicht, die Materie, an sich betrachtet, das Absolute selbst sey, welches sich nicht anders, als unter dem Chtracter einer thetischen, antithetischen und synthetischen Thätigkeit objectiv machen oder für die Erscheinung hervortreten kann.
+
+It is clear that, on this view, matter considered in itself is the Absolute itself, which cannot make itself objective or come forth for appearance otherwise than under the character of a thetic, antithetic and synthetic activity.
+
+> Weit entfernt, hier einen Missverstand zu fürchten, glauben wir vielmehr, dafs durch eben diese Ansicht der Materie aller und jeder Mifsverstand beseitiget werde. Genau angesehen, drückt das Gesagte nicht mehr aus, als was schon weiter oben da war, nämlich: Die Erscheinungen haben nur in so ferne Reali. tät, als das Absolute sich in ihnen reflectirt oder in einem Gegenbilde sich darstellt. Dieses Gegenbild wäre aber nichts Reales, wenn das Absolute nicht seine ganze Wesenheit auf dasselbe übertrüge, d. i, wenn es nicht etwas in sich Selbstständiges wäre.
+
+Far from fearing a misunderstanding here, we believe rather that through precisely this view of matter each and every misunderstanding is removed. Looked at closely, what has been said expresses no more than what was already there further above, namely: appearances have reality only insofar as the Absolute reflects itself in them or presents itself in an antitype. But this antitype would be nothing real if the Absolute did not transfer its whole essentiality to it, that is, if it were not something self-subsistent in itself.
+
+> Daher ist auch [p. 41] wirklich alles absolut in seiner Sphäre, und die Erscheinungswelt bedarf keiner Begründung von aussen. Die ihr zukommende Realität liegt in ihr und ist das Absolute selbst, ausser welchem es sonst nichts Reales giebt.
+
+Hence [p. 41] everything is also really absolute in its sphere, and the world of appearance needs no grounding from outside. The reality that belongs to it lies in it and is the Absolute itself, outside which there is nothing else real.
+
+> Zu keiner Zrit war die Erscheinungswelt ohne das Absolute und dieses ohne jene. Hieraus folgt, dass es vom sogenannten Bedingten aus keinen Uebergang zum Unbedingten gebe: denn alles ist an sich unbedingt. Wenn der Verstand diesen Weg einschlägt, so beruht, wie Schelling sagt, seine Täuschung darauf, dafs er gewiss ist, nie zum Lezten und Unbedingten zu kommen, wo sich denn die ganzever.
+
+At no time was the world of appearance without the Absolute, nor the Absolute without it. From this it follows that there is no transition from the so-called conditioned to the unconditioned: for everything is in itself unconditioned. If the understanding takes this path, then, as Schelling says, its illusion rests on its being certain never to arrive at the last and unconditioned, where the whole
+
+> meinte (nicht vereinte: denn hier giebt es keine Einheit) Wissenschaft in nichts auflösen würde, §.
+
+supposed (not unified: for here there is no unity) science would dissolve into nothing. §.
+
+> 19.
+
+19.
+
+> Der Verstand kann das, was er als unbedingtes sucht, nur isolirt setzen; darum steht es mit dem erscheinenden Universum im Widers spruche. Es soll ja die Erscheinungswelt nicht seyn, sondern ein Anderes. Ist aber das Absolute ein Anderes, als das erscheinende Universum; so sage man uns in welchem Verhältnisse sie zu ein ander stehen sollen? Nicht in dem Verhältnisse der Causalität: denn soll etwas aus einem andern hervorgehen, als aus seiner Ursache; so muss es in demselben enthalten seyn, was aber dem bisher Verhandelten zufolge negirt werden mnfs.
+
+The understanding can posit what it seeks as unconditioned only in isolation; for that reason it stands in contradiction with the appearing universe. For it is supposed not to be the world of appearance, but something other. But if the Absolute is something other than the appearing universe, then let us be told in what relation they are supposed to stand to one another? Not in the relation of causality: for if something is to proceed from another as from its cause, it must be contained in it, which, however, according to what has been discussed so far, must be denied.
+
+> [p. 42] Nicht in dem Verhältnisse der Substanzialität:
+
+[p. 42] Not in the relation of substantiality:
+
+> denn auch das Wesen der Erscheinungswelt soll einanderes seyn, als das Absolute. Nicht in dem Verhältnisse der Wechselwirkung: denn diese hört zwischen absolut Entgegengesetzten auf. Was folgt hieraus? Die Realität, welche der Verstand, durch absolute Duplicität bestimmt, aufstellt, ist nichts: das einzige Reale ist das Absolute. Dieses istdas An - sich des Universums, der innigste Geist alles dessen, was Geist und Körper genennt wird. Ausser diesem Ansich giebt es nur Formen, die ihre Realität eben von jenem Ansich, d. i. dem Absolutenborgen Hier ergiebt sich zugleich, dass die philosophische Erkenntnissart auch dem Gegenstande nach absolut sey: denn es ist nicht einzusehen, wie es eine Philosophie geben könne, ohne die lebendige Idee des Absoluten. Eben so wenig ist es begreiflich, wie es mehr als eine Philosophie geben könne, oder wie man es wagen dürfe, verschiedene und doch real seyn sollende Principien der Philosophie aufzustellen. Nur ein reales Prinzip kann es in der Wissenschaft des Wahren geben und dieses ist die richtig aufgefasste Idee des Absoluten.
+
+for the essence of the world of appearance too is supposed to be something other than the Absolute. Not in the relation of reciprocal action: for this ceases between absolute opposites. What follows from this? The reality that the understanding, determined by absolute duplicity, sets up is nothing: the only real is the Absolute. This is the in-itself of the universe, the innermost spirit of all that is called spirit and body. Outside this in-itself there are only forms, which borrow their reality precisely from that in-itself, that is, from the Absolute. Here it results at the same time that the philosophical mode of knowledge is absolute also according to its object: for it is not to be seen how there could be a philosophy without the living idea of the Absolute. Just as little is it comprehensible how there could be more than one philosophy, or how one could dare to set up different principles of philosophy that are nevertheless supposed to be real. There can be only one real principle in the science of the true, and this is the rightly grasped idea of the Absolute.
+
+> Hier möchte wohl gelten, was der verewigte Schiller aussprach: Welche wohl bleibt von allen den Philosophien. Ich weiss nicht.
+
+Here what the late Schiller said might well apply: Which of all the philosophies will remain? I do not know.
+
+> Aber die Philosophie, hoff' ich, soll ewig bestehn.
+
+But philosophy, I hope, shall endure forever.
+
+> [p. 43] §.
+
+[p. 43] §.
+
+> 20.95
+
+20.
+
+> Es ist ganz natürlich, dass es so keinen positiven Weg zum Absoluten geben könne, d. h. dass alle Einleitung dazu in dem Sinne unmöglich sey, dass es durch Worte in seiner Wesenheit vor die Seele zu bringen wäre. Mit Recht erinnert Schelling, dass das Einfache nur angeschaut werden könne. Auch die Vorstellung des Raumes und der Zeit ist auf dasselbe deswegen nicht anwendbar, weil es weder im Raume noch in der Zeit seyn, mithin nicht als Gegenstand der Sinnenwelt nachgewiesen werden kann. Wir hätten darum auch die Philosophie nicht mit einem Hause und die Thüre mit der Einleitung in dieselbe vergleichen mögen.
+
+It is quite natural that there can thus be no positive path to the Absolute, that is, that all introduction to it is impossible in the sense that it could be brought before the soul in its essentiality through words. Schelling rightly reminds us that the simple can only be intuited. Nor is the representation of space and time applicable to it, for the reason that it can be neither in space nor in time, and consequently cannot be demonstrated as an object of the sensible world. For that reason we would not have wished to compare philosophy with a house, and the door with the introduction to it.
+
+> Wie passend dieses sey, ist wohl einem jeden von selbst klar.
+
+How apt this is, is surely clear to everyone of himself.
+
+> Wenn man freilich in die
+
+If, to be sure, one could enter into
+
+> Philosophie, wie durch die Thüre in's Haus, eingehen könnte; so möchte dieses wohl manchem recht seyn.
+
+philosophy as through the door into the house, this would no doubt suit many a one.
+
+> Eben so wenig kann es
+
+Just as little can it
+
+> Schelling zum Vorwurfe gereichen, wenn er Leute ohne Unterschied in seinen Hörsaal aufnimmt. Kann er gleich seine Schüler nicht positiv zur Erkenntniss des Absoluten führen; so zeigt er ihnen doch die Nichtigkeit aller Begriffsphilosophie, und damit ist nicht wenig gewonnen. Darf er gleich nicht erwarten, [p. 44] dafs seine Hörer die intellectuelle Anschauung, wie er sie fordert, gleich ganz frei mitbringen; so lässt er doch das morsche Gerüste, auf welchem sie bisher stunden, zusammen stürzen, oder eigentlich zu sagen, es stürzt bei seinen Hörern von selbst zusammen. Der intellectuell Blinde bleibt freilich auf dem Gerüste stehen, ohne etwas zu sehen, als das leztere, wenn es gleich aus lauter Widersprüchen, nur für ihn nicht, zusammengesetzt ist. Philosophie will nicht sowohl ihren Bekennern etwas mittheilen, als vielmehr nehmen, d. i. sie von den Banden, mit welchen die Sinnenwelt sie umstrickt hat, frei machen; sie nöthigen, die Region des Nichtigen zu verlassen und sich zu dem Ewigen und Bleibenden zu erheben. §.
+
+be a reproach to Schelling that he admits people without distinction into his lecture hall. Though he cannot lead his students positively to the knowledge of the Absolute, he nevertheless shows them the nullity of all philosophy of concepts, and with that not a little is gained. Though he may not expect [p. 44] that his hearers bring intellectual intuition, as he demands it, quite freely with them, he nevertheless lets the rotten scaffolding on which they have stood until now collapse, or properly speaking, it collapses of itself among his hearers. The intellectually blind, to be sure, remains standing on the scaffolding, without seeing anything but the latter, though it is composed of nothing but contradictions, only not for him. Philosophy wants not so much to impart something to its adherents as rather to take something from them, that is, to free them from the bonds with which the sensible world has ensnared them; to compel them to leave the region of the null and to raise themselves to the eternal and abiding. §.
+
+> 21.
+
+21.
+
+> Freilich kann hier nur der Erfolg entscheiden. Berg und mit ihm noch andere, haben Schelling gänzlich missverstanden, wenn sie gemeint haben, dieser verachte alle Erfahrungskenntniss, und er leugne die Realität der Erscheinungswelt.
+
+Of course only the outcome can decide here. Berg, and others with him, have wholly misunderstood Schelling when they have thought that he despises all empirical knowledge and that he denies the reality of the world of appearance.
+
+> In Rücksicht auf das Erstere, ist Schelling selbst mit einem solchen Vorrath empirischer Erkenntnisse ausgestattet, dass man darüber in Erstaunen gerathen muss; und was das Leztere [p. 45] betrift, so ist er von der Realität der Erscheinungswelt aus bessern Gründen überzeugt, als irgend einer seiner zahlreichen Gegner.
+
+With regard to the former, Schelling himself is furnished with such a store of empirical knowledge that one cannot but be astonished at it; and as concerns the latter, [p. 45] he is convinced of the reality of the world of appearance on better grounds than any of his numerous opponents.
+
+> Wenn Schelling die Realität, welche der Vers stand, als solcher, auf die Dinge überträgt, nicht gelten lässt, leugnet er denn deswegen die Realität der Erscheinungswelt? Oder sind denn die Dinge deswegen nichts, weil er behauptet, das Ansich derselben sey das Absolute? Die Form, unter welcher die Dinge er scheinen, sey nichts im Gegensatze gegen das Wesen? Alles sey Modus (Darstellungsweise) des Absoluten in der Erscheinung? Trotz allen
+
+If Schelling does not admit the reality that the understanding, as such, transfers to things, does he therefore deny the reality of the world of appearance? Or are things nothing because he maintains that their in-itself is the Absolute? That the form under which things appear is nothing in opposition to the essence? That everything is a mode (manner of presentation) of the Absolute in appearance? That despite all
+
+> Veränderungen und scheinbaren Verschiedenheiten sey das Wesen der Dinge ewig und unveränderlich? -
+
+changes and apparent diversities the essence of things is eternal and unchangeable? —
+
+> So genommen ist Empirie und Philosophie vielmehr Eins. §.
+
+Taken thus, empiricism and philosophy are rather one. §.
+
+> Es kam uns in der That ganz possirlich vor, als wir im Sextus die Aeusserung lasen, dass man, um philosophiren zu können, von etwas Auerkanntem ausgehen, und dafs der Lehrer mit dem Schüler sich vorhinein über Eins und das Andere verstehen müsse (p, 45.). Wir wären sehr begierig, zu erfahren, was denn das Anerkannte sey, von welchem die Philosophie ausgehen soll: denn ein solches uns nachzuweisen, hat Berg wirk [p. 46] lich vergessen, Vielleicht Begriffe? Allein Verstandesbegriffe beziehen nur auf die Form, nie auf das Wesen, daher auch behauptet werden muss, dass sich durch blosses Denken keine objective Wahrheit gewinnen lasse. Man erinnere sich hier an Kants Kategorien und an das Resultat der Kritik überhaupt.
+
+It seemed to us in truth quite droll when we read in the Sextus the remark that, in order to be able to philosophize, one must start from something acknowledged, and that the teacher must come to an understanding with the student beforehand about one thing and another (p. 45). We should be very eager to learn what, then, the acknowledged thing is from which philosophy is supposed to start: for Berg has actually [p. 46] forgotten to point out such a thing to us. Concepts, perhaps? But concepts of the understanding refer only to form, never to essence; hence it must also be maintained that through mere thinking no objective truth can be gained. Let one recall here Kant's categories and the result of the Critique in general.
+
+> Nach Kant haben jene Kategorien (Denkgesetze, Regelbegriffe) keinen Bezug auf das an sich Wahre.
+
+According to Kant those categories (laws of thought, rule-concepts) have no reference to what is true in itself.
+
+> Was das Ding an sich ist, erfährt man nie. Wir erkennen nur Erscheinungen (phaenomena) , und alle Verstandsbegriffe beziehen sich auf diese, und kommen nie über dieselbe hinaus. Da Berg, so gut wie Kant, auf dem Reflexionsstandpuncte stehet, wo er die Dinge nehmen muss, wie sie gegeben sind; so wird es ihm wohl nicht einfallen, jener Entscheidung zu widersprechen. Wenn daher Begriffe der Stoff sind, worüber philosophirt werden soll; so ist klar, dass eine solche Philosophie weiter nichts sey, als ein Spiel des Verstandes mit Begriffen, von denen man nicht weifs, ob ihnen etwas Reales entspreche. Aber wer wird ein solches, Spiel Philosophie nennen? Diese muss uns absolute Wahrheit gewähren. Ist aber das Absolute für uns unerreichbar; so ist alles vermeintliche Erkennen - Wissen - ein Irrwisch, der uns in öde Sümpfe lockt.
+
+What the thing in itself is, one never learns. We know only appearances (phaenomena), and all concepts of the understanding refer to these and never get beyond them. Since Berg, just as much as Kant, stands at the standpoint of reflection, where he must take things as they are given, it will surely not occur to him to contradict that verdict. If, therefore, concepts are the material about which philosophizing is to take place, it is clear that such a philosophy is nothing more than a play of the understanding with concepts of which one does not know whether anything real corresponds to them. But who will call such a play philosophy? This must grant us absolute truth. But if the Absolute is unattainable for us, then all supposed knowing — knowledge — is a will-o'-the-wisp that lures us into desolate swamps.
+
+> [p. 47] §.23.
+
+[p. 47] §. 23.
+
+> Jedoch wir vermutheten es schon, dafs Berg noch mit einem Postulate angerückt kommen würde.
+
+However, we already suspected that Berg would come marching up with a postulate as well.
+
+> Das, was unser Postulant Postulirt, ist (nach p. 47.) nichts geringeres, als dass der Begriff des Erkennens, wie man ihn im gemeinen Verstande findet, Realität haben soll. Zwar, sagt er, könne diese Realität nicht erwiesen oder aus einem höhern Grunde hergeleitet wer. den; aber hinweisen könne man die Reflexion auf die in uns liegende Thatsache und fordern könne man, dass sie angenommen werde. Diese Forderung gehe der Philosophie nothwendig voraus. Dass die Dinge ausser uns Realität haben, wissen wir; aber diese ihre Realität postuliren wir nicht, sondern wir erkennen sie.
+
+What our postulant postulates is (according to p. 47) nothing less than that the concept of knowing, as one finds it in the common understanding, shall have reality. To be sure, he says, this reality cannot be proved or derived from a higher ground; but one can point reflection to the fact lying in us, and one can demand that it be accepted. This demand necessarily precedes philosophy. That the things outside us have reality, we know; but this reality of theirs we do not postulate, rather we know it.
+
+> Aber Berg's Forderung enthält absoluten Widerspruch: denn er trägt den Begriff seines Erkennens, wie er sich ausdrückt, auf ein demselben absolut Entgegengesetztes über. Doch was soll uns ein leerer Begriff? Was erkennt denn Berg durch denselben? Und solche Begriffe wären das Anerkannte, von welchen die Philosophie ausgehen soll? Vor einer solchen Philosophie bewahre jeden sein guter Genius!
+
+But Berg's demand contains absolute contradiction: for he transfers the concept of his knowing, as he expresses it, to something absolutely opposed to it. But what is an empty concept to us? What, then, does Berg know through it? And such concepts are supposed to be the acknowledged thing from which philosophy is to start? From such a philosophy may everyone's good genius preserve him!
+
+> [p. 48] Wir fragen im einfältigsten Ernste: Wie kann, wie soll die absolute Duplicität vermittelt werden? Wie können absolut Entgegengesetzte in Wechselwirkung stehen? Es hilft nichts, zu sagen: Die Synthesis ist gegeben, und weil sie gegeben ist, muss sie auch möglich seyn.
+
+[p. 48] We ask in the simplest earnest: how can, how shall absolute duplicity be mediated? How can absolute opposites stand in reciprocal action? It is no help to say: the synthesis is given, and because it is given, it must also be possible.
+
+> Entweder muss die Philosophie
+
+Either philosophy must
+
+> Jenen Widerspruch heben können, oder es giebt keine Philosophie.
+
+be able to cancel that contradiction, or there is no philosophy.
+
+> Soll er gehoben werden;
+
+If it is to be cancelled,
+
+> so dürfen Denken und Seyn nicht als einander an sich, sondern nur der Form nach, entgegengesetzt angesehen werden. Oder, was dasselbe ist: Denken und Seyn sind Formen, unter welchen Ein Wesen (das Absolute) objectiv wird. 5.24:
+
+then thinking and being may not be regarded as opposed to one another in themselves, but only according to form. Or, what is the same: thinking and being are forms under which one essence (the Absolute) becomes objective. §. 24.
+
+> Das Absolute muss ausser aller Form seyn, eben deswegen, weil es das Absolute ist. Es ist das, wodurch erst alle Form, und somit Raum und Zeit, möglich und daher auch wirklich wird. Es ist der Punkt, wo das in der Reflexion, d. i. der Form nach Getrennte, zusammenstimmt.
+
+The Absolute must be outside all form, precisely because it is the Absolute. It is that through which all form, and thus space and time, first becomes possible and therefore also actual. It is the point where what is separated in reflection, that is, according to form, accords.
+
+> Nur wenn die Form dem
+
+Only if form is not opposed to
+
+> Wesen nicht entgegengesetzt ist und es erwiesen werden kann, dass es so sey; dann ist die höchste Aufgabe der Philosophie gelöst, und der absolute Dualismus, der Widerspruch, der das Universum entzweiete, vertilgt. Das Wissen, [p. 49] wie das in Denken und Seyn getrennte Universum Eins werde, ist zugleich ein Wissen des Absoluten.
+
+essence, and it can be proved that this is so, is the highest task of philosophy solved, and the absolute dualism, the contradiction that divided the universe, destroyed. The knowing [p. 49] of how the universe, separated in thinking and being, becomes one is at the same time a knowing of the Absolute.
+
+> Alles andere Vereinigen,
+
+All other uniting,
+
+> Zusammenstimmen, u. s. w. ausser dem absolut Identischen, ist Widerspruch und folglich nichts. Reale, nicht formale Einheit des Denkens und Seyns zu erkennen, das ist das Streben der Philosophen. Nothwendig musste so die Vernunft auf das All-Eins (παν §v) übergehen. ---- Wenn man übrigens den von dem Verstande in das Universum gesetzten absoluten Widerspruch für den Text ansieht, worüber die Philosophie den Commentar zu liefern haben soll, so möchten wir doch wissen, aus welchem Gesichtspuncte ein solcher Commentar anzusehen sey, indem er nicht bündiger seyn kann, als der Text selbst. §.
+
+according, etc., apart from the absolutely identical, is contradiction and consequently nothing. To know the real, not formal, unity of thinking and being — that is the striving of philosophers. Necessarily, then, reason had to pass over to the All-One (πᾶν ἕν). —— If, moreover, one regards the absolute contradiction placed in the universe by the understanding as the text on which philosophy is supposed to furnish the commentary, we should still like to know from what point of view such a commentary is to be regarded, since it cannot be more cogent than the text itself. §.
+
+> 25.
+
+25.
+
+> Schellings Absolutes findet bei unsern Em pirikern (wozu auch Berg gehört,) nur des. wegen so viel Widerspruch, weil sie es nicht mit den Händen greifen können, oder mit der Nase darauf stofsen. Eine unmittelbare Erkenntniss des Absoluten ist ihnen eine Unmöglichkeit. Und doch müssen sie uns zugeben, dass das, was absolut ist, nimmermehr mittelbar aufgefasst oder erkannt werden könne.
+
+Schelling's Absolute meets with so much opposition among our empiricists (to whom Berg also belongs) only because they cannot grasp it with their hands or bump their noses against it. An immediate knowledge of the Absolute is for them an impossibility. And yet they must grant us that what is absolute can never be apprehended or known mediately.
+
+> Indem sie alles mittelbar begreifen [p. 50] wollen, gehen sie, demallbeliebten Grundsatze der Causalität zufolge, von einer erscheinenden Form zur andern fort, verbinden in ihrem Kopfe (wovon aber die Natur nichts weiss,) Ursache und Wirkung fein miteinander, und weil doch am Ende nichts herauskommt, als Widerspruch; so will man durch ein Machtgebot der von ihnen sogenannten practischen Vernunft denselben vertilgen. Aber, was mit Widerspruch angefangen wird, muss mit Widerspruch enden. Die verlangte Einheit eines Systems wird dadurch nicht herbeigezaubert, dass man sie postulirt; sondern mit Recht wird gefordert, dass sie realiter zum Bewusstseyn gelange. §. 226.
+
+Since they want to comprehend everything mediately, [p. 50] they proceed, in accordance with the universally beloved principle of causality, from one appearing form to another, nicely connect cause and effect with one another in their heads (of which, however, nature knows nothing), and because in the end nothing comes out but contradiction, they want to destroy it by a fiat of what they call practical reason. But what is begun with contradiction must end with contradiction. The demanded unity of a system is not conjured up by postulating it; rather it is rightly demanded that it come to consciousness realiter. §. 26.
+
+> Allerdings ist so das Absolute denkbar; aber nur dem mit der Vernunft identificirten
+
+The Absolute is indeed thinkable in this way; but only for the understanding identified with reason.
+
+> Verstande. Dieser erreicht die erste Stufe der
+
+This understanding reaches the first stage of
+
+> Vernünftigkeit in dem Augenblicke, in welchem er die Widersprüche, die in seiner Art, das Universum anzuschauen, liegen, einsieht.
+
+rationality at the moment in which it sees the contradictions that lie in its manner of intuiting the universe.
+
+> Aber damit ist noch keineswegs das Absolute erkannt. Erst dann, wenn die Form als Form vernichtet wird, d. h. wenn der Verstand sich selbst als einen Reflex des Absoluten, mithin sein Verhältnifs zu diesem und der ganzen
+
+But with this the Absolute is by no means yet known. Only when form as form is annihilated, that is, when the understanding knows itself as a reflex of the Absolute, and consequently its relation to this and to the whole
+
+> Erscheinungswelt erkennt; dann hört er auf [p. 51] bloss yous (formales Denken) zu seyn; er wird λογος (productiver Verstand, d. i. Vernunft). In dieser Productivität sich anschauend, erkennt diese ihr ewiges Seyn, d. i. ihr Ansich, oder ihr Seyn im Absoluten. Hier liegt der tiefe Sinn jener Worte Spinoza's, welche Schelling in seiner vortrefflichen Schrift (Philosophie und Religion) anführt: Mens nostra, quatenus se sub alternitatis specie cognoscit, eatenus Dei cognitionem necessario habet, scisque se in Deo esse et per Deum concipi. Freilich erwirbt man ein solches Wissen nur durch Freithätigkeit des Geistes.
+
+world of appearance, does it cease [p. 51] to be merely νοῦς (formal thinking); it becomes λόγος (productive understanding, that is, reason). Intuiting itself in this productivity, reason knows its eternal being, that is, its in-itself, or its being in the Absolute. Here lies the deep sense of those words of Spinoza which Schelling cites in his excellent work (Philosophie und Religion): Mens nostra, quatenus se sub aeternitatis specie cognoscit, eatenus Dei cognitionem necessario habet, scitque se in Deo esse et per Deum concipi [Our mind, insofar as it knows itself under the aspect of eternity, to that extent necessarily has knowledge of God, and knows that it is in God and is conceived through God]. Of course one acquires such knowing only through the free activity of spirit.
+
+> Aber eben deswegen; weil bei dieser Handlung die Vernunft über alle Verhältnisse der Sinne (des formalen
+
+But precisely because in this act reason goes, and must go, beyond all relations of the senses (of formal
+
+> Denkens) hinausgeht und hinausgeheu muss und sich in und durch sich selbst anschaut; wird das hier statt habende Erkennen ein absolutes genannt. §.
+
+thinking), and intuits itself in and through itself, the knowing that takes place here is called an absolute knowing. §.
+
+> 27.
+
+27.
+
+> Wenn Berg sagt, alles Denken sey im Absoluten aufgehoben; so ist dieses zwar in so ferne richtig, als das Absolute weder Denken noch Seyn, sondern das Eins beider ist; wenn er aber glaubt, es sey auch völlig in unserer Vernunft aufgehoben; so irret er sich: denn diese ist selbst nur eine Form (Darstellungsweise) des Absoluten. Das ihr eigene Anschauungsvermögen [p. 52] ist daher noch immer ein Denken, d. i. ein Erkennen in der Form; allein eben deswegen, weil hier die Vernunft durch Selbstthätigkeit ihre eigene Form vernichtet, erfährt man, dass die Form nichts im Gegensatze gegen das Wesen, oder, was dasselbe ist, dass das An - sich aller Erscheinungen und also auch unsers Denkens, das Absolute selbst sey.
+
+When Berg says that all thinking is cancelled in the Absolute, this is indeed correct insofar as the Absolute is neither thinking nor being, but the one of both; but when he believes that it is also completely cancelled in our reason, he is mistaken: for reason is itself only a form (manner of presentation) of the Absolute. The faculty of intuition proper to it [p. 52] is therefore still always a thinking, that is, a knowing in form; but precisely because here reason annihilates its own form through self-activity, one learns that form is nothing in opposition to essence, or, what is the same, that the in-itself of all appearances, and thus also of our thinking, is the Absolute itself.
+
+> Uebrigens wird es hier beinahe handgreiflich, dass Berg nicht einınal geahnet hat, was Schelling mit seinem Absoluten wollte. S. 28 wird die Frage erhoben: Wie bestünde denn dein Absolutes, wenn in Ansehung desselben Widersprüche eine gleichgültige Sache wären und in einer Periode Ja und Nein über denselben Punct ausgesagt Nun da haben wir's! Nun mag würden? Schelling sehen, wie er diesen Stofs auspa-rive! Doch zur Sache.
+
+For the rest, it becomes almost palpable here that Berg has not even had an inkling of what Schelling meant by his Absolute. On p. 28 the question is raised: how then would your Absolute stand, if with respect to it contradictions were a matter of indifference and in one period Yes and No were asserted about the same point? Now there we have it! Now let Schelling see how he parries this thrust! But to the matter.
+
+> Hätte das Gesetz des
+
+If the law of
+
+> Widerspruchs keine höhere Bedeutung, als ihm in Berg's Sextus beigelegt wird; so stünde die Sa he allerdings sehr schlimm. Aber so ist es nicht!
+
+contradiction had no higher meaning than is ascribed to it in Berg's Sextus, then the matter would indeed stand very badly. But it is not so!
+
+> Wie lautet das Gesetz des Widerspurchs? Was ich nicht denken kann, kann auch nicht seyn. Oder: Was im Denken einen Wider.
+
+How does the law of contradiction run? What I cannot think cannot be either. Or: what in thinking involves a contra-
+
+> spruch involvirt, involvirt ihn auch im Gedachten.
+
+diction involves it also in what is thought.
+
+> Was berechtigt denn Berg, das, [p. 53] was er in subjectiver Hinsicht als widersprechend erkennt, auch in objectiver als widersprechend zu erklären? Was berechtigt ihn denn, sein Denken auf ein ihm absolut Entgegengesetztes überzutragen? Was berechtigt ihn denn, mit seinem Denken aus der ihm eigenthümlichen Sphäre hinauszugehen? Erwägt man dieses genau; so ergiebt sich, dass das Gesetz des Widerspruchs selbst einen Widerspruch in sich fasse. Und doch ist es dem menschlichen Geiste so eigen, dass er sich nicht davon trennen kann. Die Auflösung des Räthsels liegt darin, dass jenes Princip nicht nur in der subjectiven, sondern auch in der objectiven Natur zu Hause ist. Nur drückt es sich in einer Sphäre anders aus, als in der andern.
+
+What, then, entitles Berg to declare [p. 53] what he knows to be contradictory in a subjective respect to be contradictory also in an objective one? What entitles him, then, to transfer his thinking to something absolutely opposed to it? What entitles him, then, to go with his thinking beyond the sphere proper to it? If one weighs this carefully, it results that the law of contradiction itself contains a contradiction within itself. And yet it is so proper to the human spirit that it cannot separate itself from it. The solution of the riddle lies in this, that that principle is at home not only in subjective but also in objective nature. Only it expresses itself differently in one sphere than in the other.
+
+> Für die objective Natur muss es so bestimmt werden: Absolut Entgegenge. setzte können nicht zusammentreten und gemeinschaftlich eine Synthesis darstellen.
+
+For objective nature it must be determined thus: Things absolutely opposed cannot come together and jointly present a synthesis.
+
+> Für die subjective: Was sich im Denken widerspricht; widerspricht sich auch im Gedachten. Die Realität dieses Princips beruht einzig und allein darauf, dass der Organismus des Universums schlechthin Einer ist. §.
+
+For subjective nature: What contradicts itself in thinking contradicts itself also in what is thought. The reality of this principle rests solely and entirely on the fact that the organism of the universe is absolutely One. §.
+
+> 28.
+
+28.
+
+> Erst durch Schelling hat jenes Gesetz seine wahre Bedeutung erhalten. Es geht durch die [p. 54] ganze Erscheinungswelt hindurch, und ist nicht formaliter, sondern realiter in derselben. Nur dann, wenn Alles absolut (An sich) Eins ist, hat dieses Prinzip einen constitutiven Sinn, da es nach den Gesetzen des Reflexes nicht einmal einen formalen (regulativen) haben kann.
+
+Only through Schelling has that law received its true meaning. It runs through the [p. 54] whole world of appearance, and is in it not formaliter but realiter. Only when everything is absolutely (in itself) One does this principle have a constitutive sense, since by the laws of the reflex it cannot have even a formal (regulative) one.
+
+> Diesem ewigen Gesetze zu widersprechen, wird sich Schelling ganz gewiss hüten. Aber Berg darf es, vermöge seiner An. sicht vom Universum, nicht wagen, etwas über objective Natur zu entscheiden, wenn er nicht jeden speculativen Denker zum Lächeln reizen will.
+
+Schelling will most certainly take care not to contradict this eternal law. But Berg, by virtue of his view of the universe, may not venture to decide anything about objective nature, if he does not wish to provoke every speculative thinker to a smile.
+
+> Sollte er wohl hier nicht merken, welchen Sinn Schellings Behauptung: „Dals der Dogmatismus, der auf Verstandesbegriffe baue, einen ewigen Widerspruch gegen sich habe" in sich fasse? Nicht nach dem sich widersprechenden Gesetze des Widerspruchs, sondern wirklich vom Standpuncte des Absoluten aus, schlägt Schelling seine
+
+Should he really not notice here what sense Schelling's assertion contains: "That dogmatism, which builds on concepts of the understanding, has an eternal contradiction against itself"? Not according to the self-contradicting law of contradiction, but actually from the standpoint of the Absolute, does Schelling beat back his
+
+> Gegn zurück, und keineswegs überlässt er es dem gemeinen, sich widersprechenden, folglich nichtigen Denken, über sein Absolutes abzuurtheln. Das vernünftige Denken aber hat Schelling wahrhaftig nicht in sich aufgehoben. Das Denken der Vernunft ist Einheit; das des Verstandes Zweiheit. Aus dieser (absoluten) Duplicität kommt man so lange nicht [p. 55] heraus, als man den Reflex des Absoluten für etwas an sich nimmt, d. i. so lange man die Erscheinungen für etwas dem Absoluten an sich Entgegengesetztes hält. Hier klären sich Schellings Worte auf: Sich vom Reflex zum Ansich, zum Kategorischen und durch sich selbst Evidenten zu erheben, ist überhaupt Etwas, das sehr vielen versagt zu seyn scheint. Daher die Unfähigkeit, sich die reine Subject Objeetivität der absoluten Form als absolute Einheit zu denken.
+
+opponents, and by no means does he leave it to common thinking, which contradicts itself and is consequently null, to pass judgement on his Absolute. Rational thinking, however, Schelling has truly not cancelled within himself. The thinking of reason is unity; that of the understanding duality. One does not get out of this (absolute) duplicity [p. 55] so long as one takes the reflex of the Absolute for something in itself, that is, so long as one holds appearances to be something opposed to the Absolute in itself. Here Schelling's words become clear: To raise oneself from the reflex to the in-itself, to the categorical and that which is evident through itself, is in general something that seems to be denied to very many. Hence the incapacity to think the pure subject-objectivity of the absolute form as absolute unity.
+
+> §.
+
+§.
+
+> 29.
+
+29.
+
+> Das absolute Denken oder Erkennen unterscheidet sich von dem relativen oder abgeleiteten dadurch, dass alles Relative und Entgegengesetzte aufgehoben, und das Universum, seinem Wesen nach, als Einheit und Allheit (Totalität) zugleich angeschaut wird. Ob es ein solches absolutes Erkennen gebe, oder, was völlig Eins ist, ob eine Erkenntniss des Absoluten möglich sey, daran scheint Berg nicht zu zweifeln. Aber nur Schellings Absolutes ist ihm nicht recht. Wenigstens sagt er: Man müsse das Bedingte in Ehren halten, um zum Unbedingten, d. i. wie wir glauben, Absoluten (denn eben nur das Bedingte kann absolut heissen) einen möglichen Weg zu haben.
+
+Absolute thinking or knowing is distinguished from relative or derived thinking by this, that everything relative and opposed is cancelled, and the universe, according to its essence, is intuited as unity and allness (totality) at once. Whether there is such an absolute knowing, or, what is entirely one, whether a knowledge of the Absolute is possible, Berg seems not to doubt. Only Schelling's Absolute is not to his liking. At least he says: One must hold the conditioned in honour in order to have a possible way to the unconditioned, that is, as we believe, the Absolute (for only the [un]conditioned can be called absolute).
+
+> Also verzweifelt Berg keineswegs, das Absolute [p. 56] (Unbedingte) zu finden. Aber der Weg, den er einschlägt, ist nicht der rechte. Uns dünkt, wenn man etwas über das sogenannte Unbedingte bestimmen wolle, so müsse man zuvor das Unbedingte kennen, gerade wie der Architect bei Erbaunng eines Hauses nicht mit den Dachsparren, sondern mit Legung des Grundes den Anfang macht. Doch das bei Seite! Was für ein Sinn liegt denn in der Frage: Giebt es ein Absolutes? Kein anderer als dieser: Giebt es einen Punct, wo die absolute Duplicität, in welche nach Angabe des Verstandes, das Universum zerfällt, aufgehoben ist? Dass es einen solchen Punct gebe, ist, der Reflexionsphilosophie zufolge, nicht einmal erweisslich, noch weniger also jener Punct selbst erkennbar; aber er wird doch - wie wie fromm! consequent! - postulirt, und durch Glauben fest gehalten. Aber warum ist denn jener Punct nicht erkennbar? Blos aus dem einzigen Grunde, weil der Verstand demselben ausserhalb der zu vereinigenden Gegensätze einen Platz anweisst.
+
+So Berg by no means despairs of finding the Absolute [p. 56] (unconditioned). But the way he takes is not the right one. It seems to us that if one wishes to determine anything about the so-called unconditioned, one must first know the unconditioned, just as the architect, in building a house, makes the beginning not with the rafters but with the laying of the foundation. But let that be! What sense, then, lies in the question: Is there an Absolute? None other than this: Is there a point where the absolute duplicity, into which, according to the account of the understanding, the universe falls apart, is cancelled? That there is such a point is, according to the philosophy of reflection, not even demonstrable, still less, then, is that point itself knowable; but it is nevertheless (how pious! how consistent!) postulated, and held fast by faith. But why, then, is that point not knowable? Merely for the single reason that the understanding assigns it a place outside the opposites that are to be united.
+
+> Aber kann denn wirklich das, in welchem Gegensätze vereinigt werden sollen, ausserhalb der Wenn Jemand Gegensätze selbst liegen?
+
+But can that in which opposites are to be united really lie outside the opposites themselves? If someone
+
+> im Ernste die Frage erhöbe: Liegt der Mittelpunct ausserhalb der Peripherie des Cirkels?
+
+in earnest raised the question: Does the centre lie outside the periphery of the circle?
+
+> [p. 57] so könnten wir bei diesem Jemand auf die
+
+[p. 57] we might, in the case of this someone, fall into the
+
+> Vermuthung gerathen, er möchte nicht allzu.
+
+suspicion that he was not all too
+
+> gut unter dem Hute verwahrt seyn. Darum nehmen wir uns sehr in Acht, den Vereinigungspunct zwischen Extreme ausserhalb der Linie zu versetzen, um nicht in einen uns unangenehmen Verdacht zu kommen. §.
+
+well kept under his hat. Therefore we take great care not to put the point of union between extremes outside the line, so as not to come under a suspicion unpleasant to us. §.
+
+> 30.
+
+30.
+
+> Wäre das Absolute ein ausserhalb der Gegensätze liegendes, ein ausserweltliches Ding; so könnte die Jdee desselben gar nicht in unserm Bewusstseyn vorkommen. Unsere Sprache hätte gar kein Wort für dasselbe. Kürz, das Absolute kann, ohne Widerspruch, als ein ausserweltliches Ding gar nicht gedacht werden. Es muss daher dem Universum und mithin auch unserer Vernunft immanent seyn. Ist es dieser immanent; so ist es nicht unerreichbar für dieselbe. Ist es ihr erreichbar, so lässt sich dieses nicht anders denken, als dass sie sich selbst als einen Reflex des Absoluten erkenne. Erkennt sie sich als einen solchen, so erkennt sie nothwendig das Absolute, das ihr wahres Ansich ist. Wenn Berg einmal über diese Sätze gehörig nachgedacht hat, dann mag erwiederkommen und sich mit Schelling mes sen.
+
+Were the Absolute something lying outside the opposites, an extramundane thing, then the idea of it could not occur in our consciousness at all. Our language would have no word for it at all. In short, the Absolute cannot, without contradiction, be thought as an extramundane thing at all. It must therefore be immanent to the universe and consequently also to our reason. If it is immanent to the latter, then it is not unattainable for it. If it is attainable for it, then this cannot be thought otherwise than that reason knows itself as a reflex of the Absolute. If it knows itself as such, then it necessarily knows the Absolute, which is its true in-itself. When Berg has once duly reflected on these propositions, then he may come back and measure himself against Schelling.
+
+> [p. 58] Wenn dieser wahrhaft speculative Denker die Behauptung aufstellt: Es giebt ein Absolutes, aber nur innerhalb des Universums, dessen Wesen es ist; es ist daher auch erreichbar für die menschliche Vernunft u. s. w. , wie will es Berg vor dem Richterstuhle sviner Vernunft und seiner Zeitgenossen verantworten, wenn er die so bestimmte Idee des Absoluten für ein Erzeugnifs der Phantasie erklärt? Was ist denn Phantasie? Im Gegensatze gegen den Verstand ist die Phantasie als freies Denken zu characterisiren. Der Verstand kommt nämlich nie über die besondere und einzelne Formen hinaus; immer ordnet er eine der andern unter.
+
+[p. 58] When this truly speculative thinker puts forward the assertion: There is an Absolute, but only within the universe, whose essence it is; it is therefore also attainable for human reason, and so on, how will Berg answer before the judgement seat of his reason and of his contemporaries when he declares the idea of the Absolute so determined to be a product of phantasy? What, then, is phantasy? In opposition to the understanding, phantasy is to be characterized as free thinking. For the understanding never gets beyond the particular and single forms; always it subordinates one to another.
+
+> Die Phantasie vermag zwar über die besondern und einzelnen Formen der Erscheinungen hinauszugehen; aber nie über die allgemeine Form, unter welcher das Absolute erscheint, nämlich Raum und Zeit. Ganz anders ist es mit der Vernunft. Als ein freithätiges Vermögen geht sie hinaus über die besondern Formen, auf welche der Verstand, über die allgemeine Form, auf welche die Phantasie eingeschränkt ist, und sucht ihre Möglichkeit zu erweisen. Auch dieser Begriff könnte nicht in unserm Bewusstseyn vorkommen, wenn Vernunft nicht eine unabhängig von aussen widersprechenden Eindrücken [p. 59] (Erscheinungen) wirkende Kraft wäre. In der oben angegebenen Beziehung ist der Verstand als reines Auffassungsvermögen der einzelnen todten Formen, unorganischer, die Phantasie, in welcher sich eine regere (freiere) Thätigkeit äussert, organischer Natur; die Ver. nunft erscheint als reine Thätigkeit; aber sie ist es nicht, und darum nicht ausser aller Form, d. h. sie gehört mit zur Erscheinungswelt, oder sie ist ein Reflex, aber der allerreinste Reflex des Absoluten,des Einen und als solchen nothwendig Identischen, also Formlosen und mithin nie Erscheinenden. §.
+
+Phantasy is indeed able to go beyond the particular and single forms of appearances; but never beyond the universal form under which the Absolute appears, namely space and time. It is quite otherwise with reason. As a freely active faculty it goes out beyond the particular forms, to which the understanding, and beyond the universal form, to which phantasy is restricted, and seeks to demonstrate their possibility. This concept, too, could not occur in our consciousness if reason were not a force working independently of contradictory impressions from without [p. 59] (appearances). In the relation indicated above, the understanding, as a pure faculty of apprehending single dead forms, is of inorganic nature, phantasy, in which a livelier (freer) activity expresses itself, of organic nature; reason appears as pure activity; but it is not that, and therefore not outside all form, that is, it belongs along with the rest to the world of appearance, or it is a reflex, but the very purest reflex, of the Absolute, of the One, and as such necessarily identical, therefore formless and consequently never appearing. §.
+
+> 51.
+
+31.
+
+> Der Vergleich mit dem Träumer Manes passt also so gewiss nicht hieher, als Vernunft keine Phantasie ist.
+
+The comparison with the dreamer Manes therefore does not fit here, as certainly as reason is not phantasy.
+
+> Weit entfernt, zu träumen, d. i. blos auf Raum und Zeit eingeschränkt zu seyn. schaut sie, freithätig jene Form vernichtend, das Wesen selbst an. Wenn
+
+Far from dreaming, that is, from being restricted merely to space and time, it intuits, freely active and annihilating that form, essence itself. If
+
+> Erfahrung, als bloses Auffassen der widersprechenden Formen, die conditio sine qua non alles Philosophirens ist; so kommt Berg nie über die Erscheinungen und deren Analysis, und somit auch nicht aus dem Widerspruche hinaus. O wie wohl hätte er also gethan, wenn er mit seinem System der Philosophie, von welchem er in der Vorrede zu seinem Sextus [p. 60] spricht, und welches damals, gewisser Ursachen halber, noch nicht erscheinen konnte, zu Hause geblieben wäre! Konnte er doch; als gemeiner Empiriker, nichts weiter als das alte Lied leiern, dessen Inhalt wir ihm hätten zum Voraus angeben können: Das Universum steht in absolutem Gegensatze; über diesen kommen wir nicht hinaus, und also wissen wir, dass wir nichts wissen.
+
+experience, as mere apprehending of the contradictory forms, is the conditio sine qua non of all philosophizing, then Berg never gets beyond appearances and their analysis, and thus also not out of contradiction. Oh, how well he would have done, then, had he stayed at home with his system of philosophy, of which he speaks in the preface to his Sextus [p. 60] and which at that time, for certain reasons, could not yet appear! For as a common empiricist he could do nothing more than grind out the old song, whose content we could have told him in advance: The universe stands in absolute opposition; we do not get beyond this, and so we know that we know nothing.
+
+> Zwischen Berg und uns ist folgender bedeutender Unterschied: Unser Standpunct bei der Ansicht des Universums ist der der freithätigen (construirenden) Vernunft; Bergs Standpunct aber der des rein logischen (formalen)Denkens. Uns zufolge erhebt sich die Vernunft in und durch sich selbst über alle Erfahrung; der Verstand fafst nur das Uebrigens Gegebene auf und analysirt es. nenne man Schellings Philosophie Idealismus oder Realismus; so hat man in einem gewissen Sinne Recht. Uus gefällt die Bezeichnung durch: Philosophie des Alls, so wie der Name: Identitäts - System. §.
+
+Between Berg and us there is the following significant difference: Our standpoint in viewing the universe is that of freely active (constructing) reason; Berg's standpoint, however, that of purely logical (formal) thinking. According to us, reason raises itself in and through itself above all experience; the understanding merely apprehends what is given and analyses it. For the rest, call Schelling's philosophy idealism or realism, and one is right in a certain sense. To us the designation "philosophy of the all" is pleasing, as is the name "system of identity". §.
+
+> 32.
+
+32.
+
+> Allerdings verwirft Schelling den Realismus; welcher behauptet, es existire ausser dem Absoluten etwas an sich.
+
+Schelling certainly rejects realism, which asserts that something in itself exists outside the Absolute.
+
+> Und doch hat die
+
+And yet the
+
+> Erscheinungswelt Realität für ihn; aber freilich nur, in so ferne sie im Absoluten ist.
+
+world of appearance has reality for him; but of course only in so far as it is in the Absolute.
+
+> [p. 61] Diese Realität steht fester als die, die ihr durch den Verstand angewiesen werden will. Nur aus diesem kommt der unvertilgbare Dualismus. von welchem das Universum nichts weifs. Berg spricht zwar von einer Vereinigung des Subjectiven und Objectiven, welche keine Identität seyn soll; aber diese Vereinigung ist der Epikritik schlecht gelungen: denn Berg konnte, wie es denn ganz natürlich war, nicht aus dem Widerspruche hinauskommen. Wir dürfen wohl fragen: Wenn das Absolute keine Identität ist, :
+
+[p. 61] This reality stands firmer than that which would be assigned to it by the understanding. Only from the latter comes the ineradicable dualism, of which the universe knows nothing. Berg does speak of a union of the subjective and the objective which is not supposed to be an identity; but this union has turned out badly for the Epikritik: for Berg could not, as was indeed quite natural, get out of contradiction. We may well ask: If the Absolute is no identity, :
+
+> was ist es denn? Was wäre denn das für eine Realität, die unserm Erkennen zu Grunde liegen soll? Was wären denn das für Widersprüche, in welche der Leugner jener Realität verwickelt werden, durch welche er beschämt werden soll? Sieht denn Berg nicht, dass gerade dieses ihm mit seinem absoluten Dualismus widerfährt, vermöge welches er einen Widerspruch postulirt und daher dem Colosse der Philosophie ein Nichts (denn was sich selbst widerspricht, ist nichts) zum Postament giebt? Wir fassen das Gesagte in Folgendes zusammen: Wer mit absoluter Duplicität_anhebt; muss mit solcher enden.
+
+what, then, is it? What sort of reality would that be which is supposed to lie at the ground of our knowing? What sort of contradictions would those be in which the denier of that reality is to be entangled, and by which he is to be put to shame? Does Berg not see that precisely this befalls him with his absolute dualism, by virtue of which he postulates a contradiction and therefore gives the colossus of philosophy a nothing (for what contradicts itself is nothing) for a pedestal? We sum up what has been said in the following: Whoever begins with absolute duplicity must end with it.
+
+> Berg hebt mit einer solchen (mit einem Widerspruche) an;
+
+Berg begins with such a duplicity (with a contradiction);
+
+> Folglich muss er damit enden.
+
+Consequently he must end with it.
+
+> [p. 62] Hier hat Berg einen Syllogismus in bester logischer Form;
+
+[p. 62] Here Berg has a syllogism in the best logical form;
+
+> ob er aber unter Barbara,
+
+but whether it belongs under Barbara,
+
+> Barbaralipton u.s.w. gehört, das wird er wohl am besten wissen. Genug, dass er richtig ist. Aber noch einmal erinnern wir uns, dass Berg sagt, das Verschiedene stimme in einem Puncte zusammen. Das Wo? anzugeben, fand Berg damals, als er seinen Sextus heraus gab, nicht für gut. Dieses tiefe Geheimniss haben wir nun aus seines Epikritik erfahren. Und nun mag sich Schellings Philosophie verkriechen wie eine Maus in ihr Loch, da Berg sein absolutes Licht vor der Welt hat leuchten lassen. Schon bei seinem Sextus stunden seine philosophirenden Zeitgenossen mit dem Finger an der Nase und warteten der Dinge, die da kommen sollten. Aber aber, es ging wie mit dem krei senden Berg
+
+Barbaralipton, etc., he will know best. Enough that it is correct. But once more we recall that Berg says the diverse agrees in one point. To state the where, Berg did not see fit at the time when he published his Sextus. This deep secret we have now learned from his Epikritik. And now Schelling's philosophy may creep away like a mouse into its hole, since Berg has let his absolute light shine before the world. Already at his Sextus his philosophizing contemporaries stood with finger to nose and waited for the things that were to come. But, but, it went as with the mountain (Berg) in labour
+
+> Richtig, Satyre ist keine Widerlegung, aber sie hat doch, um Berg zu parodiren, das Verdienst einer literarischen Polizei, indem sie gewisse Leute abhält, über Dinge abzuurtheln, wovon sie nichüs verstehen und mag genug seyn.
+
+True, satire is no refutation, but it does have, to parody Berg, the merit of a literary police, in that it keeps certain people from passing judgement on things of which they understand nothing; and let that be enough.
+
+> Also das Verschiedene stimmt in einem Puncte zusammen. Mit diesem Zusammenstimmen kann, kraft mehrerer
+
+So the diverse agrees in one point. By this agreement, on the strength of several
+
+> Aeusserungen in Berg's Sextus (mit welchem wir es hier eigentlich zu thun haben), keinblos [p. 63] formales, sondern ein reales gemeint seyn. Ist dieses; so befindet er sich mit Schelling auf einem Wege, und er ist daher ein Krypto Schellingianer. §.
+
+utterances in Berg's Sextus (with which we are here properly concerned), no merely [p. 63] formal but a real agreement can be meant. If this is so, then he finds himself on one road with Schelling, and he is therefore a crypto-Schellingian. §.
+
+> 33.
+
+33.
+
+> Lustig wird nun für den Kenner des Identitätssystems die Scene, wo Sextus dem Plotin beweisst, dass die erscheinenden Dinge etwas an sich seyn müssten, weil es sonst keine Sprache, keine Geschichte, kein Lehren und Lernen geben könnte. Aber wissen möchte ich, fährt Sextus fort, was ihr so von der Lüge denket, indem das absolute Ich nicht aus seiner Sphäre hinausschreitet und man sowohl sich täuschen, aber nie den andern belügen und betriegen kann. - Der ganze Missverstand beruht offenbar darauf, dass Berg wähnt, Schelling betrachte die erscheinenden Dinge als ganz und gar nichts. Aber dieses thut nur der einseitige, die Sphäre des Objectiven nicht umfas. sende Idealismus, den wir weiter oben Idealistik nannten, Die Vernunft erkennt ihre Realität; nicht diese, sondern der Widerspruch, unter welchem sie sich darstellen. wird aufgehoben. Nach dieser Bemerkung muss es uns klar seyn, was Lehren und Lernen heifst. Der
+
+Amusing, now, for the connoisseur of the system of identity, becomes the scene where Sextus proves to Plotinus that the appearing things must be something in themselves, because otherwise there could be no language, no history, no teaching and learning. But I should like to know, Sextus continues, what you think of the lie, since the absolute I does not step out of its sphere and one can indeed deceive oneself, but never lie to and cheat another. The whole misunderstanding evidently rests on Berg's imagining that Schelling regards the appearing things as altogether nothing. But only the one-sided idealism that does not embrace the sphere of the objective does this, the idealism we called Idealistik further above. Reason knows their reality; not this, but the contradiction under which they present themselves, is cancelled. After this remark it must be clear to us what teaching and learning means. The
+
+> Lehrer der Philosophie kann weiter nichts thun, als die Widersprüche aufdecken, in welche das [p. 64] blos formale (nur die Form der Dinge berücksichtigende) Denken verwickelt Diese Widersprüche kann zwar der Schüler erkennen; aber auf den Standpunct, auf welchem das Universum in Harmonie übergeht, muss er sich selbst durch freie Thätigkeit seiner Vernunft erheben, so dass er mit Evidenz einsieht, es könne keine andere Ansicht desselben geben. Die Geschichte ist ein von Ewigkeit her fortgehendes Objectivwerden des Absoluten. Die Mängel, die wir hier an dem Menschen wahrnehmen, beweisen nur, dass er sein wahres Verhältniss zum Absoluten nicht kannte.
+
+teacher of philosophy can do nothing more than uncover the contradictions in which [p. 64] merely formal thinking (thinking that considers only the form of things) entangles itself. These contradictions the pupil can indeed recognize; but to the standpoint on which the universe passes over into harmony he must raise himself through the free activity of his reason, so that he sees with evidence that there can be no other view of it. History is a becoming-objective of the Absolute that proceeds from eternity. The defects that we perceive here in man prove only that he did not know his true relation to the Absolute.
+
+> Eben so verhält es sich mit der Lüge. Nicht der wahre Weise, der das Absolute in seiner Lebendigkeit und Wahrheit erkannt hat, sondern nur der von der Kenntniss des Absoluten entblöste (gefallene) Mensch kann lügen. Jener spricht nur seine reinste innigste Ueberzeugung aus *) .
+
+It is just the same with the lie. Not the true sage, who has known the Absolute in its livingness and truth, but only the man stripped (fallen) of the knowledge of the Absolute can lie. The former utters only his purest, most inward conviction *) .
+
+> Aber an sich ist uns nichts verachtungswürdig, oder hässlich. Es ist immer, wenn gleich ein unvollkommenes Abbild, (eine minder edle Form) des Absoluten. Aber alles muss sich in und durch sich selbst auf eine höhere Stufe erheben können.
+
+But in itself nothing is contemptible or ugly to us. It is always, even if an imperfect image (a less noble form), of the Absolute. But everything must be able to raise itself in and through itself to a higher stage.
+
+> Ja, wenn die Totalität ins Auge gefasst wird; so nähert sich alles, wenn gleich *) Ihr sollt heilig seyn; denn ich biu heilig.
+
+Indeed, when the totality is taken into view, then everything, however *) You shall be holy; for I am holy.
+
+> [p. 65] noch so entfernt (durch die Form getrennt) von seinem Urbilde, diesem immer mehr. Es würde, um uns hierüber weiter zu verbreiten, eine eigene Abhandlung erfordert werden, und schon Schelling hat es besser gethan, als wir zu thun vermöchten. S. Philosophie und Religion. Tübing. 1804. *) Freilich setzt die Sprache das Daseyn vieler Menschen voraus, und diese sind für uns realiter, und folglich ist unsere Sprache nicht nichts, sondern Etwas.
+
+[p. 65] far removed (separated by form) from its archetype, approaches it ever more. To expand further on this would require a treatise of its own, and Schelling has already done it better than we should be able to do. See Philosophie und Religion. Tübingen 1804. *) Of course language presupposes the existence of many human beings, and these are for us realiter, and consequently our language is not nothing but something.
+
+> Das Alles was beweist es wohl?
+
+What does all this prove, then?
+
+> Dafs Berg wirklich nicht gewusst, worüber er schrieb. Sonst hätte er Fragen, wie folgende gewiss nicht gethan: Begreifst du wohl unser Gespräch ohne Wechselwirkung - ohne Dualismus? Wenn Dualismus gleichbedeutend mit Wechselwirkung ist; so können wir Berg versichern, dass Schelling das nämliche behaupte. Ihm zufolge hat das Gesetz der Wechselwirkung nur in so ferne Realität, als alles an sich Eins ist; wenn aller Verschiedenheit der Form ungeachtet, allen Erscheinungen ein nnd dasselbe Wesen zu Grunde liegt.
+
+That Berg really did not know what he was writing about. Otherwise he would certainly not have put questions such as the following: Do you comprehend our conversation without reciprocal action, without dualism? If dualism is synonymous with reciprocal action, then we can assure Berg that Schelling asserts the very same. According to him the law of reciprocal action has reality only in so far as everything is in itself One; when, notwithstanding all diversity of form, one and the same essence lies at the ground of all appearances.
+
+> *) Diese Schrift ist uns vorzüglich deswegen schätzbar, weil Sch. seine Ueberzeugungen über Religion und Tugend darin niebergelegt hat.
+
+*) This writing is especially valuable to us because Sch. has set down in it his convictions about religion and virtue.
+
+> [p. 66] 5.334.
+
+[p. 66] §. 34.
+
+> Wahre Armseligkeiten sind es, welche von p. 50 85 ausgekramt werden. Wir wiederholen es, die Erscheinungswelt hat Realität für sich, und sie ist uns kein leerer Schein. Nur durch die Formalitäten des Verstandes wird sie dazu gemacht. Mag sich Berg sein Kunststück, das absolut Getrennte zu vereinigen, abkaufen lassen, von wem er will; wir zahlen ihm keinen Obolus dafür. Vou ganz gleichem Werthe ist uns sein causalisches Wissen, worauf er sich nicht wenig zu gut thut. Er sagt: wenn die Causalreihen, die uns hier erscheinen, als in's Unendliche bedingt, uns keinen Ruhepunct gewähren, so folgt nicht mehr, als dass das Unbedingte ausser den erscheinenden Causalreihen zu suchen ist.
+
+True paltrinesses are what is brought out from p. 50 to 85. We repeat it: the world of appearance has reality for itself, and it is to us no empty semblance. Only through the formalities of the understanding is it made into one. Let Berg sell his trick of uniting what is absolutely separated to whomever he will; we pay him no obol for it. Of quite equal worth to us is his causal knowledge, on which he prides himself not a little. He says: if the causal series that appear to us here, as conditioned to infinity, grant us no resting point, then nothing more follows than that the unconditioned is to be sought outside the appearing causal series.
+
+> Wie oder wann kommt denn aber Berg zum Unbedingten, wenn er auf seiner Causalitätsleiter nie die lezte Stufe (denn die Stufen gehen ja ins Unendliche fort!) erreicht? Zudem sagt er mit jenen Worten nicht mehr und nicht weniger, als: Mir ist das Absolute ein ens extramundanum. Berg sey doch so gut und gebe uns über folgende Kleinigkeit Aufschluss: Wie kann aus einem Unbedingten ein diesem an sich entgegengesetztes Bedingtes hervorgehen?
+
+But how or when, then, does Berg come to the unconditioned, if on his ladder of causality he never reaches the last rung (for the rungs go on to infinity!)? Besides, with those words he says neither more nor less than: To me the Absolute is an ens extramundanum. Let Berg be so good as to give us information on the following trifle: How can a conditioned that is in itself opposed to an unconditioned proceed from it?
+
+> [p. 67] Zeigt uns dieses Berg auf eine die Vernunft befriedigende Art; so wollen wir Schellings Philosophie an ihn verloren geben. Aber bündig muss der Beweiss seyn, und es darf nichts postulirt werden. §.
+
+[p. 67] If Berg shows us this in a manner that satisfies reason, then we will give Schelling's philosophy up as lost to him. But the proof must be cogent, and nothing may be postulated. §.
+
+> 35.
+
+35.
+
+> Wir können nicht umhin, wiewohl deshalb schon breitere Erwähnung geschehen ist, noch einen Beweiss von Berg's tiefem Eindringen in Schelling's Lehre (p. 62.) anzuführen. Hier fragt Sextus: Du läugnest das Ding an sich, das heisst, alle Dinge sind dir nur Schein oder etwas in der Vorstellung, an sich aber nichts. Ist's nicht so? Wirklich, antwortet Plotin.
+
+We cannot refrain, although broader mention has already been made of it, from adducing yet one more proof of Berg's deep penetration into Schelling's doctrine (p. 62). Here Sextus asks: You deny the thing in itself, that is, all things are to you only semblance or something in representation, but in themselves nothing. Is it not so? Indeed, answers Plotinus.
+
+> Wäre diesem Plotin der Kopf auf dem rechten Flecke gesessen; so hätte er so antworten müssen: Wirklich, armer Sextus, du sagst da etwas Abgeschmacktes. Mir sind die Dinge, nicht blos etwas in der Vorstellung; sondern wahrhaft und real; so real, als ich es selbst bin und du es bist. Aber wie ich merke, ist dir nur das real, worüber du mit den Füfsen stolperst, was freilich bei mir der Fall nicht ist. Daher deine ewige Instanz mit dem Ding an sich und mit den Initiativen, die von Seite des gemeinen Verstandes, von Reflexion begleitet, der Philosophie vorangehen sollen. 5*
+
+Had this Plotinus's head been sitting in the right place, he would have had to answer thus: Indeed, poor Sextus, you are saying something absurd there. To me things are not merely something in representation, but true and real; as real as I myself am and you are. But, as I notice, only that is real to you over which you stumble with your feet, which is of course not the case with me. Hence your eternal objection with the thing in itself and with the initiatives which, on the part of the common understanding, accompanied by reflection, are supposed to precede philosophy. 5*
+
+> [p. 68] Mir ist, wenn von der Erkenntniss des Absoluten die Rede ist, die schärfste Reflexion gerade so viel werth, als der gemeine Verstand: denn beide kommen nicht aus dem Widerspruche hinaus. Was ist denn Kant's Kritik anders, als das Resultat des geschärften Nachdenkens, von Reflexion begleitet? Was Fichte's Wissenschaftslehre? Und was fanden am Ende Beide? - So lange du den Vereinigungspunct von Denken und Seyn ausserhalb diesen scheinbaren Gegensätzen suchst; so lange mufs behauptet werden, dass alle Versuche, sich jenem Puncte zu nähern, nicht nur vergeblich, sondern offenbar widersprechend sind, und dafs jeder möglich gedachte Weg rückwärts führe. Siehst du, darum suche ich dir zu beweisen, dafs das Absolute der Vernunft nicht unzugänglich, dass alles, was existirt, der äussere (objective) Ausdruck des Absoluten, dieses also der Erscheinungswelt keineswegs fremd, sondern der innigste Geist derselben sey; dass die erscheinenden Dinge keineswegs nichts, oder nur etwas in unserer Vorstellung, sondern, ihrem Wesen nach, ewig seyen; dass es im Universum zwar einen Formenwechsel gebe aber, dieses Wechsels ungeachtet, das An - sich unverändert bleibe us. w. Diese Sätze hast du nicht nur nicht widerlegt;, sondern du hast in [p. 69] keiner Hinsicht ihren Sinn gefasst. Nur gegen deine eigene Phantasmen hast du gekämpft. Mit deinen Philosophen, die die Realität des Scheins behaupteten, mag ich mich deswegen nicht abgeben, weil ich überzeugt bin, ein Schein sey nichts Reales. Ich mag meine
+
+[p. 68] To me, when the talk is of the knowledge of the Absolute, the sharpest reflection is worth just as much as the common understanding: for neither gets out of contradiction. What else is Kant's critique than the result of sharpened deliberation accompanied by reflection? What else Fichte's Wissenschaftslehre? And what did both find in the end? So long as you seek the point of union of thinking and being outside these apparent opposites, so long must it be asserted that all attempts to approach that point are not only vain but evidently contradictory, and that every way thought possible leads backwards. You see, that is why I seek to prove to you that the Absolute is not inaccessible to reason, that everything that exists is the outer (objective) expression of the Absolute, that the Absolute is therefore by no means foreign to the world of appearance but its most inward spirit; that the appearing things are by no means nothing, or only something in our representation, but are eternal according to their essence; that in the universe there is indeed a change of forms, but that, notwithstanding this change, the in-itself remains unaltered, and so on. These propositions you have not only not refuted, but you have in [p. 69] no respect grasped their sense. You have fought only against your own phantasms. With your philosophers who asserted the reality of semblance I do not care to concern myself, because I am convinced that a semblance is nothing real. I do not care to aim my
+
+> Streiche nicht in die Luft führen; nicht mit Windmühlen mag ich fechten. Vergleichst du also jene alte Idealistiker mit mir, so kommt etwas, dergleichen uns Vater Horaz mahlt, zum Vorschein:
+
+blows at the air; I do not care to fight with windmills. If you therefore compare those old idealists with me, something comes to light such as Father Horace paints for us:
+
+> Humano capiti etc. etc. §.
+
+Humano capiti etc. etc. §.
+
+> 36.
+
+36.
+
+> Dass der Mond im Neulichte, im Viertel, im vollen Lichte, an sich nichts sey; dass, wenn er zu gewissen Zeiten gar nicht erscheint, er als das ausgemachteste Nichts angesehen werden müsse; dass die Sonne, samt dem ganzen gestirnten Himmel, nur ein scheinbares Etwas sey; dass die Ideen und Erfindungen der Menschen als Farbenspiele des ideellen Lichts zu betrachten und an sich nichts seyen; das alles, und noch mehr, glaubt Berg, sey Schellings Lehre. Das Licht, setzt er hinzu, samt allem, was es bescheint, ist selbst an sich nichts und verhält sich zum Absoluten, wie die Farbe zum Lichte.
+
+That the moon at new light, in its quarter, at full light, is in itself nothing; that when at certain times it does not appear at all, it must be regarded as the most utter nothing; that the sun, together with the whole starry heaven, is only an apparent something; that the ideas and inventions of human beings are to be regarded as plays of colour of the ideal light and are in themselves nothing; all this, and more besides, Berg believes to be Schelling's doctrine. The light, he adds, together with everything it shines upon, is itself in itself nothing and relates to the Absolute as colour to light.
+
+> [p. 70] Es gäbe in der That nichts Lächerlicheres als Schellings Lehre, wenn das alles in dem Sinne, in welchem Berg es nimmt, wahr wäre. Es ist uns unbegreiflich, wie er, der zu Wirzburg in Schellings Nähe lebte, diesen so ganz missverstehen konnte. Die Realität des gestirnten Himmels ist weder Schelling, noch uns, auch nur im mindesten zweifelhaft. Es gehört in die Sphäre der unorganischen Natur, und wie diese, als Totalität angesehen, auf drei Potenzen gebracht werden kann; so ist dieses auch der Fall mit den Himmelskörpern, deren Gröfse, Verschiedenheit, Glanz u. s. w. wir bewundern. Die Sterne zerfallen indrei Rangordnungen; es giebt Sonnen, Cometen und Planeten. Ihrem Wesen nach sind sie Eins; der Potenz nach sind sie verschieden. An sich ist jede Sonne Planet und jeder Planet und Comet Sonne.
+
+[p. 70] There would in fact be nothing more ridiculous than Schelling's doctrine if all this were true in the sense in which Berg takes it. It is incomprehensible to us how he, who lived in Würzburg near Schelling, could so entirely misunderstand him. The reality of the starry heaven is not in the least doubtful either to Schelling or to us. It belongs to the sphere of inorganic nature, and as this, regarded as a totality, can be brought to three potencies, so this is also the case with the heavenly bodies, whose size, diversity, splendour and so on we admire. The stars fall into three orders of rank; there are suns, comets and planets. According to their essence they are One; according to potency they are different. In itself every sun is planet, and every planet and comet sun.
+
+> Aber dem In- und Für - sichselbst - seyn nach ist die Welt der Sonnen von der der Cometen und Planeten auf immer ab gesondert. Der hier erscheinende Indifferenzpunct ist die Welt der Sonnen. Aber eine ganz reine Sonne giebt es nicht. Als eine solche ist nur das Absolute, als die Selbstsonne, die völlig durch und in sich stralt, anzusehen. Das Gesagte ist nun freilich in diesen Bogenkeinerweitern Darstellung fähig. Wir ver-
+
+But according to being in and for itself the world of suns is forever separated from that of comets and planets. The point of indifference that appears here is the world of suns. But a wholly pure sun there is not. Only the Absolute is to be regarded as such, as the self-sun that radiates entirely through and in itself. What has been said is, of course, capable of no further exposition in these sheets. We
+
+> :
+
+:
+
+> weisen [p. 71] aber auf folgende Schriften Schellings: Bruno, oder über das göttliche und natürliche Princip der Dinge. Ferner auf des I. Bandes 2tes St. der neuen Zeitschrift für speculative
+
+refer [p. 71], however, to the following writings of Schelling: Bruno, oder über das göttliche und natürliche Princip der Dinge. Further, to vol. I, no. 2 of the Neue Zeitschrift für speculative
+
+> Physik. §. VII. Speculative Bedeutung der (keplerischen) Gesetze des allgemeinen Weltbaues, p. 63. §.
+
+Physik. §. VII. Speculative significance of the (Keplerian) laws of the universal structure of the world, p. 63. §.
+
+> 37.
+
+37.
+
+> Was Berg über die alten Philosophen Griechenlands sagt, z. B. über Plato und andere, kann zwar nicht umständlich beleuchtet, darf aber doch auch nicht gänzlich mit Stillschweigen übergangen werden. Alle jene Philosophen waren, wie Berg meint, samt Spinoza, weiter nichts, als theils Idealisten, theils Realisten, beide Ausdrücke in dem gewöhnlichen schiefen Sinne genommen. Man kann schon daraus abnehmen, dass Berg nie in Plato's und Spinoza's Geist eingedrungen seyn könne, Was er endlich seinen Sextus zu Plotin sagen lässt, „er sey Spinoza nicht blos vertraut, sondern richtiger gesagt, Spinoza selbst, wiewohl es ihm, dem Plotin, schwer falle, sich in denselben einzustudiren; ob er nicht auch der Mörder sey, den man gestern geköpft habe, unerachtet ihm der Kopf noch auf dem Rumpfe sitze, und er sehr dagegen protestirt haben würde, wenn man ihn eines Mordes [p. 72] halber hätte vor Gericht ziehen wollen" ; so weiss man nicht, ob man über solche Albernheiten lachen oder weinen soll. Aber der Vergleich, der zwischen Schelling und dem jungen Mann im (Wirzburger) Irrenhause angestellt wird, macht Berg zum Lästerer, und nicht blos jenem ist es zu nahe getreten, sondern einem jeden, der Schellings Lehre kennt und schätzt, hat er dadurch das Recht gegeben, ihn derb zu züchtigen und ihn in seiner lächerlichen Nacktheit darzustellen.
+
+What Berg says about the old philosophers of Greece, for example about Plato and others, cannot indeed be illuminated in detail, but may not be passed over entirely in silence either. All those philosophers were, as Berg thinks, Spinoza included, nothing more than partly idealists, partly realists, both expressions taken in the usual skewed sense. One can already infer from this that Berg can never have penetrated into the spirit of Plato and of Spinoza. As for what he finally has his Sextus say to Plotinus, "that he is not merely familiar with Spinoza but, more correctly said, Spinoza himself, although it is hard for him, Plotinus, to study his way into him; whether he is not also the murderer who was beheaded yesterday, notwithstanding that his head still sits on his trunk, and he would have protested strongly against it had anyone wished to bring him to court on account of a murder [p. 72]", one does not know whether to laugh or weep over such absurdities. But the comparison drawn between Schelling and the young man in the (Würzburg) madhouse makes Berg a slanderer, and he has not merely offended the former, but has thereby given everyone who knows and esteems Schelling's doctrine the right to chastise him roughly and to display him in his ridiculous nakedness.
+
+> Doch hat sich Berg denn nicht selbst gezüchtiget? Ward er nicht zum Manne im Loche dadurch, dass er mit Schelling, einem solchen Riesengegner, anband? §.
+
+Yet has Berg not chastised himself? Did he not become the man in the hole by picking a quarrel with Schelling, so giant an opponent? §.
+
+> 38.
+
+38.
+
+> Wir gehen über die bereits gerügte und an. Undamit wir nicht mehr sagen geziemtheiten hinweg: denn es wird Zeit, einige Sätze, die Berg in Beziehung auf die alten Philosophen Griechenlands geltend zu machen. sucht, näher in's Auge zu fassen. Er wirft einem Xenophanes, Parmenides u. a. vor, ihre Philosophie sey absoluter Realismus gewesen, (als wenn Schellings Philosophie etwas anderes wäre!) indem das All, dessen Einheit sie lehrten, die Körperwelt gewesen sey, zu welcher sie auch den Menschen dere
+
+We pass over the improprieties already censured and others, so that we say no more: for it is time to take a closer look at some propositions which Berg seeks to assert in relation to the old philosophers of Greece. He reproaches a Xenophanes, a Parmenides and others with their philosophy having been absolute realism (as if Schelling's philosophy were something else!), since the all whose unity they taught was the corporeal world, to which they also
+
+> ---gerechnet [p. 75] hätten. Also deswegen war die Philosophie jener Männer Realismus, weil sie das, was man sonst Körper nennt, so wie den Menschen, so wie er ist, zu ihrem All zählten! Folglich, sagt Berg weiter, hätten sie es nur zur Einheit des Physischen gebracht? Dieses sehe man daraus, dass in ihrem All - Eins (nach uns, Absoluten) keine Bewegung statt haben sollte, (ἀκινητον) woraus wieder erhelle, dafs Realismus ihrem Idealismus unausbleiblich angehangen habe. Wie gründlich und tief eingreifend doch dieses Raisonnement ist. Wirklich lehrt Schelling im Grunde eben das, was jene Männer lehrten, und doch ist seine Philosophie kein solcher Realismus, dergleichen in Bergs Kopfe spuckt. Auch zu unserm All gehört die ganze Körperwelt und der Mensch nach seinem ganzen Seyn. Nur ist uns das, was man sonst Körper oder Geist (Erscheinungswelt überhaupt) nennt, nichts dem Absoluten an sich Entgegengesetztes, sondern alles, was ist, Repräsentant (Darstellung) desselben auf einer bestimmten Stufe (in einer gewissen Potenz). Eine solche Philosophie mag man nennen, wie man will; so ist es gleichviel. Auch ist uns das Absolute weder ein Bewegliches noch ein Unbewegliches, d. h. die Vorstellung des Raums und der Zeit ist gar nicht auf dasselbe anwendbar; sondern, wenn doch Worte darüber gebraucht werden sollen, eine Thätigkeit, die die tiefste Ruhe selbst ist. §. 39.
+
+counted [p. 75] man. So the philosophy of those men was realism for this reason, that they counted what is otherwise called body, as well as man, such as he is, as belonging to their all! Consequently, Berg says further, they had arrived only at the unity of the physical? This one sees from the fact that in their All-One (according to us, absolute) there was supposed to be no motion (ἀκινητον), from which it again becomes evident that realism inevitably clung to their idealism. How thorough and deeply penetrating this reasoning is! Schelling does in fact teach at bottom just what those men taught, and yet his philosophy is no such realism as haunts Berg's head. To our all, too, belongs the whole corporeal world, and man according to his whole being. Only, what is otherwise called body or spirit (the world of appearance in general) is to us nothing in itself opposed to the Absolute, but everything that is is a representative (presentation) of it at a determinate stage (in a certain potency). Such a philosophy may be called what one will; it is all the same. Nor is the Absolute to us either something movable or something immovable, that is, the representation of space and time is not applicable to it at all; but rather, if words must after all be used about it, an activity that is the deepest rest itself. §. 39.
+
+> Eben so bündig, wie hier, geht Berg mit Plato's Philosophie zu Werke. Er sagt: Dem Plato seyen die Ideen, diese Ausflüsse der Vernunft, die Gründe des Wissens und des Seyns, die Mutter des Wahren, Guten und Schönen, des Allgemeinen, und des Besondern. Ausser diesen Ideen sollte weder
+
+Just as cogently as here does Berg go to work with Plato's philosophy. He says: For Plato the ideas, these effluxes of reason, were the grounds of knowing and of being, the mother of the true, the good and the beautiful, of the universal and of the particular. Outside these ideas there was to be neither
+
+> Wahrheit noch Seyn statt finden. In so weit wäre Plato's nicht nur, sondern auch
+
+truth nor being. Thus far not only Plato's but also
+
+> Schellings Lehre richtig dargestellt. Aber die darüber mitgetheilten Erläuterungen klingen um so disharmonischer. Wir übergehen Mehreres und bemerken nur Folgendes, das Berg seinem Sextus in den Mund legt: Die Ideen Plato's waren also von der Existenz durchaus verschieden und so auch in Gott.
+
+Schelling's doctrine would be correctly presented. But the explanations imparted about it sound all the more discordant. We pass over several things and note only the following, which Berg puts into his Sextus's mouth: Plato's ideas were therefore wholly different from existence, and so also in God.
+
+> Ferner: Vergissest du der Materie, des Körperstoffes der Welt, ewig ausser Gott vorhanden, dieser positiven Schranken aller Ideen und der Ursache aller Unvollkommenheiten und Mängel im Universum? Hier, fährt Sextus fort, hast du eine reelle Opposition Gottes, und eines an und für sich ewig so wie Gott existirenden
+
+Further: Do you forget matter, the corporeal stuff of the world, present eternally outside God, this positive limit of all ideas and the cause of all imperfections and defects in the universe? Here, Sextus continues, you have a real opposition of God and of a stuff existing in and for itself eternally just as God does,
+
+> Stoffes, der den Ideen desselben stets entgegen arbeitet. (Wahrlich! kaum trauten wir unsern Augen, als wir dieses lasen.) Zulezt löst sich also alles bei Plato in Realismus auf, in Hinsicht des geistigen Subjects sowohl als der Materie, und dieser Realismus, der in Dualismus zerfällt, ist nicht einmal absolut. Von Plato habt ihr also wenig Ehre. Ach, armer Plato, wie bist du unter die Mörder gefallen - wie hat man dich geradbrecht! Sagten wir nicht, Berg sey weiter nichts, als ein Seynsphilosoph, der als solcher sich nie zur wahren Speculation erheben könne? Ihm steht das Absolute mit der Erscheinungswelt in ewigem Widerspruche. Aber so war's nicht bei Plato. Keineswegs setzte er seine Ideen den erscheinenden Dingen an sich entgegen; vielmehr waren ihm die Dinge selbst diese Ideen und diese jene, oder anders ausgedrückt, das Ansich aller Erscheinungen war ihm die Idee.
+
+which constantly works against his ideas. (Truly! we scarcely trusted our eyes when we read this.) In the end, then, everything in Plato dissolves into realism, with regard to the spiritual subject as well as to matter, and this realism, which falls apart into dualism, is not even absolute. So from Plato you have little honour. Ah, poor Plato, how you have fallen among murderers! How they have broken you on the wheel! Did we not say that Berg is nothing more than a philosopher of being, who as such can never raise himself to true speculation? For him the Absolute stands in eternal contradiction with the world of appearance. But it was not so with Plato. By no means did he oppose his ideas to the appearing things in themselves; rather, to him the things themselves were these ideas and these ideas those things, or, expressed otherwise, the in-itself of all appearances was to him the idea.
+
+> In Gott aber waren ihm Idee und Ideaté als in ihrem ewigen Centrum Eins. Dieses ist Plato's wahre Lehre, zwar nur in wenige Worte zusammen gefasst, aber doch richtig dargestellt. Nicht im geringsten ist sie verschieden von Schellings Lehre. Auch ihm sind die Dinge die Ideen in der Erscheinung und er ist weit davon entfernt, die erscheinenden [p. 76] Dinge für etwas seinen Ideen an sich Entgegengesetztes anzusehen. Aber alle Ideen sind ihm und uns in einer Idee, so dass es uns absolut unmöglich ist, eine Realität zu denken, welche nicht zugleich ideal wäre *)
+
+In God, however, idea and ideatum were for him one, as in their eternal centre. This is Plato's true doctrine, gathered, to be sure, into only a few words, but nonetheless correctly presented. It is not in the least different from Schelling's doctrine. For him too things are the ideas in appearance, and he is far from regarding the appearing [p. 76] things as something opposed in itself to his ideas. But for him and for us all ideas are in one idea, so that it is absolutely impossible for us to think a reality which would not at the same time be ideal *)
+
+> Dem zufolge fällt das weg, was Berg eine reelle Opposition Gottes - den. Körperstoff der Welt nennt: denn die sogenannte
+
+Accordingly, what Berg calls a real opposition to God, the corporeal stuff of the world, falls away: for the so-called
+
+> Körperwelt hat ihre Wesentlichkeit in dem absolut Ideellem, das nichts anders, als wieder
+
+corporeal world has its essentiality in the absolutely ideal, which can produce nothing other than, again,
+
+> Ideelles, welches zugleich ein Reelles ist, produciren kann. Die Materie erscheint nur als ein dem Ideellen an sich Entgegengesetztes; allein sie ist nur unter dem Character der Geistigkeit für die Vernunft begreiflich, und die erste ihrer Eigenschaften - die Schwere - ist nur als eine geistige Kraft denkbar. Die Materie ist weder, noch kann sie das seyn, wofür Berg sie ansieht- eine reelle Opposition Gottes. Gott, dem Absoluten: kann nichts realiter (an sich) entgegengesetzt seyn. Wenn daher Berg sagt: Die Ideen hätten ein Subject im Menschen, in den Dämonen und vorzugsweise in Gott; so erwiedern wir ihm: Wir wissen nichts, weder von einem Subjec*) Man denke hiebei an Leibnitzens Monadenlehre und an dessen prästabilirte Harmonie des Universums.
+
+an ideal which is at the same time a real. Matter appears only as something opposed in itself to the ideal; but it is comprehensible to reason only under the character of spirituality, and the first of its properties, gravity, is thinkable only as a spiritual force. Matter neither is, nor can it be, what Berg takes it for, a real opposition to God. To God, the Absolute, nothing can be opposed realiter (in itself). When Berg therefore says that the ideas have a subject in man, in the demons, and pre-eminently in God, we reply to him: we know nothing either of a subjec*) One should think here of Leibniz's doctrine of monads and of his pre-established harmony of the universe.
+
+> Schelling N. Zeitschr. f. sp. Phys. I. B. 1. St. p. 25.
+
+Schelling, N. Zeitschr. f. sp. Phys. vol. I, no. 1, p. 25.
+
+> [p. 77] tiven, noch Objectiven; diesen Unterschied macht nur die Reflexion. Im absoluten Erkennen ist er völlig aufgehoben. §.
+
+[p. 77] tive or of an objective; this distinction is made only by reflection. In absolute knowing it is entirely cancelled. §.
+
+> 40.
+
+40.
+
+> Vorzüglich unglücklich ist Berg in der Darstellung der Philosophie des Spinoza. Das wollen wir ihm gerne zugeben, dass, wenn die Lehre desselben, die Definitionen und Axiome die er aufstellt, blos eine Composition des (reflectirten) Denkens und sonach ein Werk der Willkür wären, das System, auf Sand gebaut, keinen Werth haben würde. Wir neh.
+
+Berg is especially unfortunate in his presentation of the philosophy of Spinoza. This much we will gladly grant him: that if Spinoza's doctrine, the definitions and axioms which he sets up, were merely a composition of (reflected) thinking and thus a work of caprice, the system, built on sand, would have no worth. We there-
+
+> men daher sehr gerne an, dass die zum Grunde liegenden Begriffe aus den Tiefen des mensch.
+
+fore very gladly assume that the concepts lying at its ground have been drawn up from the depths of the human
+
+> lichen Erkenntnissvermögens (aus absoluter Erkenntniss nämlich) hervorgeholt sind. Die Realität dieser Erkenntniss setzen wir mit Spinoza allerdings und alle Axiome, Theoreme und Corollarien derselben angemessen, voraus. Natürlich musste der so fortschliefsende Spinoza seinen Gedanken, gerade wie wir auch thun, Realität gegenüber setzen, aber freilich nicht die Realität, die Berg im Sinne hat, und die offenbar nichts ist. Das Resultat von Spinoza's Philosophie sollte und konnte daher nichts anders seyn, als Realismus; aber ein solcher
+
+faculty of knowledge (namely, from absolute knowledge). The reality of this knowledge, and all the axioms, theorems and corollaries appropriate to it, we do indeed presuppose with Spinoza. Naturally Spinoza, reasoning onward in this way, had to set reality over against his thoughts, just as we also do, but not, of course, the reality which Berg has in mind, and which is plainly nothing. The result of Spinoza's philosophy therefore should and could be nothing other than realism; but a
+
+> Realismus, der zugleich Idealismus heifsen kann. Gegen den aber, von welchem Berg [p. 78] träumt, wird unserer Seits, in Spinoza's Namen, auf das feierlichste protestirt. An einen solchen konnte dieser nicht denken.
+
+realism such as can at the same time be called idealism. Against the realism of which Berg [p. 78] dreams, however, we protest on our part, in Spinoza's name, most solemnly. Of such a realism he could not have thought.
+
+> S. N. Zeitschr. f. sp. Physik. I. B. I. St. §.
+
+See N. Zeitschr. f. sp. Physik, vol. I, no. I. §.
+
+> 41.
+
+41.
+
+> Aus dem Vorhergehenden ergiebt sich Folgendes:
+
+From what has gone before the following results:
+
+> 1) Sobald vom Absoluten selbst, als dem Wesen aller Erscheinungen, die Rede ist; so sind die Ausdrücke, Idealität und Realität" völlig gleichbedeutend, so dass das wahrhaft Reale ideal und das Ideale real ist. Auf diese Art wird die Realität des Universums nicht nur nicht vernichtet (in blosen Schein oder Sinnentäuschung oder in etwas in unserer Vorstellung verwandelt; ) sondern seine Realität ist ewig gesichert. 2) Das, was der Verstand in die Sphäre des Subjectiven oder Objectiven verweist, heist, nach Plato Idee, nach Spinoza Attribut im Allgemeinen oder Modus im Besondern, nach Schelling Reflex oder Form, (Darstellung des Absoluten in der Erscheinung). So ist das Sonnenstäubchen sowohl als der menschliche Geist ein solcher Reflex des Absoluten, folglich real und nicht nichts.
+
+1) As soon as the Absolute itself, as the essence of all appearances, is in question, the expressions "ideality and reality" are entirely synonymous, so that what is truly real is ideal and what is ideal is real. In this way the reality of the universe is not only not annihilated (transformed into mere semblance or a deception of the senses, or into something in our representation); rather, its reality is eternally secured. 2) That which the understanding refers to the sphere of the subjective or the objective is called, according to Plato, idea; according to Spinoza, attribute in general or mode in particular; according to Schelling, reflex or form (presentation of the Absolute in appearance). Thus the mote of dust in the sunbeam, as much as the human spirit, is such a reflex of the Absolute, consequently real and not nothing.
+
+> Ob sich so Spinoza für das Absolute selbst halten konnte, ist nun unschwer zu beurtheilen. [p. 79] Als Modus (Erscheinungsweise) des Absoluten, war er ein anderes als dieses, ungeachtet er seinem Wesen nach, von dem Absoluten nicht getrennt oder demselben entgegengesetzt war. Spinoza's Worte: Deus est res cogitans, res extensa, sind allerdings, aber nur für Reflexionsphilosophen, schwer zu verdauen; ihrem innern Gehalte nach, und absolut angeschaut, haben sie einen ewig wahren Sinn. Zwar kann die Gottheit nicht als Res, eben so wenig als Res cogitans oder als Res extensa bezeichnet werden, weil sie dadurch zu etwas Subjectiven oder Objectiven gemacht würde. Aber jene Ausdrücke gelten bei Spinoza wirklich nur in so ferne, als das Absolute erscheint, d. h. einmal unter dem Attribute der Zeit (des Denkens) das anderemal unter dem Attribute des Raumes (des Seyns) für die Wahrnehmung hervortritt und als reine, freie Thätigkeit, die sich selbst reflectirt, nicht anders, als gerade so, hervortreten kann und muls. Sie bedeuten wirklich nicht mehr, als bei Schelling die Ausdrücke: Das Absolute stellt sich einmal unter der Form eines Subjectiven (res cogitans) ; das anderemal unter der Form eines Objectiven (res extensa) dar. Doch Berg ist nicht der erste, der Spinoza verkennt. Wir glauben, zur Rechtfertigung [p. 80] dieses sonst geächteten Weisen das Urtheil eines verehrungswürdigen Gelehrten anführen zu müssen:
+
+Whether Spinoza could thus take himself for the Absolute itself is now not hard to judge. [p. 79] As a mode (manner of appearing) of the Absolute he was something other than it, notwithstanding that according to his essence he was not separated from the Absolute or opposed to it. Spinoza's words, Deus est res cogitans, res extensa [God is a thinking thing, an extended thing], are indeed hard to digest, but only for philosophers of reflection; according to their inner content, and intuited absolutely, they have an eternally true sense. The Godhead, to be sure, cannot be designated as res, just as little as res cogitans or as res extensa, because it would thereby be made into something subjective or objective. But those expressions really hold in Spinoza only in so far as the Absolute appears, that is, comes forth for perception once under the attribute of time (of thinking), the other time under the attribute of space (of being), and, as pure, free activity which reflects itself, can and must come forth in no other way than just so. They really mean no more than Schelling's expressions: the Absolute presents itself once under the form of a subjective (res cogitans), the other time under the form of an objective (res extensa). But Berg is not the first to misjudge Spinoza. We believe that, in vindication [p. 80] of this otherwise proscribed sage, we must cite the judgement of a venerable scholar:
+
+> „Auch Männer, die in die platten Lästerungen, die Spinoza zu seinen Lebzeiten, noch mehr aber nach seinem Tode erfuhr, mit nichten einstimmten, von Geist und Herz verehrungswürdige Gelehrte, haben ihm doch Anschuldigungen gemacht, die nicht viel besser sind, als, Schmähungen, da sie ihm Ungereimt- . heiten vorwerfen, die ihn keineswegs treffen, gegen die er sich nachdrücklich in seinen Schriften erklärt. Z. B. Jerusalem (in s. Betr. über die vornehm. Wahrh. d. Rel. 1. Th.) und Men. delsohn werfen ihm vor, er verwechsele Gott und die Welt, d. i. in so fern unter der Welt die materielle Masse der sinnlichen Erscheinungen nach ihrer Verknüpfung Dieser grobe Irrthum, verstanden wird. wie sehr streitet er nicht gegen das ganze System dieses Mannes!
+
+"Even men who by no means joined in the vulgar slanders which Spinoza suffered in his lifetime, and still more after his death, scholars venerable in mind and heart, have nevertheless brought charges against him that are not much better than abuse, since they reproach him with absurdities which in no way touch him, against which he expressly declared himself in his writings. For example, Jerusalem (in his Betr. über die vornehm. Wahrh. d. Rel., part 1) and Mendelssohn reproach him with confusing God and the world, that is, in so far as by the world is understood the material mass of sensible appearances in their connection. This gross error, how greatly does it conflict with the whole system of this man!
+
+> In demselben ist Gott das Uebersinnliche im Sinnlichen, das Unvergängliche im Vergänglichen, das Bleibende, Beharrliche, im steten Flusse der wandelnden, Gestalten, das einwohnende, lebendige, belebende Princip des Alls. Er ist nicht ausser dem All; dies wäre Widerspruch; er ist kein besonderes [p. 81] von demselben getrenntes Ding. Er ist die Eine Substanz; (Eth. 1. def. 3.) der Grund aller Modificationen der Welt; das absolut unendliche Wesen, d., i die aus unendlichen Attributen bestehende Substanz, deren jegliches eine ewige und unendliche Wesenheit ausdrückt (Eth. 1. def. 6.). Der Inbegriff demnach alles Wesens und Seyns, wo lauter Position, keine Verneinung, statt findet (def. 6.); er ist die durch die Nothwendigkeit seiner Natur freie, freiwirkende, freithätige, einwohnende, nicht vorübergehende Ursache aller Dinge, in der lebet und wirket, was ist. (def. 7. vergl. mit propos.
+
+In that system God is the supersensible in the sensible, the imperishable in the perishable, the abiding, the persistent, in the constant flux of changing figures, the indwelling, living, life-giving principle of the all. He is not outside the all; that would be a contradiction; he is no particular [p. 81] thing separated from it. He is the one substance (Eth. 1, def. 3), the ground of all modifications of the world; the absolutely infinite being, that is, the substance consisting of infinite attributes, each of which expresses an eternal and infinite essence (Eth. 1, def. 6). He is accordingly the sum of all essence and being, where there is sheer position, no negation (def. 6); he is the free, freely working, freely active, indwelling, not transient cause of all things, free through the necessity of his nature, in which lives and works whatever is. (def. 7, compared with propos.
+
+> 17 et 18.) "
+
+17 and 18.)"
+
+> Schon nach der Erscheinung des tract, theol. polit. warf man ihm aus Missverstand solche Verwechslung vor. Deutlich erklärt er sich dagegen in seinem Brief an Oldenburg, ep. XXI. p. 449. opp. posth, MDCLXXVII. „attamen, quod quidam putant, tractatum theologico politicum eo niti, quod Deus et natura (per quam massam sive materiam corpoream intelligunt) unum et idem sint, tota errant via."
+
+Already after the appearance of the tract. theol. polit. he was reproached, out of misunderstanding, with such a confusion. He declares himself clearly against it in his letter to Oldenburg, ep. XXI, p. 449, opp. posth., MDCLXXVII: "attamen, quod quidam putant, tractatum theologico politicum eo niti, quod Deus et natura (per quam massam sive materiam corpoream intelligunt) unum et idem sint, tota errant via" [but those who think that the theological-political treatise rests on this, that God and nature (by which they understand a mass or corporeal matter) are one and the same, are entirely mistaken].
+
+> Benedicts von Spinoza theologisch - politisch. Abhandlungen, neu übersetzt mit den von Hrn.
+
+Benedict de Spinoza's theologisch-politisch. Abhandlungen, newly translated, with the author's notes to this treatise edited by Herr
+
+> von Murr herausgegebenen Anmerkungen des Verfassers zu diesem Tractat, einer einleitenty [p. 82] den Vorr. und einig. Anmerk. begleitet von C. P. Conz, ordentl. Prof. in Tübingen. Stuttgart, 1806. Für den Kenner darf es wohl nicht erinnert werden, dass Schellings Lehre sich um jene Sätze, wie um ihre Spindel, herumdreht; aber eben so klar ist es, dass nur ein verwandter, productiver Geist den wahren Gehalt darein zu legen vermag. Wenn wir gleich überzeugt sind, dass Spinoza das Absolute in seiner Realität erkannt habe, was ihm von Berg streitig gemacht werden will, indem er ihm seinen Substanzbegriff vorrückt, den aber jener nach seiner Manier behandelt; so brauchen wir uns doch hier auf weiter nichts einzulassen, indem wir es ja nur mit Berg zu thun haben und dieser nur Schellings Absolutes widerlegen will. §.
+
+von Murr, accompanied by an introductory [p. 82] preface and some notes by C. P. Conz, full professor in Tübingen. Stuttgart, 1806. For the connoisseur there is surely no need to point out that Schelling's doctrine turns about those propositions as about its spindle; but it is just as clear that only a kindred, productive spirit is able to put their true content into them. Although we are convinced that Spinoza knew the Absolute in its reality, which Berg wants to dispute with him by holding up to him his concept of substance, which, however, Berg treats after his own manner, we need not enter into anything further here, since we have to do only with Berg, and he wants to refute only Schelling's Absolute. §.
+
+> 42.
+
+42.
+
+> Also nachdem unser Vernunft - Antipode über Spinoza, Kant, Fichte u. a. seine Meinung gesagt hat, (in wie ferne sie richtig sey, in Beziehung auf den erstern, konnte, als dem Zweck dieser Schrift unangemessen, nicht umständlich erörtert werden; und die Systeme der lezteren wurden hin und wieder, obschon nur flüchtig, berührt, und werden noch in der Folge, wenn gleich nur im Vorübergehen, berührt werden) wendet er sich wieder zu [p. 83] Schellings Lehre. Schlechterdings lässt er sei nen Plotin (p. 89. 90.) sagen, musste der verderbliche und überall sich eindrängende Gegensatz des Idealen und Realen vertilgt werden und in ein absolutes Eins zusammen fallen wenn Philosophie gerettet werden sollte. Der Reflexion durfte man keinen Zutritt mehr gestatten. Keinen Zutritt? entgegnet Sextus, was müsste das für ein Eins seyn? Ein Traum u.
+
+So, after our antipode of reason has spoken his mind about Spinoza, Kant, Fichte and others (how far his opinion is correct with respect to the first could not be discussed in detail, being unsuited to the purpose of this work; and the systems of the latter have been touched on here and there, though only fleetingly, and will be touched on again in what follows, though only in passing), he turns again to [p. 83] Schelling's doctrine. Absolutely, he has his Plotinus say (pp. 89, 90), the ruinous opposition of the ideal and the real, which forces its way in everywhere, had to be annihilated and fall together into an absolute one if philosophy was to be saved. Reflection was no longer to be granted admittance. No admittance? Sextus retorts; what sort of one would that have to be? A dream, etc.
+
+> s. w. Schelling wird vorgeworfen, er könne, ohne Reflexion, mit seinem Absoluten nicht auskommen, und falle bei dem Bestreben, darüber hinauszuschreiten, in Widersprüche ohne Ende. Mit der Reflexion aber müsse auch der Gegensatz des Idealen und Realen herbeigelassen werden. Mit Besonnenheit das absolut seyn sollende Eins betrachtet, habe man nur die Wahl, es als etwas im Subjectiven oder Objectiven anzunehmen. Dieses wieder als Eins zusammenfassen, heisse soviel als durch eine
+
+Schelling is reproached with being unable to manage with his Absolute without reflection, and with falling, in the endeavour to step beyond it, into contradictions without end. But with reflection the opposition of the ideal and the real must also be let in. If one considers with deliberateness the one that is supposed to be absolute, one has only the choice of taking it as something in the subjective or in the objective. To gather this together again as one would amount to pushing the process out into infinity by a
+
+> Petitio principii den Process in's Unendliche hinausweisen. Die herbeigelassene Reflexion untersage diese Ausflucht. Es sey nichts übrig, als Schellings absolutes Eins in Realismus oder Idealismus zu kleiden u. s. w. Dieses und noch mehr sucht nun Berg dadurch zu erweisen, dass er Denken und Seyn, das Ideelle und Reelle, als die ersten Gegensätze, als den 6* f
+
+petitio principii. Reflection, once let in, forbids this evasion. Nothing remains but to clothe Schelling's absolute one in realism or idealism, etc. This and still more Berg now seeks to prove by trying to assert thinking and being, the ideal and the real, as the first oppositions, as the 6*
+
+> [p. 84] Grundunterschied, über welchen hinaus es sonst keinen höhern mehr gebe, geltend zu machen sucht. Diese Gegensätze für Eins halten, nennt er Unsinn, und die Differenz, als solche, in demselben Act der Vorstellung als Eins nehmen, nennt er Widerspruch. Umgekehrt sey es auch widersprechend, das Absolute, in wie ferne es Eins sey, als verschiedachten wir den anzusehen. (O si tacuisses hier.) Folglich müsse das Absolute an sich etwas anderes seyn, als die Differenz. Wenn das Absolute an sich nicht verschieden sey, so erscheine es nur so, oder der Unterschied, den es mit sich führe, gelte nur für die Vorstellung an sich nichts. Das Eins des Idealen und Realen nennt Berg ferner ein Nest voll Widersprüche u. s. w
+
+[p. 84] fundamental distinction beyond which there is no higher one. To take these oppositions for one he calls nonsense, and to take the difference as such, in the same act of representation, as one he calls a contradiction. Conversely, it is also contradictory, he says, to regard the Absolute, in so far as it is one, as different. (O si tacuisses [O, if you had kept silent], we thought here.) Consequently the Absolute in itself must be something other than the difference. If the Absolute is not different in itself, then it only appears so, or the distinction which it carries with it holds only for representation, and in itself is nothing. The one of the ideal and the real Berg further calls a nest full of contradictions, etc.
+
+> Dass Einwürfe dieser Natur nur der, um mit Schelling zu reden, von Gott dem Absoluten - verlassene Mensch ersinnen und sie dem speculativen Denker vorhalten könne, ist, den bisherigen Verhandlungen zufolge, wohl ohne unser Erinnern klar. Doch fragen wir noch zum Ueberflusse: Was ist denn Bergs Absolutes? Wenn es nicht Einheit ist, was ist es denn? Bringt es denn nicht die Idee eines Absoluten mit sich, Einheit und nicht
+
+That objections of this nature could be devised, and held up to the speculative thinker, only by the man who, to speak with Schelling, is forsaken by God, the Absolute, is surely clear, after the discussions so far, without our pointing it out. Yet we ask, more than is needed: what then is Berg's Absolute? If it is not unity, what then is it? Does not the idea of an Absolute bring with it that it is unity and not
+
+> Zweiheit zu seyn? Und doch - wenigstens [p. 85] el vermuthen wir es ist Gott, das Absolute, für Berg gewiss ein höchst reales Wesen. Duplicität ist aber Vernichtung aller Realität. Sind Denken und Seyn absolute Gegensatze, so heben sie einander nothwendig auf, und gesetzt, dass sie nebeneinander bestehen könnten; so ist doch dieses so evident, als nur etwas seyn kann, das sich durch unser ganzes Denken über das, was Objectivität heisst, nichts ausmachen lasse, eben so wenig, als über das Absolute, das ausserhalb der Erscheinungswelt versetzt, nothwendig zu einem blosen noumen (Gedanken ding) wird. Hat denn das Nämliche nicht schon Kant erwiesen? Nicht Fichte im practischen Theil der Wissenschaftslehre, wo der, wie er sagt, nie aufzulösende Cirkel zum Vorschein kommt, dass nämlich der endliche
+
+duality? And yet, at least [p. 85] so we suppose, God, the Absolute, is for Berg certainly a supremely real being. Duplicity, however, is the annihilation of all reality. If thinking and being are absolute oppositions, they necessarily cancel each other; and granted that they could subsist side by side, this is nonetheless as evident as anything can be: that nothing can be made out through all our thinking about what is called objectivity, just as little as about the Absolute, which, displaced outside the world of appearance, necessarily becomes a mere noumen (thing of thought). Has not Kant already proved the very same? Has not Fichte, in the practical part of the Wissenschaftslehre, where there comes to light the circle, never to be resolved, as he says, that the finite
+
+> Geist nothwendig etwas Absolutes ausser sich setzen, und dennoch von der andern Seite anerkennen muss, dass dasselbe nur für ihn da sey (ein nothwendiges noumen sey).
+
+spirit must necessarily posit something absolute outside itself, and yet on the other side must acknowledge that this is there only for it (is a necessary noumen)?
+
+> Schelling N. Zeitschr. f. sp. Phys. 1. B. 1. St. p. 25. 5.43.
+
+Schelling, N. Zeitschr. f. sp. Phys. vol. 1, no. 1, p. 25. §. 43.
+
+> Das traurige Phantom, das überall in Bergs Sextus spuckt und ihn von einem Irrthum zum andern lockt, ist, dass er das Absolute ausserhalb des erscheinenden Universums [p. 86] sucht. Daher der sonderbare Wahn,
+
+The sorry phantom that haunts Berg's Sextus everywhere and lures him from one error to another is that he seeks the Absolute outside the appearing universe. [p. 86] Hence the strange delusion that
+
+> Schelling sehe dieses nur für ein Gebilde der Phantasie oder für etwas in unserer Vorstellungan. Daher die Behauptung: Man müsse das absolut seyn sollende Eins als etwas im Subjectiven oder Objectiven annehmen. Daher die witzig seyn sollende Aeusserung: Das Ideale und Reale in der Idee als Eins betrachten: sey eben so viel als sagen, das Männliche und Weibliche sey in der Mannheit absolut Eins. - Betrachten wir denn das Absolute als etwas im Subjectiven oder im Objectiven? Oder ist es uns nicht vielmehr das, wodurch alles, was der Reflexion Subjectivität oder Objectivität heifst gesetzt ist? Berg nennt das Ideale und Reale den Grundunterschied, über welchen hinaus es sonst weiter keinen mehr gebe. Aber er antworte uns auf folgende Frage: Ist denn sein Ideales dem Realen absolut fremd? Als consequenter Empiriker muss Berg diese Frage bejahen. Dass aber mit dieser Bejahung alle Philosophie, d. i. alles eigentliche und wahre Wissen, aufhöre, ist nicht zu leugnen. Berg wird sich dann bescheiden, die Synthesis unerklärt zu lassen, wenn er sich nicht selbst widersprechen und seine Unwissenheit organisiren will. Die petitio principii, die er gerne Schelling aufbürden [p. 87] möchte, wird ihm alsdann selbst zur Last fallen. Mag er somit sein mit der Erscheinungswelt im Widerspruche befangenes Absolutes postuliren, so lang er will; mag er es durch Glauben, wie Kant und Fichte, oder mit andern durch Gefühl und Ahnung vesthalten wollen! Wir versichern ihn, dass wir gegen das alles nichts weiter einwenden werden. §.
+
+Schelling regards it only as a figment of phantasy or as something in our representation. Hence the assertion that one must take the one that is supposed to be absolute as something in the subjective or in the objective. Hence the would-be witty remark that to regard the ideal and the real as one in the idea is as much as to say that the masculine and the feminine are absolutely one in manhood. Do we then regard the Absolute as something in the subjective or in the objective? Or is it not rather, for us, that through which everything that reflection calls subjectivity or objectivity is posited? Berg calls the ideal and the real the fundamental distinction beyond which there is no further one. But let him answer us the following question: is his ideal, then, absolutely foreign to the real? As a consistent empiricist Berg must answer this question in the affirmative. But that with this affirmation all philosophy, that is, all proper and true knowledge, ceases, cannot be denied. Berg will then content himself with leaving the synthesis unexplained, if he does not want to contradict himself and organize his ignorance. The petitio principii which he would gladly saddle on Schelling [p. 87] will then fall as a burden on himself. So let him postulate his Absolute, caught in contradiction with the world of appearance, as long as he likes; let him seek to hold it fast through faith, like Kant and Fichte, or, with others, through feeling and presentiment! We assure him that we shall raise no further objection against all this. §.
+
+> 44.
+
+44.
+
+> Wenn im Sextus (p. 94.) behauptet wird, man unterwerfe das Absolute, wenn man es als real bestimme, einem Gegensatze; so ist dieses völlig falsch: denn unser Reales können wir Niemanden zum Betasten hingeben, und eine Realität, die dem Absoluten entgegen gesetzt seyn soll, ist uns nur das Product des sich selbst täuschenden Verstandes.
+
+When it is asserted in Sextus (p. 94) that one subjects the Absolute to an opposition if one determines it as real, this is entirely false: for our real is something we can hand over to no one to touch, and a reality that is supposed to be opposed to the Absolute is for us only the product of the self-deceiving understanding.
+
+> Wenn nun, wie es denn ohne Widerspruch nicht anders denkbar ist, das Absolute nur das einzige Reale, in seiner Realität aber nur ideal seyn kann; so erhellet hieraus 1) die Nichtigkeit der Productions- oder Emanationslehre. Aus dem Absoluten geht nichts hervor in dem Sinne, welchen man gewöhnlich mit dem Wort „Schaffen" verbindet,
+
+Now if, as indeed it cannot be thought otherwise without contradiction, the Absolute can be only the sole real, but in its reality only ideal, then there becomes evident from this 1) the nullity of the doctrine of production or emanation. Nothing proceeds from the Absolute in the sense which is usually connected with the word "create",
+
+> SO dass man sagen könnte, die Welt sey etwas in der Zeit Entstandenes. Sie ist so ewig als das Absolute selbst und beide konnten nicht ohne einander seyn.
+
+so that one could say the world is something that arose in time. It is as eternal as the Absolute itself, and neither could be without the other.
+
+> [p. 88] 2) die Nichtigkeit dessen, was man Substanzen und Accidenzen nennt, Nur eine Substanz giebt es - das Absolute. Accidentell ist nichts im Universum und auch die Form ist nothwendig. §.
+
+[p. 88] 2) the nullity of what are called substances and accidents. There is only one substance, the Absolute. Nothing in the universe is accidental, and the form too is necessary. §.
+
+> 45.
+
+45.
+
+> Schellings Behauptung: Das Ideelle und Reelle sind Eins im Absoluten, steht also vest wenn alle Erfahrungsschlüsse wanken. Aber wahr ist es, dass jenes absolut Eine nicht durch Anleitung, Unterricht, Beschreibung u. s. w. erkannt, sondern nur durch eine absolute Apperception aufgefasst werden könne.
+
+Schelling's assertion, the ideal and the real are one in the Absolute, therefore stands firm when all inferences from experience waver. But it is true that that absolutely one cannot be known through guidance, instruction, description and so on, but can only be grasped through an absolute apperception.
+
+> Auch diese absolute Apperception kann man Niemanden geben; sondern man giebt sich die. selbe selbst. Dieses ist so wahr, als die Vernunft kein blosses Räsonnir-, sondern ein productives und in ihrem Producte sich anschauendes Vermögen ist. Wäre dieses nicht, so dürfte man wohl fragen: Was heifst das, et. was a priori bestimmen? Wie wir es nehmen, hat das a priori einen wahren Sinn. Aber nicht so in der Reflexionsphilosophie. Sie kann nicht wissen, ob das, was sie nach ihrem a priori bestimmt, a posteriori wahr sey. Mit andern Worten: Dadurch, dass ich mir etwas denke, ist die Wirklichkeit nicht gesetzt. Ganz anders ist es mit dem Erkennen der Vernunft.
+
+This absolute apperception, too, one cannot give to anyone; rather, one gives it to oneself. This is as true as that reason is not a mere faculty of ratiocination but a productive faculty that intuits itself in its product. Were this not so, one might well ask: what does it mean to determine something a priori? As we take it, the a priori has a true sense. But not so in the philosophy of reflection. It cannot know whether what it determines according to its a priori is true a posteriori. In other words: by my thinking something, its actuality is not posited. It is quite otherwise with the knowing of reason.
+
+> [p. 89] Was diese als möglich anerkennt, muss zugleich wirklich seyn. Warum? Weil in Allem Alles, weil Denken und Seyn an sich (wesentlich) Eins ist. Das, was auf der einen Seite im Denken, auf der andern im Seyn ausgedrückt ist, reflectirt den ganzen Organismus der Vernunft, so dass das a priorí mit dem a posteriori völlig zusammen fällt. Hier giebt es keinen Schein; sondern was erkannt wird, ist wahrhaft, real, vollkommen, ewig. §.
+
+[p. 89] What reason acknowledges as possible must at the same time be actual. Why? Because all is in all, because thinking and being are in themselves (essentially) one. What is expressed on the one side in thinking, on the other in being, reflects the whole organism of reason, so that the a priori entirely coincides with the a posteriori. Here there is no semblance; rather, what is known is true, real, perfect, eternal. §.
+
+> 46.
+
+46.
+
+> Hat Berg nur einigen Sinn für wahre Speculation; so erkennt er auch in dem bisher
+
+If Berg has only some sense for true speculation, he will also recognize in what has so far
+
+> Verhandelten die Vereinigung des Idealismus und Realismus; er sieht ein, dass beide einander nicht entgegengesetzt, sondern wesentlich Eins seyen; er gesteht ein, dass das Universum nicht absolute Zweiheit, sondern nur Einheit seyn könne; er merkt, was wir mit unserm absoluten Indifferenzpunct haben wollen, und dafs dieser unmöglich ausserhalb der zu vereinigenden Gegensätze gedacht werden könne.
+
+been discussed the union of idealism and realism; he will see that the two are not opposed to each other but essentially one; he will admit that the universe cannot be an absolute duality but only unity; he will notice what we mean by our absolute point of indifference, and that this cannot possibly be thought outside the oppositions that are to be united.
+
+> Fänden wir doch im Sextus nur eine Spur, dass Berg über Naturphilosophie auch nur etwas gelesen oder gedacht hätte! Auch hierin liegt eine Hauptursache, dass er in allen seinen Darstellungen höchst einseitig. wird. Diese seine einseitige Ansicht des Universums [p. 90] führt ihn zu irrigen Behauptungen und endlich zu wirklichen Invectiven, die ihm, der mit Schelling an einer Universität lebte, wahrlich keine Ehre machen und seine Versicherung, er ehre Schelling, aber die Wahrheit noch mehr als ihn, offenbar widerlegen, und nothwendig alle, die mit der Lehre des leztern bekannt sind, im höchsten Grade beleidigen müssen. Man höre: „Vielleicht, dass er (Schelling) sich erst in der Folge von diesen restirenden Schlacken seiner vorigen Unphilosophie reinigt, wie er sich bisher allmählich von den gröbern Bestandtheilen Kant's und Fichte's losmachte, und dann giebt's neue
+
+If only we found in Sextus a trace that Berg had read or thought even anything about the philosophy of nature! In this too lies a chief reason why he becomes extremely one-sided in all his presentations. This one-sided view of his of the universe [p. 90] leads him to erroneous assertions and finally to actual invectives which truly do him no honour, who lived at one university with Schelling, and which plainly refute his assurance that he honours Schelling, but truth still more than him, and must necessarily offend in the highest degree all who are acquainted with the doctrine of the latter. Listen: "Perhaps he (Schelling) will only later cleanse himself of these remaining dross of his former unphilosophy, as he has hitherto gradually freed himself of the coarser constituents of Kant and Fichte, and then there will be new
+
+> Systeme, neue Bücher, neue Collegien, und die jugendlich gläubige Welt läuft ihm stets mit offenem Munde nach, (Hinc illae lacrymae! So schien es uns, so lange Schelling in Wirzburg lebte. Mit der Logik war damals wenig zu machen. Etliche male als wir durch Wirzburg reisten, war unser erstes Geschäfte, Schellings Hörsaal zu besuchen, welcher jederzeit gedrängt voll war.) um sich" so heisst es weiter, „immer von neuem bis zum Schwindel durch Widersprüche, Zirkel, petitiones principii, herumdrillen und mit Winde füttern zu lassen."
+
+systems, new books, new lecture courses, and the youthfully credulous world will always run after him with open mouth" (Hinc illae lacrymae! [Hence those tears!] So it seemed to us as long as Schelling lived in Würzburg. With logic there was little to be done at that time. Several times when we travelled through Würzburg, our first business was to visit Schelling's lecture hall, which was always crammed full.) "in order," so it goes on, "to let itself be drilled round and round again and again, to the point of dizziness, through contradictions, circles, petitiones principii, and to be fed with wind."
+
+> [p. 91] Mein Gott! womit füttert denn Berg seine
+
+[p. 91] My God! With what, then, does Berg feed his
+
+> Proselyten? Was für Gerichte giebts denn in Bergs logischem Hörsaale? (denn wir vermuthen, dass er Logik lehrt. ) Da giebts Realität! das ächte ὀντος ὀν; Und jeder nimmt davon sich seine Portion.
+
+proselytes? What dishes are there, then, in Berg's logical lecture hall? (for we suppose that he teaches logic.) There is reality there! the genuine ὀντος ὀν [that which really is]; and each takes his portion of it.
+
+> Weiter wird gesagt (p. 105): So ein erklärter Feind des Disputirens warst du nie, und diese Antipathie und die Kunst der Unüberwindlichkeit hast du im Disputirsaale Schellings aufgelesen! - Dagegen haben wir nichts zu sagen: denn so etwas eckelt jeden zartfühlenden Menschen an. Wer mehr, bis zur Uebertreibung viel wissen will, der nehme, wenn er es noch nicht gethan hat, das Büchlein selbst zur Hand, und wundere sich, wie weit verblendete Leidenschaft führen könne. 1000 $.
+
+Further it is said (p. 105): You were never such a declared enemy of disputation, and this antipathy and the art of invincibility you picked up in Schelling's disputation hall! Against this we have nothing to say: for such a thing disgusts every person of delicate feeling. Whoever wants to know more, much to the point of excess, let him, if he has not yet done so, take up the little book itself, and marvel at how far blinded passion can lead. §.
+
+> 47.
+
+47.
+
+> Wenn Berg, bei dem vorgeblichen Beweise, Schellings Philosophie sey nur (einseitiger) Idealismus, (Idealistik) sagt,„man möge zwischen dem absoluten Ich und dem relativen noch so fein unterscheiden, das Ich bringe man nicht weg" ; so können wir ihn versichern, dass dieses auch unsere Meinung sey. Schelling will auch das absolute Ich, das er sonst absolutes durch keinen Gegensatz bedingtes Bewusstseyn nennt, nicht [p. 92] wegbringen; sondern nur das relative, d.h. das Ich (Subject) dem ein Nicht - Ich (Object) entgegensteht. Ienes absolute Bewusstseyn ist ihm die conditio sine qua non alles Philosophirens und gleichbedeutend mit dem, was er sonst absolute Form und noch öfter intellectuelle Anschauung nennt. Das ist eben der Punct, wo das Wissen um das Absolute, und das Absolute selbst Eins sind. Dieses Wissen ist allerdings noch ein Erkennen in der Form, d. h. das Ich verschwindet wirklich nicht ganz und gar; allein man erkennt zugleich, dass das Ansich desselben das Absolute selbst, oder anders ausgedrückt, dass unser Denken eine Form (Erscheinungsweise) des Absoluten, aber eben deswegen demselben nicht entgegen gesetzt sey. Hier wird es für den, der speculative Verhältnisse fassen mag, völlig deutlich, dass nicht das Absolute, das Eine und Identische, das Wesen, erscheinen könne; sondern dass alles, was ist, nur der objective Aus Aruck (das Gegenbild) desselben sey. In diesem Einen und in seiner Einheit Realen, verliert sich unser Geist; er kehrt, so zu sagen, zurück zu jener in sein Urprincip zurück Urquelle alles dessen, was Körperlichkeit oder Geistigkeit genannt wird; er erkennt sein ewiges Seyn. Der Stille, die hier herrscht, ungeachtet, [p. 93] regt sich doch ein freies unabhängiges Leben und rinnt, wie in sichtbaren Adern, nach allen Seiten hin, und wo es seinen Lauf hinnimmt, da bewegt sich alles in eigener Fülle und Kraft. Wie der Tropfen im Ocean, schwimmt die Seele in diesem Lichtmeere, das grenzenlos vor ihrem Blicke sich ausbreitend, sie mit heiligem Schauder erfüllt. §.
+
+When Berg, in the alleged proof that Schelling's philosophy is only (one-sided) idealism (Idealistik), says "one may distinguish ever so finely between the absolute I and the relative, one does not get rid of the I", we can assure him that this is also our opinion. Schelling too does not want to get rid of the absolute I, which he elsewhere calls absolute consciousness conditioned by no opposition, [p. 92] but only of the relative I, that is, the I (subject) which a not-I (object) stands over against. That absolute consciousness is for him the conditio sine qua non of all philosophizing and synonymous with what he elsewhere calls absolute form and still more often intellectual intuition. This is just the point where the knowing of the Absolute and the Absolute itself are one. This knowing is indeed still a knowing in the form, that is, the I really does not vanish altogether; but one knows at the same time that its in-itself is the Absolute itself, or, expressed otherwise, that our thinking is a form (manner of appearing) of the Absolute, but for that very reason not opposed to it. Here it becomes entirely plain, for whoever cares to grasp speculative relations, that it is not the Absolute, the one and identical, the essence, that can appear, but that everything which is, is only the objective expression (the antitype) of it. In this one, real in its unity, our spirit loses itself; it returns, so to speak, into its primal principle, to that primal source of everything that is called corporeality or spirituality; it knows its eternal being. Notwithstanding the stillness that reigns here, [p. 93] a free, independent life yet stirs and runs, as in visible veins, out to all sides, and wherever it takes its course, there everything moves in its own fullness and force. Like the drop in the ocean, the soul swims in this sea of light, which, spreading boundlessly before its gaze, fills it with holy awe. §.
+
+> 48.
+
+48.
+
+> Ob so genommen, das Absolute zu einem Subjecte oder zu etwas in unserm Subjecte werde, ist nun leicht zu entscheiden. Dieses ist nicht nur nicht der Fall; sondern man könnte eher sagen, dass unser Subject, wenn anders dieser Terminus hier noch anwendbar wäre, etwas im Absoluten sey. Doch wir wollen Berg darüber hören: Wenn du also, sagt Sextus p. 101. vom Subjectiven oder Idealischen sprichst; welches in der Idee des Absoluten mit dem Realen Eins sey, so kommst du, ohnerachtet deines Vorgebens, nicht ganz über das Subjective hinaus. Immer bleibt dir ein Subject des Subjectiven, eine Idee des Idealen. Das Drollichste bei der Sache besteht nun gar darin, dass ihr jener Idee der Ideen oder einem Subjecte wieder ein Subject unterstellet u. s. w. Wie klein, wie dürftig! So verfährt nur der auf der niedrigsten Stufe ste* [p. 94] hende Empiriker, aber nicht der speculative Philosoph! - Doch, wie? Dadurch, dass wir behaupten, im Absoluten höre Denken und Seyn auf, etwas an sich zu bedeuten, würde jenem ein Subject untergestellt? - O der Weisheit Schellings, die Berg zur Thorheit ward!
+
+Whether, taken thus, the Absolute becomes a subject or something in our subject is now easy to decide. Not only is this not the case; rather, one could sooner say that our subject, if indeed this term were still applicable here, is something in the Absolute. But let us hear Berg on this: If, then, says Sextus, p. 101, you speak of the subjective or ideal which is supposed to be one with the real in the idea of the Absolute, you do not, despite your pretence, get entirely beyond the subjective. There always remains to you a subject of the subjective, an idea of the ideal. The drollest thing in the matter consists in this, that you again place a subject under that idea of ideas or under a subject, etc. How petty, how meagre! Only the empiricist standing on the lowest [p. 94] rung proceeds so, but not the speculative philosopher! But how? By our asserting that in the Absolute thinking and being cease to mean anything in themselves, a subject would be placed under it? O wisdom of Schelling, which became foolishness to Berg!
+
+> Nur dadurch ist die Erscheinungswelt gesetzt, dass das Absolute, durch die Freiheit oder Nothwendigkeit seiner Natur (denn beides ist völlig identisch) sich selbst reflectirt, (in einem realen, in seiner Realität aber nothwendig idealen Gegenbilde sich darstellt). Ein solcher Reflex ist nun auch der menschliche
+
+Only through this is the world of appearance posited: that the Absolute, through the freedom or necessity of its nature (for the two are entirely identical), reflects itself (presents itself in a real antitype, which in its reality, however, is necessarily ideal). Such a reflex, now, is also the human
+
+> Geist, (unser Subject) der, wenn er sich als einen solchen erkennt, auch zugleich das Absolute erkennt.
+
+spirit (our subject), which, when it knows itself as such, at the same time also knows the Absolute.
+
+> §.
+
+§.
+
+> 49.
+
+49.
+
+> Wahr ist's, diese Verhältnisse können nur intellectuell, wie es denn nicht anders möglich ist, aufgefasst werden. Allein dieses intellectuelle Auffassen spricht Berg unserer Vernunft gänzlich ab, und bricht so über sich selbst nicht nur, sondern auch über Philosophie überhaupt den Stab. So viel ist doch wohl klar, dass, wenn das Absolute für uns nicht erkennbar ist, wir es nur mit dem Auffassen der widersprechenden Erscheinungen zu thun haben können. Da aber unsere Behauptung [p. 95] dahin geht, dass das An - sich derselben, vermittelst der Vernunftanschauung, erkannt werden könne; so kommt uns zu, uns, ohngeachtet es für den, der in unsere bisherige Darstellung eingehen mochte, bei weitem hinlänglich geschehen ist, noch näher darüber zu er klären, zumal da Berg im dritten Abschnitte seines Sextus, die intellectuelle oder Vernunftanschauung noch besonders in Anspruch nimmt. Ja wohl, ist nichts leichter, als A = A.
+
+True it is, these relations can only be grasped intellectually, as indeed nothing else is possible. But this intellectual grasping Berg denies to our reason entirely, and so breaks the staff not only over himself but also over philosophy in general. This much at least is surely clear: that if the Absolute is not knowable for us, we can have to do only with the grasping of contradictory appearances. But since our assertion [p. 95] is that their in-itself can be known by means of the intuition of reason, it falls to us, although for whoever cared to enter into our presentation so far this has been done more than sufficiently, to declare ourselves still more closely about it, especially since Berg, in the third section of his Sextus, lays particular claim to intellectual intuition, or the intuition of reason. Yes indeed, nothing is easier than A = A.
+
+> Freilich ist dieses nur eine logische, keine reale Identität.
+
+Of course this is only a logical, not a real identity.
+
+> Freilich ist durch einen solchen leeren Satz für das Erkennen nichts gewonnen. Eben so wenig, wenn ich sage: Das Thier ist ein Thier. So kommt man sicher nie über die Form hinaus.
+
+Of course nothing is gained for knowing by such an empty proposition. Just as little if I say: the animal is an animal. In this way one certainly never gets beyond the form.
+
+> Auch erkenne ich nichts, wenn ich von einem unbestimmten Hier nur einstwei Dinge sage, es sey A.
+
+Nor do I know anything if I say of an indeterminate thing that it is A. Here, for the time being, only
+
+> len eine Zwischenfrage: Ist denn das Absolute, das wir durch die Formel A = A bezeichnen, ein Ding, d. h. ein Subjectives oder Objectives? Wenn man es mit dem Weglassen des Besondern, fährt Berg fort, auf das höchste treibt; so bleibt nichts übrig, als das allgemeinste Merkmal eines Dings. Aber noch einmal, das Absolute ist uns kein
+
+an interposed question: is the Absolute, which we designate by the formula A = A, then a thing, that is, a subjective or objective? If one drives the leaving-out of the particular to the utmost, Berg continues, nothing remains but the most general mark of a thing. But once more, the Absolute is for us no
+
+> Ding, sondern das, in welchem Allgemeines und Besonderes Eins sind. Wer sieht [p. 96] nicht, wie Berg, der Reflexionsphilosoph, ge nöthigt ist, den Begriff der Dingheitauf das Absolute überzutragen, wie er sich offenbar dadurch widerspricht und sich in die höchste und lezte Gegensätze einsperrt? Doch wir verweilen hier nicht länger. - Das Denken, sagt Berg weiter, findet einmal keinen Weg über sich selbst hinaus. Wir sagten aber schon, reflectirtes, formales, und absolutes, productives Denken sey uns nicht einerlei. Nun protestirt Berg gegen das leztere und appellirt (sonderbar genug, jedoch durch Schel.
+
+thing, but that in which universal and particular are one. Who does not see [p. 96] how Berg, the philosopher of reflection, is compelled to carry the concept of thinghood over to the Absolute, how he thereby plainly contradicts himself and shuts himself up in the highest and last oppositions? But we shall not linger here any longer. Thinking, Berg says further, simply finds no way out beyond itself. But we have already said that reflected, formal thinking and absolute, productive thinking are not one and the same for us. Now Berg protests against the latter and appeals (strangely enough, though at Schel-
+
+> ling veranlasst,) an die Mathematik. Hier müssen wir also stehen bleiben. Vor allen Dingen haben wir uns vorläufig über Raum und Zeit zu erklären, wobei noch einiges in's Auge ge fasst werden wird, welches dazu gehört. §.
+
+ling's prompting) to mathematics. Here, then, we must stop. Before all things we must first declare ourselves about space and time, in the course of which some further things belonging to this will be taken into view. §.
+
+> 50.
+
+50.
+
+> Was ist Raum und Zeit?
+
+What are space and time?
+
+> Raum und
+
+Space and
+
+> Zeit gehen aus einem Prinzip, dem Absoluten hervor, und sind in ihrer Unendlichkeit die allgemeine Form, unter welcher jenes objectiv wird; an sich sind sie das Absolute selbst. Die Zeit entspricht dem Denken, der Raum dem Seyn. Die Zeit stillestehend gedacht, ist der Raum; der Raum in Bewegung gedacht, ist die Zeit. Man kann auch Raum und Zeit die allgemeine Subject - Objectivität [p. 97] nennen, deren absoluter Indifferenzpunct jenes Eine und Identische ist, welches nicht anders, als einmal unter dem Character der Zeit (des Subjectiven, des Denkens, kurz als Thätigkeit) das anderemal unter dem Character des Raums (des Seyns, des Objectiven, kurz, der Ruhe) hervortritt. Hier wird es vollkommen klar und deutlich, dass es nicht mehr als diese zwei Formen gebe, unter welchen das Absolute erscheinen kann. Das Absolute, als eine rein identische Thätigkeit, muss sich nämlich, um erscheinen zu können, in entgegengesetzte Thätigkeiten, so zu sagen, trennen. Jene Entgegensetzung (Trennung) ist aber keineswegs eine reale: denn was an sich (seinem Wesen nach) identisch ist, kann sich nimmermehr realiter trennen; sondern nur eine formale, d. i. jene Trennung findet nur dadurch statt, dafs das Absolute (die Thesis) sich selbst reflectirt und als Thätigkeit reflectiren muss, und somit sich selbst zur Antithesis wird. Das, worin sie sich reflectirt, ist kein anderes, sondern nur ihr Gegenbild, das aber nothwendig Realität hat, weil das, wodurch es gesetzt wird, selbst ein Reales ist. Darum ist uns das Universum allerdings real, in seiner Realität ewig und nie entstanden; auch wird es nie vergehen: denn [p. 98] was an sich real ist, entsteht und vergeht nie. Nur der Erscheinung (der Form) nach entstehen und vergehen die Dinge; nur der Form nach sind sie auch einander entgegen gesetzt. Eben jene Thätigkeiten, die wir weiter oben subjective und objective, positive und. negative Thätigkeit nannten, constituiren die Dinge. Keine kann ohne die andere seyn: denn wir bekämen sonst etwas dem Absoluten an sich Entgegengesetztes; nur mehr oder weniger ist eine durch die andere beschränkt. Das Streben der positiven Thätigkeit geht dahin, sich in's Unendliche zu expandiren; das der negativen, sich in's Unendliche zu contrahiren. Da, wo die Expansion mit ihrem Maximum gesetzt ist, z. B. in der sogenannten unorganischen Natur im Lichte, scheint alles Materielle verschwunden zu seyn. Daher durchdringt das Licht alles und wird von allem durchdrungen. Aber auch da, wo das Maximum der Contraction in der unorganischen Natur herrscht, im Diamant, ist die Bedingung zur Thätigkeit (Expansion) gesetzt. Ein Zusatz von Kohlensäure löset ihn völlig in Kohlensäure auf. Wäre es möglich, dass die Factoren, je einer von dem andern, frei, würden; so könnte in keinem der beiden Fälle etwas erscheinen, Contraction in's Unendliche [p. 99] ist mathematischer Punct; Expansion in's Unendliche, mathematische Linie (ohne Breite und Dicke). Die Natur im weitläuftigsten Sinne geht daher zwar auf Extreme; aber absolutė
+
+time proceed from one principle, the Absolute, and are in their infinity the universal form under which the Absolute becomes objective; in themselves they are the Absolute itself. Time corresponds to thinking, space to being. Time thought as standing still is space; space thought in motion is time. One can also call space and time the universal subject-objectivity, [p. 97] whose absolute point of indifference is that one and identical, which comes forth in no other way than once under the character of time (of the subjective, of thinking, in short as activity), the other time under the character of space (of being, of the objective, in short, of rest). Here it becomes perfectly clear and plain that there are no more than these two forms under which the Absolute can appear. The Absolute, as a purely identical activity, must namely, in order to be able to appear, separate itself, so to speak, into opposed activities. That opposition (separation), however, is by no means a real one: for what is identical in itself (according to its essence) can never separate itself realiter; it is only a formal one, that is, that separation takes place only through this, that the Absolute (the thesis) reflects itself, and as activity must reflect itself, and thus becomes its own antithesis. That in which it reflects itself is no other, but only its antitype, which, however, necessarily has reality, because that through which it is posited is itself a real. That is why the universe is indeed real for us, eternal in its reality and never having arisen; nor will it ever pass away: for [p. 98] what is real in itself never arises and never passes away. Only according to appearance (to form) do things arise and pass away; only according to form are they also opposed to one another. Precisely those activities which we called further above subjective and objective, positive and negative activity, constitute things. Neither can be without the other: for otherwise we should get something opposed in itself to the Absolute; the one is only more or less limited by the other. The striving of the positive activity goes towards expanding itself into infinity; that of the negative, towards contracting itself into infinity. Where expansion is posited at its maximum, for example in the so-called inorganic nature in light, everything material seems to have vanished. Hence light penetrates everything and is penetrated by everything. But even where the maximum of contraction reigns in inorganic nature, in the diamond, the condition for activity (expansion) is posited. An addition of carbonic acid dissolves it entirely into carbonic acid. Were it possible for the factors to become free, each one of the other, then in neither of the two cases could anything appear; contraction into infinity [p. 99] is a mathematical point; expansion into infinity, a mathematical line (without breadth and thickness). Nature in the widest sense therefore does indeed tend towards extremes; but absolute
+
+> Extreme sind in ihr unmöglich. Nun könnte Berg dünkt uns wohl einsehen, warum uns Denken und Seyn nur relative (quantita. tive) und nicht qualitative Gegensätze sind.-
+
+extremes are impossible in it. Now Berg, it seems to us, could well see why thinking and being are for us only relative (quantitative) and not qualitative oppositions.
+
+> Was wir von diesen behaupten, gilt auch von der Zeit und dem Raume. Die Zeit ist weder dem Raume, noch der Raum der Zeit fremd. Man versuche es nur, den Raum ohne die Zeit, und die Zeit ohne den Raum zu denken; so wird beides unmöglich seyn. §.
+
+What we assert of these holds also of time and space. Time is not foreign to space, nor space to time. Only try to think space without time, and time without space; both will prove impossible. §.
+
+> 51.
+
+51.
+
+> Aus demselben Grunde ist uns die sogenannte unorganische Natur nicht wirklich, sondern nur scheinbar unorganisch. Das, was man in ihr unorganisch nennen könnte, wäre das Wasser, in so ferne es sich erst zu Körpern von mehrerer oder minderer Cohäsion organisirt. Aber auch selbst das Wasser ist nicht unorganisch. Man denke an die regelmässige
+
+For the same reason the so-called inorganic nature is for us not really but only apparently inorganic. What one could call inorganic in it would be water, in so far as it only organizes itself into bodies of greater or lesser cohesion. But even water itself is not inorganic. Think of the regular
+
+> Gestalt der Wassertropfen und in anderweitiger Beziehung an die regelmässige Form der Schneeflocken, der übrigen Crystallisationen ú. s. w. Das Wasser, in so ferne es sich in eine zahllose Menge von Körpern von mehre7* [p. 100] rer oder minderer Cohäsion differenzirt, in ihm selbst aber keine Cohäsion bemerkbar ist, ist das reelle A = A, das Absolute oder Unendliche dieser Sphäre, so wie das Licht das ideelle A = A ist, und sich in den Farben als different darstellt.
+
+figure of drops of water and, in another respect, of the regular form of snowflakes, of the other crystallizations, and so on. Water, in so far as it differentiates itself into a countless multitude of bodies of greater or [p. 100] lesser cohesion, while in itself no cohesion is noticeable, is the real A = A, the absolute or infinite of this sphere, just as light is the ideal A = A and presents itself as different in the colours.
+
+> Man denke hier an das Prisma, wo das Licht gefärbt erscheint. Jeder einzelne Körper ist organisirtes Wasser und das Wasser ist die desorganisirte Körperwelt. Weil nun kein einzelner Körper seinem Ansich (hier dem Wasser als einer geschlossenen Welt) entgegengesetzt seyn kann; so muss behauptet werden, dafs das Besondere (Endliche, Linzelne) dem Allgemeinen (hier dem Indifferenzpuncte alles dessen, was Körper heifst) keineswegs entgegengesetzt sey.
+
+Think here of the prism, where light appears coloured. Every single body is organized water, and water is the disorganized world of bodies. Now, because no single body can be opposed to its in-itself (here, to water as a closed world), it must be asserted that the particular (finite, individual) is by no means opposed to the universal (here, to the point of indifference of all that is called body).
+
+> Endliches und Unendliches, Allgemeines und Besonderes sind also in dieser Beziehung Eins. Wir nannten das Wasser das reelle, das Licht das ideelle A — A. =
+
+Finite and infinite, universal and particular, are therefore one in this respect. We called water the real, light the ideal A = A.
+
+> Auch sie sind einander nicht absolut entgegengesetzt. Es giebt kein Licht ohne Wasser und ki
+
+Nor are these absolutely opposed to one another. There is no light without water and no
+
+> Wasser ohne Licht.
+
+water without light.
+
+> Die Erfahrung lehrt, dafs keine Lichtentwickelung möglich ist, ohne dass Wasser dabei erzeugt werde. Daher ist das Wasser als das reelle Licht, das licht als das ideelle Wasser anzusehen. Beide sind durchsichtig. Weiter: Im Lichte ist so wenig als im Wasser Cohäsion [p. 101] bemerkbar. In dieser Rücksicht ist das Wasser als die erstorbene, das Licht aber als die zu einem höhern und freiern Leben potenzirte Cohäsion zu betrachten. Dieses wieder angewandt auf die höchsten und lezten
+
+Experience teaches that no development of light is possible without water being produced in it. Hence water is to be regarded as real light, light as ideal water. Both are transparent. Further: in light, as little as in water, is cohesion [p. 101] noticeable. In this respect water is to be regarded as dead cohesion, but light as cohesion raised to the potency of a higher and freer life. Applying this in turn to the highest and last
+
+> Gegensätze, die in der Erscheinung hervortreten, würden wir sagen, die Materie sey der erloschene, geronnene Geist, der Geist aber die zu einem schönern und höhern Daseyn emporgehobene Materie. Auch in der organischen Natur reproduciren sich jene Extreme (Indifferenzpuncte) ; aber nur in einer höhern Potenz. Der ideale Pol ist hier der Instinct; der reale das Blut. Beide stralen sich in ihre Differenzen aus, bei welchen wir aber nicht stehen bleiben können; sondern auf Schellings und anderer Schriften verweisen, wo dieses Alles ausführlicher dargestellt ist Da aber alle Differenzen auch hier wieder aus einem gemeinschaftlichen Grunde herfliessen, so muss auch gesagt werden, dass Allgemeines und Besonderes, Endliches und Unendliches Eins sey.
+
+oppositions that come forth in appearance, we would say that matter is extinguished, congealed spirit, but spirit is matter lifted up to a more beautiful and higher existence. In organic nature too those extremes (points of indifference) reproduce themselves, but only in a higher potency. The ideal pole here is instinct; the real, the blood. Both radiate out into their differences, with which, however, we cannot stop here, but refer to the writings of Schelling and others, where all this is set out in more detail. But since here too all differences in turn flow forth from a common ground, it must also be said that universal and particular, finite and infinite, are one.
+
+> In der intelligenten Welt erhebt sich der Instinct zur transcendentalen Einbildungskraft. Sie ist in dieser Sphäre das reelle Extrem, so wie die Vernunft das ideelle ist. Zwischen beiden liegen die übrigen Geisteskräfte. Keine von diesen Kräften ist der andern absolut fremd
+
+In the intelligent world instinct rises to the transcendental power of imagination. In this sphere it is the real extreme, just as reason is the ideal one. Between the two lie the remaining powers of the mind. None of these powers is absolutely foreign to the other
+
+> [p. 102] Aber auch hier giebt es ein Maximum und ein Minimum, Das Maximum ist eben unsere
+
+[p. 102] But here too there is a maximum and a minimum. The maximum is precisely our
+
+> Vernunft, die sich sls ein Streben nach absoluter Einheit (Indifferenz) characterisirt; das Minimum ist der Verstand, als das Vermögen, nur die einzelnen gegebenen Formen (Erscheinungen) aufzufassen. Daher giebt es für ihn nur formale, (nicht reale, absolute) Einheit. Diese zu erkennen, ist das ewige Eigenthum der Vernunft. Gerade dadurch ist unsere
+
+reason, which characterizes itself as a striving after absolute unity (indifference); the minimum is the understanding, as the faculty of apprehending only the single given forms (appearances). Hence for it there is only formal (not real, absolute) unity. To know the latter is the eternal property of reason. It is precisely through this that our
+
+> Vernunft das, was sie ist, dass sie, wenn gleich selbst nicht ausser aller Form, doch, indem sie die Form vernichtet, sich selbst anschauen und in dieser Anschauung ihr Wesen erkennen kann.
+
+reason is what it is: that, although not itself outside all form, it can yet, by annihilating form, intuit itself and in this intuition know its essence.
+
+> Was sie erkennt, spricht keine
+
+What it knows no
+
+> Zunge aus; keine Sprache giebt ihm den wahren Namen. Nenne es, wie du willst; Gott,
+
+tongue utters; no language gives it its true name. Call it what you will: God,
+
+> Absolutes, Einheit, Substanz, Wesen; das ist gleichgültig. Nur die anschauende Erkenntniss leistet dir, was du begehrst. In dieser Erkenntniss bist du in Gott und Gott in dir. (Er ist nicht ferne von einem jeden unter uns: denn in ihm leben, weben und sind wir. ) Du bist im All und das All ist in dir, und dein wahrhaftiges Seyn ist dir verbürgt, §.
+
+the Absolute, unity, substance, essence; that is a matter of indifference. Only intuitive knowledge affords you what you desire. In this knowledge you are in God and God in you. (He is not far from every one of us: for in him we live, and move, and have our being.) You are in the all and the all is in you, and your true being is guaranteed to you. §.
+
+> 52.
+
+52.
+
+> Bedarf es wohl einer wiederholten Erinnerung, dass jene Indifferenzpuncte, die wir in [p. 103] den drei Sphären der Natur nachwiesen, nur für die Erscheinung gelten? Keiner derselben ist das Absolute. Es erscheint nur als ein Absolutes und Unendliches. Alle erscheinende Unendlichkeiten aber sind enthalten in dem absolut Unendlichen, das nicht erscheinen kann. Dieses ist das Innere der Natur, das absolut thätige Leben und Wirken, die reine natura naturans, völlig Eins mit der natura naturata, die ihr ewiges Abbild ist. Es ist das Licht, dessen Stralen sich ins Unendliche hin verbreiten, deren keiner aber sich von seinem Centrum entfernt, ohne in dasselbe zurückzukehren, Bedarf es wohl, fragen wir weiter, einer Beantwortung der Frage: das Absolute reflectirt im Endlichen oder auch im Unendlichen, was heifst das wohl? Für uns giebt es nur Endliches in der Form, und auch das erscheinende Unendliche ist nur ein Unendliches in der Form; das absolut Unendliche (das Unendliche an sich) ist ansser aller Form. Aber es nimmt die Form des Endlichen und Unendlichen an, um erscheinen zu können.
+
+Is there any need of a repeated reminder that those points of indifference which we pointed out in [p. 103] the three spheres of nature hold only for appearance? None of them is the Absolute. It appears only as an absolute and infinite. But all appearing infinities are contained in the absolutely infinite, which cannot appear. This is the inner of nature, the absolutely active life and working, the pure natura naturans, wholly one with the natura naturata, which is its eternal image. It is the light whose rays spread out into the infinite, none of which, however, departs from its centre without returning into it. Is there any need, we ask further, of an answer to the question: the Absolute reflects in the finite or also in the infinite, what can that mean? For us there is only the finite in the form, and even the appearing infinite is only an infinite in the form; the absolutely infinite (the infinite in itself) is outside all form. But it takes on the form of the finite and the infinite in order to be able to appear.
+
+> Bedarf es wohl einer weitern Erläuterung der Behauptung Schellings: Das Denken (als Denken in der Form) sey an sich nichts, d. h. ohne die bestimmte Erkenntniss, dass unser Denken selbst nur eine Form (Erscheinungsweise) [p. 104] des Absoluten sey, könne es unmöglich ein reales Erkennen genannt werden? Mit Recht heifst daher jedes Denken in der Form ein endliches, so wie das Denken, das auf dem Standpuncte des Absoluten vor sich geht, ein Unendliches ist, d. h. durch keinen Gegensatz ausser sich beschränkt wird. §.
+
+Is there any need of a further elucidation of Schelling's assertion that thinking (as thinking in the form) is in itself nothing, that is, that without the determinate knowledge that our thinking is itself only a form (mode of appearance) [p. 104] of the Absolute, it can by no means be called a real knowing? With right, therefore, every thinking in the form is called a finite one, just as the thinking that proceeds from the standpoint of the Absolute is an infinite one, that is, one limited by no opposition outside itself. §.
+
+> 53.
+
+53.
+
+> Das leztere könnte auch intuitives Denken genannt werden; noch passender aber absolutes Bewusstseyn. Wir wählen aber doch lieber den schon bekannten Namen: Intellectuelle Anschauung. Von dieser behaupten wir mit Schelling, dass sie auch dem Mathematiker eigen sey, und zwar in so ferne es in seinen Constructionen die Einheit des Allgemeinen und des Besondern, des Endlichen und Unendlichen, ausdrückt. Für den Geometer ist das Unendliche der Raum. Alle Figuren, welche er beschreibt, sind im Raume, und es ist gar kein besonderer Raum denkbar ohne die Vorstellung des unendlichen Raumes, der als das Substrat jeder nur denkbaren Figur angesehen werden muss; mit einem Worte: Das An - sich jeder besondern und einzelnen Figur ist dem Geometer der Raum. Wir werden suchen durch folgende Sätze deutlicher zu werden, [p. 105] a) Die Geometrie hat es mit dem Raume und den verschiedenen Eintheilungen desselben zu thun.
+
+The latter could also be called intuitive thinking; more fittingly still, absolute consciousness. But we prefer to choose the name already known: intellectual intuition. Of this we assert with Schelling that it is proper also to the mathematician, namely in so far as he expresses in his constructions the unity of the universal and the particular, of the finite and the infinite. For the geometer the infinite is space. All the figures he describes are in space, and no particular space whatever is thinkable without the representation of infinite space, which must be regarded as the substrate of every figure that can be thought at all; in a word: the in-itself of every particular and single figure is, for the geometer, space. We shall try to make ourselves clearer through the following propositions. [p. 105] a) Geometry has to do with space and its various divisions.
+
+> b) Einer jeden geometrischen Figur liegt die Vorstellung des unendlichen Raumes zu Grunde.
+
+b) The representation of infinite space underlies every geometrical figure.
+
+> c) Jede besondere Figur ist daher in ihrem Allgemeinen, dem unendlichen Raume, enthalten, und es lässt sich keine Figur ausser dem Raume denken.
+
+c) Every particular figure is therefore contained in its universal, infinite space, and no figure can be thought outside space.
+
+> d) Dem gemeinschaftlichen Substrate nach ist daher jede Figur mit der andern identisch. e) Der Raum ist daher das Absolute der Geometrie.- Es ist ganz gleichgültig, ob ich mir den unendlichen Raum so oder anders modificirt (begränzt) denke. Es ist immer einer und derselbe Raum, in welchem das Besondere (die Figur) enthalten ist. 5ίας f) An sich ist also das Besondere das Allgemeine und umgekehrt. Oder: Das Endliche (die Figur) und das Unendliche (der gränzenlose Raum) sind Eins. §. 54. Da nun in der Geometrie das Besondere im Allgemeinen enthalten ist, und beide einander nicht entgegengesetzt sind; so kann auch der Geometer aus einer besondern Figur allgemeine Schlüsse ziehen: denn diese ist ei [p. 106] gentlich nichts Besonderes (Abgesondertes); sondern sie ist in ihrem An sich, hier dem unendlichen Raume, enthalten. Dieser ist aber nicht eigentlich in sich selbst, sondern nur in der Idee des Geometers modificirt, daher auch behauptet werden muss, dass alle Figuren, welche der Geometer im Raume beschreibt, seine Ideen inder Erscheinung sind. Man würde die Geometrie mit sich selbst in Widerspruch setzen, wenn man behaupten wollte, es gebe einen besondern dem unendlichen entgegengesetzten Raum (eine Figur an sich). Dann wäre es erst wirklich unmöglich, aus einem solchen Besondern allgemeingültige Schlüsse, wie Berg sich ausdrückt, zu ziehen, weil das Besondere nicht in dem Allgemeinen enthalten wäre. Beide wären als zwei getrennte Welten anzusehen. Nur so und auf keinem andern Wege kann die alte Schwierigkeit, die seit Hume's und Kants Zeiten spuckt, und mit deren Losung Berg aus guten Gründen (weil er es eben nach seiner Philosophie nicht vermag) sich nicht abgeben wollte, gehoben werden. Die
+
+d) According to the common substrate, therefore, every figure is identical with every other. e) Space is therefore the absolute of geometry. It is a matter of complete indifference whether I think infinite space as modified (bounded) in this way or another. It is always one and the same space in which the particular (the figure) is contained. f) In itself, therefore, the particular is the universal, and conversely. Or: the finite (the figure) and the infinite (boundless space) are one. §. 54. Since, then, in geometry the particular is contained in the universal, and the two are not opposed to one another, the geometer too can draw universal conclusions from a particular figure: for this figure is [p. 106] properly nothing particular (separated off); rather, it is contained in its in-itself, here infinite space. This, however, is not properly modified in itself but only in the idea of the geometer; hence it must also be asserted that all the figures the geometer describes in space are his ideas in appearance. One would set geometry in contradiction with itself if one were to assert that there is a particular space opposed to the infinite one (a figure in itself). Only then would it really be impossible to draw from such a particular conclusions of universal validity, as Berg puts it, because the particular would not be contained in the universal. The two would have to be regarded as two separate worlds. Only thus and by no other way can the old difficulty be removed that has haunted us since the times of Hume and Kant, and with whose solution Berg, for good reasons (because, by his philosophy, he simply is not able to), did not wish to concern himself. The
+
+> Apodixis des Geometers beruht lediglich darauf, dass er durch seine Anschauung (nach Kant) durch intellectuelle Anschauung (nach Schelling) die Einheit (wie Berg sagt, die Vercintheit,) [p. 107] des Allgemeinen und Besondern; des endlichen und unendlichen Raumes erkennt.
+
+apodeixis of the geometer rests solely on this, that through his intuition (according to Kant), through intellectual intuition (according to Schelling), he knows the unity (as Berg says, the unitedness) [p. 107] of the universal and the particular, of finite and infinite space.
+
+> Doch wir müssen, wie billig, Berg auch darüber hören: Er sagt (pag. 120. u. f. ): Bei allem dem, dafs der Geometer eine besondere Figur vor sich hat, müssen doch seine Sätze und Schlüsse als allgemein angenommen werden. -- Du unterscheidest also in der Demonstration des Geometers die Besonderheit der Figur, welche derselben zu Grunde liegt, und den allgemeinen Werth der Sätze und Schlüsse, welche er darauf baut. Ist's nicht Umsonst zauderst du mit der Antwort. so? Bedenke, dass, wenn du die Einerleiheit in den Prämissen gesetzt hättest, das erst zu Erschliessende voraus angenommen und im Schlusssatze blos wiederholt wäre. Das Falsche und Schiefe in diesen Worten kann nicht ausführlich dargestellt werden, Aber bemerkenswerth ist, dafs das, was Berg hier sagt, nicht gegen, sondern für uns ist. Wir behaupten eben, dass in der Geometrie, wie überhaupt in der Mathematik, nichts erschlossen sondern demonstrirt werde. Das zu demonstrirende wird zum Voraus schon als wahr angenommen und seine Wahrheit in der Demonstration blos wiederholt. Es dünkt uns, man könne dieses beinahe mit den Händen [p. 108] greifen. Der Lehrsatz: In einem jeden Triangel sind zwei Seiten zusammengenommen grösser als die dritte, oder folgender: 7 + 5 = 12, wird nicht erst erschlossen, sondern als wahr demonstrirt. Die Figuren und Ziffern des Mathematikers sind weiter nichts, als das Gerüste, das er seinen Vernunftconstructionen unterstellt; an sich sind sie nichts. Eben weil die Figur gar nichts an sich (keine wirkliche Figur) ist, haben jene Sätze, als Vernunftconstructionen, nothwendig allgemeine Gültigkeit. §. 55.
+
+But we must, as is fair, hear Berg on this too. He says (p. 120 f.): For all that the geometer has a particular figure before him, his propositions and conclusions must nevertheless be taken as universal. — You therefore distinguish, in the demonstration of the geometer, the particularity of the figure that underlies it and the universal value of the propositions and conclusions he builds upon it. Is it not so? In vain do you hesitate with the answer. Consider that, had you posited sameness in the premisses, what was first to be inferred would have been assumed in advance and merely repeated in the conclusion. What is false and askew in these words cannot be set out in detail. But it is noteworthy that what Berg says here is not against us but for us. We assert precisely that in geometry, as in mathematics generally, nothing is inferred but rather demonstrated. What is to be demonstrated is already assumed in advance as true, and its truth is merely repeated in the demonstration. It seems to us that one can almost grasp this with one's [p. 108] hands. The theorem: in every triangle two sides taken together are greater than the third, or this one: 7 + 5 = 12, is not first inferred but demonstrated as true. The figures and numerals of the mathematician are nothing more than the scaffolding he places beneath his constructions of reason; in themselves they are nothing. Precisely because the figure is nothing at all in itself (no actual figure), those propositions, as constructions of reason, necessarily have universal validity. §. 55.
+
+> Berg sagt weiter (p. 182) : Man nehme sich viel vor, wenn man die Indifferenz des Idealen und Realen im Raum und in der Zeit aus sich,gleichsam proiicirt und in sich selbst unmittelbar intellectuell anschauen und so mit der Mathematik fertig werden wolle. Welchen
+
+Berg says further (p. 182): One undertakes a great deal if one wishes to project the indifference of the ideal and the real in space and time, as it were, out of oneself, and to intuit it intellectually and immediately in oneself, and so be done with mathematics. What
+
+> Gehalt Schellings Worte: Der Mathematiker proiicire gleichsam aus sich die Indifferenz des Idealen und Realen im Raum und in der Zeit, und schaue sie unmittelbar intellectuell an, habe, wissen wir sehr gut, und sind von der Wahrheit desselben vollkommen überzeugt. Aber Berg hat nichts davon verstanden oder verstehen wollen, folglich müssen wir noch, in speculativer Hinsicht, einige Erläuterungen
+
+content Schelling's words have, that the mathematician projects, as it were, out of himself the indifference of the ideal and the real in space and time and intuits it immediately and intellectually, we know very well, and we are fully convinced of their truth. But Berg has understood nothing of it, or has not wished to understand anything; consequently we must still, in a speculative respect, offer some elucidations
+
+> [p. 109] Pres darüber mittheilen. Wir bleiben bei der Geometrie stehen.
+
+[p. 109] on it. We shall remain with geometry.
+
+> Der Geometer stellt seine Idee durch eine Figur im Raume dar. Sind beide different? Keineswegs. Das Project (die Figur) des Geometers erscheint nur als ein Reales; aber das wahrhaft Reale ist nur die idee des Geometers.
+
+The geometer presents his idea through a figure in space. Are the two different? By no means. The projection (the figure) of the geometer appears only as something real; but what is truly real is only the idea of the geometer.
+
+> Dieser kann bei der Anschauung seiner Constructionen nicht aus sich hinaustreten. Daher liegt das Apodictische bei ihm nicht in der besondern Figur, sondern in der Idee. Eben deswegen ist jeder geometrische Lehrsatz in und für sich selbst wahr und steht als eine geschlossene Welt da. So bedarf der Satz: „alle drei Winkel in einem Triangel sind gleich zwei rechten Winkeln" keiner Herleitung in dem Sinne, als wenn er erst in Verbindung mit einem andern (durch causalischen Zusammenhang) seine Bedeutung erhielte. Blos die Vernunftconstruction des Geometers giebt ihm Gültigkeit für alle mögliche Triangel, keineswegs aber die besondere und einzelne Figur, die nur der äussere Ausdruck (die Form) dessen ist, was der Geometer in sich selbst schon als evident erkannt hat.
+
+He cannot, in the intuition of his constructions, step outside himself. Hence the apodictic with him lies not in the particular figure but in the idea. For that very reason every geometrical theorem is true in and for itself and stands there as a closed world. Thus the proposition "all three angles in a triangle are equal to two right angles" needs no derivation in the sense that it would receive its meaning only in connection with another (through causal connection). Only the construction of reason of the geometer gives it validity for all possible triangles, but by no means the particular and single figure, which is only the outward expression (the form) of what the geometer has already known as evident in himself.
+
+> Aber wenn wir auch behauptet haben, dass jeder geometrische Satz in und für sich selbst wahr sey, und als eine geschlossene Welt dastehe; [p. 110] so wollten wir damit nicht sagen, dass er dadurch aus der Verbindung mit dem Ganzen heraustrete.
+
+But although we have asserted that every geometrical proposition is true in and for itself and stands there as a closed world, [p. 110] we did not mean to say by this that it thereby steps out of connection with the whole.
+
+> Vielmehr ist unsere
+
+Rather, our
+
+> Meinung diese, dass an sich jeder geometrische Lehrsatz mit der ganzen Geometrie identisch sey, indem diese eben so wenig, als ein einzelner Satz aus ihrem Absoluten, hier dem unendlichen Raume, heraustreten kann; diesem selbst aber wieder jenes Eine und Identische, durch welches Geometrie und Mathematik überhaupt erst möglich wird, zu Grunde liegt. In dieser Beziehung ist Geometrie eine Totalität (ein System), in welchem Eins Alles und Alles Eins ist, und kann daher auch von der Vernunft, als eine Einheit überschaut werden. §.
+
+opinion is this: that in itself every geometrical theorem is identical with the whole of geometry, since geometry can no more step out of its absolute, here infinite space, than a single proposition can; while infinite space itself is in turn underlain by that one and identical through which geometry and mathematics in general first become possible. In this respect geometry is a totality (a system) in which one is all and all is one, and it can therefore also be surveyed by reason as a unity. §.
+
+> 56.
+
+56.
+
+> Seine Constructionen, wie eine mathematische Figur, in der Erscheinung geben, dieses kann der Philosoph nicht. Er hat vielmehr darzuthun, wie selbst Raum und Zeit und somit auch Mathematik möglich sey, welche Wissenschaft daher ihre Evidenz von der Philosophie entlehnt. Raum und Zeit, sagten wir, seyen an sich nichts; sondern nur die allge meine Form, unter welcher das Absolute ob.
+
+To give his constructions in appearance, as a mathematical figure, this the philosopher cannot do. He has rather to show how even space and time, and thus also mathematics, are possible, which science therefore borrows its evidence from philosophy. Space and time, we said, are in themselves nothing, but only the universal form under which the Absolute becomes ob-
+
+> jectiv wird. Folglich ist die besondere Figur, welche der Geometer entwirft, eben so wenig [p. 111] als der Raum überhaupt, etwas an sich. Das Ansich der besondern Figur ist die eigene Vernunft des Geometers, die sich als ein Objectives darstellt in der Figur, als ein Seyn im Raume. Das Verfahren der Vernunft ist hier als ein Sich selbst erkennen zu L characterisiren. Das, worin sie sich erkennt, ist kein anderes, sondern nur ihr Bild, ihr eigener Reflex, aber nicht etwas ihr an sith Entgegengesetztes. So wie aber die Vernunft die Nichtigkeit aller Formen erkennt; so erkennt sie auch die Nichtigkeit ihrer eigenen Form, d. h. ihr Seyn im Absoluten, welches Seyn das wahre und allen Dingen ei genthümliche, das Seyn an sich, oder in den Ideen ist. Wir greifen das Gesagte und zugleich die Hauptdata, welche in diesen Bogen niedergelegt sind, zusammen.
+
+jective. Consequently the particular figure which the geometer sketches is as little [p. 111] something in itself as space in general is. The in-itself of the particular figure is the geometer's own reason, which presents itself as something objective in the figure, as a being in space. The procedure of reason is here to be characterized as a knowing of itself. That in which it knows itself is no other, but only its image, its own reflex, and not something opposed to it in itself. But just as reason knows the nothingness of all forms, so it knows also the nothingness of its own form, that is, its being in the Absolute, which being is the true being proper to all things, being in itself, or being in the ideas. We gather together what has been said and at the same time the chief data that have been set down in these sheets.
+
+> Intellectuelle Anschauung gründet sich auf das Wesen der Vernunft selbst. Diese ist nämlich kein passives, sondern ein actives, (construirendes, productives) Vermögen. Dieses ist nicht etwas Neues, das Schelling etwa erst vorgetragen hätte, sondern auch Kant sah sie für ein solches an, wenn er gleich diese grosse Idee nicht consequent vest gehalten hat. In der Vorrede zu seiner Kritik d. r. Vern. sagt er: Sie (Galilai, Torricelli u. a. ) begriffen, [p. 112] dass die Vernunft nur das einsieht, was sie nach ihrem eigenen Entwurfe hervorbringt (d. h. nach uns construirt). Die Vernunft mufs mit ihren Principien, nach denen allein übereinkommende Erscheinungen für Gesetze gelten können, in einer Hand, und mit dem Experiment, das sie nach jenen Principien ausdachte, in der andern, an die Natur gehen u, s. w. Es soll, wie sich von selbst versteht, durch diese Stelle weiter gar nichts dargethan werden, als dass Kant die Vernunft für kein blosses Räsonnirvermögen ansah, sondern für ein solches, das sich (in gewisser Beziehung) über das Gegebenseyn erheben könne. Deutlicher aber, als alles dieses, beweifst das Gesagte der hohe Schwung, den die Kritik im practischen Theile nimmt, wo gefordert wird, dass, des Widerspruches, in welchen, der aufgestellten Ansicht gemäss, das Univer1 sum zerfällt, ungeachtet, doch ein Absolutes, das freilich widersprechend, wie denn alle und jede empirische Philosophie nicht anders kann, ausser dem Universum versetzt wird, geglaubt werden soll. Diese Forderung beweifst die Erhabenheit der Vernunft über alles widersprechende Gegebenseyn - beweifst unleugbar ihren mächtigen Einfluss auf den in absoluter Duplicität befangenen Verstand.
+
+Intellectual intuition is grounded in the essence of reason itself. For reason is not a passive but an active (constructing, productive) faculty. This is not something new that Schelling, say, was the first to put forward; Kant too regarded reason as such a faculty, even though he did not consistently hold fast to this great idea. In the preface to his Kritik d. r. Vern. he says: They (Galileo, Torricelli and others) understood [p. 112] that reason has insight only into what it itself brings forth according to its own design (that is, by our account, constructs). Reason must approach nature with its principles, according to which alone concordant appearances can count as laws, in one hand, and with the experiment that it devised according to those principles in the other, and so on. As goes without saying, nothing further at all is to be shown by this passage than that Kant regarded reason not as a mere faculty of ratiocination but as one that could (in a certain respect) raise itself above being-given. But more clearly than all this, what has been said is proved by the high flight the Critique takes in its practical part, where it is demanded that, notwithstanding the contradiction into which, according to the view set up, the universe falls apart, an absolute, which, to be sure, in contradictory fashion (as indeed each and every empirical philosophy cannot do otherwise) is placed outside the universe, is nevertheless to be believed. This demand proves the elevation of reason above all contradictory being-given; it proves undeniably its mighty influence on the understanding, caught in absolute duplicity.
+
+> [p. 113] S
+
+[p. 113] S
+
+> Die Vernunft eben so wenig als der Verstand, kann Widerspruch ertragen. Und doch widerspricht sich das Universum dadurch, dass es, der Reflexion zufolge, in Denken und Seyn, als absolute Gegensätze, zerfallen soll. Durch eine Idee, welche sie als ihr Wesen und als das Wesen des Universums erkennt, und welche sich ihr als Einheit offenbart, geht die Erscheinungswelt in die entzückendste Harmonie über. Diese hallt auch in den entferntesten Theilen wieder, und es giebt in derselben keine wirkliche Dissonanzen.
+
+Reason, as little as the understanding, can endure contradiction. And yet the universe contradicts itself in that, according to reflection, it is supposed to fall apart into thinking and being as absolute oppositions. Through an idea which reason knows as its essence and as the essence of the universe, and which reveals itself to it as unity, the world of appearance passes over into the most enchanting harmony. This echoes even in the most distant parts, and in it there are no real dissonances.
+
+> Was eine solche zu seyn scheint, dient nur, das Ganze zu heben und den Einklang zu erhöhen. Doch wir sprechen ohne Bilder.
+
+What seems to be one serves only to lift the whole and heighten the concord. But let us speak without images.
+
+> Für die wahre Philosophie giebt es nichts Einzelnes und Abgesondertes. Jedem Dinge ist vielmehr die absolute Vernunftform ausgedrückt und es ist wesentlich in dem Absoluten und durch dasselbe. Es giebt daher keine Pflanze, kein Thier an sich. Auch der menschliche Geist ist an sich nichts, d. h. es kommt ihm nur Wesenheit zu, in soferne er im Absoluten ist. Dieses ist nur das Einzige und Reale, die unsichtbare Wurzel alles Seyns.
+
+For the true philosophy there is nothing single and separated. Rather, the absolute form of reason is expressed in every thing, and it is essentially in the Absolute and through it. Hence there is no plant, no animal in itself. The human spirit too is in itself nothing, that is, essentiality belongs to it only in so far as it is in the Absolute. This alone is the only and the real, the invisible root of all being.
+
+> Nichts ist von demselben getrennt oder abgesondert, sondern alles ist und bestehet nur in demselben und durch dasselbe. Nicht einmal [p. 114] seinen Namen dürfen wir nennen, ohne fürchten zu müssen, es zu entstellen.
+
+Nothing is divided or separated from it, but all is and subsists only in it and through it. We may not even [p. 114] name its name without having to fear that we disfigure it.
+
+> Hier giebt es keine Schranken, keine Grenzen; nichts Einfaches, dem ein Zusammengesetztes, nichts Substanzielles, dem ein Accidentelles entgegenstünde; hier ist alles real und ewig. Weder Coordination noch Subordination, weder Namen noch Zahl findet hier statt.
+
+Here there are no bounds, no limits; nothing simple to which a composite, nothing substantial to which an accidental, would stand opposed; here all is real and eternal. Neither coordination nor subordination, neither name nor number, has place here.
+
+> Das Eine, ausser welchem es nichts giebt, noch geben kann, hebt alle jene schiefen Bestimmungen durch seine Wesenheit mit einem Male auf. So denken wir uns Gott, und unsere Vernunft sagt uns, dafs wir uns der Art, wie wir ihn denken, nicht zu schämen haben. Auch erröthen wir nicht, wenn wir hier unser Glaubensbekenntniss ablegen.
+
+The one, outside which there is nothing, nor can be, cancels all those askew determinations at one stroke through its essentiality. Thus do we think God, and our reason tells us that we need not be ashamed of the way in which we think him. Nor do we blush when we here make our confession of faith.
+
+> Bevor wir die wahre Philosophie, von welcher alle andere sogenannte Philosophien nur die verzerrten Bilder sind, kannten, stund unsere Ueberzeugung von der Realität des Absoluten nie auf vestem Grunde. Nicht unbekannt mit Kants und Fichte's Systemen, aber nicht befriedigt durch dieselben, sahen wir unser Wissen nur für ein vages Durcheinander an, welchem das Wichtigste, die Vereinigung in einen Punct, fehlte. Nie mit uns selbst übereinstimmend, waren wir immer mit uns und mit dem, was uns umgab, unzufrieden. Schwankend zwischen, wie [p. 115] wir damals glaubten, nie zu vereinigenden Gegensätzen, sahen wir alles Wissen der Menschen für Selbsttäuschung an, und oft lächelten wir über das, was andere als baare Wahrheit vortrugen, aber warum sollten wir es nicht gestehen? - noch öfter lächelten wir über uns selbst.
+
+Before we knew the true philosophy, of which all other so-called philosophies are only the distorted images, our conviction of the reality of the Absolute never stood on firm ground. Not unacquainted with the systems of Kant and Fichte, but not satisfied by them, we regarded our knowledge only as a vague jumble that lacked the most important thing, union in one point. Never in agreement with ourselves, we were always dissatisfied with ourselves and with what surrounded us. Wavering between oppositions which, as [p. 115] we then believed, could never be united, we regarded all human knowledge as self-deception, and we often smiled at what others put forward as plain truth, but why should we not confess it? — still more often we smiled at ourselves.
+
+> Ehe wir anfingen, mit Schellings Lehre vertrauter zu werden, ging es uns gerade wie vielen andern wir glaubten überall nichts als Widersprüche zu sehen. Zuweilen dachten wir auch wir legten willkürlich den Sinn in die Sätze, die vorgetragen wurden. Ja mehr als einmal stunden wir im Begriffe, das Studium jener Lehre aufzugeben. Aber wäre es auch nicht Hang zu solchen speculativen Untersuchungen gewesen, so war es doch der Gedanke, wir möchten, jenem Manne Unrecht thun und uns irren welcher uns immer wieder zu demselben zurückzog. Kurz, wir verglichen, machten Einwürfe, und fanden, dass unsere Einwürfe und
+
+Before we began to become more familiar with Schelling's doctrine, it went with us just as with many others: we believed we saw nothing but contradictions everywhere. At times we also thought we were arbitrarily laying the sense into the propositions that were put forward. Indeed, more than once we were on the point of giving up the study of that doctrine. But even if it had not been an inclination to such speculative inquiries, it was yet the thought that we might be doing that man an injustice and be in error which drew us back to it again and again. In short, we compared, raised objections, and found that our objections and
+
+> Vergleichungen nicht nur nichtig, sondern auch nicht selten abgeschmackt waren. Wenn ein Mann mit der Behauptung auftritt, das Wesen aller Dinge sey Eins; was als noch zu entgegengesetzt erscheine, treffe in einem Puncte zu. sammen; Denken und Seyn seyen nur die zwei entgegengesetzten Radien, eines und desselben 8*
+
+comparisons were not only void but also not seldom absurd. When a man comes forward with the assertion that the essence of all things is one; that what appears as ever so opposed meets in one point; that thinking and being are only the two opposite radii of one and the same
+
+> [p. 116] Mittelpunctes; das in der Erscheinung absolut entzweite Universum könne, ohne einen in ihm selbst liegenden Indifferenzpunct, der als solcher nicht erscheinen, sondern nur durch Vernunft angeschaut werden könne, nicht gedacht werden; in dieser Anschauung verschwinde alles Besondere und Einzelne, als solches, u.s.w., so begreifen wir nicht, wie manhier Atheismns, oder wie unser lieber Berg auch thut, Partheiismus rufen konnte. Was die Beschuldigung des Atheismus anbelangt, so ist doch so viel wohl richtig, dass nur die Dummheit oder Bosheit dem Identitätssystem diesen Vorwurf machen kann. Es spricht das Daseyn nicht nur, sondern auch die Einheit Gottes, und, wenn man will, die Trinitätslehre, deutlich aus, Ja, ihm ist alles Wissen, ohne die Erkenntniss des absolut Realen, (der Gottheit) weiter nichts, als blosser Schein. Wer vermag hier Pantheismus zu wittern?
+
+[p. 116] centre; that the universe, absolutely divided in appearance, cannot be thought without a point of indifference lying within it, which as such cannot appear but can only be intuited through reason; that in this intuition everything particular and single vanishes as such, and so on, then we do not comprehend how anyone could here cry atheism, or, as our dear Berg also does, pantheism. As concerns the charge of atheism, this much is surely right, that only stupidity or malice can make this reproach to the system of identity. It clearly expresses not only the existence but also the unity of God, and, if one will, the doctrine of the Trinity. Indeed, for it all knowledge, without the knowledge of the absolutely real (of the Godhead), is nothing more than mere semblance. Who can scent pantheism here?
+
+> Doch wir lenken wieder ein. Also wirglauben an einen Gott, als ein reales, in seiner Realität aber ideales Wesen; an Freiheit an sich identisch mit Naturnothwendigkeit, so wie selbst Gott nach seiner Natur handeln muss; an eine Ewigkeit, die nie anfing und doch war, diejetzt ist, und weil sie ist, nie aufhört; an eine Tugend ohne Lohn, weil Tugend und Heilig [p. 117] keit absolut Eins sind. Wir halten uns für verpflichtet, zu gestehen, dass wir die Ueberzeugung von diesen grossen Wahrheiten, und somit unsere ganze Ruhe Schelling schuldig sind. Weder Denken noch die Natur ist für uns verloren. Das Denken (Erkennen) unserer Vernunft ist uns vielmehr Bürge unserer Würde, die uns nie verloren gehen kann.
+
+But let us turn back again. We believe, then, in a God, as a real being, but ideal in its reality; in freedom, in itself identical with natural necessity, just as God himself must act according to his nature; in an eternity that never began and yet was, that now is, and because it is, never ceases; in a virtue without reward, because virtue and holi- [p. 117] ness are absolutely one. We hold ourselves obliged to confess that we owe the conviction of these great truths, and with it our whole peace, to Schelling. Neither thinking nor nature is lost for us. The thinking (knowing) of our reason is rather for us the guarantor of our dignity, which can never be lost to us.
+
+> Für uns hat sich der Unsichtbare überall sichtbar dargestellt. Wie am Firmamente, sehen wir ihn auch im Sandkorne. Das Auge der Vernunft erblickt ihn im Thautropfen und auf dem nuacirten Blatt der Tulpe und der Nelke. Er ist überall und doch nirgends. Nur das kann Berg nicht begreifen, wie ein rein Identisches erscheinen könne, weswegen er auch sagt, Schellings Philosophie setze die Differenz nothwendig voraus. Wir aber sagen: Das Absolute als rein identische Thätigkeit erscheint auch nicht. Es trennt sich, (wir reden menschlicher Weise) um erscheinen zu können, in entgegengesetzte Thätigkeiten. Nothwendig erscheinen so entgegengesetzte Realitäten; aber nur dem Verstande, nicht der Vernunft, welche zwar Differenzen, aber auch nur in der Erscheinung, anerkennt. Indas Absolute selbst setzen wir keine Differenz, wenn es gleichals ein Differentes erscheinenmuss.
+
+For us the Invisible has presented himself visibly everywhere. As in the firmament, we see him also in the grain of sand. The eye of reason beholds him in the dewdrop and on the shaded petal of the tulip and the carnation. He is everywhere and yet nowhere. Only this Berg cannot comprehend, how something purely identical could appear, which is why he also says that Schelling's philosophy necessarily presupposes difference. But we say: the Absolute as purely identical activity does not appear either. It separates itself (we speak in human fashion) into opposed activities in order to be able to appear. Necessarily, then, opposed realities appear; but only to the understanding, not to reason, which does recognize differences, but only in appearance. Into the Absolute itself we posit no difference, even though it must appear as something different.
+
+> [p. 118] Der Stein ist ein Stein, die Pflanze eine Pflanze, das Thier ein Thier; aber es sind nur endliche Formen des absolut Unendlichen, das als solches, ausser aller Form ist. Den Stein im Steine, die Pflanze in der Pflanze, das Thier im Thiere das Unsichtbare und Unendliche im Sichtbaren und Endlichen zu erblicken, das ist das erhabene Geschäfte dessen, der auf speculative Erkenntniss Anspruch macht.
+
+[p. 118] The stone is a stone, the plant a plant, the animal an animal; but they are only finite forms of the absolutely infinite, which as such is outside all form. To behold the stone in the stone, the plant in the plant, the animal in the animal, the invisible and infinite in the visible and finite, that is the sublime business of him who lays claim to speculative knowledge.
+
+> §.
+
+§.
+
+> 57.
+
+57.
+
+> Wir könnten hier ohne weiters schliessen:
+
+We could close here without further ado:
+
+> denn Alles, was in Bergs Sextus vorkommt, haben wir, bis auf einige zur Sache nicht gehörende Kleinigkeiten, theils unmittelbar, theils mittelbar berührt. Aber sollten wir dieses, ohne vielleicht auch nur ein einzigesmal unsern Mund zum Lächeln verzogen zu haben? Und dann möchten auch wir unser Urtheil mit eineminale über Bergs Sextus fällen. Wie man an grossen Tafeln oft zulezt das Gebratene, wie manche sagen das Beste, giebt; so regalirt uns denn auch Berg, als ein geschickter Koch, vorzüglich zulezt mit einigen Gerichten, die ein Meisterstück seiner philosophischen Kochkunst sind. Es sind folgende: 1) Ein Gericht causalisches Wissen, gewürzt mit der Behauptung: Es wäre sehr viel, wenn du [p. 119] die Stirne hättest, von der Wirklichkeit dieses Gesprächs nichts wissen zu wollen, oder auszugeben, du könntest alle Stösse, Ausbeugungen und Rückstösse, wie ein geometrisches Problem construiren.- Hoch leben alle geschickte Fechtmeister!
+
+for everything that occurs in Berg's Sextus we have touched on, partly directly, partly indirectly, save for some trifles that do not belong to the matter. But should we do so without having, perhaps, even once drawn our mouth into a smile? And then we too would like to pass our judgement on Berg's Sextus once and for all. As at great tables the roast, which some call the best, is often served last, so Berg, as a skilful cook, regales us at the last especially with some dishes that are a masterpiece of his philosophical art of cookery. They are the following: 1) A dish of causal knowledge, seasoned with the assertion: It would be a great deal if you [p. 119] had the face to wish to know nothing of the actuality of this conversation, or to give out that you could construct all the thrusts, evasions and counter-thrusts like a geometrical problem. — Long live all skilful fencing masters!
+
+> 2) Ein' Hachis aus Raum und Zeit, welches durch folgenden Zusatz zur wahren Delikatesse für den Kenner wird: Aus dem Begriff des Endlichen leitest du also erst Zeit und Causalität und doch ist das Endliche schon in der Zeit und ist verursacht. Es entsteht nach dem Gesetz des Reflexes? Aber darf ich fragen, woher der Reflex entsteht? (Warum nicht? hätte nur Berg genau bei Schelling nachgefragt, d. i. in seinen Schriften sich umgesehen, so würde er die passende Antwort schon bekommen haben.) Denn (favete linguis! ) dass der Reflex entsteht, kann keine Frage seyn, weil er nicht allezeit vorhanden ist, z. B. wenn du dich in der intellectuellen Anschauung vertieft hast, oder schläfst, u. s. w. Ach das schmeckt! 3) Eine Compote aus Unendlichem und Endlichen, Bergs ganz eigene Erfindung, vorzüglich schmackhaft gemacht durch folgende Zuthat: Das Absolute reflectirt im Endlichen oder Unendlichen, was heifst das wohl ?- Ja, ja, da liegt's eben!
+
+2) A hachis of space and time, which by the following addition becomes a true delicacy for the connoisseur: From the concept of the finite you thus first derive time and causality, and yet the finite is already in time and is caused. It arises according to the law of the reflex? But may I ask whence the reflex arises? (Why not? Had Berg only inquired closely of Schelling, that is, looked about in his writings, he would already have received the fitting answer.) For (favete linguis!) that the reflex arises can be no question, because it is not present at all times, for example when you have become absorbed in intellectual intuition, or are asleep, and so on. Ah, how that tastes! 3) A compote of infinite and finite, Berg's very own invention, made especially savoury by the following ingredient: The Absolute reflects in the finite or the infinite, what can that mean? — Yes, yes, there's the rub!
+
+> [p. 120] 4) Ein Stück aus der Geschichte der Gnostiker: gespickt mit Aeonen und eingebeizt in Bergs selbsterfundener intellectueller Anschauung.
+
+[p. 120] 4) A piece from the history of the Gnostics: larded with aeons and marinated in Berg's self-invented intellectual intuition.
+
+> Undso hat uns denn Berg recht köstlich regalirt. Wir könnten zwar noch mit mehreren Zwischengerichten aufwarten; aber hier gilt das Wort: Sapienti sat!
+
+And so Berg has regaled us right deliciously. We could, to be sure, serve up several more side dishes; but here the word holds: Sapienti sat!
+
+> Nur noch unser Endurtheil anzufügen, nehmen wir uns die Freiheit. Berg hat diesmal gezeigt was er könne und vermöge. Höchstgesättigt gehen wir von seiner Tafel weg, mit der Versicherung, dass die, welche an seine Kost gewöhnt sind,gewiss keine Indigestionen bekommen werden. Sollten auch einige über Cruditäten schreien; sind das doch Lente von verwöhnten Gaumen und schwachen
+
+We take the liberty only of adding our final judgement. Berg has shown this time what he can do and is capable of. Sated to the utmost, we leave his table with the assurance that those who are accustomed to his fare will certainly get no indigestion. Should some even cry out about crudities, these are surely people of spoiled palates and weak
+
+> Mägen-Mägen, die reelle Kost verschmähen, oder gar Ignoranten, die von derphilosophischen Kochkunst, worin Berg nur allein Meister ist, kein Jota verstehen, - Nun wissen wir auch, wie wir daran sind, da uns Berg seine Kunst in ihrem Glanze - systematisch - dargestellt hat. Wir versichern ihn, dass, so viel an uns ist, wir noch dazu beitragen werden, ihr zu der Celebrität, die sie verdient, zu verhelfen.
+
+stomachs that disdain real fare, or downright ignoramuses who understand not one jot of the philosophical art of cookery, in which Berg alone is master. — Now we also know where we stand, since Berg has presented his art to us in its splendour — systematically. We assure him that, as far as in us lies, we shall yet contribute to helping it to the celebrity it deserves.
+
+> Klar sehen wir jetzt ein, dass andere nur
+
+We now see clearly that others are only
+
+> Stümper - nur Şudelköche gegen ihn sind.
+
+bunglers, only slovenly cooks, compared with him.

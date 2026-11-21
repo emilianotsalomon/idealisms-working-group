@@ -1,0 +1,818 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Gottfried Wilhelm Leibniz, Johannis Bodini Colloquium Heptaplomeres</title><style>
+:root{--paper:#f6f3ec;--card:#fffdf8;--ink:#1f1c17;--muted:#6e675b;--toc:#a39d92;--accent:#7a2a22;--line:#e3dccd;--orig:#f0ebdf;--note:#fbf6e6;--shadow:0 1px 2px rgba(60,40,10,.06)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#161511;--card:#1e1c17;--ink:#e8e2d6;--muted:#9c9484;--toc:#6f6a60;--accent:#d49287;--line:#2c2922;--orig:#242119;--note:#26231a;--shadow:none;color-scheme:dark}}
+:root[data-theme=dark]{--paper:#161511;--card:#1e1c17;--ink:#e8e2d6;--muted:#9c9484;--toc:#6f6a60;--accent:#d49287;--line:#2c2922;--orig:#242119;--note:#26231a;--shadow:none;color-scheme:dark}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;font-size:17px;line-height:1.55}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.top .in{margin:0 auto;padding:.6rem 1.4rem;display:flex;gap:1rem;align-items:baseline;flex-wrap:wrap}
+.top h1{font-size:1.1rem;font-weight:normal;margin:0;letter-spacing:.01em}.top h1 i{color:var(--ink)}
+.top .sub{color:var(--muted);font-size:.85rem}.top .back{font-size:.85rem;letter-spacing:.03em;text-transform:uppercase}
+.chip{display:inline-block;font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .55rem;margin-left:.3rem;vertical-align:middle;white-space:nowrap}
+.wrap{margin:0 auto;padding:1.2rem 1.4rem 5rem}.wrap.index{max-width:1100px}
+/* index */
+.tabs{display:flex;gap:1.6rem;border-bottom:1px solid var(--line);margin:1.6rem 0 0}.tabs button{font:inherit;font-size:1rem;border:0;background:transparent;color:var(--muted);padding:.6rem 0;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}.tabs button.on{color:var(--ink);border-bottom-color:var(--accent)}
+.reslist .row{border-bottom:1px solid var(--line)}.tabs .tabl{margin-left:auto;padding:.6rem 0;font-size:.95rem}
+.hero{padding:2.4rem 0 1.2rem}.hero h1{font-size:2rem;font-weight:normal;margin:0 0 .3rem;letter-spacing:-.01em}.hero p{margin:0;color:var(--muted);max-width:60ch}
+.controls{display:flex;gap:.9rem;flex-wrap:wrap;align-items:center;margin:1rem 0 1.6rem;position:sticky;top:3.1rem;background:var(--paper);padding:.6rem 0;z-index:4}
+.seg{display:inline-flex;align-items:center;gap:0;border:1px solid var(--line);border-radius:999px;background:var(--card);padding:.15rem;font-size:.82rem}
+.seg .lbl{color:var(--muted);padding:0 .7rem 0 .8rem;letter-spacing:.04em;text-transform:uppercase;font-size:.7rem}
+.seg button{font:inherit;font-size:.85rem;border:0;background:transparent;color:var(--muted);padding:.3rem .8rem;border-radius:999px;cursor:pointer}.seg button.on{background:var(--orig);color:var(--ink)}.seg button:hover{color:var(--ink)}
+select,input[type=search]{font:inherit;font-size:.95rem;padding:.45rem .7rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+input[type=search]{flex:1;min-width:14rem}.controls .n{color:var(--muted);font-size:.85rem;margin-left:auto}
+
+.lib{display:grid;grid-template-columns:15rem minmax(0,1fr);gap:2.2rem;align-items:start}
+#groups{position:sticky;top:7.4rem;max-height:calc(100vh - 8.4rem);overflow:auto;display:flex;flex-direction:column;border-left:1px solid var(--line);scrollbar-width:thin}
+#groups button{font:inherit;font-size:.9rem;display:flex;gap:.6rem;align-items:baseline;justify-content:space-between;text-align:left;border:0;background:transparent;color:var(--muted);padding:.28rem .7rem .28rem .9rem;cursor:pointer;border-left:2px solid transparent;margin-left:-1px;line-height:1.3}
+#groups button:hover{color:var(--ink)}#groups button.on{color:var(--ink);border-left-color:var(--accent)}#groups button.dim{opacity:.35}
+#groups .gc{font-size:.75rem;font-variant-numeric:tabular-nums;color:var(--toc)}
+#panel{min-height:60vh}#panel .ph{display:flex;align-items:baseline;gap:1rem;border-bottom:1px solid var(--line);padding:0 .2rem .5rem;margin-bottom:.2rem}
+#panel .ph h2{font-size:1.45rem;font-weight:normal;margin:0}#panel .ph .cnt{color:var(--muted);font-size:.85rem}
+#panel h3{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:normal;margin:1.6rem 0 .2rem;padding:0 .2rem;scroll-margin-top:8rem}#panel h3:first-child{margin-top:0}
+#panel .none{color:var(--muted)}
+@media(max-width:900px){.lib{grid-template-columns:1fr;gap:1rem}#groups{position:sticky;top:6.6rem;z-index:3;background:var(--paper);flex-direction:row;overflow-x:auto;max-height:none;border-left:0;border-bottom:1px solid var(--line);padding-bottom:.4rem}
+ #groups button{white-space:nowrap;border:1px solid var(--line);border-radius:999px;margin:0 .35rem 0 0;padding:.2rem .7rem}#groups button.on{border-color:var(--accent)}}
+.genre{margin:0;border-bottom:1px solid var(--line)}.genre summary{display:flex;align-items:baseline;gap:1rem;padding:.9rem .2rem;cursor:pointer;list-style:none}
+.genre summary::-webkit-details-marker{display:none}.genre summary::before{content:"›";color:var(--muted);display:inline-block;transition:transform .15s;width:.8rem}.genre[open] summary::before{transform:rotate(90deg)}
+.genre h2{font-size:1.05rem;font-weight:normal;margin:0;letter-spacing:.01em}.genre .cnt{color:var(--muted);font-size:.82rem;margin-left:auto}
+.genre[open]{padding-bottom:.6rem}.genre .row{margin-left:1.8rem}
+.row{display:grid;grid-template-columns:1fr auto;gap:.6rem 1.4rem;padding:.6rem .2rem;border-bottom:1px solid var(--line);align-items:baseline}
+.row:last-child{border-bottom:0}.row .t a{font-size:1.05rem}.row .t .en{color:var(--muted);font-size:.92rem;display:block}
+.row .m{color:var(--muted);font-size:.82rem;white-space:nowrap;text-align:right}.row .m .chip{margin-left:.35rem}
+/* a term searched: the texts that use it most */
+.tsec{margin-bottom:1.2rem}.tbar{display:flex;flex-wrap:wrap;gap:.3rem;align-items:center;margin:.2rem 0 .3rem}.tbar .map{margin-left:auto;font-size:.82rem;white-space:nowrap}
+.tchip{font:inherit;font-size:.86rem;border:1px solid var(--line);border-radius:999px;padding:.12rem .7rem;background:var(--card);color:var(--ink);cursor:pointer}.tchip small{color:var(--muted);font-size:.74rem}.tchip.on{border-color:var(--accent);background:var(--orig)}.tchip:hover{border-color:var(--ink)}
+.tnote{margin:0 0 .3rem;color:var(--muted);font-size:.88rem}.tnote b{font-weight:normal;color:var(--ink);font-style:italic}.row .m .tn{color:var(--ink);font-variant-numeric:tabular-nums;margin-right:.5rem}
+.tmore{font:inherit;font-size:.85rem;border:1px solid var(--line);border-radius:999px;padding:.2rem .9rem;background:transparent;color:var(--muted);cursor:pointer;margin:.6rem 0 0}.tmore:hover{color:var(--ink);border-color:var(--ink)}
+.hidden{display:none!important}
+/* text page */
+:root{--top-h:5.8rem}.card,main :is(h1,h2,h3,h4,h5,h6)[id]{scroll-margin-top:calc(var(--top-h) + .6rem)}.cl{list-style:none;margin:.6rem 0 1.2rem;padding:0;max-width:46rem}.cl li{margin:.3rem 0;padding-left:calc(var(--d,0)*1.3rem)}
+.cl .it{display:flex;align-items:baseline;gap:.45rem;color:var(--ink)}.cl a.it:hover{text-decoration:none}.cl a.it:hover .t{color:var(--accent)}
+.cl .dots{flex:1;min-width:1.2rem;border-bottom:1px dotted var(--muted);opacity:.55;transform:translateY(-.3em)}.cl .n{min-width:2em;text-align:right;color:var(--muted);font-variant-numeric:oldstyle-nums}
+.cl a.it .n{color:var(--accent)}.cl li.grp{margin-top:1rem}.cl li.grp .t{font-variant:small-caps;letter-spacing:.04em;font-size:1.05em}
+.cl .sum{margin:.05rem 2.6rem .25rem 0;font-size:.86em;line-height:1.45;color:var(--muted)}
+.page{display:grid;grid-template-columns:var(--side-w,250px) 10px minmax(0,1fr);gap:0 1rem;--side-w:250px;--cm-w:300px}
+.hdl{cursor:col-resize;border-radius:4px;background:transparent;position:relative}.hdl::after{content:"";position:absolute;top:0;bottom:0;left:4px;width:2px;background:var(--line);border-radius:2px}.hdl:hover::after,.hdl.on::after{background:var(--accent)}
+.hdl.r{display:none}body.an-with-comments .hdl.r{display:block}body.resizing{user-select:none;cursor:col-resize}
+.tog{position:fixed;left:0;top:50%;transform:translateY(-50%);z-index:6;display:flex;flex-direction:column;align-items:center;gap:.15rem;width:1.7rem;padding:.6rem 0 .5rem;border:1px solid var(--line);border-left:0;border-radius:0 8px 8px 0;background:var(--card);color:var(--muted);cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.08);font:inherit}
+.tog span{font-size:1.3rem;line-height:1}.tog small{writing-mode:vertical-rl;font-size:.6rem;letter-spacing:.14em;text-transform:uppercase}.tog:hover{color:var(--ink);background:var(--orig)}
+body.noside .tog span{transform:scaleX(-1)}body.noside .tog{left:0}
+body.noside .page{grid-template-columns:0 0 minmax(0,1fr)}body.noside.an-with-comments .page{grid-template-columns:0 0 minmax(0,1fr) 10px var(--cm-w,300px)}
+body.noside .side,body.noside .hdl.l{visibility:hidden;overflow:hidden;padding:0;min-width:0;width:0}
+body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
+.side{position:sticky;top:calc(var(--top-h) + .6rem);align-self:start;max-height:calc(100vh - var(--top-h) - 1.4rem);overflow:auto;font-size:.84rem;padding-right:.8rem;scrollbar-width:thin;scrollbar-color:var(--line) transparent;color:var(--toc)}
+.side h3{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--toc);font-weight:normal;margin:0 0 .5rem}
+.side a{display:block;color:var(--toc);padding:.16rem 0 .16rem .6rem;border-left:2px solid transparent;margin-left:-.6rem;line-height:1.35;transition:color .15s}
+.side a:hover,.side a.on{color:var(--ink);border-left-color:var(--accent);text-decoration:none}.side .l3{padding-left:1.4rem}.side .l4{padding-left:2.2rem}
+.side .meta{color:var(--toc);line-height:1.4;margin:0 0 1rem;font-size:.8rem}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:1.1rem 1.3rem 1rem;margin:0 0 1.1rem;display:grid;grid-template-columns:1fr 1fr;gap:1.4rem}
+.card.mono{grid-template-columns:1fr;max-width:calc(90ch + 2.6rem);margin-inline:auto}
+.card.doc{display:block;max-width:calc(90ch + 3.6rem);margin-inline:auto;padding:1.4rem 1.8rem 1.2rem}
+.card.doc h1,.card.doc h2,.card.doc h3,.card.doc h4,.card.doc h5{text-align:left;font-weight:normal;line-height:1.3;margin:1.4rem 0 .6rem}.card.doc>:first-child{margin-top:0}
+.doc h1{font-size:1.5em}.doc h2{font-size:1.3em;padding-bottom:.35rem;border-bottom:1px solid var(--line)}.doc h3{font-size:1.1em}.doc h4{font-size:1em;font-style:italic}
+.doc p,.doc li{line-height:1.6}.doc p{margin:0 0 .8em}.doc ul,.doc ol{margin:0 0 .9em;padding-left:1.5rem}.doc li{margin:0 0 .35em}.doc li>ul,.doc li>ol{margin:.35em 0 0}
+.doc code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.84em;background:var(--orig);border-radius:4px;padding:.05em .3em;overflow-wrap:anywhere}
+.doc pre{background:var(--orig);border-radius:7px;padding:.8rem 1rem;overflow:auto;font-size:.84em;line-height:1.45}.doc pre code{background:none;padding:0}
+.doc blockquote{margin:0 0 .9em;padding:.2rem 0 .2rem 1rem;border-left:3px solid var(--line);color:var(--muted)}
+.doc hr{border:0;border-top:1px solid var(--line);margin:1.4rem 0}
+.doc .tw{overflow-x:auto;margin:0 0 1.1em;border:1px solid var(--line);border-radius:8px}
+.doc table{border-collapse:collapse;width:100%;font-size:.92em;line-height:1.45}
+.doc th{text-align:left;font-weight:normal;font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--orig);padding:.5rem .75rem;border-bottom:1px solid var(--line)}
+.doc td{padding:.5rem .75rem;border-top:1px solid var(--line);vertical-align:top}.doc tr:first-child td{border-top:0}.doc tbody tr:nth-child(even){background:color-mix(in srgb,var(--orig) 35%,transparent)}
+.doc td:first-child{white-space:nowrap}.doc td:first-child,.doc td:nth-child(2){min-width:8rem}
+.doc .lead{color:var(--muted);font-size:.9rem;margin:0 0 1rem}
+.card.pairs{--cg:1.1rem;display:block;padding:1.1rem 0 1rem;background:none;border:0;box-shadow:none;isolation:isolate}
+.card.pairs::before,.card.pairs::after{content:"";position:absolute;top:0;bottom:0;width:calc(50% - var(--cg)/2);background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);z-index:-1}
+.card.pairs::before{left:0}.card.pairs::after{right:0}
+.card.pairs h2,.card.pairs h3,.card.pairs h4,.card.pairs h5{display:block;margin-inline:1.3rem}
+.card.pairs .hp{display:grid;grid-template-columns:1fr 1fr;column-gap:calc(var(--cg) + 2.6rem)}.hp .hsep{display:none}
+.card.pairs .row{column-gap:var(--cg);border-bottom:0;padding:0;margin:0;align-items:stretch}.card.pairs .row>div{border-bottom:1px solid var(--line)}.card.pairs .row:last-child>div,.card.pairs .row:has(+:is(h2,h3,h4,h5,.fnrows))>div{border-bottom:0}.card.pairs .row .o{background:none;border-radius:0;padding:.6rem 1.3rem}.card.pairs .row .e{padding:.6rem 1.3rem}
+.card.pairs .row.single .e{grid-column:2;max-width:none;margin-left:0}.card.pairs .fnrows{padding-top:0;border:0}.card.pairs .fnrow:first-child>div{padding-top:.6rem;background:linear-gradient(var(--line),var(--line)) 1.3rem 0/calc(100% - 2.6rem) 1px no-repeat}
+@media print{.card.pairs::before,.card.pairs::after{display:none}.card.pairs .hp{display:block}.card.pairs .hp .hsep{display:inline}.card.pairs .row>div{border:0}}
+.pnotes{margin:-.4rem 0 1.1rem;border:1px solid var(--line);border-radius:10px}
+/* parallel editions (#59): .cbg draws one card per column, --nc of them shown; its gap is 4px under --cg as #58's pseudo-element cards are content-box (2px wider each) */
+.card.par::before,.card.par::after{display:none}.card.par>.cbg{position:absolute;inset:0;display:flex;gap:calc(var(--cg) - 4px);z-index:-1;pointer-events:none}.cbg>i{flex:1;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow)}
+.card.par .row,.card.par .hp{grid-template-columns:repeat(var(--nc,2),1fr)}.card.pairs .row .x{padding:.6rem 1.3rem}.card.par .row>.nil{border-bottom-color:transparent;background:none}
+.eds{display:inline-flex;flex-wrap:wrap;gap:.3rem;margin-left:.3rem;vertical-align:middle}.ed{font:inherit;font-size:.72rem;letter-spacing:.04em;color:var(--muted);background:transparent;border:1px dashed var(--line);border-radius:999px;padding:.05rem .6rem;cursor:pointer;white-space:nowrap}.ed.on{color:var(--ink);background:var(--orig);border:1px solid var(--accent)}.ed:hover{border-color:var(--ink)}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem;margin:0 0 .75em}.row.single{grid-template-columns:1fr}.row.single .e{max-width:90ch;margin-left:1.3rem}.row:last-child{margin-bottom:0}
+.row .o{padding:0 .9rem 0 1.3rem;font-size:.96em}.row .o p{margin:0}.row .e p{margin:0}.row .x p{margin:0}
+.card.pairs .pg{left:1rem}
+.fnrows{margin-top:.9rem;padding-top:.6rem;border-top:1px solid var(--line)}.fnrow .o,.fnrow .e,.fnrow .x{font-size:.84em;line-height:1.45;color:var(--muted)}
+.fnrow{margin-bottom:.3rem}
+.card .pg{position:absolute;top:-.62rem;left:1rem;font-size:.72rem;letter-spacing:.08em;color:var(--accent);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.02rem .55rem}
+.card h2,.card h3,.card h4,.card h5{grid-column:1/-1;font-weight:normal;text-align:center;margin:.3rem 0 .5rem;line-height:1.3}
+.card h2{font-size:1.3em;letter-spacing:.02em}.card h3{font-size:1.1em}.card h4{font-size:1em;font-style:italic}
+.card .o{background:var(--orig);border-radius:7px;padding:.75rem .9rem;font-size:.96em}
+.card .fnrow .o,.card .fnrow .e,.card .fnrow .x{font-size:.84em}.card .fnrow .o p,.card .fnrow .e p,.card .fnrow .x p{line-height:1.45}
+.card .o p,.card .e p,.card .x p{margin:0 0 .75em;text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:6 3 3;overflow-wrap:anywhere;line-height:1.6}
+.card .o p:last-child,.card .e p:last-child,.card .x p:last-child{margin-bottom:0}.card .o,.card .e,.card .x{min-width:0}
+.card .fn{margin-top:auto;padding-top:.5rem;border-top:1px solid var(--line);font-size:.84em;line-height:1.45;color:var(--muted)}
+.card .fn p{margin:0 0 .3em;text-align:justify;text-align-last:left;hyphens:auto}.card .fn p:last-child{margin-bottom:0}.card .o .fn{border-top-color:color-mix(in srgb,var(--line) 60%,var(--orig))}
+.card .fn{margin-top:.8rem}.card .fnb{font-size:.84em;line-height:1.45;color:var(--muted);margin:.2rem 0 .5rem}
+.gnotes p,.notes p{text-align:justify;text-align-last:left;hyphens:auto}
+.card p.sep{text-align:center;color:var(--muted);letter-spacing:.4em}
+.pg-in{color:var(--accent);font-size:.72em;letter-spacing:.04em;vertical-align:.1em}
+.card .note{font-size:.88em;color:var(--muted)}
+.notes{grid-column:1/-1;background:var(--note);border-top:1px dashed var(--line);margin:.4rem -1.3rem -1rem;padding:.7rem 1.3rem .9rem;border-radius:0 0 10px 10px;font-size:.92em}
+.notes h5{margin:0 0 .3rem;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:normal;text-align:left}
+.notes p{margin:0 0 .5em}.notes .who{color:var(--muted);font-size:.85em}
+.gnotes{background:var(--note);border:1px solid var(--line);border-radius:10px;padding:1rem 1.3rem;margin:0 0 1.2rem;font-size:.95em}.gnotes h3{margin:0 0 .4rem;font-weight:normal;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+sup{font-size:.7em;line-height:0}.toolbar{display:flex;gap:.3rem;align-items:center;margin:0 0 .4rem}.toolbar input{max-width:24rem;min-width:0}
+.qb{font:inherit;font-size:.85rem;width:1.9rem;height:2rem;flex:none;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--muted);cursor:pointer}.qb:hover{color:var(--ink);background:var(--orig)}
+.qn{margin:0 0 .4rem;font-size:.76rem;color:var(--muted);min-height:1em}.qres{max-height:40vh;overflow:auto;margin:0 0 1rem;scrollbar-width:thin}.qres:empty{display:none}
+.side .qres a{display:block;font-size:.78rem;line-height:1.35;color:var(--muted);padding:.3rem .4rem;margin:0;border-left:0;border-radius:6px}.side .qres a:hover{background:var(--orig);text-decoration:none}.side .qres a.on{background:var(--orig);color:var(--ink)}
+.qres b{color:var(--ink);font-weight:normal;background:rgba(214,188,96,.4);border-radius:2px}.qres .ql{display:block;font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}.qmore{font-size:.74rem;color:var(--muted);margin:.4rem}
+::highlight(fe-hit){background-color:rgba(214,188,96,.45)}::highlight(fe-cur){background-color:#e39b2d;color:#000}.card.qcur{outline:2px solid var(--accent)}
+/* annotations */
+mark.an{background:transparent;color:inherit;border-radius:2px}mark.an.hl.straw{background:rgba(214,188,96,.28)}mark.an.hl.sage{background:rgba(120,160,120,.26)}mark.an.hl.rose{background:rgba(200,120,120,.24)}
+mark.an.ul{text-decoration:underline;text-decoration-color:rgba(122,42,34,.55);text-decoration-thickness:1.5px;text-underline-offset:3px}
+mark.an.st{text-decoration:line-through;text-decoration-color:rgba(60,60,60,.55);text-decoration-thickness:1.5px}
+mark.an.cm{background:rgba(214,188,96,.18);box-shadow:0 1.5px 0 rgba(122,42,34,.45)}mark.an.on{background:rgba(214,188,96,.45)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) mark.an.hl.straw{background:rgba(214,188,96,.22)}:root:not([data-theme=light]) mark.an.hl.sage{background:rgba(120,160,120,.22)}:root:not([data-theme=light]) mark.an.hl.rose{background:rgba(200,120,120,.2)}}
+:root[data-theme=dark] mark.an.hl.straw{background:rgba(214,188,96,.22)}:root[data-theme=dark] mark.an.hl.sage{background:rgba(120,160,120,.22)}:root[data-theme=dark] mark.an.hl.rose{background:rgba(200,120,120,.2)}
+main{font-size:calc(1em*var(--fs,1))}
+.prefs{margin-left:auto;display:flex;gap:.5rem;align-items:center;align-self:center}.prefs+.an-ctl{margin-left:.4rem}
+.prefs .seg{padding:.1rem}.prefs .seg button{padding:.15rem .55rem;line-height:1.2}.prefs .seg .aa{font-size:.8rem;letter-spacing:.02em;min-width:2.6rem}
+.prefs .th{font:inherit;font-size:.95rem;line-height:1;width:2rem;height:1.75rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--muted);cursor:pointer}.prefs .th:hover{color:var(--ink)}
+.an-ctl{margin-left:auto;display:flex;gap:.9rem;align-items:center;font-size:.8rem;color:var(--muted)}.an-ctl label{display:flex;gap:.3rem;align-items:center;cursor:pointer}
+.an-btn{font:inherit;font-size:.78rem;padding:.2rem .6rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--muted);cursor:pointer}.an-btn:hover{color:var(--ink)}
+.an-bar{position:absolute;z-index:20;display:flex;gap:2px;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:3px;box-shadow:0 4px 14px rgba(0,0,0,.12)}
+.an-bar button{font:inherit;font-size:.9rem;width:2rem;height:1.9rem;border:0;background:transparent;border-radius:5px;cursor:pointer;color:var(--ink)}.an-bar button:hover{background:var(--orig)}
+.an-bar .sw{display:inline-block;width:14px;height:14px;border-radius:3px}.an-bar .sw.straw{background:rgba(214,188,96,.6)}.an-bar .sw.sage{background:rgba(120,160,120,.6)}.an-bar .sw.rose{background:rgba(200,120,120,.6)}
+.an-gutter{position:relative;display:none}body.an-with-comments .page{grid-template-columns:var(--side-w,250px) 10px minmax(0,1fr) 10px var(--cm-w,300px)}body.an-with-comments .an-gutter{display:block}
+.an-cm{position:absolute;left:0;right:0;background:var(--note);border:1px solid var(--line);border-radius:8px;padding:.55rem .75rem;font-size:.84rem;line-height:1.4;box-shadow:var(--shadow);cursor:pointer}
+.an-cm .an-meta{color:var(--muted);font-size:.74rem;display:flex;gap:.3rem;align-items:baseline}.an-cm .an-meta b{color:var(--ink)}.an-x{margin-left:auto;border:0;background:transparent;color:var(--muted);cursor:pointer;font-size:1rem}
+.an-cm .an-q{color:var(--muted);font-style:italic;margin:.2rem 0;font-size:.78rem}.an-cm .an-t{color:var(--ink)}
+.an-dlg{position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:30;display:flex;align-items:center;justify-content:center}.an-dlg.hidden{display:none}
+.an-box{background:var(--card);color:var(--ink);max-width:34rem;padding:1.4rem 1.6rem;border-radius:10px;font-size:.92rem;line-height:1.45}.an-box h3{margin:0 0 .6rem;font-weight:normal}
+.an-box label{display:block;margin:.6rem 0;font-size:.85rem;color:var(--muted)}.an-box input{display:block;width:100%;font:inherit;padding:.4rem .6rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);margin-top:.2rem}
+.an-row{display:flex;gap:.6rem;margin-top:.8rem}
+@media(max-width:900px){.page{grid-template-columns:minmax(0,1fr)}.card.par>.cbg{display:none}.card.par .row{grid-template-columns:1fr}.card.pairs{background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow);padding:1.1rem 0 1rem}.card.pairs::before,.card.pairs::after{display:none}.card.pairs .row .o{background:var(--orig);border-radius:7px;padding:.75rem .9rem;margin-inline:1.3rem}.card.pairs .row.single .e{grid-column:1}.card.pairs .hp{display:block}.card.pairs .hp .hsep{display:inline}body.an-with-comments .page{grid-template-columns:1fr}.hdl{display:none!important}.an-gutter{position:static}.an-cm{position:static;width:auto;margin:.4rem 0}.side{position:static;max-height:none}.card,.row{grid-template-columns:1fr}.card.doc{padding:1rem 1rem .9rem}.doc td:first-child{white-space:normal}.row{grid-template-columns:1fr}.row .m{text-align:left}}
+
+.pdfm{position:relative;display:inline-flex}.prefs .pdfb{width:auto;padding:0 .65rem;font-size:.68rem;letter-spacing:.1em}
+.pdfmenu{position:absolute;right:0;top:calc(100% + .45rem);z-index:20;width:17rem;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,.14);padding:.35rem;font-size:.86rem;line-height:1.35}
+.pdfmenu button{display:block;width:100%;text-align:left;font:inherit;border:0;background:transparent;color:var(--ink);padding:.4rem .6rem;border-radius:6px;cursor:pointer}
+.pdfmenu button:hover,.pdfmenu button:focus-visible{background:var(--orig);outline:0}.pdfmenu small{display:block;color:var(--muted);font-size:.78rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pdfmenu .pdfh{display:block;margin:.3rem .6rem .1rem;color:var(--muted);font-size:.8rem}body.pp-pick .side a[class^=l]{color:var(--ink);cursor:pointer}body.pp-pick .side a[class^=l]:hover{border-left-color:var(--accent);background:var(--orig)}
+.pdfmenu .pdfn{display:block;margin:.35rem .6rem .3rem;padding-top:.45rem;border-top:1px solid var(--line);color:var(--muted);font-size:.74rem}
+.pdfmenu .pdfs{display:flex;align-items:center;gap:.3rem;margin:.3rem .6rem 0;padding-top:.45rem;border-top:1px solid var(--line);font-size:.78rem;color:var(--muted)}.pdfmenu .pdfs .pdfl{flex:1}
+.pdfmenu .pdfs button{display:inline-block;width:auto;padding:.1rem .5rem;border:1px solid var(--line);border-radius:999px;font-size:.78rem;line-height:1.3}.pdfmenu .pdfs .pdfv{min-width:3.2rem;text-align:center}
+.ptitle{display:none}
+.ppd{position:fixed;left:-300in;top:0;visibility:hidden;box-sizing:border-box;width:8in;margin:0;padding:0;background:#fff;color:#111;--pph:6.1in;font:10.6pt/1.42 "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;font-size:calc(10.6pt * var(--pfs,1));font-variant-numeric:oldstyle-nums;text-rendering:geometricPrecision;letter-spacing:0;text-align:left}
+.ppd.mo{width:4.5in;--pph:7.2in;font-size:calc(12pt * var(--pfs,1))}.ppd.nof{font-family:"Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif}
+.ppd *{box-sizing:border-box}.ppd .pb{position:relative;height:calc(var(--pph) - 2px);display:flex;flex-direction:column;break-after:page;page-break-after:always;break-inside:avoid;overflow:visible}.ppd .pb:last-child{break-after:auto;page-break-after:auto}
+.ppd .r{display:grid;grid-template-columns:repeat(var(--k,1),minmax(0,1fr));column-gap:.42in;margin:0 0 .55em;flex:none}.ppd .r.f{display:flow-root;position:relative}.ppd .pb>.r:last-child,.ppd .pb>.r:has(+.ft){margin-bottom:0}
+.ppd .c,.ppd .fc{position:relative;min-width:0}
+.ppd p{margin:0;padding:0;font-size:1em;line-height:1.42;color:inherit;max-width:none;text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto;hyphenate-character:"-";-webkit-hyphenate-character:"-";text-indent:1.2em;overflow-wrap:break-word}
+.ppd p+p{margin-top:.55em}.ppd p.cont{text-indent:0}.ppd p.cut{text-align-last:justify}.ppd p.cut.hy::after{content:"-"}
+.ppd p.sep{text-align:center;text-indent:0;letter-spacing:.4em;color:#555;margin:.6em 0}
+.ppd h2,.ppd h3,.ppd h4,.ppd h5,.ppd h6{position:relative;margin:.55em 0 .6em;padding:0;text-align:center;font-weight:normal;line-height:1.3;text-indent:0;color:inherit}
+.ppd h2{font-size:1.22em;letter-spacing:.04em}.ppd h3{font-size:1.08em;letter-spacing:.02em}.ppd h4{font-size:1em;font-style:italic}.ppd h5,.ppd h6{font-size:.95em;font-style:italic}
+.ppd .pb>.r:first-child :is(h2,h3,h4,h5,h6){margin-top:0}.ppd .hp .hsep{display:inline}
+.ppd a{color:inherit!important;text-decoration:none!important}.ppd sup{font-size:.68em;line-height:0}.ppd mark{background:none!important;color:inherit;text-decoration:none!important;box-shadow:none!important}
+.ppd .cl{max-width:none;margin:0 0 .8em}.ppd .cl>li:first-child{margin-top:0}.ppd .cl .it,.ppd .cl .n,.ppd .cl a.it .n{color:#111}.ppd .cl .sum{color:#444}.ppd .cl .dots{border-bottom-color:#888}
+.ppd .nb{white-space:nowrap}.ppd .pm{border-left:.9pt solid #a33;padding:.04em 0;margin:0 .2em 0 0}.ppd .pm.w{margin:0 .03em}.ppd .pm.nobar{border:0;padding:0;margin:0}.ppd .pm.lt{border-left-color:#d3abab}
+.ppd .pn{position:absolute;left:-1.44in;width:1.3in;margin-top:.5em;text-align:right;text-align-last:right;font-style:normal;font-weight:normal;font-size:.736em;line-height:1;font-variant-numeric:lining-nums;letter-spacing:0;text-indent:0;white-space:nowrap;hyphens:none;color:#a33}
+.ppd.mo .pn{font-size:.65em}.ppd .pn.st{white-space:pre;line-height:1.5;margin-top:.25em}.ppd .lt .pn{color:#d3abab}.ppd .k1 .pn,.ppd .pm.rt .pn{left:auto;right:-1.44in;text-align:left;text-align-last:left}
+.ppd .ft{position:absolute;left:0;right:0;bottom:0;padding-top:.9em;display:grid;grid-template-columns:repeat(var(--k,1),minmax(0,1fr));column-gap:.42in;align-items:end}.ppd .ft.fl{position:static;margin:0 0 .8em;padding-top:.2em}
+.ppd .fc:not(:empty)::before{content:"";display:block;width:1.1in;border-top:.4pt solid #666;margin:0 0 .35em}.ppd .fc.ctd::before{width:.5in}
+.ppd .fc p{position:relative;margin:0 0 .2em;font-size:.83em;line-height:1.33;text-indent:0;color:#222}.ppd .fc p.nq{padding-left:1.2em}.ppd .nn{position:absolute;left:0;top:.62em;font-size:.8em;line-height:0}
+.ppd .ptc{margin:0 0 1.4em;padding-bottom:.6em;border-bottom:.5pt solid #bbb;font-size:.94em}.ppd .ptc b{display:block;font-weight:normal;font-size:1.2em;margin-top:.5em}
+@media print{
+html{background:#fff!important;color-scheme:light}
+body.pp{margin:0;padding:0 1.2in;background:#fff;color:#111;font:10.6pt/1.42 "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;-webkit-print-color-adjust:exact;print-color-adjust:exact}body.pp-mono{padding:0 1.7in}
+body.pp>:not(.wrap),.pp .page>:not(.ppd){display:none!important}.pp.pp-raw .page>main{display:block!important}
+.pp .wrap{padding:0;margin:0;max-width:none}.pp .page{display:block!important}
+.ppd{position:static!important;visibility:visible!important}
+::highlight(fe-hit),::highlight(fe-cur){background-color:transparent;color:inherit}
+.pp .ptitle{display:flex;page:pptitle;flex-direction:column;justify-content:center;text-align:center;height:5.9in;break-after:page;color:#111}
+.pp-mono .ptitle{height:7in}.pp .ptitle p{margin:0}.pp .ptitle.compact{display:none}
+.ptitle .pa{font-size:13pt;letter-spacing:.06em;margin:0 0 1.1em!important}.ptitle h1{font-weight:normal;font-size:24pt;line-height:1.2;letter-spacing:.02em;margin:0 0 .3em}
+.ptitle .py{font-size:12pt}.ptitle .pe{font-size:15pt;font-style:italic;margin-top:.5em!important}.ptitle .ps{display:none}
+}
+@media print{@page{size:8.5in 11in;margin:1.9in .3in;@top-center{content:"Gottfried Wilhelm Leibniz · Johannis Bodini Colloquium Heptaplomeres";font:italic 8.5pt "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;color:#777;vertical-align:bottom;padding-bottom:.35in}@bottom-center{content:counter(page);font:9pt "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;color:#555;vertical-align:top;padding-top:.35in}}@page pptitle{@top-center{content:none}@bottom-center{content:none}}}</style><script>try{var d=document.documentElement,t=localStorage.getItem('iwg-theme'),f=localStorage.getItem('iwg-fs');if(t)d.dataset.theme=t;if(f)d.style.setProperty('--fs',f)}catch(e){}</script></head><body class="pp pp-mono"><div class="top"><div class="in"><a class="back" href="index.html">← Library</a><h1>Gottfried Wilhelm Leibniz, <i>Johannis Bodini Colloquium Heptaplomeres</i> (1966)</h1><span class="chip">la</span><span class="chip">original only</span><span class="chip">Rationalism and the German Enlightenment</span><div class="prefs"><span class="pdfm"><button id="pdf" class="th pdfb" title="print this text as a PDF" aria-haspopup="menu" aria-expanded="false">PDF</button><span id="pdfmenu" class="pdfmenu hidden" role="menu"><button data-k="all" role="menuitem">Whole text</button><button data-k="page" role="menuitem">This page<small></small></button><span class="pdfh">Or click a heading in the contents on the left to print that section.</span><span class="pdfs" role="group" aria-label="text size of the print"><span class="pdfl">Text size</span><button data-s="-" title="smaller print" aria-label="smaller print">−</button><button data-s="0" class="pdfv" title="reset the print size" aria-label="reset the print size">100%</button><button data-s="+" title="larger print" aria-label="larger print">+</button></span><span class="pdfn">The text size applies to the print only and is remembered in this browser. In the print dialog choose “Save as PDF” and leave margins on Default and scale at 100%. Made for Chrome and Edge. In Safari or Firefox, pick the orientation by hand (landscape for two columns); the running head and page numbers may be missing.</span></span></span><span class="seg" role="group" aria-label="text size"><button id="fs-" title="smaller text (-)" aria-label="smaller text">−</button><button id="fs0" class="aa" title="reset text size (0)" aria-label="reset text size">100%</button><button id="fs+" title="larger text (+)" aria-label="larger text">+</button></span><button id="theme" class="th" title="dark mode (d)" aria-label="switch between light and dark">☾</button></div></div></div><div class="wrap"><header class="ptitle"><p class="pa">Gottfried Wilhelm Leibniz</p><h1>Johannis Bodini Colloquium Heptaplomeres</h1><p class="py">(1966)</p><p class="ps"></p></header><div class="page"><aside class="side"><div class="toolbar"><input id="q" type="search" placeholder="search the whole text (/)" aria-label="search the whole text"><button id="qprev" class="qb" title="previous match (shift+enter)" aria-label="previous match">↑</button><button id="qnext" class="qb" title="next match (enter)" aria-label="next match">↓</button></div><p id="qn" class="qn" aria-live="polite"></p><div id="qres" class="qres"></div>
+<h3>Contents</h3><a class="l2" href="#h1">II. FRANKFURT UND MAINZ 1667-1672</a><a class="l3" href="#h2">B. ZUR THEOLOGIE UND ETHIK</a><a class="l2" href="#h3">32. JOHANNIS BODINI COLLOQUIUM HEPTAPLOMERES [Herbst 1668—Frühjahr 1669(?)]</a>
+</aside><div class="hdl l" data-for="side"></div><main>
+<button class="tog" id="tog" title="hide the contents (press c)" aria-label="hide or show the contents"><span>‹</span><small>contents</small></button>
+<section class="card mono" id="c1"><span class="pg">p. 122</span><div class="e" lang="la"><h2 id="h1"><span class="pg-in">[p. 123]</span> II. FRANKFURT UND MAINZ 1667-1672</h2><p>ZWEITE HÄLFTE</p><h3 id="h2">B. ZUR THEOLOGIE UND ETHIK</h3></div></section>
+<section class="card mono" id="c2"><span class="pg">p. 124</span><div class="e" lang="la"><h2 id="h3"><span class="pg-in">[p. 125]</span> 32. JOHANNIS BODINI COLLOQUIUM HEPTAPLOMERES [Herbst 1668—Frühjahr 1669(?)]</h2><p>Überlieferung: L Auszug: LH I 6,16 Bl. 1—6. 3 Bog. 2°. An den Rändern teilweise be- schädigt. 5 S. und 41/2 Sp. Einzelne Verbesserungen und Ergänzungen.</p><p>Das Manuscript enthält Auszüge aus dem damals handschriftlich vorliegenden Colloquium, die sich Leibniz flüchtig und ohne jeweils den Gesprächspartner anzugeben, gemacht hat.1 Eigene Bemerkungen dazu finden sich nur vereinzelt am Rande oder im Text. Der Auszug ist im ersten Teil ganzseitig geschrieben, im folgenden in Spalten und in einem anderen Duktus; er dürfte also in zwei Phasen niedergeschrieben worden sein. Leibniz’ Anmerkungen und Verbesserungen und einige Streichungen zeigen eine dunklere Tinte, sind also wohl später, aber sicherlich noch in Mainz geschrieben.2 Ob ihm dabei die im Besitze Boineburgs befindliche Abschrift als Vorlage diente, wissen wir nicht.3 Über die Herkunft einer eigenen Abschrift schreibt Leibniz am 5. Mai 1716 an Polycarp Leyser, er habe vor Jahren das Colloquium von einem schwedischen Minister erhalten und Anmerkungen dazu gemacht (LBr. 559 Bl. 12— 13).4</p><p>Unsere Datierung stützt sich einerseits auf die Briefe von Leibniz an Jacob Thomasius vom 20./30.April 1669 und an Gottlieb Spitzel vom 12./22.Dezember 1669 (II, 1 S. 24 und I, 1 S. 81), andererseits auf die Übersendung der S. 138 von ihm zitierten Dissertation von Jacob Thomasius An Deus sit materia prima am 2./12. Oktober 1668 (II, 1 S. 14).</p><p>Leibniz’ Bemerkungen, soweit er sie als solche gekennzeichnet oder später hinzugefügt hat, geben wir als Fußnoten wieder.</p><p>1 Wir fügen dem Text die Seitenzählung und die Namen der Gesprächspartner nach der Ausgabe von L. Noach, Johannis Bodini Colloquium heptaplomeres ... Schwerin 1857, in eckigen Klammem bei.</p><p>2 Obschon Leibniz sich zunächst gegen eine Drucklegung des Colloquium aussprach (vgl. I, 1 S. 81; II, 1 S. 24 und 176; IV, 1 S. 372), befürwortete er in den Briefen an Seb. Kortholt vom 21. Januar und 19. März 1716 (Dutens V, S. 337 und 338) eine gut kommentierte Ausgabe.</p><p>3 Vgl. den Briefwechsel Boineburgs mit H. Conring (Gruber S. 947f., 963 und 1119).</p><p>4 Vgl. auch den Brief von Polycarp Marci an Leibniz vom 13. Dezember 1690 (I, 6 S. 309) und den Brief von J. G. Eckhart an J. Chr. Biel vom 17. April 1717 (in Privatbesitz), in dem es heißt, daß Leibniz diesem „Bodini Mstum de abditis rerum causis communicirete“.</p></div></section>
+<section class="card mono" id="c3"><span class="pg">p. 126</span><div class="e" lang="la"><p>Johannis Bodini Colloquium Heptaplomeres de Abditis rerum sublimium Arcanis.</p><p>Opus Msum constans supra 150 plagulis.1</p><p>Liber. I. ad N.T.</p></div></section>
+<section class="card mono" id="c4"><span class="pg">p. 1—3</span><div class="e" lang="la"><p class="cont">Fingit se apud Coronaeum quendam Venetiis, Virum eruditum et eruditos domi habentem fuisse Anagnostem seu Lectorem. Narrat elegantem quandam Pantothecam in domo Coronaei fuisse cubicam, altitudine 6 pedum, cujus capsulae 1296 in quibus variae rerum species sive ut quidam vocant, omnis generis simplicia, per classes digesta visebantur. Si qua grandior, aut imago aut pars posita erat. Aderat index, quo unum quodque promte inveniri posset. Ordo capsularum, qui rerum sibi cognatarum. Capsulae vitriae erant, coloribus distinguebantur, collocata erat Panthotheca adversa Luce, inclinata tamen in hypotenusam. Collocutores sunt Fridericus Podamicus, Hieron. Senamus, DiegusToralba, Antonius Curtius, Salomon Barcassius, Octavius Fagnola.</p></div></section>
+<section class="card mono" id="c5"><span class="pg">p. 5—10</span><div class="e" lang="la"><p class="cont">Octavius ex navigatione Aegyptia reversus narrat conatum se affere Mumiam, quam Aegyptii, ut ipse ait, Ammoniam vocant,2 sed tempestate ingruente abjicere coactum. Nauta edicente, si quis retineret cadaver Aegyptium, capitis periculo fore, compertum enim iis excitari tempestates, non tamen perinde aliis cadaveribus. Quibus de rebus ibi multa.</p></div></section>
+<section class="card mono" id="c6"><span class="pg">p. 7 Curtius:</span><div class="e" lang="la"><p>Euronotum Galliae Narbonensis incolae hodieque Altanum vocant, quo nomine olim appellasse Plinius scribit.</p></div></section>
+<section class="card mono" id="c7"><span class="pg">p. 7 Senamus:</span><div class="e" lang="la"><p class="cont">Aristoteles in problem. sect. de Ventis, scripsit contra experientiam duos ventos adversos non concurrere.</p></div></section>
+<section class="card mono" id="c8"><span class="pg">p. 8—10 Octavius:</span><div class="e" lang="la"><p class="cont">Tempore imminentis naufragii, cum variarum nationum et religionum homines in navi essent, solennes earum preces apte recenset.</p><p>Libro II.</p></div></section>
+<section class="card mono" id="c9"><span class="pg">p. 10—12</span><div class="e" lang="la"><p class="cont">occasio oritur disserendi e literis Byzantio missis, de Solennitate Circumcisionis primogeniti Turcarum Regis. Ubi multa stupenda Agyrtarum</p><p>1 Am Kopf der Seite: NB. Haec omnia sunt optime refutata ab Hugone Grotio, Calixto, et Henichio, de veritate religionis Christianae.</p><p>2 credo ab arena.</p></div></section>
+<section class="card mono" id="c10"><span class="pg">p. 127</span><div class="e" lang="la"><p class="cont">faciliora narrantur, et hinc ad disserendum de Magicis via aperitur.</p></div></section>
+<section class="card mono" id="c11"><span class="pg">p. 14 Fridericus:</span><div class="e" lang="la"><p class="cont">Succenset ICtls, quod talia legitimae scientiae principia ponant: Error jus facit, l. 2. de Off. procons. licet se invicem decipere. l. in causae. §. idem Pomponius D. de minoribus. Jus est etiam cum Praetor inique decernit l. penult. D. de just. et jur. et quod Maleficos vocent Mathematicos.</p></div></section>
+<section class="card mono" id="c12"><span class="pg">p. 18 Curtius:</span><div class="e" lang="la"><p class="cont">Franciscus Fuxaeus Mathematicorum decus, is qui sub Rege Francorum Carolo IX. multis spectantibus Lutetiae docuit, quod Archimedes olim proposuerat, datum pondus movere.</p></div></section>
+<section class="card mono" id="c13"><span class="pg">p. 20f. Toralba:</span><div class="e" lang="la"><p class="cont">Aristoteles male DEum vocat animal, 12. Metaph. Pejus ei negat Ubertatem. 8. Phys. Cum tamen ob ea quae necessario facit, laude non sit dignus.</p></div></section>
+<section class="card mono" id="c14"><span class="pg">p. 25f. Toralba:</span><div class="e" lang="la"><p class="cont">Non recte Juniores peripateticos, et inter eos Justinum Martyrem quaest. 3. ad Gentiles docere, idem esse in DEo velle et esse, licet enim omnia possibilia est, et infinitus, aeternusque est; non tamen infinita et aeterna vult.3 Si mundussit aeternusinepte Aristoteles posuit: primam causam. Quia non apparet quomodo Mundo prior sit.</p></div></section>
+<section class="card mono" id="c15"><span class="pg">p. 26 Salomo:</span><div class="e" lang="la"><p class="cont">Philo defendit aeternitatem Mundi in lib. quod Mundus sit aeternus.</p></div></section>
+<section class="card mono" id="c16"><span class="pg">p. 29—34 Fridericus etc.</span><div class="e" lang="la"><p class="cont">Multas de daemonibus, de obsessis, etc. historias narrat,</p></div></section>
+<section class="card mono" id="c17"><span class="pg">p. 34 Toralba:</span><div class="e" lang="la"><p class="cont">refert Magdalenam Cruceam in Hispania, diu pro Sancta habitam, magam tandem compertam, veniam impetrasse. Nota alioquin est illa Magdalena de la Cruz.</p></div></section>
+<section class="card mono" id="c18"><span class="pg">p. 34 Fridericus:</span><div class="e" lang="la"><p class="cont">Refert Fernelium narrantem vidisse se obsessum juvenem Literarum imperitum graece loquentem, et Philippum Melanthonem simile sibi visum de muliercula in Germania, quae bellum ejus temporis sacrum hoc carmine denunciavit graece: ἔσται ἀνάγϰη ἐπὶ τῆϛγῆσ ϰαὶ ὁϱμὴ ἐv τῷ τούτῳ. Quod cum sciolus medicus praesens ad melancholiam referre vellet, explosus merito est.</p></div></section>
+<section class="card mono" id="c19"><span class="pg">p. 34 Coronaeus:</span><div class="e" lang="la"><p class="cont">Idem Phil. Mel. se daemoni fucum fecisse jactavit, aeque enim aquam puram qua conspersus est, quam lustralem refugit.</p></div></section>
+<section class="card mono" id="c20"><span class="pg">p. 34f. Salomo:</span><div class="e" lang="la"><p class="cont">Reddit ibi Bodinus rationem: Daemones in genere aquam puram, et salem qua lustralis conspergitur, tanquam puritatis causas aversari.</p></div></section>
+<section class="card mono" id="c21"><span class="pg">p. 38f. Toralba:</span><div class="e" lang="la"><p class="cont">Solum DEum Bodinus putat incorporeum, caetera omnia corporea, et ideo sua natura mortalia. Ibidem demonstrat omne finitum esse corporeum, et contra. Finitum enim terminatum est, ideo figuram habet, item cuius potestas finita est, id terminatam (habet) distantiam. Ergo certis sedibus coërcetur, non est simul in multis locis. Omne finitum superficie continetur. Ergo et animae seu mentes.4 [p. 43</p><p>3 Inepte. gestr.</p><p>4 Errat: Puncta sunt finita, tamen non superficie continentur, nec sunt corpora.</p></div></section>
+<section class="card mono" id="c22"><span class="pg">p. 128</span><div class="e" lang="la"><p class="cont">Toralba:] Bodinus his dialogis passim carmina immiscet, nonnunquam tamen paulo duriora, videtur et hic in Prosodiam impingere: Legibus aeternis percurens cuncta momento. cum prima in Momento sit longa.</p></div></section>
+<section class="card mono" id="c23"><span class="pg">p. 45 Fridericus:</span><div class="e" lang="la"><p>Hermolaus Barbarus patricius Venetus Romam legatus missus, factusque Cardinalis, exilio punitus est, quod honorem injussu senatus accepisset. Is cum Entelecheias vocem non intelligeret, daemonem naQeòoov, quem arbitrum cum Georgio Trapezuntio quaestioni receperat, consuluit qui voce tam gracili respondit, ut intelligi non posset.</p></div></section>
+<section class="card mono" id="c24"><span class="pg">p. 46f. Salomo:</span><div class="e" lang="la"><p class="cont">In Angelis esse tempus successivum, non in DEo.</p></div></section>
+<section class="card mono" id="c25"><span class="pg">p. 47 Toralba</span><div class="e" lang="la"><p class="cont">Ibidem negat primam causam movere.</p></div></section>
+<section class="card mono" id="c26"><span class="pg">p. 51f. Salomo, Fridericus:</span><div class="e" lang="la"><p class="cont">Ibidem disserit explicari non posse unde tanta multitudo piscium stato tempore v.g. halecum, cum nulla ovorum vestigia, aut seminis reperiantur.</p></div></section>
+<section class="card mono" id="c27"><span class="pg">p. 53f. Octavius:</span><div class="e" lang="la"><p class="cont">Item experiri Italos ad Volaterras, quod palumbes advolent ab ora maritima, cum tamen eas incredibile sit venire ex Africa, trajecto mari mediterraneo et 120 miliaribus.</p></div></section>
+<section class="card mono" id="c28"><span class="pg">p. 54 Salomo:</span><div class="e" lang="la"><p class="cont">Etiam in sacris Num. cap. 11 et Psalm. 77. dicuntur Coturnices advenire a plaga maritima.</p></div></section>
+<section class="card mono" id="c29"><span class="pg">p. 55 Salomo:</span><div class="e" lang="la"><p class="cont">Ibidem: DEum condito mundo nihil extra ordinem agere nisi per Angelos.</p></div></section>
+<section class="card mono" id="c30"><span class="pg">p. 57 Toralba:</span><div class="e" lang="la"><p class="cont">Glires cum vulneribus excitari non possint, excitantur dum aqua submerguntur, quia ita respirare non possunt.</p></div></section>
+<section class="card mono" id="c31"><span class="pg">p. 58f. Toralba:</span><div class="e" lang="la"><p class="cont">Negat actionem non esse in distans, et moventis et moti extrema simul esse debere falsum putat.</p></div></section>
+<section class="card mono" id="c32"><span class="pg">p. 61 Octavius:</span><div class="e" lang="la"><p class="cont">Ventus non est exhalatio calida et sicca, sed aëris fluxus.</p></div></section>
+<section class="card mono" id="c33"><span class="pg">p. 63 Fridericus:</span><div class="e" lang="la"><p class="cont">Putat ventos esse a daemonibus et hinc esse, quod imminente pluvia sint venti, orta cessent, quia daemones aquas refugiant. Unde rationabile esse, quod in Germania sagae putentur, quae non in aquam demerguntur. Id Julianum imperatorem non recte percepisse, qui in Epistola ad Antiochum Misopogona scribens ait Germanos sic adulteria explorare.</p></div></section>
+<section class="card mono" id="c34"><span class="pg">p. 63 Toralba:</span><div class="e" lang="la"><p class="cont">Ob similem causam Typhones aceti aspersione sedari, quia substantia eorum ignea.</p></div></section>
+<section class="card mono" id="c35"><span class="pg">p. 63 Octavius:</span><div class="e" lang="la"><p class="cont">Igni autem maxime contrarium acetum.</p></div></section>
+<section class="card mono" id="c36"><span class="pg">p. 65f. Fridericus:</span><div class="e" lang="la"><p class="cont">Fulmina esse a Daemonibus plerumque hinc et daemonum odor teter et sulphureus.</p></div></section>
+<section class="card mono" id="c37"><span class="pg">p. 68 Toralba:</span><div class="e" lang="la"><p class="cont">Eodem refert lacum, quem Pilati vocant, daemones enim irasci ait injectis lapidibus.5</p></div></section>
+<section class="card mono" id="c38"><span class="pg">p. 68 Fridericus:</span><div class="e" lang="la"><p class="cont">Ibidem putat Daemones esse animas mortuorum.</p></div></section>
+<section class="card mono" id="c39"><span class="pg">p. 70 Salomo:</span><div class="e" lang="la"><p class="cont">Cadmus Hebraice sonat:6 Orientalem. Dictio Ana est Arabica, significat: singulorum.</p><p>5 fere ut Simplicius fabulatur.</p><p>6 si graece sonaret.</p></div></section>
+<section class="card mono" id="c40"><span class="pg">p. 129</span><div class="e" lang="la"><p>Lib. III.</p></div></section>
+<section class="card mono" id="c41"><span class="pg">p. 76 Octavius:</span><div class="e" lang="la"><p class="cont">Mulieres serpente conspecto abortum patiuntur, et solam mulierem conspectam in turba virorum serpens persequitur, huc Genesis: ponam inimicitiam etc.</p></div></section>
+<section class="card mono" id="c42"><span class="pg">p. 79—85 Salomo:</span><div class="e" lang="la"><p class="cont">Theologos Latinos hactenus non intellexisse, cum scriptura dicit DEum dare escam pullis corvorum, non intelligendum quasi a parentibus deseruntur, sed per filios corvorum Hebraismo intelligi ipsos corvos. Ibidem vult per corvos et Aethiopos, et Leviathanem, et Behemoth intelligi in Scriptura daemonas, et multa alia ex Hebraeorum traditis a Salomone Hebraeo, collocutore edisseruntur.</p></div></section>
+<section class="card mono" id="c43"><span class="pg">p. 85 Salomo:</span><div class="e" lang="la"><p class="cont">Decem esse orbes Coelorum quia dicitur Psalm. [8.]: opera digitorum tuorum sunt coeli.</p></div></section>
+<section class="card mono" id="c44"><span class="pg">p. 86f. Salomo</span><div class="e" lang="la"><p class="cont">Ibidem disserit de prima causa et natura mali, malum autem esse nihil, sed privationem.</p></div></section>
+<section class="card mono" id="c45"><span class="pg">p. 87f. Toralba:</span><div class="e" lang="la"><p class="cont">Arist. [2.] Eth. ad Nicom. c. 6. statuit bonum esse finitum, malum infinitum, contrarium verum est. Virtutem non esse in medio, quia ex Aristotelis sententia, si vitia infinita daretur medium inter infinita. Ibidem argumentatur virtutem non esse in medio, quia satius sit justissimum quam mediocriter justum esse. [p. 89] Putat Salomo Hebraeus Daemones non peccare, sed tantum DEi jussa exequi.</p></div></section>
+<section class="card mono" id="c46"><span class="pg">p. 91 Toralba:</span><div class="e" lang="la"><p class="cont">Coelos esse animalia sensu et intellectu praedita.</p></div></section>
+<section class="card mono" id="c47"><span class="pg">p. 93 Salomo:</span><div class="e" lang="la"><p class="cont">Esse aquas supercoelestes, alioqui nullum diluvium intelligi posse.</p></div></section>
+<section class="card mono" id="c48"><span class="pg">p. 96 Toralba:</span><div class="e" lang="la"><p class="cont">Intellectum agentem, seu id quod in homine dictum est ϑύϱαϑεv advenire putat esse genium seu Angelum cujusque</p></div></section>
+<section class="card mono" id="c49"><span class="pg">p. 96f. Salomo:</span><div class="e" lang="la"><p class="cont">et hinc esse divinitatem somniorum.</p></div></section>
+<section class="card mono" id="c50"><span class="pg">p. 101—103:</span><div class="e" lang="la"><p class="cont">Salomon ibidem disserit animas hominum corporea spectantium prorsus interire. Animas vero etiam improborum prius ante 2dam mortem cruciari. Laudat Pauli Riccii librum de Agricultura coelesti, qui haec verba: de limo terrae formavit hominem, ita allegorice interpretatur: de intellectu patibili fecit angelum. Scilicet in 2da ut sic dicamus Creatione, quando salvabitur.</p></div></section>
+<section class="card mono" id="c51"><span class="pg">p. 105 Octavius:</span><div class="e" lang="la"><p class="cont">Duo esse fidei Christianae capita, quae multos deterruerunt, àjio&amp;ê(oatç hominum, naì aváaraaiç corporum.<sup class="fnc" data-f="129-7">7</sup></p><div class="fn"><p data-at="0" data-f="129-7" data-n="7">Am oberen Rand von Bl.2r°: Wilkinsii Polygraphia universalis. Comenii Polyglottis. Wallisii Steganographia. Ejus ars didactica Lundorp. gestr. frühere Aufzeichnung.</p></div></div></section>
+<section class="card mono" id="c52"><span class="pg">p. 106 Salomo:</span><div class="e" lang="la"><p class="cont">Corpora putat non resurrectura cum ossibus et carnibus.</p></div></section>
+<section class="card mono" id="c53"><span class="pg">p. 109 Senamus:</span><div class="e" lang="la"><p class="cont">Joh. Duns qui scotus</p></div></section>
+<section class="card mono" id="c54"><span class="pg">p. 130</span><div class="e" lang="la"><p class="cont">appellatur pro mortuo sepultus, mox evigilans caput feretro ita multum illisit, ut aperto tandem ad sonum sepulcro semianimis, ac jam revera expirans reperiretur.</p></div></section>
+<section class="card mono" id="c55"><span class="pg">p. 110f.</span><div class="e" lang="la"><p class="cont">Eo inclinat non solum Salomon Judaeus in ea dissertatione, sed et Toralba Christianus, corpora non resurgere, quia mens jam beata corporis adjunctione magis iterum gravaretur. Sin vero, ut quidam volunt esset beatior, sequeretur hominum cum corpore quam angelorum sine corpore meliorem Conditionem.</p><p>Lib. IV.</p></div></section>
+<section class="card mono" id="c56"><span class="pg">p. 113 Toralba:</span><div class="e" lang="la"><p class="cont">Vinum ab aqua separatur spongia oleo perfusa.</p></div></section>
+<section class="card mono" id="c57"><span class="pg">p. 117 Salomo:</span><div class="e" lang="la"><p class="cont">Inter Angelos esse certamen virtutum.8</p></div></section>
+<section class="card mono" id="c58"><span class="pg">p. 117 Curtius:</span><div class="e" lang="la"><p class="cont">Bonum esse ut factiones sint plures quam duae. Tunc non orientur bella civilia.</p></div></section>
+<section class="card mono" id="c59"><span class="pg">p. 116 Coronaeus:</span><div class="e" lang="la"><p class="cont">Ita Crassus Caesarem et Pompejum, Lepidus Octavium et Antonium, dum vixit continuit.</p></div></section>
+<section class="card mono" id="c60"><span class="pg">p. 119f.</span><div class="e" lang="la"><p class="cont">Senamus conatur probare admittendas multas religiones in civitate, quasi ob harmoniam. Religiones varias posse esse veras, coli DEum in ministris Angelis, seu minoribus Diis, ut Ethnici fecerint.</p></div></section>
+<section class="card mono" id="c61"><span class="pg">p. 121:</span><div class="e" lang="la"><p class="cont">Ibidem probare conatur Octavius ex sententia Mahumetanorum, qui DEum ex sua sententia pura mente colat, salvari posse.</p></div></section>
+<section class="card mono" id="c62"><span class="pg">p. 122 Senamus:</span><div class="e" lang="la"><p class="cont">Hinc DEum in Exodo obstetricibus aegyptiis ignovisse.</p></div></section>
+<section class="card mono" id="c63"><span class="pg">p. 122f. Octavius:</span><div class="e" lang="la"><p class="cont">Hinc Ionas non est jussus a DEo veram religionem, sed tantum abstinentiam a peccatis apud Ninivitas praedicare.</p></div></section>
+<section class="card mono" id="c64"><span class="pg">p. 123f. Senamus, Salomo:</span><div class="e" lang="la"><p class="cont">Hinc Gentilium oracula, poenae divinae sacra eorum violantium, miracula eorum etc.</p></div></section>
+<section class="card mono" id="c65"><span class="pg">p. 131 Senamus:</span><div class="e" lang="la"><p class="cont">Nicolaum Cusanum Cardinalem ait probasse religionem Christianam ab Ecclesia, quam apud Christianos veram esse non probarat.9</p></div></section>
+<section class="card mono" id="c66"><span class="pg">p. 136 Octavius:</span><div class="e" lang="la"><p class="cont">Invehitur in patres Ecclesiae, quod Sibyllarum oraculis usi. Illud nomen quod Cardanus putavit ἀϱσένιϰον, esse vocem: φαοσφόϱος, id est Apollo.</p></div></section>
+<section class="card mono" id="c67"><span class="pg">p. 137 Senamus:</span><div class="e" lang="la"><p class="cont">Inventionem duarum mediarum proportionalium Nicolaus Cusa tentavit, Orontius se assecutum Jactavit. Cujus errores Nonius Lusitanus, et Buteo Delphinas libro de quadratura Circuli ostenderunt.</p></div></section>
+<section class="card mono" id="c68"><span class="pg">p. 141f. Toralba, Salomo:</span><div class="e" lang="la"><p class="cont">Patriarchas ante Legem solo lumine legeque naturae salvatos.</p></div></section>
+<section class="card mono" id="c69"><span class="pg">p. 143f. Salomo:</span><div class="e" lang="la"><p class="cont">Iephtha filiam non immolavit, sed perpetuae castitati devovit teste Chaldeo interprete, et R. Levi ben [Gerson] et R. Dav. Kimchi. Sacrificia DEo grata non esse, ideo tamen in Judaeis instituta, quia illi Cae-</p><p>8 Disserit hic de harmonia ex contrariis confusis.</p><p>9 Petitio principii.</p><p>10 vide Chymicos.</p></div></section>
+<section class="card mono" id="c70"><span class="pg">p. 131</span><div class="e" lang="la"><p class="cont">remoniis Aegyptiis assueti.</p></div></section>
+<section class="card mono" id="c71"><span class="pg">p. 146 Toralba:</span><div class="e" lang="la"><p class="cont">Decem praecepta Decalogi comparat io orbibus coelestibus.</p></div></section>
+<section class="card mono" id="c72"><span class="pg">p. 151f. Octavius:</span><div class="e" lang="la"><p class="cont">Judaei colunt diem septimum, Christiani primum quo Christus revixit, Mahumetani11 6tum, quo fuga Mahumetis ab hostibus prostrati et vulnerati. Ita Christiani debuissent potius diem colere 6tum, quo Christus passus.</p></div></section>
+<section class="card mono" id="c73"><span class="pg">p. 153—155</span><div class="e" lang="la"><p class="cont">Salomon acriter pugnat pro moralitate Sabbati Judaici. Observat ex Justino Martyre quaest. 69. die 7mo regulariter aërem mutari.</p></div></section>
+<section class="card mono" id="c74"><span class="pg">p. 155 Fridericus:</span><div class="e" lang="la"><p class="cont">Egregie pro Christianis, quod non sit dies 7“* eadem toto orbe, nam cum occasu solis incipiat sabbatum maximum mense Aprili hora 6. post meridiem in urbe Hierosolyma, eo momento in Regionibus Brasilianis Indorum meridies est. Item in regionibus polis vicinis semestrem noctem esse.*</p></div></section>
+<section class="card mono" id="c75"><span class="pg">p. 158 Salomo:</span><div class="e" lang="la"><p class="cont"><em>Christianos veteres sabbatum et dominicam simul coluisse probat ex Tertulliano, Apologet. et adversus Psychicos.</em></p></div></section>
+<section class="card mono" id="c76"><span class="pg">p. 159f. Salomo:</span><div class="e" lang="la"><p class="cont"><em>Judaeus objicit: Tot a Christianis deos coli, quot angelos, quot sanctos. Ubique idola, cadavera, gentilismi unde ex decalogo sculptilis prohibitionem eraserunt.</em></p></div></section>
+<section class="card mono" id="c77"><span class="pg">p. 163 Octavius:</span><div class="e" lang="la"><p class="cont"><em>In Turcarum Mesgedis viri et foeminae ita habent discretas stationes ut conspici invicem non possint.</em></p></div></section>
+<section class="card mono" id="c78"><span class="pg">p. 165f. Salomo:</span><div class="e" lang="la"><p class="cont"><em>Judaei in occasum prospiciunt, statuuntque mundi dextram in Aquilonem, sinistram in [Austrum] incidere. Recte. Religio ab Austro, vis ab Aquilone.</em></p></div></section>
+<section class="card mono" id="c79"><span class="pg">p. 170f. Octavius:</span><div class="e" lang="la"><p class="cont"><em>Liber Faelim Nebi de vita prophetae, et Edit el Nebi, id est historia prophetae Apocryphi sunt apud Ismaëlitas, uti Bonaventura de vita Christi apud Christianos. In ipso Alcorano nil ineptum esse.</em></p></div></section>
+<section class="card mono" id="c80"><span class="pg">p. 172 Toralba:</span><div class="e" lang="la"><p class="cont"><em>Putat Naturalem religionem sufficere,</em></p></div></section>
+<section class="card mono" id="c81"><span class="pg">p. 172f. Salomo:</span><div class="e" lang="la"><p class="cont"><em>aliquibus tamen caeremoniis in Republica opus esse. Sacrificulos gentilium Pellibus hostiarum caput obvolvisse, similia Canonici usurpant. Capitis rasurae sunt ex Isidis sacris, quae Osiridis audita morte caput rasit.</em></p><p>Lib. V.</p></div></section>
+<section class="card mono" id="c82"><span class="pg">p. 178 Toralba:</span><div class="e" lang="la"><p class="cont">Et sensus falli et mentem quandoque. Gravius Aristoteles errat, qui sensibus errorem abrogat, quam Academici qui fidem.</p></div></section>
+<section class="card mono" id="c83"><span class="pg">p. 178 Salomo:</span><div class="e" lang="la"><p class="cont">Regina Sabae Regi Salomoni duplicem florem attulit alterum verum, alterum arte fictum, quaerit uter naturalis esset, Salomon apes importari jussit, eae ad verum continuo advolarunt.</p></div></section>
+<section class="card mono" id="c84"><span class="pg">p. 179f. Senamus:</span><div class="e" lang="la"><p class="cont">Enarrat 10 par[tes] hominum circa religionem se habentium ex quibus et Athei. Meminit consilii Hieremiae post lib. [Baruch] in Epist. ad Judaeos in Baby-</p><p>11 Ismaëlitae Bodino.</p></div></section>
+<section class="card mono" id="c85"><span class="pg">p. 132</span><div class="e" lang="la"><p class="cont">lone, ubi suadet, etsi ante Idola procidere cogerentur, tamen animis DEum aeternum adorent.</p></div></section>
+<section class="card mono" id="c86"><span class="pg">p. 181 Curtius:</span><div class="e" lang="la"><p class="cont">Paulus tamen ad Rom. io. requirit confessionem ore factam ad salutem.</p></div></section>
+<section class="card mono" id="c87"><span class="pg">p. 181 Octavius:</span><div class="e" lang="la"><p class="cont">Inclinat eo arg. l. metum autem D. quod metus causa.</p></div></section>
+<section class="card mono" id="c88"><span class="pg">p. 181 Fridericus:</span><div class="e" lang="la"><p class="cont">Metum mortis et cruciatus, non tamen alium sufficere v.g. amittendarum opum.</p></div></section>
+<section class="card mono" id="c89"><span class="pg">p. 182 Octavius:</span><div class="e" lang="la"><p class="cont">Interim et Naaman ab Elisaeo excusatur. lib. 2. Reg. c. 5.</p></div></section>
+<section class="card mono" id="c90"><span class="pg">p. 184 Salomo:</span><div class="e" lang="la"><p class="cont">Levit. c. 24. Qui DEum suum, (etiam non verum) contumelia affecit, punitur.</p></div></section>
+<section class="card mono" id="c91"><span class="pg">p. 185 Octavius:</span><div class="e" lang="la"><p class="cont">Deut. c. 17. Qui Pontificis maximi decreto non paruerit capite puniendus,</p></div></section>
+<section class="card mono" id="c92"><span class="pg">p. 185f. Salomo:</span><div class="e" lang="la"><p class="cont">divina Lex Pontifices errantes non excusat Levit. c. [10.] populum excusat Lev. c. 5.</p></div></section>
+<section class="card mono" id="c93"><span class="pg">p. 186 Toralba:</span><div class="e" lang="la"><p class="cont">Plato certiores licet minus argut[as, quam] Aristoteles de DEo et mente comprehensiones habuit.</p></div></section>
+<section class="card mono" id="c94"><span class="pg">p. 187 Salomo:</span><div class="e" lang="la"><p class="cont">Aristot. 10. Eth. male negare DEum sapientem prudentem, justum, etc.</p></div></section>
+<section class="card mono" id="c95"><span class="pg">p. 188f. Toralba:</span><div class="e" lang="la"><p class="cont">Alium esse finem hominis, qui sit extra ipsum, aliud summum eius bonum. V.g. bestiarum finis, ut sint homini in victum, non tamen hoc summum earum bonum.12 Summum bonum est DEus, igitur id non est subjectum philosophiae moralis, sed homo beandus. Summum bonum non esse quod alterius causa non appetitur, appetitur enim ab homine etiam DEi fruitio hominis causa. DEi cognitionem esse propter amorem, amorem propter fruitionem,</p></div></section>
+<section class="card mono" id="c96"><span class="pg">p. 189f. Salomo:</span><div class="e" lang="la"><p class="cont">soli Moysi vigilanti, prophetis tantum dormientibus hoc summum bonum contigisse. Secundum virtutem vivere hominis officium est, non summum bonum.</p></div></section>
+<section class="card mono" id="c97"><span class="pg">p. 190 Fridericus, Salomo:</span><div class="e" lang="la"><p class="cont">DEi cognitionem esse summum bonum. Joh. c. 17. Sapient. c. 15.</p></div></section>
+<section class="card mono" id="c98"><span class="pg">p. 190—192</span><div class="e" lang="la"><p class="cont">Salomo inter Collocutores est Judaeus, Octavius Turcis favet, Toralba Religioni naturali, Coronaeus Catholicae, Federicus Augustanae, Curtius Helveticae.</p><p>[p. 192] Senamus putat omnes omnium religiones DEo gratas esse.</p></div></section>
+<section class="card mono" id="c99"><span class="pg">p. 192f.</span><div class="e" lang="la"><p class="cont">Toralba contra contendit Idola prorsus rejicienda argumento Jobi cap. [31.] ubi dicit se sidera non adorasse, etsi Christum multo minus Mahumetem unquam fore non sit suspicatus. Idem putat etiam fidem Christianam si vera sit ratione debere constare.</p></div></section>
+<section class="card mono" id="c100"><span class="pg">p. 193—196</span><div class="e" lang="la"><p class="cont">Salomo: Ebraeorum Ecclesiam per traditionem esse testem perpetuam verae Religionis et traditionis custodem. Omnia quae catholici objiciant sectariis majori jure Judaeos objicere Christianis</p><p>12 NB. in homine per accidens contingit, ut idem ipsi summe bonum sit, propter quod creatus est NB.</p></div></section>
+<section class="card mono" id="c101"><span class="pg">p. 133</span><div class="e" lang="la"><p class="cont">et Mahumetanis, novitatem, dissensum. Recenset diligentius sectas Mahumetanas quas ait esse 62. Ibnu faride defendit omnes omnium religiones DEo gratas. Elecfanus Theologus Mahumetanorum sectas libb. 7. enarrat.</p></div></section>
+<section class="card mono" id="c102"><span class="pg">p. 200 Salomo:</span><div class="e" lang="la"><p class="cont">Nusquam terrarum lepra adhaesit domibus et vestimentis nisi in Palaestina.</p></div></section>
+<section class="card mono" id="c103"><span class="pg">p. 201f.</span><div class="e" lang="la"><p class="cont">Disserit Salomo non esse argumentum abjectorum a DEo Judaeorum, sed potius dilectorum, quod extorres.</p></div></section>
+<section class="card mono" id="c104"><span class="pg">p. 204f. Fridericus:</span><div class="e" lang="la"><p class="cont">Quidam Judaeus Christianus factus scripsit אמרכת librum fidei. Eman. Tremellius Catechismum Ebraicum cum Ep. ad fratres Ebraeos. Facti quoque Christiani et pro iis scripsere Isaacus Agrippinensis, Paulus Paradisus professor Parisiensis, Paulus Burgensis, Nic. Liranus.</p></div></section>
+<section class="card mono" id="c105"><span class="pg">p. 205 Salomo:</span><div class="e" lang="la"><p class="cont">Justin. in quaestione ad orthodoxos erravit in explicando Hosanna.</p></div></section>
+<section class="card mono" id="c106"><span class="pg">p. 207f. Curtius:</span><div class="e" lang="la"><p class="cont">Locum, non auferetur sceptrum de Juda, interpretatur ultimum regem esse Messiam, tum venturum Schilo cui adhaerebunt gentes, esse Nabuchodonosorem.</p></div></section>
+<section class="card mono" id="c107"><span class="pg">p. 208 Salomo:</span><div class="e" lang="la"><p class="cont">Galatinus ex Thalmudicis libris multa detorsit quasi scripserint in tit. Sanedrim cap. Heler Messiam natum tempore excisi templi, latereque Romae dum stato tempore sit apparituras.13</p></div></section>
+<section class="card mono" id="c108"><span class="pg">p. 210—216 Salomo:</span><div class="e" lang="la"><p class="cont">Nullum Prophetam unquam scripsisse quod eis tribuit Evangelista Nazaraeus vocabitur. In 23. Jeremiae, illud: et vocabunt eum DEus aeternus justitia nostra, non ita sed sic intelligendum quando illud germen nascetur, tunc vocabunt id est invocabunt DEum. Ita apud Ezech. c. 25., et Hierusalem vocabitur DEus aeternus nomen eius, cum tamen absurdum sit vocem Jehova tribui urbi. Probabile est inquit Matth. c. 22. Judaeos obmutuisse, ad argumentum ex illo: dixit Dominus domino meo, ne ineptire in re tam futili viderentur, neque enim Psalmum ullum post 72. esse Davidis. Illud in omnem terram exivit sonus eorum, quo ex Psalm. 18. vel 19. utitur Paulus, pertinere ad coelos; item Psalm. 8. minuisti eum paulo minus ab Angelis intelligi de homine in universum, non in specie de Christo, et illud Ps. 22. v. 17. foderunt manus et pedes meos, cum tamen (τῷ) foderunt nihil simile sit in Ebraeo. Moses scribit Israëlitas fuisse in Aegypto annos 430. Id ita explicandum scilicet: a tempore foederis a DEo cum Abraha percussi</p><p>13 Sed nihil addit quomodo detorserit, et quis sensus verus.</p></div></section>
+<section class="card mono" id="c109"><span class="pg">p. 134</span><div class="e" lang="la"><p class="cont">ad exitum ex Aegypto. Nam a Iacobi immigratione haesere tantum ibi annos 140. Onkelon esse Latinorum Aquilam qui floruerit ante 2di templi excidium, Jonathanem esse Theodotionem[,] Jonathan enim est a DEo datus. Duo priora capita Lucae Marcion non agnoscebat, tum quia narrat de stella et magis, de Angelo Gabriele, de quibus apud caeteros nullum vestigium Evangelistas, item quod 3tlum caput incipit: Sub Pontificibus Anna et Caipha factum est verbum Domini ad Ioannem, qui mos est inchoandi libros prophetarum.</p></div></section>
+<section class="card mono" id="c110"><span class="pg">p. 216f. Toralba:</span><div class="e" lang="la"><p class="cont">Non esse absurdum virginem parere sine hominis concubitu, sed officio Angeli, imo et natura, uti colligit loca Diod. Sic. Pausan. Iustini, Strabonis, Varronis, Plinii, Solini, Columellae, Silii Italici.</p></div></section>
+<section class="card mono" id="c111"><span class="pg">p. 217 Senamus:</span><div class="e" lang="la"><p class="cont">Tertullianus putat virginem Mariam patefacti corporis lege peperisse, ob quod a Theologis coarguatur.</p></div></section>
+<section class="card mono" id="c112"><span class="pg">p. 218 Salomo:</span><div class="e" lang="la"><p class="cont">Jesus in Synagoga rogatus Ioh. [10.] cur se filium DEi diceret, nullam aliam rationem assignavit, quam omnibus hominibus communem.</p></div></section>
+<section class="card mono" id="c113"><span class="pg">p. 219 Fridericus:</span><div class="e" lang="la"><p class="cont">Refellit historiam Suidae de Christo in Collegium Sacerdotum adoptato. Mariae genealogia ideo non texitur, quia certum est, cum Josephi nupta sit, esse ex tribu Juda.</p></div></section>
+<section class="card mono" id="c114"><span class="pg">p. 219—221 Salomo:</span><div class="e" lang="la"><p class="cont">Novum est gentem propagari a foeminis, et Christum duci de David per foeminam, cum foeminae sint familiae finis. Legem de maritandis ordinibus ex eadem tribu tempore Christi fuisse antiquatam. Ita avus Davidis jam sibi despondit Mohabitidem. Matthaeus et Lucas ita differunt, ut alter Jesum a Salomone, alter a Nathane ducat, fratribus. Boas Salomonis filius dicitur proavus Davidis, cum intersint inter utrumque anni 367. Cur Genealogia ducta a losepho si non pater? nec inde concludetur esse stirpe Davidica, cur enim Elisabetae ex tribu Levi cognata dicitur?</p></div></section>
+<section class="card mono" id="c115"><span class="pg">p. 221 Salomo:</span><div class="e" lang="la"><p class="cont">Augustum censum fecisse scribit Dio lib. [56.] anno penultimo, quo tempore Jesus attigerat annum 14.</p></div></section>
+<section class="card mono" id="c116"><span class="pg">p. 221 Curtius:</span><div class="e" lang="la"><p class="cont">Respondet quidem descriptionem duplicem factam esse, hanc fuisse praeside Cirenio.</p></div></section>
+<section class="card mono" id="c117"><span class="pg">p. 221 f. Salomo;</span><div class="e" lang="la"><p class="cont">Imo Josephus docet eo anno fuisse non Cirenium sed Quintilium Varum praesidem. Augustus vero jussit tantum describi cives Romanos, non peregrinos, vectigales aut socios. Eusebius enim tantum refert numerum 6560000 et Christo nascente 15810000. Nec solitum censorem cogere subditos de loco ad locum migrare, multominus foeminas gravidas.14</p><p>14 Facile responderem: id factum privatis exactionibus praeter voluntatem Augusti ut solent Magistratus inferiores.</p></div></section>
+<section class="card mono" id="c118"><span class="pg">p. 223 Curtius:</span><div class="e" lang="la"><p class="cont">Josephus ipse confirmat eaedem infantium Herodis.</p></div></section>
+<section class="card mono" id="c119"><span class="pg">p. 224f. Octavius:</span><div class="e" lang="la"><p class="cont">Fuerunt olim multa Evangelia secundum Basilidem, secundum Matthaeum, Bartholomaeum, Thomam, Nicodemum, Matthiam, Cerinthum, Ebraeos, Aegyptios, Nazaraeos, omnes Apostolos, acta Andreae15 apud Epiphanium contra Apostolicos.</p></div></section>
+<section class="card mono" id="c120"><span class="pg">p. 225 Senamus:</span><div class="e" lang="la"><p class="cont">Alcorani veram compositionem rejectis Exemplaribus variantibus pulcre describit.</p></div></section>
+<section class="card mono" id="c121"><span class="pg">p. 227 Salomo:</span><div class="e" lang="la"><p class="cont">C. 9. actorum dicit Lucas Pauli comites neminem vi(di)sse, solam vocem audiisse, contra Act. c. 22. dicuntur lucem vidisse, nullam vocem audiisse.</p></div></section>
+<section class="card mono" id="c122"><span class="pg">p. 227 Curtius:</span><div class="e" lang="la"><p class="cont">Dictionis φῶς et φωνὴ [affinitas] efficere potuit discrepantium.</p></div></section>
+<section class="card mono" id="c123"><span class="pg">p. 227f. Octavius:</span><div class="e" lang="la"><p class="cont">Zacharias filius Jojadae Pontificis maximi lib. 2. paral. c. 24. 400 prope annis antecessit Zachariam Barachiae filium, unum sunt Matth. 23. Christus mortuus feria 6ta hora 9na, et coena paschalis facta feria 7ma, ἂτοπον. Coena autem Paschalis necessario fieri debuit feria 7ma. Exod. 12. Levit. [23.] Num. [28.]16 Quomodo Christus potuit prima Sabbathorum resurgere, et tamen tres dies et tres noctes esse in sepulcro.16a Paulus Burgensis Judaeus baptizatus coenam ascribit feriae 5tae contra verba Evangelistarum. Quidam recentiores agnum Paschalem comedisse tradunt quo die crucifixus est anno 1. Olympiadis 203. die 23. april. Luna 14. die 6. Contra Mercator Anno 4. 202. die 23. Martii feria 6at Luna 15., Lucidus feria 6. April. Citatur in margine Jos. Scaliger hb. 6. de Entend. temp.11</p></div></section>
+<section class="card mono" id="c124"><span class="pg">p. 228 f. Octavius:</span><div class="e" lang="la"><p class="cont">Veteres loco: τϱεῖς εἰσιν οἱ μαϱτυϱοῦντες usi non sunt, nec Cyrillus nec Hilarius nec Ambrosius, nec Augustinus, nec Hieronymus, et patet autoritate Cyrilli Hierosolymitani antiquissimis codicibus defuisse. Hinc textum illum optimus ille Codex Hispanus habet tantum in margine.</p></div></section>
+<section class="card mono" id="c125"><span class="pg">p. 229f. Salomo:</span><div class="e" lang="la"><p class="cont">Johannes Ev. c. 5. introducit Christum dicentem: si testimonium ipse perhibeo de me, non est verum, idem c. 8. v. [14.] contrarium: si perhibeo est verum, quia scio. Johannes ante visitationem Elizabetae natus, quomodo igitur in utero visitatae exultavi? Hinc Graeci festum visitationis istud non</p><p>15 Resp. illa erant tantum acta certi Apostoli.</p><p>16Imo Christus Dominus Legis.</p><p>16a Resp. nicht ausgeführt</p><p>17 qui tamen liber Bodino vivente non potuit jam esse editus. gestr.</p></div></section>
+<section class="card mono" id="c126"><span class="pg">p. 136</span><div class="e" lang="la"><p class="cont">habent. Matthaeus dicit scriptum esse apud Jeremiam appretiaverunt me 30 argenteis, hoc vero apud Jeremiam non extare.18</p></div></section>
+<section class="card mono" id="c127"><span class="pg">p. 233 Salomo:</span><div class="e" lang="la"><p class="cont">Historia 7 fratrum in libb. Maccabaeorum est in Josephi quoque libro πεϱὶ αὐτοϰϱάτοϱοϱ λογισμοῦ, de imperio rationis.</p></div></section>
+<section class="card mono" id="c128"><span class="pg">p. 237 Salomo:</span><div class="e" lang="la"><p class="cont">Epiphanius enarrat plurima loca Novi Test. quae veteribus exemplaribus defuere, hb. contra haereses, sunt prope 200.</p><p>Lib. VI.</p></div></section>
+<section class="card mono" id="c129"><span class="pg">p. 239 Senamus:</span><div class="e" lang="la"><p class="cont">Initio ridet jejunia Christianorum, piscibus enim fere solis olim magnates vesci solitos, carnibus neglectis, praeter avium.</p></div></section>
+<section class="card mono" id="c130"><span class="pg">p. 240 Fridericus:</span><div class="e" lang="la"><p class="cont">Majorum nostrorum aetate quidam explevit annos 369 unde dictus ab Historicis Johannes de Temporibus. Franc. Alvaresius in Aethiopicis scribit Marcum Abanum Pontificem maximum anno 100mo 50mo nondum aetatis senium prae se tulisse.</p></div></section>
+<section class="card mono" id="c131"><span class="pg">p. 240f. Toralba, Curtius:</span><div class="e" lang="la"><p class="cont">Longum tempus olim concessum hominibus tum ad propagationem, tum ad constituendas artes et scientias, et observandos siderum cursus.</p></div></section>
+<section class="card mono" id="c132"><span class="pg">p. 242 Fridericus:</span><div class="e" lang="la"><p class="cont">Aristoteles hb. de longitudine vitae c. [4.] et Theoph. Hb. 4. de caus. Plant. c. 14. non recte docent pisces minime inter animalia vivaces.</p></div></section>
+<section class="card mono" id="c133"><span class="pg">p. 243 Fridericus:</span><div class="e" lang="la"><p>Alii olim in adorando caput aperiebant, ut hodie moris alii vero tegebant et se obvolvebant.</p></div></section>
+<section class="card mono" id="c134"><span class="pg">p. 243f. Salomo:</span><div class="e" lang="la"><p class="cont">Ita Moses Exod. 3. Elias cum DEus ei in monte Horeb appareret.</p></div></section>
+<section class="card mono" id="c135"><span class="pg">p. 244 Curtius:</span><div class="e" lang="la"><p class="cont">Christiani olim in processionibus non ambulabant sed saltabant.</p></div></section>
+<section class="card mono" id="c136"><span class="pg">p. 242f. Curtius:</span><div class="e" lang="la"><p class="cont">Die Paschae jejunium fuisse olim scribit Tertullianus, Origenes contra Celsum lib. 4. Christianos 4. et 6. feria jejunasse.</p></div></section>
+<section class="card mono" id="c137"><span class="pg">p. 242 Senamus:</span><div class="e" lang="la"><p class="cont">6at jejunant et Turcae.</p></div></section>
+<section class="card mono" id="c138"><span class="pg">p. 245 Salomo:</span><div class="e" lang="la"><p class="cont">Selah Symmachus et Theodotio verterunt òiáyalpa., quod videtur esse interpunctio cantus. Salomo hic putat esse exultationem corporis in sacris.</p></div></section>
+<section class="card mono" id="c139"><span class="pg">p. 238 Coronaeus:</span><div class="e" lang="la"><p class="cont">Agi hoc lib. 6. intentum est de Unione Naturarum in Christo.</p></div></section>
+<section class="card mono" id="c140"><span class="pg">p. 247 Octavius:</span><div class="e" lang="la"><p class="cont">Athanasius in hb. de incarnatione duas in Christo naturas agnoscit.</p></div></section>
+<section class="card mono" id="c141"><span class="pg">p. 248 Toralba:</span><div class="e" lang="la"><p class="cont">Nihil univoce de DEo et Creaturis dici posse.</p></div></section>
+<section class="card mono" id="c142"><span class="pg">p. 250 Salomo:</span><div class="e" lang="la"><p>18 hodie.</p></div></section>
+<section class="card mono" id="c143"><span class="pg">p. 137</span><div class="e" lang="la"><p class="cont">Mundos ex Judaeorum sententia continuo recreari.</p></div></section>
+<section class="card mono" id="c144"><span class="pg">p. 252 Octavius:</span><div class="e" lang="la"><p class="cont">Recenset Magos qui Christum imitari conati.</p></div></section>
+<section class="card mono" id="c145"><span class="pg">p. 255 Senamus:</span><div class="e" lang="la"><p class="cont">Plutarchus in Themistocle et Catone censoria ait eos pro concione dixisse: adversus DEum immorta[lem] nulla temporis diuturnitate praescribi potest.</p></div></section>
+<section class="card mono" id="c146"><span class="pg">p. 258 Curtius:</span><div class="e" lang="la"><p class="cont">Magister sententiarum lib. [1.] dist. 6. DEus genuit filium non necessitate, nec voluntate.</p></div></section>
+<section class="card mono" id="c147"><span class="pg">p. 260 Octavius:</span><div class="e" lang="la"><p class="cont">Christum a Pilato caesum non quia dimittere volebat Ioh. [19.], sed quia praedamnaverat, solebant enim Romani condemnatos caedere Liv. lib. 2. Dion. Halic. lib. 6. 7. Tranquill. in Neron. fin.</p></div></section>
+<section class="card mono" id="c148"><span class="pg">p. 260f. Salomo:</span><div class="e" lang="la"><p class="cont">Ad miraculum de Cana Galilaeae dicit commodius facturum fuisse, si convivas ad sobrietatem assuefecisset. Christum dixisse: fides tua te salvabit, ita dicere et sortilegos sanari non posse, nisi qui fiduciam habeat. Leve argumentum esse de regno Daemonum dissolvendo, si alter alterum ejiceret. Sortilegum quendam Anglum in Belgio cum Hispanum obsessum liberaret, immisit Daemonem gregi boum, qui in se mutuo saevierunt, ita illic in gregem porcorum. Josephi graeci locum esse supposititium, quia nihil in Josepho filio Gorionis qui hebraice eadem scripsit.19</p></div></section>
+<section class="card mono" id="c149"><span class="pg">p. 267 Toralba:</span><div class="e" lang="la"><p>DEum humanitati uniri non posse, quia eorum non detur copula, non detur proportio, quae tamen in uniendis requiruntur.20</p></div></section>
+<section class="card mono" id="c150"><span class="pg">p. 269 Fridericus:</span><div class="e" lang="la"><p class="cont">DEus in Christo corpori unitur per mentem.</p></div></section>
+<section class="card mono" id="c151"><span class="pg">p. 275 Octavius:</span><div class="e" lang="la"><p class="cont">Spiritum Sanctum aut esse patris nepotem aut filii fratrem.</p></div></section>
+<section class="card mono" id="c152"><span class="pg">p. 275 Toralba:</span><div class="e" lang="la"><p class="cont">Cur idem dicitur in filio generatio, in Sp. S. processio.</p></div></section>
+<section class="card mono" id="c153"><span class="pg">p. 278 Octavius:</span><div class="e" lang="la"><p class="cont">In Missa Jacobi mentio est virginum, confessorum, martyrum, cum tamen ipse Jacobus sit post Stephanum fere primus martyr; in missa Chrysostomi, Chrysostomus precatur se ipsum.</p></div></section>
+<section class="card mono" id="c154"><span class="pg">p. 280 Salomo:</span><div class="e" lang="la"><p class="cont">Augustinus Eugubinus tria ponit[:] intelligens intellectum et intellectionem ad fin. Perenn. philos.21</p><p>19 (Hae sunt Judaeorum objectiones facile refutabiles.)</p><p>20 NB. ad incarnationem requiritur, ut unum alterius instrumentum sit, et ut natura sint similia.</p><p>21 Obiter insero: Albertus M. citat lib. 1. phys. tr. 3. c. 13. Alexandrum Epicureum qui dixerit Materiam esse DEum. Contra quidam David de Dinanto positus in Catalogo</p></div></section>
+<section class="card mono" id="c155"><span class="pg">p. 280 Toralba:</span><div class="e" lang="la"><p class="cont">Inepte dici verbum DEi esse de Essentia DEi, quia verbi notio est ad extra progredi.</p></div></section>
+<section class="card mono" id="c156"><span class="pg">p. 281 Fridericus:</span><div class="e" lang="la"><p>Citat Plotini librum πεϱὶ πϱώτων ἀϱχίστων ὑποστάσεων.</p></div></section>
+<section class="card mono" id="c157"><span class="pg">p. 281 Curtius:</span><div class="e" lang="la"><p class="cont">Oraculum quod Heraclidi Pontico affingunt: πϱῶτα ϑεός μετέπειτα λόγος, ϰαί πνεῦμα σὺν αὐτοῖς, esse factum a Christianis. [p.282f. Salomo:] Ex nomine DEi rerga- γϱαμμάτῳ licere potius quaternitatem comminisci, ut Basilides Evangelista fe[cit c]uius sententiam secuti Noëtiani, et ipse Lombardus eo inclinat referente Joach. Abbate, quod [praeter] personas tres quartam subjecerunt, quam hypopatora vocabant. Unde et Pythagoras per Sanctum quaternarium juravit. Et pyramis simplicissima figurarum habet 4 hedras.22 Et Joach. Abbas necessario in DEo statuenda esse 4 ostendit[:] essentiam DEi, paternitatem, filiationem, processionem. Huc 4 Rotae Ezechielis. Et 4. repetitum nomen DEi Exodi c. 3.</p></div></section>
+<section class="card mono" id="c158"><span class="pg">p. 283 Octavius:</span><div class="e" lang="la"><p class="cont">Gregorius Nazianzenus scribit Spiritum S. Concilii Niceni tempore DEum creditum non esse23; Anno Christi 43[1]. Spiritus S. in numerum Deorum relatus est in Synodo Ephesina et seqq., quibus subrogata Symbolo Niceno aliquot capita de Spiritu S. Athanasius vulgaris Symboli autor esse non potuit, nisi 130 annos aetatis explevisset, nec credibile est eundem hominem Graecum scripsisse: Sp. S. procedere ex Patre et filio.</p></div></section>
+<section class="card mono" id="c159"><span class="pg">p. 283f. Fridericus, Octavius:</span><div class="e" lang="la"><p class="cont">Romanis pontificibus usitatum in Canoni sationeSanctorum vεϰϱομαντεῖν et animas evocare. Talis et Necromantia quam Nicephorus lib. [8.] c. 23. refert de duobus Episcopis qui cum Concilio Niceno subscribere noluissent, a mortuis excitati re plenius comperta subscripserint.</p></div></section>
+<section class="card mono" id="c160"><span class="pg">p. 284 f. Octavius:</span><div class="e" lang="la"><p class="cont">haereticorum statuebat DEum esse materiam primam, seu omnia ex DEo facta. Discipulus erat Amalrici, Amalricus Joh. Erigenae Scoti, is Dionysii Pseudo-Areopagitae admirator, hic Enthusiasmo Platonico infectus. Ut igitur David de Dinanto Enthusiasmo Platonico, ita Alexander Epicureorum Atheismo fastigium imposuit. Haec Thomasius Diss. de Quaest. an DEus sit materia prima. Lipsiae 1668. gestr. Randbemerkung</p><p>22 In ternario omnia ab omnibus tanguntur non in quaternario</p><p>23 zu Z. 10—13: Haec sunt haeretica Sociniana.</p></div></section>
+<section class="card mono" id="c161"><span class="pg">p. 139</span><div class="e" lang="la"><p class="cont">Primus Scotus defendit Mariam sine peccati labe conceptam.</p></div></section>
+<section class="card mono" id="c162"><span class="pg">p. 285 Octavius:</span><div class="e" lang="la"><p class="cont">Non fuisse opus talibus moliminibus ad expiandum generis humani peccatum. Nam si DEus in solo Adamo et Eva contritionem excitasset erant expiata omnia.</p></div></section>
+<section class="card mono" id="c163"><span class="pg">p. 287—289 Toralba:</span><div class="e" lang="la"><p>Si Corpus Christi in multis locis esse potest, ut volunt Catholici, etiam in omnibus esse potest ut volunt Ubiquitarii. Absurdum dicere cum Lutheranis Hominem Christum esse aeternum. Humanitatem non esse aeternam, cum abstracta sint aeterniora concretis. Sacramentarii putant non corpus sed animam Christi DEitati immediate junctam. Ita Christus nihil aliud erit quam homo DEo adhaerens, ut optimus quisque. Christus mereri non potuit cum esset divinitati conjunctus et in optimo felicitatis statu, et jam maximum praemium accepisset, unionem cum DEo. Mereri nemo potest, nisi qui in eo statu est, ut possit demereri et peccare. Scot. hb. 3. dist. 18. Imo et meritum Christi finitum est, praemium infinitum.</p></div></section>
+<section class="card mono" id="c164"><span class="pg">p. 290 Salomo:</span><div class="e" lang="la"><p class="cont">Locum Isaiae nihil ad Christum, quia in eo vox Servi.</p></div></section>
+<section class="card mono" id="c165"><span class="pg">p. 291 Senamus:</span><div class="e" lang="la"><p class="cont">Julianus hb. contra Galilaeos dicebat Aesculapium Apollinis filium similiter hominem factum, ut pro nobis laboraret medendo, non tamen caederetur.</p></div></section>
+<section class="card mono" id="c166"><span class="pg">p. 291 Toralba:</span><div class="e" lang="la"><p class="cont">Herodotus lib. 2. narrat Aegyptios dum bos pro salute populi eiusque peccatis mactabatur, scapulas nudatas cecidisse. Qui mos inde videtur ad Jesuitas et Hieronymitas dimanasse.</p></div></section>
+<section class="card mono" id="c167"><span class="pg">p. 291—293 Salomo:</span><div class="e" lang="la"><p class="cont">Impiorum mactatio potest expiare populum non piorum. Num. c. 25. Et Micheas cap. 6. nunquid dabo primogenitum meum pro expiatione, etc. indicavi tibi o homo quid bonum sit.</p></div></section>
+<section class="card mono" id="c168"><span class="pg">p. 292f. Fridericus:</span><div class="e" lang="la"><p class="cont">Philo Hebraeus cum inquireret cur Legatis reditus in patriam interdictus pontifice maximo mortuo, hunc pontificem non hominem futurum, sed DEi verbum ab omnibus peccatis purum interpretatur. VI24. c. 66.</p></div></section>
+<section class="card mono" id="c169"><span class="pg">p. 294 Salomo </span><div class="e" lang="la"><p>Judaei putant peccata contra leges jubentes sola poenitentia aboleri, peccata contra leges vetantes vero die demum expiationis. Si vero peccatum Capitale etiam post diem expiationis judici et DEo poenam reservatam. Si tamen judex omittat ulcisci et DEum omittere25 praeter laceratum contumeliose nomen DEi, quod extremo demum die occasus aboletur.</p></div></section>
+<section class="card mono" id="c170"><span class="pg">p. 296 Coronaeus:</span><div class="e" lang="la"><p class="cont">Indi Peruani usi confessione auriculari ante Hispanorum adventum.</p><p>24 über VI:</p></div></section>
+<section class="card mono" id="c171"><span class="pg">p. 296f. Salomo:</span><div class="e" lang="la"><p class="cont">Adami peccatum per Pomum esse Allegoricum. Mulierem esse sensus corporeos, pomum species, quae Adamo intellectui afferuntur et objiciuntur. Parentum virtutes ad posteros non traducuntur, nec ergo peccata.</p></div></section>
+<section class="card mono" id="c172"><span class="pg">p. 298 Octavius:</span><div class="e" lang="la"><p class="cont">ICti obligationes ex contractu non vero ex delicto putant transire ad haeredes. Et licet praeterea liberis eadem damnosa parentum haereditate abstinere.</p></div></section>
+<section class="card mono" id="c173"><span class="pg">p. 302f. Toralba:</span><div class="e" lang="la"><p>Disserit pro Pelagio contra peccatum originis. Peccatum transfusum vel per corpus, vel per animam. Non per corpus[,] in id enim peccatum non cadit, non per animam, ea enim a DEo creatur. E. non transfunditur. Ipse Aristoteles dicit lib. de generatione animalium mentem ϑεῖόv τι εἶναι et extrinsecus advenire. Si dicis animam conspurcari per corpus, ineptum, quia corporis in animam nulla actio.</p></div></section>
+<section class="card mono" id="c174"><span class="pg">p. 303f. Octavius:</span><div class="e" lang="la"><p class="cont">Nullum est peccatum originis, si infantibus sine baptismo mortuis nulla poena irrogatur. Martyres illos infantes prae aliis non habere privilegium, cum enim voluntas in iis non fuerit pro Christo moriendi, non magis beati censendi, quam qui morte et cruciatu gravissimo ne baptizarentur sunt intercepti.</p></div></section>
+<section class="card mono" id="c175"><span class="pg">p. 304f. Toralba:</span><div class="e" lang="la"><p class="cont">Socrates est Martyr, et Erasmus ajebat: Parum abest quin dicam: S. Socrates ora pro nobis.</p></div></section>
+<section class="card mono" id="c176"><span class="pg">p. 305 Coronaeus:</span><div class="e" lang="la"><p class="cont">Melius dicitur peccati originalis aliquid post baptismum reliquum esse, quam hominem restitui ad justitiam originalem. Tollitur Reatus peccati originis, non ipsum.</p></div></section>
+<section class="card mono" id="c177"><span class="pg">p. 306—309 Salomo:</span><div class="e" lang="la"><p class="cont">Cum dicitur Adamum ligno vitae frui, intellige: poenitentia ad se rediisse. Cur pii veteris testamenti DEo tam grati sine Christo, si peccatum in iis originale. Nihil ineptius esse quam sanctissimas animas apud inferos latuisse 3000 annis donec nascente Jesu extraherentur.</p></div></section>
+<section class="card mono" id="c178"><span class="pg">p. 309 Fridericus:</span><div class="e" lang="la"><p class="cont">Esdra lib. 4. c. 7. exclamat: o Adam quid fecisti. Agnoscit ergo peccatum originis.</p></div></section>
+<section class="card mono" id="c179"><span class="pg">p. 209 Salomo:</span><div class="e" lang="la"><p class="cont">Sed illi duo libri Esdrae posterioresApocryphi.</p></div></section>
+<section class="card mono" id="c180"><span class="pg">p. 310 Curtius:</span><div class="e" lang="la"><p class="cont">Ad Rom. 5. mortem ab Adamo ad Moysen regnasse in iis quoque qui propter Adami transgressionem non peccarant.26</p></div></section>
+<section class="card mono" id="c181"><span class="pg">p. 311 Salomo:</span><div class="e" lang="la"><p class="cont">Paulus scribit qui Legem Divinam exequuntur Legis actionibus justificari.</p></div></section>
+<section class="card mono" id="c182"><span class="pg">p. 313 Toralba:</span><div class="e" lang="la"><p class="cont">Si deest nobis potestas bene agendi, deest libertas omnino, et est necessitas male agendi.</p></div></section>
+<section class="card mono" id="c183"><span class="pg">p. 314 Senamus:</span><div class="e" lang="la"><p class="cont">DEus non tollit providentia liberam arbitrium, quia non solum factum sed et libertatem eiusque se determinandi potentiam prospicit.</p><p>26 NB.</p></div></section>
+<section class="card mono" id="c184"><span class="pg">p. 315 Salomo:</span><div class="e" lang="la"><p class="cont">Perditio tua ex Te, salus ex me. Os. c. 13. Inepta interpretatio: ad 1. Tim. 2. DEus vult omnes salvos fieri. Omnes, id est electos. Qui autem electi? Quos vult salvos fieri. Ita orietur inepta reduplicatio: DEus vult salvos fieri omnes quos vult salvos fieri. Similiter ad Joh. 1. DEus illustrat omnem venientem in hunc mundum, id explicant: illustrat omnem, quem illustrat. Pet. Lombard. lib. [1.] sent. dist. 46.</p></div></section>
+<section class="card mono" id="c185"><span class="pg">p. 316 Salomo:</span><div class="e" lang="la"><p class="cont">DEum Jacobum dilexisse, Esauum odio habuisse[,] Paulum adjecisse de suo, non ex V.T. sumsisse.</p></div></section>
+<section class="card mono" id="c186"><span class="pg">p. 317 Fridericus:</span><div class="e" lang="la"><p class="cont">Esau odio habui, de quo Malach, intelligendum: minus beavi.</p></div></section>
+<section class="card mono" id="c187"><span class="pg">p. 319 Octavius:</span><div class="e" lang="la"><p class="cont">Mahumetani Calvinianis circa absolutum decretum consentiunt.</p></div></section>
+<section class="card mono" id="c188"><span class="pg">p. 320 Coronaeus:</span><div class="e" lang="la"><p class="cont">Irrationabile dictum Augustini nihil proficere praeclaras actiones, quae fidem anteeunt, sed quae sequuntur.</p></div></section>
+<section class="card mono" id="c189"><span class="pg">p. 321 Fridericus:</span><div class="e" lang="la"><p>Cum Carolo V. Ratisbonae disputationem instituente 6 Theologi jurati colloquerentur tres Lutherani pertraxere in sententiam Pflugium, Fabrum et Gropperum Catholicos, quod homines sine operibus fide justificarentur, et idem ipsi Cardinali Contareno persuaserunt. Eckius unus ex Catholicis tanta in Collegas ira exarsit, ut persuaderet Carolo V. solvere disputationem: Contarenus ipse non sine veneni suspicione paulo post interiit.</p></div></section>
+<section class="card mono" id="c190"><span class="pg">p. 323 Salomo:</span><div class="e" lang="la"><p class="cont">Nulla cadit in hominem justificatio, quia DEus solus justus Ecclesiast. c. 18. Omnia impura Genes. c. 6. Job. c. 1. Igitur Johanni non assentiendum qui Ep. 1. c. 3. scribit: si DEus apparuerit similes ei futuri sumus.</p></div></section>
+<section class="card mono" id="c191"><span class="pg">p. 324 Fridericus:</span><div class="e" lang="la"><p class="cont">Officio nulla merces debetur, igitur nemo actionibus justificatur,</p></div></section>
+<section class="card mono" id="c192"><span class="pg">p. 324 f. Salomo:</span><div class="e" lang="la"><p class="cont">sed nec inani (hypocritarum) credulitate in Jesum mortuum. DEus homini debitor non est, sed quae promisit dignitatis suae causa solvit.</p></div></section>
+<section class="card mono" id="c193"><span class="pg">p. 326 Octavius:</span><div class="e" lang="la"><p class="cont">Cum Angeli quoque et sidera impura sint apud DEum, etiam in illis erit peccatum originis, si impuritas in homine efficit peccatum originis.</p></div></section>
+<section class="card mono" id="c194"><span class="pg">p. 327 Salomo:</span><div class="e" lang="la"><p>Nihil Divinae [Legi] magis contrarium, quam DEum jussisse, quae impleri non possent. Ad Ebraeos c. 10. est horribilis locus si volentes peccavimus post cognitionem veritatis, nulla restat amplius hostia pro peccatis, sed formidabilis expectatio judicii.</p></div></section>
+<section class="card mono" id="c195"><span class="pg">p. 327 Senamus:</span><div class="e" lang="la"><p class="cont">Ob quem locum quidam Epistolam ad Ebraeos plane abjiciunt.</p></div></section>
+<section class="card mono" id="c196"><span class="pg">p. 327 Fridericus:</span><div class="e" lang="la"><p class="cont">Respondetur id ὑπεϱβολιϰῶς dictum.</p></div></section>
+<section class="card mono" id="c197"><span class="pg">p. 328—330 Salomo:</span><div class="e" lang="la"><p class="cont">Praecepta Evangelica Christi sunt lege Divina difficiliora, nec a quoquam implebilia ut Trypho</p></div></section>
+<section class="card mono" id="c198"><span class="pg">p. 142</span><div class="e" lang="la"><p class="cont">Justino in Dialogo objecit. Levit. 16. sacerdos jubetur ab uxore abstinere triduo ante expiationis diem. Paul. ad Philipp. c. 3. dicit se justitia legis irreprehensibilem fuisse, et Lucae c. i. dicitur hoc de Zacharia, quomodo igitur Lex impleri non potest ? Augustinus ad Januarium dicit [r]ituum multitudine factum, ut Judaeorum multo quam Christianorum deterior sit Conditio. Divortia omnino reduci debere, ob venenorum et adulteriorum periculum. In quo etiam patet difficiliorem esse Christianorum quam Moysis Legem.</p></div></section>
+<section class="card mono" id="c199"><span class="pg">p. 332 Curtius:</span><div class="e" lang="la"><p class="cont">Epiphanius contra haereses, ubi contra Collyridianos: si Angelos colere prohibemur, quanto magis Mariam Annae filiam.27</p></div></section>
+<section class="card mono" id="c200"><span class="pg">p. 332—334 Fridericus:</span><div class="e" lang="la"><p class="cont">Incongruum Angelis et Sanctis dare δουλεῖαν seu servitutem, DEo Latriam seu cultum; Cum plus sit Servitus cultu. Igitur Augustinus[:] honoramus sanctos caritate non servitute, contra Epistolam Pelagii [ad] Bonifatium lib. 3. c. 8. Ex illa Conditionali: apud Hieremiam [15.] Si starent Moses et Samuel coram me et orarent pro vobis: probatur eos non orasse pro populo suo tunc. Si vero unquam hoc facerent, cur non maxime eo tempore quo urbs gravissime laborabat, populus erat excidio propinquus.</p></div></section>
+<section class="card mono" id="c201"><span class="pg">p. 335 Octavius:</span><div class="e" lang="la"><p class="cont">Graeci quo tempore celebratur Visitatio Mariae apud Latinos, eo ipsi colunt Zonam Virginis inBlachemis28, quae aedes erat Constantinopoli asservata, quo nihil absurdius factum ab Ethnicis.</p></div></section>
+<section class="card mono" id="c202"><span class="pg">p. 337 Octavius:</span><div class="e" lang="la"><p class="cont">Quidam Sciolus tempore consecrationis dicebat: haec sunt corpora mea, multas enim Crustulas simul consecrabat. Quid absurdius illis verbis qui creavit me, creatur mediante me. Posteritas aliquando hanc insaniam non credet. Quid magis supra Ethnicorum Deorum multitudinem29 multa rerum millia posse uno momento deificari, consecrante sacrificulo.</p></div></section>
+<section class="card mono" id="c203"><span class="pg">p. 338 Salomo:</span><div class="e" lang="la"><p class="cont">Quid absurdius quam etiam ab intentione sacerdotis rem pendere, si sceleratissimus aliquis nebulo voluerit: hoc frustum DEus erit.</p></div></section>
+<section class="card mono" id="c204"><span class="pg">p. 338 Senamus:</span><div class="e" lang="la"><p class="cont">Unde quidam Theologus Astesanus30 solebat docere corpus Christi conditionaliter adorandum. Si tu es DEus adoro te, si non es, non adoro.</p></div></section>
+<section class="card mono" id="c205"><span class="pg">p. 338 Curtius:</span><div class="e" lang="la"><p class="cont">Unde anno 1548 sub Henrico II.</p><p>27 NB.</p></div></section>
+<section class="card mono" id="c206"><span class="pg">p. 143</span><div class="e" lang="la"><p class="cont">quidam flammis consumtus est, qui non consecraverat, et deinde jactaverat, se totum populum decepisse ad idololatriam.</p></div></section>
+<section class="card mono" id="c207"><span class="pg">p. 340 Toralba:</span><div class="e" lang="la"><p class="cont">Uti Creatura incapax DEitatis ita et aeterni cruciatus.</p></div></section>
+<section class="card mono" id="c208"><span class="pg">p. 340 Salomo:</span><div class="e" lang="la"><p class="cont">Si peccatum in Spiritum S. non remittitur, sed peccatum in patrem et filium erit major Patre et filio.</p></div></section>
+<section class="card mono" id="c209"><span class="pg">p. 340 Toralba:</span><div class="e" lang="la"><p class="cont">Si nihil est sempiternum praeter DEum nec poena datur sempiterna. Nulla unquam Gens praeter Christianos credidit poenas aeternas.</p></div></section>
+<section class="card mono" id="c210"><span class="pg">p. 342 Senamus:</span><div class="e" lang="la"><p class="cont">Sempiterna supplicia esse ad improborum terrorem.</p></div></section>
+<section class="card mono" id="c211"><span class="pg">p. 342f. Toralba:</span><div class="e" lang="la"><p class="cont">Si peccata ideo infinita, quia in DEum erunt omnia omnibus aequalia, quia infinitum infinito aequale. Porro ita esset infinitum bonum infinito malo contrarium, et actu duo darentur infinita, eaque sibi contraria[,] DEus causa boni, et aliud, causa peccati. Cumque contraria sint in eodem genere utrumque substantia erit. Si omnia peccata aeterna morte puniuntur, erunt omnia aequalia.</p></div></section>
+<section class="card mono" id="c212"><span class="pg">p. 344 Senamus:</span><div class="e" lang="la"><p class="cont">Occidentales-Indi putant praeter coelum et Gehennam esse purgatorium, quod sit frigidissimum, et quia frigus non consumit[,] congruentius ideo ponitur, quam ignis.</p></div></section>
+<section class="card mono" id="c213"><span class="pg">p. 346f. Salomo:</span><div class="e" lang="la"><p class="cont">Judaeus ibi putat poenitentiam in extremo etiam veram non juvare, et qui juste vixit et forte in adulterio deprehensus occidatur, hoc ei parum nocere. Execrabile esse quod homines, Sacerdotes Romanenses arrogant sibi potestatem remittendi peccata.</p></div></section>
+<section class="card mono" id="c214"><span class="pg">p. 347 Curtius:</span><div class="e" lang="la"><p class="cont">Ignis purgatorum est perinde ac si quem ad solemnia nuptiarum invitasti velis prius crudelissime torquere.</p></div></section>
+<section class="card mono" id="c215"><span class="pg">p. 348 Salomo:</span><div class="e" lang="la"><p class="cont">DEus Num. [14.] ignovit populo, et tamen punivit omnes morte in solitudine praeter duos. Similiter Regum lib. [2.] Davidi ignovit et tamen morte filii punit.</p></div></section>
+<section class="card mono" id="c216"><span class="pg">p. 350:</span><div class="e" lang="la"><p class="cont">Toralba putat dari purgationem animarum post mortem, sed non preces hic quicquam pro defunctis juvare.</p></div></section>
+<section class="card mono" id="c217"><span class="pg">p. 350 Salomo:</span><div class="e" lang="la"><p class="cont">Et Legibus divinis constat peccata tantum per imprudentiam sacrificiis expiari. Judaei libb. Maccabaeorum parum morantur. Optamus quidem bona defunctis, quemadmodum et de praeteritis optamus, non quod votis nostris quicquam efficere velimus.</p></div></section>
+<section class="card mono" id="c218"><span class="pg">p. 351 Toralba:</span><div class="e" lang="la"><p class="cont">Dissentiunt: Damascenus a Chrysostomo, Cyprianus a Tertulliano, Epiphanius ab Eusebio, Hieronymus ab Augustino, Origenes ab omnibus, Abailardus a Bernardo, Thomas a Scoto, Henricus a Durando, Albertus ab Henrico, Lutherus a Zwinglio, Calvinus a Stancaro, Beza a Castalione.</p></div></section>
+</main><div class="hdl r" data-for="cm"></div><aside class="an-gutter"></aside></div></div><script>
+{(function(){const pg=document.querySelector('.page');if(!pg)return;const st=k=>{try{return localStorage.getItem(k)}catch(e){return null}};const sv=(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}};
+ const tog=document.getElementById('tog');const setSide=on=>{document.body.classList.toggle('noside',!on);sv('fe-side',on?'on':'off');if(tog)tog.title=(on?'hide':'show')+' the contents (press c)';window.dispatchEvent(new Event('resize'))};
+ setSide(st('fe-side')!=='off');if(tog)tog.onclick=()=>setSide(document.body.classList.contains('noside'));
+ document.addEventListener('keydown',e=>{if(e.key==='c'&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName))setSide(document.body.classList.contains('noside'))});
+ const w0=st('fe-side-w'),w1=st('fe-cm-w');if(w0)pg.style.setProperty('--side-w',w0+'px');if(w1)pg.style.setProperty('--cm-w',w1+'px');
+ document.querySelectorAll('.hdl').forEach(h=>{h.addEventListener('mousedown',e=>{e.preventDefault();const side=h.dataset.for==='side';const x0=e.clientX;const cur=parseFloat(getComputedStyle(pg).getPropertyValue(side?'--side-w':'--cm-w'))||(side?250:300);
+  h.classList.add('on');document.body.classList.add('resizing');
+  const mv=ev=>{const d=ev.clientX-x0;const w=Math.max(120,Math.min(700,side?cur+d:cur-d));pg.style.setProperty(side?'--side-w':'--cm-w',w+'px')};
+  const up=()=>{document.removeEventListener('mousemove',mv);document.removeEventListener('mouseup',up);h.classList.remove('on');document.body.classList.remove('resizing');sv(side?'fe-side-w':'fe-cm-w',parseFloat(getComputedStyle(pg).getPropertyValue(side?'--side-w':'--cm-w')));window.dispatchEvent(new Event('resize'))};
+  document.addEventListener('mousemove',mv);document.addEventListener('mouseup',up)})})})();
+(()=>{const tp=document.querySelector('.top');if(!tp)return;const f=()=>document.documentElement.style.setProperty('--top-h',tp.offsetHeight+'px');f();if('ResizeObserver' in window)new ResizeObserver(f).observe(tp,{box:'border-box'});else window.addEventListener('resize',f)})();
+const links=[...document.querySelectorAll('.side a[href^="#"]')];
+// scroll-spy: the lit entry is the last heading whose top is at or above the bar's bottom plus the click margin (.card scroll-margin, .6rem) plus 2px, so a heading a click just brought to its margin counts as reached; none is lit above the first heading. At the bottom of the page the last headings cannot be scrolled up to the margin, so there a heading that the address names (a click or a deep link; a click that needs no scrolling only changes the address, hence the hashchange listener) and that is in view below the threshold is lit instead; scrolling up off the bottom restores the rule. The headings' tops grow in document order, so a binary search finds it; a heading with no box (hidden edition or column) is passed over to the next one that has one.
+if(links.length){const hs=links.map(a=>document.getElementById(a.getAttribute('href').slice(1))),tp=document.querySelector('.top'),sd=links[0].closest('.side');let cur=null,busy=false;
+ const run=()=>{busy=false;const rem=parseFloat(getComputedStyle(document.documentElement).fontSize)||16,T=(tp?tp.getBoundingClientRect().bottom:0)+Math.max(8,.6*rem)+2;let lo=0,hi=hs.length-1,at=-1;
+  while(lo<=hi){const m=(lo+hi)>>1;let j=m;while(j<=hi&&(!hs[j]||!hs[j].getClientRects().length))j++;if(j>hi){hi=m-1;continue}if(hs[j].getBoundingClientRect().top<=T){at=j;lo=j+1}else hi=m-1}
+  if(scrollY+innerHeight>=document.documentElement.scrollHeight-2){const k=links.findIndex(l=>l.getAttribute('href')===location.hash);if(k>=0&&hs[k]&&hs[k].getClientRects().length){const y=hs[k].getBoundingClientRect().top;if(y>T&&y<innerHeight)at=k}}
+  const a=at<0?null:links[at];if(a===cur)return;if(cur)cur.classList.remove('on');cur=a;if(!a)return;a.classList.add('on');const r=a.getBoundingClientRect(),b=sd.getBoundingClientRect();if(r.top<b.top||r.bottom>b.bottom)sd.scrollTop+=r.top-b.top-sd.clientHeight/3};
+ const ask=()=>{if(!busy){busy=true;requestAnimationFrame(run)}};window.addEventListener('scroll',ask,{passive:true});window.addEventListener('resize',ask);window.addEventListener('hashchange',ask);run()}
+const q=document.getElementById('q');if(q){const main=document.querySelector('main'),info=document.getElementById('qn'),res=document.getElementById('qres');
+ const HL=window.CSS&&CSS.highlights&&window.Highlight,MAXHL=3000,MAXLIST=200;let hits=[],at=-1,tm=0;
+ const esc=x=>x.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+ const index=()=>[...main.querySelectorAll('.card')].map(c=>{const w=document.createTreeWalker(c,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest('.pg')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});let s='',map=[],n;while((n=w.nextNode())){map.push([s.length,n]);s+=n.data}
+  const l=s.toLowerCase(),pg=c.querySelector('.pg'),h=c.querySelector('h2,h3,h4');return{c,s,l:l.length===s.length?l:s,map,lab:pg?pg.textContent:(h?h.textContent:'')}});
+ const pos=(map,k,end)=>{let lo=0,hi=map.length-1;while(lo<hi){const m=(lo+hi+1)>>1;if(end?map[m][0]<k:map[m][0]<=k)lo=m;else hi=m-1}return[map[lo][1],k-map[lo][0]]};
+ const range=h=>{const r=document.createRange(),a=pos(h.d.map,h.i,0),b=pos(h.d.map,h.i+h.n,1);r.setStart(a[0],a[1]);r.setEnd(b[0],b[1]);return r};
+ const clear=()=>{hits=[];at=-1;if(HL){CSS.highlights.delete('fe-hit');CSS.highlights.delete('fe-cur')}info.textContent='';res.innerHTML='';main.querySelectorAll('.qcur').forEach(c=>c.classList.remove('qcur'))};
+ function run(cid){clear();const t=q.value.trim().toLowerCase();if(t.length<2)return;const pages=new Set();
+  index().forEach(d=>{let i=d.l.indexOf(t);while(i>-1){hits.push({d,i,n:t.length});pages.add(d.c);i=d.l.indexOf(t,i+t.length)}});
+  if(!hits.length){info.textContent='no matches in this text';return}
+  if(HL&&hits.length<=MAXHL)CSS.highlights.set('fe-hit',new Highlight(...hits.map(range)));
+  res.innerHTML=hits.slice(0,MAXLIST).map((h,k)=>{const s=h.d.s,a=Math.max(0,h.i-45),b=Math.min(s.length,h.i+h.n+45);
+   return '<a href="#" data-k="'+k+'"><span class="ql">'+esc(h.d.lab)+'</span>'+(a?'…':'')+esc(s.slice(a,h.i))+'<b>'+esc(s.slice(h.i,h.i+h.n))+'</b>'+esc(s.slice(h.i+h.n,b))+(b<s.length?'…':'')+'</a>'}).join('')
+   +(hits.length>MAXLIST?'<p class="qmore">'+(hits.length-MAXLIST)+' more — use ↓ / Enter to step through them</p>':'');
+  const k0=cid?hits.findIndex(h=>h.d.c.id===cid):0;go(Math.max(0,k0),pages.size)}
+ function go(k,np){if(!hits.length)return;at=(k+hits.length)%hits.length;const h=hits[at],r=range(h);
+  if(HL)CSS.highlights.set('fe-cur',new Highlight(r));main.querySelectorAll('.qcur').forEach(c=>c.classList.remove('qcur'));if(!HL)h.d.c.classList.add('qcur');
+  info.dataset.pages=np||info.dataset.pages;info.textContent=(at+1)+' of '+hits.length+' matches · '+info.dataset.pages+' page'+(info.dataset.pages==1?'':'s');
+  res.querySelectorAll('a.on').forEach(a=>a.classList.remove('on'));const a=res.querySelector('a[data-k="'+at+'"]');if(a){a.classList.add('on');res.scrollTop=a.offsetTop-res.offsetTop-res.clientHeight/2}
+  const y=r.getBoundingClientRect().top+window.scrollY-window.innerHeight/3;window.scrollTo({top:Math.max(0,y),behavior:'instant'})}  // smooth scrolling gets cut off on long texts
+ q.addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(run,250)});
+ q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();clearTimeout(tm);if(!hits.length||at<0)run();else go(at+(e.shiftKey?-1:1))}else if(e.key==='Escape'){q.value='';clear()}});
+ document.getElementById('qprev').onclick=()=>go(at-1);document.getElementById('qnext').onclick=()=>go(at+1);
+ const q0=new URLSearchParams(location.search).get('q');if(q0){q.value=q0;setTimeout(()=>run(decodeURIComponent(location.hash.slice(1))),80)}   // opened at a term (?q=…) from the library's search or the map; with #card, at its hit there
+ res.addEventListener('click',e=>{const a=e.target.closest('a[data-k]');if(a){e.preventDefault();go(+a.dataset.k)}});
+ document.addEventListener('keydown',e=>{if(e.key==='/'&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName)&&!e.target.isContentEditable){e.preventDefault();const tg=document.getElementById('tog');if(document.body.classList.contains('noside')&&tg)tg.click();q.focus();q.select()}})}}
+
+(function(){const d=document.documentElement,sv=(k,v)=>{try{v==null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch(e){}};
+ const mq=matchMedia('(prefers-color-scheme: dark)'),dark=()=>d.dataset.theme?d.dataset.theme==='dark':mq.matches,th=document.getElementById('theme');
+ const showT=()=>{if(!th)return;const k=dark();th.textContent=k?'☀':'☾';th.title=(k?'light':'dark')+' mode (d)'};
+ const flip=()=>{const t=dark()?'light':'dark',sys=t===(mq.matches?'dark':'light');if(sys)delete d.dataset.theme;else d.dataset.theme=t;sv('iwg-theme',sys?null:t);showT()};
+ if(th)th.onclick=flip;mq.addEventListener('change',showT);showT();
+ const aa=document.getElementById('fs0');let fs=parseFloat(getComputedStyle(d).getPropertyValue('--fs'))||1;
+ const setF=v=>{fs=Math.min(1.8,Math.max(.7,Math.round(v*10)/10));d.style.setProperty('--fs',fs);sv('iwg-fs',fs===1?null:fs);if(aa)aa.textContent=Math.round(fs*100)+'%';window.dispatchEvent(new Event('resize'))};
+ if(aa){aa.textContent=Math.round(fs*100)+'%';aa.onclick=()=>setF(1);document.getElementById('fs-').onclick=()=>setF(fs-.1);document.getElementById('fs+').onclick=()=>setF(fs+.1)}
+ document.addEventListener('keydown',e=>{const t=e.target;if(e.metaKey||e.ctrlKey||e.altKey||/^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName)||t.isContentEditable)return;
+  if(e.key==='d'&&th)flip();else if(aa&&(e.key==='+'||e.key==='='))setF(fs+.1);else if(aa&&(e.key==='-'||e.key==='_'))setF(fs-.1);else if(aa&&e.key==='0')setF(1)});
+})();
+// The print of a text page (the PDF menu, or the browser's own print). reader.py puts this file into every text page.
+// The page is never printed as it stands: on `beforeprint` its text is copied into div.ppd, where
+//   - a paragraph cut at a source page turn for the screen (p.cont) is one paragraph again, with a bar in the text at the
+//     turn and the page's number in the outer margin;
+//   - the copy is laid out at the print's width, measured line by line and set into page boxes (div.pb), each as tall as
+//     the sheet's text block, with the notes called on that page at its foot, per column. Every page break is made here,
+//     so the browser decides none and no note can force one.
+// The live page is not touched; the copy is removed on `afterprint`. If a page box does not hold what was measured for
+// it, the copy is rebuilt without boxes, notes under their rows (also the layout when anything here fails).
+(function(){const D=document,B=D.body,btn=D.getElementById('pdf'),menu=D.getElementById('pdfmenu'),main=D.querySelector('main'),pt=D.querySelector('.ptitle');if(!main)return;
+ const cards=()=>[...main.querySelectorAll(':scope>section.card')];
+ const el=(t,c)=>{const e=D.createElement(t);if(c)e.className=c;return e};
+ // the text size of the print (--pfs, a factor on the print's base size), kept in this browser; Cmd+P honours it too
+ const st=k=>{try{return localStorage.getItem(k)}catch(e){return null}},sv=(k,v)=>{try{v==null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch(e){}};
+ let pfs=parseFloat(st('iwg-pfs'))||1;const pv=menu&&menu.querySelector('.pdfv');
+ const setP=(v,keep=true)=>{pfs=Math.min(1.6,Math.max(.8,Math.round(v*10)/10));D.documentElement.style.setProperty('--pfs',pfs);if(keep)sv('iwg-pfs',pfs===1?null:pfs);if(pv)pv.textContent=Math.round(pfs*100)+'%'};
+ setP(pfs,false);
+ const lv=e=>/^H[2-6]$/.test(e.tagName)?+e.tagName[1]:0;
+ // whole-text print: new pages for a printed contents and the card after it, and each chapter-level heading (the highest
+ // level the text has) once 800 characters have come since the last new page, so short front matter (a cover's OCR lines)
+ // shares a page; a heading at the top of its card breaks before the card
+ const breaks=()=>{D.querySelectorAll('.pp-nb').forEach(e=>e.classList.remove('pp-nb'));if(pt&&pt.classList.contains('compact'))return;
+  const cs=cards(),hs=[...main.querySelectorAll('section.card :is(h2,h3,h4,h5,h6)')];
+  const n={};hs.forEach(h=>n[lv(h)]=(n[lv(h)]||0)+1);const ls=Object.keys(n).map(Number).sort(),top=ls.find(l=>n[l]>1)||ls[0]||0,ch=hs.filter(h=>lv(h)===top);
+  const lead=(h,c)=>{const r=D.createRange();r.setStart(c,0);r.setEndBefore(h);const f=r.cloneContents();f.querySelectorAll('.pg,.pg-in').forEach(x=>x.remove());return!f.textContent.trim()};
+  let from=cs[0];
+  ch.forEach(h=>{const c=h.closest('section.card'),at=lead(h,c)?c:h;if(!from)return;
+   const r=D.createRange();r.setStartBefore(from);r.setEndBefore(at);if(r.toString().trim().length<800)return;
+   if(at===c)c.classList.add('pp-nb');else if(!h.closest('.row'))h.classList.add('pp-nb');else return;
+   from=at});
+  cs.forEach((c,i)=>{if(c.querySelector('.cl')){c.classList.add('pp-nb');if(cs[i+1])cs[i+1].classList.add('pp-nb')}});
+  if(cs[0])cs[0].classList.remove('pp-nb')};
+ const reset=()=>{D.querySelectorAll('.pp-out,.pp-nb').forEach(e=>e.classList.remove('pp-out','pp-nb'));if(pt){pt.classList.remove('compact');pt.querySelector('.ps').textContent=''}};
+ // what is on screen: the last card whose top is in the upper part of the window
+ const current=()=>{const cs=cards();let c=cs[0];for(const x of cs){if(x.getBoundingClientRect().top<=innerHeight*.3)c=x;else break}return c};
+ // the text in reading order: headings, rows and paragraphs (a card's page label, footnotes and notes go with their card)
+ const units=()=>{const u=[];cards().forEach(c=>{[...c.children].forEach(e=>{if(e.matches('.pg,.notes,.fnrows,.fn,.cbg'))return;
+   if(c.classList.contains('mono')&&e.matches('.e,.o'))[...e.children].forEach(x=>{if(!x.matches('.fn'))u.push([x,c])});else u.push([e,c])})});return u};
+ // the section: from the last chapter-level heading at or before the card on screen to the next heading of that level or higher
+ // or, given a heading (a click in the contents), from that heading to the next of its level or higher
+ function section(h){const u=units();let s=-1;
+  if(h)s=u.findIndex(([e])=>e===h);
+  else{const cur=current();if(!cur)return null;const at=u.findIndex(([,c])=>c===cur);if(at<0)return null;
+   const n={};u.forEach(([e])=>{const l=lv(e);if(l)n[l]=(n[l]||0)+1});const ls=Object.keys(n).map(Number).sort();if(!ls.length)return null;
+   const top=ls.find(l=>n[l]>1)||ls[0];for(let i=at;i>=0;i--){const l=lv(u[i][0]);if(l&&l<=top){s=i;break}}}
+  if(s<0)return null;
+  const L=lv(u[s][0]);let e=u.length;for(let i=s+1;i<u.length;i++){const l=lv(u[i][0]);if(l&&l<=L){e=i;break}}
+  return{u,s,e,title:u[s][0].textContent.trim()}}
+ function scope(k,h){reset();if(k==='all')return;
+  if(k==='page'){const c=current();if(!c)return;if(pt)pt.classList.add('compact');cards().forEach(x=>{if(x!==c)x.classList.add('pp-out')});const l=c.querySelector(':scope>.pg');if(pt)pt.querySelector('.ps').textContent=l?l.textContent:'';return}
+  const r=section(h);if(!r)return;const keep=new Set();if(pt)pt.classList.add('compact');
+  r.u.forEach(([e,c],i)=>{if(i<r.s||i>=r.e)e.classList.add('pp-out');else keep.add(c)});
+  cards().forEach(c=>{if(!keep.has(c))c.classList.add('pp-out');else{const f=r.u.find(([,x])=>x===c);const l=c.querySelector(':scope>.pg');if(l&&f&&f[0].classList.contains('pp-out'))l.classList.add('pp-out')}});
+  if(pt)pt.querySelector('.ps').textContent=r.title}
+ // EB Garamond for the print (Google Fonts, asked for when the PDF menu opens; every style, for every character of the text).
+ // A print that starts before the face is there (Cmd+P without the menu, no network) is set in the local serif throughout:
+ // the copy is measured and printed in one face, never measured in one and printed in another.
+ const FACES=['400 10pt "EB Garamond"','italic 400 10pt "EB Garamond"','600 10pt "EB Garamond"','italic 600 10pt "EB Garamond"'];
+ let sample='';const chars=()=>sample||(sample=[...new Set(main.textContent)].join(''));
+ function font(){let l=D.getElementById('ppfont');if(!l){l=el('link');l.id='ppfont';l.rel='stylesheet';
+   l.href='https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap';D.head.appendChild(l)}
+  const load=()=>Promise.all(FACES.map(f=>D.fonts.load(f,chars()))).catch(()=>0);
+  const ready=new Promise(r=>{if(l.sheet)load().then(r);else{l.addEventListener('load',()=>load().then(r));l.addEventListener('error',r)}});
+  return Promise.race([ready,new Promise(r=>setTimeout(r,6000))])}
+ const fontReady=()=>{const l=D.getElementById('ppfont');try{return!!(l&&l.sheet)&&FACES.every(f=>D.fonts.check(f,chars()))}catch(e){return false}};
+
+ // ---- the copy ----
+ let ppd=null,rep=null;
+ const cleanup=()=>{if(ppd){ppd.remove();ppd=null}};
+ const fmt=s=>s.trim().replace(/^\[|\]$/g,'').replace(/^p\.\s*/,'');
+ // a page mark of the copy: a bar in the text (none where the page begins with the paragraph) and its number, set in the margin
+ const mkpm=(label,bar)=>{const s=el('span','pm'+(bar?'':' nobar')+(/^\[?(scan|PDF) /.test(label.trim())?' lt':'')),n=el('i','pn');n.textContent=fmt(label);s.append(n);return s};
+ const strip=e=>{e.removeAttribute('id');e.querySelectorAll('[id]').forEach(x=>x.removeAttribute('id'));return e};
+ // the text nodes of an element, without the margin numbers and note numbers the copy adds
+ // (no filter function on the walker: while a print is being made Chrome does not run such a callback, and throws)
+ const texts=e=>{const w=D.createTreeWalker(e,NodeFilter.SHOW_TEXT),a=[];let n;while(n=w.nextNode())if(!n.parentNode.closest('.pn,.nn'))a.push(n);return a};
+ const text=e=>texts(e).map(n=>n.data).join('');
+
+ function build(){
+  const biDoc=!!main.querySelector('section.card.pairs'),ned=D.querySelectorAll('.eds .ed').length;
+  const cols=ned?[...Array(ned).keys()].filter(k=>!B.classList.contains('pof'+k)).slice(0,2):biDoc?[0,1]:[0],K=cols.length;   // the columns printed
+  const colOf=d=>{const m=/(?:^|\s)c(\d+)(?:\s|$)/.exec(d.className);return cols.indexOf(m?+m[1]:biDoc?1:0)};
+  const rows=[],notes=[],lang=cols.map(()=>'');let prev=null;
+  const head=src=>{const h=strip(src.cloneNode(true));   // a heading with a part per column keeps the parts printed
+   if(h.classList.contains('hp')){let seen=false;[...h.children].forEach(s=>{const m=/(?:^|\s)c(\d+)(?:\s|$)/.exec(s.className);if(!m)return;const on=cols.includes(+m[1]);
+     if(s.classList.contains('hsep')){if(!on||!seen)s.remove()}else if(!on)s.remove();else seen=true})}
+   return h};
+  cards().forEach(c=>{if(c.classList.contains('pp-out')){prev=null;return}
+   const l0=c.querySelector(':scope>.pg'),label=l0&&!l0.classList.contains('pp-out')?l0.textContent.trim():'';
+   const dup=label&&[...c.querySelectorAll('.pg-in')].some(x=>!x.closest('.fnrows,.fn')&&x.textContent==='['+label+']');   // the page begins inside a paragraph of this card: its mark stands there
+   let pend=dup?'':label,nb=c.classList.contains('pp-nb');
+   const ctx={items:cols.map(()=>[])};     // the card's paragraphs per column, for notes placed by position (data-at)
+   const addFull=src=>{const h=head(src),r=el('div','r f');r.append(h);
+    if(pend&&lv(src)){if(K>1){const m=mkpm(pend,false);m.classList.add('rt');h.prepend(m)}h.prepend(mkpm(pend,false));pend=''}
+    rows.push({el:r,full:true,head:lv(src)>0,cells:[r],nb:nb||src.classList.contains('pp-nb')});nb=false;prev=null};
+   const addRow=(src,forced)=>{const cl=src.map(a=>a.map(b=>lv(b)?head(b):strip(b.cloneNode(true))));if(forced)nb=true;
+    cl.forEach((a,x)=>a.forEach(b=>{if(!lv(b))ctx.items[x].push(b)}));
+    if(prev&&!nb&&cl.some(a=>a.length)&&cl.every(a=>!a.length||a[0].matches('p.cont'))){let joined=false;   // the paragraph goes on: one paragraph again
+     cl.forEach((a,x)=>{if(!a.length)return;const t=prev.cells[x].lastElementChild;if(!t||t.tagName!=='P'||t.classList.contains('sep'))return;
+      const p=a.shift(),j=p.dataset.j,bar=pend?mkpm(pend,true):null;if(!j)t.append(' ');
+      const tail=t.lastChild,first=p.firstChild;if(bar){if(j)bar.classList.add('w');t.append(bar)}t.append(...p.childNodes);
+      if(j&&bar&&tail&&tail.nodeType===3&&tail.length&&first&&first.nodeType===3&&first.length){   // a turn inside a word: no line may break at the bar
+       const w=el('span','nb'),a1=tail.splitText(tail.length-1);first.splitText(1);bar.before(w);w.append(a1,bar,first)}
+      const k=ctx.items[x].indexOf(p);if(k>=0)ctx.items[x][k]=t;joined=true});
+     if(joined)pend=''}
+    if(cl.every(a=>!a.length))return;
+    if(pend){let put=false;cl.forEach(a=>{if(a.length&&a[0].matches('p,h2,h3,h4,h5,h6')){a[0].prepend(mkpm(pend,false));put=true}});if(put)pend=''}
+    const r=el('div','r'),cells=cl.map((a,x)=>{const d=el('div','c k'+x);if(lang[x])d.lang=lang[x];d.append(...a);r.append(d);return d});
+    rows.push(prev={el:r,cells,nb});nb=false};
+   const addNote=(p,x)=>{if(x<0)return;const n=strip(p.cloneNode(true)),t=text(n).replace(/\[(?:p\. |scan |PDF |AA |GW )[^\]]*\]/g,'');
+    if(n.classList.contains('cont')){let q=null;for(let i=notes.length-1;i>=0&&!q;i--)if(notes[i].x===x)q=notes[i];     // a note that runs over the page turn: one note again
+     if(q){const j=n.dataset.j,bar=label?mkpm(label,true):null;if(!j)q.el.append(' ');if(bar){if(j)bar.classList.add('w');q.el.append(bar)}q.el.append(...n.childNodes);q.t+=t;return}
+     n.classList.remove('cont')}
+    if(p.dataset.n){const s=el('sup','nn');s.textContent=p.dataset.n;n.prepend(s);n.classList.add('nq')}
+    notes.push({el:n,x,f:p.dataset.f,at:p.dataset.at,ctx,t})};
+   [...c.children].forEach(e=>{if(e.matches('.pg,.cbg,.notes'))return;
+    if(e.matches('.fnrows')){e.querySelectorAll(':scope>.row>div').forEach(d=>[...d.children].forEach(p=>addNote(p,colOf(d))));return}
+    if(c.classList.contains('mono')&&e.matches('.e,.o')){const x=colOf(e);if(x<0)return;if(e.lang&&!lang[x])lang[x]=e.lang;
+     [...e.children].forEach(b=>{if(b.matches('.fn')){[...b.children].forEach(p=>addNote(p,x));return}
+      if(b.classList.contains('pp-out')){prev=null;if(!lv(b))ctx.items[x].push(null);return}
+      if(lv(b)&&K===1)addFull(b);else addRow(cols.map((_,i)=>i===x?[b]:[]),b.classList.contains('pp-nb'))});return}
+    if(e.classList.contains('pp-out')){prev=null;if(e.matches('.row'))[...e.children].forEach(d=>{const x=colOf(d);if(x>=0)ctx.items[x].push(...Array(d.children.length).fill(null))});return}
+    if(e.matches('.row')){const src=cols.map(()=>[]);[...e.children].forEach(d=>{const x=colOf(d);if(x>=0){src[x]=[...d.children];if(d.lang&&!lang[x])lang[x]=d.lang}});addRow(src);return}
+    addFull(e)})});
+  const root=el('div','ppd '+(K>1?'bi':'mo'));root.style.setProperty('--k',K);if(!fontReady())root.classList.add('nof');
+  if(pt&&pt.classList.contains('compact')){   // a section or a page: a short head, no title page
+   const g=s=>{const x=pt.querySelector(s);return x?x.textContent.trim():''},r=el('div','r f'),d=el('div','ptc'),a=el('span'),i=el('i'),ps=el('b');
+   a.textContent=g('.pa')?g('.pa')+', ':'';i.textContent=g('h1');const z=el('span');z.textContent=(g('.py')?' '+g('.py'):'')+(K>1&&g('.pe')?' — '+g('.pe'):'');ps.textContent=g('.ps');
+   if(rows[0]&&rows[0].head&&rows[0].el.textContent.trim()===ps.textContent)ps.textContent='';d.append(a,i,z,ps);r.append(d);rows.unshift({el:r,full:true,head:false,cells:[r],nb:false,own:true})}
+  rows.forEach(r=>root.append(r.el));
+  // the marks inside paragraphs; marks that meet at one point share one bar and one margin line
+  [root,...notes.map(n=>n.el)].forEach(root=>{
+   root.querySelectorAll('.pg-in').forEach(s=>{const b=s.closest('p,h2,h3,h4,h5,h6,li')||s.parentNode,g=D.createRange();g.setStart(b,0);g.setEndBefore(s);
+    const f=g.cloneContents();f.querySelectorAll('.pm').forEach(x=>x.remove());const pm=mkpm(s.textContent,!lv(b)&&!!f.textContent.trim()),part=lv(b)&&s.closest('span[class]'),k=part&&/(?:^|\s)c(\d+)(?:\s|$)/.exec(part.className);if(k&&cols.indexOf(+k[1])===1)pm.classList.add('rt');s.replaceWith(pm)});
+   root.querySelectorAll('p>.pm:only-child').forEach(m=>{const p=m.parentNode,nx=p.nextElementSibling;      // a paragraph that is only a page mark: the mark goes to the paragraph after it
+    if(!text(p).trim()&&nx&&nx.matches('p,h2,h3,h4,h5,h6')){m.classList.add('nobar');nx.prepend(m);p.remove()}});
+   let last=null;[...root.querySelectorAll('.pm')].forEach(m=>{
+    if(last&&last.parentNode===m.parentNode&&last.classList.contains('rt')===m.classList.contains('rt')){let n=last.nextSibling;while(n&&n!==m&&n.nodeType===3&&!n.data.trim())n=n.nextSibling;
+     if(n===m){const a=last.firstChild,t=m.firstChild.textContent;if(!a.textContent.split(/ · |\n/).includes(t))a.textContent+=' · '+t;
+      if(a.textContent.length>18){a.textContent=a.textContent.replace(/ · /g,'\n');a.classList.add('st')}
+      if(!m.classList.contains('nobar'))last.classList.remove('nobar');if(!m.classList.contains('lt'))last.classList.remove('lt');m.remove();return}}
+    last=m});});
+  // each note's place: its call in its column, else the end of the paragraph it was set under
+  const sups=cols.map(()=>new Map());rows.forEach(r=>r.cells.forEach((cell,x)=>cell.querySelectorAll('sup.fnc[data-f]').forEach(s=>(r.full?sups:[sups[x]]).forEach(m=>{if(!m.has(s.dataset.f))m.set(s.dataset.f,s)}))));
+  notes.forEach(n=>{let a=n.f&&sups[n.x].get(n.f);
+   if(!a){const its=n.ctx.items[n.x],at=n.at!=null?its[+n.at]:undefined,it=at===null?null:at||its.filter(Boolean).pop()||n.ctx.items.flat().filter(Boolean).pop();
+    if(it&&root.contains(it)){a=el('span','na');(it.tagName==='UL'&&it.lastElementChild||it).append(a)}}
+   n.a=a||null});
+  return{root,rows,notes:notes.filter(n=>n.a),dropped:notes.filter(n=>!n.a).length,K,lang}}
+
+ // line boxes of the laid-out copy: a paragraph's lines are its height over its line height; a list's are its items
+ function measure(m){const{root,rows,notes,K}=m,cs=getComputedStyle(root),lh=parseFloat(cs.lineHeight)||parseFloat(cs.fontSize)*1.42,where=new Map();
+  rows.forEach((r,i)=>{const q=r.el.getBoundingClientRect();r.T=q.top;r.B=q.bottom;r.gb=i?q.top-rows[i-1].B:0;
+   r.A=r.cells.map(()=>[]);
+   r.L=r.cells.map((cell,x)=>{const ls=[];where.set(cell,[i,x]);
+    [...cell.children].forEach(b=>{const q=b.getBoundingClientRect();if(!q.height)return;
+     if(b.tagName==='P'&&!b.classList.contains('sep')){const n=Math.max(1,Math.round(q.height/lh));if(Math.abs(q.height-n*lh)<lh*.3){for(let k=0;k<n;k++)ls.push({t:q.top+k*lh,b:q.top+(k+1)*lh,blk:b,i:k,n});return}}
+     if(b.tagName==='UL'&&b.children.length){[...b.children].forEach((li,k)=>{const z=li.getBoundingClientRect();ls.push({t:z.top,b:z.bottom,blk:b,i:k,n:b.children.length,li})});return}
+     ls.push({t:q.top,b:q.bottom,blk:b,i:0,n:1,head:lv(b)>0})});
+    return ls});
+   r.mt=r.full&&r.L[0][0]?r.L[0][0].t-r.T:0;if(r.full&&r.L[0][0])r.L=[[{t:r.T,b:r.B,blk:r.L[0][0].blk,i:0,n:1,head:r.head}]]});
+  let FO=0,nlh=lh,ngap=0;
+  if(notes.length){const s=getComputedStyle(notes[0].el);nlh=parseFloat(s.lineHeight)||lh;ngap=parseFloat(s.marginBottom)||0;FO=notes[0].el.getBoundingClientRect().top-notes[0].el.parentNode.getBoundingClientRect().top+(parseFloat(getComputedStyle(m.mf).paddingTop)||0)}
+  notes.forEach(n=>{const q=n.el.getBoundingClientRect();n.top=q.top;n.lh=nlh;n.gap=ngap;n.L=Math.max(1,Math.round(q.height/nlh));
+   const c=n.a.closest('.c,.r.f'),w=c&&where.get(c);if(!w){n.a=null;return}
+   const ls=rows[w[0]].L[w[1]],y=n.a.getBoundingClientRect().bottom-1;let li=ls.findIndex(l=>y<l.b);if(li<0)li=ls.length-1;
+   rows[w[0]].A[w[1]].push({li,n})});
+  m.notes=notes.filter(n=>n.a);m.lh=lh;m.count=new Map();rows.forEach(r=>r.L.forEach(ls=>ls.forEach(l=>{if(!l.li)m.count.set(l.blk,l.n)})));return{lh,FO}}
+
+ // the pages. A row is cut at a line, each column at its own: a column takes lines while its text and the notes called
+ // in it fit the page, so a long note in one column does not hold back the other. A note starts on the page of its call;
+ // one too long for the room left is split (two lines at least on each side) when keeping it whole would leave more than
+ // three lines of its column empty.
+ function paginate(rows,K,HF,lh,FO){const pages=[],none=()=>Array.from({length:K},()=>[]),all=[...Array(K).keys()];let ri=0,s=null,carry=none();
+  const ok=(ls,p,s0)=>{if(p===ls.length||p===s0)return true;const a=ls[p-1],b=ls[p];if(a.blk!==b.blk)return!a.head;if(a.li)return true;
+   return(ls[s0].blk===a.blk?p-s0:a.i+1)>=2&&a.n-(a.i+1)>=2};      // no single line of a paragraph left behind or carried over
+  const fh=f=>f.reduce((a,p)=>a+(p.to-p.from)*p.n.lh+p.n.gap,0),fo=f=>f.length?fh(f)+FO:0;
+  const split=(f,room)=>{if(fo(f)<=room)return[f,[]];if(!f.length)return null;      // f with its last note cut to fit `room`, and the rest of that note
+   const p=f[f.length-1],k=Math.max(2,Math.ceil((fo(f)-room)/p.n.lh)),keep=p.to-p.from-k;if(keep<2)return null;
+   const g=f.slice(0,-1).concat({n:p.n,from:p.from,to:p.from+keep});return fo(g)<=room?[g,[{n:p.n,from:p.from+keep,to:p.to}]]:null};
+  let guard=0;
+  while((ri<rows.length||carry.some(c=>c.length))&&guard++<1e5){const pg={items:[],feet:carry,exc:false};carry=none();let used=0,first=true;const low=all.map(()=>0);
+   const room=HF-(ri<rows.length?3*lh:0);pg.feet.forEach((f,x)=>{while(f.length&&fo(f)>room){const p=f[f.length-1];let keep=p.to-p.from-Math.ceil((fo(f)-room)/p.n.lh);if(p.to-p.from-keep===1)keep--;   // a carried note that leaves the text no room
+     if(keep>=2){carry[x].unshift({n:p.n,from:p.from+keep,to:p.to});p.to=p.from+keep;break}carry[x].unshift(f.pop())}});
+   while(ri<rows.length){const r=rows[ri];if(!s)s=r.L.map(()=>0);const top=s.every(v=>!v);
+    if(r.nb&&top&&!first){pg.exc=true;break}
+    if(r.L.every((ls,c)=>s[c]>=ls.length)){ri++;s=null;continue}
+    const gap=first?0:r.gb,base=used+gap,mt=first&&top?r.mt:0;
+    const at=(c,p)=>{const ls=r.L[c],add=none();r.A[c].forEach(q=>{if(q.li>=s[c]&&q.li<p)add[q.n.x].push({n:q.n,from:0,to:q.n.L})});
+     const xs=r.full?all:[c];return{p,ext:ls[p-1].b-(top?r.T:ls[s[c]].t)-mt,xs,fs:xs.map(x=>pg.feet[x].concat(add[x])),cy:null}};
+    // each column: the furthest cut that fits with the notes called up to it, whole (a) or with the last note split (b)
+    const ch=r.L.map((ls,c)=>{let a=null,b=null;for(let p=s[c]+1;p<=ls.length;p++){if(!ok(ls,p,s[c]))continue;const v=at(c,p);if(base+v.ext>HF)break;
+      if(v.fs.every(f=>base+v.ext+fo(f)<=HF)){a=v;b=null}else{const z=v.fs.map(f=>split(f,HF-base-v.ext));if(z.every(Boolean)){v.fs=z.map(q=>q[0]);v.cy=z.map(q=>q[1]);b=v}}}
+     return{a,b}});
+    const commit=sel=>{const e=s.slice(),was=pg.feet.slice();let h=0;
+     sel.forEach((v,c)=>{if(!v)return;e[c]=v.p;h=Math.max(h,v.ext);v.xs.forEach((x,i)=>{pg.feet[x]=v.fs[i];low[x]=base+v.ext;if(v.cy)carry[x].push(...v.cy[i])})});
+     pg.items.push({ri,s,e,gap,h,was});used=base+h;first=false;return e};
+    if(ch.every((v,c)=>s[c]>=r.L[c].length||(v.a&&v.a.p===r.L[c].length))){commit(ch.map(v=>v.a));ri++;s=null;continue}
+    let sel=ch.map((v,c)=>{if(s[c]>=r.L[c].length)return null;const a=v.a,white=HF-(a?base+a.ext+Math.max(...a.fs.map(fo)):used+fo(pg.feet[c]));return v.b&&white>3*lh?v.b:a});
+    if(top&&sel.some((v,c)=>!v&&r.L[c].length))sel=sel.map(()=>null);
+    if(!sel.some(Boolean)&&first&&!pg.feet.some(f=>f.length))sel=r.L.map((ls,c)=>{if(s[c]>=ls.length)return null;let p=s[c]+1;while(p<ls.length&&!ok(ls,p,s[c]))p++;return at(c,p)});   // nothing fits on an empty page: the least that makes way
+    if(sel.some(Boolean)){const e=commit(sel);if(e.every((v,c)=>v>=r.L[c].length)){ri++;s=null}else s=e;break}
+    while(pg.items.length>1){const it=pg.items[pg.items.length-1],q=rows[it.ri];if(!(q.full&&q.head))break;   // a heading is not left last on a page
+     pg.items.pop();used-=it.gap+it.h;low.fill(used);pg.feet=it.was;ri=it.ri;s=null;pg.exc=true}
+    break}
+   if(ri>=rows.length&&!carry.some(c=>c.length))pg.exc=true;
+   if(!pg.items.length)pg.exc=true;
+   pg.white=Math.min(...all.map(x=>HF-low[x]-fo(pg.feet[x])));
+   if(pg.items.length||pg.feet.some(f=>f.length))pages.push(pg);else{ri++;s=null}}
+  return pages}
+
+ // where line `line` of a paragraph begins, as a point in its text: the first character whose box lies below the line's top
+ function locate(blk,top){const ts=texts(blk),cum=[];let tot=0;ts.forEach(n=>{cum.push(tot);tot+=n.length});if(!tot)return null;
+  const pos=k=>{let lo=0,hi=ts.length-1;while(lo<hi){const m=(lo+hi+1)>>1;if(cum[m]<=k)lo=m;else hi=m-1}return[ts[lo],k-cum[lo]]},g=D.createRange();
+  const mid=k=>{for(let j=k;j<tot&&j<k+60;j++){const[t,o]=pos(j);g.setStart(t,o);g.setEnd(t,o+1);const qs=[...g.getClientRects()].filter(z=>z.height),q=qs.filter(z=>z.width).pop()||qs.pop();if(q)return(q.top+q.bottom)/2}return Infinity};   // the letter after a hyphenation has an empty box on the line before, too
+  let lo=0,hi=tot;while(lo<hi){const m=(lo+hi)>>1;if(mid(m)>top)hi=m;else lo=m+1}
+  if(lo<=0||lo>=tot)return null;
+  let[n,o]=pos(lo);if(o)return{n,o};
+  for(;;){const p=n.previousSibling;if(p&&p.nodeType===1&&p.classList.contains('pm')){n=p;continue}      // a bar goes with the word after it
+   if(!p&&n.parentNode!==blk){n=n.parentNode;continue}break}
+  return{before:n}}
+
+ function prepare(flow){const t0=performance.now();cleanup();
+  const m=build(),{root,rows,K}=m;ppd=root;
+  if(flow){root.classList.add('flow');const by=new Map();m.notes.forEach(n=>{const r=n.a.closest('.r');if(r){if(!by.has(r))by.set(r,[]);by.get(r).push(n)}});
+   by.forEach((ns,r)=>{const ft=el('div','ft fl');for(let x=0;x<K;x++){const fc=el('div','fc k'+x);if(m.lang[x])fc.lang=m.lang[x];ns.filter(n=>n.x===x).forEach(n=>fc.append(n.el));ft.append(fc)}r.after(ft)});
+   main.after(root);return rep={flow:true,pages:0,K,ms:Math.round(performance.now()-t0)}}
+  m.mf=el('div','ft');for(let x=0;x<K;x++){const fc=el('div','fc k'+x);if(m.lang[x])fc.lang=m.lang[x];m.notes.filter(n=>n.x===x).forEach(n=>fc.append(n.el));m.mf.append(fc)}
+  root.append(m.mf);main.after(root);
+  const{lh,FO}=measure(m),H=(K>1?6.1:7.2)*96-2,HF=H-lh;      // the sheet's text block, less a line to spare
+  const pages=paginate(rows,K,HF,lh,FO);
+  // the cuts, found in the layout as measured (reading only), then made
+  const cuts=new Map(),want=(blk,line,top)=>{if(!cuts.has(blk))cuts.set(blk,new Map());if(!cuts.get(blk).has(line))cuts.get(blk).set(line,top)};
+  pages.forEach(pg=>{pg.items.forEach(it=>rows[it.ri].L.forEach((ls,x)=>{const e=it.e[x];if(e>0&&e<ls.length&&ls[e].blk===ls[e-1].blk&&!ls[e].li)want(ls[e].blk,ls[e].i,ls[e].t)}));
+   pg.feet.forEach(f=>f.forEach(p=>{if(p.to<p.n.L)want(p.n.el,p.to,p.n.top+p.to*p.n.lh)}))});
+  cuts.forEach((ls,blk)=>ls.forEach((top,line)=>ls.set(line,locate(blk,top))));
+  const pieces=new Map(),ends=e=>{const t=texts(e);return[t.length?t[0].data:'',t.length?t[t.length-1].data:'']};
+  cuts.forEach((ls,blk)=>{const ps=[];[...ls.keys()].sort((a,b)=>b-a).forEach(line=>{const c=ls.get(line);if(!c||!blk.lastChild)return;
+    const g=D.createRange();if(c.before)g.setStartBefore(c.before);else g.setStart(c.n,c.o);g.setEndAfter(blk.lastChild);
+    const p2=blk.cloneNode(false);p2.classList.add('cont');p2.append(g.extractContents());ps.unshift({from:line,el:p2})});
+   ps.unshift({from:0,el:blk});
+   for(let i=0;i<ps.length-1;i++){ps[i].el.classList.add('cut');if(/[\p{L}­]$/u.test(ends(ps[i].el)[1])&&/^\p{L}/u.test(ends(ps[i+1].el)[0]))ps[i].el.classList.add('hy')}   // a cut inside a word was hyphenated
+   pieces.set(blk,ps)});
+  const piece=(blk,line)=>{const ps=pieces.get(blk);let e=blk;if(ps)for(const p of ps){if(p.from<=line)e=p.el;else break}return e};
+  const out=pages.map(pg=>{const pb=el('div','pb');pg.pb=pb;
+   pg.items.forEach(it=>{const r=rows[it.ri];
+    if(r.full||(it.s.every(v=>!v)&&it.e.every((v,x)=>v===r.L[x].length)&&!r.cells.some(c=>[...c.children].some(b=>pieces.has(b))))){pb.append(r.el);return}
+    const nr=el('div','r');it.row=nr;
+    r.cells.forEach((cell,x)=>{const d=el('div',cell.className);if(cell.lang)d.lang=cell.lang;nr.append(d);let was=null,ul=null;
+     for(let j=it.s[x];j<it.e[x];j++){const l=r.L[x][j];
+      if(l.li){if(!ul||ul._b!==l.blk){ul=l.blk.cloneNode(false);ul._b=l.blk;d.append(ul)}ul.append(l.li);continue}
+      const e=piece(l.blk,l.i);if(e!==was){d.append(e);was=e}}});
+    pb.append(nr)});
+   if(pg.feet.some(f=>f.length)){const ft=el('div','ft');pg.feet.forEach((f,x)=>{const fc=el('div','fc k'+x+(f.length&&f[0].from?' ctd':''));if(m.lang[x])fc.lang=m.lang[x];
+     let was=null;f.forEach(p=>{const e=piece(p.n.el,p.from);if(e!==was){fc.append(e);was=e}});ft.append(fc)});pb.append(ft)}
+   return pb});
+  root.replaceChildren(...out);
+  // margin numbers that would touch: the later one moves down a line
+  const mv=[];out.forEach(pb=>{const q=pb.getBoundingClientRect(),mid=(q.left+q.right)/2,side=[[],[]];
+   pb.querySelectorAll('.pn').forEach(n=>{const z=n.getBoundingClientRect();if(z.height)side[z.left<mid?0:1].push([n,z])});
+   side.forEach(a=>{let bottom=-1e9;a.sort((x,y)=>x[1].top-y[1].top).forEach(([n,z])=>{let d=0;while(z.top+d<bottom+1)d+=lh;if(d)mv.push([n,d]);bottom=z.bottom+d})})});
+  // a cut that fell at a hyphenation ends in a hyphen set here; where that hyphen is a hair too wide for the line, the line is let out by as much
+  const wide=[];pieces.forEach((ps,blk)=>{const n=m.notes.find(q=>q.el===blk),h=n?n.lh:lh,tot=n?n.L:(m.count.get(blk)||0);
+   ps.forEach((p,i)=>{if(tot&&i+1<ps.length&&p.el.classList.contains('hy')&&Math.round(p.el.getBoundingClientRect().height/h)>ps[i+1].from-p.from)wide.push(p.el)})});
+  mv.forEach(([n,d])=>{n.style.marginTop='calc(.5em + '+d+'px)'});
+  wide.forEach(e=>{e.style.marginRight='-2px'});
+  const bad=out.filter(pb=>{if(pb.scrollHeight>pb.clientHeight+1)return true;const ft=pb.querySelector(':scope>.ft');if(!ft)return false;
+   return[...ft.children].some((fc,x)=>{if(!fc.firstElementChild)return false;const y=fc.firstElementChild.getBoundingClientRect().top;
+    return[...pb.querySelectorAll(':scope>.r')].some(r=>{const c=r.classList.contains('f')?r:r.children[x],l=c&&c.lastElementChild;return l&&l.getBoundingClientRect().bottom>y+1})})}).length;
+  rep={flow:false,pages:pages.length,title:!!pt&&!pt.classList.contains('compact'),K,H,lh,bad,exc:pages.map((p,i)=>p.exc?i:-1).filter(i=>i>=0),white:pages.map(p=>Math.round(p.white)),
+   notes:m.notes.length,dropped:m.dropped,moved:mv.length,face:root.classList.contains('nof')?'local':'EB Garamond'};
+  if(test)check(m,pages,pieces,out);
+  rep.ms=Math.round(performance.now()-t0);
+  if(bad&&!test)return prepare(true);
+  return rep}
+
+ // ---- the print ----
+ let test=false;
+ const before=()=>{try{breaks();prepare(false)}catch(e){console.error(e);try{prepare(true)}catch(e2){console.error(e2);cleanup();B.classList.add('pp-raw')}}};
+ window.addEventListener('beforeprint',before);window.addEventListener('afterprint',()=>{cleanup();reset();B.classList.remove('pp-raw')});
+ window.ppScope=scope;
+
+ // ---- what tools/print_check.py asks of a page: `#pp:` and a comma list of font, size=1.2, scope=sec|page, flow, test ----
+ const norm=s=>s.replace(/[\s⁠­]/g,'');
+ function check(m,pages,pieces,out){const{K,notes}=m,sig=s=>{let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return s.length+':'+h};
+  // the text of each printed column: the live page against the copy
+  const biDoc=!!main.querySelector('section.card.pairs'),ned=D.querySelectorAll('.eds .ed').length,cols=ned?[...Array(ned).keys()].filter(k=>!B.classList.contains('pof'+k)).slice(0,2):biDoc?[0,1]:[0];
+  const colOf=d=>{const mm=/(?:^|\s)c(\d+)(?:\s|$)/.exec(d.className);return cols.indexOf(mm?+mm[1]:biDoc?1:0)};
+  const plain=e=>{const c=e.cloneNode(true);c.querySelectorAll('.pg-in,.fn').forEach(x=>x.remove());return c.textContent};
+  const liveT=cols.map(()=>''),marks=[];
+  cards().forEach(c=>{if(c.classList.contains('pp-out'))return;const l=c.querySelector(':scope>.pg');if(l&&!l.classList.contains('pp-out'))marks.push(fmt(l.textContent));
+   const hd=e=>{const c2=e.cloneNode(true);if(c2.classList.contains('hp')){let seen=false;[...c2.children].forEach(s=>{const mm=/(?:^|\s)c(\d+)(?:\s|$)/.exec(s.className);if(!mm)return;const on=cols.includes(+mm[1]);if(s.classList.contains('hsep')){if(!on||!seen)s.remove()}else if(!on)s.remove();else seen=true})}return plain(c2)};
+   const mk=e=>e.querySelectorAll('.pg-in').forEach(s=>marks.push(fmt(s.textContent)));
+   [...c.children].forEach(e=>{if(e.matches('.pg,.cbg,.notes,.fnrows'))return;
+    if(c.classList.contains('mono')&&e.matches('.e,.o')){const x=colOf(e);if(x<0)return;[...e.children].forEach(b=>{if(b.matches('.fn')||b.classList.contains('pp-out'))return;mk(b,x);
+      if(lv(b)&&K===1)liveT.forEach((_,i)=>liveT[i]+=hd(b));else liveT[x]+=lv(b)?hd(b):plain(b)});return}
+    if(e.classList.contains('pp-out'))return;
+    if(e.matches('.row')){[...e.children].forEach(d=>{const x=colOf(d);if(x>=0){mk(d,x);liveT[x]+=plain(d)}});return}
+    mk(e,null);liveT.forEach((_,i)=>liveT[i]+=hd(e))})});
+  const copyT=cols.map(()=>''),cm=[];
+  out.forEach(pb=>[...pb.children].forEach(r=>{if(r.classList.contains('ft'))return;
+   if(r.classList.contains('f')){if(r.querySelector('.ptc'))return;const t=text(r);copyT.forEach((_,i)=>copyT[i]+=t);r.querySelectorAll('.pn').forEach(n=>cm.push(...n.textContent.split(/ · |\n/)));return}
+   [...r.children].forEach((d,x)=>{copyT[x]+=text(d);d.querySelectorAll('.pn').forEach(n=>cm.push(...n.textContent.split(/ · |\n/)))})}));
+  const uniq=a=>a.filter((v,i)=>a.indexOf(v)===i),dm=(a,b)=>{let i=0;while(i<a.length&&a[i]===b[i])i++;return i<Math.max(a.length,b.length)?{at:i,live:a.slice(Math.max(0,i-30),i+40),copy:b.slice(Math.max(0,i-30),i+40)}:null};
+  rep.text=cols.map((_,x)=>{const a=norm(liveT[x]),b=norm(copyT[x]);return{len:a.length,same:a===b,diff:a===b?null:dm(a,b)}});
+  const lm=uniq(marks).sort(),km=uniq(cm).sort();rep.marks={live:lm.length,copy:km.length,same:lm.join('|')===km.join('|'),diff:lm.join('|')===km.join('|')?null:dm(lm,km)};
+  // each note: whole, and begun on the page of its call
+  let lost=0,off=0;notes.forEach(n=>{const ps=pieces.get(n.el)||[{el:n.el}];
+   if(norm(ps.map(p=>text(p.el)).join(''))!==norm(n.t)||ps.some(p=>!ppd.contains(p.el)))lost++;if(n.a.closest('.pb')!==n.el.closest('.pb'))off++});
+  rep.lost=lost;rep.off=off;
+  // the two paragraphs of a pair begin level
+  let lev=0;out.forEach(pb=>pb.querySelectorAll(':scope>.r:not(.f)').forEach(r=>{const a=[...r.children].map(d=>d.firstElementChild).filter(Boolean);if(a.length>1)lev=Math.max(lev,Math.abs(a[0].getBoundingClientRect().top-a[1].getBoundingClientRect().top))}));
+  let grown=0;pieces.forEach((ps,blk)=>{const n=notes.find(q=>q.el===blk),h=n?n.lh:m.lh,tot=n?n.L:(m.count.get(blk)||0);
+   ps.forEach((p,i)=>{if(!ppd.contains(p.el))return;const want=(i+1<ps.length?ps[i+1].from:tot)-p.from,got=Math.round(p.el.getBoundingClientRect().height/h);if(tot&&got!==want)grown++})});
+  rep.grown=grown;rep.cuts=pieces.size;
+  pages.forEach(pg=>pg.items.forEach(it=>{const r=m.rows[it.ri];if(it.s.every(v=>!v)&&it.e.some((v,c)=>!v&&r.L[c].length))lev=Math.max(lev,99)}));   // a column that begins its paragraph a page late
+  rep.level=Math.round(lev*10)/10;rep.sig=sig(main.innerHTML);const lt=t=>(t.normalize('NFKC').match(/\p{L}/gu)||[]).length;rep.letters=lt(ppd.textContent)}
+ const hp=location.hash.startsWith('#pp:')?location.hash.slice(4).split(','):[],opt=k=>{const v=hp.find(x=>x===k||x.startsWith(k+'='));return v?v.split('=')[1]||true:null};
+ if(hp.length)window.addEventListener('load',()=>{if(opt('size'))setP(+opt('size'),false);
+  const sig0=main.innerHTML.replace(/ class=""/g,''),run=()=>{if(opt('scope'))scope(opt('scope'));
+   if(opt('flow')){window.removeEventListener('beforeprint',before);window.addEventListener('beforeprint',()=>{breaks();prepare(true)})}
+   if(opt('test')){test=true;breaks();const r=prepare(false);cleanup();reset();r.live=sig0===main.innerHTML.replace(/ class=""/g,'');test=false;
+    const s=el('script');s.type='application/json';s.id='pp-report';s.textContent=JSON.stringify(r);B.append(s);if(opt('scope'))scope(opt('scope'))}};
+  if(opt('font'))font().then(run);else run()});
+
+ if(!btn||!menu)return;
+ // the contents links in order are the text's headings in order (one link per heading); a link picks its heading
+ const side=D.querySelector('.side'),tocs=side?[...side.querySelectorAll(':scope>a[class^=l]')]:[];
+ // a contents link is #hN, the id of its heading; a link to a card id (older pages) picks that card's first heading
+ const heading=a=>{const hs=units().map(([e])=>e).filter(lv),e=D.getElementById(a.getAttribute('href').slice(1));
+  return !e?null:hs.includes(e)?e:hs.find(h=>h.closest('section.card')===e)||null};
+ const open=on=>{menu.classList.toggle('hidden',!on);btn.setAttribute('aria-expanded',on);
+  const pick=on&&tocs.length&&!B.classList.contains('noside');B.classList.toggle('pp-pick',!!pick);menu.querySelector('.pdfh').classList.toggle('hidden',!pick);
+  if(on){const c=current(),l=c&&c.querySelector(':scope>.pg');menu.querySelector('[data-k=page] small').textContent=l?l.textContent:'';font()}};
+ const go=(k,h)=>{scope(k,h);open(false);btn.textContent='…';font().then(()=>{btn.textContent='PDF';window.print()})};
+ btn.onclick=e=>{e.stopPropagation();open(menu.classList.contains('hidden'))};
+ menu.querySelectorAll('button[data-s]').forEach(b=>b.onclick=()=>setP(b.dataset.s==='0'?1:pfs+(b.dataset.s==='+'?.1:-.1)));
+ D.addEventListener('click',e=>{if(!menu.contains(e.target))open(false)});D.addEventListener('keydown',e=>{if(e.key==='Escape')open(false)});
+ menu.querySelectorAll('button[data-k]').forEach(b=>b.onclick=()=>go(b.dataset.k));
+ // while the menu is open, a click on a contents heading prints its section instead of going there
+ if(side)side.addEventListener('click',e=>{const a=e.target.closest('a[class^=l]');if(!a||menu.classList.contains('hidden')||!tocs.includes(a))return;
+  e.preventDefault();e.stopPropagation();const h=heading(a);if(h)go('sec',h);else open(false)},true);
+})();
+</script><script>window.ANNOT={"repo": "idealisms-wg/idealisms-working-group-private", "branch": "main", "rel": "leibniz-johannis-bodini-colloquium-heptaplomeres", "base": ""}</script><script src="annot.js"></script><script>window.MEMBERS={"repo": "idealisms-wg/idealisms-working-group-private", "branch": "members-site", "base": "/idealisms-working-group/"}</script><script src="members.js"></script></body></html>
