@@ -1,0 +1,1657 @@
+---
+title: Sex puncta theosophica, oder von sechs theosophischen Puncten
+author: Jakob Böhme
+id: 279323014059
+year: 1730
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Theosophia revelata (1730), Buch 6; converted in Seinsbyte's library; this file is the source, corrections go here
+translation: none
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: German mysticism
+public: true
+rights: The Sex puncta theosophica dates from 1620; Jakob Böhme (d. 1624) is long out of protection and the edition (1730) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-22 by _normalize_work/wg_export.py (library id 279323014059)
+---
+
+# J. Böhme, *Sex puncta theosophica* (1730)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. i] ie* ER THEOSOPHICA, MR.
+
+Von sechs
+
+5De0ofephikhenPuncten hohe und tiefe Sruͤndung.
+
+Eina e e Porte aller Heimlichkei⸗ ten des Lebens, darinnen die Ursachen aller Wesen erkant werden.
+
+Geschrieben von
+
+Jacob Boͤhmen, sonst Teutonicus genant. im Jahr 1620.
+
+GSledruckt Ä im Jahr desausgebornen grossen Heils 1730.
+
+[p. ii] [p. iii] Verzeichniß der Punctenund deren Capitel.
+
+Vorredde e sAutoris an den Leser. renn en node Nene bag. 1
+
+| Vom Gewaͤchse der drey Prineipien, was ein iedes in ß und aus fichselber für einen Baum oder
+
+Leben gebaͤre.
+
+Wie man den Grund der
+
+Natur erforschen und kennen soll. Das 1. Cap. Von dem ersten Gewaͤchse und deben aus dem
+
+Principio. Also zu erwegen und zu betrach⸗ ten, als obs alleine stuͤnde, und mit dem andern nicht vermischet wäre, was feine Vermoͤgenheit seyn koͤnnte: nicht dergestalt also zu gedencken, daß es in einer Figur oder Creatur also Einig sey; sondern daß man lerne forschen und gründen das Centrum Naturæ, und das Goͤttliche Wesen lerne unterschei⸗ den von der Natunr
+
+Das2.Cap. Von des Prineipii Eigenschaft, was das Prinàr̃rium
+
+sey, oder was sie alle drey sind.
+
+Der
+
+2. Punct.
+
+Von dem vermischten Baum, Böses und Gutes:
+
+der das Leben der dreyen Prineipien in einan⸗ der, wie sich das vereinige und vertrage.
+
+Das 3. Capitel.
+
+Der 3. Punct.
+
+Vom Urstand der Wiederwaͤrtigkeit des Grwaͤch⸗
+
+ses, in deme das Leben in sich selber streitig wird.
+
+Das.4.Capitel.
+
+De
+
+[p. iv] Verzeichniß der Puneten und deren Capitel.
+
+-
+
+Der 4 Punct. ns Lebe ewig Bau gute ige heil her Wie der dreyen Principien aus allen Gewaͤchsen aus⸗ und durchwachse, und von keinem ergrif⸗ fen werde. Das 5. Capitel.
+
+Das 6. Capitel.
+
+Der 5, Pun
+
+*in et.
+
+rd ve moͤ ⸗B ns eLeb Wiein ben: wie es aus der Qual der Liebe und Freu⸗ den in eine Qual des Elendes trete, welches allen andern Leben zuwieder ist.
+
+aus li sch men hte rec cs Von Eng züc anl vaße as Gert:
+
+Das 8. Capitel.
+
+Der 6. Punctt.
+
+Vom Leben der Finsterniß, darin die Teufel woh⸗ nen, was das fuͤr eine Geburt und Qual habe.
+
+’ Das g. Capitel. Das 10. Capitel. Von den vierElementen des Teufels und der finstern Welt, wie mandiein dieser äuffern Welt kennen fol.
+
+[p. 1] SEX PUNCTA THEOSOPHICA.
+
+Oder
+
+Von Sechs Theosophischen 5 Vorrede des Autoris an den Leser. Ir haben dis Werck nicht fuͤr die unvernuͤnftigen
+
+Thiere geschrieben, welche im Aeussern Men⸗ schen⸗Gestalt haben, aber in ihrer Bildniß, im Geiste, boͤse und wilde Thiere sind, welches sich an ihren Eigenschaften eröffnet und darstellet; sondern für
+
+Menschen⸗Bldniß, denenfoaus der thierischen Bildniß aus⸗ gruͤnen mit einer Menschen⸗Bildniß, die in GOttes Reich ge⸗ hoͤret, und welche gerne wolten in der Menschen⸗Bildniß, in dem rechten Menschen leben und wachsen; welche oft und viel verhindert werden von dem wiederwaͤrtigen Leben, und also im vermischten Leben stecken, und sich aͤngsten zur Geburt des iligen Lebens: denen haben wirdiese Schriften geschrieben; Wiegen ihnen, daß sie es nicht fuͤr unmoͤglich ansehen, zu er⸗ 2 und solche Geheimniß zu wissen; und geben ihnen das in einem Gleichniß zu ersinnen: Es stuͤnde ein Leben, das ware aus allen Leben gewachsen, und ware vermischt; es wuͤchse aber einander Leben in demselben, aus allen Leben, das waͤre, ob es gleich aus allen Leben gewachsen wäre, frey von den andern Leben allen, und stuͤnde doch auch in allen Essentien der
+
+Leben. Dasselbe andere neue Leben würde mit dem Lichte er⸗ leuchtet, und nur in sich, daß es die andern Leben alle schauen koͤnte; und sie (die andern Leben) koͤnten das neue Leben nicht schauen noch ergreiffen. Also ist ein ieder, der aus dem ver⸗ mischten Leben, Bos und Gut, wieder in und aus Gott gebo⸗ ren wird. Dieselbe neue Bildniß, im Leben GOttes erboren, chauet alle naturliche Leben, und ist ihr nichts fremde oder wer, denn sie schauet nur ihre Wurtzel, daraus sie gewach⸗
+
+sen ist; als uns das zu erkennen ist, wie eine schoͤne Blume aus der wilden Erden waͤchst/ welche der ra nicht abnlich voor wird erklaͤret
+
+[p. 2] Fil. Von sechs
+
+Punct1.Cap. 1.
+
+erklaͤret aber mit ihrer Schoͤnheit der Erden Bermögenheitz und wie sie mit Guten und Boͤsen vermischet sey: Also auchi ein ieder Mensch, der aus der thierischen, wilden, irdischen Art und Eigenschaft wieder zur rechten Bildniß GOttes geboren wird. Denen so nun ein Gewaͤchse sind, und zur schoͤnen Li⸗ lienim Reiche GOttes treiben, und in der Geburt stehen, haben wir dis Buch geschrieben, daß sie ihre Essentien darinnen sol⸗ len staͤrcken, im Leben GOttes grünen, und im Baume des Pa⸗ radeises wachsen, und Frucht tragen; Sintemal alle Kinder Gottes, so in diesem Baume wachsen, Zweige am selben 2. mefind: So haben wir unsern Zweigen und Dit:Aesten,in unserm Baume, darinnen wir alle stehen, und daraus wir alle wachsen, unsern Saft, Ruch und Essentz mittheilen wollen, daß unser Baum des Paradeises groß wuͤrde, und wir uns un ter einander freueten, und daß je ein Ast und Zweig den andern fuͤr dem Sturm helfe bedecken; geben wir allen Kindern dieses Gewaͤchses in diesem Baume freundlich zu ee und thun uns in ihre Liebe und Gewaͤchs empfehlen.
+
+Der erste Punct.
+
+Vom Gewaͤchse der dr OB end ein iedes in sich und aus sich selber für einen
+
+J
+
+Baum oder Leben gebaͤre. Wie man den Grund der Natur erforschen und kennen soll?
+
+Das 1. Capitel. Von dem ersten Gewaͤchse und Leben, aus dem ers
+
+sten Principio, Also zu erwegen und zu betrachten, als obs alleine stuͤnde, und mit dem andern nicht ver⸗ mischet waͤre, was seine Vermoͤgenheit seyn koͤnte: | nichtdergestalt also zu gedencken, daß es in einer Fi⸗ gur oder Creatur also einig sey; sondern daß man ler⸗ ne forschen und gruͤnden das Centragt Natur, und das Göttliche Wesen lerne ene der Natur.
+
+von
+
+Sum- [p. 3] enen ee
+
+Theosophischen Puncten. x x Summarien. Leben stehet im Willen,inwelchem ein verborgen Feuer. 6. 1.
+
+2. Dann ohne Feuer ist der Wille unvermögend und stumm; 3. 4. in der Essenßz aber ein Wesen. 5. Im Willen urstaͤndet das ren. 6. Der 1. Wille ist ein ungrund und gleich einem Spiegel oder Auge, 7.8. und der ewige ungrund ausser Natur ist ein Wille; 9.
+
+das Bild aber it vom Spiegel
+
+srey. 10. In der ewigen Weisheit
+
+Gottes istalles von Ewigkeit verborgen gestanden, bayon sie Ihr Se⸗ Sa 1. Denn kein Geist ohne Sehen, gleich auch kein Sehen ohne Geist ist; das Sehen aber machet Willen, und der Wille machee Grund, und erbieret ihm sein Hertz, 12. 13, und gehet mit dem Gefasse⸗ ten aus. 14. Der Vater ist der ewige Wille, der das Auge fasset als den Spiegel zder Sohn ist des Spiegels Gefastes; 18. der H. Geit ist der gm „16. und die Weisheit ist das Ansgesprochene. 17. Der Willen⸗ lt hat keinen Grund. 18. Das Wesen der Gottheitjstein Auge oder Rad; 19, und wohnet in sich im Ungrund. 20. Dieser zfaltige Geist it theilig. 21. 22. In der Jungfrauen ist das Ewige Feuer oder rineipium verborgen, 23. in welchem Spiegel die Bildniß ersehen worden. 24. Das 1. Prineipium ist in feinem Urstand Magisch; 25. 26% in Centrum it Feuer, welches ohne Wesen nicht bestehen mag. 27. Es aus der Begierde des Willens, der feines Hertzens Offenbarung begehret,28:30,u1n sich aus seinem eigenem Grunde im Lichte zu offenbar ren.31.32.Sderbieret der Vater erst die Natur, und denn das 2. Princi⸗ um, 33.34. dann Er begehret Licht, 35, welches anderst nicht, als urchs Feuer mag erboren werden. 36. Feuer und Licht if zwar Eis nes, aber in 2Leben und Qualen. 37. Die Begierde machet Finster⸗ nißz38, so will der Wille von der
+
+Finserniß frey seyn. 0.
+
+Je mehr er nun in sich eher iegröffer wird die Finsterniß. 40. Dieser 1. Wille als des Worts Centrum. 41. Urstand der Wesenheit. 42, ist tiefer 43. Die 3. Angst. 44. Verste⸗ Herde, die 2. Bitter. alt ie 1.Bestist ben also zween Willen. 45. Einen im Grimm; ist der 1. Wille der Na⸗ den andern in die Freyheit; ist der 2. Wille Goͤttlicher Natur. 36.
+
+ieckung des 1. Willens, 47, als des Ewigen Gemuͤths. 48. IN das atur⸗Leben ohne Verstand. 49. Der 2. Wille begehret Licht, 50. und at in 1 die Freyheit. 51. Dlese begehret der Offenbarung und der igenschaften. 52.53. Also begehret der Vater, der Natur; 84. und im Schrack entsteheu zwey Wesen.ss. Ist der Natur Urstand. 56.
+
+Bu hrack ursachet Feuer und Licht, als die Liebe, 57. welche dem euer Speise gibt, 58. Aus beyden Willen gehet aus der H.Geist in die uftmuth, 59. 60.
+
+Und in dem Lichte wohnet die H. Trinitaͤt, inSo⸗
+
+1261. 62. in deren Farben und Tugenden der H. Geist alles eröffnet t. 63. Die zwey Wesenim Schrack theilen sich im Feuer und Licht, der Schrack aber bleibet in sich stehen 5 65. dadenn auch die
+
+111975 urstaͤndet. 66.
+
+Bleibt demnach auf einem Theil, ein todtlichdeben, 67. aufm andern Theil gehet das Leben ausm Tode. 68. findet finde sich der Vater im Wunder: der Sohn in der Kraft. 69. So ie Gall ursachet das Feuer, und aus dem Feuer das Leben: 70. aus dem Feuer⸗Leben aber den Geist, 71. welcher seine Eigenschaft im bicht 72. Also ist der grimmige Tod eine Ursache des Lebens, 73. gleiche bat.
+
+wie dieses eine Ursache der Freuden. 5 ER
+
+Wir [p. 4] vl. Von sechs
+
+Punct Cap
+
+Ir sehen und befinden, daß ein iedes Leben essen⸗ tialisch ist; Und befinden auch, daß es im Wil⸗
+
+= stehet, denn der Wille ist das Treiben der Es⸗ entien. 2. Und ist uns also zu ersinnen, als ob ein verborgen Feuer im Willen läge, da sich der Wille immer gegen dem Feuer ev huͤbe, und wolte das erwecken und anzuͤnden. 3. Denn wir verstehen, daß ein ieder Wille, ohne die Er⸗ weckung der feurigen Essentien eine Unvermoͤgenheit ist, gleich als stumm ohne Leben, da keine Fühlung, Verstand noch Wer senheit innen ist: denn er gleichet sich nur einem Schatten oh⸗ ne Wesen, denn er hat keinen Fuͤhrer, sondern er ersincket, und last sich treiben und führen, gleich einem todten Wesen als sol⸗ ches an einem Schatten zu ergründen ist, der ohne Essentz ges fuͤhret wird. 4. Also ist ein unzeffentialifcher Wille ein stumm Wesen obs ne Begriff und Leben; und ist doch eine Figur in dem ungruͤnd⸗ in ewigen Nichts, denn er hanget an den corporalischen ingen. F. Wie nun der Wille ohne Essentz stumm und ohne We⸗ fen ist, also ister in der Effeng ein Wesen und Bildniß nach den
+
+Essentien, welcher nach den Essentien gebildet wird; Denn das Willen-Reben wird aus den Essentien erboren. 6. Also ist das beben der Effentien Sohn, und der Wille, darinnen des Lebens Figur stehet, ist der Essentien Vater, denn keine Essentz mag ohne Willen entstehen; denn im Willen Rinddas Begehren geurstaͤndet, in welchem die Effentien ur⸗
+
+staͤnden.
+
+7. So denn der erste Wille ein Ungrund ist, zu achten als ein ewig Nichts; So erkennen wir ihn gleich einem Spiegel, darinn einer sein eigen Bildniß siehet, gleich einem Leben, und ist doch kein Leben, sondern eine Figur des Lebens und des Bil⸗ des am Leben. 8. Also erkennen wir den ewigen Ungrund, ausser der Na⸗ tur, gleich einem Spiegel: denn er ist gleich einem Auge, das da siehet/ und fuͤhret doch nichts im Sehen damit es siehet/ denn das Sehen ist ohne Wesen, da es doch aus Wesen erboren wird/als aus dem essentialischen Leben.
+
+8 >,
+
+9. Also ist uns erkentlich, daß der ewige Ungrund ausser Natur der Natur ein Wille sey, gleich einem Auge, da arinnen [p. 23] p. 1. Cap l. Theosophischen Puncten.
+
+darinnen verborgen lieget: gleich einem verborgenem Feuer, das nicht brennet, das da ist, und auch nicht ist: Es ist nicht ein Geist, sondern eine Gestalt des Geistes, als der Schiemen im Spiegel, daalleGestalt eines Geistes im Schiemen oder Spiegel ersehen wird, und ist doch nichts, daß das Auge oder Spiegel sehe; sondern fein Sehen ist in sich selber ,denn es ist nichts vor ihme das da tiefer ware. Es ist gleich einem Spies gel, welcher ein Behalter des Anblicks der Natur ist, und be⸗ greiffet doch nicht die Natur, und die Natur auch nicht den
+
+Schiemen des Bildes im Spiegel.
+
+10. Und also ist eines frey vom andern, und ist doch der
+
+Spiegel wahrhaftig der Behalter des Bildes: er fasset das
+
+Bild, und ist doch unmaͤchtig gegen dem Schiemen, denn er kann den Schiemen nicht erhalten: Denn so das Bild vom Spiegel trit, so ist der Spiegel ein heller Glast, und fein Glast ist ein Nichts, und liegt doch alle Gestalt der Natur darinne verborgen, gleich als ein Nichts, und ist doch wahrhaftig, aber nicht essentialisch. I. Also ist uns dis zu erkennen, und zu verstehen von der verborgenen ewigen Weisheit GOttes, die gleichet sich als eis nem ewigen Auge ohne Wesen; Sie ist der Ungrund, und sie⸗ het doch alles, es ist alles in ihr von Ewigkeit verborgen ges
+
+standen, davon sie ihr Sehen hat. Sie ist aber nicht essentia⸗ lisch, gleich wie der Glast im Spiegel nicht essentialisch ist, der doch alles fasset, was vor ihme erscheinet. 12. Und dann zum andern ist uns vom ewigen Willen, der auch ohne Wesen ist,uns imgleichen zu verstehen von dem Gei⸗ sie GOttes; denn kein Sehen ist ohne Geist, so ist auch kein
+
+Geist ohne Sehen: und verstehen also, daß das Sehen aus dem
+
+Geiste erscheine, welches fein Auge und Spiegel ist, darinne der
+
+Wille offenbar ist; denn das Sehen machet einen Willen, in deme der Ungrund der Tieffe ohne Zahl keinen Grund noch
+
+Ziel weiß zu finden; so gehet fein Spiegel in sich, und machet einen Grund in sich, das istein Wille. 13. Also erscheinet der Spiegel des ewigen Auges im Wil:
+
+len, und erbieret ihme selber einen andern ewigen Grund in sich ber : derselbe ist fein Centrum oder Hertz daraus das Sehen urstaͤndet, und dadurch der Wille raͤge führende wird, nemlich dessen was das Centrum erbieret.
+
+11. Denn es wird alles im Willen ergriffen, und ist ein
+
+Wesen,
+
+[p. 24] VI. Von sechs Punct1.Cap.r.
+
+Wesen, das sich im .
+
+Ungrunde, in sich selber ewig ur⸗
+
+staͤndet, in sich selber eingebet, und machet das Centrum in sich, fasset sichselber in sich; gehetaber mit dem Gefasseten aus sich, offenbaret sich im Glaste des Auges, und erscheinet also aus dem Wesen in sich und aus sich selber: es ist fein Eigenes, und ist doch auch gegen der Natur als ein Nichts, (verstehe, gegen demgreiflichen Wesen also zu reden) da es doch alles ist, und alles daher urstaͤndet. 15. Und verstehen wir alhie innen das ewige Wesen der Dreyheit der Gottheit, mit der ungruͤndlichen Weisheit: als den Spiegel, Denn der ewige Wille, der das Auge fasset darinn das ewige Sehen stehet als seine Weisheit, ist Vater; und das ewige Gefassete in die Weisheit, da das Fassen einen Grund oder Centrum in sich selber aus dem Ungrunde in den Grund fasset, ist Sohn oder Sertze, denn es ist das Wort des Lebens, oder seine Wesenheit, darinn der Wille mit dem Glast erscheinet. 16. Und das In⸗sich⸗gehen zum Centro des Grundes ist Geist, denn es ist der Finder, der da von Ewigkeit immer fin⸗ det, da nichts ist; dieser gehet wiederum aus dem Centro des Grundes aus, und suchet in dem Willen. Jetzt wird der Spie⸗ gel des Auges, als des Vaters und Sohnes Weisheit, offenbar. Und stehet die Weisheit also vor dem Geiste GOttes, der den Ungrund in ihr offenbaret, denn ihre Tugend, darinn die Far⸗ ben der Wunder erscheinen, wird aus dem Vater des ewigen
+
+Willens durch das Centrum seines Hertzens oder Grundes, mit dem ausgehenden Geiste geoffenbaret. 17. Denn sie ist das Ausgesprochene, das der Vater aus dem Centro des Hertzens, mit dem H. Geist ausspricht und ste⸗ het in den Goͤttlichen Formungen und Bildnissen, im Augen⸗
+
+schein der H.Dreyeinigkeit GOttes; aber als eine Jungfrau vhne Gebaͤren, sie gebieret nicht die Farben und Figuren so in ihr erscheinen, und offenbar stehen im Grunde und Wesen: son⸗ dern es istalles zusammen eine ewige Magia, und wohnet mit dem Centro des Hertzens in sich, und mit dem Geiste aus dem Centro gehet es aus sich /und offenbaret sich im Auge der Jungs: fräulichen Weisheit in unendlich. 18. Denn wie das Wesen der Gottheit keinen Grund hat, daraus es urstaͤnde, und herkomme;
+
+Also hat auch der Wil⸗ len⸗Geist keinen Grund, da er moͤchte ruhen,da eine *
+
+[p. 25] Pr Cap. 1. Theosophischen Puncten.
+
+oder Ziel waͤre; sondern er heiset Wunderbar: und sein Wort er von ausgehet, heist ewige Kraft der Gott⸗ ret, heiset
+
+Ewig Rath.
+
+heit; undBe 5
+
+Hertze und die Kraft in sich erbie⸗
+
+109. Also ist das Wesen der Gottheit an allen Enden und Orten in der Tieffe des Ungrundes, gleich als ein Rad, oder da der Anfang immer daß Ende hat, und ist ihme keine Auge, Staͤtte erfunden, denn er istselber die Stätte aller Wesen, und die Fuͤlle aller Dinge, und wird doch von nichts ergriffen oder
+
+ste gesehen: denn es istein Auge in sich selber, wie Ezechiel der Prophet, solches Cap. I. in einer Figur gesehen hat, in Einfuͤh⸗ rung feines Willen⸗Geistes in GOtt, da feine geistliche Figur istindie Weisheit GOttes eingefuͤhret worden, mit dem Geis Gottes, alda erdas Schauen erreichet hat, und anderst kann das nicht seyn.
+
+Dier andere Text.
+
+20. Also verstehen wir, daß das Goͤttliche Wesen in Drey⸗ faltigkeit im Ungrunde, in sich selber wohne, und gebäre Ihme aber einen Grund in sich selber, als das ewige Wort oder Hertz, welches das Centrum oder Ziel der Ruhe in der Gottheit ist, und da es doch nicht von Wesenheit verstanden wird; sondern von einem Dreyfaltigen Geist, da jeeiner des andern Ursache in der Geburt ist. 22. Und ist derselbe Dreyfaltige Geist doch nicht meßlich, oder gruͤndlich; denn ihme ist keine Stätte erfun⸗ abtheilig, den, und ist zugleich der Ungrund der Ewigkeit, der sich in sich
+
+selber im Grund erbieret: und kann kein Ort oder Stätte er»
+
+sonnen oder gefunden werden, da der Geist der Dreyeinigkeit und in allem Wesen wäre; aber dem We⸗ nicht gegenwärtig, sen verborgen, in sich selber wohnend,als ein Wesen das zu⸗ gleich auf einmal alles erfuͤllet und doch nicht im Wesen woh⸗ net, sondern selber ein Wesen in sich hat: als uns zusinnen ist vom Grunde und Ungrunde, wie die beyde gegen einander verstanden werden. 22. Also verstehen wir die Ewigkeit: (D Wie es gewesen sey vor den Zeiten der Schoͤpfung dieser Welt. (2) Und ver⸗ stehe weiter, was das Goͤttliche Wesen in sich selber ohne ein Principium sey. (3) Was der ewige Anfang im Ungrunde, und das ewige Endein seinem eigenen, in sich gebornen Grun⸗ de sey, als das Centrum zum Worte, welches Wort das Cen-
+
+A 4 trum
+
+[p. 26] VVonsechs
+
+Punet!. Capi i.
+
+trum selber ist. () und doch die ewige Geburt des Wortes im Willen, im Spiegel der ewigen Weisheit als in der Ju ng frauen ohne Gebaͤrerin, oder ohne Gebaͤren von Ew Ewigkeit immer geschehe. 23. Und in derselben Jungfrauen der Weisheit G das ewige Prineipium, als ein verborgen Feuer, welche wie in einem Spiegel erkant wird an feinen Farben von Ewigkeit zu Ewigkeit in der Figur erkant word wird auch in alle Ewigkeit im ewigen Urstande Weisheit erkant. 24. Und in demselben Spiegel, da das Princi ewigen Ungrunde eröffnet wird, ist das Wesen der drey Prin⸗ eipien, nach dem Gleichniß der H. Dreyheit, ersehe n worden, mit ihren Wundern, als in einer ungruͤndlichen Tieffe, u l⸗ ches von Ewigkeit. ’ 25. Und ist uns ietzt also zu verstehen, daß daß erst Pr cipium im Urstande magisch sey, denn es wird im Beg ehren im Willen erboren: daher denn seine Sucht und Wieder ll gebären auch magisch ist, als nemlich das andere brineipium zu gebaͤren.
+
+26. Und so es denn im isten und aten Prineipio nur al s ein
+
+Geist, obn begreiflich Wesen verstanden wird; so ist die Sucht, ferner das dritte Principium zu gebaͤren, da der Geist moͤchte ruhen, und sich offenbaren im eichniß. 27. Und wiewol es ist, daß ein iedes Principium fein Ce rum hat; so stehet doch das erste Principium in der ma gi sc Qual, und fein Centrum iff Feuer, welches ohne We sen nicht
+
+1 12 mag, darum sein Hunger und Begehren nach We⸗ en ist. 28. Und ist uns vom 1. principio, so wir blos von Einem reden, (w iewol es nicht einig iff,) anderst zu verstehen, als daß der ungruͤndliche Wille im Centro des Ungrundes, darinnen das ewige Wort von Ewigkeit immer erboren wird, bege h⸗ rende sey, denn der Wille begehret das Centrum als das W ort oder Hertze. 29. Und zum Zweyten begehret er, daß das Hertze moͤc hte offenbar seyn; dann im Ungrunde ist keine Offenbarun g / son⸗ dern ein ewig Nichts eine Stille ohne Wesen oder Farben auch keine Tugend; Aber in diesem Begehren werden
+
+S ra
+
+[p. 27] Cap. 1. Theosophischen Puncten. 9 P1. sich verborgen, und Kraft und Tugend; und ist doch also I wäre ewig nicht offenbar, denn es ware kein Licht, Glantz oder sich selber, welcher int Majestaͤt /sondern ein dreyfacher Geis ohne Qual einiges Wesens waͤre. 30. Also ist uns zu verstehen das Wesen der tiefesten Gott⸗ heit ohne und ausser der Natur.
+
+31. Ferner ist uns zu verstehen, wie der ewige Wille der Gottheit begehret aus seinem eigenen Grunde sich zu offenba⸗ der Majestaͤt, dawir denn den ersten Willen des ren im Lichte Vaters zum Sohne, und zum Lichte der Majestaͤt begehrende, erkennen. Und das in zween Wegen: der erste Weg zum Centro des Worts, (2) zum Lichte oder Offenbarung des Worts. daß ein jedes Begehren anziehende sey, wiewol und befinden im Ungrunde nichts ist, das da koͤnte gezogen werden; so zeucht sich aber das Begehren selber, und schwaͤngert den an⸗ dern Willen des Vaters, welcher zum Lichte der Majestaͤt, aus dem Centro seines Worts oder Hertzens imaginiret. 232. Jetzt ist das Hertze des Lichtesschwanger, und dererste Wille der Natur schwanger: und waͤre doch also keines offen⸗ bar, so nicht das Principium erboren würde.
+
+es ist also zusinnen, daß der Vater erbieret das 33. Denn e Principium, aus dem ersten Willen, als die Natur, wel⸗ che im Feuer zur hoͤchsten Vollkommenheit kommt; und denn gebieret Er das andere Principium, in und aus dem andern Willen, zum Worte, indem Er der Offenbarung des Worts im Lichte der Majestaͤt begehret; da das Feuer des andern
+
+Principii im Lichte der Majestaͤt, eine Erfuͤllung des andern Willens ist: als Sanftmuth, welche dem Feuer des ersten Principii entgegen gesetzet ist, und feinen Grimm loͤschet, und in ein essentialisch Wesen, als in ein ewig Leben stellet, da das Feuer im Lichte verborgen ist, und giebet dem Lichte seine Kraft, Staͤrcke und Macht, da es denn zusammen ein ewig Band ist. und eines ohne das andere nichts ware.
+
+Vom ersten Principio in sich selber, was es in sich selber (einig) sey. 34. Dem Begehren ist uns nachzusinnen: denn ein iedes
+
+Begehren ist anziehend dessen, was im begehrenden Willen
+
+35. So begehret doch GOtt — Licht, als den Glantz aus
+
+sei⸗
+
+### [p. 28] VI. Von sechs Punet1.Cap
+
+feinem Hertzen, daß Er in der Weisheit erscheine, und der gantze GOtt also in sich, und mit dem ausgehenden Geiste aus sich, in der Jungfrauen feiner Weisheit offenbar sey; und * daß eine ewige vollkommene Freude, Lust und Erfuͤllen in Ihm ep.
+
+36. Dieses mag nun anderst nicht erboren werden, als durchs Feuer dader Wille in die tiefeste Scharfe der Allmacht gesetzet wird, indem Er im Feuer verzehrend wird; hergegen ist das Licht eine Sanftmuth der Gebaͤrorin der Allwesenheit.
+
+37. So muß nun das Feuer doch auch eine Gebaͤrerin in feinem Urstande und Leben haben: ietzt erscheinets in zweyen
+
+Leben und Qualen. Und werden billig zwey Principia genant, da es doch auch nur Eines ist, aber zweyerley Qual in Einem Wesen; und wird wegen der Qual fuͤr zwey Wesen geachtet, als uns am Feuer und Lichte zu erfinnen ist. 38. So finnen wir ietzt dem Begehren nach, und befinden, daß es ein strenges Anziehen sey, gleich als ein ewig Erheben und Bewegen: denn es zeucht sich selber in sich, und schwaͤn⸗ gert sich, daß also aus der dünnen Freyheit, da Nichts ist, ei⸗ ne Finsterniß wird; denn der begehrende Wille wird vom
+
+Einziehen dicke und voll, da es doch auch Nichts ist als Fin⸗ erniß. 39. Jetzt will der erste Wille von der Finsterniß frey seyn, denn er begehret Licht, und mags doch also nicht erreichen; denn je groͤsser das Begehren nach der Frerheit ist, je groͤsser wird das Anziehen und der Stachel der Essentien, welche im Ziehen (oder Begehren) urstanden. 40. Also zeucht der Wille je mehr in sich, und wird seine
+
+Schwaͤngerung je groͤsser; und kann doch die Finsterniß nicht das Centrum des Worts, oder Hertzens der Drey⸗Zahl ers greiffen, denn dasselbe Centrum ist ein Grad tiefer in sich, und ist doch ein Band. 41. Aber der erste Wille, darinnen die Schwaͤngerung der Natur urstaͤndet, ist noch tiefer als das Centrum des Worts, denn er urstaͤndet aus dem ewigen Ungrunde oder Nichts: Und äft also des Hertzens Centrum in die Mitte geschlossen, da der erste Wille des Vaters zur Feuers⸗Geburt arbeitet. 42. So ist uns nun zu erkennen, daß in dem strengen Anzie⸗ hen eine gantz strenge Substantz und Wesen werde; da dann die Mesenheit von Ewigkeit urstandet, denn das Ziehen giebet
+
+Stachel, und das Angezogene giebet Haͤrtigkeit, Naateriam aus
+
+[p. 29] P.Cap, Theofophifhen Puncten. m aus dem Nichts, eine Substantz und Wesenheit. Jetzt wohnet der Stachel des Ziehens in derselben Wesenheit, sticht und bricht; und das alles vom begehrenden Willen welcher zencht. J. Also sind uns alhie zwey Gestalten der Natur zu erken⸗ nen alsZerbe, das ist das Begehren, und denn der Stachel machet in dem Begehren ein Brechen und Stechen, davon die
+
+Fuͤhlung urstaͤndet, das ist Bitter, ist die andere Gestalt der
+
+Natur, eine Ursache Urstand Essentien Na⸗ e. 44. So dann der erste Wille mit diesem nicht begnuͤget, noch zur Ruhe gestellet, sondern hiemit in eine gar grosse Angst ge⸗ setzet wird; (denn er begehret die Freyheit im Lichte, und ist doch auch kein Glantz in der Freyheit), ietzt geraͤth er in er⸗ schreckliche Angst, und erhebet das Begehren also sehr nach der Freyheit, daß die Angst, als ein Sterben oder Ersincken durch den Tod, ihren Willen in die Freyheit, aus dem Bre⸗ chen, Stechen, und gewaltigen Anziehen einfuͤhret. 45. Verstehen also den Willen alhie in zween Wege: Einen der in Grimmigkeit aufsteiget, zur Gebaͤrung des Grimmen⸗ Feuers; den andern, der nach des Worts Centro imaginiret, und aus der Angst, gleich als durch ein Sterben ersincket in das freye Leben, und bringet gleich also ein Leben aus der Angst⸗ Qual mit sich in die Freyheit, daß der ewige Ungrund fuͤr ein
+
+Leben erkant wird, und aus dem Nichts ein ewig Leben wird.
+
+46. So denn der erste Gang des Willens zur Feuer⸗Ge⸗ burt aufsteiget, so erkennen wir ihn fuͤr die erste Natur, als des Vaters Natur im grimmen Zorne; und den andern Eingang des Willens in die Freyheit, ins Centrum des Hertzens, er kennen wir für die Goͤttliche Natur, für das Leben im Lichte, in der Kraft der Gottheit. N ar Also ist nun erkentlich, was der erste Wille zum Feuer wircke und thue, als nemlich strenge, harte, bitter und grosse Angst, welche die dritte Gestalt der Natur ist; denn die Angst ist gleich als das Centrum, da das Leben und der Wille ewig urstaͤndet; denn der Wille will von der grossen Angst frey seyn, und mag doch nicht: Er will fliehen, und wird doch von der
+
+Herbichkeit gehalten; und je groͤsser der Wille zum Fliehen — 25groͤsser wird der bittere Stachel der Essentien und ielheit.
+
+48. Als er denn nicht fliehen kann, auch nicht über sich stei⸗ gen,
+
+[p. 30] Punct 1. Capi.
+
+gen, so wird er drehend als ein Rad, alda werden die Essen⸗ tien gemischet, und kommt die Vielheit der Essentien in einen gemischten Willen, welcher billig das ewige Gemuͤthe heisset, da die Vielheit mit dem unzehlbaren Wesen in einem Gemuͤthe lieget, daimmer aus einer Effentia mag wieder ein Wille ent⸗ stehen, nach derselben Essentz Eigenschaft, daraus die ewi⸗ gen Wunder urstaͤnden. So dann das grosse und starcke Gemuͤthe der Angst⸗ Gestalt also in sich als ein Rad gehet, und immer das strenge Anziehen zerbricht, und mit dem Stachel in Vielheit der Es⸗ sentien bringet; und aber in der Angst wieder im Rade in eins, als in ein Gemuͤthe fasset; soistdas Angst⸗ Leben ietzt geboren, als die Natur, da ein Raͤgen, Treiben, Fliehen und Halten ist, darzu ein Fuͤhlen, Schmecken und Hoͤren: und ist doch nicht ein recht Leben, sondern blos ein Natur⸗Leben, ohne ein Ptincipium; denn es hat kein Wachsen, sondern istgleich einer
+
+Unsinnigkeit oder Tollheit, da etwas in sich drehend faͤhret als ein Rad, da wol ein Band des Lebens ist, aber ohne Verstand und Erkentniß, denn es kennet sich selber nicht.
+
+50. Also ist uns nun weiter zu forschen vom andern Willen des ewigen Vaters, der GOtt genant wird; der begehret in seines Hertzens Centro das Licht, und die Offenbarung der
+
+Dreyheit in der Weisheit: derselbe Wille ist gegen dem Cen. tro Naturæ gesetzt oder gerichtet, denn aus der Natur muß der Glantz der Majestaͤt urstaͤnden. st. So hat nun derselbe andere Wille im Worte des Lebens die Freyheit in sich, und der Angst⸗Wille in der Schärfe der Natur begehret der Freyheit, daß die Freyheit moͤchte in der Angst des grimmigen Gemuͤths offenbar werden. 52. Dannenhero denn auch die Angst entstehet, daß der er⸗ ste Wille will von der finstern Herbichkeit frey seyn, und die
+
+Freyheit begehret der Offenbarung, denn sie kann sich in sich selber ohne Schaͤrfe oder Qual nicht finden; denn der Wille der Freyheit, welcher Vater heist, begehret sich zu offenba⸗ ren, und das kann er ohne Eigenschaften nicht thun. 53. Also ister begehrende der Eigenschaften, welche in der Angst in den Essentien im Feuer urstaͤnden, seine Wunder, Kraft und Farben damit zu offenbaren, welches ohne die Na⸗ tur nicht seyn kann. 34. Also begehret der erste Wille (welcher Vater N x
+
+[p. 31] * P. 1. Cap.1.Theosophischen Puneten.
+
+und selber die Freyheit ist)der Natur, und die Natur begehret mit grossem Sehnen der Frepheit daß sie möge der Augst⸗
+
+Qual erlediget werden; und sie empfaͤhet die Freybeit in ihrem scharfen Grimm, in der Imagination, davon erschrickt sie als ein Blitz, denn es ist ein Schrack der Freuden, daß sie der Angst⸗Qual erlediget wird. 55. Und im Schrack entstehen zwey Wesen, als ein Toͤdtli⸗ ches und ein Lebendiges, also zu verstehen. 56. Der Wille, der Vater heisset, der die Freyheit in sich hat, der erbieret sich also in der Natur, daß er der Natur faͤ⸗ hig ist, und daß er der Natur Allmacht ist. 57. Der Schrack feiner Naturistein Anzünder des Feuers;
+
+denn wenn die finstere Angst, als das gar ernstliche, strenge
+
+Wesen, die Freyheitinsich bekommt, so verwandelt sie sich e in der Freyheit, in einen Blitz, und der in dem dem €
+
+Blitz faͤhetdie Freyheit, als die Sanftmuth: alda wird der
+
+Stachel des Todes zerbrochen, und gehet in der Natur auf der andere Wille des Vaters, den Er ihm vor der Natur, im als fein Liebes⸗ Hertz,das Spiegel ie der Weisheit hatte geschoͤpft ntdasBegehren der Liebe, und Freudenreich. 38. Denn in des Vaters Willen wird also das Feuer erbo⸗ ren, dem giebet der ander Wille die Kraft der Sanftmuth und iebe; und das Feuer nimt die diebe⸗Qual in feine Essentz das ist nun feine Speise, daß es brennet, und giebet aus der Ver⸗ zehrlichkeit, aus dem Schracke den freudenreichen Geist.
+
+Br 5% Das ist, alhie wird der H. Geist, der im Urstande vor der atur des Vaters Willen⸗Geist ist, offenbar, und em⸗ pfahet alhie die Kraft der Wunder, und gehet also vom Vater, als aus dem ersten Willen zur Natur,] aus dem andern Wil⸗ n in der Natur aus dem Feuer, (als aus dem Schracke) der eh: im Qual der Liebe aus, in die Wesenheit der anftmuth. 60. Denn die Sanftmuth ist nun auch begehrend worden, von der Feuers⸗Eigenschaft, und das Begehren zeucht die Sanftmuth der Freudenreich in sich. Das ist nun das Was⸗ fer des ewigen Lebens, welches das Feuer trincket, und gie. bet daraus das Licht der Majestaͤt. 61. Und in dem Lichte wohnet nun der Wille des Vaters, und des Sohnes; und der H. Geist ist das Leben darinne, der eröffnet nun die Kraft der sanften Wesenheit im Lichte, das sind Farben, Wunder und Tugenden. 62. Und [p. 32] vl. Von sechs Punett.Cap.t.
+
+62. Und dasselbe heisset die Jungfraͤuliche Weisheit denn Sie ist keine Gebaͤrerin, eröffnet auch selber nichts, allein der H. Geist ist Eroͤffner ihrer Wunder. Sie ist sein Kleid, und
+
+schoͤne 3ierbeit, und hat in ihr die Wunder, Farben und Tugenden der Goͤttlichen Welt, und ist das Saus der .
+
+Dreyfaltigkeit, und die Jierheit der Goͤttlichen und En⸗ glischen Welt.
+
+63. Und in ihren Farben und Tugenden hat der H. Geist die Choren der Engel, sowol alle Wunder der geschaffenen Dinge, eröffnet, welche alle von Ewigkeit sind in der Weis⸗
+
+Weisheit, als im Spiegel nach ihren Figuren; welche Figu⸗ ren in der Beweglichkeit des Vaters sind in die Essentz, und in ein Geschoͤpfe gegangen, allesnach den Wundern der Weisheit.
+
+heit erblicket worden, wol ohne Wesen: Aber doch in den 64. Also verstehet uns auch nun vom andern Wesen da sich im Schracke die Natur in zwey Wesen theilet, wie oben ge⸗ meldet, als eines mitdesVaters Willen ins Feuer, als(Y in die Feuer⸗Welt; und aus des Vaters andern geschöͤpften oder in sich gebornen Willen (2) in die Majestaͤtische iicht⸗Welt.
+
+65. Und das andere Wesen, als das Haus des Schracks in sich, in Tod, in die Finsterniß der feindlichen Qual, welches also stehen muß, auf daß ein ewig Sehnen in derselben Angst
+
+sey /von der Qual los zu seyn; denn dasselbe Sehnen machet den ersten Willen zur Natur, ewig begehrende, seinem Wesen zu Huͤlfe zu kommen. Davon denn auch ins Vaters Willen die Harmhertzigkeiturständet, welche mit der Freyheit in die Angst eingehet: und aber in der Angst nicht bleiben ma sondern gehet im Feuer aus in der Liebe Qual.
+
+66. Das ist, sein anderer Wille, als sein Hertz, gehetin Ihme aus, als ein Brunquell der Liebe und Barmhertzigkeit, davon die Barmhertzigkeit ihren Urstand hat, daß ein Erbar⸗ men über den Jammer und Elend ist, und ein Mitleiden, als darinn des Vaters Wille, der doch frey ist, sich im Grimm der Natur offenbaret, daß der Grimm gefanftiget wird. 67. Aber nichts destoweniger bleibet auf einem Theil das aͤngstliche Rad des Grimmes für sich; denn im Schracke ges schicht eine Ertoͤdtung, wol nicht ein stiller Tod, sondern ein toͤdtlich Leben; gleichet sich dem boͤsesten Wesen, als ein Scheidewasser oder Gift in sich ist. Denn ein solches muß
+
+seyn, soll das Centrum Naturæ ewig bestehen.
+
+ER +
+
+[p. 33] P.r.Cap. 1. Theosophischen Puncten. +
+
+68. Und auf dem andern Theil gehet das Leben aus dem Tode, und der Tod muß also eine Ursache des Lebens seyn; sonstsokeine solche giftige, grimmige Qual wäre, möchte das Feuer nicht erboren werden, und moͤchte keine Feuer-Scharfe und Essentz seyn; so waͤre auch kein Licht, und auch kein Fin⸗ den des Lebens.
+
+69. Der erste Wille, der Vater heisset, findet sich also im Wunder. Und der andere Wille, der Sohn heisset, fine det sich also in Kraft. Dazu urstaͤndet also die Freudenreich: Denn waͤre kein Wehe, so ware auch kein Freudenreich: das ist aber die Freudenreich, daß das Leben aus der Angst erloͤset wird, wiewol das Leben nur also urstandet. 70. Darum haben die Creaturen Gift zu ihrem Leben, als Die Galle ist die Ursache daß eine Beweglichkeit eine Gal e. ist, daß das Leben urstaͤnde, denn sie ursachet das Feuer im Hertzen, und das rechte beben ist das Feuer aber es ist nicht die jigur des Lebens.
+
+71. Aus dem Feuer⸗ Leben entstehet erst der rechte Geist, der ehet vom Feuer im Lichte aus, der ist frey vom Feuer wie jeLuft, welche doch aus dem Feuer urstaͤndet, frey vom
+
+Feuer ist.
+
+272. Denn der rechte Geist, oder im Menschen der Geist,
+
+8 00 aus dem Seelen⸗Feuer erboren wird, der hat seine
+
+Eigenschaft im Lichte des Lebens, das aus dem Feuer brennet,
+
+[ deernn entstehet aus dem Tode, er gehet aus dem Sterben aus, die feindliche Qual istvon ihm im Feuer geblieben, und k grimmigen Tode. 73. Also ist der grimmige Tod eine Wurtzel des Lebens. Und alhie ihr Menschen bedencket euren Tod, und auch Christi Tod, Bruns wieder aus dem Sterben durch das Feuer Gottes er⸗ oren hat: denn aus dem Sterben wird das freye Leben gebo⸗ fort unter dem Feuer, in der Ursache des Feuers, als im ren; was vom Sterben kann da das ist vom Tode und der Grimmen⸗Qual erloͤset: das ist nun fein ae daß keine grimmige Qual mehr in ihme ist; sie ist von ihme im Sterben geblieben , und also erreichet das Leben aus dem Tod die ewige Freyheit, da keine Furcht noch Schrecken mehr ist; denn im Leben ist der Schrack zerbrochen. 74. Das rechte Leben ist eins Kraft der Freuden, ein jan
+
+)
+
+ol⸗
+
+[p. 34] Punetı.Cap.z
+
+Wolthun, denn es ist keine Qual in ihme, als nur eine Be⸗ gierde, die hat alleEigenschaftderQual, und mag sich doch die Qual in ihme nicht erheben, daß sie koͤnte ihre Eigenschaft
+
+5 .
+
+reyheit.
+
+denn solches verwehret das Licht und die insriehibee se arg
+
+O C 2. D SR Von des Prineipii Eigenschaft, was das Princi⸗ pium sey? Oder was sie alle dren ven ein Principium ist. 2. 1. Den Anaft: Willen können
+
+Summarien. Kn forschen. 2. 3. Das 3. Prineipium 9 A
+
+1. und 2. Principium ist Vater und die 2
+
+Sohn 13. und der 0Geist ist dey⸗
+
+Wesen, bleibet die Figur im Mysteris: ei. was aber aus des Nich!
+
+fee eit ist, vergehet nicht, 22. gleich die Seele im Mm
+
+Grimms das nütllichße ist: 43. das Licht aber verwandelt
+
+Grimm
+
+[p. 35] 527 men 2. Theosophischen Since, 1 in Liebe⸗ Begierde und e , 45. 4275 des Neuen Menschen Werck um gibt tder und das euer A die Sara 8 unbe
+
+At nee
+
+Las Aeussere Prineipium ein steter Krieg. sı. 5.5 das Wachsen Früchte, 52. und der Thiere
+
+Bosheit.33. Welche?
+
+sch insichzum Herrn macht, die melden es Her mir: . und En 5 es will. 54. 55.
+
+en einem Principio chen,me
+
+As istein Principium ,da sich ein Leben und Beweglich⸗ keit findet da keines ist; das Feuer ist ein Principium mit feiner Eigenschaft, und das Licht ist auch ein Prin5 eipium mit feiner Eigenschaft, denn es wird aus dem Feuer —f K und ist doch nicht des Feuers Eigenschaft; Es hat
+
+4 fein eigen Lebeninsich, aber das Feuer iftUrfache daran,
+
+4500grimmige Angst ist eine Ursache der beyden. *x nd3** 2. Aber den Willen zur Angst, der die Angst⸗Natur urfas 1 ;£xn , wacher Vater heisset, den kann man nicht forschen: ann ——— TEE ZA—** N ir forschen nur das, wie Er sichin die hoͤchste Vollkommen⸗ Fein das Wes der enH. Dreyfaltigkeit einfübret, amd wie zerin dreyen Principien offenbaret, und wie die Essentzie⸗ alurstaͤnde; Was Essentz sey, davon das Leben mit den Si ien urstaͤndet, und das Wunder aller Wesen. vid. 5. 33.
+
+3. So erkennen wir das dritte Principium, als die Qual dies ferA Welt, mit den Sternen und Elementen fuͤr ein Geschoͤpfe, aus den Wundern der ewigen Weisheit. 4.Das dritte Principium offenbaret die ersten alle beyde,obwol iedes in sich selbst offenbar ist; So hat sich aber das ewige
+
+Wesen wollen in seinen Wundern, so in der Weisheit sind erblicket worden, auf eine solche Eigenschaft offenbaren, als nach der Ewigkeit Grunde, nach der Grimmen⸗ und diebe⸗ Qual; und hat allesin ein creatuͤrlich und siguͤrlich Wesen geschaffen, nach dem ewigen Urstande Boͤsen und Guten: wie vor Augen ist, daß in dieser Welt Bos und Gut ist, an welchem die Teufel doch eine grosse Ursache sind, welche il Falke—.— die grimme Matricem ere. Schöpfung im
+
+[p. 36] 8.
+
+Vl. Von sechs
+
+Punct 1. Cap. U heftiger im Grimm beweget, indem sich GOtt nach des Grim⸗ mes Eigenschaft hat sehrer beweget, sie aus dem Lichte auszu⸗ stossen in den Tod der Grimmigkeit, davon auch gleich die himmlisehe Wesenheit mit beweget ward; daß also gar viel in die irdische Wesenheit mit eingeschlossen istworden, das in
+
+Frey gestanden. 5. Als wir am Golde und feiner Tinetur erkennen, welche frey istvom irdischen Wesen; denn siebestehet im Feuer und in aller Qual, es mag sie keine Qual baͤndigen, als allein GOt⸗ tes Wille, und muß öfters etwas geschehen um der Welt Uns muͤrdigkeit willen.
+
+6. Und wenn wir die Schoͤpfung dieser Welt recht betrach⸗ ten, und den Geist des dritten Princip, als den Geist der grossen Welt vor uns nehmen mit Sternen und Elementen, so finden wir der ewigen Welt Eigenschaft untereinander gleich als vermenget, gleich einem grossen Wunder, dadurch Gott, das hoͤchste Gut, hat wollen die ewigen Wunder, die im Ver⸗ borgen gestanden, offenbaren, und ins Wesen fuͤhren. 7. Wir finden Gut und Boͤs, und finden in allen Dingen das Centrum Naturæ, als die Angst⸗Kammer: vornemlich aber finden wir den Geist der grossen Welt inzweyen Qualen, als in Hitze und Kalte. Da wir an der Kalte erkennen das Centrum des herben scharfen Grimmes, und an der Hitze das Principium im Feuer, unb hat doch nur einen Urstand aus einander.
+
+8. Das Feuer kommt aus dem Grimm der Kaͤlte, und die Kälte aus dem Centro Naturæ, als aus der herhen scharfen Angst, da die Herbichkeit also streng in sich zeucht, und Wesen⸗ heit machet; als uns zu erkennen ist, daß sie in Bewegung des Vaters, in der Schoͤpfung hat Erde und Steine gemachet, da doch kein Wesen dazu war, als nur sein eigen Wesen, das in beyden Principien, als in der Licht⸗Welt und Todes⸗Welt, in beyden Begehren erboren.
+
+9. Was in der Bewegung der Grimm erreichte, das ward mit zur Erdkugel geschaffen: darum findet man vielerley dar⸗ innen, Boͤses und Gutes, und geschicht oft, daß man kann aus dem Aergesten das Beste machen, weil das Centrum Natura darinnen ist; so mans ins Feuer bringet, so mag das reine
+
+Kind der ewigen Wesenheit daraus gebracht werden, wenns vom Tode frey wird, wie am Golde zu sehen ist. ae 10.
+
+[p. 37] P. 1.Cap. 2. Theosophischen Puncten.
+
+K 2
+
+0.
+
+Wiewol wir in dieser Welt nicht koͤnnen das ewige erreichen, darum mögen wir auch nichts aus diesem
+
+Frincipio ausführen, das ist der Mangel des ewigen Feuers, als nur ,inder Imagination ‚durch welches wir nicht erreichen welche ein Mensch Macht hat, das Leben aus dem Tode zu fuͤh⸗ ren, und in Göttliche Wesenheit zubringen; das kann allein im Menschen geschehen; was aber ausser dem Menschen ist, as gehoͤret GOtt zu, und bleibet zur Renovation, ins Ende u.
+
+r Zeit.
+
+Also geben wirzuverstehen das Wesen und die Eigen⸗
+
+schaft der Principien. Das erste Principium stehet im Wil len⸗ Feuer, und ist eine Ursache der andern beyden, auch des zebens und Verstaͤndniß, und eine Erhaltung der Natur, für wol aller Eigenschaften des Vaters. 12. Und das andere Principium stehet im Licht, als im Feu⸗ der Begierde. Dieselbe Begierde machet Wesen aus des ersten Principii Eigenschaft.
+
+13. Das erste und andere Principium ist Vater und Sohn in der Ewigkeit; einer wohnet im andern, und behalt doch ein ieder seine Eigenschaft. Es ist kein Vermischen in der Essentz, allein eines empfaͤhet das ander in der Begierde, und wohne das Licht in des Feuers Begierde; also daß des Feu⸗ ers Eigenschaft feine Begierde ins Licht gibt, und das Licht ins euer. 14. Also istsEin Wesen, und nicht zwey, aber zwo Eigen⸗ schaften, da eine nicht die andere ist, auch ewig nicht werden kann. Gleichwie des Geistes Eigenschaft nicht kann das euer und Licht seyn, und gehet doch vom Feuer aus dem ichte aus, und koͤnte einig weder vom Feuer noch vom Lichte allein bestehen; das Feuer koͤnte ihn allein nicht geben, auch das Liche nicht, sondern beyde geben ihn. Er ist beyder Le⸗ ben, und ist nur Ein Wesen, aber drey Eigenschaften, da keine die andere ist, wie ihr dis am Feuer, Licht und Luft sehet. 15. Also verstehet ihr auch das dritte Prinelpium, das ist und hat eben diese Eigenschaften, es hat auch Feuer, Licht und Geist, das ist Luft; und ist mit allen Umstaͤnden gleich dem ewigen Wesen. Aber es anfaͤnget sich, und gehet von dem Ewigen aus, es ist eine Offenbarung des Ewigen, eine Erweckung, Bildniß und Gleichniß des Ewigen. Es ist nicht das Ewige, sondernesist ein 125 worden in der Ewe Re [p. 38] hr 2 VI.Von sechs Punkt!l.
+
+Begierde: Die Begierde hat sichgeoffenbaret, und in ein We⸗ sengefübret, gleich dem Ewigen. 16. Die Vernunft saget: GoOtt habe diese Welt aus Nichts gemacht; Antwort: Es war wol kein Wesen oder Materia dazu, das aͤusserlich greiflich wäre ;aber es war eine solche in der ewigen Kraft im Willen.
+
+7. Die Schoͤpfung dieser Welt ist mit einer Erweckung J besWillen⸗Geistes geschehen: Der innere Wille, der sonstin sich hinein stehet, der hat seine eigene Natur erraͤget, als das Centrum, das aus sich begehrend ist, als des Lichtes, welches aus dem Centro ausdringend ist. Also hat das Centrum aus sich ein Wesen im Begehren gefasset; das ist, es hat ihmeWe⸗ fenin feiner eigenen Imagination in der Begierde gefaffet oder gemachet, und hat auch des Lichts Wesen mit ergriffen. 18. Es hat das Ewige mit dem Anfang ergriffen, darum muͤssen die Wesen dieser Welt mit der Figur wieder ins Ewige gehen, denn sie sind im Ewigen mit ergriffen worden. aber aus dem Anfange in der Begierde gemachet oder ergrif⸗ fen ward, das gehet wieder in fein Ether, als ins Nichts, nur blos wieder in Spiegel der lmagination; das ist nicht v
+
+Ewigen, sondern ist und gehöret der ewigen Magiz ins Br ren: Gleich als ein Feuer ein Wesen verschlinget und ver;
+
+ket, da nichts bleibet sondern wird wieder das, als es war, es noch kein Wesen war.
+
+Also geben wir euch zu verstehen, was dieser Welt Du kuey; anders nichts als ein coagulirter Rauch aus den ewi⸗ gen Aethern, der also eine Verbringung bat gleich dem Ewi⸗ gen.
+
+Er schleust sichin ein Centrum eines Wesens, und vers zehret sich endlich wieder: und gehet wieder in die ewige Magiam, und ist nur eine Zeitlang ein Wunder, als eine Offen⸗ barung des Ewigen, dadurch sich das Ewige, welches in sich offenbar ist, auch aus sich offenbare, und feine Imagination ausfchikte, und also renovire dasjenige, welches mit der Bez wegung im Begehren gefasset oder gemachet ward, daß das Ende wieder könne in Anfang eingehen. 20. Denn nichts kann in die Freyheit des Ewigen einge⸗ hen, es sey dann dem Ewigen gleich, es bestehe denn im Wil⸗ len: Feuer, und sey also subtile, als des Lichtes Wesenheit, das ist, als ein Wasser das in einem Wesen wohnen kann, da das Biest kanninne wohnen, und feinen Schein hindurch vr
+
+[p. 39] 1.Cap. 2. Theosophischen Puncten.
+
+dasselbe wird vom Centro Natur nicht ergrissen, und obs ich gleder Natur Eigenschaft ist,so its doch ein Ewi zes. 21. Also geben wir 1 verstehen, daß alles was in die⸗ ferWeltjegeboren ist, das Wesen hat, das nicht aus dem ewi⸗ gen Wesen herruͤhret, erbe nicht das Ewige; aber feine Fir Denn rio: dayste ewige dem stehen, magisc auf gurbleib
+
+sieistim Urstande mit der Schöpfung aus dem Ewigen gegan⸗
+
+‚gen;aber sein Leib, und gantzes Wesen der Qual vergehet, als 5 ne 15 verzehret, denn es istaus dem Anfang, und ge⸗ Ende. 22. Was aber aus dem ewigen Wesen urstaͤndet, aus des ewigen Lichts Wesenheit, mag nicht vergehen; es vergehet aus dem Anfanglichen ist in das Ewige wans, nur das dara eingegangen, als das aͤussere Fleisch, welches durch Imagina- tion wardindem Menschen ins Ewige eingefuͤhret, das muß
+
+sichalsein Rauch verzehren. 223. Was aber aus der ewigen Imagination ins Ewige wird eingefuͤhret, das bleibet ewig stehen; und was aus dem Ewi⸗ gen wird aus geboren, (verstehet aus der ewigen Natur,) iff im Menschen die Seele, das bleibet ewig, denn es ist aus dem
+
+Ewigen geurftandet. 24. Abersoetwas aus dem ewigen Centro des Grimmes wird erboren, das mag in seine Renovation gehen, so es will. Gleich wie sich die ewige Natur vom Wesen der aussern Natur renoviret, und das verlaͤsset, was es im Anfange hat gema⸗ chet, und behaͤlt nur das magische Bilde, das es aus dem ewi⸗ gen Willen ins Aeussere einfuͤhrete mit dem Verbo Fiat in der
+
+Schoͤpfung; Also mag der Mensch das auch renoviren, das er machet: So er das Irdische verlaͤsset, so mag er das, was erhataus dem Ewigen ausgeboren, renoviren; wirds aber nicht renoviret, so bleibts in der Qual. 25. Denn alles was nicht dem Feuer, Lichte und Wasser gleich wird oder ist, mag nicht in der Freyheit bestehen, son⸗ dern bleibet in der Qual dessen, so es in sich erwecket oder ge⸗ machet hat; verstehe, aus dem Centro Naturæ; was es im Willen der Freyheit hat eingefuͤhret: also wird ihme das eine
+
+Qual seyn, und ein Nagen oder Wiederwille, das er ihme hat
+
+selbst aus seiner eigenen Natur erboren, damit er ihme die hat finster gemachet /daß das Licht nicht mag durch⸗ Freyheit
+
+scheinen, das wird feine Finsterniß seyhn.
+
+Rüde
+
+B 3
+
+26. Denn
+
+[p. 40] VI. Von sechs Punet1.Cap.2.
+
+26. Den w no der Wille finster ist, da ist auch des Willens Mesen als fein Leib finster; und wo der Will ein Qual ist, da ist auch der Leib in Qual: und um deswillen werden die Kin⸗ der des Lichts der Freyheit von den Kindern der Finsterniß,in der Angst⸗Qual geschieden, ein iedienssein Principium. 27. So geben wir euch nun ferner zu verstehen, daß einie⸗ des Principium fein eigen Leben gebaͤre, nach feiner Eigen» schaft: aber das Feuer ist das Scheide⸗Ziel, das die zwey ewi⸗ ge Principia vergnüͤget, als die Finsterniß und das Licht; der Finsterniß gibets feinen Stachel und das Wehe, und dem Lichte seine Empfindlichkeit und das Leben. Ey 28. Also hat auch das dritte Principium zwo Eigenschaf⸗ ten, als Hitze und Kalte: Die Hitze ist das Prineipium, und gibet feinen Stachel und Wehe der Kalte; Und dem Lichte gi⸗ bet sie das Leben, und die Empfindlichkeit; und das Licht gibt wieder sein Wesen dem Feuer, daß es mit ihme freundlich ver⸗ einiget wird; Und die Kalte gibet auch feine Eigenschaft und Wesen dem Feuer, und das Feuer zerbrichts ihme, und machet aus feinem Wesen den Tod, und ein Sterben; Darum istim⸗ mer eine Feindschaft zwischen Hitze und Kaͤlte, und werden nimmer eins. 29. Aber das erlangen sie in ihrer Feindschaft, daß ihne das Neben muß durch den Tod gruͤnen; denn aus Hitze und Kaͤlte kommt das Gewaͤchse des dritten Principii, (darinn wir ausserlich leben). Aus der Kaͤlte kommt Frucht aus der Er⸗ den, sowol der Leib aller Creaturen, und in den Elementen das Wesen: Von der Hitze kommt in ihrem Zancke das Leben in den Leib aller Creaturen und Gewaͤchse; sowol in der Tieffe der Elementen gibet sie den Geist der grossen Welt in man⸗ cherley Figuren; als wo die Kaͤlte Wesen machet, da machet die Hitze einen Geist darein. 30. Also ist das Wesen alles im Ringen, auf daß die Wun⸗ der der ewigen Welt in der Zerbrechlichkeit offenbar werden, und daß sich das ewige Model in der Weisheit GOttes in Fi⸗ guren führe; Und daß dieselben Modellen in der ewigen Ma-
+
+Sia, im Mysterio, ewig zu GOttes Wunder stehen, und zur reude der Engel und Menschen, wol nicht im Wesen, aber im yierio , in der Magia, als ein Schatten des Wesens, auf⸗ daß ewig erkant werde, was GOtt gewircket bat, und was Er kann und vermag. 31. Denn
+
+[p. 41] 1.Cap.2. Theosophischen Puncten.
+
+31. Denn nach ae ge dieser Welt bleibet nur das Ewige im Wesen, als ewige Geister, mit ewiger Wesenheit ih⸗ rer Leiber, mit denen hiegemachten Wundern, welche in der
+
+Figur magisch stehen daran werden die Geister GOttes Wun⸗ derthat und Macht erkennen. 32. Also sind uns ietzo zu betrachten die Principia mit ihren Wundern; die sind alle drey anders nichts, als der einige in seiner Wunderthat, der hat sich nach der Eigenschaft Gott seiner Natur mit dieser Welt geoffenbaret. Und sollen wir also eindreyfach Wesen verstehen, als drey Welten in ein⸗
+
+33. Die erste ist die Feuer: Welt, die urstaͤndet vom Centro Natura, und die Natur vom begehrenden Willen, der in der
+
+3 Freyheit urstaͤndet im Ungrunde, dessen wir keine Wis⸗ senschaft haben oder tragen. Siehe oben 5. 2. 34. Und die andere ist die Licht: Welt, die wohnet in der Frepheit im Ungrunde, ausser der Natur, kommt aber von der Feuer⸗Welt her. Sie empfaͤhet ihr Leben und Empfind⸗ lichkeit vom Feuer; sie wohnet im Feuer, und das Feuer er⸗ greiffet sie nicht: Und das ist die Mittel⸗Welt.
+
+35. Das Feuer gibet im Centro Natutæ vor seiner Anzuͤn⸗ dung die finstere Welt; und ist aber in seiner Anzuͤndung in sich selber die Licht⸗Welt, da sichs selber ins Licht scheidet, und lasset das Centrum in Finsterniß seyn, dann es ist nur also eine Qual in sich selber, und eine Ursache des Lebens. 36. Es hat Creaturen, aber sie sind derselben grimmen Ef sentz; sie fühlen keine Wehe, das Licht ware ihnen ein Wehe: Aber den gefallenen Teufeln, welche im Principio geschaffen worden in die Licht⸗Welt, denen ist die Finsterniß eine Pein, und das Feuer eine Macht eder Staͤrcke, denn es ist ihr recht Leben, wiewol nach vielen Eigenschaften, vermoͤge des Centri Naturæ, nach derselben Essentz.
+
+JJ. Die dritte Welt ist die aͤussere, darinnen wir nach dem aͤussern Leibe wohnen, mit den aͤussern Wercken und Wesen, die aus der finstern und auch aus der Licht⸗Welt geschaffen worden, darum ist sie boͤse und gut, grimmig und lieblich; von dieser Eigenschaft solte Adam nicht essen, noch darein imagini⸗ ren, sondern die drey Welten solten in ihme stehen in der Ord⸗ nung, daß keine die ander A
+
+' ergreiffen, als in 8 sel⸗ er:
+
+[p. 42] 2be
+
+C r: Denn Ad am war aus allen drey Welten geschaffen, ein gantz Bilde und Gleichniß GOttes;
+
+38. Soer abevrom Bösen und Guten hatte gegessen
+
+, und das Aeussere ins Mittel eingeführet. Jetzt muß re vom Mittel abbrechen, und geschiehet ein Sche das Aeusse⸗ id as Aeussere wieder in
+
+sein Ether muß gehen, und das Mittlere bleibet stehen. 39. Also, wenn ietzt einer einen rechten Mensche n siehet ste⸗ hen, somag ersagen: Hie sehe ich drey Welten st ehen, aber nicht gehen; Dann die aussere Welt beweget ich mit aussern Leibe; darum hat aber der aussere Leib keine Ma dem cht, die Licht⸗Welt zu bewegen, er hat sich nur also Li ts _ Welt eingefuͤhret, davon sie im Menschen ist erlo schen; aber Er ist doch gleichwol nur die finstere Welt in sich blie n, die Licht⸗Welt bleibet in ihme unbeweglich steh eh ihme gleich wie verborgen. : 40. So er aber ein rechter Mensch aus der neuen Geburt if, fichetfieinibme: wie das Licht das Wasser durchsche net, und macht beweglich und begierig die Essentz, also daß die Essentz grünet, also auch der neue Mensch im Lichte: Und wie man nicht kann den Sonnen⸗Glantz bewege n, also auch das ewige Licht nicht, als die Licht-Welt ;Sie stehet ftilfe,
+
+scheinet durch alles, wessen sie faͤhig ist, was da Duͤnne ist ein Nichts, wie denn das Feuer und Wasser also = an ichts.
+
+substantialisch ist, aber gegen dem Aeussern als ein
+
+41. Alo hat ein icdes Principium fein Gewaͤchs aus sich se l⸗ ber, und das muß seyn, sonst ware alles ein Nich 43. Als des Feuers Principium ist die Wurtzel, das ͤc hs in seiner Wurtzel, es hat in seiner Eigenschaft Herb Bi tt Grimm und Angst; und das waͤchst in seiner Ei af Gift und Tod; in das aͤngstliche strenge Le n, Finsterniß gibet, wegen der Strengheit E inziehen: Seine Eigenschaften machen Sulphur, Mercurium un Sa l, w ewol des Feuers Eigenschaft nicht Sul machet im Sulphur, sondern der Wille der Freyheit machet das sul im Ph indeme das Priacipium por sich gehe t. 43. Was aber in seine Eigenschaften gehet, dasist nur Phur, als Strengheit, mit den andern Gestalten am Centro Dies es ist die vornehmste Ursache zum Leben, und zu m * aller
+
+[p. 43] Ne An
+
+1.Cap. 2. Theosophischen Puncten.
+
+aller Dinge; obs wol bose istin sichselber, so istsdoch demde⸗ ben und des Lebens Offenbarung das allernuͤtzlichste: Denn es moͤchte kein Leben ohne diese Eigenschaft seyn, und dis Principium gründet sichin dieinnere und aͤussere Welt, in der In⸗ nern — unempfindlich, in der Aeussern mit seinem Grimme dlich. 44. Und das andere Prineipium.bat auch sein Gewöchse auslch denn das Feuer quillet im Lichte mit seinen Eigen⸗
+
+schaften; Aber das Licht verwandelt die grimme Eigenschaf⸗ ten ineine Begierde der Liebe und Freudenreich: darum ist auch des Feuers Essentz und Eigenschast im Lichte gantz ver⸗ wandelt, daß aus Angst und Wehe eine Liebe -Begierde
+
+Ber are Wüten ein freundlicher finnti>
+
+5. Denn das Licht en 1 Essentien mit der Liebe⸗ a daß sie ein Gewaͤchs aus sich geben, in Geistes Eigen: chaft, als einen freundlichen Willen, Sitten, Tugend, = öͤmmigkeit, Gedult im Leiden, Hoffnung vom Ubel erlediget u werden; von Gottes Wunderthaten, in Begierde und immer reden, klingen, singen, und sich freuen der Wercke
+
+1 Wunderthaten GOttes; immer gerne wollen recht thun, dem Übel und Bosheit wehren; feinen Naͤchsten mit der gebe immer gerne wollen in die Licht⸗ Welt ziehen; vom Boͤsen fliehen, die boͤsen Affecten immer mit Gedult in der Hoffnung erlöfet zu werden, zu daͤmpfen; sich freuen in der Hoffnung dessen, sodie Augen nicht sehen, und die aͤussere Vernunft nicht kennet; immer aus dem Übel auszudringen, und die Begierde ins Goͤttliche Wesen einzuführen, immer gerne wollen essen von GOttes Brot. 46. Diese Eigenschaften führet der neue Mensch, so von der Licht⸗Welt wieder erboren ist; dis sind feine Früchte, wel⸗ che die Licht⸗Welt in ihme also, gantz verborgentlich des alten A Adams, immer gebieret, und den alten Adam von dieser Welt immer toͤdtet, und mit ihm immer im Streit lieget, welcher also denn dem neuen Menschen muß nachgehen; zwar als ein fauler Esel, der den Sack tragen muß, da ihn fein Herr im⸗ mer nachpeitschet. Also thut der neue Mensch dem 115 en zwinget ihn, daß er thun muß, was er nicht gerne will: die Freude dieser Welt antrift, waͤre dem alten Esel leber, aberermuß also Knecht seyn.
+
+B 5
+
+47. Zum
+
+[p. 44] Vl. Von sechs
+
+Punet 1. Cap. 2.
+
+47: Einfuhr hat das krincipium fein Gewächse, und gibet seine Frucht in das dritte Principium in gemein, als in Geist dergrossen Welt, daß der äuffern und innern Turbs gewehret wird. Es dringet durch, und gibet Fruchtbarkeit; es wehret dem Grimm der Sternen, und zerbricht die Constel ⸗ lation beydes der Geister und auch des firmamentifchen Him⸗ mels; es wiederstehet dem Grimm des — — — den An⸗ schlaͤgen der boshaftigen Menschen, sofern aber Heilige gefunden werden, so eswerthsind. AN 48. Und das dritte Principium hat auch sein Gewa ses darinne sind aus dem innern erboren und geschaffen die nen und Elementen, welchein diesem Loco mit der Sonnen das dritte Principium heissen; denn die innern zwey Welten, als die Feuer⸗ und Licht⸗Welt, haben sich mit dem dritten Principio geoffenbaret, und istalles unter einander vermeuget, Gutes und Boͤses, Liebe und Feindschaft, Leben und Tod.
+
+Es istin allem Leben der Tod und das Feuer: Auch hingegen eine Begierde der Liebe, alles nach der innern Welt Eigen⸗ schaft, und waͤchst zweyerley Frucht daraus, Boͤs und Gut; und hat auch eine iede Frucht beyde Eigenschaften; Auch er⸗ zeigensie sich in allem Leben dieser Welt, daß also immer der Zorn und boͤse Qual mit der Liebe streitet, da suchet eine jede Eigenschaft, und bringet Frucht. Was das Gute machet, das zerstoͤret das Boͤse; und was das Boͤse machet, das zer⸗ stoͤret das Gute. Es ist ein steter Krieg und Zand, denn es sind beyder innern Principien Eigenschaften im Aeussern vage, ein iedes bringet und wircket Frucht in das innere Reich; ein iedes will Herr seyn. 49. Die Kalte, als der Ausgang aus dem innern Centro, aus dem Grimm des Todes, will Herr seyn, und immeri Tod einschliessen, sie erwecket immer den Stachel des Tod und die Hitze, als der Ausgang aus dem rechten Feuer, wil auch Herr seyn, sie will alles baͤndigen und verzehren, und will immer rohe ohne Leib seyn. Sie istein Geist, und begehret nur ein Geist:Leben ; sie gibet der Kalte den Stachel, denn sie ertoͤdtet sie oft, daß sie ihr Recht muß sincken lassen, und sich der Hitze ergeben.
+
+50. So will die Sonne, als das Licht, auch Recht haben, und will Herr seyn; sie überwindet Hitze und Kalte, 5
+
+[p. 45] 2o1,Cap.a. Theosophichen Puncten. vr machet in ihrer lichten Sanstmuth Wasser, und führet im Lichts⸗Geiste einen freundlichen Geist, als die Luft: wiewol Das Feuer dieStärkedes Windes gibet,und die Sonne den müͤthigen Geist, der billig Luft heisset; Es ist wol einer, aber zwey Eigenschaften, eine nach dem Feuer, als ein schrecklich Erheben, und eine nach dem Lichte, als ein sanftes eben. rl. Asso istdasaͤussere Principium nur ein steter Krieg und Be ein Bauen und Brechen; was die Sonne, als das
+
+8 — bauet, das zerbricht die Kalte, und das Feuer verzeh⸗ ret es gar. 52. In diesem Streit gehet auf fein Wachsen in eitel Streit und Uneinigkeit: Eins zeucht aus der Erden seine Fruchtbar⸗ keit, das ander zerbricht oder verschlingt sie wieder. 3. Es machetinallen Thieren Bosheit und Streit, denn alle Thiere, und alles Leben dieser Welt, ausser dem Men⸗ schen, ist nur eine Frucht des dritten Principii, und hat nur
+
+—3ͤ—2 .5 tten Principii , beydes fein Geist und Leib ist drin dese das Leb nur dasselbige; und alles was sich raget und webet auf dieser Welt, und der Mensch mit seinem Geiste und sichtbaren Leibe, in Fleisch und Blut, ist auch nur die Frucht desselben Wefeng, und gar nichts anders. 54. So er dann aber auch die zwey innern Welten in sich hat, (welche ihm den rechten Verstand, Sinn und Gemuͤthe ; welche auch diese Zeit des irdischen und elementari⸗ schen Leibes mit einander im Streit liegen); so mag er eben u zusehen, welche Welt er zum Herrn in ihme mache, dieselbe wird ewig sein Herr in ihme seyn: Diese Zeit kann er zerbre⸗ chen, und weiter nicht; wenn das Aeussere zerbricht, so stehet alles in feinem Ether. Das Gemuͤthe ist frey, und ist der Angel, und hat den Verstand, es mag hinwaͤgen wohin es will, und mag beystehen einem principio, welchem es will; in welch Ather es eingehet, du ists ewig. 55. Und also verstehen wir den Grund der dreyen Principien, (gleichwie das Zünglein an der Wage ;) was GOtt und die Ewigkeit ist und vermag, und was fuͤr ein Gewaͤchs ein jedes aus sich, aus seiner Eigenschaft gebe, und wie man den
+
+Grund der Natur forschen soll. Also ist das erste Theil oder Punet vollendet.
+
+Der
+
+[p. 46] Vu. Von sechs Punct.2Cap., Der zweyte Punet.
+
+nGu⸗ teseund Boͤs m, h Bauc Von demvermis tes: Oder das Leben der dreyen Principien in einander, wie sich das vereinige und vertrage.
+
+Das 3. Capitel.
+
+Summarien.
+
+der eicht⸗ Welt ist das 1. Principium nicht offenbar, L. 1. 9
+
+855 schon alle Eigenschaften des 1. Prinespii in sich hat. 2. Die finste⸗ re Welt ist der Licht⸗Welt contrair, und dennoch derselben Grund. 3. 3. Die vicht⸗Welt heisset GOtt; die Feuer⸗Welt Gottes gern, 5. die finstere Welt der Tod und die Hölle. 6. .Die Holle hat er Finsterniß die gröste Constellation, 7. und sind mancherley Geister darinn. 8. 9. Inden Prineipien ist kein Streit: das Feuer gibt ie Leben, und dem Abgrunde gibts Wesen; 10. der Lichk⸗Welt gibts sei⸗ neEssentz, desgleichen auch dem 3. Prineipio. u. 1e. Streitet also kein
+
+Prineipium wieder das ander, sondern die Essentz begehret eigenes. 3. Der Freyheit Wille sehnet sich nach der 5 ne
+
+Prineipia entstehen. 14. Der Grimm ist eine Mutter daraus alle des Feuers und
+
+Lichts. 18s, Die Licht⸗ und auffere Welt muͤssen die Finsterniß zu ihrem
+
+Leben haben, 16. 17. doch ist kein Streit zwischen den Principien, son⸗ dern in der Essentz. ibid. Urstand der Feindschaft, 189. des Streitesin dieser Welt, 19. und des Streites zwischen den Kindern Gottes und den Kindern dieser Welt. 20. 21. Darum muß der Mensch mit feiner ent e stets in die Licht Belt eingehen.22. Denn ob sich wol er Baum der 3 Prineipien vertraͤget: so vertragen sich die Creaturen HEN . und des Teufels Neid streitet auch gegen dem Menschlichen eschlecht. 24,
+
+Gottes Reich, als in der Licht⸗ Welt, wird nicht mehr als ein Prineipium recht erkant: Denn das Licht hat das Regiment, und sind die andern Qualen und
+
+Eigenschaften alle heimlich, als ein Mysterium, denn sie muͤs⸗
+
+sen alle dem Lichte dienen, und ihren Willen ins Licht geben; darum wird die Grimme⸗Essentz im Lichte verwandelt in eine Begierde des Lichts und der Liebe, in Sanftmuth. 2. Obwol die Eigenschaften, als Herbe, Bitter, Angst, und das bittere Wehe im Feuer ewig bleiben, auch in der Licht: Welt; so ist derselben doch keine in seiner Eigenschast offenbar, sondern fiefind allesamt nur also Ursachen des Lebens der Bes weglichkeit und Freuden.
+
+3. Was ee
+
+[p. 47] 2.Cap.3.Theosophischen Puncten. 29
+
+3.
+
+Mas in der finstern Welt ein Mehe ist, das ist in der
+
+Sieheein Jauchtzen der Freuden, ein Klingen und Sin⸗
+
+Licht⸗WelteinWolthun; und was im Finstern ein Stechen und Feinden ist, das ist im Lichte eine erhebliche Freude; und eine Furcht, Schrecken und Zittern ist, das was im Finstern en: Und das möchte nicht seyn, wann im Urstande nicht eine Iche ernstliche Qual ware. 4. Darum ist die finstere Welt der Licht⸗Welt Grund und
+
+Urstand; und muß das aͤngstlich Boͤse eine Ursache des Guten seyn, und ist alles GOttes.
+
+F. Aber die Licht⸗Welt heisset nur GOtt, und das brincipi⸗ um zwischen der Licht⸗Welt und Finster⸗Welt heisset GOttes rn und Grimm;
+
+so der erwecket wird, wie der Teufel thaͤte, ind alle boͤse Menschen, die werden alsdenn vom Lichte verlas⸗ sen, und fallen in die finstere Welt. 6. Die finstere Welt heisset der Tod, und die Hoͤlle, der Abgrund, ein Stachel des Todes; eine Verzweiflung, eine Selbstfeindung und Traurigkeit; ein Leben der Bosheit und v— ————
+
+Falschheit, ein Leben darinn man die Wahrheit und das Licht nicht stehet, und nicht erkennet; und darjnn wohnen die Teu⸗ le de verdammten Seelen, auch die hoͤllischen Wuͤrme, welche des Todes kiat, in der Bewegung des. allwesenden figuriret.
+
+bel als ein großToͤnen; wasim Lichte klinget, das pochet im Fin⸗ ee
+
+Denn die Hoͤlle hat in der Finsterniß die groͤsseste Contion der ernsthaftigen Kraft, bey ihnen ist alles lautbar, fern, wie das an dem Wesen zu erfinnen, darauf man schlaͤ⸗ t, daß es einen Klang gibt: Denn der Klang ist nicht das enz als eine Glocke,daman läntet,diese ist selber FeinKlang, fen
+
+Best nur eine Harte, und eine Ursache des Klanges.
+
+Die locke empfaͤhet den Schlag, als ein Pochen; und aus dem harten Pochen gehet der Klang aus: Ursache ist dieses, daß in der Glocken Materia ein Wesen ist, das mit in der Schöpfung, in der Bewegung des allwesenden GOttes, istin die Haͤrtigkeit eingeschlossen, als uns an der metallischen Tinctur zu erfinnen ist, wenn man nicht also toll und blind seyn wolte.
+
+8. Also erkennen wir, daß inder Hoͤlle, im Abgrunde, viel und mancherley Geister sind, nicht nur allein die Teufel forte dern viel hoͤllische Würme, nach ihrer Constellation Eigen⸗ schaft, nicht mit Verstande; gleichwie es in dieser — Br vernuͤnf⸗ [p. 48] vl. Von sechs
+
+Punct 2. Cay. 3.
+
+vernünftige Thiere, Wuͤrme, Kroͤten und Schlangen hat:
+
+Also hat auch solche der Abgrund in der grimmen Welt; denn alles wolte ereatuͤrlich seyn, und ist in ein Wesen gegangen, daß also der Zorn⸗Spiegel auch feine Wunder erzeigete, und sich offenbarte.
+
+9. Es istwol keine Empfindung der Wehe in den hoͤllischen WMürmen, denn sie sind derselben Essentz und Eigenschaft, es ist ihr Leben, und istein Wesen, das der aͤussern Welt verbor⸗ gen stehet; allein der Geist GOttes, der in allen dreyen Prin⸗ cipien selber die Qual nach eines ieden Eigenschaft ist, der weiß es und offenbaret es dem Er will. 10. So wir denn nun wollen sagen, wie sich die drey Principiaineinander vereinigen, so muͤssen wir das Feuer, als die hoͤchste Staͤrcke, in die Mitte setzen, das bringet einem ieden Principio ein wolgefaͤllig Leben, und einen Geist den es begeh⸗ ret. Darum ist in den Principien kein Streit, denn das Feu⸗ er ist aller Principien Leben, verstehet die Ursache des Lebens, nicht das Leben selber: Dem Abgrunde gibets sein Webe, als den Stachel, daß sich der Tod in einem Leben findet, sonst wäre der Abgrund eine Stille; Es gibet ihme feinen Grimm, der i des Abgrundes Leben, Beweglichkeit und Urstand, sonstmi NY es eine stille Ewigkeit und ein Nichts. u. Und der Licht: Welt gibet das Feuer auch feine Essentz, sonst wäre kein Empfinden noch Licht darinne, und wäre alles nur Eins, und doch ausser dem Feuer ein Nichts, als ein Auge der Wunder, das sich selber nicht kennete, da kein Verstand inne waͤre; sondern eine ewige Verborgenheit, da kein Su⸗ chen oder Verbringen seyn koͤnte.
+
+12. Und dem dritten principio, als dem Reiche dieser Welt, gibt das Feuer auch seine Essentz und Qual, davon alles Leben und Wachsen raͤge wird: Alle Sinnlichkeit, und was ie soll zu etwas kommen, muß das Feuer haben; es quillet nichts aus der Erden ohne des Feuers Essentz. Es ist eine Ursache aller dreyen Principien, und alles dessen, was genant mag werden.
+
+13. Also macht das Feuer eine Vereinigung aller dreyen Principien, und ist einem ieden die Ursache des Wesens. Kein
+
+Princip um streitet wieder das ander, sondern die Esseng eines ieden begehret nur sein Eigenes, und ist immer im Streit;
+
+und so das nicht wäre, so waͤre alles ein stilles Nichts. '15 „.
+
+[p. 49] 4 9.2. Cap.3 T t und Gestalt, iedes Principium gibet dem andern feine Kraf neh und ist ein steter Friede zwischen ihnen.
+
+14. Die finstere Welt hat die grosse Pein und Angst, die ursachet das Feuer, daß der Wille nach der Freyheit sich seh⸗ und die Freyheit sehnet sich nach der Offenbarung, als net, nach den Essentien, und gibet sich selber in Grimm, daß sie sich moͤge also offenbaren: und fuͤhret sich also ins Feuer, daß aus dem Grimm und der Freyheit ein Feuer urstaͤndet; und gibet
+
+sich also demGrimmezu verschlingen, als in Tod; und gehet aber aus dem Tode, mit den eingenommenen Essentien aus, in ein Eigenes, als in eine eigene Welt oder Qual, und wohnet insich selber / dem Tode und der finstern Welt unergriffen, und ist ein Licht in sich.
+
+15. Also ist der Tod und der Grimm eine Mutter des Feu⸗ ers, und auch eine Ursache der Licht⸗Welt, dazu eine Ursache alles Wesens des dritten Principii , eine Ursache aller Essentien in allen Leben: wie wolte denn ein krincipium wieder das an⸗
+
+2 dere streiten, so je eines des andern heftig begehret. 156. Denn die Englische Licht⸗Welt, und auch diese unsere
+
+sichtbare Welt muͤssen des finstern Todes Essentz zu ihrem Les ch. darna Hung stete Es n: habe Dual ben e 5 Allein das is ts, ein jedes Principium machet die Qual
+
+| un feiner Eigenschaft: Es gibet dem Bösen fein Gutes und einiget sich mit ihme, und machet aus dreyen Eins, daß also kein Streit zwischen den dreyen Principien ist. Aber in der ne Streit, und das muß seyn, oder es wäre alles I ts. v w ur⸗
+
+staͤnde? Gott hat in iedem Prineipio Creaturen, aus des Princip Wesen und Eigenschaft geschaffen, darinnen zu blei⸗ ben: Und so sie darinn nicht bleiben, sondern führen ein anders durch ihre Imagination in sich in ihre Eigenschaft, so ist ihnen das eine Feindschaft und Pein, als dem Teufel und gefallenen Menschen, welche beyde aus der Licht⸗Welt ausgegangen sind, der Teufel in Abgrund der starcken Grimmes⸗Macht aus Hof⸗ Di und der Mensch in diese Welt ins Mysterium der Vielwis⸗ heit, als in die Wunder. 19, Nun hat der Mensch Noth und Streit, daß er moͤge wieder ausgehen; und diese Welt, darein er if gegangen, h in, dennsiewil ihn haben: und foer von ihr mitMachtaus⸗ Kur gehe
+
+**
+
+[p. 50] V! Von sechs Punct2.Cay3ö gebet, so wird sie ihm gram, und Kläger auf ihn, und will ihn nicht in sich leiden.
+
+20. Daher kommts, daß die Kinder dieser Welt die Rinder vondsich des Lichts anfeinden, plagen, schlagen, toͤdten, un treiben, denn der Geist dieser Welt treibet sie darzu; darzu hilft auch der Teufel, denn er weiß daß diese Welt auf dem Ab⸗ grund stehet/ daß er wird die Kinder dieser Welt, in Zerbre⸗ chung dieses Mysterii, in fein Reich bekommen: darum treibet er die Kinder GOttes von dieser Welt, daß sie ihme seine Kin⸗ der dieser Welt nicht auch in die Licht⸗Welt mit einfuͤhren. 21. So aber der Mensch zu dieser Welt waͤre geschaffen worden, so liesse er ihn wol zufrieden; aber er will immer gerne seinen koͤniglichen Stuhl wieder einnehmen, den er ge⸗ habt, und davon verstossen worden: Und so ers ja nicht mag erlangen, so will er auch den Kindern, die ihn sollen besitzen, denselben nicht goͤnnen. 22. Dieses ist nundem Menschen hoch zu betrachten /und 4 nicht also blind zu seyn: so jeder Mensch ist ins Mysterium Die ser Welt eingangen, so soll er aber darum nicht also als ein Gefangener auch in die irdische Sucht des Todes Einschlies⸗ sung eingehen; sondern er soll ein Erkenner und Wisser des Mysterii seyn, und nicht des Teufels Eule und Narr. dern soll mit der Imagination stets wieder ausgehen in die Licht⸗Welt, darzu er geschaffen ward, aufdaß ihm das Licht
+
+Glantz gebe, daß er sich erkenne, und das aͤussere Mysterium sehe, so isterein Mensch; wo aber nicht, so ist er des Teufels
+
+Narr, und der Licht⸗Welt Affe: gleichwie ein Affe will 57 seyn, und mit allen Dingen spielen, und alles nachthun; also ist chen auch des irdischen Mens der doch nur ein Affe ist sein Gau⸗ ckel⸗ Fechten mit der Licht⸗Welt. Wenn er nicht mit Ernst darein dringet, sondern fpielet nur darmit, des spottet der Teu⸗ fel, und hält den für einen Narren, und er ists auch, er istein Thier⸗Mensch; so lange er mit feinem Willen am Ausseren han⸗ get, und halt dieser Welt Gut für feinen Schatz, so isternur ein Mensch mit dieser Welt Wesen, und nicht mit GOttes Licht⸗
+
+Welt Wesen, der gibet feinen Leib dieser Welt, als der er und feine Seele dem Abgrunde der finstern Welt. 2g. Also geben wir euch zu verstehen und zu erkennen, daß ver⸗ sich der Baum der drey Principien gar wol mit einander trage, aber die Creaturen nicht, dann, eines ieden Prineiplt [p. 51] eee
+
+PM
+
+Puneten. 33 chen ophis Theos 4. Cap Creaturen begehren der andern nicht: und darum ist auch ein fester Schluß zwischen ihnen, daß wir andere nicht kennen, noch sollen
+
+sehen.
+
+24. Alle Teufe els Neid streitet gegen dem menschli⸗ chen Geschlechte dann sie haben ihm feinen Stuhl besessen. Darum heists: Mensch suche dich selber und siehe was du biff, und hüte dichvorm Teufel. So viel vom zweyten Punct ,wit die drey Prineipia mögen mit einander einig vertragen.
+
+Dtiäer Dritte Punct.
+
+Ge⸗ gkeit Vom Urstand der Wiederwaͤrti des waͤchses /indeme das Leben in sich selber
+
+ssttreitig wird.
+
+Das
+
+4. Capitel.
+
+5re
+
+Summarien. e viele Willen machen Streit, 1. 2, aber das Licht ist allein Herr.
+
+„Das Gemuͤth it des Willens Quell⸗Brunn; 4. worinn es fichentzündet dariunen brennet Geist und eib.5. welche Eigen⸗ das Feuer hat, dieselbe bekommt auch das Licht;6. nur daß sich
+
+Seelen⸗Feuer nicht im Grimm entzuͤnde, 7. an dem wir unsern
+
+schweren Fall erkennen. 3. Aus dem Feuer kommt das Licht, 9. und ken Geist aus sich. 10. gut oder bös, u. nachdem die Materia des ist z12,13.daraus wir erkennen, welcher Geist die Freyheit er⸗ inget oder nicht? 14. Die Liebe nimt den Grimm nicht ein. ibid.Jeder Geist des Feuers begehret in feine Gleichheit einzugehen, 13, daraus zu „woraus Feindschaft entstehet. 16. Darum muß ein ieder acht auf sich haben, und feinen irdischen Willen brechen, ı7. denn nach dem 8 u ein Rath. 18. Also verfiehen wir auch des Teufels Fall. 19. 2 der Mensch vor Hoffart und Geitz hüten. 20, Gottes ar 5 »
+
+Reich e stehetin der Liebe in klaren Licht. ei. Der innere Mensch hat diese
+
+——— (ie in sich, 22. in welche Er sich, in dieser Zeit eingiebet, darinne ebet lebe
+
+Er.ez. Darum muͤssen wir unters Creutz, 24. in der Liebe wan⸗ deln,und andern ein Spigel seyn; 25. auch das Böse mit Gutem übers ie⸗ das Ubel abzuwehren, zugelassen, winden. 26. Wo zwar in der Noth doch insgemein vielmehr das Christliche Gemüth in ernstlicher Vers mahnung darzulegen ist, damit der Ubelthͤter sich bekehre. 27.28.
+
+Ding das Eins ist das nur Einen Willen hat, streitet nicht wieder sich selber. Da aber viel Willen in einem Dinge sind, so werden sie streitig denn ein ieder will sei⸗ nen gefaffeten Weg gehen. So es aber ist, daß einer des an⸗ dern Herr ist,und gantz volle Macht uͤber die andern alle hat, U daß er die mag zerbrechen, so sie ihme RR gehorsamen; 5an
+
+Be ;:
+
+kei.
+
+$ [p. 52] n chs Vl. Vose
+
+Wige
+
+Pupetz Cap aE
+
+stehet des Dinges VielheitinEinem Wesen, denn die Viele Willen gebensich alle in Gehorsam ihres Herrn.
+
+2. Also geben wir euch zu erkennen des Lebens Wiederwuͤr⸗ tigkeit, denn das Beben stehetin vielen Willen; eine iede Essentz mag einen Willen fuͤhren und fuͤhret ihn auch. Dann Herbe, Bitter, Angst, und Sauer ist eine wiederwaͤrtige Qual /da ein iedes feine Eigenschaft hat, undgantz wiederwaͤrtig gegen ein⸗ ander. So ist das Feuer der andern aller Feind, denn es setzet eine iede Qual in grosse Angst; daß also eine grosse Wiederwaͤr⸗ tigkeit zwischen ihnen ist, da je eines das andere anfeindet als man denn siehet wie Hitze und Kalte einander anfeinden, sowol Feuer und Wasser, Leben und Tod. 3. Also imgleichen feindet sich des Menschen Leben selbst an:: Es feindet je eine Gestalt die andere an, und nicht alleinim Menschen, sondern in allen Creaturenz es sey dann daß dieGe⸗
+
+stalten des Lebens einen sanften lieblichen Herrn bekommen un⸗ ter dessen Zwang sie muͤssen seyn, der ihnen kann ihren 5 und Willen brechen; das istnun das Licht des Lebens dasi aller Gestalten Herr, und kann sie alle baͤndigen, und sie 55 alle ihren Willen dem Lichte geben; sie thuns auch gerne, denn das Licht giebet ihnen Sanftmuth und Kraft, daß ihre herbe,
+
+strenge, bittere aͤngstliche Gestalten alle in Lieb ichkeit verwan⸗ delt werden. Sie geben alle ihren Willen des Lebens Lichte, und das Licht gieb etihnen Sanftmuth. 4. Also wird die Vielheit in Eines verwandelt ineinen Wil⸗ und ist der Quellbrunn, da der ei⸗ len, derheisset das Gemůthe, nige (ewige) Wille kann daraus schoͤpfen Boͤses und Gutes, welches geschiehet durch Imagination, oder durch Fuͤrstellung eines Dinges das bög oder gut ist; so ist dessen Dinges Eigen⸗ schaft derselben Eigenschaft im Leben faͤhig. Des Lebens Ei⸗ genschaft fahet des fuͤrgestelten Dinges Eigenschaft, es sey gleich ein Wort oder Werck, und entzuͤndet sich damittin fü selber; und steckt auch die andern Gestalten des Lebens damit an, daß sie anheben zu qualisteiren, und brennet eine iede Eigen schaft in ihrer Qual es sey nun gleichin Liebe oder Zorn, alles nach dem fuͤrgestelten Wesen; was die Imagination hatge gen, das fuͤhret sie ins Gemuͤthe ein. 5. Und geben euch also zu verstehen daß so sich daschemüthe al in einer Gestalt entzündet, so entzuͤndets den gantzen Geist und Leib, und fuͤhret alsbald feine Imagination ins E euer an2d [p. 53] uf
+
+3. Cap 4. Theosophischen Puncten.
+
+Feuer der Seelen, und erwecket das innerste Centrum Naturæ:
+
+welchessoes entzündet wird/essey im Grim̃ odeꝛdiebesofassets sichinallen sieben Gestalten der Natur, die greiffen nach der Seelen Will en⸗Geiste, darinn die edle Bildniß stehet, darin sich 2 eröffnet, und führen ihr angezündet Feuer darein; wie ein Gleichniß am Feuer habtinwas Materia dasselbe dieses et,einen solchen Schein gibets auch /alsuns am Schwefel 9 — zu erkennenistundinvielen Dingen mehr.
+
+ven verstehet man an deme, gleich was das Feuer ine Qual und Eigenschaft Bee 777 Eigenschaft be⸗
+
+| 3
+
+So chdas Licht und die Kraft des Lichtes. dann unsere edle Bildniß GOttes im Lebens⸗ichte festim Once ist uns hoch erkentlich, wie der See⸗ len Willen⸗Geist als die edle Bildniß verderbet, und im Grim⸗ men⸗ Qual auch oftin der Liebe⸗Qual entzündet werde. Und sehen also hierinnen unsere grossegefahrlichkeit und Elend, und tehen recht warum uns Christus hat die Gedult, diebe und
+
+S anftnnuth gelehret, aufdaß sich das Gerlen- Feuer nicht im Grimme entzuͤnde, auch daß wir nicht anderen Ursache geben daß sie ihr Seelen⸗Feuer im Grimme entzuͤnden, auf das Ottes Reich nicht gehindert werde. & er Hierinn erkennen wir unsern schweren Fall daß uns Adam bat irdische Materiam in unser Seelen- Feuer eingeführet die brennet /sooft nur eine Qual im Centro der Grimes Eigenschaft t erwecket wird. Und sehen also,wie wir in GOttes Grimm zwi.
+
+schen Zorn und Liebe gefangen liegen,ingrosser Gefährlichkeit,
+
+9.
+
+wie wir Und geben euch das hoch zu erkennen: Ihr wisset, oben und in allen Buͤchern gemeldet, wie daß aus dem Feuer das Licht gehe alsein ander Principium, und dasselbe Licht doch — des Feuers Eigenschaft und Kraft habe, denn des Feuers Centtum giebets desbichtes Centro ;und wie das Licht auch begeh⸗ rend sey, und habe eine Matricem der sehnenden Sucht, welche mit der Kraft des Lichtes, als mit der Sanfte sich im Be muth des ichtes, schwaͤngert; und in derselben Schwaͤnge⸗ eher das Wesen des Lichts, das ist, in der reinen Liebe
+
+5. Und dann haben wir euch berichtet, wie das Feuer dafs *
+
+4 be Weseninsich ziehe, und zu seiner Achts⸗Essenz brauche, gebe aber aus der Essentz einen andern undinsich verschlinge, u der nicht Feuer sey: wie * Bannsehet, daß das dure wen
+
+Er [p. 54] ua, vl. Von sechs Punet3.Cap.
+
+a.
+
+zweneGgeister giebet: als () einen grimmigen verzehrenden aus dem Grimm, als der ersten Materiz Eigenschaft: und dann ( einen Luft⸗Geist, der des Lichts Sanftmuth Eigenschaft RER : 11. Jetzt ist uns zu erwegen, in was Materia das Feuer in der ersten Essentz brenne; in was sichs entzündet habe, in Liebe oder Bosheit, das ist,in irdischer oder Goͤttlicher Begierde un solch Feuer iste8, und giebet auch ein solches Licht⸗Feuer ,und auch einen solchen Geist aus dem Licht Feuer. 12. Ist nun des ersten Feuers Materia gut darinnen das nd breñetsohat das ander Picht-Feuer auch eine guteEigenschaft, Ruch und Qual, und giebet auch ein gutkraͤstig lieblichkicht und aus dem Lichtẽ⸗Centro auch einen guten und kraͤftigen Geist: ist die Geichniß GOttes, das edle Bild. und derselbe Geist 13. Ist aber das erste Feuer in seiner Essentz boͤse, und bat böfe Materiam darinnen es brennet zo ist auch des Lebens bicht ein falscher Qual, und dunckeler Schein, wie am Schwefel⸗ Licht zu sehen: und desselben begehrenden Lichts Centrum u.
+
+ret auch aus feiner Eigenschaft solche Materiam in fein® und das Feuer giebet auch einen solchen Geist aus sich. 0 14 Jetzt ist uns erkentlich, welcher Geist die Freyheit GOttes möge erlangen oder nicht; denn welcher Seelen⸗Geist oder Bildniß dunckele finstere Eigenschaft in sich hat, der mag des klaren Lichts GOttes nicht fahig seyn. (2Auch soer grimmige
+
+Essentien und Eigenschaften in sich hat, mag er sich auch nicht mit der Sanftmuth Gottes vereinigen und mit ihr inquali⸗ ren: denn der Grimm ist eine Feindschaft wieder die Liebe und Sanftmuth; und die Liebe laͤsset den Grimm nicht in sich; ietzt sind sie geschieden: Und stoͤst die Liebe den Grimm vonsich, und der Grimm begehret auch nicht mehr der Liebe Eigenschaft. 15. Denn so bald das Feuer den Geist aus sich giebetsoister vollkom̃en, und scheidet sichin feine Eigenschaft,essey ein Lichts Geist, oder finsterer grimmiger Schwefel ⸗Geist; und in dieselbe Essentz davon er ist ausgegangen, begehrt er wieder: denn es ist seine Eigenschaft es sey gleich inriebe, Feindschaft derbiebe. 16. Also verstehen wir ietzt, welche Geister oder Seelen in der Qual der Feindschaft leben, und wie sich die Feindsch staͤnde; daß sich ein Leben selber feinde, als nemlich aus sten Materia zu des Lebens Licht. Die Ursache stehet im der Natur, in den sieben Geistern oder Gestalten, welcher ieder
+
+seine Eigenschaft hat: und in welcher Eigenschaft .
+
+y
+
+[p. 55] P x 7
+
+Cap 4. Theosophischen Puncten.
+
+müthe entzuͤndet wird, eine solche Eigenschaft bekommt fein Seelen⸗Feuer mit dem Willen⸗Geiste; welcher denn auch alsobald nach Substantz und Wesen trachtet, wie er das moͤge Wercke richten, dessenderWillen⸗Geist schwanger ist. 27. Jetzt ists noth dem irdischen Willen feine Kraft brechen, und deñ alten böfen Adam tödten und feinen Willen⸗Geist mit aus der Bosheit ausführen: denn alhier Zwang und Gewalt dieser Zeitmags seyn, weil das dritte Prineipium mit dem
+
+Wasser, welches Sanftmuth gibet, dem Centro der innern und gleich in feiner Qual gefangen haͤlt. Natur anhangt, als das innere Lichts⸗ 18 Wen aber der Seelen Willen⸗Geist und allein bleibet alsdann blei Centrum, vom Aeussern abbricht, bet der Seelen⸗Geist in seiner Eigenschaft, dann es ist wenig
+
+Rath der Willen ⸗Geist habe sich denn in geit des aͤussern Lebens umgewandtinGOttes Liebe, und die als einen Funcken im in⸗ nern Centro erreichet; so mag doch ja etwas geschehen, aber in was Qual und Mühe das gefihehe,erfährer der Funcke der Lies wolder da soll den Finsteren grimmen Tod zerbrechen zes ist ͤ y—-— be ihme Fege Feuers genug: In was Feindschaft das Leben ste⸗ he, in Schrecken und Angst, bis es kann in den Funcken, in die Freyheit GOttes ersiucken erfaͤhret der wol, der also blos mit wenigem Licht von dieser Welt scheidet, welches die ietzige viel zukluge Welt fuͤr Schertz haͤlt; was sie aber fuͤr Erkentniß habe, beweiset sie mit der That.
+
+dereinEn⸗ 109. Und also verstehen wir auch des Teufels Fall, r gelwarwieer habe, wiederum ins Centrum der ersten Eigen⸗ und grosse Staͤrcke und Macht gesuchet, (wie schaft imaginiret die ietzige Welt grosse Macht und Ehre, und habe das Licht der
+
+Liebe verachtet. Wiewol er meinete das Licht solte ihm also brennen, (und die Welt hoffet und meinet auch, das Licht GOt⸗ tes folle in ihrer Pracht brennen) und er wolte sich noch sehrer entzuͤndẽsomöchte er maͤchtig über alle Thronen herrschen, uͤber das Wesen der Gottheit in der Sanftmuth: welches ihme zum Fall gerathen ist, wie auch ietziger Welt geschehen wird.
+
+20.
+
+Darum lerne nun ein ieder Mensch hiebey,sich zu hüten
+
+Hoffart und Geitz: denn dem Teufel kam fein Fall aus Hof⸗ und Geitz daß er das Centrum der finstern Welt in ihm an⸗ zuͤndete: Darum ward er auch aus der Licht⸗Welt in die finste⸗ re Welt gestossen. Also gehets auch allen Menschen,dieda aus vor der Sanftmuth und Demuth, 45Grimm, Hoffart, Geitz und | Tr Neid [p. 56] »
+
+vi WVonsechs Punctz. Cap. 4.
+
+Neid treten, die imaginiren alle ins Centrum der ernN tur, als in UrstanderNatur, und ziehen sich ins fin 3 der Angst⸗Qual, dadieedle Bildniß in andere Qual eingefuͤhret wird, daß sie muß in Angst und Feindschaft stehen,Daleeine Gestalt des Lebens die andere anfeindet. 21. Und sehen auch hieraus eigentlich, wie SOttes Reich al⸗ lein im hellen klaren Lichte in der Freyheit stehe,in Liebe und Sanftmuth: denn das ist des weissen hellen eichtesEigenschaft, wie man dann das im äuffern Wesen siehet, da so eine liebliche, sanfte und süsse Mareria zum äuffern Feuer ist welches doch nur des innern Feuers Grimm ist, daß also auch ein er |und das im Geist⸗ Ruch daraus entstebet; viel mehr geschiehet Feuer ,da kein begreiflich oder gaͤusserlich Wesen darzu gehoͤret: Sondern da die sieben Geister der Natur ein Feuer in sich sel⸗ ber machen, welches nur eine Eigenschaft und Qual des Feuers ist, als denn die Finster⸗ und auch icht- Welt in solcher geiftlis cher Eigenschaft stehet.
+
+22. Sowol auch der innere Mensch,der aus dem Ewigen ist, und der ins Ewige gehet, der hat blos die zwey Welten in sich:
+
+welche Eigenschaft er sich einwendet, in dieselbe Welt auch eingefuͤhret, unddeꝛen Welt Eigenschaft wird er ewig und die geniessen; entweder eine Liebe⸗Qual aus dervicht⸗ Sanftmuth oder eine feindliche Qual aus der 3
+
+23. Alhie grünet und waͤchset er in der mittlen Welt zwi⸗ schen der Licht⸗und finstern Welt; er mag sich einergeben in welche er will: welche Essentz in ihme das Regiment bekommt, der Grimm oder die Sanftmuth, dieselbe faͤhet er, und dieselbe hangt ihm an, und führet ihn,sie giebet ihm Sitten und Willen, und vereinigetsich gantz mit ihme: und dahinein führet der Mensch den geistlichen Menschen, als die Bildniß die Gott aus seinem Wesen, aus allen dreyen Principien schuf.
+
+24. Darum heissets: Nim das Creutz auf dich; trete indie
+
+Gedult, in ein sanftmuͤthiges Leben; Thue nicht, worzu dich das finstere Centrum des Grimmes und auch nicht wozu di die Falschheit und Wollust dieser Welt reitzet, sondern bric beyden ihren Willen. Reitze auch niemand zum Zorne; so du falsch handelst, so erzuͤrnest du deinen Bruder, un derst das Reich GOttes.
+
+25. Du solst ein Führer ins Reich GOttes seyn, und deinen Bruder mit deiner Liebe und Sanftmuth anzuͤnden, daß erer
+
+[p. 57] Pg Cap. 4. Theosophischen Puncten. 29 dir Gottes⸗Wesen als in einem Spiegel und also auch aiki Imagination a dir fahe.
+
+Thust du dassofůͤhrest du le,dein Werck, auch deinen Naͤchsten oder Mit⸗Bru⸗ Be Reich, undvermebreft das Himmelreich mir feis undern. Das bat uns Cbristus gelehret sagende: Wenn dich einer auf einen Backen fehlaget,beut ihme auch den andern dar: nimt dir einer den Mantel, so wehre ihm auch nicht den
+
+Rock; (Matth. 5: 39.40.)An er an dir einen Spiegel habe und in sich gehe, sehe deine Sanftmuth, erkenne daß du GOttes
+
+Kind bistunddaß dich GOttes Geist treibet; Daß er auch von dir lerne, insich gehe, und sich suche. Sonst wo du ihm wieder⸗ stehest mit Trotz und Bosheit, so wird seine Bosheit noch mehr entzündet, und vermeinet endlich, er thue dir recht; also aber muß er ja erkennen, daß er dir unrecht thut. 26. Undso dann Gottes Liebe allen boͤsen Menschen ent: gegen trit, und das Gewissen vom Boͤsen oft abmahnet, so trit e alsdann auch deine Sanftmuth und Gedult in sein boͤs Gewissen, und cherte Gewissen in sich vor GOttes Licht im e an ;so gehet doch also mancher boͤser Mensch aus feiner beit aus, daß er in sich gehet, und suchet sich: alsdenn erin⸗ e, Gottes Geist deiner Gedult, und stellets ihm unter en, also wird er damit in Buß und Abstinentz gezogen. 27. Nicht hats dem Verstand, daß sich nicht einer solte vor
+
+4 Mörder oder Dieb wehren, der da will morden und raus ben;Sondern also soll man oft,woman siehet, daß einer so be⸗ gierig ist der Ungerechtigkeit, ihme seinen Falsch offentlich mit und ihme das christ⸗ gutem Lichte unter Augen lassen hinfahren, liche liebreiche Gemuͤth gutwillig bieten daß ers mit Kraft der
+
+That befinde daß es aus GOttes Liebe ⸗Eifer geschehe, und daß ihmeanGOttes Willen und an der Liebe mehr gelegen sey, als an dem irdischen Wesen; daß er fürfäglich nicht wolle einwil⸗ ligen, daß moͤchte etwas eifriges oder boͤses geschehen; sondern daß er sehe, daß die Kinder GOttes die Liebe GOttes mehr lie⸗ ben, und ihr mehr anhangen, als allem zeitlichen Gute, und daß Gottes Kinder in dieser Welt nicht daheime sind, sondern nur Pilgrimmen, die gerne alles dieser Welt lassen, daß sie nur das Himmelreich ererben moͤgen.
+
+28. Dis alles stellet der Geist GOttes dem Übelthaͤter für, insdebens⸗Licht und ermahnet ihn dadurch zur Wieder⸗Umkeh⸗ rung. Willer aber nichtsowee ihme der Zorn GOttes 5
+
+BE
+
+[p. 58] Be
+
+NE
+
+ͤ
+
+EREER
+
+Punet 4. Cap.5.
+
+lisch Feuer daraus, und naget ihn doch endlich, ober doch sich noch wolte erkennen und Busse thun. Beharret er dann ja in der Bosheit, so istEr ein gantz boͤser Baum, im Zorn GOttes ge⸗ wachsen und gehoͤret in Abgrund, in die finstere Angst⸗Welt, zum finstern Gott Lucifer, da muß er seine Greuel fressen.
+
+So viel vom dritten Punct.
+
+Ber Vierte Pune. Wie der heilige und gute Baum des ewigen Lebens aus allen Gewaͤchsen der drehen Principien aus und durchwachse, und von keinem ergriffen werde.
+
+Das 5. Capitel. Summarien.
+
+As dicht scheinet in der Natur, it aber unbegreifflich, g.1:3. macht alles sanft und ist ein Herr in der Natur. 4. Dahingegedie
+
+Willen in der strengen Natur, Trennung machen, 5. denn der Grimm des Lichts Feind ist, obwol dieses durch die Finsterniß unbe⸗ greifflchscheinet. 6.7. Kein Prineipium begreift das Licht, es gehe dann in Tod, und gebefeinen böfen Willen dem Licht ein; 8. also wird aus ose gut, und das Licht scheinet aus der Finsterniß. 9. Warum die eufel und Gottlosen Gott nicht sehen? 10. Die Licht⸗Welt weißt nichts vom Teufel, u. weil das Licht nur von dem ergriffen wird, daß sich darein ergiebet; gleich sich die aussere Welt, der Sonnen, als ei⸗ nem Natur⸗Gott, aneignet, 12. darum sie auch für ein eigen Princi⸗ pium erkant wird, weil sie einen eigenen Natur⸗Gott hat.3. Der Sonnen Urstand it aus der 8. Zahl, und ist Gottes Feuer, ein Prin⸗ eipium der Licht Welt und der Sonnen. 14. Die finstere Welt aber ist der Natur Grund, und der Ewige Wille der finsteren Welt. 1. Diese äussere Welt ist in GOttes Zorn als im Tode geschlossen, 15, und hat nur einen Glast von GOtt. 17. Der Teufel aber ist die ärmste Creatur.18.
+
+In Ding, das in sich wohnet , mag von nichts gefasset werden, denn es wohnet im Nichts; es istnichts vor ih⸗ me, das es ergreiffen mag, und ist auch von dem Din⸗ ge, das ausser ihme ist, frey. 2. Also geben wir euchzuverstehen von der Goͤttlichen Kraft und Lichtdiewohnetinsich selber, und ist in nichts eingefasset, nichts beruͤhret sie es sey denn dessen Eigenschaft. Sie ist in der Natur allenthalben doc,h beruͤhret sie die Natur nicht / (verstehe die aussere Natur der Welt.) Sie scheinet darinne gleich wie die Sonne in den Elementen die Sonne scheinet ins Wasser, auch ins Feuer, und durch die Luft, und wird doch von — ergrif⸗
+
+[p. 59] ).4.Cap.s. Theosophischen Puncten. 41 n noch gehalten: Sie gibt allen Wesen Kraft, und ma⸗ die effentialifchen Geister lieblich und freudenreich. Sie ht mit ihrer Kraft die Essentz aus der Erden, und nicht ein die Essentz sondern auch das Wesen der Essentien, wel⸗ ches aus der Essentz einen Leib giebet.
+
+3. Was nun die Sonne im dritten Principio thut, in dem sie
+
+5 feindliche Essentz und Dual in Sanftmuth verwandelt, das thut GOttes Licht in den Gestalten der ewigen Natur.
+
+4. Es scheinet indieGestalte, und auch aus den Gestalten; ist, es zuͤndet die Gestalten der Natur an, daß sie alle des kichts Willen bekommen, und sich dem Lichte eineigenen und
+
+sich ihme gantz einergeben: Das ist, sie ersincken aus ihrer eige⸗ nen Essentz und werden als haͤtten sie keine Macht in sich begeh⸗ ren allein des Lichtes Kraft und Macht; Also nimt das Licht ih⸗ re Kraft und Macht in sich, und scheinet aus derselben Kraft. Also kommen alle Gestalten der Natur zum Lichte, und ist das Licht mit der Natur Ein Wille, und bleibet das Licht Herr. 5. Sonsten wo die Willen in den strengen Gestalten der Na⸗ tur wollen Herr seyn, so ist eine Trennung, und eine ewige Feindschaft; denn eine Gestalt feindet immer die andere an, eine iede erhebet sich, davon kommt die Wiederwaͤrtigkeit, daß ekeine Creatur also böfe, zornig und feindig ist, daß oft das Leben in ihme selber streitig ist. 6. Und wie wir nun erkennen, daß das Licht dem strengen Le⸗ ben der Natur, den Eigenschaften der Essentien zu Huͤlfe komt, daß also ein feölich beben entstehet, und sich also im Lichte ver⸗ andert; Also erkennen wir auch, daß das Leben der finsteren Grimmigkeit des dichtes Feind ist, denn es kann das Licht nicht fahen: das ewige Licht scheinet durch die Finsterniß, und die Finsterniß kanns nicht begreissen, denn die Vielheit der Willen in der finstern Natur sind alle im Tode geschlossen, das Licht scheinet nicht in sie,sondern durch sie; Sie fahen noch sehen das
+
+Licht nicht: Wir verstehen und erkennen, daß gleichwol das Licht in der finstern Welt ist; aber es erfuͤllet nicht die Finster⸗ niß, darum bleiben die Effentien der finstern Welt ein feindlis cher Gift und Todda sich die Essentien selber inne feinden.
+
+Und also sind drey Principia ineinander, und keines be⸗ greift das ander, und kann das ewige Licht von nichts ergriffen werden, es falle denn in den Tod und gebe feine Essentz freywil⸗ lig dem Feuer der Natur, und 4 mit feinem ns ien
+
+[p. 60] VI.Von sechs
+
+Punct Cap5.
+
+Willen aus sich selber aus insLicht, und gebe sich dem Lichte gantz heim; und begehre nichts zu wollen oder zu thun, sondern gebe seinẽ Willen dem Lichte heim daß das Licht fein Wolle sey. 8. Also faͤhet ihn das Licht, und er das Licht auch: Und also ist der böfe Wille dem Lichte ergeben, und das Licht giebet feine undmachet aus der Bosheit einen freund⸗ Kraft in die Bosheit, lichen guten Willen, der nur ein Liebe⸗Begehren ist, denn die des Lichts hat sich dem feindlichen Willen gang eingeleibet 2: Also geschiehet letzt GOttes Wille, und wird das Boͤse ins Gute verwandelt, und scheinet GOttes Liebe aus seinem Zorn und Grimm, und wird kein Grimm in Gottes ewigen Natur erkant. Denn also ist uns zu c wie das ewige Licht, als der ewige Kraft⸗Baum, durch alle drey Princıpia scheinet, unergriffen deren eins; denn so lange ein Wesen ausser
+
+Gottes Willen ist, (verstehe dem sanften Licht- Willen) solang ists einig und wohnetinsich selber, und begreift nichts von Gott: So sichs aber in GOtt eineignet und seinen Willen zer⸗ bricht und sincken laͤsset, so ists Ein Geist in und mit GOtt und
+
+G Ott scheinet aus demselben Wesen. 10. Und verstehen auch warum die bos hafte Seele, sowol der GOtt nicht sehe und erkenne als daß sich ihr Wille nicht Teufel, will in GOtt eineignen, er will selber Herr seyn: Also bleibt er ausser GOtt, nur in sich selber , und Gott bleibet auchin sich selber; und wohnet also eines im andern, und weiß nichts vom andern, denn es kehret eines dem andern den Ruͤcken, und sie⸗ het des andern Angesicht nicht. u. Also weiß die Licht⸗Welt nichts von den Teufeln, und die Teufel wissen nichts von der Licht-Welt ,als nur dieses, daß sie einmal darinn gewesen sind; bildens ihnen für, wie einer derin der Imaginationfichet,da sich doch die Licht⸗Welt nicht mehri ihre Imagination einergiebet, und sie auch nicht darnach imag niren, denn es schrecket sie, auch schaͤmen sie sich deren.
+
+12. Also ist uns auch von der aͤussern Welt zu verstehen;
+
+Gottes Licht scheinet durch und durch, wird aber nur von dem ergriffen was sich darein eineignet: So dann diese aͤussere
+
+Welt an GOtt als stumm und ohne Verstand istsobleiberjfie in ihrem eigenen Willen, und fuͤhret ihren eigenen Geist insich, wiewol ihr GOtt hat einen Natur⸗Gott gegeben, als die Sonie, darein alles Wesen feinen Willen und Begierde fol werfen was
+
+Ua
+
+[p. 61] R
+
+#### P. m
+
+ten. 43 5.Theosophischenthut,Punc Cap 4. dasbleibet in dieser Weltist,und welches das nicht heit,und iftfeine selbsteigeneFeindschaft. gro Bos ber eine
+
+3. Und darum wird diese Welt für ein eigen Principium er⸗ kant daß fieeinen eigenen Natur⸗Gott hat; also zuvergleichen, die Sonne, und scheinet doch wahrhaftig das richt remlich
+
+Sons durch alles, durch und durch. Das Lic S nen nimt Essentz von G Ottes Feuer, und GOttes Feuer von Ottes Lichte. Also gibt das Licht der Sonnen dieselbe Kraft auch Gewachsen gebens den Creaturen er Erden, und alles was guter Eigenschaft ist,empfahet also Gottes Kraft zu einem Anblicke, durch den Spiegel der Weis⸗ heit, davon es sein Wachsen und Leben hat.
+
+14. Denn Gott stehet allem Wesen gegenwaͤrtig, aber nicht alles Wesen empfaͤhet Ihn in feine Essentz; sondern als wie im Spiegel des Anblicks in der Sonnen Kraft; denn die Sonne ruͤhret heraus der achten Zahl. Ihre Wurtzel, daraus sie ihren Schein empfaͤhet, ist das ewige Feuer, aber ihr Corpus stehet in dieser Welt. Ihr Begehren istgantz in diese Welt gerichtet, dar⸗ um scheinet sie in die Welt; aber ihre erste Wurtzel siehet in die erste Welt ins Feuer GOttes. Diese Welt glebet ihrem Begeh⸗ ren Wesen, und sie giebet ihre Kraft dem Wesen und erfüllet als N so alles Wesen dieser Welt, gleichwie Gottes Licht die Goͤttli⸗ che Licht⸗Welt; und wenn GOttes Feuer nicht mehr brennete, so erlöfche die Sonne und auch die Göttliche Richt- Welt. Denn Gottes Feuer giebet beyden Essentz, und istein Prinelpium de⸗ rer beyden. Und wann die finstere Welt nicht waͤre, diese beyde wären auch nicht; denn die finstere Welt giebet die Ursache zu Gottes Feuer.
+
+Ig. Also muͤssen auch die drey Welten in einander seyn, denn es mag nichts ohne Grund bestehen. Dann die finstere Welt ist der Grund der Natur; und der ewige ungruͤndliche Wille, der ,ist der Grund der finstern Welt, wie vorne gemel⸗ Vater heisset det; und die bicht⸗Welt ist in der finstern verborgen, und auch die finstere Welt in der Licht⸗Welt.
+
+16. Also zu verstehen: daß diese Welt istim Zorne GOttes gleich als im Tode geschlossen; denn der Zorn grünet in dieser
+
+Welt Wesen: waͤre das nicht so moͤchte dieser Welt Wesen Gottes Licht wol fahen. 17. Also empfaͤhet diese Welt nur einen Glast mit der Son⸗ nen Kraft von GOtt. Die Sonne ist nicht GOttes Licht,1
+
+[p. 62] Vi. Von sechs
+
+Punet .Cap sie scheinet nicht gang in Goͤttlicher Essentz, son in elemen⸗ tarischer Essentz. Aber GOttes Feuer hat sie zur Wurtzel, wird aber mit dieser Welt Wesen erfuͤllet; denn sie istbegehrend als eine magische Sucht, und empfaͤhet in ihre linagination und Sucht der Sternen und Elementen Kraft; aus derselben schei⸗i net sie auch. 18. Obwol GOttes Feuer die Wurtzel ist,sogehoͤret sie doch nicht zu GOttes Reich. Und in diesem verstehet man auch, wie der Teufel die aͤrmste Ercatur ist, denn er mag nicht ein Laͤub⸗ lein raͤgen,essey denn der Zorn darinne so raͤget er das nach des Zorns Eigenfihaft; denn das Licht und die Kraft dieser Welt ist ihme zuwieder, er gehet mit seinem Willen nicht ins Lichts Ei⸗ genschaf ,dann t er kann auch nicht. Er stehet ruͤckling gegen dem Lichte der Sonnen,infeiner Figur und Eigenschaft; darum ist und alles was in der Son⸗ ihme das Sonnen⸗Licht nichts nuͤtze nen Kraft waͤchset, das sich der Sonnen eineignet /dasfeindet er ur an; sein Wille gehet nicht gerne hinein.
+
+Das 6. Capitel. Summarien.
+
+X
+
+Vus beyder innern Welten Imagination ist die äussere herkommen,
+
+9.1. daher auch die Tinctur der Metallen mit der himmlischen Gemeinschaft hat. 2. Beyde innere Welten haben sich nach We⸗ fen gesehnet. 3. J. Wo wir uns nun mit unsern Willen hinschwingen, da werden wir gefangen. 5.6. Diese 3 Welten stehen in einander, nicht unter einander. 7. Das ungründliche Wesen machet aus sich etwas, das in sich nur ein Geist oder Wille ist. 8. Das Aeussere kann das In⸗ nere nicht fassen,9ob es wol die Kraft von dem Inneren empfaͤhet. 18.11. Wolte es Gott offenbaren, so waͤre diese gantze Welt eitel Sonne. ibid. So ist der Mensch auch dreyfach. 12. Will der Mensch GOttes Licht fa⸗ hen, 13. fomuß Er rein seyn. 14. Denn des Menschen Leben it Gottes Spiegel. ibid. Das Licht ist GOttes Findung, und die Finsterniß feine
+
+Verlierung.. Wornach denn der Mensch imaginirt, dasfahetEr. 16.fg.
+
+O wir diesem allen nachtrachten, und aus der inneren Welt in diese auffere sichtbare gehen, so befinden wir, daß das Wesen der aͤusseren Welt sey aus dem innern herkommen, als aus der innern Welt Imagination oder Begeh⸗ ren. Und werden in der aͤussern Welt aller beyder innern Welten Eigenschaft finden; darzu wie beyder Eigenschaften Willen in der äuffern Welt raͤge und offenbar sind. Und denn. wie das Gute, als das Wesen, welches aus der Licht⸗Welt ist hergekommen, alles sey mit in Zorn und Tod ee, 8
+
+[p. 63] 4. Cap. 6. Theosophischen Puncten.
+
+und wie die Göttliche Kraft alles raͤge machet, daß alles aus dem Grimme des Todes aus⸗ und durchwaͤchst. 2. Dann die irdische Tinctur batnicht Gemeinschaft mit der himmlischen in der Licht⸗Welt. Wir finden aber eine an⸗ dere Tinctur in der Erden, welche mit der himmlischen Ge⸗ dba,als inden koͤstlichen Metallen, und ifdoch mit N 3 rschl w£ Verstehen also die Bewegung, und daß Fiat beyder ewi⸗ gen Welten, als der finstern und lichten; eine iede hat sich nach Wesen gesehnet: und da sich GOtt einmal bewegte, so konte eine Welt ohne die andere nicht beweget werden. 4. Denn die finstere Welt halt inne das erste Centrum der als das Her⸗ Natur, und die Licht⸗Welt das andere Centrum, tze GOttes, oder das Wort der Kraft der Gottheit, und ist eine Welt von der andern nicht getrennet. 5. Daran sollen wir erkennen, in was Gefahr wir slehen, und gedencken, wo wir uns mit unserm Willen wollen hin schwingen. Denn schwingen wir uns in die irdische Sucht, so faͤnget sie uns; so ist die Qual des Abgrunds unser Herr, und 3 Sonne unser zeitlicher Gott.
+
+Schwingen wir uns aber mit unserm Willen in die Welt 5 . —dieser Welt,sofaͤnget die vicht⸗Welt unsern Willen, und wird GOtt unser HErr, und lassen das irdische Leben dieser
+
+Welt und nehmen mit uns mit was aus der Licht⸗Welt ist in uns gekommen verstehe in Adam das wird mit dem Willen, der mit GOtt Ein Geist wird, aus dieser Welt ausgefuͤhret.
+
+7. Die Vernunft spricht: Wo sind denn die 3 Welten? sie will schlecht eine Trennung haben, da eine ausser der andern das doch nicht seyn kann; sonst ‚sey,oder über der andern stehe, muͤste sich das ewige ungruͤndliche Wesen zertrennen; wie mag sich aber das zertrennen, das ein Nichtsistdas keine Staͤt. te hat, das selber Alles ist? das kann ja nicht in Particul kom⸗ men, das keinen Grund hat, das sich nicht fassen laͤsset, das in
+
+sich selber wohnet, und sich selber besitzet; sondern es gehet aus sich, und offenbaret sich aus sich. 8. Es machet ein Ding aus fi105 dasin sich nur ein Wille
+
+Dale 0 3{ iz in sich ists ein Geist, machet aber aus sich eine Gestaltniß des Geistes und die Gestaltniß machet ein Wesen, nach Eigen⸗ schaft des Geistes: als diese Welt denn ein Wesen ist, und der ee besitzet die. Er ist an allem Orte, doch begreift
+
+Ihn [p. 64] bi
+
+#### v. Vonsechs Punet4.Cap
+
+Ibn der Ort nicht; sondern Er begreiffet den Ort, der Ort weiß nichts von Ihme, fuͤhlet Ihn aber, denn Er ist die Kraft, und der Geist in dem Orte; fein Wille gehet durch das Wesen, und das Wesen hat keine Augen Ihn zu sehen, Er aber ist das Sehen des Ortes, und ist selber kein Ort oder Stätte, machet Ihme aber eine ungruͤndliche Staͤtte, dakeinMessen ist. Er ist alles, und doch auch gleich einem Nichts, gegen dem aͤussernzu achten; was Er aus sich giebet ,das besitzet Er auch /nicht faͤhret
+
+Er darein, sondern Er ist vorhin da, ehe das Wesen die Stätte einnimtz die Staͤtte begreift nur einen Glast von feinem Willen, als wie einer in einem Spiegel seine Gestalt siehet und kañ doch die Gestaltniß nicht begreiffenz oder wie der Sonnen⸗Schein im
+
+Wasser nicht ergriffen wird, doch fuͤhlet ihn das Wasser, und empfaͤhet den Glast; oder wie die Erde Kraft von der Sonnen empfaͤhet, daß sie Frucht bringet. Also wohnet Gott in allen Wesen, und dringet durch alles, wird doch von nichts ergriffen.
+
+9. Und wie wir verstehen, daß die Erde einen grossen Hun⸗ ger und Begierde nach der Sonnen Kraft und Licht hat, in welchem sie der Sonnen Kraft und Licht an sich zeucht und faͤ⸗ ‚big wird, das ausserdem Begehren nicht seyn möchte; Glei⸗ chergestalt hungert das aͤussere Wesen nach dem innern, denn die aͤussere Gestaltniß urstaͤndet vom innern: also empfaͤhet das aͤussere Wesen des innern Gestaltniß in sich als einen Glast oder Kraft; denn den innern Geist kann dasaͤussere Wesen nicht fahen, denn Er wohnet nicht im Aeussern, sondern er be⸗
+
+sitzet sich selber insich im Innern.
+
+10. Aber des Geistes Gestaͤltniß mit dem Spiegel empfähet das aͤussere Wesen, wie das Wasser der Sonnen Glast.
+
+Nicht ist uns zu dencken, daß das Innere ferne vom Aeusseren sey, wie der Sonnen Corpus vom Wasser, wiewol das auch nicht ist, daß die Sonne ferne vom Wasser sey, denn das Was⸗ fer hat der Sonnen Eigenschaft und Wesen, sonst finge das
+
+Wasser nicht der Sonnen Glast. Ob die Sonne wol ein Corpus ist, so ist doch im Wasser auch die Sonne, aber nicht offen⸗ bar: das Corpus macht die Sonne im Wasser offenbar; Und ist uns zu erkennen, daß diegantze Welt eitel Sonne waͤre, und der Locus der Sonnen überal waͤre, wenn es GOtt wolte anzuͤn⸗ den und offenbaren ; denn alles Wesen in dieser Welt faͤnget der Sonnen Glast: Es istin allen ein Spiegel daß es die Kraft und Gestaltniß der Sonnen mag fahen En nleb⸗
+
+[p. 65] FA
+
+9.4. Cap. s. Theosophischen Puncten. 47
+
+Unlebhaften, in allen vier Elementen und derer Essentz und Wesen.
+
+> der innern n. Ufo imgleichen hats auch die Gestalt mit äber und diese empf Kicht- Welt ;sie wohnet in der aͤussern
+
+Kraf von ihr; sie grünet in der aͤussern Kraft, und die aͤussere weiß nichts davon sie fuͤhlet nur die Kraft, und das innere Licht mag sie nicht schauen, als nur in ihrem Lebens Spiegel em⸗ pfähetfieden Glast davon; denn die innere Kraft machet in der aufferen Gestaltniß ein Gleichniß nach sich.
+
+12. Also ist uns ietzt der Mensch zu erkennen: er ist die innere sel⸗ Wel inne che Ursa darz Welt sere aͤus ber, was ihn anlanget, auch die finstere Welt; er ist alle drey daß,ernicht Welten: und so eꝛ in gleicher Oꝛdnung bleibet stehen eine Welt in die andere einfuͤhret, so ist er GOttes Gleichniß. . Er soll die Gestaltniß, als den Spiegel der bicht⸗Welt, in die auffere, und auch in die allerinnerste Finster⸗Welt einfuͤh⸗ fühs gel Spie tLich lern Mitt Kraf ren ren,soister des Goͤttlichen Lichts fähig ; denn das Wesen fahet nicht das Licht, sondern die Kraft des Lichtes: aber der Spie⸗ gel der Kraft faͤhet das Licht gleichwie das Wasser die Sonner denn das Wasser ist wie ein heller Spiegel gegen der Erden.
+
+14. So nun das Wasser mit der Erden vermischet wird, so fähet es der Sonnen Licht nicht mehr: also faͤhet auch der ts Lichterbleibe denn GOtte menschliche Geist oder Seele nich reine, und fege fein Begehren in das Reine, als indas Licht; t faͤhet es. Das Leben ,das das Leben imaginire dennwornach des Menschen ist beyder innern Welt Gestaltniß: Begehret das Leben Sulphur in sich, so ist das Phur aus dem Sul feine Verfinsterung; begehrets aber allein Sul, so empfähets des und in der Kraft das Licht mit feiner Eigenschaft; Lichtes Kraft denn im Phur. als in der grimmen Natur, mag das Leben nicht helle als ein Spiegel bleiben, aber im Sul wol: denn des Men⸗ schen Leben ist ein wahrhafter Spiegel der Gottheit, da sich Gott inne schauet. Er gibt feinen Glast und Kraft in den menschlichen Spiegel, und findet sich im Menschen, so wol in Engeln, und in den Gestalten der Himmel.
+
+15. Der Licht⸗Welt Essentzistfeine Findung oder Offenba⸗ b rung, und der finstern Welt Essentz ist feine Verlierung; Er derfinstern Welt, denn sie hat keinen Spies siehet sich nicin gel der des Lichts fähig wäre.
+
+Alles was nach der en.
+
+[p. 66] Vl.
+
+Von sechs Punet 5. Cap.7.
+
+Welt Essentz und Eigenschaft imaginiret, das faͤhet der finstern
+
+Welt Eigenschaft, und verlieret den Spiegel GOttes: Er wird mit finstern Grimm gefüllet, gleichwiman e Wasser mit Erden vermischet, somag die Sonne darinn nicht scheinen dasselbe Wasser verlieret der Sonnen Spiegel, und muß Wasser wieder aus der Erden ersincken, oder ist nimmer ein Spiegel der Sonnen mehr, sondern istin der grimmen fin wen Erde gefangen.
+
+16. Also gehets auch dem menschlichen Leben: weiles1
+
+Syottes Geist imaginiret, so empfaͤhets GOttes Kraft und Licht, und erkennet GOtt; wenns aber nach der et oder nach der finstern Welt Eigenschaft imaginiret, o empfaͤ⸗ hets die Essentz der Irdigkeiun t d finstern Welt, undfuͤllet sich a mit demselben. Jetzt ist der lebens ⸗Spiegel in die Finfterni eingeschlossen, und verlieret den Spiegel der Gottheit, un muß anderst geboren werden.
+
+ENT
+
+17. Als wir denn erkennen, daß Adam hat also den reinen
+
+Spiegel irdisch gemacht, und GOttes Kraft und Licht verlo⸗ ren, welche Christus Gottes Sohn, herwieder brachte, und die irdische Finsterniß zersprengete, und den Spiegel der Gott⸗ heit mit Gewalt einfuͤhrete. erh? Fra 18. Also erkennen wir, wie der heilige Baum durch ales wachse und aus allem Wesen; wird aber von keinem Wesene griffen als nur blos im Spiegel der Lauterkeit, als im reinen Menschen⸗ eben; welch beben desselben Baums begehret, und mag in keinem finstern Leben ergriffen werden. Dis ist also der vierte Punct.
+
+wine
+
+Der fünfte Punet.
+
+Wie ein Lebenindem Lebens⸗Bau mömge verderben: Wieesaus der Qual der Liebe welches allen andern Leben zuwdeiris et? Das 7, Capitel. Summarien.
+
+t, un n ieder siehet nur in feine Welt, darinn Er lebets.obwol, so er ineiner e
+
+[p. 67] 2.G7 Theosophischen Puncten. 49 Weltgewesen und aber daraus
+
+5 en lle im N so wird en da, und e1 nd GlantzderMaieltät bleibet. 5. 0
+
+8. il die Ar eschicht im P eri ehen ichEr .
+
+Beene Walen ee
+
+6)denneineignet, die gibt
+
+Da retsichN bey⸗
+
+6. Ersin⸗ ag 92
+
+Bli und Gott hat Ci r Wesen in die 2 20 nina, 15
+
+Fall be Hey 24. 150125 Sagt 25. ale bar werden, 55ci ie in der 9 — blos, zi. und fa im Grimm5 ehdah ie fü9 eser80herfassen kann. 32. Ist dannenhero unsere anders nichts,als wie 1 eledie Licht⸗Welt nee
+
+Gottes Feuer ihm. 42. wi ent 150 ei 2 kann gefährlich verderben, und8 gefahrlicher ists, den Streitfinden lassen. 43. Fernerer Probier⸗Stein 44. Woran zu erkennen das IJEsus und von wem die Verfolgung dieses neuen Menschen gebo A herruͤhre?
+
+46.
+
+In iedes beben istein heller Glast und Spiegel und siehet aus gleich als ein Blitz eines schrecklichen Anblicks: wañ aber derselbe Blitz dasbicht fahetsoverwandelt er sich in eine Sanftmuth, und lasset das Schrecken sincken, denn der Schrack eignetsich dem Lichte ein. Also scheinet das Licht aus dem schrecklichen Blitze, denn der Bliz ist des Lichtes Es⸗ sentz er ist fein Feuer.
+
+2. Der Blitz halt inne das Centrum Natur, denn die vierte das Leben, Gestalt der Natur ist der Blitz; und alda urstaͤndet welches in dem standhaften Feuer (als im Prineipio,) zur Belle D kommen⸗ [p. 68] vi. Von sechs Punets.Capızı ge⸗ kommenheit kommt, aber im Lichte als in eine andere Qual setzt wird.
+
+3. Nunaberistder Urstand der Imagination in der erstende⸗
+
+stalt der Natur als in der begehrenden Herbichkeit; der führer
+
+Feuer: d bis ins feine Gestalt durch die finstere Welt dur Begierde gehet durch alle Gestalten, machet auch a die erste und treiber sich bis ins Feue/rbisins Principium, alda Gestalten, ist das Scheide⸗Ziel desGeistesdawird er geboren: der ist nun /ermag wieder hinter sichinfeine Mutter die finstere frey odervor sich insFeuers Ang eingehen mit seiner Imagination, durch den Tod ersincken, und im Lichte ausgruͤnen, wie er will; es stehet in feiner Wahl: wo er sich hingiebet, da muß er seyn, denn sein Feuer muß Wesen haben, daß es zu zehren hat.
+
+4. Will der Geist nun von seiner ersten Mutter der Her⸗ bichkeit essen, das ist, willer feinem Feuer das grimme Wesen im Centro zur Speise geben, oder Lichts⸗Wesen in der Lichts t: Ma y Welt, das steh pfähet, in dessen Eigenschaft brennet es. 5. In der finstern Eigenschaft brennet es in der finstern her⸗ ben,strengen Qual und siehet in sich nur als ein Blitz es hat nur ß siehet in die Finsterniß; undin den Spiegel der Finsterni des Nichts Eigenschaft fahet es die Sanftmuth des bichts inwel⸗ und siehet in die Licht⸗Welt. Es cher das Licht: Feuer brennet, ist dem Geiste alles nahe, und mag doch in keine andere? oder Eigenschaft ehen als nur in diese darin sein Feuer brennetz in bei derselben Welt ist der Geist allein faͤhig ‚ex siehet nichts es bleibet ihme eine andern Welt: deñ er hat keine Augen darzu ewige Verborgenheitessey dann daß er in einer andern Wele gewesen ist und ist daraus gegangen, und hat sich in ein ande als die Teufel thaten,die haben jaeine Wissen⸗ Feuer eingegeben aber keine Empfindlichkeit oder Seh schaft von der licht⸗Welt aber sie wissen sie doch nicht. davon; die bicht⸗Welt istihnẽ nah/e
+
+6. Also ist uns ietzt zu erkennen des Lebens Verderbung, we alda ist der Angel, da mag sich der ches geschiehet im Principio, Wille schwingen wo er hin will: will er in die Vielheit und will
+
+selbst Herr seyn, so mag er die Vielheit anderst nicht ergreiffen, als in der finstern strengen Herbichkeit, in der finstern Welt.
+
+euer /indie Freyheitsomuß er sidem Will er aber ins Nichts einergeben,so ersincket er im Tode des Principii,sogruͤnet er a der Feuers⸗Angst im Lichte aus; denn wenn er sich eee
+
+[p. 69] P. C. ap.7.Theofophifi hen Puneten: 51 der ewige Wille zur Natur, (welcher GOtt der Va⸗ er if,) in sich durchs Feuer aus: denn mit dem Einergeben faͤlt er dem ersten Willen zur Natur heim, der fuͤhret ihn mit dem andern Willen welcher fein Sohn oder Hertz ist aus der Angst⸗ Matur aus, und stellet ihnmit des Sohns Willen in die Frey⸗ it, ausser des Feuers Qual, dabekommt er für Viel Alles, i nicht zu feinem Ruhm oder Gewalt sondern zu GOttes Ruhm oder Gewalt, GOtt istin ihme fein Willen und Thun.
+
+> 7. Was abet will im Feuer selber Herr seyn, das gehet in
+
+"feine eigene Zahl, in fein Wesen, dases selber ist; und was sei⸗
+
+Gewalt uͤbergiebet das uͤbergiebet auch feinFeuer-Brennen, undfaͤllet demeheim, der eine UrfachedesFeuers ist, als dem ewigen Willen GOttes.
+
+8. Also istesin dieFreyhelt auffer feinem Qual⸗Feuer ge⸗ fallen, und zuͤndet fein Feuer die Freybeit an; ietzt ists ihme Lein Licht, und ein heller Spiegel worden, denn er hat sich in die reyheit, als in GOtt einergeben. Also ist fein Feuer ein Se 89 Glantz der Meer Gottes. 9. Der aber nicht will sondern will selbst Herr seyn der blei⸗ 5 Eigenes der kann sich in feinen eigenen Gestalten höher nicht führen als ans Feuer darzu nur an Blitzdenn es kann kein denn er hat kein helles Wesen in ell Feuerinihme brennen, ihm zum Feuer. Das Centrum Naturæ hat nichts in sich,da Schein moͤge entstehen; sondern die Freyheit auffer de . eine Ursache des Scheinens: Was sich in die Na⸗ tur einergie bett aber nicht der Natur Eigenschaft, forte /begehre dernder Freyheit, das wird in feinem Blitz des Lebens mit der Freyheit angezuͤndet, auf Art, wie sich das ander Principium hat BR
+
+10, Also verstehen wir, wie ein Leben verderbe, das ist, wie sichs in Angst und Qual in die Finsterniß einführe: Als wenn es will sein eigen Herr seyn, und begehret der Vielheit; wenn sicchs nicht will dem Tode einergeben, so mags auch keine ande⸗ re Welt erreichen.
+
+n. Denn ein iedes Leben entstehet in der Angst⸗Qual, in der Natur, und hat kein Licht in sich, es gehe dann in das ein, das die Natur ursachet, da empfaͤhet es Licht. 12. Denn alles was in der Natur ist, das istfinster, und in Angst, wie es andieser Welt zu erkennen; solte die Sonne weg⸗ genommen werden, so wäre ein eitel Angst und Finsterniß. D 2 Darum [p. 70] tp. 7. vl. Von sechs Punze.Ca es g lb Ot G ba Daru k Li aͤu Licht gebe, daß 13. Aber um das innere Leben der Seelen hats eine andere hen eic err nic ser aus g ma Leb ere inn Gestalt: das auc kan ht, Lic tt Go nic eu ⸗F hat das mu en, geh Lic Ot G Seelen Willen nicht n. ibe ble tu Na gen ewi Finsterniß de seh Aug aͤu ft nun Ver fer 14. Die äuf ug, gen boͤ Ja hr kei son sey gut fü sey mu net leh ent aͤu See wenn die arme n? ihr abe ibe ble wo en: elf beh all sich des aͤussern nur en? seh sie wil wom rb ege Spi ser aus wenn der mk sa Gr tz Bli er⸗ Feu hen lic gst aͤn mit dem
+
+Finsterniß, sonsten kann sie nirgends hin sehen. ng fa ar of ts hi sc 15. Darum lg nc ic bl rt Wu Seele in die t⸗ rb wird, wenn ihr der aͤus zt rt uͤ Zw gs An feget, und den Le
+
+ͤ⸗ Ru ew ih ck li nb hi rg 16 Denn sie ka rz ru Un eit re; sondern fi e. ns nu us iß eine Fi g ma ec us em es 17. Denn weil So ñ lf eg pi ⸗S sie sich wol des Sonn Va iu ip nc sb ue Fe ihrer Wurtzel inne das innere l, od as Gl sie mm ko ters; vom selben Feuer e⸗ ka sa Ur des die Essentz des Le ab : yn eu Fr sem irdischen, vergaͤngli s, ts t. rb der aͤussere Spiegel iß Fi ru nt Ce ⸗H Feuer ins ewige Tr ey dr us Ze 18. Die Seel n» lc oder Augen aller drey Welt hr ab e: wendet daraus siehet si Ge vi Bl r⸗ ue Fe Natur: Recht das ist der wo ur um pi ci Pr finstern Welt,im Loco wo bi iwo innere Welten scheiden ei lc d; Ur re ins Licht, daselbst ist ihr ew pf em rs hr nun ihren Willen einfuͤ rd ss ic fen, als einen geistl ih Na od Seelen⸗Feuer ei ut Bl sc Fl G ru ag. Un } gesuh⸗
+
+[p. 71] Nang „,
+
+EEE
+
+P. 5.Cap. 7. Theosophischen Puncten. \#7 ae „ nicht möge so leichtlich des Grimmen Wesens aͤhig werden; so hat sie ihre Freude derweil im Sonnen⸗Spie⸗ gel, underfreuet sich in syderischer Essentz. Und stehet ihr ( ) die icht⸗Welt in ihrem rechten Feuer, als in primo Principio entgegen. Und (2) die finstere Welt in der Feuer⸗Wurtzel; und (3) die auffere elementische Welt, im Sternen⸗Qual, alda zwi⸗ derselben bekommt sie Wesen in ihrer Imagination. Dieweil sie sich aber hatmit Adam in Geist dieser Welt eingemendet, und e Imagination darein geführet ; so stehet ietzt ihre hoͤchste
+
+schen
+
+schwebet das grosse Mysterium des Seelen⸗Feuers. 20. In welche Welt sie sich nun eineignet und ergiebet, von
+
+Begierde in der Sonnen und Sternen Qual, und zeucht mit derselben den Geist der aͤussern Welt, mit feinem Welen der vier
+
+Elementen, stets in sich und hat ihre grͤste Freude darin⸗ bd kenn der Abgrund stehet darunter )und ist grosse Gefahr.
+
+nen, in welchem sie in einer fremden Herberge zu
+
+Gaste ist,
+
+21. Nun spricht die aͤussere Vernunft: Hat sie doch GOtt was mag ihr Fleisch und Blut, in die aͤussere Welt geschaffen, das schaden? diese Vernunft weiß nicht mehr von der Seelen als eine Kuhe von einer neuen Stall⸗Thuͤr die siehet Alrstand sie anund duͤncket sie fremde zu seyn: also duͤncket auch die aͤus⸗
+
+sere Vernunft die innere Welt fremde zu seyn. 22. Sie empfindet sich in der aͤusseren Welt, und trachtet nach deme, was die aͤussere Welt hat, und empfindet doch in sich, die innere Welt, welche stets die Seele vor GOttes Zorn ans klaget; mehr empfindet sie auch die Licht⸗Welt, da die inne rli⸗ che Begierden der Seelen Principii hinstehen: sie empfindet wol das Verlangen nach GOtt; aber die aͤussere Welt verweh⸗ ret das, und deckets zu, daß die Begierde, nach GOttes Welt, nicht mag das Feuer in sich entzuͤnden. So das geschaͤhe, so muͤrde die dicht⸗Welt im ersten Prineipio offenbar /und würde das edle Bild nach GOtt offenbar. 23. Dis verhindert auch der Teufel, der besitzet die Wurtzel dieser Welt im Seelen⸗Feuer, und halt der Seelen immer böfe irdische Wesen vor, oder ruͤget ja die Wurtzel im Centro der daß sich die arme Seele entweder im Zorn⸗ Natur im Grimme
+
+SO oder ja in Angst und Zweifel an Feuer in der böfen Gift⸗Qual bOttes viebe entzündet: da hat er aber gewonnen, und stellet der Seelen aͤusserliche Macht, Gewalt und Ehre für, auch den
+
+Glantz und Pracht der aͤussern ER beisset sie ihme an, a
+
+ER erki⸗
+
+[p. 72] Br re.“
+
+VI. Von sechs Punct5.Cap.7.
+
+erkitzelt sich darinne mit Imagination, und kann doch dessen nicht recht geniessen, denn es ist nur ein entlehnter Spiegel. 24. Also wird die arme Seele von Ottes icht abgezogen als ins Jinster⸗Haus des Elends, in sincket im̃er insVerderben als er sei⸗ die finstere Welt ein. Das hat uns Abam zugerichtet ne Lustindie Irdigkeit einfuͤhrete; alsoschwimmet nun die ara me Seele im irdischen Fleisch und Blut, und isset immer vom
+
+Versuch⸗Baum Boͤses und Gutes und wird von beyden heftig ezogen, und der Schlangen Monstrum stecket in Mitten, im und blaͤset immer den Grim und Zorn auf. uall des Grimmes 25. Da kann sich alsdann das edle Lilien⸗Zweiglein nirgend erholen auch oft nicht erkenneneswird oft mit dem Grimm der
+
+Bosheit überhäuft, daß es ist als ware es gantz verdorben; und wäre auch verdorben, wenn ihm nicht der Spiegel der Gottheit entgegen stuͤnde dariñ sich doch der Willen⸗Geist der armen gez fangen? Seelen wieder mag erholen und darin wieder erbaͤren. 26. Denn in dem Spiegel der Licht⸗Welt stehet die Mensch⸗ werdung Christi dem Seelen⸗Geiste entgegen; und das Wort das Mensch ward stehet im Schalle, und ist raͤge, der Seelen⸗ Geist kann sich darein erholen und neugebaͤren: sonst ware es oft um die arme Seele geschehen, wenn sie sich im Zorne, und in der Gift der Finster⸗Welt verteuffet. was die Verderbung des 27. Also verstehen wir im Grunde, edlen Baums, als des Bildes GOttes, sey, nemlich diese: 28. Der gantze Mensch ist in seinem Wesen die drey Wel⸗ ten; Der Seelen Centrum,als die Wurtzel des Seelen⸗Feuers, haͤlt inne die finstere Welt, und das Seelen⸗Feuer haͤlt inne das als die rechte Feuer⸗Welt; Und die edle Bild⸗ erste krincipium, niß, (als der Baum des Goͤttlichen Gewaͤchses), welche aus dengrimmen Tod dem Seelen⸗Feuer erboren wird, und durch in der Freyheit, als in der Licht: Welt ausgruͤnet / haͤlt innedie
+
+Licht⸗Welt, als das zweyte Principium : Und der Leib, der im Anfang aus dem vermischten Wesen, welchesinder Schoͤp⸗ fung ward aus der Licht: und Finstern⸗sowol Feuer⸗Welt ge⸗
+
+schaffen, halt inne die aͤussere Welt, als das dritte vermischte
+
+Principium.
+
+29. Und die rechte Seele ist dieser dreyen Welten Geist, gleichwie GOttes Geist aller dreyen Welten Geist ist. () In der finstern Welt ist er grimmig, streng, und ein ernster Qual, und beit GOttes Zorn.
+
+(2) In der Licht⸗Welt ister 11
+
+€
+
+[p. 73] TE (Sr le
+
+P.5.Cap. 7. Theosophischen Puncten. 55
+
+sauft und freuden⸗ reich, und ist der Geist aus GOttes Hertze, als derH. Geist.(3)und inder aussern Welt ist er der Geistder Luft, sowol des Feuers und des Wassers, und laͤsset sichbrau⸗
+
+*— chen wie der Mensch will, alles zudengrossen Wundern. 30. Also ist der Mensch nach der Persondas grosse Mysterium in den drey Welten: in welche er sich einwendet, in der wir⸗ /und dieselbe Welt wird cketerFrucht, dieselbe istin ihme Herr in ihm offenbar, die andern zwo bleiben verborgen; wie das 5 en Holtze verborgen liegt, also auch bleibet das Licht oder ie Licht⸗Welt, in der grimmen finstern Welt verborgen, sowol ch inder Bos heit, als in der Sucht der innern Welt, in der aussern Welt.
+
+31. So aber die Licht⸗Welt im Menschen nicht mag offenbar werden, daß sie Herr wird so bleibet die Seele in Zerbrechung der aussern Welt blos in der finstern Welt; denn alda mags nicht mehr seyn, daß die Licht⸗Welt angezuͤndet werde: Es ist kein Spiegel mehr zum Lichte darinnen, der der Seelen entge⸗ en stuͤnde, das Hertze GOttes istdarinnen nicht offenbar, kann auch ewig nicht seynz deñ die finstere Welt muß seyn,sonst wuͤr⸗ aber alhie in dieser Welt mags seyn. de das Licht nicht offenbar 32, Und ob eine Seele gleich im tiefsten Abgrunde vertiefet ist und stecket im Grimme Gottessostehet ihr doch im aͤussern
+
+1 der Sonnen der Licht Spiegel entgegen, da sich die Goͤtt⸗ liche Kraft inne offenbaret, sowol der Spiegel der Menschwer⸗ dung Ehristi, welcher in der innern finstern WeltinEwigkeit nicht erkant wird.
+
+33, Und istunfere gantze Lehre anders nichts, als wie der
+
+Mensch in ihme soll GSttes Licht: Welt entzuͤnden. Denn d. wenn diese entzündet wir daß G Ottes Licht in der Seelen Gei⸗ /wieChristus saget: Wenn sie scheinet,sohat der gantze veib Licht das Auge licht ist,so ist der gantze Leib lichte; Matth. 6: 22. 23 Er verstehet das Seelen⸗Auge. Und wenn der Grimm derfin stern Welt entzuͤndet wird, so ist Leib und Seele finster, und hat nur einen Glast von der Sonnen. Wenn das Goͤttliche Licht entzundet wird,sobrennets in Liebe und Sanftmuth: und wenn der Grimm der finstern Welt entzuͤndet wird, so brennet er im und fleucht im stachlichten Neid und Haß im Grimmen⸗Zorne
+
+Affen Spiegel des Sonnen⸗vichts in Hoffart aus, und will immer uͤber den Quall der Liebe ausfahren, da folget denn
+
+Spott und Verachtung über die Sanftmuth, auch über alles 34. Und D 4 was niedrig ist.
+
+[p. 74] Welt! ren. welche 34. Undalbiesollichder Menschprobie ibme Herr sey. Findet er, daß Zorn, Grimm, Neid, 291 5 Lügen und Betriegen feine Begierde ist; und denn Hoffart, der Ehren und aͤusserlichen Wollust, Geitz und immer Begierde daß ernur eine stete Sucht ist zur Geilheit und Unzucht, so mag er ihme das Register gar wol machen und gewiß wissen,
+
+Be⸗ Luͤgenund daß er mit dem Zorne, Grimme, Neid,Falschheit triegen, im Finstern, als in der finstern Welt Feuer 1 Denn dasselbe Feuer gibt solche Essentz, Begierde und Wille 35. Und die andere Begierde, als aͤussekliche Wollust, Hof⸗ der Un; fart, Ehrsucht, Geitz, und stets geile viehische Begierde zucht, ist die Frucht so aus der finstern Welt in der aͤussern Welt aus waͤchst. 36. Gleichwie die Liebe aus dem Tode gruͤnet, (da der Wil⸗ len⸗Geist sich ins Feuer GOttes einergiebet, und gleich alsim Tode ersinckt, grünet aber in GOttes Reich mit einer freundli⸗ chen Begierde immer wol zu thun aus; )also hat sich der Wille der Bosheit ins Verderben eingegeben, als in den grimmigen, strengen ewigen Tod; gruͤnet aber in dieser verderbten Welt in der aan Natur, mit feinem Zweig aus, und träger solche t.
+
+Ne
+
+37. Daran soll sich ein ieder lernen erkennen, er darf nur nach seiner Eigenschaft forschen, worzu ihn fein Wille stets trei⸗ betindem Reiche stehet er, und ist nicht ein Mensch, wie er sich selber dafuͤr haͤlt und ausgibt, sondern eine Creatur der finstern Welt; als ein geitziger Hund, ein hoffaͤrtiger Vogel, ein unkeu⸗ sches Thier einegrimmige Schlange, eine neidige Kroͤte voller Gift, ꝛc. Alle diese Eigenschaften quellen in ihme, und sind fein
+
+Holtz, daraus fein Feuer brennet.
+
+Wenn ihn nun das aͤussere
+
+Holtz als das Wesen der 4 Elementen, wird verlassen inseinem Sterben, so bleibet alleine der innere giftige boͤse Dual.
+
+38. Was soll nun für eine Figur in folder Eigenschaft fles hen? Anders keine als welche unter diesen Eigenschafteist n die staͤrckste gewesen, die wird vom hoͤllischen Fiat in feine Gestalt figuriret: Als zu einer giftigen Schlange, Hunde und derglei⸗ chen, oder anderm Thier, ꝛc. In welche Eigenschaft sich der Willen⸗Geist hat einergeben, dieselbe Eigenschaft isthernach der Seelen Bildniß; Und dis ist das eine Theil.
+
+39. Mehr soll sich der Mensch prüfen in feiner Begierde; (denn ein ieder Mensch hat diese böse Eigenschaften in um)
+
+[p. 75] 5. deen7.eee
+
+Puncten.57 diese ist und Re finde inihm ucheine stete Begierde
+
+Ei tödten? Ob er 10Gift feind sey? Oder ob er seine reüde darinn habe, die falsche Gift stets ins Werck zu richten, :in Hoffart, Geitz,Neid, Unzucht, in Lu2 und Betriegen?
+
+40. Wenn er nun in sich findet, daß er seine Freude darinne
+
+A, und dasselbe immer gerne zu Wercke richten will, so ister sich selber achtet; sondern der Teufel, in Mensch, wie er fremder Gestalt, betreugt ihn; daß er vermeinet, er sey ein enschz aber er träger nicht GOttes, sondern der Schlangen ildniß, und ist nur im aͤussern Reiche, eine Gleichniß eines Menschen⸗Bildes, so lang er in dieser Eigenschaft bleibet, daß diese Eigenschaft Oberherr ist.
+
+41. Wenn er aber den Streitin sich findet, daß fein innerli⸗ 5 Wille immer, ja stuͤndlich wieder diese boͤse Eigenschaften reitetsie verdampft und nicht zum boͤsen Wesen laͤst kommen, daß er immer gerne wolte wol thun; Und findet doch diese boͤse f Eigenschaften, die ihn hindern, daß er das nicht allzumal kann Werde richten was er gerne will und findet die Begierde zur
+
+Abstinentz und Busse, daß eine stetswaͤhrende Begierde nach GOttes Barmhertzigkeit in ihm quillet, daß er gerne wolte ie. wenn er nur koͤnte; er mag gedencken, und gewiß wissen, daß Gottes f Bei in ihm glimmer, und immer zum Lichte arbeitet, es wolte gerne brennen, und gibt immer Essentz zur Lohe, wird aber von der boͤsen Feuchte dieser Welt, welche uns Adam hateingefuͤh⸗ ret1verdaͤmpfet. 3. So nun der aͤussere böfe Leib mit feinen Dünsten zer⸗ bricht,daß er das glimmende Docht nicht mehr mag hindern; so entzuͤndetfich das Goͤttliche Feuer in feiner 9 wird die Göttliche Bildniß wieder figuriret, nach dem staͤrckesten Qual, als der Mensch albie hat in feiner Begierde geführet, nach feiner staͤrckesten Eigenschaft. So er aber in dieser obge⸗ meldten Ritterschaft nicht bleibet, sondern den Streit wieder sincken laͤsset, mag er gar gefährlich wieder verderben. 44. Die dritte Proba ist dieses, daß sich ein Mensch erkenne, in was Wesen oder Figur er stehet. Befindet er, daß er eine stete Begierde nach G tt hat, und in feiner Begierde so maͤchtig ist, daß er mag die boͤsen Essentien,sooft ihme eine Qual entzuͤndet das ist, und in Sanftmuth verwandeln wird wieder zerbrechen, m” daß er seines Ba maͤchtig ist, laͤsset Is in Gedult treten
+
+[p. 76] Vi. Von sechs Punc 3.Cap. t8.
+
+der dakann alles das, wasin dieser Welt glintzet 5 Gutes für Boͤses thun; der alles feines au u Wesens, essey Geld oder Gut maͤchtig ist dem Duͤrftigen davon zu geben, und um Gottes Wahrheit willen das alles zu verlassen; und sich willig um GOttes willen ins Elend zu geben, auf gewisse Hoff⸗ nung des Ewigen: deme die Göttliche Kraft quillet daß er mag das Licht der Freudenreich darinn entzünden; derdaschmecket was Gott ist: der ist der gewisseste, und traͤget die Göttliche
+
+Bildniß mit himmlischer Wesenheit, auch die Zeit des aͤussern
+
+Leibes in sich. ur 45. Da ist JESUS geboren aus der Jungfrauen, 5 der Mensch stirbet ewig nicht, er laͤsset nur das aͤussere Reich von sich gehen, welches ihme istin dieser Zeit ein Gegensatz und Hinderung gewesen, damit ihn GOtt hat verdeckt: Denn
+
+Gott will nicht die Perlen vor die Sau werfen, sie sind inIh⸗ 7 me verborgen.
+
+BE
+
+46. Derselbe neue Mensch stehet nicht in dieser Welt; de
+
+Teufel kennet ihn auch nicht, nur ist er feiner Essentz, fodas in nere Centrum inne haͤlt gram; denn es verhindert ihn, daß sein
+
+Wille nicht geschiehet darum verhetzet er die böfen Thier⸗Men⸗ schen wieder ihn, daß sie ihn plagen und verfolgen, aß die wahre Menschheit verdecket bleibe.
+
+Das 8. Capitel.
+
+Von rechter Menschlicher Essentz aus GOt⸗ tes Wesen.
+
+Kr
+
+Summarien.
+
+ds e rechte wahre menschliche Essentz, ist nicht irdisch noch aus der finstern Welt, g. 1. ob siemolim aussern Menschen 2 Pe} und wird erst in der Wiedergeburt rege3. Da schon der der Kinder, sich das Wort der Gottheit einvermaͤhlet. 4. Chri⸗ Tauffe us will aber Kindlein, nicht Thiere haben, 8s, daß dem, der nur elbst will, wol zu helfen ist. 6. Es ist aber auch nicht die Meinung, daß die Tauffe der erste Moder zum Goͤttlichen Feuer sey, 5 als welcher
+
+schon in Mutterleibe glimmet; 8. und ob das Kind gleich vor der Tauffe ftürbe, 9. Dann der Eltern Tauffeistauch des Kindes; 10. u. gott⸗ lose Eltern hingegen zeugen gottlose Kinder 12. Gottes Waller muß tauffen, 13. welches sich nicht in Grimm giebt, 14. und kann schon in Mutterleibe geschehen, so die Göttliche Essentz im Kind raͤge its denn die Menschwerdung Christi nicht auf Menschen Gewalt wartet,
+
+sondern aufs Ziel, 15. welches hinter und vor sich reichet. 16, Dem
+
+[p. 77] Ps v,8. Sheosophishen met.
+
+Bundder Gnadenistmit Adam aufgerichtet, 17. die Tauffe aber
+
+20. f 1 Ehestand: also ist die Frucht. 1. So suͤet e Kin non ins Gemüth ei Bene Eheleute offt einander in dieSeele 1659 zn. bestehet der Bund mit 8 5— tauffet ein 5755 aber nach des Kindes ft. 25. hren esuch be8 DE2 47 bs,4 0 um Gericht 27. esserwaͤre es, ei g ellesKind wuͤrde nicht 225 . Wied die Seele, soistdie Artzney, 29. und was der Wille eines Dinges will, das empfahet Er. 30. und was wir aus uns machen, das sind wir. 31.
+
+N ene mensthliche Essens ist nichtirdisch, noch aus der finstern Welt; sie wird blos in der Licht⸗Welt sie hat keine Gemeinschaft weder mit der fin⸗ stern, nochaussern 2Welt; es istein grosser Schluß als der Tod, dazwischen. 2. Nicht der Meinung, daß nichts von der wahren Essentz ae Menschen liege; sie lieget darinne, denn sie ward in sein Bilde gegeben, aber sie istverschlossen, und lieget und mag nicht qualificiren, hat auch kein Raͤgen noch in sich, es sey denn daß sie in Kraft der Gottheit raͤge 98 5 leichwie sie in der Jungfrau Maria, durch GOttes
+
+Bewegen und Eingehen, rage ward; da kam die rechte menschliche Essentz wieder zum Leben. 3. Also auch in uns wird die rechte menschliche Essentz nicht ; raͤgewir werden dann in Christo aus Gott geboren. 4. In der Tauffe der Kinder vermaͤhlet sich das Wort der
+
+Gottheit ein, und lasset sich mit ihnen ein als im Bunde, und ist die erste Raͤgung in dieser Welt als ein Moder in einem Holge, das anhebet zu glimmen, aber das Doͤchtlein wird oft hernach ge t und verloschet: Auch ists inmanchem nicht wol faͤ⸗ von rg gottlofer Effeng gezeuget wird. Aa hig, un Christus sprach: Lasset die Kindlein zu mir kom⸗ en solcher ist das Reich GOttes. (Mare. 19:14.) Nicht Hunde Woͤlfe Kroͤten oder Schlangen, sondern Kinderindenen die Effeng nicht gantz teuflisch ist da manches im Zorn GOttes getauffet wird daran die Eltern Schuld haben: Denn ein boͤser Baum bringet boͤse Fruͤchte, saget Christus. 6. Und wiewol Er in diese Welt gekommen ist, selig zu mas chen das verloren ist so liegts doch auch an der Essentz was ihm will helfen lassen. Denn ein Thier⸗Mensch mag wol die Er
+
+[p. 78] VI. Von sechs Punct;.Cap.8.
+
+niß erreichen, so er umkehret, und laͤsset sich das Wort (das
+
+Mensch ward) ziehen; wo nicht, so bleibet er in feiner thieri⸗ schen Essentz ein boͤses Thier. 7. Doch auch nicht der Meinung, daß die Tauffe den ersten Grund zur menschlichen Essentz legeundgantz der erste Moder oder Zunder des Göttlichen Feuers sey; Nein, das ists nicht, 7 denn ein Kind wird aus der Eltern Essentz ein Geist, dar
+
+Fleisch und Blut, mit Vermaͤhlung der Constellation des Geistes Majoris Mundi.
+
+8. Zu derselben Zeit, wenn ein Kind in Mutterleibe das Les ben hat bekommen, so glimmet alsbald Goͤttliche oder hoͤllische Essentz aus dem ersten Ursprung und Herkommen. br
+
+9. Und weil nur ein klein Moder oder Zunder der Göttlichen Essentz raͤge istsoistdas Kind der Tauffe faͤhig. Und obs gleich stuͤrbe, und nicht getauffet würde, so ist doch der Moder oder Zunder in GOttes Mysterio, und glimmet in GOttes Reich, und wird im Feuer GOttes angezündet, denn es stirbet im Mysterio des Vaters, und glimmet auf im Mysterio des Sohnes, der Mensch ward. 10. Der Eltern Tauffe und Bund istfeine Tauffe und Bund die Versohnung ist geschehen im menschlichen Blute in derrech⸗ ten wahren menschlichen Essentz: GOttes Wort oder Hertze hat sich in die eingeschlossene todte menschliche Essentz eingege⸗ ben, nicht in die irdische, gar nicht in das irdische Theil, sondern in das himmlische Theil. Nicht in das Theil das Adam mit seiN ner Imagination einfuͤhrete das Erde ist; sondern in das Theil, das Adam aus der Englischen Welt ward gegeben, das er mit der irdischen Sucht verderbete und vergiftete, da in der Sucht irdisch, toͤlpisch, thierisch Fleischward. u, Dasselbe Theil hat die rechte menschliche Essentz; und im selben Theil ist GOtt Mensch worden; und dasselbe Theil hat den Grund der Englischen Welt, denn es urstaͤndet aus der englischen Welt. 12. So sich aber oͤfters gottlose Eltern gantz im Zorne GOt⸗ tes vertiefen, und zeugen also im Zorne Kinder; so ist ja ihr Sa⸗ me im Tode eingeschlossen, und hat nichts von rechter mensch⸗ licher Effeng in ihme, die sich raͤgete, als nur dieses, was die Constellation im Geiste Majoris Mundi in sich hat, da istja die Goͤttliche Kraft etwas raͤge; aber des Zorns Kraft ist der Ge⸗ gensatz und ist schwer, doch ists moͤgli/ch denn GOttes Mensch⸗ wer⸗ vd
+
+[p. 79] 7.5 Cap8.Theosophischen Puncten. 6 werdung ist in allen Seelen ins Lebens⸗ Licht. entgegen ge⸗
+
+13. Aber die Tauffe halt ein anders: Es muß Gottes Es⸗
+
+sentz (als das Wasser des ewigen Lebens aus GOttes Sanft⸗ muth erboren) die mit Adam in Tod eingeschlossene rechte menschliche Effeng rügen, und sich alda als ein neu Leben (oder N unlebendige Effeng) einergeben. GOttes Wasser muß tauf⸗ fen, der H. Geist muß Werckmeister seyn. 14. Aber ich sage nach meiner Erkentniß, daß sich das Was⸗ ser des ewigen Lebens, da der H. Geist auf schwebet, wird schwerlich in Gift des Grimmes und Todes einergeben,wo nicht eine Essentz der Begierde innen ist. 15. Ich sage also, alsicherkenne, daß auch ein Kind, (so bald es das Leben in Mutterleibe hat) foferne die Göttliche Essentz, welche im himmlischen Theil bestehet) raͤge ist, schon vom H. Geist getauffet ist, und erreichet die Menschwerdung Christi. Denn die Tauffe stehet nicht in des Priesters Gewalt, daß der H. Geist muͤste auf ihn warten: denn die Menschwerdung risti wartete nicht auf Menschen Gewalt, sondern aufs Ziel, das Gott in feinem Bund steckete; das Ziel ward gebenedeyet. Darum sagte der Engel zu Maria: Du bist die Gebenedeyete unter den Weibern; das Ziel steckte in ihr das war gebenedey⸗ et, und das benedeyte sie auch, als GOttes Hertze das Ziel raͤge machte. 16. Dasselbe Ziel reichte hinter sich bis auf Adam, und vor sich bis auf den letzten Menschen: und da GOtt Mensch ward, so ward das Ziel im himmlischen Theil raͤge gemacht; nicht ale lein in Maria, sondern auch in Adam und Heva, und allen ihren
+
+Kindern, welche sich in GOtt hatten einergeben, die wurden alle im Ziel gebenedeyet. 17. Denn das ist der Bund der Gnaden, den GOtt mit Adam 5 und Heva aufrichtete; derselbe Bund stehet in aller menschli⸗ Gl cher Essentz, aber nicht in teuflischer Essentz. 8. Die Tauffe aber ist das Siegel, das GOtt dem Bunde anhing, wie im Alten Testament die Beschneidung: Gott giebet in der Tauffe Goͤttlich Wasser dem menschlichen Geschlechte zu einem Pfande und Siegel; aber der Bund ist vor der Tauffe schon da, er istim Paradeis gemacht, ja vor der Welt Grunde: So bald eine Seele in Mutterleibe raͤge ist,daß das Principium und einemenschliche Seele geboren ist,soistfir im e ri⸗
+
+[p. 80] Punct . Cap.8.
+
+7“
+
+Christus hat sich ins Feuer GOttes, ins Principium eingege⸗ ben, und den Bund erfuͤllet, und ist die Ausbeute des Lesa⸗ ments worden.
+
+Kir
+
+Pr
+
+19. Dieselbe Ausbeute wartet auf keine ausserliche Ord⸗ nungauf des aͤussern Menschen Wahn; sondern so bald eine Seele aus dem Prineipio erboren ist, so ist sie in der Ausbeute des Testaments, soferne das Göttliche Leben in der Seelen raͤge ist; Aber nicht in gottlosen Seelendamuß das Goͤttliche debe erst erboren werden: Gottes Zorn verschlingt manche See auch noch in der Essentz ehesie das Principium erreichet, darum daß sie aus falscher Essentz ist, vom böfen Samen der Eltern.
+
+20. Die Vernunft spricht: Was mag des ein Kind, daß die
+
+Eltern gottlose sind? Ja, was mag es auch GOtt? Stehet es doch bey der Eltern Gewalt, ein Kind u machen? Was mag Gott dieses, daß Huren und Buben zusammen kriechen? wie⸗ wol der falsche Baum nicht eben also aus dieser Linea allein ur⸗ staͤndet, sondern auch in der Ehe: ist doch der Mensch frey; er⸗ wecket er kein Lebensobleibet fein Same eine Essentz. Soll dar⸗ um Gott, um des Kindes Unschuld willen, die Perlen vor die
+
+Saͤue werfen? Stehet doch das Himmelreich gegen ihme, es mag eingehen, Gott verschleust es niemanden.
+
+21. Aber ein böfer Mensch ist in Leib und Seele verschlossen, 1 warum auch nicht im Samen, der Same istja feines
+
+Leil fiel daraus, solls denn GOtt zu einen Weißen v deln?
+
+Frucht. So man will guten Weitzen ernten, fäetman billig Weitzen aus; wird aber Distel⸗Same gesaͤetsowaͤchs einet Di
+
+Hat nicht derSaͤemann Macht, auf seinen Acker zu saenw er will? Oder woltest du sagen, was mag des die Distel, daß sie eine Distel ist und sticht? Gehoͤret sie doch nicht untern We gen, sondern sie waͤchset selber mit auf. „
+
+22. Wäre doch g Otwol t zufrieden, wenn gleich keinDi» stel⸗Kind wuͤchsesist auch nicht feine Ordnung; sondern der
+
+Teufel säet Unkraut unter den Weitzen, als ins
+
+Menschen Ge⸗ muͤthe. Warum laͤsset ihm das der Mensch zu, und verderbet sich, daß feine Essentz ein Distel⸗Same wird, und träget Uns. kraut zum Feuer im Grimme GOttes : Es lieget auch nicht al⸗ les am Samen, sondern am Acker; Es verdirbet manch edel schoͤn Korn in des böfen Ackers Effeng. Der Himmel mit det Sonne giebet allem Gewaͤchse Leben und Kraft: Die Sonne Er ma⸗
+
+[p. 81] P. 5. Cap. 8. Theosophischen Puncten.
+
+machet kein Unkraut, siebegehret auch keines, aber die Essentz
+
+Acker machet oft ein anders, und verderbet das Gute. 23. Also auch im Menschen; es bekleibt manch Fluch, daß eines dem andern wuͤnschet, wenn das ander den Fluch erraͤget hat, und desselben fähig ist als solches dann unter gottlosen Ehe⸗ ten gemein ist, da eines dem andern den Teufel und das hoͤl⸗ lische Jeuer wuͤnschet. So sie dann beyde gottlose sind, solte ih⸗ nen denn auch nicht ihr gottloser Wille geschehen, daß sie gott⸗ lose e doch nichts Gutes in ihnen, was soll denn
+
+Gutes aus ihnen gehen was mag Gott dieses? stellet er doch ihnen fein Wort und Lehre für und kuͤndiget ihnen das Verder⸗ ben an; wollen sie nicht /ofahren sie hin,wo sie hin wollen. Also Hauch ihr Same, und also wird manches Kind eine Distel und boͤses Thier geboren , und wird im Zorn GOttes getauffet.
+
+224 Denn wes Essentz der Seelen⸗Geist ist, in einer solchen Essentz fähet er auch das Göttliche Wesen im Bunde; einer in der Kraftdes Lichts, in der Liebe, der ander in der Kraft des
+
+Grimmes, in der Finsterniß. 25. Der Bund mit der Tauffe bestehet: Es wird ein iedes KindimBunde getauffet der Geist GOttes tauffet ein iedes, so man den Brauch halt , aber nach des Kindes 1 8 Oft ist Vater und Mutter, darzu der Tauffer,gottlos, und sind nur boͤse Thiere, und ist ihnen auch kein Ernst; es ist ihnen am aͤussern Pracht und am Gelde am meisten gelegen, verachten nur das Mysterium , und ist das Kind auch nur des Zorns Eis genschaft Mer soll denn tauffen? Anders niemand als GOt⸗ kes Zorn in feinem Bunde, darum daß man dessen nur spottet. 256. Also faͤhet der Zorn⸗Quell den neuen Geist, und wircket wieS. Pau⸗ kraͤstig in ihme, und bringet Frucht ins Verderben, lus vom Abendmahl, und anderm Testament saget, daß es der Gottlose zum Gerichte empfahe, daß er nicht unter scheidet den Leib des HErrn. (1. Cor. 11:29.) Das ist daß er das himmlische Theil seiner Essentz in ihme nicht unterscheidet vom irdischen, und feinen Willen ins himmlische setzet, und das GOtt aufop⸗ ö 1115 sondern haͤlts alles gemein, wie ein Ochse das Futter frisset.
+
+27. Darum quellet in ipme der Zorn GOttes, daß er feinen Willen nicht vom irdischen abbricht, und gehet in Reue seiner Bosheit; darum mag fein himmlisch Theil nicht GOttes Leite theilhaftig werden, weil er die Essentz des himmlischen T Bei
+
+[p. 82] Vl. Von sechs Punc 5.t Cap. 8.
+
+nicht mag raͤge machen: So hat sie auch keinen Mund GOttes Leib zu empfahen, denn der Mund lieget im Tode verschlossen, gleichwol empfähet das irdische Theil Christi Leib, aber na des Zorns Eigenschaft, nach der finstern Welt Eigenschast. denn das Testament muß bestehen. 28. Also auch in der Tauffe in gleichem Fall, wie der See⸗ len Effeng im Wesen ist, also geneust sie auch GOttes Bund: besser marc es ein gantz gottloses Kind wuͤrde nicht getauffet, und ein gottloser Mensch in feinen Suͤnden ohne 8 ruͤhrete GOttes Testament nicht an; denn es bringet ihn beyden nur Kraft zum Verderben, denn GOttes Bund wird erüget, das gehet nimmer ohne Frucht ab. Gott wircket in einem Bunde, nach feinem Worte. 29. Wie die Seele ist, die den Bund ruͤget, also ist auch die Artzney im Bunde, und in solcher Kraft wircket der Geist GOt⸗ tes in Liebe und Zorn, denn er istalles Lebens Geist, und ver⸗ gleichet sich mit allem Leben. Eristiniedem Dinge, wie des
+
+Dinges Wille und Eigenschaft ist, denn eine 1 faͤhet die andere: was die Seele will, das will auch der, dahinein
+
+sie sich wendet.
+
+30. Es istallesmagisch, was derWilleeines Dinges das empfahet er: Eine Kroͤte nimt nur Gift an sich, wenn sie gleich in der besten Apothecken sässe, deßgleichen auch Schlange: ein iedes Ding nimt nur feiner Eigenschaft in w eine sich:in do ma aff af Ei und obs gu sich zu feiner Eigenschaft.
+
+Ob gleich eine Kroͤte Honig fraͤsse, wird es doch in ihr zu Gift. Wie denn der Teufelein Engel war;
+
+als er aber nichts Gutes wolte, so ward ihme sein himmlisch Wesen doch zum Hoͤllen⸗Gift, und blieb fein böfer Wille einmal 0. boͤse wie das ander.
+
+31. Also ist uns hoch zu betrachten unser Leben, was wir wollen thun und fuͤrhaben; wir haben Boͤses und Gutes in uns: in welchem wir unsern Willen schoͤpfen, dessen Essentz wirdin uns raͤge; und solche Eigenschaft ziehen wir auch von aussen in uns. Wir haben beyde Nysteria. Goͤttlich und Teuflisch in uns, von beyden ewigen Welten, und auch der aͤussern Welt; was wir aus uns machen das sind wir; was wir in uns erwecken, das istin uns raͤge; Fuͤhren wir uns zum Guten, so hilft uns
+
+Gottes Geist; führen wir uns aber zum Boͤsen, so Hilfe uns OOttes Grimm und Zorn. Was wir ala ebe
+
+[p. 83] . Cap.?> dee Pete.*cz er, und dahinein fuͤhren kriegen wir einen
+
+seines un und unser enWillu
+
+Also verfteben wir fünften Punct, wie ein Leben Sarda ait ans are ein Pastewerbe undanaBeen einGutesöwenn sich der Wille umwendet.
+
+Deter Sechste Punct.
+
+zom eben der Finsterniß,darinn die Teufel
+
+8 hnen, was das für eine Geburt und Qual habe. Das 9. Capitel.
+
+Summarien. 8 2: veZinsterniß, feinden einander au. 5.1.2. Der Zeus 17Finn von nichts en
+
+1 5 Nniert kein Bild her Menschen dSin even, 16, und 0 merdenyalsnur blos ea 17. Das und Thiere wieder einander, idid. nach Eigenschaft der
+
+AsterenWelt. 18. Der finstern Welt Geburt stehetin den g ersten Ges alten, 19. darinn die mancherley Qual, die ewigen Wunder offenbar lache. 20, darum fol der gefallene Mensch lernen, wieerdemGrimm ved der steh n moͤge. 21. Wandelt er in der Liebe und Sanstmuth: hat nei
+
+Gesetz. 22. .
+
+Einer Wurtzel gewachsen ist,gehöretzu uneS5 e weichet es aberin eine andere Qual; so liegts mit iel
+
+1 24. also war der Mensch indie Liebe geschaffen. abber BereGrimm die biebe überwunden! so muß er nun aus neu geboren werden. 28. So stehet nun in feiner Wurtzel legen oder Liebe⸗Geist zu gebären. 25. 27. Daher der grosse
+
+Menschen. 28. Wenn sich das Leben gantz in dem Grimm mel en 2 dieBe rimmen⸗Welt heim.
+
+42 29, so faltdie Seele der at eine Bilduiß nach des Grim⸗ mes Figur, 31. Die Ste e irleder tragt fleinfich, 32. oh⸗ 1 diebola in einem als im andern Ort verspuͤ⸗ ird. Demnach tragt ein jeder Meusch, Himel und Hole in sich. eufel wohnet im Abgrunde, hat in Ewigkeit keinen Ort noch 5 35. Und liegt ee 1 ae.ei 35, Alle selt⸗ ind ein
+
+\#8 en Wordle if 6
+
+Weit, 37, gleich ein hof;
+
+Das
+
+[p. 84] VI. Von sechs Punct 6. Cap.9.
+
+ers denn won ie Finsterni rimmige eindige
+
+Essentz und das Leben des Lichts geberRiebe⸗Esseng 2. Inder Finsterniß ist inderEffeng nurein stetes Stechen und Brechen, da eine iede Gestalt der Essentz die andere anfein⸗ det, ein wiederwaͤrtiges Wesen. Eine iede Gestalt
+
+sich selber/und fagetje eine zu der andern, sie sey böfe, andh wiederwaͤrtig, sie sey eine Ursache ihrer Unruhe und Grim⸗ migkeit: eine iede gedencket insich, waͤre nur die andere Ge⸗ stalt nicht,duhaͤttest Ruhe; und ist doch eine iede bos und falsch. Daher kommts, daß alles, was aus der sinstern Grimmen ⸗Ei⸗ genschaft erboren wird, luͤgenhaftig ist, und immer die andere Gestalten anleugt, daß sie boͤse sind: und sie ist doch eine Ursa⸗ che daran, sie macht sie bös mit ihrer giftigen Insicirung. 3. Also sind sie alle, und ist Lügen ihre Wahrheit: Lügen reden, so reden sie von ihren eigenen Gestaͤlten und Ei⸗ enschaften; und also sind auch ihre Creaturen. Darum agte Christus: Der Teufel ist ein Kügner und Mörder von Anfang. (Joh. 8:44.) Denn eine iede Gestalt begehret die an⸗ dere zu morden, und ist doch kein Morden, sondern je geöfer der Streit ist, jegröffer wird ihr Mord⸗Leben.
+
+4. Darum wirds ein ewiger Tod und Fenndschastgen.
+
+net, da eine eitel Wiederwaͤrtigkeit entstehet: denn esist nicht das den Streit koͤnte aufheben, es ist nichts, das eine ei Gestalt koͤnte baͤndigen; Je mehr gewehret wuͤrde, je 8 wuͤrde die Grimmigkeit; gleich einem Feuer das man fh daß es nur sehrer brennet. sr BE 5. So mag das grimmige Reich von nichts gelöschet den, als nur blos von GOttes Lichte, davon wirds e lieblich und freudenreich; und das mag auch nicht wenn das finstere Reich mit dem Lichte solte e den, so hätte das Licht keine Wurtzel zu feiner Natur und genschaft: es koͤnte kein Feuer erboren werden, und waͤre 9 kein Licht, auch keine Allmacht, sondern alles ein Nichts. 6. Darum muß das Grimmen Reich seyn, denn es ist eine Ursache der Feuer: und Licht⸗Welt, und ist alles GOttes, Aber es wird nicht alles GOtt erkant, oder genant, darum weil finstere Welt eine andere Eigenschaft hat, und die Licht⸗Welt ist auch eine Ursache des Grimmes, und Schrackes der fi
+
+Eigenschaft: denn die Finsterniß erschricket r
+
+[p. 85] 9.6. Cap.9. Theosophischen Puncten. 67 stehetimewigen Schrack darum daß die dicht Welt in ihr woh⸗ net sieerzittert ewig vor dem Lichte /undmag doch das nicht fa⸗ hen; sond ern ist nur also eine Ursache des Lebeund nsderBes weglichkeit, und muß alsoalleszuGOttes Herrlichkeit dienen.
+
+Gestalte; esist der Finsterniß hat . 2. Das beben Eigenschaftalsuns solches an den Creaturen die⸗ ser Welt AE istdaeineje böfer ist als die andere, auch in anderer Qual stehet als die andere, welche doch noch alle in der Sonnen Kraft und Licht leben, davon sie gesanftiget werden. 8. Solte aber diese erloͤschen, sowuͤrde die Tieffe grimig und
+
+stachlicht; so solte man bald der finstern Welt Eigenschaft sehen, wie alle Creaturen würden also giftig und böfe werden. 9. Denn alles Leben stehet in Gift, und das Licht wieder: stehet allein der Gift, und ist doch auch eine Ursache daß die Gift lebet, und nicht verschmachtet. 10. Darum ist uns zu erkennen, daß das Leben der Finster⸗ niß nur eine verschmachtete Gift ist, gleich einer sterbenden Qual; und ist doch kein Sterben da, denn die Licht⸗Welt trit dem Spiegel der Finsterniß entgegen, davon die Finsterniß
+
+Schracke stehet. im g ewi
+
+. Das finstere Leben istgleich einem Schracke, da der Blitz und Schrack immer aufsteiget, alswolte er vom Leben weichen, und uͤberaus fahren; und daher entstehet die Hoffart, daß der
+
+Teufel immer will über GOtt seyn; es ist feine Eigenschaft.
+
+eines Lebens Figur ist also, und kann nicht anderst thun. Gleichwie eine Gift wuͤtet und sticht, als wolte sie aus dem Gliede ausreissen;
+
+12. Also ist das Leben der Finsterniß in sich selberdiegiftigen Essentien machen ein solch Gemuͤthe, und aus dem Gemuͤthe gehet ein solcher Willen⸗Geist.
+
+Es ist eine solche Eigenschaft darinne, und stehet fuͤrnemlich in sieben Gestalten, nach dem Centro der Natur, mit feinem Principio. Wie das Leben der Freuden in sieben Gestalten nach der Natur Rechte stehet, also auch das Leben der Traurigkeit: was im Lichte Freude giebet, das giebet in der Finsterniß Traurigkeit. 13. Und ist doch nicht also zu dencken, daß das Leben der Fin⸗ sterniß also in ein Elende sincke, da sichs vergaͤsse, als traurete es: Es ist kein Trauren, sondern was bey uns auf Erden Trauren ist ach dieser Eigenschaft, das ist in der Finsternist
+
+Macht und Freude, nach der u
+
+27 Eigenschaft: 2
+
+[p. 86] Vl. Von sechs
+
+Punct s. Cap.9.
+
+die Traurigkeit ist ein Ding, das im Tod ersincket. So aber der Tod und das Sterben der Finsterniß Leben, gleichwie die Angst der Gift eben ist; je groͤsser die Angst in der Gift wird, je staͤrcker wird das Gift⸗ Leben, wie solches am aͤusser⸗ lichen Gift zu erfinnen ist. 14. Wir können nicht also vom Teufel sagen, daß er in Trau. igkeit sasse, als zage er; es ist kein Zagen in ihme, sondern steter Wille die Gift⸗Qual mehr anzuzüͤnden, daß fein Grimm groͤsser werde, denner ist feine Staͤrcke, da er feinen Willen inne schoͤpfet über die Thronen zu fahren, und sie anzuzuͤnden. sie ist | einmaͤchtiger Herr seyn, denn Er will in der Gift⸗Qual das starcke und grosse Leben, aber das Licht istihme fein Elend und Zagen das leget ihme den Pracht ,davor er erschricket, den es ist seine rechte Gift, die ihn peiniget; darum daß er das ver⸗ lassen hat, so stehets ihm nun entgegen, dessen schaͤmet er fü sehr, daß er also ein ungestalter Engel in fremder Bildnißi Er wäre mit der Grimmen⸗Qual zufrieden, ware ihm nur das Licht nicht also nahe; darum ist die Schande also groß in ihme, daß er sich verweget, und feinen giftigen Qual immer sehrer entzuͤndet, daß feine Figur im̃er greulicher wird und nur die Göttliche Bildniß an ihm erkant wird: darum trachtet er nur dahin, wie er wieder SOtt wuͤte und tobe als waͤꝛe er etwas fremdes /oder eine fremde Macht als hatte er ein fremdes Reich, da er doch arm, und das Finster⸗Reich nicht fein ist,sondern er ist nur ein Gefangener darinnen. Es ist GOttes Abgrund,er ist nur eine Creatur darinnen; er will Herr darinn seyn, und ist doch nur ein Gauckler mit der Grimmigkeit, wiewoler thun muß als der Qualitat Eigenschaft ist: und ist auch Wunder r der strengen Macht der Ewigkeit.
+
+Es istgleich als ein el, da die strenge Macht ihr Verbringen mit hat, damit untersthei⸗ det werde, was Boͤs oder Gut, Freud oder Leid sey; und daß die Creaturen in der Licht⸗Welt Ursache haben sichzudemuͤth⸗ gen: wiewol GOtt keinen Teufel geschaffen, auch den Lucifer nicht zur finstern Welt; und istdis die Feindschaft beym Luci⸗ fer, daß er ein Engel gewesen, und daß ihme das Licht sonahe ist, daß er ein Abtruͤnniger ist worden. 15. Sonst ist kein Wehe in den Creaturen, die in der sinstern Welt sind geschaffen worden, denn sie sind der grimmigen Ei⸗ genschaft, und wissen nichts vom Lichte. Grimmigkeit istihre
+
+Staͤrcke und Macht, und Feindigkeit ist DENKE
+
+[p. 87] P. 6.Cap. 9. Theosophischen Puncten. &9 und feindiger eine Creatur in der finstern Welt ist, je Je boser istfeine Macht. groͤsser
+
+Gleichwie die maͤchtigen Tyrannen dieser Welt ihre Macht oft in Bosheit sehen lassen, daß man sie fuͤrchten muß, oder wie sich die zahmen Thiere vor den boͤsen
+
+5 grimmigen 1 in t Also hats auch eine Eigenschaf
+
+165. Wann wir die Eigenschaft der finstern Welt recht bes an die Bosheit und Hoffart trachten wollen, so sehen wir nur Welt, die istein Fuͤrbilde; denn alle Bosheit, Falschheit, Hoffart und Geitz hat feine Wurgel von der finstern Welt: Es istderfinftern Welt Eigenschaft, es werde gleich in Menschen oder Thieren erkant. 17. Denn diese Welt stehet auf der finstern Welt Grunde, diefinftere Welt gibt dieser Welt Effeng, Willen und Eigen⸗ haft; und wäre nicht das Gute mit eingeschaffen, so wäre dieser Welt, als in der finstern in e kein ander Thun oder Will
+
+Welt; aber die Göttliche Kraft und der Sonnen Licht verz wehren das, wie unter den Menschen und Thieren zu sehen, wie ein Beissen, Feinden, Schlagen, und hoffaͤrtiger Eigen⸗
+
+Be da ein iedes will über das andere herrschen, das ans wuͤrgen, fressen, und sich allein erheben; auch alles mit
+
+Hege Bosheit und Falschheit untertreten, und sich zum machen. 18. Also hat auch die finstere Welt eine Eigenschaft. Was Menschenindieser Welt thun in ihrer Bosheit
+
+ste fin fel Teu th hei sch Fal s⸗ Bo ihr Th ͤr Wu sen boͤ tig gif itthun, das thun auch die andern Creaturen in der finstern t: wiewol sie ohne einen solchen Leib sind, so haben sie doch e Eigenschaft in ihrem geistlichen Leibe; und oh sie zwar eib haben, ist er doch nach Geistes Art, als die Teufel haben. 10. Der finstern Welt Geburt, Wesen, Essentz und Regi⸗ ment stehet fuͤrnemlich nur in den ersten vier Gestalten der rck sta seh ga Qu t⸗ gs An Natur, als tba lau ent Ess all nt gi Re mächtige ft, cha nds Fei Ma n⸗ Gr ut tm nf Sa De j er. and ed und istjeein 20. Sonst, wo es eines seyn solte, so muͤste auch nur einer⸗ ͤc mo ll Wi ey erl nu ͤr ley Qual seyn, und ab rd nic Wu ew [p. 88] ley Qual machet die ewigen Wunder offenbar: Denn die
+
+sen kommen, als mit der Entzündung, als im strengen herben Anziehen, darinn die finstere Welt stehet, und darinn die eu⸗
+
+VI. g Von sechs Punet! 6. Cap. 9. 1A
+
+Ewigkeit möchte anderst nicht offenbar werden noch zum We⸗ er: Welt urstaͤndet, und auch die Licht: Welt, Es istallesn ein einiges Wesen, und scheidet sich aber selber in drey Eig.
+
+schaften der Qualen: Es ist keine Eigenschaft von der andern abgetrennet, sondern eine iede giebet die andere, wie am SE und Lichte, sowol an der Materia zu sehen, daraus dasF brennet.
+
+a1. Und ist dem Menschen nicht noth tiefer zu forschen denn er ist selber das Wesen aller Wesen; alleine darum ist ihme noth zu forschen, weil er sich in feiner Schoͤpfung hat aus sei⸗ ner instehenden Ordnung umgewandt, und andere Dual in
+
+Sich eingeführet und erwecket, wie er wieder möge in feine ewi⸗ ge Ordnung und Qual eingehen, und sich wieder erbaͤren: und denn, wie er moͤge die grimmige Qual, die an ihm raͤge ist, wieder loͤschen, weil alles in ihm raͤge ist, und ihn zeucht, bey⸗ des Bos und Gut; so soll er lernen, wie er dem Grimme md ge wiederstehen, und in Sanstmuth, im Qual desAchtes und der Liebe wandeln.
+
+22. Sonst hat der Mensch kein Gesetze, so er sich nicht in der finstern Welt Eigenschaft entzuͤndet, und nach derselben
+
+Eigenschaft wandelt;
+
+sonst istibm alles frey, waserimmer in der Sanftmuth und diebe thut, das ist ihm Frey, und istfein ei⸗ gen Wesen, es liegt an niemands Namen oder Waͤhnen 7 Alles was aus einer Wurtzel gewachsen ist, das ist und gehoͤret zu einem Baume, es isteinerley Frucht; es verderbe sich denn selber, daß es dieselbe Essentz verwandelt. MR 24. Also lange ein Ding in der Essentz bleibet, daraus es ist entstanden, so hats kein Gesetze; wenn es aber daraus in eine andere Qual weichet, so hanget ihm die erste Qual an, und lie⸗ get mit der andern im Streite. Jetzt erfolget ihm das Gesetze, daß es wieder in das eingehe, das es im Urstande war, und
+
+Eins sey, nicht Zwey; denn Ein Ding soll nur Ein Regiment fuͤhren, und nicht Zwey: Der Mensch war in das Regiment der kiebe und Sanftmuth, als in GBttes Wesen darinn solte er bleiben.
+
+geschaffen,
+
+25. Weil er ihm aber hat noch ein Regimenatls den Gr erwecket, ietzt ist er im Streit, und hat Gesetze, 3 imm rimm
+
+[p. 89] Be.
+
+k
+
+P. 6.Cap. 9. Theosophischen Puncten. 71
+
+Grimm toͤdte und verlasse, und wieder in einem Regim entfeys so denn beyde Regimente in ihme sind mächtig worden, und das Grimmen⸗Regiment die diebe hat übermältiger, so muß er gantz im Wesen zerbrechen, und wieder aus der ersten Wurtzel neugeboren werden: darum hat er in diesem zweyfachen We⸗ fen Gesetze, wie er sich fol geberden, und einen Willen⸗Geist baren zum ewigen Regiment. 26. Dieses alles stehet nun in feiner Macht, er mag den
+
+Grimmen⸗Geist erbaren, oder den diebe⸗Geist, nach demsel⸗ ben wird er geschieden, wohin, und in welche Welt er gehoͤret: Denn er scheidet sich selber. 27. Aber das Gesetz über ihnen waͤhret so lange er in diesem Leben (Acker) stehet, alsdenn, wenn sich das Unkraut von die⸗ sem Acker des Leibes scheidet, so ists wieder in einem Regiment, da soll es ewig bleiben; denn hernach ist nichts mehr, das ihm Gesetz gebe, dennes istgantz einig in seinem Willen, entweder
+
+Boͤses oder Gutes zu thun.
+
+28. Aber in diesem aͤussern Leben stehet der Mensch im Streit: Es ruhen zwey Regimente in ihme, auch zweyerley
+
+Qual und Gesetze. () Das Goͤttliche, zur Liebe und Gerech⸗ tigkeit. (2) Das grimmige, im Aufsteigen der Hoffart in lers⸗Macht, im strengen, herben, hoͤllischen Geige, Neide, orn und Bosheit; welchem sich der Geist eineignet, desselbi⸗ gen Regiments ister: Das ander hanget ihme an, und schilt ihn unter Augen, als einen Meineidigen und Abtruͤnnigen, zeucht ihn aber doch, und will ihn haben. Also stecket das Leben wischen beyden in der Presse, und istmit ihme selber uneinig. 209. Wenn sichs aber verweget, und dem Grimm gantz heimgiebet,sozerstoͤrt der rimm die erste Bildniß nach GOtt: Ver mag er aber nicht gaͤntzlich, daß ihme das die Goͤttliche
+
+Kraft verwehret, so will der Grimm den gantzen Menschen stuͤrtzen, und wird mancher Mensch in Zweifelung in derselben Angst gestuͤrtzet, daß er ihme selber den Tod anthut. 30. Also faͤllet die Seele mit der Bildniß der grimmigen, finstern Welt heim, und wird die Bildniß in eine hoͤllische Fi⸗ ur gebracht, in eine Gestaͤltniß seiner alhie⸗gehabten Eigen⸗ chaft: denn also ists auch den Teufeln ergangen, welche ihre erste Bildniß verloren haben. n⸗ Ei ner fei nac ld Bi zt iet hat fel Teu ied Ei 31.
+
+Qu ner fei nac on Si Gr na aft sch tte
+
+1 = 1—
+
+—ñ—ͤ
+
+[p. 90] Findschreckliche Würme,oderböfeThiere, undfolches hat aut die verlorne Seele zu gewarten.
+
+auf sie, und nehmen siein ihr Regiment ein, bis zum Gerichte Gottes: und wiewol sieankeinen Ort gebunden sind, so ge⸗ hoͤren sie doch ins selbige Regiment, und dieselbe Qual ha
+
+sie überal; wo sie denn immer hinfahren, so sind sie im selben en 3 : von 5 2 hat 458Staͤtte, we⸗ * Feitnoch Raum. Gleichwie es war vor den Zeiten der
+
+Abelebakeine Stätte war; also ists und bleibets ewig m grunde.
+
+35. Und wiew ol Loeus dieser Welt dem Lucifer zum Rd nigreich gegeben ward, denn er ward darinn geschaffen; so erdoch nun aus Ort und Stätte ausgestossen worden, und woßnetimAbgrunde, da er ewig keinen Ort der Englischen
+
+Reiche erreichen mag, und ist doch in seinem Reich imAbgrun⸗ de eingeschlossen, da er dann muß ewigen Spott, alsein fangener, tragen; gleichwima e neinem W
+
+N5
+
+Be⸗
+
+[p. 91] P.nan ten. Pune isch soph Theo 9. Cap 6. in einfinster Loch von allen Wesen dieser Welt einführet, da eraller WeltFreude und Wollust muß entberen, und seines Verbrechens Spott tragen.
+
+36. Also gehets auch den Teufeln, und allen verdammten
+
+Seelen die liegen imfinftern Kercker gefangen, sie begehren auch nicht heraus, wegen grossen Spotts ihrer greulichen Ge⸗ alt und Bildniß: und wo fiedenn gleich immer hinfahren, so geniessen sie doch ewig keines Guten, es istbey ihnen keine Er⸗ quicung, sondern liegen in der Hölle als die Todten, oder als wig Verhungerte, Verschmachtete und Verdurstete; Und eine boͤse Gift⸗ Qual, alles ist ihnen wiederwaͤrtig, sie nurd fin haben nur einen Durst nach Angst und Bosheit, das fressen sie ewig in sich, und gebaͤren GOttes⸗Laͤsterung uͤber sich sel⸗ ber: je greulicher sie ihre Figur machen koͤnnen, je lieber ist ihnen das; gleich als die Narren⸗Menschen, die auf Erden immer gerne wolten die groͤsseste Narren seyn, stellen fü
+
+scheuslich, und haben ihre Freude daran; also hun sie au ewig inder Hölle, darum fahen sie das Spiel hier auf Erden an. Gleich wie der Tyrann feine Freude daran hat, wenn er ag die Menschen peinigen, und ihren Schweiß in naͤrrischer mer Kleidung und Gebärden verprangen, und sich naͤr⸗ risch stellen; Also thun auch die Teufel in der Hoͤllen: und ist dieser Welt Uppigkeit, in seltsamer Tracht, ein recht Vorbild Hoͤllischen Welt. Alle seltsame Loden und Zotten, welche der hoffaͤrtige ensch ertichtet, und seinen naͤrrischen Menschen damit be⸗ kleidet, damit er will von den wahren Kindern GOttes unter⸗ schieden seyn, das seind Vorbilde der hoͤllischen Welt: denn alle sein Schmuͤcken, Gleissen und Prangen, damiter sich von der Demuth entzeucht, ist alles ein Hoͤllischer Spiegel; denn des eufels Hoffart will niemands gleichen seyn, sie unterscheidet ich in dieser Welt. Und der blinde Mensch verstehet das nicht, wie ihn der Teufel narret und betreugt, und nur also GOtt zu
+
+spotten feine hoffaͤrtige Larva fuͤrbildet, daß der arme Mensch thut, als er thut, und vermeinet doch er sey damit schoͤne, und
+
+sey besser als andere Menschen, und da wir doch alle aus ei⸗ nem Leibe und Geiste urstaͤnden und herkommen; aber vor Gott und feinen Engeln wird er damit nur für eine Teufels⸗ Larve erkant, und istvor dem Himmel ein Greuel. 4 — Narr gegen Weishe nur Greuel ist; also > "Es An
+
+[p. 92] VI. Von sechs Punet 6. Cap. 10.
+
+die gleifmerfie Hoffart ein Greuel vor GOtt und feinen En⸗ geln,vor der edlen Bildniß: noch bangetiihr die Welt an, da⸗ mit bezeichnet sie das verderbte Bild der Irdigkeit. 38. Wer einen hoffaͤrtigen Menschen seheder siehet den
+
+schweren Fall Adams, und ein Vorbild der böflifchen Welt, einen halben Teufel und halben Menschen, zu dem der Teufel einen steten Zutritt hat: denn er ist des Teufels Knechtin die
+
+ser Welt, denn der Teufel treibet sein Werck mit ihme, und das kennet der arme Mensch nicht, gehet also in des Teufels Dien⸗ sten zu seinem ewigen Spotte; er meinet er sey damit fehöne und ansehnlich, und istdarmit vor GOtt nur als ein Narr, der fremde Kleidung anthut, und nimt Thierische Gestaltan fi ch.
+
+Das 10. Capitel.
+
+Von den vier Elementen des Teufels, und der fi stern Welt, wie man die in dieser Auffern
+
+Welt kennen soll.
+
+Summarien. e 4Elementa des Teufels. 5. 1. Auf diesen
+
+Ka
+
+stehet die aͤussere
+
+Welt, 2. und gebieret Eines das Andere. 3. Inder heutigen Welt und Religionen regieret der 4 Elementen Sohn, 1
+
+2Reiche auf Erden. S. Diesen Rock Falschbeit heisset,4.und hat (ASOttes spottet, wann der will ein ieder anziehen,6. darinn der Teufel
+
+Mensch seinen Willen thut. 7. Darum ist die aͤussere Welt eine Mo 1 7705undfromme Menschen sind der Gottlosen Spott. 9. Sol oͤse Thiere gibts —7 den Menschen 210. Ihre erste Tugend ist Hof⸗ fart, u. die frisset des Elenden Schweiß; 12. die andere Tugendi
+
+Getz,13. BEEfiaselbst plaget 14. Die Hole 5 immer m
+
+16. dem Geitz. ıs. Die dritte Tugend it der Neid, eld Wi en:Sci ist; 17.
+
+des Teu⸗
+
+Zorn. 18. Dis die vierte Tugend ist ber Q ind die 4 Elementa, womit der Teufel auf Erden regieret, und einem machet 19. Ein Element zuͤndet immer das Christen e was 15 Eigenschaften in andere an. 20. Darum matein ieder 1 muͤssen und streite dawieder;21. denn diese 7 am N Herr seyn, sondern GOttes 4 Elementa. 22. Also muß der Mensch ich felbit streiten, und nüchtern und mäßig n, 23. denn er pr fi hat viel Feinde. 24. Streit ist ihm noͤthig, 1 5 mit Mund und bleibe nur Treu, Schwert, sondern mit Geist und Gemuͤthe. 28. und dencke, daß ihn = also vom Teufel erretten wolle und in sein Reich einführen. Amen. 26.
+
+As erste Element der finstern Welt und des Teufels ist
+
+Boffart, das ander if Geitz, das dritte ist Teid, das vierte ist Zorn. Diese vier Elementa brüteh immer [p. 93] i p.C.Cap.10. Theosophischen Puncten.
+
+int ng jungen Sohn aus, der heisset Falschheit. Ders
+
+selbige Sohn ist auch ein wahrhaftiger Sohn des verderbten Adams, den er hinter sich gelassen hat zu einem Herrn der Welt; der ist inder Welt Koͤnig worden, und hat die gantze besessen, er regieret an allen Enden im dritten Principio, er diesen König recht kennet, der kennet die vier Elementa des Teufels, denn in der finstern Welt haben diese vier Ele⸗ menta das gantze Regiment, im Geiste und Leibe, und in allem das Wesen heisset. 2. Und sehen wir andeme klar, daß diese aͤussere Welt auf dem Grunde derselben vier Elementen stehet, und Neiglichkeit von ihnen empfaͤhet, auch Qual und Willen; denn derselben vier Elementen Sohn regieret auf Erden, er will alles unter
+
+seinen Gehorsam haben, und hat viererley Geschlechte seiner Unterthanen. (1) Das Geschlecht der Hoffart, das uber alles andere seyn will, und sich nicht will gleichen.
+
+(2) Das
+
+Geschlecht des Geitzes, das alles will allein besitzen, und unter und will alles haben. sich baͤndigen
+
+Dis ander Geschlecht ist des ersten Sohn, denn die Hoffart will auch alles haben, daß sie allein alles sey. (3) Das dritte Geschlechte ist der Neid, wel⸗ cher des Geitzes Sohn ist: wenn der siehet, daß er nicht alles allein kann habensosticht er als eine Gift und goͤnnet niemand nichts sein Wille istin allen Dingen entweder an sich zu ziehen, und allein zu befigen, oder ja darinnen zu wuͤten mit einem boͤ⸗ fen Willen. (4) Das vierte Geschlecht ist der Zorn, der ist des Neides Sohn; was der nicht kann mit boͤsen Willen erreichen, daszuͤndet er im Zorn⸗Feuer an, und zerbrichts mit Gewalt, richtet Krieg und Morden an, und will alles zerbrechen; Geschlecht will alles mit Gewalt baͤndigen.
+
+dis
+
+3. Dis sind also die vier Elementa des Teufels, welche alle vier in einander sind als Eins; es gehet je eines vom andern aus, underbieret jeeines das ander, die urstaͤnden von der fin⸗
+
+stern Natur als von Herbe, Bitter, Angst und Feuer.
+
+4. Dieweil aber GOttes Kraft ihnen ein Gegensatz ist, daß
+
+siein dieser Welt nicht vollen Gewalt haben, so haben sie ihnen einen listigen Sohn erboren, mit deme sie regieren, der heisset Falschheit: derselbe nimt ja den Rock der Goͤttlichen Farben Aber sich, daß man ihn nicht kenne, und will ein Sohn der
+
+Wahrheit und Tugend heissen, und ist aber ein Schalck; anderst auf fuͤhret er: thut anderst er, dencket anderst redet
+
+Zungen [p. 94] vl. Von sechs ist.
+
+Pun 6.cCat p.10. h
+
+Glantz, und im Hertzen des Teufels Kraft n 2 “|
+
+5. Dieser ist König auf Erden, und verwaltet zwey Reiche:
+
+Das erste heisset das Verderbniß; und das ander Babel, eine
+
+Verwirrung. Dem Reiche der Verderbniß hat dieser König angezogen die Staͤrcke und Macht, das ist desselben Reichs
+
+Kleid.
+
+Dem andern Reiche, als Babel, hat er angezogen ein weisses, glintzerndes Kleid, das muß ihn an GOttes statt damit regieret der König auf Erden, gleich als waͤre er GOtt. und die Voͤlcker beten dasselbe Kleid an: und unter dem Kleide und hat seine Mutter, ist der Mann der Falschheit und Betrugs als Hoffart, Geitz Reid und Zorn. die vier Elementa insich,
+
+6. Also herrschen die vier Elemente des Teufels unter einem gleissenden Rocke, und die Menschen reissen sich um denselben Rock; ein ieder will ihn anziehen: wer ihn aber anzeucht, der zeucht die Hölle und GOttes Zorn an. Solcher Rock wirdan Gdttes statt geehret, und ist doch der Rock den der Zornd Ot⸗ tes Ada und Heva anzog, als sie der Teufel betrog, daß sie von
+
+Gottes Gehorsam fielen. Und ist eben das Roͤcklein, dafür uns Gott sint der Welt jehat gewarnet, wir sollens nicht an.
+
+ziehen, denn der Teufel istdarinn zur Herberge: wenn wir das anziehen, so ziehen wir beym Teufel zur Herberge ein und muͤß⸗ fen thun was er will, denn er ist Wirth im selben Haufe, ı ruhet im selben Roͤcklein.
+
+7. Dieweil er ein Gefangner GOttes ist, so zeucht eruns fein Röckle an, und schicket uns damit gen Babel infeinen
+
+Dienst da muͤssen wir GOttes spotten; denn wir haben GOt⸗ tes Roͤcklein an, und haben den Teufel darunter zur Herberge und zu Gaste: also giebet die Zunge GOtt gute Worte, und das
+
+Hertz hat den Geist der vier Elementen des Grimmes; und wird also GOttes vom Teufel gespottet daß Gott doch seh.
+
+soll, daß er,der Teufel, Herr und König über die Menschen 175 und achtet GOttes Herrschaft im Menschen nur gleich einem glintzenden Rockeda er,der Teufel, Mann darinne sey, und habe den Menschen in seinen Arm gefangen: decket ihm zwar das
+
+Roͤcklein über, und laͤsset sich den Menschen GOttes Kind nen⸗ nen, aber der Mensch thut ihme nur in diesem Rocke seinen Wil⸗ len; das alles was der Teufel im aussern Reiche nicht thun kann noch darf, das thut ihme der Mensch in seinem Dien
+
+Der Teufel darf niemand toͤdten, das thut ihme der Drei ir gerne
+
+[p. 95] 6.Cap 10. Theosophischen Puncten. 77
+
+- sH_ try gerne zu gefallen; auch kann der Teufel der Geschoͤpfe GOttes und der Mensch mißbrauchet sie ihme gerne zu nicht brauchen, gefallen, GOttes darunter zu spotten zer treibet damit Hcffart und Geitz, auch Falschheit und Bos heit, und richtet alles dar⸗ unter aus, was der Teufel haben will, er glintzet auch damit, als ware er Gott. 8. Darum ist das aͤussere Reich einestete Mord⸗Grube des els worden; und der falsche vermeinete Mensch, (der sich einen Menschen nennet, ists aber nicht,) verrichtet die Moͤrde⸗ rey, und vermehret Gottes Zorn, und zündet an die finstere Weltin dieser aͤussern, also daß GOttes Zorn immerdar in dieser Welt brennet. 9. Also wird GOttes Reich gehindert, und geschiehet des Teufels Wille, und bleibet der Teufel ein Fuͤrst auf Erden, da er sonst kein Verbringen auf Erden hätte ‚so ist ihme der ver⸗ meinte Mensch im Dienste, und verbringet seinen Willen. Wohnen also zwey 174 der Menschen auf Erden bey das eine seyn rechte Menschen, die dienen GOtt im einander: Rocke der Demuth und des Elendes, derer spottet der Teufel, und plaget sie mit dem andern Geschlechte, und verbringet alle seine Wunder an ihnen, durch diese welche ihme dienen. 10. Und das ander Geschlechte nennet sich auch Menschen, gehen auch in Menschen⸗Gestalt, aber sie sind boͤse Thiere; die jiebenan sich ihres Koͤniges Kleid, das heisset Falschheit, und in Kraft der vier Elementen ihres Koͤniges, als in Hofe fart, Geitz, Neid und Zorn.
+
+1. Die Hoffartistdie erste Tugend /sie reisset dem rechten
+
+Menschen das Brot aus dem Munde, und zwinget den Elen⸗ den, daß sie ihr kann genug thun. Sie will nicht daß sich ihr etwas soll gleichen, sie will allein das schoͤnste Kind im Hause seyn, und sie hat das gleissende Roͤcklein angezogen, will fromm genant seyn, man soll sie ehren, und vor ihr sich beugen; auch soll sich ihr nichts gleichen, sie will Herr seyn, und spricht: Ich bin zuͤchtig in meinen Geberden.
+
+Aber ihr Hertz ist der Geitz, der ist der Wolf, und friffet dem Elenden feinen Schweiß und Arbeit; sie steiget über alles auf; sie gruͤndet taͤglich inden Wundern GOttes, wie sie möchte gleissen: sie stellet sich freundlich und zuͤchtig/ als wäre sie eine Jungfrau voller Zucht, und ist doch eine bruͤchige Hure, und hasset im Hertzen alle Tugend Zucht und Gerechtigkeit, sie ist
+
+＋ [p. 96] ein steter Feind der Liebe und Demuth; was alber ist, das ver⸗
+
+Vi. Von sechs Punct 6. Cap. 10.
+
+S.
+
+achtet sie, und zwinget doch das Albere unter ihr Joch. Sie sprichtzudem rechten Menschen: Du bist mein Hund ichjag
+
+selber der groͤste Narr;fieverfcherget GO und das Himmel dich wo ichhin will, du bist narrisch/ undich bin klug; und sieĩ reich/um einer kleinen Weile Augenlust, sie wirft sich in die Finsterniß, und zeuchtan den Rock der Angst. 13. Die andere Tugend dieses Königs der Falschheit ist de Bein, der ertealles an sich, und verfinstert der Hoffart glintzende Zier; 05 seß und Gutes unter einander an sich, und fuͤlletstetsdie Hoffart voll: und wenn er sie gefuͤllet hat, so nimt er feinen Sohn den Neid, und quaͤlet die 5 damit, daß sie keine Ruhe in ihrem Glantze hat. Der Neid
+
+sticht immerinden begehrenden Geitz, als wäre er toll und uns sinnig, und martert die Hoffart Tag und Nacht, daß sie nim⸗ mer ruhet.
+
+Der Geitz ist das rechte grobe saͤuische Thier,er begehret mehr als er fressen kann oder mag: sein Rachen stehet Tag und Nacht weit offen,erlasset den Menschen nicht ruhen, und quaͤlet ihn immer in seinem Unflat, daß der Mensch nach Erde trachtet, undnach denen Dingen, so die Erde giebet, ohne iemands Geitz, es gehoͤret nur Arbeit darzu, und kein Geitz. 14. Der Geitz plaget sich selbst, und ist sein eigen Feind denn er fuͤllet sich mit Wehe und Unruhe, und verdunckelt dem Men: schen feinen Verstand daß er nicht kann erkennen, daß all Goͤttlicher Hand kommt. Er machet dem Menschen seines Lebens Licht finster, verzehret den Leib, und beraubet ihn Goͤtt⸗ licher Sinnen und Herrlichkeit; er wirft ihn in des Todes Grube, und bringet ihme den zeitlichen und ewigen Tod. Er zeucht finster Wesen in des Menschen edle Bildniß /und machet aus einem Engel einen grimmigen Teufel: Er schaffet
+
+Turbam über Leib und Seele, und ist das greuliche Thierim Abgrund der Hoͤllen, denn er ist die Ursache der Qual und
+
+Pein, ausser ihme möchte keine Qual entstehen; er machet den Krieg und Streit, denn er lasset sich nimmer genuͤgen, haͤtter gleich alle Welt, so. wolte er gleichwol auch den Abgrund haben, denn ihme ist keine Staͤtte zu feiner Ruhe erboren; Er bauet
+
+/und Laͤnder und Koͤnigreiche, und zerbricht sie auch wieder treibet den Menschen in eitel Muͤhe und Unruhe;er istschlechts des Teufels Hertz und Wille. 16. Denn
+
+[p. 97] P. s. Cap 10. Theosophischen Puncten.
+
+5. Denn die Hoffart ist der schoͤne Geist, der aus dem Gei⸗ tze aus waͤchset, sie ist das schoͤne Kind, das da solte den Himmel besitzen, aber der Geitz hat es zu einem Hurenkinde gemacht, und hats in Babel,indie Mutter der grossen Hurerey auf Er⸗ den, eingefuͤhret, da huret die Hoffart immer mit dem Geige, und ist nur einHurenkind vor GOtt: es kann den Himmel nicht besitzen, es hat sein Himmelreich auf Erden, und buhlet dem Koͤnige der Falschheit, der nimt alle seine Arbeit an, gibt sie den 4Elementen des Teufels in der finstern Welt, da muß die Hoffart mit dem Geitze auch hinnach, wenn der
+
+Angst⸗Geitzsack zerbricht, der istja so gerecht, und nimt doch seinen Geitz mit in den Abgrund, daß doch die Hoffart ihre Freude darinn habe, als ein Narr in feinem Narrenkleide, der sich muͤhet und aͤngstet, daß er Narrheit gebaͤre und feinen Zu⸗ sehern gefalle, daß er ein unsinniger Narr sey. Also imglei⸗ chen ist auch die Hoffart und Geitz GOttes Narr, und des Teu⸗ fels Gauckler, der feine Freude daran hat, daß er aus GOttes Bild kann ein Narren⸗Bild machen. 16. Die dritte Tugend ist der Neid, in den 4 Elementen des Teufels, im Reiche der Falschheit, der istein Stachel, Wuͤter und Tober, als eine boͤse Gift, er kann nirgend bleiben, und hat keine State feiner Ruhe, feine Mutter der Geitz laͤsset ihme keine Ruhe, er muß immer wuͤten und toben ; er muß in das ehen, darinnen er nicht geboren ist. Er ist des Geitzes nd, ein steter Lugner und Verleumder: erf sticht in seines und verwundet das; er frisset sich selber vor aͤchsten Hertz / giftigen Hunger, und wird doch nimmer satt; er machet Un⸗ ruhe ohne Ziel und Maß; er ist die groͤste Gift, und der Hoͤllen Auge, der Teufel siehet damit dem Menschen in Seel und Leib, sein ist nichts gleich; er ist kein Feuer, aber der Stachel des
+
+Feuers.
+
+Er richtet alles Ubelan,und findet doch keine Ru⸗ e je mehr er treibet, je unsinniger ist er: er ist eine ver⸗ schmachtete Gift, erdarf kein Wesen, und wuͤtet doch in dem Wesen; er machet den Menschen mehr als unsinnig, daß er bes gehret wieder GOtt zu wuͤten undzu toben; er ist der Hoͤllen und des Zorns Effeng, er machet aus Liebe die groͤsseste Feinde schaft; er goͤnnet niemande nichts, und ist doch selber ein ver⸗ hungert Nich ts.
+
+17. Dieser ist des Teufels Willen⸗Geist: welcher Mensch ihn [p. 98] t10. Cap. Pu 6.
+
+ihn zur Herberge einnimt, der nimt den Teufel mit GOttes Zorn ein, denn er führer die hoͤllische Marter und Wehe; er ist die ewige feindige Plage und Unruhe, und zerstoͤret das edle 1 GoOttes, denn er ist GOttes und aller Creaturen eind.
+
+'
+
+‚a
+
+18. Die vierte Tugend, in den vier Elementen im Könige reich der Falschheit des Teufels, if der Zorn, die Bosheit; die ist das rechte Höllische Feuer, denn der Zorn wird zwischen dem Geige und Neide geboren,erist des Neides Feuer und Lebens was der Neid nicht kann verbringen, das verbringetder Zorn;
+
+der Zorn nimt Leib und Seele zusammen, und läuft als ein wuͤtender Teufel, will alles ermorden und zerbrechen; er lauft an Mauren und Schloͤsser: und ob er sich gleich selbst zerboͤr stet, noch ist er so rasende, gleich einem tollen Hunde, der alles beisset und mor det;und istfo giftig in feinem Zorn, daß was er gleich nicht kann bewältigen, er doch vergiftet: Dieser ist das rechte Podagra derWelt: wenn die Hoffart in ihrem gleifs
+
+senden Roͤcklein nicht kann die Gewalt mit Lift und Falschheit bekommen, so muß es hernach die vierte Tugend ausrichten, die schlaget mit Faͤusten darein, und richtet Krieg an. O wie froͤlich ist der Teufel wenn feine vier Elementen also regieren, ER er noch, er sey Herr auf Erden: Ob er gleich gez angen ist, foverrichten ihme doch die Thier⸗Menschen wol sein
+
+Amt und er spottet nur also damit der Mensthen daß sie ärger thun als er selber thun kanm. fiund 10. Dis sind also die JElementa der finstern Welt, in wel⸗ cher der Teufel vermeinet ein Gott zu seyn, damit regieret ern auf Erden, mit seinem getreuen Sohn der Falschheit: Diese ist erst das geschmuͤckte Käglein, das vorne gute Wort giebet, und zielet doch immer auf die Maus; kann sie die nur erha⸗ wie froh ist sie, wenn sie kann den Braten dem Teufel sch/o bringen. Mit diesen 4 Elementen ist der Mensch ir und in des falschen Königs Land zur Herberge, die schi ihm alle Stunden zum Hertzen, wollen seine edle Bildniß er⸗ morden; er muß immer im Streite wieder diese seyn, denn sie sind bey und in ihme zur Herberge ‚sie stechen immer auf ihn un) und wollen ihme sein bestes Kleinod ermorden.
+
+20, Wenn unter diesen 4 Elementen nur Eins im Mens
+
+schen Gewalt bekommt zu qualificiven ‚so zuͤndet dasselbe ey [p. 99] ip u |
+
+P.s. Cap. 10. Theosophischen Puncten.
+
+gr die andern alle an, und berauben zur Stunde dem Menschen
+
+seiner edlen Bildniß, und machen eine Larve des Teufels aus ihme: Und kann kein Mensch mit Wahrheit von ihme sagen, der diesen vier Elementen Gewalt laͤsset zu qualificiren, daßer ein Mensch sey, denn er qualificiret in des Teufels Eigenschaft, und ist ein FeindGOttes.
+
+Und ob ihn gleich der Teufel mit det,n daßer kann gute Worte geben, ebek leie fck dem gleifRo und weiß sich fein zu gebarden,daß man meinet er sey ein Kind
+
+so ist er doch kein Mensch, so lang diese 4Elementa Ober⸗Regimentinihm führen, sondern er istein verteu⸗
+
+Mensch, halb Teufel und halb t/ SHn mache bis er sein nz denn ist1er ein ga euf Me
+
+24. Darum lerne sich ein jeder kennen, was für Eigen⸗ 5 055inihm regieren: Befindet er, daß diese vier Elemente sionnur Eins,inihme regieren ‚so hat er Zeit wieder sie rieg zu ziehen oder es wird nicht antwerden, er wird sich ae nicht doͤrfen troͤsten, er lasse ihme nur nicht eufel den gleissenden Mantel umgeben, wie iegt geschie⸗ t da man in diesen 4 Elementen lebet, und kitzelt sich nur mit dem Leiden Christi, das muß dieses Schalcks Deckel n. Der Schalck moͤchte sein Regiment behalten, wenn er mit Christi Genugthuung sich nicht kitzelte. O wie wird dir dergleissende Rock Christi ausgezogen en, denn wird man zu Babel die Hure mit den vier Tu⸗ 5 stehen sehen. Es heisset nicht allein trösten, sondern em Schalcke wehren, daß er nicht Herr im Hause werde, er muß nicht das Regiment haben, sondern die Gerechtigkeit, Lie⸗ be, Demuth und Keuschheit, und immer gerne wolthun; nicht in Hoffart, Geitz, Neid, oder Zorn, sondern in Demuth, in Wolthun mit gutem Hertzen; nicht heucheln und gute Wor⸗ te geben, sondern im Thun: es muß Thun seyn; des Teufels Willen wiederstreben, sich lassen an wenig begnuͤgen,inGe⸗ dult sich in die Hoffnung auf GOtt einschliessen, den vier boͤ⸗ sen Elementen wiederstehen, und GOttes vier Elemente ein⸗ nehmen, welche sind Liebe, Sanftmuth , Barmhertzigkeit und Gedult in Hoffnung: das sind GGttes vier Elemente, diese fol der Mensch in ihme erwecken, und stets damit wieder des Teufels vier Elemente streiten.
+
+23. Der
+
+[p. 100] 82 VI Von sechsTheosophichen Puncten. f 23. Der Mensch muß alhie im Streit wieder sich selbst seyn, will er ein himmlischer Buͤrger werden; Er muß einfauler Schläffer in Fressen und Sauffen seyn, und sei⸗ nen Bauch nur füllen, davon des Teufels Elementa pn ven zu qualificiven;.sondern er muß mäßig, nüchtern und wacker seyn, als ein Kriegs mann der vor feinem Feinde stehet:
+
+denn Gottes Zorn streitet immer wieder ihn, er wird dessen an zu thun haben, daß er sich verwehre. 24. Denn der Teufel ist fein Feind,55 eigen Steh und Blut ist fein Feind; Gottes Zorn ist feinF in ihme, und die gantze Welt ist fein Feind: wo er nur da fiebeter Feinde, die ihn alle berauben wollen.
+
+25. Darum heissets Streiten, nicht mit Mund und Schwert, sondern mit Geist und Gemuͤthe; und nicht lassen, solte gleich Leib und Seele zerbrechen, so muß d Gott des Hertzens Trost bleiben, wie König David fag Wenn mir gleich e zerbricht, sobist du doch
+
+Gott, und meines Hertzens Trost und Zuversicht: (Pl. 26.) und wenn gleich ein Mensch sähe, daß die gantze gottlos wäre, so er gedencket ein Kind GOttes zu werden, doe bestaͤndig bleiben.
+
+26. Und wenn ihn gleich daͤuchte, er waͤre alleinauf Bahn, und die gantze Welt sprache: Du bist ein Narr, und unsinnig; soll erdoch seyn, als waͤre er in der Welt todt hoͤrete das vom Teufel sagen, der fein aͤrgster Ae ist; soll nirgends hinweichen, sondern dencken, daß er
+
+Vorsatz GOtt gefalle, und daß GOtt selber in ihm en1
+
+Bi satz ey: Daß Er ihn also wolle vom Teufel erretten, in fein Reich einführen. Amen.
+
+D
+
+E.
+
+a:
+
+[p. 101] [p. 102] 82 VI. Von sechs Theosophischen Puneten.
+
+23. Der Mensch muß albie im Streit wieder sich selbst
+
+seyn, will er ein himmlischer Buͤrger werden; Er muß nicht ein fauler Schläffer in Fressen und Sauffen seyn, und sei⸗ nen Bauch nur füllen, davon des Teufels Elementa anhe⸗ ——— ben zu qualificiren; sondern er muß maͤßig, nüchtern und wacker seyn, als ein Kriegsmann, der vor seinem Feinde stehet: denn Gottes Zorn streitet immer wieder ihn, er wird dessen Hr noch gnug zu thun haben, daß er sich verwehre. 24. Denn der Teufel ist fein Feind, fein eigen verderbtes Fleisch und Blut ist sein Feind; GOttes Zorn ist sein Feind in ihme, und die gantze Welt ist fein Feind: wo er nur hinsiehet, die ihn alle berauben wollen. da siehet er Feinde,
+
+1a
+
+25. Darum heissets Streiten, nicht mit Mund und Schwert, sondern mit Geist und Gemuͤthe; und nicht nach⸗ lassen, solte gleich Leib und Seele zerbrechen, so muß doch | Gott des Hertzens Trost bleiben, wie König David sagt: Wenn mir gleich Leibund Seel zerbricht,sobist du doch meit Hertzens Trost und Zuversicht: (Pl. Gott, und meines
+
+26.) und wenn gleich ein Mensch sahe, daß die gantze gottlos ware, so er gedencket ein Kind GOttes zu werden, er doch bestaͤndig bleiben. eee hte, 26. Und wenn ihn gleich daͤuc er wäre allein auf solcher Bahn, und die gantze Welt sprache: Du bist ein Narr, und unsinnig; soll er doch seyn, als ware er in der Welt todt, hoͤrete das vom Teufel sagen, der sein aͤrgster Feind ist; soll nirgends hinweichen, sondern dencken, daß er in sei Vorsatz GOtt gefalle, und daß GOtt selber in ihm fein Vor⸗ satz sey: Daß Er ihn also wolle vom Teufel erretten, und in sein Reich einfuͤhren. Amen.
+
+E N DE.
+
+[p. 103] See taatsBibl iothel
+
+MDZ
+
+Select Digitale Bibliothek
+
+Böhme, Jakob, 1575-1624 Theosophia Revelata. Das ist Alle Götliche Schriften des Gottseligen und Hocherleuchteten Deutschen Theosophi Jacob Böhmens Eine offene Porte aller Heimlichkeiten des Lebens, darinnen die Ursachen aller Wesen erkant werden Bd.:6 151] 1730. Asc. 612 c-4#Beibd.1 0386-7. um:nbn.de:bvb:12-bsb1026 VD18 80246540

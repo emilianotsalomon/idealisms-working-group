@@ -1,0 +1,7631 @@
+---
+title: Epistolae theosophicae, oder theosophische Send-Briefe
+author: Jakob Böhme
+id: 914669212969
+year: 1730
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Theosophia revelata (1730), Buch 21; converted in Seinsbyte's library; this file is the source, corrections go here
+translation: none
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: German mysticism
+public: true
+rights: The Epistolae theosophicae dates from 1618; Jakob Böhme (d. 1624) is long out of protection and the edition (1730) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-22 by _normalize_work/wg_export.py (library id 914669212969)
+---
+
+# J. Böhme, *Epistolae theosophicae* (1730)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. i] IISro 8
+
+Tbeos
+
+5 In
+
+Oe! von Gott in Mannes Gottes
+
+Dacob enthaltende lerha sse und zu wahrer Bu Besserung,
+
+Weisheit,
+
+4. Gescheieben
+
+Ged grossen Hels
+
+[p. 1] "ap 2SEINE A
+
+Nieje b =r
+
+BT enn
+
+605 He n
+
+[p. 2] Verzeichniß der Theosophischen Send ⸗Briefe, wie dieselbe an verschiedene Herren und
+
+Freunde abgelassen.
+
+### I. An Herrn Abraham von Frankenberg, auf
+
+Ludwigsdorf.
+
+Der 41. Brief, den 20. Febr. 1623 datirt.
+
+### II. An; Herrn. Abraham von Sommerfeld, auf
+
+Falckenheim und Wartha; erst zu Wartha, undarnach in:Breßlau wohnhaft.
+
+Der;ıo. Brief, Anno. 1620.
+
+|II. An einen von Adel inSchlefien. Der 38 Bri den ef10.Febr. 1623.
+
+IV, An Herrn Augustin Coͤppen, Fuͤrstenauischen
+
+Verwal ter Schoͤsn sern zur Lissa. Der 65: Brief, Anno 622. 66. „ im Julio 1622,
+
+#### v. An Herrn; Balthasar Nitschen, Tuchmachern
+
+zu Troppau. Der 24. Brief, den 28. April 1622. 36.
+
+„den
+
+/13, Decemb. 1622.
+
+### VI. An Hr. Dr. Balthasar Walter, Med. und
+
+Liebhabern der Goͤttlichen Geheimnisse. den7. Juni 1620. Der 7. Brief, J 2
+
+### VII. An
+
+[p. 3] vn.PR
+
+Cartvon Enden n Leutholtzhayn.
+
+1. Brief den 18 amar 168. u 2. „den 22. Octob. 169.
+
+5.
+
+1örg, | Freptag vormAdvent
+
+23.
+
+4. Maji 1620.
+
+6. = den
+
+37. 3
+
+44.
+
+1622. ar 5 vom
+
+1624. dent,10576 1622.
+
+atum)
+
+den 7. Mali 1023. 7
+
+105im
+
+Jahr
+
+L >
+
+1 et im selbigem Jahre. 1x. An Hen Cap Lindneen Zoͤllnern mm Beuthen Der 12. Brief, am Tage Maria Himmelfahrt 1621.
+
+#### N. An Herrn Christian Bernhard Zoll⸗Einneh⸗
+
+mern zum Sagan.
+
+Der 4.Brief den 14. Novemb. 1619, 9. „ 5den12.Septemb. BR den8.Junli16ar. 14. = im Junio 1621. den 29. Octob. 1627. 21. 25. den 21.Juni 1622. 26. = ohne datum 1618. 27.
+
+29.
+
+ohne datum.
+
+den 8. Juli 1621.
+
+32.
+
+den 12. Novemb. 1622. ohne datum, den 13. Octob. 1623.
+
+40. 51. 57. 67. 68. 60.
+
+den 27. Decemb. 1623. 4 April 1624. den 5. Maji 1624. : am 152M5artini 1620. im Majo 1621. den u. Maji1b22,
+
+70.
+
+& Sonntag nach Ostern 1623.
+
+48. ohne datum.
+
+71.
+
+aden 9. Juli 1622.
+
+7am mo Si
+
+[p. 4] ! P chest ae
+
+28.
+
+den6.Aae
+
+2 HN
+
+Ju
+
+& v. A. K .
+
+#### A. AnErv
+
+Der 17. Brief, den3.Julii 162.
+
+3.um XII. An Hrn. Friederich Rraufen, D. Med. GSGodldberge,alzu Lignz.
+
+Der 30. Brief den 17. Juli 1622. 39. „Anno 1523.
+
+40.
+
+den 10. Febr. 1623.
+
+60.
+
+den9. Maji 1624.
+
+| ag Hın.Bortfei:d §reudenhammern von
+
+Freudenheim, Med. Doct. und Pract.zu Gros⸗
+
+sen⸗Glogau.
+
+Der 20. Brief den 17. Octob. 1621. 42. = = den 27. Febr. 1623.
+
+den u. Nov. 2 2mit einer Tabel
+
+| xıv,An Herrn Hans von Schellendorff, einen vornehmen von Adel im Lignitzischen. Der 22 Brief, den 1. Januar. 1622.
+
+Xv. An Hrn. Jacob Johann Aufern, Ming di» meistern zu Glogau.
+
+Der 47. Brief, den u. Nov. 1523. an Hrn. Freuden hammer abgelassen, ward augleich ıwit an ihn gerichtet mit der Tabell.
+
+XVI. An Herrn Johann Butowisky. Der 35. Brief, den 13. Decemb. 1622.
+
+XVII. An Hrn. Johann Daniel von Roschowitz. Med Doct. und Pract. zuStriga. Ders. Brief, den3.Juli 1621
+
+19.
+
+eodem dato.
+
+### XII. An Hrn. doe
+
+nich, auf Schweinhaus.
+
+18. Brief, den3.Julii 1621. SZ. 2 ; den 6Avril 1624.
+
+X 2
+
+### XIX. An
+
+### [p. 5] II. Register und Ordnung
+
+ld Mo XIX. An Hrn. Martin Mart. 1624. Der 50. Brief, den 5.
+
+᷑ XX. nehmernzu Lignitz.
+
+Der 8. Brief, den 1 Il. =
+
+? XX n. Görlitz, istietzt f,
+
+### XXII. An
+
+litz von D f, ̃ So 62. + gs Pf 64. den 13. uni 1624.
+
+XXIII. An
+
+N. Der 55. Brief, den 20.
+
+3. „ „ den 24. Octob. 1619.
+
+3 dent. Novemb.
+
+1622.
+
+den 10. Decemb. 1622. Tage der EinreitungChristi 1623.
+
+ohne datum 1623.
+
+58.
+
+den 8. Maji 1624.
+
+ril 1624.
+
+59.
+
+im April 1624.
+
+Xv. An Hrn. Vale D. f, Ibme wird von a ber
+
+II.
+
+Ordnung der Theosop wie sie hier auf einander folgen.
+
+Epist. im Jahr x „ 1618. 18. J n. Epist. | [p. 6] der Theosoph. Sendbriese.
+
+im Jahr * 1619. 24. dito, an einen andern.
+
+„1g. Novemb an Hrn. Christian Bernhard.
+
+620. 4. Majiyan denselben.
+
+6 „Freyt vorm ag Advent, an Hrn. Carlv.Endern. 7. Junii, anD.Balth. Waltern. 14. Augusti, an Paul Kaym. s * . Septemb. an Christian Bernbart, 1 l * ohne datum. an Hrn Abrah. von Sommerfeld. e 5 3 19. Nodemb. an Paul Kaym. „ 1621, am . Mar —is Himmelfahrt an Hrn.Caspar indnern 5 8. Zuni an Christian Bernhard.
+
+* * an D.
+
+Johann Daniel von
+
+Koscho
+
+Indem dato, anD.Christian on Boten, eodi dar, an E. v. H. v. A. J. S. „ „ » eod·dat. an Hrn. Hans Sigm. v. Schweinich. eodl. dat.anD.Johann Daniel v. Koschowitz. . Octob. anD.Gottfried Freudenhammern. „ „ 209. dito,an Christian Bernhard. 1622. 1. Januar. an Hrn. Hans von Schellendorff. e „ „14. Febr. an Hrn. Carl von Endern. 28. April. an Balthasar Nitscyen.
+
+„„ 2. JuniianChristian Bernhard. 8RG „15618. ohne dat. an denselben. ohne dat. an denselben. „1622. 6. Jun . Christian Steinbergenal.Va⸗ entin „16 8. Julii Galen Bernhard. S „1622. 17. JuliianD. Friederich Krausen. = » 1. Nov. an N. N. „ » » 12. dito. an Christian Bernhard.
+
+ohne Jahr und Monats ⸗datum, an denselben.
+
+10. Decemb. an NN.
+
+„„.
+
+»
+
+dito, an Hrn. Johann Butowisky.
+
+cod. dato, an Balthasar Nitschen. ohne datum, an Hr. Carl von Endern. 1623. 19.Febr. an einen von Adel in Schlesien.
+
+ohne datum,an O, Friedrich Krausen. Evin
+
+[p. 7] SheefSend 1. Epist. im Jahr
+
+1623.10. Febr. andenselben.
+
+40.
+
+dito, an Hr. Abrabam von Fr ,B.Gottfried Freudenhamt ditoan NN. ani, Einreitung Ebrist Tage der
+
+41. 4% 45 ©.nt
+
+1623..2.Majian Hr. Carl von Endern.
+
+23. Da **Ad ohne dam 46. 2 ene PR W5 gebenee ern.
+
+ber n ebener „ acht
+
+NI
+
+27. Decemb. an denselben.
+
+= 1624. 5. Mart. eee 4 „4. April, an
+
+317. = „ 155
+
+52. 33. u
+
+54 „* oh. Siegmund von Sch dit en benen ben ai Lang vonbübec. 9
+
+5 Mat an Chriflian Bernhard.
+
+5 *Rn20.
+
+anN.N. 35. gu. Nn wi 25. dito, 57.
+
+59. 2
+
+60.
+
+018 dito, anN. N.
+
+„ im April an N. N.
+
+anD.Sade 9. Maj,
+
+1.8608 ditoan,D. Tobias Kobernden.nselben 61. „80 Himmelf. an
+
+Yhntag nach Ehristi N) 62. ag gsten, an dunsaben. nach Pfin 63. „Freyt selben. anden 1624.13.Juni GR so „im Julio, an denselben.
+
+Hrn.Anguffinie, m, 65. = 1622. ohne datuan 66.
+
+67.
+
+10 am f Marini, an Cpriffion 2Bernhard
+
+1621. im Majo, an denselben.
+
+,nen den selbe 69.1622.U.Maan n.
+
+9. Julii, an denselben.
+
+er.
+
+68.
+
+7⁹οοο
+
+71.
+
+15623. Sonntag nach Ostern, andenselben.
+
+73.
+
+1622: ohne datum. an 5 Carl von Endern.
+
+72. =
+
+*.
+
+a, an denselbenJ Juds Tage Simound
+
+74.
+
+„ item, andenselben.
+
+ARTE
+
+[p. 8] 1 LE LEO
+
+5 O
+
+ECG,
+
+Der l. Send, Bree
+
+Anno 1618. den 18. Jan.
+
+An Herrn Carl von Endern.
+
+Summarien. ung R1 Autor hat nicht gedacht bekant zu werden, mit sei⸗ risten; 2.3. Gott aber hat es anders gefuͤget,3.dann erofen axet sich in den Schwachen. ibid. Auch der Himmel Kräfte Backen:zu GHOttes Offendarung. s. Dem Menschen ist nur das des 2.Principii, 6.7. und ist er an deid und Licht benommen, nemlich derzussern Welt,8. und hat die monstrosische Gestalt
+
+Der rechte Mensch aber ist im Verderbten verborgen. 10. derselbe! ibid. So er neugeboren, ist er in Chr isto im Para⸗ u. wo aber das Licht nicht in der Seele erboren wird, ist sie nicht Nun liegt es nicht an der Creatur Wollen: sondern an
+
+Ottes Willen. 13. Wie des Menschen rein ihm ist; also wird in ihm offenbar;dann ( Ott ist ein Anzünder, kein Zerstörer. 14,
+
+Welt aber ist blind; und wird doch GOttes Vorsatz nicht hindern Tonnen. 15.16. Autoris Nachricht von einigen feiner Schriften. 17.
+
+Deer, Gestrenger, Wol⸗Ehrenvester Herr, neben
+
+Wünschung von dem heiligen, allen Dingen gegen⸗ waͤrtigen GOtt, der da ist die Fülle aller Dinge, und die Kraft allerWesen, eines gluͤckseligen, fried⸗ chen,1, freudenreichen Neuen Jahrs, und aller heilsamen Wol⸗ 2. Wiewol ich als ein einfaͤltiger Mann, mir die Zeit meiner niemaln fuͤrgenommen, mit so hohen Leuten, mit meiner Daben, so mir von GOtt aus seiner Liebe und Gnade gegeben,
+
+1onversiren, oder damit bey Ihnen bekant zu werden; Son⸗ nachdeme in mir das hohe Licht angezuͤndet wurde, und
+
+27feurige Trieb mich überfiel, war es allein mein Wille zu schreiben, was ich eigentlich sahe, und im Geiste erkante, und | meine een bey mir zubehalten.
+
+. Ich labe wol was künftig werden solte aber das ich mich oledten, als wuͤrden meine Schriften bekant werden, ist mir win in mein Gemuͤthe kene, denn ich mich auch 10
+
+[p. 9] Ep.1.
+
+viel zu einfältig achtete; vermeinete alleine das schoͤne Perlen Kraͤntzlein für mich aufzuschreiben und in mein Hertzzu drücken. 4. Weil ichs aber, als ein gar einfältiger Mensch, nicht vers standen habe, und nun mit Augen sehe, daß es GOtt viel anderst darmit meint, als ich je bedacht hatte; als lerne ich mich erst be⸗ dencken, daß vor GoOtt kein Ansehen der Person gilt, sondern wer Ihm anhanget, der ist Ihme lieb, und er treibt sein Wesen in ihme: denn Er istalleine hoch, und will sich in dem Schwa⸗ chen offenbaren/auf daß es erkant werde, wie da alleine sey das Reich und die Kraft seine, und es nicht liege an Forschung menschlicher Vernunft, oder an den Himmeln und ihrer
+
+Kraft.
+
+Denn dieselben Ihn doch nicht begreiffen; sondern daß es Ihme wolgefalle, sich zu offenbaren in dem Niedrigen, auf daß Er erkant werde in allen Dingen. 5. Denn auch der Himmel Kräfte arbeiten stets in Bildnis⸗ fen, Gewaͤchsen und Farben, zu offenbaren den heiligen GOtt, auf daß Er erkant werde in allen Dingen: Vielmehr hoͤher und heller kann die Offenbarung Gottes in einem 7 geschehen, dieweil derselbe nicht alleine ist ein Wesen aus der eschaffenen Welt, sondern feine Kraft, Materia und eigen We⸗ en, daß Er selber ist, stebet und inqualiret mit allen dreyen a. Principien Goͤttliches Wesens.
+
+6. Und ist dem Menschen in feinem Fall an der Goͤttlichen
+
+Creatur nichts benommen, als alleine das Goͤttliche bicht, dar⸗ innen er solte in vollkoͤmmlicher Liebe, Demuth, Sanftmm und Heiligkeit in GOtt leben, wallen und seyn, und also de Himmel⸗Brot von dem Wort und Goͤttlicher Kraft essen, in Vollkommenheit gleich den Engeln leben. 7. Solches Licht, welches in dem andern Principio in GOtt ewiglich scheinet, welches ist die einige Ursache der Freude, Lie⸗ be, Demuth, Sanftmuth und Barmhertzigkeit, ist dem Men⸗ schen in seinem Fall entwichen, und verborgen, indem der erste
+
+Mensch seine Imagination, Lust und Sehnung, als er in seiner
+
+Mutter der grossen Welt gebildet ward, in die Mutter der Na⸗ tur gesetzt, und begehrte der Speisen des ersten Principii, darinn der Urkund und die Geburt der Natur stehet, darinnen der
+
+Zorn⸗Quell stehet, und die alleraͤngstlichste Geburt, daraus worden sind alle begreifliche Dinge dieser Welt: so ists ihme auch worden, dieweil er auf derselben Wurgel Fund.
+
+8. Also ist er nach dem Leibe, sowol auch nach dem Geiste,
+
+[p. 10] ||
+
+Brr.
+
+Theosophische Send⸗Briefe.
+
+ein Kind dieser erschaffenen Welt worden, welche ihn nun re⸗ gieret, treibet und fuͤhret, auch speiset und traͤncket; und hat in sich empfangen die Zerbrechlichkeit und Peinlichkeit, und hat ei⸗ nen thierischen Leib bekommen, welcher wieder in seiner Mut ter verwesen muß: denn die monstrostsche Gestalt solte er nicht das Gestirn der grossen Welt solte uͤber ihn nicht herr⸗ en, sondern er hat fein Gestirn in ihme selbst, welches inqua⸗ liret mit dem heiligen Himmel des andern Principii Goͤttliches
+
+Wesens, das ist, mit dem Aufgang und Geburt der Göttlichen
+
+Natur.
+
+9. Nun aber ist der Mensch nicht also zerbrochen, daßer nichtmehr derselbe erste Mensch sey, den GOtt schuf. Alleine die monstrosische Gestalt hat er bekommen, welche zerbrechlich ist , und ihren Anfang alleine blos von dem aͤussersten und drit⸗ ten Principio hat, und hat die Pforten des ersten Principii, wel⸗ ches istderernstliche Quell, in ihme erweckt, welche sonst ohne das inder grossen geschaffenen Welt brennet, und in den Ver⸗ dammten gantz anzuͤndlich wird. 10. Der rechte Mensch aber den GOtt schuf, welcher al⸗ leine der rechte Mensch ist, der ist noch in diesem verderb⸗ ten Menschen verborgen; und so er sich selbst verleugnet in feiner thierischen Gestalt, und lebet nicht nach desselben Trieb und Willen, sondern ergibt sich GOtt mit Sinn und Ge⸗ dancken, so lebet derselbe Mensch in GOtt, und wircket Ottin ihme das Wollen und das Thun, denn es ist alles in GOtt: Der rechte heilige Mensch, so in dem monstrosi⸗ schen verborgen ist, ist sowel im Himmel als GOtt, und der Himmel ist in ihme, und das Hertze oder Licht GOttes in ihme geboren, das ist GOtt in ihme, und er in
+
+Gott; Gott ist ihm näher als der thierische Leib, denn der ehierifche Leib ist nicht fein Vaterland, da er daheim ist, son⸗ dern er ist damit ausser dem Paradeise. u. Der rechte Mensch aber, welcher in Christo neugeboren, ist nicht indieser Welt, sondern im Paradeis GOttes: Und ob ch im Leibe ist,so ist er doch in GOtt; Ob gleich der thie⸗ Leib stirbet,fogeschicht doch dem neuen Menschen nichts, er kommt erst recht aus dem Wiederwillen und Qual⸗
+
+Haufe in fein Vaterland; er darf keines weit Abscheidens da er vermeinte hin zu fahren da ihme besser waͤre, sondern GOtt wird inihme offenbar.
+
+Ya
+
+12. Die
+
+[p. 11] XXI. Epistolæ Theosophicæx.
+
+Ep.f.
+
+12. Die Seele des Menschen istaus GOttes erstem Prinei⸗ pio, aber in dem ist sie nicht ein heiliges Wesen: aber in dem andern Principio wird sie in GOtt offenbar, und ist eine Goͤtt⸗ liche Creatur, denn alda wird das Goͤttliche Licht erboren; dar⸗ um so das Licht in ihr nicht erboren wird, so ist G Ott nicht in ihr, sondern sie lebet in dem urkuͤndlichsten ernstlichen Quell; alda ist ein ewig Wieder wille in sich selbst: So aber das Licht erboren wird, so ist in der Creatur Freude, Liebe und Wonne, und ist der neue Mensch (welcher ist die Seele) in GOtt; wie da nicht Erkentniß seyn, wo GoOtt in der Crea⸗ tur ist? 13. Nun liegets nicht an der Creatur Wollen, Rennen und *3 Lauffen, die Tieffe der Gottheit zu erkennen, denn der Seelen ist unbewust das Goͤttliche Centrum, wie da geboren wird das Goͤttliche Wesen; Sondern es lieget an GOttes Willen, wie sich der will offenbaren: So sich aber GOtt in der Seelen of⸗ fenbaret, was hat die Seele darzu gethan? nichts; sie hat al⸗ lein die Sehnung zur Geburt, und siehet auf GOtt, indem sie lebet, mit welchem das Göttliche Licht in ihr scheinend wird, und das erste Ernste Principium, darinn der Beweglichkeit Ur⸗ kund ist, in triumphirende Freude verwandelt wird.
+
+14. Darum ists ein unbilliges, daß die Welt also wuͤtet, tobet, schandet und schmaͤhet, so sich die Gaben Gottes in dem Menschen ungleich erzeigen, und nicht alle einerley Er⸗ kentniß haben. Was kann ihme ein Mensch nehmen, so es nicht in ihme erboren wird, welches doch nicht in menschli⸗ cher Wahl stehet, wie ers begehret; sondern wie sein Him⸗ mel in ihme ist, also wird auch Gott in ihme offenbar: Denn Gott ist nicht ein GOtt der Zerstoͤrung in der Ge⸗ burt, sondern ein Erleuchter und Anzuͤnder, und hat eine iede Creatur ihr Centrum in sich, sie lebe gleich in GOttes
+
+Heiligkeit, oder in GOttes Zorn; Gott will aber in allen
+
+Creaturen offenbar seyn.
+
+15. So doch die Welt nicht so blind ware, würde sie GOttes wunderbarliches Wesen an allen Creaturen erkennen; so sie aber nun also wuͤtet und tobet, das thut sie alles wieder sich selbst, und wieder denH. Geist GOttes, vor welchem vichte sie dermaleinst werden erschrecken: sie werden doch nicht auf⸗ balten den Sohn, den die sehnliche Mutter in Ihrem Alter wird gebaͤren, denn das zeiget der Himmel an, GOtt *
+
+OounS ©nn
+
+[p. 12] Br. 2. Theosophische Send⸗Briefe. ihn erleuchten wieder alles Wuͤten und Toben des EI und wird feinen Glantz vom Aufgang zum Niedergang
+
+16. Nicht schreibe ich von mir, denn ich zeige nur an, daß ts vorhanden sey und kommen wird. Ich wolte ietzo dem Herrn gerne willfabren, und das
+
+Verheissene überfenden ,darinnen alles, was albier gerüget wird ,möchte erklaͤret werden, sowol auch, was der gute und wolbekante Herr Balth, VValther wegen des Menschen und feiner Seelen Urkund, Wesen, Leben und Trieb, auch end⸗ lichen Ausgang, begehret bat; allein es ist nicht gar verfer⸗
+
+?tige, Denn die Gaben, so mir einmal von GOtt sind gegeben worden, sind darum nicht gar erstorben, ob sie gleich eine Zeit sivom Teufel und der Welt verdecket worden; so erzeigen sie doch ietzomanchmal viel höher und wunderbarlicher: r fol dem Herrn, wills GOtt, in Kurtzem etwas davon zu
+
+Handen kommen, denn es istein hoher Anfang darzu gemachet worden, sonderlich von den 3 Principien Goͤttliches Wesens, und denn so fort von allen Dingen, so in meinem Buche (Auperheissen sind; allein daß ich fast mit zu vielen weltli⸗ rora) ästen beladen werde, sonst möchte es schon ein groß il verfertiget seyn: will mich aber darch Göttliche und
+
+Ubung besleissen; was Gott will, soll geschehen:
+
+hnliche ue den Herrn hiemit in den Schutz des Hoͤchsten empfeh⸗ in Eil geschrieben.
+
+d=
+
+J. B.
+
+Aufschrift. Edlen, Gestrengen, Ehren vesten Zerrn Carl von en und Serchau auf Leutholtz⸗ Hayn, Ertz⸗Hertzo⸗ Maximilianĩ zu Oesterreich Bestalten.
+
+Ven er zuhanden.
+
+#### c. Meinem
+
+Der II. Send⸗Brief. denselben Herrn Carl Endern.
+
+den 22. Octobr. Anno 1619.
+
+Summarien. Eingang. $. 1:3. Des edlen Perleins Tugend und rast. 4. Autoris Begierde zu schreiben ist nur die Liebe. 5. Es ist ihm Ernst,6. und feine Schelte haben ihre Gaben. 7. —f
+
+[p. 13] _XXI:Epiflole Theofophiex. Ep.2.
+
+feine such 8. Denk rfam achs muß Gott mehr uhm, 9. und kin Dictatorifder 0555 . Aue er den eufel zum Feind. 12. Aber die Ich n e bilie G Otte eunoch grü⸗ nen. iz.
+
+Dter, Gestrenger, Wol⸗Ehrenvester Herr; demselben sind meine demuͤthige, gefliffene und willige Dienste, neben Wuͤnschung von GOtt, seiner diebe und Gnade, einer neuen Creatur in dem neuen Menschen, in dem Leibe JE⸗ hsChristi, auch aller zeitlichen Wolfahrt des irdischen Leibes evor.
+
+2. Ich babe in Betrachtung genommen Euer Adelicheß
+
+Hertze und Gemuͤthe, welches nicht allein gegen G Ott, son⸗ dern auch gegen seinen Kindern in der Liebe entzuͤndet und ent⸗ brant ist, welches mich in Christo hoch erfreuet hat: und ist mir insonderbeit zu betrachten der rechte Ernst und Eifer, den E. Gestr. hat auf meine wenige Schrif⸗ welchen ich erkenne, ten des ersten Theils (Aurora) gewendet, und nicht auf des Treibers Morden gesehen; sondern darnach getrachtet selber zu lesen, und mit eigener Hand nachgeschrieben. 3. Da mir denn wol bedencklich ist, daß GOtt E. G. wird ein Pfoͤrtlein eröffnet haben, welches dem Treiber fefle zuge⸗
+
+schlossen stund; dieweil ers in der Kunst, in Hoffart suͤchte, wards ihm verhalten, denn er aͤrgerte sich an der Hand der Feder, und sabe nicht auf das,was geschrieben stehet: Meine
+
+Kraft ist in den Schwachen mächtig; 2. Cor. 12:9. und wie Christus feinem Vater dancket, daß Erd den Klugen, und Weis sen hatte verborgen, und den Unmuͤndigen offenbaret, und sagte ferner: Ja, Vater, es war also wolgefällig vor dir. Matth. It: 25. 26. Net 4. So ist mir wol bedencklich, und in meinem Geiste er kentlich, daß solches von E. G. aus keinem Vorwitze sey ge, schehen, sondern als den Kindern GOttes geziemet, welche die
+
+Edle Perle suchen, und derselben begierig sind: welche, so sie gefunden wird, das alleredelste Kleinod ist, welche der Mensch mehr liebet als fein irdisch beben, denn sie ist groͤsser als die Welt, und schoͤner als die Sonne; Sie erfreuet den Menschen in Trübsal, und gebieret ihn aus der Finsterniß zum Lichte; Sie gibt ihm einen gewissen Geist der Hoffnung in GOtt, und führet ibn auf rechter Strassen; Sie gehet mit ihme in Tod, und gebieret ihn zum Leben aus dem Tode: Sie NE: 15 Hoͤllen
+
+[p. 14] Br.2. Theosophische Send⸗Briefe⸗ len Angst, und istallenthalben fein Licht; Sie ist GOttes reundin in feiner Liebe, und gibt ihme Vernunft, den irdischen ib zu regieren: Sie leitet ihn vom falschen Wege; und der sie kriegt und halt sie, den croͤnet sie mit ihrem Kraͤntzlein. 5. Darum, Edler Herr, ich habe keine andere Ursache
+
+Euch zu schreiben, als nur aus Begierde der rechten Liebe ge⸗ gen den Kindern GOttes, daß ich mich eines möge mit ihnen ergetzen, esist mir um kein zeitlich Gut noch Gaben zu thun, 15[8 sich denn E. Gestr, gegen mir als einem Fremden gar eundlich in Liebe⸗Dienste erboten) sondern um die Hoffnung Andern und daß ich mich werde in jenem Leben mit GOttes Kindern hoch erfreuen, und mir meine Arbeit, so ich alhie in der Liebe gegen Ihnen mache, alsdann wird wol belohnet wer⸗ den, jo ich mich also mit meinen Brüdern werde erfreuen, und einem jeden feine Wercke werden nachfolgen.
+
+6. Darum ist mirs Ernst, sintemal mir auch ein Funcke von der edlen Perle gegeben worden, und Christus uns treu⸗ lich warnet, sie nicht unter die Banckzustecken, oder in die Er» de zu vergraben: Sollen uns auch darob nicht zu sehr fuͤrch⸗ ten vor den Menschen, die den Leib toͤdten und nichts mehr thun koͤnnen; sondern vor deme, der Leib und Seele verderben und in die Hoͤlle werfen mag. Matth. 10: 28. 2. Und ob ich bey meiner Zeit nicht werde grossen Danck von etlichen erlangen, welchen ihr Bauch lieber ist, als immelreich; So haben doch meine Schriften ihre Ga⸗ ben und stehen zu feiner Zeit, denn sie haben gar eine theure, he Geburt und Herkommen; und so ich mich in mei⸗ ernstlic ner geringen, niedrigen, ungelehrten und einfaͤltigen Per⸗
+
+son besinne, wol hoͤher verwundere, als eben mein Ge⸗ aß. 8. Weil ich aber in Kraft und Licht erkenne, daß es eine lautere Gabe von G Ott ist, welcher mir noch also einen trei⸗ benden Willen darzu gibt, daß ich schreiben muß, was ich sehe und erkenne; so soll ich GOtt mehr gehorsam seyn als den mirgenom⸗ Menschen, damit mein Bisthum nicht wieder von men und einem andern gegeben werde, welches mich wol solte ewig reuen. 9. Weil dann E. Gestr. eine Luff gewonnen dasselbe zu lesen, als ich denn gewiß hoffe, aus GOttes Schickung, so will ichs
+
+E Gestr. nicht verbergen, sintemal SR der Höchste .
+
+[p. 15] Ee
+
+XXI. Epistolæ Theofophice.
+
+Ep.2.
+
+hat zu dem ersten Werck beruffen, dasselbe zu publiciren durch feinen wunderlichen Nath; da ich dachte der Treiber hättees unbewust.
+
+, gantz so gruͤnete es als ein gruͤnes Zweigleinmir Und so ich doch nichts von mir weiß, was GOtt endlich thun wird, und mir sein Rath verborgen auch — Weg ,den er gehen will, kann auch von mir nichts sagen: moͤchte mirs doch der Treiber fuͤr eine unzeitige Hoffart 7 fen, daß ich also mit meiner wenigen Gabe, so ich doch & Gnaden hatte, stoltzieren wolte, und also meines Hertzen Ge dancken sehen lassen, mir zu einem Ruhm. 10. So sage ich doch vor GOtt, und bezeuge es vor feinem
+
+Gerichte,da alles erscheinen wird, und ein ieder von seinem Thun soll Rechenschaft geben, daß ich selber nicht weiß wie mir damit geschiehet, ohne daß ich den treibenden Willen habe, weiß auch nichts, was ich schreiben soll. Denn so ich schreibe, di⸗ ctiret mirs der Geist in grosser wunderlicher Erkentniß daß ich ofte nicht weiß, ob ich nach meinem Geiste in dieser Welt bin und mich des hoch erfreue. Da mir denn die stete und ge⸗ wisse Erkentniß wird mitgegeben; und iemehr ich suche, ie⸗ mehr finde ich, und immer tiefer, daß ich auch ofte meine füns dige Person zu wenig und unwuͤrdig achte, solche Geheimniß anzutasten, da mir denn der Geist mein Panier auf chlaͤgt, und saget: Siehe, du solst ewig darinnen leben und damit ge⸗ croͤnet werden, was entsetzest du dich? u. Darum, Edler Herr, füge ich Euch mit wenigen den Grund und Ursachen, auch des Willens und Suchens meiner Schriften: geliebet E. Gestr. nun etwas darinnen zu lesen. das stelle ich zu E. Gestr. Wolgefallen. Ich uͤbersende Euch mit, was in verschiener Zeit, als ich bey E. Geflr. war, 1 5 macht worden, als vom Anfange des aaten Capit els bis zum Ende De Tribus principiis) da denn wahrhaftig de: Edle Per⸗ len⸗Baum offen stehet; und mein Gemuͤthe zeiget mirs, daß es E. Gestr. wird wolgefallen, und wird auch ein Perlichen bierinn erlangen, so fern E. Gestr. ihr Gemuͤthe wird in GOtt setzen: Das andere, als etliche dreyßig Bogen, hat unser gu⸗ ter bewuster Freund, der wirds zustellen, es sind gar hohe tiefe Dinge in denselben, und wären wol werth, daß sie nicht umkaͤmen, es solls E. Gestr. auch bekommen,soes Euch gefal- lig wäre etwas zu lesen. 12. Und wiewol es ist, daß ich mich pflege etwas stille er
+
+[p. 16] Theosophische Send⸗Brieft. 5 3. Br. mitzuhalten, so ists doch offenbar, und istmir vor Ohren, wie esvon stoltzen Penten wird begehret, bey welchen der Feind ai als ein Verwuͤster mit zum Ende eilen, denn ich weiß, as ich fuͤr einen Feind, als den Teufel, gegen mir habe, zu ei⸗ nem Gegensatz: Darum bitte ich, weislich damit zu fahren, ich wills schon, so ich es bedarf, abfodern; und wird noch, wills G Ott, was mehrers und höheres gemacht werden, als über Mosen und die Propheten, und denn endlich über den gar tzen Baum des Lebens in dem Wesen aller Wesen, wie sich al⸗ les urkundet und endet, und zu waserley Wesen ein iedes in die⸗ fer
+
+Welt erscheinet und an Tag kommt.
+
+13. Da ich dann verhoffe, die schoͤne von GOtt verheissene
+
+Llie grünen soll im Perlen⸗Baum in feinem eigenen Geist, in den Kindern GOttes der Liebe in Christo. Denn wir befinden noch gar ein edel Perlichen grünend, mir ietzo nicht im Leibe aber im Gemuͤthe gruͤnend; thue E. Gestr. der hold⸗ nes empfehlen. iebgee seldi
+
+Der III. Send» Brief.
+
+* s
+
+Den 24. Octobr. Anno 161g.
+
+Summarien.
+
+gie. sich 8 den 45 75r 7 75 Ga: en, $.1.2. darinnihm eine tiefe Yorte offen stehet, 3. und man
+
+85"Hochlöblich Werck im Geiste erkant worden ist. 4. a
+
+Einen Gruß durch GOtt, mit Wuͤnschung des Lichts
+
+35 Goͤttlichen Freudenreich in unserem Emanuel, bbevorn. 2. Euer an mich gethanes Schreiben, samt meinen Schrif⸗ ten, habe ich Den Beer richtig empfangen, und alsobalde zu⸗ versiegelt Hrn. C.v. E. mit Hr. Fabian /welcher eben bey mir war, geschickt; wolte ihm dis, weil es schon versiegelt, und mit meinem Schreiben, welches innen lieget, versehen war, schi⸗ cken; Nun verstehe ich in meinem Gemuͤthe, weil sichs eben also zutraͤget, daß Ihr darnach geschicket, daß es also mag eine Schickung Gottes seyn: uͤbersende euchs hiermit, wollets erwegen, es ist gar ein edel Kleinod darinne, welches GOtt fint eurem Abschiede hat gegeben; und füge euch dis, daß gar eine liebliche Pforte ist eufaangen da wir, so GOtt will, Got
+
+[p. 17] XXI. Epistolæ Theosophicæ.
+
+Ep. 4 Kr als es denn hoch erscheinet, wollen eingehen, da ich doch von sagen kann, denn es ist nicht meines aͤusserlichen
+
+Men⸗
+
+schen: Aber als sich alle Gewaͤchse der Erden erfreuen, so die Sonne aufgebet, und sie anblicket mit ihrer Kraft; alsoa meine Seele in den schoͤnen Wunder⸗Blumen, indeme
+
+HErr also süsse und freundlich ist, verhoffe michdes wol zu er⸗ getzen, welches ihr in diesem letzten Theil dieses Buches ex2 vermercken, so euch G Ott die Porten in feinem . e eröffnet.
+
+3 85kann euch ietzt nicht schreiben, denn es ista verhoffe, GOtt will euch euer Here aufthun, daß ihr moͤget etwas davon schmecken.
+
+ich etwas hatte mit den bewusten
+
+855begehret auwissen ob
+
+Herren conversiret: so füge koͤn hab wiss ich euc denn ich habe in einem anderen Lande,da ich zwar mit meinem äusseren Menschen nicht daheim bin, viel zu thun gehabt und bin also auf dismal noch verhindert mit meiner Reise auf ge auf 7 Tage, alsdenn soll geschehen, was GOtt will, wi mir auf ietzo eine tiefe Porte offen stehet, werde derowegen thun, was GOtt will.
+
+4. Ich uͤbersende euch die Vollendung dieses Buches De Tribus Principiis) versiegelt: und so ihr Gelegenheit werdet, entweder Hrn. N. oder mir mit der Schrift zuschi⸗ — wei N. Hrn Bah scho war cken; der Bote kam, hielt ichs für gut also zugepackt zuschicken; und füge euch hoch und wol zu mercken, daß gar ein hochlöbli kimGeiste erkant worden, verhoffe GOtt wirds uns Werc goͤnnen, ihr moͤget ferner darnach forschen, in kurtzem soll es euch geschickt werden: Und thue Euch in der Goͤttlichen Freu⸗ feh emp run llb Que denreich des ewi
+
+Der IV. Send⸗Brief.
+
+An Christian Bernhard. Vom 14. Novembr. 1610, Summarien. Er Gerechteistein Gewächs in Gottes Lust⸗Garten, 8. v. 2. sur biebe; und der Gottlose zum Zorn. 3. Der Heiligen Seelen grünen im geben JEsu aus, 4. 5. und sind in Gott; 6. Got⸗ tes Bilde. 7.8. Der Teufel kann den innern Wachsthum nicht hin⸗ dern, 9. dann Christus selbst Mensch geworden. 10. Darum sollen
+
+[p. 18] |Br. 4. Theosophische Send» Briefe. the la fürchten, uu. und nur den Grimm nicht ins Gemüs
+
+Gott wird ewig unsere Speise seyn.14. Darum muß ung leiden.6. Wie Autor erwecket ist, so erwecket er andert und ‚sie auf. 179. Wie nun ein ieder in GOttentzündet:soredet Darum er auch nicht gleich wird verstanden werden,21. weil er. 20. nicht aus der Kunst schreibet;22, iedoch aber den Bruͤdern zu Nutz, welche sich nur nicht vor dem Creutz entsetzen sollen. 24.25. etlicher von ihm gebrauchten lateinischen Wörter ruhet in der
+
+N band Sorgenele klaget 755dc ee Sorgen der Nahrung: 3. achtet sich für den Einfaltigsten, | 32:underfreuetfich einen Frommen zu sprechen,33. obwol auch Spoͤt⸗ unterlaufen.33. Autoris Schriften soll man nicht gemein ande, 35. sondern die Perlein verwahren. 36.37. Seine Ahndung damaligen Fäufften.38.39. Die Straffe erfolget,40, und der teut⸗ Krieg 541, wiewol in dem Sehen der Zeit der syderische Mensch ir⸗
+
+Dit)
+
+Doch ist gewiß, daß Badels Untergang nahe. 43.44.
+
+und guter Muth. 45.1.
+
+Autoris
+
+1. Ottes Heil und Licht im Leben JEsu Christi ers leuchte Euch, und gebe Euch ferner zu erkennen sei⸗ nen Willen. 2. # Mein freundlicher, gar guter Herr und Freund; daß ihr Leben habt begeben zu einem Gewaͤchse GOttes, und also im Leibe JEsu Christi des Sohnes Gottes, welcher hat wiedergeboren zu einer lebendigen Creatur in sich sel⸗ et, ber, feinem Vater dargestell liebliches Gewaͤchs m Paradeisischen Lust⸗ Garten, zu feiner Freud und t; dessen erfreue ich mich neben Euch, und befin⸗ waͤchse ch, so ichmich recht entsinne, daß ihr nicht alleine ein Ge⸗ GOttes für euch selber alleine seyd, sondern als ein lieb⸗ iches Kraut und Blume feine Kraft nicht alleine in sich haͤlt, laͤst seine Kraft von sich ausgehen, allen lebendigen
+
+Essentien zu einem Schmack, und beut sich freywillig allen
+
+ECreaturen dar, wie es ihme auch darüber ergehen möchte ‚da
+
+seiner gar nicht schonet, sondern gebieret ohn Unterlaß seine Kraft und Ruch.
+
+3. Also befinde ich auch, sep der Seelen des Menschen, wel⸗ che ohn Unterlaß gruͤnet, und ihre Kraft von sich freywillig gibt. zu einem Geschmacke, deme, der dessen Sch mack begehret, Bas derselben Kraft faͤhig ist, es sey zu Liebe ober Zorn zum eben Gottes in Christo, oder zum Leben der Hoffart ins end⸗ liche Treiben des Elendes, welches im Ausgange erfolget de⸗ fodanicht sind in GOtt gewachsen. hen,
+
+[p. 19] XXI. Epistolæ Theosophicr.
+
+Ep
+
+4. Lob, Preiß und Ehre aber denen, so in Christo wiederge⸗ boren werden, welche ob sie gleich alhie ihr Leben verlieren, und vor den Stacheln des Dorn⸗Gewaͤchses erscheinen als ei alberes Kraut, welches mit Fuͤssen getreten wird; oder ein Kraut, welches abgehauen wird, da man nichts mehr sie⸗ het, und die Vernunft spreche, es istaus, aber feine Wurtzelin der Erden hat, und wieder hervor gruͤnet: Also auch die See⸗ le der Heiligen ist eingepfropft in das heilige eben JEsu Chri⸗ sti/2 in GOtt feinem Vater, und gruͤnet wieder durch den Tod.
+
+5. Dessen wir, (weilen wir solches erkant haben,) uns hoch erfreuen, und achten derowegen das Leben dieser Welt, (wel⸗ ches stehet in den Sternen und Elementen Quall )fidas rmes nigste, und freuen uns dessen, daß wir GOttes Kinder sind. 6. So wir dann wissen, daß Gott wahrhaftig in uns ist, und doch unserm irdischen Leben verborgen, so wissen wir, daß unsere Seele in G Ott ist und gruͤnet in GOtt, und der ad Regiment der Sternen und Elementen, nach dem Dual elt.
+
+7. Also sind wir GOttes Bilde und Gleichniß, welcher sel⸗ ber alles ist; sollen wir uns denn nicht freuen? Wer will uns von Gott scheiden, so die Seele in GOtt stehet, da kein Tod noch Zerbrechen ist. 8. Darum mein gar lieber, treuer Freund und Bruder in
+
+Christo, achte ichs mir für eine grosse Freude, daß ich also habe an Euch funden ein edel Gewaͤchse GOttes, von welchem n ne Seele auch hat gerochen, davon sie wieder starck ward, a
+
+sie der Treiber wolte reissen aus dem Lande der Lebendigen, da sie lag unter den Treibern, uud sie der Antichrist im Dornen⸗ Gewaͤchse wolte verschlingen. 9. Aber wie GOtt feinen Zweiglein, so in Ihme stehen, zu Huͤlfe kommt mit feiner Kraft, daß sie nicht verderben,obgleit der Teufel und der Tod eins drüber herrauschet; dennoch muͤs⸗
+
+sen sie wieder durch den Tod und Grimm des Zorns und Sta⸗ chel des Todes grünen : und solte Gott alle feine edelsten Kräuter feines Gewachses dran setzen, so muß fein Wille bestes hen; was in Ihme gesaͤet wird, muß in Ihme wachsen. 10. Welches uns erkentlich ist, indem Er fein Hertze, als fein edelstes Gewaͤchse in Ibme hat lassen einen Menschen wer⸗ den, uns zu einem starcken Geruche der Wiedergeburt in Ih⸗ me,
+
+[p. 20] C Br. 4. Theosophische Send⸗Briefe.
+
+me, aufdaßsowir im Tode stůnden, wieder mit und durch Ihn au s dem Tode gruͤneten in GOtt feinem Vater, und brachten des Paradeises. Früchte ‚WAL Beet solches wissen daß wir Gewaͤchse GOt⸗ tes sind, sollen wir uns vor nichts fürchten sondern ohne Un⸗ terlaß grünen im Leben GOttes, und Früchte bringen zu Shrek und Wundethat, welcher wir ewig werden ges
+
+12. und so wir dann auch wissen, wie unser edel Leben also
+
+Gefahr stehet zwischen Himmel und Hoͤllen⸗Reich, er Zeit des Lebens von beyden gefangen; so sollen wir Lore wandeln, 4 nicht unser Perl zerbrochen werde, sol⸗ len nicht den Ruch des Grimmes in uns lassen, daß er uns dadurch die edle Frucht im Gemächfe verhindert wurd. und GOtt uͤber uns klagen muß, Er sey wie ein Wein⸗ gaͤrtn/ derda nachliefer, und wolte doch auch gerne der edlen rauben geniessen. 13. So lasset uns munter seyn, zu wiederstreben dem Fuͤr⸗
+
+stendes Grimmes, aufdaß die edlen Trauben und GOttes üchte in uns wachsen, daran GOtt einen guten Schmack d Ruchhat, aufdaß wir Ihme ein lieblicher Ruch iin Christo aa Wir werden dessen wol geniessen: So wir der Eitelkeit des vebens 108 werden, so werden wir alsdenn leben und zen in GOtt, und essen vom reinen Leben GOttes ohne el: undEr wird unsere Speise seyn, und wir feine, daß es sey ein liebliches Gewaͤchseiin einander, wir in GOtt und ‚ein ewiger Quall des H. Lebens im Gewächse darinnen eitel Vollkommenheit in der Liebe stehet. um welches willen wir ietzo also arbeiten, und lassen uns elt narren und verachten, daß ,dieweil unser irdisch Les n im Tode gruͤnet, unser himmlisch Leben durch den Tod ausgruͤne, daß also daß irdische Leben als ein Spott vor dem him mlischen erscheine, welches nicht werth ist, daß es ein Le⸗
+
+— wird gegen dem himmlischen. leiden wir gedultia im irdischen Leben, und himmlischen, auf Hoffnung, daß wir der Eitelkeit los werden; da wollen wir uns wol ergegen: was wir alhier
+
+2 in Truͤbsal saen, wollen wir in grosser Freude 17. Darum
+
+[p. 21] Ep
+
+Darum mein gar guter lieber Bruder im Leben GOt⸗ tes, in welchem ihr stehet, solt ihr mir desto lieber seyn weil ihr mich habet aus dem Schlaffe erwecket, aufdaß ich hin möge Frucht bringen im Leben GOttes, und möge mich her:
+
+den Kindern GOttes derselben freen.
+
+18. Als fuͤge ich euch, daß mir ist gegeben worden ein gar
+
+starcker Geruch im Leben GOttes, nachdem ich bin wieder er⸗ wacht; verhoffe darinnen Frucht zu bringen, und auch zuer⸗ wecken die Schlaffenden, als mich mein GOtt hat wieder wecket aus dem Schlaffe darinnen ich lag.
+
+19: Und bitte Euch um des H. Lebens (GOttes) in
+
+Ehr willen, ihr wollet ferner nicht laß seyn, sondern euer Leben Christo ermuntern, auf daß unsere Geister möchten (gegen eins ander) ergriffen und verstanden werden, welches ausser der ed e Goͤttlichen Kraft nicht seyn kann. 20. Denn ein ieder redet aus seinen Essentien in den
+
+Wundern Gottes, wie fein Leben in GOtt entzuͤndet ist;und kann uns niemand zum Verstande bringen, als der einige Geist aus GOtt, welcher aller Voͤlcker Zungen am Pfingsttagein der Apostel Munde in Eins verwandelte, daß aller Voͤlcker
+
+Sprachen der Apostel Zungen verstunden, da sie doch nur aus Einer Zunge redeten, ihnen aber den Zuhoͤrern ihr Hertz und
+
+Geist eroͤffnet ward in GOtt; daß sie alle dieselbe Sprachen, ein iederinfeiner, verstunden, als redeten die Apostel mit seinen
+
+Zungen. 21. Also ists alleine in GOtt möglich daß ein Geist den andern verstehe und begreiffe: Denn ich fürchte wol, ich wer⸗ de an vielen Enden meiner Schriften schwer seyn aber ind Ott bin ich dem Leser gar leichte, so feine Seele nur in GOtt ges gründet ist/aus welcher Erkentniß ich alleine schreibe.
+
+22. Denn aus der historischen Kunst dieser Welt habe ich wenig /und schreibe nicht um derselben Hoffart ihrer Kunst willen, denn ich bin nicht von ihrer Kunst erboren, sondern aus dem Leben GOttes, aufdaß ich Frucht bringe im Paradeist⸗
+
+schen Rosen⸗Garten GOttes. 23. Und nicht allein für mich, sondern auch für meine Bruͤ⸗ der und Schwestern, aufdaß wir werden ein H. Leib in Christo, Gott unserm Vater, welcher uns geliebet, und in Christo ver ꝰ sehen hat, ehe der Welt Grund geleget ward. **
+
+24. Darum wie Christus seines Lebens nicht ee
+
+[p. 22] |u
+
+Bra.
+
+Theosophische Send⸗Briefe.
+
+auch seine rechte Junger, sondern frey das Reich GOttes vers Kundiger o ste gleich in dieser Welt Spott und Tod daruͤber erlitten, nur um des Himmlischen willen; Also sollenwir uns vor dem zeitlichen Spott und Tod nicht zu sehr entsetzen, um deshimmlischen Lebens willen, und also beten, daß uns GOtt wolle von allem Ubel erlösen, und uns geben Eintraͤchtigkeit in
+
+25. Daß ich euch aber in etlichen Puncten schwer verstaͤn⸗ meinenSchriften, istmir leid, und wuͤnschte, ich koͤn⸗ eine Seele mit euch theilen, daß ihr möchtet meinen Sinn en.
+
+256. Dann ich verstehe, es trift die tiefsten Puncten an, daran am meisten liegt, da ich mich etlicher Lateinischer Woͤrter gebrauche: Aber mein Sinn ruhet in Wahrheit nicht blos in derBe Zungen, sondern vielmehr in der Nas tur⸗Sprache.
+
+27. Denn mir ist auch etwas aufgeschlossen worden, die
+
+Geiler der Buchstaben zu gründen, von ihrem Urkunde, und wolte euch hertzlich gerne derselben Woͤrter, so ich gebrauche Habe,an welchen ihr ein Mißverstand habet, verstaͤndigen: ein Raum darzu gehoͤret, und ietzo in Eil nicht seyn mag, bin ich erboͤtig, solches euch gantz klar zu verstaͤndigen in gar kurtzer Frist.
+
+mitReisen und andern Geschaͤsten bin 28. Dem ich also en gewesen, daß ich euch nicht habe koͤnnen will fahren, ein Kleines zu warten. te noch habe noch wegen meines verstorbenen Bru⸗ Da ich ders hinterlassenen Töchterleins also viel zu thun, daß ich ochen muß zu Dorffe lauffen, auch habe ich muͤssen p schwere Reisen verbringen, mit welchen die Zeit ist hin⸗
+
+Wolte GOtt, ich koͤnte derselben Mühe mit dem Rei⸗ n seyn, ich verhoffete, es solte mancher armen
+
+Seelen in ihrem Hunger wol dienen; iedoch geschiehet, was GOtt will: Wie wol es ist, daß manch Gräfelein verdirbet ‚so nmel nicht Regen gibt, also verhindern auch die weltli⸗ das Reich GOttes. chen Geschaͤste keinen andern Rath, den ir⸗ 2 n dien ib mit Weib und Kind zu ernehren, will mich dero⸗ wegen befleifen, und das Himmlische vor alles setzen, so viel
+
+[p. 23] XXIEpistolæ Theofophicz,
+
+Ep.* J mir möglich ist: soll euch auch, so ihr Luft habet etwas mit mir in meinen einfaͤltigen Schriften zu lesen, treulich mitge⸗ theilet werden, wiewoles ist, daß ich auch gerne wolte von den Kindern GOttes lernen, und mich ihrer Schriften ergetzen. 32. Dann ich achte ‚ich sey der Einfaͤltigste unter ihnen, habe also nur ein wenig fuͤr mich zu einer Erinnerung und ste⸗ ter Ubung GOttes geschrieben: weil es euch aber ‚alfowolge⸗ faͤllet *lesen, berge ichs euch billig nicht. 33. Denn ich erkenne eure — Muͤhe daran, 0 ihr drauf wendet, und dancke meinem GoOtt, der mir doch einen Men⸗
+
+schen in dieser Welt zugeschicket bat,mit welchem ich von Ot⸗ tes Reich reden darf, dieweil sonst fast alles blind und tolle seyn will, daß ich auch nicht darf mein Maul aufthun.
+
+34. Ich hoͤre Spoͤtter, welche mit unterlauffen, nach wel⸗ chen ich wol wenig frage, denn ich weiß wes Geistes Kinder die j sind, und wuͤnschte ihnen mein Erkentniß; wenn sie es hätten, sie wuͤrden das Spotten lassen bleiben.
+
+35. Anlangende des N. N. Nachschreibens meiner künftigen
+
+Schriften, weiß ich mich nicht zum Besten mit ihme zu ver⸗ 5 wahren, dann er schweiget nicht; und hoͤre ofte von liede chen Leuten von meinen iegigen Schriften deuten, . erachte, von ihme auskommt, denn ich sie sonst keinem g fen. So er dann fast weltlich, und nur von der Schule dis Welt geboren ist, möchten wir schlecht verwahret seyn. \ 36. Man soll auch die Perlen erstmal, so doch dieselben N theuer sind, nicht auf den Wege streuen; sondern einer a Zeit erwarten, biß sie gemein werden, damit nicht der Treiber sie verschlucke.
+
+37. Es moͤchte ihnen wol gegeben werden nachiuschreiben, aber nicht erstmal, sondern nach dem es einmal abgeschrieben waͤre, damit es der Treiber nicht moͤge zerbrechen. 38. Anlangende euer Begehren wegen der Prager
+
+Sachen da ich eben am Einzuge des neuen Koͤnigs inne gewesen werdet ihr den Einzug zum Sagan wol erfahren haben, daß bin, geschehen ist. Er ist hinten zum Schlosse aufm Retschin vom
+
+Schlan hinein kommen, und mit grosser Zierde aller 3 Ss de angenommen worden, wie vormal auch bey allen Koͤnigen braͤuchlich gewesen.
+
+39. Ich erinnere euch, daß ihr wollet Acht haben, was der Prophet Ezechiel 38. und 39. Cap. hat geschrieben, ob 6 die
+
+[p. 24] RE
+
+Br.4. Theosophische Send Briefe.
+
+e wirdda seyn, auf die Berge Israel in sonderlich wegen des Siebenbuͤrgers, welcher wird Hülfe vom Tuͤrcken erlangen, und leichtlich biß an Rhein⸗ strom kommen.
+
+40. Da denn die grosse Niederlage der Kinder in Babel geschehen mag, da zwey grosse Ruthen von Gott erscheinen werden, eine durch Krieg, die ander durch Sterben, indem
+
+Babel soll zerbrochen werden, zeiget der Geist des HErrn in den Alten, so vor uns haben gedeutet. 4. Wiewol ichs achte, die Wahl mit einem rechten deut⸗
+
+schen KRayser noch muß ein wenig verzogen werden, und un⸗ Krieg und Streit, auch Zerbrechung vielet Städte, Schloͤsser und maͤchtiger Länder wird erfolgen; Go: ferne ietzo die rechte Zeit sey, davon der Geist deutet, welches verstehen. ber 42. n vor Gott istooo Jahr als Ein Tag, der Geist fiebet alles nahe; so vermeinet der spderische Mensch, es sey aber im Rath Gottes. Ohne daß wir gewiß erkennen, wie gar nahe die Jerbre⸗ chung der Stadt Babel, und scheinet vor uns, als sey die Zeit alsobalde vorhanden, da wir doch den Rath Gottes nicht koͤn· eiffen; sondern als ein Gasf, der einen Tag in eis ist nicht alles erlernen mag, also gehet es uns auch,
+
+44. Denn Gott hält ihm Tag und Stunde bevorn, und deutet aber die Wunder durch seinen Geist, welche kuͤnftig
+
+45. Sonst füge ich euch, daß Hr. N. hallHr.N. gedinget, ihme meine beyde Bücher abzuschreiben, und trachtet ietzo dar nach, daß er das rechte Original des ersten (Aurorens) möchte felberzuHanden bekommen, welches, wie ich vernehme, ges werde; kann am allerfuͤglichsten durch Hrn. Carl (von heraus gebracht werden. Endern) 46. Wiewol es ist, daß der neue Antichrist im Gewaͤchse des Alten letzo treflich triumphiret, und brennet als ein Feuer im Wacholdern, vermeinet es sey Freuden, da es doch im Leide ist, und Babel angebrant stehet, möchte Verhinderung vor⸗ fallen, aber G Ott der Hoͤchste thut was Er will. Face habe auch ietzo in der Eilnicht Zeit, daß ich euch meh⸗ ters schreiben kann denn es ist noch nichts weiters angefangen /
+
+Denn ich verhoffe alsobalde nahend aninfahen, wie * mein emů⸗
+
+[p. 25] XXI. Epistolæ Theosophicæx.
+
+üche im
+
+Ep, treibenden Willen immer zeiget, wills
+
+Len ee
+
+48. Und thue euch der Sanftmuth JEsu Christi treulich empfehlen.
+
+Der V. Send» Brief, Fee An Herrn Carl von Endern. Freytag vorm Advent 1619.
+
+Summarien.
+
+ald. nh Die Ertentniß a lee en ode nicht;
+
+3.
+
+darnach wir unsumzusehen haben dier nur Gäfefind.4. Autor muß um dieser Erkeutniß
+
+Spott leiden,5. dann die Vernunft ist blind. 5. Der Ernst erlangt die ungfrau. 7.8. Elogium des Buchs vom dreyfachen geben des Men Sa url 1 ok und ink 0 rechen.u. Prophezeyung von diesen en. ia. * rechten Vertrauen gefunden. 13, sq.
+
+Je diebe,im Hergen GOttes des Vaters, und das dicht feiner Kraft im Leben JEsu Christi, sey ckung, erleuchte uns und helfe uns zur neuen Wiede burt, aufdaß erscheine die rechte Bildniß zu GOttes Ehren Wunderthat; und lasse in uns wachsen das schoͤne Zw feiner Lilien, im Paradeis⸗Gaͤrtlein JEsu Christi. 2. Edler, Gestrenger, Ehrenvester, Hochbenamter Her demselben sind meine demuͤthige, gantz willige Dienste/n Wuͤnschung aller zeitlichen und ewigen Wolfahrt bevorn. habe von Zeigern eurem Gesinde einen Scheffel Korns pfa ngen, welchen mir E. G. geschicket, thue mich dessen zum kreunzlichsten bedancken, und bitte GOtt den Hoͤchsten, der
+
+An:
+
+wirds E. G. vielfältig erstatten.
+
+3. Dieweil E. G. so ein demüthiger Herr ist und nicht siehet auf das, worauf die Welt siehet, auch nicht achtet derKli der Hohen; sondern nach dem trachtet was der HErr vom
+
+Himmel bauet, wiewol es in dieser Welt naͤrrisch erscheinet, aber vor Ihme also wolgefaͤllt, feine Wercke in geringen, kin
+
+schen, albern Leuten zu treiben, aufdaß Er alleine sey hoch, u sich niemand ruͤhmen darf; So soll E. G. auch gewiß dersel
+
+Erkentniß gehoffen, welche Khöner ist denn aller Welt Pracht und Reichthum: Denn alles Feitliche verlast den Menschen, aber das Ehren /Rruͤntzlein Christi verläft auch den Men⸗
+
+Uu 6ẽ—ͤ
+
+schen
+
+[p. 26] Brs.
+
+Theosophische Send⸗Briefe.
+
+im Tode nicht, sondern bringet ihn zur himmlischen euden⸗Schaor in sein rechtes ewiges Vaterland. So wir denn wissen und gar hoch erkennen, daß wir in 2 Welt nur Gaͤste, und in einer fremden Herberge in gar Gefahr, in schwerer Gefaͤngniß gefangen liegen, und er des Todes fuͤrchten muͤssen, so thutE.G. gar wol, und delt weislicher denn die Klugen dieser Welt, daß sie sich um⸗ und trachten nach dem ewigen Vaterland, und nicht nach 3 7 und Pracht wie die Welt, und sonst insgemein die so ho⸗ hen Leute chun: Mir zweifelt nicht, es wird E. G. noch wol ein gar 58 Kraͤntzlein von der Jungfrauen der ewigen wor
+
+Gottes dafuͤr erlangen, welches, so es geschiehet, E. et 725 als alles zeitliche Gut, und diese gantze mitihremgantzen Wesen und Glantz, davon ich, foich def fen keinEee hatte, nicht schreiben wolte.
+
+„5. Dann ich doch sonst bey den Weisen dieser Welt, welche en alleine Erkentniß und Wissenschaft aus eigener Hoffart, f ore GOttes Geist, zumessen, fihlechten Danck, ja nur Spott 6La ich mich doch nur hoͤchlich erfreue, um des Na- mens und Erkentniß GOttes willen Schmach zu tragen: nn wire mein Erkentniß aus ihren Schulen geboren, so rde denfiedas Ihre lieben; weil sie aber aus einer andern so kennen sie das nicht; verachtens derowegen, wie beten / auch Christo und feinen Aposteln thaͤten:
+
+mich105nichtirren laffen ,sondern wie ich angefan⸗ an meinem GOtt und Schöpfer nur mit desto groͤsserm hangen, und mich deme ergeben, Er mache in mir was
+
+schreibe mir keine Klugheit zu, verlasse mich auch auf rsatz der Vernunft, dann ich sehe und befinde gar hell und klar,daß Gott gar viel eine andere Bahn gehet. 7. Darum so wir kindisch fahren, und nicht in unserer Ver⸗ Rune, sondern hangen Ihm nur mit Begierde und rechtem an, und setzen allunser Vertrauen in Ihn, soerlangen die Edle Jungfrau seiner Weisheit, als in unserm Zichten, dann die bringet mit, wenn Sie kommt, rech⸗ iöheitund himmlischen Verstand, und ohne dieselbe weiß 8.
+
+Dieweil aber E. Gestr. solche und dergleichen Schriften von demhoͤchstenWesen Lust haben 5 als es dann wie ich hoffe,
+
+[p. 27] Ep.5.
+
+hoffe, GOttes Schickung ist, will ich dasjenige was mir von dem hoͤchsten Gut vertrauet if, E. G. nicht bergen, sondernin Kurtzem etwas reichers und mehrers schicken.
+
+9. Dann es ist gar ein wunder⸗schoͤn Büchlein von des menschen Leben (De Triplici Vita Hominis) angefangen worden, welches, so der HErr will, und seine Hand ob mirhaͤlt, wird klar eröffnen was der Mensch sey, und was ihm zu thun sey/daß er erlange das hoͤchste Gut, dann es gehet gantz klar durch die 3 Principle, und zeiget allen Grund, daß ein Me er wolte dann selber blind seyn, kannGOtt und Himmelr
+
+sowol sich selbst, erkennen, auch unsern elenden Fall, sowold
+
+Miederbringung im Leben JEsu Christi; und wird sonderli handeln von der schoͤnen Lilien, welche GOtt der legten X gönnen will, welches sehr anmuthig zu lesen seyn wird. 10. Und ob ich noch wol nicht allen Grund, was es seyt wird, genugsam erkenne, so sehe ichs doch in einer grossen Tieffe, hoffe, GOtt verleihe nur Gnade, so will ich davon nicht lasen es sey dann vollendet, auch kuͤnftig die verheissene Schriften, welche wegen des Treibers aufgehalten worden, vollnziehe auch über Mosen, da dann die grossen Wunder GOttes w klar am Tage: Licht erscheinen. Welches G Ort der letzten goͤnnen will; wiewol es ist, daß ietzund fast alles in Babel und wird ein grosser Riß geschehen, aber dannoch soll niem verzagen, gleichwie GOtt dem Volck Israel in der Babploni⸗ schen Gefaͤngniß mit Trost zu Huͤlfe kam, und schickte na Propheten; Also auch ietzt werden Lilien mitten unter den Dor⸗ nen wachsen, und das istwunderlich. II. Auch darf niemand dencken, daß ietzt die Zeit der gantzen
+
+Zerbrechung der Stadt Babel ergehen werde, es wird wol ein sehr grosser Riß werden, welches man ietzt nicht glaubet. Dan der Antichrist ist noch nicht gantz offenbar, obgleich etwas: Man wird auch meinen, man habe ihn nun ausgerottet, und wird nach etlicher Truͤbsal grosse Freude erfolgen, und werden also Gesetze und Buͤndnisse, auch mit schweren und scharfen Ar⸗ tickeln der Religion machen, aber meistentheils zur Auffteigu ihrer Ehren und Macht; und man wird meinen, der H. Gei rede vom Himmel und sey nun eine guͤldene Welt, aber sie ff voll Zornes Gottes, und ist noch in Babel, und ist das wahre
+
+Wesen des rechten debens in Christp noch nicht drinnen: u.
+
+[p. 28] Br.s.
+
+Theosophische Send- Briefe.
+
+wird der Reiter auf dem fahlen Pferde hernach kommen, und seiner Sense viel abhauen.
+
+Aberunterdessen grůnet die Lilie im Wunder, wieder e der letzte Antichrist Verfolgung erraͤget, da dann sein Ende kommt; dann die Erscheinung des HErrn erstickt ihn.
+
+dann Babel im Eifer und Zorne GOttes verbrennet; und es ist wunderlich, davon ich keine Macht habe deutlicher zu reiben, doch werden meine Schriften zur selben Zeit wol die⸗ Dannes kommt eine Zeit vom Errn, die nicht aus m gestirnten Himmel ist.
+
+13. Wol deme der den HErrn mit gantzem Ernst suchet, dan in der Historia wird Er sich nicht finden lassen, sondern rechten Vertrauen und in der rechten Anneiglichkeit ins Res ben, und in die Lehre Christi, darinnen wird der H. Geist er cheinen mit Wundern und Kräften, welches Babel in ihren edichten ietzt nicht glaͤubet, aber doch gewiß kommt und schon er Bahn ist, aber der Welt verborgen. 4. Ich habe E. G. naͤhest mitH.Fabian das gantze Werck des andern Buches (De Tribus Principiis) zugeschickt, weiß nicht obs E. Gestr empfangen habe, dann ich sint der Zeit mit n. Fabian nicht geredet, wegen meiner verbrachten Reife :
+
+so wäre es bey ihme zu fodern Und thue E. G.der sanf⸗ nicht / mBiebe imkeben JEsu Christi des Sohnes GOttes empfehlen. Gegeben in Eil, Görlitz, Freytags vor Advents. r Name des HErrn ist eine feste Burg der Gerechte lauf
+
+1,und wird erhoͤhet.
+
+Summarien. tor bedancket sich wegen verehrten Korns, b. 1. ruͤhmet die diebe führet sie ins Gebet.2.Gutes erwecket Gutes. 3. Autor bes lobet 175 4. und erdietet sich zur Antwort auf etwa⸗
+
+Licht, Seil und ewige Kraft aus dem Brunnquell des Bertzens JE suChristi, sey unser Erquickung. Del, Gestrenger Ehrenvester, Hochbenamter Herr; ne⸗ g x benWuͤnschung Goͤttliches Heils, und darinnen aller heilsamen Wolfahrt kann 75nicht unterlassen E.Gestr
+
+[p. 29] BE
+
+XXI. Epiflöle Theofophiez,
+
+Ep, mit diesem Brieflein zu ersuchen: Demnach E. G.mildes Hertz mich mit einem Scheffel Korns verehret hat, welchen ich willig will auc empfangen, und thue mich deffen hoͤchlich bedancken, Gdtt den Schöpfer und Erhalter aller Dinge, in we Kraft alle Dinge sind, bitten, daß Er E. Gestr. vieh und reichen Segen dafuͤr gebe. 2. Und wiewol ichs nicht um E. G. verdienet habe, und auch gleich als ein Fremder gegen E. Gestr. bin, so erkenne ichE.G. mildes Hertz hierinnen gegen den Kindern GOttes: weil
+
+E. Gestr. so viel demuͤthig, und solches alles um GOttes und seines Reiches willen ist, und sich aus ihrer Hochheit dieser Welt mit ihrer Gunst und Liebe in die albere Demuth der Kin, der GOttes mitten einwirftsoerkenne ich solches für Fang | tes furcht und Begierde nach der Gemeinschaft der Kinder
+
+SOt⸗ tes, in welcher wir in Christo in G Ott alle Ein Leib sind, in len Gliedern und Geschaͤsten; als sollen wir uns dessen lein hoch erfreuen, sondern auch also zu GOtt beten, und Ihme in Einer Liebe ergeben, auf daß seine Kraft in uns vie⸗ werde, und fein Reich in uns erboren werde, und wir in Eit
+
+Erkentniß seines Wesens Haba werden. np 3. Und ist uns nicht alleine in H. Schrift, sondern auch im Licht der Natur hoch erkentlich, daß so ein Mensch dem andern was Gutes thutl(sonderlich so das aus angeneigtem Hertzen u gutem Willen geschiehet) sich dessen Hertz, Geist und Gemüth, deꝛ Gutes empfangen hathinwieder gegen feinem zu ihme ange⸗ neigtem Freunde mit Gunst und Liebe anneiget, und ihm alles Gutes wuͤnschet, und indem er fein eigen Anliegen vor GOtt traget, auch feines treuen Freundes in feinem Willen und Ges muͤth mit zugleich in feiner Liebe vor und in GOtt bringet, wel⸗ ches dann dem milden Hertzen in GOttes Kraft viel und rei⸗ eben Segen schaffet, nicht alleine zum irdischen Leben, sondern es wiꝛd ihme auch zugleich hiermit eine Bahn und Weg gemacht in GOttes Reich, daß so er zu GOtt sich wendet und feine Lehe und Gnade begebret, gleich auch seines Freundes Liebe, welche zuvorhin ihn schon hat in GOtt eingeworfen, auch mit ihme hilft dismal zu GOtt dringen, und mit der verderbten Sucht, in welcher uns der Teufel gefangen haͤlt mitder Turba ringen, und das Ziel oder den Behalter des Zorns zerbrechen welches ich meines Theils nicht allein schuldig, sondern gantz begierig undwillig zu thun bin.
+
+helfen;
+
+4. Die⸗
+
+[p. 30] | And
+
+Br.7. Theosophische Send⸗Briefe. 22 4. Dieweil mir dann auch GOtt aus seiner milden Gnade einetiefeund hohe Erkentniß feines Willens und Wesens ges
+
+‚so bin ich auch erboͤtig, neben meinem Gebete für E.
+
+gegen GOtt, auch mit derselben, was etwann moͤchte in Schriften davon gefasset werden, hinwieder gantz willig zu die⸗ nen, foferne E. Gestr. erkennen mag, daß solches von HOLE
+
+sey/alsmir dann anderst nicht bewust, und eine Luft dieselben zulesen haͤtte; so wolte ich E. Gestr. dieselben nicht bergen, uch muͤndliches Gespraͤchs mich nicht aͤusseren, auch so E. tr. etwann einen Miß verstand darinn fuͤnde, deffen gnug Bericht geben ‚oder etlicheDinge zu schwer seyn wolten, gerne ineinen leichtern Verstand bringen. 5. Auch so E. Gestr. geliebten etwas hoͤhers hierinnen zu verhoffe ich zu GOtt, es werde mir verliehen werden offenbaren, welches Willen ich alles heimstelle: und wolte i Be befleiffen und GOtt drum bitten, daß ich
+
+E.
+
+hinwieder koͤnte und möchte in Liebe⸗Diensten (so phoffe,
+
+Ermir nicht versagen wird, als dann mein Hertze sich
+
+E. Beftr. annehmlich waͤren) erscheinen; welches ich zu GOtt gantz darein ergeben, und nur dahin arbeitet, daß es moͤge ei⸗ treuen Arbeiter im Weinberge GOttes geben, und also in erkant werden, und wachsen eine Frucht in GOttes
+
+Wie dann ein ieder Baum dahin arbeitet, und seinen
+
+seinen Zweigen und Aesten gibt, daß er endlich an feiner ht, | Fruc foauf feinen Zweigen waͤchst, erkant wird, welches wir ale zuthun schuldig sind, und ich auch darzu fast begierig bin.
+
+And thue E. Gestr. der sanften diebe GOttes empfehlen. Da|tum Goͤrlitz, ut supra.
+
+Im;
+
+#### E. Gestr. dienstw. allezeit
+
+#### J. B)
+
+Der vil. Cend-Brie,
+
+Herr Dr. Balthasar Walter:
+
+7. Junii 1620.
+
+Summarien. or warnet, daß man feine Schriften nicht allen geben soll, s.r;
+
+den Weg werfen. 2. Das Aach wird aus der Zrübfalgrünen. z. Es sind diese Schristen nicht für ledem; der Autorhatlenteic)gehrichen,s. und sind sie Gotkes Werk e.
+
+lr die hu
+
+Kinder.7. Darum 3 tet erauch den Druck, weil
+
+[p. 31] XXI. Feige Theomtier .
+
+Mee eben ine A aa
+
+Bede n Christlicher und guter Meinung er nern, daß ihr doch meine Schriften nichtei indie Hände geben, dann sie sind nicht
+
+2. Auch muß man die Perle aufdenWeg nicht werfen, baß dieselbe mit Fuͤssen vertreten werde, dadurch der wuͤrdige Na⸗ me Gottes möchte gelastert werden: Dann ich erkenne wol, was der Satan im Sinn hat; aber mir ist gezeiget, fein Fuͤrnehmen Le zu scheitern gehen. 3. Wiewol eine schwere Finsterniß zu fürchten ist, inwel cher Zeit das Licht in der Menschen Herten erst recht grünen wird, wann sie in grosser Truͤbsal und Verlassenheit werden ee:1* —werden sie den HErrn suchen, und Er wird en lassen.
+
+4. Meine Schriften dienen nicht für den vollen Bauch, son⸗ dern fuͤr einen bungerigen Magen, sie gehoͤren den Kinderndern
+
+Geheimniß, zumal in denselben viel edele Perlen verfehloflen und3.95 offenbar liegen. 5. Ich habe dieselbe auch nicht geschrieben für den e oder für den Klugen, sondern für mich selbsten, und denigenan welchen GOtt dieselbe wird in Verstand geben.
+
+6. Dasselbe Gewaͤchs stehet in GOttes Macht, darum ers kenne ichs auch nicht für ein Werck meiner Vernunft, sondern für eine Offenbarung GOttes, und muß mir hierinnen gantz nichts zugeschrieben werden: Deswegen beböret auch nies mand nach meiner Person zu trachten, um ein Wunder daran zu sehen; Er wird nichts anders sehen als einen gar schlechten und einfältigen Mann, dann meine Wissenschaft stehet Gott verborgen. 7. Und ob ich viel weiß, und mir eine grosse Offenbarung ist gegeben, so weiß ich doch auch wol, daß ich all denjenigen, so nicht aus Gott geboren sind, stumm bin: Darum bitte ich mit meinen Schriften weislich zu handeln, auch meinen Na⸗ men zu verschweigen, bis daß endlich die finstere Nacht kommt, wie mir istgezeiget; Alsdann soll das Perlein gefunden wer⸗ den: Dann 0lang mein Geliebter satt iR,schlummert 4 [p. 32] und begehre auch, daß von wegen des Druckens nem Willen sich niemand bemuͤhe, dann dasselbige erst nachdem Ungewitter. let solches allein in die Hertzen der Weisen offenba⸗ sen, die ihr erkennet, daß sie GOtt lieb haben; anden andern t es ietzo noch kein nuͤtze, dann mancher suchet nichts anders 18 Boͤses und Hoffaͤrtigkeit darzu falsche Klugbeit, daß er g sehen lassen; Darum bitte ich weislich zu handeln; nimt solches wol mit Freuden an, aber er hat eine zel, er vermeinet fromm zu werden, aber er laͤsset sich el halten, und wird hernacher ein Spoͤtter solcher arungen: solches sage ich euch wolmeinend, nicht genem Wahn,
+
+sondern aus gegenwaͤrtiger wahren
+
+Es ist wol was sehr Hohes angefangen mit einem Buche (De triplici Vita Hominis,) doch mir ist gewaltig om Fuͤrsten Grimmes Wiederstand gethan, also ist dassel⸗ ge bis auf dato verhindert, verhoffe, daß es innerhalb kur⸗
+
+Zeit folle geschrieben werden, dann es ist ein Kraut, wel⸗
+
+Teufel schmecken wird, doch des HErrn Wille 22. Ex Ich bosse, daß ihr selbst werdet zu mir kommen, alsdann wir uns ergetzen: Die Gnade JEsu Christi sey unser und stete Erquickung! Datum ut supra.
+
+| *.
+
+—¾—⅛ʃU —ꝝę Y— aU
+
+Der IX. Send⸗Brief.
+
+An Hrn. Paul Kaym, Kayserl. Zoll Einnehmer zuLiegnitz.
+
+8x
+
+Vom 14. Augusti 1620.
+
+Note: Dieser g. Send- Brief ist der i. Cr. von den letz
+
+Nie 8. x.
+
+B 5 [p. 33] ei.
+
+XXI. Epiftole'Theofophicz, ' Ep.9. Dier IX. Send⸗Brief. 1
+
+An Christian Bernhard. vom 12. Septembr.
+
+1620.
+
+Summarien. ien tor bedancket sich der empfangenen Liebe, g. 1.
+
++ StandfestigkeitimStreit,2.und zum ernsten Kampf.
+
+3.
+
+im Creutz werden wir neugeboren. 4. Darum ist Bestaͤndig und Ernst nöthig. 5 7. Gottes Geist muß aus uns reden,8. ja alles in uns seyn. 9. Verlaͤugnen wir uns, 10. so wird Gott
+
+Geist unterthan; u. scharf Forschen thutesnicht, sondern
+
+Willen:
+
+Wol⸗Wollen und Wol⸗Thun. 12. Autor will feine Schriften willig communde und was darinnen schwer seyn moͤchte, erleutern. 13.14.
+
+Licht, Zeil und ewige Kraft, aus dem Brunn⸗
+
+Quell des Herzens JEsu Christi, sex unsere Erquickung. Hrenvester, Wolbenamter Herr, in Christo ge Bruder. Euer an mich gethanes Schreiben 5 dem darinnen liegenden Reichsthaler habe ich em gen; thue mich desselben bedancken, GOtt wird solches, ver⸗ moͤge seines Worts, reichlich wieder erstatten. Wiewol die Gaben Gottes um kein Geld und Gut zu kauffen sind, so be⸗ sind ich aber bey euch, vermoͤge eures Schreibens, einen ern⸗ sten Fleiß, indem ihr der Studien der Göttlichen Weisheit he⸗ gierig seyd, und das jenige, was mir GOtt aus Gnaden geg je Ü und er⸗ den, selbst emsig nachzuschreiben einen Eifer bezeuget, kenne, daß es aus Danckbarkeit und Gehorsam gegen Gott geschehen, derowegen ich es auch willigangenommen. 2. Und ermahne euch bruͤderlich in Christo, euren angefa genen Lauff zu behertzigen und nachzukommen, und als standhafter Ritter wieder die eigne aͤusserliche Vernun
+
+Fleisch und Blute, auch wieder den Teufel und gleißnerische boͤse Art mit starckem Vertrauen in GOtt im eiferigem Gei⸗
+
+ste und Gemuͤthe, und in einem stillen beben, zu streiten, damit ihr moͤget erlangen das edle Ritter⸗Kraͤntzlein, welches einem Gottesfuͤrchtigen jungen Gesellen sonderlich wol anstehet, und vor G Ott und feinen Engeln gar lieb ist, welches, so euch das einmal aufgesetzet wird, ihr wol inne werdet, was GOtt ist und vermag;
+
+werdet auch hernach nicht viel von anderen ker⸗ nen duͤrfen, so der rechte Lehrer in euch selber ist, der alle 1 5
+
+[p. 34] |Br. 9. Theosophische Send⸗Briefe. 27
+
+schen lebret, und sie bestaͤttiget zu GOttes Kindern, der aus dem Menschen lehret dann das Reich GOttes ist im Men⸗ fihen soder aber in Christo wieder erboren ist. 3. Wie ihr dann solches in meinen Schriften genugsam be⸗ findet, welche nicht aus Tand oder Meinung ent gen oder herkommen sind;sondern durch einen solchen wie sie selber anzeigen und lauten: Als von dem ritter⸗
+
+0 mr und was ich damit erlanget und uͤberkommen bab ich mir solches zu einem Memorial und Indenck aufs derer willen,die GOtt damit heimsuchen um h rieben /auc und auch mit diesem Krantzlein eroͤnen: wie mir dann
+
+solches zu erkennen gegeben worden, um welches willen ich nach den hohen Gaben im Licht SOttes geschrieben habe, und
+
+Die aussepe Vernunft als eine Naͤrrin, niedergefiblagen , auch
+
+| meines aussern Lebens und Ehren hiermit nicht geschonet. noch mich geschaͤmet, indeme mir viel Spott und Verfolgung n worden, ohne das, was mir noch mag zu handen
+
+||4
+
+Ich lasse mir aber genuͤgen; foich mein Kraͤntzlein mag von dieser Welt mit in mein recht Vaterland heimbringen, ich Ehre, auch Reichthums genug: die Schlange muß des Weibes Samen indiesem Leben immer in die Fersen 15 im Creutz und Truͤbsal müffen wir neu geboren wer⸗ dann wollen wir mit Christo leben, so muͤssen wir auch Ihm verfolget werden und mit Ihme sterben, und in Ihm werden, auch in Ihm aufstehen, und ewig in Ihm ‚feinem Bilde gantz ähnlich werden, und allein unter sei⸗ nem Purpur⸗Mantel zu Ihme kommen; Er muß uns nur ecken, sonst sind wir in des Teufels und Antichrists Netze, en mit der Babylonischen Hure gantz nackend, und be⸗ h 5dan 5.Wel Weil euc5 .n SGOtttall allbereiteuer HertHerz tz aufgaufethan, daß r t andern Augen sehet, so ist es hoch vonnoͤthen fortzufah⸗ ihi ren, und bestaͤndig zu bleiben: dann der euch crönen will, ist schon auf dem Wege, aber ihr muͤst die Anfechtung erdulden und bestehen, und der fleischlichen Vernunft nicht Raum ges ben, dann der Teufel setzet dem Senfkoͤrnlein, welches vom H. Geiste gesaet wird, heftig zu, er will es immer wieder ver⸗ mi⸗ 6. Esgehet mit einem neugebornen Kinde Christi wie Fr
+
+[p. 35] =.
+
+Ep.9.
+
+einem jungen Baume welcher leichtlich verdirbet; wanner aber waͤchset und starck wird, alsdann kann er bestehen: und ob ihm gleich manchmal ein Ast vom Sturmwinde abgewor⸗ fen wird, noch bestehet der Stamm, und bringet andere Aeste. 7. Es muß Ernst seyn mit dem Teufel zu streiten, und den Zorn GOttes zu uͤberwinden, die eigne Vernunft muß nur ertäuben und ertoͤdten undin GOtt ergeben, aufdaß im Verstande des Menschen lebe, daß er fein Wille und Thun fen, anderst ist kein Finden in Göttlicher Weisheit, der Geist
+
+Gottes muß sich nur im Menschen finden, daß das rechte Bildniß sein Werck und Wunder sey. 8. Dann alles was von Gott lehret oder redet, ohne GOt⸗ tes Geist, das ist nur Babel, es gleisse wie es wolle; GOttes
+
+— muß aus uns reden, soll unsere Rede vor GOtt tuͤch⸗ tig seyn.
+
+25 Dann er vertrit uns selbst vor GOtt, das ist, vor und in
+
+Ihm selber, Er fuͤhret unsern Willen ⸗Geist mit und in sich sel⸗ ber in GOtt, und vereiniget uns mit GOtt und in Ott, und bestaͤttiget uns zu feinen Kindern in Christo; Er ist es der uns findet, wir können ihn nicht finden.
+
+10. Aber fein Wille stehet gegen uns, Er hat in Christo bey · de Armen am Creutze ausgebreitet, uns zu empfangen, wir sollen uns Ihme nur einwerfen, und aus der Vernunft und
+
+Bosheit ausgehen; so wir das thun, sofallen wir in Chrisst
+
+Armen, alda suchet und findet Er uns in Ihm;
+
+alda werden
+
+Ben wir sein Eigenthum, und sein Wohnhaus. 11. Alda fähret er auf unserm Willen⸗Geiste, und ist unterthan: und alles was wir dann machen und thun, das i
+
+Ihm lieb, und alle dieselben Wercke folgen uns nach, und sind unser ewiger Ruhm / und werden uns angezogen als ein Kleid zu GOttes Ehren und Wunderthaten, um welches willen sich
+
+Gott zur Schöpfung des Menschen beweget hat, und um ra willen GOtt Mensch ward, daß er uns erloͤsete vom 12. Meil ihr dann meine Schriften in Haͤnden habet, so ges be ich euch zu verstehen, daß ihr dieselben nur wollet kindisch und einfaͤltig betrachten; so moͤget ihr dann das Perlein darin⸗ nen finden, dann scharf Suchen (alleine) thut es alhier nicht,
+
+sondern Wolwollen, und Wolthun, dann das Perlein lieget nicht im Buchstaben, sondern wie obgemeldt.
+
+[p. 36] Theosophische Send⸗Briefe.
+
+Br. 10.
+
+3. In diesem mitgesandten Buche ( De Triplici vita Hom.)
+
+von diesem Au⸗ welches auch aus dieser Schule erboren worden, tor/werdet ihr weitern Grund finden. So euch aber im Ver⸗
+
+stande etwas wolte zu schwer seyn, wolt ich, so ihr mir das auf⸗ eichnet, leichtern und erklären, wiewol ich verhoffe eines mit ab chermich hierinn zu besprechen, soes moͤchte Gelegenheit 14. Wegen der doch andern Büchlein, als das Neue Testa⸗ und dritten Theil Gnoti fe auton, wollet euch ein wenig an man bat sie ietzt nicht bey uns, bis nach der ment,
+
+‚fofollen sie euch geschi⸗ ichVertroͤstung Messe, habe cket werden.
+
+Und thue euch in die brüberliche Liebe in Christo
+
+Datum ut supra.
+
+aiaun c
+
+15eine festeBurgderm
+
+Dtäer X. Send⸗Brief. An Hrn. Abraham von Sommerfeld und NER Falckenheim aufWartha.
+
+Schristen
+
+1020,
+
+Summarien. findgar von einer einfältigen Hand, doch in Er⸗ kentniß der Gaben Gottes, . 1. 2. dabey mancher Sturm wies und den Teufel it gehalten worden. 3. Sein die Vernunst von der Aurora. 4.5. Nach der datob erregten Verfolgung, er im Schreiben stille 36. und ob wohl das Perlein unterm 7. so war dennoch der aussere Mensch blöde zu schrei⸗ innere aber kriegte gar einen theuren Führer, 9. mit dem erhalb
+
+I 2 drey viertel Jahr 3 Buͤcher geschrieben; als von den
+
+Principien, 10. vom dreyfachen Reben, tı, und die 40 Fragen, 12. er den Kindern gerne mittheilet. 1318. Und weil er dem Geist
+
+16. und der Vernunft keine Stätte gelassen, 17. hat erin bgeschrieden. 18.19. Schönheit des Perleins und feine 20.21. Es ist eine Jungfrau, 22. lieget aber im intern ver⸗ 323. wer es mit Ernst suchet, dem wird das Krantzlein aufgese⸗ tzet. 24. Und ob ib Autor mit seinen Schriften still gehalten,28. ist er in Schlesten und andern Ländern bekant worden. 26. 27.
+
+28. in der er undert sich auben selbst über Gottes Offenbarung, die Nakur⸗Sprache verstehen lernen. 29, In der Gelassenheit will er thun, was die Welt will; 30.31. in Wille ist in Gottes Willengestellet, obwol unter öfteren Versuchungen. 32 33. Er will sei⸗ nen Namen e ohnhaben.34. Sein Urtheil von der Aurora. 35. 36. BD Geiß wohnet nur im Innern.7. Warum die an
+
+### [p. 37] XXI. Epistolæ plone
+
+nicht vollendet worden ?38. Wer Gottes Gaben1 ni Serum sich leicht daran ärgern, 39,40, es ist aber über feinen 5 len publiefret worden. 41. Was noch 3 en 10 vom dreyfachen Leben und in den 40 Fragen erklaͤret, offene Porte der Geheimniß aller Wesen erscheinet. 42. 43.
+
+fodert verstaͤndige Leute feine Schriften abzuschrei 0 Autor mehr als Ein Buch geschrieben? 45. SeinW. Woraus die grosse Babel erwachsen. 47. 48. 3 855Aae ervon sich redet, wir und zuweilen auch ich schreibe? 49. Erl ber⸗ sendet die 40 Fragen. 50. 81.
+
+Licht, Seil und ewige Kraft aus dem Bruns
+
+BHertzens JiEsu Christi, sey unsere 5 Del, Gestrenger, Ehrenvester Herr, neben Wüt ischung Goͤttlcher Gnaden und aller heilsamen Wolfahet, 1 ich Euer Gestr. zur Antwort: Nachdem Gesir. Schreiber berichtet hat, was massen E. Geftret Wolgefallen an meinen noch bis hero unerkanten trage, daß mir solches in meinem Geiste noch viel ein groͤsser Wolgefallen und Freude ist, so ich vernehme, daß GOtt 3 so hohen Menschen fein Werck treibet und führer, es doch sonsten in der Welt nicht gemein erfunden Bar die zeitliche Ehre und Wollust dieses Lebens eine = erung ist. 2. Ich kann aber das gar wol verstehen, was massen ja Gottes Geist Euer Adeliches Hertze muͤsse ruͤhren, i also Kosten und Mühe aufdieses Werck (Auroram) gel bet, welches doch gar von einer einfaͤltigen Hand 1 ist, mit keiner Kunst oder grossem Verstande, sondern nur in Erkentniß der Gaben Gottes, auch von dem Autore nicht so vermeinet worden, daß es so hohen Leuten solle zu Hand kommen, dieweil er es nur fuͤr sich selber zu einem Me und zu einer Aufrichtung des finstern Schlaffs in Fleisch
+
+Blut geschrieben hatte; darzu mit keinemSürfage, einsocches Werck zu machen. . Es war wol ein feuriger Trieb alda, aber ohne Vorwissen dieses Werckes, welcher im Autor verborgen gelegen, als ein Mysterium, welches GOttes Geist geruͤhret, davon eine solche Lust und Begierde zu schreiben enestanden; und da doch keine Kunst noch Geschicklichkeit im Autor nach dem aͤusseren Men⸗ schen darzu war: er suchte alleine das Hertze GOttes sichdar⸗ ein zuverbergen vor dem Ungewitter des Teufels, unde
+
+[p. 38] Br.10. Theosophische Send» Briefe.
+
+tete die boͤseNatur und deren Einflüffe, und ofters des Teufe 8
+
+Trug und GOttes Zorn, und dann Gottes Liebe und Barm⸗ it;
+
+da dannjamancher Sturm wieder die Vernunft wieder Fleisch und Blut, und den Teufel ist gehalten wor⸗ uch alles imgewaltigen Trieb des Geistes, bis ihme istzur it gar ein edles Kraͤntzlein aufgesetzet worden, das diese ietzt nicht schreiben kann; wuͤnsche vielmehr, daß es dem Kefer dieses Briefes auch geschehe, so wuͤrde er erken⸗ nen, was Gottes Suͤßigkeit sey, und sich nicht so hart ver⸗ wundern, daß ein Laye darf solche Dinge ruͤhren.
+
+4. Also, sage ich/als es dahin gelangte, und das edle Senf⸗ korn gesaͤet ward /so kam dieses Werck vor zu schreiben /welches dann gleich gar tief als in einem daysterĩo gesehen ward, aber mit gar en Freuden, wol nicht genug begreiflich, als es dann das erste Buch ausweiset, da die grossen Geheimniß noch altig und nicht genug ausführlich, auch noch in vielen geschrieben worden sind, und nur als ein Regen vor⸗ über gehet; was der trift das trift er, also auch der Geist der Wunder: sintemal der Autor ein ungelehrter und wenigver⸗ indiger Mann war, dazu fast wiekindisch in den Geheimnis⸗ n den Erfahrnen und Gelehrten, welcher auch den Weg ch nicht verstund, wie es gehen solte, ohne was ihm der Geist da er ihm dann selber seine Verfolgung und Schmach, würde zu Handen stossen, mit aufgeschrieben hat; ehe die Vernunst noch etwas gewust.
+
+also klar, als stuͤnde es vor Augen, wie im Buche Morgenroͤthe, als im ersten Theil seiner Schrif⸗ ten, zusehen, welches alles vor der Verfolgung gemacht wor⸗ den, und mir ietztgleich einen Trost giebet, daß mir es der Geist zuoor hatgezeiget, daß ich erkenne, was fein Rath in seinem Wege ist, da ich mich dann auch gantz gedultig unter das Creutze gegeben, und meine Sachen GOtt befohlen, Ih⸗ me auch gar viel geflehet, daß Er solches (wo es nicht aus sei⸗ nem Rath herkomme )wolte von mir nehmen, und mich nichts Wege erkennen lassen. auf sol e mich auch nach der Verfolgung verwogen, nichts + RO. machen, sondern als ein Gehorsamer, Gott stille zu mezu en, und den Teufel lassen mit feinem Spotte also über mich wauschen, indeme dann so gar mancher Sturm gegen ihme und was ich gelitten, nicht wol sagen kann. 5 ergangen, 7. Aber
+
+[p. 39] XXI Epistolæ Theofophicz
+
+. Epi a
+
+7. Ab es ging mit mir, gleich als wann ein Korn indie Erde gesaͤet wird, fowaͤchst das hervor in allem Sturm und
+
+Ungewitter, wieder alle Vernunft, da im Winter alles wie todt ist, und die Vernunft spricht: Esist nun alles hin; nete das edle Senfkorn wieder hervor in allem Sturm unter
+
+Schmach und Spott, als eine Lilie, und kam wieder mit hun⸗ dertfaͤltiger Frucht, darzu mit fast tiefer und eigentlicher Er⸗ kentniß, und mitfeurigem Trieb. 8. Aber mein äusserer Mensch wolte nicht mehr aufs
+
+schreiben, sondern war etwas bloͤde, bis es auch dahin kam, daß der Innere den Aeusseren gefangen nahm, da dann das groͤste Mysterium erschien; da verstand ich GOttes und warf mich derowegen in GOttes Willen, wolte nichts dencken oder tichten aus der Vernunft; auch ließ ich der Vernunft keinen Raum mehr, und stellete meinen Wil⸗ len in GOttes Willen, also daß meine Vernunft solte seyn als todt, und Er, der Geist GOttes solte machen was Er wolte wolte in der Vernunft nichts seyn, aufdaß sein sey das und Thun. 9. Und als dis geschahe, so ward der innere Mensch wapnet, und kriegte gar einen theuren Führer, deme habe meine Vernunft gantz heimgestelt, auch nichts gesonnen, o der Vernunft zugelassen, was ich doch schreiben wolte, das, daß mir es der Geist gleich als in einer grossen Ti
+
+Mysterio auf einem Hauffen immer zeigete, aber ohne me genugsamen Begriff, dann die Creatur ist nicht als GOtt, fa nm is alles in fe
+
+10. Und also ist wieder fuͤrgenommen worden e fehreiben, und sind innerhalben drey viertel Jahr drey Buͤch gemachet worden, eins von den dreyen Principien Got ches Wesens, das ist,von dem Wesen aller Wesen, da daun das grosse Mysterium sich etwas hat eröffnet, und sind gar sei⸗ ne Sachen dar innen (gar weit hoͤher, als in diesem beg a0 cke chi ges hie tr. Ges E. ers uͤbersehen) etwan 100 Bogen.
+
+1. Und nach diesem ist eines, etwan von 60 Bogen gemacht worden, welches handelt vom dreyfachen Leben des Men⸗ feben, und von der gantzen Creation ‚eine grosse offene Pforte des Mysterii, und wol ein Wunder über alle Vernunft, dessen ich mich selber in meiner Vernunft verwundere, *
+
+[p. 40] Theosophische Send- Briefe. _ 32 will, daß Erso einen gar schlechten Werckzeug zu ichtigen Dingen brauchet: dann es ist darinnen er⸗ nen um welche die Welt, feit des schweren batsej ancket a , und immer gesuchet; aber es ist er Sean
+
+Licht kommen, welches doch nicht der
+
+sondern den Kindern GOttes, wie von eis Wirken, wurden mir 40 Fragen Ivan | irn It nem treflich A Verstaͤndigen auch Liebhaber des
+
+Myst undein grosser rwandter desselben, geschickt, vermahnet, ihme ja nach diesen Gaben und Geiste dar⸗ ward hersdie allerhoͤchsten Fragen von auf zu antworten, welczwa Urf and der
+
+Seelen und aller Heimlichkeit deöMyfteriä daruͤbeEr solche Antwort erboren worden 7 yon biefengrossen und tiefen Geheimnissen (Psychologk vera)
+
+sich y il
+
+Weltfolte erfreuen, wann des Sufels 3
+
+Seil ich dann vernehme, daß E. Gestr. Adeliches nd Gemuͤthe, einen sonderlichen Durst und Hunger n Geheimniß haben, und nicht auf die Welt sehen Geheimnisse verachten, so. erkenne ich hierinne und sollE.Gestr. billig mitgetheilet wer⸗ ann den Kindern soll man das Brot geben, die es d und die Perlen nicht vor die Saue werfen.
+
+ffFund Gemüthe mir wol zeiget, daß E. Gefir. nicht ur hach Vor witze also darnach trachtet, sondern aus Geistes Anraͤg auen da zum Cornelio fuͤhret, daß er ihm
+
+| orke des ewigen Lebens sage, begierig ist. 1.
+
+I»
+
+ob ich wol ein fremder Mann bin, dazu gantz ein⸗ er 85 mich E. Gestr. Begehren und Willen an E.Gestr. zuschreiben, wiewol mit einer einfältigen 11 Gottes Gaben sind nicht an Kunst gebunden, daß euer Adeliches Hertze also viel de⸗ und zu mir schicket der ich doch alber bin.
+
+Au, Dieweil aber deme also, so hat euer Adeliches Herz auch von GOttes Geist gewiß zu hoffen daß Er werde der Seelen Thuͤr und Thore der Geheimnisse aufthun, und einen rechten Verstand geben, * Wunder⸗Gaben zu1 greifen [p. 41] greifeund zu erkennen, welches ich euch dann von Hertzen noch duͤr zeiget, was er vor hat, und was geschehen soll, und geschehe ist, dann er gehet aus dem Ungrunde in Grund, und dur chet alles; er pruͤfet Hertzen und Nieren, und probir Menschen Gedancken.
+
+18. Auch zeiget Er hiemit an das endliche Gericht daß
+
+Er alle Wesen will durch das Feuer probiren; und habe g. nicht koͤnnen oder moͤgen schreiben, gleich auch im Trieb, ich setzte es dann nachdeme es der Geist entwut fe;
+
+esderowegen für mich zueinem Memorial gemacht und hal weiter keinen Fuͤrsatzdarmi tt.
+
+10. Weil aberE.Gestr. geliebet dasselbe zulesensoJolf es gefolget werden, mit Bitte, daß mir es E. Gestr. wolle wiede
+
+schicken, dann ich will es für ein Memorial behalten, und dessen gewiß, daß, so euer Adeliches Gemuͤthe will GOtt de Ehre geben, fleißig lesen,und diesen Weg ins Hertz fallen, den zu erkennen, daß euch GOtt wird di mit einer Begierde
+
+Thuͤre feiner Liebe im Mysterio aufthun und das schoͤne Kran lein feiner Weisheit aufsetzen, welches edler ist,als der geschaf⸗ fene Himmel und diese Welt. es lieget der edle Stein Lapis Philosopho 20. Dann der Grund aller Heimlichkeit darinnen, und ist dasselbe lein mit diesem Stein versetzt, welches die Seele anziehet
+
+Kran ein Kleid, als einen neuen Leib in GOttes Reich, darinnen
+
+Gottes Kind ist, mit welchem sie kann im
+
+Feuer GD
+
+Zorns unverletzt bestehen, und kann darinnen den Teufel, Tod und die Welt überwinden, auch kann sie darinnen über das Ge⸗ stirne und aͤusserliche Leben herrschen, welches sonst der Ver⸗ 3 Yo ist. nunft nicht moͤglich
+
+21. Dann es giehet Erkentniß eines Dinges, das Kut
+
+[p. 42] Brie. Theosophische Send, Briefe. 25 Kunst moͤglich zu erforschen: EssiehetdurchHimmel undeEr⸗ den, und nimt da es nichts gesaet bat, es 5 nicht, uhr? Es hat das Zeichen der Wahrheit und Ger es hat alle Tugend soin der Hoffnung liegen, 155 age des Zornes Gottes darinnen, sondern giebet gar eine — 85 gewissert die, und beftättiger die Sele es Kind
+
+Dieses G en ist eine Jungfrau und einegucke ud Hierach GOrteseine Freude desdebenses erfreut das
+
+Trüͤbsal, un gebet mit dem Menschen in Tod;
+
+uin sich es lebet von Ewigkeit, und i n8 m und eine Freüde der Engel: 1
+
+Bee oͤftischer und lieblicher als alle Freude der wer es einmal bekommet, der achtet es hoher als W enta gleich, als nur die Gotthelt. Stu
+
+Ab ieget ineinem finstern Thale verborgen die kenne En t,der Teufel rauschet darüber her, als ein er bedecket daz,daß es ofters die Vernunft nicht ken⸗ aber es grünet zu feiner Zeit wieder hervor / als eine schö⸗ ne klte, mit vielfältiger Frucht: es waͤchst in Truͤbsal, saet
+
+Shraͤnen und erntet mit grossen Freuden: es wird von rnunst veracht, aber der es kriegt, dates für seinen be⸗
+
+24 Ein solches Kraͤntzlein wird deme aufgefeßt, der esmit kate suchet, und sich ihme ergiebet und nicht feiner Vernunft u Fleisch und Blut, wie solches meine Schriften anmelden;
+
+denn was darinnen geschrieben if, hat der Autor selber erkant, Gift keine fremde Hand und Geist darinnen: Nicht schreibe H mireszum Ruhm, welcher in GOtt ist, sondern den Kin⸗ dern GOrtes zurRichtschnur, und daß sie wissen, was G Ot iebet, a die auf Ihn vertrauen, und der Welt
+
+25 ich ae auch gleich, wie E. Gestr. und andere mehr in Schlesien meine Schriften bekommen haben, dann hir der selben keiner bekant ist; und halte mich doch auch also lle damit, 125die Buͤrgerschaft alhier nichts davon weiß; ne daß sie das erste Theil (Auroram) (welches mir gewalt⸗ entzogen ward, und aus Mißgunst verfolget, von einer him Minifterio zu Babel) habe hören für ketzerisch aus⸗ ddoch nicht 9 e worden zu ana ist ihnen zun
+
+### [p. 43] XXI. Epistolæ
+
+ol bü nie erde begehret habe, auch noch nicht sondern
+
+‚ GO hi 26. Mun er ‚S hl stehe, daß es nicht allein s; rw oh Bänd muß eben sagen, daß der es hat verfolget, der hat es also publiciret bey mir alle
+
+11 N12
+
+27. Was aber G
+
+schrieben.
+
+ñ het ietzt im dichte und wird viel he wey Bücher werden gelesen we dem aͤusseren Menschen selb Hi ga 28. Sintemailchmi oͤ erkenne, und aber do
+
+E. Höchsten Geheimnisse geoͤffnet mu andern Liebha ta ich ja mitnichten sage der Vernunft Werck
+
+Di os darinnen Gott wi ne Vernunft gleich auch mit dan mei⸗ ver⸗ wundert, dann ich habe diese Lape, wu studiret, auch fast nichts br Di und soll nun solche Schulen ist zu mächti is Ku Kind bin, und we n. schlechts aus einer andern oͤ 20. Und das noch dit ac ⸗S Mu eröffnet worden, daß ich kann ol allergroͤsten Geheimnisse kann, ich habe fig ͤl die Hand GOttes uͤber mir Ar aber verbirget, so fr bin meiner Hände Werc sei oh GO möge, wie gar unmögl nen Ge nic ts 30. Darum ich mir dann au m, mein Werck, ich begehre au
+
+[p. 44] Br.10. Theosophische Send- Briefe.
+
+ich bin nur ein schlechter, einfaͤltiger Werckzeug: Gott thue mache was Er will; was Er will, das will ich auch; und was Er nicht will, das will ich auch nicht: will Er daß ich es soll wissen, so will ich es wissen; will Er aber nicht, so will ich nicht; ich will nichts und todt seyn aufdaß Er in mir lebe wircke was Er will 31. Ich habe michinIhn geworfen, aufdaß ichvor dem Teu⸗ sey: und ob ich der Welt muß den aͤusseren Leib und das Leben lassen, damit zuthun was sie will, und muß dem Teu⸗
+
+sel gestatten über mich hinzurauschen, so will ich doch meinen inneren Menschen weder der Welt noch dem Teufel vertrauen, auch nach dem inneren Menschen nicht thun, was die Welt will; und ob wol mein ausserer Mensch der Welt verpflichtet ist, und der soll auch in feiner Pflicht aller weltlichen Ordnung gehorsam seyn und thun, was die aͤussere Pflicht antrift , aber
+
+Ott gehorsam seyn und nicht mein innerer Mensch fol allein dann er ist nicht in der Welt sondern hat sich gleich als der Welt, cht, daß Gott in ihm lebe, sey fein Thun und auch todt
+
+32. Wie wol ich nicht sagen kann, daß es moͤglich sey also zu leben, so ist doch mein Wille also gerichtet, den fol mir weder Melt noch Teufel brechen: und solte mir mein aͤusser Leben ver⸗ achten, so will ich doch am Willen hangen; und ob ofters die Vernunft spricht lauter Nein, und die Versuchung
+
+‚auch mit Schrecken und Trauren des aufferen Les bens erscheinet, daß sich der Geist verbirget, als ware alles todt und weg, sobringet es doch allezeit neue Frucht, und dazu viel⸗
+
+33. Solches habe ich aus der Ursachen also nach der Laͤnge vermeldet, daß E. Gestr. moͤgen erkennen, und wissen was ich für ein Mann sey, und was der Anfang und Ursachen meines
+
+sey; auch aus welcher Kunst und Geiste essey er⸗ worden, und zu waserley Ende, als nemlich nur fuͤr mich v; weil ich aber sehe, daß fromme Hertzen einen Durst dar⸗ tragen, so soll ich ihnen Christlicher und Bruͤderlicher Art ßin nicht bergen, sondern GOtt befehlen, daEr ihnen wircke und thue was Er will, als wir dann solches zu thun schuldig sind. 34. Endlich bitte ich, meines Namens bey den Gelehrten zu dann,ich weiß wol, daßemalber Mann vor der u schweigen
+
+### [p. 45] XXI. Epistolæ Theoföpkiek
+
+Eplid,
+
+spoͤttlich gehalten und verachtet wird: und wiewol GOtt seine Kinder auch unter ihnen hat, so achte ich es doch nicht, daß es solte nach meinem Namen genant seyn, dann GOtt
+
+Ehre, der der Geber ist; Ich suche mir damit keinen gehoͤret noch Ruhm sondern Ehristus ist mein Ruhm und mein Lohn, und gedencke dessenin jenem Leben vor Menschen und En⸗ geln Ruhm zu baben, und mich in Christo mit den are | darinnen zu freuen, wie solches meine Schriften gen rs davstellen 35˙ Anlangende das Buch Morgen Roͤthe, somir E.G.
+
+hiemit geschicket zu uͤbersehen, babe ich ein wenig durchlauffen, und befinde, daß es mein Werck ist, und auch recht nachgeschrie ⸗ ben; allein daß etliche Silben ausgelassen worden um Kut willen, und aber doch dem Verstande nichts genommen den; und bin soviel ich des in Eil durchblattert und eintzel wor⸗ ich keinen Zusatz befunden, wol damit zufrieden. lesen/weil
+
+36. Aber die grossen Geheimniß stecken darinnen noch sehrt tief imdiysterio, sind vom Autore wol erkant worden, aber es war auf das erstemal nicht wol möglich der Vernunft zu fallen"
+
+obes gleich in der dieffe erkant ward/sowar doch der Autor die⸗ , | ses noch gar ungewohnet; so ihme die himmlische Freude ent⸗ gegnete, so ward schlecht dem Geist nachgegangen: Aber die wilde Art ist nicht alsobalde neugeboren; Es wird gesäͤet ein Kern daraus waͤchset ein Baum: so die Kraft groß ist, so waͤchst der Baum desto eher,und wird desto eher erkant.
+
+37. In den andern drey Büchern werdet ihr die Geheim⸗ nisse was heller haben, und alfe immer höher (ein iedes vom er⸗
+
+sten an istzehenmal hoͤher) gegruͤndet, und also das vierte ein fast heller Spiegel, da man das grosse Mysterium genug sicht⸗ lich erkent, alleine desselben Kinder; die Vernunft wird wol blind daran bleiben, dann GOttes Geist wohnet nicht im aͤusse⸗ ren Principio, sondern im innern, und gehet vom inneren aus insaͤussere; aber das aͤussere ergreift Ihn nicht. 8, Ich bescheide aber E. Gestr. daß das Buch Morgens '
+
+Roͤthe nicht ist vollendet worden, dann der Teufel gedachte
+
+Feper⸗Abend damit zu machen, well er sahe, daß der Tag wolte darinnen anbrechen; auch hat der Tag die Morgenroͤthe schon ubereilet , daR es fast lichte ist worden: Es gehoͤrten noch wol ein dreyßtg Bogen darzu; weil es aber der Sturm hat abge⸗ brochen, ssists nicht vollendet worden, und istunterdessen Tag wor⸗
+
+[p. 46] 8Br. lo. Theosophische Send⸗Brieft.
+
+n,daß die Morgenroͤthe ist verloschen; und ist seit der
+
+Tage gearbeitet!worden, soll auch also bleiben stehen zu
+
+Gedaͤchtniß: Weil der Mangel in den andern ist der Mangel an diesem, dem Sende
+
+SEE ich niemanden will darunter gases haben, den Falsch des Teufels, welcher ein 1 alles Guten ist, eb erwirret auch wol Könige; wie wildann ein alberer ensch in solcher Arbeit alsobald erkant werden, so man des ge⸗ viß ist daß ereinLaye istaer
+
+40. Es mag sich auchwol der Allerklügeste alsoaneiner sol⸗ von solchenWundern, in so. Einfalt argern, so er hoͤret blech
+
+Einfalt reden sodencket er es istaufgeraft Wesen, dann e Be nicht GOttes Gaben welman niemand kann 41. Will derowegen niemand turbiret haben, sondern erken⸗ ne daß es GOttes Schickung also sey, sonst mare dieses Buch hol noch im Winckel; also ist es uber meinen Bewust und Wil⸗
+
+1 pußliciret worden, und darzu von den Verfolgern sel⸗ ber, v ches ich füreine Gottes Schickung erkenne: dann die . te o es haben, habe ich nie erkant /darzu habe ich es selber und ist mir doch nun sckhon zum viertenmalgang nachge⸗
+
+scheiebzen zu Augensthein, und in die Haͤnde kommen, und sehe es andere Leute publiciren, welches ich für Wunder achte, daß das Korn wachst wieder des Feindes Willen: Aber was bo gesaet wird, kann niemand halten noch erwehren. Was aber E. Gestr. und andere beute mehr etwann im in Miß verstand ziehen, und ihnen unrecht et, darzu eine Erklärung gehoͤret, wird im dritten nam
+
+Vita) und im vierten Buche (Pfychologia Vera) ges äret: Da dann eine offene Pforte der Geheimniß aller erscheinet; und istnichts in der Natur, das nicht moͤch⸗ auf diesem Wege gegruͤndet werden dann es zeiget und oͤffnet den Stein der Weisen zu allen Geheimnissen, beydes im Goͤttli⸗ rgund irdischen daysterio :Es können alle Metallen der Er⸗
+
+Verstande in den hoͤchsten Grad gebracht wer⸗ nur von den Kindern der Magix GOttes, welchen es | wirbges etwerden.
+
+febe wol dasselbe, aber mir gebührer nicht dasselbe anzurühren, habeauch keine Kunst 17 e BR —
+
+[p. 47] XXI. Fpistalæ Theosophicæ. Ep. 10.
+
+der stelle nur ein offen NMycketium dar: Gott wird Ihm
+
+Arbeiter erwecken, bey mir suche niemand daz Cerck; und ob es etwas heller koͤnte geöffnet werden, und auc erkant worden, so habe ich doch meinen Willen helist ler chen, und will nichts schreiben als nur wie es mir gegeben wird* aufdaßes nicht mein Werck sey, und ich der Turba heimsiele. "44. Und so Ew. Gestr. etwas wolte lassen aus den alhiemits, geschickten Schriften abschreiben, fothu
+
+Schreiber noth.
+
+daß erein gelehrter, verstaͤndiger Mann sey, dann die Sylben sind nicht alle genug ausgestrichen, auch nicht nach der Gre matica: Es mögen auch wol in vielen Worten Buchstaben fe len, auch ofter ein gemein Buchstabe für einen Verfal
+
+seyn dann die Kunst hat hier nicht geschrieben; es hat ne Zeit gehabt zu vedencken nach dem rechten Verstande des
+
+Buchstabens ‚ sondern alles nach dem Geiste gerichtet, welcher ofters ist in Eil gegangen, daß dem Schreiber die Haͤnde wegen der Ungewohnheit gezittert.
+
+ä schreiben, so istdis die Ursache, daß das brennende Feuer osters
+
+AF zu geschwinde treibet, deme muß die Hand und Feder nachei⸗ len, dann es gehet als ein Platzregen, was es trift das triftes; waͤre es möglich alles zuergreiffen und zu schreiben, so w
+
+seyn; und darum werden mehr als Ein Buch gemacht, mehr es wol dreymal mehr und tiefer gegründet , aber es kann als eine Philosophie, und immer tiefer, also daß dasjenige, was in Einer nicht hat mögen ergriffen werden, in derandern ge⸗ funden werde. 46. Und waͤre gut, daß endlich aus allen nur Eines gema⸗ chet wuͤrde, und wuͤrden die andern alle weggethan, dann die — Vielheit macht Streit und Wiederwaͤrtigkeit wegen des zaͤhen Begriffs der Leser, welche nicht wissen den Geist zu unteyschei⸗ den, der also wunderliche Sprache fuͤhret, da die de ters meinet, es sey ihr wiederwertig, und ist doch in der Tieffenicht wiederwertig.
+
+47. Aus welchem Mißverstande die grosse Babel auf Erden ist geboren worden da man nur um Worte zancket, unblaffe den Geist des Verstandes im Mysterio liegen, welcher Ende und Zahl gefunden, und der Turbz heimgestellet worden ist;dann der Anfang hat das Ziel funden, und ist kein Auf halten mehr, 6 Nicht es mags auch keine Gewalt mehr daͤmpfen.
+
+[p. 48] Br.m 12. Theosophische Send⸗Briefe. ger
+
+48. Nicht rede ich von mir, sondern von deme was der Geist juget, deme niemand wiederstehen kann dann es stehet in feis
+
+‚und lieget nicht an unserm Wähnen oder Willen, e Buch dieser Schriften treflich hoch anzeiget, wel⸗ ig im Lichte wi— n we eesen gerwi kann Din gegründet ist, und an allen
+
+49 5.65bescheide he€. Beste. das albiein den mitge⸗
+
+‚fand det, reiben, — da sich der Autor, wann er von sich re⸗ als zweyfachzunennen, und dann auch ofters Ich, dem Wir der Seiverstanden wird, und indem einfa⸗ der Autor sichfelbst: zur Nachrichtung, eroͤffnet. swillen uͤbersende E. Gestr. hiermit das vierte Theil, als Fragen da kann sich E. Gestr.darinnen erfeben, E. Gestr. das ander und dritte Theil auch schi⸗
+
+1110E. Gestr. das wird begehren, und bitte mir dasselbige itwieder zuschicken dann ich soll es demjeni⸗
+
+Gele den. rsent uͤbe en gesthat,
+
+Der XI. Send⸗Brief. An Herrn Paul Kaym.
+
+ue E. Gestr. der Goͤttlichen Liebe empfehlen, ne⸗ be Win g, daß GOtt Euer Adeliches Hertze wolle er⸗ und des Autoris Sinn und Gemüthe recht im innern Principio lassen erkennen, auch alle zeitliche und ewige Wol⸗ a. Datum
+
+| end
+
+Anno 1620.
+
+10. November.
+
+8 1Vom
+
+Donnerstags, 8 Tage nach Martini.
+
+Bee:I. 1 ist der 2. Tr. von den letzten Zei:
+
+8. XII. Send⸗Brief.
+
+An Herrn Caspar Lindnern, Zoll⸗ Einnehmer zu Beuthen. oo Tage Maris Himmelfahrt. 1621. Summarien. „1, Autor ist hoch ersreuet über die Kinder Gottes, als nr Da e, 2.3. erkennet sich derselben Schuldner, 4. in igen Kinder⸗ *
+
+4 darinn er feine Ban
+
+### [p. 49] XXI. EpiflolxTheofopkiee,‘ bar |
+
+und wie wsurbldtehefenietenhteh . 3
+
+3 Welten gekommen 8. auch zu au schr woler ı2Jahr damit nen 10.
+
+Wann d n eher es ins Yeu
+
+selbst nicht gekant. m. W̃ —— bekant, 12.
+
+schrieben, w lchesnur Site hat.
+
+rora entnommen worden ? 3.Er hat aus feıneiw eigenen dacht,ba = nichger 16.1525 werden. 7. Ott wohnet in dem edlen Bildniß18 Schreiben it als eines Schuͤlers; 10. das Werck; ses
+
+Vernunft ist gut und boͤs; ihr Verstand istvom ae 22.
+
+tet andere von aussen: der Geist Gottes aberthut es! ua treit K.aus der aanOO er el ben erwachsen,24. dann wie eines 4 00 SaBe also ist seine Erkentniß. 25. 2 et inbeseellchen ee Geist, 26. undwirck der Vater
+
+Weisheit; 27,28. nicht zwar, d m * 29.
+
+Dann auch die Fed
+
+stellation reden. 30. Die falscheB ten. 3. Das Centrum ist 3 ani bewill pheten haben dean de ee richten, 34. dannd 4 Er— inn faliches
+
+Wir sind darin unter diger Aa Blimen.Pr =
+
+Br12177€Bee ensch
+
+Gbien, 7.Bun en ergeben, in €
+
+38.
+
+als ein
+
+Kind werde ehah 41. ahn in diesem engen.8 5 In Ehen eing In
+
+Perlein ibid. Autor weiset feinen eigenen Weg ohne ae En Cheift reitet mit niemand, 44. sondern ist dt g. —* Gott über feine Kinder oft durch Anstossen. 46. Verma n Man kann Funden dienen. 43.
+
+Judicium von ietzt lebten, wuͤrden sie vielleichtkl reiben. 33.
+
+VonSchwendz
+
+Stille. 47.
+
+abel. so. Von Hans Wera Stiefels Anhang. 39. Belles gethan; 52. wo sse rauch. 51. Ein ieder bareK ac cn eld. 54. 55. Die Englische WeltiftGe leiblich Wesen. 56. 0 n Seele ist aus unserer Eigenschaft; . und das 3. Prineipium ist auch ihm ereatuͤrlich. 58.
+
+Von
+
+Weigeln. 59. 60.
+
+Eine Biene suchet das
+
+Beste aus der Blume. 61, Wissen hil uns nicht, das Thun m 0 bey seyn, 62.
+
+und ein neuer Mensch in uns werden. 63.
+
+Autor fins diesen allen mit niemanden Zanck. 64. Wo des Alters Bücher zu den? 65. Verzeichniß einiger feinen Schriften, als der Aurora; 66. Von den 3 Principien Goͤttliches Wesens; 67. Vom dreyfachen Le⸗ ben; 68. Von 40 Fragen von der Seelen; dung Christi; 70, Die 6 Theosophischen
+
+Von der Menschwer⸗ on den4 Nuncte; 21.
+
+Complexionen; 72. De signatura rerum; 73. nebst etlichen kleinen Tractätlein, deren ien tiim Copey behalten, 74. er hat wegen feines
+
+Werckes oft reisen muͤssen. 75. Von Herr Balkbasar Walters Aufent⸗ ie erläutern 78 halt. 76.77. Autor will was 1 Dur sterer und Dadler aber nichts geschrieben haben; 79. dem D hingegen allegeit, so esG Ottverge zu trincken een,90.
+
+NG
+
+[p. 50] Pra Theosophishe Send⸗Brief. 43 offene Brunnquell im Hertzen JEsu Christiseyun: sere Erquickung, und fuͤhre uns in sich ein, auf daß wir in feiner Kraft leben, uns in Ihme erfreuen und in feiner Einigung uns in Ihme lieben ,erkennen, und in einen Willen treten. Sn 2. Ehrenvester, Wolweiser Herr, in der Liebe und Mensch⸗ beit JEsu Ehristi, geliebter Freund.
+
+Wuͤnf
+
+Neben hertzlicher von GOtt in unserm Emanuel, Leibes und der
+
+Seelen Wolfahrt, füge ich demselben zu wissen, daß ich sei⸗ neBriefe empfangen, und darinnen verstanden, wie der
+
+Herr nicht allein ein Sucher und Liebhaber des Goͤttlichen iifey, sondern auch allenthalben desgleichen Schriften
+
+3. Welches mich meines Theils hoch erfreuet, daß GOtt seine Kinder also zeucht und fuͤhret, wie dann geschrieben,
+
+stehet: Welche der Geist GOttes treiber, die sind GOtte Kinder; und wie sich ein Ast am Baum des andern freuet, und ihme seinen Saft und Kraft giebet: Also auch die Kin⸗ der GOttes in ihrem Baume JEsu Christo, welches meine einfältige Person hoch erfreuet, daß uns Gott in feinem, nell, als einfaltige Kinder zu sich, zu unserer rech⸗ ten Mutter Bruͤste ziehet, daß wir uns nach Ihme sehnen, als ein Kind nach seiner Mutter.
+
+81 Weil ich dann, mein geliebter Herr und Bruder in der
+
+Ehristi, verspuͤre, daß ihr einen Durst nach dem offenen Brünnlein Christi traget, und nach der Niessung eurer Brüder jet, und euch in ihnen, als ein Zweig im Baume, begehret zu igen; Als ist mir solches lieb, meinen Saft und Geist, in meiner mir von GOtt gegebenen Erkentniß meinen Bruͤdern und Gliedern, als meinen Mit Aesten im Baume JEsu Chri⸗ sti, mitzutheilen, und mich in ihnen zu ergetzen, als in ihrem Saft, Kraft und Geiste. Dann solches ist meiner Seelen eine angenehme Speise, so ich vernehme, wie meine Mit⸗Aeste und im Paradeis GOttes grünen. Glieder soll euch aber nicht bergen deseinfaltigen Kinder: Weges, den ich in Christo wandele. Dann ich kan von mir nicht anders schreiben, als von einem Kinde, das nichts weiß und verstehet, auch niemals gelernet hat, als nur dieses, wos der Herr in mir wissen will, nach dem Maß als Er
+
+sich in mir offenbaret.
+
+6. Dann
+
+[p. 51] XXI. Epistolæ Theosophicæ.
+
+Ep.12.
+
+6. Dann von dem Goͤttlichen Mysterio etwas zu wissen, habe ich niemals begehret, vielweniger verstanden, wie i s suchen oder finden moͤchte: wuste auch nichts davon, als den Lapen Art in ihrer Einfalt ist; Ich suchte allein das Hertze
+
+Ef Christi, mich darinnen zu verbergen vor dem is, en Zorn GOttes, und den Angriffen des Teufels, und bat Ott ernstlich um feinen H. Geist und Gnade, daßEr mich in Ihme wolte segnen und führen, und das von mir nehmen, was mich von Ihme wendete, und mich Ihme gaͤntzli zuch er⸗ geben, auf daß ich nicht meinem, sondern feinem Willen lebete, und Er mich allein führete, und ich fein Kind in feinem Sohne
+
+IEsu Christo seyn möchte.
+
+7. In solchem meinem gar ernstlichen Suchen und Begeh⸗ ren (darinnen ich heftige Unftöffe erlitten, mich aber ehe des Lebens verwegen, als davon ausgehen und ablassen wolte; ist mir die Pforte eroͤffnet worden, daß ich in einer Viertheil⸗ Stunden mehr gesehen und gewust habe, als wann ich waͤre viel Jahr auf hohen Schulen gewesen, dessen ich mich hoch verwunderte, wuste nicht wie mir geschahe, und darüber mein *. Hertz ins Lob GOttes wendete. 8. Dann ich sahe und erkante das Wesen aller Wesen, Grund und Ungrund: Item, die Geburt der H. Dreyfi keit, das Herkommen und den Urstand dieser Welt und aller Creaturen, durch die Goͤttliche Weisheit: Ich erkante, und
+
+sahe in mir selber alle drey Welte, als (1.) die Göttliche Engli⸗
+
+sche oder Paradeisische; Und dann (2.) die finstere Welt, als den Urstand der Natur zum Feuer; Und zum (3)diese aͤussere, sichtbare Welt, als ein Geschoͤpf und Ausgeburt, oder als ein ausgesprochen Wesen aus den beyden inneren geistlichen Wel⸗ ten. Ich sahe und erkante das gantze Wesen in Boͤsem und
+
+Guten, wie eines von dem andern urstaͤndete und wie die Mut ter der Gebaͤrerin wäre, daß ich mich nicht allein hoch verwun⸗ derte, sondern auch erfreuete.
+
+9. Und fiel mir zu hand also starck in mein Gemuͤthe, mir
+
+solches fuͤr ein Memorial aufzuschreiben: Wiewol ich es in meinem aͤussern Menschen gar schwer ergreiffen, und in die Feder bringen konte; ich muste gleich anfangen in dieser sehr grossen Geheimniß zu arbeiten, als ein Kind das zur Schule gebet. Im Inneren sahe ich es wol, als in einer grossen
+
+Tieffe, dann ich sahe hindurch als in ein Chaos, da al⸗ les
+
+[p. 52] | Br.12. Theosophische Send- Briefe. 45 les 7 lieget, aber feine Aus wickelung war mir un⸗
+
+10. Es eröffnete sich aber von Zeit zu Zeit in mir, als in ei⸗ gem Gewachse: wiewol ich 12 Jahr damit umging, und des⸗ sen inmir schwanger war, und einen heftigen Trieb in mir be⸗ ehe iches konte in das Aeussere bringen: bis es mich her⸗ hach überfiel als ein Platzregen ,was der trift, das trift er: Also ging es mir auch, was ich konte ergreiffen in das Aeussere das schrieb ich auf. zu bringen, . Wie wol mir die Sonne nachmals ziemliche Zeit geschie⸗ aber nicht immer beharrlich: Wann sich diese hat ver⸗ nen ha/t borgen, sohabe ich wol auch meine eigene Arbeit kaum verstan⸗ * und solches darum, auf daß der Mensch erkenne, daß das
+
+Wissen nicht fein, sondern Gottes sey, daß GOtt in der See len des Menschen wisse, was und wie Er will.
+
+Solche meine Schriften gedachte ich mein Lebenlang bey mirzubehalten, und keinem Menschen zu geben: Aber es sich nach Schickung des Hoͤchsten, daß ich einem Men⸗ etwas davon vertrauete, durch welchen es ohne mein
+
+Vorwissen offenbar wurde, darauf mir das iste Buch (Aurora)
+
+ward, und weil darinnen gar wunderliche Sachen „so dem menschlichen Gemüͤthe nicht bald begreiflich habe ich darum muͤssen von den Vernunft⸗Weisen viel
+
+‚eröffnet
+
+Sahe auch dasselbe iste Buch in drey Jahren nicht mehr, es wäre laͤngst todt und dahin: bis mir Abschrif⸗ neinete ten vongelehrten Leuten zugeschicket wurden, mich vermah⸗ ende, mein Talent zu offenbaren, welches die auffere Ver⸗ nirgends thun wolte, dieweil sie vorhin also viel hatte erleiden: so war die Vernunft sehr schwach und zag⸗ ig/dann mir auch zugleich das Gnaden⸗ Licht eine ziemliche entzogen ward, und glamm in mir als ein verborgen daß also nichts dann Angst in mir war, von aussen tt, von innen ein feuriger Trieb; und mocht es doch nicht
+
+"ergreifen, bis mir der Höchffe mit feinem Odem wieder zu fe kam, und ein neues Leben in mir erweckete: Alda er⸗ einen bessern Stylum zu schreiben, und auch eine ere und gruͤndlichere Erkentniß, konte alles besser in das bringen, wie es dann das Buch vom dreyfachen
+
+Leben durch die 3 Principia ausweiset, und der urn enn
+
+16%,
+
+[p. 53] 46 XXI. Epistolæ Theosbphier. Ep.12. werden, se⸗ Liebhaber,foihme fein Hertze mag aufgethan Wa rth hen wird.
+
+Also habe ich nun geschrieben / nicht von Menschen⸗Leh⸗ f ausen, sondern Buͤcher⸗L sender Miffenfehafe anis 80 eigenen Buche das in mir eröffnet ward: Als die edle
+
+Gleich⸗ meinem niß GOttes; das Buch der edlen Bildniß (zuverstehen Ebenbild Gottes) ward mir vergoͤnnet zu lesen und darinn habe ich mein Studiren gefunden ols ein Kind in seiner Mut⸗ ter Haufe, das da siehet was der Vater machet, und demselben in feinem Kinderspiel nachspielet; ich darfkein ander Buch ö dazu.
+
+5. Mein Buch hat nur 3Blätter, ee der Ewigkeit; darinnen kann ich alles finden, s und die Propheten,sowol Christus und die Aposteln geredetnen fin.
+
+Ich kann der Welt Grund thu HE den: Doch nich nach dem Maß, wi 156. Dann ichhabe Ihm viel100mal geflehet, so mein Wi
+
+sen nicht zu seinen Ehren und meinen Bruͤdern zur Besserung moͤchte dienen, Erwolte solches von mir nehmen, und mich ni fu Ab in feiner Liebe meinem Flehen nur habe das Feuer in mir heftiger entzuͤnd uͤ Schriften gemacht.
+
+EEE
+
+17. Ich habe aber damit nicht vermeinebety solchen deu⸗ immer, noch te ten, als ich ietzt sehe, bekantzuwerden, vermeine ich schriebe fuͤr mich: wiewol mir der Geist GOttes in der Verborgenheit inmeinem Geist solches genugsam zeigete was Ende es waͤre, noch war die auffere Vernunft immer Contrarium: als nur zu Zeiten, wann der Morgenstern a ging, da ward die Vernunft mit entzuͤndet, und tantzte mit, 0 Nes als hatte sie es ergriffen, aber es ist weit davon. 18. GOtt wohnet in dem edlen Bildniß, und nicht imSter⸗ nen⸗ und Elementen⸗Geiste; Er besitzet nichts, als nurfi
+
+selber in feines gleichen. Und ob Er wol Etwas besitzet, al Er dann alles besitzet, so ergreiffet ihn doch nichts, als nur das,
+
+so von Ihme entsprungen, und herkommen ist, als die Seelein der Gleichheit GOttes.
+
+ict
+
+19. Darum ist mein gantzes Schreiben als eines Schü⸗ lers, der zur Schulen gehet; Gott hat meine Seele — wunder⸗
+
+[p. 54] Br.12. Theosophische Send⸗Briefe. 47 wunder Schule gefuͤhr et, e und ich kann mir in Wahrheit umessen, daß meine Ichheit etwas ware oder ver⸗ ac nie
+
+DEAN ae!
+
+Es sol keiner höhervonmir halten, als er hier siehet:
+
+Dann das Werd in meiner Arbeit ist nicht mein, ich habe es 55nac demh Maß /als mir es vom Herren vergoͤnnet wird, bin nur sein Werckzeug, mit dem Er thut, was Er will.
+
+Solches melde ich euch, mein geliebter Herr, zur Nachricht, nicht iemand einen andern bey mir suche, der ich nicht bin, als einen von Kunst und hoher Vernunft; sondern ich lebe in Schwachheit und Kindheit, in der Einfalt Christi, in feinem mir gegebenen Kinderwercke, darinnen habe ich mein Spiel, und ist mein Zeit⸗Vertreiben/ darinnen habe ich meine Freude, als in einem Lust⸗Garten, da viel edle Blumen innen stehen; denen will ich mich dieweil ergegen, bis ich werde wie⸗ derum die Paradeis⸗Blumen im neuen Menschen erlangen. 21. Weiln aber, mein lieber Herr und Freund, ich sehe und vermercke, daß ihr auch auf diesem Wege seyd und suchet, so schrei ichbe euch meinen Kinder: Weg mit Fleisse. Dann ich verstehe daß ihr euch mancherley Schriften brauchet ,von wel⸗ en ihr ein Judicium von mir begehret, so euch als meinem
+
+Gliede, so viel mir GOtt zu erkennen gegeben, auch wie⸗ n soll, und solches nur kurtz und fummarifch.. In inem Buch vom dreyfachen Leben, findet ihr es weit⸗ lauftig nach allen Umstaͤnden. 22. Gebe euch demnach dieses zur Antwort, daß die eigene Vernunft, welche ohne GOttes Geist nur blos vom Buchsta⸗ aan ist, alles tadelt und verachtet, was nicht schnur⸗ echt nach dem Gesetze der hohen Schulen eintrift. Wundert mich aber gar nichts, dann sie istvon auffen, und GOttes Geist veon innen; sie istgut und bose, fiefähret dahin als ein Wind,
+
+And laͤsset sich waͤgen und treiben, sie achtet auf Menschen Ur⸗ heil ; und was das hohe Ansehen dieser Welt richtet, darnach richtet sie auch; sie erkennet nicht des HErrn Sinn, dann er ist nicht in ihr: Ihr Verstandistvom Gestirne, und ist nur ein Spiegel gegen der Goͤttlichen Weisheit.
+
+23. Wie mag der die Goͤttlichen Sachen richten, in dem nicht der Geist des HErrn ist?. Der Geist des HErrn pruͤfet richtet allein alle Dinge: Dann ihme allein ist alles be.
+
+And wust und offenbar, die Vernunft aber richtet von aussen ce richte:
+
+### [p. 55] XXI. Epistolæ Theosophicæ. Em
+
+richtet je eine Vernunft nach der andern: Der Kleine nach dem Grossen, der Laye nach dem Doctor, und ergreiffet keiner die Wahrheit und des HErrn Sinn, ohne der Geist GOttes, welcher im Menschen richtet, und niemands Person auflepers der Laye ist ihme, als der Doctor.
+
+24. Daß aber die Kinder GOttes so mancherley Gaben
+
+Sty⸗ haben zu schreiben, reden und richten, und nicht alleinen lum führen, daraus die eigene Vernunft hernach das eg aus, sauget, und eine Babel machet, daraus so vielerleyM ist entstanden, daß man hat aus ihren Schriften und Wege zu Got ertichtet, welche Wege man —solter und also ein solcher Zanck daher entstanden ist daß anietzo der Mensch nur blos auf den Streit siehet, welcher denandern
+
+Buchstaben⸗Wechseln uͤberwindet: Das ist 8 Mutter der geistlichen Hurerey ; da die Vernunft nichtzu
+
+Thuͤre Christi, durch Christi Geist in die Gelassenheit eindringet; sondern sie dringet aus sich selber, aus eigener Macht und Hoffart in einen andern Menschen, und will . das schoͤnste Kind im Haufe seyn, man soll sie *
+
+25. Die Kinder GOttes haben mancherley Gaben, m der Regel des Apostels: GDtt giebet einem ieden aus chen, wie viel Er will; Die Gaben der Menschen g aan 7 alle nach dem unerforschlichen Willen GOttes, und alle aus Einer Wurtzel, die ist die Mutter der 3 Prine wie eines ieden seelischer Geist in der ewigen Mutter cot ret wird, also ist auch feine Offenbarung und Erkentniß.
+
+26. Dann Gott fuͤhret keinen neuen oder fremden in uns sondern Er eröffnet mit feinem Geist unsern Gei das Verborgene der Weisheit GOttes, welche in iedem M schen lieget, nach dem Maß und auf die Art seiner 5 verborgenen Constellation. Dann Christus sprach:M Vater wircket, und ich wircke auch. Joh. 5: 17. So w nun der Vater in der Essentz der seelischen Eigenschaft /und
+
+Sohnin der Essentz des Ebenbildes GOttes, alsin der lichen Gleichheit. N: 4 27. Die seelische Eigenschaft ist des Vaters; Dann & N stus sprach: Vater, die Menschen waren dein, und du hast sie mir gegeben, und ich gebe ihnen das ewige Leben. Joh. 17; 6.
+
+So aber die seelische Eigenschaft aus dem Vater von e
+
+[p. 56] | Br.2. TheofophifdyeSend-Briefe.
+
+if,fohatEr auch von Ewigkeit in dergewircket, und wir⸗ det noch bis in Ewigkeit in demselben Bildniß, zum Licht und 77 wo sich der Wille der seelischen Eigenschaft
+
+28. So dann des Vaters Eigenschaft unmeßlich ist, und Er die Weisheit selber wircket und aber alle Dinge Au sel⸗ urstaͤnden fofind die Seelen mancherley constel⸗ liret, wol aus Einer G eng geurftändet ‚aber die Wirckung ist erley, alles nach GOttes Weisheit. So eröffnet nun deer Geist Christi einer seden Seelen ibre Eigenschaft, daß eine | — — 5 Eigenschaft redet von den Wundern in der Weis.
+
+29. Dann GOttes Geist machet nichts neues im Mens
+
+schen, sondern Er redet von den Mundern in der Weisheft les aus dem Menschen; und solches nicht allein aus der sondern aus der aͤussern Constellation. als durch den der aͤussern Welt. Er oͤffnet im Meuschen die innere e Constellation, daß er muß weissagen, was der aͤussere Himmel wircket. Item, er muß durch Turbam magnam re⸗ die Propheten oft geredet, und dem Volcke die Straffe tet haben, welche ihnen durch Turbam magnam , Ottes Verhaͤngniß, um ihrer Sünde willen wiederfah⸗
+
+So redet nun der Geist GOttes ofte etwann in einem die innere ewige Constellation der Seelen, als von ewi⸗ ger Straff oder Belohnung, und einanderer durch die (Auffere)
+
+Sonstellstion, von Glück und Unglück dieser Welt, vom Auf: aller Macht, und auch der Zerbrechung Land und
+
+Item, von wunderlicher Veränderung der Welt. 31. wiewol es ist, daß der Geist der aͤussern Welt auch el im Menschen vollbringet, und aus feiner eigenen im menschlichen Geist einflicht, und feine wunderli⸗ andeutet, so bey denen statt hat welche nur blos in ft, in hoffaͤrtigen eigenem Willen, lauffen, daraus beten entstehen: Darum sage ich nun, daß ein aus feiner Constellation, einerdurch die Offenbarung des Gottes wahrhaftig, der ander durch die Eröffnung es aussern Stern⸗Geistes ungewiß, redet, iedoch aus dersel⸗ Den Conitellauion :der aber aus eines andern Munde vom das istgi und richtet ohne 2 Erkentniß, redet
+
+[p. 57] XXI. Epistolæ Theofophicz; Ep. 12:
+
+bel und Wahn, ein Ding das das Hertze nicht erfaͤhret, obs r sey.
+
+15 Und sage ferner, daß alle die theuren von GOtterleuch⸗ teten Männer ‚deren Schriften ihr theils ihn Haͤnden moͤget haben, aus ihrer Eröffnung geredet haben, ein ieder nach sei⸗ em Begriff: Das Centrum aber ist die Seele, und das Liche
+
+1 die Offenbarung geschiehet durch Eröffnung des Geistes GOttes, durch die Constellation der Seelen. 33. Von Anfang der Welt her haben alle Propheten
+
+Christo geweissaget, einer so, der ander anderst. Sie haben nicht alle einerley Rede in einerley Forma ge ein ieder, wie ihm der Geist S Ottes in feiner seelischen ewigen
+
+Constellation eröffnet hat; aber aus Einem Centro haben sie alle geredet. Also geschiehet es noch heute: Die Kinder dOt⸗ tes reden alle aus Eröffnung des Geistes Christi, welcher ist Gottes, ein ieder nach seinem Begriff. Will euch d freundlich erinnert haben, euch nicht an das Vernunst⸗ schwaͤtze und stoltze Gerichte zu stossen /und derowegen jemands Gaben zu verachten: dann der solches thut, der verachtet den Geist GOttes. SEE 5
+
+34. Diese angedeutete Autores, über welche ihr ein Gut⸗ achten von mir begehret, habe ich nicht alle, iedoch zum then gelesen: ich begehre sie nicht zu richten, es sey ferne von mir od
+
+sie gleich nicht alle einen Stylum haben gehabt zu schreihen: Dann die Erkentniß istmancherley; so gehoͤret mir aber aus meinen Gaben ihre Hertzen und Willen zu pruͤfen: Wann 1 aber befinde, daß ihre Hertzen und der Geist aus Einem als aus Christi Geist entspriessen; so laffe ich mir am Centro genügen, und befehle das Aus sprechen der hoͤchsten Zu dem Geist der Weisheit GOttes, der durch die Weisheit er⸗ öffnet einem ieden, nach dem Maß als Er will.
+
+35. Ich richte niemand und ist das Verdammen ein fal⸗
+
+sches Geschwaͤtz; Der Geist GOttes richtet selber alle Dinge. istderselbe in uns, was fragen wir dann lange nach dem G. schwaͤtze? ich erfreue mich aber vielmehr der Gaben meiner Bruder: Ist es aber daß sie eine andere Gabe aus zusprechen gehabt haben als ich, soll ich sie darum richten? zz 36. Spricht auch ein Kraut, Blume, Baum zum andern;
+
+du bist sauer und dunckel, ich mag nicht neben dir stehen? 5 ben sie nicht alle Eine Mutter, daraus sie wachsen? also aa
+
+[p. 58] Br. 12.
+
+Theosophische Send» Briefe. - sı alle Seelen aus Einer, alle Menschen aus Einem. Warum rühmen wir uns Kinder GOttes, so wir doch unverstaͤndiger sind als die Blumen und das Kraut auf dem Felde? Ists nicht auch alfomit ung, daß GOtt feineWeisheit in uns offenbarer? er die Tinetur der Verborgenheit in der Erden, durch die Erde mit schoͤnen Gewachsen offenbaret; also auch in uns : wir solten uns vielmehr darüber erfreuen und uns daß GOtt feine Weisheit in uns so vielfältig
+
+Der aber richtet und verdammet auf dem gott⸗ 10 Wege,welcher nur in Hoffart lauft, sich febenzu laffen, der ist der Treiber zu Babel, und ein drehend Rad, das nur
+
+«Bande aufblaͤset.
+
+37, Die rechte Proba der Kinder GOttes ist diese, da man
+
+sicher nachfolgen: (m Ein demuͤthiges Hertz, das sich selber suchet noch ehret, sondern suchet immerdar feinen in der Liebe, das nicht eigen Nutz und Ehre suchet, son⸗ chtigkeit und Gottesfurcht. Der rechte und schlech⸗ zu GOtt zu kommen ist dieser, so viel mir dessen er» ist: Remlich, daß der Mensch ans feinen begangenen
+
+"Sünden ausgehe, und ihme einen ernsten Vorsatz mache, nim⸗
+
+Br darein einzugehen, und in feinem Ausgehen
+
+12 Und ob freplich die Vernunft zweifelt, davor der Suͤn⸗ und sich vor GOttesZorn entfeßet, daß sich der nur schlecht und recht in die Barmhertzigkeit GAttes,in Leiden und Todeinsencket, und sich durch Christum in ergiebet, als ein Kind in feiner Mutter Schooß, das sel⸗ ‚Sernichts will, als nur was die Mutter will; Es jammert nur die Mutter an, und hoffet immer das Beste von der Mut» teres sehnet sich nur allein nach der Mutter Bruͤsten: Also muß unsere Begierde nur allein schlechtin unsere erste Mutter wieder eingerichtet werden von welcher wir mit Adam sind auegegangeninein Eigenes.
+
+39. Dannenher saget Christus; Wo ihr nicht umkehret, und werdet wie die Kinder, sonst solt ihr das Reich GOttes feben. Matth. 18:3. Item: Ihr muͤsset neugeboren wer⸗ den, Job. 3. 2.das ist, wirmuͤssen aus aller Vernunft wieder in die enbeitin unserer Mutter Schooß eingehen, und Falles Disputiren fahren lassen, auch unsere Vernunft gantz wie tobt machen, aufdaß der Mutter a eine Gestalt in uns bes omme,
+
+[p. 59] "Ep.m, | komme, und in uns das Göttliche Beben aufblase, daß wir uns in der Mutter Geist in der — 457 finden, wollen wir * sey G Ott gelehret und getrieben 40. Wir muͤssen uns Ipmeginslichergeben; daß G Otte Geist in uns das Wollen ,Thun und Vollbringen sey: aufdaß wir Ihme wissen und nicht uns; daß Er unser Wissen sey. 41. Wir sollen mit nichten sagen was wir wissen wollen, fordern nur blos in die Menschwerdung und Geburt JEsu Ehristi in fein Leiden und Tod eingehen, und immer gerne wol⸗ ger len in feine Fußstapfen treten, und Ihme nachfolgen, und dencken, daß wir auf der Pilgram⸗Strasse sind, da wir durch einen gefährlichen Weg muͤssen in unser Vaterland, daraus uns Adam führete, wiederum in Christo auf dem .
+
+Steige eingehen.
+
+Auf diesem einigen Wege lieget das lein, Mysterium Magnum,
+
+Alles Studiren, Suchen u
+
+schen ausser diesem Wege ist todt, und erlanget nicht die J fraͤuliche Crone, sondern nur Dornen und Spitzen, ae die Kinder GOttes stechen. 42. Darum, mein lieber Herr, weiß ich euch, weil br mein Betentniß begehret, keinen bessern Rath mitzutheilen, pe | ich euch den Weg zeige, den ich selber gehe, und darauf mir die Thür aufgethan worden, daß ich gelebret bin ohne zuvorhin lernen. Dann alle Kunst und Wissen kommet von l 9 5alles.
+
+3. Ich habe mit den Kindern Gottes wegen ihrer 7 f
+
+2 Gabe keinen Zanck; ich kann siein mir alle einigen, he mit ihnen nur aufs Centrum „so habe ich die Probam Dinge. Wollet ihr mir nun nachfolgen, so werdet ihr es erfahren, und vielleicht hernach besser verstehen, was ich ge⸗ schrieben habe.
+
+44. Ein wahrer Christ hat mit niemand Streit, 1
+
+stirbet in der Gelassenheit in Christo allem Streit ab. Er sor⸗ get!nicht mehr für den WegzuGOtt, sondern er ergiebet sich n die Mutter, als in Christi Geist, was der immer mit ibm ma⸗ chet, das gilt ihme gleich: Es sey in dieser Welt Gluͤck oder Ungluͤck, Leben oder Tod,es istihme alles gleich; Es rühret den neuen Menschen kein Ungluͤck, sondern nur den alten von dieser Welt, da mag die Welt mit ihme thun was sie will; dere selbe ist derWelt, aber der neue ist GOttes. bg 45. Mein geliebter Herr, dieses ist mein Weg, bar -wandele,
+
+[p. 60] Br.12. Theosophische Send⸗Briefe.
+
+mandele, und darauf ich wissen muß ohne mein Vorwissen, ich hme ne mir keinen Vorsatz zuvorhin, was ich schreiben oder re⸗ den will, sondern ergebe mich in GOttes Wissen, der mag in mirwissen, was Er will; und auf solchem Wege habe ich eine
+
+Perle erlanget, welche mir lieber ist als die aͤussere Welt. 46. Und obs gleich geschiehet, daß oft die Kinder GOttes in der Erkentniß mit einander anstossen, so geschiehet doch alles nur durch die Turbam der aͤussern Vernunft, welche in allen Menschen ist: und verhaͤnget GOtt solches darum, daß der Mensch geübet werde /und feinen Geist heftiger mit Beten und n entzuͤnde, alsdann gehet der Geist GOt⸗ nge Eindri in sder Verborgenheit der Menschheit als ein Feuer, das da tein muß den Kindern GOttes zum Besten dienen.
+
+g geen etliche Personen, eurer Nachbarschaft, da⸗ von ihr meldet, welche alles zu Gelde machen, und dem vers meine ten Zion zulauffen, hielt ich rathsamer sie blieben dahei⸗ me, dann Zion mußin uns geboren werden; Wann sie wer⸗ an die Orte kommen, so ist ihnen so wol als vorhin, und müffen gleich wol unter dem Joch Christi leben. 48. Gottistim Himmel, und der Himmel ist im Men⸗ will aber der Mensch im Himmel seyn, so muß der Him⸗ sch;
+
+Das muß durch ernste offenbar werden.
+
+und hertzliches Einergeben geschehen; das können sie wol daheimen, und an ihren Orten thun. Deme sie geden⸗ cken zu entfliehen darein werden sie lauffen. Wann. sie das beime einen Goͤttlichen Weg wandelten, daß andere Leute ein Exempel an ihnen hatten, ware GOtt angenehmer. 49.
+
+Dann es hat unter ihnen auch stoltze, hoffaͤrtige, spoͤtti⸗ me te, welche nur verachten und schmaͤhen, undistin mans m mehr eine angenommene Weise und geistliche Hoffart; als ich dann selbst erfahren habe. Dann ich habe einen unter ihnen wegen eines aus gegangenen Buͤchleins, darinn ich et⸗ was schweres wieder GOtt und den Grund der Wahrheit fand, gantz Christ. und brüderlich ersuchet und unterwiesen, er wuͤrde sehend werden: Aber er hat gantz stoltz und ich, darzu schmaͤhlichen geantwortet, und eine solche don sich gegeben, dar innen kein GOttes Geist zu Anwort
+
+spuͤren ist. Ihre Confession ist vielmehr eine Meinung, als dessen sie 5 ruͤhmen, die sind sie * dannt, ein rechter Erns [p. 61] beide
+
+Tbebgpe el niet es mag wol fromme Hertzen unter ihnen haben, aber viel sind es nur mit dem Namen, und wollen va nfpen har ben; wie ich selbst von einem der en e erfahren. Sie moͤgen wol daheimen lernen Leute schma⸗ Esist nicht der kindliche Weg in GSttes Reich: dazu ist ihr Weg Revoca, und von ihnen selbst im Schein er nr sind sie wie vorhin. o. Wolte GOtt, eswaͤre also ein Ernst mit ihnen,walt Pe ich wolte es auch loben: Allein Schmähen un Verachten ist nur Babel, dessen ist die Weltvorhin voll, dar⸗*. nach lauffe ich nicht.
+
+NA
+
+Fi. Anlangend den Zans Weyrauch, so viel ich in dieser Schrift febe, mag er ein Mensch fepn, welcheriin . wallet, wofern sich fein Weg im Hertzen so verhält: Daß aber andere tadelt, wegen Erkentnisses des Lichtes der darinnen hat er vielleicht nicht Erkentniß und erstrecken feine Gaben dahin nicht; ist darauf nicht zu sehen, weil esser — ne Gabe nicht ist. Wollet ihn derweil fur einen frommen Bru⸗ der halten. Dann GOtt führet feine Gaben nicht nur in der
+
+Einfalt aus, sondern auch in manchem in der Hoͤhe;
+
+— 5 hoch und thut mit allen seinen Wercken *
+
+52. Also antworte ich auch von den andern e Autoribus, welche theils hohe Gaben gehabt, aber nichta mögen genug ergreiffen, doch haben sie zu ihrer Zei gethan. Weil aber die ietzige Zeit eines andern Artz 72 darf, so befinden sich auch ieeigerZeit andere Erfenner ! Wisser zu der Kranckheit, alles nach GOttes Liebe und
+
+sorge, der nicht will, daß iemand verloren werde, sondern daß{ allen Meuschen geholfen werde.
+
+33. Wann dieselben Autores anietzo lebeten, so e vielleicht in etlichen Puncten haben klaͤrer und in 22 men geschrieben, wiewol sie bey ihrer Zeit genug gethan, und sie darum mit nichten zu verachten sind; obwol etliche Pun- cta zu verbessern wären, so ist doch sonst ihre Lehre von der
+
+Vereinigung der Gottheit und Menschheit fast klar, und sie⸗ het man, wie auch GOttes Geist in ihnen gewesen; die Vers nunft aber drehet alles ins aͤrgste, und verkehrets mit (ae schem Deuten. 54. Beym ene stoͤsset dieser Punct 2 daß
+
+[p. 62] Br.12. Theosophische Send-Briefe.
+
+keine Creatur haͤlt; Er hat noch nicht die Prin fürum Christ
+
+Apis ergriffen, darum nicht möglich zu unterscheiden, womit keine Creatur sey. Was feine Gottheit anlanget, ister kei⸗ ne Erenturs was aber die himmlische Wesenheit anlanget, von welcherEr saget, Er waͤre vom Himmel kommen, und waäare im Himmel, Joh. 3: 13. ist Er mit derselben in der Creatuͤrlich, und ausser der Menschheit uncrea⸗ | 3 35. Gleichwie wir Menschen in den 4Elementen leben, und sind selber der 4 Elementen Eigenschaft: in uns sind sie bild⸗ lich, und ausser uns unbildlich, und ist doch Ein Ding; Also
+
+Auch in Ebeifti person. 56. Die fein leiblich gange Englische Welt, als das ate Principium, ist Wesen nach der himmlischen Wesenheit in der Pers
+
+son der Menschheit creatüͤrlich und auffer der person unerea⸗ tuͤrlich: Dann Er ist des Vaters Hertz und Wort, und das
+
+Hertz istüberal im Vater: also wo fein Hertz ist, da ist auch der Himmel und Göttliche Wesenheit mit der Fuͤlle der Weide heit umgeben. 1222 Anlangend seine Seele, welche er seinem Vater in seine
+
+‚fiemas befahl ,und von welcher Er sagte am Oelberge ze betrubet bis in den Tod, ist dieselbe aus unserer seelischen
+
+Eigenschaft.
+
+Dann um die Seele war es zu thun, daß GOtt
+
+Mensch ward, daß Er dieselbe wieder in sich brachte, und un: fern Willen aus der Irdigkeit wieder in sich einfuͤhrete, die ist eine Creatur.
+
+kFe it
+
+58. Und das gte Principium, als das aͤussere Reich dieser
+
+Ott hat durch feine Weisheit aus der Ewig⸗ Gs Welt, welche geboren, ist auch creatürlich in Jhme. Dann die gantze Gottheit hat sich im Menschen Christo offenbaret, als gleichwie G Ott ist in diesem Geiste alles, daß Er in diesem Menschen auch alles sey: Sind wir Menschen doch alle also, sofern wir wieder aus GOtt geboren werden: und ware Dies em Punct, welcher fast die andern alle treibet, wol zu rathen, so man ihn recht betrachtete, es dürfte auch nicht viel Streit, oder Verdammens: Dann der Geist GOttes fraget nach kei⸗ nem Streit, Er richtet alles in sich. 59. So will Weigel haben, Maria sey nicht Joachims und Annaͤ Tochter, und Christus habe nichts von uns ange⸗ nommen, sondern sie sey eine Edle Df. Carr
+
+Ist wohl male
+
+### [p. 63] XXI. Epistolæ Theofophick}
+
+Ep. 12.
+
+der Goͤttli⸗ des Bundes, nach der Jungfrauen nach dem Ziel chen Weisheit: Aber was huͤlfe mich das? wo bliebe meine als das Pas Seele und meine in Adam verblichene Wesenheit;
+
+radeis⸗Blde, so nicht Ehristus unser Seelen Esseng hätte in
+
+sich genommen, und das verblichene Bilde wiederum zum Les ben erboren? welches ichin meinem Buche vom Dreyfachen Leben nach der Range habe ausgefuͤhret. 60. Sonst schreibet auch Weigel von der neuen Geburt, und der Einigung der Menschheit in Christo mit und, gar scho⸗ ne/welches, weil ichs in meinen Schriften was klaͤrer beschrie⸗ von1 5beruhen lasse, und lasse sie unveracht, auch den, der e lieset
+
+sammen, ob manche Blume gleich besser wäre als die andere;
+
+61. Traͤget doch eine Biene aus vielen Blumen Honig zu⸗ was fraget die Biene darnach? sie nimt was ihr dienet: Sol⸗ te sie darum ihren Stachel in die Blumen stechen, so sie des Saftes nicht moͤchte, wie der veraͤchtliche Mensch thut? man streitet um die Hülfen ‚und den edelen Saft, der zumken, net, 1005man stehen. Was bilft mich die Wissenschaft, so ich nicht 8 lberdas Wissen muß in mir seyn, und auch das Wollen und Thun. Der Mantel mit dem Leiden und Genugthuung Chri⸗
+
+sti/ den man ietzt dem Menschen umdecket, wird manchem zum Stricke und hoͤllischen Feuer werden, daß man sich also nur u mit Christi Genugthuung kitzeln, und den Schalt an⸗ ehalten. 63. Es heisset: Ihr muͤsset neugeboren werden, oder sol⸗ let GOttes Reich nicht schauen; Ihr muͤsset werden als ein Kind, wollet ihr GOttes Reich sehen. Bit,allein um = Wissenschaft zancken, sondern ein neuer Mensch werden in Gerechtigkeit und Heiligkeit in GOtt lebe. Man — Schalck austreiben, und Christum anziehen, alsdann sind wir in Christo, und mit Christo in feinem Tod begraben, und stehen mit Christo auf, und leben ewig in Ihme. Was soll 4 — lange um das zancken, das ich selber bin? 64. Ich habe mit niemand keinen Zanck, als nur wieder den
+
+Gottlosen, den straft der Geist unter Augen: wolte ich euch nicht bergen, und meine es treulich.
+
+65. Anlangende meine Bücher ‚Lönnet ihr, wieichvernom⸗ men, wol bey euch bekommen, soeuch dieselben gelieb en;n
+
+[p. 64] FBr. 12. Theosophische Send Briefe. 57 berich Herrtet Christian Bernbard, Joͤllner zum Sa⸗ gan, wieer derselben habe zwey, (als das vom Dreyfachen
+
+Leben, welches fast dasvornehmste im Lehren ist, und dann de 40 Fragen von der Seelen,) eurem Weinschencken sei⸗
+
+Bruder geliehen, koͤnnet euch mit ihme befreunden, wird fieeuch nicht versagen: So aber nicht, will ich euch in andere Wege darzu verhelfen; koͤnnet dieselbe auch bey Herrn Chri⸗
+
+stian Bernharden bekommen, so ihr sie jebegehret, und nicht mrpee den; Ich will ihme schreiben, daß er euch die wird leihen, dann ich habe meine selten daheime; Jedoch so ihr sie nicht wuͤrdet erlangen, wolte ich, so bald ich sie zu Haufe leihen. andern eines bekäm — eue 66. Deren Titul und unterschiedliche Bücher sind diese: 1 Aurora, steiget aus der Kindheit auf, und zeiget euch die ‚ aber fast heimlich und nicht genug. viel Magischen Verstand, dann es sind etliche Ge⸗ nnen, so noch ergehen sollen. 67. II. Ein grosses Buch von 100 Bogen, von den 3 Prin⸗
+
+Soͤrtliches Wesens, und des Wesens aller Wesen: Das ist ein Schlüffel und Alphabeth aller derer, so meine en begehren zu verstehen. Das handelt von der Schoͤpfung: Item, von der ewigen Geburt der Gottheit: Von der Busse, der Rechtfertigung des Menschen, und seinem „und von dem Falle. Item: von der neuen und Ehristi Testamenten, und vom gantzen menschli⸗
+
+sehr nützlich zu lesen, dann es istein Auge zu erken⸗ die Wunder im Mysterio GOttes.
+
+125Ill. Ein Buch vom Dreyfachen eben hat 60 Bogen,
+
+Schluͤssel von oben und unten zu allen Geheimnissen, N ach
+
+sich nur das Hertze schwingen möchte. Es zeiget allen Grund der3Principien, und dienet einem ieden nach seiner Er mag fast alle Fragen, so die Vernunft ersin⸗ nen kann, dorinnen gründen; Und ist das noͤthigste/ so euch wol ihr würdet der Zanck⸗Buͤcher bald uͤberdruͤßig werden,so ihr dis ins Gemuͤthe braͤchtet.
+
+69. W. 40 Fragen von der Seelen, hat 28 Bogen, han⸗ deltvonalle dem, was ein Mensch wissen soll.
+
+70. Das v. Buch hat 3 Theile. Das 1. Theil von der Menschwerdung Christi. Das 2. Theil ist fast sebr tief — Ebeifi Leiden und Tod; wie wir in Christi Tod D 3 muͤssen
+
+[p. 65] XXI. Epistolæ Theosophicæ.
+
+Ep. 12.
+
+muͤssen eingehen mit und in Christo sterben und aufersteß ben: Und warum Christus hat müffen sterben; gantz aus dem Centro durch die drey Prinsipia ausgefuͤhret, sehrhoch. Das gte Theil ist der Baum des i auch durch die3 Principia, sehr nützlich zu lesen.
+
+71. VI. Das 6te Buch oder Theil dieser Schriften, sind
+
+6 Wantene Puncte der allergroͤssesten Tieffe: wie die
+
+5incipia sich ineinander gebaͤren und vertragen, also, daß in Ewigkeit kein Streit ist, und wol ein iedes in sich selber ; Und wovon Streit und Uneinigkeit herkomme; wovon Boes und Gutes urstaͤnde; gantz aus dem Ungrunde, aus Nichts in Etwas, als in Grund der Natur eingefuͤh⸗ ret. Dieses öte Buch ist ein solches Geheimniß, wiewol kin⸗ disch ans Licht gegeben, daß es keine Vernunft ohne GOt⸗ gründen wird. Es ist ein Schluͤssel zu A und o em)
+
+72. VII. Ein Büchlein für dieMelancholey für dieAu⸗ gefochtenen geschrieben: wovon Traurigkeit urstaͤnde, und wie man derselben wiederstehen soll. (ist von den vier E. lexionen No. IX. Christosoph. N. 8.) 73. VIII. Ein sehr tiefes BuchdeSignatura Rerum: Von der Bezeichnung der Creation, und was iedes Dinges Anfang, auch Jerbrechung und Heilung sey, gehet gantz in die Ewige und dann in die Anfangliche, aͤusserliche Natur, und in ihre Gestaͤltnisse.
+
+74. Dieses sind also meine Buͤcher, neben etlichen ein, j nen Eractätlein,die ich hin und wieder gegeben, deren ich kei⸗ ne Copey behalten, dann ich bedarf ihr für mich nicht, ich Das .
+
+be an meinen 3Blättern genug.
+
+75. Und so es meine Gelegenheit giebet, dann ich sonsten oft reisen muß wegen meines Werckes, so will ich euch, so bald das seyn mag, daß ich dieser Orten reife, selber ansprechen. Wolte es/als ich nach OsternzuWeicha war, thun, und war mein gantzer Vorsatz, allein GOtt wendete es anderst, fuͤgete mir einen Mann zu, der mich andere Wege fuͤhrete zu solchen Menschen, da es noͤthig war, daß ich hernach erkante, daß mein e Weg vom Herrn wäre. 76. Herr Balthasar Walter bat sich vergangenen Winter und Frühling bey Fuͤrst August von Anhalt ꝛc. zu Pletzka aufgehalten, und mir daa geschrieben. Anietzo 1 er [p. 66] dicus, nche 3 Glei fue beym Graz Jahr bestellen lassen.
+
+sind Ureth, Bechie Hofe 27. Am selben auswei Schrei Walter icht gantz eines Sinnes, wie So gen. empfan Wochen drey vor set, welches ich erst anhero sten Botscha schreibe der Herr etwaswolte Zoͤllner rd, Bernha Christi Herrn hätte, kann er heit, Gelegen Wochen schicken Sagan, zum
+
+Geselle ger fuͤrchti istein unver⸗ schwer riften meinen 78. So etwas in gehen kindisch wills ich nen, aufzuze bitte standlich wolteseyn Klugen Den werden es moͤge verstanden 2 damit selber Wissend selbst den Hohen und in ge: denen sind, reich können, und vorhin igen, Unmuͤnd Kinder rn den ieben, lernen. gehen fangen Brüste der Mutter nicht, es: versteh kann, 79. Wer es versteh deme elt, ungetad der lasse es ungeläftert n. riebe gesch boͤte wäre durstig 80. So aber ein Bruder erfahre dem gebe ich zu trincken Tr gegeben babe, so ih ihme Gu ; Und thue mich n. pf e kiebe JEsu Ch Maria Himmelfahrt. Der Tame des Slerrn is ͤh ho uffet dahin, und ae.
+
+nN — N.
+
+Der XIII. Send⸗Brief. Christian Bernhard. vom 8. Junii 1621. Summarien.
+
+Lu Or vi toris Schristen sind an um Seculum wird
+
+sucht und gelesen worden. 6. 1. Das Aure ün mitten im Feuer zu Cr mö Nu 3. Ra felder zu 5. n. tl Ko Eh Zeit! 4.
+
+nq Der offene Brun
+
+sey unsere Exquickung.
+
+#### s. Ehren⸗
+
+[p. 67] XXI. Epistolæ Theosophiex.
+
+Ep.n.
+
+Hrenvester, Wolbenamter Herr, in der Liebe Chrissi boher Freund.
+
+Neben Wünschung aller heilsamen
+
+WMolfahrt, fuͤge ich euch freundlich daß diesemitgehen⸗ de Schriften von vielen gelehrten auch Adelichen Personen mit Lust und Begierde gesuchet und gelesen werden, und sind also sehr ausgebreitet /daß ich mich darob verwundere, und ist gat ohne mein Wissen geschehen. Man hat sie fast in gang
+
+sien, sowol in vielen Orten in der Marcke, Meissen und Sach⸗ fen, wie mir dann täglich Schreiben zu handen geschicket wer⸗ den, derselben begehrende ; sich auch etliche vornehme beute an⸗ erboten, sie in Druck zuverlegen: welches mir anietzo weilBa⸗ bel.
+
+noch nicht gefällig ist aber doch feine Zeit haben
+
+«
+
+2. Dann das Aurcum Seculum wird mitten im Feuer zu
+
+Babel anheben zu gruͤnen.
+
+Melde ich euch treuhertzig nachzu⸗
+
+sinnen, und euch in der Begierde, in unserm Emanuel zuer⸗ wecken, als einer unter den Erstlingen, unter der siebenten Po⸗
+
+saunen Schall ergriffen.
+
+3. Suchet, spricht Christus so werdet ihr finden; das eble
+
+su⸗ Perlein offenbaret sich selber in denen, so das anietzo werden chen: dann es ist eine angenehme Zeit, beydes im Himmel Hölle, beyde Thuͤren stehen anietzo mit ihrer Begierde offen z es ist eine Zeit sich selber zu suchen, halte es niemand für oder er faͤllet dem grimmigen Kal GoOttes heim, und im Rachen des Grimmes ergriffen.
+
+4. Nur demuͤthig unterm Creutze eine kleine Zeit derMajen und der Lilien ⸗Zweig seine Frucht. wird seine Rosen wol bringen, 5. Wol deme, der ihn in seinem Hertzen hat, es wird ihme zur hoͤchsten Ehre gereichen; dann dieser Welt Ehre ist nur
+
+Koth gegen der Goͤttlichen zurechnen, melde ich fuͤr euch, als für meinem Lieben in dem HErrn J Esu Christo u euch zu erinnern und zu ermuntern in dem HErrn. Und euch der Liebe JEsu Christi empfehlen. supra. E. D. W.
+
+Datum Görlig,u J. B.
+
+Der XIV. Send Brief.
+
+rd. nha Ber ian An Christ im Junio, 1621.
+
+Ermah
+
+Ermahnung zum Gedet, g.. e. und zum Kampf;3.weil ohne ißt3. Autoris Schriften werden, errang nichts zu erlangen
+
+[p. 68] Theosophische Send⸗Briefe.
+
+Bra.
+
+Der offene Ben im Sertzen JEsu Christi, sey
+
+sere Erquickung. sere
+
+Ein lieber4 Cbristianus,Me Freund, Euer
+
+Wolfahrt ist mir allezeit lieb; Ich uͤbersende euh hiermit das Buch de Tribus Prineipiis vollendzum
+
+Abfeheeiben,soeuchs gefaͤllet, und vermahne euchin der lebe als ein Glied das ander, in dem Studio und im Gebete Christi, fleißigzuseyn, auf daß unser Glaube und Erkentniß und wir endlich die Frucht unter einander wachse und zunehme davon einernten, und derer geniessen.
+
+25688 wacker in Ehristo zu streiten wieder der Vers
+
+Welt, und des Fleisches Willen, und kaͤmpfet ritter⸗ ist indem HErrn, der wird ihn euch aufsetzen, ii Die Crone ist euch beygeleget, darum es wird euch nicht gereuen.
+
+das Mahlzeichen Christi muͤsset ihr in dieser Welt
+
+seinem Bilde aͤhnlich werden; anderst erlauget ihr Cron, füge ich euch bruͤderlich. Bereitet euch nur es ist ein grosser Sturm vorhanden, aufdaß ihr zum Lobe GOttes, und zum Jahr der Lilien, Der Liebe JEsu Christi empfohlen.
+
+Vite mie dem Nachschreiben zu soͤrderen, dann es wird es finden sich Schüler, denen mans geben soll.
+
+Der XV. Send⸗Brief.
+
+An Hrn. Dr. Johann Daniel Koschowitz. vom 3. Julii 1621. Bad Funde
+
+Baltha en. 9.1. Autoris
+
+Grund verstehet allein die die⸗
+
+Her Gottes. 2. Von Hr. D. Staritius.3.
+
+Autor ist erbötig von
+
+Gnaden⸗Wahlj sich also zuerklaͤren, daß man feinen Grund
+
+4. auch alle Fragen gruͤndlich zu beantworten; 57. mit Til⸗ oberist ernichtzufrieden. 8.9. Von einem chymischen estalt des Geist⸗vebens hat() in sich;u. so haben,
+
+A ihre
+
+#### O. . Wiewol F keinen Gewalt zum Schein
+
+bat. 13.in * Ee ders. Schluͤssel ist 07 07 und der
+
+6.Schlässel ik 9.26. 3 aber ist das wahre Leben,7. und Fmuß gan 18. Das Corpus Philosophorum ist das iritualiihe Er utor will persönlich einmehreres vertrauen. 20. Bit⸗ get dieArcanazu bewahren; in schweren Orten nachzufragen, und den vielen Blumen Honig RR. nachmahmen, welvon
+
+Bass -
+
+### I. Ge⸗
+
+[p. 69] XXI. Episolæ Theosophicæ.
+
+Ep:1
+
+Eliebter Hr. Dr. wollet nur Hrn. Balth. Tilken meinen Brief selber zu lesen geben ohn allein dieses Seriprum* nicht, und ihn zu Christlicher Deimutp wem een e ihme vielleicht möchten die Augen der Seelen aufgethan den, welches ich ihme wol goͤnne, es wird ihme kein Spott sie, daß er die Wahrheit beliebe dann ich mercke wol was ihn auf⸗ haͤlt und hree — 1 nichts hun 9 —— Grund weit ausgesprenget, inen demer bis her vielen ein Ansehen bekommen, und dieser mein Grund niche gaͤntzlich mit ihm einftimmer, iotreibet ihn die eigene Reben Contrario, und da er doch meinen Grund noch nicht begriffen hat,und dessennoch ein Kind ist.
+
+* Ist die 2. Apolog. wieder Balth. Tilken.
+
+2. So ihme aber die Ehre bey GOtt und die gliedliche Rie⸗ be wolte gefallen, so hat er in Wahrheit nichts wieder mich und meine Schriften, auch möchten sie ihme noch wol frommen; aber ohne geneigten Willen wird er wol stumm daran bleiben, dann diesen Grund verstehet keine Vernunft, ohne die einige Liebe GOttes, darinnen alle Schaͤtze der Weisheit innen lie;
+
+gen.
+
+Was aber seine Meinung sey ‚bitte ich mir 1 durch Hrn. N. mit einem Sende⸗Brieflein zu melden. 3. Herrn D. Staritius ist sein verdeckter Grund hiemit net, ich hoffe er werde auch sehend werden, weiln er a. scharfe Vernunft, und die Logic wol n so w vielleicht weiter forschen; will er aber nicht, so hebet ene Meinung GOttes Gaben nicht auf: Er kann mir Grund, sonderlich die Erklarung der Sprüche, mit Schrift umstossen, ich meine es treulich mit ihme.
+
+4. Darneben bitte ich euch, ihr wollet mir diese 5 schaft erzeigen, und diesen * Tractat von der Gnaden⸗
+
+HerrnT. v. 8. (Th. v. Tfchefch) zu lesenschicken weil er ein
+
+sittsamer Herr ist, und auch eben der Disputat dieses bey ihme vorgelauffen ist, daß es nicht das Ansehen hat, als man im Unverstande zu todte geschlagen worden: wird die Noth erfordern, so will ich mich dermassen erklären, wü sehen sollen eaus was Grunde ich schreibe.
+
+* Ist die 2. Apolog. wieder Balth. Tilken.
+
+5. Sie geben mir Fragen wie sie wollen, fiefind inder Na tur oder ausser der Natur ,in der Zeit oder in der Ewigkeiez Ich will mich in Göttlichen Gnaden nichts vor ihnen . — era
+
+E—
+
+[p. 70] Brig.
+
+Theosophische Send⸗Briefe.
+
+sondern genug beantworten, allein daß es nur Christlich fchebe, ea nicht aus Affecten oder Schmähung, ich will der⸗ gleichen gegen iedem handeln. 6. Am näherninunferer Zusammenkunft war ich gar übel geschickt zu solchem Disputat / dann Wein und koͤstliche Sp verdecken des Perleins Grund, zuvoraus, weil ich deffen ni gewohnet bin, und dabeime gantz maͤssig un d nüchtern lebe, und ist Herrn N. nicht gnug geantwortet worden. 7. Ich bin aber erdoͤtig, ihme und allen denen welche Christlich meinen, zu antworten fiegeben mir nur ihre Fr a⸗ gen schriftlich, und erklären ihre Meinung dabey, da ß ich sehe, was sie schliessen; Ich will ihnen gruͤndlich un ausfuhrlich genug antworten, und keines Sectirers oder sectirisch mens mich behelfen, oder nennen lassen mit Grund der Wahr it, nicht ein Flacianer, wie Hr. PD. Staritius me im Grunde soll ich sehen, dann ich lehre kein eigen Ver moͤgen, user Christo zur Kindschaft zu kommen wis D, Staritius 8. Allein mit seiner Meinung bin ich auch nich ͤg vielweniger aber mit Herrn Balth. Tilkens, welche ga die Schrift anstoͤsset, dann ich bin allen Meinungen dt habe nichts, ohne was mir von Gott zu erkennen wird: Und gebe es euch allen selber zu richten, weiß, was es ist, daß ich als ein gaye und ungeuͤbt er Mann mit die ihr von den hohen Schulen geboren seyd, zu thun und mich wieder die gelehrte Kunst setzen muß, und meiner eigenen Vernunft doch nicht weiß, ohne GOt Bi yon darzu komme, sondern sehe ihm se lb tt thut.
+
+Aber in dem Grund meiner Gaben weiß ich gar wol, ichthue in diesem Vorhaben, und da es doch kein V den inmir ist, sondern also bringet es die Zeit, und also treibet es Der, der Alles regieret. 10. Anlangend unser heimliche Abrede, wie wu Werdet ihr euch muͤssen noch ziemliche weil in wu eß gedulten, und wird auch in diesem Anfange keinen wollen leiden. Es darf wol erst im siebenten diesem Processe zu End lauffen, dann es muß genschaften des spiritualischen Grundes aufges chlossen wer⸗ oheswolanietzo schon durch die Sonne aufgeschlossen
+
+Bi,
+
+[p. 71] XXI. Epistolæ Theosophicæ. Ep. 15.
+
+so ist doch der Schlüsselkaum im ersten oder andern Grad des
+
+Centri der Natur kommen.
+
+ir. Dann eine iede Eigenschast unter denw and
+
+Geist⸗ Lebens hat eine sonderliche O in sich, von Gewalt und
+
+Herkommen des bichts der Natur, als der Essentialischen Oen, ——— 5 in Ordnung aufgeschlossen, wie ihr Geburt und Urstand i
+
+12. (1) Wird 650 des Saturni Sonne, durch den Echtfel der aͤusseren O Sonne aufgeschlossen, baß man 9 lichkeit der Natur siehet. (2) des (2) Jovis oder J
+
+Sonne, daß man die Kraͤste als einen bluͤhenden Baum und bis daher seyd ihr kommen. (3) Wird (2) Mars, als die feurige Seele, aufgeschlossen, so erscheinet Jungfrau (d) Venus in ihrem weissen Kleide, und schertzet mit der Seelen, oh sie dieselbe koͤnte zur Begierde der Liebe bewegen; sie gehet mit der Seelen aus und ein, auf und ab, und hertzet sich mit ihr, ob sie wolte die flüchtigen Eigenschaften des eignen lens, da die Seele ist aus der Temperatur a in d flüchtige Leben der zertrennten Lebens⸗Eigenschaft ae der in sie einführen, daß Jungfrau Venus wieder wuͤrde, und des Feuers Tinctur wieder erlangen möchte, ER m Freude und ihrkeben stehet.
+
+Dann Jungfrau Venus ist der Glast desWeissn ind
+
+© 5Sonnen an diesem Orte verstanden; Aber die zum Schein ist nicht ihr eigen, ihr Eigenthum ist dasg
+
+Wasser (O) welches ursprünglich aus dem Feuer () urstaͤn⸗ det, da die Scheidung im Salniter in (07) Martis Sonnen an⸗ gebet; so scheidet sich Jungfrau Venus in sich selber, und ber decket sich mit einem kuͤpfernen Roͤcklein, dann Mars ( wi fuͤr Eigenthum haben, aber er besudelt sie sehrin feiner B. und schmeisset Erde und Ruß an sie, dann er mag sie .
+
+ehlichen, er gebe ihr dann feinen eigenen Feuer Willen Eigenthum, und das will er nicht, darum streiten sie lange Zeit; sie sind Eheleute, aber sie sind einander e worden.
+
+14. So kommt alsdann die (O) Sonne und schleust (x) Ner- curii Sonne auf welches der ate Schluͤssel ist da werdet ihr gros⸗ seWunder sehen, wie GOtt Himmel und Erden geschaffen darzu den Grund aller 4 Elementen; und so ihr werdet haben, so werdet ihr euren proprium Genium ausgewickelt vor
+
+[p. 72] |ri
+
+Br.15.Theosophische Send» Briefe.
+
+ich blos sehen / und sehen wie das Wort ist Mensch koꝛ⸗ ws
+
+8das ausgesprochene Wort in feinem Wieder Aus⸗ 5 155 Schiedlichkeit der Krafte, werdet ihr sehen, ingfrau (2) Venus getheilet wird, wie sie die Gestaltnisse
+
+Natur insich fassen und mit ihr jämmerlich umgehen,
+
+‚undhen 157 =an n, sie wollen morden, aber sie ist ihre e zum er te uͤssel van uf ist Jungfrau P Venus selber, da fle b beals die O Sonne, aufschleust, daß sie ihren Wil⸗ Rund ihr schoͤnes Krönglein den Mördern giebet/so stehet sie Se rkRunen,so 5 De 5 5 habe das ue Kind, ist aber noch weit bis zur rt desselben.
+
+16. Der te Schlüffel ist CLuna, wann die Sonne die⸗
+
+Ten auffchleust, so muß (07)
+
+Mars (2) Jupiter und (5) Sa- feder feinen Willen verlassen, und ihren fluͤchti⸗ Pracht lassen sincken, dann die O Sonne in ( Lans turns it sie.in die Menschwerdung ein, da hebet der Künst⸗ Fon zu trauren, und denckt er habe verloren, aber feine Hoff⸗ nung wird nicht zu schanden dann der ( Mond oder Luna in aufgeschlossenen O Sonnen ist also hungerig nach der chten S Sonnen, daß er sie mit Gewalt in sich zeucht, davon Mar ins feinem Grimm erschrickt, und in feinem eigenen erstirbet, foergreift ihn Jungfrau 2 Venus und ersinckt ihrer diebe in ihn ein, davon wird oo Mars im A Jov- „so R nit
+
+Sarurno in dleser Liebe lebendig eines freudenreichen Lebens, und geben alle 6Eigenschaften ihren Willen in 2 Venus, und
+
+Venus giebet ihren Willen der O Sonnen, alda wird das Le⸗ geboren, das in der Temperatur stehet. 17. Lieber 71 D. der Feder ist nicht zu trauen, iedoch habt r Acht auf das Werck, es wird also und gar nicht anders get + bemees nicht, daß sich nicht L Mercurius vor feiner essung erzuͤrne, dann auswendig ister böfe, aber inwen⸗ er gut und das wahre Leben, iedoch ist oꝰ Mars die Urs zum beben; sie geben auch nicht also schlecht in der Ord⸗ nung mit dem Aufschliessen, obwol das Aufschliessen in der
+
+Ordnung aum, und geschiehet, so wendet sich aber das sensualische Rad drehetlich hinein bis Saturnus z in den innern Grund mie feinem Willen kommet, so stehet er in der Temperatur, Ip und gebieret nicht mehr .
+
+### [p. 73] XXI. Epifole Theosophier, Ep.15
+
+18. Das alles was ihr ietzo sehet, findie abdringende lebe tigen Geister und prangen mit Jungfrau N Venus, alle in Hurerey, und muͤssen alle umkehren, und sich in einwenden, daß sie sixwerden, das geschiehet also lange, bis Jungfrau Venus ihr materialisches Fang 7565 f in welchem die Ehebrecher mit ihr buhlen in fal
+
+Wille daß sie gantz geistlich wird, alsdann scheinet die O Sonne in ihr, welche die Natur in Liebe verwandelt.
+
+19. Lieber SenDoctor, das Corpus Philofophorumistbas spirstualische Wasser vom Feuer und Licht, als die Kraft des euers und Lichtes, wann das von der Grobheit wird durch die Aufschliessung aller Eigenschaften der gefthiebei so ists recht spiritualisch; so nimt der © Solarische Geist keine andere Eigenschaft mehr in sich, als nur diese, welche er mag in den aufgeschlossenen Gestalten in ihrer sensualischen © Son⸗ nen erreichen / dann die Sonne nimt nichts in sich als nut Gleichheit, sie nimt ihren Himmel aus der Erden, woll mich recht verstehen, dann es istihre Speise ; davon gebi sie einen jungen Sohn in sich, der auch O heisset, aber ist ein Corpus, darum sage ich euch, haltet euch fleißigı genen zu ihr, ihr werdet wol erfrenet werden lasset« Ott so lange leben, wo ihr nur den rechten Vater welchem ich nachgesonnen, und ihn fast belie bet habe. 20. Ein solches ist mir wol wissend, danni babement gesehen, darob ich mich nicht alleine wundere, sondern dar ber erfreuete, darinnen mir viel istoffenbar worden: und wi wol ich möchte etwas ausführlicher davon schreiben, so thut es euch doch in diesem Processe nicht noth, auch ist der icht zu trauen, kann ein andermal geschehen, und bit e hals diesen Brief heimlich und in Treuen; komme ich zu (BE so moͤchte ich euch wol etwas vertrauen, das ich neulich er und gesehen habe; Jedoch soll ich gehen so weit ich Di iebet Zeit kann ich wegen Unruhe welche nahe ist, so ko ich auf Mitfasten auf Breslausobesuche ich euch imRuͤckn
+
+21. Herr Doctor, seyd sehende, leset den Tractat von der Gnaden⸗Wahl (ist die 2. Apolog. wieder B. Titten) mit innerli⸗ chem Bedacht, er hat mehr in sich inseinem innern
+
+Grun als auswendig wegen der Spruͤche der Schrift: wel innern Grund ich nicht den Unweisen geben und aus wickeln darf, und doch den Weisen wol geben darf: In den *
+
+seyd
+
+[p. 74] Br.16. Theosophische Send⸗Briefe.
+
+Eu treu, ipdencket dag. 2755die boͤse Welt in ihrem ten Art a A we von Si Honig eh 755 kp oͤchte eeuch dienen, doch was ihrwollet, 2 Noth nimt Noth.
+
+G tt nimt J. B.
+
+Der XVI. Send⸗Brief.
+
+ch ern.Christian Steinbergen D. 55 K
+
+Vom3.Julii Anno 1621.
+
+t8
+
+sol en
+
+Glied
+
+Summarien.
+
+hat viel beute e istnochnieaus dem Grunde verstanden worden; 10 Lehre von der Praͤdestination alle Liebe zerstöͤret. 3.* wir den Namen JEsus in uns bewahren, 4. Don irfind eenDie A sind kein nuͤt 6. Man kann alles
+
+Ader finden, 7. und darf mit niemand zancken. 8. So ist auch gulf die Person zu sehen 9. daun Gott das thöoͤrichte erwehlet, ist kein Finden. u. Wornach mit dem Gebet ge⸗ 12. und mit Ernst getrachtet werden muß. 13. Autoris Bereits it, mit seinen Gaben kindlich zu dienen. 14.
+
+n der ieee und ewigen Rathschlusse Gottes. „Achtbarer, Hochgelahrte Herr. Nebenst Wün⸗
+
+schungder 9 — Liebe 107 reudenreich in unserm
+
+Emanuel, in feiner wunder: süssen Kraft, auch aller es und zeitlichen Wohlfahrt, füge ich demselben freund⸗ ich mich wegen des Gesbraͤches, so am naͤhesten ger „erinnert habe. Und nachdem ich den Herrn einen eiferigen Liebhaber der Wahrheit und Goͤttlicher Geheim⸗ vermercket, habe ich nicht wollen unterlassen, ihn mit dies zu besuchen, weiln es Gelegenheit auf den Articul: Von der Gnaden Wah Echtes eine andere Person deswegen hat er ) was ich geantwortet, habe dem Herrn wiegefehieket*; bin bereit und erboͤthig so ferne mit so 5— a 00 Gemuͤthe sich 81 e gehre
+
+[p. 75] XXI. Epistolæ Theosophicæ.
+
+Ep.16.
+
+gebret würde ein solches zu schreiben, und aus dem Centro aus⸗ zuführen, darauf das Hertz sich möchte verlassen und beruhen. (0 Ist die 2. Apologie wieder Balth. Tilken.
+
+2. Wiewol ich vermeinete, ein Christ solte indiesem Weni⸗ gen so viel finden, daß er zur Ruhe wegen dieses 18 1 0 Articul kaͤme: Weil es aber nicht weniger, daß dieser Art hat viel Leute bekuͤmmert, und darauf solche Meinung ge
+
+schlossen worden, welche der Welt eine offene Pforte iu aller a Bosheit geben, so ist mir es leid. 3. Sintemal mir vom Hoͤhesten istzu erkennen gegeben Be den, daß dieser Artieul noch nie ausm Grunde verstanden wor⸗ den‘, daß wir einander nicht doͤrsten also fremde ansehen, als Menschen und Teufel gegeneinander sondern als liebe Brũ⸗ der, und Christi ingeborne und theuer⸗ erworbene Kinder, daß wir doch moͤchten in einer rechten Liebe untereinander wan⸗ deln: Welches in solchem Wahn, daß GOtt einen erwehlet und den andern nicht, nimmermehr geschehen kann; ab 4 aber meinen Bruder ansehe, als mein Fleisch und Geist, mags wol geschehen, welches uns die Schrift, auch der its
+
+stand menschlichen Geschlechts, gewaltig bezeuget: und vielmehr uͤberzeigt michmein Gewissen im Geist des indeme ich meinen Bruder soll lieben als mein eigen Leben, oder als meinen G Ott. 4. Was folle mir GOtt wollen gebieten einen verdammten Teufel zu lieben? Nein: Sondern meines Leibes Gliedmaß: Darum um dessen willen habe ich mir Ursach genommen, DER Herrn zu schreiben, und ihn Christlich zu ersuchen und zu ver; mahnen, diesem Articul besser nachzudencken, und in der Bei trachtung ja nicht anders ihme lassen einraͤumen, als den hold⸗ seligen Namen J lEsus, der da in die Welt istkommen, und fi GOt⸗ in unserer Menschheit geoffenbaret, uns arme am Reich tes gestorbene und verlorne Menschen zu suchen und N machen, und das herwieder zu bringen, was in Adam verloren.
+
+5. Nicht schreibe ich dem Herrn darum, ihn zu meistern, sondern brüderficher Weise mich mit ihme zu ersuchen und zu ergetzen, auf daß unser Glaube und Zuversicht gegen Gott in dem Herrn gestaͤrcket werde, dann wir sind allerseits nur Mens schen, und halten uns billig in kehren und Leben gegen 9
+
+[p. 76] Br. 16. Theosophische Send⸗Briefe.
+
+der als Glieder dann wer feinen Bruder im Geiste Christi fin⸗ det der findet sich selber.
+
+6. Die Viele der Disputaten ist kein nuͤtze, sie machen nur 1 Gehet mit mir in meinen Schriften aufs Cen.
+
+trum aller Wesen, fowerdet ihr den Verstand in Guten und Bösen sehen, und aller dieser Jrrthůme erlöfet werden: Dann ihr werdet also viel in meinen Schriften finden, daß dem Ges wird Genügen geschehen; so fern das Centrum aller ergriffen wird, so gehet eine solche Freude im Gemuͤthe auf welche aller Welt Freude uͤbertrift, dann es lieget der Ede⸗ e Stein der Weisen darinnen: und wer ihn findet, achtet ihn hoͤher als die aͤussere Welt mit aller ihrer Herrlichkeit. das nicht Freude seyn, GOtt finden und erkennen, 7. Solte de in sich selber kann alles finden und sehen, was in viel kaum istentworfen worden, und in einem ie⸗ den Dinge zu erkennen. 8. Mit weme soll ich um die Religion BR: so dieselbe in meinem Hertzen offenbar wird daß ich alles mag in feiner Wirte und Urstand schauen? Nicht rede ichs mir zum Ruhm, ichein Nichts bin, und GOtt in mir Alles sondern darum, lüfterte zu suchen, daß er es auch möchte suchen und
+
+9. Biene! ichs nicht also suchte, auch nicht verstund, wu⸗ steauch nichts davon; Ich suchte allein das liebreiche Hertz Christi mich dar inn zu verbergen, vor dem grimmigen Gottes und dem boͤsen Feinde dem Teufel: So ward mir aber mehr offenbaret, als ich suchte und verstund, und daraus habe ich geschrieben, auch nicht vermeinet damit bey so hohen Leuten bekant zu werden, dann ich gedachte, ich schriebe für mich, und gedachte es bey mir bis aus Ende zu be⸗ alleine halten; Run ists doch offenbar, und in vieler Menschen Haͤn⸗ dekommen, ohne mein Wissen und Lauffen. Derowegen ich verur sachet werde, euch und ihnen zu flehen, und sie des zu erinnern, daß man doch nicht wolle auf die Einfalt des Autoris sehen, noch sich wegen der Personärgern. 10. Dann es gefaͤlt dem Hoͤhesten wol feinen Rath durch törichte deutezuoffenbaren, welche vor der Welt ein Nichts geachtet sind, aufdaß es erkant werde, daß es von feiner Hand kemme. Darumfo dem Hrn. meine geschriebene Schriften indie Haͤnde kommen, woller sie 5 ansehen als eines 1 E 3
+
+[p. 77] XXI. Epifiole Theofophicz;:
+
+Ep. W.
+
+des, inwelchem der Hoͤheste fein Werck getrieben dann eslie get soviel 2
+
+2 das keine Vernunft verstehen oder fen mag: Aber den Erleuchteren ists kindisch und gar leicht. u. Es wird von der Vernunft nicht er 203 werden: Es sey dann, daß die Vernunft werde mit GOttes Licht angezün⸗
+
+ER:auffer. dem ist kein Finden, wolte ich den Herrn und a 15 elefen, freundlich erinnern. Christus sprach: Suchet, werdet ihr finden, Flopffet an,so wird euch aufgethan. Matt 7:7. Mein Vater will denH. Geist geben denen,die eLuc. 1 dad Perle cho n ge en: wer ben will, muß es eee ist kein Finden, als nur ein halb blindWissen, a einem rg Fechten; Imper⸗ lein lieget eine lebendige Wissenschaft, da man nimmer fragen, obs wahr sey? Dann es stehet geftbrieben: Sie den von GOtt gelehret seyn. Joh. 6: 45. Item: Wir zueuch kommen und Wohnung bey euch machen. Jo 25 Wer Christi Geist nicht hat, ist nicht fein; Rom arm 1 Christus: Trachtet am ersten nach dem9 Gottes und nach feiner Gerechtigkeit, so wird„euchdasal re alles zufallen. Mattb. 6.33 13. Erheisset uns darnach trachten, und nicht stille m | und auf Wahl warten, fordern zu Ihm kommen, Match. 28. und in seinem Weinberg arbeiten, nicht warten | Treiben, sondern willig kommen. 14. Weilichdaun am Herrn ein weises Hertz gespüret, so1 bin ichdestokuͤhner gewesen ihme zu schreiben, verhoffe er wer⸗ de es weißlich richten. So nun etwas dem Herrn in m Schriften wolte unverstanden vorkommen bitte ichs aufzu cken, und mir mit Gelegenheit zu schicken, ich wills kindli geben und erklaͤren: Und thue den Herrn sumt den | auch mich mit ihnen in der brüderlichen Einigung, in die fi
+
+J.8. |
+
+Liebe JEsu Christi empfehlen. Datum nt supra,
+
+Der XVII. Send- Brief.
+
+An C. v. H. V. A. J.S.
+
+Vom 3. sr:Pr
+
+“4
+
+Sum Utor zeiget inseinen Schriften, wie das Perlein zu suchen 1
+
+85 lcha enenl
+
+1. Ge in derene [p. 78] lerHerrꝛc.Nebenst Wuͤnschung der Göttliche Liebe und Freudenreich in unserm EmanuEl, in feiner süs⸗ auch aller Leibes und zeitlicher Wolfahrt, fuͤ⸗ Eu demselben freundlich, nachdeme ich ietzt — er⸗ 5 eee so am naͤhern geschehen, aber euch und andere mehr innert, zuwissen: N und seiner Wahrheit 8 mit Ernste dem Mysterio und Grunde aller Wesen begehren nachzufor⸗
+
+schen, und ins Licht zu kommen; So habe ich nicht unterlassen wollen, denen zu schreiben und siezuerinneren, und in solchem
+
+Suchen mehr Ursache zu geben, und ig thun, wie zu suchen und endlich zu finden sey: intemal ich Suchern bin, und mir am hoͤhesten anlie⸗ was mir von GOtt vertrauet ist, nicht zu ver⸗ u. sondern darzuthun, aufdaß GOttes Wille erund möchte erkant werden, und sein Reich in unser Suchen und
+
+Begehren kommen und offenbar werden, und wie wir uns un⸗ tereinander als Kinder des Hoͤhesten finden möchten , und uns untereinander erkennen als Glieder und Bruͤder, und nicht Unmenschen gegeneinan⸗ sel dals Fremdlinge, oder als Teu der; welches der Articul von der Wahl, wie es bishero von ee tractiret worden, nicht viel anderst geben und leiden
+
+2. Und obesist,daß wir im schweren Fall Adams sind im ergriffen worden daß uns ja sein Zorn hat zu Kindern der niß erwehlet; So hat aber doch Gott sein liebes Hertz, als das Centrum der Gottheit, daran gewandt, und hat esin der Menschheit offenbaret, aufdaß Er uns in Ihme wie⸗ der neugebaͤre, und das Leben in uns wieder offenbarete. 3. Und wie der schwere Fall von einem kam auf alle und alle, also auch die Gnade 1 von Einem und W
+
+[p. 79] 72 XXI Epigolr Theofophiee: pay. Christus in d tel saget: Daß JEsus auf alle; und der Apos
+
+se Welt gekommen sey, zu suchen undselig zu mach ver⸗ loren sey, Macch. 18:11. als den armen verlornen, verdammten, ö im Zorne Gottesergriffenen und zur Verdammniß gen Sünder, und nicht den Gerechte den, r mit Habel,
+
+Set noch, Noah, Sem, Ahrabam, Isaac und Jaco inbder griffen ist; sondern den Armen von Zorne GOttes Re nen, fündigen Menschen, als Cain, Ismael und Esau, und!
+
+gleichen, dieselben zu suchen und zu russen, ob sie sich wolte kehren, wie GOtt zu Cain sagte: Herrsche über die Sünde, E und laß ihr nicht den Gewalt; so das Cain nicht hatte thun koͤnnen, so hätte es ihme GOtt nicht gebeiffen > aucso hes n ware möglich gewese daßn, Adam hatte koͤnnen bestehen, so )1ta R te er ihm den Baum nicht verboten.
+
+4. Wiewol man also nicht schliessen kann, und dem Gem the also nicht Genuͤge geschiehet, dann es forschet weiter Gottes Allmacht, so thut ein ander Studium nöthig, daß man lerne erkennen, das Centrum aller Wesen zu Liebe und was da sey die ewige Liebe GOttes, und was da sey der ewige Zorn GOttes, der den Menschen verstocket und verfchlinget, und zum Kinde des ewigen Todes machet, und wie ein Mensch koͤnue und möge in dieser Zeit aus solcher Gefaͤngniß erledige werden.
+
+5. Well ichs aber habe in meinen Büchern dermassen erkls ⸗ ret und ausgefuͤhret, daß ich vermeine dem Gemuͤthe solte ge⸗ genug geschehen; (sonderlich im Buche vom Dreyfachen Les .
+
+ben, und in den dreyen Büchern von der Menschwerdung Christi, und noch vielmehr und höher im Buͤchlein von den sechs Puncten de Mysterio Magno, von der ewigen Geburt der Gottheit, und von den Drey Printipien der drey Wel ⸗ ten, wie sie ineinander stehen als Eine, und wie ein ewigen
+
+Friede gegeneinander sey, und wie eine die andere gebäre, und eine der andern begehret, auch eine ohne die andere nichts wäre) so vermeinete ich dem Gemuͤthe solte alda seyn genug geschehen, sintemal man solches an allen Wesen und
+
+Dingen erweisen kann.
+
+6. Weiln Herr O. Kderselben Schriften theils in Haͤnden hat, wiewol nicht alle, so kann E. Gestr. nach denselben for⸗ schen, so sie Luft darzu haben, sie werden nicht allein dieses Ar;
+
+tituls von der Gnaden Wahl Grund finden, sondern alleAr- ticul,
+
+[p. 80] Bun. Theosophische Send Briefe.
+
+‚und fast alles, wo sich des Menschen Gemuͤth hinwendet, man dem Grunde, so eröffnet istnachgehet. a Ki 7. Mein Edles Hertz, nehmer es doch nicht fuͤr Schertz was
+
+Ott aus feiner Liebe offenbaret, sehet nicht auf die Ein⸗ des Menschen, durch welche Er solches thut, es ist also vor newolgefällig, daß Er feine Macht an den Schwachen und
+
+Thoͤrichten, wie sie die Welt achtet, offenbaret: Es geschiehet der Welt zur Lehre, die weil alles im Zanck lebet, und will sich ‚feinen Geist nicht ziehen lassen, daß sie erkenneten, daß das Reich Gottes in uns ist; so wird ihnen auch noch das Centrum feines Wesens und aller Wesen offenbaret / dasgeschiehet alles aus seiner Liebe gegen uns, daß wir doch möchten von dem elenden Streite und Zancke ausgehen, und in eine bruͤder⸗ licheund kindliche Liebe treten.
+
+8. So wolte ich Ew. Gestr. dieweil ich fast ein sehnendes ce gefpüret, nicht bergen, daß es ein Ernst seyn wird, und sage: Wol denen, die mit unter der Posaunen Schall er⸗ griffen werden, welche schon geposaunet hat, dann es kommt
+
++ ein solcher Ernst hernach, daß Babel und Streit, samt aller offart und Ehrgeitz, auch Falschheit und Ungerechtigkeit, soll einen ernsten Trunck trincken; und eben den sie bat eingeschen⸗ cket, soll sie austrincken: Bitte um ewiges Heils willen, fol: chem nachzusinnen, es ist erkant worden.
+
+Ich din erboͤtig so ferne das Gemuͤthe nicht möchte Grun⸗ a genug haben in meinen Schriften, daß es möchte ruhen, so mirdaffelse nur aufgezeichnet überfendet wird dermassen zu erklaren undaus dem Centro aller Wesen auszuführen, daß ich verhoffe dem Gemuͤthe solle Genuͤge geschehen, wiewol es nicht eben am Forschen lieget, dann keine Forschung ergreiffet das er ohne GOttes Licht; es gehoͤret ein bußfertig,demüthig emuͤthe darzu das sich ind Ottes Gnaden gang eingiebet und laͤsset, das nichts forschet noch will, als nur GOttes Liebe und Barmhertzigkeit, indeme gehet endlich der helle Morgenstern auf, daß das Gemüthe ein solches Perlein findet, darinnen sich Seele und Leib erfreuet: Und wann dieses gefunden wird, so darf es weder Forschens noch Lehrens, dann es stehet geschrie⸗ ben: Sie werden von GOtt gelehret seyn, Joh. 6: 4. Ein solches eröffnet der siebenten Posaunen⸗ Schall iin vieler Menschen Gemuͤthe, die es nur werden mit Ernst in eis nem demůͤthigen, in GStt *
+
+Willen suchen. E 5 10. Darum Nei
+
+[p. 81] 24 XXII. Epistolæ Theofophiex. Ep. ig 10. Darum, mein Edles Hert wolte euch solches nich bergen, viel Disputiren und Grübeln ineigener V ft fin det das N int, aber ein ernster, bußfertiger Wille fin det dasselbe welcheskoͤstlich ist als erdieWelt: und der es fin det, der gebe es nicht um aller WeltReichthum, dan es giebhet
+
+Koth achtet.
+
+DW
+
+Im zeitliche undewige Freude daß er mittenim Kercker den insterniß mag froͤlich seyn, und dieser Welt gute Tage für . Christus sprach: Sucher, sowerdet ihr finden, klopfet 7:7. Item: Mein Vater an,so wird euch aufgethan. Match.
+
+den H.Geist geben denen, die Ihn darum bitten. Luc. 1
+
+Hierinnen lieget der Grund; Es sage ja niemand, mein Hertze istverschloss enkan , n nicht bitten; Und wenn mein
+
+Hertze
+
+spraͤche lauter Nein, so werfe ichmich doch in Christi!
+
+und Tod; Er werfe mich in Himmel oder Hoͤlle, so will ich in feinem Tode seyn, der ist mir ein ewig beben worden: So heiß
+
+setesalsdenn: Meine Schaͤflein kann mir niemand aus mei⸗ nen Haͤnden reissen. Joh. 10:28. N. 12. Der Weg zum edlen Perlein, dasselbe zusuchen und zu Hug erkennen, ist im Huch vom Dreyfachen Leben fast gen eroͤffnet, sonst wolte ich etwas haben davon gemeldet! U1 chue mich in E. Gunsten, und uns allein die sanste diebe Jes
+
+Christi, befehlen. Datum ut supra.
+
+K.
+
+* dr 4 n eee Der XIX. Send⸗ Brief.
+
+An Hrn. Hans Sigmund von Schweinich. vom 3. Julii Anno 162.
+
+®
+
+1 uhr,
+
+Summarien.
+
+Seil Balth. Tilke sich wieder des Autoris Schristen ei
+
+35 $.1.2, als hat dieser eine Eurge&rklärung Über jenes ang
+
+Zettel gemacht, 3. aus Mitleiden über dessen Elend. tor hat nichts als GOttes Hertz gesuchet, 3. und das mit
+
+J.
+
+Au⸗ grossem
+
+Ernst. 6. Es wird noch eine Zeit kommen, da Autoris 290 den gesuchet werden, und angenehm seyn; 7. 8. denn sie gehen über die gestirnte Vernunft. 9. Aus keinem Disputat kommt was Gutes, Bez stäͤndiges oder GOtt Wolgefalliges 10. Darum muͤssen wir aus — Vernunft ausgehen. u. Autoris Begriff in feinen Schriftenif wie eines Schülers. 12. Das Buch Aurora, war fein kindlicher Anfangs ward ihm aber ohne feinen Willen entzogen und publiciret. 13.
+
+[p. 82] Br.. Theosophische Send⸗Briefe. 73 ja
+
+Der offene Brunnquell im Sertzen JEsu Christi, sey unsere Erguidung!
+
+er, Ehrenvester, Hochbenamter Herr, nebenst Wins schung der Goͤttlichen Liebe und Freudenreich in uns erm Emanuele, in feiner wunder-süssen Kraft, auch alle zeitlicheWolfahrt des Leibes, wolte ich dem Herrn nicht bergen, wie mir istzu wissen gemacht, daß der Herr ein beson⸗ derer Liebhaber des Fontis Sapientiæ sey/auch etliche meiner ese, und eine grosse Begierde nach dem Bruͤnnlein und der edlen Weisheit trage, welches mich bewogen zu schreiben, sintemal er etlicher meiner Schriften uchet.
+
+. Und aber sich Leute finden, welche ausMißgunstmit riff deroselben, aus Unverstand dawieder pralen, wie diesem angehängten Zettel zu ersehen, wie der arme, hof⸗ Mensch pralet, und hat doch nicht das wenigste am nde, woraus meine Schriften herfliessen; zeucht sie falsch mit fremden Verstande an, nur seine elende damit zu bestaͤttigen, dieweil er etliche Schriften von der Wahl Gottes über uns, und uns einen Strick der Verzweifelung an den Hals zu „und eine Thür aller Leichtfertigkeit aufzuthun, so ihene aber das offene Bruͤnnlein Christi in meinen arauf er die Gnaden ⸗Wahl setzet. 4. Welches mich in meinem Hertzen treflich jammert, daß der Mensch also beschweret ist und mit einer solchen Meinung eingenommen, welche Last schwer ist, und er daraus nicht mag
+
+[p. 83] Xx! Epistole Theofbphier: Epaß mag entrinnen, er lerne denn das Centrum aller Wesen ver⸗
+
+stehen, wovon Boͤses und Gutes urstaͤnde, was GOttes Liebe und Zorn sey, und lerne die drey Principia verstehen; sonst wird er davon nicht erlöser.
+
+Dai
+
+5. Wiewol michs nicht wundert, daß ihm meine Schriften fremde vorkommen: Dann esist ein Neues, und ein Fahren uber die Vernunft aus; sie haben einen andern Verstand als seine, eine andere Wurtzel, daraus sie quellen, dann ich hab sie nicht von Buchstaben zusammen getragen gelernet, ich war ein unverstaͤndiges Kind daran, als der Lapen Artist, wuste auch nichts von solchen Dingen, suchete es auch also JE . nicht, ich suchete allein das Hertze und offene Bruͤnnlein fü Christt, mich darinnen zu verbergen vor dem Ungewitter des Zornes GOttes, und vor dem Gegensatze des Teufels, daß moͤchte einen Leiter und Fuͤhrer kriegen, der mein Leben füh⸗ rete und regierete. 6. Als mir dieses also hart anlag, und mein Gemuͤthe sich also hart im Streit wieder die Suͤnde und Tod, und gegen der Barmhertzigkeit GOttes einzwengete, auch ehe das Leben z lassen, dann davon abzustehen, so istmir ein solches Kraͤntzlein aufgesetzet worden, des ich mich gedencke in Ewigkeit zuer⸗ freuen, darzu ich keine Feder habe solches zu beschreiben / viel⸗ weniger mit dem Munde zu reden; und daraus ist mir meine Erkentniß kommen, und die Begierde solche aufzuschreiben, nur für mich, zu einem Memorial, gedachte es bis an mein letz⸗ tes Ende zu behalten: Und wie es damit istzugangen, ist dem Herrn wol bewust durch Herrn N. 7. Weil es aber durch GOttes Schickung ist zu dem Ende erathen, daß der Herr samt seinem Herrn Bruder David v. S. ind als Erstlinge darzu beruffen, durch welche es ist sortge⸗ pflantzet worden; So vermahne und bitte ich denselben ewiges Heils willen, das Perlein, das uns GOtt goͤnnet, in acht zu nehmen. 8. Dann es wird eine Zeit kommen, daß es wird gesuchet werden und angenehm seyn, sich nicht lassen einen Sturm wind treiben, sondern nur recht anschauen, und GOtt den
+
+Hoͤchsten bitten, daß er wolle die Thür der Erkentniß aufthun, ohne welches niemand meine Schriften wird verstehen.
+
+9. Dann sie gehen über die gestirnte Vernunft aus, sie bes grelffen und ergreiffen die Göttliche Geburt, darum muß 9
+
+[p. 84] Br. 18.19. Theosophische Send⸗Briefe.
+
+ein eben⸗gleicher Geist seyn, der sie will recht verstwhen; Kein culiren erreichet sie, das Gemuͤthe sey dann von GOtt leuchtet: Zu welcher Findung dem suchenden veser der Weg gantz treulich istgewiesen worden. 10. Und melde mit guter Wahrheit vor GOtt und Men⸗
+
+schen, appellire auch darmit vor GOttes Gerichte, und sage, daß an keinem Disputat, ohne GOttes Licht und Geist, nichts
+
+Gutes sey, nichts Bestaͤndiges und Gottgefalliges da⸗ moͤge entstehen.
+
+n. Darum, wer den Weg zu Gott will lernen im Grunde der gehe nur aus aller feiner Vernunft, und trete in ein bußfertiges, demuͤthiges in GOtt gelassenes Kinder⸗Leben, und füche nur kindisch, so wird er himmlische Kraft und Witz und wird Christi Kinder⸗Geist anziehen, der wird in alle Wahrheit leiten, anderst istgar kein gerechter Weg, nur dieser einige: wird es zu dem Ende kommen, daß ihme Jungfraͤuliche Kraͤntzlein mag aufgesetzet werden, so wird iht mehr sagen dürfen, lehre mich. Dann es stehet ge⸗ eben: Sie werden alle von GOtt gelehret seyn; Anderst ich weder Wissen noch Kunst.
+
+12. Ich bin in meinen Schriften gangen als ein Schüler der zur Schulen gehet, oder wie ein Platzregen dervoruͤber ge⸗ waser trift, das trift er: Also ist auch mein Begriff ge⸗ desen bis aufheute.
+
+13.
+
+Das Buch Aurora oder Morgenroͤthe war mein finds uiher Anfang. schrieb also im Wiederschein ohne Vernunft, blos nach dem Schauen fast auf magische Art: Ich verstund das wol, aber es ist nicht genug ausgefüͤhret, es duͤrste Erkla⸗ rung und besserer Ausführung: Dann ich gedachte es bey mirzubehalten, ward mir aber ohne meinen Willen entzogen und publiciret, wie dem Herrn 8 it: Und thue mich in befe
+
+— Gunst, und uns alle in die sanfte Liebe JEsu Christi,
+
+Em
+
+J. B;
+
+Der XIX. Send Brief.
+
+An Hrn. Johann Daniel Koschowitz, Med.
+
+Doct. und Practicus zu Striga. vom 3. Juli 1621, Diefer Brief isdisZuschrisder t 2. Apologie wieher Balth. Tilken. Mr [p. 85] ya. Epitolz Theofophiex, ‚E90,
+
+Der XX. Send⸗Brief. LA An Herrn Gottfried Freudenhammer von
+
+@H Freudenheim, Or. Med. zu GroffenA vem 17. Octobr. 162l. Summarien.
+
+io
+
+8. 1.2. Das Buch,da alle eswlichkeit innenlehet, 5 3. Aus dem kLilien⸗Zweig . selbe Zweig ist der ene Gef. 5.6, gab dische. 8 Wesen muß über die 4E
+
+9.
+
+Diedoe
+
+Welt gbereitüber denäuffern We 10. de muß er sterben. u. Durch Streit wird das Mysterium offen wann Gottes 13. und das Licht wieder 3. P
+
+Gaben!in die Seele dringet. 15. Darum üf es ein 11 50 N au e
+
+16. 17. Wir muͤssen den alten A
+
+GSttes Fiche ertoͤdten 18. 85 Reich muß in unsgel den, 10, und wir muͤssen durch Chrickum in dasfelde eine
+
+Dann die Vernnuft macht kein Kind GOttes; 21, so kann es d beit auch nichterreichen. 22. Derirdische Wille muß erben, 24. Und Erbarmen hangen. 24. In diesem Erbarmenstehet an GOttes Denkeauf, 25. und wohnet im Himmel, im neuenAr au de 3 darauf das strenge Gericht
+
+A offene Brunnanell Gottes im Be Jeruch sey unser Erquickung und stetes Licht!
+
+reifen, Achtbarer und Hochgelehrter Herr;
+
+wuͤnsche dem Herrn einig und alleine, was meine von GMoOtt begehret /als die rechte /wahre; Goͤttli.
+
+kentuißin der Liebe JEsu Christi, daß GOtt das Centrum E ner Seelen moͤchte aufschliessen, damidterParadeisische lien⸗Zweig in Christi Rosen⸗ Gärtlein möchte grunen, n, bluͤbhen und Frucht tragen, und der GOtt möge ge⸗ Bruͤnnlein von ihme ausfliessen, und Er von lehret werden, 1125ihn Se0 BeiBe ede regiere, geschrieben stehet:
+
+1580 tes Kinder.
+
+e der
+
+Bei treibet,
+
+[p. 86] | Br.20. The 6 Seb Send⸗Briefe. Schreiben habe
+
+Hern
+
+2. Des empfangen, und daraus verstanden, daß er meine Sohlen a 9 ihme dieselben belieben lasse, von Hertzen wuͤnschende, daß deroselben Sinn und rechter
+
+Verstand möge ergriffen werden, so durfte erkei⸗
+
+Fragens oder Forschens. nes weitern 3. Dann das Buch, da alle Heimlichkeit innen lieget, ist ensch selber: Er ist selber das Buch des Wesens aller dieweilen erdieGleichniß der Gottheit ist; das grosse Arcanum 1155in ihme, allein das Offenbaren gehoͤret dem Geiste Bier aber die Liebe: (Lilien) in Christi Menschbeit in der
+
+Wiedergeburt aus der Seelen ausgruͤnet, so gehet aus derselben Lilien der GeistGOttes als aus feinem. eigenen Ur⸗ tand u Bub aus/derselbe suchet und findet alle Verbor⸗ t in der Goͤttlichen Weisheit. Daun der Lilien Zweig, welcher in der neuen Geburt
+
+4 1840risti Menschheit ausgrunet, (verstehet den neugebor⸗
+
+Beift, aus der Seelischen Effeng, in Christi Kraft) der iff rhaftiger Zweig aus und in GOttes Baum instehend. leich als eine Mutter ein Kind gebieret, also wird der inund aus GOtt geboren; also und gar nicht Nensch Gg g kan ttes Kind und Erbe, ein Kind des Himmels lt nicht eine zugerechnete Gerechtigkeit, ein
+
+G Ottes Reich nicht erben; sondern eine ein⸗
+
+Gerechtigkeit aus GOttes Wesenheit, als aus GOt⸗ borne
+
+Wasser und Geist, wie uns Christus saget: Wir müssen die Kinder, und in GOttes Effeng empfangen wer⸗ als neue Kinder in GOttes Essentz aus gruͤnen und en werden, auf Art, wie eine schoͤne Blume aus der ben Erden, oder wie ein koͤstlich schoͤn Gold im groben Stei⸗ haͤchset, anderst koͤnnen wir GOttes Reich weder schauen ann was die innere Geistliche Welt ererben will, muß n erboren werden: Das irdische Fleisch aus den enten kann GOttes Reich nicht erben, Job. 6: 63. 1. Cor. 15: 50.
+
+Fa & Das fünfte Wesen aber, als das H. Element, daraus die erboren werden (das ist Paradeis) das muß herr⸗ die 4 Elementa, auf Art, wie das Licht die Fin⸗ sterniß
+
+[p. 87] Ep.20, sie ber erniß in sich, gleich als verschlungen halt, und da werden.
+
+in sich ist; also 25 0 auch mit denSn
+
+10. Alleine diese Zeit des irdischen Lebens mags mit der aͤussern Menschen nicht seyn, dann die äussere Wel .
+
+über den aͤussern Menschen, dieweil sie in Adam ist worden, welches fein Fall ist.
+
+u. Darum muß der aussere Mensch zerbrechen, gleich als die aussere Welt zerbricht und darum mags in dieser Zeit mit keinem Menschen zur Vollkommenheit kommen; sondern dei irdis rechte Mensch muß im Streite bleiben wieder das verderbte beben, welches fein Gegensatz ist, da Ewigkeit und Zeit wiedereinander streiten. 12. Dann durch den Streit wird das grosse Arcanum net, und die ewigen Wunder in GOttes Weis heit aus der lischen Essentz offenbar.
+
+se⸗
+
+Wann
+
+6. Gleich wie sich der ewige GOtt bat mit derZeit baret, und führer feine ewige Wunder mit der Zeit in und Wiederwertigkeit, aufdaß durch den Streit das gene sich eroͤffne; Also muß auch das grosse I al Menschen, im Streite da GOttes Zorn und Liebe, gle
+
+Feuer und Licht im Streite ist, offenbar werden.
+
+14. Dann in der Seelen (welche aus dem ewigen Ben, | aus des Vaters Eigenschaft, als aus der ewigen u chen Natur; aus der Finsterniß urstaͤndet) muß das Licht wel⸗ ches in Adam verloschen, in Christi Eingebung wieder ＋.
+
+ren werden, als dann istihme Chriffus und GOttes Reich
+
+Gnaden geschencket.
+
+15. Dann kein Mensch kann ihm das nehmen, GOttes Biebe dringet aus Gnaden wieder in das Centrum der Seelen und fuͤhret den Willen GOttes in bimmlische Wesenheit, 5 | einen neuen Zweig, oder neues Ebenbild aus dem Seele Feuer aus, gleichwie das Licht aus dem Feuer scheinet.
+
+156. Darum es alles ein Ungrund ist, was Babel von der aussern zugerechneten Gerechtigkeit und von aussen⸗angenom⸗ mener Kindschaft lehret; Christus.sprach: Ihr e Br gie werden, anderst sollet ihr GOttes Reich ni I ehen. Joh. 3:3:
+
+17. Es hilfet kein heuchelisch Troͤsten mit Christi Tode or dern in Christi Tod eingehen, und in Ihme e
+
+[p. 88] —.—— Theosophische Send⸗Briefe. 81 ne u und im neuen Menschen Chri⸗
+
+18.lache Christus hat die Welt, auch seines Vaters
+
+Zorn, als das Centrum der ewigen Natur in der Seelischen Eigenschaft mit feiner Liebe, als mit dem neu⸗eingefuͤbrten Essentz (in welche zuvor der Teu⸗
+
+seine Begierde eingefuͤhret hatte) ertoͤdtet /gelöfchet und den; Alf: n wir, in und mit Christi Geiste, den irdischen Adam in GOttes Zorn erfänffen, und mit GOttes Liebe ertoͤdten, daß der neue Mensch ausgrüne, anderst ist * auch weder A noch Gerech⸗
+
+19. Bas dachGe mug ini — — nicht nmit d inuns geboren wer⸗ jederEwigkeit in
+
+20. Es istalles Fichten und . — kerne und Studi⸗ ren umsonst es erlangets weder Kunst noch Vernunft; wir nur durch die Thuͤre, die uns GOtt in Christo hat auf: ehen, und in GOttes Reich ausgruͤnen, und dem Willen absterben, also daß er uns nur hinten nach auhange des Weibes Same muß immerdar in uns der den Kopf zertreten.
+
+21. Die Eigen: Bermunfe kann kein Kind GOttes machen, es lieget nicht an unserem Wollen, Lauffen und Ren⸗ nen, NPaulus saget; sondern an Gottes Erbarmen, eine Ichheit kannes nicht erreichen, meine Ichheit muß in Ehristi Tode sterben, und dem Nichts heimfallen als. dann faͤllet —.— Ichheit in GOttes Erbarmen, und ist am des e
+
+13.
+
+enschen, und stehet wieder im be Fiat,
+
+Dres Erbarmen, in Christi Eingehen in unsere den neuen Menschen aus Gnaden. muß der verderbte, irdische Wille durch rechte erben, und in die Gelassenheit eingehen als in einer Vernunft Willen gantz in den Tod ergeben, mehr wollen noch wissen, sondern an GOt⸗
+
+24. Ssbessetseaha wie Gott im Propheten spricht:
+
+Mad Heegbrichtmir, daß ich mich feiner erbarmen muß
+
+Ren
+
+Mutter ihres ä daßsieun
+
+[p. 89] Ep. 20.
+
+nicht erbarme uͤber den Sohn ihres Leibes; und ob sie schon des vergesse, so will ich doch dein nicht vergessen, siehe inmei ne Haͤnde habe ich dich gezeichnet.
+
+25. In deme, als in Gottes Erbarmen, stebetderneue
+
+Mensch auf, und gruͤnet im Himmelreich und ' ob gleichder irdische Leib Dienfch) in dieser Welti 6. Dann S. Paulus saget: Unser Wandel isin Sims er Phil,3:20. Also wandelt der neue Mensch im Himmel, und der alte in dieser Welt, dann der Himmel, da Gott innen wohnet ist imneuen Menschen. 27. Also, mein geliebter Herr und Bruder, una keine andere Weise, habe ich das My sterium funden, ichhabe es nicht bie, oder 1267 1 xa — einenun darnach duͤrstet, deme bin ich bruͤderlich geneiget
+
+Weg zu zeigen;
+
+wie es mir entgegnet ist, wie ich dasinmeinen Schriften, son⸗ derlich im Buche vom Dreyfachen Leben des und im Buch der 3 Peincipien Goͤttliches Wesens nach der Laͤnge geschrieben babe. 28. Zwar für mich selbst, als zu einer geistlichen der Erkentniß GOttes,im Mysterio der grossen Wunder tes: weil es aber durch GOttes Schickung dahin gerathen, daß es gelesen wird, so gönne ichs einem ieden, deresin kenst begehret zu versteben, und wuͤnsche von Hertzen, daß es dem Leser dieses, und einem ieden in ihme selber,m und erkant seyn, so dürfte es keines Forschens mehrt. 29. Weil es aber GOtt durch die Propheten hat verheif⸗ sen, sonderlich im Joel c. 3. 1. daß Er feinen Geist will aus:
+
+u ne letzten Zeit über alles Fleisch, so ist die Zeit in acht
+
+5 30. Ich sage, als ich es habe erkant: Wer ibmeanietzo will
+
+selber sterben, den will der Geist des HErrn, nach Joelis Deu⸗ tung, ergreiffen, und feine Wunder durch ihn offenbarenz Darum ists iemanden ein Ernst, so wird ers erfahren. 1. Aber ich will einen ieden treulich gewarnet haben, obs geschehe daß GOttes Licht in ihme aufginge, daß er ja im Che Demuth in der Gelassenheit stehen bleibe, als im Tode rufe
+
+32. Dann der Himmel soll ietzo fein lang⸗ gewigcktes vom Gestirne, das er in menschlicher Eigenschaft mitgewir⸗ cket, ausschuͤtten, damit er nicht vom n [p. 90] ve 21. Theosophische Send⸗Briefe.
+
+8;
+
+werde, und über das Ziel aus der Gelassenheit aus⸗
+
+33. Wie an den Methisten zu sehen ist, welche sind kom⸗ men bis in die Thoren der Tieffe, und sind vom gestirnten Him⸗ mel wieder ergriffen worden, in sich selber wieder eingegan⸗ | gen, sich erhoben, und vom Streite wieder die Schlange aus, und also in einEigenes eingegangen, vermeinende, sie wären ee, und haben also die auffere Welt nit der innern vermischet.
+
+Welches ein Ungrund, und sich ja wol vorzusehen ist, aß man in hoͤchster Demuth gegen GOtt bleibe stehen, bis aus dem 'eingefüeten Körnlein ein Baum wachse, und zur e komme, und der Geist GOttes eine Gestalt in ihme
+
+35. Dann aus der Blüͤhte gehet der Morgenstern auf, daß ich der M — selber lernet kennen, was er ist, und was GOtt 36. Ich füge dem Herrn wolmeinend zu wissen, daß die ige Zeit wol in acht zu nehmen ist, dann der 7te Engel in walypsi hat seine Posaune gerichtet: Es stehen des Him⸗
+
+Kräfte in sonderlicher Bewegung, darzu beyde Thüren fen undingrosser Begierde, Licht und Finsterniß; wie ein es wird ergriffen werden, also wird es eingehen: we ssen boch wird erfreuen, das wird der ander verspot⸗ Darauf ergehet das schwere und strenge Gerichte uͤber
+
+| 11„5und chue hiemit den Herrn samt d en Seinigen in die nun
+
+Liebe JEsu Christi befehlen. Datum Goͤrlitz, * supra. B.
+
+Dier
+
+XXI. Send⸗Brief.
+
+An Herrn Christian Bernhard.
+
+vom 29. Octobr. 1621.
+
+Summarien.
+
+bis Wunsch, Ermahnung und Trost. g. I. Seine Schriften werden von verschiedenen deuten zu Beuten bal brechen 2.3.
+
+gleich sie auch weit und ferne, bey Hohen und Niedrigen, bekant worden. ie
+
+Ema⸗
+
+[p. 91] XXI. ee Teen.
+
+Ep.*
+
+Ne uche wgekebter hoher Freund ich wuͤnsche euch einig und alleine, was meine Seele 446 von Gott wünfchet und begehret, als rechte wahre Er⸗ kentniß GOttes in der Liebe JEsu Christi, daß euch der schoͤne Morgenstern möchte stets aufgehen, und in Euch leuchten durch dieses Jammer -Meer zur ewigen Freude: Und ver⸗ mahne Euch in der Liebe Christi aus meinem hertzlichen Wol⸗ meinen, ja auf angefangenem Wege in Christi Ritterschaft fortzufahren und bestaͤndig zu bleiben, daß das Paradeis⸗ Baͤumlein moͤge wachsen und zunehmen, ihr werdet eure ale Frucht hernach wol sehen, und ewig geniessen, und euch— nugsam damit ergoͤtzen; ob sie gleich eine a hen irdischen Acker verdecket wird, so waͤchset dochd ee ohne alles Aufhalten.
+
+2. Wie es eurem Bruder zu Beuten, dem ihr babet diese
+
+Schriften geliehen, gehe, und was er vor ein Judi choͤpfet hat, waͤre mir lieb zu wissen, dann es hat sonst eute zuBeuten, welche auch etwas davon haben, und die dern heftig begehren: und wuͤrdet ihr eurem 1 und andern einen Dienst daran erzeigen, so ferne sie was den mehr begehren, zu leihen, ich will euch in kurtzem mehrers schicken, das euch noch mangelt. 3. Herr Caspar Lindner, Zöllner zu Beuten, und des
+
+Raubes ist auch ein Liebhaber;; so er etwas würde 2 — so thut ihr wol, daß ihr ihm was leihet, er pfleget es ni geaufzuhalten. Diese Schriften sind weit und Fe in viel ander, bey Hohen und Niedrigen, auch theils n ten Leuten bekant und erschollen, Gott richte sie zu fein Ehren. 4. Ichuͤbersende euch mit Zeigern 3 Saͤcke zu dem Korn,
+
+so den Rudolf schicken will, ich bitte, habet doch so viel Muͤ⸗ be und nehmet es zueuch; wann Specht oder der ander von der Rausche wird hinuͤber kommen, so ihr ihn sehet, saget ihm es doch, daß ers auflade, ich will mich auch nach ihme umse⸗ hen, und ihms anmelden; er wird mirs wol bringen, wieder freundlich Anden, Und befehle euch in die e
+
+JEsu Christi.
+
+Datum ut supra.
+
+Euer Dienstw. Freund und Br.
+
+[p. 92] Br.aa. Theosophische Send⸗Briefe.
+
+we.
+
+Der XXII. Send⸗Brief.
+
+Hrn. Hans von Schellendorf. vom 1. Januarii, 1622, aM e vorgelegte
+
+Summarien.
+
+Frage gehet aus der Magia. . u Autoris Bes
+
+See 4Stellung feines Bedenckens darüber. 2. Das Elementische und Spderische Reichistin allen Dingen dieser Welt doch in einem beweglicher als im andern. 3. Die Trähnen an ebenen Bildniß sind von der magischen Bewegniß des Geistes, r re worden. 4. Ein Stein stehet, wie alle Wesen, ulphur, Sal, Mercur ius; so in zweyerley eingeschlossen, meinem Beiflichen und in einem keiblichen. s. So auch der Mensch. „ Gleichwie der Meusch der gantzen grossen Welt Eigenschaft in sich dat: alse hat er auch der Erden und Steine Eigenschaft in sich. 7.
+
+Bann er nun stirbet, so erlischet das Auffere Feuer;g.die Seele aber
+
+Alt denspderischen peib, und in demselben magisch die Dinge, darinn sie e Vetierde eingeführet, bis ihn das Gestirne auch verzehret.9. Dar⸗ um laflen
+
+sich verstorbene Menschen sehen. 18. reden auch wol.u.Dem⸗ ch het auch hier der Feichen- Stein geweinet, durch magische Gewalt dees Sternen⸗Geistes, dessen Bildniß er ist.12. Verschiedene Ursachen, so ben Beiit dazu können veranlaffet haben. 13. Autor schreibet nur Jon der11 wie es geschehen koͤnnen; ohne weiterem urtheil. 4 Er is seines Geundes hierinn gewiß, denn er ist ihm von GOtt ges ben 15. will iedoch bey Leichtsinnigen davon nichts gemeldet has
+
+Nota.
+
+Diese Epistel il dieDMagiam, melhe von berDerflorbenen |1 en. Hans von 575den 75
+
+sie gemeint, Hens man Dietrich von Ale men von A inde0 an dem De ie g geweinet, e,„ als wenn sie e Frage anlangende ist dieselbe dunckel im Verstande, und durfte einen Joseph, der es erklaͤrete, dann es ist ein 90 Ding, und fast wunderlich, darauf gar übel u antworten ist,dann es gehet aus der Magia.
+
+2. Jedoch E. Gestr. mein Bedencken darüber zu eröffnen, daß ich Darüber wolte schliessen und ein gewisses Urtheil ich mein Bedencken kurtzsummarisch anzeigen / und E.Gestr. und andern von GOtt erleuchteten Mannern ihr Bes dencken auch lassen: Hatte mir es aber GOtt gegeben zu pruͤ⸗ das stelle ich zu E. G.judicio, welche die Gelegenheit der bewusten Person mehr weiß als ich, dann alle Ding gehen nach der Zeit, Maß und Ziel desselben Dinges.
+
+E.
+
+J 3
+
+3 Ein
+
+[p. 93] XXI Epistolæ Theofophice.
+
+Ep. 28.
+
+3. Ein harter grober Mauerstein hat kein Leben, das be⸗ weglich wäre, dann das Elementische, vegetabilische Leben ste⸗ het darinnen stille, und istmit der ersten Impreffion eingeschlos⸗ fen, aber nicht derogestalt, daß es ein Nichts sey. Es sst kein Ding in dieser Welt, da nicht das Elementische, sowol das sy⸗ derische Regiment innen laͤge, aber in einem mehr und wirckende als im andern, und koͤnnen doch auch nicht sa⸗ 5 gen, daß die 4Elementen samt dem Gestirne, nicht ihre Wir⸗ ckung taͤglich in allen Dingen haͤtten. J. Weiln aber dieses ein harter Stein ist, so ist das Mira⸗ ckel fast uber den gewöhnlichen Yauff der Natur, so kann man habe, gar nicht sagen, daß es eine natürliche Ursache im Steine daß die Wirckung des Steines solches erraͤge; sondern es eine Magische Bewegniß, von dem Geiste, dessen Bildniß dem Steine ausgehauen und abgemodelt worden. 5. Dann ein Stein stehet in dreyen Dingen, wie dann alle Wesen in diesen dreyen Dingen stehen; aber in zweyerley eingeschlossen, als in einem Geistlichen und einem Keiblichen; und die drey Dinge, darinnen alles stehet /was in dieser Welt Sal,ur, Mercurius; in zweyen EigeEns ist, das istP,Y, V, Solph igen
+
+schaften, als in einer Himmlischen und einer Irdischen, gleich⸗ wie GOtt in der Zeit wohnet, und die Zeit in GOtt, und ist doch die Zeit nicht GOtt. sondern aus GOtt, als ein Bild der Ewigkeit mit welchem sich die Ewigkeit abmahlet. 6. Also ist auch der Mensch aus der Zeit und auch aus der Ewigkeit, und stehet auch in dreyen Dingen, als in Sulphure, Mercurio und Sale; in zweyen Theilen, als eines aus der Zeit 5 der aͤussere Leib, und das andere in der Ewigkeit, die . ele.
+
+* hr
+
+7. Weiln dann der Mensch und die Zeit sowol die Ewigkeit, in Einem Regiment stehet im Menschen, so ist uns die 7 20 ietzt nachzusinnen: Dann der Mensch ist eine kleine Welt au dergrossen, und hat der gantzen grossen Welt Eigenschaft in sich: Also hat er auch der Erden und Steine Eigenschaft in sich, dann GOtt sprach zu ihm nach dem Falle: Du bist Erde, und solst zu Erde werden, das ist, Sulphur , Mercurius und sal z darinnen stehet alles in dieser Welt, es sey geistlich oder leiblich, bis auf die Seele, welche in solcher Eigenschaft nach der ewi⸗ gen Natur Recht stehet, wie ich inmeinen Schriften genug dargethan habe. 8. Wann
+
+|ru
+
+[p. 94] Br. 22. Theosophische Send⸗Briese.
+
+8.
+
+sr
+
+Wann nun der Mensch stirbet, so verlischet das aͤussere
+
+Lacht im aͤussern dulphure mit feinem äusserlichen Feuer, darin⸗ nen das Elementische Leben hat gebrennet; so zerstaͤubet der Leib, und gehet wieder in das, daraus erist kommen, die Seele aber welche aus der ewigen Natur ist erboren, dem Adam vom Geiste GOttes eingeführet worden, die kann nicht fferben, dann sie ist nicht aus der Zeit, sondern aus der ewigen Gebarung.
+
+9. Undso es nun ist, daß die Seele hat ihre Begierde et⸗ zeitliche Dinge eingefuͤhret, und sich damit gepresset, in n wan sohatfie desselben Dinges Eigenschaft in ihre Begierde geim⸗ und haͤlt es magisch, als haͤtte sie es leiblich, den Leib sie zwar nicht halten, verstehet den Elementischen, aber ee Leib haͤlt sie,bisihn das Gestirne auch
+
+Und geschiehet ofte, daß sich deute kassen nachihrem To⸗
+
+0 in Haͤusern mit ihrem eigenen Leibe; aber der Leib ist und der Seelen⸗Geist ziehet den nur kalt, todtund erstarret, durch den Sternen⸗Geist an sich, also lange bis der Leib fau⸗ wird auch mancher Leib vom Sternen⸗Geist also sehr es ; | let durch der Seelen⸗Begierde, daß er langsam | —
+
+Dann der Seelen Begierde fuͤhret den syderischen Geist darein, daß die Elementen gleich wie mit einem Sternen Leben resset werden: Sonderlich so die Seele noch nicht zur kommen ist, und daß sie ihr bey Leben des Leibes bat etwas zu hart eingebildet, und ist ihr der Leib indessen (ehe sie hat ihre Begierde aus dem Dinge wieder ausgefuͤhret)
+
+abgestorben, so lauffet ihr Wille noch immerdar in derselben Impreshon, und wolte gerne ihre Sache in Recht ver:
+
+deln; kann aber nicht: so suchet sie Ursache ihres Hals eus, und wolte gern in der Ewigkeit in Ruhe seyn, aber das geimpreste Ding mit dem Sternen ⸗Geist, hat fein Treiben, bis Vorzeiten im Pabstthume ist et⸗ es das Gestirne — Be gehandelt worden, aber nicht mit geuugsamen Ver⸗
+
+12. Sokann E. Gestr. diesem nun leichte nachsinnen, wie n haben Wasser ⸗Steine es zugegangen sey ‚daß die Leiche gerbeinet :Es ist nicht geschehen aus des Steines Gewalt, sondern
+
+[p. 95] XXI Epissolæ Theoföphick, Bp. 227
+
+sonau Ger waltndes Geistes, dessen der Stein ist, dse des en
+
+Bildniß er istso;ist es auch nicht aus der Seelen eignen
+
+sentz geschehen, sondern magisch, durch den Sternen⸗Geist;
+
+Es⸗ das Gestirne am Seelen⸗Geiste hat sich in den ischen Geist im Steine geimpresset, alles nach der . — er daß ihr ist etwas schweres Seelen; siehathiemit angedeut/et bey Lebe-Zeiten im Gemüͤthe gelegen und derselbe Schwer⸗ muth ist noch im syderischen Geiste in ihr gewesen; Dann Christus sprach: Wo euer Schatz ist,da ist auch euer
+
+Hertz.
+
+Match. 6: 21. Item, in der Offenbarung JEsu Christi stehet:
+
+Es sollen uns unsere Wercke nachfolgen. Apoc. 14.13. 13. Mein geliebter Herr, alhie weiter zu richten gebuhret mir nicht, bedencket euch, ob nicht gemeldete Person vor ihrem hat in sich gehabt, ob ihr je⸗ Ende etwas schweres anliegende mand groß Unrecht gethan, oder ob sie iemand Unrecht gethan hat; oder ob die Kuͤmmerniß um ihren Ehe⸗Gemahl oder K der sey gewesen; woferne sie eine heilige Person gewesen, daß,die Ihrigen etwann einen boͤsen Weg Ki aber gesehen gen, daß sie möchte also durch Gewalt des syderischen Geistes, durch den Stein solche Andeutung zur Besserung haben gege⸗ ben; bedencket euch nur recht mein Edler Herr, ich lasse mich beduͤncken, ich werde es ziemlich unter diesen obgenanten Din⸗ gen einem getroffen haben.
+
+14. Weil ich aber die Per son nie gekant, auch nichts von ihr weiß, so stelle ich E.Gestr. das Judicium selber anheim, sie wer⸗ dens besser wissen als ich, was ihr angelegen sey gewesen. Ich schreibe allein von der Möglichkeit, wie es geschehen kann, und falle weiter kein Urtheil. 15. Daß aber solches möchte verlachet werden, lasse ich mich nichts irren, ich verstehe (GOtt Lob) diesen Grund gar wol, dann ein solches Wissen babe ich nicht von oder durch Men⸗
+
+schen gelernet, sondern es istmir gegeben worden; und wolte es mit weiterer Erklaͤrung genug gruͤnden, so ich solte von menschlicher Eigenschaft schreiben,wieein Mensch im Leben und im Tode sey. 16. Ubersende E.Gestr. das Büchlein von viertzig Fra⸗ gen, da werdet ihr weitern Grund sehen, welches doch im Bu⸗ che vom dreyfachen Leden, besser ins Centrum aller Wesen gegründet ist und vielmehr in dem Buche de Signatura Rerum. Benebenst bitte ich mit diesem Gutduͤncken, und Erklaͤrung der Frage,
+
+[p. 96] Br. 23. Theosophische Send⸗ Briefe. 39
+
+Frage, bey leichten beuten nicht viel zu melden, dann einer Ku⸗ begeböret Futter, und den Verstaͤndigen Verstand; der Gott⸗ lose richtet gottlos /derVerstaͤndige pruͤfet alles: Melde ich wol⸗ mei. er ut supra.
+
+J. B.
+
+Nota.
+
+wegen des weinenden beichsteins, woher und wie es zugehe? Manne Jacob Boͤhmen ohn alle Condition ie sel. man t, die es zuvor mit der verstorbenen Adel Frauen gehabt worden. Hernacher aber hat der Proponens faberbench: tet, daß gedachte Adel⸗Frau, die eben unter diesem beichen. Steine begraben gelegen, bey Lebens⸗Zeiten grossen Kummer getragen um 2 Söhne willen, welche wieder ihren Willen in den Krieg ge⸗ „ und gleich zu diesem mal, als solche Traͤhnen aus des Steinern des Augen hervor gequollen, in ungern vor dem Tuͤrcken geblie⸗
+
+3 1 1 ist auch gi 5 auf etliche Universitaͤten near aber Phantasey und Teufels: Werck gehalten worden. Die beichstei⸗ ne des Vatern und — Mutter seynd neben einander bey den Graͤ⸗ Wand aufgerichtet eingemauert, mit dem Gesichte gegen rgen⸗Lichte gewendet gewesen.
+
+Magnet zeucht den andern; ein Licht erklaͤret das andere;
+
+ebe und 5 ennn
+
+Staͤrckere in ein —— net in
+
+Schwachen ze.
+
+1642. Abraham von Franckenberg. Octobr.
+
+Dar greg
+
+Der XXIII. Send⸗Brief.
+
+An Herrn Carl von Endern.
+
+Vom 14. Febr. 1622. Summarien. Unsch. 6. 1. Autoris Liebe zu den Brüdern im Gebet. 2. Sein
+
+Traetat von der Gnaden⸗Wahl. 3. Der Religion⸗Streit soll nabend aufhören. ibid.
+
+Autor hat feine Originalien abf 520 ben lassen, 4. 5. dabey ein Stuck derselben verloren gangen. 6. 2 3 Walter und Mag. Nageln. 7.
+
+Heil im Leben JEsu Christi in uns! er, in Christo geliebter Herr: Sch. wuͤnsche dem
+
+— Unser
+
+Herrn Gottes reichen wircklichen Segen in feiner Kraft, daß ihm moͤge des Perleins Grund, im Leben Jesu Christi im Goͤttlichen scheinenden Lichte in feinem Lo⸗ ⸗Lichte, in ihme selber offenbar werden, und viel Fruͤchte dens zu Goͤttlicher Beschaulichkeit und ewiger Freude wircken! Als dann den Herrn allezeit als einen Liebhaber des Studi Sa. Far ran habe, und wuͤnschte ER nichts mehrers, 12
+
+[p. 97] Ep. 23.
+
+daß ich ihme zur Danckbarkeit vieler erzeigeten Wolthaten möchte das koͤnnen geben, was mir unwüͤrdigen armen Mens
+
+schen der Allerhoͤchste in kurtzer Zeit aus feinem Gnaden⸗ Brunnen hat gegeben. 2. Und wiewol ich darmitzuthun nicht Macht habe, soist mir doch all mein Gemuͤthe in feinem Centro also ent, Kun daß ich es hertzlich gern wolte meinen Brüdern in Chriffoi theilen, als ich dann stets zum HErrn flehe, daß Er doch wolte der Menschen Hergen eröffnen, daß sie das möchten verstehen, und in ihnen in eine rechte lebendige Wirckung kommen. 3 Und wolte treuer Meinung dem Herrn nicht bergen, daß ich ietzo seit dem neuen Jahr, auf Begehren etlicher Gelehrten und auch hohen Standes⸗Personen babe einen Tractat von der Gnaden⸗Wahl, oder GOttes Willen uͤber die Menschen geschrieben, und den aus einem solchen Grunde ausgefuͤhret, daß man wird koͤnnen alle Heimlichkeit, beydes der aͤusseren sichtbaren, elementischen, und dann auch der inneren verbor nen geistlichen Welt, sehen, und hernach die Sprüche Heil. Schrift insonderheit darauf gesetzet und gegruͤndet welche von GOttes Willen zur Verstockung, und denn v dem nicht wollen verstocken reden, und sie mit einander con⸗ cordiret, daß man kann den rechten Verstand 1
+
+Wr hen, und also dargethan, daß ich zu Gott hoffe, es soll ei
+
+Ursache geben, den Streit in der Kirchen aufzuheben: Wel⸗ ches erkant worden, daß die Zeit nahe und vorhanden sey, daß der Religion Streit soll in die Temperatur eingehen, aber mit grossem Untergang des falschen Reiches zu Babel, das sich hat an Christi Stelle gesetzet, neben andern groffen Bew» änderungen, welches, ob man mir das vielleicht nicht glaͤuben wolte, sich aber in kurtzem darstellen wird, und ich zum Nach ⸗ dencken und Christlicher Betrachtung solches meinem lieben Herrn andeuten wollen. RE 4. Und ist dis die Ursache daß ich dem Junckern W daß, ob ihme gesiele den Tractat, welcher von sechs und drey⸗ sig Bogen ist, zu lesen, oder selber nachzuschreiben lassen, oder etwas darinn zu notiren, welcher, weil es ietzo unter der eder im Nachschreiben bey Hn. Johann Rothen ist, und taͤglich etwann drey Bogen fertig werden in seinem Nachschreiben daß ichihme solche wolte überfenden ,er wolle sie nur lassen den
+
+Nickel, welcher taͤglichdem Junckern herein lauffenrn or-
+
+Pe
+
+[p. 98] Br.23. Theosophische Send⸗Briese.
+
+denn ich habe verheissen diesen Tractat ehestes den⸗ selben begehrenden Herren und Personen zu zuschicken, als sie denn heftig darum bey mir anhalten. Soes aber der Juncker wolte lassen nachschreiben oder sel⸗ ber für einelbung vor sich nehmensosolte es alsobald gefordert werden. Welches ich in des Junckern Gefallen stelle, ob if» me daran gelegen sey , und uͤbersende diese Materia vom Anfan⸗ sechs Bogen; und werden taͤglich etwan drey Bogen koͤn⸗ nen geliefert werden 6. Wo es aber ietzo nicht des Junckern Gelegenheit gibt zu lesen, oder lassen nachschreiben, so bitte ich mir sie wieder zu
+
+Feen millerS.aßer nuraleineteen, so wil cs hne, che wegschicke, uͤbersenden.
+
+Denn es ist ietzo faͤhrlich weg⸗ en, wegen der Unsicherheit, als ich denn um die acht und viertzig Bogen, welche ich Herrn Michael Endern nach Hirschberg auf Begehren Herrn Johann Rothen schickete, kommen bin, und muß es ietzo lassen anderweit wieder nach⸗
+
+schreiben, welches eine solche Materia über Gencha ist, welche manehen wird sebr lieb und nuͤtzlich seyn. Herr Balthasar Walter hat mir aus Lüneburg, alda er sich ieho aufhaͤlt, geschrieben, und anbefohlen den Juncker salutiren, und nicht für Ubel zu vermercken, daß er ihme chrieben hat, denn die Post war zu eilend gewesen; ich ihm auch wieder geschrieben, durch eine zufaͤllige eilende nach Magdeburg, und meiner Sachen mitgeschickt, ich ihme habe lassen nachschreiben. Er meldet daß gejogenb=5 15 a hal⸗ Herr2 Ve 15ee e den Junckern der Liebe JEsu fehle
+
+Des Junckern allezeit Dienstw.
+
+Christi.
+
+Teutonicus.
+
+Der XXIV. Send⸗Brief.
+
+An Herrn Balthasar Nitschen, Tuchmacher in Troppau.
+
+Vom 28. April. 1622. Summarien. s bertzliche Freude über GOttes wirckende Liebe in feinen
+
+Kindern. b.1.3. Es ist einetrübfelige Zeit; 4. eine Zeit grosses
+
+Erustes; 5. und wird nabend Gottes Geist über alles Fleisch aus
+
+[p. 99] ‚ri en:
+
+DasThierabermitfamg der
+
+Huren zerbrochen
+
+Ep. 24. | werden.
+
+en baba dune gen idenSheen le 5 fi, 7. und treuhertzige Mittheilung feiner Goͤttlichen Geschenckeı bungrige Hertzen. 8. LEE,
+
+Der offene Brunnquell im Sertzen JIEsu Christi /sey ahfer Erxquickung und stetes Licht.
+
+Jörenvester, Wolbenamter, in Christo geliebter und Freund; neben treuer Wuͤnschung von unsert
+
+Heiland Christo, feiner Liebe und Gnade auch bil zeitlichen Wolfahrt bevorn. 2. Nachdeme ich von frommen Leuten erfahren habe, der Herr ein grosser Liebhaber GOttes und des scudii Sapik tix sey, so habe ich nicht Umgang nehmen mögen, ihn trer
+
+Big, wiewol unerkanter Weise, mit diesem Brieslein aus
+
+Chrislichem Gemüthezuersuchen, und Kundschaft mitihme | zu machen.
+
+Kr.
+
+3. Dann mich erfreuet von Hertzen, so ich vernehme, wie Gottes Liebe in feinen Kindern wircket, und erfreue michmit und in ihnen im Lebens- Baume JEsu Christi, in und aus wel⸗ chem wir gezeuget und neugeboren werden, und Aest Zweiglein in ihme sind.
+
+4. So hat mich mein Gemuͤthe beweget, mich mit dem
+
+Herrn, als meinem Mitgliede im Geiste und Liebe Ehristi z ersuchen und zu ergetzen, wie wol abwesende, aber im Willen
+
+Geiste gegenwaͤrtig, zuvorab in dieser truͤbsellgen Zeit, da wir auf allen Seiten mit Feinden umgeben sind, und unser Baum in vielen Aesten und Zweigen sehr schwach und duͤrre ist. 5. Weil uns aber die Gnaden⸗Sonne JEsus Christus a. ietzo mit einem hellen Schein anblicket, und feine Thür der Lie:
+
+be und hohen Erkentniß in vielen unterschiedenen Gaben auf: thut, daß wir feine grosse Wunder feiner unüͤberschwanckli⸗ chen Weisheit erkennen, so vermahnen wir uns billig unterein⸗ ander in Liebe als Bruͤder, und gehen von Babel, welche im
+
+Zorn⸗Feuer SOttes angebrant ist, aus, dann es ist wahrlic eine Zeit grosses Ernstes, da wir uns moͤgen mit grossem ste suchen, und sehen wo wir sind. ist, daß man anietzo viel herrlicher, 6. Und wiewol es
+
+Ern
+
+schoͤs ner Zweige, gleich mit Verwunderung im Baume Christo, auch mitten im Feuer GOttes siehet wachsen, welches ich mich hoch erfreue, daß uns die Gnaden⸗Sonne in Lauterkeit wie
+
+[p. 100] Theosophische Send- Briefe.
+
+Br. 24.
+
+anblicket, und daß Gott feine treue Verheissung dannoch eme halt; IndEr in Esaia saget, Er habe uns in feine Haͤnde eingezeichnet: welches in etlichen Menschen sich anietzo kraͤf⸗ tig erzeiget, wis der Brunnquell JEsu Christi in ihnen Fräftig wircket, welches in kurtzem noch machtiger geschehen wird, wieEr unsinfeinen Propheten verheissen hat ,daß Er in der letzten Zeit will feinen Geist ausgiessen über alles Fleisch, und das Evangelium von GOttes Reich soll in aller Welt gepre⸗ diget werden, zueinem Zeugniß über alle Voͤlcker: Und auch nmehro die Zeit verhanden ist, da das Thier mit samt der Apocalypfi soll zerbrochen werden: So heben wir bil⸗ ligunsere Haͤupter auf zu den Bergen GOttes, und erfreuen darum, daß sich unser Erloͤsung nahet.
+
+ieweil mir dann GOtt ein Pfündlein vertrauet hat, m edlen Geschencke, aus dem Quellbrunne Christi, diehimmlische und auch die natürliche Weisheit zu er⸗ beydes kennen; Sohabe ich destomehr Ergetzlichkeit an den Kindern der Weisheit Christi: und wiewol ich dem Herrn möchte un⸗ seyn, so soll er mich aber in feinem Gemuͤthe nicht frem⸗ halten, welches ihn als ein Glied in der Liebe Christi, dar⸗ und bitte so es ihm gefällig wäre, mich in feine verbindet;
+
+und Freundschaft einzunehmen, bis unser edler n. Baum, Christus, nach Ablegung dieser Hütten in uns werde, und wir in einer bruͤderlichen Gemeinschaft yeinander wohnen, alsdann wollen wir uns dessen was wir alhier in bruͤderlicher Einigung ange⸗ fungen haben, und wollen uns derweilen, wiewol abwesende des Leibes, im Geiste und Vorschmacke desselben, untereinan⸗ vermahnen und troͤsten, und bitte, es freundlich zu vers n errn D. Guller kann der Herr etwas von mei⸗ e8.eBeym
+
+sehen, sd er Lust hatte, sich in Goͤttlicher Ubung in ein Geschencke GOttes ist vertrauet worden,
+
+Dingen zu beschauen, welche zwar hoch, sel 11 n derallerbesten Einfalt geschrieben sind: weil iches gar gerne treuhertziglich hungrigen Hertzen mit. Herrn samt den Seinigen in die sanfte Liebe JE⸗ empfehlen, und bitte, wegen meiner, den Herrn
+
+Butovski, auch als einen Liebhaber der We o wol
+
+[p. 101] Ep. a5.
+
+G. B. meinetwegen freundlich zu salutiren. ut supra. Des Herrn Dienfiniliger JB.
+
+Der XXV. Send⸗ Brief.
+
+An Herrn Christian Benhard. Vom 21. Junii, 1622.
+
+us dem ai
+
+Feuer in BabelSummarien soll ein heysch.einend dicht, aber d urch eine
+
+6. 80Nren stliche Geburt, gefobo llen , daß sie nicht 10ne iffen werden. 2. Vom Büchlein von der wahren Buße, 3. so e Enter eigener Proeeß gewesen, dadurch er das Perfein 5 mitgetheilet willen , ye
+
+Man dttlichen Gnaden⸗Gaben wuchern. 6,
+
+. SaaleKg de Buse dateineorofe Ernte. dry Das offene Bruͤnnlein Itssu Christi, sey unsere ckung und stetes Licht!
+
+In 78
+
+Ein gar lieber und werther Freund, ich wuͤnsche euch 9 und den eurigen, und allen Kindern Christi,
+
+Reiche unserer Englischen Bruͤderschaft, GOttes Liebe und Gegen , daß der Quellbrunn Christi in uns he, gruͤne und viel Fruͤchte trage, in welchem Gruͤnen un wahre neue Wieder geburt stehet, und bosse gewiß zu 4 als mir dann gezeiget ist, die Zeit sey nahe und schon v den, da er sehr gruͤnen soll, welches ich mich dann er
+
+Und ob ich schon anietzo das Feuer in Babel sehe brennen soll doch aus dem Feuer ein hell scheinend Licht entstehen, u ches die * Nacht vertreiben soll, aber durch eine Ram aͤngstliche Geburt wird das geboren werden.
+
+2. Vermahne meine lieben Brüder, sie wollen sich doch dieselbe aͤngstliche Geburt einergeben, auf daß sie im
+
+GOttes im Lichte mit ausgruͤnen, und nicht in der Turba griffen werden, welche grausam anietzo um sich greiffet mik
+
+Hoffart, ihren Eigenschaften, als mit Geitz, Neid, Zorn und und ihre gewachsene Frucht gewaltig ihrem Feuer zu zeucht, in welchen sie schon an vielen Orten gewaltig brennet.
+
+3. Ich babe auf Begehren und Bitte, ein feines Büchlein von der Poenitentz und wahrer Busse, neben einer Formu⸗ la des Gebets, (welches alles gantz ernstlich, und ein7 — nfang
+
+[p. 102] Br. 25. Theosophische Send⸗Briefe.
+
+Anfang und Eingang in die Theosophische Schule) ist, gema⸗ chet, welches ich auf Begehren hiemit Herrn Rudolph von Gersdorf zu Weicha schicke; bitte ihme dasselbe zu uͤbersen⸗ den, und vergoͤnne euch dasselbe zu eroͤffnen, und so es euch ges faͤllet, balde nachzuschreiben, allein das Schreiben an Herrn Rudolph bleibet zuversiegelt. Wollet es ja nicht, wo es seyn weil es nicht mag, über drey oder vier Tage bey euch aufhalten, viel ist, sokann esbalde nachgeschrieben, und Herrn Rudolph geschicket werden.
+
+Auch eures Herrn Bruders hierinnen nicht zu vergessen, dann es wird ihme fonder Zweifel lieb und ein rechter Schlüffel seyn, welchem ich neben meinen Grusse viel Gutes goͤnne, als meinem eigenen Leben. 4. So ihr dieses Büchlein werdet in die Praxin einführen,
+
+sowerdet ihr feinen Nutzen bald erfahren, dann es ist aus ei⸗ en Zweige durch das Feuer erboren, und ist eigener Proceß gewesen und noch, dadurch ich habe eben
+
+Perlein Goͤttlicher Erkentniß erlanget: Und ob ich wol Schwachheit leben, als alle andere Menschen, so ist mir Perlein lieber als aller Welt Gut, um welches wil⸗ len ich alles gerne leide und trage, daß ich das nur moͤge er⸗
+
+Ferner füge ich hiemit, wie daß mir Hr. D. Adam Brux, r Sprotta nun zum dritten mal geschrieben, und aft gesuchet, heftig gebeten, ih⸗ von diesen Schriften zu leihen: weil ich dann fast 18 von den meinen zu Hause habesowollet ihme doch mit et dienen nachzuschreiben, und sehen ob es angeleget sey zu enz wo ihr aber vermercket daß es ein Vorwitz sey ich doch nicht hoffe, so werdet ihr ferner wissen zu thun.
+
+bet let und wuchert, wie ihr erwuchert seyd worden,
+
+Sörtlicher Gnaden, ihr werdet wol einernten, was ihr ausgesaet. Wollet ihme doch, so bald ihr koͤnnet, dies an ihn geschriebenes Brieflein, neben einem Tractat eurer Schriften mit schicken, und ihme anmelden, daß er es nicht lange, wie etliche thun, auf halte. Er ist mir zwar geruͤhmet worden, iedoch kann man es sehen was GOtt thun will.
+
+7. Mit dem hiemit gesandten Büchlein von der Busse, wann ihr das habet nachgeschrieben, moͤget ihr wol wuchern, dann es hat eine grosse Ernte, und ist keinem sehr wide
+
+[p. 103] XXI, Epistolæ Theofophicz. Ep.26.
+
+der aber auch ein Mensch und nicht Thierit 2 der sanften Liebe JEsu Christi empfehl.
+
+bew.
+
+upra
+
+Dienstw Br.
+
+Feen.
+
+Herrn Christian Bernhard. 1. 30
+
+Im Jahr 1618.
+
+2500 rad
+
+ESummarien.
+
+Vutor ermahnet im Guten bestaͤndig zu bleiben.
+
+losophorum. 3. Wer den erwehlet, muß wol el le albier im Finstern damit sitzen, wird aber doch ewiges Licht von erlangen. 4. AI. u7 Gottes Gnade, Seil und ewiges Licht, ram ser Exquickung!
+
+Ooörenvester, Wolbenamter Herr, gar gan nd
+
+Freund; Euch sind meine gar willige und g Dienste iederzeit, neben Wuͤnschung aller lieb
+
+2. Euer an mir gethanes Schreiben im Advent b empfangen, auch verstanden Euer gar emsiges und C ches Gemuͤthe und Begehren: und wiewol ich Euch fre bin, habe aber aus Herrn Walters Schreiben gem
+
+Bericht euers Wesens und Person; Und noch vielmeh mir zu erkennen Euer gar sehnliches und emsiges Begeh eurem an mich gethanen Schreiben: und bin hierinn alleine willig, Euch in meine Kundschaft und Freundsche nehmen, sondern erfreue mich des zum hoͤchsten, eines so
+
+3. Dann wie ich von Herrn Waltern und auch euch se ber vernehme/ so ist euch der Autor der selben unbekant; er [p. 104] wel dle
+
+schoͤne Dinge sehen, so von der Welt her meistentheil
+
+Ad.verborgen gewesen, et 7 8 um welches alle Gelehrten ges
+
+5 etwann gemeinet, sie hätten den edlen aber die Zeitistnoch nicht vorhanden gewesen, welches
+
+Gnade der letzten Welt goͤnnet. empfohlen.
+
+Damit Goͤttlichem Schutze
+
+Datum ut supra.
+
+allez eit Dien stw. Ew
+
+1ER
+
+J. B.
+
+Send⸗Brief. XXVII. ee);
+
+Ohne Datum.
+
+An Herrn Christian Bernhard.
+
+Nr
+
+Summarien.
+
+Studium Sapientia ist Autori lieber, als die gantze Welt.
+
+Beg Er ist en £ranck gelegen; ibid, hat dennoch grosse erde,daß GOttes Kinder in den Goͤttlichen Geheimnissen mögen. 2. Der innere Mensch hat fein Sehen so wol als 3 nur muß die Seele die Liebe suchen. 2. Dann so der
+
+Gott sehen will, muß er in GOtt seyn. 4. Der ernste Wille eschwängert. s. Die Kinder G Ottes freuen sich ineinander. 7. einer Ritter werden, so muß er kämpfen. 8. Hat er das Krantz
+
+Lein einmal aufgesetzet, brauchts weiter keines Forschens. 9. Es stehet Bere: Zeil bevor; 10. drum laßt uns ja die Yugen recht aufs wir nicht t ihre Strasse bekommen. u. thun, dami emp
+
+[p. 105] BE
+
+XXI. EpiRoleTheofophien. |Ep.27. Emanuel!
+
+Brender, Wolbenamter Herr, ere
+
+Euer Heil und Wolfahrt wäre mir lieb; Ich wolte euch laͤngst gerne mit einem Schreiben ersuchet haben, dann mich verlanget gleich euren Zustand zu vernehmen, dies weil ihr euch in das Studium Sapientiæ ergeben, welches mir lieber ist als die Welt, und wuͤnsche daß ichmich eines Ne mit euch darinnen nach Nothdurft besprechen, als verhoffe, inkurtzem in eurer Gegend zu reifen, so wolte * euch zusprechen. Bisher bin ich durch GOttes Verhaͤ 5 05705 hindert worden, dann ich bin 6Wochen an der boͤsenSo ten zugefuͤgeter Kranckheit darnieder gelegen, und kaum 925 der zur Gesundheit kommen. 2. Wie es auch unserm Herrn Waltern gehe oder wo der
+
+sey/so ihr etwas wisset von ihm, bitte ich mir zu melden; Auch wie es euch in eurem studio gehet, ob euch auch die Gnaden⸗ Thuͤre mehres eroͤffnet wird, die hohen Goͤttlichen Geheim ⸗ iffe zu ergreiffen, wäre mir schrlieb zu wissen, dann ich ver⸗ offe, so ihr euer Leben dahin gerichtet, und die Practie in Ubung gebracht, es solte euch die Thuͤre aufgethan werden, daß ihr mit dem rechten Magischen Auge in Magiam F sehen sollet.
+
+3. Dann so ausgehet das Gewaͤchse des neuen Me nchen;
+
+so hat es auch sein Sehen; sowol als der aͤussere Me diese äussere Welt siehet, also auch der neue die Göttliche Welt, darinnen er wohnet, dann es stehet geschrieben: Des Men⸗ schen Geist,im Geist Christi, forschet alle Dinge, auch die Su der N und wiewol es nicht am Forschen und Hoch⸗ fahren gelegen ist,so der Mensch in der Vernunft forschen w sondern an demütbiger Ein⸗Ergebung, daß die Seele 4 55 begehret als GOttes Liebe, so sie nur dieselbe erreichet; ret alsbald der freudenreiche Geist Gottes der Se ildniß oder die Gleichniß GOttes, in die mie iche Schule der edlen und theuren Erkentniß ein, da sie dann mehr gelehret wird als in der Schule dieser Welt, dann sie studiret in der Schule der Goͤttlichen Weisheit. Der H.
+
+Geist ist ihr Schulmeister, auch ihr Wissen und Verstand.
+
+4. Es ist kein Wissen von GOtt, daß eine Creatur GOtt Eennete oder fühlete, u nur allein diese, welche in GOtt fe ni 4
+
+[p. 106] Br.27. Theosophische Send Briefe.
+
+N andy euchtin sich des Baums Saft; ist der Mensch mit feinem Willen⸗Geiste nicht in GOtt gerichtet, sondern in die Auffere Gern so ist er an GOtt blind. 5. Begehret er aber GOttes mit Ernst, so wird er in sel⸗ nem Begehren mit GOttes Wesen geschwaͤngert, und wird ihm Gottes Wesen zum Eigenthum gegeben, darinnen der Geist GOttes MORE; und er wird GOttes Kind, als der 6. Weil ich ee von Herrn Waltern vernommen, wie daß ihr euer Leben in Gottes furcht gerichtet, und mir auch eure Schriften zeigen, daß ihr eine Begierde nach Goͤttlicher und nach dem Bruͤnnlein Christi habet, so bin ich ien euch zu schreiben, und desselben Weges zu erin⸗ 885 es bringet mir eitel Freude, so ich GOttes Kinder ER Saen sich ein Zweig des Baumes in dem Baume m andern erfreuet mit lieblicher Essentz; also auch bie er4
+
+5 so euch aber etwas miß verstanden in mei⸗
+
+Beach n wolte, so ihr mir das nur andeutet, soll in leichtern Verstand gebracht werden; oder so es euchzu ef im Sinne wäre, wolte ichs euch kindlicher und einfältiger darthun, darmit das Perlein moͤchte mit Lust gesuchet und ge⸗ werden, dann es ist nicht vergebens gegeben.
+
+eil ihr aber einer aus den ersten seyd, denen es GOtt
+
+Bi So ermahne ich euch in rechter Christ⸗ eigen
+
+Liebe, daß ihr wollet fleißig das edle Kleinod suchen, ihr gewiß erlangen; dann bb sichs gleich anliesse, als mol:
+
+t, lasset euch das nicht erschrecken, und sincket nicht, stehet stille; Will einer Ritter werden, so muß er kaͤmpfen; am naͤhesten ist, dawill Ers nicht entdecken, feine
+
+|* der müssen probiret werden: wir muͤssen wieder den alten am in Streit ziehen, und ihn toͤdten, soll ein neuer aus⸗
+
+Werdet ihr das schoͤne Kraͤntzlein nur einmal aufsetzen, so wirds hernach keines Forschens mehr doͤrfen, ihr werdet woleinen haben, der forschen wird, der sich in euch suchen und wird, daß ihr werdet GOtt und Him̃elreich nach demsel⸗ ben Anblicke schauen, habe ich euch freundlich wollen erinnern. 10. Es laͤsset sich eine sehr schwereZeit an, dann das Jahr,
+
+sewol Dienachfolgenden, 5
+
+Sabre grosser 1
+
+[p. 107] XXI. Epistolæ Theosophiex.
+
+Ep.28.
+
+seyn, dann der Huren Kranckheit und Tod ist kommen, aberfe wills nicht mercken, sie spricht noch: ich bin Jungfrau! Je Wunden seynd unheilbar.
+
+1. Lieber Freund Christian, lasset unsjadie Augen recht aufthun, daß wir sie lernen kennen und vor ihr fliehen sonst moͤchten wir ihre Plage und Straffe bekommen: es ist kein Schimpf, es kostet deibund Seele, hoͤchste Gut. Und thue J. B. euch der Liebe JEsu Christi empfehlen! Der Name des HEren ist eine feste Burg, der Gerechte läuffet dahin, und wird erhoͤhet!
+
+Der XXIIX. Send⸗Brief.
+
+An Dr. Christian Steinbergen, al. Bale,.
+
+tin Thirnes.
+
+Vom 6. Julii, 1622.
+
+2 aim
+
+Summarien.
+
+Sn und Truͤbsal ist das erste Kennzeichen der Edlen womit sie ihre Kinder bezeichnet, g.1. zu einem sesten und treuen Band zwischen ihr und der Seelen, ibid. und ernite
+
+Vorsatz Ne nachzufolgen, 2. damit sie eine rechte Rebe am
+
+stock Christi sey ibid.
+
+Der ergebene a des H. Oelke ei den der Drache muß getödtet werden. 4.5. Die neue ifheine eingeborne Gnade. 6. Deutung etlicher Wörter in
+
+Bi, une als der mitternaͤchtigen Crone, 8.9. in deren Offenbarung der Religion⸗Streit aufhören soll. 10. Von der Natur⸗Sprache. u.
+
+wiTinctur. 12 13. 9 aqua ficca Sophorum, ibid. Wasser S der Weisen wird recommandiret. 14.
+
+Unser Seil im Leben I Esu Christi in uns!
+
+> Hrenvester, Hochgelebrter, Christlicher lieber Herr
+
+Freund, neben hertzlicher Wuͤnschung Göttlicher Liebe und Gnade, daß dem Herrn möge das Brünnlein Goͤtt⸗ licher Liebe durch die Sonne des Lebens aufgeschlossen wer⸗ den, aus welchem das Goͤttliche Wasser ausquillet, als mir dann nicht zweifelt, der Braͤutigam habe seine Braut, als die Seele des Herrn, zu solchem Brunnquell geruffen, weil ich vernehme, daß ihn GOtt ins Creutz und Truͤbsal hat gestellet, so ist dasselbe das erste Kennzeichen der Edlen So⸗ pbien, womit sie ihre Kinder bezeichnet, dann sie pfleget sich durch die Dornen GoOttes Zorns zu offenbaren, re 5
+
+[p. 108] Br. 28. Theosophische Send- Briefe.
+
+schoͤne Rose auf dem Dornstrauche, so fern nur die Seele ihr
+
+Geluͤbdniß und Treue haͤlt; dann es muß ein getreues und festes Band zwischen der Seelen und dieser feuer⸗brennenden Liebe GOttes seyn. 2. Der Mensch muß in solchen Vorsatz treten, daß er will in Christi bitter Leiden und Tod eingehen, und feiner Sünde und boͤsen Eitelkeit darinnen täglich absterben, und ernstlich Gott bitten um die Erneuerung seines Gemuͤthes und Sin⸗ nen; er muß vom Heiligen Geiste gesalbet und erleuchtet wer⸗ den, und Christum mit feinem Leiden, Tod und Auferstehung anziehen, daß er eine rechte Rebe am Weinstocke Christi sey, in deme Christus selber wircket und herrschet nach dem inwen⸗ digen Grunde feines Geistes, welches Gebeimniß im Glauben ergriffen wird, da alsdann Gottheit und Menschheit nach dem⸗ selben inwendigen Grunde beysammen ist, auf Art wie ein Feuer das Eisen durchgehet, da das Eisen wol seine Substantz behält, und aber doch in eitel Feuer (so lange das Feuer dar⸗ innen brennet) verwandelt ist.
+
+23.
+
+Nicht daß es die Creatur in eigener Macht ergreiffe, sie wird ergriffen, wann sich der Wille Gott gantz iebet; und in demselben uͤbergegebenen Willen herrschet der Geist Gottes, und der Wille ist der wahre Tempel des — Christus wesentlich wohnet, nicht nach licher
+
+Creatuͤrlicher Art, sondern gleichwie das Feuer im
+
+Eisen, oder wie die Sonne in einem Kraut, da sich der Sonnen
+
+Kraft mit der Tinctur des Krautes bildet und wesentlich ma⸗ chet;
+
+also auch im Geiste des Menschen zu verstehen ist, da
+
+sich die H. Kraft GoOttes in des Menschen Geiste und Glau⸗ ben bildet, und ein geistliches Wesen wird, welches alleine der
+
+8⸗Mund der Seelen ergreiffet, und nicht der irdische
+
+Mensch in Fleisch und Blut, welcher toͤdtlich ist: Es ist ein Wesen, darinnen Christus im Menschen wohnet;
+
+es wird der Himmel Gottes in die kleine Welt eingepräget, und ist eine Offenbarung der Stätte GOttes, da das Para⸗ deis wieder gruͤnet und Früchte traͤget. 4. Deswegen muß der Drache von ehe getoͤdtet werden; oher wol dem irdischen Fleische noch anhanget, wie die Schale oder Rinde am Baume, so lebet doch der Geist in GOtt, wie S Paulus saget: Unser Wandel istimHimmel; Phil. 3:20.
+
+Und Christus auch sprach: Wer ne Fleisch isset und trincket kan mein
+
+[p. 109] ‘
+
+XXI. Epistolæ Theosophicæ.
+
+m,
+
+Ep.28.
+
+mein Blut, der bleibet in mir, und ich in ihm. Joh. 6e 56.
+
+Item: Ohne mich koͤnnet ihr nichts thun. Joh. 15:15. 5. Deswegen sage ich, ist einer ein wahrer Christ, sowird ers in Christo; er ist in Christi Leben und Geist eingeboren, und zeucht die Auferstehung Christi an,dann also wird ihm die Genugthuung Christi zu theil, und also uͤberwindet stusin ihme auch die Sünde, Tod, Teufel und Hoͤlle, und wird er in Christo mit GOtt versoͤhnet und vereiniget. 6. Dann die neue Geburt ist nicht eine von aussen zuge⸗ rechnete Gnade, daß wir uns nur mit Christi Bezahlung doͤr⸗ fen troͤsten, und in Heucheley der Sünden beharren; Nein, sie ist eine kindliche, eingeborne Gnade, daß GOtt den bekehr⸗ ten Menschen Christum mit der Rechtfertigung anzeucht, daß ihn Christus auch in ihme selber von GOttes Zor in n seiner Offenbarung erloͤse, anderst ist keiner ein Christ, er heuchle wie er wolle. 7. Wegen der Deutung etlicher Wörter, und essen, der Herr an mich begehret, so in meinem Buche, AURORA ge⸗ nant, angedeutet, (welche fast heimliche Deutungen haben, und mir vom Hoͤchsten zu erkennen gegeben worden sind.) ich dem Herrn hiermit, daß es ietzo wol nicht gut in
+
+Briefen ausführlichen davon zu schreiben sey, weil die Zeit gefaͤhrlich, und der Feind Christi grausam wuͤtet und tobet, bis noch eine kleine Zeit voruͤber ist: Jedoch will ich ihm eine kurtze Andeutung geben, ferner nachzusinnen. ens 8. Als erstlich, von der Mitternaͤchtigen Crone, ist eine zweyfache Deutung: Die erste deutet an die Crone des Ce⸗ bens, als den Geist Christi, welcher mitten in der grossen Fin⸗
+
+sterniß soll offenbar werden, als in der Beaͤngstigung der sinn⸗ lichen Natur des Gewissens, da eine sonderliche Bewegung vorhanden, so koͤmmt der Braͤutigam, als die Kraft WERT5 in Mitten solcher Bewegung. 9. Die andere Deutung ist eine Figur des Aufferlichen
+
+Relches, da die grossen Verwirrungen und Streite werden als der seyn, und die Voͤlcker im Streit steben, so ist die Figur
+
+Sieg dar unter angedeutet, wie es in der geistlichen Figur ste⸗ pet, wie es werde gehen, welche Voͤlcker endlich siegen werden, und wie unter dessen in solcher truͤbseligen Zeit werde Chri⸗
+
+stus offenbar und erkant werden, und wie nach und in sel⸗ cher Zeit der Trubsal werden die grossen Geheimnisse .
+
+[p. 110] Bra8. Theosophische Send⸗Briefe. 103 os ͤn ko bar werd fe Geheimniß /den verborgenen GOtt in Dreyfaltigkeit, er⸗ inwelcher Erkentniß sich die fremden Voͤlcker werden nen, en Christen werden. bekehrund
+
+10. Auch ist darunter angedeutet, wie der Sectirische
+
+Grun⸗ arung Offenb solche werde Religi Streitinder gehen dann es werden alle Thuͤren aufgethan werden, und pe n werden die unnuͤtzen Schwager ‚welche ietzt als Nies gel vor der Wahrheit liegen, weggethan werden, und sollen Christum erkennen, welche Offenbarung die letzte seyn la e wird: Da die Sonne des Lebens soll über alle Voͤlcker schei⸗ nen; und als dann gehet das böfe Thier mit der Hu ( unter den Characteren Ra Ra: RPAM*RP angedeutet wird)
+
+zum Ende, wie in Apocalypsi zu sehen ist. Diele ausführliche darf man aniego noch nicht klaͤrer machen, es wird
+
+sich alles selber zeigen, und dann wird man es sehen, was es ge⸗
+
+Kk.) l. wesen ist. dann es ist noch gar eine andere Zeit. Ca am der Natur⸗Sprache berichte ich dem Herrn, I essich also verhalte; aber das, was ichdarinnen weiß und verstebe, kann ich keinem andern geben oder lehren: Andeu⸗ wie sie zu verstehen sey, aber es n ich einem wol geben, ein groͤsser Raum darzu, und muͤste eine muͤndliche Une terredung seyn, es laͤsset sich nicht schreiben.
+
+1. Auch wegen des Philosophischen Werckes der Tinctur, ist nicht also blos zu gehen wiewol ich das nicht in der Praxĩ
+
+Babe, eslieget das Siegel GOttes davor, dessen mit feinem wahren Grunde zu geschweigen, bey ewiger Straffe; es wis⸗ sedann einer gewiß daßes nicht gemißbrauchet werde, und ist auch keine Macht darzuzu kommen,es sey dann einer selber von ehe das, was er darinnen suchet: Es hilffet keine Wissen⸗ es gebe dann einer dem andern die Tinctur in die Haͤn⸗ gsienicht praͤpariren, er stehe dann gewisse in maer der neuen Geburt.
+
+3. Dann es gehören 2 Centralische Feuere dazu, darinnen die Macht aller Dinge stehet, zu welchem gar leichte zu kom⸗ menso,der Mensch recht dazu geschicket ist: der Herr wolle
+
+sich darum auf solche feine angedeutete Weile mit keinem Gol⸗ oder Mineralien nicht bemühen, es ist alles falsch; es muß das allerbeste in Himmel und in der Welt dazu seyn, von dem Obern und Untern, wache,nahe und weit ist8Die taͤtte
+
+[p. 111] XXI. Epistolæ Theosophicæ. Ep.A0.
+
+da esanzutreffen ist, aber nicht einpe Staͤtte istüberal, ist tuͤchtig dazu; Es kostet auch gar kein Geld, ohne Seit und Nahrung des Leibes gehet sonsten konteeseiner 2 flbereiten, und noch weniger. Die Welt muß zum Him⸗
+
+#### n. Es
+
+mel, und der Himmel zur Welt wieder gem ist nicht von Erden, oder Steinen, oder Metall, und! von dem Grunde aller Metallen;
+
+aber ein geistlich ches mit den 4 Elementen umgeben ist, welches auch auch die Elementa in Eines verwandelt, ein gedoppelter Mereu-
+
+Hei „ledoch nichtQuecksüber noch einander Mineral oder ekall.
+
+Kies
+
+14. Der Herr lesedenWasser Steinder weisen / darin und dazu klar, welches im Drucke ist: nen istviel Wahrheit, Die Arbeit ist geringe, und die Kunst gar einfältig, es möchte es ein Knabe von 10 Jahren machen, aber die darin⸗ nen ist groß, und das allergroͤste Geheimniß, ein ieder muß das selber suchen. Es gebühret sich nicht das Siegel GOr⸗ tes zu brechen, dann es lieget ein feuriger Berg davor: des⸗ wegen ich mich selbst davor entsetze, und warten muß, obes GSttes Wille sey; wie wolte ich dann andere davon aus fuͤhr⸗ lich lehren? Ich kann es noch selber nicht machen: Ob ich schon etwas weiß, so soll doch keiner mehr bey mir suchen als ich habe, doch klar genug angedeutet. Und empfehle euch, fürn allen Kindern Gdttes in die Liebe JEsu Christi:4 ut supra. J. B.
+
+Der XXIX. Send Brief
+
+An Herrn Christian Bernhard. ) Vom8. Julii, 1621.
+
+bittet um toror dittet umB Beförderung bee de n eKitten. ge1. Em
+
+N..ein Christ aufinstehende ee Zeit gabe one? und in derselben erfolgen werde. 2.
+
+Der offene Brunnquell aus dem Sertzen JEsuebe Aunsere Exquickung.
+
+Abrenvester wolbenamter Herr hoher Freund. Meben Wuͤnschung aller heülsamen Wolfahrt fuͤge demselben, daß die beygelegte Sachen Herrn Rudo von Gersdorf zu Weiche gehören, und gelanget mei Bitte, ihr wollet sie doch dahin befördern, wo nichtzufälligeG2 2 |
+
+[p. 112] Br.30. Theosophische Send⸗Briefe. 105 heit waͤrealsdann feine Leute alle Sonnabend zum Sagan sind, sowolle er sie doch mit eignem Boten hinschicken: inne liegende Pfennige zur Beförderung desselben; würde es nicht reichen wolte ich,was mangelt, erstatten, bitte es doch aufs eheste zu befoͤrdern. Ob ihr das Buch von den drey Prins cipien habet vonSpechten empfangen, weiß ich noch nicht, —.— aufs eheste zu solviren; denn es fallt anietzo mancher⸗ ley fuͤr/ daß ichs oͤfters bedarf, wegen guter frommer Sucher
+
+sozumir kommen. halber
+
+2. Beyneben melde ich ihme auch, sich nur fertig zu machen, dann die heftige Tr bulation wird etliche unserer Landschaften heftig ruͤhren. Suchet euch nur fleißig in den Frieden den uns Ehristus herwieder bracht hat, einzuschliessen, und als mit einer Mauer zu verwahren. Dann Babel wird einen ernsten Trunck muͤssen austrincken, und eben den, den sie mit Greueln eingeschencket; alle Ketten und Banden werden en und nicht halten und wird sich alles theilen, als es also stehet,fokoͤmmet alsdann balde das Zerbre⸗ chen. Die Hoheit der Welt ist ietzt selber blind, und will es nicht sehen was sie ihnen selber anthun; wird aber in kurtzem sehend werden/ wann das Jammer wird uͤber Leib und Seele en.
+
+Und thue euch in die sanfte Liebe JEsu Christi em⸗
+
+E.Dienstwilliger
+
+IJ. B.
+
+XXX. Send⸗Brief.
+
+#### u. Geben urfüpra
+
+An Herrn Friederich Krause, Med. Doct. zum Soldberge. Cal. zu Lignitz.)
+
+vom 17. Juli, 1622.
+
+Summarien. über der annahenden Pilien-Zeit. . 13. Zu was
+
+Ende Gott feine Weisheit durch albere und geringe beute offen⸗
+
+I bare? 4. darüber sich auch die Nachkommen wundern und hoch erfreuen werden. s. Aukoris Schriften geben in Praxi Medica grosse Eröffnung, 6. 7. und wird balde eine Zeit kommen, da sie werden nuͤtze F begeben
+
+Verehrung ist, als ein Schatz für dem Geber, wol ien in Ott aufgehoben; 9. das Perlein aber ist nicht um deffen wil⸗ von e, sondern umsonst; wie uns Gott in Christo
+
+Ver offene Brunquell im Sertzen Iksu Christi, sey
+
+1. \#
+
+Hrenvester, wolgelehrter, guͤnstiger Herr und Freund, in Christo geliebter Bruder. Neben herlicherWün- nyvnser
+
+Erquickung und stetes Licht.
+
+schung
+
+[p. 113] XXI Epistolæ Theosophicæ.
+
+Ep. 30.
+
+schung GOttes Liebe, Erleuchtung und Segen! Mir ist lieb
+
+= N mich eures fleißigen Studierens in isheit.
+
+U 2 icher
+
+2. Und noch vielmehr dessen, daß ich vernehme in eurem
+
+Schreiben, daß euch GOtt das Hertze und Geist zum Verstan⸗ als ich dann gar de aufgethat, hanund wünsche von Hergen, nicht zweifle, daß das edle Perlen⸗Baͤumlein der Menschheit Christi, in eurem in Adam verblichenen Paradeis⸗Baͤumlei im Geiste Christi, und in feiner zarten Menschheit in uns innern Menschen, wieder gruͤne, und rechte Früchte auf GOt⸗ tes Tisch trage. 3. Und daß die edle Rebe an Christi Weinstocke feste einge⸗ pfropfet sey ,und daraus ausgruͤne, und unter der jetzigen Dornen: Welt, gleich als ein Wunder neben uns ausbluͤhe den Sommer Christi, in feiner Lilien⸗Zeit, helfe andeuten; in⸗ massen sich dann ietzo hin und wieder dergleichen Zweigle aus Christi Rosen⸗Gaͤrtlein erzeigen und gleich als ein W.
+
+der GOttes mitten im Feuer der Truͤbsal zu Babel gruͤnen. 4. Daß ihr aber meldet, daß euch meine Schriften hatten etwas Anleitung gegeben, des dancken wir billig GOtt, der sei⸗ ne Wunder und tiefe verborgene Weisheit, auch durch albere, ungeuͤbete Menschen offenbaret, und gleich als die Kinder in der Wiegen, der Welt in ihrem Babel und Fabel⸗Wercke, zu einem Lichte darstellet, und sie mit der albern Einfalt uͤberzeu⸗ get. daß ihr Werd, Willen und Leben vor Ihme nur ein Schni werck, und selb⸗ertichteter Tand ist, und nicht in Ihme det und eingewurtzelt stehet.
+
+5. Inmassen uns dann der Hoͤchste auietzo vielfältig zuer⸗ N kennen gegeben, davon inkurtzer Zeit seine Wunder inseiner verborgenen Weisheit ans Licht der Welt in Schriften gege⸗ N ben, darinnen sich unsere Nachkommen, und diejenigen so den Verstand von SOtt darzu erlangen, sich nicht allein wundern, sondern auch hoch erfreuen werden.
+
+. Ich habe von Herrn Waltern vernommen, daß der Herr etwas von meinen ersten Schriften habe empfangen, wel⸗ che er ihme gelieben lasset; Ich wuͤnsche aber, daß er die letzten auch hatte, welche viel heller klarer und tiefer gegründet, darin⸗ nen man den geoffenbarten GOtt in allen feinen Wundern und
+
+Wercken klar erkennen mag.
+
+ame
+
+7. Sie würden euch an eurer Praxi an vielen Enden 8
+
+[p. 114] Br.3. Theosophische Send⸗Briefe.
+
+Eröffnung geben, dann der Natur Grund ist fast helle darin⸗ nen — sowol auch unser schöner dust⸗ Garten Christi der neuen Wiederburt. 8. Es wuͤrde euch mein lieber Herr Friederich, viel Nutz zu zeitliuncdheweigrer Ubung schaffen, hoffe ihr werdet euch alsein eingepflantzet Zweiglein nicht vom Baume der Goͤttli⸗ cen Weifbeitabtrechendann es wird balde eine Zeit kommen, daeswillnüge seyn, und ihr euch werdet unter den Erfflingen,
+
+so aus Babel ausgehen, erfreuen. 9. Wegen der Verehrung, welche ich empfangen, sage ich grossen Danck, und will es in meinen Willen in das Mysterium zu seiner Belohnung einfuͤhren, und soll euch als in Ihme wol aufgehoben seyn, und erkenne hieran euer recht eiferiges Hertze. 10. Wiewol das perlein hierum nicht gegeben wird sondern umsonst, wie uns GOtt in Christo gethan hat, und wie ein Glied dem andern schuldig ist. Und empfehle euch der sanften LiJE esu bChr isti, und vermahne das Perlein nur weiter zu suchen. Datum ut supra. J. B.
+
+Der XXXI. Send⸗Brief.
+
+An N. N.
+
+vom 1. Novembr. 1622.
+
+Von Toödtung des Anticheifts in uns selbs. Me Datbietung der brüberlichen diebe. g. . Oer Untichrif Verla
+
+Steine. 12. In unsrer vermeinten Religion stecken wir mitten
+
+J. 13. Der angenommene Purpur⸗Mantel decket den Anti⸗ au, 14, und heuchelt den eigenen Willen. 15. Nur die, so aus der ben, erlangen das Perlein, 16. und niemand kann sich Christi tröiten ,als der Cbristum angezogen hat, 1. Anfang in der Tauffe geschiebt. 18. Darum muß ein Christ eijto geboren fen, 19. und Gottes Geist Christi Tempel beftVeh. 20, Kein Thier kann Ehrißi Sleisch essen, 21, sondern m. ei 15 Bu ristun
+
+[p. 115] XXI. Epistolæ Theosophicæ. Ep. 3t.
+
+Christum angezogen hat. 22. Die Vernunft muß man 7 5 achten; dann delete Weisheitistan
+
+GOtt blind e ain feinen Schriften 5 in Bra hat. 25eree
+
+Christo JEsu. in r UnHeil > Hrenvester, wolbenamter Herr sich wünsche dem durch GOtt in Christo FEfu feine Gnade, Er und Segen. Nachdeme ich vom Herrn Doctor Ar.berich⸗ tet worden, wie der Herr, als ein Christlicher Mitbruder im
+
+HeErrn, im Zuge des Vaters zu Christo Jesu in berglicher
+
+Begierde inne stehe, und in seinem Gemuͤthe dahin arbeitet, wie er moͤge zu Goͤttlicher Beschaulichkeit in sich selber kom⸗ men; als habe ich auf Begebren des Hrn Drs. nicht rd ersuchen, und lassen wollen, den Herrn mit einem Brieflein zu ihme aus Christlicher Liebe wollen den Weg zu Goͤttlicher Bes
+
+schaulichkeit und Empfindlichkeit aus meinen Gaben ein we⸗ nig andeuten, und ihme gleich hiermit des Saftes meines klei⸗ nen Perlen Baͤumleins im Geiste und Leben JEsu Christi,in bruͤderlicher Liebe darbieten, als ein Ast oder Zweig am Bau⸗ me dem andern schuldig ist; und bitte es wol zuverstehen,
+
+— ihme vielleicht zu feinem Eifer möchte mehr Ursachen geben. der Herr in sich selber wol empfindet, daß an⸗ 2. Sintemal ietzo der Antichrist in Babel das Regiment in der C hrist in feiner Eigenheit und Fleisches⸗Lust führer, und aber un fer lieber Emanuel treulich davor gewarnet, auch gesaget, daß Fleisch und Blut das Himmelreich nicht erben solle7 15: 50. Und aber der Antichrist anders nichts suchet gehret als nur zeitliche Ehre, Macht urd GewaltinFle Lust aufzusteigen, und sich dieser Antichrist ietzo eine lange also hoͤflich mit ChristiPurpur⸗Mantel zugedecket daß mam ibn nicht hat erkant, sondern für heilig geehret, welches mir
+
+Gnaden des Hoͤchsten ziemlich wol offenbar worden: Als wol⸗ te ich dem Herrn mit wenigen andeuten, was ein * . on Antichrist im Menschen seyr zusernerer N
+
+3.Chriffus spricht: Wer nicht verläffee Hau)
+
+Ge, Gut, Weib, Kinder Brüder und Schwestern,
+
+/deristnicht mein leugnet sich selber, und folget Mir nach ger und Diener. Lue. 426. Item: Ihr muͤsset umkehren, u werden als die Kinder, oder aus dem Wasser und Gei
+
+[p. 116] Br. 31. Theosophische Send» Briefe.
+
+neugeboren werden, sonst sollet ihr das Reich GOttes nicht sehen. Matth. 18:3. Solches ist nicht angedeutet daß einer solle von Weib und Kind aus seinem Beruffe und Stand in eine oͤde Wildniß lauffen und alles verlassen, sondern den Antichrist, als Meinheit, Deinheit, Ichhheit.
+
+4. Wer zu Goͤttlicher Beschaulichkeit und Empfindlichkeit in
+
+sich selber gelangen will der muß in feiner Seelen den Antichrist tödten, und von aller Eigenheit des Willens ausgehen, ja von aller Exeatur, und in der Eigenheit des Gemuͤthes vie ärmefte Creatur werden, daß er nichts mehr zum Eigenthum habe, er
+
+seyin was Stande er wolle.
+
+5. Und ob er gleich ein König wäre, so soll doch fein Semi thealle Eigenheit verlassen, und sich in feinem Stande, auch 0 zeitlichem Gute, nichts mehr achten als GOttes 8 dner darinnen GOtt und seinen Bruͤdern dienen e, undddaß alles das er hat, er nicht zum Natur⸗ Recht hat „daß es feine sey, sondern daß es feiner Brüder er sey, daß ihn Gott habe zu einem Amtmann und er darüber gesetzet, und dencken daß er seinem Herrn e diene, welcher von ihme wolte Rechenschaft fodern.
+
+Auchfomuß er feinen eigenen Willen, welcher ihn zu
+
+Besitz der Eigenheit treibet, in ihme gantz und gar den und Sterben in Tod JEsu Christi einergeben, und Gott demürhiglich in rechter Ernster Busse und Umwendung edeber diesen boͤsen Willen zur Eigenheit und zeitlichen e in dem Tode JEsu Christi toͤdten, und feiner Seelen in die wahre Kindschaft GOttes einfuͤhren, daß er ib⸗ mehr selber wolle oder begehre, sondern daß GOttes Willeinihme fein Wollen und Begehren werde, daß er in sei⸗ l Faa — 7 nach dem Seelen⸗„Willen, und GOtt ben. e Ser1 — Willen in die hoͤchste Demuth in GOt⸗ vertaͤuffen, und ihme einen solchen Willen in Gnaden⸗Verheissung schoͤpfen, daß er diese Stunde von aller Eigenheit dieser Welt Wollust ausgehen, und nimmer mehr wieder darein eingehen, und solte er gleich aller
+
+Sat da darinnen seyn, und sich gang in die hoͤchste Nie⸗ und Unwuͤrdigkeit vor Gott mit der Poͤnitentz ver⸗ ae aberin der Seelen die Gnaden⸗Verheissung ergreflen,
+
+[p. 117] XXI, Epistolæ Theofophicz.
+
+Ep.31.
+
+und darinnen stehe alsneinKriege vorsma seinem nn Feinde,
+
+Fri da es Leib und Leben gilt. 8. Wann dieses geschiehet, so wird fein eigen Wille, als der Antichrist, im Tode Christi ergriffen und getoͤdtet, und wird alsobald seine Seele als ein neues unverstaͤndiges Kind, das sei⸗ nen natuͤrlichen Verstand der Selbheit hat verloren, und hel vor Gott, als ein junges Kind vor feiner Mutter, anzu flehen, und setzt sein Vertrauenindie Mutter, was ihme die geben
+
+9. Und das ists, das Christus sagete: Ihr muͤsset umkeh⸗ ren und werden als Kinder, Marth. 18.3. und alles verlassen, und Mir nachfolgen. Dann Adam ist von GOttes Willen in einen eigenen Willen getreten, und hat in eigener Begierde der Schlangen Sucht und Teufels Willen in sich ein daß er sich und seine Lebens⸗Gesellen (welche in gleicher Con⸗ cordantz stunden, in einem einigen Willen, der war GOttes)
+
+in eine Trennung eingefuͤhret, da sich die ee Natur haben aus der gleichen Concor dantz ausgefuͤhret, e iede Eigenschaft in ihre Selbeit, als eigene Begierde, davon ihme die Luft zu Bos und Gut entstunde, und zuhand Hitze und Kälte auf ihn drang, und er des heiligen Lebens in der
+
+Concordantz (da er in einen einigen Element Tebete, dadie 4 Elementen in gleichem Gewichte in ihme waren) erstarb.
+
+10. Davon ihm Gott sagete: Iß nicht vom Baum Bo⸗
+
+ses und Gutes, oder du stirbest, Gen. 2:17. da meinete erden
+
+Tod am Himmelreich, als des schoͤnen Englischen Bildes, welches zu hand in der falschen eingefuͤhrten Schlangen Be⸗ gierde erstarb, und nun soll und muß wieder in Christi neugeboren werden; so muß dieser falsche Schlangen:
+
+von ehe in Christi Tode durch rechte umwendung sterben und aus diesem Sterben stehet Christus in seinem Geiste in dem in
+
+Adam gestorbenen Himmels⸗Bilde in uns wieder auf, und wird der innere Mensch in Christi Geist neugeboren.
+
+#### u. Dieser neue Geist kommet zu Goͤttlicher e
+
+in sich selber, und böret GOttes Wort, hat Goͤttlichen
+
+stand und Neiglichkeit, und mag Mysterium Magnum in Goͤtke lichen und Natuͤrlichen Geheimnissen in sich schauen; und ob ihme wol das irdische Fleisch in feiner Neiglichkeit noch an⸗ haͤnget so schadets ihme doch alles nichts.
+
+12. Er ist indieser neuen Geburt wie ein fixes Goldim 1 5 ü
+
+[p. 118] Br.zi. Theosophische Send Briefe.
+
+des Steines Grobheit das Gold nicht mag zer⸗ rechter Wille ist der irdischen Sucht abge⸗ — re storben, und begehret des Fleisches Lust alle Stunden zu toͤd⸗ len, töbtat es auch ohnUnterlaß, dann alhie zertrit des Wei⸗ bes Same, als der neue Mensch in Christo geboren, der gen WillenimFleische, als dem Antichrist, den Kopf. . Und füge euch Ehristlich und bruͤderlich, mein geliebter Herr in gar guter Pflicht und Treuen zu wissen, daß wir in unserer vermeinten Religion, da man doch nur immer zancket oder einander laͤstert um die Buchstaben, noch mitten in Babel
+
+stehen, und aͤrger nie gewesen ist; da man sich ja ruͤhmet, man sey aus Babel aus gangen, und habe die wahre Religion, wel: ichin seinem Werth lasse. ches 14. Aber so viel mir im HErrn meinem Gott erkant ist, mir don Gott gegebenen gar edlen Talent, so sage inmeinem ich daß man jahat den Mantel Christi mit feiner Purpur⸗Far⸗ be in Christi Blut eingetauchet und zur Decke umgenommen, aber damit nur das Antichristische Kind des eigenen Willens ecket, und hat dem Antichristischen Huren⸗Kinde fremde angestrichen.
+
+. Dann man heuchelt ihme gar wol, und decket es mit Chri⸗ sh Leiden, Verdienst und Tode zu, und troͤstet es, Christus habe für dasbezahlet, es soll sich nur des Verdienstes Christi troͤsten, und als eine Genugthuung im Glauben annehmen; und weiset uns also eine von aussen zugerechnete Gerechtigkeit. 16. Aber es hat ein viel ander A B C im wahren Verstande, es gilt kein Troͤsten noch selber Wollen, Lauffen oder Rennen. Das beiden und der Tod Christi wird nicht dem Antichristi⸗
+
+© Sehen Thier in der Selbheit gegeben; sondern denen, die da allen Creaturen aus der Eigenheit ausgehen, und sich in das Leiden und Sterben JEsu Christi gantz einergeben, des eigenen Willens in und mit Christo sterben, mit Ihm begra⸗ ben werden, und in Ihm eines neuen Willens und Gehor⸗
+
+sams ausstehen, und der Sünden gram werden; welche Chri⸗ inseinem Leiden, Spott und Verfolgung anziehen, und auf sich nehmen, und unter feiner Blutfahne Ih⸗ Ereutze ame nachfolgen, denen wird es gegeben, diese ziehen Christum in seinem Proceß an, und werden im innern, geistlichen Men⸗ schen Christi Gliedmaß und Tempel GOttes, der in uns
+
+Po
+
+17. Kei⸗ [p. 119] n:
+
+XXI. Epistolæ Theosophiex. _Ep.at,
+
+17. Reiner hat sich Christi Verdienst zu trösten, er begehen dann Christum in sich gantz anzuziehen, und ist auch eher k rechter Christ, erhabe Ihn dann durch Meint d E welches das Kind unter seine Be gelobet N hernach in Thaͤtlichkeit soll erfolgen, oder ob sich einer haͤtte ab⸗ gewandt, sollersich in solche Umkehrung wieder einwen Und sage im Grunde, daß manchem der Mantel Ebristi, mit deme er den Antichrist zudecket, und doch nur ein Zhieraid wird zum hoͤllischen Feuer werden. 19, Dann ein Christ muß aus Christo geboren sepn,und
+
+Menschen.
+
+W 4 abe 20. Dann nicht das Thier besitzet GOttes Geist, den Tempel Christi, als Christi geistliches Fleisch und Er1 uns: Dann Christus sagete: Wer nicht würde essen in sich. Fleisch des Menschen Sohns,derhaͤtte kein 5 67 21. Nun muß ja ein rechter Mund darzuseyn, der ese kann, dann dem Thiere wird es nicht geg vielweniger der Schlangen Enti, Dann ein ieder Geist iffetvon feiner
+
+Mutter, daraus er erstanden ist, welches ich einem ieden Ver⸗
+
+staͤndigen zu erwegen gebe, und alhier nur angedeutet babe, ah ein Sch seyn muͤsse.
+
+So er sich aber einen Christen ruͤhmet, dann ein Tbier x iffein Christ, sondern der mit dem Heiligen Geiste in Ebristi Tod getauffet wird, der Christum hat angezogen und in C ri⸗
+
+stihimmlischem Fleische und Blute lebet, welcher das mahl Christi geschmecket hat, und mit Ebristo zu Tische ge⸗ sessen ist, der ist ein Christ, der in Christi Fußstapfen wandelt, und das Antichristische boͤse Thier im Fleische und Blute, wel⸗ ches einem Christen gleichwol anbaͤnget, immerdar toͤdtet, bindet, nicht Gewalt laͤsset, und sich in die Anfechtung 227 tig ergiebet, welche ihm viel hundertfaͤltig zu einer Probe Lauterung gegeben werden. 23. Ein Christ muß das A BC zuruͤcke lernen, und die
+
+Weisheit feiner Vernunft für thoͤricht achten, auf daßea
+
+[p. 120] Br. 22. Theosophische Send⸗Briefe.
+
+uz
+
+stusin ihm eine Gestalt gewinne, und er der himmlischen Weisheit faͤhig werde.
+
+44.
+
+Dann die Weisheit der aͤussern Welt ist an Gott blind, und siehet Ihn nicht, und da doch Alles in GOtt lebet und webet, und Erselber durch alles ist, und doch kein Ding besitzet; ohne N Eigenen Willens erstirbet, das m er besitzen, und besitzet es gerne, dann es will ohne Ihn Nichts, und istam Ende der Schoͤpfung und auch im Anfang. 25. Davon ich dem Herrn wol melden koͤnte, so es alhier die Gelegenheit gebe, welches ich in meinen Schriften gewal⸗ lig dargethan und aus dem Centro und Verstand (al. Urstand)
+
+aller Wesen erklaͤret habe, und alhier nur ein wenig in Forma angedeutet, was eines Christen Zustand und Wesen sey, ob dem Herrn luͤsterte weiter nachzusinnen, und sich in diesen Pro⸗ ceß zu ergeben, als ich dann hoffe, er sey vorhin drinne. 26. Aber zu mehrer bruͤderlichen Ergetzlichkeit mit einem kleinen Brieflein wollen andeuten und mich mit dem Herrn ergegen, in der Hoffnung und im Glauben, derinuns wircket und ist, bis wir dieser Huͤtten eines los werden, und uns in
+
+GSoͤttlicher brüberlicher Einigkeit und Beschaulichkeit werden pbhernach vollkoͤmlich mit einander ergetzen.
+
+27. Und solches auf Anhalten obgemeldten Herrn Dodtoris
+
+Jene Pflicht. Und empfehle den Herrn der sanften 10
+
+Je Epestt. ehen urfupra Der XXXIL. Send» Brief. Herrn Christian Bernhard. m 12. Novembr. 1622.
+
+Ö zur Drnipeäpieik, toelche ein Zeichen t ng va Cemunteri Utoris N ewiger Bröberschal in Göttlicher Essentz ist. 1. Verordnung wegen feiner mitgesandten Tractaͤtlein. 2. 3. Gesfalt der dama⸗ ligen Krieges ⸗Laͤusten. 4.
+
+Unser Heil im Leben JEsu Christi in uns! Ein gar lieber Herr und werther Freund; ich wuͤn⸗
+
+sche euch viel Freude in Kraft Goͤttlicher Beschau⸗ lichkeit, Findlichkeit und Empfindlichkeit, neben leiblicher Wolfahrt, und erfreue mich eurer Standhaftigkeit Goͤttlicher Übung, welches mir das Zeichen istewiger Brü⸗ In Derrschaft in Goͤttlicher Essentz; a! vermahne euch in |
+
+[p. 121] XXI. Epistolæ Theoföphicz.
+
+Wu
+
+Ep.32.
+
+darinnen in ernster Standhaftigkeitzubleiben, und des ewi⸗ en Lohnes zugewarten, euch nur an der Welt Spott und Af⸗ den Wercklicheszu kehren, dann ein rechter Christ muß nicht alleine ein Mund⸗Christ seyn, sondern in Christoin
+
+Proceß wandeln, und Christum anziehen. Welches ich hoffe, bey euch schon geschehen sey, wollet euch nur nicht lassen des
+
+Teufels gleiffende
+
+Welt-Larva anziehen, dann diese Zelt kurtz, darauf ewige Belohnung folget, und wollet doch euren ne Bruder, als auch MitbruͤdernimHErrn, wegen meiner utiren. !
+
+2. Ich überfende euch alhie 2 Säcke, bitte wollet doch die Mühe auf euch nehmen, und das Korn einsacken und wolver⸗ wahren, ein wenig vernaͤhen oder versiegeln; In den Saͤcken ist ein Packet an Herrn Rudolfen von Gersdorf, und Herrn Friederich von Krackwitzen, welches alleine soll Herrn Gers dorfen zugeschicket werden; er wird Herr Krackwitzen fein Theil wol zuschicken; nehmet doch die Mühe auf euch und fördert es zu Herrn Gers dorfen; koͤnnet ihr nicht Botschaft haben, so schicket einen eigenen Boten, wird von Gers dorfen wol gezahlet, oder ich will ihn selber zahl es mangelte; Das Pack moͤget ihr aufmachen, dann ichhabe es eurenthalben unversiegelt gelassen, es lieget bey jedem Briefe ein Tractätlein, welche euch gut sind, moͤget die aufs
+
+schleunigste abschreiben, und alsobald ohne weitern Verzug an benennten Ort soͤrdern: Bitte verpackt doch iedes Tractaͤtlein wieder zu seinem inneliegenden Briefe, und versiegelt es, daß die Tractaͤtlein ja nicht von den rechten Briefen vermenget werden. Bey Herrn Kregwitzes Briefe doͤrfet ihr nur das ges hefte Tractatlein schreiben, die andere zwey Bogen, so unge⸗ beftet sind, habet ihr bey Hr. Gersdorfen /Kregwitz den Anfang schon. N 4 3. Wegen des Memorial⸗Zettels von Herrn Lindenern
+
+Beuten, berichte ich euch, daß dieselben benanten Buͤcher al meine sind, welche in anderthalb Jahren alle gemachet theils auch diesen Sommer; Das ihr jetzt von®ersdorfen pfangen habet, wird gewiß eines seyn wieder die Methisten und alhie bey Kregwitzes Schreiben findet ihr auch eines wahrer Gelassenheit,dieandern sind ein theils groß, sonde das Buch de Signatura Rerum, vom Urstande der Creation u feiner Bezeichnung, ein trefliches hohes Werck von 41 a kWWEESSSSSSSSSEE [p. 122] per
+
+Br.33.Thebsophische Send Briefe. itz die sindhin und wieder nachgeschrieben. Hr. Doctor Brür eines, und Doctor Gullervon e hat rer ihr5 alben werdezuHanden bekommen, so will ich euch Kan dem andern schicken, meldet mir nur, wann ihr Weile
+
+Abschreiben habet; so ihr dasjenige, welchesihr letzo von 3 bekommen baer woslerae ee un, allein schreibet nur erstlich die zwey, so ich euch ie de und fördert dieselben fort, und uͤbetsendet mir m dem Koene Herr Gersdorfs Schreiben.
+
+. Wegen der Cosacken berichte ich euch, daß sie bey Leu,
+
+0 0fe in Böhmen liegen bis an die Leippe, und da
+
+Land sehr verderben, man saget wol, sie sollen bey uns dürch⸗ sieben und sich gegen Polen wenden; Aber wir haben nicht ewisses, ich halte es dafür, sie werden wolinBoͤhmen auß nitzbleiben, und Polen nicht sehen, dann wir wet n kurtz neue Zeitung haben: der ietzige Friede ist
+
+Be;
+
+ständiges, dann die Kranckheit ist zum Tode, und groͤsser nie es die Zeit geben wird. sewesen wie
+
+5. Wie es euch sonst gehet und was euer Zustand sey, eich gerne willen, ob ihr Lufthärter um Bezahlung nach zusch Be so 8 0 15 cl 9 7 weiß 1777 der zeeJe Chr ag die esverlegen wollen zum
+
+Nachschreiben, und empfehle
+
+Der XXXIII. Send⸗Brief.
+
+Herrn Christian Bernhard
+
+€. ur ohne Datum.
+
+Summatien.
+
+BR:
+
+Ki
+
+Christi i BrBrünnlein, tin, ist dder beegesgewisseBugZu und Durst nach Cheifl
+
+Emanuel!
+
+zen treuer Freund und Bruder in der Liebe Christi, ich wuͤnsche stets in meiner Begierde, daß ihr moͤget af angefangenem Wege bestandig bleiben daß euer and DursstnachChristi Bruͤnnlein möchte stets waͤh⸗ es ist der gewisse Zug * im Geiste 9
+
+### [p. 123] XXI. EpiflolzTheofophicz, Ep.33
+
+u Ihme; Der irdische Adam ist eine Decke davor, daß Chri⸗ us in dieser irdischen Hütten nicht mag gantz offenbar werden, dann der H.David, der Mann GOttes, saget: Sie gehen da⸗ 2 RR mit Traͤhnen, und ernten aber mit Freuden. Pl. 126. 5.6.
+
+2. Ich ermahne euch gantz bruͤderlich, lasset euch nicht
+
+schrecken, wann die Sonne mit der Freudenreich in dem alten Adam nicht will scheinen, es ist GOttes Wille also, dann sie. gehoͤret nicht mit ihrem freudenreichen Glast in den irdischen
+
+Menschen, sondern sie giebet nur manchmal dem erstorbenen Mysterio, welches in Adam verblich /und am jüngsten Tage soll in Kraft aufstehen, also einen freundlichen Anblick, der armen Seelen zum Troste, und zur Staͤrckung des neuen Ge⸗ waͤchses. 3. Alhie muß es nur in eitel Sehnen und Aengsten geboren werden; es verbirget sich oͤfters die Sonne, aber sie suchet nur also in der Wurtzel, daß sie einen Zweig aus dem Baume gebaͤre. Ringet nur getrost /dasKraͤntzlein ist euch gewiß beyge⸗ leget, es wird euch wol aufgesetzet werden, nach der Maß, wie es Gott gefället ; dann nachdem Er einen in dieser Welt will brauchen, nach demselben Maß offenbaret Er sich auch in ihme im aͤussern Menschen. 4. Aber der rechte Lilien Zweig stehet nicht in der aͤussern
+
+Welt; es istmir eine eitel Freude, wann ich vernehme, daß ihr euch aͤngstet nach der Lilien, und dencket, ihr habet sie nicht, aber ich sehe es viel besser als ihr, was ihr habet, welches mich ofte luͤstert, nur also mit meinem Vermahnen aufzuwecken, auf daß der Baum wachse und groß werde, dann ich werde auch noch wol seiner Frucht geniessen, um welches willen ich an ar und an Vielen arbeite, nachdeme wie ich getrieben werde. 5. Ich überfende euch die Magische Kugel mit der Er⸗ klaͤrung, (s. den Tr. 40 Fragen von der Seelen) ihr werdet einen feinen Spatzir⸗Garten darinnen haben, schicket mir die⸗
+
+selbe, so balde es seyn kann, wieder, ich will euch in kurtzem was anders schicken. Das kleine Testament konte ich anietzo nicht bekommen, ward aber vertroͤstet, darnachzuschreiben.
+
+6. Bitte schicket, wo ihr iemand von Foͤlning inne sehet, dieses inliegende Schreiben Herrn M. Weigel, wo nicht, so gebet es doch in sein Haus, sokanns ihme werden: Ich Mar cke
+
+[p. 124] Br. 34. Theosophische Send-Briefe.
+
+n⸗ cke mich auch wegen der Befoͤrderung des Kornes, wills in ‚und euren Fleiß Liebeverschulden, habe es . Weigel meine Saͤcke wieder uͤret; wann mir nur Herr schickte ,ich ware wolzu frieden, aber ich spuͤre wol wie sein Hertze ist, ich habe ihn der Babylonischen Jungfrauen erinnere (verfuͤhret,) und ihme noch freundlich geschrieben, ob er wolte sehend werden, und vom Zipfel des Antichrists abfallen, wie⸗ wol mich bedeuchtes sind nur Worte mit glattem Schein wie sie fastallethun: dann ich habein diesem Geschlechte ihr noch we⸗ nig funden, denen es wäre rechter Ernst gewesen, sondern ha⸗ ben nur die Historie mit Freuden angenommen, und vermeinet arci im Wissen, als im Buchstaben, sich damite zu Jedoch ke ich nnetlich e e denen es Ernst ist,da ich den
+
+2 in Kraft gesehen habe, Gott sey Lob! Euren Hats Bruder den Herrn Con. Rector, wollet meinen Gruß und wil⸗ lige* in Liebe vermelden, uns in die diebe JEW Christi erbe n Br.in Christo
+
+J. B.
+
+Der XXXIV. Send⸗Brief.
+
+N.
+
+An Herrn N.
+
+Vom 10. Decembr. 1622. Summarien. Inf. 6. i. 2, Vereinigung der Kinder Soir‘ im 5 3.4. a hat immer dahin gearbeitet feinen dienen, 5. ob er wol in der rg
+
+Brüdern im Herrn
+
+Mann.
+
+E erichletfeinen Proceß, 7. und Kampf, das Gericht der Suͤn⸗ Br 8 zum Triump e Uicht, * darinn er das Cen⸗ ch zum en geschauet und viel hoher Bücher geschrieben hat. 9. de war mit der Aurora, 10, welche Autor blos für Memorial geschrieben und bey sich behalten, u. 12. bis es h iemand, dem er davon gesaget, vor die Gelehrten kommen 12. der Satan es Autori entzogen und viele Leiden angebracht durch welche rch j a wodu er aber die Schrift bekanter, und den Autorem im reit geůbter und ritterlicher, gemacht; 14. mithin die Schrift nebst olgenden weit und ferne gekommen, ı5. die der Autor auch gerne mittheilen will. 16. Doch sind die letzten Heller als die erste. 17. Aus
+
+Or hat seine stete Übung mit schreiben, 18. und um Gott und feinen Meüdern damit zu dienen, hat er sein Handwerck verlassen. 19. Nach⸗ zichtvon Ma, abe an BR Ban. 20,21, en. Greue ist es hohe Zeitaus Babel zu fliehen. 22. bender amaligen Krieges⸗Lauste. 23.
+
+Unser
+
+[p. 125] XXI. Epistolæ Thebsophieæ.
+
+Ep. 34.
+
+unser Seil im Leben IEsu Christi in un! Ein gar lieber Herr und christlicher Bruder neben treuer und begieriger Wuͤnschung meines wahren Göͤtt lichen Lichtes, 1 75 Erfem auch inmiglicher Freuden in GoͤttlicherBe Get, s chkeit, unserer ewigen Brüderschaft im beben Chad
+
+. Euer an mich gethanes Schreiben habe ich und freue mich im HErrn meinem Ott der uns de also reichlich und uͤberschwaͤnglich mittheilet, Brt
+
+Hertzen eröffnet, daß wir inZusammenfügung unserer Gaben seine Weisheit und Wunder begehren zu erforschen.
+
+3. Und soll mir des Herrn feine angebotene Freundschost 5 lieb und angenehm seyn/und erkenne ihn, vermöge dieses an mich gethanen Schreibens für eine gruͤnende und sehr begie⸗ rige Rebe am Weinstocke Christi, auch für mein Glied und Zweiglein an diesem Perlen⸗Baum, und wuͤnsche in Kraft Mit
+
+= Erkentniß, daß es rechter, bestaͤndiger unwanckelba Ernst sey/ als ich mir dann keinen Zweifel mache, der edle len⸗Zweig der neuen Geburt aus Christi Geist und Weisheit, seyin ihme geboren. 4. So wolte ich auch hertzlich gerne meinen Mit⸗Zweigen und Aesten meinen wenigen Saft und Kraft aus GOttes Gas ben gerne mittheilen, und sie in meiner schwachen Kraft helfen erquicken, und ich binwieder des Ihrigen geniessen, als wir dann aus GOttes e auch im Natur⸗Rechteei
+
+sin solches zu thun schuldig
+
+F. Darzu ich dann infonderheit in meinen Gaben g.trie⸗ ben werde, um welches willen ich viel Zeit und Muͤhe,
+
+Lu grosser 1 dar mit Ernst gehoffet und in 983 Bruͤdern im HErrn im chair Crit7 ienen 6. Und wiewol icheineinfaͤttiger Mann bin, und der hohen
+
+Kunst und des Studi unerfahren, ist auch niemals meine
+
+Ubung gewesen, mich in hoher Meister schaft zu üben, undgrof⸗ feGebeimniß in meiner Vernunst zu fassen.
+
+7. Sondern meine Ubung ist aufferlich ein gemein Hand⸗ werck gewesen, damit ich mich lange Zeit ehrlich ernehret; da» net en ist meine innerkiche Ubung mit fast strenger Begierde in das Sterben meines angeerbten Menschen gegangen, wie ich meiner
+
+[p. 126] Br.34 Theosophische Send-Briefe.
+
+ben und in feinem Willen eines neuen Geistes und
+
+Wil ner Ichheiun t d Selb⸗Wolleus möchte im Tode Christi lensGoͤttSin auefs nesch s tehen.
+
+8. Habe mich auch dermaleins also hart darinn verwogen, ehe das irdische Leben zu verlassen, alsvon diesem Vorlage zugehen,eund was ich dorinnen und darüber und Straus eit
+
+Ottezuerkennen, welcher mich also durch habe G gel das itt
+
+Gerich meiner te Suͤnden gefuͤhret, mich aber hernach mit dem schoͤnsten, triumphirenden Anblick seiner Goͤttlichen Freu⸗ denreich gecroͤnet, darzuich keine Feder zum Schreiben weiß,
+
+sondern dem Befer dieses und allen Kindern Gottes gerne goͤn⸗ nen und hertzlich wünschen will
+
+9. Und aus demselben triumphirenden Licht istmir gegeben das was ichbisbero etzliche Jahre geschrieben habe worden, dann ich erlangete darinn so viel Gnade, mein eigen Buch ‚das
+
+GOttes) zu lesen und zu erkennen ich selber bin (als das Bild darzu auch schauen das Centrum aller Wesen, und zu verste⸗ gesormete Wort GOttes auch den Verstand der com⸗ ben das pactirten und gefasseten oder geformeten, sensualischen Zunge Eigenschaften, sowol die mentalische, ungeformete heili⸗ ge Zunge zu verstehen, darinn ich dann gar viel hoher Buͤcher chrieben habe, welche eines theils der Vernunft, ohne GOt⸗ tes Licht, wollen unergriffen seyn. 10, Wiewol ich als ein schwach irdisch Werckzeug, nach dem ausseren Menschen, dieses hohe Werck anfaͤnglich, als ein ungeuͤb ter/ungelehrter Mann, übel fassen und zum Verstande geben konte, wie inder Aurora zu sehen, welche das erste Theil meiner Schriften ist; vermeinete auch mein Lebenlang keinem Menschen damit bekant zu werden, sondern schrieb es mirzu einem Memorial der gantz wunderlichen Erkentniß, und Empfindlichkeit. Anschauung
+
+Und wiewol es der Geist deutete, wozu es solte, so möchte doch die Vernunft (alsder aussere Mensch) nicht fassen, son⸗ dern sahe feine Unwuͤrdigkeit und Niedrigkeit an.
+
+12. Behielt auch dieselbe Schrift (die Aurora) bey mir, bis ich endlich einem einigen Menschen davon sagete, durch wel⸗ es war vor die Gelehrten kommen, welche alsobald dar⸗ nach getrachtet und angestiftet, daß sie mir entzogen wurde. 13. Da dann der Satan gedachte Feyer⸗Abend mit zu mas chen, und meine Person damit zu ee, Ca
+
+|| darum 5 [p. 127] no XXIEpiRole Theofophicz. Ep.34, auch viel gelitten habe um Christi meines HErrn willen, Ih⸗ me in feinem Proceß recht nachzufolgen! Aber wie es dem Fr En Christo ging, also ging es ihme ade5 8+ eiften 14. Dann der siebegehrete zuverfolgen . derbatfiepubli get, und mich noch in groͤsser und heftigere Ubung . dadurch ich im Gerichte mehr geübet ‚und den Sturm wieder den Teufel im Schlangen⸗Eate des irdischen Adams und sei⸗ nes Gegensatzes desto mehr bestanden, und die Pforten der u desto mehr zersprenget, und an das helle date kom.
+
+ff,daß sie ßauch anietzofoweit damit kommen 15. Daes weit und ferne von vielen hochgelehrten Doctoren, auch vielen von Adel, hohen und niedrigen Standes ⸗Personen, mit Lust gelesen und nachgeschrieben worden, gantz ohne meinen Trieb 1 gan,595 Gottes Schickung.
+
+lteeuch auch gerne haben auf dismal davon was einher habe sie aber nicht bey Handen gehabt, auch auf so elende Weise nicht mögen erreichen; und ist nicht ohne, es sind etliche Traetaten geschrieben worden, daß ich hoffe, es e manche hungerige Seele dadurch erquicket werden. 7. Dann die letzten Schriften sind alle viel heller und in besserem Verstande, als die ersten, welche der Herr mir hat er⸗ meldet. 18. Wolte der Herr aber sich so viel bemuͤhen, wie ermel⸗ det undin eigener Person zu mir kommen und sich in 9 furcht in Goͤttlicher Weisheit mit mir bequemen; das mir lieb seyn, er kann seine Gelegenheit bey mir haben nach feinem . ich bin ohne das ietzo in steter Ubung: mit schreiben. 19. Habe auch mein Handwerck um des willen liegen ussen, Ott und meinen Brüdern in diesem Beruffe zu dienen, und meinen Lohn in dem Himmel zu empfangen, ob ich gleich ar 75 Babel und dem Antichrist muß Undanck haben. 20. Herrn Mag. Nagels Grußes, als auch Christlichen Mitbruders, und ietztin der Pilgramschaft Christi, wie ich bin berichtet worden, bedancke ich mich; und so es des Herrn Ges legenheit in Schriften geben wolte, er ihn wegen meiner wien 7 derum freundlich gruͤssen wolle. 21. Herr Elias Teichmann ist nicht bey mir bannen,weißN.
+
+[p. 128] Br.35. Theosophische Send Briefe. 12 auch nicht wo er ietzo ist,Herr Baltzer Walter hat feiner oft in Liebe gedacht ich aber kenne ihn nicht, ohne im Geiste, dann ich habe auch von andern feiner hören erwaͤhnen. 22. Wegen meines Zustandes berichte ich dem Herrn auf rar daß es mir GOtt Lob, anietzo noch wol gehet, mir aber im Geiste eine grosse Verfolgung und Veraͤnde⸗ sehe rung über Land und beute, welche nahe ist,wie in meinen Schrif⸗ ten angedeutet; und wird Zeit seyn von Babel auszugehen und zu fliehen, darum kann ich auch von keiner Ruhe melden. 23. Dann was grossen Jammers und greulichen Raubens, Mordens und . — Teufeley bey der Christenheit, die Cosacken durch Schlesien bey unsern Nach⸗ barn anietzo getrieben, wird euch vielleicht wissende seyn, e Figur des künftigen Gerichts über diese
+
+2 Und thue Euch samt allen Gliedern Christi der sanften Liebe JEsu Christi, und mich in eure und ihre Liebe und Guns sten, empfehlen. Datum ut supra. Bin wohnhaft zwischen demNeiß⸗Thor.
+
+J. B.
+
+Der XXXV. Send» Brief.
+
+B.v. B.) An Hrn. Johan Butowiski, (anJ. Vom 13. Decembr. 1622. Summarien.
+
+Geefein kleines 1. 0 hin und wieder in der 125 Christi liegt die Erkentniß
+
+9 — Gelassenheit und Verlassenheit des buen Wld barde Dann der Vernunst⸗Mensch ist ausser ae bier aber hat Göttliches Sehen. 6. Darum Zommt allein aus dem inwendigem Grund, rechter Verstand.7. Das inn auch Autor von GOtt erleuchtet worden, g. und willig miltheilet;
+
+.* auch einige Puncten, feiner Zeit, mündli chbeantworten will. 10.
+
+Unser Seil im Leben JEsu Christi in uns! Hrenvester, Wolbenamter Herr, neben treuer Wirt
+
+schung Goͤttliches Heils in heiliger Kraft, und aller zeitlichen Wolfahrt! 2. Euer an mich gethanes Schreiben um Christlicher und Ergetzung in Goͤttlicher ErkentnißinGoͤtt⸗ cher Begierde und wolmeinender, berglicher Christlicher
+
+Liebe,15ich empfangen, und istFilieb und MSIE ‚ers reue
+
+[p. 129] XXI Epislolæ Theofophicz: Ep.35. freue mich auch darob, daß dannoch GOtt seine Kinder und kleines Hauflein bin und wieder hat, da sonsten anietzo die
+
+Weltim Argen fast erfoffen, und im Zorn- Feuer ergriffen ist, welches nahe einen groffen Riß in der Antichristischen Chri⸗ stenheit machen wird, wie erkant worden issts. 3. UndthutderMensch gar wol und recht, welcher sich was er sep/ welches nicht durch Ver und scharfes Forschen geschehen mag: sondernim dem wah⸗ eß Christi, in einer wahren gelassenen Seele, welche ren die Vernunft und eigene Witze menschlicher Selbheit, mit umwendung des irdischen Weges, verlaͤsset, undindie hoͤchste Einfelt Christiinwahrer Demuth unter das Creutze Ehristi eintrit, wie uns Christus treulich gelehret hat und gesaget: Es sey dann daß ihr umkehret und werdet als Kinder, und werdet neugeboren aus dem Wasser und H. Geiste, sonstsollet ihr das Reich GOttes nicht sehen. Joh.3.5. 4. Darzu dann eine wahre Gelassenheit und Verlassenhelt der menschlichen Selbheit gehöret, daß sich der Ras gang in feinen inwendigen Grund wendet; und in seiner Selbheit gantz zu nichte machet, und durch ernste Busse mit inniglicher
+
+Begierde von diesem Welt Wesen in GOtt wendet, und seines
+
+Vermoͤgens und eigenen Willens im Tode Chrissi erstirbet, und sich in GOttes Erbarmen ersencket; so mag er vomH. Geiste in sich selber in dem inwendigen Grunde ergriffen wer⸗ ben, 15 derselbe durch ihn stehet, will und thut, was gefallet, welcher alleine das Forschen in Goͤttlicher ist, und der Seelen Licht, in welchem sie GOtt schauetu kennet, und in keinem andern Wege mag man zu und natürlicher Erkentniß und Beschaulichkeit er e verstehet n 5. Dann der natürliche e vom Geheimniß des Reiches GOttes, dann er ist nicht in G Ott, wie sich dasanden Vernunft. Gelehrten et; daß sie um GOttes Wesen und Willen strejten, und och nicht erkennen, denn sie hören nicht GOttes Wort in i nen im innern Centro der Seelen.
+
+6. Und ist alles todt an G Ott was nicht Se eig me und das Göttliche Gehör der neuen Geburt im Ente 01. in sich hat daß der Geist GOttes in ihme Zeigniß seines ren Hoͤrens und Lehrens giedet; in welchem Gehör undit wendigen Sehen alleine GOtt erkant, und fein Wesen
+
+[p. 130] Bra5. Theosophische Send Briefe.
+
+fanden wird, zu welchem das aͤussere Buchstabische Wort nut und zugerichtetes Instrument ist.
+
+7. Der Verstand aber muß aus dem tuwendigen 88 . lebendigen Worte GOttes, welches imMen⸗ ˖ uvor eröffnet seyn, in das buchstabische Wort eins eine Concordantz sey: sonst istalles dehren vom Wesen ein Nichts, als nur ein Bau an der groffen r Vernunft und Wunder: Dann ob die n vielvon Gott spricht, so thut sie das doch nur aus ihr Wissen aus der Historie des buch⸗ heit, undnimt
+
+staͤblichen Worts, daß also kein wahres Wesen bey ihnen ist.
+
+Darum sage ich, wollen wir recht von GOtt sprechen und seinen Willen verstehen, so muͤssen seine Worte in lebendi⸗ r Wirckung in uns bleiben: Alles was aus Wahn und einung zusammen geflicket wird (in welchem der Mensch die Glue Erkentniß selber nicht hat) Schluͤsse darüber und daraus zu machen ,das ist Babel, eine Murter der groß n Hurerey der Irrthuͤmer. Dann weder Wahn noch Duͤnckel mögen es thun sondern wahrhaftige, leben⸗ bieessentiale Erkentniß im H.Geist._ In welchem inwen⸗ Grunde alle meine Wissenschaft von Goͤttlichem und Grunde seinen Anfang und Urstand genom⸗
+
+11 Ph ich bin nicht von der Schule dieser Welt gebo⸗ ua bin ein einfältiger Mann, aber in Göttliche Erkent⸗ ee4
+
+9 e een ohne meinen Vorsatz und Be⸗
+
+Ottes Geist und Willen eingefuͤhret worden. Erkentniß und Gnaden⸗Geschencke ich dann meinen lieben Bruͤdern und Christlichen Mit⸗ im 1885 Baume TEfu Christi gönnen will, und ch zu GOtt, daß doch ihre Hertzen in Göttlichem Ge⸗ noBeistande mögen eröffnet werden, daß solche Erkent⸗ ni auch in ihnen erkant werde, und wir aus der streitigen Bas Splon moͤchten erloͤset, und in eine rechte bruͤderliche Liebe eins 7 werden, und in uns hoͤren was GOttes Wille und
+
+10. ld ge dem Herrn, daß mir seine Bekantniß und ge⸗
+
+5 lieb und angenehm ist, wuͤnsche auch mich mit ihmemuͤndlich von Goͤtelichen Sachen zu unterreden und zu ergetzen, welches, weil wir von einander sind, nicht 10 füglich,
+
+[p. 131] XXI. Epistolæ Theosophicæ.
+
+Ep. 36.
+
+fuͤglich, und sich doch wol zutragen mag/als ich mir dann fast in Sinn gefasset, so der Tag ein wenig länger, und man des unsteten Wetters besser gesichert ist, ob GOtt wolte Gnade in eigener Person und so viel Friedens ⸗Zeit vergoͤnnen, mich muͤndlich mit dem Herrn und andern guten Bruͤdern und Freunden dieser Orten zu bereden, so wolte ich alsdann dem Herrn auf feine eingesetzte Puncten mündlich antworten, und mich mit ihme davon im Grunde bereden, welches anietzo in Eil nicht geschehen moͤchte: Und empfehle den Herrn samt den lieben Seinigen der sanften Liebe JEsu Christi. Datum ut supra.
+
+J. B.
+
+Der XXXVI. Send⸗Brief. An Herrn Balthasar Nitschen, Bürger und Tuchmacher zu Troppau. Vom 13. Decembr. 1622.
+
+Fornos Fund „ n bestaͤndig Gemuͤth wird in das Bündlein a = Infehenden Plage bewahret. 9. 1. Eee Jeb an ern seyn sich in dem Lebens⸗Baum JEsu Christi zu bewahren; 2. dann das Thier mit der Huren fol fallen. 3. 4. Unser Heil im Leben IEsu Christi!
+
+Ein gar lieber und werther Herr und guter Freund,
+
+Eichwünsche euch 50 es reiche Gnade, ingeitlichen und ewigen Heil! und füge euch zu wissen, daß ich euer Brieflein gar wol empfangen habe, erfreue mich auch eures noch steten Goͤttlichen Gemuͤthes, welches (wie ich zu Gott hoffe) in Goͤttlicher Erkentniß noch immerdar mehr wachsen und zunehmen will, darinnen der Herr hiemitindas Buͤndlein des lebendigen GOttes gefasset, und vor dergrossen Truͤbsal, welche ietzo daher gehen, mag bewahret werden. 2. Es will Zeit und Ernst seyn, sich anietzo in dem Lebens⸗ Baume JEsu Christi zu bewahren: dann das Schwert GOt⸗ tes Zornes will maͤchtig graßiren, und an Leib und Seele ge⸗
+
+setzet werden. Darum wir wol den Antichrist samt dem Thie⸗ re und der Huren aus dem Hertzen raͤumen moͤgen, dann das⸗ selbe soll und muß fallen; in welchem es aber noch erfunden will werden/ den wird die Turba mit ergreiffen.
+
+3. Kuͤnf⸗
+
+[p. 132] Br.37. Theosophische Send Briefe.
+
+3.
+
+Kuͤnftigen Frühling habe ich mir in meinen Sinn ge:
+
+treulich euch zur Tribulation geschickt zu machen, dann es mag aft cob es GOtt wolte zulassen, und so viel Friede geben) euch in eigener Perfonzusehen, und mich mit euch etwas zu bequemen, über alle Nothduͤrftigkeit so wol mit den andern guten Freunden und Brüdern in Christo; und erinnere euch
+
+seyn, sie ist nahe und gehet gewaltig in Turba daher. Diese theure Zeit will auch grösser werden, und in grosse Noth geführet werden, und mag sich ein ieder nur zum Ernst schicken; grosser Krieg, Aufruhr und Empoͤ⸗ rung, auch Sterbens⸗Noth, fallet in kurtzem mit Mackt ein.
+
+Fuͤg 59dem Herrn in meiner Erkentniß zur bruderlichen icht. Nachr Ob euch etwas von meinen Schriften lieb zu lesen ware, f a4 nurbey Herrn Doctor Galler darum anhalten, ich sowollet e ihm eurenthalben geschrieben, er wird euch damit will⸗ ahren: Und empfehle euch der sanften Liebe JEsu Christi!
+
+Eil, ut supta. inn Gebe
+
+J. B.
+
+Ew. Dienstw.
+
+Der XXXVn. Send⸗Brief.
+
+Herrn Carl von Endern, ohne Datum.
+
+Summarischer Innhalt. Mae et feine Erkentlichkeit für empfangene Liebe, die er in Nachricht von feinem Buch Mysterio magno, Gott 1 und Berficherung, daß die Wolthaten auch bey den Nachkömm⸗
+
+Lingen sollen gerühmet werden.
+
+Anser Seil im Leben IEsu Christi. Ein gar lieber und werther Herr, und von GOtt zu⸗ gefuͤgter Patron, neben Wuͤnschung Goͤttliches Heils: Ich uͤbersende alhie mit Zeigerin meiner
+
+—— dem Junckern 10 Rthal. für einen Scheffel Korn;
+
+weiß aber nicht was der Juncker dafür begehret, bitte es Zei⸗ gerin zu melden, was der Juncker dafür haben will. Thue mich auch gegen dem Juncker bedancken wegen Verehrung ei⸗ nes Schocks Kaͤse, und eines Fasses voll Ruben; für die an⸗ h⸗ bege h, Marc drey Ann Scho dere zwey ngen, empfa ‚sie Hoffe cket: geschi ret worden, Zr;
+
+Eu.
+
+[4
+
+### [p. 133] XXI. Epistolæ Theoföpkiek,' en
+
+dem Innckern zugestellet haben, und wuͤnsche dem von 886viel reichen Segen, und erkenne ihn e von GOtt zugesandten Patron, deme ich gegen GOrt 5 Affe viel schuldig sey als meiner eigenen Seelen. Will es auch in Goͤttlicher Vermoͤgenheit, und wirckl einem Willen und Begierde stetiglich, als mein eigen Peben, in mei⸗ nem Gebete zu G Ott einführen, endes chals einu barer Mensch gebrauchen, sondern es soll zuinte: Lebens im Bau meines mir von GOtt gegebenen an⸗ gewendet werden: In welcher Arbeit a anietzo gar eine wunderliche Thuͤr über die Offenbarung des e Bu⸗ ches Mosis offen stehet (Mysterium Magnum). Und ich weiß, daß der Juncker geneigten Willen gegen mir und al⸗ len Kindern GOttes traget; So sage ich 0 doch, alsi gewiß erkant babe mir aber nicht gantzzuoffenbaren ii daß ihn ein selches ins kuͤnftige nicht irhreuen, denn wird bey unsern Nachkoͤmmlingen darum nicht alleine cher Ruhm, sondern als man frommen, Gott Herren nachsaget, geruͤbmet werden. Denn dieses Talent gar einen * Ausgang, ob es gleich ietzo muß in
+
+Presse stehen,foist mir doch gezeiget /worzu es soll. "ndem»
+
+pfeble den Junckern der Liebe JEsu Christi. G Es wolle mir der
+
+5Juncker doch lassen ei⸗ nen Scheffel einsacken
+
+Des Junckern Bien.
+
+undzeigern mitgeben.
+
+Der XXXIUX. Send⸗Brief.
+
+Vom 19. Febr. 1623.
+
+An einen von Adel in Schlesien. 130 Summarien.
+
+ur ve dene⸗Baum, Christo,2. sollen aus gan, esederOrtes genoe, in demLe⸗ nicht auf ihre Kraftsehen. 4. Wie 0018 das ee Magnum mit der Schöpfung eröffnet 3. Also lieget
+
+Bilde G Sttes, im Menschen, nach Liebe und Zorn. 6. Der 2 nichts Gutes sprechen:85 und ein Maul⸗Christ ist auch Christo. 8. Ein rechter Christ ist der, in eue pee! eboren 5 10. da isset die feurische Seele GOttes Wort. ibid. fans war [4s Menschen Leben im Wort; da es sich aber in ein eigen Sprechen PN so muß es nun wieder in das erste n
+
+Ermahnung zu sletem innerlichen Sprechen in die
+
+[p. 134] Bt. 38.Theosophische Send⸗Brirfe. nr keit Gottes. 12. Die Religionen sind nichts: es it nur Ein wahrer Glaube. 3. Die äusseren Gebrechen heben Christi Tempel nicht auf. 14. Man soll die Zeit wahrnehmen, weil Truͤdsalen folgen werden. 15.16, Autor Iberlaͤsset feine Schriften an die Liebhaber. 17.
+
+Unser Seilim Leben IEsuChristi in uns! 1. Dler, Gestrenger, Hochbenamter Herr. Nebenst treuer Wuͤnschung und mitwirckender Begierde glied⸗ scher pflicht in unserm Emanuel, Goͤttliches Lichtes, und der Seelen in sich selber innerlicher Goͤttlicher Beschau⸗ lichkeit und aller Leibes Wolfahrt. 2. Nachdem ich E. Gestr. einen Liebhaber Göttlicher Weis⸗ km auch einen wachsenden Zweig an dem Lebens⸗Baume tes in Christo vermercket, in welchem alle Kinder GOt⸗ tes gliedlich innestehen, und auch gespuͤret, wie ihn der Zug des Vaters in eine hungerige Begierde nach dem rechten cher mas en
+
+Are Kraft hat eingefuͤhret, ihn auch etli⸗ mit der Erkentniß desselben Lebens ⸗Baumes bez
+
+So habe ich mir abermal Ursache genommen, in Christ⸗ gliedlicher Art nach demselben Lebens⸗Baume Chri⸗ fiznersuchen, und uns untereinander zu ermahnen als Arbei⸗ welche in Christi Weinberg eingesetzet, und zu dieser Arbeit beruffen sind, vornemlich, daß wir uns aniego in diesem fin⸗ stern Thale wol vorsehen, und unsere Augen und Haupt auf⸗ heben, indeme wir die Finsterniß und derer Wirckung vor Au⸗ gen sehen, und uns erinneren, wie uns Christus gelehret hat, daß unsere Erloͤsung nahe sey, und ja von Babel, welche uns 15 gefangen gehalten, ausgehen, und nicht auf das Ge⸗ y sehen, da man uns guͤldene Gnaden⸗Maͤntel verheisset, und umdecket, und uns mit fremden Schein troͤstet und kitzelt, als ob wir alfovon aussen angenommene Gnaden⸗Kinder durch sonderliche Wahl wären.
+
+Auch nicht auf unser eigen Verdienst und Kraft sehen, Falles nicht gilt vor GOtt, sondern eine neue Creatur missaus G Ott geboren, gilt vor GOtt, dann allein Chris stus ist die Gnade, die vor GOtt gilt: Wer nun aus Christo ee ist und in Ihme lebet und wandelt, und Ihn in feinem Sterben und Auferstehung nach seinem inwendigen Menschen anzeucht, der ist ein Glied an feinem Leibe, von deme 4.
+
+alleine sliessenStröme des lebendigen Wassers durch das 1 4 ige
+
+[p. 135] Zr
+
+XXI. Epistolæ Theofophick, Eps.
+
+tige Wort Christi, welches in ihme, nach dem inneren Grund, Mensch wird und sich aus ihm durch die Creatur im Spirien Mundi des aͤusseren Menschen ausspricht. 5. Dann gleichwie GOtt das Mysterium Magnum, darin⸗ nen die gantze Creation essentialischer Art ohne Formung ge⸗ legen, aus der Kraft feines Wortes offenbaret hat, und durch das Mysterium Magnum ausgesprochen in Schiedlichkeit geistlichen Formungen, in welchen geistlichen Fand. die Scientz der Krafte in der Begierde, als im Fiat, gestanden sind, da sich dann eine iede Scientz in die Begierde zur IE 22 in ein cörperlich leiblich Wesen eingefuͤhret hat. im Clave F. 137 139. Sk 6. Also auch lieget im Menschen, als in GOttes Bilde oder Gleichniß, dasselbe Mysterium Magnum, als das effentialifche Wort der Kraft GOttes nach Ewigkeit und Zeit; durch wel⸗ ches Mysterium sich das lebendige Wort GOttes ausspricht, entweder in Liebe oder Zorn, oder in der Phantasey, alles nach⸗ deme das menschliche Mysterium in einer beweglichen + de stehet zu Boͤsem oder Guten; wie dann geschrieben Bey den Heiligen bist du heilig, und bey den Verkehrten! du verkehret. Item: Welch ein Volck das ist, solchen Gt hat es auch. Dann in was für einer Eigenschaft das Myfierium im Menschen in der Erweckung stehet, ein solches Wort
+
+spricht sich auch aus feinen Kräften aus, wie vor Augen it, daß in den Gottlosen nur Eitelkeit ausgesprochen wid.
+
+7. Wie soll nun ein gutes Aus sprechen und wo das Mysterium zum Sprechen ein falscher Grund und vom Teufel im Grimme der Natur vergiftet ist, welches falsche Myferium nichts Gutes wollen noch thun kann, das vor angenehm sey, es werde dann zuvorhin mit GOtt ange daß es ein Goͤttlich Wollen und Begehren bekomme, welchem auch ein Goͤttlich Aussprechen und Wircken des G ten erfolget; Dann Chrifius saget: Ein böser Baumk nicht gute Fruͤchte tragen; Matth. 7:18. wie will gute Früchte tragen, da ein falscher Baum unter Schein stehet! + fremde Shah
+
+8. Christi Purpur⸗Mantel hat feine Früchte in sich; was gehet aber das ein falsches Thier an, welches voller und sich will mit demselben Mantel decken, und fuͤr 4 und bringet aber nur hoͤllische Früchte? Oder, was [p. 136] zg efe. end-Bti hiftieS Theofep 28. Bk. .e einen Christen, da erdoch ausser Christo 9. Keiner ist ein Ehrist, er sey dann aufs neue airkein Gelst Christi 82 5‚und aus Gottes Liebe entfp Gnade GOttes het in dem Mysterio feine Biken ach der e
+
+sey, und ins Menschen Leben mitwir⸗
+
+Soll er aber ein solcher werden so muß er von und wolle:
+
+feiner Bildlichkeit im Spiritu Mundi, damit die Seele verdecket wi 5 , irdische Wirckung trit, umkehren, und werden ein Kind, das sich alleine nach der Mutter sehnet und
+
+Gnaden -Deurter Milch in sich einführen, daraus ihme ein
+
+Eos waͤchset; in welchem das Gnaden⸗deben urstaͤndet, als die zugerechnete Gnade muß in ihme geboren und Mensch werden nach dem inneren Grunde ausser dem ist er kein Christz und thue was er wolle, so müffen ibme nur been durch das Göttliche Einsprechen in ihm selber 5er wann Christus in dem eingesprochenen Gnaden⸗ aus seinet Besheiffung in sich einfasset, pfangen
+
+so ist der Grund in das verderbte Mysterium wird, am Ade Geesgeleget, so gehet die Goͤttliche Schwaͤnge⸗ ing an, darinnen Theisti Menschheit (als die wesentliche
+
+Beisheit) empfangen und geboren wird, welche alleine ein Tempel des
+
+#### H. Geistes ist; und von derselben neuen Geburt
+
+feedie feurische Seele GOttes Brot das vom Himmel kom⸗ met;und ohne dasselbe hat der Mensch kein Leben in sich, Joh. Welches kein Heuchler unter Christi Purpur⸗Mantel der Mensch, der nicht von Fleisch sondern kann; ‚noch 151Willen! Gb, ue
+
+Gott ren ist, in we ort, daran geschaffen ward, spricht, regieret, lebet Men gef das geben der Menschen war im Anfang im Wor⸗ . Bann
+
+4. da es in das geschaffene Bild eingeblasen ward ;
+
+das aber vom Sprechen des Wortes in ein eigen Wol⸗ en in Boͤsem und Gutem einwendete, als in len und
+
+2so verbarb der erste gute Wille in der Ereatur rechen: Nun muß er wieder in das erste Wort ein hen, und mit G Ott sprechen, oder er25
+
+Du:
+
+die wareWelt nicht verstehen
+
+[p. 137] Nnn
+
+XXI. Epistolæ Theoföphicz. :
+
+will dann fiehat sich gantz und garinein eigen Spre⸗ eraurella des Fleisches eingewandt, und 5 genem Willen nur eitel Irdigkeit und vergaͤngliche Dinge, als
+
+Ehre, Macht und Gewalt, darzu Hoffart, Geitz Neid
+
+Jun
+
+Bosheit; nichts, als nur die listige Schlange mit ihren en, 1 — sie aus: und wann diese ihre Jungen dasni dee er listigen e De dieesfollen erhalten, walt viel tausend Soldaten, e eigene aufdaß eigene Wille, welcher von GOtt abgewichen ist, moge behalten, wie ietzt vor Augen ist: Durch welches Aus
+
+Ge⸗ rec un dieser eigene Wille zu Grunde gehet, und sich selber se tet.
+
+12. So wolte ich euch, meinem geliebten Herrn und DAL
+
+Gliede im Lebens⸗Baume Christi, ernstlich ersuchen und exin⸗ neren; als ein Glied dem andern schuldig ist, im jetzigen Aus⸗ sprechen der Welt, da Turba Magna ihr Aussprechen mitim Spielhat, und eine grosse Abwerfung geschehen soll euch in stetem innerlichen Sprechen der BarmhertzigkeitG Ot es in⸗ ne zu halten, und stets in euren inwendigen Grund einzugehe und ja mit nichten die Schlange euch lassen bereden zu de falschen Sprechen des Bruder⸗Mordes, und euch als e nehmer Herr stets in dem Proteß Christi und in ne bespiegeln:
+
+Dann das ietzige
+
+Sprechen wird im GER
+
+Gottes durch feinen erweckten 120 gesprochen, und ‚fodie Turbs uͤbel darein zu mengen mit Ein rechen, zumal
+
+soll gesprochen werden, sie istgar untreu, und ter und Mutter, die siegebieret, und ist ein Besem d Zornes
+
+Gottes.
+
+ae.
+
+13. Auch wegen Annehmung der vermeineten Religion darum man streitet, ist sich wol vorzusehen, und sich nicht wann einem Part, welcher einmal sieget, einzueigenen mitdem
+
+Gewissen des Glaubens: Dann es ist kein anderer w ahre
+
+Glaube, selig machet, als alleine Christus in uns der alles ne tilget die Sünde in uns, und zertrit der Schlangen: Finbik u dung den Kopf in uns, und stehet in GOttes Gerecht gkei welche Er mit feinem Blute in uns erfuͤllet vom Schlaffe des we 255 ; Im! pe armen oe a. 1 vom To⸗ aufstehen, als in einer neuen in Christo imHummelwandelt ub Me da Bm
+
+[p. 138] Br.38. Theosophische Send⸗Briefe.
+
+13:
+
+im selben neuen Menschen ist en das Werck der Liebe fol?
+
+Ottes Kindern gebübre get als G ig. Und obgleich der aͤussere Menschin irdischer Schwach⸗ heit und Gebrechen lebet /das hebet den Tempel JEsu Christi — auf: Dann Christus im inwendigen Grund zertrit stets angen im Fleische den Kopf, so muß auch Christus deraınenp in die Ferse gestochen werden, bis wir es los werden.
+
+wolte ich meinen lieben Herrn Christ⸗ brüderlich erinneren/ die ietzige Zeit in wahrer Furcht GOttes in acht zu nehmen: will er meinem Wolmeinen statt geben, so wird es ihn nimmer gereuen, dann ich rede also, was mir vom Hoͤch⸗ fien bewust ist, aus feiner Gnade; er wolle ihme fleißig nachdencken und den Geist GOttes lassen sein Dencken 16. Dann es wird bald eine Zeit kommen, da gute EL gesichtet und probiret werden, aufdaß wir in Christo aͤndig bleiben, wolte ich mich mit dem Herrn in Lie⸗ en, dann die Zeit der Erquickung kommet balde ah, treue Menschen einander werden lieb haben; nach welcher Liebemich stets hungert und duͤrstet, und stets wün⸗ daß doch Babel balde ein Ende nehme, und Christus in
+
+Thale komme, daß ihn alle Voͤlcker sehen und lo⸗ bitte, der Herr wolle mir doch meine 3 Tractätlein, von der Busse, und zum andern das von der neuen Heber und das dritte von wahrer Gelassenheit, welche ich 2 st dem Herrn 5 und den Rest mit Herrn Rus
+
+Dolf geschicket, zu Herrn Rudolf von Gersdorfen schicken, dann ich habe ihm geschrieben daß er mir die wird nach Sa⸗ — zu Christian Bernharden schicken; allda ich sie will ab lassen: oder haͤtte der Herr Gelegenheit nach
+
+Sagan, so wolte er mir die nur selber zu Herrn Ebristian auf demMarckte wohnende, schicken, welcher zuvor fuͤr ein17 ist Zoll⸗Einnehmer genen, ein hunger, Galen ausderTheosophischen Schule; alda habe ich alle ner ‚ diese Tractaͤtlein werden gar rn begehret, und möchten viel Nutzen schaf⸗
+
+150Be bitte doch e zu Wer dann mir istnöthig dar⸗ ist,daß gelegen. Wann es dann des Herrn Gelegenheit J 2
+
+[p. 139] XXI. Epistolæ Theosophicæ.
+
+Pr e
+
+2.85 | e ee e 1
+
+2. E. G. Densw. ku
+
+NI
+
+BR:—
+
+Tan
+
+Der XXXIX. Eend, Brie, W bam3
+
+—.
+
+Med, Dod.
+
+Lignitz.
+
+1623.
+
+Summarien.
+
+küöckwunsch zum neuen
+
+Jahr. g.. Christi Kinder2
+
+&im Benz ischem Schlaff müßig stehen 2. Autor hat aache der Eil a ‚ausführenkönnen, 4. ales Vuchvon naden⸗W̃ age 5. mittelit dessen aber diefir 1 — den Lutherischen und Resormirten ga feauch, als „in Ein Corpus können geeiniget ren Ehristen ik kein Streit, 7. welcher nur entft 2 1 Ehristoin Bilder und Fragen einwendet: 8. darinn sich d
+
+Teufels Hoffart einwickelt, daß man überdie Bilder streitet me
+
+Demuth 92755 vergisset. 9. Abbildung eines wahren Chri in dem Christus den innern Seelen⸗Grund gantz einnehmenin
+
+sitzen muß; u. das Maul⸗Geschwaͤtze machet keinen Christen; er muß Christi Ens e N a erdien der die N 7
+
+4571ur .
+
+erechnete
+
+17. —
+
+Gnade.1 nd in Autoris Mer5 Magno ausführlich eilt, 5Sagen ysterium der. 18:26. 2) 1 Paradeis und d Var ten Eden. 27. 3) Obdie Thiere, weil sie im Paradeis zu gantz sedisch,we paradeisische Fruͤchte — . Au beit Ob die Thiere auch sozottig gewesen z 31 liegen in Christo, die man nur mit Lbe an ung Gen ann. 32.
+
+Unser Heil im Leben IEsu Christi in un!
+
+Ihrenveste, Achthare, Hochgelehrte, liebe N Brüder in Christo unserm einigen Leben; Ich euch allen ein gluͤckseliges anfahendes neues Jahr
+
+Bin Göttlichen Willen, im Zuge des Vaters . — | euch möge angefangen werden, und in wircklicherKr ‚Shrie
+
+stiGeistes in feinem Weinberge in dieser Zeit eh e lein
+
+Pr und daß in diesem Jahre viel Trauben in in euch wachsen, auch daß euch Gott in N
+
+[p. 140] Br.35.Theosophische Schd-Btiefe. 1 — — die Constellation in diesem wolle! W 7 ee Sac el, ihr werdet euch alswirckende Reben am Wein⸗ mit guter, neuer, himmlischer Frucht erzeigen.
+
+wolte Pa ac a0ker We e
+
+Erin gerne,wie⸗ und elaen so 5 be,gese heben.
+
+#### s. als
+
+255 38 Lan ut a Fragen de welche mündlichinEil, und auch wegen vieler Eins welche Irrung machen, nicht nach Nothdurft ausge f
+
+258. 366 aniebe einziemlich Buch vonder Gna⸗ ieben, auf Begehren derer hoher Personen, 1r schied, „ da dann etliche Hochgelehrte von Jauer und der a, neben gar feinen Männern von Adel, dabey waren, und noch vielmehr; im tiefsten —.—die7
+
+Hoffe sie — e vos eine Enbfehaft machens denen Puneten, zwischen den genanten Lutheri⸗ eben und Reformirten, und andern Streiten mehr: da ih⸗ nen allen der wahre Grund vor Augen gestellet worden, und einem ieden feiner Meinung genug geschehen ist, sie auch als Contratia EOS e eee Gift — „irdischer Einbildu moͤgen sehen und mir dann nicht Eh ‚die u Zeit sey geboren, one in eine Wahrheit soll gewandelt werden.
+
+Und dadoch ohne das beyden wahren Ehristen und Kits
+
+GOttes, unter allen Völkern, nie kein Streit ist gewe⸗
+
+2 dunn in Epeiftofindwirallenureineiiger Baum in viel
+
+8. Und
+
+[p. 141] ‚XXL Epistolæ Theofophicz, Ep.39%
+
+134:
+
+in eige Bul bar Oh m in e bem inn Ci
+
+Strei ung 15
+
+. en oben, RiDen in Christo unserer boͤsen Natur in der erben, gantz vergessen, daß wir ietze vielmehr 77
+
+15el sind,als eine lebendige Chriftenpeitim r Kraft. 10. Dan ein n Christ soll undmi in bei Bonnig waͤchse des bebens Christi mit inneftepen, und mit in Geiste leben und 5 tragen, in deme Christust inwendigen Grunde selber lebet, und alles ist, der der gen Willenim Fleische stets ben . e e Zu Werck zu 3 er muß aus Christo wissen und ehun ; Ins Thun, alsins Goͤttliche Wirken, muß — sonst ist keiner ein Christ.
+
+ristus muß den innern Grund der Seelen g — und besitzen daß der e die uns im Zorne gefangen hält, mit Chri ug geschehe; Daß Christus in uns 2 en mit der rimme GOtte gantz u nie nicht ehe dB r Heines Hue Iren Wien gang in Christi Liebe sterbe, und ein neuer WilleinChbisfi er Geiste durch die Natur der Seelen geboren werde Gdtt lebet und wandelt, wie S. Paulus saget: Ansers delkiim Himmel, Philipp 3:20.
+
+2. Das Maul⸗Geschwatze bilfetund ches,e cherfi nenEhrifien: Es muß ein Christ Christo gebos ren seyn, sonst ist er kein Christ, es hilfet kene vonaufle hege; rechnete Gerechtigkeit und Gnade.
+
+13. Alles Troͤsten, Kitzeln und Seuchenit enge man den Purpur⸗Mantel Christi über den der Bos⸗ heit decket, und will ein von aussen een
+
+Kind seyn.
+
+ih:Dann keine Hure oder gal wer en, ob sie gleich N ebeka enen
+
+[p. 142] Br.39.Theosophische Send⸗Briefe.
+
+a kein Fuͤrste durch Begnadung zur Jungfrauen N Ki: auch mit diesem Heucheln und Troͤsten zu verste⸗ keit 29269dann, daß wir umkehren und werden als Kinder, an der Mutter Brüste hangen, und empfangen den Ens risti inuns, der die Hure tödte, daßein neuer Geist aus Chri⸗ o in uns geboren werde, welcher Christi Leiden und Tod in chhat, daß er aus feinerAuferstehung geboren werde, und den Bus 175 Christi in sich anziehe, als die zugerechnete Christo. Er muß aus derselben Gnade geboren werden, daß er ist in Christo 190ei ein Zweig im Baume, welcher ist. Alsdann gilt Christi Verdienst, und die zuge⸗ ee wann er emBaume inne stehet nachdem in⸗ anz Fragen, meine geliebte Herren und Freunde, (l. ater KorFriederich) doͤrsten eine weitlaͤuftige Erklaͤ⸗ sie. allein dem Tractat über. Genesin aus⸗ \ erkläre; und so ihr werdet Christi Augen und Sehen n, so wirds 1 so
+
+Dingen, welche zwar der zen zu hoch sind, aber in Christo nur kindisch sind, nicht is bedoͤr fen, ich bescheide euch aber summarisch kurtz.
+
+8 Erstlich den Articul von der Schlangen, welche n dem luche hat müffen Erde essen und auf dem Bauche gehen, orm 90gewesen sey, aber ihr Corpus und Geist in avom er der Natur ist nicht also na 7 5 de 1 Boͤses und Gutes, von nd andern Principi in ihr offenbar, 1 2m ec daß die Natur den Grund der creition in [rei Centro in den Tinckuren schauen
+
+20, Sie isin ihrem Grunde vor dem creatüͤrlichen Ur⸗ 22da fiein Aysterio Magno in eine Schiedlichkeit zu einer 9 5 einzog, ein schoͤner Ens, grosser Kraft und Tugend, ge⸗ 21. Aber des Teufels Imagination, alser als ein Thron⸗Für⸗ Grunde der Natur in grosser Gewalt inne faß, hat diesen gistet, welcher sich in der Scheidung hatin eine Schlan⸗ vet, und darumbrauchte er sie auch zu feinem Werck⸗ zeuge,
+
+[p. 143] XXIEpiNolz Theofophiez, Ep⸗39.
+
+ine, durch derfel Liftund Gift, darinn au diemüchesß inne lag. Evam monstrosisch zu m
+
+Medici, For, Seimfichkeitauch wol wissen, was fieunter ihrem Gift verbot gen traͤob get; man den ihr nimt Lee ee (al. und recht procediret) so habet ihre eineSlakrvorGift,als keine 5 eichen seyn mag. 23. Sie war im Ente des My sterii Nigel, vor ihrer Cres, reine Jungfrau: Aber im Fluche ward sie eine Hure,ma⸗ aizu 1 Sie sahe in sich den Grund der innern * Welt darum muste einer aus der innern und aͤussern Welt kommen, und ihr Monstrum, welches fiehat in Evam einge⸗
+
+schmeisset, tödten.
+
+Davon wol ein gantz Buch zu f waͤre, was des Teufels n eibe vo sie gewircket
+
+25. Als sie aber das Bilde GOttes halfbetriegen,48 1 b fluchte sie GOtt, daß sie am ban Sd blind ward auch in den vier Elementen gantz offenbar ‚so Erden heim, daraus das Corpus war gegangen, undde den Grimm der Erden; den guten Eos möchte sie auch Erde, e En 1155 inderEr
+
+26. Sie istein fliegender Wurm
+
+Natur Fuͤsse gemacht, wie andern binerde der Erden 89 ihre Bebendigkeit und Lift hat Evam luͤstern gemacht. 27. Der ander punct.
+
+Vom Paradeis und dem ( ten Eden. Das Paradeis war die e deen Oüt schen, als er nicht wuste, was Boͤse u liche Licht durch die Natur schiene; tingirete) dann das Paradei wird innern Grunde wieder offenbar.
+
+o inBi
+
+8. Weil aber GOtt sahe und wa achnete das Paradeis nichtin der gantzen Welee rüchten,obes gleich überal offenbar war ‚son Ant arten Eden, da Adam versuchet war, dann das aber ist die Qualitat, als das Leben 29. Der dritte punct.
+
+Ob die Cpiere, weil sie im radeis gewesen, darzu gantz irdisch, auch Par Früchte gessen haben? Meine liebe Herren,(alieber 9 5 Frie⸗
+
+[p. 144] Br39. Theosophische Send⸗Briefe. 137
+
+Friederich) einieder Geist isset vonfeiner Mutter; daraus Thiere waren, daraus affen fieauch; als dieQuint⸗Essentz der Erden im spiritu daundi war der Thiere tiefster Grund noch lange nicht dem Menschen gleich, alsoassen sie von ihrer Mut⸗ ter als der Geist vom Spiritu Mundi, und der Leib von den 4 Elemententen. an Mae 30. Gott wuste wol daß der Mensch würde fallen, was sol⸗ te dann den Thieren das Paradeis Essen, zwar in der Quin Essentia lieget eine Paradeisische Eigenschaft ,davon en noch heute. Dann es ist eine Kraft in iedem Thiere,we unzerbrechlich ist welche der Spiritus Mundi in sich zeucht, nu! Scheidung des letzten Gerichtes. 31. Der vierte Punct. Ob sie (die Thiere) auch so zottig gewesen. Meine liebe Herren, (al.mein lieb Herrer Friede⸗ vich) das Kleid, das Adam vorm Fluch hatte, daernoch nacket wadas stund ihme gar schoͤn an, also auch denThiereihr rauch Fell; Aber im Fluche hat sich alles, in den Thieren der Erden, in ein Nonstrum gewandelt, fit haben
+
+Kleid wol also gehabt, aber viel herrlicher in Farbe und uh 100. Nh rde aus der reinen Tinetur. 32. Und bitte, wollet durch diese Frage hindurch ins Myste num Magnum mit Christi Augen sehen, in deme alle Schaͤtze der Weisheit inne liegen, so werdet ihr es im Verstande besser feben, als ich ihm so eilend und kurtz kann schreiben. Und em⸗ pfehle euch der bebe JEsu Ehristi. E. D. W. J. B
+
+Tritt air
+
+### XL. Send
+
+179%
+
+Brief. .
+
+An Herrn Friederich Krausen, aedic. D.
+
+BVBVaom 9. Februar, 1623. „.eI. utor auf Or. Krausens un59 „ Golth Alth. 5 Til⸗ 655 kens Wee nk Nom.
+
+Cap.9.10.11. erkläret,2.in christlicher gebe, Bescheidenheit und Demuth 33. und zwar aus gutem Bedacht, etwas völlig und weit⸗
+
+Täuftig. 4.
+
+solche wiederwertig⸗anscheinend Sprücehe eoncordi⸗ gen will,muß auch den Verstand der Einigung haben, s. daß es nicht
+
+— 9575Waͤhnen sey, 6. sondern ein Aussprechen aus dem H. Wort der 7. * N —— rungen En— . 17 Unterricht. s. Wo im Menschen geboreni böret aller Siren auf. 9. Autor versichert, daß er nicht aus Affecten 10. gleich erder feindlichen Gegenwüese auch bald verge kn, Seinede Ansoderungen an Valth. Tüten.41 Autor hat
+
+[p. 145] XXI Epistolæ Theosophier; Ep. — bobe Mysteria, sondern allein das2
+
+Hilo de e See berit
+
+; NRe Boa u ver en. 18 wird, hat aller Streit ein Ende —— der Aich ward
+
+Aberhe 1.
+
+On geboren unser Zeil im Leben Jesu Christi inuns! Einvielgeliebter Herr D. Christlich treuer und wahrer Freund; ichwuͤnsche euch in treuer und wahrer mit⸗ wirckenden biebe⸗Begierde GOttes Licht und wirck⸗ liche Kraft in unserm Lebens ⸗Baum JEsu Chri o, neben aller leiblichen Wolfahrt samt allen Eurigen, und denen die die JEsum begehen und lieb haben!
+
+2. Auf Euer und dann Herrn Baltbhasar TiltensBegehren babeichmir fuͤrgenommen die aufgezeichnete Pr welche Her Balıbafarkilten aufgezeichnet inseinem mir von uͤbergebenen Schreiben, darinnen ich bin vermahnet
+
+sulchein Christlicher diebe nach meinen Gaben und zu erklaͤren, sonderlich die Epistel S. Pauli zun Roͤmernam 10 .f. Cap. in welcher die Vernunft anstösset: Welches ichmi allein mit Erklären der angedeuteten Schrift ⸗Spruͤche gerne und williginChristlicher Pflicht und Wolmeinen gethan dern habe auch den wahren Grund Goͤttlicher Offenbarung dermassen dargethan / und beschrieben, daß ich der Hoffnung bin, man wird die Wahrheit sehen.
+
+3. Ist aber ein Gemuͤth vorhanden das Goͤttlich gesinnet itt and Ottdie Ehre gebenar ers ich „edwird meinem Begriff, und nicht anderst gedeutet werden, wie vormaln geschehen ist: welches ich an seinen Ort stelle, und
+
+Christliche diebe demselben vorsetze,als wir in Christo schul⸗ dig seynd, einander freundlich zu unter weisen in unsern unter?
+
+schiedlichen Gaben, und darinnen GOtt die Ehre zu geben und niemanden in Goͤttlichen Gaben zu verachten: Dann wer das thut, der laͤstert den H. Geist, über welchen die Schrift einen harten und strengen Sententz spricht, Marc. 3:29.
+
+4. Ob nun wol dieser Tractat von der .
+
+etwas weitlaͤuftig ist daran wolle der Leser keinen Berdruß nebs men: dann es deuchte mich zu schwer fallen, daß ich eine solche
+
+Schriftohne e oder genugsamen Grund solte2
+
+[p. 146] Br. 40. Theosophische Send Briefe. 139 erklaͤren. So habe ich die angedeuteten Sprüche biren Grund gesetzet und gewiesen/ wie sie in ihrem Centro urstanden, und was derer Senfus und Verstand sey. Dannes ist nicht genug daß ich einen gantzen Hauffen
+
+Syruͤche der Schrift dagegen setze, und den angezogenen wies — ne : ser Nein, nein, das gilt vor GOtt und der Wahrheit es soll nicht vergehen ein einiger Tuͤteloder Buch⸗ bises alles erfuͤllet werde, saget Christus des Gesetzes, Tuc. 16:17. Die Spruͤche der Schrift muͤssen wahr bleiben, und nicht wieder einander anstossen :und ob sie gleich scheinen wiederwertig zu seyn/ so istsdoch nur bey denen/welchen der ber nicht isteen sie zu Erklärung der ten nicht 5. Wer iche aber2 wil barübermachen Biefelben inerklären, der Einigung haben, daß er weiß muß auch den Verstand iejenigen ; welche scheinen der Vernunft ein Contrarlum zu concordiren, und solches nicht auf einen Wahn fegen, will gewiß davon lehren.
+
+8 Waͤhnen (oder Meinung) kommet nur und stehetdaraufdie grosse Babylon, als die geistliche Si. erey, da einer ein Apostel seyn will, und ist aber tt gesandt noch erkant n sondern Käufenur neund Trieb des Spir. Mundi, 7. Und obwol mancher im Zug des Vaters läuft;0 ihm
+
+Ba: Licht des ewigen Lebens im Wort der Goͤttli⸗ als ein Aus sprechen des H.und natürlichen Wor⸗ Schiedlichkeit, daraus die Creation istentstanden, und Gutes feinen Urstand hat, nicht scheinet; so vermeineten Contraria der der Schrift einigen, und aus Einem Centro aus⸗ Ben en in der Einigung kein einiger Tuͤtel oder in Welches. ich weder Herrn Balthasar Tilten noch ie⸗ anders zum Verdruß setze, sondern nur wegen der irre
+
+Uneinigkeit der Vernunft, in welcher die und die Wahrheit verdecket lieget,daman in
+
+Arsieulvon GOttes Willen also in der Vernunft ohne ndrichtet undlauffet.
+
+Wo aber Christus im Menschen geboren iff, dahoͤret der auf, und spricht Gott der Vater fein Wort in u
+
+[p. 147] XXI Epistolz Theosophic®. Ep.4.
+
+Menschen aus. Zusolchen Schluͤssen muß eininnerlich Goͤttlich Licht seyn, welches Gewißheit gie⸗
+
+10. Dielen ractat werdet ihrbeyHerrnMbichaelvon
+
+Sendern können erlangen, deripmaniego anietzo empfangen hat, wel:
+
+cher nach meiner Hand 42Ben liebet /solchen Balthasar Een Schwagern zu
+
+Undob nicht wolle also ver⸗ dann e bega
+
+Sönlget Genf bald kann ver:
+
+Seen und wegwerfen, als ein boͤses Kraut welches ichn ernein meinem Garten einpflangen mag; | von —— boͤsesKraut. krachte, als nurwied aͤret nach im diese —. re welche GOtt —— — oder genug gründlich nach rungen nichtannehmlich nung waren oder schienen daßermauch wolle soviel; har em das 9. und 10. Capitel, und eben mtdem g ne Bösen und Guten, e
+
+Menschen und auffer dem Menschen sey; erklären, und auf
+
+Enfer Art ausführen. 13. ö die dagegen den⸗Stimme in des Weibes Samen im Paradeis erklare u dann die zwey binien, als (Y)des Reichen der der der beten ien schlichen — *— 27 gesprochenen Gnad pe
+
+Gnaden in der ein⸗ Erklaͤ⸗ m in — he Bike und Jacob nicht gefiel, daß er aus Chic te neGaben sehen lassen und deren Gr
+
+[p. 148] Br. 40. Theosophische Send⸗Briefe. 141 ge seine Gaben und Verstand an selbigen Orten spuͤren oder vernehmen.
+
+4.222400
+
+IRINA
+
+14. Und so ich dann werde feben, daß ihm Gott hat mehr
+
+Verstand diesor hohen Geheimniß geben als mir,sowill ichs mit Freuden annehmen, und ihn in seinen Gaben lieben, und unserm Gott dafuͤr dancken, und mich mit ihmin feiner Gabe, Artnach, im Geiste Christi erfreuen; welches alles gliedlicher unsern Bruͤdern und Ehristlichen Mitgliedern mehr nutzen und ein rau⸗ dienen wird, auch mehr Goͤttlich und Loͤblich seyn, als hes Contrarium aus Affecten, um menschlicher Eigenheit Willen.
+
+15: Ich bitte aber meinen GOtt in Christo, erwolle ihm sein Hertz aufschliessen, daß seine Seele moͤge in den Grund meiner Gaben sehen, dann wahrlich, ich bin ein einfaͤltiger Mann, und habe dieses hohe Nysterium weder gelernet noch gesuchet, oder ichts davon gewust; Ich habe Art solche allein das Hertze der Liebe in Christo JEsu gesuchet: als ich aber dasselbe mit meiner Seelen sehr grossen Freude habe er: —.— ist mir dieser Schatz Goͤttlicher und Natuͤrlicher ißeroͤffnet und gegeben worden.
+
+16. Mit welchem ich bishero nicht habe stoltziret, sondern von Hertzen begehret und zu G Ott geruffen,obdie Zeit geboren sey /daß diese Erkentniß in vieler Hertzen möchte offenbar wer⸗ den, über. welches ich auch meine Antwort kraͤftig erlanget ha⸗ be, daß ich wol weiß, was ich oft habeinmeinen Schriften angedeutet. 17. Und ob ich gleich darum in der Welt von vielen gehasset werde, so wird mans doch gar nahe sehen, warum GOtt einem Layen und albern Menschen Mysterium Magnum, als den Grund aller Heimlichkeiten eroͤffnet hat: und ich auch alle Dinge noch nicht offenbaren mag, was mir erkant ist, und doch wol bey wuͤrdigen Menschen geschehen moͤchte, so ich befinde, daß es G Ottes Wille waͤꝛe, und den Menschen gut; als mir dann wenigem gar ein edles Perlein geoffenbaret worden, wel⸗ seine Zeit zur wircklichen Nutzbarkeit hat, mir aber in meiner Seelen alle Stunden nutze ist: Und sollet euch fogroß nicht ob der Einfalt verwundern, was GOtt thut, dann die eederer 12 Ende ra Mehrers bitte und begehre ichvon Herrn Balthasar 18. Tilken, er wolle Christund lic inhder diebe mit *
+
+[p. 149] 142 XXI. Epistolæ Theofophicz,
+
+Ar. Ep.
+
+freundlich handeln, und meinen Namen nicht also, wie vor⸗ sere eäft tgel sbe h sH. GeiGa maln, verunglimpfen, dadurcde ,ihmdergleichenimGlimpfe geantwortet werden. soll esd . Würde solches aber über meine gute Meinung und Hof⸗ fen nicht geschehen /und ich weiter bey beuten und mit Schrif⸗ tenverunglimpfet werden so mir das mit gewissem Grunde zu Ohren und vor Augen kaͤme so soll er gewiß wissen, daß mirs an Antwort in Goͤttlicher Gabe zum Ernst nicht en wird, underdessen keinen Vortheil noch Ruhm haben soll. U meine es treulich, und ermahne ihn aus Christlicher diebe und 0 zur Antwort; will er die Sprüche nicht auf sensuali⸗ e, ausführliche Antwort erklären, so einige er nur die con⸗ traria, welche scheinen wiedereinander zu seyn, so wollen wir wechselen, und in Einen Grund unsere Gaben re einfuͤhren, unsern Bruͤdern zu Liebe. 20. Und empfehle Euch samt den Eurigen und allen denen, die das Kindlein JEfum suchen und begehren, in die wircken Liebe JEsu Christi ein, daß es möge in allen empf. und geboren werden, so hat der Streit ein Ende. Wann des mm ko tri zer pf Ko hl Sa ib wir wieder in die Temperatur, und sind in Christo alle nur mlen Aesten und Zweigen. Datum uvie Einer, als Ein Bain "| E. L. D. W. Goͤrlitz, ussupra.
+
+Der XII. Send» Brief.
+
+An Herrn Abraham von Franckenberg, auf Ludwigsdorf.
+
+1623. rii 20. Februa. Summarien.
+
+ate
+
+Weißagung von der iustehenden Zeit. P.S.
+
+Alan
+
+Vom
+
+S Frankaffungstdes Autoris Schrift vonder Gnaden⸗Wahl. 8. 13; S Er hat fein,verliehen Pfund bruͤderlich mitsetheilet.4. Daher uud tieser Grund des Tr. von der Gnaden⸗Wahl, 57. klare augen vieler Sprüche der Schrift, so da scheinen einan Mit contrair zuseyn. 3.9. Autor erbietet fichzu weiterer brüderlichen Ein⸗ ttheilung feines Talents, 10:13, undermahnet, sich nichtanfeiner falt zu ärgern, 14. daihm feine Gaben von dem Hoͤchsten vertrauet wor⸗ den. 15.
+
+v. H. 1. L.I.C. I.
+
+u.
+
+JE er in Christo geliebter Herr und vornehmer werther a.
+
+Nebenst treuerWuͤnschung Goͤttlichen pn:
+
+[p. 150] Br. 41. Theosophische Send⸗Briefe. 143 tes, in wirckender Göttlicher Kraft im Brunnquell derdiebe
+
+JEsu Christi, und aller zeitlichen Wolfahrt! wolte ich E. G. mit diesem Brieflein ersuchen, und treuer Christlicher Mei⸗ nung erinnern des Gespraͤches vom HerenD,Staritio und aller⸗ seits , wegen des Goͤttlichen Vorsatzes oder Willens über die Menschen.
+
+2. Welchem Hn.D. Staritio auffeine Quæstion dismal nicht g geantwortet worden ist, weiln ich mich dazumal wegen die⸗ ug in Goͤttlicher Beschaulichkeit des innern Grundes, durch den aͤussern Grund, auf ihre Schulen⸗Art, nicht geuͤbet tte, und auch das Con viv ium mit solchem Getraͤncke, so bey iir ungewoͤhnlich, den subtilen Verstand verdecket: Ich auch wegen ihrer Lateinischen Zungen an feinem Grunde, denselben insassen, verhindert ward, also daß er mit feiner ingefaffe: n Meinung, mit welcher er sich auf die Schrift gründete, darmit teiumphirete, aber ohne genugsamen Verstand der ans gezogenen Sprüche der Schrift, auch ohne genugsamen Grund der Vernunft⸗SchluͤssederLogica, in welcher er zwar treflich wol geübet ist auf ihre Schulen⸗ Art. 3. Mit welchem Gespraͤche ich mich hernach in Goͤttlicher
+
+Gnade, in den inwendigen Grund Göttlicher Beschaulichkeit, dasselbe zu probiren, eingewandt habe, und meinen GOtt um wahren Verstand aller dieser Gründe, dieselbe eigentlich und in speciezuverstehen, gebeten habe: Darauf mir ein solches n ,daran ich genugsame Ursache neben Goͤttlicher erschieneist Einführung in die Wunderwercke GOttes habe, mich auch gleich eine grosse Begierde darmit uͤberfallen, solchen Grund vom Böttlichen Willen und den ewigen Vorsatzen in der Prædestination, zu gruͤnden, und in ein Buch zu bringen.
+
+4. Welches, weiln es auch von Herrn Balthasar Tilken m andern mehr begehret worden, ich daran Ursache nehmen en: Nicht der Meinung, iemanden in seiner Opinion zu f rachten oder etwas schimpfliches und unchristliches wieder füͤrzunehmen, sondern zu treuer Christlicher Wolmeinung und bruͤderlicher Mittheilung, meines mir von GOtt verlie⸗ henen a
+
+F. Welches Werck dermassen also hoch und tiefgegründet
+
+8 den ist,daß man nicht allein den Grund dieser Fragen von Dries Willengruͤndlich verstehen; sondern auch den ver⸗ dorgenen GOttinfeiner Offenbarung an allen sichtbaren Din⸗
+
+[p. 151] 41. 144 XXI. Epistolæ Theosophier. Ep.
+
+erkennen kann, neben klarer Ausfuͤhrung, wieder Grun des Myfterii Magni, als das Ewige, ausge gke Ewi she Wei gewircket hat, dalle Dinge darinnen in Magischer Form ohne Creatur gesehen worden, verstanden werden mag. gn Ma iu My 6. Auch wi Wo St Bö ec ss im Loco dieser Weltin eine Schiedlichkeit und Bi 3 Creation eingeführet habe; wie der Urstand des Boͤsen u eft My St tl hi Gute rio Magoo ,in den ewiger Principien zu Goͤttlicher Offenba⸗ rung und Wirckung sey; Darinnen man nicht allein den ver⸗ n⸗ Wi Ot bo Of ga dern auch de äf Kr ausgesprochenes Wort Magni; als der Ewigkeit Wesen, wie das sen inein sichtbares, mm ko tü cr greisliche gs nh or was der Grund iSp üh sf y; kentlich und offenbar t; Cr Mu tl auch klar d, Ur Le seelisth
+
+So Wiederbringung hs Alten Testamen Gnaden, was Gottes Gerechtigkeit und die Wahl oder Vor5 füge sind, wie diese zu verstehen. 7. Auch klare Ausführung der Linien im Reicheder Ri Rei Kin sei Ad fenbarung in der eingesprochenen Gnaden⸗Stimme Ye. leibten Goͤttlichen Scieng im Worte der Liebe, inder Erbaͤrung.
+
+8. Und klare Ausführung der Sprüche der Schrift, son⸗
+
+9, Rö ul Pa S. ste Epi derlich die .che sich die Vernunft steuret: alda eingangerfemz f wel Caau sualischer wahrer Grund mit Probirung der Schrift führet worden ist; Aber nicht auf Art der Logica und de Schulen⸗Sachen, da man einander nur ae und einer des andern Grund und Meinung nicht will senst tte Knü son lischer Art im Verstandeitproschbir laͤ chet,
+
+[p. 152] |a
+
+Bell. Shebsophische Send⸗Briefe. gebtundäfkert,welches nur Babel ist eine Mutter der stol⸗ engroffen Hurerey der Jrrthüme dader Name Gottes ge⸗ ‚under H. Geist imbuchstabischen Worte von der Vernunft gerichtet und geschmahet wird welches mir in mei⸗ alent nicht gefallen wollen, also zu fahren, sintemal nicht eingiger Fuͤtel des Gesetzes der Schrift vergehen fol, bis es al let werde, und die Spruͤche der Schrift samt ihr wahr bleiben und kein ontrarium seyft.
+
+Vernunft meiner. ohabeichdieselben Sprüche, welche scheinen einander sontrar zu seyn als da geschrieben stehet: Gott will daß enschen geholfen werde; 1 Tim.2:4. Und dann;
+
+rstocket ihre Hertzen, daß sie es nicht verste⸗ e dgs schon sehen; Joh. 12. 40. also erfläret und
+
+Welches ich aus Christ⸗brüderlichem Hertzen gegen treulich und fleißig gethan, ai be mei 2 gexbieten, ob iemand noch ke und Meinung ffes
+
+Mb ihme in feinem Duͤncken noch nicht waͤre genug ges daß er soll Christlich und freundlich Handeln, und seine g samt ren Schluß zu Papier bringen, und mir den,fosoll ihm also auf dergleichen Fragen und Ein⸗
+
+9 antwortet werden, daß er sehen soll es sey Christliceh Weinet, und aus Göttlicher Gabe entsprossen. . Weiln dann E. Gestr. samt feinem Herrn Brudern herr 5155 Sigmund sowol die hochgelehrte Herrn Do⸗ res
+
+Joh. Daniel Roscho⸗ als HerrJ.S. (D.S9)und Herr
+
+5 meine gar liebe Herren, und im Lebens Baume Chrisfi ine ewige Mitglieder und Bruͤder in Christo sind, und jch eit als Gottliebende Hertzen, wesche Gott mit Ber⸗ de und Weisheit begabet, und darzu mit Christlichen Tu⸗ gezieret, derenichmich, gliedlicher Art nach, neben und ihnen freue und sie allezeit als meine guͤnstige geneigte
+
+Herren erkant habe,fohabe ich die Anordnung also gethan, aß sie dieses Tractats werden ein gran une sich bes ommen,
+
+[p. 153] 31. Ep.
+
+mit Bitte ,es wollen die Herren Christ⸗ bruͤderlich kommen, gegen einander handeln, und einander communiciren, sintemal n grosser Ursachen meines Talents mir das Nachschreibe wegen will hinderlich seyn, sonsten wolte ich jeden ein Exemplar da⸗ von senden. 12. Jedoch sodieser Tractat moͤchte verhalten werden und daß ihn E.Gestr. nicht zu Händen bekamen sowill ich ihnen Be⸗ meine eigene Hand schicken, und bitte sie wollen ihn ohne schwerde lesen und erwegen, sie werden also reichen Sinn dar⸗ innen finden, daß er ihnen wird zu vielen Dingen, vorab RT Christlicher Übung der neuen Geburt nuͤtzeseyn.
+
+3. Und was ich ihnen sonsten mehr in meinen wenigen
+
+Gaben dienen kaun, will ich allezeit treulich aue
+
+Auf⸗
+
+Pflicht, auch zu Danckbarkeit ihrer guten Gemuͤther, richtigkeit und Wolthaten gegen mir, in Bedacht seyn zu voll⸗ bringen.
+
+14. Und ob ich wol ein unansehnlicher Mann gegeni
+
+Hochheiten, so wol gegen den Herren Doctoren bin,sowol sie aber doch die Vernunft eine Weile einsperren, und dem daß es demHoͤhesten also gefalle, feine Wunder durch Ei tige und vor der Welt thoͤricht⸗geachtete Leute zu offet wie solches von der Welt hero zuallen Zeiten, wann Ver rungen haben sollen kommen, geschehen ist. 15. Und sollen die Herren gewiß wissen, daß es an Antwo auf iemands hohe und tieffinnige Fragen,
+
+so ferne sie nu tuͤglich und Christlich erkant werden nicht mangeln sol :
+
+ein solches mir vom Hoͤchsten vertrauet, und als ein Gnaden⸗
+
+Geschencke gegeben ist; Welches ich Christlicher Meinung melde, ob iemand noch Scrupel in der Meinung haͤtte,ob ich ihme in diebe davon helfen, und ihn in die Temperatur des Ge⸗ muͤthes bringen möchte, so solte mich keine Mühe tauren, ihme meine Gaund Sinn zu geben: Und befehle E. Gestr. sam den Seinigen in die Liebe JEsu Christi, und mich in ihr
+
+P.
+
+unst! Datum ut supra.
+
+S. 1. Die Tribulation und Zerbrechung
+
+schr Vergebene Hoffnung betreuget, dann des stigwuͤthen: ich besehr lwird Baumes Zerbrechung nahet sich welches ist erkant wordenin den Wundern.
+
+2. Das einheimische Feuer schadet dn game
+
+2,
+
+[p. 154] Br. 41. Theosophische Send⸗Briefe. Die Gerechtigkeit und Wahrheit a —— und rer windet sind rum 4. Man wird um eine leere, 4 alte Hütten trau⸗ ren, daran in der re nichts gelegen ist /und wird sich er⸗ bein ge um das Nest, da ihm der Satan seine Jungen ausge⸗ a; BerSher zu Babel istgrundlos worden, man meinet den mit Stützen zuerhalten, aberein Wind vom HErrn stös⸗ set ihnum 6. Der Menschen Hertzen und Gedancken werden offenbar vom HErrn, a daß sich der werden, dann es kommet eine Prob und 9 will . in 6 als ein Rohr, das der Wind beweget, weil sein Hertze wan⸗ em ifietzt hin, ietzt her, aufdaß fein beide Grund offenbar * ‚Biwerden sich verrathen, und um Leib und Gut durch Heucheley bringen. Die Heuchler und Maul⸗Christen werden verzagen wann ihr falscher Grund wird offenbar werden. 8: Das Orientalische Thier kriegt ein menschlich Hertz und
+
+Ahe unde das geschiehet, so hilft es den Thurn zu
+
+Babel mit seinen Klauen umreissen. In der Finsterniß der Mitternacht gehet eine Sonne ufwelche ihren Schein a den sensualischen Eigenschaften der Natur aller Wesen, aus dem geformeten ausgesprochenen und wiederaussprechenden Worte nimt; und das ist Wunder, »dr: sich alle Voͤlcker freuen. 10. Ein Adler hat junge Loͤwen in feinem Neste ausgebruͤ⸗ 5 und ihnen den Raubzugetragen, bis sie groß worden sind, in Hoffnung,sie 25 ihm wieder ihren Raub zutragen ;aber sie haben das vergessen, und nehmen dem Adler fein Nest, und.
+
+ihm seine den aus, und beissen ihm vor Uns treue die Klauen ab, daß er nicht mehr Raub holen kann, ob er möchte verhungern: Sie aber werden um des Adlers Nest und zerreissen sich im Zorne, bis ihr Zorn ein Feuer — welcher verbrennet, Nest solches vom HErrn fh, u. Wann der Reiche und Gewaltige wuͤste, worauf fein
+
+Grund stuͤnde, er würde in sich gehen und auf sein Ende sehen.
+
+12. Die Sonne giebet manchem Dinge sein Leben, und auch manchem den Tod. K 2
+
+13. Der
+
+[p. 155] ‚ 148 XXI. Epigole t Willen, als ein Kind in ggeene inei . Der also stille lie be, Lei Mete
+
+Edelste os ts der Mensch en und Re io Po 14.
+
+ul m& üb und führet ein Schwer uͤ sechs Winde, we a⸗ Of Die zerbrechen rung des siebenten Wind io Po verborgen gehalten ihm iitzt müͤs Wi 15. Welcher Ze aus ein groß Licht sc
+
+El ess fli Wa Gnaden⸗Bru m Sara erquicket werden, Amen.
+
+Der XIII. Send⸗ Brief. Freudenheim, Med. Dod logau.
+
+enis: Men
+
+55 * 1
+
+Vom 27. Februarii, 1623.
+
+Summarien.
+
+Tunsch zum seligen Neuen, Jahr. 9.1. Ki
+
+Al unten Freude, daß Christi Geist Doch noch feine 1 5 mitten den Dornen hat. 2.3. Autor will den Brüdern ger en,5. als Früchte feiner Göttlichen Erkentniß und Liebe mittheil 4.
+
+die Er von Christo selöst empfangen,6.und einen Rosen⸗Garten da. Brüder führen will.7. rne ran hat, darein er auch gefeine r Art von der Gnaden⸗Wahl machet viele bekümmert.8. 9. Warum d 10⸗14. Gingen die Neuen aus ihrer! be Autori nicht sch 7 get: so würde Christus in ihnen geboren. 1s. Die Seele hat k dsie gleich das Licht mit Adam verloren; illen in sich, 16. unob wieder anzünden. 17. mag es sich dochin enen Gottliche Licht ist nicht einfahrend, sondern aufgehenb, 18%
+
+Mensch ist nicht alsoverdorben, daß keine Möglichkeit mehrin ihme auf alle in 319. dann wie die Sünde auf alle: so ist auch die viebe ey nur andem, daß der Zweig de 51 hristo gedrungen, 20. und fehlet mes Saft nicht in sich ziehen will, 2. und den freyen, bosh.
+
+ü- len beliebet. 22:24. Und ob Gottes Liebe gegen ihm stehet, 28. doch das Nicht⸗Wollen im Wege.26.
+
+Darum sollen wir erkennen, wa
+
+OttinSiebe und Zorn sey 227. Gott wil nicht das Boͤse eg, und 29. E. wird allein in der Qual der Liebe des. Lichts verstanden.
+
+[p. 156] Keen
+
+Br.42. Theosophische Send⸗Briefe. Seeleindiesen ersincket, und des f ge nicht mehr will, sogehet weig der Liebe 1 0035. Autor siehet dis nicht in eigener
+
+See ern ce2% ae die Augen aufgethan z 31, welches beantwor⸗ ill gerne die 1 en wuͤn ten, rang sich ul dis kadlche Demuth und wahre Gelassenheit Ehristi 3 Banieenle dem ist alles Ben umsonst. 36. toris B ehrern. zu nutzen. 37. 38. Wolte man nur in
+
+5 waage 9 00Gott würde
+
+Den8 a 4—
+
+Zeit. 40.sq on solchen Sonnenschein abefvertziche39. Weissagung von 75.
+
+Sn, Acheter, Hochgelabtter Herr, neben treuer Wunschung durch die Liebe Christi mitwelcher Er uns
+
+In Ihm durch feine Menschheit in uns liebet, eines seli⸗ ann 3 43Feldenreichen Neuen JahresRBON IHN . Bolfa eber ist mir 5 daß ich ange abi er des Vaters im 8 ieChristi einen e nach dem edlen Perlein Göttlicher Erkentniß in ihme wircket. 3. W ches, weil esin dem Baume und Gewaͤchse, dorin⸗ mir, als von meinen nen ich auch selber mitgruͤne, geschiehet, Mitzweigen in unserm Englischen, Paradeisischen Perlen⸗ N Ba m, eitel Begierde und angenehmen Willen bringet, und mich gleichinmeinem Hingedencken erfreuet, daßdannoch der
+
+Geist Christi feine Kirche und Tempel mitten unter den Dora nen hat: wieesietzt im Ansehen ist, und wuͤnsche von Hertzen . t sch55 er Begierde, daß sie doch moͤchte staͤrcker grünen, dan Babel und das Reich des Zanckes und Streites moͤch en und wir in Einer Liebe, als die Kinder Chri⸗ m 90 tenuntereinander wallen.
+
+4.L wäre von Hertzen lieb, weil der Herr etliche meiner tenlieset, daß sie doch möchten nach meinem Begriffe Sinne verstanden werden: Nicht mir zum zeitlichen Ruhm, welcher in Christo, und nicht mein ist, sondern um un⸗ sere eee willen, so wir nach diesem Leben in gemein haben werden. 5. Als wolte ich auch gern meinen lieben Brüdern mein mir
+
+G Ottgegebenes Perlein mittheilen, aufdaß auch sie neben .— ag in erg Erkentniß und Liebe, Fruͤchte auf 6. und
+
+[p. 157] 150:
+
+XXI, Epistolæ Theosophicæ,
+
+Ep. 42.
+
+6. Und wiewol ichgegen dem Herrn zu achten als ein Kind bin, das unverstaͤndigift,fohat mir De,doch mein Heiland feiz niß aus feiner Liebe und Gnade einge⸗ nen Sinn und V gossen, und durch sich selber eröffnet, daß ich Ihn und feinen
+
+Willen kraͤftig erkenne. 7. Welches, ob es wol vor der Vernunft scheinet thoͤricht zu
+
+Fon so istmir es doch sonnenklar, und giebet mir Freude und
+
+Begierde, daß ich also in allen Anfechtungen vom Teufel und feinem Anhange mich kecklich darein mag verbergen, Auch wird mir meine Hoffnung darinnen mit Gottes Liebe⸗Feuer aufgeblasen, und habe gleich einen schoͤnen Rosen⸗Garten dar⸗ innen, welchen ich meinen Brüdern nicht alleine gerne gönnen will, sondern begehre und wuͤnsche von ‚Bergen, daß ihnen die güldene Rosen auch in ihnen bluͤhen möchte,
+
+8. Ich habe verstandenwie , sich der Herrnoch in dem Arti⸗
+
+00wegen Gottes Willen und seiner Bauüber die Menschen, bekuͤmmert, und noch in tiefem Wahne ist wegen des Rath⸗ schlages über die Menschen als wann Gott etliche nach feie nem Vorsatz erwehlete und etliche aus feinem Fürsatz nicht erwehlete, derowegen sie auch nicht im Geiste Christi zum Va⸗ ter ziehe, oder der Vater sie nicht in Christo ziehe. 9. Welches mich meines Theils sehr oft bekünmert und in mir wuͤnsche, daßes doch möchte ergriffen werden, wie der Grund in feiner Eigenschaft ist. 10. Dann die Worte der Schrift sind gar recht wegender Wahl, aber sie werden nicht recht verstanden, und daraus kom⸗ dertdas grosse Übel mit dem Streite. 1.Wann ich in das Centrum eingehe, so finde ich allen Grund, es istnichts so subtile /und mag nichts vom Goͤttlichen Willen gefraget werden, es ist sonnenklar darinnen offenbarz Dann ich finde den Urstand Alles, des Boͤsen und des Guten, Gottes Liebe und Zorns, beyde Begierden. 12. Die fuͤhre ich nur in die Menschheit Christi ein, wie Gott ist Mensch worden: Und betrachte wie die Gestalten menschlischer Eigenschaften sind in der Menschheit Christi, gantz ob ne particular mit der diebe GOttes in Christo mitdem Ewigen Worte oder Halle der Gottheit,alsmit demGGoͤttlichen Mercurio, mit Goͤttlicher Wesenheit als im Blute Ehristi tingie ret und der Grimm, so in menschlicher Eigenschaft mit Adam offenbar ward, gantz ersaͤuffet, und in ewigen Tod geschlossen r worden:
+
+[p. 158] Br.42. Theosophische Send⸗Briefe.
+
+sur Davon die Schrift nun saget: Tod, wo ist dein Sta⸗ ölle, wo ist dein Sieg? Hof, 13:5 1. Cor. 15: 55. leichwie der Artista und Philofop us den R Saturnum und4 Martem im & Mercurio (welcher im h und oo in ihrer ker, ein der eine boͤse Gift⸗Qual ist) in das als in
+
+Paradeisische Qual und Eigenschaft trans⸗ mutiret, da weder k
+
+Poder d in ihrer grimmigen Ei⸗ genschaften gefpüret wird sondern aus ihrer grimmigen Bos⸗ heit nn ein alls en der Liebe und Freudenreich.
+
+ibn fogehetesauch nun mit dem böfen Menschen, wann er sich in das Universal Christum aus feinem grimmigen Wils
+
+Christi, in der Gelassenheit einergiebet. d gleichwie die Sonne am Firmament den Boͤsen un eurescheinet, Matth. 5:45, also auch stehet die Bes des Universals 175 als die Goͤttliche Sonne, welche leuchtet, allen boͤsen Menschen entgegen; ;fchlöffen sie bren Willenauf und gingen aus der Ichheit aus, und setze⸗ de darein so würde Christus darinnen geboren. a0doch die Seele, was sie pur allein antrift, aus dem Pkprechenden Worte des Vaters, aus der Feuer-und elt, als aus GOttes eigenem Wesen, in das menschli⸗ Corpus eingesprochen oder eingeblasen worden, und hat
+
+Pillen frey (h aus dem Feuer als aus des Vaters Zorn, es ist die Ewige Natur, in welcher sie eine Creatur im ichen Sulphure ,Mercurio und sale ist: Und (a) aus dem Goͤttlicher Kraft im Goͤttlichen Halle, in welchem die feein Engel und GOttes Bilde ist.
+
+Pr Ban ob sie gleich das Licht mit Adam hat verloren, so doch Ehristus wiederbracht, und das Centrum der Liebe gemacht, daß sich des Lichtes Leben, so es feine Be⸗ abe uc, erhehet, mag in Cbristi Menschheit, welche von Einem in uberu von Einem auf alle drin⸗ anzuͤnden, Rom.5 1 werden: Er zuͤndet an, welche eech 7 will; so sage ich theuer und wahr, daß das Göttliche Licht end sey,sondern es ist auch in dem gottlosen Men⸗
+
+Centro verborgen gleichwie sich GOtt in der Zeit vers Es ist ane gleichwie der Schein einer Kertzen Kertzen entstehet. daß keine We Der Ruf istnichtalso1
+
+[p. 159] Ru
+
+33 XXI. Epistolæ Theosophier. Ep keit mehr inihme sey: und ober schon verdorben HE, so bat och e als eder angenemmen, das Centram feiner diebe, als die wahre Gottheit, welche sichin de
+
+Sünden verbarg, wieder in menschlscher Eigenschaft err
+
+20. Und wie die Suͤnde und der Grimm pon Adam, nen, drang auf Alle und in Alle; also auch drang die Be gung der Liebe GOttesinChristi Menfthheit, und aus Christi Menschheit durch die gantze Menschheit allerMenscden.
+
+21. Christus ward wieder das Hertz im menschlichen Bau⸗ me: Der Göttliche Hall, der sich in Ehrissi Menschheit he im Schalle offenbaret, der schallet durch Christi Menst beit im gautzen menschlichen Baume; und fehler nur an deme, daß der Zweig, der am Baume stehet, nicht will des Baumes Saft in sich ziehen. 22. Das geschiehet oft, daß die Grimme EigenschaftA Mars zu sehr liebet und insich zeucht, und die Oise erwecket, i dadurch der Zweig verdorret.
+
+23. Also auch ingleichem zeuchtderSeeleno Mats
+
+Grimm und Falschbeit in sich, damit wird ihr x Mercurius tig, so wird alsdann der h Saturnus, als die Impression
+
+Lebens1 Eigenschaft gantz dunckel und finster.
+
+24. Und so lange der Mercurius des Lebens in solcher schaft lebet, so mag er nicht von der diebe GOttesge werden, sondern vom Zorne GOttes, und ist also lang zu dammniß erwehlet, als er im freyen boshaftigen Willen lebet.
+
+25. Gottes Liebe stehet gegen ihme; aber er will deren nicht: Gott begehret fein, aber der Grimm haͤlt ihn, wie
+
+Ehr
+
+stus sagete: O Jerusalem, Jerusalem! wie oft habe ich deine Kinder wollen versamlen als eine Kluckhenne ihre Kuͤchlein un⸗ ter ihre Flügel und du haft nicht gewolt. Marth. 23137. Lucngtgg. 26, Das Ticht⸗Wollen istim Wege, daß sich der Mensch laͤsset GOttes Zorn, als den Grimm im ausgesprochenenx Mercurio, nach des Vaters Feuers⸗Eigenschaft, im Leben halten: Alhie lieget das boͤse Kind!
+
+er;
+
+27. Lieben Brüder, lernet nur kennen, was Gchtt in Lie⸗ be und Zorne sey, und wie der Mensch eben dasselde Wesen selber, und ein Bilde aus dem Ewigen Geiste sen. 28. Saget ja nicht, Gott wolle das Boͤse; Er een Boͤses wollen, nach der Eigenschaft soviel Er Gott Heissen
+
+So ich aber dieselbe Eigenschaft wolte GOtt heissen, so 1
+
+[p. 160] Bu:
+
+Br.42. Theosophische Send⸗Briefe.
+
+ee und die Finsterniß Licht, und den Tem
+
+Ae einen Engel
+
+29. Es istwolalles GOttes, aber in der Qual der Liebe deslicheswird allein G Ott verstanden,„der Zorn ist in kichteeine Ursache der Liebe⸗Begierde und der Freu⸗ reiche 30. Wann die Seele ihre Feuer⸗Begierde aus ihrem selbst⸗ —.— in die Liebe Begierde GOttes einführet, und ihrer selbst⸗eigenen Ichheit in GOttes Erbarmen ersin⸗ nd wirft sichin Christi Tod ein, und will nicht mehr des er⸗Qualles, sondern will in ihrem Feuer⸗Leben in Christi todt seyn, fostirbet der Geist des Mercurialischen Lebens im Willen der Bosheit, und gehet auf ein neuer Zweig und Gruͤnen der Liebe⸗Begierde. 31. Mein lieber Herr und Bruder, wisset, ich chreibe nicht m ich habe es selber erfahren ich bin in eu⸗ um Wissen, st ohne re Wahne so tief gewesen als ihr; aber mein Heiland JEsus neen aufgethan, daß ich sehe: nicht in meiner bat mirmei Aus
+
+˖ ich/sondern in feiner, wie Er mich in Ihm kennet, nd wie erinmir sehen will. Und wuͤnsche von Hertzen, daß moͤchtet nit in mein Sehen einsehen, und aus meinem Sehen mir sehen, ich wolte euch mein Hertz und Liebe gerne zum kigenthum geben, und durch diesen Schein aus euch sehen.
+
+32. Aber ich vermercke daß ich euch noch sehr stumm bin, und bin inmeiner mir gegebenen Wissenschaft noch von euch nicht recht erkant worden, wuͤnsche aber, daß es noch geschehe. 33. Bitte und ermahne euch Christlich und in Demuth, wollet doch nur so viel thun, und die Gegenwüͤrfe so viel ihr vermoͤget, zusammen fassen, und mir schriftlich uͤbersenden, thun nach meinen Gaben als ein Christ thun soll, und dieselben dermassen erklaren, daß ich verhoffe, ihr sollet mich darinnen bruͤderlich erkennen. 34. Nicht daß ich mir solches zumesse zu thun aus meiner Ichheit, sondern meine Begierde, die in mir als ein Feuer ennet, fordert daß von euch; und ich, der ich der Ich bin, poffezuGOtt es werde uns beyden gelingen, daß uns GOtt in seiner Liebe⸗ Begierde und Erkentniß werde einigen. | 1 soll euch nicht zum Spott oder Verschmaͤhung ge⸗ en, dann ich habe ein Hertz, das Heimlichkeit schweigen vn und ermahne euch in Liebe zur SEN Demuth in der wah⸗
+
+[p. 161] * r
+
+XXI Epistolæ Theosophieæ. Ep. 42 mae
+
+Christi, darinnen vermöget ihres den
+
+2 5 Aders ist mein Wol⸗Wollen und Beginnen allesums
+
+101dann ich kann euch nichts geben als meinen geneigten
+
+Willen: wollet ihr ihn annehmen, wol, gut; wo nicht,so be⸗ zeuge ich vor eurem und GOttes Angefichte, daß ich aneuch und in euch mein recht Christliches Beginnen gesetzet habe und das meine gethan, wie mir esim Gewissen angelegen ist.
+
+37. Ich möchte auch noch wol im kurtzem selber, jo es die Pe leiden wolte, und ich wüste, daß es zu GOttes Ehren und menschlichem Heil dienlich wäre, aus dieser Ursachen eure Gegend ankommen und euch besuchen. Dann ich weiß noch gar viel durstige Seelen, mit denen ich mich moͤchte rk ber erquicken und sie in mir.
+
+38. Ich hab anietzo noch gar ein edles Kraͤutlein gefunden, das euch wol möchte dienen, nicht allein zur Seelen, 3 auch zum Leibe, und euren Patienten nutzen.
+
+2 So man wolte in Ehristi Weinberge arbeiten, dörfte Gott noch wol aniego einen solchen Sonnenschein geben, der die Apothecken erwaͤrmete, deffen viel fromme LeuteFon
+
+Zeitbegieriggermefenmeldee Babel vertreiben, al und Elende eine Erquickung seyn.
+
+>Treuen, e
+
+soon > bie e Er vonehe grausam regnenund hageln, ben, und viel 1000 Seelen im Wasser ersauffen. 41. Ich wolte euch wol lieber alhie etwas melden,mag aber diesesmal nicht seyn; wollet nur auf das Ungewitter ge⸗ gen Morgen Acht haben, das gegen Mitternacht ist nicht weit davon:
+
+Im Mittage ist ein grosser Rauch, daß er die am
+
+Abend in die Augen beisset.
+
+42. Es darf niemand sagen, wann das Ungewitter daher dieser oder jener ist vor GOtt gerecht, es wird ibme gelingen wegen feiner Religion.
+
+43. Der Zorn Gottes istin allen entbrant, und sind: vor ihm wegen ihrer Religion und Wißene alle gleich, 1 einer lebet wie der ander. 44. Der Allerboͤchste kebret einen Besen mit dem andern aus; aber eine Lilie gruͤnet allen Voͤlckern, wol denen, wen sie ergreiffen.
+
+45. Die
+
+[p. 162] Br.4s. Theosophische Send Briefe. 155
+
+45. Die durstige Seele soll mit nichten sagen: Der HErr bat mein vergessen, der 7 hat mich verlassen. So wenig r es Kindes vergessen; und obsie des ver⸗ n ihr kane eineMutt
+
+Sk, so hat doch der HErr feiner armen hochbedraͤngten
+
+. Cheilt nicht vergessen; Er hat siein feine durchgrabene Näͤgelmal eingezeichnet. EI. 40:14. 46. Sein Licht soll feheinen vom Aufgang bis zum Nieder⸗ gang, zu einem Zeugniß über alle Voͤlcker. J. Eine Lilie stehet von Mittag gegen Mitternacht: dieselbe wird zum Eigenthum bekommen, der wird n das Lied von GOttes Barmhertzigkeit; und in feiner des HErrn Wort wie Gras auf Erden, und die
+
+singen das Lied von Babel in Einer Stimme, dann das Ende funden. Und lasset euch meine dunckele Reden indenck seyn, anbessehabeichs auf ietzo nicht vermocht Weil man nur nach Hoffart und Geitzbat getrachter, den Zorn⸗Spiegel verachtet, und nicht Busse gethan, so geren mit Ubel, bis sich das Ubel selber fresse, und sich
+
+Gotteswol ergetze. wird menschliche Vernunft wenig hindern mit ihren lägen, sondern das Feuer nur aufblasen und mehr ware gut für Noth; weil man aber verlaͤsset 2 Noth und Spott ech. einiederwol Achtung auf sich selber; iedoch der achfal nicht ie wird suchen und behuͤten, der wird gesuchet und behuͤtet werden. Und empfehle Euch der Liebe JEsu Chris Mr Datum Goͤrlitz, ut supra. Euer in der Liebe Christi 222
+
+XIII. Send⸗ Brief.
+
+An Herrn N. N.
+
+der Einreitung Christi, 1623. Am Tage
+
+{
+
+Summarien.
+
+stand
+
+Göttlicher Gmaden :Erbarınung Fam man feinen Zus und in erkennen. 6. 1. 2. Die Versuchungen
+
+2 und — er eignen Natur, in welche der Teufel
+
+Een: Liebe , so der Liebe GOttes ent⸗
+
+Pa: Begierde anche; 4. diese Versuchung ist die gröfiche,
+
+[p. 163] 1s
+
+XXI. Epistolæ Thebsophlck. Fp. 43.
+
+und eben der Streit hristi in unsss. .
+
+äh
+
+so uns nicht waͤre die Liebe GOttes in Christo eingerlöffet worden. weil
+
+Christus ihm das
+
+Rau oß
+
+stuͤrme den Kopfserttitz5 und die Seele in der Wösken N Versuchun een rachen der ann eigenen Natur ist, daß wann einmalerleuchtet, sie e vo Eigenthum haben ul u. 0 8 ernunst. 12 Hi, an a 12. .15 atur so eigenen eus ersterben: daher komme tungen; 5 6
+
+Gottloser. 14. 15. 125 fut leben; so muß der eigene Lust⸗Geist sterben. ibid. Diez. Versuchung
+
+stebet im Willen und e auch im Fleisch und Blut, als Teuffels Raubschlöͤssern. Nun mag ein leder prüfen, w Anfechtung sey 217. Alle Si ist in der Eigenheit. 18. licher Rath dagegen. 19. Christus selbst streitet um unsere Lassen wir allen irdischen Willen fahren, und ergeben uns ihme und gar, so werden wir mit Christo Ritter über alle unsere Bae
+
+Ufer Seilim &eben eh Christi iinn uns! er Zelgeliehter Herr und gliederlicher Mitbruder in 755 unserm Heilande; nebenst hertzlicher Wuͤnsch mitwirckender Begierde Goͤttlicher Liebe und de; wolte ich dem Herrn in Christlicher diebe nicht bergen daß ichin Christlichem Mitleiden feinen Zustand betrachte und in die Gnaden Erbarmung des Allerhoͤchsten eingefuͤhr was mir derselbe wolte hierinnen zu erkennen geben. 2. Darauf ich dem Herrn dleses melde, daß ichzu folkbe Befibaulichkeit ıin derselben Gnaden Erbarmung begen Herrn Zustandes und Versuchung gelanget bin, und Bein Ursache erkant habe, und will solches dem Herrn d zu einer Erinnerung entwerfen, daß er solches bey ein e solle erwegen. 3. Die erste Ursach solcherwircklichen Verfuchu übernatürliche, unuͤberschwengliche Liebe GOttes, als Goͤtt⸗
+
+Willedes Men⸗ licher guter Wille, und dann der ereatuͤrliche schen gegen einander, daß sich der menschliche Wille solcher grossen Gugden GOttes, welche ihme aus lauter Liebe anges boten wird, nicht gantz ergeben und vertrauen will; sot suchet seine Ichheit und Eigenliebe des vergaͤnglichen Wesen und liebet sich setber und dieser Welt Wesen mehr als G 4. So versuchet den Menschen feine eigene Natur, in ihrem Centto ausser der ebe Gottes ineitel Ang,3
+
+[p. 164] Br.43. Theosophische SendBriefe.
+
+157.
+
+ehr stehet, inwelche der Teufel N Menschen von solcher hohen Gnade Barre . diebe GOttes abzufuͤhren. NS Te Burg ist die gröste,und ist eben der Streit, hristus mit seiner eingegossenen Liebe in des Men⸗ Natur, wir solche Ichheit/ auch wieder &HDtted Zorn, Tod, Teufelund Hölle Halt :Da der menschliche Dra⸗ it der Liebe at verschlungen und transmutiret werden in ein Englisches Bild.
+
+d soeuch nicht wäre die giebe GOttes in Christo ein⸗ worden, so hattet ihr diesen Streit nicht; sondern der
+
+—.— als der falsche Teufels⸗Wille, behielte sein Natur⸗
+
+1. S geschiehet nun diese aͤngstliche Anfechtung in der Nas 4—.— empfindlich von dem Drachen, welcher sich mit sei⸗ ner eigenen Natur 1 wann solche grofle Liehe GOttes u— Natur: Recht in einenGoͤttlichen verw
+
+De albie stebet Christus als der SchlangenTreter chen in der Höfe, und stuͤrmet dem Teufel fein Raub⸗ daher kommet solcher Streit,da Christus und Lueifer — die Seele streiten, wie euch GOtt in der er⸗ chung hat sehen und erkennen lassen.
+
+meren ehen der San 8 Kop bandalfo, chlange istum in die Ferse:
+
+et die ars in Mitten in grossem Zittern und Trauren; und rbey nichts thun als nur in der Hoffnung stehen, ver⸗ he ihr Angesicht nicht vor GOtt zu erheben und ihr ee zu verbringen, dann der Drache wendet ihr das Ge⸗ . diese Welt in Eitelkeit, und weiset ihr der Welt nd Herrlichkeit, und spottet ihrer, daß sie will eine andere .
+
+werden, und halt ihr vor das Reich, darinnen
+
+siestehet, und ihren natuͤrlichen Grund.
+
+10. Und alhie stehet die Seele mit Chriffo in der Wuͤsten inderviertzig⸗taͤgigen Versuchung, da ihr dieser Welt Macht, chkeit, Reichthum und Wollust angeboten wird, sie ud 2 wieder erheben, und in das Selb⸗ Wollenein⸗ Die andere Versuchung vom Lucifer und eigenen Dra⸗
+
+Sade daß wann die Seele hat die Sue iebe
+
+[p. 165] XXI.Epiftole Theofophiez,
+
+Ep. 43.
+
+Liebe — und einmal ist erleuchtet worden, so will die Seele dasselbe Licht zum Eigenthum haben, und in ihrer Habs haftigkeit in eigener Gewalt darinnen wircken, ee
+
+Natur der Seelen, welche ausser GOttes Licht ein Drache ist, wie Lucifer, die will es zum Eigenthum haben; aber das cher
+
+Na⸗ tur⸗Recht will dieser Drache nicht übergeben, er will ein Ma⸗ und Schöpfer der Goͤttlichen Kraft seyn, und in gre
+
+2. in feiner Feuers⸗Natur darinnen leben, und das mag t seyn. 12. Dieser Drache als die Feuers⸗Natur, mitseinem eige⸗ nen Willen soll sich lassen in ein Liebe⸗Feuer verwandeln, sein Natur⸗Recht verlassen: Er aber will es nicht gerne thun, sondern siehet sich in solcher Verwandelung um nach eigener Macht, und findet keine; so hebet er an zu zweifeln an der Gnade, dieweil er siehet, daß er soll in solcher Wirckung feine natuͤrliche Begierde und Willen verlassen, so erzittert erim⸗ merdar, und will nicht des eigenen Natur »Rechtes indem Goͤttlichen Lichte ersterben; er dencket immerdar, das Gna⸗ den⸗Licht, welches ohne solche Schaͤrfe und Feuers⸗Macht wircket, sey ein falsches Licht.
+
+13. Daher kommt es, daß alsdann deraͤusserenV welche ohne das nichts siehet, immer dar duͤncket: O wer
+
+SEM weiß, wie es mit dir ist, obs auch wahr sey, daß dich GOtt erlem habe, daß er in dir ist, es mag etwann eine solche Einbildun
+
+seyn gewesen; Du siehest doch nicht dergleichen an nern Leuten, sie gedencken gleichwol felig zu werden, als du; du bist nur der Welt darum zum Narren worden, und steheff doch in Furcht und Zittern vor GOttes Zorn, mehr als . Fe der verheissenen Gnade troͤsten auf die zukünftige
+
+Of enbarung. 14. Also koͤmmet es alsdann, daß wol derinwendige Grund nach der Anzuͤndung und Bewegniß des Lichtes seuftzet, und gerne wolte haben; aber die Natur vermag nichts, ihr ist als ware sie gantz von Gott verstossen, welches auch — . nach dem eigenen Willen, dann GOtt hat einen neuen in sie gepflantzet, sie fol ihres eigenen Willens ersterben und in GOttes Willen gewandelt werden. 15. Und darum, daß alhie der Natur⸗Wille sterben, und sein
+
+Recht übergeben fol dem Willen GOttes, so sind solche schwe⸗ re Anfechtungen darinnen, dann der Teufel will nicht /4
+
+[p. 166] Briefe. 159 Send» Br.43. Theosophi Raubschloß einfalle: Dantz soll Christus im Menschen le⸗ en, jomuß der eigene Lust⸗Geist sterben; Und da erdoch nicht et dieser Zeit wegen des Fleisches, sondern täglich ntz stirbin rbet, und doch lebet: Darum ist solcher Streit, welchen kein jottloser füblet , sondern nur diese, welche Christum angezo⸗ indenen Christus mit dem Lucifer streitet. 6. Die dritte Anfechtung stehet inden Raubschloͤssern des „al8 im Willen und Gemuͤthe, sowol im Fleisch und ut,da in dem Menschen liegen die falschen Ceutra, als da 0 Wille zu hoffaͤrtigem zeitlichem Leben, zu Fleisches⸗ zuzu irdischen Dingen; Item, viel Fluͤche der Menschen, me sind durch feine Versuchung in Leib und Seele ge⸗ worden: Alle Sünden, welche sich haben eincentri⸗
+
+Geist⸗Gestirne stehen, als ein festes Schloß, in wel
+
+Ehristus ietzo stuͤrmet und es zerbrechen will, welches der eigenen Macht, Wollust und Schoͤnheit dieser der menschliche Wille noch immerdar für Eigenthum
+
+sei er balt, und nicht will übergeben, und Christo ge⸗ Amen. Darum, mein lieber Herr und Christlicher Bruder, fuͤ⸗ 8c Sea gebe es euch zu erkennen, was mir unser lieber
+
+IJEsus Christus in meiner Betrachtung gezeiget hat:
+
+et euch selber, was eure Anfechtung sey. Unser lieber sagete: Wir sollen alles verlassen, und Ihme nachfol⸗
+
+1 ; Mate, 10:al. So wären wir recht Geistlich arm.
+
+— 1 es nun, daß ihr mit eurem Gemuͤthe noch etwas in Eigen. Lustirdischer Dinge stecket, so habet ihr darinnen, als indenselben Centris, welche noch in euch wircken, solche An⸗
+
+19. Wollet ihr aber meinem kindlichen Rath folgen, so für daß;so solche Anfechtungen in euch aufgehen, sollet ihr euch anders nichts einbilden, als das bittere Leiden und Spott, Sterben unsers HErrn, und feine Schmach rzu seine Armseligkeit in dieser Welt; was er fir uns arme
+
+Menschen hat gethan, und eure Begierde und gantzen Willen darein ergeben, daß ihr gerne wollet feinem Bilde ähnlich Ihme in seinem Proceß willig und gerne nach⸗ werden, und und alles das, was euch zu leiden aufgeleget wird, um gerne dulden, und nur Ihme begehren ähnlich zu niedrig gerne willen Liebe feiner werden, — 3° [p. 167] r. sb Pp 166 XXI hr um dieselbe
+
+DR zhme gan ne es Christlichen. Gegeben am Tage der Ein a. sti zu seinem Leiden und St2 40 85 *
+
+SEE ara.
+
+„ip
+
+‘
+
+Der x XLIV. Send BariAraleAf
+
+Ca Vom 7. Maji, 162. Kuh
+
+Summarien.
+
+l⸗ ilt Chr hle Büc nde rse Mus übe 91 Gibt Nachricht von etliche det fein Vorhaben dabey. Ör elb ens te, Bit uͤt Gem ernstl ae eee e zu helsen. 43.
+
+Unser Heil Im Leben Esu Christi In Uns ler, in Christo geliebter Herr. Nebenst hertzliche Muünschung Goͤttliches Lichts in wircklicher Kra
+
+#### H. Entis in unserm Immanuel, uͤbersende ich!
+
+mt cker das Büch Bo Bo ey dr sol rede /es wo te das gen als die Vo und hatte das erste Capitel wieder an⸗ Büchlein umschreiben, ki Bü rh gefa äl nf ta chere Form“, las Ju br Drucke zu ehe, redest nehesdnörche:
+
+r.
+
+Siehe das 2. D Fhleln von der Tauffe.
+
+[p. 168] Big45. Theosophische Send-Briefe. 461 eiben, wegen des hohen Sinnes; weiler und andere ge⸗ diesen Sinn wol verstehen, sokann man den Pehenbegchten Sinnen das Hohe geben. und den Einfaltigen dee wiewol sie beyde eines Verstandes seyn wer⸗ 45 e daß in dem gedruckten einfälti e rauchet werden.
+
+‚Sürftenauer lässet den Juncker falutren in
+
+=it ‚feinem. Pfarrer von Jodel handeln daß er 05 altern soll was abschreiben; so ihme der Juncker willdi lassen schreiben, sokoͤnte125
+
+120sie15dem Juncker dieses, wie daß ich bey5 auern was 1
+
+6Grosses vermercket habe, mit einem mächtigen Strahl feiner Gnaden ber welches ichkraft7 Seele und Geist50 hoffe zu GOtt, es werde mit kühe errnJohann Sigmund von Schweinich. l
+
+Be wuͤnsche und zu10 t. flehe, daß es geschehe, den Proceß mit Augen gesehen, davon ferner zu15 reit. Bitte es in geheim zu halten, und mit gemeldtem helfen mit Gebete im Geiste Christi ringen, als uns sol⸗ gebuͤhret: und empfehle den Juncker der Liebe JE isti. Be SEHR den 7.Mast A.C. 16232.
+
+md
+
+J. B. 4
+
+| ae Der xv. Send⸗ Brief. Bernhard. An Humm 1 9 Rn.NY * re Bet:
+
+ft Aal usch. g.1. Gott thut feine Gnaden⸗Thuͤr immer mehr und mehr auf, daß vieler Hertzen gerühret werden, 2. und die neue TE 3 auchinden Vornehmen der Welt in grosser 6515 es
+
+Sonderliches Exempel davon, 4. durch Aukoris Büͤch⸗
+
+Du, gewircket. 5. Autor berichtet dis, andere damit Auch sind etliche Pharisaer durch feine Schriften aer geruͤhret worden, 3. ausser den Gelehr⸗ Br ge Conversation gehabt. 8. Do 5.9923 auch der Ps weveRR und will es fressen ibid. Darum sol⸗ seyn: Gottes Kindern muß doch alles zum
+
+IR
+
+RER
+
+Unser
+
+[p. 169] Ep. 45.
+
+Unser Seil im Leben IEsu Ebeiftiinuns! Jelaeliebter Herr, Bruder Christian, ich wuͤnsche euch Gottes wirckende Kraft daß der Quellbrunn im reben JEsu Cbristi in euch moͤge quellen reichlich, und eure Seele in demselben möge stets erlabet werden, und dieses heili⸗ en Wassers trincken, auch darinnen wachsen gruͤnen und viel gute Früchte tragen, neben leitlicher Wolfahrt! Und erfreue mich eurer glücklichen Ankunft, daß euch GOtt mit Gesund⸗ geholfen. Haufe heit 2. Mich, Gott Lob, sollet ihr auch noch in guter Gesund⸗ it. und in meinem Talent wirckende wissen: dann mir GOtt seine Gnaden ⸗Thuͤr ie mehr und mehr aufgethan,und nicht alleine mir, sondern auch vielen andern, welche diese Schrif⸗ ten zu lesen bekommen, welchen GOtt ihre Hertzen ge daß sie sind in die Busse und Bekehrung getreten, und sind sich selber zu innerlicher Goͤttlicher Beschaulichkeit kom und begehren das Kleid der Suͤnden und Unteinigkeit we werfen, und Christo im Leben und Willen nachzufolgen.
+
+3. Wie mir dann vor wenig Tagen ist ein solcher Wee
+
+Personen (welche doch in der Welt hoch sind; und zu⸗ vor die Welt geliebet) vorgestellet worden, an denen ichd neue Geburt in grosser Kraft, und im Triumph Goͤttlicher Er»
+
+kentniß, in solcher Demuth und suͤssem Aussprechen gesehen rd„daß ich dergleichen von meiner Kindheit an niemals ehen habe, ohne was GOtt an mir armen Menschen selber gewircket hat, welches mir fast unglaublich ware, so ich nnd nicht selber empfindlich, auch dergleichen gehabt Var ER
+
+Welt⸗We⸗ 4. Wie sich dann der eine nach feinem irdischen sen selber verschmaͤhet und seinen gewesenen Wandel vernich⸗ tiget, welcher auch also tief ist in die Gelassenheit ersuncken und in die Busse , daß er sich zu unwuͤrdig geachtet fein— 5 vor Gott auszuschuͤtten, sondern als todt und allzuunwuͤr⸗ dig geachtet, und in GOttes Erbarmen gefallen, was — und mit ihme thun wolle, daß Er selber durch ihn wolle ten und Busse wircken, er sey zu solcher Erhebung oder gebrung zu unwuͤrdig, darauf ihme alsbalde die Göttliche
+
+Sonne eingeschienen, und durch seinen Mund beydrey Stun⸗ den anders nichts gesprochen, als nur solche Worte; GOtt, Koth, Gott, Koth! und sich vor GOtt als Koth geach⸗ tet, in welchem Aus sprechen istin ihme die See
+
+[p. 170] Brigs. Theosophische Send» Briefe.
+
+18;
+
+der Freudenreich und grossen Erkentniß aufgegangen, und ih⸗ me sein Hertze und Gemuͤthe gantz umgedrehet und verneuert. 8 a —— der Edle Herr von H. S. v. S.
+
+5. Daraufister zu mir, neben einem dergleichen Menschen kommen, da ich dann solchen Motum an ihm gesehen, und mich des hoch erfreuet, dieweil er durch mein Buͤchlein von der
+
+Busse ist darzu gebracht worden.
+
+Wie dann an andern mehr inwenig Zeit dergleichen auch geschehen ist,daß ich also mit gtosser Verwunderung sehe, wie sich die Thür der Gnaden so mächtig beweget, und in denen es Ernst ist,eröffnet, wie mir zuvorhin vorlaͤngst istgezeiget worden. 6. Welches ich euch, mein geliebter Herr Bruder, mit gu⸗ ter Wahrheit vor GOttes Augen darum referire und andeute, dieweil ihr einer unter den Erstlingen seyd, deme dieses Talent durch Goͤttliche Schickung zu Handen kommen, welches ihr mit Freuden angenommen, und viel Muͤhe darmit ge⸗ habt, ob euch nicht möchte auch nach einen solchen, wie oben gemeldet von diesen zwey Personen, juͤstern, und also dahin von G Ott ein solches zu empfahen, welches mir dann wircken, eine grosse Freude in meinem Geiste seyn würde, wiewol ihme deen Mensch nicht soll fürnehmen etwas von GOtt zu empfa⸗ hen nach feinem Willen, sondern sich nur also in GOttes Bil erseucken, wie gemeldete Person, daß GOtt mit ihme thue, wisse, wolle, und ihn also erleuchte und fuͤhre, wie Er wolle. Und wolte euch aber solches in Liebe erinneren, dann ich weiß daß sich eure Seele wird neben ihnen und mir damit auch mol, erfreuen. | bi ‚Mehr füge ich euch, daß auch GHDet etliche Pharisaͤer 5 —.— zuvorhin solche waren und mich gelästert) bekehret und zum Lichte bracht hat, daß sie diese Schriften begehren und
+
+ste und nunmehr die neue Geburt und Erneuerung im Geis Christi lehren, und allen Zanck für Koth und untuͤchti achten und lehren, sondern die Menschen auf das Leben Chriffs isen, wie dann auch diese Schriften neulich von hohen Pos tentaten begehret und nachgeschrieben worden, daß also zu hof⸗ ist,der Tag werde nahe anbrechen.
+
+fen
+
+8. Dann es finden sich auch ietzo ein Theil unserer Gelehr⸗ ten dar zu und belieben es sehr, mit denen ich viel Con versation melde ich euch zur Nachricht, diewejl mir wol bewust ist, Lamm fichet, 1 bey euch auch der Wolf a
+
+[p. 171] XXI. Epistolæ Theosophicæ.
+
+Ep. 46.
+
+das fressen will. So seyd nur getrost, und helfetbeten und wircken unser Lohn wird uns im Paradeis gegeben werden; alhie sollen wir nicht Lohn begehren, dann wir sind Ebristi Re⸗ ben an seinem Weinstocke, und sellen Ihme guteFrüchte ge⸗ bören, welche er selber durch uns wircket.
+
+9. Gott wird uns wol Bauchfülle geben, lasset uns — wenig genuͤgen Er wird für uns sorgen; ob sichs gleich
+
+5 truͤbselig anlaͤsset, so wird es doch zum guten Ende kom⸗ men: und ob wir gleich um feiner Erkentniß willen muͤssen
+
+Schmach und Elend leiden, auch solten gar das Zeitliche Le⸗ ven darum lassen, so muß doch Gottes Kindern alles zum Besten dienen, dann es waͤhret alhie nur eine kurtze Zeit, — solget unferEinernte, dessen, was wir alhleausNesiet
+
+10. Euren Herrn Bruder den Con- Rector bitteich— meiner mitdem Bruffe unsers HErrn JEsu Christi zu saluti⸗ ven ; sowol alle, welche mich in diebe kennen und die Wahrheit lieben, mit denen ihr bekant seyd und zu thun habet. —
+
+4 e fameignen der sanften Liebe Jesu ee
+
+Derdee
+
+._ni.
+
+An N. NM. ia een enten Sumwarien. unsch. g. 1. Was ein rechter hristseßund warum 7 paßt ya 2 . np 33
+
+Christus wohnet in ihm, 5. dur essentialeG Keine Zure nung thut es,7. der Bien 0 0 istFl11510 Stel Wer geboren ist,das bite aber — der sei — 4 schen durch Chri 39.20. welcher das Einige Versöhn⸗Opfer, jo in un ET istKl 5 *1 En, 23. 1 80d n, 24. und den Zorn überwinden. 25. Daher muß
+
+Träger seyn. 6.27. Von dem Glauben wird
+
+[p. 172] Dran Theosophische Send⸗Briefe.
+
+t. 28. 29. Christus ist allein des Vaters Wille; 30, 31. auch ist in fm allein das Erbarmen. 32. Er nimt den gelassenen Willen in sich, ad ihn in ein 9 85 Bild. 34. Dasselbe Englische ke⸗
+
+5 hungert nach der feurischen Seele, 35. und dsese sincket in den neugebornen Wa 4 Wet— neue Wille aber wird in der Seelen wesentlich. 37.
+
+Diese heisset Sophia; und Christus und
+
+sch glauben abiin Einem Grund. 38. Was der rechte e sey? 30, Nemlich ein geistlich Effen. 40. Der wesentliche ist— limmend Feuer, 41. so von G0ttes Liebe9 wird. 42.
+
+iß von der Sonnen und Erden. 43. Derseelische und ist — Mar 44. Ein Christ muß seine un allein in 815setzen. 45. 1 00 gute Fruͤchte sind gute Fehre und Wandel. 885 Thun muß da seyn. 37. Wort⸗Streit ist eine leere Hölse.
+
+Ein guter Baum bringet gute Frucht; also auch ein Christ. 49.
+
+sind Betrug. sı.52.
+
+Die rechte Religion ist die neue
+
+Wenn wir uns selbst kennen lernen,4. werden wir viel ferwu Anden,58. als Hoffart, 56.Geiß,57. Neid, 88. Zorn, und noch vielhundert Thiere mehr, 60. oe e in Adam188 den, 61 — nach ihrer Gleichheit hungern, 62. welches wieder GOLF 85die NBen ist, 63. Im Anfang stund alles in der Temperatur;
+
+5a
+
+Teufel aber hat fein. Gift eingeschmeisset, 6s. daß also eine
+
+Ger wieder0 im Mens 47exwachsen. 686. Darum e Geburt n . darinn a 225 müssen getödtet wer⸗ Wie man solcher Thiere muͤsse oder könne los werden? 69. ust gehoͤret 1 und fleißiges Gebet,21. mit Festhal⸗ öttlichen Verheissung. 40 So nur die Hoffarts⸗Schlange en, werden die anderen
+
+Thiere bald fallen, 73. und wo 15
+
+‚wird ar ein koͤstliches Kleinod folgen. 74. Autoris kin en. 78. 76. 3 desBeunmuell desgertzen JesuChristi, sey aner Erquickung, Erneuerung und ewi⸗ ges Leben!
+
+*15 Herr und Freund; In gliedlicher 8 ein Astam Baume dem andern zu thun Nn ist, wünsche ich euch in mitwirckender Begierde en Gnaden⸗Brunnquell, welchen GOtt in Christo in unserer Menschheit hat offenbaret, daß derselbe in reichlich quelle, und die Göttliche Sonne ihre Liebe⸗ len dadurch in die Seele einführe, und den grossen ma⸗ 1 9 8 der Seelen nach Christi Fleisch und Blut, rechten Böttlichen Mund, hiemit erwecke aufthue,
+
+2. 2 leiblicher Wolfahrt.
+
+ich zu oftermalen von eurem lieben Freunde
+
+Herrn Dr.K.vernommen, wie dann auch alsoinmeiner Ger
+
+L3 genwart
+
+[p. 173] XXI. Epistolæ Theosophieæ.
+
+Ep.46.
+
+nwart vermercket, daß ihr im Zuge GOttes des Vaters7 inem Leben, welches Er in Christo JEsu aus feiner hoͤch⸗
+
+sten Liebe hat offenbaret, einen sonderlichen Durst und sehnli⸗ ches Verlangen traget, so habe ich aus gliedlicher Pflicht nicht unterlassen wollen, auf Begehren des Herrn Doctors und dann auch des Herrn selber, den Herrn mit einer kurtzen Epi⸗
+
+stel zu ersucken, und mich etwas in demselben Brunnquell des
+
+Lebens JEsu Christi mit dem Herrn zu erquicken, und zu er⸗ gegen; sintemal mir eitel Freude giebet, wann ich verneh⸗ me, daß unser paradeisische Perlen⸗Baum in meinen Mit⸗ ae gruͤnet und Frucht wircket, zu unserer ewigen Er⸗ etzlichkeit.
+
+1 . Und will dem HErrn hiemit aus meinen wenigen Gaben Pr:Erkentniß andeuten, was ein Christ sey und warum er ein Christ genant werde, als nemlich, daß der allein ein Christ sey, welcher dieses hohen Titels in ihme selber sey faͤhig worden, welcher mit dem inwendigen Grunde, Gemüͤthe und
+
+Willen, sich habe zu der geschenckten Gnade in Christo JEsu eingewandt, und sey in seiner Seelen Willen worden als ein JungesKind, das sich alleine nach der Mutter Bruͤste sehnet, as einen Durst nach der Mutter hat, und der Mutter Brüffe sauget, davon es lebet.
+
+4. Also auch ist dieser Mensch allein ein Christ, dessen Seele und Gemuͤthe wieder in die erste Mutter, daraus des Men⸗
+
+schen Leben entsprossen ist, (als in das ewige Wort, welches
+
+sich mit der rechten Milch des Heils hat in unserer an GOtt blinden Menschheit offenbaret,) eingehet, und diese Mutter⸗ Milch in feine hungerige Seele trincket, davon die neue geistli⸗ che Menschheit urstaͤndet, und die feurige Seele aus des Bas ters Eigenschaft hiemit die Staͤtte der Liebe GOttes, inwel⸗ cher Staͤtte der Vater feinen lieben Sohn gebieret, erlanget; Darinnen alleine der Tempel des H. Geistes, der in uns woh⸗ net, gefunden, und auch alleine der geistliche Mund der See⸗ len, welcher Christi Fleisch isset und fein Blut trincket, hierinne verstanden wird. 3. Dann das istalleine ein Christ, in deme Christus woß⸗ net, lebet und ist, in deine Christus nach dem inwendigen Grun/ de der Seelen, und des in Adam verblichenen, himmischen Wesens, ist auferstanden und lebendig worden, der da Chris
+
+Fi Sieg wieder GOttes Zorn, auch Hölle, Teufel, 9 — uͤnde ** [p. 174] t. Br. 46.Th de (als CbristiMenschheit Leiden, Sterben und Aufer⸗ ung)
+
+ibes in seinem inwendigen Grunde hat angezogen, da des
+
+Same, als Christus in feiner Überwindung, in ihme auch uͤberwindet und der Schlangen im böfen Fleisches⸗Wil⸗
+
+555 ich den Kopf zertrit, und die fündlichen Lüjte des Flei⸗ et,
+
+N 6.
+
+Dann in Christo alleine werden wir zur Goͤttlichen Kinds»
+
+schaft und Erben Christi angenommen; nicht durch einen aͤus⸗ lichen fremden Schein einer absonderlichen Gnaden⸗Anneh⸗ einen fremden Verdienst einer zugerechneten de von aussen; sondern durch eine kindliche, inwohnende, iedliche essentialische Gnade, dader Todes⸗Uberwinder, als ristus ‚mit feinem Leben, Wesen und Kraft in uns, von uns m Tode aufstehet und in uns herrschet und wircket, als eine be an seinem Weinstocke, wie die Schrift der Apostel durch und durch bezeuget.
+
+7. Nicht ist das ein Christ, der sich allein des eidens Ster⸗ bens und Gnugthuung Christi troͤstet, und ihme dasselbe als ein Gnaden⸗Geschencke zurechnet, und aber ein wildes Thier unwiedergeboren bleibet; Ein solcher Christ ist ein ieder gott⸗ loser Mensch. Dann ein jeder will gerne durch eine Gnaden⸗ ung felig werden; Es wolte auch wol der Teufel also, durch eine von aussen angenommene Gnade, gerne wieder ein n.
+
+8. Aber daß er fol umkehren, und werden als ein Kind, und aus Gottes Gnaden⸗Wasser der Liebe und H. Geist neugebo⸗ ren werden, das schmecket ihm nicht: Also auch dem Titel⸗ isten nicht, der zwar den Gnaden⸗Mantel Christi über sich nimmet; aber in die Kindheit und neue Geburt mag er nicht eingehen: So saget aber Christus, er mag anderst das Reich tes nicht sehen.
+
+3:
+
+9. Dann was vom Fleisch geboren ist, das ist Fleisch; Joh.
+
+en kann GOttes Reich nicht erben; Fleischlich gesin⸗ net seynisteine Feindschaft wieder GOtt, aber geistlich ge⸗
+
+55 seyn ist Leben und Friede. Und der hoͤret alleine GOt⸗
+
+Wort, der aus GOtt geboren ist. Dann der Geist der Gnaden in Christo hoͤret allein GOttes Wort. 0. Dann niemand hat Gott jegesehen, allein der Sohn, 2 indes Vaters unmeßlichem Schoosse ist, der verkuͤn⸗
+
+Wort und Willen inuns selber, Joh.1:18. diet uns GOttes Aer
+
+[p. 175] 13 XXI. EpINoleThestephies. Ep-ad daß wir feinen Willen und Wolwollen in uns hoͤren und ver⸗ stehen, und demselben gerne wollen nachfolgen, und werden dem aussern süͤndlichen Fleisch ofr gebalten /daß d zirckung derselben Goͤttlichen Kraft nicht allemal indie aͤuf⸗
+
+serliche Figur gehet, gehet aber indie innerliche Figur in der innern geistlichen Welt, davon S. Paulus foger: Anser andel ist im Himmel. Phil.3:20.
+
+#### l. Darüber
+
+auch alle Heiligen GOttes ; und sonderlich S. Paulus geklaget haben, daß sie das ernste Wollen haben und mit demGemůthe des inwendigen Grundes G Ott dienen und aber mit dem Fleische dem Gesetze der Suͤnden daß das Fleisch
+
+7: 25. Welche kust wieder den Geist lüͤstere.Rom.
+
+taglich im
+
+Tode Christi durch den inwendigen Grund ersaͤuffet und ge⸗ toͤdtet wird; Aber nur in denen, da Christus vom Tode aufer⸗
+
+standen ist: Und bleibet alsdann nichts Verdammliches denen die in Christo JEsu sind. Dann der thierische Leib ges — der Erden: aber der geistliche eib gehoͤret GOtt. Wer r den nicht hat, der istlebendig tode, und hoͤret noch vernuint nichts vom Geiste GOttes, es ist ihm eine Thorheit, nach Schrift. 1Cor. 2: 14. 12. Darum ist das alles nicht gnugsam verstanden und er⸗ klaͤret, was einig und allein von einer von aussen angenom nen Gnade und Vergebung der Suͤnden redet. Die bung der Suͤnden, und die angenommene Kindschaft Gnade, bestebet in der Rechtfertigung des Blutes und Todes
+
+Christi, da Christi himmlisches Blut uns tingirte und den Zorn
+
+GOttes in unsere Seelen und inwendigem Goͤttlichen Grun⸗ de aus der Ewigkeit Wesen, mit der hoͤchsten Liebe der Gott⸗ beit, in dem Namen JIEsu uͤberwandt, und wieder in dieGöͤte⸗ liche Demuth und Gehorsam transmutirte, da die zerrissene
+
+Temperatur unserer menschlichen Eigenschaft des Gehorsams und Wolwollens, wieder in die Gleichheit oder Einigung der Eigenschaften einging. 13. Alda ward des Vaters Grimm, (welcher war in unsert Lebens⸗Eigenschaften aufgewachet, und sich zum Regenten erstorben, und Kinder des Zorns worden,) wieder indie 155 AR und 3 NN . j 12 starb un⸗ er menschlicher Eigen. Wille im Tode Christi feiner Jchheit und Eigen⸗Wollens ab, und grünete der kastwahle
+
+Seele und Leib gemacht, dadurch wir waren des Pimmelreichs
+
+[p. 176] Be 48. Theosophische Send⸗Briefe. 169
+
+Wille den GOtt aus feinem Geiste in Adam eingab; durch der Suͤßigkeit GOttes, in Christi bimm⸗ Überwindung lischen Blute wieder aus: Alda ward der Teufel und Hol.
+
+den Menschen gefangen hielten, zu Spotte: Dann le,welche das war die duͤrre Ruthe Aarons, welche in einer Nacht grüͤ⸗ u und suͤsse Mandeln trug, andentend. r. 9: 4:
+
+Num. 17: 8.
+
+14. Nun, gleichwie die Suͤnde von einem kam, und drang von Einem auf Alle;
+
+also auch drang die suͤsse Gnade und auf alle; Rom. 5 18. Es Christo von Einem ndung Uberwi in in der einigen Adamischen Seelen der Tod und der Zorn ward in Christo zersprenget, und eine Moͤglichkeit zur Gnade, durch die Todes ⸗Zersprengung, aufgethan: Durch welche zerspren⸗ e Pforte sich der seelische Wille mag wieder in die erste utter daraus er im Anfange kam, als in die Kindheit oder neue Geburt eines neuen Lebens und Wollens,einwenden.
+
+Alda mag er das suͤsse Blut JEsu Christi, welches in Christo in unserer Menschheit die Todes⸗Pforten zersprengete, und den ttes in unserer Menschheit in Ihme selber in Liebe wandelte, erreichen, darinne die arme gefangene Seele aus
+
+Gottes Brünnlein trincket, und sich in ihrem Feuer- Odem crlabet/ daraus das neue Grüner auswaͤchset, da der Seelen⸗
+
+— Begierde im Blute Christi substantialisch und we⸗ wird nach himmlischer Art.
+
+Nun gleichwie die Todes⸗Zersprengung in Christi Pers t unserer Seelen und Menschheit geschehen muste, daß also die Ewigkeit in Christo (damit Er war vom Himmel kommen, und auch zugleich im Himmel war, Joh. 3:13.) die Zeit, als der
+
+Leben und Willen uͤber wand, und die Zeit mit ihrem Wil⸗ den ewigen Willen der Gottheit wandelte, und solches in unserer angenommenen Menschheit geschehen muste; Also auch imgleichen muß unserer Seelen⸗Begierde denselben ewi⸗ n Willen in Christo, da die Zeit und Ewigkeit in der Gleich⸗ heit stehet,in sich einnehmen, und durch dieselbe Macht sich daß der⸗ wieder in die Kindheit, als in die Gnade, ersencken, auf
+
+selbe innere Paradeisische Grund, welcher in Adam starb, im en des Gehorsams Christi, durch sein himmlisches und von uns angenommenes menschliches Blut, wieder aus⸗
+
+16. In uns selber muß dierr durch Christi 2 mal:
+
+[p. 177] ur A
+
+XXI. Epistolæ Theosophicæ.
+
+Ep 46.
+
+mal⸗Versohnung offenbar werden, wol durch das einmal⸗ge⸗
+
+schehene in Christi Blut und Tode; aber dasselde einmal⸗ge⸗
+
+schehene in Christo muß es auch in mir thun, es muß ietzo nun durch Christi Blut⸗Vergiessen auch in mir geschehen. Chri⸗ stus vergiesset auch fein himmlisches Blut in meiner Glaubens⸗ und tingiret den Zorn Ot⸗ Begierde inmeiner armen Seelen, tes darinnen, aufoaß das erste Adamische Bild GOttes wieder erblicket, und sehende, hoͤrende, fuͤhlende, schmeckende und rie⸗ 90% chende wird. 17. Dann dasselbe in Adam gestorbene Bild von der himm⸗ lischen Welt⸗Wesen, als das rechte Paradeisische, wohnet als⸗ dann nicht in den vier Elementen; sein Wesen und Leben stehet nicht in dieser Welt, sondern im Himmel, welcher in Christo in uns offenbar wird, als in einem reinen H. Element, daraus die vier Elementen im Anfange der Zeit entsprossen sind. Und derselbe innere, neue geistliche Mensch isset Christi Fleisch und trincket fein Blut, dann er lebet und ist in Christo: Christus
+
+sein Stamm, und er ein Ast am Stamme. 18. Dann ein ieder Geist isset von deme, daher er feinen Ur⸗
+
+stand hat: Als die animalische sterbliche Seele isset vom Spiritu Mundi; von Sternen und vier Elementen, vom Reiche dieser Welt: Aber die wahre, ewige Seele, welche aus dem ewigen Worte im Menschen, als ein Goͤttlich Leben „eingeblas- fen ward, diese isset aus ihrer Mutter, als aus dem heiligen, Mumm wesentlichen Worte GOttes. 19. Weil ihr aber dasselbe, nach der Abtrennung in ihrer ausgewandten Eigenschaft nicht möglich war,fofam dasselbe Wort des Lebens, als seine wahre Mutter, der ausgewandten Seelen beraus in dieses Jammerthal, ir die Gefaͤngniß der Hoͤllen, und fuͤhrete fein himmlisches
+
+W.
+
+in unser menschliches, als ein Corpus der Seelen, und umgab unser arme gefangene Seele damit, und sprengete ihr den tod ten, himmlischen Mund im Zorne GOttes wieder mit der Li be Tinctur, aufdaß die arme Seele wieder kann himm!
+
+Manna essen: Welches Essen in Christi Person mit ke 3 angenommenen Menschheit in der Versuchung Christi in
+
+Wüsten wieder in der Proba fund, da Adam in Christo vom Paradeis 40 Tage Manna asse.
+
+20. Darum sage ich: Ist einer ein Christ,soisteres nicht durch einen von aussen zugerechneten dung e
+
+[p. 178] 3 Br.46. Theosophische Send⸗Briefe.
+
+Suͤnde wird ihme nicht durch das Einmal⸗geschehene von au
+
+senWort⸗Sprechen vergeben, wie ein Herr in dieser Welt ei⸗ nem Mörder das Leben durch eine auswendige, zugerechnete Gnade schencket: Nein, das gilt vor GOtt nicht.
+
+2. Es ist keine Gnade, dadurch wir koͤnnen zur Kindschaft s im Blute und Tode Christi. kommals blo,
+
+GOtt alleine zu einem Gnaden⸗Throne,
+
+Den hat Ih⸗ in feiner eigenen
+
+Liebe, welche Erin dem süssen Namen IEsu aus Jehova in ihn einfuͤhrete, vorgestellet. Er ist das einige Opfer, das GOtt annimmet, das feinen Zorn versoͤhnen kann. 22. Soll aber nun dasselbe Opfer mir zu gut kommen,so ß inmir geschehen. Der Vater muß seinen Sohn in mues meiner Glaubens Begierde gebaren oder eingeben, daß Ihn mein Glaubens⸗Hunger fasset; und so Ihn meiner Seelen Glaubens⸗Hunger fasset, als in feinem verheissenen Worte, so ziehe ich Ihn in seinem gantzen Proceß der Rechtfertigung in meinem inwendigen Grund an, und gehet zuhand die Todtung des Zornes, Teufels, Todes und der Höllen aus Christi Tode in mir an. 23. Dann ich kann nichts thun, ich bin mir todt; aber Chri⸗ eus! mir thut es: wann der in mir aufstehet,fobin ich mir nach dem wahren Menschen todt, und Er ist mein Leben; und was ich dann lebe, das lebe ich Ihme, und nicht der Meinheit, dann die Gnade toͤdtet meinen Willen und setzet sich zum t daß ich sey ein Werck GOt⸗ Herrn an statt meiner Ichheiauf damit thut was Er will. teder Und lebe alsdann in zweyen Reichen, als mit dem aͤus⸗ vn sterblichen Menschen in der Eitelkeit der Zeit, darinnen das Suͤnden⸗Joch noch lebet, das nimmet Christus im inne⸗ ren Reiche der Goͤttlichen Welt auf sich, und hilft es meiner
+
+Seelen tragen.
+
+25. Dann das Joch dieser Welt ist Christi Last, die er tra⸗ en,biserfeinem Vater das Reich, das er Ihme gegeben „wird wieder uͤberantworten, indem Er sagete: Mir ist alle Gewalt im Himmel und auf Erden von meinem Vater ee So ist Ihm auch diese Last gegeben, daß Er GDtdie Hölle, den Tod, und alles Übel in uns trage, wie Esaias saget: Er nahm auf sich unsere Kranckheit, und lud auf sich unsere Schmertzen; wir aber hielten Ihn für den der von Gott alsozerschlagen, gestraffet und gemartert .
+
+—ͤ—p8 ———„-—
+
+20.
+
+[p. 179] XXI Epistolæ Theosophicæ
+
+Ep. 46.
+
+26. Daber muß ein Christ ein Ereug-Trager seyn. Dann
+
+sobald Christusinihm geboren wird, so gehet der Sturm der Hollen und Zornes Gottesinder ewigen Natur an, so wird die Hölle im Menschen gestoͤret, und die Schlange getreten; davon die grosse Unruhe, Verfolgung und Schmach vom Teu⸗ felund der verderbeten Welt über den aͤussern suͤndlichen Men⸗ schen gehet; da muß sich der aͤussere fündfiche Mensch lassen von Gottes strengen Gerechtigkeit im Zorne von den Kin⸗ des Zornes urtheilen, und zur Verdammniß richten; die⸗ weilein anderer Mensch in ihme lebet welcher dem aͤusseren, sterblichen nicht ahnlich ist; so fuͤhret GOttes Gerechtigkeit im
+
+Zorne fein Gerichte über das Suͤnden⸗Haus, sowol alle Die⸗ ner des Zornes GOttes.
+
+27. Alda hilfet Christus das Joch tragen, und wird der Mensch in Christi Proceß, Verachtung und Spotte,in seinem
+
+Leiden und Tode, der Gerechtigkeit GOttes im Zorne .
+
+opfert, und wird Cbristi Bilde ahnlich. 228. DieH. Schrift bezeuget an allen Orten, daß wirdurch den Glauben an Christum von der Sünden gerechtfertiget werden, nicht durch die Wercke unserer Verdienste, sondern durch das Blut und Tod Christi. Welches zwar von vielen also gelehret, aber von wenigen die es also lehren, recht ver⸗ standen wird. , ener
+
+29: Man lehret uns wol die zugerechnet Gnade; aber was der Glaube sey,wie er geboren werde was er in und Wesen sey, und wie er das Verdienst Christi mit derba de ergreiffe, da ist der meiste Theil stumm und blind daran, u bleibet bey einem Historischen Glauben, Jac. 2117.wel eine Wissenschaft ist,da sich der Mensch der Sündenund des
+
+Todes damit kitzelt und troͤstet, und ihme durch solche Einbil⸗ dung selber heuchelt, und sich einen Christen nennet; aber doch dieses hohen Tituls noch nicht fähig oder würdig worden . und nur ein Titel⸗Christ ist, mit Christi Purpur⸗Mantel aussen bedecket; von denen der Prophet saget: Mit ihren Li pen nahen sie sich zu mir, aber ihr Hertz ist fern von mir, El. 20 13. Marc; 7: 6, und Christus saget: Nicht alle die da
+
+Herr HErr, sollen darum auch in das Himmelreich kommen, die den Willen thun meines Vaters im Himmel.
+
+Matth.
+
+7: 21.
+
+Nh
+
+30. unt Elfialleine der Wille des Vaters‚barinne
+
+[p. 180] Br.46. Theosophische Send⸗Briefe. 173 die Annehmung der Gnade und Kindschaft ist; und niemand kann des Vaters Liebe Willen thun, als alleine der einige Gnaden⸗Thron Christus selber, wie die Schrift saget: nie⸗
+
+32 kann Gott einen HErrn heissen ohne den H. Geistin me. 31. Dann wir wissen nicht, was wir vor GOtt beten, wie sichs geziemet/ sondern Er, der H. Geist in Christo, vertrit uns selber mitunaussprechlichen Seuftzen vor GOtt in uns selber, wie es GOtt gefaͤllet, Nom. 8:26. Wir koͤnnen noch vermögen nichts durch unser Wollen oder Wissen zu erreichen; Er ist uns zu tief verborgen. Dann es lieget nicht an iemandes Sin; Wollen, Lauffen oder Rennen, sondern an GOttes Er⸗ barmen. Rom. 9: 16.
+
+32. Nun ist doch kein Erbarmen als allein in Christo: soll ich nun das Erbarmen erreichen, so muß ich Christum in mir erreichen; Soll meine Suͤnde in mir getilget werden, so muß es Christus mit feinem Blut und Tod und mit feiner Uberwin⸗ ngmir thun: Soll ich glauben, so muß der Geist, die Be⸗ du in gier undde der , Wille Christi, inmeiner Begierde und Willen " nicht glaͤuben. ich kann dannbe glau 33. Er aber nimt meinen Ihm ergebenen Willen, und fas⸗ set ihnin feinen Willen ein, und fuͤhret ihn durch feine Uber
+
+GOttgein. Alda vertritEr meiner Seelen Wil⸗ inun wind len in seinem Willen vor GOtt, und werde als ein Gnaden⸗
+
+Kindin feinem Liebe⸗Willen angenommen.
+
+34. Da der Vater hat: feine Liebe in Christo offenbaret, andEbrseusoffenbaret dieselbe Liebe in meinem Ihm ergebe⸗ und beklei⸗ nen Willen; Christus zeucht meinen Willen in sic/h det ihm mit seinem Blute und Tode, und tingiret ihn mit der hochsten Tinctur der Goͤttlichen Kraft, alda wird er in ein englisch Bilde trans mutiret, undkrieget ein Goͤttlich eben.
+
+dasselbe Leben an zu hungern nach seinen e us Corpu es Corpus ist die verd che bt ,feuris Seele dara der Wille ist in Christo eingegangen: Also tingiret das neue Le⸗ ben in Christo nun auch die Seele, daß die Seele in diesem Willen⸗Geiste einen rechten Goͤttlichen Hunger krieget, und der Goͤttlichen Gnaden begierig wird; und hebet an in Dies sem Soͤttlichen Willen⸗Geist in Cbristo sich zu besehen, was sie ist wie sie inihren Eigenschaften sey von GOtt getren⸗ net gewesen, und wie sie in SOttes Zorne gefangen rn 3 2 %
+
+[p. 181] XXI. Epistolæ Theosophieæ.
+
+ı74
+
+Ep46.
+
+und erkennet ihre Greuel, auch ibre Ua gestalt vor GOttes
+
+Engeln,da hat sie nichts, damit sie sich beschirmen moͤge. Dann sie siehet daß sie im Rachen des Todes und der Hoͤllen stehet, mit den böfen Geistern umgeben, welche ihre Begierde stets in sie einfuͤhren, sie zu verderben. 36. Alsdann erfindet sie in demselben neugebornen Willens
+
+Geist, und verteuffet sich in die allerlauterste Demuth; so ergreiffet sie der Geist Christi, und fuͤhret sie in diesen neuen Willen⸗Geist ein, daß ihn die Seele essentialiter empfindet: alda dann der Goͤttliche Freuden⸗Anblick in der Seelen ausge⸗ Seel feurige darinnen Auge, neues het, lichen Lichtes Ens und Wesen in sich empfaͤhet, davon sie nach Gottes Gnaden hungert und duͤrstet, und in die gewaltige oder Busse eingehet, und das Ubel so sie begangen t, bereuet. ve Und in diesem Hunger und Durst empfaͤhet sie Christi Fleisch und Blut. Dann der neue Willen Geist, welcher an⸗ fanglich ist in die Gnade Christi eingegangen, welchen Chris
+
+stus in sich hat eingenommen, der wird ietzo durch der Seelen magnetisch Impressen oder Hungern und Begehren substanti⸗ alisch oder wesentlich. 38. Und diese Wesenheit heisset Sophia, als die wesent⸗ liche Weisheit, oder der Leib Christi; und in diesem stehet der Glaube im H. Geiste alhie glaubet Christus und die Seele in Einem Grunde. eau. 39. Dann der rechte Glaube ist nicht ein Gedancke oder g lassung der Geschichte, daß der Mensch in sich-impreffet, Christus fuͤr seine Suͤnden gestorben sey; sondern eristein Nehmen der verheissenen Gnade Christi, er nimmet in sich ein, er impresset ihn in feinen Hunger mit feinem himm⸗ lischen Fleische und Blute, mit der Gnade welche GOtt in
+
+Christo anbeut.
+
+40. Christus fpeifet die Seele mit dem Wesen Sophia, als mit feinem Leibe und Blute, wie Er dann also sagete: Wer nicht isset das Fleisch des Menschen Sohnes, der hat kein Le⸗ ben in Ihme; wer aber dasselbe isset, der bleibet in Christo und Ri EN Christus in ihme. Joh.6.53. 41. Und hierinnen bestehen auch Christi Testamenta und der rechte Christliche Glaube: Dann ein unwesentlicher Glau⸗ ve ist wie ein glimmend Feuer oder Moder in einer Naͤsse, das gerne
+
+[p. 182] Br. 46. Theosophische Send⸗Briefe.
+
+gerne brennen wolte, und hat keinen rechten Ens darzu; wann Inaber ein rechter Ens gegeben wird, so mehret sich das klei⸗ ne Füͤncklein Feuer aus welchem ein schoͤnes Licht entstehet, das um sich leuchtet: Alsdann wird offenbar, wie in dem Hol⸗ tzeistein solches Feuer und schoͤnes Licht verborgen gelegen, welches zuvorn nicht erkant ward. 42. Alse auch in einem Kinde Gottes zu verstehen if: weil diearme Seele im Grimme Gottes eingewickelt ist, so ist sie wie ein glimmendes Toͤchtlein, das gerne brennen wolte, und kann aber nicht vor der EitelkeitderSuͤnden und des Zornes
+
+GoOttes: Wann aber die Seele, als das kleine Fuͤncklein Goͤtt⸗ liches Feuers Christi diebe⸗Eas, als Christi Fleisch und Blut, in sich bekoͤmmet so hebet das kleine Fuͤncklein an ein grosses
+
+Feuer und Licht zu werden /das um sich scheinet und leuchtet mit schoͤnen Tugenden und guten Wercken, und lebet in grosser
+
+Gedult unter der Eitelkeit dieser Welt, wächset aber hervor wie eine schöͤne Blume aus der wilden Erden. 43. Wie wir dessen ein Gleichniß an der Sonnen und der Feen „daß, wann die Sonne nicht die Erde beschiene, wuͤchse keine Frucht.
+
+Wann aber die Sonne die Erde an⸗ und sich in der Erden Ens eindringet, so faͤhet der
+
+Ens der Sonnen Kraft in sich, davon ein grosser Hun⸗ in der Erden Ente nach der Sonnen Kraft entstehet: und Fee een impresset der Sonnen Kraft, und aus dem⸗ selben Hunger der Erden Entis, der nach der Sonnen⸗Ens in 5 he gehet wird ein Kraut aus der Erden gezogen mit darinnen der Sonnen Ens und Kraft mit im „in die Höhe gehet, und die Sonne mit ihren e Senden im Ente der Erden im Halme und der Wurtzel wird; und siehet man wie durch Gewalt der Son⸗ nen und des Gestirnes im Spiritu Mundi aus dem Halme ein ander Coͤrper wird, als die Wurtzel in der Erden ist, wie sich der Halm in eine Kolbe zu einer schoͤnen Bluͤhte und hernach ucht einfuͤhret: Auch siehet man, wie die Sonne her⸗ . biefeiseFrucht von Zeit zu Zeit reifet und gantz lieblich a a4,1 auch mit dem Menschen zu verfichen: Der see⸗ dderGöttliche Acker wann der den Göttlichen Grun nenschein insich empfaͤhet, so gehet ein Goͤttliches Ge⸗ chse daraus,dieses jstdie neue Wieder⸗Geburt, A waͤ 4.
+
+[p. 183] dd
+
+176 XXI Epistolæ Theofophicx. Ep.46. Cbristus saget. Joh. 3:7. Dieses Gewaͤchse muß nun von von der Goͤttlichen Sonnen, und vom Goͤttlichen Wasser, 1 vom Göttlichen Gestirne, alsderGettlichen Kraft, genehret und aufgezogen werden, bis zu einem Goͤttlichen Co und englischen Figur, wie das Corpus auf em Halme.
+
+45: Und wie das Corpus auf dem HalmemußimRegen,
+
+Wind und Ungewitter, in Hitze und Kalte bestehen, und lassen die Sonne zeitigen: Also muß ein Christ in dieser Dornen wachsen, und im aufgewachten Zorne GOttes, Reiche des Teufels, unter vielen gottlosen Menschen steh und lassen auf sich schlagen mit Spott und Verachtung;
+
+muß aber seine Hoffnung einig und allein von aller
+
+Naie die Göttliche Sonne einwenden, und sich dieselbe lasse gen, und zu einer himmlischen Frucht gebaͤren. 46. Nicht steinerne Haͤuser oder Menschen Satzungen baͤren ihn; sondern die Göttliche Sonne in dem Goͤttliche
+
+Gestirne der Kräften des Wortes GOttes in dem Tempel JE⸗ füChristi, daß er eine Rebe am Weinstocke Christi ist, gute Trauben bringet, welche die Goͤttliche Sonne reiffet, d sie GOttes Kinder als seine liebe Mitglieder essen, davon auch in und mit Ihme ausgruͤnen, welche Trauben sind gu Lehre, Leben und Thun. einem 47. Ins Wircken und Frucht⸗Bringen muß es mit Menschen kommen, sonst ist die neue Geburt in ihme noch nicht offenbar, und der edle Zweig noch nicht geboren. Es hi kei
+
+Kitzeln, Troͤsten, noch sich eines Glaubens ruͤhmen, so nicht der Glaub ein Gottfoͤrmiges Kind in Wesen und Wilen; rd der da Goͤttliche Fruͤchte trage.
+
+48. Das alles, darum man ietzt streitet und kaͤmpfet
+
+Land und Leute verderbet, ist nur eine leere Huͤlse ohne Fru und gehoͤret der feurenden Welt zur Scheidung. Es ist k wahrer Verstand in keiner Partey , sie streiten alle I Namen und Willen GOttes, und keine Partey will
+
+sie meinen nichts als eigene Ehre und Fleisches⸗Wollu . 845 ren sie Christen, so hatten sie keinen Streit. zo 49. Ein guter Baum traͤget iedermann gute Früchte ; und ob er gleich leiden muß daß ihme oft der Wind seine Früchte abschlaͤget, auch die Sonne fieausdorret, au sie, wann sie zeitig worden sind, die Saͤue fressen,
+
+[p. 184] Br. 46. Theo sophische Send⸗Brieft. 177 vertreten werden, noch arbeitet er stets zu anderer guter cht en Also aucheinwahrer Christ kann in Christo anders nichts wollen, als was nur Christus in ihme will; ob er gleich n muß, daß ihme oft von feinem böfen Fleisch und
+
+Blut,
+
+sowol von des Teufels Wind, auch der Welt Bosheit, seine te Früchte, welche aus dem inwendigen Menschen ausgrüs nen und wachsen vertreten und verberber werden, noc bl der Baum des neuen Gewachses imbeben Christi stehen u grüner durch den äussern, fferblichen Merfchen aus, ohn al⸗ les Aufhalten gleichwie die Ewigkeit durch die Zeit ün und der Zeit LebeunndKraft giebet. Und wie der die Nacht ausgruͤnet, und die Nacht in Tag verwandelt, und da doch die Nacht in sich selber bleibet, aber im
+
+Tage nicht er⸗ kant wird: Also auch grünet der Göttliche Tag durch unse ewige Nacht in uns aus und wandelt die Nacht, als GOttes Zorn, die Hoͤlle, Tod,
+
+Angst und ewiges Verderben, in den
+
+Göttlichen Tag der Freudenreich, obgleich die fi nf mit der Schlangen Eus und Gift in Fleische und Blut rw der tobeun td streitet. 51. Darum, geliebter Herr und Christlicher Bruder 18 mehrzutrachten nach dem Gewachse des edlen Pe Baumes, und wie wir mögen zu solchem komme Air dem unnützen Geschwätze und Tand nachlauffen, da Beuder den andern um einer Meinung will en, die er ihme sel⸗ nne , verachtet, schmaͤhet, verketzert und dem sel t. lebet.
+
+300sage euch in meiner mir von G Ott gegebenen Er⸗ daß es lauter Trug des Teufels ist, welcher uns ar n also in Meinungen, Verachten und Spotten, ein⸗ hret⸗ daß wir uns um die Huͤlse zancken, und unterdes die diebeund den Glauben verlieren, und nicht zur neuen
+
+= Wir A den Sade urt kommen. 53. Unsere gantze Religion ist nur ein Kinder⸗Weg, von unserem eigenen Wissen, Wollen, Lauffen und Die tren, gantz ausgehen, und uns fuͤrnehmen wie wir woll den Weg treten, der uns wieder in unser verlornes Va⸗ inführet, wie wir mögen wieder zu unserer Mutter amen die uns im Anfange aus sich geboren hat.
+
+34. So wir nunsolches thunwollen, fomüffen wir nicht ei⸗ genwillig,
+
+[p. 185] Ele.
+
+Jen.
+
+rein,
+
+XXI. Epinol⸗ Theosophiea: Epe 46.
+
+eigenwillig, in Pracht und Verachtung ihre Kinder unserer Mit ⸗Christen oder Mitglieder, zu ihr kommen: Dann wir sind der verlorne Sohn, der ein Saͤuhirte worden ist, und ha⸗ ben unser vaͤterlich Erbe (handlich mit des Teufels und der Welt Traͤber⸗Saͤuen verprasset. Wir muͤssen wieder in selber eingehen, und uns und unsers Vaters Haus wol betra .
+
+ten: Und muͤssen den Spiegel des Gesetzes und Eva vor uns nehmen, und sehen, wie weit wir sind von GOttes Ge⸗ rechtigkeit und Wahrheit, sowol von der bruderlichen diebe, ab⸗ geschritten, und unser Hertz wol pruͤfen, worzu es geneiget iff. 55. Wann wir nun dieses chun werden, so werden wir 12 uns selber viel hundert boͤse Thier finden, welche wir h ben an GOttes Statt gesetzet, und dieselde für Gott ehren; und werden erst sehen, was für greuliche ThierinAdam durch die falsche Luft sind offenbar worden, und warum GOtt aden Adam sagte: Des Weibes Samen soll der Schlangen, monstrosischen Thieren, den Kopf zertreten. 50. Als, wir werden erstlich in unserer Begierde sehen der
+
+]
+
+Alzen Lucifer, der von der Goͤttlichen und bruͤderlichen muth ist abgewichen, und seines Leibes Glieder verachtet, u sich uber sie zu einem GOtt und Herrn gesetzet hat, in, ne Goͤttliche Liebe ist, weder GOtt noch feine Bruͤder zu lieben.
+
+57.
+
+Zum andern, werden wir ein Thierinunserer
+
+Eigı
+
+5schaft finden, das iftgleich einer geitzigen Sauen, 10 les an sich ziehen, und alleine fressen und besitzen will, mehr begehret als es bedarf, damit der stoltze uei 10 prangen und sich sehen lassen, daß er ein GOtt über
+
+® der da herrschen könne, und Macht und Gewalt nah aͤste habe: und werden sehen, wie sich dieser 1 vom Baume des Lebens und von dem Wachschum abgebrochen, und wollen ein eigener Baum seyn: Daru *. dann auch an Gott verdorret ist. 38. Zum dritten, werden wir die giftige, neidige Schlar ge in unserer Eigenschaft finden, die um sich sticht alsei 195f als den Neid, welcher niemand so viel gönnet , als ihm selbe r welcher in anderer Menschen Hertzen licht und reitet, und Ste mit Worten verlaͤumdet, und allein den stoltzen Lusifer i FRbike t 9 und seine Falschheiteinen Engel GOttes heisset. 59. Zum vierten, werden wir den feurischen Drach boͤlthen Feuer sitzendin unserer Seca wn [p. 186] ming
+
+5 Br. 46. Theosophische Send⸗Briefe. 179 BgBiorn, welcher, so es nicht mag der Geitz und Neid bekommen, |will mit Faͤusten drein schlagen und mit Gewalt nehmen; und fleur also toll ist, daß er sein Leben vor Bosheit zerberstet und in der ischen Bosheit zerbricht, und gar ein duͤrrer Ast am Baus ist, der nur zum Feuer taugt. 60. Zum fünften, werden wir viel hunder Thiere in unse⸗
+
+Begierde finden, welche die Hoffart vor GOtt liebet und ret, und der Geitz zu einem Schatze an sich zeucht, damit die offart pranget als waͤrens Götter und enzeucht also dar⸗ dureg feinem Bruder fein Leben, daß er es muß im Elende und Truͤbsal durch feine Zwaͤnge verzehren.
+
+565. Wann sich nun der Mensch in diesem Spiegel feiner
+
+Selbheit also beschauet, und wird dieser böfen Thiere gewahr, sio mag er sie ihme wol einbilden, und den schweren Fall Adams hbiebey betrachten, und dencken, daß ihme diese Begierden miteinander aus dem Monftro der Schlangen, durch des al e Teufels Einführen in unsere erste Eltern, entstanden sind. 52. Dann alle Eigenschaften der Begierden lagen in Adam —-̃ 8uĩ ͤͤ in der Gleichheit und liebete je eine die andere: Aber durch des Teufels Neid, welcher die falsche Lust in Adam und Eva rw tete, die Ungleichheit zu probieren, und zu schmecken was Boͤse und Gut sey, zu empfinden Hitze und Kaͤlte, und zu Be⸗ probiven die Vielheit der Eigenschaften, sind solche falsche gierden im Menschen entstanden, daß anietzo diese Begierden
+
+Ihres gleichenan sich ziehen und begehren, und eine jede Bes made na ein sonderlicher Lebens: Hunger im
+
+schen ist, welche sich von der Gleichheit hat abgebro⸗ und wieder die Liebe und Gleichheit feiner Mitaͤste chen, sich zu ziehen, an g undNahrun oder Brüder luͤstert, ihr Leben
+
+sich zum Herrn daruͤber zu machen, und wollen ein Eige> seyn. 63. Welches alles wieder den Goͤttlichen Willen und Grund,
+
+N .
+
+— Meineidigkeit an GOtt ist, auch wieder den Lauff der Natur lauffet, wie man das an der Erden, Baͤumen, und
+
+siehet, wie alles lieblich bey einander stehet waͤchset, und sich in Einer Mutter erfreuet, und wie ein ewigen Worte dem Menschen⸗Bilde aus dem Limo der Erden „a
+
+Ut am Baume dem andern feinen Saft und Kraft einfloͤsset, jeeiner dem andern dienet. 64. Dann also war auch das menschliche Leben, Joh 1. aus
+
+[p. 187] Ep. 46.
+
+Erden in eine liebliche Gleichheit eingefübret , daß alle Eigen⸗ schaften des Lebens in gleichem Gewichte, in der Temperatur, in einer Liebe stuͤnden, und sich selber liebeten.
+
+65. Als aber der Teufel die Gift und falsche Begierden da⸗ ran schmeissete, so zertranten sich die Lebens⸗Eigenschaften viel Begierden davon Streit, Kranckheit, Zerdrechen un die Grobheit des Leibes entstanden ist, durch die falsche gierde und Einführung der viehischen Eigenschoften, dadur e von der himmlischen Welt⸗Wesen verbliche; GSOttes das Bild davon ihnen GOtt sagete: Welches Tages du vom Gewach⸗ fedes Erkentnisses Boͤses und Gutes essen wirft, so wirft du des Todes, das ist an GOttes Reich, sterben, wie dann auch also geschehen ist. 66. Und sollen uns gar eben einbilden, daß diese chieristhe und falsche Begierde im Menschen der Schlangen Monstrum sey/und eine Feindschaft wieder GOtt und Himmelreich; und wir darinnen anders nicht sind als Kinder der Hoͤllen und
+
+Zorns Gottes, und mögen das Reich GOttes darinnen nicht ererben oder besitzen; auch so gar ist GOtt in keiner solchen Begierde offenbar, sondern nur sein Zorn und der finstern und irdischen Welt Eigenschaft; und leben darinnen nur der Eis telkeit dieser Welt, und stehen damit auf dem Abgrund der fins stern Welt des Zornes Gottes, als der Hoͤllen, welche alle Stunden ihren Rachen nach diesen Eigenschaften aufsperret, und diese Eigenschaften für ihre Frucht und Kinder halt wel⸗ che sie soll einernten, und ihr auch aus Natur recht 99 10. Dann diese Begierden sind alle aus ihr erstanden. = mit der Wurgel im Grunde der Hoͤllen und des und gar nicht anderst.
+
+SA
+
+67. Darum sagete Christus: Es sey dann daß iemand von neuem geboren werde, sonst soll er das Reich GOttes nicht sehen. Joh. 3:3 Alle diese falsche Willen und Begierden sind zur Verdammniß praͤdestiniret: Will iemand GOtt sehen, der muß wieder umkehren, und werden als ein Kind und durch das Wasser des ewigen Lebens, als durch den himmli⸗ schen Ens, welchen GOtt in Christo offenbaret, im H.
+
+neu geboren werden, daß der erste, rechte, in Adam . Mensch, von der himmlischen Welt Wesen in Christo wieder ausgruͤne und lebendig werde.
+
+68. Alle diese Thiere sind verdammet, und muͤssen in uns [p. 188] igt fe. d⸗Birie Br. 46. Theosophischn eBeSen gierde m Fleisch noch et⸗ und ob uns jaderselbe Ze mü 18 anhangende bleibet, so ͤd Seelen als im innern Grunde, Bl Ti innere seelische Leben wieder hristi tingiret werden, ͤg mo Gl Frundes wieder in der ch die Gottheit nicht erre 59. So nun der Mensch di lo bö aͤ Kr de zur Stunde aus en Willen und Vorsatz einfüh uf Thieren wolle gramm werden, we nes Vater⸗ or te sind, und wolle wied land, in die Kindheit und Eini ts Hi nichtan, als der arme verlor mme also⸗ od ts selberun,d gar nich fen Demuth feiner Unwü habe, dl ͤu schenckte Erbe des Verdienst und gehe in die Busse. räften darein, daß er diese St en: aber es muß thun, und diese böte ist fe soll sie mu Jah urtheilen, und sie nicht meh Halten, und sich wollen hi zum ern sp t: sp sp Morgen Fleisch ei rf von ehe triti bl satz ͤd meine Blute Ch leben, dann i meinem alten yore:
+
+### [p. 189] XXI. Epistolæ Theofophice
+
+Ep. 46.
+
+Elende geschicket der da sagete; Kommet Allezu mir her, ihr mit Sünden beladen, und aber derselben mühselig seyd , ich will euch erquicken. Match. u: 28. Mein Vater will den H.
+
+Geistgeben denen, die Ihn darum bitten. Luc. 1: 15 Ic komme mit 72. Dieses bilde er ihm in fein Hertz ein, und dem verlornen Sohne zum Vater; wann der eben wird, daß das seelische Gemuͤthe gegen Ihm gerichtet stehet, und sich gerne wolte bekehren, und aber nicht kann, so wird er ihm als⸗ balde entgegen kommen, und die Seele in seine Armen seines
+
+Zuges fassen, und sie ins Leiden und Sterben Christi einfuͤh⸗ ren; alda sie durch ernstliche Poͤnitentz und Busse wird der greulichen Thiere absterben, und aus dem Tode Christi eines neuen Willens einer neuen rechten Göttlichen Begierde, aufste⸗ hen, und anheben gar ein anderer Mensch zu werden;, und wird desjenigen, welches er zuvorhin hat beliebet und fuͤr sei⸗ nen Schatz gehalten, nichts achten, und wird ihme seyn als haͤtte er es und hatte es auch nicht, und wird sich hernach in alle feinem Vermoͤgen nur ein Diener GOttes achtꝶnn. 73. Dann sobald er nur mag den hoffärtiger dutifer mit Hoffart uͤberwaͤltigen, so werden die andern boͤsen Thiere alle mit einander matt und schwach, und verlierenihrRegiment; ob sie wol in dieser Zeit im irdischen Fleische noch leben, so sind sie doch nur wie ein Esel, welcher den Sack tragen muß, oden ar10böser Hund an einer Kette; ihr Vermoͤgen wird ihnen 4 gebrochen.
+
+Ra,
+
+74. Dann wann Christus aufstehet, so muß Lucifer gefan. gen liegen; und ob es Ernst seyn wuͤrde, so wuͤrde 0 Kleinod hernach folgen, daß diese Feder alhie nicht schre kann, und diese alleine wissen, welche bey der himmlischen Hochzeit gewesen sind da die edle Sophia mit der Seelen ver⸗ maͤhlet wird, davon Christus sagete, daß solche grosse Freuds im Himmel fep über einen Sünder der Busse thut vor neun und neuntzig Gerechten, welche Freude auch im Himmel des Men⸗ schen in der Pezmaͤhlung gehalten wird: Denlinseren verstands. 75. Solches, mein geliebter Herr und Christlicher Mitbru⸗ der, wolte ich euch Christlich und wolmeinend erinnern, und aus meinen kleinen Schatz⸗Kasten in kindischer Einfalt vor⸗ bilden, nicht der Meinung mich damit sehen zu lassen, sondern aus treubertziger Begierde in Mitwuͤnschung, daß solches
+
+seinen Hertzen empfindlich wuͤrde, und mich also 190. N cher [p. 190] fe. rie d⸗B isch soph Theo 4, er, abwesender Weise und aber doch inder Begierde gegen⸗ wärtig, undinGoͤttlicher Gaben mitwirckende,mitdem Herrn jeen ergetzen möchte, und solches auf Begehren, wie gemeldet.
+
+Pe
+
+76. Und ob mein guter Wille wuͤrde statt finden, und GOtt Thuͤre feiner Heimlichkeit wolte aufthun, so hatte ich noch etwann andere hoͤhere Kleinoder in meinem Schatz⸗Kastlein, arinnen Zeit und Ewigkeit mag erkant und ergriffen werden, mit welchen dem Herrn zu dienen erboͤtig: Und empfehle Ihn
+
+sumt allen den lieben Seinigen der sanften Liebe JEsu Christi. Datum Goͤrlitz ut supra. J. B. Fer
+
+XI Vn. Send⸗Brief.
+
+An Hrn. Gottfried Freudenhammer, M.D. und Hrn. Joh. Huser, Muͤntzmeister ae;
+
+Vom u. Novembr, 1623.N nis.
+
+Olga
+
+Summarien.
+
+Ou cott den Menschen geschaffen25.1.Woher ihm Wissen⸗ rs
+
+Jschaft und Verstand komme ?2. und wieerfsmit der Seientz
+
+Gut und Böͤs einführet?3 In Gott ikalles nur Ein und
+
+Gut. 11 So it auch jedes Dinges Centrum, Geist: die Separation i dem Dinge, eigener Wille. 8. Das Aussprechen hat freyen
+
+Willen, 6. 7. In der Erden lieget Gut und Bos untereinander. 8. 1.Centrum it GOttes Sprechen; 9. das 2. Centrum, das aus? esprochene, oder die Göttliche Weisheit; 10. das zte Centrum ist das bum Figt. u. Das Feuer heisset Zorn: das Richt, Liebe. 12. Wie Feuer sind und zweyerley Licht: 13. so entstehen auch ls zween Willen. 14. Unterscheid zwischen Gottes Licht und dem soll fein eigen Wollen brechen. 15. Das en Licht. 17. Der Mensch alsche Licht verleitet den Menschen, 7. welches durch des Teufels Wil⸗ fe Fundament hat. 18. Da hat der Spfr. M. das Regiment im Menschen bekommen, 19. da muß nun der Mensch fein recht Vater⸗ Land wieder suchen. 20.21. Alles Suchen der Eigenheit it nur ein Qualen;22. und ist doch ein Finden in dem irdischen Willen 23.24. der Mensch it in allen Wercken Gottes blind, 25. und faͤhetan an zusuchen. 26. Der eigene Wille entstehet im Centro. Schalen 227. Ohne Gottes bicht ist kein Finden. 28. Vernunft if nur ein Hestirn. 29. Guter Rath. 30. Man fol das Licht anzuͤnden: das
+
+Perlein aber nicht für die Saͤue werfen ;3133. Gott If Ein. 34. Tas . 1. was Gott ausser Natur und Creatur sey? und Tab. 2. wie us den? Eigenichaften die 4 Elementen entstehen? nebst kurtzer Er:
+
+u arung derselben. 35. faq.
+
+Bas,
+
+[p. 191] XXI. Epiflole Theofophiex. Ep.47,
+
+Der Gruß unsers SEren IEEsu Cbristi, mit feiner Eine gehung und Offenbarung in der Menschheit, wircke \# in uns allen mit seiner Liebe.
+
+SER bristo vielgeliebte Herren und Brüder; Wann uns
+
+Gott durch feine Gnade das rechte Verstaͤndniß ers. oͤffnet, daß wir das Ebenbilde GOttes, den Menschen, mögen recht erkennen, was der nach Leib, Seele und Geist sey ; so erkennen wir, daß er die sichtbare und auch die unsichtbare geistliche Welt sey, als ein Extract aller dreyen Principien
+
+Goͤttliches Wesens: mit deme sich der verborgene GOtt durch
+
+Aushauchung und Infassung seiner schiedlichen Kraft und ewigen Wissenschaft, hat in ein sichtbar Bilde dargestellet, durch welches Er die Wunder des ausgesprochenen Worts, in deme sich das Wort seiner Kraft wesentlich machet, indem⸗
+
+selben Wesen formet und bildet: und hat also mit dem Menschen ein Bilde feines sprechenden und aus gesprochenen wesentlichen Wortes dargestellet, in deme die Goͤttliche Seientz mit der Schiedlichkeit des ewigen Sprechens innelieget. 2. Daher jhme auch der Verstand und die Wissenschoft al⸗ ler Dinge kommt, daß er mag der Natur an en 8
+
+sowol auch ihre Auflösung verstehen: Dann kein Geist for⸗
+
+schet (al. herrschet) tiefer als in feine Mutter, daraus er istent⸗ fanden, und in derer Grunde er in feinem Centro inne stehet; wie wir das an den Creaturen der Elementen und Gestirne sehen, daß ihr Verstand und Wissenschaft nicht höher ist als ihre Mutter, darinnen sie leben; Ein iedes Leben nach Art sei⸗ ner Mutter, darinnen es in derSchirdlichkeit desausgespro⸗ chenen Wortes stehet. Und es vermag feine Creatur in den „vier Elementen (welche nicht aus der ewigen Scientz ur⸗ „ständer ) die Wissenschaft der verborgenen geistlichen Kraft⸗ „Welt erreichen; als nur einig und allein der Mensch, wel⸗ „cher mit feiner Seelen und verstaͤndigem Geiste in dem ewi⸗ „gen Hauchen der Göttlichen Kraft und Schiedlichkeit des „ewigen Worts GOttes inne stehet. RA 3. Derowegen die menschliche Scientz im Centro ihres Ur⸗ standes (al. Verstandes) Boͤses und Gutes annimt, und sich in
+
+Boͤses und Gutes fasset, und darinnen wesentlich machet, ch J also mit der ScieutzinWillen, Begierde und Wesen einfuͤh⸗ ret, daß der ungruͤndliche Wille aus dem ewigen *
+
+[p. 192] | Br.ar. Theosophische Send⸗Briefe.
+
+der Schiedlichkeit, sich in dem Creatuͤrlichen Worte, als in der Creatuͤrlichen seelischen Scientz, in einen Ens und Wesen ein: fuͤhret, auf Art und Weise, wie sich das Aushauchen GOttes der sichtbre mit der Schiedlichkeit des ewigen Willens, mit üh af ra Co af ds und Gut in Liebe und h, dl das Wesen
+
+schiedlich formlich, empfin daß ihme ein iedes Diug in solchem Contrario selber findlich Fi ware.
+
+4. Dann in Gott sind alle Wesen nur Ein Wesen, als ein ewig Ein, das ewige einige Gute: welches ewige Eine ihme ohne Schiedlichkeit nicht offenbar waͤre. Darum hat sich dasselbe aus sich selber ausgehauchet, daß eine Vielbeit und
+
+Schiedlichkeit urstaͤnde: welche Schiedlichkeit sich in eigenen Willen eingefuͤhret hat, und in Eigenschaften; die Eigenschaf⸗ ten aber in Begierde, und die Begierde in Wesen. Also daß alle Dinge der Sichtbaren, beydes der Lebhaften und der Stummen, aus der Schiedlichkeit und Infaßlichkeit des aus: enden Wortes, aus der Scientz des Myfterii Magni, urstanden, ein iedes Ding aus der Experientz des gesthiedenen
+
+Wortes. 5. Ein iedes Ding hat feine Separation in sich. Das Centrum jedes Dinges ist Geist, vom Urstande des Wortes. Die
+
+Separation in dem Dinge ist eigener Wille, feiner selbst In⸗ fassung: Da sich ein ieder Geist in Wesen einfuͤhret, nach sei⸗ ier essentialischen Begierde.
+
+Die Foͤrmlichkeit der Corpo-
+
+Corporirung) entstehet aus der Experientz des Wil⸗ lens, da sich eines ieden Dinges Centrum, als ein Stuͤcke vom
+
+— Sg
+
+Worte wieder ausspricht, und in Schied⸗ cen. fuͤhret, auf Art und Weise des Göttlichen Spre⸗ 6. Sonun in solchem Aussprechen kein freyer Wille wäre, Ban Sprechen ein Gesetze, und stuͤnde im Zwange, und moͤchte keine Begierde oder Luft entstehen: so wäre das Sprechen endlich und anfaͤnglich. Welches nicht ist; son⸗ dern es istein Hauchen des Ungrundes, und eine Schiedlich⸗ keit der ewigen Stille, eine Austheilung seiner selber; da die Theiligkeit wieder in seiner selbst Schiedlichkeit in eigenem Willen stehet; und ist wieder ein Aussprechen seiner selber, aus welchem Natur und das *
+
+Leben DEE
+
+[p. 193] XXI Epistolæ Theofophicz:
+
+Ep. 47,
+
+stand genommen hat; und doher in iedem Dinge, eigener
+
+Wille istentstanden, daß sich ein jedes Ding aus seiner Expe⸗ rientz in Form und Gestaltniß, sowol in ein Leben und Wircken einfuͤhret, wie es in feinem Centro in der allgemeinen Expe⸗ 1 . inMyRerio Magno; in der Mutter aller .
+
+t.
+
+7x0
+
+7. Wie wir das an der Erden sehen: wichenimYnfange ihrer Materien ist aus der Schiedlichkeit desGoͤttlichen Hau⸗ chens spiritualischer Art entstanden: da sich die Schiedlich⸗ keit des Wortes mit dem eigenen Willen hat in Ens und We⸗ fen gefasszt, und mit der Infaßlichkeit oder Impreflion in Ems pfindlichkeit der Essentz eingefuͤhret: In welcher Empfind⸗ lichkeit die magnetische Begierde istentstanden, daß sich die Eigenschaften des schiedlichen Willens mit der Begierde in Corpora haben eingeführet, nach und auf Art der z n Goͤttlicher Offenbarung. 8. Aus welchem Urstande die Erde so vielerley G bat, gut und boͤse: als Erde, Saltz Steine und Metalle; und liegen solche Corpora in der Erden vermischet, aus Ursachen, daß die drey Principia ineinander stehen, als Ein Wesen, und stehen nur in drey Unter schieden der Centrorum, als Göttli⸗ cher Offenbarung, da ein iedes Centrum fein eigen Aus hau⸗ chen, Natur und Wesen aus sich wachet,und doch alleaus dem ene ewigen Einen urstaͤnden. 9. Dasl.Centtum ist das Mich eue der Ungennden, als GOttes Sprechen: die Infaßlichkeit und Görtliche Em⸗ pfindlichkeit feiner selber, daß sich GOtt in Dreyfaltig eitführet, und gebieret, und ausspricht in Kraft.
+
+10. Das II. Centrum oder Aussprechen ist das 2 sprochene Wesen der Goͤttlichen Kraft, und hessset &Öttes Weisheit: durch dasselbe hauchet sich das Ewige Wort 9 in Wissenschaft als in die Unendlichkeit der Vielhelt, 1190 ret die Vielheit der Wissenschaft in Lust, und die Luft gierde, und die Begierde iin Natur und Streit, bis um oldar inne der Streit in der Peinlichkeit, in der A: keit des Feuers, seines eigenen Natur⸗Rechtes Br und doch kein Sterben verstanden wird, sondern also fi sich die Kraft in Empfindlichkeit, und durch die Fe eigenen Begierde der Eigenfihaften, durch das A
+
+[p. 194] Br.47. Theosophische Send⸗Briefe.
+
+Me.
+
+Selbheit, durch das Feuer im Licht aus: Alda im Lichte ein Principium, als das wahre My sterium Magnum Goͤttli⸗ Offenbarung, verstanden wird: und im Feuer wird das ewige Natur verstanden, und sind zwey in einem, wie Feuer und Licht: Das Feuer giebet Seele, und des Lichtes Kraft giebet Geist. Und wird indieser Lichtes
+
+Kraft Goͤttliches Aussprechens durch die Weisheit, durch
+
+Offenbarung des Feuers, (verstehet Geist⸗Feuer) die Mut⸗ der ewigen Geister, als Engel und Seelen der Menschen, berstanden: sowol die geistliche englische Welt, als die verborgene innere Kraft =Welt, welche eine Mutter des immels, der Sternen und Elementen ist, als der aͤussern elt.
+
+1. Das II. Centrum ist das Verbum Fiat, als das natuͤr⸗ liche Wort GOttes, aus Kraft des isten und aten Principii, als ein Separator, Schöpfer und Macher aller Creaturen, in der innern undaͤussern Welt, eine iede Welt nach ihrer Ei⸗ genschaft. lichkeit
+
+Derselbe Separator, oder Sprecher der Schied⸗
+
+Goͤttlicher Kraͤste, hat sich aus sich selber, aus dem und aten Principio, als aus der Feurischen und Lichti⸗ en, sowol aus der Impression und Infaßlichkeit der Beschat⸗ „als aus der Finsterniß, aus gesprochen, und mit der Scpiedfichteit des Aussprechens eingefaffer, und materialisch, dazu webende und empfindlich gemacht. Daraus ist entstan⸗ den das zte Principium, als die sichtbare Welt mit ihrem en und Leben, auch die gantze Creation der sichtbaren elt, welcher Leben und Wesen ist aus dreyen in Ein Wesen und Leben gegangen; aus der ewigen Natur, als aus dem Mysterio Magno,das ist (1) aus Finsterniß, (2) euer, und (3) t, als aus Liebe und Jorn. 142. Das Feuer heisset Zorn, als eine Peinlichkeit und Wie⸗ ärtigkeit, und das Vicht heisset diebe, als eine Gebung sei⸗ er selber. Und die Finsterniß ist eine Scheidung der Erkent⸗
+
+2 niß und Wissenschaft, daß verstanden wird, was Licht und Le⸗ ben, und was boͤse und peinlich ist.
+
+aN 13. Dann es werden zweyerley Feure verstanden, und auch beyerley Licht; Als nach der finstern Impression, ein kalt uer und ein falsches Licht, durch die Imagination der stren⸗ en Impression: welches Licht nur in der Imagination urstaͤn⸗ det, und keinen wahren Grund hat. Das ander Feuer if ein MEN,
+
+_ hitzig
+
+[p. 195] XXI. Epistolæ Theosophicæ.
+
+Ep. 47.
+
+hitzig Feuer und hat ein gründlich wahres Licht, aus dem Urstande des Goͤttlichen Willens, der sich mit dem Aushau⸗ chen, mit in Natur, bis ins Licht, durch das Feuer ausfuͤhret. N 14. In diesen zweyerley Feuern und zweyerley Licht were den 2 Frincipis verstanden, auch zweyerley Willen.
+
+das falsche Licht aus der Imagination urstaͤndet aus der Nas tur eigenem Willen, als aus der Impression der Eigenschaften, da die Eigenschaften einander probiren, daraus eigne Lust ent⸗ stehet, und eine Imagination. daß ihr die Natur in eigener Be⸗ gierde den Ungrund einmodelt, und sich begehret in eigener
+
+Macht, ohne den Willen GOttes in ein Regiment ihres Selbst⸗
+
+Wollens einzufuͤhren; da dieser eigene Wille dem ungruͤndli⸗ chen Willen GOttes, welcher ausser Natur und Creatur, in dem ewigen Ein, in sich selber urstaͤndet, nicht will unterthaͤ⸗ nig seyn, sich ihme auch nicht will ergeben, und mit ihme nicht will Ein Wille seyn, sondern machet sich selber zum eigenen Separator und Schoͤpfer.
+
+Er schoͤpfet ihme in sich selber
+
+Scientz, und scheidet sich von GOttes Willen: wie am Teufe sowol am fasschen Menschen, zu verstehen ist. Daraus ihnen die Ausstossung aus GOttes Separation erfolget ist ,daß der Teufel mit feinem eigenen Willen muß im Separatore der stern Impression bleiben, darinnen sich das Wort in Natur
+
+Peinlichkeit, zur Empfindlichkeit, einfuͤhret: als im Urstande des Feuer⸗Qualls, welcher doch das wahre Feuer, darinnen sich GOttes Wille in das empfindliche Leben, und in Natur, einfübret, als in ein scheinend Licht, nicht erreichen mag. Dann der Separator der natuͤrlichen Eigenschaft hat keinen rechten
+
+Ens, darinnen fein Licht bestaͤndig sey; Dann er schoͤpfet — feiner Begierde nicht aus dem ewigen Einen, als aus GOtte⸗
+
+Sanftmuth, sondern schoͤpfet sich selber in Wesen: fein Licht urstaͤndet nur im eigenen Wesen der Selbheit.
+
+15. Darum ist ein Unterscheid zwischen GOttes dichte, und zwisben dem falschen Lichte, dann GOttes Licht urstaͤndet in dem ewigen Einen, als im Wesen Goͤttlicher
+
+Gebarung, und fuͤhret sich mit GOttes Willen in Natur und Wesen ein. Es wird durch den Goͤttlichen Sepatatorem in einen Eos in⸗ gefasset und gefuͤhret, und scheinet in derselben Natur,in der
+
+Finsterniß, Joh. 1: 5. Dann die ingefassete Seientzistna der lmpression eine Finsterniß; aber das Göttliche Licht d leuchtet sie, daß sie ein feurisch Licht istdarinnen OOttes
+
+VER
+
+[p. 196] Br.4. Theosophische Send-Briefe.
+
+chen oder Sprechen in Natur und Creatur offenbar, und in einem empfindlichen Leben stehet. Davon S. Johannes Cap, 1:4. saget: Das Leben der Menschen war in Ihm. Und Chri⸗ is Joh. 8:12. saget: Er sey das Licht der Welt das der Welt das Leben gebe. Dann ohne dieses Göttliche Licht aus der Ge⸗ baͤrung Goͤttlicher Dreyeinigkeit, ist kein bestaͤndig wahres Licht; sondern nur ein Licht der Imagination, der natürlichen Impression eigenes Willens.
+
+16. Darum soll der Mensch, als das Bilde GOttes, die Au⸗ n des Verstandes, darinnen ihme GOttes Licht entgegen ste⸗ x ‚und begehret einzuscheinen, aufheben, und nicht als ein Viehe seyn, welches nicht mit seinem Separatore im inwendi⸗ en Grunde in der Ewigkeit stehet; sondern nur in der Nach⸗ ir ‚im ausgesprochenen Worte; welches nur ein zeitlich Licht, ineinem anfanglichen und endlichen deparatore hat, dar⸗ innen sich der ewige Separator in ein Spiel einfuͤhret, und die Göttliche Scientz in Bildnisse (gleich eine Nachmodelung des
+
+Mysterii Magoi der geistlichen Welt) einfuͤhret, da die ewi⸗ gen Principien nach Feuer und Licht in einer Vormodelung mitspielen; und der Mensch aber nur nach dem aͤussern bes greiflichen Leibe in solcher Vormodelung stehet, und mit sei⸗ keibe das wahre wesentliche Wort Göttlicher Eigenschaft ist, indeme GOtt fein Wort spricht und gebieret, die Goͤttliche Scientz austheilet, infasset, und in ein Ebenbild G Ottes gebieret, in welchem Bilde G Ott nach Art der Empfindlichkeit und Creatur offenbar ist, und selber woh⸗ net und will. So soll der Mensch fein eigen Wollen brechen, und sich dem Wollen GOttes eingeben. 7. Indeme aber der eigene Wille des Menschen solches
+
+45 b will, soister unverstaͤndiger, und ihme selber mehr schadlicher als die wilde Erde, welche doch ihrem Separatori halt, und den aus sich laͤsset machen, was er will. Dann tt hat alle Dinge in fein Spiel, aus feinem Aussprechen, durch und in seinem Separator gemacht, und haͤlt Ihme auch stille: Alleine das falsche Licht machet, daß sich der Se- „pararor der Ereatur in eigenen Willen einfuͤhret, daß sich die atur wieder GOttes Willen setzet.
+
+18. Welches falsche Licht im Menschen von des Teufels
+
+Wil fein Fun dam hat, welc Einführung feiner flalschen
+
+Begierde den Menschen hat monstrosisch .
+
+### [p. 197] XXI. Epistolæ Theofophicz. Ep,a7, '
+
+daß er hat auch eine falsche Imagination angenommen, da⸗ durch er hat die vom Teufel eingeführte falsche Begierdein ihme wesentlich gemacht, durch feine eigene Begierde, de durch im menschlichen Leibe, welcher aus dem Limo der Er⸗ den in das Göttliche Fiat gefaffet ward, ein viehischer Separa- | tor entstanden ist, welcher aller Thiere Eigenschaften offen⸗ baret hat: Davon dem Menschenfomancherley Lust,Begier⸗ istentstanden. Welcher falscher Separator sich de und Willen empor geschwungen, und das Regiment bekommen und ,
+
+Principia an sich gezogen, und aus Goͤttlieher Ordnung ein Monstrum gemacht.
+
+19. Welches monstrosische Bilde sich mit seinem Willen und Begierde gantz von GOttes Willen, vom Goͤttlichen Bi te abgewandt; Davon der Göttliche Ens von der heilige Welt Wesen in ihme verblichen, und er, der Mensch, also nur ein Monstrum des Himmels blieb, und ward mit feinem Se⸗ parator zu einem Thiere aller Thiere gemacht, welcher I mehr in und mit allen Thieren herrschet: Indeme der Spititus Mundi mit den Sternen und Elementen hat das Regiment bekommen.
+
+20. Jetzt laͤuffet nun der Mensch, und suchet wieder sein erstes rechtes Vaterland, dann er stehet insolcher Eigenschaft in eitel unruhe; Jetzt suchet er in einem, bald im andern, und meinet sich in diesem Monftro in Ruhe einzuführen, und laͤuffet doch nur in den falschen aufgewachten, viehischen Willen, welche nicht GOttes Willen moͤgen erreichen.
+
+2. Er laͤuffet ietzt nur in dem falschen Lichte seiner Setz heit, welches in feiner Imagination erboren wird, mit einem monstrosischen Separatore, welcher ihme ein irdisch Gemuͤthe machet, darinne das Gestirne seine Wirckung hat; und hat die gantze sichtbare Welt zum Feinde, und stehet als eine Nose im Dornstrauche, welche von den Dornen immerdar zer Bet und zerrissen wird: und man von ihme doch nicht sa konte, daß er eine Rose sey, so ihme nicht mare die Goͤttliche
+
+Gnade zu Huͤlse kommen, und sich ihme wieder in seinen in⸗ wendigen Grund eingesprochen, darinnen ihme die Liebe zur neuen Wiedergeburt angeboten wir.
+
+22. Dhrum, sage ich, ist dem Menschen Ka selbst zu lernen erkennen, was er sey, eheer'läuffet:
+
+suchet. Dann feinSuchen istanderst nur ein Qus len,damit
+
+[p. 198] Brig. Theosophische Send⸗Briefe. 191 er sich in einem falschen Separatore selber quäfet, und doch zu keiner Ruhe kommet: Dann alle diese irdische Willen, darin⸗ nen er sich gedencket in Ruhe einzuführen, sind ein Wiederwil⸗ le gegen GOtt als den ewigen Ein. Dann es lieget nicht an iemandes selber Wollen, Lauffen oder Rennen, saget Paulus, sondern am Erbarmen, als an der Gnade, welche ihme ist ein⸗ gesprochen worden.
+
+Dann der Mensch ist ausser der Gnade an Gott todt und blind, und mag zu keinem wahren Leben kommen, fenbar.
+
+die Gnade werde dann in ihme erwecket und of⸗
+
+23. So mag auch in diesem irdischen Willen keine Erwe⸗ ckung geschehen, dann sie Fönnen nicht die Gnade erreichen, vielweniger erwecken; So muß sich der gantze Menschin Seele und Gemuͤthe in die Gnade nur einsencken, und ihme ein Nicht⸗Wollen werden, der nichts als nur die Gnade be⸗ gebret, aufdaß die Gnade in ihme lebendig werde, und feiner Willen uͤbertaͤube und toͤdte. Gleichwie die Sonne in der Racht hervor gehet, und die Nacht in Tag wandelt, also auch vom Menschen zuverstehen ist, davon Christus saget: Es sey dann daß ihr umkehret und werdet als die Kinder, an⸗ derst sollet ihr GOttes Reich, als den Goͤttlichen Separator. nicht sehen, von deme alle Dinge sind entstanden; dann keine Wissenschaft ist recht oder gruͤndlich, sie komme dann aus der wahren Göttlichen Stientz, aus der Scheidung dee Sprechens, davon alle Dinge ihren Urstand aben. 24. Soll nun eine solche Wissenschaft wieder in dem Menschen entstehen, so muß der Göttliche Separator in einem Wesen seiner Gleichheit stehen, als in einem Goͤttlichen Ente, da das Goͤttliche Wort darinnen ausspricht, und das Goͤtt⸗ liche Licht im selben Sprechen scheinet; so mag alsdann die menschliche Scientz, welche anfaͤnglich vom Sprechen des Worts ist entstanden, im selben Lichte nicht allein sich selber, sondern auch alle andere natuͤrliche Dinge, nach der Schiedlichkeit des Wortes schauen, auch Magischer Art in und mit allen Dingen wircken, aufGoͤttliche Art und Ei⸗ genschaft. 25. Dann der Mensch ist inallen Wercken GOttes blind, und hat keine wahre Erkentniß /esseydann das BR oder pre [p. 199] a2
+
+XXI. Epistolæ Theosophicæ. Ep. 47.
+
+Sprechen GOttes in feinem inwendigen Grunde, nach ae des Sprechens, daraus alle Wesen urstaͤnden, offenbar. Al⸗ les Suchen der Menschen, damit man will eines Dinges e tnur in einer Schale ‚das Grund finden, ist blind. und geschihe mit die Essentz des Baums verdecket ist. Soll ein wahres ges
+
+Finden seyn, so muß die menschliche Stientz in des Din⸗
+
+Eigenschaft eingehen, und denselben Separator konnen schauen. eg 26. Darum ist das die grosse Muͤhseligkeit der Menschen, daß sie alle in Blindheit lauffen und suchen, und sahen ander
+
+Schale an zusuchen, da doch alle Dinge von auffen signiret sind, was sie in ihrem Ente und Wesen sind; und der Separator aller Dinge sich sichtlich und förmlich bat dargestellet ; daß man also mag den Schöpfer am Geschoͤpfe erkenne.
+
+27. Dann es sind alle Wesen nur ein einiges Wesen, wel⸗ ches sich hat aus sich selber ausgehauchet, und unterfchieblich, und gehet nur aus derselben Infaß⸗ dazu soͤrmlich gemacht:
+
+lichkeit (und Formung) je ein Centrum aus dem andern, als mit ieder Infaßlichkeit der Begierde, da sich der geschiedene und zertheilte Wille in ein Particular einfasset: Alda entstehet ein Centrum, und in dem Centro ein Separator oder Schoͤpfer
+
+seiner selber, als ein Formirer des wieder⸗aushauche Willens; wie wir das an der Erde sehen, daß ein iedes Kra einen eigenen Separator in sich hat, der es also machet / und
+
+Form scheidet. 28. So nun der Mensch, als das Bilde GOttes, indeme das Göttliche Sprechen nach Goͤttlicher Scientz offenbar iff will die Creatur forschen, es sey in den debhaften oder in den | Stummen, als in den Wachsenden oder Metallischen; so muß er vor allen Dingen die Gnade von GOtt wieder erlangen, ihme das Göttliche Lichtinfeiner Scientz leuchtet, dadurch mag durch das natürliche Licht gehen: so wird ihme in feines Verstande alles offenbar werden; anderst laͤuffet erim Su⸗ chen als ein Blinder, welcher von Farben redet und doch deren „ ja keine siehet/noch weiß was Farben sind. 29. Welches allen Ständen der Welt zu betrachten ist,daß i⸗ sie alle blind lauffen ohne Goͤttlich Licht, nur in einer schen Bildlichkeit, was das Gestirne in die Vernunft bild
+
+Dann die Vernunft istanderst nichts als das menschlich uHiIm [p. 200] riefe. 193 Br.47. Theosophische Senungd⸗Baller Principien ist; stirne, welches nur eine Nachmodel Sie stehet nur in einer Bildlichkeit, und nicht in Goͤttlicher Stientz: So aber das Göttliche Licht darinnen offenbar und
+
+scheinend wird, so hebet auch das Goͤttliche Wort aus der ewi⸗ gen Wissenschaft darinnen an zu sprechen; So ist alsdann 1e Vernunft ein wahres Gehaͤus Goͤttlicher Wissenschaft und rung und mag als dann recht und wol gebrauchet wer⸗ en;
+
+aber auffer diesem ist sie nicht mehr als ein Gestirne der chtbaren Welt. 30. Darum wird allen Liebhabern der Kuͤnste, welcher Separator ein Kuͤnstler grosser Subtilichkeiten in ihnen ist, ange⸗ deutet, daß sie sollen fürs erste GOtt und feine Liebe und Gna⸗ de sueben, und sich derselben gantz einverleiben und einergeben:
+
+sonst ist all ihr Suchen nur ein Spiegelfechten, und wird nichts gruͤndliches gefunden, es vertraue dann einer dem andern et⸗ was in die Hand.
+
+31. Welches doch GOttes Kindern, in denen die Gnade ist offenbar worden, hart verboten ist, das Perlein nicht vor die
+
+Sauezu wer fenbey ewiger Straffe; Allein das Licht ihnen zu zeigen, und ihnen zu weisen, wie sie mögen dazu kommen, wm ——½ .— erlaubet: Aber den Goͤttlichen Separatorem in eine thie⸗ er — geben ist verboten; Er kenne dann des Mens chen Weg und Willen. 32. Auf solches Andeuten will ich euch, geliebte Herren und 578155 durch Zulassung Goͤttlicher Gnade und Mitwir⸗ g dieser iegigen Zeit, das Göttliche Geheimniß, wie sich
+
+Ott hat durch fein Wort sichtbar, empfindlich und findlich, Darzu creaturlich und formlich gemacht, ein wenig entwerfen.
+
+Solchem wollet ihr ferner nachsinnen, iedoch daß es wie oben gemeldet worden; Anderst werde ich euch m seyn, daran ich keine Schuld habe.
+
+34. Gott ist weder Natur noch Creatur, was Er in sich selber ist, weder dis noch das weder hoch noch tief. Er ist der Ungrund und Grund aller Wesen, ein ewig Ein, da kein
+
+Grund noch Stätte ist. Er ist der Creatur in ihrem Vermoͤ⸗ n ein Nichts, und ist doch durch alles.
+
+Die Natur und
+
+Freacur ist sein Etwas, damit Er sich sichtbar, empfindlich findlich machet, beydes nach der Ewigkeit und Zeit: Alle unge sind durch Göttliche imagination entstanden, und stehen noch in solcher Geburt und **
+
+Auch die vier *
+
+[p. 201] Theofophiez. Ep.
+
+baben einen solchen rund, von der 1 ewigen Einen. Dessen ich alhie eine Tabell fegen 1 sich eines = dem andern aus wickelt, oder aus hau 5. In beygefuͤgter Tabula ist der Grund 7 keitGlier g enbarung entworfen demselben nach; cheBerftändnißnnicht der Natur eigen Ve nen; Welche ist ohne GOttes Licht, aber denen die im Lichte sehen1 —
+
+standen und sonst kindisch ist, wie solches in meinen Schriften weitlaͤuftig und genug erklaͤret * und alhie nur mitkurtzem Begriff figurlich dargestellet
+
+36. Und empfehle die en dem Grusse der Liebe IJEsu Epriffi, melcher durch feinen 2 * und Gruß selber der
+
+9 8.5 en ande ist. 1
+
+5 2su- f Ion Jab. ze Eine Tabula oder Entwerfung, zu betrachten ti.) Was Gott ausser Natur und Creatur sey?
+
+a* (a.) Und was das Mysterium Magnum sey, dadurch ch
+
+Gott offenbaret? Wie Er sich durch fein Aushauchen oder Sprecheni in i Natur und Creatur eingefuͤhret habe? Den beser 9 e
+
+Also wird Gott aufferNatur und graue trachtet, was Erinsich selber ist. 1. Ungrund, Nichts und Alles
+
+Vater .. 2. Wille oder Wallen des Ungrundes „JE des Wil. Sohn... 3. Lust oder Infaßlichkeit AH Geist 4. Scientz oder Bewegniß 5. GOtt in Dreyfaltigkeit. it sel GOtt. 6. Woin
+
+7. Weisheit.
+
+unn u
+
+Anfang des MYSTERIT MANI oder deren gen Natur.
+
+sedie Schiedlichkeit im Sprechen des Wortese durch die Weisheit schiedlich wird, auch natürlich,
+
+[p. 202] |a
+
+275,Zeoipbie Serie
+
+|| ndlich und findli den ewigen pien mit dit Liebe uudBern1im
+
+195:
+
+Lichte1 Fin ern verstehet, dazu die vil Haupt⸗Gestalten der Natur;
+
+wie siche in7Gestaͤlte einfuͤhret, und durch nendlich. Mit dem Wort TIN C TVR faͤhet an l en des Worts, daNatBilewige Wille in
+
+2. Das Lechbelpium: Gott nim Zorn.
+
+I.
+
+ag ee
+
+Sceng oder _ Angst. Feuer. Bitter ‚Seas Gemuͤte. Sin Sehen.
+
+an: 128 anda uNi teßeuer⸗Wurtzel.
+
+Holle
+
+Sal.
+
+Teufel N e Jöns,
+
+Wuer aller Saͤltze.
+
+L Mereyrius.
+
+Sulphur-.
+
+„...7,:
+
+VI. icht oder Liebe⸗ Schall oder
+
+Schiedlichkeit in Engüische Welt. Engel. 12: Kein ‚lemens,, die ‚WBurgel der e angngber Auffern Welt, 1 as des l. 5riucipii. derauffe
+
+N 2
+
+[p. 203] Hi
+
+196 XXI EpinoleTheosophicæ. Ep .47. Das III. Principium: Gott in Zorn und e Das ausgesprochene Wort ste. Himmel! Krafte, als das gute Bender Sterne 16. La fentia | Creaturen, in der Quinta Essentia
+
+stehend. 17. Vier e Gift eingefuͤhret, nemlich mich die Elementa | Gift und Grobheit der Erden, 710 des irdischen er
+
+18. Irdische
+
+Macrocosmus
+
+| i und Microcosmus
+
+2. Principium
+
+1. Principium
+
+Gott.
+
+feinem sprechenden | Seele.
+
+Wort.
+
+"
+
+iebe und Zorn im RER rster rechter Adam, nach Bree gebe ind Bien dem Leibe der Essentz. Biel Spiel zur Of⸗
+
+GSte fenbaru
+
+Gottes Gebot nach Schied⸗ lichkeit des Wortes.
+
+{
+
+MenschimTemperament der
+
+4 Elementen im Poradeiß auf Erden.
+
+3. Principium
+
+2.2
+
+Aeussere Welt.
+
+Himmel oder trucken feurisch Wasser, als Kraͤste des nd 2. Principii mit einander.
+
+Quinta Eflentia oder Sternen, als die subtilen Kräfte aus dem
+
+1. und 2. Principio nach der Schiedlichkeit des Worts, da die Goͤttliche Scieng schiedlich und natürlich ist.
+
+Vier Elementa aus dem ersten Prineipio durch den Himm als aus dem geiftli und Quint⸗Essentz ausgehende, Sulphure, Mercurio und sale, aus den fü Ehen
+
+schaften.
+
+Nota. So der Leser dieses alles verstehet, so hoͤre und Fragen in ihme auf, und Reber daa .
+
+im Spotte.
+
+[p. 204] Br.47. Theosophische Send Briefe. 197 Kurtze Erklaͤrung der ersten Tabell, von dem geoffenbarten GOtt, wie Er sich aus sich sel⸗ ber immer gebieret und aushauchet, und wie man diese Tabel verstehen soll.
+
+Num. I.Ist der Ungrund, das Lichts und das Alles. Alda fhet man an und betrachtet: was Gott ausser Na⸗ tur und Creatur in sich selber sey; und die selbeBetrachtung
+
+Gottes gehet bis zur Weisheit. Nr. 7. Da⸗ nen wird verstanden wie Gott durch Alles wohnet, und wie alles von ihme urstaͤndet: und Er selber doch dem Allen Un⸗ Bit und als ein Nichts ist; und sich aber durch das Alz les, Sichtbar, dazu Empfindlich, und Findlich macht. N. 2.Ist der Wille des Ungrundes. Und dabey auf der 2 enSeiten Vater, und auf der andern Seiten JE; dieses euter an den Willen des Ungrundes, welcher der Vater a
+
+Wesen ist; und das Jer deutet an das Ewige Eine, als de LE IRfus, in dem ewigen Einen. N. 3. Ist Luft, oder Infaßlichkeit des Willens. Dabey stehet zur rechten Sohn, und gegen über 110, deutetan trie lich der Einige Wille zu einer Staͤtte seiner Besitzlichkeit infa
+
+Stätteistfein Ausgebaͤren aus sich selber, da Gott tt gebieret, als eine Luft feiner Selbheit. Das HO ist des Willens dadurch die Lust ausgehet. Aushauchen
+
+Bewegni N. 4. Ist Scioder zß. Und zur Rechten ste⸗ jetGift und gegen über VA. Scientz i basInziehen des Billens zur Stätte GOttes, da der Wille die ausgegangene
+
+Lust zum z Sohne, oder zum Hauchen infasset, durch welch
+
+Ibie
+
+Geist SOttes verstanden wird.
+
+Und wird dergrosse Name JEHOVA , als das Dreyeinige Wesen
+
+standen, wie der Vater feinen Sohn aus sich gebaͤre, und wie der H. Geist, von beyden ausgehe, und doch nur ein eini⸗ ges Wesen sey, das Nichts vor Ihm habe.
+
+Denn die Seientz rd im Inziehen verstanden als eine Wurtzel der ewigen Wil:
+
+senschaft oder Bewegniß.
+
+etdasDrey⸗ Deutan
+
+N. 5 Ist Gœtt in Dreyfaltigkeit.
+
+Zub esen ,wie man koͤnte ein Gleichniß geben vom Wil: sta Ver eini Sin len, Gemü
+
+[p. 205] 8KanXXI. Eyihekr Theoföphiez. Ep. 47. die Dreppde e aller Wese N. 6.Steher WortinGOtt. Demet an die Sthledlich d. st up Ha sie cke mer Albie
+
+Mae, at lerschied der andern Zahlen. N.,
+
+Rechten das ander-Principium, zur Stehet g.
+
+rin.
+
+‚St
+
+### V. 9. Zur Lincken, das erste Principium. Deutet also
+
+N. g. an des Vaters Eigenschaft durch das Sprechen Worts im Grimme, und das ander N. 8. deutetan die lische Rraft⸗ Welt; und das im Zorne N. . deutet an die
+
+stere Kraft Welt der Peinlichkeit, darinnen GOtt ein ger GOtt ist.
+
+enge zor
+
+N. 10. Stehet TINCTUR oder Sprechen der Dreyheit, den tet an die Temperatur aller Kräften, wie sie alda dur Sprechen in Schiedlichkeit und Gestalten ausgehen, als .
+
+lich in sieben Haupt⸗Gestalten: I. in Zerbe, II. Scientz ode
+
+VI, bitter Stachel, 11T. Angst, IV. Feuer, V. Liebe, Feueß, Schall und VII. Wesen. Und stehet ferner bey jeder Ge nig, was für Eigenschaften aus ihr selber ausgehen und erbe, ren werden.
+
+Denn soll ein Sprechen seyn, so muß sich
+
+Kraft von ehe zusammen fassen, auf daß sie sich möge aushau⸗ chen, so giebet dieselbe Infaßlichkeitinfich eine Herbigkeit magnetischs Impreßson , welches der Anfang d Et ri [p. 206] mw iff,darinnen das Fiac verstanden wird, das die Kräften ucht. I.Und ist die erste Haupt⸗Gestalt der geistlichen Natur, und stehet mit N. .Begierde; welche Begierde sich schaͤrfet / daß daraus Zerbe, Harte, und die Ursache der Kälte entstehet, und ist ein Grund aller saltzischen Eigenschaften in der geist⸗ geistlich, und in der aͤussern Welt wesentlich. Auch ist die Begierde der impression eine Ursache feiner selbst Be⸗ schattung, (al. Beschaulichkeit) oder die Finsterniß im Ab⸗ kund, wie denn diese Gestalten alle zu N. L zur Begierde der nfaß lichkeit gehören.
+
+11. Bey der andern Haupt ⸗Gestalt stehet Stachel oder
+
+& 2
+
+1 85 an das Inz iehen der Begierde, da die erste indschaft oder Wieder wille entstehet; denn harte und Rege der Bewegen ist ein ungleich Ding; in dieser Gestalt entste⸗ nun das Bewegen und Fuͤhlen, als eine Wurtzel der Pein⸗ it, darinnen man das mercurialische Gift⸗Leben, beydes jeiftlich , und im Wesen verstehet; und in der Finsterniß das die Peinlichkeit des boͤsen Lebens, und wäre Ihe einen, oder auch das gute Beben ohne diese Wurtzel nicht offenbar, Nen Vera Gottes Zorns, nach der ewigen Natur
+
+Empfindlichkeit. 908Die dritte Haupt⸗Gestalt ist Angst, die entstehet aus
+
+Begierde der Imprellion, und aus der Feindschaft des chels, da der Wille in Qual stehet, und ist eine Ursache S Fuüͤhlens und der 5 Sinnen so wol der Essentz und des Ge⸗ 8, und der Sinnen, dain der Angst, alle Gestalten pein⸗ werden, so empfinden sie einander; alda das Wort schied⸗ lich wird, und ist eine Wurtzel Sulphuris, beydes geistlich und
+
+Ban: darinnen man in der Finsterniß in dem peinlichen leben recht das hoͤllische Feuer verstehet, wie in der Tabell her⸗ Ri 1 4 5 gezeichnet ist.
+
+IV.
+
+Die vierte Haupt: Gestalt heisset Feuer, alda man des
+
+Blick, da der Ungrund, als das ewige Gute offenbar wird, und ist
+
+Finsterniß feindlich, und in der Freyheit istes die Wurgel der Freu⸗ N4
+
+### [p. 207] XXI. Epistolæ Theosophicæ
+
+Ep. 47.
+
+reuden, oder der Exweckung der Kräften, und ist des Feuers inzuͤndung; in welcher Anzuͤndung der Ungrund ein scheinend
+
+Licht wird, als majestaͤtisch.
+
+V.
+
+Die fuͤnsteHaupt⸗Gestalt heisset das Liebe⸗ ener, da verstehet man wie sich das ewige Gute, burch die Anzuͤndung des peinlichen Feuers in ein erhebend brennend eiebe⸗Feuer eins, ühret, welch Feuer wol zuvor hinin GOtt if, aber olso wickelt chs nur aus daß es empfindlich und beweglich ist, darinnen die guten Kräfte wirckende werden.
+
+Vi. Stehet Schall oder Schiedlichkeit, als die sechste
+
+Haupt⸗Gestalt, deutet an das natürliche lautbare beben, da sich das ewige Goͤttliche Wort hat durch die Gestaltniß derNa⸗ tur ausgewickelt, darinnen alle Kräften der Weisheit im Shall stehen; und in diesem stebet nun das verfländige Le ⸗ ben: Im Lichte istes Euglisch und Goͤttlich, und in der Fit sterniß ist es Teuflisch, wie denn drunter N. 1u. Engel stehet der englischen Welt,
+
+Vu Stebet Wesen, oder wesentliche Meisbeir und ist die siebente Haupt⸗Gestalt, deutet an die wesentliche Weisheit des ausgehauchten Wortes, darinnen alle andere Hestalten offenbar werden, und ist eben das Wesen aller Gestalten im Lichte gut, und Goͤttlich; und in der Finsterniß Höfe und feindlich Und wird fuͤrnemlich das Mysterium Magnum Bars innen verstanden, auch wird die englische Welt darinn verstan⸗ den, sowol der inwendige geistliche Leib des Menschen, welche in Adam verblich, als der Seelen Willen aus Gottes Wille ausging, und aber in Christo wieder lebendig wird, wel ibme dieser Kraft⸗Welt Wesen zu einer Speise giebet, welche istdashimmlische Fleisch Joh. 6. und ist die duͤrre Ruthe Maro: nis, welche in Cbristi Geiste im Menschen wieder ausgrunet.
+
+### V. 12. Stehet Rein Element. Deutet an die Bewegnißin
+
+der Englischen Welt im Wesen, (al. Wachsen) und ist das Ei⸗ nige, Heilige, Reine Element, da die 4 Elementa in der Tem⸗ peratur innen liegen, und eine Wurtzel der 4Elementen. N. 13. Stehet Paradeiß. Deutet an das ewige Grünen, ol das geistliche Wachsen in der geistlichen Welt, daraus die aufs sere sichtbare Welt aus Gut und Boͤse, als aus beyden ewigen Prineipiis ausgehaucht worden ist. In welcher Qual und Regi⸗ ment Adam in seiner Unschuld stund als die 4 Elemente in ihme noch alle in der Temperatur, als im H.reinen Ehen 18 ii
+
+.“
+
+“>
+
+5 14.
+
+[p. 208] a0r Brief Send ophis Theos 47. ! Br, Ni 14.Stehet Anfang der aͤussern
+
+Welt. Deutet an, wie sein Wort habe das Myster. e ewige tur aller geistlichen Eigenschaften, in ein 17 arliches ucht, und durchs Fiar, als die geist⸗ ausgeha Wesen formli deen geformet; dabey stehet: daß zte in Creatur icheBegier da man 3 Welten in einander verstehen soll, als l.
+
+finstere Welt Gottes Fornes, und Il. die ewige Lichte elt Goͤttlicher Liebe Offenbarung, und ill. diese sicht/ dare anfaͤngliche, vergängliche Welt.
+
+Al
+
+, Stebet Simmel. Deuter an das Scheide ielzwischen der innern und aussern Welt, als des sichtbaren und unsichtba⸗
+
+Wesens, welcher Himmel im Wesen (el. Wachsen) des lichen feurischen Wassers stehet. N. 16, Stehet Quinta Essentia. Deutet an die geistlichen räften, als der paradeißische Grund in den4Elementen, so das Gestirne, welches aus den innern Kraͤsten ausge⸗
+
+Han tiftworden da die Zeit anfing. und ist das Gute in den 4 menten, darinnen das Licht der Natur scheinet, als ein aus⸗ auchter Glast vom ewigen Lichte.
+
+Elemente dasist Feuer, Luft, Wasser Pier et N. 17.Steh und Erde, als die geschoffene Welt aus der finstern und Licht Welt, welche ist das ausgesprochene geformte Wort aus der vigen
+
+Natur Kraft und Wesen, darein der Teufel seine Gift tge ae; welche von GOtt nach des Menschen Fall ver⸗
+
+N. b She irdische Creaturen.
+
+Deutet Ndaß aus
+
+Quinta Essentia und aus den 4 Elementen sind alle Crea⸗ ieser sichtbaren Welt geschaffen worden, und ihr Leben g davon haben. Aber der seelische Mensch hat auch die ere geistliche Weltnach dem inwendigen Seelen⸗Menschen ch. Darum mag GGties Liebe und Zorn in ihme offen⸗ bat werden, denn worinnen sich der Wille fasset und entzuͤn⸗ „ dessen Wesen wird in ihme offenbar, wie an Lucifer zu . Dieses ist also eine kurtze Andeutung der Tabell und al⸗ ler meiner Schriften, meinen lieben Herren zu Willen in guter Aberecht Meinung gefteltet,, und den Anhebenden zu einem rulich. Anno 1623.
+
+Nei
+
+Tab.Il.
+
+[p. 209] 202 gat abula
+
+NE die vier Elementen entfi
+
+GOttes Des Men:
+
+Berbor.ien Hall « ee rasen nach Art] und Begier⸗ aalen eu ine au ied Sch cr selber: und kom Ga pe: a apa
+
+Ir
+
+1. Erde
+
+Kalte, alle Sitte; Steine Deine
+
+/bart und 0 Erde; und alles was gro al. sirdisch ist nach dem Planeten ausder
+
+Quint⸗Essentz,saturnus
+
+.Deer:
+
+mt
+
+22egen gen,Se tu ja d Boͤses,
+
+5 ikbasnt Wort m Wieder: Aushauchen, ein
+
+Ausgang vom Hauchen GOttes daraus detr Urstand alles Beweßnißentstehe ereatieihen Lebens: .
+
+pe GOttes 5 nach 8 145Essentz Guaal, Pein, Gemuthea rt, der [S Ottes Inen, alle fünf Senfus, und naSch lp Su Principien. en „in Angst und|sel. Nach der Bewegniß kommt dei Noth.
+
+Feuers Anzuͤndung. Nach dem G kommt Seele, als nemlich nach dem
+
+/und nach der Zeit ig Ewigẽ ewig
+
+[p. 210] Wem a0 efe Bri d⸗ z. lisch, als eine syderische Seele. Und weird der Spiritus Mundil in der sten
+
+Essentz bierinnen wee unter deem
+
+Planeten, Marsund unter den ssieben Eigenschasten Grimm ‚Zorn, vom Mercurio giftig: 0 Saturno
+
+starck. Ausser dem Lichtel die Holle, im Lichte die Freude.
+
+4. Element. Luft- Welt.
+
+Mensch
+
+Aus Begierde kommt Fratur und oben gemeldet. Aus SCIdas thieri⸗ Wesewie ver⸗sche Leben Ex TZ kommt empfindlich Leben, sowol rt, beysder Zeit in das Wircken, Wachsen und Gebaͤren.
+
+Heili⸗Boͤse und Aus Angst kommt Feuer und das ver⸗ heilig Gut. sstaͤndliche deben. Aus Feuer kom
+
+826.
+
+A euft als die Bewegniß und das Walle Ioder Wollen der SCIENTZ. Aus Luft ee. MN hrkr ;
+
+Wasser kommt das toͤdtliche vergaͤng⸗ liche Wesen in den Elementen, unter Iden Planeten,die Sonne ©.
+
+mmt
+
+Mees em I.
+
+Albie if]
+
+das nasse2 Wasser.7 Aus nass hy F. Licht, Liebe⸗Feuer.
+
+Der Wille des Ungrundes, als
+
+Tus. der Mensch G ttes Wille,führet e derGoͤttli⸗ Gestalten bis ins Feuers Anzündung,
+
+Ng iebe und nimt also nach der Natur an sich
+
+Ati einer vie⸗ sich durchs Feuer, als durch verzehrli⸗
+
+#### t. aus. Und wohnet nach vaterlichercna»
+
+bperstorben, natuͤrliche Eigenschaften , und führet Pesche auf- che Qual der Eigenschaften im Lichte
+
+GM
+
+Jeep DEN
+
+Dau ele
+
+ARE wi.
+
+tuͤrlicher) Eigenschaft im Lichte. Nicht zu verstehen daß man GOtt in sich sel⸗ ber naturlich machen wolte, sondern den Willen im Worte, der doch auch G Ott istnach seiner Offenbarung. Im
+
+Lichte ist der Wille ein natuͤrlich Liebes
+
+Feuer. Darnach urstaͤndet in dem aͤusseren Wesen der Welt aus dem feu⸗ lcd
+
+Wasser eine andere Erde Bi if [p. 211] aha du ie
+
+204 XXA-Epitole Theofophice. Ep Silber, Gold, und alle
+
+Metalle, nuniede Eigenschaft derselben nach den sieben Eigenschaften der Natur.
+
+Der Blick des Feuers darausdasvicht offenbar wird,istein Schrack des sal⸗ nitrischen Urstandes, da sich der Geist über sich scheidet; und in Mitten das Oele, als ein wesentlich Licht: * und unter sich ein geistlich Wasser, Sit Idas TINCTUR-CORPUS, vom Feuer und Lichte ist den CTUR, und urstaͤndet vom Wo welches sich hat in Natur einge
+
+Hunter den Planeten, WN Ottes adeeige⸗ e Schall Senist ldas ausge 58 = x as ner Ver⸗ naturliche Wort, aus beyden Ant durch fand und Prinei ien;Einveben der Senfuun
+
+“CHRI-
+
+"'$TUM, MU
+
+Wort.
+
+pesentliches Wort aus dem durchs Licht, eine Freude des ebens, Eine Kraft aller Leben, auch der Metal⸗ und,der Erden Kraft; Im Leben der Verstand, ein Finder und Emp fin | der Goͤttlicher Eigensch⸗ st. Unten 24. den Planeten, Jupiter
+
+CHRISTI BMA
+
+Wesen.
+
+Das Wescniftein aller gi⸗
+
+Ader Fuͤ als eine au Fleisch. end. genschaften der Pr nci-⸗ ten Essentz, ein Menftruu pien, darinne sie sich in rpora und ler Wachsenden, nach de
+
+Gut er
+
+Ereaturen einführen; aus Fleisch und Blut urstaͤndet. Ist ein Liquor al⸗ und nach dem Boͤsen x
+
+! ut in Cer .
+
+trum zum Guten und Boͤsen. unter una,(. den Planeten (Nota,)
+
+Sta:
+
+Wer alhie ugen t,der w es verstehen, warum der M fr Kugel halb licht in er ist.
+
+[p. 212] Br.48.Theosophische Send-Briefe, 208 Der XI IX. Send⸗Brief.
+
+An Herrn Christian Bernhard.
+
+Ohne Darum.
+
+Summarien. mahnung zur Gedult unter dem Creutz, g. 1. 2. womit Gott eine lauterliche, zu Grund gelassene Seele sodert, 3. damit wir um feiner Liebe willen recht üben een de unsere Ritterschaft ir sollen uns nichtum Dienste reiffen, 5. und der Laͤsterung,in Christt Mabbzeichen uns erfreuen. ibid. Unsere Seelen werden durch alle
+
+Truͤbsal nur geheiliget und gereiniget, wie das Gold im Feuer.6. Ein gar lieber Christlicher Bruder und Freund; ne⸗ Cen hertzlicher Wuͤnschung Goͤttlicher kiebe und rw mehrerer Erleuchtung, auch wahrer Bestaͤndigkeit und Gedult unterm + JEsu Christi gedultig zu stehen. 2, Gott hat euch alsbald zu anfangs eurer Erkentniß mit Christi besiegelt, zu mehrer Befestigung, euch hat zu einem Ritter gecrönet, daß ihr sollet als ein wahrer Bekenner in feinem Dienste wircken: und vermahne euch Christlich, wollet in Gedult mit Beten und zu Gott fle⸗
+
+Ihme die Sache befehlen, und unterm T Christi stille ste⸗ det eißig seyn in eurem schon empfangenen Talent; Ihr noch grosseWunder sehen, und wird euch euer Talent je lieber werden.
+
+langer 3. Dann also lehret uns auch Christus, daß wir solten um und Ihme alleine an⸗ Namens willen alles verlassen, bangen: Dann er fodert eine lauterliche zu Grunde gelassene
+
+Seele, in der will Er wohnen.
+
+Ihr doͤrfet nicht erschrecken, GOtt weiß wol, wozu er z ergebet euch nur Ihme in Gedult, und strebet wie⸗ Vernunft, welche dawieder dez so werdet ihr der ‚und Christo leben: Alsdann werdet ihr eure und die edle Cro⸗ erschaft um feiner biebe willen recht üben, ne des ewigen Lebens davon bringen,dawir uns ewig werden mit einander erfreuen. GOtt hat Ihme einen Rosen⸗Gar⸗ ben in euer junges Hertz gepflantzet, sehet wol zu, daß euch etwa der Teufel Dornen darein füe :Es wird bald
+
+Zeit kommen, daß euer Roͤselein wird Fruͤchte andere
+
+5 Reisset
+
+[p. 213] XXI. Epistolæ Theosophicæ.
+
+Ep. 4
+
+5. Reisset euch nicht um Dienste, sondern stebet dem Hoͤc sten stille, worzu euch derselbe haben will, und lasset den Rauch des Teufels immer hinfahren; dieser Lästerung iin Christi Mahlzeichen erfreuet
+
+6. O boͤse Art, wann du wuͤstest wie nahe dein Verderben sey, du thaͤtest im Sack und Aschen Busse! Aber es muß also
+
+seyn,aufdaß der Zorn auffreffe was ihme gewachsen ist:Lasset nur den 925 sein Maß voll machen, unsere Seelen werden nur dadurch geheiliget und gereiniget wie das Gold im hir
+
+Und empfehle euch der sanften LiebeJEsu Christi!
+
+Der XLIX. Send⸗Brief.
+
+An Herrn Christian Bernhard. Vom 27. —
+
+1623.
+
+Sum 8 Feuer ist nahe, da dieBerti Biftfontransmutiret pers denz 4. 1. welches Gist⸗Feuer in Babel brennet; 142. 1 grosßes Liebe-Feuerin etlichen angezündet worden ist.
+
+ahne derweilen in Gedult mit Ehristo zu leiden.3.
+
+Unser Seil im Leben JtKsuChristi in une}. 7 >
+
+Jelgeliebter Herr Christian, neben Wuͤnschung cher Liebe⸗Wirckung! wie es euch gehe und a8 euern Fuͤrhaben sey, möchte ich gerne wissen; ob euch auch ietzo die Pharisaische Gift anficht, welcher Feuer . da sie soll transmutiret werden, darunter wir in Goͤttlicher warten, e ich wol wissen: Dann ich habe daß dasselbe Gift⸗F ineu Babelrbey a, eenahm soll. mich fast 4 2. Aber ichhabe auch dargegen das grosse Liebe⸗ etlichen angezündet gesehen, also daß ich gewiß erkenn
+
+Zeit Goͤttlicher Heimsuchung nahe und schon verhanden wollet euch neben mir, und andern Kindern Christinurin dult45 bis daß der Zorn Gottes das boͤse Thier der a uͤrtze.
+
+3. Uns gebühret als Kindern christimitChristo leben und im beiden feinem Bilde ahnlich zu werden; if uldas nur nicht fremde seyn, so euch die Welthasset und gramm wer⸗ derWelt Feindschaft ist den moͤchte es muß also seyn, Erhoͤhung in Christo, dann wir findin der Welt fremde Gaͤ⸗
+
+[p. 214] Briefe Send⸗ phisch Theoso 50, nd wandern aufd ams-Straffe wieder in unfee
+
+Wag Al wc eic der Liebe Jef Christi! dupıra ! tum ut su
+
+Euer in der Liebe JEsu Christi wolbekanter 7 5.
+
+Dier I. Send⸗Brief.
+
+A Martin Mosern zum Gofdbergr, 0. 5. Marti, 1624. Summarien.
+
+torhat feinMissen, nicht aus Schulen und Büchern, 8 von dem in ihm aufgeschlossenen Buche allerWesen. 5. 1. In demselben ist ein Creutz der rechte Perstand, und die es ulesen krie⸗ gen,werden mit dem Creutz gezeichnet. ibid. Autor ist auch damit be⸗
+
+Be un zugleich pr dem Triumph: Fähnlein der Auferstehung Christi,
+
+2. darob der Teufel erzuͤrnek, aber nichts ausgerichtet a at.!5 RL Greg. Richters Pas quill hat der Satan das Pharisaͤische e ent a vielen Menschen zur Warnung, besser auf ihreSee⸗ aben. 5. Die Ursache zu solchem Pharisaͤischen Zorn hat ges ia aß das Büchlein von der 7 ren Gelassenheit ge⸗ worden; 6, welches aber eben durch solche Schm bung nur worden und in kurtzer Zeit fast durch. * Europa 85
+
+Daß auch Autor darauf, am nie ofe zu Sachsen zu keuten gebeten worden. ibid. So wird Gott dem Teufel feine 55zu nichte machen!8. Autoris K Er noch en als ein Ritter
+
+Abbe bet, und auch andere darzu ausmuntert. 9.
+
+weggeworfen, haben fremde Voͤlcker mit Freuden ufer Seil und Seiede im Leben Jæsu Cbristi! in gar lieber Herr Martin WM. nebenst hertzlicher Wuͤnschung der stetswaͤhrenden wirckenden Liebe W unsers HErrn JEsu Christi,in Seele, Geistund Leib! zur.| e Schreiben habe ich wol empfangen, und euer ei ches Hertze in gliederlicher Liebe gegen mir und der chten * ahrheit vermercket, und wuͤnsche daß euch Gott in olchem Vorhaben kräftige und erhalte, daß ihr moͤget im Eu
+
+5a
+
+JI Esu Ehristi wachsen, und viel gute Früchte tra⸗ nnet auch wol vernuͤnftig bey euch erkennen, daß d des HErrn mit feinem Willen bisher habe gefuͤh⸗ 9 7 5 Erkentniß gebracht, damit ich vielen Men⸗ chen g illig wi gedienet habe: dieweil ich meine Wis⸗ 5 nich von Lernen in Schulen und Buͤchern habe em⸗ igen, sondern von dem grossen Buche aller Wesen, n
+
+[p. 215] XXI. Epistolæ Theosophicæ. Ep. 50.
+
+des HErrn Hand hat in mir aufgeschlossen.
+
+Weil dann in demselden Buche ein F der rechte Verstand ist, so zeichnet
+
+Gdtt feine Kinder, weichen er dieses Buch zu lesen giebet mit demselden T, an welchem Creutze ist der menschliche Tod ers wuͤrget, und das ewige Leben herwiederbracht worden.
+
+2. Und füge euch brüderlichAn wissen daß mir auch dassel⸗ de Mahlzeichen sey an meine Stirn gedruckt worden neben einem Triumph ⸗Faͤhnlein, daran die Auferstehung JEsu Ehri⸗ sti eingepraͤget ist welches Mahlzeichen mir lieber ist als aller Welt Ehre und Gut, daß mich unwuͤrdigen Menschen Gott so hoch geachtet, und mit dem Sieges⸗Zeichen feines lieben Sohnes JEsu Christi gezeichnet bat: Vor welchem Sieges⸗ Zeichen der Teufel erschrocken ist daß er vor Zorn moͤchte jerbersten, und deswegen grosse Stur mwinde aus feinem Meer des Todes uͤber mich erwecket, und seine grausame . — Strahlen auf mich geschossen, in willens mich zu ersauffen.
+
+3. Aber seine Strahlen sind bisher noch alle ledig gen, dann das Creutze mit dem Sieges.
+
+Faͤhnlein IJEsu
+
+Chri bat mich beschirmet, und die Gift: Strahlen De SE ges schlagen, dadurch ist vielen 00 Menschen des Satans Pharie fäifche Mord⸗Gift offenbar worden, welche sich feit der Seit haben auch zum Mahlzeichen Christi gewandt, daß ich also mit rei sehe, daß denen, welche GOtt lieben, alle Dinge zum en dienen.
+
+4. Das eh mees zu euch a eg als nur eine Pharisalsche Schmahung niches mit einem Ehren ruͤh⸗ rischen, luͤgenhaften Pasquille in lateinischer Sprache gewe⸗ fen, auf einem Bogen Papier; darinnen der 8 Pharisaische Hertze entbloͤsset, welches durch G d Pha⸗ fung also ist geschehen, daß die Leute sollen den Gift risaͤischen Hertzens ar:kennen und fliehen. 5. Und halte es fast dafür, daß denselben Pasquill gar allergroͤbste Teufel dietiret, dann er hat seine Kette ze Er darinnen entdecket, daß man klar stehet, daß er ein ügner und Mörder ist; und wird vielen Menschen zur War⸗ nung seyn, daß sie werden besser Achtung auf ihreSeele ben. Wie dann dieser Pasquill bey uns fastvon allen ten dem Satan zugeschrieden wird.
+
+6,
+
+6.Dis
+
+[p. 216] \ Bro. Theosophische Send- Briefe. 209 6. Die Ursache
+
+solches Zornes ist das ausgegangene ges druckte Büchlein, non der Buß und wahrer Gelassenheit, gewesen, welches Büchlein viel Nutzen geschaffet hat; das hat den Pharisaischen Geist verdrossen, daß ein solcher Grund solle offenbar werden, und vermeinet, man würde auch solche Lehre
+
+Leben von ihme fodern, welches nicht schmecket, weil man in Wollust des Fleisches sitzet, und dem AbgBacho ott dienet in
+
+seischlicher zust. 7. Aber wisset dieses zur Nachricht, daß feine Schmaͤhu und Lügen nur mein Buͤchlein hat publiciret und offenbart d es ietzo fast iedermann, Adel und Gelehrten, auch einfaͤltige deute, begehren zu lesen und sehr lieb haben; welches Buͤch⸗ in in kurtzer Zeit ist fast durch gantz Europa erschollen und mmen, und sehr geliebet wird: Auch am Churfuͤrstl. Hofe
+
+Sachsen, dahin ich dann auf ein Gespraͤche bin zu hehen Leit ten gebeten worden, welches ich ihnen bewilliget im Ausgange der Leipziger Messe zu vollziehen: wer weiß, was alda möchte geschehen, ob nicht dem unverschaͤmeten Laͤsterer m Re Maul zugestopfet, und die Wahrheit gepflantzet werden. 8. Vermahne euch deswegen mit Gedult und Beten, in Christlicher Liebe und Freude, der Zukunft und Offenbarung ers Herrn JEsu Christi, zu warten auf feine Erscheinung, pelche bald anbrechen, und dem Teufel feine Werde zu nichte wird machen; mir grauet nichts vorm Teufel: will mich
+
+B te zu feinem Werckzeuge länger haben, Er wird mich wol heschuͤtzen, dann die Wahrheit darf keines Schutzes; Ihr Schutzistdieses, was Christus saget: Wann euch die Leute u meinetwislen verfolgen, und alles uͤbels von euch reden, Pofledaran lügen, so freuet euch, euer Lohn ist groß im Him⸗ el; March,5:11. Item: Wer fromm ist, der sey immer⸗ fromm, und wer boͤse iff, der seyimmerhin böfe, Apec. 22:17. ein ieder wird ernten was er saͤet. 9. Was soll mir zeitliche Ehre, so mein Wandel im Him⸗ el if, und ich nach dem Leibe und Seele dahin lauffe, da mein
+
+Sa vorhin wobnet? Leide ich doch nur im Leibe 3erfolgung, und nicht in der Seelen, wasfürchte ich der ie se, welche den Geist verftecter ? So die Hülfe weg ist, so stehe ichgantz im Himmel mit blossem Angesichte, wer will mir das nehmen? niemand, was ums ich dann der Welt in einer
+
+[p. 217] XXI. Epifolz Theofophicz, Epo.
+
+einer himmlischen Sache? Ist sie aber böfe, warum leide ich dann darum Schmach, Es im Kummer und Furchtenz und gehe nicht davon aus? ist sie aber gut, was zage ich dann? so ich weiß, weme ich diene, als nemlich JEsu Cbeißewelcher mich feinem Bilde ahnlich machet: Ist Er gestorben und aufs erstanden? warum wolte ich dann nicht auch mit Ihme lei⸗ den, sterben und in Ihme auferstehen? Jasein Ereugistmein taͤglich sterben, und seine Himmelfahrt geschiehet taͤglich in mir, ich warte aber der Sieges⸗Crone, welche mir JEsus Christus hat beygeleget, und stehe noch im Ringen als ein Ritter: und vermahne euch, als meine Mitringer, daß ihr auch im Glauben kaͤmpfet, und in Gedult wartet auf die Of⸗ fenbarung unsers HErrn JEsu Christi, und ja feste stehet, dann dieser rauchende voͤsch⸗Brand, welcher ietzt rauchet wir nahe im Feuer verzehret werden; alsdann werden sich die Uberbliebenen freuen, so wird dann offenbar werden, was euch habe sollen schreiben, welches ietzo verlaͤstert wird, u doch nur von den Unwissenden; Aber die Weisen merckens, und haben Acht drauf, dann sie mercken die Zeit und sehen
+
+Finsterniß und auch die Morgenroͤthe des Tages. 10. Mein geliebter Herr Martin, euer Wolgehen samt euers Vaters, und aller der Eurigen, istmir lieb, und mich dessen; die Schachtel voll Confect habe ich wol empfan⸗ gen, und thue mich dessen bedancken; wolte auch gemeldet Herrn Apoteker zur Wilde in der Littau gerne 0 reis ben so ich nur wuͤste, daß ihr Gelegenheit zu ihme h ttet, b mich es wissen zu lassen; Was mein Vaterland weg werden fremde Voͤlcker mit Freuden aufheben.
+
+Mal"
+
+In. Und uͤbersende euch, und eurem Herrn Vater, jedem ein Exemplar meines Buͤchleins, etwann für gute Freunde, we ihr dasselbe, wie ich vernommen habe, schon zuvor hin füreı habet bekommen; der andern geschriebenen Sachen habe ii anietzo fast nichts beyhanden, ich wolte euch gerne etwas Das von schicken, bosse aber in kurtzem selber dieser Gegend a langen, so wolte ich etwas mitbringen, so GOtt will. Und empfeole euch der sanften Liebe JEsu Christi! Darumut pra.
+
+EN
+
+[p. 218] Bien Theosophische Send⸗Briefe.
+
+Der LI. Send⸗Brief.
+
+an Herrn Christian Bernhard.
+
+Vom 4. April. 1624. N
+
+Hr
+
+Summarien. richt von DeYeimarii grossem Zorn und erregten e de
+
+Büchlein von der Busse. Hehe 11 das — erfreuen sich Unser Seil im Leben Sfr Christi in uns
+
+3.
+
+Ein gar lieber Herr Christian, neben Muͤnschung der wirckenden Liebe unsers De Ref Christi, in
+
+Seele und Leib! Eure behde Brieflein, samt eurem habe ich wolem 15 angen: Ich bin Pender beyden 1
+
+stvor wenig Tagen, nachdemich8 uvor Fastnach⸗
+
+151 berreisete, anheim kommen und bin 6 Wochen nicht ause gewesen, ich wolte euch fonfthaben länge 2 wie ich bin zu hause kommen ein Brief⸗ be ae (wegen eurer Bücher) geschicket, und dem Herrn, pelcher zuvor 5Reichsthaler darauf geboten, Meldung gethan, sie bey mir waͤren; er ist aber nicht zu hause gewesen, ne, Dreßden gereiset, und habe noch keine Antwort don ihme, bis er 15 hause kommt; kann ich sie aber etwann o will ichs gerne thun.
+
+euch zu wissen, daß der Teufel in unserm Ober⸗ 2. Und füge, ee „wegen des gedruckten Buͤchleins, gantz erzuͤrnet ebe wie rasende und tolle worden, mit Fluchen, ahen, Lügen und Morden, daß ich kräftig sehe, daß die⸗ ist,und mich darum üchlein dem Teufel gang zuwieder 8 wolte ermorden; und muß i1 wegen seiner grausa⸗ Verfolgung unter dem T. Christi stehen, und fein Mahl⸗ agen, dann der Teufel geusset ietzo feine letzte Gift sichfuͤrzusehen.
+
+2%5 es eurem Vater und Bruͤdern gehe, sonderlich dem
+
+Con ·Rector, welchen ihr wollet meinetwegen salutiren, mochte ich gerne wiflen, und was man bey euch von dem ges druckten Büchlein richtet, ob es auch gelaͤstert wird? bey | us erfreuen sich viel hungerige Hertzen daruͤber. Aber dem Dberfien boͤsen Manne n, es nicht,weil es . und
+
+[p. 219] 212 XXI. Epiflolz’Theofophicz. Ep.52.,53. Beten lehret.
+
+Und empfehle euch der Liebe unsers HErrn supra. nitz, ut Goͤrl Ge in e e abe Chr dbc e Freund
+
+Is
+
+Der LII. Send⸗Brief.
+
+An Herrn Carl von Endern. f
+
+I5 . 90 ( vom . Am. me
+
+%.
+
+ohne
+
+Sum Chwere Verfolgung we sr, des Primarii =
+
+Bae 1 = e if run di Mahaetaus =.zu sagen, ohne Ansehen der Creatur; iedoch au 17 et, ihid
+
+Deb fuͤge dem Juncker, daß gestern reW
+
+700 sel gantz losworden sey, und mich samt we lein zum aͤrgsten verdammet, und das Bichle
+
+Feuer geurtheilet, auch mich mit schweren after e als einen Veraͤchter der Kirchen und See a5 get: Ich sauffe mich alle Tage in Brandwein, Dr15 all andern Wein, voll, und sey ein Hollunke, wahr ist, und er selber ein truncken Mann ist.
+
+2. Weil er denn also sehr tobet, so ist E.Rath e den und haben die Herren entschlossen, wie Ich bin von guten Freund berichtet worden, mich Morgen vor einen 5,
+
+Rath zu fodern, von solchem Rechenfehaft zu geben, dabin J gesonnen, die Wahrheit aus dem Grunde zu sagen, und
+
+Creatur anzusehen, und solte es mein Leben kosten. Je
+
+Christlicher Art, ohne andern Eifer; des Junckern Rath te ich hieruͤber gerne vernehmen. Denn es ist die S
+
+Reformation kommen, Gott schick es zu feinen S
+
+Der LI. Send⸗Brief.
+
+10Hrn. Joh. Sigmund von Save.
+
+na 1
+
+5 vom 6. April. 1624.
+
+Unsc nid. h. $91. Seen atan1if,so schr e ürn ‚2.
+
+un| dr
+
+65 worden, damit nicht * Bildereu un . »
+
+[p. 220] Br. 53. Theosophische Send⸗Briefe.
+
+Garten wachsen möchten. 3. Dahero er Autori ein Boses bereitet Primarii heftiges Wüten iff so Gggtt doch gehindert. 4. Des aus seinem 15 quiß zu sehen; s. welcher auch den Past. Fristus in poret, Autorem ebenmäßig anzufallen, und beym Goͤrlitzti⸗
+
+seines Freundes Gutachten hierinnen; und leidet die Schmach mit Gedult. 17. Unser Heil Im Leben IEsu Christi In Uns!
+
+IR
+
+Ein gar lieber und werther Herr Johann Sigmund, nebenst herglicher Wünschung stetswaͤhrender Liebes
+
+Wirckung unsers HErrn JEsu Christi in Seele und Geist, daß euch in eurem von GStt gegebenen himmlischen mic ine, sche ewi Lieb tlic Goͤt Son Tal ewig mit euch erfreuen möchte. 2. Anietzo füge ich euch zu wissen, daß der Satan so sehr zer⸗ Höll gant hätt ist, rnet erzü ret, unddaes doch nur in etlichen wenigen Meuschen ange⸗ fangen ist, ihme fein Raubschloß zu stuͤrmen. 3. Weil wir ihme aber nicht die Herberge wollen weiter word rase in uns selbst gön dami ilge vert Wel dies ncke gede Gar eine verm sein Lili utle Kraͤ solc meh ten, welchen er mit der Sünde in Adam gepflanget hat, wach⸗ woll ftel beim GOt HEr erm uns wel brau elei Roͤs antz epfl neug fein uns, wozu Er mit Gedult auf Hoffnung unter dem Creutze unsers HErrn
+
+sage HEr höre steh still sti JEsu Cbri wird, was Er mit feinem Werckzeuge thun will. ans Sat fand kam haus 4. Als wan lege woll hatt dare Bett zubereitetes Weg unse welc zen, Hert mme fro etli dur nicht Got mehr bekant ist,verhindert hatte. O 3
+
+5. Dann
+
+[p. 221] Ep.
+
+XXI. Bpistolæ Theofophicz,
+
+5. Dann der Oderste Pharisder, als der Primarius, hat also als hätte es heftig wieder das gedruckte Büchlein gewütet, ne seinen Sohn ermordet, und alle sein Gut verbrant also einen Hauffen Lügen wieder mich ausgeschuͤttet, neben leichtfertiger Ehrenruͤhrung, wie in beygefuͤgetem seinem Öffentlichen Pasquill zu sehen ist.
+
+6. Solche schandliche Lügen und Schmaͤbung hat er nicht alleine auf der Cantzel getrieben, sondern auch nach der Ligni um Fastor, Frisius genant, gefthrieben, und begehret, wolle beches nicht alleine auch auf der Cantzel so ruͤhren, wie er dann auch gethan hat, sondern auch drucken lassen, und ihn vermahnet bey einem E. Rath zu Goͤrlitz über mich zu Has gen, und im Namen fuͤrbringen als waͤre solche Klage von allen Priestern im Weichbild Lignitz über meine Schri
+
+2 fonbertich über das gedruckte Büchlein. (Weg zu o.
+
+N.
+
+IX.)
+
+jr
+
+7. Solches hat Frifius gethan, und mich bey einem E. Ra zu Goͤrlitz, auf unsers Primarii Begehren, also mit einem genhaftigen Schreiben angegeben. kn
+
+8. Uber dieses istunser Primarius zu den vornehmsten Her⸗ ren unserer Stadt zum ostern gelauffen, und also heftig mit Lügen über mich gewuͤtet, und mich angeklaget und begehrek, daß so balde ich würde zu hause kommen, so solte man mich ins Gefaͤngniß stocken, und von der Stadt verjagen, auch ein solches Luͤgen⸗ und Klag⸗ Schreiben bey dem Rath ein⸗ sine, und mir die Hölle wol geheitzet und das Badzuge⸗
+
+9. Nachdeme aber schon sast die meisten Herren des Ras thes mein gedrucktes Buͤchlein gelesen hatten und in demsel⸗ ben nichts Unchristliches befunden, auch von etlichen sehr be⸗ liebet ist worden, neben auch vielen von derBurgersthaft, so ebenetliche solches Vorhaben und Begehren des Primat ür unbillig geachtet, es sey keine rechtmaͤßige Ursache zu sol⸗ cher Verfolgung an mir, und darwieder geredet und gesaget;
+
+sey doch diese Religion nichts neues, es sey eben der Grund
+
+5 abe H. Vaͤter, da man mehr dergleichen Büchlein wütr nden.
+
+10. Etliche aber, sonderlich welche der Primarius einge⸗ nommen, haben gut geachtet mich vor einen E. Rath zu so⸗ dern und zu bedraͤuen, Ich solte zusehen daß , ay [p. 222] efe. ⸗Bri Send isch soph 53.oder Theo Br. aͤpser Churfürst durch die Priester angestochen wur und nach mir greiffen liessen, als es dann auch ist also den,
+
+schehen, als ich vorn Rath kam, mir also gesaget ward: Sie 1180 mir mich etwas bey seite zu machen, daß sie mit mir nicht etwann Unruhe hatten.
+
+Über dieses hatte ich meine Antwort schriftlich verfas⸗
+
+set und wolte sie übergeben; Aber der Primarius hat das vers wehret, man solte keine schriftliche Antwort von mir neh⸗ men, dann er fuͤrchtete, er würde muͤssen um feine Lügen ant⸗ worten, 12. Also ward sie vom Rath nicht angenommen, sondern ward nur gewarnet, mich bey seite zu machen, oder weil andere Leute gerne bey sich hätten, mich zu ihnen zu bes gel 5 daß sie doch Friede haͤtten, aber kein Gebot ward mir en. 13. Auf dieses gabichihnen zur Antwort, weil man meine
+
+Antwort nicht hören wolte, daß ich meine Unschuld möchte klagen, und koͤnte auch in keinen Schutz wegen des Primarit
+
+Auflagen und unbillige Schmaͤhungen genommen werden, so muͤste ichs GOttbefehlen, und sehen wo mich GOtt wuͤrde gend zu frommen beuten führen, und mir endlich ein Stel⸗ bescheren, daß ich dem Primario einmal aus den Augen ame. 14. Welches ihnen lieb war, aber doch kein Gebot thaͤten, als solte und muͤste ich weg, sondern mich nur warneten.
+
+15. Damit ging ich vom Rath anheim, da dann vor der
+
+Rathes⸗Thuͤre in der äussern Stuben etliche spitzige Spoͤtter,
+
+Anhang, vielleicht auch wol von ihm gesandt, N 5 unnden, und mein spotteten, und einer unter ihnen, ein loser Bube, mich von dem Scheitel bis auf die Fuß sohlen anatomir⸗ e, von meinen Kleidern und Gaben, und den Geist GOttes also h eftig angriff und spottete, endlich auch sagete: Der H. Heist würde endlich so gemein werden, wie die Peltzflecke den Kuͤrschnern.
+
+{
+
+16. Also nahm dieses ein Ende, und hat der Primarius über bieses diesen Pasguill drucken lossen, und muß ich ietzunder recht 1 5 Exeutze Christi stehen. G Ott schaffe es nach em Rat
+
+. Bitte, der Juncker wolle mir hierinnen fein Gutachten, r* andeuten. gibt, erkennen nes*ihneGott **
+
+[p. 223] 2 XXIEpifole Theofophiez. Ep.54.je t, aber meine4 eswolalles mit Gedul änlich geebren-rührer, welchesdoch alfofeyn muß Wer , daß das
+
+Maß vol wird und die Straff komm.
+
+18. Bitte Herrn D. Koschwitzen und dann auch Herrn
+
+Abrabam von Franckenberg samt eurer FrauMutter allen lieben Kindern JEsu Christi, so beyeuchEe
+
+Eil der Bote wartet aufs Schreiben; wolte sonst ehr ge⸗
+
+schriebe ö aben.
+
+19. m empfehle euch saͤmtlich der Liebe JEsu Christi, will j euch inkurtzem wieder sehen; es gruͤssen euch alle unsere Bes kanten. Datum ut supra.
+
+#### p. S. Inliegend Schreiben isteines
+
+Euer in der Sie be Jen für Seledeich e. — gebrochen werden; das andere
+
+Herr
+
+Paul Gebperten zu senden. Der LIV. Send⸗Brief.
+
+Jacob Boͤhmens schriftliche Verantwor⸗ i. Fr z, Gö Eh E. g,en und Verfolgung über dasge⸗ warnLästerunLüg sse. druckte Buͤchlein von der Bu pri,
+
+3. Geschrieben Ann Nota: ist zu finden bey den Apologien.
+
+Der L. Send⸗Brief.
+
+An N. N. von Lubeck. Vom 20. April. 1624.
+
+Wu
+
+Summarien.
+
+$.1. Ott führet die Pichenden tue Liebe. g. oel tli⸗ nunst und Forschen erlanget nicht den wahren Gru cher Erkentniß. 4. Das Forschen muß von innen,m Hunger der Seelen, anfangen, nicht in der Vernunft, ihid. und die böchiten Weisheit, den die Welt nicht kennet. 7. In Autori ihre Macht und Willen, der piebegantz ergeben; 8. foforschet der Geist Gottes durch sie. 6. Es istgar ein einfältiger rg en Er 5 7 mo aber ar sen siehet man nur den Glantz der Göttlichen Gebeimnisse: Gottes ficht selbst in der Seelen anbrennet, da wird erst die faule 1
+
+Theosophische Pfingst⸗Schule geöffnet. 8. Alsdenn heben alle Pforten offen, und bedarf es keines Forscheus mehr. 9. Die Tugend von er ve
+
+[p. 224] Br.55. Theosophische Send» Briefe. 7
+
+Zeitefonbein langen fann.1.2. ABeifagung vonfünfnger rsden mt recht n werden:
+
+mitternaͤchtigen Landern. 13.19 unser Beil in derwirckenden Liebe Zefa Ebrifi in una!
+
+N)
+
+Ein gar lieber und Christlicher Herr; der hohe Frie⸗ de nebenst hertzlicher, gliedlicher, und in der Begierde mitwirckender Liebe⸗Wuͤnschung, daß dem Herrn die wahre Sonne der wircklichen Liebe JEsu Christi, in Seele,
+
+Geist und Leib stets aufgehe und scheine.
+
+2. Sein Schreiben unterm dato 24. Januarii, habe ich 14
+
+Tage nach Ostern empfangen, und mich dessen erfreuet, daß ich darinne sehe, daß der Herr ein hungeriger, eiferiger, begieriger Sucher und Liebhaber des wahren Grundes sey; welchem, wie ich verstehe, der Herr mit Fleisse hat nachgetrachtet und geforschet. 3. Daß ihme aber auch meine Schriften sind zu handen kommen, und er dieselben beliebet das istgewißlich die Ursache, und eine Goͤttliche Ordnung, welcher die Liebenden zur Liebe führet, und ofte fremde Mittel brauchet, dadurch Er die lieb⸗ habende Begierde erfuͤllet, sie mit feiner Gabe speiset, und ihrer Liebe ein Ens 1175wahren Feuer⸗Brennen einfuͤhret. m 4.Und soll der Herr gewiß glauben, so fern er wird in der Liebe zur Wahrheit bestaͤndig bleiben, daß sie sich ihme wird in
+
+Feuer⸗flammender Liebe eroͤffnen, und recht zu erkennen ge⸗ ben; Nur daß es recht angefangen werde: Dann nicht durch unsere scharfe Vernunft und Forschen erlangen wir den wah⸗ ren Grund Goͤttlicher Erkentniß; Die Forschung muß von innenimHunger der Seelen anfangen, dann das Vernunft: orschen gehet nur bis in fein Astrum der aͤussern Welt, dar⸗ die Vernunft urstaͤndet: Aber die Seele forschet in ihrem ftro, als in der inneren geistlichen Welt, daraus die sichtbare elt entstanden oder ausgeflossen ist, darinnen sie mit ihrem
+
+Grunde stehet.
+
+8. So aber die Seele will ihr eigen Astrum, als das Mysterium Magaum forschen, so muß sie alle ihre Macht und Wil⸗ lenGoͤttlicher viebe und Gnaden zuvor gantz ergeben, und zu vor werden als ein Kind, und durch grosse Busse sich zu ihrem
+
+‚ohne wolle wende ro Sent ww’
+
+[p. 225] Res
+
+XXI. Epistolæ Theofophicz, Ep. Gottes durch sie will forschen. Und wann fiesich also bat übergeben, und dadurch nichts als GOttes Ehre und ihre Se ligkeit suchet, samt dem Dienste und Liebe desNaͤchsten, und
+
+sich alsdann in solcher Begierde findet, daß sie gerne wolte Göttliche und natürliche Er kentniß haben, so soll sie wissen daß sie von G Ott darzu gezogen wird; so mag fiewol solchen tiefen Grund, wie in meinen Schriften angedeutet wird, forschen.
+
+6. Dann der Geist GOttes forschet durch sie, und führet
+
+sie endlich in die Tieffe der Gottheit, wie S. Paulus saget: Der Geist forschet alle Dinge, auch die TieffederGottheit 1. Cor. 20 7. Mein lieber HErr, es ist gar ein einfältiger Kinder⸗We⸗ zur hoͤchsten Weisheit, die Welt kennet den nicht: Ihr duͤrfet sie nicht in fernen Oertern suchen; Sie stehet vor eurer See⸗ len⸗Thuͤr und klopfet an: Ists, daß sie mag eine ledige gelasse⸗ ne Stätte in der Seelen finden, so wird sie sich alda wol er nen, und sich mehr darinnen erfreuen als die Sonne in den Ele⸗ menten; So sie (die Seele) sich ihr (der Weisheit) zum Eigen⸗ thum ergiebet, so durchdringet sie die Seele mit ihrer e flammenden Liebe, und schleusset ihr alle Geheimniß auf,
+
+8. Es moͤchte dem Herrn vielleicht Wunder nehmen wie daß ein Laye solche bohe Dinge verstünde der sie niemals ge⸗ lernet noch gelesen hat. Aber ich sage euch, mein lieber Herr, daß ihr bis hero nur einen Glantz in meinen Schriften von sol⸗ chen Geheimnissen gesehen habet dann man kanns nicht schrei⸗ ben ; ob ihr von GOtt wuͤrdet würdig erkant werden, daß euch das Licht in der Seelen würde aubrennen, so wuͤrdet ihr un⸗ aussprechliche Worte SOttes von solchem Erkentniß hören, schmecken, riechen, fühlen und sehen.
+
+2 o
+
+Alda ist erst die rech chePfingst⸗Schule, da dieSeele von GOtt geleh⸗ ret wird.
+
+9. Es darf hernach keines Forschens oder scharfen Mühe mehr: Es stehen alle Pforten offen, es kann gar ein einfaͤltiger Mensch darzu kommen, so er ihme nur nicht selber mit seinem
+
+Wollen und Rennen wiederstehet, dann es lieget vorhin im Menschen, es darf nur durch GOttes Geist erwecket werden. 10. In meinem Talent, wie ichs in der Einfalt habe moͤgen aufschreiben, werdet ihr den Weg hierzu wol sehen, sonderlich in diesem beygefügeten Büchlein, welches auch meines Talent ist. und erst vor wenig Wochen zum Druck befördert worden;
+
+Welches ich dem Herrn in Liebe, als meinem e
+
+Rn gliede,
+
+[p. 226] 1.s aber a den Grund der hoben natüutihen
+
+Geheimnissen, dessen der Herr um mehrer Erläuterung nes
+
+N1Herrn Waltern und Herrn Leonhard Elvern (al. mern) begehret, wolle er bey Herrn Waltern darum nach⸗ en: Dann ich habe euch und ihm eine Erklärung‘, nebenst
+
+Pi Schriften mitgeschicket; so euch dieselben belies o koͤnnet ihr sie lassen nachschreiben, ihr werdet gargrosse entniß dar innen finden. Siehe Ep. 57:2 12. Ich wuͤnsche daß ihr das allesamt recht möget verste⸗ n; Ich wolte es euch gerne noch einfaltiger geben aber we⸗ er grossen Tieffe, und dann auch der Unwuͤrdigen halber, mag es ietzo nicht geschehen. Christus spricht Matth. 7:7. Suchet, so werdet ihr finden klopfet an, so wird euch aufgethan. Es kann es keiner dem andern geben, es muß es ein ieder selber on Gott erlangen: Anleitung kann einer dem andern wol ge⸗ den Verstand kann er nicht geben.
+
+13. Aab wisset: Daß euch mitternuͤchtigen Landern eine Allie bläber. 14. So ihr dieselbe mit dem Sectirischen Jancke der lebrten nicht werdet zerstoͤren, so wird sie zum grossen euch werden. Werdet ihr aber lieber wollen zn 2 felden wahren Gott erkennen, so gehet der
+
+Strablvorhber, und trift nur etliche; so muͤsset ihr her⸗
+
+Wasser für:den Durst eurer Seelen bey fremden voͤl⸗ rern holen.
+
+15. Werdet ihr das recht in Acht nehmen, so werden meine Schriften grossen Anlaß und Anweisung dar⸗ zugeben, und der Signat Stern über eurem Polo wird euch helfen, dann feine deit ist geboren. 156. Ich will euch gerne geben was mir der HErr hat gege⸗ ben, sehet nur zu und leget es recht an: Es wird euch eingeug⸗ nf über den Gpötter seyn. Auf meine Person darf niemand 5 en, es ist eine lautere Gabe GOttes: Nicht allein um mei⸗ netwillen, sondern auch um eurentwillen, und aller deren, welche sie zu lesen bekommen.
+
+Es gaffe niemand mehr nach der Zeit, sie istschon sehe»
+
+[p. 227] XXI. Epistolæ Theosophicæ.
+
+Ep. 56.
+
+ren: Wens erift, dentrifts; wer dawachet der siehets und der da schlaͤsset, dersiehets nicht. Sie ist erschienen 7 wird bald erscheinen; wer da wachet der siehet sie ben sie schon empfunden aber es muß von ehe A Tru sal voruͤber gehen, ehe sie gantz offenbar wird. Dasist d Ursache: der Streit der Gelehrten daß sie Christi Kelch mi
+
+Fuͤssen treten, und um em Kind zancken, das boͤser nie gemef ist seit daß Menschen gewesen sind, das wird offenbar werden, darumsoll sich kein frommer Mann an solchem Zancke besud⸗ len: Es ist ein Feuer vom HErrn darinn, das * brennen, und die Wahrheit selber offenbaren. BETTEN 18. Was mehrers ist, wird er bey Herrn Waltern gen, sonderlich eine Tabell samt der Erklarung darinn der tze Grund vor Augen gestellet ist. Und empfehle den der Liebe JEsu Christi! Des Herrn in der Liebe JEsu 2Si | Dienstw.
+
+Der LVI. S
+
+An HerrN.
+
+#### N. w
+
+Summarien.
+
+aT
+
+1 a
+
+Vom qm Saume Christi sind wir alle nur Einer, welcheri Chrtus i 8 uns. g. 15. Die Welt redet von Christo aus Gewoh beit. Der Sohn Gottes gibt uns allein die wahre Wissenschaft. 7.8. Gottes Wort muß selbst in uns wircken,9 dann Gott gefallennur feine eigene Wercke. 10.
+
+Darum müssen wir die > ber:
+
+winden, und in eine allgemeine Liebe kommen. "1 2 wird Soph
+
+55 Seelen ibid.
+
+zur Gemahlin gegeben, 12. welche Istderowegen Ernst und e al, it 15 ig, die Busse nicht aufzuschieben. 142. Wann dann gleich und Seele uͤberdecket, 14. sodecket doch G Ott das Ben bewahret die Einfältigen, 17. daß der Satan GOttes dern mag. 18. sg.
+
+Unser Seil in der wirckenden Liebe Ilesu 0 in uns!
+
+Neun geliebter Bruder im Reben JEsu Ehristi, nebe bertzlicher Wuͤnschung GOttes wircklicher Liebe,de euer in Christo entsprossenes edeles Lilien⸗Zweiglein im Para:
+
+deis G Ottes in der Kraft Christi groß 2 und viel De „
+
+Bruͤ⸗ fe trage, zuunser aller rigen Sende und himmlischen2 derschaft!
+
+inS6
+
+"A “D
+
+2.3>
+
+[p. 228] Br. 56. Theosophische Send⸗Briefe.
+
+2. Ich erfreue mich in meiner Seelen, wann ich vernehme, daß ein kraͤftiges schoͤnes Zweigelein an unsermvebens⸗Baume, entsprossen ist, hoffe feiner guten Fruͤchte en| 721 ie ein Zweig am Baume des andern Saft und Kraft geneust, und alleineiner Kraft wachsen und Früchte tragen; Also sind wir auch im Baume Christi alle nur Einer, welcher ist Christus in uns allen. 4. Weil ihr euch dann mit Mund und Hertzen frey öffentlich zu diesem Baume des Lebens bekennet, und hingegen des Sa⸗ tans Gift und Irrung wiedersprechet, so wuͤnsche ich ietzund nichts mehr, als daß ich moͤchte koͤnnen in der Kraft dieses Baumes, welcher ist Christus, euch meine von Ihme em; pfangene Kraft einfloͤssen, auf daß wir, als Glieder, in Einer wachsen moͤgen. F. Und zweifelt mir nichts daran, der Hoͤchste habe seinen Alien⸗Zweigineuch geboren, dann ohne Göttliche Kraft ha⸗ ben wir kein Verlangen noch Hunger nach GOtt, und koͤnnen Ihn auch ohne seinen Geist in uns nicht erkennen; Alles was wir gruͤndliches von Ihme wissen, daß kommet von seiner Of⸗ fenbarung und Wirckung. 6. Dann ob gleich die Welt viel von Gott redet, so thut sie es doch nur aus Gewohnheit, und nimt ihr Wissen von der Historia des buchstabischen Worts, und ist kein wahres Wis⸗ bey ihnen: Dann niemand kennet den Vater als nur der und weme es der Sohn will offenbaren. 7. Darum haben wir keine wahre Wissenschaft von GOtt,
+
+sie werde uns dann vom Sohne gegeben, welcher in uns lebet, so wir aber auch Reben am Weinstocke sind. 8. Dann Christus sprach: Wer von Gott ist, der hoͤret
+
+GSttes Wort; und zu den Vernunfts⸗Gelehrten, welche nur alleine vom Buchstaben gelehret waren: Darum hoͤret ihr ihr seyd nicht von GOtt. Joh. 8.47. Item: Ihr nicht, dann
+
+seyd nicht meine Schafe, ihr seyd reissende Woͤlfe und Mied⸗ linge.
+
+recht von GOtt reden, und wir n 5 2 Darum sage ich; wolle seinen Willen verstehen, so muͤssen seine Worte inlebendiger Wirckung in uns bleiben. Dann Christus sprach: Ohne mich koͤnnet ihr nichts thun; Joh. 1515. Item: niemand kann GOtt einen HErrn heissen ohne den H. Geist in ihme, 1. Cor. en ann Ale
+
+[p. 229] XXI. Epistolæ Theosophicæ. Ep.56.
+
+dann fein Herr⸗heissen muß aus GOtt geboren seyn, und vom
+
+H. Geist ausfliessen. 10. Nichts gefället GOtt, und wird auch nichts von angenommen, ohne was Er mit und durch des Menschen
+
+selber wircket und thut: Dann alle Pflantzen, saget Chri welche mein Vater nicht pflantzet, sollen ausgerottet und mit Feuer verbrant werden. Match. 15:13. RE u. Darum, mein geliebter Bruder, thut ihr wol, daß ihr euch zum Ursprunge des Lebens haltet, und vondemfelben Kraft begehret; ihr werdet wol erquicket und gestaͤrcket w den, ihr serd GOtt und den Gliedern Christi ein angenehm Gast in eurem Vorsatze: Und so ihr werdet bestaͤndig bleiben, und dem Teufel, samt der Welt und dem irdischen Fleische und Blute wiederstehen, und euch zum rechten ritterlichen Sieges⸗Kampf wieder alle diese schicken, und den Mittags⸗ Feind eigener Liebe in euch uͤberwinden / und recht in unser all⸗ gemeine Liebe kommen, so sollet ihr gewiß wissen, daß euch das edle und hochtheure Ritter ⸗Kraͤntzlein JEsu Christi, welches Er in der Schlacht des Todes und der Hoͤllen hater⸗ une, mit der himmlischen Freudenreich wird aufgesetzet werden.
+
+ane
+
+12. So werden sich alsdann alle Kinder Christi 1 Heiligen Engeln mit euch also hoch erfreuen, mehr als uͤber neun und neuntzig Gerechten, welche das schon erlanget haben; und wird die schoͤne und edle Sophia eurer Seelen zur G lin gegeben werden, welche iego vor eurer Seelen⸗Thuͤr bet, und mit eurer Stimme euch flehentlich ruffet und ankle fet; ihr solt nur rechtimStreite wieder Suͤnde, Tod, Teufel und Hoͤlle treten, und mit eurem Ernste die grosse Pedarde das feste Schloß der Natur setzen, fowird sieeachhelfeDiefeßr Schloß zersprengen: Alsdann werdet ihr grosse Wunder hen, und zur selben Siegesstunde wird die freudenreiche Ho zeit des Lammes im Himmel in euch gehalten werden, und als⸗ dann wird euch der Hirtenstab von Christo in die Hand Seelen gegeben werden. |; 13. Alleine gedencket / was ihr dieser keuschen Sophie gelobe solches auch feste bis in euer Ende zu halten; es muß seyn, nicht wieder zuruͤck in Sodom sehen, wie Lots!
+
+welche zur Saltzseulen ward; sondern mit dot 1
+
+Begehren aus Sodom ausgehen, in die Nachfolge Chri eintre⸗
+
+[p. 230] Br 56. Theosophische Send⸗Briefe.
+
+eintretenderWelt Spott und Läfterung nichts achten, sondern das Mahlzeichen Christi mehr lieben als aller Welt Freund⸗ sthaft, Ehre und Gut, so moͤget ihr mit uns auf Christi Pil⸗ gram ⸗Strasse wandern: Wo euch aber dieses nicht schmecket, und noch der Welt Wollust und Ehre begehret, so seyd ihr noch nicht geschicket zur Hochzeit, und zu eurer Braut, unser lieben Sophia, zu kommen. A411
+
+14. Darum bedencket euch wol, und schauet euer gantzes
+
+Hertze an: ist es nun, daß ihr einen sehnlichen Hunger und Zug (als ich dann fast spuͤre) darzu vermercket, so verziehet keine Stunde, gehet fort, tretet mit einem rechten Ernste in die Busse, und ergebet euren Willen gantz darein zu treten, und nimmermehr wieder davon aus zugehen, und soltet ihr darum Leib, Leben, Ehr und Gut verlassen; so ihr das thut, so seyd ihr recht geschicket, und es wird der rechte Mauerbrecher zu eurer Seelen treten, und das in euch thun, was ihr ohne J nicht thun koͤnnet.
+
+15, Und ob euch hernach möchte Neiglichkeit und grosse
+
+Miederwertigkeit im Fleische anhangen, eure Vernunft euch GOttes Zorn in Leib und Seele uͤber⸗ naͤrrisch heissen, auch ziehen und zudecken; so wirds euch alles nicht schaden, ihr werdet mit einem neuen Gemuͤthe unter solchen Dornen aus⸗ grünen, und mit dem Geiste im Himmel wandeln; ob gleich deer irdische Leib muß mit Creaturen umgehen, so wird es doch mit euch gehen als mit einem groben Steine, in deme ein schön Gold waͤchse.
+
+"16: Ihr sollet euch an meine Trübsal und Verfolgung nicht
+
+stossen, auch nichts davor fuͤrchten, dann es ist Ehristi Mahl⸗ jeichensehet nur zuruͤcke in die Schrift, wie es GOttes Kin⸗ dern ist gegangen, wie sie sind allezeit nur eben von denen, wel⸗ che solten GOttes Wege lehren, verfolget und getoͤdtet wor⸗ den: Dann mir istein edles Perlein vertrauet, das decket GOtt also zu, daß es die Unwuͤrdigen nicht sehen, sondern daran blind sind, und sich an der Einfalt der Person ärgern, auf daß sie ihnen in ihrer Vernunft Weisheit selber thoͤricht bleiben,
+
+sehen, und doch nicht verstehen, dieweil sie die Einfalt
+
+Christi verschmaͤhen: Aber es kommet gar nahe eine Zeit, daß sie davon sollen gar ernste Rechenschaft geben. 17. Daß es aber GOtt hat euch zu erkennen gegeben, was es sey, und wovones komme, das dancket ihme, es ist —
+
+[p. 231] XXI. Epiflolz Theofophicz. Ep.57.
+
+aug®nabämiederfahren,und darum daß ihr —— me noch gedemuͤthiget; und mag euch noch grössere&nade der fahren, so ihr inder Demuth und ernstem Gebete hen: Ich will euch meine diebe mit Beten und Christ⸗ gliedlichem Wircken gerne mittheilen; Dann es ist mir eine eitele Freude in meinem Hertzen, ob ich gleich muß leibliche Truͤbsal darum leiden, so erfreue ich mich doch, daß ich sehe, was Gott der HErr durch mich armen Menschen bis hero gethan habe. „er 18. Der Satan mag GOttes Wege nicht hindern ob es wolscheinet, als hindere er sie mit solchem Mord⸗Ge⸗ schreysowird es doch nur jemehr und mehr eröffnet, daß GOr⸗ tes Kinder nach dem Grunde fragen.
+
+19. Der gottlose Hauffe aber wird dadurch verstocket und verhindert, die andern werden dadurch geruffen, daß werdet ihr sehen, ebe noch ein Jahr umkommet, und ob sie mich gleich todten, so müfte es doch vorsich gehen, dann es istvom HErrn.
+
+20. Empfehle euch der sanften, wirckenden Liebe JEsu
+
+Christi, und michin eure bruͤderliche diebe und Gunst! Datum ut supra. J. B.
+
+LVII. Send⸗Brief.
+
+An Herrn Christian Bernhard. * Vom 5. Maj 1624. Summarien.
+
+ene 2
+
+Sun. 6. 1. Autor überfendet Dr. Waltern r ten, 2. und berichtet feine Reise nach Dreßden,
+
+Churfüuͤrstl. Herren Raͤthe invitiret hatten. Zu N
+
+Unser Heil in Christo!
+
+SS geliebter Herr Christian; neben Be ler seligen Wolfahrt zu eurer Ruhe, wuͤnscheig den Schutz und Schirm GOttes, daß er mit seinen lieben Engeln begleiten, und zu frommen ms Br chen Hergen führen, und mit Gesundheit erhalten, selbe durch euch verrichten, das er will! 2. Herrn Baltzer Waltern habe ich ietzt auf die Messe geschrieben, und ihme das Bůͤchlein von der Gn Wahl von zwey und viertzig Bogen, sowol das von C Testamenten von sechszehen Bogen , en sieben
+
+Bogen über Genesin, nebenst einem Clave dieser S
+
+[p. 232] Br. 58. Theosophische Send⸗Briefe.
+
+von sechs Bogen, und dann drey Exemplar me ines Büch⸗ keins (Weg zu Ehrito) mitgeschicket. Auch habe ich den y⸗ en von Lubeck (welche mir geschrieben hatten) ge wor d ie edet m einExemplar des gedruckten Buͤchleins ge⸗ schicket welche Herrn Waltern wol bewust 10. It. . Euern Herrn Bruder den Con, Rector gruͤsset; und neh⸗ me es zu grosDasne cknan, daß er will meine Briefe fördern, und will ihme ofte etwas zuschicken. Auf nächsten Frey reise ich nach Dreßden, alda ich zu des Churfuͤrs beruffen bin, mich mitihnenzubesprechen, wie den ta;
+
+n auch mit nckelmamn, Berwaltern des Laborarorit Schlos⸗ Gott gebe Gnade dazu! Und empfehle eu ch der Liebe
+
+SE Ehristi! Datumutsapta. Euer inderLiebe Christi n ams Jud
+
+Dienstwilliger 8 AN
+
+J.
+
+B.
+
+ende
+
+Der LV III. Send⸗Brief.
+
+Ben
+
+An Herrn N
+
+Vom 8. Mai 1623.
+
+See
+
+Lig unde
+
+Vessolgung bes Autoris von demoberfien Wparifier g l.
+
+Wie Autor lten?2. Dis if di wir Rich ie Mat eribid. Wir sollen für unsere Feinde indeß be n. 4. , 5.6. we niurleine die eicher u Bi 7. vn nur heidnische Abgdtter, und die Priester nur 8. Die Ehristenbeit ist ur Huren worden; ihB. er⸗Kraͤ⸗ diebe it Kupunf d St eahr l. 9.Di esen Drachen Tollen wir nicht anbeten. 10.
+
+ben und Qualen I unser Wachsthum. u.
+
+® 158 sh int
+
+Durch seine Ver; utoris Talent feinem Baterlande erst rech offenbar wor⸗ lutoris Gesi cht von einer Reformation. 13.
+
+inser Seil im Leben Ji su Christi in uns.
+
+Ein gar lieber Herr, nebenst hertzlicher Wu ͤnschu
+
+Goͤttlicher Liebe und aller ersprießli chen Leibes Wol⸗ fahrt;
+
+seine Unpaͤß lichkeit wolle Gott nach seinem
+
+Pillen schicken! mein Leibes Zustand ist noch le id fu Ott dancke: Aber gantz wol mit Pharisaischen Kl daß mich der gemeine — kaum kennet, d aß ich Mensch bin; also gar sehr ist der Sata n über mich und gedruc ktes Buͤchlein erzuͤrnet, und wuͤtet in dem Ober
+
+Warisaer also sehr, als wolte 1 7. fressen, ee
+
+[p. 233] XXI Epistolæ Theosophicæ. Ep. 58.
+
+das grosse Feuer ietzt in drey Wochen lang bat ein wenig gele⸗ get, dieweil er mercket, daß ihme von so viel 100 Menschen wieder sprochen wird, welche er allesamt neben mir verbannet, gelästert und geurtheilet hat; und hat mich also sehr mit Lüs TEHR 54: gen beschuͤttet, daß man mich kaum kennet.
+
+2. Also verdecket Christus feine Braut und das edle Per⸗ lein wegen der Menschen Unwuͤrdigkeit, dieweil der Zorn in ihnen angebrant, und die Rache nahe ist. Ich bete, und sie uchen mir, ich segne sie, und sie laͤstern mich, und stehe ietzt recht in der Proba, und trage das Mahlzeichen Christian meiner Stirne: aber meine Seel ist e darinn nichts traurig,
+
+sondern achtet ihr dieses alles für Sieges⸗Zeichen Christi, dann also muß der Mensch recht in Christi Proceß gestellet werden, daß er feinem Bilde ahnlich werde; dann Christus muß im⸗ merdar verfolget, verspottet und getoͤdtet werden, dann Er ist ein Zeichen, d me wiedersprochen wird, aber auf welchem er fället , den zerschellet Er, und zerstoͤret die angeerbte Boss heitderSchlangen
+
+3 Habe ich andere diesen Weg sollen lehren, und gelehret, warum wolte mir das bange thun, selber auch darauf zu wan⸗ deln? es gehet mir doch nur also, wie ichs andern habe vor⸗ geschrieben daß es gehen soll; und gehet mir gar recht, denn dieses ist die Pilgrams⸗Stre sseChristi; dann die wahren Chri⸗
+
+sten sind alhie fremde Gaͤste und müffen durch des Teufel
+
+Reich in ihr rechtes Vaterland so auch einwandern, durch eitel
+
+Distel und Dornen des Fluches GOttes; es muß gerungen und überwunden seyn, bis wir durchkommen, es wird uns wol belohnet werden; dann diese, welche uns ietzt richten, wer⸗ den am Gerichts⸗Tag GOttes unter unsere Augen gestellet werden, da wir werden neben Christo ein Urtheil überfieherr⸗
+
+schen; was wollen sie uns alsdann sogen? Werden verstummen und sich selber laͤstern, wie sie ietzt uns thun.
+
+4. Ach! daß sie daskonten alhie bedencken /und davon ab⸗ liessen, ich wuͤnsche ihnen GOttes Barmhertzigkeit dann wissen nicht was sie thun: Sie sind in groͤsserem Elende, al diejenigen sind, welche sie verfolgen, dann sie sind arme Gefan⸗ gene des Teufels, welcher sie also qualet und vergiftet,
+
+Gift ihr Leben ist; darum erfreuen sie sich ,daß sie des Teufels Dornen und Disteln gebaͤren, als Früchte in GOttes welches Christi Kindern wol zu behertzigen ist, welche sich n ihrem
+
+[p. 234] Br. 58. Theosophische Schd- Briefe.
+
+ihrem rechten Vaterlande aͤngstigen, daß sie nicht alleine fuͤr sich selber zu GOtt beten um Erloͤsung; sondern auch um diese daß sie GOtt auch wol⸗ ihre elende, arme gefangene Mitglieder, le erleuchten und herzu führen:
+
+. Lieben Bruͤder es ist eine Zeit grosses Ernstes, lasset uns janicht schlaffen dann der Bräutigam ziehet voruͤber, und det seine Hochzeits ⸗Gaͤste; wer das hoͤret, der gehet mit zur it; wer aber nicht will, sondern nur in Fleisches lebet, den wirds sehr reuen, daß er solche Gnaden⸗Zeit verschlaffen hat.
+
+Sr,
+
+6. Essiehet die Welt wunderlich an, daß der folle GOtt ges fallen, welcher von den Schriftgelehrten verachtet und ver⸗ und sehen nicht zuruͤcke was die Gelehrten haben ö Propheten, Christo und seinen Aposteln und Nachkommen n.
+
+7. Ach es ist ietzo nur eine Maul und Titel⸗Christenheit, in Hertze ist ärger als da sie Heiden waren! Lasset unser ja ahrnehmen und nicht auf sie sehen, daß doch Samen auf Er⸗ den bleibe, und Christus nur nicht allein ein Deckmantel sey: lasset uns untereinander vermahnen und troͤsten daß wirinGe⸗ le bestehen, dann es kommet noch eine grosse Truͤbsal her, virmoͤgen bestehen, dann unser Christenthum bestehet allein in Wissen, sondern in Kraft; Man zancket ietzun⸗ nurim Wissen und Bildern; und die Kraft verleu⸗ guet man: Aber es kommet die Zeit der Proba, da man
+
+sehen , was ihre Bilder gewesen sind, und wie sie haben on gehalten, wann sie werden von einem Bilde aufs andere und doch keine Ruhe haben.
+
+38. Ach! ihre Bilder sind nur Abgoͤtter der Heiden, wie sie waren ehe sie Christen Namen hatten: Die Gelehrten und
+
+Vrorsteber suchen nur Eigen⸗Nutz und Ehre darinnen, und haben sich in Christi Stuhl gesetzet, sind aber nur Krämer der der, welche sie ums Geld verkauffen; wer ihnen viel gie⸗ et, dem verkauffet man ein ehrlich Lobe⸗Bild, und fragen nichts nach ihren Seelen, wann sie nur ihr zeitlich ut geniessen. 9. Ach finstere Nacht! wo ist die Christenheit? Ist sie doch gar zur brüchigen Huren worden? Wo ist ihre Liebe? Ist11 ch garzu Kupfer, Stahl und Eisen worden! wobey man ietzund die Christenheit kennen ? was vor Unterscheid sie vorTuͤrcken und Heiden, wo ist 1 2Christlich Leben? wo
+
+[p. 235] Ep. 59.
+
+ist die Gemeinschaft t? sind, da Christ hn aͤ Le Ast n. Zw ld lich üd 10. Ach od ͤh ho Ze von Babel ausg ld ac dt gar tö anbeten, dann welche solches thun, sollen ewiglich geguaͤlet werden.
+
+u. Stoffet euch nicht an meine Verfolgung; und ob es euch dergleichen auch gehen würde, so dencket daß ein ander Leben ist, und daß sie nur unsern eigenen Feind verfolgen, wel⸗ chen wir selber auch hassen; Sie koͤnnen uns nichts mehr neh⸗ men als nur die Huͤlse, darinnen der Baum gewachsen ist, der Baum aber stehet im Himmel und Paradeis, im Grunde der
+
+Ewigkeit, den kann kein Teufel ausrotten.
+
+Lasset nur des
+
+Teufels Sturm⸗Winde daruͤber hinwehen, ihr Treiben und Quaͤlen istunser Wachsthum. 12. Ich bin abermal durch die Bewegung Gottes Zornes beweget worden von den Wiederwertigen, auf daß ich wachse und groß werde; dann ietzt ist erst mein Talent meinem Vater⸗ i⸗ bl pu bö ciret nur dadurch mein Talent, es wird anietzo maͤchtig sehr alhier begehret, und ist manche hungerige Seele dadurch er⸗ t. ͤs uf Ha qu 13. Ihr werdet noch wunderliche Dinge hoͤren, dann die geit ist geboren, davon mir vor 3 Fahren gesaget ward dure ein Gesichte, als nemlich die Reformation; das Ende befehle Un iß Ot J. a. n. pf JE fanf
+
+Der LIX. Send» Brief.
+
+N. Anno 1624, im April.
+
+Dee Summarien.
+
+SI
+
+2, Bilde Chrißiä ar 4 ale
+
+Mein
+
+[p. 236] Br. 59. 60. Theosophische Send⸗Briefe. 229 Ten gar lieber Herr, neben Wuͤnschung der Liebe un⸗ sers HErrn JEsu Christi, in Seele und Geist! Füge ich dem Herrn, daß in meinem Abwesen dieser Reife, als ich bey Herrn Hans Sigm. Pausten gewesen bin, der Pharifäis sche Geist hat gewuͤtet, als wolte er den Himmel stuͤrmen und die Hoͤlle zerbrechen, und alles wegen des gedruckten Buͤch⸗ leins; welches doch von vielen sehr hoch geliebet wird. 2. Und weiß nicht wie es mir mit diesem Pharisaͤischen Geist noch gehen wird; Setze aber meine Hoffnung und gantzes Ver⸗ trauen indie Liebe JEsu Cbristi, und dancke GOtt, daß ich dem Bilde JEsu Christi fol ahnlich werden, und um seinet willen Schmach leiden, will alles mit Gedult unterm Creutz tragen; dannesstuͤrmet Satan wieder Christum, und
+
+Christus wieder den Satan; und gehet wie bey Christo eine Part sagete; Er ist fromm und ein Prophet, die andern sage⸗ ten: Er hat den Teufel; wie es wird ablauffen, berichte ich den Herrn. ferner
+
+=.
+
+Und empfehle ihn der diebe JEsu Christi! D. H. D. W.
+
+JB.
+
+Der LX. Send⸗Brief.
+
+Herrn Friedrich Krausen, Medic. Poct zu Lignitz.
+
+Vom 9.Maj. 1624. Summarien. der Ursachen, warum der Satan in den Pharisdern
+
+Schrifte feine doch 1. 5. t? gezuͤrne Autorem über sehr SCH mehr dadurch fördern als hindern. 2. Er hab eine Verantwar⸗ tungauf des Primarii
+
+Paßquill geschrieben,3. und sendet anbey diege
+
+Reife nach Dreßden den 9. May, wohinin hen3.. Seine uichtie Bäc ein. vornehmen Herren erbeten worden. s. Herr Michael Ender hat
+
+Er von alle des Autoris Schriften bekommen, cus derselben gelobet. 6.
+
+und wird als ein grosser Practi⸗
+
+Unser SeilimLeben Icksu Christi in uns. Nen gar lieber Herr und C hristlicher treuer Freund: Reben berglicher Wuͤnschung Goͤttlicher Liebe, daß euch die Sonne der Gerechtigkeit in Seele und Geist ewig schei⸗ ne! Wenn es euch noch wol ginge: das waͤre mir eitel Freu⸗ de; mich wisset, GOtt Lob, dismal noch in guter Leibes⸗Ge⸗
+
+sundheit, aber mit des Satans Kletten, durch den Pharisäi⸗
+
+sc1hen Geist von auffen wol *
+
+[p. 237] 230 . XXL Epistolæ Theosophicæ.
+
+Ep.
+
+über mich und mein gedrucktes Büchlein von der Busse sey er⸗ uͤrnet kann ich euch kaum schreiben, und nur der Oberste Phari⸗ aer und seines Gleichen. Dann sie haben Sorge, ihre Autorität und Ansehen möchte fallen, so ungelehrte Leute würden den hoͤchsten Grund hervor bringen, und die beute möchten die Nachfolge Christi und der Apostel, im Leben und Lehre, von ih⸗ nen fordern ;so muͤste ihr Bauchgott fallen, und ihr Sinn etwas demuͤthiger werden, welches alles nicht schmecket.
+
+2. Aber es muß doch geschehen, die Zeit ist geboren und will kein Laͤstern helfen: dann mit ihrem Laͤstern verursachen sie nur die beute nach diesen Schristen zu fragen; und fördern sie mehr dadurch, als daß sie diese mögen hindern, wie alhie bey uns ietzo geschehen ist, daß sie fast ein ieder wolte gerne se⸗ hen, und das grosse Wunder anschauen, was doch fuͤr ein wil⸗ des Thier darinnen stecket; und wann sie dieselbe zu lesen be⸗ kommen so entsetzen sie sich vor ihrer Blindheit und gehen in sich , und betrachten ihr Leben dagegen, dadurch ihrer sehr viel haben umgewandt, und sind in die Busse gegangen, und sich mit mir befreundet; welche zuvor sind Laͤsterer gewesen, diese werden bernach Schafe Christi. Also gar wunderlich fuͤhret der HErr feine Wege, und muͤssen GOttes Kindern alle Din⸗ ge zum besten dienen.
+
+3. Es hat der Primarius bey uns einen giftigen, luͤgenhaf⸗ ten Pasquill von Einen Bogen in Lateinischer Sprache Car- men. weise wieder mich drucken lassen, darinnen man seinen Geist weidlich siehet, und den Satan mitfeinen Krellen. Da⸗ wieder babe ich eine Verantwortung geschrieben, diekoͤnnet ihr
+
+samt dem Pasquill bey Herrn Michael Endern bey euch be⸗ kommen, er wird es euch willig darleihen; alda werdet 925 N
+
+. fe Dinge sehen, welches ich euch alhier nicht sch en kann.
+
+4. Ich überfende euch mit Zeigern auch ein Exemplar vom gedruckten Buͤchlein, hoffe ihr werdets wol practiciren, weil ihr ohne das ein Liebhaber des wahren Grundes seyd: Und wolte euch gerne etwas von geschriebenen Sachen mit geschi⸗ cket haben, habe sie aber alle verliehen.
+
+5. Heute den 9. Maj. reife ich nach Dreßden, dahin ich dann von vornehmen Leuten am Churfuͤrstlichen Hofe bin auf ein Gespraͤche erbeten worden, welche meine Schriften 109 esen
+
+[p. 238] EA
+
+Br. 61. Theosophische Send- Briefe. 2351 lesen und lieben, GOtt gebe Gnade und Kraft darzu; was alda möchte ablauffen, berichte ich euch ein andermal. 6. Und bitte, wolletHerrn Martin Mosern zum Gold⸗ berge doch mit gewisser Gelegenheit beygefüͤgetes Packet sen⸗ den, daran ihr ihm und mir einen Liebe⸗Dienst erzeiget. Und wollet doch mit Herrn Michael Endern Kundschaft machen, so das nicht geschehen waͤre; Alda koͤnnet ihr alle meine
+
+Schriften bekommen, dann erhat sie alle, und istgar ein gros⸗ fer Practicus und lieber Mensch, auch gar verschwiegen und treu; Ihr werdet einen sonderlichen guten Freund an ihme haben. Und empfehle euch der Liebe unsers HErrn JEsu ! Christi! Geben ut supra.
+
+Euer in der Liebe Christi dienstwilligen
+
+Der LXI. Send⸗Brief.
+
+or ct Do næ ci Ko An Herrn zu Goͤrlitz.
+
+Dreßden, vom 15. Maj. 1624. Summarien.
+
+utor logiret in Dreßden bey Hrn. Benediet Hinckelmann, und
+
+4 findet viel Gewogenheit bey den Churfl. Herren Rathen, welche den Weg zu Christo fast alle lesen und sehr astimiren. 9 1. Wird von dem Herrn von Loß, Kayserl. und Cbursürstl. Rath, auf sein Schloß, oͤlnitz, invitiret, 2. so sind ihm auch der Haus⸗Marschall und Obere e Stallmeister gewogen.3. Er hat guten Frieden in Dreßden, und Bit nichts von solchem Lermen, wie zu Hause; ibid. richtet feine Brüder auf in Freudigkeit des Geites, 4. desgleichen die Seini⸗ gen, §. und troͤstet sie mit der gewissen Göttlichen Beschir mung und Versorgung. 6. Des Primarii Verfahren wird von den Churst. Herren Rathen nicht wol angesehen, und dürfte Autor noch wol der Ihro Ehurfl. Gnaden selder kommen.7. Seine Büchlein wer⸗ den bald unter einem Namen ausgehen, wie es der Primarius haben wollen. 3. Vermahnung an feinen Sohn Jacob, der zu Hause gekom⸗ men. 9. Beschaffenheit des künftigen Geculi, 10. Wir stehen als ei⸗ en : unsere Heimath ist im Himmel. ne Rose unter dem abe u. Autoris gehabte Conversation in Zittau. 13. Er wird erfuchet sei⸗ den Druck zu überlassen. ibid. Wie des ne Apologie wieder Richtern Primarn Pasquil bey verstäͤndigen deuten angesehen werde? ibid. Aus Zu⸗ seinem Nachric Bruͤde Freund seinen tor ersuche fiondzugeben.3. Es ist ihm zu Dreßden besser als zu Görlig. ibid. Unser Feind stehet im Feuer: darum ister so zornig. ibid.
+
+Ema:
+
+[p. 239] 232 XXI PpilolrThe „Emanuel!“
+
+5.
+
+ET dengarlieberiiwerther Herr und Bruder im.Lebe! und in der Kraft unsers HErrn JEsu Christi, nebenst He Wuͤnschung Goͤttlicher Liebe und Gedult unterm Es Chu Euer Schreiben habe ich wol empfangen. und darin⸗ nen euer Christliche Bruͤderliche Liebe gespuͤret, als sie mir doch zuvorhin wol bekant ist, und erfreue mich erstlich eurer und der meinen Gesundheit: Ich bin auch Gott Lob mit guter
+
+Gelegenheit nebenst Herrn Melchior Bernt albie ange u.
+
+beym Herrn Benedict inckelmann, alda mir alle en Sieheund Freundschaft anerboten wird, und sind taͤglich in gu⸗ ter Converlation beyeinander; auch ist meine Ankunft fast m allen Churfuͤrstlichen Raͤthen vom Herrn Hinckel schollen, welche fast alle mein gedrucktes Buͤchlein 13 55Y Christo. Num. IX.) lesen und lieben, und fuͤreine Göttliche Ba⸗ be erkennen, und sich dessen täglich gebrauchen; und habenn auch nun zum oftermal ihren Gruß und geneigten durch Herrn Hinckelmann, welcher täglich zu ihnen kommen muß, weil er practigiret, und sie ihn selber brauchen, entbieten lassen, und begehren, ich wolte albie verzieben, sie woltens also bestellen und richten, daß sie moͤchten mit mir in eine Conxer⸗ fation kommen; wie sie dann mehr meiner Schriften haben empfangen, und bin dessen täglich gewaͤrtig. 2. Wie mir dann Herr Joachim von Loß, ein gar weiser 7 2 Ray serlicher und Churfürftlicher Rath, welcher dei vornehmsten einer ist,lassen andeuten, daß er seine Sache also angestellet, daß er im Ausgang der Feyertage wolte auf fein Meilvon Dreßden, fahren; alda wo /eine Schloß poͤlni mich und Herrn Sinckel mann mit nehmen, und he ! bey sich behalten zu einer guten Unterredung. 3. Desgleichen auch der Haus⸗Marschal ui Stallmeister gegen mir gesonnen ist, und hoffe noch,
+
+Herren werden mich nicht alleine in Gnaden wol vermer
+
+sondern auch meiner Schriften etliche befoͤrderen, welch alles für eine Goͤttliche Schickung halte; und werde schwerlich unter drey Wochen können zu Haufe kommen, weit ich alhie warten muß, wie es GOtt will schicken und auch Feuer des Zornes des Satans also sehr zu Haufe brennet, da⸗ vor ich alhie guten Frieden babe und nichts von solchem Ler⸗ men höre,
+
+[p. 240] Brest. Theosophische Send⸗Briefe. 233 4. Ich vermahne euchindiebe, wollet doch nur Gedult ha⸗ und zusehen was Gott thun will; ich habe für mich keine wermuch sondern bin gar frölich dabey, daß ich sehe daß der Teufel wieder mich erzüͤrnet ist und mich also beleugt; es ist Christi Mablzeichen, des Laͤsterers Rügen werden wol an Tag kommen, daß unsere Feinde sich werden schaͤmen muͤssen: lasset uns nur beten und GOtt das Gerichte befehlen, Er thut solches Christo und feinen Kindern selber; feine Entschuldi⸗ gung, welche doch nur falsch ist, wird nicht gelten: Wolte Gotterbetete also, daß er den H.Geist auf die Cantzel braͤch⸗ te,sowürde er nicht den zornigen Laͤster⸗Teufel darauf brin⸗ gen; Es gilt iego der Huren zu Babel, darum ist der Teufel sehr erzuͤrnet. 3. Bitte, wollet mit meinem Weibe handeln, und ihr sagen, daßie ach in Gedult fasse und zu Frieden gebe, und nicht also kleinmuͤthig darüber werde, wie ich vernehme daß sie ist; es ges het mir gar wol und werde in Ehren und gar lieb gehalten: ich sie nicht lassen, haben wir an einem Orte nicht Raum, so wird uns G Ott an einen andern fuͤhren. 6. Dann ich sehe ietzo des HErrn Wegen nach, was Er thun wird; sie soll ihr das für keine Schande zurechnen, dann wir werdenum Goͤttlicher Erkentniß und Gabe, um Christi uns K sers Erloͤsers willen, verfolget; Christus hieß uns freuen wann es uns also ginge /dann unser Lohn ist im Himmel groß: Ich
+
+sie und unsere Kinder so GOtt will, noch wol versorgen, gebe sich nur in die Gedult und zufrieden, und lasse ihr nie⸗ mand etwas einbilden ich will wol acht auf mich selber haben, arf nicht wegen meiner sorgen; Es wird auch noch eine ommen, daß es ihr nicht wird zur Unehre gerathen: Es deiß niemand was unehrliches von uns zu sagen, als nur ein iger boͤserMensch, der uns beleuget und um Christi willen ansicht;es ist mir eitel Freude, um Christi und feiner Gabe willen Schmach zu leiden, auch muß unser Feind das Gute helfen soͤrdern. 71. Das Dreuen unsers Feindes ist nur fein boßbaftiger Wille; wer weiß ob ihm nicht moͤchte ein Ring in die Nase ge⸗ zogen werden: Ich will solches den Churfuͤrstl. Raͤthen nicht unbewust lassen, als sie es dann schon wissen, und ihme das nicht wol sprechen; auch hoffe ich vor Ihro Churfürfil. Gna⸗ den selber zu kommen /in *
+
+Person: und hoffe es 7 5
+
+[p. 241] 24 XXII. Epiftöle Theofophiez. Ep. ei. alles gut werden, er darf nicht sosebr auf die Hoheit pochen, und sich auf Lügen und auf Menschen verlussen, sein Ehr ches Hertze wird wol offenbar werden, es möchten ihme au noch wol seine ietzige Freunde wiederstehen. 8. Weiles ihn aber deucht unrecht seyn, daß mein Bich⸗ lein unter keinem Namen istausgegangen, so hoffe ich, es soll balde unter einem Namen ausgehen; er wird das nicht weh⸗ ren, ich habe schon Anleitung: auch sind ietziger Leipziger
+
+Messe sehr viel dergleichen Buͤchlein in Drucke beraus kom⸗ men; er mag es auch wehren, wo er der Mann ist der es thun kann, hoffe ehe ein Jahr umkommet, so wird finnn bal in gemein heissen. 9. Wegen meines Sohnes Jacobs, daß eristzuHause kommen erfreueic mich und bitte er wolle doch zu Selig bleiben bis zu meiner Ankunft, und sich nicht etwann in Zanck einlassen wegen spoͤttiger Leute, daß nicht GOttes Gabe ges laͤstert werde, und der Feind sogen möchte, wir wollens mit dem Schwerte pertheidigen und Aufruhr anrichten; sondern ein wenig Gedult haben daß unser Gutes mit Nutzen gepflan⸗ get werde, und wir als Kinder Christi erkant werden.
+
+10. Dann das kuͤnftige Seculum wird nicht Sanden;
+
+Beissen und Schlagen seyn, sondern Eiebe und Gedult Friede und Freude in Erkentniß Goͤttlicher Gaben.
+
+u. Weil uns dann G Ott zu Erstlingen hat mit erkohren,
+
+so sollen wirs recht ansahen und stehen als eine Rose unter dem Dornen Strauche: Dann unser Heimath ist im Him und nicht auf Erden, darum lasset uns dahin werben. 12. Meine Frau darf mir nichts herschicken von ich habe genug bey mir: wird ihr was mangeln; weiß sie do wol was sie thun soll sie durf nicht Noth leiden; aber desun re Kummers fol sie sich entschlagen es gilt nicht Hals und Bauch; und ob es gelte, so ware es Gottes Rath, den lasse man geschehen, lichwill euch ehestes wieder schreiben, wie sichs wird albie verlauffen. Am Sonntage nach Him⸗ melfahrt habe ich euch ein Schreiben gesandt, und darinn allenZustand berichtet, welches erst wird am naͤchsten Frey⸗ tage eyn auf der Fitta zu Herrn Melchior Bernts Frauen ankommen, hoffe ihr werdets schon unterdessen haben em psang en.
+
+13. Zur Jitta haben wir gute Conversation beg chern
+
+[p. 242] Br. 51.62. Theosophische Send⸗Briefe. 235 Johann Molinus, in Beywohnung Herrn Fuͤrstenauers und rn Johann Hartigius, und Herrn Matthias Renisches gehabt, welche beyde Doctoren mir haben ein ieder Einen Kehl. auf Zehrung gegeben, und mich gebeten, ihrer Kund⸗ weiter zu pflegen, hoffe, es soll alhie(inDreßden) nicht r abgehen, wie ich schon habe vernommen. Dem Primario bey euch gebe ich nichts davon, und wenn er noch boͤser waͤre; hat er nicht gnug an der geschriebenen Apologia, sie soll ihme wol gedruckt werden, als ich dann darzu von vielen vermah⸗ net werde, aber doch noch ein wenig nachsehen will, wie es al⸗ hie wird ablauffen; duͤrstet ihn gar sehr nach mir, so komme verklage mich alhie: ich will zur Antwort stehen, und wuͤnsche, daß mein Buͤchlein moͤchte zur Eroͤrterung kommen, und auch sein Pafauill: ich gedencke noch nicht also fillezu schweigen auf feinen Pasquill, sondern will es noch offentlich bewahren, daß er hat alles auf mich gelogen, er gie: bet nur sein schoͤnes Hertze darmit an Tag. Die beyde Do⸗ ctoren zur Zitta sagten sie Eönten keinen guten Geist in ihme spuͤren: Also wird fein Pasquill uͤberal angesehen. 14. Bitte, wollet meine Frau und alle gute Bruͤder,in Chri⸗ sto unserer Liebe, grüssen ,sonderlich Herrn Hans Rothen mein Wesen andeuten, daß er es Herrn Carl Endern und sei⸗ nem Bruder Michael Endern schreibe, ob es moͤchte Herr Hans Sigmund zu wissen bekommen, wie es ietzt um mich e, will ihnen saͤmtlich ehestes schreiben, ietzo konte ich nicht egen Hinderung; und doch meine Frau troͤsten, daß sie den unnützen Kummer fahren lasse, es ist keine Gefahr bey mir, ich sitze ietzo so gut und besser als zu Goͤrlitz; sie fol nur zu use bleiben und stille seyn, und Babel lassen brennen, unser und stehet im Feuer darum ist er so zornig. Und empfehle
+
+supr Dre Geb Chri JEs Lieb euc ßde a. sti!
+
+Euer in der diebe JEsu Cpriffi Dienstw. Der LXII. Send- Brief.
+
+Teutonicus.
+
+An Herrn Tobias Kobern, Med. Dod.
+
+Dreß den, am Sonntage nach Christi Himmel⸗ fahrt, 1624. * 2 Summarien. 1 N zu Dresden, bey Herr Bes tor ist Mittwochs vor Ps nediet Hinckelmann,
+
+Ehurfürfl. Chymico und Brastıco, —— ang
+
+[p. 243] XXI. Epistolæ Theosophieæ. Ep. 62.
+
+angekommen, da feine Person wol angesehen, und seine Haben, auch e, für Göͤttlich erkant; auch feine Schrrifter von den een Hingegen wird au Primarii Schmä) 1ung, gefordert worden. $.1:3. als ein Werck des böfen Ge stes, und als eine grosse Thorheit anangese ben. 4. Die vornehmsten Räthe haben Autori ihren guten Wilen entbieten lassen, s. auch hat derSuperint. Dr. Aegidius Strauch, fein Büchlein gelesen und geliebet; ibid. so ist er u e noch etwann einen Monat lang alda zu verbleiben.6 eine She ten werden in Dr. nachgeschrieben; 7. und die ge lbs dient? man nicht also dawieder Tätern, wie in Görlitz.8. Seine Apologie haͤtte man gerne in Drebden; bittet solche nachzuschicken. 9. Mi eicht von damaligen Zeit⸗Laͤufften. 10.10. -
+
+Unser Heil im Leben JEsu Christi int 25 aan, gar lieber Herr und Christlicher Bruder; a 10 treuhertziger gliedlicher Wuͤnschun dee nebe
+
+Goͤttlicher Liebe: Kraft, daß eure Seele möge immerdar at dem Bruͤnnlein JEsu Christi schoͤpfen und trincken. 2. Wann es euch samt den Eurigen und „unsern
+
+927 samt meinem Weibe wol ginge, waͤre mirs ür mich dancke ich GOtt, welcher mich wunderlich nach seinem Wolgefallen!
+
+Ich bin Mittwoch vor
+
+Himmelfahrt nebenst Herrn elchior Bernten, zu mit guter Gesundheit bey Herrn Benedict e
+
+Dreßden
+
+Ihr. Churfuͤrstl. Gnaden Chymico und Pra@lico ,angelatt get, alda mir alle Christliche Liebe und Freundschaft erbt wird, auch gar wol gehalten werde, alda haben wirvi gute Convexlationes.
+
+3. Und finden sich auch unter des Churfuͤrsten raͤthen und\ zwar den allervornehmsten, gar Christliche liebhabende Her⸗ ren, welchen solcher Cheosophischer Grund sehr lieb ist, auch meine Schriften lieben und lese dann mein gedrucktes
+
+Buͤchlein ist fastin sehr vieler Officirer und anderer7 bre ten Maͤnner Händen albier kommen, welche es alle für gu und eine Gabe GOttes erkennen, und dahin arbeiten und de cken, wle man solche gute Schriften, welche den Menschen9 die Nachfolge Christi führen, möge helfen fördern unterdrücken, wie es, leider GOttes in meinem Bae ane, aus Haß der Person, geschiehet.
+
+4. Und wird dem Herrn Primario von den Rathen und Galeprten fein schmaͤhlicher Pasquill gar wunderlich ange sehen /und vermeinen ein Theil, daß ihn habe der 65 bo
+
+[p. 244] Geist dietiret auch wird er von den Priestern verachtet, wel⸗ che sagen, er schreite gantz damit aus seinem Amte: Dann
+
+Herr Hindelmann hat ihn den Rathen und Gelehrten ges wiesen, welche sich ob des Mannes Thorheit wundern, daß er feine Affecten in publico also wieder ein solches Christliches Buͤchlein darf ausschuͤtten, davor sich manches frommes Hertz entsetzet, und achtens für eine Straffe GOttes, daß diejeni⸗ gen, welche andere solten lehren, also blind sind, und der Wahr⸗ | beitselber wiederstehen. 5. Es haben mir auch etliche der fuͤrnehmsten Raͤthe ibren guten Willen entbieten lassen, und darneben andeuten, daß sie ehestes Tages, als sie nur Gelegenheit haben, mich zu sich auf eine Christliche Conversation wollen fodern lassen, welches ich von dato erwarte, was alda geschehen möchte; Hoffe aber, 92 8 alles gut werden wird, denn dessen bin ich gewiß, daß riften lieben, wie dann auch der Superintendent
+
+Pt. Kgidins Strauch, mein gedrucktes Buͤchlein lieset und liebet/hoffe auch, es werde alhie auch aufgeleget und nach⸗ gedrucket werden, wie mir ist angedeutet worden so hatte der Krieg ein Loch, und erwarte taͤglich, wie es Gott fügen werde. 6. 90 bbitte, der Herr wolle doch meinem Weibe andeu⸗ ten, daß sie sich wegen meiner nichts kuͤmmere, und nur fleißig bete, Gott wird es wol schicken; mangelt ihr etwas, so weiß sie doch wol, wo sie das nehmen kann sie soll nur wol haus hal⸗ ten, und sich ein wenig buͤcken, dis Sturmwetter wird wol vorüber gehen, und die Sonne darauf scheinen: Ich werde
+
+Pd Binckelmanns Bitte noch etwann einen Monat oder was das seyn moͤchte, alhie zu Dreßden bey ihm dann ich habe es ihm zugesaget, weil er mir Kost und cgenbeit umfonftgiebet, und gar ein Christlicher Herr if, 325mir wol dienen mag, iedoch nach GOttes Willen;
+
+auf keinen Menschen, sondern auf den leben⸗ verlas digen GOtt, und bin darbey gantz froͤlich und getrost; wer — moͤchte verlauffen. Meine Schriften werden alhie nachgeschrieben, die Zeit wird alleseröffnen; ich will euch ehestes wieder schreiben, so bald ich nur Gelegenheit habe, und euch meinen fernern Zu⸗
+
+stand berichten, iegt bin ichalhie noch garneue und fremde, bofeaber wol bekant zu werden, ehe ein Monat weggehet.u.
+
+[p. 245] XXI. Epistolæ Theofophicz. Ep. 62.
+
+8. Ob ihr irgend Gelegenheit hättet,so bitte ee waͤh⸗ zu schreiben, ob die Schmaͤhung des Primarii noch also ret, undob ers nicht wolle nachlassen, so wolte ich die Chur⸗ fuͤrstl. Rätbeum Schutz und Gerechtigkeit bitten, welches ihme keinen Nutz oder Ehre bringen wuͤrde: er darf sich nicht also sehr auf feine Gewalt verlassen man koͤnte ihn noch wol um seine Luͤgen und schaͤndlichen Ehrenruͤhrungen willen zu Recht stellen. Man hat alhie zu Dreßden Öffentlich der⸗ und dem letzten gleichen gute Büchlein von der neuen Geburt Seculo feil; es hat 2 so gelehrte Priester alhie, als bey uns, man hoͤret nicht also dar wieder laͤstern, es istwahrlich der
+
+—.— Goͤrlitz kein Ruhm; man moͤchte sich wol besser be⸗ dencken.
+
+M.
+
+9. Herrn Friederich Renisch wolle doch der Herr neben meinem Gruß melden, daß ich fein Schreiben, welches ermir mitgegeben, will mit Fleisse bey vornehmen Leuten and und zeigen. Wurde sich etwas wollen ercugen, so will ihme gerne will fahren; Wo ferne mein Weib nicht haͤtte mei⸗ ne Apologia von dem Præceptor des jungen Herrn von
+
+Sch ratin beym Schneider Lihnen wieder empfangen, deme ich sie binterlaffen habe, so soll sie dasselbe abfodern, und fogewisse Gelegenheit ware, mit herschicken, man haͤtte es alpie auch 8 erne. Menn 2,5 1 10. Dreßden ist ietzt alhie eine Jubel⸗Stadt, wievor der
+
+Zeit Praga war, und gehet prächtig zu: Aus ungarn be richtet man alhie fast gewiß, wie Herr B inckelman Obristen Officirern /sonderlich von dem von N ji men hat, daß der Friede zwischen dem Nayser l 4 hem Gabor geschlossen sey, aber die Zeitungen lauffen gar viel anderst.
+
+In Niederland istsauch ietzo stille;obwol viel
+
+Volck alda in Bereitung ist, so hoͤret man doch nichts n
+
+Schweden hat vor acht Tagen alhie Knechte ee gehet die Englische Werbung fort, gibt ferner die Zeit. ya
+
+11. Bitte Herrn Sans Rothen meinen Gruß zu mel elden, und ihme anzudeuten, daß er doch wolle Herrn Michael En⸗ dern, und Herrn Carl Endern, neben meinem Gruß andeu⸗ ten, so er etwann wird Gelegenheit zu ihnen haben daß ichmich werde eine Weile, etwann 4Wochen, vielleicht weniger, alhie aufhalten, daß er es Herrn vans Sigmund von Schweini⸗ chen berichtet 1a. Da⸗
+
+[p. 246] Gr. 63.Theowophische Send⸗ Brieft. 239 132. Daferne etwann Gelegenheit her wäre, und etwann waͤren fremde Schreiben zu meiner Frauen ankommen, bitte — sie mitzu senden, ich will ihnen schon antworten, denn r lauffen Boten in viel Laͤnder. Und empfehle euch alle die Liebe JEsu Christi! Datum Dreß den, ut supra. u er in der diebe JEsu Ehristi Diensto. J.B. N. S.
+
+rauen meinen Gruß insonderhei
+
+KIN e ber enedict Hinckelmann lasset euch n. wn hatte nicht Weile zu schreiben.
+
+f2 Der
+
+LXII. Send⸗Brief.
+
+An gr Tobias Kobern, Medic, Dock.
+
+Freytag nach Pfingsten, 1624.
+
+Summarien. Funsch. 6.1. Des Autoris Sache ist bisher in antemAufneh⸗ men 10 85AR N Mal eivon a bey Hofe alle Gunst und diebe genossen die,auch feine lein mit diebe lesen, auchvor dem Ehtefürften gebracht haben. 2. Des⸗ leschen auch ein vornehmer Herr ihn auf fein Schloß abholen lassen, in Gaben und Sachen hoch beliebet hat,z.welcher der Zeit das gegolten: so haben auch viel andere Herren und Raͤ⸗ chen der Superint. Arad. Strauch fein Büchlein astimiret. he, 4 Hatte nun der Primarius in Görliz was wieder ihn zu klagen: so dürfteSan nur 5 ge c de 7 ietzo r 5. 15 b12 echte
+
+Ehre zu wege gebra
+
+Tut
+
+105 pharisäischer Sifer ohne Grund. 95 Es wird (dom rmation kommen. 9. Autor nieifet die Seinen zur Ge dult, 10. u. und beflehlet, ihm seine Apologia wieder en Arena weil sie von den Eburfürsl. Käthen be⸗
+
+Unser Beil im Leben ItEsu Cbristi in uns! Dein gar lieber Herr und Christlicher Bruder: ne⸗ — hertzlicher Wuͤnschung Goͤttlicher Liebe, Ge: dult und Hoffnung der Erloͤsung vom Treiber, auch fleterweg in der Kraft Ehristi, daß euer Perlen Baͤum⸗ lein stets groͤsser wachse ! Wann es euch noch wol ginge, wäre mir eitel Freude; für mich dancke ich GOtt, dann meine Sa⸗ che ist a in gutem wir ng alhier gestanden, Gott helfewe 9. Am .pfingst⸗Tage nach Mittage fnd die Churfürstl. Offieirer, als diedrey Herren von Schwalbach /und der
+
+Warschall, die Wol⸗Edlen, Gestrengen u [p. 247] ww.
+
+.„XXl.Epiftole Theofophicz. Ep. 63.
+
+der Stall⸗ beym Churfürsten; als der Aaus Marschall, Meister, Oberste⸗Raͤmmerer, und ein Rath, bey meinem
+
+Wir the zu Gaste gewesen und um meinetwillen dahin kom⸗ men, sich mit mir zu vernehmen; welches auch in Liebe, Gunst und gutem Vernehmen bey ihnenFabgelauffen „und gerne gehoͤret, und meine Sachen ihnen belieben mir auch geneigten Willen und Beförderung. — sich weiter mit mir zu unterreden, erboten, und begehret,
+
+sen ich taͤglich warte; lesen auch mein gedrucktes Buͤchlein — Liebe, welches sie auch vorn Churfuͤrsten gebracht aben. f 3. Am Donnerstage nach Pfingsten hat mich neben mei⸗ nem Wir the Hrn. Sinckelmann und einem Doctor Medicinæ, lassen der Wol⸗Edle, Gestrenge Herr Joachim von Loß, Kaͤyserl. Majest. und Churfuͤrstl Geheimer Rath und Officirer, auf fein Schloß Poͤlnitz (eine Meile vonz auf feiner Kutschen abholen, und sich mit mir vert
+
+Welchem Herrn meine Sachen und Gaben boch belieben, wel⸗ cher mir auch geneigten Willen und Beförderung!
+
+bat auch angedeutet, daß er wolle meine Person beym aß,ich etwa möchte, Unt fuͤrsten fordern, und sehedn Rube bekommen, mein Talent zu soͤrdenn. 4. Diefer Herr ist ein sehr gelehrter und hochr Mann, welcher auch unserm Lande, sowol fien n Falle Friderici, unsers gewesenen Koͤniges in Schlichtu Haupt⸗Sachen, sehr viel gedienet hat, und gehen alle ho chen durch seinen Rath welcher begehret hat /ichwol 20 ihm eꝛscheinen er wolte meinppatron u. geneigter Ford und warte auf dato stůndlich wann mich Ihro Ehurf.
+
+ichdurch obgen wird vor sich fodern lassen; welches ner Rathe Andeuten und Forderung gewaͤrtig auch viel andere Herren und Raͤthe, denen mein liebet wie dann auch dem Superintendenten Aegidi und hoffe, es werde allesgut werden nach erlitkener n Schade und Verfolgung.
+
+Er % eee
+
+Haͤtte nun der Herr Peiptonken zu Goͤrlitz mich zu klagen, so möchte ers ietzt alhier bey desbarfürsten
+
+Maͤthen vorbringen, und seine giftige Verläumdung d E. E. Rach / meinen Herren zu Goͤrlitz, unterwegen he wolte ich ihm zu Rechte stehen, und ing
+
+[p. 248] Br. 63. Theosophische Send⸗Briefe. 241 gesichte stellen, welche erhat giftiger Weise vor der Gemeine und im 1 über mich ausgeschuͤttet. 6. Sein Chri stliches Hertze wird treflich gelobet, wann er r ein Theil wuͤste, wie 3 feinen Pasquill für so gar hristlich und recht ansiehet. Er thut der Stadt Gorl Spott damit an, daß sie also einen kaͤsterer ii
+
+£ter zum Hohenpriester haben, welcher also ehrenruͤhri⸗ =Pasquill und Zotten wieder feine Pfarr: Kinder drücken sset, und sie nicht anderst mag unterrichten: Er hat ihme nentreflichen Namen dardurch gemachet, daß manx 5 he er und ungeistlichen Mann haͤlt; doͤrfte nuch wol gar nahe das Maul gestopfet, und geheissenaan 225 5 und der Nachfeige Ebristi und der Apostel zu parten ‚ohne was ihme doͤrfte begegnen, so man wolte feine ifcheWorte im Pasquill und auf der Cantzel eifern ad klagen; Ich hoffete ich wolte wol Richter finden, welche die er wuͤrden koͤnnen richten, ob ich gleich zu Goͤr⸗ licz kein Gehoͤre kann haben, welches doch die Herren wun⸗ derlich ansiehet daß man einen Bürger in feinen Sachen ni vernehmen will, da ich doch über meine Herren zu Goͤrl keine Klage oder Beschwer führen will, ohne weitere Ur⸗ Daß es aber den Primar ium verdreust, daß ich mich dat
+
+N 659 95verantwortet, und darum will oben aus fahren, noch vielmehr laͤstert; 25 1 ich: hat er nicht ge⸗ angeschriebener Antwort, so will ich sie zum Druck bes bern, wie es von vielen gelehrten Leuten für gut angesehen ch weiß auch schoͤne Gelegenheit darzu; das Maul asternzuhalten waͤre ihm gut, oder er wird muͤssen se⸗ un hören, was ihme ietzt nicht gefäller. Wiewol ich keinen Gefallen daran habe dann ich mercke fa wol,daß der Teufel gerne wolte mein Talent mit Zancken en hoffe aber unter Goͤttlichem Schutze zu stehen dann ietzt kraͤftig, wie SOFT feine Kinder führer
+
+45schůtzet, dafür Ihme zu dancken ist; und wird nicht ogeben, daß der Primarius wird alle deute von Goͤrlitz ja⸗ er mein Büchlein lesen, sonst muͤste er auch zu den kommen, und in viel andere Orte und den Chur⸗ feine Raͤthe und Priester 767 . Er sehe aberzu n Gottes Zorn nicht ins ho 5 Jeuer jage; yo1
+
+[p. 249] ‚XXhEpiflolz Theofophice. „Ep.6, thun wäre wol gut; Will er aber eine Reformation anfangen, wird der Churfürst auch drein sehen, was er für einen Re- formator in feinem. Lande habe; dürfer euch vor ihme nichts ehtfegen es ist nur einPharisaischer Eifer ohne Grund. 9. Ich hoffe noch, es wird balddieZeit dergrossen Refor- mation kommen, da man sie auch wird resornuren, un peifl Ehristum und nicht Schuster Pech und Schwartze, lehren, und Christi Kinder laͤstern. Er komme nur zu Dreß den in Buchladen, er wird die neue Reformation genug sehen, welche meinem Grunde gleich siehet, was den Theologischen Grun antrift: Ich hoͤre alhie nichts dawieder lästern , danneswi wie dann auch der Superintendent Aegid. mit Freuden gelesen, Strauch, sowol auch Doctor Soe die neue Geburt und den junern Menschen anietzo selber lehren; es mags ihnen der Primarius zu Goͤrlitz auch verbieten; und viel andere
+
+Meissen, Sachsen, Thüringen und SeeStädtesch n und lehren davon gar recht; so das unser Primarius w wehren, so hat er Zeit, daß er ein Concilium ausschreib die ee oder werden eitel Enthu wie,er sie heisset. werden 10. Ich bitte, wollet doch meine Frau und Sohne grüs⸗ fen, und ihnen dieses lesen lassen, und sie zur Gedult und es t vermahnen, ich hoffe,es wird alles gut werden; sie sollen ch nur noch ein wenig gedulden, wer we wie iß es,noch mag ablaufen, es kann mir diese Verfolgung noch wol zum aller⸗ besten kommen: Ich will inner drey Wochen,fodas seyn mag ewißlich zu hause kommen, ob ich gleich müsse wieder abi berrelsen will euch aber unterdessen schreiben, wie sichs wird weiter mit den Herren verlauffen, und meinen Sohn
+
+Jacob vermahnen zu warten, und daß er doch ofte wol 5
+
+Hans Bürgern gehen, und sehen was Elias lernet, und fi mit feinem kehrmeister in Liebe behaben, deme soll er meinen
+
+Gruß und guten Willen entbieten, und mein Fuͤrhaben nicht bergen, daßes nicht das Ansehen habe, alshaͤtte man eine che Sache, daß man vorm Primario müsse fliehen, und deswe⸗ gen der kleine Elias von seinem Lehrmeister verfolge 9 übel gehalten würde; so mag ihme mein das mal guter stand wol angedeutet werden. ans n. Wiewol er ein guter einfaltiger Mann ist, und sich den
+
+Sachen nichtverstehet, daß erdeswegen nicht(wolleAg
+
+[p. 250] |a
+
+Theosophische Send⸗Briefe. 243 Bauf remeinen . Knaben werfen; es wird noch alles gut werden.
+
+Er Toll sich nicht scheuen meinen Sohn zu lehren, ich will sei⸗ nen Kindern und ihm wiederum dienen, und moͤchte auch noch ol eine andere Zeit kommen, daß ichibme dienen koͤnte; er volle doch anietzo mir Gedult tragen denn mein Weg ist on Gott also beschaffen, das wird die Zeit und das Ende ite
+
+Bnuden
+
+seyn und Gedult haben und nicht eifern,daß uns der böfe Feind nicht etwa einen Kleck anhaͤnge, und endlich iedermann be, daßwirum der Erkentniß Christi und feiner Wahrheit verfolget werden. Ob es Gelegenheit gaͤbe, welche wilen ich mirdoch meine Apologia wieder den gewiß wäre, bitte Frimatium mitzusenden, oder mit gewisser Gelegenheit Herrn Melchior Bernten zur Fitta zu senden, welcher allezeit mit den Leipziger Haͤndlern Gelegenheit hat, und solche bey mei⸗ dem Weibe abzufodern, denn sie wird begehret solche den hurfürstl.
+
+Rachen zuzeigen, was fiedarzu sagen werden.
+
+hneliegend Schreiben meinem Weibe zu geben, daß sie das Earl Endern sende. Und empfehle fünf diete be n JEsu Christi! Datum
+
+Deepde utn, supra, nst w. Epr ifi Jes Sie Euer Teutonicus.
+
+| . Der LXIV. Send⸗Brief.
+
+Doct Med Kob ias Tob An Herrn N 3. Dreßden, vom 13. Juni, 1624. | deen
+
+Autoris, daß die Brüder einen guten Kampf ß dendele Er dae aa
+
+[p. 251] Ep. 64.
+
+XXI. Epistolæ Theosophicæ.
+
+daß auch feine Feinde Christi ähnlich machet, mit hertzlichem Wunsch, voll mogen. 2. Viel grosse N den Weg der Wahrheit erkennen ten: efoch unang bleibe laube Aberg eg zu Ebrisso nicht, damit niemand drauf wandeln moge. 3. Die n, 4. fen Feind muͤssen wir mit Gedult und ernster Busse Uber auf daß der Zorn mit Liebe und Demuth gelöschet werde. 5.
+
+und nicht das Schwert, überwindet den zornigen 8
+
+Weltbrennet? 7. Der Pets Babel in der gantzen daß , siehet es aber marius hat Autori, durch feinen Anhang, die 13 85 einwerfen sind. 9. wes,GeistesKindfie fen, 8. daran man ja wol sehen kann 10. Das Senftörnlein wird doch zu einem Baum werden: das kar niemand wehren. u.
+
+Autor vermahnet seine Familie zur Stille und it er 50 Gedult. 2. Ihm gehets wolinDreßden, — Herren Kundschaft. 180 Wiewol er sich nicht auf weltlichen S ndern auf G Ott verläffet. 14. Der Superint. Aegid Strauch ich auf ein Abendmahl bey Autoris Wirth, zur freundlichen ung ‚angeboten, 18. weil Er dessen Büchlein von der Busse be bet. 16. Vom Herrn von koß erwartet er auch nechstens Resolut
+
+17. Autor bittet die Seinen sich gedultig zu tragen, 18:20, und flei zu beten. 21. sq.
+
+manuel!
+
+Cern vielgeliebter Herr und Christlicher Bruder, ne⸗ S benst hertzlicher Wuͤnschung der kenden l be IEsu Christi! Daß fein Perlen⸗Baͤumlein untermr unsers HErrn JEsu Christi in solcher Bewegniß und Übung groß werde, und wir allesamt in solcher Kraft mögen zornigen Feinde Christi im Glauben und in der Demuth E sti wiederstehen, welcher aniego brüllet wie ein wütender we, und sich mächtig wieder JEsum und feine 9
+
+Fam lehnet, daß wir mit Paulo mögen einen guten Kampf pfen, und das Ende unserer Seligkeit davon bringen, und nicht um zeitlicher Ehre und Lust willen Christum in der ein⸗ mal erkanten Wahrheit verleugnen, und mit den Heuchlern umkehren, und das edle Pfand verleugnen, welches schwer seyn wuͤrde wieder zu erlangen.
+
+2. Ich für meine Person dancke GOtt in Christo JEsu, daß Er mich hat mit feinem Mahl⸗Zeichen gezeichnet, und machet mich täglich feinem Bilde ähnlich, und bitte ihn um
+
+Bestaͤndigkeit, auch daß Er wolle meine Feinde von dem grausamen Tode des ewigen Schreckens, darinn sie iegt uns wissend gefangen liegen, erloͤsen, und auch ans Licht bringen, daß sie diesen Weg erkennen, und in unsere ewige Baier» meine RR haft konnen.
+
+3. Aber
+
+[p. 252] Theosophische Send, Brieft. 245
+
+3. Aber vernünftig von diesen Dingen zu reden so sehen wirs ja vor Augen, daß dieser Weg dem Teufel gantz zuwie⸗ der ist,weil er ohne Ursache also dawieder tobet; es ist fast ein Wunder, daß er wieder so ein kleines Bet⸗Buͤchlein chbermen anrichtet; es muß ihme gewiß nicht schmecken, undanstincken, da doch viel grosse Bücher voll Narren⸗Possen, theils auch vollAberglauben, gefunden werden, welche er nicht ansicht; sondern nur den Weg zu Christo speyet er an /daß niemand soll darauf wandeln. 4. Dann er meinet, fein Reich erst kräftig zu bauen, und
+
+siehet aber daß es anietzo überal will luͤckicht werden; dann der Eiureisser kommen anietzo an vielen Orten herzu, sonder⸗ lich von Mitternacht, wir können anietzo nichts bessers thun, als diesen Feind mit Gedult unterm + Christi spotten, und mit ernster Busse uͤberwinden, so wird erendlich matt und schwach.
+
+ä
+
+8. Und wird dieser Löfeh- Brand wol feine Endschaft neh⸗ er ist nur ein Feuerstrahl GOttes Zornes welcher mit Goͤttlicher Liebe und Demuth geloͤschetwerden; wir sollen ihme mit nichten Holtz zutragen zu feinem Brennen, sondern mit Christi Uberwindung tödten, wie Christus mit feiner Liebe hat GOttes Zorn und die Hölle uͤberwunden, zerbrochen, und maͤchtig uͤber alle seine Feinde geherrschet. Also wird alsdann solcher Feind im Zorne Sdttes nicht lange siegen, wie uns Christus gelehret hat, daß wir unsere Feinde sollen speisen und traͤncken, und uns er⸗
+
+HF| ee um feinetiwillen beluͤgen, dann unser Lohn immel. 6. Ein Weltliches Schwert aus eigenem Vorsatze wieder solchen Feind Christi zu führen, ist nicht gut, dann also wur⸗ deer staͤrcker; Aber mit Gedult und Beten wollen wir ihn wol überwinden: Nach feiner unbilligen Läfterung frage ich nichts, ich habe ein gut Gewissen wieder ihn, es muß doch balde bie Zeit kommen, daß solcher Feind mit dem Schwerte der tes ersticket werde. GOt Kraf
+
+7. Wir sehen billig die Zeit an, dann Babel brennet in der gantzen Welt, und ist Wehe auf allen Gassen, ohne daß mans noch nicht siehet, sondern noch daran blind ist.
+
+8. Wegen eurer bruͤderlichen Treue und gar Christlichen Wei mei etli ihr inde Vorsorge, Ine 3
+
+[p. 253] XXI Epistolæ Theosophicæ.
+
+Ep. 54.
+
+—euch genommen in Verwahrung, sage ich grossen Danck: ill mir je der Hohe⸗Priester das Hand stuͤrmen, das lasse man ibn nur thun. aufdaß es doch in allen Landen kuͤndig wer⸗ be, wasfür ein Aufrührer er ist; es wird ihme und den Sei⸗ nigen gar zu groffen Ehren kommen, es soll auch vor des Churfuͤrsten Raͤthen geruͤhmet werden, daß er mir durch seine getreue Diener hat das Haus angetastet, und die Fen⸗ ster eingeworfen: wann das andere Leute thaͤten, und Ur⸗ 1 gaben,so würde sie ein E.Rath nicht bey der Stadt den. 9. Es wundert michfast sehr, daß man solch Lermen Goͤrlitz anrichtet, und die Stadt also beschreyet, Se che: wann man wird nach dem Grunde fragen, es wird Kam aussehen; Jedoch mußes seyn, denn es ist die Zeit Boren /es wird balde ein anders kommen; dieses ist nur ein Vorbilde, weil sie haben des H. Geistes Fest also fein celebri⸗ ret, so wird er ihnen kraͤftig beystehen: daran kann 2 wol sehen, wes Geistes Kinder sie sind, weme sie dienen, geben uns desto mehr Ursache von ihnen zu fliehen; Ich m ne ja, es sey pfuy genug, es 1185S und hoͤllischer Schwaͤrtze, daßes GOtt erbarme, die arme ein fältige Gemeine, welche also bee wird, und die S Bere auf sich zeucht, welche gar nahe wird ausgege
+
+PR
+
+10. Man siehet auch ihre Bestaͤndigkeit gar schoͤne: sie ietzt gutheissen, das verleugnen sie einandermal: O Jesuiter dahin kamen, und man die Kirchen von Luce der abfoderte was wuͤrde es gute Paͤbstler geben. Man lasse es doch nur also gehen, Stifefchweigen ist das Beste: Sie jagen einen Mucke, und meinen, sie hab den Braten, aber es stecket ein kleines Senfkoͤrnlein
+
+, daran Christus hat den Tod erwuͤrget, darinn ef wird ihnen den Bauch zerbersten, und wird zu ei Baum werden, das kann niemand wehren.
+
+12. Mein Weib darf keine Fenster⸗Laden deshalben lassen machen; wollen sie diese einwerfen, das mögen sie thun,so siehet man des Hohen Priesters Früchte: Sie sollsiae nur noch ein wenig gedulden; hat sie nicht Raum zu Göorlinz, so will ich sie wol an Ort und Stelle verschaffen da sie wird Friede haben; sie bleibe doch nur zu hause, und gehe on
+
+[p. 254] Br.Kt. Theosophische Send» Briefe, 247 ene duchaus, und lasse den Feind toben, er wird sie nicht eu: 800muß noch ein wenig albie verwarten, und nachse⸗ hen was Gott thun will, dann ich bin ietzt erst ein wenig in grosser Herren Kundschaft alhie kommen, welches täglich ge⸗ schiehet: und gehet mir auf heute, GOtt Lob, noch wol, und habe noch nicht Fug gehabt, etwas von den Herren zu begeh⸗ ren,zumeinen Schutze, weil derEburfürfte verreiset ist, a etliche Fuͤrnehmsten Herren mit ihm. 24: Wie wol ich mich auf keinen weltlichen Schutz benlosses sondern auf GOtt warte, und Ihm allein vanine von deme ich mein Pfund habe empfangen.
+
+1155 Auf naͤhesten Sonntag ist ein Gespräche zwithen — und dem Herrn Superintendenten Aid, Strauch angestellet
+
+Se Wirth, welches der Herr Superintendent sich mit unterreden selberBub und wünschet auf ein Abend⸗ 2able etliche des Churfuͤrsten Raͤthe seyn werden ablauffen wird, berichte ich euch ehestes.
+
+unmein Gebet⸗Bůchlein von der Busse lieber er, er sich gerne wolte etlicher Puncten halben, welche Er bochseyn, unterreden, und selber hoͤren aus was Bruns a freienmir lieb ist, und sehe nach, was daraus
+
+= 10warte ich nach desZerrn von Coß /als Kaͤ ers Churfuͤrstlichen b einer re zu welchen ich auch ehestes Tages kommen soll: re ablauffen wird, will ich ehestes berichten, hoffe,es wird noch alles gut werden. Wie GOtt will, jo will ich mit; wer weiß, wo mich GOtt hin will haben, oder was er durch mich thun will: Ich wundere mich selber sehr, wie ich also wunderlich geführet werde, ohne meine Gedancken und Fuͤr⸗
+
+12 Meinem Weibe überfende ich ut ‚Beigeen zweene
+
+Reichsthaler Zubuß; wird ihr etwas mangeln, weiß sie doch wol wo sie das haben kann. Der — 8 el zum Tische liegt Stuͤbel bey den Pfannen auf dem Brete: Euer Tractaͤt⸗ lein liegt im Tische, koͤnnets abfodern; euer Schreiben, welches ihr nach der Zita habt geschickt, ist mir noch nicht worden.
+
+etwas zutrüge, bitte ich 3 mir zu schreiben; po
+
+### [p. 255] XXI. Epistolæ Theofophicz, Ep.642
+
+wo keine gewisse Botschaft zufallig her ist nur Herrn Wel⸗ chior Bernten zur Fitta schicken, er hat alle Wochen Gele⸗ genheit ber; und ibm zu melden, daß ersfort soͤrdere als ichs denn auch also mit ihme habe verlassen; Und mein Weib und die beyde Soͤhne zu gruͤssen /undrigen Christlichen Gedult
+
+—— Gebet vermahuen, und nicht eigene Rache vorzuneh⸗ men daß der Feind nicht Ursache habe. 19. Der Handel mit Herrn Fuͤrstenauers Befinde:ist wol nicht gut; iedoch wird daraus nicht vielwerden, dann es ist 5 des Primarii eigene Schande, und doͤrfte ihm wol groß ‚vers wiesen werde fodas rechtbeantwortet würde; und wünsch⸗ te, daß es fein Herr recht wuͤste, er wuͤrde ihn wol in Schutz
+
+Fruͤchte. gute Primarii nehmen,es sind 20. Ich hoffe, ich will euch ehestes besuchen, ob ich ja vie der bieber solte reisen: es wird nicht Hals⸗Abhauens gelten, es ist nur ein tolles Geschrey, daran nichts ist als Pfaffen⸗ Gloͤckel, die läutet also schoͤne; obs Christi Stimme fen oder des Teufels, ist leichte zu rathen; ihr doͤrset euch, w gen 5t ist keine Sache, darat eplerres, nicht zu tode fürchten, an ande hanget, es ist nur * Glo 3 it Bird.
+
+zutet zum Sturme.
+
+21. Helfet nur im alsdann auch e.
+
+hefi
+
+GeisteChri i tap ri tapwfeerr 258 allen einen guten Sinn. nd e unsn ihun
+
+22. Herr Kriederich Rhenischen bitte ich zugrü habe ihme albie noch nichts Finnen rn „denn albie sebr nach Gunstzu, und sind viel Auswaͤrter,fi ist; will ihme aber gargerne in Liebeen so 8 ich kann mir anietzo noch selber nicht rathen.! che isti!Da· Hilft. Und empfehle euch alle in diedhe Jenn tum Drefiden ,ut supra.
+
+we AR zu en P.S. Mein Jacob fol doch noch a die Mutter doch einen Trost habe,bi es solte schon seyn,soich nicht or warme, sie gedulde ei * vr g ch nur.
+
+Des Herrn Diensfw⸗
+
+[p. 256] 4Br.ss, Theosophishe Send⸗Britfe. 249
+
+LXV. Send⸗Brief.
+
+j alle, Der
+
+An Herrn Augustin Coͤppen, Fusa.ͤrstenaue⸗a L bL 1622.
+
+Summarien.
+
+ur Aß noch einige Autoris Gaben belieben kommt von dem Geist
+
+Sttes in ihnen her. 5. 1. Er nimt sich deren nicht an, als eines Eigenthums; 2. ein christliches bruͤderliches Gemüth beliebet ihm mehr als ales Geld und Gut. 3. Seine demuͤthige Bescheidenheit bey empfangener Liebe. ibid.
+
+Seil im Leben JEsu Christi in uns! UAnser Neun lieber Herr Augustinus, Christlicher Bruder; ne⸗ benst herslicher Wünschung Göttliches Lichtes in
+
+Daß ihr mei⸗ wircklicher Kraftdes Heiligen Eotisin Christo!
+
+ner Gaben etwas empfangen, und dieselbe beliebet, leset und nachschreibet, das ist nicht von mir selber: Ich bin auch nicht der, welcher euch den Verstand und Erkentniß, vielweniger die Begierde dazu giebet, sondern der Geist GOttes in euch
+
+selber giebets; Dann so das durch mich geschehen koͤnte, und ich die Macht hatte, so wolte ich daß sie alle Menschen inihnen
+
+Be.
+
+das hätten, das mir armen unwuͤrdigen ausGoͤttlicher Gabe verliehen ist. jenfiben 2. So gebüuͤhret mir auch nicht, daß ich mich derselben wol⸗ annehmen als ein Eigenthum, vielweniger von der Welt
+
+Ehre oder Gaben darum nehmen, ohne was von den Reichen
+
+Uberfluß zu Unterhaltung des Lebens und zu meh⸗ rer Abwartung dieses Talents geschehen moͤchte; darum ich doch von niemand etwas begehre.
+
+3. Euer treues und recht eiferiges Christliches Gemuͤth ist ie fast wol bekant, und liebet mir mehr als Geld und Gut, un ich weiß, daß ich kann einen Christlichen Bruder zur ewi⸗ gen Ergetzung haben, und mich in und mit ihme erfreuen, als in Glied an und im andern: Daran ich auch wol begnuͤget wäre, und Christus mein reicher Lohn seyn wird, so ich durch neinen Fleiß haͤtte etwas in Christi Weinberge helfen wircken u gewinnen, und wolte in keinem Wege etwas Zeitliches da⸗ ür begehren. Weil ihr mir aber aus Christlicher Liebe und Treue auch wollet gerne helfen zu _. Leibes Unterhaltung a Hi%
+
+PR
+
+[p. 257] 475 XXI. Kollo Theolophies Ep. 86. und Nothdurft bey diesen meinem Talent dienen, so erkenne solches als eine Schickung Goͤttlicher Ordnung, und bedancke mich zum hoͤchsten eures treuen Gemuͤthes
+
+Ich will euch aber dasselbe viel lieber zahlen was deucht mich zu viel zu seyn, daß ich solches voner daes nehmen solte, welcheszuunserer Ankunft geschehen kann. und ob es euer Gelegenheit gebe, daß ihr Amtes: halben koͤntet abs enmit einander diese To; wir das kommen, so wolt bey einem Christlichen Gespraͤche, welches mir lieb wäre.
+
+empfehle euch der Liebe JEsu Christi.
+
+P. S. Beygefüͤgtes Schreiben ist mirvom Herrn bees. Aber geschicket worden euch iusenden. fr IB
+
+Der LXVI. Send, Brie
+
+An Ser Auauflin,e benom u 2 u Sommarien.
+
+9.44 et N
+
+Sovecht ana eig rtakineSone ufareen.2. BaderSin:
+
+SE achtau,z.und as Ende zu Babel ist 19
+
+Bu e zusenden. 6. 7. ruͤcke in Goͤrlitz. 8.sa.
+
+e ——
+
+June 1 nr Christo vielgeliebter Herr und Freund >z 5 schung Goͤttlicher Liebe und seliger Erkentniß ler zeitlichen Wolfahrt! In eurem wol; ginnen möchtet ihr ja etwas verhindert werden: Aber ein rech⸗ 5 Christliches elferiges Hertze hat feiner le inlch. auch mitten in allen andern Geschaͤsten; Dann fowir Ehristo fol gen, und denselben in uns erlangen, so ist er in allen Dingen * unser Anfang und Ende, und unser vehrmeisterinuns. 2. Es moͤchte unsere Conuerfätiöh freylich wol Nutzenstcha fen; weil ihr koͤnnet anietzo also eine schoͤne Gelegenheit habe da ihr diese Schriften möget in Händen haben, fosehet zu u terlassets nicht, und bequemet euch darinnen, ihr werdet einen treflichen Verstand in dem Summario aan go
+
+[p. 258] ”
+
+Br.
+
+unter Haͤnde E. t. schon ein Th eg fg Mo . Dann lo fg en, so euch ma t: ͤn go go hs ͤc Ho werdet wundern, ste fin Ta hel het sie man kla fr anbricht, dessen sic oͤs erl Ir und dadu ja ud ah rm 4. Ro nic hm Ac nh be Zeit und Gele hö rm Zw gu fen- Zeit + ͤn sg 3 Lust⸗Gar Tu rh 5. sic yn hat eine gros nur einiederinder Gnaden⸗Zeit, und gehe aus der fleischlie ho e; Zeit, und kein Schertz von uns gedichtet, es ist hoch erkant worden.
+
+6. Ich vermahne auch Herrn Tobias brüderlich /jaseiner
+
+such men neh Acht Zei ietzigen bequem zu⸗ rer meh etw bald lich treu und meine schreiben bekommen, welches theils Herr Walter unter
+
+Händen hat, theils ist noch beymir beruhend. des Goͤrlitzer Hauptmanns, berichte ich,daß 7. Wegen wenn er wird hie erheute nicht binnen ist, will abernachfragen, seyn; und so es noth ist kann mich der Herr berichten, so will ich Bericht thun.
+
+wir können aniego nicht in die Stadt wegen einge⸗ 8. Denn fallener Brücke mit einem gantzen Joche mitten auf der Bruͤ⸗ s Blitz und heeinem cke, von oben an bis in den Grund, welcin
+
+Su geschah, als schoͤsse manein Rohr ab, welches, weil ich auf der Brücken gestanden ich selber gesehen, und GOt⸗ tes grosse Macht fast übernatůrlich gefpüret habe, welches mir groß Nachdencken gibt, davon ich muͤndlich mit euch reden Jul.1622. ha18. Gescden wolte. 9. Denn ein solches als ich gesehen, mich harte bestuͤrtzet hat, denn ich war über dreyEllen nicht vom Anbruch im Fer»
+
+ster liegend, ins Wasser zu sehen, lieff aber im Schracke da: nur in einem Blicke an; und ehe ich mich umsahe von, saes war alles in Grund augenblicklich. al.
+
+ot?
+
+[p. 259] XXI. Epinolz Theofophiek? bh.6.
+
+Nota. Eines Soͤrlitzischen Beamten: Zur Erleuterung, daß . B. i in,W
+
+Anbruch der Brücenim Fenster \#di mare.4 Haut, Feuer, nera u der Autor, (wie er
+
+2 Brücken dem Eihal Der san 9
+
+selbst im 8 davon ihm 3 den, nemlich auf der Gen befangen, daßer im Schracke 3 davon es klar von der Brücken zu verstehen ,und 15
+
+428also nicht am Wasser gesuchet werdenda
+
+10. Wegen der Fische thue ich mich 5 willes
+
+Guten verschulden, will euch in kurtzem selberane f nur wissen werde, daß ihr ein wenig Zeit habet. 2 wissen lassen, wenns euch auf einem halben Tag gibt. Und empfehle euch der sanften Liebe Jesuche age
+
+P. S. Es sind wol ein Person oder sehen mithinunter gefal⸗ len, und theils sehr beschaͤdiget, aber kei todt6eben; moͤchte fremdes man kann nicht eben wissen, ob iemand seyn verfallen, denn es war viel Volck darauf; man wei den Fal noch nicht recht, gibtdieee dasolg,wird auf beben. inder nan
+
+Ka 18
+
+Lich Dienfo,
+
+Nota: Diebe tern 8 Send:Griest vom 64. bis 14. „bat inej dein biss— Auflagenoch hinzu gekomme Zug abe rn ar kA J
+
+Einiger Briefe von des Autoris eigen
+
+Hand, darinn verschiedene Rachti ten finden.
+
+Der LXVH, (1) Send⸗Brief.
+
+An Herrn Christian b mer zum dee,
+
+Sagag.
+
+Am Tage Martini 1620.
+
+[p. 260] kart pb bu end Ki 4. Sa
+
+Die Kraft der Wunder. LilienGGttes aus dem Brunn⸗
+
+&
+
+Hrenvester, wolbenamter Herr und vertrauter Freund. Alhie uͤbersende ich euch einSchreiben an Herr Wal:
+
+tern neben 3 Sacken, mit dem Melchior Spechten, wels chehr Walter oder Hr. Magister Weigel wird fordern lassen:
+
+denn HerrM.Weigel wolte mir Korn darinnen schicken, wie rr Walter berichtet. Wird es zu euch geschicket werden, so rberget mir es doch /bisSpecht kommt: so lasset ihme das folgen ,daß er mir das bringe. Das Schreiben an Herr Wal⸗ tern wird er wol fodern lassen; oderda ihr wisset, wo er wäre, und hättet zufällige Gelegenheit, die gewiß wäre , so koͤntets ihme mitschicken; thaͤtet ihr mir und ihme einen Dienst. 3.Wie es auch um den Sagan und in Nieder ⸗Caußgnitz gen der Kriegs Gefahr gehe, möchte ich gerne wissen. Am Lage Martin ist der Marggrafe mit allem Volcke wieder in Gorlitz ankommen, und hat sich eingeleget, daß fast alle
+
+Haͤuser voll sind, nachdem er 3 Wochen zur Läbe gelegen, und nichts gerichtet, als daß sie am nahesten Freytage wenig miteinander vor der Aübe scharmüͤtziret; da ihrer
+
+”—— von den unsern zwey blieben und etliche verwundet; und wie die Soldaten berichten, sind vielvon den andern Voͤsckern 123 DerScharmützel hat einen gantzen Tag ges 3. Sonst ist nichts geschehen, ohne daß sie einander oft
+
+- aufberSort angetroffen, und ein wenig geschlagen.
+
+Aber das Land ist über die Hälfte verderbet und beraubet, und weiß man nicht, wie es gemeinet ist, oder was werden wird; unser Land wird bald fertig seyn. Die Laͤger liegen bey Ra⸗ tkenitz, nur ein Pflug⸗Gewende von einander, und scharmuͤ⸗ geln alle Tage mit einander; aber zu einer Schlacht will es nicht kommen.
+
+4. Sonst streiffet man bis an Kaudnitz, 3 Meilen von eutenmeritz, und verdirbet und verheeret das Land mit
+
+RNauben, Morden und Brennen beydes im Leutenmeritzer⸗ und Satzer⸗Creise, auch im Schlgner⸗Creise, und u.5.
+
+oͤh⸗
+
+[p. 274] XXI. Epiflolæ Theofophicz. Ep. 6g. 5
+
+Boͤhmer⸗Land meiftentbeil im Grunde verderbet, wie ich se Ta selter ge
+
+su Ebristi empfehlen. Geben ut be 9 dieie LLie8 euch in ag Do n. Die andere A bo La tung Ma ad St
+
+‚u iv oß ra hinein und ne sehr grosse Schlacht geschehen, darinn viel blieben. Worauf die Lager wieder r bt eg sie
+
+EtR . Ber
+
+Der LXUX. (2) SendrBriefe An denselben. Im Majo 1621.
+
+Summarischer Inhalt.
+
+Autor berichtet feineur bittetfeinen Freund
+
+Terr Cheiftian ‚guter Freund. aafüge euch nachdem ich iego meiner Gelegenheit nach albie bin, daß ich euch gerne moͤchte ansprechen wegen brBr
+
+Kundschaft; weiß aber nicht, wie es 9 seyn moͤchte. Ich wuͤnschte mit euch in Geheim sel das euc pra Ges tze ein kur sen wis daz tel Mit ife Zwe ohn ihr son Per nes mei ner Gegenwart wäre dann Sache, daß er den Euren zuvorn dane
+
+sie des begehrten.
+
+Extract Schreiben an destben. Vom 8. Juni 1621. In RE 4 Rucht der Schriften Autoris ,dadu
+
+Bahn gefünret worden. 1. Es soll ihm keine Mühe weiter seinem Nechiien mit seinem Talent ue
+
+Er unvermuthete Gelegenheit gezeiget.
+
+SN Ei
+
+No
+
+N Saß und Weiche, zu Weiche seßhaft, alsichm
+
+[p. 275] 9. Theosoph von euch zu ihme gereiset, in einem sehr guten Zustand gefun⸗
+
+, und welcher eine gar bergliche Begierde nach unser ‚Selen traͤget, auch sein Leben dahin gerichtet, solches ze t zu erlangen. So werden in kurtzem etliche Episteln uch gesandt werden, welche er bey euch wird lassen abfodern; o ihr ihme dieselben wollet auf feine und meine Kosten Weiche senden, werdet ihr ihme daran, auch mir einen Willen thun: denn er ist gar ein ehrsamer Mensch 5bee 1 0 0 wolauf!der rechten Bahn. GoOtt ge⸗ Bestaͤndigkeit
+
+Es soll mich keine Mühe verdriessen (wann ich zwar viel ai ringe, meinem Naͤchsten das mir eröffnete Talent zu en)fonur dadurch GOttes und unser Englisches et wird: als ich dann in meiner Reife, als ich von euch Er solche Schüler gefunden, daß ich mich nicht alleine der hohen Gaben Gottes verwunderte, sondern auch hoch er⸗ dann mein Gang ging gar anders, als ich dachte: als ich von Hause reissete mußte durch Gottes Wunder ⸗Schi⸗ 5 7 g wol fuͤnftehalb Wochen aussen bleiben, ver hoffe auch, es werde nicht vergebens seyn. Und thue euch der Liebe JEsu
+
+Christe
+
+Dat.e ut supra.
+
+D. B.
+
+J. B.
+
+se 15Der XIX.(3) Send⸗Brief. denselben, 4 Ma ”
+
+vom n. Maji 1624.
+
+Summarien.
+
+It Wunsch und UN andere von GOtt gefügte — gehindert worden. 2. sichere sie 4 5 chreibenz. Seine Reise Bea be daß mancher schöner Zweig in Cheisti Garten
+
+Zuspruch, g. 1. woran Er boch beit erbauli bei aufein Freund feinen Veespricht, s. besuchen. El! sey Imanu, Unser Wille und Begierde
+
+Ein gar lieber Freund und Bruder in Christo.
+
+Neben icher Wuͤnschung aller seligen Wolfahrt, daß
+
+stets leite, führe und rathe, und in allem abe en es dann auch mein gang Fuͤrnehmen illen und3 und das Ende sey. Ich gar gerne seyn im Ruͤckwege wieder zu war
+
+[p. 276] Ep. 69.
+
+war, mich fuͤrnemlich mit eurem Herrn Bruder in Goͤttlicher Erkentniß zu unterreden, weiln ich ihn gar für ein begieriges
+
+Eier nach Goͤttlicher Erkentniß vermercket, neben einem oͤnen Verstande von G Ott wol begabet.
+
+2. Ich bin aber nicht allein von meiner fürgenommenen Reise abgewendet worden, daß ich dieselbe nicht nach meinem
+
+Vorsatze habe mögen vollenbringen, sondern auch durch GOt⸗ tes Schickung gar einen andern Weg von Weiche aus nach Glogau und Breßlau und viel andere Orte gefuͤhret wor⸗ den. Und solches durch fuͤrnehmer Leute Begehren und gar Christliches Beginnen, welches, weilichs für eine Schickung Gottes erkant, meinen weltlichen Geschaͤsten vorgesetzet, und einen Boten von Weiche aus zu meinem Bruder gesandt, mit Briefen verrichtet. die Geschaͤste
+
+3. Weiln mir dann gleichwol was daran gelegen, und mir mein Bruder wird haben wieder Schreiben zurück zu Herrn Ru: Rudolphen von Gersdorff geschicket, denn mir Hr. dolph einen Boten verliehen; so. langet mein freundlich
+
+Bitten an euch, wollet doch die Schreiben so euch dieselben zu geschicket wurden, wie ichs denn also habe beftellet mir zuschi Boten; cken durch Spechten, oder andern gewissen zufälligen daran erzeiget ihr mir einen bruͤderlichen Dienst, an welch ihr mir gar nicht zweifel t,gargeflissen seyd.
+
+alsichvon euch abscheidete, 4. Meine verbrachte Reise, wird, wie ich zu GOtt hoffe, viel Nutzen schaffen, denn mi
+
+Gott solche gelehrte Maͤnner zugefuͤget, mit denen ich hof e, besprochen, denen es auch sehr angenehm gewesen, daß ich es werde viel Frucht und Nutz bringen; obwol der Satan dawieder tobet,sowaͤchset doch mancher schoͤner ugs durchinChristi Gaͤrtelein, dessen ich mich hoch erfreue, daß dennoch Gott feine Sonne mitten in der Nacht au va und scheinen laͤsset. 5. Und bitte, wollet eurem Herrn Bruder meine | und geneigten Willen in Christo JEsu, neben meinem vermelden: ich will ibme ehestens ein Schreiben schicken, uns abwesende zu ergetzen, bis mir G Ott einst wiede zu r hilfet, so will ich mich auf einen bequemen Tag mit ihme ergegen in!Christlichen Gesprachen, zu unser Selbst⸗Er⸗ bauunge.
+
+[p. 277] Bro. Theosophische Send⸗Briefe. 27 6. Ob ibGelegenheit hättet, die Frau M;Weigeln wegen meiner 3 Neu⸗Saͤcke mit einem Brieflein zu erinnern, diesel⸗
+
+Eueuch zu überfenden in meinem Namen, wäre mir ienst.
+
+Und2 28 euch saden mEur ten der sanften gie be JEsu Christi.
+
+Euer in Biche vertrauter Freund
+
+Bd LXX (4) Send» Brief, denselben.
+
+VomAaer15 ersendet 8 RER Breß⸗ Mn ie. 15771das10Bü chl ice,9 ddeen Dbiederaen5 Immanuel ont inlieberHerr Christian. Men Minfhie 5 Wolfahrt. Weil ihr anietzo gesonnen, nach Bresilau reisen, so bitte ich, wollet mir doch diesen Pack an Herr Dr. Goͤllern von Troppau mit za Er hat zu Breßlau eine Miethung da er feine Gelegenheit hat / so.er zu Breßlau Fr Be auf derCatther⸗Gassen, in Ludwig Gan
+
+N f ters
+
+Haufe; daselbst wollet doch anfragen, ob er in Breßlau so hat er feine Bestallung mit mir verlassen, ihme fol bey Herr Andreas Hannibal, Zobel⸗Faͤr⸗
+
+Graben, lassen einlegen, der solls ihme nach Trop⸗ tige nur diesem Zobel⸗ Faͤrber, und saget
+
+Kar wolte aufseheste Hrn. Dr. Göllern schicken:
+
+wol wissen damit zu thun, denn also ist es bestellet,
+
+7 ihr mir einen angenehmen Dienst. habe noch gar ein fein Büchlein von der neuen
+
+5 Die d.> eburt das zur poͤnitentz gehöret , welches kurtzund 2 5 7825ist; will es euch, wenn ihr werdet wieder zu baufe omme ee oderja eurem Bruder, dem Conrector, aterbeflen: Gebet nur zu, daß ihr Herrn Gersdorffen
+
+Sa 2 von der Busse vor euren Abreisen koͤnnet schicten ?
+
+. verschulden uns * [p. 278] ram
+
+### XXI. Epiflole Theofophicz: E. r4
+
+Der LXXI. (5)Send⸗Brief. An denselben. 9.
+
+75n
+
+Sonntag nach Dftern 1623. Summarien.
+
+;2* ibt Nachricht von feinen verschiedenen Reifen, g.1. 2; 5 1
+
+Dr, ee ge vn gern
+
+5. und ee ge In. 6
+
+Unser Seil im Leben IEsu Christi in un! Ein gar lieber Herr und Christlicher Bruder. Neben 9 treuer Wuͤnschung Goͤttlicher Liebe und Kraft, auß aller leiblichen Wolfahrt. Euer Schreiben, beydes das vom Holtz Kramer, und auch das ietzige nach Ostern, habe ich wol empfangen: wolte euch auch haben alsobalde geant⸗ wortet; es war aber mein —. — euch selber zu sehen. 2. Als ich denn am naͤhern Donnerstag, gleich als mir euer Brieflein zu Haͤnden kam, mich auf die Reise wa 2 in Willens, vondannen aufden Saga Sprotte aufmachte zulangen, und bin aber durch Ursachen, welche jugefallen f Weiche ankommen: von dannen ich auf Glogau reisen soll und weiter auf Breßlau; sonst wolte ich euch babenzu
+
+sprochen.
+
+Und ob ich nicht auf Breßlau reisete, so wo
+
+Just Berckmann, einem Kauffmann, an; denn ich ha euch am Ruͤckwege besuchen, welches ich ietzo nochnichtga gewiß bin, wie es sich zu Glogau fügen moͤchte. 3. Wegen Hrn. Baltzer Walters berichte ich euch, daß er mix anvor 8 Tagen hatgefihrieben :und halt sich neburg bey Hrn. Gesnerus ,gewesenen Pfarr Herrns Witwe, sint Martini alda auf, welcher euch salutiren laͤsset. Und ihr derselben Orten euch gedencketzubegeben, so werdet bey ihme allerley Nachricht erfahren, wegen meiner Kund⸗ schaft in Sachsen ,weil dieselbe fast groß ist. * re 4. Ob ihr auf Magdeburg kaͤmet, fofraget dee an Fastnacht geschriebene Sachen geschicket, welche er nach Aüneburg Herrn Waltern schicken, ob sie wären ei: kommen? Denn Herr Walter berichtet ietzo,daß Ray habe bekommen 5. Und ob es noch alda waͤre, so koͤntet ihr dasmitzu Walen nehmen; es ae zu dem Tractat ber Aae neben
+
+[p. 279] Br.72. Theosophische Send⸗Briefe.
+
+neben aus fuͤhrlichem Bericht allerley Sachen in einem Send⸗ Briefe auf sein Begehren an mich. Und wollet Herr Waltern und die Kinder Christi, beydenen ihr Kundschaft suchet wegen meiner gruͤssen. Ich will Herr Waltern auf die Leipziger 2 ausfuͤhrlich schreiben, wenn ich ietzo zu hause kommen werde. 6. Bey Herr M. Nageln zu Torgau werdet ihr Bericht bekommen, wo meine Sachen in Sachsen bekant sind; wol⸗ let ihn wegen meiner gruͤssen. Wollet auch euren Bruder den Herrn Conrector grüssen, und ihn bitten, daß er mir doch Willen seyn wolte, und bisweilen ein Brieflein, welche von
+
+Glogau oder Weiche zu ihme kamen, oder ich ihme senden wide, fördern wolle. Ich verschulde um ihn in liebe. Ges in Eile auf dem Schlosse zu Weiche, ut Supra,
+
+Euer in der Liebe Christi Dienstw.
+
+Dier
+
+LXKIT. (6.) Send-Brief,
+
+Am
+
+Tage Simon und Juda 1623.
+
+„5
+
+JB
+
+An denselben.
+
+Summarien. Mee wo feine Schriften hinkommen sollen. . 1.3. Wei⸗ „tere Versuͤgung wegen derselbigen. 4.5. Sie werden von vie⸗ Ten begehret, sonderlich die letzteren. 6. Unser Seil im Leben JEsu Christi in uns!
+
+eElebter Herr Christian. Neben Wünschung Goͤttli⸗ ö N) ches Hells überfende ich euch beygefuͤgte Schreiben, mie ich euch vor 8 Tagen im Schreiben gemeldet habe, und bitte, mir sie doch zu Herr Gersdorffen nach Weiche zu de: Und wie gemeldet worden, so Herr Gersdorff den
+
+Beoten nicht de foerleget es nur, und meldet mir das, was ist, soll balde erstattet werden. Ists aber eure Gelegenheit selber, mit euren abgeschrie⸗ benen Büchern nach Glogau zu reifen, so uͤbergebet nur Herr "Dr. Freudenhammern die Briefe, obne daß ihr einen zu Beu⸗ ten bey Herr Caspar Lindneen lasset. Die andern werden alle Herr Freudenhammern uͤbergeben, ohne Herr Gers⸗ Dorffes nicht. Ich habe ihme geschrieben, die andern zu rdern. 0 N 2 3. Und
+
+[p. 280] XXI. Epistolæ Theasophleæ.
+
+Ep.7 27.
+
+3. Und wie vor 8 Tagen gemeldet, so nehmet bey Herr Gensdorffen das Buch von der Gnaden ⸗Wahl zu euch und bey Herr Caspar Lindnern das wieder Steen und bey
+
+Herr Freudenhammern 3 Bücher. Auch sollen 3 Tractätlein, als das von der Busse, von der neunen Geburt, it. das von der Gelassenheit bey Herr Freudenhammern gefodert wer⸗ den, welche Herr Friederich Rregerwitz inne hat: foiprdiefe bekamet, wollet sie alle zueuch nehmen. 4. Und ob euch wa daran mangelte, mögetihr esabschrei ben,soihr wollet, und mir ehestens wieder schicken. Eure ab⸗ geschriebene Bucher wird eigentlich meines Beduͤnckens, Herr Jacob Johann Huser, Muͤntzmeister zu Glogau, behalte dessen euch Herr Freudenhammer wird Bericht thun, er bat mich heuer als ich bey ihme war, sehr ichwolte sie ihme doch lassen nachschreiben, er wolte gerne zahlen. Und wird ibme wol ein Dienst seyn: denn er wolte euch zusolchem Nach⸗ nd so ihr nicht waͤret weggezogen. Auch sind ihrer mehr zu Glogau, welche sie begehren, wo "a wird Herr Freudenhammer zurecht helfen: auf den Fall ihr die wollet verengelen, und nicht alle beyeinander las⸗ fen, so werden ihrer 2, als die 40Fragen und dann die 3 Thei⸗ le, als das 1.und 2. Theil von Christi Menschwerd samt dem Baum des Christlichen Glaubens, alhiebe begehret, so schicket mir sie nur.
+
+6. Koͤnnet ihr die aber miteinander verthun, bn euch geliebet: ich habe dem Herrn Freudenhammer und Hr. Zusern darum geschrieben. Habet ihr aber Zeit was schreiben, so meldet mir das an, ich will euch wol zu thun ma⸗ chen: denn ich weiß ihrer mehr, welche sie eee meine letzte Schriften. 7. Was es dann ist, oder wo diese Briefe sind blieben das meldet mir nur; wo nicht, so sendet sie nura nit ert
+
+Gersdorffen. Den Boten zahle ich von allen Briefen, die ic euch sende und ie gesendet habe zur Nachricht; auch * also. Uns in die Liebe JEsu Christi ermpfehlende. ut supra.
+
+Euer in der Liebe Christi dienstw.
+
+?
+
+[p. 281] Br.73.Theospphische Send-Briefe. 261 Der LXXIII. (.) Send⸗Brief.
+
+Herrn Carl von Endern, des Jahrs 1622.
+
+Wunsch. 5. 1. Er nennet feinen Tr. erium M. das Summarium über Men l. darob sich manche 1
+
+Seele erquicken wird. 2. Autor verlanget einige Victualien
+
+3. und bringt sonst alle feine Zeit in Diensten feiner Bruͤ⸗
+
+Unser- Seil im Reben JEsu Christi.
+
+Ein gar lieber und werther Herr. Ich wuͤnsche euch viel Freude und Kraft Goͤttlicher Beschaulichkeit, und menschlicher Einigkeit, neben zeitlicher Wolfahrt:
+
+und moͤchte gerne wissen,obHerrn Michael von Endern die bewuste Sachen, wegen des Packets und des Summarium uber Mosen, sey zuhanden geschicket worden, undob es uns ter der Feder sey? Denn es wird maͤchtig begehret von fuͤr⸗ nehmen gelehrten deuten, da esmoͤchte Nutz schaffen. 2. Bitte so es etwann Gelegenheit zu ihme giebet, ihn doch zuerinnern, daß er das mit dem Nachschreiben soͤrdere: Denn es es sind schon27Bogen aufs neue darzu gehoͤrig verferti⸗ gar helle, und wir⸗ get; undscheinet ,GYtt Lob! die Sonne detFrucht in Goͤttli cher Erkentniß⸗ Und wird ietzo ein sol⸗ ches offenbar, darob sich manche durstige Seele wird erqui⸗ cken: und ob es habe Herr Michael empfangen, oder ob es unten: nachgeschrieben werde, ware mir lieb zu 3. Es bittet mein Weib, woferne der Juncker noch etwas an Kaͤsenzuverkauffen hätte, ihr doch etwann 3 Schock, oder was vorhanden, ums Geldzulassen. Auch ware mir wol lieb, wenn mir der Juncker wolte einen Sack Ruͤben ums Geld um das kann hinein fast nichts lassen zukommen e deman Geld bekommen. So bin ich zu naͤhest bey einem Stuͤcke Ruͤ⸗ gangen, welche GOtt wol gesegnet vorbey rs ben desJuncke bhatte /davon ich dem Junckern eine abborgte, welche mich deuchte sehr gut seyn.
+
+4. Und thaͤte mir der Juncker einen Dienst, soer mir wol⸗ te einen Sack ums Geld lassen, dabey ich mein Talent koͤnnte ist, 5 bauen, weil die ZeitdenArmen mw sehr bekuͤmmert iv,
+
+[p. 282] Ep.74,
+
+XXI. Epistolæ Theosophieæ.
+
+ich anietzo fast alle meine Zeit in Diensten meiner Brüder zu⸗ bringe. welchen ich auch hertzlich gerne mittheile, was in mei⸗ nem Gaͤrtlein waͤchset, und meine Perle iegt mit grossem Fleisse suche, meinen Bruͤdern damit zu dienen.
+
+5. Und empfehle den Junckern der Liebe JEsu Christi und mich in feine Gunsten. Frau Rosinen, des Junckern Schwe⸗ n. hw Mi ster, bitte zu saluti
+
+Des Junckern Dienstw.
+
+1.
+
+Dieses Schreiben gehet in der Ordnung dem 37. Send⸗Briese im mediate vor,
+
+* 2
+
+Der LXXIV. (S.) Send⸗Brief. n An denselben, desselben Jahrs.
+
+Unser Seil in Christo.
+
+9. Innhalt. Summarischer Mees bedancket sich der empfangenen Liebe; und verspricht des Gebers treuer Gehuͤlfe zu Gottes Gnade zu seyn.
+
+erfreue mich des Junckern geneigten Willen gegen mir, daß ich Ihn noch mag zu einem lieben Patron haben. Und füge Ihme grossen Danck wegen der Kar⸗ pen, auch des grossen Vortheils und Nachlassung am Korne z hoffe zu GOtt, er werde es mit reichem Segen an eib, Seele und allem Zeitlichen erstatten; inmassen ich dann auch feiner Seelen Gebülfe und treuer Mitwircker zu GOttes Gnade seyn will, als ein Glied dem andern in Recht schuldig ist. J.
+
+ieser Brief gehoͤret in der Ordnung
+
+Oi edbee immedi
+
+HALLELUJAHL
+
+103 (0) S0 noch „ —
+
+[p. 283] æ RR;
+
+BD i#
+
+I*4
+
+Den Schülern der W cschub u tbarlich lesen Ufdaß fi und gebrauchen moͤ aus Theolopbi J. genommen aus
+
+6.6. ; welcher⸗ und Erweckung ley al zu di aus G ird auf⸗ chlü lieg bald wird auch se⸗
+
+Hebräischen.
+
+Ein weiser Baumann hen un Haus daran er chen die Ko komme L SuS Ehrift be, darau sta un d Nachgr Gnaden men, Er i gebe Gnade! R 4
+
+GO
+
+Mensch⸗
+
+[p. 284] Menschwerdung Jeu Christ u heil.
+
+gebe und Sonftmuth ittunser Schwert, sie if dos
+
+Feuer des andern Princip, deme der Teufel und die Liebe siehet iu GOtt,der Zorn Rien c.7.H.10. 2. Solch Wissen wird keinem gegeben ohne * Eu alle ausm Ziel, viele aus eiferigem ee 6. 7
+
+5. Es is ein sehe ip 220 vorhanden, als von d
+
+Welther nie geschehen. e. 7. 4. Es ist nicht genug, —
+
+HEır, gib mir 2 cken Glauben! sondern du must in Christi beiden und Ster * es und aus seinem Tode neu geboren werden. e.7.
+
+w Unser rechtes beben, damit wir Gott sollenpen ? als ein verdaͤmpfet Feuer, in manchem auch wol ls 73 87im Stein verschlossen, 82ui aufschlagen men. er Abe zu GOtt. c.8 Wie schlaͤgt die aussere Gerne oft das edle en das aus dem Dornen⸗Bade, aus der Trübsal,eg 3 wie gar mancher Zweig wird von dem Perlen⸗Baum fen durch Zweifel und Unglauben, welcher den Menscform den falschen Weg einfuͤhret. o. g. 9:5 das Centrum der Nr in ung:wa 2. Wir haben einen Engel aus ung, so sind wir das: machenwir einen
+
+Teufel aus uns, so sind wir das auch: wireen * Machen in der Schöpfung, wir stehen im Acke Ottes Wille in der Liebe stehetim Centro des Lebens . uns.
+
+$.2 * 8. Begehren, Sinn und Gemuͤth halten inne des Geistes Centrum, aus welchem der starcke Wille ausgeboren wird in welchem die rechte wahre Gleichniß, und das Bilde Bes ea und Blut stehet; stehet aberinder V 7 10. $. 2.
+
+Der Wille ist die Wurtzel der Bildniß ,ein falscher me gerstörct die Bildniß. Menschw. J. C. il. Theil. c. 4. C
+
+Morgenroͤthe.
+
+Haupt hat in sich die fünf Sinnen, darinnen qualis fitiren
+
+[p. 285] 2°5 für die SchuͤlerderWeisheit.
+
+, entstehet darinnen der ffciren die Sternen und Elementaund hie⸗ Natur⸗Geist inMenscund oder en⸗ N Soeren tern ren: in diesen quillet Boͤses und Gutes, und wie der Himmel die Sternen, also machet das Haupt den eib beweglich. e. a.
+
+$m welcher Qualitaͤt du den Geist erweckest, nach der:
+
+lben Dualität steigen auch die Gedancken auf, und regieren das Gemuͤthe. Erweckest du den Geist im Feuer, so quillet indirauf der bitter und harte Zorn: dann alsbald das Feuer ingezuͤndet wird, welches in der Haͤrtigkeit und Grimmigkeit icht, so quellet die bittere Grimmigkeit im Blitze. c. 10.
+
+Y
+
+5 Unser Leben ist wie ein steter Krieg mit dem Teufel, jläget er mich, so muß ich zuruͤcke weichen: aber die
+
+Soͤttliche Kraft hilft mir auf, dann bekommt er auch feinen treich, und verlieret oft die Schlacht. Wann er aber überwunden ist, so gebet die Himmel Pforte in meinem Gei⸗ auf: dann siehet der Geist das Goͤttliche und Himmli⸗ je Wesen; uicht ausser dem Leibe, sondern im Quell⸗Brun⸗ des Hertzens gebet der Blitz auf, in die Sinnlichkeit des
+
+Gehirns, darinnen speculiret der Geist.
+
+Der H. Geist läffer
+
+sich nicht im fündlichen Fleische fassen und halten, sondern gebet auf wie ein Blitz, wann aber der Blitz im Duell runne des Hertzens gefangen wird, so gehet er in den 7 ell⸗Geistern auf ins Gehirn wie eine Morgenroͤthe: und en steckt die Erkentniß. Hierinnen siehet der Geist is in die Tieffe der Gottheit. Derselbe GOtt ist so wol in feiner. Dreyheit im Corpus der heiligen Seelen als im Himmel. Von diesem nehme ich meine Erkentniß, will auch nichts anders wissen als denselben GOtt, und der macht auch die Gewißheit meines Geistes, daß ichs bestaͤndig glaube und auf ihn traue. e. u. G. 67⸗7f.
+
+44᷑.
+
+Die Liebe stehet in dieser Zeit im Centro des Zorn:
+
+| Feuers verborgen, und Lucifer mit feinen Engeln liegt im Ausserlichen Zorn⸗Feuer gefangen, bis in das Gerichte GOt⸗ tes: da wird er das Zorn⸗ Feuer, abtheilig von der Liebe, zum ewigen Bade bekommen. c.16. H. 54.
+
+5. Kein Mensch fol dencken, daß ihm der Teufel die Wer⸗ cke des Lichts werde koͤnnen 5 seinem Hertzen reissen, dann Ten
+
+### [p. 286] XXI. Zügabe
+
+er kann sie weder sehen noch begreiffen : und ob er gleich üin der aͤussersten Geburt im Fleische wuͤtet und tobet, als inseie nem Raub⸗Schlosse, verzage nicht, bringe nur nicht selber d Wercke des Zorns in deines Hertzens Licht, so wird deine See le vor dem tauben, stummen und im Lichte blinden Teufelwol
+
+sicher seyn. c. 19. 9.97
+
+6. Und ob mir gleich der Teufel das Licht nicht 1 4 kann, noch verdecket er mirs oft mit der fleischlichen burt, daß sich die syderische Geburt aͤngstet, als waͤre sie fangen: das sind alle seine Schlaͤge, damit das Genf-Köri lein verdecket wird, davon Paulus sagt 2. Cor. 12. v. 7. sey ihm ein grosser Pfahl ins Fleisch gegeben worden. e.10. 100.
+
+ERWeil deine syderische Geburt mit dem einen Theil „ Zorne, und das Fleisch durch den Zorn im Tode stehet, so sie⸗ bet dir der Teufel im Theil des Zorns stets bis in dein Her! hinein; und läffeft du ihm Raum, so veiffer er dir das L der syderischen Geburt, welches in der Liebe stehet, aus den Worte. Alsdann ist dein Hertze ein finster Thal: arbeit du nicht bald wieder zur Geburt des Lichts, so zuͤndet er dir das Zorn⸗Feuer drinnen an: alsdann wird deine Seele aus dem Worte ausgefpeyet, und inqualiret mit dem Zorn Ob tes; und du bist hernach ein Teufel, und kanst mit deiner
+
+seelischen 1 c. 21. C. 4 nicht die Pforten des Himmels 92
+
+8. Wer abe!in feinem Hertzen hat, und führet ein barm:
+
+hertziges und sanftmuͤthiges Leben, und streitet wieder di Bosheit, und dringet durch den Zorn GOttes ins Licht, lebet mit GOtt und ist ein Geist mit GOtt. Denn G Ott1. darf keines andern Dienstes, als daß sich fein Geschopfe,w ches in seinem Leibe ist,20 von ihm verrücke, sondern heilt sey wie erist. 6. 22. F. 60. 61.
+
+9. Wann du Gott in feinem Himmel andetest, so betest du Ihn in dem Himmel, der in dir iff,an: und derselbe Gr bricht⸗mit feinem Lichte, und darinnen der H. Geist, dur dein Hertze, und gebaͤret deine Seele zu einem neuen Lei Gottes, der mit G Ott in seinem Himmel herr schet.e. 24.0
+
+Von denz Principien.
+
+Dus gantze Göttliche Wesen stehet in steter und er * Geburt, [p. 287] fur die Schuler der Weisheit.
+
+Geburt aber unwandelbar, gleich des Menschen Gemuͤthe: f Rade dem Gemuͤthe immer Gedancken geboren werden, und aus den Gedancken der Wille und Begierlichkeit; und aus dem Willen und Begierlichkeit das Werck, welches zu einer Sub⸗ fang gemacht wird im Willen. c. 9. . 35. i. Das Centrum des Gemuͤths ist frey und gebieret den Willen vom Hören und Anschauen, daraus entstehet die Imaination und Lust. c. u. F. 10. 2 Adam war ein Bild und gantz Gleichnif GOttes: in Gemuͤth war ein dreyfacher Geist in den 3 Principien
+
+Einem Wesen. Also solte auch fein Geist und der Wille Geiste in Einem Wesen offen stehen, als im Paradeist⸗
+
+scen; fein Gemuͤth und Seele solten vom Hertzen GOttes, und der Leib von der Kraft des himmlischen Limbi essen. c. u. L. II.
+
+3. Adam hatte die Matrix und auch den Mannin sich, und ause ihm, als aus der Matrix, die Jungfrau voller Zucht solt und Keuschbeit ausgebaͤren. c. 12. F. 10. Christi Versuchung aus Steinen Brot zu machen, 4.
+
+war anders nichts, als Christus solte das Himmel⸗Brot, welches der Mensch im Glauben und starcker Zuversicht in Ott empfaͤhet, verachten, und feine Imagination in den
+
+Geist dieser Welt setzen, und darinnen leben. c. 12. .
+
+12.
+
+15. Es kann der Adamische Mensch gleichwol im Para⸗ deis leben nach dem innern Element, welches im Gemuͤth ofen stehet; so er der Bosheit wiederstrebet und ergibt sich gaͤntzlich aus gantzem Vermögen ins Hertz GOttes, so woh⸗ nRaer ihm die Jungfrau im innern Element im Paradeis bey, und erleuchtet fein Gemuͤthe, daß er kann den Adamischen Leib zaͤhmen. a.15. 9.20.
+
+46. Der erste Wille ist rein, weder finster noch licht das Be⸗ gehren aber ziehet die Essentien der Sternen und Elementen in ch, oder den Geist. Damit wird der Wille der Goͤttlichen Kraft gefuͤllet und in Finsterniß geführet ‚welches im Hertzen geeschiehet. Dieser finstere aͤngstliche Wille fasset ihme wieder einen andern Willen, der Aengstlichkeit zu entfliehen, und das Lichtzugebaͤren. Und dieser andere Wille ist das Gemuͤthe, ng die Sinnen gehen in dieser Aengstlichkeit nicht zu blei⸗ c. 15. F. 42.43.
+
+17. Wir
+
+[p. 288] Wort dash durch 17. Wirkönneninunserm ernsten Gemu und Kraft GOttes in dem Schlangen ⸗Treter, dem Teufel inen Kopff und Willen zertreten. Also ist das Gemü inderKraft GOttes in selbsim t freyen Willen, und schwebet en ei im freyen Wesen. c. 15, f. 44. und seiner
+
+18. Das Gemuͤthe an ihm selbst ist der begcheerdeWille;
+
+die 3 Prineipia aber haben dasselbe undregieren es. c.15. 8.4 10. Das Gemuͤth ist gantz und im Wesen; die Sinnen aber sind veraͤnderlich und nicht im Wesen c. 16. . 20. Das Gemuͤth. ist auch das unauflös licheBand, u . ches Gott durchs Fist im wallenden Geist aus deme Gemuͤthe in Adam eingeblasen. Und sind unsere ewige tien nur ein Particular oder Funcke aus dem ewigen Gemüt welcher das Centrum der Zersprengungin sichat. c. 16. 8. 6. 21. Im Gemuͤth stecket die Bildniß des Geistes der Seele * worzusich das Gemuͤth anneiget und begiebet, alldain wird fein. Seelen⸗Geist von dem ewigen Fiat figuriret. e. 49.
+
+22. In diesem geben, weil die Seele im Willen des Gr.
+
+ib müuͤths stecket, kanst du die Thore der Tieffe ech zu Gott durch eine neue Geburt eindringen. o. 16. 8. 53. 23. Alles, was du in dein Gemüth einlaͤssest, sodeine E . le nicht in GOtt geanneiget ist, daß sie im Glauben und Zuve
+
+sicht auf ihnsiehet, so istdiralles Sünde e du fuͤhrest ein irdischGemuͤth in die Thoren Tieffe, da der
+
+Bar eg und ee das l fr ih Cherubs Schwert15das Reich oder die Grimmigkeit im Zorn GOttes, dader ee grimmen Tod durchs Centrum ins andere i radeis des H. Elements vor GOtt eindringen, da da be grimme Tod denirdischen eib, als die 4 Elementa,ve Element abschneidet. c. 20. 5. 45. 25: Der Cherub ist der Spiritus majoris Mundi, und das = diccheFleischfibergeschwüle Garten Eden. c. 20.046. 26. Dringet doch die Liebe nicht in den Zorn;ff Liebe wird aus dem Zorn geboren, und ista frey. Christ gehet nicht wieder in Zorn ein. c. 20. 6. 7
+
+27. Die Lust ist nicht gaͤntzlich das Gemüth; fiefind. Indde
+
+X [p. 289] „. Denn wenn die Lust das Gemuͤth schwaͤngert, so ists schon eine halbe Substontz, und muß schon eine Zer⸗ brechung folgen, oder wird eine gantze Substantz und Wesen eines Dinges. c. 20. 5.88.
+
+28. Der Menshat chdie Wage zwischen dem urkündlichsten und dem wiedergefasseten Willen zum Himmelreich, und ist eis
+
+Macher, der da machet /was er in sein Ge⸗ Denn das Gemuͤth ist das Centrum der Wa⸗ gee Sender Angel, welche aus einer Schalenin e andere geben: eine Schale ist das Reich der Grimmigkeit ub des Zorns; und die andere ist die Wiedergeburt in der
+
+KrafGt Sttesin die Himmel.
+
+Was du nun durch die Sin⸗ einlaͤssest, das wircket. c. at. H. 23. 26.
+
+Als wir uns mit Sinnen und Gemuͤth zu Ehristo an⸗ 98 zeucht der Vater unsere Seele, welche in Ihm ist, da sie dann ihre Imagination wieder
+
+Christum vor sich in die H. Dreyfaltigkeit setzet, und Ohne gelpakten VerdeDomini, da sie dann wieder ein Engel ist, vom Reiche des Teufels und dieser Welt im
+
+Tode beiffi rein abgetränt. c. 22. 5.49.
+
+Das Gemuͤth, so es treu ist, ergreift die Gottheit; f 955dich nicht so leichte; so du in Sr geboren bist, so bist
+
+81. prach beym Jacobs⸗Brunnen zu feinen Juͤn⸗ Su Ich habe eine Speisezu essen,davon ihr nichts wisset. she daß ichthue den Willen meines Vaters Ottes Wille seine Speise, warum auch —.— 25 in ihm leben? Hat nicht Cbristi Gott eee u einem Leib angezogen? Ist nicht d e sein Leib, da dieGottheitinnen wohnet? c. 23.
+
+Fi Die Seele, mit GDtt umgeben, isset von GDet, denn
+
+sie ist ein Geist. c. 23. S. II.
+
+105Du must nicht aus dem Willen ausgehen, bis du das
+
+Kleinod erlangest, und ob es waͤhrete den Tag bis in die Nacht, und fort viel Tage; ist dein Ernst groß, so wird auch das
+
+Kleinod groß seyn; so du wirstinder Überwindung erlangen.
+
+. 2
+
+5. . 35
+
+4 Die Liebeim neuen deibe ist des Zorns Gefaͤngniß im alten Leibe: denn der Zorn⸗Quall kann nichtin die Liebe einge⸗ hen,
+
+### [p. 290] XXII. gugabe
+
+en, sondern bleibet für sich einig, wie er ist gewesen vonE⸗ dieter, und darinnen sind die Teufel . dasdh Gottes schlaͤgt sie darnieder, sie koͤnnen noch doͤrfen Ewigkeit nicht erblicken, es bleibetein Principium darzwisch
+
+Die Liebe gruͤnet im Fe = Seelen, und darinnen er schei⸗ net die H. Trinitaͤt. c. 25.$ 35. Die Liebe istGHites,— — und der Zorn iistfeine.ewi⸗ ge Staͤrcke; die Liebe ist sein Licht, und der e ein ander Principium Finsterniß, und N die Teufel. c. 25. 5.4 36. Der Zorn i . Wurtzel des eebens, und so er Licht ist, so ist ernicht GOtt, sondern bollisch Feuer; so das Licht darinne scheinet, wird er Paradeis und Freut reich. c. 25. J.78.
+
+37. Nich hatt eine Seele alhie in unserm kelbe auf Erde denis Christi im begreiflichen Wesen, sondern im Worte fasset; Leib und Kraft ist wolin € pristo alles hes Kraft, welc —— wir vr aber in dieser Welt nicht die en ver ehen. c. 25. 8. 38. Der Alenertenniß ist nicht aus Ternarie 2 aus dem Leibe FEfu Christi, sondern aus der behen E der da faͤhret über die Thronen. c. 25. 5. UI.
+
+Append. Princi
+
+:- 88
+
+39. Medes Feuer muß zu zebren haben, deren Feuer 2 & seyn, in Liebe und Zorn, auch 2 3
+
+5. 32.
+
+Leben
+
+40. Dos Leben in der Liebe wird erboren, und dannn dat geben im Urkund der Qual sind wieder einander; weil nun da
+
+Leben in der Liebe nicht feindig ist, so muß ei he ] gele⸗ Creu ihm d Dornstechen und quetschen, und wir getzutragen / Unter Gedult der Sanftmuth. 9.37
+
+Vom Dreyfachen Leben.57 = ja?
+
+41.
+
+ausge Je Seele muß aus ihrem Lebens⸗Quell undim Leben GOttes ihren Willen schoͤpfen
+
+selbe geschoͤpfte Wille wird von GOtt angenommen, Gott wohnet in demselben Willen.
+
+Also kommt das Gib liche Licht eben in die Seele und ist GOttes Kind.
+
+Der an⸗ dere gefaßte Wille heisset Tinctur: denn er istein Gsantz in
+
+Jinsternißt c. 1.f.. c. 4. f.18.
+
+[p. 291] für die Schuler der Weisheit.
+
+42. Die Göttliche Natur, daraus das Göttliche Lebens⸗
+
+Ki brenner, ist mit der Liebe GOttes inficiret, daß das tGOttes ein ander Principiumin sich selber machet, dar⸗ innen keine Natur empfunden wird, dann es ist der Natur
+
+Ende. c.1. S. 21. 43. Aus dem angstlichen Willen wird das Gemuͤth, und Du dem Rad der Essentien die Gedanken. c. 2. . 40. Wir muͤssen unsere Imagination und ernsten Willen in tt fegen, so erscheinet uns GOtt in Willen und erfüller das ni, Nwir denn Gott füͤblen, und mit unsern Augen c. 2 Alle Wort und Wercke, so aus dem Ewigen erboren werden, bleiben im Wesen der Figur: dann ewig im Geist und
+
+Krast koͤnnen sie nicht bleiben, weil sie im aͤussern krineipio ge⸗
+
+46.
+
+urstendet. c.5. F.132.
+
+Im Wilen der Vernunft sind wir der Sternen und lementen Kinder, und herrschet der Geist der Welt über uns; wo wir aber aus dieser Welt Willen ausgehen, so herrschet der . Gottes in uns, und bestattiget uns zu feinen Kin⸗ dern. c.
+
+42815 WerI Willen aus sich selber in Christum feger, isset nur alle Vernunftin dieser Welt fahren, sie gleisse olle, der wird in Christo wiedergeboren: feine Seele wieder das ewige Fleisch, indeme GOtt 22 ward, ein unbegreiflich Fleisch der ewigen Wesenheit. c. 6.
+
+8. Wann dein Wille mit aller Vernunft und Sinnen in gesetzet sind, von Ihme nicht abzulassen, und solte gleich
+
+Leib und Seele zerspringen, so haͤltest duc Ott und brichst durch Tod und Hoͤlle und Himmel, und gehest im Tempel JEsu Chri⸗ sti ein, wieder aller Teufel Wehren. GOttes Zorn kann N. dich!nicht halten, wie groß und mächtig der in dir sey. e. 7. H.13. 49. Es ist kein anderer Will ein GOtt, als felig zu machen, as verloren ist, darum soll kein Mensch verzagen; dann [ sich der Seelen Geist recht erhebet, so ist er staͤrcker als unduͤberwindet GOtt, denn der Zorn ist auch GOt⸗ en ist GOttes gröffefte Macht, die uͤberwindet er; er rcker als der Hoͤllen Abgrund, er kann Berge — ohne Sturm, nur mit seinem Willen; dann durch denW g ea Himmel und Erden geschaffen; und ein — [p. 292] sie
+
+27% der Seelen verborgen,0. 8. ö
+
+50. Daß du an GOttes Gnade zweifelst, desbast du auch grosssSünde, Er istimmer barmhertzig /undistsonst kein an. derer Willeinihm alsbarmhertzig; Er kann sonst nichts an⸗ e wg
+
+Tag und Nacht ausgeßseiter nach armen Suͤnder. c. 9. F. 29.
+
+ER"
+
+51. Die Geburt des Lebens erreicht nur die Tinctur, Pr das Leben 88 denn was Gott erreichen will, durchs Feuer. c. 9.H.7.
+
+52. GOtt führe 8 Ibm ergebenen Willen in die fran feiner Weisheit, daß dumaast alle Wunder br 2 du solt nicht von Ihmeindie Wunder imaginiren; sobald das thust, so gehest du aus GOttes 3 ner Imagination gefangen. c. 10. h. 38.
+
+in dei,
+
+3. DieBiddnß G OttesimMenschen istso kraͤfig, daß, wann sie sich — 1 GOttes W̃ee die Natur baͤndiget, daß ihr das Gestirn 0h sich hoch in der Bildniß erfreuet. e. u. 9.49
+
+54. So du umwendest aus dem ne in die 3 wirftduempfangen als der liebste Engel der niekeine Sünde gehabt hat; es wird auch an dir keine Suͤnde erkant,fü nur GOttes Wunderthat, welche im Zorn muste den. Denn die Liebe vermoͤchte das im Feuer nicht: ed ger,4 auch nicht ins Feuer, sondern fleucht davor. eb 9.6 25Der aͤrgste Feind ist uns er Gemüth und Sinnen? Hl, innen der Teufel fein Raubschloß hat; und denselben auszu⸗ treiben grosse Muͤhe darzu geböret. c. 12. F. 41.
+
+56. Wann wir zu GoOtt beten, so erhoͤret GOtt unsere
+
+Seeleinuns selber im Centro, das ist, die Seele dringet mit ihrem bußfertigen Willen aus dem Centro der Angst, aus der Seelen Abgrund, und auch aus dem Geiste dieser Welt aus
+
+11.2 Principium in GOtt, welches auch in der Seelen
+
+It.
+
+c. 1
+
+7. Das Wort, welches unsere Seele geschaffen bat eh worden: das hat den H. Geis int sich, und dem anruffenden Gemüch und Willen, und eroͤffnet innen heraus in der Seelen. Wenn num der Teufel die Seele will von unten im 1. FrincipioimCentro der 4 ersten Gestal⸗ [p. 293] für die Schüler derarge 453
+
+Gestalten anfechten“ Jodringetder Seelen Wille isti ins andere Prineipium inver ae: iget, und der Teuf muß binn kin sie get
+
+So bald die Sat,=Teer eat,deskedischenSeifles | . wird, so tri ist GOttes in fein Principium, istdieSeele don Gate ser Weltgefangen, und kriegt Teufel einen Auger ibr: so wird ihre vorhin in GOtt nte Witz indie aussereen verwandelt; so 80825 ; er Mensch,essey noch GOttes Geist: O nein! das Gestir⸗ welches im Geiste Christi ruhen muß das 5
+
+Hertz und Seele zu besitzen, wo GottesG G
+
+8 g05fepnenNchalleCreaturen nachderSaatG. ties.
+
+° 0 Wen wir be poesen wirmit der Seelen vonbie⸗
+
+Wa hi em Srüchten, welche alle aus der Seelen Leib, nemhimmlischen Acker‚findausgewachsen und da⸗ Ste die Seele im Gebet wieder und ist ihre Speise an ttes Tisch.c. 16. .28. 60. Die ger isti im Himmel in der Liebe Benz, sera n. c.16. F. 30 In61. Der Wile ist der Seelen Braut⸗Wägen damit de in
+
+Ternarium danctum einfähret, darinnen derH.Geistfiger mit Gottheit. e. 16. h.31.
+
+Die Seele soll herrschen in allen Gebeimnisset /aber den Teufel nicht einlassen, weil sie in des Teufels und Fleisches
+
+W lauft, sind wir fozweifelhaftig. o. 16. . 33. 63. Der Wille soll also stets seyn in GOtt gesetzet; daßer moͤgedurchs Feuer gehen unverleget, und auch durchs aͤusse⸗ re Frincipium, als durch diese Welt; und fol doch von keinem
+
+Nang oder sich geluͤsten laffen. e. 10. 8.36. Dim eSeele istvon der Natur frey 195ssteinHerrder Nat : denn sie istein Geist mit GOtt, und machfet doch aus der Natur. Sie erscheinet in der Majestaͤt mit ihrer Kraft
+
+Glantz uͤberm Centro des Hertzens, und hat ein eigen,Prinen: in der Majestaͤt. c. 16. h.
+
+65. Die Seele hat zwey Ge alten: Eine ist Natur, und, die andere ist die Göttliche Blume oder Gewaͤchse aus
+
+Natur welches über die Natur A,185 Teuer, Lachtee Glan undbut zu sehen. e.16. §. 2
+
+[p. 294] 124 ae
+
+155er at en ho
+
+1 Pk
+
+Teufel:
+
+sowill sie auch nicht gerne im denn erverdecket ihrauchGa c. 16 eewirbeten, sogebet der Will eins Wort, und deutdas infeine.hungerige, daes und duͤrre Seele, Bahr aus waͤchset ein Leib. c. 16. F.46.
+
+68. Der Willeegebet im GebetinGOttein,dawird ermit nge Gottes Kosterfüllet, dasbrier der t Seelen. c. 16.9,48. i keibistdie q. Zahlin Ternario Santo: und hi inn i die Tinctur him̃isch; die 10. Zahl halt dasCreutzban allein der Seelen Wille gehet bin» gehen; r kann keine Creatu ein: er istso subtil als GOttes Geist, und GOttes Geist faͤh ret acein 75Seelen Willen, es istfein Wagen, denEr wem
+
+DelleMe Gottheit ist Geist, und und bin,al ein ate aber Defie ist Mensch worden: Geist GOttes in der Menschheit, daß a zu Gott kommen können. e. 16. F. 50.
+
+Seelen alsowe
+
+7¹. Der Leib ist vom Feuers. und Wassers. Centro enge :
+
+nommen. c. 17. h. 3.
+
+72. Die Seele wohnet nicht also im Aeussern; allen s. i mit demdleussern gefangen;ihr Wille istinsAeusserei gen, undgeschwaͤngert worden; isset also im Centro Nat a 4. . und deraussere Geist von der Erden. . 17 .
+
+73. Das auffere Leben stebet in 3Stücken. Eines
+
+Een Regiment; das andere ist das Element mit 4 istGötte Ren ten, mit Feuer, Luft, Wasser, Erde; das dritte giment:
+
+dann der Geist GOttes schwebet auf dem? 8 der Capfula, auf der Matrix. Welcher Mensch nunGOtt vers crauet , und nicht feinHertz gantz in seine Vernunft setzet, der bat den Geist GOttes immer zu feinem Schoͤpfer; er 1
+
+Verbum Fiat, und schaffet immerdar. c. 17. J. 5. 6. 74. Das beben stehet in 3Theilen: ) Das 5 115 ? ist SDrtes ewige Verborgenbeit im Feuer. 2) Das Mitt welches von Ewigkeit istin GOttes Wunder als ein Gleich ohne Wesen gestanden. 3) Der Geist majoris 9 cher Figur die Bildniß sich bat vergaffet, unddasäuffere Bild niß l e c, 18 f. 4. aun gi Jr
+
+75.
+
+[p. 295] 75. Das aͤussere Principium stehet nur in der Sonnen Tin⸗ ctur c. 18. F. 5.
+
+2056. Der Mensch hätte sollen in GOttes Willen bleiben, und keinen andern schoͤpfen: denn was die ewige Essentien in dem Zerbrechlichen würden wircken und eröffnen, solte ewig stehen. Die Seele wircket im Centro in ihrem Willen, und der Sternen⸗Geist im Leibe, in Fleisch und Blut, und hanget der Seelen an,daß sie darnach luͤstert, und thut als der Ster⸗
+
+27.ee Diee Seel e wohnet nichtngenimaͤuss ern Geist; wol lberhat ch dufisn u — Geist in die Seele als ein Schalt eingeflochten, er er hat nicht das Principium innen, dadie Seele innewoh⸗ ne/t eristnur ihr Deckel und Verhinderung. c. 18. . 13. 78.Es ist noth aufzuwachen, nicht in viel Forschen, son⸗ dern in sich selber zu suchen. c. 18. H.14. 29. Zwo Suchten sind in der Seelen; eine ist die geitzige, mige Feuer⸗Sucht: die suchet immer das irdische We⸗ sen; und einevom Geist, welche vom Feuer ausgeboren wird, das ist GOttes Sucht, und suchet Himmelreich. c. 18. F. 10.
+
+800. Der Ewigkeit Leben istblos allein die Liebe. c. 18. F. ar, St. Der Teufel ist GOttes Grimm im innern Centro, wel⸗ cher auch dasAlleraͤusserste ist: Sein Reich ist die Finsterniß in der Natur. Der Mensch soll eine Frucht aus dem Seelen⸗
+
+Geisinte Kraft des H. Geistes gebaͤren: Nicht nach der fin⸗
+
+stern Gestalt feiner Erden, sondern aus des Lichtes Kraft.
+
+Seelen⸗Fragen.
+
+82.
+
+Je Finsterniß verschlinget das Licht nicht, sondern sie sind in einander. Fr. 1. F. 7.
+
+83. Das Licht bat Kraft, die Nasterniß hat Herbe, hart,
+
+Ka des ltWille ; ns Begehren machet Essentien und Anziehen.
+
+das Licht wird in der scharfen Regung im Wesen geschaͤr⸗ Und hi" 8.9. fet. Fr. 1. .
+
+35 . herben Begehren ist scharf brennen: dar⸗ — 7 das ewige Feuer im Aeussern finster und in sich hinein im len der ewigen Freyheit ists ein Licht, das da scheinet in ber stillen Ewigkeit. Fr. 1. h.1u.
+
+55.
+
+das heisset Principium ; und insich allein wohnet, S 2 das,
+
+### [p. 296] XXII. Zugabee
+
+das, darinnen eswohnet, heisset Natur, und batzGate und
+
+Gestalten. Fr. 1.$. 30.
+
+1 4 %u
+
+86. Das Principrum hatgur Einen Geist und Willen, und ist die Reste aus dem Willen der Ewigkeit een $.
+
+Er Was in sich ist, ittaus sich nicht keũtlich aberdada
+
+Geiste wol fühlen. Fr.1. . 33 88. Gehet aus eurem riefen Bernunft: Foeschen osin
+
+Gottes Willen, in GOttes Geist, so ist euer Wille GOttes Wille: und GOttes Geist wird euch suchen in euch. —— euren Willen in ihm finden wird, so offenbaret er sich in Willen, als in seinem Eigenthum. Lasset euch keine schrecken: Es ist nichts das das koͤne wegnehmen als eure Imagivation, die lasset nicht im Willen, so werdet ihr GOttes Wunder in feinem Geiste wircken. Fr. 1. 8. 30. 2 38. 3 i 89. Sucher die erste Wurtzel der Seelen, alsen Leben, und die zwepte im Licht-Leben in der Majestaͤt, werder ihr GOttes Bild und Gleichniß finden, 10 die e heimnisse der Gottheit liegen. Fr. 1. 5.5. 90. Der einige Geist scheidet sich in 2 Principia oder a Gei 4 aber nicht abtheilig und doch voreinander fliebend. Fr. 1.5. 65. 91. Das ewige Feuer brennet ewig; es istaher ein Seist un im Reiche Gottes auf grimmige Art nicht offenbar. Fr. 1hr. 02. Das Licht istvom Feuer⸗Quall auchbegebrend em⸗ lich der Sanftmuth und Kraftin sich selber; das Licht 5 uc ein Feuer. Die Feuers⸗Grimmigkeit und des Lichts Schein sind 2 Principia, zweyerley Quall: Eine iede wohnet in sich sel⸗ ber, und begreift keine die andere, da d Leben und Ursach ist. Fr. 1. . 92 einesdesandern
+
+93. Im Feuer mag kein ine Verstand son,ch der Begierde des Lichts: Darum muß sich der feurige Wille zum Hertzen GOttes, als zur Kraft des Lichts und Ren des, wenden. Fr.1.§. 123.
+
+Un
+
+94. Die edle Bildniß gruͤnet aus dem Seelen⸗Feue eine Blume aus der Erden, und hat kein Fühlen derfeuri⸗ gen Eigenschaft; dann das Feuer stehet in ihr — schlungen, und da es doch ist, aber in anderer Qual, al gierde der Liebe, ein Licht ⸗flammendes Feuer in e genschaft. Fr. 1. . 126.
+
+95. Die
+
+[p. 297] 5. Die Bildniß stehet auffer aller Qual und wohnet nur ng selber, und durch sie GOtt, wie der Apfelam Baum, dem Br Gone Reihe, Fr.I.1 C.127. neeSo sich der Willen⸗Geist etwann in Tod Christi ein⸗ und doch auch heftig an den Grimm angebunden if, hanget wie an einem Faden am Tode Christi. Diese See⸗ eine Weile also brennen, bis der Willen⸗Geist kann in Tod Christi eingehen, bis ihr spderisch Holtz ten denn es hat Leib und Wesen verloren, und stehet blos
+
+Sr 1
+
+22 in der Goͤttlichen Tinctur, als in der 4
+
+Fer: Mensch in GOtt geboren wird das Ewige danner istaus dem Zerbrechlichen ausgegangen, und en. 3 Christo angezogen, der hat GOttes Leib im Al⸗ „Fr. tes!Wille ist nur diebe: Die Turba aber ist sein e; der hat mit seinem heftigen Hunger ein groß chfeiner Offenbarung in feine Wunder gebracht ,ald die Dae und gottlose Seelen. Fr. 1. . 252. 99. Der rechte Feuer⸗Schmid (dieSeele) figetim Her Ken, und Re:‚ein Regiment mit dem Geiste im Kopf; da Rath⸗Hausals das Gemuͤth, und die 3 Fürsten⸗ sein ter als die5 en fir aus den Geistern des Ver⸗ standesentstehen. Fr.1 e dichtinter sich/sondern vor sich in die Ewigkeit.Fr. i
+
+1er. Die ei 6 Stkesistmagisch, und so subtil als ein unddünner als die und noch vi-. ja viel subtiler eselbst. Sie it als GOtt, der in der ewigen Freyheit Also auch deine eBildnißwelche doch im himmlischen Fleisch und Blut ste⸗ arGeOttes Leibe: Sie ist Christi Blut; und deine Seele wohnet darinnen. Sie barinnen das Feuer der Majestaͤt, und derH.Geist sitzet im See aus der Bildniau ßs mit Stim· en ꝛc. Fr. Wille 3901 die Sinde;; sie kommet von der Iimägination in Geist; der Geistgehet in ein Ding und wird gar g.
+
+4.
+
+TEE EEE
+
+S 3
+
+DR
+
+103. Us
+
+### [p. 298] XVI. Zugabe
+
+103. Alles ist Sünde, was 1 das Aeussere insInne⸗ re (im Willen) zu führen. Der Wille fol schlecht indie Liebe und Sanftmuth gerichtet seyn, gleich als ware er nichts oder todt; er soll nur GOttes Leben begehren, daß GOtt in
+
+schaffe. Alles, was er sonst thut, soll sein Wille so ge
+
+seyn daß ersGoOtt thue; und soer feinen Willen ins Wesen gesetzet, so fuͤhret er das Wesen in Geist, das besitzet ihm sein Beg also ist die Turba geboren. Fr. 15,0. 104. In dem Geist, aus der Seelen geboren, wohnet Bildnig DOttes, mit der Goͤttlichen Jungfrauen beit SOttes. Dañ in dem Geist lieget aller Verstand und er hat die Sinnen und das edle Leben, das sichmit GOtt ver⸗ einiget; und ist so subtil, daß dieser Geist kann und mag in Gott eingehen. So sich dieser Geistin GOtt einer und feiner Seelen Teuer⸗Pracht und Witz wegwirft, soere langer er GOttes Bildniß und GOttes Leib; het mit dem Willen in GOtt ein, und wohnet mit in Gott; also hat er GOttes Wesen an sich undifen 5 dieser Welt im Leben GOttes. Fr. 37. f. 9.
+
+nuMus
+
+Umgewandt Auge. 105.
+
+e Seele ist eine gantze Gleichniß und Büldniß
+
+I Dreyfaltigkeit, da man die Seele a Naturæ verstehet, und ihr Feuer⸗Leben fuͤr das 1. Prin Aber der Seelen Aus gewaͤchse oder 9 = Gleichniß Gottes ist, waͤchset aus der Seelen aus Blume aus der Erden, und wird vom 10105 (anf sie ist fein Wohnhaus. So die See der Feuer⸗Qual ins Licht GOttes — 15emrfäbete Licht, gleichwie der Mond von der Sonnen Glantz. Also het ihre Bildniß in der Majestaͤt GOttes, und die Seele i Licht GOttes; und wird ihre Feuer⸗Qual in eine Sanstmu und begehrende Liebe verwandelt, da sie dann für GOttet
+
+Wille erkant wird. F. 6.
+
+Je suChristi lTheil. Liebe be einzuge
+
+33 einem When Seitee Bu 4 rrdas Paradeis wieder in feinem Willen⸗Geist, un [p. 299] für die Schuͤler der Weisheit.
+
+pfähet an fäneBildniß wieder himmlische Wesenheit, iinwel⸗ Geist regieret. . 6. $.17 dam und Heva gingen 1 Himmel in diese bo⸗
+
+Sa N
+
+Centro
+
+Naturæ
+
+Hallen in Ru N wiederwärtig war. c.
+
+Sinnen da je ein Sinn dem wen
+
+108. Gleichwi dieh 110 das Wasser diefeWeltfil.
+
+let,und wir derselben alle geniessen; also ist im verbor⸗ die Göttliche, Wesenheit, der wir geniessen, so wir mit c.
+
+und mit dem 2 uns dreinergeben.
+
+en "Ber Teifelfeßet feine Imagination mitfeinerfallen ur auchin die Liebe, und vergiftet der Seelen ihr bestes Heinod „wie er dann Adams Seele mit keiner Imagination iret.c. Ir. S.
+
+4.
+
+"Unsere Wiedergeburt stehet blosinder Imagination, mit unserm Willen in GOttes Willen eingehen, und 0 n und ergeben, mi en 1 7 42 827e e ae ein HA [p. 300] eiblich gug abe noch ewig, ae 62 er fi erm ewigen W Sa alsoistereinZweig in GpttesBug aus CprifiBau 6.6.12, st< 115. Wirmüffeneinen Krastdeibhaben,aber in Sleifeh und Blur,darinnenistabereinGlantz der Ti denn der Geist ist alsodünne, daß er vom Leibe’ ene jiist d cee sonst waͤre er nichts.155
+
+Leibistviel dicker als — und essen mag; davon erdas Geist⸗ LebenimFeuer 125 Austen Gegeben s dem Licht die in Jleisch und Blut, daß alsoeinewig1
+
+Ne. Der Galt, babsdem Seelen: Feuer ausgehet, siehe en Himmel: der schauet GOtt und die Ewigkeit; der ist das edle Bild, nach GOttes Gleichniß. Der Geist der derm Seelen. Feuer aus GOttes Sanftmuth und Wese eri auch der H. Geist; Er ns it 9 nimt sein Sehen aus * a Satec. 7. F. 3.
+
+In Liebe und
+
+Dot en baden, in dieser Welt wieder ihn streiten
+
+FR uf
+
+Lebe ist fein Gift; en ihme ein Feuer des!
+
+ernicht bleiben kann. a er ein een im Gemüt 8
+
+Sn
+
+ON Si ensch n im Willen⸗Geist; 125 und Gott gibt sich den
+
+"Sinnen en Been afödenn
+
+Shan die Kot GH tes dem Willen und der W pen
+
+sie mit Freuden an; aber mit Zittern. Denn = kennet sich unwuͤrdigdieweil eraus einer vauhen Herberge, alsan Apr een tigen Ortulp herkommt.0‚io:.8. eee
+
+Al 5.
+
+Men [p. 301] für die Schüler der Weisheit
+
+Menschwerdung Sei Christi 3.Theil. Sekten.anderer Weg derda richtiger sey, als nur mit dem Willen aus der Vernunft auszugehen, und
+
+| 5 wollen suchen, sondern nur in GOttes Liebe und in es Willen sich gantz einwerfen, und alles, was die Bere unft in den Weg wirft, liegen lassen. c 2.9.7: GoOttes Wille muß ein Herr über die Vernunft wer⸗ ba den, soll die Vernunft etwas tuͤchtiges machen, daß es vor bestehe :dann nichts bestehet vor GOtt, es werde denn Willen erboren; so sich nun der Willeiin GOtt ein⸗ Baal 0He Willen⸗Geist ein Kind GOttes, und also die Wunder vor GOtt, welche mit dem Ver⸗ chet werden, denn sie werden in GOttes fä rs 1. Ds sol Gl A berste i⸗ ird Wi mu boren werdenda ls Zor id z, Ho a5 ae dem Geiste GOttes.c.5. H.2.
+
+Mensch soll die Wunder der aͤussernRatur, Sed & enau Bent
+
+Erden ꝛalles dasEnsoll der Mensche vermögen und die Erde in dre esen brin⸗ ewigen Figur, join GOttes Weisheit istvor den elt gesehen worden; aber feinen Willen soll er ennoch daffelbige vor feinen. Se achten, ere rn nuran einBe reude mag ers gebrauchen;
+
+ars rio scte Ny sol Men dem inn suc sse Aeu Gei SE durch den schweren Fall Adams also verder⸗ daß wir 9 55uns gantz 285von nöthen, 8e chen Glantze m 4unserm Gemuͤth und Willen
+
+Br 4
+
+715 suchenschewir denirdischen Schmuck u und daß wir vor erst lernen kennen, wo wir daheime 8. 5.9 c. mac irdi ͤth Gemu uns ind und
+
+Sec
+
+[p. 302] XxI. Zugabe
+
+Scchs Theosophische Puncte. 120 nderEssentien Sohn, 1 derWile, dor⸗ 124. US bebe n Va⸗ innen des LebensFigur stehet,ist ter: Dann keine Essentz mag ohne Willen ae ne geurstaͤndet,inwelchem die Willen wird das ururstaͤnden. c. i. Das Gemüth hi frey, und ist der 4 5 und jide Ve and, es mag hinwaͤgen wohin es will, und mag will. c. 2. 5. 54a. ut 4 hem einem Principio welc es
+
+126. Die diebe läffer den Grimm nichtinsich:
+
+geschieden und stoͤsset die Liebe den Grimm Bench ar begehret auch nicht mehr der Liebe Eigenscha 5. I
+
+75 Wo die Willen in den strengen Gestalten der wollen Herr seyn, so ist eine Trennung, und eine ewigeF schaft, denn eine Gestalt feindetimmer die andere 1 erhebet sich. c. 5. f. 5-
+
+Sechs Mystische Puncte.
+
+Je innere Imagination fuͤhret den aͤussern Wilen nus De Fine“72 1davon wrd de a kn und Fleisch ichen Wesenheit und wird die edle td
+
+Fed 5, 18.7. 9. Die klebe hat nur eine Qual und Wilen, ice
+
+* re Gleichen, und nicht viel; denn das Gute ist nur nes aber die Qual istviel und welcher menschliche Wille viel b gehret, det 15sich indas Eine 8 Gott w die Qual der Vielheit. Denn das Etwas iftfinfker und finstert das Lebens: dicht, und des Eine ist Licht,
+
+sich selber, und ist kein Begehren nach m des vebens Wille in das Eine, alsindasGute ger
+
+Al ane Einer SQnot. P. 3. C. Z. g. 130. Alles,was in GOtt bestehen Einund seyn r feines Willens ledig seyn, und in ihme in feinem Wi deln, es muß kein eigen 11 in sich brennend haben sondern GOttes Feuer muß beener seyn. Sein en G Ott geeiniger En daß 955 MeYandes Menschen Geist nur Einer sey. P. 3
+
+Ann
+
+131. Was Eines i Keine sich nicht: Es batnur [p. 303] für die SchulerderWeisheit.
+
+dasist Ei⸗ oder was er dann thut, err
+
+10e in SD seyn will das mußin ibm inseinem Bil a — 52 So wir denn in GOtt nur Einer sindin vielen
+
+soistsja wieder GOtt, so sich ein Glied vom andern iebern, entzeucht und machet einen Herrn aus sich selbst. P.3.8.21. 133. Alhier ist uns zu betrachten das Wort GSttes, das
+
+Mensch ward: So der Mensch seine Begierde darein setzet,ger het er aus der Qual aus feinem eignen Feuer aus, und wird im Wort neugeboren. Also wohnet der ausgehende Willein Gott, und der erste in der Begierde der Vielheit. P. 3. S. 24. 4. Des Lebens Wille muß im Streit wieder sich selbst ge:
+
+richtet fen, denn er muß dem Grimm entfliehen, und den nicht wollen er muß die Begierde nicht wollen,die doch sein Feuer milunda haben muß. P 3.6.27.
+
+Die Imagination ist sanft und weicheund gleichet dem die Begierde aber ifrauh und duͤrre als ein Hunger.
+
+ir Geist ist fliegend, und der Verstand
+
+5. F.104 9736. Magia,machet Götlch Fleisch, und der Verstand ist aus der Weisheit: er istein Erkenner der Farben, Kraften und Der Verstand führer den rechten wahren Geist 137. iceit Get vom?Verstande abweichend,sondern er ist der N aber fa de sind ausfl. e ende. P
+
+Flammen der e2e
+
+Blitz
+
+Verstan⸗ einen Seim;
+
+ver:
+
+SE Berstand ist fdos Kraft euer ennehde;
+
+Feuer hei und ist doch nur e
+
+Masestat; un
+
+Kundas
+
+Brincipium und die Magis Begierde. 11 59.18.
+
+504 „N herum if der magische Wille, welcher noch in der glerde stecket, der mag sich im Spiegel der Weis heit bilden idee und himmlisch Mysterium.
+
+muß Ernst seyn den Stern⸗Geist, der in ihmberr| 85 schet zu zahmen: 6 darzu gehoͤret ein 2
+
+[p. 304] Leben, mit steter Einwerfung in GOttes Willen. Denn den Stern⸗Quall zu bandigen, thuts keine Weisheit noch Kunsf,
+
+sondern Mäßigkeit des Lebens mit steter Ausgehung aus den
+
+Einfluͤssen: die Blementa schmeissen immer die‚Sternen,
+
+705 IR
+
+Willen. T. 9.9.2 in den t Such
+
+Bon wahrer Bufleerftes Büchlein.
+
+Hier Gemuͤth ist von GOtt abgewandt, suchet eox Irdigkeit, liebet sich mehr als GOtt und den Nach, des Teufels Begier⸗ fien:ist an 3 Ketten, als an GOttes Zorn, de, undandas irdische Fleisch und Blut fe 8.1.2319 143. GOtt kann in der Liebe Christi, indem hoch Namen JEsu nichts Boͤses wollen, in diem Namen ist kein
+
+Zorn: Blick; Ey ist die boͤchste und tiesste Liebe und Freue, allergroͤsseste Suͤßigkeit der Gottheit in dem grossen Namen
+
+JEHOVAR, welchen Er in unserer verblichenen une himmlisches Theils, hat offenbaret. 5. 16. 344. Die Verleugnung verstehet Christus auf dos Su sche Gemüth daß wo etwas ware /welches aufhalten, wie schoͤn und herrlich das in e
+
+Wel zuen ;
+
+auch fehiene, das Bemüth doch nicht achten soll,so wollen entbebren als die Liebe der edlen Sophia im der Blumen Christi in feiner zarten Menschheit rn Bimmlifcher Leiblichkeit. s. ee VRR en dene e wird, welches gro die nVe a alsbald Kre üͤrfatzes geschicht. and ‚Sophia an, da 2 . mit gar ini mit einander einbrinden.ae kurtzer Frist ner eu DE. ophii als
+
+Ha BE Menschheit Christi) mit der Seelen dern
+
+ErsteSchuß Schriftwie der 0 [p. 305] heit. ͤlWeis für die Schuder muß sein Willen⸗ Feuer immer loͤschen, und alle feineSinnen aus dem Gemuͤthe in GOttes Geborsam in die Liebe und
+
+Barmhertzigkeit GOttes in Christo ‚in feine Menschwerdung,
+
+Leiden, Sterben, Tod undAuferstebung immer einführen: Er muß nichts wollen als nur GOttes in Christo. Seines Flei⸗ sches Willen soll er immer tödten, und nur GOttes Willen in a daß derselbe ihn regiere, treibe und in ihm das
+
+Thun
+
+4 d.68. 69.
+
+147. Die Sünde urstaͤndet an dem Ort,wo GOttes Licht etnn ist keine Sünde ‚fons /dari icht scheinet; wo es aber schein da ist eitel eiebeund Sanftmuth. S. 339.
+
+AZ deyte Schutz Schrift wieder B. T.
+
+r Geist GOttes muß im Centro durchs Principium
+
+Ber:
+
+undim Mysterio de8&es, haider Seelen geboren werden, und darinnen regieren und leuchten. Er muß muͤths aufgehen, des Menschen Wille und Thun werden; ja fein innerlich Leben, und Verstand muß Er seyn, und der Mensch muß in ihme ge⸗ lliassen seyn; anders ist kein rechter Glaube oder Göttlicher Berftand im Menschen, sondern nur Fabel und Babel. F. 16.
+
+9 = wahre Bildniß GOttes lebet nicht im aussern
+
+Welt⸗Regiment, behilft sich auch nicht der aͤusserli⸗
+
+235 s inihr‚und sie in Ehristo lebet. Welches Essen in isset von Goͤttlicher Wesenheit, nenn GOttes Brot von Christi Fleisch und Blut; also daß cher Begierde stehet, damit die Seele in ihrem Hunger⸗ „and lu Feuer gespeiset wird. $. 27. 10. Der Geist GOttes fahrer nicht von auswendig in die
+
+Seel 9 17 0 er eröffnet sich durch das Seelen⸗ Feuer und istdespeilb Erer durch das Licht⸗ Feuer der Bildniß in sich fe ; MenschenEigenthum. Wann der Mensch in ernste Busse igen
+
+, fasset ihm einen ernsten Willen in die Barmher⸗ eingehetund gigkeit und wirft von sich GOttes, in ihme selber einzugehen, en falschen Willen, so wird das Korn gesäet, daraus die edle Blume in der heiligen Dreyfaltigkeit waͤchset; verste⸗ bet „der Seelen Wille wird damit aus der sinstern Welt in enn
+
+Kuni [p. 306] die Licht⸗Welt eingewandt. Und wann sie dann in die Lichte Welt ins Centrum der Gottheit imaginiret, als sie zuvor hat in diese Welt imaginiret, so wird sie in sich selber in ihrer Ima;e⸗ s di gination oder Begierde des Heilands schwan ung aur fer Schwaͤngerung wird GOtt immer in alle Ewigkeit rechte neue Mensch GOttes Speise, und ren. Also wider Gott wird des Menschen Speise, und also sind wir in GOtt td, sind und Gott in uns, und wircken in und mit GOtun
+
+125. 122. 6.e feine rechte Kinder in Ihm
+
+Vom nein
+
+151.
+
+Ves
+
+Secten Ef. S. und
+
+Wesen ist Kraft JEsu und der Seelennatuͤrlich
+
+Je h. nicht Eins in der Effeng; denn in JEsu war die
+
+selber, Ott Qual gantz heilig schaft lag der Wurm des entzuͤndteten Zorns GOttes welchen a Bediefer heiligen Liebe aus JEsu wolte toͤdten und lo⸗ en. 6. 489. Jungfrauschaft, herwieder brachte 152. Ebrätus
+
+Conjunction ewigen unzertrennlichen Einer zwo Tineturen Wesen, Begierde mehr in der Liebe,
+
+Kraft; Begierde einig sondern in Adam war, Foo eine Wesen, mehr gebaͤren Tincturen Hei⸗ Geschmack Kung /sondern heilige ligkeit. F. 502.
+
+Th.
+
+Von den letzten Zeiten an P. K. I.
+
+Gerechtigkeit Helm 153. 883% muͤssen
+
+Liebe auch der Keuschheit und Reinigkeit
+
+Streit dieser Fuͤrsten ben, wollen nichts; Glantz äusserlichen keinen er giebet auf Wolthaͤtigkeit überwinden, auch soll die denn streiten; Ritter⸗Kräntzlein Also können uns, Kriegs⸗Mann haben einen gewaltigen boden, bald schlaͤget uns in Leib und Seele, in‘ werden, überwunden mag anders nicht gegen damit loͤschen, Feuer giftig sein kann muth, die 5. streitet. Bild edle inuns wieder uns und
+
+Th. K. P. Zeiten Von den letzten
+
+Zieffe, eigene seine forschet Geist ieder 154. S*
+
+[p. 307] F' P für die Schüler der Weisheit.
+
+derin feiner Ent. jenige, darinnen er sich entzündet: unob det doch nicht mehr als des Dinges forschet, so fin er
+
+155.
+
+Signatura Rerum. daßereine Des Wenschen Geligkeit stebet indeme, rbild oder Schatten. So er das Wesen schauen will, muß er im Wesen selbst seyn, und das Wesen inihm. g. 3. rechte Begierde nach GOtt in sich habe, dann aus Begierde quillet die Liche aus das ist, wann die Begierde tes Sanftmuthin sich empfaͤhet, soersincket die Begier⸗ dein der Sanftmuthinsich, und wird wesentlich; das ist als⸗ dann bimmlische oder Göttliche Wesenheit oder Leiblichkeit, Zorne, (welcher Seelen⸗Geist stehet darinnen lag) in der diebe GOttes wieder auf, dann diebe tingiret den Tod und die Finsterniß, daß sie der Goͤtt⸗ u. 8. 5. c. ist. fähig Glantz Sonnen
+
+156. Der Natur Eigenschaft soll schlechts nach der sreyen Lust fen;
+
+Eigenschaft, als nach GOttes Liebe⸗Wesen gerichtet seyn:
+
+feinen Hunger nach der Liebe richten: so empfaͤhet der unger die Liebe in sich, und machet dieselbe in sich zum We⸗
+
+so ist der Hunger nicht mehr ein verschmachteter finsterer
+
+Hunger „der in. sich selber sticht und wuͤtet als ein giftiger fercurius, sondern wird eine Liebe⸗Begierde aus dem Hun⸗ ger, der heissetGOttes Natur; und die hungerige, feurige isset GOttes Zorn; und in der Auffern Natur heissets ein
+
+157. Der Menschliche Wille muß aus allen Kraͤsten in eit 111ag hen. c. u.
+
+9.
+
+als in die hoͤchste Zinetur, einge
+
+158. Der Grimm, welcher im Menschen hatte die Liebe
+
+* 70v c. Il. G 42. reich.
+
+150. Die n und Lichts⸗Tinctur muß in Eine kommen; 3Baters be und Zorn muß nur Ein Ding seyn, so heisset be Ding die Freudenreich: also lange es zertrennet so ist indem Ding nur Angst und Quaal und eitel Begierde, ists ei en n brebrennernne, t, so füW inem em Will Wille wann es aber in Ein den⸗
+
+[p. 308] Aus gehen aus sich selber? und diese außgehende Eigenschaft heisset der Heilige Geist, als das Leben der Gottheit. e. 11. K. 44.
+
+160. Ein iedes Leben, das ohne Mackel seyn will, das im Willen⸗Geist zur Natur im Feuer des Eckels der ersten
+
+Impression des Grimmes absterben, und mußim Willen⸗
+
+Geist zur Natur, als ein gelassener Wille sich lassen durchs
+
+Sterben im Lichte der diebe ausführen / es sey himmlisch oder irdisch, somuß es den Proceß halten, oder kommt nicht zur feinem Gradu. c. 14. 5. hoͤchsten Vollkommenin heit
+
+161. Die Creatur kann in ihrer Selbheit, 10
+
+73. 7 tigen Regiment, nichts Gutes wollen noch thun, und wie ihr selber nichts als nur das Sterben und den Tod anthut ihre erwecket und qualificirend macht, also kann sie auch Mitgliedern anders nichts thun. Denn daher urstaͤndet GO: die Lügen, daß die Creatur die Einigkeit im Willen verlaͤugnet, und ihre Selbheitandie Stelle setzet, daß sie aus der Einigkeit ausgehet in die Begierde und eigne Lust. Er⸗ kennete sie daß alles Wesen der Mutter sey, die sie geboren
+
+Eige bat, und bielte nicht das Wesen der Mutter, für ihr thum, sondern für gemein, so entstuͤnde nicht der Geitz Streit und Wiederwille, aus welchem der Zorn, als das Feuer der Zerbrechung entstehet. c. 15. 6. u.
+
+162. Alles, was in der Natur läuft, das quaͤlet sichz was aber der Natur Ende erreichet, das ist eine Ruhe ohne Quaal, und wircket doch, aber nur in Einer Begierde. c.15.
+
+8. 52.
+
+Von der Gnaden⸗Wahl.
+
+163. Muen feurigen Ente der Liebe gehet mit dem
+
+ste über sich aus in die Höhe die Tinctur, als
+
+Geist⸗Waͤsserlein, die Kraft vom Feuer und Licht, welches
+
+Ta! Name heisset Jungfrau Sophia. c.3. H. 21. 164. Das Geist⸗Waͤsserlein ist die wahre Demuth, sich alsobald mit der Temperatur transmutiret, und vom Lich?
+
+te wieder eingezogen wird. Denn es ist des Lichts Seele n der Liebe, und die Feuer⸗Seele ist der Mann. Hierinn lie die beyde Tineturen, Mann und Weib, die zwey Lieben, welche in der Temperatur Goͤttlich sind und in Adam geschieden
+
+-_
+
+[p. 309] Mus die Schüler der Weisheit.
+
+Imagination aus der Temperatur aus⸗
+
+Cheeaber wieder Haiger ist werden.c. 3 Feein
+
+46 In355der8 Mb:
+
+2 nb be4 besten Gestalben niche inIe
+
+Fatet sich in der
+
+T, eer:3 — a 5Hide het.
+
+ewig c. 3. 27 hr.
+
+6un sua l istallei⸗ een daEr ade und wandelt sichnimmermehr in einiges
+
+Er aun ant bricht;gonfienen dem Wort seiner ung /da Natur und Crea⸗ und Bene: Uran, aba Beaach die Gere;
+
+80⁰ Werd
+
+Adam ist ed geformte,‘er
+
+Kun:ee das lageneee N N.
+
+nie
+
+It 221
+
+169. Adam und denvalerendasae er und neh ih 1 en Bann, bu dat eben ahnedas sa iR.che3 — diesem natürlichen. Feuer+ Leben. ist idzwischen Goes Bebe und 30 0 das
+
+610.80 5 W n imKaeni Ohr
+
+5 a 1775in ist *df
+
+| 1 [p. 310] ist das natuͤrliche5 der cage, 6 darinnen sich GOtt einen eiferigen GOtt nennet.
+
+Temperatur dend ai ra dritte Grund ist der geschaffene Mensch aust 2 Erden mit Sternen — 10 Elementen in welche in Ada 1085 Cteation aller
+
+C. 37. 38. In des Vockts Eigen 7 und N
+
+Willen de
+
+Nun liegts a
+
+Sophia in2 ng 215 Deepbeit aru— ‚oder in die Geb—. als nemlichdahernchenBae oder le lauffeund renne. c. 7. 5.54.
+
+n! Die Seele soll von der Bidüchtelt der irdischen
+
+Creation stillestehen, undnichtirdisches Ens in ihr Fene ben einführen, daraus ein falsch Licht entstehet; so will ser Göttliche Fuͤrsatz inder hoͤchsten Tinctur aus dem H. due mit dem H. icht sich.
+
+Prin auf Art wieein euer der Seelen muß sein recht kräftig Licht geben, denn aus dem
+
+Feuer wird GOttes Geist in era Kraft schiedlich und a:
+
+dar in der Natur der Seelen. c.8.H.88.
+
+174. DieSeeleistselber ihr Grund zum Böen wer ten; denn sie ist das Centrum GOttes, da GSttes N
+
+Zorn in Einem Grund unausgewickelt lieget. e. 8. d.10 5. Die Gerechtigkeit GOttes in der Stelen
+
+008Sit, welche GOtt von der Seelen rde sie die Sünde solte ausstossen, und darüber K Gott über den abtruͤnnigen Willen der Teufel. c.g. 36.
+
+Von! der H. Zauffe, erstes Büchei en. die Seele
+
+3855 zu a
+
+Sa en
+
+Sprechen hren
+
+Willen, et, sohat und efomn [p. 311] m wesentlichen Wort Gottes, als v
+
+Weis be!BD: Dieleist ihr Votfisst, N Sr eg sie auch Göttliche Wissenschaft erreichet und be: kommet. Dann ein jeder Geist stehet anders und tiefer nicht als nur in feine wesentliche Bildlichkeit, als in dat
+
+—. a
+
+ED aus auetac und boch feine Ertenniß, c. I. 6. 15. 16. a 8 ewige Wort Göͤttliches Aubhauchens ist Man n eee Bun Bois
+
+Rund bat seine wesentliche Liebe, als die ef;
+
+en ei
+
+178. Liebe⸗Feuer, soim Oper des AltenT ments dem Zorn ent;ed Fund 1 7 auch ten guͤndete, das ist,das Opfer aß das en im Ziel des Bundes im Weibes⸗ Samen mit ‚bit cher Wesenheit als mit wesentlicher Weisheit er wecker md i Funser an 1 55verblichenes hne Wee eine
+
+@adenpat.ca.6.3,
+
+Web e ‚Myflerium. Magaum,
+
+Zornin wah rt Aue 2 1 IR
+
+180. Aber dasist da
+
+5 das Sr
+
+— der Hasen,
+
+sse
+
+Ubel t, daß das
+
+Bun tut die Nen dur
+
+#### h. "de
+
+ierde erreget e daß sie im Grimm wach⸗ alificivet als ein Gift im Leibe. c. 11. F. 13.
+
+dig 18m Die Seele ist das ausgesprochene geformte Wort,
+
+Sie ist der sur und das Leben der 3 Principien Goͤttlicher 0.15. C 25. 182. Einjedes Ding soll seinen eigenen Himmel als feines cat, daraus es isterboren worden, be⸗ “16. 9.25,
+
+185.8 [p. 312] ugabe
+
+183. e geboren wird, und ale
+
+15hiBiel was ni einen2 keit und Wahrheit, daß es wil was Gutes auf Erden
+
+seinem Naͤchsten zudienen. c. 22. f. 75. 184. Ein ieder Mensch soll(ineNächten. Nu undp erihm diene und nutze, gleich wieein ge suchen, wie Baum dem andern seine Kraft, Essentz und Wese in Einer Begierde wachsen und Frucht bringen. c. 22 15 falsch Gewach
+
+185. In aller Selbheit und Eigenheit istein kr &nBruder soll desandern Artzt und Ergu und ihm sein ee ua Uebe⸗Willer C. 24.
+
+2E
+
+Anu
+
+Art dc end,
+
+6 er istgegendis Sanus au mi: ber reatur ihreBegierdein Ihmeals in das Nichts einge 14 so wird e und wircket das Nichts im Etwas der
+
+Creatur
+
+Creatur im Nichts, und in dem Wircken mag feine, © baentstehen, denn es ist fein eigen Liebe⸗
+
+Aer c. 24. . 27.
+
+uns het an der Natur Ende mit einem dat
+
+Lehen.
+
+187. Einer machet in seinem geheinech 0.
+
+Fe ein gen waserheutemachet, erbrich n, und z e 755 m Gemuͤth; 15di9 60 „Me nsc 158 a ak
+
+Schlangen⸗Same ist des Teufels Reit Pferd und es im Menschen kann wohnen. e. 24. F. 32. der Edlen Sophies Mann, 189. Die Feuer ⸗Seele ist des Weibes Samen. Sie ist des Feuers Tinctur ;un phia des Lichts Tinctur, so die Tinctur des Feuers gat s ft,. €: 22 Wer Gott hat dem Menschen Gese die Lust brechen, und mit dem 251700 1 die Finsterniß herrschen; so ers nun nicht t
+
+[p. 313] Schuler Weisheit. dert ? eine Selbbei nde it der Lust aus demVerstain ineine Substantz, daraus wieder ein ne) ich die vust
+
+Wille geboren wird, und derselbe ist ein Huren⸗ er urflänz| vor GOtt und der ewigen Natur „denn det nicht aus der ewigen Natur Rechte, sondern aus der 26. f. 64 65. c delbheit
+
+191. Die Versohnung stehet alleinimernsten Willen ge⸗
+
+Gott Flehe Gebet men, Erbar ties A er 2 1 b c. 27.I.
+
+Die Feuer-Serle, als das erffe,Zrincipium, baͤnget
+
+Bande der aussern Welt, und führet
+
+shmerdarge
+
+Wer, sti Chri Wese isch ind von der Engl elk verdecket und verdllhckelt wird. ne tzTrübsal wieder gereiniget werden. 5 urch Creuund
+
+16 35 der Wiedergeburt hoͤret das natuͤrliche Gebaͤren auf dieneue Jungfrauschaft im Geiste Christi gebaͤret keine Creatur mehr, sondern alle muͤssen sie aus dem ersten Cen⸗ tro und Stamme gehen, auf daß sie alle Ein Baum sind, e.29. $
+
+745 5 a5 der Mensch redet und verstehet, 5 kommt a.
+
+une ingeleibten geformten Wort GOttes her;es ist der Name er nicht miß brauchen bey Vermeidung e, eine Substantz und Wesen werden, [p. 314] ner Einen Saum,die du1in17
+
+Son bee sie.175517. Ey jerdeder Seelen ist das Fiat, welches beiligen Liebe⸗Tinctur in sich fasset, und zu en 5 en machet; daß also aus der Gätelichen ei jerde des Liehe⸗Quells und aus derS Dehlede ein aeg, Wesen wird, Wa 11a 1 0 neueMensch, als eine neue Wohnung und 8 in dem sie nachder innern ee pelt wo sen Wesens Name heisset Sophia, als 2 aut
+
+sti1 in welcher deredle Jacobs. Sande amens JEsu duschen cheif,davon die 92
+
+slehet undderlei c. 52. 5. 5.6 198. Die Seele mag GOtt nichtseben, als nur in ihrer nes gebornen Bildniß, nur durch und in Jungfrau!Sophia; ı
+
+Jacobs. Sterne, alsim Namen TEfü, siehet sie in Je im Brunn des Lebens GOttes. c. 52. . 1. 199. Das Gemuͤth muß sichin sich selberin den allerin⸗
+
+Saen Grund in hoͤchster Demuͤthigkeit zur 5 Ot tes einwenden, und sich gantz willig auf Christi
+
+Strasse begeben.
+
+So begegnet ihm die Edle.
+
+Pilgram phia der Goͤttlichen Buhlschaft in der Liebeun
+
+Christi: Und wenn sie die arme Seele trol, wird Sophie freundlich Anschauen in grosser Liebe en sind alle irdische Luftweg, und kuͤsset Sophiam mit ihrer inbrünsti⸗ gen Begierde zur Liebe Christi: Und wiewol sie125 Seelen verlobet wird, so wird ihr doch erst Christi Creutz beygeleget; denn die Menschbeit Christi gibtsich nicht bald der feurischen
+
+Kat FR Eigenthum: Und obs geschicht,wie je bandent [p. 315] für die Schüler der Weisheit.
+
+n9 iti33 105
+
+255.
+
+755 Be frem jagantz mare fieunfruchtb ar, ieseele15 desto heftiger zum Gebet a und
+
+— 5 ir beweglich; fruchtbar und schwan⸗ keu⸗ sie gewiß eine recht demuͤthige, Sogebieret und ee welche ein Regent der Vernunft 98 G .. 3-15. 200. GOttes Getfordert eine demuͤthige gerettet bes da die Seele in Gott gelassen ist, und nicht Eigen⸗Wollust und Eigen⸗Liebe suchet? sondern da sie auf die Wege GOt⸗ tes siehet, und sich zu demuͤthigen Kindern thut, welche Ott lieben und Ihme stets dancken; alda offenbaret sich En 3 ihnen, daß sie dem HErrn Fruchtgebe ren.c.57. Ha9.
+
+"201.80 die Göttliche Kraft im inwendigen Grunde der
+
+Stelen mit ihrem Glantze offenbar und wirckende wird, daß Mensch begehret vom gottlosen Wege auszugeben, und G Ott zu ergeben, so ist der gantzeDreyeinige Gott in der Ben Leben und Willen gegenwärtig, und ist der Himmel,
+
+Gott innen wohnet, in der Seelen aufgeschlossen, und ist chen die Stätte aldain der Seelen, da der
+
+Vater feinen Sohn gebieret, und da der H. Geist vom Vater und Sohn ausgehet.
+
+6.60. . 43
+
+202. enwill im Menschen allein Gutes in dem Reiche
+
+: wo sich der freye Wille in die Gnade ergie⸗ bel bet,sowillre Gutes in dem Willen durch die Gnade; An 1 45 nur von der falschen Wirckung stille stehen,so t er an seines eigenen Willens im Abgrund zu ersincken: denn was stille stehet, das stehet mit dem ewigen Einen stille, und wird mit dem Einen Ein Wesen, denn es gehet in sein Nichts. c. 67 h. 56. 203. Christus soll ben den Christen durch feinen Geist die uͤnde tilgen, und nicht des Vaters Feuers⸗Schwert im Ge⸗
+
+Sete ee Gerechtigkeit. c. 62. 5. 30. Der Teufel fuͤhret des 1 Weib, als unzuͤch⸗ ng 2 enschen, von auffen herzu, welche das zuͤchtige Ange⸗ wm des inwendigen Grundes a biflesten ꝛc. welcher also [p. 316] ga elf bud Ba een g o e o s fein Wesen, muß fahren 1 d b e Janaik er GOttes Angemög ebleich ben.te. 64. 4,8;
+
+Gliedern und Kindern den Adamischen
+
+Spott tragen, unk
+
+Sie feinem Bilde ähnlich machen. e. 64.8.2 un 4 sich in fleischliche irdische Lust 206. Adhat eingeft ret, und mit feiner weiblichen Eigenschaft durch Imagına= gehuret, und diehimmlische wagische Artche tion aufviebis 53. Be Ehe vergessen. c. 65 Art derGoͤttlichen 88 Darum ist das des Menschen letzte Probe, wenn ihm aus der wird, foet in allen Dingen stillesteh er Gott
+
+95.
+
+2 M
+
+Trau⸗ in und mit
+
+Princ ipsen stehet Seele Mens Des 208.
+
+rigkeit eine
+
+Freude, tt istin allen Dingen
+
+1) in der ewigen Feuers: Natur, 2) in des ewigen Licht vel Feuers⸗Natur, im Liebe⸗Feuer, welches 1 darum ietzt nun der Streit ist, und 3) im
+
+Reiched
+
+sam, demuͤcthig und verlassen ist,in deme wircket die nichts, sondern ist nur demselden, daraus es if kommen wohnet darinnen. o 71.§.19. 210, Was nichts will, als nur das,daraes usistgegan gen, das hat in sich selber keine Qual, denn es istihme ses eß stehet dem Macher da, der es hat gemachet, Er mag es
+
+Jchts oder Nichts seyn; also istesmitdem ewigen lass rat
+
+Einen Ein Ding, denn es quaͤlet sich nicht, es liebet sich n i8ch es fühlet sich nicht ineigenem Wilen; denn es hat keinen genen ei⸗ [p. 317] er We1 Nn.
+
+ee ergche e.Bf creatũ
+
+seyn, aufdaß 2 551 v 115 wieder u 2 88
+
+0 Willen eingenommen und gereiniget =Ei 1
+
+Fre Wille ein ille werde, alsdenn i er ee 15Dae Welt, 7 1rer Eigenschaft91 15 rs enden Wort in der Seelen eelen im Spiritu Mundi in a al an Werckzeug
+
+GOttes. c. 72, . 9.
+
+212. Zeuch mit allen deinen Sinnen und Wercken indie
+
+Sitviigfeitund Demuth, darinn soll deine Wohnung seyn5 dennso der Mensch zur neuen Geburt kommt, so redet Chri⸗
+
+stus essentialiter in ihme, und die Augen seiner Seelen,
+
+Grund, in welchem Christus ale das rtwesentlich ist, sehen und empfinden dasselbe. Aber in Nen Sinnen moͤgens in dieser Irdigkeit noch nicht gantz ergreiffen, sondern sie wohnen nahe dabey. Die in wendige Augen sehen durch die aussere Sinnen. cris. 19, ai „Die 5Sinnen des Menschen sind 420 ab. die juagften N 5Lebens Gu denn sie gehaͤreildie mer neu, und muͤssen GOttes Diener in derdiebe seyn, de⸗ nen e c. 74. J. 2.3:
+
+was siethun und sprechen sollen.
+
+wi 214. Dir‘Teufel kann dem Menschen anders uichtbey⸗ de Begierde zur Eigenheit . 749 18. kommen alsinder 2001514.
+
+*—5N
+
+Auszug des MyflerüiMagni, ut
+
+15*
+
+8 Gemüth ifeinGegenwurf. Göttlicherundnas tuͤrlicher Verstaͤndniß, und ist ein Quell⸗Brunn und Boͤsen, deme der Fall und das Verderben nm aus 5 Begierde zur . ag es von der Eigenhei t entlediget dann sich selber in der ne der E.
+
+haften, und schwinge sich wieder in die allerlauterste schweigen, also * = e und begehre seines .
+
+[p. 318] ©.
+
+©Clavis o neuen Geburt Eheistes aer 8 ist die 1
+
+7579.
+
+217. Es sind eigentlich nur drey Eigenschasten . .
+
+tur, nach der Offenbarung derH.Dreyheit SOttes. Als X, 1 die Begierde, die wird GOtt dem Vater zugeeignet, nur ein Geist, und in der 7. ist die Begierde wesentlich. 2 wird GOtt dem Sohn als der Goͤttlichen Kraft zuge⸗ eignet, die istin der andern Zahl nur ein Geist, aberin der
+
+6. ist sie die verständliche Kraft. Die 3. wird GOtt dem nach seiner Offenbarung zugeeignet, und ist im H. Anfang der dritten Eigenschaft nur ein Feuer⸗Geist; aber inder5.Eigenschaft ist die grosse Liebe darinn offenbar. Al⸗
+
+soist der Ausfluß Goͤttlicher Offenbarung nach den 3 Eigene
+
+schaften im 1. Principio vor dem Lichte natürlich, und im a. Principio im Lichte geistlich. Num. 14.
+
+Theosophische Send⸗Briefe. 218.
+
+Ott fuͤhret keinen neuen oder fremden Geist in uns, sondern er eroͤffnet mit seinem Geist unsern Geist, als das Verborgene der Weisheit GOttes, in iedem Menschen lieget nach dem Bob und auf Art seiner innerlichen Constellation: dann Christu mein Va⸗ nun ter wircket, und ich wircke auch. 484 5:17. So wircket der Vater in der Essentz der seelischen Eigenfehaft, und der Sohn in der Essentz desEbenbildes Gottes, alsinderen lichen Gleichheit. Ep. 12. §. 26. 219: Das falsche Licht urstaͤndet aus der n des eigenen Natur⸗Willens, der sich in eigene Macht ohne
+
+Gottes Willen in ein Regiment feines Selbst⸗Wollens eins [p. 319] für die Schüler, der Weisheit. 299 her, ihme insich felfk eine Seien schopfet undschbe>
+
+Einigen Wil nn OS de Ep. ram ist. uors htgeh nict ur und Crea Nater G Ottesauss ars
+
+See, von innen im Hunger der ßg 220. Die Forschmu 17anfangen: Denn das Beruf
+
+Hortengehet aun
+
+Welt, daraus die Vernunft ur⸗ sein Astrum 5 ftändet, die Seele aber forschet in ihrem Äftro, als in der i e daraus die sichtbare Welt entstanden chere eflossen ist. Ep. 55.9.4.
+
+OR.
+
+Folgen einige Sprüche zu WierdeTreulfeesl der irrige
+
+Bafin Stand. *ee
+
+Morgen⸗Roͤthe.
+
+De Teufel kann in Ewigkeit das dicht nicht wieder Fries gen. c. 8. . 101. (Drep Principia c. 14. . 79. 80.
+
+2. Der Teufel wird den Grimm zur Behausung haben. c. 9. F. 46. e. 16. . 54. 75. 107. 108. 3. Gott konte dem Lueifer nicht helfen. Warum? c. 14.
+
+6.27.74. sqꝗ·Princ.c.10. 9.50. Gnaden⸗Wahl. c. 4. f. 34. 4. Das Zorn: Feuer kann nicht ausgeloͤschet werden, und der Teufel nicht wieder ein Engel werden. c. 10. . 47.
+
+5. Die strenge Geburt, daraus GOttes Zorn, Hoͤlle und
+
+Tod ist worden, ist in GOtt ewig gewesen, aber nicht anzuͤnd⸗ lich noch erheblich. c. 23.5. 16.
+
+6. diebe und Zorn istvon Ewigkeit gewesen. e.23. $: 86. 7. Der Teufel lebe intder strengen Geburt Gottes, da sich das Licht nimmer wieder anzuͤndet. c. 23. 3. 94. 95.
+
+8.Die
+
+[p. 320] SB
+
+Jugabe at
+
+82 0ee e beo 94sin 7.
+
+ft vom Mord on bi ohnung der Te FRin den en Ale en und Höblen. 1555ö en dera iche 25 26A ns 4end g ANNE : Bai ja yet
+
+©weh 3Principien. en
+
+— 75N Be
+
+ErTeufetiRein Feind G”ttes und allerengel n. ͤpfe scho Wil and sei kan Pa, 7. 4 sie, 2 Licht und Finsterniß beben in Ewigkeit e, die Teufel ꝛc. in der ewigen . Ewigken kei chl bre Zer dic ine 15 75 9.8.4 pi ci de Du ag
+
+Ab rü 3. Das bee steigt ewig vorssich aufinsLicht der Sanfemup:c. 16. 5.31. cheisolobe; eren = DsNe siekoͤnnen die klare Gott eben sondern verblinden davon. Und Kite
+
+0 feenicht sehennoch spuͤren, als! wer 1 15 einem andern Princi; 0n idee * 20 Alsoie dasßloe!Principium, 6.25. . 11
+
+Vom dreyfachen za—, 1 =59=8 . Teufel istewig kann nicht —
+
+5D Be
+
+Natur Derstrengen Wade i
+
+642.9.20% rA n
+
+8. 8. c. ib kei Di 16. 170 Es ist nichts in der Funsterniß das eine
+
+Ehe [p. 321] für die Sch der ule Weishei r t.
+
+de At und See
+
+WesenN. % nd dhe. 9555
+
+Feuer vun denannic nieder 1 darum kann aber der Teu⸗ ber beten Senf aber felf kann an sie nicht e
+
+Mas 209
+
+Jet
+
+Beschluß dieser Sch i1 Schüler 1 De Gewachs der Tinctur in der Matrice erzeiget sich nen in * 2 anfangs dergestalt, angen
+
+Geist durch das Sterben ret,darau muß er sich mit grosse
+
+Satane iin dere wie unten und
+
+€ im Centro da 7
+
+Mensch gewo ches das Bluͤh den:
+
+Wo freundlich ie aber ste⸗ het damit noch nur insich elbheit, im auswen⸗ ist noch nicht Echt, sondern digen Grundeim Cent der Magd Sohn. Dahero noch eine tiefere Geburt noͤthig ist, will er in GOtt kommen, davon es heisset: wir in Ihme und Er in uns.
+
+Albie entziehet sich dann GOtt dem Willen wiederum, aufdaß er in eine tiefere Fassung komme, wodurch das Ge⸗ waͤchs auch in sich verbleichet, und von aussen der Baum
+
+Gut und Boͤse wird, und dem Geistenunmehr zu lauter Ver⸗ uchung
+
+[p. 322] 302 xxi gugabe fürdie Schüler der tBeish,
+
+Wort, e on.
+
+en 88Ares Fever
+
+1A miKi
+
+Er das hat und seine Mutter ist (da: af a Sa Be 7 ba dı Wee
+
+8,8 dite wird digen 25dem H. Geist ER EnBW sich zuoffenbaren gg
+
+Schauen bald
+
+“> =] >78
+
+[p. 323] See taatsBibl iothel
+
+MDZ
+
+Selten ent Digitale Bibliothek
+
+Böhme, Jakob, 1575-1624
+
+Theosophla Revelata. Das ist Alle Götliche Schriften des Gotseligen und Hocherleuchteten Deutschen Theosophi Jacob Böhmens Des von Con in Gnaden erleuchteten Mannes Gottes Jacob Böhmens, enthaltende Allerhand Gotiselige Ermahnungen zu wahrer Busse und Besserung, wie auch einfäligen Bericht vom hochwürdigen Erkentniß Götlicher und natürlicher Weisheit, nebenst Prü Bd. 21 151] 1730. Asc. 612 c-B#Beibd.3 um:nbn.de:bvb:12-bsb10260400-9 VD18 80246605

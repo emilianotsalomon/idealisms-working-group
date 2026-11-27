@@ -1,0 +1,95 @@
+---
+title: De mundo praesenti
+author: Gottfried Wilhelm Leibniz
+id: 10157
+markers: [a, print]
+pairs_by: a
+year: 1999
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Sämtliche Schriften und Briefe, Reihe VI, Band 4, Teile A–D (Berlin: Akademie Verlag) (Akademie-Ausgabe); converted in Seinsbyte's library; this file is the source, corrections go here"
+translation: none
+canonical: "A VI,4: [p. N] are the pages of A VI,4"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The De mundo praesenti was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (1999) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-01 by _normalize_work/wg_export.py (library id 10157)
+---
+
+# G. W. Leibniz, *De mundo praesenti* (1999)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## 301. DE MUNDO PRAESENTI [Frühjahr 1684 bis Winter 1685/86 (?)]
+
+Überlieferung: L Konzept: LH IV 7C Bl. 111–114. 2 Bog. 4o. 9 Sp.
+
+Die Datierung stützt sich auf das zwischen Juli 1683 und März 1686 häufig belegte Wasserzeichen. Dieser Zeitraum kann aufgrund des Hinweises auf die von Cassini im März 1684 entdeckten Saturnmonde weiter eingeschränkt werden. Inhaltlich wird diese Datierung bestätigt durch die in dieser Zeit gewonnene, reife Darstellung der im Mittelpunkt stehenden Substanzproblematik.
+
+1 inest. (1) In quem locum D. Thomas ita commentatur: Haec ab Aristotele recte dicuntur sed (2) Haec L 2 habere (1) natura (2) aliquid (3) aliquod L 3 contingunt (1) consequuntur (2) naturaliter L 7 f. commentatus (1) gravitatem (2) inquirensque L 9 haec omnia gestr. recte L 11 involvit, (1) itaque (2) sed L 11 autor (1) est (2) seu L 13 veram erg. L
+
+7–9 THOMAS VON AQUIN, Expositio in octo libros physicorum, lib. II, lect. I, 144.
+
+[p. 1506] Omne Cogitabile est vel Ens vel Non Ens.
+
+Ens est de quo aliquid affirmari potest.
+
+Non ens cujus nulla sunt attributa nisi negativa. Scilicet si A neque est B neque C neque D, et ita porro in infinitum, erit Nihil.
+
+Omne Ens vel est Reale vel Imaginarium. Ens reale, quod est citra mentis operationem ut sol de quo judicamus ex consensu plurium perceptionum. Ens imaginarium quod secundum unum percipiendi modum percipitur ad instar Entis realis, ut iris, parhelius, Somnium, sed secundum alios modos non percipitur neque examina sustinet, quod tamen fieri deberet, si esset Ens reale, unde sequitur a dispositione nostri et medii fieri quod percipitur, ipsum autem perceptionis causam non esse. Et saepe intellecta origine phaenomeni etiam causa deceptionis cognoscitur.
+
+Omne Ens Reale est unum per se aut Ens per Accidens. Ens[^1506-1] per se ut Homo, Ens[^1506-2] per accidens, ut strues lignorum, machina, quod scilicet non est unum nisi per aggregationem, nec alia in eo realis unio est, quam connexio vel contactus aut etiam concursus ad idem vel saltem convenientia a mente in unum colligente animadversa. At in Ente per se, realis quaedam unio requiritur consistens non in partium situ et motu ut in catena, domo, navi sed in unico quodam individuo principio et subjecto attributorum et operationum, quod in nobis dicitur anima, in omni corpore forma substantialis modo id sit unum per se.
+
+Omne Ens est vel Substantia vel Accidens seu Modus. Substantia ut Mens, corpus. Modus ut calor, motus. Nimirum ex Accidente vel modo formari potest concretum, quod de substantia praedicatur vel etiam de alio accidente. Substantiae autem jam tum concretus est conceptus, nec praedicari potest nisi de substantia, et substantia [p. 1507] singularis nulli alii rei singulari inest, cum tamen Accidens singulare substantiae singulari insit, plura accidentia substantiae uni. Et quidem substantiae singularis conceptus est quiddam completum, qui omnia jam virtute continet, quaecunque de ipso possunt intelligi. Ita ut Deus eo ipso dum hujus Petri substantiam concipit, omnia concipiat quae ei contigere aut contingent. Quod de accidente singulari dici non potest, nisi quatenus substantiae singulari inesse concipitur. Ex Alphonsi regia potestate non concipio ejus Astronomiam, nisi redeam ad ipsius Alphonsi naturam singularem. Porro substantia universalis nihil aliud est quam omnis substantia singularis talis. Cum autem substantia singularis involvat relationes ad totum universum patet eam semper esse infinitam.
+
+[^1506-1]: Über Ens: unum
+
+[^1506-2]: Über Ens: unum
+
+Substantia est vel perfecta seu absoluta nempe Deus, vel limitata quae dicitur creatura. Necesse est autem limitatam dependere ab absoluta, alioqui haec ipsa limitata esset. Est etiam unica, eo ipso quia conceptus ejus est completus, ex vi essentiae ipsius. Conceptus autem completus est nota substantiae singularis.
+
+Substantia omnis habet intra se operationem quandam, eaque vel est ejusdem in se ipsum, quae dicitur Reflexio sive Cogitatio, et talis substantia est spiritualis, sive Mens, vel est diversarum partium, et talis Substantia dicitur Corporea.
+
+Cum Deus sit Mens et se ipsum intelligat atque amet, hinc oritur mira quaedam diversitas ejusdem a se ipso, sive compositio rei indivisibilis, quam in Sacrosanctae Trinitatis personis agnoscimus; et cujus in mente nostra semet cogitante aliquod indicium habemus.
+
+Mens est, aut secreta aut corpori unita. Secreta ut Deus; unita, ut anima nostra. Sunt et aliae mentes, quae Angelicae dicuntur, nostris perfectiores, quas tamen corporibus quibusdam sed longe subtilioribus unitas esse veteres credidere, quod si verum esset, videri posset anima quoque nostra licet in se incorporea tamen non nisi crassum corpus morte deponere. Nec ulla esset creatura corporis adjuncti expers.
+
+Substantia corporea habet partes et species. Partes sunt Materia et Forma. Materia est principium passionis, seu vis resistendi primitiva, quam vulgo vocant molem seu [p. 1508] αÆ ντιτυπιÂαν, ex qua fluit corporis impenetrabilitas. Forma substantialis est principium actionis seu vis agendi primitiva. Est autem in omni forma substantiali quaedam cognitio hoc est expressio seu repraesentatio externorum in re quadam individua, secundum quam corpus est unum per se, nempe in ipsa forma substantiali, quae repraesentatio conjuncta est cum reactione seu conatu sive appetitu secundum hanc cognitionem agendi.
+
+Hanc formam substantialem necesse est reperiri in omnibus substantiis corporeis, quae sunt unum per se. Itaque si bestiae non sunt purae machinae, necesse est formas substantiales habere quae dicuntur animae. Caetera autem corpora quae forma substantiali carent sunt tantum aggregata corporum ut strues lignorum, congeries lapidum, neque proinde cognitionem aut appetitum habent. Omnis substantia quae unum per se est, sua natura perpetua est, et quomodo Mens, Anima, forma substantialis, seu principium unitatis in Entibus per se, aliter quam creatione et annihilatione produci aut extingui possit, non apparet, cum determinatae partes materiae ad essentiam ejus non pertineant. Itaque credibile est saepe animal oriri ex jam praeexistente in semine animalculo quodam invisibili in ovarium delato et ibi crescente; et vicissim saepe non extinctionem sed transformationem contingere, ut erucae in papilionem eadem utrobique anima manente, licet vetus aut novum animal plerumque non aeque ut eruca aut papilio sensibus nostris pateat. Et somniorum indicio discimus ad percipiendum non semper opus esse sensibus, nec in summa refert major an minor fiat materiae mutatio, nisi ad hoc ut perceptiones priores a posterioribus plus minusve differant. Mentes autem omnes, quia cum Deo rempublicam constituunt prioris vitae memoriam conservant.
+
+Quantum ad Species corporis, negligamus nunc considerationem formae substantialis, et an corpus sit unum per se, tantumque Materiae differentias consideremus, quoniam plerumque dubitari potest an corpus sit Machina tantum et partium congeries, an vero sit forma substantiali vel anima praeditum. Hoc de ipsis animalibus controvertitur, multo magis adhuc de plantis et lapidibus et metallis, maxime autem de sideribus ac de Mundo universo.
+
+[p. 1509] Corporum omnium Aggregatum dicitur Mundus, qui si infinitus est ne unum quidem Ens est non magis quam linea recta infinita aut numerus maximus. Itaque Deus non potest intelligi anima Mundi, non finiti, quia ipse Deus infinitus est, non infiniti quia corpus infinitum non potest unum Ens intelligi, quod autem non est unum per se id nec formam substantialem adeoque nec animam habet. Itaque recte Deus a Martiano Capella appellatur intelligentia extramundana.
+
+Nullum datur in Mundo Vacuum neque in materia neque in forma hoc est neque plura corpora in hoc mundano spatio creari possent, neque perfectiora. Possunt in rebus distingui receptacula a receptis. Receptacula sunt Tempus et Locus seu spatium. Recepta sunt corpora quae in his existunt.
+
+Mundus praesens respectu nostri et loci in duas partes dividi potest in Mundum Trans-Sidereum de quo nihil a nobis percipitur, et in Mundum Sidereum seu aspectabilem, cujus quicquid extra Tellurem est dicitur coelum, et corpus sive sidus rotundum quod incolimus dicitur terra seu Tellus.
+
+Mundus aspectabilis constat ex corporibus magnis solidis aut saltem cohaerentibus, ex longinquo nobis lucentibus, quae Sidera vocamus, et ex fluidis motum quendam periodicum habentibus, cum quibus aliqua sidera deferuntur, unde haec fluida quidam non inepte vortices appellant.
+
+Sidera sunt vel per se lucentia, quae dicuntur Soles, vel sunt illustrata quae dici possent Terrae.
+
+Sunt et sidera vel fixa vel libera. Et fixa quidem unum locum servant aut certe hactenus non mutant satis notabiliter, libera vel periodos absolvunt quae dicuntur Planetae, vel nondum cognita lege et propemodum recta linea per mundana spatia trajiciunt quae Cometas dicimus.
+
+[p. 1510] Et quidem hactenus observatum est Fixas esse soles, planetas vero esse terras et moveri circa suum solem, itaque fixa aliqua cum suis planetis dicitur componere orbem Magnum, et creditur tot esse forsan orbes magnos seu systemata planetaria quot sunt fixae. Interim nihil prohibet et erraticos soles dari et fixas Tellures.
+
+Sunt et planetae qui circa alios planetas majores feruntur, qui dicuntur Satellites. Ita Galilaeus quatuor deprehendit satellites circa Jovem, Hugenius unum circa Saturnum, cui postea plures addidit Cassinus. Ipsa Luna est satelles Telluris nostrae. Tellus autem nostra intra planetas circa solem nobis lucentem motos computatur, quae omnia veteribus parum cognita nostro demum seculo in clara luce collocata sunt.
+
+Cometas notabile est radios longe emittere interdum instar crinis sed plerumque instar caudae, quae in partem a sole aversam porrigitur.
+
+Sed antequam longius progrediamur explicandum est discrimen inter Corpora Fluida et inter firma vel saltem connexionem habentia, seu quorum partes cohaerent. Et quidem sciendum est, revera omne corpus habere aliquem gradum firmitatis, nec quicquam tam fluidum esse, quin vi aliqua opus sit ad partes flectendas vel omnino divellendas, et omne corpus habere aliquem gradum fluiditatis, ut non tantum satis magna vi partes ejus separari, sed et quacunque minima vi nonnihil inflecti possint. Nulla autem flexio sine aliquorum se prius contingentium divulsione est. Itaque nullae sunt Atomi in rebus, quae scilicet infinitae sint duritiei. Horum autem causa est, quod Creator nihil sterile reliquit, sed in qualibet particula materiae utcunque exigua innumerabilem creaturarum velut mundum condidit. Nam quoniam continuum in infinitum divisibile est, relictum esset Vacuum formarum, si in aliqua parte materiae nulla actualis facta esset subdivisio, quod cum perfectione Dei pugnat. Itaque nulli dantur in mundo globi perfecti quos Cartesius longo temporis tractu tornatos credidit, neque ulla sunt in Mundo Elementa seu corpora prima ex quibus caetera componantur, itaque nec datur materia subtilis [p. 1511] summae fluiditatis, neque Globuli secundi Elementi, et tam absurdum est corpus summe fluidum, quam summe durum. Et corpora quae nostrorum respectu Elementaria censeri possunt, possunt aliorum minorum respectu tam magna rursus intelligi ac sol est respectu scintillae. Dicendum est ergo in Mundo nullum posse assignari punctum, quod non diverso nonnihil ab alio quovis utcunque vicino puncto motu cieatur, sed rursus nullum posse assignari punctum, quod non cum alio dato mundi puncto communem quendam motum habeat, ex priori capite omnia sunt fluida, ex posteriori omnia sunt cohaerentia. Sed prout motus communis aut proprius plus minusve notabilis est, corpus unum solidum, aut separatum, vel etiam fluidum dicitur.
+
+Notatur autem hoc ex resistentia quam sentimus, vel non sentimus in separando. Cujus ratio est, quod magnam mutationem in rebus procurare sine magna vi non licet. Itaque quae secundum praesentem rerum statum motumque universi et fluidorum in eo decurrentium sive visibilium sive invisibilium, partes habent quae ad se invicem compelluntur, et ab ambientibus comprimuntur, ea sine vi separari non possunt, ut grave a fundamento cui innititur, apprehensum corpus a forcipe quo tenetur, quin et si non comprimantur, attamen secundum aliquem divellendi modum sine turbatione notabili circumjacentium separari non possunt, ad ea divellenda vi opus est, ut experimento duarum tabularum politarum discimus. Contra vero quae neque comprimuntur, neque cum aliqua circumjacentium turbatione dimoventur, in his nulla notatur cohaerentia. Et credibile est, quae constant particulis planas superficies aut congruas multas et majusculas habentibus, non facile divelli, quia plurimus in ipsis est contactus, unde divulsio non fit sine ambientium turbatione. In quibus autem exiguus contactus est, in iis divellendis parum resistentiae sentiri. Et in universum dicendum est nullam esse in Mundo quietem perfectam, nec absolute, nec respectu corporum vicinorum, minorem tamen motum pro quiete habendum esse. Et quae prope se invicem quiescunt hoc est quae communi motu cientur aut ad se invicem propius accedere conantur, hoc ipso sine aliqua vi, hoc est sine ambientium mutatione, non posse separari. Quatenus autem corpora varios motus exercent, et jam a se invicem discedere conantur, eo facilius separari. Est ergo firmitatis origo, pressio ambientium, seu motus, qui separatione turbatur; quies ipsa [p. 1512] per se neque ulla est, neque si esset, causa firmitatis intelligi posset. Firmitate autem semel constituta, jam ex firmorum corporum implicatione in se invicem rursus nova corpora cohaerentia formari possunt.
+
+Interdum corpus cedens ubi sibi relictum est se restituit, quale corpus dicitur Elasticum, restituit autem sese eandem ob causam, ob quam initio flectenti restitit, quod scilicet hoc modo ambientium fluidorum invisibilium motus minus turbatur, sed quando tamen alius inter divellendum ipsis exitus aeque commodus datus est, cessat restitutio. Unde raro fit ut partes avulsae se reconjungant toti, fieri tamen aliquando discimus exemplo Magnetis. Sciendum est autem in omnibus esse aliquem et Elastri gradum. Exempli causa quid vitro durius et fragilius, et tamen tenuissima vitri fila elastica sunt, contra, quid mollius atque flexilius tenuissimo filo, et tamen si aliquoties filum filo addatur, fiatque filum paulo crassius non tantum resistit nonnihil sed et flexum se restituit. Hinc etiam nihil tam molle est quin percussum aliquem edat sonum, quem a restitutione aliqua tremula elastici corporis oriri constat.
+
+Haec ideo afferre placuit ut attollere animum a sensibus et universi oeconomiam admirabilem, et in summa varietate summam connexionem considerare assuescamus; et terminos Creatori non tantum in extensione, sed et in subdivisione rerum nullos praescribamus, omniaque motu, vita creaturis plena esse intelligamus; et ineptam spem deponamus universum Mundi Systema animo concipiendi, et analysin ad usque prima corporum velut stamina atque Elementa, sive principia quae nulla sunt, producendi. Sed quemadmodum Magister scientiae muniendi, cum de terris disserit, satis habet de arenis, lapillis, calce, argilla dicere, at vero de minoribus corporibus, in terra latentibus, tanquam ad institutum suum non pertinentibus solicitus non est, ita nos satis felices erimus, si ea corpora insensibilia explicare possimus, quorum effectus notabiliter ad nos usque pervenit, cum ultra progredi nec possibile mortalibus, nec utile sit.
+
+[p. 1513] Porro cum tanta sit varietas in Mundo, mirum non est Deo sapientissima voluntate sua omnia in motus aptissimos concitante alicubi factum esse aliquid simile coagulo in lacte moto, ut scilicet ingens aliqua respectu nostri massa abiret partim in partes caeteris firmiores, partim in alias notabiliter tenuiores, hoc est in sidera et vortices, sidere motum vicinae fluidi partis servante. An alia sit Mundi portio, ubi nec sidera sint nec vortices, sed major consistentiae aequabilitas, qualis est lactis ante coagulum, dicere non habemus. Rotunda autem sidera esse mirum non est, cum instar guttarum initio fuerint.
+
+An vero planetae prodierint ex solibus seu fixis crusta paulatim obductis, an contra soles ex planetis inflammatis, et an in his ipsis aliqua sit vicissitudo, an vero ab initio statim vel exiguo tempore in praesentem formam omnia abierint, ex solo rationis iudicio dicere non habemus. Illud tamen multis argumentis agnoscere mihi videor, totam globi nostrae telluris superficiem aliquando inflammatam fuisse, quod nec a Scriptura Sacra abhorret, initio enim Deus dixit ut lux fieret, quam cum a tenebris separaret, hoc est lucida ab opacis secreverit, prius commixta fuisse, et ignem omnia pervasisse consentaneum est.
+
+Post discrimen fluidi et firmi quod tactu percipimus, proximum est lucidi et opaci quod visu. Et quidem necesse est inter nos et rem lucentem commeare fluidum aliquod, quod motum ab illo ad nos deferat. Simplex tamen conatus ad motum sufficere non videtur. Videntur in lucente fieri innumerabiles ictus validi seu subitae explosiones, sive a crasso ad tenue transitus, ut fit in sclopeto ventaneo vel pyrio exploso, unde pressio valida rectilinea in omnes partes exercetur perspicuum est, quod satis aequabiliter porosum est, ad pressionem sensibilem ubique recta transmittendam.

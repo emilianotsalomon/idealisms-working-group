@@ -1,0 +1,3523 @@
+---
+title: Antistiefelius, oder Büchlein vom dreyfachen Zustand des Menschen und vom Irrthum der Secten Esaias Stiefels und Ezechiel Meths
+author: Jakob Böhme
+id: 152943406391
+year: 1730
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Theosophia revelata (1730), Buch 11; converted in Seinsbyte's library; this file is the source, corrections go here
+translation: none
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: German mysticism
+public: true
+rights: The Antistiefelius dates from 1621; Jakob Böhme (d. 1624) is long out of protection and the edition (1730) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-11-22 by _normalize_work/wg_export.py (library id 152943406391)
+---
+
+# J. Böhme, *Antistiefelius* (1730)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. i] ANTISTIEFELIUS,
+
+‚Si Gries5 von Langensaltza,
+
+Büchlein
+
+Dreyerley Zustand des Men⸗
+
+50 und dessen neuen Geburt,
+
+Pe
+
+Geschrieben im Jahr 162r.
+
+Ingleichen
+
+Som Frrthum der Secten Esaià Stiefels und Ezechiel eg betreffend eben
+
+Jacob Boͤhmen bh den 6.April. im Jahr 1622 ;geendiget en 1730. Gcbruck im Jahr dedaugebornengroffHels
+
+[p. ii] [p. 3] ANTISTIEFELIUS,
+
+Veh Langensaltza,
+
+Büchlein
+
+— ustand des Men⸗
+
+schen und dessen neuen Geburt, 5 Gieschrieben im Jahr 1621. dau JIngleichen
+
+8 m Frrthum der Secten Esaia 5 und Ezechiel Meths, betreffend
+
+0Die Vollkommenheit bes Menschen, Dine Gruͤndliche Antwort guf Esaiaͤ Stiefels und Ezechiel Meths 5 Auslegung über vier unterschiedlicheTexte der heiligen Schrift.
+
+Y
+
+Jacob Boͤhmen im Jahr 1622; geendiget den 6. April.
+
+0. ls Hei sen gros orn geb Jah kt uc Gedr [p. 4] nach den Rubriken des Textes.
+
+#### J. Scher
+
+Stel Büchlein eee t el des Menschen und dessen Neuen Geburt.
+
+gie pag. 165.
+
+U, Vom Irrthum der Setten Stiefels und Meths, betreffend die Vollkommenheit des Menschen, über vier unter ⸗
+
+schiedliche Texte H. Schrift.
+
+des Autoris. Vorrede
+
+Textnee:54v.5.Due feinerErttänung, | Der 855 \ on feinem Regiment.
+
+anne
+
+AN bs .) 3: Der 2. Text(i.Tim.
+
+ng ru aͤ kl bs 5) Der3.Text (Sa. Erklärung 4
+
+Der 4. Text oi Cor212. nebfider bs nc pu 1. nd „Oer dabey vorkom wortung. Der 1. Punct mit der Beantwortung. En der Fortpflantzung zwischen u bern in heiligen und gottlosen Kindern ꝛc. 2 i ng tu or tw mi nc Pu 3. D 2.
+
+Der ahunttmitderBeantwortung
+
+EN
+
+[p. 8] |dr ae Xl. 2088
+
+I SESANTI-STIEFELIUS.
+
+oder
+
+Hedencken uͤber Ysaia Stiefelz 75 von Langen⸗Saltza Büchlein.
+
+Dreyerley Zustand des Men,
+
+schen und dessen Neue Geburt.
+
+Dası Buch.
+
+11.
+
+von niß
+
+Summarien.
+
+junge Sohn, den die himmlische Mutter geboren, soll nicht ihr ausgehen, sondern in ihrem Haufe bleiben. 6.1:4._ Zeug? des Autoris von sich. 7. Ein Haus hat vielerley Stuͤcke:
+
+sosind auch vielerley Gaben GOttes. 8. 9. Ehristus wird aus meiner eigenen menschlichen Essentz eine neue Creatur. 20. Der Irdische ensch wird wol durchstrahlet, aber nicht transmutiret, 24. und muß Innern Knecht werden. 25. Die wahre Bildniß wird aus dem Ma⸗ gischen Seelen⸗FJeuer geboren,27. und wird nur im Picht verstanden. 28. Das Feuer ist eine magische Begierde 29. und der Liebe Begierde machet Sanstmuth, da die Tinetur aus Feuer und Licht kommt. ibid. Das Wesen aller Wesen ist eine immerwehrende Begierde sich zu offen⸗ ren.zi. Der Mensch ist aus allem Wesen geschaffen.22. Den beib ifGott aus innerm und aͤusserm Wesen, und blies ihme sich selber 33. Dann der Geist Gottes it alles Lebens Geist und ist dreyfach, uer „Licht und Luft, 3a. wohnet im innern Wesen, 38. in der Kraft Majestaͤt, in des Menschen Himmel. 36. Darum solte der Mensch
+
+12 . Geilteinergebenim 2. Prineipio. 37. Aber durch irdische Begier de ist die Finsterniß offenbar worden, 38. und damit der Hunger nach Gut und Boͤse, wieder GOttes Gebot. 30. Adam solte nur ma⸗ gisch essen. 4. Seine Seele aber ist aus dem 2. Prineipio ins 3. ausge⸗ en, 42. und der H. Geist von ihr gewichen; 43. 44, indem Adam er Seelen Willen in die aͤussere Welt eingefuͤhret; 45. daher die neue Geburt nöthig ist,46. nachdem Gottes Wort das 2. Prineipium im Menichen wieder eröffnet hat. 47. Nun sind wir all aus sündlichem Samen geboren; 48. wann wir aber mit unserm Willen wieder in die neue Geburt gehen, werden wir des Goͤttlichen Reichs schwanger. 49. Der Innere Mensch offenbaret das Goͤttliche Mysterium, und der Aeus⸗ scre das aͤussere Mysterium als den Spiegel der Wunder, so. daher der Streit im Menschen 51. Der Innere tödtet den Aufferen mit GOttes Liebe und Sanstmuth, ibid. kinn on aber nicht gantz eren a,
+
+[p. 9] Das äuffere Fleisch ist nicht Christi Fleisch, abet wol der
+
+53. Che in ereMensch.
+
+Drenfenserdung 54. Unser neuer Mensch Üf nicht von dieser Welt. 5s. So unser aufferer Mensch vollkommen wäre: müßte die Magische Schwangerung angehen. 56. In dieser Welt ist gantze Vollkommenheit. 88. Zwar kann der innere Mensch den au wol bändigen, aber nicht vergötten. 59. Der aͤussere und der in Mensch und die Seele machen 3 Principia 60.
+
+kein!
+
+Die Sünde wohnet im Fleisch, 61. darum dasselbe nicht vollkommen, sondernin die Erde ehoͤret. 62. Daher wir auch immer den Irdischen Menschen toͤdten ollen, obwir ihn wol nicht gantz toͤdten können, 63. dann die Gt und Elementen oft die Turbam in die Seele führen 64. Das liche kann das Unsterbliche nicht anziehen 65. Der Wieder kann suͤndigen, denn die Seele fuͤhret die Sündein sich 66. 67.
+
+Geist und das Fleisch des Neuen Menschenistnicht
+
+Ein Ding. 68. Wo⸗ rinnen der Seelen Feuer brennet, solche Tinctur scheinet daraus. 612
+
+Gottes Zorn hat das gantze Heer Lueifers verschlungen, also auch h Menschen. 70. Wo nun die Seele sich hinwendet, da wirdfieaufge: nommen,es sey Liebe oder Zorn. 71. Darum fol niemand sicher fen,
+
+sondern feinen Willen stets in Gottes Hertz einwerfen. 72.
+
+Die Seele ist des Vaters Eigenschaft, wie die Bildniß des Sohnes. 73. 7 muͤssen wir demuͤthig sehn, denn wir sind nur Zweiglein. 199 Die!
+
+dum anziehen, sind
+
+Christen, 78. welche nicht von dieser mL
+
+Welt, so ungfrauen und Engel sind, die für sich selber keiner Auferstehung nd thig haben. 76.77. Die Innere Welt fol durch die Aeussere herrschen.
+
+79. Weder die Auffere Welt noch das zussere Fleisch kann Gott nennet erden. 80.
+
+Was der Name JEsus bedeute, 81. und der ge:
+
+me Ehrifius ? 82. welchen hoch⸗theuren Namen GOttes wir gar 15 | mißbrauchen sollen. 83. Unterweisung zur Wahrheit 84. 85. Er mal nung zur Demuth. 86. Der aͤussere Vernunft ⸗Geist mischet sich ins Sprechen, 87. darum das Gemuͤth des H. Geistes gewiß fen muß. 38. Der Prophet hat nicht die Gewißheit, 89. sondern im Gemüth
+
+stehet die Gewißheit, 90. und formirt nicht Worte ohne GOttes 12 91. dem er treu seyn muß, und ob er Feuer vom Himmel bringen
+
+92. Wer aus GOttes Mund reden will, muß mit Gottes Geist ges wapnet seyn. 93. Die falsche Christenheit hat den Mantel Christi ger borget, 94. und kuͤtzelt sich mit Christi Leiden, 95. welches manchem zur Verdammniß strecken wird. 96. Der Wille muß umgewandt seyn. 8 „Aber die Mund⸗Christen sind Wieder⸗Christen 98. Ein rechter
+
+Schaf, Hirt fol kein Wolf seyn, 99. und muß Christi lebendige Stimme in sich haben, will er einen Todten aufwecken. 100. Aber des Gottlosen
+
+Stimme ist nicht GOttes Wort. 101. Die Kunstistnur aus dem Ge⸗ flirn. ibid. Ist dannenhero thöricht, sich nach einem Wolfe nennen. 102.
+
+103. Es soll noch eine QuellinZion aufgehen. 104. Der Mensch ist Das ein böses Thier, das zum Opfer nicht taugt. 105. Prophezey. 106. Ende der Zeit ist eine böse Grund⸗Suppe, 108. doch sollen die Wunder wie im Anfang aufgehen, und Zion an allen Enden seyn. 109. 10.
+
+Ehristus selbst lehret in uns.11. Darum heute, so ihr feine Stimme böret, verstocket eure Hertzen nicht, u, sondern ein jeder bekebre sich zum HErrn, uz. und achte die Kunst nicht,denn sie verführet. 114. Innerlich wird GOtt gefunden, us. inwendig ist Gottes Stätte, gi [p. 10] über Esaiaͤ Stiefels Büchlein.
+
+inder Seelen stehet der Quell; 117. dieselbige muß sich einkehren, 118eine neueBildniß in Kraft des H. Geistes, aus sich gebären, 119. Bildnis der Seelen Speise ik, daraus das hohe Licht und Tin⸗ gehet, 120, als aus dem Feuer: undkichts⸗Centro, 121. dadurch 122. Wann sich nun der Mensch in Gott er⸗ sich der H.Geisteroͤsnet. fowird das Korn in die Seele gefäet, 123. und durch Imagini⸗ giebt: in dicht, wird sie des Heilands schwanger, 124: und ist GOt⸗ Speise. 125. Dieses hätte nach dem Fall nicht können geschehen so heisius nicht in die Menschheit wäre eingegangen, 126. und des Grimmes Macht zerbrochen hätte. 127. Dieser ist der neue Stamm 1 aussen, 129. sondern die Begierde muß in denH.Geist cht ni von on 130. Esif für
+
+N e
+
+schen 134.
+
+Mensch nicht erwarten; 133. dann der rechte Weg ist im Mens
+
+Es muß aber ein rechter Ernst seyn. 135. Der aussere
+
+soll alles verlassen, das gehet gar schwer zu, 136. und gehet man⸗ e Geburt tiefer im Centro wohnet, als die aͤussere Welt, 149. gleich um nn De en. deb fer Auf son en, teh aus ht Jol nic tklichen Lebens willen, ist das aussere Leben als todt geachtet. 157. fq- y se st ri Ch s ze rt He | Der offene Brunn im HAnsere Quell und stete Erquickung.
+
+Bu.
+
+[p. 11] ww v
+
+Ban ich mich auch einZweigleinam selben Baum befinde, daßer also suß und freudenreich ist; und sehe dis mit grosser Vers wunderung, daß Er, gleich als mitten in der Nacht, anhe⸗ bet mit schoͤnen Zweiglein zu grünen: ja mitten im Winter wachsen Lilien und Blumen.
+
+2. Ist das nicht wieder alle äuffere Vernunft, daß ein ale tes, verwuͤstetes, zerbrochenes
+
+Haus, das immer des
+
+Sturmwindes wartet, wenn er das im Hauffen wirft, der anhebet Neu zu werden? und stellet seine erste Bug \ dar, als wäre es niealtworden: Wir sehen dieses Bau
+
+\ erste Gestalt, wie er in der Jugend war, und wie sein A und Jugend eine Gestalt, Kraft und Tugend ist; ist das nicht groß Wunder?
+
+3. Wir wurden in unserer ersten Mutter, die uns alle ges bar, blind, und werden nun in unserm Alter,dawiram En⸗ de sind, wieder in der Mutter Schooß sehend: Wir wurden |
+
+stumm, und verloren unsere Muttersprache, und finden die nun in unserm Alter wieder, daß wir in derselben unsere Mutter erkennen, und koͤnnen mit ihr aus ihrer Sprache re⸗ den. Sollen wir uns nicht billig hochverwundern, daß wir in unserer Mutter waren und erkanten die nicht?findalso >
+
+schere Zeit blind an ihr gewesen, und werden nun im Alter ehend.
+
+4 Sollen wir dann von unserm Alter sagen? Nein: Wir sind ein neuer Zweig, aus unserer ersten Mutter erboren;
+
+Wir waren ein verdorreter Ast am Baume, aber die Mutter hat ihren Saft und Kraft in uns eingefuͤhret und einen jungen weig aus sich geboren, daran sie will Freude haben, und 1 adurch ihre Frucht gebaͤren.
+
+Ja einen jungen Sohn hat sie aus dem alten geboren, der soll nicht blind seyn, auch nicht von ihr ausgehen, sondern in ihrem Hause bleiben, dann er ist ihr einiger Erbe, an dem sie Freude hat. 5. Lieben Bruͤder, lasset uns doch freuen, und in dem HErrn frolich seyn, daß unsere Stadt Jerusalem und Sion i wieder gebauet wird, in welcher unsere Mutter wohnet, und auch unsere ewige Wohnung seyn soll.
+
+6. Weil ihr dann, liebe Herren und Bruͤder, wie ich vers nehme, auch mit in der gruͤnenden Essentz inne stehet, und ein sehendes Auge empfangen habt; alslüstert mich in 8 ies, [p. 12] über Esaia Stiefels Büchlein.
+
+in der Essentz meiner Mutter, mich miteuch hertzlich in unserem neuen Leben zu ergetzen, und bitte, wollets nicht anders als in rechter Treu und Liebe, als ein Glied dem andern ist, verstehen. 7. Daß ich also mit Euch reden werde, geschiehet nicht dergestalt, als wolte ich uͤber eure Gaben auffahren, und mich ‚über euch erboͤhen, indeme mir vom Goͤttlichen Mysterioiff tin scharfer Verstand gegeben worden; Sondern wollet sol⸗ ger: verstehen, daß ich nicht euer Zerbrecher, sondern viels ein Balcke in unserem Baue, in unserer aller Mutter Hause bin worden, nicht durch menschliche Vernunft oder
+
+Kunst, sondern also hat es zugerichtet deres Macht hatte, der da thut was Er will.
+
+8. Somuß doch ein Haus nicht allein Sparren und Balı cken haben, sondern auch Steine zum Grunde, und muß man⸗ jerley Gefuͤge haben. So nun der HErr einen zum Grunde er Eckstein leget, und den andern zum Bau brauchet,
+
+so sollen wir uns untereinander lernen erkennen, einen ieden seiner Gabe, und uns nicht wegen der ungleichen Ga⸗
+
+25verachten oder verwerfen, wie bisanhero eine lange Zeit geschehen ist: sondern vielmehr betrachten des Baues Nutzbarkeit, und daß ein Gefuͤge nicht seyn muß als das andere, da es doch alles in einander geschlossen ist, und ist zusammen nur Ein Haus.
+
+9. Mir ist gegeben worden, vom Grunde zu verstehen und zu reden, einem andern vom gantzen Gebaͤue GOttes, als in ner Summa.
+
+So ist aber der Grund und das gantze Haus
+
+Gottes nur Eins: Aus Einem Geiste kommt das her, und dienet das alles zur wunderlichen Offenbarung GOttes. 10. Darum, obich mit Euch reden werde aus meinen Ga⸗ ben, und euch das Gebaͤu im Inneren zeigen; so bitte ich, es ja nicht anderst als nur hertzlich und wolmeinend zu verstehen. i0 es nicht aus Leichtfertigkeit oder Vermessenheit, sondern in wahrer mir von GOtt gegebnen Erkentniß, zu Nu⸗ tze und zur Besserung, auf daß unser Perlein möchte gefunden werden, und der Feind, der uns so lange hat gefangen ge⸗
+
+‚ in feiner Gift ersticken, auf daß wir mögen den wun⸗ derlichen GOtt in feiner ungruͤndlichen Weisheit lernen er⸗ ennen, und uns in Ihme als 2 Kinder, gleich als ein Ast am [p. 13] mn
+
+Xl. Bedencken am Baume, infeiner Essentz und Kraft erfreuen, welche Freu ⸗ de ein Gruͤnen in unsers Lebens Essentz ist: Darum wollets anderst nicht vermercken.
+
+u. Ihr habt mir ein Büchlein mitgeschickt, mich samt eu⸗ ren Freunden darinnen zu ersehen, und begehret, meine Er⸗ kentniß darüber Euchzu eröffnen, welches zwar inmeinen Schriften, so ihr in Händen habt, euch möchte albereit schon genugsam eroͤffnet und verstanden seyn, was ich euch wuͤrde darauf antworten:
+
+Weil es aber zu Gottes Ehren, und
+
+Menschlichem Heil zu Nutz gereichet, will ich euch eine kurtze summarische Antwort daruͤber geben, und euch ferner in meine Schriften gewiesen haben. 12. Von dem Autor desselben, welcher mir zwar nach mei⸗ nem aͤussern Menschen unbekant, aber im Geiste nicht fremde ist, sondern aus meiner Mutter Essentz und Kraft erboren [ehr
+
+sage und erkenne ich so viel aus seinen geschriebenen Worte welches sonder Zweifel auch also sein Geist und gantzer Wille ist, daß er sich freylich wol, wie er auch selber durchaus meldet, vat in der Mutter Schooß ganglich wieder einergeben, und K begehret nichts als nur der Mutter Leben und Geist.
+
+13. Und daß sich freylich wol nur der Mutter Geist in Di als indem Alten, und nun aber in einer Neuen grünenden Ef sentz raͤget, die Alte im grimmen Quall gefangen hält, und also ersuncken ist mit der alten Essentz daß er sich selber nicht mag kennen, indem er vermeinet, er sey gantz und gar durch und durch neu, und ohne Suͤnden und Mackel: ar wol recht geredet, aber nur nach dem inneren neuen enfthen aus Cbristo geboren, aber nicht nach dem sterblichen, verweslichen Menschen, welchen der Neue in sich, als durchdringend oder gantz über schattend, gefangen hält. 14. Der alte Stock oder Hülfe, verstehet der Leib, den uns Adam mit seiner Imagination in die Irdigkeit, aus irdischer = und teufelifcher Essentz, als eine wiederwaͤrtige Qual, einfuͤh⸗ rete, der ists nicht, der da gruͤnet, sondern das verblichene Bilde GOttes, (verstehet dem Adam aus Goͤttlicher Wesen⸗ heit gegeben, als vom andern krincipio, aus dem Reiche des Himmels,) welches mit der irdischen Einfuͤhrung erstarb, oder wie ichs geben möchte, wieder in die ewige Stille, als in das Nichts geschlossen ward, da es fein recht Soͤttlich Leben verlor; das ists, darinnen das ewige Wort Mensch ward, [p. 14] uͤber Esaiaͤ Stiefels Buͤchlein.
+
+und wieder lebendige Wesenheit mit seiner Eingehung und Er⸗ geinführete, und aus dem Tode das ewige Leben gebar.
+
+Dieselbe Goͤttliche, und dann auch im Tod eingeschlossene
+
+Menschliche Wesenheit oder Fleisch,ward ein Mensch, deme ie irdische Huͤlse nur anhing, und hielt den irdischen brennen⸗ en Tod in sich gefangen. Darum muͤssen wir Unterscheid ten, wenn wir von uns selber wollen reden. 15. Die H. Schrift saget auch nicht von einem gantz neuen eische, daß das alte Fleisch gantz neu in Göttlicher Essentz empfangen, und in G Ott geboren werde: sonst muͤste folgen, das böfeeingeführte thierische Fleisch, mit thierischer Ei⸗ genschaft wäre in die Kraft der Masestat erhoͤhet worden.
+
+16. Und ob man wolte sagen, die irdische Qual werde in der
+
+Neuen Geburt aus Christo gantz ertödtet, und sterbe gantz und ar im Tode Christi, wie der Autor redet, daß der Alte Mensch ab, todt und ein Nichts sey, und allein Christus in die⸗ n aͤussern sichtbaren Fleische lebe, regiere, und alles thue und verrichte; so muͤste auch der Mensch auf Paradeisische Art essen, trincken, und nur himmlische Qual geniessen: Dann Christus isset nichtmehr irdische Speise, sondern Goͤttliche;
+
+Auch
+
+so leidet es der thierische Madensack (der da nur Staub ud Unflat machet,) nicht, daß wir wolten den gantzen Men⸗ aus allen dreyen Geburten, Goͤttlich nennen, vielweni⸗ ger das Reich dieser Welt von Sternen und Elementen, wel⸗ ches aͤusseren Menschen Qual, Leben und Regiment ist.
+
+17. Wir koͤnnen das nicht leugnen, es sey ein Mensch so heilig alserwolle, so ist doch der Geist der aͤusseren Welt, sei⸗ nes aͤusseren Fleisches Geist, Leben und Führer: und sehen klar, wie der auffere Mensch in einer Conktellation des Gestir⸗ nes stehet; wenn ihn dieselbe verlaͤsset, so faͤllet erdahin und verweset. 18. Weil mirs aber aus GOttes Gnade zu erkennen ist ge⸗ eben worden, was der irdische, und denn auch der himmlische
+
+Mensch in Einer Person ist: So will ichs mit Wenigem ent⸗ werfen und auch anzeigen, wie es eine Gestalt mit dem Autor des mir zugeschickten Buͤchleins habe: Und solches aus dem Grunde, iedoch in Kindlicher Einfalt; dem Autor, und denen die sein Buch lesen, zum Verstand und zur Richtschnur. 5 15 Anlangend den Autor, verstehe ich also, daß er freylich wo mag ein frommer, neugeborner, und in Christo mit seiner neuen [p. 15] neuen Geburt und neuen Menschen heilig seyn, wegen
+
+Chi
+
+Einwohnung: Dann die Wesentliche Einwohnung ist der he ligen Schrift durchaus gemäß, wie er solches auch hochbewa ret; und habe ich indasselbige wieder ihn gar keine Einrede: Es ist der wahre Grund, daß uns Gott hat in sich, aus seiner
+
+Himmlischen Wesenheit, durch seine Kraft im Worte und eg Fleisch und Blut, zu Kindern aus feiner Essens ge 3 oren.
+
+Ir *
+
+20. Ich verstehe auch Fleisch und Geist in Einem Wesen, und gar nicht Geist ohne Fleisch und Blut: Verstehe auch daß solches ist in des Weibes Samen geschehen, und noch im mer dar geschiehet: und sage mit Grunde, daß Christus in und aus meiner eigenen Menschlichen Essentz, in mir selber ein neue Creatur geboren werde, wie dann der Autor durchaus \ auch also redet.
+
+21. Aber dem Autor mangelt der Begriff der3Prineipien ineinander, als der drey Welten ineinander: Er unterschei⸗ det eine nicht von der andern; Er hat sich gantz zusammen ge⸗ raft mit aller Vernunft und Sinnen, und sich gantz in di Menschwerdung Christi, in sein Leiden, Sterben, Tod und
+
+Auferstehen eingeworfen, und sich feines aufferen Lebens ver⸗ ziehen: Begehret nur in und aus Christo zu leben, vewwvirft alles was deme zuwieder ist und lebet, er begehret nichts als was Christi ist; Christi deben und Geist, auch Wille, soll fein Geist, Leben und Wille seyn: Also ist er gleich im Leben, Wil len und Geiste Christi, wie darinnen ersuncken, daß sein Alte
+
+Mensch ist als ware er todt, da er doch nach dem Reiche und Qual dieser Welt in seinem eigenen Principio in sich 8 storben: Dann er kann nicht sterben, bis ihn der Geist der seren Welt in feiner Constellation verläffet, und er doch n also abstirbet, sondern als in das Mysterium des auffern Prin- cipii mit feinen Wundern und Wercken trit, bis ins Gerichte Gottes, zur Wiederbringung alles dessen, was wir in Adam verloren haben.
+
+22. Dieser gantz christliche Eingang vom Autore ist gantz recht und ohne Falsch, ihme ist auch recht in Christo geschehen, so fern sich das Werck, als ich dann ganglich spuͤre, mit ihn also verhält, wie er von sich schreibet; Aber feine Erkentni seiner selber, was und wie er ist, waͤre noth besserzuerklaͤren: Er hat sich mitten in Baum geworfen, da er zwar wol sicher [p. 16] uͤber EsaiaͤStiefels Büchlein.
+
+und gut stehet) aber die Wurtzel des Baumes ist ihme noch verborgen,erstehet darinn als ein Zweiglein, aber in Mitten.
+
+23. Wenn man will dem Menschlichen Gemuͤthe genug thun, daß sichs in die ewige Ruhe begebe, so muß man ihme die Wurtzel des Baumes zeigen, woraus Geist und Fleisch feinen
+
+Urstand hat. Man muß ihme das Centrum der ewigen, dann auch der anfänglichen Natur zeigen und eroͤffnen, daß er das irdische und auch das himmlische Mysterium ergreiffe: Als⸗ dann ist derewige Anfang und das ewige Ende gantz Eins, darein leget sich der Seelen⸗Geist in die Ruhe, denn er siehet das Rad gantz. 24. Mit dieser Beschreibung ist die bloͤde, verderbte, äuffere Natur gar übel zufrieden, dann ihr wird ein Ding zugemuthet, daß sie nicht thun kann: Der Autor saget, sie fol gang erster⸗ ben, auf daß allein Christus im Fleisch lebe; das will sie nicht, sondern hoffet der Renovation, welche sie zwar anzeucht als ein Kleid, aber nicht essentialisch in der Kraft: Sondern also gehen ofte die Strah⸗ wie das Feuer den Stein durchgluͤet, des H. Geistes, aus dem andern Principio, aus dem Neuen enschen, durch den Alten: und wie das Eisen in der Glut ind auffer der Glut einmal ein Eisen ist als das ander, also ist “Ef uchder irdische Mensch. 25. Er muß wol des inneren Menschen Knecht werden, ven der neue mit feinem gluͤenden Goͤttlichen Feuer durch ihn faͤhret, er thuts auch gerne, also lange die Feuers⸗Glut durch ihn scheinet, aber er vermag sich nicht in das innere Reich zu verwandeln: Dann das aͤussere Fleisch und Blut soll Himmelreich nicht erben, sagt Christus; Es soll und muß verwesen, als eine Huͤlse von der Essentz des eingefäeten Korns im Acker. 256. Ihr habet, geliebte Herren, den Grund dieser Ge⸗ heimniß in meinem Buche von der Menschwerdung Chri⸗
+
+Pi, und im Buche vom Dreyfachen Leben, gar weit aus⸗ führlich, wie der Mensch in einem Dreyfachen Leben stehet; als nach der Seelen in des ewigen Vaters Natur, und in der urtzel der finstern Welt, im Centro des ewigen Urstandes, als im Geiste des ewigen Vaters. Zum andern, wie die rechte wahre Bildniß und Gleich⸗ niß
+
+GOttes, aus der Seelen, als aus dem Sterben in der See⸗ len magischen Geist⸗Feuer, in einem andern Principio a andern
+
+### [p. 17] VI. Bedencken
+
+andern Welt ausgruͤne, und von der Natur, auch vom Ster⸗ ben, Qual und Pein frey werde, wie GOtt selber: Und 122 die wahre Bildniß GOttes nicht in der aͤussern Welt Regi⸗ ment lebe, sich auch nicht der äusserlichen Speis und Tranck GOt behelfe, sondern esse von Goͤttlicher Wesenheit, als von tes Brot, von Christi Fleisch und Blute, also daß Christus in ihr, und sie in Christo lebe: Und daß dasselbige Essen in Gei licher Begierde stehe, und auch wahrhaftig wesentlich 5 he, und die Seele damit in ihrem Hunger⸗Feuer ge werde: Und daß ein grosser Schluß zwischen der Seelen der wahren Bildniß, im Sterben des Feuers geschehe.
+
+28. Wie wir das am Feuer und Licht sehen, und eine ge rechte Form und Gleichniß haben, da man mit der Fei Glut die Seele im Gleichniß verstehet, denn Sie ist in fl was sie pur ohne die Edle Bildniß alleine anlanget, ein Feuer Auge, in GOttes des Vaters ewigen Natur innestehend, vom Geiste GOttes aus des Vaters Eigenschaft in das aussere ge⸗
+
+schaffene Bild, das aus aufferlicher und inner⸗bimmlischer
+
+Goͤttlicher Wesenheit ward geschaffen, eingefuͤhret; und ver⸗ stehen die Edle Bildniß im Lichte, und in der Kraft des sanft Lichts, das vom Sterben, als von der verzehrlichen Qual d Feuers, ausscheinet. Da wir denn sehen, wie das Licht Feuer wohnet ohne Empfindung des Feuer⸗Qualls, und das Feuer der Natur als eine peinliche Effeng sey, und das Licht von der Feuers⸗Natur frey sey, und doch ohne das Feuer ein
+
+Nichts sey.
+
+29. Fuͤr das ander habe ich euch gezeiget in obgemel
+
+Büchern, wie das Feuer eine magische Begierde sey nach
+
+Sanftmuth, sich zu erkuͤhlen, und feinen duͤrren Hungerz erfüllen, daraus es has Leben und den Schein empfaͤhet: un denn auch, wie das Licht eine grosse Begierde nach dem sey, fein Leben und Kraft durchs Feuer zu erwecken. 30. Fuͤr das dritte, wie das Licht in ihrer Begierde eine Wesenheit mache, als Sanftmuth, welche im SterbenimFeu⸗ er urstandet, welche Sanftmuth das Wasser des Er bens genant wird, denn es istein Sincken durch den Tod, ibt Begreiflichkeit und Wesenheit: und wie das Feuer die Wesenheit wieder in sich ziehe, und sich damit erfättige, und aus demselben Einziehen wieder einen Geist aus sich gebaͤre, der immer wieder in die Wesenheit eingebe, und We [p. 18] über Esaiaͤ Stiefels Büchlein.
+
+Glantz vom Feuer und Lichtindie Wesenheit einfuͤhre; Wel⸗ cher Glantz in der Wesenheit der Sanftmuth die Tinctur heis⸗ set, welche die Wesenheit in die hoͤchste Zierde und Farben eins führer, und die Essentz, als die Gestalte der finsteren Welt zum Feuer⸗Leben, also renoviret und hoch gradiret, und in ein an⸗ ders trans mutiret, daß aus der feindseligen, peinlichen Qual des ersten Principii durchs Feuer, in der Edlen Tinctur die böchfte Freudenreich wird, und also das Boͤseste des Besten
+
+Ursach ist: in welchem Fuͤrbilde wir auch, in der innern Ges burt, die Geburt und das Wesen der H. Drepfaltigkeit ver⸗ nr Und dann fuͤrs vierte habe ich euch in denobgemeldten Buͤchern berichtet, wie daß das gantze Wesen aller Wesen eine immer waͤhrende Begierde sey, sich in feiner Begierde zu offen:
+
+zur Offenbarung das Fiar sey, und wie diese Begierde baren, und die Kraft im Lichte das Wort sey, und wie das Wort habe das Fiat in allen Gestalten der ewigen Natur beweget, nach der Licht: und auch finsteren Welt, dadurch die Begierde nach bey⸗ der Welten Eigenschaft in sich habe Wesen gemachet, davon inder Wesenheit ist Gutes und Boͤses entstanden, nach ieder
+
+Welt Eigenschaft; Aus welchem Wesen diese aͤussere, sicht⸗ bare Welt mit Sternen und Elementen ist erschaffen, als ein eigen Leben, und doch nicht vom Ewigen abgetrennet: und dann ferner zum Verstand gegeben, wie sich das innere, Geist⸗ liche Wesen in seiner Begierde, mit dieser aͤusseren sichtbaren Welt, als mit einem Gleichniß, habe offenbaret. 32. Als nun Gott den Menschen, als ein Bilde nach feinem Wesen, ein Gleichniß nach GOtt schuf, so schuf Er ihn aus der er aller Wesen, und allen dreyen Welten. 33. Dann Gott wolte sich durch den Menschen in einem Bilde schauen/ er solte ein Gleichniß nach GOtt seyn: Seinen Leib schuf Er aus aͤusserlicher und auch innerlicher Wesenheit, als aus Himmlischer und Irdischer, und blies ihme durch sei⸗ nen Geist einen lebendigen Odem ein, das ist, sich selber, nach der Goͤttlichen Melt, und auch nach der aͤusseren Welt. 34. Denn der Geist Gottes ist alles Lebens Geist, aber unter schieden in drey Principia dreyer Welte: als, nach der Welt, nach dem ersten Principio, nach welchem sich Ott einen zornigen, eiferigen GOtt nennet, und ein verzeh⸗ ist die ewige Natur: Und zum 11 vend Feuer, welches na 0
+
+[p. 19] XI.
+
+Bedenckeen nach der Licht⸗Welt, als nach GOttes Liebe und Sanftm nach welcher Er der Heilige Geist heisset: Und zum dri nach der aͤusseren Welt, dem Luft⸗Geist, mit der Sternen und
+
+Elementen Qual. Also hat der Mensch ein Dreyfaches 5 empfangen, den Geist aller drey Welten.
+
+35. Nun ist uns ja greiflich und gut genug erkentlich, Re } der H. Geist nicht wird fein Regiment haben im äuffern irdi⸗
+
+schen Fleische gefuͤhret, sondern im innern himmlischen: Dann mit feinem Eingehen in die Menschheit hat Erauch die himm⸗ lische Goͤttliche Wesenheit mit eingefuͤh ret. 36. Dann Gottes Geist wohnet von Ewigkeit in Ewigkeit nur im Himmel das ist, in Seinem Wesen, in der Krast der Majestaͤt: Als Er sich aber in des Menschen Bilde einblies,so war der Himmelim Menschen; dann GOtt wolte sichim Menschen, alsineinem Bilde nach Ihme, offenbaren, und die grossen Wunder seiner ewigen Weisheit, durch den 9 eroͤffnen. wi 37. Darum muͤssen wir den Menschen recht betrachten, was er sey, und nicht ein irdisch Thier aus ihme machen, und auch aus seinem irdischen Theil keinen Engel; sondern er nach dem irdischen Reiche, als nach dem dritten Principio, in die Wunder geschaffen, daß er solte die Wunder in Figuren offenbaren, dann dazu hatte er den Innern Geist aus dem er⸗ sten Frincipio, aber er solte damit nicht herrschen, und auch nicht mit dem aͤusseren, sondern sich dem H. Geist im andern
+
+Principio einergeben, und im aͤusseren Leben seyn als ein Kind in der Mutter Schooß. HE 38. Denn der Geist GOttes hatte das aͤussere Reich insich gleich als verschlungen, gleichwie das Licht die finstere Nacht verschlinget, daß man die nicht siehet. Aber durch seine = gination in die Irdigkeit, ward die Irdigkeit und die finsters Welt in ihme offenbar, dann das Seelen⸗Feuer alte ing nach Irdigkeit, und fuͤbrete irdische Sucht in sich: Also sing das Seelen⸗Feuer in irdischer Qual an zu brennen, und ward in der Irdigkeit offenbar, und da doch die irdische Gestalt nicht solte offenbar seyn. 39. Und also lüsterte auch nun die Seele von Bos und Gut u essen, als von böfer, giftiger, grimmiger Eigenschaft aus der nstern Welt Wesenheit, als von Luͤgen, Triegen und Falsch⸗ it, in ax»
+
+© ite uin Ait heit, in welcher Qual sie in GOttes Zorn und in der finsteren Welt lebete. 40. Denn [p. 20] uber Esaia Stiefels Büchlein.
+
+die aͤussere Irdigkeit urstaͤndet in der Schoͤp⸗ 40, aus der finstern Welt Wesenheit, und nicht allein dis,
+
+sondern auch aus der Himmlischen. dem
+
+Dieses verbot GOtt
+
+Adam, ersolte nicht vom Baum des Erkentniß Gutes und
+
+sesessen,sonsten würde er dem Paradeis, als der Goͤttli⸗ »Wesenheit absterben. 1, Denn ee gruͤnete durch alle Fruͤchte, dem K apa Menschen erschaffen, unnd er solteau in seinem Munde war die Scheidung, daß das Himmlische das Irdische verschlang, gileichwie der Tag die Nacht: als wir dann wissen, daß unser Leben so wir ietzt führen, muß in eine Transmutation gehen, * . Kind heissen; es muß GOtt wieder anziehen, den es in Adam hat ausgezogen.
+
+42. Denn wir verstehen, daß Adam mit feiner Imagination werstehet die Seele) ist aus der Goͤttlichen Kraft, als aus dem andern Principio, ins aͤussere, alsins dritte, eingangen; und liegt die arme Seele nun in einer fremden Herberge gefan⸗ dasie der Teufel plaget, und stets feine Imagination in sie gen, einfuͤhret, es sey denn, daß sie sich gantz wieder in das an⸗ dere Principium, welches in Christi Person sich wieder in r Menschheit eröffnete, einergibt, und in demselben Leben wieder in GOtt geboren wird; sonst stehet sie nur blos mit ihrer Wurtzel in der finstern Welt, als in GOttes Zorn, und mit ihrer Bildniß⸗Figur in der Begierde dieser aͤusseren Welt, darinnen wird sie nicht fuͤr GOttes Kind erkant und angenommen.
+
+aber dann nun ist, daß Adam hat mit feiner 43.So es
+
+Imagination in die Irdigkeit, das innere Reich im Zorne er⸗ et, daß es in ihme und allen feinen Kindern brennet, und ie feinem himmlischen Fleische irdische Sucht eingefuͤhret; verstehen wir, daß dadurch der H. Geist ist aus demselben so Wesen gewichen, denn GOtt verfluchte die Erde, das ist an⸗ ders nichts, als Er entwich mit dem Paradeis vom Menschen; as Leben des Paradeises, das in Goͤttlicher Essentz in Adam war, das erlosch; Davon sagte GSOtt zum Adam: Welches es duvom Baume oder Gewaͤchse des Erkentnisses Gutes
+
+Boͤses issest, wirft du sterben. (Gen. 217.) Das ist an⸗ vs nichts, als am Himmelreich sterben, und der Irdischen lebendig werden.
+
+44. Denn
+
+[p. 21] 44. Denn also sagte auch die Schlange: Du wirst ni
+
+sterben, sondern deine Augen werden dir dadurch aufgethan, und wirft seyn als GOtt; (Gen, 3: 5.) Aber die Schlange betrog Hevam: Es wurden ihr wol die Irdischen Augen auf⸗ gethan, aber die Himmlischen wurden ihr zugethan.
+
+45. Also verstehen wir auch, daß Adam mit seiner 3 tion hat der Seelen Willen gantz in die aͤussere Welt ei ret, und hat sein aͤusser Fleisch gantz irdisch und 900 macht, darinnen alsbald die Sternen und Elementenhaben geherrschet, und ist der himmlischen Wesenheit gantz 95 ben; wiewol kein Tod oder Sterben in der himmlischen We⸗ senheit ist; allein weil GOttes Geist daraus wich, so ward sie in die Stille, als ins Nichts geschlossen, und verlor der ern hierdurch die Gleichniß GOttes, das edle Bild.
+
+46. Darum sprach Christus: Ihr muͤsset aus dem Was⸗ 5
+
+ser und H. Geist neugeboren N wollet ihr anderst GSOt⸗ tes eichReichschauen: schauen: Joh. Joh. 3. 5. Da Wasser ist ist die die hihimmlische 685 | Wesenheit, erboren von der Sen der ner tes, darinnen ist die hoch⸗edle Tinetur himmlisch. 47. Und verstehet uns, daß GOttes Wort, als das in
+
+Marien Mensch ward, hat wieder dasselbe Wasser oder Goͤttliche Wesen, in unsere in Tod eingeschlossene Wesen⸗ heit eingefuͤhret, verstehet nicht in die Irdigkeit, 8 in das himmlische Theil, welches Adam mit dem H. Geist, als er sich in die Bildniß einführete, ward mit eingefuͤhret: Denn des Weibes Same solte der Schlangen den Kopf zertreten; Gottes Essentz nahm ansich Menschliche Essentz, und ward Fleisch, und nicht allein des Fleisches Essentz, sondern auch der Seelen Essentz: Also kam das Goͤttliche Leben wieder ins Fleisch, und ward das ander Principium im Menschen wieder umWN in Gott geboren, und hing gleichwol das ae eich an 48. So wir dann nun alle von Adam sind herkommen, so sind wir auch alle zugleich aus feinem verderbten, fündlichen Fleische geboren, und sind alle in GOttes Zorn, und mit derx Seelen in die finstere Welt beschlossen: denn wir sind aus ir⸗ dischen, boͤsen verkehrtem Willen, in Ungehorsam, in eitel
+
+Angst, Jammer, Gift, Bosheit, Neid und Zorn, aus dem ewi⸗ gen Tode, in das irdische, zerbrechliche Leben geboren: Wir sind aus dem Reiche der Wahrßeit in die Zügen und den Be⸗ trug [p. 22] über Esaia Stiefels Büchlein. 179 trug geboren worden: der Teufel hat seinen Willen in uns eingefüͤhret, und darinnen leben wir, und essen immerdar von der verbotenen Frucht. 49. Es sey denn Sache, daß wir umkehren mit unserm Wil⸗ len, und gehen wieder in die Neue Geburt, welche uns Chri⸗
+
+stuha stinunserer Menschheit eröffnet, ein: So werden wir im Wort, daß sich in Marien, in der rechten Menschlichen
+
+Essentz eröffnet, wieder empfangen, und des Heilandes schwan⸗ + als des Goͤttlichen Reichs. 30. Nicht in der irdischen Essentz wird GOtt in uns of⸗ 905 sondern in der rechten Bildniß, welche in Adam ver⸗ blich: Aber das Aeussere hanget an dem Innern, der innere ensch offenbaret das Göttliche Nysterium, und der auffere Mensch offenbaret das aͤussere Mylterium ‚als den Spiegel der
+
+5. der. Also gehet nun der Streit in einem Neugebornen Men ⸗ schennan der Neue will Herr seyn, denn er besiehet die Goͤtt⸗ liche Welt, und der Alte stehet gegen ihm, und will auch Herr seyn, denn er besiehet die aussere Welt: So aber der innere
+
+sich chst, und in Gottes Willen starck wird, verstehet, wenn die Seele gantz darein ergiebet, so wird der Auffere gefan⸗ gehalten: Denn der innere toͤdtet immer den aͤusseren mit Ottes Liebe und Sanftmuth, daß der aͤussere feine irdische, tige, vom Teufel inficirte boͤse Sucht und Willen nicht kann Seelen⸗Feuer einführen. 32, Aber gantz ertodtet mag der äuffere nicht werden, bis in de dec Denn wenn der aussere Mensch solte gantz ertoͤbtet werden, so muͤsie das Reich dieser Welt von ihme ab⸗ brechen; so mag der aͤussere auch nicht gantz in die Renovation gesetzet werden, dann des Teufels Sucht stecket in ihme; son⸗ n der aͤussere muß wieder ins Mysterium eingesetzet, und am Juͤngsten Tage durchs ewige Feuer gefuͤhret werden, da dann boͤse Sucht, die Turba, im Feuer verschlungen wird, und Mysterium mit feinen Wundern wieder an der edlen Bild⸗ erscheinen.
+
+3. Darum kann ich mit keinem Grunde von meinem aͤus⸗ Fleisch und Blute sagen, daß es Ebristi Fleisch sey, und u gantz heilig und ohne Mackel: Allein von dem inneren Menschen, aus GOtt geboren, kann ichs mit Wahrheit sagen,
+
+N daß er in GOttes Essentz, En Wort des Lebens 4 das dam
+
+[p. 23] Adam im Paradeis wieder verheissen ward, welches sich im.
+
+Ziel, in dem hochgebenedeyten Jungfraͤulichen Spiegel, als in der Goͤttlichen Jungfrauschaft, in unserer im Tod eingeschlos⸗ f senen Wesenheit eröffnete, empfangen sey.
+
+54. Denn in derselben Empfaͤngniß ist das Himmelreich, oder das Hertze GOttes, der Mann zum Samen der gesaͤet wird; Und des Weibes Same, verstebet der Seelen und der edlen Bildniß im Tod eingeschlossene Same, ist die Matrix, die Gottes Samen in sich, auf essentialische Weise, annimt: A so, daß GOtt und Mensch Eine Person wird, nach der Gestaß der dreyen Welten, wie die in einander stehen, und keine die andere ist: Denn keine besitzet die andere, sondern es wohnet eine iede in sich selber; Daß, ob gleich GOtt in Christo in uns geboren wird, so koͤnnen wir noch lange nicht sagen, wenn wir vom gangen Menschen reden, Ich bin Christus; deun der aͤussere ist nicht Christus; Sondern also können wir mit Grunde sagen: Ich bin in Christo, und Christus ist in mir Mensch worden. 55. Aber sein Menschlich Reich ist nicht von dieser Welt, und ich bin mit meinem Neuen Menschen in Christo nicht von dieser Welt; denn S. Paulus sagte auch also, daß unser Wan⸗ del im Himmel sey, von dannen wir, verstebe das aͤussere My-
+
+sterium, warten des Heilandes JEsu Christi. (Phil.3:200 Denn das aͤussere Mysterium am Menschen, wird erst JE sum Christum am Juͤngsten Tage anziehen, wenn die Turba wird zuvor vom Myfterio genommen werden, darinnen der Suͤn⸗ den⸗Spiegel stehet, welcher gehoͤret dem Grimme GOttes; Und darum ist ein Gerichts⸗Tag bestimmet, da alles soll gebracht werden, was wir in Adam verloren n.
+
+56. So wir aber solten mit diesem aͤusseren, sichtbaren, be⸗ greiflichen Fleische gantz vollkommen seyn so muͤste der gussere Mensch das Paradeis wieder angezogen haben, so waͤre der aͤussere Mensch unsterblich und unzerbrechlich, und koͤnte durch Erde und Steine gehen; auch waren die vier Elementa in Ei⸗ nem als wie verschlungen, wie wir am Juͤngsten Tage werden sollen: auch so muͤste der auffere Mensch nicht mehr vom verbotenen Baum essen; auch so muͤste die magische Schwaͤn⸗ gerung angehen, und muͤsten wir nicht auf eine Viehische Art geboren werden.
+
+57. Hat [p. 24] üuͤßber Esaiaͤ Stiefels Büchlein. 87.
+
+Hat aber der Autor, wie er meldet, das Paradeis ange⸗ „sogen, so ist er verzuͤcket; ich kann solches von mir auf ietzo noch nicht sagen, ich habe auch das Perlein mit Ernst gesuchet, und habe auch ein Kleinod dadurch erlanget; mir ist auch ge⸗ geben worden, den ersten Menschen im Paradeis zu erkennen, wie er vor dem Fall und nach dem Fall sey gewesen, und habe . pi es Paradeises Eigenschaft gesehen, aber nicht im aͤussern
+
+38. Ich sage auch, daß der innere Mensch das Reich GOt⸗ hat angezogen, und lebet im Himmel in GOtt, aber es ist h ein grosser Unterscheid zwischen dem aͤussern und innern
+
+Menschen auch zwischen uns und der Paradeis⸗Welt: Das garadeis gruͤnet nicht mehr durch die Erden; der HErr hat die Erde verflucht, und der aͤussere Mensch wohnet auf der verfluchten Erden, und isset die verfluchte Frucht, er schlucket den Fluch in sich: Und darum ist alhie in dieser Welt keine gantze Vollkommenheit.
+
+39.
+
+So weit kommts wol mit dem Menschen, so er in die eue Geburt eintrit, daß er den aͤussern Menschen kann baͤndi⸗ daß er thun muß was er nicht gern will, denn der innere nimt ihm den Gewalt, und durchdringet ihn, wie das Gold im groben Steine: Aber gleichwie die Grobheit am Steine nicht
+
+Gold wird, also auch wird der irdische Mensch nicht Gott: Sonst muͤste folgen, daß auch die aͤussere Welt in die klare Gottheit verwandelt wuͤrde. 650. Der äuffere Mensch ist die aͤussere Welt von Sternen und Elementen: Und der innere Mensch in Christo, ist die in⸗ nere Goͤttliche Welt; Und die Seele ist die Feuer⸗Welt, denn sie hat das Ewige Centrum zur Natur in sich: dasselbe Cenmumist die finstere Welt, darum wann sie Gottes Licht ver⸗ lieret, so stehet sie in sich selber im Abgrund in der finsteren
+
+Welt, als in GOttes Zorn.
+
+61, Daß auch der Autor meldet, er sey also durch Chri⸗ stumim Tode trans mutiret, daß er nicht mehr fündigen koͤn⸗ ne, und des halben den aͤussern Namen von dem aufferen
+
+Welt⸗Wesen verlaͤsset, das doͤrfte gar viel einer andern klaͤ⸗ rern Beschreibung, und wird schwerlich angenommen wer⸗ den, es komme denn zu einem helleren Verstande. Allerheiligsten haben sich für Sünder bekant, nicht daß
+
+sie die begehren oder thun um
+
+sondern sie klagen das vor
+
+[p. 25] XI Bedencken vor Gott, daß der aͤussere Mensch sey im Zorne Gottes lebendig worden, daß der Zorn in ihnen herrsche wie der hohe
+
+Apostel Paulus saget: So ich nun suͤndige, so thue nicht 2 Ichs, sondern die Suͤnde, die in meinem Fleische wohne (Rom. 7:20.)
+
+62. Wo nun Sünde im Fleische wohnet, daist noch keine
+
+Vollkommenheit; Darum sagt er weiter: Ich armer Mensch,. wer wird mich erlösen von dem Leibe dieses Todes? Und spricht:
+
+Ich dancke GOtt durch JEsum Christum unsern HErrn; so diene ich nun mit dem Gemuͤthe dem Gesetze GOttes, aber mit dem Fleische dem Gesetz der Suͤnden: (Rom. 7124. 25, Die Schrift saget: Vor dir ist kein Lebendiger gerecht. 1 — — Es sind auch die Himmel nicht rein vor GOtt. Solte denn dem aͤusseren, fleischlichen Menschen, der in Gottes 2 schlossen lieget, auch noch ein Engels⸗Name gegeben — Er ist doch nur boͤse, und streitet immer wieder GOttes Ge⸗ setze; Er gehoͤret der Erden, und fein Mysterium dem Wee Gottes, der wird erst die Tennen fegen.
+
+63. Daß aber gesaget wird: Wir sind der Suͤnden im! de Christi abgestorben; ist wol recht, das ist einmal fürı alle geschehen; aber wir müffen noch immerdar also der Suͤn⸗ b den im Tode Christi absterben, wir müffen den Menschen der
+
+Sünden immer toͤdten, auf daß der Neue leben mag: wir nen ihn aber nicht gantz toͤdten, sondern gefangen führen, und ihme immer Wasser aus GOttes Sanftmuth in fein 8 5
+
+Brennen giessen. 64. Denn die Seele ist ein Feuer⸗Auge, und ist das grösf⸗ feste Leben; sie will Wesen haben, darinnen ihr Feuer brenne weil sie aber ist im Fall Adams in diese Welt gewendet worde so ist auch das Reich der Sternen und Elementen in sie Herberge eingezogen, die fuͤhren oft eine seltzame Turba ein. So nun die Himmel vor Gott nicht rein sind, wie will denn dasjenige rein seyn, das von dem aͤussern Himmel regieret wird, als das aͤussere Leben, das nur blos in des außen Him⸗ mels Regiment getrieben wird? 65. Das Unverwesliche, als der Neue Mensch, kann10 Verddesliche, als das aͤussere Fleisch, nicht anziehen, denn die Turba ist darinnen: Dis wird erst am Gerichte GOttes ges
+
+schehen, wenn die Turba wird vom aͤussern Myfterio genom⸗ men werden.
+
+66. Daß [p. 26] uͤber Esaiaͤ Stiefeld Büchlein.
+
+66. Daß aber der Autor saget: Es sey nicht möglich, daß ein Wiedergeborner fündigen könne: in dem verstehet man, daß er der Seelen Nysterium nicht gnug verstehet; war es doch in Adam möglich, da fein aͤusserer Mensch noch rein und unbefleckt war: Dann so man will forschen, woher die Suͤnde en so muß man auf den Grund sehen.
+
+67. Der neue Leib wircket nicht Suͤnde, aber die Seele naginiret in die Bosheit, und führerdieSünde in sich: So ann die wahre Gleichniß nach GOtt, aus der Seelen urstaͤn⸗ et, sowird die Himmlische Wesenheit durch der Seelen ein⸗ enen Gift inficiret.
+
+68. Nicht beruͤhret die Sünde das Hertze GOttes, als das
+
+Centrum des neuen Leibes; sondern die Wesenheit wird infici⸗ gleich als schuͤtte man Erde in ein schoͤn Wasser: Das leisch des neuen Menschen, und der Geist Gottes, ist nicht Ding: Der Geist GOttes bleibet in ihm stehen, ob gleich Adam verdirbet, als das in Adam auch geschah. 659. Was der Licht⸗Welt entfaͤllet, das faͤnget die Feuer⸗ elt; ists grimme Wesenheit, so wirds im Feuer verschlun⸗ gen, und faͤllet in die finstere Welt in ewigen Tod.
+
+Wann der zue Leib inficiret wird, so verlieret er fein Goͤttlich Leben, der Gottheit gehet damit nichts ab, als nur ihr Spiegel der
+
+Wunder: Dann der Leib ist nicht GOtt, allein durch deu Geist wird er durch die edle Tinctur hoch gradiret, mit dem Glantze desH. Himmels, daß in ihme die Farben der Goͤtt⸗
+
+Freudenreich erscheinen: So er aber verfinftert wird sogehet die Tinctur in einer andern Eigenschaft auf. Alle nach deme, worinnen das Seelen⸗ Feuer brennet, also erschei⸗ net auch eine Tinctur daraus; und wie der Geist des Men⸗
+
+Sehen in sich selber ist,also bekommt er auch einen Himmel zur
+
+Bohnung.
+
+70. Ausser GOtt kann nichts fallen, denn Erist selber Al⸗
+
+Ott genant, wegen seines Zor⸗ les, aber es wird nicht alles G nes, daß der viel verschlinget: Verschlang er doch das gantze Königliche Heer des Lucifers, sie waren Engel, und wurden doch
+
+Teufel: Wie wolte es denn in einem Menschen, der doch d er moͤglich feun?
+
+im aͤusseren Fleischein sich traͤget, nicht
+
+78 Ja, so die Seele nicht in die falsche Lust eingehet, daß sie
+
+* t derSuͤnden begehret, so＋ nicht moͤglich. Die 11 [p. 27] as
+
+Fl. Bedenckeeeen ist frey, sie hat das hohe in sich, beydes Jeuers⸗Principium zur Finstern und auch zur Licht Welt; was sie ihr erwecket, das hat sie: sie magin G Ottes Liebe oder Zorn leben; wo sie
+
+sich hinwendet, alda wird sie angenommen, daß sie als die
+
+Mutter der ewigen Natur ist, in allen Dingen; wo sich der ewige Wille hinwendet, nach demselben wird ihm auch seine
+
+Bildniß figuriret. Prag 72. Darum soll der Mensch in dieser Welt nicht sicher ode verwegen seyn, sondern sich stets vor Gott demuͤthigen, feinen Willen ins Hertze GOttes einwerfen: alle die Zeit wei er die aͤussere Hütten traͤget, schwebet er in Gefahr; Weiler aber mit feinem Willen in GOtt bleibet, so ist er in GOttes Hand, so mag niemand ein Schaͤflein aus Christi Händen reissen, (Joh. 10: 28.) der Seelen Wille reisse sich denn selber heraus; welches geschicht, wenn die Seele sicher ist,so fact ihr der Teufel seine giftige Imagination ein, daß sie darinnen an⸗ hebet nach der Falschheit zu imaginiren. 73. Ihr muͤsset verstehen, daß die Seele in des Vaters genschaft stehet; und die schoͤne Bildniß, wenn die erborer wird, in des Sohnes Eigenschaft stehet: Die Seele hat das
+
+Centrum der Finstern Welt, und die Bildniß hat das Centrum der Licht⸗Welt, als GOttes Hertze: Gebet sie aber von GOt⸗ tes Liebe aus, so führer sie ihre Bildniß in des Vaters Eigen⸗
+
+schaft/ in die Finstere Welt in. el 74. Darum heissets uns nur demuͤthig vor unse Gott seyn, und nicht unsern Namen wollen erhoͤhen, ER
+
+Namen Gottes in uns.
+
+Wir sind nicht der Baum mit der
+
+Wurtzel, sondern Aestlein und Zweige im Baume: wir em⸗ pfangen wol des Baumes Essentz und Kraft, gleichwiees der Baum dem Zweiglein giebet; aber ein Zweiglein sprichtn ich bin der Baum, sondern eserfreuet sich im Baume, als
+
+seiner Mutter. 75. So wir Christum anziehen, so heissen wir billig C sten, denn der neue Mensch lebet in Christo: Aber wirfo nicht sagen: Ich bin Christus, in diesem meinem a Fleisch und Beine, in diesem meinem sichtbaren Wandel Erden. Dann Christus sprach auch: Mein Reich ist nicht von dieser Welt; (Joh. 1836.) So ist Christi Reich in uns viel weniger von dieser Welt; Denn Er sprach: Ich bin aus⸗ gegangen und kommen von GOtt, wiederum verlasse ich die ’ [p. 28] uͤber Esaiaͤ Stiefels Büchlein.
+
+Welt, und gehe zum Vater, und ich will euch zu mir nehmen, daß ihr seyd wo ich bin. (Joh. 16: 28) ? 76. Also verstehet, wenn der edle Same gesaͤet wird, daß das Lilien⸗Zweiglein in Christi Menschheit geboren ist, so nimt Ers zu sich,wo Er ist. Dieses edle Zweiglein ist nicht von dieser Welt, sonderneskomint von GOtt, und fein Gewaͤchs waͤchst in GOttes Reich, nicht in dieser Welt, nicht in Adams eit, auch nicht in der Frauen Heva, sondern in der frauen, kein Mann noch Weib, sondern eine zuͤchtige frau,die GOtt und dem Lamme folget. 77. Denn das ist der Engel, davon Christus (Matth. 22: 39) saget: In der Auferstehung sind sie gleich den Engeln GOttes. Wenn der aus Christo geboren ist, so wartet er für sich selber keiner Auferstehung, denn er ist unsterblich, so ihn nicht die Seele in Zeit dieser Welt vergiftet; sondern er war⸗ tet des aͤussern Mysterii, als des 3. Prineipii, darein hat er alle feine Wunder und Wercke eingesaͤet; dasselbe verschlinget alhie das aͤussere Leben mit feinen Thaten, das soll wieder kom⸗ men aus dem Mysterio.
+
+78. Dann der Erste Adam vor feiner Heva, da er kein
+
+Man noch Weib war, fol bestehen, er soll alle drey Principia in sich haben, als GOtt selber, aber nicht also vermischet wie ietzunder, da eines ist ins ander eingefuͤhret.
+
+29. Die aͤussere Welt istaus der innern, in der innern Bes 1 gefasset und erboren, und im Fiat in eine Form geschaf⸗ en worden, nicht gantz zu einem vergaͤnglichen Wesen, dann sie solte im Feuer renoviret werden, und wieder darstehen, zu herrschen, sondern die Innere Göttliche Welt durch Alles.
+
+800. So wenig als die aͤussere sichtbare Welt kann GOtt enennet werden, so wenig gebuͤhret auch dem aͤusseren Leben n Fleisch und Beine der Name GOttes: Denn Gott gab Adam einen Namen, und hieß ihn Wensch, Er hieß Adam Mensch. Dieses verstehet die hoͤchste Zunge gar wol der Natur Sprache, daß der Name Adam vom andern incipio, als von GOttes Reich, aus Goͤttlicher Effeng ur⸗ staͤndet, und der Name Mensch von dem Limo, daraus der
+
+Aussere Leib war geschaffen. 81. Denn ein iedes Ding bekom̃t seinen rechten Namen aus
+
+M 5
+
+seiner [p. 29] feiner Essentz nach feinem Geiste. Gleichwie uns der hoch ⸗ theure Name JRfus Christus zweyerley Verstand giebet; als in dem Namen JEsus wird in der hoͤchsten Zungen ver⸗ standen die Bewegung des Göttlichen Centri, als eine aus⸗ gehende Lust, die Niedrigkeit in der Demuth in der ausgehen⸗ „e den Freudenreich, in der Majestaͤt ausfuͤhrende.
+
+82. Und in den Namen Christus wird verstanden
+
+Eingehung der Liebe in Zorn, eine Zerbrechung oder Toͤdtung eine der Grimmigkeit, und eine gantze Pransmutation, mit Aus⸗ fübrung der Freudenreich: Darinne wir dann verstehen, daß GOtt habe feinem Grimme, als dem ersten Principio, mit dem andern, als mit seiner Liebe, selber wiederstanden, und selber den grimmen Todt zerbrochen; welches allein den Seelen⸗Geist verstehet, wenn ers Mysterium himmlisch er⸗ reichet.
+
+83. Darum sollen wir eben zusehen, und den hochtheuren
+
+Namen Gottes nicht mißbrauchen, und nur den einen
+
+Chris aus feiner Mutter, darinnen er lebet, weil GOtt dem A
+
+sten heissen, der ein Christ ist als den Innern Menschen Christo. Der äusserliche, suͤndliche behaͤlt billig denNa hat einen aͤusserlichen Namen nach dem aͤussern Menschen ge⸗ geben, und dem innern auch nach dem innern Menschen: wie wollen wir denn höher fahren, als wir im Grunde sind? 84. Wenn nun der Autor von sich selber saget: Ich, lebendige Wort GOttes in diesem meinem heiligen Fleisch und Beine sage dis oder thue dis; So wird der theure Name GOt⸗ tes gemißbrauchet. Denn wann der Geist des Menschen ist zum
+
+Propheten und Mund Gottes erkohren, so spricht er nur: So spricht der HErr ; wie denn alle Propheten also Bi haben: er thuts nicht aus ihme selber, aus seinem Fleisch und Beine, sondern der HErr offenbaret seinen Willen durch Ihn, er ist nur ein Werckzeug darzu.
+
+85. Er ist nicht in Fleisch und Beine der HErr, sondern in Leben Christi ein fruchtbares, demuͤthiges Zweiglein, das fer ber nichts will noch thut, auch nichts begehret, als seiner Mutter Essentz, die Mutter mag mit ihme thun was sie will. Die Mutter will nur demuͤthige Kinder haben, die an ihrer
+
+Brust liegen, und trincken von ihrer Kraft, und leben in 5 rem Willen, daß sie sich in ihnen erfreue: denn ihre SE5 waͤchset [p. 30] über Esaiaͤ Stiefels Buͤchlein. Dc ihren Zweiglein, welches ist der Zungen Lob, in tes Wunderthat. 86. Nicht soll es den Verstand haben, als wolte ich einen
+
+Geist verachten, sondern ich lehre im Geist Chri⸗ Ehristlichen i in Ihme, dieweil ich soll von der Wurtzel reden, und dis mein gegeben Amt ist, auf daß wir uns in Christo in Einem Baum in der Erkentniß erbauen, und bitte es recht zu verste⸗
+
+1 Denn mit einer Engels⸗Zungen, mit des H. Geistes reite ja keiner ungewaf⸗ Munde, zu reden, ist ein Grosses: es 85 so ihme nicht der Geist GOttes feine Zunge, Hertz und ist wafnet, und Gewißheit gibt, so sage er ja nicht: Der Err redet.
+
+82. Denn wenn oft des H. Geistes Feuer aus dem innern, a aus C Ottes Wesen, durch den aͤussern scheinet, so wird as aͤussere Mysterium entzuͤndet und hoch⸗freudenreich, und der Erkentniß des Lichtes an, mit Zungen aus dem
+
+Ayfterio zu reden; Aber der Willen⸗Geist soll sich wol schau⸗ daß asich nicht der aͤussere Geistzuhoch führe, und aus sich ungen rede in des HErrn Name. Denn der aͤussere eist triumphiret, wenn er einen Anblick bekommt, als ware im innern, und faͤhret oft also freudenreich auf: Aber es Dh gerne der auffere Vernunft -Geist vom Gestirn it ein.
+
+238. Darum ist es ein gar subtiles, mit dem aͤussern Munde, aus Goͤttlichen Zungen reden, der H. Geist muß auf den Fit⸗ en des Windes fahren, und den Verstand richten, daß es as Gemuͤthe erfaͤhret, dann im Gemuͤthe muß die Gewißheit
+
+89. Der Prophet der daredet, ist nicht die Gewißheit denn edet aus zweien Zungen, als aus der Turba der Menschen Bosheit, er straffet dieselbe; und redet auch aus der Liebe, ChristiMenschheit, und weiset den rechten Meg.
+
+90. Nun aber stehet die Gewißheit im Gemüthe, das muß mit dem H. Geiste angezuͤndet, und erfullet seyn:Alsdann der Mund des HErrn durch denäuffern Mund, nicht als redet fein Wort, sondern als GOttes Wort: Allein das edle Bild im innern stehet als zitterend vor dem Angesicht und grosser
+
+Macht des HErrn. 91. Es machet wol nicht Worteindes HErrn Namen, der SGeist GOttes sorme sie dann: alsdann soll sie thun als ein „x ind [p. 31] kl Bedencken
+
+Kind im Gehorsam: und wenn gleich der HErr bieffe 9 vom Himmel fallen, wie beym Elia, so kann sichs nicht halten, es soll und muß des HErrn Werck im Eifer ver 92. Darum sage ichin guten Treuen aus meinen Gabe daß sich ein Mensch soll wol in Acht nehmeno er soll oder mit des Herrn Mund reden. Dann so einer will sagen: das lebendige Wort Gottes, rede und thue dis; so m des HErrn Wille da seyn, und muß der Geist GOttes
+
+Zunge, Hertz und Gemuͤth wafnen, und selber darauf fi Bin ist es nicht des HErrn, N des aüussernMensch ort.
+
+93. Was der Autor ferner — der gantz»leifchfichen Christenheit redet, welche nicht mehr als nur den Namen im Munde fuͤhret, da das Hertz und Gemuͤthe nur ein Spott des Namens Christi vor GOtt erkant wird, verhält sich 0 lich also, und hat in seiner Erkentniß wol recht davon schrieben.
+
+94. Sie hat ietzo den Mantel Christi mit feinem 2. i
+
+Tod und Sterben, mit der Gnugthuung, entlehnet und borget, und hat das Anti⸗Christische Hurenkind darunt borgen, und decket demselben Menschen der Hoffart und
+
+Falschheit den Purpur⸗Mantel Christi um, und reitet damit in Babel auf dem greulichen und schaͤuslichen Thiere, inder Offenbarung Johannis.
+
+95. Sie kuͤtzelt sich mit Christi Beiden und Gnugthun und will aber nicht in Christi Leiden, Sterben, Tod und erstehen eingehen, und aus Christi Geiste geboren werden, soll nur das Hurenkind getroͤstet seyn.
+
+96. O wie wird manchem der Mantel Chriffi, Welt een 8 Menschen der Falschheit verdecket, zum hoͤllischen Feuer rathen! Es heisset wahrlich nicht alleine Troͤsten, sendern ihr müffetvonNeuem geboren werden, aus dem Wasser und H.
+
+Geiste, sonst 9 75 6das Reich Gottes nicht kauen, ‚saget der Mund Christus.
+
+97. Der Wille muß aus dem Trug und Falschheit ame wandt seyn, in Gerechtigkeit und Wahrheit, will er mit —— de der Wahrheit ein Christ heissen, und nicht nur im Munde, sondern in der That ein Christ seyn. E. 98. Der aber nur Christum im Munde fuͤhret, un nr: nicht aus Christi Willen und Geist geboren ist, der Wieder⸗ [p. 32] über EsaiuͤStiefels Büchlein.
+
+Wieder⸗Christ, und ruͤhmet sich unbillig einen Christen: so nicht wieder des Fleisches Willen streitet, und den immer das Leben Christi nicht in ihm; sondern der aAussern Welt, und des Teufels Wille im Zorne Gottes ist in ihme. Dann Christus sprach: Wer nicht zur Thuͤr im Schaf⸗ stall eingehet, sondern steiget anderst wo hinein, der ist ein Dieb und ein Mörder, und ist nur kommen daß er raube, und fehle; und die Schafe folgen ihme nicht, denn sie kennen feine
+
+Stimme nicht, er ist nur ein Miedling, dem die Schafe nicht eigen sind. (Joh. 10: 1.) Er suchet nur die Wolle.
+
+99. Will einer Christi Schafhirte seyn, so muß er nicht ein
+
+Fremdling seyn, sondern muß aus Christo geboren seyn, er muß in Christo seyn, auf daß er Christi Stimme in ihme habe, - fonftkann er Christi Schafe nicht auf grüner Aue weiden. Was ist ein Wolf im Schafftall nuge, der nur den Raub meinet? er verwuͤstet nur den Schafstall. Warum dringet sich denn ein Fremdling zum Hirten ein, der nicht vom Ertzhirten rifto beruffen ist? Was lehret er denn lange den Geist dieser im Menschen, der zuvor in ihme ist?
+
+Welt
+
+100, Will er das innere im Tod eingeschlossene Gloͤcklein lauten, so muß er eben denselben Klöppel haben, der den Tod zerbricht, auf daß das todte Gloͤcklein klinge; denn der Goͤtt⸗
+
+Klang ward in Adam in Tod geschlossen: Will einer nun denselben erwecken, so muß er denselben Klang lebendig in sich aben, er muß aus Christi Geist und Stimme reden, oder sein Lehren ist nur ein Spiegelfechten, vor einem todten Dinge, er ist nur ein Bauchdiener aus Gewohnheit, und dem elChristi nichts nüge, denn er ist selber nicht darinnen, wie will er denn andere hinein führen? 01. Der H. Geist mifchet sich nicht in des Gottlosen Stim⸗ des Gottlosen Wort ist nicht GOttes Wort; Darum ists me, eitel Betrug aus Kunst predigen.
+
+dein
+
+Die Kunst ist aus dem stirn erboren, und wecket keinen auf, der im Tode verschlos⸗ lieget; es muß nur ein rechter Hammer seyn, der das tod⸗ ts Gloͤcklein laͤuten will. 102. Und ist wol hoch zu beklagen, daß die Menschen mit den Maulaffen also prangen und sie für Goͤtter ehren, wollen auch gute Christen seyn, und nennen sich nach einem Wolfe, streiten und zancken noch um ihn, verwuͤsten auch rd 5
+
+[p. 33] Land und deute, und verderben ihr Leib und Seele, um eines
+
+Wolfes willen.
+
+Mine
+
+103. O du werthe Christenheit, in Blindheit, sey doch se⸗ hend, wie bist du geblendet! Du laͤssest dir mit Schellen vor deinen Ohren klingen, daß du nur moͤgest in Adams Schlaffe in der Suͤnden⸗Welt, beym Teufel fein sicher im böͤsen Fleische einschlaffen. Aber es wird dich ein harter Donner aufwecken denn du bist allzufeste eingeschlaffen, es will doch kein Aufwe chen seyn; GOtt russe wie Er wolle, so schlaͤft Adam der alt Mensch in seiner Wollust. BA
+
+104. Daß auch der Autor meldet, daß diese e y bel werde fallen, und eine Quell in Zion aus dem rechten Je⸗ rusalem aufgehen, deme ist also; und die Zeit istschon geboren, daß das zerbreche, das ihm selber ohne Goͤttliche Ordnung ge⸗ wachsen ist: denn es hat fein Alter und das Ziel erreichet, d Anfang hat das Ende funden, das Mittel soll offenbar werden, davor hilft kein Streiten oder Wehren: Weil aber das Kind der Sünden und des Verderbens also darwieder wütet,so in
+
+sichs in feinem Wuͤten selber zerbrechen. 105. Wolte es aber in den Anfang eintreten, so bliebe stehen, und erschiene nur fein Wunder: Weil es aber ist in Hoffart, Geitz, Neid und in allerley Bosheit und 5 B heit gewachsen, wozu soll denn das böfe Thier? es taugt nicht zum Opfer GOttes, so will sichs auch nicht bekehren, daß es N ein Menschlich Hertzkriegte. 106. Darum laͤssets GOtt verkuͤndigen, daß 9 sollen von ihm ausgehen: Denn der HErr wird die Erden schrecken, und Babel umstuͤrtzen, und es wird ein 9 Zion fliessen, auf daß die durstige Seele erquicket werde;
+
+der Elende soll erquicket werden, und essen in feiner Weide.
+
+107. Der Treiber wird zerbrechen, so wirft du dich do freuen eine kleine Weile, denn du bist von Jugend auf arg, und suchest nur das Ziel im Wunder: Wie dein Anfang war, also ist auch dein Ende: wer blind ist, wird das nicht chen sondern schlaffen, bis der Tag anbricht. 108. Christus sprach :wenn des Menschen Sohn wird kom⸗ men, meinest du auch, daß Er Glauben werde finden auf Er⸗ den? (Lue. 18:8.) Darum ist diegeit des Endes eine boͤse Srund⸗
+
+suppe, und wird nicht eitel Zion seyn, als nurinden geheilig ten [p. 34] uͤͤber Esaiaͤ Stiefels Büchlein.
+
+ten Kindern Christi. Denn der Anfang und das Ende ist einander stracks gleich. 109. Die Wunder mit der hohen Zungen waren im Anfang und ward die Signatur hoch erkant: Das kommt am Ende wieder. Aber wirverfichen auch dabey eine gute und ) fe Zeit, da die Thoren aller Principien sollen offen stehen, s wir dis im Anfang bey Cain und Abel auch sehen. Da⸗ um sehe ein ieder zu, was er rede, lehre und schreibe, denn es or ar die hoͤchste Zunge alles probiret werden. u. Wann wir aber vom Tempel Christi reden, und von a —ß aus Zion, so meinen wir nicht einem Ort, in ei⸗ de alleine, denn der Tempel Christi ist uͤberal: wir Bere unter allen Zungen und Sprachen, ob wol an einem die Zungen möchten höher gefuͤhret werden, als am an⸗ ** ern, alles nach der Voͤlcker Eigenschaft, nachdem der Geist in. m.
+
+ist.
+
+Denn der Tempel Christi ist in uns, wir muͤssen CHri⸗ vin unshoͤren lehren: Lehret Christus nichtin uns, so ist aussere Mund⸗Geschrey vergebens, und in die Luft geredet. 12. Darum dencke niemand, es werde also zugehen, daß Kate werden kommen, welche den H. Geist werden mit waltin die Menschen lehren, oder einzwingen: Nein es et: Heute, wenn ihr des HErrn Stimme hoͤret, so vers jocket eure Ohren und Hertzen nicht. (Ebr. 3.7. 8.) Wartet nicht auf andere Zeit, dann das ist die Zeit eurer Heim⸗ uchun et eure Ohren und Hertzen in den Tempel Chri⸗ ineuch, werfet euren Greuel und falschen Willen von euch, nd fuͤhret euren Willen ernstlich durch CHristum in Vater, Br euch vor, nicht mehr in die Bosheit, als in Hof⸗ furt Geitz, Neid, Zorn und Falschheit einzugehen: Lasset ab
+
+Welt, und demüthiget euchindie Hand des und in die Liebe gegen dem Dürftigen. Achtet euch gleich der albern Einfalt in Christo, eure achtet fuͤr nichts, denn sie fuͤhret von Christo nur ab: gehret nichts mehrers zu wissen, als nur das, das der H.
+
+eit in euch wissen will, daß der allein euer Wissen Willen sey
+
+2— — Denn durch kein Forschen aus der Vernunft, wird der
+
+Quell in Zion erfunden, nicht von aussen wird Zion zum er. gebo:
+
+[p. 35] We
+
+Xi. Bedencken geboren, —— von innen; wir müffen ung selber inuns su⸗ chen, und finden. Niemand darf einer andern Stätte nach⸗ lauffen, da er meinet daß der Geist kraͤstiger seyn e er dern in ihm selber ist die Pforte der heiligen Gottheit.
+
+16. Er mußinsich selber eingehen, und den H.we ihme suchen und anruffen, dann in ihme selber ist die S da GoOtt in feinem Himmel wohnet, und der Seelen Willen mit ihrer Begierde einnimt. 117. Wo will sich die Seele lange hinschwingen; mes N selber der Quell der Ewigkeit? In ihr stehet das brin zur Licht: und Finstern Welt: sie ist alle drey Welte.
+
+ug. Es ist nur um das zu thun, daß, gleichwie sie sich Adam mit der Imagination in die irdische Welt (welche 10d para Welt essentialisch innestehet) hat eingefü ret, da denn ist die Allmacht und Vermoͤgenheit gebrochen, und Tod geschlossen worden, daß sie sich nun im Geiste Christi, denselben Tod in derselben zersprenget hat, wieder ins Licht, die Allmacht, einwinde, sie muß wieder in Gottes Hau sich eingehen. 119. Darum heiffetd Neugeboren werden, einen Sohn aus dem alten aus sich selber gebaͤren, nicht eineı Seele, sondern eine neue Bildniß aus der Seelen, in Kraft d H. Geistes, einen Zweig aus feiner eigenen Essentzin E Geiste ausgruͤnend, und im Licht der Gottheit inn nicht anscheinend, sondern aus sich selber leuchtend.
+
+120. Die neue Bildniß ist der feurigen Seelen Speist 5
+
+Feuer Holtz zu ihrem Brennen: Die Seele isset der Bi Liebe Essentz, und gibt aus der Verzehrlichkeit, als aus grimmen Sterben, das Hohe Licht, und im Lichte dure Feuer, aus der Begierde der Liebe, und aus der Begierde Än Feuers, die hohe edle Tinctur des heiligen Lebens mit der i Kraft der Farben und Tugend. 121. In welcher Kraft das Centrum der Freudenreich be Licht⸗Welt stehet, als das Hertze der Gottheit, aus der H. Geist ausgehet: Denn des Feuers Centrum der len, und denn des Lichtes Centrum in der Seelen Bildniß füar aus welchen der Geist GOttes geboren wird. 122. Der Geist Gottes faͤhret nicht von auswendig in die
+
+Seele, sondern er eroͤffnet sich durch das Seelen⸗Wee un urch [p. 36] über Efnia Stiefels Büchlein.
+
+durch das Licht⸗Feuer der Bildniß, in sich selber: Er ist des heiligen Menschen Eigenthun. 123. Wann der Mensch in ernste Busse eingehet, und faffet ihme einen ernten Willen, in die Barmhertzigkeit GOttes, in ihme selber einzugehen, und wirft vonsich allen falschen Wil len; fowird das Korn gesaet, daraus die edle Blume in der
+
+55.Drepfaltigkei waͤchset: verstehet der Seelen Wille wird damit aus der finstern Welt in die Licht⸗Welt eingewandt. 124. Und wenn sie denn in die Licht⸗Welt ins Centrum der Gottheit imaginiret, als sie zuvor hat in dieser Welt imagini⸗ ret: So wird sie in sich selberinihrer Imagination oder Begier⸗ des Heilandes schwanger: Und aus dieser Schwaͤngerung wird Gott immer und in alle Ewigkeit geboren. 25. Also wird der rechte neue Mensch GOttes Speise, und Gott wird des Menschen Speise, und also sind wir in Gott, und G Ott in ee und Bee mitund in Gott, und sind seine s der Seelen in dench er wenn acht waͤre S Batesgertewieder in die im Tode eingeschlossene Bildniß der Seelen eingegangen, und haͤtte sich selber in Grimm des Seelen⸗ Feuers eingegeben, und hatte nicht wieder Göttliche
+
+Vesenheit in die Bildniß, verstehet,in die Essent Maria zur
+
+Bildniß eingefuͤhret.
+
+27. Verstehe, die heilige Tinctur ging mit der Goͤttlichen
+
+Wesenheit, in der Wesenheit in GOttes Geist, mit auf, und das heilige Blut, welches die Tinctur in Menschlicher Eigenschaft zu Blute machet, ging, als das aͤussere Leben am Creutze zer⸗ brach, mit in der Seelen Turba ein; alda ward mit GOttes Liebe und Sanftmuth die Grimmigkeit des Todes zerbrochen, und in ein Freuden Leben trans mutiret, und alhie ward der Tod schau getragen: Denn es ward wieder Göttliche Liebe in der strengen, grimmigen Essentz der Feuer⸗Seelen geboren. Und das istunsere neue Wiedergeburt in Christo, darein unse⸗ rer Seelen Begierde muß eingehen, will sie GOtt schauen /und in Christo aus GOtt geboren werden. 128. Christus ist der neueStamm und wir grünen als Aeste in Ihme aus, wir muͤssen in Gott geboren werden, und müffen wollen wir * — wieder auch felberin uns GOtt9 [p. 37] fl
+
+EEE,
+
+1 Bedencken
+
+Hr mefeyn: denn auf den Aesten, welche wirgc H. Frucht, die Gottes Geist in uns isset, als das LobG
+
+129. Lieben Brüder, schertzet nicht, und haltets nicht fuͤr Ge⸗ dichte, es ist in Ternario Sancto, in dem reinen Flusse aus? erkant worden; warte ja niemand auf eine güldne Zeit,
+
+H. Geist aus dem aͤusseren Munde dem Verstockten, —.— N will in Fleisches⸗Lust leben, wird in feinen thierisdenherr Ya einschreyen: O nein, das geschicht nicht. 130. Wer denH.Geist will aus eines andern Mund Ph ven, der muß zuvor feinen Willen in H.Geist einführen, alsdann prediget ihme der H.Geist aus eines andern Munde in ihme. 431. Die Zeit! u. da,da Henoch lehrer, und Noah die Suͤndfluth anmeldet, es ist fürbas kein ander Merck Zei⸗ chen, als das Zeichen Elia: Was gaffet die Welt lange viel. und löffet ihr vergebens die Ohren mit dem Gestirne füllen? es istalles umsonst. ung
+
+132. Wer da will mit Zion eingeben, und S Ott loben inJe⸗ rusalem, der hat ietzt dieangenehmeZeit; der sie daa feen nen Schall istschon erschollen, das Bruͤnnlein Israels ist Es dencke nur niemand von die sem oder jenem Orte wird der Posaunen⸗Schall kommen: Denn wie der Blitz ausgehet, scheinet bis zum ee also istvom Anfang bis zum de die Zukunft des Menschen Sohns.
+
+G e
+
+133. Es warte nur niemand des aussern Propheten, er net innerlich im Geiste der aussere Mensch wird den nicht ken⸗ nen, denn er stebet in der Cronen⸗Zahl, und prediget im — rio, er ist schon erkant und gefunden worden: wer den
+
+1 a der suche ihniinsich und lasseBabel fahren, 7 n finden. 134. Der rechte Weg ins ewige Lebenist im muenchen er der Seelen Willen in die aͤussere Welt eingeführet, den muße wieder in sich ein, in die innere Welt einführen, das Para muß im Menschen grünen.
+
+135. Aber er hat einen faͤhrlichen und sauren Weg zu geben denn der umgewandte Wille muß wieder in sich eingehen, muß durch das Sternen und Elementen⸗Reich durchbrechen: O wie wird er alda gehaltẽ!es muß ein grosser Ernst seyn nicht Heucheley und mit dem Willen im Sternen⸗Reich zu bleiben. 136. Der Wille muß die aͤussere Welt verlassen, und — doch auch nicht gang, denn er muß den aͤussern Leib nehren:O wie [p. 38] über Esaiaͤ Stiefels Buͤchlein.
+
+＋ wie schwer gehet das im Eingang zu, wann das soll verlassen werden, — ae . —
+
+Freude und Herrlichkeit stehet! wie hält doch der auffere Mensch am Seelen⸗Geiste wieder! 137. Wie gar mancher Krieg und Sturm muß da gehalten den! wie geschaͤftigistder Teufel, und haͤlt der armen See⸗ len dieser Welt Schönheit und Herrlichkeit vor, als Reichthum und WollustdesFleisches! 138.
+
+Es fallet nicht alsobald auf einen Hauffen von ihme, der
+
+Wille muß mit einem harten Kampf zerbrochen wer⸗ den, und er stirbet doch nicht, sondern wird in die Gefaͤngniß des eingewandten Willens geschlossen, und muß Knecht werden, biin sdes äuffern kebens Zerbrechung. 2 Darum sage ich mit Grunde, daß alles, was aus dem
+
+Geiste deraͤussern Welt von G Ott gelehretund , in dem aͤussern
+
+Geiste gehoͤret wird, das ist nicht GOttes Wort, sondern Babel, nur eine Confusion, ein Jammer,
+
+Heulen und Schreyen, und niemand hoͤret das, als nur der Geist der aͤussern Welt; es ist nur eine Antichristische Gleißnerey und Schein⸗Heucheley.
+
+Ein Schalck gehet in die auffere Kirche, und ein Schalck 0. bleibet darinne sitzen /und ein Schalck gehet wieder heraus, und ist ein Heuchler der vor GOtt gute Worte giebet, und troͤstet oder kitzelt sich von aussen mit Christi Gnugthuung, und er bleibet in sich der alte Mensch.
+
+141. Vermeinet, GOtt vergebe die Sünde, wie einem Moͤr⸗ der aus Gunst das Leben geschencket wird, und da doch das Ge⸗ wissen den Mörder immer anklaget, daß er der That und Straf⸗ feschuldig sey: O neines gehet nicht also zu. Christus sprach: Es sey denn daß ihr umkehret, und werdet als die Kinder, sonst sollet ihr das Himmelreich nicht schauen. (Matth. 18: 3.) Es gilt vor Gott kein Wort⸗Vergeben, sondern es heisset, wie Chris die sich zu Ihm wandten sprach: Dein Glaube hat dir geholfen.
+
+142. Denn Christi Geist ging in des Patienten Glauben ein, und der Glaube des Krancken in Christi Geist; also war die Cura da, sonst waͤre keine Heilung geschehen. 143. Das siehet man am Pfingst⸗Tage, da die Menschen St. surezuhoͤreten. Welchen ihr Wille in sich gerichtet stund, und ehreten das Reich Gottes, in denen schallete der Geist⸗
+
+Christi aus Petri Munde; 5 aber ihr Wille in diese 27 gerich⸗ [p. 39] gerichtet fund, da ging der Geist vorrüber, die sprachen: Die
+
+Männer sind truncken, daß sie also reden. (Ack. 212. 13. 144. Also gehets auch ietzunder, da der Geist Christi r
+
+Maͤñer sind toll und Schwaͤr⸗ ft, diese spricht die aͤussere Vernun mer: Denen aber ihr Wille in sich gewandt stehet, in Begierde nach GOttes Reich, die hoͤren den Geist Christi reden. es ins Hertze 145. Darum wird allen denen gesaget, denen dringet, daß sie ja bestaͤndig bleiben und dem guͤldenen Flusse der aus Zion quillet, entgegen gehen, sie werden das Perlein N finden, denn es istgeboren ; Vergaffe sich niemand an Zeit und Person, der Geist Christi ists, der da redet. gar recht 146. Und schreibet der Autor aus der BrautChristi, vom Geist Christi, aus dem neuen Menschen: aber den alten
+
+sterblichen, vom Geiste dieser verderbten und verfluchten Welt, soll er lernen vom neuen unterscheiden, und nicht das sterbliche verderbte Fleisch und Bein fuͤr Christi Fleisch achten. 147. Auch nicht Christi Fleisch in den vier Elementen, und im Geiste der aͤussern Welt suchen, sondern in derselben Wur⸗ gel; als im H. Element, ein Principium tiefer als diese Welt ist, nicht abwesend vom aͤussern Leibe. 148. Auch nicht den Alten in den Neuen trans mutiret, son⸗ dern wie das Gold im groben Steine aus dem Steine wachst, da die Sonne eine Ursach der Tinctur ist, und dergrobe Stein eine Ursach des Leibes; und soll doch dem neuen Leibe in dem alten in feinem Prineipio keine Stätte oder Raum verstanden N) werden, denn er stehet eine Geburt tiefer in sich. 149. Als wir denn solches daran wissen ,daß Gott in dieser Welt ist und die Welt kennet noch siehet Ihn nicht; Erwohnet eine Geburt tiefer im Centro, als die äuffere Welt ist, Erer⸗ fuͤllet alles in dieser Welt, und nichts begreiffet oder siehet Ihn, dannEr wohnet nicht in der Welt, sondern in sich salfo auch der neue Mensch, und ist doch keine Abtrennung von einander. 150. Gleichwie im Feuer und Licht ein Unterscheid ng das Feuer nicht kann das Licht ergreiffen, und wird doch Das
+
+Licht aus dem Feuer geboren; Also auch der Neue Mensch aus dem Alten, durch Eingehung des Geistes Christi, gleichwie Sonne eine Tinctur des Goldes im Steine machet. 151. Wenn aber der Autor schreibet, es falle der alte Mensch 5 in der Busse gantz hinweg, und ersterbe gar im Tode Christi, so irret Er ; denn Christus ist nicht u m des alten Menschen ar[3 [p. 40] über Esaiaͤ Stiefels Büchlein.
+
+kommen, ist auch nicht im alten, befleckten, suͤndlichen Fleische Mensch worden, sondern in der Bildniß Essentz, daß ein neuer
+
+Mensch soll aus dem alten geboren werden, und der im alten wohne; aber nicht im dritten Frincipio. in dieser äuffern Welt, sondern im andern Himmel, in GOtt, und Gott in ihme. 152. Darum soll er nicht schreiben: Ich Christus, das le⸗ bendige Wort in diesem meinem sichtbarlichen Fleische und Beine das giebet ihm keiner, der aus Christo geboren ist, zu; der aͤussere Mensch ist in Sünden empfangen und geboren worden, er ist nicht Christus, aber der innere istin Christo ein
+
+Glied an Christi Leibe, in der Essentz Christi.
+
+153. Und daß er vermeinet, die Natur falle gantz und gar von dem Menschen, wenn die neue Geburt ausgehet, daß ist auch nicht, und verstehet er in deme noch nichts von der Ewi⸗
+
+Natur; Es faͤll keineet Natur von ihme, denn das Leben in der Natur, das Seelen⸗ Leben in der ewigen Natur, und des aͤusseren Geistes Leben in den Sternen und Elementen. 154. Die ewige Natur hält in sich die sieben Geister oder Ge⸗ staͤlte der Gottheit davon die heilige GoͤttlicheWelt urstaͤndet, und auch diese aussere Welt; Sie gehet in Ewigkeit nicht vom schen, sonst ware der Mensch ein Nichts, denn aus der Na⸗ tur ist das Mysterium der Ewigkeit offenbar und auch das Goͤtt⸗ inmeinem Buche von den sechs puncten aus: worden. Die Natur ist nicht um der Sünden willen in Menschen kommen, warum soll sie denn um der Wiederge⸗ burt willen hinfallen?
+
+155. Im Sterben faͤllet die aͤussere Natur von der Seelen Natur, aber sie trit nur ins aͤussere Mysterium, bis an Tag des Gerichtes, sowerden alle ihre hie gemachte Wunder und Wercke darinnen erscheinen; wenn der Geist Otte wird das Mysterium dieser Welt bewegen, so wird alles offenbar, und d die Turba von dem Guten geschieden, und der finstern elt gegeben werden, und das Nysterium dem Neuen Men⸗
+
+schen, der aber nur heilig und ohne Mackel ist.
+
+Gilt Und das ist die Auferstehung des Fleisches.
+
+Nicht die fe, alsdasthierische Fleisch, ists das da aufstehet, sondern
+
+Leben im aͤussern Myfterio mit den Wundern, das soll im en Element eingefasset, und mit dem Leibe Christi des neuen Menschen geeiniget seyn, und in Ewigkeit mit seinen Wundern an ihm 157. Aber N3 [p. 41] is XI.Bedencken übEffeng, er EfGtfondern .iefealslseinBüSchl.n 1857. Aber nicht in irdischer oder Figur: Denn um des Goͤttlichen Lebens willen, ist dassell unserxkeben gleich wie todt geachtet; Denn also war Adam auch vor seiner Heva vor der Imagination, und in der Imagination ward das aͤussere Leben offenbar, und starb das Himmlische.
+
+158. Solches habe ich euch, lieben Herrn und Bruͤder, auf euer mir zugeschicktes Buͤchlein nicht sollen bergen, und auch dem Autori desselben, denn es erforderts mein Gewissen ir
+
+HErrn: Nicht der Meinung, dem Autori fein Büchlein ın ohen Geist niederzudruͤcken oder zu verwerfen, sondernin e be gegen ihn, wolte ich ihme meine Gaben und Verstand in se geben, als ein Glied dem andern, auf daß wir uns in Christ als Glieder in Einem Leibe. erbauen und erkennen. 150. Denn ich erkenne des Autoris Geist e lieb ihn anzusprechen, weiler um des Namens willen, ihr meldet, viel hat erlitten, und fein Leben gerne in Chri
+
+Fußstapfen eingefuͤhret, so erkenne ich ihn für einen rechten a
+
+Re gh f 5 1172 160. Aber des soll er sich nicht schaͤmen,sich selber lernen besser zu erkennen, undim Geiste in der Braut Christi mehr zu lernen; Denn Christus sprach: Suchet, so werdet ihr finden. (Matth. 7:7.) Die Weis heithat weder Zahl noch Ende. 161. Ich sage von mir anders nichts, als daß ich erste
+
+ABC-
+
+Schuler bin worden und will hertzlich gernein de
+
+Braut Christi vom Geiste Christi, in meinen Brüdern un Gliedern, lernen mich in ihnen, und sie in mir suchen. 162. Ich messe mir noch keine vollkommene Erkentniß zu, denn wa gleich vollkommen ist, daß ist nicht meines Verstandes, sondern im ste Christi in meinen Brüdern offenbar. Ich bin in mir als ein? auf daß ich in der Erkentniß, in meinem Bruder, in seinem Geiste, Et⸗ was erfunden und erkant werde, und daß GottinChristo in uns ei Alles, beydes der Verstand, und auch das Wollen und Thun. 163. Darum ver mahne ich euch, solches nicht anderst als Christ und Bruͤderlich zu verstehen, denn ich bin nicht ein Herr eures Geis und Erkentnisses, sondern euer Gehuͤlfe im HErrn. Auf daß des Aut
+
+Lauff nicht umsonst sey, und der Name Christiinfeinen Gliedern ge
+
+schaͤndet werde, wie Babel gethan, habe ich diese wenige Erklärung Erläuterung geschrieben, uns in unserer Erkentniß im HErrn erge⸗ teen: Was mehrers if, is im Buche vom dreyfachen Leben, und in den drey Büchern von der Menschwerdung Christi, zu finden: Und thue euch saͤmtlich in die Liebe JEsu Christi empfehlen.
+
+Hi
+
+Gegeben am Sonntage Quasimodo⸗ geniti. Anno 1621.
+
+[p. 42] men,‚ANTESTIERELIUS H. 85Irrthünt der Secten Esaia Stiesels we 1EurchielNeths c s o Nd in egeimdtichAntwort aufsaid Stiefels
+
+Ezechiel Meths Auslegung uͤber vier unter⸗ sschiedliche Texte derH.Schrift. 45 Geschrieben im Jahr 1622. geendigt den6.April.
+
+Das 2. Buch.
+
+„Vorrede des Autoris. Unstiger, der Wahrheit liebhabender Leer! Es ist mir unlaͤngst ein Tractaͤtlein von guten Freunden zugeschicket worden, etlicher Puncten halber, wel⸗ ge einer erklaͤret, und feinem Beduͤncken nach gen gsam ausgeführet hat: Bin hierum von denselben belan⸗ „ meine Erkentniß und Verstand uͤber dieselben ge Be ngch zu geben. Puncten und Erklaruau Weil ich denn vermercket, daß in selbiger Erklarung etliche ige Meinungen, der H.Schrift und wahrem Verstand zu⸗ er, mitlauffen, welche dem Leser sehr nachdencklich, und nfast irre machen; Als habe ich wollen die Arbeit daran wenden, und dieselben in richtigerm Verstande ausfuͤhren: icht jemanden zu turbiren oder zu richten; sondern daß der⸗ e Verstand möge klaͤrer gemachet werden, wegen der Leser, e das Perlein Goͤttlicher Erkentniß mit Ernst suchen, denselben ihr hungeriges Gemuͤth in bessere Sicherheit und Ruhemöge eingefuͤhret werden, und also mögen Ursache N 4 bekom⸗
+
+[p. 43] | 7200 xi. Vom Irrthum der Secten ommen, das Perlein Goͤttlicher Erkentniß mit groͤsserm Ernst zu suchen, und siech damit zu ergetzen, bis wir dessen vollkommene Geniessungin jenem Leben, nach diesenHütten, erlangen moͤgen. CHR Als will ich dieselben Puncta, neben der Meinung dessen, der sie erfläret hat, vor mich nehmen, und fürglich, nur fans marisch, den Verstand der Puncten, denn auch den Verstan des Erklaͤrers, uͤbersehen, den wahren Grund anzeigen, undin einen runden ausführlichen Verstand führen, und dem Leser Goͤttlicher Erkentniß sein Bedencken hierinnen auch lassen.
+
+Nota: Was albie und ferner mit grober Schrift solget der Titul oe Einhalt des wiederlegten Tractaͤtleins; das vermuthlich vom Ezech. Mech geschrieben mE 2 darum dem Efaiz Stiefel (jenes Anführer) zugeeignet weil man in der von J. B fel. wiederlegten Copey (des Stiefels) Namen unterschrieben befinden,n 2
+
+Gruͤndlicher Gegen⸗Bericht wieder das Tractätlein von zweyen Sprüchen ;Fam.1 der dreyeinige, hochgelobte Sohn und Wort GGttes,di
+
+Fuͤlle der Gottheit von Ewigkeit geboren, der allech ligste Same des Weibes vom Anfang der Welt, nach: dem
+
+Fall Ada und Evi; sowol das wiedergeborne neugl ubi⸗ kommenem heiligen Wesen, entdeckt und offenbar W zu ewiger und unveraͤnderlicher Vereinigung, eine neue Geburt, im Centro und inwendigem Bertzen, i dr
+
+Lie⸗ be der Goͤttlichen Stimme, ein neuer Anfan
+
+Sleisch und Blut, eine neue glaͤubige PerfonanER Leib und Seele.
+
+Anno 1622. E. 8. .
+
+oder Esaias Stiefel.
+
+Die Puncte zur Erklärung sind diese : Je, 54. v. 5.
+
+"2
+
+Der dich gemacht bat ist dein Mann, err Jebaot heisset sein Name, und dein Erloͤser, der Heilige in
+
+Isrgel, der aller Welt Ost genennet wird.
+
+[p. 44] Ef. Stiefels und Ez. Meths. 201 1. Cor. II. v. 12.
+
+wie das weib von dem Manne, also kommt auch der
+
+Mann durchs Weib, aber alles von G Ott. Summarien.
+
+Der 1. Spruch. (Gen. 1 27.) f. 1. Der Mensch hat nie vollkom⸗ mene Allmacht gehabt, 2. auch Christus nach feiner Mensch⸗ heit nicht, 3. indem dieselbe zu GOtt dem Vater betete, wann er wolte Wunder erwecken. 4.5. Wiederlegung des fremden Autoris. 6. sg. Von Christo. 16. sq. Christo ist alle Macht gegeben, nicht IE
+
+su. 21. Die Weisheit ist ein Spiegel der H.Dreyfaltigkeit. 30. Der ame JEsus ist der erste Urstand zu Gottes Barmhertzigkeit. . Das sewar im Zorn, das Gute in der Liebe offenbar. 32.
+
+Durch das ige Wort hat der Dreyeinige Gott alles serhaftenss. und ist G Ott öpfung ifeine Offenbarung Gottes. 37. Der Begierde Ur⸗
+
+stin allen Engeln zu Gutem und Boͤsem geblieben. 39.
+
+dern; das Sprechende nicht. 93. Wir sind Gottes Offenbarung und Instrument; 100. es sind aber dreyerley Werckmeister in uns. Was eigentlich Adams Sünde und Fall gewesen. 12. sa. Ur⸗ d des Namens JEsu. 152.sg. Wir sollenindem Schlangen⸗Treter
+
+Begierde setzen, 161. und Christum in unsere Glaubens⸗Be⸗ gierde einnehmen, 162, als welchem alle Gewalt gegeben, 163. und welcher der Wiedergebärer if. 164. u erz Spruch. 0. Lin 5
+
+176. N.
+
+[p. 45] 176. h. JEsus it der Seelen zum Gehülfen gegeben. 202. Ehristus hat nicht suͤndlich Fleisch aus Maria angenommen 203. Kein Prinei⸗ pium vermischet sich mit dem andern; 204.
+
+Mensch in Christo ain Innern. 208.
+
+also hing der Aeussere
+
+Der Zorn vergehet nicht;
+
+aber im Sterben feines Brennens eine andere Qual. 206. Der Men soll im ersten Gehorsam hergestellet, 207. und der Zorn in Liebe tra mutiret werden. 20g. Wie solches in Christi Tod geschehen 2 209. da⸗ durch der Cherub mit dem Schwert weggethan worden. 210. E muß in uns den Zorn in Liebe transmutiren. zu. IEsus wohnet Christo ohne Maͤße. 21e. In Ihn müssen wir i einfuͤhren. 15 So bald das Thier stirbet: gehet die GuulkFi Christi und der Seelen auf, 214. wo die Süßigkeit der Got nicht auszusprechen it. 219.
+
+Aber in dieser Zeit wird das Neue nur der Jungfrauen angezogen, 27. welche der Seelen boͤßen mit ihrer Liebe in einen Liebes⸗Hunger verwandeln soll. 218. We denn die 4Elementa sterben und verwesen, trit Quinta Essentia
+
+Mysterium GOttes, 219. weil der Mensch im Paradeis leben soll. 220.
+
+Der Gottlose aber lebet in feiner böfen Begierde. 221. 222.
+
+Der
+
+Spruch. (Efa. 54: 5.) 223. Dessen Erklärung vom Autore. 1080 Der 4. Spruch. (1. Cor. u: 12.) 272. Autoris Erläuterung darüber.
+
+273. In allen Menschen liegt das Himmels⸗Blld: ist aber nichtin allen lebhaft. 292.
+
+Der Geist Christi hat Geistlich Kleisch. 293. Dieses kann der Teufel nicht besitzen. 294. und wenn sich der Gottlose vet, wird Christus aus dem verblichenen Samen Mensch geboren. Christus will herrschen; der Zorn auch: daher der grosse Streit; und wenn der Mensch gesuͤndiget, so straffet ihn Christus und
+
+295. 296.
+
+zur Busse. 297. Der Teufel lauret stets auf die Seele. 298. Wo ab das Bild GOttes noch verblichen stehet: da stellet m Christus der
+
+Seelen entgegen und ruffet ihr, 299. und der Vater zeucht die Seele in feine Liebe und Erbarmen. 300. Die Empfängniß der Kin nicht gantz heilig und ohne Schuld, 301. 302. daß fromme Eltern böse Kinder haben. 303. Darum ist die Kinder⸗Tauffe eingesetzt. Die Seele hat freyen Willen, wiewol sie sich in Christo nicht selber ren kann. 305. a. Das Goͤttl. Weib ist das2.Principium oder! himml. Bild. 310. So die Seele beharret, wird ihr Hunger nach selben stets geöffer, bis zur Conjunetion beyder Feuer, ibid. in welcher die Jungfrau ihren Bräutigam, die Seele, wieder annimt zu. Denn ist die Seele der Leib des Göttl. bichts, wie ein Eisen des 8 Die Creatur wird damit nicht GOtt, sondern nur von GSttes vit Feuer durchgluͤet. 13. Gehet aber der Mensch wieder in die Eig so verlieret er das Perlein. 34. So die Seele nicht wieder umkehret: so wird ihr das Kräntzlein genommen, und hat Ewige Schande 315, Gottes Lichtlaͤsset sichim Fleisch nicht fortpflantzen. 316. 37. Es wol als ein glimmend Moder, aberim 2. Principio. 318⸗3zec0. Die genschaften der Seelen, stehen nicht in gleicher Concordantz, dann sie fichet in vielen Willen, darinnen die Turba it; 32, und wie der Se⸗ len Eigenschaften im Streit stehen; also auch die Eigenschaften des au fern Lebens 322. Gott treibet nicht das Werck der Fortpflantzung,
+
+stehet in des Menschen Willen. 324. Die Conjunction des Samens it
+
+schon im Streit, 326. wo Mann und Weib nur das Corpus füen, und
+
+ENT
+
+TA
+
+FE
+
+Ic
+
+[p. 46] ‚Ef. Stiefels undEz.Meths.
+
+in der veder sterbl. Qual das 1. Principium offenbar wird. ibid.
+
+e wird das H. Werck mit einem Viehischen Wercke voll⸗ 335. dessen sich die Seele und Natur schaͤmet 336. Vom drey⸗ enbeben des Menschen. 338. Gott ist nach Feuer und Licht, als
+
+55 der ewigen Natur, Vater und Sohn, nur Ein Wesen, aberin e rincipien offenbar:7 2 Also hat G Ott aus allen Wesen ein 7 5
+
+10 in welchem alle3Welten nur Eine waren. 340.
+
+Welt ist der Himmel, die aussere, die Zeit, 341. und ein?Were 2 55derinneren. 342. q. Die Seele ist der Ewigen Natur: die Auf Naturistihr Wohnhaus 345. Ihr Fall war, daß sie ihre Imagi⸗ on und Begierde ins Aeussere gesetzet. 15 347. Jedwede Gestalt einen 10 1Willen.&48. AdamsFall. 351.19. .Der wahre Lie⸗ di im Fluche der Erden vom Menschen gewichen. 380. -Von
+
+Be aneun zwischen Männern und Weibern in heiligen und auch was es für eine Gestalt mit der Conjunetion rerSünden habe? 388. sg. In keinem Menschen mögen heilige Kinder ER,uͤn sei eiget werden. ibid. Beyde Tineturen von Mann und „wollenwilederdas senn, was 155 im Bilde gemefen. ibid. Das ersehnet sichnach dem vicht.38 89.39 „Was gesäet wird? 391. fg.
+
+Begierde 5 70Imagination Mannes und Weibes ist nicht heilig. 11888 Schaͤmensich N 5 18 55 aufs beste zu sagen, so ermischung ein Eckel vor GOttes Heiligkeit. 38. Exempel viawer (Exod. 19: 15.) ibid, item (1.Sam. 21: 5. und1.Cor, 400. Der Same ist unrein in der Gonkunction, 402. Denn eben Beialte im Samen sind in ihrer Erhebung fänblic, und in ftes Zorn entzündet. 403. Ob sich nun wol das Verbum Domint Se en beuten mit einmischet, so geschicht es Zoch nach dem innern en, 404. dann der H. Geist nicht in der Imagination des Flei⸗ dches , sondern in seiner Huge, g 5. und die geistliche Geburt in sei⸗ nem Prinespio befördert. 406.
+
+Shiefels Schreiben wird 1 7055 der
+
+Leute suchet leichtfertig!zu machen. 407. Es ist gantz falsch, 2 eischl. Eonjumetion mische 408. Geschicht das ckinder
+
+Ordnung, ist es wol nicht sündlichin sich;40
+
+stellet ihm darinn, unser im Samen verschlossenes wahres Sit:
+
+n Ehristo vor. 410. g. Was mit dem Weibes Samen verstanden 1450. uche Fung gehöret dem aͤussern Meuschen der Wunder ttes, 460. und = Weisheit weiset ihr den 1 wie sie suchen
+
+2. Alle nuͤtzliche Kuͤnste dienen zum Auffern Leben. 465.
+
+us ft Gott und Mensch; JEsus ist der Göttl. Same * tt. 465. 366. Unterscheid unter Christus 117208 6546 ria und Christus waren im aͤusseren Menschen ster „bt.
+
+at mit feinem aͤusseren Menschen nicht Suͤnde AR 2 Er wieder in eine Liebe⸗Conjunetion in der Be⸗ gierde nach Kraft. 502,
+
+Der Leib wird in der Wiedergeburt nicht
+
+Brite soll aber in der Jungfrauschaft auffichen. 507. Die Alt:
+
+Christum im Bunde angezogen, 508. nicht im Fleische; Ehriften aber ziehen Christi Menschheit an. 85.172 Reich dieser
+
+Welt un hristi Tod und Sterben an. 510. sur. Der gläubige Mensch ist seiner Sünden Feind, und nach dem himml. Wesen, Christi Braut.
+
+Sia.
+
+us
+
+Die Creatur Chrißi hat die Macht empfangen, dadurch 85
+
+[p. 47] Sc
+
+204 XI. Vom Irrthum der Secten
+
+Es muß ein rechter
+
+seyn, 542. daß wir stets beten,
+
+5 75 nicht begehren zu wissen. 545. hristen. 550,
+
+Übung eines rechtglä FERN
+
+1.
+
+<
+
+Ber diese angezogene Sprüche fuͤhret der rer derselben feine
+
+Erk
+
+Meinung mit nachfolgende
+
+Worten und Tituln an den Sender der Spruͤche also aus:
+
+AVE.
+
+N Eliebter und Auserwehlter in Christo JEsu, dem dreyeinigen lebendigen GOtt, Regierer und eErrn Himmels und der Erden, aus dem dreyeinigen hochge lobten GGtt und allerbeiligftem Wesen der gantzen voll⸗ kommenen Dreyeinigkeit, von Ewigkeit geboren, undzu feinem Bilde, in der Liebe feiner Goͤttlichen Stimme, 3
+
+seiner allerheiligsten Wollust und allerheiligsten Frer und Wolgefallen von undin Ewigkeit gezeuget. eure jüngite und unlängst überfchickte Fragen, wie sie 4 nach einander schriftlich erzehlet, soll und habe 1
+
+Begehren nach, mit Gott der drey⸗Einigen Weisheit K 7 Christo, ja mit derselben Weisheit Christo selbst, der ewi⸗ gen allerheiligsten Allwissenheit selbst, dieses nachfol⸗ gende, zum heiligen drey⸗ einigen Lobe Gottes, zu en aller heiligen Glaͤubigen ewigen Seelen Seligkeit, in und aus dem drey⸗ einigen Hertzen und Munde, mit dem ewi⸗ gen / kraͤftigen und lebendigen Worte, in, mit, und aus al len heiligen Gliedern Christi, des hochgelobten GGttes, antworten, und im Zeugniß des Buchstabens ans Tages Licht geben sollen und wollen, und wie dieselbe fürs
+
+Meldung thut, und den Spruch Gen, 1: 27. also setzt u AA mar! schriftlich anz eucht:
+
+erste
+
+Gott fehuf den Menschen Ihm zum Bilde, erst⸗ mals in Adam.
+
+Dieser Spruch ist von und durch eure
+
+Person wegen Auf:
+
+serlichen Anschauens des Teutschen ai ee ihr auch [p. 48] undEz. Meths. Ef. Stiefels disfals in Unwissenheit nicht zu sehr und hoch zu auch verdencken seyd) unrichtig, und dem Goͤttlichen Sinn zus ieder angezogen worden. Sintemal der Hebraͤische, Briechifche und Lateinische Text also meldet: Gatt schuf eee in feinem Bilde. Dar aus klar und offenbar einet, daß der drey⸗ einige GGtt in Christo feinem gebornen Sohn und allerheiligsten Ebenbild feiner, unsichtbarlichen Gottheit, vor allen Creaturen, nicht al⸗ lein den Menschen, sondern auch alle himmlische und ir⸗ dische Creaturen, ja alles was gemacht ist, Joh. i. in Ihm geschaffen, und zu feinem heiligen Lob und Ehre in Christo hervor bracht und gemacht hat. Dannenhero eure Auslegung, wie ihr setzt, erstmals in Adam, hieher nicht kann gezogen und gesetzt werden; wie denn hierauf euer schriftliches Darbringen, ja zum Bilde Gottes schuf
+
+Er ihn, zum andern mal in Christo, nicht kann gelten oder statt haben; Sintemal dieses alles vor dem Fall Adams bergegangen, da noch zu der Seit keiner Wiedergeburt in ind durch Christum erwehnet, und nach Zeugniß der ist von und mit Gott demgeschaffenen Menschen zu fen gemacht worden ist. Es meldet auch der Hebraͤi⸗ che; Griechische und Cateinische Text, daß der drey⸗eini⸗ ge Gottin Christo, feinem erstgebornen Ebenbilde, vor en Creaturen, in dem und durch den Er alles gemacht, gemacht ist, den Menschen nach feinem Bilde, das was st, nach Christo, feinem Goͤttlichen Ebenbilde, geschaf⸗ fen; Und wie Christus aus und mit GGtt, in der Liebe der Mutter und Goͤttlichen Stimme, von Ewigkeit zu
+
+seinem Ebenbilde seines gantzen vollkommenen Wesens, n groͤsten bis zum kleinesten, vom kleinesten bis zum eöften, von Ewigkeit geboren; Also hat Er in der Schöpfung den Menschen zu und nach dem Bilde Christi, in Christo sichtbarlich gemacht, und zu feinem Lob und Ehren geschaffen: Daß er haͤtte sollen durch Christum gehorsam, in der Unschuld beständig, Ihm gleich erschei⸗ seyn. Dieses ist, nach eurer schriftlichen Mei⸗ nung, nicht zum andernmal in Christo, sondern zum er⸗ nmal in der Schöpfung des Menschen geschehen und offenbar worden.
+
+2. Nun
+
+[p. 49] 2. Nun folget meine Antwort uͤber diese obbemeldte rung, und hernach meine Erklarung und ugsthrnge derH.Schrift findet man an keinem Ort, daß ein Menschin gantzer vollkommener Kraft, Gewalt, Allmacht und Allwis⸗
+
+senheit sey einher gegangen, und dasselbe zum er Eigenthum gehabt.
+
+3. Denn solches auch nicht von der Person Christ ee indieserWelt sichtbarlich bey uns gewandelt hat, nach der ve uns angenommenen Menschheit, mag gesaget werden, soı * , dern allein nach seiner ewigen Gottheit.
+
+4. Denn seine Seele und Menschheit hat auchzu 4
+
+Gott geruffen und gebetet, und am Oelberge gesaget, . ietzo wolte in fein Leiden gehen: Vater! Ists moglich,so dieser Kelch von mir; und betete zu 6800daßEr {iM nc Schweiß schwitzte.
+
+5. Auch wenn Er wolte Wunder und Zeichen chan,an EreinenVater um Erhörung, wie bey dem von Todten ers 4 weckten Lazaro zu sehen.
+
+Darzu stehet auch geschrieben:
+
+Gott will feine Ehre keinem andern geben (Ef. 42:8.) Ei Ich bin allein dein HErr und GOtt. (Exod. 20: 2.) Ite
+
+Gott istein einiger GOtt und keiner mehr. Deut. 64.
+
+6. Lauffet derowegen sein Titel und Eingang an die pe deren er die Erklärung gestellet, bald gang irrig. Er will der vollkommenen Kraft der Allwissenheitinund aus der ligen Dreyfaltigkeit antworten, und setzet sich GOtt in allem Wesen gleich, und stellet sich dar, als ware er Gott selber; will in Christo mit seinem gantzen Menschlichen Wesen, — aussen und innen, in allen feinen Heiligen das Wissen und les seyn, welches keine Creatur wissen noch thun oder seyn kan als nur der Geist GOttes allein, welcher in iedem Menfe das Wissen aufblaͤset, einem ieden das Seine zutheilet n seinen Gaben, wie Er will, nicht wie die Creatur will. 2.7 7. Dieser aber saget, er wolle aus Christo, aus feiner gen Weisheit, aus dem Hertzen und Munde GOttes,aus dern H. Drey⸗Einigkeit antworten; Und ob er dessen einen+4 > lichen Befehl hätte, daran man doch sehr zweifelt, undal in Englischer Botschaft zu uns kaͤme, wuͤrde er doch nicht ai dem offenbarlichen Hall und Schall der H. Dreyfaltigkei aus Christi selbstaͤndiger Person, zu uns reden, sondern aus feiner Creatur in Goͤttlicher Kraft, durch nn,
+
+[p. 50] Menschliche Eigenschaft, auf Art, wie alle Menschen von der
+
+Welt her geredet haben. 8. Und ob man wol kann mit der Wahrheit sagen, daß GOt⸗ tes Geist durch Menschlichen Hall redet, doch soll der Mensch Gott die Ehre geben, und nicht ihme selber zuschreiben; Denn es stehet geschrieben: GOtt will seine Ehre keinem andern geben. Er hat sie seinem Sohn JEsu Christo gegeben, wel⸗ chem Er allein den H. Geist im ewigen Worte ohne Maß geges ben hat, und keinem mehr, davon Christus Matth. 28:18. sagt: ist alle Gewalt gegeben worden, ꝛc. Mir 9. Welches kein ander Mensch, weil er in dieser Welt lebt, von seiner ereatuͤrlichen Menschheit sagen darf, daß er alle Ges walt im Himmel und auf Erden habe, als nur dieser JEsus, welches Ausgang von Ewigkeit her je gewesen ist. . Auch sagte dieser JEsus Christus, als er von uns scheiden wolte: So alsdenn jemand wuͤrde kommen und sa⸗ gen: Er sey Christus, sollen wirs nicht glauben; Und weiß uns daß viel falsche Christi und Propheten nach Ihm er⸗ sagte stehen wuͤrden, vor denen wir uns huͤten sollen.
+
+u. Ist uns derowegen dieses gantz verdächtig, daß dieser Mensch aus ihm selber aus dem Hertzen und Mund der H.
+
+Drepfaltigkeit reden will: Denn die Creatur soll sich vor demuͤthigen, und mit nichten sagen, sie sey GOtt selber,
+
+Gott ndern eingeschaffen Werck und Bilde seiner Gleichheit, mit dem GOtt thue was Er wolle. 12. Ferner redet er von des Menschen Urstande und Schoͤp⸗ sung also wunderlich, das er in heiliger Schrift, auch im Lichte Natur, nicht erweisen kann, und gehoͤret gar viel eine an
+
+Erklaͤrung dazu. daßes in Sum⸗ 113. Ja, er redet auch von Christo so seltzam, keine genugsam verstaͤndliche Erklaͤrung scheinet zu seyn: y saget, Christus sey von Ewigkeit das Ebenbild GOttes in der Goͤttlichen Mutter feiner Liebe, aus der Stimme der H. infaltigkeit, geboren, und machet also ein sonderliches zwi⸗ chen dem Erstgebornen vor allen Creaturen, und der H.
+
+Dreyfaltigkeit, und will Ihn doch auch in der H. Dreyfaltig⸗ keit wohnende haben.
+
+14. Machet also gantz wunderlich 4 Personen (wie sichs laͤs⸗
+
+setansehen) in der Gottheit, als ob ihr die H. Dreyfaltigkeit babe von Ewigkeitinsich noch ein Gleichniß und n ge⸗ oren,
+
+[p. 51] Ur⸗ boren, in welcher Geburterauch will den Menschlichen
+
+stand von Ewigkeit haben. 15. Brauet also wunderlich eins ins ander, daß man also nicht genug verstehen kann, was Gott und Creatur ist; Gas get: Er habe alle himmlische und irdische Creaturen in dem selben erstgebornen Sohn Gottes geschaffen, und der Sohn sey, aus dem grössen Wesen bis aufs kleineste, von Ewigkeit aus GOtt geboren, verstehet damit, aus der H. Dreyfaltig⸗ keit; und machet alles in einander, als ein wirrendes Rad, daß man also nicht verstehen kann, woraus der creatuͤrliche Urstand sey, weil ers ohne Unterscheid alles in Christo be⸗ schleust, und den Namen Christi von Ewigkeit hersetzet, und saget: Gott habe alles in Christo hervor gebracht; somuͤste
+
+Er auch alle boͤse, giftige Wuͤrme und Thiere in Christo haben hervor gebracht, sowol die Finsterniß und Hoͤllische Qual, alles, was in solcher Eigenschaft lebet.
+
+Von Christo.
+
+16. Johannes saget im 1. Cap. 14. Im Anfang war das Wort, und das Wort war bey GOtt, und GOtt war das Wort; dasselbe war im Anfang bey GOtt, durch dasselbe hat was gemacht ist; und ohne dasselbe ist Er alle Dinge gemacht, nichts gemacht, was gemacht ist. Johannes sagt: Gott war das Wort, und in Ihme war das Leben der Menschen.
+
+Er saget nicht: Im Anfang war Christus, sondern das Wort: Dasselbe Wort ward in der Jungfrauen Marien Mensch, das war Christus, der den Zorn feines ewigen Va⸗ ters in Menschlicher Eigenschaft, durch den Christum und chete und dem Teufel fein Raub⸗ Schloß loͤsn terge Schl ·Tre in Menschlicher Eigenschaft zerstoͤrete. 17. Da der Engel Gabriel zu Maria kam, und ihr die Bor⸗ schaft brachte, daß sie solte schwanger werden und einen S gebaͤren, des Namen sie solte FEfus heissen, dessen Ausgang von Ewigkeit sey, dem GOtt der HErr werde den Stuhl
+
+sei⸗ nes Vaters Davids geben: Da sagte er nicht, des Namen solt du JEsus Christus heissen, sondern nur JEsus, dessen Bas Anfang und Ausgang von Ewigkeit ist. 18. Aber der Name Christus urstaͤndet in dem Jersus, als
+
+Er den Stuhl seines Vaters Davids besaß, und der Schlan⸗ gen den Kopf zertrat, und fein Himmlisches Blut in des Vaters
+
+Zorn vergoß, und denselben in Menschlicher Eigenschast mit [p. 52] itGoͤttlicher Liebe loͤschete: Alda empfing Er den Namen eistus,als ein Heilmacher des Schadens, oder Gesalbter tes, ein Durchbrecher des Todes, ein Sieges Fuͤrst der len,Todes und Teufels. Ken Christo ist keine Creatur geschaffen oder ge⸗ r ist der Wiedergeborne der Menschlichen
+
+0 ischaft, Er fuͤhret das Menschliche Leben aus dem Tode, gebieret das in dem Christo durch den Namen FRfus in
+
+‘ er Kraft neu und zum Kinde GOttes.
+
+Denn Christus ist die Mutter der Wiedergeburt, und ider der Schoͤpfer aller Dinge, in dem alle Dinge beschlossen worden, aber der JEsus e Der Christus Ehristo ist der Schöpfer aller Dinge; Der Christus
+
+Mir ist alle Gewalt gegebenꝛc. Er sagte nicht von igkeit.
+
+21. Gott der Vater hatte die Gewalt dem Christo durch
+
+Jef m gegeben; Denn deme ein Ding gegeben wird, es nicht von Ewigkeit gehabt, noch selber gemacht; Br ee93 selber gemacht bat,dem mags nicht gege⸗
+
+22. SatChristus alle Dinge in Ihme selber, verstehet in dem Christo, gemacht, und aus sich selber, so kanns Ihme t egeben werden, sondern Er hats von Ewigkeit gehabt, alda kein Geben; Er aber sagte, Ihme mare alle chtvon feinem Vater gegeben worden.
+
+223. So nun diesem Sohne, als dem Christo, die Macht vom Vater gegeben ist, muß man dencken, daß die gegebene ERindes Vaters Willen urstaͤndet. Denn was gegeben wird, das ist nicht mit dem Geber von Ewigkeit in gleichem Beben gewesen: Wol hat sie der theure Name FEfus von Ewigkeit gehabt; Denn Er hat einen ewigen Urstand in dem ‚ Immerfprechenden Worte: Er ist der Name des Erstgebornen vom Vater von Ewigkeit, dessen Ausgang und
+
+Anfang von Ewigkeit ist, wie der Engel zu Marta sagte. 24. Welcher Name in dem wort das alle Dinge schuf und alle Dinge erbar, in Maria in Mensch⸗ und Goͤttlicher
+
+Essentz und Wissen, Fleisch ward, beydes eines Himmlischen und Menschlichen i Fleithes, der zugleich im Himmel und auf Erden wohnet, Joh. 3: 13. Der in der H. Dreyfaltigkeit war von Ewigkeit die andere Person Pre Wesens Nau “ir
+
+[p. 53] 2¹⁰ xl Vom Irrthum der Steten und ewig von sanem Vater geboren wird auch nochin G von seinem Vater immer und ewig geboren. er9 25. Nicht wird der Christus immer geboren, der isteei im Menschen geboren worden; Aber das ewige Wort in hr
+
+sto, wird von 52 in Ewigkeit immer vom Vater gebe ren; Denn Christus sprach zu Philippo: Glaubest du nie daß der Vater in mir 1 und ich im Vater? Denn die Be die ich rede, sind nicht mein, sondern des Vaters, der in wohnet: Joh. 14. 10. Nicht des Christus waren sie, so
+
+2Beten 5N 1155und ewige Stimme, atte in der Menschheit offenbaret.
+
+Darum sprach die Menschheit: Die Worts sind 1 Fe x. Sondern des Vaters Wort, darinne und damit( ö die Menschheit hat angenommen. Die Menschheit ist8 unter der Gottheit in der angenommenen Mensch eit. 227. Indem das Wort Fleisch ward, urstaͤndet der N Christus, als ein Seligmacher des Fleisches, und d 2 und nicht aus Menschlicher, Fleischlicher Eigenscha FE 555 dem Namen Iefus, im Worte des Vater esen.
+
+28. Will ich nun von der H. Drepfaltigkeit reden, so se ich nicht, daß die Göttliche Liebe ein ausgeboren Wesen „5 und eine Mutter GOttes, oder ein Weib GOttes wie Autor tichtet, als waͤre der Erstgeborne, welchen Exe i stum heisset, aus der Mutter seiner Stimme und ebe -e
+
+209.
+
+HR „
+
+Das ewige Wort, oder der Erstgeborne aus
+
+Buer von Ewigkeit, ist selber das Gebaren der diebe, de und vom Vater gehet der H. Geist aus. von Ihme 30. Die ewige Weisheit ist das ausgeborne oder das gesprochene Wesen, als ein Spiegel und Zierheit der H. Dres fallggkett, in welcher die Kraft, Farben und Tugenden Gottheit offenbar werden, und in welcher der GeistGs tes alle Dinge von Ewigkeit gefeben hat, beydes na Vaters Eigenschaft in welcher Er GH Vater sichauen zornigen, eiferigen GOtt und ein verzehrend Feuer nem In welcher Eigenschaft erboren ist die Finsterniß und der Pein, sowol die Natur und alle Geister, und alles — im Schwefel und Mercurio lebet, beydes nach den ewigen
+
+Geistern und nach der Zeit Geistern: Und denn nach duke [p. 54] ef Stiefels und e we eheundewigen Lichts⸗Eigenschaft; Nach welcher Eigen⸗ fd fiber Name Gott, als das Gute von Ewigkeit urstaͤn⸗ hte det; In welche der r Name JEsus vom ewigen Lic als vom Schoͤpfer der Demuth oder des Wolwollens, in sich selber N ee wie die Sanftmuth des Lichtes in dem Feuer ur: t, und einen andern Willen anderer Qual fuͤhret als
+
+Feuer, nach welchem sich Gott Barmhertzig und Guͤtig ennet. & 31. So ist der Name Jesus der erste ewige Urstand zu es Barmhertzigkeit; Darum sagteS.Paulus: (Eph.1:4.) Br sind in Christo JEsu, zuvor versehen worden, ehe der
+
+Welt Grund geleget war: Denn in des Vaters Zorn ward 1 der Fallerkant: Und im Namen Isus in seiner Liebe ward der Christus, als ein Erloͤser des Zorns, erkant. 32. Denn Gott sind alle feine Werde von Ewigkeit be⸗ 0 mi gewesen, beydes das Gute und Boͤse; das Boͤse istin sei⸗ nem Zorn erkant worden, und das Gute in feiner Liebe.
+
+33. Derselbe ewige GOtt in Drepfaltigkeit, hat alle Dinge 1 iuund durch das ewige Wort, welches fein Mund und Hall er Stimme ist, aus sich selber, aus beyden Eigenschaften, Zorn, als aus der ewigen Natur, und denn aus Liebe, als ein Hen der Natur, in Wesen geschaffen: he
+
+Verstehet, Gott in der Dreybeit ist ein Geist und esen; Aber im Worte seines Halls hat Er sich in sei⸗
+
+5e in Wesen eingeführet; Seine Begierde ist das Flat, welches im Verbo Domini urständet, als eine ewige Begier ierde. 35. Gott in sich selber ist die ewige Luft der Freyheit, von allem1 Wesen frey: Aber mit feiner Begierde aus der Luft, als aus des ewigen Feuers Eigenschaft, hat Er alle Geister ge⸗ st gaffen, als da sind Engel und Seelen der Menschen; In welcher Feuers⸗Eigenschaft das Centrum des Lichtes in allen eln, mit dem Feuer des Zorns in gleicher Wage stehet. 36. Denn als sich GOtt einmal zur Schöpfung bewegte, da bewe te Er sichnach alle dem, was Er selber in allem ist, vornemlich nach der ewigen Weisheit, in welcher bie Forma der Schöpfung von Ewigkeit in Feuer: und Lichts⸗Glantz, im ** z eiste 1 8 nach Liebe und Zorn, nach Finsterniß und Licht
+
+.Schöpfung ist9 Die nichts, als ein e
+
+[p. 55] XI Vom Irrthum der Secten oder Aussprechen seines Wesens; was GOtt in der Natur des Feuers und denn in der ewigen Freyheit von aller Qual ist; das hat die freye Lust in eine Begierde eingefuͤhret, und impresset in ein wallendes Wesen. Saar.
+
+38. Die Begierde, als das Piat aller Wesen, urstaͤndet dem, daß sich der unwandelbare GOtt, als der Ungr sie in der ewigen Luft beweget hat, alda denn die Zeit angefangen.
+
+39. Alle Engel und Creaturen, so zum ewigen Leben ges
+
+schaffen sind, die sind allesumt in dem Aushauchen des Vaters, durchs Wort in der Begierde, als in der Bewegniß im Flat er⸗ griffen, und in ein Model der ewigen Lust, wie der ewige Geist in der Weisheit solches in seinen Wundern ergriffen hat,in ein |
+
+Bild der Luft geschaffen worden; und istin allen die Mög keit zu Gutem und Boͤsem geblieben, vermoͤge der gantzen Goͤttlichen Eigenschaft, nach Licht und Finsterniß.
+
+40 Und ist uns aber nicht also zu dencken, daß ein Geist oder Engel das Aushauchen der ewigen Geburt der H.Drey⸗ faltigkeit in der Goͤttlichen Stimme selber sey; Sondern er ist das ausgesprochene Wort, als ein Model und Bilde des sprechenden Worts, ein zugerichtet Instrument des Geistes Gottes, durch welches der Geist GOttes, als durch feinen zubereiteten Werckzeug, spielet und hallet. 41. Sofern das Werckzeug in feiner zugerichteten Ord⸗ nung bleibet inne stehen, als mit der Begierde des kits, welches in allen Engeln, als ein Eigenthum des Engels, inne, fe: het, damit sich der Wille des Engels mag in dem Guten, alı Gottes Liebe ee erheben, und in dessen Figur
+
+Klang einführen.
+
+Denn der Schall des Wortes istaus des und in ein Bild im Verbo Vaters Liebe und Zorn ausgehauchet,
+
+Fiat eingefuͤhret worden.
+
+42. Als denn zusehen ist, wie sich etliche Fuͤrsten⸗Engel il die Liebe mit der Begierde einergeben; und etliche, als Lucife in Zorn, als in die Begierde des Fiats, und einen Willen ir der Begierde des Zorns geschöpft, in Feuers Macht, nach des Vaters Zorns Eigenschaftzu herrschen und zu 1 und also uͤber alle Fuͤrstenthuͤmer der Engel, uͤber die Liebe zu herrschen in grimmiger Feuers Macht, davor ihme feine vom Verbo Fiat in die Finsterniß GOttes Zorns erfolgte.
+
+43. Koͤn⸗
+
+[p. 56] 43. Koͤnnen also von der Schoͤpfung aller Wesen nicht sa⸗ ch 5 daß sidas ewige Wesen der Drepzahl habe also in ein ld der Engel formiret, sondern in der ewigen Begierde, wel⸗ che sich in der Lust der Gottheit hat geurstaͤndet, durch die Be⸗ wegung des Vaters aller Wesen, als eine ewige Natur und eine Offenbarung der ewigen verborgenen Natur.
+
+44. Inderselbigen ewigen, unanfaͤnglichen Natur, alsin der allwesenden Wirckung des grossen Myfterii, haben die
+
+Engel und Seelen der Menschen ihren Urstand empfangen, in dem ewigen ausgesprochenen Worte, in der ewigen Weisheit Gottes, nach Liebe und Zorn.
+
+45. Denn sosie allein in der H. Stimme Gottes, als in der einigen Liebe, hätten geurstaͤndet, so hätten sie keinen Wil⸗ len zum Zorn können in sich schoͤpfen: Oder so der Liebe⸗Wille GOttes im Engel wäre gefallen, so gabe es den Verstand, daß Gott in der Creatur ware gefallen, und zu einem Teufel wor⸗ den, welches abscheulich istzu reden. 46. Kein ereatuͤrlicher Geist mag ohne die Feuer⸗Welt in Creatur bestehen; Denn es wäre auch GOttes Liebe nicht, so nicht fein Zorn oder die Feuer Welt in ihm wäre; Der Zorn oder das Feuer GOttes ist eine Ursache des Lichtes und der
+
+Kraft, Staͤrcke und Allmacht.
+
+47. Aber in der Liebe erstirbt das Feuer und transmutiret sich in die Freudenreich, denn an dem Ende urstaͤndet der Tod, welches als ein Sterben im Feuer ist, aus welchem Sterben das Licht, als eine andere Qual, urstaͤndet, als eine Begierde der Liebe, welche GOttes Barmhertzigkeit genant wird, oder rise Freudenreich; das Leben der Heiligkeit ohne gehet vom Sterben im Feuer aus, als ein Glantz der Majestaͤt, ein Glantz der Freyheit. 48. Dieses Sterben verachtete Lucifer, wolte im Feuers⸗
+
+Regiment, in der Selbheit, leben und regieren: Also ward er auch aus dem Feuer zuruͤcke, in die Wurtzel zum Feuer, als in die Finsterniß ausgetrieben. 49. Ein ieder Engel und Seele die in GOttes Licht und Kraftleben will, muß der Selbheit des Feuer⸗Regiments in der Begierde ersterben, und sich mit dem Eigenthum in GOt⸗ tes Willen, als in Goͤttlichen Hall, gantz einlassen, dem eigenen Willen im Feuer ersterben, und aber im Lichte der Liebe, in der
+
+Gelassenheit, in GOttes Hall 185Worte ausgruͤnen, = er ru
+
+[p. 57] EN
+
+Tr
+
+214 XI. Vom Irrthum der Secten
+
+Liebe GOttes, auf daß G Ottes Willen⸗Geist fein ben regiere und führe, und daß die heilige Tinctur vom Feuer und Lichte der Glantz feines debens⸗Scheins sey, daraus wie⸗ der Goͤttlicher Wille und Begierde urstaͤnde, auf daß dasselbe Leben könne in der Kraft und Tugend der Weisheit GOttes leben, sich darinne schauen, und Goͤttlichen Willen darinnen
+
+schoͤpfen, welche Weisheit der Engel Speise ist, daraus sie ih⸗ rem Schöpfer ewig Lob gebaͤren, aufdaf GOttes Freuden⸗ Spiel in der Englischen Stimme sey, als ein Instrument de
+
+Geistes GOttes, als in der Harmonia Goͤttlicher Freudenrei⸗— gerichtet. 50. Denn ein ieder Fuͤrsten⸗Engel tragt den Namen d. grossen GOttes, ein ieder nach feiner Eigenschaft, als ein son⸗ | derliches Instrument, in dem Lobe GOttes in Goͤttlichem Halle angerichtet.
+
+51. Ingleichem ist uns von der Schoͤpfung Himmelsun der Erden auch nicht zu gedencken, daß der Himmel und die Welt mit ihrem Wesen sind aus GOttes Heiliger Stimme oder Worte geschaffen worden, sonderninder Stimme und Fi erii der ewigen Feuers⸗ und Lichts⸗Begierde, und in ein
+
+We⸗
+
+sowol nach der Lichts⸗Begierde, als nach der freyen 5 5 durch das Wort; nicht aus dem Halle Goͤttlicher Eigenschaft, des ewigen My122 55 im Verbo Fiat, als in der Impression
+
+sen gegangen, nach des Feuers und Finsterniß Eigenschaft, genschaft, als eine Offenbarung Boͤses und Gutes, der den, auch der Pein und Qual; Wie es alles unleugbar vor Au gen ist, und uns mit der gantzen Creation uͤberzeuget: Da man erkennet, wie in allen Dingen Gutes und Boͤses ist um welches willen das Juͤngste Gericht von GOtt, als ein Schei⸗ de⸗Tag, bestimmet ist, da alles soll wieder in seinen Anfang eingehen.
+
+52. Diese sichtbare Welt ist eine Gleichniß des ewig
+
+MyRerii , daraus Freud und Leid, Licht und Finsternißu standet, durch welches ewiges NMysterium sich der Geist
+
+Drey⸗Zahl in Drepfaltigkeit offenbaret, und in 3 Principia einfuͤhret.
+
+Mense
+
+53. Nemlich (i) in die finstere, kalte und Feuer⸗Welt als Abgrund des Myfterii : und dann zum (2) in die En Licht⸗Welt der Freudenreich; (3) Mit einem Gleichniß
+
+sinstern, Jeuer⸗ und Licht⸗Welt, als mit dieser autem dice \ [p. 58] s. Meth Ez. ls fe ie St Ef. n in welcher Er der ewigen und Elementische Welt, baren
+
+Vorbilde gebieret, in Boͤsem und Gutem, wie an allen
+
+Welt reaturen dieser Welt, auch an Sternen, Elementen, Krau⸗ tern und Baͤumen zu sehen ist, wie alles ein Contrarium wieder einander ist, und doch die Geburt alles Lebens in solchem Con · ario stehet; Ein iedes Leben stehet in Bos und Gut, als im ist und Oele, aus welchem das Leben im Feuer brenner oder
+
+scheinet, welches alles ein Gleichniß der ewigen Geburt des
+
+Mylfterii aller Wesen ist.
+
+- 54. Auch siehet man das Gleichniß der H. Dreyfaltigkeit
+
+Leben, als das Feuer, Licht und ausgehende Luft vom Feuer und Lichte; und soll der Mensch, als das Bild GOttes, nicht ein solch Kalb seyn, der feines Vaters Haus nicht wolte peu kennen und verstehen; ja wol darzu verbieten, wie dieser utor in feiner Erklärung thut, welchem G Ott wolle ein bes⸗ ferErkentniß geben, wie mein hertzliches Wuͤnschen ist. RR Anlangende des Menschen Urstand, saget uns Moses, SSOtt habe gesprochen: Lasset Uns Menschen machen, ein ilde nach Uns, das da herrsche uͤber alles, das auf Erden ist zc. Und spricht weiter: GOtt schuf den Menschenin sei⸗ Er ihn. nem Bilde, ja zum Bilde GOttes schuf 306. Dieses istnun gar recht geredet. Aber der Erklaͤrer mb ein Verkehrer, und verstehets nicht; da er doch will us der Stimme der H. Dreyfaltigkeit geredet haben, und fein
+
+Ding für gantz Goͤttlich, ohne Mangel ausgibt, aber noch zu dieser Zeit die Göttliche Stimme nicht gehoͤret, nochim Hall erkant hat, sondern nur die Stimme des ausgesprochenen
+
+Worts, in Böse und Gut, in feiner eigenen Vernunft und a fox S. Paulus saget: (Eph 1:4.) Der Mensch ist in Chri⸗ sto
+
+In
+
+J Esu versehen worden, ehe der Welt Grund geleget ward.
+
+diesem liegt der Kern. Vor den Zeiten der Welt ist das des Menschen in der ewigen Weisheit, als im Aushau⸗ todel
+
+2 des Wortes, vom Feuer und Lichte, als eine Form in ttlicher Weisheit erkant worden, aber in keinem Geschoͤpf oder Bilde gestanden, sondern auf magische Art, wie einem im Traum ein Bilde erscheinet, welches ohne Wesen ist;
+
+im allgemeinen, ausgehauchten oder Alco ist die Erscheinung ausgesprochenen Wesen, im Geiste Gottes, der alle Dinge nach iedes Eigenschaft nr bat, als nach dem Bor der
+
+[p. 59] XI Vom Irrtder huSec m ten
+
+8 . 77 0 Eigenschaft in der Finsterniß und im Lichtein UNI.
+
+38. Denn der Blick des Geschoͤpfs istaus dem grossen Mysterio in der WeisheitinBoͤsem und Gutem, nach beyder Bes 4775 Eigenschaft, als ein ewiges Contrarium, gesehen wor⸗ n: Der Zorn, als die finstere Welt, hat in ihrer Begierde das Bilde oder Gleichniß Gottes gesehen, und auch die Liebe in ihrer freyen Lust Begierde: Nicht daß sich die Eigenschaft der Liebe in Zorn verteuffe, und in Zorn schaue; sondern eine ö lede Eigenschaft in sich selber. 509. Alda hat der Geist GOttes, welcher aus des Va Feuer und Licht ewig ausgehet, den Fall im Zorn GOttes kant, daß, wann dieses Bild der Figur GOttes würde in lebhaft Wesen geschaffen werden, es auch würde vom Grimm gezogen werden, und seine Herrlichkeit verlieren.
+
+ein =
+
+60. Alhieran diesem Orte hat sich der Christus in dem Namen JEsus, als ein Willen zum Christus, gegen die
+
+Gleichniß Gottes gestellet, und den Willen darein gegeben, aus dem Ffir in der geschaffenen Weisheit, Menschheit) ein Christus oder Heilmacher zu werden; Und in diesem Willen ist die Gleichniß GOttes der Mensch in der Zeit, als am ten
+
+Tage der Schöpfung, in ein Bild aus der Mafla oder Auszug aller Geschoͤpfe dieser Welt Wesen, sowol aus der Himmlischen Welt Wesen geschaffen, aus dem ausgehauchten oder ausge⸗ sprochenen Wesen des ewigen Worts, und im Verbo Fiat nach der Gleichniß desewigen Myfterii und der ewigen Geburt der ) H. Dreyfaltigkeit in ein Bild formiret worden. 61. In welches Gott der Vater durchs Wort oder Goͤtt⸗ | lichen Hall mit feinem Geiffe, den Geist des Lebens aus allen dreyen Principien, als ausder Feuers Licht: und aͤussern Welt, N eingefuͤhret hat. 62. Zum Ersten, als den Feuer⸗Geist des ıten Principii der Ewigkeit, aus des Vaters Eigenschaft, welcher die w hafte Seele ist; Und zum Andern, den Lichts⸗Quall und aus der Stimme der Liebe, welches das edle Bild der
+
+Geist
+
+Gott⸗ heit ist, ein iedes in feinem Principio instehende und seine
+
+Welt beherrschende. Denn zum Dritten, den Geist Luft ele inseine Nasen von aussen eingeblasen; Also, daß der Mensch ein lebendiger Geist aller 3 Principien nach GOttes Gleichniß sey, gleichwie GOtt alles in allem e
+
+[p. 60] Ee.
+
+StiefelsundEz.Meths.
+
+aur aber mit der wahren Gottheit, als mit dem Guten, von nichts ergriffen und erkant wird, als nur von seiner Gleichheit, was aus dem Guten erboren ist, und darinne stehet. 63. Nun verstehet mich recht. Gleichwie GOtt in feinem Lichte in der H. Licht⸗Welt durch alles leuchtet, alles tingiret, und von feurischer Eigenschaft in die Kraft der Freudenreich einfuͤhret, und mit derselben Kraft auch durch die aͤussere Welt durch alles dringet, und allem Kraft und Leben giebet, und das Wesen, in welchem GOtt wircket, doch nicht GOtt genant wird, dennoch auch eine eigene Wirckung vom Ausgehauchten
+
+Mysterio in sich hat, in welchem das wachsende Leben stehet, der sulphurische und Dercurialifche Sud, welcher im Saltz
+
+Kraft coͤrperlich wird, als im eigenen Fiat, oder Gebaͤren, gleich einer Impression nach des ewigen geistlichen Myfterii Eis genschaft, als eine Offenbarung desselben;
+
+ist auch die Gleichniß GOttes der Mensch in sei⸗ 64. Also nem Innestehen gewesen, und von GOtt also aus dem Wesen aller Wesen, in ein Bild nach dem Wesen aller Wesen geschaf⸗ fen worden; Und eben in feinem; verstehet in des Menschen
+
+Bilde, das von Ewigkeit in der Weisheit, als im Glaste des ausgehauchten Scheins Goͤttlicher Offenbarung (Ordnung) isterkant worden, auf Art wie der Geist GOttes alle Dinge in seiner Weisheit von Ewigkeit gesehen hat. 65. Dieses Bild ist nicht ein Wesen gewesen, sondern ein Wille zum Wesen, welcher mit feiner Wurtzel und Hr: stand in dem Namen JEsu, als in der Demuth GOttes, da er sich aus dem Feuer ins Licht, als in das Gute, eingefuͤhret, ist gestanden. 66. Und an diesem Orte, wiewol es kein Ort ist, da das sanfte Liebe⸗Wollen, aus des Vaters Feuers⸗Eigenschaft im Lichte der Freudenreich ausgehet, und ein eigen Centrum des Willens und Begierde in sich faffet und schleust, urstaͤndet von Ewigkeit der Name des Sohns Gottes, als der Erstgeborne vom Vater von Ewigkeit, vor allen Creaturen, weil Er des Vaters Hertz und Liebe wird genant; Und aus dieser Liebe ge⸗
+
+L het derH. Geist vom Vater und Sohne aus, und ist des Va⸗ ters Riebe⸗Flamme. 67. Also verstehet uns; In demselben Willen der aus dem H. Namen Jehova oder JIEsus, aus dem sprechenden, ewigen
+
+Worte des Vaters, ist in die 8
+
+Gottes N
+
+’
+
+[p. 61] Pr
+
+XI Vom Irrthum der Secten chet, oder gesprochen worden, als ein Glantz der Erkentniß, oder Fuͤrstellen des Geistes, gleich einem Spiegel, ist der Mensch in ein Bild aus himmlischem und irdischem Elemen schem Wesen geschaffen worden aus der Ewigkeit ausgehauch⸗ tem Wesen, und aus der Zeit Wesen, in einander innestehende, wie die Ewigkeit in der Zeit inne stehet, und keines das
+
+166re auch nicht getrant, als nur durch ein e
+
+schieden
+
+68. Der Ewigkeit Mesen iftdasreine Element, inweither das wachsende Leben ein Paradeis ist; und der Zeit Wesen sind die vier Elementa, in welchen das Gestirne einen Sud und Leben, als ein irdisch, töͤdtlich Paradeis machet; der irdische Sud hat feinen Urstand im Mysterio, da füch des Feuers und Lichts Eigenschaft in 2 Principia, ein iedesin i sich
+
+selber, scheidet. ä 69. Darum ist erBoͤs und Gut, aus Gottes gebe un Zorn ausgehauchet; und dieselbe ausgehauchte Eigenst /undin B hat GOtt im Anfang der Zeit beweget gefuͤhret, die hat also Erde und Steine in die Begierde pression geboren, nach der finstern, Feuer⸗und Licht⸗Welt genschaft; und Sulphur,Mercurius und Sal sind. derselben Be⸗ gierde Eigenschaften gewesen, derowegen dieselben schaften das Leben in allem Elementischem Wesen siund.
+
+70. Und verstehet uns recht: In diesen Eigenschaftenhaben wir in allen Dingen ihr Oele, das ist die bee, Himmlischen Lichts⸗Mesens Eigenschaft von dem Guten. 27. Aus diesem Wesen ist der aͤussere Leib aus dem ZN principio im Verbo Fiat ergriffen worden; und im ander Principio in der Englischen Welt ist das reine Element im pas radeisischen Sulphure, Mercurio und Sale der Kraft erg :iffen worden.
+
+72. Das war nun der Leib, den Gott schufinein Bild
+
+Gleichniß, verstehe in des Menschen Bild, das GOtt oo Ewigkeit in seinem ausgehauchten Glast der Weisheit Spiegel gesehen hat; in welchem Spiegel Er das Wesen aus zweyen 1 im Verbo Fiat impresset, und in ein
+
+Bild geschaffen, und den ausgehauchten Hall oder Stimme
+
+seines Worts aus allen dreyen Principien zu einer Seele 95 Geiste zum Leben, Verstand und Regiment eingefuͤhret geblasen ausdemHal feines Mundes, als einen Feuerdi
+
+[p. 62] Exund Stiefels Ez. Weth kuft⸗Geist, beydes aus der Ewigkeit und Zeit; Das war das BildGOttes.
+
+Don feinem Regiment.
+
+73. Gleichwie das Licht das Regiment in allem Leben ist, und dasselbe Lebens Lichtaus dem Oele des sulphuris, Mercu- rund Salis der Kräfte brennet und scheinet, welches kein ver; staͤndiger leugnen wird; Also brante im innern Menschen, welcher aus dem andern Principio, als aus dem reinen Ele⸗ ment, war geschaffen, der reine Paradeisische Sulphur und eurius, und in demselben reinen, gantz ohne Mackel⸗Feuer⸗
+
+Brennen oder Leben schien G Ottes wahres Licht.
+
+74. Denn der Name J Esus hatte sich mit in das Bild der
+
+Ewigkeit, als ein zukuͤnftiger Christus, eingeleibet, der dem Menschen wolte ein Heiland werden, und ihn aus dem Ster⸗ ben des Zorns wieder im reinen Sulphure Soͤttlicher und Para⸗ deisischer Kraft neugebaͤren.
+
+75. Verstehet dieses recht: Das reine Element im H. Sulphure durchdrang den aͤussern Menschen, und nahm die 4 Ele⸗ menta in seine Gewalt; Hitze und Kaͤlte waren im Fleische nicht offenbar, sie waren wol im Sulphure, Mercurio und Sale des deibes; Aber weil GOttes Licht darein schien, waren sie in gleicher Concordantz ‚daß keines mochte vor dem andern offenbar werden. 76. Denn alle Begierden im Mercurio, als im kalten und hitzigen Feuer⸗ Rade, stunden im Lichte, und waren gantz durchleuchtet: Und ihre Begierde war ein Paradeis der Freu⸗ denreich: Keine Feindschaft der Natur war in ihnen offenbar.
+
+Gleichwie GOtt der Vater ein grimmiger, eiferiger GOtt und verzehrend Feuer genant wird, und in diesen Eigenschaf⸗ ten auch ist;Aber in seinem Lichte, in der Liebe Begierde, als in feinem Erstgebornen von Ewigkeit, welcher fein Liebes⸗ Hertz ist, wird deren keines offenbar. 77. Nach diesem Hertzen nennet Er sich GOtt: Denn Er ist in diesem das Gute; Und nach dem Feuer nennet er sich Und nach der Begierde zum Feuer⸗Leben, (als zur Ofs der Gebaͤrung, da sich die freye Lust aus dem
+
+Nichts in Etwas einfuͤhret, als in eine Impression der Begier⸗
+
+Der) machet Er die Natur und finstere Welt, aus welchen
+
+Eigenfipaften Sulphur, Mercurius und Sal entstehen: — in unserm [p. 63] unserm Buch von der Signatur, vom Urstand und Bezeich⸗ nung aller Wesen, nach der Lange hoch und nn ausgefuͤhret worden;
+
+Dahin mehrers Verstandes halber, der
+
+Leser gewiesen wird; und will ich alhiein der Kuͤrtze bleiben.
+
+Von des Menschen Fall. 78. Der Willen⸗Geist der Seelen, aus des Feuers 7
+
+schaft hat sich in die irdische Begierde (da Boͤses — ee, im Centro der Verborgenheit, unter der Paradeist unter einander waren, aber in gleicher een habe und in eine Begierde des Bösen und Guten, dasselbe inihme zu offenbaren, eingefuͤhret, dazu ihm der Teufel Ursache 0s eben Es) welcher feine Begierde oder Imagination in das bose Ei Theil, als in den grimmigen feurigen Mercurium,inseine genschaft, darinn das Gift⸗ und Zorn⸗ Leben stehet, eingefuͤh⸗ ret, davon das Gift-Leben anhub nach der ae
+
+Eigenschaft zu hungern; alda kam das GebotG. sprach zur Seelen: Iß nicht vom Baum descgen cheese kentnisses Gutes und Boͤses, oder du stirbest des Goͤttlichen Heiligen Lebens in reinem Sulphure und Element des
+
+Tages dur wirft davon effen, wirft du des Todes ster⸗
+
+79. Denn in dem giftigen Mercurio nach des Vaters
+
+Zorns⸗Eigenschaft, war das sterbende Leben, welches zum nicht offenbar war, aber durch des Teufels Imagination g . get, und in Begierde der Gleichheit re ward. 80. Also wisset, daß wir wahr, und hoch erkant haben, de der Versuch⸗Baum durch diese Gewalt des Hungers nach der Erkentniß, Boͤses und Gutes zu wissen, ge ist:
+
+Da man doch nicht sagen kann, daß er ein ander Gewaͤchse ey em und gewesen, als die andern allein die irdische QualinBoͤser Gutem war in ihme offenbar.
+
+81. In den andern Bäumen und Gewaͤchsen drang der H.
+
+ten die Eigenschaf⸗ alle, und waren ius Paradeisische Mercurdurch in gleicher Concordantz, unddasBösevonHigeund— nicht offenbar.
+
+82. In diesen Baume aber waren die Eigenschaften )
+
+Hitze und Kälte im giftigen, irdischen Mercurio offenbar, web ches der Hunger der Seelen ursachte: Denn die Seele war ein
+
+Funcke aus der grossen Allmacht GOttes, davon uns Christ
+
+[p. 64] Es. Stiefels und Ez.Meths.
+
+gigt:S die wieder im Glauben aus GOtt geboren wuͤr⸗ o möchte sie zum Berge sagen, hebe dich und stuͤrtze dich 105Meer, so wuͤrde es geschehen: (Marc. 1: 23.) Wie wolte sie dann nicht, als sie in der starcken Macht GOttes stund, moͤ⸗ gen die Eigenschaften im Baume hervorbringen an welchen sich der Teufel in Schlangen Eigenschaft angeleget, und die Heva beredet hat, sie würde klug werden, so sie von 658 und gut affe; welches nachfolgend wird erfläret werden in der Frage, wie das Weibvom Mann und der Mann vom Weibe kommt?
+
+83. Und ist uns mit dem Falle anders nichts zu verstehen, daß sich die irdische Eigenschaft, die zuvor im Paradeis ch wie verschlungen stund, mit der Seelen Begierde hat davon Hitze, Kaͤlte und das Gift⸗Leben aller Wie⸗ das Regiment im Leibe bekam, und das schoͤne
+
+Himmel und Paradeis⸗Bild verblich. 84. Denn die Seele, als ein Feuer⸗Leben, aus GOttes des N Vaters Eigenschaft erboren, ging vom Element des Paradei⸗ aus, in die 4 Elemente, da verlor der Paradeisische Sulphur im H. Element fein Leben, und verblich das Wesen, das war ein Sterben des Paradeises; Die Seele starb an GOttes Lichte, und ging in ihre Selbheit in das Eigenthum ein: Sie wolte ein eigen Herr seyn, und Gutes und Voͤses wissen, und indiesen beyden leben; Sie starb an GOtt, und wachte auf irdischen Welt, und lebte dem Willen des Teufels, als dem rengen Zorn GOttes, in eitel Angst, Jammer, Mühe und 80 ge u; wir arme Eva-Kinder solches nun an uns fühlen
+
+185 Leser aber alhier wegen vollkommener Schoͤpfung und was der Irrthum und nicht ges enschen zu berichten, gsamer Verstand des Erklaͤrers der Schöpfung des Men⸗ im Verklaͤrer der Puncten an diesem Orte sey, wie oben melbet worden: So sage ich auch, wie er, daß der Mensch ‚feinem Bilde, verstehe in GOttes Bilde, gantz vollkommen ewigen Leben ins Paradeis geschaffen sey; Ich sage auch, wels Gottes: Es istbeydes wahr; Denn in das ewige „welches nur ein Schein oder Spiegel des Bildes in dem en der ewigen Geburt JI Su oder Jehova war, ward isBild der dreyen Principien geschaffen, und zum Bilde oder
+
+Oleichniß nach den 3 Welten, als ein Bild GOttes seines Abe: aller Wesen, aus und in allen wesen geschaffen. . 0 sens . Aber
+
+[p. 65] KI. Vom Irrthum der Seeten
+
+86. Aber gleichwie G Ott über undinallem herrschet, und kein Ding Gott ist: Denn in feiner Heiligkeit ist Er alsein
+
+Nichts, und ist doch in allem das Peben ;Also solte vice im gelassenen Leben GOttes, als ein Werckzeug GOttes inne
+
+stehen. in deme der Geist GOttes thaͤte, was Er wolte; Er nicht einen Herrn, sondern einen Knecht, ein Lau⸗ ten⸗ Stau 87.Peachkann nicht sagen, aus der Goͤttlichen Stimme * ' aus dem Centro des Hertzens GOttessey der Mensch | fen, wie sich dieser Autor gantz unbillig in die H. Dreyfalt keit einsetzet; Nein, nein, ein Werckzeug ist nicht der der Meister kann nicht einen Werckzeug seines gleichen! chen, GOtt kann nicht einen andern G Ott feine gleichenag chen! Aus feinem ewigen Myfterio kann Er Ihme wol ein Bild nach feines gleichen zu einem Freudenspiel machen wie der Meister ein Instrument, welches auch den Hall führet, wie er will; Aber einen solchen Meister, wie er ist, machet er nicht, als nur aus sich selber. 88. So denn GOtt ein Geist ist, und kein Wesen, auch 55 die Natur, so ist der Mensch kein GOtt, sondern fein Leben aus Gottes Leben ausgehallet, doch venftehet,aus den dreyen rincipien. * 89.Nicht ist das Leben Gott selber, sonst so es fiele und zum Teufel wuͤrde, wie Lucifer, so waͤre aus Gott ein worden. Das Menschliche Leben ist das ausgesproch
+
+Wort, in welchem das sprechende Wort inne wohnet,en im Bösen oder Guten, wie das ausgesprochene Wort eine genschaft aus Gottes Harmonia in sich zeucht: Wie
+
+Volck ist, solch einen GOtt hat es auchin sich; Und ist nur der Einige; Aber Er offenbaret sich in allem Leben nach des Lebens Begierde, im Guten oder Boͤsen.
+
+90. So ist der Streit alhie zwischen mir und demselben tor dieses; Daß er allesin einander wirft, und keinen Verstand giebet, und sich also fein, als eine Creatur, in die lige Dreyfaltigkeit einsetzet, in dem Erstgebornen vor all
+
+Uua
+
+Hei⸗
+
+Creaturen: Darum beschleust er die Schöpfung in dem Christo; aber er irret: Er solte sie indem JEsu oder Jehova veschliessen, indem ewigen Worte des Vaters, wie S. Johan⸗ nes am 1.Cap. thut.
+
+91. Er soll mirkein Weib der Gebaͤrerin GOttes ‚machen, [p. 66] z inrnen Christus von Ewigkeit sey geboren worden; sondern soll aus der Schrist sagen, daß der Vater das Wort gebaͤre:
+
+und daß das Wort die Stimme Gottes, und die andere Per» u 90 ati seh; und daß der H. Geist vom Vater und ausgebe.
+
+Sohn
+
+92. Esheisset nicht waͤhnen, und sich hineinsetzen, als eine ne Braut, welche doch voll Sünden und böfer Affecten ste⸗ een sich vor GOtt demuͤthigen und unterthanig seyn, und nicht sagen: Hie ist der HErr; als die Stimme der H. Drepfaltigkeit aus GOttes Hertzen schallend: Nein, daß wol⸗ lenmi diesem Autori nicht gestatten; Er soll in der Harmonia bleiben und hören, was der HErr in dem Klange der Harmonir für einen Ton in der Creatur hervorbringet, wie der
+
+Herr schallet; und ob ers am besten getroffen hatte, daß
+
+157 Blick des H. Geistes sich in seiner Harmonia seines ons hätte Hören lassen, so soll er sagen: HErr! ich bin als ein unnützer Knecht, du thust, was du wilt. Nicht sagen: Ich will und fol aus GOttes Hertzen, aus der Stimme der
+
+H. Dreyfaltigkeit, zu euch reden. 93. Das hat kein Engel noch Prophet gethan, sondern ha⸗ ben allesamt nurgefaget, daß der HErr fein Wort in sie hätte est, ihnen des HErrn Wort zu verkuͤndigen. Denn der Sospricht der HErr; Erhält sich nur für Prophet saget nür:
+
+eug, dem befohlen ist, was er reden soll. Er saget nicht: Ich bin das Weib die Braut der Stimme GOttes, ich in und aus GOttes Hertzen reden; Mein Hall ist GOt⸗ Stimme: sondern er traͤget GOttes Hall in feiner eigenen Menschlichen Stimme, und der Geist GOttes hallet nur in der Menschlichen Stimme, wenn und wie Er will; dessen sich der Mensch nicht als feines Eigenthums annehmen soll, son⸗ dern in Zittern und Furchten vor Ihme stehen, und seine Menschliche Stimme zum Werckzeuge leihen; Nicht sagen: was der Geist GOttes reden will ; Ich habs schon ergriffen, habe dann einen ausgesprochenen muͤndlichen Befehl.
+
+Bene J Esus, welcher in der Menschheit auch Christus der stehet in derH. Dreyfaltigkeit inne, Er stehet worden ist, ne eigenen-Principio, in der Geburt der H. Dreyfaltig⸗ it, und nicht in der Gewalt der Creatur. 4. Sagte doch Christus: So ich von mir selber zeugen rde, so ikmein Zeugniß nichts; Es ist aber mein Vater in mir,
+
+[p. 67] 224 XI. Vom Irrtder huSeet men mir, welcher von mir zeuget, daß ich von GOtt ausgegangen bin: Ich bin von GOtt ausgegangen und kommen in die Welt;
+
+wiederum verlasse ich die Welt und gehe zum Vater, (Joh 8: 12-14.) Ex sagte nicht: Ich in meiner Menschlichen Selbheit bin die Stimme GOttes, Ich rede als GOtt, in und mit Gott; sondern Er sagte: Die Worte die ich rede, sind des
+
+Vaters, der in mir, das ist, in der Menschlichen Selbheit woh⸗ net: Ich thue wie mir der Vater gebeut.
+
+0s. Man muß allezeitdieMenschheit und die Gottheit ter scheiden, und den Menschlichen Willen von GOttes Wi Denn kein Mensch kann GOttes Sinn und Willen in Selbheit treffen; der Mensch siehet dem Geiste GOttes na⸗ Konte doch Moses nicht GOttes Antlitz sehen, Er muste S me nachsehen; wann Ers gethan hatte, so sahe er des H
+
+Spur.
+
+Err
+
+Wie will denn dieser Mensch in, mit und durch Ge reden? und ob der HErr durch ihn redete, so weiß ersnicht, bis er seine Spur siehet und erkennet. 96. IE derowegen eine vergebene Vermessenheit, welche auch sonst nicht genug gegruͤndet ist: sie ist nur verwirret; Sie will nicht der Natur kon,und mag doch auch im Men⸗ schen keine Goͤttliche Erkentniß ohne Natur seyn.
+
+99. Die Natur ist Gottes Offenbarung: der Menschliche dieSeele; und der Geist ist der ewigen Natur, verstehet re Geist ist der äusseren Natur, und sind doch nicht zween au
+
+ster, aber in dreyen Gradibus stehen sie in einander, a der drey Principien, und sind doch alle drey nur das ausge⸗ sprochene Wort GOttes: Das Sprechen bleibet ewigin fi
+
+selber wohnend.
+
+98. Dieses ausgesprochene Wort mag sich in Liebe oder
+
+Zorn einer geben, beydes ist darinn, es kann sich in der Din)
+
+verändern ; aber das sprechende Wort, so indem ausgespro chenen in sich selber wohnet, kann sich nicht veraͤndern denn es nicht in der Selbheit, sondern in der freyen Gelassenheit wird
+
+stehet in der ewigen Geburt: Es ist geboren, und wird von Ewigkeit in Ewigkeit immerdar geboren: Der Mensch har es in ibme Gott geboren. Der Mensch hat Urstand, GOtt ken nen: Gott ist gegen einen Menschen als ein Nichts: der
+
+Mensch ist des Nichtes Etwas; so mag nun das Etwas nicht das Nichts begreiffen. 99. Darum huͤtet euch, lieben Brüder machet Wü [p. 68] tes theuer erlöfete Kinder irre, und zu selb⸗eigenen Göttern, es ist ein Greuel vor GOtt. 2 100. Wir sind wol seine liebe Kinder, aber aus dem Etwas ezeuget; wir sind nicht das Nichts ausser aller Qual und Na⸗ greiffe ein iederinfeinen Busem, und schaue sich doch, was ae und denckeja nicht, daß er GOtt gleich sey, oder GOtt selber sey; eine Offenbarung Gottes sind wir wol als dasIn⸗ seinerHarmunis: wir sind feine Pfeiffe ‚dadurch Er eiffet.
+
+Be: 1. Nun sind aber dreyerley Pfeiffer in uns, die in der 9feiffe pfeiffen, als die dreyerley Eigenschaften des Geistes des Lebens, aus allen dreyen Principien: Wenn wird diepfeif⸗ nun wissen wenn Gottes Lebe Wille pfeiffen will oder wenn
+
+sein Zorn⸗Wille pfeiffen will? muß sie nicht, als eine Pfeiffe, den Mercurium zu Gutem und Böfemigeben ? sie empfindets wol, wenn GOttes Liebe⸗ Wille pfeiffet, aberzuvorhin weiß sie nicht.
+
+- an Also soll dieser Autor nicht sagen , er koͤnne aus dem arAsa NDreyfaltigkeit pfeifen. denn wir verstehen sei⸗ Rt l, daß der Klang nur aus feiner Selbheit, nicht aus Gdttes Liebe: Stimme schallet, weil er selber der Pfeiffer seyn = so hören wir feinen Ton nur, als einen Menschlichen Ton.
+
+Ergo nehmen; Selbheit Ehre nicht wolte Christus et sie uns viel weniger. 10g. Zum andern, daß der Autor saget: Gchtt habe alle nmlische und irdische Creaturen in Christo geschaffen, hat keinen Grund, ist gang irrig und uͤbel angezogen. Darum wirds hier besser erklaret, und dem Leser zu ausfuͤhrlichem Verstand gegeben daß er wisse, wie er von Christo und dem an Worte GOttes unterschiedlich reden soll. 4. Es ist nicht eben dem Autori zur Schmach gesetzet; ondern dem beser seiner Schriften zur Nachrichtung, damit er
+
+1 infei en Schriften nicht etwa irre gefuͤhret werde: Darzu rechter Christlicher Liebe⸗Begierde gegen allen Lieb⸗ nur aus phabern Gottes; Auch nicht, mich darmit zuerheben und über diesen Autorem empor zu schwingen; sondern den Verstand zu den mir GOtt aus Gnaden gegeben hat: Den guten reunden auf Begehren und emsiges Anhalten geschrieben.
+
+105. Zum dritten, daß der Autor meldet, er wolle esdurch en gaserline reden = thun; das .
+
+[p. 69] ein Kind jawol, was er damit meinet, und daß er nicht Allwis⸗ 2 ein 25 sonsthaͤtte er auch gewust, daß ich es besser erklären Er hat nichts mehr im Wissen als eine Creatur hat: . er 5 aber, wie er ruͤhmet,solasset ihn sagen ‚ was mor und übermorgen geschehen wird, und was zuallen Zeiten,0b an der Welt Ende geschehen soll.
+
+106. Stehet doch im Evangelisten geschrieben, 8s des
+
+Menschen Sohn, nach der angenommenen Menschheit, mi das Ende der Welt wisse; daß dis Wissen allein in GOtt sey;
+
+wie wolte denn dieser Allwissende seyn eund ob er gleich sagte, er wolle es in Christo wissen, so sage ich: Nein, Er muß
+
+Geiste Christi, derallwissend ist, nachsehen, was der in ne wissen wolle, und wann Ers wissen wolle: Er ist kein Allwisser Ist derowegen auch nicht gegründet 1 9 8 eine vermi⸗
+
+schete Verwirrung: Er setzet sich unbillig in GOttes Stuhl;
+
+denn er lebet noch in Bos und Gut, und 11sterblich, das wird diezeitgeben. Zum vierten, daß er auch saget, er wolle aus al beiligen Gliedern Ebeisti antworten; Die sind fastin ihren Gaben alle wieder ihn, wie will er denn aus ihrem Geiste re⸗ den? Es ist eine blosse Verwirrung: Er hat nicht aller Men⸗ schen Gaben, sondern nur feine: Ich bin auch Christi Glied,
+
+sehe aber nicht daß er aus mir antworte. Zwar er hat mir wol abgeborget, aber er antwortet nicht aus meinem ae
+
+Begriff: Ich wolte,erließ mir das Abborgen stehen, und machte mir nicht Verwirrung in meinen Gaben, sich damit fe hen zu lassen, es stünde ihme besser an. 108. Zum fuͤnften, ob er gleich schreibet: Er wolle es aller Glaubigen Seligkeit willen thun, ist mirs dochni genug erkentlich, daß er nur eben das suche, weil er sichin sti Stuhl einsetzet, es möchte was anderst dahinter seyn: weil er saget, Gott habe alle Dinge,fiefind himmlisc irdischinChristo hervor ans Licht bracht, und verkleidet sich gantzlich in Christi Macht und Allwissenschaft; so ist mir N dieses sehr nachdencklich. 109. Zum sechsten, vorab, weil er ihme die Unsterblichkeit zumisset, halte ich dafür‚ich soll Christi Worten nachfolgen: So alsdenn iemand Fame und sagte, er wäre Christus, sollen wirs nicht glauben, bis ers bewahret in der Kraft.
+
+ud. Zum siebenten; auch so er die Allwissenheit der H. rep⸗
+
+[p. 70] Dreyfaltigkeit ist, darf er keines Buchstabischen Zeugnisses oder Beweises: Er mag fein Allwissen in Goͤttlicher Kraft er⸗ wie Christus thate, alsdenn kann ich mich besser darein weisen en.
+
+=. Zum achten, Daß er aber saget, Gott sey in dem ersten Adam nicht offenbar gewesen: Er habe sich erst in Christo mit der Gottheit in Menschlicher Eigenschaft offenbaret, wirft also erstgeschaffenen Menschen in seiner Natur gantz weg, und sucht einen gantz neuen und andern Menschen in Christo her⸗
+
+/ der gar nicht der erste sey ; Das istgantz irrig und unrecht, und soll er das mit heiliger Schrift beweisen, oder wir wer⸗ dens dieser neuen Braut nicht gelten lassen.
+
+u. Denn obwol der erste Mensch gantz in Sünden nach und Seele fiel, muͤssen wir doch betrachten, was Günde Leib sey: Als das ist feine Suͤnde, daß eraus der Ordnung ausging, darein ihn Ott schuf; er ging aus der freyenGelassenheit aus, inwelcher der Name JEsus im Goͤttlichen Lichte in ihme of⸗ fenbar war, und offenbarte im Fleische den Zorn GOttes, daß der anhub zu qualificiren, und das Leben im Fleische der dreyen Principien gantz einnahm: Denn der Geelen-Wille ging aus der Gelassenheit aus dem Jehoya oder JEsus aus; Also ver⸗ blich auch das Wesen, darinn Jehora gewesen war: Also ward der aussere irdische Leib verflucht, das ist, die durchdringende
+
+Kraft jehova, welche zuvorn im Fleische hatte das Paradeis ges t, die wich vom Fleische in sich selber; Also kam das im, terben ins Fleisch. 0.213. Denn das ewige Leben stund in Jehova, als im Namen 1 darinn der Mensch vor der Zeit der Welt versehen war,
+
+Er sich wolte wieder in der Menschlichen Seele offenbaren verblichene Bild der Goͤttlichen Wesenheit wieder le⸗ undwolte der Christus bendig machen, und in sich einnehmen, daß die suͤndige Seele darinnen werden: Sonst muͤste folgen, waͤre gantz weggeworfen worden. fend Wenn der Urstand des wiedergebornen Menschen gantz feind ware, wo blieben Jobs Worte,der da sagt: Ich werde in diesem meinem Fleische GOtt sehen, und meine Augen were den Ihn schauen, und kein Fremder Hiob. 19: 27.) Kein frem⸗ der Mensch soll vom Tode aufstehen nur der /den GOtt in Adam in seinem Bilde schuf, indem sich GOtt wieder uͤber ihn er⸗ barmte, und den Namen JE sus des halben in Menschlicher Eis
+
+Fr
+
+N 2 genschaft
+
+[p. 71] Kl. Vom Irrthum der Seeten genschaft bewegte, der des Weibes Samen an sich nahm und darinn den Zorn GOttes in der Seelen, in des Vaters
+
+Eigen
+
+schaft mit himmlischen Blute loͤschete, und des Teufels Giftin der Seelischen Eigenschaft eine Pestilentz ward, und dem Tode ein Stachel des Todes daß der Tod in seinem Tode muste sterben.
+
+115. Denn JEsus fuͤhrete mit dem Christo das Leben aus N dem Tode und Zorn. Es stehet geschrieben: (1. Cor. 1: 30. Eristuns zur Gerechtigkeit und Erloͤsung gemachet, verstehet A. 1 der Christus; Der aber von Ewigkeit in ewiger, gleicheAll.
+
+macht und Schoͤpfung aller Wesen istgewesen, der kann nicht zur Gerechtigkeit gemachet werden, denn Er ist selber
+
+Eepöpfer : Dieser Christus aber ist uns aus dem JRfr oder
+
+Jehova, welches Ausgang von Ewigkeit ist, zur Gerechtigkeit und zur Erloͤsung vom Zorne GOttes in 1 — Fleische ge⸗ 7 machet worden. 116. Was nun gemachet wird, das anfaͤnget sich in bei Machen wol aus dem Ewigen; Denn die Seele hat sich in die Zeit, als in die Selbheit eingefuͤhret; Aber Christus, welcher war aus der Ewigkeit aus dem Jeesu in Menschlicher Eigene schaft geboren, ber führte sie in sich wieder in die Ewigkeit aus der Zeit, als aus der verderbten Qual des Mercuri abs. 17. CHRISTUS ist nicht in der Person von Ewigkeit, aber in der Kraft in dem Namen JE Su ist Er von Ewigkeit in gleichem Wesen GOTTES je gewesen.
+
+Und wird uns
+
+Bierefremde Braut nicht bereden, daß GOtt in Adam nichtsey offenbar gewesen. ng. Wol nicht in Christo, aberin JEsu, welches Ausgang von Ewigkeit war. Die Seele ging aus JEsu aus in eigenen Willen, aber es erbarmte GOTT, und verhieß sich wieder mit dem Namen J&fu noch einmal im Menschen zu bewegen und im Menschen den Christum aus GOttes und aus des Men⸗ schen Wesen zu gebaͤren: Nicht aus dem suͤndlichen Fleische von der aͤussern Welt, sondern aus dem Goͤttlichen Fleische , (das in Adam, als er ins aͤussere, irdische einging, verblich und erstarb) daß ihme das aͤussere nur anhing. D 9. Denn in dem aͤussern Fleische war der Tod, in dem solte Christus den Tod zerbrechen, und den gantzen Menschen, wie ihn GOtt schuf, in Ihme neu gebaͤren; nicht einen fren⸗ den einführen, sondern das zerstossene Rohr heilen. ri 120. Wie ein Korn in die Erde gesaͤet wird, er: ein ner
+
+[p. 72] Es. Stiefels und Ez Meths.
+
+er Halm waͤchset mit vielen Früchten, da die Essentz des
+
+Forns denselben Halm aus sich giebet, und nur die Huͤlse er⸗ stirbet; Also stirbet auch am Menschen nur die Hilfe der Suͤn⸗ den: Die Menschliche Essentz wird in dem Namen I Esu in dem Christo, der in der Menschheit offenbar ward, derselbe Christus, aber nicht der König oder der Stamm, sondern ein Zweiglein aus demselben Stamm. 121. Kann uns derowegen dieser Mensch nicht bereden, er beweiseesdenn, daß Christus das Ebenbild GOttes, aus der
+
+Stimme der Liebe seiner Mutter, sey von Ewigkeit geboren, und sey ein Ebenbild GOttes gewesen; Sondern in dem ist Er das Ebenbilde GOttes von Ewigkeit gewesen, als in der Fi⸗ gur des Menschen, in welcher Figur GOtt den Menschen mit ige der Creatur schuf, da ward das Bild der Gleichheit in Ott erkant, und eben in dem Namen J Esu, welcher in die: sem Spiegel des Ebenbildes, inder Kraft JEsu, wolte ein
+
+Christus werden. 122. Das Leben Christi hat sich mit der andern Bewegung, als sich Gott nach feinem Hertzen in Menschlicher Eigen: schaft, in dem ewig⸗gesehenem Gleichniß GOttes bewegte, in
+
+Su angefangen, und den Namen Christi bekommen, dem Jie als ein Heilmacher des Schadens, und nicht von Ewigkeit. 123. Denn das Gleichniß GOTTES, das in GG / Tes Weisheit von Ewigkeit gesehen ward, und in dem Je= hova erkant, darein GOtt den Menschen schuf, das war vor den Zeiten der Welt ohne Reben und Wesen; es war nur ein des Bildes, darinn sich GOtt sahe, wie er in einem Spiegel
+
+Bilde seyn moͤchte. 124. Als sich aber Jehova in dieser Bildniß und Gleichniß an so offenbarte GOtt fein Leben in diesem Spiegel in Menschlicher Eigenschaft: Da ward Christus empfangen und geboren. 125. Denn nach der Menschheit heisset Er Christus, nicht der Gottheit, vor allen Creaturen. Nach der Gottheit Ü Er das ewige Wort des Vaters; Denn es stehet ge⸗ heisset schrieben: (Joh. 1:14.) Das Wort ward Fleisch; Nicht Christus ward Fleisch. Christus ist der einfältige Knecht, davon Gott im Jesaia saget: (El. 42.19.) Wer istso einfaͤltig als mein Knecht? Er ist der Knecht GOttes worden, mit welchem Gott den ie, und die Hoͤlle rler ö
+
+12 Die⸗
+
+[p. 73] KI. Vom Irrthum der Gerten
+
+126. Dieser Christus ist aufgefahren gen Himmel,
+
+sitzet zur Rechten Hand GOttes, als ein Fuͤrst GOttes, und tragt den ewigen Namen Gottes der da ist JEsus oder Je« hova: Erist der Hohe ⸗Priester, der da opfert das Opfer der Gerechtigkeit, das vor GOtt gilt: Der aber opfert, der opfert dem, den er versoͤhnen will; So Er aber selber der choͤpfer ist, kann Er nicht auch die Versoͤhnung seyn, son⸗ dern Er ist der Mittler zwischen GOtt und den Menschen, den
+
+Ihme Gott hat zu einem Gnaden⸗Stuhl vorgestellet: Der aber vorgestellet ist, der ist nicht der Stuhl selber, sondern er bringet dem Stuhl seine Geschencke, als die Ausbeute, die er erlanget hat im Streite des Zorns GOttes.
+
+RR
+
+127. Darum sage ich, ist der Mensch zum erstenmal n in Christo erschaffen worden, wie dieser Autor will; Sot dern zum andernmal ist erin Christo geboren worden: Der Name C RIS Tus war in dem Namen Je Su, in 255 5 Mensch geschaffen ward, dessen Ausgang warvon wigkeit. der Autor bringet seltzame Hans 128 Es ist wol eines, aber del darunter fuͤr: Man kanns ihme nicht gestehen, daß er alle Creaturen in den Namen Christi einwickelt, und will die Er⸗ loͤsung aller Creaturen in dem Namen Christi haben. 129. Es siehet wunderlich aus, und siehet man wel, was er damit meinet, als nemlich, daß er derselbe einige Christus seyn will, den man hoͤren soll, als GOttes Wort, da er doch, wo er am allerbesten ist, kaum ein Zweiglein an demselben
+
+Baum ist; Nicht die Mutter selber, die geboren hat, und ge⸗ | baͤren will: In ihn vertraue ich mich nicht, sondern in den ersten Chritum, der in JEsu ein Christus ward dessen Zweig begehre ich zu seyn. Jen 130. Ehristus war in JEsu verborgen, und lagen alle Kräften der Weisheit in dem verborgenen Christo, welche keine Engels⸗Zunge aussprechen konte: Die offenbarte sich allererst, als sich Jehova, das ist, JEsus in der Menschheit bewegte, alda ward erst Christus offenbar. 131. Im ersten Adam war Jehova offenbar, und im andern Adam Christus, als der Schatz der Weisheit GOttes. 132. Der erste Adam war vollkommen in Jehova geschaffen, und zum ewigen Leben, als in das ewige Natuͤrliche; Weil aber das ewige Natuͤrliche nicht bestehen wolte, so 0 cho-
+
+[p. 74] Es. StiefelsundEz. Meths.
+
+Jehova Christum in dem Natürlichen Leben , aufdaß Cbristus an une wieder in die Vollkommenheit gebare und brachte.
+
+Ki
+
+133. Also hat uns Christus mit feiner Geburt den Schatz der Weisheit eröffnet, der in Jehova war: Christus aber war im Schatz der Weisheit verborgen: Die Weisheit aber war im Jehova im ersten Adam offenbar, aber nicht auf diese Art, wie das beben den Zorn zerbricht; Denn es war nicht noͤthig
+
+"so Adam blieben ware: Da er aber fiel, that es noth, daß die SGestalt offenbar wuͤrde.
+
+5 134. Eben diese Gestalt heisset CHristus, und wohnet in dem Jehova: Denn aus dem Jehova ist sie offenbar worden.
+
+Darum weil Jehova in Adam offenbar war, so war Gott in ihme offenbar Sonst folgte daß Jehova hätte den Adam zur
+
+Suͤnde geschaffen, aufdaß Er den Schatz der Weisheit in ih⸗ me offenbarete, welches nicht ist: Denn GOtt, so viel Er SGOtt heisset, kann nichts Boͤses wollen. er 135. So aber Adam gang in feiner Schöpfung ist in Christo offenbar worden, wie dieser Autor setzet, so ist mit seiner Ein⸗ gebung in die Menschheit nichts Neues geschehen; Der Schlangen⸗Treter ward erst in dem Leibe Maris offenbar: Adam bedurfte ihn nicht vor dem Fall, aber nach dem Fall be⸗ durfte er ihn; Dieser Schlangen ⸗Treter war Christus, und kein anderer: Der ward aus Jehova, das ist aus dem JESU 4 ER nicht von Ewigkeit, sondern in der Menschheit, nach dem Halle. 36. Von Ewigkeit war Er in GOttes Wort, als in GOt⸗ tes Stimme, und in keinem Bilde offenbar, wie dieser Autor
+
+schreibet; Aber nach dem Fall ward Er im Fleisch offenbar, da hieß Er Christus, als ein Durchbrecher des Todes: Denn von Ewigkeit war kein Tod, sondern nur ein Feuer⸗Sterben, indem aus dem Sterben das heilige Leben urstaͤndet; Aber mit der Suͤnden kam er in die Welt ins Fleisch: Mit dem Fluche fing der Tod an in derWelt; Mit Christo kam das ewige Le⸗ ben wieder, denn Er zerbrach den Tod: Darum heisset
+
+. EHriftus ; und nicht in der Schöpfung. 137. In Christo istnichts geschaffen, aber in feiner Kraft’ imsprechenden Worte, ist alles geschaffen, in deme sein Na⸗ me Jehova heisset. In Christo 7der Mensch e am [p. 75] aber nicht ins Bild geschaffen.
+
+Darum irret dieser Autor,da er von der Mutter der Liebe GOttes redet. A2 138. Jehova ist der Gebaͤrer der Liebe, und IE SUs istJeho⸗ va, der die Liebe gebieret, und CHristus ist aus der Liebein der Menschheit geboren worden. Denn Er ist von Ewigkeit gewesen, sondern nur die Liebe in Jehovain 1.s
+
+139. Die Sünde urfachte den Jehova, daß Er uns den ChHristum aus der diebe gab; Denn in der Ewigkeit wird kein erm ntze ga, CHristus seyn, sondern Jehova alles in allde e in Jehova. Baum menschlich 140. Nicht daß die Person Christi aufgehaben sey, allein das Toͤdten der Sünde, in welchem Jehora CHristus heisset, ist aufgehoben: Die Creatur bleibet ;aber CHristus ist als⸗ denn der ewige Hohe: Priesterinallen, und die Creatur Christi ein Koͤnig der Menschen. 141. Nun möchte der Leser fragen, was ist nun der Streit an diesem Ort? Dieser ist er: Der Autor saget: CSristus
+
+sey das Bild GGttes, und sey aus dem Weibe Gottes, aus der Goͤttlichen Stimme und Mutter der Liebe, von Ewigkeit zu GGttes Ebenbild geboren; Und Gott habe Adam und alle himmlische und ird ische Creaturen in
+
+: sey diesem Christo sichtbar gemacht und geschaffenEs nur allein Gott in Christo offenbar gewesen, und nicht in Adam; Adam sey in Christo geschaffen und offenbar ge⸗ worden, und in Christo sey der Schatz der Weisheit al⸗ lein offenbar gewesen: Und damit habe Er sich Adam in der ersten Schoͤpfung gar nicht geoffenbaret: Adam habe keine Goͤttliche Erkentniß gehabt, sondern habe sollen in
+
+Cbristo gehorsamen; das habe er nicht gethan, sondern babe sich lassen die Schlange betriegen, und dem Teufel gefolget, und sey mit Leib und Seele in Sünden verdor⸗ ben: Alsdenn habe sich Christus nach diesem Fall inihm geoffenbaret, sey ein Mensch worden, und habe die Menschheit in allem, was sie von innen und aussen ist, neu⸗ geboren, und gantz zum Christus und Gott gemacht, also dieser Mensch Christus in allem Wesen GGtt der .
+
+Dreyfaltigkeit gleich seyanKraft und Wesen; Und alle Menschen, die an diesen Christum glauben, die werden alle diesem einigen Christo gleich, terben zuhand der Na tur
+
+⸗
+
+[p. 76] Ef tur
+
+Stiefelsund Ez. Meths.
+
+ab, und werden an Seele und Leib nur dieser einige Christus, der da GGtt und Mensch in einer person ist, und der H. Dreyfaltigkeit am Willen, Wissen, Kraft,
+
+Wesen, und allen Goͤttlichen Eigenschaften gleich, ewig, unverrucklich, unsterblich, vollkommen, ohne einige
+
+süundige Gedancken; Als wie wir ewig seyn werden seollen: Derowegen er in Christo gantz vollkommen, uns sterblich, und vom Tode zum ewigen Leben in Christo, in an alle dem, was der Mensch von innen und aussen, an Wandel, Worten und Wercken, ist und thut, bin durch gedrungen sey.
+
+* 142. Und verleugnet hiemit die Sterblichkeit und Auferste⸗ hung der Todten, weil er sagt: Er habe das ewige voll⸗ kommene Leben von innen und aussen gantz angezogen, und er sey es nicht mehr, der er gewesen ist nach Adams N Fall Es sey nur gantz Christus in ihm: Er sey todt und Christus lebe allein in ibm: Darum hält er sich GOtt dem ewigen, einigen Wesen, in allen Dingen, im Wissen, Wol⸗ len und Thun, gleich. Und dieses ist die gantze Summa seiner Lehre in allen seinen Schriften.
+
+Fiaooolget meine Antwort kurtz summarisch. 1343. Der Mensch ist nicht von Ewigkeit gewesen, allein ein Schatten des Bildes, auf Art, wie Gott alle Dinge von Ewigkeit in seiner Weisheit erkant hat, ist er in der Weisheit ohne Bildung gewesen, nicht particular, an einem 5 en, sondern uͤberal vom Geiste GOttes in der Weis⸗ heit erkant. 144. Des Menschen Leben war auch nicht in Einer Form, sondern war im Mysterio der Gebaͤrung der H. Dreyfaltigkeit, als in der ausgehauchten Lust, welche sich von Ewigkeit in - Ewigkeit ,in Begierde zur ewigen Natur impresset, welche Gestalt das ewige Fiat im Aussprechen oder Aus hauchen der ftrepen Lust, als des Nichts ist.
+
+145. Das richts ist GOtt, der fuͤhret sich mit der freyen Lust des Nichts in Begierde ein: Denn im Nichts istein ewi⸗ ger Wille zur Offenbarung, welchen keine Creatur, Engel noch Menschen gründen mag.
+
+Derselbige Wille offenbaret
+
+Pe sichmit der ewigen Lust, durch 15ER in Drepfaligkeit
+
+[p. 77] N. 234 Xl. Vom Irrthum der Secten Begierde
+
+L denn er ist von der
+
+Der Wille in der freyen Luft heisset GOtt, frey.
+
+&
+
+146. In der Begierde erbieret der Wille, als in derImpres⸗ sion der Begierde, drey Eigenschaften, als Finster, Jeuer Licht;
+
+n welcher Gebarung die ewige Stimme entstehet, Bille der freyen Luft führer, dieselbe Stimme ist GOttes uf und vor allen Creaturen, Wort, als der e r⸗ ste Fin hio ref Imp Will St wel durc niß und Angst, sowol Findlichkeit und Empfindlichkeit, als die Sul ewige Natur erbieret, welche stehet in einem Geistlichen phure, Mercurio, Sale, als ein Gleichniß und ausgehauchet?
+
+nsdGe Ottses. sen der Stim̃e des ewigen Willens des Ungrual 147. Die Stimme ist im ewigen Willen, welcher ein Geisti lautbar, als eine Möglichkeit des Halles, aber in sich selber ist sie stille; Und die Eigenschaften der Impression, als der Natur, sind der Stimme des Willens Instrument, durch welche sich Gottes Stimme offenbaret: denn sie die Mae auch die Eigenschaften der Stimme, wie eine Laute oder ande Saitenspiel den Klang in sich hat: Doch muß eine Bewegung vr seyn, sonst klingts nicht. 148. Also ist der ewige Willen⸗Geist zur Stimme des ewi⸗ gen Halles der Lautenschlager oder Offenbarer des Klanges in der Natur als in den 7 Eigenschaften der Gebaͤrung der ewigen Natur, wie im Buch vom dreyfachen Leben, auch im B und andern, gantz ausführlich geschrieben won der signatur, aus dieser Stimme der ewigen Natur, welche 5N
+
+Ottes mit dem ewigen Halle oder Worte des ewigen Willens beweget, und gebaͤrend oder hallend machet, sind alle ei ewige Geister, als Engel und Seelen der Menschen, ge det alsaus dem Centro der ewigen Natur, daraus dieFinst nehmen it ke ig Ew Feuer⸗ und Licht⸗Welt ihren Urstand von aus welchen Freud und Leid, Pein und Qual urstandet, jedesin .
+
+1 55Eigenschaft,inder Gebarung der 7 Eigenschaften aller esen. 150. Und an diesem Orte, da der ewige Hall oder Göttliche
+
+Stimme durch den freyen Willen des Ungrundes immer erbo⸗ a. ren wird, urstaͤndet der bochtheure Name JEHOVA, als ein
+
+O. v. der Character der H.Dreyfaltigkeit, welcher mit der rech⸗ ten Form also stehet c Ny das A ist der ewige Anfang und |
+
+Offenbarung des Nichts als des Ungrunde/s und macht in sich
+
+[p. 78] SER ae Stiefels undEz.Meths.
+
+"235 ndas ist Anfang und Geist, und mit der Lust schleuster eiAV hdas ist das Centrum der Gottheit, sic in O, und stehet zwischen A und v; Denn V ist des Geistes Charader, welcher in der
+
+Aus gehung vomA und O ein s, als ein A (Feuer) der Lichts⸗ Knien ist,und stehet mit feinem rechten Character und Wort
+
+AU x N das ist Esch, welches die Hebreer mit solchem Wor⸗ hen: het verste dassteder wi te verstaͤndige Geist, der sich aus dem A und 0 Al 351. erbieret, und ewig ausgehet, und in sich das Feuer und Licht hat, als der freyen Lust Eigenschaft ohne Qual, und der
+
+Natur Eigenschaft in allen 7 Gestalten der Gebarung, als eine und Lichts⸗Flamme, welcher in allen Dingen, es sey Feuer ir Finsterniß, als in Kälte der Impression, oder im Sulphure oder im Feuer, in iedem Dinge der Eigenschaft seyn kann, wieer will. 132. Und an diesem Ort der ewigen Stimme, wo sich das euer in der Begierde der Impression, und das Licht in der en Luft, als im Willen zur Offenbarung, durchs Feuer ewig erbieret, urstaͤndet der theure Name JEsus, und ist die als die ee 935 NEN, in der Goͤtelichen Stimme im ewigen Hall, als eine ewige Lu daes Kraft derBatıbei.
+
+153. In dieser Geburt istnun kein anderer Urstand irgend eines andern Geistes, mag auch aus dieser Heiligkeit oder Stimme G Ottes nichts mehr erboren werden, kein Gleichniß oder Bild; Denn Gott sprach zu Mose: Du solt dir kein Oleichniß eines GOttes machen, denn Ihme mag nichts glei⸗ chen. Er hat auch kein Bild in sich geschaffen oder geboren, diesem IE HOVA in Dreyfaltigkeit ahnlich ware, denn Er n einiger Geist, und istinallem Wesen wie Er will: Er die Möglichkeit aller Dinge, Er hat Ihm kein Ebenbild von Ewigkeit in der Mutter der Liebe, wie dieser Autor tichtet, erboren; Sondern in feiner Stimme, als im ewigen Wort, waren alle Dinge, welche das Wort durch die Imprefhion oder Gebarung der ewigen Natur undEigenfchaften hat offenbaret, und durch die Impreflion , welche das Fiat ist, hat geschaffen, undin der Begierde des Fiars in das Wesen eingefuͤhret.
+
+134. Es ist kein Christus alhie gewesen in dem der Hall die Stimme Gottes hätte alle Dinge e.on⸗ | a TR
+
+[p. 79] sondern fein Aushauchen des Willens in der Stimme war die ewige Weisheit, als der Glantz seiner Herrlichkeit, welchen
+
+Gott aus feiner Stimme ewig gebar, in welcher der Geist
+
+Gottes hat von Ewigkeit alle Dinge gesehen, und durch die Impression der Begierde im Verbo Flat geschaffen, nicht eben in der H. Drepfaltigkeit in Jehova, sondern mit dem Willen
+
+Jehova, als mit der Stimme des Worts in der Impression der Natur, welche in der Ewigkeit nur ein Geist ist, aber mit der Bewegung Gottes im Anfang der Schöpfung dieser Welt ist im Geiste ein Wesen worden, als ein eigen Principium.
+
+155. Der Mensch ist nicht in Christo geschaffen und ofen bar worden, ohne Goͤttliche Offenbarung in Ihme: Christus war noch im Jehova, als in JEsu im aussprechenden Worte ö verborgen, als eine Kraft der Gottheit. 156. EH OVA, das ist GOtt, hat sich in dem JEsu 3 der Lust der ewigen Liebe beweget, als mit ee Christum in der Menschheit geboren und offenbaret, Sansder Böttlichen Kraft und Weisheit. 7. Denn Maria sagte zum Engel Gabriel, zum 2 der Wunder Gottes, da er ihr die Botschaft brachte, daß sie
+
+solte schwanger werden: Wie soll das zugehen, denn ich habe keinen Mann erkant? Der Engel sprach: Der H. Geist!wird über dich kommen, und die Kraft des Höchsten wird dich uͤber⸗
+
+schatten; du wirft schwanger werden, und einen Sohn gebaͤ⸗ ren, des Namen solt du JEsus heissen, der wird groß und ein von7 Sohn des Hoͤchsten genant 2 75 dessen Ausgang ifo
+
+Ewigkeit gewesen. (Luc. 1:34. 35.)
+
+158. Das ist der Urstand des Christi in dem ewigen Wor⸗ te, in der Kraft des Allerhöchsten, welche sich beweget bat und aus und in dem JeEsu als in der Begierde der Goͤttli zwisch chen Liebe, den Christum, als den Helden im Streit, Gottes viebe und Zorn geboren; Nicht also, daß die Christi nicht sey von Ewigkeit im Worte gewesen:
+
+Bu;
+
+| ent in solcher Eigenschaft, als ein Soded-Zerbres 3 offenbar. er, nicht 159. GOtt hat Ihme den Todes⸗Zerbrecher aus dem Ben seiner Selbheit geboren: Denn in der Schoͤpfung war kein Tod; So war auch kein Todes⸗ eee Mit der
+
+Suͤnde kam der Tod in die Welt; und durch den Todes⸗Zer⸗ brecher kam sie wieder aus der Welt. In Adam ware:
+
+[p. 80] Ef. Stiefels und Ez. Meths. 237 der grosse Allwesende GOtt offenbar, aber nicht in Gestalt des
+
+Todes⸗Zerbrechers: Sondern in Kraft seines Geistes, nach Liebe und Zorn, nach Eigenschaft des Fiats, als durch den Glast der Tinctur vom Feuer und Lichte, als ein Ebenbild
+
+160. Adam war nicht GOtt selber, er war nicht in der Drepfaltigkeit in Jehova, als ein selbstaͤndiger GOtt geschaf⸗ fen, wie dieser Autor schreibet: Er sey im Ebenbilde GOt⸗ tesin Christo, aber ohne Goͤttliche Erkentniß, sichtbar⸗ lich und offenbar gemachet worden; Gott habe erst den Schatz der Weisheit in Adam offenbaret, als Christus
+
+seyeinMensch worden: Nein; Gott schuf Adam zum ewi⸗ gen Leben ins Paradeis mit Paradeisischer Qual und Vollkom⸗ menheit: Er verbot ihm, von der Qual Boͤs und Gut zu es⸗
+
+sen; Er schuf ein vollkommenes Ebenbild in dem Spiegel des ewig⸗gesehenen Bildes ohne Wesen; die Kraft Jehova, als GOttes des Vaters Liebe, durchleuchtete ihn, wie die Sonne, die gantze Welt durchleuchtet: die Goͤttliche Sonne durch⸗ schien Adam in seiner Himmlischen Wesenheit, als im reinen Element, und äusserlich leuchtete ihm die aͤussere Sonne; Ihn rührte weder Hitze noch Kalte: Denn er stund in gleicher Concordantz derselben: Das reine Element hielt die 4 Ele:
+
+menten in sich verschlungen und gefangen, wie der Tag die actht. 161. Und wird dieser Mensch mich nicht bereden, daß GOtt in Adam nicht sey offenbar gewesen: Ist Er doch in allen Din⸗ gen offenbar, aber nach iedes Dinges Eigenschaft; in der Ei⸗ Be als Adam geschaffen war, war GOtt in ihme offen⸗ ; weil er aber das Centrum des Zorns in ihme offenbarete, so setzte GOtt Feindschaft wieder das Boͤse, und offenbarete im Menschen den Schlangen Treter, welcher zuvor ohne die
+
+Suͤnde in GOttes Kraft verborgen war, und in Goͤttlicher
+
+Einigkeit in der diebe GOttes in JEsu war. Also ist dieser Schlangen Treten, als ein Ziel des Menschen, da er seine Be⸗ gierde soll einwenden, gesetzet worden. 162. Nicht daß der Mensch der JEsus werde, oder ein
+
+Sdtt, sondern daß wir sollen den Glauben in Ihn führen, und inunsere Begierde den Christum, der den Tod hat zerbrochen, einnehmen, daß Er unsere Seele und das verblichene Bild in Adam in sich des Goͤttlichen debens lebendig mache; Denn
+
+[p. 81] Ä in JEsu scheinet die ewige Sonne durch den Christum aus: IE sus ist Jehova, das ist Ott; und Christus ist der Wie ler zwischen GOttes Liebe und Zorn.
+
+163. Dem Christo ist alle Gewalt gegeben vom A ober Ef: 7Efüs hat dem Christo die Göttliche Gewalt gegeben, nicht daß Christus die Gewalt für sich führe; sondern
+
+Gott, der ein Geist ist, der brauchet den Christum “= Werckzeuge, damit Er dem Zorn die Gewalt genomm IEsus ist des Christi Kraft, der giebet Christo die denn in eigener Gewalt thaͤte Christus nichts auf Erden, denn Er sprach am Creutz, als Ihn die Juͤden aufhingen: Vater vergib ihnen, denn sie wissen nicht was sie thun, (Luc. 23: 34% Und da Er Lazarum aufweckte, sagte Er: Vater! er mich, doch ich weiß, daß du mich allezeit erhoͤrest. Joh. ur 41. 42.) Und David sagte im Geist: Er hat ihm den Der vorgestellet, darum werde ich sicher ruhen; (pf. 16: 8.9.) 1 meinte er Christum, daß Er ihm den JEsum oder ein, haͤtte vorgestellet, darinn Christus ruhete. 164. Nun ist Christus ein Wiederbringer dessen, so voran ren ist; nicht um des irdischen Menschen willen ist Er kom⸗ men, daß Er den in feinem Regiment erhalte, sondern daß Er den wiedergebaͤre, der in Adam, als er der Suͤnden aufwach⸗ te, verblich und starb, davon GOtt sagte: Welches Tages du
+
+2 Baum Gutes und Boͤses essen wirst, solt du des 55. sterben: (Sen. 2:17.) Er starb der Göttlichen Welt / und wach⸗ te auf der aͤussern beit als dem Suͤnden⸗Hause, voll Sam. m⸗ mer und sterbender Qual. 165. Das Suͤnden Leben wolte Er nicht neu gebaͤren, ei| 1 ; Er starbin feinem Leibe unsers Suͤnden⸗Lebens (das im R ment der vier Elementen war mit der Suͤnde in Adam ent⸗ standen,) ab, und führte unser wahres Leben des reinen Ele⸗ ments wieder empor; fein Tod war unser Leben: die — Elementen hielten uns im Zorne gefangen; Aber Er führte unser Leben der vier Elementen, durch den Tod, im reinen Ele⸗ ment wieder aus, und machte uns im Menschlichen Leben w. der eine Bahn zum Himmel.
+
+166. Nun muͤssen wir Ihme nachfolgen, und auch dem Ben 82 der vier Elementen zuvor absterben; Doch zuvorn Chri⸗ stum in uns nehmen, der uns durch den Tod unsers Sterbens, in seiner Bahn durch den Tod ins reine Element ante ggg 167.D
+
+[p. 82] 157. Dieser aͤussere, sichtbare Leib kann nicht das Element Gottes erben, er zerbreche denn zuvorhin. So wir aber Christum in der Glaubens ⸗Begierde haben angezogen, fuͤhret Ex unsers Leibes Essentz in sich in fein Mysterium ein, als in feine Ruhe im Grabe. Davon sagte David: Er werde sicher a ee Denn es war ihme der HErr in Christo vorgestellet, dessen Schutz er in Christo, als im Ziel des Bundes, im Spiegel Christi, ruhete, welchen Ihme Gott im Bunde der Beschneidung unin dden Opfern vorstellete, als waͤre Chri⸗ stus darinnen, denn Er hatte Christum darein verheissen, bis die Erfüllung im Fleische kam.
+
+168. Darum soll uns dieser Autor nicht bereden, daß der irdische Mensch in Sünden, ohne Zerbrechung des äusseren
+
+Lebens, Christum gantz von innen und aussen anziebe; daß die suͤndige aͤussere Natur, wenn der Mensch in Busse einge⸗ bet, gantz ersterbe, und allein Christus aufwache, und von in⸗ nen und aussen im Menschen geboren werde: Nein, Christus istkommen, den Schaden zu heilen, der Adam geschah,da er des Himmelreichszuhand im Suͤnden⸗Bisse starb, als den innern Menschen, der in Adam verblich, aufzuwecken, und in dom in seiner Kraft neu zu gebaͤren, und die arme Seele wie⸗ in einen Göttlichen Willen einzufuͤhren, ihr das edle Klei⸗ nod des H. Geistes wieder zu geben, und der alten Schlangen im aussern Fleische mit ihrem Willen wohnende, immerdar den Kopf des Zorns und der Falschheitzuzertreten; auch den irdischen Willen immerdar zutoͤdten, bis der irdische Adam Br gar verwese, und in fein Mysterium, daraus ihn GOtt uf, eintrete, zum Gerichte GOttes, da soll fein Mysterium das auffere Bild wiedergeben, als das dritte Principium, und soll derange Mensch, wie ihn GOttinAdam schuf, in Christi Eigenschaft und Kraft wieder darstehen, und wieder in Jehovz
+
+Licht und Kraft leben; Denn wenn Christus alles vollendet haso soll Erdas Reich in der Wiedergeburt seinem Vater t, wieder uberantworten, und soll seyn G Ottalles in allem, wie es war vor den Zeiten der Welt. 169. Der Autor irret darinn, daß er waͤhnet, der Mensch, der sich zu Christo wendet, ziehe Christum von innen und aus⸗ fengaͤntzlich an, und werde gantz Christus; Die Natur der
+
+Eigenfcbaften sterbe ab. Es ist kein Grund: Christi Fleisch ward in der Kraft des H. Geistes in Maria Eilensenpfangen ‚u
+
+### [p. 83] X. Vom Irrthum der Secten
+
+Aber unser böses Fleisch empfangen wir von Adams suͤndli⸗ chem Manns⸗Samen, in Kraft der zweyen Tincturen, Man⸗ nes und Weibes.
+
+RT
+
+170. Christus saget: Was vom Fleische geboren ist, das ist Fleisch; was aber vom Geiste geboren ist, das ist Geist:
+
+Fleisch und Blut soll das Himmelreich nicht erben: Der Geist ist das Leben, das Fleisch ist kein nutz, es soll verfaule n,in Der geistliche Mensch nach sein erstes Wesen eingehen. Gottes Reich, (welcherinAdam starb, und als ein bußferti⸗ ger Suͤnder in Christo wiedergeboren wird; der im Himmel wohnet, wie S. Paulus saget: Unser Wandel ist im Himmel; von dannen wir des Heilandes JEsu Christi warten;;)der ist das Leben. Sein My sterium , darinn das irdische Fleisch der
+
+Suͤnden wohnet, das trit in Anfang ein, und wartet des Hei⸗ landes JEsu Christi, zur Auferstehung und Wiederkunft ins Leben.
+
+Dis ist meine Erkentniß.
+
+171. Ich sage nicht, daß ein Mensch in diesem Fleische voll⸗ kommen sey, und Christum von aussen anziehe, sondern das
+
+Mysterium, als Quinta Essentia, zeucht Christum an zur Auferstehung der Todten, und die Seele in der himmlischen qesenheit, nach Christi wahrer himmlischen Leiblichkeit, wa⸗ chet ihres in Adam gehabten und gestorbenen Wesens auf.
+
+127. Christus giebet uns feinen Leib zur Speise und fein: Blut zum Tranck, nicht aber dem Menschen der Suͤnden, son⸗ alsdeme dern dem Menschen in Christo zum Leben neugeboren von der Goͤttlichen Welt Wesen, dem Paradeis⸗Menschen, der einen himmlischen Mund hat zu niessen. Denn Christus wohnet im Himmel, und speiset uns mit seinem Leibe und Blute im Himmel: Dieser Himmel ist im Menschen; Nicht in vier Elementen nach deren Wirckung, sondern im reinen Element: Christus speiset den Leib seiner Gleichheit, als die Seele und das himmlische Theil im neugebornen Menschen; Adam isset von vier Elementen, und wird gespeiset mit Boͤs und Gut: Adam, als der aussere Fleisch⸗Mensch fuͤndiget, der innere Mensch will der Suͤnde nicht, darum saget Paulus: So ich nun suͤndige, so thue nicht ichs, sondern die Suͤnden⸗ Begierde, so im Fleische wohnet; So diene ich nun mit dem
+
+Gemuͤth GOtt, und mit dem Fleische dem Gesetz der Sünden;
+
+denn ich thue, das ich nicht will: so ichs aber nun thue,so
+
+/sondern thue nicht ich s die Sünde im Fleisch. (Nom. 7: ern 173. Dass
+
+[p. 84] Fr
+
+1773. Darum sey der Wahrbeit⸗ liebende Christliche Leser ge⸗ warnet in gar guter Pflicht und Liebe⸗Willen, sich ja nicht für vollkommen zu schaͤtzen, und in die Allmachtige Kraft Gottes, und ,zusagen:Er seyohne Suͤn⸗ emzusetzen indie Allwissenheit de,und koͤnne nicht suͤndigen. 174. Ach die arme, gefangene Seele im findlichen Fleische Bari täglichsuͤndigen, denn der Gerechte faͤllet siebenmal: Err vor dir ist kein vebendiger gerecht/sodu wilt Suͤn⸗
+
+Be (Pf. 130: 3. Und wer dasfager; er habe keine /der ist ein Lügner,sagt Johannes 1. Joh. g. inde 17 Dieser Autor irret an den hoͤchsten Glaubens⸗Artickeln fast allen: Ich vermahne euch derohalben, alles weislich zu betrachten /GOtt um Verstand zu bitten, in wahrer gelassener
+
+Demuth vor GOtt zu bleiben, und immerdar GOtt zu bitten, nach Christi Lehre: Vergib uns unsere Schuld. 176. Dieser Mensch will ohne Schuld seyn, saget, er sey der Schuld in Christo abgestorben; und obs am besten waͤre,
+
+soliegt doch die Schuld noch in Adams fündlichem Fleifcke, - welches das Himmelreich, nach Christi Lebe; nicht erben folk, mag, noch kann: Nicht die Suͤnden⸗Huͤlse, sondern Mysteri· un soll ewig bleiben.
+
+Also ist der wahre Verstand über den
+
+Spruch1.Tim. 3. 16. fast genugsam bisher erklaͤret, auch des 8 Wee irrige Meinung entdecket. Will aber doch seine selbst hiernach ar:vom12 Reißig zu erwegen.
+
+8SurGottselige Geheimtiß it Fündlich groß, Gott offenbar im Fleisch, erst in Adam.
+
+rt
+
+Des
+
+Erklaͤrers Auslegung:
+
+welcher Spruch, wie auch die gantze Epistel, und alle Schriften der . Apostel und Propheten, wenn sie von der kuͤndlichen Offenbarung und grossen Gebeimnissen GGt⸗ tes, im Fleisch erschienen, reden, keinesweges von dem erstgeschaffenen Adam kann oder mag mit Wahrheit verstanden, angezogen und gedeutet werden; Sintemal
+
+Gott in und mit diesem heiligen Namen die ganze Seil.
+
+Drepeinigkeit, die gantze Göttliche Fülle, vom kleine⸗
+
+sten bis zum groͤsten mit feiner heiligen, gottseligen, kund⸗ und offenbarlichen grossen Geheimniß in Adam
+
+Fall, nie offenbar * an ibm erschienen/ viel⸗ [p. 85] rn
+
+242 XI. Vom Irrthum der Secten vielweniger mit feiner Goͤttlichen Fulle in ihm lebendig, kraͤftig und thaͤtig gewircket, gewohnet, oder eingepflan⸗ tzet worden: Sondern eintzig und allein in Christo, dem Erstgebornen Gottes vor allen Creaturen; Welche of⸗ fenbarliche grosse Geheimniß mit der gantzen Goͤttli⸗ chen Fuͤlle hernach in bestimmter Zeit, in Annehmung un⸗
+
+sers menschlichen Leibes und Seelen, Fleisches und Blu⸗ tes, im Fleische Christi kund und offenbar worden: Dan⸗ nenhero dieser Spruch, eurer schriftlichen Andeutung nach, in Ewigkeit nicht kann getrennet werden, oder das erste vom erschaffenen Adam, das andere aber, als die
+
+Rechtfertigung im Geiste nach eurer Meinung, folgends nur allein in Ehristo verstanden werden; Sondern gehoͤ⸗ ret beydes einig und allein in die Wiedergeburt Christi und aller seiner heiligen Gliedmassen im Fleisch: Wie denn auch, nach eurer augenscheinlichen Erklaͤrung im Buch⸗ staben, nicht allein das Sleifch des erschaffenen Adams,
+
+sondern die gantze Person, Leib und Seele, der gantze See⸗ len⸗Mensch/ soins natürliche Leben geschaffen /gesundiget, und durch den Fall in die ewige Verderbniß gerathen.
+
+Dannenhero die Rechtfertigung und Wiedergeburt durch Gott den Errn, der der Geist ist in Cbristo. ja Christus der hochgelobte GGtt selbst, allen G laͤubigen und Auser⸗ wehlten, neuen Creaturen, zugeeignet, und im Glauben eingebildet und vereinigt wird.
+
+Durch welchen hochgelobten dreyeinigen Got, Cbei⸗ 2 Rum IE sum, das Ebenbild der gantzen heiligen, ken kommenen, Göttlichen Dreyeinigkeit, alle Auserw Recdhtgläubige, in, mit und durch Ihn felbft in sein Ebenbild verklärer, und von einer Klarheit zur ande bracht werden, als von Ihm, dem Serrn, dem drepsei gen Gott felbft, so der %Err der Geist ist: Wie denn freylich die Rechtfertigung nicht auf Gott und Christum (ausser der Wiedergeburt und Vereinigung Leibes und der Seelen, der gantzen menschlichen, sichtbarlichen greif⸗ lichen Person) so die ewige Gerechtigkeit selbst ist, kann gezogen und gedeutet werden, sondern auf die bekehrte und erloͤsete gantze menschliche Person in einem Leibe, auf Leib und Seele, und nicht auf das Fleisch allein, ohne Seele und eingeblasenen Odem Gottes nichts 2 ö [p. 86] taub und Aschen ist,nach Jeugniß der Schrift an vier Orten und Enden.
+
+Tantum.
+
+Mein Antwort hierauf.
+
+= 177. Der Christliche Leser sehe doch diesem Menschen recht ins Her, was er unter solcher Beschreibung suche, da er sa⸗ Gott habe alles in Christo geschaffen, dazu auch den
+
+Jenschen in Ihm geschaffen und sichtbar gemacht; Aber gantz ohneGoͤttliche Offenbarung und Erkentniß: Daß also Dt. mit feinem Geheimniß mit dem wenigsten in Adam sey offenbar gewesen; Da ihme doch der Geist GOttes den lebendigen Odem eingeblasen hat, davon der Mensch eine lebendige Seele worden. 178. Auch wie sich dieser Autor gantz zuwieder redet: Denn er bekennet an vielen Orten, daß Gott dem Menschen habe einkraͤftiges, lebendiges Geist :Leben aus Göttlichem Verstande und Munde eingeblasen, in welchem der Mensch
+
+SGottes Bild gewesen. 179. Hat ihme nun der Geist GOttes feinen Odem einge⸗ blasen, als die lebendige, verstaͤndige Seele, wie ist denn GOtt im Menschen nicht offenbar gewesen? Es ist ihme aber um ein anders zu thun, damit er sich koͤnne gantz und gar fuͤr GOtt ausgeben: Denn ersetzet, GOtt habe Adam in Christo ge⸗ ffen und sichtbar gemachet, und sich ferner in Adam nicht nbarct, sondern nur in Christo: Habe also Adam nur zum natürlichen Reben geschaffen, und verstehet eigentlich darun⸗ em Fall; Denn soer keine Göttliche Erkentniß ges bt, und Gott in ihme nie offenbar gewesen so hatte der * utmit ihm spielen gehabt. Also verstehets dieser Autors Auf daß Gott tes gehabt, den verborgenen Schatz Goͤttlicher Weisheit andernmal in Christo hervor zu bringen, und sich in o in Menschlicher Eigenschaft zu offenbaren und den gantz im Schatze feiner Goͤttlichen Weisheit neu⸗ ugebaren, also daß der Mensch gantz Christus fen; daraus oͤpfet er ihme den Gedancken, er sey Christus: Und muß ihme das dazu belsen, und der Grund und Eckstein seyn, daß Er den Menschen erstmals in Christo geschaffen und sichtbar gemachet hat, und istnun zum andernmal gantz in Christo neu⸗geboren.
+
+rn us Chr c nun get fol em es di Au [p. 87] mal im Fleische geoffenbaret, und des Menschen Seele und Leib in Ihme offenbaret mit der gantzen Fuͤlle der Gottheit, daß der Mensch gantz GOtt und Christus sey; Das kann ihm also nicht fehlen: Denn so er in Christo istfichtbar zu dieser
+
+Welt in Adam worden, und sich Christus, als GOtt, zum an⸗ dernmal in ihme gantz mit der Fuͤlle der Gottheit, von innen und ausseningantzer Menschlicher Eigenschaft offenbaret
+
+Gott und Mensch gantz Eins ist; so kanns ihm nicht fehlen,
+
+Ka der Mensch muͤsse Gott seyn. 182. Nun verstehet dieses Autoris feine Verwirrung: Zum ersten sagt er, Gott habe den Menschen in feinem Bilde, das ist, in Christi ewigen Bilde, geschaffen und offenbar gemacht, welches des Autoris Eckstein ist, aber gantz irrig und nicht recht.
+
+183. Christus ist in Jehova in JEsu von Ewigkeit kein Bild und auch kein Christus Der Erstgebor⸗ der Gottheit gewesen, ne vom Vater vor allen Creaturen von Ewigkeit ist GOttes ch li tt Öd O o Herg, Stimme, Wort
+
+Mun
+
+184. Die Schrift verstehet keinander Bild. Der Mensth
+
+Adam ward nicht in Christi Bild geschaffen und offenbar, son⸗ dern in feinem eigenen Bilde, das G Ott von Ewigkeit in feiner Weisheit, im ausgesprochenen Worte hatte gesehen: Er kanns anderst nicht beweisen; Gott schuf den Menschen in seinem Bilde und zum Bilde GOttes; Es stehet nicht an sondern GOttes: Zum Bilde ist Er aus Wesen geschaffen worden; Und im Bilde ist er in seiner eigenen Weisheit von 5
+
+Ewigkeit vom Geiste GOttes erkant und in ein Bildniß ge⸗ schaffen worden: Nicht zu einem GOtt, sondern zu einer n⸗ Me uf sch tt Go et: sag se Mo wi tt GO niß Gleich
+
+schen nach feinem Gleichniß; Item, Lasset uns M machen, ein Gleichniß nach uns, daß sich der Geist GOttes r in einem Gleichniß schauete, und mit Ihme selber spie⸗ — lete. 185. Darum blies Er ihm den Odem aus seinem Halle al⸗ ler seiner Wesen, aus allen dreyen Principien ein, als einen Klang und Stimme feines Instruments, als eine Harmoni= am GOttes, darauf der Geist GOttes wolte spielen, und sich Klange des ausgesprochenen Mercurii oder Worts im Mensch⸗ lichen Halle belustigen, und mit diesem Werckzeug abe [p. 88] wasindieser Welt lebet und istregieren, und sich also in diesem
+
+Menschlichen Halle in des Menschen Stimme offenbaren, und auf den Fittigen des Menschen⸗Geistes fahren, wie David me a Herr faͤhret auf den Fittigen des Windes. 183 UU.
+
+}
+
+186. Ist derowegen fein Eckstein, darauf er bauet, irrig nd nicht recht verstanden. Wäre Adam in GOttes Harmogis blieben, es haͤtte keines Christi im Menschen beduͤrft:
+
+Denn die Kraft des Schlangen⸗Treters zum Christo war 25 der Stimme GOttes verborgen, und in keinem Bil⸗ de offenbar.
+
+1387.
+
+GOtt hat Ihme auch nicht feine Liebe zum Weibe ge:
+
+nommen daß er Ihme wolte ein Ebenbild gebaͤren; Er selber die Liebe: Die Liebe ist JEsus oder Jehova, als das ndere Principium, oder die andere Person in der Gottheit.
+
+1.88. Als die schoͤne Harmonia in Adam vom Teufel vergif⸗
+
+N detwurd,daß der Seelische Willen⸗Geist, welcher solte in GOt⸗ tes biebe⸗Stimme gantz gelassen seyn, von GOttes Harmonia ins Teufels und aller Bosheit Harmod Klang ausging niam, so wich der wahre Göttliche Lauten ⸗Schlaͤger von ih⸗ me; Denn Adams Geist ging von Ihme aus. 189. Ware nun Adam gantz in Christi Bild geschaffen, und ö re gewesen, und in Christi Harmonia gestanden, das GOtt in feiner Liebes so waͤre das Bildniß der Ewigkeit, utter (wie dieser Autor tichtet) von Ewigkeit in ihme erbo⸗ zerbrochen, und aͤttesich lassen den Teufel uͤberwaͤltigen; So waͤre der Teufel staͤrcker als GOtt, dieweil er Ihme hatte Ehristi Bild zerbrochen.
+
+1090. Ach wie ware es doch möglich, daß etwas solte verder⸗
+
+| She einig und allein aus dem Bilde und Willen der Liebe
+
+Ottes hervor gebracht ware? So muͤste Gott verderben. d oberwolte sagen, der Leib habe die Seele uͤbertaͤubet, so war doch die Seele aus GOttes Munde, als aus dem H. Geis
+
+ste GOttes dem Menschen eingeblasen.
+
+191. Auch wäre das viel, daß GOtt wolte einen irdischen
+
+Menschen in das Bild der Heiligkeit GOttes, als in Christum, welcher in der Stimme der Mutter der Liebe von Ewigkeit aus Ott geboren, (wie er sagt) einführen. erdoch wol Goͤttlich, heilig Wesen gehabt, das 92. Haͤtte Teufel nicht hatte moͤgen sichten. ae glaube, wir 1 [p. 89] dem Autori albie mit feiner Fabel Urlaub geben, und sagen muͤssen: Daß Gott den Menschen in feinem eigenen von Gott erkanten Bilde ohne Wesen, in ein Wesen und Bild nach Gottes ausgesprochenem und geschaffenen Wesen
+
+schaffen habe, (wie Moses sagt) zum Herrn über alle Creatu⸗ ren auf Erden; wir werden ihn nicht dürfen iu Seeg Gottheit einsetzen. CC 193. Des Menschen Allwissenheit wird niemals gewese
+
+Thro
+
+seyn, 970in Ewigkeit werden; Denn ist doch kein
+
+Engel Allwissend: Es ist nur alles unter GOtt, und ein seiner Haͤnde. TRITT 194. Als sich GOttinund mit dem Schlangen: Treter' fenbarete, sprach Er Joh. 313. niemand faͤhret gen.
+
+als des Menschen Sohn, der vom Himmel kommen 1 — der im Himmel ist. Es ist ein leerer Punct, daß der Aı meldet: Christus habe sich in einer gantz reinen Jung⸗ frauen, die ohne Macul und Suͤnden, geoffenbaret; sagte, Er wäre vom Himmel kommen, und nicht aus fe Bildniß, welche verdorben, wie dieser Autor tichtet, und in Marien rechter Menschlicher Essentz Mensch worden: Da⸗ von Autor, wiezumercken, in feiner Allwissenheit und Go beit noch nichts weiß: Wenn er mir zuvor das Theosophische AB Cin des H. Geistes Schule lernte, ebe er sich fuͤrh und Allwissend ausgabe, und wäre eine Weile unter GOttes Harmonia, ehe er selber GOttes Lautenschlaͤger seyn wol
+
+Es ist gewiß eine Luciferische Hoffart dahinter.
+
+195. Merckets lieben Brüder! Er kommt in Christi Na⸗ men, und gantz in feiner Person: Pruͤset ihn; Christ us gen
+
+Himmel gefahren, dieser ist nur ein verwirreter Mensth.
+
+106. Maria war Fleische. Seele und
+
+Joachims und Anna Tochter u Geist, und unter dem Geseder tz Suͤn beschlossen, und unter dem Fall Adams und Eva: Aberin ihr war das Ziel des Bundes, das Gott hatte im Paradeis verheissen.
+
+nba
+
+107. Verstehet: In dem verblichenen Bilde Himmlischer Wesenhelt inwelchem Adam am Himmelreich starb, dasselbe kann keine Suͤnde annehmen, denn der Himmel GOttes i keiner Sünden unterworfen.
+
+408. Da uelfer in feiner Creatur verdarb, speyete ihn der
+
+Himmel aus sich aus: Die wahre Seele Adams wa
+
+[p. 90] Ef
+
+Leben in himmlischer Wesenheit; Als aber der Seelen: Wille in das irdische Wesen, als in Bos und Gut, in Hitze und Kaͤlte, als insCentrum Naturæ nach Klugheit einging, da verblich fein Himmlisch Wesen, darinnen Gottes Licht schien, und blieb G Ottes Licht in sich, in feinem brinoipio stehen. 00. Dieses jammerte GOttes Liebe⸗Willen, daß fein Gleichniß verdarb, und verhieß dem Adam den Schlangen⸗ Treter, aus des Weibes Samen, der hat sich mit dem Ziel des
+
+Bundes alhier in Marien gestecket.
+
+200.
+
+Nicht in das fündliche Fleisch Maris, sondern in das verblichene Bild, das JEsus mit feiner Eingehung wolte be⸗ wegen, und sich selber im Ziel des Bundes bewegen, und den hristum, als ein neu Leben, aus sich selber aus, und in die⸗ m Ziel des Bundes der Verheissung, in dem verblichenen Samen Maris eröffnen, also daß das verblichene Wesen mie: in Kraft der Bewegung JEsu, (indem dieser JEsus mit feiner Bewegung die Göttliche Weisheit und verborgene
+
+= in ihm beweget, und diesem verblichenen Samen zum
+
+Leben gegeben,) wieder offenbaret, und in Christo lebendig urde; Das war GOtt und Mensch in Einer Person; De: ne das aͤussere Reich unsers Fleisches in dem Samen Ma⸗ ria anhing; Darinn Er unsere Sünde und Mängel auf auf seine Schultern nahm, und mit dem Blute der ietzt neugebornen Himmlischen Wesenheit, mit des wahren Wei⸗ bes Samen, loͤschete, und den Grimm, der im Centro Natu „ze in der Seelischen Eigenschaft mit ungehorsamen Willen c En— 2 worden, ersaͤufte, und wieder in GOttes Wil⸗ einfuͤhrte. 201. Und in diesem, daß sich GOtt in dem Samen Maria, in der verschlossenen Verbor genheit der Menschheit, hat be⸗ veget, und mit seiner Liebe offenbaret, und den Christum in em verblichenen Samen empfangen, als das ewige Leben im lem Tode, so ist Maria die Gebenedeyte unter allen Weis bern worden.
+
+ihrem rechten Samen, der in Adam starb und verblich,
+
+⸗Treter aus JEsu oder Jehova zum Beystand, der der Seelen
+
+202.
+
+Denn das war keiner wiederfahren, daß sich GOtt
+
+2: beweget: Denn alhie kam das erste Bild, das Adam in Schoͤpfung war, wieder, und gab Gott diesem Bilde, in Adam nicht bestehen kunte und starb, ietzt diesen Schlan⸗
+
+[p. 91] 248 XI. Vom Irrtder hum
+
+Secten
+
+Seelen solte helfen den Zorn G Ottes und den Teufel uͤberwaͤl⸗ tigen
+
+203. IEsus hat mit diesem Christo, den er aus feiner. Be⸗ Rama I Samen Maria offenbarte, und dem Samen zu in die Leben gab, nicht den aufferen suͤndlichen Samen Maria
+
+Gottheit angenommen.
+
+Daß Gott in dem aͤussern Samen tarid sey offenbar worden, das bewaͤhret sich an Christi Per⸗ son, daß Er auf Erden in Gestalt, Gebaͤrden und aussern Wandel und Fleische uns gleich war; Denn das auffere Fleisch war sterblich, darinnen Er auch den Tod erwuͤrgete; Er 1 nur den innern Samen lals den verblichenen, der in2
+
+starb, darinn GOttes Licht leuchtete) an, und in dem JEsuß ols in GOttes Liebe und Weisheit, offenbarte Er die Göttli⸗ che Kraft und Staͤrcke, damit Er wolte den Zorn des Vate uberwinden, und in die Soͤttliche Freudenxeich transmutiren.
+
+204. Aber der Seelische, aussere, fleifchliche Same
+
+Ma:
+
+rlaͤ l darinn die Sünde war) hing am innern verblichenen men. Nicht mischen sich diese, sie sind auch nicht abge
+
+sondern wie GOtt in der Welt wohnet, und die Welt istau nicht Gott, ein Principium scheidet das: Und wie GOtt feinem Zorne in der Creatur wohnet, doch auch im Verborge⸗ nen mit der Liebe unter dem Zorn, und der Zorn nimt die® mit he nicht an; denn ich kann sagen: Gott wohnet mit der Lie im Teufel, aber der Teufel kann sie nicht annehmen; die Li ist sein Feind, wie das Wasser des Feuers Feind ist,und
+
+SOME er wohnet doch im Urstand im Wasser; Also wohnet n allen Dingen, das Ding aber ist nicht feiner Liebe faͤhig:
+
+Also war auch derirdische Same Maria, darinn die Gü eee war, der Gottheit nicht fähig.
+
+205. Er hing aber, als ein ander Principium, am innern Samen, in welchem sich Gott offenbarete ; der innere Mensch, welcher jetzt Christus ward, nahm unsere ouf sich, und hing den Leib, darauf Er der Menschen Sünde hatte geleget, ans Creutz, als einen Fluch GOttes: ede da hing der erste Adam den GOtt wegen der Suͤnden verfluch⸗ te) am Creutz mit dem Fluche der Sünden, und starb der ©: den am Creutze, und in seinem Sterben vergoß er sein Bl desH.Menschen in Christo, in das Mysterium der Seelen, u des auffern Menschen, darinn der Tod war: Denn das
+
+Blut war im H. Geiste empfangen, und war unsterblich; mi
+
+[p. 92] Es. StiefelsundEz Meths.
+
+war im Wasser des ewigen Lebens in der Tinctur von GOttes
+
+Lichteinfeiner füffen Liebe empfangen, und hatte sich in des verblichenen Bildes Blut resolviret und geeiniget. 206. Als nun dieses heilige Blut mit in Tod fiel, so er⸗ ö schrack der Tod vor diesem heiligen, ewigen Leben: der Zorn erschrack vor der Liebe, und fiel in feinem Gift und Grimm, un hielt, in sein Sterben, nach der Art des
+
+Grimmes: Und ist uns doch kein Sterben oder Aufhoͤren zu stehen; sondern er ging im Schrack der Liebe,inGoͤttlicher
+
+Freudenreich auf, gleichwi ein Lichteaus einer aͤngstlichen hi⸗ ee scheinend wird, da alle Angst ein Ende nimt; der
+
+Grimm, der zuvor war böfe und zornig gewesen, ward ietzt der grossen feurigen Liebe und Freudenreich. Ursache 2207. Denn es solte am Menschen nichts vergehen, er solte bleiben, wie ihn GOtt in Adam schuf, aber er solte wieder in dasselbe Bild, in denselben gelassenen Willen trans mutiret werden, und GOtt gehorsamen. Denn auch Christus, der Sohn Gottes, nach der christ, dem Vater gehorsam worden bis am Stamme des itzes zum Tode; Also gantz muß auch unser menschlicher Wille in Christi Tod gebrochen, und der Zorn in feinem Blut 8 2 Liebe transmutiret werden; und das ists, das David saget: Du wirstes nicht zugeben, daß dein Heiliger die Ver⸗ wesung
+
+sehe.
+
+209. Jetzt als Er fein H. Blut in der wahren Bildniß
+
+Gottes in Christo vergoß, war der Gift des Zorns in Adams
+
+Fleische, Seele und Geist geheiliget, und in die Liebe trans⸗ mutiret, und dem Teufel fein Raubschloß gantz zerstoͤret; da phoͤrete die Feindschaft auf undward GOtt ImmanuEl,Drenfch mit GOtt, und GOtt mit Mensch; denn alhie ward Adams eisch tingiret, und zur Auferstehung zugerichtet: denn der od zerbrach im ewigen neuerbornen Leben Christi aus JEsu. 210. Und alhier ward das Thor des Todes, als die ewige . Finsterniß „in des Menschen Leib und Seele zersprenget, und der Cherub mit dem Schwert, [der das Menschliche Leben vom Licht der Natur abhieb,] weggethan, und ward der Brunn aus Zion, als aus Christi Bruͤnnlein, in dem gantzen Menschen fliessend, daß der Mensch nunmehr kunte vom Was⸗ H. Elements trincken, und essen vom Verbo Domini.
+
+2. pen
+
+Also ist uns nun ietzt Bu“ Nachfarth zu erregen:
+
+ir
+
+#### [p. 93] x. Vom Irrthum der Secten Si
+
+Bir koͤnnen das nichtfagen, daß wir thun können, was 0t in JEsu durch Christum gethan bat, uns die Bahn zu brecheen: Nein, wir koͤnnen nicht himmlisch Blut vergi TR‚und Gottes 3Zorn in die Liebe transmutiren: Anderst, soes js seyn moͤchte, so muͤsten wir uns auch als einen Sue ans Creutz nageln, und obs geschaͤhe, so ist doch unser in⸗ Bun, Mensch nicht in Christi Gradu erhoͤhet, Tome gantz glei 212. Denn Jesus, als die gantze Fülleder Gottheit, 5 net in Christo ohne Masse: und in Ihme als in seiner ter Maria, war das Ziel des Bundes, das GO im Para: deis benedeyete, in das GOtt sahe, und in welches Ottes Imagination durch die 9 8 Opfer einging: GO zer⸗ Hin: brach den Tod allein durch Ihn. 213. Wir aber muͤssen unsere Imagination und Begi rde in Ihn einführen, daß unser Moder des verblichenen Bildes in We Ihme anhebe in Christi Geiste und Kraft zu glimmen. ches der wahre Hunger des rechten Glaubens ergr set 3 damit der Mensch durch diesen glimmenden Moder (wel⸗ cher, so es Ernst ist, endlich zum scheinenden Lichte GOt⸗ den Gewal tes in JEsu wird) der Sünde im Fleisch koͤnne brechen, und es im Zwange halten als einen unbaͤndiger ungezaͤhmten böfen Hund, der gar nicht mag von feiner Bos⸗ heit erlediget werden, erzerbreche denn gantz unde zar, daß
+
+Huͤlse darein der Teufel feine Imagination eingefuͤhret, und fein Raubschloß gehabt, gar zerstiebe, daß kein Leben Bes. darinnen sey. 24.
+
+mehr
+
+Alsdenn und so bald der aͤussere Mensch stirbt, da die Seele des boͤsen Thiers los wird, so hat sie die offene Por ten in ihrer Liebe⸗Bildniß, in welcher Christus sich DE n
+
+Goͤttlichem Liebe⸗Feuer eroͤffnet; so ist die Vereinigung schon da, die Braut hertzet ihren Bräutigam, als die edle Jung. frau in der Liebe Ehriffi wieder aufwachet, sie nimt die Seele, als ihren lieben Bräutigam und Mann, in ihre Arme der
+
+Goͤttlichen Begierde ein. 215. Und was alhier geschehe, habe ich keine Feder darzu, zu schreiben; es istmehr als menschlich oder natürlich zu 1 ben, was Gottes Liebe und Gottes Suͤßigkeit sey, ches der bekehrte Mensch, so er wieder zu feinem Vaterei gehet, und sich für einen Saͤuhirten erkennet, die
+
+[p. 94] "ER Stiefels und Ez. Meths.
+
+Sünden bereuet, und des Vaters Gnade suchet, erfaͤhret:
+
+gm ibme Christus fein Bräutigam das Jungfrauliche
+
+Kränglein aufsetzet, da das Perlein der Goͤttlichen Anneh⸗ aan zum erstenmal wieder gefaet wird; was die Jung⸗ EN für Freude hat, wenn sie wieder das Leben bekommt, d ihren Braͤutigam Christum empfaͤhet, wieholdselig sie sich egen der Seelen stellet, und die Seele, als ihren Mann, in ihre
+
+Liebe Anl davon wol Seele und Leib in Freuden zittert.
+
+216. Welches diese nur wissen, so an solchem Orte sind zu
+
+stegewesen; und dieser Autor, welcher im Buchstaben will ollkommen und neugeboren seyn, nur blos mit einer Buch⸗
+
+Rasifgen ischen Wiffenfchaft, vielleicht noch nie erfahren hat, und noch wol kaum das Abendmahl Christi geschmecket hat, dell er nur ein buchstabischer Heiliger, und ein Zaͤncker, dar⸗ ein übermuͤthiger Veraͤchter der Kinder Christi in ihren ungleichen Gaben ist; feine Heiligkeit blos in Buchstaben und Christi Geist zur Of⸗ nget, und nur historisch schwaͤtzet, arung noch nie erlanget hat, wie es feine Laͤsterung und Schmaͤhe Schriften, deren er viel ausgeschicket genug bewaͤh⸗ ren, daß kein wahrer diebe⸗Geist in ihme erboren ist, und nicht
+
+Ehristus von innen und auffen ist, sondern Adams Hoffart mit einem Wahn, der sich selbst beredet, er sey Christus, und die unschuldigen Hertzen verfuͤhret. 217, Davor ich den Leser in der Liebe Christi will verwar⸗ net haben, sich ja nicht für heilig, vollkommen und unsterblich
+
+Be Denn obs geschaͤhe, daß der verlorne Sohn zum Vater kommt, und daß ihn sein Vater mit Freuden wie⸗ der annimt, ein neu Kleid anzeucht, und den Siegel⸗Ring in Christi Tode an die Hand feiner Seelen stecket, so wird doch das Kleid nur der Jungfrauen angezogen, daß sie fol, als eine edle Dienerin ihres Braͤutigams, der Seelen, die Seele dahin reitzen, daß sie sich in ihre Liebe einergiebet, und immerdar der alten Schlangen, als dem boͤsen Willen, den Kopf zertrit.
+
+218. Denn des Weibes Same soll der Schlangen den Kopf zertreten: das ist, diese edle Jungfrau, in Christi beben und Kraft wieder aufgewachet, und zum Leben neugeboren, die soll der Seelen, als des Feuer⸗Geistes boͤsen Willen, mit ihrer
+
+Siebe den Zorn des Feuers und Gifts in einen Liebe⸗Hun⸗ ger
+
+[p. 95] 252 KI. Vom Irrthum der Secten ger verwandeln, und des Fleisches Hunger Begierde e in fal⸗ scher Lust wiederstehen, bis das Fleisch hinfaͤllet. 219. Alsdenn faͤllet das Myster tum des Fleisches F ” Sale phur, Mercurius, Sal, in das ewige Mysterilum. daraus e im Anfang geschaffen ward, als ins Verbum Fiat; die
+
+}
+
+Elementen sterben und verwesen, und Quinta Effenti 1 a ins Mysterium Gottes, ins Fiat, zur herrlichen Aufer des Fleisches, vermoͤg unsers Christlichen Glaub 5, dasgantze Bild wi ches wahr ist daß also alsdenn soll
+
+Bi
+
+Einem seyn, und am Anfange, wie es GOtt zu sei m
+
+schuf, und kein anders, weder mehr noch!weniger.
+
+ge afEr schuf den M. 220. Gottes Vorsatz mußbe Bi ing, paradeis, dahineinsoller wieder gehenund e 8 eiben. 221. Aber die Gottlosen (welche der Zorn verschlinget) die sind ihres edlen Jungfraͤulichen Bildes, das in Adamstarh, ewig beraubet, bekommen an dessen statt an die ihre Wa Bild der grimmigen, finstern Welt Wesen, n zeitlich gehabtem Hunger in ihrer boshaftigen 222. Gleichwie auch Lucifer feine schöne Fe Bildniß verloren hat, und nun in Figur greulicher Wuͤrme und Thie⸗ re erscheinet: denn er hat sich ins Centrum begeben, er kann ihm ein Bildniß siguriren, wieerwill; denn nach dem duͤrste⸗ te ihn auf. daß er möchte ein eigen Herr und Macher fei .
+
+Gestalt seyn. 223. Adam war es auch fast darum zu thun, Kehlim fern Principio ist nicht die Macht, wiewol die Schlange vam desberedete, sie wuͤrde klug werden, und alles wi aber es gerieth nicht.
+
+ji15
+
+Folget der Spruch El. 54:5.
+
+1. Der dich gemacht hat ist dein Mann, Herr ge daoth heist sein Name, und dein Erlöser, der Hei, lige in, Israel, der aller Welt GOtt generinet wird.
+
+Pe |
+
+An Auslegung des Erklaͤrers. ¶ Diesen Spruch wollet ihr deswegen gedendten, die Er klaͤrung hieruber zu vernehmen, wie und was es für eine Gelegenheit habe mit der Vereinigung Christi
+
+[p. 96] Ef.
+
+Stieund feEz,ls Meths- 233 dreyeinigen G ttes, welches Ta⸗ heist Err Jebaoth, und des Weibes Erloͤser, und
+
+Israel, der aller Welt GOtt genennet wird, und mit seinem Weibe und vereinigten gantzen menschli⸗ | Person, allen beruffenen, auserwehlten, recht; ubigen Christen, maͤnnliches und weibliches Ges ts.
+
+k
+
+Bierauf wird mit Christo, dem dreyeinigen hochge⸗ lobten Gott, und ewigen, unendlichen, unveränderlis chen, allerheiligsten Weisheit und Wahrheit, dieses zur augenscheinlichen, offenbarlichen, greiflichen Befesti⸗ gung des rechtglaͤubigen, begierlichen Zertzens mit Ehristo, dem dreyeinigen hochgelobten GGtt, vollkom⸗ menvereinigtzuwerden und in alle Ewigkeit unzertrenn⸗ zum hoͤchsten Lobe des dreyeinigen hochgelobten tes, vereinigt zu bleiben, schriftlich dargeboten, und > mie Christo zum heiligen achdencken hieher ge⸗ und vor Augen gemahlet.
+
+d was erstlich den Mann Christum, den dreyeinigen gelobten SErrn Febaoth und Erloͤser des gantzen ifchlichen Geschlechts, insonderheit aber der Glaͤu⸗ bigen2 / Seili Israe l, ist, aller Recht glaͤu ⸗ en, %Evenu tt aller Welt, betrift und anlan⸗
+
+1. Seine Gebu
+
+Ursprung.
+
+2. Sein Wesen /und was Er sey nach seiner ersten Ge; burt vor allen Creaturen. anne vs eee sein Thun und Wirckung seiner ersten Geburt sey noch vor dem Fall des Menschen gewesen. 4. Was Er nach dem Fall des Menschen worden, und pbinfort nun und zu ewigen Zeiten sey, und unver⸗ aͤnderlich bleibe.
+
+N SBiervon folget nun dieser heil. Goͤttl. Bericht:
+
+Jum ersten die beilige Geburt Ursprung und Ausgang
+
+Ewigkeit in Ewigkeit dieses heiligen Mannes belan⸗ gende; ist Er von Ewigkeit aus dem dreyeinigen, ewigen chsten Gut, dem ewigen GGtt und Vater, durch dieses N — a böchfte, ewige Gut, den dreyeinigen hoch⸗ obten Gott felbft , mit, durch in und aus feinem.
+
+Kr iligften selbsteigenem Wesen geboren, und Kr er⸗
+
+[p. 97] XI Vom Irrthum der Seeten allerheiligsten Ebenbilde, Glantz und scheinbarlichen, allerheiligsten, wesentlichen Serrlichkeit der gantzen
+
+Goͤttlichen Fulle, des gantz allerheiligsten, dreyeinigen, Goͤttlichen Wesens, allen geschaffenen und ungeschaffe⸗ nen Dingen, zuvor gezeuget worden,
+
+Was nun fuͤrs andere dieses heiligen Mannes Wesen belanget, was Er sey nach feiner ersten Geburt vor allen Creaturen. Hierauf wird vermeldet und angedeutet, daß Er, nach Bericht der ersten Frage, Gott dem dreyei⸗ nigen Gebärer und Vater des gantz dreyeinigen voll, kommenen Wesens, daraus Er ihm diesen seinen dreyei⸗ nigen Sohn seines gantzen vollkommenen Wesens von
+
+Ewigkeit geboren, gantz gleich, und in, mit, und durch denselbigen in ewiger, unzertrennlicher Dreyeinigkeit al gantz vollkommen verbleibe. Was aber fürserfte und vornehmste das Allerheiligste und Allerherrlichste in der allerheiligsten, dreyeinigen, gantzen Goͤttlichen, in Ewigkeit unzertrennlichen
+
+Fulle der Gottheit sey, und von Ewigkeit in Ewigkeit drin⸗ nen unverwandelt und unveraͤndert, zu derselben hoͤch⸗ sten Lob und ewigen Ehren, verbleibe; ist und — derselben von Ewigkeit in Ewigkeit vornemlich drey funden. Dannenhero auch die g dreyeiniges Goͤttliches Wesen dreyeinige Gott genennet wird;
+
+das Vaͤterliche Wesen, der Vater, del be⸗ zoͤttliche Sälleein. ge
+
+Sebaͤrer, die Kraft des dreyeinigen gantzen vollkommenen Soͤttlichen We⸗ fens.
+
+(2) Eines wird genant das Soͤhnliche Wesen, der
+
+Sohn, die Geburt, das Wort, Rede, ins und ausff wesen des vaͤterlichen Wesens des Vaters, desG rers der Kraft der dreyeinigen gantz vollkommenen Gott⸗ beit. (3) Eins wird genant das Geistliche lebendige Wesen, der Geist, das Leben, der Ausgang, in und gus dem Vaͤterlichen, Soͤhnlichen Wesen, Kraft, Wort, oder Eräftigen Wort der dreyeinigen gantzen Goͤttlichen
+
+Sülle des Vaters und des Sohnes, oder im Vater und dem Sohn, der gantze 5. Geist und ewiges Leben in Kraft und Wort, vater und Sohne, der gantzen dreyeini / gen Gottheit.
+
+Und diese allerbeiligste dreyeinige Gott beis, Rraft, Wort und Leben, Vater, Sohn a
+
+⸗
+
+[p. 98] PP:
+
+Ef Stiefels und Ez. Meths.
+
+sind und bleiben von Ewigkeit in Ewigkeit unzertrenn⸗ lich Eins, vor, in, und nach der Geburt, ein ewiger
+
+Gott und ein einiger Err über alle, und durch alle, und in allen, so Glauben und Vertrauen in Goͤttlicher Wir⸗ ckung und Regierung darein setzen; Und dieser dreyeini⸗ ge GOtt ,Kraft, Wort und Leben, Vater, Sohn und
+
+Geist in ewiger Einigkeit, hat ihm das Mittel seines allerheiligsten Wesens von Ewigkeit /dasWort zum Soh⸗ ne und Glantz seiner ganzen Goͤttlichen Fulle geboren, und zuseiner allerheiligsten dreyeinigen Gottheit hoͤch⸗ stem einigen Lob und Ehren gezeuget, und zumallerhei⸗ ligsten, herrlichsten Thron, Glantz und Ebenbilde feiner gantzen heiligen, Goͤttlichen, dreyeinigen Fulle und uns Asp indlichen Vestung dargestellet, in der Liebe der
+
+Goͤttlichen Stimme, in und an der Gottheit der gantzen Goͤttlichen Fulle, welche der dreyeinige hochgelobte Sott Ibm und feinem Voͤterlichen Wesen, in und mit Wort und Geist in ewiger Ewigkeit zum Weibe und
+
+Mutter feines eigenen dreyeinigen Wesens, feines Sohns und Worts von EwigkeitinEwigkeitinund mit Ihm selbst getrauet, und zur ewigen Geboͤrerin vereinigt und verlobt, zu, ig gen Goͤttli und mit diesem allerheiligsten dreyeini⸗ esen, zu ewiger Einigkeit, ist diese allerheiligste Geburt Gottes, Christus von Ewigkeit IE sus,der dreyeinige hochgelobte Gott alles dasjenige selbst, was der gantzen Gottheit in ihrem hoͤchsten Lobe vnd Ehren von Ewigkeit zugeschrieben und zugeeignet worden, auch in sich selbst zur ewigen Bestaͤndigkeit eis genthuͤmlich verbleibt, nemlich die ewige wesentliche, ewig bestaͤndige, unveraͤnderliche Liebe, Gerechtigkeit,
+
+Weisheit, Warheit, Barmhertzigkeit, Demuth, Gedult,
+
+/eiligkeit, Reinigkeit, Unschuld, und in Sum⸗ Langmuth ma alle Tugenden der Gottheit, so durch Kraft, Wort und Geist den allerheiligsten dreyeinigen GGtt von Ewig⸗ keit in Ewigkeit koͤnnen und mögen ausgesprochen wer⸗ den; ja alles was gut, nutzbar und dienlich im Himmel und auf Erden kann genant, und mit dem dreyeinigen Gott erkennet werden: Das ist diese allecheiligfte Ges burt G ttes selbstaͤndig, wesentlich von Ewigkeit in alle eit.
+
+Was
+
+[p. 99] 256 Xl. Vom Irrthum der Secten Was aber nun fuͤrs dritte dieser allerheiligsten dreyei⸗ nigenchoͤttlichen Geburt ihr Thun und Wirckung vor dem
+
+Fall des Menschen gewesen, hievon zeugt die z. Schriftan vielen Orten hin und wieder, daß durch diese allerheiligste dreyeinige Geburt GOttes, Christum Icksum, nicht al⸗ lein alle Creaturen, Himmel und Erden, und alles w drinn lebt und schwebt gemacht und hervor komm
+
+Sondern diese allerheiligste, dreyeinige Geburt G0 auch in sich selber Mit⸗ Schöpfer, Gebärer,x bringer, Wircker, ja selbst in der Erschaffung — len, und wirckliche, wesentliche, selbständige,Thun, sa Alles in Allem gewesen: So nicht allein aller Creaturen wie sie Namen haben moͤgen sondern auch Engel und ö Schöpfer ewiger Vater und r was nun farsvierte diese allerheiligste Gebuet und
+
+Sohn Gottes, die gantze Fülle der Gottheit, nach
+
+Fall des Menschen worden, und hinfort nun zuewigen Jeiten sey und unveränderlich verbleibe; hievon meldet das Jeugniß der %. Schrift an unterschiedlichen Orten sehr viel, daß diese ewige, Goͤttliche, dreyeinige G und Sohn der dreyeinigen Gottheit, zum Trost dem tzen Menschlichen Geschlechte, Erloͤsung und Erneue⸗ rung desselben, nach ihrem schrecklichen
+
+Fall, Verlie⸗ eingeblase⸗ rung aller ihrer von GGtt empfangenen und nen Herrlichkeit, in feinem heiligen Odem und Nenovi⸗ rung /Wiedergebaͤrung und Verwandelung /aus dem tod⸗ ten verdammlichen Wesen des Satans, in das heilige, un⸗ verwelckliche, unbefleckte, unvergängliche — gen Gottes, und allerheiligste, herrliche, ewigwä
+
+Leben und Wesen der ewigen Seligkeit, nicht allein des gefallenen Menschen durch den Zorn und gerechten Fluch Gottes, um der Sünden willen, in ewige Marter Qual eingestürtzt, sondern auch alle himmlische und irdi⸗ febe Creaturen, so zum Dienste des erschaffenen — in feiner Unschuld vom Errn verordnet und dargestellet. Deswegen sie auch, nach dem Fall des Menschen, um seiner des Menschen willen, durch den Jorn und Fluch GGttes⸗ in einen unbeftändigen,teüblichen, jämmerlichen,erbäeme lichen Justand, und veraͤnderliches, trauriges, verderbli⸗ es,
+
+[p. 100] Ee
+
+Stiefels Ez Meths-. Wesen kommen und gerathen. Die⸗ ches vergaͤngliches allen zu Crost Seil und Wiederbringung alles herrli⸗ sen — Verlüfts wird dieser ewig aus GGtt ge⸗ r Sohn Gottes, aus lauter Gnade und Barmher⸗ keit, in der Liebe der Goͤttlichen Stimme, damit dieser einige
+
+Gott die gantze Welt mit allen ihren Gebur⸗ ser, dem Menschen und erwehnten himmlischen
+
+Creaturen erstlich zum Erloͤser durch diese Gottheit nicht allein versprochen und verheis⸗ fen, sondern auch lebendig und wesentlich, wircklich und in der Wiedergeburt und Annehmung menschli⸗ leisches und Blutes in dem Leibe der Jungfrauen Tae, Gõbtt und Mensch in einer Person, sichtbarlich, und wesentlich hie auf Erden wiedergeboren dargestellet;
+
+wie denn dieser dreyeinige bochgelobte
+
+·Sohn in einer heiligen, sichtbar⸗ mMenschen lichen /greiflichen Person nicht allein das gantze mensch⸗ liche Geschlecht, alle rechtglaͤubige Menschen, gantz vollkommen durch diese feine heilige Menschwerdung unschuldiges Leiden und Sterben, Auferstehung und ebe, von allen Suͤnden und gantzem Sa⸗ ’ senflifchen und todtem Wesen errettet und auch alle Beruffene, Auserwehlte, Recht; glaubige, so diesem Erloͤser von Sertzen trauen und glau⸗ ben, nach ihrer Erloͤsung von aller Sünde, Ungerechtig⸗ Tod, Teufel, Hölle, und betrieglichen Welt⸗Flei⸗ und Augen-Kuft, auch mit ihrer gantzen Person, ja einem ieden
+
+Rechtglaͤubigen, insonderheit unter
+
+Mann undWeiblichem Geschlecht mitfich selbst, seinem allerheiligsten, vollkommenen
+
+Goͤttlichen Wer in Einigkeit Menschliches Leibes und Seelen gantz verlober, sich vertrauet, vereiniget, und zur unzertrenn⸗ chen Vereinigungin Ewigkeit verbunden in der Liebe, daß Er dieses gantze menschliche, rechtglaͤubige Ge⸗
+
+schlecht insgemein, und eine iede Person Maͤnnliches und
+
+Weibliches Geschlechts insonderheit, sich selbst, sein nes Goͤttliches Wesen und völlige Liebe (so zuvorn
+
+Unglauben nicht feines Wesens und feine Liebe war)
+
+X
+
+Daß
+
+### [p. 101] XI. Vom Irrthum der Secten *
+
+Das nun diese auserwehlte, rechtglaͤubige, heilige Ge⸗ meine ingesamt, und auch eine iede Person insonderheit, in, mit, und durch diese allerheiligste Vermaͤhlung, und Vereinigung mit CHristo, dem dreyeinigen, hoch gelobten GGtt, nicht zwey und unterschiedliche Perso⸗ nen, zwey Wesen oder zwo Liebe; sondern durch, mit und in allerheiligster Vereinigung ein gutes, 1 Wesen, eine Goͤttliches, unstraͤfliches, ewigbestaͤndiges Goͤttliche, eine christliche, eine weise, wahrhaftige mit allen Goͤtilichen vollkommenen Tugenden, Na⸗ men, eine heilige Gemeine GSttes, ingesamt und auch iede Person in derselben, ein Christ, ein GGttes⸗Wensch, ein heiliger, unstraͤflicher, weiser, gerechter, zum — sten Lobe des dreyeinigen, hochgelobten Gottes, €:
+
+sti JEsu, so in ihnen, uͤber ihnen, durch ihnen, und len persoͤnlicher Weise mit feinem allerheiligsten Rae und Samen, das Wollen, Vollbringen, Sinnen, dencken, Wircken, Leben, Reden und alles in allem fentlich, fiebebarlich, geeiflich, innerlich un Aut, und zu ewigen Zeiten ungetrent und unveraͤnderlichb bet, und das Regiment bat und behaͤlt: Nicht allein Simmel zur Rechten Gottes, sondern auch in 4 gung mit allen Gläubigen ingesamt und in, und an ei den zechigläubigen Person, Manns und — feblechts, ein GGtt, ein Christus beisser, und in Ewigkeit verbleibet albie auf Erden, so von einem Ende des Zim⸗ mels und von einem Ende der Erden bis ans andere he17 schet, und in solcher ewigen Bestaͤndigkeit ein ewiger Err in alle, uͤber alle durch alle und an allen wesentlich bleibt und in alle Ewigkeit einig dafür geruͤhmet, ein Mensch⸗Gtt, ein GGtt⸗Mensch, oder ein mensch und mit ihm selbst geebret gelobet und gepreiset wird,
+
+, ein licher guter Gꝙtt, ein Soͤttlicher guter Mensch Aten ein Leib, eine
+
+Seele.
+
+Bis daher der Ausleger.
+
+un
+
+Folget hierauf meine Antwort und Erklärung, dem Leser hoch zu betrachten.
+
+224. Den Spruch Esaid 54. anlangend; e SERIE verwirret, ja gar aus rechtem ordentlichen Ver⸗
+
+[p. 102] Es.Stiefels und Ez. Meths.
+
+standeinein wirrig unverstandig Wesen gefůhretun , ddie ewi⸗ ge Geburt der H. Dreyfaltigkeit mit der Creatur gantz ver⸗ wirret.
+
+Sein Fuͤrnehmen ist, daß er will die Geburt und Ur
+
+stand aller Mesen gruͤnden: Hat sich in die Geburt der Gott⸗ heit geschwungen, und hoch erhaben und GOtt gantz gleich ge setzet und zu einem GOtt gemacht; Verstehet doch so wenig davon, als die Kuhe von der Schelle, die sie traget, ohne daß sie dieselbe hoͤret lauten und klingen. 225. Er raffet alle himmlische und irdische Creaturen in die Verderbung des Menschen, will sie alle in Christo wiederge⸗ boren und erlöͤset haben; Machet also eine jaͤmmerliche in ein⸗ ander gezwungene Verwuͤstung des rechten Verstandes.
+
+226. Er verwirret gantz und gar den Unterscheid zwischen Gott und der Creatur, und zwingts wieder alle Vernunft und Wahrheit ineinander in Eins; setzet den irdischen Men⸗
+
+schen, so er nur glaubet, gantz mit seinem sterblichen Wesen in die Gottheit, giebet ihme vollen Gewalt im Himmel und auf Erden, gantz wieder der Schrift Grund, auch wieder das au⸗
+
+Wesen: Er will alles in allem, ja Gott selber eyn, regieren, koͤnnen, wissen und verstehen; und verste⸗ het doch noch nicht einer Mucken Grund in ihrer Essentz und Wesen, vielweniger den Goͤttlichen uncreatuͤrlichen; Er mas chnu erteinverwirrend Rad, gleich einer Trunckenheit.
+
+227. Solte nun solcher Schein Heucheley gantzlich geglau⸗ werden, so waͤre der allergröffefte Wieder⸗Christ geboren, 1 sich in GOttes Stuhl setzet, und gantz vermessen für GOtt usgiebet und feine grosse Heiligkeit one Mackel, in einer
+
+Unsterblichkeit darstellet, gantz wieder den augenscheinlichen rund aller Wahrheit, und den Menschen der Suͤnden in
+
+GOttes Zorn gantz verbirget, und einen lieben Sohn GOttes in feinem aͤussern, fündlichen Fleische aus ihme machet.
+
+228. Fuͤhret uns dergestalt gantz aus dem wahren Verstan⸗ de, daß wir nicht sollen verstehen, wie und wasserley Gestalt
+
+Christus in uns geboren werde, was der himmlische und irdi⸗
+
+sche Mensch sey: will uns bereden, wir sind gantz und gar, von innen und auffen vollkommen heilig und ohne Mackel der Sün⸗ den, wir sollens nur glauben, so sterbe der natürliche, aͤussere,
+
+sündige Mensch, und werde gantz und gar in Christi Person verwandelt, daß also der Mensch hie in dieser Zeit auf Er⸗
+
+R 2 [p. 103] den gantz und gar Christus sey, der im Himmel zur Rechten Gdttes (wie er sagt)sitze undhie auf Erden ein gantz vollkom⸗ mener GOtt⸗Mensch, von innen und aussen ohne Mangel ne
+
+229. Und fehlet nun an nichts mehr, als daß nur dera Suͤnder, der da gerne wolte Busse thun und glauben, vor dies sem grossen, heiligen GOtt der er seyn will, nie der falle und bitte, daß er ihn zu Gnaden in dis sein Heiligepum pin
+
+Denn er will der Christus in allem seyn, in Goͤttlicher Alls macht und Wesen. Unterscheidet doch keines, was Gott, Christus und Mensch sey; was Creatur, Mensch und GOtt
+
+sey; ihme ist Fleisch und Geist alles eins, darzu die rr keit und Unsterblichkeit. 230. Möchte ich doch gerne sehen, ob er auch was anders ist denn andere Menschen, habe ich doch mein lebetage von nem solchen Wunder⸗Menschen in der Welt pören fagernoch in einiger Historien dergleichen Wunder gelesen:J wahr, wie er saget, so muß er, vermoͤge der Schrift, eben⸗ mal heller leuchten als die Sonne; moͤchten doch die andere
+
+Menschen und Thiere vor ihme verblinden, vor seiner gro1 }
+
+Heiligkeit und Klarheit. 231. Wolte er aber sagen, man koͤnne die nicht an ih hen, wie er denn thut, und dieselbe auch kein Mensch a215 den an ihme noch andern Menschen iemals gesehen hat ;3ı weil ihn noch Hitze und Kaͤlte, dazu Wehethun und Kranck⸗ 5 dringet, ersich auch noch immerdar mit Thiers⸗= leidet, schlaͤsset und wachet /irdische Speise und Tranck im che GOttes brauchet, und auch zum Überfluß in Laͤstern u Vermaledeyen ehrlicher, gottliebender deute lebet. 232. Derowegen werden wir noch gar starck an seinerv fuͤr kommenen Heiligkeit zweifelu, und feine Verwirrung nicht Gottes Stimme aus Gottes heiligem Wesen halten, zuma . N weil wir sehen, daß er noch nichts von Göttlicher und Natür⸗ Fr licher Geburt und ewiger Offenbarung aller Wesen, wie ein aus dem andern urstaͤndet, verstehet; sich dennoch ohne Goͤtt⸗ liche Erkentniß, aus einer blossen Buchstabischen Wissene, die er doch verkehret, also erhebet, und ohne Flügel in die 50 fleugt, ehe sie ihm gewachsen sind. 233. Weils aber ein subtiler, weitschweifiger Irrtbum is damit vielleicht fromme, gottesbegierige Hertzen in Unschu ohne genugsame Ergruͤndung dieser Weitschweisigkeit "az [p. 104] undEz. Meths. Ef. Stiefels verfuͤhret werden; Als soll der wahrheitliebende Leser dieses
+
+Irrthums erinnert seyn; soll auch solcher N ne ausgewickelt werden, daß man den hohen uͤbertreflichen Weise
+
+Sinn, wie er meinet, sehen moͤge; Darneben den wahren
+
+Grund, welcher besser Zeugniß hat und auch mit dem Au⸗ genschein zustimmet, ein wenig eroͤffnen. 234. Nicht eben mit diesem verwirreten Rade zu zancken, noch ihme zur Schmach, sondern wegen der Kinder Christi, Er mit seinem Blute erloͤset hat; ob manches besser wolte
+
+sehend werden, solche Irrthum unterscheiden lernen, und eine
+
+sichere Gewisheit und Erkentniß GOttes bekommen.
+
+235. Anfangs machet er eine grosse Sermon her, wie er wolle aus Christo, dem dreyeinigen GOtt, aus GOttes
+
+Mund und Hertzen, aus allen Heiligen antworten, man soll anhoͤren und sehen, als GOttes unfehlbares Wort; Dies sesist nun genugsam oben erklaͤret, daßes ein Ungrund, und auf solche Weise zu reden ungültig sey, auch keinem Engel noch
+
+Menschen gebuͤhre.
+
+236. Anlangend aber den Spruch Esaias 54.5. ister vorne eben fast gnugsam erfläret worden; doch um des Lesers willen will ich noch etwas deutlicher setzen. 2237. Der Prophet Esalas redet albie in feinem Verstande nicht von einem Manne sondern Gleichnißweise, wie der Same zum Menschenim Manne lieget, daraus der Mensche enbar wird: also ist alles, ja alles was offenbar ist, in dem ewigen Manne, als in dem Gebaͤrer aller Wesen gele⸗ gen; vornemlich aber des Menschen Leben, welches er dem ffenen Bilde, nach aller seiner Wesenheit Gleichniß, ‚and aus allen feinen ausgehauchten Wesen eingeblasen hat, wie Johannes 1: 4. saget: Das Leben der Menschen war Ihme.
+
+2238. Doch nicht zugedencken, als ob das eingeblasene Les ben der Menschen allein der Geist GOttes in Goͤttlicher Hei⸗ und Allmacht sey: Nein, sonst so das ware verdorben, ligkeit als denn geschah, so wäre GOtt verdorben; sondern ein iedes
+
+Leben ieder Ereatur, wird der Creatur aus dem Urstand ihres
+
+Wesens gegeben. 2230. Nun ist das Wesen des Menschen aus dreyen Princi⸗ pien, als aus der Ewigkeit und Zeit /gegeben worden; Als aus dem Wesen und Qual der Su 7 aa band,
+
+R eus, welches inne Bit ie [p. 105] die Natur, als sulphur, Mereurium, Sal, am ersten Theil und Principio geistlich, wie ein Regiment und Qual, daraus Wesen wird; Am andern Theil, nach der äuffern Welt leib⸗ lich; im ersten Prineipio feurisch; und im dritten Prineipio aus der finstern Impression irdisch und vier⸗ element isch, und syderisch, von Sonn und Sternen; und vom andern Principio vom Licht und Kraft desselben ausgehauchten und gebornen Wesens, Himmlisch, Heilig und Oelisch, als vom reinen Element und Goͤttlicher Inwohne, auch Pre in Kraft und Hobeit.
+
+240. In dieses geschaffenen Bildes Wesen aus den dreyen
+
+Principien, als aus dem ausgesprochenen Wesen aller Wesen, hat der ewige Geist GOttes den Urstand dieses gantzen We⸗
+
+sens, welcher ein Geist ist aus allen dreyen Principien aus und durch das Wesen ausgefuͤhret, und zum Regierer und Le⸗ ben des Wesens gemachet, als eine lebendige Seele: Das ist ein Feuer⸗Geist aus dem ersten Principio, mit der Wurtzel in der ersten Impression, zur Offenbarung der Gottheit, und in der Finsterniß innestehend, und im Centro des ersten ers der ewigen Natur, mit dem ersten Leben inne⸗gebaͤrend sieben Eigenschaften, daraus alle Wesen sind entstanden: das ist die wahre Feuer Seele aus des Vaters Eigenschaft, darin⸗
+
+GOtt einen starcken, eiferigen G Ott, und ein verzeh⸗ nen sich rend Feuer nennet; aber im Lichte GOttes nicht erkant noch offenbar wird, sondern ist nur die Ursache der Freudenreich. 241. Inder finstern Wurtzel, als in der ersten Imprefhion, als im wahren Centro der Natur, ist der Urstand der Sünden und des Bösen; sodieselbe Eigenschaft in der Creatur offen⸗ bar wird, so ist das beben ein Leben des Grimmes und bin Gottes, und eine Feindschaft der Liebe und Sauftmuth.
+
+242. Zum andern, der Geist GOttes hat den Urstand des zweyten Principii Wesens, als das beben, daraus himmlisch Wesen in der Begierde der diebe geboren wird, aus undd dasselbe himmlische Wesen eingeblasen: In welchem Leben die Seele GOttes wahres Bild und Gleichniß, und ein Engel Reiche GOttes ist; welches Leben Adam verschertzte, und im finstern, feurischen und irdischen Theil lebte; welches ben G Ott aus JEsu, als aus der groͤsten Tiefeder Demut in Christo aus sich wieder im Menschen offenbarte.
+
+243. Zum dritten, GOttes Geist hat ihme die Luft,as ussern,
+
+[p. 106] Aussern, irdischen Wesens Seele, aus und durch das irdische Fleisch, als ein Leben des Fleisches der Irdigkeit eingeblasen, welches Leben solte dem heiligen unterthan, und in ihme nur als ein Gehuͤlfe und Werckzeug, in gleicher Concordantz der Hitze und Kalte verborgen stehen, und deren keins im Regi⸗ ment offenbar seyn, sondern das heilige Leben des zweyten Priacipii solte im Sohne (Luft) regieren: Der Sulpbur und Mercurius solten in einer heiligen Kraft, als in Quinta Essentia, im reinen Element regieren,soware das Paradeis offenbar blieben. 244. Also verstehet recht, der Mann, der dieses obgemeldte Besen aus sich gesprochen hat,der hat den Menschen aus die⸗
+
+Das meinte feinem erbornem leiblichem Wesen geschaffen; der Prophet, sagend: Der dich gemachet hat, ist dein Mann;
+
+in ihme liegt alles, wie ein Same im Manne; Aus sei⸗ denn nem Aushauchen ist sein Same (Sohn) offenbar worden. Erstlich die drey Principia , und aus diesen die Creaturen. 245. Der zweyte Vers, Err ZJebaoth ist fein Name. Diesen verstehet der Prophet GOttes, vom ewigen Wesen
+
+GOttes, ausser aller Natur und Creatur, und ausser den Prin⸗ ien, wie sich der ewige Wille der freyen Luft im Ungrunde enbaret, welcher an diesem Orte oder in dieser Gebaͤrung t dreyfaltig heisset, sondern ein ewiger, einiger GOtt, der in sich selber aufsteiget, und aus sich selber in Geistes Weise ausgehet; sich auch durch das Centrum seines Feuers mit dem Lichte und der Kraft der Liebe⸗Begierde, in der Transmutation des Feuers ins Licht offenbaret: welche Geburt und Offenbarung den Soͤttlichen Hall, Kraft und Verstaͤndniß nach Art der fuͤnf Sinnen, als ein eigen Leben, ein Leben der
+
+Liebe, aus dem Feuer offenbaret. 246. Und dieses Leben heisset die andere Person in der Gott⸗ heit, als das andere Principium Göttlicheg Wesens, da sich 1 buchse als das ewige Nichts, in der Stille des We⸗
+
+sens durchs Feuer im Lichte offenbaret, und das Feuer zur Freudenreich machet.
+
+247. Und diese Geburt heisset der Erstgeborne vom Vater, 0 ar baͤrerin, durch welchen der Vater alle Dinge ans geboren und geschaffen hat, was aus der innern geistli⸗ chen, ewigen und aufferlichen Natur in Geist und Wesen ein⸗ j gegangen ist.
+
+248. Alhie wird GOtt recht in Dreyfaltigkeit verflaiben
+
+[p. 107] 64 NI. Vom Irrthum der Secten als der Vaterim ersten Urstande von Ewigkeit im feurischen und finstern Wesen; und ist doch kein Wesen, sondern Geist.
+
+249. Aus welchem Wesen die Imprefion der Natur, als ein inner, ewig, geistlich Sulphur, Mercurius, Sal, aller
+
+Kräfte urstaͤndet, auch alles Creatuͤrlichen Lebens Urstand,so aus der Ewigkeit erboren sind, als Engel und Seelen, und des dritten Principii Geister in der Ausgeburt des innern als alle irdische Creaturen. 250. Im andern Prineipio, da das Licht, Kraft und Bots
+
+stand mit dem Liebe⸗Willen aus dem ewigen Vater erboren wird, heisset Er recht GGtt: Denn der Vater ist im Lichte, em Sohne, in feiner ewigen ersten. Geburt, in der Liebe, offenbar. 251. Und alhie heisset
+
+Er Barmhertzig; und in dem der
+
+Feuer⸗ Wille des Zorns, durch die Transmutatios von der
+
+Pein,in die Liebe und Freude eingebet, heisset Er Jehova und mit derselben Lust des Geschmacks des Durchdringens, ErJEfus, wie solches uns der Geist in der Natur⸗S genugsam zu erkennen giebet, und die Tinctur vom — Lichts⸗Glantz giebet in den Eigen schaften die Farben, als eine Offenbarerin der Kraft.
+
+252. Zum dritten ist der Ausgang der Kraft, als das wahre f Leben, als das Auge GOttes im Vater des Feuers, ve
+
+Vater des Lichts im Erstgebornen der ausgehende Hall, als eine Flamme der feurischen Liebe⸗Begierde, ein er des einAufblaser des Feuers, und steter An ewigen Willens sonen ar vom Brie der . e Aushauchen, des Feuers und Lichts ausgehend als ein stetes da der Vater den Sohn aus sich ausgebieret: so gehet der
+
+Geist, als die Kraft des Halles oder Wortes, im Aushauchen
+
+8e aus: Das ist nun der GOttJehova in der Trinitaͤt. 253. Zum vierten ist das Ausgehauchte, das der Vater im Sohne durch den Hall des Worts oder Stimme aus dem9 Gei⸗ d sie aushauchet, die ewige Weisheit und Allwissenheit: darinne wird offenbar, was Gott in feiner Tieffe sey.4
+
+Weisheit ist GOttes Offenbarung, und des H. Beide . lichkeit, der Leib derH.Dreyfaltigkeit.
+
+254. Dieser gantze Name in einem einigen Wesen ger ret sich durch die Weisheit, und heisset HErr 1 wir keine andere Sprache haben auszusprechen :All 1
+
+[p. 108] SGeist GOttes im Menschen in feinem principio, welcher die Tieffe der Gottheit forschet, der verstehet es in sich; wir aber lallen allein kindisch daran, so viel der aͤussern Zungen erheben möglich ist: und befehlen dieses alhier ieder See⸗ len inihrem Begriff: denn alhie ist kein Anfang noch Ende, weder Ort noch Ziel; sondern die Offenbarung des Ungrun⸗ des in Grund. 255. Anlangend den Vers, den der Prophet dazu setzet: Und dein Erloͤser, der Heilige in Israel, der aller Welt
+
+Soꝙtt genant wird; Mit diesen Worten siehet der Prophet unterschiedlich vor sich, auf Christum, unterscheidet das Wort vom ersten, und spricht: Und dein Erloͤser; auf das mensch⸗ liche Elend sehend als,aufden andern Mann, der uns in sich
+
+solte neugebaren, und vom Zorne GOttes erlösen, daß derselbe oe aller Welt GOtt genant werde. 256. Der Prophet setzet erstlich: Der dich gemacht bat, dein Mann; darnach setzet er: Und dein Erlöser, der BeiligeinIsrael. Den ersten Mann, als den Schöpfer, heisset
+
+Er Err Jebaoth; Den andern, den Erloͤser, und
+
+Beiligen in Israel, der aller Welt Gott genant wird:
+
+Bo: aus dem Zebaoth kommt dem Erloͤser der Name, Er aller Welt GOtt genant wird. 257. Dieser Name urstaͤndet in Jcrsu mit der Bewegniß
+
+2 Di als Christus aus JEsu im Ziel des Bundes offen⸗ wird, als ein GOtt und Richter aller Welt, dem der Va⸗ ter hat e das Gericht der Welt gegeben. Darum soll ofter⸗ wehnter Ausleger nicht den andern Mann, als den Erloͤser in
+
+Istrael, in die Schöpfung setzen. 28. Denn der Prophet saget: Der dich gemacht hat, ist dein Mann, Err ZJebaoth ist sein Name, und dein Er⸗ 2 der Heilige in Israel; den der HErr Zebaoth dem
+
+Mensthen zur Erloͤsung offenbarete, und zum Neu⸗Gebarer gab, der heisset aller Welt Gott: Denn darum hat Ihn
+
+Ot offenbaret, das Boͤse und Gute zu scheiden, als ein Gott er Wesenin dieser Welt; denn alle Propheten haben von iesem Gott Christo geweissaget, daß Er solte im Fleische of⸗ fenbar und geboren werden aus dem ewigen Urstande des Worts, Goͤttlicher, beiliger Stimme.
+
+2309. Diesen soll mir der Autor nicht zum Schöpfer aller f Be fegen :Denn als die n ward, so war Er
+
+Bus
+
+[p. 109] Xl. Vom Irrthum der Secten im Worte der Göttlichen Kraft verborgen. Die Welt ist durchs Wort, daraus Christus geboren ist, geschaffen worden. Johannes sagtim 1. Cap. 1.2. Im Anfang war das Wort;
+
+aget nicht, Christus, sondern, alle Dinge sind durch daß vr 1 85 ohne dasselbige ist nichtsgemacht, was ges
+
+Mr. macht 260. Obwol alles, was vom Wort geredet wird,5 0 mag von Christo verstanden werden; ist doch zu unterscheideden, daß man weiß, was G Ott und die Person Christi ein iedes im Amt ist. Dieser Autor kochets alles unter einander, daß man nicht verstehen kann, was iedes Amt und Wesen sey: wo der Urstand des Worts und der Person Christi soll unterschie⸗ den werden; was Gott und Creatur sey: Er beschleust die 5
+
+S oͤpfung unbillig in Christo; Er solte das Ende der welt in Christo beschliessen, nicht den Anfang: Obwol⸗ e Worte von Ewigkeit gewesen, hat Er doch nicht Ch sondern Jehova oder JEsus geheissen: Um des Menschen dieser Welt willen hat JEsus den Christ aus Amate ene und solchesin der Zeit, und nicht von Ewigkeit, aber in Em keit, als einen Hohen e und Koͤnig des Wensches g Lana cher ein Fuͤrste GOttes ist.
+
+261. Anders gebührt uns nicht von Ihme zureden; D unn Er hat selbst in dieser Welt nicht anders von sich geredet, und alle Gewalt seinem Vater zugeschrieben. Er sagete ja: Er wäre ausgegangen von GOtt, und kommen in die Welt; Jo h. 16:28. Das ist ja in der Zeit geschehen, nicht von Ewigkeit, ob Er wol in der ewigen Goͤttlichen Geburt gewesen, hat Er sich doch nur in der Zeit aus GOtt in der Welt geoffenb aret; Nicht in der Schöpfung aller Wesen. So ist Christus a nicht der Engel Heiland und Erloͤser; sie doͤrfen keinen, ind ö E. die Teufel haben keinen.
+
+262. Weniger hat Christus alle himmlische und irdisehe Creaturen erlöfet, wie Autor tichtet: denn die himmlische dürfen keiner Erlösung, und die irdische sind nicht ins ewige Leben geschaffen: So sind auch die irdische Creaturen jetzo gleich so böͤse, als vor Christi Leiden und Tod; die Erde ist auch noch im Fluche.
+
+Wird derowegen dis allwissende Wort ig * an diesem Orte sehrirren. 263. Ob zwar von Erloͤsung der Creatur in H.PR dacht wird, wie sich alle Creatur neben uns sehnet,7 v .2 [p. 110] ad
+
+Eitelkeit
+
+Es. Stiefels und Ez Meths.
+
+los zu werden, und daß sie Christus erlösen soll;
+
+hats doch nicht den Verstand auf Ochsen, Kälber, Wölfer Zaren und andere Thiere, sondern auf die Cid; da die Eitelkeit des Fluchs GOttes das schoͤne Paradeis, als das gut Theil, vom reinen Element in dieser Welt Wesen, in sich gefangen halt: das soll der Richter Christus in der Einernte scheiden, und die Spreu allen Teufeln und Gottlosen Mens
+
+schen zum Besitz geben; Die Creaturen sind noch nicht erloͤset, seh nen sich— alleweil ins Mysterium einzugehen, daraus sie gegangen sind 264. Es ist nur ein irrig Gedichte, das wieder den augen⸗ scheinlichen Grund lauffet, gleich einer unsinnigen Truncken⸗ heit: Auch so ist der Schlangen ⸗Treter nach des Autoris Mei⸗ nung im Paradeis nach dem Fall nicht den Thieren und irdi⸗ hen
+
+Creaturen versprochen worden: Er kanns nicht bewei⸗ fen, ober sichgleichwol auf die Schrift beruft, ist es doch falsch; nichts in solcher Meinung in der Schrift. Dei — 265. Derowegen ist nicht zu dencken, (weil er falsch redet)
+
+dere und allein aus GOtt rede; Wer ihme glaubet, ist n. Autor setzet diese Wort von der Wiedergeburt i: Damit dieser drey⸗ einige GGts die gantze Welt t allen ihren Geburten ꝛc. bis dahin: wiedergeboren Antwort: Christus hat keine irdische Cre⸗ r te en, ausser den Menschen, wiedergeboren: und weil nun y Autor alda klar alle Creaturen, sie sind gleich wie sie wollen, el und auf Erden, in die Menschwerdung Christi, in feine Erloͤsung einschleust, und klar sagte: Greiflich 1 ans Wezel alhie auf Erden; daran man ja erkennen „wes Geistes Kind dieser Autor sey; Nemlich ein trun⸗ ner vom Gestirne; Vielleicht auch dazu vom boͤsen Feind:
+
+= dem Leser zu erwegen gegeben wird, mit Bitte, wolle diesem Autori bessern Sinn geben, von solchem um abzulassen, daß nicht Christi Kinder bethoͤret
+
+Er saget auch: Gott habe uns in Christo gantz, albie auf Erden von aller Suͤnde und Fleisches⸗Lust, vir nur glauben, ja vom Teufel, Tod und aller Unge⸗ igkeit, erloͤset, ꝛc. Resp. Ich verstehe es auch also: Aber dem Willen, der in Christum eingehet; Der aber im
+
+Wahn
+
+Selbheit lebet, der ist noch nicht Aden.
+
+[p. 111] NVom Irrt hu Sect men er süͤndiget taͤglich infich, bis der Tod die Sünde und Quall vom Glauben und guten Willen abschneidet. ir 267. An diesem Orte solte er auch unterscheiden vom i Gei schen boͤsen, und vom himmlischen guten Willen und So fasset er allesin Christi Erlösung, aufdaß er sagen möge, habe keine Sünde, und sey GOtt in Christo; Aber der irdi Balg ist nicht Ebrifki, sondern der Erden und des Todes bis e
+
+stirbet, und das Suͤnden⸗Leben uͤbergiebet. 268. Daß er aber saget, der Rechtglaͤubige seymit Chri.
+
+sto Ein Wesen, das sage ich auch doch nach dem innern Men⸗ schen und Seelen: Das Suͤnden⸗ Haus ist so lange von Chri sto geschieden, als es suͤndigt: wenns aber der Suͤnden abstirbt alsdenn stehets in der Ruhe zur Auferstehung und Wieder⸗ bringung.
+
+269. Waser auch für Tugenden dem glaͤubigen Menschen ebe solche alle hat nur einig und allein der Mensch; der aͤussere thut nichts Guts freywillig, 2 zwinge ihn denn dazu, wie sichs am Autore selbst bew wird.
+
+Er soll es klar unterscheiden; sonst giebet man i keinen Glauben wieder alle Vernunft und e Ich lassemich beduͤncken es werden mehr Christen seyn, als sie muͤssen sich doch alle für Sünder bekennen, weil gese stehet: Es werden dich alle Heiligen um Vergebung der Sünden anruffen; (rl. 32: 6.) Ist sich derowegen wol wi dencken.
+
+270. Das er aber saget :Christus sey inden Gläubige Di alles, das Wollen, Vollbringen, Sinnen, Gedencken, den, Leben, Reden, und alles in allem wesentlich, 2 lich, greiflich, innerlich und aͤusserlich: Solches ist keiner Wahrheit aͤhnlich; Thut der Mensch was Gutes, aus inner⸗ lichem Trieb, das ist wol aus GOtt; er thut aber auch vie Boͤses aus des Fleisches Lust, und des Teufels Anraͤ en: as thut nicht Christus, sondern der aͤussere fündige Men mit Worten, That oder Gedancken. 271. Weiter sageter viel von r icht fündigen können. Ich glaube nicht, daß ein ade der Welt sey: Er ist selbst ein grosserSünder, und ein fpöttift hoffaͤrtiger Mensch; Ich glaube, er sey in Sünden gar trun n,ersich nicht kennet. Ich weiß wol, daß uni ckedaß Menschen, wo Er inne wohnet, nicht fündiget ;30
+
+[p. 112] Es. Stiefelsiund Ez. Meths.
+
+fleischlicheMensch suͤndiget taglich: er kann nicht von einem Meer zum andern herrschen; Christus kanns wol, aber der
+
+N enfch nicht. er ist nur ein Werckzeug; und duͤrfte des Aus⸗ streichen des Menschen nicht den zehenten Theil so viel. Er st doch nur am aͤussern ein stinckender Madensack, voll
+
+St tancksund boͤser Lust, einer wie der ander. Folget der Spruch 1. Cor. U: 12.
+
+#### U. Wieldas Weib vom Manne, also auch kommtdet
+
+Mann durch das Weib, aber alles von Gott. 272. Hievon fegt der Autor vier Functa mit nachfolgenden . li wird vornemlich erfodert:
+
+' Was das Göttliche gute Weib sey, so von Ebeifto ib. genen Haren, Manne und Gott kom̃e und ihren "sung nehme, nach Goͤttlicher menschlicher Weise?
+
+29595 5 und auf was Weise und Art sie von ihrem GGtt nd Manne herkomme?
+
+Re auch der Mann GOTT, Christus, durch
+
+0 04325auch dieser weibliche Mann, oder münnli ches Weib, in Ewigkeit eines aus der Goͤttlichen mensch ichen Einigkeit komme, und seinen ewigen Anfang in Gott ohne Ende babe, und 575 Aufhoͤ⸗ ren in n mit und in Gott in ewiger Einigkeit te?
+
+as nun das Goͤttliche gute Weib, so aus Christo ih⸗ einigen BErrn, Manne und Gchtt kommt, und aus
+
+Ihm ihren Ursprung nach Goͤttlicher menschlicher Weise Hat, ist dasselbe Ein glaubiger Leib und Seele, oder de r glaubige Seelen⸗Leib in unzertrennlicher, unaufhoͤr⸗ licher Einigkeit: nicht aus dem verderbten Wesen des gefallenen Adams und nacketen fleischlichen Lust und Her derben des gantzen Wesens des gefallenen Menschen ezeuget und hervor zu Lichte kommen und sichtbar wor⸗ en; sondern durch Christum den dreyeinigen, hochgelob⸗ en Gott und Wann, aus dem Goͤttlichen dreyeini⸗ g en Wesen von
+
+Ewigkeit geboren, ist es ein gantzer euer, durch den Glauben zubereiteter Goͤttlicher guter
+
+sch an Leib und Seele soaus Christo, dem Ebenbilde [p. 113] des gantzen Goͤttlichen, dreyeinigen, guten Wesensjadurch ihn selbst hervor kommen, und in der Welt dem Glau⸗ erfcheinend,wi ben und im Glauben e greiflich, offenbar worden;Ein rechter, guter, Goͤ cher, heiliger, glaͤubiger (allenRKechtglaͤubigen sichtbar⸗ licher, begreiflicher, der unglaͤubigen, gottlosen, ver⸗ derbten, in Sünden verharrenden Adamisthen Welt, aber unsichtbarlicher, unbegreiflicher) Mensch, aller guten, heiligen, Goͤrtlichen Eigenschaften, in und mit christo dem0 dreyeinigen hochgelobten GGtt /ihrem Manne,in unzertrennlicher Einigkeit wircklich und wesentlich tl baftig, und feiner Art und Eigenschaft nach, ein sichtbar⸗ licher, heiliger, rechtglaͤubiger ,Goͤttlicher guter Menseh.
+
+Gegen⸗Antwort auf den 1. Punet.
+
+273. Einen klaren Beweis am auffern,fi chibaren, wircklichen und greiflichen Wesen wollen wir gerne sehen weil sichs noch a keinem Menschen sint Adams Fall bewiesen hat; Autor aber einem sichtbaren, greiflichen, wircklichen Wesen redet, das Goͤttlich vollkommen, und ohne Macul der Suͤnden sey das heilige, unstraͤfliche Wercke in GOttes Liebe⸗Willen wirck:
+
+274. Nun redet die H. Schrift an keinem Orte von ein solchen Menschen, daß ein solcher nach dem Fall sey, der ga heilig und ohne Macul geboren worden; Sondern 8 sie ohne Unterscheid alle unter die Suͤnde, nach der S
+
+Sie sind allzumal Suͤnder, und mangeln des Ruhms, BR an EDtt haben sollen. 275. Dennoch weil der Autor sich dafür ausgibt, daß e er Alf gantz und gar GOtt in Christo, und das herrliche! orbilv dieser neuen Braut Christi sey; Gleichwol auch kein Wei ch so vielihrbey ihme gewesen, sagen kann, daß er etwas ans ders sey, als andere süͤndige Menschen; und wir dergestalt feiner Aussage gar nicht versichert sind: So begehren wir at ihn, daß er dasselbe kraͤftig und wircklich erweise; Daß mat kann mit Wahrheit sehen, daß GOtt habe was sonderliche 8 ar ihme gethan, und deme also sey wie man saget; weil wir uns noch allesamt in keiner solchen Vollkommenheit befinden, und von unserer fleischlichen Geburt also nicht sagen koͤnnen.
+
+wir würden vor GOtt als Lügner erfunden, so wir Dp tet
+
+Ihnkommende sagten: Wir waͤren beilia, und gantz gerecht von Mutter⸗Leibe kommen; und so Er uns pruͤfete, und noeh Ott Mangel an uns befande, möchte Er uns das nicht gelten 8 276. Im tterss Utter tel A tte aa lirtt ter AIJIELE
+
+[p. 114] ER StiefelsiundEz.Meths.
+
+276. Im Vater⸗Unser lehrt uns Christus Gott bitten, führe uns nicht in Versuchung. Denn so Er uns versuch⸗ te, wuͤrden wir nicht rein erfunden werden, und duͤrfte auf Esaia Wort kommen: Von der Scheitel bis auf die Fußsolen istnichts gesundes an dir, sondern eitel Wunden, Striemen und Eiter⸗ heulen, so nicht mögen geheilet werden. (Jel. 1 6.) Christus hätte auch feine Juͤnger vergebens lehren bitten: Vergib uns unsere Schuld; so sie keine gehabt haͤtten. 277. Dazu findet man von der Welt hero in dem Alten und Neuen Testament, wie oft sehr fromme Leute haben böfe Kin⸗ der gezeuget; Daß ohne zweifel dieMoͤglichkeit noch bey kei⸗ nem gewesen, der blos allein aus Christo hat Kinder gezeuget, wie dieser Autor.
+
+278. Ich möchte doch fein Weib und Kinder gerne sehen,ob sie auch ein andere Haut anhaͤtten, weil sie so heilig sind: Ich habe mir gleichwol lassen sagen, wie sie zum Theil ziemlich un: beschnitten sind. 279. Wäre aber ihre Heiligkeit uns verborgen,soware das ein guter Rath, daß man dieselbe alleine hielte, daß sie sich nicht mit den fündigen Adams Kindern mischeten, sondern ihnen selbst und eine neue Welt anrichteten; So wuͤr⸗ Kinder zeugten de man dasselbe Volck billig Zion heissen, und eine Ehestatt, und sagen: Hie ist der HErr. Weil sichs aber im Werck, in Kraft, und veben noch nicht beweiset, werden wir dieser Braut noch nicht genug versichert seyn; Denn ein gutes Geschwaͤtz ohne beben sichert uns nicht.
+
+280. Daß er aber saget: Man koͤnne das heilige Volck nicht sehen,ist fast wunderlich geredet; Ließ sich doch Christus nach seiner Auferstehung im Fleische sehen: Sollen wir nun ohne Kraft des Beweises glauben? Weils ohne Grund der ist ist, wils uns fast schwer seyn. 281. Wer versichert uns dessen? Weil Sanct Paulus sagte:
+
+So alsdenn ein Engel vom Himmel kaͤme, und braͤchteein ander als er / der solte verfluchet seyn (Gal. g.) Und hat uns gleichwol in feinen Episteln unter die Suͤnde beschlossen; Gal. 3: 22 uns auch vom zweyfachen Menschen gesaget: Daß, Der fündige, thue nicht ers, sondern die Suͤnde im Fleische. Item: Er diene mit dem Fleische dem Gesetze der Suͤnden, dem Willen aus Christo Ott. (Rom. 7:20. 25.) Dazu sag⸗ teSanct Petrus: Mir istgefager, daß ich diese irdische Huͤtte 282. So (2.Petr.: 14.) ablegen soll.
+
+[p. 115] X Vom Irrthum der Secten
+
+282. So koͤnnen wir dieser gantzen heiligen Vollkommen⸗ heit auf Erden, von aussen und innen im gantzen Menschlichen Wesen ohne Empfindlichkeit, nicht versichert seyn: ob dieser Mensch schon also von sich redet, glauben wirs doch nicht, er versichere uns denn in Kraft: Denn es moͤchte vielleicht bey ihme nur eine solche Einbildung seyn, und nicht im Wesen: So waͤren wir ja albere Gecken, daß wir uns ohne Grund und Si⸗ cherheit liessen also stoltz vor GOtt führen, als hätten wir keine Schuld. Ich meine ja, es wäre eine Demuth vor GH, wann ein stinckender Suͤnder vor GOtt traͤte und sagte: Ich bin Heili/gundbinGOtt selber in Goͤttlicher Allmacht ich , kann ar 2 noch suͤndigen. /n nicht irre sey ein es, 283. Lieben Brüder !sehet zu, es fehlet nicht weit neuer Anti⸗Christ geboren.
+
+Teutschland hats gewiß mit se daß man also sicher unter Christi Purpur Man⸗ ner Sicherheit tel lebet, uns mit Christi Leiden kitzelt, und den Menschen Suͤnden darunter nur maftet, verursachet: Und ist dieses ein gewiß Bild der menschlichen Sicherheit, daß wir uns Gute Christen ruͤhmen und sagen, wir sind Christi Kinder, dazu lig, und wollen von andern Voͤlckern unterschieden seyn weiset uns GOtt an diesem Bilde, daß wir mit dem vor Ihmegeschmuͤcket stehen: Aber der Geist ist ein falscher Mann.
+
+284. Wie dieser Autor saget: Wir sollen uns nur hei i nennen, und den iroischen Namen verleugnen, und gläuben, wir sind keine Sünder ‚Jondern GGtt in Ch selbst, gantz heilig geboren
+
+285. Und wenn diese schein⸗ heilige Welt entstehet, so i Erkentniß der Sünden gantz todt; Ob uns Gott würde digen, so wuͤrde der Heuchler wieder GOtt Murren, und I Er thaͤte ihm unrecht; Alsdenn ist die Feindschaft wie G Ott geboren, und die Sünde gantz blind: Kein Mensch wu sie mehr von der Sünde, ob wir gleich gantz fündig vor HOF waͤren; So ist alsdenn die Zeit davon uns Christus
+
+Meinest du auch wenn des Menschen Sohn kommen wird, i Er werde Glauben finden auf Erden? Luc 18: 8. 286. Es ware kein Glaube in Kraft, sondern nur eitel G. be einer Historien, daß wirs nicht sollen glauben, so uns jema der Sünden beschuldigte; Also ware ein fein sicher Zi Leben: Was wir dann immer thaten, das waͤre alles [p. 116] ware keine Sünde in der Welt geachtet: Niemand wolte ges
+
+sündiget haben; Es muͤste alles Christus thun, ob mancher ich gle ein Dieb waͤre; auch waͤre keine Obrigkeit noch Regi⸗ ment mehr nuͤtze, denn Christus regierte alles in allem: Wo keine Suͤnde ist,daist auch keine Straffe; So darf man auch keinen Herrn, der darichte: Denn ieder richtete sich selber, und waserimmer thate, das thate GOtt durch ihn. Welches zwar ieder das Englische Regiment, auch wieder das Regiment der innern und aussern Natur liesse. 287. Ich vermahne alle Leser feiner Schriften gantz treu⸗ 5 4 77 ein Bruder, um unsers ewigen Heils willen, doch nur fleißig zu erwaͤgen, was hinter diesem heiligen Ausgeben verborgen sey, und wie uns der Teufel gedencke mit einem en Retz zu sahen; Weil er siehet, daß ihme fein Rauchloch enbar wirda will er uns nun gantz von der Sünden Erkent⸗ en: daß wir sollen gantz sicher werden, und keine e mehr verstehen: Vermeint uns anietzo in unserm si⸗ chern böfen veben, das wir haben fein gelernet mit Christi Pur⸗ zudecken, gantz in die Sicherheit von der Bes f . tniß der uͤnden einzuführen, und alle zu sahen.
+
+2888. Mercket doch, lieben Brüder tund kehret um von der
+
+Sicherheit ; Erkennet euch nur für den verlornen und wieder⸗ kommenden Sohn zum Vater, und saget immerdar, ihr habet euer Erbe schaͤndlich verthan: Und daß euch der Vater wie⸗ 2” Sohn angenommen, das sey aus Gnaden geschehen: Ber det ja nicht wieder stoltz, saget nicht zum Vater: Theile mit 18 das Erbe; Bleibet nur in der Demuth unter der Knecht⸗ ft ein Sohn, wie uns Christus in feinen Gleichnissen hat gestellet. Wird GOtt was Neues mit uns machen wollen, wirds wol mit Kraft offenbaren: Worte ohne Beweis ncken unszuwenig zu solchen Sachen, daran die Seligkeit lieget, zu fepn.
+
+77 Nun mercke der Leser den wahren Grund, was Adam & 43 in Einer Person sey, und welcher Mensch ohne nde sey. 2090. Der Königliche Prophet David war ein Mann nach Goes Hertz, wie die Schrift von ihm zeuget, in welchem der ft Gottes war, und von Christo weissagete; Aber er in Suͤnden bin ich geboren, u in Suͤnden empfing mich [p. 117] wer
+
+XI Vom Irrthum der Secten mich meine Mutter; welches sich auch in ihmeoffenborete, daß er n ben dem geistlichen Menschen auch einen fundigen in
+
+sich hatte, welcher ein Moͤrder und Ehebrecher war; wie denn an den Ertzvaͤtern dergleichen zu sehen.
+
+291. Wer wolte aber von David sagen, er waͤre nicht
+
+Heiliger gewesen, weilerein Mann nach GOttes Hertze und ein Prophet des Hoͤchsten? Wer wolte auch sagen, sein Mord und Ehebruch ohne Suͤnde sey? Der Mann der in David ein Prophet war, der war kein Suͤnder: der aber ein Moͤrder warder war ein Sünder, und war doch nur ein eini⸗ ger Mann in Einer Person, aber in zwo Eigenschaftenh lisch und irdisch: Der Geist GOttes redete von zukuͤnf
+
+Dingen, und von Christo aus der himmlischen Eigenschaft und die fleischliche Begierde, in welche der Teufel feine de einfuͤhrete, redete aus der irdischen Eigenschaft, aus dem irdischen verfluchten Leben, als aus Mord und Kuna Fun 292. In allen Menschen lieget das Himmels⸗Bild, wel
+
+Begiek⸗ in Adam verblich ;aber in einem lebts, im andern ists unleb⸗ haft: dasselbe Himmels⸗Bild, als das andere Principium ist darinnen Christus empfangen, und aus JEsu geboren wir
+
+Denn G Ott istan allen Orten, aber nicht in allen Dingen of⸗ fenbar; So er sich aber in dem verblichenem Wesen offenbar et
+
+so ist Christus geboren,derwohnet in seinem Principio; Und der irdische Mensch des irdischen Theils im Fluche Got⸗ tes, wohnet auch in feinem eigenen Principio in sich selber.
+
+Der Geist Christt wohnet im innern Wesen des verblichenen Bildes von der Goͤttlichen Welt Wesen, das in Adam. Far:
+
+nie Elementische Geist wohnet im vier elementifchem eische. Na ©
+
+293. Der Geist Christi hat geistlich Fleisch; denn er das geistliche Fleisch, das in Adam starb, wieder zu einem nim
+
+Fleisch ist falsch⸗suchtig .und führet feine Luft wieder den be an, und machts lebendig, der ist in feinem Fleische heil Aber der aussere Geist von vier Elementen in dem Erdene Menschen: Denn der Teufel füchtet ihn, davon die Schrift ale so redet: Das Fleisch luͤstert wieder den Geist, verstehet wieder denzinnern Goͤttlichen Geist, und der Geist wieder das Fleisch, und GOtt orach zur Schlangen im äuffern Fleisch Adaͤ:!
+
+85Sun schastsetzen zwischen der Schlangen und des ame.
+
+Nee
+
+We
+
+294.
+
+[p. 118] | WE
+
+Stiefels und Ez Meths-
+
+204. Das innere geistliche Fleisch isthimmlisch das kann der Teufel nicht besitzen: denn soesdieSeele verläffer ,und das verblichen, und in den Golfen ists als rer ein Nichts.
+
+205. Wenn aber der GottlosesichmitderSeelen Willen zu G Ottwendet.sowirdChristus aus dem verblichenen men ein Mensch geboren, und wird dem Teufel im auffern Flei⸗ sche zueinem Schlangen⸗Treter gesetzet, der des Fleisches boͤ⸗ sem Willen 1 Erste DR Ra nicht 60 gangen wir Di denn eine stete
+
+206. Christus regieret in seinem himmlisthen gteifche des aͤussern eustzuBoden: So durch denaussern,undschlaͤget alsdenn der Zorn GOttes im Centro der Seelen, und kommt will auch fein grimmig Regiment haben, und der Teufel flicht er der falschen Lust darein, und der Elementische Geist ert stets nach seiner Mutter, den Elementen: So fuͤhret der Teufel die Luft empor und drehet die Begierde um; Als⸗ denn an Hand und Maul zu, und thun das Werck der „gt Seher Christus in seiner zarten Menschheit im in⸗ nern heiligen Leibe, und straffet den aͤussern Menschen, dringet auf ihn nimt ihm den Gewalt ‚ftellers ihm unter Augen ins Gemüth daß es Greuel und Suͤnde sey, und treiber ihn wieder zurAbladung dessen, so die Fleisches Begierde hat auf sich ge⸗ laden, als zur Abstinentz und Busse, das ist anders nichts, als eine Wieder⸗Ausgehung aus dem Greuel. Alsdenn bleibet der Greuel dem Zorn GOttes und dem Teufel zur Spei⸗ as ist seine Ergetzung. Aber das Mysterium des Men⸗ stchen wirdin sich wiederfrey. 298. Gleichwie ein Steller auf die Vögel lauret, also lau⸗ retder Teufel auf die Seele; so bald die sich einwenig vergaf⸗ set, fuͤhret er feine Imagination in sie ein, und ruͤget die Flei⸗ Tches 33 da gehet des Teufels Tantz wieder an, mit wel⸗ chem Christus ohne Unterlaß streiten muß.
+
+299. Isteraber im Menschen in der himmlischen Wesen⸗ beitnoch nicht geboren und offenbar, daß das schoͤne Bild noch verblichen stehet ohne Leben: wie es denn in Wahrheit bey den meisten also ist; So wisset dis, daß sich Imma nukl (als der Geist, der sich im Paradeis dem Adam und Heva verhiaß/
+
+⸗icht * trat/ und ihnen rieff, * * 305 ins Lebens [p. 119] bist du Adam?) ins Lebens⸗Licht der Seelen mit grosser Be⸗ gierde entgegen stellet und der Seelen stets ruffet: Sie soll sich zu GOtt wenden und kehren; so will sich JEsus in der ver⸗ blichenen Bildniß offenbaren, und Christum gebaͤren, als ein neu Leben in himmlischer Wesenheit; das ist der wahre Zug des Vaters, davon Christus sagt: Niemand kommt zu mir, der Vater ziehe ihn denn. Joh. 6: 44.
+
+300. Der Vater zeucht die Stele daß sie sollin GOttes diebe und Erbarmen eingehen: und so sie gehet, wird JEsus Christus ein wahrer Menschim verblichenen B ber figet die Thoren der Tieffe; Von denen saget Christus: Mei⸗ ne Schafe kann niemand aus meiner Hand reissen; Job. 10: 28. Denn so Ergeboren ist mag der Teufel wuͤten und to⸗ ben, und den Leib gleich zu Grunde stuͤrtzen; so stehet doch der Held im Streit, und zeucht den gantzen Menschen immer dar wieder aus dem Elende, und richtet ihn vor ihm auf: Der Mensch läuft immerdar wieder zur Reue feiner vom Teufel uͤberhaͤuften Greuel und ladet wieder ab. 301. Anlangend die Empfaͤngniß des Kindes: Daß eines rechten, wiedergebornen Christen⸗Menschen seine Kinder sollen gantz heilig ohne Schuld empfangen werden, wie dieser Au⸗ tor tichtet; das ist Fabel und ein grosser Irrthum, den die Schlange einführet, darunter sie sich will verdecken daß man das Kaͤtzlein nicht kenne: Es wolte gern Heilig heissen; man hats lange Zeit den schwartzen, garstigen, boͤsen Teufel genant: nun wolte es auch gern einmal Christus genant seyn, und ein
+
+Gott.
+
+Aber der Hoͤchste hats aufgedecket, daß wirs sehen und kennen: wollen euch Christlich warnen.
+
+302. Ein ieder Baum und Gewaͤchse bringet eine Frucht wie das Gewächse ist; doch draͤnget sich oft aus sich hervor, der Gift der Natur so hart in die Kraft, daraus der waͤchset, mit ein, daß der Zweig böfe wird, verdorret, oder ja gar ein hoͤckrichter Zweig wird.
+
+303. Also auch mit dem Menschen: Was gesäet wird, das waͤchset; aber GOttes Zorn durchs Teufels imagination, zu- mal, so er mercket, daß die aͤussere Constellation des in den Elementen boͤse if, drengetsich oft mit ein, daß fromme
+
+Eltern boͤse Kinder, dagegen manchmal boͤse Eltern ein fromm Kind zeugen, wie die Erfahrenheit bezeuget.
+
+304. Zu dem Ende hat uns Christus die Kinder⸗ bee befohlen,
+
+Pr
+
+[p. 120] Es. Stiefel und Ez. Meths.
+
+das Kind auf den Namen der H. Dreyfaltigkeitzu befohlen, tauffen; So will Er in diesem feinem Bunde kraͤftig seyn, und mit feiner Kraft das arme gefangene Moder wieder anzuͤnden, und der Schlangen Gift aus des Lebens Licht wieder weg⸗ nehmen, daß der Göttliche Zug offen stehe : Alsdenn bleibet der eingeführte Gift nur im auffern Fleische, der wird hernach in Christo auch zerbrochen, und stehet die Porta aus und ein dem Menschen offen, und heisset alsdenn, wie geschrieben ste⸗ het: Welchem ihr euch zu Knechten in Gehorsam begebet, des Knechte seyd ihr. (Rom, 6: 16.) 1 — Seele hat freyen Willen aus und ein, aber in Christo kann sie sich nicht selber gebaͤken: Sie muß nur aus ihrem selbst eigenen boͤsen Willen ausgehen, und in GOttes Erbarmen eingehen, so fasset sie Christi Geist, welcher in JEsu indes Lebens Licht ist der Seelen entgegen gestanden, in seine und gruͤnet in seiner Begierde in der ver⸗ Arme der Begierde, blichenen Wesenheit vom reinen Element des Himmels aus, 155 neu beben aus dem Tode, das ist Christus, Mensch und tt.
+
+306. Merckets wol ihr Leser! Pruͤset in H.Schrift inwen⸗ dig und auswendig; erlernet die Wahrheit: Befindet ihrs nicht inder Wahrheit aus Christi Geist, so sollet ihr ihme kei⸗ nen Glauben zu stellen. 307. Wir aber habens im Ternario Sancto gesehen, und wissen was wir schreiben. Ich aber bin ein Kind, dessen Ver⸗ and am Gaumen meiner Mutter haͤnget: Und habe keine t, noch Verstand, ohne was mir die Mutter giebet; Ich liege in Ohnmacht, als ein Sterbender: Doch richtet der 5 mich mit feinem Odem auf, daß ich gehe nach feinem 308. Und vermahne euch Christlich, wollet doch den Eifer rer selbst Seelen⸗Wolfahrt verstehen; habe genug zu so ich euren Odem erlange, und mich in euch ergruͤnen Lohn,und euch mein Leben geben mag; was soll ich euch mehr
+
+Kohn, mag, ehen? Nehmet das Geschenck an, behertzigets wol, nicht in inung alleine; fuͤhrets in Odem GOttes ein, probirets in Leib und Seele, nehmet davon die Lauterkeit, die Affecten lasset fahren; sie sind nicht das Perlein, sondern dem Sünder zur Scham gesetzet, auf daß der Boͤsewicht aufgehoben werde, und nicht im Fleische stoltzire: Nehmet 8 das reine Oel 855
+
+### [p. 121] XI. Vom Irrthum der Sedten
+
+Heilung: das andere greift der Seelen Wunden nicht an, son⸗ dern nur die Wunden im aͤussern Menschen. Bitte, der Leser deutees nicht anderst, als es seinen wahren Grund hat.
+
+309. Was nun der Autor vom guten Goͤttlichen Weibe das nicht von Adams fuͤndigem Fleisch und boͤsen Lust redet das den heiligen Menschen empfahet und gebieret/ wel⸗ entstehet cher Christus ist, GOtt und Mensch; das glaube ich auch: ist wahr; Sein Verstand aber iffirrig, indem erverstehet au dem äuffern Menschen, und will eine gantze Frausmutstion des aͤussern im innern in dieser Welt haben.
+
+310. Das gute Goͤttliche Weib ist das himmlische Bild, als das andere Principium, das in Adam starb: in dasselbe verblichene Wesen schlaͤget der Vater aller Wesen den Fun cken seiner Goͤttlichen Kraft, so es ist, daß auch die im Zuge des Vaters darnach hungert; alsdenn hebet der und ist erst klein, als ein Senfkorn, Funcke an zu glimmen, wie Christus saget: Und so die Seele beharret, und ihren Willen und Hunger stets in das glimmende Tocht Man ret, so blaͤset sie das heilige Feuer in ihrer Begierde auf, daß es sehr glimmet; davon die Seele grossen Hunger bekommt.
+
+Verweget sich nun die Seele ihrer Selbheit, und Me den Falsch des Teufels gantz weg zu werfen, und in
+
+Streit mit ernstein Gebet und Einergebung in das Liebes
+
+Feuer eingehet, so ergreift das Liebe Feuer der Seelen⸗Be⸗ gierde, und wird ein Feuer im andern entzündet. Denn die Seele ist des Vaters Feuer, und das gefaete Liebe⸗Feuer des Sohns Feuer: Jetzt kommt der verlorne Sohn, als
+
+Seele, wieder in des Vaters Liebe, und gehet an diegeoffe en,als über daß sich feine Engel freumehr FreudeimHimmel,
+
+99 Gerechten, die der Busse nicht beduͤrfen. 311. An dieser Stelle, in dieser Con junction, nimmt die Edle Zungfean, als das gute Weib, ihren Braͤutigam, die Seele,im riumph der Göttlichen Freudenreich wieder anz gibt ihrem Y
+
+Bräutigam das Perlen⸗Kraͤntzlein nicht gantz zum thum feines Wesens: Nein, es sind zwey Principien; GO bleibet in sich GOtt: Aber das Goͤttliche Licht fuͤhretd
+
+Jungfrauen Geist aus dem Liebe⸗Feuer in das Seelen⸗Feu zündet das Seelen⸗Feuer auch an, daß also der Jungfrauen
+
+Licht in ihres Bräutigams, als der Seelen, Licht scheinet; Ale hie ist Christus in des Weibes Samen Mensch worden, 7 zweyten
+
+[p. 122] Es. Stiefels und Ez. Meths. 279 aus GOttes Licht- und Liebe⸗Welt. Was zweyten Principio, was fuͤr Freude bey dieser Vermaͤhlung und alhie 2 Hochzeit seyhaben wir nicht Morte zu beschreiben, wuͤnschens dem Liebhaber Christi zu erfahren; Der auffere natürliche
+
+Mensch glaubts uns doch nicht, er sey denn selbst bey dieser
+
+Hochzeit geivefen, welche im Himmel und auf Erden gehalten d Den Unsern genug verstaͤndig. 312. Wisset aber: Wie Feuer ein Eisen durchgluͤet, davon es eitel Feuer⸗Quall wird, und bleibet doch in sich selber in sei⸗ nem Wesen einmal Eisen als das ander, und wird nimmer zu
+
+Feuer in seiner selbst Eigenschaft, und ist doch Feuer; Aber die Feuers ⸗Macht stehet nicht im Eisen, sondern gibt nur feine Natur dazu, als ein Werckzeug oder Leib, darinn das Feuer gluͤet: Also auch mit GOtt und der Creatur; Das Feuer, wenns im Eisen gluͤet, bedeut die Seele! wenn sie in GOttes Licht angezuͤndet wird; Das Licht und Schein des Feuers be⸗ deut das Heilige Feuer der Liebe aus der Jungfrau: Die
+
+Kraft des Lichts aber ist der Perlen⸗Krantz, davon in meinen Schriften mehr zu lesen; Den giebet die Jungfrau nicht der als dem Urstand des Feuers, zum Eigenthum, sondern setzet ihme den auf, und drucker ihme den in fein Hertz:
+
+Er kann ihn aber nicht eigenthuͤmlich fassen, wie das Feuer das Licht nicht fassen kann.
+
+313. Doch scheinet das dicht aus dem Feuer, das Feuer hat eine andere Qual als das Licht: Das Feuer ist der Vater, das Lichtistder Sohn, doch zwey Principia in einander. Die
+
+Creatur wird nicht GOtt; Sie bleibet ewig unter GOtt, 9 5aber durchglüet sie mit seiner Begierde des biebe⸗Feuers, als mit feinem Lichte und Scheine: Dasselbe Licht behaͤlt die
+
+Seele, als der Mensch, so lange zum Eigenthum, als der Wille in Gottes Lichte bleibt.
+
+314. Wenn er aber wieder in fein Eigenthum, als im Cen · tro feines Urstandes, in eigene Macht aus der Gelassenheitin die Selbheit eingehet,danimt die Jungfrau diesen Perlen⸗ Krantz von der Seelen weg: Denn die Seele, als ihr Braͤuti⸗ ist ihr von ihrem Gemahl Christo, als von ihrem Liebe⸗ gam, Feuer entlauffen und meineidig worden. Alsdenn gehet die ,indes Teufels Netzim Finstern tap⸗ eele im aͤussern Fleische pen, sucht eine eigene Staͤtte oder Ruhe, findet aber nichts, als des Fleisches viehische Wollust, mit ap ergetzet NUN:
+
+ie
+
+[p. 123] Xl. Vom Irrthum der Secten die Edle Jungfrau ruffet ihr stets zur Wiederkunft: Kommt sie nun wieder, so wird sie wol angenommen; doch wird die ers ste Hochzeit nicht mehr gehalten: Es istwol ein berrlich Bene⸗ veniren, aber der ersten Vermaͤhlung nicht gleich; Reden wir, als wir wissen. 315. Kommt aber der Braͤutigam, als die Seele, nicht wie⸗ der, so nimt Christus sein Kraͤntzlein, daserder Jung zum Leben gab, wieder von ihr, so bleibet sie in seinem Nich ohne Quall als verblichen und der Seelen ewig nicht empfind⸗ lich noch scheinende; Und die Seele bleibtin ihrem Graͤmen, sie des Schadens am Ende des aussern Leibes innen wird, stehet deswegen in ewiger Schande und Spott, daß ne Königliche Crone verloren hat, und ist von GOttes vertrieben, als ein Ubelthaͤter, oder als ein Ehebrecher feiner liebsten Braut und Jungfrauen.
+
+316. GOttes Licht laffer sich nicht im Fleiche fortfäent
+
+Der Moder zum Lichte wird wol gefäet aber in feinem Princi pio inne stehend. Die aͤussere Welt ist nicht GOtt, wird ewig nicht GOtt genant ‚sondern nur ein Wesen darinn
+
+G Ott offenbaret, als ein Gleichniß des H. Goͤttlichen Himm⸗ lischen Wesens, in deme GOtt wircket. 317. Wenn nun ein Weib vom Manne schwanger wird, und ein Kind gebieret, dasselbe, obs gleich von heiligen Eltern kommt, ist nicht gantz von innen und aussen Christus, wie En 500 tichtet, ohne Grund und Warheit, aus fine üncke 318. Cbristus, als das Wort, ist wol ein glimmend Moder, nach der Eigenschaft der wahren Bildniß, welche in alle Men⸗ schen, als eine Möglichkeit ,fortgepflanget wird: Aber nicht im auffern Fleische, in dieser Welt Wesen, sondern im aten Prineipio, unddie Seelische Eigenschaft isti im ersten Principio, iedes in sich selber wohnend. 3:9: Darum hat Christus die Tauffe eingesetzt, und sich der Seelen mit dem Moder vermaͤhlet, mit diesem Bunde; Daß, ob ja das Moder nicht zum brennenden Licht und das Kind stuͤrbe, auch wol im Mutter. Leibe, doch gl wol1 Seele in Christi Arm waͤre, in welcher Er sein Eiche an⸗ N zuͤndet
+
+328. Und ob H. Eltern Kinder gebaͤren, so ich die febe, sage ich nicht: Hie stehet oder gehet indiesem Kinde ChristusRE j
+
+[p. 124] Ef. Stiefels und Ez Meths.
+
+es istgantz Christus; Wol ister im Kinde, aber in feinem Prin· eipio, und in des Kindes Eigenschaft, als ein glimmend Mo: der, am Bande Christi: Aber die Seele ist auch am Bande des Vaters Zorns, in der Eigenschaft, wo sich Adams Seele hat “is von GOtt gebrochen. 321. Die Eigenschaften der Seelen, stehen nicht in gleicher Eoncordang, wie GOtt die erste Seele schuf: Sie stehen in 5 Erhebung, in der Viele der Willen, nicht in Einem Willen: der Viele der Willen ist die Turba: Denn ein Wille ist des andern Feindschaft, die koͤnnen nicht gebrochen werden, denn ihr Urstand istaus der Ewigkeit vom Centro der Natur es entzuͤnde sich denn in ihnen GOttes Licht; da werden sie im icht in Einen Willen transmutiret. Alsdenn hoͤret die Feind⸗ stund Wieder wille im Centro des Lebens der Seelen auf. uch ist das auffere Leben im Kinde mit im Fluche des Verder⸗ bens, und ist dem Tode unterworfen. 322. Denn wie die Eigenschaften im Seelen⸗Leben im Streit und Wiederwertigkeit sind; Also auch die Eigenschaf⸗ ten des aͤussern Lebens: Denn in Adam ging alles aus derglei⸗ Concordantz aus; Nun entzuͤndet eins das ander /und der
+
+Streit zwischen Hitzeund Kaͤlte auchBoͤsem und Gutem, waͤh⸗ ret so lange als das aͤussere Leben waͤhret.
+
+323. Darum ist des Autoris Auslegung unrichtig da er saget: Heilige, glaͤubige Eltern gebaͤren gantz Christum; ja
+
+Cbristus selber sey das Werck menschlicher Sortpflan-
+
+Welches fasteine Kuhe lachete, fieihres glei am: Ein nenn Gösters thörichter mar eh.
+
+324. Christus wohnet im Himmel in feinem Principio : Der ‚Auffere Mensch auf Erden in feinem Principio.
+
+Das heilige gute Weib, davon Autor viel ohne gnugsamen Verstand redet, t viehischen Menschen von vier Ele⸗ den aͤusseren gebieret nich menten, sondern den inneren vom reinen Element. Gott treibet nicht das Werck der Fortpflantzung;
+
+Er hats dem
+
+Menschen in seinen Willen gegeben: In Christo hat Ers Be ohne menschliches Zuthun, aus feinem eigenen r aß. 325. Kann nun dieser Autor auch Kinder gebaͤren ohne Weib, jä daß GOtt habe ein Christ⸗Kind⸗ so wollen wirs ihme glauben, lein aus ihme gezeuget, oder 2 seinem Weibe, 3 ohne
+
+[p. 125] 282 Xl, Vom Irrthum der Secten ohne einen Mann von SOttes Wort schwanger wird. Es wird ihm aber fehlen; Adam hat dis verschertzet, wie solches nach der Lange im Buch de Tribus Principiis. Item: Im an⸗ des nrenschen; Item; Leben dreyfachen dern Buch vom Im ersten Theil de Incarnat. Christi, ausgefuͤhret worden.
+
+des Samens ist schon im 326. Die Coajunction und WMiederwillen: Und im Streit und Wiederwillen wird in Rinde offenbar, und nicht im Samen, sondernin Leben
+
+Angst in dem erstickten Blute. Des Lebens Anfang dermännlichen und weiblichen Tinckur ist ein Sterben Kinde des Samens; Aus diesem Sterben gehet ein neu eigen Leben auf, wie das Licht aus der Kertze scheinend wird; Al imgleichen säet der Mann und das Weib nur das Corp derselben Lebens⸗Kertze, daraus das Lebenim Sterben als im Angst⸗Feuer, in der Erstickung des ersten Gebluͤts, darinn das Kind Mensch wird, geboren wird, nicht als ein Sterben des Verwesens, sondern in der Angst sterblichen Qual wird das erste Principium, als die we
+
+Feuer Seele in ihrem Principio offenbaret. 327. Alhie heissets nicht waͤhnen, sondern das Centrum
+
+Natur verstehen, wie ein Leben urstaͤnde, nicht nur sa
+
+Christus und GOtt; Sondern wissen, was GGtt,
+
+Chri .
+
+und Mensch, iedes in sich selber sey. Fine N” 2328. Man muß die Principia verstehen, nicht mit
+
+Histo
+
+schem Wahn, mit Buchstaben, viel wissen und ineinand wirren: Solcher Meister, wie dieser Autor seyn will, fol uvor wol wissen, nicht so toͤlpisch mit solchem Feldgest ommen aufgezogen, ohne Grund und Verstand.
+
+329. Man weiß auch wol, daß das e Jungfrauscha/ ft von G Ott ist: Sie hat aber nicht die
+
+Ma
+
+Heva v des Gebaͤrens, es istin Adam mit dem Weider
+
+schertzet; sie kann nicht mehr gebaͤren, der Gebärer, als stus, werde denn zuvor in ihr geboren. Alsdenn gebieret die Seele, ihren Braͤutigam, im Willen anderst,
+
+Sie transmutiret ihn, in ihre Liebe, und setzet ihm E Ritter⸗Sieges⸗Kraͤntzlein auf.
+
+Der zte Punct mit des Autoris vorgehen⸗ den Worten.
+
+Wie und auf was Weise und Art aber sie von ihrem
+
+P
+
+[p. 126] Er Stiefel und Ez. Meths.
+
+SGott und Manne, Christo JEsu herkommen, geschaffen oder gemacht und zubereitet werde; hievon gibt nun der dreyeinige GGtt und Err, in Jeugniß . Schrift ange deutet, zu mehrer und klarer Erkentniß /den heiligen Ehe⸗ stand, und wunderbarliche, Goͤttliche Vereinigung nes und Weibes, in Einem Fleische, zum Vorbild und
+
+Spiegel, in demselben durch Goͤttliche Wissenschaft und Weisheit zu betrachten und zu erkennen, wie und auf was
+
+Masse, Weise und Art das heilige Weib, und gläubige, menschliche, sichtbarliche Fleisch und Blut unter maͤnn⸗ und weiblichen Geschlecht von Christo, dem dreyeini⸗ n hochgelobten GGtt, ihrem Manne herkommen, Sele gemacht und zubereitet werde; und gleichwie christliche, fromme, glaͤubige Ehe⸗Leute, die GOtt amen füger, denn hie rede ich nicht von denen Ehe⸗ en,fodie aͤusserliche Schöne, Reichthum, ansehnli⸗ ches Geschlecht, und aͤusserlichen amen hoch achten, der Welt Fleisches⸗ und Augen: Luft zusammen treiber und ebelich mache) ja rechtglaͤubige christliche Ehe⸗ ‚so oft und viel eins das ander mit Augen nie ge u,(wie mir denn alle rechtglaͤubige, christliche Ehe⸗ dieses zum hoͤchsten Lobe Gottes in ihrem Mt mit Gott und der einigen, ewigen Wahrheit t werden ZJeugniß geben) oft wunderbar und ltzam ihrer gantzen Person gantz unwissende, vom dem einigen GGtt, Christo IEsu, zusammen gefuͤhret d gefůͤget werden, indem der Err im männlichen "er:
+
+zen feine heilige Liebe gegen dem weiblichen Bilde, so er zuvor (wie sich oft begibt) wol niemals gesehen, vielwe⸗ niger einige Begierde nach solcher iemals bey sich befun⸗ den, dargibt und einfleischet; welche in ihr, der heili⸗
+
+Goͤttlichen Liebe und Stimme, mit allerley freundli⸗ liebreichen Worten und Werden, gegen dem weibli⸗
+
+Bilde sich dermassen darbeut /und durch allerley Auf serlichen zůchtigen, keuschen Dienst und Wandel sich ob» ne Unterlaß, mit Bemuͤhung Tag und Nacht befleiffer, und nicht ablaͤsset bis durch Goͤttliche Güte, Kraft und Wirckung sie in das Mittel und Centrum des weiblichen dringet, und mit ihreꝛ kraͤftigen brennenden Wir⸗ ckung die maͤnnliche Person ihr gantz einbilder, und Br ıbr [p. 127] ihr, der Goͤttlichen, guten, heiligen, keuschen Liebe selbst verbindet: In welcher bey christlichen Sertzen diese dreyeinige Goͤttliche, Feuer⸗brennende Liebe in heiliger, Goͤttlicher, wirckender Junehmung und Wachsung nicht nachlaͤsset, bis sie diese maͤnn⸗ und weibliche Person in Eis nes bringet, daß sie durch solche Göttliche, kraftige Mies ckung in der Liebe, Ein Sertz, Eine Seele, Ein Leib,
+
+/wie sie denn in der Liebe der Goͤttli⸗ Ein Fleisch und Blut chen Stimme sich selbst ein iedes sich, fein eigen Her, See⸗ le und unzertrennliches Eigenthum tituliret und nennet. wie denn in solcher keuscher, Göttlicher, lieblicher Mirdung, durch Göttliche Kraft in heiliger (und nicht unzüchtiger, fleischlicher) Vermischung und Verei in rechter, heiliger Liebe und Einigkeit, in Goͤttlichem, Goͤttlichem Wort, und einverleibter kraͤftigem See/gen Glauben, heiliger Rede, Fruͤchte, und reinen keuschen Liebe, liebe Kinder durch sie und aus ihnen hervor kom⸗ men und geboren werden, welche der Err durch Pau lum 1. Cor.: Iq. um der glaͤubigen Ehe⸗Leute und from⸗ men Christen wegen, durch und in welchen Er mit seiner allerbeiligften Wirckung in der Liebe kraͤftig und thaͤ⸗ tig ist heilige Geburt, heilige Rinder tituliret und nen⸗ net, welche heilige, eheliche, Goͤttliche Liebe in und an frommen christlichen Kindern ein ewiges unaufhoͤrliches Band der Goͤttlichen Einigkeit ist/ so nimmermehr inund an ihnen zerreist, verlischt und aufböret. Cri⸗ Gleich und ebener massen verhält sichs auch mit sto, dem dreyeinigen hochgelobten GGtt, dem d en heiligen Manne, so in und mit feiner heiligen Bötte ichen Stimme feiner heiligen völligen Liebe, nach deug⸗ niß heiliger Schrift Joh. 3: 16. also hoch die Welt, das gantze Menschliche Geschlecht, ja da sie noch Feinde wa⸗ ren, geliebt, und allen Menschen unter maͤnn /und weiblichem Geschlecht seine Liebe dargeboten hat, dar⸗ durch und darinne die Menschen⸗Kindersodurch den Fall Adams und Eva Feinde Gottes, des ewigen Gutes, und alles Goͤttlichen Wesens worden, in ihrem Sertzen mit feiner eigenen Goͤttlichen Stimme und heiligen Liebe Ihm selbst, mit feiner eigenen Kraft und wesentlichen
+
+Wirckung, wiederum aus dem Reich und W ndli
+
+[p. 128] | air
+
+Es. StiefelsundEz. Meths.
+
+285 _
+
+Todes, Teufels, schaͤndlichen in und an ihnen herrschenden ·Melt; und Sünden: und aͤusserlichen nackenden Fleisches
+
+·Lust sie in und mit dieser heiligen Goͤttlichen Kies Augen be neu zubereite, schaffe und anderweit gebaͤre: wie denn durch solche dreyeinige, inwirckende, Goͤttliche heilige Lie⸗ be Christi JEsu in den Auserwehlten das steinerne, ada⸗ mische, sůndige kalte, untuͤchtige, boshaftige Hertz mit als len böfen Lüften und feindlichen Begierden wieder GGtt, das dreyeinige ewige Gut, gaͤntzlich abgeschaffet, und durch icheheilige Goͤttliche Wirckung in der Liebe ein und ein voll⸗ neues zubereitet wird welches gantz liebreich
+
+0 kommenes Liebe qertz Gottes er scheinet, so gegen dem dreyeinigen boͤchsten Gut in und mit völliger Liebe, ja die völlige Göttliche Liebe selbst, brenner, und durch des allerhoͤchsten dreyeinigen GGttes Christi JEsu selbstei⸗ gene inwirckende Kraftinder Liebe gegen ihrem Manne, der hohen Goͤttlichen Majestaͤt Christo Ffir, so feurig und brennend wird, daß auch das Göttliche neue Liebe: Hertz, so hoch und ůͤberschwenglich in der Liebe erschei⸗ net, daß es in alle in⸗ und auswendige Glieder des Leibes voll Goͤrtlicher Kraft dringet, alle Gliedmassen veraͤn⸗ dert, und zum dreyeinigen hoͤchsten Lobe GOttes, Christi ihres Mannes, gantz verneuert, daß in und an sol⸗ n in der Liebe durch CHristum neu zubereiteten enschen nichts, als alles Gutes, Heiliges, Goͤttliches in der Liebe, in Worten, Leben, Werden und Thaten ge
+
+spuret und offenbar und augenstheinlich, durch gläubige Augen erkant und ersehen wird. In und an welcher hei⸗ ligen, gantz neu in der Liebe zubereiteten Goͤttlichen Person,
+
+92 Wort des Errn reichlich und herrlich erfüller wird, of. 27 l. Rom. 9: 25. Ich will das meine Liebe heissen, das meine Liebe nicht war. Wie nun durch solche heili⸗ geGoͤttliche Wirckung in der Liebe der dreyeinige, boch⸗ elobte GGtt Christus J Esus, das Ebenbild und selbstaͤn⸗
+
+— Wesen der dreyeinigen Gottheit selbst, vom An⸗ fang der Welt Ihm rechtglaͤubige, heilige Patriarchen, Propheten und alle Glaͤubigen Alten Testamentes aus allen Gesehlechten, sowol alle Evangelisten, Apostel, Pros pheten und fromme Christen unter maͤnn⸗ und weiblichem
+
+Geschlechte Neues Testaments, folchermaflen, * bie⸗ bevor
+
+[p. 129] FI. Vom Irrthum der Seeten bevor erzehlet, und zu feinem heiligen Dienste, Lob und Ehren seinem heiligen Namen, ja zu seiner eigenen Liebe in der Liebe zubereitet, neu machet, und bie Pen | auf Erden darstellet. Ann ang
+
+Gegen⸗Ant — wort.
+
+330, Ein solches, wie dieser Autor von Christlichen Ehe⸗ euten setzet, daß essey, marc wol zuwuͤnschen, daß eswaͤre: aberinkeinem also vollkommen, es fehlet ibm noch ein gu⸗ ter Sprung; beddiese grosse Heiligkeit ist in Adam verfchers tzet worden. Wol spricht Christus: Wo ihrer zwey oder drey versamlet sind inmeinem Namen, da bin ich mitten unter ih⸗ nen; (Matth. 18: 20.) Bey heiligen, gottsfuͤrchtigen Eheleu⸗ ten ist wol Christus, so sie alle ihre Dinge in feinem N fangen; Erregieret und segnet sie, so sie in Ernst bleiben: Das wiederrede ich gar nicht.
+
+331. Auch ist Ihme all ihr Werck in rechter ehlicher Pflicht | angenehm? Denn Christus istkommen, daß Er des
+
+Merck zerstoͤre; Autor soll aberim Wercke menschlicher pflantzung nicht so grosse vollkommene Heiligkeit setzen: M
+
+Tei
+
+Fort⸗ daesieHeiligkeit genennet werden, so muff ers besser unte scheiden, was darinn heilig oder unheilig ist, aß wurde alle menschliche Brunst und viehische Fleisches⸗Lust chum gehalten werden.
+
+für. Heil mitder Imagination und 332. Wie er sich denn also heftig Begierde gegen Weiber und Manner kitzelt, als steckeindens
+
+selben eine grosse vollkommene Heiligkeit, und gefchebe einig und allein aus GOttes Trieb, in Christi Kraft und Aura“ en; und unterscheidet nichts, und natürlich was Goͤttlich en. Er raffet das gantze Werck in Eins, und heisset allesGötk⸗ lich, als ob das gantze Werck solcher Conjunction und Anneig⸗ lichkeit der Begierde in einem gegen den andern alles im Trieb des Geistes Christi geschehe.
+
+Wie er denn die Zufammenfüs gung zweyer Eheleute auch gantz darein zeucht. 333. Welches bey frommen Kindern, die GOtt zuvor in Ernst daruͤber bitten, und ihren Willen in seinen stellen, ja wol ist daß oft zwey Menschen durch GOttes Schickung zusammen kommen, welches ich auch lobe, wenns also gehet, dabey deng auch mehr Segen und Heil seyn mag, als in denen, welche blos die Augen⸗Lust zusammen füget, und die Natur copz tres [p. 130] lsEz.Meths. Es. Stiefe vr diesem nichts wieder diesen 1 ine lt 5 = wo ich gerne e iftdarin
+
+Side und 7
+
+G0 Unicht de5Be unter nit eiligen damit er vermeint Kinder en ret
+
+Aeen IaR ri
+
+334. Um dieses einigen Articuls willenwill ich diesengunet aus eln, daß man nur sehe, was Goͤttlich und natuͤrlich, heilig oder viehisch sey und daß die Heucheley 18 95 ligkeit, darunter man die Erbsünde will verdecken, moge erkant werden; daß auch fromme Eheleute 5 er seyn, und wissendaßfieauchSuͤnderfü ich vor e fuͤrchten, vor GOtt de KenHan, mit 2 en a be 565 Unreinigkeit sichte, und sie in vis hische Ei⸗ rne,
+
+37 aben Ban eenW.
+
+33 Denn 508heilge Gere wird mit einem viehischen
+
+Wen vollbracht; und solches urstaͤndet wegen des Falls Evaͤ. Darum sellen Eheleute lernen das Heilige und s Adam inder Liebe vom viehischen unterscheiden; sich in solchem Wercke vor Gott und heiligen Wenschen sueptig undmäßig nicht als ein bruͤnstiger Stier.
+
+Zu welchem bruͤnstigen Werck Autor eine weite Thür aufthut, weil ers gantz heilig heisset: würde wol zuletzt in seinem n Fuͤrgeben alle Scham verloͤschen, welches doch der nd und die Natur überzeugt, daß ein Eckel daran Per der vor GOtt nicht gantz heilig sey; weil sich auch Die Natur samt der Seele davor schaͤmet: welchem wol nachzu⸗ sinnen ist/ wie 15—arme Seelewelche auß den Augen blicket, Bein sto schaͤmet, sie stch ch een fachbed wel,gi andern Bech ans
+
+RE um dieser ursachen halbenhinichsauswickeln, daß ganesich erkennen lernen und dieser Autorsie nichtgantz mache, daß sie im Eckel vor G Ott moͤchten leben, als ein neinige Erkentniß desselben. Sonst ausser diesem es unangefochten, weil H. Menschen auch sollen bei⸗ ERes eh ene
+
+Vom
+
+[p. 131] 288 XI. Vom Irrthum der Seecten Vom dreyfachen Leben des Menschen.
+
+338. Moses schreibt: GOtt habe gesprochen; Lasset uns Menschen machen, ein Bild das uns gleich sey, er sagte nicht zwey Bilde, sondern Ein Bild, das uns gleich sey. Bottist nach dem Feuer und Licht nur Ein Wesen, als nach des Feuers und Lichts Tinetur: In der ewigen Natur istEr auch nur Ein Wesen, und indem er Vater und Sohn heisset und ist so ist er auch darinnen nur Ein Wesen, aberinzweyen
+
+Principien offenbar: Als mit der strengen Feuer⸗Welt, nach des Vaters Eigenschaft; und nach der Licht⸗ und Lies be⸗Welt, in des Sohns Eigenschaft: ist doch nur ein Ei? nig Wesen ungetrennur nt,Ein Gott, wie Feuer und een ifsfst. Licht Eins
+
+339. Also auch hat Ersein Bild den Menschen, nach feinem aus , allem in Ein Gleichen aus seinem ausgesprochenen Wesen Wesen, in ein einig Bild geschaffen: Auch den Geist aller dreyen Principien in einen einigen Geist eingeblafsen. 340. Alle drey Welte, als (i) die ewige finstere, kalt⸗feuri⸗
+
+sche, als ee: (2) so wol die ewige Licht⸗feurische, Wesen, als das reine Element, und darinn das samt dem selben Paradeis; (30 Denn auch dieaͤussere vier⸗elementische und
+
+syderische Welt mit ihrem Wesen, waren in diesem geschaffe⸗ nem Bilde nur Eine ingleicher Concordang ; der Mensch war und ist die innere und aͤussere Welt. 341. Die innere Welt ist der Himmel, da Gott inne woh⸗ net. Also war der Mensch auf Erden im Himmel, das innere und aͤussere war Eins; Das innere offenbarte sich im aͤussern, als Gott in der Zeit. Das Aeussere ist die Zeit, die war im Menschen in der Ewigkeit verschlungen.
+
+aber in ihr selber offenbar; Nicht gantz zum Regiment sonde zum Wunder des Regiments der innern Goͤttlichen Welt. 342. Die aͤussere Welt kante sich nicht in der Zeit, son auf sie wirckte in sich, als ein Werckzeug des Meisters. Der fere Sulphur und Mercurius des Leibes waren in der Kraft des innern geistlichen Sulphuris und Mercuri offenbar3 Die Tincturen von beyden waren in einander, als Eine offene bar; der Geist wirckte durch die Zeit, und das war ein Parc deis, da weder Hitze noch Kalte mochte offenbar seun. 343. Bender Welte Leben (1) das himmlische, heilige imrei⸗ nen Element, und denn (2) das aͤussere in vier Elementen, war nur
+
+[p. 132] Es. Stiefels und Ez Meths. nur eineinig Leben. einEbenbild.
+
+Das war ein Gleichniß nach Gott, als geh;
+
+344. Denn GoOtt wohnetinder Zeit, und die Zeit if in Ihme nicht offenbar, sondern vor Ihme als eine Gleichniß; esist in Ihme im Regiment allesEins. Die Zeit ist Knecht und sein Werck Er lebet in sich.
+
+345. Aber Gott ist der Zeit Leben, doch der Zeit unbegreif⸗ lich, die Zeit regieret nicht in Gott: sie ist in Ihme, als ein Werckzeug, damit Er regieret und machet.
+
+Nun verste⸗ het uns von der Seelen: Die Seele ist nicht aus der Zeit der Natur, sie ist der ewigen geistlichen Natur; der Zeit Natur ist mit dem sie machet. auch als ein Werckzeug nur ihr Wohnhaus hat in sich das Centrum zur Feuer⸗ und bicht⸗Welt: Denn Sie aus dem Centro ward sie dem Adam vomH. Geiste in Bewe⸗ gung des Vaters aus dreyen Principien eingeblasen. 346. Und ist dis ihr Fall und Suͤnde, daß sie durch ihre maͤchtige Begierde hat die Eigenschaft der finstern Welt im jenero der ewigen Natur offenbaret: welches geschah durch Imagination, daß sie ihre Lust in das Werckzeug der Zeit, als in die anffere Welt, einfuͤhrte, und wolte probiren, wie es so die Gleichheit der Concordantz aus einander ginge, daß Boͤses und Gutes offenbar waͤre, iedes in sich V8.
+
+347. Sie luͤsterte von beyder Schmack zu essen, und damit de und klug zu seyn; wie Luciferim gleichen auch also verdarb, der nach dem finstern Centro in der Feuers⸗Geburt erte, und das in seiner Begierde erweckte, daß also die e Concordantz in ihme in eine Erweckung aller Ei:
+
+sten offenbar worden. Davon ihme die List und chheit entstund. 348. Denn so die Lebensgestalten,als die Gestalten der ewi⸗ n Natur, iede in sich selber offenbar werden, so ists eine grosse Feindschaft: Denn eine iede will regieren, iede hat ei⸗ ignen Willen; waͤren diese nicht so waͤre weder Empfind⸗ it noch Findlichkeit, sondern eine ewige Stille.
+
+349.
+
+Nun aber solten die Lebens⸗Gestalten nicht im Quali⸗ fieivens eine iede ausdringende, offenbar seyn, sondern in gleis cher
+
+Concordantz inne stehen, gleich einem zugerichteten Lan⸗ zel; Und der Geist, der aus dieser gleichen
+
+Concor⸗ aus⸗ auch in gleicher Concordautz Geist dantz von GOtt amd‘ gefuͤh⸗ [p. 133] geführet war, und zum Lautenschlaͤger gesetzet, als der Geist der Seelen, wie die Luft aus dem Feuer, der solte in GOttes Hall eingehen, sich in der Kraft des Lichtes staͤrcken und mit derselben Kraft sein Saitenspiel der debens⸗Gestaͤltnisse schlagẽ. 350. Das that er nicht, sondern ging ineigenen Willen ein, griff nach dem Centro der Lebens⸗Gestaͤltnisse, und erweckte dieselben, wolte selber GOtt seyn, und machte sich zum finstern Teufel, nach der ersten Impreflion im Fiat feiner Eigenschaft, daraus in dieser Welt sind böfe giftige Wuͤrme und Thiere worden, nach der äuffern Impression; das ist der wahrhafti⸗ ge Fall des Teufels, und auch Adams. 351. Solches von Adam und feinem Weibe besser zu verste⸗ hen, folget weiter: Adam war ein gantz Bild GOttes
+
+GoOtt ihn hatte geschaffen: Er war ein Mann und Weib;
+
+doch deren keines, sondern eine zuͤchtige Jungfrau in der Gleichheit GOttes: Er hatte die Feuer⸗Matricem, auch die Lichts⸗Matricem, aus welchem durchs Element das Wasser wird, durchs Sterben im Feuer erboren; Er hatte die
+
+Feuers⸗ und Lichts⸗Begierde in sich, als die Mutter derLi en.
+
+iN und des Zorns nach den Principien. 352. Das Leben stund in einer Conjunction steter innerli⸗ cher Freuden ⸗Begierde in einander, das Feuer liebte das Li als feine Sanftigung und Wolthun, und das Licht liebte das Feuer, als fein Leben und Vater: wie GOtt der Batı jenenSohn, und der Sohn den Vater in solcher Eigenscha iebet.
+
+353. Und in solcher Liebe⸗-Begierde, als nach Feuer und Licht, in welcher Begierde sich auch die finstere Impreflionm ihrem Hunger eingemenget, hat GOtt Wesen geboren. Die Impression in der Begierde ist fein Fiat, welches Er mit der Stimme des Feuers und Lichts fuͤhret, als sein Machen. 354. Also auch in seinem Bilde, dem Menschen, war Feuers⸗Matrix und die Lichts⸗Begierde in grosser freudenr cher ewiger Con junction; oder zu setzen, wenn zwey gegeneinander gehen, als ein grosser lieblicher Geschmack ; u die Impression, als das Fiat, machte diese Conjundtion
+
+schallend, als ein Ton des Worts, darinn das laut freudenreiche beben stehet, im Fühlen, Schmecken, 9 ie ehen und Hören als eine liebliche Offenbarung der
+
+Stille, wie im Geist /beben, also auch in Mee
+
+}
+
+[p. 134] Ef. Stiefels undEz.Meths.
+
+355. Denn was der Geist in dreyen Principien in sich istim Worte und Kraft, das ist das Fleisch in sich im Wesen dessel⸗ ben. Das Fleisch hat die Tinetur vom Feuer und Lichte in sich zu einer solchen herrlichen Conjunction und Geschmacke, und das Fiat, als die Impression, ist auch das Mittel der Begier⸗ de im Fleische, und machet den Geschmack wesentlich, davon
+
+Wachsen entstehet. 335. Nun war Adam doch nur Einer, und in solcher gros⸗ sen Herrlichkeit innestehend, als ein gantz Gleichniß nach Sott, in Wircken, Leben und Gebaren: Gleichwie Gott alle Dinge aus seiner Einigkeit geboren hatte, und im Fiat, wel⸗
+
+155allen Dingen war, in sein Bilde, nach der Eigenschaft geschaffen, das ist, anderst nicht als in der Impression des Fiats, in der selben Conjunction derselben Luft mit der Impreflion of⸗ fenbaret.
+
+357. Waͤre nun Adams Seele in ihrer Selbheit mit ihrem Geiste, ins Wort der H. Kraft GOttes eingegangen, und 75 nicht im Fiat die Selbheit erwecket, sondern sich in GOt⸗ . es heiliger Kraft in der Begierde, als in der Impreflioh, aͤrcket; So haͤtte die Impression, als das Fiat, wieder eine Gleichheit im Geiste und Wesen in sich formiret: So haͤtte Adam mögen magisch nach Goͤttlicher Art gebaͤren, wie
+
+GbOtt die Creatur gebar, und ins Sichtbare darstellete;
+
+die Matrix der Vermoͤgenheit war in ihme. denn 358. Als sich aber der Seelen Wille, als der ausgehende
+
+Geist, von GOttes Kraft abbrach, und im Fiat in fein Centrum ging in eigene Luft, Boͤs und Gut zu schmecken, und ging aus der Gelassenheit in die Selbheit; da ging auch die ö Sonjunction im Fleische in eine solche Begierde ein, und bungerte nach der Mutter, daraus sie geschaffen worden. Eben in solcher Eigenschaft war der Hunger, wie er im eiste war.
+
+3 359. Mit diesem Hunger des Geistes und des Fleisches ward die EitelkeitimCentro durchs Fiat offenbar: Denn das Fiat impressetedieBegierde, daß die Eitelkeit ins Wesen des
+
+Fleisches kam und offenbar ward: Da war es um das oͤne Bild geschehen, denn die Eitelkeit liebte sich selber, Be nicht in Gottes Liebe, als in die heilige Kraft, gehen konte auch nicht; denn GOtt nimt die nicht an zum Kinde.
+
+T 2
+
+360. Ale
+
+[p. 135] 360. Als nun die sesgeschah, sahe GOtt den Fall, als Er ihn denn hatte zuvorn erkant, und derowegen den Menschen in seines Hertzens Centro, in der Liebe-Begierde, ersehen und versehen, sich nach dem Centro der Liebe im Menschen Bilde zu bewegen, und den Christum in JEsu, oder aus JEsu, als die groͤste Demuth aus GOtt, in dis Mittel zwischen GOtt und der Creatur zu stellen. 361. So sprach nun GOtt in sich selber,wie Moses schreibt: Gen. 2:18. Es ist nicht gut, daß der Mensch allein sey, (denn er hatte schon verloren die Goͤttliche Macht, magisch aus sich durch Einen zugebaͤren) wir wollen ihme eine Gehuͤlfin machen, die um ihn sey: Adam konte nun nicht magisch gebaͤ⸗ ren, weil er schon in die Lust der Selbheit getreten war: Haͤtte er Gott zum Gehülfen behalten, er hatte gekoͤnnet, so aber konte er nicht. Darum sprach GOtt: Es ist nicht gut; Im Anfang war es wol gut, aber in der Lust war es nicht gut: denn in GOtt stehet allein die Vermoͤgenheit. 362. Aus dieser war Adam mit der Lustindie Selbheit ges gangen. Denn des Vaters Zorn wand sichim Fiat auch mit empor, und wolte Creatuͤrlich seyn: davon die Lust Boͤs und Gut entstund, als nach finster, Feuer und Licht, und allem diesem Wesen. Als nun das Verbum Fiat in Adam in der Begierde und, und impressete die Eigenschaft in der Lust in ein Wesen seiner Gleichheit, da erschien das magische
+
+Bild, als die Gleichniß nach Adam, im Geiste: Aber die Ver⸗ moͤgenheit der Creatur war weg, denn sie stund in der Selb⸗ heit; So ersanck die Selbbheit in sich in Ohnmacht. 363. Darum spricht Moses: Gott ließ einen tiefen auf ihn fallen. Weil er von GOtt in die Selbheit einging, so ließ ihn GOttin die Ohnmacht, als in Schlaff fallen;Er ließ es geschehen, daß er in Ohnmacht fiel; Denn in der Selbheit ware er in Feuers⸗Macht auch zum Teufel worden; so konte er aber nicht denn er entschlieff, und dieser Schlaff ist die Ruhe Christi im Grabe Merckets wol beben Bruͤder: denn es ist hoch erkant worden, nicht im Tand und Wahn, sondern im Ternario Sancto, nach GOttes Rath und Willen.
+
+364. Der Schlaff deutet den Tod an, als eine Zerbrechung dieses ausserlichen Regiments: Denn wie die aͤussere Welt in ihrer Selbheit und Regiment nicht ewig bestehen kann, son⸗ dern muß wieder in Anfang, ins ewige One
+
+SEE
+
+[p. 136] Ee'̃s. Stiefels und Ez. Meths.
+
+eingehen, und in ihrer Selbheit gantz zerbrechen, und durchs
+
+Feuer Gottes gefeget und bewaͤhret werden; Also muß auch das aͤussere Mysterium des Menschen in der Selbheit zerbre⸗ chen und wieder das magische Bild, in GOttes Willen, Wir⸗ cken, und Leben eintreten. 3065. Verstehets recht: Das Weib, als Veneris Matrix vom Lichte, Luft und Wasser aus der Essentz Adaͤ, ward in Adams Schlaffe, als in der Unmacht im Fiat impresset, als ei⸗ ne Mutter zur Fortpflantzung; Darinn das Feuer in der Ei⸗ genschaft der Liebe⸗Begierde, als im Centro der Verwande⸗ lung vom Feuer ins Licht, im Fiat ergriffen ward; Aber die erweckte Eitelkeit in der Begierde des Fiats in der Eigen⸗Selb⸗ heit der Seelen Willen war schon raͤge, und in der Lust offen⸗ bar, die Magische Geburt war verloren.
+
+366. Da nahm Gott durchs Fiat eine Ribbe in Adams Seiten, das ist die Eigenschaft Adams nach der Impression der Kraft von Ada Seele und Geist, im Sulphore, Mercurio und Sale, und offenbarte das in Veneris Matrice; verstehet:
+
+Von Adam ward genommen fein schoͤner Rosen-Garten der grossen Lust⸗Begierde der Freudenreich, als die Lichts⸗ netur, nach der Liebe⸗Begierde Eigenschaft, und nach dem leiblichen Wesen.
+
+367. Die geistliche Wassers Eigenschaft, welche in der ebe⸗Begierde durchs Feuer erboren wird, und des Feuers oder Seelen Geistes groͤsseste Ergeglichkeit ist, in welcher sich Feuer Geist haͤtte selber im Wesen geschwaͤngert, und seine F en erboren, als in der Liebe⸗Begierde: Diese Venus
+
+Mutter ward in ein Weib figuriret, und in Adam blieb die
+
+Feuers ⸗Mutter, als die Seelische Mutter, welche ihren Hun⸗ ger stets in Veneris Mutter einfuͤhret: Desgleichen auch Venus Mutter indie Feuers-Mutter, als in ihren Vater und
+
+Mann, der ihr Effeng und Leben giebet.
+
+2368. In welcher Conjunction die Vollkommenheit der Freudenreich stehet, und die Erfüllung der Begierde, welche Die eust der Eitelkeit aus dem Centro der Impression nach der finstern Welt Eigenschaft solte verdecket und gefan⸗ halten, und sich nur in der Liebe ergetzen, als in der
+
+Freudenreich.
+
+2369. Dieses Liebe⸗Spiel beyder Tincturen vom Feuer
+
+Licht, ward in Adam in . Schlaff N
+
+[p. 137] Gott theilet es im Fiat,
+
+Und alhie verlor Adam sein keusches
+
+Liebe⸗Spiel, und seine Jungfrauschaft, welche ihm Christus wiederbrachte; Und in die Stätte feiner Ribbe zum Weibe, er zerbrochen ward, muste Longini Speer eingehen, und muste das wiedergeborne Jungfraͤuliche Blut diesen Bruch tingiren, und wieder gantz machen und heilen, und den Grimm, der im
+
+Bruche war, ersauffen. 370. Also verstehen wir, was das Weib ist, als ein halber
+
+Adam: Adam hatte in der Ober⸗Macht das erste Principiumz und Heva das andere. In Adams Theil ward die Eitelkeit zum ersten offenbar,alsim Centro zum Feuer, welche Feuers⸗
+
+Begierde in Venus: Begierde einging, und in der fuft im Wo
+
+sen offenbar ward, in welchem die Fortpflantzung war. Dar⸗ um verhieß sich GOtt im Paradeis, wieder in des Weibes men einzugehen, und der Schlangen-Begierde, welche war aus dem Centro zum Feuer⸗Leben entstanden, mit der neuer⸗ bornen Liebe Begierde den Kopf zu zertreten, das ist, mit grossen Liebe zu uͤberwinden, sich selbst in Eckel einzugeben, in des Weibes Samen, welchen der Eckel in Veneris Matrice hat vergiftet, und in falsche Luft eingefuͤhret, und denselben Willen, so wieder GOttes Heiligkeit und Reinigkeit in ein Er genes ging, zu zerbrechen, und wieder in die Liebe⸗Begierde einzuwenden.
+
+It
+
+371. Alhier als Adam zertheilet ward, und der Goͤttlichen
+
+Macht entschlief ward er samt feinem Weibe mit feinem Lufle _
+
+Garten in das aͤussere, natuͤrliche Leben geordnet: Denn di Goͤttliche Verstand war in ihme verblichen; dennerwar vom Goͤttlichen Liebe⸗Feuer mit seiner Begierde ausgegangen in die Selbheit, nach der Eitelkeit, als nach der Offenbarung der Natur, nach Kunst und Viel⸗Wissen.
+
+372. Das bekam er auch, verlor aber dadurch das Wissen der Goͤttlichen Freudenreich; Er war zwar noch im Paradeis mit feiner Heva, als ihn der Geist der aufferen Welt aufweckte, doch in der Lust der Eitelkeit samt seiner Heva, zu welcher nen der Teufel hernach mehr Ursache gab an dem
+
+Versuch⸗
+
+Baume, wie oben gemeldet worden. 373. Adam schlief ein der Goͤttlichen Welt, und wachte 4 der auffern Welt: und mit dem irdischen Essen vom Versuch⸗ derboͤse und gut war, wachte die Eitelkeit im Wesen Baum, des Fleisches vollend auf: Denn alda huben die Eigenfihafieg.
+
+[p. 138] Ef Stiefelsund Ez Meths.
+
+des Eckels im Centro Natur an zu qualificiren ,als ein Sie⸗ den; ietzt war Hitze und Kalte dazu Bitter, Süß und Sauer, alles, was im SternenundElement⸗Regiment offenbar ist, in ihm auch offenbar. Der Sulphur und Mercurius ward in der Eitelkeit des Gift⸗Lebens raͤge und offenbar: Dessen schaͤmete
+
+sich nun der Seelen⸗Geist in Adam und Heva, weil sie faben, daß sie in ihrer Selbheit in solchem Elend stunden, und daß Hitze und Kalte auf sie drang.
+
+374. Und als ihnen GOtt wieder mit der Stimme der
+
+Gnaden rieff, sofprach Adam: Ich bin nacket und fürchte mich Aber Gott sprach: Wer hat dirs gesagt, daß du nacket bist, hastdunicht vom Baum gessen, den ich dir verbot? Er ach, das Weib gab mir, und ich aß; Und das Weib sprach, die Schlange betrog mich. (Gen. 3: 10-13.) 3275. Hie nun liegt das gantz obbemeldte Wesen, wie es sey Den, Denn die Lnst war in Adam entstanden, und war die Liebe⸗Begierde im Fiat ins Wesen eingefuͤhret worden, in welcher Adam die Geburt hatte stehen, die ward von ihme un“: Jetzt fing derselbe Eckel der falschen Begierde im anzu luͤstern, und richtete vollend das gantze Werck an Weibe zur Sünden und Greuel, wieder GOttes Heiligkeit. 376. Das ist eben der Eckel vor GOtt, daß die Lebens⸗Ge⸗ staͤlte sind aus der gleichen Concordantz, iede in ihr selbst⸗Of⸗ fenbarung eingangen: davon im Leben Streit, als Aufsteigen r Hoffart, Geitz, Neid, Zorn und falsche List entstehet; daß
+
+sich iede Gestalt in der Selbheit kennet, und ihr selber offenbar eensch, als das Fleisch, in diesem wiederwerti⸗ ; davo gen Streit, in Kranckheit, Wehethun und Zerbrechen einge⸗ führerwird. 3277. Denn in der gleichen Concordantz mag kein Zerbre⸗ chen seyn, weil alle Willen der Lebens⸗Gestälte nur ein einig Wesen sind, und in gleicher Harmonia sind; Jede Eigenschaft ist derandern guter Schmack und Liebe⸗Begierde; Aber in der ungleichen Concordantz ist eitel Feindschaft, nicht wollen, N gen in feiner Eigenschaft hören, sehen, riechen, schmecken und en. 378. In diesen fünf Sinnen stehet die Feindschaft des Le⸗ bens, da eitel Streit inne ist, wegen ungleicher Concordantz in der Harmonia, welche der Hall, als die Stimme Gottes, die Viele der 77 — in sich nicht einnimmt oder * [p. 139] lassen denn ihr Recht und Eigenthum fahren, und ersencken sie wieder gantzin die Gelassenheit, in GOttes Erbarmen ein,
+
+Christus sagt: Es sey denn, daß ihr umkehret, und werdeta die Kinder, die von keiner Falschheit wissen sonst solt ihr da Himmelreich nicht erben. (Matıh, 18:3.) Item: Ihr müsset neugeboren werden, (Joh. 3: 70 das ist, dieser Wille der Falsch⸗ heit und Eitelkeit muß gantz zerbrechen, und ein neuer ausgr nen der den Falsch nicht mehr will, sonsten ist keine Saen 379. Darum muß das Fleisch gantz sterben und zerbre daß der Eckel und die Eitelkeit im Wesen liegt, und wieder ans Er Ziel eingehen, da es isturstaͤndlich in Adam entstanden, zu a neuen Offenbarung. 380. Nun ist uns ietzt die Fortpflantzung des Wenschen zu⸗ erwegen. Der menschliche Leib istanietzo irdisch worden,de die Eitelkeit, daraus die Erde war erboren, ist nun aufgewacht in ihm, und hat das himmlische, heilige Wesen in sich verschlun⸗ gen, denn der wahre Liebe⸗Geist wich im Fluche der Eden vom Menschen; Als die Eitelkeit aufwachte, verfluchte Gott die Erde, da war es um das schoͤne Paradeis des Menschen ge⸗ schehen, sein himmlisches 5 von Goͤttlicher Wesenheit blich und ward nicht mehr erkant. 381. Das istin gleichen anderst nicht zutverstehen alswe ich Bley ansehe, welches zuvor Gold gewesen, und hätte sie> durch den Mercurium in Bley verwandelt, darinnen der giftftige Mercurius offenbar wäre, der vorhin im Golde in gre
+
+Schoͤnheit und Vollkommenheit gestanden: Wie nun im noch eine Moͤglichkeit zum Golde läge, waͤre aber im NMercu nicht offenbar; der Mercurius vermochte sichnichtwieder it das Gold zu verwandeln, der Kuͤnstler zerbraͤche denn das Bley gantz, und verwandelte es in die erste Materiam, daraus es war geschaffen, so möchte aus derselben Materia wieder schoͤn Gold, wie erst war, werden: Oder es bewegte sich denn
+
+Solis Kraft in diesem Mercurio des Bleyes, (welches doch ein Saturnus ist, hat aber die lmpression, als den ersten Grund z
+
+Golde in sich )und gebiere in feiner Kraft wieder ein Gold m Bley, daß ich Bley und Gold in Einem Wesen saͤhe, und88vi doch nicht offenbar, sondern das Bley hielte das Gold wie a verschlungen und verdecket. 382. In gleichen ward Adams und Heva schoͤner gülder
+
+0 Leibin Göalicher Kraft und Wesen zu einem finstern du12957 [p. 140] y, in Gleichniß geredet: Der guͤldene Mercurius wachte in der Eitelkeit desGiftes auf, so verblich das Gold, als der H. Farbe Jetzt wand er gantz irdisch, undmuste zur Er⸗ den werden; Aber die Stimme GOttes, welche ihnen wieder rieff, vermaͤhlete sich wieder mit der Verheissung vom Schlan⸗ gen ⸗Treter in Veneris Matricem, als ins zweyte Principum,in das Theil der bimmlischen Wesenheit, in welcher zuvor das Wort oder Goͤttlicher Hall war offenbar gewesen; aber als der
+
+Seelen Begierde davon ausging, und in sich verblich, so war in dieser Vermaͤhlung im Bley, Gold und Bley unter einander, J Baar das Gold nicht offenbar, bis sich GOttes Mercurius, im Worte der Verheissung, im Bley als im Fleische, offenbar te,soward das Bley in Christi Menschheit wieder in Gold ver⸗ ndelt, und ward der Proceß gehalten, wie die Verwande⸗
+
+| lung der Metallen gehalten wird, welche in Gold verwandelt
+
+Buche der signatur gefihrieben und ausge:
+
+re 383. Also ist das Ziel des Bundes, als das verheissene neue guͤldene Leben, in Veneris Matrice, mit forigepflantzet worden, eine Moͤglichkeit zur Goͤttlichen Wiedergeburt, welche durch feines Hertzens Centrum, durch dieselbe Bewe⸗ ungoffenbarte in Christo, und den Christum, als den Gesalb⸗ ten aus JEsu, als aus feiner tiefsten Demuth und Liebe offen⸗ rte, und den giftigen Mercurium im finstern Bley wieder in n Gold verwandelte.
+
+Ei Dabey uns aber zu verstehen, daß in allen Menschen die Eitelkeit, als die aufgewachte Lebens⸗Gestaͤlte, in ihrer . Selspeitund Streit wieder fortgepflanget worden, und noch immerdar bis in die Zerbrechung des irdischen Leibes fortge⸗ pflantzet wird: Denn so lange der Mensch Hitze und Kälte, oder Kranckheit und Wiederwillen8 in seinem Geiste und Leibe befindet, ist der Eckel noch im vollem Leben.
+
+3285. Die Heiligen GOttes anlangende, welche als Pros pheten im Geiste JEsu aus dem zukünftigen Christo geweissa⸗ get haben, die haben alle aus dem Ziel des Bundes, aus dem verheissenen Worte, das sich wolte wieder im Fleische bewe⸗ gen, geredet; keiner ist im Fleische wieder gantz neugeboren worden: Denn das Wort stund im innern verblichenen Bil⸗ de, und eroͤffnete sich mit der Stimme durch den auffern- und zeigte dem aueen,Menschen an, was — Mercurium, [p. 141] noch begegnen und gescheben solte, wenn sich das Wort den un n, are enb off hes isc Fle io cur Mer ͤr wu ng ssu Verhei darinn den Eckel und Tod des Streits in den Lebens⸗Gestal⸗ ten zerbrechen.
+
+386. Aber nachdem Cbristus aus JEfr im Fleisch offen-
+
+st hei um dar et, alb ges isc Fle sel das p so d, war bar HErrn Gesalbte 387. So wir nun unser Seelen, Begierde in dieses geoffen- auc wir so ren füh Chr isc Fle Worte bar verheissene Wort, welches in allen Menschen im Ziel des des mit fortgepflantzet wird, in unserer Seelen⸗Begierde, ar nb fe of eit enh Wes tli Göt Bil nen bli ver in dem Frincipio, und kommt in Veneris Matrice, als im zweyten n⸗ Me mel Him hte rec nem fei Ott darinn sic schen ist, offenbaret, zum Leben: Das ist, das verblichene Bild bekommt den Göttlichen Hall in der Geelen-Begierde; Christus wird im verblichenen Bilde Mensch, und zertrit
+
+Kop ß, tni tal Ges ens Leb io cur Mer tig gif als dem des falschen Willens, und fuͤhret der Seelen Willen e
+
+Tode, als dem Eckel der Eitelkeitim auffern bleyern Fleische, Gott aus.
+
+Nun verstehet uns weiter mit der Fortpflangung zwischen Maͤnnern und Weibern in heiligen und gottlosen Kindern; wie es eine Gestalt mit der Conjunction der Männlichen und Weiblichen Begierde habe; und wie in keinem Menschen gen heilige Kinder ohne Suͤnden gezeuget we den,als uns der Autor vormahlet, ohne einigen Aa: > gnugsamen Grund (Verstand).
+
+388. Die Conjundion der Begierde gegen den Weibern und Männern kommt von den beyden Müttern, als von der
+
+Zertheilung des Adams, von den beyden Tincturen, vom Feuer als Gi reiner,hes und Lichte, die sindin sich noch viel edler und 5 Fleisc : re phu Sul ius cur Mer ode Fleisch,
+
+sind geschieden, und haben nicht das wahre Leben in sich, son dern sind die feurische Begierde zum wahren Leben.
+
+So sie aber wieder zusammen in Eins ins Wesen kommen, so erwecken sie im Mercurio das wahre Leben; Ihre heftige Begier⸗
+
+[p. 142] Ef Stiefels undEz.Mei de istnach dem Leben: Sie wollen wieder das seyn, das sie im Bilde GOttes waren, als Adam Mann und Weib war; dar aus entstehet nun die heftige Imagination im Sulphure und
+
+Mercurio im Fleische. 389. Des Feuers Tinctur sehnet sich im Fleische so heftig nach des Lichts Tinctur, und des Lichtes nach des Feuers. Der Mann, oder Limbus oder Limus Terræ und des Himmels, sehnet sichnach Veneris Nlatrice, alsnach der freudenreichen Conjundion des Liebe⸗Lebens, als des Liebe⸗Schmeckens:
+
+Welcher SchmackinAdam einig in einander war, darinn er
+
+sich selber liebte, und die Vollkommenheit darinne stund.
+
+3090. Denn das Fleisch weiß nicht, was es thut, es ist zwar wol ein Wesen derselben Begierde; denn in der Begierde der Tincturen wird der Same geboren, darinnen wieder die Tin⸗ stur lieget, und also heftig treibet, daß er auch möge zum Leben kommen: Denn alles Wesen dringet nach feinem Centro, daraus es istgeboren.
+
+Nun ist zu erkennen was da gesaͤet wird. 301. Die Tincturen, welche so heftig imaginiren, sind im men Mannes und Weibes, und der Same wird in der ImN pression des Flats, als im Hunger der Begierde, materialisch, urstaͤndet aus der Kraft des Fleisches und Geistes der bey⸗ Mannes und Weibes: Im Manne ist der Geist feurisch, den, saͤet die Seelische Tinetur; Im Weibe ist der Geist waͤsse⸗ risch nach dem Lichte, der füet des Geistes Tinetur im innern eiche, die Bildniß der verblichenen Wesenheit, und im aͤussern ausdem Eckel der Irdigkeit, ihr Same die Lufts⸗Eigenschaft
+
+so ist im aͤussern gantz cagastrisch; Ist aber das Weib heilig, im innern nach der verblichenen Bildniß iliastrisch, das ist, halb paradeisisch. 3092.
+
+Denn sie trägt den Rosen⸗Garten, darinn GOtt
+
+Mensch ward; sie trägt nach dem zweyten Principio das Haus des Paradeises; aber im ersten Principio traͤget sie das Kind des entstandenen Eckels, aus Adams Lust; und im drit⸗ ten brineipio in der Irdigkeit trägt sie das Sterben, als den Tod und Irdigkeit. Der Mann traͤgt in seinem Samen im ersten Principio die Feuer⸗Welt, als des Vaters Eigenschaft,
+
+Veals Liebe, feine Sohn, feinen Vater daraus neris Matricem offenbaret, das ist des zweyten up genscha [p. 143] or mn genschaft in ihme, doch in feinem Samen nicht offenbar, son⸗ dern nur als ein glimmendes Moder, sofern er heilig ist. dritten Principio traͤgt er im Sulphure und Mercurio in seinem Samen den erweckten Zorn Gottes, in welchem der Eckel wieder GOtt entstund, und in Veneris Matrice offenbarward als in des Weibes Eigenschaft.
+
+393. Diese Eigenschaften werden mit dem Samen nes und Weibes in der Conjundtion in Eines gebracht nehmen die zwey Tincturen einander in grosser Greudenreith an; wie denn empfindlich ist, so der Same fortgehet, wie sich die Tinetur in Freuden erhebet, davon sie des Menschen Leben 9 beweget, als ein freudenreicher Anblick, den Unsern verstanden. 304 Diese zwo Tineturen vermaͤhlen sich alsobald im Pr phure des Samens in Eine, und erwecken den Mercuriumy als den Werckmeister des Lebens, daß er im Samen arbeite, und die Lebens⸗Gestaͤltniß im Sulphure erwecke⸗ Und sodenn der Mercurius nicht genug maͤchtig ist, so zeucht erder Mutter Menstruum an sich, fuͤhrets im Samen der Conjundion, machet den Samen im Menftruo zu Fleische; In we doch eine boͤse Mercurialische Gift ist, und der groͤste wieder die Heiligkeit und Reinigkeit, wie allen Liebhabern nugsam hiemit zu verstehen ist, was für Gift im Menftruo welche auch ein zart Gewaͤchse der Erden verderbet, wie leugbar ist. In diesem Mensteuo und Gift wird der Same Fleische, und die beyde Tineturen sind darinnen; Haben Nahrung von ihrem Wesen, und das wahre Leben in und Geist entstehet daraus. 305 Wo ist nun alhie die gantze Heiligkeit ohne M. dieses Autoris? Weise er mir diese alhie, so will ich ih die Braut Christi halten, wie er seyn will in seinem a Fleische. Die Schrift meldet: Der Mensch wird gesa Unehren, gehet aber auf in Kraft; (1. Cor. 15. 43.) Hie w verstanden das andere Principium,in welchem das Wort ewigen Lebens mit in der Vermaͤhlung inne stehet, doch mi im boͤsem suͤndlichem Fleische das voller entzuͤndeter Af und falscher Begierden ist. Ist aber der Same von g sen Eltern, so ist das Moder im zweyten Principio nicht Sind aber die Eltern heilig, so wird der Same im dreyft
+
+Leben, als in dreyerley Essentz offenbar. Wo aber nicht [p. 144] istdasGoͤttliche Moder, nach der Liebe-Kraft nicht rigen sondern nur nach dem Zorn, und nach der aͤussern Welt. 396. Ob nun fromme Eheleute Kinder zeugen, und sich f zusammen fügen mit Liebe⸗Begierde, so hats nicht den Ver⸗ stand, daß die Imagination oder Begierde Mannes und Weis besheilig ist, daß Christi Geist die Imagination treibe, nach dieses Autoris Duͤnckel; schaͤmet sich doch die edle Seele das vor :Die Imagination rühvet her aus den Tincturen, welche den Mercurium anzuͤnden mit ihrer Luft, und der Mercurius zündet den Geist des Lebens an: Jetzt entstehet die Luft und Wille im Hertzen, als eine heftige Begierde.
+
+Je zarter die
+
+Complexion ist, jeedler ist auch die Tinctur in ihrer füffen Be⸗ gierde: Wird sie aber auch mit ihrem feurischen Pfeil in Ve⸗ neris Begierde geschossen, so wird das Leben entzuͤndet, daß es gleich mehr als halb 5 ist, mit Liebe: Brennen; weiß doch nicht, wie ihme geschicht. 397: Solte dis nun alles heilig seyn, so wurde die Winckel⸗ Duelerey, da manchmal einer eines andern Weib, auch ein einen andern Mann fso heftig feurisch lieber, und mit dies se 1 ilgeschossen wird, auch heilig seyn: Item, so zwey enschen einander ansähen, alda denn bald Frau Venus rem Pfeil scheust, muͤste es auch heilig seyn; da doch il öftersin falscher Luft ausgehet, und ob er am besten t,foists ein Ding, das in allem Vieh ist; es ist natürlich. — 8. Findet man doch Thiere, die sich dessen fihämen, dar⸗ inne angedeutet wird, daß sich die Natur des schaͤmet: und wenn mans am besten und mit dem rechten Namen nennen ter oill,so heisset es ein Eckel vor GOttes Heiligkeit, der aus der duͤnden entstanden ist durch Adams Fall; welcher zwar un⸗ Goͤttlicher Gedult getragen wird, weil es nicht anderst
+
+sey ann, dessen wir viel Exempel in H. Schrift anziehen koͤnten: Als, da GOtt dem Volck Israel Exod. 19: 15. das esetzam Berge Sinai geben wolte, und sich vor ihnen mit Stimme offenbarte, hieß Er das junge Volck, welches solcher Brunst beladen ist, sich der Weiber zuvor enthal⸗ mit ten; das war nicht allein auf das Eheliche Werck gedeutet auf die Imagination.
+
+399. Als David zu Nobe zum Priester Ahimelech Tai;
+
+kein Brot da war, als das heilige; sprach der Priester zu vid: Wenn sich nur die Knaben von Weibern 1 atten, [p. 145] hätten, so wolte er es ihnen geben.
+
+David antwortete:
+
+Es
+
+sind ihnen die Weiber drey Tage versperret gewesen, 1. Sam. 21:5. An diesem istein sonnenklar Exempel, — 2. = ! vids Volck nicht durfte vom H. Brot effen, so fieWe rührt hätten, denn sie waͤren unrein. Auch hatte — Weiber den Knaben darum drey Tage verschlossen, daß sie sich nicht solten mit Weibern durch Luft und Brunst verunre gen, denn er war im Streit, daß sie nicht ein Eckel vor waren, und sie GOtt fallen ließ.
+
+400. Und S. Paulus sagt, 1. Cor. 7:5. von Eheleuten:
+
+Entziehe sich eines des andern nicht, es sey denn mit beyder Bewilligung, daß ihr zum Beten Musse habet: Er m man soll sich des Ehelichen Wercks entziehen, so man zur p nitentz, alsinwahre Busse, mit dem Gebet vor GOtt will. Ist den vorigen beyden Exempeln gleichmäfig. Des rowegen kann man nicht sagen, daß es der Geist und treibe, und sich in die Brunst der a hir hristi för»
+
+uͤhre. 401. Christus ward darum ohne Zuthun ches Mann
+
+Mensch, daß Er uns aus diesem Eckel vor GOtt durch 1 H, Menschwerdung aus fuͤhrete: Er ward ein solch2 fraͤulich Kind mit beyden Tincturen ineinander, mit ei Liebe, daß Er unsere Zertrennunginsich in Eins bracht. 402. Und ist dieses der Eckel vor GOtt im Ehelichen daß der Same unrein istinder Conjunction der beyden eturen: Wenn dieselbe zusammen in Eine gefuͤhret werd die Eigenschaft der ewigen Freudenreich, als das hoͤch gehren und Erfuͤllen; So das ohne Eckel geschehen n waͤre es heilig; Aber der Sulphur des Samens ist ein vor der Heiligkeit. 403. Die Erhebung der natürlichen Bebens-Geftä en sich die Gestaͤlte der Natur in ihrer Selbheit erheben, l im Samen, und sind in GOttes Zorn entzuͤndet, alsim der finstern Welt, durch des Teufels Imagination. D ist dieser unreine Sulphur , aus welchem die Tinctut Feuer Leben, als in der feurischen Essentz, erboren w ein Eckel vor GOttes Heiligkeit; Darum muß auch Sulphur mit dem Eckel gantz zerbrechen und wieder in der Schoͤpfung eingehen.
+
+. Obsich nun das Verbum Domini in bellen deu [p. 146] mit einmischet, so geschicht es doch nach dem innern Menschen, da das Göttliche Fuͤncklein im Bilde GOttes, in der Himmli⸗ schen Wesenheit, fortgepflantzet wird. Denn das Wort der Gottheit im Geiste Christi wohnet im Himmel; und das rech⸗ te wabre Bild von der Göttlichen Welt Wesen geschaffen, Adam starb oder verblich, ist des Himmels Wesen, in ins
+
+Eckel eingehen kann, denn derH.Geist nimt ihn aß. Der Geist Christi besitzet und offenbaret sich in feiner tte, und nicht in der vie hischen Con junction des Suͤnden⸗ uels: Er istnichtinder Kraft der Imagination des Flei⸗ es, sondernin der reinen Biebe-Begierde der Keuschheit und
+
+Treue, da ihrer zwey ihre Gemuͤther zusammen fuͤgen, im Ehelichen Bande, einander ihre Liebe und Treu zum Eigen⸗ thum zu geben, und Ein Hertz und Wille begehren zu seyn;
+
+Alda ist der Geist Christi das Liebe⸗Band, und heisset alhie nun: Mehret euch, seyd fruchtbar.
+
+Gott sprach zu Adam und Eva, sie solten sich mehren in ihrem Ehelichen Bande; sagte nicht, Er wolle es mit dem verheissenen Schlangen Tre⸗ ben ihnen gab Er die Gewalt des natürlichen Men
+
+N — 6. Aber die heilige, geistliche Geburt in feinem Munde a Er in feinem Principio, nicht im verderbten Fleische, in der lmagination der Lust, die mehr viehisch als recht chlich ist. Zwar er fuͤhret heilige Kinder manchmal zu⸗ en doch durch das Mittel, durch seinen Amtmann der ur, wie Er es haben will; das Eheliche Werck aber ist nach
+
+Dienfehen nicht heilig: Nach dem innern ists hei⸗ in den Kindern der Heiligen, nicht in viehische Gefaͤssen. 407. Daß aber Autor setzet: Es werden durch solche Ooosaoclon Mannes und Weibes in ihrer Lust⸗Begier⸗ de, die boͤsen Eigenschaften und Fleisches⸗Lust abgerrant, E im Geiste Christi gantz geheiliget; Es mische sich risti Ciebe⸗Geist in ihre Imagination, und vertreibe al⸗ Eckel, und wircke in der Imagination solche Lust Wan; s und Weibes, und heilige die Imagination und den Sa⸗ davon die Sůnde ersterbe, und ein gantz heilig Rind mpfangen werde, als ein Christ⸗Kindlein, das ohne angel und Sünden, dazu GGtt und Mensch von innen nd aussen sey. Das redet er, als einer der nichts kr 271 eimm [p. 147] beimnig Christi verstehet, und nur also blind dahin tappet, als ein selbst⸗gemachter, ein selbst⸗erwehlter Heiliger ohne — der feinen viehischen Eckel und Greuel nicht kennet; Er will Christum aͤusserlich machen; Und Christus saget doch, fein Reich sey nicht von dieser Welt; Er fuhr nach verrichtetem Wercke gen Himmel: und im Himmel der in uns 9 Er uns bey, und wircket im selben Himmel in uns, und nicht im Vieh⸗Menscheninder fleischlichen Geburt, in der Tod ist. Es istein leeres Geschwaͤtz dadurch junge welche in der Venus ·Begierde fast heftig und feurisch sind, leichtfertig gemacht werden, wenn ihnen so fein vo wird: Ihre Begierde und Lust sey Christi Trieb es der Geist Christi, der wolle sich vermischen zeugen ga! .
+
+408. Da Er auf Erden ging, begehrte Er sich niemals zu vermischen, sondern nur im Geiste, in der Seele und im Bilde Gottes: wird Er sich denn ietzo in das viehische, aͤusserliche
+
+Werck mischen? desselben haben wir kein Zeugnß. InDa⸗ vid war auch GOttes Geist solte sich darum der 8 tes in feine aͤusserliche hurerey gemischet haben und das Werck ö der aufferlichen Imagination gegen Bathseba des Uri Weib, welchen er ermordet, getrieben; so wolte GOtt die ro haben. Nein, Gott straffete David um dieser That um soll man nicht sagen, der Geist Christi mische sich Centrum der Imagination fleischlicher Luft, und den aͤussern Samen; Es istein gantzer Falsch.
+
+409. Er heiliget seine Huͤtte die Er besitzt, er schleust im Werck des Lebens auf und zu, daß der Nercutius,
+
+Werck⸗Meister, nicht fein Werck öfters kann zum Leben gen, und auch öfters zum Leben bringet nach GOttes 5 wie bey den alten Heiligen vielfältig zu sehen ist, zumalin Linea Christi; Aber man muß das Aeussere von dem In unterscheiden. Das Eheliche Werck ist in sich so es in d Ordnung geschicht, nicht suͤndlich, denn es wird durch GOt⸗ tes Amtmann der Natur getrieben, und unter Goͤt ic N BR Gedult ertragen. 410. GHtt stellet ihme die Menschwerdung Cbristi feines
+
+Sohns vor, wie bey den Juden die Opfer welche ibme G Ot } im Bunde, durch die künftige Menschbeit Christi, fuͤrstelle und sich im Bund versoͤhnete, daß fein Zorn er [p. 148] chen
+
+Eckel entbrante; Also auch in unserm Ehelichen Werck t ihme GOtt die wahre Bildniß,so in unserm Samen ver⸗ schlossen liegt, in Christo, feinem Sohne vor, und gehet in der wirckenden Kraft in das Wesen derselben Bildniß von himmli⸗ scher Wesenheit ein, alsein glimend Moder Goͤttl. Eigenschaft. Au. Hierinne liegt der heiligen Eheleute Kinder Heiligkeit. Aber im aͤussern Fleische sowol in der Seele,alsim Feuer⸗Gei⸗ sie, hanget ihnen der Eckel der Sünden am, und wird kein Kind ohne Sünde zur Welt geboren; Das Wollen zum aͤussern Werck der Vermischung muß man unterscheiden vom Wollen der Goͤttlichen Heiligkeit, und vom Wollen der selbst⸗ eigenen Lust. Die Natur will die Brunst⸗Lust als die Vermischung: Gottes Heiligkeit will die Conjunction der reinen Tin⸗ ae In welcher Conjunction sich das Göttliche Centrum, ein heiliger Feuer⸗Funcke, in das Wesen des Himmels⸗ ilds im Worte der Kraft mit einverleibet, und nicht im aͤus⸗ sern Fleische mit einfleischet, wie dieser Autor schreibet. 412. Wenn Christus geboren wird, soll der irdische Mensch weichen; Aber in dieser Zeit ist Christus im Himmel des Men⸗ schen, und der irdische Mensch auf Erden in seiner Selbheit in den vier Elementen.
+
+413. Autor schreyet über andere, wegen Confusion, und verachtet andere von GOtt begabte Maͤnner in ihren Gaben: Dadoch fein selbst gantzes Werck nichts als nur lauter Con- fusion eins ins ander ist; Der aͤussern Welt mit GOTT;
+
+Der Creatur mit der H. Dreyfaltigkeit; Daß man gar kei⸗ nen vernünftigen Unterscheid GOttes und der Creatur bey ihme siehet; Mögen auch kaum Schriften gefunden werden, darinnen eben alles so gar verwuͤstet /verwirret, gar in einander gewirret, und unter weitschweiffigen Glossen verfinstert waͤre, als eben diese: Daß er sich nur unter solchen Verwirrungen möge für einen G Ott darstellen und ausgeben. Das ist sein gantzer Inhalt und Meinung, daß ers 1 414. nicht mehr sey, der da etwas wolle, thue, rede, dencke oder farhabe, sondern es sey nur GGtt in Christo in ihme alles
+
+Wollen Thun, Reden, Sinnen, Gedenden, Rinderzeu⸗ gen, Essen, Trincken, Schlaffen, Wachen; so muͤste er auch das Husten in ihme seyn, und was er sonst in heimlichen Orten thaͤte. Welches fast kurtz verstaͤndig von ihme zu lesen ist; dar⸗ um, daß er nichts will ane will nur alles in a
+
+[p. 149] Gott in Christo seyn, welches ihm billig zu verweisen ist; daß sich andere Leute vor solchem Schein⸗Glantz huͤten, und sich von innen und aussen kennen lernen; auch was Creatur, Mensch, Gott und Christus sey; Nicht also ohne Grund die verfluchte Welt GOtt heissen. 415. Nicht zur Schmach des Autoris wird dis geschrieben, sondern dem Leser zum Nachdencken, daß er erkenne, daßer ein Sünder sey; und was feine Heiligkeit in ihme sey, zu einer gantz treuen Unterrichtung, aus den Gaben die in Gna⸗ "a den Goͤttlicher Liebe mir mitgetheilet worden sind.
+
+Des Autoris zter Punet.
+
+Also folget nun hierauf zum dritten, wie und auf was | weise und Art auch der Mann, Gott, Christus, durch 5 das Goͤttliche menschliche weib komme und offenbar wer⸗ de; und wie durch Christum, den Erstgebornen vor allen
+
+Creaturen ,das allerheiligste Ebenbild, ja selbstaͤndige Mer fen der gantzen, allerheiligsten Goͤttlichen Voͤlle, das drey⸗ einige, hochgelobte, lebendige, kraͤftige Wort Gott Gott selbst/ durch welchen und zu welchem alle Dingenich allein geschaffen, sondern auch nach dem Fall durch sein . Menschwerdung und theures unschuldiges Leiden, Sterben und Aufferstehung, Himmelfahrt und vollkom⸗ menes Verdienst, vollkommen erloͤset sind, wie auch hi vor gemeldet, das gantze menschliche glaͤubige Geschle in der Liebe seiner Goͤttlichen Stimme, Ihm zu heiligen Namens hoͤchsten Lob und Ehren, zu feinem $ gentbum, eigenem Leibe und Weibe, (so Er nicht & serlicher Weise Ihm zuzubereiten, neu zu schaffen und machen, sondern im inwendigen Centro und Wittel
+
+Bertzens) von Anfang der Welt, bald nach dem & in Gnade, Liebe und Barmhertzigkeit, ja im Glaul Ihm verlobt, vertraut, vereinigt, und zu feiner ew Ruhe zu bereitet, imgleichen aach dieser allerheilig Mann Christus J sus, das unschuldige Lamm GOtt fell ja der dreyeinige hochgelobte Sohn GGttes, Gott (so von Anfang der Welt, nach Jeugniß der Z. Sc etwürger ist) in allen Gläubigen und Seiligen, mitfe heiligen, lebendigen, Eräftigen, geistreichen Wort, Q lichen Wesen /Wircken, Wollen und vollbringen, dem Maß seiner erscheinenden Gaben von Anfang
+
+[p. 150] ER Stiefels und Ez. Meths.
+
+Welt erschien; und sich felbft, den rechten Weibes men in dem Weibe feiner Ihm selbst zu bereiteten Liebe geoffenbaret; wieder welchen diesen seinen selbst eigenen
+
+Beiligen Weibes⸗Samen, Er, der hochgelobte dreyeinige Gott selbst, nach Jeugniß der Schrift, die Feindschaft gesetzt, und zugelassen, daß der satanische Schlangen⸗Sa⸗ me, die unglaͤubige, gottlose, verderbte Welt, durch den
+
+Satan und fein nackendes, Aufferliches, fleischliches, füns diges, gottlofes, teuflisches Wesen, auch böfen Sertzens⸗ und Augen⸗Lust geregieret und getrieben, diesen feinen selbsteigenen heiligen Samen in, mit, und samt seinen ei⸗ genen Leibe und Weibe verfolgt, verhoͤhnet, verspottet, verachtet, verläftert, erwürget und getoͤdtet. Wie solches die Jeugniß der H. Schrift klar und wahr, in und an al⸗ len Heiligen bezeugen und offenbaren. Es ist aber auch dieser heilige, Goͤttliche, wesentliche Weibes⸗Same in und an den Heiligen auf mancherley Art und Weise erschie⸗ bh offenbar worden; als in Adam und Eva nach
+
+Fall, und nachdem ihnen durch Christum, den drey⸗ einigen hochgelobten Gott selbst, die Verheissung des voll⸗ kommenen Weibes⸗Samens, des Messi versprochen und . verheissen, hat sich die starcke Hoffnung Glaube und Ver: trauen auf diesen Weibes⸗Samen oͤffentlich aus ihnen ver⸗ lsauten laffen. Wie denn die Eva in solchem gewissen Glau⸗
+
+Herrn Meß iam, gedacht, ihr erstgeborner > 9 hn Cain wäre der Mann, der Err. In Abel offen⸗ bvarte sich dieser H. Weibes⸗Same; und Caͤmmlein GGt⸗ tes; in welchem Glauben er auch dem Zerrn opferte, und seing.Lob und Dancksagung in Gott, das hoͤchste Gut, aufsteigen ließ, darüber er auch von dem Schlan⸗ gen⸗ Samen, dem Cain, erwuͤrget ward. Im Senoch of⸗
+
+·Same 5 fenbarte sisich der heilige Weibes auch so Eräftig, daß er durch und mit GGtt im heiligen Glauben die Mut⸗
+
+samt der heiligen Geburt leibhaftig nach dem Himmel Saane Im Noah offenbartesich dieser Z. Weibes⸗ me und lebendige, wesentliche Wort Gottes so kraͤftig 9mit Lehren, predigen, Weissagen, Straffen, Warnen Busse, Vermahnen, Troͤsten, und Goͤttliche Bestaͤn⸗ eit in und an dem Kasten zuzurichten, auch die darauf erfolgte Suͤndfluth; .
+
+heiligen Weibes * gu [p. 151] ns rNT
+
+### XI. Vom Irrthum der Seeten
+
+auch seine glaͤubige Eltern mit lebendiger Stimme in sei⸗ ner Geburt bezeugten, und sagten: Dieser wird uns troͤ⸗ sten in unserm Elend. Diesen heiligen Weibes Samen in
+
+Abraham bezeugte die hohe Göttliche Majestaͤt vom im⸗ mel selbst, die allerheiligste Dreyeinigkeit, so in aͤusserli⸗ cher Gestalt drey Manns⸗Personen, Ein Err sich offen⸗ barlich hören laͤsset: In diesen deinem Samen sollen alle Voͤlcker auf Erden gesegnet werden; verstehe, so in und an Ihm glauben, und sich denselben regieren lassen. Die⸗ sen heiligen Weibes⸗Samen bezeugt auch der Dreyeinige Gott, Ebriftus IEsus selbst, im Isaac. In Rebeccs of⸗ fenbarte sich beyde in ihrem Leibe vor der Geburt, dieser heilige Weibes Same und auch der Schlangen⸗Same in⸗ ⸗ d Schlangen-Samen, Esau gus dem der Unglaubensun der Sau dem Unglauben geboren, welcher den heiligen
+
+Glaubens ⸗Samen des heiligen Weibes in der Rebecca, heiligen Jacob, verfolgte, stieß und trat; welches er her⸗ nach ferner nach der Geburt ihm selbst schrecklich und ver⸗ dammlich continuirte, und den lieben Jacob zu erwuͤrgen draͤuete. Wie groß, heilig und herrlich dieser . Weibes⸗ Same in dem lieben Jacob sich offenbarte, von welchem der err Jebaoth selbsten herrliche, heilige eugniß gibt;
+
+derentwegen Er auch ihn so hoch tituliret, daß Er ihn Israel, einen Fuͤrsten und Regenten mit GGtt menden3 Diesem werden glaubige Kinder, und Weibes Samen hochgelobten dreyeinigen GGttes, mit und in diesen Ge vereiniget, ferner nachdencken, und insonderheit durch diesen beiligen, guten, Goͤttlichen, lebendigen, wircklichen, wesentlichen Samen GOttes, Christum IEsum, das le⸗ bendige Wort Gottes, vom kleinsten Senf koͤrnlein, und wenigsten kleinesten Maß und Stuͤckwerck bis die gantze erscheinende Hülle der GGttheit in und an ermessen, nach Jeugniß Seil. Schrift; daß zu solcher ligen neuen Geburt, Ursprung und Anfang in dem g.
+
+bigen Sertzen, keine weltliche Witze, Runst, Wissensch
+
+Schriftgelehrte und Memorial⸗lebrende, Philosophi Aogische, natürliche, eingebläute Runst, Ichts oder was im allergeringsten thun und ausrichten Eönne, Jeugniß der Schrift: Wo sind die Schristgelehrten, w sind die Weltweisen, wo sind die Cantzler, wo sind die
+
+Köthe
+
+[p. 152] "et Stiefels und Ez. Meths
+
+Ae 7 hat nicht Gott die Weisheit der Welt; zur Thor⸗ heit gemacht? Wie denn auch klar und offenbarlich an al’ ler Welt Weisheit und Schriftgelehrten Runst und Er⸗ fahrenheit erscheinet: Ob sie gleich viel Jahr von ihrer an bis ins hoͤchste Alter, nach weltlicher Art in Kindheit ihrem Stande, ein groß Ansehen baben gehabt, muͤssen sie sich doch endlich vor diesem dreyeinigen Samen Gottes, Christo Isu, dem lebendigen wesentlichen Wort GGt⸗ tes, vom kleinesten Stuͤckwerck an bis zur hoͤchsten Voll⸗ mmenbeit, in allen eiligen schaͤmen, ihre Kuͤnste fah⸗ ren laffen, darüber klagen, und sagen, daß sie ihnen zur Seligkeit nie nichts nůtze, sondern gantz schaͤdlich gewesen:
+
+Wie denn ihrer viel auch vor ihrem Absterben solche er⸗ lernte Kunst und weltliche, natürliche Weisheit also ver⸗ geffen, sonaͤrrisch und kindisch worden sind, auch wol in allen Staͤnden, daß sie leider das täglich von Kind auf dem Buchstaben nach erlernte Vater⸗Unser nicht mehr im
+
+Gedaͤchtniß gehabt und erzehlen koͤnnen. Wie denn dieser 5 nohtwendigen Erinnerung nach, die herrliche Erschei⸗ nung dieses heiligen Weibes „Samens nach dem Maß, min allen Heiligen, in Joseph, Mose, Josua, Rebecca, David, Salomone, und allen heiligen, frommen, glaubigen Leuten und Propheten Alten und Neuen Testa⸗ ments in Worten, Wercken und Thaten, bis zur gantzen vollkommenen in⸗ und aͤusser lich sichtbarlichen Geburt des N Sohns Gchttes, aus der vollkommenen reinen Jungfrau⸗ en und Bebärerin Gottes der Maria geboren, ein ieder
+
+Auserwehlter zum hoͤchsten Lobe GGttes mit GStt fels ber ermessen, sich darinn erlustigen, und den Hoͤchsten ewig mitihm selbst dafur zu ruͤhmen wissen wird.
+
+AR
+
+Gegen⸗Antwort.
+
+416. Autor meldet von dem Drey⸗Einigen Gott und Mann Christo, von dem Goͤttlichen Weibe, und zeiget an, daß nicht allein alle Ding durch denselben und zu demselben Dre. Einigen Manne Christo geschaffen, sondern auch nach Fall, durch seine heilige Menschwerdung, sein theures Rinschuldiges Leiden, Sterben, Auferstehung, Himmelfahrt, und vollkommen Verdienst, vollkommen erloͤset seyn: welches alles viel einer andern Erklärung bedürfte.
+
+4 AT: Denn so ich sage, Christus ist der Drey⸗Einige Str,
+
+[p. 153] Gottso sage ich von keinem Mann oder Creatur: denn die H. Erea · Dreyfaltigkeit ist kein Mann noch Weib,vielweniger eine tur: Allein Er hat sich durch und in der Menschheit offenbaret, und in einem Menschen⸗Bilde sichtbar gemacht; Aber das sichtbare, greifliche Wesen des Fleisches ist nicht die Drey⸗Einige Gottheit, sondern der Geist in der Kraft des Fleisches der Göttliche Geist in dem Menschlichen, * uncreatuͤrliche in dem creatuͤrlichen ist GOtt.
+
+408. Christus, so viel Er der Drey⸗Einige GOtt heisset, nach dem ewigen Worte, in dem Namen Jehova oder JEsus, ist, so viel die unmeßliche Gottheit anlanget, kein Mann oder Ereatur, sondern die Fuͤlle aller Dinge, in sich selbst woh⸗ nend: Aber nach dem Namen Christus ist die Gottheit sicht bar; und dieser Christus, als der Gesalbte GOttes, dringet allein auf die Menschheit, nicht auf alle Creaturen; Er ein⸗ eignet sich, ausser dem Menschen, keiner Creatur, hat auch mit feiner Menschwerdung Leiden, Sterben und Auferstehung, ausser dem Menschen, keine Creatur erloͤset: Er ist allein mit dem Namen Christus in der Menschheit offenbar worden; Nicht in irdischen oder himmlischen Creaturen: Die ir⸗ dischen und himmlischen Creaturen duͤrfen keinen lag und die hoͤllischen haben keinen: Dieser Christus ists, den GOtt, welcher in Ihme wohnet, und sich selbst mit ee hat offenbaret, alle Dinge richten, und das Boͤse vo Guten scheiden will.
+
+419. Nicht ist Er in den Creaturen offenbar, daß Er diesel ben wolte zur Ewigkeit erlösen, und creatuͤrlich in ihnen wohnen, wie Er im Menschen wohnet; Alle Creaturen dieser Welt, ausser dem Menschen, gehen wieder in das anfangs sind ausgegangen. daraus sie
+
+420. Wenn ich will vom Manne Christo reden, was er fuͤr ein Drey⸗Einiger GOtt und Mann sey, so unter scheide ich die Menschliche Creatur, die Er von uns Menfihen angenommen hat, von der Drey⸗ Einigen Gottheit; Das geoffen⸗ barte Wesen von der Kraft und Allmacht Nicht daß es getren⸗ net sey/sondern darum, daß der Geist GOttes Höher ist als das Wesen, das Er in feiner Begierde in seinem ausgehauchten Hall erbieret: Denn nach unserm Wesen nante sich Christus des Menschen Sohn, und sagte: Der Vater sey groͤsser denn Er
+
+Job. 14: 28. Nach der Menschheit hat Er eine ge.
+
+[p. 154] ‚Gewalt ; Nach der Gottheit aber istEr der Geber selber: Der
+
+Mann istunsere Menschheit, und der Christus ist der Gesalbte GdOttes, den GOtt durch und aus dem Namen Jehova oder JEsus, aus der Tieffe der Weisheit, aus dem Centro GOt⸗ tes, aus der groͤssesten Liebe, hat offenbaret, und der Mensch⸗ lichen Creatur zu einem Lichte und ewigen Sonnen gegeben.
+
+4421. Nicht daß dieser holdselige, suͤsse, liebe Christus der
+
+Mannn sey, sondern der H. Sonnenschein in der grossen Lie⸗ be⸗Flamme , in dem Manne: Denn so ich einen heiligen Chri⸗ sten⸗Menschen sehe gehen oder stehen, so sag ich nicht: Hie stehet oder gehet Christus, das thut alles Christus; sondern ich sage: Da stehet und gehet ein Christen⸗Mensch, in deme die Sonne Christus scheinet. Die Person von Adam ist nicht der Christus, aber die Person von der Kraft Gottes, die in dem Manne Adam wohnet, nach dem himm⸗ lischen Theil, die ist Christus.
+
+422. Gleichwie die Sonne in der gantzen aͤussern Welt scheinet, und alles kraͤftiget und fruchtbar machet, und die Welt ist nicht die Sonne; Also auch scheinet der Christus, 7 eine geoffenbarte Sonne, aus Jehova oder JEsu in der ECreatuͤrlichen Menschheit Christi: Der Name Cbristus ist iegeoffenbarte Sonne, aus dem ewigen Namen Jehova oder J Esus: Jehova ist die ewige Göttliche Sonne, in welcher 5 Helene Liebe⸗Sonne Christus, als ein Hertze im Centro der iligen Drepyfaltigkeit, ist allen Creaturen verborgen ger wesen, und aber durch die andere Bewegung der Gottheit, als eine heilige, suͤsse Liebe⸗Sonne offenbar worden.
+
+423. Ich muß nicht sagen, daß in der Person Christi, als in dem Menschen, nach feiner Menschheit, nach dem Theil das Er von uns Menschen von unserm Leib und See⸗ le, hat an sich, das ist,andie Gottheit, und an die Göttliche Wesenheit oder himmlische Lieblichkeit angenommen, sey die
+
+. Ereatur aufgehaben, oder daß die Creatur, Seele und Leib von uns, unmeßlich sey; Nein, das ware nicht unser ewiger den ich nicht mehr in Mannes⸗Gestalt sehen önte: Denn auch die Männer, als Er zum Himmel fuhr, sprachen: Ihr werdet diesen JEsum sehen wiederkommen, wie Er aufgefahren ist. (aA. 1. 11.) © 424. Allein die Gottheit in Ihme und der Christus, (ver⸗
+
+Goͤtt⸗ schen, Himmli samt chaft) Eigens Göttli stehet lichen [p. 155] vr lichen Wesenheit, damit Er sagte: Joh. 3: 13. Er waͤre vom
+
+Himmel kommen; diese ist umcreatürlich , und doch iniedem Ehristen⸗Menschen, als eine eigene Sonne, aber nur ein einiger Punet, der aus dem Quell⸗Brunn dieser Sonne aus⸗ scheinet; zwar von keinem Orte oder Staͤtte, sondern die Statte dieser heiligen Offenbarung ist in allen heiligen Men⸗ schen. Das Centrum des Urstandes dieser Sonnen ist in al⸗ len Menschen, aber diese Sonne wird nicht in allen Menschen offenbar, nur in der Begierde zum Punct, welches 1 Chri⸗ stus, dessen Punct ist JEsus aus Jehova. mu 425. Was aber das heilige Weib anlanget, dawn die Autor meldet, welches heilig und vollkommen if,darinn d Mann Ebristus geboren wird, beduͤrfte auch gar viel — klaͤreren Auslegung. Er feget zwar die heilige Christen zum Weibe ein, das man nicht tadelt; se muß man sol⸗ ches nicht vom aͤussern, irdischen Menschen reden; dieseri nicht Christi Weib, sondern der innere, Himmlische, us, liche, Seelische, welcher in Adam verblich, den Christu als die heilige Sonne, lebendig machet. Di F. 426. Autoris Schreiben haͤlt gar das Contrarium, lauft wieder sich selber; denn alhie in diesem Punet schreib: er von diesem Weibe und Leibe also: So er nicht aͤusserlich Weise ihme zuzubereiten, neu zu schaffen und zu mache sondernim inwendigen Centro und Mittel des Hertz vom Anfang der Welt, bald nach dem Fall, in Gne Liebe und Barmbertziskeit, ja im Glauben ihm verlo⸗ bet, vertrauet, vereiniget, und zu seiner ewigen Ruhe; 2 bereitet. Ingleichen auch dieser Heilige Mann bl IE sus, das unschuldige Lamm Gottes, ja hai hochgelobte Sohn GGttes, Gott felbft, so 75 der Welt, nach Feugniß der Schrift, erwuͤrget len Gläubigen und Yeiligen, ꝛc. Hactenus ille.
+
+427. Zuvor setzt Autor am andern Ort daß, so chili Menschen offenbar werde, die Natur gantz hinw er, daß Christus im inwendigen Centro Jetzt setzet tel des Hertzens sich habe von Anfang der Welt mit den e ligen im Glauben verlobt und vereiniget. 428. Welches zwar recht ware, wenn er nicht 9 7
+
+Manne Christo redete, sondern vom verheissenen en unde, [p. 156] undG meche, ds Stiefels Ef B.unde, welcher erst in der Zeitden Bunderfuͤllet hat. Denn nicht Christus, der Mann, der inder Zeit, im Ziel des Bun⸗ des sich offenbarte, istinden heiligen Vätern ermordet wor⸗ den, sondern die Kinder des Glaubens, in welchen der Bund
+
+——— offenbar ward.
+
+2 — 7 Christus hat feinheiliges Leben inder suͤssen Liebe ein⸗ ma einem Vater in seinen Zorn, welcher in Menschlicher
+
+Eigenschaft offenbar ward, einergeben, aufgeopfert, und itderdiebedenZorn zerbrochen: Er ist nicht in allen Hei⸗ gen 8 Adam her gestorben, und hat sich lassen morden koͤdten.
+
+430, Allein die Kinder des Glaubens, und 15 Bundes,
+
+: 1 n sich lassen nach dem Menschen der Suͤnden toͤdten; Auf⸗ das Wort des Lebens im Bunde in ihnen das neue ver⸗ eissene Leben, so sich im Bunde wolte offenbaren, mit der zukunftigen Sonne des neuen Lebens, im Geiste des Bundes — anzoͤge, daß, so sich Christus würde im Bunde im Fleische of⸗ fenbaren, Er auch im selben Bunde, der sich in ihnen eroͤffnet hatte in ihnen mit der Goͤttlichen Wesenheit, als mit isti himmlischem Fleische, offenbar wuͤrde; Denn auch nach Christi Auferstehung, als Er die Menschheit hatte ange⸗ nommen, und den Tod erwuͤrget, nicht Christus in seinen Glie⸗ dern, in den Christen, ist mehr gestorben, oder erwüͤrget worden, sondern Adam in Christi Tode, auf daß Christi Geist der Seele und dem heiligen Menschen leben moͤge. dn 4431. Wenn Christus geboren wird, so soll der Mensch der ee immerdar sterben, bis er endlich, so der aͤussere Leib hoͤret. So aber Christus, das damm GDthinfaͤllet, gang auf tes, istin den Alt⸗Vaͤtern erwuͤrget worden, so ist die Versoͤh⸗ nung in ihnen geschehen, und kommt sie nicht einig und allein vom Sohne Marin. 432. Abel war nicht das damm GOttes, der fuͤrdieSuͤn⸗ de erwuͤrget ward: Christus starb nicht in Abel, sondern in dem Leibe, den er in Maria annahm. Abel und alle Maͤrterer sind ihres eigenen Leibes gestorben: Um des Bundes willen, der sich in ihnen eröffnete, wurden sie ertoͤdtet, und starben ihres Adamischen, fündlichen Leibes, und nicht des Heiligen
+
+Leibes, welcher in Bunde geschlossen war, welchen Chri⸗
+
+stus, wenn Er sich im Bunde pureoffenbaren, wolte zum ewi⸗ [p. 157] ewigen Leben und heiligen Fleische offenbaren, in welchem Er wohnen, und dessen Kraft und Leben seyn wolte. 433. Wenn die H. Schrift saget: Christus sey in den Hei⸗ ligen erwuͤrget worden, so verstehet sie die Glieder des Leibes Christi, nach Christi Menschheit, welche Er, der Christus, annahm: Sieverstehet nicht den Drey⸗Einigen GOtt, daß
+
+sich derselbe habe lassen vom Anfang der Welt erwuͤrgen; Denn kann doch Gott nicht sterben, nur des Leibes Christi
+
+Gliedmassen nach der Menschlichen Creatur sterben, nicht nach dem Geiste Christi.
+
+434. Denn Christus hat sich darum in der Menschheit of fenbaret, und den Tod in feinem angenommenem Leibe erwuͤr⸗ get, auf daß die Pforten zum Leben in uns aufgethan würden: Denn soich um Christi Namen und Bekentniß willen ermor⸗ det wuͤrde, so stirbet nicht Christus in mir, sondern Adam
+
+stirbet in Christi Tod, und Christus wird in meinem Sterben erst recht offenbar: mein Sterben ist Christi Auferstehungin mir, denn ich sterbe der suͤndlichen Ichheit ab, und lebe der Ge⸗ lassenheit im Geiste Christi.
+
+435. So ist nun dieses ein nichtiger Ungrund, daß A
+
+schreibet: Daß der Mann Christus JEsus, das unschuldig
+
+Lamm Gottes, ja der Drey Einige hochgelobte Sohn GOt⸗ tes, GOtt selbst, so von Anfang der Welt, nach Zeugniß der >
+
+Schrift, erwuͤrget ist in allen Gläubigen und Heiligen.
+
+436. Der Drey⸗Einige GOtt ist nicht von Anfang de
+
+Welt in feinen Gläubigen erwuͤrget worden, die Schrift fa das nicht; sondern die Gläubigen Menschen sind erwuͤrget worden um Christi willen, und nicht der Drey⸗Einige E stus, in ihnen; Der Mensch in seiner Selbheit und Ichheit nicht selber Christus, sondern Christus wohnet in ihme: Er ist der Schein feines heiligen Lebens, wie Er selber saget Joh. g.
+
+Ich bin das Licht der Welt; Das redet Er nach dem Na⸗ men Christi aus JEsu, und nicht nach unserer Menschheit.
+
+die am F farb, davon Ihn Esaias einen einfältigen Knecht rin e er sagte: Wer istso Einfaͤltig als mein Ra 42:10.
+
+437. Dieser Knecht GOttes ist nicht die Heilige Dreyfal⸗ tigkeit, sondern die Offenbarung und Wohnung der Heiligen
+
+Drepfaltigkeit: Der Knecht ist erwuͤrget worden als ein Lamm, und nicht die H. Dreyfaltigkeit.
+
+438. Man
+
+[p. 158] "Ef. Stiefelsumd Ez Meths.
+
+438. Man muß allezeit Unterscheid machen zwischen GOtt und der Menschheit; sonsten so GOtt in feiner Drepheit mwaͤre gestorben, so waͤre der Tod staͤrcker denn G Ott, der sich dem Tode haͤtte einergeben muͤssen. Christus ist wol GOtt und Mensch in Einer Person; aber die Gottheit, als die Goͤtt⸗ Ache Eigenschaft, ist nicht die Person, oder Mann, sondern der Mensch ist der Mann und das Lamm Gottes, das erwuͤr⸗ get ward; und heisset Christus von der Salbung, daß GOtt
+
+Christi hat mit feinem Geiste ohne Maß t.
+
+339. Denn der JE sus ist die Salbung, als die tiefste Liebe in der Gottheit.
+
+So ist nun das Lamm Gottes nach der
+
+Menschheit, als in denen Gliedern, darinn der verheissene Bund m;aus welchem Bunde sich die Salbung wolte offenbaren, ermwuͤrget worden: Nicht Christus, der Gesalbte GOttes, welcher im Bunde in ihnen verborgen war.
+
+440. Abel war nicht mit Christo gesalbet, aber wol mit dem verheissenen Worte im Bunde; in welchen sich der Chri⸗ stus offenbarete. Als sich Christus im Bunde in Menschli⸗ dbqger Eigenschaft offenbarete, so zog Abel Christum im Fleische an: Vor Christi Menschheit hatte Abel den Bund im verheis⸗
+
+seenen Worte angezogen; Als nun Christus vom Tode auf⸗ stund, so stund auch Abel in Christi Salbung, in Christi
+
+Menschheit, aus Christi Tode auf, und lebete in der Salbung
+
+Christi. 441. Der Mensch Christus ist dererste, der von der Sal⸗ bung istvom Tode auferstanden, und ist auch der erste, der in der Salbung ist der Menschlichen Ichheit abgestorben. Er ist ‚einig allein das Lamm GoOttes, in deme Gott feinen Zorn zer⸗ r feine Glieder, auf welche elalle Maͤrterefind 0 each; Abund
+
+Todes Zerbrechung aus diesem Lamme Christo drang: m Abel ist es eine zugerechnete Gerechtigkeit; nicht eine selbthaͤtige eigen, empfangene. Abel war vor Christi Mensch⸗ heit nicht das Lamm Gottes; In Christi Menschheit aber ü ward er ein Glied im Lamme GOttes.
+
+%442. Christus hat in allen Dingen den Vorzug, und hat sich keiner moͤgen einen Christen vor Christi Menschwerdung nennen;
+
+viel weniger das Lamm GOttes, das in Christo er⸗ uͤrget ist. Sie sind allesamt nur im Glaubens Geiste auf Christi
+
+[p. 159] 316 * Vom Irrthum der Secten
+
+Christi Zukunft ertoͤdtet worden; haben Christum im Bunde der Verheissung im Glaubens⸗Geiste angezogen, nicht als ein Lamm oder Mann, sondern in Kraft, nicht im Fleische, son⸗ dern im Geiste; auf daß Christus sey der erste, so im Fleische nn das Lamm Gottes genant wuͤrde. 443. Autor meldet also: Es ist aber auch dieser heilige, Göttliche, wesentliche Weibes⸗ Same in und an den Seili⸗ gen auf mancherley Art und Weise erschienen und offen⸗ bar worden. Als in Adam und Eva nach dem Fall. 444. So dis also ist, daß der Goͤttliche, wesentliche Wei⸗ bes⸗Same in Adam und Eva istoffenbar worden, so haben sie Christum, als den wahren Meibs⸗Samen im Wesen er gen, so haben sie ferner auf keinen Weibs⸗Samen dürfen: ten: Warum sagte denn Eva, als sie Cain gebar, Ich den Mann, den HErrn?
+
+Hat sie zuvor den wesentlichen We.
+
+in ihr offenbar gehabt, warum hoffet sie aufeinen andern? 445. Gott sprach auch zu Abraham: In deinem Sam fi sollen alle Voͤlcker gesegnet werden; das war ja auf den kuͤnf⸗ tigen Weibes⸗Samen geredet, der sich in Abrahams Samen wolte wesentlich mit Goͤttlicher, Himmlischer Wesenheit o fenbaren. Waͤre es aufs gegenwaͤrtige geredet gewesen fohätte GOtt ihm nicht die Beschneidung befohlen, und her⸗ nach die Opfer; der wesentliche Weibes⸗Same war nicht im Opfer, sondern das Wort der Verheissung im Bunde. De wesentliche Same, davon GOtt sagte, darinn alle Volcker sol⸗ ten gesegnet werden, der lag in Abraham verschlossen, Eröffnung, der Name JEsus solte ihn eröffnen: 1 ging AbrahaͤVerheissung.
+
+IP, "
+
+446. Dieselbe Befenbeit, darinnen GOtt wolteMensch werden, war in Adam verblichen, als er am Himmelreich und Paradeis starb.
+
+Dieser verblichene Same wardin feinen 3
+
+Principio mit fortgepflanget, und in diesem Samen stunddas
+
+Ziel des Bundes, da sich der Geist Gottes in den Heilig n aus offenbarte, und nicht durchs verblichene Wesen. Aber mit Christi Menschwerdung ging die wesentliche Offenba⸗
+
+00 an da Gott im Wesen, als ein Leben des Wesens innen wohnete.
+
+Era
+
+447. Ferner schreibt Autor: Und nachdem ihnen— Auge + | Cbristum, ꝛc. bis, lauten lassen. 448. Sat
+
+[p. 160] 448. Hat nun Christus wesentlich in Adam und Eva ge⸗ wohnet? was duͤrfte er ihnen ein ander Wesen verheissen: Ich habe nur Bedencken, Christus wird in Adam nicht seyn offenbar gewesen, vielweniger hat Christus Adamo verheissen, infeinem Samen Mensch zu werden; Sondern Gott verhieß
+
+Adaͤ den Christum, als den Gesalbten GOttes, zu erwecken, in seinem Samen, als in des Weibes Samen, nicht in des
+
+Mannes Samen, wie im 4. Punct soll ausgefuͤhret werden. Christus ist in Adam und Eva, im Ziel des Bundes, in dem Namen JEsu, in Jehova in Göttlicher Verborgenheit ges standen, im Samen Adaͤ und Eva, ohne Menschlich We⸗
+
+sen, und im verheissenen Samen unbeweglich, bis ans weget
+
+Ziels, da hat Er sich im Weibes⸗Samen be⸗
+
+449. Die hoch einher viel-prafende Rede vom Drey⸗Eini⸗ gen Weibes⸗Samen vor Christi Menschheit, ist vielmehr eine zerwirrung als Erklärung. So ist doch in keinem Heiligen, vor Christi Geburt, Christus in des Weibs⸗Samen offenbar gewesen, sondern im Geiste der Gottheit, auf Prophetische lt, und nicht auf Menschliche.
+
+450. Mit des Weibes Samen wird allezeit das Paradeis, welches in Adam verblich, verstanden, als die Himmlische Leib⸗ lichkeit, vom reinen Element, und nicht von 4 Elementen, das ar weder in Adam noch Abel mehr offenbar, bis der Held
+
+Christus in diesem Samen offenbar ward. 451. Dieser Autor wirfts also wunderlich durch einander, daß es keinen gnugsamen Verstand hat; Bald redet er vom Glauben, daß die Heiligen haben den Weibes⸗ Samen im Glauben offenbar gehabt: Gar bald sagt er vom Wesen, da doch im Wesen keine Offenbarung in ihnen war, sondern nur
+
+Glauben war die Göttliche und Menschliche Conjunction Geiste, und nicht im Weibes⸗Samen.
+
+452.
+
+Den Drey⸗Einigen Gott Christum setzt man nicht ins Menschliche Wesen, vor Christi Menschwerdung: Denn nachdem das Wort Fleisch ward, hieß Er Christus, und nicht ʒzuvorn im Bunde, da Er nur in der Verheissung war. Ob er wol in der Tieffe der Gottheit von Ewigkeit gewesen ist, so hat darum nicht des Weibes Same geheissen; des Weibes⸗
+
+Same ward eher nicht Christus genant, bis sich das Wort FR
+
+SGdties
+
+[p. 161] GOttes in des Weibes Samen offenbarte, und des Weibes
+
+Samen heilige, und zum Goͤttlichen Leben gebar.
+
+453. Des Weibes Same erlangte die Salbung in der Bes wegniß des Namens JEsu in Marien, und nicht in Adam, Abel, Henoch, Noah, Abraham, Isaac, Jacob und David.
+
+Die alten Heiligen erkanten nicht Christum in ihrem Samen, daß Er sich in ihnen, in ihrem Samen hätte bewegt und offen: baret; sondern in ihrem Geist und Seelen, nichtin sleischli⸗ chem Samen, sondern in der Glaubens⸗ Begierde, als eine Göttliche Gonjunction.
+
+454. Was Autor ferner von der Schlangen Samen wel.
+
+det, wie er sich habe in den Heiligen offenbaret, neben dem hei⸗ ligen Weibes⸗Samen, wie er denn rund sagt, Esau sey aus der Sau, als aus der Schlangen Samen geboren worden das istbey ihme, dem Autore, ein lauter Unverstand und Ver⸗ wirrung. 455. Esau ist von keiner Sau geboren worden, denn fei Mutter war keine Sau: Er war aus Isaacs und seines bes Samen gezeuget, wie sein Bruder Jacob; Aber der ent⸗ zuͤndete Zorn GOttes, welchen Adam erwecket, hatte Esau ergriffen: Denn Liebe und Zorn waren im Menschen beyde offenbar worden, als Boͤses und Gutes, die waren allezeit Kingen, bis endlich der Christus kam, und den Zorn mit! füffen Liebe GOttes aus JEsu uͤberwandte, und in Goͤ Freude verwandelte. Eu war ein Vorbild des irdisc hen, fündlichen Adams; Jacob ein Vorbild Christi.
+
+456. Christus wolte den Esau durch Jacobs Samen nen und versoͤhnen; denn Er war kommen, den armen der, als den verderbten Adam und Esau, zur Busse zu ru
+
+seg⸗ und nicht den gerechten Jacob in Christi Linea: Esau istni ang aus der Schlangen Samen gezeuget; sonst muͤsted 1 in Isaac und Rebecca, in ihrem Samen, daraus sie
+
+Esau gezeuget hatten, gewohnet haben, welches abscheulich zu reden waͤre.
+
+457. Autor macht eine Hoͤllische Thür auf in den heilige Vätern, welche er doch sonst will vollkommen haben: Ding ist vielmehr eine Lasterung und Schmach Gottes, als eine Christliche Erklaͤrung.
+
+458. Daß sich Jacob und Esau in Mutter⸗ Leibe gestossem bedeut an einem Theil das Paradeis, und am andern 4280 ir [p. 162] irdische Welt, als GOttes Liebe und Zorn, welche beyde in Menschlicher Essentz raͤge waren, und im Streit um den Menschen: Wie ich an andern Orten weitlaͤuftiger ausgefuͤh⸗ ret habe.
+
+450. Autor soll aus Esau keine Sau machen, noch aus Ca⸗ in also gantz einen Schlangen⸗Samenz er soll es in H.Schrift beweisen, oder wir wollen ihm keinen Glauben zustellen. Denn das Gericht gehoͤret GOtt, und keinem Menschen, er kann es nicht beweisen, daß Cain und Esau sind geborne Teu⸗ fel, gantz aus der Schlangen Samen gewesen. Denn GOtt sprach zu Cain: Herrsche über die Suͤnde, laß ihr nicht den
+
+Gewalt; Also war noch eine Moͤglichkeit im Cain, daß er konte es GOtt ihn nicht ge⸗ über die Suͤnde herrschen; Sonst haͤtte n: was aber gantz der Schlangen und Teufel ist, da ist eine Moͤglichkeit. Esau hatte eben die Seele als Jacob, bey⸗ de aus ihren Eltern erzeuget: und war nur dis der Unter⸗ scheid, daß in einem die Göttliche Liebe, im andern der erweckte Zorn offenbar war, welchen doch Christus wolte mit seinem Blut ersaͤuffen inallen denen, so ihrer Seelen Begierde wuͤr⸗ in Ihn einfuͤhren. 460, Daß aber Autor alle weltliche Witz und Kunst ver⸗ wirft, und sagt, sie diene nicht zum Reich Gottes, sondern sey vielmehr schaͤdlich, beduͤrfte auch einer andern Erklärung,
+
+Die Kunst gibt zwar keine Goͤttliche Kraft oder Weisheit, fördert auch nicht zu GOttes Reich: Sie gehoͤret aber dem
+
+Auffern Menschen der Wunder Gottes, daß er soll GOttes
+
+Wunder und grosse verborgene Weisheit schauen, und GOtt in allen feinen Wercken loben. Wenn der aͤussere Mensch keine Kunst lernet, so ist er dem Vieh am allernaͤchsten, das da nicht weiß, was das Wesen aller Wesen ist. 461. Die Goͤttliche Weisheit stehet zwar nicht in Kunst und
+
+Vernunft, sie weiset aber der Kunst den Weg, was sie thun, und wie sie sich fischen soll: Ist doch die Kunst GOttes Werd: sie ich soll was arbeitet: Weisheit Goͤttlich damit zeug, denn verachten? Durch Kunst werden alle Creaturen von Menschen regieret, und in Kunst wird der auffere Leib bedecket, und vor Hitze und Kaͤlte bewahret. 462. Auch meldet Autor, wie von bußfertigen Menschen alle Kuͤnste hindangesetzet und vergessen werden, und man⸗ cher im Alter also Kindisch werde, daß er das erlernete
+
+Vater⸗
+
+### [p. 163] XI. Vom Irrthum der Seeten
+
+Vater Unser auch endlich vergesse, das ist von ihm fast tů⸗ ckisch gemeint, denn er zuvorn auch gesagt hat: Er sey also vollkommen, daß er das Vater⸗Unser nicht mehr beten duͤrftez Wolte vielleicht gern, daß niemand lernete beten, auch sonst keine Kunst lernete, so duͤrfte er nichts vergessen. 463. So niemand keine Kunst lernet, so koͤnnen wir nicht mehr unsern Stand auf Erden treiben; und so niemand mehr lernet beten, so bleiben alle Menschen in der Selbheit, so ist die Suͤnde gantz verdeckt, und wird nicht mehr erkant: Alsdenn stehet die Thorheit an der Stelle der Kunst, und wird der Mensch in seiner Vernunft allem Vieh gleich. Je tiefer ein Mensch von GOtt gelehrt ist, je tiefer siehet er in GOttes Wunderthat in der Kunst; Denn alle nuͤtzliche Kuͤnste sind aus Gottes Weisheit geoffenbaret, nicht daß sie das sind, da⸗ durch der Mensch zu GOtt komme, sondern zum Regiment des aͤussern Lebens, und zur herrlichen Offenbarung Girtipee Weisheit und Allwissenheit. 464. Mit dem vermeinten Weibes⸗Samen, darinn erver⸗ meint, gantz Goͤttlich und Heilig zu seyn, wird er nicht alle Kuͤnste aufheben, denn der Weibes⸗Same ist Menschlich : Wenn aber Christus, als GOttes Liebe, den annimt, und sich darinnen offenbaret, so ist derselbe Weibes⸗Same Christi Menschheit, als das wahre Bild GOttes. Autor heisset den Weibes⸗Samen den guten, heiligen, Goͤttlichen, lebendig dieen, wircklichen, wesentlichen Samen GOttes, 29 um
+
+GOttes Same, oder des Weibes Same ist, was oder Kraft ist. 465. Wenn ich einig und allein vom Weibes⸗Same⸗ rede, so sage ich nicht, GOttes Same Christus IEsuss Der Name JEHSUS ist Goͤttlich; aber der Name Ebriftt ist G Ott und Mensch. Als sich JEsus im Weibs⸗Samen offenbarte, und den annahm, so hieß die Person Christus;
+
+Nun ist doch der Name JEsus das heilige, Göttliche Le ben, als der Göttliche Same, aus dem Worte der Gott⸗ heit: Des Weibes Same ist fein angenommen Wesen und darum heisset Er des Weibes Same, daß Er i⸗ nem Theil vom Weibe ist, als von der Himmlischen Jun
+
+schaft, welche in Adam verblich: Und am andern Theil e au
+
+[p. 164] * aͤussern Welt Wesen, in welchem der Name JeEsus, als Sbottes Same, den Tod und Zorn Gottes zerbrach. 466. Der Weibes⸗Same ist ein gantz menschlicher Same von Seele und Leib: Es muß aber recht verstanden werden; Nach dem Samen, darinn Adam hätte mögen magisch ge⸗ baͤren, so seine Luft sich nicht hätte in die Eitelkeit Boͤs und Gut geschwungen, und den Eckel erwecket, wie vorne ge⸗ meldet, und auch hernach im folgenden viertenPunet.
+
+467. So ich nun an solcher Stelle will also hoch vom Goͤtt⸗ lichen Weibes⸗Samen reden, so muß ich ja GOttes und es Weibes Samen unterscheiden, und muß recht anzeigen, wie sich GOttes Samen als der Name JEHSUS, aus dem
+
+Worte desGoͤttlichen Halles oder Lebens , habe mit des Wei⸗ bes Samen vereiniget und in eine Person begeben, welche
+
+. Ebriftus heisset: Der Name Ieksus ist die Salbung des
+
+Weibes⸗ Samens, und in der Salbung heisset Er Christus, Gottes Sohn. Der Same des Weibes hat eine gegebene kraft, und der Same des Weibes ist unter Gott, wie der Leib unter der Seele ist; Aber der Name Fkfus ist der
+
+468. Dieser Autor mischet alles unter einander, und sol⸗ aus zweyen Ursachen. () Daß ers nicht recht verstehet.
+
+ches er alles Menschliche möge auf heben, und sich allein (2) Daß f Ar hristum und GOtt ausgeben, als für die Göttliche Kraft und Allısiffenheit: Darum verwirft er alle Kuͤnste, auch das Gebet, und heissets ein vergessen Ding, als obs ohne Krast und nicht das Ewige erreichte. waͤre, 469. Er will uns bereden, der Weibes⸗Same Christus, GOtt und Mensch, fen nach beyden Naturen gantz Eins, und der will er seyn; aber die Menschliche Natur bleibet wohl ewig unter der Gottheit, ob sie gleich nicht getrent wird, so ist doch das Wesen nicht als der Geist: GOtt hat Ihme mit dem
+
+Menschen nicht einem Gott geschaffen, der seines Wesens ware, sondern ein Bildniß feines gleichen nach Ihm, als eine
+
+Offenbarung seines unerforschlichen Goͤttlichen Wesens, in dem Er sich offenbare zu seiner selbst Freude und Wun⸗ derthat: Und hat dem Menschen gegeben, wiederum auch die Wunder Gottes in dieser Welt Wesen zu suchen und al Freude und Aizu offenbaren, zu seiner, des a [p. 165] äh
+
+322 X. Vom Irrthum der Secten Auf daß GOtt an allen Wercken und Wesen erkant und55 ö preiset werde.
+
+Der qte und letzte Punet des Autoris.
+
+Bis hieher ist gemeldet, wie Christus, der Be a bochgelobte Gott und Mann, der beiligeSame, das le⸗ bendige, wesentliche, kräftige Wort Gottes, nach dem Maß, von Anfang der Welt in allen Seiligen, seinem Weibe erschienen, und in Augen und Hertzen feiner
+
+Gläubigen offenbar worden: Hierauf ist nun allen beruf fenen, auserwehlten, rechtglaͤubigen Christen bekant,Be wie dieser allerheiligste weibes Same, die ewige Geburt1 Gottes vor allen Creaturen, der dreyeinige bochge⸗ 95 lobte Sohn, und lebendiges, gantzes, wesentliches, Eräftiges Wort GOttes, ja der dreyeinige hochgelobte
+
+Gott, und allerheiligste Same der gantzen Fülle der dreyeinigen Gottheit im heiligen Ceibe und Weibe GGt⸗ tes, der reinen, keuschen⸗ unbefleckten Jungfrau Maris, 2
+
+Menschliche Natur, iedoch durch und in dem G 8 neu und wiedergebornes, heiliges, reines Fleisch
+
+St in Einigkeit reinen menschlichen Leib und Seele, zur zertrennlichen ewigen a5 an sich genommi vereinbaret, und in und aus dem zubigen Leibeund‘ be Gottes, der heiligen Jungfrauara ein kleinesR lein und sichtbarliche, heilige Creatur, Götte 1 Menschen Sohn, in einer Person geboren und of en worden, und als der Groͤste und a ja die
+
+0c in der allerhoͤchsten Söben egroͤs 5 dreyeinige G tt und Err ist. Dieser vollkommene ei⸗ lige Same und Wort Gottes in einer heiligen, reinen uns befleckten Person, Gott und Mensch, in Vereinigung des Weibes, Leibes und Seelen, durch den Glauben aus Gott und diesem seinen heiligen Samen wiedergebo glaͤubige, gute, Goͤttliche, beilige Fleisch und Blu igei⸗ ner heiligen menschlichen Person vereinbaret, und an sich genommen has davon der theure Zeuge, Johannes der Taͤu [p. 166] y 2
+
+3 .
+
+’
+
+Taͤuffer und Vorläuffer Christi, meldet: Wer die Braut hat, der ist der Braͤutigam. In solchem vollkommenen, gantz Goͤttlichen, ganzen menschlichen, heiligen Wesen, in Einer Person, hat dieser dreyeinige GGtt und Mensch, Christus JEsus, sein liebes Weib, ja glaubigen Leib und Seelean und in Mann⸗ und Weiblichen Person, so von
+
+Anfang bis ans Ende der Welt ihr Glauben und Vers trauen auf Ihn gefetst, in solcher feiner heiligen Mensch⸗ werdung von allen Sünden, vom Tode, Teufel, Soͤllen, Melt, und aller weltlichen Fleisches⸗ und Augen⸗Lust, zeitlicher und ewiger Verdammniß, durch sein heiliges Leiden und Sterben und Blutvergiessen erloͤset unddurch seinen unschuldigen Tod, vom schuldigen Tode um der
+
+Suͤnden willen, errettet, und aus dem schaͤndlichen Reich des schaͤndlichen Satans, Diebes, Luͤgners und Moͤr⸗ ders, in sein eigen Reich der Herrlichkeit mit Ihm selbst zur ewigen, unendlichen Freude und heiligen Friede, aus ewiger Satanischer Traurigkeit, Jammer, Angst, Noth und Unfriede, Haß, Neid und Feindschaft des leidigen Teufels, ja in die ewige Ruhe und Seligkeit versetzet. Wie nun dieser vollkommene dreyeinige Same und Wort GGt⸗ tes, die gantze Fülle der Gottheit, in sichtbarlicher Vers einigung menschlicher (iedoch glaubiger) Natur, ein kleines Kindlein worden und erschienen, so nach Jeugniß der Schrift, gleich andern glaubigen Kindern, zu sicht⸗ barlicher, greiflicher Groͤsse gewachsen, und an Weisheit, Alter und Gnade bey Gott und glaubigen Menschen zus genommen, welchen auch die alterheiliafte, hohe, Goͤtt⸗ liche, dreyeinige Majestaͤt, in und an Ihm selbst von
+
+Stunden, Tagen und Jahren, in seiner sichtbarlichen, hei⸗ ligen person erhoͤhet, herrlich und auch endlich alhie auf Erden sichtbarlichen, durch fein heiliges unschuldiges Zei: den und Sterben froͤliche Auferstehung und Himmelfarth, vollkommen gemacht, und zum vollkommenen Manne seiner gantzen Braut, aller Glaͤubigen heiliges Fleisch und Blut seiner gantzen Gemeine, in heiliger, unzertrenn⸗ licher ewiger Einigkeit selbst dargestellet; und wie Er von
+
+Anfang der Welt in allen eiligen, seinem Weibe und glau⸗ bigen Fleisch und Blut, als ein Kind und Sohn Gottes, des glaubigen Sleifhes 1 Blnts feines Weibes, im⸗ FEAR mer
+
+[p. 167] XI Vom Irrthum der Secten mer vom Schlangen⸗Samen der unglaubigen, gottlosen
+
+Welt ist erwuͤrget, verfolget, gehoͤhnet, verspottet und getoͤdtet worden; derentwegen auch aller Heiligen Tod vor dem HErrn werth, theuer, und sehr hoch geachtet wird: Also hat Er auch in feiner Goͤttlichen Fülle, der vollkommene Same und Wort Gottes, des reinen, glaͤu⸗ bigen Weibes und Jungfrauen Sohn, Gott und Mensch in einer Person, der rechte Same, Sohn und Wort GGOt⸗ tes, des vollkommenen glaubigen Fleisches und Bluts, die gantze vollkommene Verfolgung, Feindschaft, aß 95 und Neid des schaͤndlichen, faranifcben Schlangen-Sas mens des leidigen Teufels (in allen ungläubigen, unbuße fertigen Weltkindern wesentlich vereinbaret) um aller Glaubigen, seines Leibes und heiligen Weibes Erloͤsung willen, auf sich genommen, und durch fein unschuldiges
+
+Leiden und Sterben aller Welt Sünde an feinem allerhei⸗ ligsten Leibe und Weibe gebüffer und bezahlet, mit der Gottheitin sich selbst versoͤhnet, alle Feindschaft zwischen * Gott und Menschen vertilget, und in und nach solchen feiner allerheiligsten, gänzlichen Erloͤsung, durch fein unschuldig Creutz, mit und in Goͤttlicher Vereinigung durch Gott, und aus der Kindheit zum vollkommenen Manne sich selbst seiner gantzen heiligen Gemeine darge⸗ stellet, in und mit welcher Er nun, nach seiner allerbei⸗ ligsten Versprechung, Hof. 2. Ich will mich mit dir ꝛe. sich mit dieser feiner heiligen, unstraͤflichen, unbeffeckten
+
+Gemeine und vollkommenen Braut, und allerheiligsten | Sulamit. Cant. Cantic vereinbarer und in Ewigkeit vers ehlicht. In welcher es nun nach seiner selbst a sten Offenbarung alhie auf Erden, Ef. 9, der ewige Va in unzertrennlicher Person, Gott und Mensch, ein ew ger Gebärer, dreyeinige GOtt und Err, ja allesin aller feiner lieben gantzen vollkommenen Braut, feinem heiligen
+
+Leibe und Weibe, darinn Er ewig seinen beiligen Samen, sein heiliges Wort
+
+Willen, Wircken und Vollbringen wesentlich, lebendig, krästig innen gebieret, und zu fei nem ewigen Ruhm /Lob und preiß in dieser feiner hei gen Gemeine, heiligen Jerusalem, und vollkomm Stadt des vollkommenen erscheinenden Goͤttlichen Fei,N dens, so im Simmel behalten worden, aber nun auf Er⸗
+
+[p. 168] . Ef. Stiefels und Ez. Meths. 225 den in dieser endlichen aufhoͤrenden letzten Zeit der Welt, sich selbst in ewiger Einigkeit seines Leibes und Weibes das unbefleckte unvergaͤngliche, unverwelckliche Erbe offenvaret, und fein heiliges Reich und Serrschaft, nach Jeugniß . Schrift an. 7. unter dem gantzen Simmel in
+
+seinen Heiligen, seinem vereinigten Weibe, einzunehmen, und ewiglichzu beherrschen, sich offentlich hören laͤsset; die Braut das Weib, aller Glaubigen Sleifch und Blut, hat / nach Jeugniß der Schrift Apoc. 22. geruffen: Ach komm, Herr Jcksu! Der Bräutigam und Mann Got⸗ tes Christus erscheinet /und spricht in Einigkeit feines Weibes: Sie bin ich, hie bin ich, hie will ich wohnen, dis ist meine Ruhe ewiglich. Wirst hiemit, liebes Weib!
+
+alles glaubige Fleisch und Blut in Goͤttlicher Einigkeit deines Mannes, mit dieser
+
+schriftlichen Auslegung zu fernerm heiligen Nachdencken, in und mit deinem vereinigten Braͤutigam, deinem Be⸗
+
+—m,
+
+192 5 nach, für Liebe und Goͤttlichen Willen sdlches erkennen und aufnehmen: In welcher dir der dreyeinige hochgelobte Sohn und Wort Gottes, die Fulle der Gott⸗ heit von Ewigkeit geboren, der allerheiligste Same des Meibes von Anfang der Welt, nach dem Fall Adams und Eva; So wol das wiedergeborne, neuglaͤubige Fleisch und Blut, das Weib im Stuͤckwerck, und voll⸗ kommenen heiligen Wesen entdeckt und offenbaret wird, zur ewigen und in ewiger unveraͤndliche Vereinigung, nicht nach Cabalistischer, Theophrastischer, Rosencreu⸗ tzischer, J. Boͤhmischen Bruder Art tingirt, oder aus dem
+
+Unglaubens Wesen ins Glaubige transmutiret:
+
+Sondern nach Zeugniß der Schrift, eine neue Geburt;
+
+nicht aus dem alten fündigen Wesen, sondern im Centro und inwendigem Sertzen, in der Liebe der Goͤttlichen
+
+Stimme, ein neuer Anfang, ein neu Hertz ein neues Fleisch und Blut, neue glaubige Person an Leib und Seele, in dem Glauben, nicht aus dem Unglauben, sondern aus Ein Leib, ein Weib, ein Mann, eine Einig⸗ Gott geboren. keit des Weibes ‚ein Same und glaubiges, sichtbarliches, gutes Wesen BÖttes, ein Christus, ein Err, ein Gott, ein Geist, wesentlich, wircklich, lebendig, kraͤftig und thaͤtig, die selbstaͤndige, ewige, einige Seligkeit, ein unbe⸗ +
+
+ONE flecktes, [p. 169] flecktes/ unverwelckliches, unvergängliches Erbe im Sims mel behalten, aber nun in dieser letzten Jeit offenbaret al⸗ len, uͤber alle, durch alle, und in allen gläubigen, mit ihm, dem dreyeinigen ewigen Gott eine ewige Ruhe und heili⸗ ge Stadt und wohnung des Allerhoͤchsten und Allernies drigsten im Himmel und auf Erden, so da ist und heist in alle Ewigkeit, nach Jeugniß . Schrift Ezech, am letzten, eine Ehestatt. Hie ist der Err. Pfal. 48. Sehr groß und hochberuͤhmt ist der Berg
+
+2 das schoͤne weiglein, des sich das N troͤstet.
+
+Euer allezeit Mia
+
+; }
+
+S. T. oder EfaiasStiefel, ü
+
+Gruͤndlicher Segen Berl
+
+479. Diesen vierten Punct wolt ich auch unerklaͤret Kassen?/ | wenn er vom Autore im rechten Verstand gefuͤhret 1
+
+Aber er wirft alles in einander, und stecket seine irrige Mei⸗ nungBasel macht vielmehr eine Confufion desselben, als daß ers erkläre
+
+471. Weil aber oben der Inhalt fast ziemlich erlautert in allen Stuͤcken, will ich die summam nur kurtz a die irrige Meinung aus feiner Verwirrung, wegen der Lese
+
+Christi, ddavon . Menschwerdung pri, Anlangend die Menschwerdung 472. albie meldet, wie der Same der Heiligen Drepfaltigkeit gantzen Göttlichen Wesen sey in der gangen H. Vollkommen⸗ heit mit der Gottheit gantz vereinbarten Jungfrau DE Mensch worden, und ihr Fleisch und Seele an sich genommen, und also Mariam zur Gebaͤrerin GOttes gemachet, als zum H. Weibe GOttes, wie er schreibt: und wie Maria sey z wor im Glauben gantz neu geboren worden, ehe sie des Heila des
+
+schwanger worden ist; Doͤrfte noch gar einer schaͤrfern klaͤrung und Ausführung ;Und stuͤnde einem solchen M der vollkommen und allwissend seyn will, wol an, daß er diese Geheimnisse ausgewickelt haͤtte, und nicht also in eins ander verworren, daß man nicht weiß, was er darunter ver⸗
+
+stehet, ohne daß man feine heimlich eingesaͤete Koͤrnlein der, inne siehet aufgehen. 473. Er wird das suchende Gemuͤth, das nach dem Grunde fraggs, hiemit nicht begnügen, und ins Centrum einfüpeen; - [p. 170] r muß andere Stiefeln anziehen, will er mit Christi Geist berden Tod und Hölle reiten, und sagen, wie GOttes Zorn sey gelsschet, der Tod zerbrochen, und dem Teufel fein Reich im Menfthen zerstoͤret worden. Seine Auslegung ist viel⸗ mehr irrig, und dem suchenden Gemuͤth unverstaͤndig, als fuͤhrlich: Er setzt etliche hohe kuncta von der Beschaffen⸗ heitin der Menschwerdung Christi, führer aber keinen aus. Meldet von Maria, sie sey im Glauben gantz geheiliget und vollkommen worden, ehe Christus sey empfangen worden:
+
+Soes nun der Glaube hat mögen erreichen, und die Vollkom⸗ menheit eroͤffnen, und den Menschen gantz neu gebären, daß er und mit GOtt in Leib und Seele in gantzer vollkommenen Helligkeit vereinbaret, so ist Christus vergebens kommen, und ware uns sein Leiden und Tod nicht noͤthig gewesen: so der Glaube hat vermocht den Zorn GOttes, auch den Tod und Hölle zu zerbrechen, den zornigen Vater zu versoͤhnen, und den Eckel in der Eitelkeit des Fleisches aufzuheben und wegzunehmen.
+
+47274. So auch Christus als das Wort GOttes, nur gantz von innen und aussen hat einen heiligen und vollkommenen und Seele auf Erden an sich genommen, worinn hat er
+
+Leib denn den Tod zerbrochen: Und in welchem Leibe ist er denn der
+
+Sünden gestorben? Welcher beib istein Fluch am Creutz ge⸗ wesen? Ists der Heilige vollkommene allein gewesen, so wird | SGyttes Heiligkeit sich haben zum Fluch gemacht, und wird eunsere Wiederbringung nur seyn ein Opfer gewesen; Wel⸗ ches wol im Glauben hätte mögen geschehen, oder durch die ans: Opfer.
+
+O! es muͤste ein böfer GOtt seyn, der
+
+sich nicht wolte lassen versöhnen, Er raͤchete sich denn zuvor gn feinem heiligen vollkommenen Wesen, oder was duͤrfte
+
+sthhen legen, feinen Grimm alda sehen zu lassen, und sich zu kr2 alle Sünden auf einen Heiligen gantz vollkommenen Men⸗ krachen? Solchen Verstand gaͤbe dis, so man sagt, Maria sey im Glauben, in Fleisch und Blut, in Leib und Seele gantz voll⸗ kommen geworden, und gantz mit dem heiligen Goͤttlichen
+
+Wesen vereinigt. Wan Mr 445. Weil aber dem allwissenden Autori albie der Odem verlischet, wollen wir unser Fuͤncklein im Stuͤckwerck ein we:
+
+hig aufblasen, und die Geheimniß besser aus wickeln.
+
+476. Koͤnig David sagt: In* bin ich geboren, und [p. 171] in Suͤnden empfing mich meine Mutter. Und dieser David ist/s aus deme Maria alsaus dem Samen Davids geboren ist, vom Samen Joachims ihres Vaters, und aus Anna, ihrer Mutter. Hat nun Maria die hoͤchste Vollkommenheit errei⸗ chet im Glauben, warum nicht auch David und die Ertzvaͤter, in welchen eben so wol der H.Geist gewesen,als in Maria?
+
+477. Obs Autor zwar statuiret; Sie wären gantz heilig und vollkommen gewesen, so leidets doch ihre Suͤnde und
+
+Sterblichkeit nicht, darzu ihr unbestaͤndiges Leben in Kranck⸗ heit, Kummer, Mühe und Noth; In welchem sie alle nochim Fluche und Eckel, in der Eitelkeit des irdischen Fleisches, gele⸗ bet haben, welcher Eckel erst im Sterben bey ihnen zerbrochen und aufgehoͤret hat.
+
+478. Im Eckel der Eitelkeit ist noch lange keine gantze
+
+Vollkommenheit, sondern die Sünde und Tod; wie David von sich selber und alle Ertz⸗Vaͤter zeugeten.
+
+Kr
+
+479. Von Maria und Christo ist dis der wahre Verstan:
+
+Maria war das Ziel des Bundes GOttes im Paradeis nach dem Fall aufgerichtet. Derselbe Bund stund in der wahren Bildniß, welche in Adam, als er den Eckel und die Eitelkeit in * feinem aussern Fleisch offenbarte, verblich, davon Gott sagte: Welches Tages du wirft vom Baum des Erkentnisses Gutes und Boes als von der Eitelkeit, essen, solt du des Todes ster⸗ ben. Welches auchzu hand geschah: Er starb der Götlichen . Welt, und wachte auf der irdischen Welt in der Eitelkeit; Denn die Seele, als das wahre Leben der himmlischen Be .
+
+beit, ging mit ihrer Begierde in Eckel ein, da wich das Goͤttli⸗ che bicht vom Bilde der himmlischen Wesenheit; Jetzt stunds
+
+Tode, als im Nichts; Dieses wahre Bild ists, das GOtt von Ewigkeit mit seinem H.Geiste in der Weisheit gesehen, aber ohne Wesen, welches Er ins Wesen schu dasist f,, Wesen in dis Bild führte, von den dreyen Principien. 480. Da aber der Geist der dreyen Prineipien als die wah⸗ * re Seele, von ihrem ewigen Bilde der Reinigkeit in Eckel dee
+
+Eitelkeit einging als in das irdische Wesen, und dasselbe in den Gestaltniß der Natur erweckte, und im Fleische offenbarte:
+
+verblich das schoͤne Bild, und stund wieder in der Bee en beit an feinem ewigen Ziel, ohne Erkentniß und Empfin ich a keit des irdischen Adams im Eckel.
+
+481. Weil
+
+[p. 172] 481. Weil es aber GOttes Vorsatz war, daß diese schoͤne HhBlleichniß nach G Ott solte im Wesen ewig vor Ihm stehen, als einbiebes⸗Spiel feiner Freuden, und ein Gleichniß nach dem ewigen Wesen und Geiste; so verhieß er sich noch einmal zu be⸗ wegen, mit feiner hoͤchsten Liebe und Demuth, als im Centro perfüffen Liebe im Worte feines Halles, und dis Bild wieder m Wesen zu offenbaren. 1482. Nun lag in Maria das verblichene Wesen im Bunde, | das war die duͤrre Ruthe Aaronis, die in Einer Nacht wieder gruͤnete, und Mandeln trug, wie im Mose zu lesen. Als ietzt
+
+Engel zu Maria kam, und ihr die Botschaft brachte ‚sie sol⸗ ste schwanger werden, und den Heiland der Welt gebaͤren, und sie sich gleich verwunderte, wie das zugehen solte, sprach sie doch: Siehe, ich bin des HErrn Magd, mir geschehe, wie du Pan ha das stist: Sie gab ihren Willen und Begierde in ttes Willen, der solte thun, was er wolte. (Luc. 1:38.)
+
+In diesem Punct hat sich das Centrum inder Stimme Ottes nach der tiefsten Liebe der Verborgenheit Gottes, in dem Bilde des verblichenen Wesens,mit Einführung Goͤttli⸗ ches Himmlisches Wesens, vom Paradeis und Element, und allem deme, was die Gottheit in der Heiligkeit beschleustindem natürlichem Samen Maria offenbaret, verstehet, in dem Sa⸗ men Maria, ihres Geistes und Fleisches, darinn der Seelen und des Leibes Essentz lag, als in Veneris Matrice, in des Wei⸗ Ben ieim Paradeis, auch Abraham und David ver⸗ heissen ward.
+
+4484. Mercket recht was die klare Gottheit an sich genom⸗ men hat: Nicht Maria sündlichen Samen, in welchem der
+
+0 Ben wa amr Cred utze; Zwar Er hat ihn auch an
+
+‚eherin einem andern Principio. Die pure
+
+Heilige Gotthe ist alle itzeit von Ewigkeit in Ewigkeit mit dem
+
+Wesen der Weisheit, und mit dem Wesen des Himmels im in⸗ nern, als mit dem H. Wesen umgeben gewesen; Dasselbe H.
+
+Apes hat die Stimme der HGottheit mit der Bewegung des
+
+Vorts in Maria verblichenem Wesen, (verstehet in Samen Faria eingeführet, und sich mit Maria Wesen im Bunde es vereinbaret. Denn Joh. 3:13. sagt Er: niemand faͤh⸗ ret genHimmel ꝛc. Ich bin ausgegangen und kommen von GOtt in die Welt. Cap. 16:28.
+
+ad
+
+485. Nun
+
+[p. 173] Nl. Vom Irrthum der 3
+
+Gottheit keines Kommen 485. Nun darf die klare ist zuvor an allen Orten, darf sich nur dem Orte und alles was kommt, das ist Wesen: Gott abeim Drey-Zahl ist ein Geist ohne Wesen, was Er allein in der
+
+Gottheit ist. Darum, da sich GOtt wolte in feinem Bundein
+
+Maria himmlischen, verblichenem Wesen bewegen und offen⸗ baren, sokam Er mit dem Wesen, und offenbarte sich in dem vereinbarten Wesen: Er vereinbarte sein kommendes Wesen mit dem Menschlichen . verstehet, mit dem schen Menschlichen Wesen. 486. Denn da GOtt fein Bild mit Adam schuf1 0
+
+Ertwohnen und sich offenbaren wolte, so konte feine Heiligkeit in keinem andern Wesen offenbar seyn, als in dem Himmli⸗
+
+schen Heiligen, im reinen Element und Paradeis. hat Er wieder in Maria Samenin sein heiliges, lebend Wesen eingenommen: Indem Wesen ist Christus im Glan ben Maria vom H. Geist empfangen worden. Glaube, der sich in GOttes Willen ersenckete, der 1 den Samen im Bunde ins heilige, lebendige Wesen.
+
+war wieder die lebendige, heilige Conjunkkion mitdem We Maria und GOttes. 487. In diesem vereinbarten Wesen gruͤnete bie Ruthe Aaronis aus. Das war die tiefste Liebe GOttes im Centro der H. Dreyfaltigkeit, welches Name JESUS heisset. cket weiter: in diesem Samen Maria, welcher in sich ve chen, und der Seelen nicht offenbar war, lag die seelische genschaft, in Veneris Matrice, nach dem ersten neip nach des Vaters Eigenschaft offenbar, als eine sceent dig sentz in dem Samen Maris :Welche Essentz sonst in der Mann lichen Conjundion mit der Aufgehung des Lebens im Aus⸗ gang vier Monaten eine lebendige, creatuͤrliche Seele gibt, Diesen Seelischen Samen hat das Göttliche Wort auch sich genommen, aber in seinem, in des Seelischen Samens Principio: Denn der Seelische Same hat allezeit das ersse Principium nach des Vaters Eigenschaft, nachder Feuer⸗Welt, und das andere Principium hat des Sohns Eigenschaft; der Licht⸗Welt.
+
+488. Nun ist doch der Vater eine andere Person als
+
+Sohn. Also hat die seelische Eigenschaft ihrenUrstand r on
+
+[p. 174] TEN
+
+Adam aus der ewigen Natur, aus dem ersten Principio: sie hat das Centrum zur innern und aͤussern Natur; sie ist diasselbe selber in sich in ihren Lebens⸗Gestalten zum Feuer und Licht. Diese seelische Eigenschaft hat der Name JE⸗ sus auf Creatuͤrliche Art und Weise an sich genommen, als eine ewige Vermaͤhlung. 489. Nichtzuverstehen, daß die heilige Kraft JEsu, und der Seelen natürlich Wesen Eins in der Essentz feys so wenig als Feuer und Licht Eins ist, obs wol in Einer Geburt stehet, hats doch zweyerley Qual; also war in JEsu die Qual gantz heilig und G Ott selber: Aber in der Seelen Eigenschaft lag
+
+Wurm des entzuͤndeten Zorns GOttes, welchen GOtt mit dieser feiner heiligen Liebe aus JEsu wolte toͤdten und loͤ⸗ schen. In dieser seelischen Eigenschaft war der Eckel entstan⸗ den, darein sich des Teufels Imagination hatte geflochten:
+
+Diese seelische Eigenschaft ward in der Wuͤsten versucht, ob sie i fi wolte gantz in JEsum, als in GOttes Liebe ergeben, und essen von Gottes Heiligkeit. 490. Indiesem Eckel der Seelen, in dem die Lehens⸗Ge⸗ stalten erhoben, und aus der gleichen Concordantz waren ausgegangen, iede Gestalt in ihr Eigenthum, daraus die
+
+Feeindschaft und Wiederwille entstund, hat Christus feinhei⸗ ig Blut vom Bild der heiligen, himmlischen Wesenheit ver⸗ “9 gossen, und darein mit der suͤssen Liebe JIEsu eingefuͤhret, davon der Grimm in den Lebens⸗Gestalten der Seelen, in des z0 igen Vaters Eigenschaft ersaͤuffet ward: Denn als die E 0 uffe Liebe in dem heiligen Blute sich in grimmen Zorn der Seelen einergab, erschrack der Grimm vor dieser grossen Heiligkeit, Suͤßigkeit und Liebe, daß fein eigen Reich im Schracke zerbrach, und in die Freudenreich transmutiret ward, daß der Zorn in einen andern Willen transmutiret ward; und alle Eigenschaften der Selbheitderewigen Natur in der Seele wurden alle in dieser suͤssen Liebe einig, denn die
+
+Liebe erfuͤllete sie alle.
+
+441 Alda hoͤrete der Eckel und die Feindschaft wieder GOt⸗ tes Heiligkeit auf. Denn der Eckel war im Schracke des Todes, welcher in der Freudenreich aufging, erstorben, und
+
+TER der Seelen Wille jetzt nun: Err Gott, dich loben
+
+402. Weiter
+
+### [p. 175] XI. Vom Irrthum der Sehn
+
+492. Weiter mit Annehmung der seelischen Eigenschaft hat auch JEsus das aͤussere Menschliche, Fleischliche Wesen im Einen Maris, als die aͤussere Menfchbeit,dag dritte Prin⸗ cipium, angenommen, doch nicht in das Bild, oder in den Sa⸗ men der Heiligkeit in JEsu, sondern auf Art, wie GOtt in der Melt ist, und die Welt ist nicht GOtt, hanget aber in Einem Wesen aneinander, scheidet sich doch in sich selber in zwey Principien. 3 0—
+
+493. Der Seelen hanget die aͤussere Welt, als das Zeil am nachften an denn fic hat alle drey Principien, so sie heili ist; wo nicht so hat sie ihr nur zwey offenbar, und das Heilige istinihr verborgen. In dem Aufferlichen,fleischlichen Sa. men lag der Tod, und der Eckel vor GOttes ea e ward als ein Fluch ans Creutz gehangen, und ward der der Suͤnden in diesem Eckel mit dem heiligen 8 und das aͤussere Mysterium des aͤussern eibes und Beben K Eckel und Fluch erloͤset und gantz geheiliget, und deren | Gottes unmackelbares Bild verwandelt. 494. In dem aͤussern Fleische lag das boͤse Kind Adam gebar, als er an Gott starb. Albie war boͤse Kind wieder in GOttes Liebe eingenommen;
+
+Esaias schreibt c. 53: 4. Er nahm alle unsere Sünde sich/nicht in sich, nicht in den JEsum oder Christum, der heiligen Bilde offenbar war; sondern auf sich in den derbten Adam. Der verfluchte Adam hing am Creutz, als ein? den erlösete IEsus Christus mit feinem unschuldigen % und Blutvergiessen. Adams Leib starb am Creutz, und Ch stus aus JEsu geboren in des Weibes geheiligtem S tingirte ihn, und besprengte ihn mit feinem theuren Liebe ⸗B te,davor der Fluch in der Erden erzitterte, als dieses G über ihn ging, und die Sonne ihren Schein vor dem Geric dieser Heiligkeit, vor dieserneuscheinenden Sonne verbarg, von der sechsten bis zur neunten Stunde, welche ist und an⸗ deutet Adams Schlaff, als der in der sechsten Stunde e schlieff und in der neunten Stunde, das ist, am dritten Tage, der aͤussern Welt aufwachte mit feinem ietzt zubereitetem Weiz be: Jetzt ging in der neunten Stunde die aͤussere Sonne
+
+[p. 176] Ef. Stiefels undEz;Meths.
+
+mit ihrem Schein wieder auf, und im Tode Christi die Para⸗ 9 0 Sonne welche Adam in Christi Auferstehung wieder anblickte.
+
+4946. Ferner von Maria Benedeyung; Der Engel sagte zu ihr: Du Gebenedeyete unter allen Weibern, der HErr ist mit dir. In dieser Maria stund das hochgebenedeyete Ziel des Bundes GOttes, dadurch alle heilige Er6- Vater und Propheten, als durch GOttes Stimme, welche sich durch das % Ziel dieses Bundes hören ließ, geredet haben. Denn der Bund erbete fort, von einem auf den andern, und in Maria stund er am Ziel, das ist am Ende der Offenbarung, da sich Be JEsus mit dem Christo, als dem Gesalbten GOttes, of⸗ aren.
+
+447.
+
+Da nun ietzt die Stunde der Offenbarung kam, daß
+
+sich Gott wolte in diesem heiligen Bunde offenbaren, und die Englische Botschaft zu ihr sandte, sie auch ihren Willen in Ottes Willen eingab, daß sich der hochtheure Name JEsus inihrem Samen desverblichenen Bildes offenbarte, To hat auch das Wort der Kraft ihr eigen verblichen Bild des andern 8 Principi in ihrem Leib und Leben erwecket. 498. Denn der Same des verblichenen Bildes, welches also ohne Leben fortgepflantzet ward, der inqualirete mit dem fen davon er erboren ward: Das war ihre hohe Bene⸗ deyung vor allen Weibern von Eva her, daß sie im innern
+
+Menschen das heilige Leben in das verblichene Bild bekam; Denn JEsus drang aus feinem eigenen angenommenen We⸗
+
+sen in die Mutter des Samens; aber in ihrem aͤussern Flei⸗ N eln der Seele war die Suͤnde und Tod, die muste auch mit Christi heiligem Blut⸗Vergiessen getilget werden:
+
+Denn allein Christus war der Schlangen⸗Treter, auch in sei⸗ ne natuͤrlichen Mutter Maria.
+
+Erstgeborne von den Todten
+
+Er ist mit der Seelen der zu GOttes Heiligkeit; seine
+
+Seele war die erste, als eine Thuͤr zur Wieder⸗Aufmachung: Durch diese Thür müffen wir alle eingehen.
+
+499.
+
+In ihrem äuffern Leib war Maria sterblich sowol als
+
+Thristus nach der aͤussern Menschheit. Christus lebte im aussern Menschen im Regiment der vier Elementen, in der Qual, in Hitze und Kalte, als wir. Den Eckel aber, den uns Adam angeerbet hat, den hat Er nicht vom Mannes ⸗Samen
+
+Be,
+
+[p. 177] LI. Vom Irrthum der Secten 1 ansich genommen, sondern im Weibes⸗Samen auf sich, eine Last,dieEr tragen solte. Also war feine ie nommene Menschheit ein Gefäß dazu. 500. Nicht daß man sagen wolte, Christus battemit f bei aͤussern Menschen Suͤnden und Eckel gewircket;
+
+das koͤnte nicht seyn. Denn Er nahm das erste Prineipi der feclifchen Eigenschaft in Veneris Matrice in des Weißes Samen atısich, verstehet in der Even Eigenschaft: Denn He⸗ va war das Kind, das Adam en, gebaren solte; weil aber den Eckel im Centro der Gebaͤrerin erweckte, so konte d nicht seyn.
+
+501. Eva war Adams lieber und ak wolschmeckendder
+
+Rosen⸗Garten und Paradeis, als sie noch in Ada Essentz war. Jetzt war 0 schoͤne Rosen⸗GarteninChristi Mense heit wieder offenba
+
+502. Also —ç Er den Eckel der Sünden auf dieses 5 ins Fleisch, als waͤre Er Adam, und wares doch nicht:
+
+in des Weibes Samen war Ers, und nicht in in08Man Samen; Er nahm des Mannes Sünde auf das hochgebe deyete Ziel in des Weibes aͤusserlichen Samen, und ze den Mann und das Weib, und brachte herwieder die?
+
+frauschaft, als zwo Tincturen in einer unzertrennlichen, gen Conjundtion in der Liebe, nicht mehr in der Begierde
+
+Wesen, wie es in Adam war, sondern einig in IEDes nach Kraft; Die Tincturen gebaͤren nicht mehr Wesen, als eine Fortpflantzung, sondern heilige Kraft und Ge ch nack von Gottes Heiligkeit. 503. Dis sey der Bericht von Mariaͤ und Christi Mensch⸗ beit recht ausgewickelt, nicht also versteckt, wie dieser Auto thut, daß man nicht kann verstehen, wie es im Wesen sey gangen. 504. Daß aber Autor also heftig auf die neue Wi derge⸗ burt der Altvater dringet, und will sie in Chriffo neugeboren und gantz vollkommen haben, sehe ich wol, was er darunter und damit meinet; auf daß er sich auch fuͤr gantz heiligu )
+
+vollkommen schaͤtzen möge.
+
+Denn so die Altväter haben
+
+Christum angezogen, da Er noch nicht Mensch war; wie viel⸗ mehr er, indeme Christus nun sey Mensch worden, welches ich [p. 178] ie ed
+
+Tg
+
+Ee hertzlich gern goͤnne, soesaber wahr ist: Und obs nicht daß es noch geschehe. waͤre, “505. Warum fege er nicht die Apostel Christi und ihre Nachkommen in die Menschheit Christi? Warum aber die
+
+Altvater vor Christi Geburt? Eben das ists, daß er koͤnne den Schwarm hinein bringen, daß Gott habe alle Creaturen
+
+5 10Christo in seinem Ebenbild geschaffen und alle erloͤset. Des⸗ sen geoffenbartes Ebenbild will er in den seinen allein seyn, daß % er . mit dieser auffern Huͤtte nicht fol aus Christi Bild ausstossen.
+
+306.
+
+Denn so er in Christi Bild, in Adam geschaffen, und nun Gott dasselbe in Christi Menschheit wieder offenbaret, ausdemselben Bilde herkommen ist, und darinne stehet;
+
+Bun ihm nicht fehlen, er ist Chriffus von innen und auffen, venn es gewiß wahr wäre, und die Altvater nicht auch hatten das Bild der Suͤnden angehabt, daß er beweisen koͤnte, sie waͤ⸗ en gantz heilig gewesen.
+
+507. In den Altvaͤtern ist keine Transmutation des Leibes 9 en: In Christi Aposteln nach dem aͤussern Fleisch auch licht. Christi Apostel und ihre Nachkommen haben Chri⸗
+
+stum in ihrer Engels⸗Bildniß in heiligem Fleische angezogen, aber ihrausserlicher Leib war sündlich, und im Eckel, als in der
+
+Tuba.
+
+Die aͤussere Greuelim Fleische musten sterben, und inehristi Tod eingehen auf daß Christus dervom Tode erstan⸗ den ist,ihren aͤussern Leib in sich aufweckte. Das aussere Le⸗ vom Manne geboren, ist behalten zur Auferstehung der Todten, da der Mann in der Jungfrauschaft aufstehen fol, Ist aber dieser Autor vollkommen, so ister weder Mann noch Weib; warum zeuget er denn vom Weibe Kinder?
+
+308.
+
+DieAltvater haben den Bund Christi angezogen, und
+
+Christo, der Mensch ward, im Wort der Verheissung ange⸗ zogen, auf die zukuͤnftige Erfüllung: Gott versoͤhnete sich im Bunde; Darum opferten sie, daß GOttes Imagination, welche im verheissenen Bund einging, ihre Imagination im Opfer, im Bunde der Verheissung, durchs Ziel, darinn GOtt
+
+Mensch ward annahm.
+
+Sie wurden im Bunde zu Kindern erwehlet; In welchem Bunde GOtt Mensch ward, und den mit der Menschheit erfuͤllete, welches geschahe im Sa⸗
+
+Bund men Maris, nicht in der Knecht schaft.
+
+509. Die
+
+[p. 179] 500. Die Altvaͤter zogen nicht Christum im Fleische an,
+
+sondern den Bund zur Kindschaft und zur Auferstehung der
+
+Todten: Jetzt aber ziehen wir Christi ee an, denn der Bund istnach der Menschheit erfuͤllet. Nicht aber das Reich dieser Welt Christum an; Denn 2 sprach teloft:
+
+Mein Reich ist nicht von dieser Welt. Joh. 18:3 Fido. Das Reich dieser Be im Fleisch 2 Christi Tod und Sterben an; Es soll in Christi Tod sterben; und zeucht seine Auferstehung aus dem Grabe an, daß der Mensch, der nach dem Fleische stirbt, im Ziel, das GOtt gestecket 5 als am Juͤngsten Tage, soll aus Christi Tode aufstehen. hat uns seinen Tod und Begraͤbniß zur Ruhe gegeben, dahr Auffere Leib von der Wirckung der Eitelkeit ruhet, alsin 7 nem sanften Schlaffe. sır. Was aber dieser Mitor vom Gegensatz des gantz Reif. lichen Menschen setzet, das der irdische Mensch, welche ner der Schlangen Samen nennet, Christum in seinen Gliedern verachtet, hoͤhnet, verfolget, und immerdar mit C creutziget und toͤdtet, das ist also, kann auch nicht anderst seyn. 512. Denn wenn Christus geboren wird, soll der Mensch der Suͤnden in seiner Selbheit sterben. Derglaͤubige Mensch wird selber ein Feind feiner eigenen Suͤnde im 9en Der glaͤubige Mensch nach dem Himmlischen We wol die Braut Christi, in der Christus wohnet, 5 wie rede ich nicht; daß aber Autor setzt: Christus sey ein aue verachtetes Kindlein in der hoͤchsten Niedrigkeit von geboren, und sey aber zugleich in der Höhe der Dreyeit Gott und HErr ,das solte er besser auslegen, und anzeigen worinne Er der Drey⸗Einige hoͤchste GOtt und HErr ey nicht nach der Creatur, als nach unserm Fleisch und Seele, welche ewig unter Gott sind; sondern nach feinem Göͤttl chen Wesen, und nach Himmlischer Wesenheit und geiblich⸗ keit, damit er vom Himmel kam, und unser Wesen an sich nahm. Das Göttliche Wesen ist unmeßlich, beydes wa Ba geistlich⸗ und leiblichem Wesen.
+
+513. Aber unser Menschlich Wesen ist meßlich. Unserm
+
+Menschlichem Wesen ist die Gewalt gegeben, aber dem Goͤtt⸗ lichen mag nichts gegeben werden; GOtt will die nn heit 99 die Stimme der Menschheit Christi richten ni
+
+[p. 180] Ee Stiefels und Ez Meths.
+
+Win
+
+Er Menschheit 8 uach unserer Menschheit fein cckzeug dazu sey. Nicht daß unsereMenschheit in Christi Gewalt Per son und Cre die atu r aus sich selber habe, es ist Christus selber sagt wie r, vom Vate eee. Matth. 28:48. Mir ist alle Gewalt gegeben worden, ꝛc. Nicht der Creatu zur Selbhe itr, daß die Creaturfoallmaͤchtig und eigengewaltig sey als GOtt: sondern daß die Creatur das
+
+Werckzeug sey, dadurch der Geist GOttes alle Dinge richten will. Der Geist der H. Drey⸗Einigkeit istin der 8. e Creatur das Wollen, und die Creaturistdas Werckzeug des
+
+Vollbringens, als durch ein lautbares, sichtbares, offenbarli⸗ ches Bild und Wesen.
+
+j 15Dieweil sich GOtt durch die Creatur hat offenbaret, hret Er auch durch die Creatur eine offenbare Gewalt und Regiment; wie ein Kuͤnstler ein Instrument zurichtet, und dasselbe selber schlaͤget, daß es ihm klinget, wie ers gern ist die Creatur GOttes Instrument, darauf der SGeist Gottes schlaͤget, und hat feinen eigenen Hall aus der
+
+SGoͤttlichen Stimme, in diese Creatuͤrliche Saiten eingefübrer,
+
+/ die klinget ihm, wie er will. 585. Diese Saiten schlagen sich nicht selber, denn Christus saget auch: Alles, was der Sohn siehet den Vater thun, das thut auc der h Sohn; und die Worte, die ich zu euch rede, sind nicht mein, sondern des Vaters, der in mir wohnet.
+
+Item:
+
+Ich und der Vater sind eins, aber der Vater ist grösser denn
+
+Ach. (Joh. 5:19. c. 14: 28.)
+
+316. Der Vater ist der ewige Anfang, und der Sohn ist das ewige Angefangene, als die Offenbarung des Geistes, der Vater heisset: Und der H. Geist ists, der den Vater durch Sohn offenbaret, mit der ewigen ausgesprochenen Weis⸗ heit, aus dem Hall, den der Vater mit dem Sohn gebieret, der Sohn ist des Vaters Hall oder Wort: Die Creatur ist das lautbare geoffenbarte Wort, dadurch der Vater in der ewigen Gebaͤrung seines H. Worts hallet und spricht.
+
+Wenn ich der Creatur, als der Person Christi, Stimme höre,
+
+so hoͤre ich, was der Vater inffeinem Heiligen Hall im Aus⸗ ögangfeines H. Geistes in und mit der Creatur offenbaret und ausspricht.
+
+nicht, liebes * mit der cen set 57. Es heisalhis
+
++ n⸗
+
+### [p. 181] X. Vom Irrtder
+
+hu Secmten
+
+Sondern GOttes Bild, Gottes Offenbarung, GHOfk: fenbarliches Regiment, GOttes Selber⸗Thun, als das uns sichtbare und unbegreifliche, durch ein sichtbares, begrei ches Bild und Wesen feines Eigenthums: Denn ausser GL li ae unsch Bildgdes ein Si nur das ist ist, begreiflich iche Da HE mn tba⸗ 15 Saen, damit sich dasunsichtbare hat ges ich oder
+
+Dan offenbaret.
+
+518. Darum folldie Creanich ihr er Gelbheit reden, tinr tu daß sie was sey Sondern ihre Möglichkeit in das einfuͤhren, daraus sie geurstaͤndet ist, daß sie möge des allwesenden©: tes Werck und Spiel in feiner Liebe seyn, daß Er thue, was wolle, und also GOtt sey alles in allem. Und so GOtt etwa durch die Creatur thun will, feinen Willen zu offenbaren, so spri sagt die Creatur nicht von ihr selber, sondern 2 : So der HErr; So hat der HErr gesagt; Das ist des H.
+
+Befehl; Und sich selber mitnichten fuͤr das sprechende Wort oder Goͤttlichen Hall halten, auch nicht mit diesem aͤusse Leib sagen, daß der aͤussere Leib in der Ehe mit GOttes Heilig keit sey, wie dieser Autor setzet.
+
+519. Der innere Mensch ist wol mitin GOttes Harmonia, durch welchen GOtt hallet und schallet, und ist eine Ehe tatt GOttes: Aber alles, was creatuͤrlich ist, das ist unter dem der die Creatur gemachet hat.
+
+Die Creatur ist G
+
+Ot e
+
+Kunstwerck, das Er durch seine Weisheit gemachet hat, sie ist der Natur, sie stehet im brincipio, als in einem Anfange und Gott in keinem. Gott ist ausser allem Anfang: E Begierde macht Anfang. 520. Mehr meldet der Autor vom Weibe des glaͤubigen
+
+Fleisches und Bluts: Ist aber nicht genug verstandig gere⸗ Denn Fleisch und Blut glaubet nicht, sondern der Geist det.
+
+Fleisch und Blutistnur ein Gebäufe des Geistes.
+
+Und was er ferner feget vom Manne Christo, der mit dem Weibe in der
+
+Ehe sey; mag gar nicht vom auffern Fleisch und Blut indien ser Zeit gemeldet werden. 521. Denn Christus ist selber das Weib und der Ma Gott und Mensch. Vom innern Menschen kanns wol det werden, der istmit Christo in der Ebe: Aber der a istmit der auffern Welt, auch mit der Eitelkeit u ER1
+
+[p. 182] . Ef. Stiefels und Ez. Meths.
+
+u mit dem Tode unter der Zerbrechlichkeit, Schwachheit, ranckheit und Elend in der Ehe.
+
+heisset Eva: Nicht
+
+Leine Ebestatt in GOttes Heiligkeit, wie Autor setzet; Son⸗ dern eine wuͤste Hütte, darinn der Geist verderbet ist, nemlich der aͤussere Geist, der in Fleisch und Blute wohnet. Nicht daß wir darum sollen oder wollen den Geist, als die Seele der grossen Welt, verachten, der allen Creaturen Leben giebet: Sondern im Fluche der Eitelkeit, als in der Suͤnden, liegt das boͤse Kind, das Adam erweckte und offenbarte. 522. Was aber dieser Autor für Grillen habe, indeme er nicht will die Goͤttliche Tingirung und Trans mutation mit der neuen Geburt gestehen, dasselbe alles veracht und verwirft, ist nicht genug zu ergruͤnden, wie er so gar blinde und unge⸗ reimte Dinge vorgibt. Er sagt uns von einer gantz neuen und fremden Creatur, die in Christo geboren werde. 523. Ware das wahr, so koͤnten wir mit nichten sagen, daß
+
+Christus hatte unser Fleisch und Blut an sich genommen, viel⸗ weniger die Seele. Er moͤchte auch mit nichten des Weibes Same genant seyn; Wie wolten wir seiner denn theilhaftig werden? Hat Christus nicht meine Creatur an sich genom⸗ men, wie hat Er denn in meinem Fleische den Tod erwuͤrget, und den Zorn Gottes geloͤschet? Hat Er aber meine Creatur angenommen, was soll dann fuͤr eine fremde neue Creatur in ich einfahren?
+
+324 Ich weiß von keiner fremden, es ware stracks wieder den Artickel der Auferstehung der Todten. Ich muß nicht von einem andern Menschen sagen, nicht von einer andern Creatur, sondern von einer Transmutation; den groben Stein in Gold; den Unheiligen in reine Heiligkeit. Soll das nun geschehen, so muß der rechte Kuͤnstler in mich kommen, als der H. Geist mit der Goͤttlichen Tinctur, welche ist Christi Blut, damit Er die Eitelkeit unserer Menschheit zerbrach, und unser rechtes Leben durch den Tod ausfuͤhrte. Tingiret muß ich werden, sonst mag ich nicht transmutiret werden; So Christus mich mit seinem Blute nicht tingiret, so bleibt mein heilig Paradeis Leben im Tode verblichen; Tingiret Er mich aber, fowird der H. Geist in mir raͤge, der mich mag in Christi Fleisch und Blut transmutiren, nach dem innern Pas radeis⸗Menschen. 525: ES
+
+[p. 183] 525. Es war GOtt nicht um eine andere fremde Erentue zu 5 daß Er Mensch ward, sondern um diese, die Er Adam ins Paradeis schuf.
+
+Job sagte: cap. 10: 26. In die⸗
+
+sem meinem Fleische werde ich GOtt sehen, und meine Augen werden Ihn sehen, und kein Fremder. Meine eigne Essentz des innern Menschen wird in dieser Zeit tingiret und transmutiret, und mein aͤusserlicher, sterblicher Mensch wird mit Christi Tod tingiret zum Sterben; Und das Mysterium des aͤussern Men⸗ schen, als die fünfte Essentz (verstehet den aͤussern Geist ausser dem Eckel, da die vier Elementa in gleicher Concordantz stehen, in Einem Willen und Wesen) wird zur endlichen Erledigung und Auferstehung der Todten tingiret, welche Transmutation "il am Juͤngsten Tage ergehen soll. 526. Dieser Mensch bildet ihm eine Phantasiam ein, den⸗ cket, er sey es nicht mehr, der er gewesen ist, feine Natur sey gantz von ihme weg, er sey gantz eine neue Creatur von innen \ und aussen; Das ist gang falsch und ein Ungrund. Sein ir⸗ discher Mensch ist nicht Ehristi Braut in GOttes Heiligkei
+
+sondern er ist Christi Braut in Christi Tode, wofern er auch dessen faͤbig ist; Weil er aber will vollkommen seyn, und 5 sti Tod entlauffen ja albereit in Christi Tod auferstanden se8 1
+
+75 er in der Selbheit neben Christi Tod im Tode der telkeit hin.
+
+527. Ich wuͤnsche ihme von Hertzen, daß sein Beib, der sichtbare doch möchte Christi Todes fahig sen. Denn 8 daß ich in meiner Selbheit lebe, erfreue ich mich nicht,fe ich erfreue mich dessen, daß ich in meiner Selbheit in Tod stehe, und immerdar sterbe: und wuͤnsche, daß ich— der Selbheit gantz ersterben, daß meine Selbheit gantz in 9555 gelassen sey, und ich nur ein Werckzeug GOttes sey, und Ar 4 meiner Ichheit nicht mehr wisse. 528. Daß Autor aber meldet, er sey der Selbheit gane gestorben, und sey das herrliche Vorbild der Braut Christi, welche GOtt in dieser letzten Zeit auf Erden offenbaren wolle, ang von innen und auffen heilig und vollkommen, ohne Eitel⸗ eit, Mackel oder Suͤnden; wollen wir ihm gern goͤnnen, so uns dessen genugsam versichern mag: Aber auf feinen vers meinten, ungnugsamen, ungegruͤndeten, buchstabischen Be weiß, den er doch nicht ar wie die Schrift redet 1 [p. 184] den wir es ihm nicht koͤnnen glauben, wir sehen denn das Pa⸗ radeis an ihme, und sehen, daß er der aͤussern Welt sey abge⸗ storben, und sich deren nicht mehr gebrauche. e 579 Denn es gilt kein Waͤhnen, sondern Empfinden, und also deben. Weil er in der Eitelkeit lebet und sich in der Eitel⸗ keit qualet, und zum Streit affectioniret ist, glauben wirs ihm nicht: Koͤnnens auch wegen Christi Wort, die uns warnen, daß wir uns sollen vor denen, die sich für Christum ausgeben, huͤten, nicht glauben; ob einer gleich in Wunderthaten ein⸗ 1 5 lebte aber noch in der Eitelkeit, in boͤse und gut, so muͤsten wir doch sagen, daß er ein sterblicher Mensch sey: Ja, ober gleich im innern heilig, und in Christo neugeboren sey. die guͤldene Berge, dieer uns in dieser Hütten verheist, moͤchte der alte Adam wol gerne leiden und anziehen, wenn es möglich waͤre, und es Gott mit uns also machen wolte.
+
+"530. Wolten ihn auch hertzlich gern für das Vorbild und den Erstgebornen von den Adamitischen Leibern halten, so er der waͤre, der solche grosse Verheissungen an unsern sterblichen Leibern, oder doch nur an seinem, koͤnte offenbaren. Daß er
+
+spricht: Wir koͤnnens an ihme nicht sehen, sollens glauben;
+
+dessen versichert uns niemand. Ich kanns ihm nicht glauben, er versichere mich denn dessen, daß ichs vernehme es sey wahr,
+
+sonst halte ichs fuͤr eine Einbildung.
+
+531. Was der Geist GOttes vom letzten Zion deutet, hat ein ander A, B, C, wir verstehens nicht mit verklaͤrten Leibern, da die Eitelkeit gantz todt seyn werde, sondern vom Fall Ba⸗ bel, und daß das Ende in Anfang gehoͤre. Nicht die zwo Tin⸗ cturen in Eine verwandelt nach dem aͤussern Menschen: son⸗ —-—¼ dern wir verstehen Evam in der Busse und in der Einfalt vor ihrer boͤsen gehabten Lust. Seine Ehestatt, die er vermeint zu seyn, ist nur Eva; fein Zion ist ein Jammer⸗Thal in Kum⸗ mer, Muͤhe und Noth: Denn es soll nicht aufhören Winter und Sommer, Tag und Nacht, Saat und Ernte, wie zu Noah b 15 ward, Gen.8:22. bis da komme dergrosse und schreck⸗ iche Tag des HErrn. Malach. 4:5.
+
+332. Auch so ist der Berg G Ottes, als Zion, in der gantzen
+
+Welt, wo fromme gottesfuͤrchtige Liebhaber Gottes sind.
+
+Er istin den frommen Menschen selber : die Ehestatt muß im
+
+Menschen seyn, sowol auch 15 Tempel Christi, da - 8 ei
+
+[p. 185] Geist lehret. Wir dürfen keinem Wahn nachlausfen, Per Staͤtte der Wohnung Gottes ist überal, wo frommeMens schen bey einander sind, wie Christus sagte: Wo ihrer zwey oder drey in meinem Namen versamlet sind, da bin ich 1 — unter ihnen. (Match. 18: 20 533. Weil er aber vom sichtbaren heiligenSamen und be Christi redet, und will dasselbe gantz ohne Macul In „ begehren wir das Zeichen desselben zu sehen; Er ftelleAi für, daß wirs erkennen und an ihme sehen, so wollen wi ibm glauben, und laß andere, so Gott im Stuͤckwerck bat, ungeschmahet, oder wir werden von ihme sagen, daß er weder Stuͤckwerck noch Vollkommenheit habe, sondernı eine blosse Einbildung und geistliche Hoffart, welche durch des Satans Trieb angeräget wird, welcher gern wolte5
+
+solche Scheinheucheley aufrichten, weil er vermercket, der Mensch der Suͤnden soll offenbar werden, so will er
+
+solche gleissende Capell darneben setzen, daß die Suͤnde mehr erkant werde, und er doch unter solchem glei
+
+Roͤcklein moͤchte seine heuchlische, gantz in Suͤnden Kirche haben.
+
+334. Denn das ist des Teufels Art, wenn er siehet daßde
+
+Suͤnde im Menschen offenbar wird, so decket er derS ein solches fein gleissendes, wol geschmüuͤcktes Roͤcklein übe und gibt dem Menschen ein, er sey heilig, vollkommen und ge⸗ recht: Leget also den Menschen der Suͤnden in ein fein fa Bette, und decket ihn mit Christi Purpur⸗Mantel zu, ob er iht doch moͤchte unter solcher Decke sichten und betriegen. 535. Also willers auch anietzo machen: Denn er merckt, daß der Mensch der Suͤnden soll offenbar werden,und Babel aufgedeckt: so kommt er fein lieblich zugedeckt, mit 9 glingenden Schein, und will das Adamische boͤse Kind zudecken, daß es nicht mehr soll fündig: heissen, es soll fei fündigen Namen in der Eitelkeit verleugnen, und nur ge 4 Christus und Heilig heissen; Und saget, es sey eine sich der irdische, thierische Mensch, nach feiner salbstei thierischen Eigenschaft nenne. lieben Bruͤder und Mit⸗Glieder Christi! 2 2. 536. O ibr dieses leset, seyd treulich gewarnet und vermahnet, decke ja nicht den boͤsen Suͤnden⸗Menschen mit Christi
+
+Purpur
+
+[p. 186] Es. Stiefels und Ez. Meths. 343 Mantel zu, und leget ihn ja nicht ins Ruhe⸗Bette, sondern decket ibn immerdar vor GOtt auf, werfet ihn täglich und stuͤndlich ins Grab, in Christi Tod; ECreutziget ihn ohn Un⸗ terlaß, weil ihr in dieser Eitelkeit des Fleisches lebet; Lasset ihm keine Ruhe, haltet ihn für euren Feind, der euch euer edel Perlen⸗Kleinod, als das Paradeis, verschlungen hat. Presset ihn mit Christi Tode, auf daß ihr euer Perlein möger aus Chri⸗ sti Tode in seiner Auferstehung aus dieser Hütten, da es ver⸗ Erkennet
+
+schlossen und im Tode liegt, wieder bekommen.
+
+euch nur fuͤr arme Sünder vor GOtt; tretet immerdar mit dem verlornen und wiederkommenden Sohn zum Vater, und ttet um Gnade.
+
+s 1 7070Unser gantzes Leben soll eine stete Busse seyn, denn es uch ein stetiges Suͤndigen: Und ob wol das edle Lilien⸗ Sweiglein in Christi Geiste neugeboren, nicht fündiget, so füͤn⸗ diget aber der irdische Mensch in Leib und Seele, und will im: redle Röfelein wieder zerbrechen und gar verdunckeln. mehr dem edlen Roͤselein Goͤttlich Oel eingeführet wird, den Wunden und Tode Christi, je heller und schoͤner waͤch⸗
+
+set das, und je schoͤner bluͤhets.
+
+338. Alhie ist der Acker, da die Frucht waͤchst: Lasse sich chnur keiner zur Faulheit bewegen, undin ein solches sanf⸗ tes
+
+Bette legen, da er denckt, er sey schoͤn gewachsen, und habe nein, nein, mit nichten Nur immerdar ob⸗ ausgebluͤhet. O ne Unterlaß Goͤttliche Essentz angezogen, in der allergroͤsten
+
+Demuth, von und aus GOttes Liebe gesogen, wie ein Bienlein den schönen Blumen ihr Honig. Denn sobald der Mensch sicher ist, und dencket er sey ein heilig Honig, so führet ihn des Teufels Gift in die Eitelkeit, die sauget der selb⸗eigene Wille in eigener Lust in sich. 539. Der Mensch der gern will in GOttes Reich wachsen, und Frucht tragen, kann nichts bessers thun, als daß er alle seine Kraft, die er zu seines Lebens Gewaͤchs brauchen will, durch Christi Blut und Tod sauge, und immerdar feine Ei:
+
+telkeit vor GOttes Wahrheit und Klarheit zu Boden werfe, und immerdar sey/als ob er im Sterben sey, als ob er mächtig zum Tode der Suͤnden druͤnge. Keine Stätte der Ruhe ge⸗ der Eitelkeit: Denn so bald die Sünde undn ret der Suͤnde vuhet, fowaͤchset die Begierde 5 eiteln Lust; Weil aber SR dir
+
+[p. 187] Tod und Zerbrecher über sie.Herr ist, so stirbt sie ohne Unter⸗ laß der eiteln Lust ab und waͤchst aus diesem Sterben das scho⸗ ne Roͤselein aus, das in GOttes Hand getragen wird, zu einer Freude der Gottheit.
+
+‚540. Lieben Bruͤder! Aus treuem Gemüth iftdieseEr⸗ 5
+
+10585gemacht, gar nicht der Meinung, dem Autori zu Spott und Schmach: Denn ich kenne feine elende Verwirrung mehr als er selber, und wuͤnsche ihm von Hertzen, daß er doch de⸗ muͤthig werde, und sich erkenne, daß er noch im Acker stehe,da die Frucht waͤchst, und sich nicht vor der Zeit der Frucht ruͤn⸗ me. Denn gewißlich fol ein Zion werden, als ich denn aueh hoffe, es werde der Mensch der Suͤnden offenbar werden, und sich suchen in GOttes Erbarmen, so muß ein stets wahrendes bußfertiges Leben erfolgen, da sich der Mensch in der Eitelkeit erkennet, und immerdar aus der eiteln kustinGottes ein, men eindringet.
+
+541. Der arme fündige Mensch muß fichnurmitiss‚ae men Lazaro zu GOttes Fuͤssen unter feinem Tisch vor feine Thür legen, der Brosamen von GOttes Tische begehren, ch a immerdar in das Cananeische Weiblein verkleiden mit Hertzen und gantzem Gemuͤthe: Kein Heucheln erlanget das Perlen:
+
+Kleinod; Denn es liegt an keinem andern Ort, als im Tode des irdischen Menschen vergraben, der muß weg /alsdenn ists offenbar. Der Adamische Tod muß in Christi Tod verwan⸗ delt werden, soll Christi Perlein gefunden werden. 542. Christus betet zu seinem Vater, daß Er dan, Schweiß schwitzte, da Er den Tod wolte im Fleische chen. Wollen wir nun feine Kinder werden, so mu auch mit Ihm in seinem Tode sterben, und unsern kend und grosse Begierde in seinen blutigen Schweiß stets sen170die aufgewachte eitele Lustin seinem blutigen Se ersaͤuffen. 543. Es muß Ernst, und nicht allein Troͤsten und Heucheln seyn. Nicht nur sagen zum alten Adam, du bistChristi 7 Nein, nein! Nur sagen: In mir liegt die Suͤnde und E keit: O GOtt erbarm dich meiner, in Christo deinem lieben Sohn und zerbrich meine Suͤnde und Eitelkeit in seinem Tod,
+
+\ und führe mich in feinem Siege und Auferstehung aus den Tode aus; Mache du die Sünde und den Tod zu nicht,Pi a
+
+[p. 188] ‚Ef. Stiefel und Ez. Meths.
+
+Srünedu in Christo aus mir aus; Fuͤbre meine Seele aus dem
+
+Machen des Todes und der Eitelkeit in Christo aus, daß ich dir und nicht mir lebe!
+
+544. Keine Göttliche Wissene fol ihm der Mensch in der Selbheit zumessen, sondern in allen Dingen GOtt die Ehre geben, sichin Goͤttlichem Leben für nichtig und untuͤchtig hal⸗ ten, und das alles, was ihme von Goͤttlicher Kraft eingeführet wird, immerdar GOtt wieder aufopfern und sagen: HErr! Du hast Macht zu nehmen Staͤrcke, Kraft und Weisheit, dein ist die Ehre, ich will vor dir ein Nichts seyn; Sey du, lieber
+
+Gott, in mir was du wilt; Dein Name sey in deiner Kraft, du in mich einfuͤhrest, gepreiset. 545: Es soll auch ein Mensch in dieser Welt feine Heiligkeit nicht begehren zu wissen, sondern nur stets aus seinem Baum e Saft holen, und dem Baum befehlen was der fuͤr einen ftoder Zweig will aus ihme gebaͤren. Sich mit nichten dar⸗ ge und sagen: Sehet! Hie stehet der Baum Christi: Ich bin ein aiund gewachsene Frucht, ich bin die Braut des Lam⸗ mesin aller Welt: Sondern nur fein demüthig unter Christi Heerde einher gegangen, und sich den Ertz⸗Hirten lassen unter den Laͤmmern weiden; Nicht um sich stossen, als ein Bock, und
+
+Bo die Thuͤr zusperren, und kein Schaf mehr wollen hin. ein lassen, wie dieser Autor gethan, indem er uns in einem Tractat hat die Gnadenthuͤr fast hartnäckig versperret, wel⸗ ches wahrlich nicht Lamms⸗Axt ist. 546. Christus hat uns die Thuͤr aufgeschlossen, kein damm begehret dieselbe uns zuzuschliessen, melde ich dem liebhaben⸗ den Leser treulich, und warne ihn gantz Bruͤderlich, als mein
+
+Mitglied, ja in der Niedrigkeit und grossen Demuth vor G tt und feinen Kindern zu verharren; sich nicht des Sieges er._. b, weil noch der Mensch der Sünden le⸗ bet. Denn wer dasaget, * keine Sun der ist ein Lüge ner. 1. Joh. f. 8.
+
+547. Alsdenn, wennderidölche Wenschgantz abstirbt, hat die Suͤnde ein Ende. Denn wollen wir das Lied Treiber fingen, der uns gefangen hielt, auch das Lied In der Braut Zion in der Ehe⸗Stadt Jerusalem.
+
+548. Daß Autor setzet, die Suͤnde habe an den Vorbild der | Bau Christi zum Lobe * schon aufgehoͤret; Das ki [p. 189] bey der wahren Christenheit, in den Kindern Christi, von dem innern neuen Menschen im Geiste Christi, zu verstehen, gar nicht im aͤussern fleischlichen Menschen. 549. Es soll ihm der Trug mit nichten geschwiegen werden, daß er den Menschen der Suͤnden will zudecken.
+
+Das boͤse
+
+Kind soll dermassen aufgedecket werden, daß es, als ein Fluch der Welt erkant werde.
+
+Ja ans Creutz Christi wollen wir den Menschen der Eitelkeit stellen, daß ihn der arme Sünder sehen soll, und nicht also kuͤhn mit Christi Purpur⸗ Mantel un⸗ ter der Decke spielen, welcher dem armen bekehrten Suͤnder, der in steter Busse lebt, gehoͤret, sonderlich dem ansahen vom Teufel hart gehaltenen Suͤnder, dem der Teufel die Gna⸗ den⸗Thuͤr will zufchlieffen, der soll sich hierein wickeln. 550. Der Starcke, so im Glauben und Erkentniß starck ist, soll den Mantel Christo feinem Ertz Hirten umgeben, unda ein Lamm in Gedult unter der Heerde gehen, und den Mantel, den ihm Christus immerdar umgiebet, seinen Bruͤdern un
+
+Mitgliedern umgeben; Und in ihnen belsen kampfen und rin gen, mit Beten, Lehren und Leben, daß Gottes Wille inuns geschehe, und sein Reich in und zuuns komme, und wir als ein einiger Baum in allen Zweigen und Aesten Frucht tragen, n unsere Blüte vor GOtt und feinen Engeln erscheine, wir 5 der Frucht ewig geniessen mögen. Amen! Anno 1622. im Monat April geendigt.
+
+ENDE [p. 190] taatsBibl iothel
+
+MDZ
+
+Selten enten Digitale Bibliothek
+
+Böhme, Jakob, 1575-1624 Theosophia Revelata. Das ist Alle Götliche Schriften des Gottseligen und Hocherleuchteten Deutschen Theosophi Jacob Böhmens Geschrieben im Jahr 1621 „Ingleichen Vom unpum des Secten Esalä Stiefels und Ezechiel Meihs, betreffend Die Vollkommenheit des Menschen, das ist, Eine Gründliche Bd. 11 151] 1730. ec. 612 CSeba. um.nbn.de:bvb:12-bsb10260390-6

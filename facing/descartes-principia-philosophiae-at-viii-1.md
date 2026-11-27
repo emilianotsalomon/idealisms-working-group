@@ -1,0 +1,6735 @@
+---
+title: Principia philosophiae (AT VIII-1)
+author: René Descartes
+id: 8256
+markers: [at, print]
+pairs_by: at
+year: 1897
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Œuvres de Descartes, publiées par Charles Adam et Paul Tannery, t. VIII-1 (Paris, Cerf, 1897-1913); converted in Seinsbyte's library; this file is the source, corrections go here
+translation: none
+canonical: "AT VIII-1: [p. N] are the pages of AT VIII-1"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Principia philosophiae (AT VIII-1) was written by an author who died in 1650, so before 1931; René Descartes (d. 1650) is long out of protection and the edition (1897) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 8256)
+---
+
+# R. Descartes, *Principia philosophiae (AT VIII-1)* (1897)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. 1] SERENISSIMÆ PRINCIPI
+
+ELISABETHÆ,
+
+FREDERICI BOHEMIÆ REGIS,
+
+COMITIS PALATINI ET ELECTORIS SACRI ROMANI IMPERII
+
+FILIÆ NATU MAXIMÆ.
+
+Serenissima Princepsa,
+
+Maximum fructum percepi scriptorum, quæ antehac in lucem edidi, quòd ea perlegere dignata sis, quòdque, eorum occasione in notitiam tuam admissus, tales dotes tuas esse cognoverim, ut è re gentis humanæ esse putem, eas seculis in exemplum proponi. Non deceret me vel adulari, vel aliquid non satis perspectum affirmare, præsertim hoc in loco, in quo veritatis funda- menta jacere conaturus sum ; & scio non affectatum ac simplex Philosophi judicium generosae modestiae tuæ gratius fore, quàm magis exornatas blandiorum hominum laudationes. Quapropter ea tantùm scribam,
+
+a. Cette Epistola dedicatoria est imprimée, sur six pages non numérotées, en tête de la première édition des Principia Philosophiæ, immé- diatement après la feuille du frontispice, au verso de laquelle se trouve reproduit in extenso le Privilège du 4 mai 1637 (voir t. VI, p. 518, de cette édition), avec cette mention en bas :
+
+« Achevé d'Imprimer le 10 de Iuillet 1644. »
+
+L' Epistola est suivie de 14 pages non numérotées, contenant l' Index Principiorum Philosophiæ (que nous reproduirons, non pas avant, mais seulement après les Principia, afin de pouvoir donner la pagination). Viennent ensuite les 310 pages numérotées des Principia. Sur la dernière est ajouté un Errata de quelques lignes, dont les corrections ont été incorporées dans notre texte.
+
+[p. 2] 2 EPISTOLA DEbiCATORIA. (i-3).
+
+quæ vera esse ratione vel experientiâ cognosco, & hîc in exordio eodem modo ac in toto reliquo libro philofophabor.
+
+Magnum est dis|crimen inter veras & apparentes virtutes ; nec non etiam ex veris, inter illas quæ ab accuratâ rerum cognitione deveniunt, & illas quæ cum aliquâ ignoratione conjunftæ sunt. Per apparentes, intelligo vitia quædam non valdè frequentia, vitiis aliis notioribus opposita; quæ quoniam ab iis magis distant quàm intermediæ virtutes, idcirco magis solent celebrari. Sic quia plures inveniuntur qui peri- cula timide refugiunt, quàm qui se inconfideratè in ipsa conjiciant, vitio timiditatis temeritas tanquam virtus opponitur, & magis quàm vera fortitudo vulgo æstimatur; sie sæpe prodigi pluris fiunt quàm libéra- i5 les ; sicque nulli faciliùs ad magnam pietatis famam perveniunt, quàm superstitiosi vel hypocritæ.
+
+Inter veras autem virtutes, multæ non à solâ re&i cognitione, sed etiam ab errore aliquo nascuntur : sie sæpe à simplicitate bonitas, à metu pietas, à desperatione fortitudo exsurgit. Atque hæ ab invicem diversæ sunt, ut etiam diversis nominibus designantur; sed illæ puræ & finceræ, quæ ex solâ | re&i cognitione pro- fluunt, unam & eandem omnes habent naturam, & sub uno sapientiæ nomine continentur. Quisquis enim fir- 2 5 mam & efficacem habet voluntatem rectè semper utendi suâ ratione, quantum in se est, idque omne quod opti- mum esse cognoscit exfequendi, rêvera sapiens est,
+
+3 philofophabor, non à la li- extolli (p. 3, l. S), reperitur (ib., gne (/" édit.). Même remarque l. 21) et rapi {p. 4, l. 14). après hypocritae (ci-après, 1. 17), [p. 3] s3-5). Epistola dedicatoria. j quantum ex naturâ suâ esse potest; & per hoc unum, justitiam, fortitudinem , temperantiam , reliquafque omnes virtutes habet, sed ita inter se conjunctas, ut nullæ supra cæteras emineant ; & idcirco, quamvis multò sint præstantiores iis quæ aliquâ vitiorum mifturâ diftindæ sunt, quia tamen multitudini minus sunt notæ, non tantis laudibus solent extolli.
+
+Præterea, cùm duo ad sapientiam ita descriptam requirantur, perceptio scilicet intellectûs & propensio io voluntatis : ejus quidem quod à voluntate dependet nemo non est capax, sed quidam aliis multò perfpi- caciorem habent intellectum. Et quamvis sufficere debeat iis qui sunt naturâ tardiufculi, quòd, etsi multa ignorent, modo tamen fir|mam & constantem i5 retineant voluntatem nihil omittendi, quo ad redi cognitionem perveniant, atque id omne quod rectum judicabunt exfequendi, pro modulo suo sapientes & hoc nomine Deo gratiffimi elle possint : multô tamen præstantiores illi sunt, in quibus, cum firmiffimâ rectè agendi voluntate, perfpicaciffimum ingenium & summa veritatis cognofcendae cura reperitur.
+
+Summam autem esse in Celûtudine tuâ istam curam, ex eo perspicuum est, quòd nec aulse avocamenta, nec consueta educatio quæ puellas ad ignorantiam damnare solet, impedire potuerint, quominus omnes bonas artes & scientias inveftigaris. Deinde summa etiam & incomparabilis ingenii tui perfpicacitas ex eo apparet, quòd omnia istarum scientiarum arcana penitiffimè infpexeris ac breviffimo tempore accuratè cognoveris.
+
+3o Majufque adhuc ejusdem rei habeo argumentum mihi peculiare, quòd te unam hadenus invenerim, quæ
+
+[p. 4] (5-6).
+
+tra&atus antehac à me vulgatos perfectè omnes intel- ligas. Obscu|riffimi enim plerisque aliis, etiam maxime ingeniosis & doctis, esse videntur; & ferè omnibus usu venit ut, si versati sint in Metaphysicis, à Geometricis abhorreant ; si verô Geometriam excoluerint, quæ de prima Philosophiâ scripsi non capiant : solum agnosco ingenium tuum, cui omnia æquè perspicua sunt, & quod meritò idcirco incomparabile appello. Cùmque considero tam variam & perfe&am rerum omnium cognitionem non esse in aliquo Gymnofophiltâ jam sene, io qui multos annos ad contemplandum habuerit, sed in Principe puellâ, quæ forma & ætate non cæfiam Miner- vam, aut aliquam ex Musis, sed potiùs Charitem refert, non possum in summam admirationem non rapi.
+
+Denique non tantùm ex parte cognitionis, sed etiam 1 5 ex parte voluntatis, nihil ad absolutam & sublimem sapientiam requiri, quod non in moribus tuis eluceat, animadverto. Apparet enim in illis eximia quædam cum majestate benignitas & mansuetudo, perpetuis fortunæ injuriis | lacefiita, sed nunquam efferata nec 20 fracta. Hæcque ita me sibi devinxit, ut non modo Philosophiam hanc meam Sapientiæ, quam in Te suspi- cio, dicandam & confecrandam putem (quia nempe ipsa nihil aliud esl quàm studium sapientiæ), sed etiam non magis Philosophus audire velim, quàm 2 5
+
+Serenifiimæ Celfitudinis tuæ
+
+Devotifiimus cultor
+
+Des-Cartes.
+
+[p. 5] PRINCIPIORUM
+
+PHILOSOPHIE
+
+De principiis cognitionis humanæ.
+
+Quoniam infantes nati sumus, & varia de rébus sensibilibus judicia priùs tulimus, quàm integrum nostræ rationis usum haberemus, multis præjudiciis à veri cognitione avertimur; quibus non aliter videmur posse liberari, quàm si semel in vitâ de iis omnibus studeamus dubitare, in quibus vel minimam incertitu- dinis suspicionem reperiemus.
+
+Quin & illa etiam, de quibus dubitabimus, utile erit habere pro falsis, ut tantò clariùs, quidnam certiffi- mum & cognitu facillimum ût, inveniamus.
+
+Sed hæc intérim dubitatio ad solam contemplatio- nem veritatis esl restringenda. Nam quantum ad usum vitæ, quia perfæpe rerum agendarum occasio præte- riret, antequam nos dubiis nostris exsolvere possemus, non rarò quod tantùm esl verisimile cogimur amplecti ; vel etiam interdum, etsi è duobus unum altero verifi- milius non appareat, alterutrum tamen eligere.
+
+Nunc itaque, cùm tantùm veritati quærendæ incum- bamus, dubitabimus inprimis, an ulla? res sensibiles
+
+i.
+
+Veritatem inquirenti, semel in vitâ de omnibus, quantum fieri potest, esse dubitan- dum.
+
+II.
+
+Dubia etiam pro falsis habenda.
+
+III.
+
+Hanc intérim dubitationem ad usum vita non esse referendam.
+
+IV.
+
+Cur pojimus dubitare
+
+de rébus sensibilibus.
+
+[p. 6] V. Cur etiam de Mathematicis demonstrationibus.
+
+VI. Nos habere liberum arbitrium, ai cohibendum assensum in dubiis, fecque ad errorem vitandum.
+
+VII. Von posse à nobis du- aut imaginabiles existant : primo, quia deprehendimus interdum sensus errare, ac prudentiæ est, nunquam nimis fidere iis qui nos vel semel deceperunt; deinde, quia quotidie in somnis innumera videmur sentire aut imaginari, quæ nusquam sunt; nulla|que sie dubi- tanti signa apparent, quibus somnum à vigiliâ certò dignofeat.
+
+Dubitabimus etiam de reliquis, quæ antea pro maxime certis habuimus ; etiam de Mathematicis demon- ftrationibus, etiam de iis principiis, quæ hactenus putavimus esse per se nota : tum quia vidimus aliquando nonnullos errasse in talibus, & quædam pro certissimis ac per se notis admififle, quæ nobis falsa videbantur; tum maxime, quia audivimus esse Deum, qui potest omnia, & à quo sumus creati. Ignoramus enim, an forte nos taies creare voluerit, ut semper fallamur, etiam in iis quæ nobis quàm notiflima apparent; quia non minus hoc videtur fieri potuisse, quàm ut interdum fallamur, quod contingere antè advertimus. Atque si, non à Deo potentissimo, sed vel à nobis ipsis , vel à quovis alio , nos esse fingamus : quo minus potentem originis nostræ authorem affignabimus, tantò magis erit credibile, nos tam imperfe&os esse, ut semper fallamur.
+
+Sed intérim, à quocunque tandem simus, & quantumvis ille sit potens, quantumvis fallax, hanc nihilominus in nobis libertatem esse experimur, ut semper ab iis credendis, quæ non plané certa sunt & explo- rata, possimus abstinere; atque ita cavere, ne unquam erremus.
+
+Sic autem rejicientes illa omnia, de quibus aliquo
+
+[p. 7] 2-3.
+
+modo possumus dubitare, ac etiam falsa esse fingentes, facile quidem supponimus nullum esse Deum, nullum cœlum, nullacorpora; nosque etiam ipsos non habere manus, nec pedes, nec denique ullum corpus; non autem ideô nos, qui talia cogitamus, nihil esse : répugnât enim, ut putemus id quod cogitât, eo ipso tempore quo cogitât, non existere. Ac proinde hæc cognitio, ego cogito, ergo sum, est omnium | prima & certissima, quæ cuilibet ordine philosophanti occurrat.
+
+Hæcque optima via est ad mentis naturam, ejusque à corpore distinctionem, agnoscendam. Examinantes enim quinam simus nos, qui omnia quæ à nobis diversa sunt supponimus falsa esse, perfpicuè videmus, nullam extensionem, nec figuram, nec motum localem, nec quid simile, quod corpori sit tribuendum, ad naturam nostram pertinere, sed cogitationem solam, quæ proinde priùs & certiùs quàm ulla res corporea cognoscitur; hanc enim jam percepimus, de aliis autem adhuc dubitamus.
+
+Cogitationis nomine, intelligo illa omnia, quæ nobis consciis in nobis fiunt, quatenùs eorum in nobis con- scientia est. Atque ita non modo intelligere, velle, imaginari, sed etiam sentire, idem est hîc quod cogitare. Nam li dicam, ego video, vel ego ambulo, ergo sum; & hoc intelligam de visione, aut ambulatione, quæ corpore peragitur, conclusio non est absolutè certa; quia, ut fsepe fit in fomnis, possum putare me videre, vel ambulare, quamvis oculos non aperiam, & loco non movear, atque etiam forte, quamvis nullum ha- beam corpus. Sed si intelligam de ipso sensu sive con- scientiâ videndi aut ambulandi, quia tune refertur ad bitari, quin exifta- tnus dum dubitamus; atque hoc esse primum, quod ordine philofophandocogno- Scimus.
+
+VIII.
+
+Diflinâionem inter ani- mant & corpus, sive inter rem cogitantem & corpoream, hinc agnosci.
+
+IX.
+
+Quid sit cogitatio.
+
+[p. 8]
+
+Principiorum Philosophie
+
+Quæ simplicissima sunt & per Je nota, definitionibus Logicis obscuriora reddi ; 6 talia inter cognitio- nes studio acquisitas non esse numeranda.
+
+XI. Quomodo mens nostra notior fil quant corpus.
+
+mentem, quae sola sentit sive cogitât se videre aut ambulare, est plané certa.
+
+Non hîc explico alia multa nomina, quibus jam usus sum, vel utar in sequentibus, quia per se satis nota mihi videntur. Et sæpe adverti Philosophos in hoc errare, quôd ea, quæ fimpliciffima erant ac per se nota, Logicis definitionibus explicare conarentur; ita enim ipsa obscuriora reddebant. Atque ubi dixi hanc pro- positionem, ego cogito, ergo[sum, esse omnium primam & certissimam, quæ cuilibet ordine philosophanti occurrat, non ideô negavi quin ante ipsam scire opor- teat, quîd sit cogitatio, quid existentia, quid certitudo ; item, quodfieri non possit, ut id quod cogitet non existat, & talia; sed quia hæ sunt fimpliciffimæ notiones, & quæ solæ nullius rei existentis notitiam præbent, idcirco non censui esse numerandas.
+
+Jam verô ut sciatur, mentem nostram non modo priùs & certiùs, sed etiam evidentiùs quàm corpus co- gnofci, notandum est, lumine naturali esse notissimum, nihili nullas esse affectiones sive qualitates ; atque ideò ubicunque aliquas deprehendimus, ibi rem sive substantiam, cujus illæ sint, necessario inveniri ; & quo plures in eâdem re sive substantiâ deprehendimus, tantò clariùs nos illam cognoscere. Plura verò in mente nostrâ, quàm in ullâ aliâ re à nobis deprehendi, ex hoc manifestum est, quòd nihil plané efficiat, ut aliquid aliud cognoscamus, quin idem etiam multò certiùs in mentis nostræ cognitionem nos adducat. Ut si terram judico existere, ex eo quòd illam tangam vel videam, certè ex hoc ipso adhuc magis mihi judicandum est mentem meam existere : fieri enim forsan
+
+iS
+
+[p. 9] 4-5. Pars Prima. 9
+
+potest, ut judicem me terram tangere, quamvis terra nulla existat; non autem, ut id judicem, & mea mens quæ id judicat nihil sit; atque ita de cæteris.
+
+Nec aliam ob causam aliter visum est iis, qui non XI1 -
+
+, j- 1 m r 1 • r - • , Cur non omnibus (equè
+
+ordinephiloiophati iunt, quam quiamentem a corpore innoièfcat.
+
+nunquam satis accuratè distinxerunt. Et quamvis sibi certius esse putârint, se ipsos existere, quàm quidquam aliud, non tamen adverterunt, per se ipsos, mentes solas hoc in loco fuisse intelligendas ; sed contra potiùs intellexerunt sola | sua corpora, quæ oculis vide- bant, & manibus palpabant, quibusque vim sentiendi perperam tribuebant; hocque ipsos à mentis naturâ percipiendâ avocavit.
+
+Cùm autem mens, quæ se ipsam novit, & de aliis xm -
+
+omnibus rébus adhuc dubitat, undique circumfpi- "erlmcogni'twà^i cit, ut cognitionem suam ulteriùs extendat : primo ^gninonedependeat. quidem invenit apud se multarum rerum ideas, quas quamdiu tantùm contemplatur, nihilque ipsis simile extra se esse affirmât nec negat, falli non potest. Invenit etiam communes quasdam notiones, & ex his varias demonstrationes componit, ad quas quamdiu attendit, omnino sibi persuadet esse veras. Sic, exempli causâ, numerorum & figurarum ideas in se habet, ha- betque etiam inter communes notiones, quoi si æqualibus æqualia addas, quæ inde exfurgent erunt æqualia, & similes; ex quibus facile demonstratur, très angulos trianguli æquales esse duobus rectis, &c. ; ac proinde hæc & talia sibi persuadet vera esse, quamdiu ad præ- missas, ex quibus ea deduxit, attendit. Sed quia non
+
+3o potest semper ad illas attendere, cùm postea recorda- tur se nondum scire, an forte talis naturæ creata sit,
+
+[p. 10] XIV. Ex eo quòd existentia necessaria in nostro de Deo conceptu contineatur, reâè con- ciliai Deum existere.
+
+XV. Non eodem modo in aliarum rerum conceptibus existentiam necessariam, sed contingentent duntaxat contineri.
+
+XVI. Prtrjudicia impedire, quominùs ijla neces- fttas existentia? Dei ab omnibus clarè co- gnofcatur.
+
+ut fallatur etiam in iis quæ ipsi evidentissima apparent, videt se meritò de talibus dubitare, nec ullam habere posse certam scientiam, priusquam suæ authorem originis agnoverit.
+
+Considerans deinde inter diversas ideas, quas apud se habet, unam esse entis summè intelligentis, summè potentis & summè perfecti, quæ omnium longé præcipua est, agnoscit in ipsâ existentiam, non possibilem & contingentem tantùm, quemadmodum in ideis aliarum omnium rerum, quas distinctè percipit, sed omnino necessariam & æternam. Atque ut ex eo quòd, exempli causâ, percipiat | in ideâ trianguli necessariò contineri, très ejus angulos æquales esse duobus rectis, plané sibi persuadet triangulum très angulos habere æquales duobus rectis : ita ex eo solo quòd percipiat existentiam necessariam & æternam in entis summè perfecti ideâ contineri, plané concludere débet ens summè perfectum existere.
+
+Magisque hoc credet, si attendat nullius alterius rei ideam apud se inveniri, in quâ eodem modo necessariam existentiam contineri animadvertat. Ex hoc enim intelliget, istam ideam entis summè perfecti non esse à se effidam, nec exhibere chimericam quandam, sed veram & immutabilem naturam, quæque non potest non existere, cùm necessaria existentia in eâ contineatur.
+
+Hoc, inquam, facile credet mens nostra, si se priùs omnino præjudiciis liberârit. Sed quia sumus assueti reliquis omnibus in rébus essentiam ab existentia distinguere, atque etiam varias ideas rerum, quæ nusquam sunt aut fuerunt, ad arbitrium effingere, facile con
+
+[p. 11] 6- 7 .
+
+ii
+
+tingit, cùm in entis summè perfecti contemplatione non sumus plané defixi, ut dubitemus an forte ejus idea una sit ex iis, quas ad arbitrium efïinximus, aut saltem ad quarum essentiam existentia non pertinet. Ulteriùs verò confiderantes ideas quas in nobis habemus, videmus quidem illas, quatenus sunt quidam modi cogitandi, non multùm à se mutuò differre, sed quatenus una unam rem, alia aliam repræsentat, esse valde diversas ; & quò plus perfectionis objectivæ in se continent, eô perfectiorem ipsarum causam esse debere. Nam quemadmodum, si quis in se habet ideam alicujus machinæ valde artificiosæ, meritò quæri potest quænam sit causa à quâ illam | habet : an nempe viderit alicubi talem machinam ab alio i5 fadam; an mechanicas scientias tam accuratè didi- cerit, anve tanta sit in eo ingenii vis, ut ipsam nullibi unquam visam per se excogitare potuerit ? Totum enim artificium quod in ideâ illâ objedivè tantùm sive tanquam in imagine continetur, débet in ejus causâ, qualiscunque tandem sit, non tantùm objedivè sive repræfentativè, saltem in prima & prsecipuâ, sed reipfâ formaliter aut eminenter contineri.
+
+Sic, quia Dei sive entis summi ideam habemus in nobis, jure possumus examinare à quânam causâ a5 illam habeamus ; tantamque in eâ immensitatem inveniemus, ut plané ex eo simus certi, non posse illam nobis fuisse inditam, nisi à re in quâ sit rêvera omnium perfectionum complementum, hoc esl, nisi à Deo realiter existente. Esl enim lumine naturali notissimum, non modo à nihilo nihil fieri ; nec id quod esl perfectius ab eo quod esl minus perfectum, ut à causâ
+
+XVII.
+
+Qud cujusque ex nostris ideis objeâiva per/e- âio major est, eà ejus causam esse debere majorem.
+
+XVIII.
+
+Hinc rursus concludi
+
+Deum existere.
+
+[p. 12] efficiente & totali, produci; sed neque etiam in nobis ideam sive imaginem ullius rei eue posse, cujus non alicubi, sive in nobis ipsis, sive extra nos, Archetypus aliquis, omnes ejus perfectiones reipfâ continens, existat. Et quia summas illas perfectiones, quarum ideam habemus, nullo modo in nobis reperimus, ex hoc ipso rectè concludimus eas in aliquo à nobis diverso, nempe in Deo, esse, vel certè aliquando fuisse; ex quo evidentiffimè sequitur, ipsas adhuc esse. xix. Hocque satis certum est & manifestum, iis qui Dei
+
+E ?om^Ti*X"" ideam contemplari fummafque ejus perfectiones adtjus tamen per/eâio- vertere s un t assueti. Quamvis enim illas non Compre- nez omnt alia recta- ^~ *
+
+riùsànobiscogno/ci. hendamus , quia scilicet est de naturâ infiniti ut à nobis, qui su|mus finiti, non comprehendatur, nihilominus tamen ipsas clariùs & distinctiùs quàm ullas res corporeas intelligere possumus, quia cogitationem nostram magis implent, suntque simpliciores, nec limi- tationibus ullis obscurantur. xx- Quia verò non omnes hoc advertunt, atque etiam
+
+Nos non à nobis ipsis, • J J 1_ 1_ • J *.'£ ■ r sed à Deo factos, quia non, quemadmodum habentes ideam artincioiæ eumqueproindeexi. alicu j us mac hinse scire solent undenam illam acceperint, ita etiam recordamur ideam Dei nobis aliquando à Deo advenisse, utpote quam semper habuimus : quærendum adhuc est, à quonam simus nos ipû, qui summarum Dei perfectionum ideam in nobis 2 5 habemus. Nam certè est lumine naturali notissimum, eam rem, quæ novit aliquid se perfectius, à se non esse: dedisset enim ipsa sibi omnes perfectiones, quarum ideam in se habet ; nec proinde etiam posse ab ullo esse, qui non habeat in se omnes illas perfectiones, 3o hoc est, qui non sit Deus.
+
+[p. 13] 8- 9 .
+
+IO
+
+Nihilque hujus demonstrationis evidentiam potest obscurare, modo attendamus ad temporis sive rerum durationis naturam ; quæ talis est, ut ejus partes à se mutuò non pendeant, nec unquam simul existant; atque ideò ex hoc quòd jam ûmus, non sequitur nos in tempore proximè sequenti etiam futuros, nisi aliqua causa, nempe eadem illa quæ nos primùm produxit, continué veluti reproducat, hoc est, conservet. Facile enim intelligimus nullam vim esse in nobis, per quam nos ipsos conservemus ; illumque in quo tanta est vis, ut nos à se diversos conservet, tantò magis etiam se ipsum conservare, vel potiùs nullâ ullius conserva- tione indigere, ac denique Deum esse.
+
+Magna autem in hoc existentiam Dei probandi »5 modo, per ejus scilicet ideam, est prærogativa : quòd simul quis|nam sit, quantum naturæ nostræ fert infir- mitas, agnoscamus. Nempe ad ejus ideam nobis inge- nitam respicientes, videmus illum esse æternum, omniscium, omnipotentem, omnis bonitatis veritatisque fontem, rerum omnium creatorem, ac denique illa omnia in se habentem, in quibus aliquam perfectionem infinitam, sive nullâ imperfectione terminatam, clarè possumus advertere.
+
+Nam sanc multa sunt, in quibus etsi nonnihil perfectionis agnoscamus, aliquid tamen etiam imperfe- ctionis sive limitationis deprehendimus ; ac proinde competere Deo non possunt. Ita in naturâ corporeâ, quia simul cum locali extensione divisibilitas inclu- ditur, estque imperfectio esse divisibilem, certum est, Deum non esse corpus. Et quamvis in nobis perfectio quædam sit, quòd sentiamus, quia tamen in omni sensu
+
+xxi.
+
+Existentiæ nostræ durationem sufficere, ad existentiam Dei demonstrandam.
+
+XXII. Ex nostro modo existentiam Dei cognoscendi, omnia ejus attributa naturali ingenii vi" cognoscibilia simul cognosci.
+
+XXIII. Deum non esse corpo- reum, nec sentire ut nos, nec velle malitiam peccati.
+
+[p. 14]
+
+Principiorum Philosophle
+
+XXIV. A Dei cognitione ad creaturarum cognitionem perveniri, recordando eum ejjfe infinitum, & nos si- nit os.
+
+XXV. Credenda esse omnia qute à Deo revelata sunt, quamvis captum nostrum excé- dant.
+
+XXVI. Nunquamdifputandum esse de infinito, sed tantùm ea in quibus nullos fines advertimus, qualia sunt extensio mundi, divisibilitas partium pafîio est, & pati est ab aliquo pendere, nullo modo Deum sentire putandum est, sed tantummodo intelligere & velle : neque hoc ipsum ut nos, per opératio- ns quodammodo distinctas, sed ita ut, per unicam 3 , semperque eandem & fimpliciffimam a&ionem, omnia simul intelligat, velit & operetur. Omnia, inquam, hoc est, res omnes : neque enim vult malitiam peccati, quia non est res.
+
+Jam verò, quia Deus solus omnium quæ sunt aut esse possunt vera est causa, perspicuum est optimam philosophandi viam nos fequuturos, si ex ipsius Dei cognitione rerum ab eo creatarum explicationem deducere conemur, ut ita scientiam perfectissimam, quæ est effectuum per causas, acquiramus. Quod ut satis tutò & sine errandi periculo aggrediamur, eâ nobis cautelâ est utendum, ut semper quàm maxime recordemur, & Deum authorem rerum esse infinitum, & nos omnino finitos.
+
+| Ita si forte nobis Deus de se ipso vel aliis aliquid revelet, quod naturales ingenii nostri vires excédât, qualia jam sunt mysteria Incarnationis & Trinitatis, non recufabimus illa credere, quamvis non clarè intelligamus. Nec ullo modo mirabimur multa esse, tum in immenfâ ejus naturâ, tum etiam in rébus ab eo creatis, quæ captum nostrum excédant.
+
+Ita nullis unquam fatigabimur disputationibus de infinito. Nam fané, cùm simus finiti, absurdum effet nos aliquid de ipso determinare, atque sie illud quasi finire ac comprehendere conari. Non igitur respondere curabimus iis, qui quærunt an, si daretur linea
+
+a. Voir t. V, p. 165-166.
+
+[p. 15] infinita, ejus média pars effet etiam infinita; vel an numerus infinitus sit par anve impar, & talia : quia de iis nulli videntur debere cogitare, nisi qui mentem suam infinitam esse arbitrantur. Nos autem illa omnia, in quibus sub aliquâ consideratione nullum finem po- terimus invenire, non quidem affirmabimus esse infinita, sed ut indefinita 3 spe&abimus. Ita, quia non possumus imaginari extensionem tam magnam, quin intelligamus adhuc majorem esse posse, dicemus magnitudinem rerum possibilium esse indefinitam. Et quia non potest dividi aliquod corpus in tôt partes, quin singulæ adhuc ex his partibus divisibiles intelligantur, putabimus quantitatem esse indefinitè divisibilem. Et quia non potest fingi tan tus stellarum numerus, quin plures adhuc à Deo creari potuisse credamus, illarum etiam numerum indefinitum fupponemus; atque ita de reliquis.
+
+Hæcque indefinita dicemus potiùs quàm infinita : tum ut nomen infiniti soli Deo refervemus, quia in eo solo omni ex parte, non modo nullos limites agnoscimus, sed | etiam pofitivè nullos esse intelligimus; tum etiam, quia non eodem modo pofitivè intelligimus alias res aliquâ ex parte limitibus carere, sed néga- tive tantùm earum limites, si quos habeant, inveniri à nobis non posse confitemur.
+
+Ita denique nullas unquam rationes, circa res naturales, à fine quem Deus aut natura in iis faciendis sibi proposuit, defumemus : quia non tantum nobis debemus arrogare, ut ejus consiliorum participes esse putemus. Sed ipsum ut causam efficientem rerum om-
+
+a. Voir t. V, p. 167.
+
+materiæ, numerus stellàrum, &c, pro indefinitis habenda.
+
+XXVII. Quæ différentia sit inter indefinitum & infinitum.
+
+XXVIII. Non causas finales rerum creatarum, sed efficientes esse examinandas.
+
+[p. 16]
+
+Principiorum Philosophie
+
+XXIX.
+
+Deum non esse errorum
+
+causam.
+
+XXX.
+
+Hinc Sequi omnia quee clarè percipimus, vera esse, ac tolli dubitationes antè recenfitas.
+
+nium confiderantes , videbimus quidnam ex iis ejus attributis, quorum nos nonnullam notitiam voluit habere, circa illos ejus esse&us qui sensibus nostris apparent, lumen naturale, quod nobis indidit, concludendum esse ostendat ; memores tamen, ut jam di&um est a , huic lumini naturali tamdiu tantùm esse credendum, quandiu nihil contrarium à Deo ipso revelatur.
+
+Primum Dei attributum quod hîc venit in conside- rationem, est, quod sit summè verax, & dator omnis luminis : adeò ut plané repugnet ut nos fallat, sive ut propriè ac positivè sit causa errorum, quibus nos ob- noxios esse experimur. Nam quamvis forte posse fallere nonnullum ingenii argumentum apud nos homines esse videatur, nunquam certè fallendi voluntas nisi ex malitiâ vel metu & imbecillitate procedit, nec proinde in Deum cadere potest.
+
+Atque hinc sequitur, lumen naturæ, sive cognoscendi facultatem à Deo nobis datam, nullum unquam objectum posse attingere, quod non sit verum, quatenus ab ipsâ attingitur, hoc est, quatenus clarè & distinctè percipitur. Meritò enim deceptor effet dicendus, si perversam illam ac falsum pro vero fumentem nobis dedisset. Ita tollitur fummal iUa dubitatio, quæ ex eo petebatur, quòd nesciremus an forte talis essemus naturæ, ut falleremur etiam in iis quæ nobis evidentissima esse videntur b . Quin & aliæ omnes dubitandi causæ, priùs recensitæ c , facile ex hoc principio tollen-
+
+IO
+
+a. Art. xxv, p. 14 ci-avant.
+
+b. Ci-avant, p. 9, 1. 3l, à p. 10, 1. 2.
+
+c. Art. iv et v, p. 5-6 ci-avant.
+
+[p. 17] tur. Non enim ampliùs Mathematicæ veritates nobis fufpedæ esse debent, quia sunt maxime perfpicuse. Atque si advertamus quid in sensibus, quid in vigiliâ, quidve in somno clarum sit ac distin&um, illudque ab eo quod confusum est & obscurum distinguamus, facile quid in quâlibet re pro vero habendum sit agnoscemus. Nec opus est ista pluribus verbis hoc in loco per- sequi, quoniam in Meditationibus Metaphysicis jam utcunque tractata sunt 8 , & accuratior eorum explicatio ex sequentium cognitione dependet.
+
+Quia verò, etsi Deus non sit deceptor, nihilominus tamen sæpe contingit nos falli, ut errorum nostrorum originem & causam investigemus, ipsosque præcavere discamus, advertendum est, non tam illos ab intellectu quàm à voluntate pendere; nec esse res, ad quarum productionem realis Dei concursus requiratur : sed cùm ad ipsum referuntur, esse tantùm negationes, & cùm ad nos, privationes.
+
+Quippe omnes modi cogitandi, quos in nobis experimur, ad duos générales referri possunt : quorum unus est perceptio, sive operatio intellectûs; alius verò volitio, sive operatio voluntatis. Nam sentire, imaginari, & pure intelligere, sunt tantùm diversi modi percipiendi ; ut & cupere, aversari, affirmare, negare, dubitare, sunt diversi modi volendi.
+
+Cùm autem aliquid percipimus, modo tantùm nihil | plané de ipso affirmemus vel negemus, manifestum est nos non falli; ut neque etiam cùm id tantùm affir- mamus aut negamus, quod clarè & distinctè percipimus esse sie affirmandum aut negandum : sed tan-
+
+a. Médit. IV. Voir t. VII, p. 53.
+
+XXXI. Errores nostros, si ai Deum referantur, esse tantùm negationes ;si ad nos, privationes.
+
+XXXII. Duos tantùm in nobis esse modos cogitandi, perceptionem/cilicet intelleâûs & operationem voluntatis.
+
+XXXIII. Nos non errare, nisi cùm de re non satis percepta judicamus .
+
+[p. 18]
+
+Principiorum Philosophie
+
+XXXIV. Nonfolùm intelleûum, Sed etiam voluntatem requiri ad judicandum.
+
+XXXV.
+
+Hanc Mo latiùs pate- re, errorumque causam inde esse.
+
+XXXVI.
+
+Errores nostros Deo imputari non posse.
+
+XXXVII.
+
+Summam esse hominis per/eâionem , quàd agat libéré, sive per voluntatem ; & per hoc laude vel vitupe- rio dignum reddi.
+
+tummodo cùm (ut fit), etsi aliquid non redè percipiamus, de eo nihilominus judicamus.
+
+Atque ad judicandum requiriturquidem intellectus, quia de re, quam nullo modo percipimus, nihil poiïu- mus judicare ; sed requiritur etiam voluntas, ut rei aliquo modo perceptæ assensio prsebeatur. Non autem requiritur (saltem ad quomodocunque judicandum) intégra & omnimoda rei perceptio; multis enim pos- fumus aflentiri, quæ nonnisi perobfcurè & confusè cognoscimus.
+
+Et quidem intellectûs perceptio, non nisi ad ea pauca quæ illi offeruntur, se extendit, estque semper valde finita. Voluntas vero infinita quodammodo dici potest, quia nihil unquam advertimus, quod alicujus alterius voluntatis, vel immensæ illius quæ in Deo est, objectum esse possit, ad quod etiam nostra non se extendat : adeò ut facile illam, ultra ea quæ clarè percipimus, exten- damus; hocque cùm facimus, haud mirum est quòd contingat nos falli.
+
+Neque tamen ullo modo Deus errorum nostrorum author fingi potest, propterea quòd nobis intelle&um non dédit omniscium. Est enim de ratione intellectûs creati, ut fitfinitus; ac de ratione intelleftûs finiti, ut non ad omnia se extendat.
+
+Quòd verò latissimè pateat voluntas, hoc etiam ipsius naturæ convenit; ac fummaquædam in homine perfectio est, quòd agat per voluntatem, hoc est libéré, atque ita peculiari quodam modo fit author suarum actionum, & ob ipsas laudem mereatur. Non enim lau- dantur automata, quòd motus | omnes ad quos instituta sunt, accuratè exhibeant, quia necessariò illos sie
+
+[p. 19] I 4 .
+
+IO
+
+exhibent; laudatur autem eorum artifex, quod tam accurata fabricant, quia non necessariò, sed libéré ipsa fabricavit. Eâdemque ratione, magis prose&ô no- bis tribuendum est, quod verum ampledamur, cùm ample&imur, quia voluntariè id agimus, quàm û non possemus non amplefti.
+
+Quod autem in errores incidamus, defeéhis quidem est in nostrâ actione five in usu libertatis, sed non in nostrâ naturâ, utpote quæ eadem est, cùm non reftè, quàm cùm reftè judicamus. Et quamvis tantam Deus perfpicacitatem intellectui nostro dare potuifTet, ut nunquam falleremur, nullo tamen jure hoc ab ipso possumus exigere. Nec, quemadmodum inter nos homines, si quis habeat potestatem aliquod malum impediendi, nec tamen impediat, ipsum dicimus esse ejus causam : ita etiam, quia Deus potuisset efficere ut nunquam falleremur, ideò errorum nostrorum causa est putandus. Potestas enim, quam homines habent uni in alios, ad hoc est instituta, ut ipsâ utantur ad illos à malis revocandos ; ea autem, quam Deus habet in omnes, est quàm maxime absoluta & libéra : ideòque summas quidem ipsi debemusgratias, pro bonis quæ nobis largitus est; sed nullo jure queri possumus, quod non omnia largitus fit, quæ agnoscimus largiri potuisse.
+
+Quòd autem fit in nostrâ voluntate libertas, & multis ad arbitrium vel assentiri vel non assentiri pofTimus, adeo manifestum est, ut inter primas & maxime communes notiones, quæ nobis sunt innatæ, fit recenfen- dum. Patuitque hoc maxime paulò antè a , cùm de omnibus dubitare studentes, eô usque fumus progressi,
+
+a. Art. v et art. vi, p. 6 ci-avant.
+
+XXXVIII. Esse defeâum in nostrâ aâione, non in nostrâ naturâ, quàd erremus ; £■ sa?pe subditorum culpas aliis dominis , nunquam autem Deo tribui pop.
+
+XXXIX.
+
+Libertatem arbitrii esse
+
+per Je notam.
+
+[p. 20]
+
+Principiorum Philosophie
+
+XL.
+
+Certum etiam omnia esse à Deo præordinata.
+
+XLI. QuotnoJo arbitrii no- Jlri libertas & Dei prarordinatio simul concilientur.
+
+XLI1.
+
+Quomodo, quamvis no- limus falli, fallamur
+
+ut fingeremus aliquem po|tentiffimum nostræ originis authorem modis omnibus nos fallere conari; nihilominus enim hanc in nobis libertatem esse experiebamur, ut possemus ab iis credendis abstinere, quæ non plané certa erant & explora ta. Nec ulla magis per se nota & perspecta esse possunt, quàm quæ tune temporis non dubia videbantur.
+
+Sed quia jam Deum agnoscentes, tam immensam in eo potestatem esse percipimus, ut nefas esse putemus existimare, aliquid unquam à nobis fieri posse, quod non antè ab ipso fuerit prseordinatum : facile possumus nos ipsos magnis difficultatibus intricare, si hanc Dei prseordinationem cum arbitrii nostri libertate conci- liare, atque utramque simul comprehendere conemur.
+
+Illis verò nos expediemus, si recordemur mentem nostram esse finitam; Dei autem potentiam, per quam non tantùm omnia, quæ sunt aut esse possunt. ab æterno præfcivit, sed etiam voluit ac præordinavit, esse infinitam : ideôque hanc quidem à nobis satis at- tingi, ut clarè & distin&è percipiamus ipsam in Deo esse; non autem satis comprehendi, ut videamus quo pacto libéras hominum actiones indeterminatas relin- quat; libertatis autem & indifferentiæ, quæ in nobis est, nos ita conscios esse, ut nihil fit quod evidentiùs & perfectiùs comprehendamus. Absurdum enim effet, propterea quod non comprehendimus unam rem, quam scimus ex naturâ suâ nobis esse debere incom- prehenfibilem, de aliâ dubitare, quam intimé comprehendimus, atque apud nosmet ipsos experimur.
+
+Jam verò, cùm sciamus errores omnes nostros à voluntate pendere, mirum videri potest, quòd unquam
+
+[p. 21] 15-16.
+
+IO
+
+.5
+
+fallamur, quia nemo est qui velit falli. Sed longé aliud eftvelle fal|li, quàm velle assentiri iis, inquibus contingit errorem reperiri. Et quamvis rêvera nullus fit, qui expressè velit falli, vix tamen ullus est, qui non sæpe velit iis assentiri, in quibus error ipso inscio continetur. Quin & ipsa veritatis assequendæ cupiditas perfsepe efficit, ut ii qui non re&è sciunt quâ ratione fit aflequenda, de iis quæ non percipiunt judicium ferant, atque idcirco ut errent.
+
+Certum autem est, nihil nos unquam falsum pro vero admifluros, si tantùm iis assensum prsebeamus quæ clarè & distinctè percipiemus. Certum, inquam, quia, cùm Deus non fit fallax, facultas percipiendi quam no- bis dédit, non potest tendere in falsum ; ut neque etiam facultas assentiendi, cùm tantùm ad ea quæ clarè percipiuntur se extendit. Et quamvis hoc nullâ ratione probaretur, ita omnium animis à naturâ impressum est, ut quoties aliquid clarè percipimus, ei sponte aflentiamur, & nullo modo possimus dubitare quin fit verum. Certum etiam est, cùm assentimur alicui rationi quam non percipimus, vel nos falli, vel casu tantùm incidere in veritatem, atque ita nescire nos non falli. Sed fané rarò contingit, ut assentiantur iis, quæ advertimus à nobis non esse percepta : quia lumen naturæ nobis dictat, nunquam nisi de re cognitâ esse judicandum. In hocautem frequèntiflimè erramus, quòd multa putemus à nobis olim fuifîe percepta, iisque, mémoriæ mandatis, tanquam omnino perceptis assentiamur, quæ tamen rêvera nunquam percepimus.
+
+Quin & permulti homines nihil plané in totâ vitâ percipiunt satis re&è, ad certum de eo judicium feren-
+
+tamen per nq/iram voluntatem.
+
+XLIII. Nos nunquam falli, cùm Solis clarè & ii- jlinâè perceptis as- Jentimur.
+
+XLIV.
+
+Nosjemper malèjudi- care, cùm assentimur non clarè perceptis, etsi casu incidamus in veritatem ; idque ex eo contingere, quòd supponamus ea fuisse antea satis à nobis perfpeâa.
+
+XLV.
+
+Quidfit perceptio
+
+clara, quid difiinâa.
+
+[p. 22]
+
+Principiorum Philosophie
+
+16-17
+
+XLVI.
+
+Exemplo doloris osten- ditur, claram esse posse perceptionem , etsi non fit difiinâa ; non autem distin- âam, nisi sit clara.
+
+XLVII. Ad primée ætatis præjudicia emendanda , simplices notiones esse considerandas, & quid in quâque sit clarum.
+
+XLVIII. Omnia quæ sub perceptionem nostram cadunt, fpeâari ut res rcrumve affeâio- nes, vel ut æternas veritates ; & rerum - enumeratio.
+
+dum. | Etenim ad perceptionem, cui certum & indubi- tatum judicium possit inniti, non modo requiritur ut sit clara, sed etiam ut lit distincta. Claram voco illam, quæ menti attendenti præsens & aperta est : sicut ea clarè à nobis videri dicimus, quæ, oculo intuenti præsentia, satis fortiter & apertè illum movent. Distin- dam autem illam, quæ, cùm clara sit, ab omnibus aliis ita sejuncta est & præcisa, ut nihil plané aliud, quàm quod clarum est, in se contineat.
+
+Ita, dum quis magnum aliquem sentit dolorem, cla- riffima quidem in eo est ista perceptio doloris, sed non semper est distin&a; vulgò enim homines illam con- fundunt cum obscuro suo judicio de naturâ ejus, quod putant esse in parte dolente simile fenfui doloris, quem solum clarè percipiunt. Atque ita potest esse clara perceptio, quæ non sit distincta; non autem ulla distincta, nisi sit clara.
+
+Et quidem in prima ætate mens ita corpori fuit immersa, ut quamvis multa clarè, nihil tamen unquam distinctè perceperit ; cùmque tune nihilominus de multis judicârit, hinc multa haufimus præjudicia, quæ à plerisque nunquam postea deponuntur. Ut autem nos iis pofîimus liberare, summatim hîc enumerabo simplices omnes notiones, ex quibus cogitationes nostræ componuntur; & quid in unâquâque sit clarum, quid- que obscurum, sive in quo possïmus falli, distinguam.
+
+Quæcunque sub perceptionem nostram cadunt, vel tanquam res, rerumve affectiones quasdam, consideramus; vel tanquam æternas veritates, nullam exiften- tiam extra cogitationem nostram habentes. Ex iis quæ tanquam res consideramus, maxime generalia sunt
+
+2>
+
+[p. 23] i7->«. Pars Prima. 23
+
+substantia, duratio, ordo, numerus, & si quæ alia sunt ejusmodi, quæ ad omnia | gênera rerum se extendunt. Non autem plura quàm duo summa gênera rerum agnosco : unum est rerum intellectualium, sive cogitativarum, hoc est, ad mentem sive ad substantiam cogitantem pertinentium ; aliud rerum materialium, sive quæ pertinent ad substantiam extensam, hoc est, ad corpus. Perceptio, volitio, omnesque modi tam percipiendi quàm volendi, ad substantiam cogitantem referuntur; ad extensam autem, magnitudo, sive ipsamet extensio in longum, latum & profundum, figura, motus, situs, partium ipsarum divisibilitas, & talia. Sed & alia quædam in nobis experimur, quæ nec ad solam mentem, nec etiam ad solum corpus referri debent, i5 quæque, ut infrà suo loco ostendetur", ab arda & intima mentis nostræ cum corpore unione proficifcun- tur : nempe appetitus famis, sitis, &c; itemque, commotiones, sive animi pathemata, quæ non in solâ cogitatione consistunt, ut commotio ad iram, ad hilaritatem, ad tristitiam, ad amorem, &c; ac denique sensus omnes, ut doloris, titillationis, lucis & colorum, sonorum, odorum, saporum, caloris, duritiei, aliarumque ta&ilium qualitatum.
+
+Atque hæc omnia tanquam res, vel rerum qualitates
+
+seu modos, consideramus. Cùm autem agnoscimus po sse Ua numerari, fieri non posse, ut ex nihilo aliquid fiât, tune proposi- sed " ec e " e op '" tio hæc : Ex nihilo nihil fit, non tanquam res aliqua existens, neque etiam ut rei modus consideratur, sed ut veritas quædam æterna, quæ in mente nostrâ sedem
+
+3o habet, vocaturque communis notio, sive axioma.
+
+a. Pars IV, art. clxxxix, cycx et exexi.
+
+XLIX. sEternas veritates non
+
+[p. 24] L.
+
+Eas clarè percipi,sed non omnes ab omni. bus, propter præjudicia.
+
+LI. Quid sit substantia, & quod ijludnomen Deo & creaturis non conveniat univocè.
+
+LU. Qubd menti & corpori
+
+2 4
+
+Principiorum Philosophie
+
+Cujus generis sunt : Impossibile ejî idem Simul esse & non esse : Quod fafium ejî, infeéîum esse nequit : Is qui cogitât, non potejî non exijîere dum cogitât : & alia innumera, quæ quidem omnia recenseri facile non | possunt, sed nec etiam ignorari, cùm occurrit occasio ut de iis cogitemus, & nullis prscjudiciis excsecamur. Et quidem, quantum ad has communes notiones, non dubium esl quin clarè ac distinctè percipi poffînt, alioqui enim communes notiones non essent dicendse : ut etiam rêvera quædam ex ipûs non zequè apud omnes isto nomine dignæ sunt, quia non æquè ab omnibus percipiuntur. Non tamen, ut puto, quod unius hominis cognoscendi facultas latiùs pateat quàm alte- sed quia forte communes istæ notiones advernus fanturprœjudicatis opinionibus quorundamhominum, qui eas idcirco non facile capere pofTunt : etiamsi nonnulli alii, qui præjudiciis istis sunt liberi, evidentiffimè ipsas percipiant.
+
+Quantum autem ad ea, quæ tanquam res vel rerum modos spectamus, operæ pretium est ut singula seorsim consideremus. Per substantiam nihil aliud intelligere possumus, quàm rem quæ ita existit, ut nullâ aliâ re indigeat ad existendum. Et quidem substantia quæ nullâ plané re indigeat, unica tantùm potest intelligi, nempe Deus. Alias verò omnes, non nisi ope concur- fûs Dei existere posse percipimus. Atque ideò nomen substantiæ non convenit Deo & illis univocè, ut dici solet in Scholis, hoc est, nulla ejus nominis significatio potest distinctè intelligi, quæ Deo & creaturis sit communis.
+
+PofTunt autem substantia corporea & mens, sive
+
+îo
+
+[p. 25] ig-ao.
+
+ao
+
+substantia cogitans creata, sub hoc communi conceptu intelligi, quòd sint res, quac solo Dei concursu egent ad existendum. Verumtamen non potest substantia primùm animadverti ex hoc solo, quòd sit res exi- ftens, quia hoc solum per se nos non afficit ; sed facile ipsam agnoscimus ex | quolibet ejus attributo, per communem illam notionem, quòd nihili nulla sint attributa, nullæve proprietates aut qualitates. Ex hoc enim quòd aliquod attributum adesse percipiamus, concludimus aliquam rem existentem, sive substantiam, cui illud tribui possit, neceflariô etiam adesse.
+
+Et quidem ex quolibet attributo substantia cognoscitur ; sed una tamen est cujusque substantiæ præcipua proprietas, quæ ipsius naturam eflentiamque constituit, & ad quam aliæ omnes referuntur. Nempe ex- tenfio in longum, latum & profundum, substantiæ corporeæ naturam constituit ; & cogitatio constituit naturam substantiæ cogitantis. Nam omne aliud quod corpori tribui potest, extensionem præsupponit, estque tantùm modus quidam rei extensæ ; ut & omnia, quæ in mente reperimus, sunt tantùm diversi modi cogitandi. Sic, exempli causâ, figura nonnisi in re extenfâ potest intelligi, nec motus nisi in spatio extenso; nec imaginatio, vel sensus, vel voluntas, nisi in re cogitante. Sed è contra potest intelligi extensio sine figura vel motu, & cogitatio sine imaginatione vel sensu, & ita de reliquis : ut cuilibet attendenti sit manifestum.
+
+Atque ita facile possumus duas claras & distin&as habere notiones, sive ideas, unam substantiæ cogitantis creatæ, aliam substantiæ corporeæ, si nempe attributa omnia cogitationis ab attributis extensionis univocè conveniat, & quomodo ipsa cognoscatur.
+
+lui.
+
+Cujusque substantiæ unum esse præcipuum attributum, ut mentis cogitatio, corporis extensio.
+
+LIV. Quomodo claras & di- Jlinâas notiones habere possimus, substantia? cogitantis, & corporex, item Dei.
+
+[p. 26]
+
+Principiorum Philosophie
+
+lv.
+
+Quomodo duratio, ordo, numerus etiam dijlinâè intelligantur.
+
+LVI.
+
+Quid fini modi, quali-
+
+lates, attributa.
+
+LVI1. Quædam attributa esse
+
+accuratè distinguamus. Ut etiam habere possumus ideam claram & distin&am substantiæ cogitantis in- creatæ & independentis, id est Dei : modo ne illam adæquatè omnia quæ in Deo sunt exhibere supponamus, nec quidquam etiam in eâ esse fingamus, sed ea tantùm advertamus, quæ rêvera in ipsâ continentur, quæque evidenter percipimus ad naturam [ entis summè perfe&i pertinere. Nec certè quisquam talem ideam Dei nobis inesse negare potest, nisi qui nullam plané Dei notitiam in humanis mentibus esse arbitretur.
+
+Duratio, ordo, & numerus, à nobis etiam distinctis- fimè intelligentur, si nullum iis substantiæ conceptum amngamus, sed putemus durationem rei cujusque esse tantùm modum, sub quo concipimus rem istam, quatenus esse perseverat. Et similiter, nec ordinem nec numerum esse quiçquam diversum à rébus ordinatis & numeratis, sed esse tantùm modos, sub quibus illas consideramus.
+
+Et quidem hîc per modos plané idem intelligimus, quod alibi per attributa, vel qualitates. Sed cùm consideramus substantiam ab illis affici, vel variari, vocamus modos ; cùm ab iftâ variatione talem posse deno- minari, vocamus qualitates; ac denique, cùm gene- raliùs spectamus tantùm ea substantiæ inesse, vocamus attributa. Ideòque in Deo non propriè modos aut qualitates, sed attributa tantùm esse dicimus, quia nulla in co variatio est intelligenda. Et etiam in rébus creatis, ca quæ nunquam in iis diverlo modo se habent, ut existentia & duratio, in re existente & durante, non qualitates aut modi, sed attributa dici debent.
+
+Alia autem sunt in rébus ipsis, quarum attributa vel
+
+## [p. 27] Pars Prima.
+
+2 7
+
+IO
+
+ÎO
+
+modi esse dicuntur ; alia verò in nostrâ tantùm cogitatione. Ita, cùm tempus à duratione generaliterfumptâ distinguimus, dicimufque esse numerum motûs, est tantùm modus cogitandi ; neque enim profectò intelligimus in motu aliam durationem quàm in rébus non motis : ut patet ex eo quòd, si duo corpora, unum tardé, aliud celeri|ter per horam moveatur, non plus temporis in uno quàm in alio numeremus, etû multò plus fit motûs. Sed ut rerum omnium durationem me- tiamur, comparamus illam cum duratione motuum illorum maximorum, & maxime æquabilium, àquibus fiunt anni & dies ; hancque durationem tempus vocamus. Quod proinde nihil, præter modum cogitandi, durationi generaliter sumptæ superaddit.
+
+Ita etiam, cùm numerus non in ullis rébus creatis, sed tantùm in abstra&o, sive in génère consideratur, est modus cogitandi duntaxat ; ut & alia omnia quæ unîversalia vocamus.
+
+Fiunt hæc universalia ex eo tantùm, quòd unâ & eâdem ideâ utamur ad omnia individua, quæ inter se similia sunt, cogitanda : ut etiam unum & idem nomen omnibus rébus per ideam istam repræsentatis impo- nimus ; quod nomen est universale. Ita, cùm videmus duos lapides, nec ad ipsorum naturam, sed ad hoc tantùm quòd duo sint attendimus, formamus ideam ejus numeri quem vocamus binarium ; cùmque postea duas aves, aut duas arbores videmus, nec etiam earum naturam, sed tantùm quòd duæ sint consideramus, repetimus eandem ideam quam priùs, quæ ideò est universalis ; ut & hune numerum eodem universali nomine binarium appellamus. Eodemque modo, cùm in rébus, alia in cogitatione. Et quid duratio & tempus.
+
+LVI1I.
+
+Numerum & universalia omnia esse tantùm modos cogitandi.
+
+LIX. Quomodo universalia fiant ; & quæ sint quinque vulgata : ge- nusjpecies, differentia, proprium, accidens.
+
+[p. 28] 28 Principiorum Philosophle «»3.
+
+spectamus figuram tribus lineis coraprehenfam, quandam ejus ideam formamus, quam vocamus ideam trianguli; & eâdem postea ut universali utimur ad omnes alias figuras tribus lineis comprehensas animo nostro exhibendas. Cùmque advertimus, ex triangulis alios esse habentes unum angulum rectum, alios non habentes, formamus ideam universalem trianguli re- danguli, quæ relata ad præcedentem, ut magis generalem , species vocatur. Et illa anguli rectitudo | est differentia universalis, quâ omnia triangula rectangula ab aliis distinguuntur. Et quòd in iis basis poten- tia æqualis fit potentiis laterum, est proprietas iis omnibus & solis conveniens. Ac denique, si supponamus aliquos ejusmodi triangulos moveri, alios non moveri, hoc erit in iis accidens universale. Atque hoc i5 pacto quinque universalia vulgô numerantur : genus, species, differentia, proprium, & accidens. LX - Numerus autem, in ipsis rébus, oritur ab earum
+
+%rimà dereaîï. " distinctione : quæ dijiinéîio triplex est, realis, modalis,
+
+& rationis. Realis propriè tantùm esl inter duas vel plures substantias : & has percipimus à se mutuô realiter esse distinctas, ex hoc solo quòd unam absque altéra clarè & distinctè intelligere possimus. Deum enim agnoscentes, certi sumus ipsum posse efficere quidquid distinctè intelligimus : adeò ut, exempli i5 causâ, ex hoc solo quòd jam habeamus ideam substantiæ extensæ sive corporeæ, quam vis nondum certò sciamus ullamtalem rêvera existere, certi tamen sumus illam posse existere ; atque si existat, unamquamque ejus partem, à nobis cogitatione definitam, realiter ab 3o aliis ejusdem substantiæ partibus esse distinctam. Itemque,
+
+[p. 29] a3-2 4 . Pars Prima. 29
+
+ex hoc solo quòd unusquisque intelligat se esse rem cogitantem, & possit cogitatione excludere à se ipso omnem aliam substantiam, tam cogitantem quàm extensam, certum est unumquemque, sie spe&atum, ab omni aliâ substantiâ cogitante atque ab omni substantiâ corporeâ realiter distingui. Ac etiamsi supponamus, Deum alicui tali substantiæ cogitanti substantiam aliquam corpoream tam ar&è conjunxiffe, ut aréliùs jungi non possint, & ita ex illis duabus unum quid conflavifle, manent nihilominus realiter distinctæ : quia, quantumvis arftè ipsas univerit, potentiâ, quam antè habebat ad eas feparandas, sive ad unam absque aliâ confervandam, seipsum | exuere non potuit, & quæ vel à Deo possunt separari, vel fejundim conservari, realiter sunt distincta.
+
+Dijlinéîio modalis est duplex : alia scilicet inter mo- LXI -
+
+dum propriè diftum, & substantiam cujus est modus; alia inter duos modos ejusdem substantiæ. Prior ex eo cognoscitur, quod possimus quidem substantiam clarè percipere absque modo quem ab illâ differre dicimus, sed non possimus, viceverfâ, modum illum intelligere sine ipsâ. Ut figura & motus distinguuntur modaliter à substantiâ corporeâ, cui insunt ; ut etiam affirmatio & recordatio à mente. Posterior verò cognoscitur ex eo, quod unum quidem modum absque alio possimus agnoscere, ac viceverfâ ; sed neutrum tamen sine eâdem substantiâ cui insunt. Ut si lapis moveatur & sit quadratus, possum quidem intelligere ejus figuram quadratam sine motu; & viceverfâ, ejus motum sine
+
+3o figura quadratâ ; sed nec illum motum, nec illam figuram possum intelligere sine lapidis substantiâ. Distin-
+
+De diftinâione modali.
+
+[p. 30] }°
+
+PRINCIPIORUM PhILOSOPHLE
+
+LX1I.
+
+De dijlinâione
+
+rationis.
+
+LXIII.
+
+Quomodo cogitatio £■ extensio diftinûè co- gnofci possint, ut cou- Jlituentes naturam mentis & corporis.
+
+ctio autem, quâ modus unius substantiæ differt ab aliâ substantiâ vel à modo alterius substantiæ, ut motus unius corporis ab alio corpore vel à mente, atque ut motus à duratione, realis potiùs dicenda esse videtur, quàm modalis : quia modi illi non clarè intelliguntur sine substantiis realiter distin&is, quarum sunt modi.
+
+Denique distinctio rationis est inter substantiam & aliquod ejus attributum, sine quo ipsa intelligi non potest, vel inter duo talia attributa ejusdem alicujus substantiæ. Atque agnoscitur ex eo, quòd non possimus claram & distinctam istius substantiæ ideam formare, si ab eà illud attributum excludamus ; vel non possimus unius ex ejusmodi attributis ideam clarè percipere. si illud ab alio se|paremus. Ut, quia substantiâ quævis, si cesset durare, cessat etiam esse, ratione tantùm à duratione suà distinguitur; &omnesmodi cogitandi, quos tanquam in objectis consideramus, ratione tantùm differunt, tum ab objectis de quibus cogitantur, tum à se mutuò in uno & eodem objecto. Memini quidem me alibi hoc genus distinctionis cum modali conjunxiffe, nempe in fine responsionis ad primas obje- étiones in Meditationes de prima Philosophiâ" : sed ibi non erat occasio de ipsis accuratè diflerendi, & suffi- ciebat ad meum institutum, quôd utramque à reali diftinguerem.
+
+Cogitatio & extensio spectari possunt ut conftituen- tes naturas substantiæ intelligentis & corporeæ ; tuncque non aliter concipi debent, quàm ipsa substantiâ
+
+4 duratione (errata, 1" édit.)} dubitatione (texte).
+
+ao
+
+a. Voir t. VII, p. 120, 1. i5.
+
+[p. 31] Quomodo etiam ut modi Jubflantix .
+
+ï5-j6. Pars Prima. }i
+
+cogitans & substantia extensa, hoc est, quàm mens & corpus ; quo pa&o clarissimè ac diftindifïimè intelliguntur. Quin & faciliùs intelligimus substantiam extensam, vel substantiam cogitantem, quàm substantiam solam, omiflb eo quod cogitet vel sit extensa. Nonnulla enim est difficultas, in abftrahendâ notione substantiæ à notionibus cogitationis vel extensionis, quæ scilicet ab ipsâ ratione tantùm diversæ sunt; & non distin&ior sit conceptus ex eo quod pauciora in io eo comprehendamus, sed tantùm ex eo quòd illa quæ in ipso comprehendimus, ab omnibus aliis accuratè distinguamus.
+
+Cogitatio & extensio sumi etiam possunt pro modis lxiv substantiæ, quatenus scilicet una & eadem mens plures i5 diversas cogitationes habere potest; atque unum & idem corpus, retinendo suam eandem quantitatem, pluribus diversis modis potest extendi : nunc scilicet magis secundùm longitudinem, minùfque secundùm latitudi|nem vel profunditatem, ac paulò post è contra magis secundùm latitudinem, & minus secundùm longitudinem. Tuncque modaliter à substantiâ distinguuntur, & non minus clarè ac distinctè quàm ipsa possunt intelligi : modo non ut substantiæ, sive res quædam ab aliis separatæ, sed tantummodo ut modi rerum spectentur. Per hoc enim, quod ipsas in substantiis quarum sunt modi consideramus, eas ab his substantiis distinguimus, & quales rêvera sunt agnoscimus. At è contra, si easdem absque substantiis, quibus insunt, vellemus considerare, hoc ipso illas ut res subsistentes 3o fpedaremus, atque ita ideas modi & substantiæ con- funderemus.
+
+[p. 32] LXV.
+
+Quomodo ipsarum modi sent etiam cognoscendi.
+
+LXVI.
+
+Quomodo sensus, afje- âus & appetitus, clarè cognoscantur , quamvis sæpe de Us maie judicemus.
+
+LXVII.
+
+In ipso de dolore judicio
+
+fœpe nos falli.
+
+Principiorum Philosophle
+
+Eâdem ratione, diversos cogitationum modos, ut intellectionem, imaginationem, recordationem, voli- tionem, &c; itemque diversos modos extensionis sive ad extensionem pertinentes, ut figuras omnes, & situs partium, & ipsarum motus, optimè percipiemus, si tantùm ut modos rerum' quibus insunt spectemus ; & quantum ad motum, si de nullo nisi locali cogitemus, ac de vi à quâ excitatur (quam tamen suo loco explicare conabor 8 ) non inquiramus.
+
+Supersunt sensus, affe&us, & appetitus, qui quidem etiam clarè percipi possunt, si accuratè caveamus, ne quid ampliùs de iis judicemus, quàm id præcisè, quod in perceptione nostrâ continetur, & cujus intimé con- fcii sumus. Sed perdifficile est id observare, saltem circa sensus : quia nemo nostrûm est, qui non ab ineunte ætate judicârit, ea omnia quæ sentiebat, esse res quasdam extra mentem suam existentes, & sensibus suis, hoc est, perceptionibus quas de illis habebat, plané similes. Adeo ut videntes, ex|empli gratiâ, colorem, putaverimus nos videre rem quandam extra nos positam, & plané similem ideæ illi coloris, quam in nobis tune experiebamur ; idque ob con- fuetudinem ita judicandi, tam clarè & distinctè videre nobis videbamur, ut pro certo & indubitato haberemus.
+
+Idemque plané est de aliis omnibus quæ sentiuntur, etiam de titillatione ac dolore. Quamvis enim hæc extra nos esse non putentur, non tamen ut in solâ mente sive in perceptione nostrâ solent spectari , sed ut in manu, aut in pede, aut quâvis aliâ parte nostri
+
+a. Pars II, art. xxiv-liy, et surtout art. xliii et xliv.
+
+[p. 33] 37-28.
+
+3î
+
+corporis. Nec fané magis certum est, cùm, exempli causâ, dolorem sentimus tanquam in pede, illum esse quid extra nostram mentem, in pede existens, quàm cùm videmus lumen tanquam in Sole, illud lumen extra nos in Sole existere ; sed utraque ista præjudicia sunt prima? nostræ ætatis, ut infrà clarè apparebit.
+
+Ut autem hîc quod clarum est ab eo quod obscurum distinguamus , diligentissimè est advertendum, dolorem quidem & colorem, & reliqua ejusmodi, clarè ac distinctè percipi, cùm tantummodo ut sensus, sive cogitationes, spe&antur. Cùm autem res quædam esse judicantur, extra mentem nostram existentes, nullo plané modo posse intelligi quænam res sint ; sed idem plané esse, cùm quis dicit se videre in aliquo corpore colorem, velfentire in aliquo membro dolorem, ac si diceret se id ibi videre vel sentire, quod quidnam sit plané ignorât, hoc est, se nescire quid videat aut sen- tiat. Etsi enim, minus attendendo, sibi facile persuadeat se nonnullam ejus habere notitiam, ex eo quod sup- ponat esse quid simile fenfui illi coloris aut doloris, quem apud se experitur : si tamen examinet quidnam sit, | quod iste sensus coloris vel doloris, tanquam in corpore colorato vel in parte dolente existens, repræ- fentet, omnino advertet se id ignorare.
+
+Præsertim si considéret, se longé alio modo cognoscere, quidnam sit in viso corpore magnitudo, vel si- gura, vel motus (saltem localis : Philosophi enim, alios quosdam motus à locali diversos effingendo, naturam ejus sibi minus intelligibilem reddiderunt), vel situs, vel duratio, vel numerus, & similia, qua? in corporibus
+
+LXVIII. Quomodo in istis id, quod clarè cognoscimus, ab eo in quo falli possumus,/it di- Jiinguendum.
+
+LXIX.
+
+Longé aliter cognosci magnitudinem figurant, Se., quàm colores, dolores, Se.
+
+[p. 34] M
+
+Principiorum Philosophie
+
+a8-îg.
+
+LXX. Nos posse duobus modis de sensibilibus judicium ferre, quorum uno errorem prceca- vemus, alto in errorem incidimus.
+
+clarè percipi jam di&um esl a : quàm quid in eodem corpore sit color, vel dolor, vel odor, vel sapor, vel quid aliud ex iis, quæ ad sensus dixi esse referenda. Quamvis enim videntes aliquod corpus, non magis certi simus illud existere, quatenus apparet figuratum , quàm quatenus apparet coloratum : longé tamen evidentiùs agnoscimus, quid sit in eo esse figuratum, quàm quid sit esse coloratum.
+
+Patet itaque in re idem esse, cùm dicimus nos percipere colores in objectis, ac si diceremus nos percipere aliquid in obje&is, quod quidem quid sit ignoramus, sed à quo efficitur in nobis ipsis sensus quidam valde manifestus & perspicuus, qui vocatur sensus colorum. In modo autem judicandi permagna est diver- fitas : nam quamdiu tantùm judicamus aliquid esse in objectis (hoc est, in rébus, qualescunque demum illæ sint, à quibus sensus nobis advenit), quod quidnam sit ignoramus, tantùm abest ut fallamur, quin potiùs in eo errorem prsecavemus, quod advertentes nos aliquid ignorare, minus proclives simus ad temerè de ipso judicandum. Cùm verò putamus nos percipere colores in objectis, etsi rêvera nesciamus quidnam sit, quod tune nomine coloris appellamus, nec ullam fimi- lijtudinem intelligere possimus, inter colorem quem supponimus esse in objectis, & illum quem experimur esse in sensu : quia tamen hoc ipsum non advertimus, & multa alia sunt, ut magnitudo, figura, numerus, &c, quæ clarè percipimus non aliter à nobis sentiri vel intelligi, quàm ut sunt aut saltem esse possunt in objectis : facile in eum errorem delabimur, ut judicemus
+
+a. Art. xlviii, p. 22-a3 ci-avant
+
+[p. 35] 2 9- î0 - Pars Prima. 35
+
+id, quod in objectis vocamus colorem, esse quid omnino simile colori quem sentimus, atque ita ut id, quod nullo modo percipimus, à nobis clarè percipi arbitremur. Hîcque primam & præcipuam errorum omnium LXXL
+
+j- ,. r XT . Prceeipuam errorum caulam licet agnoscere. Nempe in prima ætate, mens caufamàpnejudkiis nostra tam arftè corpori erat alligata, ut non aliis «/««•«?«>«*«. cogitationibus vacaret, quàm iis solis, per quas ea sentiebat quæ corpus afficiebant : necdum ipsas ad quidquam extra se positum referebat, sed tantùm ubi quid corpori incommodum occurrebat, sentiebat dolorem; ubi quid commodum, sentiebat voluptatem ; & ubi sine magno commodo vel incommodo corpus afficiebatur, pro diversitate partium in quibus &
+
+1 5 modorum quibus afficiebatur, habebat diversos quosdam sensus, illos scilicet quos vocamus sensus saporum, odorum, sonorum, caloris, frigoris, luminis, colorum, & similium, quaî nihil extra cogitationem positum repræf entant. Simulque etiam percipiebat magnitudines, figuras, motus, & talia; quæ illi non ut sensus, sed ut res quædam, vel rerum modi, extra cogitationem existentes, aut saltem existendi capaces, exhibebantur, etsi hanc inter ista differentiam nondum notaret. Ac deinde, cùm corporis machinamenj5 tum, quod sie à naturâ fabricatum est ut propriâ suâ vi variis modis moveri pofîit, hinc inde temerè se| con- torquens, casu commodum quid aiTequebatur aut fugiebat incommodum, mens illi adhærens incipiebat advertere id, quod ita aiTequebatur aut fugiebat,
+
+3o extra se efife ; nec tantùm illi tribuebat magnitudines, figuras, motus, & talia, quæ ut res aut rerum modos
+
+[p. 36] 3o-3i.
+
+LXXII. Alteram errorum cau- Jam esse, quàd præ- judiciorum oblivisci nequeamus.
+
+j6 Principiorum Philosophle percipiebat, sed etiam saporés, odores, & reliqua, quorum in se sensum ab ipso effici advertebat. Atque omnia tantùm referens ad utilitatem corporis, cui erat immersa, eô plus aut minus rei esse putabat in unoquoque obje&o à quo afficiebatur, prout plus aut minus ab ipso afficiebatur. Unde factum est, ut multò plus substantiæ, seu corporeitatis, esse putaret in saxis aut metallis, quàm in aquâ vel aëre, quia plus duritiei & ponderofitatis in iis sentiebat. Quin & aèrem, quandiu nullum in eo ventum aut frigus aut calorem experiebatur, pro nihilo prorsus ducebat. Et quia non plus luminis à stellis quàm ab exiguis flammis lucernarum ipsi affulgebat, idcirco nullas stellas flammis istis majores sibi reprsefentabat. Et quia nec terram in gyrum verti, nec ejus superficiem in globum curvatam esse notabat, ideò proclivior erat ad putandum, & eam immobilem, & ejus superficiem planam esse. Milleque aliis ejusmodi præjudiciis, à prima in- fantiâ, mens nostra imbuta est ; quse deinde in pueritiâ non recordabatur fuisse à se sine sufficienti examine recepta, sed tanquam ienfu cognita, vel à naturâ sibi indita, pro veriffimis evidentiffimifque admifit.
+
+Et quamvis jam maturis annis, cùm mens non ampliùs tota corpori servit, nec omnia ad illud refert, sed etiam de rerum, in se ipsis spectatarum, veritate inquirit, permulta ex iis, quæ sie antea judicavit, falsa esse deprehendat : non | tamen ideò facile ipsa ex ræ- moriâ suâ expungit, & quamdiu in eâ hærent, vario- rum errorum causæ esse possunt. Ita, exempli causà, quoniam a prima ætate stellas imaginati sumus perexi- 2 effici (errata, i" édit.)] causari (texte).
+
+[p. 37] 3i-32.
+
+)7
+
+guas, etsi jam rationes Astronomicæ perfpicuè nobis oïtendant ipsas esse quàm maximas, tantùm tamen prsejudicata opinio adhuc valet, ut nobis perdifficile sit, ipsas aliter quàm priùs imaginari.
+
+5 Præterea mens nostra non sine aliquâ difficultate ac defatigatione potest ad ullas res attendere ; omnium- que difficillimè ad illa attendit, quæ nec sensibus, nec quidem imaginationi præsentia sunt : sive quia talem, ex eo quòd corpori conjunfta sit, habet naturam ; sive io quia in primis annis, cùm tantùm circa sensus & imaginationes occuparetur, majorem de ipsis quàm de cæteris rébus cogitandi usum & facilitatem acquifivit. Hinc autem fit, ut jam multi nullam substantiam intelligant, nisi imaginabilem, & corpoream, & etiam seni5 fibilem. Neque enim nôrunt ea sola esse imaginabilia, quæ in extensione, motu & figura consistunt, etsi alia multa intelligibilia sint ; nec putant quidquam posse subsistere, quod non sit corpus ; nec denique ullum corpus non sensibile. Et quia rêvera nullam rem, qualis ipsa est, sensu solo percipimus, ut infrà clarè ostendetur, hinc accidit, ut plerique in totâ vitâ nihil nisi confufè percipiant.
+
+Et denique, propter loquelae usum, conceptus omnes nostros verbis, quibus eos exprimimus, alligamus,
+
+2 5 nec eos nisi simul cum istis verbis memoriæ manda- Cùmque faciliùs postea verborum quàm rerum
+
+mus.
+
+recordemur, vix unquam ullius rei conceptum habemus tam diftinétum, ut illum ab omni verborum conceptu feparemus, cogita|tionefque hominum ferè omnium circa verba magis quàm circa res versantur : adeò ut persæpe vocibus non intelledis præbeant
+
+LXXIII. Tertiam cau/am esse, quod defatigemur, ad ea, qucefenjibus præ- Sentia nonjunt, attendendo ; S ideò affue- tijîmus de Mis, non ex præsenti percep- tion, sed expræcon- ceptâ opinione judicare.
+
+LXX1V. Quartam cau/am esse, qudd conceptus no- ftros verbis, quæ rébus accuratè non respondent, alligemus.
+
+[p. 38] Principiorum Philosophie
+
+3î-33.
+
+LXXV.
+
+Summa eorum quæ observanda sunt, ad re- 5è philosophandum.
+
+?8
+
+assensum, quia putant se illas olim intellexisse, vel ab aliis qui eas rectè intelligebant accepisse. Quse omnia, quamvis accuratè hîc tradi non poSsint, quia natura humani corporis nondum fuit exposita, necdum pro- batum est ullum corpus existere, videntur tamen satis posse intelligi, ut juvent ad claros & distinctos conceptus ab obscuris & confusis dignofcendos.
+
+Itaque ad seriò philosophandum, veritatemque omnium rerum cognoscibilium indagandam : primo, omnia pnejudicia sunt deponenda, sive accuratè est cavendum, ne ullis ex opinionibus olim à nobis receptis fidem habeamus, nisi priùs, iis ad novum examen re- vocatis, veras esse comperiamus. Deinde, ordine est attendendum ad notiones, quas ipsimet in nobis habemus, eæque omnes & fosse, quas sie attendendo clarè ac distinctè cognofeemus, judicandæ sunt verse. Quod agentes, inprimis advertemus nos existere, quatenus sumus naturæ cogitantis ; & simul etiam, & esse Deum, & nos ab illo pendere, & ex ejus attributorum conû- deratione cæterarum rerum veritatem poste indagari, quoniam ille est ipsarum causa; & denique, præter notiones Dei & mentis nostræ, esse etiam in nobis notitiam multarum propositionum æternæ veritatis, ut quod ex nihilo nihil fiât, &c; itemque, naturæ cujusdam corporeæ, sive extensæ, divisibilis, mobilis, &c; itemque, sensuum quorundam qui nos afficiunt, ut doloris, colorum, saporum, &c, quamvis nondum sciamus quæ sit causa, cur ita nos afficiant. Et hæc conferentes cum iis quæ confufiùs antea cogitabamus, usum claros & distinctos | omnium rerum cognoscibilium 3o conceptus formandi acquiremus. Atque in his paucis
+
+[p. 39] 33.
+
+)9
+
+præcipuacognitionis humanæ principiacontineri mihi videntur.
+
+Præter cætera autem, memoriæ nostræ pro summâ régula est infigendum, ea quæ nobis à Deo revelata sunt, ut omnium certissima esse credenda. Et quamvis forte lumen rationis, quàm maxime clarum & evidens, aliud quid nobis fuggerere videretur, soli tamen au- thoritati divinæ potiùs quàm proprio nostro judicio fidem esse adhibendam. Sed in iis, de quibus fides divina nihil nos docet, minime decere hominem phi- lofophum aliquid pro vero assumere, quod verum esse nunquam perspexit; & magis fidere sensibus, hoc est, inconfideratis infantiæ fuse judiciis, quàm maturæ rationi.
+
+LXXVI. Autoritatem divinam perceptioni nostræ esse prcefereniam : Sed eâjeclufâ non decere philosophum aliis quàm perceptis assentiri.
+
+[p. 40] PRINCIPIORUM
+
+PHILOSOPHIE
+
+De Principîis rerum materialium.
+
+i.
+
+Quitus rationibus rerum materialium existentia certà cogno/catur.
+
+Etsi nemo non sibi satis persuadeat res materiales existere, quia tamen hoc à nobis paulò antè in dubium revocatum est a , & inter primæ nostræ ætatis præjudicia numeratum, nunc opus est ut rationes investigemus, per quas id certò cognoscatur. Nempe quicquid sentimus, procul dubio nobis advenit à re aliquâ, quæ à mente nostrâ diversa est. Neque enim est in nostrâ po- testate efficere, ut unum potiùs quam aliud sentiamus; sed hoc a re illâ quæ sensus nostros afficit, plané | pendet. Quæri quidem potest an res illa sit Deus, an quid à Deo diversum. Sed quia sentimus, sive potiùs à sensu impulfi clarè ac distinctè percipimus, materiam quandam extensam in longum, latum & profundum, cujus variæ partes variis figuris præditæ sunt, ac variis motibus cientur, ac etiam efficiunt ut varios sensus habeamus colorum, odorum, doloris, &c: si Deus immédiate per se ipsum istius materiæ extensæ ideam menti nostræ exhiberet, vel tantùm û efficeret ut exhiberetur
+
+a. Pars I, art. iv, p. 5-6.
+
+ao
+
+[p. 41] 34-35.
+
+4i
+
+iS
+
+à re aliquâ, in quâ nihil effet extensionis, nec si- gurée, nec motûs : nulla ratio potest excogitari, cur non deceptor effet putandus. Ipsam enim clarè intelligimus tanquam rem à Deo & à nobis, sive à mente nostrâ, plané diversam ; ac etiam clarè videre nobis videmur 3 , ejus ideam à rébus extra nos positis, quibus omnino similis est, advenire; Dei autem naturæ plané repugnare ut sit deceptor, jam antè est animadversum b . Atque ideô hîc omnino concludendum est, rem quandam extensam in longum, latum & profundum, omnesque illas proprietates quas rei extensæ convenire clarè percipimus habentem, existere. Estque hæc res extensa, quam corpus sive materiam appellamus.
+
+Eâdem ratione, menti nostræ corpus quoddam raa- gis arctè, quàm reliqua alia corpora, conjun&um esse, concludi potest, ex eo quòd perfpicuè advertamus dolores aliosque sensus nobis ex improviso advenire; quos mens est conscia non à se solâ proficisci, nec ad se posse pertinere ex eo solo quòd sit res cogitans, sed tantùm ex eo quod alteri cuidam rei extensæ ac mobili adjunéta sit, quæ res humanum corpus appellatur. Sed accuratior ejus rei explicatio non est hujus loci c .
+
+| Satis erit, si advertamus sensuum perceptiones non referri, nisi ad istam corporis humani cum mente con- jumfHonem, & nobis quidem ordinariè exhibere, quid ad illam externa corpora prodeffe pofîint aut nocere; non autem, nisi interdum & ex accidenti, nos docere,
+
+11.
+
+Quibus etiam cognoscatur corpus humanum menti esse arâè conjunâum.
+
+III.
+
+Sensuum perceptiones, non quid rêvera sit in rébus, sed quid humano composito pro- sit vel obsit, docere.
+
+a. Voir t. V, p. 167.
+
+b. Pars I, art. xxix et xxxvi, p. 16 et 18.
+
+c. Voir t. IX de cette édition, p. 64, note c, de la traduction française.
+
+[p. 42] 4 2
+
+Principiorum Philosophie
+
+IV. Naturam corporis non in pondère, duritie, colore, aut Similibus ; sed in solâ extensione confijïere.
+
+V. Prtejudicia de rarefaâione & de vacuo, hanc corporis naturam obscuriorem sa- cere.
+
+qualia in seipsis existant. Ita enim sensuum præjudicia facile deponemus, & solo intellectu, ad ideas sibi à naturâ inditas diligenter attendente, hîc utemur.
+
+Quod agentes, percipiemus naturam materiæ, sive corporis in universum spectati, non consistere in eo quòd sit res dura, vel ponderosa, vel colorata, vel alio aliquo modo sensus afficiens : sed tantùm in eo quòd sit res extensa in longum, latum & profundum 3 . Nam, quantum ad duritiem, nihil aliud de illâ sensus nobis indicat, quàm partes durorum corporum resistere motui manuum nostrarum, cùm in illas incurrunt. Si enim, quotiescunque manus nostræ versus aliquampar- tem moventur, corpora omnia ibi existentia recédèrent eâdem celeritate quâ illæ accedunt, nullam unquam duritiem sentiremus. Nec ullo modo potest intelligi, corpora quæ sie recédèrent, idcirco naturam corporis esse amiflura ; nec proinde ipsa in duritie consistit. Eâdemque ratione ostendi potest, & pondus, & colorem, & alias omnes ejusmodi qualitates, quæ in materiâ corporeâ sentiuntur, ex eâ tolli posse, ipsâ intégra rémanente : unde sequitur, à nullâ ex illis ejus naturam dependere.
+
+Duæ verô adhuc causæ supersunt, ob quas potest dubitari, an vera natura corporis in solâ extensione consistat. Una est, quòd multi existiment, pleraque corpora sie posse rarefieri ac condenfari, ut rarefada plus habeant exten|sionis quàm condenfata; sintque etiam nonnulli adeô subtiles, ut substantiam corporis ab ejusdem quantitate, atque ipsam quantitatem ab ex- tenfione distinguant. Altéra est, quôd ubi nihil aliud
+
+a. Voir t. V, p. 69.
+
+iS
+
+[p. 43] 36-3 7 .
+
+4}
+
+IO
+
+esse intelligimus, quàm extensionem in longum, latum & profundum, non soleamus dicereibi esse corpus, sed tantummodo spatium, &quidem spatium inane, quod ferè omnes sibi persuadent esse purum nihil.
+
+Sed quantum ad rarefactionem & condenfationem, quicunque ad cogitationes suas attendet, ac nihil volet admittere nisi quod clarè percipiat, non putabit in ipsis aliud quidquam contingere, quàm figuræ mutationem : ita scilicet, ut rara corpora illa sint, inter quorum partes multa intervalla existunt, corporibus aliis repleta; & per hoc tantùm densiora reddantur, quod ipsorum partes, ad invicem accedentes, intervalla ista immi- nuant vel plané tollant : quod ultimum si aliquando contingat, tune corpus tam densum evadit, ut repugnet ipsum denfius reddi posse. Atqui non ideô minus tune extensum est, quàm cùm partes habens à se mutuò diffitas, majus spatium amplectitur : quia quicquid extensionis in poris sive intervallis à partibus ejus relictis continetur, nullo modo ipsi tribui débet, sed aliis quibusvis corporibus, a quibus intervalla ista replentur. Ut cùm videmus fpongiam, aquâ vel alio liquore turgentem,non putamus ipsam secundùm fin- gulas suas partes magis extensam, quàm cùm com- pressa est & sicca ; sed tantummodo poros habere magis patentes, ac ideô per majus spatium esse dis- fufam.
+
+Et sanc non video, quid moverit nonnullos, ut mal- lent dicere rarefa&ionem fieri per augmentationem quantitatis, quàm ipsam hoc fpongiæ exemplo explicare. Nam etû, | cùm aër aut aqua rarefiunt, non videamus ullos ipsorum poros qui ampliores reddantur,
+
+VI.
+
+Quomodo Stat rare- faâio.
+
+VII. Eam non posse ullo alio modo intelligibili explicari.
+
+[p. 44]
+
+Principiorum Philosophas
+
+Viis. Quantitalcni £■ numerum differre tantùm ratione à rc quanta 8 numeratâ.
+
+nec ullum novum corpus, quod ad illos replendos accédât : non esl tamen rationi tam consentaneum, aliquid non intelligibile effingere, ad eorum rarefactionem verbotenus explicandam, quàm ex hoc quòd raréfiant, concludere in ipsis esse poros, sive intervalla quæ ampliora redduntur, & novum aliquod corpus accedere quod ipsa implet, etsi hoc novum corpus nullo sensu percipiamus. Nullænim ratio nos cogit ad credendum, corpora omnia quæ existunt debere sensus nostros afhxere. Ac rarefactionem perfacilè hoc modo, non autem ullo alio, fieri posse percipimus. Ac denique plané répugnât aliquid nova quantitate vel nova extensione augeri, quin simul etiam nova substantia extensa, hoc esl, novum corpus ei accédât. Neque enim ullum additamentum extensionis vel quantitatis, sine additamento substantiæ quæ sit quanta & extensa, potest intelligi, ut ex sequentibus clariùs patebit.
+
+Quippe quantitas à substantia extensa in re non differt, sed tantùm ex parte nostri conceptûs, ut & numerus à re numeratâ. Ita scilicet ut totam naturam substantiæ corporeæ, quæ est in spatio decem pedum, possimus considerare, quamvis ad istam mensuram decem pedum non attendamus : quia plané eadem intelligitur in quâlibet istius spatii parte ac in toto. Et vice versâ, potest intelligi numerus denarius, ut etiam quantitas continua decem pedum, etsi ad istam determinatam substantiam non attendamus : quia plané idem est conceptûs numeri denarii, sive ad hanc mensuram decem pedum, sive ad quidlibet aliud referatur; & quantitas continua decem pedum, etsi | non possit
+
+iS
+
+[p. 45] 38.
+
+intelligi sine aliquâ substantiâ extenfâ, cujus sit quantitas, potest tamen sine hac determinatâ. In re autem fieri non potest, ut vel minimum quid ex iftâ quantitate aut extensione tollatur, quin tantundem etiam de sub- ftantiâ detrahatur; nec vice versâ, ut tantillum de sub- ftantiâ detrahatur, quin tantundem de quantitate ac extensione tollatur.
+
+Et quamvis forte nonnulli aliud dicant, non puto tamen ipsos aliud eâ de re percipere; sed cùm substantiam ab extensione aut quantitate distinguunt, vel nihil per nomen substantiæ intelligunt, vel confusam tantùm substantiæ incorporer ideam habent, quam falsò tribuunt corporeæ, hujusque substantiæ corporeæ veram ideam extensioni relinquunt, quam tamen accidens vocant, atque ita plané aliud efferunt verbis, quàm mente comprehendunt.
+
+Non etiam in re differunt spatium, sive locus internus, & fubftantiâ corporea in eo contenta, sed tantùm in modo, quo à nobis concipi solent. Rêvera enim ex- tenfio in longum, latum & profundum, quas spatium constituit, eadem plané est cum illâ quæ constituit corpus. Sed in hoc differentia est, quòd ipsam in corpore ut singularem consideremus, & putemus semper mutari quoties mutatur corpus : in spatio verò unita- tem tantùm genericam ipsi tribuamus, adeò ut, mutato corpore quod spatium implet, non tamen extensio spatii mutari censeatur, sed remanere una & eadem, quamdiu manet ejusdem magnitudinis ac figuræ, fer- vatque eundem situm inter externa quædam corpora, per quæ illud spatium determinamus. 16 comprehendunt] comprehendant (texte, j" édit.).
+
+IX.
+
+Substantiam corpoream, cùm à quantitate suâ distinguitur, con/ufè concipi tanquam incorpoream.
+
+Quid sit fpatiu m, sive locus internus.
+
+[p. 46]
+
+Principiorum Philosophle
+
+XI.
+
+Quomodo in re non différât à substantiâ corporeâ.
+
+XII. Quomodo ab eidem différât in modo, quo concipitur.
+
+Et quidem facile agnoscemus, eandem esse extensionem, | quæ naturam corporis & naturam spatii constituit, nec magis hæc duo à se mutuò differre, quàm natura generis aut speciei differt à naturâ individui : si attendentes ad ideam quamhabemus alicujus corporis, exempli causâ, lapidis, rejiciamus ab illâ id omne quod ad corporis naturam non requiri cognoscimus : nempe rejiciamus primo duritiem, quia si lapis liqué- fiât aut in pulvifculos quàm minutiflimos dividatur, illam amittet, neque tamen ideò desinet esse corpus; rejiciamus etiam colorem, quia vidimus sæpe lapides adeò pellucidos, ut nullus in iis effet color; rejiciamus gravitatem, quia quamvis ignis sit leviflimus, non ideò minus putatur esse corpus; ac denique rejiciamus frigus & calorem, aliasque omnes qualitates, quia vel non considerantur in lapide, vel iis mutatis, non ideò lapis corporis naturam amififle existimatur. Ita enim advertemus, nihil plané in ejus ideâ remanere, præ- terquàm quòd sit quid extensum in longum, latum & profundum : quod idem continetur in ideâ spatii, non modo corporibus pleni, sed ejus etiam quod vacuum appellatur.
+
+Est autem differentia in modo concipiendi; nam, sublato lapide ex spatio vel loco in quo est, putamus etiam ejus extensionem esse sublatam, utpote quam ut singularem & ab ipso inseparabilem spectamus. Sed intérim extensionem loci, in quo erat lapis, remanere arbitramur, eandemque esse, quamvis jam ille locus lapidis à ligno, vel aquâ, vel aëre, vel alio quovis corpore occupetur, vel etiam vacuus esse credatur : quia ibi consideratur extensio in génère, cenfeturque eadem
+
+[p. 47] 3g-4o.
+
+esse lapidis, ligni, aquæ, aëris, aliorumque corporum, vel etiam ipsius vacui, si quod detur, modo tantùm sit ejusdem magnitudinis ac | figuræ, servetque eundem situm inter corpora externa, quæ spatium illud determinant.
+
+Quippe nomina loci aut spatii non significant quicquam diversum à corpore quod dicitur esse in loco , sed tantùm ejus magnitudinem, figuram, & situm inter alia corpora designant. Et quidem, ut ille situs determinetur, respicere debemus ad alia aliqua corpora, quæ ut immobilia spectemus ; ac prout ad diversa respicimus, dicere possumus eandem rem, eodem tempore, locum mutare ac non mutare. Ut, cùm navis in mari provehitur, qui sedet in puppi manet semper uno in i5 loco, si ratio habeatur partium navis inter quas eundem situm servat ; & ille idem affiduè locum mutât, si ratio littorum habeatur, quoniam afiiduè ab unis recedit & ad alia accedit. Ac præterea, si putemus terrain moveri, tantumque præcisè procedere ab Occiao dente versus Orientem, quantum navis intérim ex Oriente in Occidentem promovetur, dicemus rursus illum qui sedet in puppi, locum suum non mutare : quia nempe loci determinationem ab immotis quibusdam cœli pun&is defumemus. Sed si tandem coi5 gitemus, nulla ejusmodi pun&a verè immota in universo reperiri,ut probabile esse infrà ostendetur 3 , inde concludemus nullum esse permanentem ullius rei locum, nisi quatenus à cogitatione nostrâ determinatur. Differunt autem nomina loci & spatii, quia locus
+
+3o magis expressè designat situm quàm magnitudinem
+
+a. Voir t. IX de cette édition, p. 70, note a, de la traduction française.
+
+XIII.
+
+Quidfit locus
+
+externus.
+
+XIV.
+
+In quo différant locus
+
+& spatium.
+
+[p. 48]
+
+Principiorum Philosophle
+
+XV. Quomodo locus externus pro superficie corporis ambientis reâè sumatur.
+
+aut figuram, & è contra magis ad has attendimus, cùm loquimur de spatio. Dicimus enim fréquenter unam rem in locum alterius succedere, quamvis non sit accuratè ejusdem magnitudinis, nec figurai; sed tune negamus illam idem | spatium occupare ; ac fem- per, cùm ille situs mutatur, dicimus locum mutari, quamvis eadem magnitudo ac figura permaneat. Cùmque dicimus rem esse in hoc loco, nihil aliud intelligimus, quàm illam obtinere hune situm inter alias res; & cùm addimus ipsam implere hoc spatium vel hune locum, intelligimus præterea ipsam esse hujus determinatæ magnitudinis ac figuræ.
+
+Atque ita spatium quidem semper sumimus pro ex- tenfione in longum, latum &profundum. Locum autem aliquando consideramus ut rei, quæ in loco est, internum, & aliquando ut ipsi externum. Et quidem internus idem plané est quod spatium ; externus autem sumi potest pro superficie quæ proximè ambit locatum. Notandumque est, per superficiem non hîc intelligi ullam corporis ambientis partem, sed solum terminum, qui médius est inter ipsum corpus ambiens & id quod ambitur, quique nihil aliud est quàm modus : vel certè intelligi superficiem in communi, quæ non sit pars unius corporis magis quàm alterius, sed eadem semper esse censeatur, cùm retinet eandem magnitudinem & figuram. Etsi enim omne corpus ambiens cum suâ superficie mutetur, non ideò res quam ambit locum mutare existimatur, si eundem intérim situm servet inter illa externa, quæ tanquam immobilia fpedan- tur. Ut si navim in unam partem à fluminis lapsu, & in contrariam à vento tam aequaliter impelli fupponamus,
+
+[p. 49] 41-4*-
+
+ut situm suum inter ripas non mutet, facile aliquis credet ipsam manere in eodem loco, quamvis omnis superficies ambiens mutetur.
+
+Vacuum autem philosophico more sumptum, hoc est, in quo nulla plané sit substantia, dari non posse manifejftum est, ex eo quòd extensio spatii, vel loci interni, non différât ab extensione corporis. Nam cùm ex hoc solo quòd corpus sit extensum in longum , latum & profundum , rectè concludamus illud esse substantiam, quia omnino répugnât ut nihili sit aliqua extensio , idem etiam de spatio , quod vacuum supponitur, est concludendum : quòd nempe, cùm in eo sit extensio, necessariò etiam in ipso sit substantia.
+
+Et quidem exvulgi usu, per nomen vacui non solemus significare locum vel spatium in quo nulla plané sit res, sed tantummodo locum in quo nulla sit ex iis rébus, quas in eo esse debere cogitamus. Sic, quia urna facta est ad aquas continendas, vacua dicitur, cùm aëre tantùm est plena. Sic nihil est in pifcinâ, licèt aquis abundet, si in eâ desint pisces. Sic inane est navigium, quod comparatum erat ad vehendas merces, si solis arenis, quibus frangat impetus vend, fit onuftum. Sic denique inane est spatium, in quo nihil est sensibile, quamvis materiâ creatâ & per se subsistente plénum sit : quia non solemus considerare, nisi eas res quæ à sensibus attinguntur. Atqui si postea, non attendentes quid per nomina vacui & nihili sit intelligendum, in spatio quod vacuum esse diximus, non modo nihil sensibile, sed omnino nullam rem contineri exiftime- mus : in eundem errorem incid^mus, ac si ex eo quòd
+
+XVI. Repugnare ut detur vacuum, sive in quo nulla plané sit res.
+
+XVII.
+
+Vacuum e v vulgi usu non excludere omne corpus.
+
+[p. 50] $0
+
+Principiorum Philosophie
+
+XVIII. Quomodo emendandum fit prcejudicium de vacuo absolutè fump- to.
+
+XIX. Ex his ea confirmari,
+
+usitatum fit dicere urnam, in quâ nihil est nisi aër, vacuam esse, ideò judicaremus aërem in eâ contentum non esse rem subsistentem.
+
+Lapfique sumus ferè omnes à prima ætate in hune errorem, propterea quod, non advertentes ullam esse inter vas & corpus in eo contentum necessariam con- junétionem, non putavimus quicquam obstare, quominus saltem | Deus efficiat, ut corpus, quod vas aliquod replet, inde auferatur, & nullum aliud in ejus locum succedat. Jam autem, ut errorem illum emen- demus, considerare oportet nullam quidem esse con- nexionem inter vas & hoc vel illud corpus particulare quod in eo continetur, sed esse maximam, ac omnino necessariam, inter vasis figuram concavam & extensionem in génère sumptam, quæ in eâ cavitate débet contineri. Adeò ut non magis repugnet nos concipere montem sine valle, quàm intelligere istam cavitatem absque extensione in eâ contenta, vel hanc extensionem absque substantiâ quæ sit extensa : quia, ut sæpe dictum est, nihili nulla potest esse extensio. Ac proinde, si quæratur quid fiet, si Deus auferat omne corpus quod in aliquo vase continetur, & nullum aliud in ablati locum venire permittat : respondendum est, vasis latera sibi invicem hoc ipso fore contigua. Cùm enim inter duo corpora nihil interjacet, necesse est ut se mutuò tangant ; ac manifestè répugnât ut distent, sive ut inter ipsa sit distantia, & tamen ut ista distantia sit nihil : quia omnis distantia est modus extensionis, & ideò sine substantiâ extenfâ esse non potest 3 .
+
+Postquam sie advertimus substantiæ corporeæ naturam
+
+a. Voir t. IV, p. 329, 1. 6.
+
+[p. 51] 43-44-
+
+5 1
+
+IO
+
+in eo tantùm consistere, quod sit res extensa; ejusque extensionem non esse diversam ab eâ, quæ spatio quantumvis inani tribui solet : facile cognoscimus fieri non posse, ut aliqua ejus pars plus spatii occupet unâ vice quàm aliâ, sicque aliter raréfiât, quàm modo paullô antè explicato 3 ; vel ut plus sit materiæ, sive substantiæ corporeæ, in vase, cùm plumbo, vel auro, vel alio quantumvis gravi ac duro corpore plénum est, quàm cùm aërem tantùm continet, vacuumque existimatur : quia partium materiæ | quantitas non pendet ab earum gravitate aut duritie, sed à solâ extensione, quæ semper in eodem vase est æqualis.
+
+Cognoscimus etiam fieri non poste ut aliquæ atomi, sive materiæ partes ex naturâ suâ indivisibiles, existant. Cùm enim, si quæ sint, necessariò debeant esse extensæ, quantumvis parvse fingantur, possumus adhuc unamquamque ex ipsis in duas aut plures minores cogitatione dividere, ac proinde agnoscere esse divisibiles. Nihil enim possumus cogitatione dividere, quin hoc ipso cognoscamus esse divisibile ; atque ideò, si judicaremus id ipsum esse indivisibile, judicium nostrum à cognitione dissentiret. Quin etiam si fingamus, Deum efficere voluisse, ut aliqua materiæ particula in alias minores dividi non possit, non tamen illa propriè indi- visibilis erit dicenda. Ut etenim effecerit eam à nullis creaturis dividi posse, non certè sibi ipsi ejusdem divi- dende facultatem potuit adimere : quia fieri plané non potest, ut propriam suam potentiam imminuat, quemadmodum suprà notatum est b . Atque ideò, abso-
+
+a. Art. vi ci-avant, p. 4?.
+
+b. Pars I, art. lx, p. 29, 1. 1 i-t3.
+
+quæ de rarefaâione diâafunt.
+
+XX.
+
+Ex his etiam démon Jlrari, nullas atomoi . dari posse.
+
+[p. 52] 5 2
+
+PrINCIPIORUM PhILOSOPHLE
+
+XXI. Item mundum esse in- definité extensum.
+
+XXII.
+
+Item unam & eandem
+
+esse materiam cœli S-
+
+terrœ ;} ac plures
+
+mundos esse non posse.
+
+XXIII. Omnem materiæ va- riationem, sive omnem ejus formarum diversitatem pendere à motu.
+
+lutè loquendo, illa divisibilis remanebit, quoniam ex naturâ suâ est talis.
+
+Cognoscimus præterea hune mundum, sive substantiæ corporese universitatem, nullos extensionis suæ si- nes habere a . Ubicunque enim fines illos esse fingamus, semper ultra ipsos aliqua spatia indefinitè extensa non modo imaginamur, sed etiam verè imaginabilia, hoc est, realia esse percipimus ; ac proinde, etiam substantiam corpoream indefinitè extensam in iis contineri. Quia, ut jam fusè ostensum est, idea ejus extensionis, quam in spatio qualicunque concipimus, eadem plane est cum ideâ substantiæ corporese.
+
+|Hincque etiam colligi facile potest, non aliam esse materiam cœli quàm terras ; atque omnino, si mundi essent infiniti, non posse non illos omnes ex unâ & eâdem materiâ constare ; nec proinde plures, sed unum tantùm, esse posse b : quia perfpicuè intelligimus illam materiam, cujus natura in eo solo consistit quòd sit substantia extensa, omnia omnino spatia imaginabilia, in quibus alii isti mundi esse deberent, jam occupare : nec ullius alterius materiæ ideam in nobis reperimus.
+
+Materia itaque in toto universo una & eadem existit, utpote quas omnis per hoc unum tantùm agnoscitur, quòd sit extensa. Omnefque proprietates, quas in eâ clarè percipimus, ad hoc unum reducuntur, quòd sit partibilis, & mobilis secundùm partes, & proinde capax illarum omnium afleétionum, quas ex ejus partium motu sequi posse percipimus. Partitio enim, quæ fit solâ cogitatione, nihil mutât; sed omnis materiæ
+
+a. Voir t. V, p. 69.
+
+b. Ibidem.
+
+[p. 53] 45-46.
+
+variatio, sive omnium ejus formarum diversitas, pendet à motu. Quod passim etiam à Philosophis videtur fuisse animadverfum, quia dixerunt naturam esse principium motûs & quietis. Tune enim per naturam intellexerunt id, per quod res omnes corporeæ taies evadunt, quales ipsas esse experimur.
+
+Motus autem (fcilicet localis, neque enim ullus alius sub cogitationem meam cadit a ; nec ideò etiam ullum alium in rerum naturâ fingendum puto), motus, inquam, ut vulgô sumitur, nihil aliud est quàm aélio, quâ corpus aliquod ex uno loco in alium migrât. Et idcirco, quemadmodum suprà monuimus b eandem rem eodem tempore dici posse locum mutare & non mutare, ita eadem etiam dici potest moveri & non moveri. Ut qui sedet in navi, dum ea solvit è | portu, putat quidem se moveri, si refpiciat ad littora eaque ut immota consi- deret; non autem, si ad ipfamnavim, intercujus partes eundem semper situm servat. Quin etiam, quatenus vulgô putamus in omni motu eiïe actionem, in quiète verò cessationem actionis, magis propriè tune dicitur quiescere quàm moveri, quia nullam in se actionem sentit.
+
+Sed si non tam ex vulgi usu, quàm ex rei veritate, consideremus quid per motum debeat intelligi, ut aliqua ei determinata natura tribuatur : dicere possumus esse translationem unius partis materiæ, sive unius corporis, ex viciniâ eorum corporum, quæ illud immédiate contingunt & tanquam quiescentia fpeéîantur, in viciniam aliorum. Ubi per unum corpus, sive unam partem ma-
+
+a. Cf. ci-avant, p. 33, 1. 28-3o, et p. 32, 1. 7.
+
+b. Ci-avant, p. 47, 1. 9-10.
+
+XXIV.
+
+Quid sit motus juxta
+
+vulgarem fenjum.
+
+XXV.
+
+Quid sit motus propriè
+
+umptus.
+
+[p. 54]
+
+Principiorum Philosophle
+
+46.-47-
+
+XXVI. Non plus aâionis requiri ad motum quàm ad quietem.
+
+teriæ, intelligo id omne quod fîmul transfertur; etsi rursus hoc ipsum constare possit ex multis partibus, quæ alios in se habeant motus. Et dico esse îranjlatio- nem, non vim vel actionem quæ transfert, ut ostendam illum semper esse in mobili 3 , non in movente, quia hæc duo non satis accuratè solent distingui ; ac esse duntaxat ejus modum, non rem aliquam fubûften- tem, sicut figura est modus rei figuratæ, ac quies rei quiescentis.
+
+Quippe notandum est, magno nos, in hoc, præjudicio laborare, quòd plus actionis ad motum requiri arbitremur, quàm ad quietem. Hocque ideò nobis ab ineunte ætate perfuafimus, quòd corpus nostrum soleat moveri à nostrâ voluntate, cujus intimé conscii sumus, & quiescere ex hoc solo quòd terræ adlr reat per gravitatem, cujus vim non sentimus. Et quidem quia ista gravitas, aliæque plures causæ, à nobis non animad- verfse, motibus quos in | membris nostris ciere volu- mus resistunt, efficiuntque ut fatigemur, putamus majore atlione sive majore vi opus esse ad motum ciendum, quàm ad illum sistendum : sumentes scilicet actionem pro conatu illo, quo utimur ad membra nostra & illorum ope alia corpora permovenda. Quod tamen præjudicium facile exuemus, si consideremus, non modo conatu nobis opus esse ad movenda corpora externa, sed sæpe etiam ad eorum motus fiftendos, cùm à gravitate aliâve causâ non fifhintur. Ut, exempli gratiâ, non majori utimur actione ad navigium in aquâ ftagnante quiescens impellendum, quàm ad idem, cùm movetur, subitò retinendum : vel certè non multò majori ;
+
+a. Voir t. V, p. 384. — Ibid., p. 38o, 1. 36, et p. 403, 1. 25 et 26.
+
+[p. 55] 47-48-
+
+hinc enim demenda esl aquæ ab eo fublevatse gravitas, & ejusdem lentor a , à quibus paulatim sisti posset.
+
+Cùm autem hîc non agatur de illâ a&ione, quæ intelligitur esse in movente, vel in eo qui motum sistit, sed de solâ translatione, ac translationis abfentiâ sive quiète : manifestum est hanc translationem extra corpus motum esse non posse, atque hoc corpus alio modo se habere, cùm transfertur, & alio, cùm non transfer- ts sive cùm quiescit : adeò ut motus & quies nihil aliud in eo sint, quàm duo diversi modi.
+
+Addidi præterea, tranilationem fieri ex viciniâ corporum contiguorum in viciniam aliorum, non autem ex uno loco in alium : quia, ut suprà explicui b , loci i5 acceptio varia est, ac pendet à nostrâ cogitatione : sed cùm per motum intelligimus eam translationem quæ fit ex viciniâ corporum contiguorum, quoniam una tantùm corpora eodem temporis momento ejusdem mobilis contigua'es|se possunt, non possumus isti mobili plures motus eodem tempore tribuere, sed unum tantùm.
+
+Addidi denique, translationem illam fieri ex viciniâ, non quorumlibet corporum contiguorum, sed eorum duntaxat, quæ tanquam quiescentia spectantur.
+
+a5 Ipsa enim translatio est reciproca, nec potest intelligi corpus AB transferri ex viciniâ corporis CD C , quin simul etiam intelligatur corpus CD transferri ex viciniâ corporis AB : ac plané eadem vis & aftio requi-
+
+XXVII. Motum €■ quietem esse tantùm diversos modos corporis moti.
+
+XXVIII. Motum propriè Jum- tum non referri, nisi ad corpora contigua ejus quoi movetur.
+
+XXIX.
+
+Nec re/erri nisi ad ea corpora contigua, qux tanquam quiescentia fpeâantur.
+
+a. Voir t. V, p. i68et384-
+
+b. Art. x à art. xvi ci-avant, p. 45-48.
+
+c. Voir t. V, p. 3 12, 1. i5, et p. 345, I. 22.
+
+[p. 56] XXX.
+
+Cur ex duobus corporibus contiguis quæ separantur ab invicem, unum potiùs quant aliud moveri dicatur.
+
+$6 Principiorum Philosophle 48-49-
+
+ritur ex unâ parte atque ex altéra. Quapropter si omnino propriam, & non ad aliud relatam, naturam motui tribuere vellemus, cùm duo corpora contigua unum in unam, aliud in aliam partem transferuntur, sicque à se mutuò separantur, tantundem motûs in uno quàm in altero esse,diceremus. Sed hoc à communi loquendi usu nimium abhorreret : cùm enim assueti simus stare in terra, eamque ut quiescentem considerare, quamvis aliquas ejus partes, aliis minoribus corporibus contiguas, ab eorum viciniâ transferri videamus, non tamen ipsam ideò moveri putamus.
+
+Hujusque rei præcipua ratio est, quòd motus intelligatur esse totius corporis quod movetur, nec pofîit ita intelligi esse totius terræ, ob translationem quarun- i5 dam ejus partium ex viciniâ minorum corporum quibus contiguæ sunt : quoniam sæpe plures ejusmodi translationes, sibi mutuò contrarias, in ipsâ licet advertere. Ut si corpus E F G H sit terra, & supra ipsam eodem tempore corpus AB transferatur | ab E versus F, ac CD ab H versus G, quamvis hoc ipso partes terræ corpori AB contiguæ à B versus A transferantur, neque minor vel alterius naturæ a&io in iis esse debeat, ad illam translationem, quàm in corpore AB : non ideò intelligimus terram moveri à B versus A, sive ab Occidente versus Orientem , quia pari ratione ob id quòd ejus partes corpori CD contiguæ transferantur à C 3o versus D, intelligendum effet eam etiam in aliam partem
+
+[p. 57] 49-5o.
+
+îo
+
+moveri, nempe ab Oriente in Occidentem ; quæ duo inter se pugnant. Ita ergo, ne nimium à communi usu loquendi recedamus, non hîc dicemus terram moveri, sed sola corpora AB & CD ; atque ita de reliquis. Sed intérim recordabimur, id omne quod reale est ac positivum in corporibus quse moventur, propter quod moveri dicuntur, reperiri etiam in aliis ipsorum contiguis, quæ tamen ut quiescentia tantùm spectantur 3 .
+
+Etsi autem unumquodque corpus habeat tantùm unum motum sibi proprium, quoniam ab unis tantùm corporibus sibi contiguis & quiescentibus recedere intelligitur, participare tamen etiam potest ex aliis innumeris, si nempe sit pars aliorum corporum alios motus habentium. Ut, si quis ambulans in navi horo- logium in perâ geftet, ejus horologii rotulæ unico tantùm motu sibi proprio movebuntur, sed participabunt etiam ex alio, quatenus, adjunctæ homini ambulanti, unam cum illo materiæ partem component, & ex alio quatenus erunt adjunctæ navigio in mari fluduanti, & ex alio quatenus adjunctæ ipsi mari, & denique alio quatenus adjunctæ ipsi terræ, si quidem tota terra moveatur. Omnesque hi motus rêvera erunt in rotulis istis; sed quia non facile tam multi simul intelligi, nec | etiam omnes agnosci pofTunt, sufficiet unicum illum, qui proprius est cujusque corporis, in ipso considerare.
+
+Ac præterea ille unicus cujusque corporis motus, qui ei proprius est, instar plurium potest considerari : ut, cùm in rôtis curruum duos diversos distinguimus, unum scilicet circularem circa ipsarum axem, & alium rectum secundùm longitudinem viæ per quam ferun-
+
+a. Voir t. V, p. 70, p. 385, et p. 403, 1. 25.
+
+XXXI.
+
+Quomodo in eodem corpore innumeri diversi motus esse possint.
+
+XXXII. Quomodo etiam motus proprièfumptus, qui in quoque corpore unicus est, pro pluribus sumi possit.
+
+[p. 58] 5o-51.
+
+XXXIII. Quomodo in omni motu integer circulus cor- porumjimul moveatur.
+
+$8 Principiorum Philosophie tur. Sed quòd ideo taies motus non sint rêvera distin- di, patet ex eo, quòd unumquodque punctum corporis quod movetur, unam tantùm aliquam lineam describat. Nec refert, quòd ista linea sa?pe fit valde contorta a , & ideo à pluribus diversis motibus genita videatur : quia possumus imaginari, eodem modo quamcunque lineam, etiam rectam, quæ omnium fimplioiffima est, ex infinitis diversis motibus ortam esse. Ut si linea AB feratur versus CD, & eodem tempore punctum A feratur versus B, linea recta AD, quam hoc punctum A defcribet, non minus pendebit à duobus motibus rectis, ab A in B & ab AB in CD, quàm linea curva, quæ à quovis rotæ puncto describitur, pendet à motu recto & circulari. Ac proinde, quamvis sæpe utile sit unum motum in plures partes hoc pacto distinguere, ad faciliorem ejus perceptionem, absolutè tamen loquendo, unus tantùm in unoquoque corpore est numerandus.
+
+Ex hoc autem quòd suprà fuerit animadversum b , loca omnia corporibus plena esse, semperque easdem materiæ partes æqualibus locis coæquari, sequitur nullum corpus moveri posse nisi per circulum, ita fci- licet ut aliud aliquod| corpus ex loco quem ingreditur expellat, hocque rursus aliud, & aliud, usque ad ultimum, quod in locum à primo derelidum, eodem temporis momento quo derelictus est, ingrediatur. Hocque facile intelligimus in circulo perfecto, quia videmus nullum vacuum, nullamque rarefactionem aut cona. Voir t. V, p. 168.
+
+b. Art. xviii et xix, p. 5o et 5 1 .
+
+[p. 59] 5i-52.
+
+denfationem requiri, ut pars circuli Amoveaturverfus B, modo eodem tempore pars B moveatur versus C, Cverfus D, ac D versus A. Sed idem intelligi etiam potest in circulo non perfecto, & quantumlibet irregulari, modo ad- vertatur, quo pacto omnes locorum inæqualitates inse- quali motuum celeritate possint compensari. Sic tota materia contenta in spatio EFGH circulariter moveri potest absque ullâ condensatione vel vacuo, & eodem tempore ejus pars quse est ver- fus E, transire versus G, ac za. quse est versus G, transire ver- fus E : modo tantùm, ut <fi> spatium in G supponitur eue quadruplo latius quàm in E, ac duplô quàm in F & H, ita etiam quadruplo celeriùs moveatur in E quàm in G, ac duplo celeriùs quàm in F vel H ; atque ita reli|quis omnibus in locis motûs celeritas angustiam loci compenfet. Hoc enim pacto, in quovis determinato tempore, tantundem materiæ per unam istius circuli partem, quàm per alteram transibit.
+
+Fatendum tamen est in motu isto aliquid reperiri, quod mens quidem nostra percipit esse verum, sed tamen, quo pacto fiât, non comprehendit : nempe divi- sîonem quarundam particularum materiæ in infinitum, fïve indefinitam, atque in tôt partes, ut nullam cogi-
+
+xxxiv.
+
+Hinc sequi divisionem materiæ in particulas rêvera indefinitas, quamvis eœ nobis fini incomprehenjibi' les.
+
+[p. 60] 6o
+
+Principiorum Philosophie
+
+XXXV. Quomodo fiât ista divi- fio, & quod non sit du-
+
+datur.
+
+tatione determinare possimus tam exiguam, quin intelligamus ipsam in alias adhuc minores reipsa esse divifam. Fieri enim non potest, ut materia quæ jam implet spatium G, successivè impleat omnia spatia innumeris gradibus minora, quæ sunt inter G & E, nisi aliqua ejus pars ad innumerabiles illorum spatiorum mensuras figuram suam accommodet : quod ut fiât, necesse est omnes imaginabiles ejus particulas, quæ sunt rêvera innumeræ, à se mutuò aliquantulum re- moveri, & talis quantulacunque remotio vera divi- fio est a .
+
+Notandum autem me hîc non loqui de totâ materiâ, sed tantùm de aliquâ ejus parte. Quamvis enim supbitandum quin fiât, i • rr ' r*
+
+etsi non comprehen- ponamus duas aut très ejus partes elle in G tantæ latitudinis quantæ est spatium E, itemque etiam plures alias minores, quæ maneant indivifæ : nihilominus intelligi potest eas moveri circulariter versus E, modo quædam aliæ ipsis admiftæ sint, quæ se quomo- dolijbet infledant, & figuras suas sie mutent, ut junctæ istis figuras suas non ita mutantibus, sed solam celeritatem motûs ad rationem loci occupandi accommo- dantibus, omnes angulos quos istæ aliæ non occupabunt, accuratè compleant. Et quamvis, quomodo fiât indefinita ista divisio, cogitatione comprehendere nequeamus, non ideò tamen debemus dubitare quin fiât : quia clarè percipimus illam necessariò sequi ex naturâ materiæ nobis evidentissimè cognitâ, percipi- mufque etiam eam esse de génère eorum quæ à mente nostrâ, utpote finitâ, capi non pofTunt b .
+
+a. Voir t. V, p. 70, p. 242, 1. 21, et p. 274, 1. 4.
+
+b. Ibid.> p. 242, 1. 21.
+
+iS
+
+[p. 61] 53-54.
+
+Motûs naturâ sie animadverfâ, considerare oportet ejus causam, eamque duplicem : primo scilicet uni- verfalem & primariam, quæ est causa generalis omnium motuum qui sunt in mundo ; ac deinde parti- cularem, à quâ sit ut singulæ materiæ partes motus, quos priùs non habuerunt, acquirant. Et generalem quod attinet, manifestum mihi videtur illam non aliam esse, quàm Deum ipsum, qui materiam simul cum motu & quiète in principio creavit, jamque, per solum suum concursum ordinarium, tantundem motûs & quietis in eâ totâ quantum tune posuit conservat. Nam quamvis ille motus nihil aliud fit in materiâ motâ quàm ejus modus : certam tamen & determinatam habet quantitatem, quam facile intelligimus eandem semper in totâ rerum universitate esse posse, quamvis in singulis ejus partibus mutetur. Ita scilicet ut putemus, cùm una pars materiæ duplô celeriùs movetur quàm altéra, & hæc altéra duplô major est quàm prior, tantundem motûs esse in minore quàm in majore; ac quantò motus unius partis lentior fit, tantò motum alicujus alterius ipsi æqualis fieri celeriorem. Intelligimus | etiam perfectionem esse in Deo, non folûm quòd in se ipso fit immutabilis, sed etiam quod modo quàm maxime constanti & immutabili operetur : adeò ut, iis mutationibus exceptis, quas evidens experientia vel divina revelatio certas reddit, quasque sine ullâ in creatore mutatione fieri percipimus aut credimus, nullas alias in ejus operibus supponere debeamus, ne qua inde inconstantia in ipso arguatur. Unde sequitur quàm maxime rationi esse consentaneum, ut putemus
+
+29 qua] quæ (i"édit.).
+
+xxxvi.
+
+Deum esse primariam motûs causam : & eandem semper motûs quantitatem in universo conservare.
+
+[p. 62]
+
+Principiorum Philosophie
+
+XXXVII.
+
+Prima lex naturæ : quoi unaquwque res, quantum in Je eji, semper in eodem statu perseveret ; sicque quodfemel movetur, semper moveri per- çât.
+
+ex hoc solo, quod Deus diversimodè moverit partes materiæ, cùm primùm illas creavit, jamque totam islam materiam conservet eodem plané modo eâdemque ratione quà priùs creavit, eum etiam tantundem motus in ipsâ semper conservare a .
+
+Atque ex hac eâdem immutabilitate Dei, regulæ quædam sive leges naturæ cognosci possunt, quse sunt causæ secundariæ ac particulares diversorum motuum, quos in singulis corporibus advertimus. Harum prima est, unamquamque rem, quatenus est simplex & indi- visa, manere, quantum in se est, in eodem semper statu, nec unquam mutari niû à causis externis. Ita, li pars aliqua materiæ sit quadrata, facile nobis perfuademus illam perpétuô mansuram esse quadratam, nisi quid aliunde adveniat quod ejus figuram mutet. Si quiescat, non credimus illam unquam incepturam moveri, nisi ab aliquâ causà ad id impellatur. Nec ulla major ratio est, û moveatur, cur putemus ipsam unquam suâ sponte, & à nullo alio impeditam, motum illum. suum este intermiffuram. Atque ideò concludendum est, id quod movetur, quantum in se est, semper moveri. Sed quia hîc versamur circa terram, cujus constitutio talis est, ut motus omnes qui propè illam fiunt, |brevi fiftan- tur, & sæpe ob causas quæ sensus nostros latent : ideò ab ineunte ætate sæpe judicavimus eos motus, qui sie à causis nobis ignotis fiftebantur, suâ sponte desinere. Jamque proclives sumus ad illud de omnibus existimandum, quod videmur in multis esse experti : nempe
+
+6 immutabilitate] immobilitatte (sic, 1" édit.).
+
+a. Voir t. V, p. 385.
+
+[p. 63] 55-56.
+
+Pars Secunda. 
+ 6; 
+ illos ex naturâ suâ cessare, sive tendere ad quietem. Ouod prose&ô legibus naturæ quàm-maximè adversa- tur : quies enim motui est contraria, nihilque ad suum contrarium, sive ad deftructionem sui ipsius, ex propria naturâ ferri potest.
+
+Et verò quotidiana experientia, in iis quæ projiciun- tur, regulam nostram omnino confirmât. Neque enim alia ratio est, cur proje&a perseverent aliquandiu in motu, postquam à manu jaciente separata sunt, quàm io quia semel mota pergunt moveri, donec ab obviis corporibus retardentur. Et manifestum est, ipsa solere ab aëre, aliisve quibuslibet fluidis corporibus in quibus moventur, paulatim retardari, atque ideò motum ipsorum diu durare non posse. Aërem enim motibus aliorum corporum resistere, ipso sensu tactûs pofiumus experiri, si flabello ipsum percutiamus; idemque volatus avium confirmât. Et nullus alius est liquor, qui non manifeftiùs adhuc, quàm aër, motibus proje&orum resistat.
+
+Altéra lex naturæ est : unamquamque partem materiæ, seorsim spectatam, non tendere unquam ut secundùm ullas lineas obliquas pergat moveri, sed tantummodo secundùm rectas; etsi multæ sæpe cogantur deflectere propter occurfum aliarum, atque, ut paulô
+
+2 5 antè dictum est a , in quolibet motu fiât quodammodo circulus, ex omni materiâ simul motâ. Causa hujus regulæ eadem est quæ præ|cedentis, nempe immutabi- litas & simplicitas operationis, per quam Deus motum in materiâ conservat. Neque enim illum conservat,
+
+3o nisi præcisè qualis est eo ipso temporis momento quo
+
+a. Art. xxxih, p. 58.
+
+XXXVIII. 
+ De motu projeâorum.
+
+XXXIX. 
+ Altéra lex naturæ: quod omnis motus ex Je ipso sit reâus; S ideà quee circulariter moventur, tendere femperut recédant à centro circuit quem describunt.
+
+[p. 64] 64 Principiorum Philosophie. 56-5 7 .
+
+conservat, nullâ habita rationeejus qui forte fuitpaulô antè. Ac quamvis nullus motus fiât in instanti, manifestum tamen est omne id quod movetur, in singulis instantibus quse possunt designari dum movetur, determinatum esse ad motum suum continuandum ver- fus aliquam partem, secundùm lineam rectam, non autem unquam secundùm ullam lineam curvam. Ut, exempli causâ, lapis A, in sundâ EA per circulum ABS rota- tus, eo instanti, quo est in puncto A, determinatus quidem est ad motum versus aliquam partem, nempe secundùm lineam rectam versus C, ita scilicet ut linea recta A C sit tangens circuli. Non autem fingi potest illum determinatum eue ad ullum motum curvum : etsi enim priùs venerit ex L ad A per lineam curvam, nihil tamen istius curvitatis intelligi potest in eo remanere, dum est in puncto A. Hocque etiam experientiâ confirmatur, quia si | tune è sundâ egrediatur, non perget moveri versus B, sed versus C. Ex quo sequitur, omne corpus quod circulariter movetur, perpetuô tendere ut recédât à centro circuli quem describit. Ut ipso manûs sensu experimur in lapide, dum illum sundâ circumagimus. Et quia consideratione iftâ in sequentibus sæpe utemur, dili-
+
+.5
+
+[p. 65]
+
+ 5 7 -58. Pars Secunda. 65 
+ genter erit advertenda, fufiufque infrà exponetur 3 .
+
+Tertia lex naturæ hæc est : ubi corpus quod movetur alteri occurrit, si minorem habeat vim ad pergen- dura secundùm lineam re&am, quàm hoc alterum ad ei resistendum, tune defleétitur in aliam partem, & motum suum retinendo solam motûs determinationem amittit; fiverô habeat majorem, tune alterum corpus secum movet, ac quantum ei dat de suo motu, tantundem perdit. Ita experimur dura quælibet corpora pro- jeta, cùm in aliud durum corpus impingunt, non ideò à motu cessare, sed versus contrariam partem refledi ; contra verò, cùm occurrunt corpori molli, quia facile in illud motum omnem suum tranfmittunt, ideò statim ad quietem reduci. Atque omnes causæ particulares mutationum, quæ corporibus accidunt, in hac tertia lege continentur, saltem eæ quæ ipsæ corporeæ sunt ; an enim, & qualem, mentes humanæ vel Angelicæ vim habeant corpora movendi, non jam inquirimus, sed ad tractationem de homine reservamus b .
+
+Demonstratur autem prior pars hujus legis, ex eo quod differentia fit inter motum in se spectatum & ipsius determinationem versus certam partem, quâ fit ut ista determinatio pofîit mutari, motu integro rémanente. Cùm enim, ut antè dictum est, unaquæque res, non composita, sed simplex, qualis est motus, semper esse perfeve|ret, quamdiu à nullâ causâ externâ destrui- tur ; & in occurfu duri corporis, appareat quidem causa quæ impediat, ne motus alterius corporis, cui occurrit, maneat determinatus versus eandem partem ; non
+
+a. Ci-après, partie III, art. lvii et lviii.
+
+b. Cf. art. 11 ci-avant, p. 41, note c.
+
+XL. 
+ Tertia lex : quod unum corpus, alteri fortiori occurrendo, nihil amittat de suo motu; occurrendo verò minus forti, tantum amittat, quantum in illud transfert.
+
+XLI. 
+ Probatio prior is partis
+
+hujus regutœ.
+
+[p. 66]
+
+Principiorum Philosophie
+
+58-5 9 .
+
+XLII.
+
+Probatio po/lerioris partis.
+
+XLIII. In quo conjijlat vis cujusque corporis ad agendum vel resistendum.
+
+autem ulla, quæ motum ipsum tollat vel minuat, quia motus motui non est contrarius : hinc sequitur illum idcirco minui non debere.
+
+Demonstratur etiam pars altéra ex immutabilitate operationis Dei, mundum eàdem actione, quâ olim creavit, continué jam confervantis. Cùm enim omnia corporibus sint plena, & nihilominus uniuscujusque corporis motus tendat in lineam rectam, perspicuum est Deum ab initio, mundum creando, non modo diver- fas ejus partes diversimodè movisse, sed simul etiam effechTe, ut unæ alias impellerent motusque suos in illas transferrent : adeò ut jam, ipsum conservando eâdem actione, ac cum iisdem legibus cum quibus creavit, motum, non iisdem materiæ partibus semper infixum, sed ex unis in alias prout sibi mutuò occur- i5 runt transeuntem, conservet. Sicque hæc ipsa creaturarum continua mutatio immutabilitatis Dei est argumentum.
+
+Hîc verò diligenter advertendum est, in quo consistat vis cujusque corporis ad agendum in aliud, vel ad actioni alterius resistendum : nempe in hoc uno, quòd unaquæque res tendat, quantum in se est, ad perma- nendum in eodem statu in quo est, juxta legem primo loco positam a . Hinc enim id quod alteri conjunctum est, vim habet nonnullam, ad impediendum ne disjungatur; id quod difjundum est, ad manendum dis- junctum ; id quod quiescit, ad perfeverandum in suâ quiète, atque ex consequenti ad resistendum iis omnibus quæ illam possunt mutare; id quod mo|vetur, ad perfeverandum in suo motu, hoc est, in motu ejusdem 3o
+
+a. Art. xxxvii ci-avant, p. 62.
+
+2J
+
+[p. 67] s 9 . Pars Secunda. 67
+
+celeritatis & versus eandem partem. Vifque illa débet æstimari tum à magnitudine corporis in quo est, & fuperficiei secundùm quam istud corpus ab alio dis- jungitur; tum à celeritate motus, ac naturâ & contrarietate modi, quo diversa corpora sibi mutuò occurrunt.
+
+Atque notandum est, ùnum motum alteri motui æquè veloci nullo modo esse contrarium, sed propriè tantùm duplicem hîc inveniri contrarietatem. Unam inter motum & quietem, vel etiam inter motûs celeritatem & tarditatem, quatenus scilicet ista tarditas de quietis naturâ participât. Alteram inter determinationem motûs versus aliquam partem, & occurfum corporis in illâ parte quiescentis vel aliter moti ; atque i5 pro ratione partis in quam corpus alteri occurrens movetur, hæc contrarietas est major vel minor.
+
+Ex quibus ut possimus determinare, quo pa&o fin- gula corpora motus suos augeant vel minuant, vel in alias partes convenant, ob aliorum corporum occursus : oportet tantùm calculo subducere, quantum in unoquoque sit virium, ûve ad movendum, sive ad motui resistendum; ac pro certo statuere, illud semper, quod valentius est, sortiri suum effectum. Hocque sa- cile calculo fubduci pofTet, li duo tantùm corpora sibi
+
+2 5 mutuò occurrerent, eaque e fient perfeftè dura, & à reliquis omnibus sie divisa, ut eorum motus à nullis aliis circumjacentibus impedirentur nec juvarentur ; ea enim régulas sequentes observarent 3 .
+
+XL1V. Motum non esse motui contrarium, sed quieti ; & determinationem in unam partem, determinationi in partem oppositam.
+
+XLV. Quomodo possit determinari, quantum eu jusque corporis motus mutetur propter aliorum corporum occurfum ; idque per regulas sequentes.
+
+a. Voir t. IV, p. i85,l. 5; p. 187, 1. 12-17; et P- 396,1. 5-io. — TomeV. p. 168, et p. 405, 1. 6. — Voir aussi t. IX, p. 89 et suiv. de la traduction françr ise des Principes, et p. 327.
+
+[p. 68] Prima
+
+68 Principiorum Philosophie 59-60.
+
+xlvi. Primo, si duo illa corpora, puta B & C, essent plané æqualia, & aequè velociter moverentur, B quidem à
+
+^ dextrâ versus sinistram, & C illi in directum à finiftrâ versus | d extram, cùm sibi mutuô occurrerent, reflederentur,
+
+Secunda.
+
+Tcrtia.
+
+Quarta.
+
+& poflea pergerent moveri, B versus dex- tram & C versus sinistram, nullâ parte suae celeritatis amiffâ 3 .
+
+xlvii. Secundo, si B effet tantillô majus quàm C, cæteris positis ut priùs, tune solum C reflefteretur, & utrum- «o que versus sinistram eâdem celeritate moveretur. xLvm. Tertio, si mole essent æqualia, sed B tantillô celeriùs moveretur quàm C, non tantùm ambo pergerent moveri versus sinistram, sed etiam transferretur ex B in C média pars celeritatis quâ hoc ab illo excedere- i5 tur : hoc esl, si fuissent priùs sex gradus celeritatis in B, & quatuor tantùm in C, post mutuum occurfum unumquodque tenderet versus sinistram, cum quinque gradibus celeritatis.
+
+xlix. Quarto, si corpus C plané quiefeeret, essetque paulò
+
+majus quàm B, quâcunque cum celeritate B moveretur versus C, nunquam ipsum C moveret; sed ab eo repelleretur in contrariam partem : quia corpus quiescens magisrefiflit magnæ celeritati quàm parvæ, idque pro ratione exceffûs unius supra alteram; & idcirco semper major effet vis in C ad resistendum, quàm in B ad impellendum b .
+
+9 majus] major (/" édit.).
+
+a. Voir t. V, p. 291, 1. 22-27.
+
+b. Tome IV, p. i83,l. u, et p. 186, 1. t,
+
+[p. 69] <io-6i. Pars Secunda. 69
+
+Quintò, si corpus quiescens C effet minus quàm B, L -
+
+tûnc, quantumvis tardé B versus C moveretur, illud secum moveret, partem lcilicet sui motûs ei talem transferendo, ut ambo postea æquè celeriter moverentur : nempe, si B effet duplo majus quàm C, transferret ipsi tertiam partem sui motûs, quia una illa tertia pars tam celeriter moveret corpus C, quàm duæ aliæ rest- duæ corpus B duplo majus. Et ita, postquam B ipsi C occurriffet, | unâ tertiâ parte tardiùs moveretur quàm
+
+10 priùs, hoc est, tantundem temporis requireret, ut moveretur per spatium duorum pedum, quàm priùs ut moveretur per spatium trium. Eodem modo, si B effet triplo majus quàm C, transferret ipsi quartam partem sui motûs; & sie de cæteris 8 .
+
+i5 Sexto, si corpus C quiescens effet accuratifiimè L
+
+æquale corpori B versus illud moto, partim ab ipso impelleretur, & partim ipsum in contrariam partem repelleret : nempe, si B veniret versus C cum quatuor gradibus celeritatis, communicaret ipsi C unum graao dum, & cum tribus residuis reste&eretur versus partem adversam b .
+
+Denique, si B & C versus eandem partem moveren- LH
+
+tur, C quidem tardiùs, B autem illud infequens celeriùs, ita ut ipsum tandem attingeret, essetque C majus
+
+2 5 quàm B, sed exceffus celeritatis in B effet major, quàm exceffus magnitudinis in C : tune B transferret tantum de suo motu in C, ut ambo postea æquè celeriter & in easdem partes moverentur. Si autem è contra exceffus celeritatis in B minor effet, quàm exceffus magnitudinis
+
+a. Tome IV, p. 186, 1. 1.
+
+b. Ibidem.
+
+Sexta.
+
+Septima.
+
+[p. 70] jo Principiorum Philosophie 61-62.
+
+in C, B in contrariam partem refleéteretur, & motum omnem suum retineret. Atque hi exceffus ita computantur : si C effet duplo majus quàm B, & B non moveretur duplo celeriùs quàm C, ipsum non pelleret, sed in contrariam partem refleéteretur; si verò magis quàm duplo celeriùs moveretur, ipsum pelleret. Nempe, si C haberet tantùm duos gradus celeritatis, & B haberet quinque, demerentur duo gradus ex B, qui translati in C unum tantùm gradum efficerent, quia C est duplo majus quàm B : quo fieret ut duo corpora B & C cum tribus gradibus celeritatis j postea moverentur ; & ita de cæteris est judicandum. Nec ista egent probatione, quia per se sunt manifesta. LIIL Sed quia nulla in mundo corpora esse possunt à re-
+
+Harum regularum ...... . .. . r .. . rr /• t ufumejfedifficiiem, liqu is omnibus ita divisa, & nulla circa nos elle lolent i5 un°mq e uodque q 'cor- plané dura, ideò multò difficiliùs iniri potest calculus, tangator" 1 *" ^ m "' a( * determinandum quantum cujusque corporis motus ob aliorum occurfum mutetur. Simul enim habenda est ratio eorum omnium, quæ illudcircumquaque contingunt, eaque, quantum ad hoc, valde diversos habent effectus, prout sunt dura vel fluida : quorum ideô diversitas in quo consistat, hîc est quærendum. LIV - Nempe, sensu teste, non aliam agnoscimus, quàm
+
+Qu* sint corpora du- , - - r . ' . . ° '. l .
+
+ra, quxjtuida. £)uod rluidorum partes facile recédant ex locis suis, atque ideò manibus nostris versus illa se moventibus non resistant; contra autem durorum partes ita sibi mutuò cohæreant, ut non sine vi, quæ sufficiat ad istam illorum cohærentiam superandam, sejungi possint. Et ulteriùs inveftigantes qui fiât ut qua)dam corpora sine ullâ difficultate loca sua corporibus aliis relinquant, 3o alia non item : facile advertimus ea quæ jam sunt
+
+[p. 71] 6a-63.
+
+7 1
+
+in motu, non impedire ne loca quæ sponte defe- runt ab aliis occupentur; sed ea quse quiescunt, non sine aliquâ vi ex locis suis extrudi posse. Unde licet colligere, corpora divisa in multas exiguas particulas, motibus à se mutuò diversis agitatas, esse fluida; ea verò, quorum omnes particulæ juxta se mutuò quiescunt, esse dura.
+
+Neque profectò ullum glutinum possumus excogitare, quod particulas durorum corporum firmiùs inter io se conjungat, quàm ipsarum quies. Quid enim esse posset glutinum istud ? Non substantia : quia, cùm particule istæ ûnt substantiæ, nulla ratio est cur per aliam substantiam potiùs | quàm per se ipsas jungerentur. Non etiam est modus ullus diversus à quiète : nullus i5 enim alius magis adversari potest motui, per quem istæ particulæ separentur, quàm ipsarum quies. Atque præter substantias & earum modos, nullum aliud genus rerum agnoscimus a .
+
+Quantum autem ad fluida, etû sensu non advertamus ipsorum particulas moveri, quia sunt nimis exiguæ, facile tamen ex effectibus id colligitur, præcipuè in aëre & aquâ, ex eo quòd alia multa corpora cor- rumpant. Neque enim actio ulla corporea, qualis ista corruptio est, sine motu locali esse potest; & causæ ipsorum motûs infrà dicentur b . Sed in eo est difficultas, quòd istæ fluidorum particulæ non possint omnes eodem tempore in unamquamque partem ferri ; quod tamen requiri videtur, ut non impediant motum corporum ex quâlibet parte venientium, quemadmodum
+
+a. Voir t. V, p. 385.
+
+b. Pars III, art. xlix, l et u.
+
+LV. Durorum partes nullo alio glutino simul jungi, quàm earum quiète.
+
+LVI.
+
+Fluidorum particulas æquali vi versus omnes partes moveri. Et corpusdurum injlui- do existens, à minimâ vi posse determinari ad motum.
+
+[p. 72]
+
+videmus illas eum non impedire. Nam si, exempli causâ, corpus durum B moveatur versus C, ac quædam ex partibus fluidi in- termedii D ferantur in contrarium à C versus B, hæ motum ejus non juvabunt, sed contra magis impedient, quàm si plané efTent sine motu. Quæ difficultas ut solvatur, recordandum est, non motum, sed quietem esse motui contrariam ; & motûs determinationem versus unam partem esse contrariam ejusdem determinationi versus partem oppositam, ut jam di&um esl a ; itemque omne id quod movetur, tendere semper ut pergat moveri secundùm lineam reftam b . Ex his enim patet : primo, corpus du- i5 rum B, | dum quiescit, magis opponi, suâ illâ quiète, motibus particularum corporis fluidi D simul fpefta- tis, quàm iisdem opponeretur suo motu, si moveretur. Ac deinde, quantum ad determinationem, verum quidem est tôt esse ex particulis ipsius D, quæ moventur à C versus B , quot sunt quæ moventur in contrarium : quippe eædem sunt quæ, venientes à C, impingunt in superficiem corporis B, ac deinde retorquentur ver- fus C. Et quidem singulæ ex istis seorsim spectatæ, impingentes in B, pellunt ipsum versus F, atque ita magis impediunt, ne moveatur versus C, quàm si essent sine motu ; sed, quia totidem etiam ab F tendunt in B, illudque pellunt versus C, idcirco, quantum ad hoc attinet, B non magis pellitur versus unam partem
+
+a. Art. xi.it, p. 67.
+
+b. Art. xxxiz, p. 63.
+
+[p. 73] 6 4 -65. Pars Secunda. yj
+
+quàm versus alteram, & ideò, nisi quid aliud accédât, manet immotum. Cujuscunque enim figuræ ipsum esse supponamus, semper accuratè à totidem particulis fluidi ex unâ parte pelletur quàm ex altéra ; modo ne fluidum ipsum in ullam partem magis feratur quàm in reliquas. Et supponere debemus B omni ex parte à fluido DF circumdari; atque si forte non tanta sit istius fluidi quantitas in F quàm in D, nihil refert: quia non agit in B se toto, sed duntaxat iis suis partibus quæ superficiem ejus attingunt. Hactenus verò spe&avimus B ut immotum ; jam si ponamus ipsum ab aliquâ vi, aliunde adveniente, impelli versus C, hæc vis (quantumvis exigua) sufficiet, non quidem ad ipsum se folâ movendum, sed ad concurrendum cum i5 particulis corporis fluidi FD, ipsasque de|terminandas ad illud etiam pellendum versus C, eique partem sui motûs communicandam 3 .
+
+Quod ut clariùs intelligatur, fingamus primo, cor- LVI1 -
+
+pus durum B nondum esse in fluido FD, sed hujus fluidi mdm ^ emon -
+
+ao particulas æioa, difpofitas in modum annuli, moveri circulariter secundùm ordinem notarum æi; aliasque ouyao moveri eodem modo secundùm ordinem notarum ouy. Ut enim corpus aliquod sit fluidum, debent ejus particulæ moveri pluribus modis, ut jam dictnm esl b . Quiescat deinde corpus durum B in hoc fluido FD inter a & o : quid fiet? Nempe particulæ æio impedientur ab ipso, ne possint transire ab o versus a, ut abfolvantcircuium sui motûs; itemque particulæ ouy a impedientur ne pergant ab a versus o; ac venientes ab a.. Tome V, p. 385. b. Art. liv, p. 70-7 1 .
+
+[p. 74]
+
+Principiorum Philosophie
+
+i versus o, pellent B versus C ; itemque venientes ab y versus a, ipsum tantundem repellent versus F ; ideôque nullam fosse habebunt vim ad illud movendum, sed refledentur ab o versus u, & ab a versus e, fietque una circulatio ex duabus, secundùm ordinem notarum æiouya. Et ita, propter occurfum corporis B, non quidem fiftetur ullo modo ipsarum motus, sed mutabitur tantùm determinatio, nec incedent per lineas tam rectas a , vel tam prope accedentes ad rectam, quàm si in B non impingerent. Tandem denique accédât nova aliqua vis, pel- lens B versus C, hæc vis, quantumvis exigua, juncta ei quâ particulæ fluidi, venientes ab i versus o, ipsum etiam pellunt versus C, fuperabit eam quâ venientes aby versus a illud in contrariam partem repellunt ; atque ideo sufficiet ad ipsarum determinationem mutandam, & efficiendum ut ferantur secundùm ordinem notarum ayuo, in quantum hoc requiritur ad motum corporis B non impediendum b : | quia, cùm duo corpora determinantur ad motum versus partes plané contrarias & sibi mutuô oppositas, illud in quo major est vis, altcrius determinationem débet mutare. Atque quod hîc dico de particulis æiouy, de omnibus etiam aliis fluidi FD, quæ in B impingunt, est intelligendum : quod nempe fin- gula; ex iis quæ illud pellunt versus C, oppositæ sint totidem aliis, id ipsum in contrariam partem pellentibus ;
+
+a. Voir t. V, p. 385
+
+b. Art. lx ci-aprcs, p. jG.
+
+[p. 75] 66-6 7 .
+
+quôdque perexigua vis, illis adjunda, sufficiat ad harum determin.ationem mutandam ; quôdque, quamvis nullæ forte describant taies circulos, quales hîc repræsentantur æio & ouya, haud dubiè tamen omnes circulariter, & aliquibus modis huic æquipol- lentibus, moveantur.
+
+Ita ergo mutatâ determinatione parti cularum fluidi, quæ impediebant ne corpus B moveretur versus C, hoc corpus B omnino incipiet moveri, & quidem eâdem cum celeritate, quâ vis à fluido diversa illud pellit, si supponamus in isto fluido nullas esse particulas, quæ non celeriùs, vel saltem æquè celeriter moveantur. Nam, si quæ tardiùs agantur, quatenus ex illis confiât, rationem fluidi non habet, neque tune lufficit minima quæque vis ad corpus durum in hoc fluido existens movendum ; sed tanta requiritur, ut superet resistentiam quæ oritur ab istarum fluidi particularum tarditate. Ac ideô sæpe videmus aërem, aquam & alia fluida, multùm resistere corporibus, quæ in ipiis valde celeriter aguntur, iisdemque sine ullâ difficultate cedere, cùm lentiùs procedunt.
+
+Cùm autem corpus B sie movetur versus C, non putandum esl, illud accipere suum motum à solâ vi exter- nâipfum impellente, sed maximâ ex parte à fluidi particulis; | ita scilicet, ut eæ quæ componunt circulos æio & ayuo, tantum amittant de suo motu, quantum acquirent eæ particulæ corporis duri B quæ sunt inter o & a : quippe quæ jam facient partem motuum circu- larium æioa & ayuoa: quamvis, prout ulteriùs procè- dent versus C, novis semper fluidi particulis jungantur.
+
+4 ouya] oiuy (texte, i" édit.)
+
+LVIII. Si quæ fluidi particults tardiùs moveantur, quant corpus durum .in eo existens, illud hac in parte fluidi rationem non habere.
+
+LIX. Corpus durum ab alio duro impulsum, non omnemfuum motum ab eo mutuari, sed partim eliam à fluido circumjacente.
+
+[p. 76] LX.
+
+Non posse tamen ab isto Jiuido majorent celeritatem acquirere, quàm habeat à duro, à quo impulsum ejï.
+
+LXI. Cùm corpus Jluidum tolutn simul versus aliquam partent fertur, necejjfarid secum déferre corpus durum quod in se continet.
+
+76 PrINCIPIORUM. PhILOSOPHLE 67-68.
+
+Superest tantùm hîc explicandum, cur paulò antè non dixerim a , mutari absolutè determinationem particularum ayuo, sed mutari in quantum hoc requiritur, ad motum corporis B non impediendum. Quippe
+
+hoc corpus B non potest
+
+celeriùs moveri, quàm à vi adventitiâ impulsum est, quamvis sæpe omnes par- ticulæfluidi FD multôplus habeant agitationis. Hocque unum est ex iis, quæ nobis inter philosophandum præcipuè sunt observanda, ut ne cui causæ ullum effectum tribuamus, qui potentiam ejus excédât. Ita ponentes corpus durum B, in medio fluidi FD priùs immotum, nunc ab externâ aliquâ vi, exempli causâ, à manu meâ, tardo motu impelli : cùm hæc sola im- pulûo meæ manûs fit causa cur moveatur, credi non débet ipsum celeriùs moveri quàm impellitur; & quamvis omnes fluidi particule multò celeriùs moveantur, non putandum est eas determinari ad motus circulares æioa & ayuoa & similes, quæ sint celeriores hac im- pulfione, sed ipsas, quatenus celeriùs aguntur,in quaslibet alias partes, ut priùs, ferri b .
+
+Atque ex his clarè percipitur, corpus durum undique fluido cinctum, & in illo quiescens, ibi tanquam in æquilibrio consistere; ac quantumvis sit magnum, semper tamen à minimâ vi posse in hanc vel illam partem impelli : sive illa vis aliunde adveniat, sive in hoc sit sita, quôd fluidum | istud, totum simul, versus alia. Page 74, 1. 7, 18-23.
+
+b. Voir t. V, p. 385
+
+[p. 77] 68.
+
+ao
+
+quem locum feratur, ut flumina feruntur versus mare, ac totus aër, Euro fiante, fertur versus Occidentem. Quod ubi contingit, omnino necesse est, corpus durum,in tali fluido existens, simul cum ipso deferri; nec obstat régula illa quarta, juxta quam, ut paullô antè dictum est a , corpus quiescens à nullo alio se minori, quantumvis céleri ter ado, potest ad motum impelli.
+
+Quinimô, si ad veram & absolutam motûs naturam attendamus, quæ consistit in translatione corporis moti ex viciniâ corporum aliorum sibi contiguorum, & in utroque ex corporibus, quæ se mutuò contingunt, est æqualis, quamvis non eodem modo soleat nomi- nari : plané agnoscemus, non tam propriè moveri corpus durum, cùm sie à fluido ipsum continente defertur, quàm si non ab eo deferretur, quia tune nempe à vicinis istius fluidi particulis minus recedit.
+
+Unum autem adhuc est, in quo experientia regulis motûs, paullô antè traditis b , valde videtur adversari : nempe quôd videamus multa corpora, manibus no- ftris longé minora, tam firmiter sibi mutuò adhærere, ut nullâ earum vi sejungi pofiint. Si enim illorum partes nullo alio glutino sibi invicem adhsereant, quàm quôd singulæ juxta vicinas quiescant c , & omne corpus quod quiescit, ab alio se majori quod movetur, possit ad motum impelli : non apparet prima fronte ratio, cur (exempli causâ) clavus ferreus, vel aliud quod- libet, non magnum, sed valde durum corpus, solâ vi manuum nostrarum in duas partes dividi non possit.
+
+LXII.
+
+Cùm corpus durum à fluido sie defertur, non idcirco moveri.
+
+LXIII. Cur quædam corpora tam dura sint, ut, quamvis parva, non facile manibus no- firis dividantur.
+
+a. Art. xlix, p. 68.
+
+b. Art. xlvi à Lit, p. 68-70.
+
+c. Art. lv, p. 71.
+
+[p. 78] LXIV. Non alia principia in Physicâ, quàm in Geometriâ, vel in Mathesi abftraââ, a me admitti, nec optari, quia sie omnia na- tures phænomena explicantur, & certæ de iis demonstrationes dari possunt.
+
+78 Principiorum Philosophie 68-69.
+
+Licet enim unamquamque mediam partem istius clavi pro uno corpore numerare; cùmque ista média pars manu nostrâ sit minor, videtur ejus vi debere posse mo|veri, atque sie ab aliâ mediâ parte divelli. Sed notandum est manus nostras esse admodum molles, sive ad naturam corporum fluidorum magis quàm durorum accedentes ; ideòque non totas simul agere solere in corpus ab iis movendum, sed eam tantùm ipsarum partem, quæ, corpus istud tangens, tota simul in illud incumbit. Quippe, sicuti média pars clavi ferrei, quatenus ab aliâ ejus mediâ parte est dividenda, rationem habet unius corporis : sie pars manûs nostræ proximè illam tangens, & ipsâ minor, quatenus à reliquis ejusdem manûs partibus sejungi potest, habet rationem alterius corporis. Et quia faciliùs à reliquâ manu potest separari quàm pars clavi à reliquo clavo, & ista separatio sine doloris sensu fieri nequit, ideô clavum ferreum solâ manu frangere non pofifumus ; sed si illam malleo, lima, forfice, aliove instrumento mu- niamus, ut ita ejus vis ad partem corporis dividendi, minorem corpore quo utitur, ad illud dividendum applicetur, quamlibet ejus duritiem poterit superare. Nihil hîc addam de figuris, nec quomodo ex earum infinitâ varietate motuum quoque varietates innumeræ consequantur , quia satis ista per se patebunt, ubicunque usus veniet ut de ipsis agamus. Et suppono meos lectores vel prima elementa Geometriæ jam no- visse, vel saltem ingenium satis aptum habere ad Mathematicas demonstrationes intelligendas. Nam plané profiteor me nullam aliam rerum corporearum materiam agnoscere, quàm illam omnimodè divisibilem,
+
+[p. 79] 69-7°- Pars Secunda. 70
+
+figurabilem & mobilem, quam Geometræ quanti tatem vocant, & pro objefto suarum demonstrationum affu- munt ; ac nihil plané in ipsâ considerare, præter istas divisiones, figuras & motus; nihilque de [ ipsis ut verum admittere, quod non ex communibus illis notionibus, de quarum veritate non pofTumus dubitare, tam evidenter deducatur, ut pro Mathematicâ demon- flratione sit habendum. Et quia sie omnia Naturæ Phoe- nomena possunt explicari, ut in sequentibus apparebit, nulla alia Physicæ principia puto esse admittenda, nec alia etiam optanda.
+
+[p. 80] PRINCIPIORUM
+
+PHILOSOPHIE
+
+De Mundo adfpeéîabili.
+
+i.
+
+Opéra Dei nimis ampla cogitari non posse.
+
+II. Cavendum esse, ne nimis fuperbè de nobis ipsis Sentientes, fines quos Deusfibi propo- fuit in creando mundo, à nobis intelligi supponamus.
+
+Inventis jam quibusdam principiis rerum materialium, quæ non à præjudiciis sensuum, sed à lumine rationis ita petita sunt, ut de ipsorum veritate dubitare nequeamus, examinandum est, an ex iis solis omnia naturæ phænomena possimus explicare. Incipien- dumque ab iis quæ maxime universalia sunt, & à quibus reliqua dépendent : nempe à generali totius hujus mundi adspectabilis constructione. De quâ ut rectè philosophemur, duo sunt inprimis observanda. Unum, ut attendentes ad infinitam Dei potentiam & bonitatem, ne vereamur nimis ampla, & pulchra, & absoluta ejus opéra imaginari ; sed è contra caveamus, ne si quos forte limites, nobis noncertôcognitos, in ipsis supponamus, non satis magnifice de Creatoris potentiâ sentire videamur.
+
+Alterum, ut etiam caveamus, ne nimis fuperbè de nobis ipsis sentiamus. Quod fieret non modo, si quos limites, | nobis nullâ cognitos ratione nec divinâ re- velatione, mundo vellemus afiingere, tanquam si vis nostræ cogitationis, ultra id quod à Deo rêvera factum
+
+ÎO
+
+iS
+
+[p. 81] 7I-7J.
+
+est, ferri posset; sed etiam maxime, si res omnes propter nos solos ab illo creatas esse fingeremus a ; vel tantùm, si fines quos sibi proposuit in creando universo, ingenii nostri vi comprehendi posse putaremus. Quamvis enim in Ethicis sit pium dicere, omnia à Deo propter nos facta esse, ut nempe tantò magis ad agendas ei gratias impellamur, ejusque amore incen- damur ; ac quamvis etiam suo sensu sit verum , quatenus scilicet rébus omnibus uti possumus aliquo io modo, saltem ad ingenium nostrum in iis confideran- dis exercendum , Deumque ob admiranda ejus opéra fufpiciendum : nequaquam tamen est verisimile, sie omnia propter nos facta esse, ut nullus alius sit eorum usus ; effetque plané ridiculum & ineptum id in Phyi5 ficâ consideratione supponere; quia non dubitamus, quin multa existant, vel olim extiterint, jamque esse defierint, quæ nunquam ab ullo homine visa sunt aut intellecta, nunquamque ullum usum ulli præbuerunt.
+
+Principia autem quæ jam invenimus, tam vasta sunt
+
+& tam fœcunda, ut multò plura ex iis sequantur, quàm in hoc mundo aspectabili contineri videamus; ac etiam multò plura, quàm mens nostra cogitando perlustrare unquam pofîit. Sed jam brevem historiam b præcipuo- rum naturæ phænomenom (quorum causæ hîc sunt investigandæ), nobis ob oculos proponemus; non quidem ut ipsis tanquam rationibus utamur ad aliquid probandum : cupimus enim rationes effeftuum à causis, non autem è contra causarum | ab effectibus deducere ; sed tantùm ut ex innumeris effectibus, quos
+
+a. Voir t. V, p. 53, 1. 24, à p. 56, 1. 22, et ibid., p. 168.
+
+b. Tome I, p. 25i, 1. 17.
+
+Œuvres. III. u
+
+III. Quo sensu dici foffil omnia propter homi- nem faâa esse.
+
+IV.
+
+De phænomenis , sive experimentis; & quis eorum usus ad philosophandum.
+
+J33G08
+
+[p. 82]
+
+Principiorum Philosophle
+
+Quæ sit ratio distantiæ & magnitudinis inter Solem, Terram et Lunam.
+
+VI.
+
+Quæ fit distantia reliquorum planetarum à Sole.
+
+VII.
+
+Fixas non pojfefupponi
+
+nimis remotas.
+
+VIII.
+
+Terram è cœlo con-
+
+fpeâam, non appa-
+
+ab iisdem causis produci posse judicamus, ad unos potiùs quàm alios conflderandos mentem nostram determinemus.
+
+Nobis quidem, primo intuitu, Terra cæteris omnibus mundi corporibus multô major esse videtur, & Sol & Luna cæteris stellis ; sed visûs defe&um indubitatis ratiociniis emendantes, inprimis advertimus Lunæ à Terra distantiam circiter triginta Terræ diametros æquare, Solis verò fexcentas aut feptingentas. Quas distantias cum apparentibus Solis & Lunæ diametris conferentes, facile ex ipsis colligimus, Lunam quidem es[e multô minorem Terra, sed Solem esse multô majorent
+
+Agnoscimus etiam, visu ratione adjuto, Mercurium plus ducentis Terrae diametris à Sole distare ; Venerem plus quadringentis ; Martem noningentis aut mille ; Jovem tribus millibus & ampliùs; ac Saturnum quinque aut sex millibus.
+
+Quantum autem ad Fixas, non permittunt quidem phænomena, ut ipsas à Sole aut Terra non magis quàm Saturnum distare arbitremur; sed nulla obstant, quominùs ad quantumlibet immensam distantiam remotas esse fupporimus : colligiturque ex motibus coeli infrà explicandis 3 , eas à nobis esse adeò distantes, ut Saturnus ad ipsas comparatus videatur admodum propinquus.
+
+Ex quibus manifestum est, Lunam & Terram, si ex Jove vel Saturno confpicerentur, multò minores esse iG noningentis] nongentis (/" édit.).
+
+a. Art. xx et xli.
+
+[p. 83] io
+
+73-73. Pars Tertia. 8)
+
+apparituras, quàm appareant Jupiter & Saturnus è Terra confpedi ; nec forte etiam Solem majorem visum iri, si refpiceretur ex Fixis, quàm Fixée nobis è Terra videntur : atque idcirco, ut sine præjudicio partes mundi aspectabilis inter se comparemus, cavendum esse ne Lunam, vel Terram, vel Solem mpp;nitudine Stellas superare arbitremur.
+
+Differunt autem inter se Stellæ, non modo quôd uns aliis sint majores; sed etiam quôd quædam propriâ luce fulgeant, aliæ verô tantùm aliéna. Ut inprimis de Sole dubium esse non potest, quin lucem quâ oculos nostros perstringit, in se habeat : neque enim tantam ab omnibus Fixis simul sumptis mutuari potest, cùm ipsæ tantam ad nos non mittant, nec tamen à nobis magis distent quàm à Sole ; ac nullum aliud corpus apparet magis radiofum, à quo illam accipiat : si quod autem effet, procul dubio appareret. Idem de omnibus Stellis fixis facile credetur ab iis, qui confiderabunt quàm vividos radios vibrent, ac quantum à nobis & à Sole sint remotæ : si enim alicujus Stellæ fixa; tam vicini essemus quàm Solis, credibile est eam ipso non minorem, nec minus lucidam esse apparituram.
+
+Contra verô Lunam videmus, eâ tantum parte
+
+2 5 splendere quam Soli habet obverfam; unde cognoscimus illam esse proprio lumine destitutam, & tantùm radios à Sole acceptos versùs oculos nostros reste- dere. Quod idem etiam de Venere perfpicillorum ope observatur. Idemque de Mercurio, Marte, Jove &
+
+3o Saturno non difficulter persuadetur, ex eo quod eorum lumen obtufius sive placidius sit cmàm Fixarum, rituram esse, nisi ut Planetam, Jove aut Saturno minorem.
+
+IX.
+
+Solem & Fixas propriâ luce fulgere.
+
+Lunam & alios Planetas lucem à Sole mutuari.
+
+[p. 84] XI. Terram ratione luminis à Planetis non differre.
+
+XII.
+
+Lunam, cùm nova est,
+
+à Terra illuminari.
+
+XIII. Soient in ter Fixas, & Terram inter Planetas posse numerari.
+
+XIV. Fixas eandem semper à Je muluàdijlantiam retinere, non aulem Planetas.
+
+XV. Easdem Planetarum
+
+84 Principiorum Philosophle 73-74-
+
+& à Sole non adeô distent, quin possint ab ipso illuminari.
+
+Denique idem de Terra experimur : conflata enim est ex opacis corporibus, quæ Solis radios excipientia, illos non minus validé quàm Lima reflectunt; quin etiam nubibus est involuta, quæ licèt multò minus opacæ sint, quàm ple|rseque aliæ ejus partes, sæpe tamen ipsas videmus, cùm à Sole illustrantur, non minus albicantes esse quàm Lunam ; adeô ut fit satis manifestum, eam ratione luminis à Lunâ, Venere, Mercurio, aliisque Planetis non differre.
+
+Quod etiam confirmatur, ex eo quôd, Lunâ existente inter Solem & Terram, ejus faciès quæ à Sole non illustratur, débile quoddam lumen ostendat, quod facile conjicimus ad illam pervenire à Terra, quæ tune radios à Sole receptos eam versùs réfléchit ; minuitur enim paulatim, prout pars Terræ à Sole illu- minata ab eâ se avertit.
+
+Atque omnino, si Terram ex Jove refpiceremus, minor quidem, sed forte non minus lucida nobis appareret, quàm hinc Jupiter appareat ; ex vicinioribus autem Planetis, major videretur; sed ex Fixis, propter nimiam earum distantiam, omnem conspectum effu- geret. Ex quibus sequitur ipsam inter Planetas, & Solem inter Stellas fixas porTe numerari.
+
+Differunt etiam inter se Stellae in eo, quôd illae quas Fixas vocamus, eandem semper à se mutuò distantiam, eundemque ordinem servent; aliae autem affiduè inter se situm mutent : unde Planetae sive errantes appellantur.
+
+Equidem, ut in medio mari, tempore tranquillo,
+
+[p. 85] 74-75-
+
+8î
+
+iS
+
+cùm quis ex unâ navi alias eminus respicit inter se situm mutantes, sæpe potest dubitare quibusnam ex illis, & annon etiam fuse, motus (à quo procedit ista fitûs variatio) sit tribuendus : ita errores Planetarum, è Terra confpedi, taies apparent, ut ex ipsis solis co- gnofci non possit, quibusnam corporibus sint propriè tribuendi. Cùmque sint valde inæquales & implicati, non facile est illos explicare, nisi ex| variis modis, qui- buspoflunt intelligi, unum aliquem eligamus, secundùm quem ipsos fieri supponamus. In quem finem inventæ sunt ab Astronomis très diversæ hypotheses, hoc est, positiones, quæ non ut veræ, sed tantùm ut phænomenis explicandis idoneæ, considerantur.
+
+Harum prima est Ptolemæi, quæ quoniam multis phænomenis adversatur (ut inprimis incremento & decremento luminis, quod in Venere sicut in Lunâ observatur), jam vulgo ab omnibus Philosophis rejici solet, ideoque hîc à me prætermittetur 3 .
+
+Secunda est Copernici, & tertia Tychonis Brahe : quæ duæ, quatenus sunt tantùm hypotheses, eodem modo phænomenis satisfaciunt, & non magna inter ipsas differentia est, nisi quòd illa Copernici aliquantô simplicior fit & clarior ; adeò ut Tycho non habuerit oc- cafionem illam mutandi, nisi quia non hypothesin dumtaxat, sed ipsam rei veritatem explicare conabatur.
+
+Quippe, cùm Copernicus non dubitâflet motum Terræ tribuere, hoc Tycho tanquam in Physicâ valde absurdum, atque à communi hominum sensu alienum, voluit emendare; sed, quia veram motûs naturam non satis çonfideravit, verbo tantùm asseruit
+
+a. Voir t. V, p. 386.
+
+apparentias per varias hypotheses posse explicari.
+
+XVI. Hypothesin Ptolemæi apparentiis non satisfacere.
+
+XVII. Hypotheses Copernici S Tychonis non differre in quantum hy- pothefes.
+
+XVIII. Tychonem verbo minus, sed re plus motûs Terræ tribuere, quàm Copernicum.
+
+[p. 86]
+
+Principiorum Philosophie
+
+7 5- 7 6.
+
+XIX. Me accuratiùs quàm Copernicum, & venus quàm Tychonem, Terres tnotum negare.
+
+XX.
+
+Fixas fupponendas esse à Saturno quammaximè distantes.
+
+XXI. Soient instar flammæ ex materiâ quidem valde mobili constare, Sed non ideà ex uno loco in alium migrare.
+
+Terram quiescere, ac re ipsâ plus motûs ei concessit quàm alter.
+
+Quapropter ego, in hoc tantùm ab utroque diffen- tiens, quòd omnem motum veriùs quàm Tycho, & curiofiùs quàm Copernicus, sim Terræ detradurus : illam hîc proponam hypothesin, quæ omnium fimpliciffima, & tam ad phænomena intelligenda, quàm ad eorum causas naturales investigandas accommodatis- fima esse videtur : ipsamque tantùm pro hypothesi, non pro rei veritate haberi velim.
+
+| Primo, quia nondum certi sumus, quantum à nobis distent Stellæ fixse, nec possumus eas fingere tam remotas, ut hoc phænomenis repugnet : ne simus contenti supponere ipsas esse supra Saturnum, ut vulgò omnes admittunt, sed libertatem sumamus quantumlibet altiores existimandi. Si enim earum altitudinem cum distantiis hic supra terram nobis notis vellemus comparare, illa, quæ jam iis ab omnibus conceditur, non effet minus incredibilis quàm quævis major; ii verò ad Dei creatoris omnipoten- tiam respiciamus, nulla potest cogitari tam magna, ut ideò fit minus credibilis quàm quævis minor. Atque non tantùm ad Planetarum, sed etiam ad Cometarum phænomena commode explicanda, maximum spatium inter illas & sphæram Saturni ponen- dum esse, infrà ostendam 3 .
+
+Secundo, quia Sol in hoc convenit cum Fixis, & cum flammâ, quòd lumen à se ipso emittat : putemus eundem etiam in motu cum flammâ, & in situ cum Fixis, convenire. Nempe nihil quidem hîc supra terram
+
+a. Art. xli.
+
+■ 5
+
+[p. 87] IO
+
+76-77. Pars Tertia. 87
+
+videmus esse mobilius flammâ; nam & alia corpora, juxta quæ posita est, nisi sint admodum solida & dura, particulatim difîblvit, ac secum movet. Sed tamen ejus motus fit tantùm secundum partes, & tota migrare non solet ex uno loco in alium, nisi ab aliquo alio corpore, cui adhæreat, deferatur; quâ ratione pofïumus etiam existimare Solem constare quidem ex materiâ valde fluidâ & mobili, quæ omnes cœli circumjacentis partes secum rapit ; sed in hoc nihilominus Stellas fixas imitari, quòd non ex unâ cœli regione in aliam migret.
+
+Neque incongrua videri débet Solis cum flammâ comlparatio, ex eo quòd nullam flammam hîc videamus quæ non continuo egeat alimento ; quod idem de Sole non observatur. Ex legibus enim natune, non minus flammâ, quàm quodvis aliud corpus, ubi semel existit, semper existere perseverat, niû ab aliquâ causâ externâ destruatur ; sed, quia confiât materiâ quammaximè fluidâ & mobili, afïiduè hîc supra terram à materiâ circumjacente diflipatur; atque ideò eget alimento, non ut eadem quee jam existit conservetur, sed tantùm ut, dum ipsa extinguitur, semper alia nova in ejus locum substituatur. Solem autem non ita de- ftruunt partes cœli ei vicinæ, ideoque non ita eget alimento quo reparetur. Sed tamen etiam infrà ostendetur a , novam semper materiam in Solem ingredi, & aliam ex eo elabi.
+
+Hîcque notandum est, si Sol in situ non différât à Fixis, ipsas omnes in unius alicujus fphaeræ circumferentiâ non versari, quemadmodum multi supponunt,
+
+a. Art. lxix.
+
+XXII. Solem à flammâ differre, quàd non ita egeat alimento.
+
+XXIII.
+
+Fixas omnes in eâdem fphærâ non versari, sed unamquamque vastum spatium circa
+
+[p. 88]
+
+Principiorum Philosophle
+
+77-
+
+fehabere.ains Fixis qu j a jjj e j n e âdem iftâ sphæræ circumferentiâ esse non potest. Sed, ut Sol vastum quoddam circa se spatium habet, in quo nulla Stella fixa continetur : ita singulæ
+
+Fixse ab omnibus aliis valde remotæ esse debent, & unse multò magis quàm aliæ, à nobis & à Sole distare. 5 Sic in hac figura, û S sit Sol, F/erunt Stella? fixæ ;
+
+[p. 89] 77-79- Pars Tertia. 89
+
+atque aliæ innumeræ, suprà & infrà, & ultra hujus figuræ planum, per omnes spatii dimensiones fparfæ intelligentur 8 . | Tertio, putandum est, non tantùm Solis & Fixarum,
+
+5 sed totius etiam cœli materiam fluidam esse, sive li- quidam : quod jam vulgò omnes Astronomi conce- dunt, quia vident phænomena Planetarum vix aliter posse explicari.
+
+Sed in hoc multi mihi videntur errare, quòd fluiditatem cœlo tribuentes, illud tanquam spatium plané vacuum imaginentur, ita ut motibus quidem aliorum corporum non reûftat, sed præterea nullam habeat vim ad ipsa secum deferenda : neque enim in rerum naturâ ullum taie vacuum esse potest, ac fluidis omnii5 bus hoc est commune, ut ideò tantùm non resistant aliorum corporum motibus, quòd in seipsis etiam habeant motum. Et quia hic motus facile in omnes partes determinatur, ejus vi, cùm in unam aliquam partem est determinatus, neceflariô secum deferunt o alia omnia corpora in se contenta, quæ à nullâ causâ externâ retinentur, quantumvis ipsa sint solida &
+
+quiescentia & dura ; ut ex antè dictis b est manifestum.
+
+Quarto, cùm videamus Terram nullis columnis suffultam, nullisque funibus appenfam, sed circumquaque fluidiffimo tantùm cœlo cindam esse, putemus quidem illam quiescere, ac nullam habere propensionem ad motum, quandoquidem nullam advertimus. Sed ne putemus hoc obstare, quominùs ab isto cœlo deferatur, & ejus motibus immota obfequatur :
+
+a. Dans l'édition princeps, la figure en question occupe toute la page 78.
+
+b. Pars II, art. lxi, p. 76-77.
+
+XXIV. Cœlos esse fluidos.
+
+XXV.
+
+Cœlos omnia corpora in Je contenta secum de/erre.
+
+XXVI. Terram in cœlo suo quiescere, sed nihilominus ab eo deferri.
+
+[p. 90] 9°
+
+Principiorum Philosophle
+
+XXVII.
+
+Idemque sentiendum esse de omnibus P la- net is.
+
+XXVIII. Terrant, propriè loquendo, non moveri, nec ullos Planetas, quamvis à coelo transferantur.
+
+ut navis, nullis ventis nec remis impulsa, nullisque anchoris alligata, in medio mari quiescit, etsi forte aquæ ingens moles, occulto cursu delabens, ipsam secum ferat.
+
+Et quemadmodum cæteri Planetæ in hoc cum Terra conveniunt, quòd sint opaci & radios Solis reste&ant, | non imméritô arbitrabimur illos etiam in hoc ei similes eue, quòd unusquisque quiescat in eâ cœli regione in quâ versatur; quôdque omnis variatio fitûs quæ in illis observatur, ex eo tantùm procédât, quòd omnis materia cœli, quæ illos cont.inet, moveatur.
+
+Hîcque oportet eorum meminisse qua? de naturâ motûs suprà dict.a sunt a : nempe illum quidem (si propriè loquamur, & secundùm rei veritatem), esse tantùm translationem unius corporis ex viciniâ eorum corporum, quæ ipsum immédiate contingunt & tanquam quiefcentiafpect.antur, in viciniam aliorum. Sed sæpe etiam exufu vulgi actionem omnem, quâ corpus aliquod ex uno loco in alium migrât, motum vocari ; & hoc sensu dici posse, eandem rem eodem tempore moveri ac non moveri, prout ejus locum varié determinamus. Unde sequitur nullum in Terra, nec etiam in aliis Planetis, motum propriè dictum reperiri : quia non transferuntur ex viciniâ partium cœli quæ illos immédiate contingunt, quatenus istæ partes cœli ut immotse considerantur. Ad hoc enim deberent ab omnibus simul sejungi, quod non fit; sed quia materia cœli fluida est, nunc unæ ejus particulis, nunc aliæ, à Planetâ quem contingunt removentur, idque per motum qui illis tantùm tribui débet, non autem Planetæ :
+
+a. Pars II, art. xxv, p. 53-54-
+
+[p. 91] 8o8i.
+
+9 1
+
+quemadmodum partiales translationes aquæ & aëris, quæ in terræ superficie fiunt, non tribui solent ipsi terræ, sed il lis aquæ & aëris partibus quæ transferuntur. Motum autem sumendo juxta usum vulgi, dicendum quidem esl Planetas alios omnes moveri, nec non etiam Solem & Fixas; sed non, nifl admodum incongrue, idem de Terra dici potest. Vulgus enim à Terræ partibus, ut im|mobilibus spe&atis, Stellarum loca déterminât ; hasque eatenus moveri judicat, quatenus à locis ita determinatis recedunt : quod commodum esl ad usum vitæ, ideoque rationi confenta- neum. Quin etiam omnes ab ineunte ætate putavimus, Terram non esse globosam, sed planam, & in eâ esse i5 ubique idem sursum & idem deorsum, eosdemque mundi cardines, Orientem, Occidentem, Meridiem, & Septentrionem ; quibus idcirco usi sumus ad reliquorum omnium corporum loca designanda. Sed si quis Philosophus, animadvertens Terram esse globum in cœlo fluido & mobili contentum, Solem autem & Stellas fixas eundem semper inter se situm servare, his utatur ut immotis ad illius locum determinandum, & ideò affirmet ipsam moveri, absque ratione loquetur. Nam primo, juxta philosophicum sensum,
+
+2 5 locus determinari non débet per corpora valde remota, quales sunt Fixæ, sed per contigua ejus quod dicitur moveri. Ac deinde, juxta usum vulgi, non est cur Fixas confideret ut immotas, potiùs quàm Terram, nisi quod putet ultra ipsas non esse ulla alia corpora, à quibus separentur, & quorum respectu dici possint moveri, Terra autem quiescere, illo sensu quo
+
+xxix.
+
+Nullum etiam motum Terræ esse tribuendum, quamvis motus impropriè juxta usum vulgi Sumatur; sed tune reâè dici, alios Planetas moveri.
+
+[p. 92] 9 2
+
+Principiorum Philosophie 
+ 8i-8a. 
+ XXX. 
+ Planetas omnes circa Soient à cœlo deferri.
+
+XXXI. 
+ Quomodo fmguli Pla- nètes deferantur.
+
+dicit Terrain moveri respectu Fixarum. Atqui hoc 
+ putare à ratione est alienum : cùm enim mens nostra fit talis naturæ, ut nullos in mundo limites agnoscat, quisquis ad immensitatem Dei & sensuum nostrorum infirmitatem attendet, æquius esse judicabit suspicari, ultra illas omnes Stellas fixas quas videmus, forte esse alia corpora, ad quæ comparata Terra quiescere, ipsæ autem omnes simul moveri dici possint, quàm suspicari nulla posse talia esse.
+
+Sic itaque sublato omni scrupulo de Terra? motu, pute|mus totam materiam cœli in quâ Planetæ verfan- tur, in modum cujusdam vorticis, in cujus centro est Sol, affiduè gyrare, ac ejus partes Soli viciniores celeriùs moveri quàm remotiores, Planetafque omnes (è quorum numéro est Terra) inter easdem istius cœlestis materiæ partes semper versari. Ex quo solo, sine ullis machinamentis, omnia ipsorum phænomena sa- cillimè intelligentur. Ut enim in iis fluminum locis, in quibus aqua in se ipsam contorta vorticem facit, si variæ feftucæ illi aquæ incumbant, videbimus ipsas simul cum eâ deferri, & nonnullas etiam circa propria centra converti, & eô celeriùs integrum gyrum absolvere, quò centro vorticis erunt viciniores ; & denique, quamvis semper motus circulares affectent, vix tamen unquam circulos omnino perfectos describere, sed nonnihil in longitudinem & latitudinem aberrare : ita eadem omnia de Planetis absque ullâ difficultate possumus imaginari, & per hoc unum cunda eorum phænomena explicantur.
+
+Sit itaque S Sol, & omnis materia cœlestis eum circumjacens ita moveatur in easdem partes, nempe ab
+
+10 
+ iS 
+ 20 
+ 25 
+ 3o
+
+[p. 93] 8a-83. 
+95
+
+Occidente per Meridiem versùs Orientem, sive ab A per B versùs C, supponendo polum Borealem supra hujus figurée planum eminere : ut ea quæ est circa Saturnum, impendat ferè annos triginta ad eum per totum circulum T? deferendum ; ea vero quæ est circa Joio vem,intra annos 12 ( illum cum ejus as- sectis déférât per circulum y. ; sicque Mars duobus an-
+
+niSjTerracumLunâ
+
+uno anno, Venus o&o mensibus, & Mercurius tribus, circuitus suos in circulis c, T, è, $, materiâ cœli eos déférente, absolvant.
+
+| Nec non etiam corpora quædam opaca, perfpicillorum ope nobis conspicua, quæ dicuntur Solis maculée, ipsiusque fuperficiei contigua sunt, spatio viginti sex dierum eum circumeant.
+
+Ac præterea, ut sæpe in aquarum vorticibus vidi contingere, in majori illo cœlestis materiæ vortice sint alii minores vortices, unus in cujus centro sit Jupiter, alter in cujus centro sit Terra, qui in easdem partes ac major vortex ferantur ; & ille qui habet Jovem in centro, déférât circa ipsum quatuor ejus asseclas, tali celeritate, ut remotissimus diebus 16, sequens diebus 7, tertius horis 85, & centri proximus horis 42 unum circuitum perficiat; sicque, dum semel in raa-
+
+XXXII.
+
+Quomodo etiam Solis
+
+maculce.
+
+XXXIII. Quomodo etiam Terra circa proprium centrum, & Luna circa Terram vehatur.
+
+[p. 94]
+
+Principiorum Philosophle
+
+XXXIV.
+
+Motus cœlorum non effeperfeâè circulares.
+
+XXXV. De aberratione Planetarum in latitudinem.
+
+jori circulo circa Solem ferentur, minores suos circulos circa Jovem aliquoties percurrant. | Eodemque modo vortex, qui habet Terram in centro, efficiat ut Luna mensis spatio eam circumeat, ipsa autem Terra singulis diebus circa proprium axem integrum gyrum abfolvat ; ita ut eodem tempore quo Terra & Luna circulum communem semel peragrabunt, Terra }6$ vicibus circa proprium centrum, & Luna duodecies circa Terram vertatur.
+
+Denique, ne putemus omnia centra Planetarum accuratè in eodem piano semper consistere, nec circulos quos describunt esse omnino perfectos ; sed, ut in omnibus aliis rébus naturalibus contingere videmus, ista tantùm præterpropter talia esse, ac etiam labentibus fæculis continua mutari arbitremur.
+
+Nempe, û hæc figura repræsentet planum, in quo centrum Terræ toto anno versatur, quod vocatur planum Eclipticæ atque ope Fixarum in cœlo determinatur, putandum esl unumquemque ex aliis Planetis in alio quodam piano versari, ad hoc nonnihil incli- nato, &,ipsum interfecante in lineâ quæ transit per centrum Solis : ita ut Sol in omnibus istis planis reperiatur. Exempli causâ, orbita Saturni secat nunc Eclipticam in signis Cancri & Capricorni, supra ipsam autem attollitur, hoc est, versùs Boream inclinatur in Librâ, & infra eandem versùs Auftrum deprimitur in Ariete, angulufque ipsius inclinationis est circiter graduum 2 5. Sicque aliorum Planetarum orbitæ fecant Eclipticam in aliis locis ; sed inclinatio in Jove & Marte est minor, in Venere uno circiter gradu major, & in Mercurio maxima : est enim fere 7 graduum. Ac
+
+[p. 95] «4-S5.
+
+IO
+
+præterea etiam Solis maculse (saltem si verse sint obser- vationes Scheineri S. I. a , poftcujus diligentiam nihil circa ista|rum macularum phænomena desiderari posse videtur), in planis j gradibus aut ampliùs ad Eclipticam inclinatis, circa Solem volvuntur ; adeò ut earum motus hac in re non différât à motibus Planetarum. Luna etiam circa Terram fertur, in piano quod gradibus ab Eclipticâ deflectit ; & Terra circa proprium axem in piano iEquatoris 2}\ gradibus ab Eclipticâ defle- dente; quod planum ^îquatoris ipsa secum defert. Atque hæ Planetarum aberrationes ab Eclipticâ vocantur motus in latitudinem b .
+
+Ipsorum autem circuitiones circa Solem vocantur motus in longitudinem. Hique etiam in eo aberrant, quòd non æqualiter ubique à Sole distent; sed hac ætate, Saturnus ab eo remotior est in Sagittario quàm in Geminis, vicefimâ circiter distantiæ suæ parte; Jupiter in Librâ remotior est quàm in Ariete ; sicque alii Planetæ habent Aphelia & Perihelia sua aliis in locis c . Poil aliquot autem sæcula, hæc omnia mutata esse deprehendentur ; ac singuli Planetæ, nec non etiam Terra, planum in quo nunc est Eclipticâ, diversis in locis fecabunt, & paulo magis vel minus ab illâ défie- dent; & illorum maximæ ac minimse à Sole distantiæ in aliis signis reperientur d .
+
+Jam verô non opus est ut ostendam, quo pacto ex hac hypothesi sequantur phænomena diei & noctis, æftatis & hyemis, sive accefTûs Solis ad Tropicos, &
+
+a. Voir t. I, p. 1 1 5 et p. 283.
+
+b. Tome V, p. 386.
+
+c. Tome IV, p. 181, 1. 8. Voir ci-après, art. cxlii-cxlv.
+
+d. Tome V, p. 386.
+
+XXXVI. De motu in longitudinem.
+
+XXXVII. Phænomena omnia per hanc hy-pothefin sa- cillimè intelligi.
+
+[p. 96] Principiorum Philosophle
+
+XXXVIII. Juxta Tychonis hypothesin dicendum esse, Terrant movericirca proprium centrum.
+
+ejusdem receffûs, phasium Lunæ, Eclipfium, ftationum & retrogradationum quæ apparent in Planetis, præ- ceffionis sequino&iorum , variationis in obliquitate Eclipticæ, ac similia : facile enim ab illis, qui vel prima elementa Aftronomiee didicerunt, intelligentur 8 .
+
+Sed breviter adhuc dicam, quo pa&o ex hypothesi Bra|heanâ, quam vulgò sani admittunt illi omnes qui Copernicanam répudiant, plus motûs Terræ quàm per hanc tribuatur. Primo, manente Terra juxta eorum opinionem immobili, necesse est ut totum cœlum, unà cum stellis, circa ipsam singulis diebus volvatur: quod intelligi non potest, quin simul intelligatur fieri translationem omnium partium Terræ, ex viciniâ partium cœli quas tangunt in viciniam aliarum ; cùmque hæc translatio fit reciproca, ut suprà di£him est b , & eadem plané vis sive actio ad illam requiratur in Terra atque in cœlo, nulla ratio est cur, propter ipsam, cœlo potiùs quàmTerræ motum tribuamus. Quinimô, juxta fuperiùs dicta, Terræ duntaxat est tribuendus : quia fitfecundùm totam ejus superficiem, non autem eodem modo secundùm totam superficiem cœli, sed tantùm secundùm partem concavam, Terræ conti- guam, quæ ad convexam comparata perexigua est. Nec refert si dicant, se non tantùm putare concavam cœli ftellati superficiem à terra separari, sed simul etiam convexam ab alio cœlo illud ambiente, nempe à cœlo cryftallino vel Empyreo ; atque hanc esse rationem cur illum motum cœlo potiùs tribuant quàm terræ. Nullum enim haberi potest argumentum, quo
+
+a. Voir t. V, p. 386.
+
+b. Pars II, art. xxix, p. 55-56.
+
+[p. 97] 86-87.
+
+]5
+
+probetur fieri talem separationem totius fuperficiei convexæ cœli ftellati ab alio cœlo ipsum ambiente ; sed plané ex arbitrio illam fingunt. Atque ita, juxta ipsorum hypothesin, ratio cur motus sit terræ tribuendus, est certa &. evidens ; ratio verô cur illum cœlo tribuant, & Terræ quietem, est incerta & à solâ illorum imaginatione effi&a.
+
+Ex eâdem Tychonis hypothesi, Sol motu annuo circa Terram gyrans, non modo Mercurium & Venerem, sed j etiam Martem, Jovem & Saturnum, qui ab eo remotiores sunt quàm Terra, secum ducit : quod intelligi non potest, præsertim in cœlo fluido, quale illud supponunt, quin tota cœli materia interjacens simul feratur, & intérim Terra vi aliquâ separetur à partibus istius materiæ sibi contiguis, atque in eâ circulum describat. Quapropter hæc rursus separatio, quæ est totius Terræ, ac peculiarem in eâ aftionem requirit, ejus motus erit dicendus.
+
+Unus autem adhuc in meâ hypothesi scrupulus manet, ex eo quòd, si Sol eundem semper situm inter Fixas servet, necesse fit Terram, quæ circa illum fertur, ad ipsas accedere ac recedere toto suæ orbitæ inter- vallo : quod tamen ex phænomenis non potuit ha&e- nus deprehendi. Sed hoc excufatur per immensam distantiam, quam inter nos & Fixas esse supponimus; talem scilicet, ut totus ille circulus qui à Terra describitur circa Solem, si ad eam comparetur, inftarpundi fit habendus. Quod fateor incredibile videri posse, magnàlia Dei considerare non assuetis, & Terram ut præcipuam partem universi, ac domicilium hominis, propter quem cætera omnia facta sint, spe&antibus ;
+
+Œuvres. III. i3
+
+XXXIX.
+
+Ac etiam illam moveri circa Solem motu annuo.
+
+XL.
+
+Terres translationem nullam efficere afpe- âûs diverfetatem in Fixis, propter maximam ipsarum diftan- tiam.
+
+[p. 98] XLI. Hanc etiam Fixarum distantiam requiri ad motus Cometarum, quos jam confiât esse in cœlo.
+
+XLII. Omnia quæ kic in Terra videmus, ad phæ- notnena etiam pertinere, sed non opus esse. initio ad cunâa respicere.
+
+98 PRINCIPIORUM PHILOSOPHLE 87-88.
+
+sed Astronomis, qui jam omnes sciunt illam ad cœlum comparatam instar punfti esse, non ita mirum videri débet.
+
+Ac præterea Cometæ, quos jam satis confiât in nostro aëre non versari, ut nimis rudis antiquitas opinabatur, vastissimum iilud spatium inter sphæram Saturni & Fixas requirunt, ad omnes suas excurfiones abfolvendas : adeò enim varia? sunt, adeò immanes, & à Fixarum stabilitate atque à regulari Planetarum circa Solem circuitione adeò discrepantes, ut absque eo ad nullas nature leges revo|cari posse videantur. Neque nos movere débet quòd Tycho & alii Aftro- nomi, qui diligenter eorum parallaxes inveftigârunt, dixerint tantùm illos esse supra Lunam, versùs sphæram Veneris aut Mercurii, non autem supra ipsum i5 Saturnum : hoc enim non minus rectè ex suis calculis concludere potuissent, quàm illud. Sed cùm disputa- rent contra veteres, qui Cometas inter meteora fublu- naria numerabant, contenti fuerunt ostendere illos in cœlo esse ; nec ausi sunt omnem altitudinem, quam calculo deprehendebant, iis tribuere, ne minus facile crederetur.
+
+Prêter haïe autem generaliora, possent adhuc parti- cularia multa, non modo circa Solem, Planetas, Cometas & Fixas, sed præcipuè etiam circa Terram (nempe 2 5 illa omnia quæ in ejus superficie videmus), inter phænomena hîc recenferi. Ut enim veram hujus mundi afpeétabilis naturam agnofcamus, non satis est aliquas causas invenire, per quas ea quæ in cœlo eminus afpicimus explicentur ; sed ex iisdem etiam, illa omnia 3o quæ in Terra cominus intuemur, deduci debent. Atqui
+
+[p. 99] 88-8g.
+
+IO
+
+non opus est, ut illa omnia consideremus ad rerum generaliorum causas determinandas ; sed tum demum ipsas postea re&è à nobis determinatas fuisse cognosce- mus, cùm ex iisdem non ea dumtaxat ad quæ respexi- mus, sed alia etiam omnia, de quibus antea non cogi- tavimus, explicari advertemus.
+
+Et certè, si nullis principiis utamur nisi evidentiffimè perfpecî.is, si nihil nisi per Mathematicas consequen- tias ex iis deducamus, & intérim illa quæ sie ex ipsis deducemus, cum omnibus naturæ phænomenis accuratè consentiant, injuriam Deo facere videremur, si causas rerum, hoc pa&o à nobis inventas, falsas esse fufpicaremur, tanquam si nos | tam imperfectos ge- nuiflet, ut ratione nostrâ reftè utendo fallamur.
+
+Verumtamen, ne etiam nimis arrogantes esse videamur, si de tantis rébus philosophando, genuinam earum veritatem à nobis inventam esse affirmemus, malim hoc in medio relinquere, atque omnia qua? deinceps sum scripturus tanquam hypothesin propo- nere. Quæ quamvis falsa esse existimetur, satis magnum operæ pretium me fecisse arbitrabor, si omnia quaî ex ipsâ deducenturcum experimentis consentiant: ita enim ex eâ tantundem utilitatis ad vitam, atque ex ipsius veritatis cognitione, percipiemus.
+
+Quinimô etiam, ad res naturales meliùs explicandas, earum causas altiùs hîc repetam, quàm ipsas unquam extitisse existimem. Non enim dubium est, quin mundus ab initio fuerit creatus cum omni suâ perfectione* : ita ut in eo & Sol & Terra & Luna, & Stellæ extiterint ; ac etiam in Terra non tantùm fuerint
+
+XLIII. Vix fieri posse quin caûjce, ex quibus omnia phcenomenaclarè deducuntur, Sint vc- rœ.
+
+XLIV.
+
+Me tamen eas, quas hîc exponam, pro hypo- thefebus tantùm haberi velle.
+
+XLV. Meque etiam hîc nonnullas affumpturum, quas confiât falsas esse.
+
+a. Voir t. V, p. 168-169.
+
+[p. 100] IOO
+
+Principiorum Philosophle
+
+XLVI. Qucenam sint ea, quce hic affumo ai yhœ- nomena omnia explicanda.
+
+semina plantarum, sed ipsæ plantæ ; nec Adam & Eva nati sint infantes, sed facti sint homines adulti. Hoc fides Christiana nos docet, hocque etiam ratio naturalis plané persuadet. Attendendo enim ad immensam Dei potentiam, non possumus existimare illum unquam quidquam fecisse, quod non omnibus suis nu- meris fuerit absolutum. Sed nihilominus, ut ad plantarum vel hominum naturas intelligendas, longé me- lius est considerare, quo pado paulatim ex seminibus nasci possint, quàm quo pado à Deo in prima mundi origine creati sint : ita, si quæ principia possimus excogitare, valde simplicia & cognitu facilia, ex quibus tanquam ex seminibus quibusdam, & sidera &Terram, & denique omnia quse in | hoc mundo afpeftabili deprehendimus, oriri potuisse demonstremus, quamvis ipsa nunquam sie orta esse probe sciamus, hoc pado tamen eorum naturam longé meliùs exponemus, quàm si tantùm, qualia jam sint, deferiberemus . Et quia talia principia mihi videor invenisse, ipsa breviter hîc exponam.
+
+Ex antedictis 3 jam confiât, omnium mundi corporum unam & eandem esse materiam, in quaslibet partes divisibilem, ac jam reipsa in multas divifam, quse diversimodè moventur, motusque habent aliquo modo circulares b , & semper eandem motuum quantitatem in universo conservant. At quàm magnæ sint istæ partes materiæ, quàm celeriter moveantur, & quales circulos describant, non possumus solâ ratione
+
+iS
+
+a. Pars II, art. iv, xx, xxii-iii, xxxni, xxxvi et il, p. 42, 5i, 52-3, 58-9, 61 et 65.
+
+b. Voir t. V, p. 170.
+
+[p. 101] 90-9 1.
+
+ioi
+
+.5
+
+determinare : quia potuerunt ista innumeris modis diversis à Deo temperari, & quemnam præ cæteris ele- gerit, sola experientia docere débet. Jamque idcirco nobis liberum est, quidlibet de illis assumere, modo
+
+5 omnia, quæ ex ipso consequentur, cum experientia consentiant. Itaque; si placet, fupponemus omnem illam materiam, ex quâ hic mundus adfpe&abilis est compositus, fuisse initio à Deo divifam in particulas quam-proximè inter se æquales, & magnitudine médiocres 3 , sive médias inter illas omnes, ex quibus jam cœli atque astra componuntur ; easque omnes tantundem motûs in se habuisse, quantum jam in mundo reperitur ; & æqualiter fuisse motas, tum singulas circa propria sua centra, & separatim à se mutuò, ita ut corpus fluidum componerent, quale cœlum esse putamus ; tum etiam plures simul, circa alia quædam puncta b æquè à se mutuò remota, & eodem modo disposita ac jam sunt centra Fixarum ; nec non etiam circa | alia aliquantô plura, quæ æquent numerum.
+
+ao Planetarum. Ita scilicet ut illas omnes, quæ continebantur in spatio AEI C , verterentur circa pun&um S, & quæ continebantur in spatio AEV, circa F, & ita de cæteris : sicque tôt varios vortices componerent, quot jam astra sunt in mundo d .
+
+Quæ pauca sufficere mihi videntur, ut ex iis tanquam causis omnes qui in hoc mundo apparent esse- étus secundùm leges naturæ suprà expositas e oriantur.
+
+a. Voir t. V, p. 170.
+
+b. Ibidem.
+
+c. En marge (édit. princeps) : « Vide fig. pag. seq. », c'est-à-dire p. 92.
+
+d. Pars IV, art. ccvi.
+
+e. Pars II, art. xxxvii, xxxix et xl ci-avant, p. 62, 63 et 65.
+
+XLVII. Harum fuppofitionum fal/itatem non impe dire, quominùi ea quee ex ipsis deducentur,
+
+[p. 102]
+
+Principiorum Philosophie
+
+91.
+
+vera e Jfe pojfint.
+
+& cena Et non puto alia simpliciora, vel intelle&u faciliora, vel etiam probabiliora rerum principia posse excogitari. Etsi enim forte etiam ex Chao per leges naturæ idem ille ordo qui jam esl in rébus deduci posset, idque olim fufceperim explicandum a : quia tamen 5
+
+a. Voir t. VI, p. 41, 1. 21, etc.
+
+[p. 103] 9 :-93.
+
+confusio minus videtur convenire cum summâ Dei rerum creatoris perfectione, quàra proportio vel ordo, & minus distinctè etiam à nobis percipi potest, nul- laque proportio, nullufve ordo simplicior est, & cognitu facilior, quàm ille qui confiât omnimodâ æqua- litate : idcirco hîc suppono omnes materiæ particulas initio fuisse, tam in magnitudine quàm in motu, inter se æquales, & nullam in universo inæqualitatem re- linquo, præter illam quæ est in situ Fixarum, & quæ unicuique cœlum noctu intuenti tam clarè apparet, ut negari plané non possit. Atque omnino parum refert, quid hoc pa&o supponatur, quia postea juxta leges naturæ est mutandum. Et vix aliquid supponi potest, ex quo non idem effectus (quanquam fortasse operofiùs) per easdem naturæ leges deduci possit : cùm enim illarum ope materia formas omnes quarum est capax, successivè assumat, si formas istas ordine con- fideremus, tandem ad illam quæ est hujus mundi po|terimus devenire : adeô ut hîc nihil erroris ex falfâ suppositione fit timendum.
+
+Itaque, ut naturæ legum efficacitatem in propositâ hypothesi ostendere incipiamus, considerandum est illas particulas, in quas totam hujus mundi materiam initio divifam fuisse supponimus, non potuisse quidem initio effe fphæricas, quia plures globuli, simul juncti, spatium continuum non replent ; sed cujuscunque figuræ tune fuerint, eas non potuisse successu temporis non fieri rotundas, quandoquidem varios habuerunt motus circulares. Cùm enim in principio satis magnâ vi motæ fuerint, ut unæ ab aliis fejungerentur, eadem illa vis perseverans, haud dubiè satis magna
+
+XLVIII. Quomodo omnes cœle- Jlis materiæ particules faâcc sint fphœri- cœ.
+
+[p. 104] io4
+
+PRiNCIPIORUM PhILOSOPHLE
+
+XLIX.
+
+Circa istas particulas Jphœricas aliam esse
+
+etiam fuit, ad earum omnes angulos, dum sibi mutuò postea occurrerunt, atterendos : ad hoc enim non tanta, quàm ad illud, requirebatur. Et ex hoc solo, quôd alicujus corporis anguli sie atterantur, facile intelligimus illud tandem fieri rotundum : quia hoc in loco nomen anguli ad omne id, quod in tali corpore ultra figuram fphæricam prominet, est extendendum.
+
+Cùm autem nullibi spatia omni corpore vacua esse possint, cùmque rotundæ illæ matériau particulæ, à morem ateriam ^ b simul jun&æ, perexigua quædam intervalla circa se relinquant : necesse est ista intervalla quibusdam aliis materiæ ramentis minutissimis , figuras ad ipsa implenda aptas habentibus, easque pro ratione loci occupandi perpétué mutantibus, impleri. Nempe, dum earum materiæ particularum, quæ fiunt rotundæ, anguli paulatim atterantur, id quod ex ipsis eraditur adeô est minutum, & tantam céleri tatem acquirit, ut solâ vi sui motûs in ramenta innumerabilia divida|tur; sicque impleat omnes angulos, quos aliæ materiæ particulæ fubingredi non possunt.
+
+Notandum enim est, quô minora sunt ista particularum aliarum ramenta, eô faciliùs moveri, atque in alia adhuc minutiora comminui posse : quia quô minora a , eô plus habent fuperficiei b , pro ratione suæ molis : & occurrunt aliis corporibus secundùm superficiem, dividuntur verò secundùm molem c .
+
+Notandum etiam est ipsa multò celeriùs agitari, quàm alias materiæ particulas, à quibus tamen suam
+
+Hujusfubtilioris materiæ particulas facii- limè dividi.
+
+LI.
+
+Easdem celerrimè
+
+moveri.
+
+a. Voir t. V, p. 171.
+
+b. Ibid., p. 173.
+
+c . Ibid., p. 171.
+
+[p. 105] 94-9*- Pars Tertia. 105
+
+agitationem acquirunt : quia, dum hæ per re&as & patentes vias feruntur, expellunt ista per obliquas & anguftas. Eâdem ratione, quâ videmus ex folle, quamvis lente claudatur, aërem tamen valde celeriter egredi, propter angustiam viæ per quam transit. Jamque suprà demonstratum est, aliquam materiæ portionem celerrimè moveri, ac in partes reipsa indefinitas dividi debere, ut varii motus circulares & inæquales sine rarefaftione vel vacuo fieri possint ; nec ulla ab'a, præter hanc, ad id apta reperitur.
+
+Jam itaque duo habemus gênera materiae valde di- LIL
+
+-. * - . - . . , . y a Tria e ff e nu J us »"»t<ii
+
+verla, quæ duo prima elementa hujus mundi alpecta- a/peâabiUs elementa. bilis dici possunt. Primum est illius, quæ tantam vim habet agitationis, ut aliis corporibus occurrendo, in i5 minutias indefinitæ parvitatis dividatur, & figuras suas ad omnes angulorum ab iis relidorum angustias implendas accommodet. Alterum est ejus, quæ divisa est in particulas fphæricas, valde quidem minutas, si cum iis corporibus, quæ oculis cernere possumus, ao comparentur ; sed tamen certæ ac determinatæ quantitatis, & divisibiles in alias multò minores. Ter- tiumque paulò post inveniemus, constans par|tibus vel magis crafiis, vel figuras minus ad motum aptas habentibus. Et ex his tribus omnia hujus mundi aspectabilis corpora componi ostendemus : nempe Solem & Stellas fixas ex primo, Cælos ex secundo, & Terrain cum Planetis & Cometis ex tertio. Cùm enim Sol & Fixæ lumen ex se emittant, Coeli illud tranfmit- tant, Terra, Planetæ, ac Cometæ remittant: triplicem
+
+3o hanc differentiam in aspectum incurrentem, non malè ad tria elementa referemus.
+
+[p. 106] io6
+
+Principiorum Philosophie
+
+95.
+
+Non malè etiam omnem materiam, in spatio A El
+
+cœlo fumemus; & omnem illam, quæ circa centra F, s, innumerabiles alios vortices componit, pro secundo
+
+a. En marge (édit. princeps) : « NB. Vide fig. pag. i'eq. », c'est-à-dire p. 96.
+
+[p. 107] gs-97- Pars Tertia. 107
+
+; & denique quidquid ultra illos duos cælos reperitur, pro tertio*. Exiltimamufque hoc tertium, respectu fecundi, esse immensum, & secundum, respe&u primi, permagnum. Sed tertii cœli consideratio non elt hujus loci : quia nullo modo à nobis spectari potest in hac vitâ, & de mundo tantùm aspectabili tractamus. Vortices autem, quorum centra ¥,/, omnes simul pro uno tantùm cœlo numeramus, quia sub unâ & eâdem ratione à nobis considerantur ; sed vorticem
+
+S, licèt hîc non appareat ab aliis diversus, pro peculiari tamen cœlo, & quidem omnium primo, sumimus : quiaTerram habitationem nostram paulò pòst b in illo inveniemus, ideòque multò plura in ipso habebimus spectanda quàm in reliquis, & nomina rébus, non propter ipsas, sed tantùm ad nostras de iis cogitationes explicandas, imponere solemus.
+
+Crevit autem c initio paulatim materia primi ele- LIV -
+
+,« , y j'/tj r Quomodo Sol & Fixa:
+
+menti, ex eo quod particule lecundi alliduo motu le ^ formata sint. invicem | magis ac magis attererent; cùmque major ejus quantitas fuit in universo, quàm necesse erat ad implenda exigua illa spatia, quæ inter particulas fphsericas fecundi elementi sibi mutuò incumbentes reperiuntur, quidquid ex eâ residui fuit, poltquam spatia ista impleta sunt, ad centra S, F, s, confluxit ; a5 ibique corpora quædam sphærica fluidiffima compo- fuit : nempe Solem in centro S, ac Stellas fixas in aliis centris. Poltquam enim particulæ fecundi elementi fuerunt magis attritæ, minus spatii occupâ-
+
+a. Voir t. V, p. 171.
+
+b. Art. cxlvi.
+
+c. Voir t. IV, p. 454-455.
+
+[p. 108] io8
+
+PrINCIPIORUM PHILOSOPHIE
+
+LV.
+
+Quidfit lux.
+
+LVI.
+
+runt quàm priùs, nec ideò ad centra usque se exten- derunt, sed ab iis æqualiter omni ex parte recedentes, loca ibi fphserica reliquerunt, à materiâ primi elementi, ex omnibus circumjacentibus locis eô affluente, replenda.
+
+Ea enim est lex nature 3 , ut corpora omnia quæ in orbem aguntur, quantum in se est, à centris sui motûs recédant. Atque hîc illam vim, quâ ficglobuli fecundi elementi, nec non etiam materia primi circa centra S, F, congregata, recedere conantur ab istis centris, quàm potero accuratiffimè explicabo. In eâ enim solâ lucem consistere infrà ostendetur b ; & ab ipsius cognitione multa alia dépendent.
+
+Cùm dico globulos fecundi elementi recedere co-
+
+Quisconalus admotum .... 1 n in rébus inanimatis nan a centris circa quæ vertuntur, non putandum est sit mteihgendus. iâ* c i rco me illis aliquam cogitationem affingere, ex quâ procédât iste conatus; sed tantùm ipsos ita esse fitos, & ad motum incitatos, ut rêvera sint eô versùs ituri, Il à nullâ aliâ causâ impediantur. LVH - Quia verò fréquenter multæ causæ diversæ agunt
+
+Quomodo in eodem cor- r - . . . , • ~.
+
+pore conatus ad di- iimul in idem corpus , atque unæ aharum etrectus Ijfepoffint" 3 Simul impediunt, prout ad has vel illas respicimus, dicere polTumus | ipsum eodem tempore tendere, sive ire conari, versùs diversas partes. Ut, exempli causâ, lapis A, in fundâ EA, circa centrum E rotatus, tendit quidem ab A versùs B, Il omnes causæ, quæ occurrunt ad ejus motum determinandum, simul spectentur, quia rêvera eô versùs fertur. Sed si respiciamus ad solam vim motûs quæ in ipso est, dicemus illum, cùm est in
+
+a. Pars II, art. xxnx, p. 63.
+
+b. Par» IV, art. xxvm.
+
+[p. 109] 98-99- Pars Tertia. 109
+
+puncto A, tendere versùs C, juxta legem motûs suprà expositam: ponentes scilicet lineam AC esse rectam, quæ tangit circulum in puncto A a. Si enim lapis è sundâ egrederetur, eo temporis momento, quo veniendo ex L pervenit ad punctum A, rêvera pergeret ab A versùs C, non versùs B; ac quamvis funda hunc effectum impediat, non tamen impedit conatum. Si denique non respiciamus ad totam istam vim motûs, sed tantùm ad illam | ejus partem quæ à sundâ impeditur, eam scilicet distinguentes ab aliâ ejus parte quæ sortitur suum effectum, dicemus hunc lapidem, dum est in puncto A, tendere tantùm versùs D, sive recedere conari à centro E secundùm lineam rectam EAD.
+
+Quod ut clarè intelligatur, conferamus motum quo lapis, in puncto A existens, ferretur versùs C, si à nullâ aliâ vi impediretur, cum motu quo formica, in eodem
+
+a. Pars II, art. xxxix, p. 63.
+
+LVIII. Quomodo ea que circulariter moventur, conentur recedere à centro sui motûs.
+
+[p. 110]
+
+Principiorum Philosophie 99-
+
+puncto A existens, moveretur etiam versùs C, si linea EY esset baculus, supra quem rectà incederet ab A
+
+versus Y, dum interim ipse baculus verteretur circa centrum E, ac ejusdem baculi punctum A describeret circulum ABS, essentque hi duo motus ita inter se contemperati, ut formica perveniret ad X cùm bacu
+
+[p. 111] 99-101.
+
+## Pars Tertia.
+
+lus esset in C, & ad Y cùm baculus esset in G, atque ita ipsa semper existeret in lineâ rectâ ACG. Ac deinde conferamus etiam eam vim, quâ | idem lapis, actus in sundâ secundùm lineam circularem ABS, recedere conatur à centro E, secundùm lineas rectas AD, BC, FG, cum conatu qui remaneret in formica, si vinculo vel glutino aliquo detineretur in puncto A supra baculum EY, dum interim iste baculus eam deferret circa centrum E per lineam circularem ABS; ac ipsa totis viribus conaretur ire versùs Y, atque ita recedere à centro E secundùm lineas rectas EAY, EBY, & similes.
+
+Scio quidem motum istius formicæ fore initio tardissimum, atque ideò ejus conatum, si tantùm ad principium | motûs referatur, non videri magnum esse posse: atqui profectò non plané nullus est, & dum fortitur effectum, augetur, adeo ut motus ex eo proveniens satis celer esse possit. Nam, ut adhuc alio utamur exemplo, si EY sit canalis, in quo globulus A contineatur, primo quidem temporis momento, quo iste canalis agetur in gyrum circa centrum E, globulus A motu tantùm tardissimo progredietur versus Y; sed secundo momento paulò celeriùs incedet: priorem enim vim retinebit, ac præterea novam acquiret à novo conatu recedendi à centro E: quia, quandiu durat motus circularis, tamdiu ille conatus durat, & quasi renovatur singulis momentis. Atque hoc experientia confirmat: si enim
+
+[p. 112]
+
+Principiorum Philosophie
+
+LX. Hune conatum reperiri in materiâ cœlorum.
+
+LXI. Ipsum efficere, ut corpora Solis & Fixa- rumfint rotunda.
+
+canalis EY valde celeriter agatur circa centrum E, brevi globulus, in eo existens, ab A ad Y perveniet. Idemque etiam experimur in fundâ : quò celeriùs enim lapis in eâ rotatur, eô magis funis intenditur ; atque ista tenfio, à solâ vi quâ lapis recedere conatur à centro sui motûs exorta, exhibet nobis istius vis quantitatem.
+
+Quod verò hîc de lapide in fundâ, vel de globulo in canali circa centrum E rotato, diftum est, facile intelligitur eodem modo de omnibus globulis fecundi elementi : quòd nempe unusquisque satis magnâ vi recedere conetur à centro vorticis in quo gyratur : retinetur enim hinc inde ab aliis globulis circumpo- sitis, non aliter quàm lapis à fundâ. Sed præterea ista vis in illis multùm augetur, ex | eo quòd superiores ab inferioribus, & omnes simul à materiâ primi elementi, in centro cujusque vorticis congregatâ, premantur. Ac primo quidem, ut accuratè omnia distinguantur, de solis istis globulis hîc agemus ; nec ad materiam primi elementi magis attendemus, quàm si spatia omnia, quæ ab illâ occupantur, vacua essent, hoc est, quàm si plena essent materiâ, quæ aliorum corporum motus nullo modo juvaret, nec impediret. Nullam enim aliam esse posse spatii vacui veram ideam, ex antedictis 3 est manifestum.
+
+Cùm globuli omnes qui volvuntur circa S, in vortice AEI, conentur recedere ab S, ut jam demonstratum est b , satis patet illos, qui sunt in lineâ rectâ SA, premere se mutuò omnes versùs A ; & illos, qui sunt
+
+a. Pars II, art. xvn, p. 49.
+
+b. Art. liv ci-avant, p. 107-108.
+
+[p. 113] 102-103.
+
+"J
+
+in lineâ re&â SE, premere se versus E, atque ita de cæteris : adeò ut, si non sint satis multi ad occupandum omne spatium inter S & circumferentiam A El, totum quod non occupant, relinqua- ,.,.......,......,,. ,.,.....,.,..
+
+tur versus S. Et quoniam ii qui sibi mutuô incumbunt (exempli causa, ii qui sunt in lineâ rectâ S E) , non omnes instar baculi simul vertuntur, sed uni
+
+m
+
+10 citiùs, alii tardiùs circuitum : : ; suum absolvunt, ut infrà fufiùs exponetur 8 , spatium quod relinquunt versus S, non potest non eue rotundum. Etsi enim i5 fingeremus plures globulos initio fuisse in lineâ re&â SE, | quàm in SA vel SI, adeò ut infimi lineæ SE viciniores essent centro S, quàm infimi lineæ SI : quia tamen infimi illi citiùs circuitum abfolviffent quàm superiores, nonnulli ex ipsis adjunxifTent se statim extremitati lineæ SI, ut sie tantô magis recédèrent ab S ; ideôque nunc omnes infimi istarum linearum æqualiter remoti sunt à puncto S, & ita spatium BCD, quod circa illud relinquunt, est rotundum.
+
+Præterea notandum est, non modo globulos omnes
+
+2 5 qui sunt in lineâ rectâ SE, se invicem premere versus E ; sed etiam unumquemque ex ipsis premi ab omnibus aliis, qui continentur inter lineas rectas ab illo ad circumferentiam BCD dudas, & ipsam tangentes. Ita, exempli causâ, globulus F premitur ab omnibus
+
+3o aliis, qui sunt intra lineas BF & DF, sive in spatio
+
+a. Art. lxxxiii et lxxxiv. LXII. Eundem efficere, ut materia cœlestis ab omnibus punâis circum- f,erentia> cujusque stella? vel Solis recedere conetur.
+
+iS
+
+[p. 114] LXIII.
+
+Globulos materiæ cœlestis Je muluà non impedire in ijlo conatu.
+
+Principiorum Philosophle
+
+triangulari BFD, non autem sie à reliquis : adeò ut, si locus F effet vacuus, uno & eodem temporis mo- % mento, globuli omnes in spatio BFD contenti accédèrent, } ; : , quantum possent, ad illum replendum, non autem ulli alii. : ^:-v Nam, quemadmodum videmus ean dem Yim gravitatis, quæ la-
+
+ï:':-
+
+⟦?⟧⟦?⟧w
+
+contentos, & sibi mutuò sie incumbentes, ut, fora- mine fafto in fundo vasis F, globus 1 vi gravitatis suæ descendat ; simul enim alii duo 2,2, illum sequentur, & hos fubfequentur alii très j , 2,0, j , & sie de cæteris ; ita ut eodem temporis momento, quo infimus 1 incipiet moveri , alii omnes, in spatio triangulari BFD
+
+:!):: pidem in libero aëre cadentem rectâ ducit ad centrum terræ, : : ; illum etiam obliqué eo déferre,
+
+r:':'.> : :'-.\ : -':::V^V-V .•-;.;•:;■'• cùm impeditur eius motus rectus a plani alicujus declivi- tate : ita non dubium est quin eadem vis, quâ globuli omnes in spatio BFD contenti recedere conantur à centro S secundùm lineas rectas ab illo centro edu&as, fufîiciat ad ipsos etiam inde removendos, per lineas à centro isto déclinantes.
+
+j Hocque exemplum gravitatis rem apertè declara- bit, si consideremus globos plumbeos in vase BFD 20
+
+[p. 115] I04-io5.
+
+"5
+
+contenti, simul descendant, reliquis immotis. Ubi quidem notare licet duos globos 2,2, postquam aliquantulum sequuti sunt globum 1 descendentem, se mutuò impedire ne ulteriùs pergant. Sed idem in globulis fecundi elementi locum non habet : cùm enim in perpetuo sint motu, quamvis aliquando possit contingere, ut eodem plané modo sint dispositi ac globi plumbei in hac figura depicïi, hoc non nisi per minimum temporis punétùm, quod instans vocant, durare potest, & ideò continuitatem earum motûs non interrumpit. Ac præterea notandum est vim luminis, non in aliquâ motûs duratione consistere, sed tantummodo in pres- fione a sive in prima præparatione ad motum, etsi forte ex eâ motus ipse non sequatur.
+
+Exquibus clarè percipitur, quo pacto actio illa, quam pro luce accipio, à Solis vel cujuslibet Stella; fixse corpore in omnes partes æqualiter se diffundat ; & in minimo tem|poris momento ad quamlibet diftan- tiam extendatur ; & id quidemfecundùm lineas re&as, non à solo corporis lucidi centro, sed etiam à quibuslibet aliis ejus fuperficiei punctis eductas. Unde reliquæ omnes lucis proprietates deduci possunt. Quodque forte multis paradoxum videbitur, hæc omnia ita se haberent in materiâ cælefti, etiamsi nulla plané effet vis in Sole, aliove aftro circa quod gyratur : adeò ut, û corpus Solis nihil aliud effet quàm spatium vacuum, nihilominus ejus lumen, non quidem tam forte, sed quantum ad reliqua, non aliter quàm nunc cerneremus, saltem in circulo secundùm quem ma- 3o teria cœli movetur ; nondum enim hîc omnes sphæræ
+
+a. Voir t. V, p. 172.
+
+LXIV.
+
+Omnes lucis proprietates in ijlo conatu inveniri : adeò ut lux ejus ope cerni posset tanquam ex stellis manans, etsi nulla vis effet in ipsis Stellis.
+
+[p. 116] n6 JPrincipiorum Philosophie ios.
+
+dimensiones consideramus. Ut autem etiam possimus explicare, quidnam sit in ipso Sole ac Stellis, quo ista vis luminis augeatur & secundùm omnes fphseræ dimensiones diffundatur, nonnulla de cœlorum motu sunt præmittenda. 5
+
+cuju/qu^ticucœio. Quâcunque ratione moti fuerint ab initio singuli
+
+[p. 117] I05-I07
+
+eorum vortices, jam debent esse ita inter se compo- siti, ut unusquisque in eam partem feratur, secundùm quam reliquorum omnium circumstantium motus minus illi adversantur : quia taies sunt leges naturæ 3 , ut motus cujusque corporis alterius occurfu facile possit infledi. Quamobrem si ponamus primum vorticem, cujus centrum S, ferri ab A per E versus I, alius vortex ei vicinus, cujus centrum F, ferri débet ab A per E versus V, si nulli alii circumjacentes impediant : sie enim eorum motus optimè inter se consentient. Eodemque modo tertius vortex, cujus centrum non sit in piano SAFE, sed supra illud extans, cum centris S & F triangulum constituat, & qui duobus aliis vorticibus AEI & AEV in lineâ AE junga|tur b , ferri débet ab A per E sursum versus. Quo posito quartus vortex, cujus centrum s, ferri non potest ab E versus I,ut ejus motus conveniat cum motu primi, quia sie adversa- retur motibus fecundi & tertii ; nec ab E versus V, quemadmodum fecundus, quia repugnarent primus & tertius; nec denique ab E sursum versus, ut tertius, quia repugnarent primus & fecundus : atque ideò su- pereft, ut unum ex polis suis habeat versus E, alium- que in parte oppositâ versus B, vertaturque circa axem EB, ab I ad V.
+
+Atque hîc etiam notari débet, nonnihil adhuc con- trarietatis in istis motibus fore, si trium priorum vorticum eclipticæ, hoc est, circuli à polis remotissimi, sibi mutuò directe occurrant in puncto E, in quo sit polus quarti vorticis. Nam si, exempli çaufâ, rum polos, tangere partes aliorum vorticum ab eorum polis remotas.
+
+LXVI.
+
+Motus istorum vorticum aliquo modo in- fleûi, ut inter se con- Sentiant.
+
+a. Pars II, art. xl, p. 65.
+
+b. La page 106 de l'édition princeps est remplie par la figure.
+
+[p. 118] u8
+
+Principiorum Philosophie
+
+LXVII. Duorum vorticum polos Je mutuo tangere non posse.
+
+IVX a sit illa ejus pars, quæ est circa polum E, verti- turque in orbem secundùm ordinem notarum IVX, primus vortex radet illam secundùm lineam rectam El, aliasque ipsi parallelas, & fecundus vortex eandem radet secundùm lineam EV, & tertius secundùm lineam EX, quâ ratione motui ejus circulari nonnihil repugnabunt. Sed hoc facile natura per leges motûs emendat, trium priorum vorticum eclipticas nonnihil infle- étendo in eam partem, secundùm quam vertitur quartus IVX; quo fit ut illi postea ipsum radant, non secundùm lineas re&as | El, EV, EX, sed secundùm obliquas il, 2V, }X, & ita cum ipsius motu plané consentiant.
+
+Nec fané ullus mihi videtur excogitari poffe alius modus, secundùm quem variorum istorum vorticum motus sibi mutuò minus adversentur. Si enim duorum polos se mutuò tangere supponamus, vel ambo in easdem partes ferentur, & ita in unum vorticem coalef- cent; vel in contrarias, & ita sibi mutuò quammaximè repugnabunt. Atque ideò, quamvis non tantum mihi afTumam, ut omnium cœli vorticum situs & motus ausim determinare, puto tamen generaliter poste affir- mari, atque hîc satis esse demonstratum, polos cujusque vorticis non tam vicinos este polis aliorum vorticum
+
+a. Voir t. V, p. 172. — Voir aussi t. IX, p. 137, note d, de la traduction française des Principes, et p. 354, errata. Conformément à ces indications, les deux figures de l'édition princeps ont été complétées ici, comme dans la planche VI, fig. 4 et 5, de la traduction française.
+
+[p. 119] io8-iog.
+
+i ii
+
+contiguorum, quàm partibus ab ipsorum polis valde remotis.
+
+Præterea, inexplicabilis illa varietas quæ apparet in situ Fixarum, plané ostendere videtur, illos vortices qui circa ipsas volvuntur, non esse inter se æquales a . Quòd autem nulla Stella fixa esse possit, nili in centro alicujus talis vorticis, ex ipsarum luce judico esse manifestum : lucem enim accuratiffimè per taies vortices, ac sine illis nullâ aliâ ratione, posse explicari, partim io ex jam did:is b , partim ex infrà dicendis patebit. Et cùm nihil plané aliud in Fixis sensu percipiamus , præter ipsarum lucem & apparentem situm, nullam habemus rationem aliud iis tribuendi, quàm quod ad hæc duo explicanda requiri judicamus. At non magis requiri tur ad lucem explicandam, ut vortices materiæ cœlestis circa ipsas volvantur, quàm ad apparentem earum situm, ut isti vortices sint magnitudine inæquales. Sed fané si sint inæquales, necesse est, ut quorundam partes à polis remotæ tangant aliorum partes polis vicinas : | quia majorum & minorum similes partes ad invicem applicari non possunt.
+
+Ex his autem cognosci potest, materiam primi démenti fluere continua versus centrum cujusque vorticis, ex aliis circumjacentibus vorticibus, per partes
+
+2 5 ejus polis vicinas; ac vice versâ, ex ipso in alios circumjacentes vortices efîluere, per partes ab ejusdem polis remotas. Nam si ponamus, exempli causâ,
+
+27 En marge (/" édit.) : NB. Vide fig. pag. seq.
+
+a. Voir t. V, p. 172.
+
+b. Art. lvh, lviii et suiv., p. 73, j5, etc.
+
+c. Art. cxxx et cxxxii.
+
+LXVIII.
+
+Vortices ijlos esse magnitudine inæquales.
+
+LXIX.
+
+Materiam primi elementi ex polis cujusque vorticis Fluere versus centrum, & ex centro versus alias partes.
+
+[p. 120] AYBM esse vorticem primi cœli, in cujus centro est Sol, ejusque polos esse A auftralem, & B borealem,
+
+-/^^.V^^^v::^^^:^
+
+•'•■!?.•• i
+
+circa quos totus gyrat; quatuorque circumjacentes vortices K,0,L,C, gyrare circa axes TT, Y Y, ZZ, &
+
+[p. 121] 1 09-M i
+
+Pars Tertia. 121
+
+MM, ita ut ille tangat duos O & C in ipsorum polis, & alios duos K & L in partibus ab eorum polis valde remotis : patet ex antedi&is a , omnem ejus materiam recedere conari ab axe AB, atque ideò majori vi tendere versus partes Y & M, quàm versus A & B. Cùmque in Y & M occurrat polis vorticum O & C, in quibus non magna est vis ad ei resistendum ; & in A & B occurrat partibus vorticum K & L, quæ ab eorum polis sunt remotiffimæ, ac proinde majorem habent vim ad eundum ab L & K versus S, quàm partes circumpo- lares vorticis S ad eundum versus L & K : non dubium est, quin materia, quæ est in K & L, progredi debeat versus S, atque illa, quæ est in S, versus O & C.
+
+Atque id quidem non tantùm de materiâ primi LXX -
+
+i5 elementi, sed etiam de globulis fecundi effet intelli- cundi démenti non gendum, si nullæ causæ peculiares horum motum eô po ^ e tnle xgx ' versus impedirent. Verùm, quia multò celerior est agitatio primi elementi quàm fecundi, semperque ipsi liber est transitus per illos exiguos angulos, qui à globulis fecundi occupari | non possunt, etsi fingeremus omnem materiam, tam primi quàm fecundi elementi, contentam in vortice L, uno & eodem tempore à loco medio inter centra S & L progredi cœpisse versus S, intelligeremus tamen illam primi elementi citiùs ad centrum S pervenire debuisse, quàm illam fecundi. Atqui materia primi elementi, sie in spatium S ingressa, tantâ vi protrudit globulos fecundi, non modo versus eclipticam eg\el M Y, sed maxime etiam versus polos fd vel AB, quemadmodum mox explicabo b , ut
+
+a. Art. liv, lx et lxiv, p. 107, 112 et 11 5.
+
+b. Art. lxxviii ci-après, p. 1 33.
+
+[p. 122] 122 Principiorum Philosophle m.
+
+hac ratione impediat, ne illi qui veniunt ex vortice L, propiùs accédant versus S, quàm usque ad certum aliquem terminum, qui hîc literâ B notatus est. Idemque de vortice K, & aliis omnibus esl judicandum.
+
+[p. 123] iu-n3. Pars Tertia. 12*.
+
+Præterea etiam considerare oportet, particulas se- ™' . .
+
+r ' r Qucejtt ratio hujus cundi elementi quse volvuntur circa centrum L, non diverjitatis.
+
+solùm habere vim recedendi ab isto centro, sed etiam perfeverandi in suâ celeritate; quse duo ûbi quodammodo adversantur : quia, dum gyrant in vortice L, à vicinis aliis vorticibus, qui supra & infra planum hujus figuræ intelligendi sunt, intra certos terminos cohibitæ, non possunt evagari versus B, quin tardiùs moveantur inter L & B, quàm inter L & alios vicinos vortices, extra planum hujus figuræ intelligendos; & quidem tantò tardiùs, quantò spatium LB erit majus. Nam, cùm circulariter moveantur, non possunt plus temporis impendere in transeundo inter L & istos alios vortices, quàm inter L & B. Atque idcirco, vis quam i5 habent ad recedendum à centro L, efficit quidem ut nonnihil evagentur versus B, quia ibi occurrunt partibus circumpolaribus vorticis S, quæ non difficulter ipsis cedunt; sed ex adverso vis quam habent, ad retinendam celerita|tem sui motûs, impedit ne usque adeò evagentur, ut ad S perveniant. Quod idem non habet locum in materiâ primi elementi : etsi enim in hoc consentiat cum particulis fecundi, quòd simul cum ipsis gyrando, recedere conetur à centris vorticum in quibus continetur; ineo tamen maxime dissentit, quòd z5 non opus fit ut quidquam de suâ celeritate remittat, cùm ab istis centris recedit, quia ubique ferè æquales invenit vias, ad motus suos continuandos : nempe in angustiis angulorum, qui à globulis fecundi elementi non implentur. Quamobrem non dubium est, quin materia ista primi elementi continua fluat versus S, per partes polis A & B vicinas, non modo ex vorticibus K
+
+[p. 124] 124 Principiorum Philosophie ii3,
+
+& L, sed etiam ex pluribus aliis, qui non exhibentur in hac figura ; quia non omnes in eodem piano sunt intelligendi, nec verum eorum situm, nec magnitudinem, nec numerum pofîum determinare. Non etiam
+
+[p. 125] u3-u5.
+
+I2 5
+
+dubium est, quin eadem materia effluat ex S versus vortices O & C, ac etiam versus plures, sed quorum nec situm, nec magnitudinem, nec numerum definio. Ut neque definio, an eadem illa materia ex O & C statim revertatur ad K & L, an potiùs digrediatur ad multos alios vortices, à primo cœlo remotiores, antequam circulum sui motûs abfolvat.
+
+Sed paulò diligentiùs est considerandum, quomodo ipsa moveatur in spatio de/g. Nempe illa ejus pars, quæ venit ab A, re&à pergit usque ad d, ubi globulis fecundi elementi occurrens, illos versus B propellit; eodemque modo alia pars, quac venit à B, re&à pergit usque ad f, ubi occurrit globulis fecundi elementi, quos repellit versus A. Et statim tam quæ est versus d, quàm quæ versus^ reflectitur | in omnes partes versus eclipticam e g, omnesque globulos fecundi elementi circumjacentes æqualiter pellit ; ac denique per meatus, qui sunt inter istos globulos circa eclipticam e g, versus M & Y elabitur. Præterea, dum ista materia primi elementi proprio motu sie re&à fertur ab A & B versus d &f, fertur etiam circulariter motu totius vorticis circa axem AB
+
+adeô ut singula
+
+ejus
+
+ramenta
+
+lineas fpirales, sive in modum cochleæ contortas, describant; quæ fpirales postea, cùm ad i&/pervene- runt, inde utrimque reste&untur versus eclipticam eg. Et quia spatium de/g majus est quàm meatus, per quos materia primi elementi in illud ingreditur, vel ex ipso egreditur, idcirco semper ibi aliqua ejus materiæ pars manet, corpusque fluidiflimum componit, quod perpetuò circa axem/ise ipsum rotat.
+
+Notandumque est in primis, hoc corpus sphæricum
+
+LXXII. Quomodo moveatur materia, qua? Solem componit.
+
+LXXIII. Varias esse inxqualita.
+
+[p. 126]
+
+Principiorum Philosophie
+
+ii5.
+
+sàiis 1 " /F/ " corporis esse debere. Quamvis enim ob inæqualitatem vorticum non putandum sit, omnino æqualem copiam materiae primi elementi fummitti versus S, à vorticibus vicinis unius poli atque à vicinis altérius; nec etiam [p. 127] u5-ii 7 . Pars Tertia. 127
+
+istos vortices ita esse fitos, ut materiam illam in partes directè oppositas mittant; nec alios vortices, primum cœlum versus ejus eclipticam tangentes, certum aliquem ipsius circulum, qui pro eclipticâ sumi possit, eodem modo respicere, materiamque ex S per omnes partes istius circuli, aliasque ipsi vicinas egredientem, pari facilitate in se admittere : non tamen inde ullæ inæqualitates in figura Solis argui possunt, sed tantùm in ejus situ, motu &quantitate. Nempe si vis materiæ primi elementi, venientis à polo A versus S, major fit quàm venientis à polo B, illa quidem materia prius|quam alterius occurfu repelli possit, longiùs progredietur versus B, quàm hæc altéra versus A; sed ita longiùs progrediendo, ejus vis minuetur; ac juxta i5 leges natura?, se mutuò tandem ambæ repellent illo in loco, in quo earum vires erunt inter se plané æquales, atque ibi corpus Solis constituent : quod proinde re- motius erit à polo A, quàm à polo B. Sed non majori vi pellentur globuli fecundi elementi, in ejus circumferentia? parte d, quàm in parte f, nec ideò circumferentia ista minus erit rotunda. Item, si materia primi elementi faciliùs egrediatur ex S versus O, quàm ver- fus C (illic scilicet liberius spatium inveniendo), hoc ipso corpus S nonnihil accedet versus O, & isto accessu spatium interjedum minuendo, ibi tandem fiiletur, ubi vis erit utrimque æqualis.- Atque ita, quamvis ad solos quatuor vortices L, C, K, O, refpiceremus, modo tantùm eos supponamus esse inter se inæquales, inde sequitur, Solem S, nec in spatio medio inter O & C, îo nec etiam in medio inter L & K, esse debere. Major- que adhuc in ejus situ inæqualitas potest intelligi
+
+[p. 128]
+
+Principiorum Philosophle
+
+LXX1V.
+
+Varias etiam esse in
+
+ejus materiœ motu.
+
+117.
+
+ex eo, quòd alii plures vortices ipsum circumftent. Præterea, si materia primi elementi, veniens ex vorticibus
+
+K & L, non secundùm lineas tam rectas feratur versus S, quàm versus alias aliquas partes, exempli
+
+[p. 129] .117-119.
+
+causâ, quæ venit ex K versus e, quæ autem ex L versus g : hinc fiet ut poli fd, circa quos tota Solis materia vertetur, non sint in lineis rectis à K & L ad S ductis, sed Australis / aliquanto magis versus e accédât, & Borealis d versus g. Item, si linea recta SM, per quam materia primi elementi facillimè egreditur ab S ver- fus C, transeat perpundum circumferentiæ/ei, vicinius puncto d quàm puncto/; ac | linea SY, per quam ista materia præcipuè tendit ab S versus O, transeat per punctum circumferentiæ fgd, vicinius puncto / quàm puncto d : hinc fiet ut eg Solis ecliptica, sive planum in quo movetur illa ejus materia, quæ maximum circulum describit, paulò magis inclinetur à parte e versus polum d, quàm versus polum/ sed tamen non tantum quàm linea recta S M a ; atque ex parte g magis inclinetur versus /quàm versus d, sed etiam non tantum quàm recta SY. Unde sequetur axem, circa quem tota Solis materia vertitur, & cujus extremitates sunt poli/i, non esse lineam accuratè rectam, sed nonnihil curvam sive inflexam; materiamque istam aliquanto celeriùs gyrare inter e & d, vel inter/&g-, quàm inter e &f, vel d &g; ac forte etiam, non omnino æquali celeritate gyrare inter e & d, atque inter/ & g.
+
+Quod tamen non potest impedire, ne ipsius corpus sit quam-proximè rotundum : quia intérim alius ejus motus, à polis versus eclipticam, inæqualitates istas compensat. Eâdemque ratione, quâ videmus ampul- lam vitream ex eo solo fieri rotundam, quòd aër in ejus materiam igné liquefactam per tubum ferreum immittatur; quia nempe iste aër non majori vi ab
+
+a. Voir t. IV, p. 181, 1. 18. Lire à cet endroit : eg (au lieu de e. g.). Œuvres. III. 17
+
+LXXV. Eas tamen non impedire ne ejus figura sit rotunda.
+
+[p. 130] ijo Principiorum Philosophie ug.
+
+ampullæ orificio in ejus fundum tendit, quàm inde in omnes alias partes reste&itur, & æquè facile illas omnes pellit : ita materia primi elementi, corpus Solis per ejus polos ingressa, débet omnes globulos fecundi
+
+[p. 131] t ig-i ai.
+
+l )
+
+elementi circumjacentes, æqualiter undequaque re- pellere; non minus illos in quos obliqué tantùm reflectitur, quàm illos in quos directè impingit.
+
+Notandum deinde materiam istam primi elementi, quamdiu versatur inter globulos fecundi, habere quidem | motum rectum, à polis AB ad Solem, & à Sole ad eclipticam YM, ac circularem circa polos toti cœlo AMBY communem ; sed præterea etiam, maximam & præcipuam partem fuse agitationis impendere in minutiarum suarum figuris aSsiduè mutandis,,ut omnes exiguos angulos, per quos transit, accuratè possit implere. Unde fit, ut ejus vis, valde divisa, debilior fit; ac singulæ ejus minutiæ motibus globulorum fecundi elementi sibi vicinorum obfequantur, semperque paratse sint ad exeundum ex illis angulliis, in quibus ad tam obliquos motus coguntur, atque ad re&à pergen- dum versus quascunque partes. Eam autem materiam, quæ est in corpore Solis coacervata, valde multum virium ibi habere, propter consensum suarum omnium partium in eosdem celerrimos motus, omnesque illas suas vires impendere in globulis fecundi elementi circumjacentibus hinc inde propellendis.
+
+Atque ex his potest intelligi, quantum materia primi elementi conférât ad illam actionem, in quâ lucem consistere antè monuimus; & quomodo illa actio non modo versus eclipticam, sed etiam versus polos in omnes partes se diffundat. Nam primo, si putemus esse aliquod spatium in H, solâ materiâ primi elementi repletum, & tamen satis magnum ad unum aut plures ex globulis fecundi recipiendos a , non
+
+a. Art. lxi et lxh ci-avant, p. 112 et 11 3.
+
+LXXVI. De motu primi elementi, dum versatur inter globulos fecundi.
+
+LXXVII.
+
+Quomodo Solis lumen non mode versus Eclipticam, sed etiam ver- fus polos se diffundat.
+
+[p. 132] i}2 Principiorum Philosophie tai.
+
+dubium est quin, uno & eodem temporis momento, globuli omnes contenti in cono dHf, cujus basis est concavum hemifphærium des, versus illud accédant.
+
+[p. 133] I2I-I23.
+
+l )}
+
+Jamque id suprà ostensum est a de globulis contentis in triangulo, cujus basis erat femicirculus eclipticæ solaris, quamvis nondum ulla a&io primi elementi fpeétaretur; | sed nunc hoc ipsum de iisdem, simulque etiam de reliquis in toto cono contentis, hujus primi elementi ope clariùs patebit. Ea enim ejus pars, quse corpus Solis componit, tam globulos fecundi elementi qui sunt versus eclipticam e, quàm etiam eos qui sunt versus polos d, f, ac denique omnes qui sunt in cono dWf, versus H propellit ; neque enim ipsa majori vi movetur versus e, quàm versus d &f, aliasque partes intermedias : illa verò quæ jam supponitur esse in H, tendit versus C, unde per K & L versus S tanquam in circulum regrediatur.
+
+i5 Ideoque non impedit ne globuli isti ad H accédant, & eorum accessu spatium quod priùs ibi erat, corpori Solis accrefcat, impleaturque materiâ primi elementi, à centris K, L, & similibus eô confluente.
+
+Quin ipsa potiùs ad hoc juvat; cùm enim omnis
+
+motus tendat in lineam rectam, materia maxime agitata in H existens, magis propendet ad inde egre- diendum quàm ad remanendum : quò enim spatium in quo versatur est angustius, eô magis infleftere cogitur suos motus. Et idcirco minime mirum esse débet, quòd sæpe, ad motum alicujus minutiffimi corporis, alia corpora, per quantumvis magna spatia diffusa, simul moveantur ; nec proinde etiam, cur non tantùm Solis, sed & Stellarum quam-maximè remota- rum, adio ad terram usque in minimo temporis momento perveniat
+
+a. Art. lxii, p. il 3.
+
+LXXVIII. Quomodo versus Eclipticam se diffuniat.
+
+LXXIX. Quàm facile ad motum unius exigui corporis, alia quammaxi- m'e ab ec remota moveantur.
+
+[p. 134] i)4
+
+Principiorum Philosophle
+
+123.
+
+LXXX.
+
+Si deinde putemus spatium N solâ materiâ primi
+
+Quomodo lumen Salis « . ., /r r *i« • ir i tendat versus polos. démenti plénum elle, lacilè intelligemus omnes globulos fecundi, qui continentur in cono gNe, à materiâ primi, quæ, in Sole existens, à d versus /, simulque
+
+[p. 135] 123-125. Pars Tertia. 135
+
+versus totum hemifphærium efg, magnâ vi movetur, eè versùs pelli de|bere, quamvis ex se ipsis nullam forte habeant propensionem ad istum motum ; neque enim etiam ei répugnant, ut neque materia primi elementi, quæ est in N ; ipsa enim paratiffima esl ad eundum versus S, ibique spatium implendum, quod, ex eo quòd globuli hemifphærii concavi efg versus N ferentur, corpori Solis accrefcet. Nec ulla est difficultas, quòd, uno & eodem tempore, globuli fecundi elementi ab S versus N, & materia primi ab N versus S, tanquam motibus contrariis debeant ferri : cùm enim hæc materia primi non transeat nisi per illa anguftiffima intervalla, quæ globuli fecundi non replent, ejus motus ab ipsis non impeditur; ut i5 neque videmus in illis horologiis, quibus clepfydra- rum loco nunc utimur, arenam ex vase superiori descendentem impedire quominùs aër ex inferiori per interstitia ejus granulorum adscendat.
+
+Quaeri tantùm potest, an tantâ vi pellantur globuli lxxxi
+
+An æqualis sit ejus vis contenu in cono eNg venus N, a tota materia Solis, in poiis s in eciipti-
+
+quàm globuli st d versus H ab eâdem materia Solis, ac simul à proprio motu ; quod non videtur, si H & N ab S æquidiftent. Sed quemadmodum, ut jam nota- tum est, minor est distantia versus polos, inter Solem & circumferentiam cœli quod illum ambit, quàm versus eclipticam : ita tune ad summum illa vis esse potest æqualis, cùm eadem est proportio inter lineas H S & NS, quæ est inter M S & AS. Unumque tantùm habemus in naturâ phænomenum, ex quo ejus rei
+
+20 eN#] efg{i"édit.). Voir, fgd (1" édit.). Voir ci -avant, en effet, p. 134, I.3.— 21 fHd] p. i33, l. 10.
+
+câ.
+
+[p. 136] jjô Principiorum Philosophie i»5.
+
+experimentum capi possit : nempe, cùm forte aliquis Cometa tantam cœli partem pererrat, ut primo visus in eclipticâ, videatur deinde versus unum ex polis, ac postea rursus in eclipticâ ; tune enim habita ratione
+
+[p. 137] u5-ii7-
+
+l )7
+
+■ S
+
+ejus diftantiæ, potest æstimari, an ejus lumen (quod à Sole | esse infrà ostendam 3 ), cæteris paribus, majus appareat versus eclipticam quàm versus polum.
+
+Superest adhuc notandum, circa globulos fecundi elementi, eos qui proximi sunt centro cujusque vorticis, minores esse ac celeriùs moveri, quàm illos qui paulô magis ab eo distant, idque usque ad certum terminum, ultra quem superiores inferioribus celeriùs moventur, & quantum ad magnitudinem, sunt æquales. Ut hîc, exempli causâ, in primo cœlo putandum est, omnium minutissimos globulos fecundi elementi esse juxta superficiem Solis de/g, & paulò remotiores gradatim esse majores, usque ad superficiem fphæroidis HNQR, ultra quam omnes sunt æquales; atque illos qui sunt in hac superficie HNQR, omnium tardiffimè moveri ; adeò ut forte globuli H, Q, triginta annos vel etiam plures impendant in absolvendo uno circuitu circa polos A, B, superiores autem versus M & Y, itemque inferiores versus e &g celeriùs moveantur, & tam supremi quàm infimi, circuitus suos intra paucas hebdomadas absolvant.
+
+Et primo quidem b , quod superiores versus M & Y celeriùs ferri debeant, quàm inferiores versus H & Q, facile demonstratur. Ex eo enim quòd fuppofuerimus c , omnes in principio fuisse magnitudine æquales (ut par fuit, quia nullum habuimus ipsarum inæqualitatis argumentum), & quòd spatium in quo tanquam in vortice circulariter aguntur, non sit accuratè rotundum ; tum
+
+LXXXII. Globulos fecundi elementi Soli vicinos minores esse, ac celeriùs moveri quàm remotiores, usque ad certam distantiam, ultra quam sunt omnes magnitudine æquales , & eà celeriùs moventur, quùfunt à Sole remotiores.
+
+LXXXIII. Cur remotissimi celé' riùs moveantur quàm aliquantà minus remoti.
+
+a. Art. cxxx ci-après.
+
+b. Voir t. IV, p. 455-456.
+
+c. Art. xlvii et xlviii, p. ioi et io3.
+
+Œuvres. III.
+
+18
+
+[p. 138]
+
+quia alii vortices circumjacentes non sunt squales, tum etiam quia illud débet esse angustius, è regione centri 3 cujusque ex istis vorticibus vicinis, quàm è regione aliarum ejus partium : necesse est ut aliquando quædam ex ipsis celeriùs quàm aliæ mo|veantur, cùm nempe ordinem debent mutare, ut ex via latiori transeant in angustiorem. Sic, exempli causâ, duo globi qui sunt inter puncta A & B, non possunt transïre inter duo viciniora C & D, nisi unus alium præcedat ; & manifestum esl eum qui præ- cedit, altero celeriùs moveri. Deinde, quia omnes globuli primi cœli totâ suâ i5 vi recedere conantur à centro S, statim atque aliquis ex ipsis celeriùs quàm vicini movetur, ille, hoc ipso majorem habens vim, magis à centro illo recedit; & ita semper superiores illi sunt qui celeriùs moventur. Quanta autem sit ista eorum celeritas, sola experientia docere potest ; nullamque habemus ejus experien- tiam, nisi in Cometis, quos ex uno cœlo in aliud migrare infrà ostendam b ; ut neque possumus determinare tarditatem circuli HQ_, nisi ex motu Saturni, quem in illo vel infra illum esse demonstrabo c .
+
+lxxxiv. Quòd vero, infra terminum HQ_, globuli propiores
+
+Cur Solis proximi ce- o 1 • > i f 1/ 1
+
+leriùs etiam /eran- centro S celeriùs circulum tuum ablolvant quam remotiores,
+
+22 aliud] alium (/" édit.).
+
+a. Voir t. V, p. 172.
+
+b. Art. cxxvin.
+
+c. Art. cxlviii.
+
+[p. 139] 138.
+
+l J9
+
+probatur ex circumvolutione materiæ solaris, omnem illam cœli partem sibi vicinam secum rapientis : neque enim potest dubitari, cùm ipfafit celerrimè agitata, & semper aliquid sui per angustos meatur, quant pauld remotiores.
+
+[p. 140]
+
+iî8-i3o.
+
+LXXXV. Cur iidem Solis pro- ximiyfint remotiori- bus minores.
+
+tus, qui sunt inter globulos fecundi elementi, versus eclipticam emittat & versus polos recipiat, quin habeat vim secum rapiend i globulos istos usque ad certam distantiam. Hujusque | distantiæ terminum defigna- mus ellipsi HNQ.R, non circulo : quamvisenim Sol sit fphæricus, ac nonminori vi pellat materiam cœli cir- cumjacentem versus polos quàm versus eclipticam, illâ actione in quâ ejus lucem consistere diximus 3 , non potest tamen idem intelligi de hac altéra actione, quâ istam cœli materiam secum in orbem rapit, quia pendet à solo ejus motu circulari circa suum axem ; qui motus procul dubio potentior est in eclipticâ, quàm versus polos ; & ideò hîc H & Q_ magis distare debent ab S, quàm N & R. Atque hinc infrà b ratio reddetur, cur Cometarum caudæ aliquando rectæ, aliquando curvæ appareant.
+
+Cùm autem hîc, intra terminum HQ, inferiores globuli materiæ cœlestis celeriùs moveantur quàm superiores, debent etiam esse minores ; si enim essent majores vel æquales, hoc ipso haberent plus virium, ideoque superiores évadèrent. Sed ubi semel contingit, aliquem tantò esse minorem iis qui supra ipsum sunt, ut magis ab iis magnitudine superetur, quàm illos celeritate superet, semper postea illis inferior manere débet. Etsi verò globulos istos in principio quàm accu- ratifîimè æquales à Deo factos fuisse supponamus c , fieri tamen non potuit, lapsu temporis, ob inæqualitatem spatiorum quæ percurrunt, & inæqualitatem eorum
+
+a. Art. lxiii, p. 1 14-1 15.
+
+b. Art. cxxxviii.
+
+c. Art. XLViii, p. io3.
+
+[p. 141] i3o. Pars Tertia. 141
+
+motûs inde ortam, ut paulò antè demonstratum est a , quin aliqui aliis minores évadèrent, iique essent satis multi ad spatium HNQ.R implendum. Neque enim
+
+a. Art. lxxxiii, p. iZj i38.
+
+[p. 142]
+
+Principiorum Philosophie
+
+13o-13j.
+
+LXXXVI. Globulos fecundi elementi variis modis Simul moveri, quo fit ut plané fphærici reddantur.
+
+LXXXVII. Varias esse gradus celeritatis in minutiis primi démenti.
+
+consideramus hoc spatium, cum magnitudine totius vorticis AYBM comparatum, niû tanquam admodum parvum ; ut etiam magnitudo Solis, ad ipsum comparata, perexigua est intelligenda; quamvis ista eorum proportio | non potuerit hîc in figura exhiberi, quia nimis vasta esse debuisset. Notandum etiam est varias esse alias insequalitates in motibus partium cœli, præsertim earum quæ sunt inter S & H vel Q_, de quibus paulò pòst commodiùs agetur.
+
+Denique non est omittendum, materiam primi démenti, venientem ex vorticibus K, L, & similibus, præcipuè quidem ferri versus Solem, sed plurimas tamen etiam ejus partes per totum vorticem AYBM difpergi, atque inde ad alios C,0, & similes transire, ac fluendo circa globulos fecundi elementi, efficere ut ipsi tum circa propria centra, tum forte etiam aliis modis moveantur. Cùmque sie isti globuli non unâ tantùm ratione, sed multis diversis eodem tempore agitentur, hinc clarè percipitur ipsos, cujuscunque figuræ fuerint in principio, nunc debere esse plané fphæricos, non instar cylindri, aut cujusvis fphseroidis, unâ tantùm ex parte rotundos.
+
+Postquam autem naturam primi & fecundi elementi sie utcunque explicuimus, ut tandem de tertio agere poiïimus, considerandum est, materiam primi non esse æqualiter agitatam secundùm omnes suas minutias, sed sæpe in perexigua ejus quantitate innumeros reperiri diversos gradus celeritatis. Quod perfacilè de- monftratur, tum ex modo quo ejus generationem suprà descripsimus 8 , tum etiam ex continuo ejus usu :
+
+a. Art. xlix, p. 104.
+
+■ 5
+
+[p. 143] 13a-133. Pars Tertia. 145
+
+finximus enim eam genitam esse ex eo, quòd particule fecundi elementi, nondum fphæricse, sed angulofæ, ac totum spatium in quo erant implentes, moveri non potuerint, quin earum anguli attererentur, ac minutise, ab iis attritu isto separatæ, figuras suas diversimodè mutarent, pro ratione diversi loci occupandi, licque primi elementi formam affumerent; nuncque | adhuc eodem modo putamus, illud primum elementum inservire implendis omnibus spatiorum angustiis, quæ circa alia corpora reperiuntur. Unde manifestum est unafquafque ex ejus minutiis majores initio non fuisse quàm anguli particularum ex quibus exfcindebantur ; sive quàm spatium, quod très globuli, se mutuò contingentes, in medio fuî relinquunt; atque ideò quasdam ex ipsis plané indi- visas manere potuisse, dum aliæ intérim egredientes ex angustis spatiis, quorum figura mutabatur magis & magis, indefinitè dividi debuerunt. Sint, exempli causâ, très globuli A, B, C, quorum duo primi A & B, se mutuô tangentes in G, circa propria centra tantùm vertantur, dum intérim tertius C, tangens primum in E, volvetur supra ipsum ab E versus I, donec puncto D
+
+a5 tangat secundum in puncto F : manifestum est materiam primi elementi, quæ continetur in spatio triangulari FGI, sive ex pluribus ramentis constet, live tantùm ex uno, posse intérim manere im- motam; sed illam quæ est in spatio FIED necessario
+
+3o moveri, & nullum tam exiguum ejus ramentum inter pun&a D & F poste designari, quod non sit majus eo
+
+[p. 144]
+
+Principiorum Philosophle 
+ 133-134. 
+ LXXXVIII. 
+ Eas ejus minutias quee minimum habent celeritatis, facile id ipsum quod habent aliis transferre, ac sibi mutuà adhxrere.
+
+LXXXIX. 
+ Taies minutias sibi mutuà adhérentes, præcipuè inveniri in eâ materiâ primi elementi, quæ a potis ad centra vorticum fertur.
+
+XC. 
+ Qualis sit figura istarum minutiarum, quee particulæ firia- iæ deinceps vocabun- tur.
+
+quod inde aufertur singulis momentis. Quia globulus 
+ C, accedendo ad B, efficit ut linea DF transeat per innumeros diversos gradus brevitatis.
+
+Sic igitur in materiâ primi elementi, quædam sunt ramenta reliquis minus divisa, & minus celeriter agitata; qua? cùm supponantur excifa fuisse ex angulis particularum fecundi, cùm nondum in globulos tor- natæ erant, & omnia spatia sola implebant, non possunt non habere si|guras valde angulofas, & ad motum ineptas. Unde fit ut facile sibi mutuo adhæreant, magnamque partem suæ agitationis transférant in illa alia ramenta, quæ minutissima sunt, & celerrimè agitantur. Quia, juxta leges naturæ 8 , majora corpora, cæteris paribus, faciliùs id quod habent agitationis in minora transferunt, quàm novam ullam agitationem ab istis aliis recipiant.
+
+Et quidem talia ramenta præcipuè reperiuntur in eâ materiâ primi elementi, quæ à polis versus médium cœli secundùm lineas rectas movetur : ejus enim partes quamminimùm agitatæ sufficiunt ad istum motum rectum, non autem ad alios magis obliquos & varios, qui fiunt in aliis locis; ex quibus idcirco expelli folentin viam istius motûs redi, & ibi congre- gantur in exiguas massas, quarum figuram hîc velim diligenter considerari. a 5
+
+Nempe, cùm sæpe transeant per angusta illa spatia triangularia, quæ in medio trium globulorum fecundi elementi, se mutuo tangentium, reperiuntur, debent induere figuram in fuâlatitudine & profunditate trian- gularem. Quantum autem ad longitudinem, non sa- 3o
+
+a. Pars II, art. xl, p. 65. [p. 145] cile est ipsam determinare, quia non videtur ab aliâ causâ pendere, quàm à copia materiæ ex quâ istæ maflulæ conflantur; sed sufficit illas concipere tanquam exiguas columnas, tribus ftriis in modum cochlearum intortis excavatas, ita ut gyrando transire possint per illos angustos meatus, figuram habentes trianguli curvilinei FGI, qui semper inter très globulos fecundi elementi se mutuò tangentes reperiuntur. Quippe ex eo quòd sint oblongæ, ac motu celerrimo transeant inter istos globulos fecundi elementi, dum intérim ipsi alio motu circa polos cœli rotantur, clarè intelligitur illa|rum ftrias in modum cochlearum debere esse intortas ; & quidem magis vel minus intortas, prout transeunt per partes axi vorticis remotiores aut viciniores : quia globuli fecundi elementi celeriùs in illis quàm in istis rotantur, ut antè dictum esl a .
+
+Ac etiam ex eo quòd ipsæ veniant versùs médium cœli ex partibus contrariis, unse scilicet ab Australi, aliæ à Boreali, dum intérim totus vortex circa suum axem in unas & easdem partes movetur : manifestum est illas quæ veniunt à polo Australi, non in easdem partes debere intortas esse, ac illas quæ veniunt à polo Boreali, sed plané in contrarias. Quod animadver- fione valde dignum puto, quia hinc vires magnetis infrà explicandæ b præcipuè dépendent.
+
+Sed ne quis forte existimet, me sine ratione affirmare, très tantùm ftrias in istis primi elementi particulis esse posse, cùm tamen globuli fecundi non ita xci. Istas particules ab oppositis polis venien- les, contrario modo esse intortas.
+
+XCII. Très tantùm ftrias in ipsis esse.
+
+a. Art. lxxxiii, p. 137-138.
+
+b. Pars IV, art. cxxxiii, etc.
+
+[p. 146]
+
+semper omnes se mutuò possint contingere, ut tantùm triangularia spatia circa se relinquant, velim hîc notari, alia- quævis loca ampliora, quæ inter globulos istos sæpe reperiuntur, habere semper suos angulos plané æquales iis trianguli FGI, ac, quantum ad cætera, esse in perpétua mutatione : adeò ut particulæ ftriatæ primi elementi, per illa transeuntes, eam etiam figuram quam descripsimus, debeant induere. Nam, exempli causâ, quatuor globuli A, B, C, H, se tangentes in punctis K, L, G, E, relinquunt in medio sui spatium quadrangulare, cujus quisque angulus est omnino sequa|lis unicuique ex angulis trianguli FGI; cùmque quatuor isti globuli moventur, spatium istud affiduè figuram mutât, fitque nunc quadratum, nunc oblongum, ac etiam interdum in duo alia spatia triangularia dividitur ; unde fit ut materia primi elementi minus agitata, quas in eo exsistit, ad unum vel duos ex ejus angulis debeat confluere, ac residuum spatii relinquerem aterise mobiliori, & figuras fuasfaciliùs mutan- ti,ut eas ad omnes istorum globulorum motus accommodet. Atque si forte unum ex ejus ramentis, in uno ex istis angulis existens, extendat se ibi versus partem illi angulo oppositam , ultra spatium æquale triangulo FG I , ^ K > debebit inde expelli, ac proinde imminui, cùm acci- det ut tertius globulus tangat duos illos, qui angulum in quo versatur conficiunt. Nempe, si materia minus agitata, occupans angulum G, extendat se versùs D ultra lineam SI, inde extrudetur à globulo C, atque 3o eatenus minuetur, cùm hic globulus C accedet ad B,
+
+[p. 147] i36-i3 7 .
+
+ut claudat triangulum GFI. Et quia particulæ primi elementi, quæ in eo maximæ sunt, & reliquis minus agitatæ, per longos cœli tra&us transeundo, non pofTunt non sæpe ita versari inter très globulos ad se invicem accedentes, non videntur posTe induere ullam figuram determinatam, & aliquandiu in ipsis permanentem, præter illam quam descripsimus.
+
+Etsi autem hæ particulæ oblongæ ac ftriatæ valde différant à reliquâ materiâ primi elementi, non tamen illas ab hac distinguimus, quandiu tantùm inter globulos fecundi versantur : tum quia nullum peculiarem earum esse&um ibi advertimus ; tum etiam, quia multas alias, non multò minores, nec celeriùs agitatas, in eâ contineri arbitramur, | ita ut inter omnium minutissimas & illas striatas, innumeri sint aliarum gradus. ut facile ex inæqualitate viarum quas perlabuntur, agnosci potest.
+
+Sed quando materia i-sta primi elementi ad corpus Solis alteriusve fideris pervenit, ibi omnes ejus minutiæ maxime agitatæ, cùm nullis globulorum fecundi elementi obicibus impediantur, in similes motus con- sentire laborant. Unde fit ut illæ ilriatæ, nec non etiam aliæ multæ paulô minores, quæ ob figuras nimis angulofas, molemve nimis magnam, tantam agi- tationemrefugiunt, abaliisminutiffimis separentur, ac sibi mutuô facile adhærentes, propter inæqualitatem suarum figurarum, moles aliquando permagnas componant, quæ, intimæ cœli fuperficiei contiguæ, fideri ex quo emerferunt adjunguntur, & ibi refiflentes illi
+
+3o adioni, in quâ vim luminis consistere suprà diximus 3 ,
+
+a. Art. lxxvii et lxxviii, p. 1 3 1 et i3?, et art. lv, p. to8.
+
+XCIII. Inter particulas striatas, & omnium minu- tijfimas , varias esse aliarum magnitudines in primo elemento.
+
+XCIV.
+
+Quomodo ex Us macula- in Solis vel stellarum superficie generentur.
+
+[p. 148]
+
+Principiorum Philosophle
+
+xcv.
+
+Hinc cognosci prceci- puas harum macularum proprietates.
+
+XCVI. Quomodo ifice macula? dissolvantur, ac novæ generentur.
+
+similes sunt illis maculis quæ in Solis superficie con- spici solent. Eâdem enim ratione, quâ videmus aquam liquorefque alios quoscunque, cùm igni admoti effervefcunt, atque aliquas particulas diversæ à reliquis naturæ ac minus ad motum aptas in se continent, denfam fpumam ex particulis istis conflatam emittere, quæ supra ipsorum superficiem natare, figurafque admodum irregulares & mutabiles habere solet : ita per- fpicuum est materiam Solis, utrimque ex ejus. polis versùs eclipticam ebullientem, debere particulas suas striatas, aliasque omnes quæ facile sibi mutuò adhærent, ac difficulter communiipfius motui obsequuntur, ex se tanquam fpumam expellere.
+
+Atque hinc a facile est cognoscere, cur Solis maculæ non soleant apparere circa ejus polos, sed potiùs in partibus | eclipticæ vicinis ; & cur figuras habeant valde varias & incertas ; & denique cur in orbem circa Solis polos, si non tam celeriter quàm ejus substantia, saltem simul cum eâ parte cœli quæ illi proxima est, moveantur.
+
+Atverô, quemadmodum plerique liquores eandem fpumam, quam initio effervefcendo emittunt, rursus postea diutiùs ebulliendo reforbent & abfumunt : ita putandum est, eâdem facilitate quâ materia macularum è corpore Solis emergit, atque in ejus superficie cumulatur, paulò pòst etiam imminui, & partim in ejus substantiam refundi, partimque per cœlum vicinum difpergi. (Non enim ex toto Solis corpore, sed tantùm ex materiâ quæ recens in illum ingressa est, maculæ istæ formantur.) Ac reliqua materia quæ diutiùs
+
+a. Voir t. IV, p. 456-458.
+
+[p. 149] 138-13g.
+
+in eo permanfit, jamque, ut ita loquar, excoda est & defæcata, summâ vi semper gyrans, partim eas quæ jam sa&æ sunt abradit, dum intérim aliâ in parte novæ generantur ex nova materiâ Solem ingrediente : unde fit ut non omnes in iisdem locis appareant. Et sanc tota Solis superficies, partibus circumpolaribus exceptis, materiâ ex quâ componuntur tegi solet. Atqui maculæ tantùm esse dicuntur, ubi materiâ illa est tam denfa & stipata, ut vim luminis à Sole venientis notabiliter obtundat.
+
+Præterea potest contingere, ut maculæ istæ, cùm sunt paulò crafliores & denfiores, priùs in suâ circumferentiâ quàm in medio atterantur à puriore materiâ Solis eas circumfluente ; sicque ut extremitates earum circumferentiæ, in acutum definentes, ejus lumini per- viæ sint : unde sequitur ipsas ibi Iridis coloribus pingi debere, ut antehac de prismate vitreo in Meteoris, cap. 8 a , expli|cui. Et taies aliquando colores in illis observantur.
+
+Sæpe etiam contingit, ut materiâ Solis, circa maculas istas fluendo, supra ipsarum extremitates afîur- gat ; tuncque, inter illas & coeli vicini superficiem in- tercepta, cogitur ad motum solito celeriorem : eodem modo quo fluminum rapiditas semper est major in locis vadofis & angustis, quàm in latis & profundis. Unde sequitur Solis lumen ibi aliquantô fortius eflè debere. Atque ita maculæ in faculas converti solent, hoc est, quædam solaris fuperficiei partes, quæ priùs aliis erant obscuriores, postea fiunt lucidiores. Ac vice versâ faculæ in maculas mutari videntur, cùm, his
+
+a. Voir t. VI, p. 329.
+
+XCVII.
+
+Cur in quarundam ex>- tremitate colores iridis appareant.
+
+XCVIII. Quomodo macula in faculas vertantur, vel contra.
+
+[p. 150] IfO
+
+PRINCIPIORUM PhILOSOPHLE 
+ 139-140. 
+ XCIX. 
+ In quales particulas macula; dissolvantur.
+
+Quomodo ex ipfisæther 
+ circa Solem & Stellas generetur. Huncque ælherem & ijlas maculas ai tertium elementum referri.
+
+unâ ex parte in subtiliorem Solis materiam demerfis, 
+ magna copia novæ materiæ aliâ ex parte ipsis accedit & adhæret.
+
+Cùm autem iflre maculæ dissolvuntur, non abeunt in minutias plané similes iis ex quibus fuerant conflatæ : sed partim in tenuiores, ac simul folidiores, sive figuras minus angulofas habentes ; quo nomine ad motum sunt aptiores, & ideò facile per meatus, qui sunt inter globulos cœli circUmjacentis, versùs alios vortices tendunt; partim in tenuifîimas, quæ ex aliarum angulis erafæ, vel in purissimam Solis substantiam convertuntur, vel abeunt etiam versùs cœlum ; partim denique in crafliores, quæ ex pluribus ftriatis, aliisve simul junctis compositæ, versùs cœlum expelluntur, ubi, cùm sint nimis magnæ ad transeundum per illos angustos meatus, quos globuli fecundi elementi circa se relinquunt, ipsa etiam globulorum istorum loca fubingrediuntur, & quia figuras habent valde irregulares & ramofas, non tam facile ac illi globuli moveri possunt.
+
+|Sed sibi mutuo nonnihil adhærentes, componunt ibi magnam quandam molem, rariflimam, & aëri (sive potiùs ætheri) terræ circumfufo non absimilem, quæ à Sole circumquaque forte usque ad sphæram Mercurii, vel etiam ultra illam, se extendit. Nec tamen æther iste in immensum crescere potest, etiamsi novæ semper particulæ ex macularum dissolutione ipsi accédant, quia globulorum fecundi elementi per illud & circa illud continua agitatio facile potest totidem alias diflblvere, ac rursus in materiam primi elementi convertere. Quippe omnes Solis aliorumque siderum
+
+[p. 151] 140-141- 
+ ⟦?⟧⟦?⟧Pars Tertia.
+
+M 1
+
+iS
+
+maculas, ut & totum ætheremipfis circumfufum, quo- niara ejus partes ad motum minus aptæ sunt quàm globuli fecundi elementi, ad tertium elementum re- ferimus a .
+
+Sed verò macularum productio vel dissolutio à tam minutis & tam incertis causis dependet, ut minime fit mirandum, si quando nullæ prorsus in Sole appareant, vel si è contra nonnunquam sint tam multæ, ut totum ejus lumen obscurent. Ex hoc enim quòd pauca aliqua ex ramentis primi elementi sibi invicem adhærefcant, fit unius maculas rudimentum, cui facile postea plura alia junguntur, quæ, nisi in priora illa impingendo partem fuse agitationis amitterent, sibi mutuò non possent adhærere.
+
+Notandumque esl maculas istas, cùm primùm generantur, esse corpora mollilîima & rariflima, ideoque facile frangere impetum ramentorum primi elementi, quæ in ipsas impingunt, & illa sibi adjungere. Paulatim autem postea interiorem earum superficiem, continuo motu substantiæ solaris cui contigua esl, non tantùm abradi & | perpoliri, sed etiam condenfari & indurari, aliâ intérim earum superficie, quæ coelo ob- versa esl, molli & rarâ rémanente. Ideoque ipsas non facile dissolvi, ex eo quòd materia Solis interiorem earum superficiem lambat, nisi simul etiam earum oras circumfluat & tranfcendat, sed contra potiùs semper augeri, quamdiu istæ earum oræ, supra Solis fuperfi- ciem eminentes, ejus materiæ occurfu non denfantur. Hincque potest contingere,ut aliquando una & eadem macula supra totam superficiem alicujus fideris se exa. Voir t. IV, p. 456.
+
+CI.
+
+Macularum produâio- nem & dissolutionem à causis valde incertis pendere.
+
+Cil.
+
+Quomodo eadem macula totum aliquod fidus tegere possit.
+
+[p. 152] M 2
+
+Principiorum Philosophie
+
+cm.
+
+Cur Sol aliquando vi- fus fit obscurior ; & cur quarundam jlel- larum magnitudines apparentes mutentur.
+
+CIV.
+
+Cur aliquæfixæ difpa- reant, vel ex improviso appareant.
+
+tendat, ibique diu permaneat, priusquam dissolvi pofîit.
+
+Sic referunt quidam historici a , Solem aliquando per plures dies continuos, aliquando etiam per integrum annum, solito pallidiorem, Lunæ instar, sine radiis lucem tristem prsebuiffe. Notarique potest multas stellas nunc minores majoresve apparere, quàm olim ab Astronomis defcriptse sunt. Cujus non alia ratio esse videtur, quàm quòd pluribus paucioribufve maculis earum lux obtundatur.
+
+Quinetiam fieri potest, ut aliquod fidus tôt & tam densis maculis involvatur, ut visum nostrum prorsus effugiat : sicque olim Plejades numeratæ sunt septem, quæ jam sex tantùm conspiciuntur. Itemque fieri potest, ut aliquod fidus, nobis antea non visum, bre- viflimo tempore atque ex improviso, magnâ luce afful- geat. Nempe, si totum ejus corpus ingenti & craffâ macula fuerit hactenus conteétum, jamque accidat ut materia primi elementi, solito copiosiùs ad illud affluens, supra exteriorem istius maculse superficiem se diffundat, brevissimo tempore totam conteget; atque tune istud fidus non minorem lucem ex se emittet, | quàm si nullâ plané macula involveretur. Potestque postea, vel diu æquè fulgidum remanere, vel paulatim rursus obscurari. Sicque contigit, in sine anni 1572, quandam ftellam, priùs non visam, in signo Cafïïopejæ apparuisse, quæ maximam initio habuit lucem, & sensim postea obscurata, initio anni 1 574 dis- paruit. Ac etiam aliæ nonnullæ in cœlo jam lucent, quæ olim non apparebant : quarum rerum causa hîc fusiùs est explicanda.
+
+a. Voir t. IX, p. 161, note a, de la traduction française.
+
+ao
+
+[p. 153] 142-143.
+
+S)
+
+Sit, exempli causâ, fidus I circumquaque teftum macula de/g, quæ non potest esse tam denfa, quin
+
+L
+
+poros sive meatus habeat permultos, per quos omnis materia primi elementi, etiam illa quæ confiât particules ftriatis supra | descriptis, transire possit. Cùm enim in principio suæ generationis fuerit molliflima & rarissima, taies pori facile in ipsâ formati sunt; cùmque postea denfabatur, particulæ istæ ftriatæ, aliæque primi elementi, continué per illos transeundo, non permiserunt ut plané clauderentur ; sed tantùm eousque anguftati sunt, ut nullæ materiæ particulæ, ftriatis primi elementi crassiores, viam per ipsos habere possint; ac etiam ut ii meatus, qui particulas striatas ab uno polo venientes admittunt, non aptæ sint ad easdem, si regrederentur, nec etiam ad illas
+
+Œuvres. III.
+
+CV. Multos esse meatus in maculis, per quos li- bère transeunt particulæ ftriatæ.
+
+ao
+
+[p. 154] 54
+
+Principiorum Philosophie
+
+cvi.
+
+Quæ sit difpofttio istorum meatuum, & cur particulæftriatæ per illos retrogrcdi non possint.
+
+CVII. Cur etiam quæ veniunt ab uno polo, non transeant per eosdem meatus, quàm quæ veniunt ab alto.
+
+quæ veniunt ab alio polo & contrario modo sunt in- tortæ, recipiendas.
+
+Nempe particule ftriatse primi elementi, venientes non ab uno aliquo puncto duntaxat, sed à totâ cœli regione quæ est versus polum A, & tendentes non versus unicum pun&um I, sed versus totum médium cœli H I Q., formant sibi meatus in macula defg, secundùm lineas re&as axi sd parallelas, vel nonnihil utrimque versus d convergentes, horumque meatuum aditus in totâ ejus fuperficiei medietate efg fparfi sunt, & exitus in aliâ medietate edg: ita scilicet ut particulæ ftriatæ, venientes à parte A, facile quidem ipsos ingredi possint per partem efg, & egredi per adversam edg, non autem unquam regredi per hanc edg, nec egredi per efg. Quia, cùm tota ista macula non constet nisi ex ramentis primi elementi minutissimis, quse, sibi mutuò adhserentia, quosdam quasi ramulos componunt, particulæ ftriatse, venientes à parte f istorum ramulorum extremitates, sibi in meatibus istis occurrentes, infleétere debuerunt versus d; ideòque, si per eosdem meatus eis effet regrediendum à d ver- fus/, ifbe ramulorum extremitates nonnihil aflurgen- tes ipsarum transitum impe|dirent. Eodemque modo particulæ ftriatas, venientes à parte B, meatus alios sibi excavarunt, quorum ingressus in totâ superficie edg fparfi sunt, & egressus in adverfâ efg.
+
+Notandumque est istos etiam meatus cochlearum instar esse excavatos, ad formam particularum ftriatarum quas admittunt, ideòque illos qui unis patent, non patere aliis à polo opposito venientibus, & contrario modo intortis.
+
+[p. 155] 144-145-
+
+55
+
+Ita igitur a materia primi elementi utrimque ex polis per istos meatus ad fidus I potest pervenire ; ac quia ejus particulæ ftriatæ cæteris sunt crassiores, ideòque majorem habent vim ad pergendum secundùm lineas rectas, | non solent in eo manere, sed ingreflæ per f, protinus egrediuntur per d, atque ibi occurrentes globulis fecundi elementi, vel materiæ primi à B venienti, non possunt ulteriùs pergere secundùm lineas rectas, sed, in omnes partes reflexæ, per setherem circumfufum xx versus hemifphærium efg revertuntur; & quotquot ingredi possunt meatus maculæ, vel macularum, quæ ibi fidus istud tegunt, per illos rursus progrediuntur ab / ad d ; sicque affiduè per médium fidus transeundo, & per ætherem circumfufum
+
+a. Voir t. IV, p. 458-460.
+
+CVIII. Quomodo materia primi elementi per istos meatus fluat.
+
+[p. 156] I<6 PRINCIPIORUM PhILOSOPHLE i 4 5-i 4 6.
+
+redeundo, quendam ibi quasi vorticem componunt. Quæ vero ab istis meatibus capi non possunt, vel occurfu particularum hujus ætheris diflblvuntur, vel per partes vicinas eclipticæ QH in cœlum abire coguntur*. Quippe notandum est particulas striatas, quæ singulis momentis ad superficiem fideris I appel- lunt, non esse tam multas, ut repleant omnes meatus ad mensuram suam excavatos in maculis efg : quia etiam in cœlo non replent omnia intervalla, quæ sunt inter globulos fecundi elementi ; sed magna copia fubtilioris materiæ illis admixta esse débet, propter varios istorum globulorum motus ; quæ materia sub- tilior cum ipsis ingrederetur istos meatus, nisi particulæ ftriatæ, ab alio fideris hemifphærio reflexæ, ma- jorera haberent vim ad illos occupandos. Quæ vero i5 hîc de particulis ftriatis per hemifphærium efg ingre- dientibus sunt dicta, de iis etiam quæ ingrediuntur per hemifphærium e^sunt intelligenda: quòd nempe sibi alios meatus, à prioribus plané diversos, exca- vârint, per quos semper plurimæ fluunt à d versus/in fidere I ac maculis ipsum circumdantibus ; & deinde, in omnes partes reflexæ, per ætherem xx revertuntur ad d, cùm intérim tôt dissolvuntur, | vel exeunt versùs eclipticam, quot novæ à polo B accedunt. cix. Residuum autem materiæ primi elementi, quod in
+
+^ «LIS/S spatio I continetur, circa axem si gyrando, semper interjecent. j n( j e re cedere conatur ; ideòque quosdam exiguos meatus sibi ab initio formavit, semperque postea conservat in macula defg, qui priores decuflatim interfe- cant, & per quos aliquid istius materiæ solet effluere, 3o
+
+a. Voir t. V, p. 387.
+
+[p. 157] i 4 6.
+
+57
+
+quia semper aliquid per priores, simul cura particulis ftriatis, ingreditur. Cùm enim omnes maculæ partes sibi invicem adhæreant, non potest circumferentia defg nunc major fieri, nunc minor : ideòque semper æqualis quantitas materiæ primi elementi débet in fidere I contineri.
+
+Et ideò etiam tita vis, in quâ lumen consistere suprà diximus", vel nulla prorsus in ipso, vel non nisi admodum debilis esse potest. Nam, quatenus ejus materia circa axem/i rotatur, vis omnis quâ recedere conatur ab isto axe, in macula frangitur, & ad globulos se- eundi elementi nonpertingit; nec etiam illa, quâ ejus particule ftriatse, ab uno polo venientes, re&à versùs alium tendunt, quicquam potest præstare : non modo
+
+a. Art. lxxvii et lxxviii, p. 1 3 1 et 1 33.
+
+CX.
+
+Quoi lumen stellæ per maculant vix poJJHt transire.
+
+[p. 158] 1^8 Principiorum Philosophie i 4 6-i 4 8.
+
+quia istæ particule valde exiguæ sunt, respe&u globulorum cœlestium in quos impingunt, ac etiam aliquantô tardiùs, quàm reliqua materia primi elementi, moventur; sed præcipuè quia illæ quæ ab uno polo veniunt, non magis istos globulos in unam partem propellunt, quàm aliæ, ex alio polo venientes, in adversam. cxi. Materia autem cœlestis in toto vortice, hoc fidus I
+
+prZïfcapffrentî™' circumjaceiite, comprehensa, suas intérim vires potest retinere, quamvis forte illæ non sufficiant ad sensum luminis | in oculis nostris excitandum : fierique potest ut intérim iste vortex prævaleat aliis vorticibus sibi vicinis, & fortiùs illos premat quàm ab ipsis prematur. Unde sequeretur fidus I augeri debere, niû macula defg, illud circumfcribens, id impediret. Nam, si jam i5 circumferentia vorticis I sit AYBM, putandum est ejus globulos, circumferentiæ isti proximos, eandem habere vim ad progrediendum ultra ipsam, versus alio s vortices circumpofitos, ac globulos horum vorticum ad progrediendum versus I, non majorem nec minorem : hæc enim unica ratio est, cur ejus circumferentia ibi potiùs quàm alibi terminetur. Si autem, cæteris immutatis, contingat ut minuatur illa vis, quâ, | exempli causâ, materia vorticis O tendit versus I (hocque variis ex causis potest contingere, ut si ejus materia in alios vortices transeat, vel multæ macula? circa fidus in O existens generentur, &c), necesse est, exlegibus naturæ, ut globuli vorticis I, qui sunt in circumferentia Y, ultra ipsam pergant versus P ; & quia reliqui omnes, qui sunt inter I &. Y, eô versus etiam tendunt, 3o inde augeretur spatium in quo est fidus I, nisi macula
+
+[p. 159] 148-149-
+
+M9
+
+defg ipsum terminaret ; sed quia hæc macula non per- mittit illud augeri, globuli cœlestes ei proximi paulò majora solito intervalla circa se relinquent, & plus materiæ primi elementi in iis intervallis continebitur, quæ, quandiu in ipsis erit dispersa, | non magnas vires habere potest. Si autem contingat particulas primi elementi, per poros maculæ exeuntes & in globulos illos impingentes, vel aliam quamvis causam, aliquos ex istis globulis à maculæ superficie fejungere, materia primi elementi, spatium intermedium statim replens, satis virium habebit ad alios globulos istis vicinos ab eâdem maculæ superficie fejungendos ; & quô plures ab illâ ita fejunget, eô plus virium acquiret : ideòque brevissimo tempore, ac tanquam in momento, supra totam istam superficiem se diffundet;
+
+[p. 160] 16o
+
+Principiorum Philosophie
+
+cxii.
+
+De/criptio Stellæ paulatim difparentis.
+
+149.
+
+ibique non aliter gyrans, quàm ea quæ intra maculam continetur, non minori vi pellet globulos cœli circumpofitos, quàm eosdem pelleret ipsum fidus I, si nulla macula illud involvens ejus actionem impediret : atque ita magnâ luce ex improviso fulgebit.
+
+Jam verô, si forte contingat, istam maculam esse
+
+tam tenuem & raram, ut à materiâ primi elementi, supra ejus exteriorem superficiem sie effufâ, diffol- vatur, non facile postea fidus I rursus difparebit : ad hoc enim opus effet, ut nova macula ipsum totum rursus involveret. Sed si crassior sit quàm ut ita queat dissolvi, denfabitur exterior ejus superficies", ob impulfum
+
+4 illud] eum (/" édit.). a. Art. eu, p. 151.
+
+[p. 161] I49"i5i.
+
+materiae ipsam circumfluentis : atque intérim si mutentur causæ, ob quas priùs minuta fuerat illa vis, quâ materia vorticis O tendit versus I, jamque è contra augeatur, repelletur rursus materia vorticis I à P versus Y, & hoc ipso materia primi elementi, supra maculam de/g diflufa, minuetur, & simul novæ maculée in ejus superficie generabuntur, quæ paulatim ipsius lumen obtundent ; & denique, si causa perseveret, plané tollent, atque omnem locum istius materiæ primi elementi | occupabunt. Cùm enim globuli vorticis I, qui sunt in exteriori ejus circumferentiâ APBM, magis solito prementur, magis etiam pre- ment illos, qui sunt in interiori circumferentiâ xx, quique ita prefli, & ramofis particulis ætheris illius, quem circa sidera generari diximus 8 , intertexti, non facilem transitum præbebunt particulis flriatis, aliisve non minutissimis materiæ primi elementi, supra maculam de/g diffusæ : unde fiet, ut ipsæ ibi perfacilè in maculas congregentur.
+
+Obiterque hîc est notandum, particulas striatas in omnibus istis macularum corticibus continuos sibi meatus excavare, ac per omnes simul, tanquam per unam solam | maculam, transire. Formantur enim istæ maculæ ex ipsâ materia primi elementi, & ideô initio sunt molliffimæ, iflifque flriatis particulis facilem viam præbent. Quod idem de æthere circumfufo diçi non potest ; quamvis enim crassiores ejus particulæ nonnulla etiam istorum meatuum vestigia retineant, quoniam ex macularum dissolutione genitæ sunt : quia tamen motui globulorum fecundi elementi obfequun-
+
+a. Art. c, p. i5o. Œuvres.?III.
+
+CXIIi.
+
+In omnibus maculis multos meatus à particulis flriatis cxcavari.
+
+21
+
+[p. 162] 102
+
+PRINCIPIORUM PhILOSOPHLE
+
+151-15s.
+
+CXIV. Eandem Jlellam posse per vices apparere ac difparere.
+
+CXV.
+
+Totum aliquando vorticem, in cujus centra est Stella, destrui posse.
+
+tur, non semper eundem situm servant, nec ideô particulas striatas reftà pergentes, nisi admodum difficulter, admittunt.
+
+Sed facile fieri potest, ut eadem stella fixa per vices appareat & difpareat, singulisque vicibus quibus dis- parebit, novo vortice macularum involvatur. Talis enim alternatio est naturæ valde familiaris, in corporibus quæ moventur : ita scilicet ut, cùm ab aliquâ causâ versùs certum terminum impulsa sunt, non in eo subsistant, sed ulteriùs pergant, donec rursus ab aliâ causâ versùs ipsum repellantur. Ita, dum pondus sunt appensum, vi gravitatis ab uno latere ad perpendiculum suum descendit, impetum acquirit, à quo ultra istud perpendiculum in oppositum latus fertur, donec rursus gravitas, isto impetu fuperato, illud versùs perpendiculum moveat, & inde novus in eo impetus oriatur. Ita, vase semel moto, liquor in eo con- tentus multoties it & redit, antequam ad quietem reducatur. Et ita, cùm omnes cœlorum vortices in quodam æquilibrio consistant, ubi unius materia semel ab isto sequilibrio recessit, potest multoties nunc in unam, nunc in advérsam partem excurrere, antequam ab isto motu quiescat.
+
+Fieri etiam potest ut totus vortex, in quo talis aliquâ stella fixa continetur, ab aliis circumjacentibus vorticibus | abforbeatur, & ejus stella, in aliquem ex istis vorticibus abrepta, mutetur in Planetam vel Cometam. Nempe duas tantùm causas suprà invenimus 8 ,
+
+5-6 difparebit] apparebit (/" édit.). a. Art. lxix-lxxi, p. 1 19-125.
+
+[p. 163] 152.
+
+i6j
+
+quæ impediant ne uni vortices ab aliis deftruantur ; harumque una, quæ consistit in eo, quòd materia unius vorticis obje&u vicinorum impediatur ne versùs alium
+
+?lfcl%KsSW5!
+
+mrrt
+
+fêftïW»V.v. O--
+
+-v>\
+
+quem possit evagari, non potest in omnibus locum habere.
+
+5 Nam si, exempli causâ, materia vorticis S à vorticibus L & N ita utrimque prematur, ut hoc impediat
+
+[p. 164] CXVI. Quomodo destrui possit, antequam multæ ma- cules circa ejus ftel- lamfent congregatee.
+
+164 Principiorum Philosophie i5s-i5 4 .
+
+ne versus D ulteriùs progrediatur, non potest eâdem ratione impediri à vortice D, ne se diffundat versùs L & N, nec etiam ab ullis aliis, nisi qui sint ei viciniores, pro ratione fuse magnitudinis ; atque adeò in omnium maxime vicinis non habet locum. Altéra autem causa, quòd nempe materia primi elementi, in centro cujusque vorticis fidus componens., globulos fecundi circa illud existentes à se repellat versùs alios vortices vicinos, locum quidem habet in omnibus iis vorticibus, quorum fideranullis maculis involvuntur; sed non dubium est, quin densiorum macularum inter- ventus eam tollat; præsertim earum, quæ plurium çorticum instar sibi mutuò incumbunt.
+
+Atque hinc patet non esse quidem periculum, ne ullus vortex ab aliis vicinis destruatur, quamdiu fidus quod in centro suo habet, nullis maculis est involutum ; sed, cùm illis tegitur & obruitur, pendere tantùm à situ, quem iste vortex inter alios obtinet, ut vel citiùs vel tardiùs ab ipsis abforbeatur. Nempe si talis sit ejus situs, ut vicinorum aliorum vorticum curfui valde resistat, citiùs ab illis deftruetur, quàm ut multi macularum cortices circa ejus fidus denfari poflïnt; sed si minori sit ipsis impedimento, | lente tantùm minuetur; interimque maculæ, fidus in ejus medio post- tum obfidentes, denfiores fient, pluresque ac plures tam supra quàm etiam intra illud congregabuntur. Sic, exempli causâ, vortex N ita situs est, ut apertè cursum vorticis S magis impediat quàm ulli alii vicini ; quapropter facile ab hoc vortice S abripietur, statim atque aliquot maculis illius fidus erit involutum : ita
+
+27 En marge : NB. Vide fig. pag. prtvc. (1" edit.).
+
+[p. 165] 15 4 . Pars Tertia. 16$
+
+scilicet, ut circumferentia vorticis S, quæ jam termi- natur lineâ OPQ^ terminetur postea lineâ ORQ.; to- taque materia, quæ continetur intra lineas OPQ.&
+
+ORQ., ei accédât, ejusque cursum sequatur, reliquâ materiâ, quæ est inter lineas ORQ. & OMQ., in alios vicinos vortices abeunte. Nihil enim aliud vorticem N
+
+[p. 166]
+
+PRINCIPIORUM PhILOSOPHLE
+
+1 54-1 55.
+
+CXVII. Quomodo permultcv macula? circa aliquam Jtellam ejjfe poflnt, antequam ejus vortex dejlrua- tiir.
+
+CXVIII.
+
+Quomodo ijîce mulnv
+
+macula- generentur.
+
+^ H *3&
+
+in eo situ, in quo nunc esse supponitur, potest conservare, quàm magna vis materiæ primi elementi, in ejus centro existentis, quæ globulos fecundi circumquaque ita propellit, ut ejus impulfui potiùs quàm motibus vicinorum vorticum obfequantur : quæ vis interventu macularum debilitatur & frangitur.
+
+Vortex autem C inter quatuor S, F, G, H, duofque alios M & N, qui supra istos quatuor intelligendi sunt, ita est constitutus, ut quamvis denfæ maculæ circa ejus fidus congregentur, nunquam tamen totus pofîit everti, quandiu isti sex sunt viribus inter se æquales. Quippe suppono vortices S, F, WtWw&£^' :: 2ÏË$& & tertium M, ipsis incumben- •^^^^vy^^ tem supra pun&um D, circa propria centra gyrare à D versus C : itemque très alios G, H, & sextum N, supra ipsos positum , verti ab E | versus C ; vorticem autem C ita inter hos sex esse constitutum, ut ipsos solos tangat, & ejus centrum ab eorum sex centris æquidiftet, axis- que, circa quem gyratur, fit in lineâ DE. Quâ ratione istorum septem vorticum motus inter se optimè convenant ; & quantumvis multis maculis fidus vorticis C obruatur, adeò ut perexiguas, vel etiam plané nullas habeat vires ad globulos cœli circa se positos secum in orbem rapiendos, non tamen ulla est ratio, cur alii sex illud è loco suo expellant, quamdiu inter se sunt æquales.
+
+Sed ut sciamus quo pacto tam multæ maculæ circa 3o illud generari potuerint, putemus ipsum initio non [p. 167] i55-i56. Pars Tertia. 167
+
+minorem fuisse, quàm unum ex aliis sex eî circumjacentibus, ita ut circumferentiam suam usque ad puncta 1,2, ) , 4 extenderet ; fidufque permagnum in centro suo habuifTe, utpote quod componebatur ex materiâ primi elementi, quæ per D ex tribus vorticibus S, F, M, & per E ex tribus aliis G, H, N, verfùs C reftà tendebat, & inde non regrediebatur, nisi in eosdem illos vortices versus K & L ; adeò ut istud fidus satis virium habere potuerit, ad totam materiam cœli
+
+10 1234 secum in gyrum agendam. Sed quia, propter inæqualitatem & incommenfurabilitatem quantitatum & motuum, quæ in aliis partibus universi reperitur, nihil in perpetuo æquilibrio stare potest, ubi forte vortex C minus virium habere cœpit quàm alii circumjacentes, pars ejus materiæ in ipsos migravit, & quidem cum impetu ; ita ut ea pars quæ sie migravit, fuerit major quàm ista inæqualitas exigebat, ideôque rursus postea nonnihil materiæ in ipsum ex aliis remi- gravit, atque ita per vices. Cùmque intérim multi macularum cortices circa | ejus fidus generarentur, magis ac magis illius vires minuebantur, & idcirco, singulis vicibus, minus materiæ in illum regredieba- tur quàm ab ipso exiiflet, donec tandem perexiguus evaferit, vel etiam totus fuerit abforptus, solo ejus fidere excepto, quod, multis maculis circumvallatum, in materiam aliorum vorticum abire non potest, nec etiam ab istis aliis vorticibus è loco, in quo est, extrudi, quamdiu isti vortices sunt inter se æquales. Sed intérim ejus maculæ magis ac magis denfari debent,
+
+^n ac tandem, ubi unus aliquis ex vicinis vorticibus, aliis 5 En marge : NB. Vide fig. pag. præc. (7™ édit.).
+
+[p. 168] i68
+
+Principiorum Philosophie
+
+i 56-i 57.
+
+CXIX. Quomodo Stella fixa mutetur in Cometam vel in Planetam.
+
+major & potentior evadet, ut si vortex H extendat iuam superficiem usque ad lineam $67, tune facile vortex H totum fidus C, non hîc ampliùs fluidum & lucidum, sed, Cometæ vel Planeta? inltar, durum & opacum, secum abducet. Jam verò considerandum est, quâ ratione debeat moveri talis globus opacus & durus, ex multarum macularum congerie compositus, cùm primùm ab aliquo vortice sibi vicino abreptus est. Nempe ita gyrat cum materiâ à quâ abripitur, ut quandiu minus habet agitationis quàm ipsa, verfùs centrum circa quod gyrat detrudatur. Et quia omnes partes ejusdem vorticis non 1 5 eâdem celeritate moventur, nec sunt ejusdem magnitudinis; sed à circumferentiâ usque ad certum terminum earum motus gradatim fit tardior, ac deinde ab isto termino usque ad centrum gradatim fit celerior, | & ipsæ sunt minutiores, ut suprà dictum est a : si globus in illo vortice descendens adeò sit solidus, ut priusquam pervenerit ad terminum in quo partes vorticis omnium tar- difîimè moventur, acquirat agitationem æqualem agi- tationi earum partium, inter quas versatur, non ulteriùs descendit, sed ex illo vortice in alios transit, & est Cometa. Si verò minus habeat soliditatis, atque idcirco infra terminum illum descendat, ibi postea ad certam distantiam à fidere, quod illius vorticis centrum occupât, semper manens, circa ipsum rotatur, & est Planeta b .
+
+a. Art. lxxxiii, lxxxiv et lxxxv, p. ilj, 1 38 et 140.
+
+b. Voir t. IV, p. 461-463.
+
+[p. 169] i5 7 .
+
+Pars Tertia. 169
+
+Putemus, exempli causâ, materiam vorticis AEIO, nunc primùm secum abripere fidus N, & consideremus versùs quam partem illud feret. Nempe cùm om-
+
+cxx.
+
+Quàferatur talis Stella, cùm primùm désinit fixa esse.
+
+nis ista materia gyret circa centrum S, ideòque inde recedere conetur, ut suprà explicui % non dubium est
+
+1 En marge : NB. Vide fig. pag. seq. (/*" édit.).
+
+a. Art. lvi et suiv., p. 108. Œuvres. III.
+
+22
+
+[p. 170]
+
+Principiorum Philosophie
+
+CXXI. Quid per corporum Jo- liditatem, & quid per eorum agitationem intelligamus.
+
+quin ea quæ jam versatur in O, pergendo per R ad Q_, detrudat hoc fidus secundùm lineam re&am versùs S : atque ex naturâ gravitatis infrà a explicandâ, intellige- tur istum motum fideris N, alteriusve cujusvis corporis, versùs centram vorticis in quo versatur, dici posse ejus descensum. Sic, inquam, ipsum detrudit initio, cùm nondum intelligimus in eo esse alium motum ; sed statim etiam illud circumquaque ambiendo, secum defert motu circulari ab N versùs A ; cùmque hic motus circularis ei det vim recedendi à centro S, pendet tantùm ab ejus soliditate, ut vel multùm descendat versùs S, nempe si perexigua sit ejus soliditas ; vel contra, si magna sit, ab S recédât.
+
+| Per soliditatem hîc intelligo quantitatem materiæ tertii elementi, ex quâ maculæ hoc fidus involventes componuntur, cum ejus mole & superficie compara- tam. Quippe vis, quâ materia vorticis AEIO id defert circulariter circa centrum S, æstimanda est à magnitu- dinefuperficiei, secundùm quamipfi occurrit; quiaquô major est ista superficies, eô plus materiæ in hoc agit. Vis autem, quâ ista materia versùs idem centrum S ipsum pellit, æstimanda est à magnitudine spatii quod ab eo occupatur. Quamvis enim omnis illa materia, quæ est in vortice AEIO, conetur recedere ab S, non tamen omnis agit in fidus N, sed tantùm ea ejus pars, quæ reipfâ inde recedit, cùm hoc accedit; hsecque est æqualis spatio quod ab eo fuit occupatum. Denique vis quam idem fidus N à proprio suo motu acquirit ad perfeverandum in eodem illo motu, quam ipsius agitationem voco, non æstimanda est ab ejus superficie, 3o
+
+a. Pars IV, art. xxiii.
+
+[p. 171] 15 9 .
+
+nec à totâ ejus mole, sed tantùm ab eâ ejus molis parte, quæ confiât materiâ tertii elementi, hoc est, particulis materiæ sibi mutuo adhærentibus, ex quibus maculæ iplum involventes componuntur. Quantum enim ad materiam primi, vel etiam fecundi elementi, quæ in eo est, cùm affiduè ex ipso egrediatur,
+
+[p. 172] 7 2
+
+PRINCIPIORUM PHILOSOPHIiE
+
+CXXII.
+
+Soliditatem non à sold materiâ,sed etiam à magnitudine ac figura pendere.
+
+CXXIII. Quomodo globuli cœ- testes intégra aliquo fidere folidiores esse possint.
+
+& nova redeat in locum exeuntis, non potest nova ista materia accedens vim retinere quæ priori jam egreflæ fuit impressa, & præterea vix ulla ei fuit impressa, sed tantùm motus, qui aliunde in eâ erat, determinatus est versus certam partem ; atque hæc determinatio à variis causis affiduè potest mutari 3 .
+
+Sic videmus hîc supra terram aurum, plumbum & alia metalla, cùm semel mota sunt, majorem agitationem ûve majorem vim ad perfeverandum in suo motu retinere, | quàm ligna & lapides ejusdem magnitudinis & figuræ ; ac etiam idcirco magis solida esse pu- tantur, sive plus habere in se materiæ tertii elementi, ac pauciores poros qui materiâ primi & fecundi replen- tur. Sed auri globulus esse potest tam minutus, ut non tantam vim habiturus sit, ad motum sibi impref- sum retinendum, quàm globus lapideus vel ligneus multô major. Potestque etiam raaffa auri tates figuras induere, ut globus ligneus ipsâ minor majoris agitationis sit capax : nempe si extendatur in fila aut bra&eas, aut fpongiæ instar multis minutis foramini- bus excavetur, aut quocunque alio modo plus super- ficiei acquirat, pro ratione suæ materiæ & molis, quàm ille ligneus globus.
+
+Atque ita fieri potest ut fidus N, quamvis mole permagnum, & satis multis macularum corticibus involutum, minus tamen habeat soliditatis, sive minus aptitudinis ad motus suos retinendos, quàm globuli materiæ fecundi elementi ipsum circumjacentes. Hi enim globuli, pro ratione suæ magnitudinis, sunt omnium folidiflimi qui esse polïïnt, quia nullos in ipsis
+
+a. Voir t. V, p. 387.
+
+[p. 173] i6o-i6i. Pars Tertia. ij)
+
+meatus, aliâ materiâ solidiori repletos, intelligimus ; & figuram obtinent sphæricam, quæ omnium minimum habet fuperficiei, pro ratione molis sub se contenta?, ut Geometris est satis notum. Et præterea, quamvis sit permagna disparitas inter ipsorum exiguitatem & magnitudinem alicujus fideris, hæc tamen ex parte compensatur, eo quòd non vires singulorum ex istis globulis, sed plurium simul, istius fideris viribus opponantur. Cùm enim illi cum aliquo fidere circa cen|trum S rotantur, tenduntque omnes, nec non etiam istud fidus, ut ab S recédant, si vis inde recedendi, quæ est insidere, fuperet vires simul jun&as, quæ sunt in tôt ex istis globulis, quot requiruntur ad spatium quod fidus occupât replendum : tune ipsum i5 recedet ab S, efiicietque ut isti globuli in locum suum descendant; & contra, si illi plus habeant virium, ipsum versùs S expellent.
+
+Fieri enim etiam facile potest, ut fidus N multò plus
+
+. . i r i • r s Quomodo etiam esse habeat virium ad perleverandum in luo motu lecun- pojjini minus joiidi.
+
+dùm lineas rectas, quàm globuli materiæ cœlestis ipsum circumjacentes, etiamsi minus materiæ tertii elementi in eo contineatur, quàm fecundi, in tôt ex istis globulis, quot requiruntur ad spatium ipsi æquale occupandum. Quia cùm sint à se mutuò disjundi, &
+
+varios habeant motus, quamvis junctis viribus in illud agant, non pofTunt tamen omnes suas vires ita simul jungere, ut nulla earum pars inutilis fiât : contra autem omnis materia tertii elementi, ex quâ maculæ hoc fidus involventes aërque ipsum ambiens componuntur, unam tantùm massam facit, quæ cùm tota simul moveatur, tota etiam vis, quam habet ad perse-
+
+cxxiv.
+
+[p. 174]
+
+Principiorum Philosophie
+
+161-16î.
+
+CXXV. Quomodo quidam fuit aliquo fidere magis solidi, alii minus.
+
+CXXVI.
+
+De principio motùs
+
+Cometœ.
+
+verandum in suo motu, versùs easdem partes tendit. Similemque ob causam, videre licet in fluminibus fragmenta glaciei, vel ligna quæ aquæ innatant, majori vi persequi cursum suum, secundùm lineas rectas, quàm ipsam aquam, & ideô solere multò fortiùs in riparum sinus impingere, quamvis minus materiæ tertii elementi in iis contineatur, quàm in mole aquæ ipsis æquali.
+
+| Denique fieri potest, ut idem fidus minus habeat soliditatis, quàm quidam globuli cœlestes, & magis quàm alii paulò minores; tum propter jam di&am rationem, tum etiam quia, licèt non magis nec minus sit materiæ fecundi elementi in istis globulis minoribus simul sumptis, quàm in majoribus, cùm æquale spatium occupant, esl tamen in ipsis multò plus super- ficiei; & propter hoc à materiâ primi elementi, quæ angulos iis interjedos replet, nec non etiam à quibuslibet aliis corporibus, faciliùs à cursu suo revocantur, atque versùs alias partes defleduntur, quàm alii majores.
+
+Jam itaque, si ponamus fidus N plus habere soliditatis quàm globulos fecundi elementi, satis remotos à centro vorticis S, quos supponimus omnes elle inter se æquales, poterit quidem initio in varias partes ferri, & magis vel minus accedere versùs S, pro varia difpo- sitione aliorum vorticum, à quorum viciniâ difcedet; potest enim diversimodè ab ipsis retineri vel impelli ; ac etiam pro ratione suæ soliditatis, quæ quò major esl, eô magis impedit ne aliæ causæ postea ipsum de- fleélant de eâ parte in quam primùm directum esl. Verumtamen non valde magna vi potest impelli à
+
+[p. 175] j6j.
+
+75
+
+vicinis vorticibus, quia supponitur juxta illos priùs quieviffe ; nec ideo etiam ferri contra motum vorticis AEIO, versùs eas partes quæ sunt inter I & S, sed tantùm versus illas quæ sunt inter A & S ; ubi tandem
+
+5 débet pervenire ad aliquod punctum, in quo linea quam motu suo deicribit, tangat unum ex iis circulis,
+
+[p. 176] CXXVII. De continuatione motus Cornette per di- verfos vortices.
+
+I76 PRINCIPIORUM PHILOSOPHLE 162-J64.
+
+secundùm quos materia cœlestis circa centrum S gyrat; & postquam eô pervenit, ita cursum suum ulteriùs persequitur, ut semper magis ac magis recédât à centro S, donec ex vortice | AEIO in alium migret. Ut si moveatur initio secundùm lineam NC, postquam pervenit ad C, ubi hæc linea curva NC tangir. circulum, qui ibi describitur à globulis fecundi elementi circa centrum S : non potest non statim recedere ab S per lineam curvam C2, sitam inter hune circulum, & rect.am eum in pun&o C tangentem. Cùm enim dela- tum sit ad C, à materiâ fecundi elementi magis re- motâ ab S quàm ea quæ est in C, ac proinde celeriùs acta, fitque ipsâ solidius, ut supponimus : non potest non habere majorem vim ad perfeverandum in suo motu secundùm lineam re&am tangentem istum circulum; sed statim atque receflit à punctojC, occurrit materiæ fecundi elementi celeriùs motæ, quæ illum nonnihil avertit à lineâ rectâ, simulque augendo ejus celeritatem efficit ut ulteriùs ascendat secundùm lineam curvam C2, quæ eô minus distat à reftâ tangente, quò hoc fidus solidus est, & quò majori cum celeritate de- latum est ab N ad C.
+
+Cùm autem per hune vorticem AEIO hac ratione progreditur, tantam vim agitationisacquirit, ut facile inde in alios vortices migret, atque ex his in alios. Notandumque est, cùm pervenit ad 2, egrediturque limites vorticis in quo est, ipsum adhuc aliquandiu retinere ejus materiam circa se fluentem, nec plané ab eâ liberari, donec satis altè in alium vorticem AEV penetrânt : nempe donec pervenerit ad j . Eodemque modo ducit secum materiam hujus fecundi vorticis
+
+[p. 177] 164-166.
+
+versùs 4 in fines tertii, & hujus tertii versùs 8 in fines quarti; sicque semper idem facit, quoties ex | uno vortice in alium migrât. Et linea quam motu suo describit, diversimodè incurvatur, pro diverso motu materiæ vorticum per quos transit. Ita ejus pars 2 j 4
+
+plané alio modo inflexa est quàm praecedens N C 2 :
+
+[p. 178] CXXVIII.
+
+Phanomena Cometarum.
+
+178 Principiorum Philosophie 166.
+
+quia materia vorticis F vertitur ab A per E versus V, & materia vorticis S ab A per E versus I; istius autem lineæ pars 5 67 8 esl ferè recta, quia materia vorticis in quo est, supponitur gyrare circa axem XX. Et sidera ex unis vorticibus in alios hoc pacto migrantia sunt Cometæ : ipsorumque omnia phænomena hîc explicare conabor.
+
+In primis observatur illos, sine ullâ régula nobis nota, unum per hanc, alium per illam cœli regionem tranfmeare, ac intra paucos menses aut dies à con- spectu nostro abire, nec unquam plus, aut certè non multò plus, sed sæpe multò minus quàm mediam cœli partem percurrere. Ac quidem cùm primùm apparere incipiunt,solere satis magnos videri, nec postea valde augeri, niû* cùm valde magnam cœli partem percur- runt ; cùm autem desinunt, gradatim semper imminui ; atque initio, vel saltem circa initia sui motûs, videri celerrimè moveri, sub finem autem lentiffimè. Ac de uno duntaxat memini me legifTe, quòd circner mediam cœli partem peragrârit : de illo scilicet qui dicitur anno 1475, primo tenui capite ac tardi motûs, inter stellas Virginis apparuifTe, ac paulò pòst mirse magnitudinis factus, per polum Borealem tam celeriter inceffifle, ut portionem circuli magni triginta vel quadraginta graduum, unâ die, descripserit; ac
+
+19 Astérisque. En marge : Apud Lotharium Sarfium, sive Horatium Graffium in librâ Astronomicâ, ubi tanquam de duobus Cometis loquitur; sed judico unicum fuisse, cujus historiam à duobus auctoribus habet, Regiomon- tano & Pontano {r'édit.). — Cf. t. IV, p. 1S1, t. 4 et 14, et
+
+p. 665.
+
+[p. 179] 166-167.
+
+tandem prope stellas Piscis septentrionalis , sive in signo Arietis paulatim videri desiisse.
+
+Quæ omnia hîc facile intelliguntur. Videmus enim |eundem Cometam, aliam cœli partem in vortice F, aliamque in vortice Y permeare, ac nullam esse per quam non possit hoc pacto aliquando transire. Putandumque esl ipsum ferè eandem celeritatem semper retinere : illam scilicet quam acquirit transeundo per vorticum extremitates, ubi materia cœlestis tam citô movetur, ut intra paucos menses integrum gyrum abfolvat, quemadmodum suprà dictum est a . Et quia hic Cometa in vortice Y mediam tantùm partem istius gyri, & multò minus in vortice F, nunquamque in ullo multò plus percurrit : idcirco tantùm per paucos menses in eodem vortice manere potest. Atque si con- fideremus illum à nobis videri non posse, nisi quamdiu esl in illo vortice, prope cujus centrum verfamur ; atque etiam non priùs ibi apparere, quàm b materia alterius vorticis, ex quo venit, ipsum sequi & circum- fluere plané desierit : cognofcemus quo pacto, quamvis idem Cometa maneat semper ejusdem magnitudinis & ferè semper æquè celeriter moveatur, debeat tamen videri major & celerior, initio sui curfûs apparentis, quàm in fine ; ac interdum in medio maximus & celerrimus putari. Nam li putemus oculum fpeéta- toris esse prope centrum S. Cometa illi multo major & celerior apparebit in 3 , ubi primùm videri incipiet, quam in 4 ubi desinet : quia linea F } multò brevior
+
+26 En marge : Vide fig. pag. 169 (/" édit.).
+
+a. Art. lxxxii, p. 137.
+
+b. Voir t. V, p. 387.
+
+CXXIX.
+
+Horum phcenomermn
+
+explicatio.
+
+[p. 180] i8o
+
+Principiorum Philosophie
+
+cxxx.
+
+Quomodo fixarum lumen ad Terrant usque perveniat.
+
+est quàm F4, & angulus F4} acutior quàm angulus F ) 4. Si autem spectator sit versus Y, Cometa quidem illi aliquantô major & celerior apparebit in $, ubi videri incipiet, quàm in 8, ubi desinet ; sed maximus & celerrimus apparebit, dum erit inter 6 & y, ubi erit spe&atori proximus. Adeò ut, dum erit in $,apparere possit inter stellas Virginis"; dum inter 6 & 7, prope polum Borealem, | & ibi unâ die triginta vel quadraginta gradus percurrere ; ac tandem occultari in 8, prope stellas Piscis septentrionalis : eodem modo atque ille mirabilis Cometa anni 1475, î 1 " dicitur à Regiomon- tano observatus.
+
+Quæri quidem potest cur Cometæ non appareant, nisi cùm in nostro cœlo versantur, cùm tamen Fixæ confpicuse sint, licèt ab ipso longissïmè distent. Sed in eo difierentia est, quôd Fixæ, lumen à se ipsis emit- tentes, multò fortiùs illud vibrent quàm Cometæ, qui tantùm illud, quod à Sole mutuantur, ad nos reste- éhint. Et quidem, advertendo lumen cujusque stellæ esse aftionem illam, quâ tota materia vorticis in quo versatur, ab eâ recedere conatur, secundùm lineas rectas ab omnibus ejus fuperficiei pun6Hs eductas, sicque omnem materiam vorticum circumjacentium premit, secundùm easdem lineas rectas vel alias æquipollentes : (cùm nempe istæ lineæ, per alia corpora obliqué transeuntes, in ipsis refringuntur, ut in Dioptricâ explicui), facile credi potest non modo lumen proximarum stellarum, ut F &s, sed etiam remotiorum, ut Y, vim habere movendi oculos incola- rum terras, qui putandi sunt non longé abefte à centro S. Cùm enim illarum, simulque vorticum ipsas circumjacentium
+
+[p. 181] i68.
+
+18
+
+vires, in perpetuo æquilibrio versen- tur, vis radiorum ab F venientium versus S minuitur quidem 3 à materiâ vorticis AEIO ipsis renitente, sed tamen non tota deletur, nisi in centro S ; ideôque nonnulla pervenire potest usque ad terram, quee alia. Voir t. V, p. 388.
+
+[p. 182] l82
+
+PrINCIPIORUM PhILOSOPHLE
+
+CXXXI. An Fixce in veris totis videantur : & quid sit Firmamentum.
+
+CXXXII.
+
+Cur Cometæ à nobis non videantur, cùm sunt extra nostrum cœlum : & obiter, cur carbones sint nigri,
+
+~ & cineres albi.
+
+quantulum distat ab isto centro. Itemque, radii ab Y ad terram venientes, transeundo per vorticem AEV, nihil in eo suarum virium amittunt, nisi ratione distantiæ ; non enim eorum vim magis minuit materia hu|jus vorticis, ex eo quôd ab F recedere conetur, versùs partem fuse circumferentiæ VX, quàm auget ex eo quôd etiam tendat ab F versus aliam partem circumferentiæ AE : atque ita de cæteris.
+
+Hîcque obiter est advertendum, radios ab Y ad terram venientes, obliqué incidere in lineas AE & VX, quæ designant superficies, in quibus vortices isti terminantur, & ideò in ipsis refringi. Unde sequitur, fiel- las fixas non videri omnes ex terra, tanquam in locis in quibus rêvera exsistunt, sed tanquam û essent in locis fuperficiei vorticis AEIO, per quæ transeunt illi earum radii, qui perveniunt ad terram, sive ad viciniam Solis ; ac forte etiam unam & eandem flellam in duobus aut pluribus ejusmodi locis apparere. Quæ loca cùm non deprehendantur fuisse mutata, ex quo ab Astronomis notata sunt, non puto aliud quàm istas superficies per nomen Firmamenti esse intelligendum.
+
+Cometarum autem lumen, cùm sit multò debilius quàm Fixarum, non satis habet virium ad oculos nostros movendos, nisi sub angulo satis magno videantur, & ideò ratione distantiæ non apparent, cùm à cœlo nostro sunt nimis remoti ; notum enim est, quô magis aliquod corpus à nobis remotum est, eô sub minori angulo videri. Cùm autem ad ipsum propiùs accedunt, variæ esse possunt rationes, ob quas priusquam in illud ingrediantur, conspicui non sint : quarum
+
+[p. 183] I70-I7Î.
+
+18
+
+quænam lit præcipua, non facile est definire. Nam, exempli cauffâ, si oculus spe&atoris sit versus F, nondum videbit Cometam in 2, quia ibi cingetur adhuc materiâ vorticis ex quo egreditur; & tamen videbit
+
+5 illum in 4, ubi erit remotior. Cujus rei ratio esse potest, quod ra|dii fideris S tendentes versùs 2, ibi refringantur
+
+[p. 184] 184 PRINCIPIORUM PHILOSOPHLE 17a-
+
+in superficie convexâ materiæ vorticis AEIO, quœ Cometam adhuc involvit, & refradio illa ipsos removeat à perpendiculari, juxta ea quæ in Dioptricâ explicui 3 : quia nempe radii isti multô difficiliùs transeunt per hanc materiam vorticis AEIO, quàm per illam vorticis AEVX:unde fit, ut longé pauciores perveniant ad Cometam, quàm si refradio ista non fieret; hique pauciores, inde ad oculum reflexi, possunt esse nimis débiles ad eum movendum. Alia verô ratio est, quôd valde fit credibile, quemadmodum eadem semper Lunæ faciès terram respicit, ita semper eandem cujusque Cornets partem versùs centrum vorticis in quo versatur, converti, eamque solam radiis refledendis aptam esse. Sic nempe, cùm Cometa est in 2, illa ejus pars quæ radios potest remittere, oppo- i5 sita est centro S, nec ideò videri potest ab iis qui sunt juxta F ; sed progrediendo à 2 ad j , invertit se brevi tempore versùs F, atque ideò ibi tune incipit videri. Nam rationi valde consentaneum est, primo, ut putemus, dum Cometa transit ab N per C versùs 2, illam ejus partem qu<e fideri S obverfa est, magis agitari & rarefieri propter actionem istius fideris, quàm aliam partem ab eo averfam. Secundo, ut putemus agitatione iftâ, tenuiores & (ut ita loquar) molliores particulas tertii elementi, quæ sunt in ejus superficie, ab eâ separari : unde fit ut radiis refledendis aptior évadât, quàm superficies alterius partis. Quemadmodum ex iis quæ de igne infrà dicuntur b , poterit intelligi,
+
+14 En marge : NB. Vide fig. pag. precc. (/" édit.).
+
+a. Voir t. VI, p. 93, etc.
+
+b. Pars IV, art. lxxx et suiv.
+
+[p. 185]
+
+172-173. Pars Tertia. 185
+
+rationem ob quam carbones extin&i videntur nigri, non aliam esse quàm quôd omnis eorum superficies, tam interna quàm externa, particulis istis tertii elementi mollioribus conte&a sit; | quæ particulæ molliores cùm ignis vi à reliquis separantur, carbones, qui nigri erant, in cineres, non nisi ex duris & solidis particulis conflatos atque ideò albos, mutantur; & nulla sunt corpora reste&endis radiis magis apta quàm alba, nulla minus quàm nigra. Tertio, ut putemus partem illam rariorem Cornets, aliâ minus aptam esse ad motum, & ideò, juxta leges Mechanicæ, debere semper esse in concavâ parte lineæ curvæ, quam Cometa motu suo descrïbit : quia sie aliâ paulò tardiùs incedit, & cùm lineæ istius cavitas semper respiciat centrum vorticis in quo est Cometa (ut hîc cavitas ejus partis N C 2 respicit centrum S, cavitas partis 2 j 4 respicit F &c), ideò illum ex uno vortice in alium transeundo converti. Ut videmus in sagittis per aërem volantibus, pennatam earum partem esse semper aliâ inferiorem cùm ascendunt, & superiorem cùm defeen- dunt. Denique plures aliæ rationes dari possent, cur Cometæ à nobis non videantur, nisi quamdiu transeunt per nostrum cœlum : ex minimis enim momentis pendet, ut idem corpus radiis refleclendis aptum sit vel ineptum : & de ejusmodi particularibus effectis, de quibus satis multa expérimenta non habemus, sufficere debent verisimiles causæ, licèt eæ forte non sint verse. Præter hæc autem, observatur etiam circa Cometas, longam radiorum veluti comam fulgere, à quâ nomen suum acceperunt ; atque istam comam semper i5 En marge : NB. Vid. fig. pag. 171 (/" édit.).
+
+CXXX1II. De Cometarum coma, & variis ejus pheeno- menis.
+
+[p. 186] i86
+
+Principiorum Philosophle
+
+17J-I74.
+
+CXXXIV. De quâdam rejraâio- ne, à qud ijla coma dependet.
+
+CXXXV.
+
+Explicatio istius re-
+
+fraâionis.
+
+in parte à Sole præterpropter averfâ videri : adeò ut si Terra stet in lineâ rectâ inter Cometam & Solem, crines in omnes partes dispersi circa illum appareant. Et Cometa anni 1475, c ^ m p r i mu m visus est, comam præferebat; in fine autem fuse apparitionis, quia in opposità cœli regione | versabatur, comam post se tra- hebat. Hæc etiam coma longior est vel brevior : tum ratione magnitudinis Cometse, in minoribus enim nulla apparet, nec etiam in magnis, cùm à nostro aspectu recedentes perexigui esse videntur ; tum etiam ratione loci, cæteris enim paribus, quo terra rerrio- tior est à lineâ rectâ, quæ duci potest à Cometâ ad Solem, eô ipsius coma longior est; & interdum latente Cometâ sub radiis Solis, ejus comæ extremitas instar trabis ignese sola conspicitur. Ac denique coma ista i5 interdum paullô latior est, interdum angustior ; interdum re&a, interdum curva ; & interdum à Sole directe aversa, interdum non ita præcisè.
+
+Quorum omnium rationes ut intelligantur, novum quoddam genus refractionis, de quo in Dioptricâ non actum est, quia in corporibus terrestribus non nota- tur, hîc est considerandum. Nempe, ex eo quòd globuli cœlestes non Tint omnes inter se æquales, sed paullatim minuantur à certo termino, intra quem continetur sphæra Saturni, usque ad Solem, sequitur radios luminis, qui per majores ex istis globulis com- municantur, cùm ad minores deveniunt, non modo secundùm lineas rectas progredi debere, sed etiam ex parte ad latera refringi & difpergi.
+
+Consideremus, exempli cauffà, hanc figuram, in quâ 3o multis globulis perexiguis incumbunt alii multò ma
+
+[p. 187] «74-t76. Pars Tertia. 187
+
+jores, putemufque ipsos esse omnes in continuo motu, quemadmodum globulos fecundi elementi suprà descripsimus : adeò ut, si unus ex ipsis versus aliquam partem pellatur, exempli cauffâ, A versùs B, ejus a&io aliis omnibus qui reperientur in lineâ rectâ, ab ipso versùs illam partem protenfâ, sine morâ communicetur. Ubi notandum est, actio|nem quidem istam ab A usque ad C integram pervenire, sed aliquam tamen i5 ejus partem à C ad B transire posse, ac residuum versùs D & E difpergi. Globus enim C non potest pellere globulum 2 versùs B, quin simul etiam pellat globulos 1 & ■} versùs D & E. Neque est par ratio, cùm
+
+20 globus A pellit duos globos 4 & $ versùs C ; quamvis enim hæc ejus actio à duobus illis globis 4 & j ita excipiatur, ut videatur etiam defle&i versùs D & E, rectâ tamen tendit ad C : tum quia globi isti 4 & 5 , æqualiter utrimque ab aliis sibi vicinis fuffulti, totam illam reftituunt globo 6 ; tum etiam quia continuus eorum motus efficit, ut nunquam per ullam temporis moram hæc actio à duobus simul excipiatur, sed tantùm, ut suc- ceiïivè nunc ab uno & mox ab altero transmittatur. Cùm autem globus C pellit très simul 1, 2, j versùs
+
+3o B, non ita potest ejus actio ab illis ad | unum aliquem remitti; &, quantumvis moveantur, semper aliqui ex
+
+[p. 188] i88
+
+Principiorum Philosophie
+
+176.
+
+CXXXVI.
+
+Explicatio apparitio-
+
+ns coma.
+
+ipsis actionem illam obliqué excipiunt; ideòque,quamvis præcipuum ejus radium re&à versùs B deducant, innumeros tamen alios debiliores utrimque versùs D & E difpergunt. Eodemque modo, si pellatur globus F versùs G, cùm ejus actio pervenit ad H, ibi communicatur globulis 7, 8, 9, qui præcipuum quidem ejus radium mittunt ad G, sed alios etiam versùs D & B difpergunt. Hîcque notanda est differentia, quæ oritur ex obliquitate incidentiæ istarum actionum in circulum CH : a&io enim ab A ad C, cùm perpendiculari ter incidat in illum circulum, radios suos æqualiter utrimque difpergit versùs D & E ; actio autem ab F ad H, quæ in eundem obliqué incidit, non difpergit suos nisi versùs ipsius centrum, saltem si obliquitas incidentiæ supponatur esse graduum 90; si verò suppona- i5 tur minor, nonnulli quidem ejus a&ionis radii etiam in aliam partem mittentur, sed aliis multò debiliores, & ideô vix sensibiles, nisi cùm ista obliquitas est valde parva : contra autem radii, qui versùs centrum circuli obliqué fparguntur, eô sunt fortiores, quôd ista obliquitas est major.
+
+Quorum omnium demonstratione perceptâ, facile est illam transferre ad globulos cœlestes : quamvis enim nullus sit locus, in quo sie majufeuli ex istis globulis alios multô minores tangant, quia tamen ipsi gradatim sunt minores & minores, à certo termino usque ad Solem, ut di&um est a , facile credi potest non minorem esse difFerentiam, inter illos qui sunt supra orbitam Saturni, & illos qui sunt juxta orbitam Terrée, quàm inter majores & minores mox descriptos : atque 3o
+
+a. Art. lxxxii Ci lxxxv, p. 137 et 140.
+
+[p. 189] IO
+
+«76-178. Pars Tertia. 189
+
+inde intelligi effectum istius inæqualitatis | non alium esse debere in hac Terræ orbitâ, quàm si minimi majufculis immédiate fuccederent ; nec alium etiam in
+
+locis intermediis, nisi
+
+quòd lineæ secundùm
+
+quas isti radii difperguntur,
+
+non sint re&se,
+
+sed paulatim inflexa?.
+
+Nempe, si S sit Sol,
+
+2545 orbita per quam
+
+Terra anni spatio defertur
+
+secundùm ordinem
+
+notarum 2, 3,4,
+
+DEFG<H> terminus
+
+ille à quo globuli cæle-
+
+ftes incipiuntgradatim
+
+esse minores & minores
+
+usque ad Solem (quem
+
+terminum suprà diximus
+
+a non habere figuram
+
+fphserse perfedae,
+
+sed fphæroidis irregularis,
+
+verfùs polos multô
+
+depreflioris, quàm
+
+versùs eclipticam), &
+
+C sit Cometa in nostro
+
+cœlo existens : putandum
+
+est radios Solis in hune Cometam impingentes, ita inde re|flecti versùs omnes partes fphseroidis DEFGH, ut ii qui perpendiculariter incidunt in S, maximâ quia. Art. lxxxi, p. 1 35-i 37.
+
+[p. 190] ioo
+
+PrINCIPIORUM PhILOSOPHLE
+
+CXXXVII.
+
+Quomodo etiam trabes
+
+appareant.
+
+CXXXVIII. Cur Cometarum cou- da, non semper in
+
+dem ex parte, rectâ pergant usque ad j , sed tamen etiam nonnulli ex ipsis hinc inde spargantur; & qui obliqué incidunt in G, non tantùm rectâ pergant versus 4, sed etiam ex parte refrangantur versus j ; & denique qui incidunt in H, redà non perveniant ad orbitam Terræ, sed tantùm reflexi versus 4 & 5, sicque de cæteris. Unde patet, si Terra sit in orbitæ fuse parte j , hune Cometam ex eâ visum iri cum coma in omnes partes difperfâ ; quod genus Cometæ Rosam vocant : radii enim directi à C ad j, ejus caput; alii autem debiliores, qui ex E & G versus j refleduntur, ejus crines exhibebunt. Si verò Terra sit in 4, idem Cometa ex eâ videbitur per radios rectos CG4, & ejus coma, sive potiùs cauda, versus unam tantùm partem protensa, per radios ex H & aliis locis, quæ sunt inter G & H, versus 4 reflexos. Eodemque modo, si Terra sit in 2, Cometa ex eâ videbitur ope radiorum rectorum CE 2, & ejus coma ope obliquorum qui sunt inter CE2 & CD 2, nec alia erit differentia, nisi quòd, oculo existente in 2, Cometa mane videbitur, & coma ipsum præcedet ; oculo autem existente in 4, Cometa videbitur vesperi, & caudam suam poil se trahet.
+
+Denique, si oculus sit versus punctum S, impedietur à radiis Solis ne Cometam ipsum videre polïit, sed videbit tantùm ejus comse partem, instar igneæ trabis, quæ apparebit vel vesperi vel mane, prout oculus pro- pior erit puncto 4 vel puncto 2 ; atque forte una mane & alia vesperi poterit apparere, si oculus in ipso puncto medio 5 exsistat.
+
+Et quidem hæc coma vel cauda interdum recta, in- terldum nonnihil incurva efîe débet ; interdumque in
+
+[p. 191] 179-
+
+re&â lineâ, quæ transit per centra Cometæ & Solis, interdum nonnihil ab eâ deflectens; ac denique interdum latior, interdum angustior, vel etiam lucidior, cùm nempe radii latérales versùs oculum convergunt. Hæc enim omnia sequuntur ab irregularitate fphæroidis DEFGH : quippe versùs polos, ubi ejus figura deprefïïor est, caudas Cometarum exhibere débet magis rectas & latas ; in flexu qui est inter polos & eclipticam, magis curvas, & à Solis opposito defledentes ; & secundùm istius flexûs longitudinem, magis lucidas & anguftas. Nec puto quicquam hactenus circa Cometas fuisse observatum, saltem quod nec pro fabula, nec pro miraculo fit habendum, cujus caussa hîc non habeatur.
+
+Quæri tantùm potest, cur non etiam comæ circa stellas fixas, ac circa altiores planetas Jovem & Saturnum, appareant. Sed facilis responsio est. Primo, ex eo quod non soleant videri in Cometis, cùm eorum diameter apparens non est major quàm fixarum, quia tune isti radii secundarii non habent satis virium ad oculos movendos. Ac deinde, quantum ad fixas, quia cùm lumen à Sole non mutuentur, sed illud ex se ipsis emittant, ista earum coma, si quæ sit, hinc inde in omnes partes fpargi débet, atque este perbrevis ; jamque rêvera circa ipsas talis coma esse videtur : neque enim uniformi lineâ circumscriptæ, sed vagis radiis undique cinctse apparent ; & non malè forsan earum etiam fcintillationem (cujus tamen plures aliæ causæ esse pofTunt) huc referemus. Quantum autem ad Jovem & Saturnum, non dubito quin, ubi aër est admodum punis, brèves etiam interdum comæ, in partem à Sole parte à Sole direâè aversa, nec semper reâa videatur.
+
+CXXXIX.
+
+Cur tales coma? circa Fixas aut Planetas non appareant.
+
+[p. 192] 192 Principiorum Philosophie i 79 -i8o.
+
+averfam | protenfæ, circa ipsos videantur; & scio me taie quid alicubi olim legifle, quamvis auctoris non recorder. Quodque ait Aristoteles, i. Météorologie, cap. 6, de Fixis, eas etiam ab yîgyptiis comatas non- nunquam visas fuisse, puto de his planetis potiùs esse intelligendum ; quod autem refert de coma cujusdam ex stellis quse sunt in femore Canis, à se confpedâ, vel ab aliquâ in aëre valde obliqua refractione, vel potiùs ab illius oculorum vitio processit : addit enim minus fuisse conspicuam, cùm oculorum aciem in ipsam intendebat, quàm cùm remittebat. CXL - Nunc verò, expositis iis omnibus quse ad Cometas e?r pianèL m spe&ant, revertamur ad Planetas, putemufque fidus N a minoris agitationis esse capax, sive minus habere soliditatis, quàm globulos fecundi elementi qui sunt ver- i5 fus circumferentiam nostri cœli, sed tamen aliquantô plus habere, quàm aliquos ex iis qui sunt versùs Solem. Unde intelligemus illud, statim atque à vortice Solis abreptum est, continua versùs ejus centrum descendere debere, donec devenerit ad eos globulos coelefl.es, quibus in soliditate, sive in aptitudine ad perfeverandum in suo motu per lineas rectas, est æquale. Cùmque tandem ibi erit, non ampliùs ad Solem magis accedet, nec etiam ab eo recedet, nisi quatenus ab aliquibus aliis cauffis nonnihil hinc inde propelletur; 2 5 sed inter istos globulos cæleftes libratum, circa Solem afliduè gyrabit, & erit Planeta. Quippe sl propiùs ac- cederet verfùs Solem, ibi verfaretur inter globulos i3 En marge : NB. Vide fig. pag. 171 (/" edit.). a. Voir ci-avant la rigurc de la p. i83.
+
+[p. 193] 18o-181.
+
+cæleftes paullô minores, ac proinde quos fuperaret vi ad recedendum à centro circa quod gyrat ; & celeriùs motos, ac proinde à quibus ista ejus vis simul cum agitatione augeretur, sicque inde rursus regredi deberet. Si | verò à Sole magis recederet, ei occurrerent globuli cæleftes aliquantô minus céleri ter moti, ac proinde qui ejus agitationem minuerent; & paullô majores, ac proinde qui vim haberent ipïum verfùs Solem repellendi.
+
+Aliæ autem caufTse, quæ Planetam circa Solem ita libratum nonnihil hinc inde propellunt, sunt : primo, quòd spatium, in quo simul cum totâ materiâ cœli rotatur, non sit perfe&è sphæricum; necesse est enim, ubi hoc spatium latius est, ut ista materia cœli lentiùs fluat, quàm ubi angustius.
+
+Secundo % quòd materia primi elementi, ex quibusdam vicinis vorticibus versùs centrum primi cœli fluendo, & inde ad quosdam alios refluendo, tum globulos fecundi elementi, tum etiam Planetam inter ipsos libratum, diversimodè possit commovere.
+
+Tertio, quòd meatus qui sunt in corpore istius Planetæ, aptiores este poffint ad particulas striatas, aliafve primi elementi quæ ex certis cœli partibus veniunt, quàm ad reliquas, recipiendas : unde fit, ut istorum meatuum orificia, quæ circa polos macularum sidera involventium formari suprà diximus, versùs istas cœli partes potiùs quàm versùs alias ob- vertantur.
+
+8 majores] minores (/" édit., faute).
+
+a. Voir t. IV, p. 181, 1. 12-17. De même, pour les art. cxliu, cxliv et cxlv. — Voir aussi t. V, p. 259, 1. 7, etc.
+
+CXI.I.
+
+CauJJlv, à quibus ejus errores pendent. Pri-
+
+CXLII.
+
+Secunda.
+
+CXLIII. Tertia.
+
+[p. 194] CXLIV. Quarta.
+
+194 Principiorum Philosophie 181-182.
+
+Quarto, quòd jam antè aliqui motus in isto Planetâ esse potuerint, qui diutiffimè in eo perfeverant, licèt alise cauffse répugnent. Ut enim videmus turbinem 3 , ab hoc solo quòd semel à puero intorqueatur, satis virium acquirere ad perfeverandum in suo motu per aliquot horæ minuta, interimque aliquot millia gyro- rum abfolvere, quamvis mole sit exiguus, & tum aër circumjacens, tum etiam terra, cui infiitit, ejus motui adverfentur : ita facile credi pojteft, ex hoc solo quòd aliquis Planeta, cùm primùm sa&us ell, fuerit motus, " eum à prima mundi origine ad hoc usque tempus, absque ullâ notabili imminutione celeritatis, circuitus suos continuare potuisse : quia multô brevius esl tempus quinque vel sex millium annorum, à quibus mundus fletit, si cum magnitudine alicujus Planetæ com- i5 paretur, quàm tempus unius horse minuti cum exigui turbinis mole collatum. cxLv. Quint ô denique, quòd vis ita perfeverandi in suo motu fit multô firmior & conftantior in Planetâ, quàm in materiâ cælefti eum circumjacente ; ac etiam firmior in magno Planetâ quàm in minore. Quippe ista vis in materiâ cælefti pendet ex eo, quòd ejus globuli simul conspirent in eundem motum; cùmque sint à se mutuò disjundi, parvis ex momentis fleri potest, ut modo plures, modo pauciores ita simul conspirent. Unde sequitur Planetam nunquam tam celeriter moveri, quàm globulos cœlestes eum circumjacentes : etsi enim æquet illum eorum motum, quo simul cum ipsis fertur, illi intérim habent alios plures, quatenus à se mutuò disjundi sunt. Inde etiam sequitur, cùm 3o
+
+a. Voir t. V, p. 173.
+
+[p. 195] 182-183.
+
+[ 9S
+
+ÎO
+
+horum globulorum cœlestium motus acceleratur, vel tardatur, vel infle&itur, non tantopere, nec tam citò accelerari, vel tardari, vel infle&i motum Planetæ inter ipsos verfantis.
+
+Quæ omnia si considerentur, nihil occurret circa phænomena Planetarum, quod non plané conveniat cum legibus naturæ à nobis expositis 8 , cujusque ratio ex jam dictis non facile reddatur. Nihil enim vetat quominùs arbitremur, vastissimum illud spatium in quo jam unicus vortex primi cœli continetur, initio in quatuordecim pluresve | vortices fuifTe divisum, eosque ita fuifTe dispositos, at sidera quæ in centris suis habebant, multis paulatim maculis tegerentur, & deinde isti vortices uni ab aliis deftruerentur, modo jam à nobis descripto b : unus citiùs, alius tardiùs, pro diverso eorum situ. Adeò ut, cùm illi très, in quorum centris erant Sol, Jupiter & Saturnus, cæteris essent majores, sidera, quæ in centris quatuor minorum Jovem circumstantium versabantur, versùs Jovem delapsa sint ; & quæ in centris duorum aliorum Saturno vicinorum, versùs Saturnum (saltem si verum elt duos jam Planetas circa ipsum versari) ; & Mercurius, Venus, Terra, Luna & Mars (quæ sidera etiam singula suum vorticem priùs habuerunt), versùs Solem; ac tandem etiam Jupiter & Saturnus, unà cum minoribus sideribus iis adjunctis, confluxerint versùs eundem Solem, ipsis multò majorem, postquam eorum vortices fuerunt abfumpti ; Sidéra autem reliquorum
+
+28 abfumti (1" édit.).
+
+a. Pars II, an. xxxvii, xxxix et xl, p. 62, 63 et 65 ci-avant.
+
+b. Art. cxv, cxvi etcxvii, p. 162-166.
+
+CXLVI.
+
+De prima produâione
+
+omnium Planetarum.
+
+[p. 196] CXLVII.
+
+Cur quidam Planetæ sint aliis a Sole remotiores : iJque ab cor uni magnitudine solâ non pendere.
+
+CXLVIII. 
+ Cur Soli viciniores celeriùs aliis moveantur ; & tamen ejus macula? fuit tardijfi- ma:.
+
+IO
+
+196 PRINCIPIORUM PHILOSOPHIÆ 183-184.
+
+vorticum, si unquam plura fuerint quàm quatuordecim in hoc spatio, in Cometas abierint.
+
+Sicque jam videntes primarios Planetas, Mercurium, Venerem, Terram, Martem, Jovem & Saturnum, ad diversas distantias circa Solem deferri, judicabimus id ex eo contingere, quod eorum qui Soli viciniores sunt, soliditas sit minor quàm remotiorum. Nec mirabimur Martem, Terra minorem, ipsâ tamen magis à Sole distare, quia solidior nihilominus esse potest, cùm soliditas à solâ magnitudine non pendeat 2 .
+
+Et videntes inferiores ex istis Planetis, altioribus celeriùs in orbem ferri, putabimus id ex eo fieri, quòd materia primi elementi, qua? Solem componit, celerrimè gyrando, viciniores cœli partes magis secum abripiat quàm re|motiores. Nec intérim mirabimur, quòd maculæ quæ in ejus superficie apparent, multò tardiùs ferantur quàm ullus Planeta : (quippe in brevissimo suo circuitu viginti sex dies impendunt, Mercurius autem in suo plusquàm fexagies majori, vix très menses, & Saturnus in suo forte bis millies majori, annos tantùm triginta ; qui nisi celeriùs ipûs moveretur, plus centumdeberetimpendere). Hoc enim putabimus accidere exeo, quòd particule tertii elementi, ortæ à continua macularum dissolutione, congregatæ sint circa Solem, atque ibi magnam quandam molem aëris 2 5 sive setheris componant, forte usque ad sphæram Mercurii vel etiam ulteriùs extensam; cujus ætheris particulæ, cùm sint valde irregulares & ramofæ, sibi invicem sie adhærent, ut non disjun&im concitentur, quemadmodum globuli materia? cœlestis, sed omnes 3o
+
+a. Art. cxxi et cxxii, p. 170 et 172. [p. 197] i8 4 -i85.
+
+io
+
+simul à Sole rapiantur, & cum ipsis tum maculæ so- lares, tum etiam pars cœli Mercurio vicina : unde fit, ut non multò plures circuitus quàm Mercurius, eodem tempore absolvant, nec proinde tam citò moveantur. Deinde, videntes Lunam non modo circa Solem, sed simul etiam circa Terram gyrare, judicabimus id vel ex eo contingere, quòd, ut Jovis Planetæ versùs Jovem, sie ipsa versùs Terram confluxerit, priusquam hæc circa Solem ferretur; vel potiùs quòd, cùm non minorem habeat vim agitationis quàm Terra, in eâdem fphærâ circa Solem debeat versari ; &, cùm mole sit minor, æqualem habens vim agitationis, celeriùs debeat ferri. Nam, Terra existente circa Solem S, in circulo
+
+CXLIX. Cur Luna circa Terrain gyret.
+
+NTZ, cum quo defertur ab N per T versùs Z, si l5 Luna celeriùs a&a eodem deveniat, in quâcunque parte circuli NZ eam initio esse | contingat, brevi accedet ad A, ubi à viciniâ Terræ impedita ne rectâ
+
+[p. 198] i85-i86.
+
+CL.
+
+Cur Terra circafuum
+
+axent vertatur.
+
+CLI.
+
+Cur Luna celeriùs seratur
+
+quant Terra.
+
+CLII. Cur semper Luna' sa- ciès, quamproximè eademfit Terrar ob- versa.
+
+198 Principiorum Philosophle ulteriùs pergat, defledet cursum suum versus B : dico versus B, potiùs quàm versus D, quia sie à lineâ re&â minus defledet. Dum autem ita perget ab A versus B, omnis materia cœlestis contenta in spatio ABCD, quæ ipsam defert, contorquebitur in modum vorticis circa centrum T ; sicque etiam efficiet ut Terra circa suum axem gyret, dum intérim hæc omnia simul per circulum NTZ circa centrum S ferentur a .
+
+Quanquam aliæ præterea sint cauiTa, cur Terra circa proprium axem vertatur : si enim antea fuerit fidus lucidum, in alicujus vorticis centro consistens, ibi procul dubio sie gyrabat; & nunc materia primi elementi, in ejus centro congregata, similes adhuc motus habet, ipsamque impellit b .
+
+| Nec mirabimur , hanc Terram ferè tricies circa suum 1 5 axem convolvi, dum Luna tantùm semel circumferentiam circuli ABCD percurrit. Cùm enim hæc circumferentia ABCD sit circiter fexagies major Terræ am- bitu, sie Luna duplô celeriùs adhuc fertur quàm Terra; & cùm ambee agantur ab eâdem materia cælefti, quam credibile est non minus celeriter moveri prope Terram quàm prope Lunam, non videtur aliacaufa esse majoris in Lunâ celeritatis, quàm quòd minor fit quàm Terra .
+
+Non etiam mirabimur, quòd semper eadem pars Lunæ sit Terræ obverfa, vel certè non multùm ab eâ deflectat; facile enim judicabimus id ex eo contingere, quòd alia ejus pars aliquantô fit solidior, & ideò Terram circumeundo majorem ambitum debeat percurrere ;
+
+a. Voir t. IV, p. 464-465 ; et t. V, p. 3 1 3, 1. 4, p. 346, 1. 1 3, et p. 388.
+
+b. Tome V, p. 173.
+
+c. Ibid., p. 346, 1. 24.
+
+[p. 199] 186.
+
+[99
+
+ad exemplum ejus quod paulo antè notatura est a de Cometis. Et certè innumeræ illæ inæqualitates instar montium & vallium, quæ in ejus facie obverfâ perfpicillorum ope deprehenduntur, minorem ipsius soliditatem videntur arguere ; hujusque minoris soliditatis causa esse potest, quòd alia ejus faciès, quæ nunquam in confpeâum nostrum venit, solùm lumen directe à Sole miflum excipiat, hæc autem etiam illud quod ex terra reflectitur.
+
+Neque magis mirabimur, quod Luna videatur aliquantô celeriùs moveri, & in omnes partes à cursu suo minus aberrare, cùm plena est vel nova, quàm cùm dimidia tantùm apparet; sive cùm est versùs partes cœli B vel D, quàm cùm est versùs A vel C. Quia cùm globuli cœlestes, qui continentur in spatio ABCD, ratione magnitudinis & motûs diversi sint, tam ab iis
+
+CLIII. Cur Luna celeriùs «n- cedat, & à suo motu medio minus aberret in conjunâionibus, quàm in quadris ; & cur ejus cælum non sit rotundum.
+
+a. Art. cxïx et cxxxii, p. 168 et p. 182.
+
+[p. 200]
+
+Principiorum PhILOSOPHI/E
+
+qui sunt infra D versùs K, quàm ab iis qui sunt supra B versùs L, iis autem qui | sunt versùs N & Z fuit similes, liberiùs se diffundunt versùs A & C, quàm versùs B & D. Unde sequitur ambitum ABCD non elle circulum perfectum, sed magis ad ellipsis figuram 3 accedere ; ac
+
+CLIV. Cur secundarii Planè- tes qui sunt circa Jovem, tam celeriter ; qui vero sunt circa materiam cœli lentiùs ferri inter C & A, quàm inter B & D b ; ideòque Lunam, quæ ab iftâ materiâ cœli defertur, & propiùs accedere debere versùs Terram, si sit in motu ad accedendum, & magis removeri, si sit in motu ad recedendum, cùm ipsam contingit esse versùs A vel C, quàm cùm est versùs B vel D.
+
+Neque mirabimur quòd Planetæ , qui juxta Saturnum esse dicuntur, lentiflimo vel nullo motu circa ipsum ferantur, contra autem qui sunt juxta Jovem, circa
+
+a. Voir t. V, p. 259, 1. 26.
+
+b. Tome IV, p. 464.
+
+c. Tome IX, p. 198 de la traduction française, note e.
+
+[p. 201] 187-188.
+
+illum gyrent, & quisque tantò celeriùs quantò Jovi est vicinior. Hujusenimdiverfitatiscaufæffepoteft, quòd Jupiter, ut Sol & Terra, circa proprium axem agatur; Saturnus | autem, ut Luna & Cometæ, semper eandem sui partem convertat versùs centrum vorticis in quo continetur.
+
+Præterea non mirabimur, quòd axis, circa quem Terra diei spatio convolvitur, non sit perpendiculariter ereétus supra planum eclipticæ, in quo anni spatio circa Solem rotatur, sed plusquam viginti tribus gradibus à perpendiculo declinet : unde oritur diversitas seftatis & hyemis in terra. Nam motus annuus Terræ in eclipticâ præcipuè determinatur à consensu totius materiæ cœlestis circa Solem gyrantis, ut patet ex eo, quod omnes Planetæ in eo quamproximè consentiant ; directio autem ejus axis, circa quem fit motus diur- nus, magis pendet à partibus cœli, à quibus materia primi elementi versùs ipsam fluit. Quippe cùm imagi- nemur omne spatium, quod jam à primo cœlo occupatur, fuisse olim divisum in quatuordecim pluresve vortices, in quorum centris erant illa sidera, quæ nunc conversa sunt in Planetas, fingere non possumus illorum omnium siderum axes versùs easdem partes fuisse converfos ; hoc enim cum legibus naturæ non conve- niret. Sed valde credibile ellmateriam primi elementi, quæ in Terræ fidus confluebat, ex iisdem ferè partibus firmamenti venisse, quas nunc adhuc ejus poli respiciunt ; atque dum multi macularum cortices supra hoc fidus paulatim generabantur, particulas striatas istius materiæ primi elementi multos sibi meatus in his corticibus efformâffe, ipsosque ad magnitudinem & figuram
+
+Saturnum, tant tardé vel nullo modo moveantur.
+
+CLV. Cur poli sEquatoris & Eclipticâ? multùm distent ab invicem.
+
+Œuvrbs. III.
+
+26
+
+[p. 202]
+
+Principiorum Philosophie
+
+CLVI.
+
+Cur paullatim ad invicem accédant.
+
+CLVII. Ultima & maxime generalis causa omnium inæqualitatum, quæ in motibus corporum mundanorum reperiuntur.
+
+suam sie aptâffe, ut vel nullum vel non nisi difficilem tranfitumpræbereponintparticulisftriatis, quæ ex aliis firmarænti partibus accedunt : sicque illas, quæ sibi aptos meatus per globum Terræ secundùm ejus axem efformârunt, cùm nunc ad|huc per ipsum perpétua fluant, efficere, ut ejus poli versùs easdem partes cœli à quibus veniunt, dirigantur a .
+
+Intérim tamen, quia duæ converfiones Terræ, annua scilicet & diurna, commodiùs peragerentur, si fièrent circaaxesparallelos, caussæ hoc impedientes paulatim utrimque immutantur; unde fit, ut successu temporis Declinatio Eclipticæ ab JEquaxore minuatur.
+
+Denique non mirabimur, quòd omnes Planetæ, quamvis motus circulares semper affectent, nullos tamen circules perfectos unquam describant, sed modis omnibus, tam in longitudinem quàm in latitudinem, semper aliquantulum aberrent. Cùm enim omnia corpora, quæ sunt in universo, contigua sint, atque in se mutuò agant, motus uniuscujusque à motibus aliorum omnium dependet, atque ideò innumeris modis varia- tur. Nec ullum plané phænomenum in cœlis eminus confpectis observatur, quod non putem hîc satis fuisse explicatum. Superest, ut deinceps agamusde illis, quæ cominus supra Terram videmus.
+
+a. Voir t. IV, p. 182, 1. 20
+
+[p. 203] PRINCIPIORUM
+
+PHILOSOPHIE
+
+De Terra.
+
+Etsi credi nolim, corpora hujus mundi adfpeftabilis genita unquam fuisse illo modo qui suprà descriptus est, ut jam satis præmonui a , debeo tamen eandem hypothesim adhuc retinere, ad ea quæ supra Terram apparent explicanda; ut tandem li, quemadmodum spero, clarè ostendam causas omnium rerum naturalium hâc via, non autem ullâ aliâ, dari posse, inde meritò concludatur, non aliam esse earum naturam, quàm û tali modo genitæ essent.
+
+Fingamus itaque Terram hanc, quam incolimus, fuisse olim ex solâ materiâ primi elementi conflatam, instar Solis, quamvis ipso effet multò minor ; & vastum vorticem circa se habuisse, in cujus centro consistebat : sed, cùm particulæ ftriatæ, aliæque non omnium mi- nutiffimse minutise istius materiæ primi elementi, sibi mutuò adhærerent, sîcque in materiam tertii elementi verterentur, ex iis primo maculas opaças in Terræ
+
+1.
+
+Falsam hypothejîm, qud jam ante usi /u. mus,esse retinendam, ad veras rerum na,. turas explicandas.
+
+II. Quæ sit generatio Ter. rœ, secundùm istam hypothesim.
+
+a. Pars III, art. xlv, p. 99-100 ci-avant.
+
+[p. 204]
+
+Principiorum Philosophle
+
+III.
+
+Dijlinâio Terra: in très regiones : & prima; de/criptio.
+
+superficie genitas esse, similes iis quas videmus circa Solem affiduè generari ac diflblvi. Deinde particulas tertii elementi, quæ ex continua istarum macularum diflblutione remanebant, per cœlum vicinum diffusas, magnam ibi molem aëris, sive ætheris, successu temporis compofuiffe; ac denique, postquam iste sether valde magnus fuit, denfiores maculas, circa Terram geni|tas, eam totam contexiffe atque obtenebraffe . Cùmque ipsæ non possent ampliùs diflblvi, ac forte permultæ sibi mutuò incumberent, simulque vis vorticis Terram continentis minueretur, tandem ipsam, unà cum maculis & toto aère quo involvebatur, in alium majorem vorticem, in cujus centro est Sol, delapsam esse.
+
+Nunc verò, si consideremus illam nondum ita versùs Solem delapsam, sed paulò poil delapfuram, très in eâ regiones valde diversas dignofcemus. Harum prima &
+
+intima I continere tantùm
+
+K*
+
+I&SH I
+
+'■^r-
+
+videtur materiam primi elementi, se ibi non aliâ ratione quàm in Sole commoventis, nec alterius naturæ, nisi quòd forte fit minus pu- ra ; quia quod affiduè ex Sole in maculas abit, non ita potest ex eâ ex- purgari. Et fané idcirco mihi facile perfuaderem, jam totum spatium I solâ ferè materiâ tertii elementi plénum esse, nisi inde sequi videretur, corpus Terræ non posse manere | tam
+
+IpIiSpl
+
+3X,
+
+IO
+
+[p. 205] 1Q2.
+
+20$
+
+vicinum Soli , quàm nunc est, propter nimiam suam soliditatem.
+
+Media regio M tota occupatur à corpore valde opa- co & denso: cùm enim hoc corpus faéhim fit ex particulis minutissimis (utpote quæ priùs ad primum elementum pertinebant), sibi invicem adjun&is, nulli videntur in eo meatus relicti esse, nisi tam exigui, ut solis illis particulis ftriatis suprà descriptis, ac reliquæ materiæ primi elementi, transitum pnebere possint. Hocque experientia testatur in maculis Solis, quæ cùm sint ejusdem naturæ atque hoc corpus M, nisi quòd sint multò tenuiores & rariores, transitum tamen luminis impediunt ; quod vix possent, si earum meatus essent satis lati ad globulos fecundi elementi admittendos. Cùm enim isti meatus initio in materià fluidâ vel molli formati sint, haud dubiè essent etiam satis refti & lseves ad actionem luminis non impe- diendam.
+
+Sed istæ duæ interiores Terrée regiones parum ad nos spectant, quia nemo unquam ad ipsas vivus acceflit. Sola tertia superest, ex quâ omnia corpora quæ hîc circa nos reperiuntur, oriri posse deinceps ostende- mus. Nunc autem nihil adhuc aliud in ipfà esse supponimus, quàm magnam congeriem particularum tertii elementi, multùm materiæ cœlestis circa fehabentium, quarum intima natura ex modo, quo genitæ sunt, potest agnosci.
+
+Nempe, cùm ortæ sint ex diflblutione macularum, quæ minutiflimis primi elementi ramentis, sibi mutuò adjun&is, conftabant : unaquæque ex plurimis istiusmodi ramentis componi débet, atque esse satis magna,
+
+IV. Descriptio secundæ.
+
+Dcfcriptio tertia.
+
+VI. Particulas tertii elementi, quæ sunt in hac tertiâ regione, esse debere satis magnas.
+
+[p. 206] 20Ô
+
+Principiorum Philosophie
+
+VII. Ipsas à primo & secundo elemento posse immutari.
+
+VIII. Esse majores globulis Secundi elementi,Sed iisdem esse minus fo- ndas & minus agitatas.
+
+IX.
+
+Eas ab initio sibi mutuà incubuiffe circa Terrain.
+
+ut impetum globulorum fecundi elementi, circa se motorum, fufli|neat; quia quæcunque id non potuerunt, rursus in primum vel in secundum elementum sint refolutse.
+
+Verumenimverô, quamvis illæ globulis fecundi elementi totse resistant, quia tamen singula ramenta ex quibus sunt conflatæ ipsis cedunt, semper eorum occurfu nonnihil possunt immutari.
+
+Cùmque ramenta ista primi elementi varias habeant figuras, non potuerunt plurima simul tam apte con- jungi, ad unamquamque ex istis particulis tertii elementi componendam, quin multos angufliflimos meatus, soli fubtiliffimæ materiæ ejusdem primi elementi permeabiles, in illâ relinquerent ; unde fit, ut quamvis hæ particulæ sint multò majores quàm globuli cælefles, non pofîint tamen esse tam solidæ, nec tantæ agitationis capaces. Ad quod etiam facit, quòd figuras habeant valdè irregulares, & ad motum minus aptas, quàm sint fphsericæ istorum globulorum. Cùm enim ramenta ex quibus componuntur, innumeris modis diversis conjunfta sint, inde sequitur ipsas & magnitudine & soliditate & figuris plurimùm ab invicem differre, ac ferè omnes earum figuras esse admodum irregulares.
+
+Hîcque notandum est, quandiu Terra instar fixarum in peculiari suo vortice versata est, necdum versùs Solem delapfærat, istas particulas tertii elementi, quæ ipsam involvebant, quamvis à se invicem essent dis- junctæ, non tamen hinc inde per cœlum temerè fpar- fas fuisse, sed omnes circa sphæram M conglobatas, unas aliis incubuiffe ; quia pellebantur versùs centrum
+
+IO
+
+[p. 207] 193-195.
+
+I à globulis fecundi elementi, qui, majorem ipsis vim agitationis habentes, ab eo centro recedere cona- bantur a . ■* . ^.**
+
+j Notandum etiam, ,-'^^^3^^
+
+quamvis sibi mutuò sie inçumberent, non tam apte tamen simul jun-
+
+•m
+
+I
+
+mv
+
+&as fuisse, quin permulta intervalla circa se relinquerent, quæ non modo à materiâ primi elementi, sed etiam à globulis fecundi occu- pabantur : hoc enim sequi debuit ex eo, quòd figuras i5 haberent valde irregulares ac diversas, & sine ordine unse aliis adjundse essent.
+
+Notandum praeterea inferiores ex globulis, qui particulis istis immifti erant, paullô minores fuisse quàm superiores : eodem modo quo suprà ostensum est b , eos qui prope Solem versantur, gradatim esse minores, prout ei sunt viciniores. Ac etiam istos omnes globulos non majores fuisse, quàm jam illi sint qui reperiuntur circa Solem, infra sphæram Mercurii; sed forte fuisse minores, quia Sol major est, quàm fuerit unquam Terra; & proinde ipsos minores etiam fuisse, quàm nunc ii sint, qui hîc circa nos ver|santur. Hi enim superant illos, qui sunt infra sphæram Mercurii, quoniam à Sole sunt remotiores.
+
+Et notandum istos globulos, vias sibi retinuisse inter
+
+a. Voir t. IV, p. 465.
+
+b. Pars III, art. lxxxv, p. 140.
+
+X. Varia circa ipsas intervalla materiæ primi & fecundi elementi reliâa esse.
+
+XI.
+
+Globulos fecundi elementi, eu minores initio fuisse, quò centro Terra? viciniores.
+
+XII.
+
+Meatufque inter ipsas habuisse angufliores.
+
+[p. 208]
+
+Principiorum Philosophie
+
+XIII. Non semper crassiores, tenuioribus inferio- resfuiffe.
+
+XVI. De prima formatione diversorum corpo- rttm, in tertiâ Terra:
+
+XV. De aâionibus, quarum ope ijla corpora genita /tint ; ac primo de gênerait globulorum cœlestium motu.
+
+particulas tertii elementi, ad mensuram suæ magnitudinis accommodatas : ita ut non tam facile alii globuli paullô majores per easdem transire possent.
+
+Notandum denique tune fréquenter accidisse, ut majores & folidiores ex istis particulis tertii elementi, alias minores & tenuiores sub se haberent, quia, cùm uniformi tantùm motu circa Terræ axem volverentur, atque ob irregularitates suarum figurarum sibi mutuò facile adhærerent, etsi unaquæque, quò solidior & crassior erat, eô majori vi à globulis fecundi elementi circumjacentibus versus centrum pelleretur, non tamen semper poterant folidiores se à minus solidis ita extri- care, ut infraipfas defeenderent; sed non rarô eundem ordinem, quem cùm primùm formarentur obtinue- rant, retinebant.
+
+Cùm autem postea globus Terræ, in très istas regiones distin&us, versus Solem devolutus est (vortice scilicet in quo antea erat abfumto), non magna quidem mutatio in intima & mediâ ejus regione potuit inde oriri ; sed quantum ad exteriorem, primùm duo, deinde tria, postmodum quatuor, & plura alia corpora diversa, in eâdiflingui debuerunt.
+
+Quorum corporum productionem paullô post explicabo ; sed priusquam hoc aggrediar, très quatuorve præcipuæ actiones, à quibus pendet, hîc sunt conside- randæ. Prima est globulorum cœlestium motus, generaliter spectatus. Secunda, gravitas. Tertia, lumen. Et quarta, calor. Per globulorum cœlestium generalem motum, intelligo continuam|eorum agitationem, quac tanta est, ut non modo fufticiat ad ipsos motu annuo circa Solem & diurno circa Terram deferendos, sed [p. 209] igô-197- Pars Quarta. 209
+
+etiam ad eosdem interea modis aliis quamplurimis agendos. Et quia, in quamcunque partem ita moveri cœperint, pergunt poilea quantum possunt, secundùm lineas rectas, vel à rectis quam-minimùm defledentes: hincfituthi globuli cœlestes, particulis tertii elementi, corpora omnia tertiee Terræ regionis componentibus, immifti, varios in iis effectus producant, quorum très præcipuos hîc notabo.
+
+Primus est, quòd pellucida reddant ea omnia corpora
+
+XVI.
+
+- . ,. . , r De primo hujus primœ
+
+terreltria quæ liquida lunt, & conitant particulis aâioms effeâu, quàd tertii elementi tam tenuibus, ut globuli isti circa ipsas reddat corpora P ei «- in omnes partes ferantur. Cùm enim per istorum corporum meatus hinc inde affiduè moveantur, vimque habeant eorum particulas situ mutandi, facile sibi vias
+
+1 5 rectas, sive rectis æquipollentes, & proinde transferen- dœ actioni luminis idoneas, in illis efFormant. Sicque omnino experimur, nullum elle in Terra liquorem purum, & tenuibus particulis constantem, qui non sit pel- lucidus. Quantum enim ad argentum vivum, crassiores sunt ejus particule, quàm ut globulos fecundi elementi ubique circa se admittant; quantum verò ad atramentum, lac, sanguinem, & talia, non sunt liquores puri, sed plurimis pulvifculis durorum corporum infperfi. Et quantum ad corpora dura, observari potest ea omnia esse pellucida, quæ dum formabantur & adhuc liquida erant, pellucida fuerunt, quorumque partes retinent eundem situm, in quo positæ sunt à globulis matériau cœlestis, dum circaipfas nondum ûbi mutuo adhærentes movebantur. Contra verò illa omnia esse opaca, | quorum particulæ simul junctæ & connexæ sunt à vi aliquâ externâ, motui globulorum cœlestium ipsis immiftorum
+
+[p. 210] 2IO
+
+Principiorum Philosophie
+
+XVII. Quomodo corpus soli- dum & durum satis multos meatus habere pojftt, ad radios luminis iranjmitten- dos.
+
+XVIII. Ue Secundò istius prima' aâionis effectu : quod una corpora ab aliis Jcccrnat, S h- quores expurget.
+
+non obfequente : quamvis enim multi meatus in his etiam corporibus relicti Tint, per quos globuli cœlestes hinc inde affiduè difcurrunt, quia tamen hi meatus variis in locis sunt interrupti & interclufi, tranfmittendse actioni luminis, quæ nonnisi per vias rectas vel rectis eequipollentes defertur, idonei esse non possunt.
+
+Utque hic intelligatur, quomodo corpora dura satis multos meatus habere possint, ad transitum prrebendum radiis luminis, ex quâvis parte venientibus, poma, vel alii quivis globi satis magni, & quorum superficies sit lævis, reticulo includantur, eoque arctè conftrido, ita ut illa poma, sibi mutuò adhærentia, unicum quasi corpus componant : in quamcunque partem hoc corpus convertetur, meatus in se continebit, per quos globuli plumbei supra ipsum injedi, versus centrum terrai, vi gravitatis fuse facile descendent, secundùm lineas rectis sequipollentes; sicque speciem corporis pellu- cidi, solidi & duri exhibebit. Non enim opus est ut globuli cæleftes, magis rectos & plures meatus inveniant in corporibus terreftribus, per quæ radios luminis tranfmittunt, quàm fintii per quos globuli plumbei inter poma illa defcendunt.
+
+Secundus effedus est, quòd cùm particule duorum vel plurium corporum terreftrium, præfertim liquido- rum, confufè simul junctæ sunt, globuli cœlestes quasdam ex ipsis unas ab aliis soleant separare, sicque in varia corpora distinguere, quasdam autem alias accuratiùs permiscere; ipsasque ita disponere, ut unaquæque guitula liquoris ex iis conflati, cæteris omnibus ejusdem liquoris guttulis | omnino (similis exsistat. Quippe, cùm globuli cœlestes moventur in meatibus
+
+[p. 211] dat rotundas.
+
+198-199. Pars Quarta. 211
+
+corporumterreftrium liquidorum, particulas tertii démenti sibi obvias affiduè loco expellunt, donec eas inter aliquas alias ita difpofuerint & ordinârint, ut non magis quàm istæ aliæ ipsorum motibus obfiftant, vel, cùm ita disponi non possunt, donec eas à reliquis se- gregârint. Sic videmus ex mufto fseces quasdam, non modo sursum & deorsum (quod gravitati & levitati tribui pofTet), sed etiam versus vafis latera expelli, vi- numque postea defeecatum, quamvis adhuc ex variis particulis constans, esse pellucidum, & non denfius aut crassius in imo quàm in summo apparere. Idemque de cæteris liquoribus puris est existimandum.
+
+Tertius esse&us globulorum cœlestium est, quod XIX -
+
+, . , . • .. 1 • 1 • De tertio effeâu : quàd aquæ aliorumve liquorum guttas in aère, ahove liquore uquorum guttas redab iis diverso, pendentes, reddant rotundas, ut jam in Meteoris explicui a . Cùm enim isti globuli cœlestes longé alias habeant vias in aquæ guttâ quàm in aëre circumjacente, semperque quantum possunt secundùm lineas re&as, vel ad rectas quam-proximè accedentes, moveantur : manifestum est illos qui sunt in aère, ob- jeclu aquese guttse minus impediri à motibus suis, secundùm lineas à rectis quam-minimùm defledentes, continuandis, sica fit perfectè sphærica, quàm 11 quamcunque aliam figuram fortiatur. Si quæ enim sit pars in superficie istius guttæ, quæ ultra figuram sphæricam promineat, majori vi globuli cœlestes per aërem dis- currentes in illam impingent, quàm in cæteras, ideoque ipsam versus centrum guttæ protrudent ; ac si quæ pars ejus, fuperficiei centro vicinior fit quàm reliquæ, globuli cœlestes, in ipsâ guttâ contenti, majori vi | eam à
+
+a. Discours V. Voir t. VI, p. 280.
+
+[p. 212]
+
+Principiorum Philosophle
+
+199.
+
+XX. Explicatio fecundce aâionis, quæ gravitas vocatur.
+
+XXI. Omnes Terra partes, fijolæjpeâentur, non esse graves, sed levés.
+
+centro expellent ; atque ita omnes ad guttam sphæricam faciendam concurrent. Et cùm angulus contin- gentiæ, quo solo linea circularis à rectâ distat, omni angulo rectilineo fit minor, & in nullâ lineâ curvâ præterquam in circulari sit ubique æqualis: certum est, lineam rectam nunquam posse magis æqualiter, & minus in unoquoque ex suis punctis infledi, quàm cùm dégénérât in circularem.
+
+Vis gravitatis à tertiâ iftâ globulorum cœlestium actione non multum differt. Ut enim illi globuli per solum suum motum, quo sine discrimine quaquaverfus feruntur, omnes cujusque guttse particulasverfus ejus centrum æqualiter premunt, sicque ipsam guttam sa- ciunt rotundam : ita per eundem motum, totius molis terrée occurfu impediti, ne secundùm lineas rectas se- rantur, omnes ejus partes versus médium propellunt : atque in hoc gravitas corporum terrestrium consistit.
+
+Cujus natura ut perfectè intelligatur, notandum est primo, si omnia spatia circa Terram, quæ ab ipsius Terrée materiâ non occupantur, vacua essent, hoc est, si nihil continerent nisi corpus, quod motus aliorum corporum nullâ ratione impediret nec juvaret (sie enim tantùm intelligi potest vacui nomen), & intérim hæc terra circa suum axem, spatio viginti quatuor ho- rarum, proprio motu volveretur, fore ut illæ omnes ejus partes, quæ sibi mutuò non essent valde firmiter alligatæ, hinc inde versus cœlum diffilirent : eodem modo, quo videre licet, dum turbo gyrat, si arena supra ipsum conjiciatur, eam statim ab illo recedere atque in omnes partes difpergi ; & ita Terra non gra- vis, sed contra potiùs levis esse dicenda.
+
+## [p. 213] Pars Quarta.
+
+215
+
+j Cùm autem nullum sit taie vacuum, nec Terra proprio motu cieatur 3 , sed à materiâ cælefti, eam ambiente, omnesque ejus poros pervadente, deferatur, ipsa habet rationem corporis quiescentis ; materia autem cœlestis, quatenus tota consentit in illum motum quo Terram defert, nullam habet vim gravitatis, nec levitatis ; sed quatenus ejus partes plus habent agitationis quàm in hoc impendant, ideoque semper terra? occurfu à motibus suis secundùm lineas rectas perfe- quendis impediuntur, semper ab eâ quantum possunt recedunt, & in hoc earum levitas consistit.
+
+Notandum deinde, vim quam habent singulæ partes materiæ cœlestis ad recedendum à Terra, suum esse- étum fortiri non posse, nisi, dum illæ ascendunt, aliquas partes terrestres in quarum locum succedunt, infra se déprimant & propellant. Cùm enim omnia spatia quæ sunt circa Terram, vel à particulis corporum terrestrium, vel à materiâ cælefti occupentur; atque omnes globuli hujus materiæ cœlestis æqualem habeant propensionem ad se ab eâ removendos, nullam singuli habent vim, ad alios sui similes loco pel- lendos. Sed cùm talis propensio non sit tanta b in particulis corporum terrestrium, quoties aliquas ex ipsis supra se habent, omnino in,eas vim istam suam debent exercere. Atque ita gravitas cujusque corporis terrestris non propriè efficitur ab omni materiâ cælefti illud circumfluente, sed pnecifè tantùm ab eâ ipsius parte, quse, si corpus istud descendat, in ejus locum immédiate ascendit, ac proinde quæ est illi magnitu-
+
+a. Voir t. V, p. 388.
+
+b. Ibid., p. 173.
+
+XXII.
+
+In quo conftjlat levitas
+
+materice cœleflis.
+
+XXIII.
+
+Quomodo partes omnes Terræ, ab iftâ materiâ cælefti deorsum pellantur, S ita fiant graves.
+
+[p. 214]
+
+Principiorum Philosophie
+
+XXIV.
+
+Quanta sit in quoque corpore gravita/.
+
+XXV. Ejus quantitatem non respondere quanti Lit i mati'riivcujufque corporis.
+
+wa
+
+dine plané æqualis. Sit, exempli cauffâ, B corpus ter- reftre in medio aëre exsistens, & constans pluribus particulis tertii elementi, quàm moles | aëris ipsi æqualis, 4**i'P?- m Z£~~ ac P rom de pauciores r ,.-:Ç^^^^s^v^v, ve l angustiores habens poros, in quibus materia cœlestis contineatur : manifestum est, si Ç^^a^v| hoc corpus B versus I ^'■%^yd descendat, molem aëris ei æqualem in ejus locum afcenfuram. Et quia in iftâ mole aëris, plus materiæ cœlestis quàm in eo continetur, manifestum etiam est, in ipsâ i5 esse vim ad illud deprimendum.
+
+Atque ut hic calculus rectè ineatur, considerandum est, in meatibus istius corporis B esse etiam aliquid materiæ cœlestis, quse opponitur æquali quantitati similis materiæ cœlestis, quse in aëris mole continetur, eamque reddit otiofam ; itemque in mole aëris esse aliquas partes terrestres, quse opponuntur totidem aliis partibus terrestribus corporis B, nihilque in eas efficiunt. His autem utrimque detra&is, quod reliquum est materiæ cœlestis in iftâ mole aëris, agere in id quod reliquum est partium terrestrium | in corpore B ; atque in hoc uno ejus gravitatem consistere.
+
+Utque nihil omittatur, advertendum etiam est, per materiam cœlestem non hic intelligi solos globulos 3o fecundi elementi, sed etiam materiam primi iis admillam,
+
+[p. 215] 202-203.
+
+2 M
+
+& ad ipsam quoque esse referendas illas particulas terrestres, qua? cursum ejus fequutse, cæteris celeriùs moventur, quales sunt eœ omnes quæ aërem componunt. Advertendum præterea, materiam primi elementi, cæteris paribus, majorem vim habere ad corpora terrestria deorsum pellenda, quàm globulos fecundi, quia plus habet agitationis; & hos majorem, quàm particulas terrestres aëris quas secum movent, ob similem rationem. Unde fit, ut ex solâ gravitate io non facile possit æstimari, quantum in quoque corpore materiæ terrestris contineatur. Et fieri potest, ut quamvis, exempli cauffà, raaffa auri vicies plus ponderet, quàm moles aquæ ipsi æqualis, non tamen quadruplo vel quintuplo plus materiæ terrestris contineat : tum, quia tantundem ab utrâque fubducendum est, propter aérem in quo ponderantur; tum etiam, quia in ipsâ aquâ, ut & in omnibus aliis liquidis corporibus, propter suarum particularum motum, inest levitas 3 , res- pe6hi corporum durorum.
+
+Considerandum etiam, in omni motu esse circulum corporum quæ simul moventur, ut jam suprà ostensum est b , nullumque corpus à gravitate suâ deorsum ferri, nisi eodem temporis momento aliud corpus magnitudine ipsi æquale, ac minus habens gravitatis,
+
+15 sursum feratur. Unde fit, ut in vase, quantum vis profundo & lato, inferiores aquæ alteriusve liquoris guttse, à superioribus non premantur ; | nec etiam premantur singulæ partes fundi, nisi à totidem guttis, quot ipsis perpendiculariter incumbunt. Nam, exempli
+
+a. Voir t. V, p. 388.
+
+b. Pars II, art. xxxiii, p. 58-5g.
+
+XXVI. Cur corpora non gravitent in locis suis naturalibus.
+
+[p. 216] 2l6
+
+Principiorum Philosophie
+
+XXVII. Gravitatem corpora deprimere versus centrum Terræ.
+
+caufla, in vase ABC, aquae gutta 1 non premitur ab aliis 2, j, 4, supra ipsam existentibus, quia si hæc deorsum ferrentur, deberent aliæ guttæ, 5, 6, 7, aut similes, in earum locum ascendere ; quse, cùm sint æquè graves, illarum descensum impediunt. Hæ autem guttse 1,2,3,4, junctis viribus , premunt partem fundi B ; quia, si efficiant ut descendat, defeendent etiam ipsæ, ac in earum locum partes aëris 8, 9, quæ sunt ipsis leviores, afeen- dent. Sed eandem vafis partem B non plures guttæ premunt quàm hæc 1, 2, j, 4, vel aliæ ipsis sequipollentes; quia eo temporis momento, quo hæc pars B potest descendere, non plures eam sequi possunt. Atque hinc innumera expérimenta circa corporum gravitatem, vel potiùs, si sie loqui licet, gravitationem, quæ malè philofophantibus mira videntur, perfacile est explicare.
+
+Notandum denique, quamvis particulaî materiæ cæleftis eodem tempore multis diversis motibus ciean- tur, omnes tamen earum aétiones ita simul confpirare, ac tanquam in æquipondio consistere", unafque aliis opponi, ut ex hoc solo quòd terræ moles objedu suo earum motibus adversetur, quaquaverfus æqualiter propendeant ad se ab ejus viciniâ, & tanquam ab ejus centro, removendas ; nisi forte aliqua exterior caussa b diversitatem hac in re consti|tuat. Talesque aliquot
+
+a. Voir t. V, p. 174.
+
+b. Ibid., p. 388.
+
+[p. 217] 204-
+
+caussæ possunt excogitari ; sed an earum esse&us sit tantus, ut sensu deprehendatur, nondum mihi compertum est.
+
+Vis luminis, quatenus à Sole ac fbellis in omnes cœli partes se diffundit, jam satis suprà fuit explicata a : superest tantùm ut hic notemus, ejus radios à Sole delapfos, Terne particulas diverfimodè agitare. Quippe, quamvis in se spectata, nihil aliud fit quàm pressio quædam, quæ fit secundùm lineas rectas, à Sole in Terram extensas : quia tamen ista preflio non æqualiter omnibus particulis tertii elementi, quæ supremam terræ regionem componunt, sed nunc unis, nunc aliis, ac etiam, nunc uni ejusdem particulæ extremitati, nunc alteri applicatur : facile potest intelligi, quo pacto ex ipsâ variæ motiones in particulis illis excitentur. Exempli caufTâ, si AB sit una ex particulis tertii elementi, supremam terræ regionem componentibus, quæ incumbat alteri particulæ C, atque inter ipsam & Solem alias multæ interjaceant, ut D, E, F : hæ interjacentes nunc impedient, ne radii Solis G, G, premant ex- tremitatem B, non autem ne premant A : sicque extremitas A de- primetur, atque alia B attolletur. Et quia istæ particulæ alfiduè situm mutant, paullô pòst opponentur radiis Solis tendentibus versus A, non autem aliis tendentibus versus 3o B, sicque extremitas A rursus attolletur, & B deprime-
+
+a. Pars III, art. lv et seq., p. 108. Œuvres. III.
+
+XXVIII. De tertiâ aâione, quæ est lumen; quomodo particulas a'éris commoveat.
+
+28
+
+[p. 218] 2l8
+
+Principiorum Philosophie
+
+XXIX.
+
+De quartâ,qu<v eji calor ; quid sit. S quomodo sublato lumine perseveret.
+
+XXX.
+
+Cur altiùs pcnetret, quant lumen.
+
+XXXI. Cur corpora ferè om- it ia rarefaciat.
+
+XXXII. Quomodo Suprema
+
+tur. Quod idem in omnibus terra: particulis, ad quas Solis radii per|tingunt, habet locum ; & ideô omnes a Solis lumine agitantur.
+
+Hæc autem particularum terrellrium agitatio, sive orta fit alumine, sive ab alià quâvis cauffâ, calor vocatur; præsertim cùm cil major solito & movet sensum; caloris enim denominatio ad sensum taélûs refertur. Notandumque est unamquamque ex particulis terrestribus sie agitatam, perseverare postea in suo motu juxta leges naturæ a , donec ab aliquâ aliâ cauffâ sistatur; atque ideô calorem à lumine ortum, semper aliquamdiu post fublatum lumen remanere.
+
+Notandum præterea particulas terrestres, à radiis Solis sie impulfas, alias sibi vicinas, ad quas isti radii non perveniunt, agitare; hasque rursus alias, & sie i5 consequenter. Cùmque semper tota Terræ medietas à Sole illustretur, tôt ejusmodi particulas simul commo- veri, ut quamvis lumen in prima opacâ superficie sub- sistat, calor tamen ab eo genitus usque ad intimas partes média: Terræ regionis debeat pervenire.
+
+Notandum denique iltas particulas terrestres, cùm à calore plus solito agitantur, in tam angufto spatio vulgô non polfc contineri, quàm cùm quiescunt vel minus moventur; quia figuras habent irregulares, quæ minus loci occupant, cùm certo aliquo modo junclsc quiescunt, quàm cùm assiduo motu disjunguntur. Unde fit, ut calor omnia fere corpora terrestria rarefaciat, sed una magis, alia minus, pro vario (itu & figura particularum, e.\ qui bu s confiant.
+
+His variis adionibus animadvertis, si rursus consideremus
+
+a. Pars II, art. xzxvn, p. 62.
+
+2>
+
+[p. 219] 205-J07.
+
+2I<
+
+Terram, jam primùm ad viciniam Solis acce- dentem, | & cujus suprema regio confiât particulis tertii elementi, sibi mutuô non firmiter annexis, quibus immifti sunt globuli cœlestes, aliquantô minores
+
+5 iis, qui reperiuntur in eâ cœli parte per quam transit, vel etiam in eâ ad quam venit : facile intelligemus minores irtos globulos, majuiculis qui eam circumple- duntur, loca sua relinquere, hofque majufculos, in illa cum impetu ruentes, in multas tertii elementi parti- o culas impingere, præsertim in crassiores, ipsasque infra cæteras detrudere, juvante etiam ad hoc vi gravitatis, atque ita efficere ut istæ crassiores infra cæteras de- pulfse, figurafque habentes irregulares & varias, ar- diùs inter se ne&antur quàm superiores, & motus globulorum cœlestium interrumpant. Quo fit, ut suprema
+
+séÊmMk,.
+
+Terræ regio, qualis hîc exhibetur versus A in duo corpora valde diversa distinguatur, qualia exhibentur verius B & C : quojrum superius B est rarum, fluidum
+
+Terræ regio, in duo diversa corpora fuerit primùm divisa.
+
+[p. 220]
+
+PrINCIPIORUM PhILOSOPHLE
+
+207.
+
+XXXIII. Dijlinâio particularum terreflriutn in tria summa gênera.
+
+XXXIV. Quomodo tertium corpus inter duo priora faîlum fit.
+
+& pellucidum, inferius autem C est aliquatenus densum, durum &opacum.
+
+Deinde ex eo quòd existimemus corpus C à corpore B distin&um fuisse per hoc solùm, quòd ejus partes à globulis cœlestibus deorsum preffæ, sibi invicem adhærerent, intelligemus etiam aliud adhuc corpus, quale est D, inter ista duo debere postea generari. Etenim figuras particularum tertii elementi, ex quibus constant corpora B & C, admodum variæ sunt, ut suprà notatumeft a ,ipfafquehîcin triaprsecipuagenera b licet distinguere. Nempe quædam sunt in varia quasi brachia divisæ, atque hinc inde expanfse tanquam rarai arbo- rum, & alia id genus; atque hæ sunt potissimùm, quæ à materiâ cælefti deorsum expulfæ, sibi mutuô adhse- refcunt, & corpus C componunt. Aliæ sunt folidiores, figurafque habent, non quidem omnes globi vel cubi, sed etiam cujuslibet ruderis angulofi; atque hæ, si raa- jufculse sint, infra cæteras vi gravitatis descendunt; si autem sint minufculæ, manent prioribus immiftæ, oc- cupantque intervalla quæ ab ipsis relinquuntur. Aliæ denique sunt oblongæ, ac ramis destitutæ, instar ba- cillorum ; atque hæ prioribus etiam se interserunt, cùm satis magna inter ipsas intervalla reperiunt, sed non illis facile anneftuntur.
+
+Quibus animadversis, rationi consentaneum est ut 2 5 credamus, cùm primùm particulæ ramofæ corporis C sibi mutuô cœperunt implicari, plerasque ex oblongis fuisse ipsis interjetas, easque postea, dum ramofte illæ,
+
+18 sint] sunt {i"édit.).
+
+a. Art. vin, p. 206.
+
+b. Voir t. V, p. 174.
+
+[p. 221] 107-208.
+
+magis & magis preflæ, paullatim ar&iùs jungebantur, supra ipsas afcendifle versus D, atque ibi simul congregatas fuisse, in | corpus à duobus aliis B & C valde diversum. Eâdem ratione quâ videmus in paludofis locis, terram calcando, aquam ex eâ exprimi, quæ pollea ipsius superficiem tegit. Nec dubium etiam,
+
+.• jv.
+
+quin intérim aliæ plures ex corpore B delapfæ sint, quæ duorum inferiorum corporum C & D molem auxerunt.
+
+Quamvis autem initio, non solæ istæ particule oblongæ ramolis interjedse fuerint, sed aliæ etiam, quæ tanquam rudera aut fragmenta lapidum solidæ erant, notandum tamen lias folidiores non tam facile supra ramofas afcendiffe, quàm illas oblongas ; vel, si quæ afcenderint, faciliùs postea infra ipsas rursus descen- disse : oblongre enim, cæteris paribus, plus habent fuperficiei pro ratione suæ molis; atque ideò à materiâ cælefti per meatus corporis C fluente, faciliùs ex-
+
+xxxv.
+
+Particulas tantiim unius generis in ijlo corpore contineri.
+
+[p. 222]
+
+Principiorum Philosophle
+
+XXXVI. Duas tantùm in eo esse species istarum particularum.
+
+pelluntur : & postquam ad D pervenerunt, | ibi trans- verfim jacentes supra superficiem istius corporis C, non facile meatibus occurrunt, per quos in ipsum regredi poffint.
+
+Sic itaque multæ oblongæ particulæ tertii elementi versus D congregatæ sunt; & quamvis initio non fuerint inter se perfectè æquales, nec similes, hoc tamen commune habuerunt, quòd nec sibi mutuò, nec aliis tertii elementi particulis facile possent adhærere, quôdque à materiâ cælefti ipsas circumfluente moverentur; propter hanc enim proprietatem à corpore C excefferunt, atque in D sunt limul collectæ; cùmque ibi materia cœlestis affiduè circa illas fluat, efficiatque ut variis motibus cieantur, & unse in aliarum loca tranfmigrent, successu temporis fieri debuerunt lseves & teretes, & quam-proximè inter se æquales, atque ad duas tantùm species reduci. Nempe, quæ fuerunt satis tenues, ut ab illo solo impetu, quo à materiâ cælefti agebantur, flecti possent, circa alias paullô crassiores, quæ sie flecti non poterant, convolutse, ipsas secum detulerunt. Atque hæ duæ particularum species, flexi- lium scilicet atque inflexilium, sie jun&æ faciliùs per- feverârunt in suo motu, quàm solæ flexiles, vel fosse inflexiles potuissent : unde factum est, ut ambæ in corpore D remanferint; atque etiam ut illæ quæ initio circa alias flecti potuerunt, postea successu temporis, assiduo usu se inflecTendi, magis &magis flexiles red- derentiir, fierentque instar anguillarum aut brevium funiculorum ; aliæ autem, cùm nunquam flederentur, si quam antè flexilitatem habuerint, eam paullatim amitterent, ac telorum instar rigidæ manerent.
+
+[p. 223] 209-210.
+
+Præterea putandum est corpus D priùs distingui cœ|piffe à duobus aliis B & C, quàm hæc duo perfedè formata essent, hoc est, priusquam C effet tam durum, ut non ampliùs possent ejus particulæ ar&iùs con- nedi, & inferiùs expelli à motu materiæ cœlestis, ac priusquam particule corporis B ita essent omnes or-
+
+XXXVII. Quomodo infimum corpus C, in plura alia fuerit divisum.
+
+JO
+
+dinatse, ut isti materiæ cælefti faciles & æqualcs vias undique circa se præberent: ideòque postea multas particulas tertii elementi fuisse adhuc à corpore B ver- fus C expulfas. Atque hæ particulæ, si folidiores fuerint qiisæu congregatæ erant in D, infra ipsas des- cendentes corpori C se adjunxerunt, ac pro diversâ ratione suarum figurarum, vel in ejus superficie man- ferunt, vel infra ipsam penetràrunt : sicque hoc unum corpus C in plura alia divisum est; ac etiam forte in aliquâ suâ regione totum fluidum evasit, iis particulis ibi congregatis, quarum figurée impediebant ne sibi
+
+[p. 224]
+
+Principiorum Philosophie
+
+211.
+
+XXXVIII.
+
+De formatione alterius quarti corporis supra tertium.
+
+| mutuò facile adhérèrent. Sed omnia hîc explicari non possunt.
+
+Ubi autem etiam particule, minus solida? iis quæ corpus D componebant, ex B deorsum lapfæ sunt, hseferunt in superficie hujus corporis D; ac quia ple- rseque ex ipsis fuerunt ramofæ, paullatim sibi mutuò
+
+g$Ç&
+
+•V-
+
+annexse, corpus durum E, à duobus B & D, quæ sunt fluida, valde diversum, compofuerunt. Atque hoc corpus E initio admodùm tenue erat, instar cruftæ vel corticis superficiem corporis D contegentis : sed cum tempore crassius evasit, novis particulis ex corpore B se illi adjungentibus; nec non etiam ex D, quia, cùm reliquis ejusdem corporis D plané similes non essent, motu globulorum cœlestium expellebanlur, ut mox dicam. Et quia istæ particule aliter difponebantur, in iis partibus terra? ubi dies erat vel æstas, quàm in i adhærerent] adhærent (/" édit.).
+
+[p. 225] 211-212.
+
+Pars Quarta. 225
+
+iis ubi erat nox vel hyems, propter diversas actiones luminis & caloris, quod huic corpori accedebat in unâ die, vel in unâ æstate, aliquo modo distinguebatur ab eo, quod eidem accedebat in die vel æstate sequenti; sicque ex variis quasi cruftis vel corticibus, sibi mutuò fuperindudis, fuit conflatum.
+
+Et quidem non longo tempore opus fuit, ut Terræ r • • * r-w n ^ 1 • n • De hujus quarti corpoluprema regio A in duo corpora B & C diltingueretur ; ris accretione, & tcr-
+
+xxxix.
+
+nec etiam ut multæ particulæ oblongæ coacervarentur versus D; nec denique, ut prima interior crusta corporis E formaretur. Sed non niû spatio plurium annorum particulæ corporis D ad duas species paullô antè descriptas 3 reduci, atque omnes cruftæ corporis E formari potuerunt. Neque enim initio ratio fuit, cur i5 particulæ quæ confluebant versus D, non essent unæ aliis paullô crassiores & longiores, | nec etiam cur essent plane læves & teretes, sed aliquid adhuc fcabri- tiei habere potuerint, quamvis non tantum haberent, ut ideò ramoiis anne&erentur; potueruntque etiam secundùm longitudinem planæ esse vel angulofæ, ac crassiores in unâ extremitate quàm in altéra. Cùm autem sibi mutuò non adhærerent, ideòque materia cœlestis affiduè circumfluens, vim haberet ipsas movendi, pleræque paullatim mutuo attritu læves & teretes evaferunt, atque inter se æquales & secundùm longitudinem æqualiter crassæ; propterea quòd per easdem vias tranfibant, & aliæ in aliarum loca fuccedebant, quæ loca non poterant majores recipere, nec à minoribus tota impleri. Sed pleræque etiam, cùm ad communem aliarum normam reduci non possent, paulla-
+
+a. Art. xxxvi, p. 222.
+
+sn expurgatione.
+
+[p. 226] 22Ô
+
+Principiorum Philosophie
+
+XL.
+
+Quomodo hoc tertium corpus fuerit mole imminutum, & Spatium aliquod interje & quartum relique- rit.
+
+tim motu globulorum cœlestium ex hoc corpore D ejedæ sunt ; & harum quidem nonnullæ se corpori C adjunxerunt, sed maxima pars sursum ascendit versus E & B, materiamque augendo corpori E fubminiftravit. Quippe tempore diei & seftatis, cùm Sol unam me- dietatem corporis D vi luminis & caloris rarefaciebat, non poterat omnis materia istius medietatis inter duo corpora vicina C & E contineri ; neque hæc corpora vicina, quæ dura erant, locis expellere, atque ideò pleræque ejus materiaj particule per poros corporis E versus B afcendebant, quæ deinde tempore noctis & hyemis, cessante iftâ rarefa&ione, ob gravitatem suam rursus defcendebant. Multæ autem cauiTse erant, propter quas particule tertii elementi, quæ sie ex corpore D egrediebantur, non poterant omnes postea in illud reverti. Nara majore impetu exibant, quàm redibant; quia major est vis dilatationis à|caloré ortse, quàm gravitatis. Et idcirco multoc per angustos meatus corporis E sibi viam faciebant ad afeendendum, quæ postea nullam invenientes ad revertendum, in ejus superficie confiftebant; ac etiam nonnullæ, meatibus illis im- pa&æ, ulteriùs ascendere non valentes, aliis descensu- ris vias occludebant. Præterea quæcunque cæteris erant tenuiores, & à figura lævi & tereti magis difta- bant, solo globulorum cœlestium motu extra corpus D pellebantur, ideòque primæ se offerebant ad afeendendum versus E & B ; atque horum corporum particulis occurrendo, non rarô figuras suas mutabant, & vel illis adhærebant, vel saltem definebant aptre este ad revertendum versus D. Unde sequi debuit polt multos dies & annos, ut magna pars hujus corporis D effet absumpta,
+
+IO
+
+5o
+
+[p. 227] 21 3-2 14-
+
+& nullse ampliùs in eo particulae reperirentur, nisi duarum specierum antè descriptarum 3 ; ac etiam ut corpus E effet satis densum & crassum, quia ferè omnes particulæ quæ ex D recefferant, vel ejus poris impaétse denfius illud effecerant, vel occurfu particularum corporis B mutatæ, illisque an|nex3e, versus E relapfæ erant, sicque crassitiem ejus auxerant; ac denique ut spatium satis amplum S, inter D & F relinqueretur;
+
+m
+
+quod non aliâmateriâ potuit impleri, quam eâ ex quâ conflatur corpus B; cujus scilicet particulæ tenuiffimee per meatus corporis E facile transierunt in loca quoc ab aliis paullô crassioribus ex D exeuntibus relinquebantur.
+
+Ita corpus E, quamvis gravius & denfius quàm F, i5 ac forte etiam quàm D, aliquandiu tamen ob suam duritiem, fornicis instar, supra D & F suspensum man- sit. Sed notandum est ipsum, cùm primùm formari cœpit, meatus habuisse quam-plurimos, ad mensuram corporis D excavatos. Cùm enim ejus fuperficiei tune incumberet, non poterat non prgebere transitum istis
+
+a. Art. xxxvi, p. 222.
+
+XLI.
+
+Quomodo multar fiffu- rœ in quarto faâce sint.
+
+[p. 228] 228 Principiorum Philosophie îi 4 -îi6.
+
+particulis quæ quotidie, vi caloris motæ, interdiu versus B afcendebant, ac no£hi rursus defcendebant, semperque se mutuò consequentes, istos meatus implebant. Cùm autem postea, corpore D mole imminuto, non ampliùs ejus particulæ omnes meatus corporis E occupârunt, aliæ minores particulæ, ex B venientes, in earum loca fuccefferunt ; cùmque hæ istos meatus corporis E non satis implerent, & vacuum in naturâ non detur, materia cœlestis, quâ solâ omnia exigua intervalla, quæ circa particulas corporum terrestrium reperiuntur, impleri possunt, in illos ruens, eorum figuras immutabat, impetumque faciebat ad quosdam ita diducendos, ut hoc ipso alii vicini angustiores red- derentur. Unde facile contingebat, ut, quibusdam partibus corporis E à se mutuò disjundis, in eo fièrent i5 fiffuræ, quæ postea successu temporis majores & majores evaferunt. Eâdem plané ratione, quâ videmus æstate in terra multas rimas | aperiri, dum à Sole sicca- tur, eamque magis & magis hiare quò diutiùs siccitas perseverat.
+
+XL11 - Cùm autem multæ taies rimæ essent in corpore E,
+
+Quomodo ipsum in va- •, r /• i nas partes sit con- atque fplæ lemper augerentur, tandem ejus partes tam fraâum. parum sibi mutuò adhæferunt, ut non ampliùs in modum fornicis inter F & B posset sustineri, & ideò totum confraftum, in superficiem corporis C gravitate suâ delapsum est. Cùmque hæc superficies satis lata non effet, ad omnia | illius fragmenta sibi mutuò adjacen- tia, & situm quem prius habuerant fervantia, recipien- da, quædam ex ipsis in latus inclinari atque una in alia recumbere debuerunt. Nempe, si ex. gr. in eo 3o tractu corporis E, quem hæc figura repræsentat, præcipuæ
+
+[p. 229] 2l6.
+
+fifTuræ ita fuerint dispositæ in locis 1,2,5,4,5,6,7, ut duo fragmenta 2 j & 67 paullô priùs quàm reliqua cœperint delabi ; & aliorum quatuor fragmentorum extremitates 2, ) , 5 , & 6 priùs quàm oppositæ 1 , 4 & v ;
+
+m
+
+itemque extremitas $ fragmenti 45 aliquantô prius delapsa sit, quàm extremitas v fragmenti v6: non dubium est, quin ipsa jam debeant eo modo efledifpofita, supra superficiem corporis C, quo hîc depiéta sunt; ita scilicet, ut fragmenta 2 j & 6j proximè jungantur corpori C, alia autem quatuor in latus sint reclinata, & una in alia recumbant, &c.
+
+[p. 230] 2*0
+
+XLIII. Quomodo tertium corpus supra quartum ex parte ajcenderit, & ex parte infra remanferit.
+
+XLIV. Inde in Superficie Terra ortos esse montes, campos, maria, Se.
+
+Principiorum Philosophie
+
+316-217
+
+Nec dubium etiam, quin corpus D, quod fluidum est & minus grave quàm fragmenta corporis E, occupet quidem, quantum potest, inferiores omnes cavitates sub istis fragmentis reli&as, nec noix eorum rimas & meatus; sed præterea etiam, quia totum in illis contineri non potest, quin supra inferiora ex istis fragmentis, ut 23 & 67, ascendat.
+
+Jamque si consideremus, hîc per corpus B & F aërem intelligi ; per C, quandam terræ cruftam interiorem
+
+5^È§a£k&:s>
+
+craiîiffimam, ex quâ metalla oriuntur; per D, aquam ; ac denique per corpus E, terram exteriorem, quæ ex lapidibus, argillâ, arenâ & limo est conflata : facile etiam per aquam, supra fragmenta 2} & 6j eminen- tem, maria; per alia fragmenta molliter tantùm incli- nata, & nullis aquis tecta, ut 89, & vx, camporum pla- nities; ac per alia magis erefta, ut 1 2 & 94 v, montes intelligemus. Et denique adverte|mus, cùm fragmenta ista vi propriæ gravitatis hoc pa&o delapsa sunt, eorum extremitates, sibi mutuò fortiter allifas, in alia multa minora fragmenta diffiluilTe, quæ saxa in quibusdam litoribus maris, ut in 1, & multiplicia montium
+
+.5
+
+[p. 231] 217-218.
+
+juga, partim altissima ut in 4, partim remiffiora ut in 9 & v, ac etiam scopulos in mari, ut in 2, & 6, compo- fuerunt.
+
+Atque intima? horum omnium naturæ ex jam dictis erui possunt. Nam primo ex iis cognoscimus, aërem nihil aliud esse debere, quàm congeriem particularum tertii elementi, tam tenuium & à s e mutuò disjun&a- rum, ut quibuslibet motibus globulorum cœlestium obfequantur; ideòque illum esse corpus valde rarum, fluidum & pellucidum, & ex minutiis cujuslibet figura? posse componi. Quippe, nisi ejus particulæ à se mutuò essent plané disjun6tæ, jamdudum adhsefifient corpori E ; cùmque disjunclæ sint, unaquæque movetur independenter à vicinis, occupatque totam illam exiguam sphæram,quam ad motum circularem circa proprium suum centrum requirit, | & ex eâ vicinas omnes expellit. Quamobrem nihil refert, cujufnamfint figura?.
+
+Aër autem frigore facile denfatur, & rarefit calore : cùm enim ejus particulæ ferè omnes sint flexiles, instar mollium plumularum, vel tenuium funiculorum, quò celeriùs aguntur, eô latiùs se extendunt, & idcirco majorem spatii sphæram ad motum suum requirunt ; atque notum est ex dictis a , per calorem nihil hîc aliud quàm accelerationem motûs in istis particulis, & per frigus ejusdem imminutionem debere intelligi.
+
+Denique aër, in vase aliquo violenter compressus, vim habet refiliendi, ac per ampliorem locum se protinus extendendi. Unde fiunt machinæ, quæ ope solius aëris, aquas sursum versus, instar fontium; & alia; quæ
+
+3o tela cum magno impetu, arcuum instar, jaculantur.
+
+a. Art. xxix, p. 218.
+
+XLV. Quæ sit aëris natura
+
+XLVI.
+
+Cur facile raréfiai &
+
+denfctur.
+
+XLVII. De violenta ejus com- pressione in quibusdam machinis.
+
+[p. 232] XLVIII. De aquar naturâ :&cur facile modo in aërem, modà in glaciem vertatur.
+
+XLIX. De fluxu & rejluxu
+
+2}2
+
+Principiorum Philosophie
+
+maris.
+
+Hujusque caussa est, quòd aëre ita compreffo, unaquæque ejus particula sphæricum illud spatiolum , quod ad motum suum requirit, sibi soli non habeat, sed aliæ vicinæ in ipsum ingrediantur ; cùmque intérim idem calor, sive eadem agitatio istarum particularum, conservetur à motu globulorum cœlestium, affiduè circa ipsas fluentium, eæ suis extremitatibus se mutuò ver- sèrent & loco expellant, sicque omnesfimul impetum faciant ad majus spatium occupandum.
+
+Quantum ad aquam, jam ostendi 3 cur duæ tantùm particularum species in eâ reperiantur, quarum unæ sunt fl exiles, aliæ inflexiles ; atque si ab invicem separentur, hæ salem, illæ aquam dulcem componunt. Et quia jam omnes proprietates, cùm falis tùm aquæ dulcis, ex hoc uno fundamento dedu&as, fusè in Meteoris b explicui,non opus est ut plura de ipsis hîc fcri- bam. Sed tantùm notari velim, | quàm apte omnia inter se cohsereant, & quomodo ex tali generatione aquæ sequatur, etiam eam esse debere proportionem, inter ejus particularum crafîitiem & craflitiem particularum aëris; itemque inter ipsas, & vim quâ globuli secundi elementi eas movent, ut cùm isti globuli paullô minus folito agunt, aquam in glaciem mutent, & particulas aëris in aquam; cùm autem agunt paullô fortiùs, tenuiores aquæ particulas, eas nempe quæ sunt flexiles, in aërem vertant.
+
+Explicui etiam in Meteoris c caufTas ventorum, à quibus mare variis irregularibus modis agitatur. Sed
+
+a. Art. xxxvi, p. 222.
+
+b. Discours III et V. Voir t. VI, p. 249 et 279.
+
+c. Discours IV. Ibid., p. 265.
+
+[p. 233] 2ig.
+
+superest alius regularis ejus motus, quo bis in die fin- gulis in locis attollitur & deprimitur, interimque fem- per ab Oriente in Occidentem fluit. Ad cujus motûs caussam explicandam, ponamus nobis ob oculos exiguum illum cœli vorticem, qui Terram pro centro habet, quique cum illâ & cum Lunâ in majori vortice circa Solem fertur. Sitque A B C D ille exiguus vortex a ;
+
+B
+
+EFGHTerra; 12^4 superficies maris, à quo, majoris perfpicuitatis caussa, Terram ubique tegi supponimus; & $678 superficies aëris mare ambientis. Jamque con- fideremus, si nulla in isto vortice Luna effet, pundum T, quod est centrum Terræ, fore in pundo M, quod est vorticis centrum; sed Lunâ « exfiftente versus B,
+
+a. Voir t. V, p. 260, 1. 7. Œuvres. III.
+
+[p. 234] 2 j4 Principiorum Philosophie 2:9-221.
+
+hoc centrum T esse debere inter M & D : quia, cùm materia cæleftis hujus vorticis aliquantô celeriùs moveatur quàm Luna vel Terra, quas secum defert, nisi punctum T aliquantô magis diftaret à B quàm à D, Lunæ præsentia impediret, ne illa tam libéré fluere 5 posset inter B & T, quàm inter T & D ; cùmque locus Terræ in isto vortice non determinetur, nisi ab æqua- litate virium ma|teriæ cœlestis eam circumfluentis, evidens est ipsam idcirco nonnihil accedere debere versus D. Atque eodemmodo, cùm Luna erit in C, Ter- 10 ræ centrum esse debebit inter M & A : sicque semper Terra nonnihil à Lunâ recedit. Præterea, quoniam hoc pacto, ex eo quod Luna sit versus B, non modo spatium per quod materia cœlestis fluit inter B & T, sed etiam illud per quod fluit inter T & D, redditur angustius : i5 inde sequitur istam materiam cœlestem ibi celeriùs fluere, atque ideò magis premere, tum superficiem aëris in 6 & 8, tum superficiem aquæ in 2 & 4, quàm si Luna non effet in vorticis diametro BD ; cùmque corpora aëris & aquæ sint fluida, & facile preflioni isti objfe- 20 quantur, ipsa minus alta esse debere fupraTerræ partes F & H, quàm si Luna effet extra hanc diametrum BD; ac è contra esse altiora versus G & E, adeò ut fuperfi- cies aquæ 1 , j , & aëris 5 , 7, ibi protuberent. L - Jam verò, quia pars Terræ quas nunc elt in F, è re- 25
+
+Cur aqua horis 6 [as- o • i-, i • a • • . i ccndat, s horis 6- gione puncti B, ubi mare elt quam-minime altum, descendat. p st s ex horas erit in G, è regione puncti C, ubi est altissimum, & post sex alias horas in H, è regione punfti D, atque itaconfcquentcr ; vel potiùs, quia Luna etiam intérim nonnihil progreditur à B versus C, utpote quæ 3o mensis spatio circulum ABCD percurrit, pars Terræ
+
+[p. 235] Pars Quarta.
+
+2 M
+
+quæ nunc est in F, è regione corporis Lunée, post sex horas cum 12 minutis, præterpropter, erit ultra pun- âum G, in eâ diametro vorticis ABCD, quæ illam ejusdem vorticis diametrum, in quâ tune Luna erit, ad angulos re&os intersecat; tuneque aquærit ibi altiffima;
+
+B
+
+& post sex alias horas cum duodecim minutis, erit ultra punctum H, in loco ubi aqua erit quamminimè alta, &c. Unde clarè intelligitur aquam maris, singulis duodecim horis cum 24 minutis, in uno & eodem loco fluere ac refluere debere 3 .
+
+Notandum est hune vorticem ABCD non esse accuratè rotundum, sed eam ejus diametrum, in quâ
+
+4 quâ] quo (/" édit.).
+
+a. Voir t. IV, p. 466 et 467-468.
+
+LI. Cur ajlus maris sint majores, cùm Luna ■plena est vel nova.
+
+[p. 236] 2}6 Principiorum Philosophie aai-m.
+
+Luna versatur cùm est nova vel plena, breviorem esse illâ quæ ipsam secat ad angulos re&os, ut in superiore parte ostensum est a ; unde sequitur fluxus & refluxus maris debere esse majores, cùm Luna nova est vel plena, quàm in temporibus intermediis b .
+
+B
+
+lu.
+
+Cur in cequinoâiis sint
+
+maxtmt.
+
+LUI.
+
+Cur aër S aqua/emper
+
+Notandum etiam, Lunam semper esse in piano Eclipticæ vicino, Terram autem motu diurno secundùm planum sequatoris converti ; quæ duo plana in æquinodiis se inter|fecant, in folftitiis autem multùm ab invicem distant : unde sequitur, maximos seftus maris esse debere circa initia Veris & Autumni.
+
+Præterea notandum est, dum Terra fertur ab E per
+
+a. Pars III, art. cuit, p. 199.
+
+b. Voir t. IV, p. 467-468.
+
+[p. 237] 232-323.
+
+2 }7
+
+F versus G, sive ab Occidente in Orientem, aquæ tumorem 412, itemque aëris tumorem 856, qui nunc parti Terra? E incumbunt, paullatim ad alias ejus partes magis Occidentales migrare ; ita ut post sex horas incumbant parti Terræ H, & post horas duodecim parti Terræ G. Idemque etiam de tumoribus aquæ & aëris 2)4 & 678 est intelligendum. Unde fit, ut aqua & aër ab Orientalibus Terræ partibus, in ejusdem partes Occidentales fluxu continuo ferantur 3 .
+
+| Qui fluxus, licèt non admodùm celer, manifestè tamen deprehenditur ex eo quòd magnæ navigationes sint multò tardiores & difficiliores versus partes Orientales quàm versus Occidentales ; & quòd in quibusdam maris angustiis, aqua semper fluat versus occasum ; & denique quòd, cæteris paribus, eæ regiones quæ mare habent in Oriente, ut Brafilia, non tantùm Solis calorem sentiant, quàm eæ quæ longos terræ tra&us habent ad Orientem & mare ad Occidentem, ut Guinea ; quoniam aër qui à mari venit, frigidior est,
+
+quàm qui à Terra.
+
+Notandum denique, totam quidem Terram mari non tegi, ut paullô antè afîumpfimus b ; sed tamen, quia Oceanus per omnem ejus ambitum se diffundit, idem de illo, quantum ad generalem aquarum motum, esse intelligendum, ac si totam involveret. Lacus autem & stagna, quorum aquæ ab Oceano sunt disjundæ, nullos ejusmodi motus patiuntur : quia eorum superficies tam latæ non sunt, ut multò magis in unâ parte quàm in aliâ, ob Lunæ præsentiam, à materiâ cælefti pre-
+
+a. Voir t. IV, p. 468.
+
+b. Ci-avant, p. 233,1. 8-9.
+
+ab Oriente ad Occidentem jluant.
+
+LIV. Cur in eâdem poli al- titudine, regiones quæ mare habent ad Orientem, sint aliis magis temperatæ.
+
+LV.
+
+Cur nullus sit fluxus nec refluxus in lacu- bus S stagnis : aut cur in variis litoribus variis horisfiat.
+
+[p. 238] LVI.
+
+Quomodo ejus caujfcc particulares, in fin- gulis litoribus fini investigandæ .
+
+LVII.
+
+De naturâ Terras inte-
+
+rioris.
+
+2}8 PRINCIPIORUM PHrLOSOPHLE 2î3- Ja4 .
+
+mantur. Atque propter inæqualitatem finuum & an- fra&uum, quibus cingitur Oceanus, ejus aquarum incrementa & décrémenta diversis horis ad diversa litora perveniunt, unde innumeræ eorum varietates oriuntur.
+
+Quarum omnium varietatum causæ particulares deduci poteruntexdi&is 3 , si consideremus aquasOceani, cùm Luna nova est vel plena, in locis à litoribus remotis versus Eclipticam & yïquatorem horâ fextâ, tam matutinâ quàm vefpertinâ, este altiffimas, & ideò ver- fus litora fluere ; horâ autem duodecimâ, este maxime depreffas, & ideò à litoribus ad illa loca refluere : ac prout litora sunt vicina | vel remota, prout aquæ ad ipsa tendunt per vias magis rectas vel obliquas, latas vel anguftas, profundas vel vadofas, ad ipsa citiùs aut tardiùs, & in majore aut minore copiâ deferri. Ac etiam, propter admodùm varios & inæquales eorum anfractus, sæpe contingere ut aquæ versus unum lit— tus tendentes, iis quæ ab alio litore veniunt occurrant, utque ita earum cursus diversimodè mutetur. Ac denique varios ventos, & quorum nonnulli quibusdam in locis ordinarii sunt, istas aquas diversis modis impellere. Nihil enim puto ullibi observari circa fluxum & refluxum maris, cujus caussæ in his paucis non contineantur.
+
+Circa terram interiorem C, notare licet eam constare particulis cujusvis figuræ, ac tam crassis, ut globuli fecundi elementi ordinario suo motu eas secum non abripiant, sed tantùm deorsum premendo graves reddant, ac per meatus, qui plurimi inter ipsas reperiuntur,
+
+b. Art. L, LI et LII, p. 234-236.
+
+[p. 239] 224-235.
+
+2J 9
+
+tranfeundo, nonnihil commoveant. Quod etiam facit materia primi elementi, eos ex istis meatibus, qui anguftifTimi sunt, replens ; ac idem faciunt particulæ terrestres superiorum corporum D & E, quæ sæpe in eos qui sunt omnium latiffimi descendunt, atque inde nonnullas ex crassis hujus corporis particulis secum abducunt. Quippe credibile est, superiorem ejus superficiem constare partibus ramofis, sibi quidem mutuò valde firmiter annexis; utpote quæ, dum hoc corpus formaretur, impetum globulorum cœlestium per corpora B & D difcurrentium, primæ sustinuerunt & fregerunt ; sed inter quas nihilominus permulta sunt intervalla satis lata, ut per ipsa particulæ aquæ dulcis, & falis, nec non etiam aliæ angulofæ aut ramofæ, excorpore E delapfse, transire possint.
+
+| Verùm infra istam superficiem, partes corporis C minus arctè sibi mutuò adhærent; ac etiam forte in quâdam ab ipsâ distantiâ, multæ simul sunt congre- gatse, quæ figuras habent tam teretes & tam læves, ut, quamvis ob gravitatem suam sibi mutuò incumbant, nec, quemadmodum aquæ partes, globulos fecundi elementi undique circa se fluere permittant, facile tamen agitentur, tum à minutioribus ex istis globulis, qui nonnulla etiam spatia inter ipsas inveniunt, tum præcipuè à materiâ primi elementi, quæ omnes angu- ftiflimos angulos ibi reliétos replet. Atque ideò liquorem componunt valde ponderofum & minime pellucidum, cujusmodi est argentum vivum.
+
+Præterea, quemadmodum videmus eas maculas, quæ quotidie circa Solem generantur, figuras habere admodùm irregulares & varias, ita existimandum est
+
+LVI1I. De naturâargenti vivi.
+
+LIX. De inæqualitate caloris interiorem Terrant pervadenlis.
+
+[p. 240] 24O PRINCIPIORUM PHILOSOPHLE aa5-aa6.
+
+mediam Terræ regionem M, quse ex materiâ istis maculis simili conflata est, non ubique esse æqualiter denfam ; & ideò quibusdam in locis transitum præbere majori copiæ primi | elementi, quàra in reliquis ; atque hanc materiam primi elementi, per corpus C tranfeuntem,
+
+Iffl
+
+m
+
+ejus partes quibusdam in locis fortiùs quàm in aliis commovere, sicuti etiam calor à Solis radiis excitatus, atque, ut suprà di&um est a , usque ad intima Terræ pertingens, non uniformiter agit in hoc corpus C, quia faciliùs ei communicatur per fragmenta corporis E, quàm per aquam D : atque altitudo montium efficit, ut quædam Terras partes Soli obverfæ, multò magis incalefcant, quàm ab illo averfæ : ac denique aliter incalefcunt versus yEquatorem, aliter versus polos, calorque iste per vices variatur propter i5 vicissitudinem tum diei &noctis, tum præcipuè asflatis & hyemis. lx. Unde fit, ut omnes particulæ hujus terræ interioris
+
+De iJ1 aâione l . or,S ^ semper aliquantulum, & modo plus modo minus moveantur; non eæ solùm quæ vicinis non annexa;
+
+a. Art. xxx, p. 218.
+
+[p. 241] 226-21-J.
+
+sunt, ut particulæ argenti vivi, & falis, & aquæ dulcis, & aliæ quævis in majoribus ejus meatibus contentæ ; sed etiam eæ quæ sunt omnium duriffirme, ac sibi mutuò quam-firmiffimè adhèrent. Non quidem quòd hæ ab invicem plané fejparentur ; sed eodem modo quo videmus arborum ramos ventis impulfos agitari, & eorum intervalla nunc majora reddi, nunc minora, quamvis istæ arbores idcirco radicibus suis non evellantur : ita putandum esl craflas & ramofas corporis C particulas ita connexas esse atque implexas, ut non soleant vi caloris ab invicem plané disjungi, sed aliquantulum duntaxat concutiantur, & meatus circa se relidos modo magis modo minus aperiant. Cùmque duriores sint aliis particulis, ex superioribus corporibus D & E in meatus istos delapfis, ipsas facile motu isto suo contundunt & comminuunt, sicque ad duo gênera figurarum reducunt, quæ hîc sunt consi- deranda.
+
+Nempe particulæ quarum materia paullô solidior esl, quales sunt falis, meatibus istis interceptæ atque contufaî, ex teretibus & rigidis planse ac flexiles redduntur : non aliter quàm ferri candentis virga rotunda crebris malleorum idibus in laminam oblon- gam potest complanari. Cùmque intérim hæ particulæ, vi caloris adæ, hinc inde per meatus istos fer- pant, duris eorum parietibus allifée atque affridse, gladiolorum inflaracuuntur, sicque in fuccos quosdam acres, acidos, erodentes vertuntur : qui succi postea cum metallicâ materiâ concrefcentes , atramentum futorium ; cum lapideâ, alumen ; & sie alia multa componunt.
+
+LXI.
+
+Defuccis acribus S acidis, ex quibus fiunt atramentum, futorium, alumen, Se.
+
+Œuvres. III.
+
+31
+
+[p. 242]
+
+Principiorum Philosophle
+
+LXII. De materiâ oleagineâ bituminis, sulphuris, &c.
+
+LXIII. De Chymicorum principiis ; & quomodo metalla in fodinas afccndant.
+
+LXIV.
+
+De Terra exteriore, & de origine fontium.
+
+Particulæ autem molliores, quales sunt pleræque ex terra exteriori E delapfæ, nec non etiam eæ aquæ dulcis, ibi penitùs elifæ, tam tenues evadunt, ut motu materiæ primi elementi difcerpantur, atque in multos minutissimos & quàm-maximè flexiles ramulos dividantur : qui ramuli,terrestribus aliis particulis adhérentes, componunt | sulphur, bitumen, & alia omnia pinguia sive oleagineâ, quæ in fodinis reperiuntur.
+
+Atque sie tria hîc a habemus, quæ pro tribus vulgatis Chymicorum principiis, sale, sulphure ac Mercurio, sumi possunt : sumendo scilicet succum acrem pro sale, molliffimos ramulos oleagineæ materiæ pro sulphure, ipsumque argentum vivum pro illorum Mercurio. Cre- dique potest omnia metalla ideò tantùm ad nos pervenire, quòd acres succi, per meatus corporis C fluentes, quasdam ejus particulas ab iis disjungant, quæ deinde materiâ oleagineâ involutæ atque veftitæ, facile ab argento vivo calore rarefafto sursum rapiuntur, & pio diversis suis magnitudinibus ac figuris, diversa metalla constituunt. Quæ fortasse singula defcripfnTem hoc in loco, si varia expérimenta, quæ ad certam eorum cognitionem requiruntur, facere hadenus li- cuiffet.
+
+Jam verò consideremus Terram exteriorem E, cujus fragmenta quædam sub mari delitefeunt, alia in campos extenduntur, alia in montes attolluntur. Et notemus inprimis, quàm facile in eâ pofîit intelligi, quo pacto fontes & flumina oriantur ; & quamvis semper in mare fluant, nunquam tamen ipsorum aqua defi- ciat, nec mare augeatur aut dulcefeat. Quippe, cùm îo
+
+a. Art. lviii et lxi, lxii, p. 239, 241 et 242.
+
+j5
+
+[p. 243] "8-229- Pars Quarta. 245
+
+infrà campos & montes magnæ sint cavitates aquis plenæ, non dubium est, quin multi quotidie vapores, hoc est, aquæ particulæ vi caloris ab invicem dis- junctæ ac celeriter motæ, usque ad exteriorem camporum superficiem atque ad summa montium juga perveniant; videmus enim etiam plerosque istiusmodi vapores ulteriùs usque ad nubes attolli, ac faciliùs per terras meatus ascendunt, ab | ejus particulis fus- fulti, quàm per aërem, cujus fluidæ ac mobiles particulæ ipsos ita fulcire non possunt. Postquam autem isti vapores sie afeenderunt, frigore fuccedente tor- pefeunt, à-amifla vaporis forma rursus in aquam vertuntur ; quæ aqua descendere non potest per eosdem illos meatus, per quos vapor ascendit, quia sunt nimis angusti; sed aliquantô latiores vias invenit, in intervallis cruftarum sive corticum, quibus tota exterior terra conflata est ; quæ viæ ipsam obliqué secundùm vallium & camporum declivitatem deducunt. Atque ubi istæ fubterraneæ aquarum viæ in superficie montis, vel vallis, vel campi terminantur, ibi fontes featuriunt, quorum rivi multi simul congregati flumina componunt, & per decliviores exterioris terræ fuperficiei partes in mare labuntur.
+
+Quamvis autem affiduè multæ aquæ ex montibus LXV -
+
+r n . - . . Cur mare non augeaa5 vertus mare Huant, nunquam tamen idcirco cavitates tur exeo, quodjiu- ex quibus ascendunt, possunt exhauriri, nec mare au- mina tn ' ■/""""• geri. Hæc enim terra exterior non potuit modo paullô antè descripto 8 generari, nempe ex fragmentis corporis
+
+28 En marge : NB. Vid. fig. pag. 226 (;* édit.). a. Art. xlii, p. 228.
+
+[p. 244]
+
+Principiorum Philosophle
+
+E in superficiem corporis C cadentibus, quin aqua D multos sibi patentiffimos meatus sub istis fragmenteis
+
+LXVI.
+
+Cur fontes nonfintfaU si, nec mare dulcefcat.
+
+LXVII.
+
+Cur in quibusdam pu-
+
+aqua fil s alfa.
+
+tis retinuerit : per quos tanta semper ejus quantitas à mari versus radices montium redit, quanta ex montibus egreditur. Atque ita, ut animalium sanguis in eorum venis & arteriis, sie aqua in terrai venis & in fluviis circulariter fluit.
+
+Et quamvis mare sit falsum, folæ tamen aqua? dulcis particulæ in fontes ascendunt, quia nempe sunt tenues ac flexiles, particule autem falis, cùm sint rigidse ac duras, nec facile in vapores mutari, nec ullo modo per obliquos | terræ meatus transire possunt. Et quamvis affiduè illa aqua dulcis in mare per flumina revertatur, non ideò mare dulcefeit, quia semper æqualis quantitas falis in eo manet. i5
+
+Sed tamen non valde mirabimur, si forte in quibusdam puteis, à mari valde remotis, multum falis reperiatur. Cùm enim terra multis rimis fatifeat, fieri facile potest, ut aqua falsa non percolàta usque ad illos puteos perveniat : sive quia maris superficies æquè alta est atque ipsorum fundus ; sive etiam quia,
+
+[p. 245] a3o-a3i.
+
+.5
+
+ubi viæ sunt satis latæ, facile falis particulæ à particulis aquæ dulcis per corporis duri declivitatem sursum attolluntur. Ut experiri licet in vase, cujus labra nonnihil sint repanda, quale esl
+
+ABC : dum enim aqua salsa
+
+in eo evaporatur, omnes ejus oræ falis cruflâ vefliri
+
+solent.
+
+Atque hinc etiam potest intelligi, quo pacto in montibus nonnullis, magnæ falis moles instar lapidum concreverint. Quippe, aqua maris eô ascendente, ac particulis flexilibus aqua dulcis ulteriùs pergentibus, solum sal in cavitatibus, quæ casu ibi fuerunt, reman- sit, ipsasque implevit.
+
+Sed & aliquando falis particulee nonnullos satis angustos terræ meatus pervadunt, atque ibi nonnihil de figura & quantitate suâ deperdentes, in nitrum, vel sal ammoniacum, vel quid simile mutantur. Quin- etiam plurimæ terræ particulæ oblongæ, non ramofse, ac satis rigidæ, ab ori|gine suâ nitri & aliorum sa- lium formas habuerunt. Neque enim in alio sitæ sunt ese formæ, quàm quòd illorum particulæ sint oblon- gse, non flexiles, nec ramofse, ac prout de cætero variæ sunt, varias falis species componunt.
+
+Præter vapores ex aquis sub terra latentibus edudos, multi etiam spiritus acres, & oleagineæ exhalationes, nec non vapores argenti vivi, aliorum metallorum particulas secum vehentes, ex terra interiori ad exteriorem ascendunt : atque ex diversis eorum miftu- ris omnia fossilia componuntur. Per spiritus acres
+
+LXVIII. Cur etiam ex quibusdam montibus sal ej- fodiatur.
+
+LXIX. De nitro aliisque salibus, à /ate tnarino diversis.
+
+LXX. De vaporibus, fpiriti- bus, £■ exhalationibus à terra interiore ad exteriorem ascendentibus.
+
+[p. 246]
+
+Principiorum Philosophle
+
+2'il-2i2.
+
+LXXI. Quomodo ex varia eorum mijlurâ, varia lapidum, aliorumque fossilium gênera oriantur.
+
+LXXII.
+
+Quomodo metalla ex terra interiore ad exteriorem perveniant, & quomodo minium fiât.
+
+intelligo particulas fuccorum acrium, nec non etiam saltum volatilium, ab invicem fejunétas, & tam celeriter se commoventes, ut vis quâ in omnes partes rao- veri perseverant, prævaleat eorum gravitati. Per exhalationes autem intelligo particulas ramofas, tenuissimas, oleagineæ materiæ, sie etiam motas. Quippe in aquis, & aliis succis, & oleis, particule tantùm repunt ; sed in vaporibus, spiritibus, & exhalationibus, volant. Et quidem spiritus majori vi sie volant, & faciliùs angustos quosque terræ meatus pervadunt, atque ipsis intercepti firmiùs hærent, & ideo duriora corpora efficiunt, quàm exhalationes aut vapores. Cùmque permagna inter hæc tria sit diversitas, pro diversitate particularum ex quibus confiant, multa etiam ex ipsis lapidum, aliorumque fossilium non tranfparentium gênera oriuntur, cùm in angustis terræ meatibus inclufa hærent, ipsiusque particulis permifeentur ; & multa gênera fossilium tranfparentium, atque gemmarum, cùm in rimis & cavitatibus terræ primùm in fuccos colliguntur, & deinde paulatim, maxime | lubricis & fluidis eorum particulis abeuntibus, reliquæ sibi mutuò adhærefeunt.
+
+Sic etiam vapores argenti vivi, terræ rimulas & majufculos meatus perreptando, particulas aliorum metallorum sibi admiftas in iis relinquunt, & ita illam auro, argento, plumbo-, aliisque imprægnant ; ipsique deinde ob eximiam suam lubricitatem ulteriùs pergunt, aut deorsum relabuntur; aut etiam aliquando ibi hærent, cùm meatus per quos regredi possent, sul- phureis exhalationibus impediuntur. Atque tune ipsæ argenti vivi particulæ , minutiflimâ istarum exhalationum
+
+[p. 247] 232-233.
+
+quasi lanugine veftitæ, minium componunt. Ac denique spiritus & exhalationes, nonnulla etiam metalla, ut ses, ferrum, ftibium, ex terra interiore ad exteriorem adducunt.
+
+Notandumque est, ista metalla ferè tantùm afcen- dere ex iis partibus terra: interioris, quibus fragmenta exterioris immédiate conjuncta sunt. Ut ex. gr. in hac figura, ex $ versus v, quia per aquas evehi non possunt. Unde fit, ut non passim omnibus in locis metalla reperiantur.
+
+Notamdum etiam, hæc metalla per terrse venas ver- fus radices montium solere attolli, ut hîc versus v, ibique potissimùm congregari, quia ibidem terra pluribus rimis quàm in aliis locis fatifcit ; & quidem in iis montium partibus, quæ Soli meridiano vel Orienti obverfæ sunt, magis quàm in aliis congregari, quia major ibi est calor, cujus vi attolluntur. Et ideò etiam in illis præsertim locis à fofforibus quseri solent.
+
+Neque putandum est, ullâ unquam fodiendi perti- naciâ, usque ad interiorem terram poste perveniri : tum quia exterior nimis est craffa, si ad hominum vires comparetur ; | tum præcipuè propter aquas intermedias, quæ eô majore cum impetu falirent, quò pro- fundior effet locus in quo primùm aperirentur earum vense, fofforefque omnes obruerent.
+
+Exhalationum particulæ tenuiffimæ, quales paullo antè defcriptse sunt a , nihil nisi purum aërem fosse componunt, fedtenuioribusfpirituum particulis facile
+
+LXXIII. Cur non in omnibus terree locis metalla inveniantur.
+
+LXXIV. Cur potissimùm inveniantur in radicibus montium, versus Meridiem & Orientem
+
+LXXV. Fodinas omnes esse in terra exteriore ; nec posse unquam ad interiorem fodiendo perveniri.
+
+LXXVI.
+
+De sulphure, bitumine,
+
+argillâ, oleo.
+
+7 En marge : NB. Vide fig. pag. 226 (/" édit.). a. Art. lxx, p. 245-246.
+
+[p. 248]
+
+Principiorum Philosophle
+
+a33-ï34.
+
+LXXVII. Quomodo fiât terræ
+
+motus.
+
+LXXVIII. Cur ex quibusdam montibus rgnis erumpat.
+
+anneétuntur, illasque ex lævibus & lubricis ramofas reddunt; ac deinde hæ ramofs, succis acribus ac me- tallicis quibusdam particulis admiflæ, sulphur constituunt ; & admiftæ particulis terræ, multis etiam ejusmodi succis gravidæ, faciunt bitumen ; & cum solis particulis terræ conjun&æ, faciunt argillam ; & denique solæ, in oleum vertuntur, cùm earum motus ita languefcit, ut sibi mutuò plané incumbant.
+
+Sed cùm celeriùs agitantur, quàm ut ita in oleum verti possint, si forte in rimas & cavitates terræ magna copia affluant, pingues ibi & craflbs fumos componunt, non abfimiles iis qui ex candelâ recens ex- ftindâ egrediuntur; ac deinde, si quæ forte ignis scintilla in istis cavitatibus excitetur, illi fumi protinus accenduntur, atque subitò rarefaéti, omnes car- ceris sui parietes magnâ vi concutiunt, præsertim cùm multi spiritus ipsis sunt admifti : & ita oriuntur terræ motus.
+
+Contingit etiam aliquando, cùm hi motus fiunt, ut parte terræ disjeétà & apertâ, flamma per juga montium cœlum versus erumpat. Idque ibi potiùs fit, quàm in humilioribus locis : tum quia sub montibus plures sunt cavitates, tum etiam, quia magna illa fragmenta, quibus confiât terra exterior, in se invicem reclinata, faciliorem ibi præbent exitum flammæ, quàm in ullis aliis locis. Et quam|vis claudatur terræ hiatus, simul ac flamma hoc pacto ex eo erupit, fieri potest, ut tanta sulphuris aut bituminis copia ex montis visceribus ad ejus summitatem expulsa sit, ut ibi longo incendio sufficiat. Novique fumi postea in iisdem cavitatibus rursus colledi, & accensi, facile per eundem hiatum
+
+[p. 249] îÎ4-î35.
+
+erumpunt ; unde fit, ut montes nonnulli crebris ejusmodi incendiis sint infâmes, ut JEtna. Siciliæ, Vefuvius Campaniæ, Hecla Illandiæ, &c.
+
+Denique, durât aliquando terræ-motus per aliquot horas, aut dies ; quia non una tantùm continua cavitas esse solet, in quâ pingues & inflammabiles fumi colliguntur, sed plures diversæ, terra multo sulphure aut bitumine faturâ disjundæ ; cùmque exhalatio in unis accensa terram semel concuffit, aliqua mora in- tercedit, priusquam flamma, per meatus fulphure op- pletos, ad alias possit pervenire.
+
+Sed hîc superest ut dicam, quo pa&o in istis cavitatibus flamma possit accendi, simulque ut explicem ignis naturam. Particule terrestres, cujuscunque sint magnitudinis aut figuræ, cùm singulæ seorsim primi elementi motum sequuntur, ignis formam habent ; ut etiam habent aëris formam, cùm inter globulos fecundi elementi volitantes, eorum agitationem imitantur. Sicque prima & præcipua inter aërem & ignem differentia est, quôd multo celeriùs hujus quàm illius particule agitentur. Jam enim suprà satis ostensum est, motum materiæ primi elementi multo celeriorem esse quàm fecundi. Sed alia etiam est permagna differentia, quôd etsi craffiores tertii elementi particule, quales sunt ese quibus constant vapores argenti vivi, possint aëris formam in|duere, non tamen ad ejus confervatio- nem sint neceflarise, ac contra ille purior fit, minus- que corruptioni obnoxius, cùm solis minutiffimis particulis constat. Craffiores enim, nisi calore continuo agitentur, pondère suo deorsum labentes, fpontè exu- unt ejus formam. Ignis autem, sine craffiufculis cor-
+
+ŒUYRES. III. 32
+
+LXXIX.
+
+Cur plures concujfio- nes fieri soleant in terme motu : Jîcque per aliquot horas aut dies interdum duret.
+
+LXXX.
+
+De naturâ ignis, ejusque ab aère diversitate.
+
+[p. 250] 2$0
+
+Principiorum Philosophle
+
+a35-j36.
+
+LXXXI.
+
+Quomodo primùm excitetur.
+
+LXXXN. Quomodo confervetur ,
+
+LXXXIII.
+
+Cur egeal alimento.
+
+porum terreftrium particulis, quibus alatur & renove- tur, esse non potest.
+
+Cùm enim globuli fecundi elementi occupent omnia intervalla circa Terram, quæ satis magna sunt ad illos capiendos, & sibi mutuò omnes ita incumbant, ut uni absque aliis moveri non poffint (nifî forte circulariter circa proprium axem), quamvis materia primi elementi, omnes exiguos angulos à globulis istis reli&os replens, in ipsis quam-celerrimè moveatur, si tamen non habeat plus spatii, quàm quod in istis angulis continetur, non potest ibi habere satis virium ad particulas terrestres, quæ omnes à se mutuò & à globulis fecundi elementi sustinentur, secum rapiendas, nec proinde ad ignem generandum. Sed ut ignis alicubi primùm excitetur, debent aliquâ vi expelli globuli cæleftes, ab intervallis nonnullarum particularum terrestrium, quæ deinde ab invicem disjun&œ, atque in solâ materiâ primi elementi natan tes, celerrimo ejus motu rapiantur & quaquaverfus impellantur.
+
+Utque ille ignis conservetur, debent istæ particule terrestres esse satis craflæ, solidæ, atque ad motum aptæ, ut à materiâ primi elementi ûc impulfaî, vim habeant globulos cæleftes, à loco illo in quo est ignis, & in quem redire parati sunt, repellendi ; atque ita impediendi ne globuli isti rursus ibi occupent intervalla primo ele|mento relicta, sicque vires ejus fran- gendo ignem exftinguant.
+
+Ac præterea particulæ terrestres, in globulos istos impingentes, non possunt ab iis impediri, ne ulteriùs pergant, & egrediendo ex eo loco in quo primùm elementum suas vires exercet, ignis formam amittant,
+
+[p. 251] 236.
+
+abeantque in fumum. Quapropter nullus ibi ignis diu remaneret, nisi eodem tempore aliquæ ex iïtis particulis terrestribus, in aliquod corpus aëre craffius impingendo, alias satis folidas particulas ab eo disjunge- rent, qua? prioribus fuccedentes, & à materiâ primi elementi abreptæ, novum ignem continué generarent. Sed ut hæc accuratiùs intelligantur, consideremus primo varios modos quibus ignis generatur, deinde omnia quæ ad ejus conservationem requiruntur
+
+ac
+
+denique, quales sint ejus effectus. Nihil usitatius est, quàm ut ex filicibus ignis excutiatur ; hocque ex eo fieri existimo, quod silices sint satis duri & rigidi, simulque satis friabiles. Ex hoc enim quôd sint duri &
+
+LXXXIV.
+
+Quomodo ex filicibus excutiatur.
+
+[p. 252] 2s2 PRINCIPIORUM PHILOSOPHIE î36-j38.
+
+rigidi, si percutiantur ab aliquo corpore etiam duro, spatia quæ multas eorum particulas interjacent, & à globulis fecundi démenti folentoccupari, solito fiunt angustiora, & ideo illi globuli exfilire coacti, nihil præter solam materiam primi elementi circa illas relinquunt ; deinde ex eo quôd sint friabiles, simul ac istæ filicum particulæ non ampliùs idu premuntur, ab invicem difïiliunt, sicque materiæ primi elementi, quæ sola circa ipsas reperitur, innatantes, ignem componunt. Ita, si A sit filex, inter cujus anteriores particu- io las globuli fecundi elementi conspicui sunt, B reprse- fentabit eundem filicem, cùm ab aliquo corpore duro percutitur, & ejus | meatus angustiores facti, nihil ampliùs nisi materiam primi elementi porTunt conti- nere ; C verô eundem jam percufîum, cùm quædam ejus particulæ ab eo separatæ, ac solam materiam primi elementi circa se habentes, in ignis fcintillas sunt conversæ. lxxxv. si lignum, quantumvis siccum, hoc pa6lo percutia-
+
+QuomoJo ex lignis • i • r • mi ficds. tur, non idcirco lcintillas ita emittet, quia cum non adeò | durum fit, prima ejus pars quæ corpori percu- tienti occurrit, fleditur versus secundam, eamque attingit, priusquam hæc secunda flecti incipiat versus tertiam. Sicque globuli fecundi elementi noneodem tempore ex multis eorum intervallis, sed fuccefiivè nunc 2 5 ex uno, nunc ex alio discedunt. Atqui si hoc lignum aliquandiu & satis validé fricetur, inæqualis ejus particularum agitatio & "vibratio, quæ oritur ex iftâ fridione, potest ex pluribus earum intervallis globulos fecundi elementi excutere, simulque ipsas ab invicem 3o disjungere, atque ita in ignem mutare.
+
+[p. 253] j38-ï3g.
+
+2 5}
+
+Accenditur etiam ignis ope speculi concavi, vel vitri convexi, multos Solis radios versus eundem aliquem locum dirigentis. Quamvis enim istorum radiorum aftio globulos fecundi elementi pro subjecto suo habeat, multò tamen concitatior est ordinario eorum motu, & cùm procédât à materiâ primi elementi, ex quâ Sol est conflatus, satis habet celeritatis ad ignem excitandum, radiique tam multi simul colligi pofiunt, ut satis etiam habeant virium, ad particulas corporum terrestrium eâdem iftâ celeritate agitandas.
+
+Quippe nihil refert, à quâ cauffa particulæ terrestres celerrimè moveri primùm incipiant. Sed quamvis antea fuerint sine motu, si tantùm innatent materiæ primi elementi, ex hoc solo protinus celerrimam agitationem acquirunt : eâdem ratione quâ navis, nullis funibus alligata, in aquâ torrente eue non potest, quin simul cum ipsâ feratur. Et quamvis eæ terrestres particulæ nondum primo elemento sie innatent, si tantùm à quâlibet aliâ causâ satis celeriter agitentur, hoc ipso femutuô, & globulos fecundi elementi circa se positos, ita excutient, ut statim ei injnatare incipiant; & porrò ab illo in motu suo confervabuntur. Quamobrem omnis motus valde concitatus sufficit ad ignem excitandum. Et talis in fulmine ac turbinibus solet reperiri, cùm feilicetnubes excelfa, in aliam humiliorem ruens, aërem interceptum explodit, ut in Meteoris explicui 8 . Quanquam sanc vix unquam iste solus motus ibi est ignis caufTa; nam ferè semper aèri admifeentur exhalationes, quarum talis est natura, ut facile vel in flammam, vel saltem in corpus lucidum vertantur. Atque
+
+a. Discours VII. Voir t. VI, p. 32i.
+
+LXXXVI.
+
+Quomodo ex colleâio- ne radiorum Solis.
+
+LXXXVII.
+
+Quomodo à solo motu
+
+valde violento.
+
+LXXXVIII.
+
+Quomodo à diversorum
+
+corporum mijlurâ.
+
+[p. 254]
+
+Principiorum Philosophie
+
+LXXXIX.
+
+In fulmine, injlellis
+
+trajicientibus.
+
+XC.
+
+In iis quæ lucent S non urunt : ut in Stellis cadentibus.
+
+hinc ignés fatui circa Terram, & fulgetræ in nubibus, & stellæ trajicientes &cadentes in alto aëre excitantur. Quippe jam dictum est a exhalationes constare particulis tenuiffimis, & in multos quasi ramulos diviûs, quibus involutæ sunt aliæ paullô crassiores, ex succis acribus aut salibus volatilibus eduétæ. Notandumque esl hos ramulos solere este tam minutos & confertos, ut nihil per illorum interstitia, præter materiam primi elementi transire possit ; inter particulas autem istis ramulis vefiitas, esse quidem alia majora intervalla, quæ globulis fecundi elementi solent impleri, tuncque exhalatio non ignefcit; sed interdum etiam accidere, ut occupentur à particulis alterius exhalationis aut spiritûs, quæ inde secundum elementum expellentes, primo duntaxat locum relinquunt, ejusque motu protinus abreptæ flammam componunt.
+
+Et quidem in fulmine, vel fulgetris, caussa quæ plures exhalationes simul compingit, manifesta esl, propter unius nubis in aliam lapsum. In aëre autem tranquillo, unâ exhalatione frigore denfatâ & quie- fcente, facile alia, ex loco calidiore adveniens, aut particulis ad motum aptioribus | constans, aut etiam aliquo leni vento impulsa, in ejus poros impetum facit, atque ex iis secundum elementum expellit; cùmque particulæ prioris exhalationis nondum tam arctè simul jun&ee sunt, quin hoc aliarum impetu disjungi possint, hoc ipso in flammam erumpunt : quâ ratione stellas trajicientes accendi puto.
+
+Cùm autem exhalationis particulæ in corpus tam crarTum & vifcidum coaluerunt, ut non ita disjungantur,
+
+a. Art. lxxvi et lxxvii, p. 247-248.
+
+[p. 255] «40-241. Pars Quarta. 2 5 $
+
+lucem duntaxat aliquam emittunt, similem illi quse in lignis putridis, in piscibus sale conditis, in guttis aquæ marin se, & similibus solet apparere. Ex hoc enim solo, quòd globuli fecundi elementi à materiâ primi pellantur, fit lumen, ut ex suprà dictis a satis patet. Cùmque pluriumparticularum terrestrium simul jundarum intervalla tam angusta sunt, ut soli primo elemento locum dent, etsi forte hoc primum elementum non satis habeat virium ad ipsas disjungendas, facile tamen habet satis b ad globulos fecundi elementi circumjacentes, actione illâ quam pro lumine fumen- dam esse diximus, impellendos. Et taies puto esse fiel- las cadentes ; sæpe enim earum materia humi delapsa, vifcida & tenax esse deprehenditur : quanquam sanc i5 non sit certum, fuisse illam ipsam vifcidam materiam, quæ habuit lucem: potuit enim esse aliqua tenuis flamma ei adhserens.
+
+At in guttis aquae marinae, cujus naturam suprà explicuimus , facile esl videre quo pacto lux excitetur d : »*> •» li h" s P utri -
+
+,.„ A ., r n ■■, dis, 6 similibus.
+
+nempe, dum îllse earum particulæ quse lunt ilexiles, sibi mutuo manent implexse, aliæ quse sunt rigidse ac lseves, vi tempestatis, alteriusve cujuslibet motûs, ex guttâ excutiuntur, & fpiculorum instar vibratse, facile ex ejus viciniâ globulos' | fecundi elementi expellunt, sicque lucem producunt. In lignis autem putridis, & pifcibus qui ficcari incipiunt, & talibus, non aliunde lucem oriri puto, quàm quòd in iis dum sie lucent,
+
+a. Pars III, art. lv et seq., p. 108.
+
+b. Voir ci-après, art. en, p. 261.
+
+c. Art. lxvi, p. 244.
+
+d. Cf. Météores, Discours III. Voir t. VI, p. 255.
+
+XCI. In guttis aquee mari-
+
+[p. 256] XCII. In iis quæ incalefcunt & non lucent : ut in fæno inclufo.
+
+256 Principiorum Philosophie 141-145.
+
+multi sint meatus tam angusti, ut solum primum elementum admittant.
+
+Quòd verò alicujus spiritûs aut liquoris particulæ, meatus corporis duri, vel etiam liquidi, fubeundo, ignem aliquando possint excitare, ostendunt fænum madidum alicubi conclusum, calx aquâ afperfa, fer- mentationes omnes, liquorefque non pauci Chymicis noti, qui dum inter se permifcentur, incalefcunt, ac etiam aliquando inflammantur. Non enim alia ratio est cur fænum recens, si recondatur antequam sit siccum, paullatim incalefcat, flammamque sponte concipiat, quàm quòd multi spiritûs vel succi, per herbarum vi- ridium poros ab earum radicibus versus fummitates fluere afïueti, atque ibi vias ad mensuram suam accommodatas habentes, maneant aliquandiu in herbis exci- fis ; quæ, si intérim angufto loco includantur, particulæ istorum suecorum ex unis herbis in alias migrantes, multos meatus in ipsis jam ficcari incipientibus inveniunt, paullô angustiores quàm ut illos simul cum globulis fecundi elementi subire possint ; ideôque per illos fluentes, solâ materiâprimi elementi circumdantur, à quâ celerrimè impulfæ, ignis agitationem acquirunt.
+
+Ita, exempli causâ, si spatium quod est inter duo corpora B & C, repræ- fentet unum ex meatibus alicujus herbæ virentis, ac funiculi 1, 2, }, exiguis orbiculis circumdati, su- mantur pro particulis suecorum sive spirituum, à globulis fecundi elementi per ejufjmodi meatus vehi solitis ; spatium autem inter corpora D & E sit alius meatus angustior herbæ
+
+[p. 257] 24Ï-243- Pars Quarta. 257
+
+ficcefcentis, quem fubeuntes eædem particulæ 1, 2, 7, non ampliùs secundum elementum, sed primum duntaxat circa se habere possint : perspicuum est ipsas inter B & C motum moderatum fecundi elementi, sed inter D & E motum celerrimum primi, sequi debere. Nec refert, quòd perexigua tantùm quantitas istius primi elementi circa ipsas reperiatur. Satis enim est, quòd ipsi totæ innatent : quemadmodum videmus navem secundo flumine delabentem, non minus facile ipsius cursum sequi, ubi tam angustum est ut ejus ripas utrimque ferè attingat, quàm ubi est latissimum. Sic autem celeriter motæ, multò plus habent virium ad particulas corporum circumjacentium concutiendas, quàm ipsum primum elementum : ut navis etiam in i5 pontem aliumve obicem impingens, fortiùs illum quatit quàm aqua fluminis à quo defertur. Et idcirco in duriores fæni particulas irruendo, facile ipsas feparant ab invicem, præsertim cùm plures simul à diversis partibus in eandem ruunt ; cùmque satis multas hoc pacto jo disjungunt fecumque abducunt, fit ignis ; cùm autem concutiunt duntaxat, nondumque habent vim multas simul ab invicem disjungendi, lente tantùm fænum calefaciunt & corrumpunt.
+
+Eâdem ratione credere licet, cùm lapis excoquitur xcnI -
+
+, , . r , . . ... In calce aquâ afperfd,
+
+in calcem, multos ejus meatus, lolis antea globulis srciiquis.
+
+fecundi elementi pervios, adeò laxari, ut aquæ particulas, sed primo tantùm elemento cinétas, admittant. Atque, uthîc omnia simul complectar, quoties aliquod corpus durum admistione liquoris alicujus incalefcit,
+
+3o existimo id ex eo | fieri, quòd multi ejus meatus sint talis menfune, ut istius liquoris particulas, solâ ma-
+
+[p. 258] XCIV. Qitomoio incavitatibus terra ignis accenda- tur.
+
+XCV.
+
+Quomodo eandela
+
+ardeat.
+
+Principiorum Philosophie
+
+243.
+
+teriâ primi elementi cin&as, admittant. Nec difparem rationem esse puto, cùm unus liquor alteri liquori afFunditur : semper enira alteruter confiât particulis ramofis, aliquo modo implexis & nexis, atque ita corporis duri vicem subit : ut de ipsis exhalationibus paullô antè a intelle&um est.
+
+His autem omnibus modis, non tantùm in terræ superficie, sed etiam in ejus cavitatibus, ignis potest accendi. Nam ibi spiritus acres craflarum exhalationum meatus ita possunt pervadere, ut in iis flammam accendant; & faxorum vel filicum fragmenta, secreto aquarum lapsu aliisve causis exefa, ex cavitatum for- nicibus in substratum solum decidendo, tum aërem interceptum magnâ vi possunt explodere, tum etiam filicum collisione ignem excitare; atque ubi semel unum corpus flammam concepit, facile ipsam etiam aliis vicinis corporibus, ad eam recipiendam aptis, communicat. Flammse enim particule, istorum corporum particulis occurrentes, ipsas movent & secum abducunt. Sed hoc non tam spectat ad ignis generationem, quàm ad ejus conservationem ; de quâ deinceps est agendum.
+
+Consideremus, exempli causâ, candelam accensam AB, putemufque in omni spatio Ecte, per quod ejus flamma se extendit, multas quidem volitare particulas ceræ, vel cujuslibet alterius materiæ oleagineæ, ex quâ hæc candela conflata est, multosque etiam globulos
+
+23 exempli causâ] ex. ca. (/" édit.). — En marge : NB. Vide fig. pag. seq. (1" édit.).
+
+a. Art. lxxxix, p. 254.
+
+[p. 259] 343-Ï+4-
+
+î
+
+l
+
+fecundi elementi, sed tam hos quàm illos materiæ primi elementi sie innatare, ut ejus motu rapiantur; & quamvis se mutuo sæpe tangant & impellant, non tamen omni ex parte fuffuljciant, quemadmodum solent aliis in locis, ubi nullus est ignis.
+
+Materia autem primi elementi, quæ magnâ copia in hac flammâ reperitur, semper conatur egredi ex loco in quo est, quia celerrimè movetur; & quidem egredi sursum versus, hoc est, se removeat à centro Terne, quia, ut suprà dietnm est a , ipûs globulis cœlestibus, aëris meatus occu- pantibus, est levior; & tum hi globuli, tum omnes particulæ terrestres aëris circumjacentis, descendere conantur in ejus locum, ideòque protinus flammam fuffocarent, û solo primo elemento constaret. Sed particulæ terrestres, ab ellychnio F G as- fiduè egredientes, statim atque primo elemento immerfse sunt, ejus cursum sequuntur, & occurrentes iis aëris particulis, quæ paratse erant ad descendendum in locum flammæ, ipsas repellunt, sicque ignem conservant.
+
+Cùm autem hæ sursum versus præcipuè tendant, hinc fît, ut flamma soleat esse acuminata. Et quia multò celeriùs aguntur quàm istæ particulæ aëris quas sie repellunt, non pofTunt ab iis impediri, quominus ulte-
+
+xcvi.
+
+Quomodo ignis in eâ conservetur.
+
+XCVII. Cur ejus flamma fit acuminata, S fumus ex eâ egrediatur.
+
+9 se removeat, sic 1" édit. ; les autres donnent ut se removeat. Lire plutôt se removere î
+
+a. Art. xxii et xxv, p. 21 3 et 214.
+
+[p. 260]
+
+PrINCIPIORUM PhILOSOPHLE
+
+XCVIII. Quomodo aër S alia corpora Jlammam alant.
+
+XCIX.
+
+De motu aëris versus
+
+ignem.
+
+De iis quæ ignem exflinguunt.
+
+I
+
+B
+
+riùs pergant versus H, ubi paullatim agitationem suam deponunt, sicque vertuntur in fumum.
+
+Qui fumus nullum in toto aëre locum reperiret, quia nullibi vacuum est, nisi, prout egreditur ex flammâ, tantundem aëris versus ipsam circulari motu regrederetur. | Nempe, dum fumus ascendit ad H, pellit inde aërem versus I & K, qui aër, lambendo summitatem candelæ B ac radices ellychnii F, ad Flammam accedit, eique alendæ inservit. Sed ad hoc non fus- ficeret, propter partium suarum te- nuitatem, niû multas ceræ particulas, calore ignis agitatas, per ellychnium secum adduceret. Atque ita flamma débet affiduè renovari ut conservetur, & non magis eadem manet, quàm flumen ad quod novæ semper aquæ accedunt.
+
+Motum autem circularem aëris & fumi licet experiri, quoties magnus ignis in cubiculo aliquo excitatur. Si enim cubiculum ita sit clausum, ut præter tubum camini per quem fumus exit, unum tantùm aliquod foramen sit apertum, sentietur continué magnus ventus, per hoc foramen ad focum tendens, in locum fumi abeuntis a .
+
+Atque ex his patet, ad ignis conservationem duo requiri : primum, ut in eo sint particulæ terrestres, quæ, à primo elemento impulfæ, vim habeant impediendi, ne ab aëre aliisve liquoribus supra ipsum positis fus- focetur. Loquor tantùm de liquoribus supra ignem
+
+a. Voir t. III, p. 587.
+
+iS
+
+[p. 261] 345-246.
+
+■ 5
+
+aS
+
+positis : quia, cùm folâ suâ gravitate versus illum se- rantur, nullum periculum est, ne ab iis qui infra ip- fum sunt, possit extingui. Sic flamma candelæ inverfæ obruitur à liquore qui aliàs eam conservat ; & contra, ignés alii fieri possunt, in quibus sint particule ter- reftres tam solidæ, tam multæ, ac tanto cum impetu vibratæ, ut ipsam aquam affufam repellant, & ab eâ exstingui non possint.
+
+Alterum quod ad ignis conservationem requiritur, est, ut adhæreat alicui corpori, ex quo nova materia possit ad illum accedere, in locum fumi abeuntis : ideòque istud corpus débet in se habere multas particulas satis tenues, pro | ratione ignis conservandi ; easque inter se, vel etiam aliis crassioribus, ita jun- 6tas, ut impulsu particularum illius ignis, cùm ab invicem, tum etiam à vicinis fecundi elementi globulis sejungi possint, sicque in ignem converti.
+
+Dico particulas istius corporis esse debere satis tenues, pro ratione ignis conservandi; nam, exempli causâ, ii vini spiritus linteo aspersus flammam conce- perit, depafcet quidem hæc flamma tenuissima totum istum vini spiritum, sed linteum,quodalius ignis facile combureret, non attinget: quoniam ejus particulæ non sunt satis tenues, ut ab eâ moveri possint.
+
+Et quidem spiritus vini facillimè alit flammam, quia non confiât, nisi particulis valde tenuibus, & quia in iis ramuli quidam sunt, tam brèves quidem & flexiles, ut sibi mutuô non adhæreant : tune enim spiritus in oleum verteretur ; sed taies ut multa perexigua spatia circa se relinquant, quæ non à globulis
+
+19-20 exempli causâ] ex. ca. (i"édit.).
+
+CI.
+
+Quid requiratur, ut aliquod corpus alendo igni a p tum fit.
+
+CIL
+
+Cur flamma exfpiritu vini linteum non urat.
+
+cm.
+
+Cur spiritus vini facillimè ardeat.
+
+[p. 262] 2Ô2 PRINCIPIORUM PhILOSOPHLE J4Ô-347-
+
+fecundi elementi, sed à folâ materiâ primi possint occupari. civ. Contra autem aqua videtur igni valde adversa, quia ur aqua tffic particulis confiât non modo craffiufculis, sed etiam lævibus & glabris : quo fit, ut nihil obstet, quominus globuli fecundi elementi undique illas cingant & sequantur; atque insuper flexilibus. quo fit, ut facile subeat meatus corporum quæ uruntur, & ex iis ignis particulas arcendo, impediat ne aliæ ignefcant. cv. Sed tamen nonnulla corpora talia sunt, ut aquæ par-
+
+Cur vis mænorum * •■§ • • rr ignium ab aquâ aut ticulæ eorum meatibus îmmitlee ignem juvent ; quia glatur. ' njeâ ' s ""' m ^ e cum i m P etu refilientes, ipsas ignefcunt. Ideo sa- bri carbones foffiles aquâ afpergunt. Et aquæ parva copia, ingentibus flammis injeda, ipsas auget. Quod etiam falia potentiùs | præstant : cùm enim eorum i5 particulas rigidæ sint & oblongæ, fpiculorum instar in flammâ vibrantur, & in alia corpora impingentes magnam vim habent ad ipsorum minutias concutiendas : unde fit, ut metallis liquefaciendis soleant adjungi. cvi. Ma autem quæ alendo igni communiter adhiben-
+
+quJfafilè uruntur. a tur, ut ligna & similia, constant variis particulis, quarum quædam sunt tenuiflimæ, aliæ paullô crassiores, & gradatim aliæ crafliores, & pleræque sunt ramofæ, magnique meatus ipsas interjacent : quo fit ut ignis particulæ, meatus istos ingreflse, primo quidem tenuiflimas, ac deinde etiam médiocres, & earum ope crafliores celerrimè commoveant ; sicque globulos cœlestes, primo ex angustioribus intervallis, ac deinde etiam ex reliquis excutiant; ipsasque omnes (solis crafîiffimis exceptis, ex quibus cineres fiunt) secum 3o abripiant.
+
+[p. 263] 247" 2 48-
+
+IO
+
+.5
+
+îo
+
+l6j
+
+Et cùm ejusmodi particulæ, quæ ex corpore, quod uritur, simul egrediuntur, sunt tam multæ ut vim habeant globulos cœlestes ex aliquo aëris vicini spatio expellendi, spatium illud flammâ implent. Si verè sint pauciores, fit ignis sine flammâ, qui vel paulatim per fomitis sui meatus serpit, cùm materiam quam possit depafcere, ibi nanciscitur : ut in istis funibus sive elly- chniis quorum usus est in bello ad tormentorum pulverem incendendum.
+
+Vel certè, si nullam talem materiam circa se habet. non conservatur, nisi quatenus inclusus poris corporis cui inhæret, tempore aliquo eget ad omnes ejus particulas ita difTolvendas, ut se ab iis possit liberare. Hocque videre est in carbonibus accensis, qui cineri- bus tedi, per multas horas ignem retinent, propter hoc solùm, quòd | ille ignis insit quibusdam particulis tenuibus & ramofis, quæ aliis craflioribus implicatæ, quamvis celerrimè agitentur, non tamen nisi unæ posi alias egredi possunt ; ac forte priusquam ita egrediantur, longo motu deteri, & lïngulse in plures alias dividi debent.
+
+Nihil verè celeriùs ignem concipit, nec minus diu illum conservat, quàm pulvis tormentarius, ex sulphure, nitro, & carbone confectus. Quippe vel solum sulphur quam-maximè inflammabile est, quia confiât particulis fuccorum acrium, quæ tam tenuibus & fpif- fis materiæ oleagineæ ramulis sunt involutæ, ut per- multi meatus inter istos ramulos soli primo elemento pateant. Unde fit, ut etiam ad usum medicinæ sulphur calidissimum censeatur.
+
+Nitrum autem confiât particulis oblongis & rigi-
+
+cvn.
+
+Cur quædam inflam- mentur, alia non.
+
+CVIII.
+
+Cur ignis aliquandiu in
+
+prunisfe confervet.
+
+C1X. De pulvere tormentario ex sulphure, nitro & carbone confeâo ; ac primo de sulphure.
+
+CX. De nitro.
+
+[p. 264]
+
+Principiorum Philosophie
+
+248-249;
+
+CXI. De sulphuris 6 nitri
+
+conjunâione .
+
+CXII. De motu particularutn
+
+nitri.
+
+CXIII. Cur flamma hujuspul- veris valde dilatetur, & præcipuè agat ver- Jus superiora.
+
+CXIV. De carbone.
+
+dis, sed in hoc à sale communi diversis, quòd in unâ extremitate sint crassiores, quàm in aliâ : ut vel ex eo patet, quòd aquâ solutum, non ut sal commune, figura quadratâ in ejus superficie concrefcat, sed vasis fundo & lateribus adhæreat.
+
+Et quantum ad magnitudinem particularum, putandum est talem esse inter illas proportionem , ut ese suecorum acrium, quæ sunt in sulphure, à primo elemento commotæ, facillimè globulos fecundi ex intervallis ramulorum materiæ oleagineæ excutiant, simulque nitri particulas, quæ ipsis sunt crassiores, exagitent.
+
+Atque hæ nitri particulæ, quâ parte sunt crassiores, gravitate suâ deorsum tendunt, earumque ideò præcipuus motus est in parte acutiore, quæ sursum erefta, ut in B, agitur in gyrum, primo B J c 0 ' Sîètâ? exiguum, j ut in C ; sed qui (nisi quid impediat) statim fit major, ut in D ; cùm intérim sulphuris particulæ, celerrimè versus omnes partes latæ, ad alias nitri particulas brevissimo tempore perveniunt.
+
+Et quoniam harum nitri particularum singulæ multum spatii exigunt, ad circulos sui motûs describendos, hinc fit, ut hujus pulveris flamma plurimum dilatetur ; & quia circulos istos describunt eâ cuspide, quæ sursum versus erefta est, hinc tota ejus vis tendit ad superiora ; & cùm valde siccus & subtilis est, in- noxiè in manu potest accendi.
+
+Sulphuri autem & nitro carbo admiscetur, atque ex hac mifturâ, humore aliquo afperfâ, granula sive pilulæ fiunt, quæ deinde exficcantur. Quippe in car-
+
+iS
+
+[p. 265] a49-25o. Pars Quarta. 26 f bone multi sunt meatus : tum quia plurimi antea fuerunt in corporibus, quorum uftione faftus est, tum etiam quia, cùm corpora ista urebantur, multùm fumi ex iis evolavit. Et duo particularum gênera duntaxat in eo reperiuntur : unum est craffiufcularum , quæ, cùm solæ sunt, cineres componunt; aliud tenuiorum, quæ facile quidem ignefcunt, quia jam antè ignis vi fuerunt commotæ, sed longis & multiplicibus ramis implexæ, non sine aliquâ vi disjungi possunt : ut patet
+
+ex eo, quòd aliis in fumum præcedente uftione abeuntibus, ipsæ ultimæ remanferunt.
+
+Itaque facile sulphur & nitrum latos carbonis mea- cxv.
+
+tus ingrediuntur, & ramofis ejus particulis involvun- „£,-,, & in quo V rœ- tur atque conftringuntur ; præsertim cùm humore c jj%" ipsius vis con ~
+
+i5 aliquo madefada, & in grana, vel exiguas pilulas, compacta, postea ficcantur. Hujusque rei usus est, ad efficiendum ut nitri particulæ, non tantùm unæ post alias, sed multæ simul uno & eodem temporis momento incendantur. Etenim cùm pri|mùm ignis aliunde admotus grani alicujus superficiem tangit, non statim illud inflammat & diflblvit, sed tempore quodam illi opus est, ut ab iftâ grani superficie ad interiores ejus partes perveniat; ibique sulphure priùs incenfo, paullatim etiam nitri particulas exagitet, ut tandem i5 ipsæ viribus assumtis, & majus spatium ad gyros suos describendos exigentes, carbonis vincula difcerpant, totumque granum confringant. Et quamvis hoc tempus sit admodum brève, si ad horas aut dies referatur, notandum tamen esse satis longum, si comparetur
+
+3o cum summâ illâ celeritate, quâ granum ita diffiliens flammam suam per totum aërem vicinum spargit.
+
+ŒOVRKS. m. 34
+
+[p. 266] 266 Principiorum Philosophie ï5o-î5i.
+
+Nam cùm, exempli causâ, in bellico tormento, pauca quædam pulveris grana, ellychnii alteriusve fomitis igné contada, prima omnium accenduntur, flamma ex iis erumpens, in minimo temporis momento, per omnia granorum circumjacentium intervalla difpergitur; ac deinde, quamvis non tam fubitè ad interiores ipsorum partes possit penetrare, quia tamen eodem tempore multa attingit, efficit ut multa simul incendantur & dilatentur, sicque magnâ vi tormen- tum explodant. Ita carbonis resistentia valde auget celeritatem, quâ nitri particulæ in flammam erumpunt; & granorum diftinfHo necessaria est, ut satis magnos circa se habeant meatus, per quos flamma pulveris primùm accensi ad multas pulveris residui partes libéré accédât. i5
+
+cxvi. Post illum ignem, qui omnium minime durabilis
+
+De l TdJntiîus ¥mè est, consideremus an dari possit aliquis alius, qui è contra sine ullo alimento diutissimè perseveret : ut narratur de lucernis quibusdam, quæ aliquando in hypogseis, ubi mortuorum corpora fervabantur, post multos annos inventæ | sunt'accenfse 3 . Nempe in loco fubterraneo & ardiffimè clauso, ubi nullis vel minimis ventis aër unquam commovebatur, potuit fortasse contingere, ut multæ ramofæ fuliginis particulæ circa flammam lucernse colligerentur, quse sibi mutuò incumbentes manerent immotæ, atque ita exiguum quasi fornicem componentes, sufficerent ad impediendum, ne aër circumjacens istam flammam obrueret ac
+
+1 exempli causâ] ex. ca. (/" édit.). a. Voir t. IV, p. 97.
+
+[p. 267] î5l-252.
+
+IO
+
+fuffocaret ; nec non etiam ad ejusdem flammæ vim sie frangendam & obtundendam, ut nullas ampliùs olei vel ellychnii particulas, si quæ adhuc residuæ erant, possent inflammare. Quo fiebat, ut materia primi elementi, sola ibi remanens, & tanquam in exiguâ quâdam ftellâ celerrimè semper gyrans, undique à se repelleret globulos fecundi, quibus solis, inter particulas circumpofitse fuliginis, transitus adhuc patebat, sicque lumen per totum conditorium diffunderet : exiguum quidem & subobscurum, sed quod externi aëris motu, cùm locus aperiretur, facile vires posset refu- mere, ac fuligine difeuffâ lucernam ardentem exhibere.
+
+Nunc veniamus ad eos ignis effectus, qui nondum ex modis quibus oritur & conservatur, potuerunt agnosci. Quippe jam exdi&is patet, quomodo luceat, quomodo calefaciat, quomodo corpora omnia, quibus alitur, in multas particulas diffolvat; nec non etiam, quomodo ex istis corporibus primo loco maxime tenues & lubriese, deinde aliæ non quidem forte prioribus crafliores , sed magis ramofæ atque implexæ particulæ egrediantur, ese scilicet quæ, caminorum parietibus adheerentes, fuliginem componunt; folseque omnium craflifîimas in cineres remaneant. Sed fupereil ut breviter ostendamus, quo pacto | ejusdem ignis vi, quidam ex corporibus quibus non alitur, liquefeunt & bulliunt, alia ficcantur & durefeunt, alia exhalantur, alia in calcem, alia in vitrum convertuntur.
+
+Corpora omnia dura, conflata ex particulis, quæ non multo difficiliùs unæ quàm aliæ à vicinis suis separantur, & aliquâ ignis vi possunt disjungi, dum islam vim patiuntur, liquefeunt. Nihil enim aliud est liquidum
+
+cxvn.
+
+De reliquis ignis effeâibus.
+
+CXVIII. Quænam corpora Mi admota liquefeant & bulliant.
+
+[p. 268]
+
+Principiorum Philosophie
+
+J5ï-a53.
+
+CXIX.
+
+Quxnam ficcentur
+
+& durefcant.
+
+CXX.
+
+De aquis ardentibus, infipidis, acidis.
+
+esse, quàm constare particulis à se mutuò disjunétis, & quse in aliquo sint motu. Cùmque tantus est istarum particularum motus, ut quædam ex ipsis in aërem vel ignem vertantur, sicque solito plus spatii ad motum suum exigentes, alias expellant, corpora ista liquida effervefcunt & bulliunt.
+
+Corpora autem quibus insunt multæ particulæ tenues, flexiles, lubricæ, aliis crassioribus aut ramofis intertextæ, sed non valdefirmiter annexse, igni admota illas exhalant, hocque ipso ûccantur. Nihil enim aliud est siccum esse, quàm carere fluidis illis particulis, quæ, cùm simul sunt congregatæ, aquam aliumve liquorem componunt. Atque hæ fluidæ particulæ, durorum corporum meatibus inclusæ, illos dilatant, aliasque ipsorum particulas motu suo concutiunt: quod eorum duritiem tollit, vel saltem imminuit ; sed iis exhalatis, aliæ quæ rémanent, ar&iùs jungi & firmiùs ne&i solent, sicque corpora durefcunt.
+
+Et quidem particulæ, quæ sie exhalantur, in varia gênera distinguuntur. Nam primo, ut eas omittam quæ sunt adeò mobiles & tenues, ut solæ nullum corpus præter aërem constare possint, post ipsas omnium tenuiflimæ, | quæque facillimè exhalantur, sunt illæ quæ Chymicorum vasis undique accuratè clausis ex- ceptæ, ac simul collectæ, componunt aquas ardentes, sive spiritus, quales ex vino, tritico, aliisque multis corporibus elici solent. Sequuntur deinde aquæ dulces sive infipidæ, quales sunt eas quæexplantis aliisve corporibus deftillantur. Tertio loco sunt aquæ erodentes & acidæ, sive succi acres ; qui ex salibus non sine magna ignis vi educuntur.
+
+IO
+
+[p. 269]
+
+Quædam etiam particulæ crassiores, quales sunt eæ argenti vivi, & falium, quse, vasorum fummitati adhærentes, in corpora dura concrefcunt, satis magnâ vi opus habent, ut in sublime attollantur. Sed olea omnium difficillimè ex duris & siccis corporibus exhalantur; idque non tam ignis vi, quàm arte quâdam perfici débet. Cùm enim eorum particulæ tenues sint & ramofæ, magna vis eas fràngeret atque difcerperet, priusquam ex istorum corporum meatibus educi possent. Sed iis affunditur aqua copiosa, cujus particulæ læves & lubricæ, meatus istos pervadentes, paullatim illas intégras eliciunt ac secum abripiunt.
+
+Atque in his omnibus ignis gradus est observandus: eo enim variato, semper aliquo modo effectus varia- tur. Ita multa corpora, lento primùm igni, ac deinde gradatim fortiori, admota, ficcantur, & varias particulas exhalant : quales non emitterent, sed potiùs tota liquefcerent, si ab initio validis ignibus torque- rentur.
+
+Modus etiam ignemapplicandi, variât ejuseffedum. Sic quædam, si tota simul incalefcant, liquefiunt; sed si valida flamma ipsorum superficiem lambat, illam|in calcem convertit. Quippe corpora omnia dura, quæ solâ ignis actione in pulverem minutiflimum reducun- tur, fractis scilicet vel expulsis tenuioribus quibusdam eorum particulis, quæ reliquas simul jungebant, vulgò apud Chymicos dicuntur in calcem verti. Nec alia inter cineres & calcem differentia est, quàm quòd cineres sint reliquiæ eorum corporum, quorum magna pars igné consumta est, calx verò fit eorum, quæ ferè tota post absolutam uftionem manent.
+
+cxxi.
+
+De fublimatis S oleis.
+
+CXXII. Quod mutato ignis gradu mutetur ejus effeâus.
+
+CXXIII. De cake.
+
+[p. 270]
+
+Principiorum Philosophie
+
+ï54-j55.
+
+CXXIV. De vitro, quomodofiat.
+
+CXXV.
+
+Quomodo ejus particule simul jungantur.
+
+Ultimus ignis este&us, est calcis & cinerum in vitrum converiio. Postquam enim ex corporibus, quæ uruntur, tenuiores omnes particulæ evulfæ ac rejeélæ sunt, cæteræ, quæ pro calce vel cineribus manent, tam solidæ sunt & craflæ, ut ignis vi sursum attolli non possint; figurafque habent ut plurimùm irregulares & angulofas : unde fit, ut unæ aliis incumbentes, sibi mutuò non adhæreant, nec etiam, nisi forte in mi- nutifîimis quibusdam pun&is, se contingant. Cùm autem postea validus & diuturnus ignis pergit in illas vim suam exercere, hoc est, cùm tenuiores particulæ tertii elementi, unà cum globulis fecundi à materiâ primi abreptæ, celerrimè circa ipsas in omnes partes moveri pergunt, paullatim earum anguli atteruntur, & superficies lævigantur, & forte etiam nonnullæ ex ipsis infle&untur, sicque unæ super alias repentes & fluentes, non punctis duntaxat, sed exiguis quibusdam fuperficiebus se contingunt, & hoc pacto simul connexæ vitrum componunt.
+
+Quippe notandum est, cùm duo corpora, quorum superficies aliquam latitudinem habent, sibi mutuò secundùm lineam reftam occurrunt, ipsa non posse tam propè|ad invicem accedere, quin spatium aliquod intercédât, quod à globulis fecundi elementi occupe- tur; cùm autem unum supra aliud obliqué ducitur 3 vel répit, ea multò arctius jungi posse. Nam, exempli causâ, si corpora B & C sibi invicem occurrant secundùm lineam AD, globuli cœlestes, eorum superficiebus
+
+2G-27 exempli causà] ex. ca. (/" édit.). a. Voir t. V, p. 174.
+
+[p. 271] 10
+
+255-a56. Pars Quarta. 271
+
+intercepti, contactnm immediatum impediunt. Si autem corpus G hinc inde moveatur supra corpus H, secundùm lineam rectam E F, nihil impediet quominus immédiate ipsum tangat : saltem si utriusque superficies Tint lseves & planæ ; si autem sint rudes & inæquales, paullatim hoc ipso motu lævigantur & explanantur. Itaque putandum est, calcis & cinerum particulas ab invicem disjun&as, hîc exhiberi per corpora B & C; particulas autem vitri simul jun&as, per corpora G & H. Atque ex hac solâ diversitate, quam perspicuum est in illas, per vehementem & diu- turnam ignis actionem, debere induci, omnes vitri proprietates acquirunt.
+
+Vitrum enim, cùm adhuc candet, liquidum est, quia ejus particulæ facile moventur illâ ignis vi, quâ jam antè fuerunt lævigatæ atque inflexæ. Cùm verò incipit refrigerari, quaslibet figuras potest induere. Hocque omnibus corporibus igné liquefadis est commune; dum enim adhuc liquida sunt, ipsorum particulæ non segrè se accommodant ad quaslibet figuras, & cùm postea frigore concrefcunt, easdem retinent, quas ultimò induerunt. Potest etiam in | fila capillo- rum instar tenuia extendi, quia ejus particulæ, jam concrescere incipientes, faciliùs unæ supra alias fluunt quàm ab invicem disjungantur.
+
+CXXVI. Cur fit liquidum cùm candet, omnesque si- guras facile induat.
+
+[p. 272]
+
+Principiorum Philosophle
+
+CXXVII.
+
+Cur, cùmfrigidum est,
+
+fit vald? durum.
+
+CXXVIII. Cur valde fragile.
+
+CXXIX. Cur ejus fragilitas minuatur,si lente refrigeretur.
+
+Cùm deinde vitrum plané refriguit, est valde durum, sed simul etiam valde fragile, atque eô fragilius quò citiùs refriguit. Nempe duritiei caufTa est, quòd constet tantùm particulis satis crassis & inflexilibus, quse non ramulorum intextu, sed immediato conta&u sibi invicem adhærent. Alia enim pleraque corpora ideò mollia sunt, quòd eorum particulæ sint flexiles, vel certè desinant in ramulos quosdam flexiles, qui sibi mutuò annexi eas jungunt. Nulla autem duorum corporum firmior adhæsio esse potest, quàm ea quse oritur ex ipsorum immediato contactu; cùm scilicet ita se invicem tangunt, ut neutrum sit in motu ad se ab alio fejungendum; quod accidit vitri particulis, statim atque ab igné remotæ sunt: quia earum crassities, & contiguitas, & figuræ inæqualitas impediunt, ne possint ab aëre circumjacente in eomotu, quo ab invicem disjungebantur, conservari.
+
+At nihilominus vitrum est valde fragile, quia superficies secundùm quas ejus particulæ se invicem tangunt, sunt admodum exiguæ ac paucæ. Multaque alia corpora molliora difficiliùs franguntur, quia eorum partes ita sunt intertextæ, ut separari non poffint, quin ipsarum multi ramuli rumpantur & evellantur.
+
+Est etiam fragilius cùm celeriter, quàm cùm lente, refriguit; ejus enim meatus sunt satis laxi dum candet, quia tune multa materia primi elementi, ûmul cum globulis fecundi, ac etiam forte cum nonnullis ex tenuioribus tertii particulis, per illos transit. Cùm autem refrigeratur | sponte, redduntur angustiores; quia soli globuli fecundi elementi, per ipsos transeuntes, minus spatii requirunt ; atque si refrigeratio nimis celeriter
+
+.5
+
+[p. 273] î5 7 -î58. Pars Quarta. ij)
+
+fiât, vitrum priùs est durum, quàm ejus meatus ita potuerint ardari : quo fit, ut globuli isti semper postea impetum faciant ad ejus particulas ab invicem disjungendas ; cùmque hæ particulæ solo contactu suo junctæ sint, non potest una tantillum ab aliâ separari, quinflatim aliæ plures, ei vicinæ secundùm eam superficiem in quâ ista separatio fieri cœpit, etiam separentur, atque ita vitrum plané frangatur. Quam ob caussam, qui vitrea vasa conficiunt, ea gradatim ex fornacibus removent, ut lente refrigerentur. Atque si vitrum frigidum igni apponatur, ita ut in unâ parte multò magis quàm in aliis vicinis calefiat, hoc ipso in illâ parte frangetur : quia non possunt ejus meatus calore dilatari, meatibus vicinarum partium immutatis, i5 quin illa ab istis disjungatur. Sed û vitrum lento primùm igni, ac deinde gradatim vehementiori admovea- tur, & secundùm omnes partes æqualiter incalefcat, non frangetur: quia omnes ejus meatus æqualiter Si eodem tempore laxabuntur.
+
+«o Præterea vitrum est pellucidum, quia, dum gênera- r cxy ?"
+
+tur, liquidum est, & materia ignis, undique circa ejus particulas fluens, innumeros ibi meatus sibi excavat, per quos postea globuli fecundi elementi libéré transeuntes, actionem luminis in omnes partes secundùm a5 lineas rectas transferre possunt. Neque enim ad hoc necesse est, ut sint accuratè redi, sed tantùm ut nullibi sint interrupti : adeô ut si, exempli causâ, fingamus vitrum constare particulis accuratè sphæricis & sequa- libus, sed tam crassis, ut globuli fecundi elementi
+
+3o transire possint per spatium illud trian|gulare, quod
+
+27 exempli causà] ex. ca. (/" édit.).
+
+Œuvres. III.
+
+Cur fit pellucidum.
+
+[p. 274]
+
+Principiorum Philosophle
+
+258.
+
+CXXXI.
+
+Quomodo fiât coloratum.
+
+CXXXII. Cur fit rigidum instar arcûs ; & generaliter, cur rigida, cùm inflexa sunt, /ponte redeant ad priorem figurant.
+
+inter très se mutuò tangentes manere débet, vitrum illud erit plané pellucidum, quamvis sit multò solidius omni eo, quod nunc habetur.
+
+Cùm autem materiæ ex quâ fit vitrum, metalla vel alia corpora permifcentur, quorum particule magis igni resistunt, & non tam facile lævigantur, quàm aliæ quæ ipsum componunt: hoc ipso fit minus pellucidum, & varios induit colores, prout istæ duriores particulæ meatus ejus magis, aut minus, & variis modis, inter- cludunt. «o
+
+Denique vitrum est rigidum : ita scilicet, ut nonnihil quidem à vi externâ flecti possit absque fradurâ, sed postea cum impetu refiliat, arcûs inllar, & redeat ad priorem figuram : ut evidenter apparet, cùm in fila valde tenuia ductum est. Atque proprietas hoc pado i5 refiliendi, generaliter habet locum in omnibus corporibus duris, quorum particulæ immediato contactu, non ramulorum intextu, sunt conjundæ. Cùm enim innumeros habeant meatus, per quos aliqua semper materia movetur, quia nullibi vacuum est, & quorum figura? aptæ sunt ad liberum isti materiæ transitum præ- bendum, quia ejus ope antea formati fuerunt, talia corpora nullo modo flecti possunt, quin istorum meatuum figura nonnihil varietur : quo fit, ut particulæ materiæ, per illos transire afTuetæ, vias ibi solito minus *5 commodas invenientes, impetum faciant in eorum parietes, ad priorem figuram ipsis reddendam. Nempe si, exempli causâ, in arcu laxo, meatus, per quos transire solent globuli'fecundi elementi, sint circulares, putandum est eosdem, in arcu intenso sive inflexo, esse 3o 28 exempli causâ] ex. ca. (/" édit.).
+
+[p. 275] a58-25g.
+
+2 7S
+
+ellipticos, & globulos, per ipsos transire laborantes, impingere in eorum parietes secundùm minores diametros istarum ellipfium, | sicque vim habere illis si- guram circularemreftituendi 3 . Et quamvis iila vis in singulis globulis fecundi démenti exigua sit, quia tamen affiduè quamplurimi per ejusdem arcûs quam- plurimos poros meare conantur, illorum omnium vires simul jundæ, atque in hoc conspirantes, ut arcum reducant, satis magnæ esse possunt. Arcus autem diu intentas, præsertim si sit ex ligno aliâve raa- teriâ non admodum dura, vim refiliendi paullatim amittit : quia ejus meatum figura? , longo attritu particularum materiæ per ipsos tranfeuntis, sensim ad earum mensuram magis & magis aptantur.
+
+Hactenus naturas aëris, aquæ, terræ, & ignis, quæ hujus globi, quem incolimus, elementa vulgô censen- tur, simulque præcipuas eorum vires & qualitates explicare conatus sum; sequitur nunc, ut etiam agam de magnete b . Cùm enim ejus vis per totum hune Terræ globum sit diffusa, non dubium est, quin ad generalem ejus considerationem pertineat. Jam itaque revocemus nobis in memoriam, particulas illas llriatas primi elementi, quæ suprà in tertiæ partis articulo 87 e , & sequentibus, satis accuratè descriptæ sunt. Atque id omne, quod ibi ab articulo 10$ ad 109 d de fidere I dictum ett, de Terra hîc intelligentes, putemus esse multos meatus in mediâ ejus regione, axi parallelos,
+
+iS
+
+cxxxm.
+
+De magnete. Repetitio eorum ex antè diâis, quee ai ejus explicationem requiruntur.
+
+a. Voir t. I, p. 341, 1. i3, et p. 58o-58i.
+
+b. Tome III, p. 67P, 1. 3, et p. 678, 1. 19.
+
+c. Ci-avant, p. 142.
+
+d. Pages i53-i56.
+
+[p. 276] CXXXIV.
+
+Nullos in aëre nec in aqua esse meatus recipiendis particulis ftriatis idoneos.
+
+276 PRINCIPIORUM PHILOSOPHLE a59-î6o.
+
+per quos particule ftriatse, ab uno polo venientes, libéré ad alium pergant, eosque ad illarum mensuram ita esse excavatos, ut ii qui recipiunt particulas striatas à polo Australi venientes, nullo modo possint recipere alias quæ veniunt à polo Boreali; nec contra, qui recipiunt Boréales , Auftrales admittant : quia scilicet in modum cochlearum intortse sunt, unse in unam partem, aliæ in oppositam. Ac | præterea etiam easdem particulas per unam tantùm partem istorum meatuum ingredi posse, non autem regredi per adversam, propter tenuissimas quasdam ramulorum extremitates in fpiris istorum meatuum inflexas versus eam partem, secundùm quam progredi solent, & ita in adversam partem affurgentes, ut ipsarum regressum impediant. Unde fit, ut postquam istæ particulæ ftriatse per totam mediam Terram, secundùm lineas rectas, vel rectis æquipollentes, ejus axi parallelas 8 , ab uno hemifpheerio ad aliud tranfiverunt, ipfee per eetherem circumfufum revertantur ad illud idem hemifphærium, per quod priùs Terram ingreffee sunt, atque ita rursus illam permeantes, quendam ibi quasi vorticem componant.
+
+Et quoniam ex illo æthere, per quem particulas striatas ab uno polo ad alium reverti dixeramus, quatuor diversa corpora genita esse posse ostendimus : nempe Terræ cruftam interiorem sive metallicam, aquam, terram exteriorem, & aërem ; notavimufque, articulo iij tertiee partis b , nulla, nisi in crassioribus
+
+25 posse] postea (/" édit., faute).
+
+a. Voir t. V, p. 388-38g.
+
+b. Ci-avant, p. 161-162.
+
+[p. 277] j6o-a6i.
+
+77
+
+istius ætheris particulis, meatuum ad mensuram particularum flriatarum efformatorum vestigia manere potuisse : advertendum est hoc in loco, istas omnes crassiores particulas ad interiorem Terræ cruftam initio confluxiffe, nullafque in aquâ nec in aëre esse posse : tum quia nullæ ibi particulæ satis crassæ ; tum etiam quia, cùm ista corpora fluida sint, ipsorum particulæ affiduè situm mutant, & proinde, si qui olim in iis suis- sent taies meatus, cùm certum & determinatum situm requirant, jamdudum iftâ mutatione corrupti essent.
+
+|Ac præterea, cùm fupràdi&um sit 3 , Terræ cruftam interiorem constare partim ramofis particulis sibi mutuò annexis, partim aliis quæ per ramofarum intervalla hinc inde moventur, isti etiam meatus in his mobilioribus esse non possunt, propter rationem mox al- latam, sed in ramofis duntaxat. Et quantum ad terram exteriorem, nulli quidem etiam in eâ taies meatus initio fuerunt, quoniam inter aquam & aërem formata est : sed cùm postea varia metalla ex terra interiore ad hanc exteriorem afcenderint, quamvis ea omnia, quæ ex mobilioribus & folidioribus illius particulis conflata sunt, ejusmodi meatus habere non debeant, certè illud quod ex ramofis & craflis, sed non adeò solidis particulis constat, non potest iis esse deftitu- tum. Et valde rationi consentaneum est, ut credamus ferrum taie esse.
+
+Nullum enim aliud metallum tam difficulter malleo fleditur, vel igné liquefcit, nec ullum etiam adeò durum sine alterius corporis mifturâ reddi potest : quæ tria indicio sunt, ejus ramenta magis ramofa sive an-
+
+a. Art. lvii, p. 238-239.
+
+CXXXV. Nullos etiam esse in ullis corporibusterrce exterioris præterquam in ferro.
+
+cxxxvi.
+
+Cur taies meatus sint in ferro.
+
+[p. 278] Principiorum Philosophle
+
+CXXXVII. Quâ ratione etiam sint in singulis ejus ramentis.
+
+CXXXVIII.
+
+Quomodo ijli meatus apti reddantur, ad particulas striatas ab utrâvis parte venientes, admittendas.
+
+gulofa esse, quàm cæterorum, & ideò sibi invicem firmiùs anneéti. Nec obstat quòd nonnullæ ejus glebæ satis facile prima vice igni liquefcant ; tune enim earum ramenta, nondum sibi mutuò annexa, sed una ab aliis disjun&a sunt, & ideò caloris vi facile agitantur. Præterea, quamvis ferrum sit aliis metallis durius & minus fufile, esl tamen etiam unum ex minime pon- derofis, & facile rubigine corrumpitur, aut aquis forti- bus eroditur : quæ omnia indicio sunt, ejus particulas non esse aliorum metallorum particulis folidiores, ut sunt crassiores, sed multos in iis meatus contineri.
+
+Nolo tamen hîc affirmare, in singulis ferri ramen|tis esse intégra foramina, in modum cochlearum intorta, per quæ transeant particule ftriatæ; ut etiam nolo negare, quin talia multa in ipsis reperiantur : sed hîc sufficiet, si putemus istiusmodi foraminum medietates in singulorum ramentorum fuperficiebus ita esse inf- cuptas, ut, cùm istæ superficies apte junguntur, foramina intégra componant. Et facile credi potest, craffiores illas ramofas & foraminofas interioris terræ particulas, ex quibus fit ferrum, vi spirituum sive suc- corum acrium, illam permeantium, ita fuisse divifas, ut dimidiata ista foramina, in fuperficiebus ramentorum quæ ab ipsis separabantur, remanerent; atque hæc ramenta postea per venas terræ exterioris, tum ab istis spiritibus, tum etiam ab exhalationibus & vaporibus protrufa, paullatim in fodinas afeendiffe.
+
+Notandumque esl ipsa sie ascendendo, non semper in easdem partes converti posse, quia sunt angulofa, & diversas inæqualitates in terræ venis offendunt; atque cùm particulæ ftriatæ, quæ à terra interiore
+
+[p. 279] î6j-263.
+
+cum impetu venientes, per totam exteriorem sibi vias quærunt, istorum ramentorum meatus ita fitos inveniunt, ut, ad motum suum secundùm lineas restas continuandum, per illa eorum orificia, per quæ priùs egredi confueverant, ingredi conentur, ipsas ibi occurrere perexiguis istis ramulorum extremitatibus, quas inter meatuum fpiras eminere, ac regrefïuris particulis ftriatis assurgere, suprà dictum est a ; hasque ramulorum extremitates initio quidem illis resistere, sed ab ipsis sæpe sæpius impulfas, successu temporis omnes in contrariam partem flecti, aut etiam nonnullas frangi; cùmque postea isti meatus, ramentorum quibus | insunt situ mutato, alla sua orificia particulis ftriatis obvertunt, has rursus occurrere extremitatibus ramulorum in meatibus affurgentium, ipsasque paullatim in aliam partem infledere, & quò sæpius atque diutius hoc iteratur, eô ramulorum istorum in utramque partem inflexionem faciliorem evadere.
+
+Et quidem ea ramenta, quæ sæpe hoc pacto per exao terioris terræ venas ascendendo, modo in unam, modo in aliam partem conversa fuere, sive sola simul collecta sint, sive aliorum corporum meatibus impada, glebam ferri componunt. Ea verò quæ vel semper eundem situm retinuerunt, vel certè, si ut ad fodinas pervenirent, illum aliquoties mutare coacta fuerint, saltem ibi postea, lapidis alteriusve corporis meatibus firmiter impada, per multos annos immota remanferunt, faciunt magnetem. Atque ita vix ulla est ferri gleba, quæ non aliquo modo ad magnetis naturam accédât,
+
+3o & nullus omnino est magnes, in quo non aliquid ferri
+
+a. Pars III, art. cvi, p. 154.
+
+CXXXIX.
+
+Qux sit natura
+
+magnetis.
+
+[p. 280] iSo Principiorum Philosophie i63-a6 4 .
+
+contineatur ; etsi forte aliquando istud ferrum aliquibus aliis corporibus tam ar&è adhæreat, ut faciliùs igné corrumpi, quàm ab iis educi possit. CXL - Cùm autem ferri glebæ igni admotæ liquefiunt, ut
+
+Quomodo fufione fiât r 111
+
+chaiybs, & quodvis in ierrum aut cnalybem vertantur, earum ramenta vi
+
+ferrum
+
+caloris agitata, & ab heterogeneis corporibus disjun- cta, hinc inde se contorquent, donec applicent se una aliis, secundùm eas superficies, in quibus dimidiatos meatus, recipiendis particulis ftriatis idoneos, inf- culptos, esse paullô antè dictum est; ac etiam donec istorum meatuum medietates tam apte congruant, ut integros meatus efforment. Quod ubi accidit, statim particule ftriatæ, quæ non minus in igné quàm in aliis corporibus reperiuntur, per illos li beriùs quàm per alia loca fluentes, impediunt ne exiguæ super- i5 ficies, ex quarum apto situ & conjunctione exfur- gunt, tam facile quàm priùs situm mutent ; & ipsarum contiguitas, vel saltem vis gravitatis, quæ ramenta omnia deorsum premit, impedit ne facile disjungantur. Cùmque intérim ramenta ipsa propter agita- ao tionem ignis pergant moveri, multa simul in eundem motum conspirant, & totus liquor ex iis conflatus in varias quasi guttulas aut grumulos distinguitur : ita scilicet, ut omnia illa ramenta quas simul moventur, unam quasi guttam conficiant, quæ gutta suam super- 2 5 ficiem motu suo statim lævigat & perpolit. Occurfu enim aliarum guttarum, quidquid est rude atque an- gulofum in ramentis, ex quibus confiât, ab ejus superficie ad partes interiores detruditur, atque ita omnes cujusque guttulæ partes quam-arétiffimè simul 3o junguntur.
+
+[p. 281] 264**65.
+
+Pars Quart a.
+
+.5
+
+Et totus liquor, hoc pacto in guttulas sive grumulos distinctus, si celeriter frigefcat, concrefcit in chalybem admodùm durum, rigidum & fragilem, fere ut vitrum. Quippe durus est, quia confiât ramentis sibi mutuò ardiflimè conjunctis ; & rigidus, hoc est, talis ut, si fledatur, fpontè redeat ad priorem figuram, quia flexione iftâ ejus ramentorum exiguæ superficies non disjunguntur, sed soli meatus figuras mutant, ut suprà de vitro dictum est a ; denique est fragilis, quia guttulæ, sive grumuli, quibus confiât, sibi mutuò non adhærent, nisi per fuperficierum suarum contactum ; atque hic contactus non nisi in paucissimis & perexiguis locis immediatus esse potest.
+
+Non autem omnes glebæ æquè aptæ sunt, ut in chalybem vertantur ; ac etiam illæ eædem, ex quibus optimus & | duriflimus chalybs fieri solet, vile tantùm ferrum dant, cùm igné non convenienti fundun- tur. Nam, si glebse ramenta sint adeò angulofa & confragofa, ut sibi mutuò priùs adhæreant, quàm superficies suas apte pofiint ad invicem applicare, atque in guttulas distingui ; vel si ignis non sit satis fortis ad liquorem ita in guttulas distinguendum, & ramenta ipsas componentia simul conflringenda ; vel contra, si sit tam fortis, ut istorum ramentorum aptum situm difturbet: non chalybs, sed ferrum minus durum & magis flexile habetur.
+
+Ac etiam chalybs jam factus, si rursus igni admo- veatur, etsi non facile liquefcat, quia ejus grumuli ni mis crassi sunt & solidi ut ab igné integri moveantur, & ramenta quibus unusquisque grumulus conf-
+
+a. Art. cxxxii, p. 274-275. Œuvres. III.
+
+CXLI.
+
+Cur chalybs fit valde durus, rigidus, S fragilis.
+
+CXLII. Quai sit differentia inter chalybem, S a liud ferrum.
+
+CXLIII.
+
+Quomodo chalybs tem-
+
+peretur.
+
+36
+
+[p. 282] j66.
+
+tat, nimis arctè compacta, ut locis suis plané extrudi possint : mollitur tamen, quia omnes ejus particulæ calore concutiuntur ; & postea si lente refrigeretur, non refumit priorem duritiem, nec rigorem, nec fra- gilitatem, sed fit flexile instar ferri vilioris. Dum enira hoc pacto refrigeratur, ramenta angulofa & confragofa, quæ ex grumulorum fuperficiebus ad interiores eorum partes vi caloris protrufa erant, foras se exse- runt, & una aliis implicata, tanquam uncis quibusdam perexiguis, unos grumulos aliis annedunt : quo fit, ut ramenta ista non ampliùs tam arctè in gruraulis suis compacta sint, atque ut grumuli non ampliùs immediato contactu, sed tanquam hamis vel uncis quibusdam alligati, sibi mutuò adhæreant; & ideò chalybs non admodum durus, nec rigidus, nec fragilis, sed i5 mollis & flexilis évadât. In quo non differt à ferro communi, nisi quòd chalybi iterum candefado, & deinde celeriter refrigerato, prior durities | & rigidi- tas reddatur, non autem ferro, saltem tanta. Cujus ratio est, quòd ramenta in chalybe non tam longé absint à situ ad maximam diuritiem convenienti, quin facile illum ignis vi refumant, & in celerrimâ refrige- ratione retineant : cùm autem in ferro talem situm nunquam habuerint, nunquam etiam illum refumunt. Et quidem, ut ita chalybs aut ferrum candens celerrimè refrigeretur, in aquam aliosve liquores frigidos mergi solet ; ac contra in oleum vel alia pinguia, ut lentiùs frigefcat. Et quia, quo durior & rigidior,. eô etiam fragilior evadit, ut gladii, serræ, limæ, aliave instrumenta ex eo fiant, non semper in frigidiûlmis li- 3o quoribus exstingui débet, sed in temperatis, prout in
+
+[p. 283] 366-267.
+
+unoquoque ex istis instrumentis magis minusve fragilitas est vitanda quàm durities optanda ; & ideò dum certis liquoribus ita mergitur, non immeritò dicitur temperari.
+
+Quantum autem ad meatus recipiendis particulis ftriatis idoneos, satis quidem patet ex dictis a ,permultos tam in chalybe quàm in ferro esse debere ; ac etiam eos esse in chalybe magis integros & perfectos, ramu- lorumque extremitates in ipsorum fpiris eminentes, cùm semel in unam partem flexæ sunt, non tam facile in contrariam posse infledi, quanquam etiam in hoc faciliùs, quàm in magnete fledantur; ac denique omnes istos meatus, non in chalybe aut alio ferro, ut in magnete, orificia sua recipiendis particulis ftriatis ab Auftro venientibus idonea, in unam partem, & idonea recipiendis aliis à Boreâ venientibus, in contrariam convertere ; sed eorum situm varium atque in- certum esse debere, propterea quòd ignis agitatione turbatur. Et in brevissimâ illâ morâ, quâ ha?c ignis ) agitatio frigore sistitur, tôt tantùm ex istis meatibus versus Auftrum & Boream converti possunt, quot particule ftriatse, à polis Terræ venientes, sibi tune temporis per illos viam quærunt. Et quia istæ particule ftriatæ omnibus ferri meatibus multitudine non respondent, omne quidem ferrum aliquam vim magneticam accepit ab eo situ, quem habuit respectu partium terræ, cùm ultimô candefadum refriguit, vel etiam ab eo in quo diu immotum stetit, si diu in eodem situ ste- terit immotum; sed pro multitudine meatuum quos in se continet, potest habere adhuc majorem.
+
+a. Art. cxxxrv-cxL, p. 276-280.
+
+CXLIV.
+
+Qu<e sit differentia inter meatus magnetis, chalybis, S ferri.
+
+[p. 284]
+
+Principiorum Philosophie
+
+CXLV.
+
+Enumeratio proprietatum virtutis magneticce.
+
+Quæ omnia ex principes Naturæ suprà expositis* ita sequuntur, ut quamvis non refpicerem ad illas magneticas proprietates, quas hîc explicandas suscepi, ea tamen non aliter se habere judicarem. Deinceps autem videbimus, horum ope tam apte & perfpicuè omnium istarum proprietatum dari rationem, ut hoc etiam videatur sufficere, ad persuadendum ea vera esse, quamvis ex Naturæ principiis sequi nesciremus. Et quidem magneticæ proprietates, quæ ab ipsarum admiratoribus notari solent, ad hæc capita possunt referri.
+
+1. Quòd in magnete duo sint poli, quorum unus ubique locorum versus Terne polum Borealem, alius versus Auftralem se convertit b .
+
+2. Quòd isti magnetis poli, pro diversis Terrae locis quibus insïstunt, diversimodè versus ejus centrum se inclinent .
+
+}. Quòd si duo magnetes sint sphaerici, unus versus alium eodem modo se convertat, ac quilibet ex ipsis versus Terram d .
+
+I4. Quòd postquam sunt ita conversi, ad invicem accédant .
+
+5. Quòd si in contrario situ detineantur, se mutuò réfugiant f .
+
+6. Quòd si magnes dividatur piano, lineæ per suos polos ductæ parallelo, partes fegmentorum, quæ priùs junctæ erant, se mutuò etiam réfugiant 8 .
+
+a. Pars II, art. xxxvii, xxxix et xl, p. 62, 63 et 65.
+
+b. Art. et ci-après, p. 289.
+
+c. Art. cli, p. 290.
+
+d. Art. CLHj p. 291.
+
+e. Art. CLin, p. 292.
+
+f. Art. cliv, p. 294.
+
+g. Art. clv, p. 295.
+
+[p. 285] 68-î6 9 . Pars Quarta. 285 7. Quòd si dividatur piano, lineam per polos du- 6tam ad angulos re&os fecante, duo pun&a priùs continua fiant poli diverse virtutis, unus in uno, alius in alio fegmento 3 . 5 8. Quòd, quamvis in uno magnete sint tantùm duo poli, unus Australis, alius Borealis, in unoquoque tamen ex ipsius fragmentis duo etiam similes poli reperiantur ; adeò ut ejus vis, quatenus ratione polorum diversa videtur, eadem sit in quâvis parte ac in toto b . 10 9. Quòd ferrum à magnete istam vim recipiat, cùm tantùm ei admovetur c .
+
+10. Quòd pro variis modis quibus ei admovetur, eam diversimodè recipiat d .
+
+11. Quòd ferrum oblongum, quomodocunque ma- l5 gneti admotum, illam semper secundùm suam longitudinem recipiat e .
+
+12. Quòd magnes de vi suâ nihil amittat, quamvis eam ferro communicet f .
+
+). Quòd ipsa brevifïimo quidem tempore ferro communicetur, sed temporis diuturnitate magis & magis in eo confirmetur 6 .
+
+14. Quôdchalybs duriiîimuseam majorem recipiat, & receptam conftantiùs servet, quàm vilius ferrum h . 1 1 5 . Quòd major ei communicetur à perfectiore magnete, quàm à minus perfecto'.
+
+16. Quòd ipsa etiam Terra fit magnes, & nonnihil de suâ vi ferro communicet'.
+
+a. Art. clvi ci-après, p. 295. f. Art. clxi, p. 297.
+
+b. Art. clvii, ibidem. g. Art. clxii, p. 298.
+
+c. Art. CLvnr, p. 296. h. Art. cliiii, ibidem.
+
+d. Art. clxix, ibidem. i. Art. clxiv, ibidem.
+
+e. Art. clx, p. 297. j. Art. clxv, ibidem.
+
+[p. 286] 17. Quòd hæc vis in Terra, maximo magnete, minus fortis appareat, quàm in plerisque aliis minoribus 3 .
+
+18. Quod acus à magnete ta&æ suas extremitates eodem modo versus Terram convenant, ac magnes suos polos b . 5
+
+19. Quod eas non accuratè versus Terræ polos convenant, sed varié variis in locis ab iis déclinent .
+
+20. Quòd iftadeclinatiocumtempore mutari possit d .
+
+2 1 . Quòd nulla fit, ut quidam ajunt, vel forte quòd non eadem nec tanta fit, in magnete supra unum ex 10 suis polis perpendiculariterereclo, quàm in eo cujus poli æqualiter à Terra distant 6 .
+
+22. Quòd magnes trahat ferrum f .
+
+2j. Quòd magnes armatus multò plus ferri sustineat, quàm nudus g . i5
+
+24. Quòd ejus poli, quamvis contrarii, se invicem juvent ad idem ferrum sustinendum h .
+
+25. Quòd rotulse ferreæ, magneti appenfæ, gyratio in utramvis partem à vi magneticâ non impediatur'.
+
+26. Quòd vis unius magnetis varié possit augeri vel 2° minui, varia magnetis alterius aut ferri ad ipsum ap- plicatione .
+
+27. Quòd magnes, quantumvis fortis, ferrum à se diilans, ab alterius debilioris magnetis conta&u re- trahere non possit k . *5
+
+28. Quòd contra magnes debilis, aut exiguum ferrum,
+
+a. Art. clvi ci-après, p. 299. g. Art. clxxii, p. 3o2.
+
+b. Art. clxvii, p. 3oo. h. Art. clxxiii, p. 3o3.
+
+c. Art. clxvih, ibidem. i. Art. clxxiv, p. 304.
+
+d. Art. clxix, p. 3ot. j. Art. clxxv, p. 3o5.
+
+e. Art. clxx, ibidem. k. Art. clxxvi, ibidem.
+
+f. Art. clxxi, p. 3o2.
+
+[p. 287] 269-270.
+
+287
+
+| saepe aliud ferrum sibi contiguum separet à magnete fortiore 3 .
+
+29. Quòd polus magnetis, quem dicimus Auflralem, plus ferri sustineat in his Borealibus regionibus, quàm ille quem dicimus Borealem b .
+
+30. Quòd limatura ferri circa unum, aut plures magnetes, certis quibusdam modis se disponat c .
+
+ji. Quòd lamina ferrea, polo magnetis adjunda, ejus vim trahendi vel convertendi ferri defledat d .
+
+J2. Quòd eandem nullius alterius corporis inter- posîtio impediat e .
+
+j. j . Quòd magnes ad Terram aliosve vicinos magnetes aliter conversus manens, quàm sponte se converteret, si nihil ejus motui obstaret, successu temporis suam vim amittat f .
+
+34. Quòd denique ista vis etiam rubigine, humiditate & situ minuatur, atque igné tollatur; non autem ullâ aliâ nobis cognitâ ratione 6 .
+
+Ad quarum proprietatum cauffas intelligendas, pro- ponamus nobis ob oculos Terram A B, cujus A est polus Australis, & B Borealis ; notemufque, particulas striatas, ab Australi cœli parte E venientes, alio plané modo intortas esse, quàm venientes à Boreali F : quo fit, ut unæ aliarum meatus ingredi plané non possint. Notemus etiam, Auftrales quidem rectâ pergere ab A versus B per mediam Terram, ac deinde per aërem ei circumfufum reverti à B versus A ; eodemque
+
+a. Art. clxxvii ci-après, p. 3o6.
+
+b. Art. clxzviii, ibidem.
+
+c. Art. clxxix, p. 307.
+
+d. Art. clxxx, p. 309.
+
+e. Art. clxxxi, p. 3 10.
+
+f. Art. clxxxji, ibidem.
+
+g. Art. CLxxxiii, ibidem.
+
+CXLVI.
+
+Quomodo particules ftriatee per Terrée meatus fluant.
+
+[p. 288]
+
+Principiorum Philosophie
+
+tempore Boréales transire à B ad A per mediam Terrain, & reverti ab A ad B per aërem circumfufum : quia meatus, per quos ab unâ parte | ad aliam véné- rant, sunt taies, ut per ipsos regredi non possint.
+
+ta
+
+m
+
+CXLVII.
+
+Quàd difficiliùs transeant per aërem, aquam, & terrant exteriorem, quant per interiorem.
+
+Intérim verò, quot novæ semper accedunt à partibus cœli E & F, tôt per alias partes cœli G & H abfcedunt, vel in itinere diffipantur, & figuras suas amittunt ; non quidem transeundo per mediam Terræ regionem : quia ibi meatus habent ad mensuram suam excavatos, per quos sine ullo offendiculo celerrimè fluunt; sed redeundo per aërem, aquam & alia corpora terræ exterioris,
+
+[p. 289] 27I-27 3 -
+
+in quibus |nullos ejusmodi meatus habentes, multò difficiliùs moventur, particulifque fecundi & tertii elementi affiduè occurrunt, quas cùm loco expellere laborant, interdum ab ipsis comminuuntur.
+
+Jam verò, si forte istæ particulæ ftriatæ magnetem ibi offendant, cùm in eo inveniant meatus ad suam figuram conformâtes, eodemque modo dispositos ac meatus terræ interioris, ut paullô antè diximus, non dubium est, quin multò faciliùs per illum transeant, quàm per aërem vel alia corpora terra? exterioris : saltem cùm iste magnes ita situs est, ut habeat suorum meatuum orificia conversa versus eas Terræ partes, à quibus veniunt eæ particulæ ftriatæ, quæ per illa libéré ingredi possunt.
+
+Etquemadmodum in Terra, sie in magnete, pun&um médium ejus partis, in quâ sunt orificia meatuum, per quæ ingrediuntur particulæ ftriatæ veni entes ab Australi cœli parte, dicemus polum Auftralem; punctum autem médium alterius partis, per quam hæ particulæ ftriatæ egrediuntur, & aliæ venientes à Sep- tentrione ingrediuntur, dicemus polum, Borealem. Nec moramur, quòd vulgò alii polum, quem vocamus Auftralem, vocent Borealem; neque enim eâ de re vulgus, cui soli jus competit nomina rébus malè con- venientia frequenti usu approbandi, loqui solet.
+
+Cùm autem hi poli magnetis non respiciunt eas Terræ partes, à quibus veniunt eæ particulæ ftriatæ, quibus liberum transitum præbere possunt, tune istæ particulæ ftriatæ obliqué in magnetis meatus irruentes, illum impellunt eâ vi quam habent, ad perfeveran-
+
+a. Propriété 1, p. 284 ci-avant, 1. 12. Œuvres. III.
+
+CXLVIII.
+
+Qubd faciliùs transeant
+
+per magnetem, quàm
+
+per alia corpora hu-
+
+jus terræ exterioris.
+
+CXLIX. Qui Jim poli magnetis.
+
+CL.
+
+Cur isti poli Je conver- tantverfus polos Terra'.
+
+37
+
+[p. 290]
+
+Principiorum Philosophie
+
+dum in suo motu secundùm lineas rectas, donec ipsum ad naturalem situm reduxerint : sicque quoties à nullâ externà vi retinetur, J efficiunt, ut ejus polus Australis versus polum Terræ Borealem convertatur, & Boxav
+
+CLl. Cur etiam certd ratione versus ejus cen- trumje reclinent'.
+
+*2
+
+H
+
+realis versus Auftralem : quoniam ese quæ à Terræ polo Boreali per aërem ad Auftrum tendunt, venêre priùs ab Australi cœli parte per mediam Terram, & venêre à Boreali quæ ad Boream revertuntur.
+
+Efficiunt etiam ut magnes, pro diversis terræ locis quibus insistit, unum ex polis suis altero magis aut
+
+a. Propriété 2, p. 284, 1. i5.
+
+[p. 291] 173-275-
+
+minus versus illam inclinet. Nempe in ,/Equatore quidem a, polus Australis magnetis L, versus B Borealem Terræ; & b, Bo|realis ejusdem magnetis, versus Auftralem Terræ dirigitur; ac neuter altero magis deprimitur, quia particulæ ftriatæ cum æquali vi ab utrâque parte ad illos accedunt. Sed in polo Terræ Boreali polus a magnetis N omnino deprimitur, & b ad perpendiculum erigitur. In locis autem intermediis, magnes M polum suum b magis aut minus erigit, &polum a magis aut minus deprimit, prout magis aut minus vicinus est polo Terræ B. Quorum caussa est, quòd Auftrales particulæ ftriatæ, magnetem N ingref]furæ, ab interioribus Terræ partibus per polum B secundùm lineas rectas surgant; Boréales verò, ab hemifphærio Terræ D A C. circumquaque per aërem versus eundem magnetem N venientes, non magis obliqué progredi debeant, ut ad ejus superiorem partem, quàm ut ad inferiorem accédant : Auftrales verò ingreffuræ magnetem M, à toto Terræ tractu qui est inter B & M ascendentes, vim habeant ejus polum a obliqué depri- mendi, nec à Borealibus, quæ à tractu Terræ AC ad alium ipsius polum b non minus facile accedunt, cùm eredus est, quàm cùm depreffus, impediantur.
+
+Cùm autem istæ particulæ ftriatæ per singulos magnetes eodem plané modo ac per Terram fluant, non aliter duos magnetes fphæricos unum ad alium, quàm ad totam Terram debent convertere. Notandum enim ipsas circa unumquemque magnetem multò majore copia semper esse congregatas, quàm in aëre inde remoto : quia nempe in magnete habent meatus, per
+
+a. Propriété 3, p. 284,1. 18.
+
+CLII. Cur unus magnes ad alium se convertat & inclinet, eodem modo atque ad terram *.
+
+[p. 292] CLIII.
+
+Cur duo magnetes ad invicem accédant, & quæfil cujufquefpha?- ra aâivilatis *.
+
+Principiorum Philosophle
+
+quos multò faciliùs fluunt quàm per aërem circumja- centem, à quo idcirco juxta magnetem retinentur; ut etiam, propter meatus quos habent in Terra interiore, major est earum copia in toto aëre, aliisque corporibus Terram ambientibus, quàm in cœlo. Et ita, quantum ad vim magneticam, eadem plané omnia putanda sunt de uno magnete, refpe&u alterius magnetis, ac de Terra, quee ipsa maximus magnes dici potest.
+
+Neque verò duo magnetes se tantùm ad invicem convertunt, donecpolus Borealis unius polum Auftralem alterius respiciat; sed præterea postquam sunt ita conversi, ad invicem accedunt, donec se mutuo contingant, si nihil |ipsorum motum impediat. Notandum enim est particulas striatas celerrimè moveri, quamdiu versantur in meatibus magnetum, quia ibi feruntur impetu primi elementi ad quod pertinent ; cùmque inde egrediuntur, occurrere particulis aliorum corporum, easque propellere, quoniam hæ, ad secundum aut tertium elementum pertinentes, non tantum habent celeritatis. Ita illæ quæ transeunt per magnetem O,
+
+it^V*.
+
+.:: t
+
+celeritate quâ feruntur ab A ad B, atque à B ad A, vim acquirunt ulteriùs progrediendi secundum lineas
+
+16 quod] quem (/" édit.). a. Propriété 4, p. 284,1. 21.
+
+[p. 293] S76-377- Pars Quarta. 293
+
+reétas versus R & S, donec ibi tam multis particulis fecundi aut tertii elementi occurrerint, ut ab ipsis utrimque refleftantur versus V. Totumque spatium RVS per quod ita fparguntur, vocatur sphæra virtutis, sive a&ivitatis, hujus magnetis O; quam patet eô majorem esse debere, quô magnes est major, præsertim quô longior secundùm lineam A B, quia particulæ ftriatæ longiùs per illum progredientes majorem agitationem acquirunt. Ita etiam quæ transeunt per magnetem P, rectâ utrimque pergunt versus S & T, atque inde refleéhintur versus X, totumque aërem in sphæra fuse aftivitatis contentum propellunt ; sed non ideô expellunt, si nullum habeat locum | quô possit recedere, ut nullum habet, cùm istorum magnetum i5 sphæræ virtutis sunt ab invicem disjun&æ. Sed cùm in unam coalescunt, tune primo facilius est particulis ftriatis, quæ veniunt ab O versus S, re&à pergere usque ad P in locum earum quæ ex T per X ad S & b revertebantur, quàm reste&i versus V & R, quô non difficulter pergunt venientes ab X; faciliufque est venientibus à P ad S pergere usque ad O, quàm refledi versus X, quô etiam non difficulter pergunt venientes ab V; sicque istæ particulæ ftriatæ non aliter transeunt per hos duos magnetes O & P, quàm si unicus effet.
+
+2 5 Deinde facilius est particulis ftriatis, rectâ pergenti- bus ab O ad P, atque à P ad O, aërem intermedium expellere ab S versus R & T in locum magnetum O & P, sicque efficere, ut hi magnetes ad invicem accédant, donec se contingant in S, quàm per totum illum
+
+3o aërem eniti ab A ad b, atque ab V ad X; quæ duæ viæ breviores fiunt, cùm hi duo magnetes ad invicem
+
+[p. 294]
+
+accedunt, vel, si unus retineatur, cùm saltem alter ad ipsum venit. CLIV - Poli autem cognomines duorum magnetum, non sie
+
+Cur inter dumfe invi- -, • i ri « •» /• . • •
+
+cem réfugiant*. ad invicem accedunt, ied contra potius, Il nimis prope admoveantur, recedunt. Particulæ enim ftriatse ab eo unius magnetis polo, qui alteri magneti obverfus est, venientes,cùm hune alterum ingredi non possint, spatium aliquod exigunt inter iltos duos magnetes quò transeant, ut ad alium magnetis ex quo egreffæ sunt polum revertantur. Nempe egredientes ab O per polum A, cùm ingredi non possint in P y p^&^çèJ'iiJp per ejus polum a, spatium aliquod exigunt inter A & a, per quod transeant ver fus V & B, atque vi, quâ motæ sunt à B ad A, pellunt magnetem P ; sicque egre- 1 5 | dientes à P pellunt magnetem O : saltem cùm eorum axes B A & ab sunt in eâdem lineâ rectâ. Sed cùm tan- tillo magis in unam partem quàm in aliam inflexi sunt, tune isti magnetes se convertunt, modo paullô antè explicato ; vel si hæc eorum conversio impediatur, non autem motus rectus, tune rursus unus magnes alium fugat secundùm lineam rectam. Ita si magnes O, exiguæ cymbæ impositus, aquæ sie innatet, ut fem- per ejus axis maneat ad perpendiculum eredus, & magnes P, cujus polus Australis Auftrali alterius obversus est, manu moveatur versus Y, hinc fiet, ut magnes O recédât versus Z, antequam à magnete P tangatur. In quamcunque enim partem cymba se convertat, requiritur semper aliquod spatium inter istos duos magnetes, ut particulæ ftriatæ, ex iis per po- 3o
+
+a. Propriété 5, p. 284, 1. 23.
+
+[p. 295] 278-279-
+
+fjp^SI
+
+los A & a egredientes, versus V & X transire possint. Et ex his facillimè intelligitur, cur si magnes fece- tur piano parallelo lineæ per ejus polos du&æ, seg- mentumque libéré suspendatur supra magnetem ex quo refedum est, sponte se convertat, & situm contrarium ejus quem priùs habuerat, affectet ; ita ut, si partes A & a priùs junctæ fuerint, itemque B & b, postea b vertat se versus A, & a versus B : quia nempe antea pars Australis unius Australi alterius juncta erat,&Borealis Boreali,post divisionem verò particulæ ftriatæ per | Auflralem partem unius egreflæ, per Borealem alterius ingredi debent ; & egreflæ per Borealem , ingredi per Austral em . Manifestum etiam est, cur si magnes dividatur piano, lineam per polos ductam ad angulos rectos fecante, poli fegmentorum, quæ ante sectionem se mutuo tangebant, ut b&a, sint contrariæ virtutis : quia particulæ ftriatæ, quæ per unum ex istis polis egrediuntur, per alium ingredi debent.
+
+Nec minus manifestum est, eandem esse vim in quâvis magnetis parte ac in toto : neque enim ista vis alia est in polis, quàm in reliquis partibus, sed tantùm major videtur, quia per illos egrediuntur particulæ ftriatæ, quæ per longiffimos magnetis meatus tranfie- runt, & quæ inter omnes ab eâdem parte venientes mediæ sunt : saltem in magnete sphærico, ad cujus
+
+CLV.
+
+Cur fegmentorum magnetis partes, qua> antefeâionemjunâæ erantje mutuà etiam réfugiant '.
+
+CLVI. Cur duo punâa, quæ priùs in uno magnete contigua erant, in ejus fragmentis fini poli diversæ virtutis ".
+
+CLVII. Cur eadem sit vis in quâvis magnetis parte, ac in toto c .
+
+a. Propriété 6, p. 284, 1. 25.
+
+b. Propriété 7, p. 285, 1. 1.
+
+c. Propriété 8, ibid., 1. 5.
+
+Voir t. IV, p. 469.
+
+[p. 296] CLVIII. Cur magnes suam vint ferro sibi admoto communicet ■.
+
+CLIX. Cur ferrum pro variis modis, quitus magneti admovetur, ipsam diversimode recipiat b .
+
+296 Principiorum Philosophie î 79 -î8o.
+
+exemplum in reliquis ibi poli eue cenfentur, ubi maxima vis apparet. Nec etiam ista vis alia est in uno polo quàm in alio, nisi quatenus particule ftriatse, per unum ingreffse, per alium egrediuntur : atqui nulla est tantilla pars magnetis, in quâ, si habent ingressum, non habeant etiam egrefïum.
+
+Nec mirum est, quòd ferrum, magneti admotum, vim magneticam ab illo acquirat. Jam enim habet meatus recipiendis particulis ftriatis idoneos,nihilque ipsi deest ad istam vim acquirendam, nisi quòd exiguæ quædam ramulorum, ex quibus ejus ramenta constant, extremitates hinc inde in istis meatibus pro- mineant ; quæ omnes | versus unam & eandem partem fle6ti debent, in iis meatibus per quos transire possunt particulæ ftriatee ab Auftro venientes, & versus oppositam in aliis. Atqui, magnete admoto, particulæ ftriatæ, magnâ vi & magnâ copia, torrentis instar, in ferri meatus irruentes, istas ramulorum extremitates hoc pacto infledunt; ac proinde ipsi dant id omne, quod in eo ad vim magneticam desiderabatur.
+
+Et quidem pro variis partibus magnetis, ad quas ferrum applicatur, varié accipit istam vim. Sic pars R ferri RST, si applicetur polo Boreali magnetis P, fiet polus Australis ferri, quia per illam ingredientur particulæ ftriatæ ab Auftro venientes, & per partem T ingredientur Boréales, ex polo A per
+
+a. Propriété 9, p. 285, 1. 10.
+
+b. Propriété 10, ibid., 1. 12.
+
+iS
+
+[p. 297] a8o-a8i.
+
+aërem reflexse. Eadem pars R, si jacet supra æquato- rem magnetis, & respiciat ejus polum Borealem, ut in C, fiet rursus polus Australis ferri ; sed si invertatur & respiciat polum Auftralem, ut in D, tune amittet vim poli Australis, & fiet polus Borealis. Denique, si S pars média istius ferri tangat polum magnetis A, particulæ ftriatæ Boréales, illud ingreflæ per S, utrimque egredientur per R & T ; sicque in utrâque extremitate recipiet vim poli Australis, & in medio vim poli
+
+Borealis.
+
+Quæri tantùm potest, cur istæ particulæ ftriatæ, ex magnetis polo A ferri partem S ingredientes, non rectâ pergant versus E, sed potiùs hinc inde reste&antur versus R | & T; sicque hoc ferrum secundùm suam i5 longitudinem, potiùs quàm secundùm latitudinem, vim magneticam recipiat. Sed facilis responsio est, quia multò magis apertas & faciles vias inveniunt in ferro, quàm in aëre, à quo idcirco versus ferrum reste&untur.
+
+Facilis etiam responsio est, si quæratur cur magnes nihil amittat de suâ vi, cùm eam ferro communicat. Nulla enim in magnete mutatio fit, propterea quòd particulæ ftriatæ, ex eo egredientes, ferrum potiùs quàm quodvis aliud corpus ingrediuntur : nisi forsan quòd, liberiùs per ferrum quàm per alia corpora transeundo, copiosiùs etiam ex magnete, cùm ferrum ei adjunctum est, egrediantur ; quo tantum abest, ut ejus vis minuatur, quin potiùs augètur.
+
+1 reflexæ] reflexas (/" édit.).
+
+a. Propriété 11, p. 285,1. 14.
+
+b. Propriété 12, ibid., 1. 17.
+
+CLX. Cur ferrum oblongum eam non recipiat, nisi secundùm suam longitudinem •.
+
+CLXI.
+
+Cur magnes nihilamit- tat de suâ vi, quamvis eam ferro communicet b .
+
+[p. 298]
+
+Principiorum Philosophle
+
+Î8I-282.
+
+CLXII. Cur tuec vis celerrimè ferro communicetur, sed diuturnitate temporis in eo confirmetur*.
+
+CLXIIJ. Cur chalybs ad eam recipiendam aptior sit, quant vilius ferrum*.
+
+CLXIV.
+
+Cur major ei communicetur à perfeâiore magnete quàm à minus perfeâo'.
+
+CLXV.
+
+Cur ipsa etiam terra vim ma gneticam ferro tribuat*.
+
+Et brevissimo tempore ista vis ferro accedit, quia particulæ ftriatæ celerrimè per ipsum fluunt ; sed longâ morâ in eo confirmatur, quia quò diutius ramulorum extremitates in unam partem flexæ manfe- runt, eô difficiliùs in contrariam reste&untur.
+
+Et chalybs istam vim majorem accipit quàm vilius ferrum, quia plures & perfe&iores habet meatus, particulis ftriatis recipiendis idoneos. Eamque constan- tiùs servat, quia ramulorum in iis meatibus promi- nentium extremitates habet minus flexiles.
+
+Et major ei communicatur à majore & perfeâiore magnete : tum quia particule ftriatæ, majori cum impetu in ejus meatus irruentes, ramulorum in iis pro- minentium extremitates magis infleétunt ; tum etiam quia plures simul eo ruentes, plures ejusmodi meatus sibi aperiunt. Notandum enim est, plures esse taies meatus in chalybe, (qui scilicet exfolis ferri ramentis confiât, quàm in magnete, in quo multum est materiæ lapides, cui ferri ramenta infixa sunt; atque ideò, cùm paucæ tantùm particulæ ftriatæ ex magnete debili ferrum ingrediantur, non omnes ejus meatus aperiunt, sed paucos tantùm, & quidem illos, qui extremitatibus ramulorum quam-maximè flexilibus claudebantur.
+
+Unde fit, ut etiam vile ferrum, in quo scilicet istæ ramulorum extremitates sunt valde flexiles, ab ipsâ Terra, magnete quidem maximo, sed admodùm debili,
+
+iS
+
+a. Propriété i3, p. 285, 1. 19.
+
+b. Propriété 14, ibid., 1. 22. — Voir t. IV, p. 470.
+
+c. Propriété i5, ibid., 1. 24.
+
+d. Propriété 16, ibid., 1. 26.
+
+[p. 299] a8a-a83. PARS Q.UARTA. 2ÇQ
+
+nonnullam vim magneticam brevissimo tempore possit accipere. Nempe si sit oblongum, nullâ tali vi adhuc imbutum, & unâ suâ extremitate versus Terrain inclinetur, protinus ex hoc solo acquiret, in iftâ extremitate versus Terram inclinatâ, vim poli Australis in his Borealibus regionibus ; & momento illam amittet, ac plane contrariam acquiret, si eadem ejus extremitas attollatur, & opposita deprimatur.
+
+Sed si quæratur, cur ista vis in Terra, maximo ma- clxvi.
+
+j lm" r^ « • i" m r j Cur vis mænetica in
+
+gnete, debilior lit quam in alns minonbus, relpondeo, T errâ delmor sit, me non putare illam esse debiliorem, sed potiùs multò ?£££"* m< " fortiorem, in mediâ illâ Terræ regione, quam totam particulis flriatis perviam eflTe suprà dictum est b ; verùm istas particulas striatas, ab ipsâ egreflas, maximâ i5 ex parte reverti per interiorem illam superioris Terræ regionis cruftam, ex quâ metalla oriuntur, & in quâ sunt etiam multi meatus iis recipiendis idonei ; atque idcirco perpaucas usque ad nos pervenire. Judico enim istos meatus, tum in illâ cruftâ interiore, tum etiam in magnetibus, & ferri ramentis, quæ in venis hujus exterioris continentur, plané alio modo | converfos esse, quàm meatus mediæ regionis : ita ut particule ftriatæ, quæ per hanc mediam regionem ab Auftro ad Boream fluunt, revertantur à Boreâ ad a 5 Auftrum per omnes quidem superioris partes, sed præcipuè per ejus cruftam interiorem, itemque per magnetes & ferrum exterioris ; quô cùm maxima earum pars se conférât, paucæ supersunt quæ per hune nostrum aërem, & alia circumjacentia corpora,
+
+a. Propriété 17, p. 286 1. 1.
+
+b. Art. cxzxiii et seq., p. 275.
+
+[p. 300] }00
+
+PRINCIPIORUM PhILOSOPHLE
+
+î83-j84.
+
+CLXVII. Curacusmagnete taâx semper suæ virtutis polos in extremitatibus suis habeant *.
+
+CLXVIII. Cur poli magneticce virtutis non semper accuratè versus Terræ polos dirigantur, sei ab Us varié déclinent".
+
+meatibus idoneis destituta, sibi viam quærant. Quæ si re&è conjicio, magnes è terra excifus, & in cymbâ super aquam libéré collocatus, eandem illam faciem, quâ semper antea, dum terræ hærebat, Septentriones fpeftavit, débet adhuc in Septentriones convertere : ut Gilbertus, virtutis magneticæ præcipuus indagator, & ejus quæ in Terra est primus inventor, expertum se esse affirmât. Nec moror quòd alii contrarium pu- tent se vidisse ; forsan enim iis imposuit, quòd cùm illa ipsa pars terræ, ex quâ magnetem excidi curave- rant, effet magnes, poli magnetis excifi ad eam se con- verterent : ut paullô antè diftum est, unius magnetis fragmentum ad aliud converti.
+
+Jam verò, cùm ista virtus magnetica non communicetur ferro oblongo, nisi secundùm ejus longitudinem : certum est acum ipsâ imbutam suas semper extremitates versus easdem terræ partes debere convertere, versus quas magnes fphæricus polos suos convertit; & semper ejusmodi acus suæ magneticæ virtutis polos in extremitatibus istis præcisè habere. Et quia faciliùs earum extremitates à reliquis partibus dignosci possunt, quàm poli magnetis, ipsarum openotatum est, magneticæ virtutis polos non ubique Terræ po|los accuratè respicere, sed varié variis in locis ab iis declinare. Cujus declinationis caussa, ut jam antè Gilbertus animadvertit, ad solas inæqualitates quæ sunt in hac terræ superficie, referri débet. Manifestum enim est, in unis hujus exterioris terræ partibus, multò plura ferri ramenta, pluresque raa-
+
+a. Propriété 18, p. 286 1. 3.
+
+b. Propriété 19, ibid., 1. 6.
+
+[p. 301] 384-J85.
+
+)° l
+
+gnetes reperiri, quàm in aliis: quo fit, ut particulæ ftriatæ, à terra interiori egredientes, majori copia ver- fus quædam loca fluant, quàm versus alia, sicque ab itineribus suis feepe defleétant. Et quia polorum magnetis, vel extremitatum acûs, converfiopendet à solo cursu istarum particularum, omnes earum infledio- nes sequi débet. Hujusque rei experimentum facere licet in magnete, cujus figura non sit sphærica : nam si acus exigua supra diversas ejus partes collocetur, non semper eodem plané modo ad ejus polos se con- vertet, sed sæpe ab ipsis aliquantum declinabit. Nec putandum est in eo difparem esse rationem, quòd inæ- qualjtates, quæ sunt in extimâ terræ superficie, ad totam ejus molem comparatæ, perexiguæ sint; non enim cum ipsâ, sed cum acubus & magnetibus in quibus declinatio sit, sunt comparandæ, sicque satis magnas esse apparet.
+
+Sunt qui dicunt, istam declinationem non semper in iisdem terræ locis eandem manere, sed cum tempore mutari. Quod minime mirum videri débet : non modo quia ferrum quotidie ex unis terræ partibus in alias ab hominibus transfertur, sed etiam quia ejus glebæ, quæ sunt in hac terra exteriore, quibusdam in locis cum tempore corrumpi pofiunt, & aliæ in aliis generari, sive ab interiore terra submitti.
+
+Sunt etiam qui dicunt, istam declinationem nullam esse | in magnete sphærico, supra polum suum Auftralem in his Borealibus regionibus, vel supra Borealem
+
+15&] mt(i"édit.).
+
+CLXIX. Cur etiam interdum ista declinatio cum tempore mutetur '.
+
+CLXX.
+
+Cur in magnete supra unum ex suis polis ereâo minor esse pofft, quàm cum ejus
+
+a. Propriété 20, p. 286, 1. 8.
+
+[p. 302] poli æqualiter Terra distant'.
+
+CLXXI.
+
+Cur magnes trahat
+
+ferrum b .
+
+CLXXII. Cur magnes armatus, multà plusferrifufti- neat, quàm nudus'.
+
+Principiorum Philosophie
+
+j85.
+
+in Auftralibus, perpendiculariter stante, illumquehoc pacto cymbæ impositum, quandam æquatoris sui partem semper accuratè eandem versus Boream,& oppositam versus Auftrum convertere. Quod an verum sit, nullo mihi adhuc experimento compertum est. Sed facile mihi persuadeo non omnino eandem, nec forte etiam tantam esse declinationem, in magnete ita constituto, quàm in eo cujus poli æqualiter à Terra distant. Nam particule ftriatæ, in hac superiore Terræ regione, non modo per lineas æqualiter ab ejus centro distantes ab uno polo ad alium revertuntur, sed etiam ubique (præterquam sub æquatore) nonnullæ ab interioribus ejus partibus afcendunt : & magnetis supra polos eredi conversio ab his ultimis, declinatio verò à prioribus præcipuè dependet.
+
+Præterea magnes trahit ferrum, sive potiùs magnes & ferrum ad invicem accedunt ; neque enim ulla ibi tractio est, sed statim atque ferrum est intra sphæram activitatis magnetis, vim ab eo mutuatur, & particule ftriatæ, ab utroque egredientes, aërem intermedium expellunt : quo fit, ut ambo ad invicem non aliter quàm duo magnetes accédant. Imò etiam ferrum liberiùs movetur quàm magnes, quia confiât iis tantùm ramentis, in quibus particule ftriatæ suos habent mea tus, magnes autem multâ materiâ lapideâ gravatur.
+
+Sed multi mirantur magnetem armatum, sive laminam ferream magneti adjunctam, plus ferri posse sustinere, quàm solum magnetem. Cujus tamen ratio
+
+.5
+
+a. Propriété 21, p. 286, 1. 9.
+
+b. Propriété 22, ibid., 1. i3.
+
+c. Propriété 23, ibid.,\. 14.
+
+[p. 303] J85-286.
+
+detegi potest ex eo, quòd etiamsi plus sibi appenfi ferri sustineat, | non tamen idcirco plus ad se alliciat, si vel minimum ab eo removeatur ; nec etiam plus sustineat, si corpus aliquod, quantumvis tenue, interjaceat : hinc enim apparet, istam majorem ejus vim ex solâ differentiâ contactas oriri : quod nempelaminæ ferreæ meatus aptiffimè congruant cum meatibus ferri ipsi appenfi, & ideò particule ftriatse, per hos meatus ex uno ferro in aliud transeuntes, omnem aërem intermedium expellant, emciantque ut eorum superficies, se invicem immédiate contingentes, difficillimè disjungantur: jamque suprà ostensum est a , nullo glutino duo corpora meliùs ad invicem posse alligari, quàm immediato contactu. Meatus autem magnetis non ita congruunt cum meatibus ferri , propter materiam lapideam quse in eo est; hincque fit, ut semper aliquantulum spatii inter magnetem & ferrum debeat remanere, per quod particule ftriatæ ex unius meatibus ad meatus alterius perveniant.
+
+Mirantur etiam nonnulli, quòd quamvis poli magnetis contrariée virtutis esse videantur, se tamen invicem juvent ad ferrum sustinendum : ita ut, si ambo laminis ferreis armentur, possint ferè duplo plus ferri simul susti- nere, quàm unus solus. Nempe, si AB est magnes, cujus polis adjundse sunt laminæ C D & E F, < ita utrimque prominentes, ut ferrum G H iis applica- tum fuperfi cie satis latâ ipsas tangat : hoc ferrum G H
+
+a. Pars II, art. lv, p. 71.
+
+b. Propriété 24, p. 286, 1. 16.
+
+CLXXIII.
+
+Cur ejus poli, quamvis contrarii, se invicem juvent ad ferrum su- ftinendum b .
+
+[p. 304] ?04
+
+PRINCIPIORUM PhILOSOPHLE
+
+CLXXIV. Curygratiorotulcefer- rce,à vi magnetis cui appenfa est, non impediatur '.
+
+duplo ferè gravius esse potest, quàm si ab unâ tantùm ex istis laminis fuftineretur. Sed hujus rei ratio evidens est, ex motu particularum ftriatarum jara explicato : quamvis enim | in eo contrariæ sint, quòd quæ per unum polum ingrediuntur, non possint etiam ingredi per alium, hoc non impedit quominùs in susti- nendo ferro consentiant; quia venientes ab Australi magnetis polo A, per laminam chalybeam CD reflexa, ingrediuntur unam ferri partem b, in quâ faciunt ejus polum Borealem ; atque inde fluentes usque ad Auftralem a, occurrunt alii laminæ chalybeæ SE, per quam ascendunt ad B, polum magnetis Borealem ; & vice versâ egreflæ ex B, per armaturam EF, ferrum appensum H G, aliamque armaturam DC, revertuntur ad A.
+
+Hic autem motus particularum ftriatarum per magnetem & ferrum non ita videtur consentire cum motu circulari ferrearum rotularum, quæ, turbinis instar contortæ, diutius gyrant è magnete pendentes, quàm cùm ab eo remotæ terræ insistunt. Et sanc, si particule ftriatæ motu tantùm recto agerentur, & singulos ferri meatus per quos ingredi debent, è regione meatuum magnetis ex quibus egrediuntur, offenderent, judica- rem eas sistere debere gyrationem istarum rotularum. Sed quia semper ipsæmet gyrant, unæ in unam partem, aliæ in contrariam, & obliqué transire debent ex meatibus magnetis in meatus ferri, quomodocunque rotula vertatur, æquè facile in ejus meatus ingrediuntur,
+
+a. Propriété 25, p. 286, 1. 18. — Voir t. IV, p. 470.
+
+io
+
+[p. 305] 287-288.
+
+m
+
+ac si effet immota, minùfque ipfius motus impeditur à contactu magnetis, cùm ei sie appenfa gyratur, quàm à contacta Terræ, cùm suo pondère illam premit. Variis modis vis unius magnetis augetur vel minuitur, alterius magnetis aut ferri accessu. Sed una in hoc generalis régula est, quòd quoties ita siti sunt isti magnetes, ut | unus in alium particulas striatas mittat, se invicem juvent; contra autem, si unus ab alio eas abducat, sibi obstent. Quia quò celeriùs & copiosiùs iftge particulæ per unumquemque magnetem fluunt, eô major in eo est virtus, & magis agitatæ, ac plures, ab uno magnete vel ferro in alium mitti possunt, quàm eo absente ab aëre, aliove ullo corpore in ejus locum constituto. Sic non modo, cùm polus Australis unius
+
+1 5 magnetis polo Boreali alterius conjunctus est, se invicem juvant ad ferrum aliis suis polis appensum sustinendum; sed etiam cùm disjundi sunt, & ferrum inter utrumque collocatur. Exempli gratiâ, magnes C juvatur à magnete F, ad ferrum D E sibi conjunctum retinendum ; & vice versâ, magnes F juvatur a magnete C, ad hujus ferri ex- tremitatem E in aëre sustinendam : potest enim esse tam gravis, ut ab eo solo sie sustineri non posset, si
+
+3 5 alia extremitas D alteri corpori quàm magneti C inni- teretur.
+
+Sed intérim quædam vis magnetis F impeditur à magnete C, nempe illa quam habet ad ferrum DE ad
+
+CLXXV. Quomodo & quare vis unius magnetis au- geat vel minuat vint alterius 1 .
+
+CLXXVI. Cur magnes quantum- visfortisjerrumjibi
+
+18 Exempli gratiâ] Ex. gr. ( 1" édit .).
+
+a. Propriété 26, p. 286, 1. 20. Œuvres. III.
+
+39
+
+[p. 306] non contiguum, à magnete debiliore at- trahere non possit *.
+
+CLXXVII.
+
+Cur magnes debilis, aut ferrum, à magnete fortiori ferrum sibi contiguum possit detrahere*.
+
+CLXXVIII. Cur in his Borealibus regionibus,polus Au- firalis magnetis sit fortior Boreali*.
+
+IO
+
+jOÔ PRINCIPIORUM PhILOSOPHLE Î88-289.
+
+se alliciendum. Notandum enim est hoc ferrum, quamdiu tangit magnetem C, attrahi non posse à magnete F quem non tangit, etiamsi hune illo multò potentio- rem esse supponamus. Cujus ratio est, quòd particule ftriatæ per hos duos magnetes, & per hoc ferrum, tanquam per unicum magnetem, modo suprà explicato b transeuntes, æqualem ferè habeant vim in toto spatio quod est inter C & F, nec idèo possint ferrum DE, non folâ iftâ vi magneticâ, sed insu- per conta&u suo magneti C alligatum, versus F ad- ducere.
+
+Atque hinc patet, cur sæpe magnes debilis, aut exiguum ferrum, detrahat aliud ferrum à magnete fortiore. Notandum enim est hoc nunquam fieri, niû cùm magnes debilior tangit illud ferrum, quod detrahit à i5 magnete fortiori. Quippe, cùm duo magnetes ferrum oblongum polis dissimilibus tangunt, unus in unâ extremitate, alius in aliâ, & deinde isti duo magnetes ab invicem removentur, ferrum intermedium non semper debiliori, nec etiam semper fortiori, sed modo uni, modo alteri adhæret : nullamque puto esse rationem, cur uni potiùs quàm alteri adhæreat, nisi quòd eum cui adhæret, in majori superficie quàm alium tangat.
+
+Ex eo verò, quòd magnes F juvet magnetem C ad ferrum DE sustinendum, manifestum est cur ille polus magnetis, qui
+
+a. Propriété 27, p. 286, 1. a3.
+
+b. Art. cliii, p. 292.
+
+c. Propriété 28, p. 286, 1. 26..
+
+d. Propriété 29, p. 287, 1. 3.
+
+[p. 307] 389-29°-
+
+J°7
+
+à nobis vocatur Australis, plus ferri sustineat quàm alter, in his Borealibus regionibus : etenim à Terra maximo magnete juvatur, eodem plané modo ac magnes C à magnete F ; contra autem alius polus, propter situm non convenientem, à Terra impeditur.
+
+Si paullô curiofiùs consideremus, quo pacto limatura ferri circa magnetem se disponat, multa ejus ope advertemus, quæ hactenus dicta confirmabunt. Nam in primis notare licet, ejus pulvifculos non confusè coacervari, sed unos aliis incumbendo, quosdam quasi tubulos compo|nere, pèr quos particulæ ftriatæ liberiùs quàm per aërem fluunt, quique idcirco earum vias designant. Quse viæ ut clarè ipsis oculis cerni possint, fpargatur aliquid istius limaturæ supra planum, in quo fit foramen cui magnes fphæricus ita immissus sit, ut polis suis utrimque planum tangat, eo modo quo Astronomorum globi Horizontis circulo immitti solent, ut sphæram rectam repræsentent, & limatura ibi sparsa difponet se in tubulos, qui flexus particularum flriatarum circa magnetem, sive etiam circa globum Terræ, à nobis supra descriptos b exhibebunt. Deinde, si alius magnes eodem modo isti piano juxta priorem inferatur, & polus Australis unius Borealem alterius respiciat, limatura circumfparfa ostendet etiam, quo pacto particulæ ftriatæ per istos duos magnetes tanquam per unicum moveantur. Ejus enim tubuli, qui ab uno ex polis le mutuò refpicienti- bus ad alium porrigentur, erunt omnino redi ; alii verò, qui ab uno ex adversis polis ad alium pertingent,
+
+CLXXIX. De iis quæ observari possunt in ferri limatura circa magnetem fparfd'.
+
+a. Propriété 3o, p. 287, 1. 6.
+
+b. Art. cxlvi, p. 287.
+
+[p. 308] ?o8
+
+Principiorum Philosophle
+
+erunt circa magnetes inflexi : ut hîc sunt lineæ BRVXTa. Notari etiam potest, cùm aliquid limaturæ ferri ex polo, ex. gr. Australi, unius magnetis pendet, si polus Australis alterius magnetis infrà poûti verjfus illam convertatur, & paullatim ei appropinquetur, quo pacto tubuli ex eâ conse&i primo sursum se retrahunt & infledunt : quia scilicet eæ particulæ ftriatæ, quæ per illos fluunt, repelluntur ab aliis quæ veniunt à magnete inferiore. Ac deinde, si iste inferior magnes multo potentior sit superiore, tubuli isti dissolvuntur, & limatura decidit in inferiorem : quia scilicet particulæ ftriatæ ex hoc inferiori ascendentes, impetum faciunt in singulos istius limaturæ pulvifculos, quos cùm ingredi non poffint, nisi per easdem illorum superficies quibus magneti superiori adhærent, eos ab hoc superiore disjungunt. Contra verò, si polo Australi superioris magnetis, cui limatura ferri adhæret, polus Borealis inferioris obvertatur, hæc limatura tubulos suos re&à versus inferiorem dirigit, & quantum potest producit: quia utrimque particulis ftriatis, ab uno magnete in alium transeuntibus, viam præbent; sed non ideò à superiori separatur, nisi priùs inferiorem tetigerit, propter vim contadûs, de quâ egimus
+
+[p. 309] 291-293.
+
+paullo antè a . Atque propter istam eandem vim, si limatura, magneti quantum vis forti adhærens, tangatur ab alio debiliori magnete, vel tantùm à ferreo aliquo bacillo, nonnullæ ejus partes fortiorem magnetem relinquent, & debiliorem, sive ferreum bacillum, sequen- tur : illæ scilicet, quæ majori superficie hune quàm illum tangent. Cùm enim exiguæ istæ superficies va- riée sint & inæquales, semper accidit, ut quasdam limaturæ particulas uni magneti vel ferro, alias alteri firmiùs jungant.
+
+Lamina ferrea, quæ, polo magnetis admota, ejus vim sustinendi ferri multùm auget, ut antè dictum est, impedit ejusdem vim ferri ad se alliciendi aut convertendi. | Nempe lamina Ded impedit ne magnes AB, cujus polo adjun&a est, acum E F ad se alliciat aut convertat. Jam enim adverti- / mus particulas striatas, quæ progrederentur à B versus E F absque hac lamina, in eâ refledi ex C versus extremitates DD, propterea quòd liberiùs per ipsam quàm per aërem fluunt, sicque vix ullse ad acum E F perveniunt. Eodem modo quo suprà diximus , paucas à mediâ Terræ regione ad nos pervenire, quia maxima earum pars, per interiorem cruftam superioris Terræ regionis, ab uno polo ad alium revertitur; unde fit,
+
+CLXXX. Cur lamina ferrea polo magnetis conjunâa, ejus vim trahendi vel convertendi ferri im- médiat b .
+
+20 Après lamina, la 1" édit. ajoute effet ; d'où la rédaction de
+
+la 2' édit. : si absque hac lamina effet.
+
+a. Art. clxxvi et clxxvii, p. 3o5 et 3o6.
+
+b. Propriété 3i, p. 287, 1. 8.
+
+c. Art. clxvi, p. 287.
+
+[p. 310] }I0
+
+Principiorum Philosophie
+
+CLXXXI.
+
+Cur eandem nullius alterius corporis inter- positio impediat*.
+
+CLXXXI I. Cur magnetis positio non conveniens ejus vires paullatim imminuat b .
+
+CLXXXIII. Cur rubigo, humiditas 6/itus, cas etiam imminuat, & vehemens ignis plané tollat °.
+
+ut debilis tantùm vis magnetica totius Terræ hîc apud nos sentiatur.
+
+Sed præter ferrum aut magnetem, nullum aliud corpus in locum laminæ C D poni potest, à quo magnes
+
+A B impediatur, ne vim suam in acum EF exerceat. Nullum enim habemus, in hac exteriore terra, quantumvis soli- dum & durum, in quo non sint plurimi meatus : non quidem ad mensuram particularum ftriatarum efformati, sed multò majores, utpote qui etiam globulos fecundi elementi recipiunt, & per quos idcirco istæ particulæ ftriatæ non minus libéré transire possunt quàm per aërem, in quo istos etiam globulos fecundi elementi obvios habent.
+
+Si ferrum aut magnes diu detineatur aliter conver- tis adTerram aliosve vicinos magnetes, quàm sponte se converteret si nihil ejus motum impediret, hoc ipso vires suas paullatim amittit : quia tune particulæ ftriatæ, ex Terra | vel aliis magnetibus vicinis adve- nientes, obliqué vel averfè ipsius meatibus occurrendo, paullatim eorum figuras mutant & corrumpunt.
+
+Denique vis magnetica humiditate, rubigine, ac situ valde minuitur ; & valido igné plané deletur. Rubigo enim, ex ferri ramentis efïlorefcens, meatuum orificia occludit ; idemque præstat aëris humiditas & situs, quia rubiginis initia sunt. Ignis autem agitatio istorum ramentorum positionem plané difturbat. Nihilque puto
+
+a. Propriété 32, p. 287, 1. 10.
+
+b. Propriété 33, ibid., I. 12.
+
+c. Propriété 34, ibid., 1. 16.
+
+[p. 311] »93-*94- Pars Quarta. j 1 1
+
+hactenus circa magnetem verè ac pro certo fuifife observatum, cujus ratio, ex iis quæ explicui, non facile intelligatur.
+
+Hîc autem occasione magnetis qui trahit ferrum, clxxxiv.
+
+,. .j - _ - A c „ De vi attraâionis in
+
+aliquid addendum elt de fuccino, gagate, cera, relina, juccmo, cerâ, refini, vitro & similibus, quæ omnia minuta corpora etiam ■' ,mt ' us ' trahunt. Quamvis enim mei non sit instituti, particu- laria ulla explicare, nisi quatenus requiruntur ad generaliora, de quibus egi, confirmanda ; nec examinare pofïim islam vim in gagate vel fuccino, nisi priùs ex variis experimentis plures alias eorum proprietates deducam, & ita intimam ipsorum naturam inveftigem : quia tamen eadem vis in vitro etiam est, de quo mihi paullô antè a fuit agendum ad ignis effectus demonftrandos, nisi eam explicarem, alia forsan quæ de illo scripsi, possent in dubium revocari. Præsertim quia forte nonnulli, videntes islam vim in fuccino, cerâ, refinâ, & oleagineis ferè omnibus reperiri, putabunt ipsam in eo consistere, quòd tenues quædam & raraofæ istorum corporum particule, fridione commotse (fridio enim ad illam vim excitandam requiri solet), per aèrem vicinum le diffundant, ac sibi mutuò adhæ- refcentes protinus revertantur, & minuta corpora quæ in itinere offen|dunt, secum trahant. Quemadmodum videmus ejusmodi pinguium liquefadorum guttas, bacillo appenfas, levi motu ita excuti poste, ut unâ earum parte bacillo adhærente, alia pars ad aliquam distantiam ab eo recédât, statimque revertatur, nec non feftucas, aliave obvia corpuscula secum adducat.
+
+3o Nihil enim taie in vitro licet imaginari, saltem si natura
+
+a. Art. cxxiv-cxxxiu, p. 270-275.
+
+[p. 312] Ji2 Principiorum Philosophie 394-395-
+
+ejus sit talis, qualem eam suprà descripsimus ; ac proinde in ipso alia istius attraftionis cauffa est affi- gnanda. clxxxv. Nempe ex modo quo illud generari di&um est a ,
+
+Quœ sit causa itlius at- • . r . . ..
+
+traâionis in vitro. facile colligitur, præter nia majufcula intervalla, per 5 quæ globuli fecundi elementi versus omnes partes transire possunt, multas etiam rimulas oblongas inter ejus particulas reperiri; quæ cùm sint angustiores, quàm ut istos globulos recipiant, soli materiæ primi elementi transitum præbent ; putandumque est, hanc 10 materiam primi elementi, omnium meatuum quos ingreditur figuras induere affuetam, per rimulas istas tranfeundo, in quasdam quasi fafciolas tenues, latas, & oblongas efformari, quæ, cùm similes rimulas in aère circumjacente non inveniant, intra vitrum se con- 1 5 tinent, vel certè ab eo non multùm evagantur, & circa ejus particulas convolutse, motu quodam circulari, ex unis ejus rimulis in alias fluunt. Quamvis enim materia primi elementi fluidiflima sit, quia tamen confiât minutiis inæqualiter agitatis, ut in tertiæ partis 20 art. 87 & 88 explicui b , rationi consentaneum est, ut credamus multas quidem ex maxime concitatis ejus minutiis à vitro in aèrem afîiduè migrare, aliasque ab aëre in vitrum earum loco reverti ; sed, cùm eæ quæ revertuntur, non sint omnes æque concitatæ, illas quæ 25 minimum habent agitationis, versus ri|mulas, quibus nulli meatus in aëre correspondent, expelli, atque ibi unas aliis adhérentes, fafciolas istas componere; quic fafeiola: idcirco successu temporis figuras acquirunt
+
+a. Art. cxxv, p. 270.
+
+b. Ci-avant p. 142 et 144.
+
+[p. 313] deri.
+
+395*96. Pars Quarta. } 1 J
+
+detérminatas, quas non facile mutare possunt. Unde fit, ut si vitrum satis validé fricetur, ita ut nonnihil incalefcat, ipsæ hoc motu foras excuffæ, per aërem quidem vicinum se difpergant, aliorumque etiam corporum vicinorum meatus ingrediantur ; sed quia non tam faciles ibi vias inveniunt, statim ad vitrum revol- vantur, & minutiora corpora, quorum meatibus sunt implicite, secum adducant.
+
+Ouod autem hîc de vitro notavimus, de plerisque clxxxvi.
+
+. ,-11 <j* Eandem ipsius cauffam
+
+alns corporibus etiam credi débet : nempe quod inter- ,-„ reiiquis etiam vi- ftitiaquædam inter eorum particulas reperiantur, quæ, cùm nimis angusta sint ad globulos fecundi elementi admittendos, solam materiam primi recipiunt, & cùm sint majora iis quse in aëre circumjacente soli isti materiæ primi elementi etiam patent, implentur minus agitatis ejus minutiis ; quæ sibi mutuô adjun&œ, particulas componunt, diversas quidem habentes figuras, juxta diversitatem istorum interftitiorum, sed maximâ ex parte fafciolarum instar tenues, latas & oblongas :
+
+ita ut, circa particulas corporum quibus insunt se con- volvendo, alfiduè moveri pofilnt. Interstitia enim à quibus figuram suam mutuantur, cùm debeant efife valde angusta, ut globulos fecundi elementi non admittant, nisi efifent oblonga rimarum instar, vix possent erTe majora iis, quœ inter aëris particulas à globulis ejusdem fecundi elementi non occupantur. Quapropter, etsi non negem, aliam cauffam attractionis antè expositam a in aliquibus forte corporibus locum habere posse, quia tamen non est ita generalis, & attractio | ista in valde
+
+3o multis corporibus observatur, non aliam puto in illis,
+
+a. Art. clxxxiv, p. 3n.
+
+Œuvris. III. 4°
+
+[p. 314] M4
+
+Principiorum Philosophle
+
+296.
+
+CLXXXVII. Ex Jiâis intelligi, quænam caussæ esse possint reliquorum omnium mirabilium effeâuum, qui ad occultas qualitates referri Solent.
+
+vel saltem in maximâ illorum parte, quàm in vitro esse quserendam.
+
+Cæterùm hîc notari velim, particulas istas in meatibus corporum terrestrium, ex materiâ primi elementi efformatas, non modo variarum attradionum, quales sunt in eleclro & in magnete, sed & aliorum innume- rabilium & admirandorum effectuum cauffas esse posse. Quæ enim in unoquoque corpore formantur, aliquid singulare habent in suâ figura, quo differunt à reliquis omnibus, in aliis corporibus formatis; cùmque retineant maximam agitationem primi elementi, cujus sunt partes, minimas ob cauffas fieri potest, ut vel extra corpus in quo sunt non evagentur, sed tantùm in ejus meatibus hinc inde difcurrant ; vel contra celerrimè ab eo discedant, & alia omnia corpora terrestria pervadentes, ad loca quantumlibet remota brevissimo tempore perveniant, ibique materiam suæ actioni reci- piendse idoneam invenientes, raros aliquos effectus producant. Et sanc quisquis conûderabit, quàm mirse sint magnetis & ignis proprietates, ac quàm diversæ ab iis quas vulgò in aliis corporibus observamus ; quàm ingens flamma ex minimâ fcintillâ momento temporis possit accendi, quàm magna sit ejus vis ; ad quam im- manem distantiam stellæ fixse lumen suum circumquaque diffundant; & reliqua, quorum cauffas, meo judicio, satis évidentes, ex principiis omnibus notis & ab omnibus admissis, figura scilicet, magnitudine, situ & motu particularum materiæ, in hoc scripto deduxi : facile sibi perfuadebit, nullas esse vires in lapidibus aut plantis tam occultas, nulla fympathiæ vel antipa-
+
+26 ex] & (i"édit.). Voir ci-après p. Si S, l.4etp.32S, l. 12.
+
+îo
+
+[p. 315] 296-297-
+
+îM
+
+thise miracula 3 tam stupenda, nihil | denique in naturâ univerfâ, quod ad cauffas tantùm corporales, sive mente & cogitatione deftitutas, debeat referri, cujus ratio ex iisdem illis principiis deduci non possit : adeò ut aliqua alia ipsis adjungere non sit necesse.
+
+Plura non adderem in hac quartâ Principiorum Phi- lofophise parte, si (quemadmodum mihi antehac in animo fuit) duas adhuc alias, quintam scilicet de vi- ventibus, sive de animalibus & plantis, ac sextam de homine scripturus b . Sed quia nondum omnia, de quibus in iis agere vellem, mihi plané perfpe&a sunt, nec scio an satis unquam otii habiturus sim ad ipsas abfolvendas, ne priores idcirco diutius retineam, vel quid in iis desideretur, quod ad alias refervârim, pauca quædam de sensuum obje&is hîc fubjungam. Quippe hactenus hanc Terram, totumque adeò hune mundum afpe&abilem, instar machinai descripsi, nihil præter figuras & motus in eo considerans ; sensus autem nostri multa alia nobis exhibent, colores scilicet, odores, sonos & similia, de quibus si plané tacerem, prsecipuam explicationis rerum naturalium partem viderer omififTe .
+
+Sciendum itaque humanam animam, etsi totum corpus informet, prsecipuam tamen sedem suam habere in cerebro, in quo solo non modo intelligit & imaginatur, sed etiam sentit : hocque opère nervorum, qui, filorum instar, à cerebro ad omnia reliqua membra protenduntur, iisque sie annexi sunt, ut vix ulla pars
+
+CLXXXVIII. De iis, quæ ex traâa- tionibus de animait & de homine, ad rerum materialium cognitionem mutuanda sunt.
+
+CLXXXIX.
+
+Quid sit sensus, & quomodo
+
+fiât.
+
+a. Voir t. V, r p. 389.
+
+b. Ibidem.
+
+c. Voir t. V, p. 291, 1. 27, à p. 292, 1. i3.
+
+[p. 316] cxc.
+
+De Sensuum dijlinâio- ne : ac prima de internis, hoc est, de animi affeâibus, £■ de appetitibus naturalibus.
+
+}i6 Principiorum Philosophie J97 -î 9 8.
+
+humani corporis tangi possit, quin hoc ipso moveantur aliquot nervorum extremitates per ipsam fparfæ, atque earum motus ad alias eorum nervorum extremitates, in cerebro circa sedem animæ collectas, trans- feratur, ut in Dioptries cajpite quarto a satis fusè explicui. Motus autem qui sie in cerebro à nervis excitan- tur, animam sive mentem intimé cerebro conjunctam b diversimodè afficiunt, prout ipsi sunt diversi. Atque hze diversæ mentis afFe&iones, sive cogitationes, ex istis motibus immédiate consequentes, sensuum perceptiones, sive, ut vulgò loquimur, sensus appellantur.
+
+Horum sensuum diversitates primo ab ipsorum nervorum diversitate, ac deinde à diversitate motuum, qui in singulis nervis fiunt, dépendent. Neque tamen fin- guli nervi faciunt singulos sensus à reliquis diversos, sed septem tantùm præcipuas difFerentias in iis notare licet, quarum duæ pertinent ad sensus internos, aliæ quinque ad externos. Nempe nervi qui ad ventricu- lum, æfophagum, fauces, aliasque interiores partes, explendis naturalibus desideriis destinatas, protenduntur, faciunt unum ex sensibus internis, qui appetitus naturalis vocatur. Nervuli verô qui ad cor & præcor- dia, quamvis perexigui sint, faciunt alium sensum internum, in quo consistunt omnes animi commotiones, sive pathemata, & affectus, ut lætitiæ, tristitiæ, amoris, odii, & similium. Nam, exempli cauffâ, sanguis rite temperatus, facile ac plus solito in corde se dilatans, nervulos circa orificia fparfos ita laxat & movet, ut înde alius motus in cerebro sequatur, qui naturali
+
+a. Tome VI, p. 109.
+
+b. Tome V, p. 3 1 3, 1. i5, et p. 347,1. 7.
+
+[p. 317] sg8-î99- Pars Quarta. jij quodam sensu hilaritatis afficit mentem : ac etiam alia? quævis caussæ, nervulos istos eodem modo moventes, eundem illum lætitiae sensum dant. Ita imaginatio fruitionis alicujus boni, non ipsa sensum lætitiæ in se habet, sed spiritus ex cerebro ad musculos, quibus illi nervi inserti sunt, mittit, eorumque ope orificia cordis expanduntur, & ejus nervuli mo|ventur eo motu, ex quo sequi débet ille sensus. Ita, audito grato nuncio, mens primùm de ipso judicat, & gaudet gaudio illo io intellectuali, quod sine ullâ corporis commotione habetur, quodque idcirco Stoici dixerunt cadere posse in sapientem ; deinde, cùm illud imaginatur, spiritus ex cerebro ad præcordiorum musculos fluunt, & ibi nervulos movent, quorum ope alium in cerebro motum i5 excitant, qui mentem afficit laetitiæ animalis sensu. Eâdem ratione sanguis nimis crassus, maligne in cordis ventriculos fluens, & non satis ibi se dilatans, alium quendam motum in iisdem præcordiorum nervulis sa- cit, qui cerebro communicatus sensum tristitiæ ponit
+
+in mente, quamvis ipsa forte nesciat cur triftetur : aliæque plures caussæ idem præstare possunt. Atque alii motus istorum nervulorum efficiunt alios affectus, ut amoris, odii, metûs, iræ, &c, quatenus sunt tantùm affectus, sive animi pathemata, hoc est, quatenus
+
+2 5 sunt confusæ quædam cogitationes, quas mens non habet à se solâ, sed ab eo quòd à corpore, cui intimé conjuncta est, aliquid patiatur. Nam diftinétaî cogitationes, quas habemus de iis quse amplectenda sunt, vel optanda, vel fugienda &c, toto génère ab istis
+
+3o affectibus distinguuntur. Non alia ratio est appeti- tuum naturalium, ut famis, sitis &c, qui à nervis ven-
+
+[p. 318] CXCI.
+
+De sensibus externis :
+
+ac primo de taâu.
+
+CXCII. De guflu.
+
+CXCIII. De odoratu.
+
+}18 Principiorum Philosophie 3 99 -3oo.
+
+triculi , faucium &c, pendent, suntque à voluntate comedendi, bibendi &c, plané diversi; sed quia, ut plurimum, ista voluntas sive appetitio eos comitatur, idcirco dicuntur appetitus.
+
+Quantum ad sensus externos, quinque vulgò numerantur, propter quinque diversa objectorum gênera, nervos iis servientes moventia, & totidem gênera cogitationum confusarum, quæ ab istis motibus in anima excitanjtur. Nam primo, nervi in universi corporis cu- tem definentes, illâ mediante à quibuslibet terrenis corporibus tangi possunt, & ab illis integris moveri, uno modo ab illorum duritie, alio à gravitate, alio à calore, alio ab humiditate &c; quotque diversis modis vel moventur, vel à motu suo ordinario impediuntur, tôt in mente diversos sensus excitant, ex quibus tôt tactiles qualitates denominantur. Ac præterea, cùm isti nervi solito vehementiùs agitantur, sed ita tamen ut nulla læsio in corpore inde sequatur, hinc fit sensus titillationis, menti naturaliter gratus, quia vires corporis, cui ar6tè conjuncta est, ei testatur; si verò aliqua læsio inde sequatur, fit sensus doloris. Atque hinc patet, cur corporea voluptas & dolor tam parum distent ab invicem in objecto, quamvis in sensu contrarii sint.
+
+Deinde alii nervi, per linguam & partes ei vicinas fparfi, ab eorundem corporum particulis, ab invicem disjundis, & simul cum falivâ in ore natantibus, diversimodè moventur, prout ipsorum figuræ sunt diversæ, sicque diversorum saporum sensus eftîciunt.
+
+Tertio, duo etiam nervi, sive cerebri appendices extra calvariam non exsertæ, moventur ab eorundem
+
+■ 5
+
+[p. 319] 3oo-3oi
+
+) l 9
+
+corporum particulis disjundis, & in aëre volantibus, non quidem quibuslibet, sed iis quæ satis subtiles ac simul satis vividæ sunt, ut in nares attradæ per ossis fpongiofi meatus usque ad illos nervos perveniant ; & à diversis eorum motibus fiunt diversorum odorum sensus.
+
+Quarto, duo alii nervi, in intimis aurium cavernis reconditi, excipiunt tremulos & vibratos totius aëris circumjacentis motus. Aër enim membranulam tym- pani | concutiens, fubjun&am trium officulorum ca- tenulam, cui isti nervi adhèrent, simul quatit ; atque ab horum motuum diversitate, diversorum sonorum sensus oriuntur.
+
+Denique nervorum opticorum extremitates, tuni- cam, retinam di&am, in oculis componentes, non ab aëre nec à terrenis ullis corporibus ibi moventur, sed à solis globulis fecundi elementi, unde habetur sensus luminis & colorum ; ut jam satis in Dioptricâ 3 & Meteoris explicui. Probatur autem evidenter, animam b non quatenus est in singulis membris, sed tantùm quatenus est in cerebro, ea quæ corpori accidunt in singulis membris nervorum ope sentire : primo, ex eo quòd morbi varii, solum cerebrum afficientes, omnem sensum tollant, vel perturbent ; ut & ipse somnus, qui est in solo cerebro, quotidie nobis magnâ ex parte adimit sentiendi facultatem, quam poftmodumvigilia restituit. Deinde, ex eo quòd, cerebro illsefo, û tantùm viæ, per quas
+
+cxciv.
+
+De auditu.
+
+CXCV. De y is u.
+
+CXCVI.
+
+Animam non sentire, mji quatenus est in cerebro.
+
+a. Discours VI. Voir t. VI, p. 13o.
+
+b. Discours VIII et Discours IX. Tome VI, p. 325 et p. 345. — Voir aussi t. V, p. 3go.
+
+[p. 320] }20
+
+Principiorum Philosophle
+
+CXCVII. Mentent esse talis na- tures, ut à solo corporis motu varii J en- Jus in eâ possint excitari.
+
+nervi à membris externis ad illud porriguntur, obftru- dæ sint, hoc ipso illorum membrorum sensus etiam périt. Ac denique, ex eo quôd dolor aliquando sentia- tur tanquam in quibusdam membris, in quibus nulla tamen est doloris caussa, sed in aliis per quæ transeunt nervi, qui ab illis ad cerebrum protenduntur. Quod ultimum innumeris experimentis ostendi potest, sed unum hîc ponere sufficiet. Cùm puellæ cuidam, raa- num gravi morbo affectam habenti, velarentur oculi quoties Chirurgus accedebat, ne curationis apparatu turbaretur, eique post aliquot dies brachium ad cubi- tum usque, ob gangrænam in eo serpentem, fuisset am- putatum, & panni in ejus locum ita fubftituti, ut eo se privatam esse plané ignoraret, ipsa intérim varios dolores, nunc in uno | ejus manûs quæ abscissa erat digito, nunc in alio se sentire querebatur : quod sanc aliunde contingere non poterat, quàm ex eo quôd nervi, qui priùs ex cerebro ad manum defeendebant, tuneque in brachio juxta cubitum terminabantur, eodem modo ibi moverentur, ac priùs moveri debuissent in manu, ad sensum hujus vel illius digiti dolentis, animæ in cerebro refidenti imprimendum.
+
+Probatur deinde talem esse nostræ mentis naturam, ut ex eo solo quod quidam motus in corpore fiant, ad quaslibet cogitationes, nullam istorum motuum imaginem referentes, possit impelli; & speciatim ad illas confusas, quæ sensus, sive sensationes, dicuntur. Nam videmus verba, sive ore prolata, sive tantùm scripta, quaslibet in animis nostris cogitationes & comrao- tiones excitare. In eâdem chartâ, cum eodem calamo & atramento, si tantùm calami extremitas certo modo
+
+[p. 321] 3oj-3o3.
+
+21
+
+supra chartam ducatur, literas exarabit, quæ cogitationes præliorum, tempestatum, furiarum, affedufque indignationis & tristitiæ in le&orum animis concita- bunt ; si verô alio modo ferè simili calamus moveatur, cogitationes valde diversas, tranquillitatis, pacis, amænitatis, affe&usque plané contrarios amoris & lætitiæ efficiet. Refpondebitur fortasse, scripturam vel loquelam nullos affe&us, nullafque rerum à se diver- farura imaginationes, immédiate in mente excitare, sed tantummodo diversas inteileftiones ; quarum deinde occasione anima ipsa variarum rerum imagines in se efformat. Quid autem dicetur de sensu doloris & titillationis ? Gladius corpori nostro admovetur, illud scindit : ex hoc solo sequitur dolor, qui sanc non minùs diversus est à gladii, vel corporis quod scinditur, locali motu, quàm color, vel sonus, | vel odor, vel sapor. Atque ideô, cùm clarè videamus, doloris sensum in nobis excitari ab eo solo, quôd aliquæ corporis nostri partes contactu alicujus alterius corporis localiter moveantur, concludere licet, mentem nollram esse talis naturs, ut ab aliquibus etiam motibus localibus, omnium aliorum fenluum affectiones pati possit.
+
+Preeterea non deprehendimus ullam differentiam z5 inter nervos, ex quâ liceat judicare, aliud quid per unos quàm per alios, ab organis sensuum externorum ad cerebrum pervenire, vel omnino quicquam eô pervenire,. præter ipsorum nervorum motum localem. Videmufque hune motum localem, non modo sensum
+
+3o titillationis vel doloris exhibere, sed etiam luminis & sonorum. Nam si quis in oculo percutiatur, ita ut
+
+Œuvres. III. 4'
+
+CXCVIII. Nihilà nobis in objeâis externis sensu deprehendi, præter ipsorum figuras, magni' tudines & motus.
+
+[p. 322] } 22 PRINCIPIORUM PhILOSOPHLE 3o3-3o4-
+
+i&ûs vibratio ad retinam usque perveniat, hoc ipso videbit plurimas fcintillas luminis fulgurantis, quod lumen extra ejus oculum non erit. Atque si quis aurem suam digito obturet, tremulum quoddam murmur audiet, quod à solo motu aèris in eâ inclusi procedet. Denique sæpe advertimus çalorem, aliafve fenfiles qualitates, quatenus sunt in objectis, nec non etiam formas rerum pure materialium, ut, ex. gr., formam ignis, à motu locali quorundam corporum oriri, atque ipsas deinde alios motus locales in aliis corporibus io efficere. Et optimècomprehendimus quo pa&o à varia magnitudine, figura & motu particularum unius corporis, varii motus locales in alio corpore excitentur; nullo autem modo possumus intelligere, quo pacto ab iisdem (magnitudine scilicet, figura & motu) aliquid o aliud producatur, omnino diversæ ab ipsis naturæ, quales sunt illæ formas substantiales & qualitates reaies, quas in rébus effe multi suppo|nunt; nec etiam quo pafto postea istæ qualitates autformæ vim habeant in aliis corporibus motus locales excitandi. Quæ cùm ita sint, & sciamus eam esse animæ nostræ naturam, ut diversi motus locales sufficiant ad omnes sensus in eâ excitandos ; experiamurque illos reipfâ varios sensus in eâ excitare, non autem deprehendamus quicquam aliud, præter ejusmodi motus, à sensuum externorum organis ad cerebrum transire : omnino concludendum est, non etiam à nobis animadverti, ea, quæ in objectis externis, luminis, coloris, odoris, saporis, foni, calons, frigoris & aliarum tadilium qualitatum, vel etiam formarum substantialium, nominibus indigita- 3o mus, quicquam aliud esse quàm istorum objectorum
+
+[p. 323] 3<>4-3o5.
+
+)2)
+
+varias dispositiones, quse efficiunt ut nervos nostros variis modis movere possint.
+
+Atque ita facili enumeratione colligitur, nulla naturæ phænomena fuisse à me in hac tractatione præ- termirTa. Nihil enim inter naturæ phænomena est recenfendum, nisi quod sensu deprehenditur. Atqui exceptis magnitudine, figura & motu, quæ qualia sint in unoquoque corpore explicui, nihil extra nos positum sentitur, nisi lumen, color, odor, sapor, sonus, & tactiles qualitates ; quæ nihil aliud esse, vel saltem à nobis non deprehendi quicquam aliud esse in objectis, quàm dispositiones quasdam in magnitudine, figura & motu confidentes, hactenus est demonstratum.
+
+Sed velim etiam notari, me hîc universam rerum materialium naturam ita conatum esse explicare, ut nullo plané principio ad hoc usus sim, quod non ab Aristotele, omnibusque aliis omnium seculorum Phi- lofophis fuerit | admissum : adeò ut hæc Philosophia non sit nova, sed omnium maxime antiqua & vulgaris. Nempe figuras & motus & magnitudines corporum confideravi, atque secundùm leges Mechanicæ, certis & quotidianis experimentis confirmatas, quidnam ex istorum corporum mutuo concursu sequi debeat, exa- minavi. Quis autem unquam dubitavit, quin corpora moveantur, variasque habeant magnitudines & figuras, pro quarum diversitate ipsorum etiam motus varien- tur, atque ex mutuâ collisione, quæ majufcula sunt in multa minora dividantur, & figura? mutent ? Hoc non uno tantùm sensu, sed pluribus, visu, tactu, auditu deprehendimus; hoc etiam distinctè imaginamur &
+
+cxcix.
+
+Nullæ naturæ phænomena in hac traâa- tione fuisse prxter- missa.
+
+CC.
+
+Nullis me in ea principiis usum esse, quæ non ab omnibus recipiantur ; haneque Philosophiam non esse novam, sed maxime antiquam & vulgarem.
+
+[p. 324] J 24 PRINCIPIORUM PHILOSOPHLE 3o5-3o6.
+
+intelligimus : quod de reliquis, ut de coloribus, de sonis & cæteris, quæ non ope plurium sensuum, sed singulorum duntaxat percipiuntur, dici non potest : semper enim eorum imagines in cogitatione nostrâ sunt confusæ, nec quidnam illa Tint scimus.
+
+„ . . ; At multas in singulis corporibus particulas consi-
+
+Dari particulas corpo- ° \ r mm infenjiies. dero, quæ nullo sensu percipiuntur : quod illi fortasse non probant, qui sensus suos pro mensurâ cognoscibilium sumunt. Quis autem potest dubitare, quin multa corpora sint tara minuta, ut ea nullo sensu de- «o prehendamus ? si tantùm confideret, quidnam singulis horis adjiciatur iis quæ lente augentur, vel quid detrahatur ex iis quæ minuuntur. Crescit arbor quotidie, nec potest intelligi majorem illam reddi quàm priùs fuit, nisi simul intelligatur aliquod corpus ei adjungi. i5 Quis autem unquam sensu deprehendit, quænam sint illa corpuscula, qua? in unâ die arbori crefcenti accef- ferunt? Atque saltem illi, qui agnoscunt quantitatem esse indefinitè divisibilem, fateri debent ejus partes reddi posse | tam exiguas, ut nullo sensu percipiantur. Et sanc mirum esse non débet, quòd valde minuta corpora sentire nequeamus; cùm ipsi nostri nervi, qui moveri debent ab objectis ad sensum efficiendum, non sint minutiffimi, sed, funiculorum instar, ex multis particulis se minoribus conflati ; nec proinde à minu- 2 5 tiflimis corporibus moveri possint. Nec puto quem- quam ratione utentem negaturum, quin longe meliùs sit, ad exemplum eorum quæ in magnis corporibus accidere sensu percipimus, judicare de iis quæ accidunt in minutis corpusculis, ob solam suam parvita- 3o tem sensum effugientibus, quam ad hæc explicanda,
+
+[p. 325] 3o6-3o7.
+
+P5
+
+.5
+
+Î0
+
+novas res nescio quas, nullam cum iis quæ sentiuntur similitudinem habentes, excogitare.
+
+At Democritus etiam corpuscula quædam imagina- batur, varias figuras, magnitudines & motus habentia, ex quorum coacervatione mutuifque concurfibus omnia sensilia corpora exfurgerent; & tamen ejus philo- fophandi ratio vulgò ab omnibus rejici solet. Verùm nemounquam illamrejecit,propterea quòd in eâ con- fiderarentur quædam corpora tam minuta ut sensum effugerent, quæ varias magnitudines, figuras & motus habere dicerentur; quia nemo potest dubitare, quin multa rêvera talia sint, ut modo ostensum est. Sed re- je&a est, primo, quia illa corpuscula indivisibilia iup- ponebat, quo nomine etiam ego illam rejicio; deinde, quia vacuum circa ipsa esse fingebat, quod ego nullum dari posse demonftro ; tertio, quia gravitatem iisdem tribuebat, quam ego nullam in ullo corpore, cùm solum spe&atur, sed tantùm quatenus ab aliorum corporum situ & motu dependet atque ad illa refertur, intelligo ; ac denique, quia non ostendebat, quo pafto res | singulæ ex solo corpusculorum concursu oriren- tur, vel si de aliquibus id ostenderet, non omnes ejus rationes inter se cohserebant : saltem quantum judicare licet ex iis, quæ de ipsius opinionibus mémoriæ prodita sunt. An autem ea quæ hactenus de Philosophiâ scripsi, latis cohæreant, aliis judicandum re- linquo.
+
+At infenfilibus corporum particulis determinatas figuras & magnitudines & motus affigno, tanquam si eas vidissem, & tamen fateor esse infenfiles ; atque ideò quærent fortasse nonnulii, unde ergo quales sint
+
+ccn.
+
+Democriti Philosophiam non minus differre à nostrâ, quàm à vulgari.
+
+CCIII. Quomodofiguras S motus particularum in- fenjîlium cognofca- mus.
+
+[p. 326] J2Ô PRINCIPIORUM PhILOSOPHLE 3ot-3o8.
+
+agnoscam. Quibus respondeo : me primo quidem, ex fimpliciffimis & maxime notis principes, quorum cognitio mentibus ncftris à naturâ indita est, generaliter confiderâfle, quænam præcipuæ differentiæ inter magnitudines & figuras & situs corporum, ob solam exiguitatem suam, infenfilium esse possent, & quinam fenfiles effectus ex variis eorum concurfibus seque- rentur. Ac deinde, cùm similes aliquos effectus in rébus sensibilibus animadverti, eas ex simili talium corporum concursu ortas existimâsse; præsertim cùm nullus alius ipsas explicandi modus excogitari posse videbatur. Atque ad hoc arte facta non parum me adjuverunt : nullum enim aliud, inter ipsa & corpora naturalia, discrimen agnosco, nisi quòd arte factorum operationes, ut plurimum, peraguntur instrumentis i5 adeò magnis, ut sensu facile percipi possint : hoc enim requiritur, ut ab hominibus fabricari queant. Contra autem naturales effectus ferè semper dépendent ab aliquibus organis adeò minutis, ut omnem sensum effug'iant. Et sanc nullæ sunt in Mechanicâ rationes, ?o quse non etiam ad Physicam, cujus pars vel species est, pertineant : nec minus naturale est | horologio, ex his vel illis rôtis compoûto, ut horas indicet, quàm arbori ex hoc vel illo semine ortæ, ut taies fructus producat. Quamobrem, ut ii qui in considerandis automatis 2 5 sunt exercitati, cùm alicujus machinæ usum sciunt & nonnullas ejus partes aspiciunt, facile ex istis, quo modo aliæ quas non vident sint factæ, conjiciunt : ita ex sensilibus effectibus & partibus corporum naturalium, quales sint eorum cauflse & particulæ infenfiles, 3o investigare conatus sum.
+
+[p. 327] 3o8-3o9.
+
+VI
+
+At quamvis forte hoc pafto intelligatur, quomodo res omnes naturales fieri potuerint, non tamen ideò concludi débet, ipsas rêvera sie factas esse. Nam quemadmodum ab eodem artifice duo horologia fieri possunt, quæ, quamvis horas æquè bene indicent, & extrinsecus omnino similia sint, intus tamen ex valde diiïimili rotularum compage constant : ita non dubium est, quin summus rerum opifex omnia illa, quæ videmus, pluribus diversis modis potuerit efficere. Quod equidem verum esse libentifîimè concedo, satisque à mepræftitum esse putabo, si tantùm ea quæ scripsi talia sint, ut omnibus naturæ phænomenis accuratè respon- deant. Hocque etiam ad usum vitæ sufficiet, quia & Medicina, & Mechanica, & cæteræ artes omnes, quæ ope Physicæ perfici possunt, ea tantùm quæ sensilia sunt, ac proinde inter naturæ phænomena numeranda, pro fine habent. Et ne quis forte sibi persuadeat, Aristotelem* aliquid ampliùs præstitisse, aut præstare voluisse, ipsemet in primo Meteorologicorum, initio capitis septimi, expressè testatur, de iis quæ fenfui non sunt manifesta, se putare sufficientes rationes & demonstrationes afferre, si tantùm ostendat ea ita fieri posse, ut à se explicantur.
+
+| Sed tamen, ne qua hîc veritati fraus fiât, considerandum est quædam esse quæ habentur certa moraliter, hoc est, quantum fufficit ad usum vitæ, quamvis si ad absolutam Dei potentiam referantur, sint incerta. Ut ex. gr., si quis légère velit epistolam, latinis quidem literis, sed non in verâ significatione positis, scriptam, & conjiciens, ubicunque in eâ est A, legen-
+
+a. Voir t. V, p. 550, 1. 4-
+
+CCIV.
+
+Sufficere si de infensi- bilibus qualia esse possint, explicuerim, etsi forte «on talia sint.
+
+CCV. Ea tamen quæ explicui, viderijaltem moraliter certa.
+
+[p. 328] J 28 Principiorum Philosophie 3o 9 -3io.
+
+dum esse B, ubi B legendum C, atque ita pro unâquâque literâ proximè sequentem esse fubftituendam, inveniat hoc pacto latina quædam verba ex iis componi : non dubitabit quin illius epistolæ verus sensus in istis verbis contineatur, etsi hoc solâ conjedurâ cognoscat, & fieri forsan possit, ut qui eam scripsit, non literas proximè sequentes, sed aliquas alias loco verarum posuerit, atque sie alium in eâ sensum occul- taverit : hoc enim tam difficulter potest contingere, ut non credibile videatur. Sed qui advertent quàm multa de magnete, de igné, de totius Mundi fabricâ, ex paucis quibusdam principiis hîc deducta ûnt, quamvis illa principia tantùm casu & sine ratione à me assumpta esse pu tarent, forte tamen agnofeent, vix potuisse contingere, ut tam multa simul cohærerent, i5 si falia essent 3 . CCVI - Præterea quædam sunt, etiam in rébus naturalibus,
+
+Imà plusquam mora- i y i . i r i • • n •
+
+u ter , quie abiolute ac pluiquam moraliter certa existimamus, hoc scilicet innixi Metaphysico fundamento, quòd Deus sit summè bonus & minime fallax, atque jo ideò facultas quam nobis dédit ad verum à falso diju- dicandum, quoties eâ rectè utimur, & quid ejus ope distinctè percipimus, errare non possit. Taies sunt Mathematicæ demonstrationes ; talis est cognitio quòd res materiales exsistant; & talia sunt evidentia omnia a5 ratiocinia, quee de ipsis fiunt. In quorum | numerum fortassis etiam hæc nostra recipientur ab iis, qui confiderabunt, quo pacto ex primis & maxime simplicibus cognitionis humanæ principiis, continua serie deducta sint. Præsertim si satis intelligant, nulla nos objecta 3o
+
+a. Voir t. V, p. 3oa, 1. 16.
+
+[p. 329] 10
+
+3 io.
+
+P9
+
+externa sentire posse, nisi ab iis aliquis motus localis in nervis nostris excitetur; talemque motum excitari non posse à stellis fixis, longissimè hinc distantibus, nisi fiât etiam aliquis motus in illis & in toto coelo inter- jacente : his enim admissis, cætera omnia, saltem generaliora quæ de Mundo & Terra scripsi, vix aliter quàm à me explicata sunt, intelligi posse videntur.
+
+At nihilominus, memor meæ tenuitatis, nihil affir- mo : sed hæc omnia, tum Ecclesiæ Catholicæ aufto- ritati, tum prudentiorum judiciis fubmitto; nihilque ab ullo credi velim, niû quod ipsi evidens & invicta ratio perfuadebit.
+
+CCVII. Sei me omnia mea Ec- clefice auâoritati sub- mittere.
+
+FINIS.
+
+Œuvres. III.
+
+## [p. 331] INDEX
+
+PRINCIPIORUM PHILOSOPHIE
+
+Avertissement m
+
+Epistola Dedicatoria i
+
+De principiis cognitionis humanæ.
+
+i. Veritatem inquirenti, semel in vitâ de omnibus, quantum ftcri potest, esse dubi- tandum 5
+
+2. Dubia etiam pro falsis habenda »
+
+3. Hanc intérim dubitationem ad usum vitæ non esse referendam »
+
+4. Cur possîmus dubitare de
+
+rébus sensibilibus »
+
+5. Cur etiam de Mathematicis
+
+demonstrationibus 6
+
+6. Nos habere liberum arbitrium, ad cohibendum assensum in dubiis, sicque ad errorem vitandum »
+
+7. Non posse à nobis dubitari, quin exiftamus dum dubitamus; atque hoc esse primum, quod ordine philosophando cognoscimus. . . »
+
+8. Distin&ionem inter animam
+
+& corpus, sive inter rem cogitantem & corpoream,
+
+hinc agnosci 7
+
+9. Quid sit cogitatio »
+
+10. Quæ fimpliciffima sunt & per se nota, definitionibus Logicis obscuriora reddi. & talia inter cognitiones studio acquisitas non esse numeranda 8
+
+1 1. Quomodo mens nostra notior sit quàm corpus »
+
+12. Cur non omnibus æque innotescat 9
+
+i3. Quo sensu reliquarum rerum cognitio à Dei cognitione dependeat »
+
+14. Ex eo quòd existentia ne- ceffaria in nostro de Deo conceptu contineatur, reftè concludi Deum exsistere. . io i5. Non eodem modo in aliarum rerum conceptibus
+
+[p. 332] H 2
+
+Index 
+ (7-8) 
+ exsistentiam necessariam , 
+ sed contingenter! dumtaxat contineri 10
+
+16. Præjudicia impedire, quominùs ista necessitas exsistentiæ Dei ab omnibus clarè cognoscatur »
+
+17. Quò cujusque ex nostris ideis objettiva perfeftio major est, eô ejus cauffam esse debere majorem 11
+
+18. Hinc rursus concludi , Deum exsistere »
+
+19. EtfiDei naturamnon comprehendamus, ejus tamen perfeftiones omni aliâ re clariùs à nobis cognosci. . 12
+
+ao. Nos non à nobis ipûs, sed à Deo sa<Etos, eumque proinde exsistere »
+
+31. Exsistentiæ nostræ durationem sufficere ad exûften- tiam Dei demonstrandam. i3
+
+22. Ex nostro modo exsisten- tiamDei cognoscendi.omnia ejus attributa naturali i.igenii vi cognoscibilia simul cognosci »
+
+i3. Deum noneffecorporeum, nec sentire ut nos, nec velle malitiam peccati «
+
+24. A Dei cognitione ad creaturarum cognitionem perveniri , recordando eum esse infinitum, & nos finitos 14
+
+25. Credenda esse omnia quæ à Deo revelata sunt, quamvis captum nostrum excé- dant »
+
+pô.Nunquamdifputandumeffe de infinito ; sei tantùm ea in quibus nullos fines advertimus, qualia sunt ex- tenfio mundi, divisibilitas partium materiæ.numerus 
+ stellarum &c, pro indefinitis habenda 14
+
+27. Quæ differentia sit inter indefinitum & infinitum.. i3
+
+28. Non causas finales rerum creatarum, sed efficientes esse examinandas »
+
+29. Deum non esse errorum caussam 16
+
+30. Hinc sequi omnia quas clarè percipimus, vera esse, ac tolli dubitationes antè recenfitas »
+
+3 1 . Errores nostros, si ad Deum referantur, esse tantùm negationes; si ad nos, privationes 17
+
+32. Duos tantùm in nobis esse modos cogitandi, perceptionem scilicet intelleflûs,
+
+& operationem voluntatis. »
+
+33. Nos non errare, nisi cùm de re non satis perfpeélâ judicamus »
+
+34. Non solùm intelleflum, sed etiam voluntatem, requiri adjudicandum 18
+
+35. Hancillolatiùspatere,errorumque caussam inde esse. »
+
+36. Errores nostros Deo imputari non posse »
+
+37. Summam esse hominis perfectionem, quòd agat li- bère, sive per voluntatem, & per hoc laude vel vitu- perio dignum reddi >
+
+38. Esse defeaum in nostrâ aftione, non in noftrà naturâ, quòd erremus ; & sæpe subditorum culpas aliis dominis, nunquam autem Deo, tribui posse. . 19
+
+39. Libertatem arbitrii efic per
+
+se notam »
+
+[p. 333] (8-9) Principiorum
+
+40. Certum etiam omnia esse à Deo præordinata ao
+
+41. Quomodo arbitrii nostri libertas & Dei prœordinatio simul concilientur »
+
+4a. Quomodo, quamvis noli- mus falli, fallamur tamen per nostram voluntatem. . »
+
+43. Nos nunquam falli, cùm solis clarè & diftinftè perceptis assentimur . . . 21
+
+44. Nos semper malè judicare, cùm assentimur non clarè perceptis, etsi casu incidamus in veritatem ; idque ex co contingere , quòd supponamus ea fuisse antea satis à nobis perfpefta »
+
+45. Quid sit perceptio clara, quid distincta »
+
+46. Exemplo doloris ostendi- tur, claram esse posse perceptionem, etli non sit distincta ; non autem distin- ftam, nisi sit clara 22
+
+47. Ad primæ auatis prx-judicia emendanda, simplices notiones esse considerandas, & quid in quâque sit clarum »
+
+48. Omnia quæ sub perceptionem nostram cadunt, spe- ftari ut res rerumve affe- fliones, vel ut ætcmas veritates ; & rerum enumeratio »
+
+49. jEternas veritates non posse ita enumerari, sed nec esse opus 23
+
+50. Eas clarè percipi, sed non omnes ab omnibus, propter præjudicia 24
+
+5i. Quid fitfubftantia; & qu6d istud nomen Deo & creaturis nonconveniat univocè. »
+
+PmLOSOPHIiE. 22}
+
+52. Quòd menti & corpori univocè conveniat, & quomodo ipsa cognoscatur. . . 24
+
+53. Cujusque substantiæ unum esse præcipuum attributum, ut mentis cogitatio, corporis extensio 2 5
+
+54. Quomodo claras & distinctas notiones habere possimus, substantiae cogitantis,
+
+& corporeœ, item Dei »
+
+55. Quomodo duratio, ordo, numerus etiam distinctè intelligantur a6
+
+56. Quid sint modi, qualitates, attributa »
+
+57. Quædam attributa esse in rébus, |alia in cogitatione. Etquid duratio & tempus. »
+
+58. Numerum & universalia omnia esse tantùm modos cogitandi. 27
+
+59. Quomodo universalia fiant,
+
+& quæ. sint quinque vulgata : genus, species, differentia, proprium, accidens »
+
+60. De diltinitionibus, ac primo de reali 28
+
+61. De diftinftione modali. . . . 29
+
+62. De distinctione rationis... 3o
+
+63. Quomodo cogitatio & ex- tenfio diftinttè cognosci possint, ut constituentes naturam mentis & corporis . »
+
+64. Quomodo etiam ut modi fubdantioe 3i
+
+65. Quomodo ipsarum modi sint etiam cognoscendi ... 32
+
+66. Quomodo sensus, affectus & appetitus, clarè cognoscantur, quamvis fxpe de
+
+iis malè judicemus »
+
+67. In ipso de dolore judicio fivpe nos falli ,
+
+[p. 334] m
+
+Index 
+ (9) 
+ 68. Quomodo in istis id, quod 
+ clarè cognoscimus, ab eo in quo falli possumus, fit distinguendum 33
+
+69. Longé aliter cognosci magnitudinem, figuram &c, quàm colores, dolores &c . »
+
+70. Nos posse duobus modis de sensibilibus judicium ferre : quorum uno errorem præcavemus, alio in errorem incidimus 34
+
+71. Præcipuam errorum causam à præjudiciis infantiæ procedere 35
+
+72. Alteram errorum causam esse, qu6d praejudiciorum oblivisci nequeamus 36
+
+73. Tertiam caussam eue, quòd defatigemur ad ea, quæ 
+ sensibus præsentia non sunt, attendendo ; & ideò atfueti simus de illis non ex præsenti perceptione, sed ex præconceptâ opinione judicare 37
+
+74. Quartam caussam esse, quòd conceptus nostros verbis, quæ rébus accuratè non respondent, alligemus. ... »
+
+75. Summa eorum quæ observanda sunt ad reftè philosophandum 38
+
+76. Autoritatem divinam per- ception! nostræ esse præfe- rendam; sed eâfeclufà, non decere Philosophum aliis quàm perceptis assentiri. . 69
+
+PARS SECUNDA. 
+ De Principiis rerum materialium.
+
+1. Quibus rationibus rerum 
+ materialium exfiftentiacer- tô cognoscatur 40
+
+2. Quibus etiam cognoscatur corpus humanum menti esse arâè conjunftum. ... 41
+
+3. Sensuum perceptiones, non quid rêvera lit in rébus, sed quid humano composito profit vel obsit, docere »
+
+4. Naturam corporis, non in pondère, duritie, colore, aut similibus, sed in solâ extensione consistere 42
+
+5. Præjudicia de rarefaftionc
+
+& de vacuo, hanc corporis 
+ naturam obscuriorem sa- cere 42
+
+6. Quomodo fiât rarefaftio ... 43
+
+7. Eam non posse ullo alio modo intelligibili explicari »
+
+8. Quantitatem & numerum
+
+differre tantùm ratione à
+
+re quanta & numerata 44
+
+9. Substantiam corpoream , cùm à quantitate suâ di- ftinguiiur, confusè concipi tanquam incorpoream ... 45
+
+10. Quid lit spatium, sive locus intcinus
+
+[p. 335] (9-io,
+
+PrINCIPIORUM PHILOSOPHIE.
+
+m
+
+1 1. Quomodo in re non différât à substantiâ corporeâ. 46
+
+12. Quomodo ab eâdem différât in modo quo concipitur »
+
+1 3. Quid sit locus externus ... 47
+
+14. In quo différant locus & spatium »
+
+i5. Quomodo locus externus pro fulperficie corporis ambientis reftè sumatur. . 48
+
+16. Repugnare ut detur vacuum, sive in quo nulla plané sit res 49
+
+17. Vacuum ex vulgi usu non excludere omne corpus. . . »
+
+18. Quomodo emendandum sit præjudicium de vacuo ab- folutè sumpto 5o
+
+19. Ex his ea confirmari, qux de rarefa&ione di&a sunt. »
+
+20. Ex his etiam demonllrari, nullas atomos dari posse.. 5i ai. Item mundum esse indcfi- nitè extensum 52
+
+22. Item unam & eandem elle materiam cœli & terrx ; ac plures mundos esse non posse »
+
+23. Omnem materiae variatio- nem, sive omnem ejus formarum diversitatem, pendere à motu »
+
+24. Quid sit motus juxta vulgarem sensum 53
+
+25. Quid sit motus propriè sumptus »
+
+26. Non plus actionis requiri ad motum, quàm ad quietem 54
+
+27. Motum & quietem esse tantùm diversos modos corporis moti 55
+
+28. Motum propriè sumtum non referri, nisi ad corpora
+
+55
+
+29
+
+3o.
+
+contigua ejus quod movetur
+
+Nec referri, nisi ad ea corpora contigua, quæ tanquam quiescentia fpeftantur »
+
+Cur, ex duobus corporibus contiguis quæ separantur ab invicem, unum potiùs quàm aliud moveri dicitur 56
+
+3i. Quomodo in eodem corpore innumeri diversi motus esse possint 57
+
+3a. Quomodo etiam motus propriè sumptus, qui in quoque corpore unicus esl, pro pluribus sumi possit. . »
+
+33. Quomodo in omni motu integer circuluscorporum
+
+simul moveatur 58
+
+Hinc sequi divisionem materiæ in particulas rêvera indefinitas, quamvis eæ nobis sint incomprehenfibiles
+
+Quomodo fiât ista divisio; & quòd non sit dubitan- dum quin fiât, etsi non comprehendatur 60
+
+36. Deum esse primariam motus causam, & eandem semper motûs quantitatem in universo conservare. . . Prima lex naturæ : quòd unaquæque res, quantum in se est, semper in eodem statu perseveret , sicque quod semel movetur, fem- per moveri pergat 62
+
+De motu projecîorum 63
+
+Altéra lex naturæ : quòd omnis motus ex se ipso sit ie£lus ; & ideò quæ circulariter moventur, tendere
+
+34
+
+59
+
+61
+
+37
+
+38. 3 9 .
+
+[p. 336] j}6 Index (io-h)
+
+semper ut recédant à cen- 56.Fluidorumparticulasæquatro circuli quem defcri- li vi versus omnes partes bunt 63 moveri. Et corpus durum
+
+40. Tertia Iex : quòd omne in fluido exsistens, à mini- corpus, alteri fortiori oc- ma vi porte determinari ad currendo, nihil amittat de motum 71
+
+suo motu ; occurrendo Sj. Ejusdem rei demonstratio. jl verô minus forti, tantum 58. Si quæ fluidi particule amittere quantum in illud tardiùs moveantur quàm transfert 65 corpus durum in ep exsi-
+
+41. Probatio prioris partis hu- ftens, illud hac in parte jus regulæ » fluidi rationem non ha-
+
+43. Probatio posterioris partis. 66 bere 75
+
+43. In quo consistat vis cujus- Sg. Corpus durum, ab alio que corporis ad agendum duro impulsum, non om- vel resistendum » item suum motum ab eo
+
+44. Motum non esse motui mutuari, sed partem etiam contrarium, sed quieti ; & à fluido circumjacente «
+
+determinationem in unam 60. Non porte tamen ab isto partem determinationi in fluido majorem celeritapartem oppositam 67 tem acquirere, quàm ha-
+
+45. Quomodo portit determi- beat à duro ; à quo impulnari quantum eu jusque sum est 76
+
+corporis motus mutetur 61. Cùm corpus fluidum topropteraliorumcorporum tum simul versus aliquam occurfum,idque per regu- partem fertur, necessariò las sequentes » secum déferre corpus du-
+
+46. Prima 68 rum quod in se continet. . »
+
+47. Secunda » 62. Cùm corpusdurum à fluido
+
+48. Tertia » sie defertur, non idcirco
+
+49. Quarta » moveri 77
+
+50. Quinta 69 63. Cur quaedam corpora tam
+
+51. Sexta » dura sint, ut, quamvis
+
+52. Septima » parva, non facile manibus
+
+J53. Harum regularum usum nostris dividantur »
+
+esse difficilem, propterea 64. Non alia principia in Phyquôd unumquodque cor- ficâ quàm in Geometriâ, pusàmultisfimultangatur. 70 vel in Mathesi abftraclâ, à
+
+54. Qua: sint corpora dura, me admitti, nec optari, quæ fluida » quia sie omnia naturx
+
+55. Durorum partes nullo alio phænomena explicantur, glutino simul jungi, quàm & certae de iis demonrtra- earum quiète 71 tiones dari portunt 78
+
+[p. 337] (il-IÎ
+
+Principiorum Philosophie.
+
+)}7
+
+De Mundo adfpe&abili.
+
+i. Opéra Dei nimis ampla cogitari non posse 80
+
+2. Cavendum esse, ne nimis superbè de nobis ipsis sentientes, fines quos Deus sibi proposuit in creando mundo, à nobis intelligi supponamus »
+
+3. Quo sensu dicipoffit,omnia propterhominemfaétæffe. 81
+
+4. De phænomenis, sive experimentis, & quis eorum usus ad philosophandum »
+
+5. Quæ sit ratio distantiæ &
+
+magnitudinis inter Solem, Terram & Lunam 82
+
+6. Quas fitdiftantiareliquorum
+
+planetarum à Sole »
+
+7. Fixas non posse supponi nimis remotas *
+
+8. Terram è cœlo confpe&am non apparituram esse nisi ut Planetam, love aut Saturno minorem »
+
+9. Solem & Fixas propriâ luce
+
+fulgere 83
+
+10. Lunam & alios Planetas lucem à Sole mutuari »
+
+1 1 . Terram ratione luminis à
+
+Planetis non differre 84
+
+12. Lunam, cùm nova est, à Terra illuminari »
+
+i3. Solem inter Fixas, & Terram inter Planetas posse numerari »
+
+14 Fixas eandem semper à se mutuò distantiam retinere,
+
+non autem Planetas »
+
+Œuvres. III.
+
+i5. Easdem Planetarum apparentias, per varias hypotheses posse explicari 84
+
+16. Hypothesim Ptolemæi ap- parentîis non satisfacere. . 85
+
+17. Hypotheses Copernici & Tychonis non differre, in quantum hypotheses »
+
+18. Tychonem verbo minus, sed re plus motûs Terras tribuere, quàm Copernicus »
+
+19. Me accuratiùs quàm Copernicum, & veriùs quàm Tychonem, Terrae motum negare 86
+
+20. Fixas fupponendas esse à Saturno| quammaximè distantes »
+
+21. Solem, instar flammæ, ex materiâ quidemvalde mobili constare, sed non ideo ex uno loco in alium migrare »
+
+22. Solem à flammâ differre, quod non ita egeat alimento 87
+
+23. Fixas omnes in eâdem fphærâ non versari, sed unamquamque vastum spatium circa se habere, aliis fixis destitutum »
+
+24. Cælos esse fluidos 89
+
+25. Cœlos omnia corpora in se contenta secum déferre. . . »
+
+36. Terram in cœlo suo quiescere, sed nihilominus ab
+
+eo deferri »
+
+43
+
+[p. 338] 2^8 Index
+
+27. Idemque sentiendum esse 42 de omnibus Planetis 90
+
+28. Terram, propriè loquendo, non moveri, nec ullos Planetas, quamvis à cœlo transferantur » 43
+
+29. Nullumetiammotum Terra esse tribuendum, quamvis motus impropriè juxta usum vulgi sumatur; sed 44, tune reftè dici alios Planetas moveri 91
+
+30. Planetas omnes circa So- 45 lem à cœlo deferri 92
+
+3t. Quomodo singuli Planetae
+
+deferantur » 46,
+
+32. Quomodo etiam Solis maculas 93
+
+33. Quomodo etiam Terra cir- 47, ca proprium centrum, &
+
+Luna circa Terram veha- tur 11
+
+34. Motus cœlorum non esse perfeflè circulares 94 48.
+
+35. DeaberrationePlanetarum
+
+in latitudinem »
+
+36. De motu in longitudinem. 95 49.
+
+37. Phaenomena omnia per hanc hypothesin facillimè
+
+intelligi » 5o.
+
+38. Iuxta Tychonis hypothesim dicendum esse, Ter- Si.
+
+ram moveri circa pro- 52.
+
+prium centrum 96
+
+39. Ac etiam illam moveri 53. circa Solem motu annuo.. 97
+
+40. Terrae translationem nul- 54. lam efficere adfpedûs di- verfitatemin Fixis,propter 55. maximam ipsarum diftan- 56. tiam »
+
+41. Hanc etiam fixarum distantiam requiri ad motum 57.
+
+Cometarum, quos jamcon- stat esse in cœlo 98
+
+(11)
+
+. Omnia quæ hîc in Terra videmus, ad phænomena etiam pertinere, sed non opus esse initio ad cunfta
+
+respicere 98
+
+Vix fkri posse quin caussæ, ex quibus omnia phænomena clarè deducuntur ,
+
+sint verae 99
+
+Me tamen eas, quas hîc exponam, pro hypothesi- bus tantùm haberi velle. . » Meque etiam hîc nonnullas affumpturum, quas confiât
+
+falsas esse »
+
+Quænam sint ea, quæ hîc affumo ad phænomena
+
+omnia explicanda 1 00
+
+Harum fuppofitionum fal- sitatem non impedire,quominus ea, quas ex ipsis deducentur, vera & certa
+
+esse possint toi
+
+Quomodo omnes cœlestis materioe particulæ faélx
+
+sint fphaericae io3
+
+Circa iftasparticulas fphee- ricàs aliam esse debere materiam subtiliorem 104
+
+Hujus fubtilioris materioe particulas facillimè dividi. » Easdem celerrimè moveri. » Tria esse hujus mundi adspectabilis elementa io5
+
+Très etiam in illo cælos
+
+distingui posse 106
+
+Quomodo Sol & fixas for- matas sint 107
+
+Quid sit lux to8
+
+Quis conatusad motum in rébus inanimatis sit intelligendus «
+
+Quomodo in codem corpore conatus ad diversos motus simul esse possint . . k
+
+[p. 339] (»z-i3) Principiorum
+
+58. Quomodo ea.quæ circulariter moventur, conentur recedere à centro sui motus 109
+
+|59. Quanta sit vis istius co- natûs m
+
+60. Hune conatum reperiri in materiâ cœlorum 112
+
+61. Ipsum efficere, ut corpora Solis & Fixarum sint rotunda »
+
+62. Eundem efficere, ut materiâ cœlestis ab omnibus punctis circumferentiæ cujusque stellæ vel Solis recedere conetur 1 1 3
+
+63. Globulos materiæ cœlestis se mutuò non impedire in isto conatu 114
+
+64. Omnes lucis proprietates in isto conatu inveniri : adeô ut lux ejus ope cerni posset tanquam ex stellis manans, etsi nulla vis effet
+
+in ipsis stellis 1 1 5
+
+65. Cujufquevorticis cœlorum polos, tangere partes aliorum vorticum ab eorum polis remotas 116
+
+66. Motus istorum vorticum aliquo modo infle&i, ut inter se consentiant 117
+
+67. Duorum vorticum polos se mutuò tangere non posse. 118
+
+68. Vortices istos esse magnitudine inaequales 119
+
+69. Materiam primi elementi ex polis cujusque vorticis fluere versus centrum, & ex centro versus alias partes »
+
+70. Idem de materiâ fecundi elementi non posse intelligi. 121
+
+71. Quæ sit ratio hujus diver- sitatis 123
+
+PHILOSOPHLE. }}9
+
+72. Quomodo moveatur materiâ, quæ Solem componit. 125
+
+73. Varias esse inæqualitates
+
+in situ corporis Solis »
+
+74. Varias etiam esse in ejus matejiæ motu 128
+
+75. Eas tamen non impedire, ne ejus figura sit rotunda. 129
+
+76. De motu primi elementi, dum versatur inter globulos fecundi i3i jy. Quomodo Solis lumen non modo versus Eclipticam, sed etiam versus polos se diffundat »'
+
+78. Quomodo versus Eclipticam se diffundat i33
+
+79. Quàm facile, ad motum unius exigui corporis, alia quammaximè ab eo remota moveantur u
+
+80. Quomodo lumen Solis tendat versus polos 1 34
+
+81. An æqualis sit ejus vis in polis & in Eclipticâ 1 35
+
+82. Globulos fecundi elementi Soli vicinos minores esse, ac celeriùs moveri quàm remotiores, usque ad cer- tain distantiam, ultra quam sunt omnes magnitudine asquales, & eô celeriùs moventur, quô sunt à Sole remotiores 137
+
+83. Cur remotissimi celeriùs moveantur quàm aliquantô minus remoti »
+
+84. Cur Solis proximi celeriùs etiam ferantur, quàm paulò remotiores 1 38
+
+85. Cur iidem Solis proximi sint remotioribus minores 140
+
+86. Globulos fecundi elementi variis modis simul moveri,
+
+[p. 340] H°
+
+Index
+
+(i3-I4)
+
+quo fit ut plané sphærici reddantur 142
+
+87. Varios esse gradus celeritatis in minutiis primi démenti »
+
+88. Eas ejus minutias quæ minimum hâbent celeritatis, facile idipsum quod hâbent aliis transferre, ac sibi mutuò adhærere 144
+
+89. Taies minutias, sibi mutuò adhærentes, præcipuè inveniri in eâ materiâ primi elementi, quæ à polis ad centra vorticum fertur ... »
+
+90. Qualis sit figura istarum minutiarum, quæ particulæ ftriatæ deinceps voca- buntur »
+
+91. Istas particulas, ab oppofi- tis polis venientes, contrario modo esse intortas. .. . 145
+
+92. Très tantùm ftrias in ipsis
+
+esse »
+
+93. Inter particulas striatas, & omnium minutissimas, varias esse aliarum magnitudines in primo elemento.. 147
+
+I94. Quomodo ex iis maculæ in Solis vel stellarum fuperfi- cie generentur »
+
+95. Hinc cognosci præcipuas harum macularum proprietates 148
+
+96. Quomodo iftæ maculæ dissolvantur, ac novæ generentur »
+
+97. Cur in quarundam extremitate colores iridis appareant »
+
+98. Quomodo maculæ in faculas vertaritur, vel contra. . 149
+
+99. In quales particulas macula; diflblvantur i5o
+
+100. Quomodo ex ipsis æther
+
+circa Solem & ftellasgene- retur. Huncque ætherem & istas maculas ad tertium elementum referri 1 5o
+
+101. Macularum produftionem & dissolutionem à caussis valde incertis pendere. . . . 1 5 1
+
+102. Quomodo eadem macula totum aliquod fidustegere possit »
+
+io3. Cur Sol aliquando visus est obscurior; & cur quarundam stellarum magnitudines apparentes mutentur i52
+
+104. Cur aliquæ fixæ difpa- reant, vel ex improviso appareant »
+
+io5. Multos esse meatus in maculis, per quos libéré transeunt particulæ ftriatæ 1 5 3
+
+106. Quæ sit dispositio istorum meatuum ; & cur particulæ ftriatæ per illos retrogredi non possint 154
+
+107. Cur etiam quæ veniuntab uno polo, non transeant per eosdem meatus, quàm quæ veniunt ab alio »
+
+108. Quomodo materia primi elementi per istos meatus fluat i55
+
+109. Quôd alii etiam meatus illos decuffatim interfe- cent 1 56
+
+110. Quôd lumen stellæ per maculam vix possit transire 157
+
+ni. Descriptio stellæ ex improviso apparentis 1 58
+
+112. Descriptio stellæ paulatim difparentis 160
+
+11 3. In omnibus maculis multos meatus à particulis ftriatis cxcavari 161
+
+[p. 341] (I4-I5)
+
+Principiorum Philosophle.
+
+w
+
+1 14. Eandem ftellam posse per vicesapparereacdifparere. 162
+
+n5. Totum aliquando vorticem, in cujus centro est stella, destrui posse »
+
+116. Quomodo destrui possit, antequam multae macula; circa ejus ftellam sint congregatae 164
+
+117. Quomodo permultæ macula; circa aliquam ftellam esse possint, antequam ejux vortex destruatur 1 66
+
+118. Quomodo istæ multæ maculas generentur »
+
+119. Quomodo Stella fixa mutetur in Cometam, vel in Planetam 168
+
+120. Quô feratur talis Stella, cùm primùm désinit fixa esse 169
+
+i2i. Quid per corporum soliditatem, & quid per eorum agitationem intelligamus. 170
+
+122. Soliditatem non à solâ materiâ, sed etiam à magnitudine ac figura pendere 172
+
+123. Quomodo globuli cælestes integro aliquo fidere soli- diores esse possint »
+
+124. Quomodo etiam esse possint minus solidi 173
+
+125. Quomodo quidam sint aliquo fidere magis solidi, alii minus 1 74
+
+126. De principio motûs Cometae »
+
+127. De continuatione motûs Cornets per diversos vortices 176
+
+128. Phaenomena Cometarum. 178
+
+129. Horum Phaenomenam explicatio 179
+
+i3o. Quomodo Fixarum lu- ŒuvRes. III.
+
+men ad Terram usque perveniat 180
+
+1 3 1 . An fixæ in veris locis videantur;& quid sit Firmamentum 182
+
+i32. Cur Cometæ à nobis non videantur, cùm sunt extra nostrum cœlum ; & obiter, cur carbones sint nigri, & cineres albi »
+
+1 33. De Cometarum coma, & variis ejus phænomenis.. . 1 85
+
+1 1 34.. De quâdam refraftione, à quâ ista coma dependet. 1 86
+
+1 3 5 . Explicatio istius refraftio- nis t
+
+1 36. Explicatio apparitionis comae 188
+
+137. Quomodo etiam trabes appareant 190
+
+1 38. Cur Cometarum cauda non semper in parte à Sole directe averfâ, nec semper recta videatur
+
+139. Cur taies comæ circa Fixas aut Planetas non appareant 191
+
+140. De principio motûs Planetæ 192
+
+141. Caussae à quibus ejus er- ronés pendent. Prima. .. . 193
+
+142. Secunda »
+
+143. Tertia »
+
+144. Quarta 194
+
+145. Quinta »
+
+146. De prima productione omnium Planetarum 195
+
+147. Cur quidam Planetæ sint aliis à Sole remotiores ; idque ab eorum magnitudine folâ non pendere. . . . 196
+
+148. Cur Soli viciniores celeriùs aliis moveantur ; & tamen ejus maculae sint tardiffima; »
+
+44
+
+[p. 342] j42 Index i5
+
+149. Cur Luna circa Terram 154. Cur secundarii Planetae gyret 197 qui sunt circa Iovem, tam i5o. Cur Terra circa suum celeriter; qui verò sunt axem vertatur 198 circa Saturnum, tam tarde l5l. Cur Lunaceleriùs feratur velnullomodomoveantur. 200
+
+quàm Terra » 1 55- Cur poli jEquatoris &
+
+i52. Cur semper Luna; faciès Eclipticæ multùm distent quamproximè eadem sit ab invicem aoi
+
+Terra; obverfa » 1 56. Cur paullatim ad invicem
+
+1 5 3. Cur Luna celeriùs ince- accédant 302
+
+dat, & à suo motu medio 157. Ultima & maxime geneminùs aberret, in conjun- ralis causa omnium inæclionibusquàminquadris; qualitatum, quæ in moti-
+
+& cur ejus cœlum non sit bus corporum mundanorotundum 1 99 rum reperiuntur »
+
+PARS QUARTA. De Terra.
+
+1 . Falsam hypothesim, quâ jam antè usi sumus, esse retinendam ad veras rerum naturas explicandas 2o3
+
+2. Quas sit generatio Terræ secundùmiftam hypothesim. »
+
+3. Diftinflio Terra; in très regiones,& prima; descriptio 204
+
+4. Descriptio secunda; 205
+
+5. Descriptio tertiæ »
+
+6. Particulas tertii elementi, quæ sunt in hac tertiâ regione, esse debere satis magnas »
+
+7. Ipsas à primo & secundo elemento posse immutari. 206
+
+8. Esse majores globulis secundi elementi, sed iisdem elle minus folidas & minus agitatas »
+
+10.
+
+1 1
+
+12
+
+i3
+
+16
+
+Eas ab initio sibi mutuò incubuiffe circa Terram 206
+
+Varia circa ipsas intervalla materia; primi & fecundi elementi relifla esse 207
+
+Globulos fecundi elementi eô minores Initio fuisse,quò centro Terra; viciniores . . » Meatufque inter ipsas habuisse angustiores »
+
+Non semper crassiores tenuioribus inferiores fuisse. 208 De prima formatione di- verforum corporum in tertiâ Terra; regione >
+
+De aflionibus, quarum ope ista corpora genita sunt; ac- prim6 de generali globulorum cœlestium motu »
+
+De primo hujus prima;
+
+[p. 343] (15-16)
+
+Principiorum Philosophie.
+
+W
+
+a&ionis esse|£lu, quòd reddat corpora pellucida 209
+
+17. Quomodo corpus solidum & durum, satis multos meatus habere ponît ad radios luminis tranfmit- tendos 210
+
+18. De secundo illius prima; aftionis effectu, quòd una corpora ab aliis fecernat,
+
+& liquores expurget »
+
+19. De tertio effectu, quòd li- quorum guttas reddat rotundas 211
+
+20. Explicatio fecundae actionis, quae gravitas vocatur. 212
+
+21. Omnes Terræ partes, si solæ spe&entur , non elle
+
+graves, sed levés »
+
+In quo consistât levitas
+
+materiæ cœlestis 2 1 3
+
+Quomodo partes omnes terra; ab iftâ materiâ cælefti deorsum pellantur, &
+
+ita fiant graves »
+
+24. Quanta sit in quoque corpore gravitas 214
+
+25. Ejus quantitatem non respondere quantitati materia; cujusque corporis »
+
+26. Cur corpora non gravitent in locis suis naturalibus . . 215
+
+27. Gravitatem corpora deprimere versus centrum Terrae.
+
+22.
+
+23
+
+216
+
+28. De tertiâ aftione, quæ est lumen; quomodo particulas aëris commoveat 217
+
+29. De quartâ, qua; est calor; quid fit, & quomodo sublato lumine perseveret. . . 218
+
+30. Cur altiùs penetret, quàm lumen »
+
+31. Cur corpora ferè omnia rarefaciat »
+
+32. Quomodo suprema Terræ regio in duo diverla corpora fuerit primùm divisa.
+
+33. Diftinftio particularum terrestrium in tria summa gênera
+
+34. Quomodo tertium corpus interduo priora sa&um fit.
+
+35. Particulas tantùm unius generis in isto corpore contineri
+
+36. Duas tantùm in eo esse ipe- cies illarum particularum.
+
+37. Quomodo infimum corpus C in plura alia fuerit divisum
+
+38. De formatione alterius quarti corporis supra tertium
+
+39. De hujus quarti corporis accretione, & tertii expurgatione
+
+40. Quomodo hoc tertium corpus fuerit mole imminu- tum, & spatium aliquod inter se & quartum reli- querit
+
+41. Quomodo multa; filîurx in quarto factae sint
+
+42. Quomodo ipsum in varias partes fit confractum
+
+43. Quomodo tertium corpus supra quartum ex parte afcenderit, & ex parte infra remanferit
+
+44. Inde in superficie Terra; ortos esse montes, campos, maria &c
+
+45. Quse sit aëris natura
+
+46. Cur facile raréfiât & den- fetur
+
+47. De violenta ejus compref- fione in quibusdam machinis
+
+48. De aquæ naturâ & cur sacilè,
+
+218
+
+220
+
+222
+
+223
+
+224
+
+225
+
+22t) 227 228
+
+230
+
+23l
+
+[p. 344] 244 Index
+
+modo in aërem, modo 66.
+
+in glaciem, vertatur 23a
+
+49. De fluxu & refluxu maris. » 67.
+
+50. Cur aqua horis 6 i/5 ascendat, & horis 6 i/5 descen- 68.
+
+dat 234
+
+5i. Cur aeftus maris sint majo- 69.
+
+res, cùm Luna plena est vel nova » 70.
+
+52. Cur in aequinoftiis sint maximi 236
+
+53. Cur aër & aqua semper ab
+
+Oriente in Occidentem 71.
+
+fluant »
+
+54. Cur in eàdem poli altitu- dine, regiones quæ mare habent ad Orientem, sint 72.
+
+aliis magis temperatæ 237
+
+55. Cur nullus fit fluxus nec refluxus in lacubus aut ftagnis ; & cur in variis lito- 73.
+
+ribus variis horis fiât »
+
+56. Quomodo ejus caussæ par- 74. ticulares, in singulis litoribus sint investigandæ. . . 238 |57. De naturâ terra; interioris » 75.
+
+58. De naturâ argenti vivi 239
+
+59. De inæqualitate caloris interiorem terram pervadentis » 76.
+
+60. De istius caloris a&ione... 240
+
+6 1 . De fuccis acribus & acidis, 77. ex quibus fiunt atramen- 78. tum futorium, alumen&c. 241
+
+62. De materiâ oleagineâ bitu- 79. minis, sulphuris &c 242
+
+63. De Chymicorum Principiis, & quomodo metalla in fodinas ascendant » 80.
+
+64. De Terra exteriore, & de
+
+origine fontium » 81.
+
+65. Cur mare non augeatur ex eo, quôd flumina in illud 82.
+
+fluant 243 83.
+
+(16-17)
+
+Cur fontes non sint falsi,
+
+nec mare dulcefcat 244
+
+Cur in quibusdam puteis
+
+aqua sit falsa »
+
+Cur etiam ex quibusdam montibus sal effodiatur. . . 245 De nitro aliisque salibus,
+
+à sale marino diversis »
+
+De vaporibus,spiritibus,& exhalationibus à terra interiore ad exteriorem ascendentibus »
+
+Quomodo ex varia eorum mifturâ varia lapidum, aliorumque fossilium gênera oriantur 246
+
+Quomodo metalla ex terra interiore ad exteriorem perveniant; & quomodo
+
+minium fiât »
+
+Cur non in omnibus terræ locis metalla inveniantur. 247 Cur potiflimùm inveniantur in radicibus montium, versus Meridiem & Orientem »
+
+Fodinas omnes esse in terra exteriore ; nec posse unquam ad interiorem fodiendo perveniri »
+
+De sulphure , bitumine,
+
+argillâ, oleo »
+
+Quomodo fiât terra; motus. 248 Cur ex quibusdam montibus ignis erumpat »
+
+Cur plures concuffiones fieri soleant in terra; motu, sicque per aliquot horas aut dies interdum duret. . 249 De naturâ ignis , ejusque
+
+ab aère diversitate »
+
+Quomodo primum excite-
+
+tur 25o
+
+Quomodo conservetur. . . . » Cur egeat alimento »
+
+[p. 345] (I7-I8)
+
+Principiorum Philosophle.
+
+H5
+
+84. Quomodo ex filicibus ex- 106. cutiatur 25 1
+
+85. Quomodo exlignis siccis.. 252 107.
+
+86. Quomodo ex collectione radiorum Solis 253 108.
+
+87. Quomodo àfolo motu val- deviolento » 109.
+
+88. Quomodo à diversorum corporum mifturâ »
+
+89. In fulmine, in stellis trajicientibus 254 110.
+
+90. In iis quæ lucent & non III. urunt : ut in stellis cadentibus » 112.
+
+91. In guttis aquæ marinæ, in lignis putridis, & simili bus. 2 55 1 1 3.
+
+92. In iis quæ incalefcunt & non lucent : ut in fæno inclufo 256
+
+93. In cake aquâ afperfâ, & 114. reliquis 257 1 1 5.
+
+94. Quomodo in cavitatibus terras ignis accendatur . . . 258
+
+95. Quomodo candela ardeat. » 116,
+
+96. Quomodo ignis in eâ conservetur 259 117.
+
+97. Curejus flamma fit acumi- 118. nata, & fumus ex eâ egrediatur » 119
+
+98. Quomodo aër & alia corpora flammam alant 260 120.
+
+99. De motu aëris versus ignem »
+
+100. De iis quæ ignem exftin- 121 guunt » 122
+
+101. Quid requiratur ut aliquod corpus alendo igni 123
+
+aptum sit 261 124
+
+102. Cur flamma ex fpirituvini ta5. linteum non urat »
+
+io3. Cur spiritus vini facillimè 126
+
+ardeat »
+
+104. Cur aqua difficillimè. . . . 262 io5. Curvismagnorumignium 127
+
+ab | aquâ aut salibus injeâis augeatur » 128
+
+Qualia sint corpora quæ facile uruntur 262
+
+Cur quædam inflammen- tur, alia non 263
+
+Cur ignis aliquandiu in prunis se conservet »
+
+De pulvere tormentario, ex sulphure, nitro & carbone confecto : ac primo, de sulphure »
+
+De nitro »
+
+De sulphuris & nitri conjunâione 264
+
+De motu particularum nitri »
+
+, Cur flamma hujus pulveris valde dilatetur, & praecipuè agat versus fupe- riora »
+
+De carbone »
+
+De granis hujus pulveris, in quo præcipua ejus vis consistat 265
+
+De lucernis diutiffimè ardentibus 266
+
+De reliquis ignis esse&i bus 267
+
+Quænam corpora illi ad- motaliquefcant& bulliant. » . Quænam ficcentur & durefcant 268
+
+De aquis ardentibus, infipidis,
+
+acidis »
+
+, De fublimatis & oleis 269
+
+. Quod.mutato ignis gradu,
+
+mutetur ejus effectus »
+
+. De calce »
+
+De vitro, quomodo fiât . . 270
+
+Quomodo ejus particulæ
+
+simul jungantur
+
+, Cur fit liquidum cùm candet, omnesque figuras sa- cile induat 271
+
+. Cur, cùm frigidum est,
+
+fit valde durum 272
+
+. Cur valde fragile »
+
+[p. 346] H 6
+
+Index 
+ (■8-i 9 ) 
+ 1 2g. Curejus fragilitas minuatur, si lente refrigeretur . . 272
+
+1 30. Cur fit pellucidum 273
+
+1 3 1 . Quomodo fiatcoloratum. 274 i3a. Cur fit rigidum instar arcûs ; & generaliter, cur rigida, cùm inflexa sunt, sponte redeant ad priorem figuram »
+
+1 33. De magnete. Repetitio eorum ex antè diftis, quœ ad ejus explicationem requiruntur 275
+
+1 34. Nullos in aëre necin aquâ esse meatus recipiendis particulis ftriatis idoneos. 276
+
+1 35. Nullos etiam esse in ullis corporibus terræ exterioris, præterquam in ferro.. 277
+
+1 36. Cur taies meatus sint in ferro »
+
+137. Quâ ratione etiam sint in singulis ejus ramentis 278
+
+1 38. Quomodo isti meatus apti reddantur ad particulas striatas, ab utrâvis parte venientes, admittendas ... »
+
+139. Quæ sit natura magnetis. 279
+
+140. Quomodo fufione fiât chalybs&quodvisferrum. 280
+
+141. Cur chalybs fit valde durus, rigidus & fragilis. ... 281
+
+142. Quæ sit differentia inter chalybem & aliud ferrum. »
+
+143. Quomodo chalybs tempe- retur »
+
+144. Quæ sit differentia inter meatus magnetis, chalybis &ferri 283
+
+145. Enumeratioproprietatum virtutis magneticæ 284
+
+146. Quomodo particulæ ftria- tæpcrTerrxmeatusfluant. 287
+
+147. Quôd difficiliùs transeant pcr aerem, aquam, & terrant extenorcm, quam per 
+ interiorem 288
+
+148. Quôd faciliùs transeant per magnetem, quàm per alia corpora hujus terræ exterioris 289
+
+149. Qui sint poli magnetis. . . » i5o. Cur isti poli se convenant
+
+versus polos Terras »
+
+1 5 1. Cur etiam certâ ratione versus ejus centrum se inclinent 290
+
+1 52. Cur unus magnes ad alium se convertat & inclinet, eodem modo|atque
+
+ad Terram 291
+
+i53. Cur duo magnetes ad invicem accédant, & quas sit cujusque sphæra a&ivita- tis 292
+
+154. Cur interdum se invicem réfugiant 294
+
+1 55. Cur fegmentorum magnetis partes, quæ ante feftio- nem junftas erant, se mutuò etiam réfugiant 295
+
+i56. Cur duo puncta, quæ priùs in eodem magnete contigua erant, in ejus fragmentis sint poli diver- fæ virtutis »
+
+157. Cur eadem sit vis in quâvis magnetis parte, ac in toto »
+
+1 58. Cur magnes suam vim ferro sibi admoto communicet 296
+
+159. Cur ferrum pro variis modis, quibus magnetiad- movetur , ipsam diversimodè recipiat »
+
+160. Cur ferrum oblongum eam non recipiat, nisi secundùm suam longitudinem 297
+
+[p. 347] (i9) Principiorum
+
+161. Cur magnes nihil amittat de suâ vi, quamvis eam ferro communicet 297
+
+162. Cur hæc vis celerrimè ferro communicetur, sed diuturnitate temporis in
+
+eo confirmetur 298
+
+i63. Cur chalybs ad eam recipiendam aptior fit, quàm
+
+vilius ferrum »
+
+164. Cur major ei communicetur à perfeftiore magnete, quàm à minus perse<Elo »
+
+i65. Cur ipsa etiam terra vim magnetis ferro tribuat »
+
+166. Cur vis magnetica in Terra debilior fit, quàm
+
+in parvis magnetibus 299
+
+167. Cur acus magnete tactæ semper suæ virtutis polos in extremitatibus suis habeant 3oo
+
+168. Cur poli magneticas virtutis non semper accuratè versus Terras polos dirigantur, sed ab iis varié déclinent »
+
+169. Cur etiam interdum ista declinatio cum tempore mutetur 3oi
+
+170. Cur in magnete supra unum ex suis polis erecto minor esse possit, quàm cùm ejus poli squaliter à Terra distant »
+
+171. Cur magnes trahat ferrum 302
+
+172. Cur magnes armatus, multò plus ferri sustineat quàm nudus »
+
+173. Cur ejus poli, quamvis contrarii, se invicem juvent ad ferrum sustinendum 3o3
+
+Philosophie. 347
+
+174. Cur gyratio rotulæ fer- res, à vi magnetis cui ap- pensa est, non impediatur. 3o4
+
+175. Quomodo & quare vis unius magnetis aug'eat vel minuat vim alterius 3o5
+
+176. Cur magnes, quantumvis fortis, ferrum sibi non contiguum, à magnete de- bilioreattrahere non possit. u
+
+177. Cur magnes debilis, aut ferrum, à magnete fortiori ferrum sibi contiguum possit detrahere 3o6
+
+178. Cur, in his Borealibus regionibus, polus Australis magnetis fit fortior Boreali »
+
+179. De iis quæ observari possunt in ferri limaturâ circa magnetem fparfâ 307
+
+180. Cur lamina ferrea, polo magnetis conjun&a, ejus vim trahendi vel convertendi ferri impediat 309
+
+181. Cur eandem nullius alterius corporis interpofitio impediat 3io
+
+182. Cur magnetis positio non conveniensejus vires paullatim imminuat »
+
+1 83. Cur rubigo, humiditas & situs, cas etiam imminuat, & vehemens ignis plané tollat »
+
+184. De vi attractionis in suc- cino, cerâ, refinâ, & fimi- libus 3i i
+
+1 85. Quœ sit cauffa istius at- traflionis in vitro 3 1 2
+
+186. Eandem ipsius cauffam in reliquis etiam videri 3 1 3
+
+1 1 87. Ex di&is intelligi, quænam caufse esse possint reliquorum omnium mirabilium
+
+[p. 348] H 8
+
+Index
+
+(10)
+
+effeituum, qui ad occultas qualitates referri solent 314
+
+188. De iis quæ, ex traftationi- bus de animali & de homine, ad rerum materialium cognitionem mutuanda sunt 3 1 5
+
+189. Quid sit sensus, & quomodo fiât »
+
+190. De sensuum distinctione : ac primo de internis, hoc est, de animi affectibus, &
+
+de appetitibus naturalibus. 3 16
+
+191. De sensibus externis : ac primo de tactu 3 18
+
+192. De guftu »
+
+193. De odoratu »
+
+194. De auditu 319
+
+195. Devifu »
+
+196. Animam non sentire, nisi quatenus est in cerebro. . . »
+
+197. Mentem esse talis naturæ, ut à solo corporis motu varii sensus in eâ poffint excitari 320
+
+198. Nihil à nobis in obje&is externis sensu deprehendi,
+
+præter ipsorum figuras, magnitudines & motus. .. 3ai
+
+199. Nulla naturæ phænomena in hac traflatione fuisse prætermissa 323
+
+200. Nullis me in eâ principiis usum esse, quæ non ab omnibus recipiantur ; hanc- que Philosophiam non esse novam, sed maxime anti- quam & vulgarem »
+
+201. Dari particulas corporum infenfiles 324
+
+202. Democriti Philosophiam nonminùsdifferreànoftrâ, quàm à vulgari 325
+
+203. Quomodo figuras & motus particularum infensi- lium cognoscamus »
+
+204. Sufficere fide infenfilibus, qualia esse possint, explicuerim, etsi forte non talia sint 327
+
+205. Ea tamen quæ explicui.vi- deritamenmoraliter certa. »
+
+206. Imô plus quàm moraliter. 328
+
+207. Sed me omnia mea Ecclefis aucloritatl fubmittere . 329
